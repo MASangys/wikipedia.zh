@@ -1,5 +1,5 @@
 **Postini**
-是由[Google提供的一套面向企业的](../Page/Google.md "wikilink")[电子邮件安全](../Page/电子邮件.md "wikilink")、存档及网络安全服务.
+是由[Google](../Page/Google.md "wikilink")提供的一套面向企业的[电子邮件](../Page/电子邮件.md "wikilink")安全、存档及网络安全服务.
 它通过[云计算抵御](https://zh.wikipedia.org/wiki/云计算 "wikilink")[垃圾邮件及病毒的攻击](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink"),
 通过集中存档的方式更安全的保存电子邮件，并方便管理员及用户的检索, 通过隔离网络病毒和间谍软件保护企业网络安全。
 

@@ -442,8 +442,8 @@ TV](https://www.youtube.com/watch?v=Km0jiWSiw3c&index=1&list=PLoKhrWwiWf4Z6LId3r
 1.
 2.
 3.
-4.  前[HITT成員](../Page/HITT.md "wikilink")
-5.  前[B2M娛樂練習生](../Page/B2M娛樂.md "wikilink")
+4.  前[HITT](../Page/HITT.md "wikilink")成員
+5.  前[B2M娛樂](../Page/B2M娛樂.md "wikilink")練習生
 6.
 7.
 8.

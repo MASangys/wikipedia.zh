@@ -1,8 +1,8 @@
-**组蛋白-赖氨酸N-甲基转移酶HRX**（）是人体中由*MLL（ALL1）*[基因编码的一种](../Page/基因.md "wikilink")[酶](../Page/酶.md "wikilink")。MLL代表髓样/淋巴样，或混合世系白血病\[1\]。
+**组蛋白-赖氨酸N-甲基转移酶HRX**（）是人体中由*MLL（ALL1）*[基因](../Page/基因.md "wikilink")编码的一种[酶](../Page/酶.md "wikilink")。MLL代表髓样/淋巴样，或混合世系白血病\[1\]。
 
-MLL是一种组蛋白[甲基转移酶](https://zh.wikipedia.org/wiki/甲基转移酶 "wikilink")，被认为是影响[基因转录的全局正向调控物](https://zh.wikipedia.org/wiki/基因转录 "wikilink")。该[蛋白属于](../Page/蛋白.md "wikilink")[组蛋白修饰酶类家族](https://zh.wikipedia.org/wiki/组蛋白修饰酶类 "wikilink")，包含了转活化结构域9aaTAD\[2\]，且参与了对转录记忆的[表观遗传学维持](https://zh.wikipedia.org/wiki/表观遗传学 "wikilink")。
+MLL是一种组蛋白[甲基转移酶](https://zh.wikipedia.org/wiki/甲基转移酶 "wikilink")，被认为是影响[基因转录的全局正向调控物](https://zh.wikipedia.org/wiki/基因转录 "wikilink")。该[蛋白](../Page/蛋白.md "wikilink")属于[组蛋白修饰酶类家族](https://zh.wikipedia.org/wiki/组蛋白修饰酶类 "wikilink")，包含了转活化结构域9aaTAD\[2\]，且参与了对转录记忆的[表观遗传学维持](https://zh.wikipedia.org/wiki/表观遗传学 "wikilink")。
 
-MLL基因若发生重排（即染色体结构改变造成遗传物质的重新排列）则会导致严重的急性[白血病](https://zh.wikipedia.org/wiki/白血病 "wikilink")，包括淋巴母细胞性及髓性\[3\]。该基因亦可能参与了[精神分裂症中](../Page/精神分裂症.md "wikilink")[GAD67表达下调的过程](https://zh.wikipedia.org/wiki/GAD67 "wikilink")\[4\]。
+MLL基因若发生重排（即染色体结构改变造成遗传物质的重新排列）则会导致严重的急性[白血病](https://zh.wikipedia.org/wiki/白血病 "wikilink")，包括淋巴母细胞性及髓性\[3\]。该基因亦可能参与了[精神分裂症](../Page/精神分裂症.md "wikilink")中[GAD67表达下调的过程](https://zh.wikipedia.org/wiki/GAD67 "wikilink")\[4\]。
 
 ## 交互作用
 

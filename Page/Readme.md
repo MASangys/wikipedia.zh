@@ -1,5 +1,5 @@
 [README-cURL.png](https://zh.wikipedia.org/wiki/File:README-cURL.png "fig:README-cURL.png")的自述文件\]\]
-**讀我檔案**（英文：Readme），又稱「**自述文件**」，是隨著[軟件發佈的一種說明文件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，裡面通常包含有軟件的描述或使用的注意事項。這種檔案通常是[純文字文件](../Page/文本文件.md "wikilink")，被命名為README.TXT、README.1ST或READ.ME等等，但也有[RTF](../Page/RTF.md "wikilink")、[DOC或](https://zh.wikipedia.org/wiki/DOC "wikilink")[Markdown格式的讀我檔案](https://zh.wikipedia.org/wiki/Markdown "wikilink")。檔名通常是以[大写英文字母組成](https://zh.wikipedia.org/wiki/大写字母 "wikilink")，這是因為大写字母比[小寫字母有著較小的](https://zh.wikipedia.org/wiki/小寫字母 "wikilink")[ASCII碼](../Page/ASCII.md "wikilink")，因此在一些以ASCII順序來排序檔案名稱的作業系統裡，它會被列在檔案列表的第一個。即使這些人沒有關於讀我檔案的知識，這種檔案的特殊命名方式也能夠使任何人迅速發現。
+**讀我檔案**（英文：Readme），又稱「**自述文件**」，是隨著[軟件發佈的一種說明文件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，裡面通常包含有軟件的描述或使用的注意事項。這種檔案通常是[純文字文件](../Page/文本文件.md "wikilink")，被命名為README.TXT、README.1ST或READ.ME等等，但也有[RTF](../Page/RTF.md "wikilink")、[DOC或](https://zh.wikipedia.org/wiki/DOC "wikilink")[Markdown格式的讀我檔案](https://zh.wikipedia.org/wiki/Markdown "wikilink")。檔名通常是以[大写英文字母組成](https://zh.wikipedia.org/wiki/大写字母 "wikilink")，這是因為大写字母比[小寫字母有著較小的](https://zh.wikipedia.org/wiki/小寫字母 "wikilink")[ASCII](../Page/ASCII.md "wikilink")碼，因此在一些以ASCII順序來排序檔案名稱的作業系統裡，它會被列在檔案列表的第一個。即使這些人沒有關於讀我檔案的知識，這種檔案的特殊命名方式也能夠使任何人迅速發現。
 
 ## 內容
 
@@ -18,7 +18,7 @@
 
 ## 通用介面說明
 
-讀我檔案偶爾也會被用來形容一些提供資訊的檔案，包含讀我檔案普遍的內容。在一些開放源碼的程式，特別是以[GNU建置系統打包的檔案裡](../Page/GNU.md "wikilink")，通常會包含：
+讀我檔案偶爾也會被用來形容一些提供資訊的檔案，包含讀我檔案普遍的內容。在一些開放源碼的程式，特別是以[GNU](../Page/GNU.md "wikilink")建置系統打包的檔案裡，通常會包含：
 
   - README：一般資訊
   - AUTHORS：參考

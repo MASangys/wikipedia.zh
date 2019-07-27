@@ -6,7 +6,7 @@ Games的子公司](../Page/Rockstar_Games.md "wikilink")。
 
 [Wienerbergstraße_02f.JPG](https://zh.wikipedia.org/wiki/File:Wienerbergstraße_02f.JPG "fig:Wienerbergstraße_02f.JPG")
 1993年1月4日，Niki Laber和Hannes
-Seifert二人在[維也納建立了neo](../Page/維也納.md "wikilink")
+Seifert二人在[維也納](../Page/維也納.md "wikilink")建立了neo
 Software，公司位於Wienerbergstraße的維也納商業園（Business Park
 Vienna）。他們開發電腦和家用電子遊戲機遊戲，主要為[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")。\[1\]。2001年2月，[Take-Two
 Interactive將其收購](../Page/Take-Two_Interactive.md "wikilink")。在2003年建立十週年的紀念晚會上，公司宣布加入Rockstar

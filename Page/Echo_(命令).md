@@ -1,5 +1,5 @@
 在[计算机技术中](https://zh.wikipedia.org/wiki/计算机技术 "wikilink")，**`echo`**是一个[DOS](../Page/DOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Singularity](../Page/Singularity.md "wikilink")、[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统中的](../Page/类Unix系统.md "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")，用来将[字符串输出到](../Page/字符串.md "wikilink")[终端上](https://zh.wikipedia.org/wiki/终端 "wikilink")。它通常在[shell脚本和](https://zh.wikipedia.org/wiki/shell脚本 "wikilink")[批处理中使用](../Page/批处理.md "wikilink")，以将状态信息输出到屏幕或文件中。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Singularity](../Page/Singularity.md "wikilink")、[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")中的[命令](../Page/命令_\(计算机\).md "wikilink")，用来将[字符串](../Page/字符串.md "wikilink")输出到[终端上](https://zh.wikipedia.org/wiki/终端 "wikilink")。它通常在[shell脚本和](https://zh.wikipedia.org/wiki/shell脚本 "wikilink")[批处理](../Page/批处理.md "wikilink")中使用，以将状态信息输出到屏幕或文件中。
 
 ## 使用范例
 
@@ -32,7 +32,7 @@ echo "${BGGREEN} Background in Green and back to Normal ${NORMAL}"
 
 有的Unix变种（例如Linux）支持选项`-n`和`-e`，且除非提供`-e`选项，否则不处理转义序列。例如，`` FGRED=`echo
 -e "\033[31m"` ``
-可能会在Linux下使用。不幸的是，由于历史上[BSD和](../Page/BSD.md "wikilink")[System
+可能会在Linux下使用。不幸的是，由于历史上[BSD](../Page/BSD.md "wikilink")和[System
 V的不兼容性](https://zh.wikipedia.org/wiki/System_V "wikilink")，这不是标准选项\[1\]；有问题时，可以使用[`printf`](https://zh.wikipedia.org/wiki/printf "wikilink")命令。因此，建议使用`printf`，确保转义序列被正确处理。等效的`printf`代码就是`` FGRED=`printf
 "\033[31m"` ``。
 
@@ -76,7 +76,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-[Perl中的实现也很简单](../Page/Perl.md "wikilink")：
+[Perl](../Page/Perl.md "wikilink")中的实现也很简单：
 
 ``` perl
 #!/usr/bin/env perl

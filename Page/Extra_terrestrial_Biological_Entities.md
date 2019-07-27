@@ -18,7 +18,7 @@ Crown》女主人公楪祈在自己的归处和的生死都不明的情况下，
 
 《行星生物》于2012年9月19日在日本发售了两种版本：常规CD版本和CD+DVD限量版\[11\]\[12\]。DVD包含歌曲《起程\~献给你的爱之歌\~》、《The
 Everlasting Guilty
-Crown》和《Planetes》的[音乐视频](../Page/音樂錄影帶.md "wikilink")，此外还有一支以《Planetes》配乐的视频用来推广[视觉小说](../Page/视觉小说.md "wikilink")《罪恶王冠：失落的圣诞节》\[13\]。这张专辑在2012年9月售出超过33,000份\[14\]，在[Oricon的每周专辑榜上](../Page/Oricon.md "wikilink")，它最高达到第9位，并在榜22周\[15\]。
+Crown》和《Planetes》的[音乐视频](../Page/音樂錄影帶.md "wikilink")，此外还有一支以《Planetes》配乐的视频用来推广[视觉小说](../Page/视觉小说.md "wikilink")《罪恶王冠：失落的圣诞节》\[13\]。这张专辑在2012年9月售出超过33,000份\[14\]，在[Oricon](../Page/Oricon.md "wikilink")的每周专辑榜上，它最高达到第9位，并在榜22周\[15\]。
 
 ## 曲目列表
 

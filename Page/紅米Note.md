@@ -153,12 +153,20 @@ TDD-LTE(B41:)、FDD-LTE(B1/B3)、CDMA(2000/1X/EVDO Rev.A 800MHz)、GSM(900/1800/
 <tr class="odd">
 <td><p>卫星定位</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>传输技术</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MicroUSB" title="wikilink">MicroUSB</a> 2.0、<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> b/g/n 、<a href="https://zh.wikipedia.org/wiki/蓝牙" title="wikilink">蓝牙</a>3.0HS、蓝牙4.0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MicroUSB" title="wikilink">MicroUSB</a> 2.0、双频<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> a/b/g/n/ac (2.4/5GHz)、<a href="https://zh.wikipedia.org/wiki/蓝牙" title="wikilink">蓝牙</a>4.0LE</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

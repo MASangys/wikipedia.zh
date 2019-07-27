@@ -1,10 +1,10 @@
 **Ubuntu for
-Android**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[Ubuntu变体](../Page/Ubuntu.md "wikilink")，设计用来在[Android手机上运行](../Page/Android.md "wikilink")。预计将被预装在手机上。\[1\]2012年[世界行動通訊大會上展示了一个](../Page/世界行動通訊大會.md "wikilink")*Ubuntu
+Android**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")变体，设计用来在[Android](../Page/Android.md "wikilink")手机上运行。预计将被预装在手机上。\[1\]2012年[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")上展示了一个*Ubuntu
 for Android*实体模型。\[2\]\[3\]截至2014年4月，该项目已不再处于活跃状态。\[4\]\[5\]
 
 ## 功能
 
-  - 同时在[移动设备上运行Ubuntu和](../Page/移动设备.md "wikilink")[Android](../Page/Android.md "wikilink")，而无需[模拟或](https://zh.wikipedia.org/wiki/仿真器 "wikilink")[虚拟化](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")，并不需要[重启](https://zh.wikipedia.org/wiki/重启 "wikilink")。由于Ubuntu和Android使用相同的[内核](../Page/内核.md "wikilink")（[Linux](../Page/Linux内核.md "wikilink")），所以这是可行的。\[6\]
+  - 同时在[移动设备](../Page/移动设备.md "wikilink")上运行Ubuntu和[Android](../Page/Android.md "wikilink")，而无需[模拟或](https://zh.wikipedia.org/wiki/仿真器 "wikilink")[虚拟化](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")，并不需要[重启](https://zh.wikipedia.org/wiki/重启 "wikilink")。由于Ubuntu和Android使用相同的[内核](../Page/内核.md "wikilink")（[Linux](../Page/Linux内核.md "wikilink")），所以这是可行的。\[6\]
   - 当设备连接到[显示器](../Page/显示器.md "wikilink")，提供一个标准Ubuntu桌面（[Unity](https://zh.wikipedia.org/wiki/Unity_\(用户界面\) "wikilink")）。\[7\]
   - 当设备连接到电视，界面提供[Ubuntu TV体验](../Page/Ubuntu_TV.md "wikilink")。\[8\]
   - 可以运行Ubuntu桌面应用，如[Firefox](../Page/Firefox.md "wikilink")、[Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")、[VLC等](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")。\[9\]

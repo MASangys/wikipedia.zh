@@ -12,7 +12,7 @@ ThreadSafe检测严重的Java并发缺陷，有助于提高代码并消除风险
   - 不可预知的结果 - 由于不正确处理并发集合，不当的错误处理，或混合对象同步。
   - 性能瓶颈 - 由于不正确的API使用，多余的同步，以及使用不必要的共享可变状态引起。
 
-ThreadSafe紧密集成[Eclipse软件开发环境](../Page/Eclipse.md "wikilink")，和[SonarQube软件质量管理平台](../Page/SonarQube.md "wikilink")。在开发环境中提供上下文信息，以帮助开发人员直接在代码中调查和解决并发问题。\[13\]\[14\]\[15\]
+ThreadSafe紧密集成[Eclipse](../Page/Eclipse.md "wikilink")软件开发环境，和[SonarQube](../Page/SonarQube.md "wikilink")软件质量管理平台。在开发环境中提供上下文信息，以帮助开发人员直接在代码中调查和解决并发问题。\[13\]\[14\]\[15\]
 有一个命令行版本提供给非Eclipse的集成开发环境用户和构建过程集成。
 
 ## 检查标准的遵守情况

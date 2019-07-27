@@ -1,16 +1,16 @@
-**Twitch**是[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[影音串流平台](https://zh.wikipedia.org/wiki/影音串流 "wikilink")，從[Justin.tv分割成立於](../Page/Justin.tv.md "wikilink")2011年6月6日。提供平台供遊戲玩家進行遊戲過程的實況，或供遊戲賽事的[轉播](https://zh.wikipedia.org/wiki/轉播 "wikilink")。也提供[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")，讓觀眾間進行簡單的互動。除了遊戲內容的串流，也允許實況進行Creative、Music、Social
+**Twitch**是[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[影音串流平台](https://zh.wikipedia.org/wiki/影音串流 "wikilink")，從[Justin.tv](../Page/Justin.tv.md "wikilink")分割成立於2011年6月6日。提供平台供遊戲玩家進行遊戲過程的實況，或供遊戲賽事的[轉播](https://zh.wikipedia.org/wiki/轉播 "wikilink")。也提供[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")，讓觀眾間進行簡單的互動。除了遊戲內容的串流，也允許實況進行Creative、Music、Social
 Eating等非遊戲的內容。縱使有[YouTube
 Gaming的競爭](../Page/YouTube.md "wikilink")，Twitch仍然保持優勢\[1\]\[2\]。
 
 ## 歷史
 
-2011年6月，從[Justin.tv分割成立](../Page/Justin.tv.md "wikilink")。
+2011年6月，從[Justin.tv](../Page/Justin.tv.md "wikilink")分割成立。
 
 2014年2月，Twitch.tv與Justin.Tv的母公司改名為「Twitch Interactive」\[3\]。
 
 2014年8月5日，Justin.tv關站。
 
-2014年8月25日，Twitch.tv以9.7亿美元被[亞馬遜公司收購](../Page/亞馬遜公司.md "wikilink")，成為其[子公司](../Page/子公司.md "wikilink")\[4\]。
+2014年8月25日，Twitch.tv以9.7亿美元被[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")收購，成為其[子公司](../Page/子公司.md "wikilink")\[4\]。
 
 2016年8月17日，宣布收購遊戲語音軟體及輔助程式—Curse。\[5\]
 

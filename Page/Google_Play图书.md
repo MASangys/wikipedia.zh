@@ -1,7 +1,7 @@
 **Google
-Play圖書**（），以前稱為**Google[電子書](../Page/電子書.md "wikilink")**（），是[Google提供的](../Page/Google.md "wikilink")[電子書](../Page/電子書.md "wikilink")[數位分發服務](https://zh.wikipedia.org/wiki/数字发行 "wikilink")。用戶可以從[Google
+Play圖書**（），以前稱為**Google[電子書](../Page/電子書.md "wikilink")**（），是[Google](../Page/Google.md "wikilink")提供的[電子書](../Page/電子書.md "wikilink")[數位分發服務](https://zh.wikipedia.org/wiki/数字发行 "wikilink")。用戶可以從[Google
 Play購買和下載](../Page/Google_Play.md "wikilink")[電子書](../Page/電子書.md "wikilink")，該服務提供超過500萬本[電子書](../Page/電子書.md "wikilink")，Google聲稱它是全球最大的電子書商店。用戶還可以向他們的Google
-Play圖書帳戶雲端存儲中上傳多達1000個[PDF或](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")[EPUB格式的電子書](../Page/EPUB.md "wikilink")，並在多個設備之間同步。但不支持上傳受到Google
+Play圖書帳戶雲端存儲中上傳多達1000個[PDF或](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")[EPUB](../Page/EPUB.md "wikilink")格式的電子書，並在多個設備之間同步。但不支持上傳受到Google
 Play圖書 [數字版權管理](../Page/数字版权管理.md "wikilink")（DRM）保護的電子書。\[1\]而使用Google
 Play圖書需要Google帳戶。
 

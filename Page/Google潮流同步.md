@@ -1,11 +1,11 @@
-**Google潮流同步**（，官方又译**Google新鲜汇**）是一个[Google于](../Page/Google.md "wikilink")2011年11月发布的社会化移动阅读器。支持[Android以及](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+**Google潮流同步**（，官方又译**Google新鲜汇**）是一个[Google](../Page/Google.md "wikilink")于2011年11月发布的社会化移动阅读器。支持[Android](../Page/Android.md "wikilink")以及[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 Google
 Currents会处理包括[Forbes](https://zh.wikipedia.org/wiki/Forbes "wikilink")，[CNET](../Page/CNET.md "wikilink")，[ReadWriteWeb](../Page/ReadWriteWeb.md "wikilink")，[IBN
 Live](https://zh.wikipedia.org/wiki/IBN_Live "wikilink")，[Zigwheels等相关资源后展示给用户](https://zh.wikipedia.org/wiki/Zigwheels "wikilink")。并且还支持离线阅读，可以展示世界、娱乐、体育和科学等各类最热门的突发新闻。Google
 Currents还支持将期刊内容翻译成多达44种用户喜好的语言。 \[1\]并且还支持离线阅读，Google
 Currents还支持将期刊内容翻译成多达44种用户喜好的语言。此外，Google
-Currents还可以阅读来自用户的[Google阅读器中已订阅的内容](../Page/Google阅读器.md "wikilink")。
+Currents还可以阅读来自用户的[Google阅读器](../Page/Google阅读器.md "wikilink")中已订阅的内容。
 
 Google Currents已于2013年11月20日与[Google
 Play杂志合并成Google](../Page/Google_Play.md "wikilink")
@@ -15,7 +15,7 @@ Play报亭，新版应用也于同日上架 Play 商店。
 
 从2012年下半年开始，中国大陆用户无法通过[Google
 Play安装或更新该apps](../Page/Google_Play.md "wikilink")，现象为长时间停留在下载状态一直无法开始。因为Google
-Currents能订阅境外杂志，绕过当局而获取未经审查的新闻资讯，故而遭到[防火长城的干扰](../Page/防火长城.md "wikilink")。但在中国国内的第三方的电子市场下载后，用户能正常使用。
+Currents能订阅境外杂志，绕过当局而获取未经审查的新闻资讯，故而遭到[防火长城](../Page/防火长城.md "wikilink")的干扰。但在中国国内的第三方的电子市场下载后，用户能正常使用。
 
 ## 竞争对手
 

@@ -21,9 +21,9 @@ stat2label = 篮板 | stat2value = 9,473 (场均7.4) | stat3label = 抢断 |
 stat3value = 1,033 (场均0.8) | letter = | bbr = | profile = | HOF = |
 HOF_player = | HOF_coach = }}
 
-**小A·C·格林**（，），[美国](../Page/美国.md "wikilink")[NBA联盟前职业](../Page/NBA.md "wikilink")[篮球运动员](../Page/篮球.md "wikilink")。他在1985年的[NBA选秀中第](../Page/NBA选秀.md "wikilink")1轮第23顺位被[洛杉矶湖人选中](../Page/洛杉矶湖人.md "wikilink")。{{\#tag:ref|[A·C·格林](http://stat-nba.com/player/1248.html)
+**小A·C·格林**（，），[美国](../Page/美国.md "wikilink")[NBA](../Page/NBA.md "wikilink")联盟前职业[篮球](../Page/篮球.md "wikilink")运动员。他在1985年的[NBA选秀](../Page/NBA选秀.md "wikilink")中第1轮第23顺位被[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")选中。{{\#tag:ref|[A·C·格林](http://stat-nba.com/player/1248.html)
 -
-数据NBA|name=nbastat}}**A·C·格林**先后效力于洛杉矶湖人队、菲尼克斯太阳队、达拉斯小牛队以及迈阿密热火队。从1986年11月19日洛杉矶湖人击败[圣安东尼奥马刺的比赛开始](../Page/圣安东尼奥马刺.md "wikilink")，到2001年4月18日迈阿密热火击败奥兰多魔术的比赛为止，**A·C·格林**连续出战到1192场，该记录至今无人能破，并获得了“铁人”（Iron
+数据NBA|name=nbastat}}**A·C·格林**先后效力于洛杉矶湖人队、菲尼克斯太阳队、达拉斯小牛队以及迈阿密热火队。从1986年11月19日洛杉矶湖人击败[圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")的比赛开始，到2001年4月18日迈阿密热火击败奥兰多魔术的比赛为止，**A·C·格林**连续出战到1192场，该记录至今无人能破，并获得了“铁人”（Iron
 Man）的称号。
 
 ## 参考资料

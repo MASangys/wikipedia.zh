@@ -1,4 +1,4 @@
-**CETME自動步槍**是由[西班牙特種材料技術研究中心](../Page/西班牙.md "wikilink")（Centro de
+**CETME自動步槍**是由[西班牙](../Page/西班牙.md "wikilink")特種材料技術研究中心（Centro de
 Estudios Técnicos de Materiales
 Especiales）於1950年配合由路德維希·福爾格里姆勒研製的[滾輪延遲反沖式閉鎖槍機開發出來的一系列武器](../Page/反沖作用_\(槍械\).md "wikilink")，該槍在不久更成為[西班牙軍隊的制式步槍](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")。
 
@@ -7,7 +7,7 @@ Especiales）於1950年配合由路德維希·福爾格里姆勒研製的[滾輪
 第二次世界大戰末期，[德國毛瑟公司設計了一款滾輪延遲反沖式的步槍Gerät](https://zh.wikipedia.org/wiki/德國 "wikilink")
 06(H)，並在1944年獲得了陸軍統帥部三十支樣槍的訂單並正式命名為[StG45](../Page/StG45突擊步槍.md "wikilink")，不過才快要完成零件生產，[二戰便結束了](https://zh.wikipedia.org/wiki/二戰 "wikilink")，毛瑟公司的一些員工被拘留於[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，並被[英國人命令完成製造這一小批武器供](https://zh.wikipedia.org/wiki/英國 "wikilink")[同盟國研究](https://zh.wikipedia.org/wiki/同盟國 "wikilink")。
 
-由於二戰後頭幾年德國不被允許進行武器研發，滾輪延遲反沖式閉鎖槍機的發明者[路德維希·福爾格里姆勒以及一群曾參與StG](https://zh.wikipedia.org/wiki/路德維希·福爾格里姆勒 "wikilink")45設計的工程師先被帶往[法國進行研發](https://zh.wikipedia.org/wiki/法國 "wikilink")，1950年時又被帶到了[西班牙的](../Page/西班牙.md "wikilink")[特種材料技術研究中心](https://zh.wikipedia.org/wiki/特種材料技術研究中心 "wikilink")，加入了一個研發新型槍械的專家小組，一開始西班牙方面並不信任他，不過在他的才能顯露出來之後，很快就改變態度，並批准了由他所負責的新槍研發專案，新槍很快地被製造出來，並取名為CETME步槍（CETME是西班牙特種材料技術研究中心的縮寫），原本發射和StG45相同的7.92×33mm
+由於二戰後頭幾年德國不被允許進行武器研發，滾輪延遲反沖式閉鎖槍機的發明者[路德維希·福爾格里姆勒以及一群曾參與StG](https://zh.wikipedia.org/wiki/路德維希·福爾格里姆勒 "wikilink")45設計的工程師先被帶往[法國進行研發](https://zh.wikipedia.org/wiki/法國 "wikilink")，1950年時又被帶到了[西班牙](../Page/西班牙.md "wikilink")的[特種材料技術研究中心](https://zh.wikipedia.org/wiki/特種材料技術研究中心 "wikilink")，加入了一個研發新型槍械的專家小組，一開始西班牙方面並不信任他，不過在他的才能顯露出來之後，很快就改變態度，並批准了由他所負責的新槍研發專案，新槍很快地被製造出來，並取名為CETME步槍（CETME是西班牙特種材料技術研究中心的縮寫），原本發射和StG45相同的7.92×33mm
 Kurz彈，後來研究了具有獨特設計的7.92×41mm CETME
 M53彈藥（有時稱作7.92×40mm）。7.92×40mm具有較修長比較符合空氣力學形狀的彈體，在較低的後座力下增加射程以及遠距離威力，7.92×40mm較大的彈體主要材質為較輕的鋁金屬並在中央周圍有一圈密度較高的銅金屬材質，在增加彈頭配重的同時，透過將較重材質分布在彈體周圍增加彈體在空中選轉時的離心力提供更高的飛行穩定度。最後採用將彈體等比例縮小成為的7.62×40mm
 CETME M53。
@@ -18,7 +18,7 @@ CETME彈，西班牙在1958年正式採用使用7.62×51mm CETME 的CETME步槍B
 B），其陸軍在1964年和空海軍在1974年相繼改為使用7.62×51mm
 NATO的C型（Model C）。
 
-1956年，原本[西德打算採用FN](../Page/西德.md "wikilink")
+1956年，原本[西德](../Page/西德.md "wikilink")打算採用FN
 FAL作為制式步槍，但是比利時不願意出售設計圖讓德國可以自主生產，西德便重新對CETME展示興趣。西班牙提供了使用7.62×51mm
 NATO的樣槍供德國測試。原本西班牙也不打算提供設計圖，但西德和擁有海外(西班牙外)相關銷售權利的荷蘭軍火公司以購買空軍20mm彈藥的合約作為交換獲得CETME設計圖，將設計以及製造任務交給在此之前由許多德國槍械設計師回到母國創立的[黑克勒-科赫公司](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")（Heckler
 & Koch），由黑克勒-科赫生產及改良的步槍成為當今著名的[HK
@@ -43,7 +43,7 @@ NATO，1964年被西班牙陸軍採用替代B型，1974年被海軍以及空軍�
 
 ### E型
 
-改用塑料及鋁製護木、握把及[槍托的版本](../Page/槍托.md "wikilink")，但基於可靠性問題，所以很快就停產。
+改用塑料及鋁製護木、握把及[槍托](../Page/槍托.md "wikilink")的版本，但基於可靠性問題，所以很快就停產。
 
 ### [L型及LC型](../Page/CETME_L型突擊步槍.md "wikilink")
 

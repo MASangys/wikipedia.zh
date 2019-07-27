@@ -50,7 +50,7 @@ LiquidFeedback提供幾項保護少數的機制。雖然最終仍依據多數決
 
 ## 技術規格
 
-前端以[Lua編寫](../Page/Lua.md "wikilink")，而後端以[PL/pgSQL編寫](https://zh.wikipedia.org/wiki/PL/pgSQL "wikilink")。兩部份都依據[MIT
+前端以[Lua](../Page/Lua.md "wikilink")編寫，而後端以[PL/pgSQL編寫](https://zh.wikipedia.org/wiki/PL/pgSQL "wikilink")。兩部份都依據[MIT
 License發佈](https://zh.wikipedia.org/wiki/MIT_License "wikilink")。同時還具備[API](https://zh.wikipedia.org/wiki/API "wikilink")，可將外部應用程式的附加特性增添到程式。
 
 ## 評論

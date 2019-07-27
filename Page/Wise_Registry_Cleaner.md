@@ -1,12 +1,12 @@
 Wise Registry
-Cleaner是WiseCleaner.com团队开发一款免费安全的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[注册表清理优化工具](../Page/注册表.md "wikilink")。该[免费软件主要功能分为三个模块](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，第一注册表清理，第二系统优化，第三注册表碎片整理。另外该软件可以与WiseCleaner.com的另一款垃圾清理工具[Wise
+Cleaner是WiseCleaner.com团队开发一款免费安全的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[注册表](../Page/注册表.md "wikilink")清理优化工具。该[免费软件主要功能分为三个模块](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，第一注册表清理，第二系统优化，第三注册表碎片整理。另外该软件可以与WiseCleaner.com的另一款垃圾清理工具[Wise
 Disk Cleaner配合使用](../Page/Wise_Disk_Cleaner.md "wikilink")，以最优化电脑性能。
 
 ## 产品特色
 
   - 该注册表清理工具可以安全快速地扫描注册表无效条目，提供详细信息查看功能，然后用户选择是否清理。
       - 无效的插件以及组件
-      - 无效的Windows[防火墙设置](../Page/防火墙.md "wikilink")
+      - 无效的Windows[防火墙](../Page/防火墙.md "wikilink")设置
       - 无效的路径及文件
       - 已删除文件残留的无效路径及文件
       - 已注册程序残留的无效路径及文件
@@ -26,12 +26,12 @@ Disk Cleaner配合使用](../Page/Wise_Disk_Cleaner.md "wikilink")，以最优�
   - 该款软件会标识出哪些注册表条目是可以安全删除，那些不确定是否安全。
   - 另外每次清理的东西，默认可以自动备份，以便还原，也可以设置不自动备份。第一次运行的时候会对注册表进行完整备份，也支持在其他任何时候进行完整注册表的手动备份和系统还原点建立。
   - 它支持简体中文多语言界面，支持XP下透明界面。
-  - 支持对注册表碎片进行整理，目前大部分国内主流软件都不具备该功能，如，[CCleaner](../Page/CCleaner.md "wikilink")，[金山卫士等等](../Page/金山卫士.md "wikilink")。
+  - 支持对注册表碎片进行整理，目前大部分国内主流软件都不具备该功能，如，[CCleaner](../Page/CCleaner.md "wikilink")，[金山卫士](../Page/金山卫士.md "wikilink")等等。
 
 ## 获奖记录
 
 Wise Registry
-Cleaner多次被[CNET的编辑高度评价](../Page/CNET.md "wikilink")，它的便携版本被Download.com选入重点关注列表。\[1\]除此之外，Wise
+Cleaner多次被[CNET](../Page/CNET.md "wikilink")的编辑高度评价，它的便携版本被Download.com选入重点关注列表。\[1\]除此之外，Wise
 Disk
 Cleaner还被德国最大的科技及下载网站CHIP评为优秀软件。\[2\]并且在2012年被PCWorld.com报道，也是电脑世界杂志编辑最喜爱的注册表清理工具。\[3\]多次被知名科技网站techsupportalert评为最佳注册表清理工具\[4\]，最佳Windows
 64位系统工具。\[5\]更多获奖历史参照： <http://www.wisecleaner.com/awards.html>

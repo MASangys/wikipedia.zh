@@ -1,5 +1,5 @@
 **三星Galaxy
-S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三星Galaxy系列分拆成的旗舰级](../Page/三星Galaxy.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")、[平板手机和](../Page/平板手机.md "wikilink")[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。
+S系列**是由[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列分拆成的旗舰级[智能手机](../Page/智能手机.md "wikilink")、[平板手机](../Page/平板手机.md "wikilink")和[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。
 
 ## 產品
 

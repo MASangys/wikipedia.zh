@@ -44,7 +44,7 @@ Performance](http://en.wikipedia.org/wiki/London_Awards_for_Art_and_Performance)
 乐队在2014年2月24日发行了第四张录音室专辑*[Present
 Tense](http://en.wikipedia.org/wiki/Present_Tense_\(Wild_Beasts_album\))*
 
-至今发行的4张专辑都受到了评论家的高度评价.在评论网站[Metacritic中](../Page/Metacritic.md "wikilink"),*[Limbo,_Panto](http://en.wikipedia.org/wiki/Limbo,_Panto)*从17家评论媒体中获得79分\[11\]（满分100分）,*[Two_Dancers](http://en.wikipedia.org/wiki/Two_Dancers)*从19家媒体中获得83分\[12\],*[Smother](http://en.wikipedia.org/wiki/Smother_\(album\))*从28家媒体中获得85分\[13\],*[Present
+至今发行的4张专辑都受到了评论家的高度评价.在评论网站[Metacritic](../Page/Metacritic.md "wikilink")中,*[Limbo,_Panto](http://en.wikipedia.org/wiki/Limbo,_Panto)*从17家评论媒体中获得79分\[11\]（满分100分）,*[Two_Dancers](http://en.wikipedia.org/wiki/Two_Dancers)*从19家媒体中获得83分\[12\],*[Smother](http://en.wikipedia.org/wiki/Smother_\(album\))*从28家媒体中获得85分\[13\],*[Present
 Tense](http://en.wikipedia.org/wiki/Present_Tense_\(Wild_Beasts_album\))*从27家媒体中获得86分\[14\]的好成绩.
 
 ## 唱片目录

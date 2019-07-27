@@ -1,5 +1,5 @@
 **Lexus
-RC**是[豐田汽車旗下的高價品牌](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[凌志於](../Page/凌志.md "wikilink")2014年所推出的雙門四人座[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")，於2013年[東京車展正式發布](../Page/東京車展.md "wikilink")。其車身外部導入了**LF-LC**和**LF-CC**兩款[概念車的設計元素](../Page/概念車.md "wikilink")，而後車燈則和**LF-Gh**概念車相似。內裝部分，與現行[雷克薩斯IS大同小異](https://zh.wikipedia.org/wiki/雷克薩斯IS "wikilink")，但在[時鐘的造型上做了少許改變](../Page/時鐘.md "wikilink")，且在車門內側增添了[LED氣氛燈](https://zh.wikipedia.org/wiki/LED "wikilink")，並導入更新一代的[Remote
+RC**是[豐田汽車旗下的高價品牌](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[凌志](../Page/凌志.md "wikilink")於2014年所推出的雙門四人座[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")，於2013年[東京車展](../Page/東京車展.md "wikilink")正式發布。其車身外部導入了**LF-LC**和**LF-CC**兩款[概念車](../Page/概念車.md "wikilink")的設計元素，而後車燈則和**LF-Gh**概念車相似。內裝部分，與現行[雷克薩斯IS大同小異](https://zh.wikipedia.org/wiki/雷克薩斯IS "wikilink")，但在[時鐘](../Page/時鐘.md "wikilink")的造型上做了少許改變，且在車門內側增添了[LED氣氛燈](https://zh.wikipedia.org/wiki/LED "wikilink")，並導入更新一代的[Remote
 Touch操控介面](https://zh.wikipedia.org/wiki/Remote_Touch "wikilink")。
 
 ## 引擎規格
@@ -15,8 +15,8 @@ F**。
 
 ### RC F
 
-**RC F** 於2014年的[底特律車展首次公開亮相](../Page/底特律車展.md "wikilink")。**RC
-F**是[凌志繼](../Page/凌志.md "wikilink")[IS
+**RC F** 於2014年的[底特律車展](../Page/底特律車展.md "wikilink")首次公開亮相。**RC
+F**是[凌志](../Page/凌志.md "wikilink")繼[IS
 F和](../Page/凌志IS.md "wikilink")[LFA所推出底一款](../Page/凌志LFA.md "wikilink")[凌志F系列的高性能車款](https://zh.wikipedia.org/wiki/凌志F系列 "wikilink")。
 
 車身後方設有電動[尾翼](../Page/尾翼.md "wikilink")，在車速高於80公里時會自動升起，且在車速低於40公里時會自動收回。\[1\]

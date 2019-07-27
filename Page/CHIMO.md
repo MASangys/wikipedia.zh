@@ -6,7 +6,7 @@
 
 ## 活動
 
-主要以[大分市和](../Page/大分市.md "wikilink")[別府市為中心在大分縣内進行活動](../Page/別府市.md "wikilink")。
+主要以[大分市](../Page/大分市.md "wikilink")和[別府市](../Page/別府市.md "wikilink")為中心在大分縣内進行活動。
 
 而且，定期進行原創歌曲公演，與鄰近縣[LinQ](../Page/LinQ.md "wikilink")（福岡縣）、[ひめキュン
 フルーツ缶](https://zh.wikipedia.org/wiki/ひめキュン_フルーツ缶 "wikilink")（愛媛縣）共同。
@@ -320,10 +320,10 @@
 
 ### 電視節目
 
-  - [一攫千金\!日本ルー列島](https://zh.wikipedia.org/wiki/一攫千金!日本ルー列島 "wikilink")（[富士電視台系](../Page/富士電視台.md "wikilink")）
+  - [一攫千金\!日本ルー列島](https://zh.wikipedia.org/wiki/一攫千金!日本ルー列島 "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")系）
   - [ドォーモ](https://zh.wikipedia.org/wiki/ドォーモ "wikilink")（[九州朝日放送等](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")）
   - [CHOCOっと](https://zh.wikipedia.org/wiki/CHOCOっと "wikilink")（[大分放送](https://zh.wikipedia.org/wiki/大分放送 "wikilink")）
-  - [乃木坂って、どこ?](https://zh.wikipedia.org/wiki/乃木坂って、どこ? "wikilink")（[東京電視台系](../Page/東京電視台.md "wikilink")）
+  - [乃木坂って、どこ?](https://zh.wikipedia.org/wiki/乃木坂って、どこ? "wikilink")（[東京電視台](../Page/東京電視台.md "wikilink")系）
 
 <!-- end list -->
 
@@ -372,6 +372,6 @@
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
 [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
 
-1.  以節目MC的[倫敦靴子](../Page/倫敦靴子.md "wikilink")[田村淳為中心](../Page/田村淳.md "wikilink")，在47都道府縣選出最可愛女性企劃。AKG47是「Atsushi
-    Kawaii Girl 47」的簡略，借日本的偶像組合[AKB48的名字](../Page/AKB48.md "wikilink")。
+1.  以節目MC的[倫敦靴子](../Page/倫敦靴子.md "wikilink")[田村淳](../Page/田村淳.md "wikilink")為中心，在47都道府縣選出最可愛女性企劃。AKG47是「Atsushi
+    Kawaii Girl 47」的簡略，借日本的偶像組合[AKB48](../Page/AKB48.md "wikilink")的名字。
 2.

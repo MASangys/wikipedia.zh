@@ -1,5 +1,5 @@
 **约翰·J·德吉奥亚**（
-），[美国](../Page/美国.md "wikilink")[乔治城大学第四十八任校长](../Page/乔治城大学.md "wikilink")（自2001年7月21日）\[1\]。德吉奥亚是乔治城大学哲学系的一名教师\[2\]
+），[美国](../Page/美国.md "wikilink")[乔治城大学](../Page/乔治城大学.md "wikilink")第四十八任校长（自2001年7月21日）\[1\]。德吉奥亚是乔治城大学哲学系的一名教师\[2\]
 。在他任校长期间，乔治城大学获得了其有史以来最大捐款\[3\]。2011年11月，德吉奥亚曾与[美国副总统](../Page/美国副总统.md "wikilink")[拜登前往](https://zh.wikipedia.org/wiki/拜登 "wikilink")[中国观看](https://zh.wikipedia.org/wiki/中国 "wikilink")[乔治敦大学队在中国的篮球比赛](https://zh.wikipedia.org/wiki/乔治城大学惊叹队 "wikilink")\[4\]。
 
 ## 参考资料

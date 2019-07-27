@@ -1,5 +1,5 @@
 **株式會社PEERLESS
-GERBERA**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。2011年10月20日\[2\]，由[Mausu
+GERBERA**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。2011年10月20日\[2\]，由[Mausu
 Promotion所屬經理槙潤](../Page/Mausu_Promotion.md "wikilink")\[3\]代表成立。
 
 ## 所屬聲優

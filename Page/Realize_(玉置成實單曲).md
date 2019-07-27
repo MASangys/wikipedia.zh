@@ -1,4 +1,4 @@
-《**Realize**》是2003年7月24日所发售的[玉置成實的第](../Page/玉置成實.md "wikilink")2支单曲。发售商为[Sony
+《**Realize**》是2003年7月24日所发售的[玉置成實](../Page/玉置成實.md "wikilink")的第2支单曲。发售商为[Sony
 Music Records](../Page/Sony_Music_Records.md "wikilink")。
 
 なお、同年9月26日にリプロダクション・シングル「**Realize Reproduction 〜-{GUNDAM}- SEED
@@ -33,7 +33,7 @@ EDITION〜**》是玉置成實第2支单曲的リプロダクション・シン�
 
   - オリジナル・シングルのボーカル・テイクをそのままに、リプロダクション（リアレンジメント&リテイク）された2曲と《機動戰士GUNDAM
     SEED》 片头曲Version、そして新曲「Long Way
-    Behind」を収録したスペシャルエディション盤である。[廣告標語是](../Page/廣告標語.md "wikilink")“**Reproduction再び…**”。
+    Behind」を収録したスペシャルエディション盤である。[廣告標語](../Page/廣告標語.md "wikilink")是“**Reproduction再び…**”。
   - 分完全初回限定包装和通常盤两种包装发售。
 
 <!-- end list -->

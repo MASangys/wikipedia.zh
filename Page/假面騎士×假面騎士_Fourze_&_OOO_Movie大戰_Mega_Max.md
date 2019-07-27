@@ -42,7 +42,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
 
 ### 假面騎士OOO
 
-**火野映司（）**（[渡部秀飾](../Page/渡部秀.md "wikilink")）
+**火野映司（）**（[渡部秀](../Page/渡部秀.md "wikilink")飾）
 
   -
     假面騎士OOO的變身者。TV版決戰過後再次流浪世界各地，兼任鴻上基金會屬下的研究助理，尋求Ankh復活的方法。
@@ -51,7 +51,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     受翔太郎的邀請，在**假面騎士Fourze「撫・子・降・臨」**篇中拉攏弦太朗一同阻止雷姆・神薙的陰謀。
     從再度由未來歸來湊海遙得到三枚未來核心硬幣，變身成超鷹虎蝗聯組，與Fourze合力撃敗超銀河王。
 
-**Ankh（）**（[三浦涼介飾](../Page/三浦涼介.md "wikilink")）
+**Ankh（）**（[三浦涼介](../Page/三浦涼介.md "wikilink")飾）
 
   -
     協助映司的鳥系怪人幹部。TV版決戰過後因自身意識的核心硬幣斷裂而消失於世上。
@@ -63,19 +63,19 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
   -
     過去與映司共同經歷患難的怪力少女。這次的事件中再次被捲入，但亦高興可再見到Ankh。
 
-**伊達明（）**（[岩永洋昭飾](https://zh.wikipedia.org/wiki/:ja:岩永洋昭 "wikilink")）
+**伊達明（）**（[岩永洋昭](../Page/岩永洋昭.md "wikilink")飾）
 
   -
     初代假面騎士Birth的變身者，TV版決戰事件過後再次從事醫學界的工作。
     此事件中被鴻上召集，變身成Birth Prototype戰鬥。
 
-**後藤慎太郎（）**（[君嶋麻耶飾](../Page/君嶋麻耶.md "wikilink")）
+**後藤慎太郎（）**（[君嶋麻耶](../Page/君嶋麻耶.md "wikilink")飾）
 
   -
     第二代假面騎士Birth的變身者，TV版決戰事件過後復職為警察。
     此事件中被鴻上召集，變身成Birth戰鬥。
 
-**里中エリカ（）**（[有末麻祐子飾](https://zh.wikipedia.org/wiki/:ja:有末麻祐子 "wikilink")）
+**里中エリカ（）**（飾）
 
   -
     鴻上光生的秘書，兼任假面騎士Birth助手。
@@ -87,13 +87,13 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     多國料理店的店長。
     店舖突然被Poseidon所製造的贗品Yummy入侵，仍然不失冷靜去疏散客人之餘，還交托映司和Ankh不用顧慮店舖去盡情戰鬥。
 
-**鴻上光生（）**（[宇梶剛士飾](https://zh.wikipedia.org/wiki/:ja:宇梶剛士 "wikilink")）
+**鴻上光生（）**（飾）
 
   -
     鴻上基金會會長。TV版決戰事件過後協助映司尋求資助，並致力計劃開發全新的核心硬幣。
     得知自己40年後的成果 － 假面騎士Poseidon是失敗之作後，覺得事態嚴重而向映司等人求救。
 
-**湊海遙（）**（[荒井敦史飾](https://zh.wikipedia.org/wiki/:ja:荒井敦史 "wikilink")）
+**湊海遙（）**（飾）
 
   -
     假面騎士AQUA的變身者，40年後的假面騎士。需要利用水力發動驅動器變身，但是他本人懼水的關係，導致得物無所用。
@@ -105,7 +105,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
 
 ### 假面騎士Fourze
 
-**如月弦太朗（）**（[福士蒼汰飾](../Page/福士蒼汰.md "wikilink")）
+**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")飾）
 
   -
     假面騎士Fourze變身者。天之川學園高中的2年級生。
@@ -116,7 +116,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     受翔太郎和映司邀請共同對付雷姆・神薙及一眾怪人，最後與OOO合力撃敗超銀河王。
     故事結尾遇見真正的美咲撫子，心知並非所認識的「她」，無奈的與其擦身而過。
 
-**歌星賢吾（）**（[高橋龍輝飾](../Page/高橋龍輝.md "wikilink")）
+**歌星賢吾（）**（[高橋龍輝](../Page/高橋龍輝.md "wikilink")飾）
 
   -
     天之川學園高中的2年級生，假面騎士部部員之一，如月弦太朗的拍擋。
@@ -124,14 +124,14 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     從月面基地「Rabbit Hutch」用儀器探測出撫子真身是宇宙生命體SOLU(Seeds Of Life from the
     Universe)。
 
-**城島悠木（）**（[清水富美加飾](../Page/清水富美加.md "wikilink")）
+**城島悠木（）**（[清水富美加](../Page/清水富美加.md "wikilink")飾）
 
   -
     天之川學園高中的2年級生，假面騎士部部員之一，弦太朗的青梅竹馬。
     與撫子相識後並教導她進行「友情之証」。
     弦太朗情緒低落時上前開解及鼓勵。
 
-**風城美羽（）**（[坂田梨香子飾](https://zh.wikipedia.org/wiki/:ja:坂田梨香子 "wikilink")）
+**風城美羽（）**（飾）
 
   -
     天之川學園高中的3年級生，假面騎士部部長。
@@ -143,20 +143,20 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     天之川學園高中的3年級生，假面騎士部部員之一。
     弦太朗失去撫子而沮喪的時刻，駕駛Powerdizer應戰。
 
-**野座間友子（）**（[志保飾](../Page/志保.md "wikilink")）
+**野座間友子（）**（[志保](../Page/志保.md "wikilink")飾）
 
   -
     天之川學園高中的1年級生，假面騎士部部員之一。
-    原本在研究發表會負責演講，但表現過份緊張改由風城美羽臨時代替，扮演[假面騎士AMAZON時卻樂在其中](../Page/假面騎士AMAZON.md "wikilink")。
+    原本在研究發表會負責演講，但表現過份緊張改由風城美羽臨時代替，扮演[假面騎士AMAZON](../Page/假面騎士AMAZON.md "wikilink")時卻樂在其中。
     與悠木一同前往開解情緒低落的弦太朗。
 
-**JK（）**（[土屋シオン飾](https://zh.wikipedia.org/wiki/:ja:土屋シオン "wikilink")）
+**JK（）**（飾）
 
   -
     天之川學園高中的1年級生，假面騎士部部員之一，學園情報通。
     對傳說之7人騎士研究發表會顯得相當輕視而一度缺席，並發言校園生活應交女朋友才是青春，弦太朗亦為此話題作出思考。
 
-**美咲撫子（）**（[真野惠里菜飾](../Page/真野惠里菜.md "wikilink")）
+**美咲撫子（）**（[真野惠里菜](../Page/真野惠里菜.md "wikilink")飾）
 
   -
     假面騎士Nadeshiko的變身者。身穿昴星高中制服的謎之少女。
@@ -171,19 +171,19 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     在對戰超銀河王途中，以無形能量體姿態出現替Fourze注入宇宙能量。
     最後與弦太朗進行「友情之証」並送上一吻後道別，回歸無盡的宇宙中。
 
-**大杉忠太（）**（[田中卓志飾](https://zh.wikipedia.org/wiki/:ja:田中卓志 "wikilink")）
+**大杉忠太（）**（飾）
 
   -
     天之川學園高中教師。
     學園祭中扮演占卜師替弦太朗偵測戀愛運。
 
-**我望光明（）**（[鶴見辰吾](https://zh.wikipedia.org/wiki/:ja:鶴見辰吾 "wikilink") 飾）
+**我望光明（）**（ 飾）
 
   -
     天之川學園高中的理事長。
     向財團X的雷姆・神薙提供Zodiarts天文裝置。曾派遣處女座Zodiarts捉拿美咲撫子(SOLU)並企圖私有，事敗後辯稱只因替其財團X作出行動。
 
-**朔田流星（）**（[吉澤亮飾](../Page/吉澤亮.md "wikilink")）
+**朔田流星（）**（[吉澤亮](../Page/吉澤亮.md "wikilink")飾）
 
   -
     假面騎士Meteor變身者。昴星高中2年級的謎之轉校生。
@@ -208,7 +208,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
 
 ### 財團X
 
-**雷姆・神薙（）**（[益-{岡}-徹飾](https://zh.wikipedia.org/wiki/:ja:益岡徹 "wikilink")）
+**雷姆・神薙（）**（飾）
 
   -
     資助我望光明的財團X代表,派員採集隕石表面的物質SOLU，之後在日本空港X的其宇宙船實驗室「Exodus」設下陷阱使7人騎士被轉變成核心硬幣與天文裝置。
@@ -222,15 +222,15 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     雷姆的部下。超進化生命體Mutamit實驗體之一，體力驚人，變身成Suddendath並和Fourze交手，最後被Fourze
     Rocket States用Rider Spin Crusher擊敗。
 
-**Solaris（）**（[人見早苗飾](https://zh.wikipedia.org/wiki/:ja:人見早苗 "wikilink")）
+**Solaris（）**（飾）
 
   -
-    雷姆的部下。超進化生命體Mutamit實驗體之一，體力驚人，變身成[麒麟座Zodiarts企圖阻止OOO與Fourze前進](../Page/麒麟座.md "wikilink")，最後被W
+    雷姆的部下。超進化生命體Mutamit實驗體之一，體力驚人，變身成[麒麟座](../Page/麒麟座.md "wikilink")Zodiarts企圖阻止OOO與Fourze前進，最後被W
     Cyclone Joker Xtreme形態用Bicker Charge Break擊敗。
 
 ## 登場假面騎士
 
-  - **假面騎士OOO**（替身演員：[高岩成二](https://zh.wikipedia.org/wiki/:ja:高岩成二 "wikilink")、CV：[渡部秀](../Page/渡部秀.md "wikilink")）
+  - **假面騎士OOO**（替身演員：、CV：[渡部秀](../Page/渡部秀.md "wikilink")）
       - 鷹虎蝗聯組
       - 鳥系聯組
       - 昆蟲系聯組
@@ -255,7 +255,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士Fourze**（替身演員：[高岩成二](https://zh.wikipedia.org/wiki/:ja:高岩成二 "wikilink")、CV：[福士蒼汰](../Page/福士蒼汰.md "wikilink")）
+  - **假面騎士Fourze**（替身演員：、CV：[福士蒼汰](../Page/福士蒼汰.md "wikilink")）
       - Base States
       - Elek States
       - Fire States
@@ -273,7 +273,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士Joker**（替身演員：[高岩成二](https://zh.wikipedia.org/wiki/:ja:高岩成二 "wikilink")、CV：[桐山漣](../Page/桐山漣.md "wikilink")）
+  - **假面騎士Joker**（替身演員：、CV：[桐山漣](../Page/桐山漣.md "wikilink")）
 
 <!-- end list -->
 
@@ -282,7 +282,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士W**（替身演員：[高岩成二](https://zh.wikipedia.org/wiki/:ja:高岩成二 "wikilink")、CV：[桐山漣](../Page/桐山漣.md "wikilink")．[菅田將暉](https://zh.wikipedia.org/wiki/:ja:菅田将暉 "wikilink")）
+  - **假面騎士W**（替身演員：、CV：[桐山漣](../Page/桐山漣.md "wikilink")．[菅田將暉](../Page/菅田將暉.md "wikilink")）
       - Cyclone Joker
       - Heat Metal
       - Luna Trigger
@@ -295,7 +295,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士Birth**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[君嶋麻耶](https://zh.wikipedia.org/wiki/:ja:君嶋麻耶 "wikilink")）
+  - **假面騎士Birth**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[君嶋麻耶](../Page/君嶋麻耶.md "wikilink")）
 
 <!-- end list -->
 
@@ -305,7 +305,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 <!-- end list -->
 
   - **假面騎士Birth
-    Prototype**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[岩永洋昭](https://zh.wikipedia.org/wiki/:ja:岩永洋昭 "wikilink")）
+    Prototype**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[岩永洋昭](../Page/岩永洋昭.md "wikilink")）
 
 <!-- end list -->
 
@@ -314,7 +314,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士AQUA**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[荒井敦史](https://zh.wikipedia.org/wiki/:ja:荒井敦史 "wikilink")）
+  - **假面騎士AQUA**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：）
 
 <!-- end list -->
 
@@ -324,7 +324,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士Poseidon**（替身演員：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")、CV：[濱田賢二](../Page/濱田賢二.md "wikilink")）
+  - **假面騎士Poseidon**（替身演員：、CV：[濱田賢二](../Page/濱田賢二.md "wikilink")）
 
 <!-- end list -->
 
@@ -336,7 +336,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士Nadeshiko**（替身演員：[人見早苗](https://zh.wikipedia.org/wiki/:ja:人見早苗 "wikilink")、CV：[真野惠里菜](../Page/真野惠里菜.md "wikilink")）
+  - **假面騎士Nadeshiko**（替身演員：、CV：[真野惠里菜](../Page/真野惠里菜.md "wikilink")）
 
 <!-- end list -->
 
@@ -349,7 +349,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 <!-- end list -->
 
   - **假面騎士1號**（CV：[稻田徹](../Page/稻田徹.md "wikilink")）
-  - **假面騎士2號**（CV：[藤本たかひろ](https://zh.wikipedia.org/wiki/:ja:藤本たかひろ "wikilink")）
+  - **假面騎士2號**（CV：）
   - **假面騎士V3**（CV：[田中大文](../Page/田中大文.md "wikilink")）
   - **騎士人**（CV：[増田隆之](https://zh.wikipedia.org/wiki/:ja:増田隆之 "wikilink")）
   - **假面騎士X**（CV：[千葉一伸](../Page/千葉一伸.md "wikilink")）
@@ -383,7 +383,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **處女座Zodiarts**（替身演員：[藤田慧](https://zh.wikipedia.org/wiki/:ja:藤田慧 "wikilink")、CV：[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")）
+  - **處女座Zodiarts**（替身演員：、CV：[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")）
 
 <!-- end list -->
 
@@ -544,9 +544,9 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 「**SAMURAI STRONG STYLE**」
 
-  - 演唱：[綾小路翔VS](https://zh.wikipedia.org/wiki/:ja:綾小路翔 "wikilink")[マーティ・フリードマン](https://zh.wikipedia.org/wiki/:ja:マーティ・フリードマン "wikilink")
-  - 作詞：[綾小路翔](https://zh.wikipedia.org/wiki/:ja:綾小路翔 "wikilink")
-  - 作曲：[マーティ・フリードマン](https://zh.wikipedia.org/wiki/:ja:マーティ・フリードマン "wikilink")
+  - 演唱：[綾小路翔VS](https://zh.wikipedia.org/wiki/:ja:綾小路翔 "wikilink")[马蒂·弗里德曼](../Page/马蒂·弗里德曼_\(音乐家\).md "wikilink")
+  - 作詞：
+  - 作曲：[马蒂·弗里德曼](../Page/马蒂·弗里德曼_\(音乐家\).md "wikilink")
 
 ### 插曲
 
@@ -554,15 +554,14 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
   - 演唱：火野映司（C.V.[渡部秀](../Page/渡部秀.md "wikilink")）
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
-  - 作／編曲：[鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/:ja:鳴瀬シュウヘイ "wikilink")
+  - 作／編曲：
 
 「**W-B-X 〜W-Boiled Extreme〜**」
 
   - 演唱：[上木彩矢](../Page/上木彩矢.md "wikilink") w
-    [TAKUYA](https://zh.wikipedia.org/wiki/:ja:TAKUYA "wikilink")
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
-  - 作曲：[鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/:ja:鳴瀬シュウヘイ "wikilink")
-  - 編曲：[鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/:ja:鳴瀬シュウヘイ "wikilink")、[TAKUYA](https://zh.wikipedia.org/wiki/:ja:TAKUYA "wikilink")
+  - 作曲：
+  - 編曲：、
 
 「**Anything Goes\! OOO Special Edit.**」
 
@@ -582,15 +581,14 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 監製 - 小野寺章
   - 製片 -
-    [塚田英明](https://zh.wikipedia.org/wiki/:ja:塚田英明 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/:ja:武部直美 "wikilink")・高橋一浩（[東映](../Page/東映.md "wikilink")）、本井健吾（[朝日電視台](../Page/朝日電視台.md "wikilink")）
+    ・・高橋一浩（[東映](../Page/東映.md "wikilink")）、本井健吾（[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 導演・動作導演 - [坂本浩一](../Page/坂本浩一.md "wikilink")
   - 編劇 -
     [中島一基](https://zh.wikipedia.org/wiki/:ja:中島かずき "wikilink")（Fourze、Movie大戰Mega
     Max）、[小林靖子](../Page/小林靖子.md "wikilink")（OOO）
-  - 配樂 -
-    [鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/:ja:鳴瀬シュウヘイ "wikilink")、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
+  - 配樂 - 、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 攝影 - 倉田幸治
-  - 特攝導演 - [佛田洋](https://zh.wikipedia.org/wiki/:ja:佛田洋 "wikilink")
+  - 特攝導演 -
   - 製作公司 - 東映TV・Production
   - 發行 - [東映](../Page/東映.md "wikilink")
   - 製作 - 劇場版「FOURZE & OOO」製作委員會

@@ -47,28 +47,28 @@
     J06BB04
     [乙型肝炎免疫球蛋白](https://zh.wikipedia.org/wiki/乙型肝炎免疫球蛋白 "wikilink")（Hepatitis
     B immunoglobulin）
-    J06BB05 [狂犬病免疫球蛋白](../Page/狂犬病.md "wikilink")（Rabies immunoglobulin）
+    J06BB05 [狂犬病](../Page/狂犬病.md "wikilink")免疫球蛋白（Rabies immunoglobulin）
     J06BB06
     [风疹免疫球蛋白](https://zh.wikipedia.org/wiki/风疹 "wikilink")（Rubella
     immunoglobulin）
-    J06BB07 [牛痘免疫球蛋白](../Page/牛痘.md "wikilink")（Vaccinia immunoglobulin）
+    J06BB07 [牛痘](../Page/牛痘.md "wikilink")免疫球蛋白（Vaccinia immunoglobulin）
     J06BB08
     [葡萄球菌免疫球蛋白](https://zh.wikipedia.org/wiki/葡萄球菌 "wikilink")（Staphylococcus
     immunoglobulin）
     J06BB09
     [巨细胞病毒免疫球蛋白](https://zh.wikipedia.org/wiki/巨细胞病毒 "wikilink")（Cytomegalovirus
     immunoglobulin）
-    J06BB10 [白喉免疫球蛋白](../Page/白喉.md "wikilink")（Diphtheria
+    J06BB10 [白喉](../Page/白喉.md "wikilink")免疫球蛋白（Diphtheria
     immunoglobulin）
-    J06BB11 [甲型肝炎免疫球蛋白](../Page/甲型肝炎.md "wikilink")（Hepatitis A
+    J06BB11 [甲型肝炎](../Page/甲型肝炎.md "wikilink")免疫球蛋白（Hepatitis A
     immunoglobulin）
     J06BB12
     [蜱传播脑炎免疫球蛋白](https://zh.wikipedia.org/wiki/蜱传播脑炎 "wikilink")（Encephalitis,
     tick borne immunoglobulin）
-    J06BB13 [百日咳免疫球蛋白](../Page/百日咳.md "wikilink")（Pertussis
+    J06BB13 [百日咳](../Page/百日咳.md "wikilink")免疫球蛋白（Pertussis
     immunoglobulin）
-    J06BB14 [麻疹免疫球蛋白](../Page/麻疹.md "wikilink")（Morbilli immunoglobulin）
-    J06BB15 [流行性腮腺炎免疫球蛋白](../Page/流行性腮腺炎.md "wikilink")（Parotitis
+    J06BB14 [麻疹](../Page/麻疹.md "wikilink")免疫球蛋白（Morbilli immunoglobulin）
+    J06BB15 [流行性腮腺炎](../Page/流行性腮腺炎.md "wikilink")免疫球蛋白（Parotitis
     immunoglobulin）
     J06BB16
     [帕利珠单抗](https://zh.wikipedia.org/wiki/帕利珠单抗 "wikilink")（Palivizumab）

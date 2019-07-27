@@ -1,5 +1,5 @@
 《**Limit
-界限**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[末延景子的一部](../Page/末延景子.md "wikilink")[校園](https://zh.wikipedia.org/wiki/校園 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，2009年於11月號《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》開始連載，台灣中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，單行本全6卷。
+界限**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[末延景子](../Page/末延景子.md "wikilink")的一部[校園](https://zh.wikipedia.org/wiki/校園 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，2009年於11月號《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》開始連載，台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，單行本全6卷。
 
 ## 故事概要
 
@@ -201,7 +201,7 @@
 [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 [Category:相模原市背景作品](https://zh.wikipedia.org/wiki/Category:相模原市背景作品 "wikilink")
 
-1.  バスが静岡方面へ進行する交差点は[富士宮市の](../Page/富士宮市.md "wikilink")[猪の頭入口交差点](https://zh.wikipedia.org/wiki/国道139号 "wikilink")。
+1.  バスが静岡方面へ進行する交差点は[富士宮市](../Page/富士宮市.md "wikilink")の[猪の頭入口交差点](https://zh.wikipedia.org/wiki/国道139号 "wikilink")。
 2.
 3.
 4.

@@ -1,4 +1,4 @@
-**thatgamecompany**是一家美国的[独立](../Page/独立游戏.md "wikilink")[游戏开发工作室](../Page/游戏开发者.md "wikilink")。由[南加州大学的学生](../Page/南加州大学.md "wikilink")[凯莉·圣迪亚戈和](../Page/凯莉·圣迪亚戈.md "wikilink")[陈星汉联合创立](../Page/陈星汉.md "wikilink")。该工作室之前主要为[索尼电脑娱乐开发](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation
+**thatgamecompany**是一家美国的[独立](../Page/独立游戏.md "wikilink")[游戏开发工作室](../Page/游戏开发者.md "wikilink")。由[南加州大学](../Page/南加州大学.md "wikilink")的学生[凯莉·圣迪亚戈](../Page/凯莉·圣迪亚戈.md "wikilink")和[陈星汉](../Page/陈星汉.md "wikilink")联合创立。该工作室之前主要为[索尼电脑娱乐开发](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation
 3在](../Page/PlayStation_3.md "wikilink")[PlayStation
 Network上的下载游戏](../Page/PlayStation_Network.md "wikilink")；现在已获得了独立投资。
 
@@ -8,7 +8,7 @@ thatgamecompany的第一部作品是陈星汉学生时期的获奖作品——Fl
 
 ## 公司历史
 
-2005年秋，[凯莉·圣迪亚戈和](../Page/凯莉·圣迪亚戈.md "wikilink")[陈星汉开始考虑自己创业的可能](../Page/陈星汉.md "wikilink")，他们想创立一间自己的电子游戏公司。他们两位当时是[南加州大学电影艺术学院的互动媒体系的硕士生](../Page/南加州大学电影艺术学院.md "wikilink")，并且在他们的毕业季；在此不久之前，他们与其他几位同学一起开发的一款名为《[云](../Page/云_\(游戏\).md "wikilink")》（Cloud）的电子游戏刚刚发布。\[1\]
+2005年秋，[凯莉·圣迪亚戈](../Page/凯莉·圣迪亚戈.md "wikilink")和[陈星汉](../Page/陈星汉.md "wikilink")开始考虑自己创业的可能，他们想创立一间自己的电子游戏公司。他们两位当时是[南加州大学电影艺术学院](../Page/南加州大学电影艺术学院.md "wikilink")的互动媒体系的硕士生，并且在他们的毕业季；在此不久之前，他们与其他几位同学一起开发的一款名为《[云](../Page/云_\(游戏\).md "wikilink")》（Cloud）的电子游戏刚刚发布。\[1\]
 这个开发小组将这个开放项目作为一个实验项目，他们希望通过该项目来达到“展现一些跟以往那些电子游戏不同的东西”，并且以此来确认这种类型游戏被受到公众关注和感兴趣的程度。\[2\]
 随着《云》获得了相当正面回馈，这促使陈星汉和凯莉·圣迪亚戈开始考虑在离开学校后创立自己的公司，以继续制作这种类似《云》的电子游戏：不基于游戏流水线作业制作，却能激发出玩家们的感情与情绪。\[3\]
 
@@ -21,13 +21,13 @@ thatgamecompany最初的员工除了两位创始人以外还有之前开发《�
 Clark）以及新加入的约翰·爱德华兹（John
 Edwards）。凯莉·圣迪亚戈担任公司的主席兼游戏制作人，陈星汉担任首席游戏设计，约翰·爱德华兹担任首席程序工程师，尼克·克拉克担任游戏设计师。\[8\]
 尽管他们考虑过制作重制版的《云》来作为给索尼的第一部游戏，不过最终他们决定开发《流》，因为它“作为一款设计，更充实饱满”。他们认为这会比他们刚开始时制作《云》的时候更加简单；不过当时开发小组的所有人都没有管理一家企业或者是开发一款商业游戏的经验。\[9\]
-在开发《流》的同时，陈星汉也在[Maxis兼工参与制作](../Page/Maxis.md "wikilink")《[孢子](https://zh.wikipedia.org/wiki/孢子_\(遊戲\) "wikilink")》，而一些与thatgamecompany签约的合同工也参与了《流》的制作，比如像[奥斯丁·温特里](../Page/奥斯丁·温特里.md "wikilink")，他是本作的作曲。\[10\]\[11\]
+在开发《流》的同时，陈星汉也在[Maxis](../Page/Maxis.md "wikilink")兼工参与制作《[孢子](https://zh.wikipedia.org/wiki/孢子_\(遊戲\) "wikilink")》，而一些与thatgamecompany签约的合同工也参与了《流》的制作，比如像[奥斯丁·温特里](../Page/奥斯丁·温特里.md "wikilink")，他是本作的作曲。\[10\]\[11\]
 
 开发组在最开始时相信PlayStation 3版的《流》的开发工作在四个月里就能搞定，并且能赶在2006年11月，[PlayStation
 Network服务上线之前准备就绪](../Page/PlayStation_Network.md "wikilink")。然而，当《流》终于在2007年2月被放上PSN网络商店销售时，其游戏内容“还没有最初设定的一半多”。\[12\]
 根据对凯莉的采访，索尼方面在把开发任务分配给开发组前已经预料到thatgamecompany他们会低估游戏开发所要用的时间周期，所以索尼方面对本作的延期并不感到意外。\[13\]
 《流》在发售后获得了优异的反馈：它成为了2007年年度PlayStation
-Network网络商店下载量最高的游戏；在之后[互动艺术与科学学会主办的](../Page/互动艺术与科学学会.md "wikilink")2008年第11届年度互动成就展上，《流》被提名为“最佳下载游戏”；\[14\]
+Network网络商店下载量最高的游戏；在之后[互动艺术与科学学会](../Page/互动艺术与科学学会.md "wikilink")主办的2008年第11届年度互动成就展上，《流》被提名为“最佳下载游戏”；\[14\]
 在2007年度[英国电影和电视艺术奖上](../Page/英国电影和电视艺术学院.md "wikilink")，《流》被提名为“最佳创新奖”。\[15\]\[16\]\[17\]
 在《流》发售之后，索尼还发售了一部它的[资料片和](https://zh.wikipedia.org/wiki/资料片 "wikilink")《流》的[PlayStation
 Portable掌机版本](../Page/PlayStation_Portable.md "wikilink")，这两者的开发都没有thatgamecompany的直接参与。它们由美国的电子游戏开发团队[SuperVillain
@@ -39,12 +39,12 @@ International Game Summit）上曾透露该信息。\[19\]
 曾经与凯莉和陈星汉一起制作过《云》的文森特·迪亚曼特（Vincent Diamante）这次再次担当游戏编曲，为《花》编曲。\[21\]
 《花》的开发周期为2年，不过其中30-40%的时间是被团队用来进行游戏原型设定。之后在决定了游戏要用到的要素后，开发团队又花费了半年左右的时间最终完成了《花》。\[22\]
 《花》在2009年2月在PlayStation
-Network网络商店上架后，继承了《流》的优秀口碑、好评如潮，并且进入了该年度的PSN下载销量榜前十名；《花》也获得了若干奖项，有代表性的例如：2009年度美国互动艺术与科学学会颁发的“年度休闲游戏”、2009年斯派克电子游戏盛典所颁发的“‘[激浪动力](../Page/激浪.md "wikilink")’最佳独立游戏”、英国电影和电视艺术奖的“艺术成就奖”等。\[23\]\[24\]
+Network网络商店上架后，继承了《流》的优秀口碑、好评如潮，并且进入了该年度的PSN下载销量榜前十名；《花》也获得了若干奖项，有代表性的例如：2009年度美国互动艺术与科学学会颁发的“年度休闲游戏”、2009年斯派克电子游戏盛典所颁发的“‘[激浪](../Page/激浪.md "wikilink")动力’最佳独立游戏”、英国电影和电视艺术奖的“艺术成就奖”等。\[23\]\[24\]
 在完成《花》的开发后，thatgamecompany终于也搬进了他们在西洛杉矶圣莫妮卡自己的办公室，毗邻索尼北美的王牌工作室[顽皮狗](../Page/顽皮狗.md "wikilink")。\[25\]
 
 thatgamecompany最新的作品也是它与索尼合约中最后一款作品是《[旅途](https://zh.wikipedia.org/wiki/旅途 "wikilink")》，该作已于2012年3月在PlayStation
 Network网络商店上架。《旅途》的开发团队规模扩展到14个人左右，不过凯莉并不在开发人员之列；\[26\]
-因为她为了更专注于作为公司主席而需要将更多的精力投入到管理等方面，而前[EA旗下的](https://zh.wikipedia.org/wiki/EA "wikilink")[Maxis工作室制作人罗宾](../Page/Maxis.md "wikilink")·汉妮卡（，代表作《轰隆魔块》系列）加入开发团队并担任本作的制作人，以填补凯莉的空位。\[27\]
+因为她为了更专注于作为公司主席而需要将更多的精力投入到管理等方面，而前[EA旗下的](https://zh.wikipedia.org/wiki/EA "wikilink")[Maxis](../Page/Maxis.md "wikilink")工作室制作人罗宾·汉妮卡（，代表作《轰隆魔块》系列）加入开发团队并担任本作的制作人，以填补凯莉的空位。\[27\]
 《旅途》作为当时thatgamecompany开发过的最大的项目，耗时3年开发制作。当初大家最初预计的是用1年左右，但开发团队还面对人手从立项之初的7人扩张到后来的18人所带来的问题——资金：在开发临近尾声的最后半年里，尽管公司已拿到了追加的开发费用，而且团队中的一些人以半薪来进行工作，但是thatgamecompany还是差点面临[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")；\[28\]\[29\]
 不过当游戏上架后，资金上的一切问题都解决了。\[30\] 在《旅途》在PlayStation
 Network网络商店上架后，它一举打破之前PSN的销售记录，成为迄今北美和欧洲地区下载销售速度最快的游戏。\[31\]
@@ -53,10 +53,10 @@ Network网络商店上架后，它一举打破之前PSN的销售记录，成为�
 在完成与索尼签订的三款游戏的合约后，thatgamecompany也翻到了新的一页。团队中几位成员也离开thatgamecompany去寻找其他的机遇挑战：作为公司联合创始人之一的凯莉·圣迪亚戈离开并进入[OUYA负责开发者管理](https://zh.wikipedia.org/wiki/OUYA "wikilink")；游戏设计师克里斯·贝尔离开后建立了自己的工作室The
 Willderness；《旅途》的制作人罗宾·汉妮卡辞职并加入游戏公司[Tiny
 Speck制作MMORPG](https://zh.wikipedia.org/wiki/Tiny_Speck "wikilink")；美术指导马特·纳瓦（Matt
-Nava）与首席设计师尼克·克拉克和作曲[奥斯丁·温特里三人创建了他们自己的游戏工作室GiantSquid](../Page/奥斯丁·温特里.md "wikilink")。\[32\]\[33\]\[34\]\[35\]
+Nava）与首席设计师尼克·克拉克和作曲[奥斯丁·温特里](../Page/奥斯丁·温特里.md "wikilink")三人创建了他们自己的游戏工作室GiantSquid。\[32\]\[33\]\[34\]\[35\]
 thatgamecompany也从风险投资商那里筹集到了550万美元左右的[风险投资](../Page/风险投资.md "wikilink")，这笔钱将在未来用于开发thatgamecompany的下一款游戏，并且公司希望制作一款多平台的游戏并且不会受到发行商的干扰。\[36\]
 
-2013年末，陈星汉在北京接受中文游戏[播客Gadio采访时表示](../Page/播客.md "wikilink")：新游戏已经开发1年左右的时间，虽然游戏还在开发雏形阶段，但是游戏的音乐已经基本完成，由曾《花》的音乐总监Vincent
+2013年末，陈星汉在北京接受中文游戏[播客](../Page/播客.md "wikilink")Gadio采访时表示：新游戏已经开发1年左右的时间，虽然游戏还在开发雏形阶段，但是游戏的音乐已经基本完成，由曾《花》的音乐总监Vincent
 Diamante操刀制作。\[37\]
 
 2014年5月27日，thatgamecompay宣布获得了由今日资本领衔的700万美元的投资。\[38\]
@@ -120,7 +120,7 @@ thatgamecompany的员工们并不反感动作游戏。在他们制作自己的�
 <td><p>冒险</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>、<a href="../Page/Apple_TV.md" title="wikilink">Apple TV</a></p></td>
 <td><p>Thatgamecompany</p></td>
-<td><p>中国大陆地区由<a href="../Page/网易.md" title="wikilink">网易代理</a></p></td>
+<td><p>中国大陆地区由<a href="../Page/网易.md" title="wikilink">网易</a>代理</p></td>
 </tr>
 </tbody>
 </table>

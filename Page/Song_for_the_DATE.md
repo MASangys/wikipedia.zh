@@ -1,11 +1,11 @@
 《**Song for the
-DATE**》是[日本女子偶像歌手](../Page/日本.md "wikilink")[真野惠里菜的第](../Page/真野惠里菜.md "wikilink")12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年6月27日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
+DATE**》是[日本](../Page/日本.md "wikilink")女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年6月27日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要
 
   - 此單曲有3個版本，分別是「初回生産限定盤A」、「初回生産限定盤B」和「CD ONLY」。「初回生産限定盤A」收錄了《Song for
     the DATE》的PV。
-  - 在7月9日於[Oricon公信榜單曲週榜取得第](../Page/Oricon公信榜.md "wikilink")7位。\[1\]
+  - 在7月9日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜取得第7位。\[1\]
 
 ## 收錄内容
 

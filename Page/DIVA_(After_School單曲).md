@@ -8,7 +8,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     School第一張數位單曲《[DIVA](../Page/DIVA_\(After_School數位單曲\).md "wikilink")》主打曲《DIVA》的日語版本。
   - 此單曲有3個版本，分別有「初回生產限定A盤」、「初回生產限定B盤」和「通常盤」。「初回生產限定A盤」收錄了《Tap
     Slap》的PV，以及《DIVA》的PV和Making，「初回生產限定B盤」收錄了「DIVA」的Live片段和Making。\[1\]
-  - 在12月5日於[Oricon公信榜单曲每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")12位。
+  - 在12月5日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")单曲每週排行榜取得第12位。
 
 ## 收錄内容
 

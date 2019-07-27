@@ -1,5 +1,5 @@
 **Samsung Galaxy Note
-II**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子在](../Page/三星電子.md "wikilink")2012年中推出的[Android行動通訊產品](../Page/Android.md "wikilink")，擁有5.5英寸螢幕，介乎大螢幕[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦之間](../Page/平板電腦.md "wikilink")，為[Samsung
+II**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")在2012年中推出的[Android](../Page/Android.md "wikilink")行動通訊產品，擁有5.5英寸螢幕，介乎大螢幕[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")之間，為[Samsung
 Galaxy
 Note的後繼機](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note "wikilink")。而Galaxy
 Note II同期的最大競爭對手是 iPhone 5。
@@ -19,14 +19,14 @@ III的圓潤風格相似](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_III "wi
 Note的方框設計。S Pen位置位於機背左下角，方便拔出。正面底部設有目錄鍵（Menu）、主按鍵（Home）和返回鍵（Back）。
 
 Galaxy Note
-II是Note系列手機當中，唯一未有配備康寧[大猩猩玻璃的産品](../Page/大猩猩玻璃.md "wikilink")。
+II是Note系列手機當中，唯一未有配備康寧[大猩猩玻璃](../Page/大猩猩玻璃.md "wikilink")的産品。
 
 ## 規格\[1\]
 
-  - 通信系統：[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")、[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")、[GSM四頻](../Page/GSM.md "wikilink")、[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")
+  - 通信系統：[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")、[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")、[GSM](../Page/GSM.md "wikilink")四頻、[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")
   - 螢幕：5.55" [HD Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")
-    1280×720，螢幕[解析度約](https://zh.wikipedia.org/wiki/解析度 "wikilink")267ppi。（非[PenTile排列](../Page/PenTile.md "wikilink")）
+    1280×720，螢幕[解析度約](https://zh.wikipedia.org/wiki/解析度 "wikilink")267ppi。（非[PenTile](../Page/PenTile.md "wikilink")排列）
   - 處理器：1.6Ghz[四核心](https://zh.wikipedia.org/wiki/四核心 "wikilink")
   - GPU : Mali-400 MP4 高頻4核
   - 系統：[Android

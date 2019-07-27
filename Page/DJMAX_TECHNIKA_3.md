@@ -1,4 +1,4 @@
-是由[Pentavision研发并销售的](../Page/Pentavision.md "wikilink")[街机平台](../Page/街机.md "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是[DJ
+是由[Pentavision](../Page/Pentavision.md "wikilink")研发并销售的[街机](../Page/街机.md "wikilink")平台[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是[DJ
 Max
 Technika系列的第三作](https://zh.wikipedia.org/wiki/DJ_Max_Technika系列 "wikilink")。
 

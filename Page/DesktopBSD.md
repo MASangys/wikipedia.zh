@@ -1,4 +1,4 @@
-**DesktopBSD**是一個[桌面導向的](../Page/桌上型電腦.md "wikilink")，基於[FreeBSD的](../Page/FreeBSD.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，搭載了易於使用的[KDE
+**DesktopBSD**是一個[桌面導向的](../Page/桌上型電腦.md "wikilink")，基於[FreeBSD](../Page/FreeBSD.md "wikilink")的[操作系统](../Page/操作系统.md "wikilink")，搭載了易於使用的[KDE
 3.5桌面環境作為其預設的](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")。
 
 ## 歷史與開發

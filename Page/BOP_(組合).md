@@ -1,9 +1,10 @@
-**BOP**，2014年到2015年6月稱**天堂鳥**（），其後正式改名為《BOP》，是2014年3月於[香港出道的唱跳](../Page/香港.md "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，以勁歌熱舞為主打，由[創富文化集團與香港著名排舞師Sunny](../Page/創富文化集團.md "wikilink")
-Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https://zh.wikipedia.org/wiki/葉灝基 "wikilink")（Gordon）、[許俊豪](https://zh.wikipedia.org/wiki/許俊豪 "wikilink")（Lincoln）和歐喬鋒（Tyrese）。其歌迷被稱為「鳥粉」。
+**BOP**，2014年到2015年6月稱**天堂鳥**（），其後正式改名為《BOP》，是2014年3月於[香港](../Page/香港.md "wikilink")出道的唱跳[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，以勁歌熱舞為主打，由[創富文化集團](../Page/創富文化集團.md "wikilink")與香港著名排舞師Sunny
+Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https://zh.wikipedia.org/wiki/葉灝基 "wikilink")（Gordon）、[許俊豪](https://zh.wikipedia.org/wiki/許俊豪 "wikilink")（Lincoln）和
+[歐喬鋒](https://zh.wikipedia.org/wiki/歐喬鋒 "wikilink")（Tyrese）。其歌迷被稱為「鳥粉」。
 
 2016年6月，BOP成員以拍攝不雅照片及分發利潤不均勻等行為控告兩間經理人公司未履行合約，要求解約\[1\]。
 
-2018年，簽約新公司[天盟娛樂重新出發](../Page/天盟娛樂.md "wikilink")，並將推出該年首支派台歌。\[2\]\[3\]\[4\]。
+2018年，簽約新公司[天盟娛樂](../Page/天盟娛樂.md "wikilink")重新出發，並將推出該年首支派台歌。\[2\]\[3\]\[4\]。
 
 ## 成員
 
@@ -19,17 +20,17 @@ Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https:/
 <th><p>Gordon</p></th>
 <th></th>
 <th><p>183cm</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/新西蘭" title="wikilink">新西蘭大專畢業回流兩年</a>，入行前是跟<a href="../Page/黃國榮.md" title="wikilink">黃國榮跳舞六年</a>，亦是<a href="../Page/郭富城.md" title="wikilink">郭富城御用了的</a><a href="https://zh.wikipedia.org/wiki/舞蹈演員" title="wikilink">舞蹈演員</a> |- style="background-color: #FFFFFF; text-align: center;" |</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/新西蘭" title="wikilink">新西蘭大專畢業回流兩年</a>，入行前是跟<a href="../Page/黃國榮.md" title="wikilink">黃國榮</a>跳舞六年，亦是<a href="../Page/郭富城.md" title="wikilink">郭富城</a>御用了的<a href="https://zh.wikipedia.org/wiki/舞蹈演員" title="wikilink">舞蹈演員</a> |- style="background-color: #FFFFFF; text-align: center;" |</p></th>
 <th><p><strong>許俊豪</strong></p></th>
 <th><p>Lincoln</p></th>
 <th><p>[5]</p></th>
 <th><p>184cm</p></th>
-<th><p>西貢崇真天主教中學畢業，沒有唸大專；入行前是模特兒，曾參與多齣<a href="https://zh.wikipedia.org/wiki/電視劇" title="wikilink">電視劇及</a><a href="https://zh.wikipedia.org/wiki/電影" title="wikilink">電影如</a><a href="https://zh.wikipedia.org/wiki/香港電視" title="wikilink">香港電視的</a>《<a href="../Page/歲月樓情.md" title="wikilink">歲月樓情</a>》擔任<a href="../Page/曾偉權.md" title="wikilink">曾偉權的年輕版</a> |- style="background-color: #FFFFFF; text-align: center;" |</p></th>
+<th><p>西貢崇真天主教中學畢業，沒有唸大專；入行前是模特兒，曾參與多齣<a href="https://zh.wikipedia.org/wiki/電視劇" title="wikilink">電視劇及</a><a href="https://zh.wikipedia.org/wiki/電影" title="wikilink">電影如</a><a href="https://zh.wikipedia.org/wiki/香港電視" title="wikilink">香港電視的</a>《<a href="../Page/歲月樓情.md" title="wikilink">歲月樓情</a>》擔任<a href="../Page/曾偉權.md" title="wikilink">曾偉權</a>的年輕版 |- style="background-color: #FFFFFF; text-align: center;" |</p></th>
 <th><p><strong>歐喬鋒</strong></p></th>
 <th><p>Tyrese</p></th>
 <th></th>
 <th><p>181cm</p></th>
-<th><p>原名歐鎮源，<a href="../Page/西雅圖.md" title="wikilink">西雅圖大專畢業回流兩年</a>，入行前兼職<a href="https://zh.wikipedia.org/wiki/舞蹈演員" title="wikilink">舞蹈演員及兼職模特兒</a></p></th>
+<th><p>原名歐鎮源，<a href="../Page/西雅圖.md" title="wikilink">西雅圖</a>大專畢業回流兩年，入行前兼職<a href="https://zh.wikipedia.org/wiki/舞蹈演員" title="wikilink">舞蹈演員及兼職模特兒</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -272,14 +273,41 @@ Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https:/
 never give
 up\!》。造型涉嫌抄襲韓國歌手。而天堂鳥及同公司其他歌手、組合曾多次於[香港親建制派組織舉辦的活動上演唱](https://zh.wikipedia.org/wiki/香港親建制派 "wikilink")，也被質疑公司是「紅色」（[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")）背景\[11\]\[12\]。
 
-## 参考文献
+## 參考資料
+
+[葉灝基關嘉敏再合作　33度拍MV濕晒](https://hk.on.cc/hk/bkn/cnt/entertainment/20190709/bkn-20190709190001563-0709_00862_001.html)
+
+[另類挑戰　Queena踢樽蓋失手三次整傷腳](https://hk.on.cc/hk/bkn/cnt/entertainment/20190707/bkn-20190707061037559-0707_00862_001.html)
+
+[27歲歐喬鋒@天堂鳥榮升「阿公」](https://hk.on.cc/hk/bkn/cnt/entertainment/20190628/bkn-20190628033114714-0628_00862_001.html)
+
+[自爆曾是地獄廚神
+Lincoln@天堂鳥險火燒廚房](https://ol.mingpao.com/ldy/showbiz/latest/20190616/1560685658514/%E8%87%AA%E7%88%86%E6%9B%BE%E6%98%AF%E5%9C%B0%E7%8D%84%E5%BB%9A%E7%A5%9E-lincoln-%E5%A4%A9%E5%A0%82%E9%B3%A5%E9%9A%AA%E7%81%AB%E7%87%92%E5%BB%9A%E6%88%BF)
+
+[窮到畀女飛　天堂鳥生存之道最怕冇人彈](https://hk.on.cc/hk/bkn/cnt/entertainment/20190614/bkn-20190614063048623-0614_00862_001.html)
+
+
+
+<references responsive="" />
 
 ## 外部連結
 
   - [天盟娛樂有限公司](http://www.skyteam.com.hk/hk/index.html)
 
   -
+  - [歐喬鋒 (Tyrese) Facebook](https://www.facebook.com/tyreseauhk/)
+
+  - [葉灝基 (Gordon) Facebook](https://www.facebook.com/Gordon2ok/)
+
+  - [許俊豪 (Lincoln) Facebook](https://www.facebook.com/lincolnbop)
+
   -
+  - [歐喬鋒 (Tyrese) instagram](https://www.instagram.com/tyreseakf/)
+
+  - [葉灝基 (Gordon) instagram](https://www.instagram.com/gordon2ok/)
+
+  - [許俊豪 (Lincoln) instagram](https://www.instagram.com/lincolnhhui/)
+
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
 [Category:香港男子跳唱組合](https://zh.wikipedia.org/wiki/Category:香港男子跳唱組合 "wikilink")
 [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")

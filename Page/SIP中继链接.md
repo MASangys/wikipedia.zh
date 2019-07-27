@@ -1,5 +1,5 @@
-**SIP 中继链接** ()， 是一种基于[会话发起协议(Session Initiation Protocol,
-SIP)](../Page/会话发起协议.md "wikilink")\[1\]
+**SIP 中继链接** ()， 是一种基于[会话发起协议 Initiation Protocol,
+SIP)](../Page/会话发起协议.md "wikilink")(Session\[1\]
 的[IP电话](https://zh.wikipedia.org/wiki/IP电话 "wikilink") (VoIP)
 和流媒体服务。 网络通讯服务提供商（Internet telephony service provider，ITSP）
 通过它向配备基于SIP的[IP用户交换机](https://zh.wikipedia.org/wiki/IP-PBX "wikilink")
@@ -12,7 +12,7 @@ SIP)](../Page/会话发起协议.md "wikilink")\[1\]
 
   - 个人域：借助电话设备和统一通信服务，为客户提供IP电话解决方案；
   - 公共域：具有向[公共交换电话网](../Page/公共交换电话网.md "wikilink") /
-    [公共陆基移动网提供全部VoIP服务接口的属性](../Page/公共陆基移动网.md "wikilink")，并且负责向网络通讯服务提供商提供电话服务。
+    [公共陆基移动网](../Page/公共陆基移动网.md "wikilink")提供全部VoIP服务接口的属性，并且负责向网络通讯服务提供商提供电话服务。
 
 这两个域的互通需要通过SIP中继链接实现。
 
@@ -45,7 +45,7 @@ SIP)](../Page/会话发起协议.md "wikilink")\[1\]
 
   - SIP Trunking wikipedia in English.\[8\]
   - The SIP Trunking Community.\[9\]
-  - [會談邊界控制器（Session border controller)](../Page/會談邊界控制器.md "wikilink")
+  - [會談邊界控制器 border controller)](../Page/會談邊界控制器.md "wikilink")（Session
     (SBC)
 
 ## 参考文献

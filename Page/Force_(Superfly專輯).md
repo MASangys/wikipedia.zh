@@ -1,4 +1,4 @@
-《**Force**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/Superfly.md "wikilink")2012年9月19日發行之第四張原創[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+《**Force**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2012年9月19日發行之第四張原創[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 簡介
 
@@ -11,14 +11,14 @@ Wings](https://zh.wikipedia.org/wiki/如明月一般/The_Bird_Without_Wings "wik
 
 本作因出道5周年紀念而發行了4種版本。通常盤僅收錄[錄音室歌曲](https://zh.wikipedia.org/wiki/錄音室 "wikilink")，初回限定盤附贈6月到7月間舉辦的粉絲俱樂部限定的演唱會「Live
 4th You」的7月12日在[Zepp
-DiverCity公演的歌曲完全收錄属](https://zh.wikipedia.org/wiki/Zepp "wikilink")、5周年記念生産限定盤則是收錄初回限定盤的内容並附贈錄音室歌曲的[黑膠唱片以及](../Page/黑膠唱片.md "wikilink")5周年記念海報、[羅森限定盤則附贈](../Page/羅森_\(便利店\).md "wikilink")[音樂錄影帶以及](../Page/音樂錄影帶.md "wikilink")「Self
+DiverCity公演的歌曲完全收錄属](https://zh.wikipedia.org/wiki/Zepp "wikilink")、5周年記念生産限定盤則是收錄初回限定盤的内容並附贈錄音室歌曲的[黑膠唱片](../Page/黑膠唱片.md "wikilink")以及5周年記念海報、[羅森限定盤則附贈](../Page/羅森_\(便利店\).md "wikilink")[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")以及「Self
 Liner Notes」的DVD。
 
 發行當日依照慣例舉行了免費演唱會，地點則選在首張專輯《[Superfly](../Page/Superfly_\(專輯\).md "wikilink")》發型演唱會的[代代木公園野外舞台](https://zh.wikipedia.org/wiki/代代木公園 "wikilink")。
 
 本作也獲得[公信榜周榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，為出道以來4張專輯連續（若包含《[Wildflower
 & Cover Songs:Complete Best 'TRACK
-3'](https://zh.wikipedia.org/wiki/Wildflower_&_Cover_Songs:Complete_Best_'TRACK_3' "wikilink")》為5作連續）冠軍。是繼女性個人歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[宇多田光後](../Page/宇多田光.md "wikilink")6年3個月以來在次創下的記錄，為史上第4人\[1\]。
+3'](https://zh.wikipedia.org/wiki/Wildflower_&_Cover_Songs:Complete_Best_'TRACK_3' "wikilink")》為5作連續）冠軍。是繼女性個人歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[宇多田光](../Page/宇多田光.md "wikilink")後6年3個月以來在次創下的記錄，為史上第4人\[1\]。
 
 ## 發行版本
 
@@ -59,7 +59,7 @@ Basic Arrangement：[多保孝一](https://zh.wikipedia.org/wiki/多保孝一 "w
       -
         作詞：越智志帆　作曲：多保孝一
     <!-- end list -->
-      - [朝日電視台連續劇](../Page/朝日電視台.md "wikilink")《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》』主題歌\[2\]。
+      - [朝日電視台](../Page/朝日電視台.md "wikilink")連續劇《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》』主題歌\[2\]。
       - 2012年10月31日に16thシングル（「STARS」を除く）として[シングルカットされた](https://zh.wikipedia.org/wiki/シングルカット "wikilink")\[3\]。
 2.  **Nitty Gritty**
       -
@@ -72,7 +72,7 @@ Basic Arrangement：[多保孝一](https://zh.wikipedia.org/wiki/多保孝一 "w
 4.  **[如明月一般](https://zh.wikipedia.org/wiki/如明月一般/The_Bird_Without_Wings "wikilink")（）**
       - 作詞：越智志帆、jam　作曲：多保孝一
       - 15th單曲第1曲目。
-      - [TBS連續劇](../Page/TBS.md "wikilink")《[サマーレスキュー〜天空の診療所〜](https://zh.wikipedia.org/wiki/サマーレスキュー〜天空の診療所〜 "wikilink")》主題歌。
+      - [TBS](../Page/TBS.md "wikilink")連續劇《[サマーレスキュー〜天空の診療所〜](https://zh.wikipedia.org/wiki/サマーレスキュー〜天空の診療所〜 "wikilink")》主題歌。
 5.  **[品味愛](https://zh.wikipedia.org/wiki/品味愛 "wikilink")（）**
       - 作詞：越智志帆　作曲：多保孝一
       - 14th單曲。

@@ -1,10 +1,10 @@
 **AUTOPOLIS**
-為[日本](../Page/日本.md "wikilink")[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[日田市的一座](../Page/日田市.md "wikilink")[賽道](https://zh.wikipedia.org/wiki/賽車場 "wikilink")，賽道全長為4,674米，於1990年開幕，管理機構為
+為[日本](../Page/日本.md "wikilink")[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[日田市](../Page/日田市.md "wikilink")的一座[賽道](https://zh.wikipedia.org/wiki/賽車場 "wikilink")，賽道全長為4,674米，於1990年開幕，管理機構為
 **Autopolis 股份有限公司** ()。
 
 ## 歷史
 
-此賽道為日本銀行家**鶴卷智德**花費五億美元所興建，鶴卷智德曾以5,160萬[美元的天價標下](../Page/美元.md "wikilink")[巴勃羅·畢卡索的作品](../Page/巴勃羅·畢卡索.md "wikilink")
+此賽道為日本銀行家**鶴卷智德**花費五億美元所興建，鶴卷智德曾以5,160萬[美元](../Page/美元.md "wikilink")的天價標下[巴勃羅·畢卡索](../Page/巴勃羅·畢卡索.md "wikilink")的作品
 *Les Noces de Pierrette*。
 
 ### 開幕

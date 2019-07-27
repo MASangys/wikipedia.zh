@@ -1,16 +1,16 @@
-是一部紀念《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》作者[藤子·F·不二雄诞辰](../Page/藤子·F·不二雄.md "wikilink")80週年的[系列首部](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，於2014年8月8日在[日本上映](../Page/日本.md "wikilink")，內容结合了原著漫畫：《-{zh-tw:從未來之國千里迢迢而来;zh-cn:来自未来的机器猫}-》、《蛋中的静香》、《静香！再见！》、《雪山上的浪漫史》、《[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")》、《再见哆啦A梦》和《[哆啦A梦回來了](https://zh.wikipedia.org/wiki/哆啦A梦回來了 "wikilink")》等篇目的经典剧情，由《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")》系列與《[永遠的0](../Page/永遠的0.md "wikilink")》編劇[山崎貴執筆](../Page/山崎貴.md "wikilink")，由《[麻吉妖怪島](../Page/麻吉妖怪島.md "wikilink")》[导演](https://zh.wikipedia.org/wiki/导演 "wikilink")[八木龍一與](../Page/八木龍一.md "wikilink")[山崎貴共同執導](../Page/山崎貴.md "wikilink")。在2014年10月24日举行的[东京国际电影节上](https://zh.wikipedia.org/wiki/东京国际电影节 "wikilink")，本片的英语配音版首次上映\[1\]。
+是一部紀念《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》作者[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")诞辰80週年的[系列首部](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，於2014年8月8日在[日本](../Page/日本.md "wikilink")上映，內容结合了原著漫畫：《-{zh-tw:從未來之國千里迢迢而来;zh-cn:来自未来的机器猫}-》、《蛋中的静香》、《静香！再见！》、《雪山上的浪漫史》、《[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")》、《再见哆啦A梦》和《[哆啦A梦回來了](https://zh.wikipedia.org/wiki/哆啦A梦回來了 "wikilink")》等篇目的经典剧情，由《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")》系列與《[永遠的0](../Page/永遠的0.md "wikilink")》編劇[山崎貴](../Page/山崎貴.md "wikilink")執筆，由《[麻吉妖怪島](../Page/麻吉妖怪島.md "wikilink")》[导演](https://zh.wikipedia.org/wiki/导演 "wikilink")[八木龍一](../Page/八木龍一.md "wikilink")與[山崎貴](../Page/山崎貴.md "wikilink")共同執導。在2014年10月24日举行的[东京国际电影节上](https://zh.wikipedia.org/wiki/东京国际电影节 "wikilink")，本片的英语配音版首次上映\[1\]。
 
-本電影既是[香港多年來聲演多啦A夢的資深](../Page/香港.md "wikilink")[配音員](../Page/配音員.md "wikilink")[林保全的遺作](../Page/林保全.md "wikilink")，亦是第四代胖虎配音員[陳卓智暫別](../Page/陳卓智.md "wikilink")[無綫電視前的最後作品](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
+本電影既是[香港](../Page/香港.md "wikilink")多年來聲演多啦A夢的資深[配音員](../Page/配音員.md "wikilink")[林保全](../Page/林保全.md "wikilink")的遺作，亦是第四代胖虎配音員[陳卓智](../Page/陳卓智.md "wikilink")暫別[無綫電視前的最後作品](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
 
 ## 剧情
 
 本片剧情结合了原作中《从未来之国千里迢迢而来》、《蛋中的静香》、《静香！再见！》、《雪山上的浪漫史》、《[大雄的结婚前夜](https://zh.wikipedia.org/wiki/大雄的结婚前夜 "wikilink")》、《再见哆啦A梦》和《[哆啦A梦回来了](https://zh.wikipedia.org/wiki/哆啦A梦回来了 "wikilink")》等篇目的经典剧情。
 
-住在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[練馬區月見台茫原的](https://zh.wikipedia.org/wiki/練馬區 "wikilink")[小学四年级生](../Page/小学.md "wikilink")[野比大雄](../Page/野比大雄.md "wikilink")，不仅由于懒惰而学习成绩差，还总是被同学[剛田武](../Page/剛田武.md "wikilink")（胖虎）和[骨川小夫](../Page/骨川小夫.md "wikilink")[欺负](../Page/霸凌.md "wikilink")。他的玄孙[野比世修有一天晚上从](https://zh.wikipedia.org/wiki/野比世修 "wikilink")22世纪（2136年）来探望他，还给他带来了机器猫[哆啦A梦](../Page/哆啦A夢_\(角色\).md "wikilink")。世修透露如果曾曾祖父（高祖父）大雄继续這樣下去，会引发禍害數代的灾难性后果：他将会娶胖虎妹妹胖妺，找不到工作自己開私人公司，卻因大火被毁倒閉，并欠下到玄孫一代都還不完的巨額债務。为了改變家族命運，世修才派遣哆啦A夢前來幫助大雄。
+住在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[練馬區月見台茫原的](https://zh.wikipedia.org/wiki/練馬區 "wikilink")[小学](../Page/小学.md "wikilink")四年级生[野比大雄](../Page/野比大雄.md "wikilink")，不仅由于懒惰而学习成绩差，还总是被同学[剛田武](../Page/剛田武.md "wikilink")（胖虎）和[骨川小夫](../Page/骨川小夫.md "wikilink")[欺负](../Page/霸凌.md "wikilink")。他的玄孙[野比世修有一天晚上从](https://zh.wikipedia.org/wiki/野比世修 "wikilink")22世纪（2136年）来探望他，还给他带来了机器猫[哆啦A梦](../Page/哆啦A夢_\(角色\).md "wikilink")。世修透露如果曾曾祖父（高祖父）大雄继续這樣下去，会引发禍害數代的灾难性后果：他将会娶胖虎妹妹胖妺，找不到工作自己開私人公司，卻因大火被毁倒閉，并欠下到玄孫一代都還不完的巨額债務。为了改變家族命運，世修才派遣哆啦A夢前來幫助大雄。
 
 （本片獨創設定，與現今漫畫及動畫無關：雖然哆啦A夢之前曾偕同世修暗中觀察，卻始終百般不願意帮助大雄。为防止他返回未来，世修按下哆啦A梦的鼻子安置了「強制服從指令」，只要試圖回去就會從鼻子開啟電流，直到幫助大雄成功获得美好的未来生活。）
 
-哆啦A夢發現大雄暗戀同班同學[源靜香已久](../Page/源靜香.md "wikilink")，於是兩人決定試圖將原先結婚對象從-{胖妹}-改為静香，認為這是現階段改變未來的最佳根本方法。一面借給大雄許多便利的道具協助改善他的生活，一面同時警告他不要太过依赖道具。雖說大雄的狀況確實得到相當地改善，不過静香跟同班的資優生[出木杉英才原先就相处得很好](../Page/出木杉英才.md "wikilink")，經歷「先入為主蛋事件」後反而感情升溫。事件起因是大雄欲避免出木杉得到静香的心，哆啦A夢便拿出這個道具，但實際上不太贊成使用，因為道具效果強到幾乎無人抗拒，但大雄還是執意為之，陰錯陽差之下，不僅誤讓胖虎愛上小夫，甚至讓靜香愛上了出木杉。
+哆啦A夢發現大雄暗戀同班同學[源靜香](../Page/源靜香.md "wikilink")已久，於是兩人決定試圖將原先結婚對象從-{胖妹}-改為静香，認為這是現階段改變未來的最佳根本方法。一面借給大雄許多便利的道具協助改善他的生活，一面同時警告他不要太过依赖道具。雖說大雄的狀況確實得到相當地改善，不過静香跟同班的資優生[出木杉英才](../Page/出木杉英才.md "wikilink")原先就相处得很好，經歷「先入為主蛋事件」後反而感情升溫。事件起因是大雄欲避免出木杉得到静香的心，哆啦A夢便拿出這個道具，但實際上不太贊成使用，因為道具效果強到幾乎無人抗拒，但大雄還是執意為之，陰錯陽差之下，不僅誤讓胖虎愛上小夫，甚至讓靜香愛上了出木杉。
 
 後來，大雄决定勤奋学习，争取赶上出木杉，可惜因溫習錯了科目而在測驗時拿0分。大雄認為自己太沒用，若娶了靜香將使她一生困苦，便採取各種手段斷絕和她的關係，最後甚至服用讓任何人討厭自己的道具以避免靜香接近。然而赶到大雄家的靜香，克服道具的惡臭而救下大雄。哆啦A梦透露这是大雄和静香发展关系，最终步入婚姻殿堂所迈出的第一步。
 
@@ -151,7 +151,7 @@
 <td><p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
 <td></td>
 <td><p>|<a href="https://zh.wikipedia.org/wiki/金貴晟" title="wikilink">金貴晟</a></p></td>
-<td><p>中國歌手，<a href="../Page/中国大陆.md" title="wikilink">中国大陆引进方官方授权</a>，仅作为宣传，未在电影院版本播出。</p></td>
+<td><p>中國歌手，<a href="../Page/中国大陆.md" title="wikilink">中国大陆</a>引进方官方授权，仅作为宣传，未在电影院版本播出。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -241,7 +241,7 @@ THE MOVIE
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p>第1屆<a href="../Page/豆瓣.md" title="wikilink">豆瓣電影年度榜單</a></p></td>
+<td><p>第1屆<a href="../Page/豆瓣.md" title="wikilink">豆瓣</a>電影年度榜單</p></td>
 <td><p>评分最高的动画片</p></td>
 <td><p>《哆啦A梦：伴我同行》</p></td>
 <td></td>
@@ -378,7 +378,7 @@ THE MOVIE
 
 ## 軼事
 
-  - 在[香港](../Page/香港.md "wikilink")，為紀念多年來為多啦A夢配音的資深[配音員](../Page/配音員.md "wikilink")[林保全](../Page/林保全.md "wikilink")，電影開始前加插了一段由其女兒[林芷筠讀出的獨白](../Page/林芷筠.md "wikilink")。
+  - 在[香港](../Page/香港.md "wikilink")，為紀念多年來為多啦A夢配音的資深[配音員](../Page/配音員.md "wikilink")[林保全](../Page/林保全.md "wikilink")，電影開始前加插了一段由其女兒[林芷筠](../Page/林芷筠.md "wikilink")讀出的獨白。
   - 2015年4月27日，作为中国大陆上映前宣传，推出中国风宣传海报，海报将哆啦A梦、大雄、静香与中国京剧元素结合在一起\[40\]。
 
 ## 参考资料

@@ -1,4 +1,4 @@
-**Innuendo**是英国摇滚乐队[皇后乐队的第十四张专辑](../Page/皇后乐队.md "wikilink")。由[皇后乐队和戴维](../Page/皇后乐队.md "wikilink")·理查兹制作，1991年2月由唱片公司[Parlophone在英国发行](https://zh.wikipedia.org/wiki/Parlophone "wikilink")，由唱片公司Hollywood在美国发行。\[1\]这是乐队主唱[弗雷迪·默丘里生前完成的最后一张录音室专辑](https://zh.wikipedia.org/wiki/弗雷迪·默丘里 "wikilink")。
+**Innuendo**是英国摇滚乐队[皇后乐队](../Page/皇后乐队.md "wikilink")的第十四张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")和戴维·理查兹制作，1991年2月由唱片公司[Parlophone在英国发行](https://zh.wikipedia.org/wiki/Parlophone "wikilink")，由唱片公司Hollywood在美国发行。\[1\]这是乐队主唱[弗雷迪·默丘里](../Page/弗雷迪·默丘里.md "wikilink")生前完成的最后一张录音室专辑。
 
 ## 曲目列表
 

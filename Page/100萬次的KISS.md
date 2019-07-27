@@ -1,10 +1,10 @@
-《**100萬次的KISS**》（）是日本樂團[GLAY的第](../Page/GLAY.md "wikilink")35張單曲，同時也是第一張推出DVD版本的單曲。
+《**100萬次的KISS**》（）是日本樂團[GLAY](../Page/GLAY.md "wikilink")的第35張單曲，同時也是第一張推出DVD版本的單曲。
 
 ## 簡介
 
   - 第9張原創專輯《[LOVE IS
     BEAUTIFUL](https://zh.wikipedia.org/wiki/LOVE_IS_BEAUTIFUL "wikilink")》的先發單曲。
-  - 除了普通盤，另外同時發行4種DVD版本的限定盤。DVD收錄內容包含100萬次的KISS的MV，另外收錄[GLAY在](../Page/GLAY.md "wikilink")2006年參加演唱會的影像各一首曲子。
+  - 除了普通盤，另外同時發行4種DVD版本的限定盤。DVD收錄內容包含100萬次的KISS的MV，另外收錄[GLAY](../Page/GLAY.md "wikilink")在2006年參加演唱會的影像各一首曲子。
   - 4種限定盤的單曲封面各以[春](https://zh.wikipedia.org/wiki/春 "wikilink")、[夏](https://zh.wikipedia.org/wiki/夏 "wikilink")、[秋](https://zh.wikipedia.org/wiki/秋 "wikilink")、[冬的主題設計](https://zh.wikipedia.org/wiki/冬 "wikilink")。
 
 ## 收錄曲目

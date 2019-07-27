@@ -1,18 +1,18 @@
-**goldEN**是[香港二人男子唱作](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")，是音樂人[周博賢旗下經理人公司](../Page/周博賢.md "wikilink")[Ban
+**goldEN**是[香港](../Page/香港.md "wikilink")二人男子唱作[組合](../Page/組合.md "wikilink")，是音樂人[周博賢](../Page/周博賢.md "wikilink")旗下經理人公司[Ban
 Ban
-Music的藝人](https://zh.wikipedia.org/wiki/Ban_Ban_Music "wikilink")，由[馮家俊與](https://zh.wikipedia.org/wiki/Cousin_Fung "wikilink")[劉浩剛於](../Page/劉浩剛.md "wikilink")2008年組成，2011年正式出道，2012年由[金牌大風推出其首張作品](../Page/金牌大風.md "wikilink")《[足金金猴](../Page/足金金猴.md "wikilink")》\[1\]。2015年組合停滯至今也再沒推出新作。\[2\]
+Music的藝人](https://zh.wikipedia.org/wiki/Ban_Ban_Music "wikilink")，由[馮家俊與](https://zh.wikipedia.org/wiki/Cousin_Fung "wikilink")[劉浩剛](../Page/劉浩剛.md "wikilink")於2008年組成，2011年正式出道，2012年由[金牌大風](../Page/金牌大風.md "wikilink")推出其首張作品《[足金金猴](../Page/足金金猴.md "wikilink")》\[1\]。2015年組合停滯至今也再沒推出新作。\[2\]
 
 ## 背景
 
 goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/英倫音樂 "wikilink")，最初打算以「英國」之英語縮寫「Eng」做組合名稱的設計，最後經多次思考以後決定以融合英倫音樂與「黃金組合」意義的「goldEN」作隊名\[3\]。
 
-兩人出道前曾於[謝安琪在](../Page/謝安琪.md "wikilink")2009年的[好多謝安琪吶喊演唱會中參與演唱](../Page/好多謝安琪吶喊演唱會2009.md "wikilink")。
+兩人出道前曾於[謝安琪](../Page/謝安琪.md "wikilink")在2009年的[好多謝安琪吶喊演唱會中參與演唱](../Page/好多謝安琪吶喊演唱會2009.md "wikilink")。
 
 ## 成員
 
   - Cousin Fung（[馮家俊](https://zh.wikipedia.org/wiki/馮家俊 "wikilink")）
       - 在goldEN組成前，Cousin
-        Fung曾為[關楚耀和](../Page/關楚耀.md "wikilink")[謝安琪等作曲和編曲](../Page/謝安琪.md "wikilink")。goldEN組成後仍然積極參與幕後創作。
+        Fung曾為[關楚耀](../Page/關楚耀.md "wikilink")和[謝安琪](../Page/謝安琪.md "wikilink")等作曲和編曲。goldEN組成後仍然積極參與幕後創作。
   - Kenneth（[劉浩剛](../Page/劉浩剛.md "wikilink")）
       - 在goldEN組成前，Kenneth是歌手，曾奪得2004年多倫多新秀歌唱大賽亞軍，及2005年全球華人新秀歌唱大賽最後四強。2007年回流至香港。
 

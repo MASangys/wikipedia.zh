@@ -7,7 +7,7 @@ docomo的關係企業經營，為利用日本的[類比](../Page/類比電視.md
 
 [Tokyo_Sky_Tree_2012_Ⅵ.JPG](https://zh.wikipedia.org/wiki/File:Tokyo_Sky_Tree_2012_Ⅵ.JPG "fig:Tokyo_Sky_Tree_2012_Ⅵ.JPG")[墨田的](../Page/墨田區.md "wikilink")[晴空塔是NOTTV服務訊號的主要發射基地之一](https://zh.wikipedia.org/wiki/晴空塔 "wikilink")，訊號涵蓋範圍遍及關東地區7個縣份。\]\]
 [Tokyo-Midtown-Tower-04.jpg](https://zh.wikipedia.org/wiki/File:Tokyo-Midtown-Tower-04.jpg "fig:Tokyo-Midtown-Tower-04.jpg")的[中城大樓內](https://zh.wikipedia.org/wiki/中城大樓 "wikilink")。\]\]
-針對行動電話的收視，NOTTV採用[ISDB-Tmm規格](../Page/ISDB.md "wikilink")，以[VHF高頻](https://zh.wikipedia.org/wiki/VHF "wikilink")（VHF
+針對行動電話的收視，NOTTV採用[ISDB](../Page/ISDB.md "wikilink")-Tmm規格，以[VHF高頻](https://zh.wikipedia.org/wiki/VHF "wikilink")（VHF
 Hi-Band，頻率介於207.5MHz至222MHz之間）播放，日本方面並且將使用此頻段播放的多媒體資訊定名為「行動播放」（/Mobacas，是英文Mobile
 Casting的和式簡寫轉變成的新創字）規格。其所播放的影片內容採[MPEG-4
 AVC/H.264格式](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")，其中如果採即時（real-time）方式收視時畫質為720×480畫素/每秒30幅，但如果採[時光平移](https://zh.wikipedia.org/wiki/時光平移 "wikilink")（time-shift）方式收視的話，畫質可進一步提升至1280×720畫素的[高畫質水準](https://zh.wikipedia.org/wiki/高清晰度电视 "wikilink")。相較於日本既有的[One-Seg播放格式](../Page/1seg.md "wikilink")（320×240畫素/每秒15幅），整體畫質提升了約10倍。
@@ -20,7 +20,7 @@ docomo陸續增加了NOTTV對應的手機與平板電腦款式，至2013年9月�
 docomo之外，包括[軟銀行動](https://zh.wikipedia.org/wiki/軟銀行動 "wikilink")（SoftBank
 Mobile）在內的對手，乃至於車用[導航系統等其他種類設備的製造商](https://zh.wikipedia.org/wiki/導航系統 "wikilink")，也在研究推出NOTTV對應機種的可行性。
 
-在收視費用方面，收視戶每月需負擔420[日圓的基本月費](../Page/日圓.md "wikilink")，再以[按次計費收視](https://zh.wikipedia.org/wiki/按次計費收視 "wikilink")（Pay-per-view）的方式收看額外的優級節目。但是在某些特殊狀況，例如如果收視用戶同時也是docomo集團的關係企業（Oak
+在收視費用方面，收視戶每月需負擔420[日圓](../Page/日圓.md "wikilink")的基本月費，再以[按次計費收視](https://zh.wikipedia.org/wiki/按次計費收視 "wikilink")（Pay-per-view）的方式收看額外的優級節目。但是在某些特殊狀況，例如如果收視用戶同時也是docomo集團的關係企業（Oak
 Lawn
 Marketing）的消費者，並且透過NOTTV播放的[電視購物節目每月至少進行一次的消費時](https://zh.wikipedia.org/wiki/電視購物 "wikilink")，可以獲得等值於收視月費的回饋金，等同實際上是免費收看該電視台的節目。
 
@@ -30,7 +30,7 @@ docomo推出的新機種全面加入了錄影功能，或者具有背景播放�
 ## 歷史
 
 2011年7月24日，除了3個因[311大地震受創而延後進度的縣份外](https://zh.wikipedia.org/wiki/311大地震 "wikilink")，日本全國正式停止使用多年的[NTSC規格類比無線電視服務](https://zh.wikipedia.org/wiki/NTSC "wikilink")，全面進入數位電視時代。在電視播放規格改變之後，原本類比電視所使用的VHF高頻頻段空置而出，針對這點以NTT
-docomo為核心、包含手機設備製造商與[富士](../Page/富士電視台.md "wikilink")、[日本](../Page/日本電視台.md "wikilink")、[TBS等主要電視台在內的多家大企業](../Page/TBS.md "wikilink")，共同組成經營Mobacas的營運團隊投入多媒體播放市場，也就是後來的mmbi之前身。
+docomo為核心、包含手機設備製造商與[富士](../Page/富士電視台.md "wikilink")、[日本](../Page/日本電視台.md "wikilink")、[TBS](../Page/TBS.md "wikilink")等主要電視台在內的多家大企業，共同組成經營Mobacas的營運團隊投入多媒體播放市場，也就是後來的mmbi之前身。
 
 2012年4月1日，NOTTV正式開台，開台時播放訊號的發射站名單包含[墨田](../Page/墨田區.md "wikilink")（[東京](../Page/東京都.md "wikilink")）、[橫濱](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")（[神奈川](../Page/神奈川縣.md "wikilink")）、[佐原](https://zh.wikipedia.org/wiki/佐原市 "wikilink")（[千葉](../Page/千葉縣.md "wikilink")）、[名古屋及](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[豐橋](../Page/豐橋市.md "wikilink")（[愛知](../Page/愛知縣.md "wikilink")）、[津](../Page/津市_\(日本\).md "wikilink")（[三重](https://zh.wikipedia.org/wiki/三重縣 "wikilink")）、[京都](../Page/京都市.md "wikilink")、[大阪](../Page/大阪市.md "wikilink")、[三木](../Page/三木市.md "wikilink")（[兵庫](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")）、[福岡與](../Page/福岡市.md "wikilink")[北九州](../Page/北九州市.md "wikilink")（[福岡](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")），以及[沖繩等地](../Page/沖繩縣.md "wikilink")，並陸續擴增連線的播放站數量。至於負責NOTTV的訊號播放站之營運的，是mmbi的子公司（Japan
 Mobilecasting）。
@@ -40,7 +40,7 @@ docomo希望NOTTV能在開台的第一年達到百萬戶的收視戶數，並以
 
 ## 頻道
 
-NOTTV的播放服務是由三個頻道構成，播放內容除了電視台自製的節目外，也有不少來自[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")的節目內容，與一些承接自[富士](../Page/富士電視台.md "wikilink")、[TBS與](../Page/TBS.md "wikilink")[日本電視台](../Page/日本電視台.md "wikilink")（本身也是NOTTV[股東](https://zh.wikipedia.org/wiki/股東 "wikilink")）的節目。
+NOTTV的播放服務是由三個頻道構成，播放內容除了電視台自製的節目外，也有不少來自[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")的節目內容，與一些承接自[富士](../Page/富士電視台.md "wikilink")、[TBS](../Page/TBS.md "wikilink")與[日本電視台](../Page/日本電視台.md "wikilink")（本身也是NOTTV[股東](https://zh.wikipedia.org/wiki/股東 "wikilink")）的節目。
 
 NOTTV的頻道包括：
 
@@ -49,7 +49,7 @@ NOTTV的頻道包括：
   - NOTTV
     2：開台時最初是以[日本職業足球聯盟的賽事轉播為主要用途](https://zh.wikipedia.org/wiki/日本職業足球聯盟 "wikilink")，之後逐漸改為NOTTV
     1播放過的自製節目之重播用，或是在NOTTV
-    1轉播[棒球之類的賽事而延誤到後續節目播放時](../Page/棒球.md "wikilink")，作為備用頻道使用。為了利用深夜較為充裕的頻寬作為時光平移節目內容的下載，因此深夜時段並不提供節目播放。
+    1轉播[棒球](../Page/棒球.md "wikilink")之類的賽事而延誤到後續節目播放時，作為備用頻道使用。為了利用深夜較為充裕的頻寬作為時光平移節目內容的下載，因此深夜時段並不提供節目播放。
   - NOTTV
     NEWS：24小時播放的新聞頻道。節目內容分別是由TBS旗下的新聞頻道[TBS新聞鳥](https://zh.wikipedia.org/wiki/TBS新聞鳥 "wikilink")（TBS
     Newsbird）與日本電視台旗下的新聞頻道（）支援。

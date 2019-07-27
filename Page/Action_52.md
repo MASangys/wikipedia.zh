@@ -16,7 +16,7 @@ Engineering,
 Inc.）處理，遊戲音樂則邀請曾在電視卡通《[加菲貓](https://zh.wikipedia.org/wiki/加菲貓 "wikilink")》中配樂的艾德·波格斯（Ed
 Bogas）負責。之後《Action
 52》於1991年開發完成，產品標售則訂為199美金，\[3\]而文斯·派利也在當年的[消費性電子展上宣傳這套遊戲](https://zh.wikipedia.org/wiki/消費性電子展 "wikilink")，\[4\]不過《Action
-52》在NES主機上販售一事一直未被[任天堂所認可](../Page/任天堂.md "wikilink")。
+52》在NES主機上販售一事一直未被[任天堂](../Page/任天堂.md "wikilink")所認可。
 
 在1993年主機[Mega Drive上改版發行的](../Page/Mega_Drive.md "wikilink")《Action
 52》，則交由另一遊戲廠商[FarSight
@@ -81,7 +81,7 @@ Studio》裡音訊範例檔案的問題。\[15\]而程式設計師凱文·霍頓
 Horton）在分析《Action 52》音樂、音效的程式碼時，則發現內容有與遊戲廠商[Sculptured
 Software使用的程式碼相同的情況](https://zh.wikipedia.org/wiki/Sculptured_Software "wikilink")。\[16\]
 
-另在NES版《Action 52》的遊戲開頭動畫，背景配樂則直接套用[靈魂樂歌手Rob](../Page/靈魂樂.md "wikilink")
+另在NES版《Action 52》的遊戲開頭動畫，背景配樂則直接套用[靈魂樂](../Page/靈魂樂.md "wikilink")歌手Rob
 Base and DJ E-Z Rock的歌曲《It Takes Two》。
 
 #### 作品完成度

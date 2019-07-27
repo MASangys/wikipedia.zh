@@ -2,21 +2,21 @@
 
 ## 歷史
 
-2008年，該武器的第一代型號於[凯尔采所舉辦的](../Page/凯尔采.md "wikilink")2008年[國際國防工業展覽會中展出](https://zh.wikipedia.org/wiki/國際國防工業展覽會 "wikilink")。這種武器在結構上類似於[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")-{[米爾科姆轉輪連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-，尤其是其[美国海军陆战队的版本M](../Page/美国海军陆战队.md "wikilink")32
-MGL。最初展示的原型與2010年修改版本不同。生產商還展開各種改進，其中包括專為榴彈發射器研製的原型瞄準具與[槍托的商業化設計](../Page/槍托.md "wikilink")，並作出外觀修改以改進其[人體工學和武器的功能](../Page/人因工程学.md "wikilink")。
+2008年，該武器的第一代型號於[凯尔采](../Page/凯尔采.md "wikilink")所舉辦的2008年[國際國防工業展覽會中展出](https://zh.wikipedia.org/wiki/國際國防工業展覽會 "wikilink")。這種武器在結構上類似於[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")-{[米爾科姆轉輪連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-，尤其是其[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")的版本M32
+MGL。最初展示的原型與2010年修改版本不同。生產商還展開各種改進，其中包括專為榴彈發射器研製的原型瞄準具與[槍托](../Page/槍托.md "wikilink")的商業化設計，並作出外觀修改以改進其[人體工學和武器的功能](../Page/人因工程学.md "wikilink")。
 
 根據計劃，RGP-40的主要客戶可能是[波蘭武裝部隊](../Page/波蘭軍事.md "wikilink")；而按照他們的推算，將需要大約500
 枝轉輪式榴彈發射器。這種武器的潛在買家也包括警察、監獄局和其他需要強大[火力而且具有多種](https://zh.wikipedia.org/wiki/火力 "wikilink")[彈藥選擇](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（致命性高爆彈或[催淚瓦斯彈](../Page/催淚彈.md "wikilink")）的武器的單位。
 
 ## 設計
 
-RGP-40是一枝轉輪式[半自動武器](https://zh.wikipedia.org/wiki/半自動武器 "wikilink")。該武器的主要元素是裝有可[旋轉及擺出的](https://zh.wikipedia.org/wiki/轉_\(角\) "wikilink")[弹巢的槍](https://zh.wikipedia.org/wiki/弹巢 "wikilink")，而彈巢內的[膛室開口是由彈巢後方的右旋式托架兼圓形護蓋所覆蓋](../Page/膛室.md "wikilink")；該托架與和扳機機構相連接，以便於肩射時承受其[後座力](../Page/後座力.md "wikilink")。裝填武器時需要以逆時針旋轉轉輪並且扭緊其內置的卷簧（類似上發條），以在發射時使彈巢順時針方向旋轉。
+RGP-40是一枝轉輪式[半自動武器](https://zh.wikipedia.org/wiki/半自動武器 "wikilink")。該武器的主要元素是裝有可[旋轉及擺出的](https://zh.wikipedia.org/wiki/轉_\(角\) "wikilink")[弹巢的槍](https://zh.wikipedia.org/wiki/弹巢 "wikilink")，而彈巢內的[膛室](../Page/膛室.md "wikilink")開口是由彈巢後方的右旋式托架兼圓形護蓋所覆蓋；該托架與和扳機機構相連接，以便於肩射時承受其[後座力](../Page/後座力.md "wikilink")。裝填武器時需要以逆時針旋轉轉輪並且扭緊其內置的卷簧（類似上發條），以在發射時使彈巢順時針方向旋轉。
 
-旋轉式彈巢為6發式設計。轉輪的彈膛膛室長度為140毫米（5.51英吋），這使得該榴彈發射器能夠裝填並且發射較長的[催淚瓦斯彈和](../Page/催淚彈.md "wikilink")[非致命性衝擊彈](https://zh.wikipedia.org/wiki/非致命性彈藥 "wikilink")，更適合應付維和任務和[防暴任務](../Page/防暴.md "wikilink")。武器裝填需要將彈巢護蓋從左側或右側傾斜擺出。
+旋轉式彈巢為6發式設計。轉輪的彈膛膛室長度為140毫米（5.51英吋），這使得該榴彈發射器能夠裝填並且發射較長的[催淚瓦斯彈和](../Page/催淚彈.md "wikilink")[非致命性衝擊彈](https://zh.wikipedia.org/wiki/非致命性彈藥 "wikilink")，更適合應付維和任務和[防暴](../Page/防暴.md "wikilink")任務。武器裝填需要將彈巢護蓋從左側或右側傾斜擺出。
 
-RGP-40具有令槍機到位的[雙動操作扳機機構](https://zh.wikipedia.org/wiki/扳機 "wikilink")。發射時，高壓火藥燃氣的壓力會利用導氣孔推動[活塞向上](https://zh.wikipedia.org/wiki/活塞 "wikilink")，由活塞推動棘輪卡鎖向前以釋放轉輪，並且在簧力的作用以下讓卷簧推動膛室作60°旋轉，直到下一個膛室的底火與擊針和[槍管連成一線](../Page/槍管.md "wikilink")，這樣就可以準備發射下一發榴彈。如果發生了出現[不發榴彈](https://zh.wikipedia.org/wiki/不發 "wikilink")（扣下扳機也不發射），扳機仍然可以反復扣下後直到發射為止。此武器的手動保險開關選擇桿就裝在較後的的上方，而且可以從左右兩邊的[大拇指操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。
+RGP-40具有令槍機到位的[雙動操作扳機機構](https://zh.wikipedia.org/wiki/扳機 "wikilink")。發射時，高壓火藥燃氣的壓力會利用導氣孔推動[活塞向上](https://zh.wikipedia.org/wiki/活塞 "wikilink")，由活塞推動棘輪卡鎖向前以釋放轉輪，並且在簧力的作用以下讓卷簧推動膛室作60°旋轉，直到下一個膛室的底火與擊針和[槍管](../Page/槍管.md "wikilink")連成一線，這樣就可以準備發射下一發榴彈。如果發生了出現[不發榴彈](https://zh.wikipedia.org/wiki/不發 "wikilink")（扣下扳機也不發射），扳機仍然可以反復扣下後直到發射為止。此武器的手動保險開關選擇桿就裝在較後的的上方，而且可以從左右兩邊的[大拇指操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。
 
-RGP-40於彈巢以上的[轉輪座頂部和槍管管套分別裝有一條和三條](../Page/机匣.md "wikilink")[MIL-STD-1913戰術導軌片](../Page/皮卡汀尼導軌.md "wikilink")，以分別安裝瞄準具、[戰術燈和內部裝有](../Page/戰術燈.md "wikilink")[兩腳架架腿的](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[前握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")（如圖）。該武器配備一個可，早期型槍托與[M4卡賓槍的美國陸軍改進型槍托非常相似](../Page/M4卡賓槍.md "wikilink")，而2010年修改版本則改為可藉由轉軸調整角度的帶短導軌槍托。
+RGP-40於彈巢以上的[轉輪座頂部和槍管管套分別裝有一條和三條](../Page/机匣.md "wikilink")[MIL-STD-1913戰術導軌片](../Page/皮卡汀尼導軌.md "wikilink")，以分別安裝瞄準具、[戰術燈](../Page/戰術燈.md "wikilink")和內部裝有[兩腳架架腿的](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[前握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")（如圖）。該武器配備一個可，早期型槍托與[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")的美國陸軍改進型槍托非常相似，而2010年修改版本則改為可藉由轉軸調整角度的帶短導軌槍托。
 
 ## 參見
 

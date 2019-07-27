@@ -2,11 +2,11 @@
 （也拼写作**ZeroMQ**，**0MQ**或**ZMQ**)是一个为可伸缩的[分布式或并发应用程序设计的高性能异步消息库](../Page/分布式计算.md "wikilink")。它提供一个[消息队列](../Page/消息队列.md "wikilink"),
 但是与[面向消息的中间件不同](https://zh.wikipedia.org/wiki/面向消息的中间件 "wikilink")，ZeroMQ的运行不需要专门的[消息代理](https://zh.wikipedia.org/wiki/消息代理 "wikilink")（）。该库设计成常见的[套接字风格的](../Page/Berkeley套接字.md "wikilink")[API](../Page/应用程序接口.md "wikilink")。
 
-ZeroMQ是由iMatix公司和大量贡献者组成的社群共同开发的。ZeroQ通过许多第三方软件支持大部分流行的编程语言，从[Java和](../Page/Java.md "wikilink")[Python到](../Page/Python.md "wikilink")[Erlang和](../Page/Erlang.md "wikilink")[Haskell](../Page/Haskell.md "wikilink")。
+ZeroMQ是由iMatix公司和大量贡献者组成的社群共同开发的。ZeroQ通过许多第三方软件支持大部分流行的编程语言，从[Java](../Page/Java.md "wikilink")和[Python](../Page/Python.md "wikilink")到[Erlang](../Page/Erlang.md "wikilink")和[Haskell](../Page/Haskell.md "wikilink")。
 
 ## 技术
 
-类库提供一些套接字（对传统[Berkeley套接字和](../Page/Berkeley套接字.md "wikilink")[Unix
+类库提供一些套接字（对传统[Berkeley套接字](../Page/Berkeley套接字.md "wikilink")和[Unix
 domain
 socket的泛化](https://zh.wikipedia.org/wiki/Unix_domain_socket "wikilink")），每一个套接字可以代表一个[端口之间的](https://zh.wikipedia.org/wiki/通讯端口 "wikilink")连接。以消息的粒度进行操作，套接字需要使用一种[消息模式](https://zh.wikipedia.org/wiki/消息模式 "wikilink")（）,然后专门为那种模式进行了优化。
 

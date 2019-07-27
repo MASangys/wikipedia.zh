@@ -4,12 +4,12 @@
 
 ## 唱片版本
 
-  - experience 通常盤版(2012.12.12 [Amuse發行](../Page/Amuse.md "wikilink"))
+  - experience 通常盤版(2012.12.12 [Amuse](../Page/Amuse.md "wikilink")發行)
   - experience Collector's Edition ( CD+DVD+100P寫真冊 ) 完全數量限定盤
     2區／experience コレクタ版(2012.12.12
-    [Amuse發行](../Page/Amuse.md "wikilink"))\[2\]
+    [Amuse](../Page/Amuse.md "wikilink")發行)\[2\]
   - experience ( CD+DVD ) 初回限定盤 2區版(2012.12.12
-    [Amuse發行](../Page/Amuse.md "wikilink"))\[3\]
+    [Amuse](../Page/Amuse.md "wikilink")發行)\[3\]
   - experience ( 2CD )版(2013.3.12
     [相信音樂發行](https://zh.wikipedia.org/wiki/相信音樂 "wikilink"))
 

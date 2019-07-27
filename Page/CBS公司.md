@@ -13,14 +13,14 @@ products =
 [全美娱乐公司](https://zh.wikipedia.org/wiki/全美娱乐公司 "wikilink")<small>（占股80%）</small>
 | divisions =  | subsid =  | homepage =  }}
 
-**CBS公司**（）是[美国一家](../Page/美国.md "wikilink")[大众传媒公司](https://zh.wikipedia.org/wiki/大众传媒 "wikilink")，其专注于[商业广播](https://zh.wikipedia.org/wiki/商业广播 "wikilink")、[出版和](https://zh.wikipedia.org/wiki/出版 "wikilink")[电视制作](../Page/电视.md "wikilink")，主要业务在美国。公司执行董事长、总裁兼CEO是；控股母公司是[全美娱乐公司](https://zh.wikipedia.org/wiki/全美娱乐公司 "wikilink")，[萨莫·雷石东为本公司的大股东兼名誉董事长](../Page/萨莫·雷石东.md "wikilink")。公司于2006年1月3日在美国[纽约证交所上市](https://zh.wikipedia.org/wiki/纽约证交所 "wikilink")，原名为。
+**CBS公司**（）是[美国](../Page/美国.md "wikilink")一家[大众传媒公司](https://zh.wikipedia.org/wiki/大众传媒 "wikilink")，其专注于[商业广播](https://zh.wikipedia.org/wiki/商业广播 "wikilink")、[出版和](https://zh.wikipedia.org/wiki/出版 "wikilink")[电视](../Page/电视.md "wikilink")制作，主要业务在美国。公司执行董事长、总裁兼CEO是；控股母公司是[全美娱乐公司](https://zh.wikipedia.org/wiki/全美娱乐公司 "wikilink")，[萨莫·雷石东](../Page/萨莫·雷石东.md "wikilink")为本公司的大股东兼名誉董事长。公司于2006年1月3日在美国[纽约证交所上市](https://zh.wikipedia.org/wiki/纽约证交所 "wikilink")，原名为。
 
 维亚康姆在分拆之后，成立了一家新公司保留维亚康姆这个名字，而另一家分拆出来的公司就是CBS公司。CBS公司是维亚康姆在法律上的正式继承人。\[6\]
 CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.wikipedia.org/wiki/地面电视 "wikilink")（[CBS电视网](../Page/CBS_\(電視網\).md "wikilink")、[CW电视网](https://zh.wikipedia.org/wiki/CW电视网 "wikilink")）、[广播电台业务](https://zh.wikipedia.org/wiki/广播电台 "wikilink")、电视制作与发行业务、出版业务、[付费有线电视业务](../Page/付费电视.md "wikilink")、[基础有线电视业务](../Page/有线电视.md "wikilink")（）、[唱片业务等](https://zh.wikipedia.org/wiki/音乐产业 "wikilink")。CBS公司总部位于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿的](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")（又名“黑石大厦”）。\[7\]
 
 ## 公司背景
 
-维亚康姆成立于1971年，其前身是[哥伦比亚广播公司旗下的电视](https://zh.wikipedia.org/wiki/哥伦比亚广播公司 "wikilink")[辛迪加部门](../Page/辛迪加.md "wikilink")，并于1971年被分拆。但是到了1999年，维亚康姆收购了其前身的[母公司](https://zh.wikipedia.org/wiki/母公司 "wikilink")——[西屋公司](../Page/西屋公司.md "wikilink")（也就是现在的CBS公司）。原CBS公司还拥有和纳什维尔电视网（现[Spike电视网](https://zh.wikipedia.org/wiki/Spike电视网 "wikilink")），在2005年分拆之后，改为新[维亚康姆公司所有](https://zh.wikipedia.org/wiki/维亚康姆 "wikilink")。分拆之后的CBS公司新增了[联合派拉蒙电视网](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")、[Showtime电视网](https://zh.wikipedia.org/wiki/Showtime电视网 "wikilink")、派拉蒙电视公司、派拉蒙公园和[西蒙与舒斯特等资产](https://zh.wikipedia.org/wiki/西蒙与舒斯特 "wikilink")。
+维亚康姆成立于1971年，其前身是[哥伦比亚广播公司旗下的电视](https://zh.wikipedia.org/wiki/哥伦比亚广播公司 "wikilink")[辛迪加](../Page/辛迪加.md "wikilink")部门，并于1971年被分拆。但是到了1999年，维亚康姆收购了其前身的[母公司](https://zh.wikipedia.org/wiki/母公司 "wikilink")——[西屋公司](../Page/西屋公司.md "wikilink")（也就是现在的CBS公司）。原CBS公司还拥有和纳什维尔电视网（现[Spike电视网](https://zh.wikipedia.org/wiki/Spike电视网 "wikilink")），在2005年分拆之后，改为新[维亚康姆公司所有](https://zh.wikipedia.org/wiki/维亚康姆 "wikilink")。分拆之后的CBS公司新增了[联合派拉蒙电视网](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")、[Showtime电视网](https://zh.wikipedia.org/wiki/Showtime电视网 "wikilink")、派拉蒙电视公司、派拉蒙公园和[西蒙与舒斯特等资产](https://zh.wikipedia.org/wiki/西蒙与舒斯特 "wikilink")。
 
 ## 公司历史
 
@@ -40,7 +40,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 <!-- end list -->
 
-  - 1月24日，CBS公司与[华纳兄弟宣布建立一个新的](../Page/华纳兄弟.md "wikilink")[地面电视](https://zh.wikipedia.org/wiki/地面电视 "wikilink")[联播网](https://zh.wikipedia.org/wiki/联播网 "wikilink")——[CW电视网](https://zh.wikipedia.org/wiki/CW电视网 "wikilink")。该电视网于同年9月18日正式登场，并于9月20日播出《[全美超模新秀赛](../Page/全美超級模特兒新秀大賽.md "wikilink")》2小时首播特辑。CW电视网是由[WB电视网](https://zh.wikipedia.org/wiki/WB电视网 "wikilink")（时代华纳控股）和[联合派拉蒙电视网](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")（CBS公司持有）合并而成，（持有WB电视网25%的股份）和CBS公司为CW电视网提供了全部加盟台。
+  - 1月24日，CBS公司与[华纳兄弟](../Page/华纳兄弟.md "wikilink")宣布建立一个新的[地面电视](https://zh.wikipedia.org/wiki/地面电视 "wikilink")[联播网](https://zh.wikipedia.org/wiki/联播网 "wikilink")——[CW电视网](https://zh.wikipedia.org/wiki/CW电视网 "wikilink")。该电视网于同年9月18日正式登场，并于9月20日播出《[全美超模新秀赛](../Page/全美超級模特兒新秀大賽.md "wikilink")》2小时首播特辑。CW电视网是由[WB电视网](https://zh.wikipedia.org/wiki/WB电视网 "wikilink")（时代华纳控股）和[联合派拉蒙电视网](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")（CBS公司持有）合并而成，（持有WB电视网25%的股份）和CBS公司为CW电视网提供了全部加盟台。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 ### 2007年
 
-  - 2月7日，CBS公司宣布以1.85亿美元的价格向[博龙资产管理公司出售其分别位于](../Page/博龙资产管理.md "wikilink")[罗德岛州](https://zh.wikipedia.org/wiki/罗德岛州 "wikilink")[普罗维登斯](https://zh.wikipedia.org/wiki/普罗维登斯_\(罗德岛州\) "wikilink")、[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")、[犹他州](../Page/犹他州.md "wikilink")[盐湖城和](https://zh.wikipedia.org/wiki/盐湖城 "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")[西棕榈滩的七个电视台站](../Page/西棕榈滩.md "wikilink")。\[12\]
+  - 2月7日，CBS公司宣布以1.85亿美元的价格向[博龙资产管理](../Page/博龙资产管理.md "wikilink")公司出售其分别位于[罗德岛州](https://zh.wikipedia.org/wiki/罗德岛州 "wikilink")[普罗维登斯](https://zh.wikipedia.org/wiki/普罗维登斯_\(罗德岛州\) "wikilink")、[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")、[犹他州](../Page/犹他州.md "wikilink")[盐湖城和](https://zh.wikipedia.org/wiki/盐湖城 "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")[西棕榈滩](../Page/西棕榈滩.md "wikilink")的七个电视台站。\[12\]
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 <!-- end list -->
 
-  - 5月30日，[CBS互动宣布以](https://zh.wikipedia.org/wiki/CBS互动 "wikilink")1.4亿[英镑的价格收购](../Page/英镑.md "wikilink")[Last.fm](../Page/Last.fm.md "wikilink")。\[17\]
+  - 5月30日，[CBS互动宣布以](https://zh.wikipedia.org/wiki/CBS互动 "wikilink")1.4亿[英镑](../Page/英镑.md "wikilink")的价格收购[Last.fm](../Page/Last.fm.md "wikilink")。\[17\]
 
 ### 2008年
 
@@ -93,7 +93,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 <!-- end list -->
 
-  - 3月26日，CBS公司和[狮门娱乐以各入股一半的形式成立一家公司以运营电视指南电视网](../Page/狮门娱乐.md "wikilink")（现）和。\[21\]\[22\]
+  - 3月26日，CBS公司和[狮门娱乐](../Page/狮门娱乐.md "wikilink")以各入股一半的形式成立一家公司以运营电视指南电视网（现）和。\[21\]\[22\]
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 ### 2014年
 
-  - 3月28日，CBS户外部门作为一家独立公司在[纽约证券交易所以](../Page/纽约证券交易所.md "wikilink")“CBSO”的名义上市。CBS户外公司在7月从CBS公司完全剥离成为一家独立地产投资信托公司，并更名为“”。
+  - 3月28日，CBS户外部门作为一家独立公司在[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")以“CBSO”的名义上市。CBS户外公司在7月从CBS公司完全剥离成为一家独立地产投资信托公司，并更名为“”。
 
 ### 2016年
 
@@ -121,7 +121,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 ## 公司高管
 
-以下为CBS公司[董事会成员](../Page/董事会.md "wikilink")：
+以下为CBS公司[董事会](../Page/董事会.md "wikilink")成员：
 
   - [萨莫·雷石东](../Page/萨莫·雷石东.md "wikilink")（名誉董事长）
 

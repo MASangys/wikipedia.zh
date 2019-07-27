@@ -439,8 +439,6 @@ GENE於2012年6月7日舉辦了正式Show case出道發布會，
 
   - [SANGMIN](https://www.instagram.com/cg_sangmin/)的Instagram帳戶
 
-  - [TAKUYA](https://www.instagram.com/cg_takuya/)的Instagram帳戶
-
   - [SHIN](https://www.instagram.com/cg__shinwonho/)的Instagram帳戶
 
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

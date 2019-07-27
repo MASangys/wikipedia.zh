@@ -25,7 +25,7 @@
 
 </div>
 
-在[化學與](../Page/化學.md "wikilink")[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**p軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")1，其[磁量子數可以為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")-1、0或+1，且每個[殼層裡中有三個p軌域](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")，P<sub>x</sub>、P<sub>y</sub>、P<sub>z</sub>，形狀皆相同但方向不同，每個可以容納2個電子，因此，p軌域共可以容納6個電子。
+在[化學](../Page/化學.md "wikilink")與[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**p軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")1，其[磁量子數可以為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")-1、0或+1，且每個[殼層裡中有三個p軌域](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")，P<sub>x</sub>、P<sub>y</sub>、P<sub>z</sub>，形狀皆相同但方向不同，每個可以容納2個電子，因此，p軌域共可以容納6個電子。
 
 p軌域是一個很穩定的軌域，其穩定性僅次於[s軌域](https://zh.wikipedia.org/wiki/s軌域 "wikilink")，為能量第二低的軌域，另外由於[能階交錯](https://zh.wikipedia.org/wiki/能階交錯 "wikilink")，若以週期的角度來看，p軌域是能量最高的軌域，也是最後填滿的軌域，其[電子出現](https://zh.wikipedia.org/wiki/電子 "wikilink")[機率密度的形象是](https://zh.wikipedia.org/wiki/機率密度 "wikilink")[啞鈴形](https://zh.wikipedia.org/wiki/啞鈴形 "wikilink")，呈[線性對稱](https://zh.wikipedia.org/wiki/線性對稱 "wikilink")，換句話說，p軌域是一個雙啞鈴形或吊鐘形的軌域。
 
@@ -37,7 +37,7 @@ p軌域的「p」是「principal」，其為「主系光譜」之意。
 
 [Es-Orbitales_p.png](https://zh.wikipedia.org/wiki/File:Es-Orbitales_p.png "fig:Es-Orbitales_p.png")
 [P5M0.png](https://zh.wikipedia.org/wiki/File:P5M0.png "fig:P5M0.png")\]\]
-p軌域從第二個殼層開始出現，最小的p軌域是2p軌域，也就是說，當[主量子數n](../Page/主量子數.md "wikilink")=1時，沒有p軌域（1p軌域不存在）。當[角量子數l](https://zh.wikipedia.org/wiki/角量子數 "wikilink")=1時，[磁量子數m會有三種值](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")，分別為1、0、-1，因此，自量子數n=2開始有三種p軌域對應於每一個主量子數，例如，當主量子數n=2時，p軌域分別為2p<sub><small>x</small></sub>、2p<sub><small>y</small></sub>和2p<sub><small>z</small></sub>軌域，每個軌域皆可分成兩葉，帶有不同的「正負性」，這是代表波函數量值的正負。大小則如同s軌域，p軌域的形狀在2p、3p、4p裡都相同，只是大小隨著主量子數的增加而增加。p軌域同樣存在[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，如3p軌域在主要電子出現的兩葉中，有較小而與主葉分離的區域，此處電子出現概率為0，則這個區域即為p軌域的[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，隨著主量子數的增加，[波節的數量也會跟著增加](https://zh.wikipedia.org/wiki/波節 "wikilink")。
+p軌域從第二個殼層開始出現，最小的p軌域是2p軌域，也就是說，當[主量子數](../Page/主量子數.md "wikilink")n=1時，沒有p軌域（1p軌域不存在）。當[角量子數l](https://zh.wikipedia.org/wiki/角量子數 "wikilink")=1時，[磁量子數m會有三種值](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")，分別為1、0、-1，因此，自量子數n=2開始有三種p軌域對應於每一個主量子數，例如，當主量子數n=2時，p軌域分別為2p<sub><small>x</small></sub>、2p<sub><small>y</small></sub>和2p<sub><small>z</small></sub>軌域，每個軌域皆可分成兩葉，帶有不同的「正負性」，這是代表波函數量值的正負。大小則如同s軌域，p軌域的形狀在2p、3p、4p裡都相同，只是大小隨著主量子數的增加而增加。p軌域同樣存在[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，如3p軌域在主要電子出現的兩葉中，有較小而與主葉分離的區域，此處電子出現概率為0，則這個區域即為p軌域的[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，隨著主量子數的增加，[波節的數量也會跟著增加](https://zh.wikipedia.org/wiki/波節 "wikilink")。
 
 ## 電子波
 

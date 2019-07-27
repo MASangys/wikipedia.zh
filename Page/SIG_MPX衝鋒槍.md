@@ -1,7 +1,7 @@
 [SIG̠MPX.jpg](https://zh.wikipedia.org/wiki/File:SIG̠MPX.jpg "fig:SIG̠MPX.jpg")
 
 **SIG
-MPX**是一系列由[西格&紹爾所研製及生產的](../Page/西格&紹爾.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，先後在2013年1月和同年11月分別位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）和[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎舉行的](../Page/巴黎.md "wikilink")[歐洲國際軍警裝備展上展出](https://zh.wikipedia.org/wiki/歐洲國際軍警裝備展 "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
+MPX**是一系列由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，先後在2013年1月和同年11月分別位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）和[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")舉行的[歐洲國際軍警裝備展上展出](https://zh.wikipedia.org/wiki/歐洲國際軍警裝備展 "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
 S\&W和](../Page/.40_S&W.md "wikilink")[.357
 SIG這三種](../Page/.357_SIG.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
@@ -20,7 +20,7 @@ MP5冲锋枪的競爭對手](../Page/HK_MP5冲锋枪.md "wikilink")，但它也�
 ## 設計細節
 
 SIG
-MPX的標準型號配有一根8.0英寸（203.2亮米）的槍管，裝填9×19毫米“帕拉贝鲁姆”彈藥。它配有可折疊的[槍托和自由浮動式導軌](../Page/槍托.md "wikilink")。它的全自動循環射速達到850發／分鐘。\[2\]\[3\]MPX還提供不同的槍管長度，範圍從4.5到16英寸。\[4\]
+MPX的標準型號配有一根8.0英寸（203.2亮米）的槍管，裝填9×19毫米“帕拉贝鲁姆”彈藥。它配有可折疊的[槍托](../Page/槍托.md "wikilink")和自由浮動式導軌。它的全自動循環射速達到850發／分鐘。\[2\]\[3\]MPX還提供不同的槍管長度，範圍從4.5到16英寸。\[4\]
 
 該衝鋒槍採用[活塞短行程气动式自動方式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")、[槍機頭迴轉式閉鎖](../Page/轉拴式槍栓.md "wikilink")、、這些在衝鋒槍中很少見的設計特徵，以減少後座力，提高了武器的可靠性。\[5\]\[6\]其採用模塊化設計，可變換口徑，並具有多種型式，形成龐大的系統。
 
@@ -34,16 +34,16 @@ SIG MPX是一個包含了[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")�
 S\&W和](../Page/.40_S&W.md "wikilink")[.357
 SIG三種](../Page/.357_SIG.md "wikilink")[口径](https://zh.wikipedia.org/wiki/口径 "wikilink")，外形有標準型（SIG
 MPX）、緊湊型（SIG MPX-K）、手槍型（SIG MPX-P）、微聲型（SIG MPX-SD）、加長型（SIG
-MPX-C）和手槍穩定支撐器[槍托型](../Page/槍托.md "wikilink")（SIG
+MPX-C）和手槍穩定支撐器[槍托](../Page/槍托.md "wikilink")型（SIG
 MPX-P
-PSB）六種槍型的衝鋒槍系列，而並非單獨的一支衝鋒槍。此外不論長短，該系列衝鋒槍的[護木具有鋁合金護木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[碳纖維護木兩種](../Page/碳纖維.md "wikilink")；半[透明](../Page/透明.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")[彈匣有](../Page/彈匣.md "wikilink")10、20、30發三種容彈量，彈匣口部加裝了[金属襯](../Page/金属.md "wikilink")，可以使抱彈口壁更薄，有利於優化進彈路線；槍托具有伸縮槍托、折疊槍托和[Brace槍托可選](https://zh.wikipedia.org/wiki/SIG_Brace槍托 "wikilink")，三種都是藉由[機匣尾部的一小段](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌裝上](../Page/皮卡汀尼導軌.md "wikilink")。該系列衝鋒槍的附件包括[消聲器](../Page/抑制器.md "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、單點式等。
+PSB）六種槍型的衝鋒槍系列，而並非單獨的一支衝鋒槍。此外不論長短，該系列衝鋒槍的[護木具有鋁合金護木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[碳纖維](../Page/碳纖維.md "wikilink")護木兩種；半[透明](../Page/透明.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")有10、20、30發三種容彈量，彈匣口部加裝了[金属](../Page/金属.md "wikilink")襯，可以使抱彈口壁更薄，有利於優化進彈路線；槍托具有伸縮槍托、折疊槍托和[Brace槍托可選](https://zh.wikipedia.org/wiki/SIG_Brace槍托 "wikilink")，三種都是藉由[機匣尾部的一小段](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌裝上](../Page/皮卡汀尼導軌.md "wikilink")。該系列衝鋒槍的附件包括[消聲器](../Page/抑制器.md "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、單點式等。
 
 SIG
-MPX只需要更換槍管組件、槍機、彈匣等即可完成口徑轉換，更換不同的護木、[槍管組件](../Page/槍管.md "wikilink")、[槍托組件即可完成槍型轉換](../Page/槍托.md "wikilink")。理論上該槍可以組合出30種不同的槍型，可說是“將模塊化進行到底”。據西格&紹爾公司的講解人員介紹，SIG
+MPX只需要更換槍管組件、槍機、彈匣等即可完成口徑轉換，更換不同的護木、[槍管](../Page/槍管.md "wikilink")組件、[槍托](../Page/槍托.md "wikilink")組件即可完成槍型轉換。理論上該槍可以組合出30種不同的槍型，可說是“將模塊化進行到底”。據西格&紹爾公司的講解人員介紹，SIG
 MPX的槍型、口徑轉換無需工具，即使在野外也可進行。
 
 SIG
-MPX的槍管節套與槍管設置為一體，可以減少鋁合金機匣的受力。槍管採用了在衝鋒槍方面較為罕見的[自由浮動式設計](../Page/自由浮動式槍管.md "wikilink")，只在槍管尾端與機匣相連接，而且連接方式比較特別：與其他衝鋒槍採用螺紋連接不同，其槍管組件與機匣連接部位為圓柱面配合，槍管組件的節套部位插入機匣對應位置，從側面穿入連接銷並且擰緊即可，這種風格與採用可快速更換槍管的[机枪相似](../Page/机枪.md "wikilink")。
+MPX的槍管節套與槍管設置為一體，可以減少鋁合金機匣的受力。槍管採用了在衝鋒槍方面較為罕見的[自由浮動式設計](../Page/自由浮動式槍管.md "wikilink")，只在槍管尾端與機匣相連接，而且連接方式比較特別：與其他衝鋒槍採用螺紋連接不同，其槍管組件與機匣連接部位為圓柱面配合，槍管組件的節套部位插入機匣對應位置，從側面穿入連接銷並且擰緊即可，這種風格與採用可快速更換槍管的[机枪](../Page/机枪.md "wikilink")相似。
 
 ### 与AR-15／M16一致的操作方式
 
@@ -74,7 +74,7 @@ MPX設計理念上要求能發射[9×19毫米](../Page/9×19mm魯格彈.md "wiki
 S\&W和](../Page/.40_S&W.md "wikilink")[.357
 SIG三種不同的手槍子彈](../Page/.357_SIG.md "wikilink")，而這三種彈藥威力差異較大，如果採用自由式槍機就需要三種不同質量的槍機。機匣結構是確定的，槍機的橫截面形狀就基本確定了，變化槍機質量只能是變化槍機的長短了，而這會涉及到發射機位置的變化，在設計上非常難以處理。顯然自由式槍機不利於轉換口徑。
 
-而氣動式這種自動方式能量調節較其他自動方式而言要方便得多，可以將導氣裝置設置在槍管組件上，不同口徑、​​不同槍管長度可藉由設置為不同的導氣孔[直径來調節](../Page/直径.md "wikilink")。當更換槍管組件後，導氣機構的參數自然能與所發射的槍彈匹配。與步槍子彈相比，手槍子彈火藥燃速較高而且能量較低，所以SIG
+而氣動式這種自動方式能量調節較其他自動方式而言要方便得多，可以將導氣裝置設置在槍管組件上，不同口徑、​​不同槍管長度可藉由設置為不同的導氣孔[直径](../Page/直径.md "wikilink")來調節。當更換槍管組件後，導氣機構的參數自然能與所發射的槍彈匹配。與步槍子彈相比，手槍子彈火藥燃速較高而且能量較低，所以SIG
 MPX的導氣裝置應設置在更靠近槍管尾端的位置以保證有充足的火藥燃氣進入氣室推動槍機後坐，從而保證機構可靠性。
 
 #### 射击精度需要
@@ -89,11 +89,11 @@ MPX的閉鎖機構與[M16系列步槍基本相同](../Page/M16突擊步槍.md "w
 MPX採用活塞氣動式自動方式，火藥殘渣不會進入槍機內，即不存在這方面問題。同樣地，這可防止水或污垢進入腔室並導致故障，並且更容易裝上及使用[抑制器](../Page/抑制器.md "wikilink")。\[9\]
 
 SIG
-MPX採用兩根並聯的[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wikilink")，兩根復進簧通過簧座固定，而且複進簧位於槍機機框上方。復進簧座與槍機機框之間採取燕尾槽的連接形式，也與這個簧座相連。拉動拉機柄可帶動復進簧、槍機機框，進而帶動槍機向後。這樣的設計可以盡可能縮短機匣長度，而不必像M16那樣需要一部分[槍托以容納復進簧](../Page/槍托.md "wikilink")，因此MPX可以採用伸縮槍托或折疊槍托結構。
+MPX採用兩根並聯的[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wikilink")，兩根復進簧通過簧座固定，而且複進簧位於槍機機框上方。復進簧座與槍機機框之間採取燕尾槽的連接形式，也與這個簧座相連。拉動拉機柄可帶動復進簧、槍機機框，進而帶動槍機向後。這樣的設計可以盡可能縮短機匣長度，而不必像M16那樣需要一部分[槍托](../Page/槍托.md "wikilink")以容納復進簧，因此MPX可以採用伸縮槍托或折疊槍托結構。
 
 ### 瞄準具
 
-標準MPX衝鋒槍的武器頂部整合了一條整體式[MIL-STD-1913戰術導軌系統](../Page/皮卡汀尼導軌.md "wikilink")，而後部和前部就裝上了附接至戰術導軌的彈起摺疊式[照門和](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](https://zh.wikipedia.org/wiki/準星 "wikilink")。額外的瞄準具選擇是同樣藉由戰術導軌安裝的SIG反射式瞄準鏡，或是其他日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。頂部戰術導軌長度可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式；而前護木兩側及底部三條則以便安裝對應導軌的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（LAM，例如[AN/PEQ-16A](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")）和／或[前握把](../Page/輔助握把.md "wikilink")。
+標準MPX衝鋒槍的武器頂部整合了一條整體式[MIL-STD-1913戰術導軌系統](../Page/皮卡汀尼導軌.md "wikilink")，而後部和前部就裝上了附接至戰術導軌的彈起摺疊式[照門和](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](https://zh.wikipedia.org/wiki/準星 "wikilink")。額外的瞄準具選擇是同樣藉由戰術導軌安裝的SIG反射式瞄準鏡，或是其他日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")和／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。頂部戰術導軌長度可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式；而前護木兩側及底部三條則以便安裝對應導軌的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（LAM，例如[AN/PEQ-16A](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")）和／或[前握把](../Page/輔助握把.md "wikilink")。
 
 ## 衍生型
 
@@ -121,14 +121,14 @@ MPX採用兩根並聯的[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wik
 
 純半自動的手槍型，裝有SIG SBX手槍型步槍穩定支托和8.0英寸（203.2亮米）的槍管。
 
-2015年，[美國菸酒槍炮及爆裂物管理局警告使用SIG](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")
+2015年，[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")警告使用SIG
 SBX手槍型步槍穩定支托武器的用戶，使用裝有支架的武器肩射會構成了[第二類槍械型武器](https://zh.wikipedia.org/wiki/第二類槍械 "wikilink")，扭轉了先前所沒有作出的裁決。\[11\]
 
 然而，在2017年初，菸酒槍炮及爆裂物管理局將這一觀點撤回，再次使得穩定支托成為一個有吸引力的解決方案。\[12\]
 
 #### MPX-C型
 
-半自動卡賓槍型，採用6.5英寸槍管和永久焊接在其以上、而實際上是整體抑制變體的擋板核心的修改型的9.5英寸槍口裝置特殊超長型。消焰器加上枪管的整體槍管長度达到406毫米是用以以符合美國法規。SIG聲稱該裝置是[槍口制動器](../Page/砲口制動器.md "wikilink")，但在2013年，美國菸酒槍炮及爆裂物管理局裁定該組件是抑制器，並將MPX-C歸類為裝有整體式消聲器的槍械，因此將其歸類為全國槍械法第二類槍械型武器。2​​014年2月，菸酒槍炮及爆裂物管理局駁回了對該裁決的上訴；SIG通過對菸酒槍炮及爆裂物管理局提起民事[訴訟作出回應](../Page/訴訟.md "wikilink")，\[13\]聲稱他倆採取了“任意和反复無常的行為”。2015年9月，聯邦法官保羅‧巴巴多拉Paul
+半自動卡賓槍型，採用6.5英寸槍管和永久焊接在其以上、而實際上是整體抑制變體的擋板核心的修改型的9.5英寸槍口裝置特殊超長型。消焰器加上枪管的整體槍管長度达到406毫米是用以以符合美國法規。SIG聲稱該裝置是[槍口制動器](../Page/砲口制動器.md "wikilink")，但在2013年，美國菸酒槍炮及爆裂物管理局裁定該組件是抑制器，並將MPX-C歸類為裝有整體式消聲器的槍械，因此將其歸類為全國槍械法第二類槍械型武器。2​​014年2月，菸酒槍炮及爆裂物管理局駁回了對該裁決的上訴；SIG通過對菸酒槍炮及爆裂物管理局提起民事[訴訟](../Page/訴訟.md "wikilink")作出回應，\[13\]聲稱他倆採取了“任意和反复無常的行為”。2015年9月，聯邦法官保羅‧巴巴多拉Paul
 Barbadora維持了菸酒槍炮及爆裂物管理局的裁決。\[14\]
 
 作為回應，SIG已經宣布推裝有16英寸槍管而無槍口裝置的卡賓槍衍生型，命名為**MPX卡賓槍**。
@@ -168,7 +168,7 @@ Barbadora維持了菸酒槍炮及爆裂物管理局的裁決。\[14\]
   - 2014年—《[-{zh-cn:使命召唤：高级战争;
     zh-tw:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》（Call
     of Duty: Advanced
-    Warfare）：命名為「KF5」，黑色槍身，40發（聯機模式可使用改裝：延長彈匣增至60發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為120發（故事模式和聯機模式），最高攜彈量為192發（故事模式和聯機模式）。故事模式之中被[朝鲜人民军](../Page/朝鲜人民军.md "wikilink")、反科技恐怖組織KVA和[私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")「[阿特拉斯](../Page/阿特拉斯.md "wikilink")」（Atlas）所使用；聯機模式時為首先解鎖武器，並可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、混合式瞄準鏡、[自动对焦瞄準鏡](../Page/自动对焦.md "wikilink")、[目標增強瞄準鏡](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")、[槍托](../Page/槍托.md "wikilink")、追踪器、先進[膛線](../Page/膛線.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[雙排彈匣](../Page/彈匣並聯.md "wikilink")、射速增加、[消音器](../Page/抑制器.md "wikilink")、[抛物线](../Page/抛物线.md "wikilink")[麦克风](../Page/麦克风.md "wikilink")、快速抽出握把；動力服生存模式時為輕裝兵主要起始武器。
+    Warfare）：命名為「KF5」，黑色槍身，40發（聯機模式可使用改裝：延長彈匣增至60發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為120發（故事模式和聯機模式），最高攜彈量為192發（故事模式和聯機模式）。故事模式之中被[朝鲜人民军](../Page/朝鲜人民军.md "wikilink")、反科技恐怖組織KVA和[私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")「[阿特拉斯](../Page/阿特拉斯.md "wikilink")」（Atlas）所使用；聯機模式時為首先解鎖武器，並可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、混合式瞄準鏡、[自动对焦](../Page/自动对焦.md "wikilink")瞄準鏡、[目標增強瞄準鏡](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")、[槍托](../Page/槍托.md "wikilink")、追踪器、先進[膛線](../Page/膛線.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[雙排彈匣](../Page/彈匣並聯.md "wikilink")、射速增加、[消音器](../Page/抑制器.md "wikilink")、[抛物线](../Page/抛物线.md "wikilink")[麦克风](../Page/麦克风.md "wikilink")、快速抽出握把；動力服生存模式時為輕裝兵主要起始武器。
   - 2015年—《[-{zh-hans:战地：硬仗;
     zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield
     Hardline）：型號為MPX标准型，命名為「MPX」，歸類為衝鋒槍，發射[.40

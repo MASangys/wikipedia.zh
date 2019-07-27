@@ -1,9 +1,9 @@
 **The SeeYa**（）是由[MBK
-Entertainment所打造的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")4人女子團體組合，是繼承[SeeYa之名的全新組合](../Page/SeeYa.md "wikilink")，成員包括[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、、[憐朱](../Page/許憐朱.md "wikilink")、[書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")；在2012年11月12日正式出道。出道曲為〈Be
+Entertainment所打造的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")4人女子團體組合，是繼承[SeeYa](../Page/SeeYa.md "wikilink")之名的全新組合，成員包括[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、、[憐朱](../Page/許憐朱.md "wikilink")、[書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")；在2012年11月12日正式出道。出道曲為〈Be
 With You〉為一首與同是Core Contents
 Media旗下男子組合[SPEED成員泰云合作的歌曲](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。而〈Be
 With
-You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wiki/朱相旭 "wikilink")[林晶恩演出](../Page/林晶恩.md "wikilink")。組合已宣告解散。
+You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wiki/朱相旭 "wikilink")[林晶恩](../Page/林晶恩.md "wikilink")演出。組合已宣告解散。
 
 ## 經歷
 
@@ -11,8 +11,8 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
     更與[SPEED的成員泰雲合作](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。同日也發行出道專輯
     "Good To Seeya"。
   - 2012年12月6日，發行首張迷你專輯 "Love U"。主打歌 "POISON (毒藥)"
-    邀請了前輩[Davichi的](../Page/Davichi.md "wikilink")[李海利合作](../Page/李海利.md "wikilink")。
-  - 2013年1月25日，幼真參與雙人嘻哈組合[Leessang全新單曲](../Page/Leessang.md "wikilink")
+    邀請了前輩[Davichi](../Page/Davichi.md "wikilink")的[李海利](../Page/李海利.md "wikilink")合作。
+  - 2013年1月25日，幼真參與雙人嘻哈組合[Leessang](../Page/Leessang.md "wikilink")全新單曲
     "Tears (眼淚 / 눈물)"
   - 2013年6月10日，[Core Contents
     Media旗下藝人](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")
@@ -236,7 +236,7 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
 <li>發行日期：2013年1月25日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<a href="../Page/Leessang.md" title="wikilink">Leessang</a></li>
-<li>備註：收錄於<a href="../Page/Leessang.md" title="wikilink">Leessang이단옆차기</a> 프로젝트 Vol.02 눈물(Tears)</li>
+<li>備註：收錄於<a href="../Page/Leessang.md" title="wikilink">Leessang</a>이단옆차기 프로젝트 Vol.02 눈물(Tears)</li>
 </ul></td>
 <td></td>
 </tr>

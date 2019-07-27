@@ -1,5 +1,5 @@
 **柚木
-N**'（、\[1\]），[日本女性](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")\[2\]\[3\]，出生于[爱媛县](../Page/爱媛县.md "wikilink")\[4\]，主要作品为[成人漫画](https://zh.wikipedia.org/wiki/成人漫画 "wikilink")。
+N**'（、\[1\]），[日本](../Page/日本.md "wikilink")女性[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")\[2\]\[3\]，出生于[爱媛县](../Page/爱媛县.md "wikilink")\[4\]，主要作品为[成人漫画](https://zh.wikipedia.org/wiki/成人漫画 "wikilink")。
 
 ## 作品
 
@@ -27,7 +27,7 @@ N**'（、\[1\]），[日本女性](../Page/日本.md "wikilink")[漫画家](htt
   - 『[下流梗不存在的灰暗世界](../Page/下流梗不存在的灰暗世界.md "wikilink")』：『[月刊Comic
     BLADE](../Page/月刊Comic_BLADE.md "wikilink")』2014年5月號-2016年3月號，全4卷。
   - 『學生會副會長矢上小百合非常努力！』（）：『[Champion
-    RED](../Page/Champion_RED.md "wikilink")』2014年8月號-2016年7月號，全4卷，[秋田書店出版](../Page/秋田書店.md "wikilink")。
+    RED](../Page/Champion_RED.md "wikilink")』2014年8月號-2016年7月號，全4卷，[秋田書店](../Page/秋田書店.md "wikilink")出版。
   - 『[魔法科高中的劣等生
     暑假篇](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")』：『[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")』2016年12月號-2018年2月號，全3卷。
 

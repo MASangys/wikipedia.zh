@@ -8,16 +8,16 @@ Wagon**（）是2012年起由[日本](../Page/日本.md "wikilink")[馬自達汽
 
 ### 第一代（2012年-2013年）
 
-長年以來[馬自達和](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車之間存在著輕型車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[OEM代工的協議](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")，這款以[鈴木Palette為基礎而開發的輕型車於](../Page/鈴木Palette.md "wikilink")2012年6月26日正式發表上市\[1\]。上市初期時兩者不論外觀或內裝完全一樣，差別只在廠徽銘牌不同而已，這一點和[第四代Scrum](https://zh.wikipedia.org/wiki/馬自達Scrum#第四代（2005年迄今） "wikilink")、[AZ-Offroad相同](../Page/馬自達AZ-Offroad.md "wikilink")\[2\]。
+長年以來[馬自達和](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車之間存在著輕型車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[OEM代工的協議](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")，這款以[鈴木Palette](../Page/鈴木Palette.md "wikilink")為基礎而開發的輕型車於2012年6月26日正式發表上市\[1\]。上市初期時兩者不論外觀或內裝完全一樣，差別只在廠徽銘牌不同而已，這一點和[第四代Scrum](https://zh.wikipedia.org/wiki/馬自達Scrum#第四代（2005年迄今） "wikilink")、[AZ-Offroad相同](../Page/馬自達AZ-Offroad.md "wikilink")\[2\]。
 
 動力方面分成兩種：自然進氣的658c.c.直列三缸DOHC VVT
 K6A型[引擎最大](https://zh.wikipedia.org/wiki/發動機 "wikilink")[馬力](../Page/馬力.md "wikilink")54ps
 / 6,500rpm、扭力峰值6.4kgf・m / 3,500rpm；配備渦輪增壓的658c.c.直列三缸DOHC K6A型引擎最大馬力64ps
 / 6,000rpm、最大扭力9.7kgf・m /
-3,000rpm。至於[變速箱系統](https://zh.wikipedia.org/wiki/變速器 "wikilink")，則採用[日產汽車與](../Page/日產汽車.md "wikilink")[Jatco](https://zh.wikipedia.org/wiki/Jatco "wikilink")（ジヤトコ株式会社）共同開發的[CVT附副變速機構](../Page/無段自動變速器.md "wikilink")。全車系最大的賣點在於後車門採滑門式設計，部分高階車款甚至設置電動滑門。此外，「IS
+3,000rpm。至於[變速箱系統](https://zh.wikipedia.org/wiki/變速器 "wikilink")，則採用[日產汽車](../Page/日產汽車.md "wikilink")與[Jatco](https://zh.wikipedia.org/wiki/Jatco "wikilink")（ジヤトコ株式会社）共同開發的[CVT附副變速機構](../Page/無段自動變速器.md "wikilink")。全車系最大的賣點在於後車門採滑門式設計，部分高階車款甚至設置電動滑門。此外，「IS
 Limited」車款裝置了[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")，以測試可達22.2km/L的油耗表現\[3\]。
 
-2013年2月因鈴木Palette的後繼車款[鈴木Spacia上市](../Page/鈴木Spacia.md "wikilink")，第一代Flair
+2013年2月因鈴木Palette的後繼車款[鈴木Spacia](../Page/鈴木Spacia.md "wikilink")上市，第一代Flair
 Wagon隨著停產。此代車款僅販售約9個月的時間，這在日本汽車史上是相當罕見的。
 
 Image:Mazda FLAIR WAGON TS (MM21S) rear.JPG Image:Mazda FLAIR WAGON TS
@@ -38,18 +38,18 @@ VVT
 Custom[換牌而來](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")，具有全新設計水箱罩、透明尾燈組、全車空力套件等配備；同時「XS」可加價選購附防夾功能的電動滑門、附自動啟閉的放電式頭燈組。9月19日部分改良，雷達煞車輔助系統、防暴衝機能、緊急煞車信號、DSC動態穩定控制系統、TCS循跡控制系統等皆成為標準配備，更換新水箱罩，「XG」新增前拉桿。11月23日與鈴木Spacia同時獲得2013年度[日本年度風雲車](../Page/日本年度風雲車.md "wikilink")。
 
 2014年 - 6月19日發售「XS
-Limited」特仕車，以「XS」為基調外加附防夾功能的右後電動滑門、附自動啟閉的放電式頭燈組、防[紫外線前擋玻璃](https://zh.wikipedia.org/wiki/紫外線 "wikilink")、雙前座加熱功能、後座熱風出口、助手席化妝鏡、全車空力套件、附LED方向燈之後視鏡、14吋[鋁合金輪圈等配備](../Page/鋁合金.md "wikilink")。
+Limited」特仕車，以「XS」為基調外加附防夾功能的右後電動滑門、附自動啟閉的放電式頭燈組、防[紫外線前擋玻璃](https://zh.wikipedia.org/wiki/紫外線 "wikilink")、雙前座加熱功能、後座熱風出口、助手席化妝鏡、全車空力套件、附LED方向燈之後視鏡、14吋[鋁合金](../Page/鋁合金.md "wikilink")輪圈等配備。
 
 2015年 -
 5月28日實施小改款，原「eNe-CHARGE」[動能回收系統的馬達改為ISG整合式啟動馬達](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")（Integrated
 Starter
-Generator之[縮寫](../Page/縮寫.md "wikilink")）與[鋰電池的](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")「S-eNe-CHARGE」，新增雙攝影鏡頭，當中包含[車道偏離警示系統](../Page/車道偏離警示.md "wikilink")、前方碰撞預警系統（含自動煞車）、前方車輛移動警告、車輛路線不穩警告與油門誤踩警告系統等配備。8月27日推出「Custom
+Generator之[縮寫](../Page/縮寫.md "wikilink")）與[鋰電池的](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")「S-eNe-CHARGE」，新增雙攝影鏡頭，當中包含[車道偏離警示](../Page/車道偏離警示.md "wikilink")系統、前方碰撞預警系統（含自動煞車）、前方車輛移動警告、車輛路線不穩警告與油門誤踩警告系統等配備。8月27日推出「Custom
 Style」[渦輪增壓版](../Page/渦輪增壓器.md "wikilink")，搭載658c.c.直列三缸DOHC VVT
 [R06A型](https://zh.wikipedia.org/wiki/馬自達輕型車引擎列表#R06A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，配合ISG整合式啟動馬達（Integrated
 Starter
-Generator之[縮寫](../Page/縮寫.md "wikilink")）與[鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")，同時新設[巡航定速系統和換檔撥片](../Page/巡航定速.md "wikilink")。最大馬力為64ps
+Generator之[縮寫](../Page/縮寫.md "wikilink")）與[鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")，同時新設[巡航定速](../Page/巡航定速.md "wikilink")系統和換檔撥片。最大馬力為64ps
 / 6,000rpm，最大扭力為9.7kg・m /
-3,000rpm。主動式安全系統方面新增雙攝影鏡頭，當中包含[車道偏離警示系統](../Page/車道偏離警示.md "wikilink")、前方碰撞預警系統（含自動煞車）、前方車輛移動警告、車輛路線不穩警告與油門誤踩警告系統等配備，加上四顆[安全氣囊與ESP車身穩定控制系統](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
+3,000rpm。主動式安全系統方面新增雙攝影鏡頭，當中包含[車道偏離警示](../Page/車道偏離警示.md "wikilink")系統、前方碰撞預警系統（含自動煞車）、前方車輛移動警告、車輛路線不穩警告與油門誤踩警告系統等配備，加上四顆[安全氣囊與ESP車身穩定控制系統](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
 
 2017年 - 1月12日改良\[5\]，新增防眩式後視鏡、倒車顯影等配備，追加兩種新車色，將以往二種渦輪增壓車型合併成「Custom
 Style XT」一種車型。同年12月由於兄弟車改朝換代，全車系中止生產，不過福祉車仍繼續販售。
@@ -73,7 +73,7 @@ VVT
 Hybrid動力系統。在安全輔助方面，倒車自動緊急煞車、倒車防爆衝、後方駐車雷達等皆列為全車系標配；另可加價選購DSBS預防碰撞系統（Dual
 Sensor Brake Support），由單眼鏡頭與雷射感應器構成，並包含自動切換遠近燈之功能。
 
-2018年 - 5月21日原廠發佈福祉車「[輪椅移動車](../Page/輪椅.md "wikilink")」的改款消息\[7\]。 {{-}}
+2018年 - 5月21日原廠發佈福祉車「[輪椅](../Page/輪椅.md "wikilink")移動車」的改款消息\[7\]。 {{-}}
 
 ## 內部連結
 

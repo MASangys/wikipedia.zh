@@ -1,11 +1,11 @@
 **胡安·J·坎帕内拉** (Juan José Campanella，1959年7月19日)
-是一位[阿根廷影视导演](../Page/阿根廷.md "wikilink")、编剧及制片人，2009年执导的悬疑片《[谜一样的双眼](../Page/谜一样的双眼.md "wikilink")》赢得[奥斯卡最佳外语片](https://zh.wikipedia.org/wiki/奥斯卡最佳外语片 "wikilink")。
+是一位[阿根廷](../Page/阿根廷.md "wikilink")影视导演、编剧及制片人，2009年执导的悬疑片《[谜一样的双眼](../Page/谜一样的双眼.md "wikilink")》赢得[奥斯卡最佳外语片](https://zh.wikipedia.org/wiki/奥斯卡最佳外语片 "wikilink")。
 
 ## 生平
 
-坎帕内拉生于阿根廷首都[布宜诺斯艾利斯](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")。起初在大学学习[工程](https://zh.wikipedia.org/wiki/工程 "wikilink")，因为看了1979年电影《[爵士春秋](../Page/爵士春秋.md "wikilink")》开始对电影产生兴趣。1979年首次执导[短片](https://zh.wikipedia.org/wiki/短片 "wikilink")。后来到[纽约大学艺术学院学习电影](../Page/纽约大学.md "wikilink")，并获得[艺术学博士学位](https://zh.wikipedia.org/wiki/艺术学 "wikilink")。他目前正在位于布宜诺斯艾利斯的[Universidad
+坎帕内拉生于阿根廷首都[布宜诺斯艾利斯](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")。起初在大学学习[工程](https://zh.wikipedia.org/wiki/工程 "wikilink")，因为看了1979年电影《[爵士春秋](../Page/爵士春秋.md "wikilink")》开始对电影产生兴趣。1979年首次执导[短片](https://zh.wikipedia.org/wiki/短片 "wikilink")。后来到[纽约大学](../Page/纽约大学.md "wikilink")艺术学院学习电影，并获得[艺术学博士学位](https://zh.wikipedia.org/wiki/艺术学 "wikilink")。他目前正在位于布宜诺斯艾利斯的[Universidad
 Torcuato di
-Tella攻读](https://zh.wikipedia.org/wiki/Universidad_Torcuato_di_Tella "wikilink")[政治学博士学位](../Page/政治学.md "wikilink")\[1\]。
+Tella攻读](https://zh.wikipedia.org/wiki/Universidad_Torcuato_di_Tella "wikilink")[政治学](../Page/政治学.md "wikilink")博士学位\[1\]。
 
 ## 电影
 
@@ -80,7 +80,7 @@ Tella攻读](https://zh.wikipedia.org/wiki/Universidad_Torcuato_di_Tella "wikili
     [欧洲电影奖最佳影片](https://zh.wikipedia.org/wiki/欧洲电影奖 "wikilink")：*The
     Secret in Their Eyes*
   - 2011 David di Donatello最佳欧洲电影：*The Secret in Their Eyes*
-  - 2011 [英国电影学院奖最佳外语片](../Page/英国电影学院奖.md "wikilink")：*The Secret in
+  - 2011 [英国电影学院奖](../Page/英国电影学院奖.md "wikilink")最佳外语片：*The Secret in
     Their Eyes*
 
 ## 参考资料

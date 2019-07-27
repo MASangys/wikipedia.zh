@@ -1,4 +1,4 @@
-《**HaKaTa百貨店**》（，中文直譯為**博多百貨公司**）是[日本電視台自](../Page/日本電視台.md "wikilink")2012年10月7日開始播放的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，以[偶像女子團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48全體成員作為主要演出者](../Page/HKT48.md "wikilink")，由成員之一的[指原莉乃擔任](../Page/指原莉乃.md "wikilink")[節目主持](https://zh.wikipedia.org/wiki/節目主持 "wikilink")，於每週日午夜25時30分至26時（也就是週一凌晨1時30分至2時）播放。節目第一季共演出12集，由於播出後頗受好評，因此在第一季結束後，製作單位決定追加播出第二季，並將新一季節目命名為《**HaKaTa百貨店
+《**HaKaTa百貨店**》（，中文直譯為**博多百貨公司**）是[日本電視台](../Page/日本電視台.md "wikilink")自2012年10月7日開始播放的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，以[偶像女子團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")全體成員作為主要演出者，由成員之一的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任[節目主持](https://zh.wikipedia.org/wiki/節目主持 "wikilink")，於每週日午夜25時30分至26時（也就是週一凌晨1時30分至2時）播放。節目第一季共演出12集，由於播出後頗受好評，因此在第一季結束後，製作單位決定追加播出第二季，並將新一季節目命名為《**HaKaTa百貨店
 2號館**》，改移至時段更佳的周六深夜播放。2013年1月26日深夜（1月27日凌晨）首播，同年3月30日播畢。
 
 在第二季結束將近兩年之後，日本電視台自2015年1月12日起開始播出節目系列的第三季——《**HaKaTa百貨店
@@ -8,7 +8,7 @@
 
 《HaKaTa百貨店》是HKT48第一個在[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")[在京核心局所屬](../Page/核心局.md "wikilink")[電視網播放的](https://zh.wikipedia.org/wiki/電視網 "wikilink")[冠名節目](https://zh.wikipedia.org/wiki/冠名節目 "wikilink")\[1\]，也是指原莉乃個人的第一個主持作品。
 
-節目的設定是一家開設在[福岡市](../Page/福岡市.md "wikilink")[博多](https://zh.wikipedia.org/wiki/博多 "wikilink")（HaKaTa）的[百貨公司](../Page/百貨公司.md "wikilink")，在這家百貨公司內專賣的是名為HKT48的偶像產品。由主持人指原莉乃擔任[推銷員](https://zh.wikipedia.org/wiki/推銷員 "wikilink")，每一集邀請一位來自[AKB48與其他姊妹團體之中知名度較高的成員](../Page/AKB48.md "wikilink")，擔任特別來賓來到福岡作客。
+節目的設定是一家開設在[福岡市](../Page/福岡市.md "wikilink")[博多](https://zh.wikipedia.org/wiki/博多 "wikilink")（HaKaTa）的[百貨公司](../Page/百貨公司.md "wikilink")，在這家百貨公司內專賣的是名為HKT48的偶像產品。由主持人指原莉乃擔任[推銷員](https://zh.wikipedia.org/wiki/推銷員 "wikilink")，每一集邀請一位來自[AKB48](../Page/AKB48.md "wikilink")與其他姊妹團體之中知名度較高的成員，擔任特別來賓來到福岡作客。
 
 主持人指原除了會向HKT48的成員與觀眾們介紹當集來賓的特色之外，也會根據來賓的的個性與特色，從HKT48的成員中推薦適合的人選，進行自我介紹或才藝表演。節目的中段，會推出一個根據來賓個性所定、由HKT48成員參與的比賽活動企畫，以便協助AKB48的前輩自HKT48成員中「選購」一位印象最深刻、想要選來當作妹妹的「首推成員」（）。獲得推薦的成員除了可獲贈印有來賓照片的推薦徽章（）之外，也會在片尾與來賓一同、在指原莉乃的帶路之下一起進行博多美食約會，尋訪福岡市區內的特色餐廳品嚐美食。有高知名度的前輩推薦，對於資歷尙淺的HKT48成員來說，是不可多得、讓注目度提升的曝光機會。
 

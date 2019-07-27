@@ -1,4 +1,4 @@
-「**哈利路亞**」是[Kalafina的第](../Page/Kalafina.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在日本由[SME
+「**哈利路亞**」是[Kalafina](../Page/Kalafina.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在日本由[SME
 Records於](../Page/SME_Records.md "wikilink")2013年10月2日發行。
 
 ## 概要
@@ -8,7 +8,7 @@ Records於](../Page/SME_Records.md "wikilink")2013年10月2日發行。
 
 ## 發售成績
 
-2013年10月14日在[Oricon公信榜銷售達](../Page/Oricon公信榜.md "wikilink")1.1万張，獲得第10名。另外2013年11月14日，在Billboard
+2013年10月14日在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")銷售達1.1万張，獲得第10名。另外2013年11月14日，在Billboard
 JAPAN Hot Animation獲得第1名\[1\]。
 
 ## 收錄曲目

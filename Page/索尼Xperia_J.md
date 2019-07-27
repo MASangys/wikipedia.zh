@@ -5,8 +5,8 @@
 [Sony_BA900_2.jpg](https://zh.wikipedia.org/wiki/File:Sony_BA900_2.jpg "fig:Sony_BA900_2.jpg")
 
 **Sony Xperia
-J**是[日本電子公司](../Page/日本.md "wikilink")[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，擁有500
-萬[像素鏡頭](../Page/像素.md "wikilink")，配備4[吋屏幕](https://zh.wikipedia.org/wiki/吋 "wikilink")，配有[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
+J**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，擁有500
+萬[像素](../Page/像素.md "wikilink")鏡頭，配備4[吋屏幕](https://zh.wikipedia.org/wiki/吋 "wikilink")，配有[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
 MSM7227A，為入門機種。
 
 ## 設計

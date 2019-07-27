@@ -1,6 +1,6 @@
-**Broadwell**是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）於2015年1月在[消費性電子展](https://zh.wikipedia.org/wiki/消費性電子展 "wikilink")（CES）發表的處理器架構代號\[1\]，是[tick-tock模式中](../Page/Intel_Tick-Tock.md "wikilink")[Haswell微架構的](../Page/Haswell微架構.md "wikilink")[14nm製程改進版本](https://zh.wikipedia.org/wiki/國際半導體技術發展藍圖 "wikilink")\[2\]\[3\]。移动领域为主，桌面领域为辅，而且沒有零售版。
+**Broadwell**是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）於2015年1月在[消費性電子展](https://zh.wikipedia.org/wiki/消費性電子展 "wikilink")（CES）發表的處理器架構代號\[1\]，是[tick-tock模式中](../Page/Intel_Tick-Tock.md "wikilink")[Haswell微架構](../Page/Haswell微架構.md "wikilink")的[14nm製程改進版本](https://zh.wikipedia.org/wiki/國際半導體技術發展藍圖 "wikilink")\[2\]\[3\]。移动领域为主，桌面领域为辅，而且沒有零售版。
 
-Broadwell將會採用[多晶片模組設計](../Page/多晶片模組.md "wikilink")。電壓調節模組可能會從CPU分離出來，以減少[熱量的產生](https://zh.wikipedia.org/wiki/熱量 "wikilink")。\[4\]
+Broadwell將會採用[多晶片模組](../Page/多晶片模組.md "wikilink")設計。電壓調節模組可能會從CPU分離出來，以減少[熱量的產生](https://zh.wikipedia.org/wiki/熱量 "wikilink")。\[4\]
 
 Broadwell可配合Intel 9系芯片組使用。\[5\]
 
@@ -20,11 +20,11 @@ Broadwell會有三個主要版本：\[6\]
         [TDP](https://zh.wikipedia.org/wiki/Thermal_design_power "wikilink")，配合9系晶片組用於高性能筆記本電腦（遊戲本、工作站）。最大支持32GB
         LPDDR3-1600。\[7\]
       - **Broadwell-U**: 15W或28W
-        TDP[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC），用於[Ultrabook及Intel](../Page/Ultrabook.md "wikilink")
+        TDP[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC），用於[Ultrabook](../Page/Ultrabook.md "wikilink")及Intel
         [NUC](https://zh.wikipedia.org/wiki/Next_Unit_of_Computing "wikilink")。包括GT3,
         GT2, GT1 GPU ，最大支援16GB或8GB LPDDR3-1866\[8\]最近於CES 2015上推出。
       - **Broadwell-Y**: 4.5W或3.5W
-        TDP[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC），用於[平板電腦及](../Page/平板電腦.md "wikilink")[Ultrabook](../Page/Ultrabook.md "wikilink")。GPU部份為GT2，最大支援8GB
+        TDP[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC），用於[平板電腦](../Page/平板電腦.md "wikilink")及[Ultrabook](../Page/Ultrabook.md "wikilink")。GPU部份為GT2，最大支援8GB
         LPDDR3-1600。于2014年第四季度推出，使用CORE M作为品牌。\[9\]
 
 <!-- end list -->

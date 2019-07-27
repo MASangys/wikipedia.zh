@@ -1,5 +1,5 @@
 **南美联合电视台**（Televisión Federal S.A.），多称作**Telefe**
-或**TLF**，是[阿根廷的一家](../Page/阿根廷.md "wikilink")[电视网](https://zh.wikipedia.org/wiki/电视网 "wikilink")。电视台最早被观众熟知的是国营的Once台，即11频道。后Telefe于1989年私有化建立Telefe，其中[Grupo
+或**TLF**，是[阿根廷](../Page/阿根廷.md "wikilink")的一家[电视网](https://zh.wikipedia.org/wiki/电视网 "wikilink")。电视台最早被观众熟知的是国营的Once台，即11频道。后Telefe于1989年私有化建立Telefe，其中[Grupo
 Atlántida](http://www.atlantida.com.ar)占80%的股份，[News
 Corporation占](https://zh.wikipedia.org/wiki/News_Corporation "wikilink")20%。1997年起，电视台由[Telefónica所有](https://zh.wikipedia.org/wiki/Telefónica "wikilink")。
 

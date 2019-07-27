@@ -1,4 +1,4 @@
-**OpenBGPD**，是一个服务器软件，能够将普通的计算机作为[路由器使用](../Page/路由器.md "wikilink")。OpenBGPD是UNIX系统下实现[边界网关协议第](../Page/边界网关协议.md "wikilink")4版的一个自由开源的[守护进程](../Page/守护进程.md "wikilink")。OpenBGPD最初作为[OpenBSD项目的一部分](../Page/OpenBSD.md "wikilink")，由Henning
+**OpenBGPD**，是一个服务器软件，能够将普通的计算机作为[路由器](../Page/路由器.md "wikilink")使用。OpenBGPD是UNIX系统下实现[边界网关协议](../Page/边界网关协议.md "wikilink")第4版的一个自由开源的[守护进程](../Page/守护进程.md "wikilink")。OpenBGPD最初作为[OpenBSD](../Page/OpenBSD.md "wikilink")项目的一部分，由Henning
 Brauer与Claudio Jeker 开发。
 
 ## 参见

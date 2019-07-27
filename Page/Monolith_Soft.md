@@ -1,19 +1,19 @@
 是一家日本的电子娱乐公司，主要业务为开发[电子游戏](../Page/电子游戏.md "wikilink")。它曾为[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[Wii以及](../Page/Wii.md "wikilink")[手机等平台开发过不同类型的游戏](https://zh.wikipedia.org/wiki/手机 "wikilink")。现为日本电子游戏巨头[任天堂的旗下](../Page/任天堂.md "wikilink")[子公司](../Page/子公司.md "wikilink")。
+2](../Page/PlayStation_2.md "wikilink")、[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[Wii](../Page/Wii.md "wikilink")以及[手机等平台开发过不同类型的游戏](https://zh.wikipedia.org/wiki/手机 "wikilink")。现为日本电子游戏巨头[任天堂](../Page/任天堂.md "wikilink")的旗下[子公司](../Page/子公司.md "wikilink")。
 
 ## 公司概要
 
-因为受到管理政策差异等原因，杉浦博英、[高橋哲哉和](../Page/高橋哲哉_\(遊戲製作人\).md "wikilink")[本根康之从](../Page/本根康之.md "wikilink")[史克威爾](../Page/史克威爾.md "wikilink")（SQUARE
+因为受到管理政策差异等原因，杉浦博英、[高橋哲哉和](../Page/高橋哲哉_\(遊戲製作人\).md "wikilink")[本根康之](../Page/本根康之.md "wikilink")从[史克威爾](../Page/史克威爾.md "wikilink")（SQUARE
 CO.）退社；1999年10月1日，由[南梦宫](../Page/南梦宫.md "wikilink")（现[万代南梦宫游戏](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")）出资成立Monolith
 Soft，\[1\]杉浦博英担任公司总裁兼首席执行官，公司地址位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[目黑區](../Page/目黑區.md "wikilink")。
 
-公司开发了著名的科幻RPG电子游戏[異域傳說系列](../Page/異域傳說系列.md "wikilink")，还有在[任天堂GameCube平台上受到好评的](../Page/任天堂GameCube.md "wikilink")[霸天开拓史系列](https://zh.wikipedia.org/wiki/霸天开拓史系列 "wikilink")。此外公司还接受游戏外包服务。
+公司开发了著名的科幻RPG电子游戏[異域傳說系列](../Page/異域傳說系列.md "wikilink")，还有在[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")平台上受到好评的[霸天开拓史系列](https://zh.wikipedia.org/wiki/霸天开拓史系列 "wikilink")。此外公司还接受游戏外包服务。
 
 2007年5月6日，已合并后的南梦宫万代宣布将手中持有的Monolith
 Soft的96%股份中的8成出售给[任天堂](../Page/任天堂.md "wikilink")，此交易已于2007年5月1日完成。\[2\]2011年，任天堂终于将剩余的16%股份全部收购，至此Monolith
 Soft成为任天堂旗下的子公司，将专注于为任天堂及其硬件平台开发游戏软件。
 
-2011年7月8日，公司宣布在日本[京都市的四条烏丸成立了一个新的研发工作室](../Page/京都市.md "wikilink")。\[3\]\[4\]京都市是任天堂总部的所在地，此前Monolith
+2011年7月8日，公司宣布在日本[京都市](../Page/京都市.md "wikilink")的四条烏丸成立了一个新的研发工作室。\[3\]\[4\]京都市是任天堂总部的所在地，此前Monolith
 Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wikilink")[目黑區](../Page/目黑區.md "wikilink")。此举被看作是加强与任天堂总部的联系。
 
 ## 开发作品
@@ -34,7 +34,7 @@ Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wi
 
 **Nintendo GameCube**
 
-  - 《[霸天开拓史：永恒之翼与失落之海](https://zh.wikipedia.org/wiki/霸天开拓史：永恒之翼与失落之海 "wikilink")》（，；2003年12月5日）注：与[Tri-Crescendo共同开发](../Page/Tri-Crescendo.md "wikilink")。
+  - 《[霸天开拓史：永恒之翼与失落之海](https://zh.wikipedia.org/wiki/霸天开拓史：永恒之翼与失落之海 "wikilink")》（，；2003年12月5日）注：与[Tri-Crescendo](../Page/Tri-Crescendo.md "wikilink")共同开发。
 
 **任天堂DS**
 

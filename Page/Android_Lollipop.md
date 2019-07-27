@@ -1,5 +1,5 @@
 **Android
-Lollipop**是一個由[Google開發的第五个主要](../Page/Google.md "wikilink")[Android作業系統](../Page/Android.md "wikilink")。於2014年6月25日Google
+Lollipop**是一個由[Google](../Page/Google.md "wikilink")開發的第五个主要[Android](../Page/Android.md "wikilink")作業系統。於2014年6月25日Google
 I/O大会亮相，並於隔日選定[Google
 Nexus做為開發設備](../Page/Google_Nexus.md "wikilink")，于2014年11月12日通过[OTA正式推送到新款的Nexus和Google](https://zh.wikipedia.org/wiki/OTA "wikilink")
 Play版设备上，其正式版源代码在2014年11月3日公布。
@@ -20,7 +20,7 @@ Fit](https://zh.wikipedia.org/wiki/Google_Fit "wikilink")。\[1\]
 Now](https://zh.wikipedia.org/wiki/Google_Now "wikilink")，這是一個很乾淨利落基於網格得設計布局，靈敏的動畫與切換、邊距與深度效果、如光線和陰影。設計師[Matías
 Duarte解釋說](https://zh.wikipedia.org/wiki/Matías_Duarte "wikilink")：“這不像是普通的紙張，我們的Material
 Design可以擴大和聰明的改造。材料具有實體的表面和邊緣。接縫和陰影意味著提供你可以真實去觸摸的感覺。”此Material
-Design將不只被用於Android，而且整個[Google的網絡套裝軟體](../Page/Google.md "wikilink")，提供應用程式與平台之間提供一致的體驗。\[2\]\[3\]\[4\]\[5\]\[6\]
+Design將不只被用於Android，而且整個[Google](../Page/Google.md "wikilink")的網絡套裝軟體，提供應用程式與平台之間提供一致的體驗。\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 特色
 

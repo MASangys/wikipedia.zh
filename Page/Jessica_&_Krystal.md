@@ -10,7 +10,7 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
   - OnStyle相關人員表示將製作新實境節目《Jessica & Krystal》，貼身捕捉 Jessica 與 Krystal
     的日常生活畫面。
   - 受到[世越號沉沒事故影響](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")，首播由原定5月6日推遲至6月3日。
-  - 2014年6月3日正式首播，[首爾時間每週二播放一集](../Page/首爾.md "wikilink")，於8月5號播出最後一集\[3\]\[4\]。
+  - 2014年6月3日正式首播，[首爾](../Page/首爾.md "wikilink")時間每週二播放一集，於8月5號播出最後一集\[3\]\[4\]。
   - 《Jessica &
     Krystal》結束後，[少女時代分隊](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo將於](../Page/少女時代-太蒂徐.md "wikilink")8月25日接捧成為OnStyle
     "Real Stars"系列的下一個明星[真人實境秀](../Page/真人實境秀.md "wikilink")\[5\]\[6\]。
@@ -161,11 +161,11 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
 <p>《JK舞臺表演結束後》</p>
 <p>《Jessica享受東京》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica逗萌娃遭揩油</a>[13]<br />
-<a href="../Page/鄭秀晶.md" title="wikilink">Krystal逼婚</a><a href="../Page/宋茜.md" title="wikilink">宋茜催嫁人</a></p></td>
+<a href="../Page/鄭秀晶.md" title="wikilink">Krystal逼婚</a><a href="../Page/宋茜.md" title="wikilink">宋茜</a>催嫁人</p></td>
 <td><p>45分50秒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>、Yuan Min(造型師、美國出生，日本長大的<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>，已有家室)、Leo （她的孩子，當時1歲）金貞英(造型師、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica朋友</a>)</p></td>
 <td><p><a href="../Page/宋茜.md" title="wikilink">Victoria</a>、<a href="../Page/朴善英.md" title="wikilink">Luna到訪</a> JK House，這次，Krystal留在家裡 <a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>《<a href="../Page/Red_Light.md" title="wikilink">Red Light</a>》在 <a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a> 的回歸舞台，<br />
-<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica因</a><a href="../Page/少女时代.md" title="wikilink">少女時代演唱會前往</a><a href="../Page/日本.md" title="wikilink">日本東京</a>，與金貞英和Yuan Min到時裝店購物，和試驗<a href="../Page/米其林指南.md" title="wikilink">米其林一星</a>，<a href="../Page/銀座.md" title="wikilink">銀座的高級壽司鐵板餐廳</a></p>
+<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica因</a><a href="../Page/少女时代.md" title="wikilink">少女時代演唱會前往</a><a href="../Page/日本.md" title="wikilink">日本</a>東京，與金貞英和Yuan Min到時裝店購物，和試驗<a href="../Page/米其林指南.md" title="wikilink">米其林一星</a>，<a href="../Page/銀座.md" title="wikilink">銀座</a>的高級壽司鐵板餐廳</p>
 <p>Victoria與Tiffany不同，喜歡被冰箱隱藏攝錄機偷拍</p></td>
 </tr>
 <tr class="odd">
@@ -270,7 +270,7 @@ Style](https://www.youtube.com/watch?v=soMxgsZh-zQ) - YouTube | |- |}
 
 ## 其他
 
-  - [搜狐视频擁有該節目在](../Page/搜狐.md "wikilink")[中國內地的獨家網絡播放版權](../Page/中國.md "wikilink")，並與[韓國同步更新](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[18\]。
+  - [搜狐](../Page/搜狐.md "wikilink")视频擁有該節目在[中國](../Page/中國.md "wikilink")內地的獨家網絡播放版權，並與[韓國同步更新](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[18\]。
 
 ## 參考資料
 
@@ -310,7 +310,7 @@ Style](https://www.youtube.com/watch?v=soMxgsZh-zQ) - YouTube | |- |}
 
 7.  此處標題為On Style的分集標題。
 
-8.  此處標題為[搜狐視頻的分集標題](../Page/搜狐.md "wikilink")。
+8.  此處標題為[搜狐](../Page/搜狐.md "wikilink")視頻的分集標題。
 
 9.  那是製作組突然提出的問題，因為在洛杉磯錄製時，剛是Jessica25滿歲生日。
 

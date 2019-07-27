@@ -39,7 +39,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 3.  **[Diamond Only](../Page/Diamond_Only.md "wikilink")**
     （作詞：藤林聖子、作曲・編曲：Erik Lidbom・Albi Albertsson）
       -
-        8th單曲・[日本電視台連續劇](../Page/日本電視台.md "wikilink")《戀文日和》主題曲
+        8th單曲・[日本電視台](../Page/日本電視台.md "wikilink")連續劇《戀文日和》主題曲
 4.  **A S A P**
     （作詞：Yu Shimoji、作曲：Kanata Okajima・Albi Albertsson・Ricky Hanley）
       -
@@ -59,7 +59,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 9.  **[轉啊轉](../Page/轉啊轉.md "wikilink")**（クルクル）
     （作詞：Jam9・Yu Shimoji、作曲：Jam9・ArmySlick）
       -
-        7th單曲・[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2013年11月度片尾曲、UHA味覚糖「e-maのど飴」電視廣告歌曲、ABC-MART「ボアコレクション」電視廣告歌曲
+        7th單曲・[朝日電視台](../Page/朝日電視台.md "wikilink")節目《お願い\!ランキング》2013年11月度片尾曲、UHA味覚糖「e-maのど飴」電視廣告歌曲、ABC-MART「ボアコレクション」電視廣告歌曲
 10. **[I Heard A Rumour 〜謠言Wassap\!〜](../Page/轉啊轉.md "wikilink")**（I
     Heard A Rumour 〜ウワサWassap\!〜）
     （作詞・作曲：Matthew James Aitken・Sarah Elizabeth Dallin・Siobhan

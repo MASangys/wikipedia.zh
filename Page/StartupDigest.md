@@ -1,5 +1,5 @@
 **StartupDigest**
-是一家以[电子邮件](../Page/电子邮件.md "wikilink")[信息推送](../Page/信息.md "wikilink")[创业和教育内容的媒体公司](https://zh.wikipedia.org/wiki/创业 "wikilink")。覆盖了全球81各城市。\[1\]\[2\]\[3\]2009年，StartupDigest由Christopher
+是一家以[电子邮件](../Page/电子邮件.md "wikilink")[信息](../Page/信息.md "wikilink")推送[创业和教育内容的媒体公司](https://zh.wikipedia.org/wiki/创业 "wikilink")。覆盖了全球81各城市。\[1\]\[2\]\[3\]2009年，StartupDigest由Christopher
 McCann和Brendan McManus创建。\[4\]
 
 ## 参照

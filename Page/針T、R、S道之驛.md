@@ -1,4 +1,4 @@
-**針T、R、S道之驛**（）是一位於[日本](../Page/日本.md "wikilink")[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")[奈良市](../Page/奈良市.md "wikilink")，[名阪國道與](../Page/名阪國道.md "wikilink")[國道369號沿線的](https://zh.wikipedia.org/wiki/國道369號 "wikilink")[道之驛](../Page/道之驛.md "wikilink")。設施名稱中的「T·R·S」是「Tea
+**針T、R、S道之驛**（）是一位於[日本](../Page/日本.md "wikilink")[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")[奈良市](../Page/奈良市.md "wikilink")，[名阪國道](../Page/名阪國道.md "wikilink")與[國道369號沿線的](https://zh.wikipedia.org/wiki/國道369號 "wikilink")[道之驛](../Page/道之驛.md "wikilink")。設施名稱中的「T·R·S」是「Tea
 Time
 Resort」的簡寫。針T·R·S是[西日本最大的道之驛之一](https://zh.wikipedia.org/wiki/西日本 "wikilink")，是奈良當地的建材製造業者納普公司（）旗下的關係企業。
 

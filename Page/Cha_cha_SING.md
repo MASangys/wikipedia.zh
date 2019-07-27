@@ -1,5 +1,5 @@
 《**cha cha
-SING**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[Berryz工房的第](../Page/Berryz工房.md "wikilink")29張[单曲](../Page/单曲.md "wikilink")，於2012年7月25日由[PICCOLO
+SING**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第29張[单曲](../Page/单曲.md "wikilink")，於2012年7月25日由[PICCOLO
 TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要
@@ -10,7 +10,7 @@ TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     McIntyre的歌曲](https://zh.wikipedia.org/wiki/Thongchai_McIntyre "wikilink")《Row
     mah Sing》的日語版本，而B面曲《Loving you Too much》是其歌曲《Too Much So Much Very
     Much》的日語版本。
-  - B面曲《Momochi\! 饒恕我吧♡体操》由成員[嗣永桃子主唱](../Page/嗣永桃子.md "wikilink")。
+  - B面曲《Momochi\! 饒恕我吧♡体操》由成員[嗣永桃子](../Page/嗣永桃子.md "wikilink")主唱。
   - 此單曲有4個版本，分別有「初回生産限定盤A - C」和「CD ONLY」。「初回生産限定盤A」和「初回生産限定盤B」收錄了《cha
     cha SING》的PV。
   - 在8月6日於公信榜单曲週榜取得第6位。

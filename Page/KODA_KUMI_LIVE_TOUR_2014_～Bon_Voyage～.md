@@ -1,5 +1,5 @@
 《**KODA KUMI LIVE TOUR 2014 ～Bon Voyage～**》（倖田來未 2014巡迴演唱會
-～倖感旅程～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2014年在[日本](../Page/日本.md "wikilink")、[台灣舉行的巡迴演唱會](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+～倖感旅程～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年在[日本](../Page/日本.md "wikilink")、[台灣舉行的巡迴演唱會](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 簡介
 

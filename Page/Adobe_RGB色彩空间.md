@@ -1,7 +1,7 @@
 [CIExy1931_AdobeRGB.png](https://zh.wikipedia.org/wiki/File:CIExy1931_AdobeRGB.png "fig:CIExy1931_AdobeRGB.png")
 is shown in the center.\]\] **Adobe RGB色彩空间**是一种由[Adobe
-Systems于](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")1998年开发的[色彩空间](https://zh.wikipedia.org/wiki/色彩空间 "wikilink")。开发的目的是为了尽可能在[CMYK](https://zh.wikipedia.org/wiki/CMYK "wikilink")[彩色印刷中利用计算机显示器等设备的](../Page/彩色印刷.md "wikilink")[RGB颜色模式上囊括更多的颜色](https://zh.wikipedia.org/wiki/RGB "wikilink")。Adobe
-RGB色彩空间粗略包括了50%的[Lab色彩空间中的可视色彩](../Page/Lab色彩空间.md "wikilink")，主要在青绿色（cyan-green）色系上有所提升。
+Systems于](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")1998年开发的[色彩空间](https://zh.wikipedia.org/wiki/色彩空间 "wikilink")。开发的目的是为了尽可能在[CMYK](https://zh.wikipedia.org/wiki/CMYK "wikilink")[彩色印刷](../Page/彩色印刷.md "wikilink")中利用计算机显示器等设备的[RGB颜色模式上囊括更多的颜色](https://zh.wikipedia.org/wiki/RGB "wikilink")。Adobe
+RGB色彩空间粗略包括了50%的[Lab色彩空间](../Page/Lab色彩空间.md "wikilink")中的可视色彩，主要在青绿色（cyan-green）色系上有所提升。
 
 ## 规格
 

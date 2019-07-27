@@ -1,4 +1,4 @@
-是一款[多人線上](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，由[怪物猎人系列开发商](https://zh.wikipedia.org/wiki/怪物猎人系列 "wikilink")[CAPCOM提供授权与技术支持](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")，[中国大陆的](../Page/中国大陆.md "wikilink")[腾讯游戏操刀制作](https://zh.wikipedia.org/wiki/腾讯游戏 "wikilink")，采用[CryENGINE
+是一款[多人線上](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，由[怪物猎人系列开发商](https://zh.wikipedia.org/wiki/怪物猎人系列 "wikilink")[CAPCOM提供授权与技术支持](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")，[中国大陆](../Page/中国大陆.md "wikilink")的[腾讯游戏操刀制作](https://zh.wikipedia.org/wiki/腾讯游戏 "wikilink")，采用[CryENGINE
 3游戏引擎开发](../Page/CryENGINE_3.md "wikilink")\[1\]。
 
 ## 运营

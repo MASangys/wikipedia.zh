@@ -1,9 +1,9 @@
 **Kali Linux**
-是基于[Debian的](../Page/Debian.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，设计用于[數位鑑識和](../Page/數位鑑識.md "wikilink")[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。由
+是基于[Debian](../Page/Debian.md "wikilink")的[Linux发行版](../Page/Linux发行版.md "wikilink")，设计用于[數位鑑識](../Page/數位鑑識.md "wikilink")和[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。由
 Offensive Security Ltd 维护和资助。
 
 Kali
-Linux既有32位又有64位的映像。可用于[x86](../Page/X86.md "wikilink")[指令集的中央处理器](https://zh.wikipedia.org/wiki/指令集 "wikilink")。同时还有基于[ARM架构的映像](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")，可用于[树莓派和三星的ARM](../Page/树莓派.md "wikilink")
+Linux既有32位又有64位的映像。可用于[x86](../Page/X86.md "wikilink")[指令集的中央处理器](https://zh.wikipedia.org/wiki/指令集 "wikilink")。同时还有基于[ARM架构的映像](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")，可用于[树莓派](../Page/树莓派.md "wikilink")和三星的ARM
 [Chromebook](../Page/Chromebook.md "wikilink").\[1\]
 
 ## 开发

@@ -9,14 +9,14 @@ Vision）的法人代表。自二十世纪90年代中期，邁克爾遜的研究
 
 ### 早期经历
 
-[Robert_Michelson_and_Christian_Michelsen.png](https://zh.wikipedia.org/wiki/File:Robert_Michelson_and_Christian_Michelsen.png "fig:Robert_Michelson_and_Christian_Michelsen.png")米切爾森研究院与[克里斯蒂安·米切爾森画像合影](../Page/克里斯蒂安·米切爾森.md "wikilink")。\]\]
-邁克爾遜出生于1951年的华盛顿，是卡羅爾·邁克爾遜和伊夫林·邁克爾遜唯一的儿子，并是挪威第一届总理[克里斯蒂安·米切爾森的后裔](../Page/克里斯蒂安·米切爾森.md "wikilink")\[1\]。邁克爾遜初中就读于学校。他在那里对[植物学和](../Page/植物学.md "wikilink")[鸟类学产生了兴趣](https://zh.wikipedia.org/wiki/鸟类学 "wikilink")\[2\]。在时，邁克爾遜出任亨特堡業餘火箭俱乐部的主席。该俱乐部旨在建造大型[固態火箭發動機](https://zh.wikipedia.org/wiki/固態火箭發動機 "wikilink")（2m
+[Robert_Michelson_and_Christian_Michelsen.png](https://zh.wikipedia.org/wiki/File:Robert_Michelson_and_Christian_Michelsen.png "fig:Robert_Michelson_and_Christian_Michelsen.png")米切爾森研究院与[克里斯蒂安·米切爾森](../Page/克里斯蒂安·米切爾森.md "wikilink")画像合影。\]\]
+邁克爾遜出生于1951年的华盛顿，是卡羅爾·邁克爾遜和伊夫林·邁克爾遜唯一的儿子，并是挪威第一届总理[克里斯蒂安·米切爾森](../Page/克里斯蒂安·米切爾森.md "wikilink")的后裔\[1\]。邁克爾遜初中就读于学校。他在那里对[植物学](../Page/植物学.md "wikilink")和[鸟类学产生了兴趣](https://zh.wikipedia.org/wiki/鸟类学 "wikilink")\[2\]。在时，邁克爾遜出任亨特堡業餘火箭俱乐部的主席。该俱乐部旨在建造大型[固態火箭發動機](https://zh.wikipedia.org/wiki/固態火箭發動機 "wikilink")（2m
 x 5cm），并在的发射场发射\[3\]\[4\]。
 [RCM\&ArmyTechn_at_Camp_Pickett.png](https://zh.wikipedia.org/wiki/File:RCM&ArmyTechn_at_Camp_Pickett.png "fig:RCM&ArmyTechn_at_Camp_Pickett.png")
 
 ### 教育经历
 
-邁克爾遜初中就读于，并于1969年从毕业\[5\]。随后，邁克爾遜于1973年从[弗吉尼亚理工学院](https://zh.wikipedia.org/wiki/弗吉尼亚理工学院 "wikilink")（VPI）学士毕业并于1974年在喬治亞理工學院获得[电子工程硕士学位](../Page/电子工程.md "wikilink")\[6\]。
+邁克爾遜初中就读于，并于1969年从毕业\[5\]。随后，邁克爾遜于1973年从[弗吉尼亚理工学院](https://zh.wikipedia.org/wiki/弗吉尼亚理工学院 "wikilink")（VPI）学士毕业并于1974年在喬治亞理工學院获得[电子工程](../Page/电子工程.md "wikilink")硕士学位\[6\]。
 
 ### 职业生涯
 
@@ -32,7 +32,7 @@ Cultures，SEPDAC）\[19\]的主席。2008年到2012年期间，他还曾连续�
 and Bio-Inspired
 UAVs”一章的章节主编\[23\]。邁克爾遜曾于2006年担任位于[伊斯坦布尔的](https://zh.wikipedia.org/wiki/伊斯坦布尔 "wikilink")（Hava
 Harp
-Okulu）的[北大西洋公約組織研究與技術機構讲师](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")\[24\]，并曾受邀担任位于[布鲁塞尔的](../Page/布鲁塞尔.md "wikilink")（1999年和2003年）\[25\]及皇家军事研究所（2001年）的微型飛行器讲师。他是第一位「科技報告者」\[26\]的获得者（1998年），并曾任六个国家的技术访问教授：[澳大利亚](../Page/澳大利亚.md "wikilink")（2002年），[比利时](../Page/比利时.md "wikilink")（1999、2003年)，[挪威](../Page/挪威.md "wikilink")（2001年），[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")（2001年），[土耳其](../Page/土耳其.md "wikilink")（2001、2006年)以及[墨西哥](../Page/墨西哥.md "wikilink")（2010年）\[27\]\[28\]\[29\]。邁克爾遜曾于2008年担任美军方及印度国防部的技术顾问，负责创办并组织在印度[阿格拉的美亚第一届微型飛行器演示大赛](../Page/阿格拉.md "wikilink")\[30\]\[31\]。其亦于2005年在德国[加爾米施-帕滕基興举行的第一届美欧微型飛行器演示大赛中再次为美军方效力](https://zh.wikipedia.org/wiki/加爾米施-帕滕基興 "wikilink")\[32\]。邁克爾遜在喬治亞理工學院创立了“二十一世纪空中机器人”（21st
+Okulu）的[北大西洋公約組織研究與技術機構讲师](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")\[24\]，并曾受邀担任位于[布鲁塞尔](../Page/布鲁塞尔.md "wikilink")的（1999年和2003年）\[25\]及皇家军事研究所（2001年）的微型飛行器讲师。他是第一位「科技報告者」\[26\]的获得者（1998年），并曾任六个国家的技术访问教授：[澳大利亚](../Page/澳大利亚.md "wikilink")（2002年），[比利时](../Page/比利时.md "wikilink")（1999、2003年)，[挪威](../Page/挪威.md "wikilink")（2001年），[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")（2001年），[土耳其](../Page/土耳其.md "wikilink")（2001、2006年)以及[墨西哥](../Page/墨西哥.md "wikilink")（2010年）\[27\]\[28\]\[29\]。邁克爾遜曾于2008年担任美军方及印度国防部的技术顾问，负责创办并组织在印度[阿格拉](../Page/阿格拉.md "wikilink")的美亚第一届微型飛行器演示大赛\[30\]\[31\]。其亦于2005年在德国[加爾米施-帕滕基興举行的第一届美欧微型飛行器演示大赛中再次为美军方效力](https://zh.wikipedia.org/wiki/加爾米施-帕滕基興 "wikilink")\[32\]。邁克爾遜在喬治亞理工學院创立了“二十一世纪空中机器人”（21st
 Century Aerial
 Robotics）短期课程\[33\]\[34\]和“现代雷达理论”中的数字信号处理课程。他同时还是国际空中机器人大赛的创始人和组织者\[35\]。在加入喬治亞理工學院之前，邁克爾遜效力于位于华盛顿的美国海军研究实验室，参与设计了基于计算机的太空海洋雷达监视系统，并完成其大气层内的飞行测试。
 
@@ -42,11 +42,11 @@ Robotics）短期课程\[33\]\[34\]和“现代雷达理论”中的数字信号
 
 ### 项目负责人
 
-在美国海军研究实验室工作期间，邁克爾遜致力于基于雷达的海洋监测系统研究以及[洛克希德报警星PO-1W超星座的硬件测试](https://zh.wikipedia.org/wiki/洛克希德报警星PO-1W超星座 "wikilink")\[36\]。1974年始，邁克爾遜就职于喬治亞理工研究院，并在初级工程师期间获得了他的第一个合同。该合同项目旨在跟踪[肯尼迪航天中心附近水域中的濒危物种](../Page/肯尼迪航天中心.md "wikilink")─美洲海牛[西印度海牛](../Page/西印度海牛.md "wikilink")\[37\]。
+在美国海军研究实验室工作期间，邁克爾遜致力于基于雷达的海洋监测系统研究以及[洛克希德报警星PO-1W超星座的硬件测试](https://zh.wikipedia.org/wiki/洛克希德报警星PO-1W超星座 "wikilink")\[36\]。1974年始，邁克爾遜就职于喬治亞理工研究院，并在初级工程师期间获得了他的第一个合同。该合同项目旨在跟踪[肯尼迪航天中心](../Page/肯尼迪航天中心.md "wikilink")附近水域中的濒危物种─美洲海牛[西印度海牛](../Page/西印度海牛.md "wikilink")\[37\]。
 
 邁克爾遜在喬治亞理工研究院领导了三十多个项目。1979年，喬治亞理工研究院主持了军方战斗发展与试验司令部（Combat Development
 and Experimentation
-Command，CDEC）项目的间接火力仿真任务\[38\]。他亦主持了[國防高等研究計劃署的直接照准无线电声传感器项目](../Page/國防高等研究計劃署.md "wikilink")，利用布拉格原理弯曲雷达信号，以检测被障碍物覆盖的目标（亦即检测角落目标）\[39\]。邁克爾遜还领导了地面渗透雷达评估项目，以检测城市管道天然气泄露情况\[40\]。1981年，邁克爾遜主持开发自主被动式测试系统，以破译捕获的外方威胁设备。该测试系统被某国军方使用了近十年。邁克爾遜亦为美国军方开发了其他测试及评估雷达系统，如用于测试毫米微波设备的Ka-带宽线性电子对抗源（Linear
+Command，CDEC）项目的间接火力仿真任务\[38\]。他亦主持了[國防高等研究計劃署](../Page/國防高等研究計劃署.md "wikilink")的直接照准无线电声传感器项目，利用布拉格原理弯曲雷达信号，以检测被障碍物覆盖的目标（亦即检测角落目标）\[39\]。邁克爾遜还领导了地面渗透雷达评估项目，以检测城市管道天然气泄露情况\[40\]。1981年，邁克爾遜主持开发自主被动式测试系统，以破译捕获的外方威胁设备。该测试系统被某国军方使用了近十年。邁克爾遜亦为美国军方开发了其他测试及评估雷达系统，如用于测试毫米微波设备的Ka-带宽线性电子对抗源（Linear
 Electronics Countermeasure Source，KABLES）\[41\]\[42\]。
 
 [Dragon_Stalker_Drone.png](https://zh.wikipedia.org/wiki/File:Dragon_Stalker_Drone.png "fig:Dragon_Stalker_Drone.png")
@@ -74,11 +74,11 @@ Electronics Countermeasure Source，KABLES）\[41\]\[42\]。
 
 1986年，邁克爾遜修完了房屋修建管理课程，并建造其第一座房屋。随后，在为喬治亞理工學院工作的同时，邁克爾遜监督修建了位于乔治亚伍德斯托克小镇的一座教堂\[62\]。2013年，邁克爾遜在佐治亚北部山区设计并监督修建了自己的又一座全钢筋结构、水泥地基及水泥外壳的房屋\[63\]。
 
-邁克爾遜曾是[美國童軍的一员](../Page/美國童軍.md "wikilink")，一直致力于该组织的建设与发展。年轻时，邁克爾遜是位于[弗吉尼亞州](https://zh.wikipedia.org/wiki/弗吉尼亞州 "wikilink")[亞歷山卓](https://zh.wikipedia.org/wiki/亞歷山卓_\(维吉尼亞州\) "wikilink")981团的星级童军，并成功成为（OA）的一员。后来，他荣获了全美最大团，470团
+邁克爾遜曾是[美國童軍](../Page/美國童軍.md "wikilink")的一员，一直致力于该组织的建设与发展。年轻时，邁克爾遜是位于[弗吉尼亞州](https://zh.wikipedia.org/wiki/弗吉尼亞州 "wikilink")[亞歷山卓](https://zh.wikipedia.org/wiki/亞歷山卓_\(维吉尼亞州\) "wikilink")981团的星级童军，并成功成为（OA）的一员。后来，他荣获了全美最大团，470团
 （），兄弟成员的资格，并参与了诸如
 “（1967）”之类的活动。受父亲的影响，邁克爾遜的两个儿子都是[鷹級童軍](../Page/鷹級童軍.md "wikilink")，被授予金、银鹰掌。目前，邁克爾遜是美童军8880团\[64\]的指导员\[65\]。
 
-邁克爾遜感兴趣于各类语言及语法，不仅是日常生活语言，亦包括计算机语言。他曾为本科生教授[Fortran语言](../Page/Fortran.md "wikilink")，并自学了[BASIC](../Page/BASIC.md "wikilink")、[Forth](../Page/Forth.md "wikilink")，以及其他各类[組合語言以支持其研究的需要](https://zh.wikipedia.org/wiki/組合語言 "wikilink")。他为美军方的环境及雷达操作模拟器（Environment
+邁克爾遜感兴趣于各类语言及语法，不仅是日常生活语言，亦包括计算机语言。他曾为本科生教授[Fortran](../Page/Fortran.md "wikilink")语言，并自学了[BASIC](../Page/BASIC.md "wikilink")、[Forth](../Page/Forth.md "wikilink")，以及其他各类[組合語言以支持其研究的需要](https://zh.wikipedia.org/wiki/組合語言 "wikilink")。他为美军方的环境及雷达操作模拟器（Environment
 and Radar Operation Simulator）设计了目标处理单元。该项目要求为高频处理器（10
 MHz）设计硬件及编程语言。在当时，这两项技术还未曾有人问津\[66\]
 \[67\] \[68\]。至于日常交流语言，邁克爾遜精通英语，西班牙语及土耳其语。

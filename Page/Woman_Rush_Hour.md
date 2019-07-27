@@ -1,5 +1,5 @@
 **Woman Rush
-Hour**（）是一對[日本](../Page/日本.md "wikilink")[搞笑組合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，於2008年組成\[1\]，成員分別是村本大輔和中川天堂（）。他們兩人都是隸屬[吉本興業的藝人](../Page/吉本興業.md "wikilink")，村本畢業於[NSC第](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")22期，中川則是第23期\[2\]。他們為2013年度日本漫才大賽[THE
+Hour**（）是一對[日本](../Page/日本.md "wikilink")[搞笑組合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，於2008年組成\[1\]，成員分別是村本大輔和中川天堂（）。他們兩人都是隸屬[吉本興業](../Page/吉本興業.md "wikilink")的藝人，村本畢業於[NSC第](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")22期，中川則是第23期\[2\]。他們為2013年度日本漫才大賽[THE
 MANZAI 2013之優勝者](../Page/THE_MANZAI_\(日本漫才比賽\).md "wikilink")\[3\]。
 
 ## 成員
@@ -11,16 +11,16 @@ MANZAI 2013之優勝者](../Page/THE_MANZAI_\(日本漫才比賽\).md "wikilink"
 #### 來歷
 
 [福井縣](../Page/福井縣.md "wikilink")[大飯郡](https://zh.wikipedia.org/wiki/大飯郡 "wikilink")[大飯町出身](https://zh.wikipedia.org/wiki/大飯町 "wikilink")，是[NSC第](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")22屆畢業生。於1999年入學，2000年畢業。和他同期的藝人分別有，[山里亮太](../Page/山里亮太.md "wikilink")（），，[Piece](../Page/Piece_\(搞笑組合\).md "wikilink")，和[NON
-STYLE等等](../Page/NON_STYLE.md "wikilink")。村本在NSC畢業後曾先後和10個人組成組合，但都以解散告終。在這些經歷中，當他以「村本・本田」這個組合活動時曾成功進入到[M-1大賽的準決賽](../Page/M-1大賽.md "wikilink")。在此之後則以「」的名義進行活動。村本於2008年9月開始和中川天堂以Woman
+STYLE等等](../Page/NON_STYLE.md "wikilink")。村本在NSC畢業後曾先後和10個人組成組合，但都以解散告終。在這些經歷中，當他以「村本・本田」這個組合活動時曾成功進入到[M-1大賽](../Page/M-1大賽.md "wikilink")的準決賽。在此之後則以「」的名義進行活動。村本於2008年9月開始和中川天堂以Woman
 Rush Hour的組合名義繼續活動。
 
 #### 性格和個人相關
 
-  - 村本有一名弟弟。其弟是日本[陸上自衛隊的自衛官](../Page/陸上自衛隊.md "wikilink")，駐屯於日本[石川縣](../Page/石川縣.md "wikilink")[金澤市的](../Page/金澤市.md "wikilink")。
+  - 村本有一名弟弟。其弟是日本[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")的自衛官，駐屯於日本[石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")的。
 
 ### 中川天堂
 
-**中川天堂**（1981年4月12日－），本名中川和宗，擔任[吐槽角色](../Page/吐槽.md "wikilink")，站在右邊。身高為173cm，體重為63kg，血型為B型\[5\]。
+**中川天堂**（1981年4月12日－），本名中川和宗，擔任[吐槽](../Page/吐槽.md "wikilink")角色，站在右邊。身高為173cm，體重為63kg，血型為B型\[5\]。
 
 #### 來歷
 

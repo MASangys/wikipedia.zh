@@ -1,4 +1,4 @@
-**here文档**\[1\]，又称作**heredoc**、**hereis**、**here-字串**或**here-脚本**，是一种在命令行shell（如[sh](https://zh.wikipedia.org/wiki/Bourne_Shell "wikilink")、[csh](https://zh.wikipedia.org/wiki/C_shell "wikilink")、[ksh](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")、[bash](https://zh.wikipedia.org/wiki/bash "wikilink")、[PowerShell和](https://zh.wikipedia.org/wiki/PowerShell "wikilink")[zsh](../Page/Z_shell.md "wikilink")）和程序语言（像[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python和](../Page/Python.md "wikilink")[Ruby](../Page/Ruby.md "wikilink")）里定义一个[字串的方法](https://zh.wikipedia.org/wiki/字串 "wikilink")。它可以保存文字裡面的换行或是縮排等空白字元。一些语言允许在字串里执行[变量替换和](https://zh.wikipedia.org/wiki/变量 "wikilink")[命令替换](https://zh.wikipedia.org/wiki/命令替换 "wikilink")。
+**here文档**\[1\]，又称作**heredoc**、**hereis**、**here-字串**或**here-脚本**，是一种在命令行shell（如[sh](https://zh.wikipedia.org/wiki/Bourne_Shell "wikilink")、[csh](https://zh.wikipedia.org/wiki/C_shell "wikilink")、[ksh](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")、[bash](https://zh.wikipedia.org/wiki/bash "wikilink")、[PowerShell和](https://zh.wikipedia.org/wiki/PowerShell "wikilink")[zsh](../Page/Z_shell.md "wikilink")）和程序语言（像[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")）里定义一个[字串的方法](https://zh.wikipedia.org/wiki/字串 "wikilink")。它可以保存文字裡面的换行或是縮排等空白字元。一些语言允许在字串里执行[变量替换和](https://zh.wikipedia.org/wiki/变量 "wikilink")[命令替换](https://zh.wikipedia.org/wiki/命令替换 "wikilink")。
 
 here文档最通用的语法是`<<`紧跟一个标识符，从下一行开始是想要引用的文字，然后再在单独的一行用相同的标识符关闭。在Unix
 shell里，here文档通常用于给命令提供输入内容。
@@ -204,7 +204,7 @@ IDENT";
 
 #### Lua
 
-[Lua使用](../Page/Lua.md "wikilink")`[[`和`|`和`]]`定义字面字串，字面字串中的换行会原样保留，不允许含有转义字符。这不便放置长的注释（`--[[注释|注释]]`）和一些字串（`x
+[Lua](../Page/Lua.md "wikilink")使用`[[`和`|`和`]]`定义字面字串，字面字串中的换行会原样保留，不允许含有转义字符。这不便放置长的注释（`--[[注释|注释]]`）和一些字串（`x
 = a[b[c]]`）。所以在版本5.1时，Lua添加了一个新语法：起始的两个括号中间可以加入任意多的等号，并且只有相同的等号数字才能关闭字串。
 
 ``` Lua
@@ -340,7 +340,7 @@ echo $toprint;
 包含关闭标识符的行不得包含除了（可选的）分号的任何其他字符。不然它就不会被识别为关闭标识符，PHP就会继续寻找一个。如果没有找到关闭标识符，分析错误会发生在最后一行\[6\]。
 
 在PHP
-5.3和以后的版本中，就像[Perl一样](../Page/Perl.md "wikilink")，可以用单引号包裹标识符阻止变量扩展；这叫作*nowdoc*\[7\]：
+5.3和以后的版本中，就像[Perl](../Page/Perl.md "wikilink")一样，可以用单引号包裹标识符阻止变量扩展；这叫作*nowdoc*\[7\]：
 
 ``` php
 $x = <<<'END'
@@ -357,7 +357,7 @@ END;
 
 #### Python
 
-[Python支持使用三个连续单引号或双引号的字面字串](../Page/Python.md "wikilink")（如`'''`或`"""`）。这些字面字串可以跨越多行，支持here文档的功能。
+[Python](../Page/Python.md "wikilink")支持使用三个连续单引号或双引号的字面字串（如`'''`或`"""`）。这些字面字串可以跨越多行，支持here文档的功能。
 
 一个简单的Python3兼容的例子给出像上边第一个Perl例子一样：
 
@@ -376,7 +376,7 @@ print(message.format(sender='Buffy the Vampire Slayer', recipient='Spike'))
 
 #### R
 
-[R语言在字串里使用空格](../Page/R语言.md "wikilink")，包括换行。不执行变量替换。字串可以用`textConnection()`函数转化为[文件描述符](../Page/文件描述符.md "wikilink")。例如，以下代码将一个嵌入源码的数据表转化为一个数据框架变量：
+[R语言](../Page/R语言.md "wikilink")在字串里使用空格，包括换行。不执行变量替换。字串可以用`textConnection()`函数转化为[文件描述符](../Page/文件描述符.md "wikilink")。例如，以下代码将一个嵌入源码的数据表转化为一个数据框架变量：
 
 ``` rsplus
 str <-
@@ -390,7 +390,7 @@ x <- read.table(textConnection(str), header=TRUE, row.names=1)
 
 #### Racket
 
-[Racket的here字串以](../Page/Racket.md "wikilink")`#<<`开始，紧跟定义字串终止的标识符\[8\]。
+[Racket](../Page/Racket.md "wikilink")的here字串以`#<<`开始，紧跟定义字串终止的标识符\[8\]。
 
 字串的内容包括所有的在`#<<`一行和仅包括定义了的终止符的那一行。即：字串的内容开始于`#<<`后的新行，结束于终止符之前的一行。
 
@@ -500,7 +500,7 @@ END
 
 #### Ruby
 
-下列[Ruby代码用here文档显示了一个列表](../Page/Ruby.md "wikilink")：
+下列[Ruby](../Page/Ruby.md "wikilink")代码用here文档显示了一个列表：
 
 ``` Ruby
 puts <<GROCERY_LIST
@@ -576,7 +576,7 @@ puts "This is the beginning:\n<--- middle --->\nAnd now it is over!"
 
 #### Tcl
 
-[Tcl没有为here文档设立特殊的语法](../Page/Tcl.md "wikilink")，因为一般的字串语法已经允许嵌入换行和保持缩进。用括号括起来的字串，没有扩展：
+[Tcl](../Page/Tcl.md "wikilink")没有为here文档设立特殊的语法，因为一般的字串语法已经允许嵌入换行和保持缩进。用括号括起来的字串，没有扩展：
 
 ``` text
 puts {

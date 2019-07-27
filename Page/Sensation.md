@@ -1,10 +1,10 @@
-**Sensation**，[日本的四人纯音乐乐队](../Page/日本.md "wikilink")，2012年结成，为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。
+**Sensation**，[日本](../Page/日本.md "wikilink")的四人纯音乐乐队，2012年结成，为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。
 
 ## 成员
 
   - [大賀好修](../Page/大賀好修.md "wikilink")（吉他），前、[OOM成员](https://zh.wikipedia.org/wiki/OOM "wikilink")。
 
-  - （贝斯），前、[WAR-ED成员](../Page/WAR-ED.md "wikilink")。
+  - （贝斯），前、[WAR-ED](../Page/WAR-ED.md "wikilink")成员。
 
   - [大楠雄藏](https://zh.wikipedia.org/wiki/大楠雄藏 "wikilink")（键盘），前OOM成员。
 
@@ -13,7 +13,7 @@
 
 ## 经历
 
-2012年乐队结成，成员4人均是[ZARD纪念演唱会的支援乐手](../Page/ZARD.md "wikilink")\[1\]\[2\]\[3\]，同年7月发布专辑《Sensation
+2012年乐队结成，成员4人均是[ZARD](../Page/ZARD.md "wikilink")纪念演唱会的支援乐手\[1\]\[2\]\[3\]，同年7月发布专辑《Sensation
 I》而出道。乐队名来自于专辑《Sensation I》中的乐曲《Sensation》，在制作完成这首歌曲后直接把曲名用作乐队名\[4\]。
 
 ## 作品

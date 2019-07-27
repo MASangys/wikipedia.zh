@@ -163,7 +163,7 @@ TV以英語旁白](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")，在�
 1.  神奈川新聞（2013年7月7日付 28面） -
     [神奈川新聞社](https://zh.wikipedia.org/wiki/神奈川新聞社 "wikilink")（2013年7月10日閲覧）
 2.  May J.
-    曾在《Flash》雜誌（2014年7月8日，第18—19頁）及[每日放送的電視節目](../Page/每日放送.md "wikilink")《》（2014年6月22日）中談及過。
+    曾在《Flash》雜誌（2014年7月8日，第18—19頁）及[每日放送](../Page/每日放送.md "wikilink")的電視節目《》（2014年6月22日）中談及過。
 3.
 4.
 5.

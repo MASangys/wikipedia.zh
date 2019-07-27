@@ -1,9 +1,9 @@
-**Kiloo**是一家丹麦的电子游戏开发公司，总部设在[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[奥胡斯的中心](../Page/奥胡斯.md "wikilink")。Kiloo由现任總裁雅各布·默勒（Jacob
+**Kiloo**是一家丹麦的电子游戏开发公司，总部设在[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[奥胡斯](../Page/奥胡斯.md "wikilink")的中心。Kiloo由现任總裁雅各布·默勒（Jacob
 Møller）于2000年建立，\[1\]并专注于为[手機和手持裝置开发遊戲](../Page/移动电话.md "wikilink")。2008年，雅各布·默勒的兄弟西蒙·默勒加入公司，共同營運Kiloo。
 
 Kiloo最知名的游戏是与SYBO
 Games合作，于2012年春季开发的《[地铁跑酷](../Page/地铁跑酷.md "wikilink")》（*Subway
-Surfers*）。2012年5月31日，遊戲在[iOS平台被AppAdvice评为本週遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[2\]在9月，该游戏称将推出[Android版本](../Page/Android.md "wikilink")，吸引更多的热心玩家。\[3\]在Android版本推出一個月後，《地鐵跑酷》进入[Facebook應用程序中](../Page/Facebook.md "wikilink")，每月活躍用户成長速度排行的前20名。\[4\]直至2014年7月，《地鐵跑酷》在各平台上累積超過5億次下載。
+Surfers*）。2012年5月31日，遊戲在[iOS平台被AppAdvice评为本週遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[2\]在9月，该游戏称将推出[Android](../Page/Android.md "wikilink")版本，吸引更多的热心玩家。\[3\]在Android版本推出一個月後，《地鐵跑酷》进入[Facebook](../Page/Facebook.md "wikilink")應用程序中，每月活躍用户成長速度排行的前20名。\[4\]直至2014年7月，《地鐵跑酷》在各平台上累積超過5億次下載。
 
 ## 历史
 
@@ -47,7 +47,7 @@ Baboon ApS在2014年成立，專營網路購物入口。2014年7月，Baboon推�
 
 ### GivingTales
 
-GivingTales是Kiloo和evershift在2012年開始的合作計畫，開發[安徒生童話的互動與娛樂軟體](../Page/安徒生.md "wikilink")。這些童話皆以世界級的演員和名人做旁白，並捐出30%的收益給[聯合國兒童基金會](../Page/联合国儿童基金会.md "wikilink")，希望促進教育與幫助全世界的孩童。這個軟體在布達佩斯開發，並於2015年7月在App
+GivingTales是Kiloo和evershift在2012年開始的合作計畫，開發[安徒生](../Page/安徒生.md "wikilink")童話的互動與娛樂軟體。這些童話皆以世界級的演員和名人做旁白，並捐出30%的收益給[聯合國兒童基金會](../Page/联合国儿童基金会.md "wikilink")，希望促進教育與幫助全世界的孩童。這個軟體在布達佩斯開發，並於2015年7月在App
 Store、Google Play商店和Windows Phone 8商店發行。軟體中包括以下故事與配音：
 
   - 豌豆公主，[羅傑·摩爾](../Page/罗杰·摩尔.md "wikilink")。
@@ -72,7 +72,7 @@ Kiloo開發了一些經過其他品牌或公司授權的遊戲，如：
 
 \[18\]
 
-2010年，Kiloo推出了一个新的游戏《Zoonies》，可用于[任天堂DSi和](../Page/任天堂DSi.md "wikilink")[3DS](https://zh.wikipedia.org/wiki/3DS "wikilink")。遊戲由New
+2010年，Kiloo推出了一个新的游戏《Zoonies》，可用于[任天堂DSi](../Page/任天堂DSi.md "wikilink")和[3DS](https://zh.wikipedia.org/wiki/3DS "wikilink")。遊戲由New
 Danish Screen赞助。\[19\]Kiloo在2011年推出永远的飞盘\[20\]
 和BulletTime HD。\[21\]在2012年与Sybo Games合作開發與推出了跑酷游戏[Subway
 Surfers](https://zh.wikipedia.org/wiki/Subway_Surfers "wikilink")\[22\]，並推出了永远的飞盘2的續集。\[23\]

@@ -1,5 +1,5 @@
 《**Just Love
-It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天所舉辦的公益演唱會](../Page/五月天.md "wikilink")，首次於2012年3月3日於[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[國立台灣體育運動大學台中校址田徑場舉行](https://zh.wikipedia.org/wiki/國立台灣體育運動大學 "wikilink")。
+It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")所舉辦的公益演唱會，首次於2012年3月3日於[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[國立台灣體育運動大學台中校址田徑場舉行](https://zh.wikipedia.org/wiki/國立台灣體育運動大學 "wikilink")。
 
 ## 場次
 
@@ -35,11 +35,10 @@ It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikil
 <a href="../Page/任賢齊.md" title="wikilink">任賢齊</a></p></td>
 <td><p>「不願讓你一個人」演唱會<br />
 五月天無酬演出<br />
-受贈單位：台灣兒童暨家庭扶助基金會<br />
 演唱會後結算盈餘也全數捐給台灣兒童暨家庭扶助基金會，作為弱勢兒童的學用品等教育補助和進步獎助</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2013年</strong></p></td>
+<td><p>2013年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -88,7 +87,7 @@ It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikil
 <tr class="even">
 <td><p>2013年7月5日</p></td>
 <td><p><a href="../Page/新竹縣.md" title="wikilink">新竹縣</a></p></td>
-<td><p><a href="../Page/新竹縣政府.md" title="wikilink">新竹縣政府廣場</a></p></td>
+<td><p><a href="../Page/新竹縣政府.md" title="wikilink">新竹縣政府</a>廣場</p></td>
 <td><p><a href="../Page/白安.md" title="wikilink">白安</a><br />
 <a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a><br />
 <a href="../Page/嚴爵.md" title="wikilink">嚴爵</a></p></td>
@@ -105,7 +104,7 @@ It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikil
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>2014年</strong></p></td>
+<td><p>2014年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -124,15 +123,7 @@ It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikil
 這世界並不完美，但有你伸手擁抱，缺憾會更少一點<br />
 Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生活、教育、醫療等扶助的弱勢族群。用演唱會的熱情與音樂的正面力量，凝聚眾人愛心，用最實際的行動，給予默默長期耕耘的公益團體，最實質的鼓勵與幫助<br />
 本演唱會售票所得全額捐出<br />
-*台灣場次捐贈對象：<br />
-台灣兒童暨家庭扶助基金會<br />
-罕見疾病基金會<br />
-<a href="../Page/宜蘭縣政府.md" title="wikilink">宜蘭縣政府</a>（救助金專戶）<br />
-高雄市政府社會局社會救助金專戶</p>
-<ul>
-<li>中國場次捐贈對象：<br />
-浙江省新華愛心教育基金會（撿回珍珠計畫）</li>
-</ul></td>
+</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年8月3日</p></td>
@@ -164,9 +155,80 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 </tbody>
 </table>
 
-## 参见
+## 捐贈款項
 
-  - [五月天](../Page/五月天.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>場次</p></th>
+<th><p>捐贈金額</p></th>
+<th><p>捐贈對象</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2012年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/臺中" title="wikilink">臺中場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新台幣" title="wikilink">新台幣</a>1800萬元</p></td>
+<td><ul>
+<li>台灣兒童暨家庭扶助基金會</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京場</a><br />
+<a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海場</a><br />
+<a href="https://zh.wikipedia.org/wiki/廣州" title="wikilink">廣州場</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/臺中" title="wikilink">臺中場</a><br />
+<a href="https://zh.wikipedia.org/wiki/新竹" title="wikilink">新竹場</a><br />
+<a href="../Page/臺北.md" title="wikilink">臺北</a>場</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新台幣" title="wikilink">新台幣</a>2700萬元</p></td>
+<td><ul>
+<li>台灣兒童暨家庭扶助基金會</li>
+</ul></td>
+<td><p>[2]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高雄" title="wikilink">高雄場</a><br />
+<a href="https://zh.wikipedia.org/wiki/宜蘭" title="wikilink">宜蘭場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新台幣" title="wikilink">新台幣</a>5694萬9624元</p></td>
+<td><ul>
+<li>財團法人台灣兒童暨家庭扶助基金會</li>
+<li>財團法人罕見疾病基金會</li>
+<li><a href="../Page/宜蘭縣政府.md" title="wikilink">宜蘭縣政府</a>（救助金專戶）</li>
+<li>高雄市政府社會局社會救助金專戶</li>
+</ul></td>
+<td><p>[3]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京場</a><br />
+<a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人民幣" title="wikilink">人民幣</a>799萬</p></td>
+<td><ul>
+<li>浙江省新華愛心教育基金會（撿回珍珠計畫）</li>
+</ul></td>
+<td><p>[4]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考文獻
 
@@ -176,5 +238,8 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 [Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink")
 [Category:公益演唱會](https://zh.wikipedia.org/wiki/Category:公益演唱會 "wikilink")
 
-1.  [相信音樂\>五月天 \[Just Love It](http://bin-music.com.tw/tw/news701.html)
-    演唱會 新竹＆台北場相關訊息\]
+1.  [五月天 「Just Love It」演唱會
+    新竹＆台北場相關訊息](http://bin-music.com.tw/tw/news701.html)
+2.
+3.
+4.

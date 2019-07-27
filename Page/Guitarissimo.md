@@ -4,14 +4,14 @@ Records發行](../Page/Sony_Music_Records.md "wikilink")。「guitarissimo」由
 
 ## 發行
 
-《guitarissimo》原定在2011年3月30日於[日本國內發行](../Page/日本.md "wikilink")，但由於同年3月11日發生[東日本大震災](../Page/東日本大震災.md "wikilink")，發行日期延後至同年4月6日。\[2\]
+《guitarissimo》原定在2011年3月30日於[日本](../Page/日本.md "wikilink")國內發行，但由於同年3月11日發生[東日本大震災](../Page/東日本大震災.md "wikilink")，發行日期延後至同年4月6日。\[2\]
 
 該專輯分為普通版和首批發行限量版（），共有兩個版本，收錄曲目相同，但封面照片不同。\[3\]\[4\]首批發行限量版附送[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄了2010年12月8日miwa於[LIQUIDROOM
 ebisu演唱五首歌曲的演唱會錄像](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")。\[5\]\[6\]另外，首批發行限量版亦附送2011年「miwa
 live tour 2011
 "guitarissimo"」[巡迴演唱會的門票優先預約單張](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")。\[7\]
 
-2011年7月15日，該專輯以《-{吉他}-女聲》的名字在[台灣經](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣索尼音樂娛樂發行](../Page/台灣索尼音樂娛樂.md "wikilink")。\[8\]
+2011年7月15日，該專輯以《-{吉他}-女聲》的名字在[台灣經](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")發行。\[8\]
 
 ## 歌曲
 
@@ -27,14 +27,14 @@ anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》至《[�
     days**：歌詞以「車站的CD店已經不見了」一句開首，描述回憶裏的一個城市慢慢變遷，以及過往跟戀人在那個城市過的生活。\[13\]
   - **醒不來的夢**（）：歌中主角在喜歡的人不在身邊的夜晚，痛苦得想造醒不來的夢。\[14\]
   - **目黑川（string version）**（）：出道單曲《[don't cry
-    anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》B面曲的弦樂版本，以[目黑川為背景](../Page/目黑川.md "wikilink")。\[15\]
-  - **初夏**（）：歌詞描述[遠距離戀愛的一對戀人即將迎來夏天](../Page/遠距離戀愛.md "wikilink")，其中包含「太陽」、「海風」等字眼。\[16\]
+    anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》B面曲的弦樂版本，以[目黑川](../Page/目黑川.md "wikilink")為背景。\[15\]
+  - **初夏**（）：歌詞描述[遠距離戀愛](../Page/遠距離戀愛.md "wikilink")的一對戀人即將迎來夏天，其中包含「太陽」、「海風」等字眼。\[16\]
   - **我們的未來**（）：以男生角度寫成的歌曲，歌詞描述主角須轉到一間「遙遠的學校」（）上學，以及他離開前跟喜歡的人相處的時光。\[17\]
   - **堅強**（）：歌詞描述主角為了邁向新的地方，所以想變得堅強；包含「平日的巴士站」（）、「電話和短訊」（）等跟主角相符的事物。\[18\]這首歌是miwa在高中時寫的歌曲。\[19\]
 
 ## 排行榜成績
 
-專輯於2011年4月18日登上[Oricon公信榜專輯週榜第](../Page/Oricon公信榜.md "wikilink")1名，這是miwa首次在該排行榜（包括單曲週榜）取得首名。\[20\]這亦是該排行榜首次有出生於[平成時代的個人歌手取得專輯週榜第](../Page/平成.md "wikilink")1名。\[21\]此外，當時上一個在該排行榜取得首名的創作歌手專輯是[森山直太朗的](../Page/森山直太朗.md "wikilink")《[音樂辛激動](https://zh.wikipedia.org/wiki/音樂辛激動 "wikilink")》（，2004年6月發行），女性創作歌手的則是[鬼束千尋的](../Page/鬼束千尋.md "wikilink")《[Insomnia](../Page/失眠_\(鬼束千尋專輯\).md "wikilink")》（2001年3月發行）。\[22\]
+專輯於2011年4月18日登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜第1名，這是miwa首次在該排行榜（包括單曲週榜）取得首名。\[20\]這亦是該排行榜首次有出生於[平成](../Page/平成.md "wikilink")時代的個人歌手取得專輯週榜第1名。\[21\]此外，當時上一個在該排行榜取得首名的創作歌手專輯是[森山直太朗](../Page/森山直太朗.md "wikilink")的《[音樂辛激動](https://zh.wikipedia.org/wiki/音樂辛激動 "wikilink")》（，2004年6月發行），女性創作歌手的則是[鬼束千尋](../Page/鬼束千尋.md "wikilink")的《[Insomnia](../Page/失眠_\(鬼束千尋專輯\).md "wikilink")》（2001年3月發行）。\[22\]
 
 ## 收錄曲目
 

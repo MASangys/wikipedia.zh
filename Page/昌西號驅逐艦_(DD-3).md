@@ -10,11 +10,11 @@ No. 3）
 
 ### 一战前
 
-服役后的昌西号进入了海岸中队服役直至1903年9月20日。此时，昌西号被编入[亚洲舰队并于](https://zh.wikipedia.org/wiki/美国亚洲舰队 "wikilink")12月18日驶离[基韦斯特岛开赴东方](https://zh.wikipedia.org/wiki/基韦斯特岛 "wikilink")。昌西号经由[苏伊士运河最终到达](../Page/苏伊士运河.md "wikilink")[甲米地](https://zh.wikipedia.org/wiki/甲米地 "wikilink")。此后，昌西号参与了在[菲律宾群岛海域的冬季巡航和夏季在中国沿海的夏季巡航以显示美国在远东地区的实力](https://zh.wikipedia.org/wiki/菲律宾群岛 "wikilink")。1905年12月3日至1907年1月12日，昌西号又进入封存状态。除此之外，昌西号一直在亚洲服役，直至美国参战。
+服役后的昌西号进入了海岸中队服役直至1903年9月20日。此时，昌西号被编入[亚洲舰队并于](https://zh.wikipedia.org/wiki/美国亚洲舰队 "wikilink")12月18日驶离[基韦斯特岛开赴东方](https://zh.wikipedia.org/wiki/基韦斯特岛 "wikilink")。昌西号经由[苏伊士运河](../Page/苏伊士运河.md "wikilink")最终到达[甲米地](https://zh.wikipedia.org/wiki/甲米地 "wikilink")。此后，昌西号参与了在[菲律宾群岛海域的冬季巡航和夏季在中国沿海的夏季巡航以显示美国在远东地区的实力](https://zh.wikipedia.org/wiki/菲律宾群岛 "wikilink")。1905年12月3日至1907年1月12日，昌西号又进入封存状态。除此之外，昌西号一直在亚洲服役，直至美国参战。
 
 ### 沉没
 
-1917年8月1日，昌西号驶离甲米地，前往东[大西洋执行护航任务](../Page/大西洋.md "wikilink")。在11月19日，当护航船队驶至离[直布罗陀以西](../Page/直布罗陀.md "wikilink")110海里时，昌西号与英国商船罗斯号（SS
+1917年8月1日，昌西号驶离甲米地，前往东[大西洋](../Page/大西洋.md "wikilink")执行护航任务。在11月19日，当护航船队驶至离[直布罗陀](../Page/直布罗陀.md "wikilink")以西110海里时，昌西号与英国商船罗斯号（SS
 Rose）相撞。当时，两船都处在战时灯火管制状态。3:17分，昌西号沉没于海面下2700米处，随舰21人阵亡，包括舰长[沃尔特·E·雷诺](https://zh.wikipedia.org/wiki/沃尔特·E·雷诺 "wikilink")（Walter
 E. Reno）少校。其余70名幸存者被罗斯号救起，送往就近港口。
 

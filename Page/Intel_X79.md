@@ -28,8 +28,8 @@ X79於2011年11月14日發佈，對應[LGA
 
 ## Windows XP
 
-X79不支援以[AHCI安裝Windows](../Page/AHCI.md "wikilink")
-XP，因為Intel並沒有釋出[32位元Windows](../Page/32位元.md "wikilink")
+X79不支援以[AHCI](../Page/AHCI.md "wikilink")安裝Windows
+XP，因為Intel並沒有釋出[32位元](../Page/32位元.md "wikilink")Windows
 XP的驅動程式。\[4\]Windows
 XP可以於[IDE模式下安裝](https://zh.wikipedia.org/wiki/IDE "wikilink")，但無法啟用SATA功能。如用家使用dual
 boot安裝了Windows XP及另一個運作於ACHI的作業系統，就必須每次在開機時轉換IDE或AHCI。

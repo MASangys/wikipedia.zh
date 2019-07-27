@@ -5,7 +5,7 @@
 [Paul](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")
 共同錄製\[1\]。這歌是在拍攝樂團另一首歌曲 [Lady
 Madonna](https://zh.wikipedia.org/wiki/Lady_Madonna "wikilink")
-的宣傳片時錄製的；而兩者一樣是樂隊少數加入鋼琴即興重複段的歌曲。此外，這歌亦被不同樂手和樂隊翻唱，如[艾維斯·卡斯提洛和](../Page/艾維斯·卡斯提洛.md "wikilink")[辛蒂·羅波等](../Page/辛蒂·羅波.md "wikilink")。
+的宣傳片時錄製的；而兩者一樣是樂隊少數加入鋼琴即興重複段的歌曲。此外，這歌亦被不同樂手和樂隊翻唱，如[艾維斯·卡斯提洛](../Page/艾維斯·卡斯提洛.md "wikilink")和[辛蒂·羅波](../Page/辛蒂·羅波.md "wikilink")等。
 
 ## 概要
 

@@ -1,6 +1,6 @@
-**DHL最快圈速獎**（）授予在[一級方程式賽車單一賽季中](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")，寫下最多次[最快圈速的車手](../Page/最快圈速.md "wikilink")。此項獎項以頒發獎盃的方式，表揚擁有最多次最快單圈的車手。\[1\]據[伯尼·埃克萊斯頓表示](https://zh.wikipedia.org/wiki/伯尼·埃克萊斯頓 "wikilink")，這項獎項「表彰了一級方程式相當重要的事：速度及組織。」\[2\]
+**DHL最快圈速獎**（）授予在[一級方程式賽車單一賽季中](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")，寫下最多次[最快圈速](../Page/最快圈速.md "wikilink")的車手。此項獎項以頒發獎盃的方式，表揚擁有最多次最快單圈的車手。\[1\]據[伯尼·埃克萊斯頓表示](https://zh.wikipedia.org/wiki/伯尼·埃克萊斯頓 "wikilink")，這項獎項「表彰了一級方程式相當重要的事：速度及組織。」\[2\]
 
-這項獎由[DHL贊助](../Page/DHL.md "wikilink")，並做為他們在這項運動擔任物流合作商的一部份。\[3\]DHL的[-{zh-hans:首席执行官;zh-hant:執行長;zh-cn:首席执行官;zh-hk:行政總裁;zh-tw:執行長;zh-mo:行政總裁;}-肯](https://zh.wikipedia.org/wiki/執行長 "wikilink")·艾倫（Ken
+這項獎由[DHL](../Page/DHL.md "wikilink")贊助，並做為他們在這項運動擔任物流合作商的一部份。\[3\]DHL的[-{zh-hans:首席执行官;zh-hant:執行長;zh-cn:首席执行官;zh-hk:行政總裁;zh-tw:執行長;zh-mo:行政總裁;}-肯](https://zh.wikipedia.org/wiki/執行長 "wikilink")·艾倫（Ken
 Allen）解釋為何DHL要贊助該獎項，「最快圈速在一場比賽中始終是一項挑戰。這是綜合了速度、精確性和團隊合作才有的結果。贏得了DHL最快圈速獎更能為這幾點增加連續性與可靠性。而這些也都能在DHL的快遞業務中找尋到。」\[4\]
 
 ## 決勝局
@@ -9,9 +9,9 @@ Allen）解釋為何DHL要贊助該獎項，「最快圈速在一場比賽中始
 
 ## 歷史
 
-在這項獎項的九年歷史當中，共出現過三次決勝局；[奇米·雷克南與](../Page/奇米·雷克南.md "wikilink")[費利佩·馬薩在](https://zh.wikipedia.org/wiki/費利佩·馬薩 "wikilink")以六次最快圈速，以及兩次第二快圈速持平，\[6\][賽巴斯蒂安·維泰爾和](../Page/賽巴斯蒂安·維泰爾.md "wikilink")[馬克·韋伯在](https://zh.wikipedia.org/wiki/馬克·韋伯 "wikilink")賽季結束時，皆有三次最快圈速紀錄，\[7\]以及[費爾南多·阿隆索和](https://zh.wikipedia.org/wiki/費爾南多·阿隆索 "wikilink")[劉易斯·漢米爾頓在](https://zh.wikipedia.org/wiki/劉易斯·漢米爾頓 "wikilink")皆持有五次的最快圈速。\[8\]
+在這項獎項的九年歷史當中，共出現過三次決勝局；[奇米·雷克南](../Page/奇米·雷克南.md "wikilink")與[費利佩·馬薩在](https://zh.wikipedia.org/wiki/費利佩·馬薩 "wikilink")以六次最快圈速，以及兩次第二快圈速持平，\[6\][賽巴斯蒂安·維泰爾](../Page/賽巴斯蒂安·維泰爾.md "wikilink")和[馬克·韋伯在](https://zh.wikipedia.org/wiki/馬克·韋伯 "wikilink")賽季結束時，皆有三次最快圈速紀錄，\[7\]以及[費爾南多·阿隆索和](https://zh.wikipedia.org/wiki/費爾南多·阿隆索 "wikilink")[劉易斯·漢米爾頓在](https://zh.wikipedia.org/wiki/劉易斯·漢米爾頓 "wikilink")皆持有五次的最快圈速。\[8\]
 
-獎項頒布的前幾個賽季中，有兩個不同於其他難分軒輊的賽季：[奇米·雷克南在](../Page/奇米·雷克南.md "wikilink")有著十次最快圈速，而第二名的馬薩僅有三次，\[9\]另外，維泰爾於有著六次最快圈速，在他之後的是皆僅有兩次的[尼可·羅斯堡](https://zh.wikipedia.org/wiki/尼可·羅斯堡 "wikilink")、[詹森·巴頓和奇米](https://zh.wikipedia.org/wiki/詹森·巴頓 "wikilink")·雷克南。\[10\]值得注意的是，2012年共有11名車手取得最快圈速紀錄。
+獎項頒布的前幾個賽季中，有兩個不同於其他難分軒輊的賽季：[奇米·雷克南](../Page/奇米·雷克南.md "wikilink")在有著十次最快圈速，而第二名的馬薩僅有三次，\[9\]另外，維泰爾於有著六次最快圈速，在他之後的是皆僅有兩次的[尼可·羅斯堡](https://zh.wikipedia.org/wiki/尼可·羅斯堡 "wikilink")、[詹森·巴頓和奇米](https://zh.wikipedia.org/wiki/詹森·巴頓 "wikilink")·雷克南。\[10\]值得注意的是，2012年共有11名車手取得最快圈速紀錄。
 
 2009年度的DHL最快圈速獎競爭激烈，賽巴斯蒂安·維泰爾在賽季[最後一站的倒數第二圈](https://zh.wikipedia.org/wiki/2009年阿布扎比大獎賽 "wikilink")，才寫下了使他獲獎的最快圈速紀錄。\[11\]
 

@@ -1,5 +1,5 @@
 《**Secret
-Garden**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink的第](../Page/Apink.md "wikilink")3張迷你專輯，於2013年7月5日發行，唱片公司為[A
+Garden**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")的第3張迷你專輯，於2013年7月5日發行，唱片公司為[A
 Cube娛樂](../Page/Plan_A娛樂.md "wikilink")。
 
 ## 概要

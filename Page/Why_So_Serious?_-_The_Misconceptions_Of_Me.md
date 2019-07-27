@@ -1,5 +1,5 @@
 《**Why So Serious? - The Misconceptions Of
-Me**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee第](../Page/SHINee.md "wikilink")3張正規韓語專輯第二部。於2013年4月29日發行。唱片公司為[SM
+Me**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")第3張正規韓語專輯第二部。於2013年4月29日發行。唱片公司為[SM
 Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 專輯概要
@@ -17,17 +17,17 @@ Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 <!-- end list -->
 
-  - 成員[鐘鉉參與歌曲](../Page/鐘鉉.md "wikilink")《오르골 (Orgel) 》和《Dangerous
+  - 成員[鐘鉉](../Page/鐘鉉.md "wikilink")參與歌曲《오르골 (Orgel) 》和《Dangerous
     (Medusa Ⅱ)》 的填詞工作。
 
 <!-- end list -->
 
   - 歌曲《떠나지 못해 (Sleepless Night)
-    》由[東方神起中的](../Page/東方神起.md "wikilink")[昌珉填詞](https://zh.wikipedia.org/wiki/昌珉 "wikilink")。
+    》由[東方神起](../Page/東方神起.md "wikilink")中的[昌珉填詞](https://zh.wikipedia.org/wiki/昌珉 "wikilink")。
 
 ## 特別事件
 
-  - 成員[鐘鉉於](../Page/鐘鉉.md "wikilink")2013年4月1日因交通事故造成鼻骨骨折，無法參與《Why So
+  - 成員[鐘鉉](../Page/鐘鉉.md "wikilink")於2013年4月1日因交通事故造成鼻骨骨折，無法參與《Why So
     Serious?》MV拍攝及前期的歌曲宣傳活動。鐘鉉於2013年5月23日終能參與歌曲宣傳，於M\!Conutdown與成員共同獻唱《Why
     So Serious?》及抒情歌曲《떠나지 못해 (Sleepless Night) 》。
 

@@ -1,8 +1,8 @@
-**橘KENCHI**（）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
+**橘KENCHI**（）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
 THE SECOND表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul
 Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
-[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[1\]，於[橫須賀市成長](../Page/橫須賀市.md "wikilink")。所屬事務所為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。
+[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[1\]，於[橫須賀市](../Page/橫須賀市.md "wikilink")成長。所屬事務所為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。
 
 ## 來歷
 
@@ -35,7 +35,7 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
   - 有學習[北京話](https://zh.wikipedia.org/wiki/北京話 "wikilink")，在參加中國舉行的演唱會活動中於EXILE演出的時候，KENCHI用此來打招呼\[5\]。
   - 在EXILE的冠番組內扮演了各種各樣的角色（『』是KENCHI特派員、『』『[EXILE魂](https://zh.wikipedia.org/wiki/EXILE魂 "wikilink")』是KENCHI
     MAN）。
-  - 與[上地雄輔是從學生時代開始的朋友](../Page/上地雄輔.md "wikilink")\[6\]。
+  - 與[上地雄輔](../Page/上地雄輔.md "wikilink")是從學生時代開始的朋友\[6\]。
   - 有[甲殼類過敏](https://zh.wikipedia.org/wiki/甲殼類過敏 "wikilink")、不能吃蝦和螃蟹\[7\]。
 
 ## 參加團體

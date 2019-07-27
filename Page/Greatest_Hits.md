@@ -400,7 +400,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [惡魔獵人2](../Page/惡魔獵人2.md "wikilink")
 
-  - [惡魔獵人3：但丁的觉醒特别版](../Page/惡魔獵人3.md "wikilink")
+  - [惡魔獵人3](../Page/惡魔獵人3.md "wikilink")：但丁的觉醒特别版
 
   - [地獄犬的輓歌 -最終幻想VII-](../Page/地獄犬的輓歌_-最終幻想VII-.md "wikilink")
 
@@ -838,7 +838,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [冤罪殺機](../Page/冤罪殺機.md "wikilink")
 
-  - [上古卷轴IV：湮没：年度游戏版](../Page/上古卷轴IV：湮没.md "wikilink")
+  - [上古卷轴IV：湮没](../Page/上古卷轴IV：湮没.md "wikilink")：年度游戏版
 
   - [上古卷轴V：天际](../Page/上古卷轴V：天际.md "wikilink")
 
@@ -861,7 +861,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")
 
-  - [俠盜獵車手IV：完全版](../Page/俠盜獵車手IV.md "wikilink")
+  - [俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")：完全版
 
   - [俠盜獵車手：自由城之章](../Page/俠盜獵車手：自由城之章.md "wikilink")
 
@@ -871,7 +871,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [暴雨殺機](../Page/暴雨殺機.md "wikilink")
 
-  - [暴雨殺機：導演剪輯版](../Page/暴雨殺機.md "wikilink")
+  - [暴雨殺機](../Page/暴雨殺機.md "wikilink")：導演剪輯版
 
   -
   - [恶名昭彰2](../Page/恶名昭彰2.md "wikilink")
@@ -943,7 +943,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   - [荒野大镖客：救赎](../Page/荒野大镖客：救赎.md "wikilink")
 
-  - [荒野大镖客：救赎：年度游戏版](../Page/荒野大镖客：救赎.md "wikilink")
+  - [荒野大镖客：救赎](../Page/荒野大镖客：救赎.md "wikilink")：年度游戏版
 
   - [生化危機5](../Page/生化危機5.md "wikilink")
 
@@ -1007,7 +1007,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   - [秘境探險：黃金城秘寶](../Page/秘境探險：黃金城秘寶.md "wikilink")
 
-  - [秘境探險2：盜亦有道－年度游戏版](../Page/秘境探險2：盜亦有道.md "wikilink")
+  - [秘境探險2：盜亦有道](../Page/秘境探險2：盜亦有道.md "wikilink")－年度游戏版
 
   - [秘境探險1+2合輯](../Page/神秘海域系列.md "wikilink")
 
@@ -1083,9 +1083,9 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
   -
   -
   -
-  - [極速快感：玩命山道：Own the City](../Page/極速快感：玩命山道.md "wikilink")
+  - [極速快感：玩命山道 the City](../Page/極速快感：玩命山道.md "wikilink")：Own
 
-  - [極速快感：全民公敵5-1-0](../Page/極速快感：全民公敵.md "wikilink")
+  - [極速快感：全民公敵](../Page/極速快感：全民公敵.md "wikilink")5-1-0
 
   - [極速快感：職業街頭](../Page/極速快感：職業街頭.md "wikilink")
 
@@ -1207,7 +1207,7 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
 
 ## 参见
 
-  - （[任天堂的相同机制](../Page/任天堂.md "wikilink")）
+  - （[任天堂](../Page/任天堂.md "wikilink")的相同机制）
 
 ## 参考文献
 

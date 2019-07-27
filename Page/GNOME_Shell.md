@@ -1,5 +1,5 @@
 **GNOME
-Shell**，是[GNOME桌面环境](../Page/GNOME.md "wikilink")3.0及其后续版本中的核心[用户界面](../Page/用户界面.md "wikilink")，取代了GNOME
+Shell**，是[GNOME](../Page/GNOME.md "wikilink")桌面环境3.0及其后续版本中的核心[用户界面](../Page/用户界面.md "wikilink")，取代了GNOME
 2.0版本中的[GNOME
 Panel与其他相关程序](https://zh.wikipedia.org/wiki/GNOME_Panel "wikilink")。GNOME
 shell于2011年4月6日发布。GNOME shell提供窗口切换、载入应用程序等基本功能。GNOME

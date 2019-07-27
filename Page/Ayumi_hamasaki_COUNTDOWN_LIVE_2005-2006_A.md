@@ -1,5 +1,5 @@
 《**ayumi hamasaki COUNTDOWN LIVE 2005-2006 A**》（濱崎步 2005-2006 跨年演唱會
-A）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2005年12月30日、31日在國立代代目競技場第一體育館舉行跨年演唱會，2006年3月23日發行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2005年12月30日、31日在國立代代目競技場第一體育館舉行跨年演唱會，2006年3月23日發行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 說明
 

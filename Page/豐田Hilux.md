@@ -1,4 +1,4 @@
-**豐田Hilux**，是[日本](../Page/日本.md "wikilink")[豐田汽車生產的](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[農夫車](https://zh.wikipedia.org/wiki/農夫車 "wikilink")，1968年至今已經生產到第八代，以耐用及可靠見稱\[1\]，足跡遍佈世界各地，曾被用作[極地運輸工具及沙漠](../Page/極地.md "wikilink")[越野賽車](https://zh.wikipedia.org/wiki/越野 "wikilink")，在車斗搭載[重機槍於](https://zh.wikipedia.org/wiki/重機槍 "wikilink")[戰地中亦頗為常見](https://zh.wikipedia.org/wiki/戰地 "wikilink")\[2\]。由於集四驅及運載功能於一身，而且售價大眾化，一般頗受[建築業界歡迎](https://zh.wikipedia.org/wiki/建築業 "wikilink")。
+**豐田Hilux**，是[日本](../Page/日本.md "wikilink")[豐田汽車生產的](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[農夫車](https://zh.wikipedia.org/wiki/農夫車 "wikilink")，1968年至今已經生產到第八代，以耐用及可靠見稱\[1\]，足跡遍佈世界各地，曾被用作[極地](../Page/極地.md "wikilink")運輸工具及沙漠[越野賽車](https://zh.wikipedia.org/wiki/越野 "wikilink")，在車斗搭載[重機槍於](https://zh.wikipedia.org/wiki/重機槍 "wikilink")[戰地中亦頗為常見](https://zh.wikipedia.org/wiki/戰地 "wikilink")\[2\]。由於集四驅及運載功能於一身，而且售價大眾化，一般頗受[建築業界歡迎](https://zh.wikipedia.org/wiki/建築業 "wikilink")。
 
 ## 第一代（N10；1968年至1972年）
 

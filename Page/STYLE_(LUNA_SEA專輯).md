@@ -1,9 +1,9 @@
-《**STYLE**》是由[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[月之海所發行的第](../Page/月之海.md "wikilink")5張錄音專輯，為月之海首次於發行當週登上[Oricon專輯榜第一名的作品](../Page/Oricon.md "wikilink")。
+《**STYLE**》是由[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[月之海](../Page/月之海.md "wikilink")所發行的第5張錄音專輯，為月之海首次於發行當週登上[Oricon](../Page/Oricon.md "wikilink")專輯榜第一名的作品。
 
 ## 專輯名稱
 
   - 本專輯的命名由J所提議：「我認為屬於我們曲風的多樣性，也就是我們樂團的風格（STYLE）」。
-  - 起初由[SUGIZO提案以](../Page/SUGIZO.md "wikilink")〈G.〉作為專輯的開頭曲，但由於未獲得其他成員同意而作罷。
+  - 起初由[SUGIZO](../Page/SUGIZO.md "wikilink")提案以〈G.〉作為專輯的開頭曲，但由於未獲得其他成員同意而作罷。
 
 ## 曲目
 

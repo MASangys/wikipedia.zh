@@ -28,7 +28,7 @@ get in the way.)"\[1\]
 本曲的[音樂影片是在新開幕的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[史坦斯特機場拍攝](https://zh.wikipedia.org/wiki/伦敦斯坦斯特德机场 "wikilink"),
 由和所執導。
 
-[艾希莉·提斯代爾在為除臭劑廠商](../Page/艾希莉·提斯代爾.md "wikilink")宣傳時翻唱了本曲。
+[艾希莉·提斯代爾](../Page/艾希莉·提斯代爾.md "wikilink")在為除臭劑廠商宣傳時翻唱了本曲。
 
 ## 曲目列表
 

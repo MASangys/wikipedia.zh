@@ -1,4 +1,4 @@
-**BEXCO站**（，亦翻為**釜山會展中心站**）是一個位於[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山廣域市](../Page/釜山廣域市.md "wikilink")[海雲臺區](../Page/海雲臺區.md "wikilink")，屬於[東海線和](../Page/東海線.md "wikilink")[釜山都市鐵道2號線的](https://zh.wikipedia.org/wiki/釜山都市鐵道2號線 "wikilink")[轉乘站](../Page/轉乘站.md "wikilink")。[2號線的副站名是以前的站名](https://zh.wikipedia.org/wiki/釜山都市鐵道2號線 "wikilink")「市立美術館」（／」）。
+**BEXCO站**（，亦翻為**釜山會展中心站**）是一個位於[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山廣域市](../Page/釜山廣域市.md "wikilink")[海雲臺區](../Page/海雲臺區.md "wikilink")，屬於[東海線](../Page/東海線.md "wikilink")和[釜山都市鐵道2號線的](https://zh.wikipedia.org/wiki/釜山都市鐵道2號線 "wikilink")[轉乘站](../Page/轉乘站.md "wikilink")。[2號線的副站名是以前的站名](https://zh.wikipedia.org/wiki/釜山都市鐵道2號線 "wikilink")「市立美術館」（／」）。
 
 ## 車站結構
 

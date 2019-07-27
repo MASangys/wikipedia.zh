@@ -18,7 +18,7 @@ control〜](https://zh.wikipedia.org/wiki/浸食_〜lose_control〜 "wikilink")�
 
 1.  **NEO UNIVERSE**
       -
-        [資生堂化妝品廣告歌](../Page/資生堂.md "wikilink")。
+        [資生堂](../Page/資生堂.md "wikilink")化妝品廣告歌。
         [MV內容以近未來都市的酒吧為舞台](https://zh.wikipedia.org/wiki/MV "wikilink")，團員有大膽演出。
 2.  **finale**
       -

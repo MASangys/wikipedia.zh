@@ -2,11 +2,11 @@
 [MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg")的MyCiTi巴士。\]\]
 [MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg")上。\]\]
 
-**MyCiTi**（，）是一種帶有饋線的[巴士快速交通系統](https://zh.wikipedia.org/wiki/巴士快速交通系統 "wikilink")，是[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[開普敦市以更大的綜合](../Page/開普敦.md "wikilink")[公共交通來驅動經濟發展戰略的一部分](../Page/公共交通.md "wikilink")\[1\]\[2\]。該服務正在開普敦各地推廣，並在約10%的城市內提供顯著增強的公共交通系統。該服務於2010年開通，第一階段的特色是沿城市西海岸線從北向南行駛的巴士。
+**MyCiTi**（，）是一種帶有饋線的[巴士快速交通系統](https://zh.wikipedia.org/wiki/巴士快速交通系統 "wikilink")，是[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[開普敦](../Page/開普敦.md "wikilink")市以更大的綜合[公共交通](../Page/公共交通.md "wikilink")來驅動經濟發展戰略的一部分\[1\]\[2\]。該服務正在開普敦各地推廣，並在約10%的城市內提供顯著增強的公共交通系統。該服務於2010年開通，第一階段的特色是沿城市西海岸線從北向南行駛的巴士。
 
 至2015年，MyCiTi在/、、、、、帕登伊蘭、、、與開普敦市中心之間提供快速巴士服務。其還在上述大部分地區以及、以及與大西洋沿岸的所有郊區，以及與提供支線服務。
 
-該服務在巴士專線使用高地台的標準尺寸鉸接巴士，而在2號國道快線服務中使用低地台的標準尺寸鉸接巴士，至於在郊區和市中心區域則使用較小的9米[Optare巴士](../Page/Optare.md "wikilink")。MyCiTi通過等級登車和許多其他措施使其普及化，並且需要使用符合[EMV標準的智能卡系統](../Page/EMV.md "wikilink")（稱為Myconnect）來進行無現金支付。服務的候車時間（即同一路線上的巴士之間的時間）從高峰時段的3分鐘至20分鐘到的非高峰時段的60分鐘。
+該服務在巴士專線使用高地台的標準尺寸鉸接巴士，而在2號國道快線服務中使用低地台的標準尺寸鉸接巴士，至於在郊區和市中心區域則使用較小的9米[Optare](../Page/Optare.md "wikilink")巴士。MyCiTi通過等級登車和許多其他措施使其普及化，並且需要使用符合[EMV](../Page/EMV.md "wikilink")標準的智能卡系統（稱為Myconnect）來進行無現金支付。服務的候車時間（即同一路線上的巴士之間的時間）從高峰時段的3分鐘至20分鐘到的非高峰時段的60分鐘。
 
 2015年11月，每天約有60,000名乘客使用MyCiTi服務的36條路線上的42個巴士站、600多個巴士停靠站以及大約223輛高峰巴士\[3\]\[4\]。
 

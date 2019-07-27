@@ -6,7 +6,7 @@
 GANGAN』（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）Vol.1（2007年）開始連載。中間經歷『增刊YOUNG
 GANGAN BIG』、目前於『月刊BIG GANGAN』連載中。
 
-本作以[北海道的某市某區公所](../Page/北海道.md "wikilink")（作中為「」）保健福祉課為舞台、是一部描繪在該處工作的[公務員的日常的](../Page/公務員.md "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")。
+本作以[北海道](../Page/北海道.md "wikilink")的某市某區公所（作中為「」）保健福祉課為舞台、是一部描繪在該處工作的[公務員](../Page/公務員.md "wikilink")的日常的[四格漫畫](../Page/四格漫畫.md "wikilink")。
 
 如同日版第1卷的書腰上印的「工作？那是當然的對吧！」，與同作者的『[WORKING\!\!](https://zh.wikipedia.org/wiki/WORKING!! "wikilink")』相比，描寫了更多的工作情況。作者有實際於區公所服務的經驗（但並非公務員），「電話上踢皮球的緣由」及「臨時職員的待遇」等等，時常表現出區公所職員的共同經驗。
 
@@ -185,7 +185,7 @@ ISBN 978-4-7575-4322-5（特裝版）</p></td>
 
 ## 電視動畫
 
-2013年7月開始播放。與[朝日放送同時期開始的](../Page/朝日放送.md "wikilink")「週三動畫」播出的《[Free\!](../Page/Free!.md "wikilink")》相同，是《[玻璃艦隊](../Page/玻璃艦隊.md "wikilink")》以來睽違七年的**單獨製作**
+2013年7月開始播放。與[朝日放送](../Page/朝日放送.md "wikilink")同時期開始的「週三動畫」播出的《[Free\!](../Page/Free!.md "wikilink")》相同，是《[玻璃艦隊](../Page/玻璃艦隊.md "wikilink")》以來睽違七年的**單獨製作**
 。
 
 BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播出前特別節目《めいあいへるぷゆー?》**》。
@@ -483,7 +483,7 @@ BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播�
 <td><p>2013年7月13日－10月5日</p></td>
 <td><p>星期六 24時30分－25時00分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 </tr>
 <tr class="even">

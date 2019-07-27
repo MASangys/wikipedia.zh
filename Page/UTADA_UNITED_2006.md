@@ -1,5 +1,5 @@
 《**UTADA UNITED
-2006**》是日本歌手[宇多田光自出道以來第](../Page/宇多田光.md "wikilink")2次的全國巡迴演唱會，由2006年7月1日開始舉辦。
+2006**》是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")自出道以來第2次的全國巡迴演唱會，由2006年7月1日開始舉辦。
 
 ## 場次
 
@@ -34,7 +34,7 @@ Messe福岡 |- |align="center"|2006年7月25日、26日
 |align="center"|[廣島](../Page/廣島市.md "wikilink")
 |align="center"|廣島Green Arena |- |align="center"|2006年9月9日、10日
 |align="center"|[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")
-|align="center"|[國立代代木競技場第一體育館](../Page/國立代代木競技場.md "wikilink") |}
+|align="center"|[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館 |}
 
 ## 收錄會場
 

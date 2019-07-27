@@ -1,7 +1,7 @@
 **Burrows–Wheeler
-Transform**（简称BWT，也称作**块排序压缩**），是一个被应用在[数据压缩技术](../Page/数据压缩.md "wikilink")（如[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")）中的[算法](../Page/算法.md "wikilink")。该算法于1994年被和在位于加利福尼亚州帕洛阿尔托的发明\[1\]。它的基础是之前Wheeler在1983年发明的一种没有公开的转换方法。
+Transform**（简称BWT，也称作**块排序压缩**），是一个被应用在[数据压缩](../Page/数据压缩.md "wikilink")技术（如[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")）中的[算法](../Page/算法.md "wikilink")。该算法于1994年被和在位于加利福尼亚州帕洛阿尔托的发明\[1\]。它的基础是之前Wheeler在1983年发明的一种没有公开的转换方法。
 
-当一个[字符串用该算法转换时](../Page/字符串.md "wikilink")，算法只改变这个字符串中字符的顺序而并不改变其字符。如果原字符串有几个出现多次的[子串](../Page/子串.md "wikilink")，那么转换过的字符串上就会有一些连续重复的字符，这对压缩是很有用的。该方法能使得基于处理字符串中连续重复字符的技术（如[MTF变换和](https://zh.wikipedia.org/wiki/:move-to-front_transform "wikilink")[游程编码](../Page/游程编码.md "wikilink")）的编码更容易被压缩。
+当一个[字符串](../Page/字符串.md "wikilink")用该算法转换时，算法只改变这个字符串中字符的顺序而并不改变其字符。如果原字符串有几个出现多次的[子串](../Page/子串.md "wikilink")，那么转换过的字符串上就会有一些连续重复的字符，这对压缩是很有用的。该方法能使得基于处理字符串中连续重复字符的技术（如[MTF变换和](https://zh.wikipedia.org/wiki/:move-to-front_transform "wikilink")[游程编码](../Page/游程编码.md "wikilink")）的编码更容易被压缩。
 
 举个例子：
 

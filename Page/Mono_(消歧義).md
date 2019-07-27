@@ -37,15 +37,15 @@
   - Mono，美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[莫诺县](https://zh.wikipedia.org/wiki/莫诺县 "wikilink")（Mono
     County）（Mono Mills，[鬼鎮](../Page/鬼鎮.md "wikilink")）簡稱
   - [莫諾湖](../Page/莫諾湖.md "wikilink")（Mono
-    Lake）位於美國[加利福尼亚州東部](../Page/加利福尼亚州.md "wikilink")
+    Lake）位於美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")東部
 
 ### 其他地方
 
   - [莫諾省](../Page/莫諾省.md "wikilink")（Mono
-    Department），非洲[贝宁共和國](../Page/贝宁.md "wikilink")（Benin）
+    Department），非洲[贝宁](../Page/贝宁.md "wikilink")共和國（Benin）
 
   - （Mono,
-    Ontario），[加拿大](../Page/加拿大.md "wikilink")[安大略](https://zh.wikipedia.org/wiki/安大略 "wikilink")[达弗林县的城鎮](../Page/达弗林县.md "wikilink")
+    Ontario），[加拿大](../Page/加拿大.md "wikilink")[安大略](https://zh.wikipedia.org/wiki/安大略 "wikilink")[达弗林县](../Page/达弗林县.md "wikilink")的城鎮
 
   - **，是[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")**[烏爾梅尼](https://zh.wikipedia.org/wiki/烏爾梅尼 "wikilink")**（）城鎮的別稱，位於該國西北部[索梅什河左岸](https://zh.wikipedia.org/wiki/索梅什河 "wikilink")
 
@@ -57,11 +57,11 @@
 ## 人物
 
   - （或稱Mono
-    people），在美國[加利福尼亚州一個部落的美洲](../Page/加利福尼亚州.md "wikilink")[原住民](../Page/原住民.md "wikilink")
+    people），在美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")一個部落的美洲[原住民](../Page/原住民.md "wikilink")
 
-      - ，美國[加利福尼亚州一個部落的美洲土著](../Page/加利福尼亚州.md "wikilink")[原住民語言](../Page/原住民.md "wikilink")
+      - ，美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")一個部落的美洲土著[原住民](../Page/原住民.md "wikilink")語言
 
-  - （Mono people），[刚果民主共和国的某一族群](../Page/刚果民主共和国.md "wikilink")
+  - （Mono people），[刚果民主共和国](../Page/刚果民主共和国.md "wikilink")的某一族群
 
       - ，剛果莫諾人語言（Mono language）
 
@@ -94,10 +94,10 @@
 ## 參見
 
   - **（Monodactylus
-    sebae），[非洲魚種](../Page/非洲.md "wikilink")，科名：[銀鱗鯧科](https://zh.wikipedia.org/wiki/銀鱗鯧科 "wikilink")（Monodactylidae），中文俗名「金鯧」，英文俗名「African
+    sebae），[非洲](../Page/非洲.md "wikilink")魚種，科名：[銀鱗鯧科](https://zh.wikipedia.org/wiki/銀鱗鯧科 "wikilink")（Monodactylidae），中文俗名「金鯧」，英文俗名「African
     moony」。\[1\]\[2\]
 
-  - [m0n0wall](https://zh.wikipedia.org/wiki/m0n0wall "wikilink")，[FreeBSD嵌入式](../Page/FreeBSD.md "wikilink")[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")
+  - [m0n0wall](https://zh.wikipedia.org/wiki/m0n0wall "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")嵌入式[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")
 
   -
 :\*

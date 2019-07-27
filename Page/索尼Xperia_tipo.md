@@ -1,10 +1,10 @@
 **Sony Xperia
-tipo**是[日本電子公司](../Page/日本.md "wikilink")[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")\[1\]，將於2012年第三季推出。
+tipo**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")\[1\]，將於2012年第三季推出。
 
 ## Sony Xperia tipo dual
 
 **Sony Xperia tipo
-dual**是[日本電子公司](../Page/日本.md "wikilink")[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，與Sony
+dual**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，與Sony
 Xperia tipo不同，因為它是雙卡[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ## 顏色

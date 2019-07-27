@@ -1,4 +1,4 @@
-《**森林**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基首張迷你專輯](../Page/李昇基.md "wikilink")，於2012年11月22日由Hook
+《**森林**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基](../Page/李昇基.md "wikilink")首張迷你專輯，於2012年11月22日由Hook
 Entertainment製作、LOEN娛樂發行，以《重返》（）及《森林》（）作主打歌曲。
 
 ## 曲目

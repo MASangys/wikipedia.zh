@@ -1,5 +1,5 @@
 **Pandoc**是由[John
-MacFarlane](http://johnmacfarlane.net/)开发的[标记语言转换工具](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，可实现不同标记语言间的格式转换，堪称该领域中的“[瑞士军刀](https://zh.wikipedia.org/wiki/瑞士军刀 "wikilink")”\[1\]。Pandoc使用[Haskell语言编写](../Page/Haskell.md "wikilink")，以[命令行形式实现与用户的交互](https://zh.wikipedia.org/wiki/命令行 "wikilink")，可支持多种操作系统；Pandoc采用[GNU
+MacFarlane](http://johnmacfarlane.net/)开发的[标记语言转换工具](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，可实现不同标记语言间的格式转换，堪称该领域中的“[瑞士军刀](https://zh.wikipedia.org/wiki/瑞士军刀 "wikilink")”\[1\]。Pandoc使用[Haskell](../Page/Haskell.md "wikilink")语言编写，以[命令行形式实现与用户的交互](https://zh.wikipedia.org/wiki/命令行 "wikilink")，可支持多种操作系统；Pandoc采用[GNU
 GPL授权协议发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，属于[自由软件](../Page/自由软件.md "wikilink")。
 
 ## Pandoc支持的标记语言格式
@@ -20,21 +20,21 @@ GPL授权协议发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，属�
 <li><a href="../Page/HTML.md" title="wikilink">HTML</a></li>
 <li><a href="../Page/DocBook.md" title="wikilink">DocBook</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/LaTeX" title="wikilink">LaTeX</a></li>
-<li><a href="../Page/MediaWiki.md" title="wikilink">MediaWiki标记语言</a></li>
+<li><a href="../Page/MediaWiki.md" title="wikilink">MediaWiki</a>标记语言</li>
 <li><a href="https://zh.wikipedia.org/wiki/OPML" title="wikilink">OPML</a></li>
 <li><a href="../Page/Org-模式.md" title="wikilink">Org-Mode</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Haddock" title="wikilink">Haddock</a></li>
 </ul></td>
 <td><ul>
-<li>HTML格式：包括<a href="../Page/XHTML.md" title="wikilink">XHTML</a>，<a href="../Page/HTML5.md" title="wikilink">HTML5及</a><a href="https://zh.wikipedia.org/wiki/HTML_slide" title="wikilink">HTML slide</a></li>
+<li>HTML格式：包括<a href="../Page/XHTML.md" title="wikilink">XHTML</a>，<a href="../Page/HTML5.md" title="wikilink">HTML5</a>及<a href="https://zh.wikipedia.org/wiki/HTML_slide" title="wikilink">HTML slide</a></li>
 <li>文字处理软件格式：包括<a href="https://zh.wikipedia.org/wiki/docx" title="wikilink">docx</a>、<a href="../Page/开放文档格式.md" title="wikilink">odt</a>、<a href="https://zh.wikipedia.org/wiki/OpenDocument_XML" title="wikilink">OpenDocument XML</a></li>
-<li>电子书格式：包括<a href="../Page/EPUB.md" title="wikilink">EPUB</a>（第2版及第3版）、<a href="../Page/FictionBook.md" title="wikilink">FictionBook2</a></li>
+<li>电子书格式：包括<a href="../Page/EPUB.md" title="wikilink">EPUB</a>（第2版及第3版）、<a href="../Page/FictionBook.md" title="wikilink">FictionBook</a>2</li>
 <li>技术文档格式：包括<a href="../Page/DocBook.md" title="wikilink">DocBook</a>、<a href="https://zh.wikipedia.org/wiki/GNU_TexInfo" title="wikilink">GNU TexInfo</a>、<a href="../Page/手册页.md" title="wikilink">Groff manpages</a>、<a href="https://zh.wikipedia.org/wiki/Haddock" title="wikilink">Haddock</a></li>
 <li>页面布局格式：<a href="https://zh.wikipedia.org/wiki/InDesign_ICML" title="wikilink">InDesign ICML</a></li>
 <li>大纲处理标记语言格式：<a href="https://zh.wikipedia.org/wiki/OPML" title="wikilink">OPML</a></li>
 <li>TeX格式：包括<a href="https://zh.wikipedia.org/wiki/LaTeX" title="wikilink">LaTeX</a>、<a href="https://zh.wikipedia.org/wiki/ConTeXt" title="wikilink">ConTeXt</a>、<a href="../Page/Beamer_(LaTeX).md" title="wikilink">LaTeX Beamer</a></li>
 <li>PDF格式：需要LaTeX支持</li>
-<li>轻量级标记语言格式：包括<a href="https://zh.wikipedia.org/wiki/Markdown" title="wikilink">Markdown</a>、<a href="https://zh.wikipedia.org/wiki/reStructuredText" title="wikilink">reStructuredText</a>、<a href="https://zh.wikipedia.org/wiki/textile" title="wikilink">textile</a>、<a href="../Page/Org-模式.md" title="wikilink">Org-Mode</a>、<a href="../Page/MediaWiki.md" title="wikilink">MediaWiki标记语言</a>、<a href="https://zh.wikipedia.org/wiki/AsciiDoc" title="wikilink">AsciiDoc</a></li>
+<li>轻量级标记语言格式：包括<a href="https://zh.wikipedia.org/wiki/Markdown" title="wikilink">Markdown</a>、<a href="https://zh.wikipedia.org/wiki/reStructuredText" title="wikilink">reStructuredText</a>、<a href="https://zh.wikipedia.org/wiki/textile" title="wikilink">textile</a>、<a href="../Page/Org-模式.md" title="wikilink">Org-Mode</a>、<a href="../Page/MediaWiki.md" title="wikilink">MediaWiki</a>标记语言、<a href="https://zh.wikipedia.org/wiki/AsciiDoc" title="wikilink">AsciiDoc</a></li>
 <li>自定义格式：可使用<a href="https://zh.wikipedia.org/wiki/lua" title="wikilink">lua自定义转换规则</a></li>
 </ul></td>
 </tr>
@@ -58,7 +58,7 @@ Pandoc提供以下安装方式\[2\]（如果需要输出PDF文档，则除Pandoc
 
 ### BSD
 
-  - [FreeBSD和](../Page/FreeBSD.md "wikilink")[NetBSD的软件仓库中已包含Pandoc](../Page/NetBSD.md "wikilink")，可直接安装。
+  - [FreeBSD](../Page/FreeBSD.md "wikilink")和[NetBSD](../Page/NetBSD.md "wikilink")的软件仓库中已包含Pandoc，可直接安装。
 
 ### 全平台
 

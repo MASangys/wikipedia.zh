@@ -1,5 +1,5 @@
 **SMTOWN Live World Tour
-IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂的家族聯合世界巡迴演唱會](../Page/SM娛樂.md "wikilink")。這次巡演於2014年舉行。
+IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")的家族聯合世界巡迴演唱會。這次巡演於2014年舉行。
 
 ## 參與藝人
 

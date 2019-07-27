@@ -9,7 +9,7 @@ X），它和美国空军的[Azon](https://zh.wikipedia.org/wiki/Azon "wikilink"
 ## 战历
 
 最有名的战果是1943年意大利退出战争后，为了阻止意大利舰队开往马耳他，德国空军用六架[Do
-217K](https://zh.wikipedia.org/wiki/Do_217 "wikilink")-2带弹攻击，炸沉了[维托里奥·维内托级战列舰罗马号](../Page/维托里奥·维内托级战列舰.md "wikilink")，包括伯加明尼上将在内的1255人战死。同级舰维托里奥号（改名为意大利号）也被炸伤。
+217K](https://zh.wikipedia.org/wiki/Do_217 "wikilink")-2带弹攻击，炸沉了[维托里奥·维内托级战列舰](../Page/维托里奥·维内托级战列舰.md "wikilink")罗马号，包括伯加明尼上将在内的1255人战死。同级舰维托里奥号（改名为意大利号）也被炸伤。
 
 英國海軍[厭戰號戰列艦](https://zh.wikipedia.org/wiki/厭戰號戰列艦 "wikilink")（HMS
 Warspite）於1943年9月16日西西里島登陸戰役中也被弗里茨 X

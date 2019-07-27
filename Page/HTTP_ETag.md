@@ -1,6 +1,6 @@
-**ETag**或**实体标签**（****）是[万维网协议](../Page/万维网.md "wikilink")[HTTP的一部分](https://zh.wikipedia.org/wiki/HTTP "wikilink")。
+**ETag**或**实体标签**（****）是[万维网](../Page/万维网.md "wikilink")协议[HTTP的一部分](https://zh.wikipedia.org/wiki/HTTP "wikilink")。
 
-ETag是HTTP协议提供的若干机制中的一种Web[缓存验证机制](../Page/缓存.md "wikilink")，并且允许客户端进行缓存协商。这就使得缓存变得更加高效，而且节省带宽。如果资源的内容没有发生改变，Web服务器就不需要发送一个完整的响应。ETag也可用于[乐观并发控制](../Page/乐观并发控制.md "wikilink")\[1\]，作为一种防止资源同步更新而相互覆盖的方法。
+ETag是HTTP协议提供的若干机制中的一种Web[缓存](../Page/缓存.md "wikilink")验证机制，并且允许客户端进行缓存协商。这就使得缓存变得更加高效，而且节省带宽。如果资源的内容没有发生改变，Web服务器就不需要发送一个完整的响应。ETag也可用于[乐观并发控制](../Page/乐观并发控制.md "wikilink")\[1\]，作为一种防止资源同步更新而相互覆盖的方法。
 
 ETag是一个不透明的标识符，由Web服务器根据[URL上的资源的特定版本而指定](https://zh.wikipedia.org/wiki/URL "wikilink")。如果那个URL上的资源内容改变，一个新的不一样的ETag就会被分配。用这种方法使用ETag即类似于[指纹](https://zh.wikipedia.org/wiki/指纹_\(计算机\) "wikilink")，并且他们能够被快速地被比较，以确定两个版本的资源是否相同。ETag的比较只对同一个URL有意义——不同URL上的资源的ETag值可能相同也可能不同，从他们的ETag的比较中无从推断。
 
@@ -8,7 +8,7 @@ ETag是一个不透明的标识符，由Web服务器根据[URL上的资源的特
 
 ETag在HTTP头字段中的使用是可选的（不像HTTP/1.1的其他头字段是强制性的）。HTTP规范从未指定生成ETag的方法。
 
-生成ETag常用的方法包括对资源内容使用抗碰撞[散列函数](../Page/散列.md "wikilink")，使用最近修改的时间戳的哈希值，甚至只是一个[版本号](../Page/版本控制.md "wikilink")。
+生成ETag常用的方法包括对资源内容使用抗碰撞[散列](../Page/散列.md "wikilink")函数，使用最近修改的时间戳的哈希值，甚至只是一个[版本号](../Page/版本控制.md "wikilink")。
 
 为了避免使用过时的缓存数据，用于生成ETag的方法应保证（同时尽可能的实用）每一个ETag都是唯一的。然而，只要ETag的生成函数可以用数学证明，即使生成的ETag可能重复，其概率也是可接受范围内的无穷小，那么就可以判断这个函数是可用的。
 

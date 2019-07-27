@@ -7,7 +7,7 @@ Plymouth還能在開機階段和使用者互動[1](http://ubuntuforums.org/showp
 
 第一次使用是在2008年十一月二十五日所釋出的[Fedora](../Page/Fedora.md "wikilink") 10
 "Cambridge"，並且用來取代Red Hat Graphical Boot (RHGB)。
-[Ubuntu於](../Page/Ubuntu.md "wikilink")2010年4月29日釋出的10.04 LTS "[Lucid
+[Ubuntu](../Page/Ubuntu.md "wikilink")於2010年4月29日釋出的10.04 LTS "[Lucid
 Lynx](https://zh.wikipedia.org/wiki/Ubuntu發行版列表#Ubuntu_10.04_LTS_\(Lucid_Lynx\) "wikilink")"版本中收錄進來，並且在[Mandriva
 Linux這個版本中從](../Page/Mandriva_Linux.md "wikilink")換成了[Adélie
 (2010.0)](https://web.archive.org/web/20130308191556/http://wiki.mandriva.com/en/2010.0_Notes#Plymouth)這個版本的Plymouth。

@@ -1,4 +1,4 @@
-**2013年Oricon單曲週榜冠軍作品列表**列出2013年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**2013年Oricon單曲週榜冠軍作品列表**列出2013年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 2013年共有50首冠軍單曲誕生，有兩首單曲能蟬聯冠軍兩周或以上。
 
 ## 冠軍單曲列表

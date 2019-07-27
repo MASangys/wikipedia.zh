@@ -1,4 +1,4 @@
-**詹姆斯·弗雷德·布萊克**\[1\]（，），美國人，曾是[蒙哥马利](../Page/蒙哥马利_\(亚拉巴马州\).md "wikilink")[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")[司機](https://zh.wikipedia.org/wiki/司機 "wikilink")。他在1955年因為要求美國黑人民權行動主義者[羅莎·帕克斯讓位給一名白人乘客而成名](../Page/羅莎·帕克斯.md "wikilink")\[2\]，引發[聯合抵制蒙哥馬利公車運動](../Page/聯合抵制蒙哥馬利公車運動.md "wikilink")。
+**詹姆斯·弗雷德·布萊克**\[1\]（，），美國人，曾是[蒙哥马利](../Page/蒙哥马利_\(亚拉巴马州\).md "wikilink")[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")[司機](https://zh.wikipedia.org/wiki/司機 "wikilink")。他在1955年因為要求美國黑人民權行動主義者[羅莎·帕克斯](../Page/羅莎·帕克斯.md "wikilink")讓位給一名白人乘客而成名\[2\]，引發[聯合抵制蒙哥馬利公車運動](../Page/聯合抵制蒙哥馬利公車運動.md "wikilink")。
 
 ## 參考
 

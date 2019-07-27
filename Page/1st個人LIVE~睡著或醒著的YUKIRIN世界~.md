@@ -1,4 +1,4 @@
-**1st個人LIVE\~睡著或醒著的YUKIRIN世界\~**（），是[AKB48成員](../Page/AKB48.md "wikilink")[柏木由紀以DVD及BD形式發行的影像作品](../Page/柏木由紀.md "wikilink")，2013年1月2日由Avex
+**1st個人LIVE\~睡著或醒著的YUKIRIN世界\~**（），是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")以DVD及BD形式發行的影像作品，2013年1月2日由Avex
 Marketing發行。
 
 ## 內容
@@ -19,16 +19,16 @@ Marketing發行。
         AKB48的歌曲獨唱。
 4.  《[定能飛向天空](../Page/定能飛向天空.md "wikilink")》
       -
-        [SPITZ的歌曲](../Page/SPITZ.md "wikilink")[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，也是演唱曲目中唯一男性歌手的歌曲。在結束此曲後，還披露了虛擬換裝。
+        [SPITZ](../Page/SPITZ.md "wikilink")的歌曲[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，也是演唱曲目中唯一男性歌手的歌曲。在結束此曲後，還披露了虛擬換裝。
 5.  《》
       -
-        [小早安的歌曲](../Page/小早安.md "wikilink")。
+        [小早安](../Page/小早安.md "wikilink")的歌曲。
 6.  《》
       -
         [松浦亞彌的獨唱歌曲](https://zh.wikipedia.org/wiki/松浦亞彌 "wikilink")。
 7.  《》
       -
-        [松田聖子的獨唱歌曲](../Page/松田聖子.md "wikilink")。
+        [松田聖子](../Page/松田聖子.md "wikilink")的獨唱歌曲。
 8.  《[世界之涙](../Page/太遜了I_love_you!.md "wikilink")》
       -
         French Kiss的歌曲獨唱，且柏木在現場彈鋼琴伴奏。
@@ -43,7 +43,7 @@ Marketing發行。
         柏木個人歌曲。
 12. 《[夜風的惡作劇](../Page/很早以前.md "wikilink")》
       -
-        柏木個人歌曲，並在空中以盪[秋千的方式演出](../Page/秋千.md "wikilink")。
+        柏木個人歌曲，並在空中以盪[秋千](../Page/秋千.md "wikilink")的方式演出。
 13. 《[飛翔入手](../Page/飛翔入手.md "wikilink")》
       -
         AKB48的歌曲獨唱。
@@ -57,7 +57,7 @@ Marketing發行。
     ENC-1 《[吃火龍果的時刻](../Page/最初的Mail.md "wikilink")》
       -
         French
-        Kiss的歌曲。神秘嘉賓[高城亞樹](../Page/高城亞樹.md "wikilink")、[倉持明日香登場](../Page/倉持明日香.md "wikilink")。
+        Kiss的歌曲。神秘嘉賓[高城亞樹](../Page/高城亞樹.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")登場。
     ENC-2 《[最初的Mail](../Page/最初的Mail.md "wikilink")》
       -
         French Kiss的歌曲。

@@ -80,7 +80,7 @@ II級潛艇最初期型，幾乎等同芬蘭Vesikko號，現今此艘U2A潛艇�
 
   - 乘員:25人
 
-U2A的改良型，加長艇身和燃料量，其中的U-120和U-121是為[中華民國海軍建造](../Page/中華民國海軍.md "wikilink")，但由於日本人從中作梗而令其未能交給中國，此兩艇後來加入德國海軍，在[二次大戰末期於](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[不萊梅被弄沉](https://zh.wikipedia.org/wiki/不萊梅 "wikilink")
+U2A的改良型，加長艇身和燃料量，其中的U-120和U-121是為[中華民國海軍](../Page/中華民國海軍.md "wikilink")建造，但由於日本人從中作梗而令其未能交給中國，此兩艇後來加入德國海軍，在[二次大戰末期於](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[不萊梅被弄沉](https://zh.wikipedia.org/wiki/不萊梅 "wikilink")
 
 ## U2C型
 

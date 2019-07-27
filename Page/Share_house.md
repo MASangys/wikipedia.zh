@@ -73,7 +73,7 @@ TV真人秀节目，講述十位工作、生活方式迥異的男女名人同住
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/裴優熙" title="wikilink">優熙</a><small>（）</small></p></td>
 <td><p>女</p></td>
-<td><p>歌手，<a href="../Page/Dal★Shabet.md" title="wikilink">Dal★Shabet成員</a></p></td>
+<td><p>歌手，<a href="../Page/Dal★Shabet.md" title="wikilink">Dal★Shabet</a>成員</p></td>
 <td></td>
 </tr>
 </tbody>

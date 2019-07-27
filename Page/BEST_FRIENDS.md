@@ -1,10 +1,10 @@
 《**BEST
-FRIENDS**》是日本女子偶像歌手[真野惠里菜的第](../Page/真野惠里菜.md "wikilink")1張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2013年2月6日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
+FRIENDS**》是日本女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第1張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2013年2月6日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要
 
   - 《BEST
-    FRIENDS》是[真野惠里菜出道以來的第](../Page/真野惠里菜.md "wikilink")1張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，亦是真野惠里菜畢業前最後一張專輯。
+    FRIENDS》是[真野惠里菜](../Page/真野惠里菜.md "wikilink")出道以來的第1張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，亦是真野惠里菜畢業前最後一張專輯。
   - 與上一張專輯《[More Friends
     Over](../Page/More_Friends_Over.md "wikilink")》發行相距約11個月。
   - 專輯收錄第1張單曲《[少女的祈禱](../Page/少女的祈禱_\(真野惠里菜單曲\).md "wikilink")》至第13張單曲《[NEXT
@@ -21,7 +21,7 @@ FRIENDS**》是日本女子偶像歌手[真野惠里菜的第](../Page/真野惠
     （作詞、作曲：[MIKOTO](https://zh.wikipedia.org/wiki/MIKOTO "wikilink")
     編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
       -
-        13th單曲、[真野惠里菜的畢業單曲](../Page/真野惠里菜.md "wikilink")
+        13th單曲、[真野惠里菜](../Page/真野惠里菜.md "wikilink")的畢業單曲
 2.  **全部都喜歡**（）
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink")
     作曲：[泰誠](https://zh.wikipedia.org/wiki/泰誠 "wikilink")

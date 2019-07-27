@@ -1,5 +1,5 @@
 **《L.L.V.
-II》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[羅力威的第二張個人音樂專輯](../Page/羅力威.md "wikilink")，於2013年1月31日推出。
+II》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[羅力威](../Page/羅力威.md "wikilink")的第二張個人音樂專輯，於2013年1月31日推出。
 
 ## 曲目
 

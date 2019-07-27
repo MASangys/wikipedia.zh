@@ -1,12 +1,12 @@
-**橙黄G**（****）又称**橙色G**，是一种人工合成的[偶氮染料](https://zh.wikipedia.org/wiki/偶氮 "wikilink")，主要用于作为[组织学中的染色配方](../Page/组织学.md "wikilink")。且通常以二钠盐的形式出现。外观为[橙色晶体或粉末](../Page/橙色.md "wikilink")。
+**橙黄G**（****）又称**橙色G**，是一种人工合成的[偶氮染料](https://zh.wikipedia.org/wiki/偶氮 "wikilink")，主要用于作为[组织学](../Page/组织学.md "wikilink")中的染色配方。且通常以二钠盐的形式出现。外观为[橙色](../Page/橙色.md "wikilink")晶体或粉末。
 
 ## 染色
 
-在中，其作為對[紅血球進行染色的試劑](https://zh.wikipedia.org/wiki/紅血球 "wikilink")。此外，橙黄G也作为OG-6帕帕尼科拉乌染色剂来对[角蛋白进行染色](../Page/角蛋白.md "wikilink")，同时也常被用来对花粉进行染色。
+在中，其作為對[紅血球進行染色的試劑](https://zh.wikipedia.org/wiki/紅血球 "wikilink")。此外，橙黄G也作为OG-6帕帕尼科拉乌染色剂来对[角蛋白](../Page/角蛋白.md "wikilink")进行染色，同时也常被用来对花粉进行染色。
 
 ## 标记物
 
-橙黄G也被用来作为颜色标记物来观测[琼脂糖凝胶电泳的过程](https://zh.wikipedia.org/wiki/琼脂糖凝胶电泳 "wikilink")。[二甲苯蓝和](../Page/二甲苯蓝.md "wikilink")[溴酚蓝也常被用于该用途](https://zh.wikipedia.org/wiki/溴酚蓝 "wikilink")。
+橙黄G也被用来作为颜色标记物来观测[琼脂糖凝胶电泳的过程](https://zh.wikipedia.org/wiki/琼脂糖凝胶电泳 "wikilink")。[二甲苯蓝](../Page/二甲苯蓝.md "wikilink")和[溴酚蓝也常被用于该用途](https://zh.wikipedia.org/wiki/溴酚蓝 "wikilink")。
 
 ## pH指示剂
 

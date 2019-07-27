@@ -13,7 +13,7 @@ last_aired =  | channel_1 = | picture_format_1 = | audio_format_1
 = | first_run_1 = | runtime_1 = | first_aired_1 = | last_aired_1
 = | status = | preceded_by = | followed_by = | related = | website = |
 production_website = }}
-《**家有Mr.J**》（），2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")。是2013年[台視製作的電視劇](https://zh.wikipedia.org/wiki/台視 "wikilink")。由[林惟毅](https://zh.wikipedia.org/wiki/林惟毅 "wikilink")、[張景怡](https://zh.wikipedia.org/wiki/張景怡 "wikilink")、[張沛婕](https://zh.wikipedia.org/wiki/張沛婕 "wikilink")、[朱陸豪](../Page/朱陸豪.md "wikilink")、[孟庭麗主演](../Page/孟庭麗.md "wikilink")。2013年11月3日於台視播出。
+《**家有Mr.J**》（），2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")。是2013年[台視製作的電視劇](https://zh.wikipedia.org/wiki/台視 "wikilink")。由[林惟毅](https://zh.wikipedia.org/wiki/林惟毅 "wikilink")、[張景怡](https://zh.wikipedia.org/wiki/張景怡 "wikilink")、[張沛婕](https://zh.wikipedia.org/wiki/張沛婕 "wikilink")、[朱陸豪](../Page/朱陸豪.md "wikilink")、[孟庭麗](../Page/孟庭麗.md "wikilink")主演。2013年11月3日於台視播出。
 
 ## 播出時間
 

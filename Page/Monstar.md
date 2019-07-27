@@ -1,4 +1,4 @@
-《**Monstar**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet自](https://zh.wikipedia.org/wiki/Mnet "wikilink")2013年5月17日起每週五21:50（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）播出的音樂電視劇，為Mnet自製的第一部電視劇，與[tvN共同首播](../Page/TVN.md "wikilink")。由《[阿娘使道傳](../Page/阿娘使道傳.md "wikilink")》[鄭允晶作家和](https://zh.wikipedia.org/wiki/鄭允晶 "wikilink")《[灰姑娘的姐姐](../Page/灰姑娘的姐姐.md "wikilink")》、《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》導演[金元錫聯手合作](../Page/金元錫.md "wikilink")，講述曾經受過心靈創傷的青少年從音樂出發，譜出一段關於愛情、友情與夢想的故事。\[1\]\[2\]
+《**Monstar**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet自](https://zh.wikipedia.org/wiki/Mnet "wikilink")2013年5月17日起每週五21:50（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）播出的音樂電視劇，為Mnet自製的第一部電視劇，與[tvN共同首播](../Page/TVN.md "wikilink")。由《[阿娘使道傳](../Page/阿娘使道傳.md "wikilink")》[鄭允晶作家和](https://zh.wikipedia.org/wiki/鄭允晶 "wikilink")《[灰姑娘的姐姐](../Page/灰姑娘的姐姐.md "wikilink")》、《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》導演[金元錫](../Page/金元錫.md "wikilink")聯手合作，講述曾經受過心靈創傷的青少年從音樂出發，譜出一段關於愛情、友情與夢想的故事。\[1\]\[2\]
 
 ## 出演陣容
 

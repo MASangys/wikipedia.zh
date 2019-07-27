@@ -1,6 +1,6 @@
 **Homestuck**是一部文字、圖片、動畫、遊戲皆由美國漫畫家Andrew
 Hussie製作的網路漫畫，也是(小畫家冒險故事)網站上的第四個也是最長的連載漫畫。\[1\]MSPA官方對其之介紹是「一個男孩跟他的朋友們一起玩遊戲的故事。」\[2\]
-此漫畫是以[HTML5的格式](../Page/HTML5.md "wikilink")，用靜態圖片、[GIF動畫](../Page/GIF.md "wikilink")、[即時通訊紀錄](../Page/即時通訊.md "wikilink")、[Flash動畫和遊戲來組成的](../Page/Adobe_Flash.md "wikilink")。它已經因著它可觀的長度——共8124頁、超過81萬個單字\[3\]——和複雜的情節\[4\]而受矚目。
+此漫畫是以[HTML5](../Page/HTML5.md "wikilink")的格式，用靜態圖片、[GIF](../Page/GIF.md "wikilink")動畫、[即時通訊](../Page/即時通訊.md "wikilink")紀錄、[Flash動畫和遊戲來組成的](../Page/Adobe_Flash.md "wikilink")。它已經因著它可觀的長度——共8124頁、超過81萬個單字\[3\]——和複雜的情節\[4\]而受矚目。
 
 ## 背景
 

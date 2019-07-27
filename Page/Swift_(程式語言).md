@@ -1,13 +1,13 @@
 **Swift編程語言，**支持[多编程范式和](https://zh.wikipedia.org/wiki/多编程范式 "wikilink")[編譯式](https://zh.wikipedia.org/wiki/編譯 "wikilink")，用来撰写基于[macOS/OS
 X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS和](https://zh.wikipedia.org/wiki/watchOS "wikilink")[tvOS的软件](https://zh.wikipedia.org/wiki/tvOS "wikilink")\[1\]。
-苹果公司于2014年在[苹果开发者年会](https://zh.wikipedia.org/wiki/WWDC "wikilink")（WWDC）發布了Swift编程语言。从设计上[苹果公司让Swift与](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Objective-C共存在苹果公司的](../Page/Objective-C.md "wikilink")[操作系统上](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[2\]。
+苹果公司于2014年在[苹果开发者年会](https://zh.wikipedia.org/wiki/WWDC "wikilink")（WWDC）發布了Swift编程语言。从设计上[苹果公司让Swift与](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Objective-C](../Page/Objective-C.md "wikilink")共存在苹果公司的[操作系统上](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[2\]。
 
 ## 歷史
 
-2010年7月，苹果开发者工具部门总监[克里斯·拉特納开始着手](../Page/克里斯·拉特納.md "wikilink") Swift
+2010年7月，苹果开发者工具部门总监[克里斯·拉特納](../Page/克里斯·拉特納.md "wikilink")开始着手 Swift
 编程语言的設計工作，以一年時間，完成基本架構後，他領導了一個設計團隊大力參與其中。Swift大約歷經4年的開發期，2014年6月發表。
 
-苹果宣称Swift的特点是：快速、现代、安全、互动，而且明顯優於Objective-C语言。Swift以[LLVM編譯](../Page/LLVM.md "wikilink")，可以使用现有的[Cocoa和](../Page/Cocoa.md "wikilink")[Cocoa
+苹果宣称Swift的特点是：快速、现代、安全、互动，而且明顯優於Objective-C语言。Swift以[LLVM](../Page/LLVM.md "wikilink")編譯，可以使用现有的[Cocoa](../Page/Cocoa.md "wikilink")和[Cocoa
 Touch框架](../Page/Cocoa_Touch.md "wikilink")。Xcode
 Playgrounds功能是Swift为苹果开发工具带来的最大创新，该功能提供強大的互动效果，能让Swift源代碼在[撰寫过程中能即時显示出其執行結果](../Page/读取﹣求值﹣输出循环.md "wikilink")。拉特纳本人强调，Playgrounds很大程度是受到理念的启发。\[3\]
 
@@ -19,7 +19,7 @@ store並不支持開源的Swift，只支持蘋果官方的Swift版本，官方�
 ## 特色
 
 Swift取消了Objective-C的[指针和其他不安全存取的使用](../Page/指標_\(電腦科學\).md "wikilink")，舍弃了Objective
-C早期套用[Smalltalk风格的語法](../Page/Smalltalk.md "wikilink")，全面改为句点表示法（dot-notation）。Swift具备[类型推导](../Page/类型推论.md "wikilink")（type
+C早期套用[Smalltalk](../Page/Smalltalk.md "wikilink")风格的語法，全面改为句点表示法（dot-notation）。Swift具备[类型推导](../Page/类型推论.md "wikilink")（type
 inference）。同时，它提供了类似C++、C\#中的命名空間（namespace）、泛型（generic）、运算符重载（operator
 overloading）。Swift被簡單的形容為 “沒有C的Objective-C”（Objective-C without the
 C）。\[7\]
@@ -78,7 +78,7 @@ types，不能加上問號（?）或驚嘆號（\!）。
 
 Xcode的除錯机制针对Swift语言提供[REPL](../Page/读取﹣求值﹣输出循环.md "wikilink")（Read-Eval-Print
 Loop,
-這是源自emacs的术语）環境，可以利用Swift语法来评估或于其他程序互动，使Swift编程具有类似[Python或](../Page/Python.md "wikilink")[Ruby带有的交互性界面](../Page/Ruby.md "wikilink")（Interactive
+這是源自emacs的术语）環境，可以利用Swift语法来评估或于其他程序互动，使Swift编程具有类似[Python](../Page/Python.md "wikilink")或[Ruby](../Page/Ruby.md "wikilink")带有的交互性界面（Interactive
 Shell）。
 
 ### 类似 Objective-C之处
@@ -100,7 +100,7 @@ Shell）。
   - 不需要头文件（Header files）。
   - 注解方式 /\* ... \*/ 嵌套，指注释里可以再有注释。
   - [強类型](https://zh.wikipedia.org/wiki/強型別 "wikilink")
-  - [类型推论或隐含类型](../Page/类型推论.md "wikilink")（Type inference）
+  - [类型推论](../Page/类型推论.md "wikilink")或隐含类型（Type inference）
   - 支持[泛型編程](https://zh.wikipedia.org/wiki/泛型編程 "wikilink")。
   - 函数成为第一等类型（first-class object），这意味着函数可以作为其他函数的参数和返回值。
   - 运算符重载。运算符可在类內重新定义。

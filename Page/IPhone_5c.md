@@ -5,7 +5,7 @@ the colourful*）」。
 蘋果歷代都會販售過季機型作為低配選擇，但iPhone 5與前代產品不同，iPhone 5c發表後[iPhone
 5即時停產](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")，且價格和規格也與iPhone
 5相近，因而被認爲是iPhone 5的繼任者。iPhone 5c繼[iPhone
-3GS之後再度使用了](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[聚碳酸酯作為外殼材質](../Page/聚碳酸酯.md "wikilink")，並首次在[iPhone產品中引入多種顏色](https://zh.wikipedia.org/wiki/iPhone "wikilink")，同時推出的專用保護殼亦有多種顏色可選。\[1\]\[2\]\[3\]
+3GS之後再度使用了](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")作為外殼材質，並首次在[iPhone產品中引入多種顏色](https://zh.wikipedia.org/wiki/iPhone "wikilink")，同時推出的專用保護殼亦有多種顏色可選。\[1\]\[2\]\[3\]
 
 iPhone 5c及[iPhone
 5s在開售後首三日共錄得九百萬破紀錄銷量](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")\[4\]。
@@ -31,7 +31,7 @@ iPhone 5c及[iPhone
 
 ## 改動
 
-  - 首次引入了彩色的[聚碳酸酯外殼](../Page/聚碳酸酯.md "wikilink")，與同時推出的彩色[矽膠保護殼可搭配出超過三十種不同的色彩組合](https://zh.wikipedia.org/wiki/矽膠 "wikilink")，不過前面板均爲黑色。[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
+  - 首次引入了彩色的[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")外殼，與同時推出的彩色[矽膠保護殼可搭配出超過三十種不同的色彩組合](https://zh.wikipedia.org/wiki/矽膠 "wikilink")，不過前面板均爲黑色。[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
     還設計了一個鋼製框架來保證機身強度，同時充當[天線之用](https://zh.wikipedia.org/wiki/天線 "wikilink")。
   - 內置[電池容量較](https://zh.wikipedia.org/wiki/電池 "wikilink") [iPhone
     5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 的 1440 mAh

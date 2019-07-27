@@ -2,11 +2,11 @@
 [IBEX_35_21-01-2008_24-01-2008.svg](https://zh.wikipedia.org/wiki/File:IBEX_35_21-01-2008_24-01-2008.svg "fig:IBEX_35_21-01-2008_24-01-2008.svg")
 
 **IBEX 35**（；；IBEX是**Índice Bursatil
-Español**的縮寫，字面意思是西班牙交易指數）是[西班牙](../Page/西班牙.md "wikilink")[馬德里證券交易所的基準](https://zh.wikipedia.org/wiki/馬德里證券交易所 "wikilink")[股市指數](https://zh.wikipedia.org/wiki/股市指數 "wikilink")，於1992年啟用，由[西班牙證券市場公司的子公司Sociedad](../Page/西班牙證券市場公司.md "wikilink")
+Español**的縮寫，字面意思是西班牙交易指數）是[西班牙](../Page/西班牙.md "wikilink")[馬德里證券交易所的基準](https://zh.wikipedia.org/wiki/馬德里證券交易所 "wikilink")[股市指數](https://zh.wikipedia.org/wiki/股市指數 "wikilink")，於1992年啟用，由[西班牙證券市場公司](../Page/西班牙證券市場公司.md "wikilink")的子公司Sociedad
 de Bolsas計算并管理。IBEX
 35是一種市值加權指數，包含35個在[馬德里證券交易所綜合指數中最具](https://zh.wikipedia.org/wiki/馬德里證券交易所綜合指數 "wikilink")[流動性的西班牙股票](https://zh.wikipedia.org/wiki/市場流動性 "wikilink")，每年調整兩次。\[1\]
 IBEX
-35的[期權和](../Page/期權.md "wikilink")[期貨交易由BME的另一家子公司Mercado](https://zh.wikipedia.org/wiki/期貨 "wikilink")
+35的[期權](../Page/期權.md "wikilink")和[期貨交易由BME的另一家子公司Mercado](https://zh.wikipedia.org/wiki/期貨 "wikilink")
 Español de Futuros Financieros提供。\[2\]
 
 ## 歷史

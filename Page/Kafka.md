@@ -1,6 +1,6 @@
-**Kafka**是由[Apache软件基金会开发的一个](../Page/Apache软件基金会.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[流处理平台](https://zh.wikipedia.org/wiki/流处理 "wikilink")，由[Scala和](../Page/Scala.md "wikilink")[Java编写](../Page/Java.md "wikilink")。该项目的目标是为处理实时数据提供一个统一、高吞吐、低延迟的平台。其持久化层本质上是一个“按照分布式事务日志架构的大规模发布/订阅消息队列”，\[1\]这使它作为企业级基础设施来处理流式数据非常有价值。此外，Kafka可以通过Kafka
+**Kafka**是由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")开发的一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[流处理平台](https://zh.wikipedia.org/wiki/流处理 "wikilink")，由[Scala](../Page/Scala.md "wikilink")和[Java](../Page/Java.md "wikilink")编写。该项目的目标是为处理实时数据提供一个统一、高吞吐、低延迟的平台。其持久化层本质上是一个“按照分布式事务日志架构的大规模发布/订阅消息队列”，\[1\]这使它作为企业级基础设施来处理流式数据非常有价值。此外，Kafka可以通过Kafka
 Connect连接到外部系统（用于数据输入/输出），并提供了Kafka
-Streams——一个[Java流式处理](../Page/Java.md "wikilink")[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")。
+Streams——一个[Java](../Page/Java.md "wikilink")流式处理[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")。
 
 该设计受的影响较大。\[2\]
 
@@ -8,7 +8,7 @@ Streams——一个[Java流式处理](../Page/Java.md "wikilink")[库](https://z
 
 Kafka最初是由[领英开发](https://zh.wikipedia.org/wiki/领英 "wikilink")，并随后于2011年初开源，并于2012年10月23日由[Apache
 Incubator孵化出站](https://zh.wikipedia.org/wiki/Apache_Incubator "wikilink")。2014年11月，几个曾在领英为Kafka工作的工程师，创建了名为Confluent的新公司，\[3\]，并着眼于Kafka。根据2014年Quora的帖子，Jay
-Kreps似乎已经将它以作家[弗朗茨·卡夫卡命名](../Page/弗朗茨·卡夫卡.md "wikilink")。Kreps选择将该系统以一个作家命名是因为，它是“一个用于优化写作的系统”，而且他很喜欢卡夫卡的作品。\[4\]
+Kreps似乎已经将它以作家[弗朗茨·卡夫卡](../Page/弗朗茨·卡夫卡.md "wikilink")命名。Kreps选择将该系统以一个作家命名是因为，它是“一个用于优化写作的系统”，而且他很喜欢卡夫卡的作品。\[4\]
 
 ## Kafka的架构
 

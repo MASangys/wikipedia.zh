@@ -1,7 +1,7 @@
 **WTFPL**（**Do What The Fuck You Want To Public
 License**，中文译名：**你他妈的想干嘛就干嘛公共许可证**）是一种不太常用的、极度放任的[自由软件许可证](https://zh.wikipedia.org/wiki/自由软件许可证 "wikilink")。它的条款基本等同于贡献到[公有领域](../Page/公有领域.md "wikilink")。\[1\]此许可证在2000年3月发布的1.0版，\[2\]是
 Banlu Kemiyatorn\[3\]撰写，最初是供[Window
-Maker的美工品使用](../Page/Window_Maker.md "wikilink")。\[4\]一位自2007年4月7日到2008年4月16日任[Debian项目领导的](../Page/Debian.md "wikilink")[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[程序员](../Page/程序员.md "wikilink")撰写了2.0版本。\[5\]它允许根据任何条款修改和再发布软件——许可证鼓励他们“想干嘛就干嘛”。该许可证已被[自由软件基金会认证为兼容](../Page/自由软件基金会.md "wikilink")[GPL的自由软件许可证](../Page/GNU通用公共许可证.md "wikilink")。\[6\]
+Maker的美工品使用](../Page/Window_Maker.md "wikilink")。\[4\]一位自2007年4月7日到2008年4月16日任[Debian](../Page/Debian.md "wikilink")项目领导的[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[程序员](../Page/程序员.md "wikilink")撰写了2.0版本。\[5\]它允许根据任何条款修改和再发布软件——许可证鼓励他们“想干嘛就干嘛”。该许可证已被[自由软件基金会](../Page/自由软件基金会.md "wikilink")认证为兼容[GPL的自由软件许可证](../Page/GNU通用公共许可证.md "wikilink")。\[6\]
 
 ## 条款
 
@@ -79,7 +79,7 @@ Maker的美工品使用](../Page/Window_Maker.md "wikilink")。\[4\]一位自200
 
 ## 使用
 
-WTFPL很少被使用——至少从使用该名称来看，但也有一些软件已采用它来发布。该许可证也可用于美工作品和书面材料\[8\]。一份[自由软件目录](../Page/自由软件.md "wikilink")[Freecode含有一份采用WTFPL许可证的](https://zh.wikipedia.org/wiki/Freecode "wikilink")[软件或美工作品的特殊分类](../Page/软件.md "wikilink")，含有31条记录\[9\]，其中两条是该许可证2.0版作者桑·奥塞瓦的作品。Potlatch，[OpenStreetMap项目的在线编辑器](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")，采用WTFPL发布\[10\]。762
+WTFPL很少被使用——至少从使用该名称来看，但也有一些软件已采用它来发布。该许可证也可用于美工作品和书面材料\[8\]。一份[自由软件](../Page/自由软件.md "wikilink")目录[Freecode含有一份采用WTFPL许可证的](https://zh.wikipedia.org/wiki/Freecode "wikilink")[软件](../Page/软件.md "wikilink")或美工作品的特殊分类，含有31条记录\[9\]，其中两条是该许可证2.0版作者桑·奥塞瓦的作品。Potlatch，[OpenStreetMap项目的在线编辑器](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")，采用WTFPL发布\[10\]。762
 Studios libsst和ZSTL也都以WTFPL第2.0版发布\[11\]，一个客户端处加密的剪贴板øbin也在用它\[12\]。
 
 ## 参见

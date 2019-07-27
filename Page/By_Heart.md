@@ -1,9 +1,9 @@
 《**By
-Heart**》是[香港歌手](../Page/香港.md "wikilink")[陳慧嫻第十七張粵語專輯](../Page/陳慧嫻.md "wikilink")，是她在2013年重返[寶麗金](../Page/寶麗金.md "wikilink")（[環球唱片旗下](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）後第一張發行的唱片，於2013年11月開始灌錄。香港唱片商會銷量榜連續五星期冠軍。
+Heart**》是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")第十七張粵語專輯，是她在2013年重返[寶麗金](../Page/寶麗金.md "wikilink")（[環球唱片旗下](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）後第一張發行的唱片，於2013年11月開始灌錄。香港唱片商會銷量榜連續五星期冠軍。
 
 ## 簡介
 
-這張粵語專輯主要是翻唱陳慧嫻在寶麗金時期其他歌手的舊作，但重新灌錄。第一主打為《Lonely》﹐獲得了[叱吒903流行榜冠軍歌](https://zh.wikipedia.org/wiki/叱吒903 "wikilink")、[香港電台中文歌曲流行榜冠軍歌及](../Page/香港電台.md "wikilink")[新城997季軍歌](https://zh.wikipedia.org/wiki/新城997 "wikilink")。第二主打為《讓一切隨風》。第三主打為《藍月亮》。
+這張粵語專輯主要是翻唱陳慧嫻在寶麗金時期其他歌手好友的舊作，但重新灌錄。第一主打為《Lonely》﹐獲得了[叱吒903流行榜冠軍歌](https://zh.wikipedia.org/wiki/叱吒903 "wikilink")、[香港電台](../Page/香港電台.md "wikilink")中文歌曲流行榜冠軍歌及[新城997季軍歌](https://zh.wikipedia.org/wiki/新城997 "wikilink")。第二主打為《讓一切隨風》。第三主打為《藍月亮》。
 
 ## 曲目
 

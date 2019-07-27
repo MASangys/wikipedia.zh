@@ -8,7 +8,7 @@
 
   -
     1986年作为[PC用游戏发售](https://zh.wikipedia.org/wiki/PC游戏 "wikilink")。最初的设想是制作一款与[铁路有关的](https://zh.wikipedia.org/wiki/铁路 "wikilink")[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，但从1990年发售的第三部作品开始转型为[城市建造遊戲](../Page/城市建造遊戲.md "wikilink")。
-    第三部作品**A列车III（）**引起了强烈反响，不仅是在[日本](../Page/日本.md "wikilink")，在[德国和](../Page/德国.md "wikilink")[美国也获得了众多游戏奖项](../Page/美国.md "wikilink")，因而决定了本系列的制作方向。
+    第三部作品**A列车III（）**引起了强烈反响，不仅是在[日本](../Page/日本.md "wikilink")，在[德国](../Page/德国.md "wikilink")和[美国](../Page/美国.md "wikilink")也获得了众多游戏奖项，因而决定了本系列的制作方向。
     1992年英文版发售，1995年进一步发售了用于[超级任天堂的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")**A列车3超级版（）**。
     1994年发售的**A列车4
     EVOLUTION（）**（[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")）加入了“车窗模式”，可以近距离眺望[3D制作的城市](../Page/三维计算机图形.md "wikilink")。之后发售了经过细微修改的**A列车4

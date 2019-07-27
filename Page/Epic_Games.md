@@ -51,7 +51,7 @@ Games擁有在遊戲產業中相當成功的「虛幻引擎」，最早的版本
 ### Epic Games商城
 
 2018年12月4日，Epic Games首度公布了自家的數位遊戲發行平台「Epic Games
-Store」，並在數天後的[遊戲大獎頒獎典禮期間正式推出](https://zh.wikipedia.org/wiki/遊戲大獎 "wikilink")。針對[Valve在](https://zh.wikipedia.org/wiki/Valve "wikilink")[Steam平台採用的](../Page/Steam.md "wikilink")30%抽成政策，Epic
+Store」，並在數天後的[遊戲大獎頒獎典禮期間正式推出](https://zh.wikipedia.org/wiki/遊戲大獎 "wikilink")。針對[Valve在](https://zh.wikipedia.org/wiki/Valve "wikilink")[Steam](../Page/Steam.md "wikilink")平台採用的30%抽成政策，Epic
 Games商城提供了更低的12%抽成，此外如果遊戲是使用虛幻引擎開發則再額外提供5%的抽成減免，藉此吸引其他獨立開發者與廠商上架遊戲，並以收購獨佔發行權的手段進行擴張。\[2\]
 
 ## 爭議

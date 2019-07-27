@@ -1,4 +1,4 @@
-**MUSA's**是由來自[阿根廷的鋼琴及鍵盤手](../Page/阿根廷.md "wikilink")[Martin "Musa"
+**MUSA's**是由來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa"
 Musaubach](../Page/明馬丁.md "wikilink") (Musa)帶領的演奏團體。
 
 ## 有關樂團
@@ -99,7 +99,7 @@ Trio的樂團出道錄音發行。
 
   -
     Danny，小號及富魯格號手，來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。1957年生。10歲開始演奏小號，1980年參演過Tom
-    Jones的世界巡迴演唱會。80年代末至90年代中曾於[西班牙及](../Page/西班牙.md "wikilink")[法國居住](https://zh.wikipedia.org/wiki/法國 "wikilink")，參與不同的演出、比賽和錄音，並於1993年移居台灣。近期演出包括《伍佰and
+    Jones的世界巡迴演唱會。80年代末至90年代中曾於[西班牙](../Page/西班牙.md "wikilink")及[法國居住](https://zh.wikipedia.org/wiki/法國 "wikilink")，參與不同的演出、比賽和錄音，並於1993年移居台灣。近期演出包括《伍佰and
     China Blue -生命的現場- 20周年演唱會》。現同時為Bad Ass Brass成員\[14\]。
 
 **低音琴手 (MUSA's 2013年9月\~)**

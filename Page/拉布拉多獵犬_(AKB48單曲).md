@@ -1,8 +1,8 @@
-《**拉布拉多獵犬**》（，）是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的第](../Page/AKB48.md "wikilink")36張[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在2014年5月21日由[國王唱片發售](../Page/國王唱片.md "wikilink")。此單曲是AKB48於每年[夏天慣例推出的](https://zh.wikipedia.org/wiki/夏天 "wikilink")[泳裝單曲之一](https://zh.wikipedia.org/wiki/泳裝 "wikilink")，但與去年的《[再見自由式](../Page/再見自由式.md "wikilink")》不同，主打歌的選拔成員數量從32人回復到與《[仲夏的Sounds
+《**拉布拉多獵犬**》（，）是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第36張[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在2014年5月21日由[國王唱片](../Page/國王唱片.md "wikilink")發售。此單曲是AKB48於每年[夏天慣例推出的](https://zh.wikipedia.org/wiki/夏天 "wikilink")[泳裝單曲之一](https://zh.wikipedia.org/wiki/泳裝 "wikilink")，但與去年的《[再見自由式](../Page/再見自由式.md "wikilink")》不同，主打歌的選拔成員數量從32人回復到與《[仲夏的Sounds
 good！](https://zh.wikipedia.org/wiki/仲夏的Sounds_good！ "wikilink")》一樣的36人，也較平常的單曲多出一倍以上，是此單曲較為特殊之處。
 
-由於在本單曲中，[渡邊麻友是自](../Page/渡邊麻友.md "wikilink")《[So
-long\!](../Page/So_long!.md "wikilink")》以來的1年多後再次單獨擔任A面曲的中央成員（Center），也是收錄有主力成員[大島優子畢業離團之前最後一首歌曲作品](../Page/大島優子.md "wikilink")《[只到今天的旋律](https://zh.wikipedia.org/wiki/#只到今天的旋律 "wikilink")》（[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")）的單曲唱片，因而備受注目。
+由於在本單曲中，[渡邊麻友](../Page/渡邊麻友.md "wikilink")是自《[So
+long\!](../Page/So_long!.md "wikilink")》以來的1年多後再次單獨擔任A面曲的中央成員（Center），也是收錄有主力成員[大島優子](../Page/大島優子.md "wikilink")畢業離團之前最後一首歌曲作品《[只到今天的旋律](https://zh.wikipedia.org/wiki/#只到今天的旋律 "wikilink")》（[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")）的單曲唱片，因而備受注目。
 
 ## 概要
 
@@ -12,18 +12,18 @@ long\!](../Page/So_long!.md "wikilink")》以來的1年多後再次單獨擔任A
 
 全部5種CD（不論初回限定版或通常版）均附送有使用時間限制的[AKB48第37張單曲選拔總選舉投票用序號卡](https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉 "wikilink")。
 
-主打[A面曲是在](https://zh.wikipedia.org/wiki/A面曲 "wikilink")2014年3月29日，於[國立競技場舉行的](https://zh.wikipedia.org/wiki/國立競技場 "wikilink")「[AKB48單獨與集團國立競技場春季演唱會〜丟掉回憶向前衝！～](../Page/AKB48單獨與集團國立競技場春季演唱會.md "wikilink")」中，在第一天的[安可時段首次披露](../Page/安可.md "wikilink")，並於2014年4月7日播放的[富士電視台](../Page/富士電視台.md "wikilink")[音樂節目](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")《[HEY\!HEY\!HEY\!](https://zh.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")》中首次進行電視上的演出，而由36名選拔組成員共同表演的版本則於5月24日的《[AKB48
-SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》上首次播出。如同歷年多首AKB48的泳裝單曲之慣例，本次主打曲《拉布拉多獵犬》的[MV也是在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[關島取景](../Page/關島.md "wikilink")。
+主打[A面曲是在](https://zh.wikipedia.org/wiki/A面曲 "wikilink")2014年3月29日，於[國立競技場舉行的](https://zh.wikipedia.org/wiki/國立競技場 "wikilink")「[AKB48單獨與集團國立競技場春季演唱會](../Page/AKB48單獨與集團國立競技場春季演唱會.md "wikilink")〜丟掉回憶向前衝！～」中，在第一天的[安可](../Page/安可.md "wikilink")時段首次披露，並於2014年4月7日播放的[富士電視台](../Page/富士電視台.md "wikilink")[音樂節目](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")《[HEY\!HEY\!HEY\!](https://zh.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")》中首次進行電視上的演出，而由36名選拔組成員共同表演的版本則於5月24日的《[AKB48
+SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》上首次播出。如同歷年多首AKB48的泳裝單曲之慣例，本次主打曲《拉布拉多獵犬》的[MV也是在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[關島](../Page/關島.md "wikilink")取景。
 
 在B面曲部分，除了上述大島優子的畢業曲《迄今為止的旋律》之外，Type-A、-K、-B、-4四個一般版的唱片中分別收錄有一首以各分隊為單位所演唱的B面曲。由於本單曲是在2014年2月24日舉行的AKB48集團「大組閣祭」之後錄製的第一張單曲，因此是各分隊新成員編制首度啟用的作品。另外，在四首分隊代表曲的[MV中的中央成员](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（Center）與前排成員們幾乎都是在大組閣祭中有轉隊或移籍異動、或是由姊妹團體前來兼任，因此名單組成與過去的分隊曲有不小的差異。
 
 ## 銷售情況
 
-本作在發賣第一天售出146.2萬張，打破前一年的夏季單曲《再見自由式》首天的145.1萬張紀錄，同時是繼2013年10月的《[真心電流](../Page/真心電流.md "wikilink")》後再次達成首天百萬銷量，也是連續第13張單曲登上[Oricon公信榜日榜榜首](../Page/Oricon公信榜.md "wikilink")，最終於第一週售出166.2萬張，，成為AKB48連續第17張销量破百萬的單曲（通算第18张），同時是連續第23張單曲獲得週榜冠軍，刷新女性組合在Oricon公信榜的「單曲第一名連續獲得数」和「單曲第一名總計獲得数」兩項紀錄。
+本作在發賣第一天售出146.2萬張，打破前一年的夏季單曲《再見自由式》首天的145.1萬張紀錄，同時是繼2013年10月的《[真心電流](../Page/真心電流.md "wikilink")》後再次達成首天百萬銷量，也是連續第13張單曲登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")日榜榜首，最終於第一週售出166.2萬張，，成為AKB48連續第17張销量破百萬的單曲（通算第18张），同時是連續第23張單曲獲得週榜冠軍，刷新女性組合在Oricon公信榜的「單曲第一名連續獲得数」和「單曲第一名總計獲得数」兩項紀錄。
 
 ## 版本與收錄內容
 
-如果不計初回限量版與通常版的差異，《拉布拉多獵犬》一共有Type-A、Type-K、Type-B、Type-4與劇場版共五個版本，其中前四者除了音樂CD外，尚附有一張DVD，而劇場版則不附對應的影片DVD。五個版本共同收錄的除了主打A面曲之外，也同時收錄了[大島優子的畢業曲](../Page/大島優子.md "wikilink")《只到今天的旋律》一曲，因此可視為是本單曲的第一B面曲。另外，所有版本的第三音軌中個別收錄了一首與其他版本不同的B面曲。
+如果不計初回限量版與通常版的差異，《拉布拉多獵犬》一共有Type-A、Type-K、Type-B、Type-4與劇場版共五個版本，其中前四者除了音樂CD外，尚附有一張DVD，而劇場版則不附對應的影片DVD。五個版本共同收錄的除了主打A面曲之外，也同時收錄了[大島優子](../Page/大島優子.md "wikilink")的畢業曲《只到今天的旋律》一曲，因此可視為是本單曲的第一B面曲。另外，所有版本的第三音軌中個別收錄了一首與其他版本不同的B面曲。
 
 配合CD中所收錄的歌曲，除了劇場版外其他四個版本所收錄的歌曲全都有對應的[MV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。另外除了與歌曲對應的MV外，各版的DVD還各自收錄了一個主題不同的特典影片。
 
@@ -159,9 +159,9 @@ B演唱的《B花園》。無論初回限量版還是通常版的封面都是由
 
 此張單曲的同名主打歌《拉布拉多獵犬》（）是由秋元康作詞，作曲者為曾為AKB48創作《[永遠的壓力](../Page/永遠的壓力.md "wikilink")》、《[真心電流](../Page/真心電流.md "wikilink")》等單曲的，並由佐佐木裕編曲，而對應的MV則是由小林達行[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")。延續歷年來泳裝單曲向來都是由較多的成員人數所演唱之慣例，參與這首歌錄製的成員數量多達36人，範圍涵蓋AKB48集團所有國內姊妹團體的分隊。
 
-在歌曲的跨界合作上，《拉布拉多獵犬》一曲是日本日用品大廠[花王旗下的](../Page/花王.md "wikilink")[洗衣粉商品](https://zh.wikipedia.org/wiki/洗衣粉 "wikilink")「」的[電視廣告](../Page/電視廣告.md "wikilink")「AKB並不知道」篇（）的搭配廣告曲。而該廣告是由大島優子、渡邊麻友、高橋南、橫山由依與島崎遙香五人共同演出。
+在歌曲的跨界合作上，《拉布拉多獵犬》一曲是日本日用品大廠[花王](../Page/花王.md "wikilink")旗下的[洗衣粉商品](https://zh.wikipedia.org/wiki/洗衣粉 "wikilink")「」的[電視廣告](../Page/電視廣告.md "wikilink")「AKB並不知道」篇（）的搭配廣告曲。而該廣告是由大島優子、渡邊麻友、高橋南、橫山由依與島崎遙香五人共同演出。
 
-《拉布拉多獵犬》模仿了的音樂風格，透過一隻[拉布拉多獵犬的視線記述男孩和他單戀的女孩所經歷的一切](../Page/拉布拉多犬.md "wikilink")，描繪出一個甘中帶酸、卻又充滿清涼感的世界。[產經新聞評論稱歌曲令人想起](../Page/產經新聞.md "wikilink")[法國歌手](https://zh.wikipedia.org/wiki/法國 "wikilink")於1968年的經典名曲《愛的俘虜》（），[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[小林善紀則覺得歌曲部分](../Page/小林善紀.md "wikilink")[旋律像另一位法國歌手](https://zh.wikipedia.org/wiki/旋律 "wikilink")的歌曲《》（）當中，「」的一句。有網上評論認為《拉布拉多獵犬》的前奏模仿了《愛的俘虜》，歌詞中出現的「純白色的太陽傘」（）是對[松田聖子](../Page/松田聖子.md "wikilink")1981年單曲《》的[致敬](../Page/致敬.md "wikilink")，至於詞中「」一字則是來自《一切為了我心愛的人》。
+《拉布拉多獵犬》模仿了的音樂風格，透過一隻[拉布拉多獵犬的視線記述男孩和他單戀的女孩所經歷的一切](../Page/拉布拉多犬.md "wikilink")，描繪出一個甘中帶酸、卻又充滿清涼感的世界。[產經新聞](../Page/產經新聞.md "wikilink")評論稱歌曲令人想起[法國歌手](https://zh.wikipedia.org/wiki/法國 "wikilink")於1968年的經典名曲《愛的俘虜》（），[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[小林善紀](../Page/小林善紀.md "wikilink")則覺得歌曲部分[旋律像另一位法國歌手](https://zh.wikipedia.org/wiki/旋律 "wikilink")的歌曲《》（）當中，「」的一句。有網上評論認為《拉布拉多獵犬》的前奏模仿了《愛的俘虜》，歌詞中出現的「純白色的太陽傘」（）是對[松田聖子](../Page/松田聖子.md "wikilink")1981年單曲《》的[致敬](../Page/致敬.md "wikilink")，至於詞中「」一字則是來自《一切為了我心愛的人》。
 
 在這首歌曲的MV中，站在中央位置並擔任劇情主角的是渡邊麻友，並由指原莉乃與松井珠理奈站其兩旁擔任前排成員。單曲選拔組的詳細名單如下：
 
@@ -201,9 +201,9 @@ B演唱的《B花園》。無論初回限量版還是通常版的封面都是由
 
 ### 只到今天的旋律
 
-《只到今天的旋律》（）是主力成員之一的大島優子之畢業曲。此曲的MV是由曾經為AKB48拍攝多部音樂影片的[高橋榮樹執導](../Page/高橋榮樹.md "wikilink")，完整的版本片長接近15分鐘，但影片的前10分鐘實際上是以大島優子為主角的訪談與側錄花絮，包括與擔任AKB48集團音樂總監的[田中博信在過去曾經使用的舊](https://zh.wikipedia.org/wiki/田中博信 "wikilink")[錄音室中對談](https://zh.wikipedia.org/wiki/錄音室 "wikilink")，與高橋南、小嶋陽菜、峯岸南三名僅存的AKB48一期生在位於[秋葉原的AKB](../Page/秋葉原.md "wikilink")48劇場周遭漫步，並至曾經舉辦過第一場演唱會「[好想見你
+《只到今天的旋律》（）是主力成員之一的大島優子之畢業曲。此曲的MV是由曾經為AKB48拍攝多部音樂影片的[高橋榮樹](../Page/高橋榮樹.md "wikilink")執導，完整的版本片長接近15分鐘，但影片的前10分鐘實際上是以大島優子為主角的訪談與側錄花絮，包括與擔任AKB48集團音樂總監的[田中博信在過去曾經使用的舊](https://zh.wikipedia.org/wiki/田中博信 "wikilink")[錄音室中對談](https://zh.wikipedia.org/wiki/錄音室 "wikilink")，與高橋南、小嶋陽菜、峯岸南三名僅存的AKB48一期生在位於[秋葉原](../Page/秋葉原.md "wikilink")的AKB48劇場周遭漫步，並至曾經舉辦過第一場演唱會「[好想見你
 ～柱子沒了嚘！～](https://zh.wikipedia.org/wiki/AKB48_1st演唱会“想见你～柱子没了唷!～” "wikilink")
-」（）的[日本青年館舊地重遊](../Page/日本青年館.md "wikilink")。
+」（）的[日本青年館](../Page/日本青年館.md "wikilink")舊地重遊。
 
 至於主要的MV內容則是由大島優子與12名現役的AKB48集團成員演出，但作為驚喜有14名與大島长期同队的初代Team
 K成员也一同參與了新曲的錄音並在MV中現身
@@ -311,7 +311,7 @@ MV貼身報導」（）之特典影片。此影片是由第一次參與Team
 ## 相關條目
 
   - [AKB48第37張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉 "wikilink")
-  - [拉布拉多犬](../Page/拉布拉多犬.md "wikilink")：一種原產自[加拿大的獵犬品種](../Page/加拿大.md "wikilink")，也是本單曲的命名由來。
+  - [拉布拉多犬](../Page/拉布拉多犬.md "wikilink")：一種原產自[加拿大](../Page/加拿大.md "wikilink")的獵犬品種，也是本單曲的命名由來。
 
 ## 注釋
 

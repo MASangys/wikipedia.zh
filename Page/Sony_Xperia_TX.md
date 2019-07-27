@@ -1,5 +1,5 @@
 **Sony Xperia
-TX**是[日本電子公司](../Page/日本.md "wikilink")[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的一款高階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，[Sony
+TX**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的一款高階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，[Sony
 Xperia
 GX為日本版本](https://zh.wikipedia.org/wiki/Sony_Xperia_GX "wikilink")，**Sony
 Xperia TX**為國際版本，擁有13 MP拍照1080p Full HD錄影功能的Exmor R鏡頭，配備HD解像的Reality
@@ -20,7 +20,7 @@ Ericsson的小綠球字樣，並成為最後一款擁有小綠球的索尼手機
 
 Sony Xperia TX具備4.55吋Reality Display屏幕，解像度為1280 x 720 HD。採用Qualcomm
 MSM8260A
-1.5GHz雙核處理器，1300萬像素後置ExmorR鏡頭，130萬像素前置鏡頭，[HDMI及](../Page/HDMI.md "wikilink")[MHL輸出功能](https://zh.wikipedia.org/wiki/MHL "wikilink")，內置1GB[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、16GB[快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，支援Micro-SD，並配備可更換電池。
+1.5GHz雙核處理器，1300萬像素後置ExmorR鏡頭，130萬像素前置鏡頭，[HDMI](../Page/HDMI.md "wikilink")及[MHL輸出功能](https://zh.wikipedia.org/wiki/MHL "wikilink")，內置1GB[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、16GB[快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，支援Micro-SD，並配備可更換電池。
 
 ## 作業系統
 

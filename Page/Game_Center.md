@@ -80,7 +80,7 @@ ID。
 3GS和以後的型號（需要iOS 4.1），iPad的所有型號（需要iOS 4.2），以及所有运行OS X
 10.8 Mountain Lion 的Mac。\[18\]
 
-iPhone 3G和第一代Phone不被支持。然而，iPhone 3G 可以通过越狱得到 Game Center 的非官方支持。
+iPhone 3G和第一代iPhone不被支持。然而，iPhone 3G 可以通过越狱得到 Game Center 的非官方支持。
 \[19\]OS X Mountain Lion新加入了 Game Center功能，但支援的遊戲數量尚少\[20\]
 
 ## 參見

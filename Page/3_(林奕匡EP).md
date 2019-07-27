@@ -1,4 +1,4 @@
-《**3**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林奕匡的第三張大碟](../Page/林奕匡.md "wikilink")，第二張EP。在2014年4月25日\[1\]推出。EP收錄六首新歌曲，包括第一主打《Goodman》及第二主打《高山低谷》。
+《**3**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林奕匡](../Page/林奕匡.md "wikilink")的第三張大碟，第二張EP。在2014年4月25日\[1\]推出。EP收錄六首新歌曲，包括第一主打《Goodman》及第二主打《高山低谷》。
 
 ## 曲目列表
 

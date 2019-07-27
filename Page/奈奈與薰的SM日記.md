@@ -7,7 +7,7 @@
 
 ## 登場人物
 
-登場人物的姓名，部份是借用官能小說家的姓名\[1\]。[聲優為](../Page/聲優.md "wikilink")[OAD版](https://zh.wikipedia.org/wiki/OAD "wikilink")。
+登場人物的姓名，部份是借用官能小說家的姓名\[1\]。[聲優](../Page/聲優.md "wikilink")為[OAD版](https://zh.wikipedia.org/wiki/OAD "wikilink")。
 
 ### 主角
 

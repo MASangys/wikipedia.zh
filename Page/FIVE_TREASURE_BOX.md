@@ -1,5 +1,5 @@
 《**FIVE TREASURE
-BOX**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第](../Page/FTIsland.md "wikilink")4枚正規韓語專輯。於2012年9月10日發行，並以《我希望》（）為此專輯的主打曲目。
+BOX**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第4枚正規韓語專輯。於2012年9月10日發行，並以《我希望》（）為此專輯的主打曲目。
 
 ## 概要
 

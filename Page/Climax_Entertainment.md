@@ -15,10 +15,10 @@ Graphics(Crazy Games)。
 
 ## 游戏
 
-  - [光明與黑暗](https://zh.wikipedia.org/wiki/光明與黑暗 "wikilink")（与[Camelot协作](../Page/Camelot.md "wikilink")，1991年3月,[世嘉](../Page/世嘉.md "wikilink")）（[Mega
+  - [光明與黑暗](https://zh.wikipedia.org/wiki/光明與黑暗 "wikilink")（与[Camelot](../Page/Camelot.md "wikilink")协作，1991年3月,[世嘉](../Page/世嘉.md "wikilink")）（[Mega
     Drive](../Page/Mega_Drive.md "wikilink")）
   - [光明與黑暗續戰篇
-    眾神的遺產](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇_眾神的遺產 "wikilink")（与[Camelot协作](../Page/Camelot.md "wikilink")，1992年3月,世嘉）（Mega
+    眾神的遺產](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇_眾神的遺產 "wikilink")（与[Camelot](../Page/Camelot.md "wikilink")协作，1992年3月,世嘉）（Mega
     Drive）
   - [光明與黑暗
     黑暗龙复活](https://zh.wikipedia.org/wiki/光明與黑暗_黑暗龙复活 "wikilink")（GBA、2004年8月，世嘉）

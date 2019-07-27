@@ -1,5 +1,5 @@
 《**Angels Fall
-First**》是[芬兰](../Page/芬兰.md "wikilink")[交响金属乐队](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿的首张专辑](../Page/夜愿.md "wikilink")。原版限量版仅有销售500份，收录有7个曲目，之中两个曲目不在普通版中\[1\]。
+First**》是[芬兰](../Page/芬兰.md "wikilink")[交响金属乐队](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿](../Page/夜愿.md "wikilink")的首张专辑。原版限量版仅有销售500份，收录有7个曲目，之中两个曲目不在普通版中\[1\]。
 
 ## 背景
 
@@ -10,7 +10,7 @@ First**》是[芬兰](../Page/芬兰.md "wikilink")[交响金属乐队](https://
 ## 音乐风格
 
 《Angels Fall
-First》和随后发行的作品有很大不同；相对于之后的作品，专辑更为重视[民谣金属和](../Page/民谣金属.md "wikilink")[原声](https://zh.wikipedia.org/wiki/原声乐 "wikilink")\[3\]。民谣声音在之后的专辑中或多或少的减少了。虽然唯一的单曲《[The
+First》和随后发行的作品有很大不同；相对于之后的作品，专辑更为重视[民谣金属](../Page/民谣金属.md "wikilink")和[原声](https://zh.wikipedia.org/wiki/原声乐 "wikilink")\[3\]。民谣声音在之后的专辑中或多或少的减少了。虽然唯一的单曲《[The
 Carpenter](../Page/The_Carpenter.md "wikilink")》排在了芬兰单曲榜的第三位，但夜愿在1998年第二张专辑《[Oceanborn](../Page/Oceanborn.md "wikilink")》发行后才获得国际声誉。
 
 ## 历史
@@ -23,7 +23,7 @@ Passion Greed》的背景咆哮声。
 
 截至2009年12月，《Angels Fall First》在芬兰售出超过36,000套\[6\]。
 
-专辑中的歌曲在现场演奏中越来越少，直到主唱[塔雅·图伦尼在](../Page/塔雅·图伦尼.md "wikilink")2005年10月离开乐队，新主唱[阿内特·奥尔松从来没有唱过该专辑的歌曲](https://zh.wikipedia.org/wiki/阿内特·奥尔松 "wikilink")。乐队特别是领导者兼键盘手托马斯·霍洛帕尼开始对专辑不悦。在2011年的采访中，当被问及霍洛帕尼想将哪张《[Imaginaerum](https://zh.wikipedia.org/wiki/Imaginaerum "wikilink")》以外的专辑做成电影时，他答道可能是《Angels
+专辑中的歌曲在现场演奏中越来越少，直到主唱[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")在2005年10月离开乐队，新主唱[阿内特·奥尔松从来没有唱过该专辑的歌曲](https://zh.wikipedia.org/wiki/阿内特·奥尔松 "wikilink")。乐队特别是领导者兼键盘手托马斯·霍洛帕尼开始对专辑不悦。在2011年的采访中，当被问及霍洛帕尼想将哪张《[Imaginaerum](https://zh.wikipedia.org/wiki/Imaginaerum "wikilink")》以外的专辑做成电影时，他答道可能是《Angels
 Fall First》，并称那可能是“一个黑白喜剧”\[7\]。
 
 ## 曲目列表

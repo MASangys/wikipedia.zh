@@ -1,4 +1,4 @@
-**Video4Linux**或**V4L**是一個及裝置輸出[API](../Page/应用程序接口.md "wikilink")，以及[Linux的驅動程式框架](../Page/Linux.md "wikilink")，支援很多[USB](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink")[摄像头](../Page/摄像头.md "wikilink")、以及其他裝置。Video4Linux與[Linux内核緊密整合](../Page/Linux内核.md "wikilink")，Video4Linux取名的靈感來自[Video
+**Video4Linux**或**V4L**是一個及裝置輸出[API](../Page/应用程序接口.md "wikilink")，以及[Linux](../Page/Linux.md "wikilink")的驅動程式框架，支援很多[USB](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink")[摄像头](../Page/摄像头.md "wikilink")、以及其他裝置。Video4Linux與[Linux内核](../Page/Linux内核.md "wikilink")緊密整合，Video4Linux取名的靈感來自[Video
 for
 Windows](../Page/Video_for_Windows.md "wikilink")（有時候會縮寫為“V4W”），但兩者在技術上並沒有任何關聯\[1\]\[2\]。
 

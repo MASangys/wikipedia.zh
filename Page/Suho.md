@@ -1,14 +1,12 @@
 **金俊勉**\[1\]（，，
-），藝名**Suho**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男藝人](https://zh.wikipedia.org/wiki/男藝人 "wikilink")，為韓國男子團體[EXO及韓國分隊](../Page/EXO.md "wikilink")[EXO-K的隊長](../Page/EXO-K.md "wikilink")，在隊中擔任總隊長、副領唱，虛構超能力為「**水**」。
+），藝名**Suho**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男藝人](https://zh.wikipedia.org/wiki/男藝人 "wikilink")，為韓國男子團體[EXO](../Page/EXO.md "wikilink")及韓國分隊[EXO-K](../Page/EXO-K.md "wikilink")的隊長，在隊中擔任總隊長、副領唱，虛構超能力為「**水**」。
 
 ## 簡介
 
-金俊勉的爸爸是一名大学教授，妈妈曾是一名教师，现为一名家庭主妇，从小就受到良好的教育与环境。家中有一位哥哥。
+金俊勉的爸爸是一名大学教授，也是新民黨成員之一，妈妈曾是一名教师，现为家庭主妇，金俊勉有一位哥哥。
 
-金俊勉通過2006年的SM Casting System而進入公司成為練習生。
-
-練習生的時間為大約七年，是隊内練習生時間最長的成員。
-他也是EXO成員中，唯一一位信奉[佛教的團員](../Page/佛教.md "wikilink")。
+金俊勉通過2006年的SM Casting
+System而進入公司成為練習生。練習生的時間為大約七年，是隊内練習生時間最長的成員。他也是EXO成員中唯一一位信奉[佛教](../Page/佛教.md "wikilink")的團員。
 
 ## 演藝經歷
 
@@ -16,7 +14,7 @@
 
 2012年2月15日，通過EXO官網公開預告影片首次與大眾見面。 2012年4月8日，Suho作為EXO以及EXO小分隊EXO-K的隊長出道。
 
-2013年12月，Suho與[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）和[申東燁一起為動畫片](../Page/申東燁.md "wikilink")《Saving
+2013年12月，Suho與[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）和[申東燁](../Page/申東燁.md "wikilink")一起為動畫片《Saving
 Santa》配音，Suho為主角Bernard配音。此外，Suho亦與鄭恩地一同為《Saving Santa》演唱OST。\[2\]
 
 2014年2月16日，Suho與[伯賢](../Page/伯賢.md "wikilink")、[光熙](../Page/光熙.md "wikilink")、李侑菲成為[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》的固定主持。同年12月14日，Suho和伯賢因要投入預備EXO明年初的回歸所以從節目下車。\[3\]
@@ -28,16 +26,16 @@ OZ》，並飾演Hans。該音樂劇由EXO成員[Xiumin](../Page/Xiumin.md "wiki
 Velvet成員[Seulgi擔綱演出](../Page/瑟琪.md "wikilink")。\[4\]
 
 2016年3月，Suho首部電影《[衝出不歸路](../Page/衝出不歸路.md "wikilink")》上映，Suho飾演放棄升學入伍的尚成宇\[5\]。7月，Suho與Super
-Junior的[利特和女歌手Kassy為](../Page/利特.md "wikilink")8月出戰巴西里約熱內盧奧運會的國家代表選手打氣，在SM
+Junior的[利特](../Page/利特.md "wikilink")和女歌手Kassy為8月出戰巴西里約熱內盧奧運會的國家代表選手打氣，在SM
 STATION發佈歌曲《My Hero》。\[6\]
 
 2017年1月，Suho擔任MBC獨幕劇「三色奇幻」的第一篇《[宇宙之星](../Page/宇宙之星.md "wikilink")》的男主角宇宙，同時亦為電視劇演唱OST《Starlight》\[7\]\[8\]。2月，Suho與宋英珠合作演唱《Curtain》，此曲為[SM
 STATION第一季最後一首歌曲](../Page/SM_STATION.md "wikilink")\[9\]。12月，Suho演出著名作品《The
 Last Kiss》並飾演男主角Rudolf\[10\]。
 
-2018年3月9-10日，Suho與[張才人合唱的歌曲](../Page/張才人.md "wikilink")《打擾一下可以嗎》和《Dinner》分別於Mystic
+2018年3月9-10日，Suho與[張才人](../Page/張才人.md "wikilink")合唱的歌曲《打擾一下可以嗎》和《Dinner》分別於Mystic
 Listen和SM
-STATION上發佈。5月9日，Suho與[夏沇秀](../Page/夏沇秀.md "wikilink")、[吳昶錫和](../Page/吳昶錫.md "wikilink")[金叡園等演員主演的電視劇](../Page/金叡園.md "wikilink")《[Rich
+STATION上發佈。5月9日，Suho與[夏沇秀](../Page/夏沇秀.md "wikilink")、[吳昶錫](../Page/吳昶錫.md "wikilink")和[金叡園](../Page/金叡園.md "wikilink")等演員主演的電視劇《[Rich
 Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的IT企業社長李有燦\[11\]。6月20日，Suho與金煥熙主演的電影《女中學生A》上映。Suho於《女中學生A》中飾演在熙，是女中學生美萊的網友\[12\]。7月，音樂劇《笑面人》開始公演，Suho飾演本是貴族卻自幼被賣入人販子手中，被殘忍毀容成為「笑面人」，流落江湖，一生悲慘的男主人公Gwynplaine（格溫普蘭）\[13\]。
 
 2019年5月，Suho擔任第13屆大邱國際音樂劇節（DIMF）宣傳大使\[14\]。

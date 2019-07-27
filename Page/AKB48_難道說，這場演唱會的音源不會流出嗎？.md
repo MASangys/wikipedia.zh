@@ -1,5 +1,5 @@
 **AKB48
-難道說，這場演唱會的音源不會流出嗎？**（）是日本女子偶像組合[AKB48在](../Page/AKB48.md "wikilink")2008年11月23日在[NHK會館舉辦的](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")\[1\]\[2\]。
+難道說，這場演唱會的音源不會流出嗎？**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2008年11月23日在[NHK會館舉辦的](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")\[1\]\[2\]。
 
 ## 概要
 
@@ -120,7 +120,7 @@
 
 ## DVD
 
-演唱會的[CD及](../Page/CD.md "wikilink")[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS在](../Page/AKS.md "wikilink")2008年12月27日發行\[17\]。CD收錄這次演唱會表演的歌曲，而DVD則收錄了演唱會及幕後花絮。此外，亦同時發售這次演唱會的80頁寫真集，隨寫真集附送5張大聲鑽石的生寫真\[18\]。
+演唱會的[CD](../Page/CD.md "wikilink")及[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")在2008年12月27日發行\[17\]。CD收錄這次演唱會表演的歌曲，而DVD則收錄了演唱會及幕後花絮。此外，亦同時發售這次演唱會的80頁寫真集，隨寫真集附送5張大聲鑽石的生寫真\[18\]。
 
 ## 参考資料
 

@@ -1,5 +1,5 @@
 《**ROUND
-3**》是韓國人氣男子組合[SS501隊長](../Page/SS501.md "wikilink")[金賢重](../Page/金賢重.md "wikilink")，於2013年7月29日由KEYEAST企劃、CJ
+3**》是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")，於2013年7月29日由KEYEAST企劃、CJ
 E\&M Music所發行的第三張個人迷你專輯。
 
 ## 專輯資訊
@@ -10,17 +10,17 @@ Party」韓語版本等六首曲目。此外，於專輯發售前日在韓國頻
 
 ### 發行過程
 
-本作於2013年7月8日正式宣布專輯發行訊息，在此前演唱者[金賢重亦於個人生日之際推出第二張韓語數位單曲](../Page/金賢重.md "wikilink")《[我活著的理由](../Page/我活著的理由_\(金賢重單曲\).md "wikilink")》為其暖身；同年7月2日其個人官方[FACEBOOK頁面更透露該日已進行最後錄音作業](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")\[1\]，而透過7月8日相關新聞內容得知金賢重該階段正準備專輯封面照和音樂錄影帶的拍攝工作。\[2\]隨後7月10日其經紀公司發出相關信息說明韓國歌手[朴宰范及](https://zh.wikipedia.org/wiki/朴宰范 "wikilink")[Dok2參與本作RAP歌詞及製作](../Page/Dok2.md "wikilink")\[3\]，並在其個人官方[社交網路服務](../Page/社交網路服務.md "wikilink")[網站公開練舞照](../Page/網站.md "wikilink")\[4\]，隔日隨即公布第二波形象照且釋出本作音樂製作、舞蹈編排、音樂錄影帶、封面拍攝等相關資訊。\[5\]緊接著7月12日其個人官方網站發布專輯預購、音源與實體發行日期及全輯曲目介紹等內容。\[6\]
+本作於2013年7月8日正式宣布專輯發行訊息，在此前演唱者[金賢重](../Page/金賢重.md "wikilink")亦於個人生日之際推出第二張韓語數位單曲《[我活著的理由](../Page/我活著的理由_\(金賢重單曲\).md "wikilink")》為其暖身；同年7月2日其個人官方[FACEBOOK頁面更透露該日已進行最後錄音作業](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")\[1\]，而透過7月8日相關新聞內容得知金賢重該階段正準備專輯封面照和音樂錄影帶的拍攝工作。\[2\]隨後7月10日其經紀公司發出相關信息說明韓國歌手[朴宰范及](https://zh.wikipedia.org/wiki/朴宰范 "wikilink")[Dok2](../Page/Dok2.md "wikilink")參與本作RAP歌詞及製作\[3\]，並在其個人官方[社交網路服務](../Page/社交網路服務.md "wikilink")[網站](../Page/網站.md "wikilink")公開練舞照\[4\]，隔日隨即公布第二波形象照且釋出本作音樂製作、舞蹈編排、音樂錄影帶、封面拍攝等相關資訊。\[5\]緊接著7月12日其個人官方網站發布專輯預購、音源與實體發行日期及全輯曲目介紹等內容。\[6\]
 7月15日其經紀公司亦表示：『在7月22日全面公開新專輯《ROUND
 3》前，將於7月18日中午率先公開專輯收錄的歌曲「Unbreakable」』\[7\]，同時為展現韓國文化之美選用韓國傳統面具－河回面具作為歌曲封面照，並於發布前（17日）公開本作專輯封面照。\[8\]全曲音源於7月22日公開且於同日至28日止接受專輯預購，7月29日始通過網路與實體唱片店面正式發售專輯。\[9\]特別，8月27日其個人官方網站宣布自8月28日起在Synnara、[教保文庫](https://zh.wikipedia.org/wiki/教保文庫 "wikilink")、aladdin、yes24等韓線上購物網進行本作限量版預購，發行日期訂定為9月3日。另臺灣獨占豪華限定版於同年8月16日展開預購；30日實體發售。
 
 #### 舞蹈
 
-本作首波主打「Unbreakable」是由曾為[亞瑟小子](https://zh.wikipedia.org/wiki/亞瑟小子 "wikilink")、[克莉絲汀·阿奎萊拉等全球流行巨星及金賢重歌曲](../Page/克莉絲汀·阿奎萊拉.md "wikilink")「Lucky
+本作首波主打「Unbreakable」是由曾為[亞瑟小子](https://zh.wikipedia.org/wiki/亞瑟小子 "wikilink")、[克莉絲汀·阿奎萊拉](../Page/克莉絲汀·阿奎萊拉.md "wikilink")等全球流行巨星及金賢重歌曲「Lucky
 Guy」編排舞蹈的頂級編舞家-Lyle Beniga\[10\]全權負責編排。\[11\]而另曲目「Your
 Story」的舞蹈編排則由曾為金賢重編排「Breakdown」、「Please」等歌曲的知名舞蹈家-Keone
 Madrid主導，此外，Keone
-Madrid亦於2013年3月15日個人[Twitter留下文字](../Page/Twitter.md "wikilink")：
+Madrid亦於2013年3月15日個人[Twitter](../Page/Twitter.md "wikilink")留下文字：
 
 > B1A4、2pm、Kim Hyun Joong& Daichi choreo to finish. Kpop/Jpop overload
 > yikes.
@@ -31,12 +31,12 @@ Madrid亦於2013年3月15日個人[Twitter留下文字](../Page/Twitter.md "wiki
 
 [Kumhyunjoong-EP_ROUND_3_Your_Story_MV.jpg](https://zh.wikipedia.org/wiki/File:Kumhyunjoong-EP_ROUND_3_Your_Story_MV.jpg "fig:Kumhyunjoong-EP_ROUND_3_Your_Story_MV.jpg")
 歌曲「Your Story」由Cho
-Su-Hyoun<small>（）</small>導演執導，其作品包含[PSY引爆全球熱潮的](../Page/PSY.md "wikilink")[江南style](https://zh.wikipedia.org/wiki/江南style "wikilink")、[Gentle
+Su-Hyoun<small>（）</small>導演執導，其作品包含[PSY](../Page/PSY.md "wikilink")引爆全球熱潮的[江南style](https://zh.wikipedia.org/wiki/江南style "wikilink")、[Gentle
 Man等](../Page/绅士_\(歌曲\).md "wikilink")，並於7月22與全輯音源同時發布影像預告，以白茫茫地大海為背景，著重於金賢重深情唱歌的畫面，影像亦使用水中拍攝技法拍攝出唯美的影像美，爾後於7月29日與專輯實體販售同步公開的完整版影像中金賢重與曾於2011年參與韓國版[超級名模生死鬥](https://zh.wikipedia.org/wiki/超級名模生死鬥 "wikilink")〈〉的參賽者Lee
 Seon-Young<small>（）</small>一同演繹親熱劇情，但因畫面過於煽情在韓遭判定爲限制級，而曾執導過[徐太志](../Page/徐太志.md "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[BEAST等音樂錄影帶的](https://zh.wikipedia.org/wiki/BEAST "wikilink")[Hong
 Won-K](http://twitter.com/HONGWK_B)<small>（）</small>導演則是負責歌曲「Unbreakable」的拍攝製作\[12\]且率先於7月18日透過演唱者金賢重及發行商CJ
 E\&M
-[Youtube官方頻道公開此投資三億韓圜製作費的大規模音樂錄影帶](https://zh.wikipedia.org/wiki/Youtube "wikilink")，畫面大量使用擊鼓、劍舞、面具、圖騰等帶有韓國傳統風味的素材並以黑與紅的色彩襯托影像華麗感，特別，舞劍女子是韓國男子團體－[infinite成員](https://zh.wikipedia.org/wiki/infinite "wikilink")[張東雨的胞姊以及片中出現的黑馬與公牛分別代表跑車品牌](../Page/張東雨.md "wikilink")[Ferrari與](https://zh.wikipedia.org/wiki/Ferrari "wikilink")[Lamborghini](https://zh.wikipedia.org/wiki/Lamborghini "wikilink")。
+[Youtube官方頻道公開此投資三億韓圜製作費的大規模音樂錄影帶](https://zh.wikipedia.org/wiki/Youtube "wikilink")，畫面大量使用擊鼓、劍舞、面具、圖騰等帶有韓國傳統風味的素材並以黑與紅的色彩襯托影像華麗感，特別，舞劍女子是韓國男子團體－[infinite成員](https://zh.wikipedia.org/wiki/infinite "wikilink")[張東雨](../Page/張東雨.md "wikilink")的胞姊以及片中出現的黑馬與公牛分別代表跑車品牌[Ferrari與](https://zh.wikipedia.org/wiki/Ferrari "wikilink")[Lamborghini](https://zh.wikipedia.org/wiki/Lamborghini "wikilink")。
 
 #### 造型
 
@@ -73,7 +73,7 @@ Jang-Hyun<small>（）</small>攝影師擔任。\[14\]
 2.  **Your Story**<small>（Feat.
     [Dok2](../Page/Dok2.md "wikilink")）</small>(主打曲)
       - 悲傷的歌詞與旋律，凸顯Urban
-        R\&B流行風格的歌曲。邀來韓國國內天才RAPPER[Dok2參與使其曲更為和諧](../Page/Dok2.md "wikilink")\[16\]，去年在Oricon公信榜獲得一位的金賢重正規一輯主打歌曲，與在日本公開的現代搖滾曲風不同，此是經過重新編曲誕生的新曲。
+        R\&B流行風格的歌曲。邀來韓國國內天才RAPPER[Dok2](../Page/Dok2.md "wikilink")參與使其曲更為和諧\[16\]，去年在Oricon公信榜獲得一位的金賢重正規一輯主打歌曲，與在日本公開的現代搖滾曲風不同，此是經過重新編曲誕生的新曲。
 3.  就像從前 (Like Before)<small>（）</small>
       - 是由為[Mary J.
         Blige作曲在](../Page/玛丽·布莱姬.md "wikilink")[葛萊美獲賞而廣為人知的Gen](https://zh.wikipedia.org/wiki/葛萊美 "wikilink")
@@ -86,7 +86,7 @@ Jang-Hyun<small>（）</small>攝影師擔任。\[14\]
 5.  I'm Yours
       - 融合細膩且清新的R\&B Pop曲風，包含著男子心動的告白。是為金賢重日本正規一輯收錄曲經重新混音後之新曲。
 6.  Let’s Party
-      - 是首使用合成琴樂產生的輕快節奏舞曲，由[李孝利](../Page/李孝利.md "wikilink")、[白智榮等歌手填詞而知名的Kim](../Page/白智榮.md "wikilink")
+      - 是首使用合成琴樂產生的輕快節奏舞曲，由[李孝利](../Page/李孝利.md "wikilink")、[白智榮](../Page/白智榮.md "wikilink")等歌手填詞而知名的Kim
         ji hyang作詞家填詞，歌詞講述勇敢向心儀女性表白的男人內心，與歌曲「I'm Yours」、「Your
         Story」一同收錄於金賢重日本正規1輯與第二張日本單曲《[HEAT](../Page/HEAT_\(金賢重單曲\).md "wikilink")》中。
 
@@ -137,7 +137,7 @@ Jang-Hyun<small>（）</small>攝影師擔任。\[14\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/社交網路服務.md" title="wikilink">社交網路服務榜</a></p></td>
+<td><p><a href="../Page/社交網路服務.md" title="wikilink">社交網路服務</a>榜</p></td>
 <td><p>2013/07/14/－07/20</p></td>
 <td><p>14</p></td>
 <td><p>25,868/Unbreakable<br />

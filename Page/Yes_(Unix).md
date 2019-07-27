@@ -12,7 +12,7 @@
 n`"）,这样就可以使一些需要用户交互的命令以非交互的形式运行。
 
 这种用法或许在今天已经过时，因为大多询问用户回应的命令都有‘force’参数（例如："[`rm`](../Page/Rm_\(Unix\).md "wikilink")`
--f `"），或者是‘assume-yes’参数（例如：[Debian及其衍生系统中的](../Page/Debian.md "wikilink")"[`apt-get`](https://zh.wikipedia.org/wiki/Advanced_Packaging_Tool "wikilink")`
+-f `"），或者是‘assume-yes’参数（例如：[Debian](../Page/Debian.md "wikilink")及其衍生系统中的"[`apt-get`](https://zh.wikipedia.org/wiki/Advanced_Packaging_Tool "wikilink")`
 -y `"）
 
 例如,下列命令：
@@ -37,7 +37,7 @@ n`"）,这样就可以使一些需要用户交互的命令以非交互的形式�
 
 将产生一个包含1000行的文件，其中的每一行都包含8个字符（1, 2, 3, 4, 5, 6, 7 与换行）
 
-2006年，`yes`命令因为用于测试用户的[MacBook是否受到了](../Page/MacBook.md "wikilink")[间歇性关机问题的影响而获得了一些知名度](https://zh.wikipedia.org/wiki/间歇性关机 "wikilink")。在[Mac
+2006年，`yes`命令因为用于测试用户的[MacBook](../Page/MacBook.md "wikilink")是否受到了[间歇性关机问题的影响而获得了一些知名度](https://zh.wikipedia.org/wiki/间歇性关机 "wikilink")。在[Mac
 OS
 X下通过在](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Terminal执行两次yes命令](https://zh.wikipedia.org/wiki/Terminal_\(Mac_OS_X\) "wikilink")，用户可以将他们计算机的CPU负载提升到最大，这样就可以检查间歇性关机错误是否是由于散热相关问题造成的。\[1\]
 \[2\]
@@ -46,7 +46,7 @@ X下通过在](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Terminal执行
 
 ## 外部链接
 
-  - [`yes`手册页](http://www.linuxmanpages.com/man1/yes.1.php)（[GNU版](../Page/GNU.md "wikilink")）
+  - [`yes`手册页](http://www.linuxmanpages.com/man1/yes.1.php)（[GNU](../Page/GNU.md "wikilink")版）
 
 [Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink")
 

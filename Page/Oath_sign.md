@@ -1,10 +1,10 @@
 《**oath
-sign**》是[LiSA的第](../Page/LiSA.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年11月23日由[Aniplex發售](../Page/Aniplex.md "wikilink")。
+sign**》是[LiSA](../Page/LiSA.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年11月23日由[Aniplex](../Page/Aniplex.md "wikilink")發售。
 
 ## 概要
 
 主打曲《oath
-sign》是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》的[主題曲之一](../Page/主題曲.md "wikilink")。發售形式分為通常盤、初回盤和期間限定盤3種，初回盤附有收錄了《oath
+sign》是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")之一。發售形式分為通常盤、初回盤和期間限定盤3種，初回盤附有收錄了《oath
 sign》[PV的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，動畫盤則收錄了《》和《oath
 sign》的電視播映版。
 

@@ -4,7 +4,7 @@ Eunhyuk的第一張日語正規專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md
 ## 簡介
 
 韓國男子組合[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫於](../Page/銀赫.md "wikilink")2014年2月26日在日本推出首張正式專輯《Ride
+Junior成員](../Page/Super_Junior.md "wikilink")[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")於2014年2月26日在日本推出首張正式專輯《Ride
 Me》，以《Motorcycle》作為主打歌曲。
 
 東海與銀赫在2012年及2013年推出日語單曲碟《[Oppa,

@@ -43,7 +43,7 @@ APU的首發產品是2011年初發佈的「Llano」核心。
   - 所有型號皆為原生雙核心/四核心
   - 所有型號處理器內集成[PCI-E 2.0控制器](../Page/PCI_Express.md "wikilink")
   - 部分型號支援AMD Turbo Core 加速技術
-  - 部分型號可與AMD[RadeonHD](../Page/Radeon.md "wikilink") 6450,
+  - 部分型號可與AMD[Radeon](../Page/Radeon.md "wikilink")HD 6450,
     6550,6570,6670獨立顯示卡進行[Hybrid
     CrossFireX](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
   - 部分型號為不建置內顯的處理器，以Athlon、Sempron命名
@@ -540,7 +540,7 @@ support</p></th>
 
 ### 第二代AMD APU，基於AMD Piledriver架構
 
-第二代A系列APU於2012年第二至第三季度分兩批上市，和流動平台一樣，但時間押後於流動平台，而且發布對象是[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，[零售市場則在](../Page/零售.md "wikilink")10月份推出。4月至6月首發型號有A10-5800K、A10-5700、A8-5600和A8-5500四款型號，CPU部分均為2模組4核心，4MB二級快取；7月至9月第二批上市的型號有A6-5400K和A4-5300，CPU部分均為單模組雙核心，以及1MB二級快取。
+第二代A系列APU於2012年第二至第三季度分兩批上市，和流動平台一樣，但時間押後於流動平台，而且發布對象是[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，[零售](../Page/零售.md "wikilink")市場則在10月份推出。4月至6月首發型號有A10-5800K、A10-5700、A8-5600和A8-5500四款型號，CPU部分均為2模組4核心，4MB二級快取；7月至9月第二批上市的型號有A6-5400K和A4-5300，CPU部分均為單模組雙核心，以及1MB二級快取。
 
 和桌上型主流級平台一樣，AMD Fusion
 A系列APU流動版本的核心代號為“Trinity”（三位一體），也分為A10、A8、A6和A4四大系列。其中A10、A8的CPU部分均為雙模組四核心，4MB
@@ -555,7 +555,7 @@ APU所替代，「Llano」A4 APU的位置被「Trinity」A6 APU所替代（實�
     製程由[GlobalFoundries代工](https://zh.wikipedia.org/wiki/GlobalFoundries "wikilink")
   - 所有型號處理器內集成[PCI-E 3.0控制器](../Page/PCI_Express.md "wikilink")
   - 部分型號支援AMD Turbo Core 加速技術
-  - 部分型號可與AMD[RadeonHD](../Page/Radeon.md "wikilink") 6450,
+  - 部分型號可與AMD[Radeon](../Page/Radeon.md "wikilink")HD 6450,
     6550,6570,6670獨立顯示卡進行[Hybrid
     CrossFireX](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
   - 部分型號為不建置內顯的處理器，以Athlon、Sempron命名
@@ -961,7 +961,7 @@ One的APU需求](../Page/Xbox_One.md "wikilink")，桌面級處理器便沒有�
 
 同樣採用格羅方德（GlobalFoundries）的32nm製程，但相比「Trinity」核心，工藝仍有所改進；基於Turbo Core
 3.0和PowerTune技術，還增加了Hybrid Boost / Temperature Smart Turbo
-Core（混合加速/溫度智慧動態加速），可根據核心溫度變化情況實時調整CPU和GPU的時脈與電壓。事實上，在製程不變及架構不變的情況下，提高核心時脈及效能而[功率不升高也是一種進步](../Page/功率.md "wikilink")。\[12\]\[13\]
+Core（混合加速/溫度智慧動態加速），可根據核心溫度變化情況實時調整CPU和GPU的時脈與電壓。事實上，在製程不變及架構不變的情況下，提高核心時脈及效能而[功率](../Page/功率.md "wikilink")不升高也是一種進步。\[12\]\[13\]
 
 <table>
 <caption>桌上版</caption>
@@ -1486,7 +1486,7 @@ support</p></th>
 
 隨著Bobcat 2.0的取消，[AMD
 Bobcat架構的繼任為新的](../Page/AMD_Bobcat.md "wikilink")[AMD
-Jagaur架構](https://zh.wikipedia.org/wiki/AMD_Jagaur "wikilink")，也是SoC系統單晶片設計，定位和Bobcat一致，面向[平板電腦裝置](../Page/平板電腦.md "wikilink")、超輕薄[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")、入門級PC以及超低功耗HTPC。採用台積電的28奈米HKMG製程。熱設計功耗在3到15瓦之間。內建採用GCN架構的顯示核心、[USB3.0控制器以及視頻轉碼器等](../Page/USB_3.0.md "wikilink")。CPU核心是原生四核心設計，雙核心產品將會從四核心的晶片上像英特爾首代Core處理器那樣屏蔽遮蔽一半的核心數來獲得。\[18\]
+Jagaur架構](https://zh.wikipedia.org/wiki/AMD_Jagaur "wikilink")，也是SoC系統單晶片設計，定位和Bobcat一致，面向[平板電腦](../Page/平板電腦.md "wikilink")裝置、超輕薄[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")、入門級PC以及超低功耗HTPC。採用台積電的28奈米HKMG製程。熱設計功耗在3到15瓦之間。內建採用GCN架構的顯示核心、[USB3.0控制器以及視頻轉碼器等](../Page/USB_3.0.md "wikilink")。CPU核心是原生四核心設計，雙核心產品將會從四核心的晶片上像英特爾首代Core處理器那樣屏蔽遮蔽一半的核心數來獲得。\[18\]
 
   - Xbox One與PS4就是使用該架構
 
@@ -2449,7 +2449,7 @@ A12-9720P[27][28]</p></td>
     [SSSE3](../Page/SSSE3.md "wikilink"),
     [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
     [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4a](../Page/SSE4.md "wikilink"),
+    [SSE4](../Page/SSE4.md "wikilink")a,
     [AMD64](../Page/X86-64.md "wikilink"),
     [AMD-V](../Page/X86虚拟化.md "wikilink"),
     [AES](https://zh.wikipedia.org/wiki/AES "wikilink"),
@@ -3780,7 +3780,7 @@ support</p></th>
 
   - 採用[Socket
     FT3b](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)腳位
-  - CPU基於[PUMA架構](../Page/PUMA.md "wikilink")
+  - CPU基於[PUMA](../Page/PUMA.md "wikilink")架構
   - 不帶內顯
 
 <table>

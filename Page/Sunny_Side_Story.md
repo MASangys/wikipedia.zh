@@ -15,7 +15,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
 4.  ♪Make Up Sweet Girl☆
 5.  Baby Baby Love
       - 作詞・作曲：鈴木健太朗、編曲：古川貴浩
-      - 動畫《[出包王女第](../Page/出包王女.md "wikilink")2季》片尾曲
+      - 動畫《[出包王女](../Page/出包王女.md "wikilink")第2季》片尾曲
 6.  やさしき日々
       - 作詞・作曲：白戸佑輔、編曲：木村篤史
 7.  ミライガール

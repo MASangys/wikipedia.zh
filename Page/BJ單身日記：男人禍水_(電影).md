@@ -1,9 +1,9 @@
-**《BJ單身日記：男人禍水》**（）是一部2004年的浪漫喜剧[电影](../Page/电影.md "wikilink")，导演是[碧芭·潔倫](https://zh.wikipedia.org/wiki/碧芭·潔倫 "wikilink")，根据[海伦·菲尔丁的](../Page/海伦·菲尔丁.md "wikilink")[同名小说改编](https://zh.wikipedia.org/wiki/B.J.的單身日記2─都是男人惹的禍 "wikilink")。由[蕾妮·齐薇格](../Page/蕾妮·齐薇格.md "wikilink")，[休·格兰特和](../Page/休·格兰特.md "wikilink")[哥連·費夫主演](https://zh.wikipedia.org/wiki/哥連·費夫 "wikilink")。这部电影是《[BJ单身日记](https://zh.wikipedia.org/wiki/BJ单身日记_\(电影\) "wikilink")》（2001）的续集。电影和原著小说的故事情节间有很大差异。电影由英国与法国，德国和爱尔兰合作制作。
+**《BJ單身日記：男人禍水》**（）是一部2004年的浪漫喜剧[电影](../Page/电影.md "wikilink")，导演是[碧芭·潔倫](https://zh.wikipedia.org/wiki/碧芭·潔倫 "wikilink")，根据[海伦·菲尔丁](../Page/海伦·菲尔丁.md "wikilink")的[同名小说改编](https://zh.wikipedia.org/wiki/B.J.的單身日記2─都是男人惹的禍 "wikilink")。由[蕾妮·齐薇格](../Page/蕾妮·齐薇格.md "wikilink")，[休·格兰特](../Page/休·格兰特.md "wikilink")和[哥連·費夫主演](https://zh.wikipedia.org/wiki/哥連·費夫 "wikilink")。这部电影是《[BJ单身日记](https://zh.wikipedia.org/wiki/BJ单身日记_\(电影\) "wikilink")》（2001）的续集。电影和原著小说的故事情节间有很大差异。电影由英国与法国，德国和爱尔兰合作制作。
 
 这部电影获得的评论大多數是负面的，儘管如此，這部電影票房還是成功，全球票房收入超過2.6億美元。
 \[1\]2011年8月11日正式宣布，电影的第三部確定开拍。\[2\]續集《[BJ有喜](../Page/BJ有喜.md "wikilink")》於2016年上映。
 
-儘管這部影片得到大多數評論家的負面評論，但它被評為2004年的“倫敦標準晚報讀者電影”，2005年[BAFTA評選的年度最佳橙色電影入圍名單](https://zh.wikipedia.org/wiki/BAFTA "wikilink")，[芮妮·齊薇格第二次演繹布莉琪](https://zh.wikipedia.org/wiki/芮妮·齊薇格 "wikilink")·瓊斯獲得的另一個[金球獎提名](../Page/金球獎.md "wikilink")，也是2005年[全美民選獎最受歡迎的女主角](https://zh.wikipedia.org/wiki/全美民選獎 "wikilink")。
+儘管這部影片得到大多數評論家的負面評論，但它被評為2004年的“倫敦標準晚報讀者電影”，2005年[BAFTA評選的年度最佳橙色電影入圍名單](https://zh.wikipedia.org/wiki/BAFTA "wikilink")，[芮妮·齊薇格第二次演繹布莉琪](https://zh.wikipedia.org/wiki/芮妮·齊薇格 "wikilink")·瓊斯獲得的另一個[金球獎](../Page/金球獎.md "wikilink")提名，也是2005年[全美民選獎最受歡迎的女主角](https://zh.wikipedia.org/wiki/全美民選獎 "wikilink")。
 
 這部影片在爛番茄上獲得27％的評價，其共識指出：“《BJ單身日記：男人禍水》故事是一個可預期的延續，有太多的鬧劇和愚蠢”。
 

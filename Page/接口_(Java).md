@@ -1,4 +1,4 @@
-**介面**（），在[Java程式語言中是一個](../Page/Java.md "wikilink")（Abstract
+**介面**（），在[Java](../Page/Java.md "wikilink")程式語言中是一個（Abstract
 Type），它被用來要求[類別](../Page/类_\(计算机科学\).md "wikilink")(Class)必須實作指定的方法，使不同類別的物件可以利用相同的界面進行溝通。介面通常以**`interface`**來宣告，它僅能包含[方法簽名](https://zh.wikipedia.org/wiki/方法簽名 "wikilink")（Method
 Signature）以及[常數宣告](https://zh.wikipedia.org/wiki/常數 "wikilink")（變數宣告包含了
 [`static`](https://zh.wikipedia.org/wiki/Static_variable#Static_Variables_as_Class_Variables "wikilink")
@@ -15,7 +15,7 @@ JAVA的類別可以被實作許多個介面，然而一個介面則無法實作�
 ## 概觀
 
 介面被用來統一類別的共通行為，當不同的類別需要進行資訊共享時，是不需要特別去建立類別間的關係。舉例來說，一個人（Human）及一隻鸚鵡（Parrot）都會吹口哨（whistle），然而`Human`及`Parrot`不應該為`Whistler`的子類別，最好的做法是令他們為`Animal`的子類別，而他們可以使用`Whistler`的介面進行溝通。
-還有一種介面的使用方法，則是當一個[物件有實現特定介面時](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")，我們使用它是不需要知道它的類別，例如，一個事物因為口哨的噪音影響到其他人，對於其他人而言，就不需要知道噪音來源是來自人還是鸚鵡，因為他們可以確定，一個會吹口哨的事物正在吹口哨。舉一個更實際的例子，[排序算法可能會期待物件的型別是可以被](../Page/排序算法.md "wikilink")的，於是它只需要知道物件的型別可以被以某種方式進行排序即可，這與物件的型別無關。`whistler.whistle()`將會呼叫物件的實現方法`whistle`，而不需要知道物件是以哪個類別來實現`Whistler`。
+還有一種介面的使用方法，則是當一個[物件有實現特定介面時](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")，我們使用它是不需要知道它的類別，例如，一個事物因為口哨的噪音影響到其他人，對於其他人而言，就不需要知道噪音來源是來自人還是鸚鵡，因為他們可以確定，一個會吹口哨的事物正在吹口哨。舉一個更實際的例子，[排序算法](../Page/排序算法.md "wikilink")可能會期待物件的型別是可以被的，於是它只需要知道物件的型別可以被以某種方式進行排序即可，這與物件的型別無關。`whistler.whistle()`將會呼叫物件的實現方法`whistle`，而不需要知道物件是以哪個類別來實現`Whistler`。
 
 例如：
 
@@ -78,7 +78,7 @@ public class Lion implements Predator {
  public class Frog implements Predator, Prey { ... }
 ```
 
-介面通常被使用在Java程式語言，用來做[回调函数使用](../Page/回调函数.md "wikilink")\[2\]
+介面通常被使用在Java程式語言，用來做[回调函数](../Page/回调函数.md "wikilink")使用\[2\]
 。Java並不允许方法作為參數傳遞使用，因此，其中一個解決辦法則是可以定義一個介面，把這個介面當成方法的參數，以此來使用該項物件的方法簽名。
 
 ### 子介面
@@ -97,13 +97,13 @@ prey)`，當一個類別實現`VenomousPredator`的時候，它將同時實現�
 
 ## 範例
 
-有些泛用的[Java介面可供參考](../Page/Java.md "wikilink")：
+有些泛用的[Java](../Page/Java.md "wikilink")介面可供參考：
 
-  - 擁有一個方法，用以描述兩個物件是否相等，或是其中一個物件大於另外一個物件。[泛型允許已經實現的類別](../Page/泛型.md "wikilink")，其物件可以用來互相比較。
+  - 擁有一個方法，用以描述兩個物件是否相等，或是其中一個物件大於另外一個物件。[泛型](../Page/泛型.md "wikilink")允許已經實現的類別，其物件可以用來互相比較。
 
   - 是一個[marker
     interface](https://zh.wikipedia.org/wiki/marker_interface "wikilink")
-    沒有任何介面或是欄位，僅有一個空的主體，它被用來表示一個類別可以被[序列化](../Page/序列化.md "wikilink")。它的[Javadoc描述了他是如何運作](../Page/Javadoc.md "wikilink")，而且不需要被強制編程。
+    沒有任何介面或是欄位，僅有一個空的主體，它被用來表示一個類別可以被[序列化](../Page/序列化.md "wikilink")。它的[Javadoc](../Page/Javadoc.md "wikilink")描述了他是如何運作，而且不需要被強制編程。
 
 ## 另見
 

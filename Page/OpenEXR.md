@@ -1,13 +1,13 @@
-**OpenEXR**，或简称为exr格式，是一种[开放标准的](https://zh.wikipedia.org/wiki/开放标准 "wikilink")[高动态范围](../Page/高动态范围成像.md "wikilink")[图像格式](../Page/图形文件格式比较.md "wikilink")，在[计算机图形学里被广泛用于存储图像数据](../Page/计算机图形学.md "wikilink")，但也可以存储一些后期合成处理所需的数据。OpenEXR最早由[工业光魔开发](https://zh.wikipedia.org/wiki/工业光魔 "wikilink")，并在一个类似[BSD许可证的](../Page/BSD许可证.md "wikilink")[自由软件许可证下发布](https://zh.wikipedia.org/wiki/自由软件许可证 "wikilink")，其发布的软件包里带有一些处理exr图像格式的工具。\[1\]
+**OpenEXR**，或简称为exr格式，是一种[开放标准的](https://zh.wikipedia.org/wiki/开放标准 "wikilink")[高动态范围](../Page/高动态范围成像.md "wikilink")[图像格式](../Page/图形文件格式比较.md "wikilink")，在[计算机图形学](../Page/计算机图形学.md "wikilink")里被广泛用于存储图像数据，但也可以存储一些后期合成处理所需的数据。OpenEXR最早由[工业光魔开发](https://zh.wikipedia.org/wiki/工业光魔 "wikilink")，并在一个类似[BSD许可证](../Page/BSD许可证.md "wikilink")的[自由软件许可证下发布](https://zh.wikipedia.org/wiki/自由软件许可证 "wikilink")，其发布的软件包里带有一些处理exr图像格式的工具。\[1\]
 
 最早使用OpenEXR格式的电影，是[哈利·波特与魔法石](https://zh.wikipedia.org/wiki/哈利·波特与魔法石_\(电影\) "wikilink")，从那以后，OpenEXR成了[-{zh-cn:工业光魔;zh-tw:光影魔幻工業;}-主要使用的](../Page/光影魔幻工業.md "wikilink")[图像文件格式](https://zh.wikipedia.org/wiki/图像文件格式 "wikilink")，工业光魔所有正在制作的影片都用到了这个图像格式。\[2\]
 
-OpenEXR的多级分辨率和任意数据通道存储使其非常适合用于合成，它能把高光（specular）、漫射（diffuse）、阴影、[Alpha通道](https://zh.wikipedia.org/wiki/Alpha通道 "wikilink")、[RGB](../Page/三原色光模式.md "wikilink")、[法线和其他对后期合成有用的数据存储于一个文件里](../Page/法线.md "wikilink")，如果对三维渲染出来的图像画面高光或漫射不满意，合成师可以根据导演要求在合成软件里对指定的通道进行调整。
+OpenEXR的多级分辨率和任意数据通道存储使其非常适合用于合成，它能把高光（specular）、漫射（diffuse）、阴影、[Alpha通道](https://zh.wikipedia.org/wiki/Alpha通道 "wikilink")、[RGB](../Page/三原色光模式.md "wikilink")、[法线](../Page/法线.md "wikilink")和其他对后期合成有用的数据存储于一个文件里，如果对三维渲染出来的图像画面高光或漫射不满意，合成师可以根据导演要求在合成软件里对指定的通道进行调整。
 
 ## OpenEXR特性
 
 可存储比常规的8位和10位图像格式更高的动态范围和颜色精度。
-支持16位[浮点数](../Page/浮点数.md "wikilink")、32位浮点数和32位整数的像素颜色值。16位浮点数格式，工业光魔称之为[半浮点数](../Page/半精度浮点数.md "wikilink")，它表示的颜色数值，由一个符号位，五个指数位和十个浮点数位组成，这使其能存储超过30级[曝光的动态图像亮度范围](../Page/焦比.md "wikilink")，它和[英伟达的](../Page/英伟达.md "wikilink")[Cg语言的半浮点数类型兼容](https://zh.wikipedia.org/wiki/Cg语言 "wikilink")，并且他们最新的[GeForce
+支持16位[浮点数](../Page/浮点数.md "wikilink")、32位浮点数和32位整数的像素颜色值。16位浮点数格式，工业光魔称之为[半浮点数](../Page/半精度浮点数.md "wikilink")，它表示的颜色数值，由一个符号位，五个指数位和十个浮点数位组成，这使其能存储超过30级[曝光的动态图像亮度范围](../Page/焦比.md "wikilink")，它和[英伟达](../Page/英伟达.md "wikilink")的[Cg语言的半浮点数类型兼容](https://zh.wikipedia.org/wiki/Cg语言 "wikilink")，并且他们最新的[GeForce
 FX和](https://zh.wikipedia.org/wiki/GeForce_FX "wikilink")[Quadro
 FX](../Page/Quadro_FX.md "wikilink")
 3D[图形卡也内置支持exr格式](https://zh.wikipedia.org/wiki/图形卡 "wikilink")。
@@ -24,7 +24,7 @@ OpenEXR内置三种无损压缩算法，包括两种不同的[zip压缩算法](h
     [zip](../Page/ZIP格式.md "wikilink")（单行）: 对单行像素信息使用zip方式的压缩。
     zip（16行像素块）: 这是对16行像素块进行的zip方式压缩，对胶片噪点不多的计算机绘制图像是最有效的压缩算法。
     PIZ（[小波压缩](../Page/小波分析.md "wikilink")）:
-    这是一种新的结合小波和[霍夫曼编码的压缩算法](../Page/霍夫曼编码.md "wikilink")，对噪点比较多的图像最为有效。
+    这是一种新的结合小波和[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")的压缩算法，对噪点比较多的图像最为有效。
     PXR24（24位数据转换后再进行zip压缩）:
     这个来自皮克斯的压缩算法，先把数据转换为24位，再进行zip压缩，它对于16位和32位整数值数据是无损的，但对于32位浮点数据则有轻微损失。
     B44: 这对半浮点数数据是有损的，对32位浮点数据则不进行压缩。
@@ -52,7 +52,7 @@ OpenEXR由工业光魔于2000年开发，并于2003年公开发布。\[4\]
 
 2013年4月9日，工业光魔和[-{zh-tw:Weta數位;zh-cn:维塔数码;zh-hk:維塔數碼;}-一起发布了OpenEXR](../Page/维塔数码.md "wikilink")
 2.0版。除了测试版引入的新功能外，OpenEXR
-2.0还引入了名字空间支持，以避免不同软件包不同文件版本之间的冲突。有多家公司对这个版本的OpenEXR做出了贡献，[皮克斯在](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[微软公共许可证下贡献出了他们的DtexToExr转换工具代码](../Page/共享源代码.md "wikilink")，排除了可能的专利争议；[Autodesk为实时后期制作流程提供了优化](../Page/Autodesk.md "wikilink")。\[6\]
+2.0还引入了名字空间支持，以避免不同软件包不同文件版本之间的冲突。有多家公司对这个版本的OpenEXR做出了贡献，[皮克斯在](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[微软公共许可证下贡献出了他们的DtexToExr转换工具代码](../Page/共享源代码.md "wikilink")，排除了可能的专利争议；[Autodesk](../Page/Autodesk.md "wikilink")为实时后期制作流程提供了优化。\[6\]
 
 ## 参考资料
 

@@ -3,10 +3,10 @@
 
 ## 概要
 
-  - 由[AKB48的Team](../Page/AKB48.md "wikilink") A（第1話）、Team K（第2話）、Team
+  - 由[AKB48](../Page/AKB48.md "wikilink")的Team A（第1話）、Team K（第2話）、Team
     B（第3話）的成員出演1話完結的電視劇3夜連續播放。
   - 在「你會為AKB48哭泣嗎」的概念下，以喜悅的淚水、悲傷的淚水、憤怒的淚水、幸福的淚水等的故事構成。
-  - 第3夜播放後直播的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》内利用[數碼播放](https://zh.wikipedia.org/wiki/數碼播放 "wikilink")，觀眾能進行投票選出「最好的作品」和「最好演技的成員」\[1\]。優勝隊伍能獲得2013年4月開始在日本電視台播放的由[福田雄一導演與編劇的](../Page/福田雄一.md "wikilink")[喜劇作品演出權](../Page/喜劇.md "wikilink")。投票的結果，最優秀女優賞是[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")，最優秀作品賞是第3夜（Team
+  - 第3夜播放後直播的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》内利用[數碼播放](https://zh.wikipedia.org/wiki/數碼播放 "wikilink")，觀眾能進行投票選出「最好的作品」和「最好演技的成員」\[1\]。優勝隊伍能獲得2013年4月開始在日本電視台播放的由[福田雄一](../Page/福田雄一.md "wikilink")導演與編劇的[喜劇](../Page/喜劇.md "wikilink")作品演出權。投票的結果，最優秀女優賞是[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")，最優秀作品賞是第3夜（Team
     B），而作為優勝獎勵的，則是自4月13日開播的Team
     B冠名綜藝節目《[週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")》（）。
 
@@ -467,7 +467,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分縣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大分電視台" title="wikilink">大分電視台</a>（TOS）</p></td>
-<td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網系列局</a>／日本電視台系列局</p></td>
+<td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網</a>系列局／日本電視台系列局</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宮崎縣.md" title="wikilink">宮崎縣</a></p></td>

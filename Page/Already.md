@@ -1,5 +1,5 @@
 《**already**》是[Not
-yet的第](../Page/Not_yet.md "wikilink")1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[日本古倫美亞于](../Page/日本古倫美亞.md "wikilink")2014年4月23日发行\[1\]。
+yet的第](../Page/Not_yet.md "wikilink")1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")于2014年4月23日发行\[1\]。
 
 ## 简介
 

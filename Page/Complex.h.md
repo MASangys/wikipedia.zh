@@ -2,7 +2,7 @@
 
 ## 类型
 
-[C99及](https://zh.wikipedia.org/wiki/C99 "wikilink")[C++11都规定了](../Page/C++11.md "wikilink")[关键字](https://zh.wikipedia.org/wiki/关键字 "wikilink")</code>_Complex</code>。因而有3种复数类型：
+[C99及](https://zh.wikipedia.org/wiki/C99 "wikilink")[C++11](../Page/C++11.md "wikilink")都规定了[关键字](https://zh.wikipedia.org/wiki/关键字 "wikilink")</code>_Complex</code>。因而有3种复数类型：
 
   - `double _Complex`
   - `float _Complex`

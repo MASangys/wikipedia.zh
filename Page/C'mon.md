@@ -1,4 +1,4 @@
-《**C'mon**》是日本摇滚组合[B'z的的第十八张录音室专辑](../Page/B'z.md "wikilink")。2011年7月27日由[VERMILLION
+《**C'mon**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十八张录音室专辑。2011年7月27日由[VERMILLION
 RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約38.6萬張。
@@ -24,7 +24,7 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 ## 主題曲
 
   - 主打歌「C'mon」被選為[百事可樂](../Page/百事可樂.md "wikilink")「Pepsi
-    NEX」[廣告歌](../Page/廣告.md "wikilink")。
+    NEX」[廣告](../Page/廣告.md "wikilink")歌。
 
 ## 参考文献
 

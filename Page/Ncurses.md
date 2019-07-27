@@ -1,17 +1,17 @@
 **`ncurses`**（**n**ew
-**curses**）是一个[程序库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，它提供了[API](../Page/应用程序接口.md "wikilink")，可以允许程序员编写独立于终端的。它是一个[虚拟终端中的](../Page/虚拟终端.md "wikilink")“类[GUI](../Page/图形用户界面.md "wikilink")”[应用软件工具箱](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它还优化了屏幕刷新方法，以减少使用远程[shell时遇到的](../Page/Unix_shell.md "wikilink")[延迟](../Page/延迟_\(工程学\).md "wikilink")。
+**curses**）是一个[程序库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，它提供了[API](../Page/应用程序接口.md "wikilink")，可以允许程序员编写独立于终端的。它是一个[虚拟终端](../Page/虚拟终端.md "wikilink")中的“类[GUI](../Page/图形用户界面.md "wikilink")”[应用软件工具箱](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它还优化了屏幕刷新方法，以减少使用远程[shell时遇到的](../Page/Unix_shell.md "wikilink")[延迟](../Page/延迟_\(工程学\).md "wikilink")。
 
 ## 历史
 
 **n**curses中的*n*来源于单词***n**ew*。这是因为ncurses是System
-V第4.0版（SVr4）中[`curses`](https://zh.wikipedia.org/wiki/curses_\(库\) "wikilink")的[自由软件克隆](../Page/自由软件.md "wikilink"),
+V第4.0版（SVr4）中[`curses`](https://zh.wikipedia.org/wiki/curses_\(库\) "wikilink")的[自由软件](../Page/自由软件.md "wikilink")克隆,
 而那又是停止开发的4.4 BSD curses的增强版。\[1\]System
 V严格遵守了[X/Open发布的XSI](https://zh.wikipedia.org/wiki/X/Open "wikilink")
 Curses标准。
 
 ### curses
 
-1980年左右，加州大学伯克利分校为[BSD操作系统开发了最初的curses库](../Page/BSD.md "wikilink")，以支持面向屏幕的游戏。它最初使用了[termcap库](https://zh.wikipedia.org/wiki/termcap "wikilink")，其他程序，如[vi编辑器中也使用了这个库](https://zh.wikipedia.org/wiki/vi "wikilink")。\[2\]
+1980年左右，加州大学伯克利分校为[BSD](../Page/BSD.md "wikilink")操作系统开发了最初的curses库，以支持面向屏幕的游戏。它最初使用了[termcap库](https://zh.wikipedia.org/wiki/termcap "wikilink")，其他程序，如[vi编辑器中也使用了这个库](https://zh.wikipedia.org/wiki/vi "wikilink")。\[2\]
 
 BSD curses库的成功促使贝尔实验室在他们的System III和System
 V第1版[Unix系统中](https://zh.wikipedia.org/wiki/Unix "wikilink")，发布增强的curses库。这个库功能更强大，而且它用[terminfo代替了termcap](https://zh.wikipedia.org/wiki/terminfo "wikilink")。然而，由于[AT\&T的源代码分发政策](https://zh.wikipedia.org/wiki/美国电话电报公司 "wikilink")，改进的curses库并没有被BSD社区广泛接受。\[3\]
@@ -25,7 +25,7 @@ Curtis）开发了贝尔实验室curses的[免费软件克隆](https://zh.wikipe
 
 1991年年底时，在Zeyd Ben-Halim的努力下，pcurses库得到了进一步改善。\[5\]\[6\]\[7\]
 1993年11月，新库以名字**ncurses**发布了，它的首个主版本为1.8.1。
-随后版本1.8.8（1995）的工作由[埃里克·雷蒙主导](../Page/埃里克·雷蒙.md "wikilink")，他添加了Juergen
+随后版本1.8.8（1995）的工作由[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")主导，他添加了Juergen
 Pfeifer编写的表单和菜单库。\[8\]1996年起，它一直由[Thomas E.
 Dickey维护](https://zh.wikipedia.org/wiki/Thomas_Dickey "wikilink")。\[9\]
 
@@ -41,7 +41,7 @@ Ncurses可以使用[terminfo](https://zh.wikipedia.org/wiki/terminfo "wikilink")
 Ncurses是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")。
 它是极少数不在[GNU
 GPL或](../Page/GNU通用公共许可证.md "wikilink")[LGPL下分发的GNU文件](../Page/GNU宽通用公共许可证.md "wikilink")；它是在一个类似于[MIT许可证的](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[宽自由软件许可证下分发的](https://zh.wikipedia.org/wiki/宽自由软件许可证 "wikilink")。\[12\]
-这是由于在开发者指定版权时，协议是由[自由软件基金会起草的](../Page/自由软件基金会.md "wikilink")。
+这是由于在开发者指定版权时，协议是由[自由软件基金会](../Page/自由软件基金会.md "wikilink")起草的。
 
 在签署协议以将权利交给FSF时，有条款写道：
 
@@ -85,7 +85,7 @@ Commander和](https://zh.wikipedia.org/wiki/Midnight_Commander "wikilink")[YaST]
 ### 编程介绍
 
   - “[Writing Programs with
-    NCURSES](http://invisible-island.net/ncurses/ncurses-intro.html)”，[埃里克·雷蒙和](../Page/埃里克·雷蒙.md "wikilink")[Zeyd
+    NCURSES](http://invisible-island.net/ncurses/ncurses-intro.html)”，[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")和[Zeyd
     M.
     Ben-Halim](https://zh.wikipedia.org/wiki/Zeyd_M._Ben-Halim "wikilink")
   - [ncurses Programming

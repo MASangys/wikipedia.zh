@@ -1,5 +1,5 @@
 「**THANKS
-TO**」是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第](../Page/FTIsland.md "wikilink")1枚特別迷你專輯。於2013年9月23日發行。唱片公司為[FNC
+TO**」是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第1枚特別迷你專輯。於2013年9月23日發行。唱片公司為[FNC
 Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
 
 ## 概要

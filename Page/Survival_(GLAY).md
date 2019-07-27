@@ -1,4 +1,4 @@
-[GLAY的第一張影像單曲](../Page/GLAY.md "wikilink")。
+[GLAY](../Page/GLAY.md "wikilink")的第一張影像單曲。
 
 ## 簡介
 

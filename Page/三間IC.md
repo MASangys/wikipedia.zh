@@ -1,4 +1,4 @@
-**三間IC**（平假名：みまインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[宇和島市的](../Page/宇和島市.md "wikilink")[松山自動車道之](../Page/松山自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**三間IC**（平假名：みまインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[宇和島市](../Page/宇和島市.md "wikilink")的[松山自動車道](../Page/松山自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -22,7 +22,7 @@
   - [三間道之驛](https://zh.wikipedia.org/wiki/三間道之驛 "wikilink")
   - [務田站](../Page/務田站.md "wikilink")（[JR](../Page/四國旅客鐵道.md "wikilink")[予土線](../Page/予土線.md "wikilink")）
   - [伊予宮野下駅](https://zh.wikipedia.org/wiki/伊予宮野下駅 "wikilink")（JR予土線）
-  - [龍光寺](https://zh.wikipedia.org/wiki/龍光寺_\(宇和島市\) "wikilink")（[四国八十八箇所](https://zh.wikipedia.org/wiki/四国八十八箇所 "wikilink")[靈場第四十一號禮所](../Page/靈場.md "wikilink")）
+  - [龍光寺](https://zh.wikipedia.org/wiki/龍光寺_\(宇和島市\) "wikilink")（[四国八十八箇所](https://zh.wikipedia.org/wiki/四国八十八箇所 "wikilink")[靈場](../Page/靈場.md "wikilink")第四十一號禮所）
   - [佛木寺](https://zh.wikipedia.org/wiki/佛木寺 "wikilink")（四國八十八箇所靈場第四十二號禮所）
   - [愛媛縣立三間高等學校](https://zh.wikipedia.org/wiki/愛媛縣立三間高等學校 "wikilink")
 

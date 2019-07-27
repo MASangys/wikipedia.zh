@@ -1,5 +1,5 @@
 **guyzware
-Inc.(有限会社ガイズウェア)**是[日本的](../Page/日本.md "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[開發](https://zh.wikipedia.org/wiki/開發 "wikilink")[公司](../Page/公司.md "wikilink")。
+Inc.(有限会社ガイズウェア)**是[日本](../Page/日本.md "wikilink")的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[開發](https://zh.wikipedia.org/wiki/開發 "wikilink")[公司](../Page/公司.md "wikilink")。
 
 ## 作品一覧
 

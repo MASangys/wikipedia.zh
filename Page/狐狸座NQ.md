@@ -1,5 +1,5 @@
 **狐狸座NQ**（**NQ
-Vulpeculae**）是一颗位于[狐狸座的](../Page/狐狸座.md "wikilink")[新星](../Page/新星.md "wikilink")，1976年爆发。爆发时最亮[视星等为](../Page/视星等.md "wikilink")6等（10月21日）。
+Vulpeculae**）是一颗位于[狐狸座](../Page/狐狸座.md "wikilink")的[新星](../Page/新星.md "wikilink")，1976年爆发。爆发时最亮[视星等](../Page/视星等.md "wikilink")为6等（10月21日）。
 
 ## 天球坐标
 

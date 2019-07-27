@@ -1,5 +1,5 @@
 《**If...Kelvin
-Kwan**》（又稱為《**首張同名專輯**》）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關楚耀的首張專輯](../Page/關楚耀.md "wikilink")，在2006年10月11日推出。專輯第一主打是《十年樹木》，第二主打則為與[譚詠麟合唱的](../Page/譚詠麟.md "wikilink")《大喊包》。
+Kwan**》（又稱為《**首張同名專輯**》）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關楚耀](../Page/關楚耀.md "wikilink")的首張專輯，在2006年10月11日推出。專輯第一主打是《十年樹木》，第二主打則為與[譚詠麟](../Page/譚詠麟.md "wikilink")合唱的《大喊包》。
 
 ## 曲目
 

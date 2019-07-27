@@ -1,4 +1,4 @@
-**propeller**（プロペラ）為[WillPlus有限公司旗下的品牌](../Page/WillPlus.md "wikilink")、軟體製作位置為東京開發室。
+**propeller**（プロペラ）為[WillPlus](../Page/WillPlus.md "wikilink")有限公司旗下的品牌、軟體製作位置為東京開發室。
 
 ## 歷史
 

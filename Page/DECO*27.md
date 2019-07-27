@@ -1,10 +1,10 @@
-**DECO\*27**（，）為[日本的](../Page/日本.md "wikilink")[男性音樂創作家](../Page/男性.md "wikilink")。[福岡縣人](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。所屬事務所為，唱片公司為。
+**DECO\*27**（，）為[日本](../Page/日本.md "wikilink")的[男性](../Page/男性.md "wikilink")音樂創作家。[福岡縣人](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。所屬事務所為，唱片公司為。
 
 ## 概要
 
-特色為融合[搖滾樂和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[電子音樂的元素](../Page/電子音樂.md "wikilink")，歌詞概念則表現出各式各樣對戀人、朋友、家庭、甚或自身的愛情。
+特色為融合[搖滾樂和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")的元素，歌詞概念則表現出各式各樣對戀人、朋友、家庭、甚或自身的愛情。
 名稱是從「凸額頭」的凸（・Deco）而來，數字則是因為喜歡「２」跟幸運數字「７」而決定，為了將英文和數字結合在一起而成加入＊符號，成為了「DECO\*27」。\[1\]
-十三歲時受到父親的影響開始學吉他，一年後開始獨自作曲。\[2\]在參與樂團活動時，於2007年在友人推薦下瀏覽[Niconico動畫網站](../Page/Niconico動畫.md "wikilink")，偶然看見[livetune用初音未來所創作的歌曲](https://zh.wikipedia.org/wiki/livetune "wikilink")「Packaged」，從此展開VOCALOID創作。\[3\]\[4\]
+十三歲時受到父親的影響開始學吉他，一年後開始獨自作曲。\[2\]在參與樂團活動時，於2007年在友人推薦下瀏覽[Niconico動畫](../Page/Niconico動畫.md "wikilink")網站，偶然看見[livetune用初音未來所創作的歌曲](https://zh.wikipedia.org/wiki/livetune "wikilink")「Packaged」，從此展開VOCALOID創作。\[3\]\[4\]
 DECO\*27的曲子在網路上獲得一定人氣後，於2010年四月發表了自主製作的專輯。\[5\]在發現初音未來之前一直沒有找到適合自己曲風的歌手，而在網路上活動之後，逐漸找到適合人選，開始陸續發表原創曲目。\[6\]
 最初使用VOCALOID中的初音未來進行創作。受到[sasakure.UK於](https://zh.wikipedia.org/wiki/sasakure.UK "wikilink")2010年3月發售的的專輯收錄曲的影響，也開始使用[Megpoid](../Page/Megpoid.md "wikilink")。\[7\]
 Deco\*27在2010年7月使用Megpoid發表的歌曲「モザイクロール」獲得絕大人氣，網路達到百萬點閱率，給予「Megpoid」本身的軟體銷量和爆紅都有相當大的影響。\[8\]
@@ -520,7 +520,7 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
   - 『[valuable
     sheaves](https://zh.wikipedia.org/wiki/valuable_sheaves "wikilink")』（、2010年3月24日發售）
 
-      - [VALSHE的專輯](../Page/VALSHE.md "wikilink")。提供「二息歩行」。
+      - [VALSHE](../Page/VALSHE.md "wikilink")的專輯。提供「二息歩行」。
 
   - 『[初音ミク -Project DIVA- 2nd NONSTOP MIX
     COLLECTION](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA-_2nd_NONSTOP_MIX_COLLECTION "wikilink")』（[ソニー・ミュージックダイレクト](../Page/Sony_Music_Direct.md "wikilink")、2010年7月28日發售）
@@ -536,7 +536,7 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 
   - 「防衛本脳／Evidence」（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、2011年4月20日發售）
 
-      - [Daisy×Daisy的單曲](../Page/Daisy×Daisy.md "wikilink")。擔當「」製造。
+      - [Daisy×Daisy](../Page/Daisy×Daisy.md "wikilink")的單曲。擔當「」製造。
 
   - 『サオリリス 歌ってみた 初音ミク』（ソニー・ミュージックダイレクト、2011年4月27日発売）
 
@@ -544,7 +544,7 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 
   - 『[1PIKO](https://zh.wikipedia.org/wiki/1PIKO "wikilink")』（、2011年5月11日發售）
 
-      - [Piko的專輯](../Page/Piko.md "wikilink")。提供「」。
+      - [Piko](../Page/Piko.md "wikilink")的專輯。提供「」。
 
   - 『SUPER VOCALO BEAT』（ドワンゴ・ミュージックエンタテインメント、2011年6月1日發售）
 
@@ -596,11 +596,11 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 
   - 『』（Flying DOG、2012年3月28日發售）
 
-      - [悠木碧的專輯](../Page/悠木碧.md "wikilink")。擔當「」、「」的作詞作曲。
+      - [悠木碧](../Page/悠木碧.md "wikilink")的專輯。擔當「」、「」的作詞作曲。
 
   - 「愛言葉」（SME、2012年3月28日發售）
 
-      - [佐香智久的單曲](../Page/佐香智久.md "wikilink")。提供「」。
+      - [佐香智久](../Page/佐香智久.md "wikilink")的單曲。提供「」。
 
   - 『そらあい』（EXIT TUNES、2012年6月6日發售）
 

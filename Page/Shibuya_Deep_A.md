@@ -9,7 +9,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
     22:30 - 0:00
   - 2008年4月4日 - 2011年3月4日
     BS2 23:00 - 0:00（不定期延長30分鐘）
-    [ワンセグ2](https://zh.wikipedia.org/wiki/NHKワンセグ2 "wikilink")（Eテレ・[1seg播放差替](../Page/1seg.md "wikilink")）在2010年4月5日播放、「延長戦」。
+    [ワンセグ2](https://zh.wikipedia.org/wiki/NHKワンセグ2 "wikilink")（Eテレ・[1seg](../Page/1seg.md "wikilink")播放差替）在2010年4月5日播放、「延長戦」。
   - 重播（BShi）
     2010年4月5日 - 2011年3月7日：17:00 - 18:00
   - 2011年4月16日 - 2012年3月31日

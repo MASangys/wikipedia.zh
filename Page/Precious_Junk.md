@@ -1,10 +1,10 @@
 《**Precious
-Junk**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年5月13日發行。
+Junk**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年5月13日發行。
 
 ## 概述
 
   - [平井堅](../Page/平井堅.md "wikilink")1995年出道的首張單曲。
-  - [山口智子主演日劇](../Page/山口智子.md "wikilink")《奇蹟餐廳》主題歌。
+  - [山口智子](../Page/山口智子.md "wikilink")主演日劇《奇蹟餐廳》主題歌。
   - 以索尼的大型創作新人出道，不過首週只在Oricon取得67位的名次。最高曾獲得50位。
   - 2000年10月1日重新發行CD版。
 

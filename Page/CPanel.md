@@ -12,7 +12,7 @@ cPanel
 的發展公司是成立於1997年的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[休士頓](https://zh.wikipedia.org/wiki/休士頓 "wikilink")
 cPanel Inc.，cPanel
 主要是面向客戶權級的控制系統；而面向[系統管理員和](https://zh.wikipedia.org/wiki/系統管理員 "wikilink")[分銷商](https://zh.wikipedia.org/wiki/分銷商 "wikilink")(Reseller)
-權級的附帶[控制面板為](../Page/控制面板.md "wikilink") [WHM (Web Hosting
+權級的附帶[控制面板](../Page/控制面板.md "wikilink")為 [WHM (Web Hosting
 Manager)](https://zh.wikipedia.org/wiki/WHM_\(Web_Hosting_Manager\) "wikilink")。在預設情況下，兩個控制面板均處於
 [SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")
 加密連線模式，前者的預設[端口為](https://zh.wikipedia.org/wiki/端口 "wikilink")

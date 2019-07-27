@@ -1,7 +1,7 @@
-《**心跳！光之美少女**》（）是由[東堂泉所創作的](../Page/東堂泉.md "wikilink")[魔法少女動畫作品](../Page/魔法少女.md "wikilink")、「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十作，屬第八代光之美少女，2013年2月3日開始在[朝日放送和](../Page/朝日放送.md "wikilink")[朝日電視台播放](../Page/朝日電視台.md "wikilink")\[1\]\[2\]。台灣由[東森電影台在](../Page/東森電影台.md "wikilink")2015年11月23日以「**DokiDoki\!-{}-
-光之美少女**」的名義首播、[東森幼幼台在](../Page/東森幼幼台.md "wikilink")2016年3月30日以同樣名稱重播。香港由[無綫電視翡翠台在](../Page/翡翠台.md "wikilink")2017年1月30日以「**心動！-{}-光之美少女**」的名義播出，本作亦是目前為止於香港播放的最後一作\[3\]。美國Saban
+《**心跳！光之美少女**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所創作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品、「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十作，屬第八代光之美少女，2013年2月3日開始在[朝日放送](../Page/朝日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")播放\[1\]\[2\]。台灣由[東森電影台](../Page/東森電影台.md "wikilink")在2015年11月23日以「**DokiDoki\!-{}-
+光之美少女**」的名義首播、[東森幼幼台](../Page/東森幼幼台.md "wikilink")在2016年3月30日以同樣名稱重播。香港由[無綫電視翡翠台在](../Page/翡翠台.md "wikilink")2017年1月30日以「**心動！-{}-光之美少女**」的名義播出，本作亦是目前為止於香港播放的最後一作\[3\]。美國Saban
 Entertainment在2017年8月18日開始以「**Glitter Force Doki
-Doki**」的名義於歐洲地區版本的[Netflix提供點播服務](../Page/Netflix.md "wikilink")。
+Doki**」的名義於歐洲地區版本的[Netflix](../Page/Netflix.md "wikilink")提供點播服務。
 
 ## 故事簡介
 
@@ -374,7 +374,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
     幸運草天使的精靈夥伴，新生妖精三胞胎的老么。全身橙黃色，長相酷似小熊的精靈男孩，經常被其搭檔寵壞。第29話學會變身成為人類型態的幼童。語尾習慣加上「～蘭斯（）」。
 
-    其名字源自梅花J上的[亞瑟王傳說中](../Page/亞瑟王傳說.md "wikilink")[圓桌騎士團的成員](https://zh.wikipedia.org/wiki/圓桌騎士團 "wikilink")[蘭斯洛特](https://zh.wikipedia.org/wiki/蘭斯洛特 "wikilink")。
+    其名字源自梅花J上的[亞瑟王傳說](../Page/亞瑟王傳說.md "wikilink")中[圓桌騎士團的成員](https://zh.wikipedia.org/wiki/圓桌騎士團 "wikilink")[蘭斯洛特](https://zh.wikipedia.org/wiki/蘭斯洛特 "wikilink")。
 
 <!-- end list -->
 
@@ -1555,7 +1555,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
       -
         作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui\&Wicky.Recording，主唱：[吉田仁美](../Page/吉田仁美.md "wikilink")
 
-本作在片尾曲繼續採用全3D結尾動畫。並由著名女子組合[Perfume的編舞師](https://zh.wikipedia.org/wiki/Perfume "wikilink")[MIKIKO擔任故事中跳舞的創作和動作作為片尾曲的舞蹈](../Page/MIKIKO.md "wikilink")。
+本作在片尾曲繼續採用全3D結尾動畫。並由著名女子組合[Perfume的編舞師](https://zh.wikipedia.org/wiki/Perfume "wikilink")[MIKIKO](../Page/MIKIKO.md "wikilink")擔任故事中跳舞的創作和動作作為片尾曲的舞蹈。
 
   - 插入曲
 

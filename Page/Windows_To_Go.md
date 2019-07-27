@@ -4,7 +4,7 @@
 8企业版（Windows 8 Enterprise）与Windows 10企业版（Windows 10
 Enterprise）中。对于满足Windows 8或Windows10硬件要求的电脑，Windows To
 Go可使Windows
-7以后的系统从[USB](../Page/USB.md "wikilink")[儲存裝置中启动并运行](../Page/儲存裝置.md "wikilink")，不必考虑电脑上运行的[操作系统](../Page/操作系统.md "wikilink")（Mac和[Windows
+7以后的系统从[USB](../Page/USB.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")中启动并运行，不必考虑电脑上运行的[操作系统](../Page/操作系统.md "wikilink")（Mac和[Windows
 RT不被支持](../Page/Windows_RT.md "wikilink")）。
 
 这是一個完全的可管理的電腦環境，Windows To
@@ -36,7 +36,7 @@ To Go工作区在该主计算机再度启动时，它会识别出该主计算机
 
 硬件方面，Windows To Go兼容[USB
 2.0和](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")[USB
-3.0连接以及](../Page/USB_3.0.md "wikilink")[BIOS和](../Page/BIOS.md "wikilink")[UEFI固件](https://zh.wikipedia.org/wiki/UEFI "wikilink")。\[8\]
+3.0连接以及](../Page/USB_3.0.md "wikilink")[BIOS](../Page/BIOS.md "wikilink")和[UEFI固件](https://zh.wikipedia.org/wiki/UEFI "wikilink")。\[8\]
 
 ### 安全性
 
@@ -152,7 +152,7 @@ Configuration Manager）将 Windows 安装到很大一组计算机中。\[11\]
 
 <!-- end list -->
 
-  - 将USB驱动器快速格式化为[NTFS格式](../Page/NTFS.md "wikilink")，并设置为[活动分区](https://zh.wikipedia.org/wiki/活动分区 "wikilink")。
+  - 将USB驱动器快速格式化为[NTFS](../Page/NTFS.md "wikilink")格式，并设置为[活动分区](https://zh.wikipedia.org/wiki/活动分区 "wikilink")。
 
 <!-- end list -->
 

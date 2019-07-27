@@ -1,7 +1,7 @@
 **Gummy**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。在2003年以首張迷你專輯《Like
-Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wiki/M.BOAT娛樂 "wikilink")[YG娛樂合作推出的Solo歌手](../Page/YG娛樂.md "wikilink")。
+Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wiki/M.BOAT娛樂 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")合作推出的Solo歌手。
 \[1\]\[2\]\[3\]2008年，正式轉入[YG娛樂](../Page/YG娛樂.md "wikilink")。2013年，與C-JeS
-娛樂簽約。\[4\]\[5\]2018年10月8日宣布，已與演員[曹政奭結婚](../Page/曹政奭.md "wikilink")。\[6\]
+娛樂簽約。\[4\]\[5\]2018年10月8日宣布，已與演員[曹政奭](../Page/曹政奭.md "wikilink")結婚。\[6\]
 
 ## 音樂作品
 
@@ -244,7 +244,7 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
   - 2013年4月26日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - 2013年12月7日：[JTBC](../Page/JTBC.md "wikilink")
-    《[隱藏歌手2](../Page/隱藏歌手.md "wikilink")》
+    《[隱藏歌手](../Page/隱藏歌手.md "wikilink")2》
   - 2014年2月8日：KBS2《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2014年3月15日：KBS2
     《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
@@ -324,6 +324,9 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
     《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2019年5月17日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
+  - 2019年7月7日:SBS《[Running Man](../Page/Running_Man.md "wikilink")》EP458
+  - 2019年7月14日:SBS《[Running
+    Man](../Page/Running_Man.md "wikilink")》EP459
 
 ## 演唱會
 

@@ -18,7 +18,7 @@ Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。此曲與「A」、
 <!-- end list -->
 
   - 《Tell Me Tell
-    Me》和《Sunshine》於多個音樂節目取得好成績，而《Sunshine》於6月23日的[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，與[SISTAR和](../Page/SISTAR.md "wikilink")[After
+    Me》和《Sunshine》於多個音樂節目取得好成績，而《Sunshine》於6月23日的[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，與[SISTAR](../Page/SISTAR.md "wikilink")和[After
     School並列一位候補](../Page/After_School.md "wikilink")，是Rainbow出道以來首次一位候補。
 
 ## 收錄內容

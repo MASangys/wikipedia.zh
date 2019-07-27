@@ -1,5 +1,5 @@
 『**GLOBAL
-COMMUNICATION**』是[GLAY的第](../Page/GLAY.md "wikilink")22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+COMMUNICATION**』是[GLAY](../Page/GLAY.md "wikilink")的第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 

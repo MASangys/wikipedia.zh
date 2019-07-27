@@ -1,6 +1,6 @@
 [Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg](https://zh.wikipedia.org/wiki/File:Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg "fig:Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg")
 **Yamaha
-TMAX**為[日本](../Page/日本.md "wikilink")[山葉發動機公司製造販賣的一款](../Page/山葉發動機.md "wikilink")[摩托車](../Page/摩托車.md "wikilink")，屬於[速克達的一種](../Page/速克達.md "wikilink")，定位為道路運動型摩托車。在[臺灣牌照領為](../Page/臺灣.md "wikilink")[大型重型機車](https://zh.wikipedia.org/wiki/大型重型機車 "wikilink")。
+TMAX**為[日本](../Page/日本.md "wikilink")[山葉發動機](../Page/山葉發動機.md "wikilink")公司製造販賣的一款[摩托車](../Page/摩托車.md "wikilink")，屬於[速克達](../Page/速克達.md "wikilink")的一種，定位為道路運動型摩托車。在[臺灣](../Page/臺灣.md "wikilink")牌照領為[大型重型機車](https://zh.wikipedia.org/wiki/大型重型機車 "wikilink")。
 因其名稱發音，因此被暱稱為**T（踢）媽**、**T（踢）媽媽**。
 
 ## 概要
@@ -11,11 +11,11 @@ TMAX**為[日本](../Page/日本.md "wikilink")[山葉發動機公司製造販�
 
 ### 第1代(2001-2003)
 
-搭載引擎為排氣量499[cc的](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")[水冷](https://zh.wikipedia.org/wiki/水冷引擎 "wikilink")[4行程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[DOHC](https://zh.wikipedia.org/wiki/DOHC "wikilink")4[氣門直列雙](../Page/氣門.md "wikilink")[汽缸](https://zh.wikipedia.org/wiki/汽缸 "wikilink")，採用[鍛造](../Page/鍛造.md "wikilink")[活塞及缸徑](https://zh.wikipedia.org/wiki/活塞 "wikilink")66mm、活塞行程73mm長行程式的[陶瓷汽缸](../Page/汽缸本體.md "wikilink")。
+搭載引擎為排氣量499[cc的](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")[水冷](https://zh.wikipedia.org/wiki/水冷引擎 "wikilink")[4行程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[DOHC](https://zh.wikipedia.org/wiki/DOHC "wikilink")4[氣門](../Page/氣門.md "wikilink")直列雙[汽缸](https://zh.wikipedia.org/wiki/汽缸 "wikilink")，採用[鍛造](../Page/鍛造.md "wikilink")[活塞及缸徑](https://zh.wikipedia.org/wiki/活塞 "wikilink")66mm、活塞行程73mm長行程式的[陶瓷汽缸](../Page/汽缸本體.md "wikilink")。
 
 傳動箱位於引擎右方，使用[CVT](../Page/無段自動變速器.md "wikilink")[自排變速系統](../Page/自动变速器.md "wikilink")，採用兩段[鏈條減速比傳遞至後輪](https://zh.wikipedia.org/wiki/鏈條 "wikilink")。\[1\]
 
-為了達到低重心化，前輪特別加重，以及採用水平並列汽缸、[機油潤滑方式的](../Page/機油.md "wikilink")[乾式油底殼](https://zh.wikipedia.org/wiki/乾式油底殼 "wikilink")。
+為了達到低重心化，前輪特別加重，以及採用水平並列汽缸、[機油](../Page/機油.md "wikilink")潤滑方式的[乾式油底殼](https://zh.wikipedia.org/wiki/乾式油底殼 "wikilink")。
 
 ### 第2代(2004-2007)
 
@@ -28,7 +28,7 @@ TMAX**為[日本](../Page/日本.md "wikilink")[山葉發動機公司製造販�
 ### 第4代(2012-2014)
 
 2012年版，將引擎排氣量小幅度提升為530cc，型號為TMAX
-530\[2\]。仍使用[水冷](https://zh.wikipedia.org/wiki/水冷引擎 "wikilink")[4行程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[DOHC](https://zh.wikipedia.org/wiki/DOHC "wikilink")4[氣門直列雙](../Page/氣門.md "wikilink")[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")[汽缸](https://zh.wikipedia.org/wiki/汽缸 "wikilink")。
+530\[2\]。仍使用[水冷](https://zh.wikipedia.org/wiki/水冷引擎 "wikilink")[4行程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[DOHC](https://zh.wikipedia.org/wiki/DOHC "wikilink")4[氣門](../Page/氣門.md "wikilink")直列雙[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")[汽缸](https://zh.wikipedia.org/wiki/汽缸 "wikilink")。
 
 TMAX
 530傳動裝置，使用[CVT](../Page/無段自動變速器.md "wikilink")[自排變速系統及一段式的皮帶輪減速](../Page/自动变速器.md "wikilink")，為高效能V型皮帶傳動。採用無傳動箱設計，改採鋁合金後搖臂的配置，可提升操控性能。

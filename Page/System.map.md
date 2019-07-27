@@ -1,6 +1,6 @@
-在[Linux中](../Page/Linux.md "wikilink")，**System.map**檔案是被[内核所使用的](../Page/内核.md "wikilink")[符号表](../Page/符号表.md "wikilink")。
+在[Linux](../Page/Linux.md "wikilink")中，**System.map**檔案是被[内核](../Page/内核.md "wikilink")所使用的[符号表](../Page/符号表.md "wikilink")。
 
-符號表是一個在符號名稱與它們的記憶體位置間的查詢表格。符號名稱可能是變數的名稱或是函數名稱。當要查詢符號名稱的位置或是特定位置的符號名稱時，就會需要System.map。對於[内核错误及](../Page/内核错误.md "wikilink")[内核oops的除錯特別有用](../Page/Linux内核oops.md "wikilink")。當`CONFIG_KALLSYMS`啟用時，核心會自行做位置到名稱的轉換，所以像是ksymoops這一類的工具並不是必要的\[1\]。
+符號表是一個在符號名稱與它們的記憶體位置間的查詢表格。符號名稱可能是變數的名稱或是函數名稱。當要查詢符號名稱的位置或是特定位置的符號名稱時，就會需要System.map。對於[内核错误](../Page/内核错误.md "wikilink")及[内核oops的除錯特別有用](../Page/Linux内核oops.md "wikilink")。當`CONFIG_KALLSYMS`啟用時，核心會自行做位置到名稱的轉換，所以像是ksymoops這一類的工具並不是必要的\[1\]。
 
 ## 內部
 
@@ -35,7 +35,7 @@
 
 ## 檔案系統位置
 
-在[Linux内核構建完成後](../Page/Linux内核.md "wikilink")，`System.map`可能位於原始目錄的根。然而，另外一些軟體可能會希望這個檔案位於其他地方：\[6\]
+在[Linux内核](../Page/Linux内核.md "wikilink")構建完成後，`System.map`可能位於原始目錄的根。然而，另外一些軟體可能會希望這個檔案位於其他地方：\[6\]
 
   - 像是
     [`System.map//boot/System`](https://zh.wikipedia.org/wiki/System.map/boot/ "wikilink")`.map-$(`[`uname`](https://zh.wikipedia.org/wiki/uname "wikilink")`

@@ -1,6 +1,6 @@
 《**AKB48
 SHOW\!**》是[日本](../Page/日本.md "wikilink")[NHK製播的一個](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，2013年10月5日起每週日晚上11時（[JST](../Page/日本標準時間.md "wikilink")）在NHK旗下的[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS
-Premium播出](../Page/NHK_BS_Premium.md "wikilink")。該節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48在NHK的第一個常態性冠名節目](../Page/AKB48.md "wikilink")，但除了掛名的AKB48之外，AKB48的[諸多姊妹團體](../Page/AKB48集團.md "wikilink")、以及做為AKB48「官方對手」的[坂道系列](../Page/坂道系列.md "wikilink")（[乃木坂46等團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）也會不定期參與節目演出或擁有特集節目。
+Premium播出](../Page/NHK_BS_Premium.md "wikilink")。該節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")在NHK的第一個常態性冠名節目，但除了掛名的AKB48之外，AKB48的[諸多姊妹團體](../Page/AKB48集團.md "wikilink")、以及做為AKB48「官方對手」的[坂道系列](../Page/坂道系列.md "wikilink")（[乃木坂46等團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）也會不定期參與節目演出或擁有特集節目。
 节目在2019年3月24日播出最后一集\[1\]。
 
 ## 簡介
@@ -27,13 +27,13 @@ SHOW\!》正式開播之前，NHK也曾與AKB48集團進行節目上的合作，
 
 部分成員演出方面，[前田亞美](../Page/前田亞美.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")（HKT48）、[佐藤堇](../Page/佐藤堇.md "wikilink")（）、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")與[木本花音](../Page/木本花音.md "wikilink")（SKE48）陸續獲選擔任教育綜藝節目《[R的法則](../Page/R的法則.md "wikilink")》（，[ETV](../Page/NHK教育頻道.md "wikilink")）的固定演出成員；[高橋南](../Page/高橋南.md "wikilink")（）則是擔任了兒童節目《[擊倒霸凌](https://zh.wikipedia.org/wiki/擊倒霸凌 "wikilink")》（，ETV）的主持人。
 
-除此之外，少數的AKB48成員也以個人名義在NHK相關頻道上擁有冠名節目，例如[篠田麻里子的](../Page/篠田麻里子.md "wikilink")《》（）；本身是[日本東北大震受災戶的](https://zh.wikipedia.org/wiki/日本東北大震 "wikilink")[岩田華-{怜}-](../Page/岩田華怜.md "wikilink")，則擔任了《華-{怜}-的復興日曆》（）的旁白導航，該節目是NHK為了震災後復興工程而製作的系列節目《向明日邁進的1分鐘》（）之一部份。
+除此之外，少數的AKB48成員也以個人名義在NHK相關頻道上擁有冠名節目，例如[篠田麻里子](../Page/篠田麻里子.md "wikilink")的《》（）；本身是[日本東北大震受災戶的](https://zh.wikipedia.org/wiki/日本東北大震 "wikilink")[岩田華-{怜}-](../Page/岩田華怜.md "wikilink")，則擔任了《華-{怜}-的復興日曆》（）的旁白導航，該節目是NHK為了震災後復興工程而製作的系列節目《向明日邁進的1分鐘》（）之一部份。
 
 特集方面，在2013年9月間，NHK BS
 Premium頻道曾連續三週於週六半夜播出每集各2小時長的特別節目《AKB秋祭》（），分別是9月14日的「NMB48
 東日本巡迴 演唱會&紀錄片」（），9月21日的「[MJ](../Page/MUSIC_JAPAN.md "wikilink") present
 SKE48 Request
-Special」，與9月28日的「[AKB48選拔總選舉特集](https://zh.wikipedia.org/wiki/AKB48第五屆選拔總選舉 "wikilink")（長版）」。除此之外，AKB48也在NHK所屬的[廣播電台擁有掛名的節目](../Page/NHK-FM頻率.md "wikilink")《[AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")》（），由不同成員每週輪流參與[廣播劇的演出](../Page/廣播劇.md "wikilink")。但是，《AKB48
+Special」，與9月28日的「[AKB48選拔總選舉特集](https://zh.wikipedia.org/wiki/AKB48第五屆選拔總選舉 "wikilink")（長版）」。除此之外，AKB48也在NHK所屬的[廣播電台擁有掛名的節目](../Page/NHK-FM頻率.md "wikilink")《[AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")》（），由不同成員每週輪流參與[廣播劇](../Page/廣播劇.md "wikilink")的演出。但是，《AKB48
 SHOW\!》仍然是第一個在NHK的電視頻道上全由AKB48集團成員擔任固定演出的冠名節目。
 
 在每集節目實際播放前，製作單位會自節目內容中挑選三段約半分鐘長的片段，於官方網站的預覽段落「預告與影片及訪談」（）中公開。
@@ -91,7 +91,7 @@ AKB48 Team 8的日本全国故乡讲座（）是Team 8成员对自己出身的�
 
   - 白間美瑠画伯的美瑠美瑠美術館
 
-NMB48成员[白間美瑠与成员聊天并为成员绘制](../Page/白間美瑠.md "wikilink")“画像”，之后NGT48成员[加藤美南也开始了类似环节](../Page/加藤美南.md "wikilink")。
+NMB48成员[白間美瑠](../Page/白間美瑠.md "wikilink")与成员聊天并为成员绘制“画像”，之后NGT48成员[加藤美南](../Page/加藤美南.md "wikilink")也开始了类似环节。
 
 ## 各集內容
 
@@ -1185,7 +1185,7 @@ NMB48成员[白間美瑠与成员聊天并为成员绘制](../Page/白間美瑠.
   - [熊本熊](../Page/熊本熊.md "wikilink")：出演第197集“AKB48 Team 8的日本全国故乡讲座
     -[熊本县](https://zh.wikipedia.org/wiki/熊本县 "wikilink")-”
 
-  - 首次參與演出時已畢業離團的前成員：[浦野一美](../Page/浦野一美.md "wikilink")（走廊奔跑队7成员，同時也是AKB48与[SDN48前成員](../Page/SDN48.md "wikilink")）、[平嶋夏海](../Page/平嶋夏海.md "wikilink")（走廊奔跑队7成员，AKB48前成員）、[板野友美](../Page/板野友美.md "wikilink")（AKB48前成員）、[前田敦子](../Page/前田敦子.md "wikilink")（AKB48前成員）、[秋元才加](../Page/秋元才加.md "wikilink")（DIVA成员，AKB48前成員）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")（DIVA成员，AKB48前成員）
+  - 首次參與演出時已畢業離團的前成員：[浦野一美](../Page/浦野一美.md "wikilink")（走廊奔跑队7成员，同時也是AKB48与[SDN48](../Page/SDN48.md "wikilink")前成員）、[平嶋夏海](../Page/平嶋夏海.md "wikilink")（走廊奔跑队7成员，AKB48前成員）、[板野友美](../Page/板野友美.md "wikilink")（AKB48前成員）、[前田敦子](../Page/前田敦子.md "wikilink")（AKB48前成員）、[秋元才加](../Page/秋元才加.md "wikilink")（DIVA成员，AKB48前成員）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")（DIVA成员，AKB48前成員）
 
 ## 播出時間
 

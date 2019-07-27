@@ -1,5 +1,5 @@
 **Horizon Hospitality
-Holdings**是[長江實業地產旗下的公司](https://zh.wikipedia.org/wiki/長江實業地產 "wikilink")，在[香港持有](../Page/香港.md "wikilink")4間[酒店](../Page/酒店.md "wikilink")，包括[馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[海澄軒海景酒店](https://zh.wikipedia.org/wiki/海澄軒海景酒店 "wikilink")、[紅磡灣](../Page/紅磡灣.md "wikilink")[海灣軒海景酒店](https://zh.wikipedia.org/wiki/海灣軒海景酒店 "wikilink")、[紅磡灣](../Page/紅磡灣.md "wikilink")[海韻軒海景酒店及](https://zh.wikipedia.org/wiki/海韻軒海景酒店 "wikilink")[葵涌](../Page/葵涌.md "wikilink")[雍澄軒酒店](https://zh.wikipedia.org/wiki/雍澄軒酒店 "wikilink")，合共擁有4,833間套房。\[1\]
+Holdings**是[長江實業地產旗下的公司](https://zh.wikipedia.org/wiki/長江實業地產 "wikilink")，在[香港](../Page/香港.md "wikilink")持有4間[酒店](../Page/酒店.md "wikilink")，包括[馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[海澄軒海景酒店](https://zh.wikipedia.org/wiki/海澄軒海景酒店 "wikilink")、[紅磡灣](../Page/紅磡灣.md "wikilink")[海灣軒海景酒店](https://zh.wikipedia.org/wiki/海灣軒海景酒店 "wikilink")、[紅磡灣](../Page/紅磡灣.md "wikilink")[海韻軒海景酒店及](https://zh.wikipedia.org/wiki/海韻軒海景酒店 "wikilink")[葵涌](../Page/葵涌.md "wikilink")[雍澄軒酒店](https://zh.wikipedia.org/wiki/雍澄軒酒店 "wikilink")，合共擁有4,833間套房。\[1\]
 
 2012年10月，長江實業及和記黃埔宣布計劃以[商業信託形式分拆酒店套房業務上市](https://zh.wikipedia.org/wiki/商業信託 "wikilink")，在上市後保留少於30%的股權。Horizon
 Hospitality Investments及Horizon Hospitality

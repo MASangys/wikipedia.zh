@@ -1,4 +1,4 @@
-，是[五月天演唱會電影](../Page/五月天.md "wikilink")《[5月天諾亞方舟](../Page/5月天諾亞方舟.md "wikilink")》的電影原聲音樂[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[台灣索尼音樂娛樂發行](../Page/台灣索尼音樂娛樂.md "wikilink")，共收錄26首歌曲，2013年9月27日於[台灣發行](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+，是[五月天](../Page/五月天.md "wikilink")演唱會電影《[5月天諾亞方舟](../Page/5月天諾亞方舟.md "wikilink")》的電影原聲音樂[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。由[相信音樂製作](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")發行，共收錄26首歌曲，2013年9月27日於[台灣發行](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 曲目
 

@@ -139,7 +139,7 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>2017年1月27—28日</p></td>
-<td><p><a href="../Page/無理的同居.md" title="wikilink">無理的同居─有空房間</a></p></td>
+<td><p><a href="../Page/無理的同居.md" title="wikilink">無理的同居</a>─有空房間</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年4月14日—9月1日<br />

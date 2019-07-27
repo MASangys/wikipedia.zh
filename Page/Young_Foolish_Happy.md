@@ -1,8 +1,8 @@
 “Young Foolish
-Happy”是英国女歌手[皮克西·洛特的第二张录音室专辑](../Page/皮克西·洛特.md "wikilink")，于2011年11月11日通过[水星唱片公司发行](https://zh.wikipedia.org/wiki/水星唱片公司 "wikilink")。除了之前已经合作过的Mads
+Happy”是英国女歌手[皮克西·洛特](../Page/皮克西·洛特.md "wikilink")的第二张录音室专辑，于2011年11月11日通过[水星唱片公司发行](https://zh.wikipedia.org/wiki/水星唱片公司 "wikilink")。除了之前已经合作过的Mads
 Hauge, Phil Thornalley, Toby Gad, Steve Kipner，Andrew Frampton
 等人，洛特还找来了Tim Powell, The
-Matrix和Rusko一同制作这张专辑。同时合作的艺人有[史提夫·汪达和约翰传奇等](../Page/史提夫·汪达.md "wikilink")，
+Matrix和Rusko一同制作这张专辑。同时合作的艺人有[史提夫·汪达](../Page/史提夫·汪达.md "wikilink")和约翰传奇等，
 
 ## 背景及发行
 

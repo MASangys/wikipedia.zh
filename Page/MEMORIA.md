@@ -1,4 +1,4 @@
-**MEMORIA**是[藍井艾露的出道單曲](../Page/藍井艾露.md "wikilink")。2011年10月19日由[SME
+**MEMORIA**是[藍井艾露](../Page/藍井艾露.md "wikilink")的出道單曲。2011年10月19日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。
 
 ## 概要

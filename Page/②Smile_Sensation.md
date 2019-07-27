@@ -1,5 +1,5 @@
 《**②Smile
-Sensation**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[S/mileage的第](https://zh.wikipedia.org/wiki/S/mileage "wikilink")2枚原創專輯，於2013年5月22日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
+Sensation**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[S/mileage的第](https://zh.wikipedia.org/wiki/S/mileage "wikilink")2枚原創專輯，於2013年5月22日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要
 
@@ -10,7 +10,7 @@ Sensation**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink
   - 本作分為「初回限定盤」和「CD盤」2種版本
   - 「初回限定盤」收錄了單曲《好冷啊。（Close-up Ver.Ⅱ）》、《啟程出發的春天來了》、新曲《黃昏時分 戀愛的時間（各成員
     Solo Ver.）》的PV、專輯《②Smile Sensation》的Making。
-  - 在6月3日於[Oricon公信榜專輯每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")13位。
+  - 在6月3日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯每週排行榜取得第13位。
 
 ## 收錄內容
 

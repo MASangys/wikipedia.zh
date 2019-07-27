@@ -1,5 +1,5 @@
 《**NO
-MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B.A.P的第三張日語單曲](../Page/B.A.P.md "wikilink")，由[全多鄖](https://zh.wikipedia.org/wiki/全多鄖 "wikilink")（）、[Marco創作](https://zh.wikipedia.org/wiki/Marco "wikilink")，[方容國協助作詞](https://zh.wikipedia.org/wiki/方容國 "wikilink")，[藤林聖子翻譯為日語詞](../Page/藤林聖子.md "wikilink")，並在2014年4月2日以三個不同版本推出\[1\]。
+MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B.A.P](../Page/B.A.P.md "wikilink")的第三張日語單曲，由[全多鄖](https://zh.wikipedia.org/wiki/全多鄖 "wikilink")（）、[Marco創作](https://zh.wikipedia.org/wiki/Marco "wikilink")，[方容國協助作詞](https://zh.wikipedia.org/wiki/方容國 "wikilink")，[藤林聖子](../Page/藤林聖子.md "wikilink")翻譯為日語詞，並在2014年4月2日以三個不同版本推出\[1\]。
 
 ## 背景
 
@@ -10,7 +10,7 @@ MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 此單曲共分為3個發行版本。
 
   - 通常盤 Type-A（編號：KIZM-277～278）：這版本包括了一片收錄5首歌的CD、一片收錄《NO
-    MERCY》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")，首批版本隨機附送七款收藏卡其中一種和Type-A版小票\[5\]。
+    MERCY》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD，首批版本隨機附送七款收藏卡其中一種和Type-A版小票\[5\]。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@ MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 單曲日榜\[8\]                                | 2    | 21,764 | 40,026+ | 4星期  |
 | 單曲週榜\[9\]                                | 2    | 40,026 |         |      |

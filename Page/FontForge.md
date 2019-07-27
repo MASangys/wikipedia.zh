@@ -1,5 +1,5 @@
 （2004年3月前称为）\[1\]\[2\]是一款全功能的支持所有通用字体格式的[字体编辑器](https://zh.wikipedia.org/wiki/字体编辑器 "wikilink")，主要由George
-Williams开发，FontForge是[自由软件](../Page/自由软件.md "wikilink")，并以[GNU通用公共许可证第](../Page/GNU通用公共许可证.md "wikilink")3版及三句式[BSD许可证授权](../Page/BSD许可证.md "wikilink")。\[3\]该软件用于多个[操作系统](../Page/操作系统.md "wikilink")（包括[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[4\]和[OS
+Williams开发，FontForge是[自由软件](../Page/自由软件.md "wikilink")，并以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")第3版及三句式[BSD许可证](../Page/BSD许可证.md "wikilink")授权。\[3\]该软件用于多个[操作系统](../Page/操作系统.md "wikilink")（包括[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[4\]和[OS
 X](https://zh.wikipedia.org/wiki/OS_X "wikilink")\[5\]）并翻译成12种语言。
 
 ## 特性
@@ -11,20 +11,20 @@ FontForge是“非常强大的提供实际地所有[FontLab特性的软件系统
 Fontforge支持Adobe的OpenType
 [特性文件规格](https://zh.wikipedia.org/wiki/OpenType#OpenType_Feature_File_\(.fea\) "wikilink")（用自带语法扩展）。\[9\]还支持为[Cambria
 Math引入的](../Page/Cambria.md "wikilink")、并被[Office
-2007](https://zh.wikipedia.org/wiki/Office_2007 "wikilink")、[XeTeX和](../Page/XeTeX.md "wikilink")[LuaTeX支持的非官方的](../Page/LuaTeX.md "wikilink")[微软数学编排扩展](../Page/微软.md "wikilink")（`MATH`
+2007](https://zh.wikipedia.org/wiki/Office_2007 "wikilink")、[XeTeX](../Page/XeTeX.md "wikilink")和[LuaTeX](../Page/LuaTeX.md "wikilink")支持的非官方的[微软](../Page/微软.md "wikilink")数学编排扩展（`MATH`
 table）。\[10\]至少一种自由OpenType数学字体用FontForge开发。（参见下文）
 
-FontForge使用[FreeType在屏幕上显示字体](../Page/FreeType.md "wikilink")。\[11\]从2008年11月15日版起，FontForge可用[libcairo和](https://zh.wikipedia.org/wiki/cairo_\(繪圖\) "wikilink")[libpango软件库实现图形和文本显示](https://zh.wikipedia.org/wiki/pango "wikilink")\[12\]来提供反锯齿图形和复杂文本输出支持。
+FontForge使用[FreeType](../Page/FreeType.md "wikilink")在屏幕上显示字体。\[11\]从2008年11月15日版起，FontForge可用[libcairo和](https://zh.wikipedia.org/wiki/cairo_\(繪圖\) "wikilink")[libpango软件库实现图形和文本显示](https://zh.wikipedia.org/wiki/pango "wikilink")\[12\]来提供反锯齿图形和复杂文本输出支持。
 
 FontForge能用[Potrace或](https://zh.wikipedia.org/wiki/Potrace "wikilink")[AutoTrace以自动追踪位图并导入到字体中](https://zh.wikipedia.org/wiki/AutoTrace "wikilink")。
 
-FontForge源代码的一部分被[LuaTeX排版引擎用于读取和分析](../Page/LuaTeX.md "wikilink")[OpenType字体](../Page/OpenType.md "wikilink")。\[13\]
+FontForge源代码的一部分被[LuaTeX](../Page/LuaTeX.md "wikilink")排版引擎用于读取和分析[OpenType](../Page/OpenType.md "wikilink")字体。\[13\]
 
 FontForge源代码包含了许多实用程序在fonttools目录，包括了显示二进制字体文件内容的showttf，以及[WOFF转换器和反转换器](https://zh.wikipedia.org/wiki/WOFF "wikilink")。
 
 ## 支持的格式
 
-FontForge支持许多字体格式。\[14\]自带的“[样条函数字体数据库](../Page/样条函数.md "wikilink")”格式（`.sfd`）是的，\[15\]并促进设计者之间的合作，[不同的文件可以很容易的创建](https://zh.wikipedia.org/wiki/diff "wikilink")。这软件支持许多其他字体格式并从一种格式转换到另一种格式。支持的字体格式有：[TrueType](../Page/TrueType.md "wikilink")（TTF），[TrueType
+FontForge支持许多字体格式。\[14\]自带的“[样条函数](../Page/样条函数.md "wikilink")字体数据库”格式（`.sfd`）是的，\[15\]并促进设计者之间的合作，[不同的文件可以很容易的创建](https://zh.wikipedia.org/wiki/diff "wikilink")。这软件支持许多其他字体格式并从一种格式转换到另一种格式。支持的字体格式有：[TrueType](../Page/TrueType.md "wikilink")（TTF），[TrueType
 Collection](https://zh.wikipedia.org/wiki/TrueType#TrueType_Collection "wikilink")（TTC），[OpenType](../Page/OpenType.md "wikilink")（OTF），，TeX位图字体，X11
 OTB位图（仅[sfnt](https://zh.wikipedia.org/wiki/sfnt "wikilink")），[Glyph
 Bitmap Distribution
@@ -88,7 +88,7 @@ Graphics Meeting）作为主题的实时协作特性。
 ## 外部链接
 
   -
-  - [SourceForge上的](../Page/SourceForge.md "wikilink")[非官方Windows版本](http://fontforgebuilds.sourceforge.net/)
+  - [SourceForge](../Page/SourceForge.md "wikilink")上的[非官方Windows版本](http://fontforgebuilds.sourceforge.net/)
 
   - [非官方Windows版本](https://web.archive.org/web/20140605140631/http://www.geocities.jp/meir000/fontforge/)
 

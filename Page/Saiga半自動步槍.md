@@ -6,7 +6,7 @@
 
 Saiga步槍原先是在1970年代設計，當時最初的步槍發射口徑子彈。然而由於未見有巨大的商業成功因此最後只生產了300枝。\[3\]
 
-後來在1990年代，Saiga步槍被重新推出，並被推廣為一枝能夠狩獵中等體型獵物的步槍。為了滿足不同客戶的需求，伊茨瑪希工廠對其進行了改良，以令它能夠發射多種大威力和更流行的子彈，當中包括：[.308溫徹斯特](../Page/.308_Winchester.md "wikilink")/[7.62×51mm](../Page/7.62×51mm_NATO.md "wikilink")、[.223雷明登](../Page/.223_Remington.md "wikilink")/[5.56×45mm](../Page/5.56×45mm_NATO.md "wikilink")、[5.45×39mm以及](../Page/5.45×39mm.md "wikilink")[7.62×39mm等](../Page/7.62×39mm.md "wikilink")。\[4\]
+後來在1990年代，Saiga步槍被重新推出，並被推廣為一枝能夠狩獵中等體型獵物的步槍。為了滿足不同客戶的需求，伊茨瑪希工廠對其進行了改良，以令它能夠發射多種大威力和更流行的子彈，當中包括：[.308溫徹斯特](../Page/.308_Winchester.md "wikilink")/[7.62×51mm](../Page/7.62×51mm_NATO.md "wikilink")、[.223雷明登](../Page/.223_Remington.md "wikilink")/[5.56×45mm](../Page/5.56×45mm_NATO.md "wikilink")、[5.45×39mm](../Page/5.45×39mm.md "wikilink")以及[7.62×39mm](../Page/7.62×39mm.md "wikilink")等。\[4\]
 
 Saiga步槍目前在[伊熱夫斯克市的伊熱瑪茨工廠](https://zh.wikipedia.org/wiki/伊熱夫斯克 "wikilink")（現稱“卡拉什尼科夫集團”）進行生產，該廠也是多種軍用AK步槍的生產地，並是卡拉什尼科夫本人多年來工作的地方。
 

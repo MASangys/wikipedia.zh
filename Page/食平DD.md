@@ -1,4 +1,4 @@
-《**食平DD**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**的第二輯，全節目共20集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")\[1\]。本節目於香港時間2014年4月14日起，逢星期一至五22:30－23:00在[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。此節目由[德國寶特約](https://zh.wikipedia.org/wiki/德國寶 "wikilink")。
+《**食平DD**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的飲食節目**食平D系列**的第二輯，全節目共20集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")擔任主持\[1\]。本節目於香港時間2014年4月14日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")和[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。此節目由[德國寶特約](https://zh.wikipedia.org/wiki/德國寶 "wikilink")。
 
 ## 每集內容
 
@@ -247,7 +247,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數    | 日期               | [平均收視](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
 | -- | ----- | ---------------- | ---------------------------------------------------- |

@@ -1,4 +1,4 @@
-**ALTIMA**（アルティマ），[日本音樂組合](../Page/日本.md "wikilink")，唱片公司隸屬於[日本華納音樂](../Page/日本華納音樂.md "wikilink")。
+**ALTIMA**（アルティマ），[日本](../Page/日本.md "wikilink")音樂組合，唱片公司隸屬於[日本華納音樂](../Page/日本華納音樂.md "wikilink")。
 
 ## 概要
 
@@ -45,9 +45,9 @@ Live上公布團體將停止活動](../Page/Animelo_Summer_Live.md "wikilink")\[
 | ----------------- | ------------------------------------------------------- | ----- |
 | I'll believe      | 電視動畫[灼眼的夏娜III片尾曲](../Page/灼眼的夏娜_\(動畫\).md "wikilink")   | 2011年 |
 | ONE               | 2012年                                                   |       |
-| Burst the Gravity | 電視動畫[加速世界第二片頭曲](../Page/加速世界.md "wikilink")             | 2013年 |
-| Fight 4 Real      | 電視動畫[噬血狂襲第二片頭曲](../Page/噬血狂襲.md "wikilink")             | 2014年 |
-| PLASMIC FIRE      | 電影動畫[加速世界INFINITE BURST主題曲](../Page/加速世界.md "wikilink") | 2016年 |
+| Burst the Gravity | 電視動畫[加速世界](../Page/加速世界.md "wikilink")第二片頭曲             | 2013年 |
+| Fight 4 Real      | 電視動畫[噬血狂襲](../Page/噬血狂襲.md "wikilink")第二片頭曲             | 2014年 |
+| PLASMIC FIRE      | 電影動畫[加速世界 BURST主題曲](../Page/加速世界.md "wikilink")INFINITE | 2016年 |
 
 ### 專輯
 

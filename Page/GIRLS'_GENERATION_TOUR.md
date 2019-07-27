@@ -1,7 +1,7 @@
 **GIRLS' GENERATION
 TOUR**是韓國女子組合[少女時代第二次亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次巡演的一部分是在日本舉行的The
 1st Japan Arena Tour，舞台的設計、配置設備都是一樣。
-[少女時代這次巡演一共有七套服裝的變化](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2011年7月23日[首爾開始巡演](../Page/首爾.md "wikilink")，之後在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[香港舉行](../Page/香港.md "wikilink")，2012年2月12日在[曼谷完成最後一次巡演](../Page/曼谷.md "wikilink")。
+[少女時代這次巡演一共有七套服裝的變化](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2011年7月23日[首爾](../Page/首爾.md "wikilink")開始巡演，之後在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[香港](../Page/香港.md "wikilink")舉行，2012年2月12日在[曼谷](../Page/曼谷.md "wikilink")完成最後一次巡演。
 
 ## 概述
 
@@ -14,7 +14,7 @@ Taxi〉韓文版收錄在正規三輯中，並發佈了Repackage的專輯。同�
 同年12月，[少女時代是首個韓國女子歌手在](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[新加坡室內體育館舉行個人演唱會](https://zh.wikipedia.org/wiki/新加坡室內體育館 "wikilink")，門票在預訂開始4小時內售罄，所以演唱會增加一場。此外，新歌〈The
 Boys〉的表演舞台首次推出。\[3\]
 
-2012年1月15日在香港[亞洲國際博覽館舉行](../Page/亞洲國際博覽館.md "wikilink") \[4\]
+2012年1月15日在香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")舉行 \[4\]
 ，2月12日的最後一站在曼谷結束。\[5\] 亞洲巡演成功舉行，九場演唱會動員共92,000名觀眾。
 
 ## JAPAN FIRST TOUR GIRLS' GENERATION

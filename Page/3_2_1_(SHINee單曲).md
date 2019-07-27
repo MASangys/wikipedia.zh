@@ -1,11 +1,11 @@
 《**3 2
-1**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")9张日語[单曲](../Page/单曲.md "wikilink")，於2013年12月4日由[日本環球唱片子廠牌](../Page/環球音樂_\(日本\).md "wikilink")[EMI音樂日本发售](../Page/EMI音樂日本.md "wikilink")。
+1**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第9张日語[单曲](../Page/单曲.md "wikilink")，於2013年12月4日由[日本環球唱片子廠牌](../Page/環球音樂_\(日本\).md "wikilink")[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")发售。
 
 ## 背景
 
-2013年10月10日，[EMI音樂日本公布了SHINee第](../Page/EMI音樂日本.md "wikilink")9張單曲的消息\[1\]。當中主打歌曲《3
+2013年10月10日，[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")公布了SHINee第9張單曲的消息\[1\]。當中主打歌曲《3
 2
-1》早於10月5日在[東京電視台電視劇](../Page/東京電視台.md "wikilink")《[東京玩具箱](../Page/東京玩具箱.md "wikilink")》用作主題曲\[2\]，而《3
+1》早於10月5日在[東京電視台](../Page/東京電視台.md "wikilink")電視劇《[東京玩具箱](../Page/東京玩具箱.md "wikilink")》用作主題曲\[2\]，而《3
 2 1》的短版音樂錄影帶則在11月20日推出\[3\]。B面其中一首歌曲《Everybody［Japanese
 ver.］》則是第五張韓語迷你專輯《[Everybody](../Page/Everybody.md "wikilink")》的主打歌《Everybody》的日文版本。
 
@@ -14,12 +14,12 @@ ver.］》則是第五張韓語迷你專輯《[Everybody](../Page/Everybody.md "
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本，每個版本都收錄了五種SHINee成員小卡的其中一張。
 
   - 初回生產限定盤A：這版本包括了一片單曲CD、一片收錄《3 2
-    1》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[4\]。
+    1》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[4\]。
 
 <!-- end list -->
 
   - 初回生產限定盤B：這版本包括了一片單曲CD、一片收錄《Everybody［Japanese
-    ver.］》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[5\]。
+    ver.］》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
 
 <!-- end list -->
 
@@ -30,12 +30,12 @@ ver.］》則是第五張韓語迷你專輯《[Everybody](../Page/Everybody.md "
 
 ## 銷售榜單成績
 
-根據日本主要音樂流行榜——[Oricon公信榜統計](../Page/Oricon公信榜.md "wikilink")，《3 2
+根據日本主要音樂流行榜——[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")統計，《3 2
 1》在發行首日賣出了42,216張，名列日榜第3位\[7\]。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置                                                  | 銷售量                                                | 總銷量                     | 停留時間                      |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置                                                  | 銷售量                                                | 總銷量                     | 停留時間                      |
 | ---------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ----------------------- | ------------------------- |
 | 單曲日榜<ref>{{cite web                      | url = <http://www.oricon.co.jp/rank/js/d/2013-12-03/> | publisher = [Oricon](../Page/Oricon.md "wikilink") | title = CDシングルデイリーランキング | date = December 4, 2013   |
 | 單曲週榜<ref>{{cite web                      | url = <http://www.oricon.co.jp/rank/js/w/2013-12-16/> | Oricon\]\]                                         | title = CDシングル週間ランキング   | date = December 2–8, 2013 |

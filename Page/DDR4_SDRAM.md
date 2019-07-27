@@ -1,15 +1,18 @@
 **第四代雙倍資料率同步動態隨機存取記憶體**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Double-Data-Rate
 Fourth Generation Synchronous Dynamic Random Access Memory，簡稱為DDR4
-SDRAM），是一種高頻寬的電腦[記憶體規格](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。它屬於[SDRAM家族的記憶體產品](../Page/SDRAM.md "wikilink")，是自1970年DRAM開始使用以來，現時最新的記憶體規格，旨在全面取代舊有的記憶體規格。\[1\]
+SDRAM），是一種高頻寬的電腦[記憶體規格](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。它屬於[SDRAM](../Page/SDRAM.md "wikilink")家族的記憶體產品，是自1970年DRAM開始使用以來，現時最新的記憶體規格，旨在全面取代舊有的記憶體規格。\[1\]
 
 DDR4-SDRAM提供比[DDR3](../Page/DDR3_SDRAM.md "wikilink")/[DDR2-SDRAM更低的供電電壓以及更高的頻寬](../Page/DDR2_SDRAM.md "wikilink")，但由於電壓標準、物理接口等諸多設計與DDR3-SDRAM等的不一致，因此DDR4-SDRAM與前代DDR3/DDR2/DDR等一樣，不會向下相容。現時，[超微和](https://zh.wikipedia.org/wiki/超微 "wikilink")[英特爾兩大x](https://zh.wikipedia.org/wiki/英特爾 "wikilink")86處理器廠商推出的大部分處理器產品都支援DDR4-SDRAM。
 
 ## 發展历史
 
+[Two_8_GB_DDR4-2133_ECC_1.2_V_RDIMMs.jpg](https://zh.wikipedia.org/wiki/File:Two_8_GB_DDR4-2133_ECC_1.2_V_RDIMMs.jpg "fig:Two_8_GB_DDR4-2133_ECC_1.2_V_RDIMMs.jpg")
+DDR4-2133 ECC 1.2V
+[RDIMM](https://zh.wikipedia.org/wiki/RDIMM "wikilink")\]\]
 [JEDEC](../Page/JEDEC.md "wikilink")，記憶體標準的主體制定組織，在2005年時已經著手DDR3
 SDRAM的繼任標準，\[2\]此時離DDR3標準亮相的2007年還有2年。\[3\]\[4\]DDR4的高層級架構原定計劃在2008年完成。\[5\]
 
-2007年開始就有DDR4標準的一些早前資訊被公開，\[6\]2008年8月份於[三藩市舉行的](https://zh.wikipedia.org/wiki/三藩市 "wikilink")[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")（IDF）上，一位來自[奇夢達的出席演講嘉賓提供更多關於DDR](../Page/奇夢達.md "wikilink")4的公開資訊。\[7\]\[8\]\[9\]\[10\]當年關於DDR4的描述中，DDR4將使用30奈米製程、1.2伏的運行電壓、常規匯流排時脈速率在2133MT/s而“發燒級”的有3200MT/s、在2012年推出市場、在2013年它的運行電壓將改進至只有1伏。\[11\]\[12\]
+2007年開始就有DDR4標準的一些早前資訊被公開，\[6\]2008年8月份於[三藩市舉行的](https://zh.wikipedia.org/wiki/三藩市 "wikilink")[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")（IDF）上，一位來自[奇夢達](../Page/奇夢達.md "wikilink")的出席演講嘉賓提供更多關於DDR4的公開資訊。\[7\]\[8\]\[9\]\[10\]當年關於DDR4的描述中，DDR4將使用30奈米製程、1.2伏的運行電壓、常規匯流排時脈速率在2133MT/s而“發燒級”的有3200MT/s、在2012年推出市場、在2013年它的運行電壓將改進至只有1伏。\[11\]\[12\]
 
 後來，在2010年於[東京舉行的MenCon](https://zh.wikipedia.org/wiki/東京 "wikilink")（一個電腦記憶體工業的大會）上，由JEDEC主導的題為“Time
 to rethink DDR4”的技術展示中，更多的DDR4技術資料被公佈。\[13\]當時以“New roadmap: More
@@ -28,7 +31,7 @@ Drain）技術（從製造[GDDR圖形記憶體的工藝改造而來](https://zh.
 三個月以後（即2011年4月），[海力士宣布運作於](https://zh.wikipedia.org/wiki/海力士 "wikilink")2400MT/s資料速率的2GB
 DDR4記憶體模組面世，運作電壓同樣在1.2V，也採用30至39奈米的製程（未具體指明），\[30\]另外他們還預期在2012年下半年開始大批量生產。\[31\]DDR4的半導體製程預期計劃是需要30奈米或更小長度的製程，預期將在2012年至2014年之間完成這個轉變。\[32\]\[33\]
 
-2012年5月，[美光科技宣布他們將在](../Page/美光科技.md "wikilink")2012年後期使用30奈米製程生產DRAM及[快閃記憶體顆粒](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。\[34\]
+2012年5月，[美光科技](../Page/美光科技.md "wikilink")宣布他們將在2012年後期使用30奈米製程生產DRAM及[快閃記憶體顆粒](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。\[34\]
 
 在2012年7月，三星電子宣布試制業界首支16GB的[寄存式雙列直插記憶體模組](https://zh.wikipedia.org/wiki/寄存式雙列直插記憶體模組 "wikilink")（registered
 dual inline memory modules，RDIMM），採用DDR4
@@ -59,7 +62,7 @@ Lake和Skylake保留DDR3和LPDDR3的支援（LPDDR3主要是低功耗處理器�
 i7-5900/5800处理器系列以及配套的](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")[X99芯片组](https://zh.wikipedia.org/wiki/PCH "wikilink")，支持[四通道内存技术](https://zh.wikipedia.org/wiki/四通道 "wikilink")。是全球首款支援DDR4内存的处理器。此外還採用與LGA
 2011不相容的LGA 2011v3插座，與使用DDR3記憶體的前代型號有所區分。\[56\]
 
-2015年8月上旬，英特爾發布[Skylake微架構的](../Page/Skylake微架構.md "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，Core
+2015年8月上旬，英特爾發布[Skylake微架構](../Page/Skylake微架構.md "wikilink")的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，Core
 i7-6700K和Core i5-6600K以及Z170晶片組，支援DDR4。其後除了Core m系列不支援DDR4之外，Core
 i全系列型號均全數支援，不過這些處理器同時也支援DDR3L記憶體（低電壓版DDR3記憶體），只是DDR3L和DDR4不能同時使用，只能二者擇其一。
 
@@ -109,7 +112,7 @@ Buffer預取仍和DDR3一樣維持8n倍率。\[83\]由於DDR4記憶體的預取�
   - 命令/位址匯流排上新增[奇偶校驗](https://zh.wikipedia.org/wiki/奇偶校驗位 "wikilink")
   - 資料匯流排反轉（與[GDDR4以後的](https://zh.wikipedia.org/wiki/GDDR4 "wikilink")[顯示記憶體類似](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")）
   - 資料匯流排新增[CRC校驗](../Page/循環冗餘校驗.md "wikilink")
-  - [DIMM模組上的各個DRAM是獨立编程的](../Page/DIMM.md "wikilink")，使得它們可以更好地由[片上終端控制](https://zh.wikipedia.org/wiki/片上終端 "wikilink")
+  - [DIMM](../Page/DIMM.md "wikilink")模組上的各個DRAM是獨立编程的，使得它們可以更好地由[片上終端控制](https://zh.wikipedia.org/wiki/片上終端 "wikilink")
 
 ### 供電
 
@@ -350,7 +353,7 @@ row，開行）命令。
 DDR4有數種封裝規格。
 
 一種是288 PIN U-DIMM模組，與240 PIN的DDR2/DDR3
-DIMM模組相近，供普通的[桌上型電腦使用](../Page/桌上型電腦.md "wikilink")。\[96\]\[97\]每個PIN的之間的寬度極其接近（而每個PIN的寬度改為0.85毫米而非1.0毫米）以便符合標準的5¼英寸()的DIMM模組寬度，標準的模組高度小幅增加到(而非)以使信號佈線更容易，模組厚度也從1.0毫米增加到1.2毫米以容納更多的信號層。
+DIMM模組相近，供普通的[桌上型電腦](../Page/桌上型電腦.md "wikilink")使用。\[96\]\[97\]每個PIN的之間的寬度極其接近（而每個PIN的寬度改為0.85毫米而非1.0毫米）以便符合標準的5¼英寸()的DIMM模組寬度，標準的模組高度小幅增加到(而非)以使信號佈線更容易，模組厚度也從1.0毫米增加到1.2毫米以容納更多的信號層。
 
 另有288
 PIN的R-DIMM模組，供伺服器主機板使用，除PIN數量、更精確更精確的電氣效能要求（但和U-DIMM一樣是1.2V工作電壓）、支援[ECC以外](https://zh.wikipedia.org/wiki/ECC "wikilink")，和U-DIMM相近，但和U-DIMM不能互用。\[98\]

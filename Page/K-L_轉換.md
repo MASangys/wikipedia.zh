@@ -1,9 +1,14 @@
 K-L轉換(Karhunen-Loève
 Transform)是建立在統計特性基礎上的一種轉換，它是[均方差](https://zh.wikipedia.org/wiki/均方差 "wikilink")(MSE,
 Mean Square
-Error)意義下的最佳轉換，因此在[資料壓縮技術中佔有重要的地位](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")。K-L轉換是對輸入的向量x，做一個[正交變換](../Page/正交.md "wikilink")，使得輸出的向量得以去除數據的相關性。
+Error)意義下的最佳轉換，因此在[資料壓縮技術中佔有重要的地位](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")。
+
+K-L轉換名称来自Kari Karhunen和Michel Loève。
+
+K-L轉換是對輸入的向量x，做一個[正交](../Page/正交.md "wikilink")變換，使得輸出的向量得以去除數據的相關性。
 
 然而，K-L轉換雖然具有[均方差](https://zh.wikipedia.org/wiki/均方差 "wikilink")(MSE)意義下的最佳轉換，但必須事先知道輸入的訊號，並且需經過一些繁雜的數學運算，例如[协方差](../Page/协方差.md "wikilink")(covariance)以及[特徵向量](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")(eigenvector)的計算。因此在工程實踐上K-L轉換並沒有被廣泛的應用，不過K-L轉換是理論上最佳的方法，所以在尋找一些不是最佳、但比較好實現的一些轉換方法時，K-L轉換能夠提供這些轉換性能的評價標準。
+
 以處理圖片為範例，在K-L轉換途中，圖片的能量會變得集中，有助於壓縮圖片，但是實際上，KL轉算為input-dependent，即需要對每張輸入圖片存下一個轉換機制，每張圖都不一樣，這在實務應用上是不實際的。
 
 ## 原理

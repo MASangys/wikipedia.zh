@@ -1,4 +1,4 @@
-《**Betsucomi**》是[小學館發行的少女](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1970年創刊，毎月13日発行。
+《**Betsucomi**》是[小學館](../Page/小學館.md "wikilink")發行的少女[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1970年創刊，毎月13日発行。
 
 ## 現在作品
 

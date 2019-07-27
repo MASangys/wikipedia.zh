@@ -1,10 +1,10 @@
-**<string>**是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了[C++标准中的](../Page/C++.md "wikilink")[字符串的基本模板类std](../Page/字符串.md "wikilink")::basic_string及相关的模板类实例：
+**<string>**是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了[C++](../Page/C++.md "wikilink")标准中的[字符串](../Page/字符串.md "wikilink")的基本模板类std::basic_string及相关的模板类实例：
 
 | 模板类实例       | std::basic_string的模板实参                            |
 | ----------- | -------------------------------------------------- |
 | `string`    | `char`                                             |
 | `wstring`   | `wchar_t`                                          |
-| `u16string` | `char16_t`（[C++11新增](../Page/C++11.md "wikilink")） |
+| `u16string` | `char16_t`（[C++11](../Page/C++11.md "wikilink")新增） |
 | `u32string` | `char32_t`（C++11新增）                                |
 
 其中的**`string`**是以`char`作为模板参数的模板类实例\[1\]，把字符串的内存管理责任由`string`负责而不是由编程者负责，大大减轻了[C语言风格的字符串的麻烦](https://zh.wikipedia.org/wiki/string.h "wikilink")。
@@ -18,7 +18,7 @@ STL容器类，用户自定义的类也可以作为它的模板参数，因此�
 
 `std::basic_string`[类模板存储且操纵类似char的对象的序列](https://zh.wikipedia.org/wiki/类模板 "wikilink")。该对象类型的性质由特性类模板std::char_traits的实例来提供，并作为`std::basic_string`的第二个模板参数。
 
-[C++11标准规定](../Page/C++11.md "wikilink")：basic_string的元素是**连续**存储的。即对于basic_string
+[C++11](../Page/C++11.md "wikilink")标准规定：basic_string的元素是**连续**存储的。即对于basic_string
 s，有：`&*(s.begin() + n) == &*s.begin() + n`，其中n属于\[0,
 s.size())。换句话说，指向s\[0\]的指针即为指向CharT\[\]数组的首元素指针。C++11已经禁止了[寫入時複製](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")（copy-on-write)的实现，因为存在多线程安全问题。一般都采用了小字符串优化（SSO）实现，如Visual
 C++：
@@ -35,7 +35,7 @@ size_type _Myres;   // current storage reserved for string
 
 GCC从版本5开始，std::string不再采用COW策略。
 
-[C++17标准规定](../Page/C++17.md "wikilink")，basic_string是AllocatorAwareContainer,
+[C++17](../Page/C++17.md "wikilink")标准规定，basic_string是AllocatorAwareContainer,
 SequenceContainer与ContiguousContainer。
 
 ### 模板参数

@@ -1,15 +1,15 @@
 「**Hard to Love, How to Love**」
-是[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST的第二張正規專輯](https://zh.wikipedia.org/wiki/BEAST "wikilink")，於2013年7月19日發行，主打歌為「Shadow」。整張專輯是由成員之一的[龍俊亨跟金泰洙一起製作](../Page/龍俊亨.md "wikilink")。專輯中的兩首歌曲「沒關係嗎(괜찮겠니)」及「I'm
+是[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST的第二張正規專輯](https://zh.wikipedia.org/wiki/BEAST "wikilink")，於2013年7月19日發行，主打歌為「Shadow」。整張專輯是由成員之一的[龍俊亨](../Page/龍俊亨.md "wikilink")跟金泰洙一起製作。專輯中的兩首歌曲「沒關係嗎(괜찮겠니)」及「I'm
 Sorry」則提前於專輯發行前以數位單曲方式公開音源。不同於多數歌手選擇在音樂節目上首次公開表演新曲，此次專輯BEAST選擇在自己的演唱會上首次公開表演主打歌Shadow。
 
 ## 背景
 
-  - 5月27日，[Cube娛樂的社長洪勝成宣布了有關BEAST回歸的消息](../Page/Cube娛樂.md "wikilink")，「現在是時候跟大家宣告BEAST要回歸的消息了，感謝BEAST的成員們跟他們的努力，讓所有支持他們的人都能感到開心，BEAST已確定會在7月的某一天回歸。」內容也提到在他們專輯發行前以及7月的演唱會中會有兩項計畫，一是於5月29日時以數位單曲方式先公開「沒關係嗎(괜찮겠니)」的音源″，二是在6月份展開一項「B2UTY
+  - 5月27日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")的社長洪勝成宣布了有關BEAST回歸的消息，「現在是時候跟大家宣告BEAST要回歸的消息了，感謝BEAST的成員們跟他們的努力，讓所有支持他們的人都能感到開心，BEAST已確定會在7月的某一天回歸。」內容也提到在他們專輯發行前以及7月的演唱會中會有兩項計畫，一是於5月29日時以數位單曲方式先公開「沒關係嗎(괜찮겠니)」的音源″，二是在6月份展開一項「B2UTY
     More」的計畫。洪社長還提到：「BEAST新專輯預定於7月份發行，在同月的演唱會上會首次公開表演新曲，因此B2UTY們將會是首位欣賞到新曲的人。關於回歸，有很多熱烈的爭議、設計還有有趣的想法一直在進行中，所以請你們要持續期待。」\[1\]
 
 <!-- end list -->
 
-  - 7月11日，[Cube娛樂透過推特公開了新專輯的名稱為](../Page/Cube娛樂.md "wikilink")「Hard to
+  - 7月11日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")透過推特公開了新專輯的名稱為「Hard to
     Love, How to Love」以及發行日期為「7月19日」。\[2\]\[3\]
 
 <!-- end list -->

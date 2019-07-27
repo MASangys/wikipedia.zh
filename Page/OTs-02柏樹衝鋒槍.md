@@ -1,9 +1,9 @@
-**OTs-02柏樹**（）是一種由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[圖拉兵工廠的TsKIB](../Page/圖拉兵工廠.md "wikilink")
-SOO設計局於1970年代初設計，1991年才開始服役的[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")。該槍目前主要列裝於俄羅斯境內的各個執法機構，當中包括俄羅斯[警察及](../Page/警察.md "wikilink")[俄羅斯內務部](https://zh.wikipedia.org/wiki/俄羅斯內務部 "wikilink")。
+**OTs-02柏樹**（）是一種由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[圖拉兵工廠](../Page/圖拉兵工廠.md "wikilink")的TsKIB
+SOO設計局於1970年代初設計，1991年才開始服役的[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")。該槍目前主要列裝於俄羅斯境內的各個執法機構，當中包括俄羅斯[警察](../Page/警察.md "wikilink")及[俄羅斯內務部](https://zh.wikipedia.org/wiki/俄羅斯內務部 "wikilink")。
 
 ## 設計特徵
 
-OTs-02是一種採用傳統設計，發射\[1\]的[反沖作用式衝鋒槍](../Page/反沖作用_\(槍械\).md "wikilink")。該槍的[機匣是由鋼板沖壓而成](https://zh.wikipedia.org/wiki/機匣 "wikilink")，並具有一個以合成塑料製成的，而則位於機匣右邊。其供彈具為20或30發容量的直型[彈匣](../Page/彈匣.md "wikilink")，並插在位於扳機護圈前方的彈匣插槽之內。OTs-02具有一個設計簡陋和向上摺疊的鋼製骨架式[槍托](../Page/槍托.md "wikilink")。該槍還能配備一個專用的[抑制器](../Page/抑制器.md "wikilink")\[2\]，其使用壽命大約為6,000發，與[槍管相同](../Page/槍管.md "wikilink")。
+OTs-02是一種採用傳統設計，發射\[1\]的[反沖作用式衝鋒槍](../Page/反沖作用_\(槍械\).md "wikilink")。該槍的[機匣是由鋼板沖壓而成](https://zh.wikipedia.org/wiki/機匣 "wikilink")，並具有一個以合成塑料製成的，而則位於機匣右邊。其供彈具為20或30發容量的直型[彈匣](../Page/彈匣.md "wikilink")，並插在位於扳機護圈前方的彈匣插槽之內。OTs-02具有一個設計簡陋和向上摺疊的鋼製骨架式[槍托](../Page/槍托.md "wikilink")。該槍還能配備一個專用的[抑制器](../Page/抑制器.md "wikilink")\[2\]，其使用壽命大約為6,000發，與[槍管](../Page/槍管.md "wikilink")相同。
 
 另外，柏樹衝鋒槍亦能夠裝上紅點鏡和激光指示器，而在裝上激光指示器後射手還能以其充當[前握把使用](../Page/輔助握把.md "wikilink")。
 

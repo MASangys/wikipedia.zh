@@ -5,7 +5,7 @@ Point）。
 ## 軟硬體支援
 
 晶片設計公司如[英偉達](https://zh.wikipedia.org/wiki/英偉達 "wikilink")（NVIDIA）將在[Tegra
-3平台支持Miracast](https://zh.wikipedia.org/wiki/Tegra_3 "wikilink")\[1\]，另外[飛思卡爾](https://zh.wikipedia.org/wiki/飛思卡爾 "wikilink")（Freescale）、[德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")（TI）、[邁威爾科技](https://zh.wikipedia.org/wiki/邁威爾科技 "wikilink")（Marvell）等也計畫在產品內加入此功能\[2\]。[Google於](../Page/Google.md "wikilink")2012年10月推出的[Android
+3平台支持Miracast](https://zh.wikipedia.org/wiki/Tegra_3 "wikilink")\[1\]，另外[飛思卡爾](https://zh.wikipedia.org/wiki/飛思卡爾 "wikilink")（Freescale）、[德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")（TI）、[邁威爾科技](https://zh.wikipedia.org/wiki/邁威爾科技 "wikilink")（Marvell）等也計畫在產品內加入此功能\[2\]。[Google](../Page/Google.md "wikilink")於2012年10月推出的[Android
 4.2作業系統中已支援Miracast](../Page/Android.md "wikilink")\[3\]。
 
 ## 參考資料

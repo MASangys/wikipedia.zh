@@ -31,12 +31,12 @@ Google一直被批评其为遵守各国法律而[审查搜索结果](../Page/Goo
 
 ### 阿里云OS事件
 
-Google迫使其合作伙伴[宏碁取消了在](../Page/宏碁.md "wikilink")2012年9月公布[阿里云OS操作系统智能手机的计划](https://zh.wikipedia.org/wiki/阿里云OS "wikilink")，Google高级副总裁[安迪·鲁宾表示](../Page/安迪·鲁宾.md "wikilink")，宏碁与[Android不兼容的](../Page/Android.md "wikilink")“分支”不允许工作，因为宏碁属于[开放手机联盟](https://zh.wikipedia.org/wiki/开放手机联盟 "wikilink")。\[10\]中国[阿里巴巴集团开发的阿里云OS](../Page/阿里巴巴集团.md "wikilink")，副总裁回应称阿里云不是Android的一个分支，并批评Android实际上不是开放的，它的应用市场被Google所掌管的[Google
+Google迫使其合作伙伴[宏碁](../Page/宏碁.md "wikilink")取消了在2012年9月公布[阿里云OS操作系统智能手机的计划](https://zh.wikipedia.org/wiki/阿里云OS "wikilink")，Google高级副总裁[安迪·鲁宾](../Page/安迪·鲁宾.md "wikilink")表示，宏碁与[Android](../Page/Android.md "wikilink")不兼容的“分支”不允许工作，因为宏碁属于[开放手机联盟](https://zh.wikipedia.org/wiki/开放手机联盟 "wikilink")。\[10\]中国[阿里巴巴集团](../Page/阿里巴巴集团.md "wikilink")开发的阿里云OS，副总裁回应称阿里云不是Android的一个分支，并批评Android实际上不是开放的，它的应用市场被Google所掌管的[Google
 Play完全控制](../Page/Google_Play.md "wikilink")。\[11\]
 
 ### 干擾Opera瀏覽器
 
-Google透過檢查不同瀏覽器的署名，把[Opera封鎖在外](https://zh.wikipedia.org/wiki/Opera电脑浏览器 "wikilink")，不允許Opera使用者在[Google+網站以外的網站使用Google](../Page/Google+.md "wikilink")+服務，包括[YouTube和](../Page/YouTube.md "wikilink")[Google搜索](../Page/Google搜索.md "wikilink")。如今此项干扰已经取消\[12\]
+Google透過檢查不同瀏覽器的署名，把[Opera封鎖在外](https://zh.wikipedia.org/wiki/Opera电脑浏览器 "wikilink")，不允許Opera使用者在[Google+](../Page/Google+.md "wikilink")網站以外的網站使用Google+服務，包括[YouTube](../Page/YouTube.md "wikilink")和[Google搜索](../Page/Google搜索.md "wikilink")。如今此项干扰已经取消\[12\]
 
 ## 其他
 
@@ -46,7 +46,7 @@ Google为了维持其服务器，而产生高的能源使用量一直被批评�
 
 ### Go编程语言的命名
 
-Google的编程语言[Go的命名引起了部分人的批评](../Page/Go.md "wikilink")，因为已存在编程语言。\[16\]\[17\]\[18\]
+Google的编程语言[Go](../Page/Go.md "wikilink")的命名引起了部分人的批评，因为已存在编程语言。\[16\]\[17\]\[18\]
 
 ### 不當壟斷市場
 
@@ -60,9 +60,9 @@ Shopping为由对Google处以](https://zh.wikipedia.org/wiki/Google购物 "wikil
 
 2018年2月，印度竞争委员会则认为，Google滥用市场优势地位照顾了自家的订票和旅行服务，因此要求Google支付13.6亿印度卢比，约合2117万美元的罚款\[21\]。
 
-2018年3月，法国竞争监管部门认定Google和[Facebook主导了法国的在线广告市场](../Page/Facebook.md "wikilink")，因此该机构可能在未来几个月对Facebook和Google展开公开调查\[22\]。
+2018年3月，法国竞争监管部门认定Google和[Facebook](../Page/Facebook.md "wikilink")主导了法国的在线广告市场，因此该机构可能在未来几个月对Facebook和Google展开公开调查\[22\]。
 
-2018年7月18日，欧盟宣布Google因迫使使用[Android系统的智能手机制造商安装其应用程序](../Page/Android.md "wikilink")，对谷歌罚款43.4亿欧元。这一数字超过2017年6月谷歌被罚24.2亿欧元的反垄断罚金纪录，创欧盟史上最大罚单。至2018年，全球80%以上的智能手机使用[Android操作系统](../Page/Android.md "wikilink")\[23\]。作为回应，Google将对欧盟的Android的设备制造商收取[Google
+2018年7月18日，欧盟宣布Google因迫使使用[Android](../Page/Android.md "wikilink")系统的智能手机制造商安装其应用程序，对谷歌罚款43.4亿欧元。这一数字超过2017年6月谷歌被罚24.2亿欧元的反垄断罚金纪录，创欧盟史上最大罚单。至2018年，全球80%以上的智能手机使用[Android](../Page/Android.md "wikilink")操作系统\[23\]。作为回应，Google将对欧盟的Android的设备制造商收取[Google
 Play等Google应用授权使用费](../Page/Google_Play.md "wikilink")\[24\]。
 
 2019年3月20日，欧盟竞争监督机构作出决定，对谷歌在广告业务阻挠竞争对手的行为处罚14.9亿欧元。欧盟认为，谷歌滥用其市场主导地位，在与使用[AdSense服务的第三方网站的合同中规定了一些限制性条款](https://zh.wikipedia.org/wiki/AdSense "wikilink")，阻止谷歌的竞争对手在这些网站上投放搜索广告，这一举动违反公平竞争的原则\[25\]。
@@ -89,7 +89,7 @@ Google 员工通过辞职抗议 Google
 
 ### 重返中国传闻
 
-2017年春季，谷歌内部启动代号[“Dragonfly”（蜻蜓）的项目](../Page/蜻蜓計畫.md "wikilink")，可以自动过滤被中国[防火长城屏蔽的网站](../Page/防火长城.md "wikilink")。
+2017年春季，谷歌内部启动代号[“Dragonfly”（蜻蜓）的项目](../Page/蜻蜓計畫.md "wikilink")，可以自动过滤被中国[防火长城](../Page/防火长城.md "wikilink")屏蔽的网站。
 
 一名谷歌团队成员，因不认同公司和政府合作“打压人民”，于是向媒体曝光有关计划。“Dragonfly”項目最終得到Google高管證實\[32\]。一些谷歌员工对公司的中国相关项目表达抗议，要求调职或辞职\[33\]。一千多名谷歌公司员工对谷歌为中国秘密开发审查版谷歌搜索引擎同样表示不满，联名写信要求公司扩大透明度，以便让员工了解他们所从事工作的道德后果。
 
@@ -98,11 +98,11 @@ Google 员工通过辞职抗议 Google
 香港中文大学新闻与传播学院助理教授、曾在2011年到2014年间任谷歌亚太地区言论自由部门负责人的徐洛文在接受采访时批评说，谷歌推出中国审查版搜索这一决定违反了广为接受的人权原则。他说：“中国近年来情况越来越恶化，不让步你就不能在中国立足。”
 \[35\]
 
-包括[国际特赦](https://zh.wikipedia.org/wiki/国际特赦组织 "wikilink")、[人权观察](../Page/人权观察.md "wikilink")、[无国界记者](../Page/无国界记者.md "wikilink")、[国际笔会和](../Page/国际笔会.md "wikilink")[中国人权组织在内的](../Page/中国人权_\(组织\).md "wikilink")14个世界主要国际人权组织联名致信谷歌首席执行官[桑德尔·皮查伊](https://zh.wikipedia.org/wiki/桑德尔·皮查伊 "wikilink")，称谷歌为中国开发审查版搜索引擎是“谷歌在人权上的投降，令人担忧”，而且会导致公司“直接参与人权侵犯或在这个问题上难脱干系”，并表示“审查版搜索引擎将侵犯中国数亿互联网用户的言论自由和隐私权”\[36\]。
+包括[国际特赦](https://zh.wikipedia.org/wiki/国际特赦组织 "wikilink")、[人权观察](../Page/人权观察.md "wikilink")、[无国界记者](../Page/无国界记者.md "wikilink")、[国际笔会](../Page/国际笔会.md "wikilink")和[中国人权组织在内的](../Page/中国人权_\(组织\).md "wikilink")14个世界主要国际人权组织联名致信谷歌首席执行官[桑德尔·皮查伊](https://zh.wikipedia.org/wiki/桑德尔·皮查伊 "wikilink")，称谷歌为中国开发审查版搜索引擎是“谷歌在人权上的投降，令人担忧”，而且会导致公司“直接参与人权侵犯或在这个问题上难脱干系”，并表示“审查版搜索引擎将侵犯中国数亿互联网用户的言论自由和隐私权”\[36\]。
 
 美国副总统[彭斯](../Page/迈克·彭斯.md "wikilink")2018年10月4日在[哈德逊研究所就美国政府的中国政策问题发表演说时也呼吁谷歌应立即终止](https://zh.wikipedia.org/wiki/哈德逊研究所 "wikilink")“蜻蜓”应用的开发。他认为该应用将加强共产党的审查，并损害中国消费者的隐私\[37\]。
 
-Google母公司[Alphabet的董事长](../Page/Alphabet.md "wikilink")[约翰·轩尼诗承认](https://zh.wikipedia.org/wiki/约翰·轩尼诗 "wikilink")，谷歌如果回到中国市场将不得不违背公司的“核心价值”\[38\]。
+Google母公司[Alphabet](../Page/Alphabet.md "wikilink")的董事长[约翰·轩尼诗承认](https://zh.wikipedia.org/wiki/约翰·轩尼诗 "wikilink")，谷歌如果回到中国市场将不得不违背公司的“核心价值”\[38\]。
 
 ## 注释
 

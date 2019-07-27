@@ -1,5 +1,5 @@
 《**TARI
-TARI**》\[1\]是以[神奈川縣的](../Page/神奈川縣.md "wikilink")[江之島為舞臺的原創動畫](../Page/江之島.md "wikilink")，由[P.A.
+TARI**》\[1\]是以[神奈川縣](../Page/神奈川縣.md "wikilink")的[江之島](../Page/江之島.md "wikilink")為舞臺的原創動畫，由[P.A.
 Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年7月1日至9月23日首播，全13話。該片是P.A.Works繼「[真實之淚](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")」、「[花開物語](../Page/花開物語.md "wikilink")」之後第三部青春群像劇\[3\]。
 
 ## 故事簡介
@@ -117,7 +117,7 @@ Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年
 
 ## 構想
 
-故事创作舞台位于[神奈川縣南部的](../Page/神奈川縣.md "wikilink")[藤澤市](../Page/藤澤市.md "wikilink")，大致在[相模灣和](https://zh.wikipedia.org/wiki/相模灣 "wikilink")[镰仓市的東北](../Page/镰仓市.md "wikilink")。制作方多次运用从《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》中流行开来的動漫迷「[圣地](https://zh.wikipedia.org/wiki/圣地 "wikilink")」[朝聖文化](../Page/朝聖.md "wikilink")，下述之图是与藤澤市相近的[江之島](../Page/江之島.md "wikilink")（日本的熱門旅遊景點之一）、主要道路、鐵路火車站。动画中常常可以看到与此相关的场景\[7\]。
+故事创作舞台位于[神奈川縣](../Page/神奈川縣.md "wikilink")南部的[藤澤市](../Page/藤澤市.md "wikilink")，大致在[相模灣和](https://zh.wikipedia.org/wiki/相模灣 "wikilink")[镰仓市](../Page/镰仓市.md "wikilink")的東北。制作方多次运用从《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》中流行开来的動漫迷「[圣地](https://zh.wikipedia.org/wiki/圣地 "wikilink")」[朝聖](../Page/朝聖.md "wikilink")文化，下述之图是与藤澤市相近的[江之島](../Page/江之島.md "wikilink")（日本的熱門旅遊景點之一）、主要道路、鐵路火車站。动画中常常可以看到与此相关的场景\[7\]。
 
 <File:Kamakura> Station.JPG|[鎌倉車站](../Page/鎌倉車站.md "wikilink")
 <File:Enoshima> from Honshu.JPG|從市中心看[江之島](../Page/江之島.md "wikilink")
@@ -476,7 +476,7 @@ Tari》的資訊信息
 ## 漫畫
 
 『[月刊GANGAN
-JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）2012年6月號開始連載。構成[尚村透](../Page/尚村透.md "wikilink")、作畫由[鍵空富燒擔當](../Page/鍵空富燒.md "wikilink")。兩本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年7月21日至12月22日發售\[11\]\[12\]。
+JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）2012年6月號開始連載。構成[尚村透](../Page/尚村透.md "wikilink")、作畫由[鍵空富燒](../Page/鍵空富燒.md "wikilink")擔當。兩本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年7月21日至12月22日發售\[11\]\[12\]。
 
 ## 歌曲
 
@@ -867,11 +867,11 @@ JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯]
 2.
 3.
 4.  起初是因为过于轻率而拒绝，但看到“坂井和奏”的入社名单及其理由“被朋友邀请”的名单后，才同意建立的。
-5.  指[镰仓市的特产](../Page/镰仓市.md "wikilink")“鸽子油酥饼”，由日本“豊島屋”创造并生产。
+5.  指[镰仓市](../Page/镰仓市.md "wikilink")的特产“鸽子油酥饼”，由日本“豊島屋”创造并生产。
 6.  於幕后工作人员名单中，乐队三人并不是以本名表现出来，而是以等假名来指代。
 7.
 8.  JAM Project準成員，巴西籍。
-9.  [普威爾國際代理的台灣中文譯名](../Page/普威爾國際.md "wikilink")。
+9.  [普威爾國際](../Page/普威爾國際.md "wikilink")代理的台灣中文譯名。
 10. 非官方译名
 11.
 12.

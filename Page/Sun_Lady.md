@@ -1,5 +1,5 @@
 **Sun
-Lady**，是[台灣活躍於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2013年至2015年間的四人女子團體，由[孫協志培訓](../Page/孫協志.md "wikilink")，從百人不斷篩選與淘汰，最後留下四人，分別為團長[貝兒](https://zh.wikipedia.org/wiki/Sun_Lady#貝兒 "wikilink")、副團長[張琳](https://zh.wikipedia.org/wiki/Sun_Lady#張琳 "wikilink")、團員[楹子及](https://zh.wikipedia.org/wiki/Sun_Lady#楹子 "wikilink")[語恩](https://zh.wikipedia.org/wiki/Sun_Lady#語恩 "wikilink")，成為[不動心娛樂旗下的簽約藝人](https://zh.wikipedia.org/wiki/不動心娛樂 "wikilink")。
+Lady**，是[台灣活躍於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2013年至2015年間的四人女子團體，由[孫協志](../Page/孫協志.md "wikilink")培訓，從百人不斷篩選與淘汰，最後留下四人，分別為團長[貝兒](https://zh.wikipedia.org/wiki/Sun_Lady#貝兒 "wikilink")、副團長[張琳](https://zh.wikipedia.org/wiki/Sun_Lady#張琳 "wikilink")、團員[楹子及](https://zh.wikipedia.org/wiki/Sun_Lady#楹子 "wikilink")[語恩](https://zh.wikipedia.org/wiki/Sun_Lady#語恩 "wikilink")，成為[不動心娛樂旗下的簽約藝人](https://zh.wikipedia.org/wiki/不動心娛樂 "wikilink")。
 
 2014年6月18日，發行首張迷你同名專輯《Sun
 Lady》正式出道。2015年8月，不動心娛樂公告，[張琳和](https://zh.wikipedia.org/wiki/Sun_Lady#張琳 "wikilink")[語恩因違約而遭公司退團](https://zh.wikipedia.org/wiki/Sun_Lady#語恩 "wikilink")。\[1\]
@@ -11,7 +11,7 @@ Lady正式解散。
 
 ### 團名由來
 
-「Sun Lady」這個團名的概念，是出自於[孫協志的構想](../Page/孫協志.md "wikilink")，其名稱和含義主要分為兩個重點
+「Sun Lady」這個團名的概念，是出自於[孫協志](../Page/孫協志.md "wikilink")的構想，其名稱和含義主要分為兩個重點
 
   - Sun的中文翻譯為[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")，團員們期許自己在舞台上的表現，能夠像太陽般的耀眼且充滿能量，並盡全力的帶給大家熱情與歡樂。
   - Sun同時也是Sun Lady的老闆孫協志的姓「孫」的英文縮寫。由於Sun
@@ -28,7 +28,7 @@ Lady成軍發表會，正式公開此團體，當時成員為[王淯](https://zh
 2014年1月24日在官方臉書公告[王淯退出團體](https://zh.wikipedia.org/wiki/王淯 "wikilink")\[5\]，這時成員為貝兒（團長）、張琳（副團長）、楹子、尹-{筑}-（後改名語恩）。
 
 2015年3月17日官方臉書公告Sun
-Lady前往[中國工作](../Page/中國.md "wikilink")，直到6月初短暫回到台灣。到了6月底貝兒、楹子再次前往[中國](../Page/中國.md "wikilink")[北京工作](https://zh.wikipedia.org/wiki/北京 "wikilink")，另兩位團員張琳、語恩於8月[不動心娛樂公告因違約而遭公司退團](https://zh.wikipedia.org/wiki/不動心娛樂 "wikilink")，\[6\]成員只剩貝兒、楹子。2015年10月10日隨著與公司未續約，Sun
+Lady前往[中國](../Page/中國.md "wikilink")工作，直到6月初短暫回到台灣。到了6月底貝兒、楹子再次前往[中國](../Page/中國.md "wikilink")[北京工作](https://zh.wikipedia.org/wiki/北京 "wikilink")，另兩位團員張琳、語恩於8月[不動心娛樂公告因違約而遭公司退團](https://zh.wikipedia.org/wiki/不動心娛樂 "wikilink")，\[6\]成員只剩貝兒、楹子。2015年10月10日隨著與公司未續約，Sun
 Lady正式解散。
 
 ## 成員
@@ -117,13 +117,13 @@ Lady正式解散。
 ### 貝兒
 
   - **林貝珊**（**Chelsea
-    Lin**，），臺北人，畢業於[真理大學財務金融學系](../Page/真理大學.md "wikilink")，以「貝貝」之名曾為[統一獅啦啦隊](../Page/統一獅.md "wikilink")**Uni
+    Lin**，），臺北人，畢業於[真理大學](../Page/真理大學.md "wikilink")財務金融學系，以「貝貝」之名曾為[統一獅](../Page/統一獅.md "wikilink")啦啦隊**Uni
     Girls**的一員，現為Sun Lady的團長。
 
 ### 楹子
 
   - **賴楹子**（**Rita
-    Lai**，），桃園人，畢業於[治平高中](https://zh.wikipedia.org/wiki/治平高中 "wikilink")、[臺北市立教育大學](https://zh.wikipedia.org/wiki/臺北市立教育大學 "wikilink")，臺灣[韻律體操國手](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")，曾拿到許多優異成績，例如：義大利世界中學運動會棍棒與彩帶銅牌、94年全運會個人全能第一名、[青少年奧林匹克運動會成隊第三名與個人第四名](https://zh.wikipedia.org/wiki/青少年奧林匹克運動會 "wikilink")，並於2010年6月17日被美國有線電視新聞網（CNN）評選為30位亞洲最性感的體育明星之一(第12名)\[7\]。曾為[大學生了沒之固定班底](../Page/大學生了沒.md "wikilink")。
+    Lai**，），桃園人，畢業於[治平高中](https://zh.wikipedia.org/wiki/治平高中 "wikilink")、[臺北市立教育大學](https://zh.wikipedia.org/wiki/臺北市立教育大學 "wikilink")，臺灣[韻律體操國手](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")，曾拿到許多優異成績，例如：義大利世界中學運動會棍棒與彩帶銅牌、94年全運會個人全能第一名、[青少年奧林匹克運動會成隊第三名與個人第四名](https://zh.wikipedia.org/wiki/青少年奧林匹克運動會 "wikilink")，並於2010年6月17日被美國有線電視新聞網（CNN）評選為30位亞洲最性感的體育明星之一(第12名)\[7\]。曾為[大學生了沒](../Page/大學生了沒.md "wikilink")之固定班底。
 
 ### 語恩
 
@@ -136,12 +136,12 @@ Lady正式解散。
   - **張虹羚**（**LinLin
     Chang**，），高雄人，畢業於高雄市立四維國民小學、[高雄市立五福國民中學](https://zh.wikipedia.org/wiki/高雄市立五福國民中學 "wikilink")、[康寧醫護暨管理專科學校](https://zh.wikipedia.org/wiki/康寧醫護暨管理專科學校 "wikilink")。
 
-2006年8月11日曾加入[我愛黑澀會成為](../Page/我愛黑澀會.md "wikilink")[黑澀會美眉之一](../Page/黑澀會美眉.md "wikilink")，然而在同年8月25日「美眉淘汰賽」單元，當時原本準備舞蹈，卻因車禍無法跳舞而改以歌唱應戰，卻因為對於唱歌不擅長而被淘汰。不過張琳並未被打敗，反而更增進自己的歌唱與舞蹈，2009年10月10日參加[我猜我猜我猜猜猜的](../Page/我猜我猜我猜猜猜.md "wikilink")「
+2006年8月11日曾加入[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")成為[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")之一，然而在同年8月25日「美眉淘汰賽」單元，當時原本準備舞蹈，卻因車禍無法跳舞而改以歌唱應戰，卻因為對於唱歌不擅長而被淘汰。不過張琳並未被打敗，反而更增進自己的歌唱與舞蹈，2009年10月10日參加[我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")的「
 歐買尬\!\! 髒鬼系美女」單元。
 
 19歲時，加入[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")，並成為其培訓藝人，之後於2010年11月17日「喬傑立年度超級新團成軍發表會」上，宣布其為女團「Wonder４」團員之一，同團團員尚有[陶嫚曼](../Page/陶嫚曼.md "wikilink")(當時名妍希)、[李相林](../Page/李相林.md "wikilink")、以及小雪，然而後來因團員４人屬不同公司，彼此沒共識，還沒出道就解散。
 
-2012年，隨著[孫協志加入](../Page/孫協志.md "wikilink")[不動心娛樂](https://zh.wikipedia.org/wiki/不動心娛樂 "wikilink")。
+2012年，隨著[孫協志](../Page/孫協志.md "wikilink")加入[不動心娛樂](https://zh.wikipedia.org/wiki/不動心娛樂 "wikilink")。
 
 ## 音樂作品
 
@@ -259,7 +259,7 @@ Lady正式解散。
 <td><p>2011-7-13</p></td>
 <td><p><a href="../Page/Channel_V.md" title="wikilink">Channel [V</a>]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/校園SUPERMAN" title="wikilink">校園SUPERMAN</a></p></td>
-<td><p>超人<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰VS運動美女友誼賽</a></p></td>
+<td><p>超人<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>VS運動美女友誼賽</p></td>
 <td><p><a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a><br />
 運動美女：<strong>楹子</strong>、李欣恩、黃潔伶、劉宜萍、郭婉君</p></td>
 </tr>
@@ -547,7 +547,7 @@ Lady正式解散。
 <tr class="even">
 <td><p>2014-12-14</p></td>
 <td><p><音為有你>愛在公益音樂會</p></td>
-<td><p><a href="../Page/中原大學.md" title="wikilink">中原大學音樂廳</a></p></td>
+<td><p><a href="../Page/中原大學.md" title="wikilink">中原大學</a>音樂廳</p></td>
 <td><p>表演名單：<strong>Sun Lady</strong>、<a href="https://zh.wikipedia.org/wiki/李育倫" title="wikilink">李育倫</a>、<a href="https://zh.wikipedia.org/wiki/吳美賢" title="wikilink">吳美賢</a>、<a href="../Page/王中平.md" title="wikilink">王中平</a></p></td>
 </tr>
 <tr class="odd">

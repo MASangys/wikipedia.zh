@@ -1,5 +1,5 @@
 这是一个[PlayStation
-2](../Page/PlayStation_2.md "wikilink")[电子游戏的列表](../Page/电子游戏.md "wikilink")。它包含了销售100万份以上的游戏，并按销售量排序。
+2](../Page/PlayStation_2.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")的列表。它包含了销售100万份以上的游戏，并按销售量排序。
 
 ## 列表
 
@@ -136,7 +136,7 @@
 <ul>
 <li>美国市场至少233万[31]</li>
 </ul></li>
-<li><a href="../Page/PAL区.md" title="wikilink">PAL区市场</a>1,592,833[32]
+<li><a href="../Page/PAL区.md" title="wikilink">PAL区</a>市场1,592,833[32]
 <ul>
 <li>英国市场至少10万[33]</li>
 </ul></li>

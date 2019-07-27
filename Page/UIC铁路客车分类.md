@@ -1,4 +1,4 @@
-**UIC铁路客车分类**是[国际铁路联盟为各种](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")[铁路客车制定的](https://zh.wikipedia.org/wiki/铁路客车 "wikilink")[国际标准化分类体系](https://zh.wikipedia.org/wiki/国际 "wikilink")。铁路客车的样式在这里由UIC的通用符号显示，它们主要由一个“类别字母”（[大写](https://zh.wikipedia.org/wiki/大写字母 "wikilink")）以及一个或多个“标记字母”（[小写](https://zh.wikipedia.org/wiki/小写字母 "wikilink")）共同组成。在更广泛的意义上，车辆还需要通过[UIC车厢编号以对车辆的具体样式进行区分](../Page/UIC车厢编号.md "wikilink")，因为这些编码包含更多的技术信息，例如最高运行速度及供暖类型等。
+**UIC铁路客车分类**是[国际铁路联盟为各种](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")[铁路客车制定的](https://zh.wikipedia.org/wiki/铁路客车 "wikilink")[国际标准化分类体系](https://zh.wikipedia.org/wiki/国际 "wikilink")。铁路客车的样式在这里由UIC的通用符号显示，它们主要由一个“类别字母”（[大写](https://zh.wikipedia.org/wiki/大写字母 "wikilink")）以及一个或多个“标记字母”（[小写](https://zh.wikipedia.org/wiki/小写字母 "wikilink")）共同组成。在更广泛的意义上，车辆还需要通过[UIC车厢编号](../Page/UIC车厢编号.md "wikilink")以对车辆的具体样式进行区分，因为这些编码包含更多的技术信息，例如最高运行速度及供暖类型等。
 
 UIC铁路客车分类的规范用法通常是标注在每节车辆的侧面或指定的区域中。
 
@@ -183,7 +183,7 @@ UIC铁路客车分类的规范用法通常是标注在每节车辆的侧面或�
 | *另作 **u**：*含34针控制电缆或时刻复用动力集中式列车控制设备的控制车厢 |                                                                                                                                            |
 | **h**                                    | 除了通过列车管线外，还可通过自身车轴发电机供电的车厢                                                                                                                 |
 | *另作：* 尚未完成编号转换的德国国营铁路通勤车厢                |                                                                                                                                            |
-| **i**                                    | *另作**m**：* 原[区际列车车厢](../Page/区际列车.md "wikilink")                                                                                           |
+| **i**                                    | *另作**m**：* 原[区际列车](../Page/区际列车.md "wikilink")车厢                                                                                           |
 | *旧：* 含车厢连接通道、但不含波纹管或橡胶密封圈的车厢             |                                                                                                                                            |
 | **k**                                    | 含酒吧、报刊亭、厨房隔间或自动贩卖机的车厢                                                                                                                      |
 | **l**                                    | 与**m**式车厢类似，但不设侧通道（目前已不使用）                                                                                                                 |

@@ -1,5 +1,5 @@
 **豐田Prius c**（C代表城市），在日本被稱為**TOYOTA
-AQUA**（），是由[豐田汽車公司所生產製造的](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[次緊湊型](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")[油電混合車](https://zh.wikipedia.org/wiki/油電混合車 "wikilink")。是豐田Prius家族系列產品的第三個成員，為結合[豐田Yaris車型大小的油電車版本](../Page/豐田Yaris.md "wikilink")。PRIUS
+AQUA**（），是由[豐田汽車公司所生產製造的](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[次緊湊型](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")[油電混合車](https://zh.wikipedia.org/wiki/油電混合車 "wikilink")。是豐田Prius家族系列產品的第三個成員，為結合[豐田Yaris](../Page/豐田Yaris.md "wikilink")車型大小的油電車版本。PRIUS
 C的訂價低於傳統的[豐田普銳斯](../Page/豐田普銳斯.md "wikilink")，根據[美國環境保護署的測試報告](https://zh.wikipedia.org/wiki/美國環境保護署 "wikilink")，其在城市中行駛有著比較高的燃油效率。
 
 ## 概念車
@@ -10,7 +10,7 @@ C的訂價低於傳統的[豐田普銳斯](../Page/豐田普銳斯.md "wikilink"
 
 [ToyotaAqua_EngineRoom.JPG](https://zh.wikipedia.org/wiki/File:ToyotaAqua_EngineRoom.JPG "fig:ToyotaAqua_EngineRoom.JPG")，左方為引擎，右方為複合動力協同驅動器（Hybrid
 Synergy Drive）\]\]
-以[豐田Yaris底盤](../Page/豐田Yaris.md "wikilink")，搭載豐田的一具1.5升DOHC
+以[豐田Yaris](../Page/豐田Yaris.md "wikilink")底盤，搭載豐田的一具1.5升DOHC
 [直列四缸引擎](../Page/直列四缸引擎.md "wikilink")。
 
 車體略小於傳統的豐田普銳斯。

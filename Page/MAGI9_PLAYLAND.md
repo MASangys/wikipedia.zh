@@ -1,11 +1,11 @@
 《**MAGI9
-PLAYLAND**》是日本女子音樂組合[9nine的第五張](../Page/9nine.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2014年6月18日經[SME
+PLAYLAND**》是日本女子音樂組合[9nine](../Page/9nine.md "wikilink")的第五張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2014年6月18日經[SME
 Records發行](../Page/SME_Records.md "wikilink")\[1\]。
 
 ## 概要
 
 《MAGI9
-PLAYLAND》是9nine距離前一張專輯《》約1年4個月後再次發行的新專輯。除通常盤以外，本作亦同時發行「初回生產限定盤A」和「初回生產限定盤B」，共計三個版本。當中「初回生產限定盤A」附帶的[DVD收錄了](https://zh.wikipedia.org/wiki/DVD "wikilink")3首單曲A面曲之音樂影片、以及[西脇彩華在](../Page/西脇彩華.md "wikilink")2014年3月與姊姊[Perfume的](https://zh.wikipedia.org/wiki/Perfume "wikilink")[西脇綾香首次合演的](https://zh.wikipedia.org/wiki/Perfume "wikilink")「Perfume
+PLAYLAND》是9nine距離前一張專輯《》約1年4個月後再次發行的新專輯。除通常盤以外，本作亦同時發行「初回生產限定盤A」和「初回生產限定盤B」，共計三個版本。當中「初回生產限定盤A」附帶的[DVD收錄了](https://zh.wikipedia.org/wiki/DVD "wikilink")3首單曲A面曲之音樂影片、以及[西脇彩華](../Page/西脇彩華.md "wikilink")在2014年3月與姊姊[Perfume的](https://zh.wikipedia.org/wiki/Perfume "wikilink")[西脇綾香首次合演的](https://zh.wikipedia.org/wiki/Perfume "wikilink")「Perfume
 FES\!\! 2014」特典影片；「初回生產限定盤B」則附送24頁相片集。\[2\]
 
 ## 收錄曲

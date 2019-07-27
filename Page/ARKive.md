@@ -3,10 +3,10 @@ the conservation of the world's threatened species, through the power of
 wildlife
 imagery"）\[1\]的使命，搜集有大量野生动植物和微生物的视频、图片和声音，并将其存入了一个中心化管理的[电子数据库](../Page/数据库.md "wikilink")。\[2\]其现阶段的主要任务是完善好被列于[IUCN红名单上的约](https://zh.wikipedia.org/wiki/国际自然保护联盟濒危物种红色名录 "wikilink")17000余个生存受威胁物种的音-视频资料。\[3\]
 
-计划原是由在英国注册的教育性慈善机构\[4\]发起的，其总部位于英国[布里斯托尔](../Page/布里斯托尔.md "wikilink")。\[5\]技术平台由[惠普负责构建](../Page/惠普.md "wikilink")，同时也是HP
+计划原是由在英国注册的教育性慈善机构\[4\]发起的，其总部位于英国[布里斯托尔](../Page/布里斯托尔.md "wikilink")。\[5\]技术平台由[惠普](../Page/惠普.md "wikilink")负责构建，同时也是HP
 Labs' Digital Media Systems研究项目的一部分。\[6\]
 
-许多领先的生态保护组织或是学术研究结构都为ARKive提供了援助，其中包括[国际鸟盟](https://zh.wikipedia.org/wiki/国际鸟盟 "wikilink")、[保护国际](https://zh.wikipedia.org/wiki/保护国际 "wikilink")、[国际自然保护联盟](https://zh.wikipedia.org/wiki/国际自然保护联盟 "wikilink")（IUCN）、[联合国](https://zh.wikipedia.org/wiki/联合国 "wikilink")[世界保护监测中心](https://zh.wikipedia.org/wiki/世界保护监测中心 "wikilink")（UNEP-WCMC）、[世界自然基金会](../Page/世界自然基金会.md "wikilink")（WWF）,\[7\]、[伦敦自然史博物馆](../Page/自然史博物馆_\(伦敦\).md "wikilink")、[英国邱园和](../Page/邱园.md "wikilink")[史密森尼学会等](../Page/史密森尼学会.md "wikilink")。\[8\]该网站也是[网络生命大百科计划常任](../Page/网络生命大百科.md "wikilink")（Institutional）委员会的成员之一。\[9\]
+许多领先的生态保护组织或是学术研究结构都为ARKive提供了援助，其中包括[国际鸟盟](https://zh.wikipedia.org/wiki/国际鸟盟 "wikilink")、[保护国际](https://zh.wikipedia.org/wiki/保护国际 "wikilink")、[国际自然保护联盟](https://zh.wikipedia.org/wiki/国际自然保护联盟 "wikilink")（IUCN）、[联合国](https://zh.wikipedia.org/wiki/联合国 "wikilink")[世界保护监测中心](https://zh.wikipedia.org/wiki/世界保护监测中心 "wikilink")（UNEP-WCMC）、[世界自然基金会](../Page/世界自然基金会.md "wikilink")（WWF）,\[7\]、[伦敦自然史博物馆](../Page/自然史博物馆_\(伦敦\).md "wikilink")、[英国邱园和](../Page/邱园.md "wikilink")[史密森尼学会](../Page/史密森尼学会.md "wikilink")等。\[8\]该网站也是[网络生命大百科](../Page/网络生命大百科.md "wikilink")计划常任（Institutional）委员会的成员之一。\[9\]
 
 [谷歌地球扩展服务提供了](https://zh.wikipedia.org/wiki/谷歌地球扩展服务 "wikilink")2个ARKive应用功能层（ARKive
 layers），可分别显示出世界受威胁物种\[10\]的分布以及[墨西哥湾](../Page/墨西哥湾.md "wikilink")\[11\]的物种分布情况。其中的第一个应用项目是由生态荧屏基金会的一位赞助人[大衛·艾登伯祿先生在](https://zh.wikipedia.org/wiki/大衛·艾登伯祿 "wikilink")2008年4月推出的。\[12\]

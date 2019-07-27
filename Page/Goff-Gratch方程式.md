@@ -2,7 +2,7 @@
 
 ## 历史
 
-**Goff-Gratch方程式**是以它的两个作者（Goff和Gratch）命名，他们在文章里介绍了在某个温度下，如何计算平静的水面上水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")。Goff在1957年修订了这个方程，1988年**Goff-Gratch方程式**被[世界气象组织所推荐](../Page/世界气象组织.md "wikilink")，2000年又进行了进一步修正。
+**Goff-Gratch方程式**是以它的两个作者（Goff和Gratch）命名，他们在文章里介绍了在某个温度下，如何计算平静的水面上水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")。Goff在1957年修订了这个方程，1988年**Goff-Gratch方程式**被[世界气象组织](../Page/世界气象组织.md "wikilink")所推荐，2000年又进行了进一步修正。
 
 ## 方程式
 
@@ -23,8 +23,8 @@
     log 是以10为底的[对数](https://zh.wikipedia.org/wiki/对数 "wikilink")
     *e*<sup>\*</sup>
     水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")([hPa](../Page/帕斯卡.md "wikilink"))
-    *T*是以[开尔文表示的](../Page/开尔文.md "wikilink")[绝对温度](https://zh.wikipedia.org/wiki/绝对温度 "wikilink")（[K](../Page/开尔文.md "wikilink")）
-    *T<sub>st</sub>*是[沸点温度](../Page/沸点.md "wikilink")(373.15 K)
+    *T*是以[开尔文](../Page/开尔文.md "wikilink")表示的[绝对温度](https://zh.wikipedia.org/wiki/绝对温度 "wikilink")（[K](../Page/开尔文.md "wikilink")）
+    *T<sub>st</sub>*是[沸点](../Page/沸点.md "wikilink")温度(373.15 K)
     *e*<sup>\*</sup><sub>st</sub> 是沸点压力(1 atm = 1013.25 hPa)
 
 在冰面上方，水的饱和蒸汽压可简化为：

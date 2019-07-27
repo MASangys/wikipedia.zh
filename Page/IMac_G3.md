@@ -4,7 +4,7 @@ G3是一台[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")，将
 
 iMac G3拥有半透明、色彩艳丽的外壳，并与色彩相配的键盘、鼠标一起出售。
 
-在沃尔特·艾萨克撰写的[史蒂夫·乔布斯传中](../Page/史蒂夫·乔布斯.md "wikilink")，乔布斯称：“这看起来好极了，以至于你有点想舔它。”
+在沃尔特·艾萨克撰写的[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")传中，乔布斯称：“这看起来好极了，以至于你有点想舔它。”
 
 ## 发展历史
 
@@ -14,7 +14,7 @@ Mac
 G3与规格几乎相同](../Page/Power_Macintosh_G3.md "wikilink"),但仅向教育市场出售的[G3一体机](../Page/Power_Macintosh_G3.md "wikilink")。在停产众多热销的[Performa系列电脑后](../Page/Macintosh_Performa.md "wikilink"),苹果公司需要一个替代产品给他们带来新的价格点。于是,苹果公司便在1998年5月6日宣布了全新的[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink"),\[1\]并在1998年8月15日正式发售iMac
 G3。
 
-iMac与以往的主流机型大相庭径。它由半透明的"邦迪蓝"塑料制成,并以蛋形环绕在15英寸(合38厘米)的[显像管周围](../Page/阴极射线管.md "wikilink")。G3上有一个手柄,计算机的各种接口都被隐藏在机器右侧的夹板后。前面的双耳机插孔则与内置的立体声扬声器相辅相成。现任苹果公司工业设计部副总裁[乔纳森·埃维参与了设计](../Page/乔纳森·埃维.md "wikilink")。
+iMac与以往的主流机型大相庭径。它由半透明的"邦迪蓝"塑料制成,并以蛋形环绕在15英寸(合38厘米)的[显像管周围](../Page/阴极射线管.md "wikilink")。G3上有一个手柄,计算机的各种接口都被隐藏在机器右侧的夹板后。前面的双耳机插孔则与内置的立体声扬声器相辅相成。现任苹果公司工业设计部副总裁[乔纳森·埃维](../Page/乔纳森·埃维.md "wikilink")参与了设计。
 
 [Apple_USB_Keyboard_B.jpg](https://zh.wikipedia.org/wiki/File:Apple_USB_Keyboard_B.jpg "fig:Apple_USB_Keyboard_B.jpg")
 [Apple_iMac_USB_mouse.jpg](https://zh.wikipedia.org/wiki/File:Apple_iMac_USB_mouse.jpg "fig:Apple_iMac_USB_mouse.jpg")
@@ -22,7 +22,7 @@ iMac与以往的主流机型大相庭径。它由半透明的"邦迪蓝"塑料�
 iMac是第一台将[USB接口作为标准并专门提供的电脑](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink"),\[2\]其包含新键盘与鼠标的连接器,\[3\]从而放弃了之前Macintosh电脑周边设备的连接方式,如[ADB](https://zh.wikipedia.org/wiki/苹果桌面总线 "wikilink")(),
 [SCSI与](../Page/小型计算机系统接口.md "wikilink")[GeoPort等接口](https://zh.wikipedia.org/wiki/GeoPort "wikilink").
 
-然而,最"激进"的一步是放弃了3.5英寸的[软驱](../Page/软盘.md "wikilink")(其曾在1984年以来每台Mac中使用).因为苹果认为[可录光碟](https://zh.wikipedia.org/wiki/CD-R "wikilink")、因特网与办公网络很快就会使软盘过时。苹果最初在iMac中内置的[调制解调器速率仅有](../Page/调制解调器.md "wikilink")33.6Kbit/s,但在客户的压力下而研发出了更快的56k调制解调器。苹果此举引发了不少争议。\[4\]于是在iMac推出时,第三方厂商提供的廉价外置USB软驱便应运而生。
+然而,最"激进"的一步是放弃了3.5英寸的[软驱](../Page/软盘.md "wikilink")(其曾在1984年以来每台Mac中使用).因为苹果认为[可录光碟](https://zh.wikipedia.org/wiki/CD-R "wikilink")、因特网与办公网络很快就会使软盘过时。苹果最初在iMac中内置的[调制解调器](../Page/调制解调器.md "wikilink")速率仅有33.6Kbit/s,但在客户的压力下而研发出了更快的56k调制解调器。苹果此举引发了不少争议。\[4\]于是在iMac推出时,第三方厂商提供的廉价外置USB软驱便应运而生。
 
 键盘与鼠标被重新设计以适配iMac的造型,它们都使用了半透明的塑料与"邦迪蓝"的镶边(即苹果USB键盘与苹果USB鼠标)。键盘较苹果以前的键盘小,并采用了黑底白字的设计,这些都引起了争议。鼠标为圆形的"冰球",这种设计被嘲笑给手型大的人带来不必要的麻烦。
 
@@ -51,10 +51,10 @@ G3中的硬盘是[昆腾的Fireball型号](https://zh.wikipedia.org/wiki/昆腾 
 [IMac_G3_flavors.jpg](https://zh.wikipedia.org/wiki/File:IMac_G3_flavors.jpg "fig:IMac_G3_flavors.jpg")
 iMac产品线在最初版后仍然继续更新。除了增加处理器速度、显存大小与硬盘容量,苹果公司还发布了其它颜色外壳的iMac——1999年一月是蓝莓色、草莓色、橘子色、葡萄色与酸橙色;\[6\]之后还发布了其他颜色,如石墨色、红宝石色、鼠尾草色、雪色与靛蓝色,另有"蓝色[达尔马提亚](https://zh.wikipedia.org/wiki/达尔马提亚_\(狗\) "wikilink")"与"花的力量"图案。
 
-随后的升级使iMac看起来更加的圆滑。第二代的iMac内置吸入式光驱、[火线接口](../Page/IEEE_1394.md "wikilink")、"免风扇"操作(通过[自由对流方式冷却](https://zh.wikipedia.org/wiki/自由对流 "wikilink"))与[AirPort](../Page/AirPort.md "wikilink")[无线网络功能](../Page/无线网络.md "wikilink")。苹果在2003年3月之前仍然继续销售该款产品,主要面对想要运行Mac
+随后的升级使iMac看起来更加的圆滑。第二代的iMac内置吸入式光驱、[火线接口](../Page/IEEE_1394.md "wikilink")、"免风扇"操作(通过[自由对流方式冷却](https://zh.wikipedia.org/wiki/自由对流 "wikilink"))与[AirPort](../Page/AirPort.md "wikilink")[无线网络](../Page/无线网络.md "wikilink")功能。苹果在2003年3月之前仍然继续销售该款产品,主要面对想要运行Mac
 OS 9较老版本的客户。
 
-USB、火线端口与对[拨号上网](https://zh.wikipedia.org/wiki/拨号连线 "wikilink")、[以太网和](../Page/以太网.md "wikilink")[无线网络的支持](../Page/无线网络.md "wikilink")(经由[802.11b与](https://zh.wikipedia.org/wiki/802.11b "wikilink")[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink"))很快成为了苹果公司整个产品线的标配,并修正了早期iMac的不足之处。
+USB、火线端口与对[拨号上网](https://zh.wikipedia.org/wiki/拨号连线 "wikilink")、[以太网](../Page/以太网.md "wikilink")和[无线网络](../Page/无线网络.md "wikilink")的支持(经由[802.11b与](https://zh.wikipedia.org/wiki/802.11b "wikilink")[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink"))很快成为了苹果公司整个产品线的标配,并修正了早期iMac的不足之处。
 
 同时iMac的CRT型号开始针对教育市场出售,直到[iMac
 G4的继任者](https://zh.wikipedia.org/wiki/iMac_G4 "wikilink")[eMac发售为止](https://zh.wikipedia.org/wiki/eMac "wikilink")。
@@ -66,7 +66,7 @@ G4的继任者](https://zh.wikipedia.org/wiki/iMac_G4 "wikilink")[eMac发售为�
 ### iMac(托盘式)
 
 托盘式的iMac G3内置15英寸的[显像管](../Page/阴极射线管.md "wikilink"),分辨率为1024 ×
-768。其输入与输出端口为两个[USB](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink")1.1接口,并内置56K的[调制解调器与](../Page/调制解调器.md "wikilink")10/100
+768。其输入与输出端口为两个[USB](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink")1.1接口,并内置56K的[调制解调器](../Page/调制解调器.md "wikilink")与10/100
 BASE-T以太网接口和4Mbit/s的红外端口(仅在版本A与版本B机型中提供)。
 
 它内置立体声扬声器、麦克风、输入/输出音频接口与两个耳机插孔。各种接口都安放在一个夹板后,上有凹痕,方便手指开合。iMac还配备一个冰球型的苹果USB鼠标与新款紧凑型苹果USB鼠标。
@@ -220,7 +220,7 @@ BASE-T以太网接口和4Mbit/s的红外端口(仅在版本A与版本B机型中�
     。搭载350或400MHz的处理器、吸入式的光驱,可选颜色与修订C/D版的iMac相同(外加特别版的石墨色)。使用ATI
     Rage 128 VR显卡（8MB显存）,并有适用于802.11b AirPort卡的内置插槽。
   - 2000年6月19日 — iMac/iMac DV/iMac DV+/iMac DV SE。DV+与DV
-    SE型号将吸入式的[CD-ROM升级为](../Page/CD-ROM.md "wikilink")[DVD-ROM驱动器](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")。处理器主频分别为350、400、450与500MHz,可选石墨色（灰色）、红宝石色（红色）、雪色（白色）、靛蓝色（深蓝色）与鼠尾草色（绿色）。并分别将[苹果USB鼠标换为](https://zh.wikipedia.org/wiki/苹果USB鼠标 "wikilink")[苹果Pro鼠标](https://zh.wikipedia.org/wiki/苹果Pro鼠标 "wikilink");将USB键盘换为Pro键盘。显卡升级为Rage
+    SE型号将吸入式的[CD-ROM](../Page/CD-ROM.md "wikilink")升级为[DVD-ROM驱动器](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")。处理器主频分别为350、400、450与500MHz,可选石墨色（灰色）、红宝石色（红色）、雪色（白色）、靛蓝色（深蓝色）与鼠尾草色（绿色）。并分别将[苹果USB鼠标换为](https://zh.wikipedia.org/wiki/苹果USB鼠标 "wikilink")[苹果Pro鼠标](https://zh.wikipedia.org/wiki/苹果Pro鼠标 "wikilink");将USB键盘换为Pro键盘。显卡升级为Rage
     128 Pro,但仍有8MB显存。同时350MHz型号没有AirPort卡槽并仍不支援火线。
   - 2001年2月22日 —
     处理器主频升级至400、500(PPC750CX处理器)与600MHz(PPC750CX处理器)。可选靛蓝色、石墨色、"蓝达尔马提亚"图案与"花的力量"图案。750CX型号采用了新的"[盘古](../Page/盘古.md "wikilink")"([Pangea](../Page/盤古大陸.md "wikilink"))主板与新的ATI
@@ -317,7 +317,7 @@ Ultra-ATA<br />
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/光盘驱动器.md" title="wikilink">光驱</a></strong></p></td>
-<td><p>24X 吸入式<a href="../Page/CD-ROM.md" title="wikilink">CD-ROM驱动器或</a>4X 吸入式<a href="https://zh.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM驱动器</a></p></td>
+<td><p>24X 吸入式<a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a>驱动器或4X 吸入式<a href="https://zh.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM驱动器</a></p></td>
 <td><p>24X 吸入式CD-ROM驱动器或8X CD-R与4X <a href="https://zh.wikipedia.org/wiki/CD-RW" title="wikilink">CD-RW刻录机与</a>32X 吸入式CD-RW驱动器<br />
 <span style="color:#969696">支持4X 吸入式DVD-ROM驱动器</p></td>
 <td></td>
@@ -378,7 +378,7 @@ G3在2000年代的流行文化中几乎随处可见,包括许多的电视剧,如
 
 iMacs同样在电影**[名模大間諜](../Page/名模大間諜.md "wikilink")**、****、**[乌龙大反击](https://zh.wikipedia.org/wiki/乌龙大反击 "wikilink")**、****与**[辣妈辣妹](../Page/辣妈辣妹.md "wikilink")**中出现。
 
-日本漫畫[Keroro軍曹中的角色](../Page/Keroro軍曹.md "wikilink")－[Keroro所用的電腦就是iMac](../Page/Keroro.md "wikilink")
+日本漫畫[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")中的角色－[Keroro](../Page/Keroro.md "wikilink")所用的電腦就是iMac
 G3、在單行本第一冊出現(後來改為iMac G4)，亦曾用作製作個人網站。
 
 ## 参考

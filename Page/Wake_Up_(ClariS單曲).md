@@ -1,5 +1,5 @@
 《**Wake
-Up**》是[ClariS的第](../Page/ClariS.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月15日由[SME
+Up**》是[ClariS](../Page/ClariS.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月15日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要

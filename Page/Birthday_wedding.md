@@ -1,9 +1,9 @@
 《**Birthday
-wedding**》是[日本](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[柏木由紀的第二张](../Page/柏木由紀.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年10月16日由[YukiRing發售](../Page/YukiRing.md "wikilink")\[1\]。
+wedding**》是[日本](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[柏木由紀](../Page/柏木由紀.md "wikilink")的第二张[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年10月16日由[YukiRing](../Page/YukiRing.md "wikilink")發售\[1\]。
 
 ## 概要
 
-在这张单曲中收录了柏木由纪自己作词的三首歌，这也是继[板野友美](../Page/板野友美.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[倉持明日香後第](../Page/倉持明日香.md "wikilink")6位为歌曲作词的[AKB48成員](../Page/AKB48.md "wikilink")。
+在这张单曲中收录了柏木由纪自己作词的三首歌，这也是继[板野友美](../Page/板野友美.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")後第6位为歌曲作词的[AKB48](../Page/AKB48.md "wikilink")成員。
 
 本單曲以初回盤A、B、C、通常盤A、B、C的6種形式發售。
 
@@ -12,7 +12,7 @@ Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")3小时特别节
 
 ## 活動
 
-本作的Type-A/B/C的初回盤購買者可得到封入的應募卡，可参加2013年11月7日在[橫濱體育館中舉行的](../Page/橫濱體育館.md "wikilink")「柏木由紀
+本作的Type-A/B/C的初回盤購買者可得到封入的應募卡，可参加2013年11月7日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")中舉行的「柏木由紀
 3rd獨唱Live 睡著或醒著都是YUKIRIN世界 〜會讓你更沈迷喔〜 」（）的2000张门票的抽選\[3\]。
 
 ## 收錄曲目

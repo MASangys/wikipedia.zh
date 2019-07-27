@@ -1,4 +1,4 @@
-《**Consolation**》是[Kalafina的第](../Page/Kalafina.md "wikilink")4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2013年3月20日由[SME
+《**Consolation**》是[Kalafina](../Page/Kalafina.md "wikilink")的第4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2013年3月20日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
 ## 收錄曲目

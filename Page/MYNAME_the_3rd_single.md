@@ -1,7 +1,7 @@
 -----
 
 《**MYNAME the 3rd
-single**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME的第](../Page/MYNAME.md "wikilink")3張韓語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2013年10月11日由[H2media發售](https://zh.wikipedia.org/wiki/H2media "wikilink")
+single**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第3張韓語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2013年10月11日由[H2media發售](https://zh.wikipedia.org/wiki/H2media "wikilink")
 
 ## 概要
 

@@ -1,5 +1,5 @@
 『**Simple
-Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛在](../Page/川嶋愛.md "wikilink")2009年6月3日發售的首張第四張非迷你專輯\[1\]。
+Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2009年6月3日發售的首張第四張非迷你專輯\[1\]。
 
 ## 解説
 

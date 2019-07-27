@@ -1,5 +1,5 @@
 《**I'm Your
-Boy**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")3張原創日語專輯。於2014年9月24日由[日本環球唱片子廠牌](../Page/環球音樂_\(日本\).md "wikilink")[EMI音樂日本發售](https://zh.wikipedia.org/wiki/EMI音樂 "wikilink")\[1\]。
+Boy**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第3張原創日語專輯。於2014年9月24日由[日本環球唱片子廠牌](../Page/環球音樂_\(日本\).md "wikilink")[EMI音樂日本發售](https://zh.wikipedia.org/wiki/EMI音樂 "wikilink")\[1\]。
 
 ## 概要
 
@@ -18,12 +18,12 @@ Boy**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilin
 
 此專輯共分為3個發行版本：
 
-  - 初回生產限定盤A（編號：UPCH-29175）：此版本包括一片CD、48頁寫真歌詞本（A版）及一片收錄所有曾發行單曲之[音樂錄影帶與](../Page/音樂錄影帶.md "wikilink")《Boys
+  - 初回生產限定盤A（編號：UPCH-29175）：此版本包括一片CD、48頁寫真歌詞本（A版）及一片收錄所有曾發行單曲之[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與《Boys
     Meet U》特別演出短片的DVD，同時隨機附贈六款小卡其中一種\[2\]。
 
 <!-- end list -->
 
-  - 初回生產限定盤B（編號：UPCH-29176）：此版本包括了一片CD、48頁寫真歌詞本（B版）及一片所有曾發行單曲之[音樂錄影帶與](../Page/音樂錄影帶.md "wikilink")《I'm
+  - 初回生產限定盤B（編號：UPCH-29176）：此版本包括了一片CD、48頁寫真歌詞本（B版）及一片所有曾發行單曲之[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與《I'm
     Your Boy》封面拍攝花絮及專題訪問的DVD，同時隨機附贈六款小卡其中一種\[3\]。
 
 <!-- end list -->
@@ -36,7 +36,7 @@ Boy**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilin
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------ | ---- |
 | 專輯日榜                                     | 1    | 19,828 | 45.053 | 3星期  |
 | 專輯週榜                                     | 1    | 45,053 |        |      |

@@ -66,7 +66,7 @@ Entertainment 推出的韓國男子團體組合，於4月8日與IU合作歌曲�
 <ul>
 <li>發行日期：2014年7月29日</li>
 <li>語言：韓語</li>
-<li>備註：與<a href="../Page/金藝琳.md" title="wikilink">金藝琳合作的單曲</a></li>
+<li>備註：與<a href="../Page/金藝琳.md" title="wikilink">金藝琳</a>合作的單曲</li>
 </ul></td>
 <td></td>
 </tr>

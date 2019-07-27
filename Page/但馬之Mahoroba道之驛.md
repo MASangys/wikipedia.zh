@@ -1,5 +1,5 @@
 **但馬之Mahoroba道之驛**（平假名：みちのえき
-たじまのまほろば）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[朝來市的](../Page/朝來市.md "wikilink")[北近畿豐岡自動車道之](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[休息區](https://zh.wikipedia.org/wiki/休息區 "wikilink")/[道之驛](../Page/道之驛.md "wikilink")。
+たじまのまほろば）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[朝來市](../Page/朝來市.md "wikilink")的[北近畿豐岡自動車道之](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[休息區](https://zh.wikipedia.org/wiki/休息區 "wikilink")/[道之驛](../Page/道之驛.md "wikilink")。
 
 ## 連接道路
 

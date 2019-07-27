@@ -10,7 +10,7 @@ TRIBE**，又譯為**放浪一族**，是日本流行音樂團體[放浪兄弟](
 
 ### 2012年
 
-  - 4月14日-7月1日，舉行[巨蛋巡迴](../Page/巨蛋.md "wikilink")「EXILE TRIBE LIVE TOUR
+  - 4月14日-7月1日，舉行[巨蛋](../Page/巨蛋.md "wikilink")巡迴「EXILE TRIBE LIVE TOUR
     2012～TOWER OF WISH～」。6處場所共17場公演動員約73萬人。最後一天，發表了組成新組合「THE SECOND」。
   - 9月5日，作為EXILE和第三代J Soul Brothers的協作，用EXILE TRIBE名義發售首張的單曲「[24karats
     TRIBE OF GOLD](../Page/24karats_TRIBE_OF_GOLD.md "wikilink")」。
@@ -36,7 +36,7 @@ TRIBE**，又譯為**放浪一族**，是日本流行音樂團體[放浪兄弟](
 
 ### 2015年
 
-  - 4月19日起播映的の[日本電視台系連續電視劇](../Page/日本電視台.md "wikilink")「[WILD
+  - 4月19日起播映的の[日本電視台](../Page/日本電視台.md "wikilink")系連續電視劇「[WILD
     HEROES](https://zh.wikipedia.org/wiki/WILD_HEROES "wikilink")」由EXILE
     TRIBE中的[TAKAHIRO](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")、[佐藤大樹](../Page/佐藤大樹.md "wikilink")、[黒木啓司）](https://zh.wikipedia.org/wiki/黒木啓司） "wikilink")、[岩田剛典](../Page/岩田剛典.md "wikilink")、[青柳翔](../Page/青柳翔.md "wikilink")、[野替愁平](../Page/野替愁平.md "wikilink")、[八木将康等演出](https://zh.wikipedia.org/wiki/八木将康 "wikilink")。
   - 8月11日、發表綜合娛樂·項目「HiGH\&LOW」的企劃。
@@ -45,7 +45,7 @@ TRIBE**，又譯為**放浪一族**，是日本流行音樂團體[放浪兄弟](
     S.W.O.R.D.〜](https://zh.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")」。參與演出的EXILE
     TRIBE成員包括有EXILE、三代目J Soul Brothers、GENERATIONS、E-girls、劇團EXILE的團成員。
 
-另外、有與電視劇連動配信網站「[Hulu](../Page/Hulu.md "wikilink")」所配信的特別版電視劇及開始[社交網路服務的](../Page/社交網路服務.md "wikilink")[instagram帳號](https://zh.wikipedia.org/wiki/instagram "wikilink")、及[別冊少年Champion的](https://zh.wikipedia.org/wiki/別冊少年Champion "wikilink")10月號起連載「High\&LOW」的漫畫。\[1\]
+另外、有與電視劇連動配信網站「[Hulu](../Page/Hulu.md "wikilink")」所配信的特別版電視劇及開始[社交網路服務](../Page/社交網路服務.md "wikilink")的[instagram帳號](https://zh.wikipedia.org/wiki/instagram "wikilink")、及[別冊少年Champion的](https://zh.wikipedia.org/wiki/別冊少年Champion "wikilink")10月號起連載「High\&LOW」的漫畫。\[1\]
 
   - 在2015年12月24日電視劇「HiGH\&LOW〜THE STORY OF S.W.O.R.D」的最終回發表了2016年春天開始播映
     SEASON 2。

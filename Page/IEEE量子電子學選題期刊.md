@@ -1,5 +1,5 @@
 **IEEE量子電子學選題期刊**()是一份由[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")(IEEE)出版之雙月期刊形式的[同行評審](../Page/同行評審.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")。本期刊涵蓋[量子電子學方面的研究](../Page/量子光学.md "wikilink")。[主編](https://zh.wikipedia.org/wiki/主編 "wikilink")(editor-in-chief)為約翰·卡類吉(John
-Cartledge，服務於[加拿大](../Page/加拿大.md "wikilink")[皇后大學](../Page/皇后大學_\(加拿大\).md "wikilink"))。根據[期刊引证报告](../Page/期刊引证报告.md "wikilink")，本期刊在2012年的[影响因子為](../Page/影响因子.md "wikilink")\<4.078\>。\[1\]
+Cartledge，服務於[加拿大](../Page/加拿大.md "wikilink")[皇后大學](../Page/皇后大學_\(加拿大\).md "wikilink"))。根據[期刊引证报告](../Page/期刊引证报告.md "wikilink")，本期刊在2012年的[影响因子](../Page/影响因子.md "wikilink")為\<4.078\>。\[1\]
 
 ## 參見
 

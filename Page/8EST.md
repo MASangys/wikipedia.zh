@@ -1,11 +1,11 @@
-《**8EST**》是[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")1張單精選集，發行於2012年10月17日發行，唱片公司為[Imperial
+《**8EST**》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第1張單精選集，發行於2012年10月17日發行，唱片公司為[Imperial
 Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要
 
   - [關8的第](../Page/關西傑尼斯8.md "wikilink")1張精選集。
   - 和上一個原創專輯差了11個月。
-  - 收錄了從「浪花いろは節」開始到以特殊組合「關8戰隊」的名義發行的「[ER](https://zh.wikipedia.org/wiki/ER "wikilink")」為止的所有單曲標題的所有曲目，以及2012年8月開始的8祭企劃（∞祭～ボクらも8っちゃい、8っちゃけまつり～）優勝的[橫山裕為中心的新曲](../Page/橫山裕.md "wikilink")「クルトン(Crouton)」。
+  - 收錄了從「浪花いろは節」開始到以特殊組合「關8戰隊」的名義發行的「[ER](https://zh.wikipedia.org/wiki/ER "wikilink")」為止的所有單曲標題的所有曲目，以及2012年8月開始的8祭企劃（∞祭～ボクらも8っちゃい、8っちゃけまつり～）優勝的[橫山裕](../Page/橫山裕.md "wikilink")為中心的新曲「クルトン(Crouton)」。
 
 ## 收錄曲
 
@@ -178,7 +178,7 @@ Event（松原信一 presents）。
 
 1.  クルトン(PV)
 2.  クルトン(making)
-3.  微笑約會(8祭最後2名[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[丸山隆平的處罰影片](../Page/丸山隆平.md "wikilink")。)
+3.  微笑約會(8祭最後2名[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")的處罰影片。)
 
 **通常盤**
 

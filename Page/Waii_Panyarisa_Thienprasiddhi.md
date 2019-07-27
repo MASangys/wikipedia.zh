@@ -42,7 +42,9 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2015年8月19日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>(Secret Love) รักที่ซ่อนอยู่ 隱藏的愛</li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>2st</strong></p></td>
@@ -51,7 +53,9 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2015年12月1日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>(Very Well) ชีวิตดี๊ดี 美好生活</li>
+</ol></td>
 </tr>
 </tbody>
 </table>
@@ -74,7 +78,12 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2007年12月13日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>ตกหลุมรัก</li>
+<li>ถอนสายบัว</li>
+<li>เพื่อนใจน้อย</li>
+<li>My Space (合唱)</li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>2nd</strong></p></td>
@@ -83,7 +92,16 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2008年12月13日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>ยอมให้จับนะ</li>
+<li>ถามไม่ตรงคำตอบ</li>
+<li>ฉันเป็นแฟนเธอแล้ว</li>
+<li>ฝากไว้อีกวัน</li>
+<li>เอาน่ะ</li>
+<li>ตกหลุมรัก</li>
+<li>เพื่อนใจน้อย</li>
+<li>ถอนสายบัว</li>
+</ol></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>3th</strong></p></td>
@@ -92,7 +110,17 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2010年2月25日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>(Love You No More) ไม่รักเธอ Feat. TJ <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></li>
+<li>(Break) ห่างกันสักพัก</li>
+<li>(Hush Up) ผู้ชายใจน้อย Feat. Kenta <a href="https://zh.wikipedia.org/wiki/K-OTIC" title="wikilink">K-OTIC</a></li>
+<li>(Beside) อยู่ให้เธอรัก</li>
+<li>(Who Cares) ผิดที่เขา</li>
+<li>(Cuz Of U) เธอทำให้ฉันรัก</li>
+<li>(That's Fair) เหงามาเหงาไป</li>
+<li>(Right Or Wrong) ถูกหรือผิด</li>
+<li>(Do You Love Me?) รักฉันมั๊ย</li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>4th</strong></p></td>
@@ -101,7 +129,22 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2010年</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>(Break) ห่างกันสักพัก</li>
+<li>ตกหลุมรัก</li>
+<li>(Who Cares) ผิดที่เขา</li>
+<li>เพื่อนใจน้อย</li>
+<li>(Love You No More) ไม่รักเธอ Feat. TJ <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></li>
+<li>ยอมให้จับนะ</li>
+<li>อย่าเผลอนะ</li>
+<li>(Do You Love Me?) รักฉันมั๊ย</li>
+<li>(That's Fair) เหงามาเหงาไป</li>
+<li>ฝากไว้อีกวัน</li>
+<li>(Hush Up) ผู้ชายใจน้อย Feat. Kenta <a href="https://zh.wikipedia.org/wiki/K-OTIC" title="wikilink">K-OTIC</a></li>
+<li>ฉันเป็นแฟนเธอแล้ว</li>
+<li>ถอนสายบัว</li>
+<li>ยอมให้จับนะ [Feat.Poppy K-OTIC]</li>
+</ol></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>5th</strong></p></td>
@@ -110,7 +153,11 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2013年</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>รักฉันทำไม (For What?) Feat. <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></li>
+<li>เสียใจแต่ไม่แคร์ (Whatever)</li>
+<li>ตัดใจไม่ลงและคงไม่ยอม (Refuse)</li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>6th</strong></p></td>
@@ -119,7 +166,11 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2014年</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>พรุ่งนี้ยังมีเหมือนเดิม (Tomorrow) Feat. Knomjean</li>
+<li>ถามผิดมั้ง (WHAT DA HECK)</li>
+<li>รักยังมีต่อ (Love must go on) * 於21-11-2014在Deezer發佈</li>
+</ol></td>
 </tr>
 </tbody>
 </table>
@@ -143,7 +194,14 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2009年6月30日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>ภาวะโลก Luv (合唱)</li>
+<li>จะมีสักวันที่เป็นของฉันมั๊ย (合唱)</li>
+<li>รักแปลว่ารักหรือเปล่า เฟย์ Feat.แจม,จินนี่,หวาย (合唱)</li>
+<li>อย่าเผลอนะ Feat. เฟย์,จินนี่,พิม,แจม,มีน,มีล่า (合唱)</li>
+<li>รักชัดๆ มีล่า Feat.หวาย (合唱)</li>
+<li>ไม่มีวันไหนไม่ใช่ของเธอ (合唱)</li>
+</ol></td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +225,11 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2008年2月27日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>Forward (合唱)</li>
+<li>เพื่อนกัน…ฉันรักเธอ (合唱)</li>
+<li>รักฉันเรียกว่าเธอ</li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>2nd</strong></p></td>
@@ -177,7 +239,10 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2008年12月9日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>เพลงรัก (合唱)</li>
+<li>(Tarm Mai Trong Kum Torb) ถามไม่ตรงคำตอบ</li>
+</ol></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>3rd</strong></p></td>
@@ -187,7 +252,20 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2010年7月14日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li><strong>KamiKaze Wave (合唱)</strong></li>
+<li>Love Villa Feat. 2 High</li>
+<li>(Jealous) ไม่ใช่อิจฉา</li>
+<li>เรื่องของเรา (อย่าบอกเขาเลย) Secret</li>
+<li>(Shake it ah) เขย่า 3.2.1</li>
+<li><strong>(Break) ห่างกันสักพัก</strong></li>
+<li>เถียง Feat. Kaew FFK</li>
+<li>มีฉันเป็นอะไร</li>
+<li>(Baby Boy) Feat. Koen K-OTIC</li>
+<li>ไม่เคยถูกรักเลย</li>
+<li>บอกเขาว่าเราไม่ใช่เพื่อนกัน</li>
+<li>(Alone) เหงาปาก</li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>4th</strong></p></td>
@@ -197,7 +275,44 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2011年12月22日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p>Disc 1</p>
+<ol>
+<li><strong>(Trilogy)รักสามเรา KnomJean &amp; WAii &amp; Gavin 3.2.1 (合唱)</strong></li>
+<li>(Suffocated)ไม่มีเธอไม่อยากหายใจ K-OTIC</li>
+<li>(Lovin’U) Jamila</li>
+<li>(Like A Maze) เพื่อนที่เธอไม่รู้ใจ Tomo &amp; Kaew</li>
+<li>(It’s You) ใช่เธอ Poppy &amp; Fang</li>
+<li>(Forbidden Love) เริ่มวันไหน…จบวันนั้น KAT-PAT</li>
+<li>(Deception) ไม่ได้อกหัก X I S</li>
+<li>(Want More Shawty) มีอีกไหม 3.2.1</li>
+<li><strong>(Every Minute) รักเธอทุกวินาที All KamiKaze (合唱)</strong></li>
+<li>(Sensitive) ไวต่อความรู้สึก Kiss Me Five</li>
+<li>(Sad Scene) ฉากเรียกน้ำตา SWEE:D</li>
+<li>(Jealous)ไม่ใช่อิจฉา Faye Fang Kaew</li>
+<li>(My Boo)แค่ที่รัก 3.2.1</li>
+<li><strong>(KamiKaze Wave) All KamiKaze (合唱)</strong></li>
+<li>ไม่เคยถูกรักเลย Neko Jump</li>
+<li><strong>เพื่อนกัน…ฉันรักเธอ All KamiKaze (合唱)</strong></li>
+</ol>
+<p>Disc 2</p>
+<ol>
+<li><strong>(Break) ห่างกันสักพัก WAii</strong></li>
+<li>(Unbelievable) ถ้าเธอมีจริง Monkey Hero Feat. Girl Berry</li>
+<li>(DEJAVU) 2 High</li>
+<li>(One Kiss) Payu</li>
+<li><strong>(LUV)ภาวะโลก Seven Days (合唱)</strong></li>
+<li>เลิกกับฉันได้มั้ย KnomJean</li>
+<li>รักได้รักไปแล้ว Four-Mod</li>
+<li>(Your Girl) แฟนคนนึง Faye Fang Kaew</li>
+<li>ระหว่างเพื่อนกับแฟน KnomJean</li>
+<li>ละลาย Four-Mod</li>
+<li><strong>รักฉันเรียกว่าเธอ All KamiKaze (合唱)</strong></li>
+<li>ปากดี ขี้เหงา เอาแต่ใจ Jamila</li>
+<li><strong>ตกหลุมรัก WAii</strong></li>
+<li>อย่ามากมาย Siska</li>
+<li>จุ๊บ จุ๊บ Neko Jump</li>
+<li><strong>ขัดใจ All KamiKaze (合唱)</strong></li>
+</ol></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>5th</strong></p></td>
@@ -207,7 +322,24 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2012年5月23日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>(For What?)รักฉันทำไม Feat. <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></li>
+<li>(Blinded) หลงทาง Faye Fang Kaew</li>
+<li>(Break) ห่างกันสักพัก WAii</li>
+<li>(Jealous) ไม่ใช่อิจฉา Faye Fang Kaew</li>
+<li>(Who Cares) ผิดที่เขา WAii</li>
+<li>(My Question?) คำถาม Faye Fang Kaew</li>
+<li>ตกหลุมรัก WAii</li>
+<li>(Your Girl) แฟนคนนึง Faye Fang Kaew Feat.Tomo K-OTIC</li>
+<li>(Do you love me?) รักฉันมั้ย WAii</li>
+<li>(Blank) อยากลืมว่าเป็นเพื่อนเธอ Faye Fang Kaew</li>
+<li>เพื่อนใจน้อย WAii</li>
+<li>(BABY BOY) Faye Fang Kaew Feat.Koen K-OTIC</li>
+<li>(Love You No More) ไม่รักเธอ WAii (合唱)</li>
+<li>(I LUV U) ผมรักคุณ Faye Fang Kaew</li>
+<li>ยอมให้จับนะ WAii Feat. Poppy K-OTIC</li>
+<li>(MIZ CALL MIZ U) Faye Fang Kaew Feat.K-OTIC (T-RAP)</li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>6th</strong></p></td>
@@ -217,7 +349,21 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2012年7月11日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li>(Loveaholic) Fay Fang Kaew</li>
+<li><strong>(Whatever) เสียใจแต่ไม่แคร์ Waii</strong></li>
+<li>(Mai ruk jum dai) ไม่รักจำได้ Neko Jump</li>
+<li>(The End) จบมั๊ย Timethai</li>
+<li>(Jeeb dai fan mai ruk) จีบได้แฟนไม่รัก Four-Mod</li>
+<li>(Laew ruk mai) งี่เง่า เข้าใจยาก เรื่องมาก (แล้วรักมั๊ย?) AB queen</li>
+<li>(One wish) เผื่อวันพรุ่งนี้ K-OTIC</li>
+<li>(Hidden) อย่าบอกเขาว่าเราเคยคบกัน Knomjean</li>
+<li>(Fan kao fan rao) แฟนเขา แฟนเรา Four-Mod</li>
+<li><strong>(For What)? รักฉันทำไม Waii Feat. 3.2.1</strong>(合唱)</li>
+<li>(No more) รักกว่านี้ไม่มีอีกละ Timethai Feat. Tomo K-OTIC</li>
+<li>(Girls on top) ไม่ถอดใจ Neko Jump</li>
+<li>(Jeeb dai fan mai ruk) (Ukulele Version) จีบได้แฟนไม่รัก Four-Mod</li>
+</ol></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>7th</strong></p></td>
@@ -227,7 +373,24 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2012年12月12日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><ol>
+<li><strong>(Destiny) รักแท้จะตามหาเธอ (合唱)</strong></li>
+<li>(Silly Question)ถามไม่คิด</li>
+<li>(Top Secret)มีอะไรอีกมั้ยที่ลืมบอก</li>
+<li>Ab(แอ๊บ)</li>
+<li><strong>(Refuse)ตัดใจไม่ลงและคงไม่ยอม</strong></li>
+<li>(Kidnap) รักพาตัว</li>
+<li>หน้าตาดีไม่มีแฟน</li>
+<li>เปล่าเจ้าชู้</li>
+<li>Honey, I hate you</li>
+<li>Dirty Party</li>
+<li>วัยรุ่นครั้งเดียว</li>
+<li>(Always Da One)ไม่มีทางไม่มีเธอ</li>
+<li>(Enough) เลิกกันนะ</li>
+<li>คนดีนาทีสุดท้าย</li>
+<li>Angry Boo</li>
+<li><strong>(Friends)เพื่อน (合唱)</strong></li>
+</ol></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>8th</strong></p></td>
@@ -237,23 +400,25 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 <li>發行日期：2013年3月26日</li>
 <li>語言：泰語</li>
 </ul></td>
-<td style="text-align: left;"><p>{{hidden|曲目|</p>
-<ol>
-<li><big>(For What?)รักฉันทำไม Feat. <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></li>
-<li>(Love You No More) ไม่รักเธอ Feat. TJ <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></big></li>
+<td style="text-align: left;"><ol>
+<li>(For What?)รักฉันทำไม Feat. <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></li>
+<li>(Love You No More) ไม่รักเธอ Feat. TJ <a href="https://zh.wikipedia.org/wiki/3.2.1" title="wikilink">3.2.1</a></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>9th</strong></p></td>
+<td style="text-align: left;"><p>第九張合輯《<strong><a href="https://zh.wikipedia.org/wiki/Meaning" title="wikilink">Meaning</a></strong>》</p>
+<ul>
+<li>歌手：Knomjean</li>
+<li>發行日期：2013年6月20日</li>
+<li>語言：泰語</li>
+</ul></td>
+<td style="text-align: left;"><ol>
+<li><strong>พรุ่งนี้ยังมีเหมือนเดิม (Tomorrow) Knomjean feat. WAii (合唱)</strong></li>
 </ol></td>
 </tr>
 </tbody>
 </table>
-
-}} |- bgcolor="\#F0F8FF" |align="center"| **9th** |align="left"|
-第九張合輯《**[Meaning](https://zh.wikipedia.org/wiki/Meaning "wikilink")**》
-
-  - 歌手：Knomjean
-  - 發行日期：2013年6月20日
-  - 語言：泰語
-
-|align="left" style="font-size: 85%;"|  |}
 
 ## 參考資料
 

@@ -1,19 +1,14 @@
-**Ras超家族**（）是一个，名称来自其中的[Ras亚家族](https://zh.wikipedia.org/wiki/Ras亚家族 "wikilink")（在人类中为[KRAS](https://zh.wikipedia.org/wiki/KRAS "wikilink")、[NRAS和](https://zh.wikipedia.org/wiki/NRAS "wikilink")[HRAS](https://zh.wikipedia.org/wiki/HRAS "wikilink")）。
+**Ras超家族**（）是一个[蛋白质超家族](https://zh.wikipedia.org/wiki/蛋白质超家族 "wikilink")，名称来自其中的[Ras亚家族](https://zh.wikipedia.org/wiki/Ras亚家族 "wikilink")（在人类中为[KRAS](https://zh.wikipedia.org/wiki/KRAS "wikilink")、[NRAS和](https://zh.wikipedia.org/wiki/NRAS "wikilink")[HRAS](https://zh.wikipedia.org/wiki/HRAS "wikilink")）。
 
 Ras超家族中有超过100种蛋白质\[1\]
 ，根据其序列、结构和功能，可分为9个主要的家族，各自还可再分亚家族。这9个蛋白质家族为：[Ras](https://zh.wikipedia.org/wiki/Ras亚家族 "wikilink")、[Rad](https://zh.wikipedia.org/wiki/RRAD "wikilink")、[Rab](https://zh.wikipedia.org/wiki/Rab_\(G-protein\) "wikilink")、[Rap](https://zh.wikipedia.org/wiki/Rap_GTP-binding_protein "wikilink")、[Ran](https://zh.wikipedia.org/wiki/Ran_\(biology\) "wikilink")、[Rho](https://zh.wikipedia.org/wiki/Rho_family_of_GTPases "wikilink")、[Rheb](https://zh.wikipedia.org/wiki/Rheb "wikilink")、[Rit和](https://zh.wikipedia.org/wiki/RIT1 "wikilink")[Arf](https://zh.wikipedia.org/wiki/ADP_ribosylation_factor "wikilink")，*Miro*最近也被列入这个超家族中。
 
 每个亚家族都有共同的G结构域核心，提供GTP酶与GTP/GDP交换活性。
 
-The surrounding sequence helps determine the functional specificity of
-the small GTPase, for example the 'Insert Loop', common to the Rho
-subfamily, specifically contributes to binding to effector proteins such
-as [IQGAP](https://zh.wikipedia.org/wiki/IQGAP "wikilink") and
-[WASP](https://zh.wikipedia.org/wiki/Wiskott-Aldrich_syndrome_protein "wikilink").
+周围序列有助于确定小GTP酶的功能特异性，例如Rho亚家族常见的“插入环”，特别有助于与效应蛋白如IQGAP和WASP(Wiskott–Aldrich
+syndrome protein)结合。
 
-In general, the Ras family is responsible for cell proliferation: Rho
-for cell morphology, Ran for nuclear transport, and Rab and Arf for
-vesicle transport.\[2\]
+通常，Ras家族负责细胞增殖：Rho用于细胞[形态](../Page/形態學_\(生物學\).md "wikilink")，Ran用于核运输，Rab和Arf用于[囊泡运输](https://zh.wikipedia.org/wiki/囊泡 "wikilink")\[2\]。
 
 ## 亚家族与其成员
 
@@ -35,7 +30,7 @@ vesicle transport.\[2\]
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Rho_family" title="wikilink">Rho</a></p></td>
-<td><p><a href="../Page/细胞骨架.md" title="wikilink">细胞骨架的动力与形态</a>[5]</p></td>
+<td><p><a href="../Page/细胞骨架.md" title="wikilink">细胞骨架</a>的动力与形态[5]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/RHOA" title="wikilink">RHOA</a>; <a href="https://zh.wikipedia.org/wiki/RHOB" title="wikilink">RHOB</a>; <a href="https://zh.wikipedia.org/wiki/RHOBTB1" title="wikilink">RHOBTB1</a>; <a href="https://zh.wikipedia.org/wiki/RHOBTB2" title="wikilink">RHOBTB2</a>; <a href="https://zh.wikipedia.org/wiki/RHOBTB3" title="wikilink">RHOBTB3</a>; <a href="https://zh.wikipedia.org/wiki/RhoC" title="wikilink">RHOC</a>; <a href="https://zh.wikipedia.org/wiki/RhoD" title="wikilink">RHOD</a>; <a href="https://zh.wikipedia.org/wiki/RhoF" title="wikilink">RHOF</a>; <a href="https://zh.wikipedia.org/wiki/RHOG" title="wikilink">RHOG</a>; <a href="https://zh.wikipedia.org/wiki/RhoH" title="wikilink">RHOH</a>; <a href="https://zh.wikipedia.org/wiki/RHOJ" title="wikilink">RHOJ</a>; <a href="https://zh.wikipedia.org/wiki/RHOQ" title="wikilink">RHOQ</a>; <a href="https://zh.wikipedia.org/wiki/RHOU" title="wikilink">RHOU</a>; <a href="https://zh.wikipedia.org/wiki/RHOV" title="wikilink">RHOV</a>; <a href="https://zh.wikipedia.org/wiki/Rnd1" title="wikilink">RND1</a>; <a href="https://zh.wikipedia.org/wiki/Rnd2" title="wikilink">RND2</a>; <a href="https://zh.wikipedia.org/wiki/Rnd3" title="wikilink">RND3</a>; <a href="https://zh.wikipedia.org/wiki/RAC1" title="wikilink">RAC1</a>; <a href="https://zh.wikipedia.org/wiki/Rac2" title="wikilink">RAC2</a>; <a href="https://zh.wikipedia.org/wiki/RAC3" title="wikilink">RAC3</a>; <a href="https://zh.wikipedia.org/wiki/CDC42" title="wikilink">CDC42</a></p></td>
 </tr>
 <tr class="odd">

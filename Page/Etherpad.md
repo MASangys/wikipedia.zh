@@ -9,7 +9,7 @@ Pad（MoPad）、PrimaryPad、和TitanPad。目前软件由Etherpad基金会负�
 任何人都可以创建一个新的协作文档（即“Pad”）。每个文档有其自己的[链接](https://zh.wikipedia.org/wiki/URL "wikilink")，知道这个链接的任何人都可以编辑文档，并参与有关的讨论。也可以对某个文档设置密码保护。
 
 软件中通过不同的颜色和名字用来区分不同的参与者；每隔一段时间文档都会被软件自动保存，参与者也可以在任意时间保存某个特定的版本（即检查点）。软件利用算法合并更新；用户通过“时间滑块”功能可以浏览文档的历史记录。文档以纯文本、[HTML](../Page/HTML.md "wikilink")、[开放文档格式](../Page/开放文档格式.md "wikilink")（Open
-Document）、[Word或](../Page/Microsoft_Word.md "wikilink")[PDF格式提供下载](https://zh.wikipedia.org/wiki/PDF "wikilink")。在首次发布后不久，软件还添加了[JavaScript代码格式自动标记功能](../Page/JavaScript.md "wikilink")。\[3\]\[4\]
+Document）、[Word或](../Page/Microsoft_Word.md "wikilink")[PDF格式提供下载](https://zh.wikipedia.org/wiki/PDF "wikilink")。在首次发布后不久，软件还添加了[JavaScript](../Page/JavaScript.md "wikilink")代码格式自动标记功能。\[3\]\[4\]
 
 Etherpad是用JavaScript编程实现的。它是在平台的基础上，通过[Comet流实现实时功能](https://zh.wikipedia.org/wiki/Comet_\(web技术\) "wikilink")。
 
@@ -31,7 +31,7 @@ Lite的客户端文本编辑器是用由JavaScript编写的在线文本编辑器
 
 ## 外部链接
 
-  - [GitHub上](../Page/GitHub.md "wikilink")[当前Etherpad
+  - [GitHub](../Page/GitHub.md "wikilink")上[当前Etherpad
     Lite项目的源代码](https://github.com/ether/etherpad-lite)及[其老版本项目的源代码](http://github.com/ether/pad)
   - [Google
     Code上](https://zh.wikipedia.org/wiki/Google_Code "wikilink")[Etherpad原始的源代码版本](http://code.google.com/p/etherpad/)

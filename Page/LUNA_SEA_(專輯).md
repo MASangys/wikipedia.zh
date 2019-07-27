@@ -1,5 +1,5 @@
 《**LUNA
-SEA**》是由日本搖滾樂團[月之海所發行的首張同名專輯](../Page/月之海.md "wikilink")，初版於1991年4月21日發行。2007年由[環球音樂發行再版](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
+SEA**》是由日本搖滾樂團[月之海](../Page/月之海.md "wikilink")所發行的首張同名專輯，初版於1991年4月21日發行。2007年由[環球音樂發行再版](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
 本專輯是月之海於地下樂團時期中製作的唯一專輯作品，由當時[YOSHIKI創立的獨立廠牌Extasy](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")
 Records發行。

@@ -1,4 +1,4 @@
-**有限公司Arms**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1996年\[2\]。
+**有限公司Arms**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1996年\[2\]。
 
 ## 概要
 
@@ -12,14 +12,14 @@ Lion（<small></small>）」，以及「呀龍工作室（<small></small>）」�
 
 2004年，Arms挑戰自家原創製作的第一部電視動畫《》播映之後，花了2年時間進行[伺服器的調整](https://zh.wikipedia.org/wiki/服務器 "wikilink")，因此當時Arms的公司網站完全無法閱覽\[10\]\[11\]。
 
-次年2005年12月22日，由動畫師[鈴真擔當故事原案](../Page/鈴真.md "wikilink")、[人物設定](../Page/人物設計.md "wikilink")、[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")，[吉岡孝夫編劇的](../Page/吉岡孝夫.md "wikilink")《》第1卷由Pink
+次年2005年12月22日，由動畫師[鈴真](../Page/鈴真.md "wikilink")擔當故事原案、[人物設定](../Page/人物設計.md "wikilink")、[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")，[吉岡孝夫](../Page/吉岡孝夫.md "wikilink")編劇的《》第1卷由Pink
 Pineapple出版發行\[12\]之後，原本是要作續篇，卻因為沒有助長營收等這些原因而斷念。從今以後，Arms不再製作成人OVA動畫。
 
 2007年2月20日，Arms的公司新網站正式啟用。此時，Arms的網站有留下[梅津泰臣](../Page/梅津泰臣.md "wikilink")\[13\]參加過製作的續篇作品，同時還上架過去之作品《[A
 KITE](../Page/A_KITE.md "wikilink")》續篇「KITE
 LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wikilink")。以前成人OVA動畫作品的網頁資訊現在都已經刪除，保留了Arms的自家代表作、一般電視動畫《MEZZO》及《[妖精的旋律](../Page/妖精的旋律.md "wikilink")》等等的作品網頁訊息。
 
-2015年現在，Arms以下游包商參加[GENCO企劃製作的電視系列和其它公司的統包作品為中心持續活動](../Page/GENCO.md "wikilink")。
+2015年現在，Arms以下游包商參加[GENCO](../Page/GENCO.md "wikilink")企劃製作的電視系列和其它公司的統包作品為中心持續活動。
 
 2017年8月31日，公司商號名稱更名為「**株式會社Common Sense**（<small></small>）」\[14\]。
 
@@ -76,7 +76,7 @@ LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/忍者少女.md" title="wikilink">忍者少女！</a></p></td>
+<td><p><a href="../Page/忍者少女.md" title="wikilink">忍者少女</a>！</p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
@@ -291,7 +291,7 @@ LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wik
 </tr>
 <tr class="even">
 <td><p>2007年－2008年</p></td>
-<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記RELOAD -burial-</a></p></td>
+<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記 -burial-</a>RELOAD</p></td>
 <td><p>漫畫</p></td>
 <td></td>
 <td></td>
@@ -752,7 +752,7 @@ LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wik
 <tr class="even">
 <td><p>2003年</p></td>
 <td><p>2004年</p></td>
-<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記RELOAD</a></p></td>
+<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記</a>RELOAD</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1206,6 +1206,6 @@ LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wik
 
 12.
 
-13. 當時，Arms公司留了許多[梅津泰臣曾參與的作品](../Page/梅津泰臣.md "wikilink")，而且聘請的員工都是不屬於任何一家公司的自由動畫師。
+13. 當時，Arms公司留了許多[梅津泰臣](../Page/梅津泰臣.md "wikilink")曾參與的作品，而且聘請的員工都是不屬於任何一家公司的自由動畫師。
 
 14.

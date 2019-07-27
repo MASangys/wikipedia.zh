@@ -215,7 +215,7 @@ Junior後不再參與組合演唱會，起範淡出組合並專注演員活動�
 <td><p>2011年2月18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/横滨" title="wikilink">横滨</a></p></td>
 <td></td>
-<td><p><a href="../Page/橫濱國際綜合競技場.md" title="wikilink">横滨竞技场</a>[3]</p></td>
+<td><p><a href="../Page/橫濱體育館.md" title="wikilink">橫濱體育館</a>[3]</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年2月19日</p></td>

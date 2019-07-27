@@ -1,5 +1,5 @@
 《KODA KUMI DRIVING HIT'S
-6》（飆速快感混音極選～6）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2014年3月19日發行的第7張[混音專輯](../Page/混音.md "wikilink")。
+6》（飆速快感混音極選～6）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年3月19日發行的第7張[混音](../Page/混音.md "wikilink")專輯。
 
 ## 簡介
 

@@ -1,11 +1,11 @@
 《namie amuro FEEL tour
-2013》為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2014年2月26日發行的影音作品。
+2013》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2014年2月26日發行的影音作品。
 
 ## 簡介
 
-  - 本次演唱會選曲主要以《[FEEL](../Page/FEEL_\(安室奈美惠專輯\).md "wikilink")》、《[Uncontrolled](../Page/Uncontrolled.md "wikilink")》、《[Checkmate\!](../Page/Checkmate!.md "wikilink")》後來在加上收錄在《[TSUKI](../Page/TSUKI.md "wikilink")》裡的兩首新曲作為本次的歌單。
+  - 本次演唱會選曲主要以《[FEEL](../Page/FEEL_\(安室奈美惠專輯\).md "wikilink")》、《[Uncontrolled](../Page/Uncontrolled.md "wikilink")》、《[Checkmate\!](../Page/Checkmate!.md "wikilink")》，後半增加收錄於《[TSUKI](../Page/TSUKI.md "wikilink")》中的兩首新曲為本次巡迴的演唱曲目。
   - 本次巡迴場地前半以「HALL」的場地為主（17都市17會場22公演），後半改以「體育館」的場地為主（7都市7会場22公演）的巡迴演唱會\[1\]。
-  - 12月7日於東京[國立代代木競技場的那場演唱會為安室自身第](../Page/國立代代木競技場.md "wikilink")500場演唱會，從出道以來已經有300萬人次的動員紀錄\[2\]。
+  - 12月7日於東京[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")的那場演唱會為安室自身第500場演唱會，從出道以來已經有300萬人次的動員紀錄\[2\]。
 
 ## 演唱會日程
 

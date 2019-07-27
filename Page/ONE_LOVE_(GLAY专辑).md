@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")6張原創專輯，2001年11月28日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第6張原創專輯，2001年11月28日發行。
 
 ## 簡介
 

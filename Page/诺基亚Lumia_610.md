@@ -17,7 +17,7 @@ SIM卡](../Page/SIM卡.md "wikilink")，和[Lumia
 Phone作業系統，整合[社群網站功能](https://zh.wikipedia.org/wiki/社群網站 "wikilink")，內建[Office
 Mobile](../Page/Microsoft_Office_Mobile.md "wikilink")、[Internet
 Explorer 9
-Mobile](../Page/Internet_Explorer_Mobile.md "wikilink")，預載網際網路共用功能，市集圖示也有Nokia的客製化，增加了代表Nokia的n字樣市集圖示。相機無法使用地理標籤功能、背光模式，由於較低階的關係，內建的社群功能也不支援自動上傳SkyDrive（可以手動），記憶體僅只有256MB，在市集中能使用的程式也相對的減少，例如[Skype就無法在Lumia](../Page/Skype.md "wikilink")
+Mobile](../Page/Internet_Explorer_Mobile.md "wikilink")，預載網際網路共用功能，市集圖示也有Nokia的客製化，增加了代表Nokia的n字樣市集圖示。相機無法使用地理標籤功能、背光模式，由於較低階的關係，內建的社群功能也不支援自動上傳SkyDrive（可以手動），記憶體僅只有256MB，在市集中能使用的程式也相對的減少，例如[Skype](../Page/Skype.md "wikilink")就無法在Lumia
 610上使用。
 
 ### Windows Phone 7.5

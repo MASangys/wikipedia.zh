@@ -1,4 +1,4 @@
-PAPALOTE(帕帕罗德)是[墨西哥的一个](../Page/墨西哥.md "wikilink")[龙舌兰酒品牌](https://zh.wikipedia.org/wiki/龙舌兰酒 "wikilink")，是墨西哥最知名的酒之一。
+PAPALOTE(帕帕罗德)是[墨西哥](../Page/墨西哥.md "wikilink")的一个[龙舌兰酒品牌](https://zh.wikipedia.org/wiki/龙舌兰酒 "wikilink")，是墨西哥最知名的酒之一。
 哈里斯科的玛利亚耶稣的一个小乡村里的Destilados
 Olé（欧雷蒸馏厂）酿造了PAPALOTE(帕帕罗德)，是墨西哥龙舌兰酒的一个酿造中心，其酿造历史已有一个世纪之久。
 

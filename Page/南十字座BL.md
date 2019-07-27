@@ -1,5 +1,5 @@
 **南十字座BL**，又名**CP-58 4289**，**HD 108396**、**SAO 239960**、**HR
-4739**，是[南十字座的一颗恒星](../Page/南十字座.md "wikilink")\[1\]\[2\]，视星等为5.5，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")299.84，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")3.74，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+4739**，是[南十字座](../Page/南十字座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.5，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")299.84，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")3.74，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

@@ -1,4 +1,4 @@
-**Uru**，[日本的女性](../Page/日本.md "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，[索尼音乐娱乐旗下所属](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。未出道前以mai
+**Uru**，[日本](../Page/日本.md "wikilink")的女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，[索尼音乐娱乐旗下所属](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。未出道前以mai
 Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-均不公开，被称为“神秘的歌手”\[1\]。
 
 ## 人物
@@ -139,7 +139,7 @@ Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/佳能.md" title="wikilink">佳能PhotoJewel</a> S廣告曲</p></td>
+<td><p><a href="../Page/佳能.md" title="wikilink">佳能</a>PhotoJewel S廣告曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>Sunny day hometown</p></td>

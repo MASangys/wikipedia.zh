@@ -1,5 +1,5 @@
 **Yeah Yeah
-Yeahs**是一支美国[独立摇滚乐队](../Page/独立摇滚.md "wikilink")，于2000年组建于纽约.乐队主唱及钢琴为[Karen
+Yeahs**是一支美国[独立摇滚](../Page/独立摇滚.md "wikilink")乐队，于2000年组建于纽约.乐队主唱及钢琴为[Karen
 O](https://zh.wikipedia.org/wiki/Karen_O "wikilink"),吉他及键盘为[Nick
 Zinner](https://zh.wikipedia.org/wiki/Nick_Zinner "wikilink"),鼓手则是[Brian
 Chase](https://zh.wikipedia.org/wiki/Brian_Chase "wikilink").\[1\]

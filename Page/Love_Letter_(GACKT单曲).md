@@ -3,7 +3,7 @@ Letter**》是[Gackt的第](https://zh.wikipedia.org/wiki/Gackt "wikilink")25支
 
 ## 概要
 
-[松竹系劇場版动画电影](../Page/松竹.md "wikilink")《[機動戦士Zガンダム A New
+[松竹](../Page/松竹.md "wikilink")系劇場版动画电影《[機動戦士Zガンダム A New
 Translation](https://zh.wikipedia.org/wiki/機動戰士Z_GUNDAM#劇場版 "wikilink")》系列（新译作三部曲）最終作《機動戦士ΖガンダムIII
 A New Translation -星の鼓動は愛-》片尾主题曲。
 

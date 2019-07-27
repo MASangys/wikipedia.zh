@@ -1,5 +1,5 @@
-《**蒼空騎士～飛向CODA～**》（，），是由[日本遊戲廠商](../Page/日本.md "wikilink")[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")（前身[BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink")）於2010年10月所發行的一款全3D[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")，使用的平台為[Nintendo
-DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，與之前在[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation平台上所發行的](../Page/PlayStation.md "wikilink")《[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")》一樣同屬於以[獸人做為](../Page/獸人.md "wikilink")[種族以及](https://zh.wikipedia.org/wiki/種族 "wikilink")[角色設定的遊戲](https://zh.wikipedia.org/wiki/角色設定 "wikilink")，且兩個遊戲的世界觀完全相同。而很多購入本遊戲的愛好者中有一大部分即為當年接觸過貓犬協奏曲的老玩家。
+《**蒼空騎士～飛向CODA～**》（，），是由[日本](../Page/日本.md "wikilink")遊戲廠商[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")（前身[BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink")）於2010年10月所發行的一款全3D[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")，使用的平台為[Nintendo
+DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，與之前在[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")平台上所發行的《[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")》一樣同屬於以[獸人](../Page/獸人.md "wikilink")做為[種族以及](https://zh.wikipedia.org/wiki/種族 "wikilink")[角色設定的遊戲](https://zh.wikipedia.org/wiki/角色設定 "wikilink")，且兩個遊戲的世界觀完全相同。而很多購入本遊戲的愛好者中有一大部分即為當年接觸過貓犬協奏曲的老玩家。
 
 本款遊戲也是開發公司日本CyberConnect2的**十五週年紀念作品**，從開始構思到完成共計花費了十年的時間，其中光是相關開發就花去三年。三年的開發中用於遊戲企劃的時間就有整整一年。另外使用於遊戲中的相關人物、背景、種族、機械、城市、怪物等相關設定插畫與原畫就佔了1000張以上。\[1\]
 
@@ -7,13 +7,13 @@ DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，與之前在[SONY的
 
 另外，本作品亦承續了前一部同屬性的獸人RPG作品「貓犬協奏曲」中的主要系統架構及相關要素，並利用現今容量更加龐大的任天堂DS作為遊戲平台，使其遊戲可玩度和內容大幅上升。
 
-在日本地區，該款遊戲的售出後顧客滿意程度高達百分之九十七點四，且遊戲上市時於[電視上所播放的一系列宣傳](https://zh.wikipedia.org/wiki/電視 "wikilink")[廣告小短篇還獲得](../Page/廣告.md "wikilink")[金氏世界紀錄的認證](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")，成為日本第一款廣告被世界紀錄承認的作品而名留歷史。\[3\]\[4\]
+在日本地區，該款遊戲的售出後顧客滿意程度高達百分之九十七點四，且遊戲上市時於[電視上所播放的一系列宣傳](https://zh.wikipedia.org/wiki/電視 "wikilink")[廣告](../Page/廣告.md "wikilink")小短篇還獲得[金氏世界紀錄的認證](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")，成為日本第一款廣告被世界紀錄承認的作品而名留歷史。\[3\]\[4\]
 
 ## 系統概要
 
 [Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg](https://zh.wikipedia.org/wiki/File:Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg "fig:Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg")
 [The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif](https://zh.wikipedia.org/wiki/File:The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif "fig:The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif")
-本款作品承續了開發公司Cyberconnent於1998年的前作[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")，於2010年10月28日在日本先行推出。遊戲硬體平台從原先[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation桌上型主機改由任天堂DS](../Page/PlayStation.md "wikilink")（[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")）掌上型主機，玩家必須使用任天堂DS的本身[按鍵進行遊戲](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，不支援外接[搖桿的功能](https://zh.wikipedia.org/wiki/搖桿 "wikilink")。而本款遊戲也針對本型主機的上下[雙螢幕架構進行了](https://zh.wikipedia.org/wiki/雙螢幕 "wikilink")[顯示上的調整](https://zh.wikipedia.org/wiki/顯示 "wikilink")，使玩家得以充分發揮任天堂DS的功能來進行遊玩。由於硬體容量大幅度增加的因素，實際上本遊戲還區分為「前段」與「後段」兩大篇章節，開頭[動畫與](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主題歌的歌詞皆不同](https://zh.wikipedia.org/wiki/主題歌 "wikilink")。讓玩家不會覺得遊戲劇情一下就結束，可以玩的更久，使其更加的體會本作品的磅礡浩大。
+本款作品承續了開發公司Cyberconnent於1998年的前作[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")，於2010年10月28日在日本先行推出。遊戲硬體平台從原先[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")桌上型主機改由任天堂DS（[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")）掌上型主機，玩家必須使用任天堂DS的本身[按鍵進行遊戲](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，不支援外接[搖桿的功能](https://zh.wikipedia.org/wiki/搖桿 "wikilink")。而本款遊戲也針對本型主機的上下[雙螢幕架構進行了](https://zh.wikipedia.org/wiki/雙螢幕 "wikilink")[顯示上的調整](https://zh.wikipedia.org/wiki/顯示 "wikilink")，使玩家得以充分發揮任天堂DS的功能來進行遊玩。由於硬體容量大幅度增加的因素，實際上本遊戲還區分為「前段」與「後段」兩大篇章節，開頭[動畫與](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主題歌的歌詞皆不同](https://zh.wikipedia.org/wiki/主題歌 "wikilink")。讓玩家不會覺得遊戲劇情一下就結束，可以玩的更久，使其更加的體會本作品的磅礡浩大。
 
 本款遊戲與貓犬協奏曲的世界觀相同，一樣使用位於天空中的浮游大陸作為遊戲舞台，一樣有各式飛行機械登場的超科學幻想系列。\[5\]而玩家一樣使用[第三人稱視點來操作主角進行遊戲中的移動以及對話](https://zh.wikipedia.org/wiki/第三人稱 "wikilink")。在[世界地圖中](https://zh.wikipedia.org/wiki/世界地圖 "wikilink")，玩家的飛行船之移動方式被改為單方向的[選單](../Page/選單.md "wikilink")，只要上下選擇即可前往指定的地區進行探索與冒險。而於探險場景移動時，遊戲會將玩家目前所在的位置以輔助地圖（小地圖）的形式顯示於玩家任天堂DS的上層螢幕中，使玩家於大型場景探索時不致於迷路或重複進到同樣的區域。
 
@@ -29,8 +29,8 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
 ## 追加功能
 
   - **相簿收集系統：**延續前作「貓犬協奏曲」中的一項重要附加功能，玩家一樣可以在某些場景中找尋到一部分的原畫[相片](../Page/相片.md "wikilink")，本作中改為特定地點會發光，主角前往碰觸後即可取得。一樣是四小張組成一張完整的相片，完成後的相片可以在主角的飛行船居住區中鑑賞。
-  - **畫盤收集系統：**本作品加入的新要素，於[世界各地的](../Page/世界.md "wikilink")[城市中有一種專門販售](../Page/城市.md "wikilink")「畫盤」的[商店](../Page/商店.md "wikilink")（絵皿屋），玩家可以在劇情進展到一定程度時購入畫有遊戲特定場面的畫盤（絵皿）。作品中共有42個，購入的畫盤可以在主角飛行船的居住區中進行鑑賞。
-  - **音符收集系統：**延續前作「貓犬協奏曲」中的一項要素，於本作中被重新改良。玩家於[城市特定](../Page/城市.md "wikilink")[建築物或其他的獸人家中](https://zh.wikipedia.org/wiki/建築物 "wikilink")，以及探索場景時均可以在特定地區找到發出[音符圖案的](../Page/音符.md "wikilink")[留聲機或是](https://zh.wikipedia.org/wiki/留聲機 "wikilink")[喇叭形狀的](https://zh.wikipedia.org/wiki/喇叭 "wikilink")[植物](../Page/植物.md "wikilink")，碰觸上述物品即可取得「音符」。之後於玩家的飛行船上就能在居住區中使用音符加上特定金錢後解開遊戲中的所有背景音樂和主題曲。
+  - **畫盤收集系統：**本作品加入的新要素，於[世界](../Page/世界.md "wikilink")各地的[城市](../Page/城市.md "wikilink")中有一種專門販售「畫盤」的[商店](../Page/商店.md "wikilink")（絵皿屋），玩家可以在劇情進展到一定程度時購入畫有遊戲特定場面的畫盤（絵皿）。作品中共有42個，購入的畫盤可以在主角飛行船的居住區中進行鑑賞。
+  - **音符收集系統：**延續前作「貓犬協奏曲」中的一項要素，於本作中被重新改良。玩家於[城市](../Page/城市.md "wikilink")特定[建築物或其他的獸人家中](https://zh.wikipedia.org/wiki/建築物 "wikilink")，以及探索場景時均可以在特定地區找到發出[音符](../Page/音符.md "wikilink")圖案的[留聲機或是](https://zh.wikipedia.org/wiki/留聲機 "wikilink")[喇叭形狀的](https://zh.wikipedia.org/wiki/喇叭 "wikilink")[植物](../Page/植物.md "wikilink")，碰觸上述物品即可取得「音符」。之後於玩家的飛行船上就能在居住區中使用音符加上特定金錢後解開遊戲中的所有背景音樂和主題曲。
   - **機器人升級改裝系統：**有鑑於前作「貓犬協奏曲」中不能改造機器人的缺點，於本作中重新設計該要素。玩家可以幫自己的機器人進行零組件的安裝來加強其相對能力，如同改造真實世界的汽機車一般。因此本作中會出現一種專門販售改裝套件的店，可以購入特定零件安裝。而機器人一開始的安裝區塊有限制，隨著劇情，玩家可以在場景中探索到專用道具來開啟更多的安裝區塊。
   - **迷你百科全書系統：**本作品的新要素之一，於主角的飛行船上的選單中會有[百科全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")，共有七本（地理／歷史／文化／生物／技術／獸人／貓獸人生活），隨著劇情進度而自動增加。當其中一本書的資訊狀態變成綠色後，玩家即可在該模式中查看本遊戲的相關世界詳細設定以及不會在遊戲劇情中出現的歷史說明。用來補足劇情和讓玩家知悉本作品的內容。
   - **競技格鬥場：**是世界地圖中的其中一區，一艘上面設置有[格鬥場的大型飛船](https://zh.wikipedia.org/wiki/格鬥場 "wikilink")。玩家第一次進入該區是劇情中的設定，之後玩家即可自由進入來參加對戰，是本作品的新要素。隨著劇情的推進，玩家會一再的返回該地與特定角色進行各種對決。也是玩家身上沒有[錢時一個快速賺錢的方式](https://zh.wikipedia.org/wiki/錢 "wikilink")。
@@ -43,7 +43,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
 
 ## 故事
 
-在一個貓[獸人與犬獸人](../Page/獸人.md "wikilink")，這兩個種族一同共存並互相依賴與生活的浮游大陸國家「**雪帕德共和國**」裡，主角[犬獸人](../Page/犬.md "wikilink")「**雷德**」，與其犬獸人妹妹「**巧可拉**」，一同過著接受各種委託來取得報酬的獵人生活。
+在一個貓[獸人](../Page/獸人.md "wikilink")與犬獸人，這兩個種族一同共存並互相依賴與生活的浮游大陸國家「**雪帕德共和國**」裡，主角[犬](../Page/犬.md "wikilink")獸人「**雷德**」，與其犬獸人妹妹「**巧可拉**」，一同過著接受各種委託來取得報酬的獵人生活。
 
 有一日，雷德接受了一個奪回被盜走的重要物品之委託，駕駛著自己的愛機「**達哈卡**」，潛入了一艘大型運輸[飛行船興登堡號](https://zh.wikipedia.org/wiki/飛行船 "wikilink")。在裡面雷德碰到了一位[貓獸人少女](https://zh.wikipedia.org/wiki/貓 "wikilink")「**艾兒**」，所有的故事就從這裡開始。
 
@@ -72,7 +72,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
     一開始與艾兒不合，還把「她」當成男生過。
     隨著劇情的發展，越來越重視艾兒，為了幫助艾兒不惜犧牲自己。
     於第一部劇情的最後，與庫巴斯的首領布魯諾進行對決，成功打敗並破壞了拉雷斯的控制系統。
-    於第一部劇情的最後決戰中發現自己體內具有「托蘭斯」的力量可以變身成[人類外型](../Page/人類.md "wikilink")。
+    於第一部劇情的最後決戰中發現自己體內具有「托蘭斯」的力量可以變身成[人類](../Page/人類.md "wikilink")外型。
     於第二部劇情中知道了自己的過去與誕生的原因，一開始認為自己是失敗品而失落，在孤兒院的院長鼓勵下重新覺醒。
     於第二部的最後衝入次元兵器塔爾塔羅斯的內部空間，與古代人拜昂展開最終對決。
 
@@ -152,7 +152,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
     於第一部劇情的中段，對雷德使用了「奧哈西拉」儀式，卻因為與雷德朝夕相處後產生感情而下不了手。
     於第一部劇情後段，為了不想傷害雷德而離開飛行船跑到敵對組織庫巴斯，卻被知道真相的雷德救回來。
     對雷德抱有無意識的輕微感情。
-    雖然已經300多歲，卻對[昆蟲類的生物非常害怕](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")，會出現[歇斯底里的症狀](../Page/歇斯底里.md "wikilink")。
+    雖然已經300多歲，卻對[昆蟲類的生物非常害怕](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")，會出現[歇斯底里](../Page/歇斯底里.md "wikilink")的症狀。
 
 <!-- end list -->
 
@@ -192,7 +192,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
 <!-- end list -->
 
   -
-    歐佩拉的其中一名專屬部下，個性[開朗又有點](https://zh.wikipedia.org/wiki/開朗 "wikilink")[天然呆的](../Page/天然呆.md "wikilink")17歲貓獸人少年。
+    歐佩拉的其中一名專屬部下，個性[開朗又有點](https://zh.wikipedia.org/wiki/開朗 "wikilink")[天然呆](../Page/天然呆.md "wikilink")的17歲貓獸人少年。
     作為角色外型設定的貓種為[山貓](https://zh.wikipedia.org/wiki/山貓 "wikilink")。
     對話的時候習慣在話中加一句「KAMO」。
     將主角雷德當成很好的一名對手。
@@ -286,7 +286,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
 
 ## 製作群
 
-  - [製作總指揮](../Page/製作.md "wikilink")：鵜之澤伸
+  - [製作](../Page/製作.md "wikilink")總指揮：鵜之澤伸
   - [企畫](https://zh.wikipedia.org/wiki/企畫 "wikilink")：今西智明、佐佐木夕介
   - [腳本](https://zh.wikipedia.org/wiki/腳本 "wikilink")：野口泰弘
   - 執行總監：松山洋
@@ -298,7 +298,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
   - 角色利用協助：福岡縣\[6\]
   - 音樂：福田考代
   - [法語監修](https://zh.wikipedia.org/wiki/法語 "wikilink")：鳥井林太朗
-  - 標題與[字幕設計](../Page/字幕.md "wikilink")：三好誠
+  - 標題與[字幕](../Page/字幕.md "wikilink")設計：三好誠
   - 預告篇製作：奥村剛
   - 遊戲開發：CyberConnect2
   - 遊戲企劃與製作：NAMCO BANDAI
@@ -306,7 +306,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
 ## 世界紀錄達成
 
 本遊戲在日本地區發行時，為了增加在日本當地[媒體上的曝光度](https://zh.wikipedia.org/wiki/媒體 "wikilink")，曾經在電視上推出一系列名為「**蒼空騎士大百科**」的電視宣傳短篇廣告。共計所有的章節為100章，也就是有100段的廣告片段，在日本的[TOKYO
-MX電視台](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")（東京都會電視台），於2010年10月28日當日，在「下午三點」（1500）到「晚上十一點」（2300）這八個小時的[節目時段中](https://zh.wikipedia.org/wiki/節目 "wikilink")，隨時於[廣告時段中依序播放](../Page/廣告.md "wikilink")。（每個片段都不同）
+MX電視台](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")（東京都會電視台），於2010年10月28日當日，在「下午三點」（1500）到「晚上十一點」（2300）這八個小時的[節目時段中](https://zh.wikipedia.org/wiki/節目 "wikilink")，隨時於[廣告](../Page/廣告.md "wikilink")時段中依序播放。（每個片段都不同）
 
 這100篇片段與撥出時間被送往[金氏世界紀錄認證](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")，於2011年6月下旬時獲得金氏世界紀錄委員會的承認，得到的紀錄頭銜是「**世界上特定時間內，於電視上播放最多內容不一樣廣告的單一商品**」。
 

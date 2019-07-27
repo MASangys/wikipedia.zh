@@ -12,8 +12,10 @@ local rv = {} function rv.main(frame)
 `   local i=1`
 `   while true do--frame的args不是完全table实现，无法用#args查表长，只能死循环试探结束。`
 `       t_id=args['id'..i]`
-`       if (t_id~=nil) then         `
-`           table.insert(ids,t_id)`
+`       if (t_id~=nil) then`
+`           if t_id ~= '' then`
+`               table.insert(ids,t_id)`
+`           end`
 `           i=i+1`
 `       else`
 `           break`

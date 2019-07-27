@@ -7,7 +7,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 與前作《[Queens are trumps
 -王牌皇后-](../Page/Queens_are_trumps_-王牌皇后-.md "wikilink")》相隔5個月後再度推出[音樂專輯](../Page/音樂專輯.md "wikilink")。本作最大的特點是主要收錄歷年來[單曲的B面曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，再加上新歌「快樂收藏家」（）及之前未公開的「Playboy」（）。其中《[Satisfaction](../Page/遙遠_\(SCANDAL單曲\).md "wikilink")》被作為[Windows
-8的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[電視廣告歌曲](../Page/電視廣告.md "wikilink")\[1\]，《快樂收藏家》則是電影《[今日開始談戀愛](https://zh.wikipedia.org/wiki/今日開始談戀愛 "wikilink")》使用的歌曲之一\[2\]。
+8的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[電視廣告](../Page/電視廣告.md "wikilink")歌曲\[1\]，《快樂收藏家》則是電影《[今日開始談戀愛](https://zh.wikipedia.org/wiki/今日開始談戀愛 "wikilink")》使用的歌曲之一\[2\]。
 
 另外，共分為初回生產限定盤、通常盤兩種形態，兩者皆包含歌迷活動參加券，而初回生產限定盤多附有DVD，通常盤中部分的初回仕樣限定盤則包括五成員隨機寫真貼紙。
 

@@ -1,4 +1,4 @@
-**WikiHiero**是一種用來將[聖書體](https://zh.wikipedia.org/wiki/聖書體 "wikilink")（埃及象形文字）以[PNG圖片呈現的](../Page/PNG.md "wikilink")[PHP指令碼](../Page/PHP.md "wikilink")。由於目前[Unicode只有支援一部分的埃及聖書體文字](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在欠缺圖片上傳的情況下這是唯一一種能在條目文本中呈現聖書體文字的方法。
+**WikiHiero**是一種用來將[聖書體](https://zh.wikipedia.org/wiki/聖書體 "wikilink")（埃及象形文字）以[PNG](../Page/PNG.md "wikilink")圖片呈現的[PHP](../Page/PHP.md "wikilink")指令碼。由於目前[Unicode只有支援一部分的埃及聖書體文字](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在欠缺圖片上傳的情況下這是唯一一種能在條目文本中呈現聖書體文字的方法。
 
 要使用這個指令碼只要用「\<hiero\>」標籤即可。舉例來說，使用「\<hiero\>A\</hiero\>」可以弄出相當於「[Aleph](../Page/Aleph.md "wikilink")」的聖書體文字：<hiero>A</hiero>
 

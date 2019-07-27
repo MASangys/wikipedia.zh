@@ -1,11 +1,11 @@
 **Wolfram语言**（通常指代**Mathematica**或者缩写为
 **M**）是[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")\[1\]
 和 Wolfram Programming
-Cloud所使用的语言。这是一种由[沃尔夫勒姆研究公司开发的多模态编程语言](../Page/沃尔夫勒姆研究公司.md "wikilink")\[2\]。这是用于[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[Wolfram
+Cloud所使用的语言。这是一种由[沃尔夫勒姆研究公司](../Page/沃尔夫勒姆研究公司.md "wikilink")开发的多模态编程语言\[2\]。这是用于[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[Wolfram
 Programming Cloud](http://wolframcloud.com)的主要界面编程语言
-。它具有广泛和普遍的适用性，主要特点是[符号计算](https://zh.wikipedia.org/wiki/符号计算 "wikilink")、[函数式编程和基于规则的编程](../Page/函数式编程.md "wikilink")。\[3\]它可以用来创建和表示任何结构和数据。\[4\]
+。它具有广泛和普遍的适用性，主要特点是[符号计算](https://zh.wikipedia.org/wiki/符号计算 "wikilink")、[函数式编程](../Page/函数式编程.md "wikilink")和基于规则的编程。\[3\]它可以用来创建和表示任何结构和数据。\[4\]
 
-这种语言覆盖面非常全面和广泛，并且可以用于解决大量专业领域的问题。例如，它内置了用于生成和运行[图灵机](../Page/图灵机.md "wikilink")、创建图形和音频、分析三维模型、[矩阵操作](../Page/矩阵.md "wikilink")、求解[微分方程的内置函数](../Page/微分方程.md "wikilink")。为了方便用户使用，还提供了丰富的文档资料。\[5\]
+这种语言覆盖面非常全面和广泛，并且可以用于解决大量专业领域的问题。例如，它内置了用于生成和运行[图灵机](../Page/图灵机.md "wikilink")、创建图形和音频、分析三维模型、[矩阵](../Page/矩阵.md "wikilink")操作、求解[微分方程](../Page/微分方程.md "wikilink")的内置函数。为了方便用户使用，还提供了丰富的文档资料。\[5\]
 
 它与[Raspberry
 Pi上安装的系统软件捆绑](https://zh.wikipedia.org/wiki/Raspberry_Pi "wikilink")。\[6\]\[7\]Intel

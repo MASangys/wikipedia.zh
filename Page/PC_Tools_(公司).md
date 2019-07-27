@@ -130,7 +130,7 @@ Tools的軟體被下載了超過一億二千五百萬次。.\[3\]
 Defender**）為適用於[Microsoft
 Windows系統的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Internet
 Explorer和Mozilla](../Page/Internet_Explorer.md "wikilink")
-[Firefox的瀏覽器](../Page/Firefox.md "wikilink")[工具列](https://zh.wikipedia.org/wiki/工具列 "wikilink")。此軟體可保障瀏覽網路的安全。
+[Firefox](../Page/Firefox.md "wikilink")的瀏覽器[工具列](https://zh.wikipedia.org/wiki/工具列 "wikilink")。此軟體可保障瀏覽網路的安全。
 
 ### PC Tools i防毒（PC Tools iAntiVirus）
 
@@ -141,7 +141,7 @@ iAntiVirus**，簡稱為**iAntiVirus**）為用於以[英特爾](https://zh.wiki
 OS X 10.5 (Leopard)和](../Page/Mac_OS_X_Leopard.md "wikilink")[Mac OS X
 10.6 (Snow
 Leopard)](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")。此軟體於2008年6月釋出，使用特徵碼和啟發是技術偵測[惡意軟體](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")、間諜軟體和[exploit](https://zh.wikipedia.org/wiki/exploit "wikilink")（弱點入侵）。i防毒被批評它只能偵測麥金塔病毒，而不像其他替代軟體一樣，可偵測[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux和Mac病毒](../Page/Linux.md "wikilink")。然而，它也因為其系統資源占用率低及其掃描速度快而受到佳評。\[20\]\[21\]
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和Mac病毒。然而，它也因為其系統資源占用率低及其掃描速度快而受到佳評。\[20\]\[21\]
 
 ### PC Tools網路安全套裝（PC Tools Internet Security\[22\]）
 

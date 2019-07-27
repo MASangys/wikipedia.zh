@@ -1,8 +1,8 @@
 **VERMILLION
-RECORDS**是[日本一家](../Page/日本.md "wikilink")[Being以及同為](../Page/Being_\(公司\).md "wikilink")[子公司的音樂經紀管理事務所](../Page/子公司.md "wikilink")[VERMILLION](https://zh.wikipedia.org/wiki/VERMILLION "wikilink")（前[B・U・M](https://zh.wikipedia.org/wiki/B'z_#B+U+M "wikilink")）的唱片公司。此外，**株式會社VERMILLION
+RECORDS**是[日本](../Page/日本.md "wikilink")一家[Being以及同為](../Page/Being_\(公司\).md "wikilink")[子公司](../Page/子公司.md "wikilink")的音樂經紀管理事務所[VERMILLION](https://zh.wikipedia.org/wiki/VERMILLION "wikilink")（前[B・U・M](https://zh.wikipedia.org/wiki/B'z_#B+U+M "wikilink")）的唱片公司。此外，**株式會社VERMILLION
 RECORDS**是一家曾經做過同樣業務的公司。現為[Being的唱片公司之一](../Page/Being_\(公司\).md "wikilink")。
 
-是專屬於所屬[藝人](https://zh.wikipedia.org/wiki/音樂家 "wikilink")[B'z和其成員](../Page/B'z.md "wikilink")[松本孝弘與](../Page/松本孝弘.md "wikilink")[稻葉浩志的](../Page/稻葉浩志.md "wikilink")[SOLO活動的私人](https://zh.wikipedia.org/wiki/獨奏 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。
+是專屬於所屬[藝人](https://zh.wikipedia.org/wiki/音樂家 "wikilink")[B'z](../Page/B'z.md "wikilink")和其成員[松本孝弘](../Page/松本孝弘.md "wikilink")與[稻葉浩志](../Page/稻葉浩志.md "wikilink")的[SOLO活動的私人](https://zh.wikipedia.org/wiki/獨奏 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。
 「VERMILLION」是將日本具有獨特風格的[朱色之意](https://zh.wikipedia.org/wiki/朱色 "wikilink")「**VERMILION**」（松本提案），與百萬之意「**MILLION**」（稻葉提案）作結合的[造詞](https://zh.wikipedia.org/wiki/造詞法 "wikilink")。
 
 ## 變遷
@@ -18,7 +18,7 @@ B.B.QUEENS</font></u>](../Page/B.B.QUEENS.md "wikilink")、[<u><font color="#006
 VICTOR將發售權移管到BMG ROOMS再次發行。
 B'z或栗林誠一郎、近藤房之助、等初期作品或『[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")』主題曲B.B.QUEENS的「[おどるポンポコリン](https://zh.wikipedia.org/wiki/おどるポンポコリン "wikilink")」與的「」的原盤權，現在為保有但未被再次發行。
 
-（雖然櫻桃小丸子ED主題曲[西城秀樹的](../Page/西城秀樹.md "wikilink")「[走れ正直者](https://zh.wikipedia.org/wiki/走れ正直者 "wikilink")」，單曲未被再次發行，但Being保有原盤權）
+（雖然櫻桃小丸子ED主題曲[西城秀樹](../Page/西城秀樹.md "wikilink")的「[走れ正直者](https://zh.wikipedia.org/wiki/走れ正直者 "wikilink")」，單曲未被再次發行，但Being保有原盤權）
 
 由於BMG ROOMS（BMGルームス）再次發行的標題正式發售日期不明，因此根據POS代碼序號而言，似乎是於同年秋天被再次發行。 </ref>
 
@@ -162,5 +162,5 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
 1.  伴隨著長戶大幸的修養，作為Being公司再編的一環，將迄今為止Being未實行樂曲管理的グラムミュージック（[ZARD](../Page/ZARD.md "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[大黑摩季](../Page/大黑摩季.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[ZYYG](../Page/ZYYG.md "wikilink")）、ヅァインミュージック([T-BOLAN](../Page/T-BOLAN.md "wikilink")、等ZAIN
     RECORDS藝人)、パスミュージック([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink")、、等外部唱片公司旗下藝人)4間公司瓜分。97年成立GIZA
     Studio旗下藝人樂曲管理的スプーンフルミュージック（現ギザミュージック）。直到93年10月為止發售的份量，皆由Being管理。
-2.  伴隨著B'z的私人唱片公司化，或等旗下藝人移籍到。曾經旗下的[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")、[Mi-Ke](../Page/Mi-Ke.md "wikilink")、[織田哲郎或](../Page/織田哲郎.md "wikilink")、[西城秀樹等人的原盤權](../Page/西城秀樹.md "wikilink")，轉為移管到上繼承。
+2.  伴隨著B'z的私人唱片公司化，或等旗下藝人移籍到。曾經旗下的[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")、[Mi-Ke](../Page/Mi-Ke.md "wikilink")、[織田哲郎](../Page/織田哲郎.md "wikilink")或、[西城秀樹](../Page/西城秀樹.md "wikilink")等人的原盤權，轉為移管到上繼承。
 3.  伴隨著2007年的集團公司再編，移管到Be企劃室（ビー企画室）。2014年以後的樂曲，由Being出版業管理。

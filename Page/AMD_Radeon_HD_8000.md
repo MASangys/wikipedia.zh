@@ -351,7 +351,7 @@ GDDR5</p></td>
 <sup>1</sup> [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink") :
 [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") :
 [渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
-<sup>2</sup>[GDDR5的資料傳送速率是記憶體時脈速度的四倍](../Page/GDDR5.md "wikilink")，而不是其它DDR記憶體的兩倍
+<sup>2</sup>[GDDR5](../Page/GDDR5.md "wikilink")的資料傳送速率是記憶體時脈速度的四倍，而不是其它DDR記憶體的兩倍
 <sup>3</sup>[熱設計功耗](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")（TDP）是超微官方基於其公版顯示卡的數值，實際上由於不同廠商製造的非公版顯示卡的TDP數值會和公版顯示卡的有所差異
 。
 

@@ -1,11 +1,11 @@
 [YACA_20130430.jpg](https://zh.wikipedia.org/wiki/File:YACA_20130430.jpg "fig:YACA_20130430.jpg")
 
 **YACA**全稱**Young Animation and Comic
-Association**（無正式中文名稱，直譯為**青年動漫協會**，音譯**雅卡**），又稱為**YACA動漫協會**，是[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[广州市的一個民間](../Page/广州市.md "wikilink")[動漫](../Page/動漫.md "wikilink")[社團組織](https://zh.wikipedia.org/wiki/社團 "wikilink")，於2003年4月正式成立，創會會長為鄧國堅，业务主管是广州市[越秀区文学艺术界联合会](https://zh.wikipedia.org/wiki/越秀区 "wikilink")。\[1\]
+Association**（無正式中文名稱，直譯為**青年動漫協會**，音譯**雅卡**），又稱為**YACA動漫協會**，是[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[广州市](../Page/广州市.md "wikilink")的一個民間[動漫](../Page/動漫.md "wikilink")[社團組織](https://zh.wikipedia.org/wiki/社團 "wikilink")，於2003年4月正式成立，創會會長為鄧國堅，业务主管是广州市[越秀区文学艺术界联合会](https://zh.wikipedia.org/wiki/越秀区 "wikilink")。\[1\]
 
 ## 簡介
 
-YACA是广州第一个在政府注册的民间动漫组织，也是中国华南地区最早成立的动漫协会\[2\]，其漫展活動「YACA动漫拉阔广州」於2004年8月被[联合国教科文组织列入联合国](https://zh.wikipedia.org/wiki/联合国教科文组织 "wikilink")「全球对话」活动中，YACA因此为[中国首个获得联合国教科文组织认可的民间](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[法人社团机构](../Page/法人.md "wikilink")。\[3\]。目前YACA吸納了超過300家動漫社團，正式會員超過1000人\[4\]。
+YACA是广州第一个在政府注册的民间动漫组织，也是中国华南地区最早成立的动漫协会\[2\]，其漫展活動「YACA动漫拉阔广州」於2004年8月被[联合国教科文组织列入联合国](https://zh.wikipedia.org/wiki/联合国教科文组织 "wikilink")「全球对话」活动中，YACA因此为[中国首个获得联合国教科文组织认可的民间](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[法人](../Page/法人.md "wikilink")社团机构。\[3\]。目前YACA吸納了超過300家動漫社團，正式會員超過1000人\[4\]。
 
 ## 歷屆漫展
 
@@ -23,7 +23,7 @@ YACA是广州第一个在政府注册的民间动漫组织，也是中国华南�
 <tr class="odd">
 <td><p>2008年2月11日-13日</p></td>
 <td><p>YACA春季校园同人祭2008[6]</p></td>
-<td><p><a href="../Page/康王路.md" title="wikilink">康王中路上源胜南</a>17号<a href="../Page/荔湾区.md" title="wikilink">荔湾区耀华小学</a></p></td>
+<td><p><a href="../Page/康王路.md" title="wikilink">康王中路上源胜南</a>17号<a href="../Page/荔湾区.md" title="wikilink">荔湾区</a>耀华小学</p></td>
 <td><p>本屆同人祭前尚有一屆“YACA·十一反转周边动漫派对”因場地原因取消[7]</p></td>
 </tr>
 <tr class="even">
@@ -48,7 +48,7 @@ YACA是广州第一个在政府注册的民间动漫组织，也是中国华南�
 <tr class="odd">
 <td><p>2009年7月25日-26日</p></td>
 <td><p>YACA拉阔同人祭2009[11]</p></td>
-<td><p><a href="../Page/广州文化公园.md" title="wikilink">广州文化公园展览馆</a></p></td>
+<td><p><a href="../Page/广州文化公园.md" title="wikilink">广州文化公园</a>展览馆</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -157,6 +157,66 @@ YACA是广州第一个在政府注册的民间动漫组织，也是中国华南�
 <td><p>2015年5月1日-5月2日</p></td>
 <td><p>YACA五一动漫盛装嘉年华</p></td>
 <td><p>中洲国际展览中心</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年8月1日-8月2日</p></td>
+<td><p>YACA动漫一夏嘉年华</p></td>
+<td><p>广州国际采购中心</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年2月20日-2月21日</p></td>
+<td><p>YACA47th春季动漫画展</p></td>
+<td><p>中洲国际展览中心</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年4月30日-5月1日</p></td>
+<td><p>YACA2016五一动漫画展</p></td>
+<td><p>中洲国际展览中心</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年8月6日-8月7日</p></td>
+<td><p>YACA49th夏季动漫展</p></td>
+<td><p>南丰国际会展中心</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年10月29日</p></td>
+<td><p>YACA万圣动漫音乐节</p></td>
+<td><p>南丰国际会展中心</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年2月11日-2月12日</p></td>
+<td><p>YACA51st春季动漫展#</p></td>
+<td><p>南丰国际会展中心</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年4月29日-4月30日</p></td>
+<td><p>YACA52nd动漫画展</p></td>
+<td><p>南丰国际会展中心</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年8月5日-8月6日</p></td>
+<td><p>YACA53rd夏季动漫嘉年华</p></td>
+<td><p>南丰国际会展中心</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年10月29日</p></td>
+<td><p>YACA54th万圣动漫音乐盛典</p></td>
+<td><p>南丰国际会展中心</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年3月3日-3月0日</p></td>
+<td><p>YACA55th春季动漫展</p></td>
+<td><p>南丰国际会展中心</p></td>
 <td></td>
 </tr>
 <tr class="even">

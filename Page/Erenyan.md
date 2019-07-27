@@ -1,14 +1,14 @@
-《**Erenyan**》（），是[小野惠令奈繼首張個人單曲](../Page/小野惠令奈.md "wikilink")《[Erepyon](../Page/Erepyon_\(小野惠令奈單曲\).md "wikilink")》發售四個月後，推出的第二張個人單曲。
+《**Erenyan**》（），是[小野惠令奈](../Page/小野惠令奈.md "wikilink")繼首張個人單曲《[Erepyon](../Page/Erepyon_\(小野惠令奈單曲\).md "wikilink")》發售四個月後，推出的第二張個人單曲。
 
 ## 概要
 
-本單曲以貓為主題。其單曲及獨唱曲之名稱「Erenyan」（）由主唱[小野惠令奈命名](../Page/小野惠令奈.md "wikilink")，而其名稱中「」（Nyan）在日語中為貓叫聲的擬聲語，故也可以意譯為「惠令喵」。本單曲以通常盤、初回限定盤A、初回限定盤B、初回限定盤C、初回限定盤D等5個形態發售。
+本單曲以貓為主題。其單曲及獨唱曲之名稱「Erenyan」（）由主唱[小野惠令奈](../Page/小野惠令奈.md "wikilink")命名，而其名稱中「」（Nyan）在日語中為貓叫聲的擬聲語，故也可以意譯為「惠令喵」。本單曲以通常盤、初回限定盤A、初回限定盤B、初回限定盤C、初回限定盤D等5個形態發售。
 
 ## 相關消息
 
   - 2012年8月12日，於大板擧行ウルトラパンチLIVE\!\! Vol.1之活動中發表將推出本單曲。
   - 2012年9月13日，於youtube中公開單曲「」及「」之PV片段。
-  - 2012年9月19日，「」於[RecoChoku開始以](../Page/RecoChoku.md "wikilink")[電話鈴聲](https://zh.wikipedia.org/wiki/短信鈴聲 "wikilink")()發報。
+  - 2012年9月19日，「」於[RecoChoku](../Page/RecoChoku.md "wikilink")開始以[電話鈴聲](https://zh.wikipedia.org/wiki/短信鈴聲 "wikilink")()發報。
   - 2012年10月9日，於Oricon週間排行榜排行為第三位。\[1\]
 
 ## 發售形態

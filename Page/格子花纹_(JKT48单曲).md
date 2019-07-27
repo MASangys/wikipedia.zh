@@ -1,6 +1,6 @@
 《**格子花纹**》（Gingham
-Check）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48的第](../Page/JKT48.md "wikilink")6張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，本单曲的演唱成员是依照JKT48第一次单曲选拔总选举的票选结果决定\[1\]。单曲於2014年6月11日由發行\[2\]。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Gingham
-Check》實際上就是姊妹團體[AKB48的第](../Page/AKB48.md "wikilink")27首單曲《[格子花纹](https://zh.wikipedia.org/wiki/格子花纹 "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
+Check）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48](../Page/JKT48.md "wikilink")的第6張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，本单曲的演唱成员是依照JKT48第一次单曲选拔总选举的票选结果决定\[1\]。单曲於2014年6月11日由發行\[2\]。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Gingham
+Check》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第27首單曲《[格子花纹](https://zh.wikipedia.org/wiki/格子花纹 "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要
 
@@ -25,7 +25,7 @@ KIII）最後一次成為選拔成員。
 2.  《Utsukushii Inazuma》（Kilat yang Indah）- Undergirls \[4:43\]
       -
         （日文原版作詞：秋元康、作曲：福田貴史、編曲：佐佐木裕）
-        原曲是[SKE48的](../Page/SKE48.md "wikilink")[第12张单曲《美麗的閃電》](../Page/美麗的閃電.md "wikilink")（）。
+        原曲是[SKE48](../Page/SKE48.md "wikilink")的[第12张单曲《美麗的閃電》](../Page/美麗的閃電.md "wikilink")（）。
 3.  《Kondo Koso Ecstasy》（Kali ini Ecstasy）\[3:17\]
       -
         （日文原版作詞：秋元康、作曲、編曲：（））

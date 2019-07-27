@@ -1,13 +1,13 @@
-**速霸陸Outback**（）為1995年起[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的五人座[運動型多用途車或](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，[中國的官方翻譯名稱為](../Page/中國.md "wikilink")**斯巴魯傲虎**。此車款承襲[速霸陸Legacy而來](../Page/速霸陸Legacy.md "wikilink")，搭載了該公司向來標榜的[水平對臥引擎及全時](../Page/水平對臥引擎.md "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。
+**速霸陸Outback**（）為1995年起[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的五人座[運動型多用途車或](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，[中國](../Page/中國.md "wikilink")的官方翻譯名稱為**斯巴魯傲虎**。此車款承襲[速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")而來，搭載了該公司向來標榜的[水平對臥引擎](../Page/水平對臥引擎.md "wikilink")及全時[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。
 
-關於車名「Outback」在[澳洲意謂未經開拓的蠻荒之地](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。除此之外，富士重工業自1994年至2011年間曾以[速霸陸Impreza為基礎](../Page/速霸陸Impreza.md "wikilink")，針對[北美洲](../Page/北美洲.md "wikilink")[市場推出的](https://zh.wikipedia.org/wiki/市場 "wikilink")「**Outback**
-Sport」。該車款並未拉高車身[高度](https://zh.wikipedia.org/wiki/高度 "wikilink")、底盤離地高度，僅就外觀植入越野休旅元素，可視為[速霸陸XV的前身](../Page/速霸陸XV.md "wikilink")。
+關於車名「Outback」在[澳洲意謂未經開拓的蠻荒之地](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。除此之外，富士重工業自1994年至2011年間曾以[速霸陸Impreza](../Page/速霸陸Impreza.md "wikilink")為基礎，針對[北美洲](../Page/北美洲.md "wikilink")[市場推出的](https://zh.wikipedia.org/wiki/市場 "wikilink")「**Outback**
+Sport」。該車款並未拉高車身[高度](https://zh.wikipedia.org/wiki/高度 "wikilink")、底盤離地高度，僅就外觀植入越野休旅元素，可視為[速霸陸XV](../Page/速霸陸XV.md "wikilink")的前身。
 
 ## 歷史與概要
 
 ### 概要
 
-1980年代中期富士重工業過度仰賴對[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[出口業務](https://zh.wikipedia.org/wiki/出口贸易 "wikilink")，導致公司體制僵化，出現營運危機；甚至某些[平面媒體胡亂臆測該公司將遭到](https://zh.wikipedia.org/wiki/日本媒體#報紙 "wikilink")[併購或](../Page/併購.md "wikilink")[破產](../Page/破產.md "wikilink")。為了破除危機，該公司導入開發主管制度，進行大規模的組織改革活動，其中開發代號「44B」的[第一代Legacy便是在這種情況下誕生](https://zh.wikipedia.org/wiki/速霸陸Legacy#第一代BC/BF系（1989年-1993年） "wikilink")。這款車外銷北美洲後，成功地讓該公司起死回生。
+1980年代中期富士重工業過度仰賴對[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[出口業務](https://zh.wikipedia.org/wiki/出口贸易 "wikilink")，導致公司體制僵化，出現營運危機；甚至某些[平面媒體胡亂臆測該公司將遭到](https://zh.wikipedia.org/wiki/日本媒體#報紙 "wikilink")[併購](../Page/併購.md "wikilink")或[破產](../Page/破產.md "wikilink")。為了破除危機，該公司導入開發主管制度，進行大規模的組織改革活動，其中開發代號「44B」的[第一代Legacy便是在這種情況下誕生](https://zh.wikipedia.org/wiki/速霸陸Legacy#第一代BC/BF系（1989年-1993年） "wikilink")。這款車外銷北美洲後，成功地讓該公司起死回生。
 
 1990年代起SUV風潮席捲整個北美，可是在1997年上市的[Forester尚未問世之前](../Page/速霸陸Forester.md "wikilink")，富士重工業旗下並無任何一部真正能稱得上[SUV的車款](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")。尤其位在[印第安那州](https://zh.wikipedia.org/wiki/印第安那州 "wikilink")[拉斐特的](https://zh.wikipedia.org/wiki/拉斐特_\(印第安纳州\) "wikilink")「速霸陸五十鈴汽車廠（今改稱〔Subaru
 of Indiana Automotive,
@@ -28,7 +28,7 @@ Grand Wagon**。動力心臟為2.5L[水平對臥四缸DOHC](../Page/水平對臥
 / 6,000rpm的最大[馬力](../Page/馬力.md "wikilink")、21.5kgf·m / 2,800rpm的扭力峰值。
 
 1997年 - 9月隨著第二代Legacy小改款，日本市場的車名改為**速霸陸Legacy
-Lancaster**。除追加五速手排附[雙速切換裝置的車型](../Page/雙速切換裝置.md "wikilink")，另有安裝投射式頭燈組的「Limited」車型。
+Lancaster**。除追加五速手排附[雙速切換裝置](../Page/雙速切換裝置.md "wikilink")的車型，另有安裝投射式頭燈組的「Limited」車型。
 
 Image:1st Subaru Outback SUS.jpg|四門轎車版車頭 Image:Subaru SUS
 rear.jpg|四門轎車版車尾 Image:1st Subaru Outback --
@@ -41,12 +41,12 @@ Subaru NB on S Lasalle St in Durham.jpg
 ### 第二代BH系（1998年-2003年）
 
 1998年 -
-6月17日隨著大改款的[第三代Legacy發表](https://zh.wikipedia.org/wiki/速霸陸Legacy#第三代BE/BH系（1998年-2003年） "wikilink")，原來的2.5L引擎改為附有[AVCS主動閥門控制系統的](../Page/AVCS主動閥門控制系統.md "wikilink")[EJ254型](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ254型 "wikilink")，有助於加強馬力輸出，又可減少廢氣排放。為了確保能停入[立體機械式停車位](../Page/停車場.md "wikilink")，仍然保持底盤離地高度200mm、車身高度1,550mm。
+6月17日隨著大改款的[第三代Legacy發表](https://zh.wikipedia.org/wiki/速霸陸Legacy#第三代BE/BH系（1998年-2003年） "wikilink")，原來的2.5L引擎改為附有[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")的[EJ254型](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ254型 "wikilink")，有助於加強馬力輸出，又可減少廢氣排放。為了確保能停入[立體機械式停車位](../Page/停車場.md "wikilink")，仍然保持底盤離地高度200mm、車身高度1,550mm。
 
 1999年 - 9月24日追加「Lancaster ADA」新車型，所謂「ADA」為「主動駕駛輔助系統（Active Driving
-Assist）」之縮寫，[擋風玻璃內側上方裝置了兩具](../Page/擋風玻璃.md "wikilink")[CCD攝影鏡頭](../Page/感光耦合元件.md "wikilink")，配合VDC車輛動態控制系統（Vehicle
+Assist）」之縮寫，[擋風玻璃](../Page/擋風玻璃.md "wikilink")內側上方裝置了兩具[CCD攝影鏡頭](../Page/感光耦合元件.md "wikilink")，配合VDC車輛動態控制系統（Vehicle
 Dynamics Control
-System），可針對車間距離、彎路、行駛路線偏移等狀況提供警報給駕駛者。當設定[巡航定速時](../Page/巡航定速.md "wikilink")，如果與前車距離過近，系統還會自動減速\[1\]。此外，此車型尚包含[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、SRS雙[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、四輪ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、恆溫空調等配備。
+System），可針對車間距離、彎路、行駛路線偏移等狀況提供警報給駕駛者。當設定[巡航定速](../Page/巡航定速.md "wikilink")時，如果與前車距離過近，系統還會自動減速\[1\]。此外，此車型尚包含[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、SRS雙[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、四輪ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、恆溫空調等配備。
 
 2000年 - 新加入一具動力更充沛的3.0L[水平對臥六缸DOHC](../Page/水平對臥六缸引擎.md "wikilink")
 [EZ30D型引擎](https://zh.wikipedia.org/wiki/速霸陸EZ族引擎#EZ30D型 "wikilink")，搭配四速自排變速箱，構成「Legacy
@@ -55,9 +55,9 @@ Lancaster 6」車型。在此同時新增「Legacy Lancaster S」車型，包含
 2001年 -
 5月22日小改款，車頭修飾得更為立體、改良[懸吊系統](../Page/懸吊系統.md "wikilink")、新增[DVD-ROM](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，且換上新的[企業識別](https://zh.wikipedia.org/wiki/企業識別 "wikilink")[標誌](https://zh.wikipedia.org/wiki/標誌 "wikilink")。原先「Legacy
 Lancaster
-6」車型新增ADA行車輔助系統（[EyeSight系統之前身](../Page/EyeSight.md "wikilink")），新增在[巡航定速狀態下可設定三種車間距離](../Page/巡航定速.md "wikilink")，以及設定二種警報音量。10月22日推出「LancasterS
+6」車型新增ADA行車輔助系統（[EyeSight](../Page/EyeSight.md "wikilink")系統之前身），新增在[巡航定速](../Page/巡航定速.md "wikilink")狀態下可設定三種車間距離，以及設定二種警報音量。10月22日推出「LancasterS
 Limited
-Edition」特仕車以刺激銷售，搭配黑色儀表板、附[MD](../Page/MiniDisc.md "wikilink")、6[CD換片箱](../Page/CD.md "wikilink")、[FM](../Page/频率调制.md "wikilink")/[AM等功能的音響系統](../Page/振幅調變.md "wikilink")、[HID頭燈組等配備](../Page/高強度氣體放電燈.md "wikilink")。
+Edition」特仕車以刺激銷售，搭配黑色儀表板、附[MD](../Page/MiniDisc.md "wikilink")、6[CD](../Page/CD.md "wikilink")換片箱、[FM](../Page/频率调制.md "wikilink")/[AM等功能的音響系統](../Page/振幅調變.md "wikilink")、[HID頭燈組等配備](../Page/高強度氣體放電燈.md "wikilink")。
 
 Image:2000-2001 Subaru Outback (BHE MY01) H6 station wagon
 (2009-06-28).jpg|旅行車車尾 Image:2000-2004 Subaru Outback Wagon.jpg|旅行車車頭
@@ -70,8 +70,8 @@ Image:Subaru EZ30 engine 001.JPG|EZ30型水平對臥六缸引擎
 [SubaruBaja.jpg](https://zh.wikipedia.org/wiki/File:SubaruBaja.jpg "fig:SubaruBaja.jpg")
 2002年7月起[印第安那州](https://zh.wikipedia.org/wiki/印第安那州 "wikilink")[拉斐特的](https://zh.wikipedia.org/wiki/拉斐特_\(印第安纳州\) "wikilink")「速霸陸五十鈴汽車廠（同年12月起改稱〔Subaru
 of Indiana Automotive,
-Inc.〕）」以第二代Outback為基礎，將後車廂改為車斗之設計，推出屬於四門[皮卡貨車或](../Page/皮卡.md "wikilink")（coupé
-utility）的[速霸陸Baja](../Page/速霸陸Baja.md "wikilink")，專門在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[智利等市場銷售](../Page/智利.md "wikilink")。
+Inc.〕）」以第二代Outback為基礎，將後車廂改為車斗之設計，推出屬於四門[皮卡](../Page/皮卡.md "wikilink")貨車或（coupé
+utility）的[速霸陸Baja](../Page/速霸陸Baja.md "wikilink")，專門在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[智利](../Page/智利.md "wikilink")等市場銷售。
 {{-}}
 
 ### 第三代BP系（2003年-2009年）
@@ -94,12 +94,12 @@ Outback**」。由於引擎[汽缸改用最新開發的電解式線上削銳研�
 In-process
 Dressing，縮寫成ELID），不但使每個汽缸的加工時間減半，也提升壁面細緻度與加工精度，有助於提升燃燒效率。另外導入甫於第106屆[紐約國際車展發表的](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")「[SI-DRIVE](../Page/SI-DRIVE.md "wikilink")」駕駛輔助系統，可針對不同的駕駛狀況調整電子節氣門及燃油供應。
 
-2007年 - 4月由富士重工業在[臺灣成立的臺灣速霸陸股份有限公司](../Page/臺灣.md "wikilink")（Subaru of
+2007年 - 4月由富士重工業在[臺灣](../Page/臺灣.md "wikilink")成立的臺灣速霸陸股份有限公司（Subaru of
 Taiwan Co., Ltd.，縮寫成SOT）引進3.0L Outback、Legacy
-2.0L五門[旅行車至該市場販售](../Page/旅行車.md "wikilink")。
+2.0L五門[旅行車](../Page/旅行車.md "wikilink")至該市場販售。
 
 2008年 -
-3月所舉行的[日內瓦汽車展上](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")，原廠發表全世界第一具針對乘用車設計的2.0L[水平對臥四缸](../Page/水平對臥四缸引擎.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")「[EE20型](../Page/速霸陸EE20型引擎.md "wikilink")」，旋即投入[歐洲市場販售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。在[渦輪增壓器和五速手排變速箱的加持下](../Page/渦輪增壓器.md "wikilink")，可輸出最大[馬力](../Page/馬力.md "wikilink")147ps
+3月所舉行的[日內瓦汽車展上](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")，原廠發表全世界第一具針對乘用車設計的2.0L[水平對臥四缸](../Page/水平對臥四缸引擎.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")「[EE20型](../Page/速霸陸EE20型引擎.md "wikilink")」，旋即投入[歐洲市場販售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。在[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")和五速手排變速箱的加持下，可輸出最大[馬力](../Page/馬力.md "wikilink")147ps
 / 3,600rpm，最大扭力35.7kgf·m / 1,800-2,400rpm。5月8日「3.0R
 EyeSight」車型新增「[EyeSight](../Page/EyeSight.md "wikilink")」行車安全輔助系統；同時為了慶祝富士重工業成立50周年，販售限量2,000部的「2.5XT」、「2.5XT
 EyeSight」，搭載原本僅限外銷的2.5L水平對臥四缸DOHC
@@ -129,7 +129,7 @@ Kombi front.JPG|歐規版前期型
 CVT](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")。
 
 2010年 -
-5月18日實施小改款，同時中、高端車型加裝改良版的[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，當車輛極為靠近前車或其他物體時，系統會向駕駛者發出警示音。萬一駕駛者沒有減速，以致進入系統所判定的撞擊區域內，EyeSight會自動介入煞車系統，降低車速以阻止碰撞或降低碰撞傷害。此外在車子[巡航定速時](../Page/巡航定速.md "wikilink")，若遇到前車減速會自動減速以保持車距，或於必要時煞停車輛。同年7月，[台灣意美汽車引進](../Page/台灣意美汽車.md "wikilink")2.5L與3.6L二種排氣量的車型進入[臺灣市場](../Page/臺灣.md "wikilink")。
+5月18日實施小改款，同時中、高端車型加裝改良版的[EyeSight](../Page/EyeSight.md "wikilink")行車安全輔助系統，當車輛極為靠近前車或其他物體時，系統會向駕駛者發出警示音。萬一駕駛者沒有減速，以致進入系統所判定的撞擊區域內，EyeSight會自動介入煞車系統，降低車速以阻止碰撞或降低碰撞傷害。此外在車子[巡航定速](../Page/巡航定速.md "wikilink")時，若遇到前車減速會自動減速以保持車距，或於必要時煞停車輛。同年7月，[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")引進2.5L與3.6L二種排氣量的車型進入[臺灣](../Page/臺灣.md "wikilink")市場。
 
 2012年 -
 5月8日再度小改款，換上近似倒梯狀的六角型水箱護罩，輔以齊平排列的格柵飾條。[排氣量](https://zh.wikipedia.org/wiki/排氣量 "wikilink")2.5L的引擎改用全新開發的2.5L水平對臥四缸DOHC
@@ -137,7 +137,7 @@ CVT](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikil
 / 5,600rpm、最大扭力24.0kgf·m / 4,100rpm。
 
 2013年 - 5月14日日本市場推出部分改良的Outback，並推出特仕車「2.5i B-SPORT
-EyeSight」\[3\]，具備第二代[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")、17吋鋁圈、全車空力套件、[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、三件式踏板、碳纖維內飾板等配備。
+EyeSight」\[3\]，具備第二代[EyeSight](../Page/EyeSight.md "wikilink")行車安全輔助系統、17吋鋁圈、全車空力套件、[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、三件式踏板、碳纖維內飾板等配備。
 
 2014年 - 2月27日開始販售「Grand Master」特仕車，乃以「3.6R
 EyeSight」車型為基礎，加裝專屬水箱護罩、後視鏡、車頂行李架、燻黑處理的HID頭燈等，內裝方面以咖啡色皮革米色縫線，搭配深色霧面的專屬款式木紋飾板。
@@ -161,7 +161,7 @@ Image:SubaruOutbackBR36R2011IIMS.jpg
 2010年5月7日美國速霸陸公司宣布召回29,443輛2009年7月31日至12月1日之間製造的第五代Legacy和第四代Outback，由於Lineartronic
 CVT變速箱的冷卻軟管材質出現異狀，可能出現裂縫甚至破裂，使得冷卻液外漏導致引擎無法運作。同年6月24日也宣布由於方向機柱內的電線覆皮可能因受壓而破裂，導致車內電子裝置無法使用，必須召回2009年2月16日至2010年4月12日間製造的73,698輛車。
 
-2012年2月[台灣意美汽車也宣布召回](../Page/台灣意美汽車.md "wikilink")2011年至2012年製造的Legacy和Outback，以進行煞車總泵的更換檢修。由於在低溫環境下輕踩煞車時，煞車總泵內的皮碗內部移動阻力增加，導致皮碗翻轉，因而增長煞車踏板的作用行程；此番需召回的車輛共計221輛\[5\]。
+2012年2月[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")也宣布召回2011年至2012年製造的Legacy和Outback，以進行煞車總泵的更換檢修。由於在低溫環境下輕踩煞車時，煞車總泵內的皮碗內部移動阻力增加，導致皮碗翻轉，因而增長煞車踏板的作用行程；此番需召回的車輛共計221輛\[5\]。
 {{-}}
 
 ### 第五代BS系（2014年-2019年）
@@ -170,11 +170,11 @@ CVT變速箱的冷卻軟管材質出現異狀，可能出現裂縫甚至破裂�
 原廠4月18日在[紐約國際車展中正式讓第五代Outback亮相](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")\[6\]，車身尺碼放大，車長、車寬與車高來到了4,817mm、1,840mm及1,680mm，車長和車寬分別增加72mm與20mm，車高則提升75mm。車頭換上家族化的[六角形水箱護罩](https://zh.wikipedia.org/wiki/六边形 "wikilink")（附自動起閉功能〔Active
 Grille Shutter〕以降低風阻）及頭燈設計。在動力來源的部分和第六代Legacy一樣，日規版提供2.5L水平對臥四缸DOHC
 [FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，美規版則多了3.6L[水平對臥六缸DOHC](../Page/水平對臥六缸引擎.md "wikilink")
-[EZ36型引擎之選擇](https://zh.wikipedia.org/wiki/速霸陸EZ族引擎#EZ36型 "wikilink")。二種動力皆換上[鋁合金引擎蓋](../Page/鋁合金.md "wikilink")，以減輕前軸的[重量](../Page/重量.md "wikilink")，並且搭配Symmetrical
+[EZ36型引擎之選擇](https://zh.wikipedia.org/wiki/速霸陸EZ族引擎#EZ36型 "wikilink")。二種動力皆換上[鋁合金](../Page/鋁合金.md "wikilink")引擎蓋，以減輕前軸的[重量](../Page/重量.md "wikilink")，並且搭配Symmetrical
 All-Wheel Drive四輪驅動系統及Lineartronic
 CVT無段式變速系統。第五代Outback具有主動式扭力引導系統（Active
 Torque
-Vectoring），可提升對彎道的操控性。安全配備方面除了第三代[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，另包含[盲點偵測系統](../Page/盲點偵測系統.md "wikilink")（Blind
+Vectoring），可提升對彎道的操控性。安全配備方面除了第三代[EyeSight](../Page/EyeSight.md "wikilink")行車安全輔助系統，另包含[盲點偵測系統](../Page/盲點偵測系統.md "wikilink")（Blind
 Spot Detection）、車道輔助系統（Lane Change Assist）、車後交通警示系統（Rear Cross Traffic
 Alert）等，以及在轉彎時能亮起的轉向感應霧燈（Steering-Responsive Foglights）。
 
@@ -183,12 +183,12 @@ Alert）等，以及在轉彎時能亮起的轉向感應霧燈（Steering-Respon
 Limited」兩種車型。
 
 2015年 -
-3月25日[台灣意美汽車正式引進第五代Outback](../Page/台灣意美汽車.md "wikilink")\[7\]，動力心臟為2.5L水平對臥四缸DOHC
+3月25日[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")正式引進第五代Outback\[7\]，動力心臟為2.5L水平對臥四缸DOHC
 [FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，入門級之標準配備具有附換檔撥片的多功真皮[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、10向電調駕駛座椅、7吋全彩LCD多點觸控螢幕、雙區恆溫空調等；高階的2.5L
-i-S車型則進一步加上免鑰匙進入和按鈕啟閉系統、車側鋼琴飾條、真皮座椅、副駕駛座8向電動調整、電動啟閉尾門裝置、電動天窗及雙前座電熱椅等配備設定。在主被動安全方面，大改款的Outback車系皆擁有雙模式[SI-DRIVE駕駛輔助系統](../Page/SI-DRIVE.md "wikilink")、BAS煞車力道輔助系統、上坡起步輔助系統、ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、TCS循跡防滑控制系統、VDC[車身動態穩定控制系統](../Page/电子稳定程序.md "wikilink")、ATV主動扭力引導系統、7具[安全氣囊等設定](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
+i-S車型則進一步加上免鑰匙進入和按鈕啟閉系統、車側鋼琴飾條、真皮座椅、副駕駛座8向電動調整、電動啟閉尾門裝置、電動天窗及雙前座電熱椅等配備設定。在主被動安全方面，大改款的Outback車系皆擁有雙模式[SI-DRIVE](../Page/SI-DRIVE.md "wikilink")駕駛輔助系統、BAS煞車力道輔助系統、上坡起步輔助系統、ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、TCS循跡防滑控制系統、VDC[車身動態穩定控制系統](../Page/电子稳定程序.md "wikilink")、ATV主動扭力引導系統、7具[安全氣囊等設定](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
 
 2016年 - 1月5日開始發售特仕車「Limited Smart
-Edition」\[8\]，座椅採用[東麗株式會社生產的](https://zh.wikipedia.org/wiki/東麗株式會社 "wikilink")「Ultrasuede（）」人工[皮革製成](../Page/皮革.md "wikilink")，前後保桿重新設計。同年9月8日原廠宣佈10月3日開賣部份改良之車型，改良主要著重在[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，新增連續車道保持功能，且將車道保持功能的作動車速由65km/h以上改成60km/h以上，搭配可於0-100km/h全速域自動跟車（含靜止起步加速功能）的主動式巡航系統，等同具備單一車道自動駕駛的功能，可大幅減輕長途駕駛的負擔。此外，方向盤加熱功能亦列入標配，並追加橡木棕珍珠烤漆的新車色。另外，為了紀念水平對臥引擎發表50周年，原廠宣佈2017年1月9日開始發售「X-Advance」特仕車。在車內座椅、門板、中央扶手、方向盤、排檔桿等處鋪設具有黃綠色縫線的合成皮革材質，並配合灰色防水織布材質、黑色金屬網格壓紋飾板和黑色鋼琴烤漆前座中央出風口；外觀部分則有黑色後視鏡、車頂行李架、位於車側下護條的Outback黃綠色徽飾、青銅色塗裝17吋五輻雙肋式鋁圈等配備。
+Edition」\[8\]，座椅採用[東麗株式會社生產的](https://zh.wikipedia.org/wiki/東麗株式會社 "wikilink")「Ultrasuede（）」人工[皮革](../Page/皮革.md "wikilink")製成，前後保桿重新設計。同年9月8日原廠宣佈10月3日開賣部份改良之車型，改良主要著重在[EyeSight](../Page/EyeSight.md "wikilink")行車安全輔助系統，新增連續車道保持功能，且將車道保持功能的作動車速由65km/h以上改成60km/h以上，搭配可於0-100km/h全速域自動跟車（含靜止起步加速功能）的主動式巡航系統，等同具備單一車道自動駕駛的功能，可大幅減輕長途駕駛的負擔。此外，方向盤加熱功能亦列入標配，並追加橡木棕珍珠烤漆的新車色。另外，為了紀念水平對臥引擎發表50周年，原廠宣佈2017年1月9日開始發售「X-Advance」特仕車。在車內座椅、門板、中央扶手、方向盤、排檔桿等處鋪設具有黃綠色縫線的合成皮革材質，並配合灰色防水織布材質、黑色金屬網格壓紋飾板和黑色鋼琴烤漆前座中央出風口；外觀部分則有黑色後視鏡、車頂行李架、位於車側下護條的Outback黃綠色徽飾、青銅色塗裝17吋五輻雙肋式鋁圈等配備。
 
 2017年 -
 9月4日原廠發表小改款，10月5日上市\[9\]。EyeSight行車安全輔助系統新增倒車自動煞車功能，且全速域自動跟車的速域由0-100km/h提高至0-120km/h。

@@ -29,13 +29,13 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 
 ### MiA
 
-  - 擔任[吉他手](../Page/吉他.md "wikilink")。生日：1991年9月17日，血型：O型。
-  - 樂團經歷（括號內為當時藝名）：[Galneryus機材協助人員](../Page/Galneryus.md "wikilink")⇒Valcuria⇒フルリレロ（翔夜）⇒熊猫xiongmao（協演：ゆの）⇒(○なるど)（夢叶-ゆの-）⇒トゥーン工場（夢叶）⇒MEJIBRAY（協演：MiA）⇒MEJIBRAY（MiA）
+  - 擔任[吉他](../Page/吉他.md "wikilink")手。生日：1991年9月17日，血型：O型。
+  - 樂團經歷（括號內為當時藝名）：[Galneryus](../Page/Galneryus.md "wikilink")機材協助人員⇒Valcuria⇒フルリレロ（翔夜）⇒熊猫xiongmao（協演：ゆの）⇒(○なるど)（夢叶-ゆの-）⇒トゥーン工場（夢叶）⇒MEJIBRAY（協演：MiA）⇒MEJIBRAY（MiA）
   - 本名阿津翔也。高中就讀日出高校。
   - 喜歡[重金屬系的吉他演奏方式](https://zh.wikipedia.org/wiki/重金屬 "wikilink")。
   - 大概14歲時開始練吉他，吉他技巧高超，受邀擔任2014年度的GIT MASTERS評審。
   - 高二時開始在トゥーン工場活動，高三時休學。在トゥーン工場開始前也因為擔任機材協助人員而很少上學。
-  - 崇拜[松下幸之助](../Page/松下幸之助.md "wikilink")、[秋元康和](../Page/秋元康.md "wikilink")[村上春樹](https://zh.wikipedia.org/wiki/村上春樹 "wikilink")。
+  - 崇拜[松下幸之助](../Page/松下幸之助.md "wikilink")、[秋元康](../Page/秋元康.md "wikilink")和[村上春樹](https://zh.wikipedia.org/wiki/村上春樹 "wikilink")。
 
 ### 恋一
 

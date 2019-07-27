@@ -1,6 +1,6 @@
 《**飛翔入手**》（Flying
-Get）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48的第](../Page/JKT48.md "wikilink")5張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年3月5日由發行\[1\]。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Flying
-Get》實際上就是姊妹團體[AKB48的第](../Page/AKB48.md "wikilink")22首單曲《[飛翔入手](../Page/飛翔入手.md "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。而伴随着单曲的发行，JKT48也正式开始了组合的第一次单曲选拔总选举\[2\]\[3\]。
+Get）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48](../Page/JKT48.md "wikilink")的第5張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年3月5日由發行\[1\]。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Flying
+Get》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第22首單曲《[飛翔入手](../Page/飛翔入手.md "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。而伴随着单曲的发行，JKT48也正式开始了组合的第一次单曲选拔总选举\[2\]\[3\]。
 
 ## 概要
 
@@ -25,7 +25,7 @@ Chaesara、Jennifer Hanna、Noella Sisterina与Rona Anggreani本次落选名單�
 2.  《Hanikami Lollypop》（Malu-malu Lollypop）- Undergirls \[4:00\]
       -
         （日文原版作詞：秋元康、作曲：池澤聡、編曲：増田武史）
-        原曲是[SKE48的](../Page/SKE48.md "wikilink")[第8张单曲的B面曲《羞涩棒棒糖》](https://zh.wikipedia.org/wiki/单恋Finally "wikilink")（）。
+        原曲是[SKE48](../Page/SKE48.md "wikilink")的[第8张单曲的B面曲《羞涩棒棒糖》](https://zh.wikipedia.org/wiki/单恋Finally "wikilink")（）。
 3.  《Dareka no Tame ni - What Can I Do for Someone? –》（Demi Seseorang –
     What Can I Do for Someone? -） - Team J \[4:13\]
       -

@@ -5,7 +5,7 @@ LOVE, ON
 ## 概要
 
 2010年11月23日舉行演唱會『sphere ON LOVE, ON
-日本武道館』的[日本武道館公演模様收錄](../Page/日本武道館.md "wikilink")，[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD版共各成員的獨唱樂曲收錄](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+日本武道館』的[日本武道館](../Page/日本武道館.md "wikilink")公演模様收錄，[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD版共各成員的獨唱樂曲收錄](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄内容
 

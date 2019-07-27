@@ -1,7 +1,7 @@
 《**Soul
-Link**》是[Navel開發並於](../Page/Navel.md "wikilink")2004年12月17日發售的[科幻題材](../Page/科學幻想.md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]故事以[未來世界](https://zh.wikipedia.org/wiki/未來世界 "wikilink")[太空站為舞台](https://zh.wikipedia.org/wiki/太空站 "wikilink")。
+Link**》是[Navel](../Page/Navel.md "wikilink")開發並於2004年12月17日發售的[科幻題材](../Page/科學幻想.md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]故事以[未來世界](https://zh.wikipedia.org/wiki/未來世界 "wikilink")[太空站為舞台](https://zh.wikipedia.org/wiki/太空站 "wikilink")。
 
-[Interchannel於](../Page/Interchannel.md "wikilink")2006年6月29日發售[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《Soul
+[Interchannel](../Page/Interchannel.md "wikilink")於2006年6月29日發售[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《Soul
 Link EXTENSION》\[2\]，新增了些許新角色。2010年6月25日推出重製版《Soul Link
 ULTIMATE》。\[3\]2012年3月23日，Gyutto獨家發售網路下載版《Soul Link》。\[4\]
 
@@ -69,7 +69,7 @@ Link》時將會花費大多數時間觀看出現在螢幕上的文字敘述、�
 
 ## 電視動畫
 
-2006年4月至6月由[AT-X](../Page/AT-X.md "wikilink")、[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")、[埼玉電視台](../Page/埼玉電視台.md "wikilink")、[神奈川電視台](../Page/神奈川電視台.md "wikilink")、[三重電視台](../Page/三重電視台.md "wikilink")、[京都放送播放](../Page/京都放送.md "wikilink")12集[電視動畫及特別編](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+2006年4月至6月由[AT-X](../Page/AT-X.md "wikilink")、[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")、[埼玉電視台](../Page/埼玉電視台.md "wikilink")、[神奈川電視台](../Page/神奈川電視台.md "wikilink")、[三重電視台](../Page/三重電視台.md "wikilink")、[京都放送](../Page/京都放送.md "wikilink")播放12集[電視動畫及特別編](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ### 主題歌
 

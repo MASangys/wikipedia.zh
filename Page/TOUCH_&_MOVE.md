@@ -1,5 +1,5 @@
 《**TOUCH &
-MOVE**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SISTAR的第](../Page/SISTAR.md "wikilink")2張迷你專輯。於2014年7月21日發行。唱片公司為[LOEN
+MOVE**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")的第2張迷你專輯。於2014年7月21日發行。唱片公司為[LOEN
 Entertainment](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
 
 ## 概要

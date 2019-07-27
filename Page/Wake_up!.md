@@ -4,7 +4,7 @@ trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - A面曲《Wake up\!》是[富士電視台動畫](../Page/富士電視台.md "wikilink")「[ONE
+  - A面曲《Wake up\!》是[富士電視台](../Page/富士電視台.md "wikilink")動畫「[ONE
     PIECE](../Page/ONE_PIECE.md "wikilink")」（海賊王）的主題曲
   - B面曲《微風徐徐的夏日記憶》是[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「COOL
     STYLE」和「」的電視廣告歌曲，此曲是AAA繼《[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")》後第十六首伊藤洋華堂電視廣告歌曲。

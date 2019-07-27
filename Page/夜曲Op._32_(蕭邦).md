@@ -17,7 +17,7 @@ Huneker描述它們「有少許使人厭倦\[4\]。」
 夜曲**Op. 32 No.
 2**是[降A大調](https://zh.wikipedia.org/wiki/降A大調 "wikilink")，緩板，4/4拍。在第25小節，樂曲轉為12/8拍，[F小調](https://zh.wikipedia.org/wiki/F小調 "wikilink")，之後再在第37小節轉為[升F小調](https://zh.wikipedia.org/wiki/升F小調 "wikilink")，並在第49小節轉回降A大調及註"appassionato"(充滿激情)，最後才在第73小節回復緩板及4/4拍。全曲共74小節，為[三段體](https://zh.wikipedia.org/wiki/三段體 "wikilink")\[5\]。
 
-此曲是其中一首被改編於[芭蕾舞曲Les](../Page/芭蕾舞.md "wikilink") Sylphides的蕭邦作品。
+此曲是其中一首被改編於[芭蕾舞](../Page/芭蕾舞.md "wikilink")曲Les Sylphides的蕭邦作品。
 
 ## 參考
 

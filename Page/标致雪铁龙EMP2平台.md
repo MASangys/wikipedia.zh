@@ -5,12 +5,12 @@
 新平台实现了高度的模块化设计，可调节轴距、尺寸、长/短驾驶位和前梁部分，根据车型的定位可以选择[多连杆独立悬挂或](https://zh.wikipedia.org/wiki/独立多连杆 "wikilink")[扭梁式后悬挂](https://zh.wikipedia.org/wiki/扭梁式后悬挂 "wikilink")。与其前身PF2相比，新平台减轻了70公斤的重量，使用高强度钢，铝和镁合金，及复合材料\[2\]
 。
 
-标致雪铁龙和[通用汽车将在EMP](../Page/通用汽车.md "wikilink")2平台下开发其未来的PSA-GM联盟的车型\[3\]
+标致雪铁龙和[通用汽车](../Page/通用汽车.md "wikilink")将在EMP2平台下开发其未来的PSA-GM联盟的车型\[3\]
 \[4\]。
 
 ## 产品
 
-EMP2平台使用在[西班牙Vigo工厂投产的PSA](../Page/西班牙.md "wikilink")
+EMP2平台使用在[西班牙](../Page/西班牙.md "wikilink")Vigo工厂投产的PSA
 2013款[雪铁龙C4毕加索](https://zh.wikipedia.org/wiki/雪铁龙C4毕加索 "wikilink")\[5\]
 和2013年在法国索肖工厂生产的标致308\[6\] 。
 

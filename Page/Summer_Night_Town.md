@@ -1,10 +1,10 @@
 「**Summer Night
-Town**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第2张[单曲](../Page/单曲.md "wikilink")。於1998年5月27日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+Town**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第2张[单曲](../Page/单曲.md "wikilink")。於1998年5月27日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「Summer Night
-    Town」是[早安少女組。二期成員](../Page/早安少女組。.md "wikilink")[保田圭](../Page/保田圭.md "wikilink")、[矢口真里](../Page/矢口真里.md "wikilink")、[市井紗耶香加入後第一張單曲](../Page/市井紗耶香.md "wikilink")。
+    Town」是[早安少女組。](../Page/早安少女組。.md "wikilink")二期成員[保田圭](../Page/保田圭.md "wikilink")、[矢口真里](../Page/矢口真里.md "wikilink")、[市井紗耶香](../Page/市井紗耶香.md "wikilink")加入後第一張單曲。
   - 此單曲有2個版本，分別有「8cm盤」和「12cm盤」。「12cm盤」收錄了「Summer Night Town (First Live
     Version)」
   - 在5月8日於公信榜单曲週排行榜取得第4位。

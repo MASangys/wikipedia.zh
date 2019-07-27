@@ -2,7 +2,7 @@
 定义了程序执行时如何处理不同的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。信号用作进程间通信，
 报告异常行为（如除零）、用户的一些按键组合（如同时按下Ctrl与C键，产生信号[SIGINT](https://zh.wikipedia.org/wiki/SIGINT "wikilink")）。
 
-[C++中的对应头文件是](../Page/C++.md "wikilink")`csignal`。
+[C++](../Page/C++.md "wikilink")中的对应头文件是`csignal`。
 
 ## 标准信号
 
@@ -22,7 +22,7 @@ C++的C标准库只支持C语言标准规定的](https://zh.wikipedia.org/wiki/V
 
 库函数`raise()`或者系统调用`kill()`可以产生信号。`raise()`发送一个信号给当前进程，`kill()`发送一个信号给特定进程。
 
-除了两个信号[SIGKILL与](../Page/SIGKILL.md "wikilink")[SIGSTOP不能被捕获](https://zh.wikipedia.org/wiki/SIGSTOP "wikilink")（caught）、阻塞（blocked）或者忽略，其它的信号都可以指定处理函数（handler）。一个信号的处理函数在信号到达时，被目标环境调用。目标环境挂起当前进程的执行，直到信号处理函数返回或者调用了`longjmp()`。为了最大的兼容性，异步信号处理只应：
+除了两个信号[SIGKILL](../Page/SIGKILL.md "wikilink")与[SIGSTOP不能被捕获](https://zh.wikipedia.org/wiki/SIGSTOP "wikilink")（caught）、阻塞（blocked）或者忽略，其它的信号都可以指定处理函数（handler）。一个信号的处理函数在信号到达时，被目标环境调用。目标环境挂起当前进程的执行，直到信号处理函数返回或者调用了`longjmp()`。为了最大的兼容性，异步信号处理只应：
 
   - 成功调用了`signal()`指定的函数；
   - 给类型为`sig_atomic_t`的对象赋值；

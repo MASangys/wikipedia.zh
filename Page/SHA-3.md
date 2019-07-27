@@ -21,7 +21,7 @@ SHA-3 在2015年8月5日由 NIST 通过 FIPS 202 正式发表。\[6\]\[7\]
 <!-- end list -->
 
   - 2012年10月2日，Keccak
-    被選為[NIST雜湊函式競賽的勝利者](https://zh.wikipedia.org/wiki/NIST雜湊函式競賽 "wikilink")\[8\]。SHA-3並不是要取代[SHA-2](../Page/SHA-2.md "wikilink")，因為SHA-2目前並沒有出現明顯的弱點。由於對[MD5](../Page/MD5.md "wikilink")、[SHA-0和](https://zh.wikipedia.org/wiki/SHA-0 "wikilink")[SHA-1出現成功的破解](../Page/SHA-1.md "wikilink")，NIST感覺需要一個與之前演算法不同的，可替換的加密雜湊演算法，也就是現在的
+    被選為[NIST雜湊函式競賽的勝利者](https://zh.wikipedia.org/wiki/NIST雜湊函式競賽 "wikilink")\[8\]。SHA-3並不是要取代[SHA-2](../Page/SHA-2.md "wikilink")，因為SHA-2目前並沒有出現明顯的弱點。由於對[MD5](../Page/MD5.md "wikilink")、[SHA-0和](https://zh.wikipedia.org/wiki/SHA-0 "wikilink")[SHA-1](../Page/SHA-1.md "wikilink")出現成功的破解，NIST感覺需要一個與之前演算法不同的，可替換的加密雜湊演算法，也就是現在的
     SHA-3。
 
 <!-- end list -->

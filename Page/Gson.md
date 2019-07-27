@@ -1,9 +1,9 @@
 **Gson**（又称[Google](../Page/Google.md "wikilink")
-Gson）是[Google公司發布的一个開放原始碼的](../Page/Google.md "wikilink")[Java库](../Page/Java.md "wikilink")，主要用途為[序列化](../Page/序列化.md "wikilink")[Java物件為](../Page/Java.md "wikilink")[JSON字串](../Page/JSON.md "wikilink")，或反[序列化](../Page/序列化.md "wikilink")[JSON字串成](../Page/JSON.md "wikilink")[Java物件](../Page/Java.md "wikilink")。
+Gson）是[Google](../Page/Google.md "wikilink")公司發布的一个開放原始碼的[Java](../Page/Java.md "wikilink")库，主要用途為[序列化](../Page/序列化.md "wikilink")[Java](../Page/Java.md "wikilink")物件為[JSON](../Page/JSON.md "wikilink")字串，或反[序列化](../Page/序列化.md "wikilink")[JSON](../Page/JSON.md "wikilink")字串成[Java](../Page/Java.md "wikilink")物件。
 
 ## 歷史
 
-Gson當初是為因應[Google公司內部需求而由](../Page/Google.md "wikilink")[Google自行研發而來](../Page/Google.md "wikilink")，但自從在2008年五月公開發布第一版後已被許多公司或使用者應用。
+Gson當初是為因應[Google](../Page/Google.md "wikilink")公司內部需求而由[Google](../Page/Google.md "wikilink")自行研發而來，但自從在2008年五月公開發布第一版後已被許多公司或使用者應用。
 
 ## 各版本發布時間
 
@@ -76,7 +76,7 @@ Gson當初是為因應[Google公司內部需求而由](../Page/Google.md "wikili
 
 ## 使用方法
 
-Gson的應用主要為toJson與fromJson兩個轉換函式，而在使用這種物件轉換之前需先建立好物件的類別以及其成員才能成功的將[JSON字串成功轉換成相對應的物件](../Page/JSON.md "wikilink")。
+Gson的應用主要為toJson與fromJson兩個轉換函式，而在使用這種物件轉換之前需先建立好物件的類別以及其成員才能成功的將[JSON](../Page/JSON.md "wikilink")字串成功轉換成相對應的物件。
 
 ``` java
 
@@ -88,7 +88,7 @@ Gson的應用主要為toJson與fromJson兩個轉換函式，而在使用這種�
   }
 ```
 
-序列化JAVA物件成[JSON字串](../Page/JSON.md "wikilink")
+序列化JAVA物件成[JSON](../Page/JSON.md "wikilink")字串
 
 ``` java
 
@@ -108,7 +108,7 @@ Examples example2= gson.fromJson(json,Examples.class);
 
 \==\> example2即與example1相同
 
-物件example1透過toJson[序列化成](../Page/序列化.md "wikilink")[JSON字串傳遞](../Page/JSON.md "wikilink")，再宣告一個物件example2為接收了[JSON後透過fromJson反序列化成example](../Page/JSON.md "wikilink")2，故example1與example2相同
+物件example1透過toJson[序列化](../Page/序列化.md "wikilink")成[JSON](../Page/JSON.md "wikilink")字串傳遞，再宣告一個物件example2為接收了[JSON](../Page/JSON.md "wikilink")後透過fromJson反序列化成example2，故example1與example2相同
 
 ## 參考文獻
 

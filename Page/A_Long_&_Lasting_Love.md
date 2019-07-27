@@ -1,5 +1,5 @@
 《**A Long & Lasting
-Love**》是[周慧敏的第三張個人粵語專輯](../Page/周慧敏.md "wikilink")，於1991年10月推出。也是她加盟[寶麗金後推出的首張專輯](../Page/寶麗金.md "wikilink")。
+Love**》是[周慧敏](../Page/周慧敏.md "wikilink")的第三張個人粵語專輯，於1991年10月推出。也是她加盟[寶麗金](../Page/寶麗金.md "wikilink")後推出的首張專輯。
 
 ## 曲目
 

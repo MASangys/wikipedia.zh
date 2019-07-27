@@ -1,4 +1,4 @@
-是[东方Project在](https://zh.wikipedia.org/wiki/东方Project "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")[電撃萌王连载的小说作品](https://zh.wikipedia.org/wiki/電撃萌王 "wikilink")。由[ZUN编写](../Page/ZUN.md "wikilink")，插画由提供。
+是[东方Project在](https://zh.wikipedia.org/wiki/东方Project "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")[電撃萌王连载的小说作品](https://zh.wikipedia.org/wiki/電撃萌王 "wikilink")。由[ZUN](../Page/ZUN.md "wikilink")编写，插画由提供。
 
 ## 概要
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    香霖堂的老闆。是東方系列中少數的男性之一。居住在魔法之森附近的一個古道具屋「香霖堂」，學識豐富，喜愛看書和沉思，在很久之前曾在霧雨家做學徒並認識小時候的魔理沙，兩人算是[青梅竹馬的關係](../Page/青梅竹馬.md "wikilink")。他也是對魔理沙的人生有重大影響的人物，魔理沙之所以會收集廢銅爛鐵和使用星塵相關的魔法，都是因為霖之助。迷你八卦爐也是霖之助製作並在魔理沙離家時送給她的。魔理沙對他的暱稱為「香霖」。
+    香霖堂的老闆。是東方系列中少數的男性之一。居住在魔法之森附近的一個古道具屋「香霖堂」，學識豐富，喜愛看書和沉思，在很久之前曾在霧雨家做學徒並認識小時候的魔理沙，兩人算是[青梅竹馬](../Page/青梅竹馬.md "wikilink")的關係。他也是對魔理沙的人生有重大影響的人物，魔理沙之所以會收集廢銅爛鐵和使用星塵相關的魔法，都是因為霖之助。迷你八卦爐也是霖之助製作並在魔理沙離家時送給她的。魔理沙對他的暱稱為「香霖」。
 
 <!-- end list -->
 

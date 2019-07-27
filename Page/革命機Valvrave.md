@@ -1,4 +1,4 @@
-《**革命機Valvrave**》（，）是[日本](../Page/日本.md "wikilink")[日昇動畫於](../Page/日昇動畫.md "wikilink")2013年製作的原創機械人動畫，作品最初於2012年12月發表製作，於2013年4月播放第1季，於同年10月播放第2季。略称为**VVV**。
+《**革命機Valvrave**》（，）是[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")於2013年製作的原創機械人動畫，作品最初於2012年12月發表製作，於2013年4月播放第1季，於同年10月播放第2季。略称为**VVV**。
 
 ## 故事概要
 
@@ -402,7 +402,7 @@
 
     Valvrave的4号機。正式名称为**“火之輪（ヒノワ，HINOWA）”**。
 
-    [綠色裝甲的機動兵器](../Page/綠色.md "wikilink")，被收藏在咲森学園的地底。
+    [綠色](../Page/綠色.md "wikilink")裝甲的機動兵器，被收藏在咲森学園的地底。
 
     高機動機體，擁有衝擊浮遊輪，可同時用作中程攻擊裝備和格鬥裝備，背後像腳的是推進器，能透過硬質殘光變成牆壁造成推力進行3次元的快速轉向。其强劲的性能在200年后仍然能轻松打败当时的机体。
 
@@ -416,7 +416,7 @@
 
     Valvrave的5号機。正式名称为**“火打羽（ヒウチバ，HIUCHIBA）”**。
 
-    [藍色裝甲的機動兵器](../Page/藍色.md "wikilink")，被收藏在咲森学園的地底。
+    [藍色](../Page/藍色.md "wikilink")裝甲的機動兵器，被收藏在咲森学園的地底。
 
     防禦型機體，雙肩安裝有硬度比Valvrave裝甲還高的「IMP」活動裝甲盾裝備，武裝是裝在兩臂的光束兵器，可以進行廣域扇形射擊或集中射擊，射出去的光箭也帶有硬質殘光性質，還可以像榴彈一樣靠控制爆發時間進行延時攻擊。
 
@@ -434,7 +434,7 @@
 
     Valvrave的6号機。正式名称为**“火遊（ヒアソビ，HIASOBI）”**。
 
-    [紫色裝甲的機動兵器](../Page/紫色.md "wikilink")，被收藏在咲森学園的地底。
+    [紫色](../Page/紫色.md "wikilink")裝甲的機動兵器，被收藏在咲森学園的地底。
 
     武器為紫色長杖，可以透過敲擊入侵敵機系統（回路没有发出绿色闪光则失败），侵蚀成功后同步入侵代码从而强制控制支配对象（控制有时间限制，根据对象时间有所差异）。
 
@@ -641,12 +641,12 @@
 
 <!-- end list -->
 
-1.  本作的阵营划分，基本以20世纪70年代末-80年代初的[冷战时期的世界格局为蓝本](../Page/冷战.md "wikilink")。
+1.  本作的阵营划分，基本以20世纪70年代末-80年代初的[冷战](../Page/冷战.md "wikilink")时期的世界格局为蓝本。
 
 <!-- end list -->
 
   -
-    以[歐亞大陸為主體的軍事大國](../Page/歐亞大陸.md "wikilink")。領土大致包括前[苏联地区](../Page/苏联.md "wikilink")，[华沙条约加盟成员国](https://zh.wikipedia.org/wiki/华沙条约 "wikilink")，[近](https://zh.wikipedia.org/wiki/近东 "wikilink")，[中东国家](../Page/中东.md "wikilink")，[北非的大多数国家](https://zh.wikipedia.org/wiki/北非 "wikilink")，[蒙古等](../Page/外蒙古.md "wikilink")。
+    以[歐亞大陸](../Page/歐亞大陸.md "wikilink")為主體的軍事大國。領土大致包括前[苏联](../Page/苏联.md "wikilink")地区，[华沙条约加盟成员国](https://zh.wikipedia.org/wiki/华沙条约 "wikilink")，[近](https://zh.wikipedia.org/wiki/近东 "wikilink")，[中东](../Page/中东.md "wikilink")国家，[北非的大多数国家](https://zh.wikipedia.org/wiki/北非 "wikilink")，[蒙古等](../Page/外蒙古.md "wikilink")。
     原為君主制，因軍事政變「紅色星期四」而演變為總統制，王室成員大多遭流放或軟禁，亦有部份選擇放棄身份，但現時仍有擁護王室管治的王室派作為叛軍暗中反抗。
     敬禮時習慣呼喊「Blitzen degen（ブリッツゥン・デーゲン）」。
     第2話時吞併了吉奥尔。第20話中显示因为Valvrave的原因而变得政局不稳。
@@ -655,15 +655,15 @@
 <!-- end list -->
 
   -
-    [民主國家](../Page/民主.md "wikilink")，强调[世界贸易](https://zh.wikipedia.org/wiki/世贸组织 "wikilink")。領土大致包括整个[美洲](../Page/美洲.md "wikilink")，[北约成员国](https://zh.wikipedia.org/wiki/北约 "wikilink")，[北非的部分国家](https://zh.wikipedia.org/wiki/北非 "wikilink")，非洲西[南部的部分国家等](https://zh.wikipedia.org/wiki/南非 "wikilink")。
+    [民主](../Page/民主.md "wikilink")國家，强调[世界贸易](https://zh.wikipedia.org/wiki/世贸组织 "wikilink")。領土大致包括整个[美洲](../Page/美洲.md "wikilink")，[北约成员国](https://zh.wikipedia.org/wiki/北约 "wikilink")，[北非的部分国家](https://zh.wikipedia.org/wiki/北非 "wikilink")，非洲西[南部的部分国家等](https://zh.wikipedia.org/wiki/南非 "wikilink")。
     原本與德爾西亞處於對立狀態，但在流木野咲被公開處刑後與德爾西亞結成聯軍，追捕逃離的咲森學園學生及清除神附體。
 
 <!-- end list -->
 
   -
     不屬於上述两大势力的中立國家，暗地裏進行VVV計劃的開發。
-    遙人等人的祖国，領土包括的含[日本在內的部分](../Page/日本.md "wikilink")[亞洲及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[大洋洲](../Page/大洋洲.md "wikilink")。
-    官方通用语言为[日语和](../Page/日语.md "wikilink")[英语](../Page/英语.md "wikilink")，官方通用货币单位为。
+    遙人等人的祖国，領土包括的含[日本](../Page/日本.md "wikilink")在內的部分[亞洲及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[大洋洲](../Page/大洋洲.md "wikilink")。
+    官方通用语言为[日语](../Page/日语.md "wikilink")和[英语](../Page/英语.md "wikilink")，官方通用货币单位为。
     於第1話尾部被德爾西亞軍攻擊，第2話向德爾西亞軍[無條件投降](https://zh.wikipedia.org/wiki/無條件投降 "wikilink")。
 
 <!-- end list -->
@@ -679,7 +679,7 @@
   -
     吉奥尔于Module 77设立的全寄宿制学园，校龄约3年，学生总数约3千人，课外社团活动非常活跃。
     表面上是一間普通的學園，但實際上學生全部是從受精卵開始進行調整的改造人，均能駕駛VVV，而教職員工除了七海里音外全部都擁有軍方背景。
-    外壁有應付[太空垃圾用的可動式屏障及迎撃炮塔群](../Page/太空垃圾.md "wikilink")，其後在艾魯艾魯弗的指示下將用途轉為防禦德爾西亞軍的攻擊。
+    外壁有應付[太空垃圾](../Page/太空垃圾.md "wikilink")用的可動式屏障及迎撃炮塔群，其後在艾魯艾魯弗的指示下將用途轉為防禦德爾西亞軍的攻擊。
     学园学生在第1話多尔西亚的入侵、第12話凯恩的毒气攻击、第21話ARUS军的围剿这三次事件中死去很多。
     在第23話得知咲森學園校舍被第三銀河帝國保存下來並藏於帝國境內，最少保存了211年。是帝國起始之地，亦是詛咒與祝福之地。
 
@@ -695,7 +695,7 @@
   -
     由魔使所組成的秘密組織。身上會有四葉模様的輪廓的紋章。
     評議會的目的是隱藏魔使在世間的存在並默認魔使攝取符文。
-    評議會成立的原因是因為在古時因人類對渴望共存的魔使心存恐懼，而對他們使用暴力及[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")（類似[獵巫時期](../Page/獵巫.md "wikilink")）。因此在漫長的歲月後，魔使與世界權要做了交易，以「不讓人類恐懼而隱匿生活」為條件，捕食一定數量的人類（吸取符文）。
+    評議會成立的原因是因為在古時因人類對渴望共存的魔使心存恐懼，而對他們使用暴力及[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")（類似[獵巫](../Page/獵巫.md "wikilink")時期）。因此在漫長的歲月後，魔使與世界權要做了交易，以「不讓人類恐懼而隱匿生活」為條件，捕食一定數量的人類（吸取符文）。
     據凱恩所說，101人評議會並不是邪惡的地下組織，而是正義的組織。
     在第24話被揭露後，所有魔使（不包括神附體）遭到世界各国的捕殺。
 
@@ -737,7 +737,7 @@
 <!-- end list -->
 
   -
-    比原子還要細小的信息粒子，據貴生川巧的推測連DNA、記憶、血液等都由符文所構成。地球上擁有最多符文的生物為人類。贵生川巧通过对毬惠的遗体检测发现被吞噬符文后脑内的犬尿喹啉酸浓度和血液中的[红血球数量会减少](../Page/红血球.md "wikilink")。
+    比原子還要細小的信息粒子，據貴生川巧的推測連DNA、記憶、血液等都由符文所構成。地球上擁有最多符文的生物為人類。贵生川巧通过对毬惠的遗体检测发现被吞噬符文后脑内的犬尿喹啉酸浓度和血液中的[红血球](../Page/红血球.md "wikilink")数量会减少。
     符文是Valvrave的動力來源，符文枯竭Valvrave就不能啟動，為了維持足夠動力，契約者必須定期在外界吸收符文。Valvrave
     I使用「切腹大劍」時所散發的能量的光，被凱恩稱為「**符文之光**」。Valvrave
     II、III及V號機在機體發生爆炸時亦散發符文之光。
@@ -1277,7 +1277,7 @@ Roses](../Page/Preserved_Roses.md "wikilink")」（第2話－第12話）\[33\]
 <td><p>星期四 25時35分 - 26時05分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日本新聞網" title="wikilink">日本新聞網</a></p></td>
 <td><p><strong>製作局</strong><br />
-<a href="../Page/Animeism.md" title="wikilink">Animeism第</a>1部</p></td>
+<a href="../Page/Animeism.md" title="wikilink">Animeism</a>第1部</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>

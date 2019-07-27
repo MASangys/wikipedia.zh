@@ -1,11 +1,11 @@
 《**Wake Up,
-Girls\!**》，簡稱《**WUG**》，是由[Ordet和](../Page/Ordet.md "wikilink")[龍之子製作公司共同製作的原創偶像動畫](../Page/龍之子製作公司.md "wikilink")，2014年1月10日開始播放[電視動畫及公開上映](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《**Wake
+Girls\!**》，簡稱《**WUG**》，是由[Ordet](../Page/Ordet.md "wikilink")和[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")共同製作的原創偶像動畫，2014年1月10日開始播放[電視動畫及公開上映](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《**Wake
 Up, Girls\!
-七位偶像**》\[1\]。劇場版第2作於2015年9月及12月分上下篇公開，主導製作改由Ordet與[Millepensee製作](../Page/Millepensee.md "wikilink")\[2\]。原创网络动画《**うぇいくあっぷがーるZOO\!**》开始龙之子不再参与，改为Ordet和STUDIO
+七位偶像**》\[1\]。劇場版第2作於2015年9月及12月分上下篇公開，主導製作改由Ordet與[Millepensee](../Page/Millepensee.md "wikilink")製作\[2\]。原创网络动画《**うぇいくあっぷがーるZOO\!**》开始龙之子不再参与，改为Ordet和STUDIO
 MORIKEN共同制作。
 
 新電視動畫系列《**Wake Up,
-Girls\!新章**》於2017年10月9日起[東京電視台播出](../Page/東京電視台.md "wikilink")\[3\]。除聲優不變外，動畫製作人員大幅變更，動畫監督由山本寬更換為板垣伸，製作公司由Ordet、Millepensee共同製作變更為Millepensee獨立製作，舞蹈動作變更為3DCG，下集預告中的真人角色變更為新組合Run
+Girls\!新章**》於2017年10月9日起[東京電視台](../Page/東京電視台.md "wikilink")播出\[3\]。除聲優不變外，動畫製作人員大幅變更，動畫監督由山本寬更換為板垣伸，製作公司由Ordet、Millepensee共同製作變更為Millepensee獨立製作，舞蹈動作變更為3DCG，下集預告中的真人角色變更為新組合Run
 Girls, Run\!的三人。
 
 劇場版的副標題、電視動畫的各話標題，大部分皆來自[電影導演](../Page/電影導演.md "wikilink")[黑澤明執導的作品](https://zh.wikipedia.org/wiki/黑澤明 "wikilink")。但《うぇいくあっぷがーるZOO！》和《Wake
@@ -56,7 +56,7 @@ Entertainment”的WUG，历经挫折与经验，在“偶像祭典”当中击�
 
   -
     「Wake Up,
-    Girls\!」简称「WUG」，在动画设定中，组合的名字来自于[威猛乐队的Wham](https://zh.wikipedia.org/wiki/威猛乐队 "wikilink")\!。七名成员的姓氏均来自于黑泽明执导电影[七武士中的角色](../Page/七武士.md "wikilink"),成员的名字取自声优名字的同音汉字。而生日等设定以声优为原型，每个成员均有代表色和代表动物。一开始建立时仅有6人，最后岛田真梦于第一次公演前加入。动画「新章」中，七名成员均在「タチアガレ莊」内共同生活。口号是「いくぞ！がんばっぺ！Wake
+    Girls\!」简称「WUG」，在动画设定中，组合的名字来自于[威猛乐队的Wham](https://zh.wikipedia.org/wiki/威猛乐队 "wikilink")\!。七名成员的姓氏均来自于黑泽明执导电影[七武士](../Page/七武士.md "wikilink")中的角色,成员的名字取自声优名字的同音汉字。而生日等设定以声优为原型，每个成员均有代表色和代表动物。一开始建立时仅有6人，最后岛田真梦于第一次公演前加入。动画「新章」中，七名成员均在「タチアガレ莊」内共同生活。口号是「いくぞ！がんばっぺ！Wake
     Up, Girls\! 」
     （以下年龄为剧场版第一部出道时）
   -
@@ -68,7 +68,7 @@ Entertainment”的WUG，历经挫折与经验，在“偶像祭典”当中击�
 
   -
     15歲，昵称あいちゃん。1998年1月19日出生。[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")。身高155cm。體重45kg。三圍B77，W58，H85。血型O型。兴趣是烹饪，喜欢的东西是西点和蛋糕，讨厌的东西是蟑螂。老家拥有一间[日式糕点店](https://zh.wikipedia.org/wiki/日式糕点 "wikilink")。出身於[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")。家中有父母和弟弟三人。
-    真夢的學校同學。在杂志中看到招募广告而参加试镜并通过。舞蹈和歌唱能力较弱，起初只是作为[追星族而加入WUG](../Page/追星族.md "wikilink")，但自身没认真投入而曾被早坂相勸离，经过众人和自身的努力最终得以留下。
+    真夢的學校同學。在杂志中看到招募广告而参加试镜并通过。舞蹈和歌唱能力较弱，起初只是作为[追星族](../Page/追星族.md "wikilink")而加入WUG，但自身没认真投入而曾被早坂相勸离，经过众人和自身的努力最终得以留下。
     代表色為跟名字一樣的藍色，象徵動物為[鯊魚](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")。
 
 <!-- end list -->
@@ -253,7 +253,7 @@ Run\!」，出道曲 「カケル×カケル」由Twinkle提供。最终话在WU
     原「I-1」成员，17歲，高中二年级，昵称しほっち。身高163cm。體重45kg，血型O型。兴趣是观看DVD，喜欢的东西是晴天，讨厌的东西是幽灵。出身於栃木縣。
     與真夢同期的「I-1」一期生，並與真夢爭奪Center。在真夢因丑闻離開「I-1」後成為第二代Center，其後乘破竹之勢在「I-1」大躍進。
     [現實主義者](https://zh.wikipedia.org/wiki/現實主義 "wikilink")，決定在弱肉強食的演藝界繼續打拼。縱使真夢退出I-1一樣視為競爭對手。
-    在续·剧场版前篇中因「I-1」单曲CD销量跌破百万，与萌歌争夺center的位置。在续·剧场版后篇中因销量不及萌歌被迫让出center之位，之后白木要求志保移籍到[福冈并且组建新的团体](../Page/福冈.md "wikilink")「Next
+    在续·剧场版前篇中因「I-1」单曲CD销量跌破百万，与萌歌争夺center的位置。在续·剧场版后篇中因销量不及萌歌被迫让出center之位，之后白木要求志保移籍到[福冈](../Page/福冈.md "wikilink")并且组建新的团体「Next
     Storm」，离开前对center替补的里佳道歉。
     动画「新章」中继续带领「Next
     Storm」在福冈活动，对真梦的态度有所缓和。第9话被白木从福冈召回东京。第12话因不接受白木提出解散「Next
@@ -329,7 +329,7 @@ Girls, Run\!创作了新曲。
 <!-- end list -->
 
   -
-    秋田县的女性三人偶像团体，成员分别是队长绢宫咲和队员六代阳子、风山唯。与WUG同样在偶像祭典东北地方预赛出场。跳舞时会穿上当地的传统服饰，演唱时则是脱掉外面的传统服饰换成水手服，另外也会使用[溜溜球进行表演](../Page/溜溜球.md "wikilink")。说话带秋田腔（实际上是津轻腔）。
+    秋田县的女性三人偶像团体，成员分别是队长绢宫咲和队员六代阳子、风山唯。与WUG同样在偶像祭典东北地方预赛出场。跳舞时会穿上当地的传统服饰，演唱时则是脱掉外面的传统服饰换成水手服，另外也会使用[溜溜球](../Page/溜溜球.md "wikilink")进行表演。说话带秋田腔（实际上是津轻腔）。
     于电视动画第一部第10话正式登场。在偶像祭典东北地方预赛前对一同回家的真梦和佳乃进行挑衅，之后于预赛止步。
     在续·剧场版后篇「Beyond the
     Bottom」中再次登场，并且邀请WUG到个人演出中作为嘉宾参与共演。亦再度参加偶像祭典。实力比起去年有了大幅度提高。但仍然不敌WUG在预赛中落败。
@@ -355,7 +355,7 @@ Girls, Run\!创作了新曲。
 
 ### 第1期
 
-2014年1月至3月在[東京電視網首播](../Page/東京電視網.md "wikilink")，全12話。2015年紀念公開決定製作劇場版續篇，於同年4月至6月又在東京電視網重播。
+2014年1月至3月在[東京電視網](../Page/東京電視網.md "wikilink")首播，全12話。2015年紀念公開決定製作劇場版續篇，於同年4月至6月又在東京電視網重播。
 
 #### 製作人員
 
@@ -698,7 +698,7 @@ Girls, Run\!创作了新曲。
 
   -
     第一话播放后，前作监督山本宽（作词时使用「辛矢凡」名义）对剧中使用的『タチアガレ！』『7 Girls
-    War』等歌曲却没有注明作词人等行为，在对东京电视台做出的回答无法表示满意后，10月17日在博客上发表不承认一切擅自使用自己作词的歌曲的行为，并且表示会采用法律手段。另外也在[Twitter上向avex的CEO](../Page/Twitter.md "wikilink")[松浦胜人直接发送信息](https://zh.wikipedia.org/wiki/松浦胜人 "wikilink")。但直到数日后制作委员会方面也没有做出任何回应，而山本宽方面也没有采取任何行动。之后在各种活动中如「Run
+    War』等歌曲却没有注明作词人等行为，在对东京电视台做出的回答无法表示满意后，10月17日在博客上发表不承认一切擅自使用自己作词的歌曲的行为，并且表示会采用法律手段。另外也在[Twitter](../Page/Twitter.md "wikilink")上向avex的CEO[松浦胜人直接发送信息](https://zh.wikipedia.org/wiki/松浦胜人 "wikilink")。但直到数日后制作委员会方面也没有做出任何回应，而山本宽方面也没有采取任何行动。之后在各种活动中如「Run
     Girls, Run！ ショーケースイベント 位置についてよーいドン！Vol.2」和「ANIMAX MUSIX 2017
     YOKOHAMA」等山本宽的歌曲也在现场如常播放。
 
@@ -1210,7 +1210,7 @@ Akiko](https://zh.wikipedia.org/wiki/Noda_Akiko "wikilink") / 主唱 -
 ## OVA
 
 『**Wake Up, Girls\!
-相遇的记录**』是[2013年](../Page/2013年.md "wikilink")[12月29日于秋叶原UDX举办的活动上](../Page/12月29日.md "wikilink")\[24\]\[25\]贩卖的前售券附赠DVD内的附属内容，包含约6分钟长度的未使用短篇动画。
+相遇的记录**』是[2013年](../Page/2013年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")于秋叶原UDX举办的活动上\[24\]\[25\]贩卖的前售券附赠DVD内的附属内容，包含约6分钟长度的未使用短篇动画。
 
 动画内容是关于WUG的六位成员（除岛田真梦外）的试镜内容，另外也有岛田真梦在试镜现场门外出现的场景。本短篇动画之后作为特典影像包含在BD第六卷中\[26\]。
 
@@ -1549,7 +1549,7 @@ Up,Girls\! Another Real」的商业联动，在宫城县的著名景点打开App
     2014年5月号至2015年5月号在『メガミマガジン』上连载。全13話。原案山本宽、分镜原案为担任动画系列构成脚本的待田堂子、漫画U.G.E。以I-1club的角度描写续·剧场版后篇『Beyond
     the Bottom』的剧情。主人公为I-1club
     5期生高科里佳。揭露了动画世界中I-1club不为人知的一面。目前仅1-6话发行了单行本。
-    1.  [2014年](../Page/2014年.md "wikilink")[9月29日发售](../Page/9月29日.md "wikilink")、ISBN
+    1.  [2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")发售、ISBN
         978-4-05-607125-2
   - Wake Up, Girls\!
     『[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")』
@@ -1571,7 +1571,7 @@ Up,Girls\! Another Real」的商业联动，在宫城县的著名景点打开App
   - 小说Wake Up, Girls\! 各自的身姿
     学研パブリッシング发售。作者为担任动画系列构成脚本的待田堂子、插图U.G.E。内容包括剧场版「Wake Up, Girls\!
     七位偶像」发生前及电视动画结局后的故事。并刊登了WUG成员的详细经历。
-      - [2014年](../Page/2014年.md "wikilink")[4月15日发售](../Page/4月15日.md "wikilink")
+      - [2014年](../Page/2014年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")发售
         ISBN 978-4-05-405989-4
 
 #### 音频小说
@@ -1624,9 +1624,9 @@ story』。脚本由松田恵里子担当\[35\]。此外在动画中没有进行
 <!-- end list -->
 
   -
-    由乐天游戏于2018年5月11日公开的一款[HTML5标准的PC](../Page/HTML5.md "wikilink")/手机网页游戏，以动画「Wake
+    由乐天游戏于2018年5月11日公开的一款[HTML5](../Page/HTML5.md "wikilink")标准的PC/手机网页游戏\[37\]，以动画「Wake
     Up, Girls\!
-    新章」为基础进行开发，同时开启了事前注册。2018年8月20日正式上线运营。游戏初期不限制IP登录地址，22日早上开始仅限日本IP登录，非日本IP会显示“该游戏在你的国家不受支持”。
+    新章」为基础进行开发，同时开启了事前注册。2018年8月20日正式上线运营。游戏初期不限制IP登录地址，22日早上开始仅限日本IP登录，非日本IP会显示“该游戏在你的国家不受支持”。已于2019年7月9日终止服务\[38\]。
 
 ### CD
 
@@ -1851,7 +1851,7 @@ Girls\!成员负责主持，I-1的成员也会偶尔出场客串。介绍电视�
 ### Wake Up, Radio\!
 
 2014年5月12日到2015年12月11日期间播放的清谈电台节目。节目由Wake Up,
-Girls\!的其中三名成员主持，每周替换一次。在niconico频道的超\![Animedia上发布](../Page/Animedia.md "wikilink")。
+Girls\!的其中三名成员主持，每周替换一次。在niconico频道的超\![Animedia](../Page/Animedia.md "wikilink")上发布。
 
 本来仅仅是作为2013年秋冬开始举办共计4场的路演活动上的虚拟企划，在2014年4月27日举行的「Wake Up, Girls\!FESTA.
 イベント、やらせてください\!」上以『帰ってきたWake Up, Radio（仮）』的名字再次开展时宣布正式成为常规节目。
@@ -1871,7 +1871,7 @@ Up, Girls\!的其中两名成员搭档主持，每周替换。
 ### Wake Up, Girls\!のオールナイトニッポンモバイル
 
 由Wake Up,
-Girls\!其中一名成员交替主持的电台清谈节目。于[日本放送电台上播放](../Page/日本放送.md "wikilink")。
+Girls\!其中一名成员交替主持的电台清谈节目。于[日本放送](../Page/日本放送.md "wikilink")电台上播放。
 
 于2014年11月19日开始以「目指せ幕張！決起集会ラジオ」为题开展的宣传活动，主要目的是宣传同年12月14日在幕张举行的「Wake Up,
 Girls！Festa.2014 Winter 〜Wake Up, Girls！VS
@@ -1883,19 +1883,19 @@ I-1club〜」，当时共播放8集，仅第0集是7名成员同时登场。第1
 以『Wake Up,
 Girls\!のオールナイトニッポンモバイル』为基础的改版电台节目，2016年4月1日于[9129Suppon放送和](https://zh.wikipedia.org/wiki/9129Suppon放送 "wikilink")[Radital上开始播放](https://zh.wikipedia.org/wiki/Radital "wikilink")。每周五10点更新，由Wake
 Up,
-Girls\!其中一名成员交替主持。Radital服务停止后改为在[SoundCloud上发布](../Page/SoundCloud.md "wikilink")。2017年8月25日播放结束。
+Girls\!其中一名成员交替主持。Radital服务停止后改为在[SoundCloud](../Page/SoundCloud.md "wikilink")上发布。2017年8月25日播放结束。
 
 ### Wake Up, Girls\!のがんばっぺレディオ！
 
-2016年4月8日开始在[音泉和](../Page/音泉.md "wikilink")[HiBiKi Radio
+2016年4月8日开始在[音泉](../Page/音泉.md "wikilink")和[HiBiKi Radio
 Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")。每周五更新，主持人每月更换一次，嘉宾每集2名，每2集更换一次。2018年6月15日组合宣布于2019年3月解散后，改为不定期播出。2018年8月31日恢复播放，出演人员变成2名，每集更换。
 
 ## 相关事件
 
-  - 本作是一部為應援在2011年東日本大地震中受災的東北地區的作品。擔任主演的7位偶像[聲優候補將選用來自avex和](../Page/聲優.md "wikilink")81produce的新人\[37\]。
-  - 作品監督[山本寬在](../Page/山本寬.md "wikilink")2014年1月12日角川新宿劇場舉辦的作品見面會上，對於作品中出現的種種問題表示
-    “是我水準不夠，全部都是我的責任”，“今後一定會做出補救的”。並在三日後，在[推特上發文](https://zh.wikipedia.org/wiki/推特 "wikilink")，希望能招募義工幫助工作室度過難關\[38\]\[39\]。
-  - 有觀眾投訴動畫中7位偶像穿著[校服跳舞卻有露出](../Page/校服.md "wikilink")[內褲的畫面](https://zh.wikipedia.org/wiki/內褲 "wikilink")，認為不妥。動畫的第三集之後更换了主題曲畫面。
+  - 本作是一部為應援在2011年東日本大地震中受災的東北地區的作品。擔任主演的7位偶像[聲優](../Page/聲優.md "wikilink")候補將選用來自avex和81produce的新人\[39\]。
+  - 作品監督[山本寬](../Page/山本寬.md "wikilink")在2014年1月12日角川新宿劇場舉辦的作品見面會上，對於作品中出現的種種問題表示
+    “是我水準不夠，全部都是我的責任”，“今後一定會做出補救的”。並在三日後，在[推特上發文](https://zh.wikipedia.org/wiki/推特 "wikilink")，希望能招募義工幫助工作室度過難關\[40\]\[41\]。
+  - 有觀眾投訴動畫中7位偶像穿著[校服](../Page/校服.md "wikilink")跳舞卻有露出[內褲的畫面](https://zh.wikipedia.org/wiki/內褲 "wikilink")，認為不妥。動畫的第三集之後更换了主題曲畫面。
 
 ## 參考資料
 
@@ -1946,7 +1946,7 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 2.  龍之子製作公司在劇場版第2作改成以製作委員會方式參加。
 
 3.  [テレビアニメ『Wake Up ,
-    Girls！新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通網站](../Page/Fami通.md "wikilink")，2017年7月23日閲覧。
+    Girls！新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通](../Page/Fami通.md "wikilink")網站，2017年7月23日閲覧。
 
 4.  [第九回聲優Awards，先行發表受獎者](http://seiyuawards.jp/201502/17131500.php)
     ，聲優Awards官方網站，2015年8月8日閲覧。
@@ -1973,7 +1973,7 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 18. 台灣譯名。
 
 19. [テレビアニメ『Wake Up, Girls！
-    新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通網站](../Page/Fami通.md "wikilink")，2017年7月23日閲覧。
+    新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通](../Page/Fami通.md "wikilink")網站，2017年7月23日閲覧。
 
 20.
 21. [ヤマカンのオリジナルアニメ「Wake Up, Girls！」、続編となる劇場版を2015年内に公開！
@@ -1986,7 +1986,7 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
     前篇」の主題歌](https://akiba-souken.com/article/23995/)、アキバ総研、2015年6月20日配信、2015年6月20日閲覧
 
 24. [Wake Up, Girls\! 炎の七番勝負 ヤマカン出てこいやー\!」
-    物販開始時間とステージ詳細のご案内](http://wakeupgirls.jp/news_detail.php?id=1006150)（2013年[12月22日配信](../Page/12月22日.md "wikilink")、2014年[1月18日閲覧](../Page/1月18日.md "wikilink")）
+    物販開始時間とステージ詳細のご案内](http://wakeupgirls.jp/news_detail.php?id=1006150)（2013年[12月22日](../Page/12月22日.md "wikilink")配信、2014年[1月18日](../Page/1月18日.md "wikilink")閲覧）
 
 25. [「Wake Up, Girls\! 炎の七番勝負 ヤマカン出てこいやー\!」
     物販情報](http://wakeupgirls.jp/news_detail.php?id=1006031)（2013年12月15日配信、2014年1月18日閲覧）
@@ -2021,3 +2021,7 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 38.
 
 39.
+
+40.
+
+41.

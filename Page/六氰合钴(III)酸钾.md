@@ -2,7 +2,7 @@
 
 ## 制备
 
-六氰合钴(III)酸钾可由[氯化钴和](https://zh.wikipedia.org/wiki/氯化钴 "wikilink")[氰化钾反应得到](../Page/氰化钾.md "wikilink")，反应过程中Co(II)被氧化至Co(III)：\[1\]
+六氰合钴(III)酸钾可由[氯化钴和](https://zh.wikipedia.org/wiki/氯化钴 "wikilink")[氰化钾](../Page/氰化钾.md "wikilink")反应得到，反应过程中Co(II)被氧化至Co(III)：\[1\]
 
   -
     CoCl<sub>2</sub> + 5 KCN → K<sub>3</sub>\[Co(CN)<sub>5</sub>\] + 2
@@ -37,7 +37,7 @@
     K<sub>3</sub>\[Co(CN)<sub>6</sub>\] + H<sub>2</sub>O →
     K<sub>3</sub>\[Co(CN)<sub>5</sub>OH\] + HCN
 
-六氰合钴(III)酸钾和浓[硫酸反应](../Page/硫酸.md "wikilink")，放出[一氧化碳](../Page/一氧化碳.md "wikilink")\[4\]：
+六氰合钴(III)酸钾和浓[硫酸](../Page/硫酸.md "wikilink")反应，放出[一氧化碳](../Page/一氧化碳.md "wikilink")\[4\]：
 
   -
     2 K<sub>3</sub>\[Co(CN)<sub>6</sub>\] + 11
@@ -54,7 +54,7 @@
     K<sub>2</sub>SO<sub>4</sub> + 2 CoSO<sub>4</sub> +
     NH<sub>4</sub>HSO<sub>4</sub> + 11 HCN↑ + CO<sub>2</sub>↑
 
-和过量[硝酸反应](../Page/硝酸.md "wikilink")，产生[六氰合钴(III)酸](../Page/六氰合钴\(III\)酸.md "wikilink")：
+和过量[硝酸](../Page/硝酸.md "wikilink")反应，产生[六氰合钴(III)酸](../Page/六氰合钴\(III\)酸.md "wikilink")：
 
   -
     K<sub>3</sub>\[Co(CN)<sub>6</sub>\] + 3 HNO<sub>3</sub>

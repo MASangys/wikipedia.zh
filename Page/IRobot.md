@@ -51,7 +51,7 @@ Health](https://zh.wikipedia.org/wiki/InTouch_Health "wikilink")
 
 ### Roomba
 
-Roomba發布於2002年，是一個自動化的真空吸塵機器人。至目前為止，Roomba已開發了五個世代並已售出超過500萬台Roomba\[4\]。Roomba由可再[充電電池供電](https://zh.wikipedia.org/wiki/充電電池 "wikilink")，電池用罄時會自動返回到對接站基地充電。配件使用[紅外線和](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[射頻和主機通訊](../Page/射頻.md "wikilink")。
+Roomba發布於2002年，是一個自動化的真空吸塵機器人。至目前為止，Roomba已開發了五個世代並已售出超過500萬台Roomba\[4\]。Roomba由可再[充電電池供電](https://zh.wikipedia.org/wiki/充電電池 "wikilink")，電池用罄時會自動返回到對接站基地充電。配件使用[紅外線和](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[射頻](../Page/射頻.md "wikilink")和主機通訊。
 
 ### Scooba
 

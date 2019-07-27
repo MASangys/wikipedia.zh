@@ -1,4 +1,4 @@
-**白鳥大內IC**（平假名：しろとりおおちインターチェンジ）是位於[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[東香川市的](../Page/東香川市.md "wikilink")[高松自動車道之](../Page/高松自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**白鳥大內IC**（平假名：しろとりおおちインターチェンジ）是位於[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[東香川市](../Page/東香川市.md "wikilink")的[高松自動車道](../Page/高松自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -14,7 +14,7 @@
 ## 歷史
 
   - 2001年3月29日 -
-    [高松自動車道](../Page/高松自動車道.md "wikilink")[津田東IC至](https://zh.wikipedia.org/wiki/津田東IC "wikilink")[板野IC之間開通](../Page/板野IC.md "wikilink")，此交流道也同時啟用。
+    [高松自動車道](../Page/高松自動車道.md "wikilink")[津田東IC至](https://zh.wikipedia.org/wiki/津田東IC "wikilink")[板野IC](../Page/板野IC.md "wikilink")之間開通，此交流道也同時啟用。
 
 ## 收費站設施
 

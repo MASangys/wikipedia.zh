@@ -58,7 +58,7 @@ Rosa於1973年、1986年、1990年和1997年共更改過四次款式。除了後
 ### 澳門版本
 
 [Transmac_R315_28C.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R315_28C.JPG "fig:Transmac_R315_28C.JPG")
-澳門新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部第4代雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](https://zh.wikipedia.org/wiki/米芝蓮 "wikilink")[橫濱橡膠生產的內膽式車胎](../Page/橫濱橡膠.md "wikilink")（前後輪尺寸均為7.00R16）。生產工場為三菱FUSO大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱FUSO客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
+澳門新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部第4代雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](https://zh.wikipedia.org/wiki/米芝蓮 "wikilink")[橫濱橡膠](../Page/橫濱橡膠.md "wikilink")生產的內膽式車胎（前後輪尺寸均為7.00R16）。生產工場為三菱FUSO大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱FUSO客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
 
 <div style="clear: both">
 

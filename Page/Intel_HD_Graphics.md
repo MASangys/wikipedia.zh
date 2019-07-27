@@ -1,5 +1,5 @@
 **HD
-Graphics**是[Intel一系列的](https://zh.wikipedia.org/wiki/Intel "wikilink")[整合顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2010年首次推出。不同於以往整合在[晶片組的顯示核心](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，此次顯示核心是整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，並且擁有獨立的[品牌](../Page/品牌.md "wikilink")。[中國大陸官方](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[中文品牌名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")“****”，\[1\]而[台灣仍採用半](https://zh.wikipedia.org/wiki/台灣 "wikilink")[直譯的](https://zh.wikipedia.org/wiki/直譯 "wikilink")“****”，\[2\]，而[港澳地區則繼續沿用官方的](../Page/港澳地區.md "wikilink")[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")“Intel®
+Graphics**是[Intel一系列的](https://zh.wikipedia.org/wiki/Intel "wikilink")[整合顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2010年首次推出。不同於以往整合在[晶片組的顯示核心](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，此次顯示核心是整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，並且擁有獨立的[品牌](../Page/品牌.md "wikilink")。[中國大陸官方](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[中文品牌名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")“****”，\[1\]而[台灣仍採用半](https://zh.wikipedia.org/wiki/台灣 "wikilink")[直譯的](https://zh.wikipedia.org/wiki/直譯 "wikilink")“****”，\[2\]，而[港澳地區](../Page/港澳地區.md "wikilink")則繼續沿用官方的[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")“Intel®
 HD Graphics”\[3\]。
 
 **Iris Graphics**及**Iris Pro

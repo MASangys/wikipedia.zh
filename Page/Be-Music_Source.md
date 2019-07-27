@@ -1,5 +1,5 @@
 **BMS**（**Be-Music
-Source**）是，1998年由[日本人Yaneurao和NBK所研發的檔案格式](../Page/日本.md "wikilink")。\[1\]可用來製作音樂或在相關軟體上演奏。著作權為[公開免費](https://zh.wikipedia.org/wiki/公有領域 "wikilink")。\[2\]
+Source**）是，1998年由[日本](../Page/日本.md "wikilink")人Yaneurao和NBK所研發的檔案格式。\[1\]可用來製作音樂或在相關軟體上演奏。著作權為[公開免費](https://zh.wikipedia.org/wiki/公有領域 "wikilink")。\[2\]
 
 原指運用在音樂遊戲模擬軟體《**BM98**》之上的檔案，如今則廣泛指稱為任何可以運用在類似模擬軟體的譜面檔案，又或、類似的模擬軟體系統也可以廣泛歸類在BMS類型下方。
 
@@ -23,7 +23,7 @@ BMS為純文字文件，指令以＃字號開頭，記述[Tempo](../Page/速度_
 腳本就像是樂譜，但不包含圖像和音樂，其他檔案需要自行附加。
 
 廣義上， BMS由三種檔案構成：
-「BMS腳本」、「WAVE檔案或「[MIDI檔案等音聲文件](../Page/MIDI.md "wikilink")，以及「[點陣圖檔案](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")」作為搭配音樂的影片。只要滿足前二者，就可以算是BMS檔案。\[8\]
+「BMS腳本」、「WAVE檔案或「[MIDI](../Page/MIDI.md "wikilink")檔案等音聲文件，以及「[點陣圖檔案](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")」作為搭配音樂的影片。只要滿足前二者，就可以算是BMS檔案。\[8\]
 
 ## 延伸
 
@@ -31,7 +31,7 @@ BMS為純文字文件，指令以＃字號開頭，記述[Tempo](../Page/速度_
 IIDX](https://zh.wikipedia.org/wiki/Beatmania_IIDX "wikilink")）、DTX格式（模擬[DTXmania](https://zh.wikipedia.org/wiki/DTXmania "wikilink")）、PMS格式（模擬音樂遊戲Pop'n
 Music）、長音模式等。
 
-2000年代中期曾颳起一陣玩家使用BMS自行創作樂曲的風潮，發展為創作型活動。BMS作曲家之中，不少人轉向職業音樂家或[VOCALOID音樂家發展](../Page/VOCALOID.md "wikilink")。在網路上每年一度舉行的
+2000年代中期曾颳起一陣玩家使用BMS自行創作樂曲的風潮，發展為創作型活動。BMS作曲家之中，不少人轉向職業音樂家或[VOCALOID](../Page/VOCALOID.md "wikilink")音樂家發展。在網路上每年一度舉行的
 BMS 賽事「The BMS of Fighters」（簡稱 「BOF」）是目前最大型的 BMS 創作樂曲比賽。
 
 ## 參考資料

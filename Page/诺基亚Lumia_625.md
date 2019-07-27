@@ -22,7 +22,7 @@ CE核心更換成Windows NT核心，藉此改變也能增加程式的相容性�
 Phone（CE核心），僅支援VB、C\#所寫出來的應用程式，并且增加了大量特性和后端服务，并可以与[XBox](https://zh.wikipedia.org/wiki/XBox "wikilink")，[Windows
 8等设备交互使用](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，配合新的Modern
 UI交互设计，拥有非常完美的用户体验。承襲[Windows Phone
-7.5](https://zh.wikipedia.org/wiki/Windows_Phone_7.5 "wikilink")，擁有強大的社群整合功能，可以將[Twitter](../Page/Twitter.md "wikilink")、[Facebook聊天](../Page/Facebook.md "wikilink")、[LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")、[Windows
+7.5](https://zh.wikipedia.org/wiki/Windows_Phone_7.5 "wikilink")，擁有強大的社群整合功能，可以將[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")聊天、[LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")、[Windows
 Live
 Messenger等即時訊息整合在一起](../Page/Windows_Live_Messenger.md "wikilink")，電子郵件設定中可以增加常見的[Windows
 Live
@@ -32,7 +32,7 @@ Explorer 10、OneNote、HERE 導航（Nokia
 Drive+，可以透過網路來下載全球各國家地區的地圖資料及各國家地區的語音導航）、HERE
 地圖（Nokia Maps）、HERE 城市特搜（Nokia City Lens）、HERE 公共運輸（Nokia
 Transport）、Xbox Live
-Hub。網際網路共用最大支援分享无线網路給八名不同的使用者。[Skype整合需先在市集中下載Skype](../Page/Skype.md "wikilink")，安裝後才會完整整合於Windows
+Hub。網際網路共用最大支援分享无线網路給八名不同的使用者。[Skype](../Page/Skype.md "wikilink")整合需先在市集中下載Skype，安裝後才會完整整合於Windows
 Phone 8中。
 
 ### [4G](../Page/4G.md "wikilink") [LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")

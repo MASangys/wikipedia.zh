@@ -1,5 +1,5 @@
 **Source Sans Pro**是一個由Paul D. Hunt為[Adobe
-Systems所設計的無襯線](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[字体](../Page/字体.md "wikilink")。它是Adobe的第一個[开放源代码字體家族](../Page/开放源代码.md "wikilink")，以[SIL開源字體授權進行散佈](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]\[2\]。
+Systems所設計的無襯線](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[字体](../Page/字体.md "wikilink")。它是Adobe的第一個[开放源代码](../Page/开放源代码.md "wikilink")字體家族，以[SIL開源字體授權進行散佈](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]\[2\]。
 
 這個字體是由Morris Fuller
 Benton所設計的Gothics系列字體所啟發。它提供了六種字重（常規、特細、細、半粗、粗、黑），並且皆包含斜體。此字體包含了相當多拉丁文字的支援，包含了西歐及東歐的語言、越南文、中文的羅馬拼音、納瓦霍文等\[3\]。

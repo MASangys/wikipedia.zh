@@ -1,7 +1,7 @@
 **Thunder
 50**是由[美國三重武器公司](https://zh.wikipedia.org/wiki/美國 "wikilink")（Triple
 Action,
-LLC）生產的一種單發[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")，此槍發射[白朗寧M2重機槍相同的](../Page/白朗寧M2重機槍.md "wikilink")[.50
+LLC）生產的一種單發[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")，此槍發射[白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")相同的[.50
 BMG子彈](https://zh.wikipedia.org/wiki/.50_BMG "wikilink")。其首度公開是在2004年的。
 
 ## 概述

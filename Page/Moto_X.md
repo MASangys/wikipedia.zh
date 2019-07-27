@@ -1,5 +1,5 @@
 **Moto
-X**是一款由[摩托羅拉移动在成为](https://zh.wikipedia.org/wiki/摩托羅拉移动 "wikilink")[Google](../Page/Google.md "wikilink")[子公司后研製的](../Page/子公司.md "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
+X**是一款由[摩托羅拉移动在成为](https://zh.wikipedia.org/wiki/摩托羅拉移动 "wikilink")[Google](../Page/Google.md "wikilink")[子公司](../Page/子公司.md "wikilink")后研製的[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
 
 ## 硬件規格
 
@@ -21,20 +21,20 @@ X使用来自OmniVision的1.4um像素尺寸的1000W像素摄像头，是继[iPho
 SIM的手机](https://zh.wikipedia.org/wiki/Nano_SIM "wikilink")。
 
 Moto
-X不属于[Nexus系列](../Page/Nexus.md "wikilink")，但其正面无Logo无实体按键的圆润外形设计风格与其非常接近。Moto
+X不属于[Nexus](../Page/Nexus.md "wikilink")系列，但其正面无Logo无实体按键的圆润外形设计风格与其非常接近。Moto
 X背面采用人体工程学弧形设计，藉由[Moto
 Maker的服务](https://zh.wikipedia.org/wiki/Moto_Maker "wikilink")，用户可以有近2000种前盖、后盖、镜头边框、机身按钮颜色组合可供自定义选择。
 
 ## 软件規格
 
 Moto
-X搭载了[Android操作系统](../Page/Android.md "wikilink")，不同于其他OEM厂商，Motorola对于Android系统的修改非常之小，其使用体验和搭载了原生Android
+X搭载了[Android](../Page/Android.md "wikilink")操作系统，不同于其他OEM厂商，Motorola对于Android系统的修改非常之小，其使用体验和搭载了原生Android
 OS的Nexus系列设备非常接近，且拥有非常近似的系统更新的节奏。但Moto X也有以下的特色功能：
 
   - Active Display，黑底白字設計，只需將手指放在螢幕指定位置上，就會顯示出即時通知資訊，Moto
     X螢幕採用[AMOLED](../Page/AMOLED.md "wikilink")，不會對電量造成影響。
   - Touchless Control，可实现完全不需要触控操作的纯语音操作。
-  - 1000萬[像素背鏡頭](../Page/像素.md "wikilink")，新的色彩過濾器排列法，著重夜攝效果，连续搖動手機兩次即可在待机情况下启动摄像头。
+  - 1000萬[像素](../Page/像素.md "wikilink")背鏡頭，新的色彩過濾器排列法，著重夜攝效果，连续搖動手機兩次即可在待机情况下启动摄像头。
   - 在显示桌面的情况下，Android系统自带的虚拟按钮会有半透明的显示效果。
 
 值得一提的是，Touchless Control的功能在Android 4.4中的[Google

@@ -2,7 +2,7 @@
 
 **Retina显示屏**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Retina
 Display**）是一种由[苹果公司设计和委托制造的显示屏](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，具备足够高像素密度而使得人体肉眼无法分辨其中单独像素点的液晶螢幕，最初采用该种屏幕的产品[iPhone
-4由執行長](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[史蒂夫·乔布斯于WWDC](../Page/史蒂夫·乔布斯.md "wikilink")2010发布，其屏幕分辨率为960×640（[每英寸像素数](../Page/每英寸像素.md "wikilink")326ppi）。这种分辨率在正常观看距离下足以使人肉眼无法分辨其中的单独像素。\[1\]如今苹果正逐步将其推广到全线产品之上，同時隨著技術的提升，蘋果也推出了Retina
+4由執行長](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")于WWDC2010发布，其屏幕分辨率为960×640（[每英寸像素](../Page/每英寸像素.md "wikilink")数326ppi）。这种分辨率在正常观看距离下足以使人肉眼无法分辨其中的单独像素。\[1\]如今苹果正逐步将其推广到全线产品之上，同時隨著技術的提升，蘋果也推出了Retina
 HD與Super Retina等不同規格的Retina高分辨率螢幕。
 
 ## 特点及规格
@@ -58,7 +58,7 @@ Store中并没有大量支持Retina的应用](https://zh.wikipedia.org/wiki/App_
 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")，软件技术日渐成熟。但当时因为还有普通屏幕的[iPhone在販售](https://zh.wikipedia.org/wiki/iPhone "wikilink")，所以一款软件要同时支持两种屏幕，导致软件包较大。而目前，随着[iPhone
 3GS的退市](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")，市面上所有在售的iPhone均配备了Retina显示屏，[App
 Store中大部分应用均只支持Retina显示屏](https://zh.wikipedia.org/wiki/App_Store "wikilink")，软件包的大小较之前小了一些。对于[iPhone
-5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")，因为[Xcode中具备了应用自动排版的功能](../Page/Xcode.md "wikilink")，所以尽管[iPhone
+5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")，因为[Xcode](../Page/Xcode.md "wikilink")中具备了应用自动排版的功能，所以尽管[iPhone
 5的屏幕变大了](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")（仅高度由115.2毫米变为123.8毫米，宽度不变），但[App
 Store上的软件都能很容易地重新编排来适应](https://zh.wikipedia.org/wiki/App_Store "wikilink")[iPhone
 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")。[iPad with Retina

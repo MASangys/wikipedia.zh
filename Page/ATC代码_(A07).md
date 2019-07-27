@@ -48,7 +48,7 @@
     QA07AB92 酞磺胺噻唑，复方（Phthalylsulfathiazole, combinations）
     QA07AB99 复方（Combinations）
 
-### A07AC [咪唑衍生物](../Page/咪唑.md "wikilink")（Imidazole derivatives）
+### A07AC [咪唑](../Page/咪唑.md "wikilink")衍生物（Imidazole derivatives）
 
   -
     A07AC01 [咪康唑](../Page/咪康唑.md "wikilink")（Miconazole）
@@ -68,13 +68,13 @@
 
 ## A07B 肠道吸附药（Intestinal adsorbents）
 
-### A07BA [活性炭制剂](../Page/活性炭.md "wikilink")（Charcoal preparations）
+### A07BA [活性炭](../Page/活性炭.md "wikilink")制剂（Charcoal preparations）
 
   -
     A07BA01 药用活性炭（Medicinal charcoal）
     A07BA51 药用活性炭，复方（Medicinal charcoal, combinations）
 
-### A07BB [铋制剂](../Page/铋.md "wikilink")（Bismuth preparations）
+### A07BB [铋](../Page/铋.md "wikilink")制剂（Bismuth preparations）
 
 ### A07BC 其它肠道吸附药（Other intestinal adsorbents）
 
@@ -167,7 +167,7 @@
 ### A07FA 止泻的微生物（Antidiarrheal micro-organisms）
 
   -
-    A07FA01 产生[乳酸的微生物](../Page/乳酸.md "wikilink")（Lactic acid producing
+    A07FA01 产生[乳酸](../Page/乳酸.md "wikilink")的微生物（Lactic acid producing
     organisms）
     A07FA02
     [布拉酵母](https://zh.wikipedia.org/wiki/布拉酵母 "wikilink")（Saccharomyces
@@ -184,7 +184,7 @@
     [鞣酸蛋白](https://zh.wikipedia.org/wiki/鞣酸蛋白 "wikilink")（Albumin
     tannate）
     A07XA02 [长角豆](../Page/长角豆.md "wikilink")（Ceratonia）
-    A07XA03 [钙化合物](../Page/钙.md "wikilink")（Calcium compounds）
+    A07XA03 [钙](../Page/钙.md "wikilink")化合物（Calcium compounds）
     A07XA04
     [消旋卡多曲](https://zh.wikipedia.org/wiki/消旋卡多曲 "wikilink")（Racecadotril）
     A07XA51

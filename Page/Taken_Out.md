@@ -1,5 +1,5 @@
 《**Taken
-Out**》是一档[澳大利亚婚恋交友](../Page/澳大利亚.md "wikilink")[真人秀节目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，于2008年9月1日到2009年2月26日在[Network
+Out**》是一档[澳大利亚](../Page/澳大利亚.md "wikilink")婚恋交友[真人秀节目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，于2008年9月1日到2009年2月26日在[Network
 Ten播出](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")，该节目模式由开发，由詹姆斯·克利主持。
 
 ## 简介

@@ -20,7 +20,7 @@ Nextel公司70%股份，总计201亿美元，该交易於2013年7月完成。由
 Nextel更名回Sprint。於2013年8月，SoftBank增購新Sprint公司股份，總持股佔比增加為79.07%\[1\]。
 
 2018年4月30日，T-Mobile US
-再次公布預計以0.10256股[T-Mobile股票兌換一股Sprint股票](../Page/T-Mobile.md "wikilink")，每股價值6.62美元，斥資265億美元併購同業[Sprint](../Page/Sprint.md "wikilink")，合併後的新公司將沿用T-Mobile，[德國電信將持有新公司](https://zh.wikipedia.org/wiki/德國電信 "wikilink")42%股權，擁有[Sprint的](../Page/Sprint.md "wikilink")[Softbank將持有](https://zh.wikipedia.org/wiki/Softbank "wikilink")27%股權，本交易尚未完成，也尚未獲得[聯邦通信委員會批准](https://zh.wikipedia.org/wiki/聯邦通信委員會 "wikilink")
+再次公布預計以0.10256股[T-Mobile](../Page/T-Mobile.md "wikilink")股票兌換一股Sprint股票，每股價值6.62美元，斥資265億美元併購同業[Sprint](../Page/Sprint.md "wikilink")，合併後的新公司將沿用T-Mobile，[德國電信將持有新公司](https://zh.wikipedia.org/wiki/德國電信 "wikilink")42%股權，擁有[Sprint](../Page/Sprint.md "wikilink")的[Softbank將持有](https://zh.wikipedia.org/wiki/Softbank "wikilink")27%股權，本交易尚未完成，也尚未獲得[聯邦通信委員會批准](https://zh.wikipedia.org/wiki/聯邦通信委員會 "wikilink")
 。
 
 ## 参考文献

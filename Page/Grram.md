@@ -1,4 +1,4 @@
-**grram**原是[日本的一支](../Page/日本.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由GIZA旗下的子公司：D-GO所属。grram在2013年3月29日演唱会后解散，主唱[久川实津纪继续使用grram的名义进行音乐活动](https://zh.wikipedia.org/wiki/久川实津纪 "wikilink")。
+**grram**原是[日本](../Page/日本.md "wikilink")的一支[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由GIZA旗下的子公司：D-GO所属。grram在2013年3月29日演唱会后解散，主唱[久川实津纪继续使用grram的名义进行音乐活动](https://zh.wikipedia.org/wiki/久川实津纪 "wikilink")。
 
 ## 来历
 
@@ -7,7 +7,7 @@
 
 ## 名字由来
 
-grram名字是由[北欧神话中的宝剑](../Page/北欧神话.md "wikilink")[格拉墨](https://zh.wikipedia.org/wiki/格拉墨 "wikilink")（Gram）和计算机中[随机存取存储器](../Page/随机存取存储器.md "wikilink")（，缩写**RAM**）组成的。该名称意味着乐队的同一个愿望：真诚的声音永远深深地镌刻在心里\[3\]。
+grram名字是由[北欧神话](../Page/北欧神话.md "wikilink")中的宝剑[格拉墨](https://zh.wikipedia.org/wiki/格拉墨 "wikilink")（Gram）和计算机中[随机存取存储器](../Page/随机存取存储器.md "wikilink")（，缩写**RAM**）组成的。该名称意味着乐队的同一个愿望：真诚的声音永远深深地镌刻在心里\[3\]。
 
 ## 成员
 

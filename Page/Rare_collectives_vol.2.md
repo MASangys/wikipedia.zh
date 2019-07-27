@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")2張B面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+[GLAY](../Page/GLAY.md "wikilink")的第2張B面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 簡介
 

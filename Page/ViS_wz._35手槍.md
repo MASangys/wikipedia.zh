@@ -11,7 +11,7 @@ ViS wz.
 ## 歷史
 
 ViS wz.
-35在1935年開始裝備[波蘭軍隊](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")，在[波蘭戰役前約有](../Page/波蘭戰役.md "wikilink")49,400枝已經交付軍隊。在德國佔據波蘭後，此槍的生產仍然繼續，並且以*9
+35在1935年開始裝備[波蘭軍隊](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")，在[波蘭戰役](../Page/波蘭戰役.md "wikilink")前約有49,400枝已經交付軍隊。在德國佔據波蘭後，此槍的生產仍然繼續，並且以*9
 mm Pistole
 645(p)*的名義裝備[納粹德軍及](https://zh.wikipedia.org/wiki/納粹德軍 "wikilink")[警察](../Page/警察.md "wikilink")。\[2\]基於其後新成立的[波蘭人民共和國的軍隊採用](https://zh.wikipedia.org/wiki/波蘭人民共和國 "wikilink")[蘇聯式裝備的原故](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，故在戰爭結束後ViS
 wz. 35便停止了生產。

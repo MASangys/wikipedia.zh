@@ -1,9 +1,9 @@
 《**愛歌成狂
-15年B面歌曲完全精選**》是[平井堅於](../Page/平井堅.md "wikilink")2010年11月10日發行的B面曲[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+15年B面歌曲完全精選**》是[平井堅](../Page/平井堅.md "wikilink")於2010年11月10日發行的B面曲[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 概述
 
-  - 為[平井堅的第二張精選專輯](../Page/平井堅.md "wikilink")。曲順正好為作品發表的年代順序。
+  - 為[平井堅](../Page/平井堅.md "wikilink")的第二張精選專輯。曲順正好為作品發表的年代順序。
   - 紀念出道15周年，收錄出道單曲至《Sing Forever》中的所有原創B面歌曲，包括多首從未收錄在專輯當中的遺珠歌曲。
   - 收錄目前已絕版的兩首歌《只要你微笑》（1998年唯一主演戲劇的劇中歌，原收錄在OST《せつない ORIGINAL
     ALBUM》）及《One Love Wonderful World》。

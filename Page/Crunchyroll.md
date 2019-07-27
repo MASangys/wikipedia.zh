@@ -1,11 +1,11 @@
-**Crunchyroll**，簡稱**CR**，是美国的一家提供[东亚相关](https://zh.wikipedia.org/wiki/东亚 "wikilink")[流媒体影视服务和国际交流社区的网站](../Page/流媒体.md "wikilink")。
+**Crunchyroll**，簡稱**CR**，是美国的一家提供[东亚相关](https://zh.wikipedia.org/wiki/东亚 "wikilink")[流媒体](../Page/流媒体.md "wikilink")影视服务和国际交流社区的网站。
 
 ## 概要
 
 于2006年對外宣稱由大學生成立，因架站站長\[1\]shinji\[2\]\[3\]喜歡吃[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")，遂命名「Crunchyroll」；\[4\]實際上這是創辦者當時低調、匿名\[5\]的手法。Kun
 Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")，白天工作之餘，合夥創立公司、架設網站；後來均自願辭去工作，專心經營。\[7\]\[8\]
 
-起初供[ACG及](../Page/ACG.md "wikilink")[戲劇愛好者分享用途](https://zh.wikipedia.org/wiki/戲劇 "wikilink")，卻也引發侵權爭議。在[Venrock公司资助下](https://zh.wikipedia.org/wiki/Venrock "wikilink")，走向合法化串流服務逐漸壯大，内容包括[动画](../Page/动画.md "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、戲劇、[音乐](../Page/音乐.md "wikilink")、[电子游戏和](../Page/电子游戏.md "wikilink")[赛车等](https://zh.wikipedia.org/wiki/赛车 "wikilink")，依授權區域而定。
+起初供[ACG](../Page/ACG.md "wikilink")及[戲劇愛好者分享用途](https://zh.wikipedia.org/wiki/戲劇 "wikilink")，卻也引發侵權爭議。在[Venrock公司资助下](https://zh.wikipedia.org/wiki/Venrock "wikilink")，走向合法化串流服務逐漸壯大，内容包括[动画](../Page/动画.md "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、戲劇、[音乐](../Page/音乐.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")和[赛车等](https://zh.wikipedia.org/wiki/赛车 "wikilink")，依授權區域而定。
 
 ## 沿革
 
@@ -23,7 +23,7 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 
   - 2月，[Venrock投資挹注](https://zh.wikipedia.org/wiki/Venrock "wikilink")。\[9\]
   - 9月，日本法人成立，為對日窗口。
-  - 11月，與[東京電視台合作並引進資金](../Page/東京電視台.md "wikilink")。
+  - 11月，與[東京電視台](../Page/東京電視台.md "wikilink")合作並引進資金。
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 
 <!-- end list -->
 
-  - 2月，成為[日本動畫協會準會員](../Page/日本動畫協會.md "wikilink")。
+  - 2月，成為[日本動畫協會](../Page/日本動畫協會.md "wikilink")準會員。
 
 <!-- end list -->
 
@@ -95,10 +95,10 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 
 <!-- end list -->
 
-  - 2月，與[住友商事共同成立](../Page/住友商事.md "wikilink")，從事動畫製作委員会出資、動畫海外營業權取得及販售。
-  - 4月，宣布與[KADOKAWA締結戰略同盟](../Page/KADOKAWA.md "wikilink")，取得其亞洲以外動畫數位發行權\[19\]。
+  - 2月，與[住友商事](../Page/住友商事.md "wikilink")共同成立，從事動畫製作委員会出資、動畫海外營業權取得及販售。
+  - 4月，宣布與[KADOKAWA](../Page/KADOKAWA.md "wikilink")締結戰略同盟，取得其亞洲以外動畫數位發行權\[19\]。
   - 7月，宣布將推出一系列英文配音的動畫BD/DVD。
-  - 9月，宣布與[Funimation合作](../Page/Funimation.md "wikilink")，兩家交流影音作品提供各自訂戶收看\[20\]。
+  - 9月，宣布與[Funimation](../Page/Funimation.md "wikilink")合作，兩家交流影音作品提供各自訂戶收看\[20\]。
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 <!-- end list -->
 
   - 2月，宣布付費收視訂戶已破百萬\[21\]。
-  - 3月，開始藉[Steam平台銷售線上動畫](../Page/Steam.md "wikilink")。
+  - 3月，開始藉[Steam](../Page/Steam.md "wikilink")平台銷售線上動畫。
 
 ## 網站標誌
 

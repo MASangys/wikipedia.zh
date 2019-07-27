@@ -5,7 +5,7 @@ GLPK）是用來求解大規模之[線性規劃](https://zh.wikipedia.org/wiki/�
 
 可以用 GNU MathProg 語言建立問題的模型，語法大部分類似於
 [AMPL](../Page/AMPL.md "wikilink")，然後以 GLPSOL 求解。GLPK
-也可以作為[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")[函式庫使用](../Page/函式庫.md "wikilink")。
+也可以作為[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")[函式庫](../Page/函式庫.md "wikilink")使用。
 
 GLPK
 以[單型法．改以及對偶](https://zh.wikipedia.org/wiki/單型法．改 "wikilink")[內點法求解非整數問題](https://zh.wikipedia.org/wiki/內點法 "wikilink")，以[分枝限定法與](https://zh.wikipedia.org/wiki/分枝限定法 "wikilink")

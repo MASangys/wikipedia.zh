@@ -1,4 +1,4 @@
-**Oricon年度排行榜**指的是每年12月[Oricon發表的年度各銷量排行](../Page/Oricon.md "wikilink")
+**Oricon年度排行榜**指的是每年12月[Oricon](../Page/Oricon.md "wikilink")發表的年度各銷量排行
 
 ## 部門
 

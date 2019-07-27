@@ -1,5 +1,5 @@
 「**Boys Meet
-U**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")2張原創日語專輯。於2013年6月26日發行。唱片公司為[EMI](../Page/EMI.md "wikilink")。
+U**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第2張原創日語專輯。於2013年6月26日發行。唱片公司為[EMI](../Page/EMI.md "wikilink")。
 
 ## 概要
 

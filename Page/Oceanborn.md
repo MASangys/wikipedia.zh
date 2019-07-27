@@ -1,4 +1,4 @@
-《**Oceanborn**》是[芬兰](../Page/芬兰.md "wikilink")[交响金属乐队](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿的第二张专辑](../Page/夜愿.md "wikilink")，其于1998年12月在芬兰发行，1999年春在世界范围发行\[1\]\[2\]。《Oceanborn》在芬兰售出超过68,000份\[3\]。
+《**Oceanborn**》是[芬兰](../Page/芬兰.md "wikilink")[交响金属乐队](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿](../Page/夜愿.md "wikilink")的第二张专辑，其于1998年12月在芬兰发行，1999年春在世界范围发行\[1\]\[2\]。《Oceanborn》在芬兰售出超过68,000份\[3\]。
 
 ## 背景
 
@@ -9,7 +9,7 @@
 ## 风格
 
 这张专辑在音乐角度标志着音乐风格从《[Angels Fall
-First](../Page/Angels_Fall_First.md "wikilink")》的民谣风格产生了明确变化，展示了一个的节奏更快的，使用谐波吉他/键盘引导和和双重低音鼓的更夸张的力量金属风格。《Oceanborn》的声音在总体音乐角度加入了更戏剧性的方式，其中大多转移到了交响键盘和主唱[塔雅·图伦尼的声音上](../Page/塔雅·图伦尼.md "wikilink")。专辑的大部分歌曲是以幻想为主题的，如《Swanheart》和《Walking
+First](../Page/Angels_Fall_First.md "wikilink")》的民谣风格产生了明确变化，展示了一个的节奏更快的，使用谐波吉他/键盘引导和和双重低音鼓的更夸张的力量金属风格。《Oceanborn》的声音在总体音乐角度加入了更戏剧性的方式，其中大多转移到了交响键盘和主唱[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")的声音上。专辑的大部分歌曲是以幻想为主题的，如《Swanheart》和《Walking
 in the
 Air》，封面来自动画式图片《[雪人](https://zh.wikipedia.org/wiki/雪人_\(绘本\) "wikilink")》；然而，其他歌曲，如《Gethsmane》更有宗教的感觉。此外还有如《Devil
 & the Deep Dark Ocean》的戏剧性曲目。《Oceanborn》是他们声音最低沉的专辑，在歌曲《The Pharaoh
@@ -53,7 +53,7 @@ Olzon作为原音歌曲演唱](https://zh.wikipedia.org/wiki/Anette_Olzon "wikil
   - [Jukka
     Nevalainen](https://zh.wikipedia.org/wiki/Jukka_Nevalainen "wikilink")
     -
-    [鼓和](../Page/鼓.md "wikilink")[打击乐器组](https://zh.wikipedia.org/wiki/打击乐器组 "wikilink")
+    [鼓](../Page/鼓.md "wikilink")和[打击乐器组](https://zh.wikipedia.org/wiki/打击乐器组 "wikilink")
 
 **主要职员**
 

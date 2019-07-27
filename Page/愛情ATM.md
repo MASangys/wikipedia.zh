@@ -19,7 +19,7 @@ audio_format_1 = | first_run_1 =  | first_aired_1 =  |
 last_aired_1 =  | status = | preceded_by = | followed_by = | related
 = | website = <http://program.ftv.com.tw/progList.aspx?id=160> |
 production_website = | imdb_id = 6362798 }}
-，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，本齣戲為[民視第二部](https://zh.wikipedia.org/wiki/民視 "wikilink")[台灣流行劇](https://zh.wikipedia.org/wiki/台灣流行劇 "wikilink")，由新遊戲時代製作有限公司製作。由[劉品言](../Page/劉品言.md "wikilink")、[丁春誠](../Page/丁春誠.md "wikilink")、[鄒承恩](../Page/鄒承恩.md "wikilink")、[房思瑜](../Page/房思瑜.md "wikilink")、[楊奇煜](../Page/楊奇煜.md "wikilink")、[穆熙妍主演](../Page/穆熙妍.md "wikilink")。2013年1月中旬開拍。[民視於](https://zh.wikipedia.org/wiki/民視 "wikilink")2013年11月10日晚上10點首播，[八大綜合台於](../Page/八大綜合台.md "wikilink")2013年11月16日晚上9點播出，2014年2月2日播出最終回。全劇共13集，接檔《[我愛你愛你愛我](../Page/我愛你愛你愛我.md "wikilink")
+，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，本齣戲為[民視第二部](https://zh.wikipedia.org/wiki/民視 "wikilink")[台灣流行劇](https://zh.wikipedia.org/wiki/台灣流行劇 "wikilink")，由新遊戲時代製作有限公司製作。由[劉品言](../Page/劉品言.md "wikilink")、[丁春誠](../Page/丁春誠.md "wikilink")、[鄒承恩](../Page/鄒承恩.md "wikilink")、[房思瑜](../Page/房思瑜.md "wikilink")、[楊奇煜](../Page/楊奇煜.md "wikilink")、[穆熙妍](../Page/穆熙妍.md "wikilink")主演。2013年1月中旬開拍。[民視於](https://zh.wikipedia.org/wiki/民視 "wikilink")2013年11月10日晚上10點首播，[八大綜合台](../Page/八大綜合台.md "wikilink")於2013年11月16日晚上9點播出，2014年2月2日播出最終回。全劇共13集，接檔《[我愛你愛你愛我](../Page/我愛你愛你愛我.md "wikilink")
 I.U.U.I》。
 
 ## 播出時間

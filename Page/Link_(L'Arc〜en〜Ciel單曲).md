@@ -4,7 +4,7 @@
 
 共發行『初回生產限定盤』、『初回仕樣限定盤』、『普通盤』3種版本，初回生產限定盤加收一張DVD，初回仕樣限定盤則附贈電影膠捲，3種版本的封面各不相同。這是L'Arc〜en〜Ciel第1次發行附DVD的單曲。台灣有發行普通盤的台壓版。
 
-除了這張單曲外，[南方之星的](../Page/南方之星.md "wikilink")「[BOHBO
+除了這張單曲外，[南方之星](../Page/南方之星.md "wikilink")的「[BOHBO
 No.5/神之島遙遠國度](https://zh.wikipedia.org/wiki/BOHBO_No.5/神之島遙遠國度 "wikilink")」、[GLAY×EXILE的](https://zh.wikipedia.org/wiki/GLAY×EXILE "wikilink")「[SCREAM](../Page/SCREAM_\(GLAY×EXILE\).md "wikilink")」也在同一天發行，結果「SCREAM」以首週賣破30萬張的成績榮登第1名，本作約16萬張獲得第2名。順便一提，2000年7月的「[STAY
 AWAY](../Page/STAY_AWAY_\(L'Arc〜en〜Ciel單曲\).md "wikilink")」、GLAY的「[MERMAID](../Page/MERMAID_\(GLAY\).md "wikilink")」、南方之星「[HOTEL
 PACIFIC](https://zh.wikipedia.org/wiki/HOTEL_PACIFIC "wikilink")」都在同一天發行，當時GLAY獲得第1名，L'Arc〜en〜Ciel得到第2名。

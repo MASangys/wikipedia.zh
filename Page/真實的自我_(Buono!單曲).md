@@ -11,7 +11,7 @@ Buono\!](../Page/Café_Buono!.md "wikilink") | A-side = | B-side =
 \*週間最高順位5位（[Oricon](../Page/Oricon公信榜.md "wikilink")） |
 Last single = - | This single = **真實的自我**
 （2007年） | Next single = \[\[戀愛騎士|戀愛
-「**真實的自我**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!出道的第](../Page/Buono!.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年10月31日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+「**真實的自我**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")出道的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年10月31日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 

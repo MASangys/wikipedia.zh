@@ -1,6 +1,6 @@
-**紅牛RB5**（）是一輛由[紅牛車隊為](../Page/紅牛車隊.md "wikilink")[2009年世界一級方程式錦標賽所設計的](https://zh.wikipedia.org/wiki/2009年世界一級方程式錦標賽 "wikilink")[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式 "wikilink")。由[2008年為紅牛姊妹隊](https://zh.wikipedia.org/wiki/2008年世界一級方程式錦標賽 "wikilink")[紅牛二隊出賽的](https://zh.wikipedia.org/wiki/紅牛二隊 "wikilink")[賽巴斯蒂安·維泰爾和](../Page/賽巴斯蒂安·維泰爾.md "wikilink")[馬克·韋伯駕駛](https://zh.wikipedia.org/wiki/馬克·韋伯 "wikilink")。這輛賽車是在2009年2月9日於[西班牙](../Page/西班牙.md "wikilink")[赫雷斯賽道發布](../Page/赫雷斯賽道.md "wikilink")。\[1\]
+**紅牛RB5**（）是一輛由[紅牛車隊](../Page/紅牛車隊.md "wikilink")為[2009年世界一級方程式錦標賽所設計的](https://zh.wikipedia.org/wiki/2009年世界一級方程式錦標賽 "wikilink")[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式 "wikilink")。由[2008年為紅牛姊妹隊](https://zh.wikipedia.org/wiki/2008年世界一級方程式錦標賽 "wikilink")[紅牛二隊出賽的](https://zh.wikipedia.org/wiki/紅牛二隊 "wikilink")[賽巴斯蒂安·維泰爾](../Page/賽巴斯蒂安·維泰爾.md "wikilink")和[馬克·韋伯駕駛](https://zh.wikipedia.org/wiki/馬克·韋伯 "wikilink")。這輛賽車是在2009年2月9日於[西班牙](../Page/西班牙.md "wikilink")[赫雷斯賽道](../Page/赫雷斯賽道.md "wikilink")發布。\[1\]
 
-這輛車使該隊獲得隊史上的首次桿位、首次分站勝利，以及在[2009年中國大獎賽首次以](https://zh.wikipedia.org/wiki/2009年中國大獎賽 "wikilink")1-2名完賽。這輛車在整個賽季中是具有競爭力的，因為它在17場賽事中共贏得了6場，其中維泰爾有4場，而韋伯贏得2場。也因如此，該隊在車隊積分榜上僅落後[布朗車隊獲得車隊亞軍](../Page/布朗車隊.md "wikilink")，且維泰爾在車手積分榜上僅次於[詹森·巴頓獲得車手亞軍](https://zh.wikipedia.org/wiki/詹森·巴頓 "wikilink")。
+這輛車使該隊獲得隊史上的首次桿位、首次分站勝利，以及在[2009年中國大獎賽首次以](https://zh.wikipedia.org/wiki/2009年中國大獎賽 "wikilink")1-2名完賽。這輛車在整個賽季中是具有競爭力的，因為它在17場賽事中共贏得了6場，其中維泰爾有4場，而韋伯贏得2場。也因如此，該隊在車隊積分榜上僅落後[布朗車隊](../Page/布朗車隊.md "wikilink")獲得車隊亞軍，且維泰爾在車手積分榜上僅次於[詹森·巴頓獲得車手亞軍](https://zh.wikipedia.org/wiki/詹森·巴頓 "wikilink")。
 
 ## 技術規格
 

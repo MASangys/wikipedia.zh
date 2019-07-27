@@ -1,4 +1,4 @@
-**硒酸铈(III)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式为Ce](../Page/化学式.md "wikilink")<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>。
+**硒酸铈(III)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为Ce<sub>2</sub>(SeO<sub>4</sub>)<sub>3</sub>。
 
 ## 参考资料
 

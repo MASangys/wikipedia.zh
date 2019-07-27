@@ -16,7 +16,7 @@ High歌曲](../Page/Epik_High.md "wikilink")《RUN》舞台作樂隊出演。
 ### 2010年：以团体INFINITE出道
 
 4月，以綜藝節目《你是我的哥哥》正式曝光。\[3\]
-6月9日，以男子音樂團體[INFINITE正式出道](../Page/INFINITE.md "wikilink")，發行首張迷你專輯《[First
+6月9日，以男子音樂團體[INFINITE](../Page/INFINITE.md "wikilink")正式出道，發行首張迷你專輯《[First
 Invasion](../Page/First_Invasion.md "wikilink")》，並以主打歌〈再次回來吧〉於綜藝節目《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道舞台。
 
@@ -26,7 +26,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道
 
 ### 2013年：INFINITE子團体INFINITE H
 
-1月10日，與[INFINITE成員](../Page/INFINITE.md "wikilink")[東雨組成子團体](https://zh.wikipedia.org/wiki/東雨 "wikilink")[INFINITE
+1月10日，與[INFINITE](../Page/INFINITE.md "wikilink")成員[東雨組成子團体](https://zh.wikipedia.org/wiki/東雨 "wikilink")[INFINITE
 H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，發行首張迷你專輯《[Fly
 High](../Page/Fly_High.md "wikilink")》展開活動，主打歌為〈Special
 Girl〉。1月18日，成為綜藝節目《不朽的名曲2》的固定嘉賓。10月，客串出演電視劇《[請回答1994](../Page/請回答1994.md "wikilink")》，飾演姜俊熙。
@@ -40,7 +40,7 @@ Girl〉。1月18日，成為綜藝節目《不朽的名曲2》的固定嘉賓。
 
 2月，出演電視劇《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》，飾演李貴南。\[6\]
 3月，出演電視劇《[自體發光辦公室](../Page/自體發光辦公室.md "wikilink")》，飾演張康昊。\[7\]
-6月9日，與[Woollim娛樂的合約到期](../Page/Woollim娛樂.md "wikilink")，不續約，退出[INFINITE](../Page/INFINITE.md "wikilink")。\[8\]
+6月9日，與[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")的合約到期，不續約，退出[INFINITE](../Page/INFINITE.md "wikilink")。\[8\]
 9月26日，與Glorious娛樂簽約，以個人歌手、演員的身分重新出發。。\[9\] 11月，出演電視劇《[Two
 Cops](../Page/Two_Cops.md "wikilink")》，飾演獨孤誠赫。\[10\]
 12月，出演音樂劇《沙漏》，飾演白在熙。\[11\]
@@ -239,7 +239,7 @@ Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
   -
   -
   -
-  - [YouTube上的](../Page/YouTube.md "wikilink")[HOYA](https://www.youtube.com/channel/UCJkwwdpcNmmvIlbxfk0wEHA)頻道
+  - [YouTube](../Page/YouTube.md "wikilink")上的[HOYA](https://www.youtube.com/channel/UCJkwwdpcNmmvIlbxfk0wEHA)頻道
 
 <!-- end list -->
 
@@ -251,7 +251,7 @@ Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
   -
 <!-- end list -->
 
-  - [YouTube上的](../Page/YouTube.md "wikilink")[REAL
+  - [YouTube](../Page/YouTube.md "wikilink")上的[REAL
     HOYA](https://www.youtube.com/channel/UCf7jvi695LehwpjlSxsfhhA)頻道
 
 <!-- end list -->

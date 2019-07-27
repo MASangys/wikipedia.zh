@@ -1,4 +1,4 @@
-**黑瀨IC**（平假名：くろせインターチェンジ）是位於[廣島縣](../Page/廣島縣.md "wikilink")[東廣島市的](../Page/東廣島市.md "wikilink")[東廣島吳自動車道之](https://zh.wikipedia.org/wiki/東廣島吳自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**黑瀨IC**（平假名：くろせインターチェンジ）是位於[廣島縣](../Page/廣島縣.md "wikilink")[東廣島市](../Page/東廣島市.md "wikilink")的[東廣島吳自動車道之](https://zh.wikipedia.org/wiki/東廣島吳自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -21,8 +21,8 @@
 ## 交流道周邊
 
   - NAFCO黑瀨店
-  - [FamilyMart黑瀨兼廣店](../Page/FamilyMart.md "wikilink")
-  - [7-Eleven黒瀨春日野店](../Page/7-Eleven.md "wikilink")
+  - [FamilyMart](../Page/FamilyMart.md "wikilink")黑瀨兼廣店
+  - [7-Eleven](../Page/7-Eleven.md "wikilink")黒瀨春日野店
   - [UD
     Trucks廣島東](https://zh.wikipedia.org/wiki/UD_Trucks "wikilink")、吳店
 

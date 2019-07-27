@@ -1,4 +1,4 @@
-**Closer**是[英皇娛樂旗下的首支](../Page/英皇娛樂.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，成員有[吳浩康](../Page/吳浩康.md "wikilink")（主音）、[林健亨](https://zh.wikipedia.org/wiki/林健亨 "wikilink")（結他手）、[蔡皓](https://zh.wikipedia.org/wiki/蔡皓 "wikilink")（低音結他手）和[向展輝](https://zh.wikipedia.org/wiki/向展輝 "wikilink")（鼓手）。其歌曲風格以寫實為主。首支派台歌《明白》於2012年3月9日派台，並於同日於各網上平台提供合法下載。
+**Closer**是[英皇娛樂](../Page/英皇娛樂.md "wikilink")旗下的首支[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，成員有[吳浩康](../Page/吳浩康.md "wikilink")（主音）、[林健亨](https://zh.wikipedia.org/wiki/林健亨 "wikilink")（結他手）、[蔡皓](https://zh.wikipedia.org/wiki/蔡皓 "wikilink")（低音結他手）和[向展輝](https://zh.wikipedia.org/wiki/向展輝 "wikilink")（鼓手）。其歌曲風格以寫實為主。首支派台歌《明白》於2012年3月9日派台，並於同日於各網上平台提供合法下載。
 
 ## 音樂作品
 

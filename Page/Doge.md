@@ -1,7 +1,7 @@
 [Original_Doge_meme.jpg](https://zh.wikipedia.org/wiki/File:Original_Doge_meme.jpg "fig:Original_Doge_meme.jpg")
 **Doge**（或），又名“神烦狗”，是从2013年开始流行的[网络迷因](https://zh.wikipedia.org/wiki/网络迷因 "wikilink")。通常是伴随一些[Comic
 Sans
-MS多色文字的](https://zh.wikipedia.org/wiki/Comic_Sans_MS "wikilink")[柴犬图像](../Page/柴犬.md "wikilink")。\[1\]\[2\]图像上代表内心独白的文本，是一种故意而为之的蹩脚英语。\[3\]\[4\]另外图片中柴犬的神态也是用于恶搞的原因。於全球各地擁有大量粉絲，甚至有人畫成畫像。
+MS多色文字的](https://zh.wikipedia.org/wiki/Comic_Sans_MS "wikilink")[柴犬](../Page/柴犬.md "wikilink")图像。\[1\]\[2\]图像上代表内心独白的文本，是一种故意而为之的蹩脚英语。\[3\]\[4\]另外图片中柴犬的神态也是用于恶搞的原因。於全球各地擁有大量粉絲，甚至有人畫成畫像。
 
 ## 起源
 
@@ -14,7 +14,7 @@ Runner木偶戲的一集中](https://zh.wikipedia.org/wiki/Homestar_Runner "wiki
 
 [Doge.png](https://zh.wikipedia.org/wiki/File:Doge.png "fig:Doge.png")
 Doge也被[达美航空的安全辅导視訊](https://zh.wikipedia.org/wiki/达美航空 "wikilink")，[谷歌复活节彩蛋主题](https://zh.wikipedia.org/wiki/谷歌复活节彩蛋 "wikilink")，以及[「怪人奧爾」揚科維奇的专辑](https://zh.wikipedia.org/wiki/「怪人奧爾」揚科維奇 "wikilink")《Word
-Crimes》所引用。[新浪微博也有以此为蓝本的表情](../Page/新浪微博.md "wikilink")。[Servo排版引擎的](../Page/Servo.md "wikilink")[Logo是Doge](../Page/标志.md "wikilink")\[11\]。2016年播出的中国动画片《前方高能之神烦狗》以Doge为主题。
+Crimes》所引用。[新浪微博](../Page/新浪微博.md "wikilink")也有以此为蓝本的表情。[Servo](../Page/Servo.md "wikilink")排版引擎的[Logo是Doge](../Page/标志.md "wikilink")\[11\]。2016年播出的中国动画片《前方高能之神烦狗》以Doge为主题。
 
 ## 注释
 

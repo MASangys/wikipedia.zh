@@ -4,10 +4,10 @@
 
 ONE從大學就讀期間開始在自己的個人網站發表網路漫畫。2009年7月，為了練習學會使用一個漫畫原稿電腦軟體程式[ComicStudio](../Page/ComicStudio.md "wikilink")，開始在出版社[新都社發表短篇版的](https://zh.wikipedia.org/wiki/新都社 "wikilink")《[一拳超人](../Page/一拳超人.md "wikilink")》。在那之後，於2009年7月3日上傳至他的個人網頁（FC2）並不定期更新。雖然ONE的畫功粗糙，但由於幽默的設定和相當精彩故事，因此於日本網路大熱。2019年4月，《一拳超人》官網累計瀏覽人次1.24億人上，並曾錄得平均1日10萬次的最高點閱率\[3\]。
 
-2012年4月，開始在[小學館的網路漫畫雜誌](../Page/小學館.md "wikilink")《》連載《[路人超能100](../Page/路人超能100.md "wikilink")》。正式在漫畫業界出道。
+2012年4月，開始在[小學館](../Page/小學館.md "wikilink")的網路漫畫雜誌《》連載《[路人超能100](../Page/路人超能100.md "wikilink")》。正式在漫畫業界出道。
 
-2012年6月，開始在[集英社的網路漫畫雜誌](../Page/集英社.md "wikilink")《[隔壁的Young
-Jump](../Page/週刊YOUNG_JUMP.md "wikilink")》連載《》。同時ONE又與漫畫家[村田雄介合作創作](../Page/村田雄介.md "wikilink")《一拳超人
+2012年6月，開始在[集英社](../Page/集英社.md "wikilink")的網路漫畫雜誌《[隔壁的Young
+Jump](../Page/週刊YOUNG_JUMP.md "wikilink")》連載《》。同時ONE又與漫畫家[村田雄介](../Page/村田雄介.md "wikilink")合作創作《一拳超人
 -重製版-》，於《隔壁的Young Jump》上連載。
 
 2015年10月至12月，《一拳超人》電視動畫播出（2017年宣布製作第2期，於2019年4月播放）。翌年2016年7月至9月和2019年1月至4月，播出《[路人超能100](../Page/路人超能100.md "wikilink")》電視動畫。
@@ -33,7 +33,7 @@ Jump](../Page/週刊YOUNG_JUMP.md "wikilink")》連載《》。同時ONE又與�
 
 ### 短篇作品
 
-所有作品作畫都由[村田雄介擔任](../Page/村田雄介.md "wikilink")。
+所有作品作畫都由[村田雄介](../Page/村田雄介.md "wikilink")擔任。
 
   - 彈丸天使Fans Club《》（[集英社](../Page/集英社.md "wikilink")《》8號，57頁）
 

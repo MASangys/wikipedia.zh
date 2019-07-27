@@ -1,6 +1,6 @@
 **HTC
-One**（研發代號M7）是[宏達國際電子公司开发](../Page/宏達國際電子.md "wikilink")、搭载[Android操作系统之高階旗舰](../Page/Android.md "wikilink")[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。2013年2月，HTC
-One先在台灣被報導\[1\]，並在美国[纽约和英国](../Page/纽约.md "wikilink")[伦敦两地同步正式发表](../Page/伦敦.md "wikilink")\[2\]，次月开售。被外界视为是重振[HTC
+One**（研發代號M7）是[宏達國際電子](../Page/宏達國際電子.md "wikilink")公司开发、搭载[Android](../Page/Android.md "wikilink")操作系统之高階旗舰[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。2013年2月，HTC
+One先在台灣被報導\[1\]，並在美国[纽约](../Page/纽约.md "wikilink")和英国[伦敦](../Page/伦敦.md "wikilink")两地同步正式发表\[2\]，次月开售。被外界视为是重振[HTC
 One系列品牌定位](../Page/HTC_One系列.md "wikilink")，企圖与 [Samsung Galaxy S
 4](../Page/三星Galaxy_S4.md "wikilink")、[Sony Xperia
 Z](../Page/Sony_Xperia_Z.md "wikilink") 和 [iPhone
@@ -41,7 +41,7 @@ HTC One在不同地区发售的32GB和64GB版本在软件和硬件上有所不�
   - 开发者版本
 
 开发者版的64GB HTC One
-于2013年4月19日在HTC网站向美国限量发售。开发者版解除了Bootloader锁定，可以用于开发和安装自定义的ROM。开发者版同时也解除了[T-Mobile和](../Page/T-Mobile.md "wikilink")[AT\&T的GSM网络和LTE网络的限制](../Page/AT&T.md "wikilink")；但是手机不支持T-Mobile的AWS基础的[HSPA+网络](https://zh.wikipedia.org/wiki/HSPA+ "wikilink")。\[4\]\[5\]
+于2013年4月19日在HTC网站向美国限量发售。开发者版解除了Bootloader锁定，可以用于开发和安装自定义的ROM。开发者版同时也解除了[T-Mobile](../Page/T-Mobile.md "wikilink")和[AT\&T](../Page/AT&T.md "wikilink")的GSM网络和LTE网络的限制；但是手机不支持T-Mobile的AWS基础的[HSPA+网络](https://zh.wikipedia.org/wiki/HSPA+ "wikilink")。\[4\]\[5\]
 
   - Google Play版本
 
@@ -60,7 +60,7 @@ One的中国大陸版本于2013年4月末发行，[中国联通型号为HTC](htt
 TD101 802w，[中国电信型号为HTC](https://zh.wikipedia.org/wiki/中国电信 "wikilink")
 TD101 802d和[中国移动的型号HTC](https://zh.wikipedia.org/wiki/中国移动 "wikilink")
 TD101
-802t。有别于国际版，中国版使用可以开启的后盖，支援[SD卡扩充和双SIM卡](../Page/SD卡.md "wikilink")。除此之外，还有带有[王力宏后盖亲笔签名的特殊版发行](../Page/王力宏.md "wikilink")。\[9\]HTC表示中国版本可以带有SD卡槽是因为无线电硬件空余出了较大的间隔。\[10\]此外，还有[中国联通订制的单SIM卡](https://zh.wikipedia.org/wiki/中国联通 "wikilink")、16GB版HTC
+802t。有别于国际版，中国版使用可以开启的后盖，支援[SD卡](../Page/SD卡.md "wikilink")扩充和双SIM卡。除此之外，还有带有[王力宏](../Page/王力宏.md "wikilink")后盖亲笔签名的特殊版发行。\[9\]HTC表示中国版本可以带有SD卡槽是因为无线电硬件空余出了较大的间隔。\[10\]此外，还有[中国联通订制的单SIM卡](https://zh.wikipedia.org/wiki/中国联通 "wikilink")、16GB版HTC
 One 801e发行。
 
   - 台湾版本
@@ -73,9 +73,9 @@ One Dual”。
 
   - 日本版本
 
-2013年5月，HTC宣布于日本[KDDI下属的](../Page/KDDI.md "wikilink")[au运营商发行HTC](https://zh.wikipedia.org/wiki/au_\(移动电话\) "wikilink")
+2013年5月，HTC宣布于日本[KDDI](../Page/KDDI.md "wikilink")下属的[au运营商发行HTC](https://zh.wikipedia.org/wiki/au_\(移动电话\) "wikilink")
 J One (HTL22) 或称 One J 。 J
-One与中国大陸版本相似，并且支持[FeliCa支付系统](../Page/FeliCa.md "wikilink")。\[11\]6月1日由金属银开始贩卖，另外还有黑色和红色。
+One与中国大陸版本相似，并且支持[FeliCa](../Page/FeliCa.md "wikilink")支付系统。\[11\]6月1日由金属银开始贩卖，另外还有黑色和红色。
 
 ## 详细规格
 
@@ -283,7 +283,7 @@ Audio 使用，另外配备了 HDR 麦克风，可以录到更多频率的声音
 ### 相机
 
 HTC One 采用自家设计的 **UltraPixel**
-相机，相机讲求“[像素不等于画质](../Page/像素.md "wikilink")”，而非其他厂商不断提升像素的做法，虽然只有
+相机，相机讲求“[像素](../Page/像素.md "wikilink")不等于画质”，而非其他厂商不断提升像素的做法，虽然只有
 408 万像素，但在其 1/3 吋的 BSI 背照式感光元件中，使得每个像素可以达到 2µm 的像素大小，使其相较于一般手机的 1.1µm
 像素尺寸，感光效率高出 300%。HTC One 延续同系列相机所使用的 28mm 广角与 f/2.0
 大光圈镜头，并另外采用双轴（左右倾斜与前后仰俯）方向达每秒 2,000
@@ -316,7 +316,7 @@ Mobiles Republic 设计公司合作开发，类似 Flipboard
 HTC 将会发行 SDK，让开发者可以将程序整合进 BlinkFeed™。
 
 強調影音的HTC One 加入了电视应用**Sense
-TV™**，支援有线电视等媒体服务，如台灣的數位電視、中華電信MOD及其他有線電視業者，其他上市地区也会搭配多媒体随选列表的服务。手机配备红外線模組，具备大量的[红外线遥控器代码以及自行學習功能](../Page/红外线.md "wikilink")，已支援市面上多数的电视或[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")。
+TV™**，支援有线电视等媒体服务，如台灣的數位電視、中華電信MOD及其他有線電視業者，其他上市地区也会搭配多媒体随选列表的服务。手机配备红外線模組，具备大量的[红外线](../Page/红外线.md "wikilink")遥控器代码以及自行學習功能，已支援市面上多数的电视或[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")。
 
 HTC One 有两个软體来帮助使用者设定新手机：分别是 **HTC Get Start** 和强化版的 **HTC Sync
 Manager**，能在電腦上透过网络设定手机，并提供热门新闻频道、應用程式快速安装、铃声设定、书签、桌布与解锁画面设定等功能。手机可以从旧版的
@@ -325,7 +325,7 @@ Sense 或旧 iPhone 及其它旧 Android 设备中复制联络人数据、简讯
 平台上，这些数据就可以选择转存至[網路硬碟中](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")。
 
 在中国大陆版本的HTC One中内建名为 HTC Hidi
-的应用，该应用是一个[智慧型個人助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，在进行部分操作时具有语音功能，集合眾多網路服務，提供機票、酒店、天氣、電影、音樂等查詢，並且擁有聯繫上下文的能力。在對話過程中，還提供多種表情和形象。并支援語音發[微博和](../Page/微博.md "wikilink")[微信等](../Page/微信.md "wikilink")。
+的应用，该应用是一个[智慧型個人助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，在进行部分操作时具有语音功能，集合眾多網路服務，提供機票、酒店、天氣、電影、音樂等查詢，並且擁有聯繫上下文的能力。在對話過程中，還提供多種表情和形象。并支援語音發[微博](../Page/微博.md "wikilink")和[微信](../Page/微信.md "wikilink")等。
 
   - 软件更新
 

@@ -2,7 +2,7 @@
 
 ## 基因
 
-最初发现*Ash1*是导致果蝇成虫盘突变表型的基因。Ash1属于[三胸家族](https://zh.wikipedia.org/wiki/三胸家族 "wikilink")（trxG）蛋白的成员之一，三胸家族是一群涉及到调控[同源异形基因表达和体节特性的转录激活蛋白](../Page/同源异形基因.md "wikilink")\[1\]。果蝇属Ash1与其它三胸家族蛋白一起调控[超二胸的表达](https://zh.wikipedia.org/wiki/超二胸 "wikilink")\[2\]。
+最初发现*Ash1*是导致果蝇成虫盘突变表型的基因。Ash1属于[三胸家族](https://zh.wikipedia.org/wiki/三胸家族 "wikilink")（trxG）蛋白的成员之一，三胸家族是一群涉及到调控[同源异形基因](../Page/同源异形基因.md "wikilink")表达和体节特性的转录激活蛋白\[1\]。果蝇属Ash1与其它三胸家族蛋白一起调控[超二胸的表达](https://zh.wikipedia.org/wiki/超二胸 "wikilink")\[2\]。
 
 人类*ASH1L*基因在1号染色体长臂22带中横跨一段22.75万对碱基。该区域常常在白血病、非霍奇金淋巴瘤及一些实体瘤等的多种人类肿瘤中发生重排。在多个组织中该基因转录成一个约1.05万个碱基长的mRNA转录物，尤其在脑、肾和心脏中表达量最高\[3\]。
 
@@ -14,9 +14,9 @@
 
 ## 功能
 
-ASH1L位于细胞的核内斑和紧密连接处，目前猜测紧密连接在黏着介导的信号传导中是有功能性的。\[7\][ChIP分析证明了ASH](../Page/染色质免疫沉淀.md "wikilink")1L与一些转录活跃的基因的5'-转录区域。ASH1L在染色质上的占据情况与TrxG相关的H3K4-组蛋白甲基转移酶[MLL1的占据情况是相似的](https://zh.wikipedia.org/wiki/MLL1 "wikilink")，然而ASH1L与染色质的联系也可以独立于[MLL1之外](https://zh.wikipedia.org/wiki/MLL1 "wikilink")。ASH1L除了结合到管家基因的5'-转录区域植物，还分布在整个[同源异形基因的整个转录区域上](../Page/同源异形基因.md "wikilink")。ASH1L是*HOXA6*和*HOXA10*这两个基因以全速表达和H3K4甲基化所必须的\[8\]
+ASH1L位于细胞的核内斑和紧密连接处，目前猜测紧密连接在黏着介导的信号传导中是有功能性的。\[7\][ChIP分析证明了ASH](../Page/染色质免疫沉淀.md "wikilink")1L与一些转录活跃的基因的5'-转录区域。ASH1L在染色质上的占据情况与TrxG相关的H3K4-组蛋白甲基转移酶[MLL1的占据情况是相似的](https://zh.wikipedia.org/wiki/MLL1 "wikilink")，然而ASH1L与染色质的联系也可以独立于[MLL1之外](https://zh.wikipedia.org/wiki/MLL1 "wikilink")。ASH1L除了结合到管家基因的5'-转录区域植物，还分布在整个[同源异形基因](../Page/同源异形基因.md "wikilink")的整个转录区域上。ASH1L是*HOXA6*和*HOXA10*这两个基因以全速表达和H3K4甲基化所必须的\[8\]
 
-在海拉细胞中构建[同源异形基因启动子区的报告基因](../Page/同源异形基因.md "wikilink")，结果显示只有同时存在[MLL1和ASH](https://zh.wikipedia.org/wiki/MLL1 "wikilink")1L才能激活报告基因的表达，而单独存在[MLL1或ASH](https://zh.wikipedia.org/wiki/MLL1 "wikilink")1L则不足以激活转录。有趣的是，激活同源异形基因不仅不需要ASH1L的甲基转移酶活性参与，取而代之的是ASH1L对同源异形基因的表达有抑制作用。在K562细胞中敲低ASH1L会上调ε-珠蛋白基因的表达但下调髓单核细胞标记物GPⅡb和GPⅢa的表达，在世系阴性的定向造血干细胞中敲低ASH1L扰乱从髓单核细胞转向淋巴样或红细胞样式系的分化过程。这些结果意味着ASH1L与[MLL1一样会促进造血干细胞向髓单核细胞的分化](https://zh.wikipedia.org/wiki/MLL1 "wikilink")\[9\]。
+在海拉细胞中构建[同源异形基因](../Page/同源异形基因.md "wikilink")启动子区的报告基因，结果显示只有同时存在[MLL1和ASH](https://zh.wikipedia.org/wiki/MLL1 "wikilink")1L才能激活报告基因的表达，而单独存在[MLL1或ASH](https://zh.wikipedia.org/wiki/MLL1 "wikilink")1L则不足以激活转录。有趣的是，激活同源异形基因不仅不需要ASH1L的甲基转移酶活性参与，取而代之的是ASH1L对同源异形基因的表达有抑制作用。在K562细胞中敲低ASH1L会上调ε-珠蛋白基因的表达但下调髓单核细胞标记物GPⅡb和GPⅢa的表达，在世系阴性的定向造血干细胞中敲低ASH1L扰乱从髓单核细胞转向淋巴样或红细胞样式系的分化过程。这些结果意味着ASH1L与[MLL1一样会促进造血干细胞向髓单核细胞的分化](https://zh.wikipedia.org/wiki/MLL1 "wikilink")\[9\]。
 
 在体情况下ASH1L的组蛋白甲基转移酶的活性靶点是有些许争议的话题。布洛贝尔的团队通过体外实验发现ASH1L对H3K4进行甲基化而且ASH1L在转录基因上的分布与H3K4水平相类似\[10\]。相反，另两个团队发现ASH1L的组蛋白甲基转移酶活性是靶向H3K36的并以核小体作为底物\[11\]\[12\]。
 

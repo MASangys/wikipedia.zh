@@ -1,13 +1,13 @@
-**AKB48分身之術巡演／AKB104選拔成員組閣祭**（）是日本女子偶像組合[AKB48在](../Page/AKB48.md "wikilink")2009年8月11日至8月23日於[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[難波Hatch](https://zh.wikipedia.org/wiki/難波Hatch "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")及[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館舉行的全國巡迴演唱會](../Page/日本武道館.md "wikilink")\[1\]\[2\]\[3\]。
+**AKB48分身之術巡演／AKB104選拔成員組閣祭**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2009年8月11日至8月23日於[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[難波Hatch](https://zh.wikipedia.org/wiki/難波Hatch "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")及[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")舉行的全國巡迴演唱會\[1\]\[2\]\[3\]。
 
-組閣祭的第3場公演於2009年10月31日於[WOWOW獨家播放](../Page/WOWOW.md "wikilink")\[4\]。
+組閣祭的第3場公演於2009年10月31日於[WOWOW](../Page/WOWOW.md "wikilink")獨家播放\[4\]。
 
 ## 概要
 
   - 在「神公演予定」演唱會中披露將於8月舉行全國巡迴演唱會\[5\]。
-  - [大島麻衣](../Page/大島麻衣.md "wikilink")、[SDN48會在組閣祭中表演](../Page/SDN48.md "wikilink")\[6\]\[7\]。
-  - [佐伯美香](../Page/佐伯美香.md "wikilink")、[成瀨理沙及SKE](../Page/成瀨理沙.md "wikilink")48[高井月奈會在組閣祭第](https://zh.wikipedia.org/wiki/高井月奈 "wikilink")2場公演舉行畢業式\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
-  - [松井珠理奈由於身體不適入院](../Page/松井珠理奈.md "wikilink")，只於組閣祭第1場公演中出演\[14\]\[15\]。[增田有華亦因為身體不適](../Page/增田有華.md "wikilink")，只在第2場公演出演其中1首歌曲。而[奧真奈美](../Page/奧真奈美.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[小原春香](../Page/小原春香.md "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[佐藤堇及](../Page/佐藤堇.md "wikilink")[今井悠理枝等](https://zh.wikipedia.org/wiki/今井悠理枝 "wikilink")7位成員因為感染甲型流感而未能於組閣祭出演\[16\]\[17\]\[18\]\[19\]。
+  - [大島麻衣](../Page/大島麻衣.md "wikilink")、[SDN48](../Page/SDN48.md "wikilink")會在組閣祭中表演\[6\]\[7\]。
+  - [佐伯美香](../Page/佐伯美香.md "wikilink")、[成瀨理沙](../Page/成瀨理沙.md "wikilink")及SKE48[高井月奈會在組閣祭第](https://zh.wikipedia.org/wiki/高井月奈 "wikilink")2場公演舉行畢業式\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
+  - [松井珠理奈](../Page/松井珠理奈.md "wikilink")由於身體不適入院，只於組閣祭第1場公演中出演\[14\]\[15\]。[增田有華](../Page/增田有華.md "wikilink")亦因為身體不適，只在第2場公演出演其中1首歌曲。而[奧真奈美](../Page/奧真奈美.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[小原春香](../Page/小原春香.md "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")及[今井悠理枝等](https://zh.wikipedia.org/wiki/今井悠理枝 "wikilink")7位成員因為感染甲型流感而未能於組閣祭出演\[16\]\[17\]\[18\]\[19\]。
 
 ## 參加成員
 
@@ -473,7 +473,7 @@
 ## 公佈
 
   - 宣佈成立AKB歌劇團，其後於2009年10月30日至11月8日於G-ROSSO劇場舉行AKB歌劇團「∞．Infinity」\[33\]\[34\]\[35\]\[36\]。
-  - 劇場經理[戶賀崎智信於最後一場公佈AKB將會組成新內閣](../Page/戶賀崎智信.md "wikilink")，將各Team的成員及研究生重新分配至新Team
+  - 劇場經理[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")於最後一場公佈AKB將會組成新內閣，將各Team的成員及研究生重新分配至新Team
     A、K及B\[37\]\[38\]\[39\]。
 
 ### 新內閣
@@ -517,7 +517,7 @@
 
 ## DVD
 
-演唱會的[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2009年11月1日由[AKS發行](../Page/AKS.md "wikilink")。DVD分為三個版本，分別收錄AKB48分身之術巡演的3場公演及幕後花絮、AKB104選拔成員組閣祭的3場公演及幕後花絮、及只收錄AKB104選拔成員組閣祭的第3公演及幕後花絮。而同時亦發售Premium
+演唱會的[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2009年11月1日由[AKS](../Page/AKS.md "wikilink")發行。DVD分為三個版本，分別收錄AKB48分身之術巡演的3場公演及幕後花絮、AKB104選拔成員組閣祭的3場公演及幕後花絮、及只收錄AKB104選拔成員組閣祭的第3公演及幕後花絮。而同時亦發售Premium
 Box版本，內容包括AKB48分身之術巡演及AKB104選拔成員組閣祭的DVD、相簿、160頁寫真集及隨機5張生寫真\[44\]\[45\]\[46\]。幕後花絮由前田敦子、高橋南及大島優子負責旁白\[47\]。
 
 根據[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")，AKB104選拔成員組閣祭DVD的最高排名為183位\[48\]。

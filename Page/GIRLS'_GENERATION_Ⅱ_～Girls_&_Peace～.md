@@ -11,7 +11,7 @@ RECORDS](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
     ONLY)」3種版本。「首批發行豪华限量版(CD+DVD)」和「首批發行限量版(CD+DVD)」版本收錄了「[PAPARAZZI](https://zh.wikipedia.org/wiki/Paparazzi "wikilink")」、「[Oh\!](../Page/Oh!_\(单曲\).md "wikilink")」、「ALL
     MY LOVE IS FOR YOU」和「[FLOWER
     POWER](https://zh.wikipedia.org/wiki/Flower_Power_\(少女时代单曲\) "wikilink")」的PV。
-  - 獲[日本唱片協會認證為白金唱片](../Page/日本唱片協會.md "wikilink")(出貨25萬張)，實際銷量約18萬張。
+  - 獲[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為白金唱片(出貨25萬張)，實際銷量約18萬張。
 
 ## 収录歌曲
 

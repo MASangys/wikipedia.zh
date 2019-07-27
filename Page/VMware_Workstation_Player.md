@@ -1,5 +1,5 @@
 **VMware Workstation
-Player**是[VMware推出的一款简易](../Page/VMware.md "wikilink")[虚拟机软件](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，是[VMware
+Player**是[VMware](../Page/VMware.md "wikilink")推出的一款简易[虚拟机软件](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，是[VMware
 Workstation的免費版](../Page/VMware_Workstation.md "wikilink")，功能较[VMware
 Workstation
 Pro简单](https://zh.wikipedia.org/wiki/VMware_Workstation_Pro "wikilink")，可免费用于个人非商业用途（VMware

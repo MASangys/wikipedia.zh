@@ -6,7 +6,7 @@
 | **第2作**                                                       |
 | **第3作**                                                       |
 
-『**宇宙刑事Sharivan**』（原題：）是[日本](../Page/日本.md "wikilink")[東映製作的](../Page/東映.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。1983年（昭和58年）3月4日至1984年（昭和59年）2月24日毎週禮拜五19時30分～20時00分在[朝日電視台系播放](../Page/朝日電視台.md "wikilink")。全51話。
+『**宇宙刑事Sharivan**』（原題：）是[日本](../Page/日本.md "wikilink")[東映](../Page/東映.md "wikilink")製作的[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。1983年（昭和58年）3月4日至1984年（昭和59年）2月24日毎週禮拜五19時30分～20時00分在[朝日電視台](../Page/朝日電視台.md "wikilink")系播放。全51話。
 
 ## 登場人物
 
@@ -63,7 +63,7 @@
 ## 關連項目
 
   - [金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")
-  - [宇宙刑事系列](../Page/宇宙刑事.md "wikilink")
+  - [宇宙刑事](../Page/宇宙刑事.md "wikilink")系列
   - [宇宙刑事Gavan THE
     MOVIE](https://zh.wikipedia.org/wiki/宇宙刑事Gavan_THE_MOVIE "wikilink")
   - [宇宙刑事 NEXT

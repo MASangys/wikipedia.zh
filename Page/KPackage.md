@@ -1,6 +1,6 @@
-**KPackage**曾是[KDE的](../Page/KDE.md "wikilink")[软件包管理系统圖形](../Page/软件包管理系统.md "wikilink")[前端](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")。
+**KPackage**曾是[KDE](../Page/KDE.md "wikilink")的[软件包管理系统](../Page/软件包管理系统.md "wikilink")圖形[前端](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")。
 
-它支援[BSD](../Page/BSD.md "wikilink")、[Debian](https://zh.wikipedia.org/wiki/deb "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、[RPM及](../Page/RPM套件管理員.md "wikilink")[Slackware套件](../Page/Slackware.md "wikilink")。提供了一個管理及升級已安裝的套件和新套件的安裝及取得。另外，它也提供一個功能協助管理套件快取。KPackage曾是kdeadmin的一部份，並在KDE.org上開發。
+它支援[BSD](../Page/BSD.md "wikilink")、[Debian](https://zh.wikipedia.org/wiki/deb "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、[RPM及](../Page/RPM套件管理員.md "wikilink")[Slackware](../Page/Slackware.md "wikilink")套件。提供了一個管理及升級已安裝的套件和新套件的安裝及取得。另外，它也提供一個功能協助管理套件快取。KPackage曾是kdeadmin的一部份，並在KDE.org上開發。
 
 KPackage的後繼者為Shaman2\[1\]。
 

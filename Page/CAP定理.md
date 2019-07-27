@@ -1,6 +1,6 @@
-在[理論計算機科學中](../Page/理論計算機科學.md "wikilink")，**CAP定理**（CAP
+在[理論計算機科學](../Page/理論計算機科學.md "wikilink")中，**CAP定理**（CAP
 theorem），又被稱作**布魯爾定理**（Brewer's
-theorem），它指出對於一個[分布式计算系統來說](../Page/分布式计算.md "wikilink")，不可能同時滿足以下三點：\[1\]\[2\]
+theorem），它指出對於一個[分布式计算](../Page/分布式计算.md "wikilink")系統來說，不可能同時滿足以下三點：\[1\]\[2\]
 
   - 一致性（**C**onsistency） （等同于所有节点访问同一份最新的数据副本）
 
@@ -15,7 +15,7 @@ theorem），它指出對於一個[分布式计算系統來說](../Page/分布�
 
 這個定理起源於[加州大學柏克萊分校](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")（University
 of California,
-Berkeley）的計算機科學家[埃里克·布鲁尔在](../Page/埃里克·布鲁尔.md "wikilink")2000年的（PODC）上提出的一個[猜想](../Page/猜想.md "wikilink")。\[5\]
+Berkeley）的計算機科學家[埃里克·布鲁尔](../Page/埃里克·布鲁尔.md "wikilink")在2000年的（PODC）上提出的一個[猜想](../Page/猜想.md "wikilink")。\[5\]
 在2002年，[麻省理工学院](../Page/麻省理工学院.md "wikilink")（[MIT](../Page/麻省理工学院.md "wikilink")）的和發表了布魯爾猜想的證明，使之成爲一個[定理](../Page/定理.md "wikilink")。\[6\]
 
 吉尔伯特和林奇证明的CAP定理比布鲁尔设想的某种程度上更加狭义。定理讨论了在两个互相矛盾的请求到达彼此连接不通的两个不同的分布式节点的时候的处理方案。

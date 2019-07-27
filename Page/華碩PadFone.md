@@ -1,5 +1,5 @@
 **ASUS
-PadFone**是[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2012年4月20日所推出的高階[智慧型手機產品](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。其最大特色是能將手機放入專屬的平板基座，使手機變成[平板電腦](../Page/平板電腦.md "wikilink")，因此又被稱為變形手機，不但可以加大螢幕尺寸，還可以增加電量。第一代的產品甚至還有鍵盤基座，讓手機變成類似[筆記型電腦的型態](../Page/筆記型電腦.md "wikilink")，但後繼機種並沒有提供。\[1\]
+PadFone**是[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2012年4月20日所推出的高階[智慧型手機產品](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。其最大特色是能將手機放入專屬的平板基座，使手機變成[平板電腦](../Page/平板電腦.md "wikilink")，因此又被稱為變形手機，不但可以加大螢幕尺寸，還可以增加電量。第一代的產品甚至還有鍵盤基座，讓手機變成類似[筆記型電腦](../Page/筆記型電腦.md "wikilink")的型態，但後繼機種並沒有提供。\[1\]
 
 ## 技術規格\[2\]
 
@@ -26,7 +26,7 @@ PadFone**是[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikili
   - **PadFone Station**：PadFone之專屬外接螢幕配備，接上外接螢幕（10.1吋
     [TFT-LCD](https://zh.wikipedia.org/wiki/TFT-LCD "wikilink")；解析度1280x800）可成為[平板電腦](../Page/平板電腦.md "wikilink")。而外接裝置皆有配置[電池](https://zh.wikipedia.org/wiki/電池 "wikilink")，因此接上後之續航力可增加。
   - **PadFone Station
-    Dock**:PadFone之專屬[QWERTY鍵盤配備](../Page/QWERTY鍵盤.md "wikilink")，接上[QWERTY鍵盤可成為一臺小型](../Page/QWERTY鍵盤.md "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")。而外接裝置皆有配置[電池](https://zh.wikipedia.org/wiki/電池 "wikilink")，因此接上後之續航力可增加。
+    Dock**:PadFone之專屬[QWERTY鍵盤](../Page/QWERTY鍵盤.md "wikilink")配備，接上[QWERTY鍵盤](../Page/QWERTY鍵盤.md "wikilink")可成為一臺小型[筆記型電腦](../Page/筆記型電腦.md "wikilink")。而外接裝置皆有配置[電池](https://zh.wikipedia.org/wiki/電池 "wikilink")，因此接上後之續航力可增加。
   - **PadFone 藍牙電話筆**
 
 ### 預裝的應用程式
@@ -37,8 +37,8 @@ PadFone**是[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikili
 
 1.  **Super Note**：自行開發的之製圖軟體，提供影像編輯、繪製等功能。
 2.  **Watch Calender**：自行開發的行事曆軟體，採圖形化介面。
-3.  **asus@vibe**：提供[華碩自營](../Page/華碩.md "wikilink")[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
-4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩公司所提供的網路伺服器內](../Page/華碩.md "wikilink")。
+3.  **asus@vibe**：提供[華碩](../Page/華碩.md "wikilink")自營[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
+4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩](../Page/華碩.md "wikilink")公司所提供的網路伺服器內。
 
 <!-- end list -->
 

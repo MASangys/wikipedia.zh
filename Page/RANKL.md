@@ -37,12 +37,12 @@ structures無法發育](https://zh.wikipedia.org/wiki/lobulo-alveolar_mammary_st
 
 如果人體製造了過多的RANKL，會造成各式各樣的退化性骨骼疾病，例如[類風濕性關節炎](../Page/類風濕性關節炎.md "wikilink")（rheumatoid
 arthritis）和（psoriatic arthritis）。
-第一項被[FDA認可的RANKL抑制劑是](https://zh.wikipedia.org/wiki/FDA "wikilink")。denosumab抗體也可用來治療女性[更年期後的骨質疏鬆](../Page/更年期.md "wikilink")。
+第一項被[FDA認可的RANKL抑制劑是](https://zh.wikipedia.org/wiki/FDA "wikilink")。denosumab抗體也可用來治療女性[更年期](../Page/更年期.md "wikilink")後的骨質疏鬆。
 
 ### 乳癌
 
 服用含有[醋酸甲羥孕酮](../Page/醋酸甲羥孕酮.md "wikilink")（medroxyprogesterone
-acetate，MPA）的藥物（一種合成[黃體素](https://zh.wikipedia.org/wiki/黃體素 "wikilink")，可應用於避孕以及替代激素療法）會增加得到[乳癌的風險](../Page/乳癌.md "wikilink")。MPA會促使乳腺上皮中的RANKL大量分泌，而誘發乳癌。因此RANKL抑制劑可望被用作預防乳癌的藥物。\[7\]\[8\]
+acetate，MPA）的藥物（一種合成[黃體素](https://zh.wikipedia.org/wiki/黃體素 "wikilink")，可應用於避孕以及替代激素療法）會增加得到[乳癌](../Page/乳癌.md "wikilink")的風險。MPA會促使乳腺上皮中的RANKL大量分泌，而誘發乳癌。因此RANKL抑制劑可望被用作預防乳癌的藥物。\[7\]\[8\]
 
 ## 參見
 

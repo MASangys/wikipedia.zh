@@ -1,5 +1,5 @@
 **株式会社YOSHIMOTO R and C**（*YOSHIMOTO R and C Co.,
-Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，是[吉本興業的](../Page/吉本興業.md "wikilink")[子公司](../Page/子公司.md "wikilink")，總部位於[東京都](../Page/東京都.md "wikilink")[新宿区](https://zh.wikipedia.org/wiki/新宿区 "wikilink")。
+Ltd.*）是在[日本](../Page/日本.md "wikilink")的[唱片公司](../Page/唱片公司.md "wikilink")，是[吉本興業](../Page/吉本興業.md "wikilink")的[子公司](../Page/子公司.md "wikilink")，總部位於[東京都](../Page/東京都.md "wikilink")[新宿区](https://zh.wikipedia.org/wiki/新宿区 "wikilink")。
 
 ## 唱片公司
 
@@ -20,7 +20,7 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
 <!-- end list -->
 
   -
-    [NMB48的唱片公司](../Page/NMB48.md "wikilink")。
+    [NMB48](../Page/NMB48.md "wikilink")的唱片公司。
 
 ## 藝人
 
@@ -59,7 +59,7 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
 
   - [DOWN TOWN](../Page/DOWN_TOWN.md "wikilink")
 
-      - [濱田雅功與](../Page/濱田雅功.md "wikilink")[槇原敬之](https://zh.wikipedia.org/wiki/槇原敬之 "wikilink")
+      - [濱田雅功](../Page/濱田雅功.md "wikilink")與[槇原敬之](https://zh.wikipedia.org/wiki/槇原敬之 "wikilink")
         (2004年)
 
   - にけつッ\!\! (&[小林劍道](../Page/小林劍道.md "wikilink")) (2009年)
@@ -68,7 +68,7 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
 
   - [泡沫青田](../Page/青田典子.md "wikilink") (2006年)
 
-  - [藤森慎吾與AYAMAN](../Page/藤森慎吾.md "wikilink") JAPAN (2011年)
+  - [藤森慎吾](../Page/藤森慎吾.md "wikilink")與AYAMAN JAPAN (2011年)
 
   - 「[桃太郎電鐵](../Page/桃太郎電鐵系列.md "wikilink")20周年紀念專輯」
 

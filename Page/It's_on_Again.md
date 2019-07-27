@@ -1,5 +1,5 @@
 《**It's on
-Again**》是一首由美国唱片艺人[艾莉西亚·凯斯与美国说唱艺人](../Page/艾莉西亚·凯斯.md "wikilink")[肯德里克·拉玛尔合唱的歌曲](https://zh.wikipedia.org/wiki/肯德里克·拉玛尔 "wikilink")。该歌曲为2014年电影《[蜘蛛人：驚奇再起2](https://zh.wikipedia.org/wiki/蜘蛛人：驚奇再起2 "wikilink")》所写，写作者是凯斯和拉玛尔，电影配乐是[汉斯·齐默](https://zh.wikipedia.org/wiki/汉斯·齐默 "wikilink")，制作人是[法瑞尔·威廉斯](https://zh.wikipedia.org/wiki/法瑞尔·威廉斯 "wikilink")\[1\]。《It's
+Again**》是一首由美国唱片艺人[艾莉西亚·凯斯](../Page/艾莉西亚·凯斯.md "wikilink")与美国说唱艺人[肯德里克·拉玛尔合唱的歌曲](https://zh.wikipedia.org/wiki/肯德里克·拉玛尔 "wikilink")。该歌曲为2014年电影《[蜘蛛人：驚奇再起2](https://zh.wikipedia.org/wiki/蜘蛛人：驚奇再起2 "wikilink")》所写，写作者是凯斯和拉玛尔，电影配乐是[汉斯·齐默](https://zh.wikipedia.org/wiki/汉斯·齐默 "wikilink")，制作人是[法瑞尔·威廉斯](https://zh.wikipedia.org/wiki/法瑞尔·威廉斯 "wikilink")\[1\]。《It's
 on Again》是以《惊奇蜘蛛侠2》原声带首支单曲的形式于2014年3月31日发行的。
 
 ## 发行

@@ -75,4 +75,4 @@ project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受�
 
 ## IPv6
 
-若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6隧道瀏覽維基百科](../Page/IPv6.md "wikilink")，請[登入後再行編輯](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由於SixXS會在您編輯的同時，自動為頁面內的網站連結加上「\*.sixxs.org/」字尾，而此舉會導致[IPv4用戶無法正常存取網站](../Page/IPv4.md "wikilink")。所以請務必於儲存條目前去除「\*.sixxs.org/」，敬請垂注。
+若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6](../Page/IPv6.md "wikilink")隧道瀏覽維基百科，請[登入後再行編輯](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由於SixXS會在您編輯的同時，自動為頁面內的網站連結加上「\*.sixxs.org/」字尾，而此舉會導致[IPv4](../Page/IPv4.md "wikilink")用戶無法正常存取網站。所以請務必於儲存條目前去除「\*.sixxs.org/」，敬請垂注。

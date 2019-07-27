@@ -1,6 +1,6 @@
 ## A10A 胰岛素及其同系物（Insulins and analogues）
 
-### A10AB 注射用[胰岛素及其类似药物](../Page/胰岛素.md "wikilink")，速效（Insulins and analogues for injection, fast-acting）
+### A10AB 注射用[胰岛素](../Page/胰岛素.md "wikilink")及其类似药物，速效（Insulins and analogues for injection, fast-acting）
 
   -
     A10AB01 人胰岛素（Insulin (human)）
@@ -53,7 +53,7 @@
   -
     A10AF01 人胰岛素（Insulin (human)）
 
-## A10B 非胰岛素类降[血糖药](../Page/血糖.md "wikilink")（Blood glucose lowering drugs, excluding insulins）
+## A10B 非胰岛素类降[血糖](../Page/血糖.md "wikilink")药（Blood glucose lowering drugs, excluding insulins）
 
 ### A10BA [双胍类](https://zh.wikipedia.org/wiki/双胍类 "wikilink")（Biguanides）
 
@@ -64,7 +64,7 @@
     A10BA03
     [丁福明](https://zh.wikipedia.org/wiki/丁福明 "wikilink")（Buformin）
 
-### A10BB [磺胺类](../Page/磺胺.md "wikilink")，[脲衍生物](https://zh.wikipedia.org/wiki/脲 "wikilink")（Sulfonamide, urea derivatives）
+### A10BB [磺胺](../Page/磺胺.md "wikilink")类，[脲衍生物](https://zh.wikipedia.org/wiki/脲 "wikilink")（Sulfonamide, urea derivatives）
 
   -
     A10BB01
@@ -103,9 +103,9 @@
 
   -
     A10BD01
-    [苯乙双胍和](https://zh.wikipedia.org/wiki/苯乙双胍 "wikilink")[磺胺类](../Page/磺胺.md "wikilink")（Phenformin
+    [苯乙双胍和](https://zh.wikipedia.org/wiki/苯乙双胍 "wikilink")[磺胺](../Page/磺胺.md "wikilink")类（Phenformin
     and sulfonamides）
-    A10BD02 [二甲双胍和磺胺类](../Page/二甲双胍.md "wikilink")（Metformin and
+    A10BD02 [二甲双胍](../Page/二甲双胍.md "wikilink")和磺胺类（Metformin and
     sulfonamides）
     A10BD03 二甲双胍和[罗格列酮](../Page/罗格列酮.md "wikilink")（Metformin and
     rosiglitazone）
@@ -189,9 +189,9 @@
     A10BX08
     [米格列奈](https://zh.wikipedia.org/wiki/米格列奈 "wikilink")（Mitiglinide）
 
-## A10X [糖尿病用其它药](../Page/糖尿病.md "wikilink")（Other drugs used in diabetes）
+## A10X [糖尿病](../Page/糖尿病.md "wikilink")用其它药（Other drugs used in diabetes）
 
-### A10XA [醛糖还原酶抑制药](../Page/醛糖还原酶.md "wikilink")（Aldose reductase inhibitors）
+### A10XA [醛糖还原酶](../Page/醛糖还原酶.md "wikilink")抑制药（Aldose reductase inhibitors）
 
   -
     A10XA01

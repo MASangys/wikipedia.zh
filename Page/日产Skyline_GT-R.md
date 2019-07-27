@@ -1,8 +1,8 @@
 **日产Skyline GT-R**（Nissan Skyline
-GT-R）是[日產Skyline的](../Page/日產Skyline.md "wikilink")[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")[跑車版本](https://zh.wikipedia.org/wiki/跑車 "wikilink")。\[1\]1969至1974，之后1989至2002，[日產汽車曾经生产过享誉全球的高性能Skyline系列](../Page/日產汽車.md "wikilink")，称为日产Skyline
+GT-R）是[日產Skyline](../Page/日產Skyline.md "wikilink")的[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")[跑車版本](https://zh.wikipedia.org/wiki/跑車 "wikilink")。\[1\]1969至1974，之后1989至2002，[日產汽車](../Page/日產汽車.md "wikilink")曾经生产过享誉全球的高性能Skyline系列，称为日产Skyline
 GT-R。这个系列在赛道，特别是街道赛车上赢得大量好评。由於日產GT-R是以速度見稱，因此被誉为街道赛车"战神"。但因為只有右駕版，所以海外市場局限於英國、香港、澳大利亞等地區。
 
-在日本[動漫中](../Page/動漫.md "wikilink")，著名的《[頭文字D](../Page/頭文字D.md "wikilink")》裡中里毅
+在日本[動漫](../Page/動漫.md "wikilink")中，著名的《[頭文字D](../Page/頭文字D.md "wikilink")》裡中里毅
 ( BNR32 ) 、星野好造（神之腳 ,BNR34）和北条凜（死神 ,
 BNR32）就是該車款的駕駛者\[2\]。另外在《[灣岸競速](../Page/灣岸競速.md "wikilink")》中也出現許多BNR32、BCNR33和少數的BNR34。
 

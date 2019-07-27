@@ -12,7 +12,7 @@ Street」打造的第三組女子團體，團名「**GEM**」有「**[寶石](..
 音樂風格可以分為「**白GEM**」「**黒GEM**」兩個類別。
 
   - **白GEM**：流行偶像路線（偶像性質較高的樂曲）
-  - **黒GEM**：[電子舞曲(club music)路線](../Page/電子舞曲.md "wikilink")（藝術性較高的樂曲）
+  - **黒GEM**：[電子舞曲 music)路線](../Page/電子舞曲.md "wikilink")(club（藝術性較高的樂曲）
 
 ## 簡歷
 
@@ -122,7 +122,7 @@ Touch的原成員<br />
 （R232/G223/B212）</p></td>
 <td><p><a href="../Page/珍珠.md" title="wikilink">珍珠<br />
 (Pearl)</a></p></td>
-<td><p>妹妹是<a href="../Page/虎魚組.md" title="wikilink">虎魚組前成員</a><br />
+<td><p>妹妹是<a href="../Page/虎魚組.md" title="wikilink">虎魚組</a>前成員<br />
 在『第4回全日本動漫曲歌唱選拔賽』為決賽選手<br />
 原w-Street NAGOYA</p></td>
 </tr>
@@ -225,7 +225,7 @@ Touch的原成員<br />
 <td><p>最年輕成員，加入團體前非iDOL Street所屬<br />
 『民謠民舞少年少女東京大會』優勝（2015年）<br />
 代表色及代表寶石原先為<br />
-銀色及<a href="../Page/石英.md" title="wikilink">石英(Milky quartz)</a><br />
+銀色及<a href="../Page/石英.md" title="wikilink">石英 quartz)</a>(Milky<br />
 （在2016/11/20的定期公演宣布更換代表色及寶石）</p></td>
 </tr>
 </tbody>
@@ -293,7 +293,7 @@ hanarichu原成員<br />
 (Rose quartz)</a></p></td>
 <td><p>初始成員<br />
 於2013年6月11日的最後篩選落選<br />
-現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS成員</a><br />
+現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員<br />
 原-Street TOKYO</p></td>
 </tr>
 <tr class="even">
@@ -308,7 +308,7 @@ hanarichu原成員<br />
 (Diamond)</a></p></td>
 <td><p>初始成員<br />
 於2013年6月11日的最後篩選落選<br />
-現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS成員</a><br />
+現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員<br />
 原w-Street FUKUOKA<br />
 →原e-Street TOKYO</p></td>
 </tr>

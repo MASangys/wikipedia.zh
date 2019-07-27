@@ -9,7 +9,7 @@ Laure Duperré。
 | [Chopin_nocturne_op48_1a.png](https://zh.wikipedia.org/wiki/File:Chopin_nocturne_op48_1a.png "fig:Chopin_nocturne_op48_1a.png") | [Chopin102-001q.jpg](https://zh.wikipedia.org/wiki/File:Chopin102-001q.jpg "fig:Chopin102-001q.jpg") |
 
 夜曲**Op. 48, No.
-1**是[C小調](https://zh.wikipedia.org/wiki/C小調 "wikilink")，4/4拍，[緩板](https://zh.wikipedia.org/wiki/行板 "wikilink")，共77小節。到了第25小節樂曲進入[C大調的第二部分](../Page/C大調.md "wikilink")，比開首略慢(poco
+1**是[C小調](https://zh.wikipedia.org/wiki/C小調 "wikilink")，4/4拍，[緩板](https://zh.wikipedia.org/wiki/行板 "wikilink")，共77小節。到了第25小節樂曲進入[C大調](../Page/C大調.md "wikilink")的第二部分，比開首略慢(poco
 più lento)，到第49小節回到A段，並標記加倍速度(doppio movimento agitato)\[2\]。 {{-}}
 
 ## Op. 48, No. 2

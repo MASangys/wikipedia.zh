@@ -1,8 +1,8 @@
-**谷歌粤语输入法**是由[Google开发](../Page/Google.md "wikilink")，于2013年10月7日发布的免费[粤语输入法](../Page/粤语.md "wikilink")。谷歌粤语输入法可运行于[Android
+**谷歌粤语输入法**是由[Google](../Page/Google.md "wikilink")开发，于2013年10月7日发布的免费[粤语](../Page/粤语.md "wikilink")输入法。谷歌粤语输入法可运行于[Android
 2.3.3及以上版本的Android操作系统中](https://zh.wikipedia.org/wiki/Android版本历史 "wikilink")。
 
 約在2018年開始，谷歌粤语输入法從[Google
-Play商店中下架](../Page/Google_Play.md "wikilink")，估計已經停止開發。但同年，同樣由Google開發之[Gboard推出更新版](../Page/Gboard.md "wikilink")，當中加入[倉頡](https://zh.wikipedia.org/wiki/倉頡輸入法 "wikilink")、簡易倉頡（[速成](https://zh.wikipedia.org/wiki/速成輸入法 "wikilink")）和[粵語拼音](https://zh.wikipedia.org/wiki/粵語拼音 "wikilink")（連語音輸入）和筆劃等輸入方法\[1\]\[2\]。
+Play商店中下架](../Page/Google_Play.md "wikilink")，估計已經停止開發。但同年，同樣由Google開發之[Gboard](../Page/Gboard.md "wikilink")推出更新版，當中加入[倉頡](https://zh.wikipedia.org/wiki/倉頡輸入法 "wikilink")、簡易倉頡（[速成](https://zh.wikipedia.org/wiki/速成輸入法 "wikilink")）和[粵語拼音](https://zh.wikipedia.org/wiki/粵語拼音 "wikilink")（連語音輸入）和筆劃等輸入方法\[1\]\[2\]。
 
 ## 特色
 

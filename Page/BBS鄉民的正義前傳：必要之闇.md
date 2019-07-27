@@ -1,12 +1,12 @@
-《**BBS鄉民的正義前傳：必要之闇**》（）是由台灣導演林世勇所執導的電影《[BBS鄉民的正義](../Page/BBS鄉民的正義.md "wikilink")》前傳，於2013年11月15日於網路上映，改編自台灣[BBS網路事件](../Page/BBS.md "wikilink")。
+《**BBS鄉民的正義前傳：必要之闇**》（）是由台灣導演林世勇所執導的電影《[BBS鄉民的正義](../Page/BBS鄉民的正義.md "wikilink")》前傳，於2013年11月15日於網路上映，改編自台灣[BBS](../Page/BBS.md "wikilink")網路事件。
 
 ## 劇情
 
-嫌犯石劭軒（[高英軒飾](../Page/高英軒.md "wikilink")）的女友白文琪（[林玟誼飾](../Page/林玟誼.md "wikilink")）為了籌錢，被強迫拍攝[裸照](https://zh.wikipedia.org/wiki/裸照 "wikilink")。
+嫌犯石劭軒（[高英軒](../Page/高英軒.md "wikilink")飾）的女友白文琪（[林玟誼](../Page/林玟誼.md "wikilink")飾）為了籌錢，被強迫拍攝[裸照](https://zh.wikipedia.org/wiki/裸照 "wikilink")。
 
 攝影公司­員工恣意將照片散佈在網路，造成白文琪憂鬱自殺。石劭軒為了幫女友報仇而入侵警方系統，­想要找出並殺害所有攝影公司員工。
 
-駭客貝偉倫（[金勤飾](../Page/金勤.md "wikilink")）被警官馮媛玉（[小蠻飾](https://zh.wikipedia.org/wiki/王婧喬 "wikilink")）要求協助調查這一連串的殺人駭客事件，同­時將面臨史上最棘手的網路遙控炸彈。
+駭客貝偉倫（[金勤](../Page/金勤.md "wikilink")飾）被警官馮媛玉（[小蠻飾](https://zh.wikipedia.org/wiki/王婧喬 "wikilink")）要求協助調查這一連串的殺人駭客事件，同­時將面臨史上最棘手的網路遙控炸彈。
 
 ## 演員
 

@@ -1,9 +1,9 @@
 「**I
-WISH**」是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第10张[单曲](../Page/单曲.md "wikilink")。於2000年9月6日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+WISH**」是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第10张[单曲](../Page/单曲.md "wikilink")。於2000年9月6日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
-  - 「I WISH」是[TBS電視台節目](../Page/TBS電視台.md "wikilink")「シドニー五輪」的主題曲。
+  - 「I WISH」是[TBS電視台](../Page/TBS電視台.md "wikilink")節目「シドニー五輪」的主題曲。
   - 此單曲只有「CD ONLY」1個版本。
   - 在9月18日於公信榜單曲週排行榜取得第1位，繼「[快樂夏季婚禮](../Page/快樂夏季婚禮.md "wikilink")」後第4張公信榜每周銷量排名第一的單曲。
   - 在第50回[NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")（[快樂夏季婚禮](../Page/快樂夏季婚禮.md "wikilink")

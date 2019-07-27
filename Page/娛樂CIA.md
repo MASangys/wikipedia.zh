@@ -1,4 +1,4 @@
-《**娛樂CIA**》（）是由[傳訊媒體集團旗下的](https://zh.wikipedia.org/wiki/傳訊媒體集團 "wikilink")[傳訊媒體製作有限公司全資製作](https://zh.wikipedia.org/wiki/傳訊媒體製作有限公司 "wikilink")，集資訊、娛樂及綜藝於一身的[亞洲電視節目](../Page/亞洲電視.md "wikilink")，並安排由[傳訊媒體廣告有限公司贊助](https://zh.wikipedia.org/wiki/傳訊媒體廣告有限公司 "wikilink")，在2012年8月13日起逢星期一至日於[本港台及](../Page/本港台.md "wikilink")[亞洲台播映](../Page/亞洲電視亞洲台.md "wikilink")。
+《**娛樂CIA**》（）是由[傳訊媒體集團旗下的](https://zh.wikipedia.org/wiki/傳訊媒體集團 "wikilink")[傳訊媒體製作有限公司全資製作](https://zh.wikipedia.org/wiki/傳訊媒體製作有限公司 "wikilink")，集資訊、娛樂及綜藝於一身的[亞洲電視](../Page/亞洲電視.md "wikilink")節目，並安排由[傳訊媒體廣告有限公司贊助](https://zh.wikipedia.org/wiki/傳訊媒體廣告有限公司 "wikilink")，在2012年8月13日起逢星期一至日於[本港台](../Page/本港台.md "wikilink")及[亞洲台播映](../Page/亞洲電視亞洲台.md "wikilink")。
 
 由於傳訊媒體製作有限公司不滿有人干預[編輯自主令節目難以保持水準](https://zh.wikipedia.org/wiki/編輯自主 "wikilink")，故該公司向亞洲電視發出[律師信](https://zh.wikipedia.org/wiki/律師信 "wikilink")，通知於2013年2月27日[腰斬節目及追討賠償](../Page/腰斬_\(術語\).md "wikilink")。
 
@@ -97,13 +97,13 @@
   - 2012年8月9日，亞視高層聯同傳訊媒體集團高層於亞視大埔總台九號錄影廠舉行《娛樂CIA》開鑼儀式。出席人士包括傳訊媒體集團執行董事兼行政總裁蕭孝明、傳訊媒體集團營運總裁李子頌、亞視執行董事[盛品儒](../Page/盛品儒.md "wikilink")、亞視高級副總裁[葉家寶](../Page/葉家寶.md "wikilink")、以及眾多節目主持。\[1\]
   - 2012年8月13日，傳訊媒體集團在[海逸君綽酒店為](https://zh.wikipedia.org/wiki/海逸君綽酒店 "wikilink")《娛樂CIA》舉行盛大首播晚宴，招待超過200位嘉賓，一起見證節目首播及觀賞首集節目。
   - 2012年8月10日開始，作為期三周到港、九、新界，派專人到10個地區派發「阿媽醒Summer 熱爆Fun」100萬港元大抽獎宣傳單張。
-  - 2012年8月25日至31日，於[荃灣](../Page/荃灣.md "wikilink")[愉景新城商場設置推廣電視宣傳專櫃](../Page/愉景新城.md "wikilink")，全日播放節目精選片段予遊人觀賞。
+  - 2012年8月25日至31日，於[荃灣](../Page/荃灣.md "wikilink")[愉景新城](../Page/愉景新城.md "wikilink")商場設置推廣電視宣傳專櫃，全日播放節目精選片段予遊人觀賞。
   - 2012年9月8日，舉行「阿媽醒Summer
     熱爆Fun」100萬港元大抽獎遊戲巴士巡遊宣傳，同日於[尖沙咀](../Page/尖沙咀.md "wikilink")[活方商場設置推廣電視專櫃](https://zh.wikipedia.org/wiki/活方商場 "wikilink")，作為期一個月全日播放節目精選片段予遊人觀賞。
   - 2012年9月15日，於荃灣愉景新城商場舉行「娛樂CIA滿月暨阿媽醒Summer熱爆Fun大衝刺」大型戶外活動，吸引達200名觀眾欣賞。
-  - 2012年9月15日，由新任監製[鄧特希將節目內容改善為現時播放的新安排](../Page/鄧特希.md "wikilink")。
+  - 2012年9月15日，由新任監製[鄧特希](../Page/鄧特希.md "wikilink")將節目內容改善為現時播放的新安排。
   - 2013年2月27日：由於因為不滿有人干預編輯自主，令節目難以保持水準，故傳訊媒體製作有限公司已向亞視發出律師信，通知腰斬節目及追討賠償。\[2\]
-  - 2013年3月21日，主持[盧覓雪](../Page/盧覓雪.md "wikilink")、[鄭啟泰](../Page/鄭啟泰.md "wikilink")、[路芙](../Page/路芙.md "wikilink")、[王志安](../Page/王志安.md "wikilink")、[陳樹鵬等人到灣仔](../Page/陳樹鵬.md "wikilink")[小額錢債審裁處向亞視追討欠薪](../Page/小額錢債審裁處.md "wikilink")。
+  - 2013年3月21日，主持[盧覓雪](../Page/盧覓雪.md "wikilink")、[鄭啟泰](../Page/鄭啟泰.md "wikilink")、[路芙](../Page/路芙.md "wikilink")、[王志安](../Page/王志安.md "wikilink")、[陳樹鵬](../Page/陳樹鵬.md "wikilink")等人到灣仔[小額錢債審裁處](../Page/小額錢債審裁處.md "wikilink")向亞視追討欠薪。
 
 ## 播出時間
 

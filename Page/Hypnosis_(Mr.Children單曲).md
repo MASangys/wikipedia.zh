@@ -1,4 +1,4 @@
-《**hypnosis**》，[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")4首只提供網上下載的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月11日開放手機片段下載，8月29日開放手機全曲下載。\[1\]
+《**hypnosis**》，[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第4首只提供網上下載的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月11日開放手機片段下載，8月29日開放手機全曲下載。\[1\]
 
 ## 概要
 
@@ -12,7 +12,7 @@ day／pieces](https://zh.wikipedia.org/wiki/祈禱_～眼淚的痕跡/End_of_the
         & [Mr.Children](../Page/Mr.Children.md "wikilink")
     <!-- end list -->
       -
-        [井上真央主演的](../Page/井上真央.md "wikilink")[日本電視台系列](../Page/日本電視台.md "wikilink")《[特官
+        [井上真央](../Page/井上真央.md "wikilink")主演的[日本電視台](../Page/日本電視台.md "wikilink")系列《[特官
         -特別國稅徵收官-](https://zh.wikipedia.org/wiki/特官_-特別國稅徵收官- "wikilink")》的主題曲；
         Mr.Children自《[HANABI](../Page/HANABI_\(Mr.Children單曲\).md "wikilink")》兩年零四個月以來再次為電視劇擔當主題曲，也是他們第一次只提供網上下載的電視劇主題曲；
         在演唱會「[ap bank](https://zh.wikipedia.org/wiki/ap_bank "wikilink")

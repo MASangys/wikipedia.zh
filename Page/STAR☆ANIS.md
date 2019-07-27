@@ -276,7 +276,7 @@ Chara」可以替代美月的位置）。美月為了成立團隊而設立大形
   - 紫吹蘭（紫吹 蘭（しぶき らん））
     莓與葵的同班同學。
     第一人稱『本人』（あたし）。
-    是莓和葵的同級好友，有著大姐姐性格的[傲嬌少女](../Page/傲嬌.md "wikilink")。
+    是莓和葵的同級好友，有著大姐姐性格的[傲嬌](../Page/傲嬌.md "wikilink")少女。
     已有15年的專業偶像經驗。在未入讀星光學園之前，在小時候已經是童星，進出藝能界，所以有著非常專頁的態度。
     因為好友真子的退學而關閉自己的心扉，平日多是獨來獨往，在參加天橋海選\[7\]一事之後，便放開過去，與莓、葵成為不可分割的好朋友。
     小時候曾經擔任男模特兒而被別人誤會自己是男生，後來偶然遇到了「SPICY
@@ -574,7 +574,7 @@ Stage」員工，後來更結合成為商店型的偶像組合，隨著『星夢
 
 2.  在去美國其間，以食物的讀音學英文。
 
-3.  參加教會的[福音合唱團](https://zh.wikipedia.org/wiki/福音 "wikilink")；參加[街舞比賽](../Page/街舞.md "wikilink")、在[曼哈頓販賣便當](../Page/曼哈頓.md "wikilink")；清潔[自由女神像](../Page/自由女神像.md "wikilink")；參與[美軍訓練](https://zh.wikipedia.org/wiki/美軍 "wikilink")；參加偶像活動訓練營；與大海中的殺人鯨成為好朋友，並為牠編排舞蹈；由[華盛頓所委派的任務而學會潛行術](https://zh.wikipedia.org/wiki/華盛頓 "wikilink")；到[馬戲團](https://zh.wikipedia.org/wiki/馬戲團 "wikilink")（穿著獅子的戲服）跳火圈；扮演聖誕之星（聖誕樹頂部裝飾）等等
+3.  參加教會的[福音合唱團](https://zh.wikipedia.org/wiki/福音 "wikilink")；參加[街舞](../Page/街舞.md "wikilink")比賽、在[曼哈頓](../Page/曼哈頓.md "wikilink")販賣便當；清潔[自由女神像](../Page/自由女神像.md "wikilink")；參與[美軍訓練](https://zh.wikipedia.org/wiki/美軍 "wikilink")；參加偶像活動訓練營；與大海中的殺人鯨成為好朋友，並為牠編排舞蹈；由[華盛頓所委派的任務而學會潛行術](https://zh.wikipedia.org/wiki/華盛頓 "wikilink")；到[馬戲團](https://zh.wikipedia.org/wiki/馬戲團 "wikilink")（穿著獅子的戲服）跳火圈；扮演聖誕之星（聖誕樹頂部裝飾）等等
 
 4.  香港TVB第16集公佈名字為「甜心之箭」。
 

@@ -9,18 +9,18 @@ XP于](../Page/Windows_XP.md "wikilink")2001年10月25日发布零售版之日�
 2000等旧版本Windows系统的使用者](../Page/Windows_2000.md "wikilink")，其中最常见的三条批评语言是“不适应新界面”、“硬件要求高”以及“需要付费才能使用”。
 
 因为运行Windows
-XP的电脑硬件[中央处理器最低](../Page/中央处理器.md "wikilink")233MHz、[内存最低](https://zh.wikipedia.org/wiki/内存 "wikilink")64MB，而在当时中国大陆的电脑并没有多少可以运行Windows
+XP的电脑硬件[中央处理器](../Page/中央处理器.md "wikilink")最低233MHz、[内存最低](https://zh.wikipedia.org/wiki/内存 "wikilink")64MB，而在当时中国大陆的电脑并没有多少可以运行Windows
 XP或者刚刚接近Windows XP最低配置的。相比[Windows
-98只需](../Page/Windows_98.md "wikilink")66MHz的[中央处理器以及](../Page/中央处理器.md "wikilink")16MB的[内存即可运行](https://zh.wikipedia.org/wiki/内存 "wikilink")，这无疑让当时的用户支持[Windows
+98只需](../Page/Windows_98.md "wikilink")66MHz的[中央处理器](../Page/中央处理器.md "wikilink")以及16MB的[内存即可运行](https://zh.wikipedia.org/wiki/内存 "wikilink")，这无疑让当时的用户支持[Windows
 98等旧版本系统](../Page/Windows_98.md "wikilink")。其次由于Windows
 XP以下版本的操作系统无需激活即可使用，而Windows
-XP需要[产品激活才可以使用](../Page/产品激活.md "wikilink")，更使得人们不愿意花费大量金钱换系统。
+XP需要[产品激活](../Page/产品激活.md "wikilink")才可以使用，更使得人们不愿意花费大量金钱换系统。
 
 ## 被广泛使用与被大量盗版
 
-随着时代的发展，66MHz的[中央处理器以及](../Page/中央处理器.md "wikilink")16MB的[内存已经无法满足电脑使用者日常的需求](https://zh.wikipedia.org/wiki/内存 "wikilink")，所以许多用户购买了新电脑，但在初期还未有许多人使用[Windows
+随着时代的发展，66MHz的[中央处理器](../Page/中央处理器.md "wikilink")以及16MB的[内存已经无法满足电脑使用者日常的需求](https://zh.wikipedia.org/wiki/内存 "wikilink")，所以许多用户购买了新电脑，但在初期还未有许多人使用[Windows
 XP](../Page/Windows_XP.md "wikilink")，主要原因之一是Windows
-XP需要[产品激活才可以使用](../Page/产品激活.md "wikilink")，用户不愿意花费大量金钱。
+XP需要[产品激活](../Page/产品激活.md "wikilink")才可以使用，用户不愿意花费大量金钱。
 
 但是随后逐渐有了破解版系统，在中国大陆比较著名的是「番茄花园」、「萝卜家园」、「雨林木风」等。大多数都是使用[Ghost做成压缩包裝的Windows](../Page/諾頓魅影系統.md "wikilink")
 XP，是将安装完毕之后的Windows

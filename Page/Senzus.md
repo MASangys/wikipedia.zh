@@ -1,4 +1,4 @@
-**Senzus**是一個成立於1978年的[斯洛伐克樂團](../Page/斯洛伐克.md "wikilink")，目前其成員有帕沃爾‧佩施爾(Pavol
+**Senzus**是一個成立於1978年的[斯洛伐克](../Page/斯洛伐克.md "wikilink")樂團，目前其成員有帕沃爾‧佩施爾(Pavol
 Peschl，貝斯手、演唱)、伊果‧費凱特(Igor Fekete，鍵盤手、喇叭手、演唱)和羅伯特‧穆爾瓦(Robert
 Mrva，鼓手、演唱)三人。
 

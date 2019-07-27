@@ -1,4 +1,4 @@
-《**Amazing**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[葉佩雯的第四張唱片](../Page/葉佩雯.md "wikilink")、第二張音樂專輯，於2000年2月發行。
+《**Amazing**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[葉佩雯](../Page/葉佩雯.md "wikilink")的第四張唱片、第二張音樂專輯，於2000年2月發行。
 
 ## 曲目
 

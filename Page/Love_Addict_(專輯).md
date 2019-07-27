@@ -1,5 +1,5 @@
 《**Love
-Addict**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[劉美君的第](../Page/劉美君.md "wikilink")23張個人唱片、第2張國語專輯、第1張翻唱專輯，於2011年6月20日推出。
+Addict**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[劉美君](../Page/劉美君.md "wikilink")的第23張個人唱片、第2張國語專輯、第1張翻唱專輯，於2011年6月20日推出。
 
 ## 曲目資料
 

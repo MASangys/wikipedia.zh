@@ -1,8 +1,8 @@
-《**URAKARA**》是[東京電視台](../Page/東京電視台.md "wikilink")[電視劇24系列的喜劇](../Page/電視劇24.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，也是該時段首次有国際交流的電視劇，於2011年1月14日開始逢[當地時間星期五](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")24:12-24:53播出。
+《**URAKARA**》是[東京電視台](../Page/東京電視台.md "wikilink")[電視劇24](../Page/電視劇24.md "wikilink")系列的喜劇[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，也是該時段首次有国際交流的電視劇，於2011年1月14日開始逢[當地時間星期五](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")24:12-24:53播出。
 
 ## 概要
 
-以2010年在日本出道的韓國偶像[Kara為主演而制作的電視劇](../Page/Kara.md "wikilink")，韓國地區在2011年1月末於[CJ
+以2010年在日本出道的韓國偶像[Kara](../Page/Kara.md "wikilink")為主演而制作的電視劇，韓國地區在2011年1月末於[CJ
 E\&M旗下有線電視頻道](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN的](../Page/TVN.md "wikilink")《》播放。
 
 ## 角色

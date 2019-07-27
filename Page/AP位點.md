@@ -1,8 +1,8 @@
 [Site_AP.gif](https://zh.wikipedia.org/wiki/File:Site_AP.gif "fig:Site_AP.gif")
-在[生物化學和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[分子遺傳學之中](https://zh.wikipedia.org/wiki/分子遺傳學 "wikilink")，**AP位點**(**缺嘌呤/缺嘧啶位點**)，也被稱作是**缺鹼基位點**，通常位在由[嘌呤或是](../Page/嘌呤.md "wikilink")[嘧啶組成的](../Page/嘧啶.md "wikilink")[DNA之內](https://zh.wikipedia.org/wiki/DNA "wikilink")(也有極小機率出現在双链[RNA之內](https://zh.wikipedia.org/wiki/RNA "wikilink"))，不是自發的話就是由[DNA損傷造成](https://zh.wikipedia.org/wiki/DNA損傷 "wikilink")。在一般生理條件下，一個細胞每天估計產生約10,000個缺嘌呤位點和500個缺嘧啶位點。\[1\]
+在[生物化學和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[分子遺傳學之中](https://zh.wikipedia.org/wiki/分子遺傳學 "wikilink")，**AP位點**(**缺嘌呤/缺嘧啶位點**)，也被稱作是**缺鹼基位點**，通常位在由[嘌呤](../Page/嘌呤.md "wikilink")或是[嘧啶](../Page/嘧啶.md "wikilink")組成的[DNA之內](https://zh.wikipedia.org/wiki/DNA "wikilink")(也有極小機率出現在双链[RNA之內](https://zh.wikipedia.org/wiki/RNA "wikilink"))，不是自發的話就是由[DNA損傷造成](https://zh.wikipedia.org/wiki/DNA損傷 "wikilink")。在一般生理條件下，一個細胞每天估計產生約10,000個缺嘌呤位點和500個缺嘧啶位點。\[1\]
 
 AP位點能夠由自發的[去嘌呤作用產生](https://zh.wikipedia.org/wiki/去嘌呤作用 "wikilink")，但也可能充當[鹼基切除修復機制中的中間產物](https://zh.wikipedia.org/wiki/鹼基切除修復 "wikilink")。\[2\]在這過程之中，[DNA
-糖苷酶識別受損的鹼基](https://zh.wikipedia.org/wiki/DNA_糖苷酶 "wikilink")，並切下N-糖苷鍵結，使鹼基脫去產生AP位點。不同的N-糖苷酶能夠分別不同類型的損傷，其中包含過氧化或是甲基化的鹼基，或是[尿嘧啶出現在DNA之中](../Page/尿嘧啶.md "wikilink")。AP位點在這之後被[AP
+糖苷酶識別受損的鹼基](https://zh.wikipedia.org/wiki/DNA_糖苷酶 "wikilink")，並切下N-糖苷鍵結，使鹼基脫去產生AP位點。不同的N-糖苷酶能夠分別不同類型的損傷，其中包含過氧化或是甲基化的鹼基，或是[尿嘧啶](../Page/尿嘧啶.md "wikilink")出現在DNA之中。AP位點在這之後被[AP
 內切酶切除](https://zh.wikipedia.org/wiki/AP_內切酶 "wikilink"),
 生成3'羥基和5'磷酸脫氧核糖的末端(參見[DNA
 結構](https://zh.wikipedia.org/wiki/DNA_結構 "wikilink"))。在另一種方法之中，雙功能的糖基化酶-裂解酶能切除AP位點，生成一個5'磷酸鹽並鄰接著一個3'α,β-未飽和的醛類。兩種機制最後都造成單股DNA斷裂，之後被長-補丁和短-補丁[鹼基切除修復的機制所補齊](https://zh.wikipedia.org/wiki/鹼基切除修復 "wikilink")，形成雙股的DNA。

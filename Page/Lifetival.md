@@ -1,10 +1,10 @@
-**Lifetival**是[香港](../Page/香港.md "wikilink")[Now寬頻電視的一個電視節目](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，2009年8月29日於[Now香港台首播](../Page/Now香港台.md "wikilink")。2011年2月轉到[Now101台播映](https://zh.wikipedia.org/wiki/Now101台 "wikilink")，逢星期四晚上10時半於Now101台播出，並於Now自選服務提供節目重溫。
+**Lifetival**是[香港](../Page/香港.md "wikilink")[Now寬頻電視的一個電視節目](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，2009年8月29日於[Now香港台](../Page/Now香港台.md "wikilink")首播。2011年2月轉到[Now101台播映](https://zh.wikipedia.org/wiki/Now101台 "wikilink")，逢星期四晚上10時半於Now101台播出，並於Now自選服務提供節目重溫。
 
-Lifetival的名字有「天天過節」的意思，節目內容包括由主持人親身到香港及世界各地，介紹[時尚](https://zh.wikipedia.org/wiki/時尚 "wikilink")、潮流、[珠寶首飾](../Page/珠寶.md "wikilink")\[1\]，訪問著名[品牌及著名藝人](../Page/品牌.md "wikilink")、介紹美食及吃喝玩樂新玩意等\[2\]。
+Lifetival的名字有「天天過節」的意思，節目內容包括由主持人親身到香港及世界各地，介紹[時尚](https://zh.wikipedia.org/wiki/時尚 "wikilink")、潮流、[珠寶](../Page/珠寶.md "wikilink")首飾\[1\]，訪問著名[品牌](../Page/品牌.md "wikilink")及著名藝人、介紹美食及吃喝玩樂新玩意等\[2\]。
 
 ## Cinderella's Story
 
-2011年7月，[張柏芝曾為Lifetival節目到](../Page/張柏芝.md "wikilink")[意大利](../Page/意大利.md "wikilink")[米蘭拍攝特別篇](../Page/米蘭.md "wikilink")《Lifetival-Cinderella's
+2011年7月，[張柏芝](../Page/張柏芝.md "wikilink")曾為Lifetival節目到[意大利](../Page/意大利.md "wikilink")[米蘭](../Page/米蘭.md "wikilink")拍攝特別篇《Lifetival-Cinderella's
 Story》，於節目中擔任時裝[模特兒](../Page/模特兒.md "wikilink")，並接受專業模特兒訓練，2011年8月6日起播出\[3\]\[4\]。
 
 ## 主持

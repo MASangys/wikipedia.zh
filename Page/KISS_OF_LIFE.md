@@ -1,10 +1,10 @@
 《**KISS OF
-LIFE**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年5月11日發行。
+LIFE**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年5月11日發行。
 
 ## 概述
 
   - [平井堅](../Page/平井堅.md "wikilink")2001年第二張單曲，也是第四張專輯《[歷久彌堅](https://zh.wikipedia.org/wiki/gaining_through_losing "wikilink")》的先行單曲。
-  - [江角真紀子](../Page/江角真紀子.md "wikilink")、[米倉涼子及](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")[藤木直人主演日劇](../Page/藤木直人.md "wikilink")《愛情革命》主題歌。
+  - [江角真紀子](../Page/江角真紀子.md "wikilink")、[米倉涼子及](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")[藤木直人](../Page/藤木直人.md "wikilink")主演日劇《愛情革命》主題歌。
   - 平井堅自1995年出道以來第二次搭配日劇宣傳的正規單曲。
   - 首週銷售量突破20萬張，為平井堅個人在Oricon單周最高銷量記錄。
 

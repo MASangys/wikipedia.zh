@@ -1,4 +1,4 @@
-豐田Yaris，日本同型車稱為**Vitz**（），中文譯名為**雅力士**，是[豐田自](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")1999年開始生產的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，其主要對手為[日產March](../Page/日產March.md "wikilink")、[本田Fit](https://zh.wikipedia.org/wiki/本田Fit "wikilink")、[福特Fiesta及](../Page/福特Fiesta.md "wikilink")[福斯Polo等](https://zh.wikipedia.org/wiki/福斯Polo "wikilink")。
+豐田Yaris，日本同型車稱為**Vitz**（），中文譯名為**雅力士**，是[豐田自](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")1999年開始生產的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，其主要對手為[日產March](../Page/日產March.md "wikilink")、[本田Fit](https://zh.wikipedia.org/wiki/本田Fit "wikilink")、[福特Fiesta](../Page/福特Fiesta.md "wikilink")及[福斯Polo等](https://zh.wikipedia.org/wiki/福斯Polo "wikilink")。
 
 「Yaris」的名稱來自[查里忒斯](https://zh.wikipedia.org/wiki/查里忒斯 "wikilink")（Charites）的單數型「Charis」，查里忒斯是[希臘神話中代表](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")[美麗與](https://zh.wikipedia.org/wiki/美麗 "wikilink")[魅力的三個女神](https://zh.wikipedia.org/wiki/魅力 "wikilink")。\[1\]Yaris在中文地區有時會暱稱「小鴨」或「小鴨鴨」。
 

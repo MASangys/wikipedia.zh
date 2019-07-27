@@ -17,7 +17,7 @@ One遊戲](../Page/Xbox_One.md "wikilink")。
 
 ### Kinect支援
 
-  - **是**意味着必須使用[Kinect才可以遊玩此遊戲](../Page/Kinect.md "wikilink")
+  - **是**意味着必須使用[Kinect](../Page/Kinect.md "wikilink")才可以遊玩此遊戲
   - **支援**意味着主要用遊戲手柄控制，但可以使用Kinect進行某些操作
   - **不是**意味着遊戲僅能用手柄操作
 
@@ -360,7 +360,7 @@ Studio Wildcard</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Dark Souls Remastered <a href="../Page/黑暗靈魂.md" title="wikilink">黑暗靈魂重製版</a></p></td>
+<td><p>Dark Souls Remastered <a href="../Page/黑暗靈魂.md" title="wikilink">黑暗靈魂</a>重製版</p></td>
 <td><p>動作冒險</p></td>
 <td><p><a href="../Page/FromSoftware.md" title="wikilink">FromSoftware</a></p></td>
 <td><p>萬代南夢宮娛樂</p></td>
@@ -889,7 +889,7 @@ Studio Wildcard</p></td>
 <td><p>[43]</p></td>
 </tr>
 <tr class="even">
-<td><p>Blair Witch <a href="../Page/厄夜叢林.md" title="wikilink">厄夜叢林/死亡習作</a></p></td>
+<td><p>Blair Witch <a href="../Page/厄夜叢林.md" title="wikilink">厄夜叢林</a>/死亡習作</p></td>
 <td><p><a href="../Page/恐怖遊戲.md" title="wikilink">恐怖解謎</a>、<a href="https://zh.wikipedia.org/wiki/第三人稱射擊遊戲" title="wikilink">第三人稱動作</a></p></td>
 <td><p>Bloober Team</p></td>
 <td><p>微軟工作室</p></td>
@@ -1121,7 +1121,7 @@ Dlala Studios</p></td>
 <td><p>[57]</p></td>
 </tr>
 <tr class="odd">
-<td><p>Microsoft Flight Simulator(2020) <a href="../Page/微軟模擬飛行.md" title="wikilink">微軟模擬飛行(2020)</a></p></td>
+<td><p>Microsoft Flight Simulator(2020) <a href="../Page/微軟模擬飛行.md" title="wikilink">微軟模擬飛行</a>(2020)</p></td>
 <td><p><a href="../Page/飛行模擬器.md" title="wikilink">飛行模擬器</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Xbox遊戲工作室</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Xbox遊戲工作室</a></p></td>
@@ -1194,7 +1194,7 @@ Remedy</p></td>
 <td><p>[63]</p></td>
 </tr>
 <tr class="odd">
-<td><p>Elden Ring (<a href="../Page/宮崎英高.md" title="wikilink">宮崎英高x</a><a href="../Page/喬治·R·R·馬丁.md" title="wikilink">G.R.R.Martin新作</a>)</p></td>
+<td><p>Elden Ring (<a href="../Page/宮崎英高.md" title="wikilink">宮崎英高</a>x<a href="../Page/喬治·R·R·馬丁.md" title="wikilink">G.R.R.Martin新作</a>)</p></td>
 <td><p>動作</p></td>
 <td><p>FromSoftware</p></td>
 <td><p>萬代南夢宮</p></td>
@@ -2039,7 +2039,7 @@ Remedy</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/我的世界.md" title="wikilink">我的世界：Xbox One版</a></p></td>
+<td><p><a href="../Page/我的世界.md" title="wikilink">我的世界 One版</a>：Xbox</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Open_world" title="wikilink">Sandbox</a></p></td>
 <td><p><a href="../Page/Mojang.md" title="wikilink">Mojang</a><br />
 <a href="../Page/4J_Studios.md" title="wikilink">4J Studios</a></p></td>

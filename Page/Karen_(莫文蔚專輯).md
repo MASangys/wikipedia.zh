@@ -1,4 +1,4 @@
-**《Karen》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[莫文蔚的首张個人專輯](../Page/莫文蔚.md "wikilink")\[1\]，於1993年發行\[2\]\[3\]。
+**《Karen》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[莫文蔚](../Page/莫文蔚.md "wikilink")的首张個人專輯\[1\]，於1993年發行\[2\]\[3\]。
 
 ## 曲目列表
 

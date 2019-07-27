@@ -1,4 +1,4 @@
-**PeoPo公民新聞**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[公共電視文化事業基金會於](../Page/公共電視文化事業基金會.md "wikilink")2007年4月30日成立的[公民新聞平台](https://zh.wikipedia.org/wiki/公民新聞 "wikilink")，為台灣第一個公民自主影音新聞平台，開台時口號為「你的小故事，我的大新聞」。相類似的著名平台機制有[南韓的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[OhmyNews及](../Page/OhmyNews.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視新聞網的](https://zh.wikipedia.org/wiki/有線電視新聞網 "wikilink")[CNN
+**PeoPo公民新聞**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[公共電視文化事業基金會](../Page/公共電視文化事業基金會.md "wikilink")於2007年4月30日成立的[公民新聞平台](https://zh.wikipedia.org/wiki/公民新聞 "wikilink")，為台灣第一個公民自主影音新聞平台，開台時口號為「你的小故事，我的大新聞」。相類似的著名平台機制有[南韓的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[OhmyNews](../Page/OhmyNews.md "wikilink")及[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視新聞網的](https://zh.wikipedia.org/wiki/有線電視新聞網 "wikilink")[CNN
 iReport等](https://zh.wikipedia.org/wiki/CNN_iReport "wikilink")\[1\]。
 
 ## 定位
@@ -6,7 +6,7 @@ iReport等](https://zh.wikipedia.org/wiki/CNN_iReport "wikilink")\[1\]。
 「PeoPo」是英文「people
 post」的[縮寫](../Page/縮寫.md "wikilink")，強調每個人都有發聲權利，落實公民近用（）媒體權；也取[台語](https://zh.wikipedia.org/wiki/閩南語 "wikilink")「撇步」（[絕招](https://zh.wikipedia.org/wiki/絕招 "wikilink")）的諧音，希望公民、閱聽大眾能夠分享自己的專業領域與知識，強化[草根媒體](https://zh.wikipedia.org/wiki/草根媒體 "wikilink")。PeoPo自我定位為一個跨越網路與電視的平台\[2\]。
 
-2016年6月9日，針對PeoPo公民記者[洪素珠](https://zh.wikipedia.org/wiki/洪素珠 "wikilink")（[筆名](../Page/筆名.md "wikilink")「素素」）[辱罵外省老兵事件](../Page/洪素珠事件.md "wikilink")，PeoPo召集人[余至理說](https://zh.wikipedia.org/wiki/余至理 "wikilink")，PeoPo類似[facebook或](https://zh.wikipedia.org/wiki/facebook "wikilink")[YouTube](../Page/YouTube.md "wikilink")，任何人申請帳號都可以在PeoPo發布報導，台灣公視與公民記者之間沒有從屬關係，公民記者上傳內容必須自負責任；而且台灣公視要求PeoPo公民記者不能自印[名片](../Page/名片.md "wikilink")，PeoPo也沒有發給公民記者名片\[3\]。2016年6月10日，台灣公視發布[新聞稿表示](../Page/新聞稿.md "wikilink")，為維護PeoPo的公正性與榮譽，PeoPo實施[實名制](https://zh.wikipedia.org/wiki/實名制 "wikilink")，公民記者必須同意遵守《公民新聞平台使用規範》與《公民記者自律公約》；PeoPo不會對公民記者報導內容做事前審查，但會密切關注各報導的內容是否違反上列規範與公約；公民記者有權檢舉違規報導，PeoPo有權刪除違規報導\[4\]。
+2016年6月9日，針對PeoPo公民記者[洪素珠](https://zh.wikipedia.org/wiki/洪素珠 "wikilink")（[筆名](../Page/筆名.md "wikilink")「素素」）[辱罵外省老兵事件](../Page/洪素珠事件.md "wikilink")，PeoPo召集人[余至理說](https://zh.wikipedia.org/wiki/余至理 "wikilink")，PeoPo類似[facebook或](https://zh.wikipedia.org/wiki/facebook "wikilink")[YouTube](../Page/YouTube.md "wikilink")，任何人申請帳號都可以在PeoPo發布報導，台灣公視與公民記者之間沒有從屬關係，公民記者上傳內容必須自負責任；而且台灣公視要求PeoPo公民記者不能自印[名片](../Page/名片.md "wikilink")，PeoPo也沒有發給公民記者名片\[3\]。2016年6月10日，台灣公視發布[新聞稿](../Page/新聞稿.md "wikilink")表示，為維護PeoPo的公正性與榮譽，PeoPo實施[實名制](https://zh.wikipedia.org/wiki/實名制 "wikilink")，公民記者必須同意遵守《公民新聞平台使用規範》與《公民記者自律公約》；PeoPo不會對公民記者報導內容做事前審查，但會密切關注各報導的內容是否違反上列規範與公約；公民記者有權檢舉違規報導，PeoPo有權刪除違規報導\[4\]。
 
 ## 組織
 
@@ -20,12 +20,12 @@ PeoPo主要架構分為台灣北、中、南、東四大區，在台灣十所大
 
 無線電視包括[公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink")、[原住民族電視台](https://zh.wikipedia.org/wiki/原住民族電視台 "wikilink")；網路[新媒體](../Page/新媒體.md "wikilink")、PeoPo
 Webcast、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
-Podcasting。2009年4月27日，選輯PeoPo新聞影片而成的公民新聞節目《PeoPo公民新聞報》在[公視主頻與](../Page/公視主頻.md "wikilink")[公視2台開播](../Page/公視2台.md "wikilink")。
+Podcasting。2009年4月27日，選輯PeoPo新聞影片而成的公民新聞節目《PeoPo公民新聞報》在[公視主頻](../Page/公視主頻.md "wikilink")與[公視2台](../Page/公視2台.md "wikilink")開播。
 
 ## 關注議題
 
 PeoPo新聞平台主題較主流媒體更多元，包括社會關懷、生態環保、文化古蹟、社區改造、教育學習、生活休閒、農業、媒體觀察、運動科技、政治經濟。PeoPo期望促進公民參與、近用媒體，因此「[2008年總統大選電視辯論會公民提問](https://zh.wikipedia.org/wiki/2008年中華民國總統選舉 "wikilink")」即以PeoPo為平台，由公民進入候選人電視辯論會直接詢答，並以快速投入2009年[莫拉克風災各地災情採訪報導受關注](https://zh.wikipedia.org/wiki/莫拉克風災 "wikilink")\[10\]\[11\]。
-不過，學者[管中祥指出](../Page/管中祥.md "wikilink")，PeoPo試圖透過網際網路實踐公民的傳播權利，除了提供影音平台，也舉辦百場以上工作坊培養公民的新聞生產技能，PeoPo公民記者所報導新聞相較於主流媒體更為多元；但由於公民記者較關注社區、週身事件，因此仍然遭批評「公共性不足」。\[12\]
+不過，學者[管中祥](../Page/管中祥.md "wikilink")指出，PeoPo試圖透過網際網路實踐公民的傳播權利，除了提供影音平台，也舉辦百場以上工作坊培養公民的新聞生產技能，PeoPo公民記者所報導新聞相較於主流媒體更為多元；但由於公民記者較關注社區、週身事件，因此仍然遭批評「公共性不足」。\[12\]
 
 ## 官方活動
 
@@ -37,7 +37,7 @@ PeoPo新聞平台主題較主流媒體更多元，包括社會關懷、生態環
 
   - PeoPo公民新聞論壇
 
-2008年4月26日，PeoPo、台灣公視與[世新大學廣播電視電影學系舉辦](../Page/世新大學.md "wikilink")「2008PeoPo公民新聞論壇」。2010年5月27日，PeoPo、台灣公視與[國立政治大學傳播學院舉辦](../Page/國立政治大學傳播學院.md "wikilink")「2010PeoPo公民新聞論壇」。
+2008年4月26日，PeoPo、台灣公視與[世新大學](../Page/世新大學.md "wikilink")廣播電視電影學系舉辦「2008PeoPo公民新聞論壇」。2010年5月27日，PeoPo、台灣公視與[國立政治大學傳播學院](../Page/國立政治大學傳播學院.md "wikilink")舉辦「2010PeoPo公民新聞論壇」。
 
   - 公民地方聚會
 

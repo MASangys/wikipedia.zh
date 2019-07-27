@@ -1,5 +1,5 @@
 **《Ring Ding
-Dong》**是韩国组合[SHINee于](../Page/SHINee.md "wikilink")2009年10月14日的一首单曲，作曲家是[俞永镇](https://zh.wikipedia.org/wiki/俞永镇 "wikilink")。歌曲在网络上发布后，在[Gaon
+Dong》**是韩国组合[SHINee](../Page/SHINee.md "wikilink")于2009年10月14日的一首单曲，作曲家是[俞永镇](https://zh.wikipedia.org/wiki/俞永镇 "wikilink")。歌曲在网络上发布后，在[Gaon
 Chart榜单上获得了榜首位置](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")。这首歌随后作为专辑的第一首歌曲收录在该组合的[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")《[2009,
 Year Of Us](../Page/2009,_Year_Of_Us.md "wikilink")》中。
 
@@ -8,7 +8,7 @@ Year Of Us](../Page/2009,_Year_Of_Us.md "wikilink")》中。
 ### MV
 
 《Ring Ding
-Dong》单曲在10月14日网络发售后，SHINee在16日的[KBS音乐银行中登场](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")。同日，官方MV被上传到[SM娱乐的官方](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")[YouTube频道上](../Page/YouTube.md "wikilink")\[1\]。
+Dong》单曲在10月14日网络发售后，SHINee在16日的[KBS音乐银行中登场](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")。同日，官方MV被上传到[SM娱乐的官方](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")[YouTube](../Page/YouTube.md "wikilink")频道上\[1\]。
 
 MV的开始，是SHINee的成员们在黑夜中跳舞的场景；每隔一段时间，就会切换到各个成员单独在各异的白色房间内的镜头。一系列的镜头反映了各个成员心理的黑暗面，如在玻璃容器中抓蝴蝶，在不同的镜子中呈现不同的像，用手指碰一下就会点燃蜡烛，时间倒退的钟表等。在歌曲的第二段，SHINee在一片水面上跳舞，后来又坐到了后面的一辆黑色小车上。将要结束的时候，成员们的背后长出了黑色的翅膀。最后MV以组合在一个平台边眺望城市夜景的镜头结束。
 

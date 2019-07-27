@@ -1,9 +1,9 @@
-**HomeOS**是由[微软研究院正在开发的](https://zh.wikipedia.org/wiki/微软研究院 "wikilink")[操作系统的](../Page/操作系统.md "wikilink")[暂定名称](https://zh.wikipedia.org/wiki/暂定名称 "wikilink")\[1\]\[2\]，由微软研究院於2010年公布该项目。
+**HomeOS**是由[微软研究院正在开发的](https://zh.wikipedia.org/wiki/微软研究院 "wikilink")[操作系统](../Page/操作系统.md "wikilink")的[暂定名称](https://zh.wikipedia.org/wiki/暂定名称 "wikilink")\[1\]\[2\]，由微软研究院於2010年公布该项目。
 
 ## 概要
 
 HomeOS可运行于专门的电脑上，其他各类家庭设备能方便地接入HomeOS，无需作特殊修改\[3\]。HomeOS是一个“类PC概念”（PC-like
-abstraction），主要服务于家庭环境，将家庭生活环境中的各种设备，如[日光灯](https://zh.wikipedia.org/wiki/日光灯 "wikilink")、[电视机](../Page/电视机.md "wikilink")、[冰箱和](../Page/冰箱.md "wikilink")[洗衣机等传统家电及](https://zh.wikipedia.org/wiki/洗衣机 "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")、[个人电脑](../Page/个人电脑.md "wikilink")、[游戏主机等数码产品连接到一台装载HomeOS的机器上](https://zh.wikipedia.org/wiki/游戏主机 "wikilink")，可构成类似当时PC的设备\[4\]。依照设计，使用者只需从系统的[应用商店HomeStore中下载相应的应用](https://zh.wikipedia.org/wiki/应用商店 "wikilink")，就可实现如[远程监控](https://zh.wikipedia.org/wiki/远程监控 "wikilink")、设备控制、[面部识别等功能](https://zh.wikipedia.org/wiki/面部识别 "wikilink")\[5\]。HomeOS的开发白皮书中曾明确提出了其使用[C\#和](../Page/C♯.md "wikilink")[.Net
+abstraction），主要服务于家庭环境，将家庭生活环境中的各种设备，如[日光灯](https://zh.wikipedia.org/wiki/日光灯 "wikilink")、[电视机](../Page/电视机.md "wikilink")、[冰箱](../Page/冰箱.md "wikilink")和[洗衣机等传统家电及](https://zh.wikipedia.org/wiki/洗衣机 "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")、[个人电脑](../Page/个人电脑.md "wikilink")、[游戏主机等数码产品连接到一台装载HomeOS的机器上](https://zh.wikipedia.org/wiki/游戏主机 "wikilink")，可构成类似当时PC的设备\[4\]。依照设计，使用者只需从系统的[应用商店HomeStore中下载相应的应用](https://zh.wikipedia.org/wiki/应用商店 "wikilink")，就可实现如[远程监控](https://zh.wikipedia.org/wiki/远程监控 "wikilink")、设备控制、[面部识别等功能](https://zh.wikipedia.org/wiki/面部识别 "wikilink")\[5\]。HomeOS的开发白皮书中曾明确提出了其使用[C\#和](../Page/C♯.md "wikilink")[.Net
 Framework4.0](https://zh.wikipedia.org/wiki/.Net_Framework "wikilink")。\[6\]
 
 ## 沿革

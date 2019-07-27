@@ -1,5 +1,5 @@
 **科扎克共有序列**, 或**Kozak 序列**
-，是在[真核生物的](../Page/真核生物.md "wikilink")[mRNA中](https://zh.wikipedia.org/wiki/mRNA "wikilink")[共有的](https://zh.wikipedia.org/wiki/一致序列 "wikilink")`(gcc)gccRccAUGG`序列
+，是在[真核生物](../Page/真核生物.md "wikilink")的[mRNA中](https://zh.wikipedia.org/wiki/mRNA "wikilink")[共有的](https://zh.wikipedia.org/wiki/一致序列 "wikilink")`(gcc)gccRccAUGG`序列
 。它在[翻译过程的启动中扮演了重要角色](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")。\[1\]，得名自揭示了其重要性的[玛丽莲·科扎克](https://zh.wikipedia.org/wiki/玛丽莲·科扎克 "wikilink")。
 
 序列标识为`(gcc)gccRccAUGG`, 源自科扎克对大范围的样本（共约699种 ）\[2\]的归纳和分析，其中：
@@ -12,10 +12,10 @@
 
 ## 简介
 
-这个序列在[mRNA分子上被](https://zh.wikipedia.org/wiki/mRNA "wikilink")[核糖体识别为翻译起始位点](../Page/核糖体.md "wikilink")，即蛋白质是由此开始被该mRNA分子编码的。核糖体需要此序列，或一个可能的可变形式（见下文）来启动[翻译](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")。Kozak序列不应与[核糖体结合位点](../Page/核糖体结合位点.md "wikilink")（RBS）相混淆，后者一般为[信使RNA的](https://zh.wikipedia.org/wiki/信使RNA "wikilink")[5'端帽或](https://zh.wikipedia.org/wiki/5'端帽 "wikilink")[内部核糖体进入位点](../Page/内部核糖体进入位点.md "wikilink")（IRES）。
+这个序列在[mRNA分子上被](https://zh.wikipedia.org/wiki/mRNA "wikilink")[核糖体](../Page/核糖体.md "wikilink")识别为翻译起始位点，即蛋白质是由此开始被该mRNA分子编码的。核糖体需要此序列，或一个可能的可变形式（见下文）来启动[翻译](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")。Kozak序列不应与[核糖体结合位点](../Page/核糖体结合位点.md "wikilink")（RBS）相混淆，后者一般为[信使RNA的](https://zh.wikipedia.org/wiki/信使RNA "wikilink")[5'端帽或](https://zh.wikipedia.org/wiki/5'端帽 "wikilink")[内部核糖体进入位点](../Page/内部核糖体进入位点.md "wikilink")（IRES）。
 
 在体内(*In vivo*)，不同的mRNA上这段区域往往不完全匹配，由一个给定的mRNA合成蛋白质的量取决于Kozak序列的强度。\[4\]
-这个序列中的一些[核苷酸比其它的更重要](../Page/核苷酸.md "wikilink")：AUG是最重要的，因为它是实际的起始[密码子](https://zh.wikipedia.org/wiki/密码子 "wikilink")，在对应蛋白质的N-末端编码一个[甲硫氨酸](../Page/甲硫氨酸.md "wikilink")。（很少地，CUG被用作起始密码子，编码亮氨酸，而不是典型的蛋氨酸作为起始。）“AUG”的A被定为1号位的话，对于一个“强”的Kozak序列，核苷酸在相对于1号核苷酸的4号位（即G所在的位置）和-3号位（即R的位点，没有号码0的位置）必须匹配一般的Kozak序列。“适中”强度的Kozak序列只有上述两个中的一个匹配，而“弱”的两个都不匹配。在-1和-2的cc并不那么保守，但有助于提升整体强度。\[5\]有证据表明，
+这个序列中的一些[核苷酸](../Page/核苷酸.md "wikilink")比其它的更重要：AUG是最重要的，因为它是实际的起始[密码子](https://zh.wikipedia.org/wiki/密码子 "wikilink")，在对应蛋白质的N-末端编码一个[甲硫氨酸](../Page/甲硫氨酸.md "wikilink")。（很少地，CUG被用作起始密码子，编码亮氨酸，而不是典型的蛋氨酸作为起始。）“AUG”的A被定为1号位的话，对于一个“强”的Kozak序列，核苷酸在相对于1号核苷酸的4号位（即G所在的位置）和-3号位（即R的位点，没有号码0的位置）必须匹配一般的Kozak序列。“适中”强度的Kozak序列只有上述两个中的一个匹配，而“弱”的两个都不匹配。在-1和-2的cc并不那么保守，但有助于提升整体强度。\[5\]有证据表明，
 在-6位的G在翻译起始中也是重要。 \[6\]
 
 体内有这些类型的Kozak序列的例子，他们很可能是演变而来的基因调控的又一机制。[Lmx1b](http://www.genecards.org/cgi-bin/carddisp.pl?gene=LMX1B)是“弱”Kozak序列基因的一个例子。\[7\]从这样的位点起始的翻译，mRNA序列需要有额外的特性，以便使核糖体识别起始密码子。
@@ -95,7 +95,7 @@
 ## 参见
 
   - [夏因-达尔加诺序列](../Page/夏因-达尔加诺序列.md "wikilink"),
-    [原核生物的核糖体结合位点](../Page/原核生物.md "wikilink")。
+    [原核生物](../Page/原核生物.md "wikilink")的核糖体结合位点。
 
 ## 参考
 

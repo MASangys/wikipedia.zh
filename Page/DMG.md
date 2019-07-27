@@ -21,4 +21,4 @@
 
   - [.dmg](https://zh.wikipedia.org/wiki/.dmg "wikilink")，一类苹果电脑磁盘映像的[副檔名](https://zh.wikipedia.org/wiki/副檔名 "wikilink")
 
-  - （Disney Music Group），美国[华特迪士尼公司旗下子公司](../Page/华特迪士尼公司.md "wikilink")
+  - （Disney Music Group），美国[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")旗下子公司

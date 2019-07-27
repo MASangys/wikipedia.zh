@@ -1,9 +1,9 @@
 《**By(e) My
-Melody**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")24張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年6月14日發行。
+Melody**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")男[歌手](../Page/歌手.md "wikilink")[平井堅](../Page/平井堅.md "wikilink")的第24張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年6月14日發行。
 
 ## 概述
 
-  - [平井堅精選專輯](../Page/平井堅.md "wikilink")『愛歌成癡』後首張作品，也是2006年唯一發行的單曲。
+  - [平井堅](../Page/平井堅.md "wikilink")精選專輯『愛歌成癡』後首張作品，也是2006年唯一發行的單曲。
   - 初回仕樣限定盤附替換封面4張（限日本）。
 
 ## 收錄曲

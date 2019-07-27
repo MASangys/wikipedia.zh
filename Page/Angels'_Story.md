@@ -9,7 +9,7 @@ Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
       - 舞蹈版本由7名成員（[有慶以外](https://zh.wikipedia.org/wiki/徐有慶 "wikilink")）演唱。
       - 樂團（Band）版本由[AOA
         Black演唱](https://zh.wikipedia.org/wiki/AOA_Black "wikilink")。
-  - [CNBLUE成員](../Page/CNBLUE.md "wikilink")[容和有份參與歌曲](../Page/鄭容和.md "wikilink")《Love
+  - [CNBLUE](../Page/CNBLUE.md "wikilink")成員[容和有份參與歌曲](../Page/鄭容和.md "wikilink")《Love
     Is Only You》的創作。
 
 ## 曲目

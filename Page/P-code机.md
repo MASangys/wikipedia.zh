@@ -1,10 +1,10 @@
-在[計算機科學中](https://zh.wikipedia.org/wiki/計算機科學 "wikilink")，**P-code機**（）是一種被設計來執行P-code的[虛擬機器](../Page/虛擬機器.md "wikilink")。P-code是一種被設計來運行在虛擬[CPU上的](https://zh.wikipedia.org/wiki/CPU "wikilink")[匯編語言](https://zh.wikipedia.org/wiki/匯編語言 "wikilink")，即是我們現代所稱[Bytecode的前身](https://zh.wikipedia.org/wiki/Bytecode "wikilink")。P-code机这个词可用于形容所有这类机器（例如[Java虚拟机和](../Page/Java虚拟机.md "wikilink")[MATLAB预编译的代码](../Page/MATLAB.md "wikilink")），或者特指最有名的P-code机，來自於[Pascal語言](../Page/Pascal_\(程式語言\).md "wikilink")，特別是[UCSD
+在[計算機科學中](https://zh.wikipedia.org/wiki/計算機科學 "wikilink")，**P-code機**（）是一種被設計來執行P-code的[虛擬機器](../Page/虛擬機器.md "wikilink")。P-code是一種被設計來運行在虛擬[CPU上的](https://zh.wikipedia.org/wiki/CPU "wikilink")[匯編語言](https://zh.wikipedia.org/wiki/匯編語言 "wikilink")，即是我們現代所稱[Bytecode的前身](https://zh.wikipedia.org/wiki/Bytecode "wikilink")。P-code机这个词可用于形容所有这类机器（例如[Java虚拟机](../Page/Java虚拟机.md "wikilink")和[MATLAB](../Page/MATLAB.md "wikilink")预编译的代码），或者特指最有名的P-code机，來自於[Pascal語言](../Page/Pascal_\(程式語言\).md "wikilink")，特別是[UCSD
 Pascal實作](https://zh.wikipedia.org/wiki/UCSD_Pascal "wikilink")。
 
-虽然這個概念在1966左右年就已首次实现（于[BCPL的O](../Page/BCPL.md "wikilink")-code与Euler语言的P
+虽然這個概念在1966左右年就已首次实现（于[BCPL](../Page/BCPL.md "wikilink")的O-code与Euler语言的P
 - a code），\[1\]但P-code这个词直到70年代初才首次出现。 1973年Nori, Ammann, Jensen,
 Hageli和Jacobi编写的Pascal-P編譯器\[2\]
-和1975年[尼克劳斯·维尔特写的Pascal](../Page/尼克劳斯·维尔特.md "wikilink")-S編譯器是早期的两个生成P-code的[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
+和1975年[尼克劳斯·维尔特](../Page/尼克劳斯·维尔特.md "wikilink")写的Pascal-S編譯器是早期的两个生成P-code的[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
 
 P-code可以是一種與特定硬體平台無關的[中間碼](../Page/中間語言.md "wikilink")，一種虛擬[機器碼](https://zh.wikipedia.org/wiki/機器碼 "wikilink")。程式原始碼會先被轉換成P-code；轉換成P-code的程序，之後會由一個軟體來進行[直譯](../Page/直譯器.md "wikilink")。這個軟體可以[模擬出一個假想的CPU來讀取p](https://zh.wikipedia.org/wiki/模擬器 "wikilink")-code，之後將p-code轉換成實體機器碼來執行。但如果有足够的商业利益，可能可以實作做出该规格CPU的硬件实现（例如Pascal
 MicroEngine和Java处理器）。
@@ -32,7 +32,7 @@ p-Machine是一个[堆疊結構機器](https://zh.wikipedia.org/wiki/堆疊結�
 
 ### 环境
 
-与其他基于堆栈的环境（如[Forth和](../Page/Forth.md "wikilink")[Java虚拟机](../Page/Java虚拟机.md "wikilink")）不同的是，p-系统非常类似于真正的目标CPU，它只有一个堆栈供过程栈帧（提过[返回地址等](https://zh.wikipedia.org/wiki/返回地址 "wikilink")）和局部指令参数共享。机器的其中三个[寄存器指向这个堆栈](../Page/寄存器.md "wikilink")（向上增加）：
+与其他基于堆栈的环境（如[Forth](../Page/Forth.md "wikilink")和[Java虚拟机](../Page/Java虚拟机.md "wikilink")）不同的是，p-系统非常类似于真正的目标CPU，它只有一个堆栈供过程栈帧（提过[返回地址等](https://zh.wikipedia.org/wiki/返回地址 "wikilink")）和局部指令参数共享。机器的其中三个[寄存器](../Page/寄存器.md "wikilink")指向这个堆栈（向上增加）：
 
   - SP 指向堆栈顶部（[堆栈指针](https://zh.wikipedia.org/wiki/堆栈指针 "wikilink")）。
   - MP

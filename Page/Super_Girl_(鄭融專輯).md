@@ -1,5 +1,5 @@
 《**Super
-Girl**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融的第](../Page/鄭融.md "wikilink")5張音樂專輯，於2007年9月19日推出。是次鄭融首次擔任歌曲監製，與[莊冬昕一起監製了三首歌曲](../Page/莊冬昕.md "wikilink")，而主打歌《大女仔》抒發了戀人喜歡不受管制，而且愛就會愛到底的想法；《Hey
+Girl**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融](../Page/鄭融.md "wikilink")的第5張音樂專輯，於2007年9月19日推出。是次鄭融首次擔任歌曲監製，與[莊冬昕](../Page/莊冬昕.md "wikilink")一起監製了三首歌曲，而主打歌《大女仔》抒發了戀人喜歡不受管制，而且愛就會愛到底的想法；《Hey
 Girl》則講述她與小狗的關係。
 
 2007年12月24日，[星娛樂為她推出](https://zh.wikipedia.org/wiki/星娛樂 "wikilink")《**Super

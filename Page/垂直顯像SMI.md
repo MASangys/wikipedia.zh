@@ -5,7 +5,7 @@
 *Spectral Precision Distance Microscopy*)結構照明設備(空間調整照明設備SMI, *Spatially
 Modulated Illumination*)的科技。
 
-自從2008年3月起，許多標準的螢光染劑像是[绿色荧光蛋白(GFP)與](../Page/绿色荧光蛋白.md "wikilink")[Alexa螢光染劑可以應用在SPDMphymod](https://zh.wikipedia.org/wiki/Alexa_Fluor "wikilink")
+自從2008年3月起，許多標準的螢光染劑像是[绿色荧光蛋白](../Page/绿色荧光蛋白.md "wikilink")(GFP)與[Alexa螢光染劑可以應用在SPDMphymod](https://zh.wikipedia.org/wiki/Alexa_Fluor "wikilink")
 (可物理修飾螢光團physically modifiable
 fluorophores)定位光學顯微鏡上，這種顯微鏡只有單一雷射波長才有適合的光強度能用在奈米圖解上。
 [3D_Dual_Color_Super_Resolution_Microscopy_Cremer_2010.png](https://zh.wikipedia.org/wiki/File:3D_Dual_Color_Super_Resolution_Microscopy_Cremer_2010.png "fig:3D_Dual_Color_Super_Resolution_Microscopy_Cremer_2010.png")
@@ -42,7 +42,7 @@ LIMON或是LSI-[TIRF側向顯像技術而成](https://zh.wikipedia.org/wiki/:en:
 SPDM (光學間距精密顯微鏡Spectral Precision Distance
 Microscopy)，定位光學顯微鏡的基礎是[螢光顯微鏡加上光學處理使得能測量](https://zh.wikipedia.org/wiki/:en:fluorescence_microscopy "wikilink")"光學上分離"粒子的位置、距離與角度(例如:分子)光學顯微鏡的[解析限制之下](https://zh.wikipedia.org/wiki/:en:Diffraction_limit "wikilink")。
 "光學上分離"指的是在一定的時間之內的一點上,
-只有單一粒子或是分子在特定的區域被傳統的光學解析度下(大概是[直徑](https://zh.wikipedia.org/wiki/:en:diameter "wikilink")200-250 nm)偵測到。當所有的[分子在某個區域都含有不同的光學標記就能實現](../Page/分子.md "wikilink")(例如:不同的顏色或者不同粒子發射的不同[激發光](https://zh.wikipedia.org/wiki/:en:light_emission "wikilink")
+只有單一粒子或是分子在特定的區域被傳統的光學解析度下(大概是[直徑](https://zh.wikipedia.org/wiki/:en:diameter "wikilink")200-250 nm)偵測到。當所有的[分子](../Page/分子.md "wikilink")在某個區域都含有不同的光學標記就能實現(例如:不同的顏色或者不同粒子發射的不同[激發光](https://zh.wikipedia.org/wiki/:en:light_emission "wikilink")
 )
 
 使用SPDM能達到結構的解析且能偵測兩點間空間上的最短距離，位置則由粒子的不同光學特性定位(拓墣解析)。在合適的條件下，則是依定位的精確度,
@@ -65,7 +65,7 @@ SPDM
 fluorophores)技術，在適合的光強度下，單一雷射則可以顯出奈米級的影像。與其他需要兩條雷射的定位顯微鏡不同，使用特別的光-調控/光-活化螢光分子。\[9\]
 
 GFP基因很早就被引進而且表現在許多原核與真核生物中，由於他們發現與開發GFP
-，[诺贝尔化学奖在](../Page/诺贝尔化学奖.md "wikilink")2008年頒發給[马丁·查尔菲](../Page/马丁·查尔菲.md "wikilink")、[下村脩與](../Page/下村脩.md "wikilink")
+，[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")在2008年頒發給[马丁·查尔菲](../Page/马丁·查尔菲.md "wikilink")、[下村脩](../Page/下村脩.md "wikilink")與
 [钱永健](../Page/钱永健.md "wikilink")。標準螢光分子除了能應用在SPMD上，還能應用在許多其他的領域上像是[生理學](https://zh.wikipedia.org/wiki/:en:biophysics "wikilink"),
 [細胞生物學與](https://zh.wikipedia.org/wiki/:en:cell_biology "wikilink")[醫學等等](https://zh.wikipedia.org/wiki/:en:medicine "wikilink")。
 

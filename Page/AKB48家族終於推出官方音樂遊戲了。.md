@@ -1,9 +1,9 @@
 是由STRATEGY AND PARTNERS與
-K.K.於2014年5月7日所發行在[IOS及](../Page/IOS.md "wikilink")[Android平台上的音樂遊戲](../Page/Android.md "wikilink")。
+K.K.於2014年5月7日所發行在[IOS](../Page/IOS.md "wikilink")及[Android](../Page/Android.md "wikilink")平台上的音樂遊戲。
 
 ## 概要
 
-截至2014年5月6日，[AKB48集團仍未有一款官方音樂遊戲](../Page/AKB48集團.md "wikilink")。
+截至2014年5月6日，[AKB48集團](../Page/AKB48集團.md "wikilink")仍未有一款官方音樂遊戲。
 2014年5月7日早上，AKB48官方宣布推出一款手機平台的音樂遊戲，吸引玩家下載及試玩。
 
 ## 遊戲方式

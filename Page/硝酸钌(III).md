@@ -1,4 +1,4 @@
-**硝酸钌(III)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式为Ru](../Page/化学式.md "wikilink")(NO<sub>3</sub>)<sub>3</sub>。它可用于制备钌碳催化剂。\[1\]硝酸钌负载在二氧化硅上之后，和一氧化碳反应，根据反应条件的不同，会生成Ru(CO)<sub>2</sub>(OSi)<sub>2</sub>、Ru(CO)<sub>3</sub>(OSi)<sub>2</sub>以及Ru<sub>3</sub>(CO)<sub>12</sub>。\[2\]
+**硝酸钌(III)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为Ru(NO<sub>3</sub>)<sub>3</sub>。它可用于制备钌碳催化剂。\[1\]硝酸钌负载在二氧化硅上之后，和一氧化碳反应，根据反应条件的不同，会生成Ru(CO)<sub>2</sub>(OSi)<sub>2</sub>、Ru(CO)<sub>3</sub>(OSi)<sub>2</sub>以及Ru<sub>3</sub>(CO)<sub>12</sub>。\[2\]
 
 ## 参考资料
 

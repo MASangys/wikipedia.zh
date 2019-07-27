@@ -16,7 +16,7 @@ Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
         13](https://zh.wikipedia.org/wiki/So'_Fly "wikilink")、作曲・編曲：[GIORGIO
         CANCEMI](https://zh.wikipedia.org/wiki/So'_Fly "wikilink")
     <!-- end list -->
-      - MAYUが加入後最初製作的樂曲，2010年由[RecoChoku配信](../Page/RecoChoku.md "wikilink")。
+      - MAYUが加入後最初製作的樂曲，2010年由[RecoChoku](../Page/RecoChoku.md "wikilink")配信。
       - [JR東海](../Page/東海旅客鐵道.md "wikilink")「トーキョー☆ブックマーク」的CM歌曲。
 
 <!-- end list -->

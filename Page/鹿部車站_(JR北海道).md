@@ -1,14 +1,16 @@
-**鹿部車站**（）是一由[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[茅部郡](../Page/茅部郡.md "wikilink")[鹿部町](../Page/鹿部町.md "wikilink")，是JR北海道[函館本線](../Page/函館本線.md "wikilink")（砂原支線）沿線的一個無人車站，屬於[函館支社的管轄範圍](https://zh.wikipedia.org/wiki/北海道旅客鐵道函館支社 "wikilink")，並由[大沼車站負責管理](../Page/大沼車站.md "wikilink")。
+**鹿部車站**（）是一由[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[茅部郡](../Page/茅部郡.md "wikilink")[鹿部町](../Page/鹿部町.md "wikilink")，是JR北海道[函館本線](../Page/函館本線.md "wikilink")（砂原支線）沿線的一個無人車站，屬於[函館支社的管轄範圍](https://zh.wikipedia.org/wiki/北海道旅客鐵道函館支社 "wikilink")，並由[大沼車站](../Page/大沼車站.md "wikilink")負責管理。
+
+名稱來自所在地名，源自[阿伊努語](../Page/阿伊努語.md "wikilink")的「sike-un-pe」，意思是背負的地方\[1\]。
 
 ## 簡介
 
-鹿部站站內設有一座[島式月台兩條乘車線](../Page/島式月台.md "wikilink")。車站站房與月台之間，是靠跨越車站內的人行[平交道連結](../Page/平交道.md "wikilink")。
+鹿部站站內設有一座[島式月台](../Page/島式月台.md "wikilink")兩條乘車線。車站站房與月台之間，是靠跨越車站內的人行[平交道](../Page/平交道.md "wikilink")連結。
 
 雖然鹿部車站是鹿部町範圍內唯一的一座鐵路車站，但由於距離城鎮的中心地區尚有5km的距離，很難將之視為鹿部町的主車站。
 
 ## 歷史
 
-在鹿部町，曾經存在過兩個同樣命名為「鹿部」但位置不同的車站，其一是1929年（昭和4年）啟用的[大沼電鐵鹿部車站](https://zh.wikipedia.org/wiki/大沼電鐵 "wikilink")，另一個則是1945年時伴隨[日本國有鐵道砂原線通車而啟用的國鐵鹿部車站](../Page/日本國有鐵道.md "wikilink")。兩重名的車站在啟用之後因為大沼電鐵的廢線與再啟用分別數次更改過站名，以避免造成混亂。
+在鹿部町，曾經存在過兩個同樣命名為「鹿部」但位置不同的車站，其一是1929年（昭和4年）啟用的[大沼電鐵鹿部車站](https://zh.wikipedia.org/wiki/大沼電鐵 "wikilink")，另一個則是1945年時伴隨[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")砂原線通車而啟用的國鐵鹿部車站。兩重名的車站在啟用之後因為大沼電鐵的廢線與再啟用分別數次更改過站名，以避免造成混亂。
 
   - 1929年（昭和4年）1月31日 - 大沼電鐵大沼至鹿部之間路線通車。此處的「鹿部」是指大沼電鐵所屬之鹿部車站。
   - 1945年（昭和20年）6月1日 - 日本國有鐵道砂原線通車，國有鐵道所屬的**鹿部車站**啟用。砂原線啟用同時，大沼電鐵全線廢線。
@@ -55,3 +57,5 @@
 [Category:渡島管內鐵路車站](https://zh.wikipedia.org/wiki/Category:渡島管內鐵路車站 "wikilink")
 [Category:鹿部町](https://zh.wikipedia.org/wiki/Category:鹿部町 "wikilink")
 [Category:1945年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1945年启用的铁路车站 "wikilink")
+
+1.

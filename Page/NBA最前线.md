@@ -1,4 +1,4 @@
-**NBA最前线**是[中国中央电视台播出一档](../Page/中国中央电视台.md "wikilink")[美国职业篮球联赛](https://zh.wikipedia.org/wiki/美国职业篮球联赛 "wikilink")（NBA）集锦类节目。2013年2月21日起播出，主题曲为[吉克隽逸演唱的](../Page/吉克隽逸.md "wikilink")《即刻出发》。
+**NBA最前线**是[中国中央电视台](../Page/中国中央电视台.md "wikilink")播出一档[美国职业篮球联赛](https://zh.wikipedia.org/wiki/美国职业篮球联赛 "wikilink")（NBA）集锦类节目。2013年2月21日起播出，主题曲为[吉克隽逸](../Page/吉克隽逸.md "wikilink")演唱的《即刻出发》。
 
 ## 节目口号
 

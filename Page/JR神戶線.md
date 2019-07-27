@@ -1,12 +1,12 @@
-**JR神戶線**（）是[日本](../Page/日本.md "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線自](../Page/東海道本線.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北區的](../Page/北區_\(大阪市\).md "wikilink")[大阪站至](https://zh.wikipedia.org/wiki/大阪站 "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[中央區](../Page/中央區_\(神戶市\).md "wikilink")[神戶站的區間](../Page/神戶站_\(兵庫縣\).md "wikilink")，和[山陽本線自神戶站至兵庫縣](../Page/山陽本線.md "wikilink")[姬路市](../Page/姬路市.md "wikilink")[姬路站的區間](https://zh.wikipedia.org/wiki/姬路站 "wikilink")，所給付的愛稱。
+**JR神戶線**（）是[日本](../Page/日本.md "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線](../Page/東海道本線.md "wikilink")自[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北區的](../Page/北區_\(大阪市\).md "wikilink")[大阪站至](https://zh.wikipedia.org/wiki/大阪站 "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[中央區](../Page/中央區_\(神戶市\).md "wikilink")[神戶站的區間](../Page/神戶站_\(兵庫縣\).md "wikilink")，和[山陽本線](../Page/山陽本線.md "wikilink")自神戶站至兵庫縣[姬路市](../Page/姬路市.md "wikilink")[姬路站的區間](https://zh.wikipedia.org/wiki/姬路站 "wikilink")，所給付的愛稱。
 
-此愛稱自1988年3月13日開始被使用。[阪急電鐵也有名為](../Page/阪急電鐵.md "wikilink")[神戶線的線路](https://zh.wikipedia.org/wiki/阪急神戶本線 "wikilink")，避免混淆在此線路前加「JR」。
+此愛稱自1988年3月13日開始被使用。[阪急電鐵](../Page/阪急電鐵.md "wikilink")也有名為[神戶線的線路](https://zh.wikipedia.org/wiki/阪急神戶本線 "wikilink")，避免混淆在此線路前加「JR」。
 
 ## 概要
 
-JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市網路 "wikilink")，連結[大阪市與](../Page/大阪市.md "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")、[明石市](../Page/明石市.md "wikilink")、[姫路市等兵庫縣内](https://zh.wikipedia.org/wiki/姫路市 "wikilink")[瀨戶内海沿海各都市](https://zh.wikipedia.org/wiki/瀨戶内海 "wikilink")。路線色為**藍**（），與[JR京都線同樣位於都市網路的中心位置](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")，故直接使用JR西日本的公司顏色。
+JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市網路 "wikilink")，連結[大阪市](../Page/大阪市.md "wikilink")與[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")、[明石市](../Page/明石市.md "wikilink")、[姫路市等兵庫縣内](https://zh.wikipedia.org/wiki/姫路市 "wikilink")[瀨戶内海沿海各都市](https://zh.wikipedia.org/wiki/瀨戶内海 "wikilink")。路線色為**藍**（），與[JR京都線同樣位於都市網路的中心位置](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")，故直接使用JR西日本的公司顏色。
 
-[新快速大阪站](../Page/新快速.md "wikilink") -
+[新快速](../Page/新快速.md "wikilink")大阪站 -
 [三宮站間](https://zh.wikipedia.org/wiki/三宮站 "wikilink")30.6km最短20分、大阪站
 - 姫路站間87.9km最短60分。大阪站（[梅田站](../Page/梅田站.md "wikilink")） -
 三宮站（[神戶三宮站](https://zh.wikipedia.org/wiki/三宮站 "wikilink")）間要與[阪急神戶本線和](https://zh.wikipedia.org/wiki/阪急神戶本線 "wikilink")[阪神本線](../Page/阪神本線.md "wikilink")、三宮站
@@ -56,7 +56,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 
 ### 現行車輛
 
-2011年3月12日現在、普通・快速・新快速等皆為[電聯車](../Page/電聯車.md "wikilink")，特急有電電聯車與[柴聯車運行](../Page/柴聯車.md "wikilink")。
+2011年3月12日現在、普通・快速・新快速等皆為[電聯車](../Page/電聯車.md "wikilink")，特急有電電聯車與[柴聯車](../Page/柴聯車.md "wikilink")運行。
 
 #### 電聯車
 
@@ -110,7 +110,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
   - 1906年（明治39年）12月1日：山陽鐵道國有化。同時和田岬線延長。鹽屋假停車場・舞子假停車場變更為車站。
   - 1908年（明治41年）
       - 2月10日：西宮站 - 住吉站間戎假乘降場（初代）開業。神崎站 - 西宮站間武庫川假信號所（初代）、西宮站 -
-        住吉站間蘆屋假信號所（初代）開設。伴除[西宮神社祭典有對應的列車增發](../Page/西宮神社.md "wikilink")。
+        住吉站間蘆屋假信號所（初代）開設。伴除[西宮神社](../Page/西宮神社.md "wikilink")祭典有對應的列車增發。
       - 2月12日：戎假乘降場（初代）・武庫川假信號所（初代）・蘆屋假信號所（初代）廢止。
       - 2月22日：[岡本梅林公園旅客輸送的原因](https://zh.wikipedia.org/wiki/岡本梅林公園 "wikilink")、西宮站
         - 住吉站間岡本假乘降場（初代）開業。
@@ -190,14 +190,14 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 以下列出JR神戶線的停車場（車站、信號場）與營業距離、停靠列車、接續路線等。廢站、廢除信號場參見「[東海道本線\#廢站](https://zh.wikipedia.org/wiki/東海道本線#廢站 "wikilink")」與「[山陽本線\#廢站、廢除信號場](https://zh.wikipedia.org/wiki/山陽本線#廢站、廢除信號場 "wikilink")」。
 
   - （貨）＝貨物專用站
-  - [特定都區市內制度適用範圍的車站](../Page/特定都區市內.md "wikilink")：＝大阪市內，＝神戶市內
+  - [特定都區市內](../Page/特定都區市內.md "wikilink")制度適用範圍的車站：＝大阪市內，＝神戶市內
   - 停靠站
       - 普通：停靠所有旅客站（表中省略）
       - 快速、新快速：●的車站所有列車停靠，▲的車站除早上上行的一部分列車外停靠，｜的車站所有列車通過
           - 快速在明石站起姬路方向作為普通運行
       - 特急（[濱風](../Page/濱風號列車.md "wikilink")、[超級白兔](../Page/超級白兔號列車.md "wikilink")、[日出瀨戶](../Page/瀨戶號列車.md "wikilink")、[日出出雲](https://zh.wikipedia.org/wiki/出雲號列車 "wikilink")）：參見各列車條目
   - 接續路線：若站名有分別則以⇒顯示站名。
-  - [車站編號自](../Page/車站編號.md "wikilink")2018年3月17日起引入\[21\]
+  - [車站編號](../Page/車站編號.md "wikilink")自2018年3月17日起引入\[21\]
 
 <table>
 <thead>
@@ -497,7 +497,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>591.3</p></td>
 <td><p>●</p></td>
 <td><p>｜</p></td>
-<td><p>西日本旅客鐵道：<a href="../Page/山陽本線.md" title="wikilink">山陽本線支線</a>（<a href="../Page/和田岬線.md" title="wikilink">和田岬線</a>）</p></td>
+<td><p>西日本旅客鐵道：<a href="../Page/山陽本線.md" title="wikilink">山陽本線</a>支線（<a href="../Page/和田岬線.md" title="wikilink">和田岬線</a>）</p></td>
 <td><p><a href="../Page/兵庫區.md" title="wikilink">兵庫區</a></p></td>
 </tr>
 <tr class="even">

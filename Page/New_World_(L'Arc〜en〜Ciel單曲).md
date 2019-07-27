@@ -13,7 +13,7 @@ L'Arc〜en〜Ciel的2005年第2彈單曲。台灣有發行台壓版
 
 1.  **New World** / L'Arc〜en〜Ciel
       -
-        [日本電視台棒球轉播節目](../Page/日本電視台.md "wikilink")《[1球的緊張感 THE LIVE
+        [日本電視台](../Page/日本電視台.md "wikilink")棒球轉播節目《[1球的緊張感 THE LIVE
         2005](https://zh.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")》上半期（2005年4月1日－7月23日）主題曲。
 2.  **花葬 平成十七年** /
     [P'UNK〜EN〜CIEL](https://zh.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")

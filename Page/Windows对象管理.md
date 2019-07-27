@@ -183,7 +183,7 @@ CreateWaitableTimerEx</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/注册表.md" title="wikilink">注册表键值</a></p></td>
+<td><p><a href="../Page/注册表.md" title="wikilink">注册表</a>键值</p></td>
 <td><p>Windows 注册表条目的键值，数据类型不是 HANDLE 而是 HKEY</p></td>
 <td><p>RegCreateKeyEx<br />
 RegOpenKeyEx</p></td>

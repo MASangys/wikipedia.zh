@@ -1,9 +1,9 @@
 《**Family Party**》（）是[Kyary Pamyu
-Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2014年4月16日由[日本華納音樂發售](../Page/日本華納音樂.md "wikilink")。
+Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2014年4月16日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。
 
 ## 概要
 
-與前作《[夢想起跑～鈴～鈴](../Page/夢想起跑～鈴～鈴.md "wikilink")》相隔約2個月。單曲分為初回限定盤和通常盤2種形態發售，歌曲依照慣例由[中田康貴擔任製作人](../Page/中田康貴.md "wikilink")。
+與前作《[夢想起跑～鈴～鈴](../Page/夢想起跑～鈴～鈴.md "wikilink")》相隔約2個月。單曲分為初回限定盤和通常盤2種形態發售，歌曲依照慣例由[中田康貴](../Page/中田康貴.md "wikilink")擔任製作人。
 
 ## 收錄曲
 
@@ -12,7 +12,7 @@ Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")9張[單
 全作詞、作曲、編曲：[中田康貴](../Page/中田康貴.md "wikilink")
 
 1.  **Family Party**（）
-      - [東寶電影](../Page/東寶.md "wikilink")《[蠟筆小新
+      - [東寶](../Page/東寶.md "wikilink")電影《[蠟筆小新
         決勝！逆襲的機器爸爸](https://zh.wikipedia.org/wiki/蠟筆小新_決勝！逆襲的機器爸爸 "wikilink")》片尾曲
 2.  **Scanty Skimpy**
 3.  **[INVADER INVADER](../Page/INVADER_INVADER.md "wikilink")

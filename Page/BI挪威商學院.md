@@ -1,7 +1,7 @@
 [BI_Oslo_3.jpg](https://zh.wikipedia.org/wiki/File:BI_Oslo_3.jpg "fig:BI_Oslo_3.jpg")
 [BI_Nydalen_Oslo2009_0.jpg](https://zh.wikipedia.org/wiki/File:BI_Nydalen_Oslo2009_0.jpg "fig:BI_Nydalen_Oslo2009_0.jpg")
-**BI挪威商學院**（）是[挪威第一大](../Page/挪威.md "wikilink")[商學院](https://zh.wikipedia.org/wiki/商學院 "wikilink")，歐洲第二大商學院。\[1\]
-共有六個校區，主校區位於[奧斯陸](https://zh.wikipedia.org/wiki/奧斯陸 "wikilink")，其他校區分別位於[卑爾根](https://zh.wikipedia.org/wiki/卑爾根 "wikilink")、[斯塔萬格](https://zh.wikipedia.org/wiki/斯塔萬格 "wikilink")、[特隆赫姆](../Page/特隆赫姆.md "wikilink")、[克里斯蒂安桑和](../Page/克里斯蒂安桑.md "wikilink")[德拉門](https://zh.wikipedia.org/wiki/德拉門 "wikilink")。
+**BI挪威商學院**（）是[挪威](../Page/挪威.md "wikilink")第一大[商學院](https://zh.wikipedia.org/wiki/商學院 "wikilink")，歐洲第二大商學院。\[1\]
+共有六個校區，主校區位於[奧斯陸](https://zh.wikipedia.org/wiki/奧斯陸 "wikilink")，其他校區分別位於[卑爾根](https://zh.wikipedia.org/wiki/卑爾根 "wikilink")、[斯塔萬格](https://zh.wikipedia.org/wiki/斯塔萬格 "wikilink")、[特隆赫姆](../Page/特隆赫姆.md "wikilink")、[克里斯蒂安桑](../Page/克里斯蒂安桑.md "wikilink")和[德拉門](https://zh.wikipedia.org/wiki/德拉門 "wikilink")。
 
 學院由Finn Øien成立於1943年，當時稱“Bedriftøkonomisk
 Institut”（管理經濟學研究所），這也是現名中“BI”的來歷。

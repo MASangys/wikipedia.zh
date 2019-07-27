@@ -1,8 +1,8 @@
-《**Joy\!\!**》是2013年6月5日发行的日本男子组合[SMAP的第](../Page/SMAP.md "wikilink")50张[单曲](../Page/单曲.md "wikilink")。
+《**Joy\!\!**》是2013年6月5日发行的日本男子组合[SMAP](../Page/SMAP.md "wikilink")的第50张[单曲](../Page/单曲.md "wikilink")。
 
 ## 概要
 
-《Joy\!\!》是[香取慎吾主演的](../Page/香取慎吾.md "wikilink")[电视剧](../Page/电视剧.md "wikilink")《[幽靈女友](../Page/幽靈女友.md "wikilink")》（）的主题歌，香取在剧中饰演的「神山暁」所担任班主任的3年2組的学生们参加了歌曲和声部分的录音与MV的拍摄。
+《Joy\!\!》是[香取慎吾](../Page/香取慎吾.md "wikilink")主演的[电视剧](../Page/电视剧.md "wikilink")《[幽靈女友](../Page/幽靈女友.md "wikilink")》（）的主题歌，香取在剧中饰演的「神山暁」所担任班主任的3年2組的学生们参加了歌曲和声部分的录音与MV的拍摄。
 
 这张单曲分为[活泼橙](../Page/橙色.md "wikilink")（）、（）、[晴空蓝](https://zh.wikipedia.org/wiki/晴空蓝 "wikilink")（）、[震惊粉](https://zh.wikipedia.org/wiki/粉色 "wikilink")（）、（）五种版本发行。活泼橙中收录了主打歌《Joy\!\!》的MV，青柠绿中收录了B面曲《手中的世界》（）的MV、晴空蓝中收录了《Joy\!\!》的MV拍摄纪录片与《手中的世界》的Making影像。
 
@@ -24,7 +24,7 @@ Dancers”的名义参加了歌曲在红白歌会上的表演。
 
 舞蹈的设计者是。他也在《[第64回NHK红白歌合战](https://zh.wikipedia.org/wiki/第64回NHK红白歌合战 "wikilink")》中作为本曲的舞者参加了演出。
 
-B面曲《手中的世界》由[凛冽时雨](https://zh.wikipedia.org/wiki/凛冽时雨 "wikilink")（）的成员提供词曲。《》（）一曲则是对[三波春夫同名歌曲的翻唱](../Page/三波春夫.md "wikilink")，这首歌曲也被用作了[SoftBank](https://zh.wikipedia.org/wiki/SoftBank_Mobile_Corporation "wikilink")“”的广告歌。《Can't
+B面曲《手中的世界》由[凛冽时雨](https://zh.wikipedia.org/wiki/凛冽时雨 "wikilink")（）的成员提供词曲。《》（）一曲则是对[三波春夫](../Page/三波春夫.md "wikilink")同名歌曲的翻唱，这首歌曲也被用作了[SoftBank](https://zh.wikipedia.org/wiki/SoftBank_Mobile_Corporation "wikilink")“”的广告歌。《Can't
 Stop SMAP\!\! 〜 50 Singles Non-Stop Mix》是将自出道曲《[Can't Stop\!\!
 -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")》至《Joy\!\!》的50张单曲混音成的乐曲。
 

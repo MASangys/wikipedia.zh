@@ -1,9 +1,9 @@
-**Spz-kr**是一種由[納粹德國於](../Page/納粹德國.md "wikilink")1945年二戰末期製造的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍與[VG1-5](https://zh.wikipedia.org/wiki/VG1-5 "wikilink")，[STG45（M）和](../Page/StG45突擊步槍.md "wikilink")[MP
+**Spz-kr**是一種由[納粹德國](../Page/納粹德國.md "wikilink")於1945年二戰末期製造的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍與[VG1-5](https://zh.wikipedia.org/wiki/VG1-5 "wikilink")，[STG45（M）和](../Page/StG45突擊步槍.md "wikilink")[MP
 3008一樣皆是屬於](https://zh.wikipedia.org/wiki/MP_3008 "wikilink")“最後一搏”系列的武器。
 
 ## 概述
 
-Spz-kr全槍主要以[斯登衝鋒槍的零件組成](../Page/斯登衝鋒槍.md "wikilink")，其中最引人注目的是[機匣和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍托的部份](../Page/槍托.md "wikilink")，它沒有[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，其用作充當握把的[彈匣及](../Page/彈匣.md "wikilink")[彈匣釋放鈕則是來自](https://zh.wikipedia.org/wiki/彈匣釋放鈕 "wikilink")[StG44](../Page/StG44突击步枪.md "wikilink")。該槍的所有衍生型皆能夠進行半自動或[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。射手只需扣一半扳機便能進行單發射擊，繼續扣下去就是連發射擊。（後來研製的[斯泰爾AUG突擊步槍也有運用這種類似的結構](../Page/斯泰爾AUG突擊步槍.md "wikilink")）
+Spz-kr全槍主要以[斯登衝鋒槍](../Page/斯登衝鋒槍.md "wikilink")的零件組成，其中最引人注目的是[機匣和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍托](../Page/槍托.md "wikilink")的部份，它沒有[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，其用作充當握把的[彈匣](../Page/彈匣.md "wikilink")及[彈匣釋放鈕則是來自](https://zh.wikipedia.org/wiki/彈匣釋放鈕 "wikilink")[StG44](../Page/StG44突击步枪.md "wikilink")。該槍的所有衍生型皆能夠進行半自動或[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。射手只需扣一半扳機便能進行單發射擊，繼續扣下去就是連發射擊。（後來研製的[斯泰爾AUG突擊步槍](../Page/斯泰爾AUG突擊步槍.md "wikilink")也有運用這種類似的結構）
 
 ## 使用國
 

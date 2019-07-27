@@ -1,7 +1,7 @@
 《大航海时代IV PORTO
-ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")1999年在[Windows平台发行的一款角色扮演战略游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")（后来被移植到[任天堂DS和](../Page/任天堂DS.md "wikilink")[PlayStation之上](../Page/PlayStation.md "wikilink")），也是[大航海时代系列的第五作](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")（包括《[大航海时代外传](https://zh.wikipedia.org/wiki/大航海时代外传 "wikilink")》）。
+ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")1999年在[Windows平台发行的一款角色扮演战略游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")（后来被移植到[任天堂DS](../Page/任天堂DS.md "wikilink")和[PlayStation](../Page/PlayStation.md "wikilink")之上），也是[大航海时代系列的第五作](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")（包括《[大航海时代外传](https://zh.wikipedia.org/wiki/大航海时代外传 "wikilink")》）。
 
-游戏延续了该系列的特色，在游戏中，玩家扮演一位商会首领，率领一支远航舰队进行[贸易](../Page/贸易.md "wikilink")、[私掠](../Page/私掠.md "wikilink")、[交战](https://zh.wikipedia.org/wiki/海战 "wikilink")、[探险等](https://zh.wikipedia.org/wiki/探险 "wikilink")。可操作的主角人物是4位（威力加强版中又增加了3位），遍布于世界的各个角落，而不再继续以[欧洲为世界观的中心](../Page/欧洲.md "wikilink")。本作大致时间背景为16世纪末至17世纪初，欧洲人在[新大陆](https://zh.wikipedia.org/wiki/新大陆 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[亚洲等地开展](../Page/亚洲.md "wikilink")[殖民和贸易活动](../Page/殖民主义.md "wikilink")，与此同时，原来的海洋霸主[西班牙和](https://zh.wikipedia.org/wiki/西班牙帝国 "wikilink")[葡萄牙正在受到新兴航海国家的挑战](https://zh.wikipedia.org/wiki/葡萄牙帝国 "wikilink")。
+游戏延续了该系列的特色，在游戏中，玩家扮演一位商会首领，率领一支远航舰队进行[贸易](../Page/贸易.md "wikilink")、[私掠](../Page/私掠.md "wikilink")、[交战](https://zh.wikipedia.org/wiki/海战 "wikilink")、[探险等](https://zh.wikipedia.org/wiki/探险 "wikilink")。可操作的主角人物是4位（威力加强版中又增加了3位），遍布于世界的各个角落，而不再继续以[欧洲](../Page/欧洲.md "wikilink")为世界观的中心。本作大致时间背景为16世纪末至17世纪初，欧洲人在[新大陆](https://zh.wikipedia.org/wiki/新大陆 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[亚洲](../Page/亚洲.md "wikilink")等地开展[殖民和贸易活动](../Page/殖民主义.md "wikilink")，与此同时，原来的海洋霸主[西班牙和](https://zh.wikipedia.org/wiki/西班牙帝国 "wikilink")[葡萄牙正在受到新兴航海国家的挑战](https://zh.wikipedia.org/wiki/葡萄牙帝国 "wikilink")。
 
 游戏在作画和音乐上延续了光荣以往游戏的高水平，而本作中独特的“霸者之证”系统将几名主角的故事情节串连在一起。然而亦有美中不足处，例如航海视图较为粗糙，使人难以感受航海途中的波澜壮阔。而相较于大航海时代系列的前几作，游戏的整体难度偏低，使人很难体验到前几代作品中那惊心动魄、刻骨铭心的生存危机，这也使得该系列的拥趸对《大航海时代IV》褒贬不一。但与此同时，更富休闲性、欣赏意味的游戏方式却吸引了很多意在休闲的玩家的加入。
 
@@ -47,7 +47,7 @@ ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](htt
 
 当主角拥有一定经济实力的时候就可以建立地方舰队。游戏中最多可以建立6支舰队，每个地方舰队需要任命一名“统率力”较高的海员担任提督。地方舰队可以执行警戒、委任、攻击城市等命令，也可以进港待命。通常版游戏中建立地方舰队需要相应海域的霸者之证，但在PK版中取消这一设定。
 
-船可以在造船厂中进行买卖。游戏中的[船大多为](../Page/船.md "wikilink")[帆船](../Page/帆船.md "wikilink")，此外还有少数[桨船与](https://zh.wikipedia.org/wiki/桨船 "wikilink")[桨帆并用船](https://zh.wikipedia.org/wiki/桨帆船 "wikilink")。此外，不同海域、不同城市的造船厂会提供不同的船只（如[战列舰只能在北海买到](https://zh.wikipedia.org/wiki/战列舰 "wikilink")，而[中国帆船和日本](../Page/中国帆船.md "wikilink")[铁甲舰只能在东亚买到](../Page/铁甲舰.md "wikilink")）。
+船可以在造船厂中进行买卖。游戏中的[船](../Page/船.md "wikilink")大多为[帆船](../Page/帆船.md "wikilink")，此外还有少数[桨船与](https://zh.wikipedia.org/wiki/桨船 "wikilink")[桨帆并用船](https://zh.wikipedia.org/wiki/桨帆船 "wikilink")。此外，不同海域、不同城市的造船厂会提供不同的船只（如[战列舰只能在北海买到](https://zh.wikipedia.org/wiki/战列舰 "wikilink")，而[中国帆船](../Page/中国帆船.md "wikilink")和日本[铁甲舰](../Page/铁甲舰.md "wikilink")只能在东亚买到）。
 
 在造船厂中亦可以对船只进行改装，如在船只中建造某一特定舱室，或加装水兵室、武装炮台、装甲以提升船只在海战中的威力。配属船木工可以减少船只的改装费用。
 
@@ -89,7 +89,7 @@ ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](htt
 
 ### 主角
 
-  - 拉斐尔·卡斯特路：向往成为海员的[葡萄牙少年](../Page/葡萄牙.md "wikilink")，出发地位于地中海的[里斯本](../Page/里斯本.md "wikilink")
+  - 拉斐尔·卡斯特路：向往成为海员的[葡萄牙](../Page/葡萄牙.md "wikilink")少年，出发地位于地中海的[里斯本](../Page/里斯本.md "wikilink")
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@ ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](htt
 
 <!-- end list -->
 
-  - 赫德拉姆·约阿其姆·柏格斯统：[瑞典海军提督](../Page/瑞典.md "wikilink")，出发地位于北海的[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")
+  - 赫德拉姆·约阿其姆·柏格斯统：[瑞典](../Page/瑞典.md "wikilink")海军提督，出发地位于北海的[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@ ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](htt
 
 <!-- end list -->
 
-  - 丽璐·阿歌特：来自[荷兰的商人少女](../Page/荷兰.md "wikilink")，出发地位于北海的[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")
+  - 丽璐·阿歌特：来自[荷兰](../Page/荷兰.md "wikilink")的商人少女，出发地位于北海的[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")
 
 <!-- end list -->
 
@@ -121,12 +121,12 @@ ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](htt
 
 <!-- end list -->
 
-  - 华梅·玛利亚·李：[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[明朝海军的女将军](../Page/明朝.md "wikilink")，出发地位于东亚的[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")
+  - 华梅·玛利亚·李：[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[明朝](../Page/明朝.md "wikilink")海军的女将军，出发地位于东亚的[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")
 
 <!-- end list -->
 
   -
-    23岁，女性，父亲是地方舰队的司令，在与[倭寇的战斗中阵亡](../Page/倭寇.md "wikilink")，此后华梅继承了父亲的舰队。为了解除明朝的[海禁政策而与英国派遣团的理查交好](../Page/海禁.md "wikilink")，利用英国方面的压力开始了海运事业，希望能够对抗西方列强。取教名玛利亚是为了顺利的与西洋人交涉。
+    23岁，女性，父亲是地方舰队的司令，在与[倭寇](../Page/倭寇.md "wikilink")的战斗中阵亡，此后华梅继承了父亲的舰队。为了解除明朝的[海禁](../Page/海禁.md "wikilink")政策而与英国派遣团的理查交好，利用英国方面的压力开始了海运事业，希望能够对抗西方列强。取教名玛利亚是为了顺利的与西洋人交涉。
     通常版中的隐藏主角，而在PK版中则成为7位主角之一，以及PK版三名新角色的专属海员。
 
 <!-- end list -->
@@ -182,14 +182,14 @@ NPC势力是指游戏中除主角势力之外的其他势力。这些NPC势力�
   - 地中海：[肯毕西斯的皇冠](../Page/冈比西斯一世.md "wikilink")
   - 非洲：[阿克斯姆王的金印](../Page/阿克苏姆帝国.md "wikilink")
   - 新大陆：[水晶头盖骨](../Page/水晶人头骨.md "wikilink")
-  - 印度洋：[吠陀本集](../Page/吠陀.md "wikilink")
+  - 印度洋：[吠陀](../Page/吠陀.md "wikilink")本集
   - 东南亚：[库德里的永久护符](../Page/三佛齐.md "wikilink")
   - 东亚：[秦始皇的长信宫灯](https://zh.wikipedia.org/wiki/长信宫灯 "wikilink")
 
 而在亚伯拉罕篇、杏太郎篇、蒂雅篇中出现的霸者之证有：
 
   - 北海：[哈尔舒塔的贡品车](../Page/哈尔施塔特文化.md "wikilink")
-  - 地中海：[阿葛曼侬的面具](https://zh.wikipedia.org/wiki/阿伽门农 "wikilink")
+  - 地中海：[阿葛曼侬的面具](../Page/阿伽门农.md "wikilink")
   - 非洲：[羊头狮身像](../Page/库施.md "wikilink")
   - 新大陆：[契慕的斧头](https://zh.wikipedia.org/wiki/奇穆王国 "wikilink")
   - 印度洋：[萨尔贡的头像](https://zh.wikipedia.org/wiki/萨尔贡_\(阿卡德\) "wikilink")
@@ -233,8 +233,8 @@ NOVA》中探索相应的隐藏村庄并输入正确的暗号，可以解锁这�
 
 ## 其他轶事
 
-  - 游戏的细节之处亦体现了光荣的考据严谨，游戏中的宝物大多由历史上的传说掌故或真实文物改编而成，而各NPC势力也对应着当时具有历史代表性的国家或势力（如[北非地区的NPC势力](https://zh.wikipedia.org/wiki/北非 "wikilink")“巴巴洛沙·法斯尔·海雷丁”的原型就是著名的[阿尔及尔海盗](https://zh.wikipedia.org/wiki/阿尔及尔 "wikilink")[巴巴罗萨·海雷丁帕夏](https://zh.wikipedia.org/wiki/巴巴罗萨·海雷丁帕夏 "wikilink")）。但与此同时，游戏中也有许多与史实相悖之处，比如上文中提到的东亚霸者之证“秦始皇的长信宫灯”实际为[汉代文物](https://zh.wikipedia.org/wiki/汉代 "wikilink")，而不是[秦始皇宝藏的一部分](../Page/秦始皇.md "wikilink")。
-  - 游戏中主角之一李华梅由于其中国人身份而在中国大陆拥有较高人气，甚至有人假托清代[张廷玉写了一篇笔记体伪文](../Page/张廷玉.md "wikilink")，并被人信以为真。\[2\]
+  - 游戏的细节之处亦体现了光荣的考据严谨，游戏中的宝物大多由历史上的传说掌故或真实文物改编而成，而各NPC势力也对应着当时具有历史代表性的国家或势力（如[北非地区的NPC势力](https://zh.wikipedia.org/wiki/北非 "wikilink")“巴巴洛沙·法斯尔·海雷丁”的原型就是著名的[阿尔及尔海盗](https://zh.wikipedia.org/wiki/阿尔及尔 "wikilink")[巴巴罗萨·海雷丁帕夏](https://zh.wikipedia.org/wiki/巴巴罗萨·海雷丁帕夏 "wikilink")）。但与此同时，游戏中也有许多与史实相悖之处，比如上文中提到的东亚霸者之证“秦始皇的长信宫灯”实际为[汉代文物](https://zh.wikipedia.org/wiki/汉代 "wikilink")，而不是[秦始皇](../Page/秦始皇.md "wikilink")宝藏的一部分。
+  - 游戏中主角之一李华梅由于其中国人身份而在中国大陆拥有较高人气，甚至有人假托清代[张廷玉](../Page/张廷玉.md "wikilink")写了一篇笔记体伪文，并被人信以为真。\[2\]
   - 与《[太閤立志传V](https://zh.wikipedia.org/wiki/太閤立志传V "wikilink")》的联动：本作中的拉斐尔及丽璐在太閤立志传中各经营一家南蛮商馆。而在PS2版本中，满足一定条件可以和丽璐结婚。\[3\]
 
 ## 参考资料

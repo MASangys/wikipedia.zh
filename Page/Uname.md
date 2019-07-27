@@ -1,10 +1,10 @@
 **uname**（*unix
-name*的简写）是一个[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统上的](../Page/操作系统.md "wikilink")[程序](../Page/计算机程序.md "wikilink")，可以打印当前计算机和操作系统的名称、版本及其他细节。`uname`系统调用和命令第一次出现在[PWB/UNIX上](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")。这两个由[POSIX指定](https://zh.wikipedia.org/wiki/POSIX "wikilink")。\[1\]\[2\]
+name*的简写）是一个[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的[程序](../Page/计算机程序.md "wikilink")，可以打印当前计算机和操作系统的名称、版本及其他细节。`uname`系统调用和命令第一次出现在[PWB/UNIX上](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")。这两个由[POSIX指定](https://zh.wikipedia.org/wiki/POSIX "wikilink")。\[1\]\[2\]
 
 一些Unix变种，如[AT\&T](../Page/AT&T.md "wikilink") [System
 V](https://zh.wikipedia.org/wiki/System_V "wikilink")3.0版，包含了相关的`setname`程序，用来改变uname报告的值。
 
-[GNU版本的uname包含在](../Page/GNU.md "wikilink")“sh-utils”或“coreutils”包中。uname本身不是一个独立的程序。
+[GNU](../Page/GNU.md "wikilink")版本的uname包含在“sh-utils”或“coreutils”包中。uname本身不是一个独立的程序。
 
 ## 范例
 

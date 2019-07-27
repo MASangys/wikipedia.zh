@@ -1,8 +1,8 @@
-**台視HD台**，是[臺灣電視公司於](../Page/臺灣電視公司.md "wikilink")2012年7月21日至2014年12月28日播出的高畫質電視頻道。
+**台視HD台**，是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")於2012年7月21日至2014年12月28日播出的高畫質電視頻道。
 
 ## 歷史
 
-  - 2004年1月1日，[臺灣電視公司已開始策劃加開HD台](../Page/臺灣電視公司.md "wikilink")。\[1\]
+  - 2004年1月1日，[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")已開始策劃加開HD台。\[1\]
   - 2012年6月27日，[國家通訊傳播委員會](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink")（NCC）通過無線四台高畫質頻道於[2012倫敦奧運期間的營運計畫](../Page/2012年夏季奥林匹克运动会.md "wikilink")，但規定只能播出奧運相關節目。\[2\]
   - 2012年7月9日，台視HD台開始播出測試訊號及字卡。
   - 2012年7月21日，台視HD台正式開播，開始播放奧運相關節目。
@@ -75,7 +75,7 @@
 ### 綜藝節目
 
   - [樂光寶盒](../Page/樂光寶盒.md "wikilink")
-  - [超級偶像Super Idol](../Page/超級偶像.md "wikilink")
+  - [超級偶像 Idol](../Page/超級偶像.md "wikilink")Super
   - [百萬小學堂](../Page/百萬小學堂.md "wikilink")
   - [百萬大明星](../Page/百萬大明星.md "wikilink")
   - [王子的約會](../Page/王子的約會.md "wikilink")
@@ -120,8 +120,8 @@
 ### 特別節目
 
   - [2012倫敦奧運](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")
-  - [維也納新年音樂會](https://zh.wikipedia.org/wiki/維也納新年音樂會 "wikilink")（2013～2014年，[元旦播出](../Page/元旦.md "wikilink")）
-  - [超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")（[2013年](../Page/2013超級巨星紅白藝能大賞.md "wikilink")～[2014年](../Page/2014超級巨星紅白藝能大賞.md "wikilink")，[除夕播出](../Page/除夕.md "wikilink")）
+  - [維也納新年音樂會](https://zh.wikipedia.org/wiki/維也納新年音樂會 "wikilink")（2013～2014年，[元旦](../Page/元旦.md "wikilink")播出）
+  - [超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")（[2013年](../Page/2013超級巨星紅白藝能大賞.md "wikilink")～[2014年](../Page/2014超級巨星紅白藝能大賞.md "wikilink")，[除夕](../Page/除夕.md "wikilink")播出）
   - [KKBOX數位音樂風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")
       - 第八屆（2013年1月19日，為台視除奧運轉播外首度以HD高畫質直播的特別節目）
       - 第九屆（2014年2月22日）

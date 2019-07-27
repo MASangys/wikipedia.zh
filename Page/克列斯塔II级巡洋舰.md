@@ -1,4 +1,4 @@
-**克列斯塔II级巡洋舰**是[苏联海军冷战期间的一级](https://zh.wikipedia.org/wiki/苏联海军 "wikilink")[导弹巡洋舰](https://zh.wikipedia.org/wiki/导弹巡洋舰 "wikilink")，[苏联编号为](../Page/苏联.md "wikilink")1134A（金雕A级）。它是[克里斯塔I级巡洋舰的反潜改进型](../Page/克里斯塔I级巡洋舰.md "wikilink")，装备新的RPK-3风雪/、[SA-N-3舰空导弹及新的](../Page/SA-N-3导弹.md "wikilink")[声纳](https://zh.wikipedia.org/wiki/声纳 "wikilink")。克列斯塔II级全部由[圣彼得堡的](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[日丹诺夫造船厂建造](https://zh.wikipedia.org/wiki/日丹诺夫造船厂 "wikilink")，于1960年代晚期服役，[冷战结束后全部快速退役](../Page/冷战.md "wikilink")。
+**克列斯塔II级巡洋舰**是[苏联海军冷战期间的一级](https://zh.wikipedia.org/wiki/苏联海军 "wikilink")[导弹巡洋舰](https://zh.wikipedia.org/wiki/导弹巡洋舰 "wikilink")，[苏联](../Page/苏联.md "wikilink")编号为1134A（金雕A级）。它是[克里斯塔I级巡洋舰](../Page/克里斯塔I级巡洋舰.md "wikilink")的反潜改进型，装备新的RPK-3风雪/、[SA-N-3舰空导弹及新的](../Page/SA-N-3导弹.md "wikilink")[声纳](https://zh.wikipedia.org/wiki/声纳 "wikilink")。克列斯塔II级全部由[圣彼得堡的](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[日丹诺夫造船厂建造](https://zh.wikipedia.org/wiki/日丹诺夫造船厂 "wikilink")，于1960年代晚期服役，[冷战](../Page/冷战.md "wikilink")结束后全部快速退役。
 
 ## 注释
 

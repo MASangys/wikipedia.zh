@@ -1,9 +1,9 @@
 [HK_Telecom_House_2008.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_2008.jpg "fig:HK_Telecom_House_2008.jpg")
-**DBC數碼電台**全稱**香港數碼廣播有限公司**（，[縮寫](../Page/縮寫.md "wikilink")：**DBC**），前身為於2008年獲得[香港政府發放](https://zh.wikipedia.org/wiki/香港政府 "wikilink")[AM聲音廣播牌照的](https://zh.wikipedia.org/wiki/AM "wikilink")**雄濤廣播有限公司**（），是[香港的一家](../Page/香港.md "wikilink")[商業廣播](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")，也曾經是[香港數碼聲音廣播最大營辦商](../Page/香港數碼聲音廣播.md "wikilink")。
+**DBC數碼電台**全稱**香港數碼廣播有限公司**（，[縮寫](../Page/縮寫.md "wikilink")：**DBC**），前身為於2008年獲得[香港政府發放](https://zh.wikipedia.org/wiki/香港政府 "wikilink")[AM聲音廣播牌照的](https://zh.wikipedia.org/wiki/AM "wikilink")**雄濤廣播有限公司**（），是[香港](../Page/香港.md "wikilink")的一家[商業廣播](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")，也曾經是[香港數碼聲音廣播](../Page/香港數碼聲音廣播.md "wikilink")最大營辦商。
 
-DBC數碼電台最初由[香港](../Page/香港.md "wikilink")[名嘴](../Page/名嘴.md "wikilink")、前[立法會議員](https://zh.wikipedia.org/wiki/立法會議員 "wikilink")[鄭經翰創辦及兼任台長](../Page/鄭經翰.md "wikilink")。現時大股東[港區全國政協委員](https://zh.wikipedia.org/wiki/政協 "wikilink")[黃楚標](../Page/黃楚標.md "wikilink")，董事會主席[李國章](../Page/李國章.md "wikilink")[教授](../Page/教授.md "wikilink")、董事[李少光](../Page/李少光.md "wikilink")、[彭玉榮](https://zh.wikipedia.org/wiki/彭玉榮 "wikilink")，行政總裁[羅燦](https://zh.wikipedia.org/wiki/羅燦 "wikilink")\[1\]。
+DBC數碼電台最初由[香港](../Page/香港.md "wikilink")[名嘴](../Page/名嘴.md "wikilink")、前[立法會議員](https://zh.wikipedia.org/wiki/立法會議員 "wikilink")[鄭經翰](../Page/鄭經翰.md "wikilink")創辦及兼任台長。現時大股東[港區全國政協委員](https://zh.wikipedia.org/wiki/政協 "wikilink")[黃楚標](../Page/黃楚標.md "wikilink")，董事會主席[李國章](../Page/李國章.md "wikilink")[教授](../Page/教授.md "wikilink")、董事[李少光](../Page/李少光.md "wikilink")、[彭玉榮](https://zh.wikipedia.org/wiki/彭玉榮 "wikilink")，行政總裁[羅燦](https://zh.wikipedia.org/wiki/羅燦 "wikilink")\[1\]。
 
-電台曾於2012年10月至2013年1月期間停播，引發[香港數碼廣播停播風波](../Page/香港數碼廣播停播風波.md "wikilink")，於2013年1月28日復播後，由[麥潤壽接棒成為台長](../Page/麥潤壽.md "wikilink")，7條頻道中，[數碼一台](../Page/數碼一台.md "wikilink")、[數碼二台及](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")[數碼五台提供節目](../Page/數碼五台.md "wikilink")，四條頻道播放類型不同歌曲及音樂\[2\]。2013年9月16日DBC數碼電台七條頻道重新整合，並且分別命名為：「**旗艦台**」（[數碼一台](../Page/數碼一台.md "wikilink")）、「**新聞台**」（[數碼二台](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")）、「**財經台**」（[數碼三台](../Page/數碼三台.md "wikilink")）、「**校園台**」（[數碼四台](../Page/數碼四台.md "wikilink")）、「**笑融台**」（[數碼五台](../Page/數碼五台.md "wikilink")）、「**音樂台**」（[數碼六台](../Page/數碼六台.md "wikilink")）及「**戲曲台**」（[數碼七台](../Page/數碼七台.md "wikilink")），各台並設有即場[DJ直播節目](https://zh.wikipedia.org/wiki/DJ "wikilink")\[3\]，並於同年12月20日舉行頻道正式廣播典禮。\[4\]。
+電台曾於2012年10月至2013年1月期間停播，引發[香港數碼廣播停播風波](../Page/香港數碼廣播停播風波.md "wikilink")，於2013年1月28日復播後，由[麥潤壽](../Page/麥潤壽.md "wikilink")接棒成為台長，7條頻道中，[數碼一台](../Page/數碼一台.md "wikilink")、[數碼二台及](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")[數碼五台](../Page/數碼五台.md "wikilink")提供節目，四條頻道播放類型不同歌曲及音樂\[2\]。2013年9月16日DBC數碼電台七條頻道重新整合，並且分別命名為：「**旗艦台**」（[數碼一台](../Page/數碼一台.md "wikilink")）、「**新聞台**」（[數碼二台](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")）、「**財經台**」（[數碼三台](../Page/數碼三台.md "wikilink")）、「**校園台**」（[數碼四台](../Page/數碼四台.md "wikilink")）、「**笑融台**」（[數碼五台](../Page/數碼五台.md "wikilink")）、「**音樂台**」（[數碼六台](../Page/數碼六台.md "wikilink")）及「**戲曲台**」（[數碼七台](../Page/數碼七台.md "wikilink")），各台並設有即場[DJ直播節目](https://zh.wikipedia.org/wiki/DJ "wikilink")\[3\]，並於同年12月20日舉行頻道正式廣播典禮。\[4\]。
 
 2016年8月8日，電台宣佈由於香港數碼聲音廣播業務發展步伐未如理想，公司業務得不到廣告的支持，經股東及董事會議決，在同日早上知會政府交還聲音廣播牌照，而大部分員工將服務至9月7日，電台將按照牌照繼續安排廣播至局方批准停止服務為止。同年10月11日，行政長官會同行政會議（行會）批准，由10月15日起終止香港數碼廣播的數碼廣播牌照，同時電台停播\[5\]。
 
@@ -11,12 +11,12 @@ DBC數碼電台最初由[香港](../Page/香港.md "wikilink")[名嘴](../Page/�
 
 ### 前期
 
-雄濤廣播於2008年1月7日提交聲音廣播牌照的申請。[香港政府於](https://zh.wikipedia.org/wiki/香港政府 "wikilink")2008年7月9日公佈行政長官批准雄濤廣播的聲音廣播牌照申請\[6\]，[行政長官會同行政會議原則上批准雄濤廣播有限公司申請設置一條](../Page/行政長官會同行政會議.md "wikilink")24小時[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[AM電台頻道](https://zh.wikipedia.org/wiki/調幅 "wikilink")，提供多元化知識型節目，牌照有效期12年。雄濤廣播又主動承諾提供200萬元履約保證金，建立所需的傳輸[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")，以及在獲發牌照後2年內開展服務。\[7\]初時預計最快可於2009年第三季啟播\[8\]。該頻道將提供每日24小時[粵語廣播服務](https://zh.wikipedia.org/wiki/粵語 "wikilink")，當中包括每星期30小時時事和財經新聞、20小時時事評論節目、28小時音樂節目，其餘時段會製作一些有關生活趣味及進修的節目。雄濤廣播計劃投資最多1億4千萬港元，初期投入3千9百萬港元建設基礎設施；而經營初期料虧損約6千9百萬港元，預計要在經營3年後才能達致收支平衡。雄濤廣播將使用一條[調幅為AM](https://zh.wikipedia.org/wiki/調幅 "wikilink")810千赫的頻道，覆蓋整個香港。
+雄濤廣播於2008年1月7日提交聲音廣播牌照的申請。[香港政府於](https://zh.wikipedia.org/wiki/香港政府 "wikilink")2008年7月9日公佈行政長官批准雄濤廣播的聲音廣播牌照申請\[6\]，[行政長官會同行政會議](../Page/行政長官會同行政會議.md "wikilink")原則上批准雄濤廣播有限公司申請設置一條24小時[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[AM電台頻道](https://zh.wikipedia.org/wiki/調幅 "wikilink")，提供多元化知識型節目，牌照有效期12年。雄濤廣播又主動承諾提供200萬元履約保證金，建立所需的傳輸[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")，以及在獲發牌照後2年內開展服務。\[7\]初時預計最快可於2009年第三季啟播\[8\]。該頻道將提供每日24小時[粵語廣播服務](https://zh.wikipedia.org/wiki/粵語 "wikilink")，當中包括每星期30小時時事和財經新聞、20小時時事評論節目、28小時音樂節目，其餘時段會製作一些有關生活趣味及進修的節目。雄濤廣播計劃投資最多1億4千萬港元，初期投入3千9百萬港元建設基礎設施；而經營初期料虧損約6千9百萬港元，預計要在經營3年後才能達致收支平衡。雄濤廣播將使用一條[調幅為AM](https://zh.wikipedia.org/wiki/調幅 "wikilink")810千赫的頻道，覆蓋整個香港。
 
-2008年11月12日，[行政長官會同行政會議](../Page/行政長官會同行政會議.md "wikilink")，正式向[鄭經翰等政商界人士創立的雄濤廣播有限公司](../Page/鄭經翰.md "wikilink")（雄濤廣播）批出有效期為12年的牌照，以採用調幅（AM）810千赫頻率設置和提供一條新的電台頻道。
+2008年11月12日，[行政長官會同行政會議](../Page/行政長官會同行政會議.md "wikilink")，正式向[鄭經翰](../Page/鄭經翰.md "wikilink")等政商界人士創立的雄濤廣播有限公司（雄濤廣播）批出有效期為12年的牌照，以採用調幅（AM）810千赫頻率設置和提供一條新的電台頻道。
 \[9\]
 
-[2009年10月](../Page/2009年10月.md "wikilink")，[鄭經翰表示雄濤會使用](../Page/鄭經翰.md "wikilink")[數碼聲音廣播技術](../Page/數碼聲音廣播.md "wikilink")，會有7個台在11月開始試播，2010年11月可正式啟播。\[10\]同年12月，[鄭經翰表示準備自家生產數碼收音機及會低價出售](../Page/鄭經翰.md "wikilink")，和會送出不多於5000個的數碼廣播收音機給專線小巴或小輪，內容包括流行曲、古典音樂及粵曲等。這僅屬試播，所以暫不會播放任何有主持的新聞或烽煙節目，料最快要到2010年底才能正式投入全面數碼廣播，而雄濤亦已經向老前輩電視台新聞記者挖角，為成立體育財經傳訊頻道作準備。\[11\]
+[2009年10月](../Page/2009年10月.md "wikilink")，[鄭經翰](../Page/鄭經翰.md "wikilink")表示雄濤會使用[數碼聲音廣播](../Page/數碼聲音廣播.md "wikilink")技術，會有7個台在11月開始試播，2010年11月可正式啟播。\[10\]同年12月，[鄭經翰](../Page/鄭經翰.md "wikilink")表示準備自家生產數碼收音機及會低價出售，和會送出不多於5000個的數碼廣播收音機給專線小巴或小輪，內容包括流行曲、古典音樂及粵曲等。這僅屬試播，所以暫不會播放任何有主持的新聞或烽煙節目，料最快要到2010年底才能正式投入全面數碼廣播，而雄濤亦已經向老前輩電視台新聞記者挖角，為成立體育財經傳訊頻道作準備。\[11\]
 
 ### 試播
 
@@ -75,7 +75,7 @@ III](https://zh.wikipedia.org/wiki/波段_III "wikilink")
 
 2011年9月26日，[數碼大-{晒}-台啟播](https://zh.wikipedia.org/wiki/數碼大晒台 "wikilink")。\[17\]
 
-2011年11月1日起，與[電訊盈科合作](../Page/電訊盈科.md "wikilink")，透過[now寬頻電視傳送](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[數碼大聲台](https://zh.wikipedia.org/wiki/數碼大聲台 "wikilink")（571頻道）、[數碼大家台](https://zh.wikipedia.org/wiki/數碼大家台 "wikilink")（572頻道）、[數碼大錢台](https://zh.wikipedia.org/wiki/數碼大錢台 "wikilink")（573頻道）、[數碼大晒台](https://zh.wikipedia.org/wiki/數碼大晒台 "wikilink")（574頻道）、[數碼大同台](https://zh.wikipedia.org/wiki/數碼大同台 "wikilink")（575頻道）、[數碼大歌台](https://zh.wikipedia.org/wiki/數碼大歌台 "wikilink")（576頻道）及[數碼大戲台](https://zh.wikipedia.org/wiki/數碼大戲台 "wikilink")（577頻道）。
+2011年11月1日起，與[電訊盈科](../Page/電訊盈科.md "wikilink")合作，透過[now寬頻電視傳送](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[數碼大聲台](https://zh.wikipedia.org/wiki/數碼大聲台 "wikilink")（571頻道）、[數碼大家台](https://zh.wikipedia.org/wiki/數碼大家台 "wikilink")（572頻道）、[數碼大錢台](https://zh.wikipedia.org/wiki/數碼大錢台 "wikilink")（573頻道）、[數碼大晒台](https://zh.wikipedia.org/wiki/數碼大晒台 "wikilink")（574頻道）、[數碼大同台](https://zh.wikipedia.org/wiki/數碼大同台 "wikilink")（575頻道）、[數碼大歌台](https://zh.wikipedia.org/wiki/數碼大歌台 "wikilink")（576頻道）及[數碼大戲台](https://zh.wikipedia.org/wiki/數碼大戲台 "wikilink")（577頻道）。
 
 2011年11月13日，[數碼大同台啟播](https://zh.wikipedia.org/wiki/數碼大同台 "wikilink")。\[18\]
 
@@ -89,18 +89,18 @@ III](https://zh.wikipedia.org/wiki/波段_III "wikilink")
 
 #### 股東爭議/政治打壓
 
-2012年8月3日，由於4名股東（黃楚標、李國寶、李國章、黃子欣）不願按原訂計畫注資5千萬，也不願出售股份或招股，圖令DBC被迫清盤，讓政府收回其廣播牌照。創辦人鄭經翰稱是受到中聯辦打壓\[22\]，及後鄭經翰表示，[梁振英亦可能涉及其中](../Page/梁振英.md "wikilink")\[23\]，而黃楚標在接受東方報業集團訪問時，則指出已經投資過億仍然未見成效，曾說過「你(記者)有無聽過我個台?」。又指鄭經翰高薪挖角，大花資金云云，故決定拒絕注資。但鄭經翰回應指，並非以高薪挖角，而是於節目廣告中對主持人分紅。
+2012年8月3日，由於4名股東（黃楚標、李國寶、李國章、黃子欣）不願按原訂計畫注資5千萬，也不願出售股份或招股，圖令DBC被迫清盤，讓政府收回其廣播牌照。創辦人鄭經翰稱是受到中聯辦打壓\[22\]，及後鄭經翰表示，[梁振英](../Page/梁振英.md "wikilink")亦可能涉及其中\[23\]，而黃楚標在接受東方報業集團訪問時，則指出已經投資過億仍然未見成效，曾說過「你(記者)有無聽過我個台?」。又指鄭經翰高薪挖角，大花資金云云，故決定拒絕注資。但鄭經翰回應指，並非以高薪挖角，而是於節目廣告中對主持人分紅。
 
 10月10日，行政總裁何國輝接受商台《在晴朗的一天出發》訪問時補充，曾有其他人士願出價購入黃楚標的股份，但黃的條件是要終止鄭經翰與DBC廣播的全部合約，即台長職位與節目主持兩份合約，雙方因而談不攏。
 
 10月21日，香港數碼廣播之Facebook
-Page張貼出一由[黃世澤上載之錄音](https://zh.wikipedia.org/wiki/黃世澤 "wikilink")\[24\]，於2011年5月的一次會議，當中黃楚標提及中聯辦對[李慧玲之評價](../Page/李慧玲.md "wikilink")，指中聯辦對李慧玲非常反感，所以黃楚標不願意讓李慧玲加盟香港數碼廣播，但鄭經翰指傳媒要有獨立性，如聘請李慧玲，不能控制其言論。黃又指鄭理應知道他不能賣股份之原因。
+Page張貼出一由[黃世澤上載之錄音](https://zh.wikipedia.org/wiki/黃世澤 "wikilink")\[24\]，於2011年5月的一次會議，當中黃楚標提及中聯辦對[李慧玲](../Page/李慧玲.md "wikilink")之評價，指中聯辦對李慧玲非常反感，所以黃楚標不願意讓李慧玲加盟香港數碼廣播，但鄭經翰指傳媒要有獨立性，如聘請李慧玲，不能控制其言論。黃又指鄭理應知道他不能賣股份之原因。
 
 #### 停播及員工義播
 
 經一輪遣散，9月11日後數碼電台主持人及員工數目由若百人減至只餘下若40人。2012年10月9日傍晚5時52分左右數碼大聲台節目十級自由Phone直播由「大班」鄭經翰和何國輝宣佈DBC緊急董事會流會，同時宣佈DBC正常廣播於翌日下午5時終止，5時起至8時由餘下主持向聽眾告別，2012年10月10日晚上8時正之後正式停止所有節目。通訊事務管理局辦公室於10月10日下午接獲涉及香港數碼於當晚八時後停止運作事宜的書面通知。\[25\]
 
-鄭經翰於10月10日特備節目內表示，他與何國輝、夏佳理會以私人身分共同承擔員工於10月1日至10日的薪酬及遣散費。節目內亦提及，部份主持醞釀發起「義播雲天七日情」七天無薪義播。對此，鄭經翰表示有保留，因他認為宣佈停播後又復播會損害DBC的公信力，是日停播對他個人來說亦是一種解脫，但他會支持員工的決定\[26\]。2012年10月12日，數碼廣播以書面通知通訊事務管理局辦公室，將於10月15日恢復廣播。法律顧問鄭家富表示將按計劃與多名節目主持人，於15日起以無償方式義播7日\[27\]，計畫中於10月19日至21日，義播行動會移師至[添馬艦政府總部集會](https://zh.wikipedia.org/wiki/添馬艦政府總部 "wikilink")，要求[商務及經濟發展局局長](../Page/商務及經濟發展局.md "wikilink")[蘇錦樑如處理近年](../Page/蘇錦樑.md "wikilink")[亞洲電視股東爭議般介入調停](../Page/亞洲電視.md "wikilink")。\[28\]
+鄭經翰於10月10日特備節目內表示，他與何國輝、夏佳理會以私人身分共同承擔員工於10月1日至10日的薪酬及遣散費。節目內亦提及，部份主持醞釀發起「義播雲天七日情」七天無薪義播。對此，鄭經翰表示有保留，因他認為宣佈停播後又復播會損害DBC的公信力，是日停播對他個人來說亦是一種解脫，但他會支持員工的決定\[26\]。2012年10月12日，數碼廣播以書面通知通訊事務管理局辦公室，將於10月15日恢復廣播。法律顧問鄭家富表示將按計劃與多名節目主持人，於15日起以無償方式義播7日\[27\]，計畫中於10月19日至21日，義播行動會移師至[添馬艦政府總部集會](https://zh.wikipedia.org/wiki/添馬艦政府總部 "wikilink")，要求[商務及經濟發展局](../Page/商務及經濟發展局.md "wikilink")局長[蘇錦樑](../Page/蘇錦樑.md "wikilink")如處理近年[亞洲電視](../Page/亞洲電視.md "wikilink")股東爭議般介入調停。\[28\]
 
 10月16日中午，即義播第二天，台長鄭經翰接獲黃楚標陣營發出的律師信，質疑義播會損害公司利益，員工在其後開始收拾物品準備。翌日下午，黃楚標向法庭申請接管令獲勝訴，公司於10月18日起由[德勤會計師事務所接管](https://zh.wikipedia.org/wiki/德勤會計師事務所 "wikilink")\[29\]，但法庭質疑終止義播會間接導致電台停牌\[30\]。
 
@@ -110,7 +110,7 @@ Page張貼出一由[黃世澤上載之錄音](https://zh.wikipedia.org/wiki/黃�
 
 12月10日拍賣股份的方案提出後不久，黃楚標態度突然轉變，忽聯絡何國輝指願意收購鄭、何、夏三人之全部股份，並聘請鄭經翰及何國輝6個月作復播顧問。雙方協議定於12月31日簽署。
 
-12月17日，由林旭華牽頭的「[D100義播雲天](../Page/D100.md "wikilink")90日」網絡電台廣播開始，務求延續DBC的廣播服務\[31\]。鄭經翰稱出售DBC股份後所得金額將投入D100網台，包括發展網絡收音機及電話收音機等收聽渠道。\[32\]
+12月17日，由林旭華牽頭的「[D100](../Page/D100.md "wikilink")義播雲天90日」網絡電台廣播開始，務求延續DBC的廣播服務\[31\]。鄭經翰稱出售DBC股份後所得金額將投入D100網台，包括發展網絡收音機及電話收音機等收聽渠道。\[32\]
 
 及至12月31日簽約前，黃楚標一方突然提出多一個條件，鄭經翰等人認為不合理，並指對方無誠意解決問題，數碼電台之股東爭拗遂未能解決，而D100則失去該筆資金。
 
@@ -192,7 +192,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
 ## 爭議
 
-雄濤廣播在申請聲音廣播牌照時，曾經表明「計劃採用『多路傳輸』系統和共用發射天線方式傳送服務，避免建造一座新的發射站的需要」，並稱「預計沒有進行建築工程的需要」。不過雄濤廣播後來改變主意，於2008年9月計劃在[坪洲東南部的手指山](../Page/坪洲.md "wikilink")，興建一座新的發射站。這引起了坪洲居民強烈不滿，爭取停止該項工程\[40\]。雄濤廣播解釋，因為現時的商營電台不願讓雄濤共用發射天線，所以才需要新發射站。最後，雄濤廣播決定改為使用[數碼廣播](../Page/香港數碼聲音廣播.md "wikilink")，平息這場爭議。
+雄濤廣播在申請聲音廣播牌照時，曾經表明「計劃採用『多路傳輸』系統和共用發射天線方式傳送服務，避免建造一座新的發射站的需要」，並稱「預計沒有進行建築工程的需要」。不過雄濤廣播後來改變主意，於2008年9月計劃在[坪洲](../Page/坪洲.md "wikilink")東南部的手指山，興建一座新的發射站。這引起了坪洲居民強烈不滿，爭取停止該項工程\[40\]。雄濤廣播解釋，因為現時的商營電台不願讓雄濤共用發射天線，所以才需要新發射站。最後，雄濤廣播決定改為使用[數碼廣播](../Page/香港數碼聲音廣播.md "wikilink")，平息這場爭議。
 
 ## 公司架構
 
@@ -202,9 +202,9 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
 ### 股權變動
 
-  - 2011年，股東[胡漢清出售](../Page/胡漢清.md "wikilink")3.33%股權予[鄭經翰](../Page/鄭經翰.md "wikilink")（增持至23.33%）；
+  - 2011年，股東[胡漢清](../Page/胡漢清.md "wikilink")出售3.33%股權予[鄭經翰](../Page/鄭經翰.md "wikilink")（增持至23.33%）；
   - 2012年，股東爭拗後，[鄭經翰](../Page/鄭經翰.md "wikilink")（23.33%）聯同[何國輝](../Page/何國輝.md "wikilink")（6.67%）及[夏佳理](../Page/夏佳理.md "wikilink")（10%）出售予[黃楚標](../Page/黃楚標.md "wikilink")（增持至60%）；
-  - 2013年，股東[李國章](../Page/李國章.md "wikilink")（10%）、[李國寶](../Page/李國寶.md "wikilink")（10%）、[黃子欣](https://zh.wikipedia.org/wiki/黃子欣 "wikilink")（10%）聯同[蒙民偉遺產執行人](../Page/蒙民偉.md "wikilink")（[李國寶](../Page/李國寶.md "wikilink")、[蔡奮強](https://zh.wikipedia.org/wiki/蔡奮強 "wikilink")，10%）出售總共39.48%予[黃楚標](../Page/黃楚標.md "wikilink")（增持至99.6%）；另外，[李國章](../Page/李國章.md "wikilink")、[李國寶](../Page/李國寶.md "wikilink")、[黃子欣各減持至](https://zh.wikipedia.org/wiki/黃子欣 "wikilink")0.13%
+  - 2013年，股東[李國章](../Page/李國章.md "wikilink")（10%）、[李國寶](../Page/李國寶.md "wikilink")（10%）、[黃子欣](https://zh.wikipedia.org/wiki/黃子欣 "wikilink")（10%）聯同[蒙民偉](../Page/蒙民偉.md "wikilink")遺產執行人（[李國寶](../Page/李國寶.md "wikilink")、[蔡奮強](https://zh.wikipedia.org/wiki/蔡奮強 "wikilink")，10%）出售總共39.48%予[黃楚標](../Page/黃楚標.md "wikilink")（增持至99.6%）；另外，[李國章](../Page/李國章.md "wikilink")、[李國寶](../Page/李國寶.md "wikilink")、[黃子欣各減持至](https://zh.wikipedia.org/wiki/黃子欣 "wikilink")0.13%
   - 2015年8月，李國章、李國寶、黃子欣各持有0.13%股權全數轉讓予黃楚標，黃楚標自此全資擁有DBC
 
 ### 董事會
@@ -234,7 +234,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
 ## 旗下頻道
 
-### [數碼一台旗艦台](../Page/數碼一台.md "wikilink")
+### [數碼一台](../Page/數碼一台.md "wikilink")旗艦台
 
   - 選台號碼：01
   - [DBC 1](https://web.archive.org/web/20140728111607/http://www.dbc.hk/radio1)
@@ -249,35 +249,35 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
   - 90後主場，沸青非常吹水平台！由貼地網絡熱話到堅離地夢想起飛；由潮爆K-Pop 韓風、日語J-Pop放送、到香港新歌串流；由朝朝Good
     Morning 到每一個晚上，日日空中傳情。貼地聚焦，香港限定，為本地沸青提供一個發光、發聲、發熱平台。
 
-### [數碼三台財經台](../Page/數碼三台.md "wikilink")
+### [數碼三台](../Page/數碼三台.md "wikilink")財經台
 
   - 選台號碼：03
   - [DBC 3](https://web.archive.org/web/20140729202825/http://www.dbc.hk/radio3)
   - 贏盡油、金、股、輪、匯、債、樓
   - 廣東話財經頻道。每逢港股交易日追蹤香港股市實況，時刻留意衍生工具市場最新動態，更提供美股、外匯、商品、樓市、窩輪、牛熊證、期指、期權等不同範疇的行情資訊，讓聽眾掌握第一手資料，贏在當前，賺之有道。
 
-### [數碼四台華語歌曲台](../Page/數碼四台.md "wikilink")
+### [數碼四台](../Page/數碼四台.md "wikilink")華語歌曲台
 
   - 選台號碼：04
   - [DBC 4](https://web.archive.org/web/20140729202908/http://www.dbc.hk/radio4)
   - 華語歌曲 百聽不厭
   - 廿四小時播放華語音樂之頻道。由一眾資深音樂人，為你無間斷播放刻下流行之旋律、以及耳熟能詳之老歌。音樂導賞帶你走進廣闊的音樂空間，享受數碼廣播之非凡音色。
 
-### [數碼五台笑融台](../Page/數碼五台.md "wikilink")
+### [數碼五台](../Page/數碼五台.md "wikilink")笑融台
 
   - 選台號碼：05
   - [DBC 5](https://web.archive.org/web/20140729202938/http://www.dbc.hk/radio5)
   - 多元文化音樂 民族共融
   - 為香港首條以服務不同族裔人士而設的數碼電台頻道。提供多種語言歌曲，包括印尼語、菲律賓語、巴基斯坦語、印度語、泰語、英語等切合各族裔聽眾需要，推動民族共融。
 
-### [數碼六台音樂台](../Page/數碼六台.md "wikilink")
+### [數碼六台](../Page/數碼六台.md "wikilink")音樂台
 
   - 選台號碼：06
   - [DBC 6](https://web.archive.org/web/20140729203016/http://www.dbc.hk/radio6)
   - 外語歌曲 流行經典
   - 歐美流行音樂與經典歌曲廿四小時輪流播放，每週六、日更有流行音樂會、經典樂人與歌曲及舞不停時段，以數碼無暇音色帶你遊走浩瀚音樂領域。
 
-### [數碼七台戲曲台](../Page/數碼七台.md "wikilink")
+### [數碼七台](../Page/數碼七台.md "wikilink")戲曲台
 
   - 選台號碼：07
   - [DBC 7](https://web.archive.org/web/20140729203050/http://www.dbc.hk/radio7)
@@ -360,7 +360,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 </tr>
 <tr class="even">
 <td><p><a href="../Page/江美儀.md" title="wikilink">江美儀</a></p></td>
-<td><p>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》、《<a href="../Page/李居明妙論天下.md" title="wikilink">李居明妙論天下第二季</a>》</p></td>
+<td><p>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》、《<a href="../Page/李居明妙論天下.md" title="wikilink">李居明妙論天下</a>第二季》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第二台.md" title="wikilink">第二台</a>《<a href="../Page/瘋show快活人.md" title="wikilink">瘋show快活人</a>》、DBC《<a href="https://zh.wikipedia.org/wiki/女皇頭_老襯底" title="wikilink">女皇頭 老襯底</a>》</p></td>
 <td><p>兼職<a href="https://zh.wikipedia.org/wiki/無綫電視" title="wikilink">無綫電視</a></p></td>
 </tr>
@@ -393,13 +393,13 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/張啟樂.md" title="wikilink">張啟樂</a></p></td>
 <td><p>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/娛樂真風騷" title="wikilink">娛樂真風騷</a>》</p></td>
-<td><p>曾經為<a href="../Page/亞洲電視.md" title="wikilink">亞洲電視藝員</a></p></td>
+<td><p>曾經為<a href="../Page/亞洲電視.md" title="wikilink">亞洲電視</a>藝員</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Bonnie" title="wikilink">Bonnie</a></p></td>
 <td><p>《<a href="../Page/大家真風騷.md" title="wikilink">大家真風騷</a>》</p></td>
 <td></td>
-<td><p>曾經為<a href="../Page/亞洲電視.md" title="wikilink">亞洲電視藝員</a></p></td>
+<td><p>曾經為<a href="../Page/亞洲電視.md" title="wikilink">亞洲電視</a>藝員</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳綺莉.md" title="wikilink">吳綺莉</a></p></td>
@@ -519,13 +519,13 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 (Q仔)</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/大錢好世界" title="wikilink">大錢好世界</a>》、《<a href="https://zh.wikipedia.org/wiki/星期一樓市" title="wikilink">星期一樓市</a>》、《特備節目特首選舉倒數》、《<a href="https://zh.wikipedia.org/wiki/事有QK" title="wikilink">事有QK</a>》、《<a href="http://www.facebook.com/DBCLaiSir">政治經濟學</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第一台.md" title="wikilink">第一台</a>《<a href="https://zh.wikipedia.org/wiki/講東講西" title="wikilink">講東講西</a>》、<a href="../Page/香港人網.md" title="wikilink">香港人網</a>《<a href="https://zh.wikipedia.org/wiki/智取太平山" title="wikilink">智取太平山</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳志森.md" title="wikilink">吳志森</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/十級自由Phone" title="wikilink">十級自由Phone</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第一台.md" title="wikilink">第一台</a>《<a href="../Page/自由風自由Phone.md" title="wikilink">自由風自由Phone</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王慧麟.md" title="wikilink">王慧麟</a></p></td>
@@ -537,7 +537,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/梁家權.md" title="wikilink">梁家權</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/早晨八達通" title="wikilink">早晨八達通</a>》、《<a href="https://zh.wikipedia.org/wiki/開心快活人" title="wikilink">開心快活人</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/楊美儀.md" title="wikilink">楊美儀</a></p></td>
@@ -573,7 +573,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/梁繼璋.md" title="wikilink">梁繼璋</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/開心快活人" title="wikilink">開心快活人</a>》、《<a href="https://zh.wikipedia.org/wiki/無男特工隊" title="wikilink">無男特工隊</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a>《<a href="https://zh.wikipedia.org/wiki/清晨快活人" title="wikilink">清晨快活人</a>》、《<a href="https://zh.wikipedia.org/wiki/玩玩星期天" title="wikilink">玩玩星期天</a>》、《<a href="../Page/瘋show快活人.md" title="wikilink">瘋show快活人</a>》、<a href="../Page/香港人網.md" title="wikilink">香港人網</a>《<a href="../Page/瘋騷快活人.md" title="wikilink">瘋騷快活人</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/璋嫂" title="wikilink">璋嫂</a></p></td>
@@ -597,13 +597,13 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="https://zh.wikipedia.org/wiki/馬小強" title="wikilink">馬小強</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/開心快活人" title="wikilink">開心快活人</a>》、《<a href="https://zh.wikipedia.org/wiki/無男特工隊" title="wikilink">無男特工隊</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/樓南光.md" title="wikilink">樓南光</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/無男特工隊" title="wikilink">無男特工隊</a>》&lt;&lt;<a href="https://zh.wikipedia.org/wiki/為食麻甩Show" title="wikilink">為食麻甩Show</a>&gt;&gt;</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/馬恩賜.md" title="wikilink">馬恩賜</a></p></td>
@@ -621,33 +621,33 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/游清源.md" title="wikilink">游清源</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/十級自由Phone" title="wikilink">十級自由Phone</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a>《<a href="../Page/危險人物.md" title="wikilink">危險人物</a>》、<a href="../Page/香港電台.md" title="wikilink">香港電台</a>《<a href="../Page/海琪的天空.md" title="wikilink">海琪的天空</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王德全.md" title="wikilink">王德全</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/十級自由Phone" title="wikilink">十級自由Phone</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a>《<a href="../Page/十八樓C座.md" title="wikilink">十八樓C座</a>》(參演及監製)</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林旭華.md" title="wikilink">林旭華</a><br />
 (Peter)</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/十級自由Phone" title="wikilink">十級自由Phone</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a>《<a href="../Page/風波裡的茶杯.md" title="wikilink">風波裡的茶杯</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄺穎萱" title="wikilink">鄺穎萱</a><br />
 (Carman)</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/龍鳳大茶樓" title="wikilink">龍鳳大茶樓</a>》</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/十級自由Phone" title="wikilink">十級自由Phone</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭家富.md" title="wikilink">鄭家富</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/十級自由Phone" title="wikilink">十級自由Phone</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/賴健雄" title="wikilink">賴健雄</a> (Ricky)</p></td>
@@ -666,7 +666,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 (Ocean)</p></td>
 <td><p>《<a href="../Page/海琪的天空.md" title="wikilink">海琪的天空</a>》、《<a href="https://zh.wikipedia.org/wiki/事有QK" title="wikilink">事有QK</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a><a href="../Page/雷霆881.md" title="wikilink">雷霆881</a>《<a href="https://zh.wikipedia.org/wiki/成人知己" title="wikilink">成人知己</a>》、<a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a><a href="../Page/叱咤903.md" title="wikilink">叱咤903</a>《<a href="https://zh.wikipedia.org/wiki/音樂城" title="wikilink">音樂城</a>》、《<a href="https://zh.wikipedia.org/wiki/碟海琪兵" title="wikilink">碟海琪兵</a>》、《<a href="https://zh.wikipedia.org/wiki/不再寂寞" title="wikilink">不再寂寞</a>》、《<a href="https://zh.wikipedia.org/wiki/週末流行曲琪" title="wikilink">週末流行曲琪</a>》、《<a href="https://zh.wikipedia.org/wiki/夜海琪情" title="wikilink">夜海琪情</a>》、《<a href="https://zh.wikipedia.org/wiki/海角天涯" title="wikilink">海角天涯</a>》、<a href="../Page/香港電台.md" title="wikilink">香港電台</a>《<a href="https://zh.wikipedia.org/wiki/輕談淺唱不夜天" title="wikilink">輕談淺唱不夜天</a>》、《<a href="https://zh.wikipedia.org/wiki/夜傾情" title="wikilink">夜傾情</a>》、《<a href="https://zh.wikipedia.org/wiki/小家小夫妻" title="wikilink">小家小夫妻</a>》、《<a href="https://zh.wikipedia.org/wiki/午夜狂賓" title="wikilink">午夜狂賓</a>》、《<a href="https://zh.wikipedia.org/wiki/巨獎之夜" title="wikilink">巨獎之夜</a>》、《<a href="https://zh.wikipedia.org/wiki/一對寂寞的心" title="wikilink">一對寂寞的心</a>》、《<a href="https://zh.wikipedia.org/wiki/90男爭女鬥" title="wikilink">90男爭女鬥</a>》、《<a href="../Page/海琪的天空.md" title="wikilink">海琪的天空</a>》、<a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第二台.md" title="wikilink">第二台</a>《<a href="https://zh.wikipedia.org/wiki/琪想曲" title="wikilink">琪想曲</a>》、《<a href="https://zh.wikipedia.org/wiki/AA與琪琪" title="wikilink">AA與琪琪</a>》、《<a href="https://zh.wikipedia.org/wiki/樂在SUNDAY" title="wikilink">樂在SUNDAY</a>》、《<a href="https://zh.wikipedia.org/wiki/樂壇超短波" title="wikilink">樂壇超短波</a>》、《<a href="https://zh.wikipedia.org/wiki/香港大碟榜" title="wikilink">香港大碟榜</a>》、《<a href="https://zh.wikipedia.org/wiki/本地唱片銷量榜" title="wikilink">本地唱片銷量榜</a>》、《<a href="https://zh.wikipedia.org/wiki/音樂至尊" title="wikilink">音樂至尊</a>》、《<a href="https://zh.wikipedia.org/wiki/縱橫四海" title="wikilink">縱橫四海</a>》、《<a href="https://zh.wikipedia.org/wiki/今夜守規矩" title="wikilink">今夜守規矩</a>》、《<a href="../Page/悠長假期.md" title="wikilink">悠長假期</a>》、<a href="https://zh.wikipedia.org/wiki/新城勁歌台" title="wikilink">新城勁歌台</a>《<a href="../Page/海琪的天空.md" title="wikilink">海琪的天空</a>》、《<a href="https://zh.wikipedia.org/wiki/新夜傾情" title="wikilink">新夜傾情</a>》</p></td>
-<td><p>轉職<a href="../Page/鳳凰優悅.md" title="wikilink">鳳凰優悅電台</a></p></td>
+<td><p>轉職<a href="../Page/鳳凰優悅.md" title="wikilink">鳳凰優悅</a>電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/湯正川" title="wikilink">湯正川</a></p></td>
@@ -678,32 +678,32 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/伍家廉.md" title="wikilink">伍家廉</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/黃金的旋律" title="wikilink">黃金的旋律</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第一台.md" title="wikilink">第一台</a>《<a href="https://zh.wikipedia.org/wiki/黃金的旋律" title="wikilink">黃金的旋律</a>》、《<a href="https://zh.wikipedia.org/wiki/靈機一觸洪朝豐" title="wikilink">靈機一觸洪朝豐</a>》、《<a href="https://zh.wikipedia.org/wiki/日月星辰" title="wikilink">日月星辰</a>》、<a href="../Page/新城電台.md" title="wikilink">新城電台</a>《<a href="https://zh.wikipedia.org/wiki/日月星辰" title="wikilink">日月星辰</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/顏聯武" title="wikilink">顏聯武</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/霎時衝動" title="wikilink">霎時衝動</a>》</p></td>
 <td><p><a href="../Page/新城電台.md" title="wikilink">新城電台</a>《<a href="https://zh.wikipedia.org/wiki/霎時衝動" title="wikilink">霎時衝動</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳永業.md" title="wikilink">陳永業</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/音樂真情人" title="wikilink">音樂真情人</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第一台.md" title="wikilink">第一台</a>《<a href="../Page/音樂情人.md" title="wikilink">音樂情人</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/杜雯惠.md" title="wikilink">杜雯惠</a><br />
 (Ada)</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/音樂真情人" title="wikilink">音樂真情人</a>》、《<a href="https://zh.wikipedia.org/wiki/好友感覺" title="wikilink">好友感覺</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第二台.md" title="wikilink">第二台</a>《<a href="../Page/人間定格.md" title="wikilink">人間定格</a>》、《音樂感覺杜雯惠》、《極品音樂室》、《文化大都會》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/何凱婷" title="wikilink">何凱婷</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/DBC金融天地" title="wikilink">DBC金融天地</a>》、《<a href="https://zh.wikipedia.org/wiki/大錢好世界" title="wikilink">大錢好世界</a>》、《<a href="https://zh.wikipedia.org/wiki/數碼運動場" title="wikilink">數碼運動場</a>》、《<a href="https://zh.wikipedia.org/wiki/DBC_X-Life" title="wikilink">DBC X-Life</a>》</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台</a><a href="../Page/香港電台第二台.md" title="wikilink">第二台</a>《<a href="https://zh.wikipedia.org/wiki/守下留情" title="wikilink">守下留情</a>》、《<a href="../Page/晨光第一線.md" title="wikilink">晨光第一線</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/許文昌" title="wikilink">許文昌</a></p></td>
@@ -896,31 +896,31 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="https://zh.wikipedia.org/wiki/旅遊鍾" title="wikilink">旅遊鍾</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/旅遊玩家" title="wikilink">旅遊玩家</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/卓文慧" title="wikilink">卓文慧</a>(小卓)</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/旅遊玩家" title="wikilink">旅遊玩家</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳俊偉" title="wikilink">陳俊偉</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/旅遊玩家" title="wikilink">旅遊玩家</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/錢志健" title="wikilink">錢志健</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/對沖人生路" title="wikilink">對沖人生路</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔡浩樑.md" title="wikilink">蔡浩樑</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/醫生。為甚麼？" title="wikilink">醫生。為甚麼？</a>》</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/實用星期六" title="wikilink">實用星期六</a>》、《<a href="https://zh.wikipedia.org/wiki/住家男人周日版" title="wikilink">住家男人周日版</a>》、《<a href="https://zh.wikipedia.org/wiki/中午丙組" title="wikilink">中午丙組</a>》、《<a href="https://zh.wikipedia.org/wiki/星期日全食" title="wikilink">星期日全食</a>》、《<a href="https://zh.wikipedia.org/wiki/一路926" title="wikilink">一路926</a>》、《<a href="https://zh.wikipedia.org/wiki/拆散科學" title="wikilink">拆散科學</a>》、《體育世界》、《<a href="https://zh.wikipedia.org/wiki/開心日報" title="wikilink">開心日報</a>》、《<a href="../Page/精靈一點.md" title="wikilink">精靈一點</a>》、《<a href="https://zh.wikipedia.org/wiki/故事的故事" title="wikilink">故事的故事</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/勞永樂.md" title="wikilink">勞永樂</a></p></td>
@@ -1024,13 +1024,13 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/周博賢.md" title="wikilink">周博賢</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/怒漢推歌" title="wikilink">怒漢推歌</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/探長.md" title="wikilink">探長</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/怒漢推歌" title="wikilink">怒漢推歌</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃津玨" title="wikilink">黃津玨</a></p></td>
@@ -1060,7 +1060,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="https://zh.wikipedia.org/wiki/謝菲老師" title="wikilink">謝菲老師</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/講好玩英文" title="wikilink">講好玩英文</a>》</p></td>
 <td></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Bill" title="wikilink">Bill</a></p></td>
@@ -1180,7 +1180,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/黃偉民_(播音員).md" title="wikilink">黃偉民</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/前因後果" title="wikilink">前因後果</a>》</p></td>
 <td><p>《<a href="http://www.facebook.com/pages/%E5%8D%81%E7%B4%9A%E8%87%AA%E7%94%B1Phone/293274494056851">十級自由Phone</a>》</p></td>
-<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100網絡電台</a></p></td>
+<td><p>轉職<a href="../Page/D100.md" title="wikilink">D100</a>網絡電台</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/胡燕泳.md" title="wikilink">胡燕泳</a></p></td>
@@ -1204,7 +1204,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 <td><p><a href="../Page/梁天偉.md" title="wikilink">梁天偉</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/DBC_主場" title="wikilink">DBC 主場</a>》</p></td>
 <td></td>
-<td><p><a href="../Page/香港樹仁大學.md" title="wikilink">香港樹仁大學新聞及傳播學系系主任兼教授</a></p></td>
+<td><p><a href="../Page/香港樹仁大學.md" title="wikilink">香港樹仁大學</a>新聞及傳播學系系主任兼教授</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/關偉" title="wikilink">關偉</a></p></td>

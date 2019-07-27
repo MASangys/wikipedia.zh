@@ -1,4 +1,4 @@
-**GLOBIS杯世界新锐[围棋锦标赛](../Page/围棋.md "wikilink")**由[日本棋院主办](../Page/日本棋院.md "wikilink")，[日本GLOBIS集团赞助](../Page/日本.md "wikilink")。每届16人出场，参赛资格为未满20周岁的年轻棋手。名额分配为日本6人、中国和韩国各3人、台灣、欧洲、北美各1人、亚洲（中日韩之外）与大洋洲选拔1人。比赛先进行小组预赛，分为四个小组，每组4人进行双败淘汰，决出两人进入八强。GLOBIS杯采用快棋赛制，每步30秒，1分钟读秒10次。
+**GLOBIS杯世界新锐[围棋](../Page/围棋.md "wikilink")锦标赛**由[日本棋院](../Page/日本棋院.md "wikilink")主办，[日本](../Page/日本.md "wikilink")GLOBIS集团赞助。每届16人出场，参赛资格为未满20周岁的年轻棋手。名额分配为日本6人、中国和韩国各3人、台灣、欧洲、北美各1人、亚洲（中日韩之外）与大洋洲选拔1人。比赛先进行小组预赛，分为四个小组，每组4人进行双败淘汰，决出两人进入八强。GLOBIS杯采用快棋赛制，每步30秒，1分钟读秒10次。
 
 ## 历届四强
 
@@ -17,11 +17,11 @@
 
 ### 参赛棋手
 
-  - ：[崔精四段](../Page/崔精.md "wikilink")（17岁）、[申真谞二段](../Page/申真谞.md "wikilink")（14岁）、[罗玄四段](https://zh.wikipedia.org/wiki/罗玄 "wikilink")（19岁）；\[2\]
+  - ：[崔精](../Page/崔精.md "wikilink")四段（17岁）、[申真谞](../Page/申真谞.md "wikilink")二段（14岁）、[罗玄四段](https://zh.wikipedia.org/wiki/罗玄 "wikilink")（19岁）；\[2\]
 
-  - ：[连笑七段](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[夏晨琨三段](../Page/夏晨琨.md "wikilink")、[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")
+  - ：[连笑七段](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[夏晨琨](../Page/夏晨琨.md "wikilink")三段、[李钦诚初段](https://zh.wikipedia.org/wiki/李钦诚 "wikilink")
 
-  - ：[鹤田和志二段](https://zh.wikipedia.org/wiki/鹤田和志 "wikilink")、[孙喆三段](../Page/孙喆.md "wikilink")、[许家元二段](https://zh.wikipedia.org/wiki/许家元 "wikilink")、[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")、[伊田笃史八段](https://zh.wikipedia.org/wiki/伊田笃史 "wikilink")、[小山空也初段](https://zh.wikipedia.org/wiki/小山空也 "wikilink")
+  - ：[鹤田和志二段](https://zh.wikipedia.org/wiki/鹤田和志 "wikilink")、[孙喆](../Page/孙喆.md "wikilink")三段、[许家元二段](https://zh.wikipedia.org/wiki/许家元 "wikilink")、[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")、[伊田笃史八段](https://zh.wikipedia.org/wiki/伊田笃史 "wikilink")、[小山空也初段](https://zh.wikipedia.org/wiki/小山空也 "wikilink")
 
   - ：[林君谚六段](https://zh.wikipedia.org/wiki/林君谚 "wikilink")
 
@@ -29,7 +29,7 @@
 
   - ：[史干生初段](https://zh.wikipedia.org/wiki/史干生 "wikilink")
 
-  - ：[黑嘉嘉六段](../Page/黑嘉嘉.md "wikilink")
+  - ：[黑嘉嘉](../Page/黑嘉嘉.md "wikilink")六段
 
 ### A组
 

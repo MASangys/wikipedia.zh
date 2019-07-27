@@ -1,4 +1,4 @@
-**N-乙酰基转移酶**（）是一类能[催化](../Page/催化.md "wikilink")[乙酰基团在](../Page/乙酰基.md "wikilink")[乙酰辅酶A和](../Page/乙酰辅酶A.md "wikilink")[胺之间转移的](https://zh.wikipedia.org/wiki/胺 "wikilink")[酶](../Page/酶.md "wikilink")\[1\]。这些酶对[芳香胺有着广泛的选择特异性](https://zh.wikipedia.org/wiki/芳香胺 "wikilink")，特别是对[丝氨酸](https://zh.wikipedia.org/wiki/丝氨酸 "wikilink")，甚至能在两个芳香胺之间转移乙酰基而不经过[CoA](../Page/辅酶A.md "wikilink")。
+**N-乙酰基转移酶**（）是一类能[催化](../Page/催化.md "wikilink")[乙酰基](../Page/乙酰基.md "wikilink")团在[乙酰辅酶A](../Page/乙酰辅酶A.md "wikilink")和[胺之间转移的](https://zh.wikipedia.org/wiki/胺 "wikilink")[酶](../Page/酶.md "wikilink")\[1\]。这些酶对[芳香胺有着广泛的选择特异性](https://zh.wikipedia.org/wiki/芳香胺 "wikilink")，特别是对[丝氨酸](https://zh.wikipedia.org/wiki/丝氨酸 "wikilink")，甚至能在两个芳香胺之间转移乙酰基而不经过[CoA](../Page/辅酶A.md "wikilink")。
 
 ## 例子
 

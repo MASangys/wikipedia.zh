@@ -1,5 +1,5 @@
 ***Paramore***
-是美国[另类摇滚乐队](../Page/另类摇滚.md "wikilink")[帕拉莫尔发行的第四张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，也是以他們團為名的同名專輯，本专辑于2013年4月5日在美国和加拿大发行。
+是美国[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔发行的第四张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，也是以他們團為名的同名專輯，本专辑于2013年4月5日在美国和加拿大发行。
 
 ## 曲目列表
 

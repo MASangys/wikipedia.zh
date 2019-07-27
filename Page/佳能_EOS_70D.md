@@ -16,11 +16,11 @@ AF），可大幅提昇 Live View 與錄影時的自動對焦效率，達到 DSL
   - 雙像素 CMOS 自動對焦，Live View
     [對焦速度比](https://zh.wikipedia.org/wiki/對焦 "wikilink")
     EOS 700D 快 30%
-  - [感光度範圍](../Page/感光度.md "wikilink") ISO 100-12800，可擴張至 ISO 25600
-  - [連拍速度每秒](../Page/連拍.md "wikilink") 7 張（65 張 JPEG 或 16 張 RAW）
+  - [感光度](../Page/感光度.md "wikilink")範圍 ISO 100-12800，可擴張至 ISO 25600
+  - [連拍](../Page/連拍.md "wikilink")速度每秒 7 張（65 張 JPEG 或 16 張 RAW）
   - 19 點全十字型自動對焦點（暗部對焦可支援 -0.5EV 環境）
   - 63 區 iFCL [測光系統](../Page/測光系統.md "wikilink")
-  - 靜音[快門模式](../Page/快門.md "wikilink")
+  - 靜音[快門](../Page/快門.md "wikilink")模式
   - 光學觀景窗視野率 98%，放大倍率 95%
   - Full HD @ 30 FPS 立體聲錄影, 可是用內建或外接麥克風收音
   - 3 吋 104 萬[像素](../Page/像素.md "wikilink")（3:2 比例）電容觸控翻轉螢幕

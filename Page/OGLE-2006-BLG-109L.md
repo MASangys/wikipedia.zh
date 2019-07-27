@@ -8,9 +8,9 @@
 
 [OGLE-2006-BLG-109_scheme2.png](https://zh.wikipedia.org/wiki/File:OGLE-2006-BLG-109_scheme2.png "fig:OGLE-2006-BLG-109_scheme2.png")
 
-該行星系統中以發現的兩顆行星中，[OGLE-2006-BLG-109Lb質量是木星的](../Page/OGLE-2006-BLG-109Lb.md "wikilink")0.727倍，而[OGLE-2006-BLG-109Lc的質量則大約是木星的](../Page/OGLE-2006-BLG-109Lc.md "wikilink")0.271倍。兩者的質量比例、距離比例和表面平衡溫度相當於木星和土星，以及[天牢三的行星系統](../Page/天牢三.md "wikilink")\[3\]。
+該行星系統中以發現的兩顆行星中，[OGLE-2006-BLG-109Lb](../Page/OGLE-2006-BLG-109Lb.md "wikilink")質量是木星的0.727倍，而[OGLE-2006-BLG-109Lc](../Page/OGLE-2006-BLG-109Lc.md "wikilink")的質量則大約是木星的0.271倍。兩者的質量比例、距離比例和表面平衡溫度相當於木星和土星，以及[天牢三](../Page/天牢三.md "wikilink")的行星系統\[3\]。
 
-這兩顆行星是同時被偵測[重力微透鏡的](https://zh.wikipedia.org/wiki/重力微透鏡 "wikilink")[光學重力透鏡實驗](../Page/光學重力透鏡實驗.md "wikilink")、[探索透鏡異常網](../Page/探索透鏡異常網.md "wikilink")、[microFUN](http://www.astronomy.ohio-state.edu/~microfun/)、[天文物理重力微透鏡觀測和](../Page/天文物理重力微透鏡觀測.md "wikilink")[RoboNet一起發現](https://zh.wikipedia.org/wiki/RoboNet "wikilink")，並於2008年2月14日公布。
+這兩顆行星是同時被偵測[重力微透鏡的](https://zh.wikipedia.org/wiki/重力微透鏡 "wikilink")[光學重力透鏡實驗](../Page/光學重力透鏡實驗.md "wikilink")、[探索透鏡異常網](../Page/探索透鏡異常網.md "wikilink")、[microFUN](http://www.astronomy.ohio-state.edu/~microfun/)、[天文物理重力微透鏡觀測](../Page/天文物理重力微透鏡觀測.md "wikilink")和[RoboNet一起發現](https://zh.wikipedia.org/wiki/RoboNet "wikilink")，並於2008年2月14日公布。
 
 ## 參見
 

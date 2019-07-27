@@ -7,7 +7,7 @@ Bison之类的](https://zh.wikipedia.org/wiki/GNU_Bison "wikilink")构成。由�
 ## 历史
 
 1965年,[Donald
-Knuth发明了](https://zh.wikipedia.org/wiki/Donald_Knuth "wikilink")[LR分析器](../Page/LR剖析器.md "wikilink")。LR分析器可以在[线性时间里分析一个确定的](https://zh.wikipedia.org/wiki/线性时间 "wikilink")[上下文无关文法的输入](../Page/上下文无关文法.md "wikilink")\[1\]。但是，最右推导技术所需的分析表需要一个巨大的内存空间，所以在那个内存空间紧缺的年代，LR分析技术被认为是不可行的。
+Knuth发明了](https://zh.wikipedia.org/wiki/Donald_Knuth "wikilink")[LR分析器](../Page/LR剖析器.md "wikilink")。LR分析器可以在[线性时间里分析一个确定的](https://zh.wikipedia.org/wiki/线性时间 "wikilink")[上下文无关文法](../Page/上下文无关文法.md "wikilink")的输入\[1\]。但是，最右推导技术所需的分析表需要一个巨大的内存空间，所以在那个内存空间紧缺的年代，LR分析技术被认为是不可行的。
 为了解决这个缺点，在1969年，Frank
 DeRemer提出了两种LR分析方法的简化版，即LALR分析器和。这两种方法所需的内存空间较LR分析法减少了许多。即使在后来的1977年，LR分析器的空间优化方式被提出，但是其空间效率依然比不过LALR这种简化版本。
 1979年，Frank DeRemer和Tom
@@ -26,7 +26,7 @@ LALR分析方法基于LR(0)分析法演化而来，因此对于一个LALR(*k*)�
 无论如何，任意的LR(*k\>0*)分析器中，由于要在出错时枚举每一个可能的字符， 让错误恢复这项工作变得十分繁琐。
 由于这个原因，在一些时候[递归下降分析器比LALR分析器更实用](https://zh.wikipedia.org/wiki/LL分析器 "wikilink")。由于其较低的语法分析功能，一个递归下降分析器需要更多的手写代码。但是为一个递归下降分析器编写代码并不像LALR分析器那样的困难，这是因为递归下降分析器使用了最左推导。一个值得注意的例子就是[Gnu
 Compiler
-Collection中的](../Page/GCC.md "wikilink")[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++语言的语法分析器](../Page/C++.md "wikilink")。其中语法分析器起始是LALR分析器，但是之后却被改写成递归下降分析器。\[4\]\[5\]
+Collection中的](../Page/GCC.md "wikilink")[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++](../Page/C++.md "wikilink")语言的语法分析器。其中语法分析器起始是LALR分析器，但是之后却被改写成递归下降分析器。\[4\]\[5\]
 
 ## 与其他语法分析器的关系
 

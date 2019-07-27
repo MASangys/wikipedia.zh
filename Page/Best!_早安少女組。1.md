@@ -1,17 +1,17 @@
 「**Best\!
-早安少女組。1**」（）是日本的女子偶像組合[早安少女組。的第](../Page/早安少女組。.md "wikilink")1枚精選專輯。於2001年1月31日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+早安少女組。1**」（）是日本的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第1枚精選專輯。於2001年1月31日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「Best\!
-    早安少女組。1」是[早安少女組。出道以來的第](../Page/早安少女組。.md "wikilink")1張精選專輯。與上一張專輯「[3rd
+    早安少女組。1」是[早安少女組。](../Page/早安少女組。.md "wikilink")出道以來的第1張精選專輯。與上一張專輯「[3rd
     -LOVE Paradise-](../Page/3rd_-LOVE_Paradise-.md "wikilink")」相距約9個月。
   - 收錄第1張單曲「[早安咖啡](../Page/早安咖啡.md "wikilink")」至第11張單曲「[戀愛革命21](../Page/戀愛革命21.md "wikilink")」共11首A面曲，以及收錄了獨立製作單曲「[愛之種](../Page/愛之種.md "wikilink")」、「[Memory
     青春之光](../Page/Memory_青春之光.md "wikilink")」的B面曲「Never
     Forget」、第3枚原創專輯「[3rd -LOVE
     Paradise-](../Page/3rd_-LOVE_Paradise-.md "wikilink")」收錄曲「來DANCE的他\!」和新曲「Say
     Yeah\! -更多奇蹟之夜-」，共15首曲目。
-  - 一期成員[中澤裕子最後參與演唱的專輯](../Page/中澤裕子.md "wikilink")。
+  - 一期成員[中澤裕子](../Page/中澤裕子.md "wikilink")最後參與演唱的專輯。
   - 本作分「CD盤」和「LP盤」2種版本。
   - 在2月12日於公信榜專輯週排行榜取得第1位，是早安少女組。出道以來第1張公信榜每周銷量排名第一的專輯，亦是早安少女組。出道以來銷量最高的專輯（2,259,510張）。
 
@@ -40,15 +40,15 @@
 5.  **[快樂夏季婚禮](../Page/快樂夏季婚禮.md "wikilink")**（ハッピ－サマ－ウェディング）
     （作詞・作曲：淳君　編曲：ダンス☆マン）
       -
-        9th單曲・四期成員[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤瞳](../Page/吉澤瞳.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亞依加入後第一張單曲](../Page/加護亞依.md "wikilink")・二期成員[市井紗耶香的最後一張單曲](../Page/市井紗耶香.md "wikilink")
+        9th單曲・四期成員[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤瞳](../Page/吉澤瞳.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亞依](../Page/加護亞依.md "wikilink")加入後第一張單曲・二期成員[市井紗耶香](../Page/市井紗耶香.md "wikilink")的最後一張單曲
 6.  **[I WISH](../Page/I_WISH.md "wikilink")**
     （作詞・作曲：淳君　編曲：[河野伸](https://zh.wikipedia.org/wiki/河野伸 "wikilink")）
       -
-        10th單曲・[TBS電視台節目](../Page/TBS電視台.md "wikilink")「シドニー五輪」主題曲
+        10th單曲・[TBS電視台](../Page/TBS電視台.md "wikilink")節目「シドニー五輪」主題曲
 7.  **[戀愛革命21](../Page/戀愛革命21.md "wikilink")**（）
     （作詞・作曲：淳君　編曲：ダンス☆マン）
       -
-        11th單曲・一期成員[中澤裕子的畢業單曲](../Page/中澤裕子.md "wikilink")
+        11th單曲・一期成員[中澤裕子](../Page/中澤裕子.md "wikilink")的畢業單曲
 8.  **[Memory 青春之光](../Page/Memory_青春之光.md "wikilink")**（Memory 青春の光）
     （作詞・作曲：淳君　編曲：前嶋康明）
       -

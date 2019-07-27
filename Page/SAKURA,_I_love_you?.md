@@ -9,7 +9,7 @@ X'mas 2011」摘要影片的DVD。
 
 A面曲《SAKURA, I love
 you?》由西野本人作詞，歌詞描繪櫻花散落的景象，以及無法割捨對前男友的思念的複雜心境。\[1\]另外，這首歌跟前作一樣，是[索尼](../Page/索尼.md "wikilink")[Walkman](../Page/Walkman.md "wikilink")「Play
-You.」的廣告歌曲。\[2\]另外，西野憑這首歌的電話鈴聲在2月15日的[RecoChoku每周排行榜上取得首位](../Page/RecoChoku.md "wikilink")，成為該排行榜首個連續8首歌都取得首位的女性藝人。\[3\]
+You.」的廣告歌曲。\[2\]另外，西野憑這首歌的電話鈴聲在2月15日的[RecoChoku](../Page/RecoChoku.md "wikilink")每周排行榜上取得首位，成為該排行榜首個連續8首歌都取得首位的女性藝人。\[3\]
 
 ## 收錄內容
 

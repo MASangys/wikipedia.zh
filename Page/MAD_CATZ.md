@@ -1,12 +1,12 @@
 **MAD
-CATZ**是[日本的](../Page/日本.md "wikilink")[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。2009年解散。
+CATZ**是[日本](../Page/日本.md "wikilink")的[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。2009年解散。
 
 ## 概要
 
 藝能學校，当時小学生的3人在Little Cat所屬並得到契約藝能事務所Smile
-Company的育成，社名開始改為**Smile2Girls**而結成。2008年由[日本索尼音樂娛樂開始主流出道](../Page/日本索尼音樂娛樂.md "wikilink")。当時被稱為Super女子中学生樂隊，出道單曲的「Girls
+Company的育成，社名開始改為**Smile2Girls**而結成。2008年由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")開始主流出道。当時被稱為Super女子中学生樂隊，出道單曲的「Girls
 be
-Ambitious\!」被[BS富士的](../Page/BS富士.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")『[もえがく★5](https://zh.wikipedia.org/wiki/もえがく★5 "wikilink")』主題曲使用。
+Ambitious\!」被[BS富士](../Page/BS富士.md "wikilink")的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")『[もえがく★5](https://zh.wikipedia.org/wiki/もえがく★5 "wikilink")』主題曲使用。
 
 之後移籍到[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")，發售迷你專輯「POSITIVE」，因ARISA的退出等經歷在2009年末解散。
 

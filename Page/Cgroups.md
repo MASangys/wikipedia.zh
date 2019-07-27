@@ -1,9 +1,9 @@
 [Linux_kernel_unified_hierarchy_cgroups_and_systemd.svg](https://zh.wikipedia.org/wiki/File:Linux_kernel_unified_hierarchy_cgroups_and_systemd.svg "fig:Linux_kernel_unified_hierarchy_cgroups_and_systemd.svg").\]\]
 **cgroups**，其名稱源自**控制群組**（control
-groups）的簡寫，是[Linux内核的一个功能](../Page/Linux内核.md "wikilink")，用来限制、控制與分離一个[行程群組的](https://zh.wikipedia.org/wiki/行程群組 "wikilink")[资源](https://zh.wikipedia.org/wiki/資源_\(計算機科學\) "wikilink")（如CPU、内存、磁盘输入输出等）。
+groups）的簡寫，是[Linux内核](../Page/Linux内核.md "wikilink")的一个功能，用来限制、控制與分離一个[行程群組的](https://zh.wikipedia.org/wiki/行程群組 "wikilink")[资源](https://zh.wikipedia.org/wiki/資源_\(計算機科學\) "wikilink")（如CPU、内存、磁盘输入输出等）。
 
-這個專案最早是由[Google的工程師](../Page/Google.md "wikilink")（主要是Paul Menage和Rohit
-Seth）在2006年發起，最早的名稱為**行程容器**（process
+這個專案最早是由[Google](../Page/Google.md "wikilink")的工程師（主要是Paul Menage和Rohit
+Seth）在2006年發起，最早的名稱為**进程容器**（process
 containers）\[1\]。在2007年時，因為在[Linux內核中](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，容器（container）這個名詞有許多不同的意義，為避免混亂，被重新命名為cgroup，並且被合併到2.6.24版的内核中去\[2\]。自那以后，又添加了很多功能。
 
 ## 功能

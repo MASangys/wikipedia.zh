@@ -1,10 +1,10 @@
-[Lavaux_Vineyard.jpg](https://zh.wikipedia.org/wiki/File:Lavaux_Vineyard.jpg "fig:Lavaux_Vineyard.jpg")）地区[萊芒湖畔的葡萄园](../Page/萊芒湖.md "wikilink").
+[Lavaux_Vineyard.jpg](https://zh.wikipedia.org/wiki/File:Lavaux_Vineyard.jpg "fig:Lavaux_Vineyard.jpg")）地区[萊芒湖](../Page/萊芒湖.md "wikilink")畔的葡萄园.
 \]\] **Lavaux AOC意指红酒的**appellation d'origine
 contrôlée（原产地品名质检），符合瑞士酒类和食品原产地名质检协会标准，并确保从原材料生产到成品加工的所有酿造流程均在Lavaux（[拉沃葡萄园梯田](https://zh.wikipedia.org/wiki/拉沃葡萄园梯田 "wikilink")）地区。
 
 ## 命名区域
 
-葡萄种植园面积为921公顷，沿[萊芒湖畔贯穿Lausanne](../Page/萊芒湖.md "wikilink")（[洛桑](../Page/洛桑.md "wikilink")）至Veytaux（[维托](../Page/维托.md "wikilink")）40公里区域，途径Lutry（[吕特里](../Page/吕特里.md "wikilink")）,
+葡萄种植园面积为921公顷，沿[萊芒湖](../Page/萊芒湖.md "wikilink")畔贯穿Lausanne（[洛桑](../Page/洛桑.md "wikilink")）至Veytaux（[维托](../Page/维托.md "wikilink")）40公里区域，途径Lutry（[吕特里](../Page/吕特里.md "wikilink")）,
 Villette, Grandvaux, Cully, Riex, Épesses, Chexbres,
 Rivaz和Saint-Saphorin。
 

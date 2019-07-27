@@ -1,4 +1,4 @@
-**大概會出演唱會DVD、不過現場看機會有限！AKB48夏日祭！**（）是日本女子偶像組合[AKB48於](../Page/AKB48.md "wikilink")2008年8月23日在[日比谷野外音樂堂舉行的演唱會](https://zh.wikipedia.org/wiki/日比谷野外音樂堂 "wikilink")，為AKB48第一個戶外演唱會\[1\]\[2\]\[3\]。參加的成員包括AKB48及SKE48\[4\]\[5\]。
+**大概會出演唱會DVD、不過現場看機會有限！AKB48夏日祭！**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2008年8月23日在[日比谷野外音樂堂舉行的演唱會](https://zh.wikipedia.org/wiki/日比谷野外音樂堂 "wikilink")，為AKB48第一個戶外演唱會\[1\]\[2\]\[3\]。參加的成員包括AKB48及SKE48\[4\]\[5\]。
 
 ## 概要
 
@@ -101,14 +101,14 @@
 
 ## 公佈
 
-  - AKB48的姐妹團體，以[名古屋市中部](../Page/名古屋市.md "wikilink")[榮為根據地的](../Page/榮_\(名古屋市\).md "wikilink")[SKE48在本演唱會正式披露](../Page/SKE48.md "wikilink")。
-  - 當時為AKB研究生的[中西優香在演唱會中發表移籍至SKE](../Page/中西優香.md "wikilink")48\[13\]。
+  - AKB48的姐妹團體，以[名古屋市](../Page/名古屋市.md "wikilink")中部[榮為根據地的](../Page/榮_\(名古屋市\).md "wikilink")[SKE48](../Page/SKE48.md "wikilink")在本演唱會正式披露。
+  - 當時為AKB研究生的[中西優香](../Page/中西優香.md "wikilink")在演唱會中發表移籍至SKE48\[13\]。
   - 在2008年2月與[DefSTAR
-    Records解約後](../Page/DefSTAR_Records.md "wikilink")，正式公佈與[國王唱片簽約](../Page/國王唱片.md "wikilink")，並於10月發表最新單曲《[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")》\[14\]。
+    Records解約後](../Page/DefSTAR_Records.md "wikilink")，正式公佈與[國王唱片](../Page/國王唱片.md "wikilink")簽約，並於10月發表最新單曲《[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")》\[14\]。
 
 ## DVD
 
-演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS於](../Page/AKS.md "wikilink")2008年11月20日發行\[15\]，內容包括演唱會及幕後花絮。同時亦發售Premium
+演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2008年11月20日發行\[15\]，內容包括演唱會及幕後花絮。同時亦發售Premium
 Box版本，內容包括DVD、演唱會的歌曲CD、96頁寫真集、[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")5張及A5th公演「機尾雲」圍巾\[16\]。
 
 幕後花絮分別由前田敦子、大島麻衣及高橋南作為旁白，而指原莉乃及仁藤萌乃則負責拍攝成員的排練情況\[17\]。

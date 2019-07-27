@@ -1,5 +1,5 @@
 **Adobe Brackets**是[Adobe
-Systems開發的一個以](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[HTML](../Page/HTML.md "wikilink")、[CSS及](https://zh.wikipedia.org/wiki/CSS "wikilink")[JavaScript編寫的](../Page/JavaScript.md "wikilink")[HTML編輯器](https://zh.wikipedia.org/wiki/HTML編輯器 "wikilink")。在[MIT許可證下的](../Page/MIT許可證.md "wikilink")[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")，並於[GitHub上維護](../Page/GitHub.md "wikilink")。現可供三個平台下載使用，包括在[Microsoft
+Systems開發的一個以](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[HTML](../Page/HTML.md "wikilink")、[CSS及](https://zh.wikipedia.org/wiki/CSS "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")編寫的[HTML編輯器](https://zh.wikipedia.org/wiki/HTML編輯器 "wikilink")。在[MIT許可證](../Page/MIT許可證.md "wikilink")下的[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")，並於[GitHub](../Page/GitHub.md "wikilink")上維護。現可供三個平台下載使用，包括在[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS
 X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")。

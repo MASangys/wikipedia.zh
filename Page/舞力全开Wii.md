@@ -1,10 +1,10 @@
-《**舞力全开Wii**》（）是一款由[育碧巴黎和](../Page/育碧.md "wikilink")[育碧布加勒斯特联合开发](../Page/育碧.md "wikilink")，并由[任天堂发行于](../Page/任天堂.md "wikilink")[Wii平台上的](../Page/Wii.md "wikilink")[音乐韵律类](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[舞蹈游戏](https://zh.wikipedia.org/wiki/舞蹈游戏 "wikilink")。本作是[Just
+《**舞力全开Wii**》（）是一款由[育碧](../Page/育碧.md "wikilink")巴黎和[育碧](../Page/育碧.md "wikilink")布加勒斯特联合开发，并由[任天堂](../Page/任天堂.md "wikilink")发行于[Wii](../Page/Wii.md "wikilink")平台上的[音乐韵律类](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[舞蹈游戏](https://zh.wikipedia.org/wiki/舞蹈游戏 "wikilink")。本作是[Just
 Dance系列在日本地区的特殊版本](https://zh.wikipedia.org/wiki/Just_Dance系列 "wikilink")，游戏将系列一直使用的欧美音乐曲目更替为[日本流行音乐](https://zh.wikipedia.org/wiki/日本流行音乐 "wikilink")，但保留了一些在系列前两作《[Just
 Dance](https://zh.wikipedia.org/wiki/Just_Dance_\(遊戲\) "wikilink")》和《[Just
 Dance
 2](https://zh.wikipedia.org/wiki/Just_Dance_2 "wikilink")》中高人气的曲目\[1\]。《Just
 Dance Wii》主要游戏架构基于《Just Dance
-2》，保留了大多数的游戏模式，但取消了在线商店。本作于2011年10月13日发售，游戏是该系列在日本市场推出的第一款作品。[任天堂溥天及](../Page/任天堂溥天.md "wikilink")[任天堂香港都有引进日文原版](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")。
+2》，保留了大多数的游戏模式，但取消了在线商店。本作于2011年10月13日发售，游戏是该系列在日本市场推出的第一款作品。[任天堂溥天](../Page/任天堂溥天.md "wikilink")及[任天堂香港都有引进日文原版](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")。
 
 游戏续作《[舞力全开Wii
 2](https://zh.wikipedia.org/wiki/舞力全开Wii_2 "wikilink")》于2012年7月在日本发售\[2\]。

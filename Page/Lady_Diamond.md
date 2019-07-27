@@ -15,7 +15,7 @@ Zone的第](../Page/Sexy_Zone.md "wikilink")2張[單曲](https://zh.wikipedia.or
       -
         作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")、作曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")、編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
     <!-- end list -->
-      - [富士電視台系](../Page/富士電視台.md "wikilink")『[リアルスコープZ](https://zh.wikipedia.org/wiki/〜あらゆる世界を見学せよ〜潜入!リアルスコープ "wikilink")』主題曲
+      - [富士電視台](../Page/富士電視台.md "wikilink")系『[リアルスコープZ](https://zh.wikipedia.org/wiki/〜あらゆる世界を見学せよ〜潜入!リアルスコープ "wikilink")』主題曲
 2.  **風をきって** \[4:30\]
       -
         作詞：松井五郎、作曲：馬飼野康二、編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")

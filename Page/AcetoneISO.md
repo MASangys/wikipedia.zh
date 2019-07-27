@@ -21,7 +21,7 @@ Tools](../Page/DAEMON_Tools.md "wikilink")」。然而，AcetoneISO在掛載時�
   - 計算SHA-128、SHA-256或SHA-384。
   - 對映像檔進行加／解密。
   - 分割／合併數MB大小的映像檔。
-  - 以[7z格式壓縮的高壓縮比](../Page/7z.md "wikilink")。
+  - 以[7z](../Page/7z.md "wikilink")格式壓縮的高壓縮比。
   - 以ePSXe／pSX模擬器將PSX CD轉換為`.bin`檔。
   - 復原`.bin`、`.img`遺失的CUE檔。
   - 轉換Mac OS X的`.dmg`檔為可掛載的映像檔。

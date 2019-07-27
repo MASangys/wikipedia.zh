@@ -44,13 +44,13 @@ SOFT](https://zh.wikipedia.org/wiki/COCKTAIL_SOFT "wikilink")（現在改為[F\&
 
   -
     生日：4月19日。星座：牧羊座。血型：A型。身長：159cm。三圍：82/56/83。體重：45kg
-    大撫晚輩的美術部特優生。父親是著名畫家、母親是長笛演奏家。自身繪畫比賽贏得足夠的實力。[Canvas2美咲菫的姊姊](../Page/Canvas2.md "wikilink")。
+    大撫晚輩的美術部特優生。父親是著名畫家、母親是長笛演奏家。自身繪畫比賽贏得足夠的實力。[Canvas2](../Page/Canvas2.md "wikilink")美咲菫的姊姊。
 
 ### 其他角色
 
   -
     生日：2月14日。星座：水瓶座。
-    鷺之宮財閥集團女兒，與櫻塚戀爭奪校園第一美少女。料理得意，而後擔任撫子學園理事長。鷺之宮一族，紗綾（[Canvas2登場](../Page/Canvas2.md "wikilink")）、紬（[Canvas4登場](../Page/Canvas4.md "wikilink")）。
+    鷺之宮財閥集團女兒，與櫻塚戀爭奪校園第一美少女。料理得意，而後擔任撫子學園理事長。鷺之宮一族，紗綾（[Canvas2](../Page/Canvas2.md "wikilink")登場）、紬（[Canvas4](../Page/Canvas4.md "wikilink")登場）。
 
 <!-- end list -->
 

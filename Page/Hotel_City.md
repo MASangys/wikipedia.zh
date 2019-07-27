@@ -1,5 +1,5 @@
 《**Hotel
-City**》（非官方譯名：**酒店城市**），是一款由英國[Playfish開發的](../Page/Playfish.md "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，運行於[Facebook平台](../Page/Facebook.md "wikilink")，其為相當受歡迎及較有長期使用者的Facebook遊戲之一，遊戲主題為酒店設計及營運。此遊戲於2010年10月26日開辦，已於2011年9月30日結束營運\[1\]。
+City**》（非官方譯名：**酒店城市**），是一款由英國[Playfish](../Page/Playfish.md "wikilink")開發的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，運行於[Facebook](../Page/Facebook.md "wikilink")平台，其為相當受歡迎及較有長期使用者的Facebook遊戲之一，遊戲主題為酒店設計及營運。此遊戲於2010年10月26日開辦，已於2011年9月30日結束營運\[1\]。
 
 ## 遊戲內容與設計
 

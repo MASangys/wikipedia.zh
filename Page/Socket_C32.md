@@ -1,6 +1,6 @@
 **Socket
 C32**是[美商超微推出的的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[處理器插座和處理器管腳陣列](../Page/CPU插座.md "wikilink")，用於取代Socket
-F/F+，供支援單處理器或雙處理器協同處理的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、[工作站平台之](../Page/工作站.md "wikilink")[Opteron
+F/F+，供支援單處理器或雙處理器協同處理的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、[工作站](../Page/工作站.md "wikilink")平台之[Opteron
 4000系列中央處理器使用](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")。\[1\]
 
 ## 技術概況
@@ -17,7 +17,7 @@ F/F+一樣，插座上共1,207個金屬觸片，處理器上有1,207個觸點；
 
 Socket
 C32支援[雙通道](../Page/雙通道記憶體技術.md "wikilink")、可選[ECC的](https://zh.wikipedia.org/wiki/ECC "wikilink")[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")/DDR3L
-SDRAM，支援UDIMM/RDIMM/LRDIMM，最高支援至1600MT/s；每個記憶體通道支援2支[DIMM](../Page/DIMM.md "wikilink")。具備兩條16位元寬度的[HyperTransport鏈路](../Page/HyperTransport.md "wikilink")，每鏈路的資料吞吐量可達6.4GT/s（HyperTransport
+SDRAM，支援UDIMM/RDIMM/LRDIMM，最高支援至1600MT/s；每個記憶體通道支援2支[DIMM](../Page/DIMM.md "wikilink")。具備兩條16位元寬度的[HyperTransport](../Page/HyperTransport.md "wikilink")鏈路，每鏈路的資料吞吐量可達6.4GT/s（HyperTransport
 3.1 @
 3.2GHz時）。支援的處理器[熱設計功耗](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")（TDP）可達105W\[5\]（然而所有Socket
 C32的處理器中，TDP最高者僅95W）。

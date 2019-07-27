@@ -3,7 +3,7 @@
 [云计算平台](https://zh.wikipedia.org/wiki/云计算 "wikilink")，供用户创建网络应用（App、网站）。**OpenShift
 Enterprise**是其[私有云版本](https://zh.wikipedia.org/wiki/私有云 "wikilink")\[1\]这是一个开源软件，由
 **OpenShift
-Origin**管理，支持[GitHub](../Page/GitHub.md "wikilink")，开发者可以使用[Git来发布自己的web应用程序到平台上](../Page/Git.md "wikilink")。
+Origin**管理，支持[GitHub](../Page/GitHub.md "wikilink")，开发者可以使用[Git](../Page/Git.md "wikilink")来发布自己的web应用程序到平台上。
 
 ## 产品
 
@@ -86,6 +86,6 @@ OpenShift支持各语言的web应用框架，以及他们的首选网络集成AP
 [Category:开源云托管服务](https://zh.wikipedia.org/wiki/Category:开源云托管服务 "wikilink")
 [Category:免费云计算软件](https://zh.wikipedia.org/wiki/Category:免费云计算软件 "wikilink")
 [Category:用Ruby编写的免费软件](https://zh.wikipedia.org/wiki/Category:用Ruby编写的免费软件 "wikilink")
-[Category:Red_Hat](https://zh.wikipedia.org/wiki/Category:Red_Hat "wikilink")
+[Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
 
 1.

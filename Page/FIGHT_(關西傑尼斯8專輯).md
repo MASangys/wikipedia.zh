@@ -1,4 +1,4 @@
-《**FIGHT**》為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")5張專輯。
+《**FIGHT**》為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第5張專輯。
 
 ## 概要
 

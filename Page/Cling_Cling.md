@@ -7,11 +7,11 @@ Records/Universal J](../Page/環球音樂_\(日本\).md "wikilink")。
   - 距離前一張單曲《[Sweet
     Refrain](../Page/Sweet_Refrain.md "wikilink")》約8個月發行的單曲\[1\]，是Perfume首次在單曲中收錄4首歌曲。
   - 在單曲發行前，Perfume決定舉行全國巡迴演唱會「[Perfume 5th Tour
-    2014『轉轉轉』](https://zh.wikipedia.org/wiki/Perfume_5th_Tour_2014『轉轉轉』 "wikilink")」。如果在演唱會前發行專輯，那樣在演唱會便不能表演太多舊歌；如果在演唱會前只發行單曲，那樣演唱會便會欠缺新鮮感。因此，這張單曲是帶著迷你專輯的意識去制作的。成員大本彩乃表示，在這次單曲裡每首歌都沒有「B面曲這樣的意識」。製作人[中田康貴表示](../Page/中田康貴.md "wikilink")，這首歌是嘗試以「在大型購物中心裡走失的小孩的心情」去創作的。
+    2014『轉轉轉』](https://zh.wikipedia.org/wiki/Perfume_5th_Tour_2014『轉轉轉』 "wikilink")」。如果在演唱會前發行專輯，那樣在演唱會便不能表演太多舊歌；如果在演唱會前只發行單曲，那樣演唱會便會欠缺新鮮感。因此，這張單曲是帶著迷你專輯的意識去制作的。成員大本彩乃表示，在這次單曲裡每首歌都沒有「B面曲這樣的意識」。製作人[中田康貴](../Page/中田康貴.md "wikilink")表示，這首歌是嘗試以「在大型購物中心裡走失的小孩的心情」去創作的。
   - 《**Cling
     Cling**》為[Eisai](https://zh.wikipedia.org/wiki/Eisai "wikilink")「Chocola
     BB系列」廣告歌。《Cling
-    Cling》的音樂錄影帶由日本首席美術大師[種田陽平擔當美術指導](../Page/種田陽平.md "wikilink")，拍攝由5月12日的上午8時至翌日上午5時才完成，以居住在陰暗而奇異的地下世界裡的三位歌姫為主題，並以一個迷途小女孩無意中踏進這個混亂的地市作故事的開始。成員Kashiyuka的愛貓「Lyon」也在錄影帶中段登場。
+    Cling》的音樂錄影帶由日本首席美術大師[種田陽平](../Page/種田陽平.md "wikilink")擔當美術指導，拍攝由5月12日的上午8時至翌日上午5時才完成，以居住在陰暗而奇異的地下世界裡的三位歌姫為主題，並以一個迷途小女孩無意中踏進這個混亂的地市作故事的開始。成員Kashiyuka的愛貓「Lyon」也在錄影帶中段登場。
   - B面曲《**Hold Your
     Hand**》為[NHK電視劇](https://zh.wikipedia.org/wiki/NHK "wikilink")《》主題曲。官方特意為此曲拍攝了歌詞版的短版音樂錄影帶，而歌詞中每個詞語，均被寫在與Perfume有關的人物的手掌上，並串連一起呈現出來。其後，官方舉行全球性的「手掌」徵集活動，邀請世界各地的歌迷，把歌詞中的詞語寫上手掌，完成完整版的音樂錄影帶，配合歌曲「牽手」的主題。
   - 另一首B面曲《**DISPLAY**》則是Perfume代言的[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")
@@ -33,7 +33,7 @@ Records/Universal J](../Page/環球音樂_\(日本\).md "wikilink")。
 ## 參見
 
   - 《[MAGI9
-    PLAYLAND](../Page/MAGI9_PLAYLAND.md "wikilink")》：[9nine於同年](../Page/9nine.md "wikilink")6月發行的專輯，同樣收錄了西脇姊妹共演的特典影片。
+    PLAYLAND](../Page/MAGI9_PLAYLAND.md "wikilink")》：[9nine](../Page/9nine.md "wikilink")於同年6月發行的專輯，同樣收錄了西脇姊妹共演的特典影片。
 
 ## 資料來源
 

@@ -2,8 +2,8 @@
 Radeon](https://zh.wikipedia.org/wiki/AMD_Radeon "wikilink") "Durango"
 8GB DDR3/32MB eSRAM 显卡处理器 | display =  | sound = [7.1 surround
 sound](https://zh.wikipedia.org/wiki/7.1_surround_sound "wikilink") |
-input = 三个USB 3.0接口和一个[HDMI接口](../Page/HDMI.md "wikilink") | controllers
-= | camera = 1080p [Kinect摄像头](../Page/Kinect.md "wikilink") | touchpad
+input = 三个USB 3.0接口和一个[HDMI](../Page/HDMI.md "wikilink")接口 | controllers
+= | camera = 1080p [Kinect](../Page/Kinect.md "wikilink")摄像头 | touchpad
 = | connectivity = | service = [Xbox
 Live](../Page/Xbox_Live.md "wikilink") | dimensions = | weight = |
 topgame = [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink") (774萬套)\[1\] |
@@ -17,7 +17,7 @@ compatibility = 可（目前已支援了上百款[Xbox
 [XBOX_ONE_X_Gamescom_(36042607743).jpg](https://zh.wikipedia.org/wiki/File:XBOX_ONE_X_Gamescom_\(36042607743\).jpg "fig:XBOX_ONE_X_Gamescom_(36042607743).jpg")
 **Xbox
 One**是一台由[微軟推出的家用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[電子遊戲機](../Page/電子遊戲機.md "wikilink")，2013年11月在北美與歐洲首度發行。本機為[Xbox
-360的後繼機種](../Page/Xbox_360.md "wikilink")，於[電子遊戲史中分屬](../Page/電子遊戲史.md "wikilink")[第八世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。\[3\]\[4\]
+360的後繼機種](../Page/Xbox_360.md "wikilink")，於[電子遊戲史](../Page/電子遊戲史.md "wikilink")中分屬[第八世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。\[3\]\[4\]
 
 ## 歷史
 
@@ -38,7 +38,7 @@ T[FLOPS的处理能力](https://zh.wikipedia.org/wiki/每秒浮点运算次数 "
 ## 硬體
 
 Xbox
-One的整合處理晶片是由近50億枚電晶體組成，其核心數量為8個，核心面积363mm<sup>2</sup>，系統記憶體容量達8GB，而硬碟機容量則達500GB，光碟機為[藍光光碟機](../Page/藍光光碟.md "wikilink")。Xbox
+One的整合處理晶片是由近50億枚電晶體組成，其核心數量為8個，核心面积363mm<sup>2</sup>，系統記憶體容量達8GB，而硬碟機容量則達500GB，光碟機為[藍光光碟](../Page/藍光光碟.md "wikilink")機。Xbox
 One亦設有支援Wi-Fi Direct的802.11n無線網路。Xbox One的HDMI數位影音端子輸出口是利用USB 3.0端子。Xbox
 One的內建作業系統為[Xbox
 OS](https://zh.wikipedia.org/wiki/Xbox_OS "wikilink")、[Windows
@@ -47,7 +47,7 @@ RT核心等](../Page/Windows_RT.md "wikilink")3種不同的作業系統。
 ### 處理器相容性
 
 一开始微软宣传Xbox One不具備[向下相容的能力](../Page/向下兼容.md "wikilink")。这是因为Xbox
-360採用的是[IBM的](../Page/IBM.md "wikilink")[PowerPC架構](../Page/PowerPC.md "wikilink")，Xbox
+360採用的是[IBM](../Page/IBM.md "wikilink")的[PowerPC](../Page/PowerPC.md "wikilink")架構，Xbox
 One則改為使用了[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[Jaguar架构處理器](../Page/AMD_Jaguar.md "wikilink")，两者的处理器采用了不同的核心架构。但Xbox
 One也不兼容同样使用了[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[x86架构](https://zh.wikipedia.org/wiki/x86 "wikilink")[Pentium
 III处理器的Xbox](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")。\[10\]
@@ -62,7 +62,7 @@ one可向下兼容初代[Xbox游戏](https://zh.wikipedia.org/wiki/Xbox_\(游戏
 ### Kinect
 
 Xbox
-One能搭配新一代[Kinect體感控制器運作](../Page/Kinect.md "wikilink")。新一代Kinect能夠快而準地判斷玩家的動作，並能夠偵測肌肉活動，全因其視訊攝影規格被提升至1080pGDR。
+One能搭配新一代[Kinect](../Page/Kinect.md "wikilink")體感控制器運作。新一代Kinect能夠快而準地判斷玩家的動作，並能夠偵測肌肉活動，全因其視訊攝影規格被提升至1080pGDR。
 
 ### 控制器
 
@@ -83,7 +83,7 @@ Xbox One能夠讓玩家獲得多項網絡與娛樂媒體內容，其中包括電
 ### 語音控制
 
 Xbox One能夠讓玩家利用語音控制，且提供電視節目整合服務。電視節目整合服務能夠讓玩家在沒有切換電視輸入訊號的情況下，直接語音控制Xbox
-One觀看電視。另外，Xbox One還支援[Skype線上語音交談功能](../Page/Skype.md "wikilink")。
+One觀看電視。另外，Xbox One還支援[Skype](../Page/Skype.md "wikilink")線上語音交談功能。
 
 ### 雲端功能
 

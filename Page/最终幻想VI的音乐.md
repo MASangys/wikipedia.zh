@@ -1,5 +1,5 @@
-[电子游戏](../Page/电子游戏.md "wikilink")《[最终幻想VI](../Page/最终幻想VI.md "wikilink")》的音乐长期由作曲者[植松伸夫谱写](../Page/植松伸夫.md "wikilink")。收录游戏全部音乐的《最终幻想VI
-原声版》由[NTT出版于](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1994年在日本发行，后由[史克威尔艾尼克斯于](../Page/史克威尔艾尼克斯.md "wikilink")2004年再版。专辑由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")/NTT出版于1994年在北美以“凯夫卡的领域”为题发行。官方原声中的一些曲目后来选入《[最终幻想选集](https://zh.wikipedia.org/wiki/最终幻想选集 "wikilink")》的专辑《来自电子游戏FFV和FFVI的音乐》，和收录角色主题曲的两张[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《最终幻想VI之星
+[电子游戏](../Page/电子游戏.md "wikilink")《[最终幻想VI](../Page/最终幻想VI.md "wikilink")》的音乐长期由作曲者[植松伸夫](../Page/植松伸夫.md "wikilink")谱写。收录游戏全部音乐的《最终幻想VI
+原声版》由[NTT出版于](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1994年在日本发行，后由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")于2004年再版。专辑由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")/NTT出版于1994年在北美以“凯夫卡的领域”为题发行。官方原声中的一些曲目后来选入《[最终幻想选集](https://zh.wikipedia.org/wiki/最终幻想选集 "wikilink")》的专辑《来自电子游戏FFV和FFVI的音乐》，和收录角色主题曲的两张[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《最终幻想VI之星
 卷1》和《卷2》。NTT出版于1994年和2004年发行了游戏曲目[管弦](https://zh.wikipedia.org/wiki/管弦 "wikilink")[编曲选集](https://zh.wikipedia.org/wiki/编曲 "wikilink")《最终幻想VI
 宏伟的终曲》，专辑由[鹭巢诗郎和](https://zh.wikipedia.org/wiki/鹭巢诗郎 "wikilink")[齐藤桓方编曲](https://zh.wikipedia.org/wiki/齐藤桓方 "wikilink")，[米兰交响乐团演奏](https://zh.wikipedia.org/wiki/米兰交响乐团 "wikilink")。史克威尔/NTT出版于1994年出版了由佐藤史朗编曲，野村莉子演奏的钢琴编曲专辑《钢琴选集
 最终幻想VI》，2001年NTT出版再版了专辑。NTT出版还于1994年发行了单曲专辑《最终幻想VI

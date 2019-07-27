@@ -1,4 +1,4 @@
-《**希望**》是台灣音樂人[李宗盛的首張](../Page/李宗盛.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於1993年9月發行\[1\]。唱片收錄了《希望》和李宗盛與香港音樂人[盧冠廷合作的](../Page/盧冠廷.md "wikilink")《如風往事》，及兩首歌的伴奏曲\[2\]\[3\]。
+《**希望**》是台灣音樂人[李宗盛](../Page/李宗盛.md "wikilink")的首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於1993年9月發行\[1\]。唱片收錄了《希望》和李宗盛與香港音樂人[盧冠廷](../Page/盧冠廷.md "wikilink")合作的《如風往事》，及兩首歌的伴奏曲\[2\]\[3\]。
 
 ## 曲目
 

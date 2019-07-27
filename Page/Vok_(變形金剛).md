@@ -2,13 +2,13 @@
 
 ## “野兽战争”时期
 
-在变形金刚历史中，Vok是神秘和强大的外星人，超越物质形态存在于[宇宙中](../Page/宇宙.md "wikilink")。他们所处在宇宙中的位置被称作“Nexus
+在变形金刚历史中，Vok是神秘和强大的外星人，超越物质形态存在于[宇宙](../Page/宇宙.md "wikilink")中。他们所处在宇宙中的位置被称作“Nexus
 Zero”。Vok在史前地球的[超能勇士](https://zh.wikipedia.org/wiki/超能勇士 "wikilink")（即野兽战争，*Beast
 Wars*）时期（大约公元前70,000年）出现。他们早期与[变形金刚有过一些接触](https://zh.wikipedia.org/wiki/变形金刚 "wikilink")，至少“原始兽议会（*Tripredacus
 Council*）”知道他们的能力并且畏惧他们。
 
 在此期间，Vok在地球开展实验活动，其目的未被揭示。Vok在地球外制造的第二个“月球”实际上是个监控站或星球杀手（*planet
-killer*），同时是地球上存在的大量能量和包括[巨石阵在内的史前遗迹的来源](../Page/巨石阵.md "wikilink")。他们在自己的探测器和悬浮岛（*Floating
+killer*），同时是地球上存在的大量能量和包括[巨石阵](../Page/巨石阵.md "wikilink")在内的史前遗迹的来源。他们在自己的探测器和悬浮岛（*Floating
 Island*）被摧毁以后收到了信息，并推测地球正在被时间旅行的原始兽（*Predacons*）和巨无霸（*Maximals*）侵占。他们派出“星球毁灭者（*planetbuster*）”来到地球，开始引爆地球的巨大的能量矿藏，但最后被黑猩猩（*Optimus
 Primal*）及时制止了。
 

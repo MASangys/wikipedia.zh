@@ -1,7 +1,7 @@
 **《NBA
 2K》**系列游戏是一款以[美国国家篮球协会联盟为主题的篮球游戏](https://zh.wikipedia.org/wiki/美国国家篮球协会 "wikilink"),
 最初是针对[Sega
-Dreamcast游戏机来开发的](../Page/Dreamcast.md "wikilink")。在1999-2004年间由[世嘉发行](../Page/世嘉.md "wikilink")，之后世嘉放弃其制作小组[Visual
+Dreamcast游戏机来开发的](../Page/Dreamcast.md "wikilink")。在1999-2004年间由[世嘉](../Page/世嘉.md "wikilink")发行，之后世嘉放弃其制作小组[Visual
 Concepts](../Page/Visual_Concepts.md "wikilink")，并把该游戏制作小组以2400万美元的价格卖给了[Take-Two
 Interactive](../Page/Take-Two_Interactive.md "wikilink")\[1\]。但NBA
 2K系列一直由[Visual

@@ -1,4 +1,4 @@
-是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區的電子遊戲開發商](../Page/千代田區.md "wikilink")\[1\]，製作有[天诛](../Page/天诛系列.md "wikilink")、侍道和[秋葉原之旅等遊戲](../Page/秋葉原之旅.md "wikilink")。公司創建於1994年12月6日，4年後從有限公司改制成股份公司,2011年被[GungHo收购成为其子公司](https://zh.wikipedia.org/wiki/GungHo "wikilink")。\[2\]。
+是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")的電子遊戲開發商\[1\]，製作有[天诛](../Page/天诛系列.md "wikilink")、侍道和[秋葉原之旅](../Page/秋葉原之旅.md "wikilink")等遊戲。公司創建於1994年12月6日，4年後從有限公司改制成股份公司,2011年被[GungHo收购成为其子公司](https://zh.wikipedia.org/wiki/GungHo "wikilink")。\[2\]。
 截至2012年，會社有84名員工，資產達到1億1978萬日元。目前公司董事長為遠藤琢磨。\[3\]
 
 ## 遊戲
@@ -66,6 +66,7 @@ Acquire」。\[4\]以下為Acquire開發的遊戲\[5\]：
   - [屠龙之路](https://zh.wikipedia.org/wiki/屠龙之路 "wikilink")（2013）
   - [神圣之门](https://zh.wikipedia.org/wiki/神圣之门 "wikilink")（2013）
   - [八方旅人](../Page/八方旅人.md "wikilink")（2018）
+  - [致全人类](https://zh.wikipedia.org/wiki/致全人类 "wikilink")（2019）
 
 ## 參考資料
 

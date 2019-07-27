@@ -1,6 +1,6 @@
 [Contax-n1.jpg](https://zh.wikipedia.org/wiki/File:Contax-n1.jpg "fig:Contax-n1.jpg")
 **康泰时N**系列（**CONTAX
-N**）是一套带[自动对焦功能的](../Page/自动对焦.md "wikilink")135可换镜头单反系统，由[京瓷公司在](../Page/京瓷.md "wikilink")2000年推出。其卡口与之前的康泰时产品并不兼容。
+N**）是一套带[自动对焦](../Page/自动对焦.md "wikilink")功能的135可换镜头单反系统，由[京瓷](../Page/京瓷.md "wikilink")公司在2000年推出。其卡口与之前的康泰时产品并不兼容。
 
 ## 机身
 
@@ -11,7 +11,7 @@ N系列中有三款机身，分别是：
   - **CONTAX N Digital**
 
 其中，康泰时NX定位于普通消费者，康泰时N1则面向专业用户，而最后的N机身——[康泰时 N
-Digital是世界上第一部量产的全画幅数码单反相机](https://zh.wikipedia.org/wiki/康泰时_N_Digital "wikilink")。该系列由日本的[京瓷公司](../Page/京瓷.md "wikilink")（yocera）生产。
+Digital是世界上第一部量产的全画幅数码单反相机](https://zh.wikipedia.org/wiki/康泰时_N_Digital "wikilink")。该系列由日本的[京瓷](../Page/京瓷.md "wikilink")公司（yocera）生产。
 
 ## 镜头
 
@@ -73,7 +73,7 @@ N系列使用新的N卡口镜头，由卡尔蔡司该公司负责制造。系列
 ## 参见
 
   - [蔡司公司](../Page/蔡司公司.md "wikilink") —— 康泰时（CONTAX）品牌持有者
-  - [京瓷公司](../Page/京瓷.md "wikilink") —— CONTAX N 机身实际制造者，销售商
+  - [京瓷](../Page/京瓷.md "wikilink")公司 —— CONTAX N 机身实际制造者，销售商
   - [康泰时](https://zh.wikipedia.org/wiki/康泰时 "wikilink")
       - **康泰时N**
           - [康泰時 N

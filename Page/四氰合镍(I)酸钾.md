@@ -1,4 +1,4 @@
-**四氰合镍(I)酸钾**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式为K](../Page/化学式.md "wikilink")<sub>3</sub>\[Ni(CN)<sub>4</sub>\]。它在潮湿空气中易被氧化。
+**四氰合镍(I)酸钾**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为K<sub>3</sub>\[Ni(CN)<sub>4</sub>\]。它在潮湿空气中易被氧化。
 
 ## 制备
 

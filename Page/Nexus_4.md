@@ -11,7 +11,7 @@ LG Nexus
 Play
 Store中開賣，每個地區都在開售一小時之內售罄。另外16GB版本也將通過運營商T-Mobile定制發售，2年合約價為199美元。LG台灣將不會發售Nexus
 4，取而代之是[LG Optimus
-G](../Page/LG_Optimus_G.md "wikilink")。LG香港在其[Facebook上承認將在香港發售Nexus](../Page/Facebook.md "wikilink")
+G](../Page/LG_Optimus_G.md "wikilink")。LG香港在其[Facebook](../Page/Facebook.md "wikilink")上承認將在香港發售Nexus
 4。2013年8月28日，Nexus 4
 8GB版本的售价折价100美元，从299美元降为199美元，约合人民币1219元左右；而16GB版本的售价也降至249美元，约合人民币1524元人民币。\[1\]
 
@@ -24,7 +24,7 @@ G](../Page/LG_Optimus_G.md "wikilink")。LG香港在其[Facebook上承認將在�
 x 768像素，反應時間為0.01ms。Nexus
 4擁有一顆[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
 製造的 Snapdragon S4 Pro (Qualcomm Snapdragon
-apq8064)四核處理器（頻率1.5GHz），並內置了8GB/16G[闪存和](../Page/闪存.md "wikilink")2GB的[内存而不設外置microSD卡](https://zh.wikipedia.org/wiki/内存 "wikilink")。
+apq8064)四核處理器（頻率1.5GHz），並內置了8GB/16G[闪存](../Page/闪存.md "wikilink")和2GB的[内存而不設外置microSD卡](https://zh.wikipedia.org/wiki/内存 "wikilink")。
 
 ### 設計
 

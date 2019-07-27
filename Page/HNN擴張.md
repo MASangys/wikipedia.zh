@@ -3,7 +3,7 @@ Higman](https://zh.wikipedia.org/wiki/Graham_Higman "wikilink")、[Bernhard
 Neumann](https://zh.wikipedia.org/wiki/Bernhard_Neumann "wikilink")、[Hanna
 Neumann在](https://zh.wikipedia.org/wiki/Hanna_Neumann "wikilink")1949年的論文*Embedding
 Theorems for
-Groups*\[1\]提出。給定一個[群中兩個](https://zh.wikipedia.org/wiki/群_\(數學\) "wikilink")[同構](../Page/群同構.md "wikilink")[子群及其間的群同構](../Page/子群.md "wikilink")，這個構造法將這個群[嵌入到另一個群中](https://zh.wikipedia.org/wiki/嵌入_\(數學\) "wikilink")，令到所給定的群同構在新的群中成為共軛。
+Groups*\[1\]提出。給定一個[群中兩個](https://zh.wikipedia.org/wiki/群_\(數學\) "wikilink")[同構](../Page/群同構.md "wikilink")[子群](../Page/子群.md "wikilink")及其間的群同構，這個構造法將這個群[嵌入到另一個群中](https://zh.wikipedia.org/wiki/嵌入_\(數學\) "wikilink")，令到所給定的群同構在新的群中成為共軛。
 
 ## 構造法
 
@@ -52,7 +52,7 @@ Britton引理用[逆反命題可表述為](https://zh.wikipedia.org/wiki/逆反�
 
 HNN擴張的大多數基本性質，都可以從Britton引理得出。這些結果包括：
 
-  - 從*G*到*G*∗<sub>α</sub>的自然[群同態是](../Page/群同態.md "wikilink")[內射](https://zh.wikipedia.org/wiki/內射 "wikilink")，所以可以將*G*∗<sub>α</sub>視作包含*G*為子群。
+  - 從*G*到*G*∗<sub>α</sub>的自然[群同態](../Page/群同態.md "wikilink")是[內射](https://zh.wikipedia.org/wiki/內射 "wikilink")，所以可以將*G*∗<sub>α</sub>視作包含*G*為子群。
   - *G*∗<sub>α</sub>中任何一個有限[階元素](../Page/階_\(群論\).md "wikilink")，是[共軛於](https://zh.wikipedia.org/wiki/共軛類 "wikilink")*G*中的某個元素。
   - *G*∗<sub>α</sub>中任一個有限子群都共軛於*G*中某個有限子群.
   - 若*H* ≠ *G*及*K* ≠
@@ -66,7 +66,7 @@ HNN擴張和[帶共合的自由積兩者都是討論在](https://zh.wikipedia.or
 
 ## 推廣
 
-HNN擴張是[群的圖的](https://zh.wikipedia.org/wiki/群的圖 "wikilink")[基本群的初等例子](../Page/基本群.md "wikilink")。
+HNN擴張是[群的圖的](https://zh.wikipedia.org/wiki/群的圖 "wikilink")[基本群](../Page/基本群.md "wikilink")的初等例子。
 
 ## 參考
 

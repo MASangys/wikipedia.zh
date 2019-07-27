@@ -1,5 +1,5 @@
 《**GURU GURU
-99**》）是[日本電視台](../Page/日本電視台.md "wikilink")[系列自](https://zh.wikipedia.org/wiki/日本電視網 "wikilink")1994年4月10日起每週四晚間播出[綜藝節目](../Page/綜藝節目.md "wikilink")，為搞笑二人組的[NINETY-NINE冠名節目](../Page/NINETY-NINE.md "wikilink")。
+99**》）是[日本電視台](../Page/日本電視台.md "wikilink")[系列自](https://zh.wikipedia.org/wiki/日本電視網 "wikilink")1994年4月10日起每週四晚間播出[綜藝節目](../Page/綜藝節目.md "wikilink")，為搞笑二人組的[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")冠名節目。
 
 ## 概要
 

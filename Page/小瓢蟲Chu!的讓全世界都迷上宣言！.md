@@ -1,15 +1,15 @@
-《**小瓢蟲Chu\!的讓全世界都迷上宣言！**》（）是[日本電視台於](../Page/日本電視台.md "wikilink")2014年4月15日至7月8日間播出的一個深夜檔[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48集團下屬的衍生團體](../Page/AKB48集團.md "wikilink")[小瓢蟲Chu\!的冠名節目](../Page/小瓢蟲Chu!.md "wikilink")，由小瓢蟲Chu\!的7名成員領銜演出，並由資深[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[土田晃之擔任](../Page/土田晃之.md "wikilink")[節目主持](https://zh.wikipedia.org/wiki/主持人 "wikilink")。節目於每週一晚間25時29分（相當於週二凌晨1時29分）開始，每集片長30分鐘，播出一季共12集。
+《**小瓢蟲Chu\!的讓全世界都迷上宣言！**》（）是[日本電視台](../Page/日本電視台.md "wikilink")於2014年4月15日至7月8日間播出的一個深夜檔[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48集團](../Page/AKB48集團.md "wikilink")下屬的衍生團體[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")的冠名節目，由小瓢蟲Chu\!的7名成員領銜演出，並由資深[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[土田晃之](../Page/土田晃之.md "wikilink")擔任[節目主持](https://zh.wikipedia.org/wiki/主持人 "wikilink")。節目於每週一晚間25時29分（相當於週二凌晨1時29分）開始，每集片長30分鐘，播出一季共12集。
 
 ## 簡介
 
-AKB48集團的衍生團體「小瓢蟲Chu\!」，是一個集合了[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48與](../Page/NMB48.md "wikilink")[HKT48四個姊妹團體共](../Page/HKT48.md "wikilink")7名受矚目的新生代成員而成的新團體，該團體的成員雖然具有潛力，但仍然欠缺足夠的培養。因此，《讓全世界都迷上宣言》是一個要讓這些年輕成員們接受各種從未嘗試過的綜藝試煉，培養出像是綜藝反應、採訪報導能力等身為一名偶像或藝人所必備的專業技能而企畫出的節目。針對這節目方針，製作單位特別邀請了隸屬於[太田製作](../Page/太田製作.md "wikilink")、歷練深厚的土田晃之擔任節目主持人，在挑戰的過程中守護著成員們。
+AKB48集團的衍生團體「小瓢蟲Chu\!」，是一個集合了[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")與[HKT48](../Page/HKT48.md "wikilink")四個姊妹團體共7名受矚目的新生代成員而成的新團體，該團體的成員雖然具有潛力，但仍然欠缺足夠的培養。因此，《讓全世界都迷上宣言》是一個要讓這些年輕成員們接受各種從未嘗試過的綜藝試煉，培養出像是綜藝反應、採訪報導能力等身為一名偶像或藝人所必備的專業技能而企畫出的節目。針對這節目方針，製作單位特別邀請了隸屬於[太田製作](../Page/太田製作.md "wikilink")、歷練深厚的土田晃之擔任節目主持人，在挑戰的過程中守護著成員們。
 
 《讓全世界都迷上宣言》是日本電視台以與等人為核心、經常與AKB48集團合作的節目[製作小組](https://zh.wikipedia.org/wiki/製作人 "wikilink")，繼[乃木坂46的冠名節目](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")《[NOGIBINGO\!2](https://zh.wikipedia.org/wiki/NOGIBINGO!2 "wikilink")》播畢之後，接續企畫的新節目。至於對冠名主演的小瓢蟲Chu\!來說，則是在另一個主演電視節目《》（2013年10月27日至2014年3月16日，[富士電視台](../Page/富士電視台.md "wikilink")）才剛結束之後就立刻獲得的主演機會。但與《讓全世界都迷上宣言》不同的是，《女子高警察》是一個主要以喜劇短劇型態表現的作品，因此本劇可說是小瓢蟲Chu\!第一個真正的綜藝節目作品。
 
 ## 小瓢蟲Chu\!與小蜜蜂Chu\!
 
 自4月28日播放的第三集節目起，增加了一個名為「昆蟲物語
-小瓢蟲Chu\!與小蜜蜂Chu\!」（）、片長2至3分鐘的[動畫小單元](https://zh.wikipedia.org/wiki/動畫 "wikilink")，此單元實際上是1970年時開播、由[龍之子製作](https://zh.wikipedia.org/wiki/龍之子製作 "wikilink")（）所推出的經典作品《》（）的跨界合作衍生搞笑作品。在故事中當年還是小孩子、為了尋母而四處冒險的主角小[蜜蜂哈奇](../Page/蜜蜂.md "wikilink")（Hutch）在事隔多年之後已經變成一隻年紀44歲但還是找不到媽媽的中年蜜蜂大叔，有天因看到AKB48的傳單，而想效法[秋元康當起製作人](../Page/秋元康.md "wikilink")，以將小瓢蟲Chu\!的成員們變成昆蟲世界的頂尖偶像作為職志而努力著。
+小瓢蟲Chu\!與小蜜蜂Chu\!」（）、片長2至3分鐘的[動畫小單元](https://zh.wikipedia.org/wiki/動畫 "wikilink")，此單元實際上是1970年時開播、由[龍之子製作](https://zh.wikipedia.org/wiki/龍之子製作 "wikilink")（）所推出的經典作品《》（）的跨界合作衍生搞笑作品。在故事中當年還是小孩子、為了尋母而四處冒險的主角小[蜜蜂](../Page/蜜蜂.md "wikilink")哈奇（Hutch）在事隔多年之後已經變成一隻年紀44歲但還是找不到媽媽的中年蜜蜂大叔，有天因看到AKB48的傳單，而想效法[秋元康](../Page/秋元康.md "wikilink")當起製作人，以將小瓢蟲Chu\!的成員們變成昆蟲世界的頂尖偶像作為職志而努力著。
 
 在動畫作品中小瓢蟲Chu\!成員們化身成卡通偶像MakoChu（，小嶋真子）、MikiChu（，西野未姬）、NanaChu（，岡田奈奈）、UhaChu（，北川綾巴）、NagiChu（，澀谷凪咲）、MeruChu（，田島芽瑠）與MioChu（，朝長美櫻），並由成員本人們進行配音，這也是幾位新手們的首次[聲優](../Page/聲優.md "wikilink")（配音員）挑戰。
 
@@ -46,7 +46,7 @@ AKB48集團的衍生團體「小瓢蟲Chu\!」，是一個集合了[AKB48](../Pa
 
       - （第6、7集）：，在節目中擔任企畫活動現場播報員。
 
-      - 富士宮女子球隊（第7集）：由五名居住在[富士宮市的女中學生所組成的球隊](../Page/富士宮市.md "wikilink")，在節目中擔任小瓢蟲Chu\!的比賽對手。
+      - 富士宮女子球隊（第7集）：由五名居住在[富士宮市](../Page/富士宮市.md "wikilink")的女中學生所組成的球隊，在節目中擔任小瓢蟲Chu\!的比賽對手。
 
       - （第9集）：日本電視台主播，在宴會中擔任司儀。
 

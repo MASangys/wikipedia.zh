@@ -2,7 +2,7 @@
 [TKO_Market_interior_201803.jpg](https://zh.wikipedia.org/wiki/File:TKO_Market_interior_201803.jpg "fig:TKO_Market_interior_201803.jpg")
 
 **TKO街市**位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[TKO
-Gateway地下](../Page/TKO_Gateway.md "wikilink")，被喻為香港「最貴街市」，現時由[領展房地產投資信託基金經營](../Page/領展房地產投資信託基金.md "wikilink")。
+Gateway地下](../Page/TKO_Gateway.md "wikilink")，被喻為香港「最貴街市」，現時由[領展房地產投資信託基金](../Page/領展房地產投資信託基金.md "wikilink")經營。
 
 ## 歷史
 
@@ -14,7 +14,7 @@ TKO Market Hardware Store and Fish
 Stall.jpg|[五金店及魚檔](https://zh.wikipedia.org/wiki/五金店 "wikilink")
 TKO Market Fruit and Meat Stall.jpg|肉檔 TKO Market Joss Stick and Candle
 and Sacrifice Store, Seafood Stall.jpg|香燭祭品店及海產檔 TKO Market Candy and
-Roast Stall.jpg|糖果及[燒味店](../Page/燒味.md "wikilink") TKO Market Dried
+Roast Stall.jpg|糖果及[燒味](../Page/燒味.md "wikilink")店 TKO Market Dried
 Seafood Store, Bread Shop and Vegetable
 Stall.jpg|[海味及麵包店](https://zh.wikipedia.org/wiki/海味 "wikilink")
 TKO Market Flower Shop.jpg|花店
@@ -25,7 +25,7 @@ TKO Market Flower Shop.jpg|花店
 
 ## 最昂貴街市
 
-2012年，[消費者委員會及](https://zh.wikipedia.org/wiki/消費者委員會 "wikilink")[香港政黨展開調查](../Page/香港政黨.md "wikilink")，均發現厚德街市所售賣餸菜的價格為全香港最昂貴。[厚德街市關注組將厚德街市與](https://zh.wikipedia.org/wiki/厚德街市關注組 "wikilink")[觀塘街市比較](../Page/瑞和街.md "wikilink")，以每斤計算，前者[瘦肉貴](https://zh.wikipedia.org/wiki/瘦肉 "wikilink")12港元、[菜心貴](../Page/菜心.md "wikilink")6港元、[唐生菜貴](https://zh.wikipedia.org/wiki/唐生菜 "wikilink")3港元及[雞每隻貴](https://zh.wikipedia.org/wiki/雞 "wikilink")10港元等，至於[蘋果及](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[橙則分別貴](../Page/橙.md "wikilink")20%至36%\[2\]。
+2012年，[消費者委員會及](https://zh.wikipedia.org/wiki/消費者委員會 "wikilink")[香港政黨](../Page/香港政黨.md "wikilink")展開調查，均發現厚德街市所售賣餸菜的價格為全香港最昂貴。[厚德街市關注組將厚德街市與](https://zh.wikipedia.org/wiki/厚德街市關注組 "wikilink")[觀塘街市比較](../Page/瑞和街.md "wikilink")，以每斤計算，前者[瘦肉貴](https://zh.wikipedia.org/wiki/瘦肉 "wikilink")12港元、[菜心](../Page/菜心.md "wikilink")貴6港元、[唐生菜貴](https://zh.wikipedia.org/wiki/唐生菜 "wikilink")3港元及[雞每隻貴](https://zh.wikipedia.org/wiki/雞 "wikilink")10港元等，至於[蘋果及](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[橙](../Page/橙.md "wikilink")則分別貴20%至36%\[2\]。
 
 ## 三級大火
 

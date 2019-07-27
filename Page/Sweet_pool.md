@@ -1,5 +1,5 @@
 《**sweet
-pool**》是[Nitro+CHiRAL於](../Page/Nitro+CHiRAL.md "wikilink")2008年12月19日發售的[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[十八禁冒險遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。通常版於2009年4月10日發售。
+pool**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2008年12月19日發售的[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[十八禁冒險遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。通常版於2009年4月10日發售。
 
 ## 故事背景
 

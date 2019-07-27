@@ -1,11 +1,11 @@
-**Lyria**是一个由[法国国家铁路及](../Page/法国国家铁路.md "wikilink")[瑞士联邦铁路合组的](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")[子公司及](../Page/子公司.md "wikilink")[品牌名称](../Page/品牌.md "wikilink")，主要经营往返于[巴黎至](../Page/巴黎.md "wikilink")[瑞士之间的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[TGV列车服务](https://zh.wikipedia.org/wiki/TGV列车 "wikilink")。该公司根据法国法律，[总部设于](https://zh.wikipedia.org/wiki/总部 "wikilink")[巴黎](../Page/巴黎.md "wikilink")，其中法国国家铁路拥有74%的股权，瑞士联邦铁路则持有其余的26%\[1\]。
+**Lyria**是一个由[法国国家铁路](../Page/法国国家铁路.md "wikilink")及[瑞士联邦铁路合组的](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")[子公司](../Page/子公司.md "wikilink")及[品牌](../Page/品牌.md "wikilink")名称，主要经营往返于[巴黎](../Page/巴黎.md "wikilink")至[瑞士之间的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[TGV列车服务](https://zh.wikipedia.org/wiki/TGV列车 "wikilink")。该公司根据法国法律，[总部设于](https://zh.wikipedia.org/wiki/总部 "wikilink")[巴黎](../Page/巴黎.md "wikilink")，其中法国国家铁路拥有74%的股权，瑞士联邦铁路则持有其余的26%\[1\]。
 
 ## 历史
 
 [TGV-p1030236.jpg](https://zh.wikipedia.org/wiki/File:TGV-p1030236.jpg "fig:TGV-p1030236.jpg")
-自1961年夏天起，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎至](../Page/巴黎.md "wikilink")[意大利](../Page/意大利.md "wikilink")[米兰间首次开行了每日一班的](https://zh.wikipedia.org/wiki/米兰 "wikilink")[全欧快车](../Page/全欧快车.md "wikilink")[齐萨尔平号](https://zh.wikipedia.org/wiki/齐萨尔平号 "wikilink")，并经由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[洛桑运行](../Page/洛桑.md "wikilink")。这项服务自1984年1月22日起由[法国国家铁路及](../Page/法国国家铁路.md "wikilink")[瑞士联邦铁路共同经营](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")，并在巴黎至洛桑区间以一款三电压的[TGV列车服务取代了此前运行于该区间的齐萨尔平号](https://zh.wikipedia.org/wiki/TGV列车 "wikilink")、香榭丽舍号（）、[莱芒号和卢泰西亚号](https://zh.wikipedia.org/wiki/莱芒号 "wikilink")（）列车。1987年5月31日，这项服务又被纳入新成立的[欧城列车类别](../Page/欧城列车.md "wikilink")，并增加了由巴黎至[伯尔尼间的直达航线](../Page/伯尔尼.md "wikilink")\[2\]。
+自1961年夏天起，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")至[意大利](../Page/意大利.md "wikilink")[米兰间首次开行了每日一班的](https://zh.wikipedia.org/wiki/米兰 "wikilink")[全欧快车](../Page/全欧快车.md "wikilink")[齐萨尔平号](https://zh.wikipedia.org/wiki/齐萨尔平号 "wikilink")，并经由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[洛桑](../Page/洛桑.md "wikilink")运行。这项服务自1984年1月22日起由[法国国家铁路](../Page/法国国家铁路.md "wikilink")及[瑞士联邦铁路共同经营](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")，并在巴黎至洛桑区间以一款三电压的[TGV列车服务取代了此前运行于该区间的齐萨尔平号](https://zh.wikipedia.org/wiki/TGV列车 "wikilink")、香榭丽舍号（）、[莱芒号和卢泰西亚号](https://zh.wikipedia.org/wiki/莱芒号 "wikilink")（）列车。1987年5月31日，这项服务又被纳入新成立的[欧城列车](../Page/欧城列车.md "wikilink")类别，并增加了由巴黎至[伯尔尼](../Page/伯尔尼.md "wikilink")间的直达航线\[2\]。
 
-1993年5月23日，一个名为“法国－瑞士TGV（）”的（）成立，以规管巴黎至洛桑及伯尔尼之间的列车。而由巴黎经[里昂至](../Page/里昂.md "wikilink")[日内瓦的服务是自](../Page/日内瓦.md "wikilink")1981年作为法国境内班次开行，因而它在最初仍然不受影响。在1995年冬季，洛桑线的列车终到站首次在每周六由洛桑延长至[布里格](https://zh.wikipedia.org/wiki/布里格 "wikilink")，这班冬季列车也因此获得了类似于法国境内TGV冬季列车的名称，被称为“雪地TGV（）”。1997年9月28日，法国－瑞士TGV列车以“心脏线（）”的品牌标识，对9列三电压的TGV列车服务进行了调整，并在同年新增了一班每日延长至[苏黎世的班次](../Page/苏黎世.md "wikilink")\[3\]。
+1993年5月23日，一个名为“法国－瑞士TGV（）”的（）成立，以规管巴黎至洛桑及伯尔尼之间的列车。而由巴黎经[里昂](../Page/里昂.md "wikilink")至[日内瓦](../Page/日内瓦.md "wikilink")的服务是自1981年作为法国境内班次开行，因而它在最初仍然不受影响。在1995年冬季，洛桑线的列车终到站首次在每周六由洛桑延长至[布里格](https://zh.wikipedia.org/wiki/布里格 "wikilink")，这班冬季列车也因此获得了类似于法国境内TGV冬季列车的名称，被称为“雪地TGV（）”。1997年9月28日，法国－瑞士TGV列车以“心脏线（）”的品牌标识，对9列三电压的TGV列车服务进行了调整，并在同年新增了一班每日延长至[苏黎世](../Page/苏黎世.md "wikilink")的班次\[3\]。
 
 1999年，列车开始提供进一步的服务，开行了第二班雪地TGV及每日第二班前往苏黎世的班次。该公司也被转变为“法国瑞士铁路有限公司（）”。在2001年及2002年，雪地TGV开行了更多的班次，并首次提供前往布里格的夏季服务。2002年3月4日，法国瑞士铁路最终更名为“Lyria”，并继续使用“心脏线”的品牌标识。自2005年1月起，Lyria还接管了自1981年起开行的日内瓦－巴黎服务的运营权。
 
@@ -36,17 +36,17 @@ Lyria的饮食服务是由提供，当中包括设有一节[餐车](https://zh.w
 前往洛桑及伯尔尼的线路原本使用9组三电压制式的。编号为110-118号的这9组列车包括7组由法国国家铁路持有以及2组由瑞士联邦铁路持有（112号及114号），后者亦藉此参与Lyria运营。在2005年及2006年，全部9组TGV
 PSE列车均进行了类似于传统双电压PSE的现代化改造。自2012年12月起，这些列车均不再使用并退役\[6\]。
 
-列车在[法国高速铁路东南线的巴黎至](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")[阿尔芒松河畔艾西区间的最高运行速度可达](../Page/阿尔芒松河畔艾西.md "wikilink")300公里/小时（改造前为270公里/小时）。由于技术限制，列车在15千伏路段的最高限速仅为160公里/小时，并且瑞士只有少数地方可以达到这个速度。
+列车在[法国高速铁路东南线的巴黎至](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")[阿尔芒松河畔艾西](../Page/阿尔芒松河畔艾西.md "wikilink")区间的最高运行速度可达300公里/小时（改造前为270公里/小时）。由于技术限制，列车在15千伏路段的最高限速仅为160公里/小时，并且瑞士只有少数地方可以达到这个速度。
 
 前往日内瓦的线路使用传统的双电压制式车组，它们主要是常规的TGV PSE列车或双层的[TGV
 Duplex列车](../Page/法國國鐵TGV_Duplex列車.md "wikilink")。
 
 自2007年6月10日起，在苏黎世－巴塞尔－斯特拉斯堡－巴黎之间的线路上开始使用编号为4401-4419号（4406号由瑞士联邦铁路持有）的现代化[TGV
-POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")。这款TGV可以在[法国高速铁路东线的](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")[马恩河畔韦尔至](../Page/马恩河畔韦尔.md "wikilink")[博德雷库尔区间达到](https://zh.wikipedia.org/wiki/博德雷库尔_\(摩泽尔省\) "wikilink")320公里/小时的最高速度。列车内饰是由法国[时装设计师](https://zh.wikipedia.org/wiki/时装设计师 "wikilink")[克里斯蒂安·拉克鲁瓦所设计](../Page/克里斯蒂安·拉克鲁瓦.md "wikilink")。自2011年12月起，这些列车开始经由[法國高速鐵路萊茵河-隆河線运行](https://zh.wikipedia.org/wiki/法國高速鐵路萊茵河-隆河線 "wikilink")。
+POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")。这款TGV可以在[法国高速铁路东线的](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")[马恩河畔韦尔](../Page/马恩河畔韦尔.md "wikilink")至[博德雷库尔区间达到](https://zh.wikipedia.org/wiki/博德雷库尔_\(摩泽尔省\) "wikilink")320公里/小时的最高速度。列车内饰是由法国[时装设计师](https://zh.wikipedia.org/wiki/时装设计师 "wikilink")[克里斯蒂安·拉克鲁瓦](../Page/克里斯蒂安·拉克鲁瓦.md "wikilink")所设计。自2011年12月起，这些列车开始经由[法國高速鐵路萊茵河-隆河線运行](https://zh.wikipedia.org/wiki/法國高速鐵路萊茵河-隆河線 "wikilink")。
 
 自2012年起，巴黎－巴塞尔（－苏黎世）的线路也会使用双层的TGV
 Duplex列车运行。运营商Lyria希望该线的所有列车在2013年底前都被替换为TGV
-POS\[7\]。连同在2012年底前由[Alleo运营前往](../Page/Alleo.md "wikilink")[德国南部的TGV](../Page/德国.md "wikilink")
+POS\[7\]。连同在2012年底前由[Alleo](../Page/Alleo.md "wikilink")运营前往[德国](../Page/德国.md "wikilink")南部的TGV
 POS列车，被释放出来的TGV POS可以用于取代退役的TGV
 PSE，担当由巴黎至瑞士间的其它Lyria服务\[8\]。自2012年8月起，运行于巴黎－洛桑线路的TGV
 POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Lyria使用\[9\]。
@@ -61,7 +61,7 @@ POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Ly
 
 [法國高速鐵路萊茵河-隆河線的米卢斯至第戎区间于](https://zh.wikipedia.org/wiki/法國高速鐵路萊茵河-隆河線 "wikilink")2011年底建成通车，与经由斯特拉斯堡相比，新线路可将巴黎－巴塞尔/苏黎世之间的旅行时间缩短约30分钟，因此巴黎－苏黎世的全程运行时间仅需约4小时。
 
-在瑞士境内兴建、设于伯尔尼－[纳沙泰尔铁路之间的](../Page/纳沙泰尔.md "wikilink")也将进一步缩短伯尔尼至巴黎之间的距离。该隧道计划于2016年建成通车。伯尔尼－巴黎之间的列车服务已自2013年12月起改为经由巴塞尔运行，因此旅行时间节省了约40分钟\[11\]。
+在瑞士境内兴建、设于伯尔尼－[纳沙泰尔](../Page/纳沙泰尔.md "wikilink")铁路之间的也将进一步缩短伯尔尼至巴黎之间的距离。该隧道计划于2016年建成通车。伯尔尼－巴黎之间的列车服务已自2013年12月起改为经由巴塞尔运行，因此旅行时间节省了约40分钟\[11\]。
 
 ## 参见
 

@@ -1,5 +1,5 @@
 「**Berryz工房 特別精選輯 Vol.2**」（Berryz工房 スッペシャル ベスト
-Vol.2）是日本的女子偶像組合[Berryz工房的第](../Page/Berryz工房.md "wikilink")2枚精選專輯。於2014年2月26日發行。唱片公司為[PICCOLO
+Vol.2）是日本的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第2枚精選專輯。於2014年2月26日發行。唱片公司為[PICCOLO
 TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

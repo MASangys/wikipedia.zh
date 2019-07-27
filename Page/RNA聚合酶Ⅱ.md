@@ -1,9 +1,9 @@
 [Label_RNA_pol_II.png](https://zh.wikipedia.org/wiki/File:Label_RNA_pol_II.png "fig:Label_RNA_pol_II.png")
 
-**RNA聚合酶Ⅱ**（，亦被称为**RNAPⅡ**或**PolⅡ**）是一个[多种蛋白质复合体](https://zh.wikipedia.org/wiki/蛋白质复合体 "wikilink")。它是在[真核生物细胞核中发现的三种](../Page/真核生物.md "wikilink")[RNAP](../Page/RNA聚合酶.md "wikilink")[酶之一](../Page/酶.md "wikilink")\[1\]。
+**RNA聚合酶Ⅱ**（，亦被称为**RNAPⅡ**或**PolⅡ**）是一个[多种蛋白质复合体](https://zh.wikipedia.org/wiki/蛋白质复合体 "wikilink")。它是在[真核生物](../Page/真核生物.md "wikilink")细胞核中发现的三种[RNAP](../Page/RNA聚合酶.md "wikilink")[酶](../Page/酶.md "wikilink")之一\[1\]。
 它催化[DNA的转录](../Page/脱氧核糖核酸.md "wikilink")，以合成[mRNA的和大多数](https://zh.wikipedia.org/wiki/mRNA "wikilink")[snRNA和](https://zh.wikipedia.org/wiki/snRNA "wikilink")[微RNA的前体](https://zh.wikipedia.org/wiki/微RNA "wikilink")\[2\]\[3\]。
 RNA聚合酶Ⅱ是一个550 kDa的12个亚基复合物，是研究最多的RNA聚合酶类型。
-它需要多种[转录因子才能与上游基因](../Page/转录因子.md "wikilink")[启动子结合并开始转录](https://zh.wikipedia.org/wiki/启动子 "wikilink")。
+它需要多种[转录因子](../Page/转录因子.md "wikilink")才能与上游基因[启动子结合并开始转录](https://zh.wikipedia.org/wiki/启动子 "wikilink")。
 
 ## 发现
 

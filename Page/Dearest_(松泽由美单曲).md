@@ -2,9 +2,9 @@
 
 ## 概要
 
-前作之后时隔2个月所发布的单曲。1998年7月3日由[國王唱片原版发售之后](../Page/國王唱片.md "wikilink")，2010年2月17日再次发行数字重制版。当時,松澤本人因与eastwest
+前作之后时隔2个月所发布的单曲。1998年7月3日由[國王唱片](../Page/國王唱片.md "wikilink")原版发售之后，2010年2月17日再次发行数字重制版。当時,松澤本人因与eastwest
 japan有独家授权的关系，1996年所发表的《[YOU GET TO
-BURNING](../Page/YOU_GET_TO_BURNING.md "wikilink")》作为《[机动战舰抚子](../Page/機動戰艦.md "wikilink")》的电影版主題歌相配合，由[STARCHILD发行](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。2005年9月7日，歌手[Angela发表了同名翻唱版本](../Page/Angela.md "wikilink")。
+BURNING](../Page/YOU_GET_TO_BURNING.md "wikilink")》作为《[机动战舰抚子](../Page/機動戰艦.md "wikilink")》的电影版主題歌相配合，由[STARCHILD发行](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。2005年9月7日，歌手[Angela](../Page/Angela.md "wikilink")发表了同名翻唱版本。
 
 ## 收录曲目
 
@@ -30,7 +30,7 @@ BURNING](../Page/YOU_GET_TO_BURNING.md "wikilink")》作为《[机动战舰抚�
 1.  **YOU GET TO BURNING** \[4:12\]
       -
         作詞：有森聡美、作曲・編曲：大森俊之
-          - [東京電視台系](../Page/東京電視台.md "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[機動戰艦抚子](../Page/機動戰艦.md "wikilink")》片头主题曲
+          - [東京電視台](../Page/東京電視台.md "wikilink")系[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[機動戰艦](../Page/機動戰艦.md "wikilink")抚子》片头主题曲
 2.  **私らしく** \[4:54\]
       -
         作詞：松浦有希、作曲：松浦有希・吉田潔、編曲：松浦有希・吉田潔

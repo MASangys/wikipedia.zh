@@ -1,4 +1,4 @@
-**DASONI**（）為韓國女子組合[EXID首個子團體](https://zh.wikipedia.org/wiki/EXID "wikilink")，成員包括[率智及](../Page/率智.md "wikilink")[哈妮](https://zh.wikipedia.org/wiki/安喜延 "wikilink")。於2013年2月15日以首張單曲《Good
+**DASONI**（）為韓國女子組合[EXID首個子團體](https://zh.wikipedia.org/wiki/EXID "wikilink")，成員包括[率智](../Page/率智.md "wikilink")及[哈妮](https://zh.wikipedia.org/wiki/安喜延 "wikilink")。於2013年2月15日以首張單曲《Good
 Bye》出道，同年3月15日發行第二張單曲《Stage Of The 70's》，主打曲為〈Said So Often（아주 흔한 말）〉。
 
 ## 成員資料

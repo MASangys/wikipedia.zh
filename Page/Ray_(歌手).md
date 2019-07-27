@@ -5,7 +5,7 @@
   - 來自北海道。幼少時，Ray報名參加演員學校，目標是成為一個歌手。卓越的歌唱技巧與發揮頂級的舞蹈在比賽中有豐滿人聲的表現，這是有希望的未來。
   - 學生時代最初買的CD是[SHOWTA.的單曲](https://zh.wikipedia.org/wiki/SHOWTA. "wikilink")〈願い星〉，在中學二、三年級購買的。
   - 處女作是2012年2月[TV動畫](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")《[在那個夏天等待](../Page/在那個夏天等待.md "wikilink")》主題曲〈[sign](https://zh.wikipedia.org/wiki/sign "wikilink")〉，首次出現在ORICON週間第11位。
-  - 2012年7月18日[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")《[十鬼之絆～關原奇譚～](https://zh.wikipedia.org/wiki/十鬼之絆～關原奇譚～ "wikilink")》的主題曲集單曲與[黑崎真音合輯](../Page/黑崎真音.md "wikilink")「[悠久之謳](../Page/悠久之謳.md "wikilink")」片尾曲收錄了〈契―この広い広い、時空を越えてー〉和〈譫言ー沈みゆく私のー〉兩首歌曲。
+  - 2012年7月18日[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")《[十鬼之絆～關原奇譚～](https://zh.wikipedia.org/wiki/十鬼之絆～關原奇譚～ "wikilink")》的主題曲集單曲與[黑崎真音](../Page/黑崎真音.md "wikilink")合輯「[悠久之謳](../Page/悠久之謳.md "wikilink")」片尾曲收錄了〈契―この広い広い、時空を越えてー〉和〈譫言ー沈みゆく私のー〉兩首歌曲。
   - 2012年8月初次亮相於動漫祭典「[Animelo Summer Live
     2012－INFINITY∞―](../Page/Animelo_Summer_Live.md "wikilink")」演出，於2013年再次演出。另外，在週二文化放送
     超\!A\&G＋目前播出的「ARTIST ZONE 2h」一種驅性已經贏得人氣。
@@ -34,7 +34,7 @@
 | 初回限定盤 | 通常盤         | 動畫盤                                                                 |            |            |                                                                                                                                                                              |
 | 1st   | 2012年2月8日   | **[sign](https://zh.wikipedia.org/wiki/sign_\(Ray的曲\) "wikilink")** | GNCA-0234  | GNCA-0235  |                                                                                                                                                                              |
 | ※     | 2012年7月18日  | ****                                                                | GNCA-0241  |            | [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")《[十鬼之絆 〜關原奇譚〜](https://zh.wikipedia.org/wiki/十鬼之絆_〜關原奇譚〜 "wikilink")》片尾曲 |
-| 2nd   | 2012年10月24日 | **[樂園PROJECT](https://zh.wikipedia.org/wiki/樂園PROJECT "wikilink")** | 1000344850 | 1000344851 | 電視動畫《[出包王女DARKNESS](../Page/出包王女.md "wikilink")》片頭曲                                                                                                                          |
+| 2nd   | 2012年10月24日 | **[樂園PROJECT](https://zh.wikipedia.org/wiki/樂園PROJECT "wikilink")** | 1000344850 | 1000344851 | 電視動畫《[出包王女](../Page/出包王女.md "wikilink")DARKNESS》片頭曲                                                                                                                          |
 | 3rd   | 2013年2月6日   | **[Recall](../Page/Recall.md "wikilink")**                          | GNCA-0267  | GNCA-0268  | 電視動畫《[AMNESIA](https://zh.wikipedia.org/wiki/AMNESIA "wikilink")》片尾曲                                                                                                         |
 | 4th   | 2013年10月30日 | ****                                                                | GNCA-0310  | GNCA-0311  | GNCA-0309                                                                                                                                                                    |
 | 5th   | 2014年2月5日   | **ebb and flow**                                                    | GNCA-0323  | GNCA-0324  |                                                                                                                                                                              |

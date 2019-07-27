@@ -1,4 +1,4 @@
-《**Synchrogazer**》（）是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[歌手](../Page/歌手.md "wikilink")[水樹奈奈第](../Page/水樹奈奈.md "wikilink")26張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2012年1月11日由[King
+《**Synchrogazer**》（）是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第26張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2012年1月11日由[King
 Records
 MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番號KICM-1377。
 
@@ -19,7 +19,7 @@ JAPAN上演唱。
 ## 主要记录
 
 2012年1月23日的[Oricon
-周间排行榜第](../Page/Oricon.md "wikilink")2位。初动约5.1万张，与前作純潔パラドックス保持同水准\[13\]。第18张单曲[Trickster以来连续第](../Page/Trickster.md "wikilink")9张单曲进入同一排行榜的TOP3。
+周间排行榜第](../Page/Oricon.md "wikilink")2位。初动约5.1万张，与前作純潔パラドックス保持同水准\[13\]。第18张单曲[Trickster](../Page/Trickster.md "wikilink")以来连续第9张单曲进入同一排行榜的TOP3。
 
 Oricon日榜2012年1月10日至1月14日连续5日排名第2位，至1月16日连续7天排名日榜TOP3。
 

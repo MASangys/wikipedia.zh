@@ -1,13 +1,13 @@
 [300_Page_iPhone_bill.png](https://zh.wikipedia.org/wiki/File:300_Page_iPhone_bill.png "fig:300_Page_iPhone_bill.png")上展示她装在盒子裡收到的300页[iPhone账单](https://zh.wikipedia.org/wiki/iPhone "wikilink")\]\]
 
-**300页iPhone账单**，是[美国](../Page/美国.md "wikilink")[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[匹兹堡一位叫](../Page/匹兹堡.md "wikilink")[贾斯汀·伊扎里克](../Page/贾斯汀·伊扎里克.md "wikilink")（）的女子于2007年8月收到的电话费账单。这份账单是由[AT\&T移动公司装在盒子裡寄来的](../Page/AT&T.md "wikilink")\[1\]，她将其拍下影片后发布到包括[YouTube在内的多家视频分享网站而](../Page/YouTube.md "wikilink")[爆红](https://zh.wikipedia.org/wiki/网络爆红 "wikilink")\[2\]\[3\]\[4\]。账单金额为275美元，上面鉅细无遗地列出了计费期间所有的数据传输明细记录，包括电子邮件和短信的后台流量。很快，[博客上开始流传出人意料的计费问题故事和](https://zh.wikipedia.org/wiki/博客 "wikilink")[苹果公司对](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone的大力宣传以及发行的技术新闻](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[5\]\[6\]，而且这段视频剪辑也引起了[大众媒体对浩繁账单的关注](https://zh.wikipedia.org/wiki/大众媒体 "wikilink")。
+**300页iPhone账单**，是[美国](../Page/美国.md "wikilink")[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[匹兹堡](../Page/匹兹堡.md "wikilink")一位叫[贾斯汀·伊扎里克](../Page/贾斯汀·伊扎里克.md "wikilink")（）的女子于2007年8月收到的电话费账单。这份账单是由[AT\&T](../Page/AT&T.md "wikilink")移动公司装在盒子裡寄来的\[1\]，她将其拍下影片后发布到包括[YouTube](../Page/YouTube.md "wikilink")在内的多家视频分享网站而[爆红](https://zh.wikipedia.org/wiki/网络爆红 "wikilink")\[2\]\[3\]\[4\]。账单金额为275美元，上面鉅细无遗地列出了计费期间所有的数据传输明细记录，包括电子邮件和短信的后台流量。很快，[博客上开始流传出人意料的计费问题故事和](https://zh.wikipedia.org/wiki/博客 "wikilink")[苹果公司对](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone的大力宣传以及发行的技术新闻](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[5\]\[6\]，而且这段视频剪辑也引起了[大众媒体对浩繁账单的关注](https://zh.wikipedia.org/wiki/大众媒体 "wikilink")。
 
-10天后，视频已有超过300万人次点击\[7\]\[8\]，并获得了国际性的新闻关注。AT\&T于是给iPhone用户发了一条短信说明其今后的计费账单内容将会进行调整\[9\]。[信息技术杂志](../Page/信息技术.md "wikilink")《计算机世界》（）将这一事件列入其“技术界十大最丢人瞬间”名单\[10\]\[11\]。
+10天后，视频已有超过300万人次点击\[7\]\[8\]，并获得了国际性的新闻关注。AT\&T于是给iPhone用户发了一条短信说明其今后的计费账单内容将会进行调整\[9\]。[信息技术](../Page/信息技术.md "wikilink")杂志《计算机世界》（）将这一事件列入其“技术界十大最丢人瞬间”名单\[10\]\[11\]。
 
 ## 背景
 
 [Original_iPhone_docked.jpg](https://zh.wikipedia.org/wiki/File:Original_iPhone_docked.jpg "fig:Original_iPhone_docked.jpg")
-苹果公司在美国发布的iPhone带有一个软件“锁”，令其僅能使用AT\&T移动公司的[网络](../Page/无线网络.md "wikilink")\[12\]。用户购买后可以使用苹果[iTunes软件激活iPhone的AT](https://zh.wikipedia.org/wiki/iTunes "wikilink")\&T服务合同\[13\]，合同期间，用户可以自主选择账单上所需列出的内容，但如用户没有特别指定，那么AT\&T默认将给出详尽账单\[14\]，其上会列出每一次数据传输，包括[电子邮件](../Page/电子邮件.md "wikilink")、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、[网页浏览器的后台流量](../Page/网页浏览器.md "wikilink")\[15\]，这将产生包含大量项目的详细清单\[16\]。
+苹果公司在美国发布的iPhone带有一个软件“锁”，令其僅能使用AT\&T移动公司的[网络](../Page/无线网络.md "wikilink")\[12\]。用户购买后可以使用苹果[iTunes软件激活iPhone的AT](https://zh.wikipedia.org/wiki/iTunes "wikilink")\&T服务合同\[13\]，合同期间，用户可以自主选择账单上所需列出的内容，但如用户没有特别指定，那么AT\&T默认将给出详尽账单\[14\]，其上会列出每一次数据传输，包括[电子邮件](../Page/电子邮件.md "wikilink")、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、[网页浏览器](../Page/网页浏览器.md "wikilink")的后台流量\[15\]，这将产生包含大量项目的详细清单\[16\]。
 
 一个月后\[17\]，新用户们开始收到首月账单，有关超长或超贵iPhone账单的故事也开始流传。300页的账单实属罕见，但其他用户收到过50至100页的账单\[18\]。其中首位引起较大范围关注的是本·库彻拉（Ben
 Kuchera），他是一个名叫[Ars
@@ -15,9 +15,9 @@ Technica的技术类网站游戏编辑](../Page/Ars_Technica.md "wikilink")。�
 
 ## 视频
 
-贾斯汀·伊扎里克是[匹兹堡区域的一位](../Page/匹兹堡.md "wikilink")[平面设计师](../Page/平面设计.md "wikilink")，当时23岁\[23\]的她还是一位[喜剧小品演员和](../Page/喜剧小品.md "wikilink")[博客写手](https://zh.wikipedia.org/wiki/博客 "wikilink")，她于2007年8月11日（星期六）收到了这份300页的账单\[24\]，然后决定在一家咖啡馆裡以此为题材拍一段视频\[25\]。到了星期一，她将剪辑出来的一分钟片段發布到了多家互联网流行[影片分享网站](https://zh.wikipedia.org/wiki/影片分享网站 "wikilink")\[26\]。根据8月22日4家网站总结的数字，这段视频仅第一个星期就在YouTube获得了超过50万次的点击率，在有35万人次观看，[Break.com又有](https://zh.wikipedia.org/wiki/Break.com "wikilink")50万人点击，[雅虎视频上更高达](https://zh.wikipedia.org/wiki/雅虎视频 "wikilink")110万人次。到了2007年底，报道的观看人次已经突破800万。艾扎里克表示这段视频从Revver为自己带来了2000美元的收入\[27\]。
+贾斯汀·伊扎里克是[匹兹堡](../Page/匹兹堡.md "wikilink")区域的一位[平面设计](../Page/平面设计.md "wikilink")师，当时23岁\[23\]的她还是一位[喜剧小品](../Page/喜剧小品.md "wikilink")演员和[博客写手](https://zh.wikipedia.org/wiki/博客 "wikilink")，她于2007年8月11日（星期六）收到了这份300页的账单\[24\]，然后决定在一家咖啡馆裡以此为题材拍一段视频\[25\]。到了星期一，她将剪辑出来的一分钟片段發布到了多家互联网流行[影片分享网站](https://zh.wikipedia.org/wiki/影片分享网站 "wikilink")\[26\]。根据8月22日4家网站总结的数字，这段视频仅第一个星期就在YouTube获得了超过50万次的点击率，在有35万人次观看，[Break.com又有](https://zh.wikipedia.org/wiki/Break.com "wikilink")50万人点击，[雅虎视频上更高达](https://zh.wikipedia.org/wiki/雅虎视频 "wikilink")110万人次。到了2007年底，报道的观看人次已经突破800万。艾扎里克表示这段视频从Revver为自己带来了2000美元的收入\[27\]。
 
-部分视频还在多家全国或地方电视台播出，艾扎里克也接受了一对一的采访，其中包括[有线电视新闻网](../Page/有线电视新闻网.md "wikilink")\[28\]、[福克斯新闻频道](https://zh.wikipedia.org/wiki/福克斯新闻频道 "wikilink")\[29\]、\[30\]和\[31\]。[美国广播公司新闻频道也独立播放了由其一位广播电台记者主持的一次视频采访](../Page/美国广播公司.md "wikilink")\[32\]。
+部分视频还在多家全国或地方电视台播出，艾扎里克也接受了一对一的采访，其中包括[有线电视新闻网](../Page/有线电视新闻网.md "wikilink")\[28\]、[福克斯新闻频道](https://zh.wikipedia.org/wiki/福克斯新闻频道 "wikilink")\[29\]、\[30\]和\[31\]。[美国广播公司](../Page/美国广播公司.md "wikilink")新闻频道也独立播放了由其一位广播电台记者主持的一次视频采访\[32\]。
 
 艾扎里克在视频中的评论主要集中在不必要纸质账单所造成的浪费上。视频中她特別强调了账单夸张的尺寸而非金额，在视频开头她说道：“我买了个iPhone，所以必须换用AT\&T，这真棒极了，然后我收到了第一份AT\&T账单，装在这个盒子裡\[33\]。”剩下的视频中使用了美国iPhone电视广告的独特音乐，然后可以看到她打开盒子并切换成快速镜头翻阅裡面的账单\[34\]，视频结束时屏幕上出现了如下字样：“使用电子账单，拯救一片森林”\[35\]。
 
@@ -31,7 +31,7 @@ Technica的技术类网站游戏编辑](../Page/Ars_Technica.md "wikilink")。�
 
 ### 公司
 
-iPhone的[移动电话报务提供商AT](../Page/移动电话.md "wikilink")\&T移动公司通过发言人马克·西格尔表示这份账单的长度是非常罕见的。他告诉《今日美国》的记者说：“我们并没有用很多盒子来寄账单给客户。”AT\&T移动所有用户的账单细则都是一样的，但是iPhone的普及度和功能扩大了影响。西格尔表示：“它与我们向其他使用任何设备的任何客户账单没有任何不同。”\[41\]
+iPhone的[移动电话](../Page/移动电话.md "wikilink")报务提供商AT\&T移动公司通过发言人马克·西格尔表示这份账单的长度是非常罕见的。他告诉《今日美国》的记者说：“我们并没有用很多盒子来寄账单给客户。”AT\&T移动所有用户的账单细则都是一样的，但是iPhone的普及度和功能扩大了影响。西格尔表示：“它与我们向其他使用任何设备的任何客户账单没有任何不同。”\[41\]
 
 8月18日，AT\&T发布了一份声明：“我们的客户可以选择是否接受详细的账单。而且我们已经连续多年鼓励用户换为线上账单，因为这样更方便、更安全也更环保”\[42\]。到了8月22日，AT\&T通过短信告知iPhone用户纸质账单中将去除详细清单\[43\]\[44\]。艾扎里克对此回应道：“看起来他们已经得到教训了。”\[45\]不过，AT\&T的女发言人劳伦·加纳表示，公司并不是因为公众反应而变更了账单的内容。她说“这事儿我们计划好久了”\[46\]\[47\]。
 
@@ -40,16 +40,16 @@ iPhone的[移动电话报务提供商AT](../Page/移动电话.md "wikilink")\&T�
 AT\&T可能没有预料到iPhone用户高数据使用量的影响\[48\]\[49\]，于是该公司的呼叫服务中心被有关账单长度洪水般的投诉淹没\[50\]。
 
 “（账单裡）简直是废话连天”，愤怒的迈克·布鲁菲（Mike
-Brophy）也在博客裡贴出了64页的账单，“95%都是一页又一页的数据传输记录，大部分只有1K，且收费为‘0’”。他还毫不留情地批评账AT\&T浪费资源，“我的账单差不多有半磅重，先不说信息超载，光汽油就浪费了不少。”\[51\][佛罗里达州](../Page/佛罗里达州.md "wikilink")[坦帕一个](https://zh.wikipedia.org/wiki/坦帕_\(佛罗里达州\) "wikilink")[智库的创始人收到了一份](https://zh.wikipedia.org/wiki/智库 "wikilink")42页的账单后告诉记者：“这也太扯了。”\[52\][俄亥俄州](../Page/俄亥俄州.md "wikilink")[渥太华县的一位教师收到了](https://zh.wikipedia.org/wiki/渥太华县_\(俄亥俄州\) "wikilink")52页的账单，称这是“我这辈子所拿到最大的电话账单”\[53\]。一家[麦金塔电脑咨询公司的合伙人称自己的账单是](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")“60页的虚无”\[54\]。[弗吉尼亚州的一位业务顾问收到一份](../Page/弗吉尼亚州.md "wikilink")62页的账单后询问记者：“为什么你要送出一份这么大的账单呢？”\[55\][华盛顿州](../Page/华盛顿州.md "wikilink")[西雅图附近一家软件公司的老板拍下了自己](https://zh.wikipedia.org/wiki/西雅图 "wikilink")127页账单的照片，他将账单铺在地板上，上面还坐了一条[马尔济斯](https://zh.wikipedia.org/wiki/马尔济斯 "wikilink")，之后还将这张照片发布到了博客上\[56\]\[57\]并且问道：“有没有哪位苹果环保小组成员见过一份AT\&T账单？”\[58\]一位专栏作家在文章中写道，自己的妻子收到了一份150页的盒装iPhone账单，他对此评论道：“好吧，为这第一个月的账单他们到底杀死了多少棵树？”\[59\]
+Brophy）也在博客裡贴出了64页的账单，“95%都是一页又一页的数据传输记录，大部分只有1K，且收费为‘0’”。他还毫不留情地批评账AT\&T浪费资源，“我的账单差不多有半磅重，先不说信息超载，光汽油就浪费了不少。”\[51\][佛罗里达州](../Page/佛罗里达州.md "wikilink")[坦帕一个](https://zh.wikipedia.org/wiki/坦帕_\(佛罗里达州\) "wikilink")[智库的创始人收到了一份](https://zh.wikipedia.org/wiki/智库 "wikilink")42页的账单后告诉记者：“这也太扯了。”\[52\][俄亥俄州](../Page/俄亥俄州.md "wikilink")[渥太华县的一位教师收到了](https://zh.wikipedia.org/wiki/渥太华县_\(俄亥俄州\) "wikilink")52页的账单，称这是“我这辈子所拿到最大的电话账单”\[53\]。一家[麦金塔电脑咨询公司的合伙人称自己的账单是](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")“60页的虚无”\[54\]。[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")的一位业务顾问收到一份62页的账单后询问记者：“为什么你要送出一份这么大的账单呢？”\[55\][华盛顿州](../Page/华盛顿州.md "wikilink")[西雅图附近一家软件公司的老板拍下了自己](https://zh.wikipedia.org/wiki/西雅图 "wikilink")127页账单的照片，他将账单铺在地板上，上面还坐了一条[马尔济斯](https://zh.wikipedia.org/wiki/马尔济斯 "wikilink")，之后还将这张照片发布到了博客上\[56\]\[57\]并且问道：“有没有哪位苹果环保小组成员见过一份AT\&T账单？”\[58\]一位专栏作家在文章中写道，自己的妻子收到了一份150页的盒装iPhone账单，他对此评论道：“好吧，为这第一个月的账单他们到底杀死了多少棵树？”\[59\]
 
 ### 环保
 
-[硅谷的一位科技分析师呼应了艾扎里克的](../Page/硅谷.md "wikilink")[环保主义理念](https://zh.wikipedia.org/wiki/环保主义 "wikilink")，他说：“AT\&T应该有个新口号——选择AT\&T，您就杀死了一棵树。”\[60\]《今日美国》的报道使用了这样的标题：《你的iPhone账单杀害了多少棵树？》\[61\]。据博客写手穆罕默德·萨林姆所说，苹果的目标是在2008年末让iPhone用户达到1000万，如果每人每月的账单是100页，那么每年就需要砍掉74535棵树\[62\]\[63\]\[64\]。[俄亥俄州](../Page/俄亥俄州.md "wikilink")[托莱多的一份独立报纸The](../Page/托莱多_\(俄亥俄州\).md "wikilink")
+[硅谷](../Page/硅谷.md "wikilink")的一位科技分析师呼应了艾扎里克的[环保主义理念](https://zh.wikipedia.org/wiki/环保主义 "wikilink")，他说：“AT\&T应该有个新口号——选择AT\&T，您就杀死了一棵树。”\[60\]《今日美国》的报道使用了这样的标题：《你的iPhone账单杀害了多少棵树？》\[61\]。据博客写手穆罕默德·萨林姆所说，苹果的目标是在2008年末让iPhone用户达到1000万，如果每人每月的账单是100页，那么每年就需要砍掉74535棵树\[62\]\[63\]\[64\]。[俄亥俄州](../Page/俄亥俄州.md "wikilink")[托莱多的一份独立报纸The](../Page/托莱多_\(俄亥俄州\).md "wikilink")
 Blade的社论中称这种详细的账单“荒谬并对环境造成浪费”\[65\]。
 
 ### 安全
 
-发表在[消费电子产品博客](https://zh.wikipedia.org/wiki/消费电子产品 "wikilink")[Engadget上的一份安全意识评议认为要解决超长账单带来的隐私问题](../Page/Engadget.md "wikilink")，个人[碎纸机已经存在局限性](https://zh.wikipedia.org/wiki/碎纸机 "wikilink")，或许要保护账单中个人信息免受泄露的一个更实用的办法是将其付之一炬\[66\]。[自由意志主义月刊](https://zh.wikipedia.org/wiki/自由意志主义 "wikilink")《[理智](https://zh.wikipedia.org/wiki/理智_\(雜誌\) "wikilink")》的一位编辑同样推测了这些详细信息在政府调查中的实用性\[67\]。不过最初的Ars
+发表在[消费电子产品博客](https://zh.wikipedia.org/wiki/消费电子产品 "wikilink")[Engadget](../Page/Engadget.md "wikilink")上的一份安全意识评议认为要解决超长账单带来的隐私问题，个人[碎纸机已经存在局限性](https://zh.wikipedia.org/wiki/碎纸机 "wikilink")，或许要保护账单中个人信息免受泄露的一个更实用的办法是将其付之一炬\[66\]。[自由意志主义月刊](https://zh.wikipedia.org/wiki/自由意志主义 "wikilink")《[理智](https://zh.wikipedia.org/wiki/理智_\(雜誌\) "wikilink")》的一位编辑同样推测了这些详细信息在政府调查中的实用性\[67\]。不过最初的Ars
 Technica网站博客上则认为这种对隐私权的担忧纯粹是无稽之谈，表示这些账单的详细信息页面上并不包含任何敏感信息\[68\]。
 
 ## 参考资料

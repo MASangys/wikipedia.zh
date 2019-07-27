@@ -1,4 +1,4 @@
-**WH·史密斯文学奖**（）1959年建立于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")，建立者是[WH·史密斯公司](https://zh.wikipedia.org/wiki/WH·史密斯公司 "wikilink")，基本上为[英语写作的得奖者](../Page/英语.md "wikilink")，目前为止只有3个美国籍的得奖者。\[1\]
+**WH·史密斯文学奖**（）1959年建立于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")，建立者是[WH·史密斯公司](https://zh.wikipedia.org/wiki/WH·史密斯公司 "wikilink")，基本上为[英语](../Page/英语.md "wikilink")写作的得奖者，目前为止只有3个美国籍的得奖者。\[1\]
 
 ## 历届得奖者
 

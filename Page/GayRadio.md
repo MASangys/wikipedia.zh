@@ -1,5 +1,5 @@
 **Gay Radio Hong
-Kong**（簡稱GR，原網址為www.gayradio.hk），是活躍於2006至2012年間的[香港](../Page/香港.md "wikilink")[網路電台之一](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，以[廣東話製作一系列](https://zh.wikipedia.org/wiki/廣東話 "wikilink")[同志相關題材的](https://zh.wikipedia.org/wiki/同志 "wikilink")[清談節目](../Page/清談.md "wikilink")、人物專訪和[播音劇等](../Page/廣播劇.md "wikilink")。2008年增設網劇，以及英語訪談節目。2009年初[收聽率一度高達到每月](https://zh.wikipedia.org/wiki/收聽率 "wikilink")6萬人次，成為當時最受歡迎的香港同志電台。\[1\]\[2\]\[3\]
+Kong**（簡稱GR，原網址為www.gayradio.hk），是活躍於2006至2012年間的[香港](../Page/香港.md "wikilink")[網路電台之一](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，以[廣東話製作一系列](https://zh.wikipedia.org/wiki/廣東話 "wikilink")[同志相關題材的](https://zh.wikipedia.org/wiki/同志 "wikilink")[清談](../Page/清談.md "wikilink")節目、人物專訪和[播音劇等](../Page/廣播劇.md "wikilink")。2008年增設網劇，以及英語訪談節目。2009年初[收聽率一度高達到每月](https://zh.wikipedia.org/wiki/收聽率 "wikilink")6萬人次，成為當時最受歡迎的香港同志電台。\[1\]\[2\]\[3\]
 
 ## 起點網播：2003-2004
 
@@ -10,7 +10,7 @@ Platform**，簡稱「起點」，原網址為www.netcast-platform.org），由�
 Channel](https://zh.wikipedia.org/wiki/香港同志電台 "wikilink")」**主持寵物節目《貓朋狗友》，為期數月，最終因工作繁重難以兼顧而請辭。適逢另一創辦人Roadster提出摒棄串流實時播放，改用更靈活的製作及播放方式，建立新的平台，經過四位創辦人的共同商討，最終在2004年5月成立了本地第一個以On
 Demand方式運作的網台「起點」。
 
-「起點」首播日期是2004年7月20日，當時共提供四個節目，錄製地點多為各主持或受訪對象家中。節目製作由記者甲統籌，Roadster負責架設[網路及](https://zh.wikipedia.org/wiki/網路 "wikilink")[錄音器材](https://zh.wikipedia.org/wiki/錄音 "wikilink")，浪人落雁及犬飼哲也負責文宣及節目創作。為配合首播宣傳，「起點」特別向聽眾送出由台灣演員[楊祐寧親筆簽名的同志電影](../Page/楊祐寧.md "wikilink")《[十七歲的天空](../Page/十七歲的天空.md "wikilink")》明信片作為開台禮物。
+「起點」首播日期是2004年7月20日，當時共提供四個節目，錄製地點多為各主持或受訪對象家中。節目製作由記者甲統籌，Roadster負責架設[網路及](https://zh.wikipedia.org/wiki/網路 "wikilink")[錄音器材](https://zh.wikipedia.org/wiki/錄音 "wikilink")，浪人落雁及犬飼哲也負責文宣及節目創作。為配合首播宣傳，「起點」特別向聽眾送出由台灣演員[楊祐寧](../Page/楊祐寧.md "wikilink")親筆簽名的同志電影《[十七歲的天空](../Page/十七歲的天空.md "wikilink")》明信片作為開台禮物。
 
 ## 立足同志社群：2004-2005
 
@@ -27,7 +27,7 @@ Republic](https://zh.wikipedia.org/wiki/Radio_Republic "wikilink")」**開播，
 因「起點網播」的創立和成長與網上同志社群息息相關，不少新節目亦以同志生活為主題。網台內部曾就同志題材節目比例增加作出討論。「起點」於2005年中開設了新域名，透過設立**Gay
 Radio**主頁，更有系統地突出同志節目，服務同志社群。
 
-[2005年](https://zh.wikipedia.org/wiki/香港LGBT權益歷史年表#2005.E5.B9.B4 "wikilink")，香港社會各界就**[性傾向歧視條例](../Page/性傾向歧視條例.md "wikilink")**應否立法進行激烈討論，「起點」主動收集各界的立場文章設立專頁，並發起收集各界聲音簽名支持立法的活動，獲部分爭取[同志權益者的支持和響應](../Page/香港LGBT權益.md "wikilink")，一度與同志平權運動走得較近。惟因「起點」各成員大多未有[出櫃的準備](../Page/出櫃.md "wikilink")，與同運人士的期望有所落差，雙方並未進一步合作。
+[2005年](https://zh.wikipedia.org/wiki/香港LGBT權益歷史年表#2005.E5.B9.B4 "wikilink")，香港社會各界就**[性傾向歧視條例](../Page/性傾向歧視條例.md "wikilink")**應否立法進行激烈討論，「起點」主動收集各界的立場文章設立專頁，並發起收集各界聲音簽名支持立法的活動，獲部分爭取[同志權益者的支持和響應](../Page/香港LGBT權益.md "wikilink")，一度與同志平權運動走得較近。惟因「起點」各成員大多未有[出櫃](../Page/出櫃.md "wikilink")的準備，與同運人士的期望有所落差，雙方並未進一步合作。
 
 ## 正名Gay Radio：2006-2008
 
@@ -45,12 +45,12 @@ Radio並未有任何全職員工或義工，各成員只在工餘或課餘時間
 
 2005年底，「起點」開始籌備製作網路廣播劇。首個劇目**《[只能曖昧的暗戀](https://zh.wikipedia.org/wiki/只能曖昧的暗戀 "wikilink")》**是「全台同志暗戀徵文比賽」冠軍作品，該比賽由「起點」與台灣[雷公電影公司合辦](https://zh.wikipedia.org/wiki/雷公電影公司 "wikilink")，是記者甲將其[網路小說](https://zh.wikipedia.org/wiki/網路小說 "wikilink")《起點‧終點》出版成書的相應宣傳計劃之一。\[4\]2006年初，因缺乏適合的演藝人員參與錄音，「起點」特別進行了選角行動，吸引近40人參與。
 
-以同志單戀直男為故事主軸，《只能曖昧的暗戀》首播後獲得相當正面的反應，不但在網上同志論壇中引起討論及共鳴，更吸引了本地另一同志作家[葉志偉的注意](../Page/葉志偉.md "wikilink")，而與「起點」合作將其同志小說**《[突然獨身](https://zh.wikipedia.org/wiki/突然獨身 "wikilink")》**聲音化。《突然獨身》同樣在錄音以前舉行了選角行動，吸引了100人參加面試，需時兩日才完成所有程序。兩次選角行動有助「起點」組成基本的廣播劇組班底，當中更有專業舞台劇及電視演員參與。
+以同志單戀直男為故事主軸，《只能曖昧的暗戀》首播後獲得相當正面的反應，不但在網上同志論壇中引起討論及共鳴，更吸引了本地另一同志作家[葉志偉](../Page/葉志偉.md "wikilink")的注意，而與「起點」合作將其同志小說**《[突然獨身](https://zh.wikipedia.org/wiki/突然獨身 "wikilink")》**聲音化。《突然獨身》同樣在錄音以前舉行了選角行動，吸引了100人參加面試，需時兩日才完成所有程序。兩次選角行動有助「起點」組成基本的廣播劇組班底，當中更有專業舞台劇及電視演員參與。
 
 ## 邁向專業化：2008-2009
 
 2008年7月，Gay
-Radio正式於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[河畔花園設立專用辦公室](../Page/河畔花園.md "wikilink")，結束小型家居製作的營運模式。超過1300呎的辦公及製作場地，讓Gay
+Radio正式於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[河畔花園](../Page/河畔花園.md "wikilink")設立專用辦公室，結束小型家居製作的營運模式。超過1300呎的辦公及製作場地，讓Gay
 Radio在錄音節目以外，有機會推出[影像節目](https://zh.wikipedia.org/wiki/影像 "wikilink")，如《1069美麗魔法》及《Fit爆你》等。隨著電台擁有對外界開放的便利，節目主持邀請的嘉賓亦由個人友好，擴展至不同階層，包括同志組織人士、文化藝術工作者、外籍人士以及聽眾等，增加節目創作的空間；製作班底亦加入了更多年青人，節目種類更具大膽創意，例如專題探討色情影片的《巨根．格．鬥場》；電台亦提供了讓製作人交流及討論節目的空間，又引入具專業電台及電視背景的友好加入參與製作及教育新人。人事方面，電台管理層期間曾舉辦數次大型內部聚會，希望加強成員歸屬感；隨著電台初見規模，節目製作及播放制度也漸次成型，同時也確立電台與主持之間較為認真的關係。
 
 隨著多個網路廣播劇的成功，Gay
@@ -59,33 +59,33 @@ Radio亦開始探索攝製影像劇集的可能，並在**[香港愛滋病基金
 ## 人事矛盾及調動：2009-2010
 
 Gay
-Radio廣播劇實驗小組以訓練自家廣播及演藝人員為目的而成立，小組曾成功錄製7集單元劇，部分組員亦兼任其他節目主持。可惜小組在2009年中因內部人事問題而解散，導致錄製中的廣播劇胎死腹中，更波及多個由小組成員主持的節目如《快樂零聲》等，嚴重打擊Gay
+Radio廣播劇實驗小組以訓練自家廣播及演藝人員為目的而成立，小組曾成功錄製7集單元劇，部分組員亦兼任其他節目主持。可惜小組在2009年與高層意見不合而被迫解散，導致錄製中的廣播劇胎死腹中，更波及多個由小組成員主持的節目如《快樂零聲》等，嚴重打擊Gay
 Radio台前幕後的士氣。
 
 繼續熱播的網劇**《我和他的99天》**為Gay Radio帶來了新的觀眾和聽眾，更在半年內吸引到逾300名有意嘗試網路廣播的人向Gay
 Radio自薦。不少獲錄用的新主持參與了由多個環節組織的生活資訊節目《G
-Mag》。回應網路上快速崛起的[腐女群體](../Page/腐女.md "wikilink")，Gay
+Mag》。回應網路上快速崛起的[腐女](../Page/腐女.md "wikilink")群體，Gay
 Radio特別設立新節目《BL腐啦嘩》，討論[BL文化](https://zh.wikipedia.org/wiki/BL "wikilink")、腐女及同志都感興趣的話題。同期亦推出針對校園同志群體而設的新節目《GR學園》，反應空前，於半年內成功招募了100名「GR學生會」會員，並於2010年2月舉行了首個聽眾活動，約30多人參加。
 
 2009年4月19日，Gay Radio推出加強互動元素的新版本網站，行政總監Roadster同時成為第一位全職投入Gay
 Radio的成員，專責市務及銷售發展，探尋能夠令Gay
-Radio收支平衡的營運模式，例如在網站增設[網上商店](https://zh.wikipedia.org/wiki/網上商店 "wikilink")，售賣[HIV測試套裝](https://zh.wikipedia.org/wiki/HIV "wikilink")、各類小說、[攝影集和電影](https://zh.wikipedia.org/wiki/寫真集 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，包括[雲翔的](../Page/雲翔.md "wikilink")《[永久居留](../Page/永久居留.md "wikilink")》影集等。
+Radio收支平衡的營運模式，例如在網站增設[網上商店](https://zh.wikipedia.org/wiki/網上商店 "wikilink")，售賣[HIV測試套裝](https://zh.wikipedia.org/wiki/HIV "wikilink")、各類小說、[攝影集和電影](https://zh.wikipedia.org/wiki/寫真集 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，包括[雲翔](../Page/雲翔.md "wikilink")的《[永久居留](../Page/永久居留.md "wikilink")》影集等。
 
-2009年中，時任[立法會議員](https://zh.wikipedia.org/wiki/立法會議員 "wikilink")[黃成智以及與其關係密切的教會組織](../Page/黃成智.md "wikilink")[指責《基場超新星》節目內容鼓吹同性戀](https://zh.wikipedia.org/wiki/黃成智#.E6.89.B9.E8.A9.95.E7.94.B7.E5.90.8C.E6.80.A7.E6.88.80.E5.9C.98.E9.AB.94 "wikilink")，迫使資助方香港小童群益會因顧忌而中止新一屆合作計劃，\[8\]\[9\]\[10\]令亟需額外資金紓援營運開支的Gay
+2009年中，時任[立法會議員](https://zh.wikipedia.org/wiki/立法會議員 "wikilink")[黃成智](../Page/黃成智.md "wikilink")以及與其關係密切的教會組織[指責《基場超新星》節目內容鼓吹同性戀](https://zh.wikipedia.org/wiki/黃成智#.E6.89.B9.E8.A9.95.E7.94.B7.E5.90.8C.E6.80.A7.E6.88.80.E5.9C.98.E9.AB.94 "wikilink")，迫使資助方香港小童群益會因顧忌而中止新一屆合作計劃，\[8\]\[9\]\[10\]令亟需額外資金紓援營運開支的Gay
 Radio財政壓力大增。2009年9月，Gay Radio因欠租導致辦公室一度遭查封。
 
 ## 尾聲：2010-2012
 
 面對沉重財政壓力，Gay
-Radio管理層決定在辦公室租約屆滿後不再續租，搬到位於[旺角的臨時辦公室繼續營運](../Page/旺角.md "wikilink")。2010年7月，管理層首次向台前幕後披露Gay
-Radio的財政危機，向公眾尋求資金支持，並發起「畀個五我捐款運動」，邀得歌手[周柏豪及演員](../Page/周柏豪.md "wikilink")[楊淇參與拍攝宣傳片](https://zh.wikipedia.org/wiki/楊淇 "wikilink")\[11\]。2010年9月，Gay
+Radio管理層決定在辦公室租約屆滿後不再續租，搬到位於[旺角](../Page/旺角.md "wikilink")的臨時辦公室繼續營運。2010年7月，管理層首次向台前幕後披露Gay
+Radio的財政危機，向公眾尋求資金支持，並發起「畀個五我捐款運動」，邀得歌手[周柏豪](../Page/周柏豪.md "wikilink")及演員[楊淇參與拍攝宣傳片](https://zh.wikipedia.org/wiki/楊淇 "wikilink")\[11\]。2010年9月，Gay
 Radio成功舉辦「拾扑會」籌款晚會，在聽眾的踴躍捐助下（有一聽眾捐款達5000港元）籌得足夠資金，於10月搬往[新浦崗](https://zh.wikipedia.org/wiki/新浦崗 "wikilink")[工業大廈單位延續製作](https://zh.wikipedia.org/wiki/工業大廈 "wikilink")。
 
 多位主持人曾因意見不合等原因先後於短期內離開，10月遷台前夕只餘《GR學園》、《姊妹同志口水房》等幾個主要節目。期間雖仍有新血願意加入主持節目，可惜磨合並不順利，能成功發展成節目的企劃甚少。重組的廣播劇小組終在搬到新台址後啟動製作，並於2011年3月播出《愛情混醬》的四集單元劇目。包括行政總監Roadster、節目總監記者甲、戲劇總監Danny等管理層成員於2011年5月接受《[新Monday](../Page/新Monday.md "wikilink")》雜誌訪問。
 
 2011年8月，節目總監記者甲在Gay Radio網站發出公開聲明，指跟管理層就Gay
 Radio的財政問題出現「不可妥協的分歧」，宣布即時離開管理崗位，並指離開是「極為沉痛但無法避免的決定」。\[12\]Gay
-Radio在行政總監Roadster的領導下，同年9月再遷至友好人士位於[炮台山的辦公室寄居](../Page/炮台山.md "wikilink")。\[13\]\[14\]
+Radio在行政總監Roadster的領導下，同年9月再遷至友好人士位於[炮台山](../Page/炮台山.md "wikilink")的辦公室寄居。\[13\]\[14\]
 
 2012年3月，聽眾發現無法進入Gay Radio網站，Gay Radio至此走入歷史。
 

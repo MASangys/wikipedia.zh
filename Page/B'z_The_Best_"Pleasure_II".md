@@ -1,5 +1,5 @@
 《**B'z The Best "Pleasure
-II"**》是日本摇滚乐团[B'z于](../Page/B'z.md "wikilink")2005年11月30日发行的第三张精选辑。《[B'z
+II"**》是日本摇滚乐团[B'z](../Page/B'z.md "wikilink")于2005年11月30日发行的第三张精选辑。《[B'z
 The Best
 "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")》的续编。因封面為紅色，所以通稱為紅盤，至目前為止，為B'z所有作品中最後一張突破百萬的唱片。
 

@@ -1,10 +1,10 @@
-**HOME**是[香港一支獨立樂隊](../Page/香港.md "wikilink")，成立於2009年11月。現任成員包括：Frederick
+**HOME**是[香港](../Page/香港.md "wikilink")一支獨立樂隊，成立於2009年11月。現任成員包括：Frederick
 Cheng([鄭俊弘](../Page/鄭俊弘.md "wikilink"))\[1\]\[2\]\[3\]。、Sam
 Shum(沈國榮)、Sunny Ku(辜明毅)及Tommy Sung(宋亦霖)
 
 ## 組成
 
-結他手Sam和主音Frederick看了日本樂隊[Mr.Children的](../Page/Mr.Children.md "wikilink")《Mr.Children
+結他手Sam和主音Frederick看了日本樂隊[Mr.Children](../Page/Mr.Children.md "wikilink")的《Mr.Children
 "HOME" TOUR
 2007》DVD後深受感動，於是決定組成樂隊HOME創作音樂。樂隊成員深受不同類型的音樂影響，熱愛創作，希望透過音樂分享生活，激勵同樣熱愛音樂的人。
 

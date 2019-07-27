@@ -1,11 +1,11 @@
 **LGM-30義勇兵洲際彈道飛彈**（**LGM-30
-Minuteman**）是[美国的一种陆基](../Page/美国.md "wikilink")[洲际弹道导弹](https://zh.wikipedia.org/wiki/洲际弹道导弹 "wikilink")
-(ICBM)，隶属[美国空军全球打击司令部](../Page/美国空军全球打击司令部.md "wikilink")，主要被设计来投送[核弹头](https://zh.wikipedia.org/wiki/核弹头 "wikilink")。它的名称来源于[美国独立战争时期的](https://zh.wikipedia.org/wiki/美国独立战争 "wikilink")[義勇兵](../Page/分鐘人.md "wikilink")。在2005年[LGM-118A和平守護者飛彈退役後](../Page/LGM-118A和平守護者飛彈.md "wikilink")，美國現役的陸基洲際彈道飛彈就只剩LGM-30G義勇兵三型（LGM-30G
-Minuteman-III）。它也是美国[核三位一体攻擊戰力的陸基打擊環節](../Page/核三位一体.md "wikilink")。
+Minuteman**）是[美国](../Page/美国.md "wikilink")的一种陆基[洲际弹道导弹](https://zh.wikipedia.org/wiki/洲际弹道导弹 "wikilink")
+(ICBM)，隶属[美国空军全球打击司令部](../Page/美国空军全球打击司令部.md "wikilink")，主要被设计来投送[核弹头](https://zh.wikipedia.org/wiki/核弹头 "wikilink")。它的名称来源于[美国独立战争时期的](https://zh.wikipedia.org/wiki/美国独立战争 "wikilink")[義勇兵](../Page/分鐘人.md "wikilink")。在2005年[LGM-118A和平守護者飛彈](../Page/LGM-118A和平守護者飛彈.md "wikilink")退役後，美國現役的陸基洲際彈道飛彈就只剩LGM-30G義勇兵三型（LGM-30G
+Minuteman-III）。它也是美国[核三位一体](../Page/核三位一体.md "wikilink")攻擊戰力的陸基打擊環節。
 
 LGM中的“L”代表“[发射井发射](https://zh.wikipedia.org/wiki/发射井 "wikilink")”，“G”代表“打击地面目标”，“M”代表“[导弹](../Page/导弹.md "wikilink")”\[1\]。
 
-美国空军现在大约有450枚该型号导弹\[2\]，分别保存在[蒙大拿州马姆斯特罗姆空军基地](../Page/蒙大拿州.md "wikilink")、[北达科他州米诺特空军基地和](../Page/北达科他州.md "wikilink")[怀俄明州F](../Page/怀俄明州.md "wikilink").E.沃伦空军基地。\[3\]
+美国空军现在大约有450枚该型号导弹\[2\]，分别保存在[蒙大拿州](../Page/蒙大拿州.md "wikilink")马姆斯特罗姆空军基地、[北达科他州](../Page/北达科他州.md "wikilink")米诺特空军基地和[怀俄明州](../Page/怀俄明州.md "wikilink")F.E.沃伦空军基地。\[3\]
 
 ## 型号及研发历程
 

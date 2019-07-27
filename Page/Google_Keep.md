@@ -1,5 +1,5 @@
 **Google
-Keep**是一款由[Google公司于](https://zh.wikipedia.org/wiki/Google公司 "wikilink")2013年3月20日发布的[互联网](../Page/互联网.md "wikilink")[笔记服务](../Page/笔记.md "wikilink")，同时拥有针对[Android操作系统的移动](../Page/Android.md "wikilink")[应用程序和面向](../Page/应用程序.md "wikilink")[桌面端的](https://zh.wikipedia.org/wiki/桌面 "wikilink")[网络应用](https://zh.wikipedia.org/wiki/网络应用 "wikilink")（基于[Google雲-{}-端硬碟](../Page/Google雲端硬碟.md "wikilink")）。\[1\]\[2\]
+Keep**是一款由[Google公司于](https://zh.wikipedia.org/wiki/Google公司 "wikilink")2013年3月20日发布的[互联网](../Page/互联网.md "wikilink")[笔记](../Page/笔记.md "wikilink")服务，同时拥有针对[Android](../Page/Android.md "wikilink")操作系统的移动[应用程序](../Page/应用程序.md "wikilink")和面向[桌面端的](https://zh.wikipedia.org/wiki/桌面 "wikilink")[网络应用](https://zh.wikipedia.org/wiki/网络应用 "wikilink")（基于[Google雲-{}-端硬碟](../Page/Google雲端硬碟.md "wikilink")）。\[1\]\[2\]
 
 ## 产品细节
 
@@ -31,7 +31,7 @@ docs继续编辑，用户可以利用零碎时间撰写草稿，事后再统一�
 针对[Chrome浏览器与](../Page/Google_Chrome.md "wikilink")[Chrome
 OS的Google](../Page/Chrome_OS.md "wikilink")
 Keep应用是Google最早提供的集成应用之一。该应用可以在离线状态下新建、编辑并删除笔记，同时也有着诸如添加图像之类的额外功能。\[5\]Chrome中的Google
-Keep应用除了兼容[Windows与](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac之外](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，也同样可以在[Linux上运行](../Page/Linux.md "wikilink")，尽管Linux并没有Google
+Keep应用除了兼容[Windows与](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac之外](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，也同样可以在[Linux](../Page/Linux.md "wikilink")上运行，尽管Linux并没有Google
 Drive的原生应用。
 
 ## 参见

@@ -1,4 +1,4 @@
-**JavaBeans**是[Java中一种特殊的](../Page/Java.md "wikilink")[类](../Page/类_\(计算机科学\).md "wikilink")，可以将多个[对象封装到一个对象](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")（bean）中。特点是可[序列化](../Page/序列化.md "wikilink")，提供，提供访问对象的属性。名称中的“Bean”是用于Java的可重用软件组件的惯用叫法。
+**JavaBeans**是[Java](../Page/Java.md "wikilink")中一种特殊的[类](../Page/类_\(计算机科学\).md "wikilink")，可以将多个[对象封装到一个对象](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")（bean）中。特点是可[序列化](../Page/序列化.md "wikilink")，提供，提供访问对象的属性。名称中的“Bean”是用于Java的可重用软件组件的惯用叫法。
 
 ## 优点
 

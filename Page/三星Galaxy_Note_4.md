@@ -1,5 +1,5 @@
 **Samsung Galaxy Note
-4**是[三星電子於](../Page/三星電子.md "wikilink")2014年9月3日推出的搭載[安卓作業系統的旗艦](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智能](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")，配有5.7英寸1440×2560（515ppi）分辨率的Quad-HD
+4**是[三星電子](../Page/三星電子.md "wikilink")於2014年9月3日推出的搭載[安卓作業系統的旗艦](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智能](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")，配有5.7英寸1440×2560（515ppi）分辨率的Quad-HD
 [Super
 AMOLED屏幕](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")，[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")805
 2.7GHz四核心處理器（部分地區是三星[Exynos雙四核處理器](https://zh.wikipedia.org/wiki/Exynos "wikilink")，配[時脈速度](../Page/时钟频率.md "wikilink")1.9GHz和1.3GHz）、3GB
@@ -35,8 +35,8 @@ AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")
   - 年度最佳[智能手机](../Page/智能手机.md "wikilink")
   - 年度最佳手机[摄像镜头](../Page/照相手機.md "wikilink")
   - 年度最备受瞩目的[智能手机](../Page/智能手机.md "wikilink")
-  - [中华民国第三季旗舰级](https://zh.wikipedia.org/wiki/中华民国 "wikilink")[智能手机销量冠军](../Page/智能手机.md "wikilink")
-  - [中华民国第四季旗舰级](https://zh.wikipedia.org/wiki/中华民国 "wikilink")[智能手机销量no](../Page/智能手机.md "wikilink").1
+  - [中华民国第三季旗舰级](https://zh.wikipedia.org/wiki/中华民国 "wikilink")[智能手机](../Page/智能手机.md "wikilink")销量冠军
+  - [中华民国第四季旗舰级](https://zh.wikipedia.org/wiki/中华民国 "wikilink")[智能手机](../Page/智能手机.md "wikilink")销量no.1
 
 ## 意外事故
 

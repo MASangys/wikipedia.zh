@@ -1,5 +1,5 @@
 《**COMPLETE SET Limited
-Box**》為[東方神起於](../Page/東方神起.md "wikilink")2010年6月30日在[日本發行的第二張](../Page/日本.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。此张精选辑分为《COMPLETE
+Box**》為[東方神起](../Page/東方神起.md "wikilink")於2010年6月30日在[日本](../Page/日本.md "wikilink")發行的第二張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。此张精选辑分为《COMPLETE
 - SINGLE A-SIDE COLLECTION -》和《SINGLE B-SIDE COLLECTION》两部分。
 
 ## COMPLETE - SINGLE A-SIDE COLLECTION -

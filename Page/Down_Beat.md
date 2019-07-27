@@ -1,5 +1,5 @@
 ***Down
-Beat***是一個致力於「[爵士](../Page/爵士.md "wikilink")、[藍調和超越](../Page/藍調.md "wikilink")」（jazz,
+Beat***是一個致力於「[爵士](../Page/爵士.md "wikilink")、[藍調](../Page/藍調.md "wikilink")和超越」（jazz,
 blues and
 beyond）的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，最後一個單詞beyond表示其擴張、「超越」其前一年所獨家報導的爵士領域。該雜誌於1934年誕生於[伊利諾伊州](https://zh.wikipedia.org/wiki/伊利諾伊州 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")，它以樂曲中第一個節拍（downbeat）命名。
 

@@ -1,7 +1,7 @@
 是由[Paradox Development
 Studio开发](../Page/Paradox_Development_Studio.md "wikilink")，[Paradox
 Interactive发行的一款以](../Page/Paradox_Interactive.md "wikilink")[中世纪中期至](https://zh.wikipedia.org/wiki/中世纪中期 "wikilink")[后期为背景的大型](https://zh.wikipedia.org/wiki/中世纪后期 "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是《[十字军之王](../Page/十字军之王.md "wikilink")》的续作。这款游戏的[Windows版本在](https://zh.wikipedia.org/wiki/Windows "wikilink")2012年2月14日发布，[OS
-X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，而[Linux版本于](../Page/Linux.md "wikilink")2013年1月14日发布\[1\]。
+X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，而[Linux](../Page/Linux.md "wikilink")版本于2013年1月14日发布\[1\]。
 《十字军之王II》销量逾一百万份，是《[欧陆风云IV](https://zh.wikipedia.org/wiki/欧陆风云IV "wikilink")》发行前Paradox最为畅销的游戏\[2\]。
 
 ## 游戏性
@@ -16,13 +16,13 @@ X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，�
 
 2012年2月4日，一个有四个可选人物，时间跨度为20年的游戏demo发布\[5\]，游戏的营销视频是以[七宗罪为概念的几段喜剧短片](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")。\[6\]
 
-其后，《十字军之王II》总体上收到了积极的评价，[Metacritic网站给出了](../Page/Metacritic.md "wikilink")82分\[7\]；The
+其后，《十字军之王II》总体上收到了积极的评价，[Metacritic](../Page/Metacritic.md "wikilink")网站给出了82分\[7\]；The
 Digital
-Fix则称，游戏体验令人惊叹，有身临其境的感觉，并对底层的游戏机制留下了深刻的印象\[8\]；[GameSpot的游戏评论员肖恩](../Page/GameSpot.md "wikilink")·麦金尼斯对游戏性进行了称赞\[9\]；[IGN给予](../Page/IGN.md "wikilink")《十字军之王II》游戏性“持久的吸引力”以9分（满分为10分），画面评分则为5分\[10\]。
+Fix则称，游戏体验令人惊叹，有身临其境的感觉，并对底层的游戏机制留下了深刻的印象\[8\]；[GameSpot](../Page/GameSpot.md "wikilink")的游戏评论员肖恩·麦金尼斯对游戏性进行了称赞\[9\]；[IGN](../Page/IGN.md "wikilink")给予《十字军之王II》游戏性“持久的吸引力”以9分（满分为10分），画面评分则为5分\[10\]。
 
 ## DLC
 
-《十字军之王II》可通过[Steam或游戏内连接](../Page/Steam.md "wikilink")的方法来升级及下载已发布的[追加下載內容](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")，以获取新的游戏特性。
+《十字军之王II》可通过[Steam](../Page/Steam.md "wikilink")或游戏内连接的方法来升级及下载已发布的[追加下載內容](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")，以获取新的游戏特性。
 
 DLC包括下列內容：\[11\]\[12\]
 
@@ -76,7 +76,7 @@ DLC包括下列內容：\[11\]\[12\]
 <tr class="even">
 <td><p>Legacy of Rome 羅馬遺產</p></td>
 <td><p>2012年10月16日[14]</p></td>
-<td><p>為<a href="../Page/拜占庭帝国.md" title="wikilink">拜占庭帝國設計獨有的玩法</a>，<a href="https://zh.wikipedia.org/wiki/拜占庭皇帝列表" title="wikilink">拜占庭皇帝將能藉由收復失土來復興</a><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國以及彌補宗教分裂</a>：將<a href="../Page/天主教.md" title="wikilink">天主教及</a><a href="../Page/正教會.md" title="wikilink">東正教統合為</a><a href="../Page/基督教.md" title="wikilink">同一宗教</a>。</p></td>
+<td><p>為<a href="../Page/拜占庭帝国.md" title="wikilink">拜占庭帝國設計獨有的玩法</a>，<a href="https://zh.wikipedia.org/wiki/拜占庭皇帝列表" title="wikilink">拜占庭皇帝將能藉由收復失土來復興</a><a href="../Page/羅馬帝國.md" title="wikilink">羅馬帝國</a>以及彌補宗教分裂：將<a href="../Page/天主教.md" title="wikilink">天主教</a>及<a href="../Page/正教會.md" title="wikilink">東正教統合為</a><a href="../Page/基督教.md" title="wikilink">同一宗教</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Sunset Invasion 日落入侵</p></td>
@@ -93,9 +93,9 @@ DLC包括下列內容：\[11\]\[12\]
 <tr class="odd">
 <td><p>The Old Gods 遠古諸神</p></td>
 <td><p>2013年5月28日[18]</p></td>
-<td><p>允許玩家扮演信仰<a href="../Page/原始宗教.md" title="wikilink">原始宗教以及</a><a href="../Page/琐罗亚斯德教.md" title="wikilink">祆教的角色</a>，並將原始宗教重新設計為<a href="../Page/北欧神话.md" title="wikilink">日耳曼多神教</a>、<a href="../Page/腾格里.md" title="wikilink">長生天</a>、<a href="../Page/斯拉夫神話.md" title="wikilink">斯拉夫多神教</a>…等各具特色的不同宗教。</p>
+<td><p>允許玩家扮演信仰<a href="../Page/原始宗教.md" title="wikilink">原始宗教</a>以及<a href="../Page/琐罗亚斯德教.md" title="wikilink">祆教的角色</a>，並將原始宗教重新設計為<a href="../Page/北欧神话.md" title="wikilink">日耳曼多神教</a>、<a href="../Page/腾格里.md" title="wikilink">長生天</a>、<a href="../Page/斯拉夫神話.md" title="wikilink">斯拉夫多神教</a>…等各具特色的不同宗教。</p>
 <p>原始信仰諸國在開局時處於未開化的部落狀態，在初期以快攻擴張國力、改革原始宗教並將國家改革為封建制度或共和制度以在後期與先進國家抗衡。<br />
-同時此資料片解鎖<strong>867年劇本</strong>，此時信仰日耳曼多神教的<a href="../Page/維京人.md" title="wikilink">維京大軍正在</a><a href="https://zh.wikipedia.org/wiki/異教徒大軍" title="wikilink">入侵英格蘭</a>，祆教國家在中亞一息尚存，<a href="../Page/薩法爾王朝.md" title="wikilink">薩法爾王朝於</a><a href="../Page/伊朗高原.md" title="wikilink">伊朗崛起</a>，<a href="../Page/留里克王朝.md" title="wikilink">留里克家族在</a><a href="https://zh.wikipedia.org/wiki/东欧平原" title="wikilink">俄羅斯立國</a>，<a href="../Page/法兰克王国.md" title="wikilink">查理曼帝國被諸子瓜分</a>，拜占庭帝國在<a href="../Page/巴西尔一世.md" title="wikilink">巴西爾一世統治下力圖中興</a>，新劇本將帶給玩家不同的國際局勢及體驗。</p></td>
+同時此資料片解鎖<strong>867年劇本</strong>，此時信仰日耳曼多神教的<a href="../Page/維京人.md" title="wikilink">維京大軍正在</a><a href="https://zh.wikipedia.org/wiki/異教徒大軍" title="wikilink">入侵英格蘭</a>，祆教國家在中亞一息尚存，<a href="../Page/薩法爾王朝.md" title="wikilink">薩法爾王朝</a>於<a href="../Page/伊朗高原.md" title="wikilink">伊朗崛起</a>，<a href="../Page/留里克王朝.md" title="wikilink">留里克家族在</a><a href="https://zh.wikipedia.org/wiki/东欧平原" title="wikilink">俄羅斯立國</a>，<a href="../Page/法兰克王国.md" title="wikilink">查理曼帝國被諸子瓜分</a>，拜占庭帝國在<a href="../Page/巴西尔一世.md" title="wikilink">巴西爾一世統治下力圖中興</a>，新劇本將帶給玩家不同的國際局勢及體驗。</p></td>
 </tr>
 <tr class="even">
 <td><p>Sons of Abraham 亞伯拉罕之裔</p></td>
@@ -105,15 +105,15 @@ DLC包括下列內容：\[11\]\[12\]
 <tr class="odd">
 <td><p>Rajas of India 印度羅闍</p></td>
 <td><p>2014年3月25日[20]</p></td>
-<td><p>新增<a href="../Page/印度次大陸.md" title="wikilink">印度地區</a>，玩家可以遊玩信仰<a href="../Page/印度教.md" title="wikilink">印度教</a>、<a href="../Page/佛教.md" title="wikilink">佛教</a>、<a href="../Page/耆那教.md" title="wikilink">耆那教等印度三教的印度領主</a>：「<a href="https://zh.wikipedia.org/wiki/拉者" title="wikilink">羅闍</a>」。</p></td>
+<td><p>新增<a href="../Page/印度次大陸.md" title="wikilink">印度地區</a>，玩家可以遊玩信仰<a href="../Page/印度教.md" title="wikilink">印度教</a>、<a href="../Page/佛教.md" title="wikilink">佛教</a>、<a href="../Page/耆那教.md" title="wikilink">耆那教</a>等印度三教的印度領主：「<a href="https://zh.wikipedia.org/wiki/拉者" title="wikilink">羅闍</a>」。</p></td>
 </tr>
 <tr class="even">
 <td><p>Charlemagne <a href="../Page/查理曼.md" title="wikilink">查理曼</a></p></td>
 <td><p>2014年10月14日[21]</p></td>
-<td><p>解鎖<strong>769年劇本</strong>，允許玩家扮演剛登基的<a href="https://zh.wikipedia.org/wiki/查理大帝" title="wikilink">卡爾一世</a>——未來的查理曼，各地局勢也與867年不同，拜占庭帝國正進行<a href="../Page/聖像破壞運動.md" title="wikilink">聖像破壞運動</a>，<a href="../Page/阿拔斯王朝.md" title="wikilink">阿拔斯王朝達到鼎盛</a>，<a href="../Page/伊比利亚半岛.md" title="wikilink">伊比利亞的</a><a href="../Page/后倭马亚王朝.md" title="wikilink">伍麦叶王朝對西歐虎視眈眈</a>，北歐尚未迎來<a href="https://zh.wikipedia.org/wiki/維京時期" title="wikilink">維京時代</a>。<br />
+<td><p>解鎖<strong>769年劇本</strong>，允許玩家扮演剛登基的<a href="https://zh.wikipedia.org/wiki/查理大帝" title="wikilink">卡爾一世</a>——未來的查理曼，各地局勢也與867年不同，拜占庭帝國正進行<a href="../Page/聖像破壞運動.md" title="wikilink">聖像破壞運動</a>，<a href="../Page/阿拔斯王朝.md" title="wikilink">阿拔斯王朝</a>達到鼎盛，<a href="../Page/伊比利亚半岛.md" title="wikilink">伊比利亞的</a><a href="../Page/后倭马亚王朝.md" title="wikilink">伍麦叶王朝對西歐虎視眈眈</a>，北歐尚未迎來<a href="https://zh.wikipedia.org/wiki/維京時期" title="wikilink">維京時代</a>。<br />
 新增原始宗教「尊日神教（Zunist）」，信仰此宗教的唯一國家位於阿富汗。<br />
 重設計部落機制，原始宗教諸國擁有更差的經濟及更強的早期戰鬥力。<br />
-新增「<a href="../Page/帝国.md" title="wikilink">帝国行政体制</a>」，開局時只有拜占庭帝國擁有，<a href="../Page/公爵.md" title="wikilink">公爵以上的頭銜在持有人死後收歸</a><a href="../Page/皇帝.md" title="wikilink">皇帝所有</a>，其他國家在強化王權之後亦能實行此一體制。</p></td>
+新增「<a href="../Page/帝国.md" title="wikilink">帝国</a>行政体制」，開局時只有拜占庭帝國擁有，<a href="../Page/公爵.md" title="wikilink">公爵</a>以上的頭銜在持有人死後收歸<a href="../Page/皇帝.md" title="wikilink">皇帝</a>所有，其他國家在強化王權之後亦能實行此一體制。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Way of Life 生活之道</p></td>
@@ -123,7 +123,7 @@ DLC包括下列內容：\[11\]\[12\]
 <tr class="even">
 <td><p>Horse Lords 馬上诸王</p></td>
 <td><p>2015年7月14日[23]</p></td>
-<td><p>將原始信仰的草原部落重製為<a href="https://zh.wikipedia.org/wiki/汗國" title="wikilink">遊牧汗國</a>，統治汗國的<a href="../Page/可汗.md" title="wikilink">可汗有著迥異於封建等其他領主的遊戲機制</a>，汗國國力和領地的建設度相反，所以扮演馬王的玩家將會致力於毀滅新領地的建設。<br />
+<td><p>將原始信仰的草原部落重製為<a href="https://zh.wikipedia.org/wiki/汗國" title="wikilink">遊牧汗國</a>，統治汗國的<a href="../Page/可汗.md" title="wikilink">可汗</a>有著迥異於封建等其他領主的遊戲機制，汗國國力和領地的建設度相反，所以扮演馬王的玩家將會致力於毀滅新領地的建設。<br />
 新增政體機制，將<a href="https://zh.wikipedia.org/wiki/封建制" title="wikilink">封建制</a>、<a href="../Page/共和制.md" title="wikilink">共和制</a>、<a href="https://zh.wikipedia.org/wiki/部落制" title="wikilink">部落制</a>、<a href="../Page/遊牧民族.md" title="wikilink">遊牧制等國整理為不同政體國家</a>，其中部落制都可以改革成為前兩者政體之一，遊牧則能改革成为為前三者之一。<br />
 新增<a href="https://zh.wikipedia.org/wiki/丝绸之路" title="wikilink">丝绸之路系統並將地圖延伸到</a><a href="../Page/蒙古高原.md" title="wikilink">蒙古邊境</a>。</p></td>
 </tr>
@@ -157,7 +157,7 @@ DLC包括下列內容：\[11\]\[12\]
 新增破碎世界模式，開放可自訂的隨機世界地圖。<br />
 新增战士公会，原始宗教徒可加入战士公会以戰功奪得高位，並在決鬥中結交戰友、磨練戰技。<br />
 新增斬殺計數，能夠統計有多少人命以各種方式消亡在玩家手中。<br />
-新增血脈系统，英雄後裔將被眾人所愛戴，玩家能讓查理曼、<a href="../Page/成吉思汗.md" title="wikilink">成吉思汗等名門融入自家血脈</a>。<br />
+新增血脈系统，英雄後裔將被眾人所愛戴，玩家能讓查理曼、<a href="../Page/成吉思汗.md" title="wikilink">成吉思汗</a>等名門融入自家血脈。<br />
 新增聖徒封聖，品行崇高的基督教徒死後可被封聖，崇拜先祖的改革原始教徒徒同樣能神化先人的事蹟。<br />
 新增<a href="https://zh.wikipedia.org/wiki/加冕" title="wikilink">加冕儀式</a>，封建君主須由聖職人員加冕登基，以彰顯自己為合法通過神授而享有王權。<br />
 新增繼承法，長老选举制可避免继承时出现諸子分家的情况，而繼承人也能向兄弟發起決鬥以从他手中奪取被均分的領地。</p></td>

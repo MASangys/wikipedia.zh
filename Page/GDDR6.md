@@ -12,9 +12,9 @@ Hynix的GDDR6顯示記憶體的顯示卡將會達到12GB的容量、384位元寬
 
 2016年的會議上，三星電子宣布GDDR6是GDDR5X的接替品，並可望於2018年進入商用階段。\[7\]\[8\]2017年，[美光也宣布將於](https://zh.wikipedia.org/wiki/美光 "wikilink")2017年底或2018年初發表其自家的GDDR6產品。\[9\]
 
-而最初的消息指GDDR6由[AMD與](https://zh.wikipedia.org/wiki/AMD "wikilink")[JEDEC於](../Page/JEDEC.md "wikilink")2012年合作制定，除此以外還有[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[高通](../Page/高通.md "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")、[Cisco等資訊企業參與該標準的制定](https://zh.wikipedia.org/wiki/Cisco "wikilink")。\[10\]該標準或基於[DDR4
+而最初的消息指GDDR6由[AMD與](https://zh.wikipedia.org/wiki/AMD "wikilink")[JEDEC](../Page/JEDEC.md "wikilink")於2012年合作制定，除此以外還有[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[高通](../Page/高通.md "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")、[Cisco等資訊企業參與該標準的制定](https://zh.wikipedia.org/wiki/Cisco "wikilink")。\[10\]該標準或基於[DDR4
 SDRAM](../Page/DDR4_SDRAM.md "wikilink")，與基於[DDR3
-SDRAM的](../Page/DDR3_SDRAM.md "wikilink")[GDDR5將有不少技術差異](../Page/GDDR5.md "wikilink")。有不少消息稱該標準將於2014年完成，實際產品將會到2020年會大規模使用。\[11\]\[12\]\[13\]然而，直至2017年三星電子、SK
+SDRAM的](../Page/DDR3_SDRAM.md "wikilink")[GDDR5](../Page/GDDR5.md "wikilink")將有不少技術差異。有不少消息稱該標準將於2014年完成，實際產品將會到2020年會大規模使用。\[11\]\[12\]\[13\]然而，直至2017年三星電子、SK
 Hynix以及鎂光才公佈一些關於GDDR6的相關資訊，而JEDEC發表了[DDR5
 SDRAM標準制定中的資訊以後仍未有關於GDDR](../Page/DDR5_SDRAM.md "wikilink")6的資訊。\[14\]
 

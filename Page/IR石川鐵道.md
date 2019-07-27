@@ -1,4 +1,4 @@
-**IR石川鐵道股份有限公司**（），簡稱**IR石川鐵道**或**IR**，是一家[日本](../Page/日本.md "wikilink")[石川縣的](../Page/石川縣.md "wikilink")[第三部門鐵路經營者](../Page/日本第三部門鐵道.md "wikilink")，總部設於[金澤市高柳町](../Page/金澤市.md "wikilink")、原[JR西日本金澤支社總站會址](https://zh.wikipedia.org/wiki/JR西日本 "wikilink")。是因應JR西日本於2015年3月14日運營[北陸新幹線時接收原位於石川縣內](../Page/北陸新幹線.md "wikilink")[北陸本線車站及設備而成立](../Page/北陸本線.md "wikilink")，公司主要由石川縣與鐵路沿線的自治體，以及部份當地的企業與地方單位所集資特別設置的事業體。\[1\]
+**IR石川鐵道股份有限公司**（），簡稱**IR石川鐵道**或**IR**，是一家[日本](../Page/日本.md "wikilink")[石川縣](../Page/石川縣.md "wikilink")的[第三部門鐵路經營者](../Page/日本第三部門鐵道.md "wikilink")，總部設於[金澤市](../Page/金澤市.md "wikilink")高柳町、原[JR西日本金澤支社總站會址](https://zh.wikipedia.org/wiki/JR西日本 "wikilink")。是因應JR西日本於2015年3月14日運營[北陸新幹線](../Page/北陸新幹線.md "wikilink")時接收原位於石川縣內[北陸本線](../Page/北陸本線.md "wikilink")車站及設備而成立，公司主要由石川縣與鐵路沿線的自治體，以及部份當地的企業與地方單位所集資特別設置的事業體。\[1\]
 
 ## 營運路線
 
@@ -23,7 +23,7 @@
 </tbody>
 </table>
 
-現時所有班次列車將會與另一間第三部門鐵道公司「[愛之風富山鐵道](../Page/愛之風富山鐵道.md "wikilink")」進行直通運轉，由金澤開出的列車，可以直達至[富山](https://zh.wikipedia.org/wiki/富山站_\(日本\) "wikilink")，另外提供3班快速列車直達至[泊站](../Page/泊站_\(富山縣\).md "wikilink")\[2\]。下午1班普通下行列車更可直通至[越後朱鷺鐵道的](https://zh.wikipedia.org/wiki/越後朱鷺鐵道 "wikilink")[糸魚川站](https://zh.wikipedia.org/wiki/糸魚川站 "wikilink")。此外，由於JR西日本仍會繼續營運[七尾線](../Page/七尾線.md "wikilink")，現時由金澤直通至七尾線的安排將維持不變，包括一班來回[大阪站及](https://zh.wikipedia.org/wiki/大阪站 "wikilink")[和倉溫泉站的](https://zh.wikipedia.org/wiki/和倉溫泉站 "wikilink")「[雷鳥號列車](../Page/雷鳥號列車.md "wikilink")」（13及20號）\[3\]。亦增設了5班來回金澤及和倉溫泉的特急班次列車「[能登篝火號](https://zh.wikipedia.org/wiki/能登篝火號 "wikilink")」，以彌補因「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」取消而損失的特急班次，及方便乘客轉乘北陸新幹線\[4\]。而當北陸新幹線完成第2期工程，伸延至[敦賀站後](../Page/敦賀站.md "wikilink")，屆時金澤以西的縣內在來線車站亦會撥歸IR管理。
+現時所有班次列車將會與另一間第三部門鐵道公司「[愛之風富山鐵道](../Page/愛之風富山鐵道.md "wikilink")」進行直通運轉，由金澤開出的列車，可以直達至[富山](https://zh.wikipedia.org/wiki/富山站_\(日本\) "wikilink")，另外提供3班快速列車直達至[泊站](../Page/泊站_\(富山縣\).md "wikilink")\[2\]。下午1班普通下行列車更可直通至[越後朱鷺鐵道的](https://zh.wikipedia.org/wiki/越後朱鷺鐵道 "wikilink")[糸魚川站](https://zh.wikipedia.org/wiki/糸魚川站 "wikilink")。此外，由於JR西日本仍會繼續營運[七尾線](../Page/七尾線.md "wikilink")，現時由金澤直通至七尾線的安排將維持不變，包括一班來回[大阪站及](https://zh.wikipedia.org/wiki/大阪站 "wikilink")[和倉溫泉站的](https://zh.wikipedia.org/wiki/和倉溫泉站 "wikilink")「[雷鳥號列車](../Page/雷鳥號列車.md "wikilink")」（13及20號）\[3\]。亦增設了5班來回金澤及和倉溫泉的特急班次列車「[能登篝火號](https://zh.wikipedia.org/wiki/能登篝火號 "wikilink")」，以彌補因「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」取消而損失的特急班次，及方便乘客轉乘北陸新幹線\[4\]。而當北陸新幹線完成第2期工程，伸延至[敦賀站](../Page/敦賀站.md "wikilink")後，屆時金澤以西的縣內在來線車站亦會撥歸IR管理。
 
 在開業首兩年，JR西日本承諾可以繼續使用其原來操作管理系統，及後IR石川鐵道則須使用自己的操作管理系統。
 
@@ -35,16 +35,16 @@
 ## 歷史
 
   - 2005年：石川縣、金澤市及津幡町確認當北陸新幹線第1期（[長野站](https://zh.wikipedia.org/wiki/長野站 "wikilink")～金凙站）通車時，在來線將由JR西日本脫離營運。\[6\]
-  - 2012年5月：石川縣、金澤市、[野野市市](../Page/野野市市.md "wikilink")、[白山市](../Page/白山市.md "wikilink")、[能美市](https://zh.wikipedia.org/wiki/能美市 "wikilink")、[小松市及](../Page/小松市.md "wikilink")[加賀市確認當北陸新幹線第](https://zh.wikipedia.org/wiki/加賀市 "wikilink")2期（金凙站～[敦賀站](../Page/敦賀站.md "wikilink")）通車時，在來線將由JR西日本脫離營運。\[7\]
+  - 2012年5月：石川縣、金澤市、[野野市市](../Page/野野市市.md "wikilink")、[白山市](../Page/白山市.md "wikilink")、[能美市](https://zh.wikipedia.org/wiki/能美市 "wikilink")、[小松市](../Page/小松市.md "wikilink")及[加賀市確認當北陸新幹線第](https://zh.wikipedia.org/wiki/加賀市 "wikilink")2期（金凙站～[敦賀站](../Page/敦賀站.md "wikilink")）通車時，在來線將由JR西日本脫離營運。\[7\]
   - 2012年7月1日：提出成立「石川縣並行在來線股份有限公司」。
   - 2012年8月28日：「石川縣並行在來線股份有限公司」正式成立，創立資金為4億5030萬[日圓](../Page/日圓.md "wikilink")。
   - 2013年8月1日：正式定名為「IR石川鐵道股份有限公司」，資金增至20億600萬日圓。
   - 2014年1月6日：正式公佈公司標誌及代表顏色。
   - 2014年2月28日：根據《》，正式取得第一種鐵道事業許可。
   - 2014年10月27日：正式公佈車費表。\[8\]
-  - 2014年11月1日：本社由石川縣廳遷至[東金澤站附近的新址](../Page/東金澤站.md "wikilink")（即JR西日本金澤支社舊址）。\[9\]
-  - 2015年3月14日：北陸本線[金澤站](https://zh.wikipedia.org/wiki/金澤站 "wikilink")～[俱利伽羅站移交](../Page/俱利伽羅站.md "wikilink")，鐵路事業正式運作。\[10\]
-  - 2017年4月15日：全線可使用[ICOCA及其他主要](../Page/ICOCA.md "wikilink")[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。
+  - 2014年11月1日：本社由石川縣廳遷至[東金澤站](../Page/東金澤站.md "wikilink")附近的新址（即JR西日本金澤支社舊址）。\[9\]
+  - 2015年3月14日：北陸本線[金澤站](https://zh.wikipedia.org/wiki/金澤站 "wikilink")～[俱利伽羅站](../Page/俱利伽羅站.md "wikilink")移交，鐵路事業正式運作。\[10\]
+  - 2017年4月15日：全線可使用[ICOCA](../Page/ICOCA.md "wikilink")及其他主要[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。
 
 ## 車費
 
@@ -61,7 +61,7 @@
 (15)||240||40 (20) |- |11 - 15||240||270||30 (12.5)||290||50 (20.8) |-
 |16 - 20||320||360||40 (12.5)||380||60 (18.75) |- |}
 
-另外，營業範圍內的所有車站現時均沒有任何快速或特急列車停靠，但凡乘搭途經IR路段的非普通列車乘客，一律須繳付200日圓的特急費用。以往由JR發行的各種通行證，除「[青春18車票](../Page/青春18車票.md "wikilink")」及「」外，包括[日本鐵路周遊券在內的其他通行證一律也不能在IR內使用](../Page/日本鐵路周遊券.md "wikilink")\[14\]。不過，IR同時推出一些優惠，包括於IR車站內同時購買由金澤開出的新幹線或JR特急列車車票，IR線路內的車費可獲半價，同時在周末及假日也推出了500日圓1日自由乘坐通行劵\[15\]。
+另外，營業範圍內的所有車站現時均沒有任何快速或特急列車停靠，但凡乘搭途經IR路段的非普通列車乘客，一律須繳付200日圓的特急費用。以往由JR發行的各種通行證，除「[青春18車票](../Page/青春18車票.md "wikilink")」及「」外，包括[日本鐵路周遊券](../Page/日本鐵路周遊券.md "wikilink")在內的其他通行證一律也不能在IR內使用\[14\]。不過，IR同時推出一些優惠，包括於IR車站內同時購買由金澤開出的新幹線或JR特急列車車票，IR線路內的車費可獲半價，同時在周末及假日也推出了500日圓1日自由乘坐通行劵\[15\]。
 
 ## 外部連結
 

@@ -14,7 +14,7 @@ Girl》[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[
 TV](../Page/COUNT_DOWN_TV.md "wikilink")》2010年6月份的主題曲。\[1\]miwa在同年6月18日播映的《[我們的音樂
 Our Music](../Page/我們的音樂_Our_Music.md "wikilink")》中演唱了這首歌，此外也演唱了《[don't
 cry
-anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》和跟[菅止戈男合唱](../Page/菅止戈男.md "wikilink")《》一曲。\[2\]\[3\]
+anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》和跟[菅止戈男](../Page/菅止戈男.md "wikilink")合唱《》一曲。\[2\]\[3\]
 
 ## 收錄歌曲
 

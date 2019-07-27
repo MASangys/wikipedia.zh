@@ -1,5 +1,5 @@
 《**絢香 LIVE TOUR 2013 Fortune
-Cookie～什麼會跑出來呢\!?～**》（）為[日本女歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2014年3月5日發行的影音作品。
+Cookie～什麼會跑出來呢\!?～**》（）為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Page/絢香.md "wikilink")於2014年3月5日發行的影音作品。
 
 ## 簡介
 

@@ -1,5 +1,5 @@
-唐纳德·F.拉赫（）是[芝加哥大学的](../Page/芝加哥大学.md "wikilink")[历史学教授](https://zh.wikipedia.org/wiki/历史学 "wikilink")，在研究亚洲对现代欧洲（1500－1800）历史发展的影响方面，他也可能是最权威的学者。
-拉赫是出生于[匹兹堡的](../Page/匹兹堡.md "wikilink")[德国移民](../Page/德国.md "wikilink")，1937年于西弗吉尼亚大学获得学士学位，1941年在芝加哥大学获得博士学位。1937年，拉赫与[Alma
+唐纳德·F.拉赫（）是[芝加哥大学](../Page/芝加哥大学.md "wikilink")的[历史学教授](https://zh.wikipedia.org/wiki/历史学 "wikilink")，在研究亚洲对现代欧洲（1500－1800）历史发展的影响方面，他也可能是最权威的学者。
+拉赫是出生于[匹兹堡](../Page/匹兹堡.md "wikilink")的[德国](../Page/德国.md "wikilink")移民，1937年于西弗吉尼亚大学获得学士学位，1941年在芝加哥大学获得博士学位。1937年，拉赫与[Alma
 Elizabeth
 Satorius](https://zh.wikipedia.org/wiki/Alma_Elizabeth_Satorius "wikilink")，一位厨师和菜谱作家结婚，1943年生下女儿[Sandra
 Lach

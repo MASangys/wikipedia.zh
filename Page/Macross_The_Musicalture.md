@@ -1,5 +1,5 @@
 「**Macross The Musicalture**」（）是日本動畫作品「[Macross
-Series](https://zh.wikipedia.org/wiki/Macross_Series "wikilink")」的首部[音樂劇作品](../Page/音樂劇.md "wikilink")。於2012年10月3日至10月8日，在[Tokyo
+Series](https://zh.wikipedia.org/wiki/Macross_Series "wikilink")」的首部[音樂劇](../Page/音樂劇.md "wikilink")作品。於2012年10月3日至10月8日，在[Tokyo
 Dome City Hall](../Page/MEETS_PORT.md "wikilink")（）全8場公演。
 
 ## 概要
@@ -12,7 +12,7 @@ F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")」的3年後的2062年。
 同時，Macross 30周年所舉行的「Miss Macross 30」選考中Actress
 Wing（アクトレス・ウィング）部分的「審査員特別賞」（）获得者[片木ゆき也参与了表演](https://zh.wikipedia.org/wiki/片木ゆき "wikilink")。\[1\]
 
-和最初發表的CAST比較，共有兩個演出者進行了變更。維戈的变更为。夏洛特的[神田沙也加在公演](../Page/神田沙也加.md "wikilink")2天前因急性胃肠炎變更為[富田麻帆](../Page/富田麻帆.md "wikilink")。\[2\]
+和最初發表的CAST比較，共有兩個演出者進行了變更。維戈的变更为。夏洛特的[神田沙也加](../Page/神田沙也加.md "wikilink")在公演2天前因急性胃肠炎變更為[富田麻帆](../Page/富田麻帆.md "wikilink")。\[2\]
 
 ## 故事簡介
 
@@ -114,6 +114,6 @@ Zentran」（ネオ・ゼントラン）派領導人维戈、安锡和樱三個�
 
 1.  「Miss Macross 30」選考分為Singer Wing（シンガー・ウィング）和Actress
     Wing（アクトレス・ウィング）兩部分，共有超過4000人應募。其中約有550人應募Actress
-    Wing，但未能選出優勝者，經過商定將「審査員特別賞」（）授予大阪府出身、19嵗的大學生片木ゆき；[千菅春香參與的是Singer](../Page/千菅春香.md "wikilink")
+    Wing，但未能選出優勝者，經過商定將「審査員特別賞」（）授予大阪府出身、19嵗的大學生片木ゆき；[千菅春香](../Page/千菅春香.md "wikilink")參與的是Singer
     Wing應募。
 2.

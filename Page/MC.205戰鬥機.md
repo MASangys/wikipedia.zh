@@ -1,4 +1,4 @@
-MC.205戰鬥機是[MC.202戰鬥機的改良型](../Page/MC.202戰鬥機.md "wikilink")，把發動機進一步升級換裝使用[Bf
+MC.205戰鬥機是[MC.202戰鬥機](../Page/MC.202戰鬥機.md "wikilink")的改良型，把發動機進一步升級換裝使用[Bf
 109G戰鬥機相同的DB](https://zh.wikipedia.org/wiki/Bf_109戰鬥機 "wikilink")605水冷式發動機，並在機身下下方配置了擴大尺寸（以增加散熱功率）的散熱器，此外兩側主翼武裝也換裝成為德製[MG
 151機炮](https://zh.wikipedia.org/wiki/MG_151機炮 "wikilink")(20毫米口徑)，這成為MC.205和MC.202外表上最大的分別
 
@@ -27,7 +27,7 @@ MC.205堪稱是義大利在[第二次世界大戰當中性能最為傑出的國�
 ## 實戰
 
 [Macchi_MC.205.JPG](https://zh.wikipedia.org/wiki/File:Macchi_MC.205.JPG "fig:Macchi_MC.205.JPG")
-MC.205戰鬥機初登場時，首先被指派為北非[突尼西亞的軸心軍運輸機隊擔任護航任務](../Page/突尼西亞.md "wikilink")，實戰記錄中，曾有過在[地中海上空擊落](../Page/地中海.md "wikilink")14架英軍的[噴火式戰鬥機而義方僅損失兩架的戰績](https://zh.wikipedia.org/wiki/喷火式战斗机 "wikilink")，被認為是能有效抗衡盟軍當時主力戰機的新銳機種。
+MC.205戰鬥機初登場時，首先被指派為北非[突尼西亞](../Page/突尼西亞.md "wikilink")的軸心軍運輸機隊擔任護航任務，實戰記錄中，曾有過在[地中海](../Page/地中海.md "wikilink")上空擊落14架英軍的[噴火式戰鬥機而義方僅損失兩架的戰績](https://zh.wikipedia.org/wiki/喷火式战斗机 "wikilink")，被認為是能有效抗衡盟軍當時主力戰機的新銳機種。
 
 當[盟軍登陸西西里島時島上有](../Page/西西里島戰役.md "wikilink")10架MC.205，它們和MC.202以及德軍的Bf
 109G一起作戰

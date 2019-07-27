@@ -1,6 +1,6 @@
-，是一個由[Cing負責開發工程](../Page/Cing.md "wikilink")，[Tecmo負責發佈的](https://zh.wikipedia.org/wiki/Tecmo "wikilink")[文字冒險](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。此遊戲的平台為[任天堂DS](../Page/任天堂DS.md "wikilink")。此遊戲於2009年12月10日在日本發佈\[1\]，並於2010年4月2日在北美發佈。起初，此遊戲的北美版本名為「Again：普羅維登斯之眼」（Again:
+，是一個由[Cing](../Page/Cing.md "wikilink")負責開發工程，[Tecmo負責發佈的](https://zh.wikipedia.org/wiki/Tecmo "wikilink")[文字冒險](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。此遊戲的平台為[任天堂DS](../Page/任天堂DS.md "wikilink")。此遊戲於2009年12月10日在日本發佈\[1\]，並於2010年4月2日在北美發佈。起初，此遊戲的北美版本名為「Again：普羅維登斯之眼」（Again:
 Eye of
-Providence）。\[2\]\[3\]此遊戲是[Cing破產前最後一次和](../Page/Cing.md "wikilink")[TECMO合製的遊戲](https://zh.wikipedia.org/wiki/TECMO "wikilink")。\[4\]
+Providence）。\[2\]\[3\]此遊戲是[Cing](../Page/Cing.md "wikilink")破產前最後一次和[TECMO合製的遊戲](https://zh.wikipedia.org/wiki/TECMO "wikilink")。\[4\]
 
 ## 劇情
 
@@ -38,9 +38,9 @@ Providence）。\[2\]\[3\]此遊戲是[Cing破產前最後一次和](../Page/Cin
 
 ## 評價
 
-此遊戲獲得的評價較差。[GameRankings得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")54.32%\[7\]，而[Metacritic則得出此遊戲的分數為](../Page/Metacritic.md "wikilink")52分。\[8\]
+此遊戲獲得的評價較差。[GameRankings得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")54.32%\[7\]，而[Metacritic](../Page/Metacritic.md "wikilink")則得出此遊戲的分數為52分。\[8\]
 
-[IGN的阿瑟](../Page/IGN.md "wikilink")·吉斯給予此遊戲4.5分，批評其對白、音樂、重玩性和遊戲系統，但就稱讚其畫質。\[9\][GameSpot的拿單](../Page/GameSpot.md "wikilink")·穆尼耶給予此遊戲5分，批評其過於俗套的故事、第一人稱調查時差劣的控制、不直觀的心理謎題、以及讓人混淆的劇情，但就稱讚其畫質與角色。\[10\]
+[IGN](../Page/IGN.md "wikilink")的阿瑟·吉斯給予此遊戲4.5分，批評其對白、音樂、重玩性和遊戲系統，但就稱讚其畫質。\[9\][GameSpot](../Page/GameSpot.md "wikilink")的拿單·穆尼耶給予此遊戲5分，批評其過於俗套的故事、第一人稱調查時差劣的控制、不直觀的心理謎題、以及讓人混淆的劇情，但就稱讚其畫質與角色。\[10\]
 
 ## 參考文獻
 

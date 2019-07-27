@@ -1,4 +1,4 @@
-**“Modern…”的她**()是日本乐团[GLAY的第](../Page/GLAY.md "wikilink")3張單曲。
+**“Modern…”的她**()是日本乐团[GLAY](../Page/GLAY.md "wikilink")的第3張單曲。
 
 ## 簡介
 

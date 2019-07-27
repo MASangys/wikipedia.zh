@@ -1,12 +1,12 @@
-**RGM-40**（；，，意為：[指節套環](../Page/指節套環.md "wikilink")）是一具由[俄罗斯所研製和生產的單發](../Page/俄罗斯.md "wikilink")40毫米[肩射型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型榴弹发射器 "wikilink")，是[GP-30的肩射型版本](../Page/GP-25附加型榴彈發射器.md "wikilink")，發射。
+**RGM-40**（；，，意為：[指節套環](../Page/指節套環.md "wikilink")）是一具由[俄罗斯](../Page/俄罗斯.md "wikilink")所研製和生產的單發40毫米[肩射型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型榴弹发射器 "wikilink")，是[GP-30的肩射型版本](../Page/GP-25附加型榴彈發射器.md "wikilink")，發射。
 
 ## 概述
 
-RGM-40是以[GP-30為藍本](../Page/GP-25附加型榴彈發射器.md "wikilink")，並在加裝[槍托](../Page/槍托.md "wikilink")、AK型和上翻型[立式標尺式](https://zh.wikipedia.org/wiki/立式標尺 "wikilink")[機械瞄具以後變成的獨立式肩射型版本](../Page/機械瞄具.md "wikilink")。它是一枝單發槍口裝填式武器，具有自我擊發式扳機機構，並與GP-30提供高度共同性。它的設計主要是警用用途，因此可以使用多種[非致命性彈藥](../Page/非致命性武器.md "wikilink")（即[催淚瓦斯彈](../Page/催淚彈.md "wikilink")、眩暈榴彈等）。此外，它亦可使用俄式標準型40毫米VOG-25和VOG-25P破片榴彈。\[1\]
+RGM-40是以[GP-30為藍本](../Page/GP-25附加型榴彈發射器.md "wikilink")，並在加裝[槍托](../Page/槍托.md "wikilink")、AK型和上翻型[立式標尺式](https://zh.wikipedia.org/wiki/立式標尺 "wikilink")[機械瞄具](../Page/機械瞄具.md "wikilink")以後變成的獨立式肩射型版本。它是一枝單發槍口裝填式武器，具有自我擊發式扳機機構，並與GP-30提供高度共同性。它的設計主要是警用用途，因此可以使用多種[非致命性彈藥](../Page/非致命性武器.md "wikilink")（即[催淚瓦斯彈](../Page/催淚彈.md "wikilink")、眩暈榴彈等）。此外，它亦可使用俄式標準型40毫米VOG-25和VOG-25P破片榴彈。\[1\]
 
 ## 使用國
 
-  - ：被[俄罗斯联邦内务部所採用](../Page/俄罗斯联邦内务部.md "wikilink")。\[2\]
+  - ：被[俄罗斯联邦内务部](../Page/俄罗斯联邦内务部.md "wikilink")所採用。\[2\]
 
 ## 流行文化
 

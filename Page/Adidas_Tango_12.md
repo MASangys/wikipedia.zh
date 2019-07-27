@@ -1,6 +1,6 @@
 [Euro_2012.jpg](https://zh.wikipedia.org/wiki/File:Euro_2012.jpg "fig:Euro_2012.jpg")的Adidas
 Tango 12纪念碑\]\] **Adidas Tango
-12**是[UEFA](https://zh.wikipedia.org/wiki/UEFA "wikilink")[2012年欧洲足球锦标赛官方指定用球](../Page/2012年欧洲足球锦标赛.md "wikilink")。\[1\]虽然这款球沿用了原有非常成功的[Adidas
+12**是[UEFA](https://zh.wikipedia.org/wiki/UEFA "wikilink")[2012年欧洲足球锦标赛](../Page/2012年欧洲足球锦标赛.md "wikilink")官方指定用球。\[1\]虽然这款球沿用了原有非常成功的[Adidas
 Tango家族的名称](../Page/Adidas_Tango.md "wikilink")，但Tango
 12采用了完全不同的新设计。这款球的其它版本已经被用于包括非洲杯、夏季奥运会在内的许多比赛，虽然[阿迪达斯并没有把它们全都划入](https://zh.wikipedia.org/wiki/阿迪达斯 "wikilink")“Adidas
 Tango 12”家族，但它们有着相似的设计。
@@ -9,7 +9,7 @@ Tango 12”家族，但它们有着相似的设计。
 12的构造设计基于[普天同庆](https://zh.wikipedia.org/wiki/普天同庆 "wikilink")，但做了大幅修改。[普天同庆遭到了很多守门员的谴责](https://zh.wikipedia.org/wiki/普天同庆 "wikilink")，包括巴西门将[儒利奥·塞萨尔](https://zh.wikipedia.org/wiki/儒利奥·塞萨尔 "wikilink")。
 
 Adidas Tango
-12采用了很多现代设计，诸如色彩的灵感来自于两个主办国[波兰和](https://zh.wikipedia.org/wiki/波兰 "wikilink")[乌克兰两国的国旗](../Page/乌克兰.md "wikilink")。\[2\]蚀刻在球上的是三个以剪纸为背景的定制图案。剪纸装饰艺术是这两个主办国农村地区的传统。设计者认为这样的设计代表了足球的三个核心价值——团结，竞争和激情。\[3\]
+12采用了很多现代设计，诸如色彩的灵感来自于两个主办国[波兰和](https://zh.wikipedia.org/wiki/波兰 "wikilink")[乌克兰](../Page/乌克兰.md "wikilink")两国的国旗。\[2\]蚀刻在球上的是三个以剪纸为背景的定制图案。剪纸装饰艺术是这两个主办国农村地区的传统。设计者认为这样的设计代表了足球的三个核心价值——团结，竞争和激情。\[3\]
 
 ## 版本
 

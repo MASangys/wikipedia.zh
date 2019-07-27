@@ -1,11 +1,11 @@
 | position =
 前锋-后卫{{\#tag:ref|[M·L·卡尔](http://stat-nba.com/player/729.html)
 - 数据NBA|name=nbastat}} | birth_date =  | birth_place =
-[北卡罗来纳州华莱士](../Page/北卡罗来纳州.md "wikilink") |
-nationality =  | team = 退役 | height_ft = 6 | height_in = 6 |
-weight_lb = 205 | highschool = Wallace Rose Hill in Teachey,
-[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink") | college =  | draft
-= | draft_year = 1973 | draft_round = 5 | draft_pick = 7 |
+[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")华莱士 | nationality =  |
+team = 退役 | height_ft = 6 | height_in = 6 | weight_lb = 205 |
+highschool = Wallace Rose Hill in Teachey,
+[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink") | college
+=  | draft = | draft_year = 1973 | draft_round = 5 | draft_pick = 7 |
 draft_team =
 [堪萨奥马哈国王](https://zh.wikipedia.org/wiki/萨克拉门托国王 "wikilink")
 | career_start = 1973年 | career_end = 1985年 | teams = | years1 =
@@ -27,7 +27,7 @@ draft_team =
 stat3value = 1,336（2.0次） | letter = c | bbr = carrml01 | profile = | HOF
 = | HOF_player = | HOF_coach = }}
 
-**迈克尔·利昂·卡尔**（，），[美国](../Page/美国.md "wikilink")[NBA联盟职业](../Page/NBA.md "wikilink")[篮球运动员](../Page/篮球.md "wikilink")。他在1973年的[NBA选秀中第](../Page/NBA选秀.md "wikilink")5轮第7顺位被[堪萨奥马哈国王选中](https://zh.wikipedia.org/wiki/萨克拉门托国王 "wikilink")。{{\#tag:ref||name=nbastat}}
+**迈克尔·利昂·卡尔**（，），[美国](../Page/美国.md "wikilink")[NBA](../Page/NBA.md "wikilink")联盟职业[篮球](../Page/篮球.md "wikilink")运动员。他在1973年的[NBA选秀](../Page/NBA选秀.md "wikilink")中第5轮第7顺位被[堪萨奥马哈国王选中](https://zh.wikipedia.org/wiki/萨克拉门托国王 "wikilink")。{{\#tag:ref||name=nbastat}}
 
 ## 主教练战绩
 

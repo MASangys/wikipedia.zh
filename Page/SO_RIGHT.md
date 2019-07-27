@@ -9,7 +9,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   - 《SO RIGHT》是第三代J Soul Brothers第一張精選專輯及第四張原創專輯《[THE BEST / BLUE
     IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》的先行單曲。
   - 《SO
-    RIGHT》是[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[AKIRA主演](../Page/AKIRA.md "wikilink")，富士電視台劇集《[甜蜜陷阱](https://zh.wikipedia.org/wiki/甜蜜陷阱 "wikilink")》的主題曲。
+    RIGHT》是[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[AKIRA](../Page/AKIRA.md "wikilink")主演，富士電視台劇集《[甜蜜陷阱](https://zh.wikipedia.org/wiki/甜蜜陷阱 "wikilink")》的主題曲。
   - 此單曲只有「CD ONLY」1個版本。
   - 在12月6日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")2位。
 

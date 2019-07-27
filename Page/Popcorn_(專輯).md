@@ -1,4 +1,4 @@
-《**Popcorn**》是[嵐的第](../Page/嵐.md "wikilink")14張專輯，第11枚原創專輯，於2012年10月31日發行。唱片公司為[J
+《**Popcorn**》是[嵐](../Page/嵐.md "wikilink")的第14張專輯，第11枚原創專輯，於2012年10月31日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
@@ -30,13 +30,13 @@ Storm](../Page/J_Storm.md "wikilink")。
 3.  **[Wild at Heart](../Page/Wild_at_Heart.md "wikilink")**（）
     （作詞：Soluna、作曲：Chris Janey・Junior Jokinen、編曲：Trevor Ingram）
       -
-        37th單曲。[富士電視台系連續劇](../Page/富士電視台.md "wikilink")《[幸運7人組](../Page/幸運7人組.md "wikilink")》主題歌
+        37th單曲。[富士電視台](../Page/富士電視台.md "wikilink")系連續劇《[幸運7人組](../Page/幸運7人組.md "wikilink")》主題歌
 4.  **[Face Down](../Page/Face_Down.md "wikilink")**
     （作詞：eltvo、Rap詞：櫻井翔、作曲：Albi Albertsson・Royce.H・Vincent
     Stein・Kontantin Scherer、編曲：metropolitan digital clique・Vincent
     Stein・Kontantin Scherer）
       -
-        38th單曲。[富士電視台系連續劇](../Page/富士電視台.md "wikilink")《[上鎖的房間](../Page/上鎖的房間_\(電視劇\).md "wikilink")》主題歌
+        38th單曲。[富士電視台](../Page/富士電視台.md "wikilink")系連續劇《[上鎖的房間](../Page/上鎖的房間_\(電視劇\).md "wikilink")》主題歌
 5.  **We wanna funk, we need a funk**
     （作詞：Shigeo・Bruce R F Smith・John World、作曲：Bruce R F Smith・Mats
     Ymell、編曲：metropolitan digital clique）
@@ -45,7 +45,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 6.  **two**
     （作詞：Soluna、作曲：Erik Lidbom・R.P.P.、編曲：Erik Lidbom）
       -
-        [大野智solo](../Page/大野智.md "wikilink")
+        [大野智](../Page/大野智.md "wikilink")solo
 7.  **Waiting for you**
     （作詞：Soluna、作曲：Octobar・iiiSAK、編曲：吉岡たく・宮野幸子）
 8.  **樂園**
@@ -57,19 +57,19 @@ Storm](../Page/J_Storm.md "wikilink")。
 10. **果然還是你**（）
     （作詞：二宮和也、作曲：大知正紘、編曲：ha-j・二宮和也）
       -
-        [二宮和也solo](../Page/二宮和也.md "wikilink")
+        [二宮和也](../Page/二宮和也.md "wikilink")solo
 11. **[迷宮戀曲](../Page/迷宮戀曲.md "wikilink")**（）
     （作詞：伊織、作曲：iiiSAK・Dyce Taylor、編曲：Trevor Ingram）
       -
-        36th單曲。[富士電視台系連續劇](../Page/富士電視台.md "wikilink")《[推理要在晚餐後](https://zh.wikipedia.org/wiki/推理要在晚餐後 "wikilink")》主題歌
+        36th單曲。[富士電視台](../Page/富士電視台.md "wikilink")系連續劇《[推理要在晚餐後](https://zh.wikipedia.org/wiki/推理要在晚餐後 "wikilink")》主題歌
 12. **[Your Eyes](../Page/Your_Eyes.md "wikilink")**
     (作詞：hs、作曲：Chris Janey・Max Grant、編曲：石塚知生）
       -
-        39th單曲。[日本電視台系連續劇](../Page/日本電視台.md "wikilink")《[三毛貓福爾摩斯的推理](https://zh.wikipedia.org/wiki/三毛貓福爾摩斯的推理 "wikilink")》主題歌
+        39th單曲。[日本電視台](../Page/日本電視台.md "wikilink")系連續劇《[三毛貓福爾摩斯的推理](https://zh.wikipedia.org/wiki/三毛貓福爾摩斯的推理 "wikilink")》主題歌
 13. **Fly on Friday**
     （作詞・作曲：eltvo、Rap詞：櫻井翔、編曲：kz）
       -
-        [櫻井翔solo](../Page/櫻井翔.md "wikilink")
+        [櫻井翔](../Page/櫻井翔.md "wikilink")solo
 14. **Cosmos**
     （作詞：pause・eltvo、Rap詞：櫻井翔、作曲：Erik Lidbom、編曲：佐々木博史）
 15. **證明**（）

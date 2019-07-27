@@ -1,4 +1,4 @@
-《**Force**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/Superfly.md "wikilink")2012年10月31日發行的第16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**Force**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2012年10月31日發行的第16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介
 
@@ -22,7 +22,7 @@ Arrangement：[多保孝一](https://zh.wikipedia.org/wiki/多保孝一 "wikilin
 ### CD
 
 1.  **Force**
-      - [朝日電視台連續劇](../Page/朝日電視台.md "wikilink")《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題歌。
+      - [朝日電視台](../Page/朝日電視台.md "wikilink")連續劇《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題歌。
 2.  **無盡的遊戲（）**
 3.  **透明人間**
 

@@ -3,7 +3,7 @@
 ## 歷史與概要
 
 2013年 -
-富士重工業首度於11月20日開幕的第43屆[東京國際車展公開](../Page/東京車展.md "wikilink")[概念車型](../Page/概念車.md "wikilink")，關於車名由來，取「Legacy、Revolution、Touring」等三字組合而成\[1\]。
+富士重工業首度於11月20日開幕的第43屆[東京國際車展公開](../Page/東京車展.md "wikilink")[概念車](../Page/概念車.md "wikilink")型，關於車名由來，取「Legacy、Revolution、Touring」等三字組合而成\[1\]。
 
 2014年 -
 3月開始在日本本土市場接受預購，5月正式上市的量產車型與概念車型相去不遠。車頭設計與高性能車款[WRX近似](../Page/速霸陸WRX.md "wikilink")，大燈組與進氣格柵的輪廓相仿。從車身尺碼來看，其產品定位介於[Impreza和](../Page/速霸陸Impreza.md "wikilink")[Legacy之間](../Page/速霸陸Legacy.md "wikilink")，可視為Impreza的五門旅行車版\[2\]。
@@ -16,12 +16,12 @@ DIT型](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB16_DIT型 "wikilink
 / 5,600rpm、扭力峰值40.8kgf·m / 2,000-4,800rpm的2.0L水平對臥四缸DOHC [FA20
 DIT型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20_DIT型 "wikilink")。這兩顆動力心臟皆搭配[Lineartronic
 CVT無段式變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")、含VDC車身動態控制系統的對稱式全時四輪驅動系統（Symmetrical
-AWD）及[SI-DRIVE駕駛輔助系統](../Page/SI-DRIVE.md "wikilink")，不過1.6L的CVT變速箱僅能模擬6速，2.0L車型則因SI-DRIVE系統增加S\#高性能模式，CVT變速箱可模擬至8速。此外，高端車型另裝配[EyeSight行車安全輔助系統](../Page/EyeSight.md "wikilink")，以及可防止駕駛人忘記排入倒車檔，無預期向後加速時引擎會自動斷油的防反向後退加速碰撞管理系統（Pre-collision
+AWD）及[SI-DRIVE](../Page/SI-DRIVE.md "wikilink")駕駛輔助系統，不過1.6L的CVT變速箱僅能模擬6速，2.0L車型則因SI-DRIVE系統增加S\#高性能模式，CVT變速箱可模擬至8速。此外，高端車型另裝配[EyeSight](../Page/EyeSight.md "wikilink")行車安全輔助系統，以及可防止駕駛人忘記排入倒車檔，無預期向後加速時引擎會自動斷油的防反向後退加速碰撞管理系統（Pre-collision
 Reverse Throttle Management
 System）。此外為了提升燃油效率，1.6L車型配備了[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")，至於2.0L車型則因沒有足夠的空間放置維持CVT變速箱油壓的油泵，所以取消了此項配備\[3\]。
 
 2015年 -
-10月15日[台灣意美汽車宣佈引進該車款](../Page/台灣意美汽車.md "wikilink")，成為繼[英國後第二個海外發表市場](https://zh.wikipedia.org/wiki/英國 "wikilink")。動力心臟為1.6L[水平對臥四缸DOHC](../Page/水平對臥四缸引擎.md "wikilink")
+10月15日[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")宣佈引進該車款，成為繼[英國後第二個海外發表市場](https://zh.wikipedia.org/wiki/英國 "wikilink")。動力心臟為1.6L[水平對臥四缸DOHC](../Page/水平對臥四缸引擎.md "wikilink")
 [FB16
 DIT型](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB16_DIT型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，具有最大馬力170ps
 / 4,800-5,600rpm、扭力峰值25.5kgf·m / 1,800-4,800rpm之實力，搭配[Lineartronic
@@ -31,7 +31,7 @@ CVT變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_C
 6月10日開始販售部分改良（C型）\[4\]，[後座安全帶加入撞擊時自動緊束功能](../Page/座位安全帶.md "wikilink")，同時後座椅更換更好的碰撞緩衝結構，前車門加入上樑以增進側撞防護效果。「1.6GT
 EyeSight」車型更換新設計的17吋鋁圈，「GT-S
 EyeSight」車型新設亮珍珠座椅皮革，前車窗、後三角窗及行李廂等處加強隔音。同年7月21日開始發售性能版「STI
-Sport」車型\[5\]，動力輸出和一般車型相同，但增加STI設計的全車空力套件、18吋鋁圈等。內裝方面的方向盤、排檔頭、座椅及門飾板等處皆有[紅色車縫線](https://zh.wikipedia.org/wiki/紅色 "wikilink")，雙前座為酒紅色搭配黑色的賽車桶椅。前[懸吊系統採用倍適登](../Page/懸吊系統.md "wikilink")（Bilstein）出品的DampMatic
+Sport」車型\[5\]，動力輸出和一般車型相同，但增加STI設計的全車空力套件、18吋鋁圈等。內裝方面的方向盤、排檔頭、座椅及門飾板等處皆有[紅色車縫線](https://zh.wikipedia.org/wiki/紅色 "wikilink")，雙前座為酒紅色搭配黑色的賽車桶椅。前[懸吊系統](../Page/懸吊系統.md "wikilink")採用倍適登（Bilstein）出品的DampMatic
 II倒叉式減震筒，後懸吊亦是倍適登產品，轉向系統也經過強化。
 
 ### 2018年4月27日

@@ -1,4 +1,4 @@
-**Rihwa**（本名：**朴梨華**，\[1\]）是一位出生於[日本的](../Page/日本.md "wikilink")[韓國籍](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日語女性歌手](https://zh.wikipedia.org/wiki/日語 "wikilink")。所屬經紀公司為[Amuse](../Page/Amuse.md "wikilink")，唱片公司則是[TOY'S
+**Rihwa**（本名：**朴梨華**，\[1\]）是一位出生於[日本](../Page/日本.md "wikilink")的[韓國籍](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日語女性歌手](https://zh.wikipedia.org/wiki/日語 "wikilink")。所屬經紀公司為[Amuse](../Page/Amuse.md "wikilink")，唱片公司則是[TOY'S
 FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ## 來歷
@@ -75,7 +75,7 @@ FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>Last Love</p></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台系</a>《<a href="../Page/最後的灰姑娘.md" title="wikilink">最後的灰姑娘</a>》插入曲</p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>系《<a href="../Page/最後的灰姑娘.md" title="wikilink">最後的灰姑娘</a>》插入曲</p></td>
 </tr>
 <tr class="even">
 <td><p>春風</p></td>

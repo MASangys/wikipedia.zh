@@ -1,5 +1,5 @@
-**Verilog-A**是一种针对[模拟电路的工业标准模型语言](../Page/模拟电路.md "wikilink")，它是
-[Verilog-AMS的连续时间子集](../Page/Verilog-AMS.md "wikilink")。
+**Verilog-A**是一种针对[模拟电路](../Page/模拟电路.md "wikilink")的工业标准模型语言，它是
+[Verilog-AMS](../Page/Verilog-AMS.md "wikilink")的连续时间子集。
 
 Verilog-A被设计用来对Spectre电路仿真器（）的行为级描述进行标准化，以实现与[VHDL](../Page/VHDL.md "wikilink")（另一个IEEE标准支持的[硬件描述语言](../Page/硬件描述语言.md "wikilink")）。它从其他语言（例如MAST）吸收了对模拟电路的支持。国际Verilog开放组织（）支持
 Verilog的标准化，使得Verilog-A作为整个Verilog-AMS计划的一部分，从而实现对模拟电路和数字电路设计的处理能力。Verilog-A是Verilog-AMS项目的最初阶段发展起来的。

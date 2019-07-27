@@ -1,5 +1,5 @@
 **味觉感受器，类型2，成员46，TAS2R46**
-是一个人类基因组中*TAS2R46*基因编码的[蛋白质](../Page/蛋白质.md "wikilink")，是[苦味](https://zh.wikipedia.org/wiki/苦 "wikilink")[味觉感受器的一员](../Page/味觉.md "wikilink")。\[1\]\[2\]
+是一个人类基因组中*TAS2R46*基因编码的[蛋白质](../Page/蛋白质.md "wikilink")，是[苦味](https://zh.wikipedia.org/wiki/苦 "wikilink")[味觉](../Page/味觉.md "wikilink")感受器的一员。\[1\]\[2\]
 
 ## 另见
 

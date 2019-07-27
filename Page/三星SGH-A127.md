@@ -3,7 +3,7 @@
 |predecessor = |successor =
 [SGH-A137](https://zh.wikipedia.org/wiki/Samsung_SGH-A137 "wikilink")
 |related = |other = }} **Samsung
-SGH-A127**是[三星電子發布於](../Page/三星電子.md "wikilink")2007年的手機。它附有一個0.3萬像素的攝像頭。\[1\]
+SGH-A127**是[三星電子](../Page/三星電子.md "wikilink")發布於2007年的手機。它附有一個0.3萬像素的攝像頭。\[1\]
 
 ## 參考
 

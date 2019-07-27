@@ -1,5 +1,5 @@
 《**GIFT of
-SMAP**》是日本男子偶像组合[SMAP的第](../Page/SMAP.md "wikilink")20张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。于2012年8月8日由[Victor
+SMAP**》是日本男子偶像组合[SMAP](../Page/SMAP.md "wikilink")的第20张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。于2012年8月8日由[Victor
 Entertainment发行](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 解说
@@ -7,10 +7,10 @@ Entertainment发行](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilin
   - 2012年6月22日，在发表巡演的同时也发表了将要发行本张专辑的消息\[1\]。
   - 以本张专辑收录曲为主构成的巡回演唱会“”于2012年8月23日至12月24日举行。
   - 标题的含义是“作为组合的第20张原创专辑，要呈现给歌迷一份完美的礼物”\[2\]。
-  - 专辑中收录的[香取慎吾的独唱曲](../Page/香取慎吾.md "wikilink")《》是2012年11月28日他与事务所后辈[山下智久组合成的限定组合](../Page/山下智久.md "wikilink")“The
+  - 专辑中收录的[香取慎吾](../Page/香取慎吾.md "wikilink")的独唱曲《》是2012年11月28日他与事务所后辈[山下智久](../Page/山下智久.md "wikilink")组合成的限定组合“The
     MONSTERS”名义的歌曲的翻唱版本。
   - 专辑中收录曲《天使之心》是对于歌曲《》站在女性的立场上回答的歌曲\[3\]。
-  - 这张专辑在[Oricon专辑周榜上获得了第一名的成绩](../Page/Oricon公信榜.md "wikilink")。对于已经出道超过二十年的组合来说，仍能同时取得单曲与专辑周榜第1名的成绩是较少见的，在SMAP之前只有[南方之星](../Page/南方之星.md "wikilink")（）与[B'z两组曾达此高度](../Page/B'z.md "wikilink")\[4\]。
+  - 这张专辑在[Oricon专辑周榜上获得了第一名的成绩](../Page/Oricon公信榜.md "wikilink")。对于已经出道超过二十年的组合来说，仍能同时取得单曲与专辑周榜第1名的成绩是较少见的，在SMAP之前只有[南方之星](../Page/南方之星.md "wikilink")（）与[B'z](../Page/B'z.md "wikilink")两组曾达此高度\[4\]。
 
 与之前专辑不同，本张专辑是以以下四种不同版本发行的。
 
@@ -137,17 +137,17 @@ GIFT留言卡封入</p></td>
       - 作詞： / 作曲、編曲：[Marty
         Friedman](https://zh.wikipedia.org/wiki/马蒂·弗里德曼 "wikilink")
         / Strings Arrangement：清水俊也
-      - [木村拓哉的独唱曲](../Page/木村拓哉.md "wikilink")。
+      - [木村拓哉](../Page/木村拓哉.md "wikilink")的独唱曲。
 3.  《Special Thanks》
       - 作詞：micca / 作曲、編曲： / Strings Arrangement：中島信行（）
       - [稲垣吾郎的独唱曲](https://zh.wikipedia.org/wiki/稲垣吾郎 "wikilink")。
 4.  《唐獅子牡丹》
       - 作詞：水城一狼、矢野亮 / 作曲：水城一狼 / 編曲： / 管弦乐编曲：
-      - [草彅剛的独唱曲](../Page/草彅剛.md "wikilink")。[高仓健乐曲的翻唱](../Page/高仓健.md "wikilink")。
+      - [草彅剛](../Page/草彅剛.md "wikilink")的独唱曲。[高仓健](../Page/高仓健.md "wikilink")乐曲的翻唱。
 5.  《》
       - Music and Words : Shingo Katori, [Tomohisa
         Yamashita](../Page/山下智久.md "wikilink") / Produced by
-      - [香取慎吾的独唱曲](../Page/香取慎吾.md "wikilink")。
+      - [香取慎吾](../Page/香取慎吾.md "wikilink")的独唱曲。
 6.  《CRAZY FIVE》　
       - 作詞、作曲、編曲：N.MAPPY、宮下浩司、宮下昌也
 

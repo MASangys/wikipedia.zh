@@ -1,11 +1,11 @@
-《**Ring**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年11月7日發行。
+《**Ring**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年11月7日發行。
 
 ## 概述
 
   - [平井堅](../Page/平井堅.md "wikilink")2002年第4張單曲，亦為第五張專輯《[LIFE
     is...](../Page/LIFE_is....md "wikilink")》先行單曲。
-  - [竹野內豐主演的日劇](../Page/竹野內豐.md "wikilink")《心理醫生》主題曲。
-  - 本人首次未參與[音樂錄影帶的演出](../Page/音樂錄影帶.md "wikilink")。
+  - [竹野內豐](../Page/竹野內豐.md "wikilink")主演的日劇《心理醫生》主題曲。
+  - 本人首次未參與[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")的演出。
 
 ## 收錄曲目
 
@@ -21,7 +21,7 @@
 
 ## 紀錄
 
-  - 接續《[爺爺的古老大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")》奪下[Oricon公信榜冠軍後](../Page/Oricon公信榜.md "wikilink")，個人第二張冠軍單曲。
+  - 接續《[爺爺的古老大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")》奪下[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")冠軍後，個人第二張冠軍單曲。
   - 獲得SPACE SHOWER TV「SPACE SHOWER MUSIC VIDEO AWARD '03」BEST MALE
     VIDEO部門獎項。
 

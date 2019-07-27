@@ -1,6 +1,6 @@
 **Apple
 推送通知服务**是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2009年6月17日随[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
-3.0推出的一项服务。\[1\]它通过长IP连接[推送技术从第三方应用向苹果设备提供推送](../Page/推送技术.md "wikilink")，通知中可能包括标记、声音、提醒/横幅。在[iOS
+3.0推出的一项服务。\[1\]它通过长IP连接[推送技术](../Page/推送技术.md "wikilink")从第三方应用向苹果设备提供推送，通知中可能包括标记、声音、提醒/横幅。在[iOS
 5中](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")，[通知中心加强了推送和本地通知的用户体验](https://zh.wikipedia.org/wiki/通知中心 "wikilink")。Apple
 推送通知服务也以API的形式添加到了[Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") v10.7
@@ -8,8 +8,8 @@ X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") v10.7
 10.8 “Mountain
 Lion”中加以改进成为](https://zh.wikipedia.org/wiki/OS_X_10.8 "wikilink")[通知中心](https://zh.wikipedia.org/wiki/通知中心 "wikilink")。
 
-苹果在2008年6月9日首次公布这项服务并在9月发布更新，然而据[斯科特·福斯特尔在](../Page/斯科特·福斯特尔.md "wikilink")2009年3月17日iOS
-3.0发布会上的说法，这项更新因在因扩展性方面“压倒性”的问题的重组而延后了。两场发布会上福斯特尔都提到在接收通知方面，推送通知相较[后台进程](../Page/后台进程.md "wikilink")（使用）能更好地维持[电池寿命](../Page/电池.md "wikilink")。\[3\]
+苹果在2008年6月9日首次公布这项服务并在9月发布更新，然而据[斯科特·福斯特尔](../Page/斯科特·福斯特尔.md "wikilink")在2009年3月17日iOS
+3.0发布会上的说法，这项更新因在因扩展性方面“压倒性”的问题的重组而延后了。两场发布会上福斯特尔都提到在接收通知方面，推送通知相较[后台进程](../Page/后台进程.md "wikilink")（使用）能更好地维持[电池](../Page/电池.md "wikilink")寿命。\[3\]
 
 在Mac OS X Lion上，应用也可以使用与iOS相同的API来向Mac OS X上的程序推送信息。[OS X Mountain
 Lion发布后](../Page/OS_X_Mountain_Lion.md "wikilink")，用户可以通过[通知中心收取推送通知](https://zh.wikipedia.org/wiki/通知中心 "wikilink")。如果推送信息时应用并未运行，则会有数字标记出现且应用并会被添加至dock中（直到标记被清除）来提醒用户。

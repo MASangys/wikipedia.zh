@@ -1,16 +1,16 @@
-《**橫山由依（AKB48）的優雅巡禮**》（）是一個由[日本](../Page/日本.md "wikilink")[關西電視台所製作播放的](../Page/關西電視台.md "wikilink")，於2012年7月18日開播，每月播放一集。此節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48成員](../Page/AKB48.md "wikilink")[橫山由依第一個個人冠名節目](../Page/橫山由依.md "wikilink")，由出身於[京都府的橫山實地走訪故鄉的名勝](https://zh.wikipedia.org/wiki/京都府 "wikilink")，介紹京都當地的傳統文化。節目的第一季《**京都‧美的音色**》（）在播出12集之後，於2013年6月19日完結，並自同年7月17日接續播出第二季《**京都
-色彩日記**》（）。除了製作節目的關西電視台外，此節目也有在[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS富士上播出](../Page/BS富士.md "wikilink")。
+《**橫山由依（AKB48）的優雅巡禮**》（）是一個由[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")所製作播放的，於2012年7月18日開播，每月播放一集。此節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")成員[橫山由依](../Page/橫山由依.md "wikilink")第一個個人冠名節目，由出身於[京都府的橫山實地走訪故鄉的名勝](https://zh.wikipedia.org/wiki/京都府 "wikilink")，介紹京都當地的傳統文化。節目的第一季《**京都‧美的音色**》（）在播出12集之後，於2013年6月19日完結，並自同年7月17日接續播出第二季《**京都
+色彩日記**》（）。除了製作節目的關西電視台外，此節目也有在[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS富士](../Page/BS富士.md "wikilink")上播出。
 
 ## 簡介
 
-橫山由依出身於京都府[木津川市](../Page/木津川市.md "wikilink")，在成員大都來自[關東地區各縣的AKB](https://zh.wikipedia.org/wiki/關東地區 "wikilink")48之中是少數的特例，因此經常在團體內擔任[關西地區的代言角色](https://zh.wikipedia.org/wiki/關西地區 "wikilink")，並曾經在第一季節目播出的2012至2013年間，限期兼任以關西為主要活動範圍的姊妹團體[NMB48的成員](../Page/NMB48.md "wikilink")。橫山除了本身就是以京都知名的古蹟[金閣寺作為自己的劇場自我介紹語之外](https://zh.wikipedia.org/wiki/金閣寺 "wikilink")，也常會出席各類[綜藝節目或](../Page/綜藝節目.md "wikilink")擔任京都的採訪員。在《橫山由依（AKB48）的優雅巡禮》
+橫山由依出身於京都府[木津川市](../Page/木津川市.md "wikilink")，在成員大都來自[關東地區各縣的AKB](https://zh.wikipedia.org/wiki/關東地區 "wikilink")48之中是少數的特例，因此經常在團體內擔任[關西地區的代言角色](https://zh.wikipedia.org/wiki/關西地區 "wikilink")，並曾經在第一季節目播出的2012至2013年間，限期兼任以關西為主要活動範圍的姊妹團體[NMB48](../Page/NMB48.md "wikilink")的成員。橫山除了本身就是以京都知名的古蹟[金閣寺作為自己的劇場自我介紹語之外](https://zh.wikipedia.org/wiki/金閣寺 "wikilink")，也常會出席各類[綜藝節目](../Page/綜藝節目.md "wikilink")或擔任京都的採訪員。在《橫山由依（AKB48）的優雅巡禮》
 節目中，她首度以個人主持[外景採訪的方式](https://zh.wikipedia.org/wiki/外景 "wikilink")，在每次節目中選擇京都的一個特定地區，進行較為深入的散步尋訪，或是選定特定主題，在京都各地拜訪相關的人物、機關或地點。節目的內容包含了景點的介紹，訪問當地的店家與相關的專家，或是介紹試吃各地的傳統或特色食物等。
 
-與一般的旅遊節目不太相同的是，由於第一季的節目《京都‧美的音色》作品名稱中就強調了「[聲音](https://zh.wikipedia.org/wiki/聲音 "wikilink")」這個要素，因此不管是景點或是人物採訪，都是先傾聽採訪場合的獨特聲音作為話題起點，例如[西陣的工匠在製作](../Page/西陣.md "wikilink")[西陣織時](https://zh.wikipedia.org/wiki/西陣織 "wikilink")[織布機獨特的敲打聲](https://zh.wikipedia.org/wiki/織布機 "wikilink")，風吹過[嵯峨野的](https://zh.wikipedia.org/wiki/嵯峨野 "wikilink")[竹林時所產生的沙沙聲](../Page/竹.md "wikilink")，或[祇園的](../Page/祇園.md "wikilink")[舞妓在走路時](../Page/舞妓.md "wikilink")（京都方言稱為「」）上的[鈴鐺所發出的響聲等](https://zh.wikipedia.org/wiki/鈴 "wikilink")，再擴及到周遭環境的文化歷史之美，此外在每集節目的末尾都有一個「由依的日記」（由依's
+與一般的旅遊節目不太相同的是，由於第一季的節目《京都‧美的音色》作品名稱中就強調了「[聲音](https://zh.wikipedia.org/wiki/聲音 "wikilink")」這個要素，因此不管是景點或是人物採訪，都是先傾聽採訪場合的獨特聲音作為話題起點，例如[西陣](../Page/西陣.md "wikilink")的工匠在製作[西陣織時](https://zh.wikipedia.org/wiki/西陣織 "wikilink")[織布機獨特的敲打聲](https://zh.wikipedia.org/wiki/織布機 "wikilink")，風吹過[嵯峨野的](https://zh.wikipedia.org/wiki/嵯峨野 "wikilink")[竹](../Page/竹.md "wikilink")林時所產生的沙沙聲，或[祇園](../Page/祇園.md "wikilink")的[舞妓](../Page/舞妓.md "wikilink")在走路時（京都方言稱為「」）上的[鈴鐺所發出的響聲等](https://zh.wikipedia.org/wiki/鈴 "wikilink")，再擴及到周遭環境的文化歷史之美，此外在每集節目的末尾都有一個「由依的日記」（由依's
 Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，搭配簡短的手寫感言與旁白，總結該集節目的內容。
 
 繼以聲音為主題的第一季節目結束後，第二季《京都
-色彩日記》則改以「[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")」作為核心話題，自2013年7月17日起於每個月的第三個星期三深夜（相當於週四凌晨）1時58分播放，此外在每集的末尾亦維持第一季「由依的日記」小單元，但第二季是以橫山手繪的繪圖日記來回顧並總結該集內容，此外在2014年6月11日播出的節目中，橫山宣布了第二季將會持續邁入第二年的播出，並製作開播以來的首集特別篇，除會邀請同為AKB48成員的[北原里英擔任特別來賓外](../Page/北原里英.md "wikilink")\[1\]，特別篇將會有90分鐘的延長播出。
+色彩日記》則改以「[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")」作為核心話題，自2013年7月17日起於每個月的第三個星期三深夜（相當於週四凌晨）1時58分播放，此外在每集的末尾亦維持第一季「由依的日記」小單元，但第二季是以橫山手繪的繪圖日記來回顧並總結該集內容，此外在2014年6月11日播出的節目中，橫山宣布了第二季將會持續邁入第二年的播出，並製作開播以來的首集特別篇，除會邀請同為AKB48成員的[北原里英](../Page/北原里英.md "wikilink")擔任特別來賓外\[1\]，特別篇將會有90分鐘的延長播出。
 
 ## 節目內容
 
@@ -90,7 +90,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>守護傳統的美食之音色<br />
 （）</p></td>
 <td><p>京都各地</p></td>
-<td><p>工匠、<a href="https://zh.wikipedia.org/wiki/鱉" title="wikilink">鱉料理料亭</a>、<a href="../Page/金平糖.md" title="wikilink">金平糖老舖</a>、名店</p></td>
+<td><p>工匠、<a href="https://zh.wikipedia.org/wiki/鱉" title="wikilink">鱉料理料亭</a>、<a href="../Page/金平糖.md" title="wikilink">金平糖</a>老舖、名店</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -119,10 +119,10 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>5月22日</p></td>
-<td><p>在<a href="../Page/茶.md" title="wikilink">茶之里宇治才聽得到的音色</a><br />
+<td><p>在<a href="../Page/茶.md" title="wikilink">茶</a>之里宇治才聽得到的音色<br />
 （）</p></td>
 <td><p><a href="../Page/宇治市.md" title="wikilink">宇治</a></p></td>
-<td><p><a href="../Page/和束町.md" title="wikilink">和束町茶園</a>、<a href="../Page/平等院.md" title="wikilink">平等院參道商店街</a>、<a href="https://zh.wikipedia.org/wiki/宇治茶" title="wikilink">宇治茶茶店</a>、老舖茶店「通園」</p></td>
+<td><p><a href="../Page/和束町.md" title="wikilink">和束町</a>茶園、<a href="../Page/平等院.md" title="wikilink">平等院</a>參道商店街、<a href="https://zh.wikipedia.org/wiki/宇治茶" title="wikilink">宇治茶茶店</a>、老舖茶店「通園」</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -130,7 +130,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>京都的工匠所發出的音色<br />
 （）</p></td>
 <td><p>京都各地</p></td>
-<td><p>石藝工匠、茶碗坂（）<a href="../Page/清水燒.md" title="wikilink">清水燒老舖</a>「東哉」、<a href="https://zh.wikipedia.org/wiki/能面" title="wikilink">能面師工房</a></p></td>
+<td><p>石藝工匠、茶碗坂（）<a href="../Page/清水燒.md" title="wikilink">清水燒</a>老舖「東哉」、<a href="https://zh.wikipedia.org/wiki/能面" title="wikilink">能面師工房</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -170,7 +170,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>從大原的里看見的京都色彩<br />
 （）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大原_(京都市)" title="wikilink">大原</a></p></td>
-<td><p>「」的<a href="../Page/紫蘇.md" title="wikilink">紫蘇京漬</a>、<a href="https://zh.wikipedia.org/wiki/三千院" title="wikilink">三千院</a>、、「」品嘗大原的蔬菜料理</p></td>
+<td><p>「」的<a href="../Page/紫蘇.md" title="wikilink">紫蘇</a>京漬、<a href="https://zh.wikipedia.org/wiki/三千院" title="wikilink">三千院</a>、、「」品嘗大原的蔬菜料理</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -186,7 +186,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>從京都看見的秋色<br />
 （）</p></td>
 <td><p>京都各地</p></td>
-<td><p>和菓屋「甘春堂」、和服店「丸榮（紫織庵）」、店「Happy Bicycle」、、<a href="../Page/懷石料理.md" title="wikilink">懷石料理店</a>「美濃幸」</p></td>
+<td><p>和菓屋「甘春堂」、和服店「丸榮（紫織庵）」、店「Happy Bicycle」、、<a href="../Page/懷石料理.md" title="wikilink">懷石料理</a>店「美濃幸」</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -243,7 +243,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>京都 的鞍馬和<a href="https://zh.wikipedia.org/wiki/貴船" title="wikilink">貴船</a><br />
 （）</p></td>
 <td><p><a href="../Page/左京區.md" title="wikilink">左京區</a></p></td>
-<td><p>「多聞堂」品嘗<a href="../Page/源義經.md" title="wikilink">牛若餅</a>、「渡邊本舖」遇見<a href="../Page/天狗_(日本).md" title="wikilink">天狗面具</a>、「鞍馬辻井」品嘗<a href="../Page/花椒.md" title="wikilink">花椒與木芽煮</a>、<a href="https://zh.wikipedia.org/wiki/鞍馬寺" title="wikilink">鞍馬寺</a>、貴船川上的<a href="https://zh.wikipedia.org/wiki/川床" title="wikilink">川床料理店</a>「」品嘗<a href="https://zh.wikipedia.org/wiki/素麵#流水素麵" title="wikilink">流水素麵與川床料理</a></p></td>
+<td><p>「多聞堂」品嘗<a href="../Page/源義經.md" title="wikilink">牛若餅</a>、「渡邊本舖」遇見<a href="../Page/天狗_(日本).md" title="wikilink">天狗面具</a>、「鞍馬辻井」品嘗<a href="../Page/花椒.md" title="wikilink">花椒</a>與木芽煮、<a href="https://zh.wikipedia.org/wiki/鞍馬寺" title="wikilink">鞍馬寺</a>、貴船川上的<a href="https://zh.wikipedia.org/wiki/川床" title="wikilink">川床料理店</a>「」品嘗<a href="https://zh.wikipedia.org/wiki/素麵#流水素麵" title="wikilink">流水素麵與川床料理</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -259,7 +259,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>由依與里英在祇園祭正盛時的京都二人之旅<br />
 （）</p></td>
 <td><p>京都各地</p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/錦市場" title="wikilink">錦市場</a>」、販售京都點心<a href="../Page/八橋.md" title="wikilink">八橋的名店</a>「」總店品嚐並體驗製作八橋、<a href="https://zh.wikipedia.org/wiki/宮川町" title="wikilink">宮川町的和服體驗店</a>「舞香」、建仁寺、體驗搭乘<a href="../Page/人力車.md" title="wikilink">人力車</a>、日式料理店「鳥彌三」品嘗雞肉料理</p></td>
+<td><p>「<a href="https://zh.wikipedia.org/wiki/錦市場" title="wikilink">錦市場</a>」、販售京都點心<a href="../Page/八橋.md" title="wikilink">八橋</a>的名店「」總店品嚐並體驗製作八橋、<a href="https://zh.wikipedia.org/wiki/宮川町" title="wikilink">宮川町的和服體驗店</a>「舞香」、建仁寺、體驗搭乘<a href="../Page/人力車.md" title="wikilink">人力車</a>、日式料理店「鳥彌三」品嘗雞肉料理</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -267,7 +267,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p><a href="../Page/北野天滿宮.md" title="wikilink">北野天滿宮</a>、<a href="https://zh.wikipedia.org/wiki/上七軒" title="wikilink">上七軒遇見的夏天的色彩</a><br />
 （）</p></td>
 <td><p><a href="../Page/京都市.md" title="wikilink">京都市</a></p></td>
-<td><p><a href="../Page/一條通.md" title="wikilink">一條通的大將軍商店街</a>、北野天滿宮、豆腐店「」、舞技變裝體驗店「」</p></td>
+<td><p><a href="../Page/一條通.md" title="wikilink">一條通</a>的大將軍商店街、北野天滿宮、豆腐店「」、舞技變裝體驗店「」</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -291,7 +291,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>秋之京都藝術漫步<br />
 （）</p></td>
 <td><p>京都市</p></td>
-<td><p>體驗<a href="../Page/池坊.md" title="wikilink">池坊流插花藝術</a>、、<a href="../Page/京都國立博物館.md" title="wikilink">京都國立博物館</a></p></td>
+<td><p>體驗<a href="../Page/池坊.md" title="wikilink">池坊</a>流插花藝術、、<a href="../Page/京都國立博物館.md" title="wikilink">京都國立博物館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -348,7 +348,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>京都的食堂<br />
 （）</p></td>
 <td><p>京都市</p></td>
-<td><p>「丸二食堂」、「真如堂」、<a href="../Page/同志社大學.md" title="wikilink">同志社大學內的</a>「Hamac de Paradis 寒梅館」、「篠田屋」</p></td>
+<td><p>「丸二食堂」、「真如堂」、<a href="../Page/同志社大學.md" title="wikilink">同志社大學</a>內的「Hamac de Paradis 寒梅館」、「篠田屋」</p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
@@ -369,7 +369,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <tr class="odd">
 <td><p>27</p></td>
 <td><p>9月16日</p></td>
-<td><p>京都・龜岡 <a href="../Page/明智光秀.md" title="wikilink">明智光秀公治下之地之旅</a>～時為五月 細雨不絕～<br />
+<td><p>京都・龜岡 <a href="../Page/明智光秀.md" title="wikilink">明智光秀</a>公治下之地之旅～時為五月 細雨不絕～<br />
 （）</p></td>
 <td><p><a href="../Page/龜岡市.md" title="wikilink">龜岡市</a></p></td>
 <td><p>「將大鍛刀場」、磨刀石店「砥取家」、料理店「」品嘗武將餐</p></td>
@@ -442,7 +442,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <tr class="even">
 <td><p>36</p></td>
 <td><p>6月22日</p></td>
-<td><p>～<a href="../Page/平家落人.md" title="wikilink">平家落人的村落</a> 新綠的～<br />
+<td><p>～<a href="../Page/平家落人.md" title="wikilink">平家落人</a>的村落 新綠的～<br />
 （）</p></td>
 <td><p>左京區</p></td>
 <td><p>體驗包<a href="https://zh.wikipedia.org/wiki/粽子" title="wikilink">粽子</a>、野菜料理店「」、<a href="https://zh.wikipedia.org/wiki/秸稈" title="wikilink">秸稈編織品店</a>「花背WARA」</p></td>
@@ -493,7 +493,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>～橫山公主 守衛京都的修行之卷～<br />
 （）</p></td>
 <td><p>京都市</p></td>
-<td><p><a href="../Page/伊賀流.md" title="wikilink">伊賀流忍者道場</a>、忍者主題餐廳「」，在「」體驗劍舞</p></td>
+<td><p><a href="../Page/伊賀流.md" title="wikilink">伊賀流</a>忍者道場、忍者主題餐廳「」，在「」體驗劍舞</p></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>

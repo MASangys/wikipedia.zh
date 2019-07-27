@@ -1,4 +1,4 @@
-**MS-CHAP**是[微软版本的](../Page/微软.md "wikilink")[挑战握手认证协议](https://zh.wikipedia.org/wiki/挑战握手认证协议 "wikilink")（CHAP）。这个协议有两个版本，MS-CHAPv1（在RFC
+**MS-CHAP**是[微软](../Page/微软.md "wikilink")版本的[挑战握手认证协议](https://zh.wikipedia.org/wiki/挑战握手认证协议 "wikilink")（CHAP）。这个协议有两个版本，MS-CHAPv1（在RFC
 2433中定义）和MS-CHAPv2（在RFC 2759中定义）。MS-CHAPv2在[Windows NT
 4.0](../Page/Windows_NT_4.0.md "wikilink") SP4中引入，后来被加到[Windows
 98](../Page/Windows_98.md "wikilink")（通过"Windows 98 Dial-Up Networking
@@ -7,7 +7,7 @@ Security Upgrade Release"）和[Windows
 Performance & Security Update for MS Windows 95"升级）中去。[Windows
 Vista不再支持MS](../Page/Windows_Vista.md "wikilink")-CHAPv1。
 
-MS-CHAP被当做一个认证选项，用在微软为[虚拟专用网络而实现的](https://zh.wikipedia.org/wiki/虚拟专用网络 "wikilink")[PPTP协议中](https://zh.wikipedia.org/wiki/PPTP "wikilink")。它还被当做用来提供[WiFi安全的](https://zh.wikipedia.org/wiki/WiFi "wikilink")[RADIUS服务器的一个认证选项](https://zh.wikipedia.org/wiki/RADIUS "wikilink")，后者使用[WPA企业版协议](../Page/WPA.md "wikilink")。此后，它更被用作[受保护可扩展身份验证协议](https://zh.wikipedia.org/wiki/受保护可扩展身份验证协议 "wikilink")（PEAP）的主要安全选项。
+MS-CHAP被当做一个认证选项，用在微软为[虚拟专用网络而实现的](https://zh.wikipedia.org/wiki/虚拟专用网络 "wikilink")[PPTP协议中](https://zh.wikipedia.org/wiki/PPTP "wikilink")。它还被当做用来提供[WiFi安全的](https://zh.wikipedia.org/wiki/WiFi "wikilink")[RADIUS服务器的一个认证选项](https://zh.wikipedia.org/wiki/RADIUS "wikilink")，后者使用[WPA](../Page/WPA.md "wikilink")企业版协议。此后，它更被用作[受保护可扩展身份验证协议](https://zh.wikipedia.org/wiki/受保护可扩展身份验证协议 "wikilink")（PEAP）的主要安全选项。
 
 与CHAP相比，MS-CHAP：
 

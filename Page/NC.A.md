@@ -1,10 +1,10 @@
 **NC.A**（）是[韓國的女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，NC.A是「New
 Creative Artist」的簡寫\[1\]。其出道單曲《實習老師》在2013年8月12日正式發行，並在8月21日的音樂節目[Show
-Champion作為出道舞台](../Page/Show_Champion.md "wikilink")\[2\]。該曲MV有兩個版本，第一版本由演員[鄭滿植演出](../Page/鄭滿植.md "wikilink")，而8月14日公開的第二版邀請[Girl's
-Day的](../Page/Girl's_Day.md "wikilink")[惠利和演員](../Page/惠利.md "wikilink")[徐芝釋演出](../Page/徐芝釋.md "wikilink")。2017年2月，JJ
+Champion作為出道舞台](../Page/Show_Champion.md "wikilink")\[2\]。該曲MV有兩個版本，第一版本由演員[鄭滿植](../Page/鄭滿植.md "wikilink")演出，而8月14日公開的第二版邀請[Girl's
+Day的](../Page/Girl's_Day.md "wikilink")[惠利](../Page/惠利.md "wikilink")和演員[徐芝釋](../Page/徐芝釋.md "wikilink")演出。2017年2月，JJ
 Holic
 Media經過兩星期的官方粉絲名稱招募活動後，確定NC.A的官方粉絲名稱為Ndorphin（앤돌핀）。2018年2月11日，在选秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的最後一集中，NC.A獲得第3名，進入期間限定團體[UNI.T出道](../Page/UNI.T.md "wikilink")，並於5月18日於[Music
+Unit](../Page/The_Unit.md "wikilink")》的最後一集中，NC.A獲得第3名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道，並於5月18日於[Music
 Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 ## 音樂作品
@@ -263,6 +263,18 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 <td><ol>
 <li>在練歌房裡 (노래방에서)</li>
 <li>在練歌房裡 (노래방에서) (Inst.)</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p><strong>14th</strong></p></td>
+<td><p>第十四張單曲《<strong>I’m Fine</strong>》</p>
+<ul>
+<li>發行日期：2018年10月13日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ol>
+<li>I’m Fine</li>
+<li>I’m Fine (Inst.)</li>
 </ol></td>
 </tr>
 </tbody>

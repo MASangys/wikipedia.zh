@@ -1,4 +1,4 @@
-《**C++程式語言**》（英語：）是第一本介紹[C++的書籍](../Page/C++.md "wikilink")，作者是「C++之父」[比雅尼·斯特劳斯特鲁普](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")（），他是此[程式語言的設計者](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。第一版《C++程式語言》於1985年推出。
+《**C++程式語言**》（英語：）是第一本介紹[C++](../Page/C++.md "wikilink")的書籍，作者是「C++之父」[比雅尼·斯特劳斯特鲁普](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")（），他是此[程式語言的設計者](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。第一版《C++程式語言》於1985年推出。
 
 由於沒有官方標準，這本書成為了[實質標準](https://zh.wikipedia.org/wiki/De_facto "wikilink")，引領C++不斷發展。1998年，C++才有第一個國際標準
 *ISO/IEC 14882:1998: Programming Language C++*

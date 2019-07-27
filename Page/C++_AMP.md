@@ -1,6 +1,6 @@
 C++
-AMP是[微软公司基于](../Page/微软.md "wikilink")[DirectX](../Page/DirectX.md "wikilink")
-11技术实现的一个[并行计算库](../Page/并行计算.md "wikilink")。它建立在[C++的语言规范上](../Page/C++.md "wikilink")，使得程序员可以相对容易地在数据并行硬件（如[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")）上编写并执行并行计算程序。
+AMP是[微软](../Page/微软.md "wikilink")公司基于[DirectX](../Page/DirectX.md "wikilink")
+11技术实现的一个[并行计算](../Page/并行计算.md "wikilink")库。它建立在[C++](../Page/C++.md "wikilink")的语言规范上，使得程序员可以相对容易地在数据并行硬件（如[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")）上编写并执行并行计算程序。
 
 ## 特性
 
@@ -56,7 +56,7 @@ Studio](../Page/Microsoft_Visual_Studio.md "wikilink") 2013版本\[2\]。
 ## 竞争对手
 
 在并行计算领域，C++
-AMP的对手有[NVidia公司的](https://zh.wikipedia.org/wiki/NVidia "wikilink")[CUDA技术和开放标准的](../Page/CUDA.md "wikilink")[OpenCL技术](../Page/OpenCL.md "wikilink")。
+AMP的对手有[NVidia公司的](https://zh.wikipedia.org/wiki/NVidia "wikilink")[CUDA](../Page/CUDA.md "wikilink")技术和开放标准的[OpenCL](../Page/OpenCL.md "wikilink")技术。
 
 ## 资料来源
 

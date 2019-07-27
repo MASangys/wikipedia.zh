@@ -1,13 +1,13 @@
-《**ER**》是[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")21張單曲，以特殊組合「關八戰隊」的名義發行於2012年7月25日發行，唱片公司為[Imperial
+《**ER**》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第21張單曲，以特殊組合「關八戰隊」的名義發行於2012年7月25日發行，唱片公司為[Imperial
 Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要
 
-關西傑尼斯8全部成員演出的電影《關八戰隊》的主題曲，不以「關西傑尼斯8」而是採用電影中的同名組合名義發行。是關8的八週年紀念作品，[PV由該部電影的導演](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[堤幸彦執導](../Page/堤幸彦.md "wikilink")。單曲共分初回限定盤A、初回限定盤B、通常盤三種版本。
+關西傑尼斯8全部成員演出的電影《關八戰隊》的主題曲，不以「關西傑尼斯8」而是採用電影中的同名組合名義發行。是關8的八週年紀念作品，[PV由該部電影的導演](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[堤幸彦](../Page/堤幸彦.md "wikilink")執導。單曲共分初回限定盤A、初回限定盤B、通常盤三種版本。
 
 ## 銷售成績
 
-在2012年8月6日的[Oricon公信榜週榜上初動約](../Page/Oricon公信榜.md "wikilink")33.1萬張，奪得冠軍，也創下以電影當中的角色人物名義發行單曲的最高銷售量（前紀錄為[赤西仁以](../Page/赤西仁.md "wikilink")「LANDS」的名義所發行的單曲《[BANDAGE](../Page/BANDAGE.md "wikilink")》，銷售約21.1萬張）。此外，關西傑尼斯8單曲首週賣出突破30萬張，是繼《[無責任Hero](../Page/無責任Hero.md "wikilink")》以來的第二作\[1\]。
+在2012年8月6日的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜上初動約33.1萬張，奪得冠軍，也創下以電影當中的角色人物名義發行單曲的最高銷售量（前紀錄為[赤西仁](../Page/赤西仁.md "wikilink")以「LANDS」的名義所發行的單曲《[BANDAGE](../Page/BANDAGE.md "wikilink")》，銷售約21.1萬張）。此外，關西傑尼斯8單曲首週賣出突破30萬張，是繼《[無責任Hero](../Page/無責任Hero.md "wikilink")》以來的第二作\[1\]。
 
 ## 收錄內容
 

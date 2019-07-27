@@ -1,5 +1,5 @@
 **M4M**（）是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube
-Entertainment與](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[中国北京星天传媒共同企劃](https://zh.wikipedia.org/wiki/中国 "wikilink")，於2013年推出的華人男子團體。成員包括來自[香港的朱兆豐](../Page/香港.md "wikilink")，[江苏的于斌](https://zh.wikipedia.org/wiki/江苏 "wikilink")，[台灣的羅宇勝和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[浙江的方逸倫](https://zh.wikipedia.org/wiki/浙江 "wikilink")。2013年3月13日，以首張迷你專輯主打歌《Sadness》正式出道。M4M團體名稱是“Mystery
+Entertainment與](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[中国北京星天传媒共同企劃](https://zh.wikipedia.org/wiki/中国 "wikilink")，於2013年推出的華人男子團體。成員包括來自[香港](../Page/香港.md "wikilink")的朱兆豐，[江苏的于斌](https://zh.wikipedia.org/wiki/江苏 "wikilink")，[台灣的羅宇勝和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[浙江的方逸倫](https://zh.wikipedia.org/wiki/浙江 "wikilink")。2013年3月13日，以首張迷你專輯主打歌《Sadness》正式出道。M4M團體名稱是“Mystery
 ForMula”的縮寫，即為‘神秘方程式’之意，代表每位成員都像個性鮮明的方程式般，能充分展現個人的特色也能完美的融合在一起。
 
 ## 發展歷史

@@ -36,13 +36,13 @@ Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 ### KBS 歌詞爭議
 
 據報導，因《**Red
-Light**》歌詞內容提及重型裝備製造廠商[卡特彼勒](../Page/卡特彼勒.md "wikilink")（Caterpillar）的特定產品，被[KBS認為有廣告意圖](https://zh.wikipedia.org/wiki/KBS "wikilink")，所以遭判審查不合格\[1\]。其後，[SM娛樂為不讓f](../Page/SM娛樂.md "wikilink")(x)於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》的回歸舞台上受到任何阻擾，將「[卡特彼勒](../Page/卡特彼勒.md "wikilink")（Caterpillar）」一詞修改成「無限軌道」後再次提交審查並獲得通過\[2\]。
+Light**》歌詞內容提及重型裝備製造廠商[卡特彼勒](../Page/卡特彼勒.md "wikilink")（Caterpillar）的特定產品，被[KBS認為有廣告意圖](https://zh.wikipedia.org/wiki/KBS "wikilink")，所以遭判審查不合格\[1\]。其後，[SM娛樂](../Page/SM娛樂.md "wikilink")為不讓f(x)於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》的回歸舞台上受到任何阻擾，將「[卡特彼勒](../Page/卡特彼勒.md "wikilink")（Caterpillar）」一詞修改成「無限軌道」後再次提交審查並獲得通過\[2\]。
 
 ### Sulli暫停演藝活動
 
 7月17日，成員[Sulli缺席](../Page/崔真理.md "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》連日來的舞台活動。[SM娛樂工作人員向韓國媒體OSEN表示](../Page/SM娛樂.md "wikilink")[Sulli因生病](../Page/崔真理.md "wikilink")、身體不適的關係，而暫停f(x)的舞台活動在家休養，並將視乎[Sulli身體恢復狀況來調整行程](../Page/崔真理.md "wikilink")\[3\]。其後，f(x)韓國官方網站突然刪除f(x)的宣傳行程，此舉引來許多關於[Sulli將離開f](../Page/崔真理.md "wikilink")(x)或f(x)將會解散的猜測\[4\]。7月25日，官方公佈成員[Sulli因持續性的惡意評論和失實謠言而身心疲憊](../Page/崔真理.md "wikilink")，所以向經紀公司傳達了暫時想要休息的意願。此外，第三張正規專輯《**Red
+Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》連日來的舞台活動。[SM娛樂](../Page/SM娛樂.md "wikilink")工作人員向韓國媒體OSEN表示[Sulli因生病](../Page/崔真理.md "wikilink")、身體不適的關係，而暫停f(x)的舞台活動在家休養，並將視乎[Sulli身體恢復狀況來調整行程](../Page/崔真理.md "wikilink")\[3\]。其後，f(x)韓國官方網站突然刪除f(x)的宣傳行程，此舉引來許多關於[Sulli將離開f](../Page/崔真理.md "wikilink")(x)或f(x)將會解散的猜測\[4\]。7月25日，官方公佈成員[Sulli因持續性的惡意評論和失實謠言而身心疲憊](../Page/崔真理.md "wikilink")，所以向經紀公司傳達了暫時想要休息的意願。此外，第三張正規專輯《**Red
 Light**》的舞台活動以7月20日的SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》作結束，提前結束宣傳活動的主打歌《Red
 Light》共贏得5個一位。[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna和](../Page/朴善英.md "wikilink")[Krystal會繼續以f](../Page/鄭秀晶.md "wikilink")(x)名義進行活動，參加8月15日舉行的SMTOWN首爾演唱會和其他海外活動\[5\]。
 

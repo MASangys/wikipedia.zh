@@ -12,7 +12,7 @@
 
   - （），总部位于印度[喀拉拉邦](../Page/喀拉拉邦.md "wikilink")。
 
-  - [法赫德国王大桥](../Page/法赫德国王大桥.md "wikilink")（），衔接[巴林和](../Page/巴林.md "wikilink")[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")。
+  - [法赫德国王大桥](../Page/法赫德国王大桥.md "wikilink")（），衔接[巴林](../Page/巴林.md "wikilink")和[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")。
 
   - （），会址位于日本[北九州市](../Page/北九州市.md "wikilink")。
 

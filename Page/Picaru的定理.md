@@ -1,8 +1,8 @@
-《**Picaru的定理**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），日本[富士電視台的綜藝節目](../Page/富士電視台.md "wikilink")，2010年10月19日開始播放，2013年9月4日结束播放。節目名稱「Picaru的定理」與現實中存在的數學定理[皮卡（Picard）定理並無關係](../Page/皮卡定理.md "wikilink")。
+《**Picaru的定理**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），日本[富士電視台](../Page/富士電視台.md "wikilink")的綜藝節目，2010年10月19日開始播放，2013年9月4日结束播放。節目名稱「Picaru的定理」與現實中存在的數學定理[皮卡（Picard）定理並無關係](../Page/皮卡定理.md "wikilink")。
 
 ## 概要
 
-以年輕[搞笑藝人為演出中心](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，各種[小品劇為製作宗旨](https://zh.wikipedia.org/wiki/小品 "wikilink")。2010年10月在深夜檔開始播放，半年後即進軍全國，在[富士電視網全系列播出](../Page/富士電視網.md "wikilink")，並將播放時段提前至23點檔。2012年4月再次將播放時段提前至22點檔，成為黃金時段節目，2013年配合富士電視台改革，節目提前播放時段至星期三晚上8時。\[1\]
+以年輕[搞笑藝人為演出中心](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，各種[小品劇為製作宗旨](https://zh.wikipedia.org/wiki/小品 "wikilink")。2010年10月在深夜檔開始播放，半年後即進軍全國，在[富士電視網](../Page/富士電視網.md "wikilink")全系列播出，並將播放時段提前至23點檔。2012年4月再次將播放時段提前至22點檔，成為黃金時段節目，2013年配合富士電視台改革，節目提前播放時段至星期三晚上8時。\[1\]
 
 ## 出演者
 

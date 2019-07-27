@@ -1,5 +1,5 @@
 **Project
-Tango**是[Google的一個](../Page/Google.md "wikilink")[研發專案](https://zh.wikipedia.org/wiki/研發 "wikilink")，試圖將[人類對周遭空間與動態的感知能力賦予](../Page/人類.md "wikilink")[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")，其專案與原型機種最初在2014年2月20日透過網路首度公開。第一批原形機種共計200台，計畫於2014年3月14日分發給開發者\[1\]。
+Tango**是[Google](../Page/Google.md "wikilink")的一個[研發專案](https://zh.wikipedia.org/wiki/研發 "wikilink")，試圖將[人類](../Page/人類.md "wikilink")對周遭空間與動態的感知能力賦予[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")，其專案與原型機種最初在2014年2月20日透過網路首度公開。第一批原形機種共計200台，計畫於2014年3月14日分發給開發者\[1\]。
 
 Project
 Tango由[Google先進科技與計劃部門負責](https://zh.wikipedia.org/wiki/Google先進科技與計劃部門 "wikilink")，此部門曾在[Motorola旗下負責](https://zh.wikipedia.org/wiki/Motorola "wikilink")[Project

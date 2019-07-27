@@ -6,7 +6,7 @@ Day的成員之一](../Page/Girl's_Day.md "wikilink")，隊內擔任領舞、主
 
 曾就讀藝術高中的她，被公認為偶像界的「三大畫伯」之一\[1\]，也是一個開朗的「四次元」少女。獨特的笑聲多為她所帶給人的第一印象。
 
-2014年參與節目《[我們結婚了](../Page/我們結婚了.md "wikilink")》，與[洪宗玄組成](../Page/洪宗玄.md "wikilink")「悠閒夫婦」，因而打開海內外知名度。
+2014年參與節目《[我們結婚了](../Page/我們結婚了.md "wikilink")》，與[洪宗玄](../Page/洪宗玄.md "wikilink")組成「悠閒夫婦」，因而打開海內外知名度。
 
 2019年，與[DreamT娛樂的合約到期不續約](https://zh.wikipedia.org/wiki/DreamT娛樂 "wikilink")，離開公司。同年3月，與Awesome娛樂簽約。
 
@@ -29,7 +29,7 @@ Day的成員之一](../Page/Girl's_Day.md "wikilink")，隊內擔任領舞、主
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
-<td><p><a href="../Page/搜狐.md" title="wikilink">搜狐视频</a>-{zh-hans:网络剧;zh-hant:網絡劇;zh-tw:網路劇}-</p></td>
+<td><p><a href="../Page/搜狐.md" title="wikilink">搜狐</a>视频-{zh-hans:网络剧;zh-hant:網絡劇;zh-tw:網路劇}-</p></td>
 <td><p>《秘密天使》</p></td>
 <td><p>宥彬[2]</p></td>
 <td><p>第二女主角</p></td>
@@ -163,7 +163,7 @@ Day的成員之一](../Page/Girl's_Day.md "wikilink")，隊內擔任領舞、主
 | 2016年7月2日－8月20日                         | [tvN](../Page/TVN.md "wikilink")                                  | 《[戲劇結束之後](https://zh.wikipedia.org/wiki/戲劇結束之後 "wikilink")》                             | 拍攝演員們在演出戲劇《Iron Lady》的幕後故事                                                            |
 | 2016年10月23日                             | SBS                                                               | 《[星期天真好](../Page/星期天真好.md "wikilink")－[Running Man](../Page/Running_Man.md "wikilink")》 |                                                                                       |
 | 2017年3月23日                              | KBS2                                                              | 《[歡樂在一起](../Page/歡樂在一起.md "wikilink")》                                                  | 與惠利\[5\]                                                                              |
-| 2017年5月12日－6月2日                         | MBC                                                               | 《[無理的同居—有空房間](../Page/無理的同居.md "wikilink")》                                             | 與[金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")、[金旻鍾](../Page/金旻鍾.md "wikilink") |
+| 2017年5月12日－6月2日                         | MBC                                                               | 《[無理的同居](../Page/無理的同居.md "wikilink")—有空房間》                                             | 與[金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")、[金旻鍾](../Page/金旻鍾.md "wikilink") |
 | 2017年6月21日                              | MBC                                                               | 《[黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》           |                                                                                       |
 | 2017年8月20日                              | JTBC                                                              | 《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》                                                    | 與[崔正元](https://zh.wikipedia.org/wiki/崔正元 "wikilink")                                  |
 | 2017年10月1日－15日                          | KBS2                                                              | 《[兩天一夜](../Page/兩天一夜.md "wikilink")》                                                    |                                                                                       |

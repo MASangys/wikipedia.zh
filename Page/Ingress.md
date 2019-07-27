@@ -9,11 +9,11 @@ Labs](../Page/Niantic.md "wikilink")
 遊戲的故事背景是一群歐洲科學家偶然發現某種神秘的能量XM（Exotic
 Matter），这一能量的来源和用途无人知晓，研究人員認為可以開發並善用這能量，但另一方面卻擔心這樣的能量会影响人們的思考甚至被能量本身奴役。
 
-遊戲中有兩大主要陣營，這兩大互相爭奪主控權的全球性組織分別是「反抗軍」和「啟蒙軍」。“啟蒙军”（Enlightened，以綠色标示）陣營希望能接納這股「神秘的能量XM」，並相信這股能量能賜予人類進步與改革，其追隨者相信神秘的能量會催生影響重大的「啟蒙運動」，使全人類進化。另一派“反抗軍”（Resistance，以藍色标示）陣營則奮力捍衛並守護僅存的人性，有些人認為他們對於變化或進步感到畏懼，但反抗軍堅信這一切都是為了保護人類。\[6\]遊戲的[玩家被稱為](../Page/玩家.md "wikilink")**特工（Agent）**，兩個陣營互相角力，爭奪控制真實世界中的地標性建築或雕塑等Portal（譯作“能量塔”）。\[7\]
+遊戲中有兩大主要陣營，這兩大互相爭奪主控權的全球性組織分別是「反抗軍」和「啟蒙軍」。“啟蒙军”（Enlightened，以綠色标示）陣營希望能接納這股「神秘的能量XM」，並相信這股能量能賜予人類進步與改革，其追隨者相信神秘的能量會催生影響重大的「啟蒙運動」，使全人類進化。另一派“反抗軍”（Resistance，以藍色标示）陣營則奮力捍衛並守護僅存的人性，有些人認為他們對於變化或進步感到畏懼，但反抗軍堅信這一切都是為了保護人類。\[6\]遊戲的[玩家](../Page/玩家.md "wikilink")被稱為**特工（Agent）**，兩個陣營互相角力，爭奪控制真實世界中的地標性建築或雕塑等Portal（譯作“能量塔”）。\[7\]
 
 ## 遊戲內容
 
-遊戲內容和真實世界的地理狀況結合，遊戲會透過手持裝置的[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")、[AGPS以及](https://zh.wikipedia.org/wiki/AGPS "wikilink")[Wi-Fi資訊確認玩家的位置](../Page/Wi-Fi.md "wikilink")，而玩家可以透過遊戲的掃描器（Scanner）介面看到自身周圍的能量塔、XM或物品。遊戲地圖上各處散落著白色亮点，代表XM所在的位置，玩家在接近XM時會自動收集，而對能量塔進行任何操作均需耗用XM。能量塔主要是各種建築、雕塑、藝術品等，玩家需親自持手機接近這些能量塔，進行部署（Deploy）、入侵（Hack）、補充能量（Recharge）、發射XMP等動作。玩家在遊戲中的目標是透過連接多個本陣營控制的能量塔，建立控制場（Control
+遊戲內容和真實世界的地理狀況結合，遊戲會透過手持裝置的[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")、[AGPS以及](https://zh.wikipedia.org/wiki/AGPS "wikilink")[Wi-Fi](../Page/Wi-Fi.md "wikilink")資訊確認玩家的位置，而玩家可以透過遊戲的掃描器（Scanner）介面看到自身周圍的能量塔、XM或物品。遊戲地圖上各處散落著白色亮点，代表XM所在的位置，玩家在接近XM時會自動收集，而對能量塔進行任何操作均需耗用XM。能量塔主要是各種建築、雕塑、藝術品等，玩家需親自持手機接近這些能量塔，進行部署（Deploy）、入侵（Hack）、補充能量（Recharge）、發射XMP等動作。玩家在遊戲中的目標是透過連接多個本陣營控制的能量塔，建立控制場（Control
 Field），覆蓋最多的“Mind Units（MUs）”。\[8\]
 
 ### Portal
@@ -25,7 +25,7 @@ Field），覆蓋最多的“Mind Units（MUs）”。\[8\]
 除了遊戲中已經存在的能量塔，玩家亦可以提交申請以將新的能量塔納入Ingress。\[9\]\[10\]2015年9月3日，NIA
 Ops的Google+頁面發佈了新能量塔的提交功能即日起被暫停的消息。\[11\]從2017年開始，逐步通過增加申請條件限制恢復新能量塔的提交功能，\[12\]例如2017年4月22日仅限于韩国和巴西玩家开放申请Portal。\[13\]2017年9月26日全面开放有条件申请，并開放OPR（Operation
 Portal
-Recon）系统以允许部分符合級別的玩家參與新能量塔提交的審核工作。[Niantic对重新开放的申请条件加以限制](../Page/Niantic.md "wikilink")：
+Recon）系统以允许部分符合級別的玩家參與新能量塔提交的審核工作。[Niantic](../Page/Niantic.md "wikilink")对重新开放的申请条件加以限制：
 
   - 10级及以上的玩家才能申请
   - 每位特工在 14 天的周期内最多可以申请 14 个 Portal, 每个 Portal 申请的配额将会拥有独立的 14
@@ -84,9 +84,9 @@ Portal）。活動開始時會決定雙方球門 Portal 和分發第一批的 Sh
 分鐘跳動一次，而每一小時都會有新一批 Shard 分發（部分場地或會增加球門 Portal），直到第四批（最後一批）為止。約 5
 小時後，Shard會停止跳動，活動亦告結束。
 
-### Ingress FS
+### Ingress First Saturday （IFS）
 
-每月第一个周六举行的的Ingress FS活动由本地玩家社群自行组织。
+每月第一个周六举行的跨阵营活动，由本地玩家社群自行组织。
 
 ### \#NL-1331
 
@@ -99,7 +99,7 @@ Lima（NL-1331）车辆（该车辆亦是一处移动的能量塔）在全世界
 
 ## 评价
 
-在2015年的[日本游戏大奖上](../Page/日本游戏大奖.md "wikilink")，《Ingress》获得了最佳游戏设计奖。\[17\]
+在2015年的[日本游戏大奖](../Page/日本游戏大奖.md "wikilink")上，《Ingress》获得了最佳游戏设计奖。\[17\]
 
 ### 玩家数量
 
@@ -115,7 +115,7 @@ Guide透露目前有820万玩家。截止至2017年8月，來自[台灣的玩家
 坐标系统](https://zh.wikipedia.org/wiki/中华人民共和国测绘限制#GCJ-02 "wikilink")，该系统对GPS使用的[WGS84
 坐标系统进行偏移](../Page/世界大地测量系统.md "wikilink")，所以其地图与实际坐标有500米左右的偏移（即「[火星坐标](../Page/中华人民共和国测绘限制.md "wikilink")」）。
 
-2016年7月，Ingress 的地标数据被运用于[任天堂和](../Page/任天堂.md "wikilink")[Niantic
+2016年7月，Ingress 的地标数据被运用于[任天堂](../Page/任天堂.md "wikilink")和[Niantic
 Labs](https://zh.wikipedia.org/wiki/Niantic_Labs "wikilink")
 共同开发的新游戏《[精灵宝可梦GO](../Page/精靈寶可夢GO.md "wikilink")》的道馆和精灵宝可梦商店的位置。
 
@@ -125,11 +125,20 @@ Go](https://zh.wikipedia.org/wiki/Pokémon_Go "wikilink")）的地图来源更�
 
 ## 電視動畫
 
-2018年3月8日[日本](../Page/日本.md "wikilink")[富士電視台於新作動畫發表會上公開將製作同名改編動畫](../Page/富士電視台.md "wikilink")，預計於2018年10月放送。並於發表會當日啟動官方網站和發布40秒短版PV\[21\]\[22\]。
+2018年3月8日[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於新作動畫發表會上公開將製作同名改編動畫，預計於2018年10月放送。並於發表會當日啟動官方網站和發布40秒短版PV\[21\]\[22\]。
 
 動畫將由同遊戲公司旗下另一款遊戲「[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")」的CG模組師櫻木優平擔任本作監督，此外在電視台進行動畫放送時，遊戲內也會有各種連動活動\[23\]\[24\]\[25\]。
 
 ### 登場人物
+
+  - 翠川 诚（CV：中岛良树）
+  - 莎拉·科波拉 （CV：上田丽奈）
+  - 杰克·诺曼（CV：喜山茂雄）
+  - ADA（A Detection Algorithm）（CV：绪方惠美）
+  - 汉克·约翰逊（CV：佐佐木启夫）
+  - 克里斯托弗·布兰特（CV：新垣樽助）
+  - 刘天华（CV：鸟海浩辅）
+  - 国木田慈恩（CV：利根健太朗）
 
 ### 製作人員
 
@@ -153,7 +162,7 @@ Prime的宣传视频。\[26\]对此，大多数玩家\[27\]认为Ingress
 Prime就是玩家苦思久等的Ingress 2.0，但是否是Ingress
 2.0以及和对现有Ingress账户内的道具是否共通仍需等待正式版发布。\[28\][iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[TestFlight版本已经被证明放出](https://zh.wikipedia.org/wiki/TestFlight "wikilink")。\[29\]2018年11月6日，Ingress
 Prime Android版作为旧版更新的方式登陆Google Play商店，但由于旧玩家对新界面和游戏方式的不满，Niantic
-Labs另外提供保留旧版界面的新应用Scanner Redacted代替新版Ingress
+Labs另外提供保留旧版界面的新应用Scanner \[REDACTED\]代替新版Ingress
 Prime安装使用。\[30\]\[31\]\[32\]
 
 ## 注解

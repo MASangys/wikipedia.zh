@@ -30,8 +30,8 @@ Entertainment。也傳出Maroo娛樂提出註冊超新星這個名字。
 <td></td>
 <td><p>队长<br />
 副主唱</p></td>
-<td><p><a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/爱知大学.md" title="wikilink">爱知大学经营学系</a><br />
-<a href="../Page/慶熙大學.md" title="wikilink">慶熙大學媒體信息學系</a></p></td>
+<td><p><a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/爱知大学.md" title="wikilink">爱知大学</a>经营学系<br />
+<a href="../Page/慶熙大學.md" title="wikilink">慶熙大學</a>媒體信息學系</p></td>
 <td><p>Double Ace</p></td>
 <td></td>
 </tr>
@@ -41,7 +41,7 @@ Entertainment。也傳出Maroo娛樂提出註冊超新星這個名字。
 <td></td>
 <td><p>主唱<br />
 編舞</p></td>
-<td><p><a href="../Page/首爾藝術大學.md" title="wikilink">首爾藝術大學放送演藝學系</a>（休學）<br />
+<td><p><a href="../Page/首爾藝術大學.md" title="wikilink">首爾藝術大學</a>放送演藝學系（休學）<br />
 庆熙Cyber大学校信息通信学系</p></td>
 <td><p>Double Ace</p></td>
 <td></td>
@@ -70,7 +70,7 @@ Rapper</p></td>
 <td><p>朴健一（박건일）Park Gun Il</p></td>
 <td></td>
 <td><p>Rapper</p></td>
-<td><p><a href="../Page/東國大學.md" title="wikilink">東國大學影視戲劇學系</a></p></td>
+<td><p><a href="../Page/東國大學.md" title="wikilink">東國大學</a>影視戲劇學系</p></td>
 <td><p>Funky Galaxy</p></td>
 <td></td>
 </tr>

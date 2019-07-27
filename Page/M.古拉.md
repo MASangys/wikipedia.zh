@@ -1,13 +1,13 @@
-**M.古拉**（；），[马来西亚政治人物和律师](../Page/马来西亚.md "wikilink")，[民主行动党全国副主席](https://zh.wikipedia.org/wiki/民主行动党_\(马来西亚\) "wikilink")，也是现任人力资源部部长、[霹雳州](https://zh.wikipedia.org/wiki/霹雳州 "wikilink")国会议员和[希望联盟印裔代表副主席](https://zh.wikipedia.org/wiki/希望联盟 "wikilink")\[1\]\[2\]，他时常提出许多印度人社区的问题\[3\]。
+**M.古拉**（；），[马来西亚](../Page/马来西亚.md "wikilink")政治人物和律师，[民主行动党全国副主席](https://zh.wikipedia.org/wiki/民主行动党_\(马来西亚\) "wikilink")，也是现任人力资源部部长、[霹雳州](https://zh.wikipedia.org/wiki/霹雳州 "wikilink")国会议员和[希望联盟印裔代表副主席](https://zh.wikipedia.org/wiki/希望联盟 "wikilink")\[1\]\[2\]，他时常提出许多印度人社区的问题\[3\]。
 
 ## 经历
 
 古拉在霹雳州[曼绒县](../Page/曼绒县.md "wikilink")[红土坎出生](https://zh.wikipedia.org/wiki/红土坎 "wikilink")，他的家族以割胶维生\[4\]\[5\]。他和家人也需照顾家畜，放学后需要帮忙清理装牛乳的容器\[6\]。
-1982年他被伦敦的[林肯律師學院录取为](../Page/林肯律師學院.md "wikilink")[大律師](../Page/大律師.md "wikilink")\[7\]。
+1982年他被伦敦的[林肯律師學院](../Page/林肯律師學院.md "wikilink")录取为[大律師](../Page/大律師.md "wikilink")\[7\]。
 
 ## 政治生涯
 
-1997年的补选中首次当选为霹雳州国会议员。[1999年马来西亚大选中](../Page/1999年马来西亚大选.md "wikilink")，他代表行动党竞选怡保西区，最终落败。[2004年马来西亚大选中](../Page/2004年马来西亚大选.md "wikilink")，他以微差的票数险胜国阵候选人。随后，他自2008年至今继续蝉联该选区\[8\]。
+1997年的补选中首次当选为霹雳州国会议员。[1999年马来西亚大选](../Page/1999年马来西亚大选.md "wikilink")中，他代表行动党竞选怡保西区，最终落败。[2004年马来西亚大选](../Page/2004年马来西亚大选.md "wikilink")中，他以微差的票数险胜国阵候选人。随后，他自2008年至今继续蝉联该选区\[8\]。
 
 ### 马来人至上
 
@@ -16,11 +16,11 @@
 
 ### 印度人权
 
-古拉也是一名[淡米尔族印度人](https://zh.wikipedia.org/wiki/淡米尔人 "wikilink")，曾提出了许多[马来西亚印度人社区所面对的的问题](../Page/马来西亚印度人.md "wikilink")，并声称“印度人被视为三等公民”\[11\]，他也批评部分印度庙被拆除的课题，\[12\]。他也对[斯里兰卡的淡米尔人课题表示关注](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")\[13\]。
+古拉也是一名[淡米尔族印度人](https://zh.wikipedia.org/wiki/淡米尔人 "wikilink")，曾提出了许多[马来西亚印度人](../Page/马来西亚印度人.md "wikilink")社区所面对的的问题，并声称“印度人被视为三等公民”\[11\]，他也批评部分印度庙被拆除的课题，\[12\]。他也对[斯里兰卡的淡米尔人课题表示关注](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")\[13\]。
 
 ### 人力资源部部长
 
-[2018年马来西亚大选中](../Page/2018年马来西亚.md "wikilink")，希望联盟获胜成为执政联盟，古拉便于5月21日在[国家皇宫内宣誓为人力资源部部长](https://zh.wikipedia.org/wiki/国家皇宫 "wikilink")，前任部长为[利察烈](../Page/利察烈.md "wikilink")\[14\]。
+[2018年马来西亚](../Page/2018年马来西亚.md "wikilink")大选中，希望联盟获胜成为执政联盟，古拉便于5月21日在[国家皇宫内宣誓为人力资源部部长](https://zh.wikipedia.org/wiki/国家皇宫 "wikilink")，前任部长为[利察烈](../Page/利察烈.md "wikilink")\[14\]。
 
 ### 马来人是外来者
 

@@ -1,5 +1,5 @@
 **Fira Sans**（最初稱為**Feura Sans**）是一個專為[Firefox
-OS](../Page/Firefox_OS.md "wikilink")[行動作業系統所設計的](../Page/行動作業系統.md "wikilink")[無襯線字體家族](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")，採用[SIL開源字體授權授權](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]。
+OS](../Page/Firefox_OS.md "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")所設計的[無襯線字體家族](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")，採用[SIL開源字體授權授權](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]。
 
 它於2013年首次釋出時，有皆包含了[斜体的四種](https://zh.wikipedia.org/wiki/斜体 "wikilink")[字重](https://zh.wikipedia.org/wiki/字体粗细 "wikilink")：细、正規、適中及粗體。2014年5月，字重的數目增加至16種\[2\]。
 

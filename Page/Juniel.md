@@ -1,14 +1,14 @@
-**Juniel**（；；），原名為**崔準希**\[1\]（；；），轉投[C9娛樂後](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")，並將本名改為**崔瑞峨**\[2\]（，），[韓國創作女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。原在[FNC娛樂出道](../Page/FNC娛樂.md "wikilink")，2016年1月底完約，其後轉投C9娛樂。
+**Juniel**（；；），原名為**崔準希**\[1\]（；；），轉投[C9娛樂後](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")，並將本名改為**崔瑞峨**\[2\]（，），[韓國創作女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。原在[FNC娛樂](../Page/FNC娛樂.md "wikilink")出道，2016年1月底完約，其後轉投C9娛樂。
 
 在韓國出道前她已於日本發展演藝事業，初出道時藝名為「Junie」，其后改為現名，由英文名字與字母「L」的組合而成，當中字母「L」代表「Love」（愛）\[3\]。
 粉絲的官方名稱為「Banila」，意為白色甜蜜的[Vanilla](https://zh.wikipedia.org/wiki/雲呢拿 "wikilink")，也是Juniel最珍貴的第一支吉他「Bbanini」和象徵初戀的「Illa
-Illa」合成的名字，有「如Juniel的初戀一般隨時隨地相伴在一起的珍貴的存在」的含義，偶像為[少女時代隊長](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍和](../Page/太妍.md "wikilink")[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")[鄭秀晶](../Page/鄭秀晶.md "wikilink")
+Illa」合成的名字，有「如Juniel的初戀一般隨時隨地相伴在一起的珍貴的存在」的含義，偶像為[少女時代隊長](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](../Page/太妍.md "wikilink")和[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")[鄭秀晶](../Page/鄭秀晶.md "wikilink")
 
 ## 生平
 
-Juniel在韓國出生，家有父母及一個弟弟。從兒時開始學習跳舞和唱歌，視[BoA為夢想和目標](https://zh.wikipedia.org/wiki/BoA "wikilink")。在初中三年级學會彈奏吉他。一年後，她寫了她的第一首歌《Boy》。當時她欣賞[椎名林檎](../Page/椎名林檎.md "wikilink")、[艾薇兒·拉維尼等等的創作型歌手](../Page/艾薇兒·拉維尼.md "wikilink")，還研究了他們的作曲技巧，但是當時[韓國盛行](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞曲](../Page/舞曲.md "wikilink")，自彈自唱的創作歌手非常罕見。另一方面，[日本擁有多種類型的音樂](../Page/日本.md "wikilink")，[獨立音樂也相當活躍](../Page/獨立音樂.md "wikilink")。後來通過經紀公司面試後，被邀請到日本當練習生。她覺得自己一個人練習也有極限，想去離韓國距離較近的日本，學習多元的音樂風格與創作\[4\]。赴日進修期間，參加「」選秀比賽並勝出\[5\]。曾在Good
+Juniel在韓國出生，家有父母及一個弟弟。從兒時開始學習跳舞和唱歌，視[BoA為夢想和目標](https://zh.wikipedia.org/wiki/BoA "wikilink")。在初中三年级學會彈奏吉他。一年後，她寫了她的第一首歌《Boy》。當時她欣賞[椎名林檎](../Page/椎名林檎.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")等等的創作型歌手，還研究了他們的作曲技巧，但是當時[韓國盛行](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞曲](../Page/舞曲.md "wikilink")，自彈自唱的創作歌手非常罕見。另一方面，[日本](../Page/日本.md "wikilink")擁有多種類型的音樂，[獨立音樂](../Page/獨立音樂.md "wikilink")也相當活躍。後來通過經紀公司面試後，被邀請到日本當練習生。她覺得自己一個人練習也有極限，想去離韓國距離較近的日本，學習多元的音樂風格與創作\[4\]。赴日進修期間，參加「」選秀比賽並勝出\[5\]。曾在Good
 Entertainment當練習生，其後經[AI
-Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")[CNBLUE成員](../Page/CNBLUE.md "wikilink")[鄭容和一同成為練習生](../Page/鄭容和.md "wikilink")\[6\]。
+Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")成員[鄭容和](../Page/鄭容和.md "wikilink")一同成為練習生\[6\]。
 
 ## 音樂作品
 
@@ -235,7 +235,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>冬季特別單曲《<strong>Romantic J</strong>》 （與<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a><a href="../Page/李宗泫.md" title="wikilink">李宗泫合作</a>）</p>
+<td><p>冬季特別單曲《<strong>Romantic J</strong>》 （與<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a><a href="../Page/李宗泫.md" title="wikilink">李宗泫</a>合作）</p>
 <ul>
 <li>發行日期：2013年12月2日</li>
 <li>語言：韓語</li>
@@ -456,7 +456,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
   - [Juniel](http://cafe.daum.net/JUNIEL)在[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink")
     cafe的頁面
 
-  - [Juniel](http://ameblo.jp/juniel)在[Ameba的網誌](../Page/Ameba.md "wikilink")
+  - [Juniel](http://ameblo.jp/juniel)在[Ameba](../Page/Ameba.md "wikilink")的網誌
 
   -
 [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")

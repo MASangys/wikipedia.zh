@@ -2,7 +2,7 @@
 Games開發的](../Page/Rockstar_Games.md "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")，它是《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》的線上模式，最初的「故事」時間線設定在故事模式開始的數個月前，隨著遊戲內容的擴增與改版，現在也可理解為是故事模式的[平行世界](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，在2013年10月1日登陸[Xbox
 360和](../Page/Xbox_360.md "wikilink")[PlayStation
 3平台](../Page/PlayStation_3.md "wikilink")，只要加入[Rockstar Games Social
-Club](../Page/Rockstar_Games_Social_Club.md "wikilink")，即可在不同平台上用相同的人物且不會有損失\[1\]（但現已取消）。在近幾個月來，PC版本誤鎖問題不斷。玩家回報R星客服無法得到正面回應。而最近R星皆以「最終判決不得申述」來回復客訴的玩家。由於上述情形，導致該作於[Steam平台的評價下滑](../Page/Steam.md "wikilink")。
+Club](../Page/Rockstar_Games_Social_Club.md "wikilink")，即可在不同平台上用相同的人物且不會有損失\[1\]（但現已取消）。在近幾個月來，PC版本誤鎖問題不斷。玩家回報R星客服無法得到正面回應。而最近R星皆以「最終判決不得申述」來回復客訴的玩家。由於上述情形，導致該作於[Steam](../Page/Steam.md "wikilink")平台的評價下滑。
 在線上模式中也有不少角色在故事模式中也有登場。
 
 ## 登場角色

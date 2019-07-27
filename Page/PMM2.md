@@ -1,7 +1,7 @@
 **磷酸甘露糖变位酶2**（）是一种由[基因](../Page/基因.md "wikilink") *PMM2*
 编码的[酶](../Page/酶.md "wikilink")\[1\]\[2\]。
 
-PMM2是一种变位酶，将[甘露糖-6-磷酸催化异构为](../Page/甘露糖-6-磷酸.md "wikilink")[甘露糖-1-磷酸](../Page/甘露糖-1-磷酸.md "wikilink")。甘露糖-1-磷酸是[鸟苷二磷酸甘露糖的前体](../Page/鸟苷二磷酸甘露糖.md "wikilink")，necessary
+PMM2是一种变位酶，将[甘露糖-6-磷酸](../Page/甘露糖-6-磷酸.md "wikilink")催化异构为[甘露糖-1-磷酸](../Page/甘露糖-1-磷酸.md "wikilink")。甘露糖-1-磷酸是[鸟苷二磷酸甘露糖](../Page/鸟苷二磷酸甘露糖.md "wikilink")的前体，necessary
 for the synthesis of dolichol-P-oligosaccharides. Mutations in the gene
 have been shown to cause defects in the protein glycosylation pathway
 manifest as carbohydrate-deficient glycoprotein syndrome type I.\[3\]

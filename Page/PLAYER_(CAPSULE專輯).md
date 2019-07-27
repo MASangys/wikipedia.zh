@@ -1,11 +1,11 @@
-《**PLAYER**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")11張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2010年3月3日發行。唱片公司為。
+《**PLAYER**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第11張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2010年3月3日發行。唱片公司為。
 
 ## 概要
 
   - 距離前作「[MORE\! MORE\!
     MORE\!](../Page/MORE!_MORE!_MORE!.md "wikilink")」發行約1年半的原創專輯。以「CD
     Only」和初回限定盤「CD＋DVD」兩種形態發售。
-  - 發售當日是主音[越島稔子的](../Page/越島稔子.md "wikilink")30歲生日。
+  - 發售當日是主音[越島稔子](../Page/越島稔子.md "wikilink")的30歲生日。
   - 和中田製作的電影原聲大碟「LIAR GAME 2 〜シーズン2＆劇場版 オリジナルサウンド トラック〜」同時發售。
   - 「Stay with
     You」是電影「[詐欺遊戲：最後的舞台](https://zh.wikipedia.org/wiki/詐欺遊戲_\(電視劇\)#電影 "wikilink")」主題曲，中田康貴同時是原作電視劇的音樂製作人。這是組合首次為電影獻唱主題曲。

@@ -7,7 +7,7 @@ EliteBook**是[惠普公司旗下进阶型商务笔记本与移动工作站的�
 产品线针对美国军方[MIL-STD-810标准设计](https://zh.wikipedia.org/wiki/MIL-STD-810 "wikilink")，需要满足极限环境下的可靠性和性能表现，包括恶劣的温度，高度，湿度，灰尘，冲击以及振动条件。
 该系列笔记本配备了一个镁合金底盘，阳极氧化处理的铝盖及掌托与防泼溅键盘，活动硬盘保护技术和双指点设备（[触摸板和](https://zh.wikipedia.org/wiki/触摸板 "wikilink")[指点杆](../Page/指点杆.md "wikilink")）。工作站机型还可以在惠普官方选配[DreamColor方案](https://zh.wikipedia.org/wiki/DreamColor "wikilink")，实现专业级的色彩表现。
 
-早期EliteBook产品配备了**惠普夜间键盘灯**（类似于许多[ThinkPad产品上上配置的](../Page/ThinkPad.md "wikilink")**ThinkLight**键盘灯），而现行产品（主要是15寸与17寸工作站）加入了背光键盘选项。同时还有[固态硬盘作为可选项](../Page/固态硬盘.md "wikilink")。
+早期EliteBook产品配备了**惠普夜间键盘灯**（类似于许多[ThinkPad](../Page/ThinkPad.md "wikilink")产品上上配置的**ThinkLight**键盘灯），而现行产品（主要是15寸与17寸工作站）加入了背光键盘选项。同时还有[固态硬盘](../Page/固态硬盘.md "wikilink")作为可选项。
 
 ## 现有产品
 

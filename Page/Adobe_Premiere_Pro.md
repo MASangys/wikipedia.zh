@@ -1,5 +1,5 @@
 **Adobe Premiere
-Pro**是由[Adobe公司开发的](../Page/Adobe.md "wikilink")[非线性編輯的](https://zh.wikipedia.org/wiki/非线性編輯 "wikilink")[影片剪輯軟體](https://zh.wikipedia.org/wiki/影片剪輯軟體 "wikilink")。為[Creative
+Pro**是由[Adobe](../Page/Adobe.md "wikilink")公司开发的[非线性編輯的](https://zh.wikipedia.org/wiki/非线性編輯 "wikilink")[影片剪輯軟體](https://zh.wikipedia.org/wiki/影片剪輯軟體 "wikilink")。為[Creative
 Suite套裝的一部分](https://zh.wikipedia.org/wiki/Creative_Suite "wikilink")，可用于圖像設計、影片編輯與網頁開發。此軟件可以獨立購買，而當獨立購買此軟件時，就會附送[Adobe
 Media
 Encoder](https://zh.wikipedia.org/wiki/Adobe_Media_Encoder "wikilink")、[Adobe
@@ -7,22 +7,22 @@ Encore和](https://zh.wikipedia.org/wiki/Adobe_Encore "wikilink")[Adobe
 OnLocation](../Page/Adobe_OnLocation.md "wikilink")。Premiere
 Pro支持許多不同插件以加強其功能、增加額外的影片/聲音效果及支援更多的檔案格式。自從推出Creative
 Suite 5（CS5）後，Premiere
-Pro就只可以在[64位的](https://zh.wikipedia.org/wiki/64位 "wikilink")[Windows與](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac上運行](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")，以增加了非線性編輯的功能。所有在32位的作業系統上，只可以使用舊一點的Premiere
+Pro就只可以在[64位的](https://zh.wikipedia.org/wiki/64位 "wikilink")[Windows與](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac上運行](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")，增加非線性編輯的功能。所有在32位元作業系統上，只可以使用舊的Premiere
 Pro版本，即是CS4\[1\]。
 
-現時，[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")\[2\]和[The Tonight
-Show](https://zh.wikipedia.org/wiki/The_Tonight_Show "wikilink").\[3\]是使用Premiere
-Pro來廣播。而一些電影，例如[社群網戰](../Page/社群網戰.md "wikilink")\[4\]、[Captain Abu
+現時，[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")\[2\]、[The Tonight
+Show](https://zh.wikipedia.org/wiki/The_Tonight_Show "wikilink")\[3\]、[社群網戰](../Page/社群網戰.md "wikilink")是使用Premiere
+Pro來廣播\[4\]、[Captain Abu
 Raed](https://zh.wikipedia.org/wiki/Captain_Abu_Raed "wikilink")\[5\]與[Monsters](https://zh.wikipedia.org/wiki/Monsters_\(2010年電影\) "wikilink")\[6\]是使用Premiere
-Pro來製作。在其他場合中，[麥當娜的](../Page/麥當娜.md "wikilink")[Confessions
+Pro來製作。在其他場合中，[麥當娜](../Page/麥當娜.md "wikilink")的[Confessions
 Tour](https://zh.wikipedia.org/wiki/Confessions_Tour "wikilink")\[7\]也曾使用Premiere
 Pro。
 
 ## 特點
 
 Premiere Pro能支持非常高的解析度，可最高支援10,240 x
-8,192\[8\]的螢幕解析度，以及高至32位的色深，可使用[RGB和](https://zh.wikipedia.org/wiki/RGB "wikilink")[YUV顏色模型](../Page/YUV.md "wikilink")。在聲音方面，能支持[VST聲音插件](../Page/VST.md "wikilink")，以及[5.1聲道](../Page/5.1聲道.md "wikilink")[环绕立體聲](https://zh.wikipedia.org/wiki/环绕立體聲 "wikilink")。Premiere
-Pro的插件能夠导入與导出至[QuickTime或](../Page/QuickTime.md "wikilink")[DirectShow的格式](../Page/DirectShow.md "wikilink")。Premiere
+8,192\[8\]的螢幕解析度，以及高至32位的色深，可使用[RGB和](https://zh.wikipedia.org/wiki/RGB "wikilink")[YUV](../Page/YUV.md "wikilink")顏色模型。在聲音方面，能支持[VST](../Page/VST.md "wikilink")聲音插件以及[5.1聲道](../Page/5.1聲道.md "wikilink")。Premiere
+Pro的插件能夠导入與导出至[QuickTime](../Page/QuickTime.md "wikilink")或[DirectShow](../Page/DirectShow.md "wikilink")的格式。Premiere
 Pro也支持很多影片與聲音格式，在导出和导入影片時，也提供很多編碼解碼器。通过使用Cineform Neo
 line的插件，就可以支援3D編輯功能，也可以在2D的螢幕上看見3D物料。
 

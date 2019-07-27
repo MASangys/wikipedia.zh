@@ -5,10 +5,10 @@
 
   - 是一个Web页面布局、装饰以及与现有Web应用整合的框架。有助于在由大量页面构成的项目中创建一致的页面布局和外观、一致的导航条、一致的布局方案等。
   - 截取对Web服务器的任何静态或动态页面的请求，解析页面，从内容中获得属性和数据，生成对原页面进行修改后的最终页面——基于[装饰模式](https://zh.wikipedia.org/wiki/装饰模式 "wikilink")
-  - 此外可以以面板（Panel）的形式，将完整的[HTML页面包含在另一个页面中](../Page/HTML.md "wikilink")——类似于。使用此功能，可以非常快速和有效的建立门户网站类型的Web站点。这基于知名的。
+  - 此外可以以面板（Panel）的形式，将完整的[HTML](../Page/HTML.md "wikilink")页面包含在另一个页面中——类似于。使用此功能，可以非常快速和有效的建立门户网站类型的Web站点。这基于知名的。
   - 基于[Java](../Page/Java.md "wikilink")
-    2的[Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink")、[JSP和](../Page/JSP.md "wikilink")[XML技术](../Page/XML.md "wikilink")。这使它在[Java
-    EE应用中很好用](https://zh.wikipedia.org/wiki/Java_EE "wikilink")，而它也可以与非Java的服务器端Web体系结构集成，例如[CGI](https://zh.wikipedia.org/wiki/CGI "wikilink")（[Perl](../Page/Perl.md "wikilink")/[Python](../Page/Python.md "wikilink")/[C](../Page/C.md "wikilink")/[C++等](../Page/C++.md "wikilink")）、[PHP和](../Page/PHP.md "wikilink")[ColdFusion](https://zh.wikipedia.org/wiki/ColdFusion "wikilink")。
+    2的[Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink")、[JSP](../Page/JSP.md "wikilink")和[XML](../Page/XML.md "wikilink")技术。这使它在[Java
+    EE应用中很好用](https://zh.wikipedia.org/wiki/Java_EE "wikilink")，而它也可以与非Java的服务器端Web体系结构集成，例如[CGI](https://zh.wikipedia.org/wiki/CGI "wikilink")（[Perl](../Page/Perl.md "wikilink")/[Python](../Page/Python.md "wikilink")/[C](../Page/C.md "wikilink")/[C++](../Page/C++.md "wikilink")等）、[PHP](../Page/PHP.md "wikilink")和[ColdFusion](https://zh.wikipedia.org/wiki/ColdFusion "wikilink")。
   - 扩展性很强，可以很容易地为自定义需求的进行扩展。
 
 ## 许可证

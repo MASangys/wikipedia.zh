@@ -1,19 +1,19 @@
 《**LOVE
-MACHINE**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第7张[单曲](../Page/单曲.md "wikilink")。於1999年9月9日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+MACHINE**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第7张[单曲](../Page/单曲.md "wikilink")。於1999年9月9日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 《LOVE
-    MACHINE》是[早安少女組。第三期成員](../Page/早安少女組。.md "wikilink")[後藤真希加入後的第一張單曲](../Page/後藤真希.md "wikilink")，亦是初期成員[石黑彩畢業前最後參與的一張單曲](../Page/石黑彩.md "wikilink")。
+    MACHINE》是[早安少女組。](../Page/早安少女組。.md "wikilink")第三期成員[後藤真希](../Page/後藤真希.md "wikilink")加入後的第一張單曲，亦是初期成員[石黑彩](../Page/石黑彩.md "wikilink")畢業前最後參與的一張單曲。
   - 共以3種版本發行，分別為「8cm版」、「12cm版」和「LP版」。「12cm」CD版收錄《LOVE MACHINE (Early
     Unision Version)》；「LP版」收錄《LOVE MACHINE (analog remix)》和「Secret
     Track」。
   - 因前張單曲《[故鄉](../Page/故鄉_\(早安少女組。單曲\).md "wikilink")》銷售成績不盡理想，而採取較為開朗的曲風。原曲為淳君於射亂Q時代所編寫而成，但當時未被採用。
   - 於當年9月20日、9月27日和10月4日的Oricon單曲週榜連續三週取得冠軍，是三期成員加入後首張冠軍單曲，亦成為出道以來第二張冠軍單曲。
   - 為早安少女組出道以來銷量最高的單曲（1,647,401張），也是出道以來首張百萬單曲。
-  - 在第41屆[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」和「作曲獎」、第14回[日本金唱片大獎獲得](../Page/日本金唱片大獎.md "wikilink")「年度最佳歌曲」，同年年末在第50回[NHK紅白歌合戰演唱其歌曲](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")《LOVE
+  - 在第41屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")獲得「優秀作品獎」和「作曲獎」、第14回[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")獲得「年度最佳歌曲」，同年年末在第50回[NHK紅白歌合戰演唱其歌曲](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")《LOVE
     MACHINE》。
-  - 在[第58回NHK紅白歌合戰與](https://zh.wikipedia.org/wiki/第58回NHK紅白歌合戰 "wikilink")[Berryz工房和](../Page/Berryz工房.md "wikilink")[℃-ute以組曲形式演出](../Page/℃-ute.md "wikilink")，曲目為《**LOVE
+  - 在[第58回NHK紅白歌合戰與](https://zh.wikipedia.org/wiki/第58回NHK紅白歌合戰 "wikilink")[Berryz工房](../Page/Berryz工房.md "wikilink")和[℃-ute](../Page/℃-ute.md "wikilink")以組曲形式演出，曲目為《**LOVE
     MACHINE**》 -
     《[The☆Pea～ce\!](https://zh.wikipedia.org/wiki/The☆Pea～ce!_/_充滿愛的大宇宙 "wikilink")》
     - 《[戀愛革命21](../Page/戀愛革命21.md "wikilink")》 -

@@ -1,4 +1,4 @@
-**AKB48「沒有驚喜」演唱會**（）是日本女子偶像組合[AKB48於](../Page/AKB48.md "wikilink")2010年7月10日至11日在[國立代代木競技場第一體育館舉行的演唱會](../Page/國立代代木競技場.md "wikilink")，演出的成員包括AKB48、[SKE48及](../Page/SKE48.md "wikilink")[SDN48](../Page/SDN48.md "wikilink")\[1\]\[2\]\[3\]。
+**AKB48「沒有驚喜」演唱會**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2010年7月10日至11日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行的演唱會，演出的成員包括AKB48、[SKE48](../Page/SKE48.md "wikilink")及[SDN48](../Page/SDN48.md "wikilink")\[1\]\[2\]\[3\]。
 
 ## 概要
 
@@ -269,19 +269,19 @@
 ## 公佈
 
   - 7月10日\[21\]\[22\]
-      - 於2010年9月26日在[奈良](https://zh.wikipedia.org/wiki/奈良 "wikilink")[藥師寺舉行戶外演唱會](../Page/藥師寺.md "wikilink")。
-      - 分別於2010年10月[意大利](../Page/意大利.md "wikilink")[米蘭及](../Page/米蘭.md "wikilink")11月在[新加坡](../Page/新加坡.md "wikilink")、[澳門舉行海外公演](../Page/澳門.md "wikilink")。
+      - 於2010年9月26日在[奈良](https://zh.wikipedia.org/wiki/奈良 "wikilink")[藥師寺](../Page/藥師寺.md "wikilink")舉行戶外演唱會。
+      - 分別於2010年10月[意大利](../Page/意大利.md "wikilink")[米蘭](../Page/米蘭.md "wikilink")及11月在[新加坡](../Page/新加坡.md "wikilink")、[澳門](../Page/澳門.md "wikilink")舉行海外公演。
       - 繼SKE48及SDN48後，在[大阪難波成立NMB](https://zh.wikipedia.org/wiki/大阪 "wikilink")48及興建新劇場\[23\]\[24\]\[25\]\[26\]\[27\]。
   - 7月11日\[28\]\[29\]
       - 下午的公演中發表，將會解除SDN48限制18歲以上人士觀賞的禁令\[30\]\[31\]\[32\]。
       - 而在公演完結後公佈，於舉行的[Team
         Pigg對戰中勝出的隊伍歌曲將會成為第](https://zh.wikipedia.org/wiki/AKB48#Team_Pigg對戰 "wikilink")18張單曲的B面曲\[33\]\[34\]。
-      - 晚上的公演完結後，[戶賀崎智信宣佈第](../Page/戶賀崎智信.md "wikilink")19張單曲（《[機會的順序](../Page/機會的順序.md "wikilink")》）將會由猜拳決定選拔成員，而勝出的成員會擔任中心。猜拳大賽會於2010年9月21在日本[武道館舉行](https://zh.wikipedia.org/wiki/武道館 "wikilink")。此外，亦即場進行研究生的淘汰賽及抽籤\[35\]\[36\]\[37\]\[38\]\[39\]\[40\]。
+      - 晚上的公演完結後，[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")宣佈第19張單曲（《[機會的順序](../Page/機會的順序.md "wikilink")》）將會由猜拳決定選拔成員，而勝出的成員會擔任中心。猜拳大賽會於2010年9月21在日本[武道館舉行](https://zh.wikipedia.org/wiki/武道館 "wikilink")。此外，亦即場進行研究生的淘汰賽及抽籤\[35\]\[36\]\[37\]\[38\]\[39\]\[40\]。
       - 在進行猜拳大賽抽籤時，小野惠令奈宣佈將會在夏季畢業並不參加猜拳大賽\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]\[51\]\[52\]。
 
 ## DVD
 
-演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS在](../Page/AKS.md "wikilink")2010年10月2日發行。演唱會的演出內容及幕後花絮分別收錄在4枚DVD，並附送1張生寫真及收集卡。此外，亦同時發售同樣收錄了演唱會的演出內容的[microSD及DVD版本](https://zh.wikipedia.org/wiki/microSD "wikilink")，以及Premium
+演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")在2010年10月2日發行。演唱會的演出內容及幕後花絮分別收錄在4枚DVD，並附送1張生寫真及收集卡。此外，亦同時發售同樣收錄了演唱會的演出內容的[microSD及DVD版本](https://zh.wikipedia.org/wiki/microSD "wikilink")，以及Premium
 Box版本。Premium Box共有3個版本，分別是Team A、Team K及Team
 B版本，內容包括4枚DVD、5張生寫真、1張收集卡及128頁的演唱會寫真集\[53\]\[54\]\[55\]。
 

@@ -1,5 +1,5 @@
 **File
-Roller**，是[GNOME桌面环境下的归档管理器](../Page/GNOME.md "wikilink")。主要功能包括归档文件的创建修改、查看，以及解压缩。
+Roller**，是[GNOME](../Page/GNOME.md "wikilink")桌面环境下的归档管理器。主要功能包括归档文件的创建修改、查看，以及解压缩。
 
 ## 支持文档格式
 

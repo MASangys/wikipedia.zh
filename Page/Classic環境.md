@@ -1,7 +1,7 @@
 **Classic環境**是早期[Mac OS
 X提供的軟件和硬件](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[抽象層](https://zh.wikipedia.org/wiki/抽象層 "wikilink")，讓用戶可以在Mac
 OS X之中繼續使用兼容於[Mac OS
-9的應用程式](../Page/Mac_OS_9.md "wikilink")。Classic環境可在[PowerPC平台上的](../Page/PowerPC.md "wikilink")[麥金塔電腦使用](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")，支援[Mac
+9的應用程式](../Page/Mac_OS_9.md "wikilink")。Classic環境可在[PowerPC](../Page/PowerPC.md "wikilink")平台上的[麥金塔電腦使用](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")，支援[Mac
 OS X
 v10.4之前所有的Mac](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")
 OS X，但不支援[Mac OS X
@@ -9,7 +9,7 @@ v10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")。\[1\]Classic�
 
 ## 概要
 
-Classic環境是原有[Rhapsody模擬層](../Page/Rhapsody.md "wikilink")「Blue
+Classic環境是原有[Rhapsody](../Page/Rhapsody.md "wikilink")模擬層「Blue
 Box」項目的後續產物。Classic環境可直接使用[Mac OS
 9的系統檔案夾](../Page/Mac_OS_9.md "wikilink")，以及[New World
 ROM](https://zh.wikipedia.org/wiki/New_World_ROM "wikilink")，將舊式PowerPC麥金塔的操作平台與[XNU](../Page/XNU.md "wikilink")[系統內核連結起來](https://zh.wikipedia.org/wiki/內核 "wikilink")。Classic環境是[蘋果電腦取代](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")「經典」Mac

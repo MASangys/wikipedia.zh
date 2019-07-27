@@ -1,10 +1,10 @@
 「**Bless
-You**」是[家入里歐的第](../Page/家入里歐.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月12日由[Victor
+You**」是[家入里歐](../Page/家入里歐.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月12日由[Victor
 Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 概要
 
-與前作「Shine」相隔約將近4個月後再推出作品。分為通常盤、初回限定盤A及初回限定盤B，初回限定盤A附有收錄[音樂錄影帶的](../Page/音樂錄影帶.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，初回限定盤B附有個人寫真。\[1\]\[2\]。
+與前作「Shine」相隔約將近4個月後再推出作品。分為通常盤、初回限定盤A及初回限定盤B，初回限定盤A附有收錄[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，初回限定盤B附有個人寫真。\[1\]\[2\]。
 
 ## 收錄曲
 

@@ -6,7 +6,7 @@ Panorama本意是指[全景图](../Page/全景图.md "wikilink")。
 
 ### 出版物
 
-  - [郭德懷开办的杂志](../Page/郭德懷.md "wikilink")《Panorama》
+  - [郭德懷](../Page/郭德懷.md "wikilink")开办的杂志《Panorama》
 
 ### 电影电视
 
@@ -15,7 +15,7 @@ Panorama本意是指[全景图](../Page/全景图.md "wikilink")。
 
 <!-- end list -->
 
-  - [柏林国际电影节的官方节目Panorama](../Page/柏林国际电影节.md "wikilink")
+  - [柏林国际电影节](../Page/柏林国际电影节.md "wikilink")的官方节目Panorama
 
 ## 地名
 

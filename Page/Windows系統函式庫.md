@@ -38,11 +38,11 @@ Kernel32.dll提供應用程式一些Win32下的基底API，包括[記憶體管�
 
 Gdi32.dll提供跟圖形裝置界面有關的函式，例如輸出到[顯示卡和](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[列印機的原生繪圖功能](https://zh.wikipedia.org/wiki/列印機 "wikilink")。呼叫這個程式庫裡函式的應用程式通常是為了執行底層的繪圖功能、文字輸出、字型管理或其他相似功能\[8\]\[9\]。
 
-初時GDI只支援16或256色的EGA/VGA顯示卡和單色列印機，不過GDI的功能已經漸漸升。直到現在它更支援[TrueType字型](../Page/TrueType.md "wikilink")、半透明通道和多螢幕支援。
+初時GDI只支援16或256色的EGA/VGA顯示卡和單色列印機，不過GDI的功能已經漸漸升。直到現在它更支援[TrueType](../Page/TrueType.md "wikilink")字型、半透明通道和多螢幕支援。
 
 ### User32.dll
 
-User32.dll提供創建和管理Windows[圖形界面的功能](https://zh.wikipedia.org/wiki/圖形界面 "wikilink")，例如[桌面](https://zh.wikipedia.org/wiki/桌面 "wikilink")、[視窗和](../Page/視窗.md "wikilink")[功能表](https://zh.wikipedia.org/wiki/功能表 "wikilink")。裡面的函式可以讓應用程式建立及管理視窗、接收[Windows訊息](https://zh.wikipedia.org/wiki/Windows訊息 "wikilink")（諸如使用者的輸入或系統的通知）、在視窗中顯示文字，及顯示一個訊息視窗。
+User32.dll提供創建和管理Windows[圖形界面的功能](https://zh.wikipedia.org/wiki/圖形界面 "wikilink")，例如[桌面](https://zh.wikipedia.org/wiki/桌面 "wikilink")、[視窗](../Page/視窗.md "wikilink")和[功能表](https://zh.wikipedia.org/wiki/功能表 "wikilink")。裡面的函式可以讓應用程式建立及管理視窗、接收[Windows訊息](https://zh.wikipedia.org/wiki/Windows訊息 "wikilink")（諸如使用者的輸入或系統的通知）、在視窗中顯示文字，及顯示一個訊息視窗。
 
 這個函式庫裡面大部份函式也需要倚靠Gdi32.dll提供的繪圖功能，來對使用者界面進行渲染。有些程式還會直接使用GDI函式，來對先前由User32.dll所建立的視窗進行底層繪圖。
 

@@ -1,5 +1,5 @@
 **GNU
-arch**是一个[分布式版本控制软件](https://zh.wikipedia.org/wiki/分布式版本控制 "wikilink")，它是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")，并在[GNU通用公共许可证下授权](../Page/GNU通用公共许可证.md "wikilink")。
+arch**是一个[分布式版本控制软件](https://zh.wikipedia.org/wiki/分布式版本控制 "wikilink")，它是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")，并在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下授权。
 
 截至2009年，GNU arch的官方状态是“已弃用”，仅仅提供安全性修复。\[1\]
 
@@ -10,7 +10,7 @@ arch的一个[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wik
 ## 批评
 
 GNU
-arch的最常见的批评是它很难学，甚至对于那些有其他[软件配置管理系统经验的用户也是如此](../Page/软件配置管理.md "wikilink")。尤其是GNU
+arch的最常见的批评是它很难学，甚至对于那些有其他[软件配置管理](../Page/软件配置管理.md "wikilink")系统经验的用户也是如此。尤其是GNU
 arch有大量的命令，一些设计元素受Lord个人品味的影响太多太多，这阻碍了GNU arch的新用户。\[3\]\[4\]
 
 也有人批评GNU

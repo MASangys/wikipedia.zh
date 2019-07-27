@@ -17,7 +17,7 @@ major_shareholder = | footnotes = }}
   - DHC亦是某間名為「**D**aiei **H**olding
     **C**orporation」公司（大榮集團的控股公司）的縮寫，但兩者並無關聯。
   - 1976年創立「DHC Specialty
-    CORP.」公司([昶懋國際股份有限公司](https://zh.wikipedia.org/wiki/昶懋國際 "wikilink"))主要生產汽車[電瓶檢測器及](https://zh.wikipedia.org/wiki/電瓶檢測器 "wikilink")[充電器等汽車零組件相關產品](../Page/充電器.md "wikilink")，兩者並無關聯。
+    CORP.」公司([昶懋國際股份有限公司](https://zh.wikipedia.org/wiki/昶懋國際 "wikilink"))主要生產汽車[電瓶檢測器及](https://zh.wikipedia.org/wiki/電瓶檢測器 "wikilink")[充電器](../Page/充電器.md "wikilink")等汽車零組件相關產品，兩者並無關聯。
 
 ## 主要事業
 

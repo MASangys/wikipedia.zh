@@ -3,7 +3,7 @@
 創始人內藤栄一於1990年創立**Domo唱片公司**。在那之前，內藤曾是[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、[錄音工程師及經紀人](https://zh.wikipedia.org/wiki/錄音 "wikilink")。**Domo**這名子取自日文
 , 意思是『謝謝』，為的是感謝過去合作過的歌手們。
 
-  - **Domo唱片**第一個簽下的藝人是[日本](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[喜多郎](../Page/喜多郎.md "wikilink")。喜多郎與Domo唱片公司合作至今的作品已入圍[葛萊美獎十一次](https://zh.wikipedia.org/wiki/葛萊美 "wikilink")，在2001年因《思慕》獲葛萊美最佳[新世紀](https://zh.wikipedia.org/wiki/新世紀 "wikilink")[專輯獎](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在1994年，喜多郎因為電影《[天與地](https://zh.wikipedia.org/wiki/天與地 "wikilink")》譜曲的[原聲帶獲得](https://zh.wikipedia.org/wiki/原聲帶 "wikilink")[金球獎最佳](../Page/金球獎.md "wikilink")[原創音樂](https://zh.wikipedia.org/wiki/原創 "wikilink")。
+  - **Domo唱片**第一個簽下的藝人是[日本](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[喜多郎](../Page/喜多郎.md "wikilink")。喜多郎與Domo唱片公司合作至今的作品已入圍[葛萊美獎十一次](https://zh.wikipedia.org/wiki/葛萊美 "wikilink")，在2001年因《思慕》獲葛萊美最佳[新世紀](https://zh.wikipedia.org/wiki/新世紀 "wikilink")[專輯獎](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在1994年，喜多郎因為電影《[天與地](https://zh.wikipedia.org/wiki/天與地 "wikilink")》譜曲的[原聲帶獲得](https://zh.wikipedia.org/wiki/原聲帶 "wikilink")[金球獎](../Page/金球獎.md "wikilink")最佳[原創音樂](https://zh.wikipedia.org/wiki/原創 "wikilink")。
 
 <!-- end list -->
 

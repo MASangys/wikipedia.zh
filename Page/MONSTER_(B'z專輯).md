@@ -1,4 +1,4 @@
-《**MONSTER**》是日本摇滚组合[B'z的的第十五张录音室专辑](../Page/B'z.md "wikilink")。2006年6月28日由[VERMILLION
+《**MONSTER**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十五张录音室专辑。2006年6月28日由[VERMILLION
 RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約53.9萬張。

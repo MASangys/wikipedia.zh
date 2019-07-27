@@ -3,9 +3,9 @@ DOME『LEVEL3』**》是[流行電音組合](https://zh.wikipedia.org/wiki/流�
 
 ## 概要
 
-DVD收錄了2013年12月24及25日在[東京巨蛋進行的Perfume](../Page/東京巨蛋.md "wikilink") 4th
+DVD收錄了2013年12月24及25日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")進行的Perfume 4th
 Tour in
-DOME『LEVEL3』巡迴演唱會尾場的影像。這次巡迴演出期間為2013年12月7-8日及12月24-25日，在[大阪巨蛋和](../Page/大阪巨蛋.md "wikilink")[東京巨蛋分別舉行了](../Page/東京巨蛋.md "wikilink")2場，合共四場公演。
+DOME『LEVEL3』巡迴演唱會尾場的影像。這次巡迴演出期間為2013年12月7-8日及12月24-25日，在[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")和[東京巨蛋](../Page/東京巨蛋.md "wikilink")分別舉行了2場，合共四場公演。
 
 DISC1收錄了公演全埸影像，DISC2收錄了「Spring of Life (Album-mix)」和「Party
 Maker」的分割畫面版本、MC精華和花絮的特典影像。首週賣出5.4萬張，並在週榜上分別獲得DVD榜亞軍、藍光榜冠軍，以及兩版本合計的週榜冠軍，是藍光榜設立以來首次有藝人連續兩張作品獲得第一位\[1\]。

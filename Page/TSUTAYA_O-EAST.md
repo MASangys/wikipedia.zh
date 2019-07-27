@@ -1,7 +1,7 @@
 [Shibuya_O-East.jpg](https://zh.wikipedia.org/wiki/File:Shibuya_O-East.jpg "fig:Shibuya_O-East.jpg")
 [渋谷20170723-2.jpg](https://zh.wikipedia.org/wiki/File:渋谷20170723-2.jpg "fig:渋谷20170723-2.jpg")
 **TSUTAYA
-O-EAST**是位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[涉谷區](https://zh.wikipedia.org/wiki/涉谷區 "wikilink")[道玄坂二丁目的](../Page/道玄坂.md "wikilink")[音樂展演空間](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")（Livehouse）。2013年12月前舊名為**Shibuya
+O-EAST**是位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[涉谷區](https://zh.wikipedia.org/wiki/涉谷區 "wikilink")[道玄坂](../Page/道玄坂.md "wikilink")二丁目的[音樂展演空間](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")（Livehouse）。2013年12月前舊名為**Shibuya
 O-EAST**\[1\]。
 
 ## 概要

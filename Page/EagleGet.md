@@ -1,7 +1,7 @@
 **EagleGet**（亦称 **EG Download Accelerator**）是一个用于
 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 系统的[下载管理器](https://zh.wikipedia.org/wiki/下载管理程序 "wikilink")，它是[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。EagleGet
-使用多线程技术，支持从[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Dailymotion](../Page/Dailymotion.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Vimeo等视频网站下载](../Page/Vimeo.md "wikilink")
+使用多线程技术，支持从[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Dailymotion](../Page/Dailymotion.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Vimeo](../Page/Vimeo.md "wikilink")等视频网站下载
 [MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink") 和
 [FLV](../Page/Flash_Video.md "wikilink") 格式视频。EagleGet
 是一个拥有简洁界面和功能的免费的新下载管理器。\[1\]

@@ -1,4 +1,4 @@
-《**Redvolution**》是[RedNoon的個人音樂專輯](../Page/RedNoon.md "wikilink")，於2010年12月22日推出\[1\]。《Redvolution》收錄5首流行搖滾歌曲及5首alteranative
+《**Redvolution**》是[RedNoon](../Page/RedNoon.md "wikilink")的個人音樂專輯，於2010年12月22日推出\[1\]。《Redvolution》收錄5首流行搖滾歌曲及5首alteranative
 version，包括大熱歌曲《打》、《八十革命》及最新派台主打《紅心十》。
 
 ## 曲目列表

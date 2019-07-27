@@ -1,4 +1,4 @@
-**天津地铁BD4型电动车组**是[天津地铁的](../Page/天津地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
+**天津地铁BD4型电动车组**是[天津地铁](../Page/天津地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
 
 ## 简介
 

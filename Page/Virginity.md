@@ -1,16 +1,16 @@
-《**Virginity**》（）是[日本女子](../Page/日本.md "wikilink")[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[NMB48的第](../Page/NMB48.md "wikilink")5張[單曲唱片作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月8日由[吉本R\&C旗下的唱片品牌](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")[laugh
+《**Virginity**》（）是[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[NMB48](../Page/NMB48.md "wikilink")的第5張[單曲唱片作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月8日由[吉本R\&C旗下的唱片品牌](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")[laugh
 out loud\!
 records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")。
 
 ## 概要
 
-[廣告標語為](../Page/廣告標語.md "wikilink")「不想變成大人」（）。
+[廣告標語](../Page/廣告標語.md "wikilink")為「不想變成大人」（）。
 
 與前作《[海岸邊最可愛的女孩！](../Page/海岸邊最可愛的女孩！.md "wikilink")》相隔約3個月發售的單曲。
 
 與前作同様，分為通常盤Type-A、通常盤Type-B、通常盤Type-C、[chara-ani限定發售的劇場盤](https://zh.wikipedia.org/wiki/chara-ani "wikilink")4種形式發售，Type-A・Type-B・Type-C各有3首曲不同。
 
-通常盤3類型收錄不同版本[渡邊美優紀的入浴効果音](../Page/渡邊美優紀.md "wikilink")「迷路姬的恰布恰布」\[1\]\[2\]。
+通常盤3類型收錄不同版本[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")的入浴効果音「迷路姬的恰布恰布」\[1\]\[2\]。
 
 表題曲「Virginity」在2012年7月9日的『[HEY\!HEY\!HEY\!](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")』初次披露
 \[3\]。
@@ -265,7 +265,7 @@ records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")
 [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
 [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
 
-1.  「恰布恰布」是渡辺在[Google+和官方部落格使用入浴意思的用語](../Page/Google+.md "wikilink")，在今作發售前開始頻密使用。
+1.  「恰布恰布」是渡辺在[Google+](../Page/Google+.md "wikilink")和官方部落格使用入浴意思的用語，在今作發售前開始頻密使用。
 
 2.
 

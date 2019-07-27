@@ -1,5 +1,5 @@
 **KARA 1st JAPAN TOUR 2012
-KARASIA**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Kara的首次](../Page/Kara.md "wikilink")[日本全國巡迴演唱會](../Page/日本.md "wikilink")。巡迴演唱會於2012年4月14日開始，地點為[横滨体育馆](https://zh.wikipedia.org/wiki/横滨体育馆 "wikilink")；於5月27日結束，地點為[琦玉超级竞技场](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")
+KARASIA**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Kara](../Page/Kara.md "wikilink")的首次[日本](../Page/日本.md "wikilink")全國巡迴演唱會。巡迴演唱會於2012年4月14日開始，地點為[横滨体育馆](https://zh.wikipedia.org/wiki/横滨体育馆 "wikilink")；於5月27日結束，地點為[琦玉超级竞技场](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")
 
 ## 演出日期
 

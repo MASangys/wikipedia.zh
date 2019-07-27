@@ -1,5 +1,5 @@
 《**LOVE
-STAGE\!\!**》（）是[影木榮貴和](../Page/影木榮貴.md "wikilink")[藏王大志的](../Page/津田美樹代.md "wikilink")[漫畫合作作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。2010年7月號起於[角川書店旗下雜誌](../Page/角川書店.md "wikilink")《》連載中\[1\]，三本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年5月27日至2013年5月30日發售\[2\]\[3\]。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣角川出版](../Page/台灣角川.md "wikilink")。
+STAGE\!\!**》（）是[影木榮貴](../Page/影木榮貴.md "wikilink")和[藏王大志的](../Page/津田美樹代.md "wikilink")[漫畫合作作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。2010年7月號起於[角川書店](../Page/角川書店.md "wikilink")旗下雜誌《》連載中\[1\]，三本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年5月27日至2013年5月30日發售\[2\]\[3\]。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣角川](../Page/台灣角川.md "wikilink")出版。
 
 本作改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2014年7月9日開始播放\[4\]\[5\]。
 

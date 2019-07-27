@@ -1,5 +1,5 @@
 《**So
-Close**》是[美国](../Page/美国.md "wikilink")[乡村音乐女歌手及女演员](../Page/乡村音乐.md "wikilink")[詹妮特·麦柯迪的首支单曲](https://zh.wikipedia.org/wiki/詹妮特·麦柯迪 "wikilink")。\[1\]单曲于2009年3月10日通过[iTunes及](https://zh.wikipedia.org/wiki/iTunes "wikilink")[亚马逊发行](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")。\[2\]
+Close**》是[美国](../Page/美国.md "wikilink")[乡村音乐](../Page/乡村音乐.md "wikilink")女歌手及女演员[詹妮特·麦柯迪的首支单曲](https://zh.wikipedia.org/wiki/詹妮特·麦柯迪 "wikilink")。\[1\]单曲于2009年3月10日通过[iTunes及](https://zh.wikipedia.org/wiki/iTunes "wikilink")[亚马逊发行](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")。\[2\]
 
 ## 主题
 

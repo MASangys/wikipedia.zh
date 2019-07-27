@@ -1,11 +1,11 @@
-**DHCPv6**是一个用来配置工作在[IPv6网络上的IPv](../Page/IPv6.md "wikilink")6[主机所需的](https://zh.wikipedia.org/wiki/主机 "wikilink")[IP地址](../Page/IP地址.md "wikilink")、IP前缀和/或其他配置的[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")。
+**DHCPv6**是一个用来配置工作在[IPv6](../Page/IPv6.md "wikilink")网络上的IPv6[主机所需的](https://zh.wikipedia.org/wiki/主机 "wikilink")[IP地址](../Page/IP地址.md "wikilink")、IP前缀和/或其他配置的[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")。
 
 IPv6主机可以使用[无状态地址自动配置](https://zh.wikipedia.org/wiki/无状态地址自动配置 "wikilink")（SLAAC）或DHCPv6来获得IP地址。DHCP倾向于被用在需要集中管理主机的站点，而无状态自动配置不需要任何集中管理，因此后者更多地被用在典型家庭网络这样的场景下。
 
 使用无状态自动配置的IPv6主机可能会需要除了IP地址以外的其他信息。DHCPv6可被用来获取这样的信息，哪怕这些信息对于配置IP地址毫无用处。配置[DNS服务器无需使用DHCPv](../Page/域名系统.md "wikilink")6，它们可以使用无状态自动配置所需的[邻居发现协议来进行配置](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")\[1\]。
 
 IPv6路由器，如家庭路由器，必须在无需人工干预的情况下被自动配置。这样的路由器不仅需要一个IPv6地址用来与上游路由器通信，还需要一个IPv6前缀用来配置下游的设备。DHCPv6
-[前缀代理提供了配置此类路由器的机制](../Page/前缀代理.md "wikilink")。
+[前缀代理](../Page/前缀代理.md "wikilink")提供了配置此类路由器的机制。
 
 ## 实现
 

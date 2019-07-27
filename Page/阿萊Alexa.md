@@ -1,12 +1,12 @@
 **阿萊Alexa**（Arri
-Alexa，中文有譯為「艾麗莎」）為德國公司[阿萊於](../Page/阿萊.md "wikilink")2010年4月發表的底片風格式[數碼電影攝影機系統](https://zh.wikipedia.org/wiki/數碼電影攝影 "wikilink")。Alexa代表着阿萊於[Arriflex
+Alexa，中文有譯為「艾麗莎」）為德國公司[阿萊](../Page/阿萊.md "wikilink")於2010年4月發表的底片風格式[數碼電影攝影機系統](https://zh.wikipedia.org/wiki/數碼電影攝影 "wikilink")。Alexa代表着阿萊於[Arriflex
 D-20及](https://zh.wikipedia.org/wiki/Arriflex_D-20 "wikilink")[D-21取得成功後](https://zh.wikipedia.org/wiki/Arriflex_D-21 "wikilink")，過渡至數碼電影攝影市場的里程碑。它提供了Super
 35片幅的[CMOS感應器](https://zh.wikipedia.org/wiki/CMOS "wikilink")，可以2880 x
 2160像素的解像度拍攝，直接使用接環的鏡頭\[1\] 。
 
 ## 概覽
 
-Alexa攝影機配備了內建[SxS記憶卡編碼器](../Page/SxS.md "wikilink")，容許以[ProRes
+Alexa攝影機配備了內建[SxS](../Page/SxS.md "wikilink")記憶卡編碼器，容許以[ProRes
 422](https://zh.wikipedia.org/wiki/ProRes "wikilink")、ProRes
 4444及[DNxHD編碼](https://zh.wikipedia.org/wiki/DNxHD "wikilink")，記錄Rec709或Log-C伽碼的影像\[2\]。另外阿萊提供付費形式，讓Alexa攝影機購買者購入金鑰，啟用以ProRes
 422 HQ編碼的120 fps高速拍攝功能\[3\]。
@@ -41,7 +41,7 @@ Alexa M將影像及處理元件分離，提供細小、輕量的特點，用在3
 Alexa Studio提供光學式接目鏡、機械式快門，以及4:3影像感應器，可用變形鏡頭攝影。
 
 2013年2月\[4\]，ALEXA系列開發了後繼系列ALEXA XT（為"Xtended
-Technology"的縮寫），以英國Codex公司共同開發的XR記錄模組取代[SxS記憶卡模組](../Page/SxS.md "wikilink")，以毋需外置記錄器來提供高速內建式RAW影像記錄。該XR記錄模組採用[SSD硬碟作記錄媒體](https://zh.wikipedia.org/wiki/SSD "wikilink")。XT系列提供了Alexa
+Technology"的縮寫），以英國Codex公司共同開發的XR記錄模組取代[SxS](../Page/SxS.md "wikilink")記憶卡模組，以毋需外置記錄器來提供高速內建式RAW影像記錄。該XR記錄模組採用[SSD硬碟作記錄媒體](https://zh.wikipedia.org/wiki/SSD "wikilink")。XT系列提供了Alexa
 XT、Alexa XT M、the Alexa XT Plus、the Alexa XT Studio以及Alexa Fiber
 Remote（光纖遙控）。原先機種亦可升級替換XR模組\[5\]。此外，XT系列亦提供內置式[ND減光鏡功能及較寧靜的散熱風扇](https://zh.wikipedia.org/wiki/中性灰度濾鏡 "wikilink")。
 
@@ -51,7 +51,7 @@ Alexa的ALEV III感應器擁有3392x2200像素生成影像，其額外像素則�
 
 ## 記錄媒體
 
-阿萊Alexa可以以[SxS記憶卡](../Page/SxS.md "wikilink")，或其他外置裝置記錄影像。於SUP韌體7.0版本起，開始提供2K解像度的ProRes
+阿萊Alexa可以以[SxS](../Page/SxS.md "wikilink")記憶卡，或其他外置裝置記錄影像。於SUP韌體7.0版本起，開始提供2K解像度的ProRes
 4444收錄模式，記錄在SxS記憶卡中（以前只提供[1080解像度](https://zh.wikipedia.org/wiki/1080 "wikilink")）。
 
 ## ArriRaw

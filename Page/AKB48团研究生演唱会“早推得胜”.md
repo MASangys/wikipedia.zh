@@ -1,4 +1,4 @@
-**AKB48团研究生演唱会“早推得胜”**（）是[AKB48及其姊姊團體的研究生於](../Page/AKB48.md "wikilink")2013年6月5日在[日本武道館舉辦的演唱會](../Page/日本武道館.md "wikilink")\[1\]。
+**AKB48团研究生演唱会“早推得胜”**（）是[AKB48](../Page/AKB48.md "wikilink")及其姊姊團體的研究生於2013年6月5日在[日本武道館](../Page/日本武道館.md "wikilink")舉辦的演唱會\[1\]。
 
 ## 概要
 
@@ -7,7 +7,7 @@ Group全体出演）中，发表了将要举办这场演唱会的消息，而在
 
 在演唱会中，每演唱完一曲分组曲，演唱的成员就进行一次自我介绍，同时披露自己的特长\[4\]，这也是此次演唱会与通常AKB48组合演唱会不同的地方。
 
-演唱会的标志是由[SKE48的终身名誉研究生](../Page/SKE48.md "wikilink")[松村香织设计](https://zh.wikipedia.org/wiki/松村香织 "wikilink")。
+演唱会的标志是由[SKE48](../Page/SKE48.md "wikilink")的终身名誉研究生[松村香织设计](https://zh.wikipedia.org/wiki/松村香织 "wikilink")。
 
 ## 出演成员
 
@@ -108,7 +108,7 @@ Group全体出演）中，发表了将要举办这场演唱会的消息，而在
 
 ## 影像作品
 
-演唱會的[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray由](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[AKS在](../Page/AKS.md "wikilink")2013年11月9日發行。演唱会的演出内容、幕后花絮以及研究生们的自我介绍分别收录在4枚光碟中，并附送3张生写真及24页的演唱会写真集，在官方网站提前预约的顾客还将获得一份“早推认定书”\[6\]\[7\]\[8\]。
+演唱會的[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray由](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[AKS](../Page/AKS.md "wikilink")在2013年11月9日發行。演唱会的演出内容、幕后花絮以及研究生们的自我介绍分别收录在4枚光碟中，并附送3张生写真及24页的演唱会写真集，在官方网站提前预约的顾客还将获得一份“早推认定书”\[6\]\[7\]\[8\]。
 
 ## 注释
 

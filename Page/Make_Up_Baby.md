@@ -1,5 +1,5 @@
 《**Make Up
-Baby**》是[香港女歌手](../Page/香港.md "wikilink")[蕊蕊的首張個人專輯](https://zh.wikipedia.org/wiki/蕊蕊 "wikilink")，於2011年11月18日發行。
+Baby**》是[香港](../Page/香港.md "wikilink")女歌手[蕊蕊的首張個人專輯](https://zh.wikipedia.org/wiki/蕊蕊 "wikilink")，於2011年11月18日發行。
 
 ## 曲目
 

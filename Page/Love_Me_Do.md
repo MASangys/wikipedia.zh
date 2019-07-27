@@ -1,7 +1,7 @@
 《**Love Me
 Do**》是[披头士乐队的第一首单曲](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，以《[P.S.
 I Love
-You](../Page/P.S._I_Love_You.md "wikilink")》作为[B面](https://zh.wikipedia.org/wiki/B面曲 "wikilink")。这首[单曲于](../Page/单曲.md "wikilink")1962年10月5日在英国发行后，在排行榜上冲到第17位；1982年，该曲被重新宣传（没有重新发行，保留了同样的编号），达到第4位。这首歌于1964年在美国登顶。2012年，这首歌在欧洲进入[公有领域](../Page/公有领域.md "wikilink")，现在有法律提议把版权再延长20年。\[1\]
+You](../Page/P.S._I_Love_You.md "wikilink")》作为[B面](https://zh.wikipedia.org/wiki/B面曲 "wikilink")。这首[单曲](../Page/单曲.md "wikilink")于1962年10月5日在英国发行后，在排行榜上冲到第17位；1982年，该曲被重新宣传（没有重新发行，保留了同样的编号），达到第4位。这首歌于1964年在美国登顶。2012年，这首歌在欧洲进入[公有领域](../Page/公有领域.md "wikilink")，现在有法律提议把版权再延长20年。\[1\]
 
 ## 参与人员
 

@@ -1,5 +1,5 @@
 **West Australasian Media
-Network**（縮寫：WAMN），是一間總部位處[珀斯的](../Page/珀斯.md "wikilink")[網絡媒體](https://zh.wikipedia.org/wiki/網絡媒體 "wikilink")，由前[香港天樂媒體位於澳洲的英文新聞部獨立而成](../Page/香港天樂媒體.md "wikilink")，後者分家後於2013年初成立WAMN。現時主要針對澳洲及西澳洲製作[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，並間中轉播本地[運動賽事](https://zh.wikipedia.org/wiki/運動 "wikilink")。
+Network**（縮寫：WAMN），是一間總部位處[珀斯](../Page/珀斯.md "wikilink")的[網絡媒體](https://zh.wikipedia.org/wiki/網絡媒體 "wikilink")，由前[香港天樂媒體](../Page/香港天樂媒體.md "wikilink")位於澳洲的英文新聞部獨立而成，後者分家後於2013年初成立WAMN。現時主要針對澳洲及西澳洲製作[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，並間中轉播本地[運動賽事](https://zh.wikipedia.org/wiki/運動 "wikilink")。
 
 ## 歷史
 

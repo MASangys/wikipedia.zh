@@ -1,4 +1,4 @@
-**比亚迪F6DM**是[比亚迪汽车计划中的](../Page/比亚迪汽车.md "wikilink")[插电式混合动力的中型轿车](https://zh.wikipedia.org/wiki/插电式混合动力汽车 "wikilink")。其制造商中国的汽车制造商[比亚迪汽车由中国最大的手机电池生产商](../Page/比亚迪汽车.md "wikilink")[比亚迪股份有限公司拥有](../Page/比亚迪.md "wikilink")。
+**比亚迪F6DM**是[比亚迪汽车](../Page/比亚迪汽车.md "wikilink")计划中的[插电式混合动力的中型轿车](https://zh.wikipedia.org/wiki/插电式混合动力汽车 "wikilink")。其制造商中国的汽车制造商[比亚迪汽车](../Page/比亚迪汽车.md "wikilink")由中国最大的手机电池生产商[比亚迪](../Page/比亚迪.md "wikilink")股份有限公司拥有。
 
 ## 历史
 

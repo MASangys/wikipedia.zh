@@ -1,5 +1,5 @@
 **SM
-ROOKIES**（）是[SM娛樂於](../Page/SM娛樂.md "wikilink")2013年12月3日推出的共同創造計劃，可以預先看到練習生的Pre-Debut
+ROOKIES**（）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2013年12月3日推出的共同創造計劃，可以預先看到練習生的Pre-Debut
 Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程。
 
 ## 簡介
@@ -9,7 +9,7 @@ Team。\[1\]Pre-Debut Team可以編成各式各樣的組合，通計劃向大眾
 
 SM ROOKIES通過全新演繹名曲的音源及視頻、演出等進行公開，持續展開音源發布、公演、綜藝節目的活動。\[3\]預備出道練習生會透過SM
 ROOKIES正式公開，沒有被SM ROOKIES公開的練習生會以傳統方式出道。\[4\]2014年，部分女成員以女子組合[Red
-Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員分批從此平台畢業，以新概念大型男子組合[NCT出道](../Page/NCT.md "wikilink")。
+Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員分批從此平台畢業，以新概念大型男子組合[NCT](../Page/NCT.md "wikilink")出道。
 
 ## 成員列表
 
@@ -119,7 +119,7 @@ Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員�
 **2018年**
 
   - [藝洋](https://zh.wikipedia.org/wiki/徐藝洋 "wikilink")
-      - 9月19日在开设個人微博并表示已經離開，並於10月10日由龍韜娛樂宣佈加入該公司，此后参加中国[东方卫视选秀节目](../Page/东方卫视.md "wikilink")《[中国梦之声·下一站传奇](../Page/中国梦之声·下一站传奇.md "wikilink")》。
+      - 9月19日在开设個人微博并表示已經離開，並於10月10日由龍韜娛樂宣佈加入該公司，此后参加中国[东方卫视](../Page/东方卫视.md "wikilink")选秀节目《[中国梦之声·下一站传奇](../Page/中国梦之声·下一站传奇.md "wikilink")》。
 
 ### 成员变迁
 

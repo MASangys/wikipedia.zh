@@ -1,5 +1,5 @@
 《**BREAK
-OUT\!**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起在日本发行的第](../Page/東方神起.md "wikilink")29张[单曲](../Page/单曲.md "wikilink")。于2010年1月27日由[avex
+OUT\!**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第29张[单曲](../Page/单曲.md "wikilink")。于2010年1月27日由[avex
 trax公司下属厂牌](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[rhythm
 zone发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
@@ -13,7 +13,7 @@ OUT\!》的MV与MV的拍摄过程（只在初回限定盘中收录），在MV中
 OUT\!》的混音版本。初回限定版本封入特典是封面大小的卡片（6种中随机封入1种）。
 
 主打歌《BREAK
-OUT\!》是[朝仓礼生主演的](https://zh.wikipedia.org/wiki/朝仓礼生 "wikilink")[NHK綜合頻道电视剧](../Page/NHK綜合頻道.md "wikilink")《[铃里高校书道部](https://zh.wikipedia.org/wiki/铃里高校书道部 "wikilink")》（）的主题曲，B面曲《XIAHTIC》是[金俊秀的独唱歌曲](../Page/金俊秀.md "wikilink")，在2009年举办的巡演的[東京巨蛋公演上首次披露](../Page/東京巨蛋.md "wikilink")。LIVE
+OUT\!》是[朝仓礼生主演的](https://zh.wikipedia.org/wiki/朝仓礼生 "wikilink")[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")电视剧《[铃里高校书道部](https://zh.wikipedia.org/wiki/铃里高校书道部 "wikilink")》（）的主题曲，B面曲《XIAHTIC》是[金俊秀](../Page/金俊秀.md "wikilink")的独唱歌曲，在2009年举办的巡演的[東京巨蛋](../Page/東京巨蛋.md "wikilink")公演上首次披露。LIVE
 DVD《》有收录这首歌的演唱舞台。
 
 ## 收录歌曲
@@ -22,7 +22,7 @@ DVD《》有收录这首歌的演唱舞台。
 
 1.  《BREAK OUT\!》 (3:59)
       - 作詞：, H.U.B.、作曲：masumi、編曲：UTA
-      - [NHK綜合頻道电视剧](../Page/NHK綜合頻道.md "wikilink")《[铃里高校书道部](https://zh.wikipedia.org/wiki/铃里高校书道部 "wikilink")》（）的主题曲
+      - [NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")电视剧《[铃里高校书道部](https://zh.wikipedia.org/wiki/铃里高校书道部 "wikilink")》（）的主题曲
 2.  《XIAHTIC》 (JUNSU from 東方神起) (4:30)
       - 作詞、作曲、編曲：[JUNSU](../Page/金俊秀.md "wikilink")、日本語詞：H.U.B.
 3.  《BREAK OUT\!》 -New Jack Swing mix- (4:45)

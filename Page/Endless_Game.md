@@ -1,17 +1,17 @@
 《**Endless
-Game**》是[嵐的第](../Page/嵐.md "wikilink")41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年5月29日發行，唱片公司為[J
+Game**》是[嵐](../Page/嵐.md "wikilink")的第41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年5月29日發行，唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要
 
   - 此單曲和前作《[Calling/Breathless](https://zh.wikipedia.org/wiki/Calling/Breathless "wikilink")》發行相隔約2個月。
   - 《Endless
-    Game》為成員[櫻井翔所主演的](../Page/櫻井翔.md "wikilink")[富士電視台水十檔連續劇](../Page/富士電視台.md "wikilink")《[家族遊戲](../Page/家族遊戲.md "wikilink")》主題曲。
+    Game》為成員[櫻井翔](../Page/櫻井翔.md "wikilink")所主演的[富士電視台](../Page/富士電視台.md "wikilink")水十檔連續劇《[家族遊戲](../Page/家族遊戲.md "wikilink")》主題曲。
   - 介紹指歌詞以生活的困難為主題，旋律節奏陰沈冷酷、是一首在現實和不現實之間交錯的不可思議歌曲\[1\]。
 
 <!-- end list -->
 
-  - 在[第64回NHK紅白歌合戰以組曲形式演唱](../Page/第64回NHK紅白歌合戰.md "wikilink")（Endless
+  - 在[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")以組曲形式演唱（Endless
     Game +
     [Breathless](https://zh.wikipedia.org/wiki/Calling/Breathless "wikilink")）
 

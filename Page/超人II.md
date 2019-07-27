@@ -10,12 +10,12 @@
 
 ## 演員
 
-  - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人（卡-艾爾/
-    克拉克.肯特）](../Page/超人.md "wikilink")
+  - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人
+    克拉克.肯特）](../Page/超人.md "wikilink")（卡-艾爾/
 
   - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](../Page/露薏絲·蓮恩.md "wikilink")
 
-  - [金·哈克曼飾](../Page/金·哈克曼.md "wikilink")[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")
+  - [金·哈克曼](../Page/金·哈克曼.md "wikilink")飾[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")
 
   - 飾 [薩德將軍](../Page/薩德將軍.md "wikilink")
 

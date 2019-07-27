@@ -1,9 +1,9 @@
 《**伴娘HOLD不住**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：***Bachelorette***）是一部2012年美國黑色喜劇片，[Leslye
-Headland導演兼编剧](https://zh.wikipedia.org/wiki/:en:Leslye_Headland "wikilink")，[克絲汀·鄧斯特](https://zh.wikipedia.org/wiki/克絲汀·鄧斯特 "wikilink")、[艾拉·費雪和](../Page/艾拉·費雪.md "wikilink")[麗茲·凱普蘭主演](../Page/麗茲·凱普蘭.md "wikilink")。
+Headland導演兼编剧](https://zh.wikipedia.org/wiki/:en:Leslye_Headland "wikilink")，[克絲汀·鄧斯特](https://zh.wikipedia.org/wiki/克絲汀·鄧斯特 "wikilink")、[艾拉·費雪](../Page/艾拉·費雪.md "wikilink")和[麗茲·凱普蘭](../Page/麗茲·凱普蘭.md "wikilink")主演。
 
 ## 劇情
 
-高中時期的三個熟過頭的未婚死黨([克絲汀·鄧斯特](https://zh.wikipedia.org/wiki/克絲汀·鄧斯特 "wikilink")、[麗茲·凱普蘭](../Page/麗茲·凱普蘭.md "wikilink")、[艾拉·費雪飾](../Page/艾拉·費雪.md "wikilink"))，某天突然接到在高中時期被眾人嘲弄稱作「豬頭」的恐龍胖女孩([瑞貝爾·威爾森飾](../Page/瑞贝尔·威尔森.md "wikilink"))邀請她們為其「策劃婚禮」與「擔任伴娘」的任務通知，更令人為之氣結的是新郎竟然是個超級大帥哥！而在婚礼前一晚的彩排，众人失心疯开趴狂欢，结果伴娘搞失踪，礼服裂两半，一连串的疯狂意外让这个夜晚完全失序，婚礼能否顺利举办呢？面对伴随而生的复杂爱情关系，今夜过后，姐妹淘们能否亲密如昔？这部影片的情节引人注目，此片位于2011年发售。
+高中時期的三個熟過頭的未婚死黨([克絲汀·鄧斯特](https://zh.wikipedia.org/wiki/克絲汀·鄧斯特 "wikilink")、[麗茲·凱普蘭](../Page/麗茲·凱普蘭.md "wikilink")、[艾拉·費雪](../Page/艾拉·費雪.md "wikilink")飾)，某天突然接到在高中時期被眾人嘲弄稱作「豬頭」的恐龍胖女孩([瑞貝爾·威爾森飾](../Page/瑞贝尔·威尔森.md "wikilink"))邀請她們為其「策劃婚禮」與「擔任伴娘」的任務通知，更令人為之氣結的是新郎竟然是個超級大帥哥！而在婚礼前一晚的彩排，众人失心疯开趴狂欢，结果伴娘搞失踪，礼服裂两半，一连串的疯狂意外让这个夜晚完全失序，婚礼能否顺利举办呢？面对伴随而生的复杂爱情关系，今夜过后，姐妹淘们能否亲密如昔？这部影片的情节引人注目，此片位于2011年发售。
 
 ## 角色
 

@@ -1,5 +1,5 @@
 《**Different
-Man**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳建豪的第八張大碟](../Page/吳建豪.md "wikilink")，第五張國語專輯，在2013年5月20日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年6月7日推出。專輯第一主打是《Different
+Man**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")的第八張大碟，第五張國語專輯，在2013年5月20日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年6月7日推出。專輯第一主打是《Different
 Man》，第二主打則是《小婚禮》。
 
 ## 曲目

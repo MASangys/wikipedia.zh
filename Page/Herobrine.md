@@ -1,11 +1,11 @@
 **Herobrine**（中文社区中亦有误传：**HIM**，全称：“Herobrine in
--{Mine}-craft”，或直接被称作白眼人）是《[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")》遊戲社区传说的一個[恐怖神秘故事中的角色](../Page/都市傳說.md "wikilink")，也是《Minecraft》社区的主要图标之一，首次出现在[4chan的](../Page/4chan.md "wikilink")/v/版面中。据传闻，Herobrine会出现在玩家的遊戲世界中，并建造奇怪的建筑\[1\]。然而，[Mojang已确认Herobrine从未存在于](../Page/Mojang.md "wikilink")《Minecraft》，并且没有增加Herobrine的计划\[2\]。Herobrine不曾在任何《Minecraft》官方版本中出現（包括[Minecraft攜帶版](https://zh.wikipedia.org/wiki/Minecraft攜帶版 "wikilink")、Xbox版、PS4版）\[3\]，但有在玩家自製的[游戏模组和](https://zh.wikipedia.org/wiki/模組_\(Minecraft\) "wikilink")「材質包」中出现\[4\]\[5\]。
+-{Mine}-craft”，或直接被称作白眼人）是《[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")》遊戲社区传说的一個[恐怖神秘故事中的角色](../Page/都市傳說.md "wikilink")，也是《Minecraft》社区的主要图标之一，首次出现在[4chan](../Page/4chan.md "wikilink")的/v/版面中。据传闻，Herobrine会出现在玩家的遊戲世界中，并建造奇怪的建筑\[1\]。然而，[Mojang](../Page/Mojang.md "wikilink")已确认Herobrine从未存在于《Minecraft》，并且没有增加Herobrine的计划\[2\]。Herobrine不曾在任何《Minecraft》官方版本中出現（包括[Minecraft攜帶版](https://zh.wikipedia.org/wiki/Minecraft攜帶版 "wikilink")、Xbox版、PS4版）\[3\]，但有在玩家自製的[游戏模组和](https://zh.wikipedia.org/wiki/模組_\(Minecraft\) "wikilink")「材質包」中出现\[4\]\[5\]。
 
 ## 角色由來說法
 
 ### 由来和身世
 
-Herobrine第一次出現在[4chan的](../Page/4chan.md "wikilink")/v/版面中的一篇描述玩家目擊Herobrine的貼文，之后在Brocraft主播“Copeland”和“Patimuss”的直播后流行起来。据传说，Herobrine是《Minecraft》創立人[馬庫斯·阿列克謝·泊松的已故兄弟](https://zh.wikipedia.org/wiki/馬庫斯·阿列克謝·泊松 "wikilink")，與史蒂夫（即玩家）有着天生的仇恨，但馬庫斯·泊松沒有已故兄弟\[6\]，由來身世說法明顯不是事實的。
+Herobrine第一次出現在[4chan](../Page/4chan.md "wikilink")的/v/版面中的一篇描述玩家目擊Herobrine的貼文，之后在Brocraft主播“Copeland”和“Patimuss”的直播后流行起来。据传说，Herobrine是《Minecraft》創立人[馬庫斯·阿列克謝·泊松的已故兄弟](https://zh.wikipedia.org/wiki/馬庫斯·阿列克謝·泊松 "wikilink")，與史蒂夫（即玩家）有着天生的仇恨，但馬庫斯·泊松沒有已故兄弟\[6\]，由來身世說法明顯不是事實的。
 
 ## 能力
 

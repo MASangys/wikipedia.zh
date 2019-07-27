@@ -9,7 +9,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   - 《Powder Snow ～永無止境的冬季～》是第三代J Soul
     Brothers第三張專輯《[MIRACLE](https://zh.wikipedia.org/wiki/MIRACLE_\(第三代J_Soul_Brothers的專輯\) "wikilink")》的先行單曲。
   - A面曲《Powder Snow
-    ～永無止境的冬季～》為[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2012年11月度片尾曲，亦是[ABC-MART](https://zh.wikipedia.org/wiki/ABC-MART "wikilink")「stefanorossi」電視廣告歌曲。
+    ～永無止境的冬季～》為[朝日電視台](../Page/朝日電視台.md "wikilink")節目《お願い\!ランキング》2012年11月度片尾曲，亦是[ABC-MART](https://zh.wikipedia.org/wiki/ABC-MART "wikilink")「stefanorossi」電視廣告歌曲。
   - B面曲《FLAP YOUR
     WINGS》為[ABC-MART](https://zh.wikipedia.org/wiki/ABC-MART "wikilink")「VANS
     BOOTS SNEAKER」電視廣告歌曲。

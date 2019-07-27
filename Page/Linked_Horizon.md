@@ -1,5 +1,5 @@
 **Linked
-Horizon**是一個由音樂人[Revo創立并主導的](../Page/Revo.md "wikilink")[日本](../Page/日本.md "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[團體](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。
+Horizon**是一個由音樂人[Revo](../Page/Revo.md "wikilink")創立并主導的[日本](../Page/日本.md "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[團體](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。
 
 ## 概要
 

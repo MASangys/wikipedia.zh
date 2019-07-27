@@ -7,7 +7,7 @@ Network）以網路直播進行的首次活動。
 NXT Arrival將有的專業摔角比賽，會涉及從[WWE
 NXT存在的爭鬥](../Page/WWE_NXT.md "wikilink")、情節和故事情節，進而決定出場的摔角選手，而出場的摔角選手將會依循他們的一系列事件進行比賽甚至是冠軍頭銜爭奪，使NXT
 Arrival的比賽有著緊張情緒和高潮迭起。 而在活動開始前還有在WWE
-Network進行由[保羅·黑門](../Page/保羅·黑門.md "wikilink")、[布雷特·哈特](../Page/布雷特·哈特.md "wikilink")、和[凱文·奈許所組成一個全明星小組預展](../Page/凱文·奈許.md "wikilink")。
+Network進行由[保羅·黑門](../Page/保羅·黑門.md "wikilink")、[布雷特·哈特](../Page/布雷特·哈特.md "wikilink")、和[凱文·奈許](../Page/凱文·奈許.md "wikilink")所組成一個全明星小組預展。
 
 ## 列表
 

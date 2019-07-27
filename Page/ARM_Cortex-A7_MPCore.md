@@ -1,5 +1,5 @@
 **ARM Cortex-A7
-MPCore**是由[安謀控股实现的一款多核](../Page/安謀控股.md "wikilink")[ARMv7-A架构](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[32位元](../Page/32位元.md "wikilink")[微处理器核心](../Page/微处理器.md "wikilink")，2011年公布\[1\]。
+MPCore**是由[安謀控股](../Page/安謀控股.md "wikilink")实现的一款多核[ARMv7-A架构](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[32位元](../Page/32位元.md "wikilink")[微处理器](../Page/微处理器.md "wikilink")核心，2011年公布\[1\]。
 
 ## 特點
 

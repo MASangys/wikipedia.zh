@@ -1,5 +1,5 @@
 **Arch Hurd**是一基于[Arch
-Linux的](../Page/Arch_Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，其[内核是](../Page/内核.md "wikilink")[GNU
+Linux的](../Page/Arch_Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，其[内核](../Page/内核.md "wikilink")是[GNU
 Hurd而非](../Page/GNU_Hurd.md "wikilink")[Linux内核](../Page/Linux内核.md "wikilink")。
 
 Arch Hurd计划是2010年1月在Arch Linux的论坛帖子中创建的。\[1\]

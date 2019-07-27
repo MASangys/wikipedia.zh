@@ -1,4 +1,4 @@
-**Khazri**（[阿塞拜疆語](https://zh.wikipedia.org/wiki/阿塞拜疆語 "wikilink")：Xəzri）是[阿塞拜疆於](../Page/阿塞拜疆.md "wikilink")2011年與[俄羅斯簽定生產許可後以](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[AK-74M作基礎研製的](https://zh.wikipedia.org/wiki/AK-74 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
+**Khazri**（[阿塞拜疆語](https://zh.wikipedia.org/wiki/阿塞拜疆語 "wikilink")：Xəzri）是[阿塞拜疆](../Page/阿塞拜疆.md "wikilink")於2011年與[俄羅斯簽定生產許可後以](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[AK-74M作基礎研製的](https://zh.wikipedia.org/wiki/AK-74 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 歷史
 
@@ -6,7 +6,7 @@
 
 ## 特徵
 
-儘管Khazri本身是以AK-74M作基礎，而且兩種步槍都有著相同的重量，然而Khazri的外觀卻是與原槍有所不同。而且其[機匣頂部及護木的四周都附有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，以方便用戶裝上各種瞄準鏡和戰術配件\[3\]。另外其[槍托同時為摺疊式及伸縮式](../Page/槍托.md "wikilink")，並由塑料製成。
+儘管Khazri本身是以AK-74M作基礎，而且兩種步槍都有著相同的重量，然而Khazri的外觀卻是與原槍有所不同。而且其[機匣頂部及護木的四周都附有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，以方便用戶裝上各種瞄準鏡和戰術配件\[3\]。另外其[槍托](../Page/槍托.md "wikilink")同時為摺疊式及伸縮式，並由塑料製成。
 
 ## 使用國
 

@@ -1,56 +1,17 @@
-**MBC晨間連續劇**（），亦稱**MBC日日晨間劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晨間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1981年5月25日，播出37年直至2018年4月26日廢止。2018年4月30日起，此時段改為重播[日日連續劇時段的劇集](../Page/MBC日日連續劇.md "wikilink")。2019年7月15日起，將重啟此時段。
+**MBC晨間連續劇**（），亦稱**MBC日日晨間劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晨間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1981年5月25日，播出37年直至2018年4月26日廢止。2018年4月30日起，此時段改為重播[日日連續劇時段的劇集](../Page/MBC日日連續劇.md "wikilink")。2019年7月16日起將重啟此時段。
 
 ## 播映時間
 
-<table>
-<thead>
-<tr class="header">
-<th><p>電視台</p></th>
-<th><p>播映日期</p></th>
-<th><p>播映時間</p></th>
-<th><p>播映長度</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p>1990年4月30日 ~ 1995年9月2日</p></td>
-<td><p>每週一至周六 逢晨間8點 15分 ~ 8點 45分</p></td>
-<td><p>30分</p></td>
-</tr>
-<tr class="even">
-<td><p>1995年9月4日 ~ 1996年3月2日</p></td>
-<td><p>每週一至周六 逢晨間9點 15分 ~ 9點 45分</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1996年3月4日 ~ 2001年8月18日</p></td>
-<td><p>每週一至周六 逢晨間9點 ~ 9點 30分</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2001年8月20日 ~ 2001年11月3日</p></td>
-<td><p>每周一至周六 逢晨間8點 25分 ~ 8點 55分</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2001年11月5日 ~ 2006年4月29日</p></td>
-<td><p>每周一至周六 逢晨間9點 ~ 9點 30分</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2006年5月1日 ~ 2018年4月26日<br />
-2019年7月15日至今</p></td>
-<td><p>每周一至周五 逢晨間7點 50分 ~ 8點 30分</p></td>
-<td><p>40分</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 電視台                                                 | 播映日期                     | 播映時間                     | 播映長度 |
+| --------------------------------------------------- | ------------------------ | ------------------------ | ---- |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 1990年4月30日 \~ 1995年9月2日  | 每週一至周六 逢晨間8點15分 \~ 8點45分 | 30分  |
+| 1995年9月4日 \~ 1996年3月2日                              | 每週一至周六 逢晨間9點15分 \~ 9點45分 |                          |      |
+| 1996年3月4日 \~ 2001年8月18日                             | 每週一至周六 逢晨間9點 \~ 9點30分    |                          |      |
+| 2001年8月20日 \~ 2001年11月3日                            | 每周一至周六 逢晨間8點25分 \~ 8點55分 |                          |      |
+| 2001年11月5日 \~ 2006年4月29日                            | 每周一至周六 逢晨間9點 \~ 9點30分    |                          |      |
+| 2006年5月1日 \~ 2018年4月26日                             | 每周一至周五 逢晨間7點50分 \~ 8點30分 | 40分                      |      |
+| 2019年7月16日 \~ 至今                                    |                          |                          |      |
+|                                                     |                          |                          |      |
 
 ## 歷年作品
 
@@ -1480,7 +1441,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年7月15日－<br />
+<td style="text-align: center;"><p>2019年7月16日－<br />
 2020年1月</p></td>
 <td style="text-align: center;"><p><a href="../Page/全都是孔多利.md" title="wikilink">全都是孔多利</a><br />
 </p></td>
@@ -1490,8 +1451,19 @@
 <td style="text-align: center;"><p>金智賢</p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
+
+ 
 
 ## 相關項目
 

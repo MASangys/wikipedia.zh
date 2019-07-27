@@ -1,5 +1,5 @@
 《**Big Comic
-Superior**》（）是[小學館發行的少年](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1987年創刊。每月發行2次（第2與第4個星期五）1987年7月1日創刊。創刊主編為鈴木俊彦。現任主編為有藤智文。
+Superior**》（）是[小學館](../Page/小學館.md "wikilink")發行的少年[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1987年創刊。每月發行2次（第2與第4個星期五）1987年7月1日創刊。創刊主編為鈴木俊彦。現任主編為有藤智文。
 
 ## 連載作品
 
@@ -65,7 +65,7 @@ Superior**》（）是[小學館發行的少年](../Page/小學館.md "wikilink"
 
 ## 連載終了作品
 
-  - [相棒－たった二人の特命係－](../Page/相棒.md "wikilink")（画：[こやす珠世](https://zh.wikipedia.org/wiki/こやす珠世 "wikilink")、原作：テレビ朝日・東映）2008年1号
+  - [相棒](../Page/相棒.md "wikilink")－たった二人の特命係－（画：[こやす珠世](https://zh.wikipedia.org/wiki/こやす珠世 "wikilink")、原作：テレビ朝日・東映）2008年1号
     - 2012年12号
   - [味いちもんめ](https://zh.wikipedia.org/wiki/味いちもんめ "wikilink")（[あべ善太](https://zh.wikipedia.org/wiki/あべ善太 "wikilink")・[倉田よしみ](https://zh.wikipedia.org/wiki/倉田よしみ "wikilink")）
   - [あずみ](https://zh.wikipedia.org/wiki/あずみ "wikilink")（[小山ゆう](https://zh.wikipedia.org/wiki/小山ゆう "wikilink")）

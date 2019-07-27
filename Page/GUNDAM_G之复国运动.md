@@ -1,5 +1,5 @@
 《**GUNDAM Reconguista in
-G**》（，）是一部由[富野由悠季執导](../Page/富野由悠季.md "wikilink")、2014年10月2日由[每日放送首播的日本](../Page/每日放送.md "wikilink")[电视动画作品](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。
+G**》（，）是一部由[富野由悠季](../Page/富野由悠季.md "wikilink")執导、2014年10月2日由[每日放送](../Page/每日放送.md "wikilink")首播的日本[电视动画作品](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。
 
 ## 概述
 
@@ -7,13 +7,13 @@ G**》（，）是一部由[富野由悠季執导](../Page/富野由悠季.md "w
 鋼彈三國傳BraveBattleWarriors》在內的[《机动战士GUNDAM》系列第](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")16部电视动画作品（未算入独立小说、游戏、剧场版、OVA）。作为GUNDAM系列35周年的庆祝活动之一，本作也是日本电视动画[《机动战士GUNDAM》系列](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")[首部作品的原作者兼导演富野由悠季自](../Page/機動戰士GUNDAM.md "wikilink")1999年《[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")》以來，再度执导的GUNDAM系列電視動畫新作。\[1\]在10月開播之前，8月與9月還將分別於電影院以及網路進行前3集特別編輯版本的先行公開\[2\]。10月開播時，將前兩話組合在一起播放。
 
 本作原案為GUNDAM ACE
-2010年12月所發表的短篇小說《希冀啟動的首都G之物語》（），是一個以[轨道电梯為主要世界觀](https://zh.wikipedia.org/wiki/轨道电梯 "wikilink")，而會跳脫過去自身所創作以[宇宙殖民地為指標之](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")[宇宙世紀的故事](../Page/宇宙世紀.md "wikilink")\[3\]。2014年3月20日，[BANDAI在日本](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[東京都](../Page/東京都.md "wikilink")[御台場所舉行的機動戰士GUNDAM](../Page/御台場.md "wikilink")35周年發表會上正式發表了本作將於2014年秋天公開的消息，導演富野並在會上說明其標題命名根據：「Reconguista」是從西班牙語「reconquista」（[收復失地運動](../Page/收復失地運動.md "wikilink")）所轉化；而「G」指的既是GUNDAM、也是大地（=GROUND），同時也是日文的「元氣」（=GENKI，活力之意）\[4\]。
+2010年12月所發表的短篇小說《希冀啟動的首都G之物語》（），是一個以[轨道电梯為主要世界觀](https://zh.wikipedia.org/wiki/轨道电梯 "wikilink")，而會跳脫過去自身所創作以[宇宙殖民地為指標之](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")[宇宙世紀](../Page/宇宙世紀.md "wikilink")的故事\[3\]。2014年3月20日，[BANDAI在日本](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[東京都](../Page/東京都.md "wikilink")[御台場](../Page/御台場.md "wikilink")所舉行的機動戰士GUNDAM35周年發表會上正式發表了本作將於2014年秋天公開的消息，導演富野並在會上說明其標題命名根據：「Reconguista」是從西班牙語「reconquista」（[收復失地運動](../Page/收復失地運動.md "wikilink")）所轉化；而「G」指的既是GUNDAM、也是大地（=GROUND），同時也是日文的「元氣」（=GENKI，活力之意）\[4\]。
 
 本作的舞台由於不同於既往系列，因此並非使用「宇宙世紀」，而是改用「復新世紀」(Regild Century,
 R.C.)，是接續宇宙世紀的新世紀\[5\]。角色设计为曾经制作过《[-{zh-cn:返乡战士;
 zh-tw:極限戰士;
 zh-hk:帝皇戰紀;}-](https://zh.wikipedia.org/wiki/返乡战士 "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》等作品，并负责《[机动战士GUNDAM
-UC](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC "wikilink")》[原画的吉田健一](../Page/原画.md "wikilink")\[6\]。
+UC](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC "wikilink")》[原画](../Page/原画.md "wikilink")的吉田健一\[6\]。
 
 ## 故事簡介
 
@@ -343,7 +343,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 
       -
         **突擊背包**(Assault Pack)
-        為火力強化型背包。亞美利亞軍所造的長距離戰鬥用背包，搭載了光子眼、大型光束步槍與導彈艙，可在充滿[米諾夫斯基粒子的環境下進行超長程精密射擊](../Page/米諾夫斯基粒子.md "wikilink")，設定中還有大型光束劍。型號為BPAM-05。高度15.5公尺。重量28.9公噸。裝備的G-SELF機體會轉為紅色。
+        為火力強化型背包。亞美利亞軍所造的長距離戰鬥用背包，搭載了光子眼、大型光束步槍與導彈艙，可在充滿[米諾夫斯基粒子](../Page/米諾夫斯基粒子.md "wikilink")的環境下進行超長程精密射擊，設定中還有大型光束劍。型號為BPAM-05。高度15.5公尺。重量28.9公噸。裝備的G-SELF機體會轉為紅色。
 
 <!-- end list -->
 
@@ -640,12 +640,12 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 #### 戰艦
 
   -
-    大型宇宙運輸艦。將光子電池從多華申加搬運至聖波特的大型宇宙船，是宇宙臍帶教的神體。在粉紅色的船身上，施加了各種華麗的裝飾。造型來自[佛教的](../Page/佛教.md "wikilink")[蓮花座](https://zh.wikipedia.org/wiki/蓮花 "wikilink")。名字來源於「河岸場の神輿」，河岸場（カシーバ）是指太空港，神輿（ミコシ）是指太空船\[7\]。
+    大型宇宙運輸艦。將光子電池從多華申加搬運至聖波特的大型宇宙船，是宇宙臍帶教的神體。在粉紅色的船身上，施加了各種華麗的裝飾。造型來自[佛教](../Page/佛教.md "wikilink")的[蓮花座](https://zh.wikipedia.org/wiki/蓮花 "wikilink")。名字來源於「河岸場の神輿」，河岸場（カシーバ）是指太空港，神輿（ミコシ）是指太空船\[7\]。
 
 <!-- end list -->
 
   -
-    大型宇宙運輸艦。將光子電池從生産地運送至多華申加的遠洋輸送船。船體爲綠色。造型來自[伊斯蘭教的](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")[新月標志](../Page/新月.md "wikilink")。搭載了雷肯頓碼識別系統，會對G-SELF產生反應。
+    大型宇宙運輸艦。將光子電池從生産地運送至多華申加的遠洋輸送船。船體爲綠色。造型來自[伊斯蘭教的](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")[新月](../Page/新月.md "wikilink")標志。搭載了雷肯頓碼識別系統，會對G-SELF產生反應。
 
 ### 基特團 / G-IT部隊(茲特部隊)
 
@@ -697,12 +697,12 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 #### 戰艦
 
   -
-    宇宙移民用運輸艦。茲特部隊爲了回歸地球運動而准備的行星間移民船。船體爲黃色。造型來自[基督教的](../Page/基督教.md "wikilink")[十字架](../Page/十字架_\(基督教\).md "wikilink")。
+    宇宙移民用運輸艦。茲特部隊爲了回歸地球運動而准備的行星間移民船。船體爲黃色。造型來自[基督教](../Page/基督教.md "wikilink")的[十字架](../Page/十字架_\(基督教\).md "wikilink")。
 
 ## 用語
 
   - Regild Century（R.C.）復新世紀(港)
-    本作所屬時代，設定上為接續在[宇宙世紀和](../Page/宇宙世紀.md "wikilink")[正曆](../Page/∀GUNDAM.md "wikilink")（C.C.）之後。
+    本作所屬時代，設定上為接續在[宇宙世紀](../Page/宇宙世紀.md "wikilink")和[正曆](../Page/∀GUNDAM.md "wikilink")（C.C.）之後。
     Gild為「[鍍金](https://zh.wikipedia.org/wiki/鍍金 "wikilink")」之意，時代改號的原因乃為紀念人們成功重建於宇宙世紀時被破壞的軌道電梯，為地球再一次帶來繁榮與安穩。
 
 <!-- end list -->
@@ -718,7 +718,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 <!-- end list -->
 
   - 中樞區（Capital Territory）
-    位於Elride大陸北部，連接[加勒比海與](../Page/加勒比海.md "wikilink")[亞馬遜河流域的地區國家](https://zh.wikipedia.org/wiki/亞馬遜河 "wikilink")。
+    位於Elride大陸北部，連接[加勒比海](../Page/加勒比海.md "wikilink")與[亞馬遜河流域的地區國家](https://zh.wikipedia.org/wiki/亞馬遜河 "wikilink")。
 
 <!-- end list -->
 
@@ -765,12 +765,12 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 <!-- end list -->
 
   - 永賀 / 多華申加(港)（トワサンガ）
-    [月球背面的](../Page/月球.md "wikilink")[宇宙殖民地群](../Page/宇宙殖民地.md "wikilink")。
+    [月球](../Page/月球.md "wikilink")背面的[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")群。
 
 <!-- end list -->
 
   - 金星地球圈 / 維納斯星團(港)（ビーナス・グロゥブ）
-    [金星附近的](../Page/金星.md "wikilink")[宇宙殖民地群](../Page/宇宙殖民地.md "wikilink")，是光子电池的生产地。
+    [金星](../Page/金星.md "wikilink")附近的[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")群，是光子电池的生产地。
 
 ## 製作人員
 
@@ -1161,7 +1161,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 <td><p>星期四 25時49分－26時19分</p></td>
 <td><p><a href="../Page/日本新聞網_(TBS).md" title="wikilink">日本新聞網</a></p></td>
 <td><p><strong>製作電視台</strong><br />
-<a href="../Page/Animeism.md" title="wikilink">Animeism第</a>1部分<br />
+<a href="../Page/Animeism.md" title="wikilink">Animeism</a>第1部分<br />
 第1話及第2話連續播放</p></td>
 </tr>
 <tr class="even">

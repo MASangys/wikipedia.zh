@@ -20,7 +20,7 @@ evasi0n 1.5.2：新增法文、德文以及簡體/繁體中文支持
 
 evasi0n 1.5.1：更新内置的Cydia安裝包列表
 
-evasi0n 1.5：1.加快啟動時間；2.更新内置的[Cydia安裝包列表](../Page/Cydia.md "wikilink")
+evasi0n 1.5：1.加快啟動時間；2.更新内置的[Cydia](../Page/Cydia.md "wikilink")安裝包列表
 
 evasi0n 1.4：支持iOS 6.1.2
 

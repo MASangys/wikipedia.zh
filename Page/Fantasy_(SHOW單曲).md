@@ -1,4 +1,4 @@
-《**Fantasy**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥於](../Page/羅志祥.md "wikilink")2014年2月12日用藝名「SHOW」名義發行的第三張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，以單曲同名快歌《Fantasy》作主打歌曲。\[1\]
+《**Fantasy**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")於2014年2月12日用藝名「SHOW」名義發行的第三張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，以單曲同名快歌《Fantasy》作主打歌曲。\[1\]
 
 ## 曲目
 
@@ -29,7 +29,7 @@
 
 | 歌名                                                    | 執導                                                  | 首播日期       | 頻道      | 附註                                                                                                                                                                                                                                             |
 | ----------------------------------------------------- | --------------------------------------------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Fantasy](http://www.youtube.com/watch?v=ab5pSFnGD3Q) | [張時霖](https://zh.wikipedia.org/wiki/張時霖 "wikilink") | 2014年1月22日 | Youtube | （除歌詞[對嘴畫面外](https://zh.wikipedia.org/wiki/對嘴 "wikilink")，其他部分與中文版本相同）與南韓女子團體[Brown Eyed Girls成員](../Page/Brown_Eyed_Girls.md "wikilink")[孫佳人合作](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")，並由[郭志達擔任MV的美術設計](../Page/郭志達.md "wikilink")\[5\] |
+| [Fantasy](http://www.youtube.com/watch?v=ab5pSFnGD3Q) | [張時霖](https://zh.wikipedia.org/wiki/張時霖 "wikilink") | 2014年1月22日 | Youtube | （除歌詞[對嘴畫面外](https://zh.wikipedia.org/wiki/對嘴 "wikilink")，其他部分與中文版本相同）與南韓女子團體[Brown Eyed Girls成員](../Page/Brown_Eyed_Girls.md "wikilink")[孫佳人合作](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")，並由[郭志達](../Page/郭志達.md "wikilink")擔任MV的美術設計\[5\] |
 
 ## 銷售榜單成績
 

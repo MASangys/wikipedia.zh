@@ -4,14 +4,14 @@ Word](../Page/Microsoft_Word.md "wikilink")、[Microsoft
 Excel](../Page/Microsoft_Excel.md "wikilink")、[Microsoft
 PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")、[Microsoft
 OneNote和](../Page/Microsoft_OneNote.md "wikilink")[Microsoft
-Outlook的网页版](../Page/Microsoft_Outlook.md "wikilink")。这些网页应用使用户可以使用一个[网页浏览器直接访问他们的文件](../Page/网页浏览器.md "wikilink")，同时也支持文件分享和与其他用户在线协作。
+Outlook的网页版](../Page/Microsoft_Outlook.md "wikilink")。这些网页应用使用户可以使用一个[网页浏览器](../Page/网页浏览器.md "wikilink")直接访问他们的文件，同时也支持文件分享和与其他用户在线协作。
 
 ## 可用性
 
 支持的瀏覽器包括[Internet Explorer
-11版本](../Page/Internet_Explorer_11.md "wikilink")，最新版本的[Firefox和](../Page/Firefox.md "wikilink")[Google
-Chrome](../Page/Google_Chrome.md "wikilink")，以及[Safari的Mac OS X
-v10.6或更高版本](../Page/Safari.md "wikilink")\[1\]
+11版本](../Page/Internet_Explorer_11.md "wikilink")，最新版本的[Firefox](../Page/Firefox.md "wikilink")和[Google
+Chrome](../Page/Google_Chrome.md "wikilink")，以及[Safari OS X
+v10.6或更高版本](../Page/Safari.md "wikilink")的Mac\[1\]
 
 ## 参考资料
 

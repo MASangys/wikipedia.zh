@@ -1,5 +1,5 @@
 **Sony Xperia
-M**(C1905)，是[索尼移动通信于](../Page/索尼移动通信.md "wikilink")2013年6月4日在发布的[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。在2013年8月正式推出市面，以Android4.1
+M**(C1905)，是[索尼移动通信](../Page/索尼移动通信.md "wikilink")于2013年6月4日在发布的[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。在2013年8月正式推出市面，以Android4.1
 Jelly Bean作業系統推出，現在已經可以透過多個方法升級至Android 4.3 Jelly Bean。**Sony Xperia
 M**曾經獲得紅點設計獎。\[1\]
 

@@ -1,4 +1,4 @@
-**reborn**是[中国大陆双胞胎偶像女子团体组合](../Page/中国大陆.md "wikilink")，以[2006年超级女声杭州赛区冠军](https://zh.wikipedia.org/wiki/2006年超级女声 "wikilink")、全国第八名成绩出道。成員為姊姊[马剑琴](https://zh.wikipedia.org/wiki/马剑琴 "wikilink")、妹妹[马剑琪](https://zh.wikipedia.org/wiki/马剑琪 "wikilink")。兩個人名字組合起來便是reborn，2007年发行首张专辑《快乐成双》，同时出演过《隋唐英雄》、《一起来看流星雨》、《化剑》等电视剧。2013年5月Reborn正式更名为“Reborn双鱼座”，并发行全新性感电子舞曲《救救我》。
+**reborn**是[中国大陆](../Page/中国大陆.md "wikilink")双胞胎偶像女子团体组合，以[2006年超级女声杭州赛区冠军](https://zh.wikipedia.org/wiki/2006年超级女声 "wikilink")、全国第八名成绩出道。成員為姊姊[马剑琴](https://zh.wikipedia.org/wiki/马剑琴 "wikilink")、妹妹[马剑琪](https://zh.wikipedia.org/wiki/马剑琪 "wikilink")。兩個人名字組合起來便是reborn，2007年发行首张专辑《快乐成双》，同时出演过《隋唐英雄》、《一起来看流星雨》、《化剑》等电视剧。2013年5月Reborn正式更名为“Reborn双鱼座”，并发行全新性感电子舞曲《救救我》。
 
 ## 主要经历
 

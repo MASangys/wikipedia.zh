@@ -1,8 +1,8 @@
-《**道路**》（）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年2月14日於日本發行。
+《**道路**》（）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年2月14日於日本發行。
 
 ## 解說
 
-  - 加入了新成員主唱[TAKAHIRO及表演者的](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")[AKIRA的EXILE第二章第三張的單曲](../Page/AKIRA.md "wikilink")。是其第5張專輯《[EXILE
+  - 加入了新成員主唱[TAKAHIRO及表演者的](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")[AKIRA](../Page/AKIRA.md "wikilink")的EXILE第二章第三張的單曲。是其第5張專輯《[EXILE
     EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")》的先行發行單曲。
   - 有「CD+DVD」及「CD ONLY」2種形態。2種形態也是完全限定生產發售，封面也不相同並且以紙盒包裝。
   - 以「畢業=出發」為主題的抒情歌歌曲，由除了原版本以外，還有收錄鋼琴版本及混聲三部分的合唱。
@@ -10,9 +10,9 @@
   - EXILE自己首次的畢業歌也因為新成員的加入關係，於3月1日在新主唱TAKAHIRO的母校[長崎縣立佐世保東翔高級中學的畢業禮中實行驚喜現場演唱](https://zh.wikipedia.org/wiki/長崎縣立佐世保東翔高級中學 "wikilink")。\[1\]
   - 在「想在畢業禮裏唱這歌」的要求相繼發生之下，官方網站進行了能下載樂譜的宣傳活動。
   - 音樂影片（PV）的拍攝室外場景的一部分是在[立教大學](../Page/立教大學.md "wikilink")，而體育館內場景則是[東京女子大學](https://zh.wikipedia.org/wiki/東京女子大學 "wikilink")。TAKAHIRO說「自己因為沒有來過大學所以感到非常新鮮」。ATSUSHI說「想在高中時代聽這首歌」。道中りほ、[岡田光](https://zh.wikipedia.org/wiki/岡田光 "wikilink")、[豊田エリー](https://zh.wikipedia.org/wiki/豊田エリー "wikilink")、[小柳心也參與演出](https://zh.wikipedia.org/wiki/小柳心 "wikilink")。
-  - 《[YES\!](../Page/YES!_\(EXILE單曲\).md "wikilink")》以來隔了約1年，第4部作品登上[Oricon公信榜第](../Page/Oricon公信榜.md "wikilink")1位，也成為Oricon總計**第1000首曲目**獲得第1位的歌曲。在2007年2月27日，於Oricon總部進行了頒獎典禮。\[2\]
-  - 2008年12月22日起開始作為了[京濱急行電鐵的列車接近聲音](../Page/京濱急行電鐵.md "wikilink")。
-  - 2010年3月2日播映的[富士電視台系](../Page/富士電視台.md "wikilink")4晚連續廣映作品電視劇《畢業歌》的第2夜晚以這首歌為主題的「道路」這集由[國仲涼子主演而在此集中也播放了此曲](../Page/國仲涼子.md "wikilink")。
+  - 《[YES\!](../Page/YES!_\(EXILE單曲\).md "wikilink")》以來隔了約1年，第4部作品登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第1位，也成為Oricon總計**第1000首曲目**獲得第1位的歌曲。在2007年2月27日，於Oricon總部進行了頒獎典禮。\[2\]
+  - 2008年12月22日起開始作為了[京濱急行電鐵](../Page/京濱急行電鐵.md "wikilink")的列車接近聲音。
+  - 2010年3月2日播映的[富士電視台](../Page/富士電視台.md "wikilink")系4晚連續廣映作品電視劇《畢業歌》的第2夜晚以這首歌為主題的「道路」這集由[國仲涼子](../Page/國仲涼子.md "wikilink")主演而在此集中也播放了此曲。
 
 ## 發行版本
 
@@ -29,7 +29,7 @@
     <!-- end list -->
       -
         music.jp 電視 動畫廣告歌
-        [日本電視台系](../Page/日本電視台.md "wikilink")《[音樂戰士 MUSIC
+        [日本電視台](../Page/日本電視台.md "wikilink")系《[音樂戰士 MUSIC
         FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")》2月開場主題曲
         全國卡拉OK經營者協會畢業季節推薦歌
 2.  道路 -Piano Version-

@@ -1,5 +1,5 @@
 《**数码宝贝X进化**》（Digital Monster
-X-evolution）是由[东映动画制作](../Page/东映动画.md "wikilink")、[香港](../Page/香港.md "wikilink")[意馬國際CG制作的TV特别篇](../Page/意馬國際.md "wikilink")，改编自《数码宝贝编年史》（Digimon
+X-evolution）是由[东映动画](../Page/东映动画.md "wikilink")制作、[香港](../Page/香港.md "wikilink")[意馬國際](../Page/意馬國際.md "wikilink")CG制作的TV特别篇，改编自《数码宝贝编年史》（Digimon
 Chronicle）\[1\]，2005年1月3日（周一）早上7:00－8:33在[富士电视台首播](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。
 
 ## 剧情
@@ -134,7 +134,7 @@ Death-X-DORUgoramon</p></td>
 
 ## 制作发行
 
-2005年1月3日早上7点在[富士电视台播出](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")\[2\]，影片在同年11月25日发行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[3\]（附送特典解说），最初在媒体上公开制作情报时，原名为《数码宝贝X进化～第13位皇家骑士～》（），原定是以[剧场版的形式放映](https://zh.wikipedia.org/wiki/剧场版 "wikilink")，但后来却因[赞助商预算评估到数码宝贝系列人气不再](https://zh.wikipedia.org/wiki/赞助商 "wikilink")，所以不肯冒险以高成本的[电影方式公开](../Page/电影.md "wikilink")，被降格为TV特别篇。全[CG制作](https://zh.wikipedia.org/wiki/CG "wikilink")，由[香港](../Page/香港.md "wikilink")[意马国际](https://zh.wikipedia.org/wiki/意马国际 "wikilink")（Imagi
+2005年1月3日早上7点在[富士电视台播出](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")\[2\]，影片在同年11月25日发行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[3\]（附送特典解说），最初在媒体上公开制作情报时，原名为《数码宝贝X进化～第13位皇家骑士～》（），原定是以[剧场版的形式放映](https://zh.wikipedia.org/wiki/剧场版 "wikilink")，但后来却因[赞助商预算评估到数码宝贝系列人气不再](https://zh.wikipedia.org/wiki/赞助商 "wikilink")，所以不肯冒险以高成本的[电影](../Page/电影.md "wikilink")方式公开，被降格为TV特别篇。全[CG制作](https://zh.wikipedia.org/wiki/CG "wikilink")，由[香港](../Page/香港.md "wikilink")[意马国际](https://zh.wikipedia.org/wiki/意马国际 "wikilink")（Imagi
 Animation Studios Limited）承担CG制作的部分。
 
 故事构成和主角数码宝贝是基于《数码宝贝编年史》，但是这部TV特别篇并没有原作中[堂本光太和](https://zh.wikipedia.org/wiki/堂本光太 "wikilink")[武者勇治等人类的出现](https://zh.wikipedia.org/wiki/武者勇治 "wikilink")，因此故事的描述未考虑到人类。
@@ -291,11 +291,11 @@ Omegamon X-Antibody</p></td>
 
   - 香港
 
-[正文社的余遠鍠授权创作](../Page/正文社.md "wikilink")《[數碼-{}-暴龍D-Cyber超進化龍魂戰記](https://zh.wikipedia.org/wiki/數碼暴龍D-Cyber超進化龍魂戰記 "wikilink")》（共2卷14话，改編於携带机漫画《數碼寶貝編年史》），連載於《[CO-CO\!](../Page/CO-CO!.md "wikilink")》。
+[正文社](../Page/正文社.md "wikilink")的余遠鍠授权创作《[數碼-{}-暴龍D-Cyber超進化龍魂戰記](https://zh.wikipedia.org/wiki/數碼暴龍D-Cyber超進化龍魂戰記 "wikilink")》（共2卷14话，改編於携带机漫画《數碼寶貝編年史》），連載於《[CO-CO\!](../Page/CO-CO!.md "wikilink")》。
 
   - 新加坡
 
-[創藝出版社代理余遠鍠的](../Page/創藝出版社.md "wikilink")《[Digimon
+[創藝出版社](../Page/創藝出版社.md "wikilink")代理余遠鍠的《[Digimon
 D-Cyber](https://zh.wikipedia.org/wiki/數碼暴龍D-Cyber超進化龍魂戰記 "wikilink")》，在新加坡和马来西亚发行英文和简体中文版（封面为繁体中文封面）。
 
 ### 数码宝贝编年史X
@@ -430,4 +430,4 @@ Anubimon</p></td>
     Leaf）」的森林。该森林也是目击「幻想战士」的多发地域。
 5.
 6.  大多由贵族带领的军队被称作“噩梦军团（NSo，Nightmare Soldiers）”。
-7.  [吸血鬼数码兽之王大德拉库兽在古代黑暗区域内构建了城堡](../Page/吸血鬼.md "wikilink")，传说他拥有不死之身，与数码世界产生出黑暗区域的缘由有着某种关系。在超古代，[光明兽和](https://zh.wikipedia.org/wiki/光明兽 "wikilink")[魔神兽发动反叛战争](https://zh.wikipedia.org/wiki/魔神兽 "wikilink")，与许多魔王型数码兽一同被封印在黑暗区域。其他叛乱的天使数码兽，也被监禁在黑暗区域之内，成为魔王或堕天使数码兽。当数码兽被冠以七大魔王之名的数码兽葬送时，他们的数据不会轮回转生，而是送往黑暗区域的中心，化为魔王们的血肉。
+7.  [吸血鬼](../Page/吸血鬼.md "wikilink")数码兽之王大德拉库兽在古代黑暗区域内构建了城堡，传说他拥有不死之身，与数码世界产生出黑暗区域的缘由有着某种关系。在超古代，[光明兽和](https://zh.wikipedia.org/wiki/光明兽 "wikilink")[魔神兽发动反叛战争](https://zh.wikipedia.org/wiki/魔神兽 "wikilink")，与许多魔王型数码兽一同被封印在黑暗区域。其他叛乱的天使数码兽，也被监禁在黑暗区域之内，成为魔王或堕天使数码兽。当数码兽被冠以七大魔王之名的数码兽葬送时，他们的数据不会轮回转生，而是送往黑暗区域的中心，化为魔王们的血肉。

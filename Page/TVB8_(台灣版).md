@@ -1,8 +1,8 @@
-**[TVB8的台灣版](../Page/TVB8.md "wikilink")**是由[TVBS營運](https://zh.wikipedia.org/wiki/TVBS "wikilink")，屬於联意制作股份有限公司（[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")）的家族頻道之一，亦是TVBS的第一个[高畫質綜合頻道](https://zh.wikipedia.org/wiki/高畫質 "wikilink")。2017年8月2日深夜因執照到期停播，並原頻開播**[TVBS精采台](../Page/TVBS精采台.md "wikilink")**。
+**[TVB8](../Page/TVB8.md "wikilink")的台灣版**是由[TVBS營運](https://zh.wikipedia.org/wiki/TVBS "wikilink")，屬於联意制作股份有限公司（[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")）的家族頻道之一，亦是TVBS的第一个[高畫質綜合頻道](https://zh.wikipedia.org/wiki/高畫質 "wikilink")。2017年8月2日深夜因執照到期停播，並原頻開播**[TVBS精采台](../Page/TVBS精采台.md "wikilink")**。
 
 ## 歷史
 
-  - 原定2013年6月17日開播，後延到2013年7月8日中午12點在[中華電信MOD第](../Page/中華電信MOD.md "wikilink")40頻道開播。該版本以播放TVBS自制的[綜藝節目與](../Page/綜藝節目.md "wikilink")[香港無綫電視](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")（TVB）的[港劇為主](https://zh.wikipedia.org/wiki/港劇 "wikilink")，亦會少量播放來自香港TVB8的自制節目以及來自TVB的非劇集類節目。
+  - 原定2013年6月17日開播，後延到2013年7月8日中午12點在[中華電信MOD](../Page/中華電信MOD.md "wikilink")第40頻道開播。該版本以播放TVBS自制的[綜藝節目](../Page/綜藝節目.md "wikilink")與[香港無綫電視](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")（TVB）的[港劇為主](https://zh.wikipedia.org/wiki/港劇 "wikilink")，亦會少量播放來自香港TVB8的自制節目以及來自TVB的非劇集類節目。
   - 2015年4月1日，[台灣互動電視公司結束代理TVB](https://zh.wikipedia.org/wiki/台灣互動電視公司 "wikilink")8台灣版在中華電信MOD播出業務，TVB8台灣版改由TVBS直接提供中華電信MOD播出，頻道位置仍為第40頻道。
   - 2017年8月2日，因TVB8台灣版執照到期，TVBS改以向國家通訊傳播委員會申請**聯利精采台**以取代本頻道，該頻道於8月2日深夜停播，隨即於原頻道開播**TVBS精采台**。
 

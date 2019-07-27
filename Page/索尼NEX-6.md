@@ -1,5 +1,5 @@
 **索尼
-NEX-6**是[索尼于](../Page/索尼.md "wikilink")2012年9月12日发布的一款[α品牌](https://zh.wikipedia.org/wiki/Sony_α "wikilink")[微单](https://zh.wikipedia.org/wiki/微单 "wikilink")[数码相机](../Page/数码相机.md "wikilink")。作为一款定位在[索尼
+NEX-6**是[索尼](../Page/索尼.md "wikilink")于2012年9月12日发布的一款[α品牌](https://zh.wikipedia.org/wiki/Sony_α "wikilink")[微单](https://zh.wikipedia.org/wiki/微单 "wikilink")[数码相机](../Page/数码相机.md "wikilink")。作为一款定位在[索尼
 NEX-5系列和](https://zh.wikipedia.org/wiki/索尼_NEX-5 "wikilink")[索尼
 NEX-7之间的产品](https://zh.wikipedia.org/wiki/索尼_NEX-7 "wikilink")，在外观上NEX-6与后者（NEX-7）较为相近。与NEX-7不同的是，NEX-6的感光元件采用的仍然是之前1600万像素的IMX071，但是做过修改，内嵌相位对焦点；而机顶只有一个参数调节滚轮，且在该滚轮上方有常见于[单反相机的实体化的](https://zh.wikipedia.org/wiki/单反相机 "wikilink")[曝光模式切换拨轮](https://zh.wikipedia.org/wiki/曝光模式 "wikilink")。
 

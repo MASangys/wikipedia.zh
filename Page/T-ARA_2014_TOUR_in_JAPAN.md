@@ -1,5 +1,5 @@
 **T-ARA 2014 TOUR in
-JAPAN**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第](https://zh.wikipedia.org/wiki/T-ara "wikilink")3次[日本全國巡迴演唱會](../Page/日本.md "wikilink")。巡迴演唱會於2014年12月1日開始，地點為[大阪国際会議場](https://zh.wikipedia.org/wiki/大阪 "wikilink")；於12月16日結束，地點為[横浜](https://zh.wikipedia.org/wiki/横浜 "wikilink")
+JAPAN**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第](https://zh.wikipedia.org/wiki/T-ara "wikilink")3次[日本](../Page/日本.md "wikilink")全國巡迴演唱會。巡迴演唱會於2014年12月1日開始，地點為[大阪国際会議場](https://zh.wikipedia.org/wiki/大阪 "wikilink")；於12月16日結束，地點為[横浜](https://zh.wikipedia.org/wiki/横浜 "wikilink")
 国立大ホール。
 
 ## 演出日期

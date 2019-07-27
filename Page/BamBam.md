@@ -1,31 +1,31 @@
-**恭比穆格·普瓦古爾**（，），藝名**BamBam**（），在[韓國出道的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[泰國籍男](https://zh.wikipedia.org/wiki/泰國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，2014年1月16日以七人[嘻哈男子團體](../Page/嘻哈.md "wikilink")[GOT7成員在韓國出道](../Page/GOT7.md "wikilink")，在隊內擔任Rapper及副領舞。
+**恭比穆格·普瓦古爾**（，），藝名**BamBam**（），在[韓國出道的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[泰國籍男](https://zh.wikipedia.org/wiki/泰國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，2014年1月16日以七人[嘻哈](../Page/嘻哈.md "wikilink")男子團體[GOT7](../Page/GOT7.md "wikilink")成員在韓國出道，在隊內擔任副Rapper及副領舞。
 
 ## 生涯
 
 ### 出道前
 
-在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷出生長大](../Page/曼谷.md "wikilink")，家中成員有母親、兩個哥哥（Beer\&Bank）和一個妹妹（Baby）\[1\]，由於父親車禍早逝，四兄妹皆由在泰國開設韓國料理店的母親獨力撫養長大。母親是韓國歌手[Rain的忠實歌迷](../Page/Rain.md "wikilink")，因此BamBam從小耳濡目染，對韓國文化和音樂很感興趣\[2\]。藝名「BamBam」沿用自祖母為他取的小名，意在期許BamBam能像美國動畫影集《[摩登原始人](../Page/摩登原始人.md "wikilink")》中的角色「Bamm-Bamm
+在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")出生長大，家中成員有母親、兩個哥哥（Beer\&Bank）和一個妹妹（Baby）\[1\]，由於父親車禍早逝，四兄妹皆由在泰國開設韓國料理店的母親獨力撫養長大。母親是韓國歌手[Rain](../Page/Rain.md "wikilink")的忠實歌迷，因此BamBam從小耳濡目染，對韓國文化和音樂很感興趣\[2\]。藝名「BamBam」沿用自祖母為他取的小名，意在期許BamBam能像美國動畫影集《[摩登原始人](../Page/摩登原始人.md "wikilink")》中的角色「Bamm-Bamm
 Rubble」一樣強壯而命名\[3\]。
 
 年幼時曾加入名為「We Zaa
-Cool」的舞團（與[YG娛樂旗下女子組合](../Page/YG娛樂.md "wikilink")[BLACKPINK的成員](../Page/BLACKPINK.md "wikilink")[Lisa同為該舞團的成員](../Page/Lisa_\(泰國歌手\).md "wikilink")），四處參加比賽和表演，2009年曾多次在泰國歌唱節目《LG
+Cool」的舞團（與[YG娛樂](../Page/YG娛樂.md "wikilink")旗下女子組合[BLACKPINK](../Page/BLACKPINK.md "wikilink")的成員[Lisa同為該舞團的成員](../Page/Lisa_\(泰國歌手\).md "wikilink")），四處參加比賽和表演，2009年曾多次在泰國歌唱節目《LG
 Entertainer》亮相表演。BamBam尤其擅長模仿Rain的舞蹈，2007年在泰國參加Rain Cover
-Dance比賽獲得冠軍，雖然因此得到[JYP娛樂培訓的機會](../Page/JYP娛樂.md "wikilink")，但考慮到年紀太小，最終並未前往，直到後來開始拍攝廣告，才再次受到JYP娛樂星探的注意，受邀參加甄選\[4\]，2010年5月前往韓國JYP娛樂展開約3年半的練習生訓練生活。
+Dance比賽獲得冠軍，雖然因此得到[JYP娛樂](../Page/JYP娛樂.md "wikilink")培訓的機會，但考慮到年紀太小，最終並未前往，直到後來開始拍攝廣告，才再次受到JYP娛樂星探的注意，受邀參加甄選\[4\]，2010年5月前往韓國JYP娛樂展開約3年半的練習生訓練生活。
 
-2013年底與[GOT7成員](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[有謙在Mnet的生存計畫節目](../Page/金有謙.md "wikilink")《WIN》中作為JYP的練習生率先曝光，優異的舞蹈實力受到[YG娛樂創辦人](../Page/YG娛樂.md "wikilink")[梁鉉錫讚賞](../Page/梁鉉錫.md "wikilink")\[5\]，也令[朴軫永改變主意](../Page/朴軫永.md "wikilink")，讓原本不在出道名單中的Bam
+2013年底與[GOT7](../Page/GOT7.md "wikilink")成員[Jackson](../Page/王嘉爾.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[有謙在Mnet的生存計畫節目](../Page/金有謙.md "wikilink")《WIN》中作為JYP的練習生率先曝光，優異的舞蹈實力受到[YG娛樂](../Page/YG娛樂.md "wikilink")創辦人[梁鉉錫](../Page/梁鉉錫.md "wikilink")讚賞\[5\]，也令[朴軫永](../Page/朴軫永.md "wikilink")改變主意，讓原本不在出道名單中的Bam
 Bam追加成為GOT7的第七名成員。\[6\]
 
 ### GOT7活動
 
 2014年1月16日，正式於組合GOT7出道，在團內是rap擔當。
-2015年3月19日起，與[GOT7的](../Page/GOT7.md "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")、[SHINee的](../Page/SHINee.md "wikilink")[Key和](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[CNBLUE的](../Page/CNBLUE.md "wikilink")[李正信一同擔任](../Page/李正信.md "wikilink")
+2015年3月19日起，與[GOT7](../Page/GOT7.md "wikilink")的[珍榮](../Page/朴珍榮.md "wikilink")、[SHINee](../Page/SHINee.md "wikilink")的[Key和](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的[李正信](../Page/李正信.md "wikilink")一同擔任
 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的固定MC，於2016年3月3日下車。
 
 ### 個人活動
 
 2017年起，陸續以團體或個人方式演出泰國電視節目、出席時尚品牌活動。2018年2月10日，與成員[Mark以小分隊形式於泰國舉辦粉絲見面會](../Page/段宜恩.md "wikilink")「PROJECT
-BLUR」，並於2018年接拍多支個人代言廣告。2019年3月1日至17日，首度於泰國[曼谷](../Page/曼谷.md "wikilink")、[呵叻](https://zh.wikipedia.org/wiki/呵叻 "wikilink")、[孔敬](../Page/孔敬.md "wikilink")、[普吉與](../Page/普吉市.md "wikilink")[清邁五大城市舉辦個人巡迴粉絲見面會](../Page/清邁.md "wikilink")「BLACK
+BLUR」，並於2018年接拍多支個人代言廣告。2019年3月1日至17日，首度於泰國[曼谷](../Page/曼谷.md "wikilink")、[呵叻](https://zh.wikipedia.org/wiki/呵叻 "wikilink")、[孔敬](../Page/孔敬.md "wikilink")、[普吉與](../Page/普吉市.md "wikilink")[清邁](../Page/清邁.md "wikilink")五大城市舉辦個人巡迴粉絲見面會「BLACK
 FEATHER」。
 
 ## 音樂作品
@@ -37,7 +37,7 @@ FEATHER」。
 ### 電影
 
   - 2012年 香港電影《[追兇](https://zh.wikipedia.org/wiki/追兇 "wikilink")》 飾 Ray
-    ([劉青雲及](../Page/劉青雲.md "wikilink")[萬綺雯之兒子](../Page/萬綺雯.md "wikilink"))
+    ([劉青雲](../Page/劉青雲.md "wikilink")及[萬綺雯](../Page/萬綺雯.md "wikilink")之兒子)
 
 ### 電視劇
 
@@ -116,7 +116,7 @@ FEATHER」。
 
 ## 廣告代言
 
-  - 2010年 泰國 [肯德基炸雞](../Page/肯德基.md "wikilink")
+  - 2010年 泰國 [肯德基](../Page/肯德基.md "wikilink")炸雞
   - 2011年 泰國 [阿華田 UHT牛奶](../Page/阿華田.md "wikilink")
   - 2011年 泰國 [固力果 Giant Caplico脆皮巧克力筒](../Page/江崎固力果.md "wikilink")
   - 2011年 泰國 Berli Jucker (BJC集團) Parrot Natural Guard 沐浴乳
@@ -124,7 +124,7 @@ FEATHER」。
     Motor](https://zh.wikipedia.org/wiki/Yamaha_Motor_Co.,_Ltd. "wikilink")
   - 2018-19年 泰國 [卜蜂食品 CP
     Sausage](https://zh.wikipedia.org/wiki/卜蜂集團 "wikilink")
-  - 2018-19年 泰國 [Vivo手機 V9、V11、V11i、V15](../Page/Vivo.md "wikilink")
+  - 2018-19年 泰國 [Vivo V9、V11、V11i、V15](../Page/Vivo.md "wikilink")手機
   - 2018-19年 泰國 RESTIER 樂睡恬寢具
   - 2018-19年 泰國 [AIS通信](../Page/AIS通信.md "wikilink") NEXT G
   - 2018-19年 泰國 [Shopee 蝦皮購物](../Page/蝦皮購物.md "wikilink")

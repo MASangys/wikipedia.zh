@@ -3,11 +3,11 @@ foundation = 2005 | location =
 [美国](../Page/美国.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")
 | key_people = James Byers、Adam Frey（合伙创建人）、Dominick Bellizzi |
 num_employees = 10 | industry =  | products =
-[Wiki托管](../Page/Wiki.md "wikilink") | revenue = | website =
+[Wiki](../Page/Wiki.md "wikilink")托管 | revenue = | website =
 [www.wikispaces.com](http://www.wikispaces.com/) }}
 
-**Wikispaces**是一家设在[旧金山的](../Page/旧金山.md "wikilink")[免费网页寄存服务](https://zh.wikipedia.org/wiki/免费网页寄存服务 "wikilink")（有时称作[Wiki农场](https://zh.wikipedia.org/wiki/Wiki农场 "wikilink")）。于2005年3月成立。Wikispaces属于Tangient
-[LLC并且是最大的wiki托管商](../Page/有限公司.md "wikilink")，竞争对手有[PBworks](https://zh.wikipedia.org/wiki/PBworks "wikilink")、[Wetpaint](https://zh.wikipedia.org/wiki/Wetpaint "wikilink")、[Wikia和](../Page/Wikia.md "wikilink")[Google
+**Wikispaces**是一家设在[旧金山](../Page/旧金山.md "wikilink")的[免费网页寄存服务](https://zh.wikipedia.org/wiki/免费网页寄存服务 "wikilink")（有时称作[Wiki农场](https://zh.wikipedia.org/wiki/Wiki农场 "wikilink")）。于2005年3月成立，于2019年1月31号終止服務。Wikispaces属于Tangient
+[LLC并且是最大的wiki托管商](../Page/有限公司.md "wikilink")，竞争对手有[PBworks](https://zh.wikipedia.org/wiki/PBworks "wikilink")、[Wetpaint](https://zh.wikipedia.org/wiki/Wetpaint "wikilink")、[Wikia](../Page/Wikia.md "wikilink")和[Google
 Sites](https://zh.wikipedia.org/wiki/Google_Sites "wikilink")（非正式称呼为JotSpot）。\[1\]
 
 私人的wiki具有高级的能用于商业活动、非盈利组织和教育家的功能以收取年费。截至2008年3月，已有920,000多个注册用户并托管了390,000多个wiki站点。\[2\]2009年3月这个数字增长到超过220万注册用户和超过900,000个wiki站点\[3\]Wikispaces还提供超过100,000的高级wiki用于[K-12教育](https://zh.wikipedia.org/wiki/K-12 "wikilink")。\[4\]

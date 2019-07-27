@@ -1,5 +1,5 @@
 **Dell Streak 5**（曾名為Dell Mini
-5）是[美國電腦商](https://zh.wikipedia.org/wiki/美國 "wikilink")[戴爾推出的](../Page/戴爾.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")/[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink")
+5）是[美國電腦商](https://zh.wikipedia.org/wiki/美國 "wikilink")[戴爾](../Page/戴爾.md "wikilink")推出的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")/[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink")
 [Android](../Page/Android.md "wikilink")
 [操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，2010年6月4日推出，2011年8月15日起停止出售。
 
@@ -21,7 +21,7 @@ Dell Streak 推出時採用Android 1.6 (Donut) 版本操作系統；戴爾於201
 2.2 (Froyo) 版本。部份國家發售的 Streak
 設有特製[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")
 Stage UI。預載軟件包括 TouchDown，支援 [Microsoft
-Exchange](https://zh.wikipedia.org/wiki/Microsoft_Exchange "wikilink")，供同步[郵件和](../Page/郵件.md "wikilink")[日曆](https://zh.wikipedia.org/wiki/日曆 "wikilink")。\[3\]
+Exchange](https://zh.wikipedia.org/wiki/Microsoft_Exchange "wikilink")，供同步[郵件](../Page/郵件.md "wikilink")和[日曆](https://zh.wikipedia.org/wiki/日曆 "wikilink")。\[3\]
 
 ## 參考資料
 

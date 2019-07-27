@@ -1,5 +1,5 @@
 《**We Are
-One**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Fabel的第一張音樂專輯](../Page/Fabel.md "wikilink")，於2013年12月20日推出，整張專輯由著名音樂人[Alvin
+One**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Fabel](../Page/Fabel.md "wikilink")的第一張音樂專輯，於2013年12月20日推出，整張專輯由著名音樂人[Alvin
 Leong監製](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink")。
 
 ## 曲目

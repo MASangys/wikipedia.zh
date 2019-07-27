@@ -1,15 +1,15 @@
 **Uliweb**（*UnLimited Web
-Framework*）是一款中型[Pythonweb框架](../Page/Python.md "wikilink")。
-框架采用与[Django相同的MVT模式和](../Page/Django.md "wikilink")的模板，底层基于[Werkzeug](https://zh.wikipedia.org/wiki/Werkzeug "wikilink")，数据库[ORM则对](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")[SQLAlchemy进行了封装](../Page/SQLAlchemy.md "wikilink")。Uliweb使用BSD授权。
+Framework*）是一款中型[Python](../Page/Python.md "wikilink")web框架。
+框架采用与[Django](../Page/Django.md "wikilink")相同的MVT模式和的模板，底层基于[Werkzeug](https://zh.wikipedia.org/wiki/Werkzeug "wikilink")，数据库[ORM则对](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")[SQLAlchemy](../Page/SQLAlchemy.md "wikilink")进行了封装。Uliweb使用BSD授权。
 
 
 ## 特性
 
-  - 与[Django相似的MVT模式](../Page/Django.md "wikilink")
-  - 良好的中文支持（纯中文文档，字符串全部采用[UTF-8编码](../Page/UTF-8.md "wikilink")）
+  - 与[Django](../Page/Django.md "wikilink")相似的MVT模式
+  - 良好的中文支持（纯中文文档，字符串全部采用[UTF-8](../Page/UTF-8.md "wikilink")编码）
   - 基于应用的项目结构
   - 灵活的插件处理机制
-  - 支持多种部署环境（包括[GAE](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink"),BAE,[SAE](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink"),[Heroku等](../Page/Heroku.md "wikilink"))
+  - 支持多种部署环境（包括[GAE](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink"),BAE,[SAE](https://zh.wikipedia.org/wiki/Sina_App_Engine "wikilink"),[Heroku](../Page/Heroku.md "wikilink")等)
 
 ## 参见
 

@@ -13,7 +13,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
   - 本作分為「初回生産限定盤」、「通常盤（CD+DVD）」、「通常盤（CD ONLY）」3種形式發售。
   - 「通常盤（CD+DVD）」收錄了全14首A面曲的PV；「初回生産限定盤」追加收錄了全14首A面曲的演唱會片段；「通常盤（CD
     ONLY）」追加收錄了新曲「Kis-My-Calling」。
-  - 在4月7日於公信榜專輯週排行榜取得第1位，連續3張專輯取得公信榜專輯週排行榜取得第1位，亦是繼[KAT-TUN後](../Page/KAT-TUN.md "wikilink")，5年零10個月以來再次有男子團體達到此壯舉。
+  - 在4月7日於公信榜專輯週排行榜取得第1位，連續3張專輯取得公信榜專輯週排行榜取得第1位，亦是繼[KAT-TUN](../Page/KAT-TUN.md "wikilink")後，5年零10個月以來再次有男子團體達到此壯舉。
 
 ## 收錄內容
 
@@ -63,7 +63,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
         7th單曲。[DHC](../Page/DHC.md "wikilink")「藥用暗瘡控制系列」的電視廣告歌曲
 12. **[與你的奇蹟](https://zh.wikipedia.org/wiki/與你的奇蹟 "wikilink")**（キミとのキセキ）
       -
-        8th單曲。[TBS電視劇](../Page/TBS.md "wikilink")《[歌舞伎華之戀](../Page/歌舞伎華之戀.md "wikilink")》的主題曲
+        8th單曲。[TBS](../Page/TBS.md "wikilink")電視劇《[歌舞伎華之戀](../Page/歌舞伎華之戀.md "wikilink")》的主題曲
 13. **[SNOW DOME的約定 / Luv
     Sick](https://zh.wikipedia.org/wiki/SNOW_DOME的約定_/_Luv_Sick "wikilink")**（SNOW
     DOMEの約束）
@@ -72,7 +72,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 14. **[Luv
     Sick](https://zh.wikipedia.org/wiki/SNOW_DOME的約定_/_Luv_Sick "wikilink")**
       -
-        9th單曲。[日本電視台電視劇](../Page/日本電視台.md "wikilink")《[假面教師](../Page/假面教師.md "wikilink")》的主題曲
+        9th單曲。[日本電視台](../Page/日本電視台.md "wikilink")電視劇《[假面教師](../Page/假面教師.md "wikilink")》的主題曲
 15. **Kis-My-Calling**
       -
         「通常盤（CD ONLY）」追加收錄

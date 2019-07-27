@@ -16,14 +16,14 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
 <!-- end list -->
 
-  - [魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")（與[MADHOUSE共同製作](../Page/MADHOUSE.md "wikilink")）
+  - [魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")（與[MADHOUSE](../Page/MADHOUSE.md "wikilink")共同製作）
   - [惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")（與[TMS
     Entertainment共同製作](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")）
   - [二十面相少女](../Page/二十面相少女.md "wikilink")（與[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")、共同製作）
-  - [西洋骨董洋菓子店](https://zh.wikipedia.org/wiki/西洋骨董洋菓子店 "wikilink")（與[日本動畫公司共同製作](../Page/日本動畫公司.md "wikilink")）
-  - [戀姬†無雙](../Page/戀姬†無雙.md "wikilink")（與[動畫工房共同製作](../Page/動畫工房.md "wikilink")）
+  - [西洋骨董洋菓子店](https://zh.wikipedia.org/wiki/西洋骨董洋菓子店 "wikilink")（與[日本動畫公司](../Page/日本動畫公司.md "wikilink")共同製作）
+  - [戀姬†無雙](../Page/戀姬†無雙.md "wikilink")（與[動畫工房](../Page/動畫工房.md "wikilink")共同製作）
   - [ef - a tale of
-    melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")（與[SHAFT共同製作](../Page/SHAFT.md "wikilink")）
+    melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
 
 <!-- end list -->
 
@@ -34,8 +34,8 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
   - [黑神 The
     Animation](../Page/黑神.md "wikilink")（與[SUNRISE共同製作](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")）
   - [遊魂 -kiss on my deity-](https://zh.wikipedia.org/wiki/遊魂 "wikilink")
-  - [化物語](../Page/化物語.md "wikilink")（與[SHAFT共同製作](../Page/SHAFT.md "wikilink")）
-  - [夢色蛋糕師](../Page/夢色蛋糕師.md "wikilink")（與[PIERROT共同製作](../Page/PIERROT.md "wikilink")）
+  - [化物語](../Page/化物語.md "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
+  - [夢色蛋糕師](../Page/夢色蛋糕師.md "wikilink")（與[PIERROT](../Page/PIERROT.md "wikilink")共同製作）
   - [貓願三角戀](../Page/貓願三角戀.md "wikilink")（與[AIC共同製作](https://zh.wikipedia.org/wiki/AIC "wikilink")）
 
 <!-- end list -->
@@ -45,7 +45,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <!-- end list -->
 
   - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")
-  - [荒川爆笑團](../Page/荒川爆笑團.md "wikilink")（與[SHAFT共同製作](../Page/SHAFT.md "wikilink")）
+  - [荒川爆笑團](../Page/荒川爆笑團.md "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
   - [魔法禁書目錄Ⅱ](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
 
 <!-- end list -->
@@ -54,7 +54,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
 <!-- end list -->
 
-  - [人家一點都不喜歡啦！](../Page/人家一點都不喜歡啦！.md "wikilink")（與[ZEXCS共同製作](../Page/ZEXCS.md "wikilink")）
+  - [人家一點都不喜歡啦！](../Page/人家一點都不喜歡啦！.md "wikilink")（與[ZEXCS](../Page/ZEXCS.md "wikilink")共同製作）
   - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink") 第二季
   - [緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
   - [SKET
@@ -84,7 +84,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
 <!-- end list -->
 
-  - [戀曲寫真](../Page/戀曲寫真.md "wikilink")（與[MADHOUSE共同製作](../Page/MADHOUSE.md "wikilink")）
+  - [戀曲寫真](../Page/戀曲寫真.md "wikilink")（與[MADHOUSE](../Page/MADHOUSE.md "wikilink")共同製作）
   - [Fate/kaleid liner
     魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")
@@ -346,9 +346,9 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
 ### OVA
 
-  - [灼眼的夏娜S](../Page/灼眼的夏娜.md "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
+  - [灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")S（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
 
-  - [笨蛋，測驗，召喚獸～祭～](../Page/笨蛋，測驗，召喚獸.md "wikilink")（2011年）
+  - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")～祭～（2011年）
 
   - [少女愛上大姊姊 2人的Elder THE
     ANIMATION](../Page/處女愛上姊姊.md "wikilink")（2012年）
@@ -359,7 +359,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
   - [今際之國的闖關者](../Page/今際之國的闖關者.md "wikilink")（與CONNECT共同製作，2014年）
 
-  - [噬血狂襲Ⅱ OVA](../Page/噬血狂襲.md "wikilink")（與CONNECT共同製作，2016年 - 2017年）
+  - [噬血狂襲 OVA](../Page/噬血狂襲.md "wikilink")Ⅱ（與CONNECT共同製作，2016年 - 2017年）
 
   - 噬血狂襲Ⅲ OVA（與CONNECT共同製作，2018年 - 2019年）
 

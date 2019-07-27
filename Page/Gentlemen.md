@@ -1,10 +1,10 @@
-**Gentlemen**是2013年於香港出道的男子組合，最初成員包括[陳國靖朱尉然](https://zh.wikipedia.org/wiki/陳國靖 "wikilink")、黃迪、吳曉高、趙汝東，經紀人[梁佩瑚](../Page/梁佩瑚.md "wikilink")，吳曉高為2014年2月新加入成員，後來再加入趙汝東，成為五人男子組合。五位成員亦跟同公司師兄師姐[焯皓](../Page/焯皓.md "wikilink")、[戴辛尉學習唱歌技巧](../Page/戴辛尉.md "wikilink")。\[1\]。後來陳國靖在2015年退出。
+**Gentlemen**是2013年於香港出道的男子組合，最初成員包括[陳國靖朱尉然](https://zh.wikipedia.org/wiki/陳國靖 "wikilink")、黃迪、吳曉高、趙汝東，經紀人[梁佩瑚](../Page/梁佩瑚.md "wikilink")，吳曉高為2014年2月新加入成員，後來再加入趙汝東，成為五人男子組合。五位成員亦跟同公司師兄師姐[焯皓](../Page/焯皓.md "wikilink")、[戴辛尉](../Page/戴辛尉.md "wikilink")學習唱歌技巧。\[1\]。後來陳國靖在2015年退出。
 
 ## 成員
 
 ### 現任成員
 
-| 中文姓名 | 洋名 | 身高 | 入隊年月 | 其他 |- style="background-color: \#FFFFFF; text-align: center;" | | 黃迪 | Dick | 178cm | 2013年9月 | [戴思聰徒弟](../Page/戴思聰.md "wikilink") |- style="background-color: \#FFFFFF; text-align: center;" | | 朱尉然 | Andy | 178cm | 2013年9月 | 香港公開大學歌唱比賽2011 冠軍 |- style="background-color: \#FFFFFF; text-align: center;" | | 吳曉高 | Hugo | 184cm | 2014年2月 | 模特兒，擅長跳舞 |- style="background-color: \#FFFFFF; text-align: center;" | |
+| 中文姓名 | 洋名 | 身高 | 入隊年月 | 其他 |- style="background-color: \#FFFFFF; text-align: center;" | | 黃迪 | Dick | 178cm | 2013年9月 | [戴思聰](../Page/戴思聰.md "wikilink")徒弟 |- style="background-color: \#FFFFFF; text-align: center;" | | 朱尉然 | Andy | 178cm | 2013年9月 | 香港公開大學歌唱比賽2011 冠軍 |- style="background-color: \#FFFFFF; text-align: center;" | | 吳曉高 | Hugo | 184cm | 2014年2月 | 模特兒，擅長跳舞 |- style="background-color: \#FFFFFF; text-align: center;" | |
 | ---- | -- | -- | ---- | --------------------------------------------------------------- | -- | ---- | ----- | ------- | ----------------------------------------------------------------------------------------------- | --- | ---- | ----- | ------- | ------------------------------------------------------------------------------ | --- | ---- | ----- | ------- | --------------------------------------------------------------------- |
 
 ### 退出成員

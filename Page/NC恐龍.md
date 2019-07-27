@@ -1,10 +1,10 @@
 **NC恐龍** ()
-是一支[韓國棒球委員會的球隊](../Page/韓國棒球委員會.md "wikilink")，成立於2011年。主場為[昌原市的](../Page/昌原市.md "wikilink")[馬山綜合運動場棒球場](https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場 "wikilink")。2012年開始參加韓國職棒二軍聯盟的賽事。2013年賽季加入[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，成為該聯盟第9支球隊。
+是一支[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")的球隊，成立於2011年。主場為[昌原市](../Page/昌原市.md "wikilink")的[馬山綜合運動場棒球場](https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場 "wikilink")。2012年開始參加韓國職棒二軍聯盟的賽事。2013年賽季加入[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，成為該聯盟第9支球隊。
 [NC_Dinos_Dandi_and_Sseri.JPG](https://zh.wikipedia.org/wiki/File:NC_Dinos_Dandi_and_Sseri.JPG "fig:NC_Dinos_Dandi_and_Sseri.JPG")
 
 ## 球隊歷史
 
-2010年[韓國職棒決議成立以](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[昌原市為主場的第](../Page/昌原市.md "wikilink")9支球團，隔年[NCSoft於年初成功爭取到第](https://zh.wikipedia.org/wiki/NCSoft "wikilink")9球團之組建權，並在年中正式定名為**NC恐龍隊**。並在2012年開始參加二軍賽事，隔年開始參加一軍賽事，並在第一個球季以第七名作收。2014年獲得年度第三名，創下職棒新軍於一軍賽事的第二年便晉級到季後賽的新紀錄。2016年首次晉級至[韓國大賽](https://zh.wikipedia.org/wiki/韓國大賽 "wikilink")，但最終四戰僅獲得兩分，遭[斗山熊隊橫掃](https://zh.wikipedia.org/wiki/斗山熊隊 "wikilink")。
+2010年[韓國職棒決議成立以](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[昌原市](../Page/昌原市.md "wikilink")為主場的第9支球團，隔年[NCSoft於年初成功爭取到第](https://zh.wikipedia.org/wiki/NCSoft "wikilink")9球團之組建權，並在年中正式定名為**NC恐龍隊**。並在2012年開始參加二軍賽事，隔年開始參加一軍賽事，並在第一個球季以第七名作收。2014年獲得年度第三名，創下職棒新軍於一軍賽事的第二年便晉級到季後賽的新紀錄。2016年首次晉級至[韓國大賽](https://zh.wikipedia.org/wiki/韓國大賽 "wikilink")，但最終四戰僅獲得兩分，遭[斗山熊隊橫掃](https://zh.wikipedia.org/wiki/斗山熊隊 "wikilink")。
 
 ## 歷代監督
 

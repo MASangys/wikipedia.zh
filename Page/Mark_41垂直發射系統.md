@@ -3,7 +3,7 @@ VLS」）為美國現役艦艇所使用的垂直發射系統。它能夠搭載�
 Evolved Sea Sparrow
 Missile，ESSM）短程對空防禦飛彈、[標準二型中程防空飛彈](../Page/RIM-66飛彈.md "wikilink")、[RIM-161標準三型防空飛彈](../Page/RIM-161標準三型飛彈.md "wikilink")、[RIM-174標準六型防空飛彈](https://zh.wikipedia.org/wiki/RIM-174標準飛彈 "wikilink")、[阿斯洛克反潛飛彈](https://zh.wikipedia.org/wiki/阿斯洛克反潛飛彈 "wikilink")、以及[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")，且提供快速發射的功能應對多樣化目標\[1\]。
 
-垂直發射系統也是1960年代起開發[神盾戰鬥系統時的配套產物](../Page/神盾戰鬥系統.md "wikilink")\[2\]
+垂直發射系統也是1960年代起開發[神盾戰鬥系統](../Page/神盾戰鬥系統.md "wikilink")時的配套產物\[2\]
 ，發射系統在1976年通過測試量產\[3\]
 ；當時的計畫只整合了標準飛彈，但是美國海軍認知到該系統的強大潛力，因此要求發射管開發需整合現役美軍飛彈的尺寸\[4\]，因此MK
 41有著多種長度款式。
@@ -11,7 +11,7 @@ Missile，ESSM）短程對空防禦飛彈、[標準二型中程防空飛彈](../
 第一艘安裝Mk
 41的軍艦為[碉堡山號飛彈巡洋艦](https://zh.wikipedia.org/wiki/碉堡山號飛彈巡洋艦 "wikilink")\[5\]，自1980年代後MK41為美軍艦隊取代了老式飛彈飛射器，包括Mk
 13、Mk 10、Mk 11、及Mk
-26的多用途發射系統與戰斧巡弋飛彈專用之裝甲發射箱。現役所有[阿利·伯克級驅逐艦及](../Page/阿利·伯克級驅逐艦.md "wikilink")[提康德羅加級飛彈巡洋艦均搭載上述系統](https://zh.wikipedia.org/wiki/提康德羅加級飛彈巡洋艦 "wikilink")。而日本[金剛級驅逐艦](https://zh.wikipedia.org/wiki/金剛級驅逐艦 "wikilink")、[愛宕型護衛艦與韓國](https://zh.wikipedia.org/wiki/愛宕型護衛艦 "wikilink")[忠武公李舜臣級驅逐艦](../Page/忠武公李舜臣級驅逐艦.md "wikilink")、[世宗大王級驅逐艦等船隻都有此一系統](../Page/世宗大王級驅逐艦.md "wikilink")。
+26的多用途發射系統與戰斧巡弋飛彈專用之裝甲發射箱。現役所有[阿利·伯克級驅逐艦](../Page/阿利·伯克級驅逐艦.md "wikilink")及[提康德羅加級飛彈巡洋艦均搭載上述系統](https://zh.wikipedia.org/wiki/提康德羅加級飛彈巡洋艦 "wikilink")。而日本[金剛級驅逐艦](https://zh.wikipedia.org/wiki/金剛級驅逐艦 "wikilink")、[愛宕型護衛艦與韓國](https://zh.wikipedia.org/wiki/愛宕型護衛艦 "wikilink")[忠武公李舜臣級驅逐艦](../Page/忠武公李舜臣級驅逐艦.md "wikilink")、[世宗大王級驅逐艦](../Page/世宗大王級驅逐艦.md "wikilink")等船隻都有此一系統。
 
 ## 發射箱種類
 

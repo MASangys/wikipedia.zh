@@ -1,10 +1,10 @@
 **《柏木由紀的YUKRIN
-TIME》**（），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "wikilink")[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週六24:00
-- 24:30播出，由[柏木由紀主持](../Page/柏木由紀.md "wikilink")。
+TIME》**（），是在[FM東京](../Page/FM東京.md "wikilink")所播放的深夜廣播[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週六24:00
+- 24:30播出，由[柏木由紀](../Page/柏木由紀.md "wikilink")主持。
 
 ## 概要
 
-  - 是[柏木由紀的首個冠名定期廣播節目](../Page/柏木由紀.md "wikilink")。
+  - 是[柏木由紀](../Page/柏木由紀.md "wikilink")的首個冠名定期廣播節目。
   - 播放時段原節目為柏木所屬的子團體[French
     Kiss節目](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")[French
     Kiss的Kiss廣播\!](../Page/French_Kiss的Kiss廣播!.md "wikilink")（延至每週日25:00
@@ -34,22 +34,22 @@ TIME》**（），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "
 ### 過去單元
 
   - 五十音Talk
-    順序以[五十音為首的單詞進行Talk](../Page/五十音.md "wikilink")。
+    順序以[五十音](../Page/五十音.md "wikilink")為首的單詞進行Talk。
 
 <!-- end list -->
 
   - 詩的環節
-    由[柏木由紀回答聽眾發來的詩](../Page/柏木由紀.md "wikilink")。
+    由[柏木由紀](../Page/柏木由紀.md "wikilink")回答聽眾發來的詩。
 
 <!-- end list -->
 
   - 妄想Yukirin
-    從聽眾發來的題目[柏木由紀可進行自由妄想](../Page/柏木由紀.md "wikilink")。
+    從聽眾發來的題目[柏木由紀](../Page/柏木由紀.md "wikilink")可進行自由妄想。
 
 <!-- end list -->
 
   - 心理測驗環節
-    由[柏木由紀回答聽眾發來的心理測驗](../Page/柏木由紀.md "wikilink")
+    由[柏木由紀](../Page/柏木由紀.md "wikilink")回答聽眾發來的心理測驗
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@ TIME》**（），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "
 
 ## 放送局
 
-[FM東京以外的電台皆較晚播放](../Page/FM東京.md "wikilink")。
+[FM東京](../Page/FM東京.md "wikilink")以外的電台皆較晚播放。
 
   - [TOKYO FM](../Page/FM東京.md "wikilink")（**製作局**） 星期六 24:00-24:30
   - [AIR-G](https://zh.wikipedia.org/wiki/FM北海道 "wikilink") 星期六
@@ -91,7 +91,7 @@ TIME》**（），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "
     5:00-5:30
   - [FM AICHI](https://zh.wikipedia.org/wiki/FM愛知 "wikilink") 星期二
     20:30-21:00
-  - [FM-NIIGATA](https://zh.wikipedia.org/wiki/FM新潟廣播 "wikilink") 星期四
+  - [FM-NIIGATA](https://zh.wikipedia.org/wiki/新潟廣播電台 "wikilink") 星期四
     19:00-19:30
   - [FM鹿兒島](https://zh.wikipedia.org/wiki/FM鹿兒島 "wikilink") 星期五
     21:00-21:30

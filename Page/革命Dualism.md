@@ -1,5 +1,5 @@
 《**革命Dualism**》（）是2013年10月23日由[King
-Records所发售](../Page/King_Records_MM製作部.md "wikilink")[水樹奈奈与](../Page/水樹奈奈.md "wikilink")[T.M.Revolution的第二支合作](../Page/T.M.Revolution.md "wikilink")[单曲](../Page/单曲.md "wikilink")\[1\]。
+Records所发售](../Page/King_Records_MM製作部.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")与[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")的第二支合作[单曲](../Page/单曲.md "wikilink")\[1\]。
 
 ## 概要
 
@@ -33,7 +33,7 @@ Garden）。\[10\]
 ## 外部链接
 
   - [特設网站](http://www.tmr-mizukinana.com/kakumei-dualism/)
-  - [國王唱片的介绍页面](../Page/國王唱片.md "wikilink")
+  - [國王唱片](../Page/國王唱片.md "wikilink")的介绍页面
       - [Type-A（初回限定盤）](http://www.kingrecords.co.jp/cs/g/gKICM-91471/)
       - [Type-B（期間限定盤）](http://www.kingrecords.co.jp/cs/g/gKICM-91472/)
       - [Type-C（通常盤）](http://www.kingrecords.co.jp/cs/g/gKICM-1473/)

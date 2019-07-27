@@ -1,7 +1,7 @@
-**T細胞淋巴瘤**()包括四種影響[T细胞的](../Page/T细胞.md "wikilink")[淋巴瘤類型](../Page/淋巴瘤.md "wikilink")。這些解釋或許能說明十分之一的[非霍奇金氏淋巴瘤之情況](../Page/非霍奇金氏淋巴瘤.md "wikilink")。
+**T細胞淋巴瘤**()包括四種影響[T细胞](../Page/T细胞.md "wikilink")的[淋巴瘤](../Page/淋巴瘤.md "wikilink")類型。這些解釋或許能說明十分之一的[非霍奇金氏淋巴瘤](../Page/非霍奇金氏淋巴瘤.md "wikilink")之情況。
 \[1\]
 
-T細胞淋巴瘤伴隨著[人類疱疹病毒第四型及](../Page/人類疱疹病毒第四型.md "wikilink")[人類T淋巴細胞白血病病毒1](https://zh.wikipedia.org/wiki/人類T淋巴細胞白血病病毒1 "wikilink")(Human
+T細胞淋巴瘤伴隨著[人類疱疹病毒第四型](../Page/人類疱疹病毒第四型.md "wikilink")及[人類T淋巴細胞白血病病毒1](https://zh.wikipedia.org/wiki/人類T淋巴細胞白血病病毒1 "wikilink")(Human
 T-cell leukemia virus-1)之病症而來。\[2\]
 
 ## 類型
@@ -24,7 +24,7 @@ T-cell leukemia virus-1)之病症而來。\[2\]
 
 ## 流行病學
 
-在[流行病学上](../Page/流行病学.md "wikilink")，涉及[同一類血細胞的癌症](https://zh.wikipedia.org/wiki/淋巴增殖性疾病 "wikilink")(Lymphoproliferative
+在[流行病学](../Page/流行病学.md "wikilink")上，涉及[同一類血細胞的癌症](https://zh.wikipedia.org/wiki/淋巴增殖性疾病 "wikilink")(Lymphoproliferative
 disorders)，8％的病例是屬於"成熟性T細胞淋巴瘤"()。\[3\]
 而從這些病例中、有2％是屬於"前體T淋巴細胞瘤"(precursor
 T lymphoblastic)，另2％是屬於"皮膚T細胞淋巴瘤"(cutaneous T cell lymphoma)。\[4\]

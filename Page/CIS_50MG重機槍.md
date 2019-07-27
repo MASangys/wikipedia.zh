@@ -128,7 +128,7 @@ M15A2[可散式彈鏈](../Page/彈鏈.md "wikilink")
 |clearance= |vehicle_range= |speed= |guidance= }}
 
 **CIS 50MG**（現稱：**STK
-50MG**）是一挺由[新加坡國防企業新加坡特許工業公司](../Page/新加坡.md "wikilink")（現改稱為）在1980年代後期自主研發和生產的[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈供彈式](../Page/彈鏈.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
+50MG**）是一挺由[新加坡](../Page/新加坡.md "wikilink")國防企業新加坡特許工業公司（現改稱為）在1980年代後期自主研發和生產的[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈](../Page/彈鏈.md "wikilink")供彈式[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
@@ -137,7 +137,7 @@ CIS
 50MG重機槍是因應[新加坡國防部](https://zh.wikipedia.org/wiki/新加坡國防部 "wikilink")（，簡稱：MINDEF）需要取代舊型號的12.7毫米口徑[白朗寧M2HB重機槍的要求而研發](../Page/白朗寧M2重機槍.md "wikilink")，然後在[新加坡武裝部隊的各個部隊的服役](https://zh.wikipedia.org/wiki/新加坡共和国武装部队 "wikilink")。\[35\]\[36\]
 
 CIS
-50MG重機槍的設計目的是一挺全新的重機槍的設計，發射與[白朗寧M2HB重機槍相同](../Page/白朗寧M2重機槍.md "wikilink").50[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈彈種](../Page/子彈.md "wikilink")，而且有充足的槍械零件以便更容易從新加坡武裝部隊的[角度緩和](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")[物流和](../Page/物流.md "wikilink")[供應鏈兩方面的緊張](../Page/供应链.md "wikilink")。\[37\]
+50MG重機槍的設計目的是一挺全新的重機槍的設計，發射與[白朗寧M2HB重機槍相同](../Page/白朗寧M2重機槍.md "wikilink").50[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")彈種，而且有充足的槍械零件以便更容易從新加坡武裝部隊的[角度緩和](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")[物流](../Page/物流.md "wikilink")和[供應鏈兩方面的緊張](../Page/供应链.md "wikilink")。\[37\]
 
 ## 設計細節
 
@@ -148,14 +148,14 @@ GPHMG）計劃的經驗教訓，建立適合現代戰術理論和生產技術的
 50MG**。\[39\]
 
 **CIS
-50MG**是一挺[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈供彈式武器](../Page/彈鏈.md "wikilink")，這機槍採用雙氣動活塞操作，並將兩根導氣管安裝在[槍管的兩側](../Page/槍管.md "wikilink")。槍管通過具有多個徑向鎖耳（）的[轉拴式](../Page/轉拴式槍栓.md "wikilink")[槍拴閉鎖](https://zh.wikipedia.org/wiki/槍拴 "wikilink")，在進入槍管後端的閉鎖槽內直接閉鎖，消除了頂空調整的需要。CIS
-50MG也裝有一根可以快速拆卸的槍管，配備一個與槍管整合了的提把，即使不需要戴上隔熱[石棉](../Page/石棉.md "wikilink")[手套也可以在作戰或是實戰演習在情況下很方便地更換過熱或損毀的槍管](../Page/手套.md "wikilink")。\[40\]
+50MG**是一挺[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈](../Page/彈鏈.md "wikilink")供彈式武器，這機槍採用雙氣動活塞操作，並將兩根導氣管安裝在[槍管](../Page/槍管.md "wikilink")的兩側。槍管通過具有多個徑向鎖耳（）的[轉拴式](../Page/轉拴式槍栓.md "wikilink")[槍拴閉鎖](https://zh.wikipedia.org/wiki/槍拴 "wikilink")，在進入槍管後端的閉鎖槽內直接閉鎖，消除了頂空調整的需要。CIS
+50MG也裝有一根可以快速拆卸的槍管，配備一個與槍管整合了的提把，即使不需要戴上隔熱[石棉](../Page/石棉.md "wikilink")[手套](../Page/手套.md "wikilink")也可以在作戰或是實戰演習在情況下很方便地更換過熱或損毀的槍管。\[40\]
 
 CIS 50MG並採用了與[Ultimax
-100](../Page/Ultimax_100輕機槍.md "wikilink")[轻机枪相同的恆定後坐](../Page/轻机枪.md "wikilink")（）[機匣運作原理](https://zh.wikipedia.org/wiki/機匣 "wikilink")，採用加長的機匣和[復進簧](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，使槍機組後座行程大輻度加長。這槍機的優點是令射速和[後座力比其他重機槍為低](../Page/後座力.md "wikilink")，相對地[精度也較高](../Page/準確與精密.md "wikilink")；而缺點亦是射速比其他重機槍為低（甚至比[白朗寧M2HB重機槍更低](../Page/白朗寧M2重機槍.md "wikilink")），而低射速武器安裝在[载具](../Page/载具.md "wikilink")（例如[直升機或](https://zh.wikipedia.org/wiki/直升機 "wikilink")[船隻](../Page/船.md "wikilink")）上使用時的效果較低。
+100](../Page/Ultimax_100輕機槍.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")相同的恆定後坐（）[機匣運作原理](https://zh.wikipedia.org/wiki/機匣 "wikilink")，採用加長的機匣和[復進簧](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，使槍機組後座行程大輻度加長。這槍機的優點是令射速和[後座力](../Page/後座力.md "wikilink")比其他重機槍為低，相對地[精度也較高](../Page/準確與精密.md "wikilink")；而缺點亦是射速比其他重機槍為低（甚至比[白朗寧M2HB重機槍更低](../Page/白朗寧M2重機槍.md "wikilink")），而低射速武器安裝在[载具](../Page/载具.md "wikilink")（例如[直升機或](https://zh.wikipedia.org/wiki/直升機 "wikilink")[船](../Page/船.md "wikilink")隻）上使用時的效果較低。
 
 CIS
-50MG的一個獨特的功能就是它的雙向[彈鏈供彈系統](../Page/彈鏈.md "wikilink")，該系統讓這機槍快速和容易的轉換發射[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。例如由原來發射標準圓頭實心彈改為發射另一邊的[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（，簡稱：HEIAP）或是[脫殼式輕型穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（，簡稱：SLAP），後者具有在1[公里](https://zh.wikipedia.org/wiki/千米 "wikilink")（0.62[英里](../Page/英里.md "wikilink")）的範圍內貫穿板厚為25[毫米](../Page/毫米.md "wikilink")（0.98[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）[軋壓均質裝甲破壞力](../Page/軋壓均質裝甲.md "wikilink")。\[41\]\[42\]
+50MG的一個獨特的功能就是它的雙向[彈鏈](../Page/彈鏈.md "wikilink")供彈系統，該系統讓這機槍快速和容易的轉換發射[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。例如由原來發射標準圓頭實心彈改為發射另一邊的[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（，簡稱：HEIAP）或是[脫殼式輕型穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（，簡稱：SLAP），後者具有在1[公里](https://zh.wikipedia.org/wiki/千米 "wikilink")（0.62[英里](../Page/英里.md "wikilink")）的範圍內貫穿板厚為25[毫米](../Page/毫米.md "wikilink")（0.98[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")破壞力。\[41\]\[42\]
 
 這種系統在現代化[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，例如[M242“巨蝮式”25毫米鏈炮和](../Page/M242巨蝮式鏈炮.md "wikilink")[Mk
 44“巨蝮二式”30毫米](../Page/Mk_44巨蝮二式鏈炮.md "wikilink")上亦是常見，這兩者都裝在[新加坡陸軍的兩代](https://zh.wikipedia.org/wiki/新加坡陸軍 "wikilink")[比奧尼克斯步兵戰車](https://zh.wikipedia.org/wiki/比奧尼克斯步兵戰車 "wikilink")（，簡稱：BX）上使用。

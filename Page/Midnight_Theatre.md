@@ -1,5 +1,5 @@
 **《Midnight Theatre》**是韓國Pop
-Dance組合[SS501成員](../Page/SS501.md "wikilink")[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO）於2012年12月19日，由[Victor
+Dance組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO）於2012年12月19日，由[Victor
 Entertainment](../Page/勝利娛樂.md "wikilink")/Colourful
 Records所發行的首張日語正規專輯。
 
@@ -11,7 +11,7 @@ ROMEO專頁）宣布即日起開放預購，12月19日發行，分為初回限�
 Miyahara擔任總製作，田中敬之擔任視覺製作與美國、德國、瑞典、台灣等各種各樣國籍的作曲家\[1\]共同參與，Yamaha
 A\&R和Victor Entertainment協助宣傳的音樂作品。
 
-從2012年12月12日起於[RecoChoku發布歌曲](../Page/RecoChoku.md "wikilink")「One More
+從2012年12月12日起於[RecoChoku](../Page/RecoChoku.md "wikilink")發布歌曲「One More
 Night」、「Hide and Seek Love」手機全曲下載，並於該日凌晨零時至2013年1月8日二十三時五十九分止下載即得「ROMEO
 Original手機桌面（魂の解放ver.）」與「ROMEOOriginal手機桌面（沈黙の調べver.）」為贈禮，12月19日專輯發行當日於iTunes
 Store全球118個國家發布「Midnight Theatre」全輯音源；韓國主要音源網站亦同時發布。

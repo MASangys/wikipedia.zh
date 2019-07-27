@@ -1,5 +1,5 @@
 《**Bon
-Voyage**》（倖感旅程）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2014年2月26日發行的第11張原創專輯。
+Voyage**》（倖感旅程）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年2月26日發行的第11張原創專輯。
 
 ## 簡介
 
@@ -106,7 +106,7 @@ HOLLA〉。而後僅在廣播進行專輯的宣傳，相較於先前頻繁上音
       -
         作詞：倖田來未　作曲・編曲：CLARABELL
     <!-- end list -->
-      - [東京電視台動畫](../Page/東京電視台.md "wikilink")《[Total
+      - [東京電視台](../Page/東京電視台.md "wikilink")動畫《[Total
         Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")》主題曲
 14. **[Dreaming Now\!](../Page/Dreaming_Now!.md "wikilink")**
       -
@@ -173,7 +173,7 @@ HOLLA〉。而後僅在廣播進行專輯的宣傳，相較於先前頻繁上音
 
 ## 銷售榜單
 
-  - 榜單來自[Oricon公信榜專輯榜](../Page/Oricon公信榜.md "wikilink")
+  - 榜單來自[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯榜
 
 | 發行日期       | 榜單 | 最高名次   | 銷量     | 銷量總計   | 在榜周數 |
 | ---------- | -- | ------ | ------ | ------ | ---- |

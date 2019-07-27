@@ -10,10 +10,10 @@ Ninja现在的负责人是[早矢仕洋介](https://zh.wikipedia.org/wiki/早矢
 ## 历史
 
 Team
-Ninja成立于1995年，由[板垣伴信组建创立](../Page/板垣伴信.md "wikilink")，最初的团队成员都来自[特库摩内部](../Page/特库摩.md "wikilink")。次年，工作室完成了第一款游戏《生或死》（）。之后的几年里，Team
+Ninja成立于1995年，由[板垣伴信](../Page/板垣伴信.md "wikilink")组建创立，最初的团队成员都来自[特库摩](../Page/特库摩.md "wikilink")内部。次年，工作室完成了第一款游戏《生或死》（）。之后的几年里，Team
 Ninja又继续开发了续作《生或死2》（）、《生或死3》（）以及衍生作品的《死或生：沙滩排球》（[Dead or Alive Xtreme
 Beach
-Volleyball](https://zh.wikipedia.org/wiki/Dead_or_Alive_Xtreme_Beach_Volleyball "wikilink")），使得《[死或生系列](https://zh.wikipedia.org/wiki/死或生系列 "wikilink")》逐渐成为了特库摩的一大特色招牌。而该系列逐渐将发行平台从[街机筐体](../Page/街机.md "wikilink")+[索尼与](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[世嘉的家用游戏机平台变更为](../Page/世嘉.md "wikilink")[微软推出的第一代家用游戏机](../Page/微软.md "wikilink")[Xbox独占](../Page/Xbox.md "wikilink")，也为后来工作室与微软的[游戏部门的合作打下了基础](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")。
+Volleyball](https://zh.wikipedia.org/wiki/Dead_or_Alive_Xtreme_Beach_Volleyball "wikilink")），使得《[死或生系列](https://zh.wikipedia.org/wiki/死或生系列 "wikilink")》逐渐成为了特库摩的一大特色招牌。而该系列逐渐将发行平台从[街机](../Page/街机.md "wikilink")筐体+[索尼与](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[世嘉](../Page/世嘉.md "wikilink")的家用游戏机平台变更为[微软](../Page/微软.md "wikilink")推出的第一代家用游戏机[Xbox](../Page/Xbox.md "wikilink")独占，也为后来工作室与微软的[游戏部门的合作打下了基础](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")。
 
 2004年，特库摩将旗下自1995年之后就没有在出过新作的著名硬派动作游戏《[忍者龙剑传](https://zh.wikipedia.org/wiki/忍者龙剑传系列 "wikilink")》系列重新启用，而重启后的首作《忍者龙剑传》（）正是交由Team
 Ninja负责开发制作；并在1年后再次发布了其[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《忍者龙剑传

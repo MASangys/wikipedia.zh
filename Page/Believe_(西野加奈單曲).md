@@ -1,4 +1,4 @@
-《**Believe**》為[日本歌手](../Page/日本.md "wikilink")[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2013年6月5日發行的第20張單曲。
+《**Believe**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2013年6月5日發行的第20張單曲。
 
 ## 解說
 

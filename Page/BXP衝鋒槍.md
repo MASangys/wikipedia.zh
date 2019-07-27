@@ -6,14 +6,14 @@
 
 ## 設計細節
 
-BXP與[以色列](../Page/以色列.md "wikilink")[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")、美國[MAC-10衝鋒槍在結構和外形上都有很大程度的相似](../Page/MAC-10衝鋒槍.md "wikilink")，都採用[钢製方型](../Page/钢.md "wikilink")[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，但另一方面也有改進之處。
+BXP與[以色列](../Page/以色列.md "wikilink")[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")、美國[MAC-10衝鋒槍](../Page/MAC-10衝鋒槍.md "wikilink")在結構和外形上都有很大程度的相似，都採用[钢](../Page/钢.md "wikilink")製方型[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，但另一方面也有改進之處。
 
-這武器具有兩個版本，半自動型主要為警隊安全部隊採用，而全自動型則是為軍隊採用。全自動型使用了[開放式槍栓進行射擊](../Page/開放式槍栓.md "wikilink")，而半自動型則是以射擊。兩種版本都是採用[反沖作用式操作原理](../Page/反沖作用_\(槍械\).md "wikilink")。BXP亦採用了[包絡式槍機](../Page/包絡式槍機.md "wikilink")，槍機閉鎖時會環繞槍管後部，以縮短全槍總長度。位於[機匣的頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")。BXP具有一個非常靈巧的保險桿以及獨立、扳機內建式發射模式選擇器。軍用全自動型版本在按下了扳機第一段時為單發射擊模式，而在完全按下扳機時為全自動模式。BXP還設有一個攔截缺口，如果槍機在待擊時被釋放但是阻鐵在此之前激活的話，會卡住槍機使之不能複進。BXP還在表面塗覆了兩層具有防銹性能的塗層，該塗層可作為全槍的[潤滑劑](https://zh.wikipedia.org/wiki/潤滑劑 "wikilink")。
+這武器具有兩個版本，半自動型主要為警隊安全部隊採用，而全自動型則是為軍隊採用。全自動型使用了[開放式槍栓](../Page/開放式槍栓.md "wikilink")進行射擊，而半自動型則是以射擊。兩種版本都是採用[反沖作用式操作原理](../Page/反沖作用_\(槍械\).md "wikilink")。BXP亦採用了[包絡式槍機](../Page/包絡式槍機.md "wikilink")，槍機閉鎖時會環繞槍管後部，以縮短全槍總長度。位於[機匣的頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")。BXP具有一個非常靈巧的保險桿以及獨立、扳機內建式發射模式選擇器。軍用全自動型版本在按下了扳機第一段時為單發射擊模式，而在完全按下扳機時為全自動模式。BXP還設有一個攔截缺口，如果槍機在待擊時被釋放但是阻鐵在此之前激活的話，會卡住槍機使之不能複進。BXP還在表面塗覆了兩層具有防銹性能的塗層，該塗層可作為全槍的[潤滑劑](https://zh.wikipedia.org/wiki/潤滑劑 "wikilink")。
 
-由於BXP配備了各種各樣的槍口設備，包括[消聲器](../Page/抑制器.md "wikilink")、、、[槍口制退器](../Page/砲口制動器.md "wikilink")，甚至[槍榴彈發射器](../Page/步槍用榴彈.md "wikilink")，該武器可以使用[空包彈以及常規普通](../Page/空包彈.md "wikilink")[彈藥以發射非致命性和爆炸性彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。BXP還設有一個向下折疊式[衝壓](../Page/衝壓.md "wikilink")[钢製](../Page/钢.md "wikilink")[槍托](../Page/槍托.md "wikilink")。BXP的標準瞄具為開放式瞄具，亦可以利用照門座配備其他[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、等輔助瞄準裝置。
+由於BXP配備了各種各樣的槍口設備，包括[消聲器](../Page/抑制器.md "wikilink")、、、[槍口制退器](../Page/砲口制動器.md "wikilink")，甚至[槍榴彈發射器](../Page/步槍用榴彈.md "wikilink")，該武器可以使用[空包彈](../Page/空包彈.md "wikilink")以及常規普通[彈藥以發射非致命性和爆炸性彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。BXP還設有一個向下折疊式[衝壓](../Page/衝壓.md "wikilink")[钢](../Page/钢.md "wikilink")製[槍托](../Page/槍托.md "wikilink")。BXP的標準瞄具為開放式瞄具，亦可以利用照門座配備其他[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、等輔助瞄準裝置。
 
 BXP以高達1,000
-發／分鐘的理論[射速射擊](https://zh.wikipedia.org/wiki/射速 "wikilink")，208毫米（8.19英吋）的[槍管長度平衡了全槍和保持合理](../Page/槍管.md "wikilink")[準確](../Page/準確與精密.md "wikilink")。它可以把槍托向前摺疊以形成堅固的[前握把使用](../Page/輔助握把.md "wikilink")，並可以在需要時單手射擊。
+發／分鐘的理論[射速射擊](https://zh.wikipedia.org/wiki/射速 "wikilink")，208毫米（8.19英吋）的[槍管](../Page/槍管.md "wikilink")長度平衡了全槍和保持合理[準確](../Page/準確與精密.md "wikilink")。它可以把槍托向前摺疊以形成堅固的[前握把使用](../Page/輔助握把.md "wikilink")，並可以在需要時單手射擊。
 
 ## 使用國
 
@@ -30,11 +30,11 @@ BXP以高達1,000
   - 2009年—《[-{zh-cn:第九区; zh-tw:第九禁區;
     zh-hk:D-9異形禁區;}-](../Page/第九区.md "wikilink")》：裝上[Aimpoint
     Comp
-    M2紅點鏡並且被](../Page/Aimpoint_Comp_M2紅點鏡.md "wikilink")[私人軍事公司](https://zh.wikipedia.org/wiki/私人軍事公司 "wikilink")[僱傭兵固斯特](../Page/僱傭兵.md "wikilink")·文特爾（Koobus
+    M2紅點鏡並且被](../Page/Aimpoint_Comp_M2紅點鏡.md "wikilink")[私人軍事公司](https://zh.wikipedia.org/wiki/私人軍事公司 "wikilink")[僱傭兵](../Page/僱傭兵.md "wikilink")固斯特·文特爾（Koobus
     Venter，[大衛·詹姆斯飾演](https://zh.wikipedia.org/wiki/大衛·詹姆斯_\(南非演員\) "wikilink")）所使用。
   - 2012年—《[-{zh-cn:新特警判官; zh-hk:新特警判官; zh-sg:新特警判官;
     zh-tw:超時空戰警3D;}-](../Page/新特警判官.md "wikilink")》：被罪犯茨維爾納（Zwirner，[賈森·庫伯飾演](https://zh.wikipedia.org/wiki/賈森·庫伯 "wikilink")）和其他多名打手所使用。
-  - 2015年—《[-{zh-tw:成人世界;zh-cn:超能查派;zh-hk:超人類：卓比;}-](https://zh.wikipedia.org/wiki/成人世界 "wikilink")》：鮮豔的粉紅色槍身，被尤蘭蒂（Yolandi，[尤蘭蒂·維瑟飾演](../Page/尤蘭蒂·維瑟.md "wikilink")）所使用。
+  - 2015年—《[-{zh-tw:成人世界;zh-cn:超能查派;zh-hk:超人類：卓比;}-](https://zh.wikipedia.org/wiki/成人世界 "wikilink")》：鮮豔的粉紅色槍身，被尤蘭蒂（Yolandi，[尤蘭蒂·維瑟](../Page/尤蘭蒂·維瑟.md "wikilink")飾演）所使用。
 
 ### [电视剧](../Page/电视剧.md "wikilink")
 

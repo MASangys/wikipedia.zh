@@ -1,5 +1,5 @@
 **Hi-Fi
-CAMP**是一隊[日本四人音樂組合](../Page/日本.md "wikilink")，成員包括KIM、SOYA、AIBA和TOSHIRO。全體成員均住在[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")。Hi-Fi
+CAMP**是一隊[日本](../Page/日本.md "wikilink")四人音樂組合，成員包括KIM、SOYA、AIBA和TOSHIRO。全體成員均住在[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")。Hi-Fi
 CAMP在2007年1月組成，在2008年6月憑[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》（）出道。《羈絆》一曲是該年電影《[我的機械人女友](../Page/我的機械人女友.md "wikilink")》的插曲。組合名稱中的「Hi-Fi」是「High
 Fidelity」的簡稱，意即「[高保真](../Page/高保真.md "wikilink")」，寓意「將他們的感情原原本本地傳達出去，不作保留」。\[1\]
 

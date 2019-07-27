@@ -1,10 +1,10 @@
 《**happy
-endings**》是[花澤香菜以个人名义发表的第](../Page/花澤香菜.md "wikilink")3张單曲。于2012年10月24日由[Aniplex發行](../Page/Aniplex.md "wikilink")。
+endings**》是[花澤香菜](../Page/花澤香菜.md "wikilink")以个人名义发表的第3张單曲。于2012年10月24日由[Aniplex](../Page/Aniplex.md "wikilink")發行。
 
 ## 概要
 
 距前作《[初恋之音](../Page/初恋之音.md "wikilink")》发行三个月后发行的第二张单曲、以「秋（棕色）」作为主题。标题曲《**happy
-endings**》是电视动画《[绝园的暴风雨](https://zh.wikipedia.org/wiki/绝园的暴风雨 "wikilink")》的片尾曲，这也是花泽香菜的乐曲第一次被采用为动画主题曲。[音樂錄影帶於澳大利亞拍攝](../Page/音樂錄影帶.md "wikilink")。
+endings**》是电视动画《[绝园的暴风雨](https://zh.wikipedia.org/wiki/绝园的暴风雨 "wikilink")》的片尾曲，这也是花泽香菜的乐曲第一次被采用为动画主题曲。[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")於澳大利亞拍攝。
 
 ## 收錄曲
 

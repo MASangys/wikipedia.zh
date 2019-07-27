@@ -1,13 +1,13 @@
 **Storm**是一个[分布式计算](../Page/分布式计算.md "wikilink")[框架](https://zh.wikipedia.org/wiki/软件框架 "wikilink")，主要由[Clojure编程语言编写](https://zh.wikipedia.org/wiki/Clojure "wikilink")。最初是由Nathan
-Marz\[1\]及其团队创建于BackType，\[2\]该项目在被[Twitter取得后开源](../Page/Twitter.md "wikilink")。\[3\]它使用用户创建的“管（spouts）”和“螺栓（bolts）”来定义信息源和操作来允许批量、分布式处理流式数据。最初的版本发布于2011年9月17日。\[4\]
+Marz\[1\]及其团队创建于BackType，\[2\]该项目在被[Twitter](../Page/Twitter.md "wikilink")取得后开源。\[3\]它使用用户创建的“管（spouts）”和“螺栓（bolts）”来定义信息源和操作来允许批量、分布式处理流式数据。最初的版本发布于2011年9月17日。\[4\]
 
-Storm应用被设计成为一个拓扑结构，其接口创建一个转换“流”。它提供与[MapReduce作业类似的功能](../Page/MapReduce.md "wikilink")，当遇到异常时该拓扑结构理论上将不确定地运行，直到它被手动终止\[5\]
+Storm应用被设计成为一个拓扑结构，其接口创建一个转换“流”。它提供与[MapReduce](../Page/MapReduce.md "wikilink")作业类似的功能，当遇到异常时该拓扑结构理论上将不确定地运行，直到它被手动终止\[5\]
 
-2013年，[Apache软件基金会将Storm纳入它的](../Page/Apache软件基金会.md "wikilink")[孵化计划](https://zh.wikipedia.org/wiki/Apache孵化 "wikilink")。\[6\]\[7\]
+2013年，[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")将Storm纳入它的[孵化计划](https://zh.wikipedia.org/wiki/Apache孵化 "wikilink")。\[6\]\[7\]
 
 ## 开发
 
-Storm是在[Eclipse公共许可证下开发的](../Page/Eclipse公共许可证.md "wikilink")，这使得它可以被许多公司使用。\[8\]在Apache孵化计划下，Git被用于版本控制，Atlassian
+Storm是在[Eclipse公共许可证](../Page/Eclipse公共许可证.md "wikilink")下开发的，这使得它可以被许多公司使用。\[8\]在Apache孵化计划下，Git被用于版本控制，Atlassian
 JIRA被用于问题跟踪。
 
 | 版本      | 发布日期        |

@@ -1,10 +1,10 @@
 **Progesterex**
-是一种虚构的[约会强奸迷药](../Page/强奸.md "wikilink")，据称会导致女性[绝育](https://zh.wikipedia.org/wiki/绝育 "wikilink")。它是一个从1999年便通过[电子邮件在](../Page/电子邮件.md "wikilink")[Internet上传播的](https://zh.wikipedia.org/wiki/Internet "wikilink")[谣言的一部分](../Page/谣言.md "wikilink")。实际上并没有以这个名字的药物存在，也没有任何药物具有传言所述的功能；并且没有任何符合描述的事件被记录在案或确认。\[1\]
+是一种虚构的[约会强奸迷药](../Page/强奸.md "wikilink")，据称会导致女性[绝育](https://zh.wikipedia.org/wiki/绝育 "wikilink")。它是一个从1999年便通过[电子邮件](../Page/电子邮件.md "wikilink")在[Internet上传播的](https://zh.wikipedia.org/wiki/Internet "wikilink")[谣言](../Page/谣言.md "wikilink")的一部分。实际上并没有以这个名字的药物存在，也没有任何药物具有传言所述的功能；并且没有任何符合描述的事件被记录在案或确认。\[1\]
 被这则谣言所迷惑的地位最高的人物是英国国会议员，她在议会中提出了与这种虚构药物有关的一个问题。
 
 ## 电子邮件内容
 
-典型的[谣言电子邮件内容如下所示](../Page/谣言.md "wikilink")，具体细节可能随出现时间变化：
+典型的[谣言](../Page/谣言.md "wikilink")电子邮件内容如下所示，具体细节可能随出现时间变化：
 
 ## 辟谣
 
@@ -14,17 +14,17 @@
 
 ## 值得注意的例子
 
-2008年至2009年间在[巴西](../Page/巴西.md "wikilink")，某个这封[电子邮件的版本被翻译和四处转发](../Page/电子邮件.md "wikilink")。
+2008年至2009年间在[巴西](../Page/巴西.md "wikilink")，某个这封[电子邮件](../Page/电子邮件.md "wikilink")的版本被翻译和四处转发。
 
-这个[谣言的某个版本也通过](../Page/谣言.md "wikilink")[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[Bebo](../Page/Bebo.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")，和上的bulletins（公告），以及一个名为
+这个[谣言](../Page/谣言.md "wikilink")的某个版本也通过[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[Bebo](../Page/Bebo.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")，和上的bulletins（公告），以及一个名为
 "Heads Up Ladies（女士们请注意）"的小组传播.
 
-根据[西班牙语网站VSAntirus](../Page/西班牙语.md "wikilink").com报告，在2001年前后也有两个[西班牙语的版本传播](../Page/西班牙语.md "wikilink")。
+根据[西班牙语](../Page/西班牙语.md "wikilink")网站VSAntirus.com报告，在2001年前后也有两个[西班牙语](../Page/西班牙语.md "wikilink")的版本传播。
 
-2008年至2009年间，一个[瑞典语版本](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")——稍后还有[挪威语版本](../Page/挪威语.md "wikilink")——四处流传，并附上了Birgitta
+2008年至2009年间，一个[瑞典语版本](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")——稍后还有[挪威语](../Page/挪威语.md "wikilink")版本——四处流传，并附上了Birgitta
 Olofsson，一位Umeå大学护理学医学博士的签名.\[2\]
 
-2011年8月8日，[新浪微博用户](../Page/新浪微博.md "wikilink")@全球时装show发布了一条微博，附图即为上述的电子邮件内容，文字为一位名为（疑似[Facebook用户](../Page/Facebook.md "wikilink")）Andrew
+2011年8月8日，[新浪微博](../Page/新浪微博.md "wikilink")用户@全球时装show发布了一条微博，附图即为上述的电子邮件内容，文字为一位名为（疑似[Facebook](../Page/Facebook.md "wikilink")用户）Andrew
 Wong所发，以繁体中文撰写；2012年1月17日大量用户转发该条微博，再次引起关注。
 
 ## 英国议会事件

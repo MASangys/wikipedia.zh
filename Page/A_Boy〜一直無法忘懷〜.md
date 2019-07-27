@@ -1,5 +1,5 @@
 《**a
-Boy〜一直無法忘懷〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")10張單曲。
+Boy〜一直無法忘懷〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY](../Page/GLAY.md "wikilink")的第10張單曲。
 
 ## 簡介
 

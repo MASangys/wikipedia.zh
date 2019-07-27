@@ -16,7 +16,7 @@ domain)。与其它流行的哈希函数相比，对于规律性较强的key，M
 
 ## 实现
 
-最初的实现是[C++的](../Page/C++.md "wikilink")，但是被移植到了其他的流行语言上，包括
+最初的实现是[C++](../Page/C++.md "wikilink")的，但是被移植到了其他的流行语言上，包括
 [Python](../Page/Python.md "wikilink"),\[11\]
 [C](https://zh.wikipedia.org/wiki/C语言 "wikilink"),\[12\]
 [C\#](../Page/C♯.md "wikilink"),\[13\]\[14\]
@@ -29,7 +29,7 @@ domain)。与其它流行的哈希函数相比，对于规律性较强的key，M
 (4.6版)、Perl\[24\]、[nginx](https://zh.wikipedia.org/wiki/nginx "wikilink")
 (不早于1.0.1版)\[25\]、[Rubinius](https://zh.wikipedia.org/wiki/Rubinius "wikilink")\[26\]、
 libmemcached
-([Memcached的](../Page/Memcached.md "wikilink")[C语言客户端驱动](https://zh.wikipedia.org/wiki/C语言 "wikilink"))\[27\]、maatkit\[28\]、[Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")\[29\]、Kyoto
+([Memcached](../Page/Memcached.md "wikilink")的[C语言客户端驱动](https://zh.wikipedia.org/wiki/C语言 "wikilink"))\[27\]、maatkit\[28\]、[Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")\[29\]、Kyoto
 Cabinet\[30\]以及[RaptorDB](https://zh.wikipedia.org/wiki/RaptorDB "wikilink")\[31\]。
 
 ## 算法

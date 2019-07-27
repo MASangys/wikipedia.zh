@@ -6,7 +6,7 @@
 
 EL2型电力机车是由LEW
 Hennigsdorf公司在1952年-1988年间制造的一种工矿电力机车，共计1384台。这款电力机车不仅供东德企业使用（大约有一半的机车），而且还出口保加利亚（206台）、中国（186台）、和波兰（62台）。1957年-1970年有245台机车交付给苏联。\[1\]
-[缩略图](https://zh.wikipedia.org/wiki/File:ElectricLoco_EL2.jpg "fig:缩略图")[马格尼托哥尔斯克服役的EL](../Page/马格尼托哥尔斯克.md "wikilink")2型408号机车\]\]
+[缩略图](https://zh.wikipedia.org/wiki/File:ElectricLoco_EL2.jpg "fig:缩略图")[马格尼托哥尔斯克](../Page/马格尼托哥尔斯克.md "wikilink")服役的EL2型408号机车\]\]
 
 ### 技术数据
 

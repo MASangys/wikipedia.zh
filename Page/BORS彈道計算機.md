@@ -1,9 +1,9 @@
 **BORS彈道計算機**（**BORS**全寫：*' Barrett Optical Ranging
-System*'，意為：巴雷特光學測距系統）是一個由[巴雷特槍械公司生產的集成式](../Page/巴雷特槍械公司.md "wikilink")[彈道](../Page/弹道学.md "wikilink")[计算机](../Page/電子計算機.md "wikilink")，以協助[狙擊手和遠距離射手採取精確而且準確的射擊](../Page/狙擊手.md "wikilink")。該系統可以直接安裝到具有俯仰角調整手輪的步槍瞄準鏡。有了BORS的協助，射手可以快速地得知影響彈道的[氣溫](../Page/温度.md "wikilink")、[氣壓](../Page/气压.md "wikilink")、槍支傾斜度，以及需要上調或下調的瞄準角度。\[1\]
+System*'，意為：巴雷特光學測距系統）是一個由[巴雷特槍械公司](../Page/巴雷特槍械公司.md "wikilink")生產的集成式[彈道](../Page/弹道学.md "wikilink")[计算机](../Page/電子計算機.md "wikilink")，以協助[狙擊手](../Page/狙擊手.md "wikilink")和遠距離射手採取精確而且準確的射擊。該系統可以直接安裝到具有俯仰角調整手輪的步槍瞄準鏡。有了BORS的協助，射手可以快速地得知影響彈道的[氣溫](../Page/温度.md "wikilink")、[氣壓](../Page/气压.md "wikilink")、槍支傾斜度，以及需要上調或下調的瞄準角度。\[1\]
 
 ## 設計及特色
 
-[Barrett-BORS-Computer-System-side-view.jpg](https://zh.wikipedia.org/wiki/File:Barrett-BORS-Computer-System-side-view.jpg "fig:Barrett-BORS-Computer-System-side-view.jpg")之上的BORS。\]\]BORS是一種安裝在步槍瞄準鏡上的綜合[彈道](../Page/弹道学.md "wikilink")[计算机](../Page/電子計算機.md "wikilink")，主要為大於1,000公尺（1,093.61碼，3,280.84英尺）的狙擊任務而設計。射手在操作它的時候，只需要把[彈藥型號輸入該系統](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，然後確定目標的距離並且調整瞄準角度等待BORS的[液晶显示器上顯示確定即可](../Page/液晶显示器.md "wikilink")。\[2\]
+[Barrett-BORS-Computer-System-side-view.jpg](https://zh.wikipedia.org/wiki/File:Barrett-BORS-Computer-System-side-view.jpg "fig:Barrett-BORS-Computer-System-side-view.jpg")之上的BORS。\]\]BORS是一種安裝在步槍瞄準鏡上的綜合[彈道](../Page/弹道学.md "wikilink")[计算机](../Page/電子計算機.md "wikilink")，主要為大於1,000公尺（1,093.61碼，3,280.84英尺）的狙擊任務而設計。射手在操作它的時候，只需要把[彈藥型號輸入該系統](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，然後確定目標的距離並且調整瞄準角度等待BORS的[液晶显示器](../Page/液晶显示器.md "wikilink")上顯示確定即可。\[2\]
 
 考慮到會變化的因素，BORS裡內建的電腦能夠不斷更新，根據首發的射擊結果來對步槍瞄準鏡進行修正。生產商巴雷特指出，BORS能夠“即時負責對數據工作的處理需要，所以射手可以集中精力在將[鉛彈射向目標的任務上](https://zh.wikipedia.org/wiki/鉛 "wikilink")。”\[3\]它需要成千上萬的數據表及賬目中的一些實時性外部因素的資料，並將一顆子彈能擊中目標的精確碼數自動地給予射手。\[4\]
 

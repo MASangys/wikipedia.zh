@@ -1,5 +1,5 @@
 **Verilog过程接口**（）\[1\]，最初被称为编程语言接口（）
-2.0，是一个针对[C语言的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Verilog过程接口](../Page/Verilog.md "wikilink")。它可以使[数字电路的行为级描述代码直接调用C语言的函数](../Page/数字电路.md "wikilink")，而用到的C语言函数也可以调用标准的Verilog系统任务。Verilog程序结构是IEEE
+2.0，是一个针对[C语言的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Verilog](../Page/Verilog.md "wikilink")过程接口。它可以使[数字电路](../Page/数字电路.md "wikilink")的行为级描述代码直接调用C语言的函数，而用到的C语言函数也可以调用标准的Verilog系统任务。Verilog程序结构是IEEE
 1364编程语言接口标准的一部分。它最新的版本是2005年更新的。
 
 ## 参考文献

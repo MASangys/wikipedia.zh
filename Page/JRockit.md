@@ -2,7 +2,7 @@
 Systems收购](https://zh.wikipedia.org/wiki/BEA_Systems "wikilink")\[1\]，2007年BEA
 Systems被[Oracle收购](https://zh.wikipedia.org/wiki/Oracle "wikilink")，2008年又成为的一部分。
 
-在[JavaOne](https://zh.wikipedia.org/wiki/JavaOne "wikilink")2010大会上，[Oracle宣布JRockit的优秀特性将会在](https://zh.wikipedia.org/wiki/Oracle "wikilink")[OpenJDK上实现](../Page/OpenJDK.md "wikilink")。\[2\]\[3\]目前，JRockit和[HotSpot正在整合](https://zh.wikipedia.org/wiki/HotSpot "wikilink")，目标是在JDK
+在[JavaOne](https://zh.wikipedia.org/wiki/JavaOne "wikilink")2010大会上，[Oracle宣布JRockit的优秀特性将会在](https://zh.wikipedia.org/wiki/Oracle "wikilink")[OpenJDK](../Page/OpenJDK.md "wikilink")上实现。\[2\]\[3\]目前，JRockit和[HotSpot正在整合](https://zh.wikipedia.org/wiki/HotSpot "wikilink")，目标是在JDK
 8发布之时发布整合后的代码库。
 
 2011年5月，Oracle宣布JRockit免费发布，并确认他们计划在OpenJDK上移植JRockit的特性。\[4\]
@@ -30,7 +30,7 @@ JRockit5.0 R26版捆绑了一套名为JRockit Mission Control的工具。\[7\]�
   - 内存分析工具Memory Leak Detector
 
 从R27.3版\[8\]开始，工具套件还包括一个延时分析器，其可视化了[同步](https://zh.wikipedia.org/wiki/同步 "wikilink")、文件/网路
-[I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")、内存分配和[垃圾回收造成的](../Page/垃圾回收_\(計算機科學\).md "wikilink")[线程停止的统计数据](../Page/线程.md "wikilink")。
+[I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")、内存分配和[垃圾回收造成的](../Page/垃圾回收_\(計算機科學\).md "wikilink")[线程](../Page/线程.md "wikilink")停止的统计数据。
 
 ## 参考文献
 

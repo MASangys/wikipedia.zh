@@ -1,4 +1,4 @@
-**AirDroid**为一款[Android软件](../Page/Android.md "wikilink")，允许用户在同一[WiFi网络内通过](https://zh.wikipedia.org/wiki/WiFi "wikilink")[浏览器管理手机](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。在浏览器中输入手机的[IP地址及](../Page/IP地址.md "wikilink")[端口号](https://zh.wikipedia.org/wiki/端口 "wikilink")，之后在AirDroid登陆页面输入密码，用户即可通过浏览器向手机中传输文件、备份安装软件、查看手机信息、管理联系人、发送短信、管理文件等功能。与其他同类的客户端软件功能上没有区别，但得益于它的B/S架构，因此没有系统的限制，对使用
+**AirDroid**为一款[Android](../Page/Android.md "wikilink")软件，允许用户在同一[WiFi网络内通过](https://zh.wikipedia.org/wiki/WiFi "wikilink")[浏览器管理手机](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。在浏览器中输入手机的[IP地址](../Page/IP地址.md "wikilink")及[端口号](https://zh.wikipedia.org/wiki/端口 "wikilink")，之后在AirDroid登陆页面输入密码，用户即可通过浏览器向手机中传输文件、备份安装软件、查看手机信息、管理联系人、发送短信、管理文件等功能。与其他同类的客户端软件功能上没有区别，但得益于它的B/S架构，因此没有系统的限制，对使用
 Mac 的用户来说是个福音。
 
 ## 简介

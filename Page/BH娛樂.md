@@ -1,5 +1,5 @@
 **BH
-Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由[李炳憲創立並擔任行政總裁](../Page/李炳憲.md "wikilink")。
+Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由[李炳憲](../Page/李炳憲.md "wikilink")創立並擔任行政總裁。
 
 ## 旗下藝人
 

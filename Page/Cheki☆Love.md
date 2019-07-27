@@ -1,4 +1,4 @@
-《**チェキ☆ラブ**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PURETTY所推出的首張](../Page/PURETTY.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[1\]，2012年9月5日由[Universal
+《**チェキ☆ラブ**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PURETTY](../Page/PURETTY.md "wikilink")所推出的首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[1\]，2012年9月5日由[Universal
 Music發行](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 概要

@@ -1,6 +1,6 @@
-**Völkerball**（德译：[躲避球](../Page/躲避球.md "wikilink")）是德国[NDH乐队](../Page/NDH.md "wikilink")[Rammstein的](https://zh.wikipedia.org/wiki/Rammstein "wikilink")[现场专辑](https://zh.wikipedia.org/wiki/现场专辑 "wikilink")。
+**Völkerball**（德译：[躲避球](../Page/躲避球.md "wikilink")）是德国[NDH](../Page/NDH.md "wikilink")乐队[Rammstein的](https://zh.wikipedia.org/wiki/Rammstein "wikilink")[现场专辑](https://zh.wikipedia.org/wiki/现场专辑 "wikilink")。
 
-标准版含有1张[CD和](../Page/CD.md "wikilink")1张[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，特别版含有两张DVD和一张CD，额外的DVD带有纪录片“Anakonda
+标准版含有1张[CD](../Page/CD.md "wikilink")和1张[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，特别版含有两张DVD和一张CD，额外的DVD带有纪录片“Anakonda
 Im Netz”和“[Reise,
 Reise专辑制作过程](../Page/Reise,_Reise.md "wikilink")”。限量版有有两张DVD，两张CD和写真集。封面的标志来自[1980年莫斯科奥运会](https://zh.wikipedia.org/wiki/1980年夏季奥林匹克运动会 "wikilink")。
 

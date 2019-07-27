@@ -1,4 +1,4 @@
-**DOES**（），日本三人摇滚乐队，2000年于日本[福岡组成](https://zh.wikipedia.org/wiki/福岡 "wikilink")。2006年9月签约[日本索尼音樂娛樂旗下唱片厂牌Ki](../Page/日本索尼音樂娛樂.md "wikilink")/oon
+**DOES**（），日本三人摇滚乐队，2000年于日本[福岡组成](https://zh.wikipedia.org/wiki/福岡 "wikilink")。2006年9月签约[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下唱片厂牌Ki/oon
 Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将无限期停止活动。\[2\]
 
 ## 成员
@@ -6,7 +6,7 @@ Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将
   - **氏原亘**（，1977年3月4日-）　
 
 :\* 本名氏原亘（うじはら
-わたる），[長崎县](https://zh.wikipedia.org/wiki/長崎县 "wikilink")[南島原市出生](../Page/南島原市.md "wikilink")。
+わたる），[長崎县](https://zh.wikipedia.org/wiki/長崎县 "wikilink")[南島原市](../Page/南島原市.md "wikilink")出生。
 
 :\* 负责歌曲的作詞、作曲。
 
@@ -15,14 +15,14 @@ Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将
   - **赤塚康志**（，1978年7月6日-）　
 
 :\* 本名（あかつか
-やすし），[宮崎县](https://zh.wikipedia.org/wiki/宮崎县 "wikilink")[西都市出生](../Page/西都市.md "wikilink")。
+やすし），[宮崎县](https://zh.wikipedia.org/wiki/宮崎县 "wikilink")[西都市](../Page/西都市.md "wikilink")出生。
 
 :\* 负责乐队电贝司、和声。
 
   - **森田慶作**（，1980年8月27日-）　
 
 :\* 本名（もりた
-けーさ），[鹿儿島县](https://zh.wikipedia.org/wiki/鹿儿島县 "wikilink")[奄美市出生](../Page/奄美市.md "wikilink")。
+けーさ），[鹿儿島县](https://zh.wikipedia.org/wiki/鹿儿島县 "wikilink")[奄美市](../Page/奄美市.md "wikilink")出生。
 
 :\* 负责乐团鼓手、和声。
 
@@ -31,7 +31,7 @@ Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将
   - **オサム**（おさむ，1980年9月10日-）　
 
 :\*
-本名。[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[北九州市出生](../Page/北九州市.md "wikilink")。
+本名。[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[北九州市](../Page/北九州市.md "wikilink")出生。
 
 :\*负责乐队吉他、和声。The Fuzz Picks成员。
 

@@ -1,4 +1,4 @@
-**DC漫畫改編電視劇列表**列出根據[DC漫畫改編的電視劇](../Page/DC漫畫.md "wikilink")。
+**DC漫畫改編電視劇列表**列出根據[DC漫畫](../Page/DC漫畫.md "wikilink")改編的電視劇。
 
 ## 真人電視劇
 
@@ -515,7 +515,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠_(動畫影集)" title="wikilink">蝙蝠俠：動畫系列</a></strong></p></td>
 <td><p>1992–1995</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟動畫公司" title="wikilink">華納兄弟動畫公司</a></p></td>
-<td><p>屬<a href="../Page/DC動畫宇宙.md" title="wikilink">DC動畫宇宙部分</a>。</p></td>
+<td><p>屬<a href="../Page/DC動畫宇宙.md" title="wikilink">DC動畫宇宙</a>部分。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong></strong></p></td>
@@ -738,7 +738,7 @@
 <td><p>2015-2016</p></td>
 <td><p>華納兄弟動畫公司<br />
 Blue Ribbon Content</p></td>
-<td><p>在CW Seed上撥出的動畫短片。屬<a href="../Page/綠箭宇宙.md" title="wikilink">綠箭宇宙的一部分</a>。</p></td>
+<td><p>在CW Seed上撥出的動畫短片。屬<a href="../Page/綠箭宇宙.md" title="wikilink">綠箭宇宙</a>的一部分。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>

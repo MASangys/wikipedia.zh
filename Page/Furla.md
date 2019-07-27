@@ -12,7 +12,7 @@ name-“distribute1”\>[“Furla品牌調整籌劃全面擴張”](http://style
 
 在中國市場，該公司與豐控股有限公司（Fung Holdings Ltd）合資，負責經營中國内地、香港和澳門市場。\[2\]
 
-印度市場則[印度時裝公司](../Page/印度.md "wikilink")—創世紀豪華時尚（Genesis Luxury Fashion
+印度市場則[印度](../Page/印度.md "wikilink")時裝公司—創世紀豪華時尚（Genesis Luxury Fashion
 Pvt. Ltd）共同合資，并提交了一份進入印度市場的外商直接投資（FDI）方案。\[3\]
 
 ## 芙拉基金會

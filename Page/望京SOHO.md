@@ -1,4 +1,4 @@
-**望京SOHO**是[中國](../Page/中國.md "wikilink")[北京一個大型物業發展計劃](https://zh.wikipedia.org/wiki/北京 "wikilink")，由[SOHO中國開發](../Page/SOHO中國.md "wikilink")，位於[朝陽區](https://zh.wikipedia.org/wiki/朝陽區_\(北京市\) "wikilink")[望京](../Page/望京.md "wikilink")。
+**望京SOHO**是[中國](../Page/中國.md "wikilink")[北京一個大型物業發展計劃](https://zh.wikipedia.org/wiki/北京 "wikilink")，由[SOHO中國](../Page/SOHO中國.md "wikilink")開發，位於[朝陽區](https://zh.wikipedia.org/wiki/朝陽區_\(北京市\) "wikilink")[望京](../Page/望京.md "wikilink")。
 
 ## 历史
 

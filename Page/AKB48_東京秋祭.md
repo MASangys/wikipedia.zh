@@ -1,5 +1,5 @@
 '''AKB48 東京秋祭
-'''（）是日本偶像組合[AKB48於](../Page/AKB48.md "wikilink")2010年10月9日至10日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[葛西臨海公園舉行的戶外](../Page/葛西臨海公園.md "wikilink")[卡啦OK比賽及演唱會](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。
+'''（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")於2010年10月9日至10日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")舉行的戶外[卡啦OK比賽及演唱會](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。
 
 ## 概要
 
@@ -168,7 +168,7 @@
     world](https://zh.wikipedia.org/wiki/love_the_world "wikilink")**／[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")
     - 佐藤堇
 39. **[黑白之吻](../Page/黑白之吻.md "wikilink")**（）／[SID](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")
-    - [國王唱片製作人](../Page/國王唱片.md "wikilink")．湯淺順司
+    - [國王唱片](../Page/國王唱片.md "wikilink")製作人．湯淺順司
 40. **[三日月](https://zh.wikipedia.org/wiki/三日月 "wikilink")**／[絢香](../Page/絢香.md "wikilink")
     - 小野
 41. **[妳正在看着夕陽嗎？](https://zh.wikipedia.org/wiki/妳正在看着夕陽嗎？ "wikilink")**（）
@@ -412,8 +412,8 @@
 ## 公佈
 
   - 於2010年10月23日舉行的[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[亞洲音樂節中演出](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")。
-  - 2010年10月24日第1間海外官店於[香港開業](../Page/香港.md "wikilink")\[20\]。
-  - 將會於2010年11月16日在[澳門舉行](../Page/澳門.md "wikilink")「KYORAKU PRESENTS
+  - 2010年10月24日第1間海外官店於[香港](../Page/香港.md "wikilink")開業\[20\]。
+  - 將會於2010年11月16日在[澳門](../Page/澳門.md "wikilink")舉行「KYORAKU PRESENTS
     AKB48 SKE48 LIVE IN ASIA」\[21\]。
   - 在11月期間在[新加玻舉行海外公演](https://zh.wikipedia.org/wiki/新加玻 "wikilink")\[22\]\[23\]。
   - 在第1天的演唱會，正式披露26位NMB48第1期研究生\[24\]\[25\]\[26\]\[27\]\[28\]。
@@ -425,7 +425,7 @@
 
 ## DVD
 
-演唱會及卡啦OK比賽的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS於](../Page/AKS.md "wikilink")2011年2月26日發行，分別發售Premium
+演唱會及卡啦OK比賽的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2011年2月26日發行，分別發售Premium
 Box版本及DVD版本。DVD共有2個版本，分別收錄第1天及第2天的演出內容。而Premium
 Box版本則收錄2天的演出內容及特典映像，並附送80頁的相片集及5張生寫真\[35\]\[36\]。
 

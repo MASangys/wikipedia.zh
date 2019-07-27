@@ -1,5 +1,5 @@
 **OPPO
-N1**是一款由[OPPO公司研製的](../Page/OPPO.md "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。2013年9月23日，OPPO
+N1**是一款由[OPPO](../Page/OPPO.md "wikilink")公司研製的[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。2013年9月23日，OPPO
 N1首次亮相。12月10日上市。\[1\]
 
 OPPO N1于2014年8月在印度市场上市。\[2\]

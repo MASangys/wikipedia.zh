@@ -1,13 +1,13 @@
-《**UZA**》是日本女子偶像團體[AKB48的第](../Page/AKB48.md "wikilink")28张[单曲作品](../Page/单曲.md "wikilink")\[1\]，於2012年10月31日由[國王唱片发售](../Page/國王唱片.md "wikilink")\[2\]。主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《UZA》採用快節奏的[舞曲風格](../Page/舞曲.md "wikilink")，搭配的[MV也號稱收錄AKB](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")48創團以來難度最高的[編舞](https://zh.wikipedia.org/wiki/編舞 "wikilink")。承繼上一張單曲《[格子花紋](../Page/格子花紋.md "wikilink")》的作法，《UZA》的MV也是由[美籍](https://zh.wikipedia.org/wiki/美國 "wikilink")[韓裔導演](https://zh.wikipedia.org/wiki/韓國人 "wikilink")（Joseph
+《**UZA**》是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的第28张[单曲](../Page/单曲.md "wikilink")作品\[1\]，於2012年10月31日由[國王唱片](../Page/國王唱片.md "wikilink")发售\[2\]。主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《UZA》採用快節奏的[舞曲](../Page/舞曲.md "wikilink")風格，搭配的[MV也號稱收錄AKB](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")48創團以來難度最高的[編舞](https://zh.wikipedia.org/wiki/編舞 "wikilink")。承繼上一張單曲《[格子花紋](../Page/格子花紋.md "wikilink")》的作法，《UZA》的MV也是由[美籍](https://zh.wikipedia.org/wiki/美國 "wikilink")[韓裔導演](https://zh.wikipedia.org/wiki/韓國人 "wikilink")（Joseph
 Kahn）負責[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")。
 
 ## 簡介
 
-單曲唱片《UZA》的推出，最早是由製作人[秋元康在](../Page/秋元康.md "wikilink")[Google+中提及](../Page/Google+.md "wikilink")「新單曲將由[大島優子與](../Page/大島優子.md "wikilink")[松井珠理奈採雙center方式進行](../Page/松井珠理奈.md "wikilink")」的預告訊息。之後在2012年9月18日舉辦的[第三屆猜拳大會中](../Page/AKB48第29張單曲選拔猜拳大會.md "wikilink")，參與新專輯演唱的16名AKB48選拔成員，在37名專業舞者的伴舞之下演唱新歌並進行高難度的競舞表演，第一次公開新曲與其曲名。
+單曲唱片《UZA》的推出，最早是由製作人[秋元康](../Page/秋元康.md "wikilink")在[Google+](../Page/Google+.md "wikilink")中提及「新單曲將由[大島優子](../Page/大島優子.md "wikilink")與[松井珠理奈](../Page/松井珠理奈.md "wikilink")採雙center方式進行」的預告訊息。之後在2012年9月18日舉辦的[第三屆猜拳大會中](../Page/AKB48第29張單曲選拔猜拳大會.md "wikilink")，參與新專輯演唱的16名AKB48選拔成員，在37名專業舞者的伴舞之下演唱新歌並進行高難度的競舞表演，第一次公開新曲與其曲名。
 
 ## 版本與收錄內容
 
-如同大部分AKB48的單曲唱片，《UZA》也是採一張單曲推出多版本唱片的方式發行，包括為了配合AKB48的三個分組而推出的Type-A、Type-K、Type-B與劇場版（）共四個版本。值得一提的是此次的Type-A、-K、-B是根據2012年8月24日於[東京巨蛋的](../Page/東京巨蛋.md "wikilink")「AKB48
+如同大部分AKB48的單曲唱片，《UZA》也是採一張單曲推出多版本唱片的方式發行，包括為了配合AKB48的三個分組而推出的Type-A、Type-K、Type-B與劇場版（）共四個版本。值得一提的是此次的Type-A、-K、-B是根據2012年8月24日於[東京巨蛋](../Page/東京巨蛋.md "wikilink")的「AKB48
 in TOKYO DOME
 ～1830m之夢～」演唱會現場所公佈之再組閣（成員洗牌）名單來分配的，因此《UZA》可說是新編組啟用之後的第一張作品。
 
@@ -54,9 +54,9 @@ Girls」演唱的[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《�
 2.  《UZA》MV ～Dance ver.～
 3.  《下一個Season》MV
 4.  《孤独的星空》MV
-5.  《格子花紋》MV ～[高橋榮樹導演版](../Page/高橋榮樹.md "wikilink")～
+5.  《格子花紋》MV ～[高橋榮樹](../Page/高橋榮樹.md "wikilink")導演版～
       -
-        《[格子花紋](../Page/格子花紋.md "wikilink")》是上一張單曲唱片的主打歌曲，但有別於原本由約瑟夫·坎恩所拍攝的MV，此次收錄的版本是由高橋榮樹所執導的15分鐘加長版本。參與演唱與演出的成員也與上一張單曲中的不同，其中原本的選拔成員[篠田麻里子因個人工作排程問題](../Page/篠田麻里子.md "wikilink")，只有出現在少數幾個輪流獨唱部分的畫面中，但在拍攝全體成員共同進行的舞台舞蹈表演與劇情中畫面部分缺席，而是由[第四次總選舉中排名第](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")17名的[高城亞樹替補其位置參與全員舞蹈](../Page/高城亞樹.md "wikilink")。因此，共計有17名成員出現在MV中。
+        《[格子花紋](../Page/格子花紋.md "wikilink")》是上一張單曲唱片的主打歌曲，但有別於原本由約瑟夫·坎恩所拍攝的MV，此次收錄的版本是由高橋榮樹所執導的15分鐘加長版本。參與演唱與演出的成員也與上一張單曲中的不同，其中原本的選拔成員[篠田麻里子](../Page/篠田麻里子.md "wikilink")因個人工作排程問題，只有出現在少數幾個輪流獨唱部分的畫面中，但在拍攝全體成員共同進行的舞台舞蹈表演與劇情中畫面部分缺席，而是由[第四次總選舉中排名第](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")17名的[高城亞樹](../Page/高城亞樹.md "wikilink")替補其位置參與全員舞蹈。因此，共計有17名成員出現在MV中。
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@ Girls」演唱的[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《�
 
 <!-- end list -->
 
-  - 全國[握手會活動参加券](../Page/握手會.md "wikilink")1種（共2種，僅有初回限量版才有附贈）
+  - 全國[握手會](../Page/握手會.md "wikilink")活動参加券1種（共2種，僅有初回限量版才有附贈）
   - 生写真1種（僅有通常版才附贈）
   - [重溫時間 最佳曲目100
     2013](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100_2013 "wikilink")（）樂曲投票券（限期使用）
@@ -205,7 +205,7 @@ Girls演唱的《下一個Season》外，還收錄了由AKB48全體研究生一�
 此次A面曲選抜成員的人数與前作相同，為16名，但是成員名單不太相同。在兩名中央成員中，大島優子承繼上張單曲《花紋格子》連續兩次擔任中央成員，但松井珠理奈上一次擔任中央成員是在4年前的《大聲鑽石》（）單曲中。16人中唯一首次入選AKB48單曲選拔成員的是HKT48的宮脇咲良，島崎遙香、渡邊美優紀、山本彩等三人則是曾參與過5月時的單曲《[仲夏的Sounds
 good\!](../Page/仲夏的Sounds_good!.md "wikilink")》（）。
 
-在第四次總選舉中獲得前16名、曾參與上張單曲演唱的選拔成員中有4人在本次的主打單曲中缺席，她們分別是[河西智美](../Page/河西智美.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[北原里英與](../Page/北原里英.md "wikilink")[宮澤佐江](../Page/宮澤佐江.md "wikilink")。其中宮澤佐江自從入選AKB48第2期生、參與第一張單曲《[好想見你](https://zh.wikipedia.org/wiki/好想見你_\(AKB48單曲\) "wikilink")》（）的演出以來，除了由猜拳大會決定名單的單曲外，從未在AKB48的其他主要作品中缺席過，但這次卻是因為移籍海外姊妹團體、[上海的](https://zh.wikipedia.org/wiki/上海 "wikilink")[SNH48而首度缺席](https://zh.wikipedia.org/wiki/SNH48 "wikilink")；北原里英則是以5期生的身份參與第10張單曲《大聲鑽石》以來，首度在選拔成員名單中缺席。
+在第四次總選舉中獲得前16名、曾參與上張單曲演唱的選拔成員中有4人在本次的主打單曲中缺席，她們分別是[河西智美](../Page/河西智美.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")與[宮澤佐江](../Page/宮澤佐江.md "wikilink")。其中宮澤佐江自從入選AKB48第2期生、參與第一張單曲《[好想見你](https://zh.wikipedia.org/wiki/好想見你_\(AKB48單曲\) "wikilink")》（）的演出以來，除了由猜拳大會決定名單的單曲外，從未在AKB48的其他主要作品中缺席過，但這次卻是因為移籍海外姊妹團體、[上海的](https://zh.wikipedia.org/wiki/上海 "wikilink")[SNH48而首度缺席](https://zh.wikipedia.org/wiki/SNH48 "wikilink")；北原里英則是以5期生的身份參與第10張單曲《大聲鑽石》以來，首度在選拔成員名單中缺席。
 
 ### 下一個Season
 

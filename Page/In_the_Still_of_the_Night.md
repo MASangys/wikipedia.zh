@@ -1,5 +1,5 @@
 **《In The Still Of The
-Night》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[郭富城的個人粵語專輯](../Page/郭富城.md "wikilink")，於2003年8月發行。
+Night》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[郭富城](../Page/郭富城.md "wikilink")的個人粵語專輯，於2003年8月發行。
 
 ## 曲目列表
 

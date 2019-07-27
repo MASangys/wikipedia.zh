@@ -1,9 +1,9 @@
 [Alteraheadquarters.jpg](https://zh.wikipedia.org/wiki/File:Alteraheadquarters.jpg "fig:Alteraheadquarters.jpg")
 
-**Altera**公司（），中文名：阿爾特拉\[1\]。是位于[美国](../Page/美国.md "wikilink")[矽谷的一家](https://zh.wikipedia.org/wiki/矽谷 "wikilink")[可程式邏輯裝置](https://zh.wikipedia.org/wiki/可程式邏輯裝置 "wikilink")\[2\]和可反复配置的复杂[数字电路的制造企业](../Page/数字电路.md "wikilink")。该公司于1984年推出了其首款可编程逻辑设备。\[3\]Altera的主要产品为[FPGA](../Page/现场可编程逻辑门阵列.md "wikilink")（分属Stratix、Arria和Cyclone三大系列）、CPLD\[4\][复杂可编程逻辑设备](https://zh.wikipedia.org/wiki/复杂可编程逻辑设备 "wikilink")（MAX系列）\[5\]和[ASIC](https://zh.wikipedia.org/wiki/专用集成电路 "wikilink")（HardCopy系列）。\[6\]此外，公司还推出了名为[Quartus
+**Altera**公司（），中文名：阿爾特拉\[1\]。是位于[美国](../Page/美国.md "wikilink")[矽谷的一家](https://zh.wikipedia.org/wiki/矽谷 "wikilink")[可程式邏輯裝置](https://zh.wikipedia.org/wiki/可程式邏輯裝置 "wikilink")\[2\]和可反复配置的复杂[数字电路](../Page/数字电路.md "wikilink")的制造企业。该公司于1984年推出了其首款可编程逻辑设备。\[3\]Altera的主要产品为[FPGA](../Page/现场可编程逻辑门阵列.md "wikilink")（分属Stratix、Arria和Cyclone三大系列）、CPLD\[4\][复杂可编程逻辑设备](https://zh.wikipedia.org/wiki/复杂可编程逻辑设备 "wikilink")（MAX系列）\[5\]和[ASIC](https://zh.wikipedia.org/wiki/专用集成电路 "wikilink")（HardCopy系列）。\[6\]此外，公司还推出了名为[Quartus
 II的](https://zh.wikipedia.org/wiki/Altera_Quartus "wikilink")[电子设计自动化工具软件](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")。\[7\]\[8\]
 
-2015年6月1日，[英特尔宣布以](../Page/英特尔.md "wikilink")167億美元收購Altera\[9\]。
+2015年6月1日，[英特尔](../Page/英特尔.md "wikilink")宣布以167億美元收購Altera\[9\]。
 2015年12月28日，[英特爾完成收購Altera](https://zh.wikipedia.org/wiki/英特爾 "wikilink")\[10\]。
 
 ## 参考文献

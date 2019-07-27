@@ -1,4 +1,4 @@
-《**FRiDAY-MA-MAGiC**》是[日本女歌手](../Page/日本.md "wikilink")[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")7張單曲，於2011年9月21日由[Sony
+《**FRiDAY-MA-MAGiC**》是[日本](../Page/日本.md "wikilink")女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")7張單曲，於2011年9月21日由[Sony
 Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要
@@ -11,7 +11,7 @@ FAIR](https://zh.wikipedia.org/wiki/MUSIC_FAIR "wikilink")》\[2\]等音樂節�
 
 ## 歌曲
 
-《FRiDAY-MA-MAGiC》是由[川口春奈主演](../Page/川口春奈.md "wikilink")[TBS深夜電視劇](../Page/TBS.md "wikilink")《[櫻蘭高校男公關部](https://zh.wikipedia.org/wiki/櫻蘭高校男公關部#電視劇 "wikilink")》的主題曲。\[3\]該電視劇的製作人韓哲表示他在決定主題曲時，想找到「年輕女生的明快流行曲，充滿精神，讓人感到開心的歌曲」。在聽到miwa的專輯時，覺得「充滿清新力量的歌曲跟電視劇的形象相當配合」，於是就採用miwa的歌曲為主題曲。\[4\]
+《FRiDAY-MA-MAGiC》是由[川口春奈](../Page/川口春奈.md "wikilink")主演[TBS](../Page/TBS.md "wikilink")深夜電視劇《[櫻蘭高校男公關部](https://zh.wikipedia.org/wiki/櫻蘭高校男公關部#電視劇 "wikilink")》的主題曲。\[3\]該電視劇的製作人韓哲表示他在決定主題曲時，想找到「年輕女生的明快流行曲，充滿精神，讓人感到開心的歌曲」。在聽到miwa的專輯時，覺得「充滿清新力量的歌曲跟電視劇的形象相當配合」，於是就採用miwa的歌曲為主題曲。\[4\]
 
 音樂網站*hotexpress*指從《[don't cry
 anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》、《[不可思議！！](https://zh.wikipedia.org/wiki/guitarissimo "wikilink")》（）等歌曲可以看出miwa不服輸的性格。《FRiDAY-MA-MAGiC》可以將她這部份更鮮明地展現出來。評論指歌詞中「『你就是高材生吧』

@@ -1,4 +1,4 @@
-本條目記載的內容為[光榮特庫摩公司旗下的遊戲作品](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")[無雙OROCHI系列的原創角色](../Page/無雙OROCHI系列.md "wikilink")。關於在本作登場的《[真·三國無雙系列](../Page/真·三國無雙系列.md "wikilink")》角色，請見[真·三國無雙角色列表](https://zh.wikipedia.org/wiki/真·三國無雙角色列表 "wikilink")；《[戰國無雙系列](../Page/戰國無雙系列.md "wikilink")》角色，請見[戰國無雙角色列表](https://zh.wikipedia.org/wiki/戰國無雙角色列表 "wikilink")。
+本條目記載的內容為[光榮特庫摩公司旗下的遊戲作品](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")[無雙OROCHI系列](../Page/無雙OROCHI系列.md "wikilink")的原創角色。關於在本作登場的《[真·三國無雙系列](../Page/真·三國無雙系列.md "wikilink")》角色，請見[真·三國無雙角色列表](https://zh.wikipedia.org/wiki/真·三國無雙角色列表 "wikilink")；《[戰國無雙系列](../Page/戰國無雙系列.md "wikilink")》角色，請見[戰國無雙角色列表](https://zh.wikipedia.org/wiki/戰國無雙角色列表 "wikilink")。
 
 以下記載中，登場作品和武器的括號裡的數字為第幾代作品，以及「MO」表示為《無雙OROCHI》；「再臨」為《無雙OROCHI
 魔王再臨》；「Z」為《無雙OROCHI Z》；「2」為《無雙OROCHI
@@ -2406,47 +2406,47 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
   - 武器：大鐮
-  - [八岐大蛇](../Page/八岐大蛇.md "wikilink")。[日本神話中的魔王](../Page/日本神話.md "wikilink")。有著八個頭、八條尾巴，身軀有如八座山峰、八條山谷般的巨大，尾巴裡藏著日本[三神器之一](../Page/三神器.md "wikilink")[天叢雲劍](../Page/天叢雲劍.md "wikilink")。作惡多端、危害鄉里，後遭[三貴子](https://zh.wikipedia.org/wiki/三貴子 "wikilink")[素戔嗚所斬殺](https://zh.wikipedia.org/wiki/素戔嗚尊 "wikilink")。
-    遊戲中遠呂智將[中國](../Page/中國.md "wikilink")[三國與](https://zh.wikipedia.org/wiki/三國 "wikilink")[日本](../Page/日本.md "wikilink")[戰國融合在同一時空](https://zh.wikipedia.org/wiki/戰國時代_\(日本\) "wikilink")，此生願望為追求與最強的英雄決戰。死後二度被[平清盛召喚復活](../Page/平清盛.md "wikilink")，並被分離成保存善心的[酒吞童子](../Page/酒吞童子.md "wikilink")，與純邪惡的破壞神真遠呂智。
+  - [八岐大蛇](../Page/八岐大蛇.md "wikilink")。[日本神話](../Page/日本神話.md "wikilink")中的魔王。有著八個頭、八條尾巴，身軀有如八座山峰、八條山谷般的巨大，尾巴裡藏著日本[三神器](../Page/三神器.md "wikilink")之一[天叢雲劍](../Page/天叢雲劍.md "wikilink")。作惡多端、危害鄉里，後遭[三貴子](https://zh.wikipedia.org/wiki/三貴子 "wikilink")[素戔嗚所斬殺](https://zh.wikipedia.org/wiki/素戔嗚尊 "wikilink")。
+    遊戲中遠呂智將[中國](../Page/中國.md "wikilink")[三國與](https://zh.wikipedia.org/wiki/三國 "wikilink")[日本](../Page/日本.md "wikilink")[戰國融合在同一時空](https://zh.wikipedia.org/wiki/戰國時代_\(日本\) "wikilink")，此生願望為追求與最強的英雄決戰。死後二度被[平清盛](../Page/平清盛.md "wikilink")召喚復活，並被分離成保存善心的[酒吞童子](../Page/酒吞童子.md "wikilink")，與純邪惡的破壞神真遠呂智。
 
 **[妲己](../Page/妲己.md "wikilink")（MO初登場）**
 
   - 聲優：[金月真美](../Page/金月真美.md "wikilink")
   - 武器：妖玉
-  - [商朝最後一位王后](../Page/商朝.md "wikilink")。[商紂王的寵妃](https://zh.wikipedia.org/wiki/商紂王 "wikilink")。[有蘇國公主](https://zh.wikipedia.org/wiki/有蘇氏 "wikilink")。神怪小說《[封神演義](https://zh.wikipedia.org/wiki/封神演義 "wikilink")》中的角色。[女媧指派覆滅商朝的一隻](https://zh.wikipedia.org/wiki/女媧 "wikilink")[九尾妖狐](../Page/九尾狐.md "wikilink")，後變得殘忍好殺的妖姬。對遠呂智的理念有著濃厚的興趣而跟隨，擔任遠呂智的軍師。若向她提到[夏朝的](../Page/夏朝.md "wikilink")[妹喜的話](https://zh.wikipedia.org/wiki/妹喜 "wikilink")，則會露出厭惡的態度。
+  - [商朝](../Page/商朝.md "wikilink")最後一位王后。[商紂王的寵妃](https://zh.wikipedia.org/wiki/商紂王 "wikilink")。[有蘇國公主](https://zh.wikipedia.org/wiki/有蘇氏 "wikilink")。神怪小說《[封神演義](https://zh.wikipedia.org/wiki/封神演義 "wikilink")》中的角色。[女媧指派覆滅商朝的一隻](https://zh.wikipedia.org/wiki/女媧 "wikilink")[九尾妖狐](../Page/九尾狐.md "wikilink")，後變得殘忍好殺的妖姬。對遠呂智的理念有著濃厚的興趣而跟隨，擔任遠呂智的軍師。若向她提到[夏朝](../Page/夏朝.md "wikilink")的[妹喜的話](https://zh.wikipedia.org/wiki/妹喜 "wikilink")，則會露出厭惡的態度。
 
 **[卑彌呼](https://zh.wikipedia.org/wiki/卑彌呼 "wikilink")（再臨初登場）**
 
   - 聲優：[前田沙耶香](https://zh.wikipedia.org/wiki/前田沙耶香 "wikilink")
   - 武器：[銅鐸](https://zh.wikipedia.org/wiki/銅鐸 "wikilink")
-  - 身份[日本古代](../Page/日本.md "wikilink")[邪馬台國女王](https://zh.wikipedia.org/wiki/邪馬台國 "wikilink")、曹魏親魏倭王。遊戲中採定就任女王以前的女王候補，也就是大約在西元170年代倭國大亂末期的情況，個性開朗，不論身處何種情況都不會慌張，應變能力相當強且個性樂觀。在開朗的言行背後，有強烈的自衛心，不容易對外人敞開心房。因為年紀尚小，故有時行事衝動。
+  - 身份[日本](../Page/日本.md "wikilink")古代[邪馬台國女王](https://zh.wikipedia.org/wiki/邪馬台國 "wikilink")、曹魏親魏倭王。遊戲中採定就任女王以前的女王候補，也就是大約在西元170年代倭國大亂末期的情況，個性開朗，不論身處何種情況都不會慌張，應變能力相當強且個性樂觀。在開朗的言行背後，有強烈的自衛心，不容易對外人敞開心房。因為年紀尚小，故有時行事衝動。
     遊戲中武器為鬼道砲，是一種會施放鬼道力量的青銅器。透過複數的鬼道砲創造出變換自在的鐵壁陣形，讓敵人無法接近，同時徹底地粉碎敵人。因為具有神明血統的力量，被平清盛召喚到異世界。與妲己的關係非常好。
 
 **[平清盛](../Page/平清盛.md "wikilink")（再臨初登場）**
 
   - 聲優：[大友龍三郎](../Page/大友龍三郎.md "wikilink")
   - 武器：[法珠](../Page/珠寶.md "wikilink")
-  - [日本](../Page/日本.md "wikilink")[平安時代後期權臣](https://zh.wikipedia.org/wiki/平安時代 "wikilink")。[平家之總帥](https://zh.wikipedia.org/wiki/平家 "wikilink")。在[保元之亂與](../Page/保元之亂.md "wikilink")[平治之亂後](https://zh.wikipedia.org/wiki/平治之亂 "wikilink")，打敗[源氏掌握朝政](../Page/源氏.md "wikilink")，開創了平氏政權輝煌的時代。
+  - [日本](../Page/日本.md "wikilink")[平安時代後期權臣](https://zh.wikipedia.org/wiki/平安時代 "wikilink")。[平家之總帥](https://zh.wikipedia.org/wiki/平家 "wikilink")。在[保元之亂](../Page/保元之亂.md "wikilink")與[平治之亂後](https://zh.wikipedia.org/wiki/平治之亂 "wikilink")，打敗[源氏](../Page/源氏.md "wikilink")掌握朝政，開創了平氏政權輝煌的時代。
     遊戲中以魔僧的姿態現身，以深謀遠慮及強大怪力輔佐魔王遠呂智。身為文武雙全的豪傑，與遠呂智一樣追求挑戰強勁的對手，並樂此不疲。用落雷的招式威壓四方。半妖魔化的他擁有奇怪的力量，使他性格邪惡。武器為披在背上的巨大法珠，可自在的運轉攻擊敵人，並可利用其製造異世界中的自然幻象出來。
 
 **[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink") （再臨初登場）**
 
   - 聲優：[小山力也](../Page/小山力也.md "wikilink")
   - 武器：[如意金箍棒](../Page/如意金箍棒.md "wikilink")
-  - [齊天大聖](https://zh.wikipedia.org/wiki/齊天大聖 "wikilink")。[中國神怪小說](../Page/中國.md "wikilink")《[西遊記](https://zh.wikipedia.org/wiki/西遊記 "wikilink")》的主人翁。隨師父[唐三藏取經](../Page/玄奘.md "wikilink")，功德圓滿後成為**鬪戰勝佛**。自封**美猴王**。仙界的居民。以超一流的仙術與武藝擊倒群敵，對自己的實力有著強烈的自信，目的是成為天上地下最強的戰士。武器是伸縮自如的如意金箍棒，能變化出奇異的仙術驅散敵人，所擁有的武技全無死角。以反派姿態獻身。
+  - [齊天大聖](https://zh.wikipedia.org/wiki/齊天大聖 "wikilink")。[中國](../Page/中國.md "wikilink")神怪小說《[西遊記](https://zh.wikipedia.org/wiki/西遊記 "wikilink")》的主人翁。隨師父[唐三藏取經](../Page/玄奘.md "wikilink")，功德圓滿後成為**鬪戰勝佛**。自封**美猴王**。仙界的居民。以超一流的仙術與武藝擊倒群敵，對自己的實力有著強烈的自信，目的是成為天上地下最強的戰士。武器是伸縮自如的如意金箍棒，能變化出奇異的仙術驅散敵人，所擁有的武技全無死角。以反派姿態獻身。
     遊戲裏曾受平清盛之恩而報答他。
 
 **[牛鬼](https://zh.wikipedia.org/wiki/牛鬼 "wikilink")（Z初登場）**
 
   - 聲優：[藤本たかひろ](https://zh.wikipedia.org/wiki/藤本たかひろ "wikilink")
   - 武器：[棍棒](../Page/棍棒.md "wikilink")
-  - 日本古代畫家[鳥山石燕所繪](../Page/鳥山石燕.md "wikilink")《[今昔畫圖續百鬼](../Page/今昔畫圖續百鬼.md "wikilink")》中記載的妖怪，位於西日本一帶，是會放出毒氣、吃人或詛咒人的惡鬼。在遊戲中,以超過三公尺的巨大身體襲擊而來，這是會讓人誤以為是豬的巨大妖魔。動作有點緩慢，但若被這充滿力量的棍棒擊中，就會使人身陷危機。由於擁有足以遮住玩家視點的軀體、全角色最慢的攻速，被玩家評為「就算掛上天舞與神速10也非常合理」。在MO再臨作為NPC泛用武將，以及只可在生存模式與對戰模式中限定使用，Z以後成為可使用的角色。
+  - 日本古代畫家[鳥山石燕](../Page/鳥山石燕.md "wikilink")所繪《[今昔畫圖續百鬼](../Page/今昔畫圖續百鬼.md "wikilink")》中記載的妖怪，位於西日本一帶，是會放出毒氣、吃人或詛咒人的惡鬼。在遊戲中,以超過三公尺的巨大身體襲擊而來，這是會讓人誤以為是豬的巨大妖魔。動作有點緩慢，但若被這充滿力量的棍棒擊中，就會使人身陷危機。由於擁有足以遮住玩家視點的軀體、全角色最慢的攻速，被玩家評為「就算掛上天舞與神速10也非常合理」。在MO再臨作為NPC泛用武將，以及只可在生存模式與對戰模式中限定使用，Z以後成為可使用的角色。
 
 **[百百目鬼](https://zh.wikipedia.org/wiki/百百目鬼 "wikilink")（Z初登場）**
 
   - 聲優：[岡本寬志](../Page/岡本寬志.md "wikilink")
   - 武器：[籠手](../Page/手套.md "wikilink")
-  - 日本古代畫家[鳥山石燕所繪](../Page/鳥山石燕.md "wikilink")《[今昔畫圖續百鬼](../Page/今昔畫圖續百鬼.md "wikilink")》中記載的妖怪。為了讓遠呂智復活，所呼喚出的不祥單眼妖魔。敏捷靈活的身手，能做出多樣動作。在遊戲中被玩家譏為「量產型風魔小太郎」。在MO再臨作為NPC泛用武將，以及只可在生存模式與對戰模式中限定使用，Z以後成為可使用的角色。
+  - 日本古代畫家[鳥山石燕](../Page/鳥山石燕.md "wikilink")所繪《[今昔畫圖續百鬼](../Page/今昔畫圖續百鬼.md "wikilink")》中記載的妖怪。為了讓遠呂智復活，所呼喚出的不祥單眼妖魔。敏捷靈活的身手，能做出多樣動作。在遊戲中被玩家譏為「量產型風魔小太郎」。在MO再臨作為NPC泛用武將，以及只可在生存模式與對戰模式中限定使用，Z以後成為可使用的角色。
 
 **[蛟](https://zh.wikipedia.org/wiki/蛟 "wikilink")（3代初登場）**
 
@@ -2470,13 +2470,13 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[牧島有希](../Page/牧島有希.md "wikilink")
   - 武器：[細劍](https://zh.wikipedia.org/wiki/細劍 "wikilink")
-  - [三皇之一](https://zh.wikipedia.org/wiki/三皇 "wikilink")。與[伏羲同為上古領袖](../Page/伏羲.md "wikilink")、[華夏民族始祖](https://zh.wikipedia.org/wiki/華夏 "wikilink")。仙界的居民。美艷而威嚴的樣貌，華麗的女戰士。對於自身的仙術與武藝有絕對自信，令人望塵莫及。諷刺且拐灣抹角的說話方式是其特徵，對於男性會顯現出嫌惡感。武器為刺突劍與小型盾牌，攻防兼備。擅長迷惑的仙術。
+  - [三皇之一](https://zh.wikipedia.org/wiki/三皇 "wikilink")。與[伏羲](../Page/伏羲.md "wikilink")同為上古領袖、[華夏民族始祖](https://zh.wikipedia.org/wiki/華夏 "wikilink")。仙界的居民。美艷而威嚴的樣貌，華麗的女戰士。對於自身的仙術與武藝有絕對自信，令人望塵莫及。諷刺且拐灣抹角的說話方式是其特徵，對於男性會顯現出嫌惡感。武器為刺突劍與小型盾牌，攻防兼備。擅長迷惑的仙術。
 
 '''[太公望](../Page/太公望.md "wikilink")（再臨初登場）
 
   - 聲優：[岸尾大辅](https://zh.wikipedia.org/wiki/岸尾大辅 "wikilink")
   - 武器：[打神鞭](https://zh.wikipedia.org/wiki/打神鞭 "wikilink")
-  - [齊太公](https://zh.wikipedia.org/wiki/齊太公 "wikilink")。[商末](../Page/商朝.md "wikilink")[周初人](../Page/西周.md "wikilink")。本名[姜尚](https://zh.wikipedia.org/wiki/姜尚 "wikilink")，字子牙。[周朝開國功勳](../Page/周朝.md "wikilink")，[齊國的始祖](https://zh.wikipedia.org/wiki/齊國 "wikilink")。後人祭祀為「[戰神](https://zh.wikipedia.org/wiki/戰神 "wikilink")」。《[封神演義](https://zh.wikipedia.org/wiki/封神演義 "wikilink")》的主要角色。在釣魚時被[周文王請出山](../Page/周文王.md "wikilink")，消滅腐敗的商朝。持著「[封神榜](https://zh.wikipedia.org/wiki/封神榜 "wikilink")」降妖伏魔。仙界的居民。外表是奢華的美少年。喜歡出謀劃策，並有全知全能的頭腦，顯得自信過高。高傲的語調是其特徵。雖然有著繁複的個性，但仍不忘禮節。武器為打神鞭(為玉清元始天尊所賜)和能施展[太極圖案的仙術球](https://zh.wikipedia.org/wiki/太極 "wikilink")，累積一定能量後，釋放出炸裂的高破壞力。遊戲裏一直以追捕妲己和消滅遠呂智為己任。
+  - [齊太公](https://zh.wikipedia.org/wiki/齊太公 "wikilink")。[商末](../Page/商朝.md "wikilink")[周初人](../Page/西周.md "wikilink")。本名[姜尚](https://zh.wikipedia.org/wiki/姜尚 "wikilink")，字子牙。[周朝](../Page/周朝.md "wikilink")開國功勳，[齊國的始祖](https://zh.wikipedia.org/wiki/齊國 "wikilink")。後人祭祀為「[戰神](https://zh.wikipedia.org/wiki/戰神 "wikilink")」。《[封神演義](https://zh.wikipedia.org/wiki/封神演義 "wikilink")》的主要角色。在釣魚時被[周文王](../Page/周文王.md "wikilink")請出山，消滅腐敗的商朝。持著「[封神榜](https://zh.wikipedia.org/wiki/封神榜 "wikilink")」降妖伏魔。仙界的居民。外表是奢華的美少年。喜歡出謀劃策，並有全知全能的頭腦，顯得自信過高。高傲的語調是其特徵。雖然有著繁複的個性，但仍不忘禮節。武器為打神鞭(為玉清元始天尊所賜)和能施展[太極圖案的仙術球](https://zh.wikipedia.org/wiki/太極 "wikilink")，累積一定能量後，釋放出炸裂的高破壞力。遊戲裏一直以追捕妲己和消滅遠呂智為己任。
 
 **[三藏法師](../Page/玄奘.md "wikilink")（Z初登場）**
 
@@ -2500,7 +2500,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[宮坂俊藏](../Page/宮坂俊藏.md "wikilink")
   - 武器：[四象環](https://zh.wikipedia.org/wiki/乾坤圈 "wikilink")（改造後）、火尖槍（改造前）
-  - 三太子。[托塔天王](https://zh.wikipedia.org/wiki/托塔天王 "wikilink")[李靖之子](../Page/李靖_\(神话人物\).md "wikilink")。《[封神演義](https://zh.wikipedia.org/wiki/封神演義 "wikilink")》的主要角色，亦在《[西遊記](https://zh.wikipedia.org/wiki/西遊記 "wikilink")》中登場。被[太公望任命為滅商的主力元帥](../Page/太公望.md "wikilink")。仙界年輕將領。原本生存於仙界與人間之間，因其與生俱來的戰鬥能力而被仙界軍所引進加入。持著戰鬥欲求而投身於激烈的戰役中，能自在地操縱火尖槍，不管多麼嚴酷的戰況都能果敢地殺入戰場。在對遠呂智時被其重創，後被[素戔嗚所救](https://zh.wikipedia.org/wiki/素戔嗚尊 "wikilink")，以生化機械的身體重生。四肢配戴著四象圈，持著強力的武器重新開啟了戰鬥。遊戲中由於在潼關之戰暴走而殺死貂蟬，以及數次擊敗呂布，而成為呂布最想打敗的人。
+  - 三太子。[托塔天王](https://zh.wikipedia.org/wiki/托塔天王 "wikilink")[李靖之子](../Page/李靖_\(神话人物\).md "wikilink")。《[封神演義](https://zh.wikipedia.org/wiki/封神演義 "wikilink")》的主要角色，亦在《[西遊記](https://zh.wikipedia.org/wiki/西遊記 "wikilink")》中登場。被[太公望](../Page/太公望.md "wikilink")任命為滅商的主力元帥。仙界年輕將領。原本生存於仙界與人間之間，因其與生俱來的戰鬥能力而被仙界軍所引進加入。持著戰鬥欲求而投身於激烈的戰役中，能自在地操縱火尖槍，不管多麼嚴酷的戰況都能果敢地殺入戰場。在對遠呂智時被其重創，後被[素戔嗚所救](https://zh.wikipedia.org/wiki/素戔嗚尊 "wikilink")，以生化機械的身體重生。四肢配戴著四象圈，持著強力的武器重新開啟了戰鬥。遊戲中由於在潼關之戰暴走而殺死貂蟬，以及數次擊敗呂布，而成為呂布最想打敗的人。
 
 **[神農](https://zh.wikipedia.org/wiki/神農 "wikilink")（2H初登場）**
 
@@ -2559,7 +2559,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[織田優成](../Page/織田優成.md "wikilink")
   - 武器：[籠手](../Page/手套.md "wikilink")
-  - [日本](../Page/日本.md "wikilink")[平安時代末期的武家](https://zh.wikipedia.org/wiki/平安時代 "wikilink")[源氏家族武將](../Page/源氏.md "wikilink")，源氏首領[源賴朝之弟](https://zh.wikipedia.org/wiki/源賴朝 "wikilink")。是一位個性爽朗，身材結實的好青年。個性非常認真故事多順遂。對於女性仍保有傳統觀念，因此經常被周遭人揶揄。武器是雷光小手，具有神通之力的巨大小手，用小手釋放的光刃切割敵人。也能使用小手吸取敵人的氣，轉換為自身力量。
+  - [日本](../Page/日本.md "wikilink")[平安時代末期的武家](https://zh.wikipedia.org/wiki/平安時代 "wikilink")[源氏](../Page/源氏.md "wikilink")家族武將，源氏首領[源賴朝之弟](https://zh.wikipedia.org/wiki/源賴朝 "wikilink")。是一位個性爽朗，身材結實的好青年。個性非常認真故事多順遂。對於女性仍保有傳統觀念，因此經常被周遭人揶揄。武器是雷光小手，具有神通之力的巨大小手，用小手釋放的光刃切割敵人。也能使用小手吸取敵人的氣，轉換為自身力量。
 
 **[弁慶](https://zh.wikipedia.org/wiki/弁慶 "wikilink")（Z初登場）**
 
@@ -2577,19 +2577,19 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[小松由佳](../Page/小松由佳_\(声优\).md "wikilink")
   - 武器：[卷軸](../Page/卷軸.md "wikilink")
-  - 日本平安時代末期，[鳥羽天皇的寵妃](../Page/鳥羽天皇.md "wikilink")。日本三大妖怪。由[九尾狐所化身的絕世美女](../Page/九尾狐.md "wikilink")。後被陰陽師安倍泰成（也有說是安倍泰親和[安倍晴明兩人](../Page/安倍晴明.md "wikilink")）消滅，死後化為[殺生石](../Page/殺生石.md "wikilink")。妖蛇死後，突然現身的妖艷美女，為人高傲，有非常高的氣派，對於人類懷抱著強烈恨意，以在戰場上散發出的負面情感為糧食。手持卷物並可操縱寫上的文字，將無雙武將們翻弄於股掌間。貌似與[妲己串謀策劃不為人知的事](../Page/妲己.md "wikilink")。
+  - 日本平安時代末期，[鳥羽天皇](../Page/鳥羽天皇.md "wikilink")的寵妃。日本三大妖怪。由[九尾狐](../Page/九尾狐.md "wikilink")所化身的絕世美女。後被陰陽師安倍泰成（也有說是安倍泰親和[安倍晴明](../Page/安倍晴明.md "wikilink")兩人）消滅，死後化為[殺生石](../Page/殺生石.md "wikilink")。妖蛇死後，突然現身的妖艷美女，為人高傲，有非常高的氣派，對於人類懷抱著強烈恨意，以在戰場上散發出的負面情感為糧食。手持卷物並可操縱寫上的文字，將無雙武將們翻弄於股掌間。貌似與[妲己](../Page/妲己.md "wikilink")串謀策劃不為人知的事。
 
 **[九尾之狐](../Page/九尾狐.md "wikilink")（2U初登場）**
 
   - 聲優：[小松由佳](../Page/小松由佳_\(声优\).md "wikilink")
   - 武器：[羽衣](https://zh.wikipedia.org/wiki/服裝 "wikilink")
-  - [中國神話](https://zh.wikipedia.org/wiki/中國神話 "wikilink")、[日本神話中的生物](../Page/日本神話.md "wikilink")。以人類的姿態現身，而其狐狸的耳朵與尾巴皆充斥著魔性，腰後方生著九條尾巴，同時也作為武器自在地操控。時而以尾巴作為人物形態的變化，玩弄敵人於股掌之間。
+  - [中國神話](https://zh.wikipedia.org/wiki/中國神話 "wikilink")、[日本神話](../Page/日本神話.md "wikilink")中的生物。以人類的姿態現身，而其狐狸的耳朵與尾巴皆充斥著魔性，腰後方生著九條尾巴，同時也作為武器自在地操控。時而以尾巴作為人物形態的變化，玩弄敵人於股掌之間。
 
 **[渾沌](https://zh.wikipedia.org/wiki/渾沌 "wikilink")（2U初登場）**
 
   - 聲優：[大場真人](../Page/大場真人.md "wikilink")
   - 武器：[鉈](https://zh.wikipedia.org/wiki/鉈 "wikilink")
-  - [中國古代](../Page/中國.md "wikilink")[四凶](https://zh.wikipedia.org/wiki/四凶 "wikilink")，喜歡沒有秩序的世界。棲身於遠呂智所融合的[三國](https://zh.wikipedia.org/wiki/三國 "wikilink")、[戰國以外的異世界](https://zh.wikipedia.org/wiki/戰國時代_\(日本\) "wikilink")。獸面且說人話，身上長著兩對巨大的翅膀與兩雙手臂，每個手臂上持有巨大的[鉈氣壓群敵](https://zh.wikipedia.org/wiki/鉈 "wikilink")。對於守秩序的人會以高傲的態度徹底排除。
+  - [中國](../Page/中國.md "wikilink")古代[四凶](https://zh.wikipedia.org/wiki/四凶 "wikilink")，喜歡沒有秩序的世界。棲身於遠呂智所融合的[三國](https://zh.wikipedia.org/wiki/三國 "wikilink")、[戰國以外的異世界](https://zh.wikipedia.org/wiki/戰國時代_\(日本\) "wikilink")。獸面且說人話，身上長著兩對巨大的翅膀與兩雙手臂，每個手臂上持有巨大的[鉈氣壓群敵](https://zh.wikipedia.org/wiki/鉈 "wikilink")。對於守秩序的人會以高傲的態度徹底排除。
 
 ## 客串角色（計10人）
 
@@ -2616,7 +2616,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[神奈延年](../Page/神奈延年.md "wikilink")
   - 武器：劍＋盾
-  - 《[特洛伊無雙](../Page/特洛伊無雙.md "wikilink")》中的人物，[希臘軍最強戰士](https://zh.wikipedia.org/wiki/希臘 "wikilink")。其勇猛模樣，另敵人與己方皆如同懼怕獅子般畏懼。於[特洛伊戰爭中](https://zh.wikipedia.org/wiki/特洛伊戰爭 "wikilink")，受到[特洛依王子](https://zh.wikipedia.org/wiki/特洛依 "wikilink")[帕里斯射擊](../Page/帕里斯.md "wikilink")，於將死之際，捲入瞬間出現的扭曲時空中，到達異世界之地‧[南中](https://zh.wikipedia.org/wiki/南中 "wikilink")。
+  - 《[特洛伊無雙](../Page/特洛伊無雙.md "wikilink")》中的人物，[希臘軍最強戰士](https://zh.wikipedia.org/wiki/希臘 "wikilink")。其勇猛模樣，另敵人與己方皆如同懼怕獅子般畏懼。於[特洛伊戰爭中](https://zh.wikipedia.org/wiki/特洛伊戰爭 "wikilink")，受到[特洛依王子](https://zh.wikipedia.org/wiki/特洛依 "wikilink")[帕里斯](../Page/帕里斯.md "wikilink")射擊，於將死之際，捲入瞬間出現的扭曲時空中，到達異世界之地‧[南中](https://zh.wikipedia.org/wiki/南中 "wikilink")。
 
 **[內枚亞](https://zh.wikipedia.org/wiki/內枚亞 "wikilink")（2初登場）**
 
@@ -2652,7 +2652,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[中村千繪](https://zh.wikipedia.org/wiki/中村千繪 "wikilink")
   - 武器：劍＋盾
-  - 以《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列的代表人物加入本作，鍛冶之神·[赫淮斯托斯所受命的聖戰士](../Page/赫淮斯托斯.md "wikilink")，為兩個孩子的母親。為了破壞邪劍投身戰場，在打完後想趕快回家確認家人安全途中，被時空扭曲捲入而來到異世界。
+  - 以《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列的代表人物加入本作，鍛冶之神·[赫淮斯托斯](../Page/赫淮斯托斯.md "wikilink")所受命的聖戰士，為兩個孩子的母親。為了破壞邪劍投身戰場，在打完後想趕快回家確認家人安全途中，被時空扭曲捲入而來到異世界。
 
 [Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink")
 [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")

@@ -63,7 +63,7 @@
 |                |          |                                                               |      |                                                 |
 | -------------- | -------- | ------------------------------------------------------------- | ---- | ----------------------------------------------- |
 | 日期             | 電視台      | 節目名稱                                                          | 參與成員 | 備註                                              |
-| 2013年8月6日－9月3日 | On Style | 《[李孝利的X姐姐](https://zh.wikipedia.org/wiki/李孝利的X姐姐 "wikilink")》 | 全體   | 共5集（與[李孝利共同出演的實境節目](../Page/李孝利.md "wikilink")） |
+| 2013年8月6日－9月3日 | On Style | 《[李孝利的X姐姐](https://zh.wikipedia.org/wiki/李孝利的X姐姐 "wikilink")》 | 全體   | 共5集（與[李孝利](../Page/李孝利.md "wikilink")共同出演的實境節目） |
 
 ### 固定節目
 
@@ -373,7 +373,7 @@
 <td><p>《<a href="../Page/Girl_Spirit.md" title="wikilink">Girl Spirit</a>》</p></td>
 <td><p>金保亨</p></td>
 <td><ul>
-<li>合唱：Ra.D－《媽媽》[27]（與<a href="../Page/CLC.md" title="wikilink">CLC吳承姬</a>）</li>
+<li>合唱：Ra.D－《媽媽》[27]（與<a href="../Page/CLC.md" title="wikilink">CLC</a>吳承姬）</li>
 </ul></td>
 </tr>
 <tr class="even">

@@ -2,7 +2,7 @@
 
 ## 历史
 
-touch程序最早出现在第七版[AT\&T](../Page/AT&T.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")，包含在[GNU核心工具组的touch程序的作者为Paul](../Page/GNU核心工具组.md "wikilink")
+touch程序最早出现在第七版[AT\&T](../Page/AT&T.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")，包含在[GNU核心工具组](../Page/GNU核心工具组.md "wikilink")的touch程序的作者为Paul
 Rubin，Arnold Robbins，Jim Kingdon，David MacKenzie。
 
 ## 使用方法
@@ -18,7 +18,7 @@ Rubin，Arnold Robbins，Jim Kingdon，David MacKenzie。
 
 **time**的格式为\[\[cc\]yy\]MMDDhhmm\[.ss\]，其中cc代表世纪，yy代表年份的后二位数字，MM代表月份，DD代表天数，hh代表小时，mm代表分钟，ss代表秒数。
 
-其他Unix系统或[类Unix系统可能添加额外的选项](../Page/类Unix系统.md "wikilink")。
+其他Unix系统或[类Unix系统](../Page/类Unix系统.md "wikilink")可能添加额外的选项。
 
 ## 示例
 

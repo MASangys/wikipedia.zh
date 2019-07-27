@@ -1,5 +1,5 @@
 **《S-wave 1st
-Present》**是韓國人氣男子組合[SS501老么](../Page/SS501.md "wikilink")[金亨俊](../Page/金亨俊.md "wikilink")，2010年12月22日於日本推出，由Splus企劃、Swave
+Present》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")老么[金亨俊](../Page/金亨俊.md "wikilink")，2010年12月22日於日本推出，由Splus企劃、Swave
 E\&t發行的現場專輯。
 
 ## 概述

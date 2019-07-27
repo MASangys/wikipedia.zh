@@ -17,7 +17,7 @@ JOLT](https://zh.wikipedia.org/wiki/#Bluebook:_Harvard_JOLT格式 "wikilink")
 
 </div>
 
-**重要提示：**许多教育工作者和专业人士认为并不适合使用[百科全书这种](../Page/百科全书.md "wikilink")[三级文献作为任何信息的单一来源](https://zh.wikipedia.org/wiki/三级文献 "wikilink")，把引用百科全书作为脚注或参考书目中的重要参考文献可能会被批评或得到不及格的成绩。维基百科的条目应当在为参考文献纠正术语或搜索词的时候用作背景资料，并作为进一步研究的出发点。
+**重要提示：**许多教育工作者和专业人士认为并不适合使用[百科全书](../Page/百科全书.md "wikilink")这种[三级文献作为任何信息的单一来源](https://zh.wikipedia.org/wiki/三级文献 "wikilink")，把引用百科全书作为脚注或参考书目中的重要参考文献可能会被批评或得到不及格的成绩。维基百科的条目应当在为参考文献纠正术语或搜索词的时候用作背景资料，并作为进一步研究的出发点。
 
 作为一个由[社群构建的的参考文献](https://zh.wikipedia.org/wiki/维基百科:誰在寫維基百科 "wikilink")，维基百科的内容中很可能存在错误，请你通过多种来源核查事实，并请阅读我们的[免责声明进一步了解详情](https://zh.wikipedia.org/wiki/wikipedia:免责声明 "wikilink")。
 
@@ -81,7 +81,7 @@ Wikipedia contributors. c. . In: 维基百科, . \[Internet\]: 维基百科, ; \
 {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
 {{\#time:j}}\]. Available from:
 
-### [蓝皮书格式](../Page/蓝皮书.md "wikilink")（Bluebook）
+### [蓝皮书](../Page/蓝皮书.md "wikilink")格式（Bluebook）
 
 Wikipedia contributors, , 维基百科,
 ({{\#switch:|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}}
@@ -102,7 +102,7 @@ Wikipedia contributors. . 维基百科, .
 {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
 {{\#time:j}}, {{\#time:Y}}. Chinese.
 
-### [BibTeX记录](../Page/BibTeX.md "wikilink")
+### [BibTeX](../Page/BibTeX.md "wikilink")记录
 
 ` @misc{ wiki:xxx,`
 `   author = "维基百科",`

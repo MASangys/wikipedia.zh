@@ -7,8 +7,8 @@
 
 在**计算机科学**中：
 
-  - Data-Entry Language，[Lua的前身](../Page/Lua.md "wikilink")
+  - Data-Entry Language，[Lua](../Page/Lua.md "wikilink")的前身
 
 \*，用于标记删除文本的HTML标签
 
-  - [刪除](https://zh.wikipedia.org/wiki/刪除_\(按鈕\) "wikilink")，在[ASCII中編號為](../Page/ASCII.md "wikilink")[127](../Page/127.md "wikilink")
+  - [刪除](https://zh.wikipedia.org/wiki/刪除_\(按鈕\) "wikilink")，在[ASCII](../Page/ASCII.md "wikilink")中編號為[127](../Page/127.md "wikilink")

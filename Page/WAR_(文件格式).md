@@ -1,5 +1,5 @@
-在[软件工程中](../Page/软件工程.md "wikilink")，**WAR文件**（Web应用程序归档，\[1\]）是一种[JAR文件](https://zh.wikipedia.org/wiki/JAR文件 "wikilink")，其中包含用来分发的[JSP](../Page/JSP.md "wikilink")、[Java
-Servlet](../Page/Java_Servlet.md "wikilink")、[Java类](../Page/Java.md "wikilink")、[XML文件](../Page/XML.md "wikilink")、标签库、静态网页（[HTML和相关文件](../Page/HTML.md "wikilink")），以及构成[Web应用程序的其他资源](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")。
+在[软件工程](../Page/软件工程.md "wikilink")中，**WAR文件**（Web应用程序归档，\[1\]）是一种[JAR文件](https://zh.wikipedia.org/wiki/JAR文件 "wikilink")，其中包含用来分发的[JSP](../Page/JSP.md "wikilink")、[Java
+Servlet](../Page/Java_Servlet.md "wikilink")、[Java](../Page/Java.md "wikilink")类、[XML](../Page/XML.md "wikilink")文件、标签库、静态网页（[HTML](../Page/HTML.md "wikilink")和相关文件），以及构成[Web应用程序的其他资源](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")。
 
 ## 内容和结构
 

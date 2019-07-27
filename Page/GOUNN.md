@@ -1,4 +1,4 @@
-《**GOUNN**》（）是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[桃色幸運草Z的第](../Page/桃色幸運草Z.md "wikilink")10張单曲\[1\]，於2013年11月6日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。歌名取自[佛教的教義](../Page/佛教.md "wikilink")「[五蘊](../Page/蘊_\(佛教\).md "wikilink")」，雖然歌曲本身是以戀愛為主題，但在詞曲與[MV的呈現上都充滿佛教的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[世界觀](https://zh.wikipedia.org/wiki/世界觀 "wikilink")。
+《**GOUNN**》（）是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第10張单曲\[1\]，於2013年11月6日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。歌名取自[佛教](../Page/佛教.md "wikilink")的教義「[五蘊](../Page/蘊_\(佛教\).md "wikilink")」，雖然歌曲本身是以戀愛為主題，但在詞曲與[MV的呈現上都充滿佛教的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[世界觀](https://zh.wikipedia.org/wiki/世界觀 "wikilink")。
 
 ## 概要
 

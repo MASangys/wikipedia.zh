@@ -1,7 +1,7 @@
 [GU_Ginza_store.JPG](https://zh.wikipedia.org/wiki/File:GU_Ginza_store.JPG "fig:GU_Ginza_store.JPG")
 [GU_Store_in_Taipei_2016.jpg](https://zh.wikipedia.org/wiki/File:GU_Store_in_Taipei_2016.jpg "fig:GU_Store_in_Taipei_2016.jpg")店\]\]
 [Gu_meinohama.jpg](https://zh.wikipedia.org/wiki/File:Gu_meinohama.jpg "fig:Gu_meinohama.jpg")
-**GU**（）是一家製造、銷售休閒[服飾的日本企業](https://zh.wikipedia.org/wiki/服飾 "wikilink")。該公司同於[優衣庫隸屬於亞洲最大的服飾品牌企業](../Page/優衣庫.md "wikilink")─[迅銷](../Page/迅銷.md "wikilink")。2013年3月啟用新的企業商標，公司名稱便由g.u.改為GU。\[1\]
+**GU**（）是一家製造、銷售休閒[服飾的日本企業](https://zh.wikipedia.org/wiki/服飾 "wikilink")。該公司同於[優衣庫](../Page/優衣庫.md "wikilink")隸屬於亞洲最大的服飾品牌企業─[迅銷](../Page/迅銷.md "wikilink")。2013年3月啟用新的企業商標，公司名稱便由g.u.改為GU。\[1\]
 
 2018年，與 LV 的長達7年合作的設計師Kim Jones ，改變了大家對高級男裝的觀感，以反時尚手法大膽改造了
 LV男裝。而雙方完結合作關係後，Kim
@@ -20,19 +20,19 @@ PRODUCTION』的Capsule系列將於3月21日於日本、台灣和本港同步推
   - 1973年（昭和48年）
       - 2月21日 - 正式成立企業組織「****」。
   - 2006年（平成18年）
-      - 3月23日 - 更變為「****」並成為[迅銷公司旗下企業](../Page/迅銷.md "wikilink")。
+      - 3月23日 - 更變為「****」並成為[迅銷](../Page/迅銷.md "wikilink")公司旗下企業。
       - 10月13日 - 「g.u.」1號店開店。
   - 2010年（平成22年）
       - 4月1日 - g.u.本有的鞋類業務轉由優衣庫銷售。
       - 10月22日 -
-        第一間旗艦店於[大阪市](../Page/大阪市.md "wikilink")[心齋橋地區開幕](../Page/心齋橋.md "wikilink")（現
+        第一間旗艦店於[大阪市](../Page/大阪市.md "wikilink")[心齋橋](../Page/心齋橋.md "wikilink")地區開幕（現
         優衣庫心齋橋全球旗艦店原址）。
   - 2011年（平成23年）
       - 4月29日 -
-        關東地區第一間旗艦店於[東京都](../Page/東京都.md "wikilink")[池袋地區開幕](../Page/池袋.md "wikilink")。
+        關東地區第一間旗艦店於[東京都](../Page/東京都.md "wikilink")[池袋](../Page/池袋.md "wikilink")地區開幕。
   - 2012年（平成24年）
       - 3月30日 -
-        第三家旗艦店於[東京都](../Page/東京都.md "wikilink")[銀座地區開幕](../Page/銀座.md "wikilink")。
+        第三家旗艦店於[東京都](../Page/東京都.md "wikilink")[銀座](../Page/銀座.md "wikilink")地區開幕。
   - 2013年（平成25年）
       - 3月5日 - 商標由「g.u.」更改為「GU」，並與優衣庫採同樣型式設計，凸顯相關企業的表徵。
       - 9月30日 -
@@ -42,12 +42,12 @@ PRODUCTION』的Capsule系列將於3月21日於日本、台灣和本港同步推
         於[台北開設台灣首間專門店](https://zh.wikipedia.org/wiki/台北 "wikilink")，並計劃於2015年引進[香港](../Page/香港.md "wikilink")。\[6\]
   - 2017年
       - 3月末至4月始 -
-        於[香港繁華地段](../Page/香港.md "wikilink")[銅鑼灣](../Page/銅鑼灣.md "wikilink")[皇室堡地庫](../Page/皇室堡.md "wikilink")1樓及[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華商場](https://zh.wikipedia.org/wiki/美麗華商場 "wikilink")1樓開設專門店，店舖面積分別為10,800及9,400平方呎
+        於[香港](../Page/香港.md "wikilink")繁華地段[銅鑼灣](../Page/銅鑼灣.md "wikilink")[皇室堡](../Page/皇室堡.md "wikilink")地庫1樓及[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華商場](https://zh.wikipedia.org/wiki/美麗華商場 "wikilink")1樓開設專門店，店舖面積分別為10,800及9,400平方呎
   - 2018年
-      - 九月至十月-於[將軍澳](../Page/將軍澳.md "wikilink")[東港城及](../Page/東港城.md "wikilink")[鑽石山](../Page/鑽石山.md "wikilink")[荷里活廣場開設專門店](../Page/荷里活廣場.md "wikilink")
+      - 九月至十月-於[將軍澳](../Page/將軍澳.md "wikilink")[東港城](../Page/東港城.md "wikilink")及[鑽石山](../Page/鑽石山.md "wikilink")[荷里活廣場](../Page/荷里活廣場.md "wikilink")開設專門店
   - 2018年
       - 9月14日-
-        於韓國[首爾的](../Page/首爾.md "wikilink")[樂天世界開設首間專門店](https://zh.wikipedia.org/wiki/樂天世界 "wikilink")。
+        於韓國[首爾](../Page/首爾.md "wikilink")的[樂天世界開設首間專門店](https://zh.wikipedia.org/wiki/樂天世界 "wikilink")。
 
 ## 參考
 

@@ -1,4 +1,4 @@
-《**Deconstructed**》為[美國歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[凱莎於](../Page/凱莎.md "wikilink")2012年12月4日發行的第二張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，僅於美國當地發行。\[1\]
+《**Deconstructed**》為[美國歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[凱莎](../Page/凱莎.md "wikilink")於2012年12月4日發行的第二張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，僅於美國當地發行。\[1\]
 
 ## 簡介
 

@@ -1,4 +1,4 @@
-《TSUKI》（月亮）為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2014年1月29日發行的第41張單曲。
+《TSUKI》（月亮）為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2014年1月29日發行的第41張單曲。
 
 ## 簡介
 
@@ -7,7 +7,7 @@
     TOWN](../Page/FUNKY_TOWN.md "wikilink")》6年10個月以來的單A面單曲。
   - 前兩張數位單曲《Neonlight
     Lipstick》、《Ballerina》皆收錄到本單曲中，3曲皆有[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
-  - 《**TSUKI**》（月亮）為[北川景子與](../Page/北川景子.md "wikilink")[錦戶亮主演的電影](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")《好想擁抱你－真實的故事－》主題曲\[1\]。PV的主題為「生命的甦醒」，並特地飛抵[冰島的傑古沙龍冰河湖取景](https://zh.wikipedia.org/wiki/冰島 "wikilink")，拍攝製作出壯闊盛大的冰雪場景\[2\]。PV全景亦通過特效將「冰雪的世界」過渡到「綠草原世界」\[3\]。歌曲於1月22日開始在[RecoChoku先行開放下載](../Page/RecoChoku.md "wikilink")，並取得週間下載冠軍。
+  - 《**TSUKI**》（月亮）為[北川景子](../Page/北川景子.md "wikilink")與[錦戶亮主演的電影](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")《好想擁抱你－真實的故事－》主題曲\[1\]。PV的主題為「生命的甦醒」，並特地飛抵[冰島的傑古沙龍冰河湖取景](https://zh.wikipedia.org/wiki/冰島 "wikilink")，拍攝製作出壯闊盛大的冰雪場景\[2\]。PV全景亦通過特效將「冰雪的世界」過渡到「綠草原世界」\[3\]。歌曲於1月22日開始在[RecoChoku](../Page/RecoChoku.md "wikilink")先行開放下載，並取得週間下載冠軍。
   - 《**Neonlight Lipstick**》（霓彩紅唇）為安室本人出演的[高絲](../Page/高絲.md "wikilink")
     ESPRIQUE
     電視廣告曲。歌曲作曲者早前亦製作過收錄於專輯《[FEEL](../Page/FEEL_\(安室奈美惠專輯\).md "wikilink")》的舞曲《Supernatural
@@ -15,7 +15,7 @@
   - 《**Ballerina**》（首席女伶）為FASHION'S NIGHT OUT 2013 GUCCI×VOGUE×NAMIE
     AMURO的合作企劃歌曲以及RecoChoku電視廣告曲。歌曲於10月9日於RecoChoku先行開放下載。
   - 本作發售後以4.2萬的成績登上週間銷售榜第3名，成為其連續第20年打進單曲銷售榜TOP
-    10的單曲，與[SMAP跟](../Page/SMAP.md "wikilink")[B'z並列歷代第一](../Page/B'z.md "wikilink")\[4\]。
+    10的單曲，與[SMAP](../Page/SMAP.md "wikilink")跟[B'z](../Page/B'z.md "wikilink")並列歷代第一\[4\]。
 
 ## 發行版本
 
@@ -33,7 +33,7 @@
       - [高絲](../Page/高絲.md "wikilink") ESPRIQUE 電視廣告曲
       - 作曲、作詞：Charli Taft、Lasse Lindorff、Steven Lee、TIGER
 3.  **Ballerina**
-      - [RecoChoku電視廣告曲](../Page/RecoChoku.md "wikilink")
+      - [RecoChoku](../Page/RecoChoku.md "wikilink")電視廣告曲
       - 作曲、作詞：Wolfgang Gartner、Cait La Dee、Gennessee Lewis、P.O.S.
 4.  **TSUKI（Instrumental）**
 5.  **Neonlight Lipstick（Instrumental）**

@@ -1,4 +1,4 @@
-**LGBT抚养**是指的是[LGBT族群](../Page/LGBT.md "wikilink")（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")）从伴侣关系走向包括一个或多个抚养对象的家庭关系的过程。根据社会的发展和科学的进步
+**LGBT抚养**是指的是[LGBT](../Page/LGBT.md "wikilink")族群（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")）从伴侣关系走向包括一个或多个抚养对象的家庭关系的过程。根据社会的发展和科学的进步
 ，目前抚养关系产生的方式包括[收养](https://zh.wikipedia.org/wiki/收养 "wikilink")，[代孕](../Page/代孕.md "wikilink")，及女性伴侣通过[人工受精等](https://zh.wikipedia.org/wiki/人工受精 "wikilink")。同样也包括对伴侣原有抚养对象的抚养。根据2000年美国的普查，33%的女同性恋家庭和22%的男同性恋家庭拥有至少一个小于18岁的孩子。\[1\]
 某些孩子不知道自己的抚养人是同志，抚养人甚至可以一直不告知抚养对象这一情况，在这一情况中不同个案有一定的区别。\[2\]\[3\]一般来说，LGBT家庭，特别是同志收养，是西方国家长期政治争论的焦点，一般是保守派及社会自由派两方面文化战的一部分。2008年1月，[欧洲人权法庭裁决同志伴侣有权收养一个孩子](https://zh.wikipedia.org/wiki/欧洲人权法庭 "wikilink")。\[4\]\[5\]
 
@@ -16,7 +16,7 @@ LGBT抚养情况的产生包括收养，代孕，人工受精，原有抚养关�
 
 [世界同性伴侣收养法律状况
 ](https://zh.wikipedia.org/wiki/File:World_same-sex_adoption_laws.svg "fig:世界同性伴侣收养法律状况   ")
-LGBT收養指的是[LGBT族群](../Page/LGBT.md "wikilink")([男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink"))收養兒童。LGBT收養目前在14個國家是合法的，同時在某些國家(例如：美國)的某些地區是合法的。但在目前很多國家及地區，LGBT收養兒童是非法的，儘管在上述地區關於LGBT收養權問題還在熱烈辯論中。而反對LGBT族群收養兒童的最重要原因是，人們質疑同性伴侶能夠承擔起足夠的家長責任。但在實際執行上，LGBT收養權也不完全是由法律來監管，所以有時立法與否並不能阻止LGBT收養的發生。
+LGBT收養指的是[LGBT](../Page/LGBT.md "wikilink")族群([男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink"))收養兒童。LGBT收養目前在14個國家是合法的，同時在某些國家(例如：美國)的某些地區是合法的。但在目前很多國家及地區，LGBT收養兒童是非法的，儘管在上述地區關於LGBT收養權問題還在熱烈辯論中。而反對LGBT族群收養兒童的最重要原因是，人們質疑同性伴侶能夠承擔起足夠的家長責任。但在實際執行上，LGBT收養權也不完全是由法律來監管，所以有時立法與否並不能阻止LGBT收養的發生。
 
 目前[醫學](https://zh.wikipedia.org/wiki/醫學 "wikilink")、[心理學和](https://zh.wikipedia.org/wiki/心理學 "wikilink")[社會福利團體達成的共識是一些發生在同性伴侶家庭中的兒童問題同樣也是會出現在異性伴侶家庭](https://zh.wikipedia.org/wiki/社會福利 "wikilink")。\[26\]
 但同時也有人指責這個研究超出了心理學的研究範疇，\[27\]

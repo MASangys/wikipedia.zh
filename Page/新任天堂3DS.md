@@ -1,4 +1,4 @@
-是一个由[任天堂开发的](../Page/任天堂.md "wikilink")[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")。它是任天堂3DS家族中第四款设备，之前三款分别为任天堂3DS、任天堂3DS
+是一个由[任天堂](../Page/任天堂.md "wikilink")开发的[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")。它是任天堂3DS家族中第四款设备，之前三款分别为任天堂3DS、任天堂3DS
 LL、任天堂2DS。设备于2014年10月11日在日本发售。于2014年11月21日在新西兰和澳大利亚发售。\[1\]\[2\]
 于2015年1月6日在欧洲举行的特别发布独家“大使版”以及2015年2月13日在欧洲零售。和原版3DS一样，新任天堂3DS同样也有更大尺寸的版本，叫做
 **新任天堂3DS LL**,\[3\] 同样在以上三个地区发布。在北美，新任天堂3DS
@@ -6,7 +6,7 @@ XL于2015年2月13日发布，而标准尺寸的新任天堂3DS于2015年9月25�
 
 相比以前的机型改进了更高速的CPU，增加了[RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")，新增了一个模拟[指点杆](../Page/指点杆.md "wikilink")（C-Stick），新增两个肩部按键（ZR
 和 ZL）,新增人脸检测机能，用于自动优化立体3D显示。机器内含附赠的4 GB
-[microSD卡并内置了](https://zh.wikipedia.org/wiki/microSD "wikilink")[近場通訊机能](../Page/近場通訊.md "wikilink"),
+[microSD卡并内置了](https://zh.wikipedia.org/wiki/microSD "wikilink")[近場通訊](../Page/近場通訊.md "wikilink")机能,
 以及其他的微小的设计更改（如彩色操作按钮）。.\[4\]
 
 新任天堂3DS获得评论家们的积极评价，虽然对于其设计的某些方面（例如[microSD插槽位置](https://zh.wikipedia.org/wiki/microSD "wikilink")）提出了批评，但新型号因其改进的性能，更多的的控制按钮以及更好的3D图像质量而受到称赞。在2017年7月，任天堂证实，在[新任天堂2DS
@@ -25,7 +25,7 @@ XL发布之前](https://zh.wikipedia.org/wiki/新任天堂2DS_XL "wikilink")，�
 在新机型的右侧新增了一个[指点杆](../Page/指点杆.md "wikilink")（称为“C-Stick”）以及新增了ZL和ZR肩部按钮，从而实现了适用于以前型号的附加手柄外设（Circle
 Pad Pro）的所有功能。这些额外的按钮的功能和Circle Pad Pro完全相同并且与支持的游戏向后兼容。\[19\]
 
-与之前型号使用标准[SD卡不同](../Page/SD卡.md "wikilink")，新任天堂3DS系列使用[MicroSD卡进行数据存储](../Page/MicroSD.md "wikilink")，内存卡与电池一起放置在设备的后盖里面，需要要卸下后盖的2颗螺丝才能接触到Micro
+与之前型号使用标准[SD卡](../Page/SD卡.md "wikilink")不同，新任天堂3DS系列使用[MicroSD](../Page/MicroSD.md "wikilink")卡进行数据存储，内存卡与电池一起放置在设备的后盖里面，需要要卸下后盖的2颗螺丝才能接触到Micro
 SD卡的插槽。数据还可以通过任何带有[SMB功能的设备以无线方式进行访问读写](https://zh.wikipedia.org/wiki/服务器消息块 "wikilink")，列如如电脑。\[20\]\[21\]
 
 新机型继续使用与[DSi和](https://zh.wikipedia.org/wiki/Nintendo_DSi "wikilink")3DS系列中的其他设备相同的AC电源适配器。就像日本和欧洲发售的Nintendo
@@ -35,14 +35,14 @@ SD卡的插槽。数据还可以通过任何带有[SMB功能的设备以无线�
 
 除了为反映其硬件设计差异而进行的微小调整之外，新任天堂3DS系列的[系统软件与原始](../Page/任天堂3DS系统软件.md "wikilink")3DS相同，提供[Nintendo
 Network进行多人在线游戏](https://zh.wikipedia.org/wiki/Nintendo_Network "wikilink")，[Nintendo
-eShop下载和购买游戏](https://zh.wikipedia.org/wiki/Nintendo_eShop "wikilink")，[StreetPass和SpotPass](https://zh.wikipedia.org/wiki/StreetPass和SpotPass "wikilink")。\[24\]\[25\][网页浏览器更新可以支持播放](../Page/网页浏览器.md "wikilink")[HTML5视频](../Page/HTML5.md "wikilink")。在日本发售的机型中，默认情况下网页[内容过滤器处于激活状态](https://zh.wikipedia.org/wiki/内容过滤器 "wikilink")，可通过注册信用卡禁用该功能，以防止儿童访问不适合的网站。\[26\]
+eShop下载和购买游戏](https://zh.wikipedia.org/wiki/Nintendo_eShop "wikilink")，[StreetPass和SpotPass](https://zh.wikipedia.org/wiki/StreetPass和SpotPass "wikilink")。\[24\]\[25\][网页浏览器](../Page/网页浏览器.md "wikilink")更新可以支持播放[HTML5](../Page/HTML5.md "wikilink")视频。在日本发售的机型中，默认情况下网页[内容过滤器处于激活状态](https://zh.wikipedia.org/wiki/内容过滤器 "wikilink")，可通过注册信用卡禁用该功能，以防止儿童访问不适合的网站。\[26\]
 
 ### 兼容性
 
 与之前的型号一样，新任天堂3DS系列仍支持任天堂3DS和任天堂DS（不包括使用[GBA插槽的任天堂DS软件](https://zh.wikipedia.org/wiki/GBA "wikilink")）。由于新任天堂3DS设备的硬件升级，一些3DS游戏在新设备上的性能和/或图形性能得到提高。C-Stick和ZL
 /ZR控件向后兼容支持[Circle Pad
 Pro外设的游戏](https://zh.wikipedia.org/wiki/Circle_Pad_Pro "wikilink")。有些游戏，比如*[异度之刃3D](https://zh.wikipedia.org/wiki/异度神剑 "wikilink")*，专门针对升级后的硬件进行了优化，并且是新任天堂3DS设备的独家产品，该游戏不支持在前任任天堂3DS型号上进行游玩。\[27\]\[28\]
-2016年3月，任天堂开始在[虚拟主机上发布](../Page/虚拟主机.md "wikilink")[超级任天堂游戏](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，游戏支持“完美像素”模式，这种模式可以让游戏玩家使用原始的正方形像素进行游玩，而不是以原来的4：3比例。\[29\]\[30\]
+2016年3月，任天堂开始在[虚拟主机](../Page/虚拟主机.md "wikilink")上发布[超级任天堂游戏](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，游戏支持“完美像素”模式，这种模式可以让游戏玩家使用原始的正方形像素进行游玩，而不是以原来的4：3比例。\[29\]\[30\]
 
 与以前的型号一样，所有3DS游戏和下载的软件都是区域锁定的（DS卡带游戏仍保持无区域限制）。\[31\]
 由于其尺寸的差异，为原始任天堂3DS外形而设计的外围设备不能用于新型号设备。尽管来自新型号的数据不能传输至旧系统，但游戏数据可以从前任的3DS系统传输到新任天堂3DS系统，无论是手动还是无线方式。\[32\]\[33\]
@@ -71,13 +71,13 @@ LL于2014年10月11日在日本发售; 普通尺寸的版本有黑色和白色�
 出现了一个[社交媒体运动](https://zh.wikipedia.org/wiki/社交媒体 "wikilink")，呼吁任天堂美国公司在北美发布该小型机型。\[45\]
 2015年3月，[美国联邦通信委员会解除了有关](https://zh.wikipedia.org/wiki/FCC "wikilink")2014年9月在标准新任天堂3DS机型上执行的监管细节的信息禁令，这表明任天堂美国确实考虑在一个时间点推出小型机型。\[46\]
 
-2015年8月31日，在[拉斯维加斯的](../Page/拉斯维加斯.md "wikilink")[GameStop经理会议上](../Page/GameStop.md "wikilink")，美国任天堂证实标准新3DS机型将于2015年9月25日在该地区推出，[动物之森_快乐之家设计师捆绑版](../Page/动物之森_快乐之家设计师.md "wikilink")
+2015年8月31日，在[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")的[GameStop](../Page/GameStop.md "wikilink")经理会议上，美国任天堂证实标准新3DS机型将于2015年9月25日在该地区推出，[动物之森_快乐之家设计师](../Page/动物之森_快乐之家设计师.md "wikilink")捆绑版
 - 包括配套系统主题，游戏软件，两张替换外壳和一张Amiibo卡。
 第二部“塞尔达传说”主题的XL版捆绑包“Hyrule版”也于2015年10月30日发布由GameStop独家发布。\[47\]
 
 2016年1月，北美地区发布了一款特别的[神奇宝贝主题新任天堂](https://zh.wikipedia.org/wiki/神奇宝贝 "wikilink")3DS套件，于2016年2月27日开始销售。来纪念为了纪念精灵宝可梦系列发售20周年而发售的Virtual
 Console原版游戏。该机型包含[精靈寶可夢_紅·綠](../Page/精靈寶可夢_紅·綠.md "wikilink") 的
-[噴火龍和](../Page/噴火龍.md "wikilink")[水箭龟的替换外壳和可下载的主菜单皮肤](../Page/水箭龟.md "wikilink")。\[48\]
+[噴火龍](../Page/噴火龍.md "wikilink")和[水箭龟](../Page/水箭龟.md "wikilink")的替换外壳和可下载的主菜单皮肤。\[48\]
 
 2016年8月，[Target和](https://zh.wikipedia.org/wiki/Target_Corporation "wikilink")[Walmart独家发布了一款包含](https://zh.wikipedia.org/wiki/Walmart "wikilink")[超级马里奥3D大陆主题的替换的新](https://zh.wikipedia.org/wiki/超级马里奥3D大陆 "wikilink")3DS套件，在北美地区发售。\[49\]
 任天堂于2016年11月在北美发布了带有“马力欧”主题设计的黑色和白色新3DS机型;
@@ -184,7 +184,7 @@ LL（XL）在硬件方面拥有更大的屏幕和电池，但不能像新任天�
   - 《聖火降魔錄 if》限定版
       - 北美地区：2016年2月19日
       - 日本地区：2016年4月上旬
-  - [超級任天堂限定版](../Page/超級任天堂.md "wikilink")
+  - [超級任天堂](../Page/超級任天堂.md "wikilink")限定版
       - 日本地区：2016年4月中旬
   - 《魔物獵人 X》（藍色）同捆限定版
       - 日本地区：2016年4月28日

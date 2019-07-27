@@ -36,7 +36,7 @@ b棋子用法：当其他队伍听完题目要回答时，可使用b棋子，首
 
 ## 问题类别
 
-建筑：[建筑物](../Page/建筑物.md "wikilink")，[建筑师和](../Page/建筑师.md "wikilink")[设计师](https://zh.wikipedia.org/wiki/设计师 "wikilink")。
+建筑：[建筑物](../Page/建筑物.md "wikilink")，[建筑师](../Page/建筑师.md "wikilink")和[设计师](https://zh.wikipedia.org/wiki/设计师 "wikilink")。
 
 艺术与舞台：[艺术家](https://zh.wikipedia.org/wiki/艺术家 "wikilink")，[画家](https://zh.wikipedia.org/wiki/画家 "wikilink")，[雕塑家](https://zh.wikipedia.org/wiki/雕塑家 "wikilink")，[剧院和](https://zh.wikipedia.org/wiki/剧院 "wikilink")[歌剧院](https://zh.wikipedia.org/wiki/歌剧院 "wikilink")。
 
@@ -54,9 +54,9 @@ b棋子用法：当其他队伍听完题目要回答时，可使用b棋子，首
 
 历史：历史人物，地点和事件。
 
-人类：[生理学](../Page/生理学.md "wikilink")，[解剖学](../Page/解剖学.md "wikilink")，[心理学](../Page/心理学.md "wikilink")，[医学和生活](../Page/医学.md "wikilink")。
+人类：[生理学](../Page/生理学.md "wikilink")，[解剖学](../Page/解剖学.md "wikilink")，[心理学](../Page/心理学.md "wikilink")，[医学](../Page/医学.md "wikilink")和生活。
 
-外语：外来词，[成语和](../Page/成语.md "wikilink")[熟语](../Page/熟语.md "wikilink")。
+外语：外来词，[成语](../Page/成语.md "wikilink")和[熟语](../Page/熟语.md "wikilink")。
 
 文学：题名，著者，[哲学家和文学人物](https://zh.wikipedia.org/wiki/哲学家 "wikilink")。
 
@@ -66,7 +66,7 @@ b棋子用法：当其他队伍听完题目要回答时，可使用b棋子，首
 
 政治：政治家，各缔约方，组织和政府形式。
 
-[科学](../Page/科学.md "wikilink")：[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")，[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")，[数学和天文学](../Page/数学.md "wikilink")。
+[科学](../Page/科学.md "wikilink")：[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")，[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")，[数学](../Page/数学.md "wikilink")和天文学。
 
 体育和游戏：[运动员](https://zh.wikipedia.org/wiki/运动员 "wikilink")，[体育](../Page/体育.md "wikilink")，游戏和记录。
 

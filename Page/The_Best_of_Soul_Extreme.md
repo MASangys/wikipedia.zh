@@ -1,5 +1,5 @@
 《The Best of Soul
-Extreme》為[日本歌手](../Page/日本.md "wikilink")[福原美穗於](../Page/福原美穗.md "wikilink")2012年6月13日發行之3rd[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+Extreme》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2012年6月13日發行之3rd[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 解說
 
@@ -10,7 +10,7 @@ Extreme》為[日本歌手](../Page/日本.md "wikilink")[福原美穗於](../Pa
     II](../Page/The_Soul_Extreme_EP_II.md "wikilink")》以及單曲《[Dream
     On feat.
     三浦大知](https://zh.wikipedia.org/wiki/Dream_On_feat._三浦大知 "wikilink")》的集大成專輯。\[1\]
-  - 初回限定CD+DVD版本，CD多加了一片從「地下時期」翻唱的曲子，DVD則除了收錄[音樂錄影帶以外](../Page/音樂錄影帶.md "wikilink")，也收錄了現場演唱會的影像。
+  - 初回限定CD+DVD版本，CD多加了一片從「地下時期」翻唱的曲子，DVD則除了收錄[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")以外，也收錄了現場演唱會的影像。
 
 ## 發行版本
 

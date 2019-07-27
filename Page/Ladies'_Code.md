@@ -85,7 +85,7 @@ Ladies'
 Code五位成員活躍多個領域，使她們出道前已獲得了一定的人氣。[梨世於](../Page/權梨世.md "wikilink")2009年參加了第53屆韓國小姐得到國際冬季競賽大獎。此後於2011年參加節目[偉大的誕生](https://zh.wikipedia.org/wiki/偉大的誕生 "wikilink")，可惜只於12強止步，同年與同為[偉大的誕生出身的](https://zh.wikipedia.org/wiki/偉大的誕生 "wikilink")[吳志勛](../Page/吳世勛_\(韓國歌手\).md "wikilink")（David
 Oh）出演了[我們結婚了](../Page/我們結婚了.md "wikilink")，組成物理夫婦，使其成為Ladies'
 Code出道時知名度最高的成員。昭政於出道前參加[Voice
-Korea](https://zh.wikipedia.org/wiki/好聲音 "wikilink")，其充滿感染力的歌聲獲得導師激賞，以四轉（所有導師轉身）的成績晉級，最終止步於全國8強。Ashley出道前經常上傳舞蹈影片於自己的[YouTube频道](../Page/YouTube.md "wikilink")，後為圓音樂夢回到韓國，曾為[Cube娛樂練習生](../Page/Cube娛樂.md "wikilink")。
+Korea](https://zh.wikipedia.org/wiki/好聲音 "wikilink")，其充滿感染力的歌聲獲得導師激賞，以四轉（所有導師轉身）的成績晉級，最終止步於全國8強。Ashley出道前經常上傳舞蹈影片於自己的[YouTube](../Page/YouTube.md "wikilink")频道，後為圓音樂夢回到韓國，曾為[Cube娛樂](../Page/Cube娛樂.md "wikilink")練習生。
 
 ### 2013年：出道、首張迷你專輯《CODE \#01 壞女孩》、首張數位單曲《Hate you》、第二張迷你專輯《CODE \#02 Pretty\! Pretty\!》
 
@@ -118,7 +118,7 @@ Kiss》。但在新歌推出1個月之後，Ladies' Code發生嚴重車禍，造
 在車禍事件發生後，為了完成高恩妃生前想拿一位的心願，Ladies' Code粉絲和網友們攜手刷音源，因為第二張迷你專輯《CODE \#02
 Pretty\! Pretty\!》的收錄曲〈I'm Fine Thank You〉中的歌詞提及到「就這樣過了一天，就只有今天 I
 cry，希望你永遠幸福 Good
-bye」表達了粉絲沉重的心情，所以使此曲登上共9個音源網站即時榜的一位，包括：MelOn、Bugs、Genie、Monkey3和Olleh
+bye」表達了粉絲沉重的心情，另一個原因是因為這首歌是恩妃生前最喜歡的歌，所以使此曲登上共9個音源網站即時榜的一位，包括：MelOn、Bugs、Genie、Monkey3和Olleh
 Music等。
 
 ### 2015年：走過傷痛，舉辦紀念演唱會
@@ -132,7 +132,7 @@ Code的僅存三位成員、同屬公司藝人也紛紛參與，公佈新歌《�
 
 2月21日與2月28日，昭政以"我的夜比你的白日美"的舞台名登上[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")47集和48集的舞台，並晉級到第二輪，其深厚的歌唱實力在蒙面的情況下被眾人誤以為是出道幾十年的歌手。
 
-7月19日起，昭政參與[JTBC播出的](../Page/JTBC.md "wikilink")[音乐竞技](../Page/音乐.md "wikilink")[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")《[Girl
+7月19日起，昭政參與[JTBC](../Page/JTBC.md "wikilink")播出的[音乐](../Page/音乐.md "wikilink")竞技[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")《[Girl
 Spirit](../Page/Girl_Spirit.md "wikilink")》，並挺進最終決賽。
 
 Ladies'
@@ -143,7 +143,7 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 
 5月2日，公開了昭政solo預告圖，昭政的首支solo曲〈我們為什麼會分手？〉是一首平靜的抒情曲，搭配昭政具有感染力的歌聲，將更能散發歌曲悲傷的氣息。
 
-同年9月，隊長Ashley以本名崔嬪娜參加[JTBC的實境秀](../Page/JTBC.md "wikilink")[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，不過並未入選。
+同年9月，隊長Ashley以本名崔嬪娜參加[JTBC](../Page/JTBC.md "wikilink")的實境秀[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，不過並未入選。
 
 ### 2018年：成員個人活動&團體兩年後回歸
 
@@ -505,7 +505,7 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 ### 高恩妃車禍身亡
 
 2014年9月3日凌晨約1時30分，Ladies'
-Code乘坐的車輛在韓國[嶺東高速公路發生車禍](../Page/嶺東高速公路.md "wikilink")，成員高恩妃身亡，權梨世與李昭政重傷。據韓國媒體的報導，梨世頭部及腹部傷勢嚴重，經紀公司亦表示：「梨世在11個小時內做了3、4次手術後，因血壓低而要停止手術，之後被安排入住深切治療部繼續觀察。」而她居住在日本的家人也趕往首爾探望。據警方人員透露，其乘坐車輛在嶺東高速公路距離[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")43公里處撞上防護欄，警方事後藉由監視錄影帶研判事故系因經紀人以時速130公里超速行駛且天雨路滑致使\[2\]\[3\]。車禍事件中，受傷最嚴重的高恩妃在送醫不久後即停止呼吸。事故發生時車上的Ladies'
+Code乘坐的車輛在韓國[嶺東高速公路](../Page/嶺東高速公路.md "wikilink")發生車禍，成員高恩妃身亡，權梨世與李昭政重傷。據韓國媒體的報導，梨世頭部及腹部傷勢嚴重，經紀公司亦表示：「梨世在11個小時內做了3、4次手術後，因血壓低而要停止手術，之後被安排入住深切治療部繼續觀察。」而她居住在日本的家人也趕往首爾探望。據警方人員透露，其乘坐車輛在嶺東高速公路距離[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")43公里處撞上防護欄，警方事後藉由監視錄影帶研判事故系因經紀人以時速130公里超速行駛且天雨路滑致使\[2\]\[3\]。車禍事件中，受傷最嚴重的高恩妃在送醫不久後即停止呼吸。事故發生時車上的Ladies'
 Code五名成員、化粧師和司機共七人，高恩妃身亡，權梨世與李昭政重傷，而其餘四人則為輕傷。高恩妃去世時年僅21歲\[4\]。
 
 Ladies' Code經紀公司發表官方聲明表示：「Ladies' Code在結束大邱的行程後，在3日凌晨約1點30分，Ladies'

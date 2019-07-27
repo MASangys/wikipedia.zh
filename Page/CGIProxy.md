@@ -5,9 +5,9 @@ language = [Perl](../Page/Perl.md "wikilink") | genre =
 [专有](../Page/专有软件.md "wikilink"), 非商业用途免费\[1\] | website =
 [CGIProxy](http://www.jmarshall.com/tools/cgiproxy/) | status = 活动中 }}
 
-**CGIProxy**顾名思义，是一套基于[通用网关接口的代理软件包裹](../Page/通用网关接口.md "wikilink")。CGI（[通用网关接口](../Page/通用网关接口.md "wikilink")）代理让用户通过一个看似网页的页面去访问其他的网站。多数情况下这种访问是匿名的。匿名CGI代理通过一份安全的嵌在别的网页里，使用[SSL技术加密的网络表格来提供代理服务](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")。由于这种服务形式，这一类代理服务器通常也被称为“网页代理器”。
+**CGIProxy**顾名思义，是一套基于[通用网关接口](../Page/通用网关接口.md "wikilink")的代理软件包裹。CGI（[通用网关接口](../Page/通用网关接口.md "wikilink")）代理让用户通过一个看似网页的页面去访问其他的网站。多数情况下这种访问是匿名的。匿名CGI代理通过一份安全的嵌在别的网页里，使用[SSL技术加密的网络表格来提供代理服务](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")。由于这种服务形式，这一类代理服务器通常也被称为“网页代理器”。
 
-CGIProxy用[Perl语言写成](../Page/Perl.md "wikilink")。它能够安装在任何允许使用CGI执行Perl程序以及支持非语言分析CGI脚本报头的[網頁伺服器上](../Page/網頁伺服器.md "wikilink")\[2\]。所支持的协议包括[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")，[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，[安全套接层以及相关的技术比如](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")[Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink")，[Shockwave
+CGIProxy用[Perl](../Page/Perl.md "wikilink")语言写成。它能够安装在任何允许使用CGI执行Perl程序以及支持非语言分析CGI脚本报头的[網頁伺服器](../Page/網頁伺服器.md "wikilink")上\[2\]。所支持的协议包括[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")，[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，[安全套接层以及相关的技术比如](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")[Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink")，[Shockwave
 Flash等](../Page/Adobe_Flash.md "wikilink")。
 
 CGIProxy的开发在2008年12月24日暂停，现在又重新开始了开发，2013年度更新了三次。\[3\]更改日志非常多，包括视窗支持。\[4\]

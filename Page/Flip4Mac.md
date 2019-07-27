@@ -1,7 +1,7 @@
 **Flip4Mac**是Telestream,
 Inc.其下的一個注冊商標，是一系列[Mac多媒體工具軟件](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。
 
-它最出名的是，它是唯一可以在[QuickTime中播放](../Page/QuickTime.md "wikilink")[Windows
+它最出名的是，它是唯一可以在[QuickTime](../Page/QuickTime.md "wikilink")中播放[Windows
 Media的插件](../Page/Windows_Media.md "wikilink")（Plug-in）。不過，亦有其他[多媒體播放器可以播放](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")[Microsoft擁有專利的](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[WMV和](https://zh.wikipedia.org/wiki/WMV "wikilink")[WMA](https://zh.wikipedia.org/wiki/WMA "wikilink")，但不是在QuickTime介面下。
 
 Flip4Mac基本版原本是[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")，但播放時會帶有水印。2014年5月1日推出的Flip4Mac
@@ -15,7 +15,7 @@ Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
 for Mac OS X，並提供免費的Flip4Mac代替。Microsoft在網頁上稱為之 "QuickTime 適用之 Windows
 Media Components"。\[1\]\[2\]
 
-除了作為QuickTime插件，它亦是[網頁瀏覽器插件](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，可以在[Safari和](../Page/Safari.md "wikilink")[Firefox等瀏覽器上播放串流的Windows](../Page/Firefox.md "wikilink")
+除了作為QuickTime插件，它亦是[網頁瀏覽器插件](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，可以在[Safari](../Page/Safari.md "wikilink")和[Firefox](../Page/Firefox.md "wikilink")等瀏覽器上播放串流的Windows
 Media。
 
 ## 參考文獻

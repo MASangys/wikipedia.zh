@@ -21,7 +21,7 @@ That Weight](../Page/Carry_That_Weight.md "wikilink")》裡出現。
 
 ## 引用
 
-  - [日產汽車在車款Nissan](../Page/日產汽車.md "wikilink") Sunny的廣告上採用過這首曲子。
+  - [日產汽車](../Page/日產汽車.md "wikilink")在車款Nissan Sunny的廣告上採用過這首曲子。
 
 ## 參考資料
 

@@ -290,7 +290,7 @@
 <td><p>9月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/出川哲朗" title="wikilink">出川哲朗</a></p></td>
 <td><p>たむけん王子プレゼンツ 淡路島ゴージャスツアー</p></td>
-<td><p><a href="../Page/淡路島.md" title="wikilink">淡路島で</a><a href="https://zh.wikipedia.org/wiki/釣り堀" title="wikilink">釣り堀</a>48</p></td>
+<td><p><a href="../Page/淡路島.md" title="wikilink">淡路島</a>で<a href="https://zh.wikipedia.org/wiki/釣り堀" title="wikilink">釣り堀</a>48</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
@@ -378,7 +378,7 @@
 <td><p>12月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/女と男" title="wikilink">女と男</a></p></td>
 <td><p>ご存知!?48<br />
-(女子必見!超人気<a href="https://zh.wikipedia.org/wiki/占星術" title="wikilink">占星術研究家が占う</a>2012年一番ツイてる<a href="../Page/星座.md" title="wikilink">星座ってご存じ</a>!?)<br />
+(女子必見!超人気<a href="https://zh.wikipedia.org/wiki/占星術" title="wikilink">占星術研究家が占う</a>2012年一番ツイてる<a href="../Page/星座.md" title="wikilink">星座</a>ってご存じ!?)<br />
 (女子の携帯電話には人に見せられない<a href="https://zh.wikipedia.org/wiki/写メ" title="wikilink">写メがあるってご存じ</a>!?)<br />
 (グルメ雑誌編集者が混んだらイヤなのであんまり教えたくないカレー屋さんってご存じ!?)</p></td>
 <td><p>頬ずりで48</p></td>
@@ -598,7 +598,7 @@
 <li>お洒落だけじゃない!進化した個性派<a href="https://zh.wikipedia.org/wiki/カフェ" title="wikilink">カフェってご存じ</a>!?</li>
 <li>ご飯を食べたうえにお金がもらえる女性に人気のアルバイトってご存じ!?</li>
 </ul></td>
-<td><p>空中<a href="../Page/俳句.md" title="wikilink">俳句で</a>48</p></td>
+<td><p>空中<a href="../Page/俳句.md" title="wikilink">俳句</a>で48</p></td>
 </tr>
 <tr class="even">
 <td><p>54</p></td>

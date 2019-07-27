@@ -59,9 +59,9 @@
   - [武原はん](https://zh.wikipedia.org/wiki/武原はん "wikilink")（舞蹈家）
   - ジェームス三木（作家）
   - [山口洋子](../Page/山口洋子.md "wikilink")（作家・作詞家）
-  - [吉田義男](https://zh.wikipedia.org/wiki/吉田義男 "wikilink")（[阪神虎監督](../Page/阪神虎.md "wikilink")）
+  - [吉田義男](https://zh.wikipedia.org/wiki/吉田義男 "wikilink")（[阪神虎](../Page/阪神虎.md "wikilink")監督）
   - [大地真央](../Page/大地真央.md "wikilink")（女演員）
-  - [北尾光司](https://zh.wikipedia.org/wiki/北尾光司 "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
+  - [北尾光司](https://zh.wikipedia.org/wiki/北尾光司 "wikilink")（[相撲](../Page/相撲.md "wikilink")選手
     - 大關）
   - [遠藤利男](https://zh.wikipedia.org/wiki/遠藤利男 "wikilink") (NHK番組制作局長)
 

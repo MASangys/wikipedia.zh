@@ -1,5 +1,5 @@
 **HTC One
-Mini**是[臺灣手機公司](../Page/臺灣.md "wikilink")[HTC開發的中階](https://zh.wikipedia.org/wiki/HTC "wikilink")[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")。搭載[Android作業系統](../Page/Android.md "wikilink")、[HTC
+Mini**是[臺灣](../Page/臺灣.md "wikilink")手機公司[HTC開發的中階](https://zh.wikipedia.org/wiki/HTC "wikilink")[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")。搭載[Android](../Page/Android.md "wikilink")作業系統、[HTC
 Sense使用者介面](../Page/HTC_Sense.md "wikilink")，[宏達電花](https://zh.wikipedia.org/wiki/宏達電 "wikilink")1200萬美金(3.6億新台幣)請明星[小勞勃道尼來做宣傳](https://zh.wikipedia.org/wiki/小勞勃道尼 "wikilink")。
 
 ## 更新

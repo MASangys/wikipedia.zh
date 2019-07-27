@@ -7,7 +7,7 @@ Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")，T-ara將�
 
 12月1日，《Temptastic》開放[數位下載及另一支主打單曲](../Page/數位音樂下載.md "wikilink")《[Yayaya](https://zh.wikipedia.org/wiki/Yayaya "wikilink")》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，而實體專輯原定在11月發行，但因為[延坪島炮擊事件的發生](https://zh.wikipedia.org/wiki/延坪島炮擊事件 "wikilink")，最後被延遲至12月3日\[2\]。
 
-《Yayaya》由[E-Tribe製作](https://zh.wikipedia.org/wiki/E-Tribe "wikilink")，專輯內的其他曲目則由金道勛、李尚浩、崔圭成以及曾為T-ara打造數首主打曲的[新沙洞老虎製作](../Page/新沙洞老虎.md "wikilink")。
+《Yayaya》由[E-Tribe製作](https://zh.wikipedia.org/wiki/E-Tribe "wikilink")，專輯內的其他曲目則由金道勛、李尚浩、崔圭成以及曾為T-ara打造數首主打曲的[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")製作。
 
 12月3日，T-ara於[KBS的音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》正式展開宣傳行程，並在節目中表演了兩首主打單曲《為什麼這樣》與《Yayaya》。
 

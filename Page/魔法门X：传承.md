@@ -1,4 +1,4 @@
-《**魔法门X：传承**》（）是一款由Limbic娱乐公司开发、由[育碧软件公司于](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")2014年1月23日在[Windows平台上发行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]的[第一人称视角](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列游戏的第](../Page/魔法门系列.md "wikilink")10代正传作品。
+《**魔法门X：传承**》（）是一款由Limbic娱乐公司开发、由[育碧软件公司于](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")2014年1月23日在[Windows平台上发行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]的[第一人称视角](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列](../Page/魔法门系列.md "wikilink")游戏的第10代正传作品。
 
 该作的剧情将延续《[魔法门之英雄无敌VI](../Page/魔法门之英雄无敌VI.md "wikilink")》，发生于亚山，与前作《[魔法门IX](../Page/魔法门IX.md "wikilink")》的剧情无直接联系。\[2\]
 
@@ -16,7 +16,7 @@
 
 《魔法门X》使用了一些在育碧的英雄无敌系列游戏中曾经用过的材质图片。\[9\]
 
-游戏不会使用多次在线验证的[数字版权管理（DRM）系统](../Page/数字版权管理.md "wikilink")，不过它使用了系统进行首次激活。\[10\]
+游戏不会使用多次在线验证的[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）系统，不过它使用了系统进行首次激活。\[10\]
 
 ## “魔法门X”名称
 

@@ -2,7 +2,7 @@
 
 ## 制备
 
-六氰合铁(II)酸可以由[盐酸或冷的](../Page/盐酸.md "wikilink")[硫酸和](../Page/硫酸.md "wikilink")[亚铁氰酸钾在](https://zh.wikipedia.org/wiki/亚铁氰酸钾 "wikilink")[乙醚中反应](../Page/乙醚.md "wikilink")，之后在80\~90℃的氢气流中加热脱去乙醚得到。\[2\]
+六氰合铁(II)酸可以由[盐酸](../Page/盐酸.md "wikilink")或冷的[硫酸](../Page/硫酸.md "wikilink")和[亚铁氰酸钾在](https://zh.wikipedia.org/wiki/亚铁氰酸钾 "wikilink")[乙醚](../Page/乙醚.md "wikilink")中反应，之后在80\~90℃的氢气流中加热脱去乙醚得到。\[2\]
 
 ## 性质
 

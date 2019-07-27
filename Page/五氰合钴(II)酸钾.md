@@ -2,7 +2,7 @@
 
 ## 化学性质
 
-五氰合钴(II)酸钾不稳定，在空气中很容易被氧化。若向溶液中通入[二氧化硫并加入](../Page/二氧化硫.md "wikilink")[甲醇](../Page/甲醇.md "wikilink")，可沉淀出K<sub>4</sub>\[(CN)<sub>5</sub>CoSO<sub>2</sub>Co(CN)<sub>5</sub>\]·4H<sub>2</sub>O。\[1\]
+五氰合钴(II)酸钾不稳定，在空气中很容易被氧化。若向溶液中通入[二氧化硫](../Page/二氧化硫.md "wikilink")并加入[甲醇](../Page/甲醇.md "wikilink")，可沉淀出K<sub>4</sub>\[(CN)<sub>5</sub>CoSO<sub>2</sub>Co(CN)<sub>5</sub>\]·4H<sub>2</sub>O。\[1\]
 
 ## 参考资料
 

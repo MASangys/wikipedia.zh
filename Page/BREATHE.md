@@ -15,10 +15,10 @@ Lies』。
 <!-- end list -->
 
   -
-    [神奈川縣出身](../Page/神奈川縣.md "wikilink")。身長172cm。血型：AB型。
+    [神奈川縣](../Page/神奈川縣.md "wikilink")出身。身長172cm。血型：AB型。
     東北高等學校、専修大學的野球部出身。
     與隸屬日本職棒太平洋聯盟職業棒球隊的[福岡軟體銀行鷹選手長谷川勇也是大學時代的同隊隊員](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")。\[4\]。
-    [廣瀨香美音樂學校](../Page/廣瀨香美.md "wikilink")，[EXPG東京校出身](../Page/EXPG.md "wikilink")。\[5\]
+    [廣瀨香美](../Page/廣瀨香美.md "wikilink")音樂學校，[EXPG](../Page/EXPG.md "wikilink")東京校出身。\[5\]
     會稱成員多田和也為「和也」。
 
 <!-- end list -->

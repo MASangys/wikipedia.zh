@@ -1,5 +1,5 @@
 **Nexus
-10**是一款由[Google和](../Page/Google.md "wikilink")[三星共同研发的](../Page/三星電子.md "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，也是[Google
+10**是一款由[Google](../Page/Google.md "wikilink")和[三星共同研发的](../Page/三星電子.md "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，也是[Google
 Nexus系列的第二款平板电脑](../Page/Google_Nexus.md "wikilink")。与前一款7英寸产品[Nexus
 7不同的是](https://zh.wikipedia.org/wiki/Nexus_7 "wikilink")，这款平板拥有10.1寸屏幕。这一产品将会以16GB和32GB两种存储容量上市，分别售399美元和499美元。Nexus
 10将与[Nexus 4一道搭载](../Page/Nexus_4.md "wikilink")[Android 4.2

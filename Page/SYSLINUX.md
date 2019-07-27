@@ -1,15 +1,15 @@
 **SYSLINUX**專案是一個輕量級的[IBM
-PC兼容機](https://zh.wikipedia.org/wiki/IBM_PC兼容機 "wikilink")[主開機紀錄](https://zh.wikipedia.org/wiki/主開機紀錄 "wikilink")[啟動程式套裝](../Page/啟動程式.md "wikilink")，讓[電腦可以使用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[Linux內核開機](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")。其主要開發者為，並包含了幾個獨立的系統，其中最知名的是**ISOLINUX**。
+PC兼容機](https://zh.wikipedia.org/wiki/IBM_PC兼容機 "wikilink")[主開機紀錄](https://zh.wikipedia.org/wiki/主開機紀錄 "wikilink")[啟動程式](../Page/啟動程式.md "wikilink")套裝，讓[電腦可以使用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[Linux內核開機](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")。其主要開發者為，並包含了幾個獨立的系統，其中最知名的是**ISOLINUX**。
 
 ## 列表
 
-  - 原始的SYSLINUX，用來從[FAT和](../Page/FAT.md "wikilink")[NTFS檔案系統開機](../Page/NTFS.md "wikilink")（如軟碟和USB裝置）。
+  - 原始的SYSLINUX，用來從[FAT](../Page/FAT.md "wikilink")和[NTFS](../Page/NTFS.md "wikilink")檔案系統開機（如軟碟和USB裝置）。
   - ISOLINUX\[1\] ，用來從[CD-ROM](../Page/CD-ROM.md "wikilink") [ISO
     9660檔案系統開機](../Page/ISO_9660.md "wikilink")。
   - PXELINUX\[2\]
     ，用來從裝設了[預啟動執行環境的網路伺服器開機](https://zh.wikipedia.org/wiki/預啟動執行環境 "wikilink")。
   - EXTLINUX\[3\]
-    ，用來從[Linux的](../Page/Linux.md "wikilink")[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")／[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")／[ext4或](https://zh.wikipedia.org/wiki/ext4 "wikilink")[Btrfs檔案系統開機](../Page/Btrfs.md "wikilink")。
+    ，用來從[Linux](../Page/Linux.md "wikilink")的[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")／[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")／[ext4或](https://zh.wikipedia.org/wiki/ext4 "wikilink")[Btrfs](../Page/Btrfs.md "wikilink")檔案系統開機。
   - MEMDISK\[4\]
     ，用來從上述啟動較舊的作業系統（如[MS-DOS](../Page/MS-DOS.md "wikilink")）。
   - 兩個獨立的選單系統。
@@ -26,10 +26,10 @@ CD及安裝光碟上](../Page/Live_CD.md "wikilink")。
 從CD-ROM開機時則稍微複雜了一點。[El
 Torito可開機光碟規格允許以兩種不同的模式開機](../Page/El_Torito.md "wikilink")：
 
-  - 軟碟模擬模式:啟動資訊儲存在一個[FAT格式軟碟的映像檔裡](../Page/FAT.md "wikilink")，此處是使用CD啟動，但被辨識為一個虛擬軟碟機。此模式使用SYSLINUX。
+  - 軟碟模擬模式:啟動資訊儲存在一個[FAT](../Page/FAT.md "wikilink")格式軟碟的映像檔裡，此處是使用CD啟動，但被辨識為一個虛擬軟碟機。此模式使用SYSLINUX。
     非模擬模式:啟動資訊直接儲存在CD裡（而不是軟碟映像檔）。這個模式使用ISOLINUX。
 
-有時候，這樣的選擇是有用的，因為ISOLINUX面對[BIOS的](../Page/BIOS.md "wikilink")[程式錯誤時相當脆弱](https://zh.wikipedia.org/wiki/程式錯誤 "wikilink")，因為這個原因，開機時使用SYSLINUX可能較為便利。此影響較大的是1999年以前製造的電腦，而現代的電腦使用非模擬模式通常是個比較可靠的選擇。
+有時候，這樣的選擇是有用的，因為ISOLINUX面對[BIOS](../Page/BIOS.md "wikilink")的[程式錯誤時相當脆弱](https://zh.wikipedia.org/wiki/程式錯誤 "wikilink")，因為這個原因，開機時使用SYSLINUX可能較為便利。此影響較大的是1999年以前製造的電腦，而現代的電腦使用非模擬模式通常是個比較可靠的選擇。
 
 利用SYSLINUX創造[Live
 USB的例子越來越多](https://zh.wikipedia.org/wiki/Live_USB "wikilink")，例如[Slax](../Page/Slax.md "wikilink")。
@@ -39,14 +39,14 @@ ISO」的映像檔，可以放置於光碟或是硬碟的主開機記錄，讓�
 
 ### PXELINUX
 
-PXELINUX通常使用在與[預啟動執行環境相容](https://zh.wikipedia.org/wiki/預啟動執行環境 "wikilink")[唯讀記憶體的網路卡上](../Page/唯讀記憶體.md "wikilink")。預啟動執行環境使用[DHCP或](https://zh.wikipedia.org/wiki/DHCP "wikilink")[BOOTP來使用基本的](https://zh.wikipedia.org/wiki/BOOTP "wikilink")[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")
+PXELINUX通常使用在與[預啟動執行環境相容](https://zh.wikipedia.org/wiki/預啟動執行環境 "wikilink")[唯讀記憶體](../Page/唯讀記憶體.md "wikilink")的網路卡上。預啟動執行環境使用[DHCP或](https://zh.wikipedia.org/wiki/DHCP "wikilink")[BOOTP來使用基本的](https://zh.wikipedia.org/wiki/BOOTP "wikilink")[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")
 網路，並透過[TFTP下載](https://zh.wikipedia.org/wiki/小型文件傳輸協議 "wikilink")[啟動程式](../Page/啟動程式.md "wikilink")。該啟動程式根據從TFTP伺服器下載的指令載入並設定[核心](https://zh.wikipedia.org/wiki/核心 "wikilink")。
 
 通常來說，PXELINUX用於從中央伺服器啟動Linux，或是啟動[無盤系統](https://zh.wikipedia.org/wiki/無盤系統 "wikilink")。
 
 ### EXTLINUX
 
-EXTLINUX通常是作為一個通用的啟動程式，如同[LILO或是](../Page/LILO.md "wikilink")[GRUB](../Page/GNU_GRUB.md "wikilink")。
+EXTLINUX通常是作為一個通用的啟動程式，如同[LILO](../Page/LILO.md "wikilink")或是[GRUB](../Page/GNU_GRUB.md "wikilink")。
 從SYSLINUX 4開始，EXTLINUX被合併至SYSLINUX裡。\[6\]
 
 ## COMBOOT

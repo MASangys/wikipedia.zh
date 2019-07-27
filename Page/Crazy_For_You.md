@@ -1,5 +1,5 @@
 《**Crazy For
-You**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基第二張個人專輯](../Page/李昇基.md "wikilink")，於2006年2月2日由Hook
+You**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基](../Page/李昇基.md "wikilink")第二張個人專輯，於2006年2月2日由Hook
 Entertainment製作、發行，以《難以啟齒》（）及《嘴型》（）作主打歌曲。
 
 首波主打《難以啟齒》在專輯推出後佔據[M\!

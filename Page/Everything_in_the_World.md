@@ -1,5 +1,5 @@
 《**Everything in the
-World**》是[曲婉婷的第一张个人录音室专辑](../Page/曲婉婷.md "wikilink")。Bonus
+World**》是[曲婉婷](../Page/曲婉婷.md "wikilink")的第一张个人录音室专辑。Bonus
 Track两首国语作品《我的歌声里》正式版和DEMO版。2012年7月由环球唱片推出中国版和香港版，追加收录两首新歌。
 
 ## 曲目

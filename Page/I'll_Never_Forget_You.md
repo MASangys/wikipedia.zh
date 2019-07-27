@@ -1,5 +1,5 @@
 《**I'll Never Forget
-You**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張立基的第四張專輯](../Page/張立基.md "wikilink")，在1989年10月推出。專輯的第一主打歌是《夜消沉》，而第二主打歌則是跳舞歌曲《月在跳》。
+You**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張立基](../Page/張立基.md "wikilink")的第四張專輯，在1989年10月推出。專輯的第一主打歌是《夜消沉》，而第二主打歌則是跳舞歌曲《月在跳》。
 
 ## 曲目
 

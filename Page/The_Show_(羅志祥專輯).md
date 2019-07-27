@@ -2,7 +2,7 @@
 MTV節目);zh-cn:韩秀榜}-}}  《**THE
 SHOW**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")（在日本使用「SHOW」名義發行的）的第十一張大碟，第一張全[日語專輯](https://zh.wikipedia.org/wiki/日語 "wikilink")，在2012年9月19日正式推出\[1\]。
 
-專輯的第一主打歌是《RUNNER》，並於2012年8月28日於日本網站[Ameba的專訪節目上首播完整音樂錄影帶](../Page/Ameba.md "wikilink")。同日，日本[波麗佳音的羅志祥官網亦發佈了全專輯的試聽版](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[2\]。此專輯同時收錄2012年發佈的兩張日語單曲《[DANTE](https://zh.wikipedia.org/wiki/DANTE_\(單曲\) "wikilink")》及《[MAGIC](../Page/MAGIC_\(SHOW單曲\).md "wikilink")》的主打歌曲DANTE及MAGIC。
+專輯的第一主打歌是《RUNNER》，並於2012年8月28日於日本網站[Ameba](../Page/Ameba.md "wikilink")的專訪節目上首播完整音樂錄影帶。同日，日本[波麗佳音的羅志祥官網亦發佈了全專輯的試聽版](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[2\]。此專輯同時收錄2012年發佈的兩張日語單曲《[DANTE](https://zh.wikipedia.org/wiki/DANTE_\(單曲\) "wikilink")》及《[MAGIC](../Page/MAGIC_\(SHOW單曲\).md "wikilink")》的主打歌曲DANTE及MAGIC。
 
 ## 曲目
 
@@ -17,7 +17,7 @@ SHOW**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](..
 
 | 歌名                                              | 導演                                                | 首播日期       | 首播頻道                                      |
 | ----------------------------------------------- | ------------------------------------------------- | ---------- | ----------------------------------------- |
-| [RUNNER](http://www.yinyuetai.com/video/496212) | [鄺盛](https://zh.wikipedia.org/wiki/鄺盛 "wikilink") | 2012年8月28日 | [Ameba的專訪節目](../Page/Ameba.md "wikilink") |
+| [RUNNER](http://www.yinyuetai.com/video/496212) | [鄺盛](https://zh.wikipedia.org/wiki/鄺盛 "wikilink") | 2012年8月28日 | [Ameba](../Page/Ameba.md "wikilink")的專訪節目 |
 
 ## 榜單成績
 

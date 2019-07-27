@@ -1,9 +1,9 @@
 **Ylvis**是由[挪威](../Page/挪威.md "wikilink")[卑爾根的兩兄弟Vegard](https://zh.wikipedia.org/wiki/卑爾根 "wikilink")
 Urheim Ylvisåker (1979年5月19日-) 和Bård Urheim
-Ylvisåker（1982年3月21日-）組成的一個組合。他们从2000年开始作为专业艺术家，从那以后有非常成功的[综艺节目](https://zh.wikipedia.org/wiki/综艺节目 "wikilink")，喜剧音乐会，[电视节目](../Page/电视节目.md "wikilink")，广播节目和[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。他們現時是挪威[脱口秀節目](../Page/脱口秀.md "wikilink")[I
+Ylvisåker（1982年3月21日-）組成的一個組合。他们从2000年开始作为专业艺术家，从那以后有非常成功的[综艺节目](https://zh.wikipedia.org/wiki/综艺节目 "wikilink")，喜剧音乐会，[电视节目](../Page/电视节目.md "wikilink")，广播节目和[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。他們現時是挪威[脱口秀](../Page/脱口秀.md "wikilink")節目[I
 kveld med
 YLVIS](https://zh.wikipedia.org/wiki/I_kveld_med_YLVIS "wikilink")
-(今夜YLVIS)的主持人。他们為了這脱口秀节目而编写和拍摄的歌曲和音樂影片[狐狸于](../Page/狐狸_\(歌曲\).md "wikilink")2013年9月在[YouTube上爆红](../Page/YouTube.md "wikilink")，到现在为止有超过7.6亿的关注，这使兄弟受到国际社会的关注。\[1\]
+(今夜YLVIS)的主持人。他们為了這脱口秀节目而编写和拍摄的歌曲和音樂影片[狐狸于](../Page/狐狸_\(歌曲\).md "wikilink")2013年9月在[YouTube](../Page/YouTube.md "wikilink")上爆红，到现在为止有超过7.6亿的关注，这使兄弟受到国际社会的关注。\[1\]
 
 ## 專輯
 

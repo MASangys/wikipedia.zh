@@ -1,5 +1,5 @@
 《**Hear I
-Am**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[平原習作成員](https://zh.wikipedia.org/wiki/平原習作 "wikilink")[黃浩琳的第一張個人專輯](../Page/黃浩琳.md "wikilink")，於2014年3月25日推出；3月14日率先於網上音樂平台購買。
+Am**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[平原習作成員](https://zh.wikipedia.org/wiki/平原習作 "wikilink")[黃浩琳](../Page/黃浩琳.md "wikilink")的第一張個人專輯，於2014年3月25日推出；3月14日率先於網上音樂平台購買。
 
 ## 曲目
 

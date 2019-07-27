@@ -1,5 +1,5 @@
 《**Dreaming
-Now\!**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2013年11月13日發行的第56張單曲。
+Now\!**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年11月13日發行的第56張單曲。
 
 ## 簡介
 

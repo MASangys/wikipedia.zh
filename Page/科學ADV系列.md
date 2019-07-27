@@ -1,4 +1,4 @@
-是由[5pb.](../Page/5pb..md "wikilink")（）與[Nitro+所製作的一系列遊戲](../Page/Nitro+.md "wikilink")。
+是由[5pb.](../Page/5pb..md "wikilink")（）與[Nitro+](../Page/Nitro+.md "wikilink")所製作的一系列遊戲。
 
 ## 遊戲作品
 
@@ -65,31 +65,6 @@ PS3<br />
 PS Vita</p></td>
 <td><p>2015年，澀谷</p></td>
 <td><p>2014年12月18日</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>命運石之門0</p></td>
-<td><p><a href="../Page/命運石之門0.md" title="wikilink">Steins;Gate 0</a></p></td>
-<td></td>
-<td><p>PS4<br />
-PS3<br />
-PS Vita<br />
-Windows: 7/8.1/10</p></td>
-<td><p>2010年，11月，秋葉原<br />
-（β世界線）</p></td>
-<td><p>2015年12月10日</p></td>
-<td><p>5pb.</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>機器人筆記DaSH</p></td>
-<td><p><a href="../Page/機器人筆記DaSH.md" title="wikilink">Robotics;Notes DaSH</a></p></td>
-<td></td>
-<td><p>PS4<br />
-<a href="https://zh.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a></p></td>
-<td><p>2020年，種子島</p></td>
-<td><p>2019年1月31日</p></td>
 <td></td>
 <td></td>
 </tr>

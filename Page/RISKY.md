@@ -1,4 +1,4 @@
-《**RISKY**》是日本摇滚组合[B'z的的第四张录音室专辑](../Page/B'z.md "wikilink")。1990年11月7日由[BMG
+《**RISKY**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第四张录音室专辑。1990年11月7日由[BMG
 VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 最終銷量約169.6萬張，為日本最暢銷專輯第107名。

@@ -1,7 +1,7 @@
 **HTC Desire V**
 (臺灣型號:T328w)是[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2012年六月在台灣發表之預載[Android](../Page/Android.md "wikilink")
 4.0.3及[HTC Sense](../Page/HTC_Sense.md "wikilink")
-4.0的智慧型手機，曾於[中國發表](../Page/中國.md "wikilink")，名稱為[新渴望
+4.0的智慧型手機，曾於[中國](../Page/中國.md "wikilink")發表，名稱為[新渴望
 V](https://zh.wikipedia.org/wiki/新渴望_V "wikilink")，具備 WCDMA / GSM
 雙卡雙待機能，一 SIM 卡槽支援 HSPA / WCDMA，一 SIM 卡槽支援
 GSM/GPRS。使用[Beats

@@ -1,5 +1,5 @@
 **Cooperative Linux** 简称
-**coLinux**，这个软件可以让[Windows内核与](https://zh.wikipedia.org/wiki/Windows内核 "wikilink")[Linux内核同时运行在一台机器上](../Page/Linux内核.md "wikilink")。\[1\]
+**coLinux**，这个软件可以让[Windows内核与](https://zh.wikipedia.org/wiki/Windows内核 "wikilink")[Linux内核](../Page/Linux内核.md "wikilink")同时运行在一台机器上。\[1\]
 coLinux
 指协作式[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")（CVM）。与传统的虚拟机相反，
 协作式虚拟机共享宿主机器已有的资源。传统的虚拟机技术，宿主机资源需先被虚拟化，然后再给虚拟系统使用。不同于传统虚拟技术，coLinux的客体机对宿主机资源具有完全的控制权。在传统的虚拟技术里，客体机对实体机的访问一直处于某种未授权状态。
@@ -22,7 +22,7 @@ running on Windows\]\]
 [Dan
 Aloni早期的开发基于一个叫User](https://zh.wikipedia.org/wiki/Dan_Aloni "wikilink")-mode
 Linux的类似系统。他于2004年6月25日开始coLinux的正式开发。\[3\]在2004年7月， 他向Linux Symposium
-递交相关论文\[4\]，源码在[GNU通用公共许可证下释出](../Page/GNU通用公共许可证.md "wikilink")。然后开发者们开始贡献各种补丁及添加代码。
+递交相关论文\[4\]，源码在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下释出。然后开发者们开始贡献各种补丁及添加代码。
 
 ## 比较
 
@@ -35,9 +35,9 @@ coLinux通过运行一个修改过的Linux内核来与宿主机的NT内核协作
 Linux内核尽量保持一致,
 这是coLinux内核设计的一个目标，因此，所有的变更必需尽可能地保持本地化与最小化。coLinux软件在[Windows
 2000或](../Page/Windows_2000.md "wikilink")[Windows
-XP的机器内安装运行了一个](../Page/Windows_XP.md "wikilink")[Linux内核以及一个虚拟网络设备](../Page/Linux内核.md "wikilink")，并不像VMware一样使用一个虚拟的机器。[Debian](../Page/Debian.md "wikilink")，[Ubuntu](../Page/Ubuntu.md "wikilink")，[Fedora及](../Page/Fedora.md "wikilink")[Gentoo这些都是非常受coLinux用户欢迎的Linux发行版本](https://zh.wikipedia.org/wiki/Gentoo "wikilink")。由于虚拟硬件不同寻常的结构，在coLinux下安装一个Linux发行版本似乎有点困难。因此用户通常使用一个已经安装好Linux系统的分区，或者使用官方预先准备的[系统镜像文件](https://zh.wikipedia.org/wiki/系统镜像 "wikilink")。这些镜像有多种生成方法。像是从正常的操作系统提取，或是，
+XP的机器内安装运行了一个](../Page/Windows_XP.md "wikilink")[Linux内核](../Page/Linux内核.md "wikilink")以及一个虚拟网络设备，并不像VMware一样使用一个虚拟的机器。[Debian](../Page/Debian.md "wikilink")，[Ubuntu](../Page/Ubuntu.md "wikilink")，[Fedora](../Page/Fedora.md "wikilink")及[Gentoo这些都是非常受coLinux用户欢迎的Linux发行版本](https://zh.wikipedia.org/wiki/Gentoo "wikilink")。由于虚拟硬件不同寻常的结构，在coLinux下安装一个Linux发行版本似乎有点困难。因此用户通常使用一个已经安装好Linux系统的分区，或者使用官方预先准备的[系统镜像文件](https://zh.wikipedia.org/wiki/系统镜像 "wikilink")。这些镜像有多种生成方法。像是从正常的操作系统提取，或是，
 想方设法安装在特殊的硬件上，
-又或者，通过包管理器手动的构建安装包，也可以是简单的利用[yum](https://zh.wikipedia.org/wiki/yum "wikilink")，[apt这个的工具来升级已有镜像系统](https://zh.wikipedia.org/wiki/apt "wikilink")。还有一个简单的方法也可以得到一个最新的系统镜像，首先，利用[QEMU来安装所需Linux系统](../Page/QEMU.md "wikilink")，
+又或者，通过包管理器手动的构建安装包，也可以是简单的利用[yum](https://zh.wikipedia.org/wiki/yum "wikilink")，[apt这个的工具来升级已有镜像系统](https://zh.wikipedia.org/wiki/apt "wikilink")。还有一个简单的方法也可以得到一个最新的系统镜像，首先，利用[QEMU](../Page/QEMU.md "wikilink")来安装所需Linux系统，
 然后，通过去掉原镜像的头63512字节块的数据达成“转换”镜像的目的。
 这个方法在coLinux的wiki而面有论述。coLinux并不需要访问本地的显示设备，当然，这也使得[X
 Window系统](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink") 或者 [X.Org
@@ -57,9 +57,9 @@ TopologiLinux基于[Slackware](../Page/Slackware.md "wikilink")。
 ## 参见
 
   - [Topologilinux](https://zh.wikipedia.org/wiki/Topologilinux "wikilink"),
-    一个基于[Slackware的coLinux发布版本](../Page/Slackware.md "wikilink")
+    一个基于[Slackware](../Page/Slackware.md "wikilink")的coLinux发布版本
   - [andLinux](https://zh.wikipedia.org/wiki/andLinux "wikilink"),
-    一个基于[Ubuntu的coLinux的发布版本](../Page/Ubuntu.md "wikilink")
+    一个基于[Ubuntu](../Page/Ubuntu.md "wikilink")的coLinux的发布版本
   - [虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")
   - [虚拟化平台的比较](https://zh.wikipedia.org/wiki/虚拟化平台的比较 "wikilink")
   - [Cygwin](../Page/Cygwin.md "wikilink")

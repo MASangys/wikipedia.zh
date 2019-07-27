@@ -20,7 +20,7 @@
     QJ51BA90
     [氟苯尼考](https://zh.wikipedia.org/wiki/氟苯尼考 "wikilink")（Florfenicol）
 
-## QJ51C [β-内酰胺抗菌药](https://zh.wikipedia.org/wiki/β-内酰胺抗菌药 "wikilink")，[青霉素类](../Page/青霉素.md "wikilink")，乳内使用（Beta-lactam antibacterials, penicillins, for intramammary use）
+## QJ51C [β-内酰胺抗菌药](https://zh.wikipedia.org/wiki/β-内酰胺抗菌药 "wikilink")，[青霉素](../Page/青霉素.md "wikilink")类，乳内使用（Beta-lactam antibacterials, penicillins, for intramammary use）
 
 ### QJ51CA 广谱青霉素类（Penicillins with extended spectrum）
 

@@ -1,5 +1,5 @@
 **OSTER project**
-是[日本的音樂團體](../Page/日本.md "wikilink")，音樂製作人**OSTER**（1986年11月24日－）的個人企劃樂團。女性。別名義「」「OSTER
+是[日本](../Page/日本.md "wikilink")的音樂團體，音樂製作人**OSTER**（1986年11月24日－）的個人企劃樂團。女性。別名義「」「OSTER
 "BIG BAND" project」。
 
 ## 概要
@@ -7,20 +7,20 @@
 自小學二年級至高中時代學習了十年的鋼琴，\[1\] 中學時代學習用電腦軟體製作音樂、中學二年級開始作曲，\[2\] 2003年起始在 muzie
 網站發表純演奏樂曲（目前已關閉使用者頁面）。\[3\]
 
-2007年9月，在[NICONICO動畫網站投稿了使用](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")[初音未來所製作的](../Page/初音未來.md "wikilink")「（戀愛VOC@LOID）」，一夕廣受歡迎，至今點閱率已超過百萬。\[4\]「」描寫[初音未來與創作者之間的戀愛歌曲](../Page/初音未來.md "wikilink")，賦予初音未來的角色形象並帶起VOCALOID原創曲風潮，對當時的[VOCALOID音樂圈帶來極大的影響](../Page/VOCALOID.md "wikilink")，成為[初音未來流行文化的推手](../Page/初音未來.md "wikilink")。\[5\]
+2007年9月，在[NICONICO動畫網站投稿了使用](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")[初音未來](../Page/初音未來.md "wikilink")所製作的「（戀愛VOC@LOID）」，一夕廣受歡迎，至今點閱率已超過百萬。\[4\]「」描寫[初音未來](../Page/初音未來.md "wikilink")與創作者之間的戀愛歌曲，賦予初音未來的角色形象並帶起VOCALOID原創曲風潮，對當時的[VOCALOID](../Page/VOCALOID.md "wikilink")音樂圈帶來極大的影響，成為[初音未來](../Page/初音未來.md "wikilink")流行文化的推手。\[5\]
 
-在NICONICO網站投稿時使用「（軟綿綿大耳狗）」的名義發表作品，也常使用[大耳狗在作品動畫中](../Page/肉桂狗.md "wikilink")。另一個網路聽眾所取的別名「」來自模擬VOCALOID主持電台的影片「（戀愛廣播）」之中，[初音未來詢問](../Page/初音未來.md "wikilink")
+在NICONICO網站投稿時使用「（軟綿綿大耳狗）」的名義發表作品，也常使用[大耳狗在作品動畫中](../Page/肉桂狗.md "wikilink")。另一個網路聽眾所取的別名「」來自模擬VOCALOID主持電台的影片「（戀愛廣播）」之中，[初音未來](../Page/初音未來.md "wikilink")詢問
 OSTER
 的性別、得到回答是「（[扶他那裡](../Page/扶他那裡.md "wikilink")）」，\[6\]也曾經使用過簡寫「**FTNR-P**」名義創作歌詞。
 
 ### 特徵
 
 OSTER project
-的樂曲特徵，包括強調女孩子視點撰寫的歌詞、配以可愛的[J-pop風格](https://zh.wikipedia.org/wiki/J-pop "wikilink")。帶有哀愁感的[叙事曲風和](https://zh.wikipedia.org/wiki/叙事曲 "wikilink")[爵士系的歌曲也十分受到歡迎](../Page/爵士.md "wikilink")。使用[VOCALOID製作歌曲時會尊重每一個VOCALOID的角色設定](../Page/VOCALOID.md "wikilink")。\[7\]
+的樂曲特徵，包括強調女孩子視點撰寫的歌詞、配以可愛的[J-pop風格](https://zh.wikipedia.org/wiki/J-pop "wikilink")。帶有哀愁感的[叙事曲風和](https://zh.wikipedia.org/wiki/叙事曲 "wikilink")[爵士](../Page/爵士.md "wikilink")系的歌曲也十分受到歡迎。使用[VOCALOID](../Page/VOCALOID.md "wikilink")製作歌曲時會尊重每一個VOCALOID的角色設定。\[7\]
 
-[VOCALOID的調整技術相當受到好評](../Page/VOCALOID.md "wikilink")，曾受邀撰寫VOCALOID的調整教學。\[8\]
+[VOCALOID](../Page/VOCALOID.md "wikilink")的調整技術相當受到好評，曾受邀撰寫VOCALOID的調整教學。\[8\]
 不限於歌唱，OSTER project
-也使用VOCALOID模仿人類說話，\[9\]，在個人專輯中收錄有[VOCALOID的對談橋段](../Page/VOCALOID.md "wikilink")。
+也使用VOCALOID模仿人類說話，\[9\]，在個人專輯中收錄有[VOCALOID](../Page/VOCALOID.md "wikilink")的對談橋段。
 
 OSTER project 另一個作品特徵，便是使用朋友所繪製的圖像製作音樂影片，兩人經由OSTER
 project投稿的VOCALOID作品而認識。\[10\]
@@ -33,12 +33,12 @@ VOCALOID樂曲以外，也參與
 
 2007年，發表自主製作的純音樂專輯《》\[12\]。
 
-2008年末，正式出道，發表第一張[VOCALOID商業專輯](../Page/VOCALOID.md "wikilink")《》，獲得
+2008年末，正式出道，發表第一張[VOCALOID](../Page/VOCALOID.md "wikilink")商業專輯《》，獲得
 [Oricon](../Page/Oricon.md "wikilink")
 當日排行榜第８名。\[13\]2009年初，再版純音樂專輯《》。\[14\]
 
 2009年，參與遊戲「[初音未來 -Project
-DIVA-](https://zh.wikipedia.org/wiki/初音未來_-Project_DIVA- "wikilink")」，以及[初音未來二週年紀念合輯](../Page/初音未來.md "wikilink")《》《》提供VOCALOID樂曲。年末與香港歌手合作單曲《》。\[15\]
+DIVA-](https://zh.wikipedia.org/wiki/初音未來_-Project_DIVA- "wikilink")」，以及[初音未來](../Page/初音未來.md "wikilink")二週年紀念合輯《》《》提供VOCALOID樂曲。年末與香港歌手合作單曲《》。\[15\]
 
 2010年，參與日本現場演唱會「 39's Giving Day」提供樂曲並擔任演奏，持續參與遊戲「[初音未來 -Project DIVA-
 2nd](https://zh.wikipedia.org/wiki/初音未來_-Project_DIVA- "wikilink")」提供VOCALOID樂曲。同年末，發行第二張VOCALOID商業專輯《**Cinnamon
@@ -59,7 +59,7 @@ f](https://zh.wikipedia.org/wiki/初音未來_-Project_DIVA- "wikilink")」，�
 IIDX 20 Tricoro」提供樂曲。
 
 同年，與法國歌手 Clementine 合作樂曲「魔法使いのショコラティエ -Le Chocolatier
-Enchanté-」擔任日本[新宿](../Page/新宿.md "wikilink")[伊勢丹百貨公司的巧克力祭典](../Page/伊勢丹.md "wikilink")『Salon
+Enchanté-」擔任日本[新宿](../Page/新宿.md "wikilink")[伊勢丹](../Page/伊勢丹.md "wikilink")百貨公司的巧克力祭典『Salon
 du chocolat』主題曲。擔綱女子偶像團體「Sweety」的音樂製作人\[22\]，兩張單曲《back into my
 world》《UNLUCKY
 GIRL\!\!》皆為電視動畫《[戰國Collection](../Page/戰國Collection.md "wikilink")》的主題片頭曲與片尾曲。年末，擔綱[三麗鷗](../Page/三麗鷗.md "wikilink")[大耳狗角色歌曲輯](../Page/肉桂狗.md "wikilink")《**Cinnamon
@@ -69,7 +69,7 @@ Trip\!\!**》全張專輯製作。\[23\]\[24\]
 DIVA-F](https://zh.wikipedia.org/wiki/初音未來_-Project_DIVA- "wikilink")」以及「Megpoid
 the Music♯」提供VOCALOID樂曲。參與遊戲「beatmania IIDX 21 SPADA」提供樂曲。和音樂家
 [sasakure.UK](https://zh.wikipedia.org/wiki/sasakure.UK "wikilink")
-共同合作、參與[全家便利商店與初音未來企劃單曲](../Page/全家便利商店.md "wikilink")《COMING
+共同合作、參與[全家便利商店](../Page/全家便利商店.md "wikilink")與初音未來企劃單曲《COMING
 DAYS》。\[25\]
 
 ## 歷來作品

@@ -1,4 +1,4 @@
-《**Reflection**》，是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳的第十九張個人粵語大碟](../Page/陳慧琳.md "wikilink")，於2013年2月7日正式發售。共收錄了10首粵語歌曲。於[iTunes推出Deluxe版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄《So
+《**Reflection**》，是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")的第十九張個人粵語大碟，於2013年2月7日正式發售。共收錄了10首粵語歌曲。於[iTunes推出Deluxe版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄《So
 Hot (Director
 Cut)》，連續多天於香港及其他國家／地區登上[iTunes專輯排行榜](https://zh.wikipedia.org/wiki/iTunes "wikilink")。首波主打《So
 Hot》成為三個電台冠軍歌，更連續於2月25日至3月12日連續三星期登上[Red
@@ -237,7 +237,7 @@ Fergus Chow</p></td>
   - 15日，於商台節目"1圈圈"宣傳《So Hot》。
   - 16日，於商台節目"叱咤樂壇"宣傳《So Hot》。
   - 24日，於Youtube及各大網站《So Hot》MV首播。
-  - 28日，於[香港理工大學蔣震劇院舉行](../Page/香港理工大學.md "wikilink")《Reflection》新碟試聽會。
+  - 28日，於[香港理工大學](../Page/香港理工大學.md "wikilink")蔣震劇院舉行《Reflection》新碟試聽會。
   - 30日，於港台節目"Made In Hong Kong 李志剛"宣傳《So Hot》。
   - 31日，於KKBOX舉行Online Chatting宣傳新碟《Reflection》，並率先播放兩首推介作品《點心》及《It's
     All About Timing》。
@@ -253,24 +253,22 @@ Fergus Chow</p></td>
     Hot(Director Cut)》、《點心》及《It's All About Timing》免費下載。
   - 13日至15日，香港區[iTunes以](https://zh.wikipedia.org/wiki/iTunes "wikilink")$23出售本唱片。
   - 15日，於新城電台節目"開心家天下"宣傳《皮外傷》及新碟《Reflection》。
-  - 17日，於[荃灣廣場舉行](../Page/荃灣廣場.md "wikilink")《Reflection》簽唱會。
+  - 17日，於[荃灣廣場](../Page/荃灣廣場.md "wikilink")舉行《Reflection》簽唱會。
   - 18日，於新城電台節目"開心家天下"宣傳《皮外傷》及新碟《Reflection》。
   - 18日至19日，於[無線收費電視首播](https://zh.wikipedia.org/wiki/無線收費電視 "wikilink")《皮外傷》MV製作花絮。
-  - 18日至22日，於[叱咤903節目](../Page/叱咤903.md "wikilink")"雲妮鍾情"宣傳《Reflection》。
-  - 18日，於[Now
-    TV](https://zh.wikipedia.org/wiki/Now_TV "wikilink")-Channel
-    102節目"Hello Au Pa Ma"宣傳新碟《Reflection》。
-  - 18日，於[Now
-    TV](https://zh.wikipedia.org/wiki/Now_TV "wikilink")-Channel
-    102節目"Hello Au Pa Ma"宣傳新碟《Reflection》。
-  - 20日至22日，於[新城電台節目](../Page/新城電台.md "wikilink")"晨希Good
+  - 18日至22日，於[叱咤903](../Page/叱咤903.md "wikilink")節目"雲妮鍾情"宣傳《Reflection》。
+  - 18日，於[Now TV](../Page/Now_TV.md "wikilink")-Channel 102節目"Hello Au
+    Pa Ma"宣傳新碟《Reflection》。
+  - 18日，於[Now TV](../Page/Now_TV.md "wikilink")-Channel 102節目"Hello Au
+    Pa Ma"宣傳新碟《Reflection》。
+  - 20日至22日，於[新城電台](../Page/新城電台.md "wikilink")節目"晨希Good
     Day"宣傳新碟《Reflection》。
-  - 22日，於[新城電台節目](../Page/新城電台.md "wikilink")"爸爸媽媽你好嗎"宣傳新碟《Reflection》。
-  - 23日，於[有線娛樂新聞台節目](../Page/有線娛樂新聞台.md "wikilink")"樂壇第一手"宣傳新碟《Reflection》。
+  - 22日，於[新城電台](../Page/新城電台.md "wikilink")節目"爸爸媽媽你好嗎"宣傳新碟《Reflection》。
+  - 23日，於[有線娛樂新聞台](../Page/有線娛樂新聞台.md "wikilink")節目"樂壇第一手"宣傳新碟《Reflection》。
 
 **2013年3月**
 
-  - 3日，於[新城電台節目](../Page/新城電台.md "wikilink")"音樂好友營"宣傳新碟《Reflection》。
+  - 3日，於[新城電台](../Page/新城電台.md "wikilink")節目"音樂好友營"宣傳新碟《Reflection》。
   - 4日，於兆基創意書院多媒體劇場舉行《陳慧琳 Moov Live 2013》新碟演唱會。
   - 25日，第三主打《斷捨離》派台
 

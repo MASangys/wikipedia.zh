@@ -2,7 +2,7 @@
 THE SECOND的主唱兼表演者](../Page/EXILE_THE_SECOND.md "wikilink")，原[J Soul
 Brothers成員](../Page/J_Soul_Brothers.md "wikilink")。
 
-[北海道](../Page/北海道.md "wikilink")[苫小牧市出身](../Page/苫小牧市.md "wikilink")。身高183cm\[1\]。
+[北海道](../Page/北海道.md "wikilink")[苫小牧市](../Page/苫小牧市.md "wikilink")出身。身高183cm\[1\]。
 
 ## 來歷
 
@@ -15,7 +15,7 @@ Pot｣。期後組成的R\&B團體｢symphony｣，於札幌活動。經紀所�
 STYLE｣\[8\]，當時和[野替愁平SWAY等人一起活動](https://zh.wikipedia.org/wiki/野替愁平SWAY "wikilink")\[9\]。
 
 2006年參加了｢EXILE VOCAL BATTLE AUDITION～ASIAN
-DREAM～｣，在選秀裏SHOKICHI在1次審查時唱了[久保田利伸的](../Page/久保田利伸.md "wikilink")『Cymbals』，3次審查唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。但很可惜在第3次審查中落選。
+DREAM～｣，在選秀裏SHOKICHI在1次審查時唱了[久保田利伸](../Page/久保田利伸.md "wikilink")的『Cymbals』，3次審查唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。但很可惜在第3次審查中落選。
 
 由於無法捨棄做職業歌手這個夢想，於是決定參加新生COLOR的團員選秀但可惜同樣再次落選。但是SHOKICHI不死心，之後到EXPG札幌校上課，學習舞蹈和唱歌。同年12月，從到EXPG札幌校作為教練而訪問的TETSUYA相識，之後得到了新生(二代目)J
 Soul Brothers主唱選秀的情報。
@@ -29,7 +29,7 @@ EVOLUTION 〜SUMMER TIME LOVE〜」中首次公開表演。
 2012年1月1日發售的EXILE的專輯『[EXILE
 JAPAN/Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")』所收錄的歌曲「Everlasting
 Song」為他首次擔任作詞作曲。還有「Beautiful
-Life」是與[ATSUSHI共同合作作詞](../Page/ATSUSHI.md "wikilink")。7月1日開始成為「THE
+Life」是與[ATSUSHI](../Page/ATSUSHI.md "wikilink")共同合作作詞。7月1日開始成為「THE
 SECOND from EXILE(現名為[EXILE THE
 SECOND](../Page/EXILE_THE_SECOND.md "wikilink"))」的成員並與EXILE成員身份並行活動。10月，日本電視台系電視劇『[シュガーレス](https://zh.wikipedia.org/wiki/:ja:シュガーレス_\(漫画\)#テレビドラマ "wikilink")』初次當演員。
 
@@ -44,9 +44,9 @@ FUTURE](../Page/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\).md "wikilink")」\[1
 
 ## 人物
 
-  - 3人兄弟的長子，親弟弟是[劇團EXILE的八木将康](../Page/劇團EXILE.md "wikilink")\[14\]。
+  - 3人兄弟的長子，親弟弟是[劇團EXILE](../Page/劇團EXILE.md "wikilink")的八木将康\[14\]。
   - 「EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN
-    DREAM〜」1次審查唱了當時他卡拉OK得意本領的[久保田利伸的](../Page/久保田利伸.md "wikilink")『Cymbals』、3次審查時唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。\[15\]。
+    DREAM〜」1次審查唱了當時他卡拉OK得意本領的[久保田利伸](../Page/久保田利伸.md "wikilink")的『Cymbals』、3次審查時唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。\[15\]。
   - EXILE第一大食，據說從前一頓飯吃3合飯(約6杯)\[16\]。
   - 保護在路上徘徊的癡呆症的男性，乘出租車送到家\[17\]。
   - 與[DOBERMAN
@@ -119,7 +119,7 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 | 2014年11月19日                             | \#HOTLINE by EXILE SHOKICHI, DOBERMAN INFINITY\&ELLY (三代目 J Soul Brothers from EXILE TRIBE) | [DOBERMAN INFINITY](https://zh.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")『\#PRLG』                                                                                                                                                                                   |
 | Loveholic (feat. EXILE SHOKICHI) \[18\] |                                                                                             |                                                                                                                                                                                                                                                                           |
 | 2014年11月19日                             | \+α feat. EXILE SHOKICHI                                                                    | [MIHIRO 〜マイロ〜的專輯](https://zh.wikipedia.org/wiki/MIHIRO_〜マイロ〜 "wikilink")『Featuring Best ”+α”』                                                                                                                                                                             |
-| 2015年11月18日                             | Daydream feat. EXILE SHOKICHI                                                               | [和田現子的專輯](../Page/和田現子.md "wikilink")『WADASOUL』\[19\]                                                                                                                                                                                                                     |
+| 2015年11月18日                             | Daydream feat. EXILE SHOKICHI                                                               | [和田現子](../Page/和田現子.md "wikilink")的專輯『WADASOUL』\[19\]                                                                                                                                                                                                                     |
 | 2016年6月15日                              | WHITEOUT                                                                                    | V.A.專輯『[HiGH\&LOW ORIGINAL BEST ALBUM](https://zh.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")』                                                                                                                                                            |
 
 ## 擔任作詞·作曲作品
@@ -127,7 +127,7 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 | 曲名                                                                                        | 組合、歌手                                                                                                                             | 第一次出現                                                                                                                                                                                      | 備考                                                                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Everlasting Song](https://zh.wikipedia.org/wiki/Everlasting_Song_\(EXILEの曲\) "wikilink") | EXILE                                                                                                                             | 專輯『[EXILE JAPAN](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN "wikilink")』                                                                                                   | 擔任作詞・作曲                                                                                                                                                                                                                                                   |
-| Beautiful Life                                                                            | 擔任作詞、作詞是與[ATSUSHI合作](../Page/ATSUSHI.md "wikilink")                                                                               |                                                                                                                                                                                            |                                                                                                                                                                                                                                                           |
+| Beautiful Life                                                                            | 擔任作詞、作詞是與[ATSUSHI](../Page/ATSUSHI.md "wikilink")合作                                                                               |                                                                                                                                                                                            |                                                                                                                                                                                                                                                           |
 |                                                                                           |                                                                                                                                   |                                                                                                                                                                                            |                                                                                                                                                                                                                                                           |
 | BACK TO THE FUTURE                                                                        | EXILE SHOKICHI                                                                                                                    | 單曲「[BACK TO THE FUTURE](../Page/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\).md "wikilink")」                                                                                                    | 擔任作詞、作詞是與VERBAL, SWAY合作                                                                                                                                                                                                                                   |
 | THE ANTHEM                                                                                | 擔任作詞・作曲、作曲是與NAKKID、DOBERMAN INC合作、作詞是與DOBERMAN INC, SWAY, ELLY合作                                                                  |                                                                                                                                                                                            |                                                                                                                                                                                                                                                           |

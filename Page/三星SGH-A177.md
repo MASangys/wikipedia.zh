@@ -1,5 +1,5 @@
 **Samsung
-SGH-A177**是由[三星電子發佈的](../Page/三星電子.md "wikilink")[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
+SGH-A177**是由[三星電子](../Page/三星電子.md "wikilink")發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ## 外部連結
 

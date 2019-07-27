@@ -3,7 +3,7 @@
 [財富500強](https://zh.wikipedia.org/wiki/財富500強 "wikilink")(Fortune
 500)中名列第156位\[1\]
 ，於[紐約證券交易所上市](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")。AECOM目前正參與全球20個規模最大的土木基礎設施項目中13個專案工作。主要業務範圍包括以下專業領域:
-[能源](../Page/能源.md "wikilink")、[環境](https://zh.wikipedia.org/wiki/環境 "wikilink")、建築設計、[建築工程](https://zh.wikipedia.org/wiki/建築工程 "wikilink")、施工服務、規劃設計、經濟規劃、政府服務、礦業、[石油和](../Page/石油.md "wikilink")[天然氣](https://zh.wikipedia.org/wiki/天然氣 "wikilink")、專案管理、工程造價諮詢、交通運輸、水務。
+[能源](../Page/能源.md "wikilink")、[環境](https://zh.wikipedia.org/wiki/環境 "wikilink")、建築設計、[建築工程](https://zh.wikipedia.org/wiki/建築工程 "wikilink")、施工服務、規劃設計、經濟規劃、政府服務、礦業、[石油](../Page/石油.md "wikilink")和[天然氣](https://zh.wikipedia.org/wiki/天然氣 "wikilink")、專案管理、工程造價諮詢、交通運輸、水務。
 
 全球100,000名員工皆為各服務領域的業界菁英翹楚。AECOM統括全球視野、本土認知、技術創新與專業知識，持之以恆地構築、改善並維護世界各地的建築設施、自然環境和社會環境的永續發展。員工組成包括[工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink")、環境專家、[經濟學家](https://zh.wikipedia.org/wiki/經濟學家 "wikilink")、[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")、[規劃師](https://zh.wikipedia.org/wiki/規劃師 "wikilink")、[建築師](https://zh.wikipedia.org/wiki/建築師 "wikilink")、景觀建築師、顧問及專案、成本管理和專案經理群在內的團隊。
 AECOM 受《工程新聞記錄》 (ENR) 全球500 強設計公司總體排名第一位
@@ -28,10 +28,10 @@ AECOM過去12個月總營業額達 174 億美元。公司名稱AECOM為 -
   - [阿聯酋](https://zh.wikipedia.org/wiki/阿聯酋 "wikilink")[阿布達比薩迪亞特島文化特區](https://zh.wikipedia.org/wiki/阿布達比 "wikilink"):
     作為阿布達比薩迪亞特島文化特區（Saadiyat Island’s Cultural
     District）專案的一部分，AECOM為這一耗資幾十億美元的專案提供專案管理服務。
-  - [新加坡Asia](../Page/新加坡.md "wikilink") Square,
+  - [新加坡](../Page/新加坡.md "wikilink")Asia Square,
     新加坡[新達城](../Page/新達城.md "wikilink"), 新加坡Capital
     Tower
-  - 日本東京[六本木中城](../Page/六本木.md "wikilink") (Midtown) 開發計畫
+  - 日本東京[六本木](../Page/六本木.md "wikilink")中城 (Midtown) 開發計畫
   - 中國[國家會議中心](https://zh.wikipedia.org/wiki/國家會議中心 "wikilink")，[上海环球金融中心](../Page/上海环球金融中心.md "wikilink"),
     [成都國際金融中心](https://zh.wikipedia.org/wiki/成都國際金融中心 "wikilink"),
     [瀋陽國際金融中心](https://zh.wikipedia.org/wiki/瀋陽國際金融中心 "wikilink"),

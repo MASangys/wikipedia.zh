@@ -262,7 +262,7 @@ EYCA-10096（CD）</p></td>
       - Black Raison
         d'être（[内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")、[赤﨑千夏](../Page/赤崎千夏.md "wikilink")、[浅倉杏美](https://zh.wikipedia.org/wiki/浅倉杏美 "wikilink")、[上坂堇](../Page/上坂堇.md "wikilink")）「Van\!shment
         Th\!s World」「February Magic」（作詞・作曲・編曲）
-  - [向陽素描×蜂窩](../Page/向陽素描.md "wikilink")
+  - [向陽素描](../Page/向陽素描.md "wikilink")×蜂窩
       - 由乃（[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")）、宮子（[水橋かおり](https://zh.wikipedia.org/wiki/水橋かおり "wikilink")）、尋（[後藤邑子](../Page/後藤邑子.md "wikilink")）、沙英（[新谷良子](../Page/新谷良子.md "wikilink")）、乃莉（[原田瞳](../Page/原田瞳.md "wikilink")）、小薺（[小見川千明](../Page/小見川千明.md "wikilink")）「おーぷん☆きゃんばす」（作詞・作曲）
   - [未来日記](https://zh.wikipedia.org/wiki/未来日記_\(漫画\) "wikilink")
       - 平坂黄泉（[川原慶久](../Page/川原慶久.md "wikilink")）「正義戦隊ゴ12th\!\!」（作詞・作曲・編曲）

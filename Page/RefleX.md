@@ -497,7 +497,7 @@ RefleX初期是試驗版
 
 <!-- end list -->
 
-  - [士官用](../Page/士官.md "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")。
+  - [士官](../Page/士官.md "wikilink")用[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")。
 
 <!-- end list -->
 

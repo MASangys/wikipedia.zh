@@ -6,7 +6,7 @@
 在真人騷*[The
 Sing-Off](https://zh.wikipedia.org/wiki/The_Sing-Off "wikilink")*中稱冠後，Pentatonix與唱片公司簽訂了合約，使他們能夠進一步發展自己的音樂事業。他們透過在YouTube上載流行曲翻唱影片來宣傳新碟，例如[Gotye](../Page/高堤耶.md "wikilink")
 feat. Kimbra的"Sombody That I Used to Know",
-[PSY的](../Page/PSY.md "wikilink")"[江南Style](../Page/江南Style.md "wikilink")"以及[Fun的](../Page/歡樂.樂團.md "wikilink")"We
+[PSY](../Page/PSY.md "wikilink")的"[江南Style](../Page/江南Style.md "wikilink")"以及[Fun的](../Page/歡樂.樂團.md "wikilink")"We
 Are Young"等，均錄得很高的播放次數。\[1\]\[2\]
 
 ## 迴響

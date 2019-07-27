@@ -1,10 +1,10 @@
 《**KING OF
-男！**》（），是[日本男子演唱團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")27張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年2月19日發行，唱片公司為[Imperial
+男！**》（），是[日本](../Page/日本.md "wikilink")男子演唱團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第27張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年2月19日發行，唱片公司為[Imperial
 Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要
 
-關西傑尼斯8三個月內連續發行的第三張單曲，主題曲為[生田斗真所主演的](../Page/生田斗真.md "wikilink")《[土竜の唄
+關西傑尼斯8三個月內連續發行的第三張單曲，主題曲為[生田斗真](../Page/生田斗真.md "wikilink")所主演的《[土竜の唄
 潜入捜査官REIJI](https://zh.wikipedia.org/wiki/土竜の唄_潜入捜査官REIJI "wikilink")》主題曲，是第一首不是由團員演出的電影主題曲。
 
 首周發售量35.3萬張，超越《[無責任英雄](../Page/無責任Hero.md "wikilink")》的34.8萬張，打破該團體紀錄。

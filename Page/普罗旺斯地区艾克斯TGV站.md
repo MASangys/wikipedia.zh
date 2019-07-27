@@ -55,7 +55,7 @@
 
 ### 城际客运
 
-普罗旺斯-阿尔卑斯-蓝色海岸大区客运公司（LER）提供由普罗旺斯地区艾克斯TGV站前往[普罗旺斯地区艾克斯](../Page/普罗旺斯地区艾克斯.md "wikilink")、[迪涅莱班](https://zh.wikipedia.org/wiki/迪涅莱班 "wikilink")、马赛机场、[西斯特龙](https://zh.wikipedia.org/wiki/西斯特龙_\(上普罗旺斯阿尔卑斯省\) "wikilink")、[加普以及直达](../Page/加普.md "wikilink")[尼斯的大巴车](../Page/尼斯.md "wikilink")。
+普罗旺斯-阿尔卑斯-蓝色海岸大区客运公司（LER）提供由普罗旺斯地区艾克斯TGV站前往[普罗旺斯地区艾克斯](../Page/普罗旺斯地区艾克斯.md "wikilink")、[迪涅莱班](https://zh.wikipedia.org/wiki/迪涅莱班 "wikilink")、马赛机场、[西斯特龙](https://zh.wikipedia.org/wiki/西斯特龙_\(上普罗旺斯阿尔卑斯省\) "wikilink")、[加普](../Page/加普.md "wikilink")以及直达[尼斯](../Page/尼斯.md "wikilink")的大巴车。
 
 ### 市内交通
 

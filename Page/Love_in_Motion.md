@@ -1,5 +1,5 @@
 《**Love In
-Motion**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭瑞芬的第二張個人專輯](../Page/鄭瑞芬.md "wikilink")，在1991年3月推出。專輯第一主打歌是1990年推出的《Bad
+Motion**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭瑞芬](../Page/鄭瑞芬.md "wikilink")的第二張個人專輯，在1991年3月推出。專輯第一主打歌是1990年推出的《Bad
 Boy》，而第二主打歌則為《動情》。
 
 ## 曲目

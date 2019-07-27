@@ -1,12 +1,12 @@
-《**那夜凌晨，我坐上了旺角開往大埔的紅VAN**》（）是一部由[陳果執導](https://zh.wikipedia.org/wiki/陳果 "wikilink")，集喜劇、動作、驚悚、溫情等元素的[科幻電影](https://zh.wikipedia.org/wiki/科幻電影 "wikilink")，改编自[香港](../Page/香港.md "wikilink")[高登討論區上連載](../Page/高登討論區.md "wikilink")，由所著的[同名小說](../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(小說\).md "wikilink")\[1\]。電影於2013年7月煞科\[2\]，於2014年4月10日上映，由[黃又南](../Page/黃又南.md "wikilink")、[文詠珊](../Page/文詠珊.md "wikilink")、[任達華](../Page/任達華.md "wikilink")、[徐天佑](../Page/徐天佑.md "wikilink")、[惠英紅和](../Page/惠英紅.md "wikilink")[林雪等演出](../Page/林雪.md "wikilink")。
+《**那夜凌晨，我坐上了旺角開往大埔的紅VAN**》（）是一部由[陳果執導](https://zh.wikipedia.org/wiki/陳果 "wikilink")，集喜劇、動作、驚悚、溫情等元素的[科幻電影](https://zh.wikipedia.org/wiki/科幻電影 "wikilink")，改编自[香港](../Page/香港.md "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")上連載，由所著的[同名小說](../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(小說\).md "wikilink")\[1\]。電影於2013年7月煞科\[2\]，於2014年4月10日上映，由[黃又南](../Page/黃又南.md "wikilink")、[文詠珊](../Page/文詠珊.md "wikilink")、[任達華](../Page/任達華.md "wikilink")、[徐天佑](../Page/徐天佑.md "wikilink")、[惠英紅](../Page/惠英紅.md "wikilink")和[林雪](../Page/林雪.md "wikilink")等演出。
 
 影片於2014年2月入圍[第64屆德國柏林國際電影節](../Page/第64屆柏林影展.md "wikilink")「電影大觀」（Panorama）單元\[3\]，是陳果繼《[三更2之餃子](https://zh.wikipedia.org/wiki/三更2之餃子 "wikilink")》後第二部躋身柏林電影節的作品\[4\]，於2014年2月7日在電影節上作全球首映\[5\]。
 
-電影亦成為第38屆[香港國際電影節的開幕電影](../Page/香港國際電影節.md "wikilink")\[6\]，並設有兩場香港首映場次。
+電影亦成為第38屆[香港國際電影節](../Page/香港國際電影節.md "wikilink")的開幕電影\[6\]，並設有兩場香港首映場次。
 
 ## 劇情
 
-故事講述主角游梓池（阿池）於某天晚上和朋友「[唱K](../Page/卡拉OK.md "wikilink")」過後，於凌晨時份乘坐由[九龍](../Page/九龍.md "wikilink")[旺角前往](../Page/旺角.md "wikilink")[新界](../Page/新界.md "wikilink")[大埔的](../Page/大埔_\(香港\).md "wikilink")[紅色公共小巴](../Page/香港小型巴士.md "wikilink")（俗稱「紅van」）回家\[7\]，該小巴經過[獅子山隧道後的所有汽車及人均消失](../Page/獅子山隧道.md "wikilink")，只剩下小巴本身及車廂內的17人（16名乘客和1名司機），彷彿進入了另外一個時空。故事發展出一連串的神秘事件，乘客開始一個繼一個地無故死亡，而隨著頭戴[防毒面具的神秘人出現令故事謎團重重](../Page/防毒面具.md "wikilink")；阿池需要解開一切謎團，以期望可以重回原來的世界\[8\]。
+故事講述主角游梓池（阿池）於某天晚上和朋友「[唱K](../Page/卡拉OK.md "wikilink")」過後，於凌晨時份乘坐由[九龍](../Page/九龍.md "wikilink")[旺角](../Page/旺角.md "wikilink")前往[新界](../Page/新界.md "wikilink")[大埔的](../Page/大埔_\(香港\).md "wikilink")[紅色公共小巴](../Page/香港小型巴士.md "wikilink")（俗稱「紅van」）回家\[7\]，該小巴經過[獅子山隧道](../Page/獅子山隧道.md "wikilink")後的所有汽車及人均消失，只剩下小巴本身及車廂內的17人（16名乘客和1名司機），彷彿進入了另外一個時空。故事發展出一連串的神秘事件，乘客開始一個繼一個地無故死亡，而隨著頭戴[防毒面具](../Page/防毒面具.md "wikilink")的神秘人出現令故事謎團重重；阿池需要解開一切謎團，以期望可以重回原來的世界\[8\]。
 
 ## 角色
 
@@ -20,7 +20,7 @@
 | [任達華](../Page/任達華.md "wikilink")                    | [田志傑](https://zh.wikipedia.org/wiki/田志傑 "wikilink") | 發叔：對應小說中的「中年男子」。                                                         |
 | [惠英紅](../Page/惠英紅.md "wikilink")                    | [蔣篤慧](../Page/蔣篤慧.md "wikilink")                    | 穆秀英（神婆英/英姐），原創角色。                                                        |
 | [林　雪](../Page/林雪.md "wikilink")                     | [邱展文](../Page/邱展文.md "wikilink")                    | 紅van 司機：對應小說中的「小巴司機」。                                                    |
-| [徐天佑](../Page/徐天佑.md "wikilink")                    | [莊汶錡](https://zh.wikipedia.org/wiki/莊汶錡 "wikilink") | 阿信/眼鏡青年（結合了小說中的「阿信」和「眼鏡青年」\[9\]）。                                        |
+| [徐天佑](../Page/徐天佑.md "wikilink")                    | 莊汶錡                                                 | 阿信/眼鏡青年（結合了小說中的「阿信」和「眼鏡青年」\[9\]）。                                        |
 | [李璨琛](../Page/李璨琛.md "wikilink")                    | [蘇振威](../Page/蘇振威.md "wikilink")                    | 盲輝：對應小說中的「白粉男」。                                                          |
 | [卓韻芝](../Page/卓韻芝.md "wikilink")                    | [巫玉羚](../Page/巫玉羚.md "wikilink")                    | Pat：對應小說中的「睇波女」，「睇波男」之妻。                                                 |
 | [李尚正](../Page/李尚正.md "wikilink")                    | [陳余寬](https://zh.wikipedia.org/wiki/陳余寬 "wikilink") | Bobby：對應小說中的「睇波男」，「睇波女」之夫。在追逐完面具人時觸碰到LV女的屍體，隨後死亡。                        |
@@ -43,21 +43,21 @@
 
 所著\[10\]\[11\]。隨著小說的連載半年，網上點撃率逾百萬次，累積數萬的粉絲，之後被印刷商睇中出版成書，推出上下兩集超過二十萬字的印刷版\[12\]。
 
-[高先電影老闆曾麗芬在陳輝虹介紹下決定開拍](../Page/高先電影.md "wikilink")《紅
+[高先電影](../Page/高先電影.md "wikilink")老闆曾麗芬在陳輝虹介紹下決定開拍《紅
 Van》，並打算邀請香港導演[陳果執導](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[13\]。2012年12月有報導指香港導演[陳果有意開拍該小說的電影版本](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[14\]
 ，令《紅VAN》成為繼由[胡耀輝執導的](https://zh.wikipedia.org/wiki/胡耀輝 "wikilink")《[一路向西](../Page/一路向西.md "wikilink")》後，第二部原於高登討論區連載，並改編成電影的香港網絡小說（原著名為《[東莞的森林](https://zh.wikipedia.org/wiki/東莞的森林 "wikilink")》，高登會員「向西村上春樹」著）。[陳果其後受訪時還表示曾為本片把自己的片酬降低](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[15\]。
 
 ### 演員
 
-陳果原打算讓[梁洛施出演女主角Yuki](../Page/梁洛施.md "wikilink")\[16\]，後換成由[文詠珊出演](../Page/文詠珊.md "wikilink")；另電影製作方接受了[高登討論區會員的建議](../Page/高登討論區.md "wikilink")，邀請由曾於《[香港有個荷里活](../Page/香港有個荷里活.md "wikilink")》演出的[黃又南擔任本片的男主角](../Page/黃又南.md "wikilink")「阿池」和[林雪出演片中的](../Page/林雪.md "wikilink")「紅VAN司機」\[17\]\[18\]，令電影同時包含香港多位影帝級（[任達華](../Page/任達華.md "wikilink")、[惠英紅及](../Page/惠英紅.md "wikilink")[林雪](../Page/林雪.md "wikilink")）和新生代演員（[黃又南](../Page/黃又南.md "wikilink")、[徐天佑及](../Page/徐天佑.md "wikilink")[文詠珊等](../Page/文詠珊.md "wikilink")）\[19\]。
+陳果原打算讓[梁洛施](../Page/梁洛施.md "wikilink")出演女主角Yuki\[16\]，後換成由[文詠珊](../Page/文詠珊.md "wikilink")出演；另電影製作方接受了[高登討論區](../Page/高登討論區.md "wikilink")會員的建議，邀請由曾於《[香港有個荷里活](../Page/香港有個荷里活.md "wikilink")》演出的[黃又南](../Page/黃又南.md "wikilink")擔任本片的男主角「阿池」和[林雪](../Page/林雪.md "wikilink")出演片中的「紅VAN司機」\[17\]\[18\]，令電影同時包含香港多位影帝級（[任達華](../Page/任達華.md "wikilink")、[惠英紅](../Page/惠英紅.md "wikilink")及[林雪](../Page/林雪.md "wikilink")）和新生代演員（[黃又南](../Page/黃又南.md "wikilink")、[徐天佑](../Page/徐天佑.md "wikilink")及[文詠珊](../Page/文詠珊.md "wikilink")等）\[19\]。
 
 ### 拍攝
 
 [Rmb_le9372.jpg](https://zh.wikipedia.org/wiki/File:Rmb_le9372.jpg "fig:Rmb_le9372.jpg")」\]\]
-《紅VAN》電影中的紅色小巴是用真正的車拍攝的，並沒有特意做一個像小巴的場景拍攝\[20\]。[陳果受訪時表示拍攝小巴戲份時](https://zh.wikipedia.org/wiki/陳果 "wikilink")，要全程要拖着來拍，而且因為車本身的空間有限，容納十七位演員之外，又要有一班工作人員收音、打燈；另外在本片中扮演小巴司機的[林雪在真正生活中是不會](../Page/林雪.md "wikilink")[駕駛的](../Page/駕駛.md "wikilink")，因此認為本片最困難的拍攝地方是拍攝紅色小巴的戲份\[21\]。
+《紅VAN》電影中的紅色小巴是用真正的車拍攝的，並沒有特意做一個像小巴的場景拍攝\[20\]。[陳果受訪時表示拍攝小巴戲份時](https://zh.wikipedia.org/wiki/陳果 "wikilink")，要全程要拖着來拍，而且因為車本身的空間有限，容納十七位演員之外，又要有一班工作人員收音、打燈；另外在本片中扮演小巴司機的[林雪](../Page/林雪.md "wikilink")在真正生活中是不會[駕駛](../Page/駕駛.md "wikilink")的，因此認為本片最困難的拍攝地方是拍攝紅色小巴的戲份\[21\]。
 
 [HK_TaiPoMarketTinHauTemple.JPG](https://zh.wikipedia.org/wiki/File:HK_TaiPoMarketTinHauTemple.JPG "fig:HK_TaiPoMarketTinHauTemple.JPG")」\]\]
-《紅VAN》電影版亦跟足原著小說於實地拍攝，主要是在[紅van和大埔一間名叫](../Page/香港小型巴士.md "wikilink")「華輝小廚餐廳」內拍攝\[22\]。外景大多圍繞[大埔](../Page/大埔區.md "wikilink")，如[廣福道](../Page/廣福道.md "wikilink")、[大埔工業邨](../Page/大埔工業邨.md "wikilink")、[香港鐵路博物館](../Page/香港鐵路博物館.md "wikilink")、[大埔舊墟天后宮](../Page/大埔舊墟天后宮.md "wikilink")、[中文大學四條柱等場景](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")\[23\]。此外，由於本片的拍攝背景是「凌晨」，因此電影中大部分的場景都是於晚上八時至第2天的早上六時取景\[24\]。戲中中了輻射的中大四子會在[吐露港截擊車中的其他人](../Page/吐露港.md "wikilink")，但因為現實上的吐露港是[高速公路](../Page/高速公路.md "wikilink")，在高速公路上跑是十分危險的，所以導演把大部分的鏡頭都轉到車比較少的[香港迪士尼樂園旁進行拍攝](../Page/香港迪士尼樂園.md "wikilink")\[25\]。
+《紅VAN》電影版亦跟足原著小說於實地拍攝，主要是在[紅van和大埔一間名叫](../Page/香港小型巴士.md "wikilink")「華輝小廚餐廳」內拍攝\[22\]。外景大多圍繞[大埔](../Page/大埔區.md "wikilink")，如[廣福道](../Page/廣福道.md "wikilink")、[大埔工業邨](../Page/大埔工業邨.md "wikilink")、[香港鐵路博物館](../Page/香港鐵路博物館.md "wikilink")、[大埔舊墟天后宮](../Page/大埔舊墟天后宮.md "wikilink")、[中文大學四條柱等場景](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")\[23\]。此外，由於本片的拍攝背景是「凌晨」，因此電影中大部分的場景都是於晚上八時至第2天的早上六時取景\[24\]。戲中中了輻射的中大四子會在[吐露港](../Page/吐露港.md "wikilink")截擊車中的其他人，但因為現實上的吐露港是[高速公路](../Page/高速公路.md "wikilink")，在高速公路上跑是十分危險的，所以導演把大部分的鏡頭都轉到車比較少的[香港迪士尼樂園](../Page/香港迪士尼樂園.md "wikilink")旁進行拍攝\[25\]。
 
 ## 上映
 
@@ -65,7 +65,7 @@ Van》，並打算邀請香港導演[陳果執導](https://zh.wikipedia.org/wiki
 
 在電影於柏林電影節上映前，電影節大會於官方網站上發放了長一分鐘之電影剪輯片段\[33\]。片段中所見，部份情節與小說所描述有少許出入，估計電影會對劇本作出改動\[34\]。2014年2月5日，官方首次發放電影預告片，當中亦顯示電影版會有一定程度的改動\[35\]。
 
-原版電影《紅VAN》因為片中有大量的地道粗口及有姦屍情節，被香港影視處評為[三級](https://zh.wikipedia.org/wiki/三級 "wikilink")，為了照顧未成年的[高登討論區會員和年輕觀眾觀看本片](../Page/高登討論區.md "wikilink")，陳果因此推出了一個修改版本[IIB版](../Page/香港電影分級制度.md "wikilink")\[36\]，把電影中的粗口剪輯至最少，亦會換走片中強姦戲份（電影中的強姦戲份會加上[馬賽克](https://zh.wikipedia.org/wiki/馬賽克 "wikilink")）\[37\]，修改版本[IIB版於原版](../Page/香港電影分級制度.md "wikilink")[三級上映後次一周上映以供給未滿](https://zh.wikipedia.org/wiki/三級 "wikilink")18歲人士觀看\[38\]。但是根據網站《講。鏟。片》上傳了2張有關本片的的電影檢查條例核准證明書（俗稱「電檢紙」）的圖片顯示，經過修改的[IIB版版本是](../Page/香港電影分級制度.md "wikilink")120.42分鐘，比原版（片長為120.00分鐘）的片長還多\[39\]。
+原版電影《紅VAN》因為片中有大量的地道粗口及有姦屍情節，被香港影視處評為[三級](https://zh.wikipedia.org/wiki/三級 "wikilink")，為了照顧未成年的[高登討論區](../Page/高登討論區.md "wikilink")會員和年輕觀眾觀看本片，陳果因此推出了一個修改版本[IIB版](../Page/香港電影分級制度.md "wikilink")\[36\]，把電影中的粗口剪輯至最少，亦會換走片中強姦戲份（電影中的強姦戲份會加上[馬賽克](https://zh.wikipedia.org/wiki/馬賽克 "wikilink")）\[37\]，修改版本[IIB版於原版](../Page/香港電影分級制度.md "wikilink")[三級上映後次一周上映以供給未滿](https://zh.wikipedia.org/wiki/三級 "wikilink")18歲人士觀看\[38\]。但是根據網站《講。鏟。片》上傳了2張有關本片的的電影檢查條例核准證明書（俗稱「電檢紙」）的圖片顯示，經過修改的[IIB版版本是](../Page/香港電影分級制度.md "wikilink")120.42分鐘，比原版（片長為120.00分鐘）的片長還多\[39\]。
 
 ### 評價
 

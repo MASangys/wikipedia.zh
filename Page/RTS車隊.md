@@ -15,6 +15,6 @@
   - [Facebook專頁](https://www.facebook.com/RTSRacingTeam/)
 
 [Category:台灣自行車](https://zh.wikipedia.org/wiki/Category:台灣自行車 "wikilink")
-[Category:UCI洲際車隊](https://zh.wikipedia.org/wiki/Category:UCI洲際車隊 "wikilink")
+[Category:UCI亞洲洲際車隊](https://zh.wikipedia.org/wiki/Category:UCI亞洲洲際車隊 "wikilink")
 
 1.  [1](https://www.uci.org/road/teams/TeamDetail/10399/1000738/228)

@@ -1,6 +1,6 @@
 ***Top of the
 Pops***是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[BBC播出的一檔現場直播的流行](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")[音樂節目](https://zh.wikipedia.org/wiki/音樂 "wikilink")。節目播出於1964年1月1日至2006年7月30日期間。節目基本上在每週四晚間於[BBC1播出](https://zh.wikipedia.org/wiki/BBC1 "wikilink")，只有1974年和1996年時曾有一段時間在週五播出，以及在2005年曾於週日在
-[BBC2播出](https://zh.wikipedia.org/wiki/BBC2 "wikilink")。節目內容主要是發表最新的流行音樂排行榜，當時[吉米·薩維爾是該節目的代表人物](../Page/吉米·薩維爾.md "wikilink")。節目還製作聖誕專輯，請來歌手演唱這一年最流行的歌曲。雖然Top
+[BBC2播出](https://zh.wikipedia.org/wiki/BBC2 "wikilink")。節目內容主要是發表最新的流行音樂排行榜，當時[吉米·薩維爾](../Page/吉米·薩維爾.md "wikilink")是該節目的代表人物。節目還製作聖誕專輯，請來歌手演唱這一年最流行的歌曲。雖然Top
 of the
 Pops的常規節播出已經停播\[1\]，但聖誕特輯仍在繼續播出\[2\]\[3\]\[4\]。自1994年起，BBC還製作了一個名為Top
 of the Pops 2的節目，節目內容主要是收錄了過去Top of the Pops的精彩內容。

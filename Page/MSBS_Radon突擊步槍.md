@@ -8,7 +8,7 @@ mm）是一款[波蘭製的](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[�
 
 ## 設計／發展
 
-此武器目前有多個版本，主要型號為：具可摺疊和[槍托的標準型](../Page/槍托.md "wikilink")“MSBS-5.56K”和[無托型](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")“MSBS-5.56B”，基於本槍的模組化設計，這兩個型號都能夠很容易地轉換成[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，[狙擊步槍或班用型](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")。本槍發射[北約的](https://zh.wikipedia.org/wiki/北約 "wikilink")[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，但生產商同時也提供[7.62×39mm和](../Page/7.62×39mm.md "wikilink")[7.62×51mm兩種口徑的版本](../Page/7.62×51mm_NATO.md "wikilink")。
+此武器目前有多個版本，主要型號為：具可摺疊和[槍托](../Page/槍托.md "wikilink")的標準型“MSBS-5.56K”和[無托型](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")“MSBS-5.56B”，基於本槍的模組化設計，這兩個型號都能夠很容易地轉換成[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，[狙擊步槍或班用型](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")。本槍發射[北約的](https://zh.wikipedia.org/wiki/北約 "wikilink")[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，但生產商同時也提供[7.62×39mm](../Page/7.62×39mm.md "wikilink")和[7.62×51mm兩種口徑的版本](../Page/7.62×51mm_NATO.md "wikilink")。
 
 [波蘭軍隊目前正批量裝備MSBS](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")
 Radon，以取代目前服役中，包括[kbs wz.96
@@ -35,7 +35,7 @@ Radon由[拉多姆兵工廠進入批量生產](https://zh.wikipedia.org/wiki/拉
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
     zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
     of Duty:
-    Ghosts）：型号为MSBS无托式款，被命名为“MSBS”，只有[三發點放功能](../Page/三發點放.md "wikilink")。故事模式中被美国精锐部队【-{zh-cn:幽灵;
+    Ghosts）：型号为MSBS无托式款，被命名为“MSBS”，只有[三發點放](../Page/三發點放.md "wikilink")功能。故事模式中被美国精锐部队【-{zh-cn:幽灵;
     zh-tw:魅影;}-】以及敌方阵营【联邦】所使用。
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper:
     Ghost Warrior 3）：命名為“Archer AR15”。

@@ -1,4 +1,4 @@
-《**TV朝鮮金土連續劇**》（），是逢[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六韓國晚間](../Page/星期六.md "wikilink")11點在[TV朝鮮播映的電視劇](../Page/TV朝鮮.md "wikilink")。
+《**TV朝鮮金土連續劇**》（），是逢[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六](../Page/星期六.md "wikilink")韓國晚間11點在[TV朝鮮](../Page/TV朝鮮.md "wikilink")播映的電視劇。
 
 ## 播出時間變遷
 

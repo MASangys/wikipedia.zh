@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")3張[A面](https://zh.wikipedia.org/wiki/A面 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，也是第1張抒情精選。台灣有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")，台壓版專輯名稱：白色戀曲。
+[GLAY](../Page/GLAY.md "wikilink")的第3張[A面](https://zh.wikipedia.org/wiki/A面 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，也是第1張抒情精選。台灣有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")，台壓版專輯名稱：白色戀曲。
 
 ## 簡介
 

@@ -1,80 +1,249 @@
 《**SCHOOL OF
-LOCK\!**》是日本[FM東京製播的](../Page/FM東京.md "wikilink")[廣播](../Page/電台廣播.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，每週一到週四22:00
+LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製播的[廣播](../Page/電台廣播.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，每週一到週四22:00
 - 23:55、週五22:00 -
-22:55現場直播（[JST](../Page/日本標準時間.md "wikilink")），並透過廣播聯播網[JFN旗下加盟台向日本全國播出](https://zh.wikipedia.org/wiki/JFN "wikilink")。其主要為面向[中學生之廣播綜藝](https://zh.wikipedia.org/wiki/中學生 "wikilink")，節目主題為「掌握未來之鑰之廣播之中的學校」（）。現由遠山大輔（節目中稱為「遠山校長」）、蘆澤統人（節目中稱為「蘆澤教頭」）主持。
+22:55現場直播（[JST](../Page/日本標準時間.md "wikilink")），並透過廣播聯播網[JFN旗下加盟台向日本全國播出](https://zh.wikipedia.org/wiki/JFN "wikilink")。其主要為面向[中學生之廣播綜藝](https://zh.wikipedia.org/wiki/中學生 "wikilink")，節目主題為「掌握未來之鑰之廣播之中的學校」（），許多節目內容均以[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")[上課為概念呈現](https://zh.wikipedia.org/wiki/課堂 "wikilink")。現由遠山大輔、蘆澤統人主持，節目中另有多個由個別藝人主持的單元。
 
-## 播出電台
+## 上課時間（播出時間）
 
-  - 製作台
+  - 每週星期一 - 星期四
+    22:00 - 23:55
+  - 每週星期五（「SCHOOL OF LOCK\! FRIDAY」）
+    22:00 - 22:55
+  - 每週星期五（「SCHOOL OF LOCK\! UNIVERSITY」）
+    23:00 - 23:55
+    本節目派生的關聯節目，2019年4月1日起播出，由主持。
 
-<!-- end list -->
+### 課表（2019年4月起）
 
-  - [TOKYO FM](../Page/FM東京.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>時間</p></th>
+<th><p>星期一</p></th>
+<th><p>星期二</p></th>
+<th><p>星期三</p></th>
+<th><p>星期四</p></th>
+<th><p>星期五</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>22:00</p></td>
+<td><p>生放送教室<br />
+（包含吉他鐘聲／校長的黑板／上課口令／上課主題發表等）</p></td>
+<td><p>SKY PerfecTV! 校內放送 Rappers</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22:20左右[1]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>　Aqours LOCKS!（第1週）</p></td>
+<td><p>SCHOOL OF LOCK! 應援部</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Aqours.md" title="wikilink">Aqours</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ARTIST LOCKS!　LiSA LOCKS!（第2週）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/LiSA.md" title="wikilink">LiSA</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>（第3～4週）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/平手友梨奈.md" title="wikilink">平手友梨奈</a>（<a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a>）（第3週）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高橋光.md" title="wikilink">高橋光</a>（第4週）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22:30左右</p></td>
+<td><p>生放送教室</p></td>
+<td><p>ARTIST LOCKS!<br />
+</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SEKAI_NO_OWARI.md" title="wikilink">SEKAI NO OWARI</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22:45左右</p></td>
+<td><p>學校營運戰略會議</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22:55</p></td>
+<td><p>想聽你的聲音[2]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23:00</p></td>
+<td><p>BATTLE QUIZ SCHOOL 4ORCE</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>23:08頃</p></td>
+<td></td>
+<td><p>松田LOCKS!</p></td>
+<td><p>高中生求職諮商室</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23:10左右</p></td>
+<td><p>ARTIST LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>ALEXAND LOCKS!</p></td>
+<td><p>MRS LOCKS!</p></td>
+<td><p>Eve LOCKS!</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
+<td><p><a href="../Page/［Alexandros］.md" title="wikilink">[Alexandros</a>]</p></td>
+<td><p><a href="../Page/Mrs._GREEN_APPLE.md" title="wikilink">Mrs. GREEN APPLE</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>23:30左右</p></td>
+<td><p>生放送教室</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/魚韻.md" title="wikilink">魚韻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>23:45左右</p></td>
+<td><p>黑板／結尾</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23:54</p></td>
+<td><p>下課口令（節目結束）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-<!-- end list -->
+### 過去的上課時間
 
-  - 聯播台
+  - 每週星期日（以「SCHOOL OF LOCK\! SUNDAY」名稱播出）
+    23:30 - 23:55（2006年10月1日 - 2007年3月25日）
+  - 每週星期五（以「SCHOOL OF LOCK\! FRIDAY」名稱播出）
+    22:00 - 22:55、23:30 - 23:55（2007年3月 - 2010年9月）
+      - 23:00 - 23:30播出獨立節目《[木村拓哉的What's UP
+        SMAP\!](../Page/木村拓哉的What's_UP_SMAP!.md "wikilink")》。
+  - 每週星期六（以「SCHOOL OF LOCK\! SATURDAY 長淵LOCKS'ROAD TO FUJI'」名稱播出；錄播）
+    22:00 - 22:30（2014年10月4日 - 2015年3月21日）
+  - 每週星期日（以「SCHOOL OF LOCK\! SUNDAY 長渕LOCKS'ROAD TO FUJI'」名稱播出；錄播）
+    23:30 - 23:55（2015年4月5日 - 6月28日）
+      - 部分時段，JFN加盟台沒有全部聯播。
+  - 每週星期六（以「SCHOOL OF LOCK\! SATURDAY　未確認LOCKS\!」名稱播出；錄播）
+    22:00 - 22:30（2015年4月11日 - 9月26日）
+  - 每週星期一（以「未確認LOCKS\!」名稱，透過現場直播）
+    24:00 - 25:00頃（2016年4月25日 - 8月22日）
+  - 每週星期五「SCHOOL OF LOCK\! 18's PROJECT\!」（錄播）
+    23:30 - 23:55（2016年7月1日 - 9月30日）
 
-<!-- end list -->
-
-  - [AIR-G'](https://zh.wikipedia.org/wiki/FM北海道 "wikilink")
-  - [FM青森](https://zh.wikipedia.org/wiki/FM青森 "wikilink")
-  - [FM秋田](https://zh.wikipedia.org/wiki/FM秋田 "wikilink")
-  - [FM岩手](https://zh.wikipedia.org/wiki/FM岩手 "wikilink")
-  - [Date fm](https://zh.wikipedia.org/wiki/FM仙台 "wikilink")
-  - [Rhythm Station](https://zh.wikipedia.org/wiki/FM山形 "wikilink")
-  - [ふくしまFM](https://zh.wikipedia.org/wiki/FM福島 "wikilink")
-  - [RADIO BERRY](https://zh.wikipedia.org/wiki/FM栃木 "wikilink")
-  - [FMぐんま](https://zh.wikipedia.org/wiki/FM群馬 "wikilink")
-  - TOKYO FM
-  - [FM長野](https://zh.wikipedia.org/wiki/長野FM放送 "wikilink")
-  - [FMとやま](https://zh.wikipedia.org/wiki/富山FM放送 "wikilink")
-  - [K-mix](https://zh.wikipedia.org/wiki/靜岡FM放送 "wikilink")
-  - [FM AICHI](https://zh.wikipedia.org/wiki/FM愛知 "wikilink")
-  - [Radio80](https://zh.wikipedia.org/wiki/FM岐阜 "wikilink")
-
-<!-- end list -->
-
-  - [radio CUBE](https://zh.wikipedia.org/wiki/三重FM放送 "wikilink")
-  - [Kiss-FM KOBE](https://zh.wikipedia.org/wiki/兵庫FM放送 "wikilink")
-  - [FM岡山](https://zh.wikipedia.org/wiki/岡山FM放送 "wikilink")
-  - [V-air](https://zh.wikipedia.org/wiki/FM山陰 "wikilink")
-  - [HFM](https://zh.wikipedia.org/wiki/廣島FM放送 "wikilink")
-  - [FMY](https://zh.wikipedia.org/wiki/FM山口 "wikilink")
-  - [FM香川](https://zh.wikipedia.org/wiki/FM香川 "wikilink")
-  - [FM德島](https://zh.wikipedia.org/wiki/FM德島 "wikilink")
-  - [Hi-Six](https://zh.wikipedia.org/wiki/FM高知 "wikilink")
-  - [FM佐賀](https://zh.wikipedia.org/wiki/FM佐賀 "wikilink")
-  - [fm nagasaki](https://zh.wikipedia.org/wiki/FM長崎 "wikilink")
-  - [Air-Radio FM88](https://zh.wikipedia.org/wiki/FM大分 "wikilink")
-  - [JOY FM](https://zh.wikipedia.org/wiki/FM宮崎 "wikilink")
-  - [μFM](https://zh.wikipedia.org/wiki/FM鹿兒島 "wikilink")
-
-<!-- end list -->
-
-  - カコモンクエスト 未放電台
-
-| 播出電台                                                        | 節目名                                                                         |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------- |
-|                                                             |                                                                             |
-| [FM-NIIGATA](../Page/新潟广播电台.md "wikilink")                  | 『Keiwa LOCKS\!』                                                             |
-| [HELLO FIVE](https://zh.wikipedia.org/wiki/FM石川 "wikilink") | 『HELLO FIVE MUSIC NEXUS』                                                    |
-| [FM福井](https://zh.wikipedia.org/wiki/福井FM放送 "wikilink")     | 『気持ち届け                                                                      |
-| [e-radio](https://zh.wikipedia.org/wiki/FM滋賀 "wikilink")    | 『[Music Break](https://zh.wikipedia.org/wiki/Music_Break "wikilink")』       |
-| [FM OSAKA](https://zh.wikipedia.org/wiki/FM大阪 "wikilink")   | 『[RADIO BREAKERS](https://zh.wikipedia.org/wiki/RADIO_BREAKERS "wikilink")』 |
-| [JOEU-FM](https://zh.wikipedia.org/wiki/FM愛媛 "wikilink")    | 『〜music essey〜いつだって、どこだって…with you』                                         |
-| [FM FUKUOKA](https://zh.wikipedia.org/wiki/FM福岡 "wikilink") | 『Check This Out\!』                                                          |
-| [FMK FMクマモト](https://zh.wikipedia.org/wiki/FM熊本 "wikilink") | 『POWER WAVE』                                                                |
-| [FM沖繩](https://zh.wikipedia.org/wiki/FM沖繩 "wikilink")       | 『インフォ・ミュージック』                                                               |
-|                                                             |                                                                             |
-
-## 參演者
+## 主持人
 
   - 遠山校長（）
 
 <!-- end list -->
 
-  - 本名：遠山大輔
+  - 本名：遠山大輔。2010年4月5日起就任，為SCHOOL OF
+    LOCK\!第2任[校長](https://zh.wikipedia.org/wiki/校長 "wikilink")。
 
 <!-- end list -->
 
@@ -82,18 +251,24 @@ LOCK\!**》是日本[FM東京製播的](../Page/FM東京.md "wikilink")[廣播](
 
 <!-- end list -->
 
-  - 本名：蘆澤統人
+  - 本名：蘆澤統人。2014年10月6日起就任，為SCHOOL OF LOCK\!第3任教頭（日語的「教頭」可解說為）。
+
+## 註釋
+
+## 參考資料
 
 ## 外部連結
 
   - [節目官方網站](https://www.tfm.co.jp/lock/)
 
   -
-  - [TOKYO
-    FM採用情報・森田太プロデューサーインタビュー](https://web.archive.org/web/20070929133430/http://www.tfm.co.jp/saiyo/message/morita2008.html)
+  - [](https://web.archive.org/web/20070929133430/http://www.tfm.co.jp/saiyo/message/morita2008.html)
 
-  - [ケータイが教室、放送が学校――10代が“居る”ラジオ](http://plusd.itmedia.co.jp/mobile/articles/0601/06/news036.html)
+  - [](http://plusd.itmedia.co.jp/mobile/articles/0601/06/news036.html)
     - ITmedia
 
 [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
 [Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")
+
+1.  每逢第5週為「生放送教室」單元。
+2.  部分聯播台沒有播出。

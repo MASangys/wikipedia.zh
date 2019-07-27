@@ -17,12 +17,12 @@ Darul Ta'zim FC），简称为柔佛DT。
 橫掃緬甸的[伊洛瓦底聯](../Page/伊洛瓦底聯足球會.md "wikilink")，強勢殺入八強。追平[雪蘭莪](../Page/雪蘭莪足球協會.md "wikilink")（2006年）和[吉蘭丹](../Page/吉蘭丹足球協會.md "wikilink")（2012年）的大馬球隊最佳戰績紀錄。\[4\]
 9月15日，柔佛DT在[2015年亞洲足協盃八強次回合中客場以](https://zh.wikipedia.org/wiki/2015年亞洲足協盃 "wikilink")
 3–1 擊敗香港球會[南華](https://zh.wikipedia.org/wiki/南華 "wikilink")，以兩回合總成績
-4–2（首回合1–1）淘汰[南華](https://zh.wikipedia.org/wiki/南華 "wikilink")，成為首支晉級[亞洲足協盃半決賽的馬來西亞球隊](https://zh.wikipedia.org/wiki/亞洲足協盃 "wikilink")\[5\]。2015年10月17日，[科威特足总遭到](../Page/科威特.md "wikilink")[国际足联的全球禁赛处罚](https://zh.wikipedia.org/wiki/国际足联 "wikilink")，导致柔佛DT
+4–2（首回合1–1）淘汰[南華](https://zh.wikipedia.org/wiki/南華 "wikilink")，成為首支晉級[亞洲足協盃半決賽的馬來西亞球隊](https://zh.wikipedia.org/wiki/亞洲足協盃 "wikilink")\[5\]。2015年10月17日，[科威特](../Page/科威特.md "wikilink")足总遭到[国际足联的全球禁赛处罚](https://zh.wikipedia.org/wiki/国际足联 "wikilink")，导致柔佛DT
 準決賽的对手[卡迪斯亞不能参赛](../Page/卡迪斯亞體育會.md "wikilink")，由柔佛DT
 直接晋级决赛\[6\]。2015年10月31日，柔佛DT
 在[2015年亞洲足協盃决赛中客场以](https://zh.wikipedia.org/wiki/2015年亞洲足協盃 "wikilink")
 1–0
-击败东道主来自[塔吉克斯坦的](../Page/塔吉克斯坦.md "wikilink")[伊提洛爾](../Page/伊提洛爾足球會.md "wikilink")，获得[2015年亞洲足協盃冠军](https://zh.wikipedia.org/wiki/2015年亞洲足協盃 "wikilink")\[7\]。同时柔佛DT也是唯一一支夺得[亞洲足協盃冠军的](https://zh.wikipedia.org/wiki/亞洲足協盃 "wikilink")[东南亚球队](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。
+击败东道主来自[塔吉克斯坦](../Page/塔吉克斯坦.md "wikilink")的[伊提洛爾](../Page/伊提洛爾足球會.md "wikilink")，获得[2015年亞洲足協盃冠军](https://zh.wikipedia.org/wiki/2015年亞洲足協盃 "wikilink")\[7\]。同时柔佛DT也是唯一一支夺得[亞洲足協盃冠军的](https://zh.wikipedia.org/wiki/亞洲足協盃 "wikilink")[东南亚球队](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。
 
 2016年柔佛DT成功首夺[马来西亚足总杯冠军及完成联赛](../Page/馬來西亞足總盃.md "wikilink")3连霸。
 
@@ -48,7 +48,7 @@ Darul Ta'zim FC），简称为柔佛DT。
 
   - 冠軍：2014, 2015, 2016, 2017, 2018, 2019
 
-'''[馬來西亞足總盃冠軍](../Page/馬來西亞足總盃.md "wikilink")：
+'''[馬來西亞足總盃](../Page/馬來西亞足總盃.md "wikilink")冠軍：
 
   - 冠軍：2016
 

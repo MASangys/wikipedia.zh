@@ -1,5 +1,5 @@
 **Intel C++編譯器**（），經常被稱為icc 或
-icl，一種[C語言與](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++的](../Page/C++.md "wikilink")[編譯器](../Page/編譯器.md "wikilink")，可以在[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")，[Linux與](../Page/Linux.md "wikilink")[Microsoft
+icl，一種[C語言與](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")的[編譯器](../Page/編譯器.md "wikilink")，可以在[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")，[Linux](../Page/Linux.md "wikilink")與[Microsoft
 Windows上運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，由[英特爾公司研發](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 ## 概論

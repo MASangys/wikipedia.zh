@@ -1,5 +1,5 @@
 **RAII**全称为**R**esource **A**cquisition **I**s
-**I**nitialization，它是在一些[面向对象语言中的一种](https://zh.wikipedia.org/wiki/面向对象语言 "wikilink")。RAII源于[C++](../Page/C++.md "wikilink")，在[Java](../Page/Java.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[D](https://zh.wikipedia.org/wiki/D语言 "wikilink")，[Ada](../Page/Ada.md "wikilink")，[Vala和](../Page/Vala.md "wikilink")[Rust中也有应用](../Page/Rust.md "wikilink")。1984-1989年期间，[比雅尼·斯特勞斯特魯普和](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")在设计C++异常时，为解决时的性而使用了该用法\[1\]，后来[比雅尼·斯特勞斯特魯普将其称为RAII](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")。
+**I**nitialization，它是在一些[面向对象语言中的一种](https://zh.wikipedia.org/wiki/面向对象语言 "wikilink")。RAII源于[C++](../Page/C++.md "wikilink")，在[Java](../Page/Java.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[D](https://zh.wikipedia.org/wiki/D语言 "wikilink")，[Ada](../Page/Ada.md "wikilink")，[Vala](../Page/Vala.md "wikilink")和[Rust](../Page/Rust.md "wikilink")中也有应用。1984-1989年期间，[比雅尼·斯特勞斯特魯普和](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")在设计C++异常时，为解决时的性而使用了该用法\[1\]，后来[比雅尼·斯特勞斯特魯普将其称为RAII](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")。
 
 RAII要求，资源的有效期与持有资源的严格绑定，即由对象的[构造函数完成](https://zh.wikipedia.org/wiki/构造函数 "wikilink")（获取），同时由[析构函数完成资源的释放](https://zh.wikipedia.org/wiki/析构函数 "wikilink")。在这种要求下，只要对象能正确地析构，就不会出现问题。
 
@@ -78,7 +78,7 @@ void access_critical_section()
 }
 ```
 
-实际上，[C++标准库的实现就广泛应用了RAII](../Page/标准模板库.md "wikilink")，典型的如[容器](../Page/集合_\(计算机科学\).md "wikilink")、[智能指针等](../Page/智能指针.md "wikilink")。
+实际上，[C++标准库的实现就广泛应用了RAII](../Page/标准模板库.md "wikilink")，典型的如[容器](../Page/集合_\(计算机科学\).md "wikilink")、[智能指针](../Page/智能指针.md "wikilink")等。
 
 ## RRID
 
@@ -149,9 +149,9 @@ Resource create()
 ## 與finally的比較
 
 虽然RAII和finally都能保证资源管理时的异常安全，但相对来说，使用RAII的代码相对更加简洁。
-如[比雅尼·斯特劳斯特鲁普所说](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")，“在真实环境中，调用资源释放代码的次数远多于资源类型的个数，所以相对于使用finally来说，使用RAII能减少代码量。”\[5\]
+如[比雅尼·斯特劳斯特鲁普](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")所说，“在真实环境中，调用资源释放代码的次数远多于资源类型的个数，所以相对于使用finally来说，使用RAII能减少代码量。”\[5\]
 
-例如在[Java中使用finally来管理Socket资源](../Page/Java.md "wikilink")
+例如在[Java](../Page/Java.md "wikilink")中使用finally来管理Socket资源
 
 ``` java
 void foo() {

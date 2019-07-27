@@ -1,5 +1,5 @@
 **BRAND NEW
-WORLD\!\!**（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆第](../Page/Prizmmy☆.md "wikilink")4首單曲\[1\]，2012年8月29日由avex
+WORLD\!\!**（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆](../Page/Prizmmy☆.md "wikilink")第4首單曲\[1\]，2012年8月29日由avex
 entertainment發行。
 
 ## 概要

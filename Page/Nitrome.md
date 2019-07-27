@@ -1,4 +1,4 @@
-**Nitrome有限公司**，简称**Nitrome**，是一个总部在[伦敦的独立的游戏开发公司](../Page/伦敦.md "wikilink")，制作基于[Flash的游戏](../Page/Adobe_Flash.md "wikilink")。他们的游戏总是以[像素画的形式设计卡通元素外型](https://zh.wikipedia.org/wiki/像素画 "wikilink")，并且以带有[jingle形式的](https://zh.wikipedia.org/wiki/jingle "wikilink")[芯片音乐的Nitrome图标开场](../Page/芯片音乐.md "wikilink")。Nitrome的建立最初只是两个平面设计师Mat
+**Nitrome有限公司**，简称**Nitrome**，是一个总部在[伦敦](../Page/伦敦.md "wikilink")的独立的游戏开发公司，制作基于[Flash的游戏](../Page/Adobe_Flash.md "wikilink")。他们的游戏总是以[像素画的形式设计卡通元素外型](https://zh.wikipedia.org/wiki/像素画 "wikilink")，并且以带有[jingle形式的](https://zh.wikipedia.org/wiki/jingle "wikilink")[芯片音乐](../Page/芯片音乐.md "wikilink")的Nitrome图标开场。Nitrome的建立最初只是两个平面设计师Mat
 Annal和Heather Stancliffe打算制作手机游戏。
 Nitrome的游戏通常都是公布于他们的主页，不过他们有时会许可在别的网站例如[迷你客与音乐电视网上使用游戏](https://zh.wikipedia.org/wiki/迷你客 "wikilink")。
 

@@ -10,7 +10,7 @@ Entertainment稱為是秘密武器](https://zh.wikipedia.org/wiki/SM_Entertainme
 TRAX這個名稱則取自**T**yphoon of the **R**ose **A**ttack on **X**-mas的頭一個英文字母而成
 ，原先為4人團體，分為主唱 Typhoon、鼓手 Rose、貝斯手 Attack、吉他手 X-mas。
 
-TRAX是由日本視覺搖滾樂團鼻祖人物[Yoshiki一手打造的](../Page/Yoshiki.md "wikilink")；每員個成都有很強的實力和讓人無法移開目光的特點，無論是華麗出眾的外表還是獨特的搖滾風格，都能感動任何一個有搖滾精神的人。他們能帶給人們不同於以往的視覺搖滾樂團帶來的驚喜！對音樂的執著會打動更多的人，使更多的人喜歡TRAX，並支持這個走視覺搖滾路線的獨一無二的韓國樂團！
+TRAX是由日本視覺搖滾樂團鼻祖人物[Yoshiki](../Page/Yoshiki.md "wikilink")一手打造的；每員個成都有很強的實力和讓人無法移開目光的特點，無論是華麗出眾的外表還是獨特的搖滾風格，都能感動任何一個有搖滾精神的人。他們能帶給人們不同於以往的視覺搖滾樂團帶來的驚喜！對音樂的執著會打動更多的人，使更多的人喜歡TRAX，並支持這個走視覺搖滾路線的獨一無二的韓國樂團！
 
 2005年11月5日，身兼鼓手和吉他手的Rose（[魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink")）因音樂理念不合而離開[SM
 Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。之後

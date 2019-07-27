@@ -18,7 +18,7 @@ It is part of an ultracool binary system.\[4\]。
 *DENIS-P J082303.1-491201 b*距離地球20.77秒差距（大約67.7光年或642兆公里，或399兆英里），質量大約
 [木星質量](https://zh.wikipedia.org/wiki/木星質量 "wikilink")\[5\]，並被列為[NASA
 Exoplanet
-Archive中質量最重的系外行星之一](https://zh.wikipedia.org/wiki/NASA_Exoplanet_Archive "wikilink")。然而，依據多數的[行星定義](../Page/行星.md "wikilink")，要做為一顆行星，它的質量顯然太大了，歸類為[棕矮星反倒比較適當](../Page/棕矮星.md "wikilink")。
+Archive中質量最重的系外行星之一](https://zh.wikipedia.org/wiki/NASA_Exoplanet_Archive "wikilink")。然而，依據多數的[行星](../Page/行星.md "wikilink")定義，要做為一顆行星，它的質量顯然太大了，歸類為[棕矮星](../Page/棕矮星.md "wikilink")反倒比較適當。
 
 ### 軌道
 

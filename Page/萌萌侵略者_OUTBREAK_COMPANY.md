@@ -1,5 +1,5 @@
 《**萌萌侵略者 OUTBREAK
-COMPANY**》（）是一系列由[榊一郎所寫的日本](../Page/榊一郎.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，並由負責插圖。簡稱《**OBC**》。標题的“Outbreak”在本作中意味着具有爆发扩散性的感染力\[1\]。此系列自2011年12月起至今已經在[講談社出版了](https://zh.wikipedia.org/wiki/講談社 "wikilink")12冊，並由[尖端出版發行其中文版](../Page/尖端出版.md "wikilink")。曾獲第一屆《[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")》第7位\[2\]。自2012年11月起亦經之手在講談社的雜誌漫畫化連載。2013年10月3日开始在[TBS電視台播放](../Page/TBS電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+COMPANY**》（）是一系列由[榊一郎](../Page/榊一郎.md "wikilink")所寫的日本[輕小說](../Page/輕小說.md "wikilink")，並由負責插圖。簡稱《**OBC**》。標题的“Outbreak”在本作中意味着具有爆发扩散性的感染力\[1\]。此系列自2011年12月起至今已經在[講談社出版了](https://zh.wikipedia.org/wiki/講談社 "wikilink")12冊，並由[尖端出版](../Page/尖端出版.md "wikilink")發行其中文版。曾獲第一屆《[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")》第7位\[2\]。自2012年11月起亦經之手在講談社的雜誌漫畫化連載。2013年10月3日开始在[TBS電視台](../Page/TBS電視台.md "wikilink")播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 劇情簡介
 
@@ -161,7 +161,7 @@ COMPANY**》（）是一系列由[榊一郎所寫的日本](../Page/榊一郎.md
 
 ## 出版書籍
 
-本作為榊一郎所著，並由插畫的輕小說。首冊小說由講談社於2011年12月2日經其[講談社輕小說文庫發行](../Page/講談社輕小說文庫.md "wikilink")，\[3\]而截至2016年12月2日，日文版共刊行了十五卷。\[4\]台灣版由[尖端出版發行](../Page/尖端出版.md "wikilink")。\[5\]
+本作為榊一郎所著，並由插畫的輕小說。首冊小說由講談社於2011年12月2日經其[講談社輕小說文庫](../Page/講談社輕小說文庫.md "wikilink")發行，\[3\]而截至2016年12月2日，日文版共刊行了十五卷。\[4\]台灣版由[尖端出版](../Page/尖端出版.md "wikilink")發行。\[5\]
 
 <table>
 <thead>
@@ -317,12 +317,12 @@ COMPANY**》（）是一系列由[榊一郎所寫的日本](../Page/榊一郎.md
 ## 電視動畫
 
 以《**OUTBREAK
-COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[BS-TBS播放](../Page/BS-TBS.md "wikilink")。海外方面，台灣2013年10月11日起每周日晚上21:30分在[i-Fun動漫台網路電視播放](https://zh.wikipedia.org/wiki/i-Fun動漫台 "wikilink")（[有繁體中文字幕](http://www.i-funtv.com.tw/news-info.php?id=201)）。中國於2013年10月3日起每周五凌晨04:00分在[搜狐視頻網路電視播放](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")（[有簡體中文字幕](http://tv.sohu.com/20131101/n389346605.shtml)）。
+COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")播放。海外方面，台灣2013年10月11日起每周日晚上21:30分在[i-Fun動漫台網路電視播放](https://zh.wikipedia.org/wiki/i-Fun動漫台 "wikilink")（[有繁體中文字幕](http://www.i-funtv.com.tw/news-info.php?id=201)）。中國於2013年10月3日起每周五凌晨04:00分在[搜狐視頻網路電視播放](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")（[有簡體中文字幕](http://tv.sohu.com/20131101/n389346605.shtml)）。
 
 ### 製作人員
 
   - 原作：[榊一郎](../Page/榊一郎.md "wikilink")「萌萌侵略者 OUTBREAK
-    COMPANY」（[講談社輕小說文庫刊](../Page/講談社輕小說文庫.md "wikilink")）
+    COMPANY」（[講談社輕小說文庫](../Page/講談社輕小說文庫.md "wikilink")刊）
   - 原作插畫、角色原案：Yuugen
   - 監督：及川啟
   - 系列構成：[荒川稔久](../Page/荒川稔久.md "wikilink")

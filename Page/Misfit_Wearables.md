@@ -7,7 +7,7 @@ Misfit是由Sonny Vu 、 Sridhar Iyengar和 John Sculley
 一起创立了 AgaMatrix, 其公司生产的iBGStar血糖测量仪是第一个被美国食品药品监督管理局(FDA)
 所认可的使用在iPhone上的医疗设备。\[11\]\[12\]\[13\] John Sculley
 是苹果前执行长。\[14\] Sonny Vu 是Misfit Wearables 现任总裁及执行长。\[15\]
-2015年11月13日被[化石集團以](../Page/化石集團.md "wikilink")2.6億美元全資收購。
+2015年11月13日被[化石集團](../Page/化石集團.md "wikilink")以2.6億美元全資收購。
 
 ## 品牌历史
 

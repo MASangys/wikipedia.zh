@@ -1,4 +1,4 @@
-**能量戒指**（）是[DC漫畫中](../Page/DC漫畫.md "wikilink")[綠燈俠所使用的一種](../Page/綠燈俠.md "wikilink")[虛構武器](../Page/虛構.md "wikilink")。
+**能量戒指**（）是[DC漫畫](../Page/DC漫畫.md "wikilink")中[綠燈俠](../Page/綠燈俠.md "wikilink")所使用的一種[虛構](../Page/虛構.md "wikilink")武器。
 
 它最早出現在《All-American Comics》＃16（1940年7月）。
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   - 移動能力
-      - 飛行，雖然能量消耗比較快，不過可以[超光速飛行](../Page/超光速.md "wikilink")。
+      - 飛行，雖然能量消耗比較快，不過可以[超光速](../Page/超光速.md "wikilink")飛行。
 
 <!-- end list -->
 
@@ -209,7 +209,7 @@ Green Lantern's light\!
 
 只有藍光能中和紅光的影響，同時也是唯一能在不殺害主人的情況下，取下戒指的方法。
 
-在[新52中](../Page/新52.md "wikilink")，僅有一位使用者能像其他佩戴者一樣具現出武器來。
+在[新52](../Page/新52.md "wikilink")中，僅有一位使用者能像其他佩戴者一樣具現出武器來。
 
 \- 誓詞
 
@@ -231,7 +231,7 @@ That is your fate.
 
 燈獸：欲蟒
 
-[雷克斯·路瑟曾經分享過這種力量](../Page/雷克斯·路瑟.md "wikilink")（拉弗利茲的複製戒指），在《極黑之夜》裡[哈爾·喬丹和](https://zh.wikipedia.org/wiki/哈爾·喬丹 "wikilink")[凱爾·雷納曾經獲得橙光戒指](https://zh.wikipedia.org/wiki/凱爾·雷納 "wikilink")。
+[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")曾經分享過這種力量（拉弗利茲的複製戒指），在《極黑之夜》裡[哈爾·喬丹和](https://zh.wikipedia.org/wiki/哈爾·喬丹 "wikilink")[凱爾·雷納曾經獲得橙光戒指](https://zh.wikipedia.org/wiki/凱爾·雷納 "wikilink")。
 
 #### 能力
 
@@ -261,7 +261,7 @@ Not yours\!
 
 後來更和哈爾展開決戰而敗，之後戒指便被基格沃格破壞，而聖納托也被囚禁起來。
 
-在[蓋伊·加德納被](https://zh.wikipedia.org/wiki/蓋伊·加德納 "wikilink")[百烈煞擊倒後](../Page/百烈煞.md "wikilink")，聖納托穿著新的黃光戰衣，並撤退到反物質宇宙，之後歷經一年的時間打造了他的聖納托軍團\[5\]
+在[蓋伊·加德納被](https://zh.wikipedia.org/wiki/蓋伊·加德納 "wikilink")[百烈煞](../Page/百烈煞.md "wikilink")擊倒後，聖納托穿著新的黃光戰衣，並撤退到反物質宇宙，之後歷經一年的時間打造了他的聖納托軍團\[5\]
 。
 
 [聖納托軍團首領為](https://zh.wikipedia.org/wiki/聖納托軍團 "wikilink")[聖納托](https://zh.wikipedia.org/wiki/聖納托 "wikilink")

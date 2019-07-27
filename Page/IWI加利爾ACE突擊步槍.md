@@ -4,7 +4,7 @@ ACE**）是一系列由[以色列武器工業](https://zh.wikipedia.org/wiki/以
 Galil系列為藍本改進](../Page/IMI_Galil突擊步槍.md "wikilink")、所生產的改進型[自動步枪](https://zh.wikipedia.org/wiki/自動步枪 "wikilink")，而原型IMI
 Galil則是由[以色列·加利爾](https://zh.wikipedia.org/wiki/以色列·加利爾 "wikilink")（Yisrael
 Galili）和[雅各布·利奧爾](https://zh.wikipedia.org/wiki/雅各布·利奧爾 "wikilink")（Yaacov
-Lior）於1971年[拉马特沙龙所設計](https://zh.wikipedia.org/wiki/拉马特沙龙 "wikilink")。分為三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、[7.62×39毫米](../Page/7.62×39mm.md "wikilink")[苏联口徑或](../Page/苏联.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約口徑步槍子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")。5.56×45毫米北約口徑和7.62×39毫米蘇聯口徑是[突击步枪](../Page/突击步枪.md "wikilink")，前者可以同時發射M193和SS109兩種[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")；而7.62×51毫米北約口徑是[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")。
+Lior）於1971年[拉马特沙龙所設計](https://zh.wikipedia.org/wiki/拉马特沙龙 "wikilink")。分為三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、[7.62×39毫米](../Page/7.62×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")口徑或[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約口徑步槍子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")。5.56×45毫米北約口徑和7.62×39毫米蘇聯口徑是[突击步枪](../Page/突击步枪.md "wikilink")，前者可以同時發射M193和SS109兩種[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")；而7.62×51毫米北約口徑是[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")。
 
 加利爾ACE系列突擊步槍是以原型IMI
 Galil的機構為藍本，但使用現代化的設計和材料以增加其準確性並降低它的重量，同時保持Galil在戰鬥條件以下的[人體工學](../Page/人因工程学.md "wikilink")、便於維護和可靠性。\[1\]它是為目前的現代戰爭所要求的高精度及高可靠性提供了最終的解決方案。它的重點是在特別不利和全球最極端的條件下提高了其可靠性和仍能戰鬥。
@@ -13,7 +13,7 @@ Galil的機構為藍本，但使用現代化的設計和材料以增加其準確
 
 加利爾ACE系列亦具有多種不同的衍生型，不過衍生型名稱有作變更：作為標準步槍長度的**ACE 23**、**ACE 23 N**、**ACE
 32**和**ACE
-53**（突擊步槍）、縮短[槍管長度至](../Page/槍管.md "wikilink")[卡賓槍的](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")**ACE
+53**（突擊步槍）、縮短[槍管](../Page/槍管.md "wikilink")長度至[卡賓槍的](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")**ACE
 22**、**ACE 22 N**和**ACE 52 L**（短管突擊步槍）和進一步縮短槍管長度至比卡賓槍更短的**ACE 21**、**ACE
 21 N**、**ACE 31**和**ACE 52**（微型突擊步槍）。而且不設有輕機槍和精確射手步槍型號。
 
@@ -21,7 +21,7 @@ Galil的機構為藍本，但使用現代化的設計和材料以增加其準確
 
 ## 歷史
 
-雖然[以色列國防軍部隊普遍都對於加利爾突擊步槍一直興趣不大](../Page/以色列國防軍.md "wikilink")（除了炮兵、装甲兵等单位都採用其縮短型外），但憑藉著同時具有精度和可靠性高兩個優點，加利爾槍族成功出口到[二十多個國家並且作為軍隊或警察的制式武器](https://zh.wikipedia.org/wiki/IMI_Galil突擊步槍#使用國 "wikilink")，而且[哥伦比亚的](../Page/哥伦比亚.md "wikilink")[兵工廠](https://zh.wikipedia.org/wiki/哥伦比亚工業 "wikilink")、[南非的Vektor](https://zh.wikipedia.org/wiki/南非 "wikilink")
+雖然[以色列國防軍](../Page/以色列國防軍.md "wikilink")部隊普遍都對於加利爾突擊步槍一直興趣不大（除了炮兵、装甲兵等单位都採用其縮短型外），但憑藉著同時具有精度和可靠性高兩個優點，加利爾槍族成功出口到[二十多個國家並且作為軍隊或警察的制式武器](https://zh.wikipedia.org/wiki/IMI_Galil突擊步槍#使用國 "wikilink")，而且[哥伦比亚](../Page/哥伦比亚.md "wikilink")的[兵工廠](https://zh.wikipedia.org/wiki/哥伦比亚工業 "wikilink")、[南非的Vektor](https://zh.wikipedia.org/wiki/南非 "wikilink")
 Arms更購買其[特許生產證](https://zh.wikipedia.org/wiki/特許生產證 "wikilink")，並把授權生產品作為制式步槍。多年以來，加利爾槍族並沒有太大規模的改進。
 
 自從加利爾突擊步槍被[哥倫比亞武裝部隊定為突擊步槍和制式步槍使用以來](https://zh.wikipedia.org/wiki/哥倫比亞武裝部隊 "wikilink")，一直都因應哥倫比亞軍隊的具體需求，按照著加利爾系列的技術與創作另一種武器；根據各項的研究表示，最好的選擇是更換和／或改進其前身方面的技術以創作另一種步槍，而主要的改進例子是：
@@ -29,32 +29,32 @@ Arms更購買其[特許生產證](https://zh.wikipedia.org/wiki/特許生產證 
   - [IMI Galil系列的重量](../Page/IMI_Galil突擊步槍.md "wikilink")。
   - 它的後坐力。
   - 容易具有擔任多個任務用途的武器（可以用來作為[狙擊步槍和使用各種配件](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")）。
-  - 使用標準的口徑，而且可以很容易改變（從[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑到](https://zh.wikipedia.org/wiki/口徑 "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，並且盡可能小許增加和修改[7.62×39毫米](../Page/7.62×39mm.md "wikilink")[苏联口徑](../Page/苏联.md "wikilink")）\[2\]
+  - 使用標準的口徑，而且可以很容易改變（從[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑到](https://zh.wikipedia.org/wiki/口徑 "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，並且盡可能小許增加和修改[7.62×39毫米](../Page/7.62×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")口徑）\[2\]
 
 加利爾ACE步槍事實上是由所生產，但其銷售權則歸於[以色列武器工業](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")（IWI）所有。
 
 ## 設計細節
 
 [ACE32.JPG](https://zh.wikipedia.org/wiki/File:ACE32.JPG "fig:ACE32.JPG")
-加利爾ACE步槍與其前身[IMI加利爾一樣是可選射自動武器](../Page/IMI_Galil突擊步槍.md "wikilink")。由鋼製造的可拆卸式沖壓機匣蓋由於比較厚重而且固定方式牢固，因此可在機匣蓋上整合了[MIL-STD-1913戰術導軌和位於後端的表尺基座](../Page/皮卡汀尼導軌.md "wikilink")。而[彈匣插口側護板](../Page/彈匣.md "wikilink")、等機匣下部零件皆由[聚合物製造](../Page/聚合物.md "wikilink")，以減少該槍的重量。
+加利爾ACE步槍與其前身[IMI加利爾一樣是可選射自動武器](../Page/IMI_Galil突擊步槍.md "wikilink")。由鋼製造的可拆卸式沖壓機匣蓋由於比較厚重而且固定方式牢固，因此可在機匣蓋上整合了[MIL-STD-1913戰術導軌和位於後端的表尺基座](../Page/皮卡汀尼導軌.md "wikilink")。而[彈匣](../Page/彈匣.md "wikilink")插口側護板、等機匣下部零件皆由[聚合物](../Page/聚合物.md "wikilink")製造，以減少該槍的重量。
 
-加利爾ACE採用了許多的現代技術和材料製造；取消了多個佔其重量一大部分的鋼板沖壓零部件，例如鋼製折疊式[槍托和瞄準具](../Page/槍托.md "wikilink")，並且以高科技複合材料取代和重新設計，使它更容易讓士兵操作以使其適應其個人喜好。另外增加了5條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，能夠讓士兵自行增加武器的性能。
+加利爾ACE採用了許多的現代技術和材料製造；取消了多個佔其重量一大部分的鋼板沖壓零部件，例如鋼製折疊式[槍托](../Page/槍托.md "wikilink")和瞄準具，並且以高科技複合材料取代和重新設計，使它更容易讓士兵操作以使其適應其個人喜好。另外增加了5條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，能夠讓士兵自行增加武器的性能。
 
 ### 操作系統
 
 由於加利爾ACE步槍的改進都主要集中在外部，內部結構上基本沒有改變。
 
-發射時，部分高壓[瓦斯氣體會通過](https://zh.wikipedia.org/wiki/瓦斯 "wikilink")1.8毫米（.071英吋）的氣導孔端口，接著30度角轉向至槍管上方的高壓瓦斯氣體管。高壓瓦斯氣體會驅動活塞（裝在槍機的上方），進而驅動活塞連桿和槍機向後。而向後推動時，槍機內部的鎖耳槽就會開始把槍機頭向右滾轉和向後滑動，令槍機解鎖，從而拋出彈殼。槍機上方的部分承托提供了一定的空間，使[槍管內的氣體壓力降低到安全水平之前解鎖](../Page/槍管.md "wikilink")。拋出彈殼後就會因為復進簧而令槍機機框向前復進，同時從彈匣取出下一發子彈到膛室。連接到槍機機框左[機匣和隨著每槍前後往復運動](https://zh.wikipedia.org/wiki/機匣 "wikilink")，並且留下拉機柄導槽以允許由左手直接操作，而射擊手仍可保持在的位置。
+發射時，部分高壓[瓦斯氣體會通過](https://zh.wikipedia.org/wiki/瓦斯 "wikilink")1.8毫米（.071英吋）的氣導孔端口，接著30度角轉向至槍管上方的高壓瓦斯氣體管。高壓瓦斯氣體會驅動活塞（裝在槍機的上方），進而驅動活塞連桿和槍機向後。而向後推動時，槍機內部的鎖耳槽就會開始把槍機頭向右滾轉和向後滑動，令槍機解鎖，從而拋出彈殼。槍機上方的部分承托提供了一定的空間，使[槍管](../Page/槍管.md "wikilink")內的氣體壓力降低到安全水平之前解鎖。拋出彈殼後就會因為復進簧而令槍機機框向前復進，同時從彈匣取出下一發子彈到膛室。連接到槍機機框左[機匣和隨著每槍前後往復運動](https://zh.wikipedia.org/wiki/機匣 "wikilink")，並且留下拉機柄導槽以允許由左手直接操作，而射擊手仍可保持在的位置。
 
 ### 槍機
 
 [Ace_32_close_stock.jpg](https://zh.wikipedia.org/wiki/File:Ace_32_close_stock.jpg "fig:Ace_32_close_stock.jpg")
-同樣由鋼製造的上[機匣內部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[轉拴式槍栓的兩個鎖耳可以令加利爾的膛室進入閉鎖狀態](../Page/轉拴式槍栓.md "wikilink")。同時5.56毫米口徑的ACE槍機上具有設有[空槍掛機](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。槍機保持開放的特點是軍隊系客戶的一個共同的要求，以加快了更換彈匣和再上膛的速度。\[3\]
+同樣由鋼製造的上[機匣內部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")的兩個鎖耳可以令加利爾的膛室進入閉鎖狀態。同時5.56毫米口徑的ACE槍機上具有設有[空槍掛機](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。槍機保持開放的特點是軍隊系客戶的一個共同的要求，以加快了更換彈匣和再上膛的速度。\[3\]
 
 ### 長行程活塞氣動式
 
 [Ace_52_side_2.jpg](https://zh.wikipedia.org/wiki/File:Ace_52_side_2.jpg "fig:Ace_52_side_2.jpg")
-加利爾系列突擊步槍使用來自[卡拉什尼科夫系列位於](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[槍管上方的](../Page/槍管.md "wikilink")[長行程活塞氣動式操作系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")，其好處是無需調節和採用都能夠射擊。長行程活塞系統除了在[M1加蘭德](../Page/M1加兰德步枪.md "wikilink")、AK-47，以至最近在[塔沃爾上亦有採用](../Page/IMI_TAR-21突擊步槍.md "wikilink")。
+加利爾系列突擊步槍使用來自[卡拉什尼科夫系列位於](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[槍管](../Page/槍管.md "wikilink")上方的[長行程活塞氣動式操作系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")，其好處是無需調節和採用都能夠射擊。長行程活塞系統除了在[M1加蘭德](../Page/M1加兰德步枪.md "wikilink")、AK-47，以至最近在[塔沃爾上亦有採用](../Page/IMI_TAR-21突擊步槍.md "wikilink")。
 
 ### 導氣管
 
@@ -62,21 +62,21 @@ Arms更購買其[特許生產證](https://zh.wikipedia.org/wiki/特許生產證 
 
 ### 拉機柄與防塵蓋
 
-仍然直接與槍機機框連在一起，而且隨著每槍前後往復運動，不過由原來自[機匣右側伸出並且向上](https://zh.wikipedia.org/wiki/機匣 "wikilink")90度彎曲讓左手從機匣蓋上操作（會因機匣蓋上裝上瞄準鏡支架而無法這樣使用）改為位於機匣左側並且留下拉機柄導槽以允許由左手直接操作。為了達到最大程度的可靠性保護使其在任何時候都不受[灰塵和](../Page/灰塵.md "wikilink")[污垢進入而影響](https://zh.wikipedia.org/wiki/污垢 "wikilink")，拉機柄導槽以彈簧定位式自動操作的大型保護，只在每次射擊期間自動打開，並且在每次射擊後自動關閉。\[5\]
+仍然直接與槍機機框連在一起，而且隨著每槍前後往復運動，不過由原來自[機匣右側伸出並且向上](https://zh.wikipedia.org/wiki/機匣 "wikilink")90度彎曲讓左手從機匣蓋上操作（會因機匣蓋上裝上瞄準鏡支架而無法這樣使用）改為位於機匣左側並且留下拉機柄導槽以允許由左手直接操作。為了達到最大程度的可靠性保護使其在任何時候都不受[灰塵](../Page/灰塵.md "wikilink")和[污垢進入而影響](https://zh.wikipedia.org/wiki/污垢 "wikilink")，拉機柄導槽以彈簧定位式自動操作的大型保護，只在每次射擊期間自動打開，並且在每次射擊後自動關閉。\[5\]
 
 ### 扳機
 
 加利爾ACE步槍採用了加利爾狙擊型扳機，而不是原來的加利爾型扳機，以提供比標準型加利爾得以提高的精度。\[6\]加利爾ACE步槍採用的是IWI以[M1加蘭德為藍本而製作的](../Page/M1加兰德步枪.md "wikilink")[兩道火扳機](https://zh.wikipedia.org/wiki/兩道火扳機 "wikilink")。\[7\]\[8\]
 
-根據（）[杂志的報導](../Page/杂志.md "wikilink")，兩道火扳機是“乾淨而平滑的，根據萊曼數字扳機計，其[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")4英鎊13盎司力”。\[9\]
+根據（）[杂志](../Page/杂志.md "wikilink")的報導，兩道火扳機是“乾淨而平滑的，根據萊曼數字扳機計，其[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")4英鎊13盎司力”。\[9\]
 
 ### 護木
 
-護木由原來為[聚合物護木改為配備一種整合了](../Page/聚合物.md "wikilink")[MIL-STD-1913戰術導軌的](../Page/皮卡汀尼導軌.md "wikilink")[鋁合金護木](../Page/鋁合金.md "wikilink")。這是加利爾ACE唯一加重的部份，不過由於重量增加不多，不影響整體減輕重量的目的。
+護木由原來為[聚合物](../Page/聚合物.md "wikilink")護木改為配備一種整合了[MIL-STD-1913戰術導軌的](../Page/皮卡汀尼導軌.md "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")護木。這是加利爾ACE唯一加重的部份，不過由於重量增加不多，不影響整體減輕重量的目的。
 
 ### 槍托
 
-[槍托由原來為鋼管折疊式槍托改為配備一種類似](../Page/槍托.md "wikilink")[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")、不過是自行設計的可伸縮調節式槍托。這樣改進了槍托抵肩面積很小的缺失，同時減少射擊時會感覺到的[後座力](../Page/後座力.md "wikilink")，加上槍托可伸縮調節以適應人員穿上[防彈背心的情況](https://zh.wikipedia.org/wiki/護甲 "wikilink")，令[人體工程學更為出色](../Page/人因工程学.md "wikilink")。槍托上可以加裝。整個槍托也可以根據需要更換為其他類型的。\[10\]
+[槍托](../Page/槍托.md "wikilink")由原來為鋼管折疊式槍托改為配備一種類似[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")、不過是自行設計的可伸縮調節式槍托。這樣改進了槍托抵肩面積很小的缺失，同時減少射擊時會感覺到的[後座力](../Page/後座力.md "wikilink")，加上槍托可伸縮調節以適應人員穿上[防彈背心的情況](https://zh.wikipedia.org/wiki/護甲 "wikilink")，令[人體工程學更為出色](../Page/人因工程学.md "wikilink")。槍托上可以加裝。整個槍托也可以根據需要更換為其他類型的。\[10\]
 
 ### 快慢機
 
@@ -88,30 +88,30 @@ Arms更購買其[特許生產證](https://zh.wikipedia.org/wiki/特許生產證 
 
 加利爾ACE
 21、22和23是[5.56×45毫米北約口徑](../Page/5.56×45mm_NATO.md "wikilink")，使用IMI
-Galil的彎形[钢製的](../Page/钢.md "wikilink")35或50發彈匣供彈，而且具有[空槍掛機功能](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")；亦可在彈匣插口裝上彈匣插槽以使用STANAG彈匣。
+Galil的彎形[钢](../Page/钢.md "wikilink")製的35或50發彈匣供彈，而且具有[空槍掛機功能](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")；亦可在彈匣插口裝上彈匣插槽以使用STANAG彈匣。
 
 加利爾ACE
 31和32是[7.62×39毫米蘇聯口徑](../Page/7.62×39mm.md "wikilink")，可直接使用[AK-47和](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[RPK的所有彈匣](../Page/RPK輕機槍.md "wikilink")（30或40發彈匣）或[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
 
 加利爾ACE 52、52
 L和53是[7.62×51毫米北約口徑](../Page/7.62×51mm_NATO.md "wikilink")，使用IMI
-Galil的直形[钢製的](../Page/钢.md "wikilink")25發彈匣供彈。
+Galil的直形[钢](../Page/钢.md "wikilink")製的25發彈匣供彈。
 
 另外還有加利爾ACE 21 N、22 N和23
 N，將彈匣插口改為彈匣插槽以兼容[M16步槍所使用的](../Page/M16突擊步槍.md "wikilink")20、30發[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。彈匣卡箏改為於[機匣左側](https://zh.wikipedia.org/wiki/機匣 "wikilink")、扳機護圈前方，具有寛大的防滑紋以便於操作。
 
 ### 瞄準具
 
-可調整風偏和仰角的L形的[照門有兩個預設的覘孔](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別在0—300米和300—500米時使用（照門仰角只能通過調整工具調節，工具為[烏茲衝鋒槍的](../Page/烏茲衝鋒槍.md "wikilink")[準星調整工具](../Page/照準器.md "wikilink")）。前端的準星是完全可調為偏差和零高度（平面），並且由一個保護圈來保護準星。在夜間戰鬥中瞄準時，使用的配有折疊式氚光夜視瞄準具通過照門上兩個亮點的中間與準星發光點和目標構成直線，有效瞄準距離100米。夜視瞄具豎直後，普通瞄具不能使用。
+可調整風偏和仰角的L形的[照門有兩個預設的覘孔](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別在0—300米和300—500米時使用（照門仰角只能通過調整工具調節，工具為[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")的[準星調整工具](../Page/照準器.md "wikilink")）。前端的準星是完全可調為偏差和零高度（平面），並且由一個保護圈來保護準星。在夜間戰鬥中瞄準時，使用的配有折疊式氚光夜視瞄準具通過照門上兩個亮點的中間與準星發光點和目標構成直線，有效瞄準距離100米。夜視瞄具豎直後，普通瞄具不能使用。
 
-[機匣蓋由過去](../Page/机匣.md "wikilink")[卡拉什尼科夫系列材料輕薄而且固定並不牢固的機匣蓋改為厚重而且固定方式牢固](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，因此機匣蓋頂部亦裝上了[MIL-STD-1913戰術導軌用以安裝](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪](../Page/热成像仪.md "wikilink")，取代原来[機匣左侧的](https://zh.wikipedia.org/wiki/機匣 "wikilink")。加上護木上方的戰術導軌長度就可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式，這可是華沙條約導軌所不能的安裝配置。
+[機匣蓋由過去](../Page/机匣.md "wikilink")[卡拉什尼科夫系列材料輕薄而且固定並不牢固的機匣蓋改為厚重而且固定方式牢固](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，因此機匣蓋頂部亦裝上了[MIL-STD-1913戰術導軌用以安裝](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")或[热成像仪](../Page/热成像仪.md "wikilink")，取代原来[機匣左侧的](https://zh.wikipedia.org/wiki/機匣 "wikilink")。加上護木上方的戰術導軌長度就可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式，這可是華沙條約導軌所不能的安裝配置。
 
 加利爾ACE 21 N、22 N和52
 L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木上方的戰術導軌整合在一起](../Page/机匣.md "wikilink")。
 
 ### 精度
 
-根據（）[杂志的報導](../Page/杂志.md "wikilink")，“雖然這種步槍顯然是以AK系列的設計為藍本，它表現出比其多個AK系列的表親更高水準的潛在[精度](../Page/準確與精密.md "wikilink")。使用聯邦尊貴型123[格令Power](https://zh.wikipedia.org/wiki/格令 "wikilink")-Shok
+根據（）[杂志](../Page/杂志.md "wikilink")的報導，“雖然這種步槍顯然是以AK系列的設計為藍本，它表現出比其多個AK系列的表親更高水準的潛在[精度](../Page/準確與精密.md "wikilink")。使用聯邦尊貴型123[格令Power](https://zh.wikipedia.org/wiki/格令 "wikilink")-Shok
 [軟頭型](https://zh.wikipedia.org/wiki/軟頭彈 "wikilink")[彈藥時](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，在100碼的最佳的散布範圍為0.83
 英吋，而五組散布範圍的平均精度為0.98 英吋。”\[11\]
 
@@ -125,7 +125,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 <th><p>型號</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/口徑" title="wikilink">口徑</a></p></th>
 <th><p>槍管長度</p></th>
-<th><p>長度（<a href="../Page/槍托.md" title="wikilink">槍托伸展</a>）</p></th>
+<th><p>長度（<a href="../Page/槍托.md" title="wikilink">槍托</a>伸展）</p></th>
 <th><p>長度（槍托縮折）</p></th>
 <th><p>總重量（空槍）</p></th>
 <th><p>供彈方式</p></th>
@@ -313,6 +313,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 [VII_Cumbre_Alianza_del_Pacífico_(8754541903).jpg](https://zh.wikipedia.org/wiki/File:VII_Cumbre_Alianza_del_Pacífico_\(8754541903\).jpg "fig:VII_Cumbre_Alianza_del_Pacífico_(8754541903).jpg")
 [Galil_ACE_32.jpg](https://zh.wikipedia.org/wiki/File:Galil_ACE_32.jpg "fig:Galil_ACE_32.jpg")
 
+  -
   -   - \[16\]：於2014年開始部署。\[17\]
 
   - —由當地經授權的生產。\[18\]
@@ -333,8 +334,10 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
       -
       -
   -
+  -
   -   - \[24\]
 
+  -
   -
   - —當地政府亦計劃由FAMAE特許生產，建立一間每月生產產量可達2,000枝加利爾ACE的[生產工廠](../Page/大量生產.md "wikilink")\[25\]\[26\]。
 
@@ -343,8 +346,9 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 
   -   - [蘇丹人民解放軍](https://zh.wikipedia.org/wiki/南蘇丹武裝力量 "wikilink")\[27\]
 
+  -
   -   - [越南人民军](../Page/越南人民军.md "wikilink")：ACE
-        31和32已被選定為新型制式突擊步槍，以逐步取代目前裝備的[AK-47系列衍生武器](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[28\]合同價值約1億[美元](../Page/美元.md "wikilink")，當中包括由IWI在[越南國防部協助以下設在北部](https://zh.wikipedia.org/wiki/越南國防部 "wikilink")[清化省的Z](../Page/清化省.md "wikilink")111兵工廠，為越南人民軍本土生產數目不詳的加利爾ACE突擊步槍。\[29\]\[30\]
+        31和32已被選定為新型制式突擊步槍，以逐步取代目前裝備的[AK-47系列衍生武器](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[28\]合同價值約1億[美元](../Page/美元.md "wikilink")，當中包括由IWI在[越南國防部協助以下設在北部](https://zh.wikipedia.org/wiki/越南國防部 "wikilink")[清化省](../Page/清化省.md "wikilink")的Z111兵工廠，為越南人民軍本土生產數目不詳的加利爾ACE突擊步槍。\[29\]\[30\]
 
   - —自2014年8月授權生產，ACE 22和ACE 31分別命名為“Fort-227”\[31\]和“Fort-228”\[32\]。
 
@@ -360,7 +364,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
     zh-tw:惡靈古堡5：天譴日;}-](../Page/生化危机：惩罚.md "wikilink")》（Resident
     Evil: Retribution）：型號為ACE 21，被詹姆斯“隊長One”陰影（Barry
     Burton，[林·薩爾蒙飾演](https://zh.wikipedia.org/wiki/林·薩爾蒙 "wikilink")）、貝利·巴頓（Barry
-    Burton，[凱文·杜蘭飾演](../Page/凱文·杜蘭.md "wikilink")）和[-{zh-cn:安布雷拉公司;
+    Burton，[凱文·杜蘭](../Page/凱文·杜蘭.md "wikilink")飾演）和[-{zh-cn:安布雷拉公司;
     zh-tw:保護傘公司;
     zh-hk:Umbrella公司;}-士兵所使用](https://zh.wikipedia.org/wiki/安布雷拉公司 "wikilink")。
   - 2014年—《[-{zh:機器戰警; zh-cn:机械战警; zh-hk:鐵甲威龍;
@@ -391,22 +395,22 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
     zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為ACE 23、ACE 52、ACE 21和ACE 53：
       - ACE 23命名為「ACE 23」（中文版則命名為「ACE
-        23突擊步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[突击步枪](../Page/突击步枪.md "wikilink")，35+1發[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為144發。單人故事模式之中可於完成下列任務「突擊專家」以後解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+        23突擊步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[突击步枪](../Page/突击步枪.md "wikilink")，35+1發[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為144發。單人故事模式之中可於完成下列任務「突擊專家」以後解鎖並且可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
         Recker）所使用或戰鬥期間所繳獲；多人聯機模式時為「突擊兵」（Assault）的解鎖武器包武器之一，於完成小任務「突擊專家」（獲得醫療勳帶50次、以使用任何突擊步槍擊殺200人和獲得突擊步槍勳帶10次）時解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器以及七件戰鬥包附件](../Page/抑制器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
       - ACE 52命名為「ACE 52 CQB」（中文版則命名為「ACE 52
-        CQB卡賓步槍」），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中可於「運河終幕」（Suez）戰役達到銀牌時解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+        CQB卡賓步槍」），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中可於「運河終幕」（Suez）戰役達到銀牌時解鎖並且可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
         Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到37,000點卡賓槍得分時才能解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
       - ACE 21命名為「ACE 21」（測試版時命名為「ACE 21 CQB」；中文版則命名為「ACE 21
-        CQB卡賓步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，35+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+        CQB卡賓步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，35+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
         Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到71,000點卡賓槍得分時才能解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
       - ACE 53命名為「ACE 53 SV」（中文版則命名為「ACE
-        53狙擊步槍」），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[精確射手步槍](../Page/精確射手步槍.md "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")。單人故事模式之中可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+        53狙擊步槍」），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[精確射手步槍](../Page/精確射手步槍.md "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")。單人故事模式之中可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
         Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到65,000點精確射手步槍得分時才能解鎖，並可以使用[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
   - 2014年—《[看門狗](../Page/看門狗_\(遊戲\).md "wikilink")》（Watch Dogs）：型號為ACE
     23，命名為“AC-AR”，雖改用30
     發[STANAG](../Page/STANAG彈匣.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，但只裝填20
     發，最高攜彈量為80
-    發，並裝上了[PSO-1光學瞄準鏡以及取消了](../Page/PSO-1光學瞄準鏡.md "wikilink")[護木頂部導軌](https://zh.wikipedia.org/wiki/護木 "wikilink")，價格為$17,500，可被主角艾登·皮爾斯（Aiden
+    發，並裝上了[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")以及取消了[護木頂部導軌](https://zh.wikipedia.org/wiki/護木 "wikilink")，價格為$17,500，可被主角艾登·皮爾斯（Aiden
     Pearce，由[諾姆·詹金斯配音](https://zh.wikipedia.org/wiki/諾姆·詹金斯 "wikilink")）作為[狙擊步槍所使用](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
   - 2014年—《[-{zh-hans:孤岛惊魂4; zh-hant:極地戰嚎4;
     zh-tw:極地戰嚎4;}-](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》（Far

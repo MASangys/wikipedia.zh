@@ -1,4 +1,4 @@
-**MIXION**（迷炫作用），台灣[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[張翔然和](https://zh.wikipedia.org/wiki/張翔然 "wikilink")[雷小胤組成](https://zh.wikipedia.org/wiki/雷小胤 "wikilink")，兩位成員均為[混血兒](../Page/混血兒.md "wikilink")。2012年11月16日發行首張同名EP，同時出道，在前已經歷約18個月的[歌唱及](https://zh.wikipedia.org/wiki/歌唱 "wikilink")[舞蹈訓練](../Page/舞蹈.md "wikilink")。\[1\]
+**MIXION**（迷炫作用），台灣[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[張翔然和](https://zh.wikipedia.org/wiki/張翔然 "wikilink")[雷小胤組成](https://zh.wikipedia.org/wiki/雷小胤 "wikilink")，兩位成員均為[混血兒](../Page/混血兒.md "wikilink")。2012年11月16日發行首張同名EP，同時出道，在前已經歷約18個月的[歌唱及](https://zh.wikipedia.org/wiki/歌唱 "wikilink")[舞蹈](../Page/舞蹈.md "wikilink")訓練。\[1\]
 
 ## 成員
 

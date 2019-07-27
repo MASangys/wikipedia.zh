@@ -1,5 +1,5 @@
 **兰博基尼Aventador LP
-700-4**是[兰博基尼生產的一款雙門雙座](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")，內部開發代號為LB834，首次公開亮相於2011年2月28日的[日內瓦車展上](https://zh.wikipedia.org/wiki/日內瓦車展 "wikilink")，並在車展中受到熱烈的追捧。\[1\]兰博基尼表示，自2011年起，Aventador將取代[兰博基尼Murciélago原本的位置成為其新的旗艦跑車](../Page/兰博基尼Murciélago.md "wikilink")。Aventador的售價相當昂貴，兰博基尼為其設定的建議零售價為379,700美元。\[2\]\[3\]\[4\]
+700-4**是[兰博基尼生產的一款雙門雙座](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")，內部開發代號為LB834，首次公開亮相於2011年2月28日的[日內瓦車展上](https://zh.wikipedia.org/wiki/日內瓦車展 "wikilink")，並在車展中受到熱烈的追捧。\[1\]兰博基尼表示，自2011年起，Aventador將取代[兰博基尼Murciélago](../Page/兰博基尼Murciélago.md "wikilink")原本的位置成為其新的旗艦跑車。Aventador的售價相當昂貴，兰博基尼為其設定的建議零售價為379,700美元。\[2\]\[3\]\[4\]
 
 和兰博基尼跑車的傳統命名法則一樣，Aventador這個名字也是來源於一頭獲得西班牙鬥牛賽獎杯的，擁有傳奇色彩的公牛。\[5\]\[6\]Aventador的產量將被限制在4000輛，\[7\]而曾經的兰博基尼Murciélago則總共生產了4099輛。兰博基尼官方聲稱Aventador比現在市面在售的兰博基尼跑車都要領先至少兩代，其使用了一級方程式賽車式的懸掛底盤，以及碳纖維材質的頂棚，\[8\]
 全車外觀的線條設計更是大量借鑒了限量版的[兰博基尼雷文頓以及](https://zh.wikipedia.org/wiki/兰博基尼雷文頓 "wikilink")[兰博基尼Sesto

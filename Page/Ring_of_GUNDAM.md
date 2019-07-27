@@ -3,18 +3,18 @@ Gundam**》是[SUNRISE制作的全CG](../Page/日昇動畫.md "wikilink")[动画
 
 ## 概要
 
-GUNDAM系列诞生30周年纪念，由[富野由悠季总执导](../Page/富野由悠季.md "wikilink")，SUNRISE和[ロボット共同制作的](https://zh.wikipedia.org/wiki/ロボット_\(企業\) "wikilink")5分36秒短編动画作品。2009年8月21日起
+GUNDAM系列诞生30周年纪念，由[富野由悠季](../Page/富野由悠季.md "wikilink")总执导，SUNRISE和[ロボット共同制作的](https://zh.wikipedia.org/wiki/ロボット_\(企業\) "wikilink")5分36秒短編动画作品。2009年8月21日起
 在[東京ビッグサイト举行的](https://zh.wikipedia.org/wiki/東京ビッグサイト "wikilink")「GUNDAM
 BIG EXPO」中公开放映。
 
 故事的整体并没有被完整透露，主人公エイジィ所驾驶的类似[RX-78-2
-GUNDAM的GUNDAM型](../Page/RX-78系列机动战士.md "wikilink")[机动战士和在宇宙空間中浮遊着的巨大圆环登場](../Page/机动战士.md "wikilink")。
+GUNDAM的GUNDAM型](../Page/RX-78系列机动战士.md "wikilink")[机动战士](../Page/机动战士.md "wikilink")和在宇宙空間中浮遊着的巨大圆环登場。
 
 应当指出的是，本作的标题也是“[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")”动画的未使用标题。
 
 ## 故事
 
-时间在[一年战争之后的未来](../Page/一年战争.md "wikilink")。舞台在[新世紀的地球圏](https://zh.wikipedia.org/wiki/新世紀 "wikilink")。
+时间在[一年战争](../Page/一年战争.md "wikilink")之后的未来。舞台在[新世紀的地球圏](https://zh.wikipedia.org/wiki/新世紀 "wikilink")。
 
 ## 登場人物
 

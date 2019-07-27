@@ -1,10 +1,10 @@
-**U28CG型柴油机车**是[美国](../Page/美国.md "wikilink")[通用电气公司于](../Page/通用电气.md "wikilink")1966年为[聖塔菲鐵路提供的一款干线客运](https://zh.wikipedia.org/wiki/艾奇遜，托皮卡和聖塔菲鐵路 "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。
+**U28CG型柴油机车**是[美国](../Page/美国.md "wikilink")[通用电气](../Page/通用电气.md "wikilink")公司于1966年为[聖塔菲鐵路提供的一款干线客运](https://zh.wikipedia.org/wiki/艾奇遜，托皮卡和聖塔菲鐵路 "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。
 
 ## 开发背景
 
 在1960年代末以前，[美国邮政部仍然与美国各大铁路公司保持合作关系](../Page/美國郵政署.md "wikilink")，通过加挂在[旅客列车编组内的](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")[邮政车来完成铁路邮递任务](https://zh.wikipedia.org/wiki/邮政车 "wikilink")，这对许多铁路公司而言是一个利润颇为可观的业务项目。当时[聖塔菲鐵路使用的客运机车大多都是](https://zh.wikipedia.org/wiki/艾奇遜，托皮卡和聖塔菲鐵路 "wikilink")1940年代引进的[易安迪](../Page/易安迪.md "wikilink")[F系列柴油机车](https://zh.wikipedia.org/wiki/易安迪F系列柴油机车 "wikilink")，包括[FT](../Page/FT型柴油机车.md "wikilink")、[F3](../Page/F3型柴油机车.md "wikilink")、[F7型柴油机车](../Page/F7型柴油机车.md "wikilink")。1966年，为了替换这些经过长年使用而老化的机车，聖塔菲鐵路决定尽快采购一批新型柴油机车。由于通用电气公司能够在最短时间内交付新车，而且通用电气公司还可以提供较优惠的[折价贴换](https://zh.wikipedia.org/wiki/折价贴换 "wikilink")，方便聖塔菲鐵路处理已被淘汰的旧型机车，因此聖塔菲鐵路最终决定向通用电气公司订购10台U28CG型柴油机车。
 
-U28CG型柴油机车是在[U28C型柴油机车基础上改良而成的干线客运柴油机车](../Page/U28C型柴油机车.md "wikilink")，型号当中的“U”代表“通用”系列、“28”代表单节功率为2800马力、“C”代表[机车轴式为](../Page/机车轴式.md "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")、“G”代表搭载有[蒸汽锅炉](https://zh.wikipedia.org/wiki/蒸汽锅炉 "wikilink")。除了增加蒸汽锅炉和改变齿轮传动比之外，U28CG型柴油机车与U28C型柴油机车并没有太大差异。
+U28CG型柴油机车是在[U28C型柴油机车](../Page/U28C型柴油机车.md "wikilink")基础上改良而成的干线客运柴油机车，型号当中的“U”代表“通用”系列、“28”代表单节功率为2800马力、“C”代表[机车轴式](../Page/机车轴式.md "wikilink")为[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")、“G”代表搭载有[蒸汽锅炉](https://zh.wikipedia.org/wiki/蒸汽锅炉 "wikilink")。除了增加蒸汽锅炉和改变齿轮传动比之外，U28CG型柴油机车与U28C型柴油机车并没有太大差异。
 
 U28CG型柴油机车仍沿用美国干线调车机车常用的单司机室外走廊的[罩式车体](https://zh.wikipedia.org/wiki/罩式车体 "wikilink")，而没有采用干线客运机车常用的[棚式车体](https://zh.wikipedia.org/wiki/棚式车体 "wikilink")，因此这款机车实际上是一款客货运通用的干线柴油机车。由于“通用”系列柴油机车在设计时已经预留了蒸汽锅炉的安装空间，因此U28CG型柴油机车的车体尺寸仍然与U28C型柴油机车保持相同。一台用来为旅客列车供暖的维帕-克萊森式蒸汽锅炉安装了司机室和动力室之间，车体下方部分空间还设有蒸汽锅炉专用的水箱和油箱，导致[燃油箱容量从](https://zh.wikipedia.org/wiki/燃油箱 "wikilink")3000加仑减少至2200加仑。
 

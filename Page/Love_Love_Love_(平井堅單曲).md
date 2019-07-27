@@ -1,5 +1,5 @@
 《**Love Love
-Love**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年5月30日發行。
+Love**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年5月30日發行。
 
 ## 概述
 
@@ -16,9 +16,9 @@ Love**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../
 
 ## 翻唱
 
-1.  女歌手[絢香出道前第一次公開表演就是在學校的體育館演唱](../Page/絢香.md "wikilink")《Love Love
-    Love》，並於2009年[FNS歌謠祭中與平井堅合唱](../Page/FNS歌謠祭.md "wikilink")。
-2.  2007年12月20日，絢香於[日本武道館演唱](../Page/日本武道館.md "wikilink")《想變堅強》，收錄在絢香第二張專輯《[Sing
+1.  女歌手[絢香](../Page/絢香.md "wikilink")出道前第一次公開表演就是在學校的體育館演唱《Love Love
+    Love》，並於2009年[FNS歌謠祭](../Page/FNS歌謠祭.md "wikilink")中與平井堅合唱。
+2.  2007年12月20日，絢香於[日本武道館](../Page/日本武道館.md "wikilink")演唱《想變堅強》，收錄在絢香第二張專輯《[Sing
     to the Sky](../Page/Sing_to_the_Sky.md "wikilink")》初回限定盤的DVD中。
 
 ## 外部連結

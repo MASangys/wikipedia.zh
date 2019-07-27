@@ -1,8 +1,8 @@
 [RawIsWar_Logo.png](https://zh.wikipedia.org/wiki/File:RawIsWar_Logo.png "fig:RawIsWar_Logo.png")
 
 **WWE Raw**（全名為**WWE Monday Night Raw**，亦稱為為**Monday Night
-Raw**，或簡稱**Raw**），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）[公司所制作的重頭](../Page/公司.md "wikilink")[節目之一](https://zh.wikipedia.org/wiki/節目 "wikilink")，於美國時間禮拜一播出於[USA](../Page/USA電視台.md "wikilink")，亦在全世界多個[國家都有轉播](https://zh.wikipedia.org/wiki/國家 "wikilink")。WWE
-Raw於1993年1月11日時在[USA電視台首播](../Page/USA電視台.md "wikilink")。\[1\]WWE
+Raw**，或簡稱**Raw**），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）[公司](../Page/公司.md "wikilink")所制作的重頭[節目之一](https://zh.wikipedia.org/wiki/節目 "wikilink")，於美國時間禮拜一播出於[USA](../Page/USA電視台.md "wikilink")，亦在全世界多個[國家都有轉播](https://zh.wikipedia.org/wiki/國家 "wikilink")。WWE
+Raw於1993年1月11日時在[USA電視台](../Page/USA電視台.md "wikilink")首播。\[1\]WWE
 Raw從開播到現在，被認為是世界摔角娛樂旗下的旗艦節目，再加上它的高[收視率以及高人氣](https://zh.wikipedia.org/wiki/收視率 "wikilink")，以至於WWE
 Raw一次就播出三個小時。
 

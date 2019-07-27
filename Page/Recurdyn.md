@@ -1,6 +1,6 @@
 **recurdyn**（recursive
 dynamic）仿真软件是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[function
-bay公司开发的一个基于](https://zh.wikipedia.org/wiki/function_bay "wikilink")[递归算法的](https://zh.wikipedia.org/wiki/递归算法 "wikilink")[多体动力学系统](https://zh.wikipedia.org/wiki/多体动力学 "wikilink")[仿真软件](../Page/仿真.md "wikilink")，其采用[相对坐标系运动方程](https://zh.wikipedia.org/wiki/相对坐标 "wikilink")。适合行业主要是通用机械领域、传送机械、汽车、航空航天、兵器行业、电子电器领域的仿真分析。
+bay公司开发的一个基于](https://zh.wikipedia.org/wiki/function_bay "wikilink")[递归算法的](https://zh.wikipedia.org/wiki/递归算法 "wikilink")[多体动力学系统](https://zh.wikipedia.org/wiki/多体动力学 "wikilink")[仿真](../Page/仿真.md "wikilink")软件，其采用[相对坐标系运动方程](https://zh.wikipedia.org/wiki/相对坐标 "wikilink")。适合行业主要是通用机械领域、传送机械、汽车、航空航天、兵器行业、电子电器领域的仿真分析。
 
 ## 主要模块
 

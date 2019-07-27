@@ -1,9 +1,9 @@
-是由[悠木碧和](../Page/悠木碧.md "wikilink")[竹达彩奈组成的](https://zh.wikipedia.org/wiki/竹达彩奈 "wikilink")[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")\[1\]。所属[唱片公司为](../Page/唱片公司.md "wikilink")。
+是由[悠木碧](../Page/悠木碧.md "wikilink")和[竹达彩奈组成的](https://zh.wikipedia.org/wiki/竹达彩奈 "wikilink")[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")\[1\]。所属[唱片公司](../Page/唱片公司.md "wikilink")为。
 
 ## 簡介
 
 petit
-milady最早只在[秋葉原UDX街头屏幕上展示了只有背影的神秘广告](../Page/秋葉原UDX.md "wikilink")“無法想像的新声优组合”\[2\]，之后在2013年3月21日公开全貌，並於同年5月15日发售团体第一张双主打单曲「」\[3\]。
+milady最早只在[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")街头屏幕上展示了只有背影的神秘广告“無法想像的新声优组合”\[2\]，之后在2013年3月21日公开全貌，並於同年5月15日发售团体第一张双主打单曲「」\[3\]。
 
 组合名称petit
 milady直译为“娇小的淑女”，这是竹达为了将娇小的二人“可爱之处表现出来”而提出的，和悠木提出的一词结合形成的。另外在组合名称决定的时候就已经决定公布了\[4\]。

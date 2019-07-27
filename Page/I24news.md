@@ -1,4 +1,4 @@
-**i24news**是一個報導國際與時事新聞的電視頻道，其總部設於[特拉維夫之](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")[雅法港](../Page/雅法.md "wikilink")，以[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")，[阿拉伯語播出](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")，所有人為Patrick
+**i24news**是一個報導國際與時事新聞的電視頻道，其總部設於[特拉維夫之](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")[雅法](../Page/雅法.md "wikilink")港，以[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")，[阿拉伯語播出](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")，所有人為Patrick
 Drahi，而執行長為Frank Melloul。
 
 該頻道自2013年7月17日開始播出，已僱用來自本地或世界不同地區約一百五十名記者\[1\]\[2\]，雖位在[以色列](../Page/以色列.md "wikilink")，但未提供[希伯來文報導](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")，因其目標非本地觀眾\[3\]，而是要向穆斯林族群和整個世界發聲，傳達以色列的觀點\[4\]，抗衡其他包括[半島電視台在內的](https://zh.wikipedia.org/wiki/半島電視台 "wikilink")[國際新聞頻道](../Page/國際新聞頻道.md "wikilink")，目前藉由衛星、有線及網路播出。

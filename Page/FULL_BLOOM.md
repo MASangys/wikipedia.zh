@@ -1,5 +1,5 @@
 《**FULL
-BLOOM**》是韩国女子音乐组合[Kara的第四张](../Page/Kara.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2013年9月2日由LOEN
+BLOOM**》是韩国女子音乐组合[Kara](../Page/Kara.md "wikilink")的第四张[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2013年9月2日由LOEN
 Entertainment代理發行。
 
 ## 概括

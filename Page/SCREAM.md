@@ -1,4 +1,4 @@
-《**SCREAM**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起在日本发行的第](../Page/東方神起.md "wikilink")38张[单曲](../Page/单曲.md "wikilink")。于2013年9月4日由[avex
+《**SCREAM**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第38张[单曲](../Page/单曲.md "wikilink")。于2013年9月4日由[avex
 trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
@@ -19,13 +19,13 @@ trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
       -
         作詞：H.U.B.、作曲・編曲：hitchhiker
     <!-- end list -->
-      - [角川書店制作电影](../Page/角川書店.md "wikilink")《[貞子3D2](../Page/貞子3D2.md "wikilink")》主題歌
+      - [角川書店](../Page/角川書店.md "wikilink")制作电影《[貞子3D2](../Page/貞子3D2.md "wikilink")》主題歌
       - 日本全国音乐信息节目《Music B.B.》2013年9月片尾曲
 2.  《Disvelocity》 \[4:09\]
       -
         作詞：H.U.B.、作曲：Anders Grahn・Emil Carlin、編曲：Emil Carlin
     <!-- end list -->
-      - [TBS电视台](../Page/TBS.md "wikilink")《》（）2013年9月片尾曲
+      - [TBS](../Page/TBS.md "wikilink")电视台《》（）2013年9月片尾曲
 3.  《SCREAM》 -Less Vocal-
 4.  《Disvelocity》 -Less Vocal-
 

@@ -1,5 +1,5 @@
 《**DARK &
-WILD**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團首張韓語正規專輯](../Page/防彈少年團.md "wikilink")\[1\]，在2014年8月20日由[Big
+WILD**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")首張韓語正規專輯\[1\]，在2014年8月20日由[Big
 Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")
 ，主打曲目為〈Danger〉，後續曲為〈荷爾蒙戰爭〉。
 

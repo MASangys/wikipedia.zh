@@ -1,5 +1,5 @@
 **週刊文春推理小說 Best
-10**（**週刊文春ミステリーベスト10**）是[日本](../Page/日本.md "wikilink")《[週刊文春](https://zh.wikipedia.org/wiki/週刊文春 "wikilink")》[推理小說排行榜](../Page/推理小說.md "wikilink")，從1977年開始。
+10**（**週刊文春ミステリーベスト10**）是[日本](../Page/日本.md "wikilink")《[週刊文春](https://zh.wikipedia.org/wiki/週刊文春 "wikilink")》[推理小說](../Page/推理小說.md "wikilink")排行榜，從1977年開始。
 
 ## 歷年排行
 

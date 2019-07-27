@@ -1,4 +1,4 @@
-是[育碧开发的一款潜艇模拟类](../Page/育碧.md "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")，2005年3月15日发行。它是[猎杀潜航系列的第三代作品](../Page/猎杀潜航系列.md "wikilink")，与一代不同，玩家在其中扮演的不是美军，而是[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")[U艇的艇长](https://zh.wikipedia.org/wiki/U艇 "wikilink")。本作也是系列中首次采用3D图像引擎的作品，相对于前两代作品，建模更加逼真细致，[救生艇的帆布](https://zh.wikipedia.org/wiki/救生艇 "wikilink")、[甲板上的艇员都得以表现](https://zh.wikipedia.org/wiki/甲板 "wikilink")。\[1\]\[2\]
+是[育碧](../Page/育碧.md "wikilink")开发的一款潜艇模拟类[电脑游戏](../Page/电脑游戏.md "wikilink")，2005年3月15日发行。它是[猎杀潜航系列](../Page/猎杀潜航系列.md "wikilink")的第三代作品，与一代不同，玩家在其中扮演的不是美军，而是[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")[U艇的艇长](https://zh.wikipedia.org/wiki/U艇 "wikilink")。本作也是系列中首次采用3D图像引擎的作品，相对于前两代作品，建模更加逼真细致，[救生艇的帆布](https://zh.wikipedia.org/wiki/救生艇 "wikilink")、[甲板上的艇员都得以表现](https://zh.wikipedia.org/wiki/甲板 "wikilink")。\[1\]\[2\]
 
 ## 游戏系统
 
@@ -16,7 +16,7 @@ Oesten。\[5\]
 
 ## 评价
 
-本作在评论界获得了积极评价。[IGN打出了](../Page/IGN.md "wikilink")88分，认为该游戏“值得等待”；而[GameSpy则为该游戏打了满分](../Page/GameSpy.md "wikilink")，认为它可以与《F-19》、《Longbow
+本作在评论界获得了积极评价。[IGN](../Page/IGN.md "wikilink")打出了88分，认为该游戏“值得等待”；而[GameSpy](../Page/GameSpy.md "wikilink")则为该游戏打了满分，认为它可以与《F-19》、《Longbow
 2》、《欧洲空战》相提并论。\[6\]
 
 ## 参考资料

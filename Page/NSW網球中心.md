@@ -1,4 +1,4 @@
-**NSW網球中心**是一座位於[新南威爾斯州](https://zh.wikipedia.org/wiki/新南威爾斯州 "wikilink")[雪梨的網球中心](https://zh.wikipedia.org/wiki/雪梨 "wikilink")。[2000年夏季奧林匹克運動會網球比賽於此舉行](https://zh.wikipedia.org/wiki/2000年夏季奧林匹克運動會 "wikilink")，2000年開始[雪梨國際賽每年就於此舉行](../Page/雪梨國際賽.md "wikilink")。
+**NSW網球中心**是一座位於[新南威爾斯州](https://zh.wikipedia.org/wiki/新南威爾斯州 "wikilink")[雪梨的網球中心](https://zh.wikipedia.org/wiki/雪梨 "wikilink")。[2000年夏季奧林匹克運動會網球比賽於此舉行](https://zh.wikipedia.org/wiki/2000年夏季奧林匹克運動會 "wikilink")，2000年開始[雪梨國際賽](../Page/雪梨國際賽.md "wikilink")每年就於此舉行。
 
 ## 圖片
 

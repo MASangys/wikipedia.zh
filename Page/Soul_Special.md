@@ -13,7 +13,7 @@ N頻道以及網路平台](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[Cywor
 
 ## 劇情簡介
 
-剛從國外留學歸來的作曲家陳美雅（[韓孝周飾](../Page/韓孝周.md "wikilink")），偶然在停車場發現了酒醉後不省人事的醫生劉吉（[金東昱飾](https://zh.wikipedia.org/wiki/金東昱 "wikilink")），並把他用車子帶回了旅館。原本提倡單身主義的美雅，因留學的孤單與寂寞，與劉吉二人之間產生了愛情，而劉吉也因美雅而重新振作起來。美雅的好朋友閔世姬（[李彩英飾](https://zh.wikipedia.org/wiki/李彩英 "wikilink")）在一間賓館任職，是個現實主義者，但最終還是被樸秀浩（[K.Will飾](https://zh.wikipedia.org/wiki/K.Will "wikilink")）所打動並墜入愛河，兩人因此步入禮堂。
+剛從國外留學歸來的作曲家陳美雅（[韓孝周](../Page/韓孝周.md "wikilink")飾），偶然在停車場發現了酒醉後不省人事的醫生劉吉（[金東昱飾](https://zh.wikipedia.org/wiki/金東昱 "wikilink")），並把他用車子帶回了旅館。原本提倡單身主義的美雅，因留學的孤單與寂寞，與劉吉二人之間產生了愛情，而劉吉也因美雅而重新振作起來。美雅的好朋友閔世姬（[李彩英飾](https://zh.wikipedia.org/wiki/李彩英 "wikilink")）在一間賓館任職，是個現實主義者，但最終還是被樸秀浩（[K.Will飾](https://zh.wikipedia.org/wiki/K.Will "wikilink")）所打動並墜入愛河，兩人因此步入禮堂。
 
 ## 演員陣容
 

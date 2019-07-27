@@ -1,6 +1,6 @@
 **Eleanor
 Rigby**是[英國樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")[The
-Beatles](https://zh.wikipedia.org/wiki/披頭四 "wikilink")1966年發行的[單曲及](https://zh.wikipedia.org/wiki/單曲 "wikilink")[Revolver專輯曲目之一](https://zh.wikipedia.org/wiki/Revolver "wikilink")，由[Paul所寫](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")。歌曲中包含了抒發生活沉悶的歌詞，以及弦樂八重奏（四部[小提琴](../Page/小提琴.md "wikilink")、兩部[中提琴和](../Page/中提琴.md "wikilink")[大提琴](../Page/大提琴.md "wikilink")）的伴奏。此歌是[E小調](../Page/E小調.md "wikilink")，並於旋律中運用，升高C音。
+Beatles](https://zh.wikipedia.org/wiki/披頭四 "wikilink")1966年發行的[單曲及](https://zh.wikipedia.org/wiki/單曲 "wikilink")[Revolver專輯曲目之一](https://zh.wikipedia.org/wiki/Revolver "wikilink")，由[Paul所寫](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")。歌曲中包含了抒發生活沉悶的歌詞，以及弦樂八重奏（四部[小提琴](../Page/小提琴.md "wikilink")、兩部[中提琴](../Page/中提琴.md "wikilink")和[大提琴](../Page/大提琴.md "wikilink")）的伴奏。此歌是[E小調](../Page/E小調.md "wikilink")，並於旋律中運用，升高C音。
 
 ## 創作
 
@@ -29,7 +29,7 @@ the words of a sermon that no one will hear"（寫沒有人會聽的佈道講詞
 Eleanor Rigby 標誌了 The Beatles
 由主要作現場表演的[流行音樂轉為主要用於錄音的](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[實驗音樂](../Page/實驗音樂.md "wikilink")。[The
 Who](https://zh.wikipedia.org/wiki/何許人合唱團 "wikilink")
-的[皮特·汤申德於](../Page/皮特·汤申德.md "wikilink")1967年說道：「Eleanor
+的[皮特·汤申德](../Page/皮特·汤申德.md "wikilink")於1967年說道：「Eleanor
 Rigby 是音樂上一個很重要的進步，它啟發了我去聆聽及創作該類型的音樂。」
 
 即使 Eleanor Rigby

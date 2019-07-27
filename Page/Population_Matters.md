@@ -1,13 +1,13 @@
-****（[双关语](https://zh.wikipedia.org/wiki/双关语 "wikilink")，可理解为**人口事情**\[1\]或**人口至关重要**\[2\]或**人口控制运动**\[3\]）是一个注册於[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[慈善组织](../Page/慈善组织.md "wikilink")、[智庫及](../Page/智庫.md "wikilink")[倡导团体](https://zh.wikipedia.org/wiki/倡导团体 "wikilink")，前身为“理想人口信托”（"Optimum
+****（[双关语](https://zh.wikipedia.org/wiki/双关语 "wikilink")，可理解为**人口事情**\[1\]或**人口至关重要**\[2\]或**人口控制运动**\[3\]）是一个注册於[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[慈善组织](../Page/慈善组织.md "wikilink")、[智庫](../Page/智庫.md "wikilink")及[倡导团体](https://zh.wikipedia.org/wiki/倡导团体 "wikilink")，前身为“理想人口信托”（"Optimum
 Population
-Trust"）\[4\]。该组织致力于呼吁大众关注[人口增長對於永續性](https://zh.wikipedia.org/wiki/人口过多 "wikilink")、[生活品質和](https://zh.wikipedia.org/wiki/生活品質 "wikilink")[自然環境](https://zh.wikipedia.org/wiki/自然環境 "wikilink")（尤其是[自然資源](https://zh.wikipedia.org/wiki/自然資源 "wikilink")、[氣候變遷和](../Page/氣候變遷.md "wikilink")[生物多樣性](../Page/生物多樣性.md "wikilink")）的影響。
+Trust"）\[4\]。该组织致力于呼吁大众关注[人口增長對於永續性](https://zh.wikipedia.org/wiki/人口过多 "wikilink")、[生活品質和](https://zh.wikipedia.org/wiki/生活品質 "wikilink")[自然環境](https://zh.wikipedia.org/wiki/自然環境 "wikilink")（尤其是[自然資源](https://zh.wikipedia.org/wiki/自然資源 "wikilink")、[氣候變遷](../Page/氣候變遷.md "wikilink")和[生物多樣性](../Page/生物多樣性.md "wikilink")）的影響。
 
 ## 背景
 
 该组织的前身「理想人口信托」（"Optimum Population Trust"）成立於1991年，2001年起採用「Population
 Matters」為倡議活動的名稱。該機構主要研究人口數量與其它各種問題的相關性，如[气候变化](https://zh.wikipedia.org/wiki/气候变化 "wikilink")、[能源需求以及](https://zh.wikipedia.org/wiki/能源危机 "wikilink")[生物多样性等等](https://zh.wikipedia.org/wiki/生物多样性 "wikilink")。它致力於推動英国及世界，传播減少人口数量至永續水平的觀念。2009年，该组织公布的一项研究称[避孕是解決气候变化最廉价的方式](https://zh.wikipedia.org/wiki/避孕 "wikilink")。\[5\]
 
-该组织声称其协调目标是：改进提供[计划生育和](../Page/计划生育.md "wikilink")[性教育](../Page/性教育.md "wikilink")，更好的教育以及妇女权利，而且夫妻自愿「有两个或更少」。在英国国内，它主张“以更大努力减少少女怀孕和意外怀孕的比率”和“移民带入平衡移民”。
+该组织声称其协调目标是：改进提供[计划生育](../Page/计划生育.md "wikilink")和[性教育](../Page/性教育.md "wikilink")，更好的教育以及妇女权利，而且夫妻自愿「有两个或更少」。在英国国内，它主张“以更大努力减少少女怀孕和意外怀孕的比率”和“移民带入平衡移民”。
 
 ### 关注人口
 
@@ -30,9 +30,9 @@ future.")\[6\]
 
 ### 部分贊助者
 
-  - [戴維·阿滕伯勒爵士](../Page/戴維·阿滕伯勒.md "wikilink")，[博物學家](https://zh.wikipedia.org/wiki/博物學家 "wikilink")，廣播員和[皇家植物园受托人](../Page/邱园.md "wikilink")。\[10\]
+  - [戴維·阿滕伯勒](../Page/戴維·阿滕伯勒.md "wikilink")爵士，[博物學家](https://zh.wikipedia.org/wiki/博物學家 "wikilink")，廣播員和[皇家植物园受托人](../Page/邱园.md "wikilink")。\[10\]
   - [莉莉·高爾](../Page/莉莉·高爾.md "wikilink")，模特兒，演员，慈善工作者及[环保运动者](https://zh.wikipedia.org/wiki/环保 "wikilink")。
-  - [珍·古道尔博士](../Page/珍·古道尔.md "wikilink")，[灵长类动物学家](https://zh.wikipedia.org/wiki/灵长类学 "wikilink")，[行为生态学家](../Page/动物行为学.md "wikilink")，[人类学家](../Page/人类学.md "wikilink")，[联合国和平使者](https://zh.wikipedia.org/wiki/联合国和平使者 "wikilink")。
+  - [珍·古道尔](../Page/珍·古道尔.md "wikilink")博士，[灵长类动物学家](https://zh.wikipedia.org/wiki/灵长类学 "wikilink")，[行为生态学家](../Page/动物行为学.md "wikilink")，[人类学](../Page/人类学.md "wikilink")家，[联合国和平使者](https://zh.wikipedia.org/wiki/联合国和平使者 "wikilink")。
   - [蘭諾·絲薇佛](../Page/蘭諾·絲薇佛.md "wikilink")，记者，作家。
 
 ## 历史
@@ -41,7 +41,7 @@ future.")\[6\]
 
 该组织前身“理想人口信托”由大卫·威利等人于1991年成立。「因认为英国政府未能对一系列关于人口增长和可持续发展的建议作出积极反应，他们不得不自己采取行动。」他们的目标是收集、分析和传播有关“全球各国人口”、“居民和移民与承载能力”和“生活品质”的信息与联系，以作为决策的参考依据。\[12\]
 
-该组织分析和四处游说受人口增长所影响的各种问题，包括[社会福利](../Page/社会福利.md "wikilink")，教育，劳动力供给，人口[老龄化](https://zh.wikipedia.org/wiki/老龄化 "wikilink")，[移民和环境](../Page/移民.md "wikilink")。它还游说需要把人口问题纳入其思想发展和社会活动。他们也游说其他一些社会活动家或环境活动人士，让他们将人口问题作为一个重要因素加以考虑。\[13\]
+该组织分析和四处游说受人口增长所影响的各种问题，包括[社会福利](../Page/社会福利.md "wikilink")，教育，劳动力供给，人口[老龄化](https://zh.wikipedia.org/wiki/老龄化 "wikilink")，[移民](../Page/移民.md "wikilink")和环境。它还游说需要把人口问题纳入其思想发展和社会活动。他们也游说其他一些社会活动家或环境活动人士，让他们将人口问题作为一个重要因素加以考虑。\[13\]
 
 2006年5月9日，该组织被授予慈善团体的地位。\[14\]
 

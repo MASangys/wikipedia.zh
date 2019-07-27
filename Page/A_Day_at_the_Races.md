@@ -1,5 +1,5 @@
 **A Day at the
-Races**是英国摇滚乐团[皇后乐队的第五张专辑](../Page/皇后乐队.md "wikilink")。由[皇后乐队制作](../Page/皇后乐队.md "wikilink")，1976年12月10日由唱片公司[EMI在英国发行](../Page/EMI.md "wikilink")，由唱片公司Elektra在美国发行。\[1\]
+Races**是英国摇滚乐团[皇后乐队](../Page/皇后乐队.md "wikilink")的第五张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")制作，1976年12月10日由唱片公司[EMI](../Page/EMI.md "wikilink")在英国发行，由唱片公司Elektra在美国发行。\[1\]
 
 ## 歌曲列表
 

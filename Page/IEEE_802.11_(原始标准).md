@@ -5,10 +5,10 @@
 
 ## 描述
 
-该标准定义了在[红外线波段上或通过](../Page/红外线.md "wikilink")[跳频或](https://zh.wikipedia.org/wiki/跳频 "wikilink")[DSSS方式在](https://zh.wikipedia.org/wiki/DSSS "wikilink")2.4GHz
-[ISM频段上进行数据传输](../Page/ISM频段.md "wikilink")，实现了1Mbps和2Mbps这两种速率。但并没有实际产品实现红外传输。
+该标准定义了在[红外线](../Page/红外线.md "wikilink")波段上或通过[跳频或](https://zh.wikipedia.org/wiki/跳频 "wikilink")[DSSS方式在](https://zh.wikipedia.org/wiki/DSSS "wikilink")2.4GHz
+[ISM频段](../Page/ISM频段.md "wikilink")上进行数据传输，实现了1Mbps和2Mbps这两种速率。但并没有实际产品实现红外传输。
 
-[介质访问控制上](../Page/介质访问控制.md "wikilink")，标准采用[载波侦听多路访问／冲突避免的方式](https://zh.wikipedia.org/wiki/载波侦听多路访问#CSMA.2FCA "wikilink")。按照这种方式，信道能力的很重要的一部分被占用，用以提高各种环境下的数据传输的可靠性。
+[介质访问控制](../Page/介质访问控制.md "wikilink")上，标准采用[载波侦听多路访问／冲突避免的方式](https://zh.wikipedia.org/wiki/载波侦听多路访问#CSMA.2FCA "wikilink")。按照这种方式，信道能力的很重要的一部分被占用，用以提高各种环境下的数据传输的可靠性。
 
 至少有六种不同的商业产品使用该协议，并实现了部分的可互操作性和兼容。这些产品来自[Alvarion](https://zh.wikipedia.org/wiki/Alvarion "wikilink"),
 [BreezeCom](https://zh.wikipedia.org/wiki/BreezeCom "wikilink"),

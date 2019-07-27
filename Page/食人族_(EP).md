@@ -1,4 +1,4 @@
-《食人族》（）為[美國歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[凱莎於](../Page/凱莎.md "wikilink")2010年11月19日發行的首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，美國本土由[RCA發行](https://zh.wikipedia.org/wiki/RCA_Records "wikilink")，美國本土以外由[索尼音樂娛樂發行](../Page/索尼音樂娛樂.md "wikilink")。
+《食人族》（）為[美國歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[凱莎](../Page/凱莎.md "wikilink")於2010年11月19日發行的首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，美國本土由[RCA發行](https://zh.wikipedia.org/wiki/RCA_Records "wikilink")，美國本土以外由[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")發行。
 
 ## 簡介
 
@@ -10,7 +10,7 @@
 《[莎世代](https://zh.wikipedia.org/wiki/莎世代 "wikilink")》（）是EP中的首波主打單曲，於2010年10月22日發行\[2\]，凱莎表示他對於青少年自殺有所感觸，特別是[Tyler
 Clementi因被室友出櫃而自殺的事件](https://zh.wikipedia.org/wiki/Suicide_of_Tyler_Clementi "wikilink")\[3\]。她認為每個人應該努力「變得更好」以及及「慶祝自己」（celebrate
 who you are），這首歌是來自對於「慶祝自己」的情感。\[4\]
-《莎世代》獲得了[告示牌百強單曲榜冠軍](https://zh.wikipedia.org/wiki/告示牌百強單曲榜 "wikilink")，銷售約280,000張（數位）。\[5\]另外在[澳洲也拿下冠軍](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[英國與](https://zh.wikipedia.org/wiki/英國 "wikilink")[加拿大則是第](../Page/加拿大.md "wikilink")2名。\[6\]\[7\]樂評給與此歌正面的評價，是一首有著強烈的鼓點、激勵人心的訊息、以及真正的幽默。\[8\]
+《莎世代》獲得了[告示牌百強單曲榜冠軍](https://zh.wikipedia.org/wiki/告示牌百強單曲榜 "wikilink")，銷售約280,000張（數位）。\[5\]另外在[澳洲也拿下冠軍](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[英國與](https://zh.wikipedia.org/wiki/英國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")則是第2名。\[6\]\[7\]樂評給與此歌正面的評價，是一首有著強烈的鼓點、激勵人心的訊息、以及真正的幽默。\[8\]
 
 《[駭到爆炸](https://zh.wikipedia.org/wiki/駭到爆炸 "wikilink")》（）為EP第二波主打單曲，首次於2011年2月8日在美國的廣播打單。\[9\]樂評給與此曲多為正面或混合的評價，樂評大多認為此曲的hook以及開頭是值得讚許，但對於副歌部分的意見相左，有些認為這首歌帶來了派對氣氛，有些則認為相當平淡而普通。\[10\]\[11\]但依然在美國及加拿大有不錯成績，是她連續六張都在TOP10內的單曲。\[12\]\[13\]另外也在紐西蘭與加拿大發行。\[14\]
 

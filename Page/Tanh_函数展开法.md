@@ -41,7 +41,7 @@
 
 ## 实例
 
-用tanh函数展开法求[KdV方程的行波解](../Page/KdV方程.md "wikilink")\[2\]。
+用tanh函数展开法求[KdV方程](../Page/KdV方程.md "wikilink")的行波解\[2\]。
 
 \[\partial_t\phi+6\phi\partial_x\phi+\partial^3_x\phi=0\]
 
@@ -101,7 +101,7 @@ sech, sin, sinh, tan, tanh 等。
 
 ## 软件包
 
-[Maple商业计算机代数系统内包括一个求解偏微分方程的软件包](../Page/Maple.md "wikilink")，可用于多种非线性性偏微分方程，求得显式解析解。这个软件包称为为**TWSolutions**,功能丰富，可求多数非线性偏微分方程的行波解，但仍非万能，对有些非线性偏微分方程无解或只有平凡解\[3\]
+[Maple](../Page/Maple.md "wikilink")商业计算机代数系统内包括一个求解偏微分方程的软件包，可用于多种非线性性偏微分方程，求得显式解析解。这个软件包称为为**TWSolutions**,功能丰富，可求多数非线性偏微分方程的行波解，但仍非万能，对有些非线性偏微分方程无解或只有平凡解\[3\]
 
   - 基本用法
 

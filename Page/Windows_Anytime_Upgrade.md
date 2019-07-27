@@ -1,5 +1,5 @@
 **Windows Anytime
-Upgrade**是由[微软及其授權经销商所提供的升级方法](../Page/微软.md "wikilink")，提供給任何想升级[Windows
+Upgrade**是由[微软](../Page/微软.md "wikilink")及其授權经销商所提供的升级方法，提供給任何想升级[Windows
 Vista或](../Page/Windows_Vista.md "wikilink")[Windows
 7的用戶](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")(例如：从家庭普通版升级到旗舰版)。在Windows
 7版本中，Windows Anytime
@@ -24,7 +24,7 @@ Upgrade依次升级到Windows的更高版本。\[4\]\[5\]
 ## Windows Anytime Upgrade Packs升级包
 
 为了扩展Windows Anytime
-Upgrade有限的供应和访问性，微软于2007年5月在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[EMEA和](https://zh.wikipedia.org/wiki/EMEA "wikilink")[亚太地区国家发布了Windows](../Page/亚太地区.md "wikilink")
+Upgrade有限的供应和访问性，微软于2007年5月在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[EMEA和](https://zh.wikipedia.org/wiki/EMEA "wikilink")[亚太地区](../Page/亚太地区.md "wikilink")国家发布了Windows
 Anytime Upgrade
 Packs。\[6\]这些包可在零售商和[網路商店获得](https://zh.wikipedia.org/wiki/網路商店 "wikilink")。
 

@@ -1,4 +1,4 @@
-****生日為，是一名於[Niconico動畫及](../Page/Niconico動畫.md "wikilink")[YouTube上公開發表樂曲的](../Page/YouTube.md "wikilink")[VOCALOID歌曲創作者](../Page/VOCALOID.md "wikilink")。\[1\]
+****生日為，是一名於[Niconico動畫](../Page/Niconico動畫.md "wikilink")及[YouTube](../Page/YouTube.md "wikilink")上公開發表樂曲的[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲創作者。\[1\]
 \[2\]
 
 ## 簡介

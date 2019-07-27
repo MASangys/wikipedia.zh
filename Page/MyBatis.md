@@ -1,4 +1,4 @@
-**MyBatis**是一个[Java](../Page/Java.md "wikilink")[持久化框架](https://zh.wikipedia.org/wiki/持久化框架 "wikilink")，它通过[XML描述符或注解把](../Page/XML.md "wikilink")[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[存储过程或](https://zh.wikipedia.org/wiki/存储过程 "wikilink")[SQL语句关联起来](../Page/SQL.md "wikilink")。
+**MyBatis**是一个[Java](../Page/Java.md "wikilink")[持久化框架](https://zh.wikipedia.org/wiki/持久化框架 "wikilink")，它通过[XML](../Page/XML.md "wikilink")描述符或注解把[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[存储过程或](https://zh.wikipedia.org/wiki/存储过程 "wikilink")[SQL](../Page/SQL.md "wikilink")语句关联起来。
 
 MyBatis是在[Apache许可证](../Page/Apache许可证.md "wikilink")
 2.0下分发的[自由软件](../Page/自由软件.md "wikilink")，是[iBATIS](https://zh.wikipedia.org/wiki/iBATIS "wikilink")
@@ -6,7 +6,7 @@ MyBatis是在[Apache许可证](../Page/Apache许可证.md "wikilink")
 
 ## 功能概况
 
-与其他的[对象关系映射框架不同](../Page/对象关系映射.md "wikilink")，MyBatis并没有将[Java](../Page/Java.md "wikilink")[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[数据库表关联起来](../Page/数据库.md "wikilink")，而是将Java方法与[SQL语句关联](../Page/SQL.md "wikilink")。MyBatis允许用户充分利用[数据库的各种功能](../Page/数据库.md "wikilink")，例如存储过程、[视图](../Page/视图.md "wikilink")、各种复杂的查询以及某数据库的专有特性。如果要对遗留数据库、不规范的数据库进行操作，或者要完全控制SQL的执行，MyBatis是一个不错的选择。
+与其他的[对象关系映射](../Page/对象关系映射.md "wikilink")框架不同，MyBatis并没有将[Java](../Page/Java.md "wikilink")[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[数据库](../Page/数据库.md "wikilink")表关联起来，而是将Java方法与[SQL](../Page/SQL.md "wikilink")语句关联。MyBatis允许用户充分利用[数据库](../Page/数据库.md "wikilink")的各种功能，例如存储过程、[视图](../Page/视图.md "wikilink")、各种复杂的查询以及某数据库的专有特性。如果要对遗留数据库、不规范的数据库进行操作，或者要完全控制SQL的执行，MyBatis是一个不错的选择。
 
 与[JDBC相比](https://zh.wikipedia.org/wiki/JDBC "wikilink")，MyBatis简化了相关代码：SQL语句在一行代码中就能执行。MyBatis提供了一个映射引擎，声明式的把SQL语句执行结果与对象树映射起来。通过使用一种内建的类XML表达式语言，或者使用[Apache
 Velocity集成的插件](../Page/Apache_Velocity.md "wikilink")，SQL语句可以被动态的生成。
@@ -17,11 +17,11 @@ Framework和](../Page/Spring_Framework.md "wikilink")集成，这使开发者免
 MyBatis支持声明式数据缓存（declarative data
 caching）。当一条SQL语句被标记为“可缓存”后，首次执行它时从数据库取得的所有数据会被存储在一段[高速缓存中](https://zh.wikipedia.org/wiki/高速缓存 "wikilink")，今后执行这条语句时就会从高速缓存中读取结果，而不是再次命中数据库。MyBatis提供了基于
 Java HashMap
-的默认缓存实现，以及用于与、、和[Memcached连接的默认连接器](../Page/Memcached.md "wikilink")。MyBatis还提供[API供其他缓存实现使用](https://zh.wikipedia.org/wiki/API "wikilink")。
+的默认缓存实现，以及用于与、、和[Memcached](../Page/Memcached.md "wikilink")连接的默认连接器。MyBatis还提供[API供其他缓存实现使用](https://zh.wikipedia.org/wiki/API "wikilink")。
 
 ## 用法
 
-[SQL语句存储在](../Page/SQL.md "wikilink")[XML文件或](../Page/XML.md "wikilink")[Java
+[SQL](../Page/SQL.md "wikilink")语句存储在[XML](../Page/XML.md "wikilink")文件或[Java
 注解中](https://zh.wikipedia.org/wiki/Java_注解 "wikilink")。一个MyBatis映射的示例（其中用到了[Java接口和MyBatis](../Page/接口_\(Java\).md "wikilink")[注解](https://zh.wikipedia.org/wiki/Java_注解 "wikilink")）：
 
 ``` java
@@ -40,7 +40,7 @@ BlogMapper mapper = session.getMapper(BlogMapper.class);
 Blog blog = mapper.selectBlog(101);
 ```
 
-[SQL语句和映射也可以外化到一个XML文件中](../Page/SQL.md "wikilink")：
+[SQL](../Page/SQL.md "wikilink")语句和映射也可以外化到一个XML文件中：
 
 ``` xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -104,7 +104,7 @@ public class BlogServiceImpl implements BlogService {
 
 ## Velocity语言
 
-Velocity语言[驱动程序允许用户使用](../Page/驱动程序.md "wikilink")[Apache
+Velocity语言[驱动程序](../Page/驱动程序.md "wikilink")允许用户使用[Apache
 Velocity来快速生成动态SQL查询](../Page/Apache_Velocity.md "wikilink")。
 
 ``` xml
@@ -119,7 +119,7 @@ Velocity来快速生成动态SQL查询](../Page/Apache_Velocity.md "wikilink")�
 ## MyBatis生成器
 
 MyBatis提供了代码生成器。MyBatis生成器（MyBatis
-Generator）能对数据库表内省，生成执行的（CRUD）时所需的MyBatis代码。有相关的[Eclipse插件可供使用](../Page/Eclipse.md "wikilink")。
+Generator）能对数据库表内省，生成执行的（CRUD）时所需的MyBatis代码。有相关的[Eclipse](../Page/Eclipse.md "wikilink")插件可供使用。
 
 ## MyBatis Migrations
 

@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")44張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2011年11月16日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第44張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2011年11月16日發行。
 
 ## 簡介
 
@@ -13,7 +13,7 @@
 2.  **Snow Flake** \[4:29\]
 3.  **殘酷天使的行動綱領 (We ♥ Happy Swing Live ver.)** \[4:22\]
       -
-        [高橋洋子的](../Page/高橋洋子.md "wikilink")「[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")」的翻唱歌曲。
+        [高橋洋子](../Page/高橋洋子.md "wikilink")的「[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")」的翻唱歌曲。
 
 ### DVD （CD+DVD盤）
 

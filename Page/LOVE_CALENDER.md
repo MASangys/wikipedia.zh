@@ -1,5 +1,5 @@
 《**LOVE
-CALENDER**》（）是[DECO\*27第三張原創](../Page/DECO*27.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2012年7月25日由U/M/A/A發售。
+CALENDER**》（）是[DECO\*27](../Page/DECO*27.md "wikilink")第三張原創[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2012年7月25日由U/M/A/A發售。
 
 專輯中的十二首樂曲分別代表戀愛的高中生於十二個月中的舉止\[1\]。月刊誌「ビッグガンガン」中有以本專輯為原作的漫畫連載中。
 

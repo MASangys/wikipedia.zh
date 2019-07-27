@@ -107,63 +107,6 @@ Min、Mint)在泰國活動。2015年，組合解散。
 </tbody>
 </table>
 
-### 正規專輯
-
-### 迷你專輯
-
-## 綜藝
-
-  - 2013-2014《Fashion Killa》（都熙固定嘉宾）
-  - 2014《改变世界的Quiz》（都熙固定嘉宾）
-  - 2014《偶像舞蹈大赛 D-Style》（Mint固定嘉宾）
-  - 2014年 都熙 參與[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running
-    Man](../Page/Running_Man.md "wikilink")》EP182
-  - 2014年 都熙
-    參與[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[現場脫口秀：Taxi](https://zh.wikipedia.org/wiki/現場脫口秀：Taxi "wikilink")》與[Baro](../Page/B1A4.md "wikilink")、[孫浩俊共同演出](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")
-    EP320
-  - 20140827 一周的偶像
-
-## 演出作品
-
-### 電視劇
-
-|                                                                    |                                                                 |                                             |       |       |    |    |
-| ------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------- | ----- | ----- | -- | -- |
-| 年份                                                                 | 電視台                                                             | 劇名                                          | 參演成員  | 角色    | 性質 | 集數 |
-| 2013年                                                              | [tvn](https://zh.wikipedia.org/wiki/tvn "wikilink")             | [請回答1994](../Page/請回答1994.md "wikilink")    | 都熙    | 趙潤真   | 配角 | 全集 |
-| 2014年                                                              | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")     | [媽媽的庭院](../Page/媽媽的庭院.md "wikilink")        | 河利羅   | 特別出演  |    |    |
-| [EBC](https://zh.wikipedia.org/wiki/EBC "wikilink")                | [冥王星秘密決死隊](https://zh.wikipedia.org/wiki/冥王星秘密決死隊 "wikilink")   | 便利商店客人                                      | 客串    | 第11集  |    |    |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") every1 | [合宿24號房](https://zh.wikipedia.org/wiki/合宿24號房 "wikilink")       | 都熙                                          | 配角    | 全集    |    |    |
-| [KBS](../Page/韓國放送公社.md "wikilink")                                | [明日如歌](https://zh.wikipedia.org/wiki/明日如歌_\(韓國電視劇\) "wikilink") | 崔敏熙                                         | 配角    | 全集    |    |    |
-| 2015年                                                              | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")     | [媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink") | 孔順伊   | 配角    |    |    |
-| 2016年                                                              | [JTBC](../Page/JTBC.md "wikilink")                              | [玉氏南政基](../Page/玉氏南政基.md "wikilink")        | EMILY | 客串(?) |    |    |
-
-### 電影
-
-  - 都熙
-      - 2009年：《[Fashion
-        Killa](https://zh.wikipedia.org/wiki/Fashion_Killa "wikilink")》
-      - 2012年：《[爸爸](https://zh.wikipedia.org/wiki/爸爸_\(電影\) "wikilink")》
-      - 2012年：《[領跑人](https://zh.wikipedia.org/wiki/領跑人 "wikilink")》
-      - 2013年：《[隱秘又誘惑](https://zh.wikipedia.org/wiki/隱秘又誘惑 "wikilink")》飾
-        有美
-      - 2014年：《[Tunnel
-        3D](https://zh.wikipedia.org/wiki/Tunnel_3D "wikilink")》
-      - 2017年：《[爸爸是女兒](https://zh.wikipedia.org/wiki/爸爸是女兒 "wikilink")》
-
-## 獎項
-
-### 大型頒獎禮獎項
-
-| 年份   | 獎項 |
-| ---- | -- |
-| 2012 |    |
-
-### 音樂節目獎項
-
-| 年份 | 日期 | 電視台 | 節目名稱 | 獲獎歌曲 | 排名 |
-| -- | -- | --- | ---- | ---- | -- |
-
 ## 參考資料
 
 ## 外部連結

@@ -1,5 +1,5 @@
 《**The Voice Of
-Love**》是[香港歌手](../Page/香港.md "wikilink")[鄭欣宜的第三張個人唱片](../Page/鄭欣宜.md "wikilink")，於2013年12月13日推出。
+Love**》是[香港](../Page/香港.md "wikilink")歌手[鄭欣宜](../Page/鄭欣宜.md "wikilink")的第三張個人唱片，於2013年12月13日推出。
 
 ## 曲目資料
 

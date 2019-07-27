@@ -1,5 +1,5 @@
 《**even
-if**》（即使），[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2000年12月6日發行。
+if**》（即使），[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2000年12月6日發行。
 
 ## 概述
 

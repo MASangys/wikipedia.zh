@@ -12,7 +12,7 @@
 
 易知這個映射是[等距嵌入](https://zh.wikipedia.org/wiki/等距嵌入 "wikilink")，稱為**Kuratowski嵌入**。
 
-考慮商空間\(C'=C(X)/\{\textrm{constant functions}\}\)，並以在*X*中的[有界集上](https://zh.wikipedia.org/wiki/有界集 "wikilink")[一致收斂作為](../Page/一致收斂.md "wikilink")[拓撲](https://zh.wikipedia.org/wiki/拓撲 "wikilink")。把C(X)投射到C'，得到從*X*到\(C'\)中的嵌入。這個嵌入不依賴於基點*o*。
+考慮商空間\(C'=C(X)/\{\textrm{constant functions}\}\)，並以在*X*中的[有界集上](https://zh.wikipedia.org/wiki/有界集 "wikilink")[一致收斂](../Page/一致收斂.md "wikilink")作為[拓撲](https://zh.wikipedia.org/wiki/拓撲 "wikilink")。把C(X)投射到C'，得到從*X*到\(C'\)中的嵌入。這個嵌入不依賴於基點*o*。
 
 設*X*是可數緊緻的。定義\(\overline X_h\)為*X*在\(C'\)中的閉包，則\(\overline  X_h\)稱為X的**horofunction緊緻化**（horofunction
 compactification）。又定義邊界\(\partial_h X = \overline  X_h \setminus X\)，則\(\partial_h X\)稱為*X*的**horofunction邊界**（horofunction

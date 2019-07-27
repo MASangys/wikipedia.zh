@@ -6,7 +6,7 @@
 
 初回限定盤和通常盤2種發售。
 
-標題曲「LET・ME・DO\!\!」是[日本電視台](../Page/日本電視台.md "wikilink")『[スフィアクラブ](https://zh.wikipedia.org/wiki/スフィアクラブ "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。而且，是組合初次被[綜藝節目的主題曲起用](../Page/綜藝節目.md "wikilink")。
+標題曲「LET・ME・DO\!\!」是[日本電視台](../Page/日本電視台.md "wikilink")『[スフィアクラブ](https://zh.wikipedia.org/wiki/スフィアクラブ "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。而且，是組合初次被[綜藝節目](../Page/綜藝節目.md "wikilink")的主題曲起用。
 
 ### 主要記錄
 

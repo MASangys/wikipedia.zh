@@ -1,7 +1,7 @@
 《**So In
-Love**》是由香港歌手[官恩娜演唱的單曲](../Page/官恩娜.md "wikilink")，也是她加入[華納唱片的第一首歌曲](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")。2013年3月11日在iTunes發行數碼版\[1\]。
+Love**》是由香港歌手[官恩娜](../Page/官恩娜.md "wikilink")演唱的單曲，也是她加入[華納唱片的第一首歌曲](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")。2013年3月11日在iTunes發行數碼版\[1\]。
 
-於2013年3月14日由[官恩娜官方YouTube頻道](../Page/官恩娜.md "wikilink")[官恩娜官方YouTube頻道](http://www.youtube.com/channel/UCcK-RIwZeZMEJplWW_2eaOg)首播\[2\]。並於2013年3月20日由[官恩娜官方YouTube頻道首播MV](../Page/官恩娜.md "wikilink")\[3\]
+於2013年3月14日由[官恩娜](../Page/官恩娜.md "wikilink")官方YouTube頻道[官恩娜官方YouTube頻道](http://www.youtube.com/channel/UCcK-RIwZeZMEJplWW_2eaOg)首播\[2\]。並於2013年3月20日由[官恩娜](../Page/官恩娜.md "wikilink")官方YouTube頻道首播MV\[3\]
 
 ## 曲目
 

@@ -1,5 +1,5 @@
 **Aleees
-AEVB-A1S**是[中華民國車商](../Page/中華民國.md "wikilink")[立凱電能科技股份有限公司所生產的一款中型全電動公車](https://zh.wikipedia.org/wiki/立凱電能科技股份有限公司 "wikilink")。
+AEVB-A1S**是[中華民國](../Page/中華民國.md "wikilink")車商[立凱電能科技股份有限公司所生產的一款中型全電動公車](https://zh.wikipedia.org/wiki/立凱電能科技股份有限公司 "wikilink")。
 
 ## 規格
 

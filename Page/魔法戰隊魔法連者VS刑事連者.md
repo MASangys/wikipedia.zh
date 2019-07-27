@@ -36,33 +36,35 @@ VS系列</p></td>
 
 ### 魔法連者
 
-| 演員                                                          | 角色   | 代號   | 台灣配音員                                                                        |
-| ----------------------------------------------------------- | ---- | ---- | ---------------------------------------------------------------------------- |
-|                                                             |      |      |                                                                              |
-| [<font color=white>橋本淳</font>](../Page/橋本淳.md "wikilink")   | 小津魁  | 魔法紅  | [<font color=white>李世揚</font>](../Page/李世揚.md "wikilink")                    |
-|                                                             |      |      |                                                                              |
-| [<font color=black>松本寬也</font>](../Page/松本寬也.md "wikilink") | 小津翼  | 魔法黃  | [<font color=black>賀宇傑</font>](../Page/賀宇傑.md "wikilink")                    |
-|                                                             |      |      |                                                                              |
-| [<font color=white>甲斐麻美</font>](../Page/甲斐麻美.md "wikilink") | 小津麗  | 魔法藍  | [<font color=white>楊凱凱</font>](../Page/楊凱凱.md "wikilink")                    |
-|                                                             |      |      |                                                                              |
-| [<font color=white>別府步美</font>](../Page/別府步美.md "wikilink") | 小津芳香 | 魔法粉紅 | [<font color=white>詹雅菁</font>](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
-|                                                             |      |      |                                                                              |
-| [<font color=white>伊藤友樹</font>](../Page/伊藤友樹.md "wikilink") | 小津蒔人 | 魔法綠  | [<font color=white>梁興昌</font>](../Page/梁興昌.md "wikilink")                    |
-|                                                             |      |      |                                                                              |
-| [<font color=black>市川洋介</font>](../Page/市川洋介.md "wikilink") | 光    | 魔法光  | [<font color=black>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
-|                                                             |      |      |                                                                              |
-| [<font color=black>渡邊梓</font>](../Page/渡邊梓.md "wikilink")   | 小津深雪 | 魔法媽媽 | [<font color=black>傅其慧</font>](../Page/傅其慧.md "wikilink")                    |
+| 演員                                                          | 角色   | 代號            | 台灣配音員                                                                        |
+| ----------------------------------------------------------- | ---- | ------------- | ---------------------------------------------------------------------------- |
+|                                                             |      |               |                                                                              |
+| [<font color=white>橋本淳</font>](../Page/橋本淳.md "wikilink")   | 小津魁  | 魔法紅           | [<font color=white>李世揚</font>](../Page/李世揚.md "wikilink")                    |
+|                                                             |      |               |                                                                              |
+| [<font color=black>松本寬也</font>](../Page/松本寬也.md "wikilink") | 小津翼  | 魔法黃           | [<font color=black>何志威</font>](../Page/何志威.md "wikilink")                    |
+|                                                             |      |               |                                                                              |
+| [<font color=white>甲斐麻美</font>](../Page/甲斐麻美.md "wikilink") | 小津麗  | 魔法藍           | [<font color=white>楊凱凱</font>](../Page/楊凱凱.md "wikilink")                    |
+|                                                             |      |               |                                                                              |
+| [<font color=white>別府步美</font>](../Page/別府步美.md "wikilink") | 小津芳香 | 魔法粉紅          | [<font color=white>詹雅菁</font>](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+|                                                             |      |               |                                                                              |
+| [<font color=white>伊藤友樹</font>](../Page/伊藤友樹.md "wikilink") | 小津蒔人 | 魔法綠           | [<font color=white>梁興昌</font>](../Page/梁興昌.md "wikilink")                    |
+|                                                             |      |               |                                                                              |
+| [<font color=black>市川洋介</font>](../Page/市川洋介.md "wikilink") | 光    | 魔法光           | [<font color=black>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
+|                                                             |      |               |                                                                              |
+| [<font color=black>渡邊梓</font>](../Page/渡邊梓.md "wikilink")   | 小津深雪 | 魔法媽媽          | [<font color=black>傅其慧</font>](../Page/傅其慧.md "wikilink")                    |
+|                                                             |      |               |                                                                              |
+| [<font color=black>磯部勉</font>](../Page/磯部勉.md "wikilink")   | 小津勇  | 魔導騎士</br>·烏薩德 | [<font color=black>梁興昌</font>](../Page/梁興昌.md "wikilink")                    |
 
 ### 刑事連者
 
 | 演員/配音                                                         | 角色     | 代號    | 台灣配音員                                                                        |
 | ------------------------------------------------------------- | ------ | ----- | ---------------------------------------------------------------------------- |
 |                                                               |        |       |                                                                              |
-| [<font color=white>載寧龍二</font>](../Page/載寧龍二.md "wikilink")   | 赤座伴番   | 刑事紅   | [<font color=white>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
+| [<font color=white>載寧龍二</font>](../Page/載寧龍二.md "wikilink")   | 赤座伴番   | 刑事紅   | [<font color=white>吳文民</font>](../Page/吳文民.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
 | [<font color=white>林剛史</font>](../Page/林剛史.md "wikilink")     | 戶增寶兒   | 刑事藍   | [<font color=white>賀宇傑</font>](../Page/賀宇傑.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
-| [<font color=white>伊藤陽祐</font>](../Page/伊藤陽佑.md "wikilink")   | 江成仙一   | 刑事綠   | [<font color=white>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
+| [<font color=white>伊藤陽祐</font>](../Page/伊藤陽佑.md "wikilink")   | 江成仙一   | 刑事綠   | [<font color=white>吳文民</font>](../Page/吳文民.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
 | [<font color=black>木下亞由美</font>](../Page/木下亞由美.md "wikilink") | 禮紋茉莉花  | 刑事黃   | [<font color=black>傅其慧</font>](../Page/傅其慧.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
@@ -70,31 +72,34 @@ VS系列</p></td>
 |                                                               |        |       |                                                                              |
 | [<font color=blue>吉田友一</font>](../Page/吉田友一.md "wikilink")    | 姶良鐵幹   | 刑事布雷克 | [<font color=blue>李世揚</font>](../Page/李世揚.md "wikilink")                     |
 |                                                               |        |       |                                                                              |
-| [<font color=white>稻田徹</font>](../Page/稻田徹.md "wikilink")     | 高奇·古魯加 | 刑事先鋒  | [<font color=white>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
+| [<font color=white>稻田徹</font>](../Page/稻田徹.md "wikilink")     | 高奇·古魯加 | 刑事至尊  | [<font color=white>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
 | [<font color=black>石野真子</font>](../Page/石野真子.md "wikilink")   | 白鳥天鵝   | 刑事天鵝  | [<font color=black>楊凱凱</font>](../Page/楊凱凱.md "wikilink")                    |
 
 ### 戰隊關係者
 
   -
-    **魔法貓·史魔奇<small>｜**[草尾毅配音](../Page/草尾毅.md "wikilink")/台:[梁興昌](../Page/梁興昌.md "wikilink")</small>
+    **魔法貓·史魔奇<small>｜**[草尾毅](../Page/草尾毅.md "wikilink")配音/台:[林谷珍](../Page/林谷珍.md "wikilink")</small>
     **魔法蔓陀蘿<small>｜**[比嘉久美子配音](https://zh.wikipedia.org/wiki/比嘉久美子 "wikilink")/台:[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")</small>
-    **魔導神官·魅迷<small>｜**[高戶靖廣配音](../Page/高戶靖廣.md "wikilink")/台:[賀宇傑](../Page/賀宇傑.md "wikilink")</small>
-    **魔導騎士·烏薩德<small>｜**[磯部勉配音](../Page/磯部勉.md "wikilink")/台:[賀宇傑](../Page/賀宇傑.md "wikilink")</small>
-    **妖幻密使·潘瓊莉亞<small>｜**[渡邊美佐配音](../Page/渡邊美佐.md "wikilink")/台:[傅其慧](../Page/傅其慧.md "wikilink")</small>
+    **魔導神官·魅迷<small>｜**[高戶靖廣](../Page/高戶靖廣.md "wikilink")配音/台:[賀宇傑](../Page/賀宇傑.md "wikilink")</small>
+    **妖幻密使·潘瓊莉亞<small>｜**[渡邊美佐](../Page/渡邊美佐.md "wikilink")配音/台:[傅其慧](../Page/傅其慧.md "wikilink")</small>
     **娜伊<small>｜**[和冉千秋飾](https://zh.wikipedia.org/wiki/和冉千秋 "wikilink")/台:[楊凱凱](../Page/楊凱凱.md "wikilink")</small>
     **梅亞<small>｜**[北神朋美飾](https://zh.wikipedia.org/wiki/北神朋美 "wikilink")/台:[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")</small>
 
 ### 原創角色
 
   -
-    **冥獸人 魔人阿波羅斯<small>｜**[竹本英史](../Page/竹本英史.md "wikilink") 聲</small>
+    **冥獸人
+    魔人阿波羅斯<small>｜**[竹本英史](../Page/竹本英史.md "wikilink")／台配：[林谷珍](../Page/林谷珍.md "wikilink")
+    聲</small>
       -
         陰非路西亞的冥獸人。但他離開陰非路西亞，成為亞布雷拉的弟子，以「代理商X」的名義與宇宙犯罪者們進行黑市交易，作風強勢。在劇中表示想要超越先師亞布雷拉。口頭禪「我絕對不可能失算的」，對於自己所擬定的計畫具有相當的自信，不輕易因外在因素而動搖。
-    **嘴大星人 畢爾奇克**
+    **嘴大星人 畢爾奇克<small>｜**未知／台配：[梁興昌](../Page/梁興昌.md "wikilink") 聲
       -
         巨大的宇宙犯罪者。被牠大嘴吞下去的人或物會被傳送到未知的次元。是名擄人通緝犯，與龐波和代理商X簽訂契約，其任務為綁架小津兄弟。按照慣例，茉莉花替牠取了一個名為「大嘴又吞又嚥君」的綽號（連寶兒都附和這綽號很酷）。會發出「小津、小津...」的聲音。
-    **類酒星人 龐波<small>｜**[長嶝高士](../Page/長嶝高士.md "wikilink") 聲</small>
+    **類酒星人
+    龐波<small>｜**[長嶝高士](../Page/長嶝高士.md "wikilink")／台配：[林谷珍](../Page/林谷珍.md "wikilink")
+    聲</small>
       -
         與[氣泡飲者四人眾同屬類酒星人](../Page/特搜戰隊刑事連者_THE_MOVIE_Full_Blast_Action.md "wikilink")，但兩者毫無關係。與代理商X簽訂了契約，胸前的[魔法陣能吸收光束攻擊轉為自己的能量](https://zh.wikipedia.org/wiki/魔法陣 "wikilink")，但不能吸收物理方面的技能。不喜歡像小梅一樣的矮個子女生，而是偏好高大、有點腿毛的女生類型，因此造就了「光子」和「鐵子」。<small>（笑）</small>
 

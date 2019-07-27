@@ -12,7 +12,7 @@ T-ara N4 成員活動，決定參加MBK Entertainment 的新女團選拔，與�
 2013年4月初，有不同歌謠關係人士指[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[𤨒晶](../Page/咸𤨒晶.md "wikilink")、[孝敏](https://zh.wikipedia.org/wiki/朴宣映 "wikilink")、[芝妍和](../Page/朴芝妍.md "wikilink")[雅琳](https://zh.wikipedia.org/wiki/李雅琳 "wikilink")4名成員以小分隊形式回歸\[5\]，新歌為《田園日記》\[6\]。4月9日，所屬公司[Core
 Contents
 Media宣佈T](../Page/MBK娛樂.md "wikilink")-ara子團將於5月1日攜新專輯回歸，新歌《[田園日記](../Page/田園日記_\(迷你專輯\).md "wikilink")》是由二段橫踢製作，是Hip
-Hop舞曲風格的[放克音樂](../Page/放克.md "wikilink")\[7\]，專輯的創作靈感來自韓國80年代長壽劇MBC《》\[8\]。在音樂影片發佈前，所屬公司多次公開子團的海報，向公眾展現成員的新形象\[9\]，並在4月12日公開的海報中確定了子團名為「T-ara
+Hop舞曲風格的[放克](../Page/放克.md "wikilink")音樂\[7\]，專輯的創作靈感來自韓國80年代長壽劇MBC《》\[8\]。在音樂影片發佈前，所屬公司多次公開子團的海報，向公眾展現成員的新形象\[9\]，並在4月12日公開的海報中確定了子團名為「T-ara
 N4」，指是「T-ara Brand New
 4」的縮寫，蘊含呈現T-ara全新的4名成員的意思\[10\]。4月29日，舞蹈版及劇場版音樂影片在YouTube等視頻網站公開\[11\]。5月2日，T-ara
 N4在音樂節目《[M\!

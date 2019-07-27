@@ -3,12 +3,12 @@
 
 ## 歷史
 
-ChefVille是[Zynga其下的第二個餐廳經營遊戲](../Page/Zynga.md "wikilink")，繼[Café
-World以後](https://zh.wikipedia.org/wiki/Café_World "wikilink")。(註：兩者皆同為[Facebook遊戲](../Page/Facebook.md "wikilink"))
+ChefVille是[Zynga](../Page/Zynga.md "wikilink")其下的第二個餐廳經營遊戲，繼[Café
+World以後](https://zh.wikipedia.org/wiki/Café_World "wikilink")。(註：兩者皆同為[Facebook](../Page/Facebook.md "wikilink")遊戲)
 
 [Café
 World在](https://zh.wikipedia.org/wiki/Café_World "wikilink")2012年10月已擁有45.6萬個日活躍用戶與240萬個月活躍用戶，這兩套遊戲主要的差別在於ChefVille的玩家除了能與其他玩家互動外，還能在遊戲中升級取得現實世界中的食譜。
-ChefVille於[Facebook上提供](../Page/Facebook.md "wikilink")17種語言（含中文）。\[6\]但是，官方曾在2013年7月公告過，日後將不再支援中文介面。
+ChefVille於[Facebook](../Page/Facebook.md "wikilink")上提供17種語言（含中文）。\[6\]但是，官方曾在2013年7月公告過，日後將不再支援中文介面。
 
 ## 玩法
 

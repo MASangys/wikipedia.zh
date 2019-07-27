@@ -1,5 +1,5 @@
 **Zompist.com**(也被稱為梅塔博斯<Metaverse>)，是由一位[人工語言創建者](https://zh.wikipedia.org/wiki/語言創建者名單 "wikilink")(conlanger)馬克·羅日菲爾德(Mark
-Rosenfelder、又名榮皮斯特<Zompist>)所創建的一個[網站](../Page/網站.md "wikilink")。它包括有[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[政治](../Page/政治.md "wikilink")、[語言](../Page/語言.md "wikilink")，及[科学等之特色的文章](../Page/科学.md "wikilink")，以及羅日菲爾德的[人工世界](https://zh.wikipedia.org/wiki/人工世界 "wikilink")(conworld/Worldbuilding)阿爾米(Almea)之詳細說明。該網站也是語言構建工具包(Language
+Rosenfelder、又名榮皮斯特<Zompist>)所創建的一個[網站](../Page/網站.md "wikilink")。它包括有[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[政治](../Page/政治.md "wikilink")、[語言](../Page/語言.md "wikilink")，及[科学](../Page/科学.md "wikilink")等之特色的文章，以及羅日菲爾德的[人工世界](https://zh.wikipedia.org/wiki/人工世界 "wikilink")(conworld/Worldbuilding)阿爾米(Almea)之詳細說明。該網站也是語言構建工具包(Language
 Construction Kit)的主站，其中羅日菲爾德引入新人工語言創建者到愛好者的文章等之資訊。
 
 該網站的許多功能已經引起媒體注意到，包括它的文化測試，\[1\]
@@ -10,11 +10,11 @@ Construction Kit)"Page A2"。\[4\]\[5\]\[6\]
 
 ## Zompist佈告欄
 
+## 註釋
+
 ## 參見
 
   - [Langmaker](https://zh.wikipedia.org/wiki/Langmaker "wikilink")（）
-
-## 註釋
 
 ## 外部連結
 

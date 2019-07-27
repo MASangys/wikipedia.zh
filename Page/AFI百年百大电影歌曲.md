@@ -1,4 +1,4 @@
-[美国电影学会在](../Page/美国电影学会.md "wikilink")2004年選出100年100首最出色的[歌曲](../Page/歌曲.md "wikilink")，作为美国电影学會的[“百年百大”系列的一个重要部分](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")。
+[美国电影学会](../Page/美国电影学会.md "wikilink")在2004年選出100年100首最出色的[歌曲](../Page/歌曲.md "wikilink")，作为美国电影学會的[“百年百大”系列的一个重要部分](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")。
 
 ## 列表
 

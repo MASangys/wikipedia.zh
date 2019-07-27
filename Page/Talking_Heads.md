@@ -1,15 +1,15 @@
 **傳聲頭像**（Talking
-Heads）是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新浪潮樂隊](../Page/新浪潮.md "wikilink")，在1975年於[紐約市組建](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，直至1991年解散。樂隊成員包括主音兼結他手[大衛·伯恩](../Page/大衛·伯恩.md "wikilink")（David
+Heads）是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新浪潮](../Page/新浪潮.md "wikilink")樂隊，在1975年於[紐約市組建](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，直至1991年解散。樂隊成員包括主音兼結他手[大衛·伯恩](../Page/大衛·伯恩.md "wikilink")（David
 Byrne）、鼓手（Chris Frantz）、貝斯手（Tina Weymouth）、結他及鍵盤手（Jerry
-Harrison）。樂隊以其複雜而多層次的音樂見稱，當中融合了[朋克](https://zh.wikipedia.org/wiki/朋克 "wikilink")、[放克](../Page/放克.md "wikilink")、[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")、[世界音樂](https://zh.wikipedia.org/wiki/世界音樂 "wikilink")、[前衛音樂](../Page/實驗音樂.md "wikilink")、[藝術搖滾等各種元素](../Page/艺术摇滚.md "wikilink")，促使[後朋克慢慢演變成為自成一格的](https://zh.wikipedia.org/wiki/後朋克 "wikilink")[新浪潮曲風](../Page/新浪潮.md "wikilink")。作為主音的大衛·伯恩亦為樂隊作品填出不少怪誕、嘲諷又或深奧難懂的歌詞，並因其鮮明且創新的現場演出風格使他們受各地樂迷的熱烈支持。
+Harrison）。樂隊以其複雜而多層次的音樂見稱，當中融合了[朋克](https://zh.wikipedia.org/wiki/朋克 "wikilink")、[放克](../Page/放克.md "wikilink")、[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")、[世界音樂](https://zh.wikipedia.org/wiki/世界音樂 "wikilink")、[前衛音樂](../Page/實驗音樂.md "wikilink")、[藝術搖滾等各種元素](../Page/艺术摇滚.md "wikilink")，促使[後朋克慢慢演變成為自成一格的](https://zh.wikipedia.org/wiki/後朋克 "wikilink")[新浪潮](../Page/新浪潮.md "wikilink")曲風。作為主音的大衛·伯恩亦為樂隊作品填出不少怪誕、嘲諷又或深奧難懂的歌詞，並因其鮮明且創新的現場演出風格使他們受各地樂迷的熱烈支持。
 
-傳聲頭像憑籍其過人的藝術性和前衛的實驗性，在八十年代的唱片界嬴得了商業成功和評論界的一致讚揚，風頭橫跨英美。即使解散後，其作品仍對音樂發展有著深遠的影響力，備受不少音樂權威刊物的推崇和肯定。2002年，樂隊順利地榮登[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")。在2003年公佈的[滾石雜誌五百大專輯中](../Page/滾石雜誌五百大專輯.md "wikilink")，樂隊共有四張專輯的名字出現在這份榜單上，並在[英國第四台的百大專輯票選活動結果中奪下一席](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")。2011年，樂隊入選[滾石雜誌的百大偉大音樂家](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")，再進一步肯定了樂隊的地位。
+傳聲頭像憑籍其過人的藝術性和前衛的實驗性，在八十年代的唱片界嬴得了商業成功和評論界的一致讚揚，風頭橫跨英美。即使解散後，其作品仍對音樂發展有著深遠的影響力，備受不少音樂權威刊物的推崇和肯定。2002年，樂隊順利地榮登[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")。在2003年公佈的[滾石雜誌五百大專輯](../Page/滾石雜誌五百大專輯.md "wikilink")中，樂隊共有四張專輯的名字出現在這份榜單上，並在[英國第四台的百大專輯票選活動結果中奪下一席](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")。2011年，樂隊入選[滾石雜誌的百大偉大音樂家](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")，再進一步肯定了樂隊的地位。
 
 ## 歷史
 
 ### 早年（1974 - 1977）
 
-七十年代早期，年僅18歲的大衛·伯恩隻身從[蘇格蘭來到美國留學](../Page/蘇格蘭.md "wikilink")，就讀於[羅德島設計學院的他認識了基斯](https://zh.wikipedia.org/wiki/羅德島 "wikilink")·法蘭茲（樂隊鼓手）及他的女朋友天娜·威茅斯（亦即後來樂隊的貝斯手），拜恩與包括法蘭茲在內的數名友人組成了「藝術學」（The
+七十年代早期，年僅18歲的大衛·伯恩隻身從[蘇格蘭](../Page/蘇格蘭.md "wikilink")來到美國留學，就讀於[羅德島設計學院的他認識了基斯](https://zh.wikipedia.org/wiki/羅德島 "wikilink")·法蘭茲（樂隊鼓手）及他的女朋友天娜·威茅斯（亦即後來樂隊的貝斯手），拜恩與包括法蘭茲在內的數名友人組成了「藝術學」（The
 Artistics）樂隊，威茅斯亦在團中幫忙。1974年，法蘭茲與威茅斯從學校畢業，伯恩與他們兩人為了更專注於創作音樂，決定遷往紐約市另組新團，此時法蘭茲正鼓勵著他的女朋友學習[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，以成為真正的樂隊成員及填補一直懸空的貝斯手位置。經過長時間排練後，樂隊最終在1975年一月以「傳聲頭像」之名成立，他們找到了[CBGB酒吧](https://zh.wikipedia.org/wiki/CBGB "wikilink")（公認紐約朋克發源地），經過試音後，成功爭取替當時還未衝出紐約的駐場樂隊[雷蒙斯作暖場](https://zh.wikipedia.org/wiki/雷蒙斯合唱團 "wikilink")，這也是傳聲頭像樂隊的首次公開演出。
 
 接下一年多時光裡，三人一直不停工作、排練、演出、作曲、錄音，他們的努力最終換來[閣下唱片](../Page/Sire_Records.md "wikilink")（Sire
@@ -23,7 +23,7 @@ Killer》亦登上[告示牌百強單曲榜第九十二名](https://zh.wikipedia
 
 ### 成名（1978 – 1982）
 
-1978年三月，樂隊乘著出道專輯成功的勢頭，開始製作第二張專輯，他們找來比較有名的製作人[白賴仁·伊諾](https://zh.wikipedia.org/wiki/布萊恩·伊諾 "wikilink")（他後來替[U2樂隊製作](https://zh.wikipedia.org/wiki/U2樂隊 "wikilink")[約書亞樹而獲得](../Page/約書亞樹.md "wikilink")[格林美獎](https://zh.wikipedia.org/wiki/格林美獎 "wikilink")），以不尋常風格著稱的伊諾與這隊極具藝術氣息的樂隊一拍即合，他們結集[電子與](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")[原音樂](https://zh.wikipedia.org/wiki/原音樂 "wikilink")，涉獵了由後朋克、新流潮至迷幻放克等元素，精心錄製出一系列充滿藝術性的流行歌曲。專輯很快在七月推出，定名為《More
+1978年三月，樂隊乘著出道專輯成功的勢頭，開始製作第二張專輯，他們找來比較有名的製作人[白賴仁·伊諾](https://zh.wikipedia.org/wiki/布萊恩·伊諾 "wikilink")（他後來替[U2樂隊製作](https://zh.wikipedia.org/wiki/U2樂隊 "wikilink")[約書亞樹](../Page/約書亞樹.md "wikilink")而獲得[格林美獎](https://zh.wikipedia.org/wiki/格林美獎 "wikilink")），以不尋常風格著稱的伊諾與這隊極具藝術氣息的樂隊一拍即合，他們結集[電子與](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")[原音樂](https://zh.wikipedia.org/wiki/原音樂 "wikilink")，涉獵了由後朋克、新流潮至迷幻放克等元素，精心錄製出一系列充滿藝術性的流行歌曲。專輯很快在七月推出，定名為《More
 Songs About Buildings and
 Food》，並只把翻唱自[阿爾·格連](../Page/阿尔·格林.md "wikilink")（Al
 Green）的《Take Me to the
@@ -31,10 +31,10 @@ River》作專輯單曲派台。然而此舉卻獲得令人意外的成績，這
 
 傳聲頭像繼續進行他們的音樂實驗。1979年春天，樂隊成員們再次進入錄音室，在沒有製作人督導下，他們錄製了一堆[樣本](../Page/樣本唱片.md "wikilink")。樂隊希望使其新曲中「偽裝成的」[的士高](https://zh.wikipedia.org/wiki/的士高 "wikilink")[節奏更為突出](https://zh.wikipedia.org/wiki/節奏 "wikilink")，卻在混音時遇到瓶頸，效果不甚令人滿意，整個錄音工程被迫擱置，這時他們不得不找來伊諾幫忙。到了四月，樂隊重新開始新專輯的製作，並移師到基斯夫婦兩所擁有的閣樓中進行錄音。伯恩決定把歌曲定位在[反烏托邦的主題上](https://zh.wikipedia.org/wiki/反烏托邦 "wikilink")，而不是像上一張專輯般反映社會。同時大膽的把[非洲黑人音樂的節奏框架套入到後朋克搖滾中](https://zh.wikipedia.org/wiki/非裔美國人音樂 "wikilink")。這張專輯《Fear
 of
-Music》於同年八月發佈，再一次地得到評論界的一致好評，著名的音樂雜誌[NME跟](https://zh.wikipedia.org/wiki/NME "wikilink")[洛杉磯時報都把這張專輯排在當年最佳專輯名單的首位](../Page/洛杉磯時報.md "wikilink")。
+Music》於同年八月發佈，再一次地得到評論界的一致好評，著名的音樂雜誌[NME跟](https://zh.wikipedia.org/wiki/NME "wikilink")[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")都把這張專輯排在當年最佳專輯名單的首位。
 
 1980年一月，樂隊完成《Fear of
-Music》的巡演後，重返到紐約市，成員們暫時放下樂隊身份作個人活動。當時，法蘭茲與威茅斯已經開始對伯恩的獨行獨斷出現反感，兩夫婦決定到[加勒比海享受一個悠長渡假](../Page/加勒比海.md "wikilink")，思考婚姻的將來及是否繼續留在樂隊。在旅途中，兩人參與到一些當地宗教儀式以及習得數種當地傳統[打擊樂器](https://zh.wikipedia.org/wiki/打擊樂器 "wikilink")，並在[牙買加認識到著名的雷鬼](https://zh.wikipedia.org/wiki/牙買加 "wikilink")[節奏組](https://zh.wikipedia.org/wiki/節奏組_\(音樂\) "wikilink")（Sly
+Music》的巡演後，重返到紐約市，成員們暫時放下樂隊身份作個人活動。當時，法蘭茲與威茅斯已經開始對伯恩的獨行獨斷出現反感，兩夫婦決定到[加勒比海](../Page/加勒比海.md "wikilink")享受一個悠長渡假，思考婚姻的將來及是否繼續留在樂隊。在旅途中，兩人參與到一些當地宗教儀式以及習得數種當地傳統[打擊樂器](https://zh.wikipedia.org/wiki/打擊樂器 "wikilink")，並在[牙買加認識到著名的雷鬼](https://zh.wikipedia.org/wiki/牙買加 "wikilink")[節奏組](https://zh.wikipedia.org/wiki/節奏組_\(音樂\) "wikilink")（Sly
 and
 Robbie）。最終法蘭茲夫婦還是放棄了離隊的念頭，結束假期後，兩人在[巴哈馬](https://zh.wikipedia.org/wiki/巴哈馬 "wikilink")[拿騷的](https://zh.wikipedia.org/wiki/拿騷_\(巴哈馬\) "wikilink")（Compass
 Point
@@ -45,7 +45,7 @@ Kuti）於1973年釋出的（Afrobeat）專輯《Afrodisiac》為製作藍圖，
 Gans）則建議成員們在錄製期間多使用[即興演奏來掩蓋](https://zh.wikipedia.org/wiki/即興演奏 "wikilink")「錯誤」。
 
 該專輯《Remain in Light》在1980年十月發佈，首發單曲《Once in a
-Lifetime》在[英國單曲榜登上首二十名](https://zh.wikipedia.org/wiki/英國單曲榜 "wikilink")，但在樂隊的發源地美國只徘徊在單曲榜下游，直至數年後，單曲的[音樂錄影帶推出後才開始熱門起來](../Page/音樂錄影帶.md "wikilink")。但在各大樂評，專輯像之前三張專輯一樣，好評如潮，更得到不少滿分或近滿分評價，專輯在當年不少音樂雜誌評選出的年度最佳榜單中數一數二，有時候僅落後於[衝擊樂隊的](../Page/衝擊合唱團.md "wikilink")《London
+Lifetime》在[英國單曲榜登上首二十名](https://zh.wikipedia.org/wiki/英國單曲榜 "wikilink")，但在樂隊的發源地美國只徘徊在單曲榜下游，直至數年後，單曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")推出後才開始熱門起來。但在各大樂評，專輯像之前三張專輯一樣，好評如潮，更得到不少滿分或近滿分評價，專輯在當年不少音樂雜誌評選出的年度最佳榜單中數一數二，有時候僅落後於[衝擊樂隊的](../Page/衝擊合唱團.md "wikilink")《London
 Calling》或[布魯斯·史普林斯汀的](https://zh.wikipedia.org/wiki/布魯斯·史普林斯汀 "wikilink")《The
 River》。為了在專輯巡演中應付這些倍加複雜且需要更多樂器的音樂，樂隊找來了著名[克里遜王](https://zh.wikipedia.org/wiki/克里遜王 "wikilink")（King
 Crimson）樂隊的結他手兼主音（Adrian Belew）、（Bernie
@@ -55,9 +55,9 @@ Festival）的首場巡演演出。
 自1977年後的四年裡，樂隊幾乎以一年一張的產量推出專輯，而且每張專輯都廣受好評，讚揚樂隊的創意和實驗精神。經過《Remain in
 Light》一系列巡演後，成員們四散，主音大衛·伯恩投身電影界，給電影創作配樂；結他手謝利·哈利遜開始了個人生涯，推出個人專輯《The
 Red and the
-Black》；鼓手基斯·法蘭茲夫婦亦自組了受[嘻哈音樂影響的新樂隊](../Page/嘻哈音樂.md "wikilink")（Tom
+Black》；鼓手基斯·法蘭茲夫婦亦自組了受[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")影響的新樂隊（Tom
 Tom
-Club）；製作人白賴仁·伊諾則開始為U2樂隊製作專輯，與傳聲頭像分道揚鑣。在此其間樂隊只發行過一張現場專輯，樂隊自此轉進短暫的沉寂。至今為止，樂隊第二張專輯以後每張錄音室專輯都在美國本土得到[美國唱片業協會的金唱片認證](../Page/美國唱片業協會.md "wikilink")（售去超過五十萬張）。首四張專輯中除了第三張《Fear
+Club）；製作人白賴仁·伊諾則開始為U2樂隊製作專輯，與傳聲頭像分道揚鑣。在此其間樂隊只發行過一張現場專輯，樂隊自此轉進短暫的沉寂。至今為止，樂隊第二張專輯以後每張錄音室專輯都在美國本土得到[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")的金唱片認證（售去超過五十萬張）。首四張專輯中除了第三張《Fear
 of Music》外皆進入了滾石雜誌五百大專輯榜單中，《Remain in
 Light》排在最高位的126位，並幾乎在各大八十年代專輯排名中出現。
 

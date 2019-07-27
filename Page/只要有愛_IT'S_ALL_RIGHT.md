@@ -1,10 +1,10 @@
 「**只要有愛 IT'S ALL
-RIGHT**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第21张[单曲](../Page/单曲.md "wikilink")，於2004年1月21日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+RIGHT**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第21张[单曲](../Page/单曲.md "wikilink")，於2004年1月21日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「只要有愛 IT'S ALL
-    RIGHT」是[早安少女組。一期成員](../Page/早安少女組。.md "wikilink")[安倍夏美的畢業單曲](../Page/安倍夏美.md "wikilink")。
+    RIGHT」是[早安少女組。](../Page/早安少女組。.md "wikilink")一期成員[安倍夏美](../Page/安倍夏美.md "wikilink")的畢業單曲。
   - 此單曲有2個版本，分別是「初回生産限定盤」和「CD ONLY」。
   - 在2月2日於公信榜单曲週排行榜取得第2位。
   - 在第55回[NHK紅白歌合戰與](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")[W以組曲形式演出](../Page/W_\(Double_U\).md "wikilink")，曲目為**只要有愛

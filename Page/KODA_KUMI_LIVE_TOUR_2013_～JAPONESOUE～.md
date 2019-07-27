@@ -1,15 +1,15 @@
 《**KODA KUMI LIVE TOUR 2013 ～JAPONESQUE～**》（倖田來未 2013巡迴演唱會
-～絢爛大和～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2013年在[日本舉行的巡迴演唱會](../Page/日本.md "wikilink")，並於2013年12月4日發行演唱會作品。
+～絢爛大和～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年在[日本](../Page/日本.md "wikilink")舉行的巡迴演唱會，並於2013年12月4日發行演唱會作品。
 
 ## 簡介
 
   - 內容主要以專輯《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》以及《[Color the
     Cover](https://zh.wikipedia.org/wiki/Color_the_Cover "wikilink")》為主，場地為體育館型演唱會，約15萬人參加\[1\]。
-  - 演唱會於2013年3月16日在[埼玉超級體育館開始至同年](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")6月30日於[橫濱體育館閉幕](../Page/橫濱體育館.md "wikilink")。
+  - 演唱會於2013年3月16日在[埼玉超級體育館開始至同年](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")6月30日於[橫濱體育館](../Page/橫濱體育館.md "wikilink")閉幕。
   - 本演唱會作品收錄6月30日橫濱體育館最終場影像，為首次收錄最多曲目，總收錄時間超過3小時，初回限定盤特別以金箔紙盒包裝。
   - 本作於[公信榜獲得週間DVD音樂榜](https://zh.wikipedia.org/wiki/公信榜 "wikilink")、藍光音樂榜第一名，DVD綜合榜第二名。是繼《[Secret
     ～FIRST CLASS LIMITED
-    LIVE～](../Page/Secret_～FIRST_CLASS_LIMITED_LIVE～.md "wikilink")》以來連續9年都得到音樂DVD第1名，與[Mr.Children並列紀錄](../Page/Mr.Children.md "wikilink")\[2\]。
+    LIVE～](../Page/Secret_～FIRST_CLASS_LIMITED_LIVE～.md "wikilink")》以來連續9年都得到音樂DVD第1名，與[Mr.Children](../Page/Mr.Children.md "wikilink")並列紀錄\[2\]。
 
 ## 背景
 

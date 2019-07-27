@@ -1,11 +1,11 @@
 **Double S 301**（，舊名**SS301**（）或**Triple S**（））是[DSP
-Entertainment於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2008年11月至2009年6月止所推出的企劃組合。為原[SS501成員](../Page/SS501.md "wikilink")[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊三人組成](../Page/金亨俊.md "wikilink")。Triple
-S是[SS501的官方FAN](../Page/SS501.md "wikilink") CLUB名稱，與FAN
+Entertainment於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2008年11月至2009年6月止所推出的企劃組合。為原[SS501](../Page/SS501.md "wikilink")成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")三人組成。Triple
+S是[SS501](../Page/SS501.md "wikilink")的官方FAN CLUB名稱，與FAN
 CLUB不同意義的是「三（Triple）」象徵三位成員與代表SS501的S所構成的新隊名\[1\]。廣大歌迷在網路上亦稱其組合為『許金金』美聲三人組，首張專輯在韓國推出後成績相當耀眼，堪稱是自2005年出道至2008年以來SS501專輯銷售量最好的一張\[2\]。2016年改名為**SS301**回歸歌壇。
 
 ## 經歷
 
-2008年10月9日所屬公司DSP宣布由於[金賢重](../Page/金賢重.md "wikilink")、[朴政珉分別需拍攝電視劇](../Page/朴政珉.md "wikilink")「花樣男子」和演出音樂劇「GREASE」所以另三名成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊將組成子團](../Page/金亨俊.md "wikilink")《Triple
+2008年10月9日所屬公司DSP宣布由於[金賢重](../Page/金賢重.md "wikilink")、[朴政珉](../Page/朴政珉.md "wikilink")分別需拍攝電視劇「花樣男子」和演出音樂劇「GREASE」所以另三名成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")將組成子團《Triple
 S》發表企劃唱片，其中許永生擔任隊長一職，DSP亦表示：Triple
 S成員同時表示：「通過這次專輯的一系列宣傳活動，能夠把成員的個人特色表現出來\[3\]。」11月11日公開成員滿溢著男性美氛圍的專輯封面照\[4\]，並在11月15日於奧林匹克公園擊劍競技場舉行的「Showcase
 with Triple S」中首次演唱新曲〈Want It〉、〈U R MAN〉、〈The one〉；11月21日正式發行首張迷你專輯《U R
@@ -22,7 +22,7 @@ Countdown》中獲得子團首個一位獎座\[7\]。2009年1月21日以「[花�
 迷你演唱會 in JAPAN」\[8\]，並於3月發行《UR Man
 日版License專輯》。DSP方面表示：而後因歌曲〈因為我太傻〉獲得《Cyworld
 Digital Music Awards》月度最佳歌曲獎與《Mnet Asian Music
-Award》音源OST獎的殊榮，為其組合寫下輝煌的歷史。2010年6月7日原組合[SS501與DSP合約到期後不久的](../Page/SS501.md "wikilink")7月30日傳出三人將以組合形式繼續音樂活動\[9\]，但隨著金亨俊簽約S-plus；許永生與金奎鐘共同簽約[B2M
+Award》音源OST獎的殊榮，為其組合寫下輝煌的歷史。2010年6月7日原組合[SS501](../Page/SS501.md "wikilink")與DSP合約到期後不久的7月30日傳出三人將以組合形式繼續音樂活動\[9\]，但隨著金亨俊簽約S-plus；許永生與金奎鐘共同簽約[B2M
 Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")，自此組合活動暫時畫下句點。
 
 2016年1月，CI娛樂宣布許永生、金奎鐘、金亨俊以Double S 301推出新作品回歸歌壇\[10\]。

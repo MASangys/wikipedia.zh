@@ -3,7 +3,7 @@
 Cup)是一項賽車運動系列賽。在2012年由[大眾汽車創辦](https://zh.wikipedia.org/wiki/大眾汽車 "wikilink")，所有車手必須使用[奧迪R8賽車參賽](https://zh.wikipedia.org/wiki/奧迪R8 "wikilink")。賽事全部在亞洲的賽車場舉行。參賽車手包括[熊龍](../Page/熊龍.md "wikilink")、[李英健](../Page/李英健.md "wikilink")、[方駿宇](../Page/方駿宇.md "wikilink")、[古圖](../Page/高度_\(賽車手\).md "wikilink")、[程叢夫](https://zh.wikipedia.org/wiki/程叢夫 "wikilink")\[1\]、[郭富城](../Page/郭富城.md "wikilink")、[韓寒等等](https://zh.wikipedia.org/wiki/韓寒 "wikilink")。第一屆的總冠軍為香港車手[李英健](../Page/李英健.md "wikilink")。\[2\]
 
 [Audi_R8_LMS_Cup_shop_2000.jpg](https://zh.wikipedia.org/wiki/File:Audi_R8_LMS_Cup_shop_2000.jpg "fig:Audi_R8_LMS_Cup_shop_2000.jpg")內的辦公室。\]\]
-奧迪R8 LMS杯的辦公室位於[珠海國際賽車場內](../Page/珠海國際賽車場.md "wikilink")。
+奧迪R8 LMS杯的辦公室位於[珠海國際賽車場](../Page/珠海國際賽車場.md "wikilink")內。
 
 ## 賽車規格
 
@@ -121,7 +121,7 @@ Cup)是一項賽車運動系列賽。在2012年由[大眾汽車創辦](https://z
 <tr class="odd">
 <td><p>全場組 (所有車手均可參加)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊龙" title="wikilink">熊龙</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高度" title="wikilink">高度</a></p></td>
+<td><p><a href="../Page/高度_(賽車手).md" title="wikilink">高度</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Rahel_Frey" title="wikilink">瑞秋</a></p></td>
 </tr>
 <tr class="even">

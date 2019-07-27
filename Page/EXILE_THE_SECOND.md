@@ -1,5 +1,5 @@
 **EXILE THE
-SECOND**是[日本的六人舞蹈及歌唱組合](../Page/日本.md "wikilink")。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm
+SECOND**是[日本](../Page/日本.md "wikilink")的六人舞蹈及歌唱組合。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm
 zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
@@ -9,7 +9,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     TRIBE的新組合組及開始活動](../Page/EXILE_TRIBE.md "wikilink")\[1\]。
   - 2012年11月7日、單曲「[THINK 'BOUT
     IT\!](../Page/THINK_'BOUT_IT!.md "wikilink")」出道。
-  - 2015 年12月4日於[大阪巨蛋舉行的](../Page/大阪巨蛋.md "wikilink")「EXILE LIVE TOUR
+  - 2015 年12月4日於[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")舉行的「EXILE LIVE TOUR
     2015 "AMAZING WORLD"」中發表了會於2016年秋天起舉行Arena Tour
     。另外、至今也只有在EXILE、EXILE
     TRIBE的演唱會中活動的他們、這天也發表了該組合於2016年起會真正地單獨活動。\[2\]\[3\]。同時、橘KENCHI正式成為隊長。
@@ -66,14 +66,14 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 表演者</p></td>
 <td><ul>
 <li>1983年8月1日出生。</li>
-<li><a href="../Page/熊本縣.md" title="wikilink">熊本縣</a><a href="../Page/熊本市.md" title="wikilink">熊本市出身</a>。身高181cm。血型：O型</li>
+<li><a href="../Page/熊本縣.md" title="wikilink">熊本縣</a><a href="../Page/熊本市.md" title="wikilink">熊本市</a>出身。身高181cm。血型：O型</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/SHOKICHI.md" title="wikilink">EXILE SHOKICHI</a></strong></p></td>
 <td><ul>
 <li>1985年10月3日出生。</li>
-<li><a href="../Page/北海道.md" title="wikilink">北海道</a><a href="../Page/苫小牧市.md" title="wikilink">苫小牧市出身</a>。身高182cm。血型：A型</li>
+<li><a href="../Page/北海道.md" title="wikilink">北海道</a><a href="../Page/苫小牧市.md" title="wikilink">苫小牧市</a>出身。身高182cm。血型：A型</li>
 </ul></td>
 <td></td>
 </tr>
@@ -227,8 +227,8 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 | BeeTV劇集「[惡之教典－序章－](https://zh.wikipedia.org/wiki/惡之教典#電視劇 "wikilink")」主題曲                                          |                                                                                                                              |
 | ROCK STAR                                                                                                          | [adidas](https://zh.wikipedia.org/wiki/adidas "wikilink")「adidasenergy 13」廣告歌                                                |
 | CLAP YOUR HANDS                                                                                                    | ANGFA「Scalp-D」廣告歌                                                                                                            |
-| SURVIVORS feat. DJ MAKIDAI from EXILE                                                                              | [讀賣電視台系](../Page/讀賣電視台.md "wikilink")「\[\[町医者ジャンボ                                                                            |
-| 榮耀                                                                                                                 | [日本電視台系](../Page/日本電視台.md "wikilink")「[Frenemy街頭正義](https://zh.wikipedia.org/wiki/Frenemy街頭正義 "wikilink")」主題曲                |
+| SURVIVORS feat. DJ MAKIDAI from EXILE                                                                              | [讀賣電視台](../Page/讀賣電視台.md "wikilink")系「\[\[町医者ジャンボ                                                                            |
+| 榮耀                                                                                                                 | [日本電視台](../Page/日本電視台.md "wikilink")系「[Frenemy街頭正義](https://zh.wikipedia.org/wiki/Frenemy街頭正義 "wikilink")」主題曲                |
 | Lost In Time                                                                                                       | [第一興商](https://zh.wikipedia.org/wiki/第一興商 "wikilink")「SmartDAM」廣告歌                                                           |
 | BUMP UP                                                                                                            | ANGFA「Scalp-D」廣告歌                                                                                                            |
 | HEAD BANGIN'                                                                                                       | 日本電視台系『\[\[スッキリ                                                                                                              |
@@ -466,7 +466,7 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
   - GREEN DRAGON
     THE SECOND from EXILE的化身\[21\]。
   - 「**EXILE THE SECOND DAY**」
-    2017年2月、日本記念日協會認定了[2月22日為EXILE](../Page/2月22日.md "wikilink") THE
+    2017年2月、日本記念日協會認定了[2月22日](../Page/2月22日.md "wikilink")為EXILE THE
     SECOND的記念日「**EXILE THE SECOND DAY**」\[22\]。
 
 ## 備註

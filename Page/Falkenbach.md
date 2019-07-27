@@ -1,4 +1,4 @@
-**獵鷹之河**（德語：**Falkenbach**）是一支來自[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[維京金屬團體](../Page/維京金屬.md "wikilink")，屬Prophecy
+**獵鷹之河**（德語：**Falkenbach**）是一支來自[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[維京金屬](../Page/維京金屬.md "wikilink")團體，屬Prophecy
 Productions簽約藝人。其名稱在德語中意為「隼鷹之川」。樂隊唯一的永久成員為Vratyas Vakyas（原名Markus
 Tümmers\[1\]）。該團體是最早的維京金屬樂隊之一，創立於1989年，並於同年發行了他們的第一張作品。
 
@@ -9,8 +9,8 @@ Av Sverði Söl
 Valtiva*》（[古諾爾斯語](https://zh.wikipedia.org/wiki/古諾爾斯語 "wikilink")：「太陽照耀戰神之劍」），《*Læknishendr*》（古諾爾斯語：「治癒之手」），以及《*Ásynja*》（古諾爾斯語：「女神」）。
 其中除了《*Læknishendr*》之外的demo僅有九張拷貝被發行。《*Havamal*》這支demo被認為是純正的民謠音樂，但自此以後樂隊的曲風走向愈加粗獷，並在黑金屬的影響下逐漸成為日益成熟的史詩風格的金屬音樂。
 
-Falkenbach的歌詞大部分為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，同時亦包含一部分古諾爾斯語、[拉丁語和](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")[古高地德語的歌詞](../Page/古高地德語.md "wikilink")。大部分古諾爾斯語的歌詞實際上源自於[異教文學](../Page/異教.md "wikilink")；例如，曲目《*Donar’s
-Oak*》中的合唱唱段實際上是[詩體埃達中的一首詩歌](../Page/詩體埃達.md "wikilink")*Grímnismál*的第四和第五段韻文。（而他們的第一張demo，《*Hávamál*》，則是另外一首類似的詩歌。）
+Falkenbach的歌詞大部分為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，同時亦包含一部分古諾爾斯語、[拉丁語和](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")[古高地德語](../Page/古高地德語.md "wikilink")的歌詞。大部分古諾爾斯語的歌詞實際上源自於[異教](../Page/異教.md "wikilink")文學；例如，曲目《*Donar’s
+Oak*》中的合唱唱段實際上是[詩體埃達](../Page/詩體埃達.md "wikilink")中的一首詩歌*Grímnismál*的第四和第五段韻文。（而他們的第一張demo，《*Hávamál*》，則是另外一首類似的詩歌。）
 
 1995年，樂隊的首張專輯《*Fireblade*》開始進行錄製，但由於設備的問題，其製作在混音之前曾一度停滯。《*Fireblade*》並未公諸於世，而在同年的12月份，另一張專輯《*...En
 Their Medh Riki
@@ -21,7 +21,7 @@ Megentiri*》（古諾爾斯語：「融力量及傲世之盛」)發行之後，
 Art Productions。
 
 2003年，Vratyas攜三個音樂家朋友重返工作室，開始錄製《*Ok Nefna Tysvar
-Ty*》（古諾爾斯語：「二度呼喚[提爾之名](../Page/提爾.md "wikilink")」）。其後的一張也是最近的一張Falkenbach專輯，《*Heralding
+Ty*》（古諾爾斯語：「二度呼喚[提爾](../Page/提爾.md "wikilink")之名」）。其後的一張也是最近的一張Falkenbach專輯，《*Heralding
 – The
 Fireblade*》（《預示——烈焰之刃》），在2005年八月至九月間由同一批音樂家團隊完成。其中包含了來自從未發行過的專輯《*Fireblade*》中的音樂素材和部分demo音軌的重製作。
 

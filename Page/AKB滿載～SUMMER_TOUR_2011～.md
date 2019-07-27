@@ -1,9 +1,9 @@
 **AKB滿載～SUMMER TOUR
-2011～**（）是日本女子偶像組合[AKB48於](../Page/AKB48.md "wikilink")2011年8月1日至8月31日在[日本](../Page/日本.md "wikilink")13個地區舉行的全國巡迴演唱會，亦是首次籠括日本所有地域（除本身根據地關東地區外）的全國巡迴演唱會\[1\]\[2\]\[3\]。
+2011～**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2011年8月1日至8月31日在[日本](../Page/日本.md "wikilink")13個地區舉行的全國巡迴演唱會，亦是首次籠括日本所有地域（除本身根據地關東地區外）的全國巡迴演唱會\[1\]\[2\]\[3\]。
 
 ## 概要
 
-  - 在5月29日於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱球場舉行的](../Page/橫濱球場.md "wikilink")《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》關東握手會中，分佈將會在8月舉行全國巡迴演唱會\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。地點包括[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[鹿兒島](https://zh.wikipedia.org/wiki/鹿兒島 "wikilink")、[高知](https://zh.wikipedia.org/wiki/高知 "wikilink")、[鳥取](https://zh.wikipedia.org/wiki/鳥取 "wikilink")、[青森](https://zh.wikipedia.org/wiki/青森 "wikilink")、[宮城](https://zh.wikipedia.org/wiki/宮城 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[新潟](https://zh.wikipedia.org/wiki/新潟 "wikilink")、[北海道](../Page/北海道.md "wikilink")、[富山](https://zh.wikipedia.org/wiki/富山 "wikilink")、[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")、[滋賀及](https://zh.wikipedia.org/wiki/滋賀 "wikilink")[兵庫](https://zh.wikipedia.org/wiki/兵庫 "wikilink")\[10\]\[11\]\[12\]\[13\]。
+  - 在5月29日於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱球場](../Page/橫濱球場.md "wikilink")舉行的《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》關東握手會中，分佈將會在8月舉行全國巡迴演唱會\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。地點包括[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[鹿兒島](https://zh.wikipedia.org/wiki/鹿兒島 "wikilink")、[高知](https://zh.wikipedia.org/wiki/高知 "wikilink")、[鳥取](https://zh.wikipedia.org/wiki/鳥取 "wikilink")、[青森](https://zh.wikipedia.org/wiki/青森 "wikilink")、[宮城](https://zh.wikipedia.org/wiki/宮城 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[新潟](https://zh.wikipedia.org/wiki/新潟 "wikilink")、[北海道](../Page/北海道.md "wikilink")、[富山](https://zh.wikipedia.org/wiki/富山 "wikilink")、[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")、[滋賀及](https://zh.wikipedia.org/wiki/滋賀 "wikilink")[兵庫](https://zh.wikipedia.org/wiki/兵庫 "wikilink")\[10\]\[11\]\[12\]\[13\]。
   - 於6月6日成立的Team 4亦會參與今次全國巡迴演唱會\[14\]\[15\]。
   - 官方網站於6月7日公佈更詳盡的全國巡迴演唱會，包括時間、售價及開售日期等\[16\]\[17\]。
 
@@ -230,12 +230,12 @@
 
 ## DVD
 
-巡迴演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS於](../Page/AKS.md "wikilink")2012年2月7日發售，分為Premium
+巡迴演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2012年2月7日發售，分為Premium
 Box版本及通常DVD版本。通常DVD版本共有4款，分別收錄Team
 A、K、B及4在兵庫、滋賀、兵庫及鳥取的公演內容，並附送1張生寫真。而Premium
 Box版本則有16枚DVD，收錄全部15場公演及特典映像，並附送補捉各成員的映像、128頁相片集及5張生寫真\[113\]\[114\]。
 
-根據[Oricon公信榜的統計](../Page/Oricon公信榜.md "wikilink")，DVD的最高排名為146名\[115\]。
+根據[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的統計，DVD的最高排名為146名\[115\]。
 
 ## 参考資料
 

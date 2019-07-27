@@ -1,26 +1,26 @@
 **EXPG**（**EX**ILE **P**ROFESSIONAL
-**G**YM）是藝人經紀公司[LDH所營運的專業表演者培訓學校](https://zh.wikipedia.org/wiki/LDH_\(藝人經紀公司\) "wikilink")。於2003年由[五十嵐廣行所創辦](../Page/五十嵐廣行.md "wikilink")。
+**G**YM）是藝人經紀公司[LDH所營運的專業表演者培訓學校](https://zh.wikipedia.org/wiki/LDH_\(藝人經紀公司\) "wikilink")。於2003年由[五十嵐廣行](../Page/五十嵐廣行.md "wikilink")所創辦。
 
 ## 沿革
 
-  - 2003年-東京校於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木開校](../Page/代代木.md "wikilink")。
-  - 2005年6月1日-宮崎校於[宮崎縣](../Page/宮崎縣.md "wikilink")[宮崎市橘通開校](../Page/宮崎市.md "wikilink")。
+  - 2003年-東京校於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木](../Page/代代木.md "wikilink")開校。
+  - 2005年6月1日-宮崎校於[宮崎縣](../Page/宮崎縣.md "wikilink")[宮崎市](../Page/宮崎市.md "wikilink")橘通開校。
   - 2007年1月14日-札幌校於[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[中央區開校](../Page/中央區_\(札幌市\).md "wikilink")。
   - 2007年9月1日-大阪校於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西區開校](../Page/西區_\(大阪市\).md "wikilink")。
-  - 2008年7月1日-松山校於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[松山市湊町開校](../Page/松山市.md "wikilink")。
+  - 2008年7月1日-松山校於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[松山市](../Page/松山市.md "wikilink")湊町開校。
   - 2009年4月1日-福岡校於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")[中央區開校](../Page/中央區_\(福岡市\).md "wikilink")。
   - 2009年5月25日-東京校遷移至東京都[目黑區](../Page/目黑區.md "wikilink")[東山](../Page/東山_\(目黑區\).md "wikilink")。
   - 2009年9月1日-台北校於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[信義區開校](../Page/信義區_\(臺北市\).md "wikilink")。
-  - 2010年12月18日-沖繩校於[沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市松尾建開校](../Page/那霸市.md "wikilink")。
+  - 2010年12月18日-沖繩校於[沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市](../Page/那霸市.md "wikilink")松尾建開校。
   - 2012年9月1日-名古屋校於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[東區開校](https://zh.wikipedia.org/wiki/東區_\(名古屋市\) "wikilink")。
   - 2013年7月25日-沖繩校遷移至沖繩縣那霸市旭町。
-  - 2013年9月17日-橫濱校於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[神奈川區開校](../Page/神奈川區.md "wikilink")。
+  - 2013年9月17日-橫濱校於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[神奈川區](../Page/神奈川區.md "wikilink")開校。
   - 2014年9月1日
-    -紐約校於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[曼哈頓開校](../Page/曼哈頓.md "wikilink")。\[1\]\[2\]。
+    -紐約校於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")開校。\[1\]\[2\]。
   - 2015年7月13日 -
-    大宫校於[埼玉縣](../Page/埼玉縣.md "wikilink")[埼玉市的](../Page/埼玉市.md "wikilink")[大宫區開校](https://zh.wikipedia.org/wiki/大宫區 "wikilink")。
+    大宫校於[埼玉縣](../Page/埼玉縣.md "wikilink")[埼玉市](../Page/埼玉市.md "wikilink")的[大宫區開校](https://zh.wikipedia.org/wiki/大宫區 "wikilink")。
   - 2016年10月3日 -
-    京都校於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[中京區開校](../Page/中京區.md "wikilink")。
+    京都校於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[中京區](../Page/中京區.md "wikilink")開校。
   - 2017年3月 -
     仙台校於[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉區預定開校](../Page/青葉區_\(仙台市\).md "wikilink")。
 

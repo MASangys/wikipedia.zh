@@ -1,4 +1,4 @@
-《**ELEVEN**》是日本摇滚组合[B'z的的第十一张录音室专辑](../Page/B'z.md "wikilink")。2000年12月6日由[Rooms
+《**ELEVEN**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十一张录音室专辑。2000年12月6日由[Rooms
 RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約113.2萬張，為日本最暢銷專輯第228名。

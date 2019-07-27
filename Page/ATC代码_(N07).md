@@ -33,7 +33,7 @@
 
 ## N07B 用于病态成瘾的药物（Drugs used in addictive disorders）
 
-### N07BA 用于[尼古丁依赖的药物](../Page/尼古丁.md "wikilink")（Drugs used in nicotine dependence）
+### N07BA 用于[尼古丁](../Page/尼古丁.md "wikilink")依赖的药物（Drugs used in nicotine dependence）
 
   -
     N07BA01 [尼古丁](../Page/尼古丁.md "wikilink")（Nicotine）

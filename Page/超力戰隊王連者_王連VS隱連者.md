@@ -41,64 +41,93 @@ VS系列</p></td>
 
 ### 超力戰隊王連者
 
-| 演員                                                                               | 角色    | 代號                |
-| -------------------------------------------------------------------------------- | ----- | ----------------- |
-|                                                                                  |       |                   |
-| [<font color=white>宍戶勝</font>](https://zh.wikipedia.org/wiki/宍戶勝 "wikilink")     | 星野吾郎  | 王紅　（OH Red）       |
-|                                                                                  |       |                   |
-| [<font color=white>正岡邦夫</font>](https://zh.wikipedia.org/wiki/正岡邦夫 "wikilink")   | 四日世昌平 | 王綠　（OH Green）     |
-|                                                                                  |       |                   |
-| [<font color=white>合田雅吏</font>](https://zh.wikipedia.org/wiki/合田雅吏 "wikilink")   | 三田裕司  | 王藍　（OH Blue）      |
-|                                                                                  |       |                   |
-| [<font color=black>穂高あゆみ</font>](https://zh.wikipedia.org/wiki/穂高あゆみ "wikilink") | 二條樹里  | 王黃　（OH Yellow）    |
-|                                                                                  |       |                   |
-| [<font color=white>佐藤珠緒</font>](https://zh.wikipedia.org/wiki/佐藤珠緒 "wikilink")   | 丸尾桃   | 王粉紅（OH Pink）      |
-|                                                                                  |       |                   |
-| [<font color=gold>山口將司</font>](https://zh.wikipedia.org/wiki/山口將司 "wikilink")    | 力     | 國王連者（King Ranger） |
+| 演員                                                                               | 角色    | 代號                | 台配                                                                                 | 港配 |
+| -------------------------------------------------------------------------------- | ----- | ----------------- | ---------------------------------------------------------------------------------- | -- |
+|                                                                                  |       |                   |                                                                                    |    |
+| [<font color=white>宍戶勝</font>](https://zh.wikipedia.org/wiki/宍戶勝 "wikilink")     | 星野吾郎  | 王紅　（OH Red）       | [<font color="White">梁興昌</font>](../Page/梁興昌.md "wikilink")                        |    |
+|                                                                                  |       |                   |                                                                                    |    |
+| [<font color=white>正岡邦夫</font>](https://zh.wikipedia.org/wiki/正岡邦夫 "wikilink")   | 四日世昌平 | 王綠　（OH Green）     | [<font color=white>劉傑</font>](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink") |    |
+|                                                                                  |       |                   |                                                                                    |    |
+| [<font color=white>合田雅吏</font>](https://zh.wikipedia.org/wiki/合田雅吏 "wikilink")   | 三田裕司  | 王藍　（OH Blue）      | [<font color=white>李景唐</font>](../Page/李景唐.md "wikilink")                          |    |
+|                                                                                  |       |                   |                                                                                    |    |
+| [<font color=black>穂高あゆみ</font>](https://zh.wikipedia.org/wiki/穂高あゆみ "wikilink") | 二條樹里  | 王黃　（OH Yellow）    | [<font color=black>詹雅菁</font>](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")       |    |
+|                                                                                  |       |                   |                                                                                    |    |
+| [<font color=white>佐藤珠緒</font>](https://zh.wikipedia.org/wiki/佐藤珠緒 "wikilink")   | 丸尾桃   | 王粉紅（OH Pink）      | [<font color=white>詹雅菁</font>](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")       |    |
+|                                                                                  |       |                   |                                                                                    |    |
+| [<font color=gold>山口將司</font>](https://zh.wikipedia.org/wiki/山口將司 "wikilink")    | 力     | 國王連者（King Ranger） | [<font color=gold>劉傑</font>](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")  |    |
+|                                                                                  |       |                   |                                                                                    |    |
+| [<font color=gold>神谷明</font>](../Page/神谷明.md "wikilink")                         | 顏魔人   | 顏魔神　（Ganmajin）    | [<font color="gold">梁興昌</font>](../Page/梁興昌.md "wikilink")                         |    |
 
 ### 忍者戰隊隱連者
 
-| 演員                                                                             | 角色          | 代號                |
-| ------------------------------------------------------------------------------ | ----------- | ----------------- |
-|                                                                                |             |                   |
-| [<font color=white>小川輝晃</font>](../Page/小川輝晃.md "wikilink")                    | 佐助Sasuke    | 忍者紅（Ninja Red）    |
-|                                                                                |             |                   |
-| [<font color=black>廣瀨仁美</font>](https://zh.wikipedia.org/wiki/廣瀨仁美 "wikilink") | 鶴姬Tsuruhime | 忍者白（Ninja White）  |
-|                                                                                |             |                   |
-| [<font color=black>土田大</font>](../Page/土田大.md "wikilink")                      | 才藏Saizou    | 忍者藍（Ninja Blue）   |
-|                                                                                |             |                   |
-| [<font color=black>河合秀</font>](https://zh.wikipedia.org/wiki/河合秀 "wikilink")   | 晴海Seikai    | 忍者黃（Ninja Yellow） |
-|                                                                                |             |                   |
-| [<font color=white>小杉健</font>](https://zh.wikipedia.org/wiki/小杉健 "wikilink")   | 自來也Jiraiya  | 忍者黑（Ninja Black）  |
-|                                                                                |             |                   |
+| 演員                                                                             | 角色          | 代號                | 台配                                                                                 | 港配 |
+| ------------------------------------------------------------------------------ | ----------- | ----------------- | ---------------------------------------------------------------------------------- | -- |
+|                                                                                |             |                   |                                                                                    |    |
+| [<font color=white>小川輝晃</font>](../Page/小川輝晃.md "wikilink")                    | 佐助Sasuke    | 忍者紅（Ninja Red）    | [<font color=white>劉傑</font>](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink") |    |
+|                                                                                |             |                   |                                                                                    |    |
+| [<font color=black>廣瀨仁美</font>](https://zh.wikipedia.org/wiki/廣瀨仁美 "wikilink") | 鶴姬Tsuruhime | 忍者白（Ninja White）  | [<font color=black>詹雅菁</font>](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")       |    |
+|                                                                                |             |                   |                                                                                    |    |
+| [<font color=black>土田大</font>](../Page/土田大.md "wikilink")                      | 才藏Saizou    | 忍者藍（Ninja Blue）   | [<font color=black>梁興昌</font>](../Page/梁興昌.md "wikilink")                          |    |
+|                                                                                |             |                   |                                                                                    |    |
+| [<font color=black>河合秀</font>](https://zh.wikipedia.org/wiki/河合秀 "wikilink")   | 晴海Seikai    | 忍者黃（Ninja Yellow） | [<font color=black>李景唐</font>](../Page/李景唐.md "wikilink")                          |    |
+|                                                                                |             |                   |                                                                                    |    |
+| [<font color=white>小杉健</font>](https://zh.wikipedia.org/wiki/小杉健 "wikilink")   | 自來也Jiraiya  | 忍者黑（Ninja Black）  | [<font color=white>吳文民</font>](../Page/吳文民.md "wikilink")                          |    |
+|                                                                                |             |                   |                                                                                    |    |
 
 ### 戰隊關係者
 
   -
-    **三浦尚之參謀長<small>｜**[宮內洋](https://zh.wikipedia.org/wiki/宮內洋 "wikilink")</small>
+    **三浦尚之參謀長<small>｜**[宮內洋](https://zh.wikipedia.org/wiki/宮內洋 "wikilink")／台配：[李景唐](../Page/李景唐.md "wikilink")
+    聲</small>
       -
         由於此次的敵人有妖怪，參謀長便商請擅於對付妖怪的隱連者出手幫忙。
     **顏魔神<small>｜**[神谷明](../Page/神谷明.md "wikilink") 聲</small>
       -
         因小孩們的願望前來援救困在倒塌大樓內的小狗以及阻止王連者金剛和阻絕王者的戰鬥，沒想到卻被操縱著阻絕王者的妖怪‧揹揹鬼嚇到逃走。
 
+### 其他人物
+
+  -
+    **小瞳<small>｜**[高野蘭](https://zh.wikipedia.org/wiki/高野蘭 "wikilink")／台配：[錢欣郁](../Page/錢欣郁.md "wikilink")
+    聲</small>
+      -
+        哲也和友也的姐姐，為了報達王連者援救小狗小小和其他民眾，奮不顧身的誘敵脫離小桃身體，結果反被捉走。
+
+<!-- end list -->
+
+  -
+    **哲也<small>｜**[伊藤悠昭](https://zh.wikipedia.org/wiki/伊藤悠昭 "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
+    聲</small>
+      -
+        瞳的弟弟，和友也向顏魔人許願援救困在倒塌大樓內的小狗小小。
+
+<!-- end list -->
+
+  -
+    **友也<small>｜**[厚木拓郎](https://zh.wikipedia.org/wiki/厚木拓郎 "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
+    聲</small>
+      -
+        瞳的弟弟，和哲也向顏魔人許願援救困在倒塌大樓內的小狗小小。
+
 ### 機械帝國‧巴拉諾亞
 
   -
-    **皇帝‧巴卡斯芬特<small>｜**[大平透](https://zh.wikipedia.org/wiki/大平透 "wikilink")
+    **皇帝‧巴卡斯芬特<small>｜**[大平透](https://zh.wikipedia.org/wiki/大平透 "wikilink")／台配：[林谷珍](../Page/林谷珍.md "wikilink")
     聲</small>
       -
         本作的時間軸設定在阻絕王者、轉輪男孩和顏魔神登場後，但照劇集設定巴卡斯芬特早已戰死，便經由「[平行宇宙](https://zh.wikipedia.org/wiki/平行宇宙 "wikilink")」的設定而復活。
-    **皇后‧希絲特莉亞<small>｜**[松島みのり](https://zh.wikipedia.org/wiki/松島みのり "wikilink")
+    **皇后‧希絲特莉亞<small>｜**[松島みのり](https://zh.wikipedia.org/wiki/松島みのり "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
     聲</small>
-    **皇子‧布魯敦特<small>｜**[關智一](../Page/關智一.md "wikilink") 聲</small>
+    **皇子‧布魯敦特<small>｜**[關智一](../Page/關智一.md "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
+    聲</small>
     **執事‧阿恰<small>｜**[肝村兼太](https://zh.wikipedia.org/wiki/肝村兼太 "wikilink")
     聲</small>
     **執事‧寇恰<small>｜**[安達忍](../Page/安達忍.md "wikilink") 聲</small>
-    **巴拉齒輪<small>｜**[仁內建之](../Page/仁內建之.md "wikilink") 聲</small>
+    **巴拉齒輪<small>｜**[仁內建之](../Page/仁內建之.md "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+    聲</small>
       -
         巴卡斯芬特使用自身的[齒輪所製造的機械獸](https://zh.wikipedia.org/wiki/齒輪 "wikilink")。隱藏在體內大量的「超級齒輪」，不僅能操控各式各樣機械（如王連者金剛的主引擎都能被控制），還能提升巴羅兵的機械性使其戰力強化。最後還承受了王連者們的「超力炸藥攻擊」、「大爆炸破壞砲」以及「巨型車輪」的連續大絕招攻擊，足見其出色的耐久性，但仍不敵究極武器「王連大砲」的驚人威力。
-    **揹揹鬼<small>｜**[安西正弘](https://zh.wikipedia.org/wiki/安西正弘 "wikilink")
+    **揹揹鬼<small>｜**[安西正弘](https://zh.wikipedia.org/wiki/安西正弘 "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
     聲</small>
       -
         布魯敦特將[超自然現象與](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")[機械科學結合而製作的妖怪](https://zh.wikipedia.org/wiki/科學 "wikilink")。具有[隱形以及能吸收敵方攻擊](https://zh.wikipedia.org/wiki/隱形 "wikilink")，再將攻擊反彈回去的特殊能力。這能力讓王連者金剛和其他機器人的攻擊完全失效，使得王連者們陷入苦戰。但是光線等以外的攻擊不能接收，強力的物理性攻擊是其弱點。另外，亦有著扮演著小丑的人類型態<small>（[中川素州飾](https://zh.wikipedia.org/wiki/中川素州 "wikilink")）</small>。相當愛好女色，會拉開嘴上的拉鍊，伸出那又長又黏的舌頭汲取年輕女性的生命能量。

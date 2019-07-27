@@ -1,8 +1,8 @@
-**Hanch兄弟**，原名**Tasty**（)。[中國雙人舞蹈偶像組合](../Page/中國.md "wikilink")，成員為雙胞胎兄弟。常被稱為Tasty2wins，Tasty官方歌迷名稱為Twings，意為Twins與wings的結合。
+**Hanch兄弟**，原名**Tasty**（)。[中國](../Page/中國.md "wikilink")雙人舞蹈偶像組合，成員為雙胞胎兄弟。常被稱為Tasty2wins，Tasty官方歌迷名稱為Twings，意為Twins與wings的結合。
 
 ## 早年經歷
 
-Hanch兄弟出生於中國吉林省和龍市，19歲到韓國參加[JYP娛樂面試並成功被錄取](../Page/JYP娛樂.md "wikilink")，之後被公司安排到美國紐約接受舞蹈訓練並學習英語，三年後又回到韓國繼續受訓三年。在JYP娛樂做練習生的時候，擔任過[朴軫永的伴舞](../Page/朴軫永.md "wikilink")。
+Hanch兄弟出生於中國吉林省和龍市，19歲到韓國參加[JYP娛樂](../Page/JYP娛樂.md "wikilink")面試並成功被錄取，之後被公司安排到美國紐約接受舞蹈訓練並學習英語，三年後又回到韓國繼續受訓三年。在JYP娛樂做練習生的時候，擔任過[朴軫永](../Page/朴軫永.md "wikilink")的伴舞。
 [2PM的](https://zh.wikipedia.org/wiki/2PM "wikilink")[Jun.
 K專輯中的](https://zh.wikipedia.org/wiki/金埈秀 "wikilink")“Thanks
 To”曾提及兩兄弟。
@@ -33,7 +33,7 @@ Entertainment目前正努力與Tasty兩名成員協調](https://zh.wikipedia.org
 Entertainment聯繫](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，目前兩人是處於違約狀態。9月14日，以[Woollim
 Entertainment为对象向](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")[首尔中央地方法院提交了](https://zh.wikipedia.org/wiki/首尔中央地方法院 "wikilink")“专属合约效力不存在确认”诉讼。
 
-2016年6月23日，[SM娛樂發表官方聲明](../Page/SM娛樂.md "wikilink")，“首爾中央地方法院在6月23日的宣判中駁回了子公司[Woollim
+2016年6月23日，[SM娛樂](../Page/SM娛樂.md "wikilink")發表官方聲明，“首爾中央地方法院在6月23日的宣判中駁回了子公司[Woollim
 Entertainment旗下華人雙胞胎男子组合Tasty提出的專屬合約無效訴訟](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，訴訟費用將全部由Tasty承擔。SM娛樂最終勝訴”。
 
 ## 成員資料

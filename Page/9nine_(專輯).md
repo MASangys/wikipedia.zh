@@ -1,4 +1,4 @@
-《**9nine**》是日本女子音樂組合[9nine的第三張](../Page/9nine.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2012年3月7日經[SME
+《**9nine**》是日本女子音樂組合[9nine](../Page/9nine.md "wikilink")的第三張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2012年3月7日經[SME
 Records發行](../Page/SME_Records.md "wikilink")。
 
 ## 概要

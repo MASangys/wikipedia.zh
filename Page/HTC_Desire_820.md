@@ -246,15 +246,15 @@ HTC Desire 820搭載
 ### 軟體
 
 HTC Desire 820預計使用[Android
-4.4](https://zh.wikipedia.org/wiki/Android_4.4 "wikilink")[操作系统和](../Page/操作系统.md "wikilink")[HTC
+4.4](https://zh.wikipedia.org/wiki/Android_4.4 "wikilink")[操作系统](../Page/操作系统.md "wikilink")和[HTC
 Sense](../Page/HTC_Sense.md "wikilink") 6使用者界面，另外，在Google i/o
 2014發佈會中，Google宣布了HTC會全力支持[Android
-5.0操作系统](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")，並會於[Google給予他們](../Page/Google.md "wikilink")[Android
+5.0操作系统](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")，並會於[Google](../Page/Google.md "wikilink")給予他們[Android
 5.0最後版本後在計起九十天的升級之期](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")。當中，[HTC
 One M8及The](https://zh.wikipedia.org/wiki/HTC_One_M8 "wikilink") New
 [HTC One (M7)可以獲得Android](../Page/HTC_One_\(M7\).md "wikilink")
 L之升級。而HTC更會經考慮及研究後給予適合之機種取得Android
-L之升級，另外由於在中國市場發售，估計會最晚升級，而且沒有[Google的服務](../Page/Google.md "wikilink")。
+L之升級，另外由於在中國市場發售，估計會最晚升級，而且沒有[Google](../Page/Google.md "wikilink")的服務。
 
 ### Android Lollipop更新
 

@@ -52,26 +52,26 @@ EX-AID with
   -
     主條目：[假面騎士Fourze\#登場人物](../Page/假面騎士Fourze角色列表.md "wikilink")
 
-**如月弦太朗（）**（[福士蒼汰飾](../Page/福士蒼汰.md "wikilink")）
+**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")飾）
 
   -
     **假面騎士Fourze** 的變身者。
     曾就讀天之川學園高中，創立假面騎士部守護校園和平。
     五年後任職天之川學園高中教師，兼宇宙假面騎士部顧問教師。
 
-**歌星賢吾（）**（[高橋龍輝飾](../Page/高橋龍輝.md "wikilink")）
+**歌星賢吾（）**（[高橋龍輝](../Page/高橋龍輝.md "wikilink")飾）
 
   -
     曾就讀天之川學園高中，如月弦太朗的拍擋。
     五年後成為科學家，在宇宙京都大學致力研究宇宙能量，以繼承父親與我望光明的遺願。
 
-**城島悠木（）**（[清水富美加飾](../Page/清水富美加.md "wikilink")）
+**城島悠木（）**（[清水富美加](../Page/清水富美加.md "wikilink")飾）
 
   -
     曾就讀天之川學園高中，兼假面騎士部部長。
     五年後夢想成真，當上了史上最年輕的宇航員，駐守超國際太空站（超国際宇宙ステーション）。
 
-**朔田流星（）**（[吉澤亮飾](../Page/吉澤亮.md "wikilink")）
+**朔田流星（）**（[吉澤亮](../Page/吉澤亮.md "wikilink")飾）
 
   -
     **假面騎士Meteor** 的變身者。
@@ -90,7 +90,7 @@ EX-AID with
     曾就讀天之川學園高中，在假面騎士部負責駕駛Powerdizer。
     五年後成為即將移籍海外的[美式橄欖球職業選手](https://zh.wikipedia.org/wiki/美式橄欖球 "wikilink")。
 
-**野座間友子（）**（[志保飾](../Page/志保.md "wikilink")）
+**野座間友子（）**（[志保](../Page/志保.md "wikilink")飾）
 
   -
     曾就讀天之川學園高中，假面騎士部部員。
@@ -110,7 +110,7 @@ EX-AID with
     天之川學園高中的地理教師。
     在TV版本篇時代擔任假面騎士部顧問教師。
 
-**美咲撫子（）**（[真野惠里菜飾](../Page/真野惠里菜.md "wikilink")）
+**美咲撫子（）**（[真野惠里菜](../Page/真野惠里菜.md "wikilink")飾）
 
   -
     **假面騎士Nadeshiko** 的變身者，宇宙生命體SOLU。
@@ -127,7 +127,7 @@ EX-AID with
     大家的宇宙來了！](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》中與假面騎士部對峙，直至化敵為友共同作戰。
     五年後與朔田流星成為工作伙伴，調查有關超能力士兵的國際犯罪組織。
 
-**大木美代子（）**\[2\]（[足立梨花飾](../Page/足立梨花.md "wikilink")）
+**大木美代子（）**\[2\]（[足立梨花](../Page/足立梨花.md "wikilink")飾）
 
   -
     就讀天之川學園高中，如月弦太朗負責班別 － 1年A班的學生，宇宙假面騎士部部長及唯一成員。
@@ -174,7 +174,7 @@ EX-AID with
 **番場影人（）**（[遠山俊也飾](https://zh.wikipedia.org/wiki/遠山俊也 "wikilink")）
 
   -
-    支援「怪人同盟」的科學家，[武仙座Zodiarts變身者](../Page/武仙座.md "wikilink")。
+    支援「怪人同盟」的科學家，[武仙座](../Page/武仙座.md "wikilink")Zodiarts變身者。
     過去與我望光明共同進行宇宙能量使人體強制進化的研究，但中途因以開發進出宇宙的超能力為大前提而與之分道揚鑣。
     現在正急於著手完成超能力增幅器「Zaber」。
     此角色源自《閃電人》漫畫版及特攝版中的敵方首領**班巴（）**。
@@ -190,7 +190,7 @@ EX-AID with
   -
     天之川學園高中數學教師。
 
-**宇津木遥（）**（[長澤奈央飾](../Page/長澤奈央.md "wikilink")）
+**宇津木遥（）**（[長澤奈央](../Page/長澤奈央.md "wikilink")飾）
 
   -
     天之川學園高中教師。
@@ -200,7 +200,7 @@ EX-AID with
   -
     主條目：[假面騎士Wizard\#登場人物](../Page/假面騎士Wizard角色列表.md "wikilink")
 
-**操真晴人（）**（[白石隼也飾](../Page/白石隼也.md "wikilink")）
+**操真晴人（）**（[白石隼也](../Page/白石隼也.md "wikilink")飾）
 
   -
     戴指環的魔法使－**假面騎士Wizard** 的變身者。
@@ -218,7 +218,7 @@ EX-AID with
     操真晴人的助手，積極地進行協助但多數還是添亂。
     今次事件中跟隨晴人進入「Underworld」。
 
-**大門凛子（）**（[高山侑子飾](../Page/高山侑子.md "wikilink")）
+**大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink")飾）
 
   -
     隸屬鳥井坂警察署的女警，經常支援操真晴人的行動。
@@ -232,19 +232,19 @@ EX-AID with
 **美紗（）**（飾）
 
   -
-    魅影女幹部[美杜莎的宿主](../Page/美杜莎.md "wikilink")。
+    魅影女幹部[美杜莎](../Page/美杜莎.md "wikilink")的宿主。
     提供五名「Gate」給三劍俠，從而發動無限製造怪物的機器。
 
 **雄吾（）**（飾）
 
   -
     魅影幹部[-{菲尼克斯}-的宿主](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")。
-    與同是幹部的[美杜莎共同行動](../Page/美杜莎.md "wikilink")。
+    與同是幹部的[美杜莎](../Page/美杜莎.md "wikilink")共同行動。
 
 **上村優（）**（入來茉-{里}-飾）
 
   -
-    被[美杜莎拿下供給三劍俠的](../Page/美杜莎.md "wikilink")「Gate」之一。
+    被[美杜莎](../Page/美杜莎.md "wikilink")拿下供給三劍俠的「Gate」之一。
     於精神世界「Underworld」卻以魔法使Poitrine 的身份活動，從中遇上操真晴人。
     在「Underworld」中戀棧著成為英雄的虛榮而拒絕返回現實甦醒。
     此角色源自另一特攝作品《[美少女假面Poitrine](https://zh.wikipedia.org/wiki/美少女假面Poitrine "wikilink")》中的**村上優子（）**。
@@ -252,7 +252,7 @@ EX-AID with
 **甜甜圈店店長**（飾）
 
   -
-    流動車[甜甜圈店舖](../Page/甜甜圈.md "wikilink")「Hungry～」的店長。
+    流動車[甜甜圈](../Page/甜甜圈.md "wikilink")店舖「Hungry～」的店長。
 
 **甜甜圈店店員**（飾）
 
@@ -266,7 +266,7 @@ EX-AID with
 
 ### 《假面騎士OOO》
 
-**火野映司（）**（[渡部秀飾](../Page/渡部秀.md "wikilink")）
+**火野映司（）**（[渡部秀](../Page/渡部秀.md "wikilink")飾）
 
   -
     假面騎士OOO的變身者。
@@ -502,25 +502,25 @@ EX-AID with
       -
         雜兵級Yummy。
 
-  - \* **[螳螂Yummy](../Page/螳螂.md "wikilink")（）**
+  - \* **[螳螂](../Page/螳螂.md "wikilink")Yummy（）**
     \* **[貓Yummy](https://zh.wikipedia.org/wiki/貓 "wikilink")（）**
     \* **[犎牛Yummy](https://zh.wikipedia.org/wiki/犎牛 "wikilink")（）**
     \* **[鯊魚Yummy](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")（）**
     \* **[暹羅貓Yummy](https://zh.wikipedia.org/wiki/暹羅貓 "wikilink")（）**
-    \* **[鍬形蟲Yummy](../Page/鍬形蟲.md "wikilink")（）**
+    \* **[鍬形蟲](../Page/鍬形蟲.md "wikilink")Yummy（）**
     \*
-    **[獅子](https://zh.wikipedia.org/wiki/獅子 "wikilink")[水母Yummy](../Page/水母.md "wikilink")（）**
+    **[獅子](https://zh.wikipedia.org/wiki/獅子 "wikilink")[水母](../Page/水母.md "wikilink")Yummy（）**
     \*
-    **[魟魚](https://zh.wikipedia.org/wiki/魟魚 "wikilink")[犀牛Yummy](../Page/犀牛.md "wikilink")（）**
+    **[魟魚](https://zh.wikipedia.org/wiki/魟魚 "wikilink")[犀牛](../Page/犀牛.md "wikilink")Yummy（）**
     \* **[鸚鵡Yummy](https://zh.wikipedia.org/wiki/鸚鵡 "wikilink")（）**
     \* **[黑鳳蝶Yummy](https://zh.wikipedia.org/wiki/鳳蝶科 "wikilink")（）**
-    \* **[貓頭鷹Yummy](../Page/貓頭鷹.md "wikilink")（）**
+    \* **[貓頭鷹](../Page/貓頭鷹.md "wikilink")Yummy（）**
     \* **軍雞Yummy（）**
     \* **[獨角獸Yummy](https://zh.wikipedia.org/wiki/獨角獸 "wikilink")（）**
     \*
-    **[穿山甲](../Page/穿山甲.md "wikilink")[海膽Yummy](../Page/海膽.md "wikilink")（）**
+    **[穿山甲](../Page/穿山甲.md "wikilink")[海膽](../Page/海膽.md "wikilink")Yummy（）**
     \* **[甲龍Yummy](https://zh.wikipedia.org/wiki/甲龍 "wikilink")（）**
-    \* **[禿鷲Yummy](../Page/禿鷲.md "wikilink")（）**
+    \* **[禿鷲](../Page/禿鷲.md "wikilink")Yummy（）**
 
 <!-- end list -->
 
@@ -534,7 +534,7 @@ EX-AID with
       -
         雜兵級Zodiarts。
 
-  - \* **[武仙座Zodiarts](../Page/武仙座.md "wikilink")（）**（替身演出：、CV：）
+  - \* **[武仙座](../Page/武仙座.md "wikilink")Zodiarts（）**（替身演出：、CV：）
     :變身者為番場影人。
 
       -
@@ -544,12 +544,12 @@ EX-AID with
 
   - \*
     **[獵戶座Zodiarts](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")（）**
-    \* **[蝘蜓座Zodiarts](../Page/蝘蜓座.md "wikilink")（）**
+    \* **[蝘蜓座](../Page/蝘蜓座.md "wikilink")Zodiarts（）**
     \*
     **[天壇座Zodiarts](https://zh.wikipedia.org/wiki/天壇座 "wikilink")（）**
     \*
     **[羅盤座Zodiarts](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")（）**
-    \* **[英仙座Zodiarts](../Page/英仙座.md "wikilink")（）**
+    \* **[英仙座](../Page/英仙座.md "wikilink")Zodiarts（）**
     \*
     **[天貓座Zodiarts](https://zh.wikipedia.org/wiki/天貓座 "wikilink")（）**
     \*

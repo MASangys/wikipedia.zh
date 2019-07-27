@@ -1,4 +1,4 @@
-**Chicken**是一个[Scheme语言的](../Page/Scheme.md "wikilink")[编译器和](https://zh.wikipedia.org/wiki/编译器 "wikilink")[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，能够将scheme代码编译成标准[C代码](https://zh.wikipedia.org/wiki/C语言 "wikilink")。它基本上遵守[R5RS标准并且提供了很多扩展](../Page/Scheme.md "wikilink")。Chicken是一个采用[BSD许可证的](../Page/BSD许可证.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
+**Chicken**是一个[Scheme](../Page/Scheme.md "wikilink")语言的[编译器和](https://zh.wikipedia.org/wiki/编译器 "wikilink")[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，能够将scheme代码编译成标准[C代码](https://zh.wikipedia.org/wiki/C语言 "wikilink")。它基本上遵守[R5RS标准并且提供了很多扩展](../Page/Scheme.md "wikilink")。Chicken是一个采用[BSD许可证](../Page/BSD许可证.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 目的
 

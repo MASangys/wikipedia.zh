@@ -1,5 +1,5 @@
-**Kemu**是[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，主要以[VOCALOID來創作歌曲](../Page/VOCALOID.md "wikilink")，並上傳到[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。其上傳的九首歌曲全部達成百萬再生，成為唯一一名全曲傳說的製作人。
-曾與漫畫家[矢吹健太朗的前妻柏木志保發生不倫戀引起軒然大波](../Page/矢吹健太朗.md "wikilink")。\[1\]。
+**Kemu**是[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，主要以[VOCALOID](../Page/VOCALOID.md "wikilink")來創作歌曲，並上傳到[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。其上傳的九首歌曲全部達成百萬再生，成為唯一一名全曲傳說的製作人。
+曾與漫畫家[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")的前妻柏木志保發生不倫戀引起軒然大波。\[1\]。
 
 ## 介绍
 

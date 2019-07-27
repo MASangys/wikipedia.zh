@@ -2,8 +2,8 @@
 X·Y](https://zh.wikipedia.org/wiki/神奇宝贝_X·Y "wikilink")》为蓝本的原作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。接檔《[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")》。本作的主题是「美丽」、「-{zh-hans:牽;
 zh-hk:牽; zh-tw:羈}-絆」、「超進化」等，观众可以在这部新作中感受到明显的画质提升、着重针对人物心理的描写和全新的剧情设定。
 
-由本作起的神奇宝贝系列台灣及香港代理商改為[曼迪傳播](../Page/曼迪傳播.md "wikilink")\[1\]。香港於2014年7月13日起在[翡翠台播映](../Page/翡翠台.md "wikilink")，並即日在[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（改為[myTV
-SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音版本供香港觀眾於14天內重溫；同時翡翠台亦會以[高清](https://zh.wikipedia.org/wiki/高清 "wikilink")（[數碼訊號](../Page/香港數碼地面電視廣播.md "wikilink")）和[4:3](https://zh.wikipedia.org/wiki/4:3 "wikilink")[標清](https://zh.wikipedia.org/wiki/標清 "wikilink")（[模擬訊號](https://zh.wikipedia.org/wiki/模擬訊號 "wikilink")）同步播放。台灣則於2014年8月3日到2015年7月19日於[東森幼幼台播映](../Page/東森幼幼台.md "wikilink")，而[華視於](https://zh.wikipedia.org/wiki/華視 "wikilink")2015年9月11日起播映，[MOMO親子台則於](../Page/MOMO親子台.md "wikilink")2016年起播映。
+由本作起的神奇宝贝系列台灣及香港代理商改為[曼迪傳播](../Page/曼迪傳播.md "wikilink")\[1\]。香港於2014年7月13日起在[翡翠台](../Page/翡翠台.md "wikilink")播映，並即日在[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（改為[myTV
+SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音版本供香港觀眾於14天內重溫；同時翡翠台亦會以[高清](https://zh.wikipedia.org/wiki/高清 "wikilink")（[數碼訊號](../Page/香港數碼地面電視廣播.md "wikilink")）和[4:3](https://zh.wikipedia.org/wiki/4:3 "wikilink")[標清](https://zh.wikipedia.org/wiki/標清 "wikilink")（[模擬訊號](https://zh.wikipedia.org/wiki/模擬訊號 "wikilink")）同步播放。台灣則於2014年8月3日到2015年7月19日於[東森幼幼台](../Page/東森幼幼台.md "wikilink")播映，而[華視於](https://zh.wikipedia.org/wiki/華視 "wikilink")2015年9月11日起播映，[MOMO親子台](../Page/MOMO親子台.md "wikilink")則於2016年起播映。
 
 ## 故事概要
 
@@ -1679,7 +1679,7 @@ VS超級沙奈朵</p></td>
 [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
 [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
-1.  有傳[無綫電視是在](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2013年11月就購買本作第一季，而當時[群英社已經不是代理](../Page/群英社.md "wikilink")，所以本作當時是向日本購買的；亦因為這樣，所以香港首季的代理應該不是曼迪傳播。
+1.  有傳[無綫電視是在](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2013年11月就購買本作第一季，而當時[群英社](../Page/群英社.md "wikilink")已經不是代理，所以本作當時是向日本購買的；亦因為這樣，所以香港首季的代理應該不是曼迪傳播。
 
 2.  第37集－第41集的主題曲畫面為劇場版《[破壞之繭與蒂安希](../Page/Pokemon_the_movie_XY_破壞之繭與蒂安希.md "wikilink")》之劇情內容。
 

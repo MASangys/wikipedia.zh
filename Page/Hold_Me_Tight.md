@@ -1,5 +1,5 @@
 《**Hold Me
-Tight**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[甄楚倩的個人音樂專輯](../Page/甄楚倩.md "wikilink")，於1991年6月11日發行。
+Tight**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[甄楚倩](../Page/甄楚倩.md "wikilink")的個人音樂專輯，於1991年6月11日發行。
 
 ## 曲目
 

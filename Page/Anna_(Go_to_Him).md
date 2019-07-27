@@ -1,5 +1,5 @@
 《**Anna (Go to
-Him)**》，或简称《**Anna**》，是一首[美国歌手](../Page/美国.md "wikilink")的原创歌曲。他的版本于1962年9月17日由[Dot
+Him)**》，或简称《**Anna**》，是一首[美国](../Page/美国.md "wikilink")歌手的原创歌曲。他的版本于1962年9月17日由[Dot
 Records作为单曲发行](https://zh.wikipedia.org/wiki/Dot_Records "wikilink")。[披头士乐队的翻唱版本被收录于他们](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")1963年的处女专辑《[Please
 Please Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》中。
 
@@ -8,7 +8,7 @@ Please Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》中。
 }} 作为约翰·列侬的个人最爱\[1\]，这首歌进入了披头士早期的演出曲库，并因此被收录于首张专辑《[Please Please
 Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》。\[2\]
 
-乐队于1963年2月11日录制了该曲，三遍完成，最终取的是第三遍的录音。这首歌于2月25日完成混音。原版中在钢琴上弹奏的旋律，由[乔治·哈里森在吉他上完成](../Page/乔治·哈里森.md "wikilink")。
+乐队于1963年2月11日录制了该曲，三遍完成，最终取的是第三遍的录音。这首歌于2月25日完成混音。原版中在钢琴上弹奏的旋律，由[乔治·哈里森](../Page/乔治·哈里森.md "wikilink")在吉他上完成。
 
 ### 参与人员
 

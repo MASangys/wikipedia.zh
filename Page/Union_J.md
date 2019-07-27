@@ -2,11 +2,11 @@
 ，有四名成员。原名**Triple
 J**。这个组合最初是一个三人组合，由Josh、JJ、Jaymi组成，他们参加了英国选秀节目《[X音素](../Page/X音素.md "wikilink")》第9季的海选，并晋级到训练营。\[1\]组合的第四名成员George最初是以个人名义参加《X音素》的海选，并获得了评委的通过晋级到训练营。在训练营的比赛中，Triple
 J同GMD3争夺组合组晋级的最后一个名额，但最终评委选择了GMD3，挥泪告别比赛；而George则没有得到晋级下一轮比赛的机会，遭到淘汰。不过由于另一晋级的组合Rough
-Copy放弃了比赛，评委[路易·華許决定让George加入到Triple](../Page/路易·華許.md "wikilink")
+Copy放弃了比赛，评委[路易·華許](../Page/路易·華許.md "wikilink")决定让George加入到Triple
 J中，组成Union J继续他们的比赛。Union J在接下来的比赛中一路过关斩将，并最终获得了第四名。\[2\]\[3\]
 
 《X音素》比赛结束后，2012年12月15日，Union
-J在[卡迪夫宣布他们已签约](https://zh.wikipedia.org/wiki/卡迪夫 "wikilink")[索尼音乐娱乐](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。\[4\]首张单曲已于2013年1月在伦敦录制，预计将在6月发布。\[5\]1月28日，索尼音乐确认其旗下的[RCA唱片签约Union](../Page/RCA唱片.md "wikilink")
+J在[卡迪夫宣布他们已签约](https://zh.wikipedia.org/wiki/卡迪夫 "wikilink")[索尼音乐娱乐](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。\[4\]首张单曲已于2013年1月在伦敦录制，预计将在6月发布。\[5\]1月28日，索尼音乐确认其旗下的[RCA唱片](../Page/RCA唱片.md "wikilink")签约Union
 J。\[6\]
 
 ## 现任成员

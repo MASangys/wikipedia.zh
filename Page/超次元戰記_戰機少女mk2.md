@@ -1,7 +1,7 @@
 為[Idea Factory和](../Page/Idea_Factory.md "wikilink")[Compile
 Heart於](../Page/Compile_Heart.md "wikilink")2011年8月18日所開發的[PlayStation
 3用](../Page/PlayStation_3.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。人物設計及原畫與2010年8月19日發售的前作《[超次元戰記
-戰機少女](../Page/超次元戰記_戰機少女.md "wikilink")》相同由插畫家[Tsunako擔任](../Page/Tsunako.md "wikilink")。第三代作品《[神次元戰記
+戰機少女](../Page/超次元戰記_戰機少女.md "wikilink")》相同由插畫家[Tsunako](../Page/Tsunako.md "wikilink")擔任。第三代作品《[神次元戰記
 戰機少女V](../Page/神次元戰記_戰機少女V.md "wikilink")》於2012年8月30日發售。重製版遊戲《超次次元戰記
 戰機少女Re;Birth2 妹妹世代》（日語：超次次元ゲイム ネプテューヌRe;Birth2 SISTERS
 GENERATION）於2014年3月20日在[PlayStation
@@ -36,7 +36,7 @@ Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")。
 ### 女神候補生
 
   -
-    本作的主角，紫曜之都（Planeptune）的女神候補生。涅普迪努的妹妹，最喜歡自己的姐姐。[天然呆的個性](../Page/天然呆.md "wikilink")。常常對姊姊的行動感到困惑，總是扮演協助姊姊的角色。
+    本作的主角，紫曜之都（Planeptune）的女神候補生。涅普迪努的妹妹，最喜歡自己的姐姐。[天然呆](../Page/天然呆.md "wikilink")的個性。常常對姊姊的行動感到困惑，總是扮演協助姊姊的角色。
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@ Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")。
 <!-- end list -->
 
   -
-    白露之濱（Lowee）的女神候補生。布蘭的妹妹。跟拉姆是雙胞胎，蘿姆是姐姐。有著[無口的個性](../Page/無口.md "wikilink")。會做出接近涅普姬雅的事情。變身前與變身後好像有兩種個性。
+    白露之濱（Lowee）的女神候補生。布蘭的妹妹。跟拉姆是雙胞胎，蘿姆是姐姐。有著[無口](../Page/無口.md "wikilink")的個性。會做出接近涅普姬雅的事情。變身前與變身後好像有兩種個性。
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@ Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")。
 <!-- end list -->
 
   -
-    雖然外觀是[蘿莉樣貌](../Page/蘿莉.md "wikilink")，但是卻唯利是圖（金錢方面）。是一位鍊金術士，到處進行買賣的交易，連內衣或使用過的湯匙都能拿去拍賣。
+    雖然外觀是[蘿莉](../Page/蘿莉.md "wikilink")樣貌，但是卻唯利是圖（金錢方面）。是一位鍊金術士，到處進行買賣的交易，連內衣或使用過的湯匙都能拿去拍賣。
 
 <!-- end list -->
 

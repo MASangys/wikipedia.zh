@@ -1,5 +1,5 @@
 **Sony Xperia
-Z3**，是[索尼於](../Page/索尼.md "wikilink")2014年9月3日發佈的旗艦手機，搭載5.2吋螢幕、2.5
+Z3**，是[索尼](../Page/索尼.md "wikilink")於2014年9月3日發佈的旗艦手機，搭載5.2吋螢幕、2.5
 GHz四核心處理器、3GB記憶體、2,070萬畫素 25mm
 G鏡且支援[4K錄影](https://zh.wikipedia.org/wiki/4K "wikilink")，120fps慢動作錄影。此外防塵性能相對於上一代的Xperia
 Z2有所提升，由原本的IP5X提升到了IP6X。

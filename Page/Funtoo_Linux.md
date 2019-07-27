@@ -11,7 +11,7 @@ Robbins提议解决](https://zh.wikipedia.org/wiki/Daniel_Robbins "wikilink")\[3
 
 ## 特点
 
-Funtoo是一个基于[源代码的](../Page/源代码.md "wikilink")[Linux](../Page/Linux.md "wikilink")[发行版](../Page/Linux发行版.md "wikilink")。它的开发是在[IRC和一个](../Page/IRC.md "wikilink")[邮件列表上讨论进行的](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。\[6\]
+Funtoo是一个基于[源代码](../Page/源代码.md "wikilink")的[Linux](../Page/Linux.md "wikilink")[发行版](../Page/Linux发行版.md "wikilink")。它的开发是在[IRC](../Page/IRC.md "wikilink")和一个[邮件列表上讨论进行的](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。\[6\]
 所做的更改有时会通过一个[Atom源提前发布](../Page/Atom_\(標準\).md "wikilink")。
 
 ### 核心技术
@@ -20,7 +20,7 @@ Funtoo除了默认原生支持UTF-8之外，还包括以下特点：
 
 #### Git
 
-Funtoo使用[Git储存](../Page/Git.md "wikilink")[Portage树](../Page/Portage.md "wikilink")。
+Funtoo使用[Git](../Page/Git.md "wikilink")储存[Portage](../Page/Portage.md "wikilink")树。
 
 #### Metro
 

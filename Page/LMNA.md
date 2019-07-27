@@ -1,5 +1,5 @@
 **核纤层蛋白 A/C**（）是由人类[基因](../Page/基因.md "wikilink")*LMNA*
-编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]\[2\]，属于[核纤层蛋白家族](../Page/核纤层蛋白.md "wikilink")。
+编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]\[2\]，属于[核纤层蛋白](../Page/核纤层蛋白.md "wikilink")家族。
 
 ## 功能
 
@@ -10,7 +10,7 @@ deletion in prelamin A (amino acids 607–656) removes the site for the
 second endoproteolytic cleavage. Consequently, no mature lamin A is
 formed, and a farnesylated mutant prelamin A (progerin) accumulates in
 cells. Coutinho et al. Immunity & Ageing 2009.\[3\]\]\]
-[核纖層是真核生物细胞核中附于](../Page/核纖層.md "wikilink")内侧的网络片层结构。其[核纤层蛋白家族在进化中高度保守](../Page/核纤层蛋白.md "wikilink")。在[有絲分裂过程中](../Page/有絲分裂.md "wikilink")，核纤层蛋白[磷酸化](../Page/磷酸化.md "wikilink")，核纖層解聚（这一过程是可逆的）。Lamin蛋白質被認為與細胞核的穩定性、[染色質的結構與基因的表達有關](https://zh.wikipedia.org/wiki/染色質 "wikilink").
+[核纖層](../Page/核纖層.md "wikilink")是真核生物细胞核中附于内侧的网络片层结构。其[核纤层蛋白](../Page/核纤层蛋白.md "wikilink")家族在进化中高度保守。在[有絲分裂](../Page/有絲分裂.md "wikilink")过程中，核纤层蛋白[磷酸化](../Page/磷酸化.md "wikilink")，核纖層解聚（这一过程是可逆的）。Lamin蛋白質被認為與細胞核的穩定性、[染色質的結構與基因的表達有關](https://zh.wikipedia.org/wiki/染色質 "wikilink").
 Vertebrate lamins consist of two types, A and B. Through [alternate
 splicing](https://zh.wikipedia.org/wiki/alternate_splicing "wikilink"),
 this gene encodes three type A lamin isoforms.\[4\]

@@ -38,7 +38,7 @@ Kari Kimmel - Let's Light It Up (2012-2015)
 ### WWE 誹聞男友
 
 AJ Lee在[Raw一開始的設定是](https://zh.wikipedia.org/wiki/Raw "wikilink")[Daniel
-Bryan的女友](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")，但因在[摔角狂熱上因為和Aj親親之後](../Page/摔角狂熱.md "wikilink")，[Daniel
+Bryan的女友](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")，但因在[摔角狂熱](../Page/摔角狂熱.md "wikilink")上因為和Aj親親之後，[Daniel
 Bryan轉身立刻被對手](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")[Sheamus一技大腳](https://zh.wikipedia.org/wiki/Sheamus "wikilink")，
 18秒終結比賽，失去了冠軍頭銜，2人感情因此產生縫隙，也註定了之後同時擁有多位男朋友的命運。
 

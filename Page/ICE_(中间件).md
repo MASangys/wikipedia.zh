@@ -1,12 +1,12 @@
 **Internet Communications
-Engine**，或**Ice**，是[ZeroC开发的一个](https://zh.wikipedia.org/wiki/ZeroC "wikilink")[面向对象的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[中间件平台](../Page/中间件.md "wikilink")。它提供了面向对象的[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")、[网格计算和](../Page/网格计算.md "wikilink")[发布/订阅功能](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink")，并有基于[GPL的](https://zh.wikipedia.org/wiki/GPL "wikilink")[双许可协议和一个私有许可协议](https://zh.wikipedia.org/wiki/多许可 "wikilink")。它支持[Linux](../Page/Linux.md "wikilink")、[Solaris](https://zh.wikipedia.org/wiki/Solaris_\(操作系统\) "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
+Engine**，或**Ice**，是[ZeroC开发的一个](https://zh.wikipedia.org/wiki/ZeroC "wikilink")[面向对象的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[中间件](../Page/中间件.md "wikilink")平台。它提供了面向对象的[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")、[网格计算](../Page/网格计算.md "wikilink")和[发布/订阅功能](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink")，并有基于[GPL的](https://zh.wikipedia.org/wiki/GPL "wikilink")[双许可协议和一个私有许可协议](https://zh.wikipedia.org/wiki/多许可 "wikilink")。它支持[Linux](../Page/Linux.md "wikilink")、[Solaris](https://zh.wikipedia.org/wiki/Solaris_\(操作系统\) "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
 OS
 X等最主要的操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，和[C++](../Page/C++.md "wikilink")、[Java](https://zh.wikipedia.org/wiki/Java平台 "wikilink")、[.NET语言](../Page/.NET框架.md "wikilink")（如[C\#或](https://zh.wikipedia.org/wiki/C_Sharp_\(编程语言\) "wikilink")[Visual
-Basic](../Page/Visual_Basic.md "wikilink")）、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](https://zh.wikipedia.org/wiki/Python_\(编程语言\) "wikilink")、[PHP和](../Page/PHP.md "wikilink")[Ruby等语言](../Page/Ruby.md "wikilink")\[1\]。Ice运行时的一个轻量变体叫做Ice-e，\[2\]可以运行在[移动电话中](../Page/移动电话.md "wikilink")。如它的名字所表明，该中间件可以被用于应用程序，而不需要使用[HTTP协议](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并且有能力穿越[防火墙](../Page/防火墙.md "wikilink")（这一点不同于当时的其它中间件）。
+Basic](../Page/Visual_Basic.md "wikilink")）、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](https://zh.wikipedia.org/wiki/Python_\(编程语言\) "wikilink")、[PHP](../Page/PHP.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")等语言\[1\]。Ice运行时的一个轻量变体叫做Ice-e，\[2\]可以运行在[移动电话](../Page/移动电话.md "wikilink")中。如它的名字所表明，该中间件可以被用于应用程序，而不需要使用[HTTP协议](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并且有能力穿越[防火墙](../Page/防火墙.md "wikilink")（这一点不同于当时的其它中间件）。
 
 ## 历史
 
-ZeroC于2002年成立于[佛罗里达](https://zh.wikipedia.org/wiki/佛罗里达 "wikilink")。\[3\]Ice的设计受到了[CORBA的影响](../Page/CORBA.md "wikilink")，并且实际上也是由几位有影响力的CORBA开发者创立的，包括[Michi
+ZeroC于2002年成立于[佛罗里达](https://zh.wikipedia.org/wiki/佛罗里达 "wikilink")。\[3\]Ice的设计受到了[CORBA](../Page/CORBA.md "wikilink")的影响，并且实际上也是由几位有影响力的CORBA开发者创立的，包括[Michi
 Henning](https://zh.wikipedia.org/wiki/Michi_Henning "wikilink")。不过，按照ZeroC的说法，它比CORBA更小更简洁，因为它是由一个富有经验的开发者小团体设计的，而不是难产于。\[4\]
 
 2004年，有报道称，一家名为Mutable
@@ -20,7 +20,7 @@ Ice的组件包括面向对象的远程对象调用、响应（replication<sup>�
 
 ### IceStorm
 
-是一个面向对象的发布和订阅框架，它还支持联盟（federation）和服务质量（quality-of-service）。不同于其它的发布-订阅框架如[TIBCO软件公司的](../Page/TIBCO软件公司.md "wikilink")[Rendezvous或](https://zh.wikipedia.org/wiki/TIBCO_Rendezvous "wikilink")[SmartSockets](https://zh.wikipedia.org/wiki/SmartSockets "wikilink")，它的消息内容是由定义良好的类的对象组成的，而不是由结构化文本组成的。
+是一个面向对象的发布和订阅框架，它还支持联盟（federation）和服务质量（quality-of-service）。不同于其它的发布-订阅框架如[TIBCO软件公司](../Page/TIBCO软件公司.md "wikilink")的[Rendezvous或](https://zh.wikipedia.org/wiki/TIBCO_Rendezvous "wikilink")[SmartSockets](https://zh.wikipedia.org/wiki/SmartSockets "wikilink")，它的消息内容是由定义良好的类的对象组成的，而不是由结构化文本组成的。
 
 ### IceGrid
 
@@ -51,8 +51,8 @@ Ice）是一个Zeroc私有的文件格式，程序员按照它来编辑独立于
   - [ASN.1](../Page/ASN.1.md "wikilink")
   - Caucho的
   - [Cisco的](https://zh.wikipedia.org/wiki/Cisco "wikilink")
-  - [Facebook的](../Page/Facebook.md "wikilink")[Thrift](../Page/Thrift.md "wikilink")
-  - [Google的](../Page/Google.md "wikilink")[Protocol
+  - [Facebook](../Page/Facebook.md "wikilink")的[Thrift](../Page/Thrift.md "wikilink")
+  - [Google](../Page/Google.md "wikilink")的[Protocol
     Buffers](../Page/Protocol_Buffers.md "wikilink")
   - [Microsoft的](https://zh.wikipedia.org/wiki/Microsoft "wikilink")“”
 

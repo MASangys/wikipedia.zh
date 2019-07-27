@@ -1,4 +1,4 @@
-是[南梦宫在](../Page/南梦宫.md "wikilink")1994年发行的[3D](../Page/三维计算机图形.md "wikilink")[竞速](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")。游戏中玩家驾驶[一级方程式赛车在各种赛道环行](https://zh.wikipedia.org/wiki/一级方程式 "wikilink")。
+是[南梦宫](../Page/南梦宫.md "wikilink")在1994年发行的[3D](../Page/三维计算机图形.md "wikilink")[竞速](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")。游戏中玩家驾驶[一级方程式赛车在各种赛道环行](https://zh.wikipedia.org/wiki/一级方程式 "wikilink")。
 
 南梦宫之后发行了两部街机续作：《A级方程式赛车 胜利金足》（1996）和《A级方程式赛车3 最终圈》（2008）。
 

@@ -1,10 +1,10 @@
-**UTV**，是[香港以](../Page/香港.md "wikilink")[互聯網方式傳送的](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[多媒體娛樂電視服務](https://zh.wikipedia.org/wiki/多媒體 "wikilink")，為[中國移動香港取得](../Page/中國移動香港.md "wikilink")[香港流動電視牌照後推出的品牌](https://zh.wikipedia.org/wiki/香港電視廣播#流動電視 "wikilink")，用戶可透過[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")、[平板電腦及](../Page/平板電腦.md "wikilink")[電視屏幕使用其服務](https://zh.wikipedia.org/wiki/電視屏幕 "wikilink")。
+**UTV**，是[香港](../Page/香港.md "wikilink")以[互聯網方式傳送的](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[多媒體娛樂電視服務](https://zh.wikipedia.org/wiki/多媒體 "wikilink")，為[中國移動香港](../Page/中國移動香港.md "wikilink")取得[香港流動電視牌照後推出的品牌](https://zh.wikipedia.org/wiki/香港電視廣播#流動電視 "wikilink")，用戶可透過[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")、[平板電腦](../Page/平板電腦.md "wikilink")及[電視屏幕使用其服務](https://zh.wikipedia.org/wiki/電視屏幕 "wikilink")。
 
 ## 歷史
 
-[中國移動香港在](../Page/中國移動香港.md "wikilink")2010年6月用1億7千5百萬[港元投得綜合傳送者牌照](../Page/港元.md "wikilink")，以提供廣播類[流動電視及相關服務](https://zh.wikipedia.org/wiki/香港電視廣播#流動電視 "wikilink")。競投對手包括[電訊盈科及](../Page/電訊盈科.md "wikilink")[城市電訊](../Page/城市電訊.md "wikilink")（現名為[香港電視網絡](../Page/香港電視網絡.md "wikilink")）。\[1\]\[2\]
+[中國移動香港](../Page/中國移動香港.md "wikilink")在2010年6月用1億7千5百萬[港元](../Page/港元.md "wikilink")投得綜合傳送者牌照，以提供廣播類[流動電視及相關服務](https://zh.wikipedia.org/wiki/香港電視廣播#流動電視 "wikilink")。競投對手包括[電訊盈科](../Page/電訊盈科.md "wikilink")及[城市電訊](../Page/城市電訊.md "wikilink")（現名為[香港電視網絡](../Page/香港電視網絡.md "wikilink")）。\[1\]\[2\]
 
-UTV於2012年12月10日正式啟播，啟播時一共有8條頻道，包括2條免費頻道和6條收費頻道。\[3\]免費頻道包括UTV旗艦頻道[UOne和](../Page/UOne.md "wikilink")[互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")，收費頻道則包括[美亞高清電影台](../Page/美亞電影台.md "wikilink")、[channel
+UTV於2012年12月10日正式啟播，啟播時一共有8條頻道，包括2條免費頻道和6條收費頻道。\[3\]免費頻道包括UTV旗艦頻道[UOne](../Page/UOne.md "wikilink")和[互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")，收費頻道則包括[美亞高清電影台](../Page/美亞電影台.md "wikilink")、[channel
 M
 高清頻道](https://zh.wikipedia.org/wiki/channel_M "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台](../Page/衛視中文台.md "wikilink")、[Cartoon
 Network和印尼頻道](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")[MNC
@@ -20,7 +20,7 @@ International將於](https://zh.wikipedia.org/wiki/MNC_International "wikilink")
 
 2015年4月17日，UTV透過官網表示[美亞高清電影台將於](../Page/美亞電影台.md "wikilink")2015年4月16日起成為免費頻道。\[6\]
 
-2015年11月30日，由2015年12月1日起，UTV免費頻道之[UOne及](../Page/UOne.md "wikilink")[美亞高清電影台將停止提供服務](../Page/美亞電影台.md "wikilink")。\[7\]同日，[C+
+2015年11月30日，由2015年12月1日起，UTV免費頻道之[UOne](../Page/UOne.md "wikilink")及[美亞高清電影台將停止提供服務](../Page/美亞電影台.md "wikilink")。\[7\]同日，[C+
 頻道在](../Page/C+_頻道.md "wikilink")521頻道啟播。
 
 2015年12月30日，由2016年2月1日起，UTV免費頻道之[互動新聞台及UTV收費頻道之](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")[Cartoon
@@ -31,14 +31,14 @@ Network將停止提供服務](https://zh.wikipedia.org/wiki/Cartoon_Network "wik
 2016年6月3日，[Channel
 M第](https://zh.wikipedia.org/wiki/Channel_M "wikilink")524頻道改名為[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")。
 
-2017年12月1日，UTV收費頻道之[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台停播](../Page/衛視中文台.md "wikilink")。\[10\]
+2017年12月1日，UTV收費頻道之[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台](../Page/衛視中文台.md "wikilink")停播。\[10\]
 
 UTV的應用程式除了適用於香港外，將會在短期內擴展至澳門、印尼、新加坡、馬來西亞、泰國和中國大陸的廣東省地區。
 
 ## 收看方法
 
 由於持有大氣電波的「China Mobile Hong Kong Corporation
-Limited」已由香港電視網絡收購，現時中國移動香港的UTV支援[Android平台和](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，使用者可在以Android或iOS作為[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[手提電話或](https://zh.wikipedia.org/wiki/手提電話 "wikilink")[平板電腦上安裝UTV的](../Page/平板電腦.md "wikilink")[應用程式收看頻道](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")，或使用由UTV自行推出的以Android作為作業系統的UTV
+Limited」已由香港電視網絡收購，現時中國移動香港的UTV支援[Android](../Page/Android.md "wikilink")平台和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，使用者可在以Android或iOS作為[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[手提電話或](https://zh.wikipedia.org/wiki/手提電話 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")上安裝UTV的[應用程式收看頻道](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")，或使用由UTV自行推出的以Android作為作業系統的UTV
 Dongle。\[11\]UTV Dongle具有HDMI插頭，插在電視機上直接使用。\[12\]
 
 觀眾不用與UTV簽約即可收看UTV提供的免費頻道，而收看收費頻道亦不需簽約，只需按月收費。\[13\]

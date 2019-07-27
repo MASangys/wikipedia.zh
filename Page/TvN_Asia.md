@@ -1,5 +1,5 @@
 tvN}}   **tvN Asia**原為tvN Southeast Asia及Channel
-M，針對[亞洲播放的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，由[Mnet媒體和](../Page/Mnet媒體.md "wikilink")[新闻集团旗下](../Page/新闻集团_\(1979－2013年\).md "wikilink")[星空传媒](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")（现时的[福斯國際電視網](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")）共同創辦，於2009年10月26日開播。该频道提供了各种各样的节目组合，从
+M，針對[亞洲播放的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，由[Mnet媒體](../Page/Mnet媒體.md "wikilink")和[新闻集团旗下](../Page/新闻集团_\(1979－2013年\).md "wikilink")[星空传媒](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")（现时的[福斯國際電視網](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")）共同創辦，於2009年10月26日開播。该频道提供了各种各样的节目组合，从
 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")，[Mnet](../Page/Mnet媒體.md "wikilink")，OtvN,
 Champ TV（动画频道），[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")，DIA
 TV，XtvN，SBS MTV，[MBN](../Page/每日广播.md "wikilink")，OLIVE，和
@@ -72,14 +72,14 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
 <tr class="even">
 <td><p>星期三</p></td>
 <td><p>23:05 - 00:35</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/在当地吃得开吗_(第三季)" title="wikilink">在当地吃得开吗 (第三季)</a></p></td>
-<td><p>5月1日起</p></td>
+<td><p><a href="../Page/高校供餐王.md" title="wikilink">高校供餐王</a></p></td>
+<td><p>7月24日起</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>星期五</p></td>
 <td><p>23:05 - 00:25</p></td>
-<td><p><a href="../Page/守美的拌菜.md" title="wikilink">守美家秘笈：韩式饭饌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/守美的饭馔" title="wikilink">守美家秘笈：韩式饭饌</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -98,9 +98,9 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
 <td></td>
 </tr>
 <tr class="even">
-<td><p>星期日</p></td>
-<td><p>23:05 - 00:35</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大逃脫2" title="wikilink">大逃脫2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂3" title="wikilink">姜食堂3</a></p></td>
+<td><p>7月13日起，下半节播出</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -358,10 +358,10 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
 ♤</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月4日 - 2019年</p></td>
+<td><p>2019年5月4日 - 2019年7月20日</p></td>
 <td><p>星期六 17:05</p></td>
 <td><p><a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a></p></td>
-<td><p>13</p></td>
+<td><p>12</p></td>
 <td><p><br />
 <br />
 <br />
@@ -374,16 +374,25 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
 </p></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月12日 - 2019年</p></td>
+<td><p>2019年5月12日 - 2019年7月1日</p></td>
 <td><p>星期日、一 20:50(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
 <td><p><a href="../Page/Voice3.md" title="wikilink">声音3</a></p></td>
 <td><p>16</p></td>
 <td><p>♤</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年6月6日 - 2019年</p></td>
+<td><p>2019年6月6日 - 2019年7月26日</p></td>
 <td><p>星期四、五 21:50</p></td>
 <td><p><a href="../Page/請輸入檢索詞WWW.md" title="wikilink">請輸入檢索詞WWW</a></p></td>
+<td><p>16</p></td>
+<td><p><br />
+<br />
+♤</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月1日 - 2019年9月20日</p></td>
+<td><p>星期四、五 21:50</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/当恶魔呼喊你的名字时" title="wikilink">当恶魔呼喊你的名字时</a></p></td>
 <td><p>16</p></td>
 <td><p><br />
 <br />
@@ -500,7 +509,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《[請回答1994](../Page/請回答1994.md "wikilink")》
   - 《[急診男女](../Page/急診男女.md "wikilink")》
   - 《韓食大賽》
-  - 《[吸血鬼檢察官2](../Page/吸血鬼檢察官.md "wikilink")》
+  - 《[吸血鬼檢察官](../Page/吸血鬼檢察官.md "wikilink")2》
   - 《K-POP concert》
   - 《Open the Star》
   - 《Mom's challenges, hopes infancy in the Sahara》
@@ -531,7 +540,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《[壞傢伙們](https://zh.wikipedia.org/wiki/壞小子們 "wikilink")》
   - 《超級偶像排行榜》
   - 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》
-  - 《[神的測驗3](../Page/神的測驗.md "wikilink")》
+  - 《[神的測驗](../Page/神的測驗.md "wikilink")3》
   - 《[和姐姐Go Go](https://zh.wikipedia.org/wiki/河智苑#綜藝節目 "wikilink")》
   - 《A beautiful story of millionaire》
   - 《Blue House bapsang》

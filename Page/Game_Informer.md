@@ -1,5 +1,5 @@
 《**Game
-Informer**》（**GI**）是美國的[电子游戏](../Page/电子游戏.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")，由[GameStop公司經營與發行](../Page/GameStop.md "wikilink")，內容包含特色報導、遊戲新聞、遊戲攻略及評論。成立於1991年8月，當時只發行6頁的免費雜誌\[1\]。今日，Game
+Informer**》（**GI**）是美國的[电子游戏](../Page/电子游戏.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")，由[GameStop](../Page/GameStop.md "wikilink")公司經營與發行，內容包含特色報導、遊戲新聞、遊戲攻略及評論。成立於1991年8月，當時只發行6頁的免費雜誌\[1\]。今日，Game
 Informer已達到750萬訂戶，並在2011年底成為第4大雜誌\[2\]。
 
 2009年9月，也是12月即將出滿200期的前夕，《Game Informer》重新設計了雜誌和網頁。\[3\]

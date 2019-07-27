@@ -11,7 +11,7 @@ stat1label = | stat1value = | stat2label = | stat2value = | stat3label =
 | stat3value = | letter = | bbr = | profile = | HOF = | HOF_player = |
 HOF_coach = }}
 
-**西奥多·罗斯福·邓恩**（，），[美国](../Page/美国.md "wikilink")[NBA联盟前职业](../Page/NBA.md "wikilink")[篮球运动员](../Page/篮球.md "wikilink")。他在1977年的[NBA选秀中第](../Page/NBA选秀.md "wikilink")2轮第19顺位被[波特兰开拓者选中](../Page/波特兰开拓者.md "wikilink")。{{\#tag:ref||name=nbastat}}
+**西奥多·罗斯福·邓恩**（，），[美国](../Page/美国.md "wikilink")[NBA](../Page/NBA.md "wikilink")联盟前职业[篮球](../Page/篮球.md "wikilink")运动员。他在1977年的[NBA选秀](../Page/NBA选秀.md "wikilink")中第2轮第19顺位被[波特兰开拓者](../Page/波特兰开拓者.md "wikilink")选中。{{\#tag:ref||name=nbastat}}
 
 ## 参考资料
 

@@ -1,5 +1,5 @@
 《**We Can Dance
-Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國的第二張單曲](../Page/徐仁國.md "wikilink")，由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin協作作曲](../Page/Justin.md "wikilink")，並在2013年10月16日以兩個不同版本推出\[1\]。
+Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國](../Page/徐仁國.md "wikilink")的第二張單曲，由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin](../Page/Justin.md "wikilink")協作作曲，並在2013年10月16日以兩個不同版本推出\[1\]。
 
 ## 背景
 
@@ -10,7 +10,7 @@ Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 此單曲共分為2個發行版本，每個版本都收錄了三首歌曲的純音樂版本，首批版本附有握手會參加卷。
 
   - Type-A（編號：CRCP-10297）：這版本包括了一片CD及《We Can Dance
-    Tonight》[音樂錄影帶與製作特輯的DVD](../Page/音樂錄影帶.md "wikilink")\[4\]。
+    Tonight》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作特輯的DVD\[4\]。
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@ Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ----- | ------ | ---- |
 | 單曲日榜                                     | 24   | \-    | 3,796+ | 4    |
 | 單曲週榜                                     | 21   | 3,796 |        |      |

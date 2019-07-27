@@ -1,5 +1,5 @@
 **J Soul
-Brothers**是[日本的](../Page/日本.md "wikilink")[男子歌舞團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，為[放浪一族的組成團體之一](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，所屬唱片公司為[rhythm
+Brothers**是[日本](../Page/日本.md "wikilink")的[男子歌舞團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，為[放浪一族的組成團體之一](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，所屬唱片公司為[rhythm
 zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 該團體曾組成過3次：
@@ -20,7 +20,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
   - 1991年，[HIRO組成由](../Page/五十嵐廣行.md "wikilink")[鮑比·布朗命名的舞蹈團體](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")「Japanese
     Soul Brothers」。
-  - [MATSU](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI加入](../Page/MAKIDAI.md "wikilink")。
+  - [MATSU](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI](../Page/MAKIDAI.md "wikilink")加入。
 
 ### 初代：1999年至2001年
 
@@ -38,8 +38,8 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   - 2007年5月11日在「EXILE LIVE TOUR 2007 EXILE
     EVOLUTION」發表組成。8月4日·5日的廵廻最後公演，成員首次公開表演。主唱是「EXILE
     VOCAL BATTLE AUDITION 2006 ～ ASIAN DREAM
-    ～」出身的[NESMITH及](../Page/NESMITH.md "wikilink")[SHOKICHI](../Page/SHOKICHI.md "wikilink")，表演者則是[KENCHI](../Page/KENCHI.md "wikilink")，[KEIJI](../Page/KEIJI.md "wikilink")，[TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")。
-  - 2007年11月10日，表演者[NAOTO與](../Page/NAOTO.md "wikilink")[NAOKI加入](https://zh.wikipedia.org/wiki/NAOKI "wikilink")，7位成員首次全體公開表演。
+    ～」出身的[NESMITH](../Page/NESMITH.md "wikilink")及[SHOKICHI](../Page/SHOKICHI.md "wikilink")，表演者則是[KENCHI](../Page/KENCHI.md "wikilink")，[KEIJI](../Page/KEIJI.md "wikilink")，[TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")。
+  - 2007年11月10日，表演者[NAOTO](../Page/NAOTO.md "wikilink")與[NAOKI加入](https://zh.wikipedia.org/wiki/NAOKI "wikilink")，7位成員首次全體公開表演。
   - 2008年5月7日，以單曲『[WE\!](../Page/WE!.md "wikilink")』作獨立製作單曲出道。
   - 2008年10月2日起，開始為期約1個月以1台麵包車移動全國的「再次武者修行」48公演。
   - 2008年11月29日起參與EXILE舉行的巨蛋巡廻「EXILE PERFECT LIVE 2008」演出。
@@ -62,10 +62,10 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 **2010年**
 
-  - 7月19日播放的[週刊EXILE發表](../Page/週刊EXILE.md "wikilink")「**第三代J Soul
+  - 7月19日播放的[週刊EXILE](../Page/週刊EXILE.md "wikilink")發表「**第三代J Soul
     Brothers**」誕生的消息。表演者是EXILE裏的成員NAOTO和NAOKI、劇團EXILE風組，再從「EXILE
     Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們 \~」最終名單選出主唱2名。
-  - 9月15日，最後現場表演審查結束後，合格者決定為[今市隆二和](../Page/今市隆二.md "wikilink")[登坂廣臣](../Page/登坂廣臣.md "wikilink")。
+  - 9月15日，最後現場表演審查結束後，合格者決定為[今市隆二](../Page/今市隆二.md "wikilink")和[登坂廣臣](../Page/登坂廣臣.md "wikilink")。
   - 9月27日，在「FANTASY後夜祭
     ～EXILE魂～」中，加上未發表的2名表演者，劇團EXILE風組的和大學生的[岩田剛典](../Page/岩田剛典.md "wikilink")，7個成員首次全體公開表演。
   - 11月10日，以「EXILE Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們
@@ -80,7 +80,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   - 6月28日，與二代目J Soul Brothers（現在是EXILE成員）舉行聯合廵廻演唱會「二代目J Soul Brothers VS
     三代目J Soul Brothers Live Tour 2011～EXILE
     TRIBE～」。於兵庫縣和埼玉縣舉行15場公演，動員約15萬人。
-  - 9月7日，被[日本電視台劇集](../Page/日本電視台.md "wikilink")「[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](../Page/FIGHTERS.md "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J
+  - 9月7日，被[日本電視台](../Page/日本電視台.md "wikilink")劇集「[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](../Page/FIGHTERS.md "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J
     Soul Brothers的第一次。
 
 **2012年**
@@ -88,7 +88,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   - 4月起參與「EXILE TRIBE LIVE TOUR 2012～TOWER OF WISH～」演出。
   - 9月1日，舉行首次單獨巡廻演唱會「第三代J Soul Brothers LIVE TOUR
     2012『0～ZERO～』」。於9處地方舉行27場公演，動員約25萬人。
-  - 12月30日，第七張單曲『[0〜ZERO〜](../Page/0〜ZERO〜.md "wikilink")』所收錄的『煙火』獲得優秀作品獎，為[日本唱片大獎首次出場](../Page/日本唱片大獎.md "wikilink")。
+  - 12月30日，第七張單曲『[0〜ZERO〜](../Page/0〜ZERO〜.md "wikilink")』所收錄的『煙火』獲得優秀作品獎，為[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")首次出場。
   - 12月31日，以『煙火』在[NHK紅白歌合戰首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
 **2013年**
@@ -127,7 +127,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 **2017年**
 
   - 3月17日、第13張單曲「R.Y.U.S.E.I.」下載數突破100萬、得到日本唱片協會的百萬銷量證明。\[8\]。
-  - 同年、巨蛋巡迴演唱會舉行全37場公演。一年間内巨蛋公演動員人數(148.2万人)為史上記錄最多\[9\]。同一項目於[東京巨蛋表演](../Page/東京巨蛋.md "wikilink")10次公演為史上最多記錄\[10\]。
+  - 同年、巨蛋巡迴演唱會舉行全37場公演。一年間内巨蛋公演動員人數(148.2万人)為史上記錄最多\[9\]。同一項目於[東京巨蛋](../Page/東京巨蛋.md "wikilink")表演10次公演為史上最多記錄\[10\]。
 
 ## 成員
 
@@ -790,7 +790,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 </tr>
 <tr class="even">
 <td><p>On Your Mark 〜奇蹟之光〜</p></td>
-<td><p>・<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系劇集</a>『』主題曲</p></td>
+<td><p>・<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系劇集『』主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>LOVE SONG</p></td>
@@ -870,7 +870,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 </tr>
 <tr class="even">
 <td><p>24karats TRIBE OF GOLD</p></td>
-<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台劇集</a>『<a href="https://zh.wikipedia.org/wiki/GTO_(2012年電視劇)" title="wikilink">GTO</a>』主題曲</p></td>
+<td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>劇集『<a href="https://zh.wikipedia.org/wiki/GTO_(2012年電視劇)" title="wikilink">GTO</a>』主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>FLAP YOUR WINGS</p></td>

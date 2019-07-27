@@ -1,17 +1,17 @@
-**Jetty**是一个纯粹的基于[Java的](../Page/Java.md "wikilink")[网页服务器和](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")[Java
-Servlet](../Page/Java_Servlet.md "wikilink")[容器](https://zh.wikipedia.org/wiki/Web容器 "wikilink")。尽管网页服务器通常用来为人们呈现文档，但是Jetty通常在较大的软件框架中用于计算机与计算机之间的通信。Jetty作为[Eclipse基金会的一部分](../Page/Eclipse基金会.md "wikilink")，是一个[自由和](../Page/自由软件.md "wikilink")[开源项目](../Page/开放源代码.md "wikilink")。该网页服务器被用在[Apache
+**Jetty**是一个纯粹的基于[Java](../Page/Java.md "wikilink")的[网页服务器和](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")[Java
+Servlet](../Page/Java_Servlet.md "wikilink")[容器](https://zh.wikipedia.org/wiki/Web容器 "wikilink")。尽管网页服务器通常用来为人们呈现文档，但是Jetty通常在较大的软件框架中用于计算机与计算机之间的通信。Jetty作为[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")的一部分，是一个[自由和](../Page/自由软件.md "wikilink")[开源项目](../Page/开放源代码.md "wikilink")。该网页服务器被用在[Apache
 ActiveMQ](../Page/Apache_ActiveMQ.md "wikilink")\[1\]、\[2\]、\[3\]、[Apache
 Maven](../Page/Apache_Maven.md "wikilink")、[Apache
 Spark](../Page/Apache_Spark.md "wikilink")、[Google App
 Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")\[4\]、[Eclipse](../Page/Eclipse.md "wikilink")\[5\]、[FUSE](../Page/FUSE.md "wikilink")\[6\]、[Twitter's
 Streaming
-API](https://zh.wikipedia.org/wiki/HOSEbird "wikilink")\[7\]、\[8\]等产品上。Jetty也是[Lift](../Page/Lift_\(Web應用框架\).md "wikilink")、[Eucalyptus](https://zh.wikipedia.org/wiki/Eucalyptus "wikilink")、、[Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")、[I2P等开源项目的服务器](../Page/I2P.md "wikilink")。\[9\]
+API](https://zh.wikipedia.org/wiki/HOSEbird "wikilink")\[7\]、\[8\]等产品上。Jetty也是[Lift](../Page/Lift_\(Web應用框架\).md "wikilink")、[Eucalyptus](https://zh.wikipedia.org/wiki/Eucalyptus "wikilink")、、[Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")、[I2P](../Page/I2P.md "wikilink")等开源项目的服务器。\[9\]
 Jetty支持最新的Java Servlet
-API（带[JSP的支持](../Page/JSP.md "wikilink")），支持[SPDY和](../Page/SPDY.md "wikilink")[WebSocket协议](../Page/WebSocket.md "wikilink")。
+API（带[JSP](../Page/JSP.md "wikilink")的支持），支持[SPDY](../Page/SPDY.md "wikilink")和[WebSocket](../Page/WebSocket.md "wikilink")协议。
 
 ## 历史
 
-Jetty最初是由软件工程师Greg Wilkins在[悉尼的郊区](../Page/悉尼.md "wikilink")开发的，原本是Mort
+Jetty最初是由软件工程师Greg Wilkins在[悉尼](../Page/悉尼.md "wikilink")的郊区开发的，原本是Mort
 Bay Server（莫特湾服务器）的一个HTTP服务器组件\[10\]\[11\]。
 
 Jetty原名IssueTracker，而后更名为MBServler（Mort Bay SERVLet servER，Mort Bay
@@ -40,7 +40,7 @@ Process](https://www.eclipse.org/projects/dev_process/ip-process-in-cartoons.php
 ## 应用
 
 Jetty在[嵌入式的Java应用程序中提供](../Page/嵌入式系统.md "wikilink")[Web服务](../Page/Web服务.md "wikilink")，其已经是[Eclipse
-IDE中的一个组成部分](../Page/Eclipse.md "wikilink")。它支持、JASPI、JMX、[JNDI](https://zh.wikipedia.org/wiki/JNDI "wikilink")、[OSGi](../Page/OSGi.md "wikilink")、[WebSocket和其他的Java技术](../Page/WebSocket.md "wikilink")。\[33\]
+IDE中的一个组成部分](../Page/Eclipse.md "wikilink")。它支持、JASPI、JMX、[JNDI](https://zh.wikipedia.org/wiki/JNDI "wikilink")、[OSGi](../Page/OSGi.md "wikilink")、[WebSocket](../Page/WebSocket.md "wikilink")和其他的Java技术。\[33\]
 
 [Apache
 Hadoop是Jetty应用在框架中的典型范例](https://zh.wikipedia.org/wiki/Hadoop "wikilink")。

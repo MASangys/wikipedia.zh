@@ -1,4 +1,4 @@
-**HOOKSOFT**是[日本ロボプランニング公司的遊戲品牌](../Page/日本.md "wikilink")，主要發售[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。最早原名為**HOOK**，於2000年4月成立，並在2008年12月2日重整後改為現名\[1\]\[2\]\[3\]。**SMEE**、**ASa
+**HOOKSOFT**是[日本](../Page/日本.md "wikilink")ロボプランニング公司的遊戲品牌，主要發售[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。最早原名為**HOOK**，於2000年4月成立，並在2008年12月2日重整後改為現名\[1\]\[2\]\[3\]。**SMEE**、**ASa
 Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パートナーブランド）的加盟品牌之一。\[4\]
 
 ## 作風

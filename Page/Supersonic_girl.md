@@ -1,5 +1,5 @@
 **supersonic
-girl**是[日本女](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈第](../Page/水樹奈奈.md "wikilink")1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2001年12月5日由[King
+girl**是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2001年12月5日由[King
 Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 收錄曲

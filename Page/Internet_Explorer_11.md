@@ -1,5 +1,5 @@
 **Internet Explorer 11**（简称**IE11**）是浏览器[Internet
-Explorer的最後一个版本](../Page/Internet_Explorer.md "wikilink")，由[微软开发](../Page/微软.md "wikilink")。正式版本隨[Windows
+Explorer的最後一个版本](../Page/Internet_Explorer.md "wikilink")，由[微软](../Page/微软.md "wikilink")开发。正式版本隨[Windows
 8.1於](../Page/Windows_8.1.md "wikilink")2013年10月17日發佈。2013年11月7日發佈於[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。2015年7月29日上市的[Windows
 10會改以](../Page/Windows_10.md "wikilink")[Microsoft
@@ -16,7 +16,7 @@ image支援、JavaScript增強功能、DOM變動觀察者、Web密碼編譯API�
 Layer Security
 v1.2](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")（TLS
 1.2）協定來作[加密傳輸](https://zh.wikipedia.org/wiki/HTTP_Secure "wikilink")，並且依照RFC
-7465的規範放棄使用有安全弱點的[RC4加密套件](../Page/RC4.md "wikilink")\[8\]。
+7465的規範放棄使用有安全弱點的[RC4](../Page/RC4.md "wikilink")加密套件\[8\]。
 
 [Windows RT上的Internet](../Page/Windows_RT.md "wikilink") Explorer
 11並不支援[Java和其他附加元件](https://zh.wikipedia.org/wiki/Java_\(程式語言\) "wikilink")\[9\]。
@@ -47,7 +47,7 @@ Explorer 11開發者預覽版\[12\]\[13\]。
 <td><p>rowspan="2" [14]</p></td>
 <td><p>2013年6月26日[15]</p></td>
 <td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a></p></td>
-<td><p><a href="../Page/WebGL.md" title="wikilink">WebGL</a>，<a href="https://zh.wikipedia.org/wiki/CSS" title="wikilink">CSS边框图</a>，<a href="../Page/HTML5.md" title="wikilink">HTML5拖放</a>，改善的<a href="../Page/JavaScript.md" title="wikilink">JavaScript性能</a>，重大更新<a href="../Page/Internet_Explorer开发人员工具.md" title="wikilink">Internet Explorer开发人员工具</a>，<a href="../Page/硬件加速.md" title="wikilink">硬件加速</a><a href="../Page/JPEG.md" title="wikilink">JPEG解码</a>，<a href="https://zh.wikipedia.org/wiki/隐藏字幕" title="wikilink">隐藏字幕</a>，HTML5全屏，HTML5预生成，HTML5预读取，<a href="../Page/SPDY.md" title="wikilink">SPDY</a> v3</p>
+<td><p><a href="../Page/WebGL.md" title="wikilink">WebGL</a>，<a href="https://zh.wikipedia.org/wiki/CSS" title="wikilink">CSS边框图</a>，<a href="../Page/HTML5.md" title="wikilink">HTML5</a>拖放，改善的<a href="../Page/JavaScript.md" title="wikilink">JavaScript</a>性能，重大更新<a href="../Page/Internet_Explorer开发人员工具.md" title="wikilink">Internet Explorer开发人员工具</a>，<a href="../Page/硬件加速.md" title="wikilink">硬件加速</a><a href="../Page/JPEG.md" title="wikilink">JPEG</a>解码，<a href="https://zh.wikipedia.org/wiki/隐藏字幕" title="wikilink">隐藏字幕</a>，HTML5全屏，HTML5预生成，HTML5预读取，<a href="../Page/SPDY.md" title="wikilink">SPDY</a> v3</p>
 <p><strong>Windows 8.1独有的</strong>：加密（网络加密），<a href="../Page/自適性串流.md" title="wikilink">自適性串流</a>（媒体源扩展），加密的媒体扩展</p></td>
 </tr>
 <tr class="even">

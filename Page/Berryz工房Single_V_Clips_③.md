@@ -1,5 +1,5 @@
 『**Berryz工房Single V Clips
-③**』（）是[Berryz工房的第](../Page/Berryz工房.md "wikilink")3張PV集。
+③**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第3張PV集。
 
 ## 收錄内容
 

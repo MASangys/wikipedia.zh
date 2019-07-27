@@ -94,7 +94,7 @@
 
   -
     B03AE01
-    铁、[维生素B12和](../Page/维生素B12.md "wikilink")[叶酸](../Page/叶酸.md "wikilink")（Iron,
+    铁、[维生素B12](../Page/维生素B12.md "wikilink")和[叶酸](../Page/叶酸.md "wikilink")（Iron,
     vvitamin B<sub>12</sub> and folic acid）
     B03AE02
     铁、[多种维生素和叶酸](https://zh.wikipedia.org/wiki/多种维生素 "wikilink")（Iron,

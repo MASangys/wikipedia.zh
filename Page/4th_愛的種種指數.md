@@ -1,5 +1,5 @@
 「**4th
-愛的種種指數**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[Berryz工房的第](../Page/Berryz工房.md "wikilink")3枚原創專輯。於2007年8月1日發行。唱片公司為[PICCOLO
+愛的種種指數**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第3枚原創專輯。於2007年8月1日發行。唱片公司為[PICCOLO
 TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要
@@ -28,7 +28,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     （作詞・作曲：淳君
     編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
       -
-        [徳永千奈美](https://zh.wikipedia.org/wiki/徳永千奈美 "wikilink")・[須藤茉麻](../Page/須藤茉麻.md "wikilink")・[熊井友理奈主唱](../Page/熊井友理奈.md "wikilink")
+        [徳永千奈美](https://zh.wikipedia.org/wiki/徳永千奈美 "wikilink")・[須藤茉麻](../Page/須藤茉麻.md "wikilink")・[熊井友理奈](../Page/熊井友理奈.md "wikilink")主唱
 4.  **[VERY BEAUTY](../Page/VERY_BEAUTY.md "wikilink")**
     （作詞・作曲：淳君 編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
       -
@@ -41,7 +41,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 6.  **不需要我來做 就會全部為我做好的他**（私がすることない程 全部してくれる彼）
     （作詞・作曲：淳君 編曲：[前嶋康明](https://zh.wikipedia.org/wiki/前嶋康明 "wikilink")）
       -
-        [嗣永桃子](../Page/嗣永桃子.md "wikilink")・[菅谷梨沙子主唱](../Page/菅谷梨沙子.md "wikilink")
+        [嗣永桃子](../Page/嗣永桃子.md "wikilink")・[菅谷梨沙子](../Page/菅谷梨沙子.md "wikilink")主唱
 7.  **再見 激烈的愛情**（）
     （作詞・作曲：淳君 編曲：[山崎淳](https://zh.wikipedia.org/wiki/山崎淳 "wikilink")）
 8.  **[告白的噴水廣場](../Page/告白的噴水廣場.md "wikilink")**（）
@@ -52,7 +52,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 9.  **SPRINTER\!** （スプリンター\!）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：鈴木俊介）
       -
-        [清水佐紀](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")・[夏燒雅主唱](../Page/夏燒雅.md "wikilink")
+        [清水佐紀](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")・[夏燒雅](../Page/夏燒雅.md "wikilink")主唱
 10. **櫻花樂樂花櫻**（サクラハラクサ）
     （作詞・作曲：淳君 編曲：[田中直](https://zh.wikipedia.org/wiki/田中直 "wikilink")）
 11. **櫻→入學式**（）

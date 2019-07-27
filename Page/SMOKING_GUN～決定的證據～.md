@@ -1,4 +1,4 @@
-，是預計於2014年4月9日於[富士電視台](../Page/富士電視台.md "wikilink")[週三晚間十點檔播出的](../Page/富士電視台週三晚間十點連續劇.md "wikilink")[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[香取慎吾主演](../Page/香取慎吾.md "wikilink")。
+，是預計於2014年4月9日於[富士電視台](../Page/富士電視台.md "wikilink")[週三晚間十點檔播出的](../Page/富士電視台週三晚間十點連續劇.md "wikilink")[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[香取慎吾](../Page/香取慎吾.md "wikilink")主演。
 
 改編自漫畫《Smoking Gun 民間科搜研調查員
 流田緣》（），橫幕智裕、竹谷州史原作，於《》（[集英社](../Page/集英社.md "wikilink")）連載。台灣由青文出版社獲得授權，2013年7月首發第一冊。

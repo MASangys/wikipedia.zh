@@ -1,6 +1,6 @@
 《**BAD BOYS
 搞怪少年**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[田中宏的一部](https://zh.wikipedia.org/wiki/田中宏 "wikilink")[校園](https://zh.wikipedia.org/wiki/校園 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，1988年於《[YOUNG
-KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社](../Page/少年畫報社.md "wikilink")）開始連載，台灣中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，單行本全22卷已發售。以[廣島為舞台作](https://zh.wikipedia.org/wiki/廣島 "wikilink")“廣島亂跑塗鴉”。單行本已累積發行4000万本。有續集『[グレアー](https://zh.wikipedia.org/wiki/グレアー "wikilink")』等。
+KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社](../Page/少年畫報社.md "wikilink")）開始連載，台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，單行本全22卷已發售。以[廣島為舞台作](https://zh.wikipedia.org/wiki/廣島 "wikilink")“廣島亂跑塗鴉”。單行本已累積發行4000万本。有續集『[グレアー](https://zh.wikipedia.org/wiki/グレアー "wikilink")』等。
 
 ## 劇情內容
 

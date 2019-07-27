@@ -1,4 +1,4 @@
-《**Forever**》是[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[何維健的首張單曲](../Page/何維健.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，這EP在2013年3月28日推出，並早於同年1月28日在[itunes發行](https://zh.wikipedia.org/wiki/itunes "wikilink")。
+《**Forever**》是[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[何維健](../Page/何維健.md "wikilink")的首張單曲[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，這EP在2013年3月28日推出，並早於同年1月28日在[itunes發行](https://zh.wikipedia.org/wiki/itunes "wikilink")。
 
 ## 曲目
 

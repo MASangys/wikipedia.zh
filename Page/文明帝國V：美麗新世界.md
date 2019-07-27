@@ -31,7 +31,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/佩德羅二世_(巴西)" title="wikilink">佩德羅二世</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/海外派遣军" title="wikilink">海外派遣军</a></p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/红木.md" title="wikilink">红木林场</a>(设施)</p></td>
+<td><p><a href="../Page/红木.md" title="wikilink">红木</a>林场(设施)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/嘉年華" title="wikilink">嘉年華会</a></p></td>
 </tr>
 <tr class="odd">
@@ -41,7 +41,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/攻城塔" title="wikilink">攻城塔</a></p></td>
 <td><p>-</p></td>
 <td><p>皇家图书馆</p></td>
-<td><p><a href="../Page/尼尼微.md" title="wikilink">尼尼微宝藏</a></p></td>
+<td><p><a href="../Page/尼尼微.md" title="wikilink">尼尼微</a>宝藏</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/祖魯王國" title="wikilink">祖魯</a></p></td>

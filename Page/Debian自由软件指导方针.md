@@ -1,4 +1,4 @@
-**Debian自由软件指导方针**（，简称）是[Debian项目用来判断](../Page/Debian.md "wikilink")[自由软件许可证的方针](../Page/自由软件.md "wikilink")，以决定某软件是否可以包含在Debian之中。它是的一部分。
+**Debian自由软件指导方针**（，简称）是[Debian](../Page/Debian.md "wikilink")项目用来判断[自由软件](../Page/自由软件.md "wikilink")许可证的方针，以决定某软件是否可以包含在Debian之中。它是的一部分。
 
 ## 方针概要
 
@@ -11,14 +11,14 @@
 7.  权利必须适用于程序再次发行的所有受众。
 8.  许可证不能特定于Debian。
 9.  许可证的规定不得污染其他软件。
-10. [GPL](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")、[BSD许可证和](../Page/BSD许可证.md "wikilink")[Artistic是自由许可证的示例](https://zh.wikipedia.org/wiki/Artistic_License "wikilink")。\[1\]\[2\]
+10. [GPL](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")、[BSD许可证](../Page/BSD许可证.md "wikilink")和[Artistic是自由许可证的示例](https://zh.wikipedia.org/wiki/Artistic_License "wikilink")。\[1\]\[2\]
 
 ## 历史
 
 1997年7月，Debian自由软件指导方针连同Debian社群契约首次发布\[3\]。Ean
 Schuessler提出了为[发行版的许可政策提供一个正式保障的设想](../Page/Linux发行版.md "wikilink")。方针的主要作者是[布鲁斯·佩伦斯和当时其他一些Debian开发者](https://zh.wikipedia.org/wiki/布鲁斯·佩伦斯 "wikilink")。
 
-不久，以DFSG为蓝本写成。DFSG的出现比[自由软件基金会的](../Page/自由软件基金会.md "wikilink")要晚。在DFSG成为开放源码定义后，自由软件基金会创建人[理查德·斯托曼感到区分](../Page/理查德·斯托曼.md "wikilink")[自由软件和](../Page/自由软件.md "wikilink")[开源软件的必要](../Page/开源软件.md "wikilink")，以推广自由软件定义\[4\]。自由软件定义在1986年首次发布于首个版本的GNU公告\[5\]。值得注意的是，自由软件定义的核心“四大自由”明显产生于DFSG的起草和颁布之前，但DFSG的作者在当时却并不知道它\[6\]。
+不久，以DFSG为蓝本写成。DFSG的出现比[自由软件基金会](../Page/自由软件基金会.md "wikilink")的要晚。在DFSG成为开放源码定义后，自由软件基金会创建人[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")感到区分[自由软件](../Page/自由软件.md "wikilink")和[开源软件](../Page/开源软件.md "wikilink")的必要，以推广自由软件定义\[4\]。自由软件定义在1986年首次发布于首个版本的GNU公告\[5\]。值得注意的是，自由软件定义的核心“四大自由”明显产生于DFSG的起草和颁布之前，但DFSG的作者在当时却并不知道它\[6\]。
 
 1998年11月，和其他人在1.4版本的草案中提出了一些修改，但这些修改没应用到正式版中。杰克逊表示方针的问题在于“宽松的措辞”和补丁条文\[7\]。
 
@@ -45,12 +45,12 @@ GNU/Linux发行版是完​​全自由的软件”到“我们承诺Debian系�
 
 ### 非软件内容
 
-DFSG专注于[软件](../Page/软件.md "wikilink")，但这个词本身的范围是不确定的——一些人将其应用到所有可以被表示为比特流的东西，而少数认为它只能指计算机程序。此外，[PostScript的存在](../Page/PostScript.md "wikilink")、可执行的脚本、源文档等等，极大地搞乱了第二个定义。因此为了打破混乱，2004年6月Debian项目决定将相同的准则明确应用于[软件文档](../Page/软件文档.md "wikilink")、多媒体数据和其他内容。Debian中的非程序内容从Debian
+DFSG专注于[软件](../Page/软件.md "wikilink")，但这个词本身的范围是不确定的——一些人将其应用到所有可以被表示为比特流的东西，而少数认为它只能指计算机程序。此外，[PostScript](../Page/PostScript.md "wikilink")的存在、可执行的脚本、源文档等等，极大地搞乱了第二个定义。因此为了打破混乱，2004年6月Debian项目决定将相同的准则明确应用于[软件文档](../Page/软件文档.md "wikilink")、多媒体数据和其他内容。Debian中的非程序内容从Debian
 4.0（发布于2007年4月）开始严格地符合DFSG。
 
 ### GNU自由文档许可证
 
-由[GNU计划](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")、[Linux文档计划等撰写的许多文档采用](../Page/Linux文档计划.md "wikilink")[GNU自由文档许可证授权](../Page/GNU自由文档许可证.md "wikilink")，而其中包含的“不变章节”不符合DFSG。这种说法是长时间的讨论和常规决议2006-001的最终结果\[12\]。
+由[GNU计划](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")、[Linux文档计划](../Page/Linux文档计划.md "wikilink")等撰写的许多文档采用[GNU自由文档许可证](../Page/GNU自由文档许可证.md "wikilink")授权，而其中包含的“不变章节”不符合DFSG。这种说法是长时间的讨论和常规决议2006-001的最终结果\[12\]。
 
 由于GNU自由文档许可证的“不变章节”，该许可证下的内容必须置于一个额外的“非自由”包库内，不作为Debian的一部分。
 

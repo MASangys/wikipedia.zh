@@ -1,5 +1,5 @@
 **CETME
-5.56突擊步槍（賽特邁5.56型）**是一款由[西班牙賽特邁公司](../Page/西班牙.md "wikilink")（）研製的[滾輪延遲反衝式](../Page/反沖作用_\(槍械\).md "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍曾經為[西班牙軍隊的制式步槍](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")，現在已被[HK
+5.56突擊步槍（賽特邁5.56型）**是一款由[西班牙](../Page/西班牙.md "wikilink")賽特邁公司（）研製的[滾輪延遲反衝式](../Page/反沖作用_\(槍械\).md "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍曾經為[西班牙軍隊的制式步槍](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")，現在已被[HK
 G36E完全取代](https://zh.wikipedia.org/wiki/HK_G36 "wikilink")。
 
 ## 歷史
@@ -8,7 +8,7 @@ G36E完全取代](https://zh.wikipedia.org/wiki/HK_G36 "wikilink")。
 E型。在經過持續的研究，並參考了多款歐美國家的成熟產品（如：[HK
 G41](../Page/HK_G41突擊步槍.md "wikilink")、[FN
 FNC和](https://zh.wikipedia.org/wiki/FN_FNC "wikilink")[M16](../Page/M16突擊步槍.md "wikilink")），賽特邁公司的小口徑步槍研製工作終在1980年完成，定型產品為CETME
-L型，5.56毫米口徑。在1981-1982年期間，賽特邁公司向[西班牙軍隊提供了約](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")1,000支L型突擊步槍進行試驗，在1984年又推出了L型突擊步槍的卡賓型，命名為LC型。1985年春季，L型和LC型正式投產並裝備西班牙軍隊，逐步替換原本的7.62毫米口徑[CETME自動步槍](../Page/CETME自動步槍.md "wikilink")。L型主要供步兵使用，而LC型則供給機械化部隊和[特種部隊使用](../Page/特種部隊.md "wikilink")。在1999年，這種步槍開始被HK
+L型，5.56毫米口徑。在1981-1982年期間，賽特邁公司向[西班牙軍隊提供了約](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")1,000支L型突擊步槍進行試驗，在1984年又推出了L型突擊步槍的卡賓型，命名為LC型。1985年春季，L型和LC型正式投產並裝備西班牙軍隊，逐步替換原本的7.62毫米口徑[CETME自動步槍](../Page/CETME自動步槍.md "wikilink")。L型主要供步兵使用，而LC型則供給機械化部隊和[特種部隊](../Page/特種部隊.md "wikilink")使用。在1999年，這種步槍開始被HK
 G36E突擊步槍逐步取代。但直至[2001年阿富汗戰爭和](../Page/阿富汗戰爭_\(2001年\).md "wikilink")[伊拉克戰爭當中仍然能夠看見此槍的蹤影](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")。
 
 ## 設計
@@ -34,7 +34,7 @@ mm兩種，因此可以發射M193彈或SS109彈。但由於槍管內膛沒有鍍
 
 ### 槍管／槍托
 
-L型步槍採用固定式塑料[槍托](../Page/槍托.md "wikilink")，因此槍膛軸線與抵肩點接近，這種設計有利於提高射擊穩定性，尤其是[全自動射擊時](https://zh.wikipedia.org/wiki/自動火器 "wikilink")；LC型步槍則採用較短的槍管和伸縮式金屬槍托，除不能安裝槍榴彈發射裝置和[刺刀外](../Page/刺刀.md "wikilink")，其他方面與L型相同。
+L型步槍採用固定式塑料[槍托](../Page/槍托.md "wikilink")，因此槍膛軸線與抵肩點接近，這種設計有利於提高射擊穩定性，尤其是[全自動射擊時](https://zh.wikipedia.org/wiki/自動火器 "wikilink")；LC型步槍則採用較短的槍管和伸縮式金屬槍托，除不能安裝槍榴彈發射裝置和[刺刀](../Page/刺刀.md "wikilink")外，其他方面與L型相同。
 
 ## 使用國
 

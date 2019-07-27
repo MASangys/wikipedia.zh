@@ -5,7 +5,7 @@
 
 乐队由于该歌曲被指责宣传[法西斯主义](../Page/法西斯主义.md "wikilink")，歌曲中所唱的"my heart beats
 to the left,
-2-3-4"，暗示他们是[左翼](https://zh.wikipedia.org/wiki/左翼 "wikilink")。副歌部分引自革命歌曲，20世纪30年代由[贝尔托·布莱希特为](https://zh.wikipedia.org/wiki/贝尔托·布莱希特 "wikilink")[德国共产党所作](../Page/德国共产党.md "wikilink")，在[东德被](https://zh.wikipedia.org/wiki/东德 "wikilink")再次推广\[1\]。
+2-3-4"，暗示他们是[左翼](https://zh.wikipedia.org/wiki/左翼 "wikilink")。副歌部分引自革命歌曲，20世纪30年代由[贝尔托·布莱希特为](https://zh.wikipedia.org/wiki/贝尔托·布莱希特 "wikilink")[德国共产党](../Page/德国共产党.md "wikilink")所作，在[东德被](https://zh.wikipedia.org/wiki/东德 "wikilink")再次推广\[1\]。
 
 歌曲对德语“2”使用了备用发音，所用的是*zwo*而不是*zwei*，"Zwo"更多的用于电话中和数字连读中使用。
 

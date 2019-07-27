@@ -1,4 +1,4 @@
-《**DRAMA**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[炎亞綸](../Page/炎亞綸.md "wikilink")2014迷你專輯1號作品，在2014年5月30日發行，收錄[炎亞綸領銜主演戲劇](../Page/炎亞綸.md "wikilink")[就是要你愛上我](../Page/就是要你愛上我.md "wikilink")、[愛上兩個我最高詢問度之擋不住的太陽](../Page/愛上兩個我.md "wikilink")、1/2、這不是我…等等六首主題曲、片尾曲及插曲。
+《**DRAMA**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[炎亞綸](../Page/炎亞綸.md "wikilink")2014迷你專輯1號作品，在2014年5月30日發行，收錄[炎亞綸](../Page/炎亞綸.md "wikilink")領銜主演戲劇[就是要你愛上我](../Page/就是要你愛上我.md "wikilink")、[愛上兩個我](../Page/愛上兩個我.md "wikilink")最高詢問度之擋不住的太陽、1/2、這不是我…等等六首主題曲、片尾曲及插曲。
 
 ## 曲目
 
@@ -26,7 +26,7 @@ One Out of Two</p></td>
 林尚赫</p></td>
 <td><p>孫英真<br />
 林尚赫</p></td>
-<td><p>與韓國歌姬<a href="../Page/G.NA.md" title="wikilink">G.NA跨海隔空對唱</a><br />
+<td><p>與韓國歌姬<a href="../Page/G.NA.md" title="wikilink">G.NA</a>跨海隔空對唱<br />
 《<a href="../Page/愛上兩個我.md" title="wikilink">愛上兩個我</a>》片頭曲</p></td>
 </tr>
 <tr class="even">
@@ -95,10 +95,10 @@ Unstoppable Sun</p></td>
 
 | 歌名                     | 執導                                                  | 首播日期        | 附註                                           |
 | ---------------------- | --------------------------------------------------- | ----------- | -------------------------------------------- |
-| 1/2 One Out of Two     | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink") | 2014年5月27日  | 韓國歌姬[G.NA特地來台演出](../Page/G.NA.md "wikilink") |
-| 這不是我 That's Not Me     | [黃中平](../Page/黃中平.md "wikilink")                    | 2014年5月20日  | [李毓芬演出](../Page/李毓芬.md "wikilink")           |
+| 1/2 One Out of Two     | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink") | 2014年5月27日  | 韓國歌姬[G.NA](../Page/G.NA.md "wikilink")特地來台演出 |
+| 這不是我 That's Not Me     | [黃中平](../Page/黃中平.md "wikilink")                    | 2014年5月20日  | [李毓芬](../Page/李毓芬.md "wikilink")演出           |
 | 多餘的我 The unwanted love | [傅天余](../Page/傅天余.md "wikilink")                    | 2014年0９月2１日 |                                              |
-| 擋不住的太陽 Unstoppable Sun | [傅天余](../Page/傅天余.md "wikilink")                    | 2014年11月26日 | [郭雪芙演出](../Page/郭雪芙.md "wikilink")           |
+| 擋不住的太陽 Unstoppable Sun | [傅天余](../Page/傅天余.md "wikilink")                    | 2014年11月26日 | [郭雪芙](../Page/郭雪芙.md "wikilink")演出           |
 |                        |                                                     |             |                                              |
 
 [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")

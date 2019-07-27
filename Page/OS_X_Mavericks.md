@@ -31,7 +31,7 @@ X 10.6.8 Snow Leopard或更高的版本的系統。
 兼容的電腦型號如下：
 
   - [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")（2007年中期或之後的型號）
-  - [MacBook](../Page/MacBook.md "wikilink")（2008年後期的[铝製機身型號](../Page/铝.md "wikilink")，或2009年早期或之後型號）
+  - [MacBook](../Page/MacBook.md "wikilink")（2008年後期的[铝](../Page/铝.md "wikilink")製機身型號，或2009年早期或之後型號）
   - [MacBook Pro](../Page/MacBook_Pro.md "wikilink")（2007年中期或之後的型號）
   - [MacBook Air](../Page/MacBook_Air.md "wikilink")（2008年後期或之後的型號）
   - [Mac
@@ -45,18 +45,18 @@ X 10.6.8 Snow Leopard或更高的版本的系統。
     TV可以在外置顯示器中使用](../Page/Apple_TV.md "wikilink")\[9\]。
   - [Mission
     Control已經更新](../Page/Mission_Control.md "wikilink")，用以在多個顯示器之間組織和切換獨立桌面與工作區\[10\]。
-  - [Finder的功能增強](../Page/Finder.md "wikilink")，包括標纖、分頁瀏覽模式、全螢幕模式\[11\]。
+  - [Finder](../Page/Finder.md "wikilink")的功能增強，包括標纖、分頁瀏覽模式、全螢幕模式\[11\]。
   - 加入新的[iBooks應用程式](https://zh.wikipedia.org/wiki/iBooks "wikilink")\[12\]。
   - 加入新的地圖應用程式\[13\]\[14\]。
   - [日曆的功能增強](https://zh.wikipedia.org/wiki/日曆_\(應用程序\) "wikilink")\[15\]。
-  - [Safari的功能改進](../Page/Safari.md "wikilink")\[16\]。
+  - [Safari](../Page/Safari.md "wikilink")的功能改進\[16\]。
   - [iCloud鑰匙串的同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")\[17\]。
   - [通知中心的改進](https://zh.wikipedia.org/wiki/通知中心 "wikilink")\[18\]。
   - 一些采用拟物式设计的自带应用，例如界面呈现皮革質料观感的[日曆](https://zh.wikipedia.org/wiki/日曆_\(應用程序\) "wikilink")，像書本一樣的[通訊錄](https://zh.wikipedia.org/wiki/通訊錄 "wikilink")，都會從[用戶介面中移除](https://zh.wikipedia.org/wiki/用戶介面 "wikilink")\[19\]\[20\]。
   - 改善能源、記憶體及應用程式的處理，透過降低[中央處理器高達的](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")72%的使用率來提高能源效率\[21\]\[22\]。
   - App Nap，應用程式於背景中執行\[23\]\[24\]。
   - 記憶體壓縮，當最大存儲容量接近飽和時，電腦會從非活動的應用程序數據中將數據自動壓縮\[25\]\[26\]\[27\]。
-  - [伺服器訊息區塊的第](../Page/伺服器訊息區塊.md "wikilink")2版（SMB2）現在是共享文件的默認協議\[28\]。
+  - [伺服器訊息區塊](../Page/伺服器訊息區塊.md "wikilink")的第2版（SMB2）現在是共享文件的默認協議\[28\]。
   - [領英](../Page/領英.md "wikilink")（LinkedIn）分享功能\[29\]。
   - idle技術
   - [Xcode 5](../Page/Xcode.md "wikilink")
@@ -69,10 +69,10 @@ X 10.6.8 Snow Leopard或更高的版本的系統。
 ## 安全問题
 
 自OS X
-Mavericks推出數星期後，有相當數量的[威騰電子硬碟的用戶投訴當他們升級到OS](../Page/威騰電子.md "wikilink")
+Mavericks推出數星期後，有相當數量的[威騰電子](../Page/威騰電子.md "wikilink")硬碟的用戶投訴當他們升級到OS
 X
 Mavericks時有數據流失的情況，特別是當硬碟需要連同威騰電子獨有的磁盤管理軟件一同使用。這使威騰電子取下他們的一些應用程式，例如WD硬盤管理器、WD
-[RAID管理器和WD智能軟件](../Page/RAID.md "wikilink")，以及發表聲明促請其用戶延遲升級到OS X
+[RAID](../Page/RAID.md "wikilink")管理器和WD智能軟件，以及發表聲明促請其用戶延遲升級到OS X
 Mavericks，並暫時停用威騰電子的軟件\[34\]。WD智能軟件的升級於2013年11月25日推出，據說已解決了問題\[35\]。
 
 OS X

@@ -7,7 +7,7 @@
 ### 發現
 
 VVV BD001是由天文學家 Juan Carlos Beamín
-等人根據其高[自行量發現](../Page/自行.md "wikilink")。它是[欧洲南方天文台使用位於](https://zh.wikipedia.org/wiki/欧洲南方天文台 "wikilink")[帕瑞納天文台的](https://zh.wikipedia.org/wiki/帕瑞納天文台 "wikilink")[可见光和红外巡天望远镜](https://zh.wikipedia.org/wiki/可见光和红外巡天望远镜 "wikilink")（VISTA）進行[可见光和红外巡天望远镜银河系变星巡天](https://zh.wikipedia.org/wiki/可见光和红外巡天望远镜银河系变星巡天 "wikilink")（Vista
+等人根據其高[自行](../Page/自行.md "wikilink")量發現。它是[欧洲南方天文台使用位於](https://zh.wikipedia.org/wiki/欧洲南方天文台 "wikilink")[帕瑞納天文台的](https://zh.wikipedia.org/wiki/帕瑞納天文台 "wikilink")[可见光和红外巡天望远镜](https://zh.wikipedia.org/wiki/可见光和红外巡天望远镜 "wikilink")（VISTA）進行[可见光和红外巡天望远镜银河系变星巡天](https://zh.wikipedia.org/wiki/可见光和红外巡天望远镜银河系变星巡天 "wikilink")（Vista
 Variables in the Vía Láctea，VVV）時儀器 VIRCAM 拍攝的影像中發現，而這項巡天項目的資料公開給所有人從
 VISTA 的觀測資料庫取得。
 
@@ -36,7 +36,7 @@ BD001是第一個由VVV巡天發現的棕矮星。同時因為銀心方向是天
 根據 VVV BD001
 的發現論文，它的三角[視差值為](https://zh.wikipedia.org/wiki/視差 "wikilink")57
 ± 4
-[mas](https://zh.wikipedia.org/wiki/角秒 "wikilink")，即17.5{{±|1.3|1.2}}[秒差距或](../Page/秒差距.md "wikilink")57.2{{±|4.3|3.8}}[光年](../Page/光年.md "wikilink")\[8\]。
+[mas](https://zh.wikipedia.org/wiki/角秒 "wikilink")，即17.5{{±|1.3|1.2}}[秒差距](../Page/秒差距.md "wikilink")或57.2{{±|4.3|3.8}}[光年](../Page/光年.md "wikilink")\[8\]。
 
 **VVV BD001距離推測**
 

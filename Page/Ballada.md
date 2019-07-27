@@ -1,4 +1,4 @@
-《**Ballada**》（最愛安室）是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的抒情精選輯](../Page/安室奈美惠.md "wikilink")。2014年6月4日由[Dimension
+《**Ballada**》（最愛安室）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")的抒情精選輯。2014年6月4日由[Dimension
 Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
 
 ## 簡介
@@ -28,7 +28,7 @@ Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
   - **DISC1：CD**
       - 全16曲收錄
   - **DISC2：DVD**
-      - [音樂錄像帶全](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")17曲收錄
+      - 全17曲PV收錄
   - 預購特典：B2尺寸海報。
 
 ### CD+藍光
@@ -36,7 +36,7 @@ Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
   - **DISC1：CD**
       - 全16曲收錄
   - **DISC2: 藍光**
-      - [音樂錄像帶全](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")17曲收錄
+      - 全17曲PV收錄
   - 預購特典：B2尺寸海報。
 
 ### CD ONLY

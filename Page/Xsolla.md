@@ -1,7 +1,7 @@
 **Xsolla**是一家全球电脑游戏计费和销售解决方案公司，为游戏开发商提供支付，结算，发行和营销工具，以为遍及全球。
 Xsolla提供的营利解决方案，简化游戏中的支付过程。
 
-Xsolla总部位于[美国洛杉矶](../Page/美国.md "wikilink")，在[俄罗斯的](../Page/俄罗斯.md "wikilink")[莫斯科和](../Page/莫斯科.md "wikilink")[彼尔姆以及](../Page/彼尔姆.md "wikilink")[乌克兰的](../Page/乌克兰.md "wikilink")[基辅](https://zh.wikipedia.org/wiki/基辅 "wikilink")，[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔都开设了办事处](https://zh.wikipedia.org/wiki/首尔 "wikilink")。其服务被多家知名游戏公司所采用：Valve（Steam）\[1\]、Aeria
+Xsolla总部位于[美国](../Page/美国.md "wikilink")洛杉矶，在[俄罗斯](../Page/俄罗斯.md "wikilink")的[莫斯科](../Page/莫斯科.md "wikilink")和[彼尔姆](../Page/彼尔姆.md "wikilink")以及[乌克兰](../Page/乌克兰.md "wikilink")的[基辅](https://zh.wikipedia.org/wiki/基辅 "wikilink")，[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔都开设了办事处](https://zh.wikipedia.org/wiki/首尔 "wikilink")。其服务被多家知名游戏公司所采用：Valve（Steam）\[1\]、Aeria
 Games\[2\]、BigPoint、Gameforge、Ankama、Wargaming.net、Gaijin
 Entertainment、GoodGame Studios、Snail Games等等。
 

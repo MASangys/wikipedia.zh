@@ -3,7 +3,7 @@
 [thumb](https://zh.wikipedia.org/wiki/file:TAO_\(Band\)_jm30017.jpg "wikilink")
 [thumb](https://zh.wikipedia.org/wiki/file:TAO_\(Band\)_jm30299.jpg "wikilink")
 [thumb](https://zh.wikipedia.org/wiki/file:TAO_\(Band\)_jm30104.jpg "wikilink")
-**TAO**是於1993年在[日本](../Page/日本.md "wikilink")[愛知縣成立的](../Page/愛知縣.md "wikilink")[太鼓](https://zh.wikipedia.org/wiki/太鼓 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，目前駐在[九州](https://zh.wikipedia.org/wiki/九州 "wikilink")[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[竹田市](../Page/竹田市.md "wikilink")。\[1\]
+**TAO**是於1993年在[日本](../Page/日本.md "wikilink")[愛知縣](../Page/愛知縣.md "wikilink")成立的[太鼓](https://zh.wikipedia.org/wiki/太鼓 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，目前駐在[九州](https://zh.wikipedia.org/wiki/九州 "wikilink")[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[竹田市](../Page/竹田市.md "wikilink")。\[1\]
 他們的表演風格除了表現日本的傳統音樂和舞蹈，同時也結合了[朝鮮](https://zh.wikipedia.org/wiki/朝鮮 "wikilink")、[紐西蘭和](../Page/毛利人.md "wikilink")[印度尼西亞的表演特色](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")。\[2\]\[3\]
 TAO的表演作品除了部分是傳統的日本歌曲，大多數都是由樂團成員原創的現代作品。
 

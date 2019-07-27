@@ -1,10 +1,10 @@
-**速霸陸Bighorn**（）乃是[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1988年至1993年間販售的[越野車](https://zh.wikipedia.org/wiki/越野車 "wikilink")、中型[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，其原型為[五十鈴汽車出品的](../Page/五十鈴.md "wikilink")（日規名稱五十鈴Bighorn）。由於富士重工業和五十鈴汽車之間簽署了[OEM代工協議](https://zh.wikipedia.org/wiki/贴牌生产 "wikilink")，故[換上速霸陸的廠徽銘牌](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")。詳細的機械構造規格，請參閱之條目。
+**速霸陸Bighorn**（）乃是[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1988年至1993年間販售的[越野車](https://zh.wikipedia.org/wiki/越野車 "wikilink")、中型[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，其原型為[五十鈴](../Page/五十鈴.md "wikilink")汽車出品的（日規名稱五十鈴Bighorn）。由於富士重工業和五十鈴汽車之間簽署了[OEM代工協議](https://zh.wikipedia.org/wiki/贴牌生产 "wikilink")，故[換上速霸陸的廠徽銘牌](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")。詳細的機械構造規格，請參閱之條目。
 
 ## 概要與歷史
 
 1980年代末期到1990年代初期之間，富士重工業曾和五十鈴汽車有過短暫的合作關係，前者以[第三代Leone五門](https://zh.wikipedia.org/wiki/速霸陸Leone#第三代（1984年-1994年） "wikilink")[旅行車](../Page/旅行車.md "wikilink")[換牌成五十鈴Geminett](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")
 II、[第一代Legacy四門轎車換牌成五十鈴Aska](https://zh.wikipedia.org/wiki/速霸陸Legacy#第一代BC/BF系（1989年-1993年） "wikilink")
-CX。這是因為五十鈴汽車打算退出乘用車的領域，專心經營[皮卡貨車](../Page/皮卡.md "wikilink")、[SUV及商用車等車種](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")\[1\]；至於富士重工業則需要SUV來補齊產品線，以因應彼時流行的RV休閒風潮。於是雙方一拍即合，各自替對方代工製造所欠缺的產品線。當時日本本土市場裡共有五十鈴Bighorn、速霸陸Bighorn、本田Horizon等三款兄弟車，除了本田Horizon具有重新設計過的進氣壩外，五十鈴Bighorn及速霸陸Bighorn的差別僅在廠徽銘牌而已。
+CX。這是因為五十鈴汽車打算退出乘用車的領域，專心經營[皮卡](../Page/皮卡.md "wikilink")貨車、[SUV及商用車等車種](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")\[1\]；至於富士重工業則需要SUV來補齊產品線，以因應彼時流行的RV休閒風潮。於是雙方一拍即合，各自替對方代工製造所欠缺的產品線。當時日本本土市場裡共有五十鈴Bighorn、速霸陸Bighorn、本田Horizon等三款兄弟車，除了本田Horizon具有重新設計過的進氣壩外，五十鈴Bighorn及速霸陸Bighorn的差別僅在廠徽銘牌而已。
 
 ### 第一代（1988年-1992年）
 
@@ -22,7 +22,7 @@ CX。這是因為五十鈴汽車打算退出乘用車的領域，專心經營[�
 
 ## 品牌與車名
 
-由於五十鈴Trooper這款車（共有兩代車型）具有眾多不同[品牌的](../Page/品牌.md "wikilink")[兄弟車](../Page/换牌工程.md "wikilink")，茲詳列如下：
+由於五十鈴Trooper這款車（共有兩代車型）具有眾多不同[品牌](../Page/品牌.md "wikilink")的[兄弟車](../Page/换牌工程.md "wikilink")，茲詳列如下：
 
   - [亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")（日本除外）：五十鈴Trooper、雪佛蘭Trooper
   - 日本：五十鈴Bighorn、速霸陸Bighorn、本田Horizon

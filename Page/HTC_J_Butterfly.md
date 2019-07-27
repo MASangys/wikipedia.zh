@@ -1,5 +1,5 @@
 **HTC J
-Butterfly**（日本型號：**HTL21**）是由日本電信業者[KDDI旗下之](../Page/KDDI.md "wikilink")[au向](https://zh.wikipedia.org/wiki/au "wikilink")[臺灣電子製造商](../Page/臺灣.md "wikilink")[宏達電訂製的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")**客製機**，於2012年11月在日本推出，冬季開始獨家販售。其以**HTC
+Butterfly**（日本型號：**HTL21**）是由日本電信業者[KDDI](../Page/KDDI.md "wikilink")旗下之[au向](https://zh.wikipedia.org/wiki/au "wikilink")[臺灣](../Page/臺灣.md "wikilink")電子製造商[宏達電訂製的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")**客製機**，於2012年11月在日本推出，冬季開始獨家販售。其以**HTC
 J**系列命名是為表示宏達電重新登入日本市場，**J**代表日本（Japan）的意思。而HTC J
 Butterfly也**是第一支搭載1080P螢幕的手機**。
 
@@ -29,7 +29,7 @@ Butterfly s，這些兄弟機們各個規格略有不同。
   - 處理器：[Qualcomm Snapdragon S4 APQ8064 1.5Ghz 四核心
     平台](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
   - 主相機：800萬畫素BIS [CMOS](https://zh.wikipedia.org/wiki/CMOS "wikilink"),
-    [光圈F](../Page/光圈.md "wikilink")/2.0,配置五段亮度自動調節LED閃光燈，1080p錄影，HTC
+    [光圈](../Page/光圈.md "wikilink")F/2.0,配置五段亮度自動調節LED閃光燈，1080p錄影，HTC
     VideoPic
   - 前置相機：210萬畫素,88度廣視角拍攝,"Auto Portrait" 自動偵測人臉自拍模式
   - 感應器：

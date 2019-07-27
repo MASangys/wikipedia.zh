@@ -1,11 +1,11 @@
-《**Z風暴**》（；中國大陸地区片名《**反貪風暴**》）是一部於2014年上映的香港剧情[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[反貪風暴系列電影第一部](../Page/反貪風暴系列電影.md "wikilink")，由[林德祿执導](../Page/林德祿.md "wikilink")，[古天樂](../Page/古天樂.md "wikilink")、[林家栋](https://zh.wikipedia.org/wiki/林家栋 "wikilink")、[陈静](https://zh.wikipedia.org/wiki/陳靜_\(香港\) "wikilink")、[王敏德](../Page/王敏德.md "wikilink")、[盧海鵬及](../Page/盧海鵬.md "wikilink")[盛君領銜主演](../Page/盛君.md "wikilink")。本作中Z是指本作的貪污集團名稱「Z基金」。
+《**Z風暴**》（；中國大陸地区片名《**反貪風暴**》）是一部於2014年上映的香港剧情[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[反貪風暴系列電影](../Page/反貪風暴系列電影.md "wikilink")第一部，由[林德祿](../Page/林德祿.md "wikilink")执導，[古天樂](../Page/古天樂.md "wikilink")、[林家栋](https://zh.wikipedia.org/wiki/林家栋 "wikilink")、[陈静](https://zh.wikipedia.org/wiki/陳靜_\(香港\) "wikilink")、[王敏德](../Page/王敏德.md "wikilink")、[盧海鵬](../Page/盧海鵬.md "wikilink")及[盛君](../Page/盛君.md "wikilink")領銜主演。本作中Z是指本作的貪污集團名稱「Z基金」。
 
-其續作為《[S風暴](https://zh.wikipedia.org/wiki/S風暴 "wikilink")》，於2016年上映，繼續由[古天樂擔任男主角](../Page/古天樂.md "wikilink")，並加入[張智霖](../Page/張智霖.md "wikilink")、[蔡少芬及](../Page/蔡少芬.md "wikilink")[林保怡等演員聯合主演](../Page/林保怡.md "wikilink")。
+其續作為《[S風暴](https://zh.wikipedia.org/wiki/S風暴 "wikilink")》，於2016年上映，繼續由[古天樂](../Page/古天樂.md "wikilink")擔任男主角，並加入[張智霖](../Page/張智霖.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")及[林保怡](../Page/林保怡.md "wikilink")等演員聯合主演。
 
 ## 劇情內容
 
-一日，一名眼部受傷的女人突然出現在[廉政公署總部](../Page/廉政公署_\(香港\).md "wikilink")，揚言要控告[商業罪案調查科](../Page/商業罪案調查科.md "wikilink")[警司黃文彬](../Page/警司.md "wikilink")（[林家棟飾](../Page/林家棟.md "wikilink")）貪污，廉政公署執行處首席調查主任陸志廉（[古天樂飾](../Page/古天樂.md "wikilink")）與隊員接手調查。在追查過程中，陸志廉發現事情並不簡單，因為身為警司的黃文彬在執行職務時，不單沒有阻止罪案發生，更利用職權參與犯罪。正當調查漸漸有頭緒時，重要証人一個一個被殺，包括會計師羅德永（[盧海鵬飾](../Page/盧海鵬.md "wikilink")），所有線索以及証據亦告失去，但有勇有謀的陸志廉並未放棄，隨著神秘少女Angel
-梁安瑩（[陳靜飾](https://zh.wikipedia.org/wiki/陳靜 "wikilink")）的出現，他發現律師胡志勇（[王敏德飾](../Page/王敏德.md "wikilink")）與「關懷基金主席」徐懷景（[駱應鈞飾](../Page/駱應鈞.md "wikilink")）有不可告人的秘密。陸志廉今次將要面對一個龐大的貪污集團：當中包括了退休高官、警隊高層、商界富豪、資深律師和會計師等，事件更牽涉到香港政府用作扶貧的150億港元[關懷基金](../Page/關愛基金.md "wikilink")。
+一日，一名眼部受傷的女人突然出現在[廉政公署總部](../Page/廉政公署_\(香港\).md "wikilink")，揚言要控告[商業罪案調查科](../Page/商業罪案調查科.md "wikilink")[警司](../Page/警司.md "wikilink")黃文彬（[林家棟](../Page/林家棟.md "wikilink")飾）貪污，廉政公署執行處首席調查主任陸志廉（[古天樂](../Page/古天樂.md "wikilink")飾）與隊員接手調查。在追查過程中，陸志廉發現事情並不簡單，因為身為警司的黃文彬在執行職務時，不單沒有阻止罪案發生，更利用職權參與犯罪。正當調查漸漸有頭緒時，重要証人一個一個被殺，包括會計師羅德永（[盧海鵬](../Page/盧海鵬.md "wikilink")飾），所有線索以及証據亦告失去，但有勇有謀的陸志廉並未放棄，隨著神秘少女Angel
+梁安瑩（[陳靜飾](https://zh.wikipedia.org/wiki/陳靜 "wikilink")）的出現，他發現律師胡志勇（[王敏德](../Page/王敏德.md "wikilink")飾）與「關懷基金主席」徐懷景（[駱應鈞](../Page/駱應鈞.md "wikilink")飾）有不可告人的秘密。陸志廉今次將要面對一個龐大的貪污集團：當中包括了退休高官、警隊高層、商界富豪、資深律師和會計師等，事件更牽涉到香港政府用作扶貧的150億港元[關懷基金](../Page/關愛基金.md "wikilink")。
 
 ## 演員表
 
@@ -107,7 +107,7 @@
 <tr class="odd">
 <td><p><a href="../Page/姜皓文.md" title="wikilink">姜皓文</a></p></td>
 <td><p>何德榮</p></td>
-<td><p><a href="../Page/商業罪案調查科.md" title="wikilink">商業罪案調查科督察</a><br />
+<td><p><a href="../Page/商業罪案調查科.md" title="wikilink">商業罪案調查科</a>督察<br />
 黃文彬之下屬</p></td>
 </tr>
 <tr class="even">
@@ -144,7 +144,7 @@
 <tr class="odd">
 <td><p><a href="../Page/張堅庭.md" title="wikilink">張堅庭</a></p></td>
 <td><p>韋耀庭</p></td>
-<td><p><a href="../Page/中央政策組.md" title="wikilink">中央政策組首席顧問</a></p></td>
+<td><p><a href="../Page/中央政策組.md" title="wikilink">中央政策組</a>首席顧問</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/羅冠蘭.md" title="wikilink">羅冠蘭</a></p></td>

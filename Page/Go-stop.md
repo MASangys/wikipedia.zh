@@ -1,5 +1,5 @@
 [Hwatu.jpg](https://zh.wikipedia.org/wiki/File:Hwatu.jpg "fig:Hwatu.jpg")的花札（花鬥）\]\]
-**Go-stop**（）或稱**五鳥**（）\[1\]是一種兩人或三人玩的[花札遊戲](../Page/花札.md "wikilink")，其規則與[來來](../Page/來來_\(花札\).md "wikilink")（Koi-koi）較為相似但更為複雜。與Koi-koi相比，其點數通常更高，得分點也更多，更易激起玩家的賭意。該遊戲在[韓國頗為流行](https://zh.wikipedia.org/wiki/韓國 "wikilink")，其中兩人玩的Go-stop特稱為**Matgo**（）。
+**Go-stop**（）或稱**五鳥**（）\[1\]是一種兩人或三人玩的[花札](../Page/花札.md "wikilink")遊戲，其規則與[來來](../Page/來來_\(花札\).md "wikilink")（Koi-koi）較為相似但更為複雜。與Koi-koi相比，其點數通常更高，得分點也更多，更易激起玩家的賭意。該遊戲在[韓國頗為流行](https://zh.wikipedia.org/wiki/韓國 "wikilink")，其中兩人玩的Go-stop特稱為**Matgo**（）。
 
 與“Koi-koi”一樣，這個遊戲的目的是將牌配對為一些特別組合，以獲得點數。獲得點數的方式有兩種：將手上的牌與檯面上的牌配對，以及抽牌來配對。在Go-stop中，如果獲得3點或3點以上（兩人玩時需7點或7點以上），可以喊出Stop結束這一局來獲得點數，或者是喊出Go以期繼續獲得更多點數。卡片所代表的點數不會影響到成績，只需要計算配對出來的組合的點數。理論上，Go-stop的最高點數為133120點（對方玩家各只得到一枚1點牌的情況下）。
 

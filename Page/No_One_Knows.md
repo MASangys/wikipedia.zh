@@ -1,5 +1,5 @@
 《**No One
-Knows**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧麗欣的第](../Page/鄧麗欣.md "wikilink")7張個人專輯，於2010年7月16日發行。
+Knows**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧麗欣](../Page/鄧麗欣.md "wikilink")的第7張個人專輯，於2010年7月16日發行。
 
 ## 曲目
 

@@ -9,7 +9,7 @@ XP**在引入诸多新功能的同时，亦移除诸多旧功能。下面将介�
   - 任务栏隐藏了“最小化所有窗口”命令\[5\]，以“显示桌面”取代，但该命令仍被保留，实际功能仅是暂时隐藏窗口而不是减少窗口数量，该命令仍能透过键盘热键组合+激活。
   - 鉴于图标的色彩丰富，“显示”属性中“使用所有可用的颜色显示图标”选项删除\[6\]。
   - “显示”属性“设置”选项卡中“[视频图形阵列](../Page/视频图形阵列.md "wikilink")[显示分辨率](https://zh.wikipedia.org/wiki/显示分辨率 "wikilink")”和“8位[颜色深度选项](https://zh.wikipedia.org/wiki/颜色深度 "wikilink")”被移除，可以利用高级选项调用，但这种功能已不支持\[7\]。
-  - 文件夹“Web试图”默认禁用，可透过编辑注册表恢复。此外，“定制文件夹向导”被删除\[8\]。由于Web视图的删除，打开驱动器时显示磁盘空间的[饼图不能显示](../Page/饼图.md "wikilink")\[9\]。
+  - 文件夹“Web试图”默认禁用，可透过编辑注册表恢复。此外，“定制文件夹向导”被删除\[8\]。由于Web视图的删除，打开驱动器时显示磁盘空间的[饼图](../Page/饼图.md "wikilink")不能显示\[9\]。
   - 在地址栏浏览文件路径地址\[10\]、可移动驱动器\[11\]、在资源管理器打开网络共享导航窗格（或文件夹）时，底部状态栏不再显示文件所在磁盘的剩余空间，仅显示驱动器路径的剩余空间。这与前文提到的被删除的拼图相结合，意味着不可在剩下的三个驱动器中即时查看剩余空间。
   - [命令提示符中](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")，快速编辑模式和插入模式默认禁用，仅能重新启动每个窗口的标题\[12\]。
   - 目录图标从[网络邻居移除](https://zh.wikipedia.org/wiki/网络邻居 "wikilink")\[13\]。
@@ -36,10 +36,10 @@ XP**在引入诸多新功能的同时，亦移除诸多旧功能。下面将介�
 
 ## 协议
 
-  - [NetDDE和](https://zh.wikipedia.org/wiki/动态数据交换 "wikilink")[NetBIOS不再在默认情况下安装](../Page/NetBIOS.md "wikilink")，但可透过Windows
-    XP [CD-ROM安装](../Page/CD-ROM.md "wikilink")\[21\]\[22\]。
+  - [NetDDE和](https://zh.wikipedia.org/wiki/动态数据交换 "wikilink")[NetBIOS](../Page/NetBIOS.md "wikilink")不再在默认情况下安装，但可透过Windows
+    XP [CD-ROM](../Page/CD-ROM.md "wikilink")安装\[21\]\[22\]。
 
-  - [网络协议不再包括在系统内](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，但[微软提供协议下载](../Page/微软.md "wikilink")\[23\]。
+  - [网络协议不再包括在系统内](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，但[微软](../Page/微软.md "wikilink")提供协议下载\[23\]。
 
   - [可路由协议组不再包括](https://zh.wikipedia.org/wiki/AppleTalk "wikilink")\[24\]。
 
@@ -51,7 +51,7 @@ XP**在引入诸多新功能的同时，亦移除诸多旧功能。下面将介�
 
 ## 硬件支持
 
-  - 不再支持[调制解调器](../Page/调制解调器.md "wikilink")、[网卡及低于](../Page/网卡.md "wikilink")28.8Kbps的调制解调器原生支持等非[即插即用网络设备](https://zh.wikipedia.org/wiki/即插即用 "wikilink")\[27\]
+  - 不再支持[调制解调器](../Page/调制解调器.md "wikilink")、[网卡](../Page/网卡.md "wikilink")及低于28.8Kbps的调制解调器原生支持等非[即插即用网络设备](https://zh.wikipedia.org/wiki/即插即用 "wikilink")\[27\]
   - 大量不再支持\[28\]。
   - XP降低对[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")[PC-98](https://zh.wikipedia.org/wiki/PC-98 "wikilink")\[29\]和[硅谷图形公司](../Page/硅谷图形公司.md "wikilink")320型和540型的支持\[30\]。
 
@@ -59,7 +59,7 @@ XP**在引入诸多新功能的同时，亦移除诸多旧功能。下面将介�
 
 ### Service Pack 2
 
-  - [原始套接字支持大多被移除](../Page/原始套接字.md "wikilink")\[31\]。
+  - [原始套接字](../Page/原始套接字.md "wikilink")支持大多被移除\[31\]。
 
   - 数量受限\[32\]。
 
@@ -74,10 +74,10 @@ XP**在引入诸多新功能的同时，亦移除诸多旧功能。下面将介�
 
 ### Service Pack 3
 
-  - [任务栏中的](../Page/任务栏.md "wikilink")“地址”工具栏因法律原因被微软移除\[36\]，取代其的功能“[Windows桌面搜索](https://zh.wikipedia.org/wiki/Windows搜索 "wikilink")”遭鼓吹。
+  - [任务栏](../Page/任务栏.md "wikilink")中的“地址”工具栏因法律原因被微软移除\[36\]，取代其的功能“[Windows桌面搜索](https://zh.wikipedia.org/wiki/Windows搜索 "wikilink")”遭鼓吹。
   - Internet Explorer桌面图标的特殊显示设置被移除\[37\]。
   - Service Pack
-    3不累积以前安装的[服務包的内容](../Page/服務包.md "wikilink")，至少需要先安装SP1，SP2则包含在和2003版中\[38\]\[39\]。微软证实可以进行尾流累积\[40\]。
+    3不累积以前安装的[服務包](../Page/服務包.md "wikilink")的内容，至少需要先安装SP1，SP2则包含在和2003版中\[38\]\[39\]。微软证实可以进行尾流累积\[40\]。
 
 ### Media Center Edition 2005
 

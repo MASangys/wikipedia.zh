@@ -1,4 +1,4 @@
-**MARCH**（日文：マーチ）是指日本的一个名門[私立大学群的统称](https://zh.wikipedia.org/wiki/私立大学 "wikilink")。其包含以下[大学](https://zh.wikipedia.org/wiki/大学 "wikilink")，名称来源于各校的[日语罗马字开头字母](../Page/日语罗马字.md "wikilink")：
+**MARCH**（日文：マーチ）是指日本的一个名門[私立大学群的统称](https://zh.wikipedia.org/wiki/私立大学 "wikilink")。其包含以下[大学](https://zh.wikipedia.org/wiki/大学 "wikilink")，名称来源于各校的[日语罗马字](../Page/日语罗马字.md "wikilink")开头字母：
 
   - [明治大学](../Page/明治大学.md "wikilink")（M）
   - [青山学院大学](https://zh.wikipedia.org/wiki/青山学院大学 "wikilink")（A）

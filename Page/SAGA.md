@@ -44,7 +44,7 @@
 <!-- end list -->
 
   - 03-01 -
-    SAGA在[Facebook上宣布正式出道](../Page/Facebook.md "wikilink")，并在两周内获得10,000全世界的粉丝
+    SAGA在[Facebook](../Page/Facebook.md "wikilink")上宣布正式出道，并在两周内获得10,000全世界的粉丝
     .\[11\]
 
 <!-- end list -->
@@ -65,7 +65,7 @@
 <!-- end list -->
 
   - 03-27 -
-    在[日本多个主要的音乐和新闻网站正式亮相](../Page/日本.md "wikilink")，在“亚洲流行日韩中间单元”公布.\[14\]
+    在[日本](../Page/日本.md "wikilink")多个主要的音乐和新闻网站正式亮相，在“亚洲流行日韩中间单元”公布.\[14\]
 
 <!-- end list -->
 
@@ -124,9 +124,9 @@
 
 <!-- end list -->
 
-  - SAGA制作的主题曲，为中国第一等级的格斗秀“[武林风](../Page/武林风.md "wikilink")”，这是由[河南卫视自](../Page/河南卫视.md "wikilink")2006年开始制作的节目。[武林风之](../Page/武林风.md "wikilink")[Global
+  - SAGA制作的主题曲，为中国第一等级的格斗秀“[武林风](../Page/武林风.md "wikilink")”，这是由[河南卫视](../Page/河南卫视.md "wikilink")自2006年开始制作的节目。[武林风](../Page/武林风.md "wikilink")之[Global
     Top
-    Fighter由中国](https://zh.wikipedia.org/wiki/Global_Top_Fighter "wikilink")[河南卫视和日本](../Page/河南卫视.md "wikilink")[富士电视台合作](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。SAGA做他们在中国的第一次现场表演和活动聚集了超过6000人。
+    Fighter由中国](https://zh.wikipedia.org/wiki/Global_Top_Fighter "wikilink")[河南卫视](../Page/河南卫视.md "wikilink")和日本[富士电视台合作](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。SAGA做他们在中国的第一次现场表演和活动聚集了超过6000人。
     SAGA煽情的音乐和特别的民族服饰在中国各大新闻媒体成为热门话题，超过50个网络媒体和报纸报道。\[26\]
 
 <!-- end list -->

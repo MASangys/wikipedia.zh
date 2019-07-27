@@ -7,7 +7,7 @@ Drive-In所發行的[後硬蕊](https://zh.wikipedia.org/wiki/後硬蕊 "wikilin
 Static
 Lullaby](https://zh.wikipedia.org/wiki/A_Static_Lullaby "wikilink")、Rock
 Kills Kid、[Mayday
-Parade](https://zh.wikipedia.org/wiki/Mayday_Parade "wikilink")、[Alesana與](../Page/Alesana.md "wikilink")[The
+Parade](https://zh.wikipedia.org/wiki/Mayday_Parade "wikilink")、[Alesana](../Page/Alesana.md "wikilink")與[The
 Maine](https://zh.wikipedia.org/wiki/The_Maine "wikilink")，這些後硬蕊與另類搖滾樂團都在這幾年來崛起。廠牌Fearless目前的發行是由RED
 Distribution與East West唱片公司進行通路銷售。\[3\]
 

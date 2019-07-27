@@ -1,5 +1,5 @@
-《**-{Healer}-**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2014年12月8日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《-{[榮光的在仁](../Page/榮光的在仁.md "wikilink")}-》、《-{[麵包王金卓求](../Page/麵包王金卓求.md "wikilink")}-》[李政燮導演及](../Page/李政燮.md "wikilink")《[-{Good
-Doctor}-](https://zh.wikipedia.org/wiki/Good_Doctor善良醫生 "wikilink")》[金振宇導演執導](https://zh.wikipedia.org/wiki/金振宇 "wikilink")，《-{[黎明的眼睛](../Page/黎明的眼睛.md "wikilink")}-》、《[-{沙漏}-](../Page/沙漏_\(電視劇\).md "wikilink")》、《-{[太王四神記](../Page/太王四神記.md "wikilink")}-》編劇[宋智娜執筆](../Page/宋智娜.md "wikilink")。\[1\]講述了認為世間無正義存在的年輕一代與父母留下的世界抗爭的故事。\[2\]
+《**-{Healer}-**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2014年12月8日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《-{[榮光的在仁](../Page/榮光的在仁.md "wikilink")}-》、《-{[麵包王金卓求](../Page/麵包王金卓求.md "wikilink")}-》[李政燮](../Page/李政燮.md "wikilink")導演及《[-{Good
+Doctor}-](https://zh.wikipedia.org/wiki/Good_Doctor善良醫生 "wikilink")》[金振宇導演執導](https://zh.wikipedia.org/wiki/金振宇 "wikilink")，《-{[黎明的眼睛](../Page/黎明的眼睛.md "wikilink")}-》、《[-{沙漏}-](../Page/沙漏_\(電視劇\).md "wikilink")》、《-{[太王四神記](../Page/太王四神記.md "wikilink")}-》編劇[宋智娜](../Page/宋智娜.md "wikilink")執筆。\[1\]講述了認為世間無正義存在的年輕一代與父母留下的世界抗爭的故事。\[2\]
 
 ## 劇情概要
 

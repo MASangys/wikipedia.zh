@@ -1,5 +1,5 @@
 **Icona
-Pop**-{zh-cn:;zh-hk:;zh-tw:（）;}-是由在[斯德哥尔摩长大的Caroline](../Page/斯德哥尔摩.md "wikilink")
+Pop**-{zh-cn:;zh-hk:;zh-tw:（）;}-是由在[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")长大的Caroline
 Hjelt和Aino Jawo于2009年组成的瑞典双人女子歌唱团体，它的成立影响了[electro
 house](https://zh.wikipedia.org/wiki/electro_house "wikilink")、[庞克和](https://zh.wikipedia.org/wiki/庞克音乐 "wikilink")[indie
 pop类型的音乐风格](https://zh.wikipedia.org/wiki/indie_pop "wikilink")。在一次采访中她们说她们创作的歌曲要让你既可以笑又可以哭。
@@ -39,9 +39,9 @@ Dove）及Starsmith合作過。\[6\]
 
 [Icona_Pop.jpg](https://zh.wikipedia.org/wiki/File:Icona_Pop.jpg "fig:Icona_Pop.jpg")
 
-  - 2012年夏天，她們在[哥特堡和](https://zh.wikipedia.org/wiki/哥特堡 "wikilink")[斯德哥爾摩奧林匹克體育場舉行了電子音樂燃燒夏天嘉年華](../Page/斯德哥爾摩奧林匹克體育場.md "wikilink")，國際嘉年華和[瑞典電視台都有轉播](https://zh.wikipedia.org/wiki/瑞典電視台 "wikilink")。
+  - 2012年夏天，她們在[哥特堡和](https://zh.wikipedia.org/wiki/哥特堡 "wikilink")[斯德哥爾摩奧林匹克體育場](../Page/斯德哥爾摩奧林匹克體育場.md "wikilink")舉行了電子音樂燃燒夏天嘉年華，國際嘉年華和[瑞典電視台都有轉播](https://zh.wikipedia.org/wiki/瑞典電視台 "wikilink")。
   - 《**I Love It**》一曲在她們的同名專輯《*Icona
-    Pop*》首發時即進入[Sverigetopplistan排行榜](https://zh.wikipedia.org/wiki/Sverigetopplistan "wikilink")（[瑞典的官方單曲排行榜](../Page/瑞典.md "wikilink")）。
+    Pop*》首發時即進入[Sverigetopplistan排行榜](https://zh.wikipedia.org/wiki/Sverigetopplistan "wikilink")（[瑞典](../Page/瑞典.md "wikilink")的官方單曲排行榜）。
   - 2012年的電玩遊戲《[極速快感：新全民公敵](../Page/極速快感：新全民公敵.md "wikilink")》及2013年1月的[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[可口可樂Light電視廣告](https://zh.wikipedia.org/wiki/可口可樂 "wikilink")。\[7\]都有採用這首歌、以及作為美國實境秀影集《[Snooki
     &
     JWoww](https://zh.wikipedia.org/wiki/Snooki_&_JWoww "wikilink")》和《[女孩我最大](../Page/女孩我最大.md "wikilink")》的主題曲。
@@ -54,7 +54,7 @@ Dove）及Starsmith合作過。\[6\]
     Pit及](https://zh.wikipedia.org/wiki/Passion_Pit "wikilink")[Matt &
     Kim在](https://zh.wikipedia.org/wiki/Matt_&_Kim "wikilink")[美國進行巡迴演唱](https://zh.wikipedia.org/wiki/美國 "wikilink")。
   - 同年1月，《*I Love
-    It*》一曲又再次被[HBO頻道的](../Page/HBO.md "wikilink")《[女孩我最大](../Page/女孩我最大.md "wikilink")》（Lena
+    It*》一曲又再次被[HBO](../Page/HBO.md "wikilink")頻道的《[女孩我最大](../Page/女孩我最大.md "wikilink")》（Lena
     Dunham製作）影集第二季第三集中採用。
   - 同年3月，她們在[Fuse的前三十名必注意的音樂人獲得提名](https://zh.wikipedia.org/wiki/Fuse_\(電視頻道\) "wikilink")（西南部嘉年華中的南部）。\[10\]接著，《*I
     Love

@@ -1,5 +1,5 @@
 **Visual Studio Online**，舊稱**Team Foundation
-Server**，是一个分布式[版本控制](../Page/版本控制.md "wikilink")／[软件配置管理软件](../Page/软件配置管理.md "wikilink")，2005年由[微軟所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")。為[Visual
+Server**，是一个分布式[版本控制](../Page/版本控制.md "wikilink")／[软件配置管理](../Page/软件配置管理.md "wikilink")软件，2005年由[微軟所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")。為[Visual
 SourceSafe舊软件後續版本](https://zh.wikipedia.org/wiki/Visual_SourceSafe "wikilink")。
 
 ## 外部連結

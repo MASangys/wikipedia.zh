@@ -1,16 +1,16 @@
 《**决战II**》（，），[PlayStation
 2平台上的](../Page/PlayStation_2.md "wikilink")[决战系列游戏之一](https://zh.wikipedia.org/wiki/决战系列 "wikilink")。决战系列作是由历史游戏大厂[光荣所制作](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")，于2001年3月29日在PlayStation
-2上推出，游戏音乐由著名音乐家[小六禮次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%85%AD%E7%A6%AE%E6%AC%A1%E9%83%8E)负责。《决战II》的主要故事由古代中国的[三国时代为题材](https://zh.wikipedia.org/wiki/三国时代 "wikilink")，主要是描绘三国时代中[蜀汉](../Page/蜀汉.md "wikilink")[刘备和](../Page/刘备.md "wikilink")[魏国](https://zh.wikipedia.org/wiki/魏国 "wikilink")[曹操的对决故事](../Page/曹操.md "wikilink")。
+2上推出，游戏音乐由著名音乐家[小六禮次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%85%AD%E7%A6%AE%E6%AC%A1%E9%83%8E)负责。《决战II》的主要故事由古代中国的[三国时代为题材](https://zh.wikipedia.org/wiki/三国时代 "wikilink")，主要是描绘三国时代中[蜀汉](../Page/蜀汉.md "wikilink")[刘备](../Page/刘备.md "wikilink")和[魏国](https://zh.wikipedia.org/wiki/魏国 "wikilink")[曹操](../Page/曹操.md "wikilink")的对决故事。
 
 ## 故事背景
 
-话说[东汉末年](../Page/东汉.md "wikilink")，朝纲衰败，战火连连，民不聊生。此时的东汉王朝正在寻找着一位能够继承江山的英雄，而拥有继承江山的两位英雄，一位是[徐州牧刘备](https://zh.wikipedia.org/wiki/徐州 "wikilink")，另一位则是东汉王朝[骠骑将军曹操](https://zh.wikipedia.org/wiki/骠骑将军 "wikilink")。战争的开始并不是恢复东汉王朝这么简单，而是关系着两人对一位女子的三角恋战，此女子就是[貂蝉](../Page/貂蝉.md "wikilink")。貂婵原是刘备的爱人，但是由于曹操抢占貂婵。为了救出心爱的貂婵，刘备开始和曹操对抗致死。
+话说[东汉](../Page/东汉.md "wikilink")末年，朝纲衰败，战火连连，民不聊生。此时的东汉王朝正在寻找着一位能够继承江山的英雄，而拥有继承江山的两位英雄，一位是[徐州牧刘备](https://zh.wikipedia.org/wiki/徐州 "wikilink")，另一位则是东汉王朝[骠骑将军曹操](https://zh.wikipedia.org/wiki/骠骑将军 "wikilink")。战争的开始并不是恢复东汉王朝这么简单，而是关系着两人对一位女子的三角恋战，此女子就是[貂蝉](../Page/貂蝉.md "wikilink")。貂婵原是刘备的爱人，但是由于曹操抢占貂婵。为了救出心爱的貂婵，刘备开始和曹操对抗致死。
 
-曹操和刘备共同击败[吕布后](../Page/吕布.md "wikilink")，在帝都[许昌举行盛宴](https://zh.wikipedia.org/wiki/许昌 "wikilink")。但是曹操却看中了刘备的爱人貂蝉，结果曹操为爱毁灭了和刘备的盟约，派军攻击刘备并从中抢占貂蝉。貂蝉被曹操从许昌抢占后，加上张飞的长女美美在战场惨死。为了保留剩余的军队和士气，刘备等人只有选择先撤兵回徐州再作决定。为了阻止刘备有机会反击，曹操便派[夏侯渊去攻击徐州](../Page/夏侯渊.md "wikilink")。在死守徐州之际，[北平的](https://zh.wikipedia.org/wiki/北平 "wikilink")[公孙瓒派了](../Page/公孙瓒.md "wikilink")[赵云援军救护](../Page/赵云.md "wikilink")。最后夏侯渊战败逃荒。刘备成功守护徐州。虽然暂时击退曹军，但是刘备却不放心曹操何时会再次出兵，此时[冀州的](https://zh.wikipedia.org/wiki/冀州 "wikilink")[袁绍却领军向许昌攻击](../Page/袁绍.md "wikilink")，就在曹操和袁绍在官渡开始，在美三娘的建议下，刘备开始趁机夺取曹操的领地[汝南](https://zh.wikipedia.org/wiki/汝南 "wikilink")。但是曹操却没有大意，他派了谋士荀郁对抗刘备。
+曹操和刘备共同击败[吕布](../Page/吕布.md "wikilink")后，在帝都[许昌举行盛宴](https://zh.wikipedia.org/wiki/许昌 "wikilink")。但是曹操却看中了刘备的爱人貂蝉，结果曹操为爱毁灭了和刘备的盟约，派军攻击刘备并从中抢占貂蝉。貂蝉被曹操从许昌抢占后，加上张飞的长女美美在战场惨死。为了保留剩余的军队和士气，刘备等人只有选择先撤兵回徐州再作决定。为了阻止刘备有机会反击，曹操便派[夏侯渊](../Page/夏侯渊.md "wikilink")去攻击徐州。在死守徐州之际，[北平的](https://zh.wikipedia.org/wiki/北平 "wikilink")[公孙瓒](../Page/公孙瓒.md "wikilink")派了[赵云](../Page/赵云.md "wikilink")援军救护。最后夏侯渊战败逃荒。刘备成功守护徐州。虽然暂时击退曹军，但是刘备却不放心曹操何时会再次出兵，此时[冀州的](https://zh.wikipedia.org/wiki/冀州 "wikilink")[袁绍](../Page/袁绍.md "wikilink")却领军向许昌攻击，就在曹操和袁绍在官渡开始，在美三娘的建议下，刘备开始趁机夺取曹操的领地[汝南](https://zh.wikipedia.org/wiki/汝南 "wikilink")。但是曹操却没有大意，他派了谋士荀郁对抗刘备。
 
-刘备在汝南击败荀郁后，却得到曹操占领了徐州的消息。由于势力以尽，刘备只有往南下逃。在[刘表的招待下刘备得到](../Page/刘表.md "wikilink")[新野](https://zh.wikipedia.org/wiki/新野 "wikilink")，并开始寻找谋士。在[卧龙岗刘备三请](../Page/卧龙岗.md "wikilink")[诸葛亮](../Page/诸葛亮.md "wikilink")，在刘备诚心的誓言下诸葛亮决定协助刘备恢复汉室。在[博望坡诸葛亮利用火计击败了](https://zh.wikipedia.org/wiki/博望坡 "wikilink")[曹仁](../Page/曹仁.md "wikilink")，同时张飞也在战场中击败夏侯渊，夏侯渊在战死后，曹仁等人匆忙回去许昌向曹操报告。刚刚击败袁绍并取得冀州的曹操开始了南征[荆州](https://zh.wikipedia.org/wiki/荆州 "wikilink")。由于曹军势大，诸葛亮建议刘备撤兵到[夏口](https://zh.wikipedia.org/wiki/夏口 "wikilink")，并和[江东牧](https://zh.wikipedia.org/wiki/江东 "wikilink")[孙权联合对抗曹操](../Page/孙权.md "wikilink")。双军将在[赤壁展开历史上著名的战役](../Page/赤壁.md "wikilink")[赤壁之战](https://zh.wikipedia.org/wiki/赤壁之战 "wikilink")。
+刘备在汝南击败荀郁后，却得到曹操占领了徐州的消息。由于势力以尽，刘备只有往南下逃。在[刘表](../Page/刘表.md "wikilink")的招待下刘备得到[新野](https://zh.wikipedia.org/wiki/新野 "wikilink")，并开始寻找谋士。在[卧龙岗](../Page/卧龙岗.md "wikilink")刘备三请[诸葛亮](../Page/诸葛亮.md "wikilink")，在刘备诚心的誓言下诸葛亮决定协助刘备恢复汉室。在[博望坡诸葛亮利用火计击败了](https://zh.wikipedia.org/wiki/博望坡 "wikilink")[曹仁](../Page/曹仁.md "wikilink")，同时张飞也在战场中击败夏侯渊，夏侯渊在战死后，曹仁等人匆忙回去许昌向曹操报告。刚刚击败袁绍并取得冀州的曹操开始了南征[荆州](https://zh.wikipedia.org/wiki/荆州 "wikilink")。由于曹军势大，诸葛亮建议刘备撤兵到[夏口](https://zh.wikipedia.org/wiki/夏口 "wikilink")，并和[江东牧](https://zh.wikipedia.org/wiki/江东 "wikilink")[孙权](../Page/孙权.md "wikilink")联合对抗曹操。双军将在[赤壁](../Page/赤壁.md "wikilink")展开历史上著名的战役[赤壁之战](https://zh.wikipedia.org/wiki/赤壁之战 "wikilink")。
 
-曹操惨败赤壁之战后，刘备夺回了刘表的领地荆州，以[江陵为本城](https://zh.wikipedia.org/wiki/江陵 "wikilink")。此时[益州的](https://zh.wikipedia.org/wiki/益 "wikilink")[刘璋却打算和曹操联合并投靠曹操](https://zh.wikipedia.org/wiki/刘璋 "wikilink")。为了阻止刘璋的计划，刘备等人受到[张松的邀请](https://zh.wikipedia.org/wiki/张松 "wikilink")，到益州与刘璋会面。刘璋虽然对刘备招待如宾，但是却暗中对抗刘备。在[庞统的建议之下](../Page/庞统.md "wikilink")，刘备开始了攻略益州以恢复汉室江山。由于[西凉](https://zh.wikipedia.org/wiki/西凉 "wikilink")[马腾被曹操杀死](https://zh.wikipedia.org/wiki/马腾 "wikilink")，其长子[马超开始投靠](../Page/马超.md "wikilink")[汉中](https://zh.wikipedia.org/wiki/汉中 "wikilink")[张鲁](../Page/张鲁.md "wikilink")。但是张鲁却对马超不受信任，最后马超决定加入刘备，并和刘备一起联合对抗刘璋。刘璋战败后，把益州承让给刘备，其军师[法正也加入刘备军](../Page/法正.md "wikilink")。刘备拥有益州和荆州后，势力渐渐强大。为此担忧的曹操开始派[夏侯霸攻击](../Page/夏侯霸.md "wikilink")[定军山和](https://zh.wikipedia.org/wiki/定军山 "wikilink")[曹仁攻击](../Page/曹仁.md "wikilink")[樊城](https://zh.wikipedia.org/wiki/樊城 "wikilink")，而益州南下的南蛮国[孟获也开始暴乱](https://zh.wikipedia.org/wiki/孟获 "wikilink")。为了平定敌军的攻击，刘备开始派三路军马对抗到底。
+曹操惨败赤壁之战后，刘备夺回了刘表的领地荆州，以[江陵为本城](https://zh.wikipedia.org/wiki/江陵 "wikilink")。此时[益州的](https://zh.wikipedia.org/wiki/益 "wikilink")[刘璋却打算和曹操联合并投靠曹操](https://zh.wikipedia.org/wiki/刘璋 "wikilink")。为了阻止刘璋的计划，刘备等人受到[张松的邀请](https://zh.wikipedia.org/wiki/张松 "wikilink")，到益州与刘璋会面。刘璋虽然对刘备招待如宾，但是却暗中对抗刘备。在[庞统](../Page/庞统.md "wikilink")的建议之下，刘备开始了攻略益州以恢复汉室江山。由于[西凉](https://zh.wikipedia.org/wiki/西凉 "wikilink")[马腾被曹操杀死](https://zh.wikipedia.org/wiki/马腾 "wikilink")，其长子[马超](../Page/马超.md "wikilink")开始投靠[汉中](https://zh.wikipedia.org/wiki/汉中 "wikilink")[张鲁](../Page/张鲁.md "wikilink")。但是张鲁却对马超不受信任，最后马超决定加入刘备，并和刘备一起联合对抗刘璋。刘璋战败后，把益州承让给刘备，其军师[法正](../Page/法正.md "wikilink")也加入刘备军。刘备拥有益州和荆州后，势力渐渐强大。为此担忧的曹操开始派[夏侯霸](../Page/夏侯霸.md "wikilink")攻击[定军山和](https://zh.wikipedia.org/wiki/定军山 "wikilink")[曹仁](../Page/曹仁.md "wikilink")攻击[樊城](https://zh.wikipedia.org/wiki/樊城 "wikilink")，而益州南下的南蛮国[孟获也开始暴乱](https://zh.wikipedia.org/wiki/孟获 "wikilink")。为了平定敌军的攻击，刘备开始派三路军马对抗到底。
 
 刘备成功平定定军山、樊城和南蛮，并建立蜀汉。曹操知道消息后，也实行推翻汉帝并建立魏国。东汉王朝灭亡后，新的时代又到来，中原的势力则有曹操、刘备和孙权，史称三国时代。此时曹操开始领军西征蜀汉，刘备也开始派兵应战。在天水双军都面对极大的苦战，但是却得到赵云和姜维的援军，蜀汉军获得极大的胜利，曹操也从此撤兵到许昌。刘备获得天水后，开始要攻击魏国领地长安。
 
@@ -23,7 +23,7 @@
   - [关羽](../Page/关羽.md "wikilink")**（声：[堀秀行](../Page/堀秀行.md "wikilink")）**-字云长，刘备和张飞的结拜兄弟。刘备的参谋与大将之一。
   - [张飞](../Page/张飞.md "wikilink")**（声：[玄田哲章](../Page/玄田哲章.md "wikilink")）**-字翼德，刘备和关羽的结拜兄弟。美美、理理和琉琉的父亲。个性天真鲁莽和喜爱饮酒。
   - 美三娘**（声：[小山茉美](../Page/小山茉美.md "wikilink")）**-刘备的青梅竹马，也是刘备的参谋之一。原型人物为刘备第二妻子[糜夫人](https://zh.wikipedia.org/wiki/糜夫人 "wikilink")。
-  - [赵云](../Page/赵云.md "wikilink")**（声：[草尾毅](../Page/草尾毅.md "wikilink")）**-原为[北平牧](https://zh.wikipedia.org/wiki/北平 "wikilink")[公孙瓒的部下](../Page/公孙瓒.md "wikilink")，后来主家灭亡并投靠刘备，在战场具有活跃的一面，受到刘备和诸葛亮的重用。
+  - [赵云](../Page/赵云.md "wikilink")**（声：[草尾毅](../Page/草尾毅.md "wikilink")）**-原为[北平牧](https://zh.wikipedia.org/wiki/北平 "wikilink")[公孙瓒](../Page/公孙瓒.md "wikilink")的部下，后来主家灭亡并投靠刘备，在战场具有活跃的一面，受到刘备和诸葛亮的重用。
   - 美美**（声：[前田爱](https://zh.wikipedia.org/wiki/前田爱 "wikilink")）**-张飞的长女，在许昌救出貂蝉的时候被曹军射死。
   - 理理**（声：[前田爱](https://zh.wikipedia.org/wiki/前田爱 "wikilink")）**-张飞的次女。
   - 琉琉**（声：[前田爱](https://zh.wikipedia.org/wiki/前田爱 "wikilink")）**-张飞的三女。
@@ -66,11 +66,11 @@
   - [吕蒙](../Page/吕蒙.md "wikilink")**（声：[田中一成](../Page/田中一成.md "wikilink")）**-字子明，孙权配下大将之一，具有文武活跃一面。
   - [甘宁](../Page/甘宁.md "wikilink")**（声：[大场真人](https://zh.wikipedia.org/wiki/大场真人 "wikilink")）**-字兴霸，江东海贼及[黄祖配下大将](https://zh.wikipedia.org/wiki/黄祖 "wikilink")，后来投靠孙权军。
   - [陆逊](https://zh.wikipedia.org/wiki/陆逊 "wikilink")**（声：[徳山靖彦](https://zh.wikipedia.org/wiki/徳山靖彦 "wikilink")）**-字伯言，周瑜病逝后，继承军师之职。
-  - [太史慈](../Page/太史慈.md "wikilink")**（声：[古川登志夫](../Page/古川登志夫.md "wikilink")）**-字子义，曾担任过[刘谣](https://zh.wikipedia.org/wiki/刘谣 "wikilink")、[孔融和](../Page/孔融.md "wikilink")[孙策的大将](../Page/孙策.md "wikilink")，是孙权配下大将之一。
+  - [太史慈](../Page/太史慈.md "wikilink")**（声：[古川登志夫](../Page/古川登志夫.md "wikilink")）**-字子义，曾担任过[刘谣](https://zh.wikipedia.org/wiki/刘谣 "wikilink")、[孔融](../Page/孔融.md "wikilink")和[孙策](../Page/孙策.md "wikilink")的大将，是孙权配下大将之一。
 
 ### （相关人物/仕官武将）
 
-  - [貂蝉](../Page/貂蝉.md "wikilink")**（声：[中山亚微梨](https://zh.wikipedia.org/wiki/中山亚微梨 "wikilink")）**-刘备的爱人，受[汉献帝之托秘藏汉王朝的玉玺](../Page/汉献帝.md "wikilink")。被曹操抢占，关押在许昌。
+  - [貂蝉](../Page/貂蝉.md "wikilink")**（声：[中山亚微梨](https://zh.wikipedia.org/wiki/中山亚微梨 "wikilink")）**-刘备的爱人，受[汉献帝](../Page/汉献帝.md "wikilink")之托秘藏汉王朝的玉玺。被曹操抢占，关押在许昌。
   - [汉献帝](../Page/汉献帝.md "wikilink")**（声：[菅沼久义](https://zh.wikipedia.org/wiki/菅沼久义 "wikilink")）**-原名[刘协](https://zh.wikipedia.org/wiki/刘协 "wikilink")，东汉王朝最后一位皇帝。
   - [蔡瑁](../Page/蔡瑁.md "wikilink")**（声：[田中一成](../Page/田中一成.md "wikilink")）**-字德圭，刘表的妻子蔡夫人的兄长，刘氏一族。对水上战具有活跃一面，刘表死后投降曹操，后来受到诸葛亮的要求便加入刘备军。
   - [刘璋](https://zh.wikipedia.org/wiki/刘璋 "wikilink")**（声：[大场真人](https://zh.wikipedia.org/wiki/大场真人 "wikilink")）**-字季玉，益州牧及益州王，刘焉之子。是汉室宗亲，刘备的外甥。为了益州江山而与刘备作战到底。
@@ -84,8 +84,8 @@
 
 （以下人物则只是游戏里出现名字却没有出现在战场或是影片里）
 
-  - [吕布](../Page/吕布.md "wikilink")-字奉先，是[丁原和](../Page/丁原.md "wikilink")[董卓的义子](../Page/董卓.md "wikilink")，后来和刘备抢夺徐州，被刘备和曹操击败，命落[白门楼](https://zh.wikipedia.org/wiki/白门楼 "wikilink")。
-  - [袁绍](../Page/袁绍.md "wikilink")-字本初，名门袁氏三公，[冀州牧](https://zh.wikipedia.org/wiki/冀州 "wikilink")。原本和曹操是汉王朝同僚，后来反目成仇。在[官渡之战被曹操击败](../Page/官渡之战.md "wikilink")，惨败撤兵之际在路途病逝。
+  - [吕布](../Page/吕布.md "wikilink")-字奉先，是[丁原](../Page/丁原.md "wikilink")和[董卓](../Page/董卓.md "wikilink")的义子，后来和刘备抢夺徐州，被刘备和曹操击败，命落[白门楼](https://zh.wikipedia.org/wiki/白门楼 "wikilink")。
+  - [袁绍](../Page/袁绍.md "wikilink")-字本初，名门袁氏三公，[冀州牧](https://zh.wikipedia.org/wiki/冀州 "wikilink")。原本和曹操是汉王朝同僚，后来反目成仇。在[官渡之战](../Page/官渡之战.md "wikilink")被曹操击败，惨败撤兵之际在路途病逝。
   - [刘表](../Page/刘表.md "wikilink")-字景升，[荆州牧及汉室宗亲](https://zh.wikipedia.org/wiki/荆州 "wikilink")，刘备的同族兄弟。在刘备南逃荆州时，协助刘备对抗曹操并把新野让给刘备管理。病逝后其部下投降曹操。
 
 ## 外部链接

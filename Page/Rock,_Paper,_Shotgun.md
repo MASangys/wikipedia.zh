@@ -1,7 +1,7 @@
 **Rock, Paper,
 Shotgun**（翻譯名稱：**岩石、紙張、獵槍**）是一個網站專門為[電腦遊戲和電腦遊戲業提供評價和分析](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。網站由Alec
 Meer、Jim Rossignol、Adam Smith、John Walkerv、Kieron Gillen、Quintin
-Smith\[1\]於2007年7月成立。在2010年，它與[Eurogamer合作成為了其中一位編者](../Page/Eurogamer.md "wikilink")
+Smith\[1\]於2007年7月成立。在2010年，它與[Eurogamer](../Page/Eurogamer.md "wikilink")合作成為了其中一位編者
 。
 
 岩石、紙張、獵槍是一個相當權威的遊戲新聞網站，往往許多是指它和使用它作為參考\[2\]\[3\]\[4\]。

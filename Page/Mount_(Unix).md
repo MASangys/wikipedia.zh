@@ -1,4 +1,4 @@
-**mount**是一个[UNIX系统上的命令](../Page/UNIX.md "wikilink")。使用者在UNIX[操作系统的機器上開啟一個](../Page/操作系统.md "wikilink")[檔案以前](../Page/電腦檔案.md "wikilink")，包含該檔案的[檔案系統必須先進行掛載的動作](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，此時使用者要對該檔案系統下**mount**的指令以進行掛載。通常是使用在[USB或其他可移除儲存裝置上](https://zh.wikipedia.org/wiki/通用序列匯流排 "wikilink")，而根目錄則保持掛載的狀態。但[Unix檔案系統可以對應一個檔案而不一定要是硬體裝置](https://zh.wikipedia.org/wiki/Unix檔案系統 "wikilink")。
+**mount**是一个[UNIX](../Page/UNIX.md "wikilink")系统上的命令。使用者在UNIX[操作系统](../Page/操作系统.md "wikilink")的機器上開啟一個[檔案以前](../Page/電腦檔案.md "wikilink")，包含該檔案的[檔案系統必須先進行掛載的動作](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，此時使用者要對該檔案系統下**mount**的指令以進行掛載。通常是使用在[USB或其他可移除儲存裝置上](https://zh.wikipedia.org/wiki/通用序列匯流排 "wikilink")，而根目錄則保持掛載的狀態。但[Unix檔案系統可以對應一個檔案而不一定要是硬體裝置](https://zh.wikipedia.org/wiki/Unix檔案系統 "wikilink")。
 
 Unix命令列的**mount**指令是告訴作業系統，對應的[檔案系統已經準備好](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，可以使用了，而該檔案系統會對應到一個特定的點（稱為**掛載點**）。掛載好的檔案、目錄、裝置以及特殊檔案即可提供使用者使用。除了作業系統呼叫的**mount**指令外，**mount_root()**會優先掛載（或稱[根目錄](https://zh.wikipedia.org/wiki/根目錄 "wikilink")）
 。在這個情況下，作業系統會在呼叫**setup**前，先呼叫**mount**。

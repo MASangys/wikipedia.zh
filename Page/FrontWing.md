@@ -1,4 +1,4 @@
-**FrontWing**（）是一家于1999年成立的[日本游戏公司](../Page/日本.md "wikilink")，主要製作[美少女遊戲](../Page/美少女遊戲.md "wikilink")。
+**FrontWing**（）是一家于1999年成立的[日本](../Page/日本.md "wikilink")游戏公司，主要製作[美少女遊戲](../Page/美少女遊戲.md "wikilink")。
 
 ## 作品列表
 

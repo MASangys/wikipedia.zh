@@ -10,7 +10,7 @@ Hub（FCH），類似於[英特爾的Platform](https://zh.wikipedia.org/wiki/英
 Controller Hub（PCH，平台路徑控制器）。\[1\]\[2\]
 
 至於晶片組與中央處理器的連接，使用基於PCIe技術的UMI匯流排或直接以4通道規格的PCIe匯流排來達成，頻寬最大可達PCIe 3.0
-x4級別，因頻寬需求不高，並沒有使用以往AMD常用的[HyperTransport匯流排](../Page/HyperTransport.md "wikilink")。\[3\]
+x4級別，因頻寬需求不高，並沒有使用以往AMD常用的[HyperTransport](../Page/HyperTransport.md "wikilink")匯流排。\[3\]
 
 ## 晶片組產品
 
@@ -354,7 +354,7 @@ Express](../Page/SATA_Express.md "wikilink")、[NVMe以及RAID](../Page/NVM_Expr
 Express、NVMe走PCIe匯流排，可使用SATA
 Express連接埠、M.2/U.2連接埠等固態硬碟連接埠，也可使用PCIe連接器。晶片組原生並不提供[網路適配器](https://zh.wikipedia.org/wiki/網路適配器 "wikilink")、[PCI](../Page/外设组件互连标准.md "wikilink")、[SD卡](https://zh.wikipedia.org/wiki/Secure_Digital "wikilink")、[VGA-DAC的支援](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")，但可通過其PCIe匯流排或USB（板上線路）外掛相關功能的晶片來獲得（一般主機板廠商的做法）。
 
-基於Zen微架構的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")/[工作站平台](../Page/工作站.md "wikilink")，主機板晶片組是選配選項，晶片組商品名為X399晶片組，於2017年8月推出，採用支援多處理器的[Socket
+基於Zen微架構的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")/[工作站](../Page/工作站.md "wikilink")平台，主機板晶片組是選配選項，晶片組商品名為X399晶片組，於2017年8月推出，採用支援多處理器的[Socket
 SP3](../Page/Socket_SP3.md "wikilink")（伺服器/工作站）或物理規格相同但沒有多處理器支援的[Socket
 TR4](../Page/Socket_TR4.md "wikilink")（單CPU工作站/發燒級桌上型電腦，供Ryzen
 ThreadRipper系列使用），兩者均為[LGA封裝的插座](https://zh.wikipedia.org/wiki/平面網格陣列封裝 "wikilink")，接替此前使用的[Socket

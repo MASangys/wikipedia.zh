@@ -1,13 +1,13 @@
 《**ayumi hamasaki ～POWER of MUSIC～ 2011 A LIMITED EDITION**》（濱崎步 ～POWER
 of MUSIC～ 2011 A
-特別版演唱會）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2011年10月18日-10月19日間舉行巡迴演唱會，2012年3月21日發行DVD及BD。台湾地区于2012年4月6日发行2DVD版本
+特別版演唱會）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2011年10月18日-10月19日間舉行巡迴演唱會，2012年3月21日發行DVD及BD。台湾地区于2012年4月6日发行2DVD版本
 
 ## 說明
 
 巡迴演唱會「ayumi hamasaki ～POWER of MUSIC～ 2011
 A」在2011年5月9日-7月27日於日本全國各地10都市26地方公演，動員28萬人次。\[1\]。
 
-另外[東日本大震災的影響](../Page/東日本大震災.md "wikilink")，延期了4月中的公演且替換了部分的樂曲與演出，同年再舉行9月30日-10月13日的「ayumi
+另外[東日本大震災](../Page/東日本大震災.md "wikilink")的影響，延期了4月中的公演且替換了部分的樂曲與演出，同年再舉行9月30日-10月13日的「ayumi
 hamasaki ～POWER of MUSIC～ 2011 A FINAL Chapter」、10月18日-10月19日的「ayumi
 hamasaki ～POWER of MUSIC～ 2011 A LIMITED EDITION」。
 

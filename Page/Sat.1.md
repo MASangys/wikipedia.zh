@@ -1,4 +1,4 @@
-**德国卫星一台**（）是一个综合性的私营[电视台](../Page/电视台.md "wikilink")，总部设于[慕尼黑附近的](../Page/慕尼黑.md "wikilink")[翁特尔弗赫林格](https://zh.wikipedia.org/wiki/翁特尔弗赫林格 "wikilink")\[1\]。该台由所持有，其创始人为。
+**德国卫星一台**（）是一个综合性的私营[电视台](../Page/电视台.md "wikilink")，总部设于[慕尼黑](../Page/慕尼黑.md "wikilink")附近的[翁特尔弗赫林格](https://zh.wikipedia.org/wiki/翁特尔弗赫林格 "wikilink")\[1\]。该台由所持有，其创始人为。
 
 ## 注释
 

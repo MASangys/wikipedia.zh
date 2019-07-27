@@ -1,5 +1,5 @@
 **IEEE 802.1p**是[IEEE
-802.1Q](../Page/IEEE_802.1Q.md "wikilink")（[VLAN標籤技術](https://zh.wikipedia.org/wiki/VLAN "wikilink")）標準的擴充協定，两者共同運作，使第二層[網路交換器能夠提供流量優先級和動態](../Page/網路交換器.md "wikilink")[多播過濾服務](../Page/多播.md "wikilink")。
+802.1Q](../Page/IEEE_802.1Q.md "wikilink")（[VLAN標籤技術](https://zh.wikipedia.org/wiki/VLAN "wikilink")）標準的擴充協定，两者共同運作，使第二層[網路交換器](../Page/網路交換器.md "wikilink")能夠提供流量優先級和動態[多播](../Page/多播.md "wikilink")過濾服務。
 
 [IEEE
 802.1Q標準定義了乙太網路MAC資料框添加的標籤](../Page/IEEE_802.1Q.md "wikilink")。VLAN標籤有兩部分：VLAN
@@ -7,7 +7,7 @@ ID（12位元）和PCP（Priority Code Point）（3位元）。IEEE 802.1Q
 VLAN標準中沒有定義和使用PCP，而802.1P中則定義了PCP。
 
 PCP定義了從0至7的優先值，可以為第二層服務品質（QoS）或服務類（CoS）區分流量。此外，IEEE
-802.1p標準也提供了[多播流量過濾功能](../Page/多播.md "wikilink")，以確保該流量不超出第二層交換網路範圍。
+802.1p標準也提供了[多播](../Page/多播.md "wikilink")流量過濾功能，以確保該流量不超出第二層交換網路範圍。
 
 ## 優先級
 

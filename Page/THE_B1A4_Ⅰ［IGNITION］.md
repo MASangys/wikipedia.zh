@@ -1,5 +1,5 @@
 《**THE B1A4
-Ⅰ［IGNITION］**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B1A4的第](../Page/B1A4.md "wikilink")1枚正規韓語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年3月14日發行。唱片公司為[WM
+Ⅰ［IGNITION］**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B1A4](../Page/B1A4.md "wikilink")的第1枚正規韓語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年3月14日發行。唱片公司為[WM
 Entertainment](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")。
 
 ## 概要
@@ -27,7 +27,7 @@ Entertainment](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")。
 4.  Super Sonic
 5.  只有我們兩人（둘만 있으면）
       -
-        [Baro獨唱](../Page/Baro.md "wikilink") feat.
+        [Baro](../Page/Baro.md "wikilink")獨唱 feat.
         [Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（[miss
         A](https://zh.wikipedia.org/wiki/miss_A "wikilink")）
 6.  微笑（웃어봐）
@@ -51,7 +51,7 @@ Entertainment](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")。
 6.  Super Sonic
 7.  只有我們兩人（둘만 있으면）
       -
-        [Baro獨唱](../Page/Baro.md "wikilink") feat.
+        [Baro](../Page/Baro.md "wikilink")獨唱 feat.
         [Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（[miss
         A](https://zh.wikipedia.org/wiki/miss_A "wikilink")）
 8.  微笑（웃어봐）

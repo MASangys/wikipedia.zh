@@ -2,7 +2,7 @@
 
 SymPy支持符号计算、[高精度计算](../Page/高精度计算.md "wikilink")、模式匹配、绘图、解方程、微积分、[组合数学](../Page/组合数学.md "wikilink")、[离散数学](../Page/离散数学.md "wikilink")、几何学、概率与统计、物理学等方面的功能。\[2\]\[3\]
 
-SymPy在新[BSD许可证下开源](../Page/BSD许可证.md "wikilink")。\[4\]
+SymPy在新[BSD许可证](../Page/BSD许可证.md "wikilink")下开源。\[4\]
 
 ## 用例
 
@@ -35,7 +35,7 @@ x  + 2⋅x + ╲╱ x + log(x) ⋅(3⋅x + 1) + 1
   - [SymPy Gamma](http://www.sympygamma.com), SymPy版的[Wolfram
     Alpha](../Page/Wolfram_Alpha.md "wikilink")
   - [SymPy on GitHub](https://github.com/sympy/sympy/),
-    SymPy的[GitHub页面](../Page/GitHub.md "wikilink")
+    SymPy的[GitHub](../Page/GitHub.md "wikilink")页面
 
 [Category:带有Python代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有Python代码示例的条目 "wikilink")
 [Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink")

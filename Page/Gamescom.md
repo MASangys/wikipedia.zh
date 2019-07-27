@@ -1,6 +1,6 @@
 [Titanfall_at_Gamescom_2013_(9591148650).jpg](https://zh.wikipedia.org/wiki/File:Titanfall_at_Gamescom_2013_\(9591148650\).jpg "fig:Titanfall_at_Gamescom_2013_(9591148650).jpg")遊戲《[泰坦天降](../Page/泰坦天降.md "wikilink")》的展覽會場\]\]
 
-（風格化書寫為，在中文地区又被称为“科隆游戏展”或“GC展”）是一個在[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[科隆舉行的年度遊戲交易展覽會](../Page/科隆.md "wikilink")。展覽會由Bundesverband
+（風格化書寫為，在中文地区又被称为“科隆游戏展”或“GC展”）是一個在[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[科隆](../Page/科隆.md "wikilink")舉行的年度遊戲交易展覽會。展覽會由Bundesverband
 Interaktive
 Unterhaltungssoftware組織舉辦。許多[遊戲開發者都利用該展覽會展示他們即將發行的](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")[電子遊戲和相關的硬件設備](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。\[1\]\[2\]\[3\]\[4\]
 

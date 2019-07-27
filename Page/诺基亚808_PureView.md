@@ -5,7 +5,7 @@ Belle）系统的智能手机，2012年2月27日于[全球移动通讯大会上�
 
 诺基亚808拥有4100万像素的1/1.2英寸传感器和一个高分辨率f/2.4
 [Zeiss全非球面](https://zh.wikipedia.org/wiki/Zeiss "wikilink")1组镜头
-。其传感器於2014年以前為[照相手机中尺寸最大](https://zh.wikipedia.org/wiki/照相手机 "wikilink")，分辨率最高的，此纪录之前由[诺基亚N8保持](../Page/诺基亚N8.md "wikilink")，其传感器尺寸比N8大了2.5倍。2014年，由擁有1英吋感光元件之[Panasonic
+。其传感器於2014年以前為[照相手机中尺寸最大](https://zh.wikipedia.org/wiki/照相手机 "wikilink")，分辨率最高的，此纪录之前由[诺基亚N8](../Page/诺基亚N8.md "wikilink")保持，其传感器尺寸比N8大了2.5倍。2014年，由擁有1英吋感光元件之[Panasonic
 Lumix
 DMC-CM1取代Nokia](https://zh.wikipedia.org/wiki/:en:_Panasonic_Lumix_DMC-CM1 "wikilink")
 808 PureView感光元件最大之照相手機的寶座，不過其解析度僅2010萬畫素，仍低於後者。

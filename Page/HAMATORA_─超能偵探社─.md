@@ -1,6 +1,6 @@
 《**HAMATORA
-─超能偵探社─**》（）是以動畫及漫畫為中心的[跨媒體製作作品](../Page/跨媒體製作.md "wikilink")。漫畫版於2013年11月開始在《[周刊YOUNG
-JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")》連載。另外也預定發售遊戲版和小說版。電視動畫於2014年1月7日深夜時段在[東京電視台開始播出](../Page/東京電視台.md "wikilink")。
+─超能偵探社─**》（）是以動畫及漫畫為中心的[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品。漫畫版於2013年11月開始在《[周刊YOUNG
+JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")》連載。另外也預定發售遊戲版和小說版。電視動畫於2014年1月7日深夜時段在[東京電視台](../Page/東京電視台.md "wikilink")開始播出。
 
 電視動畫於2014年3月26日播放第一季最終話時，於片尾預告「To Be
 Continued」，2014年4月30日宣布第二季標題為《**Re：␣
@@ -796,7 +796,7 @@ Kim Daehun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台動畫劇院</a></p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>動畫劇院</p></td>
 <td><p>星期日 更新</p></td>
 <td></td>
 <td></td>

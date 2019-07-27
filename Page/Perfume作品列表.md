@@ -19,8 +19,7 @@
 <td><p>1st</p></td>
 <td><p>2006年8月2日<br />
 初回限定生産盤</p></td>
-<td><p><strong><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume～Complete Best～</a></strong><br />
-（<a href="https://zh.wikipedia.org/wiki/精選輯" title="wikilink">精選輯</a>）</p></td>
+<td><p><strong><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume～Complete Best～</a></strong></p></td>
 <td><p>66</p></td>
 </tr>
 <tr class="even">
@@ -84,15 +83,31 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2008年2月13日</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/Fan_Service_-Prima_Box-" title="wikilink">Fan Service -Prima Box-</a></p></td>
-<td><p>不入榜</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
 <td><p>2012年9月12日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_Global_Compilation_“LOVE_THE_WORLD”" title="wikilink">Perfume Global Compilation “LOVE THE WORLD”</a></strong></p></td>
 <td><p>1</p></td>
+</tr>
+</tbody>
+</table>
+
+### 非主流时期专辑
+
+<table>
+<thead>
+<tr class="header">
+<th><p>張數</p></th>
+<th><p>發售日期</p></th>
+<th><p>名稱</p></th>
+<th><p>Oricon銷售榜<br />
+最高位置</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2008年2月15日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Fan_Service_-Prima_Box-" title="wikilink">Fan Service -Prima Box-</a></strong></p></td>
+<td><p>9（算入单曲榜）</p></td>
 </tr>
 </tbody>
 </table>
@@ -127,19 +142,19 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/魔法★吞下去" title="wikilink">OMAJINAI★ペロリ</a></strong></p></td>
 <td><p>魔法★吞下去</p></td>
 <td><ol>
-<li>OMAJINAI★ペロリ (魔法★吞下去)</li>
-<li>OMAJINAI★ペロリ (オリジナルカラオケ) ( 魔法★吞下去 (Original Karaoke) )</li>
+<li>OMAJINAI★ペロリ (OMAJINAI★Perori)</li>
+<li>OMAJINAI★ペロリ (オリジナルカラオケ) ( OMAJINAI★Perori (Original Karaoke) )</li>
 </ol></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2002年11月1日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/男友徵集中" title="wikilink">彼氏募集中</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/彼氏募集中" title="wikilink">彼氏募集中</a></strong></p></td>
 <td><p>男友徵集中</p></td>
 <td><ol>
-<li>彼氏募集中 (男友徵集中)</li>
-<li>彼氏募集中 (オリジナルカラオケ) ( 男友徵集中 (Original Karaoke) )</li>
+<li>彼氏募集中 (Kareshi Boshuchu)</li>
+<li>彼氏募集中 (オリジナルカラオケ) ( Kareshi Boshuchu (Original Karaoke) )</li>
 </ol></td>
 <td></td>
 </tr>
@@ -159,7 +174,7 @@
 <td><ol>
 <li>スウィートドーナッツ (Sweet Donuts)</li>
 <li>シークレットメッセージ (Secret Message)</li>
-<li>ジェニーはご機嫌ななめ (珍妮心情不好)</li>
+<li>ジェニーはご機嫌ななめ (Jenny Wa Gokigen Naname)</li>
 </ol></td>
 <td><p><a href="../Page/Perfume～Complete_Best～.md" title="wikilink">Perfume～Complete Best～</a></p></td>
 </tr>
@@ -171,7 +186,7 @@
 <td><ol>
 <li>モノクロームエフェクト (Monochrome Effect)</li>
 <li>エレベーター (Elevator)</li>
-<li>おいしいレシピ (美味食譜)</li>
+<li>おいしいレシピ (Oishii Recipe)</li>
 </ol></td>
 <td></td>
 </tr>
@@ -182,7 +197,7 @@
 <td><p>Vitamin Drop</p></td>
 <td><ol>
 <li>ビタミンドロップ (Vitamin Drop)</li>
-<li>引力</li>
+<li>引力 (Inyouku)</li>
 </ol></td>
 <td></td>
 </tr>
@@ -276,7 +291,7 @@
 <td><p>Baby cruising Love/Macaroni</p></td>
 <td><ol>
 <li>Baby cruising Love</li>
-<li>マカロニ</li>
+<li>マカロニ (Macaroni)</li>
 <li>Baby cruising Love -original instrumental-</li>
 <li>マカロニ -original instrumental-</li>
 </ol></td>
@@ -304,7 +319,7 @@
 <td><p>Dream Fighter</p></td>
 <td><ol>
 <li>Dream Fighter</li>
-<li>願い</li>
+<li>願い (Negai)</li>
 <li>Dream Fighter -original instrumental-</li>
 <li>願い -original instrumental-</li>
 </ol></td>
@@ -331,8 +346,8 @@
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/不自然女孩/自然愛" title="wikilink">不自然なガール/ナチュラルに恋して</a></p></td>
 <td><p>不自然女孩/自然愛</p></td>
 <td><ol>
-<li>不自然なガール</li>
-<li>ナチュラルに戀して</li>
+<li>不自然なガール (Fushizen na Girl)</li>
+<li>ナチュラルに戀して (Natural ni koishite)</li>
 <li>不自然なガール -original instrumental-</li>
 <li>ナチュラルに戀して -original instrumental-</li>
 </ol></td>
@@ -359,7 +374,7 @@
 <td><p><strong><a href="../Page/欸_(Perfume單曲).md" title="wikilink">ねぇ</a></strong></p></td>
 <td><p>欸</p></td>
 <td><ol>
-<li>ねぇ</li>
+<li>ねぇ (Nee)</li>
 <li>FAKE IT</li>
 <li>ねぇ -original instrumental-</li>
 <li>FAKE IT -original instrumental-</li>
@@ -374,7 +389,7 @@
 <td><p>Laser Beam/微香</p></td>
 <td><ol>
 <li>レーザービーム (Laser Beam)</li>
-<li>微かなカオリ</li>
+<li>微かなカオリ (Kasuka na Kaori)</li>
 <li>レーザービーム (Laser Beam) -original instrumental-</li>
 <li>微かなカオリ -original instrumental-</li>
 </ol></td>
@@ -384,12 +399,12 @@
 <tr class="even">
 <td><p>14th</p></td>
 <td><p>2011年11月2日</p></td>
-<td><p><strong><a href="../Page/SPICE_(Perfume單曲).md" title="wikilink">スパイス</a></strong></p></td>
-<td><p>SPICE</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Spice_(Perfume單曲)" title="wikilink">スパイス</a></strong></p></td>
+<td><p>Spice</p></td>
 <td><ol>
-<li>スパイス (SPICE)</li>
+<li>スパイス (Spice)</li>
 <li>GLITTER</li>
-<li>スパイス (SPICE) -original instrumental-</li>
+<li>スパイス -original instrumental-</li>
 <li>GLITTER -original instrumental-</li>
 </ol></td>
 <td><p>2</p></td>
@@ -419,7 +434,7 @@
 <li>ポイント (Point)</li>
 <li>Hurly Burly</li>
 <li>Spending all my time -original instrumental-</li>
-<li>ポイント (Point) -original instrumental-</li>
+<li>ポイント -original instrumental-</li>
 <li>Hurly Burly -original instrumental-</li>
 </ol></td>
 <td><p>2</p></td>
@@ -431,7 +446,7 @@
 <td><p><strong><a href="../Page/未來的博物館.md" title="wikilink">未来のミュージアム</a></strong></p></td>
 <td><p>未來的博物館</p></td>
 <td><ol>
-<li>未来のミュージアム</li>
+<li>未来のミュージアム (Mirai no Museum)</li>
 <li>だいじょばない</li>
 <li>未来のミュージアム -original instrumental-</li>
 <li>だいじょばない -original instrumental-</li>
@@ -460,9 +475,9 @@
 <td><p>Sweet Refrain</p></td>
 <td><ol>
 <li>Sweet Refrain</li>
-<li>戀は前傾姿勢</li>
+<li>恋は前傾姿勢 (Koi wa Zenkei Shisei)</li>
 <li>Sweet Refrain -original instrumental-</li>
-<li>戀は前傾姿勢 -original instrumental-</li>
+<li>恋は前傾姿勢 -original instrumental-</li>
 </ol></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/COSMIC_EXPLORER.md" title="wikilink">COSMIC EXPLORER</a></p></td>
@@ -476,7 +491,7 @@
 <li>Cling Cling</li>
 <li>Hold Your Hand</li>
 <li>DISPLAY</li>
-<li>いじわるなハロー</li>
+<li>いじわるなハロー (Ijiwaruna Hello)</li>
 <li>Cling Cling -original instrumental-</li>
 <li>Hold Your Hand -original instrumental-</li>
 <li>DISPLAY -original instrumental-</li>
@@ -493,7 +508,7 @@
 <td><ol>
 <li>Relax In The City</li>
 <li>Pick Me Up</li>
-<li>透明人間</li>
+<li>透明人間 (Toumei Ningen)</li>
 <li>Relax In The City -original instrumental-</li>
 <li>Pick Me Up -original instrumental-</li>
 <li>透明人間 -original instrumental-</li>
@@ -509,10 +524,10 @@
 <td><ol>
 <li>STAR TRAIN</li>
 <li>TOKIMEKI LIGHTS</li>
-<li>イミテーションワールド (初回盤)</li>
-<li>STAR TRAIN -original instrumental- (初回盤)</li>
-<li>TOKIMEKI LIGHTS -original instrumental- (初回盤)</li>
-<li>イミテーションワールド -original instrumental- (初回盤)</li>
+<li>イミテーションワールド (初回限定盤)</li>
+<li>STAR TRAIN -original instrumental- (初回限定盤)</li>
+<li>TOKIMEKI LIGHTS -original instrumental- (初回限定盤)</li>
+<li>イミテーションワールド -original instrumental- (初回限定盤)</li>
 </ol></td>
 <td><p>4</p></td>
 <td></td>
@@ -524,7 +539,7 @@
 <td><p>TOKYO GIRL</p></td>
 <td><ol>
 <li>TOKYO GIRL</li>
-<li>宝石の雨</li>
+<li>宝石の雨 (Housekino Ame)</li>
 <li>TOKYO GIRL -original instrumental-</li>
 <li>宝石の雨 -original instrumental-</li>
 </ol></td>
@@ -548,12 +563,12 @@
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p>2018年3月14日</p></td>
-<td><p><strong><a href="../Page/無限未來.md" title="wikilink">無限未来</a></strong></p></td>
-<td><p>無限未來</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/無限未来" title="wikilink">無限未来</a></strong></p></td>
+<td><p>無限未来</p></td>
 <td><ol>
-<li>無限未來</li>
-<li>FUSION (除花牌情緣限定盤)</li>
-<li>FLASH (花牌情緣限定盤)</li>
+<li>無限未来 (Mugenmirai)</li>
+<li>FUSION (除期间限定 花牌情緣限定盤)</li>
+<li>FLASH (期间限定 花牌情緣限定盤)</li>
 <li>無限未来 -original instrumental-</li>
 </ol></td>
 <td><p>4</p></td>
@@ -1181,7 +1196,7 @@
 <li>唱片公司:<a href="https://zh.wikipedia.org/wiki/NAKiD" title="wikilink">NAKiD</a></li>
 <li>生産編號:NKCM-1006</li>
 </ul></td>
-<td><p><a href="../Page/桃井晴子.md" title="wikilink">桃井晴子作詞作曲製作</a>，以<strong>ぱふゅーむ×DJ momo-i</strong>名義發行之作品。「消暑大作戰！2005」活動主題曲。由於是活動合作單曲，現今已很難買到。由於並非中田康貴作品、也非日本德間的商品，在精選輯中收錄的可能性也很低，此外近年也不再公開表演本曲。</p></td>
+<td><p><a href="../Page/桃井晴子.md" title="wikilink">桃井晴子</a>作詞作曲製作，以<strong>ぱふゅーむ×DJ momo-i</strong>名義發行之作品。「消暑大作戰！2005」活動主題曲。由於是活動合作單曲，現今已很難買到。由於並非中田康貴作品、也非日本德間的商品，在精選輯中收錄的可能性也很低，此外近年也不再公開表演本曲。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1191,12 +1206,12 @@
 <ul>
 <li>生産編號:PSRE-2114</li>
 </ul></td>
-<td><p>為『remix』2007年4月號贈品企劃而製作的7吋唱片。<a href="../Page/中田康貴.md" title="wikilink">中田康貴編曲</a>。</p></td>
+<td><p>為『remix』2007年4月號贈品企劃而製作的7吋唱片。<a href="../Page/中田康貴.md" title="wikilink">中田康貴</a>編曲。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
 <td><p>Lovefool</p></td>
-<td><p><a href="../Page/百事可樂.md" title="wikilink">百事可樂飲品</a>「PEPSI NEX」的廣告歌（2010年6月12日-）。為瑞典樂隊<a href="https://zh.wikipedia.org/wiki/羊毛衫樂隊" title="wikilink">羊毛衫樂隊</a>(The Cardigans)於1996年發售的同名翻唱作品，由中田康貴重新編曲。CD發行未定。</p></td>
+<td><p><a href="../Page/百事可樂.md" title="wikilink">百事可樂</a>飲品「PEPSI NEX」的廣告歌（2010年6月12日-）。為瑞典樂隊<a href="https://zh.wikipedia.org/wiki/羊毛衫樂隊" title="wikilink">羊毛衫樂隊</a>(The Cardigans)於1996年發售的同名翻唱作品，由中田康貴重新編曲。CD發行未定。</p></td>
 </tr>
 </tbody>
 </table>

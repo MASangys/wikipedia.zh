@@ -1,4 +1,4 @@
-**Composer**是[PHP的](../Page/PHP.md "wikilink")[软件包管理系统](../Page/软件包管理系统.md "wikilink")，由及提出並實做，於2012年3月1日發行第一個版本\[1\]。
+**Composer**是[PHP](../Page/PHP.md "wikilink")的[软件包管理系统](../Page/软件包管理系统.md "wikilink")，由及提出並實做，於2012年3月1日發行第一個版本\[1\]。
 
 ## 註解
 

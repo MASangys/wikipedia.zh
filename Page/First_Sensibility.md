@@ -1,5 +1,5 @@
 《**First
-Sensibility**》是韓國男子團體[B.A.P首張正規專輯](../Page/B.A.P.md "wikilink")，在2014年2月3日由由[TS娛樂製作](../Page/TS娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，並以《1004（Angel）》作主打曲目\[1\]。
+Sensibility**》是韓國男子團體[B.A.P](../Page/B.A.P.md "wikilink")首張正規專輯，在2014年2月3日由由[TS娛樂](../Page/TS娛樂.md "wikilink")製作，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，並以《1004（Angel）》作主打曲目\[1\]。
 
 ## 曲目
 

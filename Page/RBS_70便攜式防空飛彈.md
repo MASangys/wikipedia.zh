@@ -1,6 +1,6 @@
 **RBS 70**（，直譯：機械人系統
-70）是一具最初由[瑞典](../Page/瑞典.md "wikilink")[國防承包商](../Page/國防承包商.md "wikilink")[波佛斯防務公司所設計和生產](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")（自2000年開始則是由[紳寶波佛斯防務公司生產及持續改進](https://zh.wikipedia.org/wiki/紳寶波佛斯防務公司 "wikilink")）的全部候區域、幾乎沒有來自其他外力支援的[便携式防空导弹系統](../Page/便携式防空导弹.md "wikilink")，它所發射的RB
-70導彈也在許多其他的瑞典[导弹系統以上使用](../Page/导弹.md "wikilink")。
+70）是一具最初由[瑞典](../Page/瑞典.md "wikilink")[國防承包商](../Page/國防承包商.md "wikilink")[波佛斯防務公司所設計和生產](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")（自2000年開始則是由[紳寶波佛斯防務公司生產及持續改進](https://zh.wikipedia.org/wiki/紳寶波佛斯防務公司 "wikilink")）的全部候區域、幾乎沒有來自其他外力支援的[便携式防空导弹](../Page/便携式防空导弹.md "wikilink")系統，它所發射的RB
+70導彈也在許多其他的瑞典[导弹](../Page/导弹.md "wikilink")系統以上使用。
 
 ## 發展歷史
 
@@ -8,10 +8,10 @@
 
 RBS
 70是由[波佛斯防務公司研發](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")，以向瑞典防空部隊提供一種低成本、容易使用和有效的短程[防空导弹系統](../Page/面對空飛彈.md "wikilink")。在RBS
-70以前的瑞典防空系統的中流砥柱是美國[MIM-23「鷹」式](../Page/MIM-23鷹式飛彈.md "wikilink")[导弹系統](../Page/导弹.md "wikilink")（RBS
+70以前的瑞典防空系統的中流砥柱是美國[MIM-23「鷹」式](../Page/MIM-23鷹式飛彈.md "wikilink")[导弹](../Page/导弹.md "wikilink")系統（RBS
 77和RBS
 97“瑞典「鷹」式”）、美國[FIM-43「紅眼」](../Page/FIM-43紅眼便攜式防空飛彈.md "wikilink")[便携式防空导弹](../Page/便携式防空导弹.md "wikilink")（RBS
-69）和瑞典[波佛斯m/48](../Page/波佛斯40公釐高射砲.md "wikilink")[防空火炮](../Page/高射炮.md "wikilink")。而選擇一種短距離、低成本的基座式防空系統的最主要的原因是因為當時的[瑞典國防軍學說就是戰爭時流動性和低維護是非常重要的](../Page/瑞典國防軍.md "wikilink")。RBS
+69）和瑞典[波佛斯m/48](../Page/波佛斯40公釐高射砲.md "wikilink")[防空火炮](../Page/高射炮.md "wikilink")。而選擇一種短距離、低成本的基座式防空系統的最主要的原因是因為當時的[瑞典國防軍](../Page/瑞典國防軍.md "wikilink")學說就是戰爭時流動性和低維護是非常重要的。RBS
 70的研製在1967年開始。1976年產生了第一個原型。1977年進行最後的測試。
 
 瑞典國防軍已決定以的地面發射型版本將RBS 70取代。\[1\]
@@ -30,7 +30,7 @@ RBS 70已不斷更新和完善，第一代版本（Mk 0）戰鬥有效射程較�
 馬赫的一系列標準型RBS 70。目前，RBS 70在22個客戶國家，在所有大陸和北極、沙漠和熱帶等環境下操作。
 
 2003年，推出了RBS 70的“火流星”的升級系統。\[2\]火流星導彈是RBS 70 Mk
-2型的升級版本，彈速更快（2[马赫與](../Page/马赫.md "wikilink")1.6馬赫），戰鬥有效射程達到8,000[公尺](../Page/米_\(单位\).md "wikilink")（8,748.91[码](https://zh.wikipedia.org/wiki/码 "wikilink")，26,246.72[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")，4.79[英里](../Page/英里.md "wikilink")），而且高度能達到5,000公尺（5,468.07码，16,404.2英尺，3.11英里）。火流星導彈也具有一個新型彈頭，這是[锥形装药與預碎外殼](https://zh.wikipedia.org/wiki/锥形装药 "wikilink")，高適應性的[近炸引信給它全效對更廣泛的目標](../Page/近炸引信.md "wikilink")，新型的可重新編程的電子給它打擊[巡航导弹和](../Page/巡航导弹.md "wikilink")[無人航空載具的能力](../Page/無人航空載具.md "wikilink")。在2005年開始可向客戶交付。
+2型的升級版本，彈速更快（2[马赫](../Page/马赫.md "wikilink")與1.6馬赫），戰鬥有效射程達到8,000[公尺](../Page/米_\(单位\).md "wikilink")（8,748.91[码](https://zh.wikipedia.org/wiki/码 "wikilink")，26,246.72[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")，4.79[英里](../Page/英里.md "wikilink")），而且高度能達到5,000公尺（5,468.07码，16,404.2英尺，3.11英里）。火流星導彈也具有一個新型彈頭，這是[锥形装药與預碎外殼](https://zh.wikipedia.org/wiki/锥形装药 "wikilink")，高適應性的[近炸引信](../Page/近炸引信.md "wikilink")給它全效對更廣泛的目標，新型的可重新編程的電子給它打擊[巡航导弹](../Page/巡航导弹.md "wikilink")和[無人航空載具](../Page/無人航空載具.md "wikilink")的能力。在2005年開始可向客戶交付。
 
 ## 升級改良
 
@@ -43,12 +43,12 @@ RBS 70已不斷更新和完善，第一代版本（Mk 0）戰鬥有效射程較�
     0）：1977年推出的第一個量產版本。戰鬥有效射程達到5,000[公尺](../Page/米_\(单位\).md "wikilink")，高度達到3,000公尺，最大飛行速度1.5[马赫](../Page/马赫.md "wikilink")。
   - RBS 70（Mark 1）：1990年推出的第二個量產版本。戰鬥有效射程達到6,000公尺，最大飛行速度1.6馬赫。
   - RBS 70（Mark
-    2）：1993年推出的第三個量產版本。通過改進電子設備和更大的[近炸引信彈頭](../Page/近炸引信.md "wikilink")。戰鬥有效射程達到7,000公尺，高度達到4,000公尺，最大飛行速度1.8馬赫。
+    2）：1993年推出的第三個量產版本。通過改進電子設備和更大的[近炸引信](../Page/近炸引信.md "wikilink")彈頭。戰鬥有效射程達到7,000公尺，高度達到4,000公尺，最大飛行速度1.8馬赫。
   - RBS 90：1991年推出的版本。具有遙控的雙重或三重發射器。由於熱成像儀和PS-91 HARD
     3D搜索雷達，這個版本具有夜戰能力。使用的導彈是Mark
     1和Mark 2型導彈。
   - RBS
-    70（BOLIDE）：2001年推出的版本。為打擊[巡航导弹和](../Page/巡航导弹.md "wikilink")[無人航空載具而研製](../Page/無人航空載具.md "wikilink")，具有改進的電子產品和新型的火流星（BOLIDE）導彈。戰鬥有效射程達到8,000公尺，高度達到5,000公尺，最大飛行速度可達2.0馬赫以上。
+    70（BOLIDE）：2001年推出的版本。為打擊[巡航导弹](../Page/巡航导弹.md "wikilink")和[無人航空載具](../Page/無人航空載具.md "wikilink")而研製，具有改進的電子產品和新型的火流星（BOLIDE）導彈。戰鬥有效射程達到8,000公尺，高度達到5,000公尺，最大飛行速度可達2.0馬赫以上。
   - RBS
     70NG：2011年推出的版本。具有齊全的夜戰配備，包括一個新型光學瞄準鏡、新型[熱成像儀和改進的電子設備](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。使用的導彈是火流星（BOLIDE）導彈。
 
@@ -62,7 +62,7 @@ RBS 70已不斷更新和完善，第一代版本（Mk 0）戰鬥有效射程較�
 
   - ：被[阿根廷海軍陸戰隊所採用](https://zh.wikipedia.org/wiki/阿根廷海軍陸戰隊 "wikilink")。\[4\]
 
-  - ：被[澳大利亚国防军所採用](../Page/澳大利亚国防军.md "wikilink")。
+  - ：被[澳大利亚国防军](../Page/澳大利亚国防军.md "wikilink")所採用。
 
   - ：被[巴林國防軍所採用](https://zh.wikipedia.org/wiki/巴林國防軍 "wikilink")。
 
@@ -72,16 +72,16 @@ RBS 70已不斷更新和完善，第一代版本（Mk 0）戰鬥有效射程較�
 
   - ：被[捷克軍隊所採用](https://zh.wikipedia.org/wiki/捷克軍隊 "wikilink")。\[5\]
 
-  - ：被[芬蘭國防軍所採用](../Page/芬蘭國防軍.md "wikilink")，命名為**ITO2005／ITO2005M**。\[6\]
+  - ：被[芬蘭國防軍](../Page/芬蘭國防軍.md "wikilink")所採用，命名為**ITO2005／ITO2005M**。\[6\]
 
-  - ：被[德國聯邦國防軍所採用](../Page/德國聯邦國防軍.md "wikilink")，將**RBS
-    70**導彈改編為他們的[威塞爾2「山貓」](https://zh.wikipedia.org/wiki/威塞爾2山貓裝甲車 "wikilink")（LeFlaSys發射器型）[装甲车上的](../Page/装甲车.md "wikilink")[先進短程防空系統-RBS](https://zh.wikipedia.org/wiki/先進短程防空系統-RBS "wikilink")（，簡稱：ASRAD-R）的基礎武器之一。
+  - ：被[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")所採用，將**RBS
+    70**導彈改編為他們的[威塞爾2「山貓」](https://zh.wikipedia.org/wiki/威塞爾2山貓裝甲車 "wikilink")（LeFlaSys發射器型）[装甲车](../Page/装甲车.md "wikilink")上的[先進短程防空系統-RBS](https://zh.wikipedia.org/wiki/先進短程防空系統-RBS "wikilink")（，簡稱：ASRAD-R）的基礎武器之一。
 
   - ：被[印尼武裝部隊所採用](https://zh.wikipedia.org/wiki/印尼武裝部隊 "wikilink")。
 
   - ：被[伊朗軍隊所採用](../Page/伊朗軍事.md "wikilink")。
 
-  - ：被[愛爾蘭國防軍所採用](../Page/愛爾蘭國防軍.md "wikilink")。
+  - ：被[愛爾蘭國防軍](../Page/愛爾蘭國防軍.md "wikilink")所採用。
 
   - ：被[拉脫維亞武裝部隊所採用](https://zh.wikipedia.org/wiki/拉脫維亞武裝部隊 "wikilink")。
 
@@ -96,9 +96,9 @@ RBS 70已不斷更新和完善，第一代版本（Mk 0）戰鬥有效射程較�
 
   - ：被[新加坡共和国武装部队所採用](https://zh.wikipedia.org/wiki/新加坡共和国武装部队 "wikilink")。
 
-  - ：被[瑞典國防軍所採用](../Page/瑞典國防軍.md "wikilink")。
+  - ：被[瑞典國防軍](../Page/瑞典國防軍.md "wikilink")所採用。
 
-  - ：被[泰国皇家军队所採用](../Page/泰国皇家军队.md "wikilink")。
+  - ：被[泰国皇家军队](../Page/泰国皇家军队.md "wikilink")所採用。
 
   - ：被[突尼斯武裝部隊所採用](https://zh.wikipedia.org/wiki/突尼斯武裝部隊 "wikilink")。
 

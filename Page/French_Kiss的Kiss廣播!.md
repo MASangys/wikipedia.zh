@@ -1,17 +1,17 @@
 **《French
-Kiss的Kiss廣播\!》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink"):**フレンチ・キスのKissラジ\!**），是於[FM東京所播放的深夜廣播](../Page/FM東京.md "wikilink")[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週日25:00
+Kiss的Kiss廣播\!》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink"):**フレンチ・キスのKissラジ\!**），是於[FM東京](../Page/FM東京.md "wikilink")所播放的深夜廣播[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週日25:00
 - 25:30播出，由[French Kiss主持](../Page/French_Kiss_\(音乐团体\).md "wikilink")。
 
 ## 概要
 
 因為2011年3月11日發生[東日本大震災](../Page/東日本大震災.md "wikilink")，18日[French
-Kiss的成員們討論是否能為受災地區的民眾貢獻一點幫助](../Page/French_Kiss_\(音乐团体\).md "wikilink")，向工作人員諮詢後認為廣播節目可以普遍傳達，即使停電也能收聽，於是於21日公開宣布將在[FM東京開設新的節目](../Page/FM東京.md "wikilink")。
+Kiss的成員們討論是否能為受災地區的民眾貢獻一點幫助](../Page/French_Kiss_\(音乐团体\).md "wikilink")，向工作人員諮詢後認為廣播節目可以普遍傳達，即使停電也能收聽，於是於21日公開宣布將在[FM東京](../Page/FM東京.md "wikilink")開設新的節目。
 
 節目的名稱向粉絲募集，在第一集播出時發表為「French
 Kisse的Kiss廣播！〜你的YELL〜」（フレンチ・キスのKissラジ！〜あなたへのYELL〜）。從2012年6月30日之後，簡化為現在的名稱。
 
 2012年9月29日該集結束後，播出時間從每週六24:00 -24:30改至每週日25:00 -
-25:30，原時段則由[柏木由紀的首個冠名節目](../Page/柏木由紀.md "wikilink")「[柏木由紀的YUKIRIN
+25:30，原時段則由[柏木由紀](../Page/柏木由紀.md "wikilink")的首個冠名節目「[柏木由紀的YUKIRIN
 TIME](../Page/柏木由紀的YUKIRIN_TIME.md "wikilink")」（2012年10月6日 -）取代。
 
 節目的片頭曲採用French Kiss的歌曲，若發行新單曲，則播出新單曲收錄的歌曲。
@@ -232,7 +232,7 @@ TIME](../Page/柏木由紀的YUKIRIN_TIME.md "wikilink")」（2012年10月6日 -
 
 ## 放送局
 
-[FM東京以外的電台皆晚一週播放](../Page/FM東京.md "wikilink")。
+[FM東京](../Page/FM東京.md "wikilink")以外的電台皆晚一週播放。
 
   - [TOKYO FM](../Page/FM東京.md "wikilink")（**製作局**） 星期日 25:00-25:30
 
@@ -245,7 +245,7 @@ TIME](../Page/柏木由紀的YUKIRIN_TIME.md "wikilink")」（2012年10月6日 -
   - [FM岩手](https://zh.wikipedia.org/wiki/FM岩手 "wikilink") 星期六
     24:00-24:30
 
-以上三個電台皆位於[東日本大震災受災區](../Page/東日本大震災.md "wikilink")。
+以上三個電台皆位於[東日本大震災](../Page/東日本大震災.md "wikilink")受災區。
 
   - [FM高知](https://zh.wikipedia.org/wiki/FM高知 "wikilink") 星期日
     24:00-24:30 (從2012年4月)

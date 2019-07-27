@@ -1,5 +1,5 @@
 **GitLab**是由GitLab
-Inc.开发，使用[MIT許可證的基于](../Page/MIT許可證.md "wikilink")[网络的](../Page/互联网.md "wikilink")[Git](../Page/Git.md "wikilink")[仓库管理工具](../Page/仓库_\(版本控制\).md "wikilink")，且具有[wiki和](https://zh.wikipedia.org/wiki/wiki "wikilink")[issue跟踪功能](../Page/事务跟踪管理系统.md "wikilink")。
+Inc.开发，使用[MIT許可證](../Page/MIT許可證.md "wikilink")的基于[网络的](../Page/互联网.md "wikilink")[Git](../Page/Git.md "wikilink")[仓库管理工具](../Page/仓库_\(版本控制\).md "wikilink")，且具有[wiki和](https://zh.wikipedia.org/wiki/wiki "wikilink")[issue跟踪功能](../Page/事务跟踪管理系统.md "wikilink")。
 
 GitLab 由乌克兰程序员 Dmitriy Zaporozhets 和 Valery Sizov 开发，它由
 [Ruby](../Page/Ruby.md "wikilink") 写成。后来，一些部分用 [Go

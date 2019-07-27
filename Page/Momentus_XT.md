@@ -1,5 +1,5 @@
 **Momentus
-XT**是由[希捷公司推出的固态混合硬盘](https://zh.wikipedia.org/wiki/希捷 "wikilink")。这是一款2.5英寸[笔记本](https://zh.wikipedia.org/wiki/笔记本 "wikilink")[硬盘](../Page/硬盘.md "wikilink")，可以提供类似于[固态硬盘的性能以及](../Page/固态硬盘.md "wikilink")[机械硬盘的大容量](https://zh.wikipedia.org/wiki/机械硬盘 "wikilink")、低价格。
+XT**是由[希捷公司推出的固态混合硬盘](https://zh.wikipedia.org/wiki/希捷 "wikilink")。这是一款2.5英寸[笔记本](https://zh.wikipedia.org/wiki/笔记本 "wikilink")[硬盘](../Page/硬盘.md "wikilink")，可以提供类似于[固态硬盘](../Page/固态硬盘.md "wikilink")的性能以及[机械硬盘的大容量](https://zh.wikipedia.org/wiki/机械硬盘 "wikilink")、低价格。
 
 ## 特性
 

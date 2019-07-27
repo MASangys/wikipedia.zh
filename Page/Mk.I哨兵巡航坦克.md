@@ -3,7 +3,7 @@
 ## 歷史
 
 AC Mk.I(在1940年11月開始研發，計劃安裝[QF
-2磅炮](../Page/QF_2磅炮.md "wikilink")。它是一款真正的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")，類似于加拿大的[白羊坦克](../Page/白羊坦克.md "wikilink")，澳大利亞的巡航坦克設計上借鑑了美國[M3李戰車的發動機](../Page/M3李戰車.md "wikilink")，傳動系統和底盤。但是裝甲來得更厚，並且炮塔的樣式比較接近英國的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")。但是，1942年，爲了能夠趕上德國的坦克設計水平，設計指標更偏向于美式的[中型坦克](../Page/中型坦克.md "wikilink")。
+2磅炮](../Page/QF_2磅炮.md "wikilink")。它是一款真正的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")，類似于加拿大的[白羊坦克](../Page/白羊坦克.md "wikilink")，澳大利亞的巡航坦克設計上借鑑了美國[M3李戰車](../Page/M3李戰車.md "wikilink")的發動機，傳動系統和底盤。但是裝甲來得更厚，並且炮塔的樣式比較接近英國的[巡航坦克](https://zh.wikipedia.org/wiki/巡航坦克 "wikilink")。但是，1942年，爲了能夠趕上德國的坦克設計水平，設計指標更偏向于美式的[中型坦克](../Page/中型坦克.md "wikilink")。
 
 因為澳大利亞以前缺乏坦克的設計經驗，一個代表團被派往美國考察M3“李”戰車的設計。同時，英國派出了一名有著多年坦克設計經驗的炮兵軍官，W.D.沃森
 MC上校。他在1940年12月抵達了澳大利亞。\[2\]
@@ -12,7 +12,7 @@ MC上校。他在1940年12月抵達了澳大利亞。\[2\]
 Mk.I坦克被正式定名為“哨兵”。並由悉尼的[邱羅拉坦克裝備加工廠生產](https://zh.wikipedia.org/wiki/邱羅拉坦克裝備加工廠 "wikilink")。該種坦克從1942年8月開始交付使用。它同時還被用於實驗。并使用了一些其它坦克現有的配件。儘管要安裝炮塔，但它的底盤是一體鑄造的。這在同時代坦克中是獨一無二的。\[3\]
 
 儘管原本計劃安裝QF 2磅炮，但是最後決定改為安裝QF
-6磅炮（口徑為57mm，合2.25英寸）。不過，因為沒法得到足夠的6磅炮，因此，最初的65輛坦克仍然安裝2磅炮。同時，安裝了2門[維克斯機槍作為次要武器](../Page/維克斯機槍.md "wikilink")。一挺安裝在底盤上，另一挺作為[同軸機槍安裝在炮塔上](https://zh.wikipedia.org/wiki/同軸機槍 "wikilink")。原本計劃安裝的[普拉特＆惠特尼R](https://zh.wikipedia.org/wiki/普拉特＆惠特尼 "wikilink")-1340[汽油機或](https://zh.wikipedia.org/wiki/汽油機 "wikilink")[吉伯森](https://zh.wikipedia.org/wiki/吉伯森 "wikilink")[柴油機帶動一個](https://zh.wikipedia.org/wiki/柴油機 "wikilink")28噸的坦克十分合適，但是因為澳大利亞當局無法獲得這些引擎，因此，最終，哨兵坦克安裝的是3門凱迪拉克346英寸³（5.7[升](../Page/升.md "wikilink")）V8車用汽油機。（兩門並排安裝，一門在它們後方。）65輛坦克在1943年6月前全部完成。\[4\]
+6磅炮（口徑為57mm，合2.25英寸）。不過，因為沒法得到足夠的6磅炮，因此，最初的65輛坦克仍然安裝2磅炮。同時，安裝了2門[維克斯機槍](../Page/維克斯機槍.md "wikilink")作為次要武器。一挺安裝在底盤上，另一挺作為[同軸機槍安裝在炮塔上](https://zh.wikipedia.org/wiki/同軸機槍 "wikilink")。原本計劃安裝的[普拉特＆惠特尼R](https://zh.wikipedia.org/wiki/普拉特＆惠特尼 "wikilink")-1340[汽油機或](https://zh.wikipedia.org/wiki/汽油機 "wikilink")[吉伯森](https://zh.wikipedia.org/wiki/吉伯森 "wikilink")[柴油機帶動一個](https://zh.wikipedia.org/wiki/柴油機 "wikilink")28噸的坦克十分合適，但是因為澳大利亞當局無法獲得這些引擎，因此，最終，哨兵坦克安裝的是3門凱迪拉克346英寸³（5.7[升](../Page/升.md "wikilink")）V8車用汽油機。（兩門並排安裝，一門在它們後方。）65輛坦克在1943年6月前全部完成。\[4\]
 
 ## 型號
 

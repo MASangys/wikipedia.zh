@@ -1,4 +1,4 @@
-**八木東IC**（平假名：ちよかわインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[龜岡市的](../Page/龜岡市.md "wikilink")[京都縱貫自動車道之](../Page/京都縱貫自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道只設丹波方向出口與沓掛方向入口。
+**八木東IC**（平假名：ちよかわインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[龜岡市](../Page/龜岡市.md "wikilink")的[京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。此交流道只設丹波方向出口與沓掛方向入口。
 
 ## 連接道路
 
@@ -24,7 +24,7 @@
 ## 歷史
 
   - 1996年4月27日 -
-    [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[千代川IC至](../Page/千代川IC.md "wikilink")[丹波IC之間開通](https://zh.wikipedia.org/wiki/丹波IC "wikilink")，此交流道也同時啟用。
+    [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[千代川IC](../Page/千代川IC.md "wikilink")至[丹波IC之間開通](https://zh.wikipedia.org/wiki/丹波IC "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 

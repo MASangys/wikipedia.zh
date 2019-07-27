@@ -26,7 +26,7 @@ DSW方程有多种解析解\[2\]
 
 ### 达布变换法
 
-利用[达布变换可求DSW方程的解析解](../Page/达布变换.md "wikilink")\[5\]
+利用[达布变换](../Page/达布变换.md "wikilink")可求DSW方程的解析解\[5\]
 
 \(v := -(1/2)*k^2*(-1+\sqrt(3)*tanh(k^3*t+(1/2)*k*y)*cot((1/2)*\sqrt(3)*k*y))\)
 [DSW_breather_with_Dabourx_transform.gif](https://zh.wikipedia.org/wiki/File:DSW_breather_with_Dabourx_transform.gif "fig:DSW_breather_with_Dabourx_transform.gif")
@@ -46,7 +46,7 @@ DSW方程有多种解析解\[2\]
 <references/>
 
 1.  \*谷超豪
-    《[孤立子理论中的](https://zh.wikipedia.org/wiki/孤立子 "wikilink")[达布变换及其几何应用](../Page/达布变换.md "wikilink")》
+    《[孤立子理论中的](https://zh.wikipedia.org/wiki/孤立子 "wikilink")[达布变换](../Page/达布变换.md "wikilink")及其几何应用》
     上海科学技术出版社
 2.  \*阎振亚著 《复杂非线性波的构造性理论及其应用》 科学出版社 2007年
 3.  李志斌编著 《非线性数学物理方程的行波解》 科学出版社

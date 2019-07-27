@@ -1,5 +1,5 @@
 **Sony Xperia
-GX**是[日本電子公司](../Page/日本.md "wikilink")[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的日系[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，即只在[日本發售的](../Page/日本.md "wikilink")[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，國際版本為[Xperia
+GX**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的日系[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，即只在[日本](../Page/日本.md "wikilink")發售的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，國際版本為[Xperia
 TX](../Page/Sony_Xperia_TX.md "wikilink")。其於2012年5月發表，將於2012年7月推出。\[1\]\[2\]
 
 ## 顏色

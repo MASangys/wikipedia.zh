@@ -110,7 +110,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 
 ## 書籍
 
-兩本同名[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《T宝的悲惨日常》（）由[星海社于](../Page/星海社.md "wikilink")2012年9月10日至2013年11月7日出版。\[2\]\[3\]
+兩本同名[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《T宝的悲惨日常》（）由[星海社](../Page/星海社.md "wikilink")于2012年9月10日至2013年11月7日出版。\[2\]\[3\]
 
 ## 电视动画
 
@@ -120,7 +120,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 
 ### 工作人员
 
-  - 原作、人物原案 - 宇佐義大（うーさーのその日暮らし／[星海社刊](../Page/星海社.md "wikilink")）
+  - 原作、人物原案 - 宇佐義大（うーさーのその日暮らし／[星海社](../Page/星海社.md "wikilink")刊）
   - 人物设定 - ふじのきともこ
   - 人物原案協力 - CHAN×CO、久世、えいひ、ajipo、カトゆー
   - 監督 -

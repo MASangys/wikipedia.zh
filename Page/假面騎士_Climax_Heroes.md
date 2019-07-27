@@ -2,16 +2,16 @@
 BANDAI
 Games推出](https://zh.wikipedia.org/wiki/NAMCO_BANDAI_Games "wikilink")，以[特攝片](../Page/特攝片.md "wikilink")『[假面騎士系列](../Page/假面騎士系列.md "wikilink")』為主的格鬥遊戲系列。
 
-在本系列推出以前，假面騎士系列的[電子遊戲都是以再現劇中各畫面為基本的](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，不過為了乎合平成假面騎士10週年作品『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的故事內容，於是在2009年開發了集結了從『[假面騎士空我](../Page/假面騎士空我.md "wikilink")』到『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的十作平成假面騎士作品的[跨界作品遊戲](../Page/跨界作品.md "wikilink")：『**假面騎士
+在本系列推出以前，假面騎士系列的[電子遊戲都是以再現劇中各畫面為基本的](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，不過為了乎合平成假面騎士10週年作品『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的故事內容，於是在2009年開發了集結了從『[假面騎士空我](../Page/假面騎士空我.md "wikilink")』到『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的十作平成假面騎士作品的[跨界作品](../Page/跨界作品.md "wikilink")遊戲：『**假面騎士
 Climax Heroes**』。
 
 本系列也是繼2006年的『**[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")**』後時隔三年推出的電子遊戲作品，而且自2007年的『**[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")**』開始的作品也首次的遊戲化。同年末加上『**[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")**』的『**假面騎士
 Climax Heroes W**』推出後，每年以加入新角色的形式來進行系列化。
 
 本系列是使用多邊形的3D對戰型格鬥遊戲，前四作角色移動系統都與[鐵拳系列般只左右平行移動](../Page/铁拳系列.md "wikilink")、向上跳躍和橫向移動。但在『**假面騎士
-超 Climax Heroes**』則開始改成跟[魂之系列系列般能在場地自由移動](../Page/魂之系列.md "wikilink")。
+超 Climax Heroes**』則開始改成跟[魂之系列](../Page/魂之系列.md "wikilink")系列般能在場地自由移動。
 
-配音方面，除了部份用上原演員的配音外，大部份都是由遊戲本身的[聲優進行配音](../Page/聲優.md "wikilink")，不過，在『超』中將盡可能收錄原演員的配音。
+配音方面，除了部份用上原演員的配音外，大部份都是由遊戲本身的[聲優](../Page/聲優.md "wikilink")進行配音，不過，在『超』中將盡可能收錄原演員的配音。
 
 官方Blog一般會簡稱為「**クラヒー**」或者是「**クラヒ**」。而網絡上一般會將其名稱翻譯為「**巔峰英雄**」。
 

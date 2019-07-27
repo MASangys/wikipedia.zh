@@ -1,4 +1,4 @@
-[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》的音樂由系列主要作曲者[植松伸夫譜寫](../Page/植松伸夫.md "wikilink")。收錄遊戲幾乎全部音樂的專輯《最終幻想III原聲音樂版》由[史克威爾](../Page/史克威爾.md "wikilink")/[NTT出版於](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1991年首發，後由NTT出版於1994年和2004年再版。收錄《最終幻想III》[任天堂DS重製版曲目的專輯](../Page/任天堂DS.md "wikilink")《最終幻想III原聲音樂》由NTT出版於2006年發行，其收錄了重錄版曲目以及新增曲目。人聲[重編版專輯](https://zh.wikipedia.org/wiki/重編 "wikilink")《最終幻想III
+[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》的音樂由系列主要作曲者[植松伸夫](../Page/植松伸夫.md "wikilink")譜寫。收錄遊戲幾乎全部音樂的專輯《最終幻想III原聲音樂版》由[史克威爾](../Page/史克威爾.md "wikilink")/[NTT出版於](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1991年首發，後由NTT出版於1994年和2004年再版。收錄《最終幻想III》[任天堂DS](../Page/任天堂DS.md "wikilink")重製版曲目的專輯《最終幻想III原聲音樂》由NTT出版於2006年發行，其收錄了重錄版曲目以及新增曲目。人聲[重編版專輯](https://zh.wikipedia.org/wiki/重編 "wikilink")《最終幻想III
 悠久之風傳說》選錄了遊戲中的音樂。曲目由植松伸夫編曲，二重唱Dido演奏人聲。該專輯由Data
 M於1990年發行，Polystar於1994年發行。
 
@@ -34,7 +34,7 @@ Enix Music Online的大衛也認為旁白是專輯的一大敗筆，但其稱總
 
 ## 最終幻想III原聲音樂
 
-《最終幻想III原聲音樂》（）是《最終幻想III》[任天堂DS重製版的原聲](../Page/任天堂DS.md "wikilink")。專輯收錄了[關戶剛和河盛庆次為DS系統重編的原始曲目](../Page/關戶剛.md "wikilink")。此外專輯還收錄了[黑魔導士和山中康裕的兩首合成器操作的混音](https://zh.wikipedia.org/wiki/黑魔導士 "wikilink")。專輯還附帶一個[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，其中收录了遊戲[全動態影像開場動畫](https://zh.wikipedia.org/wiki/全動態影像 "wikilink")、宣傳視頻，以及遊戲職員訪談。專輯由史克威爾艾尼克斯於2006年9月20日發行，目錄號為SQEX-10076\~7。原聲碟收錄61首曲目，計70分56秒，DVD版收錄3個曲目計28分24秒\[14\]。
+《最終幻想III原聲音樂》（）是《最終幻想III》[任天堂DS](../Page/任天堂DS.md "wikilink")重製版的原聲。專輯收錄了[關戶剛](../Page/關戶剛.md "wikilink")和河盛庆次為DS系統重編的原始曲目。此外專輯還收錄了[黑魔導士和山中康裕的兩首合成器操作的混音](https://zh.wikipedia.org/wiki/黑魔導士 "wikilink")。專輯還附帶一個[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，其中收录了遊戲[全動態影像開場動畫](https://zh.wikipedia.org/wiki/全動態影像 "wikilink")、宣傳視頻，以及遊戲職員訪談。專輯由史克威爾艾尼克斯於2006年9月20日發行，目錄號為SQEX-10076\~7。原聲碟收錄61首曲目，計70分56秒，DVD版收錄3個曲目計28分24秒\[14\]。
 
 《最終幻想III原聲音樂》獲得了媒體褒貶不一的評價。帕特里克·江恩稱“縱使你擁有FC原版的原聲，仍然有很多理由來同時收錄這張原聲”\[15\]，但Square
 Enix Music Online的理查德則認為這是一張“還過得去”但“多被遺忘”的專輯\[16\]。

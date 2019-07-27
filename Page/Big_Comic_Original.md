@@ -1,5 +1,5 @@
 《**Big Comic
-Original**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1972年創刊。
+Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1972年創刊。
 
 ## 連載作品
 

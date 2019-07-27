@@ -1,5 +1,5 @@
 **ENARM
-Pentagun**是半自動轉輪霰彈槍，由[巴西ENARM製造](../Page/巴西.md "wikilink")。他的配置構型非常像[LAPA
+Pentagun**是半自動轉輪霰彈槍，由[巴西](../Page/巴西.md "wikilink")ENARM製造。他的配置構型非常像[LAPA
 FA-03突擊步槍](../Page/LAPA_FA-03突擊步槍.md "wikilink")。
 
 ## 參考

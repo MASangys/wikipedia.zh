@@ -1,4 +1,4 @@
-**基因銀行**（**GenBank**）是一个[开放获取的](../Page/开放获取.md "wikilink")，对所有公开可利用的[核苷酸序列与其翻译的](https://zh.wikipedia.org/wiki/核苷酸序列 "wikilink")[蛋白质进行收集并注释](../Page/蛋白质.md "wikilink")。
+**基因銀行**（**GenBank**）是一个[开放获取](../Page/开放获取.md "wikilink")的，对所有公开可利用的[核苷酸序列与其翻译的](https://zh.wikipedia.org/wiki/核苷酸序列 "wikilink")[蛋白质](../Page/蛋白质.md "wikilink")进行收集并注释。
 
 此数据库是（INSDC）的一部分，由[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")（NCBI）主管，NCBI为[美国](../Page/美国.md "wikilink")[国立卫生研究院的下属机构](https://zh.wikipedia.org/wiki/国立卫生研究院_\(美国\) "wikilink")。GenBank和它的合作者从全球各个实验室接收了超过百万种生物的数据。
 
@@ -7,10 +7,10 @@
 ## 历史
 
 1979年，[洛斯阿拉莫斯国家实验室](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")（LANL）[理论生物学和生物物理学小组](http://www.t10.lanl.gov/)的等人建立了洛斯阿拉莫斯序列数据库，最终成为了公共的
-GenBank数据库的前身\[4\]。1982年，由[美国国立卫生研究院](https://zh.wikipedia.org/wiki/国立卫生研究院_\(美国\) "wikilink")、美国国家科学基金会、美国能源部和国防部共同出资，LANL与[BBN科技公司合作](../Page/BBN科技.md "wikilink")，成立了GenBank。到1983年底，已有超过2,000个序列被存储在GenBank。
+GenBank数据库的前身\[4\]。1982年，由[美国国立卫生研究院](https://zh.wikipedia.org/wiki/国立卫生研究院_\(美国\) "wikilink")、美国国家科学基金会、美国能源部和国防部共同出资，LANL与[BBN科技](../Page/BBN科技.md "wikilink")公司合作，成立了GenBank。到1983年底，已有超过2,000个序列被存储在GenBank。
 
 在20世纪80年代中期，[斯坦福大学的Intelligenetics](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")
-bioinformatics公司与LANL合作经营着GenBank项目\[5\]。作为最早的互联网[生物信息学社区项目](../Page/生物信息学.md "wikilink")，GenBank计划为生物学家打造一个[开放获取的](../Page/开放获取.md "wikilink")/Bionet消息社群。1989到1992年，GenBank被转移到新成立的[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")\[6\]。
+bioinformatics公司与LANL合作经营着GenBank项目\[5\]。作为最早的互联网[生物信息学](../Page/生物信息学.md "wikilink")社区项目，GenBank计划为生物学家打造一个[开放获取](../Page/开放获取.md "wikilink")的/Bionet消息社群。1989到1992年，GenBank被转移到新成立的[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")\[6\]。
 
 [NucleotideSequences_86_87.jpeg](https://zh.wikipedia.org/wiki/File:NucleotideSequences_86_87.jpeg "fig:NucleotideSequences_86_87.jpeg")
 [Genbank100CD.jpg](https://zh.wikipedia.org/wiki/File:Genbank100CD.jpg "fig:Genbank100CD.jpg")

@@ -10,7 +10,7 @@ Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](h
 
 ## 應用
 
-在[和聲的研究中](https://zh.wikipedia.org/wiki/和聲 "wikilink")，許多[音程可以表示為Superparticular數的比例](../Page/音程.md "wikilink")。此時可以用找出所有分母及分子均為[光滑數的音程](../Page/光滑數.md "wikilink")\[1\]。
+在[和聲的研究中](https://zh.wikipedia.org/wiki/和聲 "wikilink")，許多[音程](../Page/音程.md "wikilink")可以表示為Superparticular數的比例。此時可以用找出所有分母及分子均為[光滑數](../Page/光滑數.md "wikilink")的音程\[1\]。
 
 ## 比例英文名稱及相關的音程
 

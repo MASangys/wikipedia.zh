@@ -1,4 +1,4 @@
-**2\*Sweet**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雙胞胎女子組合](../Page/雙胞胎.md "wikilink")，成員有**[萱野可芬](https://zh.wikipedia.org/wiki/萱野可芬 "wikilink")**和**[萱野可芳](https://zh.wikipedia.org/wiki/萱野可芳 "wikilink")**，兩人從事[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[歌手等工作](../Page/歌手.md "wikilink")，她們的父親是[日本](../Page/日本.md "wikilink")[橫濱人](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，母親是台灣人，是台日[混血兒](../Page/混血兒.md "wikilink")，在台灣長大，她們還有一個妹妹，還有一隻寵物妹妹萱野P。
+**2\*Sweet**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雙胞胎](../Page/雙胞胎.md "wikilink")女子組合，成員有**[萱野可芬](https://zh.wikipedia.org/wiki/萱野可芬 "wikilink")**和**[萱野可芳](https://zh.wikipedia.org/wiki/萱野可芳 "wikilink")**，兩人從事[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[歌手](../Page/歌手.md "wikilink")等工作，她們的父親是[日本](../Page/日本.md "wikilink")[橫濱人](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，母親是台灣人，是台日[混血兒](../Page/混血兒.md "wikilink")，在台灣長大，她們還有一個妹妹，還有一隻寵物妹妹萱野P。
 
 ## 音樂作品
 
@@ -30,19 +30,19 @@
     可芬飾 陳思佳
   - 2011年青輔會青年壯遊宣傳短片
   - 2012年
-    [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[八大綜合台偶像劇](../Page/八大綜合台.md "wikilink")《[給愛麗絲的奇蹟](../Page/給愛麗絲的奇蹟.md "wikilink")》
+    [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")偶像劇《[給愛麗絲的奇蹟](../Page/給愛麗絲的奇蹟.md "wikilink")》
     可芳飾演 蘇美玫
   - 2012年
-    [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[中天綜合台偶像劇](../Page/中天綜合台.md "wikilink")《[白色之戀](https://zh.wikipedia.org/wiki/白色之戀_\(台灣電視劇\) "wikilink")》
+    [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")偶像劇《[白色之戀](https://zh.wikipedia.org/wiki/白色之戀_\(台灣電視劇\) "wikilink")》
     可芬飾 櫻井春子
   - 2012年 龍山寺形象短片
   - 2013年 小紅帽x2\*sweet番外篇
   - 2013年
-    [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[八大綜合台偶像劇](../Page/八大綜合台.md "wikilink")《[流氓蛋糕店](../Page/流氓蛋糕店_\(台灣電視劇\).md "wikilink")》可芬飾
+    [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")偶像劇《[流氓蛋糕店](../Page/流氓蛋糕店_\(台灣電視劇\).md "wikilink")》可芬飾
     背包客（「公司」成員）、可芳飾 「公司」成員
   - 2014年 電影《[大稻埕](../Page/大稻埕_\(電影\).md "wikilink")》飾日本少女
   - 2014年
-    [東森幼幼台偶像劇](../Page/東森幼幼台.md "wikilink")《[萌學園六復活之戰](https://zh.wikipedia.org/wiki/萌學園六復活之戰 "wikilink")》
+    [東森幼幼台](../Page/東森幼幼台.md "wikilink")偶像劇《[萌學園六復活之戰](https://zh.wikipedia.org/wiki/萌學園六復活之戰 "wikilink")》
     可芳飾 諾蓓兒
   - 2015年
     [中視金鐘電視電影](https://zh.wikipedia.org/wiki/中視 "wikilink")《[願望清單](../Page/願望清單.md "wikilink")》

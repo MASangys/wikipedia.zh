@@ -1,5 +1,5 @@
 《**Everybody's Gonna be
-Happy**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆的單曲](../Page/Prizmmy☆.md "wikilink")，於2012年3月16日由[avex
+Happy**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆](../Page/Prizmmy☆.md "wikilink")的單曲，於2012年3月16日由[avex
 entertainent發行](https://zh.wikipedia.org/wiki/avex_entertainent "wikilink")。
 
 ## 概要

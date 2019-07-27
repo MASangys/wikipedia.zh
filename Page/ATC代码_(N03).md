@@ -1,6 +1,6 @@
 ## N03A [抗癫痫药](https://zh.wikipedia.org/wiki/抗癫痫药 "wikilink")
 
-### N03AA [巴比妥及其衍生物](../Page/巴比妥.md "wikilink")（Barbiturates and derivatives）
+### N03AA [巴比妥](../Page/巴比妥.md "wikilink")及其衍生物（Barbiturates and derivatives）
 
   -
     N03AA01
@@ -29,7 +29,7 @@
     N03AB52 苯妥英，复方（Phenytoin, combinations）
     N03AB54 美芬妥英，复方（Mephenytoin, combinations）
 
-### N03AC [噁唑烷衍生物类](../Page/噁唑烷.md "wikilink")（Oxazolidine derivatives）
+### N03AC [噁唑烷](../Page/噁唑烷.md "wikilink")衍生物类（Oxazolidine derivatives）
 
   -
     N03AC01 [甲乙双酮](../Page/甲乙双酮.md "wikilink")（Paramethadione）
@@ -64,7 +64,7 @@
     N03AF04
     [艾司利卡西平](https://zh.wikipedia.org/wiki/艾司利卡西平 "wikilink")（Eslicarbazepine）
 
-### N03AG [脂肪酸衍生物类](../Page/脂肪酸.md "wikilink")（Fatty acid derivatives）
+### N03AG [脂肪酸](../Page/脂肪酸.md "wikilink")衍生物类（Fatty acid derivatives）
 
   -
     N03AG01 [丙戊酸](../Page/丙戊酸.md "wikilink")（Valproic acid）

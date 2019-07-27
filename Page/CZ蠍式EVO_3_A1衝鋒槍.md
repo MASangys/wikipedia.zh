@@ -1,5 +1,5 @@
 **CZ蠍式EVO 3
-A1**（）是一枝由[捷克槍械製造商](../Page/捷克.md "wikilink")（簡稱：CZ-UB）公司所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。名字當中的“蠍式”意味著它繼承了[蠍式衝鋒槍的名字](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")。
+A1**（）是一枝由[捷克](../Page/捷克.md "wikilink")槍械製造商（簡稱：CZ-UB）公司所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。名字當中的“蠍式”意味著它繼承了[蠍式衝鋒槍的名字](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")。
 
 ## 歷史
 
@@ -9,17 +9,17 @@ A1**（）是一枝由[捷克槍械製造商](../Page/捷克.md "wikilink")（�
 ## 設計細節
 
 CZ蠍式EVO 3
-A1採用了傳統的自由式槍機操作原理，設有半自動、[三發點放和全自動這三種發射模式](../Page/三發點放.md "wikilink")，採用[擊錘回轉式擊發方式](https://zh.wikipedia.org/wiki/擊錘 "wikilink")，並採用以確保射擊精度。理論射速為1,150發／分鐘，有效射程為250[公尺](../Page/米_\(单位\).md "wikilink")（273.4[码](https://zh.wikipedia.org/wiki/码 "wikilink")，820.21[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）。其帶有的[空槍掛機裝置可使其發射彈匣內最後一發子彈後](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")，槍機會自動後退並且保持開放狀態。\[1\]
+A1採用了傳統的自由式槍機操作原理，設有半自動、[三發點放](../Page/三發點放.md "wikilink")和全自動這三種發射模式，採用[擊錘回轉式擊發方式](https://zh.wikipedia.org/wiki/擊錘 "wikilink")，並採用以確保射擊精度。理論射速為1,150發／分鐘，有效射程為250[公尺](../Page/米_\(单位\).md "wikilink")（273.4[码](https://zh.wikipedia.org/wiki/码 "wikilink")，820.21[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）。其帶有的[空槍掛機裝置可使其發射彈匣內最後一發子彈後](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")，槍機會自動後退並且保持開放狀態。\[1\]
 
 ### 機匣
 
 CZ蠍式EVO 3
-A1採用了[聚合物製造的](../Page/聚合物.md "wikilink")[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。機匣是由左右兩片所組合而成，並通過[螺釘固定在一起](../Page/螺絲.md "wikilink")。採用了左右兩側的雙向設計：可以按照情況在左右導槽互換而無需任何工具，拉機柄導槽尾端設有向上卡槽，將拉機柄拉至最後方並且向上卡入卡槽內可起到固定作用。機匣右側刻有武器名稱的銘文，而左側刻有捷克製造的銘文。[空槍挂機解脫桿位於機匣左側面及](https://zh.wikipedia.org/wiki/空槍挂機 "wikilink")[快慢機](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")、[扳機護圈前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，個頭較大，操作起來非常方便。因為採用傳統的自由式槍機操作原理，槍機[质量比較大](../Page/质量.md "wikilink")。
+A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。機匣是由左右兩片所組合而成，並通過[螺釘固定在一起](../Page/螺絲.md "wikilink")。採用了左右兩側的雙向設計：可以按照情況在左右導槽互換而無需任何工具，拉機柄導槽尾端設有向上卡槽，將拉機柄拉至最後方並且向上卡入卡槽內可起到固定作用。機匣右側刻有武器名稱的銘文，而左側刻有捷克製造的銘文。[空槍挂機解脫桿位於機匣左側面及](https://zh.wikipedia.org/wiki/空槍挂機 "wikilink")[快慢機](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")、[扳機護圈前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，個頭較大，操作起來非常方便。因為採用傳統的自由式槍機操作原理，槍機[质量](../Page/质量.md "wikilink")比較大。
 
 ### 發射機構
 
 CZ蠍式EVO 3
-A1採用了[聚合物製造的發射機構組件](../Page/聚合物.md "wikilink")，並且以一個固定銷與[機匣連接在一起](https://zh.wikipedia.org/wiki/機匣 "wikilink")。快慢機桿裝在左右兩側，發射模式為保險、半自動、[三發點放和全自動四個位置三種發射模式](../Page/三發點放.md "wikilink")，並以呈直線排列在快慢機上方。從最前方的保險位置調節到半自動位置只需旋轉約20[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，調節到最後方的全自動位置只需旋轉約80°，這大大提高了其發射模式速度。快慢機桿前方還設有[空槍掛機解脫桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。超大型設計的[扳機護圈方便戴上](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套操作扳機](../Page/手套.md "wikilink")。扳機護圈前方兩側設有[彈匣卡箏](https://zh.wikipedia.org/wiki/彈匣卡箏 "wikilink")，左右兩手均可以順暢操作，非常方便。
+A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的發射機構組件，並且以一個固定銷與[機匣連接在一起](https://zh.wikipedia.org/wiki/機匣 "wikilink")。快慢機桿裝在左右兩側，發射模式為保險、半自動、[三發點放](../Page/三發點放.md "wikilink")和全自動四個位置三種發射模式，並以呈直線排列在快慢機上方。從最前方的保險位置調節到半自動位置只需旋轉約20[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，調節到最後方的全自動位置只需旋轉約80°，這大大提高了其發射模式速度。快慢機桿前方還設有[空槍掛機解脫桿](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。超大型設計的[扳機護圈方便戴上](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")操作扳機。扳機護圈前方兩側設有[彈匣卡箏](https://zh.wikipedia.org/wiki/彈匣卡箏 "wikilink")，左右兩手均可以順暢操作，非常方便。
 
 ### 槍管
 
@@ -29,30 +29,30 @@ A1的槍管利用螺紋固定在[機匣前部](https://zh.wikipedia.org/wiki/機
 ### 護木
 
 CZ蠍式EVO 3
-A1採用了[聚合物製造的](../Page/聚合物.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。護木左右兩側和底部都整合了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，以便安裝各種型號的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[前握把](../Page/輔助握把.md "wikilink")。護木左右兩側戰術導軌上方各有兩個散熱槽，協助解決槍管發熱問題。
+A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。護木左右兩側和底部都整合了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，以便安裝各種型號的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[前握把](../Page/輔助握把.md "wikilink")。護木左右兩側戰術導軌上方各有兩個散熱槽，協助解決槍管發熱問題。
 
 ### 手槍握把
 
 [CZ_SCORPION_EVO_3_trigger_groupe.jpg](https://zh.wikipedia.org/wiki/File:CZ_SCORPION_EVO_3_trigger_groupe.jpg "fig:CZ_SCORPION_EVO_3_trigger_groupe.jpg")
 CZ蠍式EVO 3
-A1採用了[聚合物製造的](../Page/聚合物.md "wikilink")。這槍的特點就是其配用的手槍握把可以調節前後位置，以大大提升手指長度不同的使用者的[人體工學](../Page/人因工程学.md "wikilink")。調節時只需要鬆開手槍握把上的固定螺釘，就可以將其前後移動，調節到位以後再用螺釘固定即可。手槍握把前後均有縱向防滑紋，而握把底部的加寬設計讓使用者能夠穩定地握持握把。使用者亦可換裝馬格普生產的手槍握把。
+A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的。這槍的特點就是其配用的手槍握把可以調節前後位置，以大大提升手指長度不同的使用者的[人體工學](../Page/人因工程学.md "wikilink")。調節時只需要鬆開手槍握把上的固定螺釘，就可以將其前後移動，調節到位以後再用螺釘固定即可。手槍握把前後均有縱向防滑紋，而握把底部的加寬設計讓使用者能夠穩定地握持握把。使用者亦可換裝馬格普生產的手槍握把。
 
 ### 槍托
 
 CZ蠍式EVO 3
-A1採用了[聚合物製造的](../Page/聚合物.md "wikilink")[槍托](../Page/槍托.md "wikilink")，其槍托既能夠向槍身右側折疊，也能夠使用三段式伸縮以調節長度。槍托的外觀形狀參考了蠍子的尾巴，能夠讓使用者抵肩射擊。以大拇指按下槍托左側前部的半圓形按鈕即可將槍托折疊。
+A1採用了[聚合物](../Page/聚合物.md "wikilink")製造的[槍托](../Page/槍托.md "wikilink")，其槍托既能夠向槍身右側折疊，也能夠使用三段式伸縮以調節長度。槍托的外觀形狀參考了蠍子的尾巴，能夠讓使用者抵肩射擊。以大拇指按下槍托左側前部的半圓形按鈕即可將槍托折疊。
 
 ### 供彈方式
 
 CZ蠍式EVO 3
-A1採用了[聚合物製成半透明](../Page/聚合物.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，可以讓使用者隨時知道彈匣內的剩餘彈量。原廠彈匣容量為20發或30發。亦可使用35發馬格普PMAG彈匣、50發X
+A1採用了[聚合物](../Page/聚合物.md "wikilink")製成半透明[彈匣](../Page/彈匣.md "wikilink")，可以讓使用者隨時知道彈匣內的剩餘彈量。原廠彈匣容量為20發或30發。亦可使用35發馬格普PMAG彈匣、50發X
 Products[彈鼓和](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")100發[C-Mag彈鼓](../Page/C-Mag彈鼓.md "wikilink")。
 
 ### 瞄準具
 
-[機匣頂部設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以加裝日間／夜間[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。標準型CZ蠍式EVO
+[機匣頂部設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以加裝日間／夜間[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。標準型CZ蠍式EVO
 3
-A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，而戰術導軌前端則安裝了帶有[氚光管的](../Page/氚.md "wikilink")[準星](../Page/照準器.md "wikilink")，讓使用者在光綫昏暗的情況以下瞄準射擊。
+A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，而戰術導軌前端則安裝了帶有[氚](../Page/氚.md "wikilink")光管的[準星](../Page/照準器.md "wikilink")，讓使用者在光綫昏暗的情況以下瞄準射擊。
 
 ## 衍生型
 
@@ -89,7 +89,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
   -   - 總統衛隊
 
   -
-  -   - [菲律賓海巡署特別行動組](../Page/菲律賓海巡署.md "wikilink")\[5\]
+  -   - [菲律賓海巡署](../Page/菲律賓海巡署.md "wikilink")特別行動組\[5\]
 
   -   - 特種部隊單位
 
@@ -128,7 +128,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
   - 2012年—《[-{zh-hans:使命召唤：黑色行动2; zh-hk:使命召喚：黑色行動2;
     zh-tw:決勝時刻：黑色行動2;}-](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》：於故事模式、聯機模式及殭屍模式中皆有出現，命名為「Skorpion
     EVO」，32發（故事模式及聯機模式）和30發（殭屍模式）[彈匣](../Page/彈匣.md "wikilink")（可使用改裝：延長彈匣，故事模式時增至43發，聯機模式時則42發），初始攜彈量為192發（故事模式）和96發（聯機模式），最高攜彈量為416發（故事模式）和256發（聯機模式及殭屍模式）。故事模式之中被主角大衞·梅森（David
-    Mason）、中央情報局在「核心之日」中的臥底兼技術專家法里德（Farid）和[民兵所使用](../Page/民兵.md "wikilink")；聯機模式時於等級46解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（[三發點放](../Page/三發點放.md "wikilink")）、射速增加、毫米波掃描器；殭屍模式時以950點打開神秘箱取得，亦有一款衍生型稱作「進化死亡潛行者」（Evolved
+    Mason）、中央情報局在「核心之日」中的臥底兼技術專家法里德（Farid）和[民兵](../Page/民兵.md "wikilink")所使用；聯機模式時於等級46解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（[三發點放](../Page/三發點放.md "wikilink")）、射速增加、毫米波掃描器；殭屍模式時以950點打開神秘箱取得，亦有一款衍生型稱作「進化死亡潛行者」（Evolved
     Death
     Stalker），40發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量提升至320發，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、目標搜索器。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名為「CZ Skorpion
@@ -141,7 +141,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
   - 2013年—《[-{zh-cn:战地4;
     zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：命名為「CZ-3A1」，發射[9×19毫米子彈](../Page/9×19mm魯格彈.md "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中於「越獄風雲」（Kunlun
-    Mountains）戰役達到金牌時解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+    Mountains）戰役達到金牌時解鎖並且可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
     Recker）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於達到37,000點個人防衛武器得分時才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、直角握把、[防火帽](../Page/砲口制動器.md "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[PBS-4](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")[消音器](../Page/抑制器.md "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）。
   - 2015年—《[-{zh-hans:战地：硬仗;
     zh-hant:戰地風雲：強硬路線;}-](https://zh.wikipedia.org/wiki/戰地風雲：強硬派系 "wikilink")》（Battlefield
@@ -150,7 +150,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
     M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
     、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
   - 2017年－《[-{zh-hans:彩虹六号：圍攻;
-    zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：第二年度血蘭花行動中為[行動應變及機動組中一位角色命名為Ela的特勤幹員所使用](../Page/行動應變及機動組.md "wikilink")。奇怪的使用50發彈匣，後來因過於強勢而改成40發。
+    zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：第二年度血蘭花行動中為[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")中一位角色命名為Ela的特勤幹員所使用。奇怪的使用50發彈匣，後來因過於強勢而改成40發。
 
 ## 參見
 

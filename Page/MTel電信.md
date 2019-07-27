@@ -1,4 +1,4 @@
-**MTel電信有限公司**（，簡稱：**MTel**)，是[澳門第二間提供](../Page/澳門.md "wikilink")[固網](https://zh.wikipedia.org/wiki/固網 "wikilink")[通訊服務的企業](https://zh.wikipedia.org/wiki/通訊 "wikilink")\[1\]，於2011年10月10日成立。
+**MTel電信有限公司**（，簡稱：**MTel**)，是[澳門](../Page/澳門.md "wikilink")第二間提供[固網](https://zh.wikipedia.org/wiki/固網 "wikilink")[通訊服務的企業](https://zh.wikipedia.org/wiki/通訊 "wikilink")\[1\]，於2011年10月10日成立。
 
 ## 歷史
 

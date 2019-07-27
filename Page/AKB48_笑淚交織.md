@@ -1,5 +1,5 @@
 《**AKB48
-笑淚交織**》（，又直譯為「AKB48紀錄電影：少女們在眼淚背後看到什麼？」），是一部2013年2月1日在[日本首映的](../Page/日本.md "wikilink")[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。該片是以2012年一年間對女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的團員進行貼身跟拍所攝得的影片](../Page/AKB48.md "wikilink")，經過剪輯編排之後所作成之紀錄片，也是一系列以AKB48為主角的紀錄片作品中的第三部。
+笑淚交織**》（，又直譯為「AKB48紀錄電影：少女們在眼淚背後看到什麼？」），是一部2013年2月1日在[日本](../Page/日本.md "wikilink")首映的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。該片是以2012年一年間對女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的團員進行貼身跟拍所攝得的影片，經過剪輯編排之後所作成之紀錄片，也是一系列以AKB48為主角的紀錄片作品中的第三部。
 
 此片的[導演是曾經執導過前作](https://zh.wikipedia.org/wiki/導演 "wikilink")《[AKB48
 永遠在一起](../Page/AKB48_永遠在一起.md "wikilink")》（）與多部AKB48[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[高橋榮樹](../Page/高橋榮樹.md "wikilink")，[旁白則是女演員](https://zh.wikipedia.org/wiki/旁白 "wikilink")[伊藤步](../Page/伊藤步.md "wikilink")。
@@ -10,9 +10,9 @@
 笑淚交織》在上映前所使用的宣傳[海報是以曾擔任Team](https://zh.wikipedia.org/wiki/海報 "wikilink")
 A隊長、並被提拔成為AKB48集團總監督的[高橋南](../Page/高橋南.md "wikilink")（）為主角，並且根據其座右銘「努力就必定有回報」（）改編成電影的宣傳標語「努力有沒有回報，我不知道。但是，不努力的話什麼都不會開始。」（）
 
-該片在2月1日（週五）於日本國內119家戲院上映，首映3日就創下6萬8,213人次、相當於8,780萬3,600[日圓的票房](../Page/日圓.md "wikilink")，成為當週觀賞人數排行第10名的電影
+該片在2月1日（週五）於日本國內119家戲院上映，首映3日就創下6萬8,213人次、相當於8,780萬3,600[日圓](../Page/日圓.md "wikilink")的票房，成為當週觀賞人數排行第10名的電影
 
-紀錄片的內容是以被稱為「AKB不動的ACE」、創團成員[前田敦子的畢業與其所掛念的](../Page/前田敦子.md "wikilink")[東京巨蛋公演](../Page/東京巨蛋.md "wikilink")，[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[島崎遥香三人在前田畢業後的下一代中央成員](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")（center）位置之爭，以及描寫AKB的不成文內規「戀愛禁止條例」等話題作為主軸。
+紀錄片的內容是以被稱為「AKB不動的ACE」、創團成員[前田敦子](../Page/前田敦子.md "wikilink")的畢業與其所掛念的[東京巨蛋](../Page/東京巨蛋.md "wikilink")公演，[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[島崎遥香三人在前田畢業後的下一代中央成員](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")（center）位置之爭，以及描寫AKB的不成文內規「戀愛禁止條例」等話題作為主軸。
 
 ## 主題曲
 
@@ -57,7 +57,7 @@ rain](https://zh.wikipedia.org/wiki/After_rain "wikilink")》是一首為了此�
 《AKB48
 笑淚交織》一片在日本本土上映約兩個月後的4月3日，在[台灣的部分電影院線上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
-[香港地區則是在同年的](../Page/香港.md "wikilink")5月16日至5月19日間，於百老匯戲院部份院線上演。
+[香港](../Page/香港.md "wikilink")地區則是在同年的5月16日至5月19日間，於百老匯戲院部份院線上演。
 
 ## 軼事
 

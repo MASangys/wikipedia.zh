@@ -1,22 +1,22 @@
 **雙魚座GUb**（**GU Piscium b**、**GU Psc
-b**）\[1\]是一顆以直接攝影方式發現的行星質量天體。它和母恆星[雙魚座GU的軌道半長軸高達](../Page/雙魚座GU.md "wikilink")，並且在天球上的視[角距離達到](https://zh.wikipedia.org/wiki/角距離 "wikilink")42[角秒](https://zh.wikipedia.org/wiki/角秒 "wikilink")\[2\]\[3\]。該行星在天球上的座標為[赤經](https://zh.wikipedia.org/wiki/赤經 "wikilink")，[赤緯](https://zh.wikipedia.org/wiki/赤緯 "wikilink")，距離地球約\[4\]。
+b**）\[1\]是一顆以直接攝影方式發現的行星質量天體。它和母恆星[雙魚座GU](../Page/雙魚座GU.md "wikilink")的軌道半長軸高達，並且在天球上的視[角距離達到](https://zh.wikipedia.org/wiki/角距離 "wikilink")42[角秒](https://zh.wikipedia.org/wiki/角秒 "wikilink")\[2\]\[3\]。該行星在天球上的座標為[赤經](https://zh.wikipedia.org/wiki/赤經 "wikilink")，[赤緯](https://zh.wikipedia.org/wiki/赤緯 "wikilink")，距離地球約\[4\]。
 
 ## 特徵
 
 雙魚座GUb環繞質量為太陽三分之一的母恆星週期為16.3萬年\[5\]，如果該行星的軌道是半長軸為2000天文單位的軌道。該行星是[類木行星](https://zh.wikipedia.org/wiki/類木行星 "wikilink")\[6\]。該行星在天球上位於[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，質量為木星的9到13倍\[7\]，表面溫度約1000
 [K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")\[8\]
 
-該恆星與母恆星是年輕[星協](https://zh.wikipedia.org/wiki/星協 "wikilink")[劍魚座AB移動星群的成員星](../Page/劍魚座AB移動星群.md "wikilink")。該星群約有30顆約1億年以內形成於同一個[分子雲內的主要成員星](../Page/分子雲.md "wikilink")，目前該星群中已觀測的90顆恆星中只發現了1顆系外行星\[9\]
+該恆星與母恆星是年輕[星協](https://zh.wikipedia.org/wiki/星協 "wikilink")[劍魚座AB移動星群](../Page/劍魚座AB移動星群.md "wikilink")的成員星。該星群約有30顆約1億年以內形成於同一個[分子雲](../Page/分子雲.md "wikilink")內的主要成員星，目前該星群中已觀測的90顆恆星中只發現了1顆系外行星\[9\]
 。
 
 ## 發現
 
-[加拿大](../Page/加拿大.md "wikilink")[蒙特利尔大学的天文學家](../Page/蒙特利尔大学.md "wikilink")
+[加拿大](../Page/加拿大.md "wikilink")[蒙特利尔大学](../Page/蒙特利尔大学.md "wikilink")的天文學家
 Marie-Eve Naud
-領導的國際團隊使用[雙子星天文台](../Page/雙子星天文台.md "wikilink")、、[加法夏望遠鏡和](https://zh.wikipedia.org/wiki/加法夏望遠鏡 "wikilink")[凱克天文台的觀測資料發現了雙魚座GU](../Page/凱克天文台.md "wikilink")\[10\]。該行星因為距離母恆星極遠，讓天文學家得以合併紅外線和可見光影像發現它。天文學家希望裝設於智利的能發現距離母恆星比雙魚座GUb近得多的行星。
+領導的國際團隊使用[雙子星天文台](../Page/雙子星天文台.md "wikilink")、、[加法夏望遠鏡和](https://zh.wikipedia.org/wiki/加法夏望遠鏡 "wikilink")[凱克天文台](../Page/凱克天文台.md "wikilink")的觀測資料發現了雙魚座GU\[10\]。該行星因為距離母恆星極遠，讓天文學家得以合併紅外線和可見光影像發現它。天文學家希望裝設於智利的能發現距離母恆星比雙魚座GUb近得多的行星。
 
 天文學家也使用北雙子星望遠鏡的 GNIRS
-[攝譜儀獲得了雙魚座GUb的近紅外線光譜資料](../Page/攝譜儀.md "wikilink")，資料顯示該行星的低[表面重力](../Page/表面重力.md "wikilink")，代表它是年輕行星。在紅外線
+[攝譜儀](../Page/攝譜儀.md "wikilink")獲得了雙魚座GUb的近紅外線光譜資料，資料顯示該行星的低[表面重力](../Page/表面重力.md "wikilink")，代表它是年輕行星。在紅外線
 H 和 K 波段對應[恆星光譜](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink") T3.5
 型的部分偵測到了弱甲烷吸收反應 \[11\]。
 

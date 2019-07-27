@@ -1,5 +1,5 @@
 **docomo NEXT series AQUOS PHONE
-SH-06D**（常用“SH-06D”）是2012年发售的由[夏普所开发的](https://zh.wikipedia.org/wiki/夏普 "wikilink")[日本电信运营商](../Page/日本.md "wikilink")[NTT
+SH-06D**（常用“SH-06D”）是2012年发售的由[夏普所开发的](https://zh.wikipedia.org/wiki/夏普 "wikilink")[日本](../Page/日本.md "wikilink")电信运营商[NTT
 DOCOMO旗下](../Page/NTT_DOCOMO.md "wikilink")[第三代移动通信技术](https://zh.wikipedia.org/wiki/第三代移动通信技术 "wikilink")（[FOMA](https://zh.wikipedia.org/wiki/FOMA "wikilink")）[移动](../Page/移动设备.md "wikilink")[終端](../Page/終端.md "wikilink")，是[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")。
 
 本条目也同时记述配合电影《[福音戰士新劇場版：Q](../Page/福音戰士新劇場版：Q.md "wikilink")》的上映而合作发布的“SH-06D
@@ -14,15 +14,15 @@ NERV”。
 
 机身正面上部安装有光感元件、听筒和一枚32万像素前置摄像头，屏幕的上方是运营商logo，底部则是三枚实体按键和[麦克风](../Page/麦克风.md "wikilink")。机身右侧分别有音量按键、电源开关和一根可伸缩的[手机电视天线](https://zh.wikipedia.org/wiki/手机电视 "wikilink")。机身左侧则有四个用于连接充电台座和信息传输的接孔以及手机挂饰孔。机身顶部只有一个防水胶盖，内藏有一个[microUSB数据传输接口](https://zh.wikipedia.org/wiki/microUSB "wikilink")，从上方看基本上SH-06D是弧线设计风格。电池仓打开后可以见到有防水胶圈，机身达到[IPX](https://zh.wikipedia.org/wiki/防水防塵等級 "wikilink")5/IPX7级别的防水以及防尘指标。\[10\]\[11\]\[12\]\[13\]
 
-SH-06D随包装附有原装电池一块、专用座充一个、一条USB数据线（支持充电）、一条传统日式手机充电器转接线、耳机转接线一条、一张16G容量[SD存储卡和一份说明书](https://zh.wikipedia.org/wiki/SD "wikilink")\[14\]。座充的背面也有一根电视信号接收天线，SH-06D支持2012年4月1日新启用的[NOTTV频道的](../Page/NOTTV.md "wikilink")“V-High”广播电视服务
+SH-06D随包装附有原装电池一块、专用座充一个、一条USB数据线（支持充电）、一条传统日式手机充电器转接线、耳机转接线一条、一张16G容量[SD存储卡和一份说明书](https://zh.wikipedia.org/wiki/SD "wikilink")\[14\]。座充的背面也有一根电视信号接收天线，SH-06D支持2012年4月1日新启用的[NOTTV](../Page/NOTTV.md "wikilink")频道的“V-High”广播电视服务
 \[15\]\[16\]\[17\]。标准包装配置中不含耳机和充电器\[18\]。
 
 ## SH-06D NERV
 
 SH-06D
-NERV特别式样版是SH-06D与[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")《福音戰士新劇場版：Q》合作型号，也是自2009年《[福音戰士新劇場版：破](../Page/福音戰士新劇場版：破.md "wikilink")》的合作型号之后的第二款docomo与[EVA合作推出的](../Page/新世纪福音战士.md "wikilink")[NERV特别订制智能手机](../Page/NERV.md "wikilink")，限量发售30000台，其中有3000台是在2012年6月29日至7月1日通过docomo
+NERV特别式样版是SH-06D与[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")《福音戰士新劇場版：Q》合作型号，也是自2009年《[福音戰士新劇場版：破](../Page/福音戰士新劇場版：破.md "wikilink")》的合作型号之后的第二款docomo与[EVA合作推出的](../Page/新世纪福音战士.md "wikilink")[NERV](../Page/NERV.md "wikilink")特别订制智能手机，限量发售30000台，其中有3000台是在2012年6月29日至7月1日通过docomo
 online
-shop线上发售，每天发售1000台\[19\]\[20\]。该款手机以SH-06D为基础，以“NERV官方配置”为设计理念还原电影中的元素，[用户界面和外观均是在剧场版的制作方公司全面的监督下设计完成的](../Page/用户界面.md "wikilink")\[21\]\[22\]。
+shop线上发售，每天发售1000台\[19\]\[20\]。该款手机以SH-06D为基础，以“NERV官方配置”为设计理念还原电影中的元素，[用户界面](../Page/用户界面.md "wikilink")和外观均是在剧场版的制作方公司全面的监督下设计完成的\[21\]\[22\]。
 
 ### 工业设计
 
@@ -35,7 +35,7 @@ NERV”字样。后置镜头周围也印有EVA风格的图案。\[24\]\[25\] \[2
 
   - 包装附送两款专门设计的后盖“Type：NERV”和“Type：MAGI”。“Type：NERV”是采用磨砂设计的普通防滑机壳，壳底印有“NERV
     ONLY”字样，浮雕图样并不是采用贴纸，而是成型时直接覆上的涂层。“Type：MAGI”采用全息镜面处理亮银设计的，机壳底部印有“SH06D
-    NERV”，两款后盖的中间都印有[NERV的無花果葉与恶魔果实合为一体的](../Page/NERV.md "wikilink")[剧场版标志](https://zh.wikipedia.org/wiki/福音战士新剧场版 "wikilink")。\[30\]\[31\]\[32\]\[33\]\[34\]\[35\]
+    NERV”，两款后盖的中间都印有[NERV](../Page/NERV.md "wikilink")的無花果葉与恶魔果实合为一体的[剧场版标志](https://zh.wikipedia.org/wiki/福音战士新剧场版 "wikilink")。\[30\]\[31\]\[32\]\[33\]\[34\]\[35\]
   - 附带的电视底座也进行了风格处理，在底座正面有“NERV ONLY”的字样。\[36\]
   - 包装箱和说明书也与非特别版有所不同。NERV版的包装印刷是里外相反的，原本的印刷面被反过来折在里面进行包装。包装盒内上层是手机本体和附送的背盖，下层是底座、数据线和USB转3.5[毫米](../Page/毫米.md "wikilink")[耳机线以及传统的日系充电转接线](https://zh.wikipedia.org/wiki/耳机 "wikilink")。\[37\]
 

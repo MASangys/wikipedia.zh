@@ -1,5 +1,5 @@
 **LG Optimus LTE**（又稱：LG Nitro HD、LG Optimus True HD LTE
-(P936)）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂金電子於](https://zh.wikipedia.org/wiki/LG "wikilink")2011年10月在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[日本](../Page/日本.md "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")、[香港等擁有](../Page/香港.md "wikilink")[LTE傳輸技術的國家推出之高階](https://zh.wikipedia.org/wiki/LTE "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。其特色是為LG首部[4G
+(P936)）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂金電子於](https://zh.wikipedia.org/wiki/LG "wikilink")2011年10月在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[日本](../Page/日本.md "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")、[香港](../Page/香港.md "wikilink")等擁有[LTE傳輸技術的國家推出之高階](https://zh.wikipedia.org/wiki/LTE "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。其特色是為LG首部[4G
 LTE手機](https://zh.wikipedia.org/wiki/LTE "wikilink")，以及全球首部採用[AH
 IPS顯示螢幕的手機](https://zh.wikipedia.org/wiki/IPS "wikilink")。\[1\]\[2\]
 

@@ -1,4 +1,4 @@
-《**MY.遊樂園**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第六張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]和第六個音樂作品。
+《**MY.遊樂園**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第六張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]和第六個音樂作品。
 將於2013年8月30日開始預購，2013年9月18日發行,該專輯在台擁有超過兩萬張的高銷售量。 \[2\]。
 
 專輯名稱的「MY.遊樂園」是指「M」iko和「Y」umi的「遊樂園」。
@@ -63,7 +63,7 @@ Mr Mars<br />
 <td><p><a href="http://www.youtube.com/watch?v=fNJSUT97NZk">就這樣嗎</a></p></td>
 <td><p>林欣樂</p></td>
 <td><p>陳儀芬</p></td>
-<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台週五</a><a href="https://zh.wikipedia.org/wiki/三立電視戲劇節目列表#華人電視劇" title="wikilink">華人電視劇</a>《<a href="../Page/我租了一個情人.md" title="wikilink">我租了一個情人</a>》插曲</p></td>
+<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a>週五<a href="https://zh.wikipedia.org/wiki/三立電視戲劇節目列表#華人電視劇" title="wikilink">華人電視劇</a>《<a href="../Page/我租了一個情人.md" title="wikilink">我租了一個情人</a>》插曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>06</p></td>

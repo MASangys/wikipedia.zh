@@ -1,15 +1,15 @@
-《**蜜瓜汁**》（），是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48的第二張](../Page/HKT48.md "wikilink")[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年9月4日由[日本環球音樂發行](../Page/環球音樂_\(日本\).md "wikilink")，共推出四種不同的版本。
+《**蜜瓜汁**》（），是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")的第二張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年9月4日由[日本環球音樂發行](../Page/環球音樂_\(日本\).md "wikilink")，共推出四種不同的版本。
 
 ## 簡介
 
 在2013年6月13日的「[Team
-H「博多傳奇」公演](../Page/Team_H「博多傳奇」.md "wikilink")」時公佈了新單曲將於9月4日發售後，A面曲《蜜瓜汁》則是於7月20日的[盛夏的巨蛋巡迴](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡迴〜還有許多_不得不做的事情〜 "wikilink")[福岡巨蛋站中首次演出](../Page/福岡巨蛋.md "wikilink")。
+H「博多傳奇」公演](../Page/Team_H「博多傳奇」.md "wikilink")」時公佈了新單曲將於9月4日發售後，A面曲《蜜瓜汁》則是於7月20日的[盛夏的巨蛋巡迴](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡迴〜還有許多_不得不做的事情〜 "wikilink")[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")站中首次演出。
 
 主打A面曲《蜜瓜汁》雖然仍走充滿朝氣、維持著正統偶像風格的歌曲路線，但卻是HKT48第一次挑戰[龐克搖滾](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")（Punk
-Rock）類型的音樂。A面曲《蜜瓜汁》的MV由曾經導演過上一张单曲唱片B面曲《[单相思的唐扬](https://zh.wikipedia.org/wiki/单相思的唐扬 "wikilink")》的執導，並在7月14日於[TBS所經營](../Page/TBS.md "wikilink")、位於[橫濱市的](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[Live
+Rock）類型的音樂。A面曲《蜜瓜汁》的MV由曾經導演過上一张单曲唱片B面曲《[单相思的唐扬](https://zh.wikipedia.org/wiki/单相思的唐扬 "wikilink")》的執導，並在7月14日於[TBS](../Page/TBS.md "wikilink")所經營、位於[橫濱市的](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[Live
 House](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")「[橫濱BLITZ](https://zh.wikipedia.org/wiki/橫濱BLITZ "wikilink")」內拍攝。除了與HKT48成員同台表演的之外，還有在官方網站上公開募集後抽選而出的1千名一般民眾參與演出，扮演台下的演唱會聽眾。配合強烈的歌曲節奏與旋律，由負責[編舞的舞蹈蘊含許多龐克搖滾的要素](https://zh.wikipedia.org/wiki/編舞 "wikilink")，例如激烈的（Headbanging），參與演唱的兒玉遙、宮脇咲良與指原莉乃甚至嘗試做出將[保特瓶或口中含著的清水潑灑或吐向觀眾等](https://zh.wikipedia.org/wiki/保特瓶 "wikilink")、搖滾歌手經常會在演唱會中做出的激烈動作。成員兼劇場經理人指原莉乃在接受媒體訪問時指「這是一首容易帶動台下聽眾情緒，一起呼口號與做出回應動作的曲子。」
 
-單曲依舊發行4個版本，在日本國內共發行Type-A、Type-B、Type-C與劇場版（）四個版本。四個版本均收錄[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《蜜瓜汁》與第一B面曲《在那裡思考些什麼？》（），但第二B面曲則按版本的不同而有不同的配置。Type-A、-B、-C除了歌曲[CD外](../Page/CD.md "wikilink")，也同時附有含新曲[MV的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD和特典](https://zh.wikipedia.org/wiki/DVD "wikilink")（特別典藏附贈產品）。而Type-A、-B、-C又可進一步分為新作推出時發行的初回限量版，與之後長期一般銷售的普通版，兩版本的CD和DVD收錄內容均相同，分別僅在於其附有的特典產品項目不同。
+單曲依舊發行4個版本，在日本國內共發行Type-A、Type-B、Type-C與劇場版（）四個版本。四個版本均收錄[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《蜜瓜汁》與第一B面曲《在那裡思考些什麼？》（），但第二B面曲則按版本的不同而有不同的配置。Type-A、-B、-C除了歌曲[CD](../Page/CD.md "wikilink")外，也同時附有含新曲[MV的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD和特典](https://zh.wikipedia.org/wiki/DVD "wikilink")（特別典藏附贈產品）。而Type-A、-B、-C又可進一步分為新作推出時發行的初回限量版，與之後長期一般銷售的普通版，兩版本的CD和DVD收錄內容均相同，分別僅在於其附有的特典產品項目不同。
 
 ## 版本與收錄內容
 
@@ -42,7 +42,7 @@ House](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")「[橫濱BLI
 
   - 附贈特典
 
-:\* 全國[握手會參加券](../Page/握手會.md "wikilink")（只限初回限定版）
+:\* 全國[握手會](../Page/握手會.md "wikilink")參加券（只限初回限定版）
 
 :\* 口袋[學生行事曆](https://zh.wikipedia.org/wiki/行事曆 "wikilink")（Pocket
 school calendar，16個款式中隨機封入1款）
@@ -140,8 +140,8 @@ Type-C的封面照片是由選拔成員穴井千尋、多田愛佳、宮脇咲�
 
 ### 蜜瓜汁
 
-《蜜瓜汁》（）是與單曲唱片同名的A面曲，由製作人秋元康作詞，（）負責作曲和編曲。此曲是[AKS與](../Page/AKS.md "wikilink")[AIIA](https://zh.wikipedia.org/wiki/AIIA公司 "wikilink")（）合作開發、於AIIA旗下遊戲平台網站I-SKY上執行的[SNS基礎](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")[智慧型手機用](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[卡片](../Page/卡片遊戲.md "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")《HKT48
-光榮的迷宮》（）與[乐天的綜合廣告企畫](https://zh.wikipedia.org/wiki/乐天集团 "wikilink")「瘋狂[口香糖電視台](../Page/口香糖.md "wikilink")」的電視廣告「博多氣球女孩篇」（）之廣告搭配曲。此曲由兩位二期研究生田島芽瑠和朝長美櫻共同擔任中央位置成員（center），參與演唱的成員名單如下：
+《蜜瓜汁》（）是與單曲唱片同名的A面曲，由製作人秋元康作詞，（）負責作曲和編曲。此曲是[AKS](../Page/AKS.md "wikilink")與[AIIA](https://zh.wikipedia.org/wiki/AIIA公司 "wikilink")（）合作開發、於AIIA旗下遊戲平台網站I-SKY上執行的[SNS基礎](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")[智慧型手機用](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[卡片](../Page/卡片遊戲.md "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")《HKT48
+光榮的迷宮》（）與[乐天的綜合廣告企畫](https://zh.wikipedia.org/wiki/乐天集团 "wikilink")「瘋狂[口香糖](../Page/口香糖.md "wikilink")電視台」的電視廣告「博多氣球女孩篇」（）之廣告搭配曲。此曲由兩位二期研究生田島芽瑠和朝長美櫻共同擔任中央位置成員（center），參與演唱的成員名單如下：
 
   - Team
     H：[穴井千尋](../Page/穴井千尋.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")（）
@@ -213,7 +213,7 @@ H與研究生在內的HKT48全體39位成員皆有參與此企畫，其影片分
 <tbody>
 <tr class="odd">
 <td><p>穴井千尋</p></td>
-<td><p>30分鐘內練熟AKB48《<a href="https://zh.wikipedia.org/wiki/櫻花花瓣" title="wikilink">櫻花花瓣</a>》的<a href="../Page/吉他.md" title="wikilink">吉他演奏</a></p></td>
+<td><p>30分鐘內練熟AKB48《<a href="https://zh.wikipedia.org/wiki/櫻花花瓣" title="wikilink">櫻花花瓣</a>》的<a href="../Page/吉他.md" title="wikilink">吉他</a>演奏</p></td>
 </tr>
 <tr class="even">
 <td><p>植木南央</p></td>
@@ -282,11 +282,11 @@ H與研究生在內的HKT48全體39位成員皆有參與此企畫，其影片分
 <tbody>
 <tr class="odd">
 <td><p>指原莉乃</p></td>
-<td><p>和<a href="../Page/小林善紀.md" title="wikilink">小林善紀正經對談</a>！</p></td>
+<td><p>和<a href="../Page/小林善紀.md" title="wikilink">小林善紀</a>正經對談！</p></td>
 </tr>
 <tr class="even">
 <td><p>下野由貴</p></td>
-<td><p>30分鐘內記住<a href="../Page/JKT48.md" title="wikilink">JKT48共</a>41名成員的名字</p></td>
+<td><p>30分鐘內記住<a href="../Page/JKT48.md" title="wikilink">JKT48</a>共41名成員的名字</p></td>
 </tr>
 <tr class="odd">
 <td><p>田中菜津美</p></td>
@@ -326,7 +326,7 @@ H與研究生在內的HKT48全體39位成員皆有參與此企畫，其影片分
 </tr>
 <tr class="even">
 <td><p>駒田京伽</p></td>
-<td><p><a href="../Page/插花.md" title="wikilink">插花挑戰</a></p></td>
+<td><p><a href="../Page/插花.md" title="wikilink">插花</a>挑戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>坂口理子</p></td>
@@ -345,7 +345,7 @@ H與研究生在內的HKT48全體39位成員皆有參與此企畫，其影片分
 | 森保圓   | 成員們提出的要求全都做做看！                                                                                          |
 | 若田部遙  | 挑戰做麵包                                                                                                   |
 | 田島芽瑠  | 如果成員們變成動物的話，會是什麼動物呢？                                                                                    |
-| 田中優香  | 如果邊做[仰臥起坐邊唱](../Page/仰臥起坐.md "wikilink")《[喜歡！喜歡！小跳步！](../Page/喜歡！喜歡！小跳步！.md "wikilink")》需花上幾分鐘？         |
+| 田中優香  | 如果邊做[仰臥起坐](../Page/仰臥起坐.md "wikilink")邊唱《[喜歡！喜歡！小跳步！](../Page/喜歡！喜歡！小跳步！.md "wikilink")》需花上幾分鐘？         |
 | 谷真理佳  | 答出自己的五大優點                                                                                               |
 | 冨吉明日香 | 邊看VTR邊檢視自己是如何成長起來                                                                                       |
 | 朝長美櫻  | 用讀「[桃太郎](../Page/桃太郎.md "wikilink")」                                                                    |

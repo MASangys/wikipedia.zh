@@ -1,4 +1,4 @@
-**Google云端推送**（，简称****）是一項免費服务，帮助开发者从[服务器发送数据到安装了他们的应用程序的](../Page/服务器.md "wikilink")[Android设备上](../Page/Android.md "wikilink")，或从服务器到其[Chrome浏览器应用程序或扩展](../Page/Google_Chrome.md "wikilink")。\[1\]\[2\]Android云端推送服务第一次亮相是在2012年6月27日在[旧金山Moscone中心举行的](../Page/旧金山.md "wikilink")[Google
+**Google云端推送**（，简称****）是一項免費服务，帮助开发者从[服务器](../Page/服务器.md "wikilink")发送数据到安装了他们的应用程序的[Android](../Page/Android.md "wikilink")设备上，或从服务器到其[Chrome浏览器应用程序或扩展](../Page/Google_Chrome.md "wikilink")。\[1\]\[2\]Android云端推送服务第一次亮相是在2012年6月27日在[旧金山](../Page/旧金山.md "wikilink")Moscone中心举行的[Google
 I/O
 2012](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。\[3\]Chrome上的推送服务在Google
 I/O
@@ -15,7 +15,7 @@ KB\[6\]。
 
   - 使用[XMPP协议](https://zh.wikipedia.org/wiki/XMPP "wikilink")（Openfire +
     Spark + Smack）
-  - 使用[MQTT协议](../Page/MQTT.md "wikilink")
+  - 使用[MQTT](../Page/MQTT.md "wikilink")协议
 
 ## 参见
 

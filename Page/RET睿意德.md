@@ -3,7 +3,7 @@
 
 ## 创始团队
 
-睿意德CEO陆逢兆，在2003至2007期间曾在DTZ任[华北区董事总经理](https://zh.wikipedia.org/wiki/华北 "wikilink")，2007年调任上海。有着丰富的[房地产经验](../Page/房地产.md "wikilink")。\[3\]2012年DTZ被UGL收购之后离职创业，团队数十名成员成立RET睿意德。\[4\]
+睿意德CEO陆逢兆，在2003至2007期间曾在DTZ任[华北区董事总经理](https://zh.wikipedia.org/wiki/华北 "wikilink")，2007年调任上海。有着丰富的[房地产](../Page/房地产.md "wikilink")经验。\[3\]2012年DTZ被UGL收购之后离职创业，团队数十名成员成立RET睿意德。\[4\]
 
 ## 企业现状
 

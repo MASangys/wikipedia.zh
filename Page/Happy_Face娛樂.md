@@ -1,6 +1,6 @@
 **Happy
-Face娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立在2008年，當前藝人包括[Dreamcatcher等多名藝人](../Page/Dreamcatcher.md "wikilink")。2019年2月，成立為[Dreamcatcher專屬部門公司Dreamcatcher](../Page/Dreamcatcher.md "wikilink")
-Company，3月，成立為[D1CE專屬部門公司D](../Page/D1CE.md "wikilink")1CE娛樂。
+Face娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立在2008年，當前藝人包括[Dreamcatcher](../Page/Dreamcatcher.md "wikilink")等多名藝人。2019年2月，成立為[Dreamcatcher](../Page/Dreamcatcher.md "wikilink")專屬部門公司Dreamcatcher
+Company，3月，成立為[D1CE](../Page/D1CE.md "wikilink")專屬部門公司D1CE娛樂。
 
 ## 旗下藝人
 
@@ -57,7 +57,8 @@ Company，3月，成立為[D1CE專屬部門公司D](../Page/D1CE.md "wikilink")1
   - 黃世真（[WANNA.B](../Page/WANNA.B.md "wikilink")）
   - 方賢雅（琳雅，前Bella4預備成員，[WANNA.B](../Page/WANNA.B.md "wikilink")）
   - 韓聖熙
-    (SUNMI、TWICE的伴舞,https://instagram.com/hs.hee?igshid=1itzmdkc5aulg)
+    (SUNMI、TWICE的伴舞,https://instagram.com/hs.hee?igshid=1gy1amm1qf3k8,
+    TEAM AURA DANCE CREW )
   - 朴喜晙（[VAV](../Page/VAV.md "wikilink")）
   - 李承桓（[ROMEO](../Page/ROMEO_\(韓國組合\).md "wikilink")）
   - 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》

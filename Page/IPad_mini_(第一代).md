@@ -16,7 +16,7 @@ iPad mini於2012年11月2日起付運\[1\]。
 
 ## 硬件
 
-iPad mini 採用7.9吋、1024 × 768 解像度顯示屏，500 萬[像素後置](../Page/像素.md "wikilink")
+iPad mini 採用7.9吋、1024 × 768 解像度顯示屏，500 萬[像素](../Page/像素.md "wikilink")後置
 [iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")
 [鏡頭](../Page/鏡頭.md "wikilink")，120 萬像素前置
 [FaceTime](../Page/FaceTime.md "wikilink") HD

@@ -1,8 +1,8 @@
-《**AKB汽車社**》（）是[富士電視台在](../Page/富士電視台.md "wikilink")2012年4月28日至9月22日之間，於每週六深夜（相當於週日凌晨）在[日本](../Page/日本.md "wikilink")[關東地方播放的一個與](../Page/關東地方.md "wikilink")[汽車相關的](https://zh.wikipedia.org/wiki/汽車 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。由[AKB48冠名並主演的此節目](../Page/AKB48.md "wikilink")，是由[豐田汽車獨立贊助](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")。
+《**AKB汽車社**》（）是[富士電視台](../Page/富士電視台.md "wikilink")在2012年4月28日至9月22日之間，於每週六深夜（相當於週日凌晨）在[日本](../Page/日本.md "wikilink")[關東地方](../Page/關東地方.md "wikilink")播放的一個與[汽車相關的](https://zh.wikipedia.org/wiki/汽車 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。由[AKB48](../Page/AKB48.md "wikilink")冠名並主演的此節目，是由[豐田汽車獨立贊助](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")。
 
 ## 簡介
 
-《AKB汽車社》的節目契機，是起因於[前田敦子參與了豐田汽車的](../Page/前田敦子.md "wikilink")[電視廣告演出](../Page/電視廣告.md "wikilink")，但是直到2012年的[成人式](https://zh.wikipedia.org/wiki/成人式 "wikilink")（1月的第二個星期日）為止，包括前田在內AKB48集團所有已經成年、有資格報考申請[駕駛執照的成員中](../Page/駕駛執照.md "wikilink")，竟然沒有任何一位實際擁有汽車駕照。因此在AKB48的總製作人[秋元康的指示下](../Page/秋元康.md "wikilink")，成立了「AKB汽車社」這樣的社團，以全體23名成員都考取汽車駕照作為社團活動的目標，並且[貼身跟拍其過程](https://zh.wikipedia.org/wiki/貼身跟拍 "wikilink")，作為節目的內容主軸。除此之外，製作單位也邀請了許多擁有汽車駕照的名人，以「擁有汽車的生活」為主題，與AKB48的成員一同進行開車兜風的[外景](https://zh.wikipedia.org/wiki/外景 "wikilink")。
+《AKB汽車社》的節目契機，是起因於[前田敦子](../Page/前田敦子.md "wikilink")參與了豐田汽車的[電視廣告](../Page/電視廣告.md "wikilink")演出，但是直到2012年的[成人式](https://zh.wikipedia.org/wiki/成人式 "wikilink")（1月的第二個星期日）為止，包括前田在內AKB48集團所有已經成年、有資格報考申請[駕駛執照](../Page/駕駛執照.md "wikilink")的成員中，竟然沒有任何一位實際擁有汽車駕照。因此在AKB48的總製作人[秋元康](../Page/秋元康.md "wikilink")的指示下，成立了「AKB汽車社」這樣的社團，以全體23名成員都考取汽車駕照作為社團活動的目標，並且[貼身跟拍其過程](https://zh.wikipedia.org/wiki/貼身跟拍 "wikilink")，作為節目的內容主軸。除此之外，製作單位也邀請了許多擁有汽車駕照的名人，以「擁有汽車的生活」為主題，與AKB48的成員一同進行開車兜風的[外景](https://zh.wikipedia.org/wiki/外景 "wikilink")。
 
 ## AKB自動車部 参加成員
 

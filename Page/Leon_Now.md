@@ -1,5 +1,5 @@
 **《Leon
-Now》**是[黎明的](../Page/黎明.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於1999年6月21日推出\[1\]。
+Now》**是[黎明](../Page/黎明.md "wikilink")的[音樂專輯](../Page/音樂專輯.md "wikilink")，於1999年6月21日推出\[1\]。
 
 ## 曲目
 

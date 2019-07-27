@@ -3,7 +3,7 @@ CODE：初回限定盤為GZCA-5130，通常盤則為GZCA-5131。
 
 ## 概要
 
-  - 睽違兩年的新專輯。延續前張專輯的成功，於[Oricon公信榜進入TOP](../Page/Oricon公信榜.md "wikilink")10。
+  - 睽違兩年的新專輯。延續前張專輯的成功，於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")進入TOP10。
 
 <!-- end list -->
 

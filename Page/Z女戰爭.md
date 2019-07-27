@@ -1,4 +1,4 @@
-《**Z女戰爭**》（）是[桃色幸運草Z的第](../Page/桃色幸運草Z.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（包括獨立製作・限定出荷通算14張）。2012年6月27日\[1\]\[2\]由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
+《**Z女戰爭**》（）是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（包括獨立製作・限定出荷通算14張）。2012年6月27日\[1\]\[2\]由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要
 
@@ -35,7 +35,7 @@
 3.  **みてみて☆こっちっち** \[3:52\]
       -
         作詞：、作曲・編曲：[田中宏和](../Page/田中宏和.md "wikilink")
-        [東京電視台系動畫](../Page/東京電視台.md "wikilink")『[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")』・『[神奇寶貝BestWishes
+        [東京電視台](../Page/東京電視台.md "wikilink")系動畫『[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")』・『[神奇寶貝BestWishes
         Season2](../Page/神奇寶貝超級願望.md "wikilink")』片尾曲、神奇寶貝短編電影『[メロエッタのキラキラリサイタル](https://zh.wikipedia.org/wiki/メロエッタのキラキラリサイタル "wikilink")』片尾曲
 4.  Z女戦争（off vocal ver.）
 5.  PUSH（off vocal ver.）

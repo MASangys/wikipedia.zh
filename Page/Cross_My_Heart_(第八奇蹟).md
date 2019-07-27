@@ -1,5 +1,5 @@
 《**Cross My
-Heart**》是由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[流行音樂團體](https://zh.wikipedia.org/wiki/Pop_\(音樂類型\) "wikilink")[第八奇蹟在](https://zh.wikipedia.org/wiki/Eighth_Wonder "wikilink")1987年發行的歌曲。這張[单曲取自專輯](../Page/单曲.md "wikilink")《[Fearless](../Page/Fearless_\(第八奇蹟\).md "wikilink")》，是1988年發行的第二張單曲，也是樂團的第六張單曲。排行名次近乎與《I'm
+Heart**》是由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[流行音樂團體](https://zh.wikipedia.org/wiki/Pop_\(音樂類型\) "wikilink")[第八奇蹟在](https://zh.wikipedia.org/wiki/Eighth_Wonder "wikilink")1987年發行的歌曲。這張[单曲](../Page/单曲.md "wikilink")取自專輯《[Fearless](../Page/Fearless_\(第八奇蹟\).md "wikilink")》，是1988年發行的第二張單曲，也是樂團的第六張單曲。排行名次近乎與《I'm
 Not
 Scared》相當，在義大利、挪威與瑞士的排行進入前十名，在法國、德國與英國的排行進入前二十名。在美國有小小的成功，衝到第56名，但是一直維持在美國熱門單曲前75名。[音樂影片是由迪特](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")·崔特曼執導。
 

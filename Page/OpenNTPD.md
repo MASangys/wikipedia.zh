@@ -1,6 +1,6 @@
 **OpenNTPD**是一个[Unix系统](https://zh.wikipedia.org/wiki/Unix "wikilink")[网络时间协议](https://zh.wikipedia.org/wiki/网络时间协议 "wikilink")（NTP）实现的[守护进程](../Page/守护进程.md "wikilink")，可以使计算机系统的本地时钟与远程NTP服务器同步。它也可以作为一个NTP兼容客户端的NTP服务器。
 
-OpenNTPD作为[OpenBSD计划的一部分](../Page/OpenBSD.md "wikilink")，主要由[亨宁·布劳尔负责开发](https://zh.wikipedia.org/wiki/亨宁·布劳尔 "wikilink")。其设计目标包括安全（不可被[利用](https://zh.wikipedia.org/wiki/Exploit "wikilink")）、易于配置、在大多数情况足够精确及可在[BSD许可证下分发](../Page/BSD许可证.md "wikilink")[源代码](../Page/源代码.md "wikilink")。如[OpenSSH](../Page/OpenSSH.md "wikilink")，它另有一个单独的子项目来开发[可移植版本](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，其为OpenBSD的版本添加了兼容性代码，且与主项目分开发布新版本。可移植版由[达伦·塔克开发](https://zh.wikipedia.org/wiki/达伦·塔克 "wikilink")。最新的可移植版发布于2006年。该项目的开发者得到了一些来自[OpenBSD基金会的资助](https://zh.wikipedia.org/wiki/OpenBSD基金会 "wikilink")。
+OpenNTPD作为[OpenBSD](../Page/OpenBSD.md "wikilink")计划的一部分，主要由[亨宁·布劳尔负责开发](https://zh.wikipedia.org/wiki/亨宁·布劳尔 "wikilink")。其设计目标包括安全（不可被[利用](https://zh.wikipedia.org/wiki/Exploit "wikilink")）、易于配置、在大多数情况足够精确及可在[BSD许可证](../Page/BSD许可证.md "wikilink")下分发[源代码](../Page/源代码.md "wikilink")。如[OpenSSH](../Page/OpenSSH.md "wikilink")，它另有一个单独的子项目来开发[可移植版本](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，其为OpenBSD的版本添加了兼容性代码，且与主项目分开发布新版本。可移植版由[达伦·塔克开发](https://zh.wikipedia.org/wiki/达伦·塔克 "wikilink")。最新的可移植版发布于2006年。该项目的开发者得到了一些来自[OpenBSD基金会的资助](https://zh.wikipedia.org/wiki/OpenBSD基金会 "wikilink")。
 
 ## 历史
 
@@ -46,7 +46,7 @@ OpenNTPD被批评\[6\]没有网络时间协议项目的NTP守护进程\[7\]精�
 OpenNTPD也被批评违反了NTP协议，因为其在传输数据时省略掉了精确性信息：OpenNTPD服务器声明自己是无限精确的（早期版本在第1层声明；虽然前述问题已得到修复\[8\]，OpenNTPD
 3.9p1仍然提供的是零误差时间\[9\]）。
 
-在OpenNTPD3.6发布后不久，布拉德·诺尔斯发表了一篇题为《OpenNTPd是有害的》\[10\]的文章，从各个方面批评了OpenNTPD，以及该项目及[OpenSSH和](../Page/OpenSSH.md "wikilink")[OpenBGPD所采用的](../Page/OpenBGPD.md "wikilink")[拆分开发模式](https://zh.wikipedia.org/wiki/拆分开发 "wikilink")。作为回应，OpenNTPD可移植分支的主要开发者达伦·塔克写了一篇详细的文章\[11\]，阐述了一些在OpenNTPD
+在OpenNTPD3.6发布后不久，布拉德·诺尔斯发表了一篇题为《OpenNTPd是有害的》\[10\]的文章，从各个方面批评了OpenNTPD，以及该项目及[OpenSSH](../Page/OpenSSH.md "wikilink")和[OpenBGPD](../Page/OpenBGPD.md "wikilink")所采用的[拆分开发模式](https://zh.wikipedia.org/wiki/拆分开发 "wikilink")。作为回应，OpenNTPD可移植分支的主要开发者达伦·塔克写了一篇详细的文章\[11\]，阐述了一些在OpenNTPD
 3.6.1所解决的问题，并认为诺尔斯的一些言论“有误导之嫌”。诺尔斯的文章也使OpenBSD网络常见问题添加了一个章节\[12\]，解释和反驳其主张。
 
 ## 参考

@@ -1,5 +1,5 @@
 [thumb](https://zh.wikipedia.org/wiki/image:IrcBot.png "wikilink")
-**IRC機器人**是[IRC中的一類特殊使用者](../Page/IRC.md "wikilink")，它像其他人類使用者一樣出現在使用者清單上，但是其本身是由[電腦程式語言寫成](https://zh.wikipedia.org/wiki/電腦程式語言 "wikilink")，並運行於[伺服器上](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。IRC機器人一般是爲了方便人類使用者而設立的，具有自動化或者和人類使用者互動的功能。
+**IRC機器人**是[IRC](../Page/IRC.md "wikilink")中的一類特殊使用者，它像其他人類使用者一樣出現在使用者清單上，但是其本身是由[電腦程式語言寫成](https://zh.wikipedia.org/wiki/電腦程式語言 "wikilink")，並運行於[伺服器上](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。IRC機器人一般是爲了方便人類使用者而設立的，具有自動化或者和人類使用者互動的功能。
 
 ## 功能
 

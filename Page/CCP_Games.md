@@ -1,5 +1,5 @@
 **CCP Games**（**Crowd Control
-Productions**）是一家[冰岛的](../Page/冰岛.md "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[开发和发行商](https://zh.wikipedia.org/wiki/开发 "wikilink")，于1999年由Loki
+Productions**）是一家[冰岛](../Page/冰岛.md "wikilink")的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[开发和发行商](https://zh.wikipedia.org/wiki/开发 "wikilink")，于1999年由Loki
 Margmidlun公司更名而来。创始者为Reynir Harðarson和Ívar
 Kristjánsson。CCP公司已经发行了[星战前夜](../Page/星战前夜.md "wikilink")([EVE
 Online](https://zh.wikipedia.org/wiki/EVE_Online "wikilink"))。
@@ -7,7 +7,7 @@ Online](https://zh.wikipedia.org/wiki/EVE_Online "wikilink"))。
 ## 历史
 
 1996年，Reynir Harðarson，Þórólfur Beck和Ívar Kristjánsson\[1\]
-开始构思开发一款[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")([MMOG](https://zh.wikipedia.org/wiki/MMOG "wikilink"))，并开始杜撰[星战前夜的故事背景](../Page/星战前夜.md "wikilink")。
+开始构思开发一款[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")([MMOG](https://zh.wikipedia.org/wiki/MMOG "wikilink"))，并开始杜撰[星战前夜](../Page/星战前夜.md "wikilink")的故事背景。
 
 1997年，三位创始者成立Loki Margmidlun公司，但因为缺少启动资金，他们开发了一款名为*Hættuspil*
 （危险游戏）的[桌面游戏](https://zh.wikipedia.org/wiki/桌面游戏 "wikilink")，为了证明自己并筹得资金。
@@ -17,9 +17,9 @@ Online](https://zh.wikipedia.org/wiki/EVE_Online "wikilink"))。
 1999年，Loki Margmidlun公司正式更名为CCP。
 
 2000年4月，CCP聘用Sigurður
-Arnljótsson为[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink"),并通过冰岛的私人赞助者和冰岛电话公司筹得第一轮融资260万美元，但实际投资数量是预期的4倍。[星战前夜开发工作开始](../Page/星战前夜.md "wikilink")。
+Arnljótsson为[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink"),并通过冰岛的私人赞助者和冰岛电话公司筹得第一轮融资260万美元，但实际投资数量是预期的4倍。[星战前夜](../Page/星战前夜.md "wikilink")开发工作开始。
 
-2000年6月，星战前夜最初测试版完成。当时它只是一个由[Python编写](../Page/Python.md "wikilink")、由服务器和2D客户端组成的系统。
+2000年6月，星战前夜最初测试版完成。当时它只是一个由[Python](../Page/Python.md "wikilink")编写、由服务器和2D客户端组成的系统。
 
 2001年8月，星战前夜开始邀请玩家[封测](https://zh.wikipedia.org/wiki/封测 "wikilink")。封测参与人数达109595人。
 
@@ -31,7 +31,7 @@ Arnljótsson为[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink"),并通过冰�
 
 2006年，EVE Online中文名定为星战前夜，并正式在中国上市。全球付费玩家达到10万。
 
-2007年，星战前夜付费玩家达到20万。为了在游戏中模拟接近现实的市场经济，CCP雇佣了一位经济学博士来分析和调控EVE游戏中的经济与发展趋势。同年，[黑暗世界内部开发启动](../Page/黑暗世界.md "wikilink")。
+2007年，星战前夜付费玩家达到20万。为了在游戏中模拟接近现实的市场经济，CCP雇佣了一位经济学博士来分析和调控EVE游戏中的经济与发展趋势。同年，[黑暗世界](../Page/黑暗世界.md "wikilink")内部开发启动。
 
 2008年3月，CCP聘用了时装设计师来为World of Darkness的人物设计服饰。
 
@@ -53,7 +53,7 @@ Abyss以](https://zh.wikipedia.org/wiki/Pearl_Abyss "wikilink")4.25亿美元收�
 *星战前夜* 是CCP发布的第一款电子游戏, 最初于2003年5月由[Simon & Schuster,
 Inc.公司发布](https://zh.wikipedia.org/wiki/Simon_&_Schuster "wikilink")。后来CCP购回了星战前夜的发布权\[3\]
 并经营此游戏至今。EVE
-Online的时代与背景设定在一个距今很遥远的未来及一个浩瀚无垠的宇宙中。玩家的目标是成为一名被朋友信赖并且被对手尊敬的举足轻重的人物。要完成这点，首先要依靠自身的商业头脑、社交手段、权谋技巧及巧妙的作战策略。作为支援，玩家可以争取获得一系列的尖端设备、致命武器以及先进的太空舰船，更可以去利用大财团与地下集团中的人脉关系。星战前夜是一个[沙盒游戏](https://zh.wikipedia.org/wiki/沙盒 "wikilink")。在中国，星战前夜只有一个服务器，这就意味着全国所有玩家会在同一个宇宙中游戏，每个人的每一次击杀，每一次采矿，每一次买卖都可能对这个宇宙产生[蝴蝶效应般的影响](../Page/蝴蝶效应.md "wikilink")。
+Online的时代与背景设定在一个距今很遥远的未来及一个浩瀚无垠的宇宙中。玩家的目标是成为一名被朋友信赖并且被对手尊敬的举足轻重的人物。要完成这点，首先要依靠自身的商业头脑、社交手段、权谋技巧及巧妙的作战策略。作为支援，玩家可以争取获得一系列的尖端设备、致命武器以及先进的太空舰船，更可以去利用大财团与地下集团中的人脉关系。星战前夜是一个[沙盒游戏](https://zh.wikipedia.org/wiki/沙盒 "wikilink")。在中国，星战前夜只有一个服务器，这就意味着全国所有玩家会在同一个宇宙中游戏，每个人的每一次击杀，每一次采矿，每一次买卖都可能对这个宇宙产生[蝴蝶效应](../Page/蝴蝶效应.md "wikilink")般的影响。
 
 #### *Dust 514*
 

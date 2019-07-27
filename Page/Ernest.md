@@ -1,4 +1,4 @@
-**Ernest**，譯作歐内斯特、歐奈斯特、恩斯特等，是一男子名稱，源自[日耳曼语族中](../Page/日耳曼语族.md "wikilink")**ernst**意指認真（serious）。
+**Ernest**，譯作歐内斯特、歐奈斯特、恩斯特等，是一男子名稱，源自[日耳曼语族](../Page/日耳曼语族.md "wikilink")中**ernst**意指認真（serious）。
 
 ## 人物
 
@@ -51,9 +51,9 @@
 
 ## 虛構角色
 
-  - [波特萊爾大遇險中的一名角色](../Page/波特萊爾大遇險.md "wikilink")
-  - [海角一樂園中的一名角色](../Page/海角一樂園.md "wikilink")
-  - Ernest Worthing，[不可兒戲中的一名角色](../Page/不可兒戲.md "wikilink")
+  - [波特萊爾大遇險](../Page/波特萊爾大遇險.md "wikilink")中的一名角色
+  - [海角一樂園](../Page/海角一樂園.md "wikilink")中的一名角色
+  - Ernest Worthing，[不可兒戲](../Page/不可兒戲.md "wikilink")中的一名角色
 
 ## 參見
 

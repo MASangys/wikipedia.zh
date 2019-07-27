@@ -1,6 +1,6 @@
-是由[Tose开发](https://zh.wikipedia.org/wiki/Tose "wikilink")，[史克威尔艾尼克斯发行的](../Page/史克威尔艾尼克斯.md "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏是[勇者斗恶龙怪兽系列的第四部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽系列 "wikilink")。游戏于2006年12月28日在日本發行，2007年11月6日在北美發行。
+是由[Tose开发](https://zh.wikipedia.org/wiki/Tose "wikilink")，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")发行的[任天堂DS](../Page/任天堂DS.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏是[勇者斗恶龙怪兽系列的第四部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽系列 "wikilink")。游戏于2006年12月28日在日本發行，2007年11月6日在北美發行。
 
-这是系列第一部支持联机的游戏，玩家可以使用[任天堂Wi-Fi联机](https://zh.wikipedia.org/wiki/任天堂Wi-Fi "wikilink")。类似系列的其他作品，游戏角色和怪物由长期负责[勇者斗恶龙系列艺术创作的](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")[鸟山明设计](https://zh.wikipedia.org/wiki/鸟山明 "wikilink")，音乐由[椙山浩一谱曲](../Page/椙山浩一.md "wikilink")。
+这是系列第一部支持联机的游戏，玩家可以使用[任天堂Wi-Fi联机](https://zh.wikipedia.org/wiki/任天堂Wi-Fi "wikilink")。类似系列的其他作品，游戏角色和怪物由长期负责[勇者斗恶龙系列艺术创作的](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")[鸟山明设计](https://zh.wikipedia.org/wiki/鸟山明 "wikilink")，音乐由[椙山浩一](../Page/椙山浩一.md "wikilink")谱曲。
 
 ## 游戏玩法
 
@@ -19,15 +19,15 @@ Bays”的地方，这里有七座岛屿，玩家可以通过在特定的码头�
 ## 开发
 
 游戏由幕后游戏开发商[TOSE开发](https://zh.wikipedia.org/wiki/TOSE "wikilink")\[2\]。《勇者斗恶龙怪兽篇
-Joker》是第一款支持Wi-Fi功能的勇者斗恶龙游戏。以领导全部勇者斗恶龙游戏开发而知名的[堀井雄二为本作加入了新的游戏元素](../Page/堀井雄二.md "wikilink")，如“收服”怪物\[3\]。《[七龙珠](../Page/七龙珠.md "wikilink")》作者[鸟山明也回归](https://zh.wikipedia.org/wiki/鸟山明 "wikilink")《Joker》的制作，使用他独特的风格创建视觉效果\[4\]。制作团队的另一员[椙山浩一为](../Page/椙山浩一.md "wikilink")《Joker》谱写乐曲\[5\]。
+Joker》是第一款支持Wi-Fi功能的勇者斗恶龙游戏。以领导全部勇者斗恶龙游戏开发而知名的[堀井雄二](../Page/堀井雄二.md "wikilink")为本作加入了新的游戏元素，如“收服”怪物\[3\]。《[七龙珠](../Page/七龙珠.md "wikilink")》作者[鸟山明也回归](https://zh.wikipedia.org/wiki/鸟山明 "wikilink")《Joker》的制作，使用他独特的风格创建视觉效果\[4\]。制作团队的另一员[椙山浩一](../Page/椙山浩一.md "wikilink")为《Joker》谱写乐曲\[5\]。
 
 ## 评价
 
 《勇者斗恶龙怪兽篇
-Joker》总体得到了较好的分数，游戏在[Metacritic的汇总得分为](../Page/Metacritic.md "wikilink")76%\[6\]。[GameSpot的Austin](../Page/GameSpot.md "wikilink")
+Joker》总体得到了较好的分数，游戏在[Metacritic](../Page/Metacritic.md "wikilink")的汇总得分为76%\[6\]。[GameSpot](../Page/GameSpot.md "wikilink")的Austin
 Shau给了游戏7.5/10分以及总体正面的评论，but advised users to approach the intense
 level-grinding with
-caution\[7\]。[IGN打出了相似的](../Page/IGN.md "wikilink")7.9分，并提到了游戏极佳的图像和整体质量。IGN认为游戏应该“它所呈现的大量深度和多功能性应该为系列的新玩家带来惊喜”\[8\]。《[任天堂力量](../Page/任天堂力量.md "wikilink")》给游戏打了8/10分，并为《Joker》辩护称其不只是一个[神奇宝贝冒充者](https://zh.wikipedia.org/wiki/神奇宝贝 "wikilink")\[9\]。相似的，[GameSpy给游戏打了](../Page/GameSpy.md "wikilink")8/10分，并称游戏不仅仅是神奇宝贝复制品\[10\]。Gamezone也给游戏打了8/10\[11\]。然而《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》给了《Joker》3.25/5，并认为游戏只是依照神奇宝贝的“又一个怪物捕捉与战斗游戏”。评论还批评了游戏的捕捉棘手与令人厌烦的战斗切换特写\[12\]。《[Game
+caution\[7\]。[IGN](../Page/IGN.md "wikilink")打出了相似的7.9分，并提到了游戏极佳的图像和整体质量。IGN认为游戏应该“它所呈现的大量深度和多功能性应该为系列的新玩家带来惊喜”\[8\]。《[任天堂力量](../Page/任天堂力量.md "wikilink")》给游戏打了8/10分，并为《Joker》辩护称其不只是一个[神奇宝贝冒充者](https://zh.wikipedia.org/wiki/神奇宝贝 "wikilink")\[9\]。相似的，[GameSpy](../Page/GameSpy.md "wikilink")给游戏打了8/10分，并称游戏不仅仅是神奇宝贝复制品\[10\]。Gamezone也给游戏打了8/10\[11\]。然而《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》给了《Joker》3.25/5，并认为游戏只是依照神奇宝贝的“又一个怪物捕捉与战斗游戏”。评论还批评了游戏的捕捉棘手与令人厌烦的战斗切换特写\[12\]。《[Game
 Informer](../Page/Game_Informer.md "wikilink")》给了游戏8/10，同时游戏也成为其2006年12月刊“月度掌机游戏”。日本游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》给了游戏正面评价以及36/40的分数\[13\]。
 
 《勇者斗恶龙怪兽篇
@@ -36,7 +36,7 @@ Joker》在日本发行首周售出593,994份\[14\]。游戏在日本一共售�
 ## 续作
 
 在1月末，任天堂宣布开发《勇者斗恶龙怪兽篇 Joker
-2》。游戏不是《Joker》的后传，而是使用了新主角。游戏使用了包括《[勇者斗恶龙IX](https://zh.wikipedia.org/wiki/勇者斗恶龙IX "wikilink")》新增怪物在内的300多种怪物，同时支持通过[任天堂Wi-Fi连接直接多人联机对战](../Page/任天堂Wi-Fi连接.md "wikilink")。
+2》。游戏不是《Joker》的后传，而是使用了新主角。游戏使用了包括《[勇者斗恶龙IX](https://zh.wikipedia.org/wiki/勇者斗恶龙IX "wikilink")》新增怪物在内的300多种怪物，同时支持通过[任天堂Wi-Fi连接](../Page/任天堂Wi-Fi连接.md "wikilink")直接多人联机对战。
 
 ## 参考文献
 

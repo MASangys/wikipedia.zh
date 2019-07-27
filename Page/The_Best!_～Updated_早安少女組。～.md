@@ -1,5 +1,5 @@
 《**The Best\! ～Updated
-早安少女組。～**》（）是日本的女子偶像組合[早安少女組。的第](../Page/早安少女組。.md "wikilink")5枚精選專輯，於2013年9月25日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+早安少女組。～**》（）是日本的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第5枚精選專輯，於2013年9月25日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -14,7 +14,7 @@
   - 「初回限定盤」收錄了《[自私 隨和
     愛的玩笑](https://zh.wikipedia.org/wiki/自私_隨和_愛的玩笑_/_愛的軍團 "wikilink")》和《[愛的軍團](https://zh.wikipedia.org/wiki/自私_隨和_愛的玩笑_/_愛的軍團 "wikilink")》的PV，以及專輯「The
     Best\! ～Updated 早安少女組。～」的訪問片段和Making。
-  - 在10月7日於[Oricon公信榜專輯每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")6位。
+  - 在10月7日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯每週排行榜取得第6位。
 
 ## 收錄內容
 
@@ -31,7 +31,7 @@
     （作詞・作曲：淳君　編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         10th單曲
-        [譜久村聖](../Page/譜久村聖.md "wikilink")・[生田衣梨奈](../Page/生田衣梨奈.md "wikilink")・[鞘師里保](../Page/鞘師里保.md "wikilink")・[鈴木香音](../Page/鈴木香音.md "wikilink")・[飯窪春菜](../Page/飯窪春菜.md "wikilink")・[石田亞佑美](../Page/石田亞佑美.md "wikilink")・[佐藤優樹](../Page/佐藤優樹.md "wikilink")・[工藤遙](../Page/工藤遙.md "wikilink")・[小田櫻主唱](../Page/小田櫻.md "wikilink")
+        [譜久村聖](../Page/譜久村聖.md "wikilink")・[生田衣梨奈](../Page/生田衣梨奈.md "wikilink")・[鞘師里保](../Page/鞘師里保.md "wikilink")・[鈴木香音](../Page/鈴木香音.md "wikilink")・[飯窪春菜](../Page/飯窪春菜.md "wikilink")・[石田亞佑美](../Page/石田亞佑美.md "wikilink")・[佐藤優樹](../Page/佐藤優樹.md "wikilink")・[工藤遙](../Page/工藤遙.md "wikilink")・[小田櫻](../Page/小田櫻.md "wikilink")主唱
 3.  **[戀愛革命21](../Page/戀愛革命21.md "wikilink")（updated）**（ (updated)）
     （作詞・作曲：淳君　編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）
       -
@@ -59,7 +59,7 @@
     （作詞・作曲：淳君 編曲：大久保薫）
       -
         31th單曲
-        [道重沙由美主唱](../Page/道重沙由美.md "wikilink")
+        [道重沙由美](../Page/道重沙由美.md "wikilink")主唱
 8.  **[戀愛獵人](../Page/戀愛獵人.md "wikilink")（updated）**（ (updated)）
     （作詞・作曲：淳君 編曲：平田祥一郎）
       -
@@ -77,7 +77,7 @@
 11. **[Help me\!\!](../Page/Help_me!!.md "wikilink")（updated）**
     （作詞・作曲：淳君 編曲：大久保薫）
       -
-        52nd單曲，十一期成員[小田櫻加入後第一張單曲](../Page/小田櫻.md "wikilink")
+        52nd單曲，十一期成員[小田櫻](../Page/小田櫻.md "wikilink")加入後第一張單曲
 12. **[Brainstorming](https://zh.wikipedia.org/wiki/Brainstorming_/_只要有你_我什麼都不需要 "wikilink")（updated）**（ブレインストーミング
     (updated)）
     （作詞・作曲：淳君 編曲：大久保薫）

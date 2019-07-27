@@ -1,11 +1,11 @@
 **THE
-MANZAI**是於2011年開始由[島田紳助企劃](https://zh.wikipedia.org/wiki/島田紳助 "wikilink")，[吉本興業主辦的](../Page/吉本興業.md "wikilink")[日本](../Page/日本.md "wikilink")[漫才比賽](../Page/漫才.md "wikilink")。其決賽會由[富士電視台系列以年末搞笑特别節目的形式進行](../Page/富士電視台.md "wikilink")[直播](https://zh.wikipedia.org/wiki/直播 "wikilink")。
+MANZAI**是於2011年開始由[島田紳助企劃](https://zh.wikipedia.org/wiki/島田紳助 "wikilink")，[吉本興業](../Page/吉本興業.md "wikilink")主辦的[日本](../Page/日本.md "wikilink")[漫才](../Page/漫才.md "wikilink")比賽。其決賽會由[富士電視台](../Page/富士電視台.md "wikilink")系列以年末搞笑特别節目的形式進行[直播](https://zh.wikipedia.org/wiki/直播 "wikilink")。
 
 THE MANZAI的決賽大會正式標題曾作過一次變化，2011年時大會名稱為「**THE MANZAI
-2011～年度最强漫才家決定淘汰賽！～**」，但於2012年開始把大會名稱改為「**[日清食品THE](../Page/日清食品.md "wikilink")
+2011～年度最强漫才家決定淘汰賽！～**」，但於2012年開始把大會名稱改為「**[日清食品](../Page/日清食品.md "wikilink")THE
 MANZAI 20○○（公元年份）〜年度最强漫才家決定淘汰賽！～光荣的決賽大會～**」。
 
-這項比賽是作為2010年結束的大型漫才比賽[M-1大賽的後繼項目](../Page/M-1大賽.md "wikilink")，和以1980年同名電視節目《》的復活形式舉行的。
+這項比賽是作為2010年結束的大型漫才比賽[M-1大賽](../Page/M-1大賽.md "wikilink")的後繼項目，和以1980年同名電視節目《》的復活形式舉行的。
 
 ## 歷代冠軍
 

@@ -1,12 +1,12 @@
 《**Just Be Friends**》有時又會被簡稱為「**JBF**」，是一首由[Dixie
-Flatline負責作曲與作詞](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikilink")、[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）負責插畫和動畫製作的[VOCALOID2歌曲](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")\[1\]\[2\]。歌曲聲音來源取自VOCALOID音樂軟體[巡音流歌而成](../Page/巡音流歌.md "wikilink")，並於2009年7月4日發表在[視頻彈幕網站](https://zh.wikipedia.org/wiki/視頻彈幕網站 "wikilink")[NICONICO動畫上](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。《Just
+Flatline負責作曲與作詞](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikilink")、[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）負責插畫和動畫製作的[VOCALOID2歌曲](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")\[1\]\[2\]。歌曲聲音來源取自VOCALOID音樂軟體[巡音流歌](../Page/巡音流歌.md "wikilink")而成，並於2009年7月4日發表在[視頻彈幕網站](https://zh.wikipedia.org/wiki/視頻彈幕網站 "wikilink")[NICONICO動畫上](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。《Just
 Be
 Friends》可以說是以巡音流歌為名義所創作的著名歌曲之一，同時在[網際網路或者其他媒體亦有出現不同的版本或者](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
 
 ## 內容
 
 《Just Be
-Friends》的歌曲語音來自於[VOCALOID軟體](../Page/VOCALOID.md "wikilink")[巡音流歌所製成](../Page/巡音流歌.md "wikilink")，其中由[Dixie
+Friends》的歌曲語音來自於[VOCALOID](../Page/VOCALOID.md "wikilink")軟體[巡音流歌](../Page/巡音流歌.md "wikilink")所製成，其中由[Dixie
 Flatline製作的歌曲風格較為接近自己所擅長的](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikilink")[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")\[3\]。歌曲內容描述一名女孩和一名男孩發現彼此的關係無法繼續發展下去，並且漸漸兩人的關係越趨疏離許多，最終兩人便宣告分手作為這段戀情的結束。不過歌曲雖然是以巡音流歌所演唱，但一些愛好者則認為歌曲實際上是描述男方的觀點。作者本身對於兩種說法都沒有證實或者是支持\[4\]。
 
 ## 歌曲
@@ -14,7 +14,7 @@ Flatline製作的歌曲風格較為接近自己所擅長的](https://zh.wikipedi
 ### 音樂推出
 
 自Dixie Flatline發表過《Just Be
-Friends》之前，便曾推出藉由[初音未來與](../Page/初音未來.md "wikilink")[鏡音鈴、連所創作的音樂作品](../Page/鏡音鈴、連.md "wikilink")，這包括有《[雙子座](https://zh.wikipedia.org/wiki/雙子座_\(歌曲\) "wikilink")》（）\[5\]、《Juvenile》（）和《[Sweetiex2](https://zh.wikipedia.org/wiki/Sweetiex2 "wikilink")》等\[6\]\[7\]。2009年7月4日時，Dixie
+Friends》之前，便曾推出藉由[初音未來](../Page/初音未來.md "wikilink")與[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")所創作的音樂作品，這包括有《[雙子座](https://zh.wikipedia.org/wiki/雙子座_\(歌曲\) "wikilink")》（）\[5\]、《Juvenile》（）和《[Sweetiex2](https://zh.wikipedia.org/wiki/Sweetiex2 "wikilink")》等\[6\]\[7\]。2009年7月4日時，Dixie
 Flatline首次嘗試使用巡音流歌創作《Just Be
 Friends》一曲、由[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）製作極高質量的動畫，且於NICONICO動畫上進行發表。2009年7月6日歌曲隨即列入にVOCALOID殿堂內，並隨即於[週刊VOCALOID排行榜](https://zh.wikipedia.org/wiki/週刊VOCALOID排行榜 "wikilink")（）上獲得第一名，在這之前Dixie
 Flatline創作的《雙子座》則最高排名為第四名\[8\]。到了2009年11月7日《Just Be
@@ -45,7 +45,7 @@ Be Friends》作為使用樂曲\[21\]。
 ### 二次創作
 
 在《Just Be
-Friends》大受歡迎的同時，音樂創作者[Koma'n於](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink")2009年7月20日發表了以原曲為基礎的[鋼琴彈奏版本](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")《》\[22\]。雖然在基本音樂變化上並無多大差別，然而鋼琴演奏的[二次創作將歌曲的速度更加放慢](../Page/二次創作.md "wikilink")，這使得音樂相較於原始歌曲本身更具有感傷力\[23\]。koma'n在介紹文表示之所以在短短幾天內便嘗試發表鋼琴演奏版本，主要是因為自己也十分喜愛Dixie
+Friends》大受歡迎的同時，音樂創作者[Koma'n於](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink")2009年7月20日發表了以原曲為基礎的[鋼琴彈奏版本](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")《》\[22\]。雖然在基本音樂變化上並無多大差別，然而鋼琴演奏的[二次創作](../Page/二次創作.md "wikilink")將歌曲的速度更加放慢，這使得音樂相較於原始歌曲本身更具有感傷力\[23\]。koma'n在介紹文表示之所以在短短幾天內便嘗試發表鋼琴演奏版本，主要是因為自己也十分喜愛Dixie
 Flatline所發佈的原作動畫\[24\]。
 
 ## 歌曲
@@ -62,7 +62,7 @@ Flatline所發佈的原作動畫\[24\]。
 
 在Dixie Flatline所上傳《Just Be
 Friends》於NICONICO動畫的原始影片中，由於Yunomi-P所製作的動畫作品被認為有抄襲其他商業圖像的構圖，或者是直接在作品上使用付費或免費的素材而沒有標記原作者等情形，對此Yunomi-P和Dixie
-Flatline也分別發表了道歉文回應爭論\[25\]\[26\]。這使得最終NICONICO動畫決定撤除有[著作權爭議的](../Page/著作權.md "wikilink")《Just
+Flatline也分別發表了道歉文回應爭論\[25\]\[26\]。這使得最終NICONICO動畫決定撤除有[著作權](../Page/著作權.md "wikilink")爭議的《Just
 Be
 Friends》原始動畫，而網站內直接使用原始動畫的影片也都無法無法觀看\[27\]，但是對於一些將原始影片作為動畫元素之作品是否要保留則有所爭議\[28\]。另外由於爭議爆發時批評者提出詳細的質疑，這使得NICONICO動畫決定在事件結束後一度不得張貼相同影片與文字，以避免網站上再次出現針對Yunomi-P的惡意批評與論戰\[29\]。而自《Just
 Be Friends》歌曲影片刪掉後，自2009年7月12日超越該瀏覽次數的《雙子座》成為Dixie

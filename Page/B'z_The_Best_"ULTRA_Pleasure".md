@@ -1,5 +1,5 @@
 《**B'z The Best "ULTRA
-Pleasure"**》是日本摇滚组合[B'z为纪念出道](../Page/B'z.md "wikilink")20年发行的精選輯，2008年6月18日由[VERMILLION
+Pleasure"**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")为纪念出道20年发行的精選輯，2008年6月18日由[VERMILLION
 RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLION_RECORDS "wikilink")。\[1\]
 专辑共收录30首歌曲，特典DVD收录10首未公开的巡迴演唱會LIVE影像。\[2\]
 该专辑在第23回[日本金唱片大奖被评选为](https://zh.wikipedia.org/wiki/日本金唱片大奖 "wikilink")“年度十佳精選輯”\[3\]

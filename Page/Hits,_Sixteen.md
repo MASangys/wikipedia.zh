@@ -1,4 +1,4 @@
-《**Hits-Sixteen**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威的首張粵語新曲加精選專輯](../Page/孫耀威.md "wikilink")，在1997年3月推出。專輯第一主打是《一億三千八天》，第二主打則為《飛》。
+《**Hits-Sixteen**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威](../Page/孫耀威.md "wikilink")的首張粵語新曲加精選專輯，在1997年3月推出。專輯第一主打是《一億三千八天》，第二主打則為《飛》。
 
 ## 曲目
 

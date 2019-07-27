@@ -1,12 +1,12 @@
 **Google尋人工具**
-是一個[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[網頁应用程序](https://zh.wikipedia.org/wiki/網頁应用程序 "wikilink")。它為受自然災害影響的家庭、倖存者提供信息交換。最早由[Google工程師在](../Page/Google.md "wikilink")[2010年海地地震中發佈投入使用](../Page/2010年海地地震.md "wikilink")。
+是一個[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[網頁应用程序](https://zh.wikipedia.org/wiki/網頁应用程序 "wikilink")。它為受自然災害影響的家庭、倖存者提供信息交換。最早由[Google](../Page/Google.md "wikilink")工程師在[2010年海地地震](../Page/2010年海地地震.md "wikilink")中發佈投入使用。
 
-Google尋人工具由[Python語言開發](../Page/Python.md "wikilink")，采用[PFIF协议](https://zh.wikipedia.org/wiki/PFIF "wikilink")，并在[Google應用服務引擎上運行](../Page/Google應用服務引擎.md "wikilink")。它的數據庫和[應用程式介面基於](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")2005年為[卡崔娜飓风尋人工程開發的](https://zh.wikipedia.org/wiki/卡崔娜飓风尋人工程 "wikilink")[PFIF](https://zh.wikipedia.org/wiki/PFIF "wikilink")\[1\]。
+Google尋人工具由[Python](../Page/Python.md "wikilink")語言開發，采用[PFIF协议](https://zh.wikipedia.org/wiki/PFIF "wikilink")，并在[Google應用服務引擎](../Page/Google應用服務引擎.md "wikilink")上運行。它的數據庫和[應用程式介面基於](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")2005年為[卡崔娜飓风尋人工程開發的](https://zh.wikipedia.org/wiki/卡崔娜飓风尋人工程 "wikilink")[PFIF](https://zh.wikipedia.org/wiki/PFIF "wikilink")\[1\]。
 
 ## 歷史
 
-[2010年海地地震之後](../Page/2010年海地地震.md "wikilink")，Google工程師立即开始合作開發該軟件\[2\]，软件基於已有的[九一一空襲倖存者登記](http://webarchive.loc.gov/all/20010914220553/http://safe.millennium.berkeley.edu)和[PFIF数据标准](https://zh.wikipedia.org/wiki/PFIF "wikilink")。\[3\]
-Google也与[美國國務院合作開發了小部件版本的Google尋人工具](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")，並在美國國務院網站和其他网站上運行。Google尋人工具在海地地震3天以內（1月15日）發佈了英文，法文和[海地克里奧爾語版本](../Page/海地克里奧爾語.md "wikilink")\[4\]。
+[2010年海地地震](../Page/2010年海地地震.md "wikilink")之後，Google工程師立即开始合作開發該軟件\[2\]，软件基於已有的[九一一空襲倖存者登記](http://webarchive.loc.gov/all/20010914220553/http://safe.millennium.berkeley.edu)和[PFIF数据标准](https://zh.wikipedia.org/wiki/PFIF "wikilink")。\[3\]
+Google也与[美國國務院合作開發了小部件版本的Google尋人工具](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")，並在美國國務院網站和其他网站上運行。Google尋人工具在海地地震3天以內（1月15日）發佈了英文，法文和[海地克里奧爾語](../Page/海地克里奧爾語.md "wikilink")版本\[4\]。
 
 為了解決之前[九一一襲擊事件和](https://zh.wikipedia.org/wiki/九一一襲擊事件 "wikilink")[颶風卡崔娜事件中](https://zh.wikipedia.org/wiki/颶風卡崔娜 "wikilink")，不同組織均發佈了大量的尋人信息，但因為疏於整理而造成的[信息煙囪問題](https://zh.wikipedia.org/wiki/信息煙囪 "wikilink")\[5\]，Google尋人工具整合了各個網站的尋人信息，包含[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")、[邁哈密先驅報](https://zh.wikipedia.org/wiki/邁哈密先驅報 "wikilink")、[紐約時報等](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")\[6\]\[7\]。
 
@@ -15,7 +15,7 @@ Google的在海地地震中的工作促成了[Google危機應對小組的成立]
 ## 部署
 
 Google尋人工具通常在一個多語言的危機应对頁面下運作。該頁面同時也提供其他信息，如衛星雲圖，庇護地點，路況信息，電力中斷信息\[9\]。
-在[2011年日本東北地方太平洋近海地震中Google也利用](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")[Picasa平臺讓人們可以提交庇護所中的災民名單](../Page/Picasa.md "wikilink")，之後再手動輸入Google尋人工具系統\[10\]。
+在[2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")中Google也利用[Picasa](../Page/Picasa.md "wikilink")平臺讓人們可以提交庇護所中的災民名單，之後再手動輸入Google尋人工具系統\[10\]。
 
 Google尋人工具重要的幾次部署包括：
 

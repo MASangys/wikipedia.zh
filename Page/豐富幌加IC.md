@@ -1,4 +1,4 @@
-**豐富幌加IC**（）是一個位於[北海道](../Page/北海道.md "wikilink")[天鹽郡](../Page/天鹽郡.md "wikilink")[豐富町幌加的](../Page/豐富町.md "wikilink")[交流道](../Page/交流道.md "wikilink")，屬於[豐富繞道的一部分](../Page/豐富繞道.md "wikilink")。
+**豐富幌加IC**（）是一個位於[北海道](../Page/北海道.md "wikilink")[天鹽郡](../Page/天鹽郡.md "wikilink")[豐富町](../Page/豐富町.md "wikilink")幌加的[交流道](../Page/交流道.md "wikilink")，屬於[豐富繞道](../Page/豐富繞道.md "wikilink")的一部分。
 
 ## 道路
 
@@ -15,8 +15,8 @@
 
 ## 歷史
 
-  - 2004年11月6日：[豐富繞道的](../Page/豐富繞道.md "wikilink")[豐富佐呂別IC至](https://zh.wikipedia.org/wiki/豐富佐呂別IC "wikilink")[豐富北IC路段通車](https://zh.wikipedia.org/wiki/豐富北IC "wikilink")，該交流道正式啟用。
-  - 2010年3月1日：伴隨著[幌富繞道的](../Page/幌富繞道.md "wikilink")[幌延IC至豐富佐呂別IC路段通車](https://zh.wikipedia.org/wiki/幌延IC "wikilink")，而變更IC編號。
+  - 2004年11月6日：[豐富繞道](../Page/豐富繞道.md "wikilink")的[豐富佐呂別IC至](https://zh.wikipedia.org/wiki/豐富佐呂別IC "wikilink")[豐富北IC路段通車](https://zh.wikipedia.org/wiki/豐富北IC "wikilink")，該交流道正式啟用。
+  - 2010年3月1日：伴隨著[幌富繞道](../Page/幌富繞道.md "wikilink")的[幌延IC至豐富佐呂別IC路段通車](https://zh.wikipedia.org/wiki/幌延IC "wikilink")，而變更IC編號。
 
 ## 周邊
 

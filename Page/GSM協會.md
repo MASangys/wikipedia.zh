@@ -1,5 +1,5 @@
 **GSM協會**（Groupe Speciale Mobile
-Association，GSMA）於1995年成立是一個為了[GSM行動電話系統的共通標準](../Page/GSM.md "wikilink")、建置以及推動，由[行動通訊業者以及相關公司所贊助成立的協會](https://zh.wikipedia.org/wiki/行動通訊 "wikilink")\[1\]。其歷史可追溯到1982年召開的的EU
+Association，GSMA）於1995年成立是一個為了[GSM](../Page/GSM.md "wikilink")行動電話系統的共通標準、建置以及推動，由[行動通訊業者以及相關公司所贊助成立的協會](https://zh.wikipedia.org/wiki/行動通訊 "wikilink")\[1\]。其歷史可追溯到1982年召開的的EU
 GSM，而到1995年才透過GSM MoU協會正式成立。\[2\]
 
 GSMA舉辦了全球行動通訊務最大的年度盛事——[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")，以及[GSMA世界移动大会-上海](https://zh.wikipedia.org/wiki/GSMA世界移动大会-上海 "wikilink")、[GSMA

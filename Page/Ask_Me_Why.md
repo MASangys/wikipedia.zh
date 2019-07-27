@@ -7,8 +7,8 @@ Please Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》中。
 ## 创作
 
 作于1962年初，《Ask Me
-Why》主要作者为[约翰·列侬](../Page/约翰·列侬.md "wikilink")，但像首张专辑上其他署名[列侬-麦卡特尼的原创曲目一样](https://zh.wikipedia.org/wiki/列侬-麦卡特尼 "wikilink")，是以[保罗·麦卡特尼和列侬两人的名义发表的](../Page/保罗·麦卡特尼.md "wikilink")。麦卡特尼说：“这是约翰的原创构想，然后我们俩坐下一起写出来的。这首歌主要是约翰的。”\[1\]
-这首歌是披头士签约之前现场演出的曲目之一，也是于1962年6月6日在[EMI的](../Page/EMI.md "wikilink")[阿比路录音室被](https://zh.wikipedia.org/wiki/阿比路录音室 "wikilink")[Parlophone厂牌面试时唱的歌之一](https://zh.wikipedia.org/wiki/Parlophone "wikilink")。列侬受到美国[节奏布鲁斯乐队](../Page/节奏布鲁斯.md "wikilink")的影响，这首歌模仿了他们的风格，开头的吉他旋律取自奇迹乐队1961年的歌曲《What's
+Why》主要作者为[约翰·列侬](../Page/约翰·列侬.md "wikilink")，但像首张专辑上其他署名[列侬-麦卡特尼的原创曲目一样](https://zh.wikipedia.org/wiki/列侬-麦卡特尼 "wikilink")，是以[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")和列侬两人的名义发表的。麦卡特尼说：“这是约翰的原创构想，然后我们俩坐下一起写出来的。这首歌主要是约翰的。”\[1\]
+这首歌是披头士签约之前现场演出的曲目之一，也是于1962年6月6日在[EMI](../Page/EMI.md "wikilink")的[阿比路录音室被](https://zh.wikipedia.org/wiki/阿比路录音室 "wikilink")[Parlophone厂牌面试时唱的歌之一](https://zh.wikipedia.org/wiki/Parlophone "wikilink")。列侬受到美国[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")乐队的影响，这首歌模仿了他们的风格，开头的吉他旋律取自奇迹乐队1961年的歌曲《What's
 So Good About Goodbye》。
 
 ## 参与人员

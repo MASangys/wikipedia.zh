@@ -30,7 +30,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     You](../Page/滿懷歉意的Kissing_You.md "wikilink")》後重回選拔組
   - Aya繼《[THE NEVER ENDING STORY
     ～告訴你一個小秘密～](../Page/THE_NEVER_ENDING_STORY.md "wikilink")》後再選拔為主唱。
-  - [水野繪梨奈因已離隊而沒有在選拔名單上](../Page/水野繪梨奈.md "wikilink")。
+  - [水野繪梨奈](../Page/水野繪梨奈.md "wikilink")因已離隊而沒有在選拔名單上。
 
 ### GO LADY\!\!
 

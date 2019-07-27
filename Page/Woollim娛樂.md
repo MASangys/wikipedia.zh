@@ -57,6 +57,16 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>Goldenness (골드니스)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rocket_Punch" title="wikilink">Rocket Punch</a></p></td>
+<td><p>女</p></td>
+<td><p><a href="../Page/高橋朱里.md" title="wikilink">朱里</a>、<a href="https://zh.wikipedia.org/wiki/金蓮熙" title="wikilink">蓮熙</a>、<a href="https://zh.wikipedia.org/wiki/金秀潤" title="wikilink">秀潤</a>、<a href="https://zh.wikipedia.org/wiki/徐胤卿" title="wikilink">胤卿</a>、<a href="https://zh.wikipedia.org/wiki/金素嬉" title="wikilink">素嬉</a>、<a href="https://zh.wikipedia.org/wiki/鄭多玹" title="wikilink">多玹</a></p></td>
+<td><p><a href="../Page/高橋朱里.md" title="wikilink">朱里</a></p></td>
+<td><p>準備出道</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -78,8 +88,8 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>2014年3月10日</p></td>
 <td><p><a href="../Page/Toheart.md" title="wikilink">Toheart</a></p></td>
 <td><p>男</p></td>
-<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE成員</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee成員</a>）</p></td>
+<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>成員）<br />
+<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>成員）</p></td>
 <td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a></p></td>
 <td><p>暫停活動（特別企劃）</p></td>
 <td><p>INSPIRIT (인스피릿)</p></td>
@@ -230,30 +240,21 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 </tbody>
 </table>
 
-### 女練習生
+### 簽約藝人
 
-  - [權恩妃](https://zh.wikipedia.org/wiki/權恩妃 "wikilink")（[Ye-A](https://zh.wikipedia.org/wiki/Ye-A "wikilink")、[PRODUCE
-    48](../Page/PRODUCE_48.md "wikilink")、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
-  - [金采源](../Page/金采源.md "wikilink")（[PRODUCE
-    48](../Page/PRODUCE_48.md "wikilink")、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
-  - [高橋朱里](../Page/高橋朱里.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")、[PRODUCE
-    48](../Page/PRODUCE_48.md "wikilink")）
-  - 金蓮熙（2000-12-06）
-  - 金秀潤（2001-03-17 [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
-  - 徐胤卿（2001-11-01）
-  - 金素嬉（2003-08-14 [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
-  - 鄭多玹（2005-04-29）
-  - 尹素允（1998-03-30）
+  - 權恩妃（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
+  - 金采源（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
+  - 車俊昊（[X1](https://zh.wikipedia.org/wiki/X1_\(組合\) "wikilink")）
+
+### 女練習生
 
 ### 男練習生
 
-  - [車俊昊](../Page/車俊昊.md "wikilink")（[PRODUCE X
-    101](../Page/PRODUCE_X_101.md "wikilink")）
   - 金東玧（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 黃允盛（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 朱昌旭（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 黃允省（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 周昌煜（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 金敏緒（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 文俊浩（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 文俊號（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 離開藝人
 
@@ -282,15 +283,15 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 
 ### 昔日練習生
 
-  - [郭正旭](../Page/郭正旭.md "wikilink")（[INFINITE預備成員](../Page/INFINITE.md "wikilink")，現為演員）
-  - [B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")（[INFINITE預備成員](../Page/INFINITE.md "wikilink")，後以[Block
+  - [郭正旭](../Page/郭正旭.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，現為演員）
+  - [B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，後以[Block
     B出道](../Page/Block_B.md "wikilink")）
-  - [安宰孝](https://zh.wikipedia.org/wiki/安宰孝 "wikilink")（[INFINITE預備成員](../Page/INFINITE.md "wikilink")，後以[Block
+  - [安宰孝](https://zh.wikipedia.org/wiki/安宰孝 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，後以[Block
     B岀道](../Page/Block_B.md "wikilink")）
   - 吳成鍾（曾以[SPEED出道](../Page/SPEED_\(韓國音樂團體\).md "wikilink")，現為個人歌手）
   - 崔宇赫（以[Like A Movie出道](../Page/Like_A_Movie.md "wikilink")）
-  - [李婁彬](../Page/李婁彬.md "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，後以[1TEAM出道](../Page/1TEAM.md "wikilink")）
-  - [全雄](../Page/全雄.md "wikilink")（曾是[JYP娛樂及](../Page/JYP娛樂.md "wikilink")[YG娛樂練習生](../Page/YG娛樂.md "wikilink")，後以[AB6IX出道](../Page/AB6IX.md "wikilink")）
+  - [李婁彬](../Page/李婁彬.md "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，後以[1TEAM](../Page/1TEAM.md "wikilink")出道）
+  - [全雄](../Page/全雄.md "wikilink")（曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")及[YG娛樂](../Page/YG娛樂.md "wikilink")練習生，後以[AB6IX](../Page/AB6IX.md "wikilink")出道）
   - 具寶慧（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[Heart
     Rabbit Girls出道](../Page/Heart_Rabbit_Girls.md "wikilink")）
   - [曺承希](../Page/曺承希.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[F-VE
@@ -298,7 +299,7 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
   - [韓書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[The
     SeeYa](../Page/The_SeeYa.md "wikilink")、[F-VE
     DOLLS出道](../Page/F-VE_DOLLS.md "wikilink")，現為個人歌手）
-  - 崔允瑄（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[SONAMOO出道](../Page/SONAMOO.md "wikilink")）
+  - 崔允瑄（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[SONAMOO](../Page/SONAMOO.md "wikilink")出道）
   - [奇熙賢](../Page/奇熙賢.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")）
   - 朴允珠（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後轉到Ulala
     Company練習）
@@ -310,6 +311,7 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
   - 金彩璘（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 安書允（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 劉靜恩（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
+  - 尹素允（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
 
 ## Woollim Label
 

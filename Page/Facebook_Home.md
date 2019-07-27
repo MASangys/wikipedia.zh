@@ -1,5 +1,5 @@
 **Facebook
-Home**是一套[Android](../Page/Android.md "wikilink")[智慧型手機上的](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，由[社群網路服務](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")[Facebook開發](../Page/Facebook.md "wikilink")。Facebook
+Home**是一套[Android](../Page/Android.md "wikilink")[智慧型手機上的](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，由[社群網路服務](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")[Facebook](../Page/Facebook.md "wikilink")開發。Facebook
 Home可取代Android裝置上既存的主畫面（桌面啟動器），讓使用者除了能啟動[應用程式外](../Page/流動應用程式.md "wikilink")，也可輕易的瀏覽和張貼Facebook內容，並在鎖定畫面上顯示來自Facebook和其他程式的通知訊息。此外Facebook
 Home也包含一組浮動界面，可讓使用者在任何程式內接收傳送Facebook訊息或[SMS簡訊](../Page/簡訊.md "wikilink")。Home在2013年4月4日舉行的一場媒體活動中發表，並於2013年4月12日在少數特定的[HTC和](https://zh.wikipedia.org/wiki/HTC "wikilink")[Samsung裝置上推出](../Page/三星電子.md "wikilink")，包括一款內建Facebook
 Home的智慧型手機[HTC First](../Page/HTC_First.md "wikilink")\[1\]。現在Facebook

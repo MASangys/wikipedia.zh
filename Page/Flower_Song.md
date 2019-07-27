@@ -1,13 +1,13 @@
 《**Flower
-Song**》為[日本團體](../Page/日本.md "wikilink")[放浪兄弟於](../Page/放浪兄弟.md "wikilink")2013年6月19日發行的第42張單曲。
+Song**》為[日本](../Page/日本.md "wikilink")團體[放浪兄弟](../Page/放浪兄弟.md "wikilink")於2013年6月19日發行的第42張單曲。
 
 ## 解說
 
   - 與前作《[放浪榮耀
     ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")》相隔約2個月。為2013年第2彈單曲。
   - 以「CD+DVD」、「CD ONLY」两种版本发行。CD中收录两首歌曲及其伴奏。DVD收录A面曲的Video Clip。
-  - 標題曲為[日本電視台連續劇](../Page/日本電視台.md "wikilink")《[35歲的高中生](../Page/35歲的高中生.md "wikilink")》主題曲。
-  - B面曲為ATSUSHI的個人專輯《[Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》的大中華地區版本的特典，翻唱自[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[周杰倫的歌曲](../Page/周杰倫.md "wikilink")《[說了再見](https://zh.wikipedia.org/wiki/跨时代 "wikilink")》，日文版的標題為〈Real
+  - 標題曲為[日本電視台](../Page/日本電視台.md "wikilink")連續劇《[35歲的高中生](../Page/35歲的高中生.md "wikilink")》主題曲。
+  - B面曲為ATSUSHI的個人專輯《[Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")》的大中華地區版本的特典，翻唱自[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[周杰倫](../Page/周杰倫.md "wikilink")的歌曲《[說了再見](https://zh.wikipedia.org/wiki/跨时代 "wikilink")》，日文版的標題為〈Real
     Valentine〉，首次於日本國內發行。
 
 ## 發行版本

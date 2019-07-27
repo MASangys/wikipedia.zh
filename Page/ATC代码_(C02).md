@@ -75,7 +75,7 @@
     C02CA06
     [乌拉地尔](https://zh.wikipedia.org/wiki/乌拉地尔 "wikilink")（Urapidil）
 
-### C02CC [胍衍生物](../Page/胍.md "wikilink")（Guanidine derivatives）
+### C02CC [胍](../Page/胍.md "wikilink")衍生物（Guanidine derivatives）
 
   -
     C02CC01
@@ -111,7 +111,7 @@
     C02DB04
     [卡屈嗪](https://zh.wikipedia.org/wiki/卡屈嗪 "wikilink")（Cadralazine）
 
-### C02DC [嘧啶衍生物](../Page/嘧啶.md "wikilink")（Pyrimidine derivatives）
+### C02DC [嘧啶](../Page/嘧啶.md "wikilink")衍生物（Pyrimidine derivatives）
 
   -
     C02DC01 [米诺地尔](../Page/米诺地尔.md "wikilink")（Minoxidil）
@@ -135,13 +135,13 @@
   -
     C02KA01 [藜芦](https://zh.wikipedia.org/wiki/藜芦 "wikilink")（Veratrum）
 
-### C02KB [酪氨酸羟化酶抑制药](../Page/酪氨酸.md "wikilink")（Tyrosine hydroxylase inhibitors）
+### C02KB [酪氨酸](../Page/酪氨酸.md "wikilink")羟化酶抑制药（Tyrosine hydroxylase inhibitors）
 
   -
     C02KB01
     [甲酪氨酸](https://zh.wikipedia.org/wiki/甲酪氨酸 "wikilink")（Metirosine）
 
-### C02KC [单胺氧化酶抑制药](../Page/单胺氧化酶.md "wikilink")（MAO inhibitors）
+### C02KC [单胺氧化酶](../Page/单胺氧化酶.md "wikilink")抑制药（MAO inhibitors）
 
   -
     C02KC01

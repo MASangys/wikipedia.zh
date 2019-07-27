@@ -47,7 +47,7 @@
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
 <th><p>商业合作</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高位</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高位</p></th>
 </tr>
 </thead>
 <tbody>

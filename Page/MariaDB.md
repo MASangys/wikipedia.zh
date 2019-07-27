@@ -1,5 +1,5 @@
 **MariaDB**是[MySQL](../Page/MySQL.md "wikilink")[關聯式資料庫管理系統的一个](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件开发\) "wikilink")，由社区开发，有商业支持，旨在继续保持在[GNU
-GPL下](../Page/GNU通用公共许可证.md "wikilink")[开源](../Page/自由及开放源代码软件.md "wikilink")。MariaDB的开发是由MySQL的一些原始开发者领导的，他们担心[甲骨文公司收购MySQL后会有一些隐患](../Page/甲骨文公司.md "wikilink")。\[1\]
+GPL下](../Page/GNU通用公共许可证.md "wikilink")[开源](../Page/自由及开放源代码软件.md "wikilink")。MariaDB的开发是由MySQL的一些原始开发者领导的，他们担心[甲骨文公司](../Page/甲骨文公司.md "wikilink")收购MySQL后会有一些隐患。\[1\]
 
 MariaDB打算保持与MySQL的高度兼容性，确保具有库二进制奇偶校验的直接替换功能，以及与MySQL
 [API和命令的精确匹配](../Page/应用程序接口.md "wikilink")。\[2\]
@@ -10,7 +10,7 @@ MariaDB自带了一个新的[Aria](https://zh.wikipedia.org/wiki/Aria_\(storage_
 它的首席开发人员是[米卡埃爾·維德紐斯](../Page/米卡埃爾·維德紐斯.md "wikilink")，他是[MySQL
 AB的创始人之一](../Page/MySQL_AB.md "wikilink")，也是Monty Program
 AB的创始人。2008年1月16日，MySQL AB
-宣布它已经同意被[昇陽電腦集团以大约](../Page/昇陽電腦.md "wikilink")10亿美元的价格收购。该项收购已于2008年2月26日完成。MariaDB是以Monty的小女儿Maria命名的，就像MySQL是以他另一个女儿My命名的一样。\[6\]
+宣布它已经同意被[昇陽電腦](../Page/昇陽電腦.md "wikilink")集团以大约10亿美元的价格收购。该项收购已于2008年2月26日完成。MariaDB是以Monty的小女儿Maria命名的，就像MySQL是以他另一个女儿My命名的一样。\[6\]
 
 ## 版本
 

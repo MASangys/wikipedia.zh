@@ -1,5 +1,5 @@
 **大熊座VY**，又名**BD+68 617**，**HD 92839**、**SAO 15274**、**HR
-4195**，是[大熊座的一颗恒星](../Page/大熊座.md "wikilink")\[1\]\[2\]，视星等为6，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")139.59，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")45.41，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+4195**，是[大熊座](../Page/大熊座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")139.59，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")45.41，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

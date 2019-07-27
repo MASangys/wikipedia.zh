@@ -1,7 +1,7 @@
 **EasyInstall**
-是一個[Python語言的](../Page/Python.md "wikilink")[軟件包管理系統](https://zh.wikipedia.org/wiki/軟件包管理系統 "wikilink")
-。EasyInstall提供一個標準的分配Python軟件和 [函式庫的格式](../Page/函式庫.md "wikilink")。
-`easy_install`是一個附帶设置工具的模块，和一個[第三方函式庫](https://zh.wikipedia.org/wiki/第三方软件组件 "wikilink")。這樣是旨在加快Python函式庫的分配程式的速度。\[1\]這個程式類似用於[Ruby語言的](../Page/Ruby.md "wikilink")[RubyGems](../Page/RubyGems.md "wikilink")
+是一個[Python](../Page/Python.md "wikilink")語言的[軟件包管理系統](https://zh.wikipedia.org/wiki/軟件包管理系統 "wikilink")
+。EasyInstall提供一個標準的分配Python軟件和 [函式庫](../Page/函式庫.md "wikilink")的格式。
+`easy_install`是一個附帶设置工具的模块，和一個[第三方函式庫](https://zh.wikipedia.org/wiki/第三方软件组件 "wikilink")。這樣是旨在加快Python函式庫的分配程式的速度。\[1\]這個程式類似用於[Ruby](../Page/Ruby.md "wikilink")語言的[RubyGems](../Page/RubyGems.md "wikilink")
 。
 
 ## 參考

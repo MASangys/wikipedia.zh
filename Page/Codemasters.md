@@ -6,7 +6,7 @@ Masters**，是一間[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink"
 
 Codemasters以真实竞速类游戏出名，像《科林·麦克雷拉力赛》（Colin McRae
 Rally）系列及其衍变成的《尘埃》（DiRT）系列，还有《超级房车赛
-起点》（GRID）系列和自2008年起开始制作的[一级方程-{}-式赛事的授权游戏](../Page/一级方程式赛车.md "wikilink")。此外，Codemasters还负责[波希米亞互動工作室制作的第一人称射击游戏](../Page/波希米亞互動工作室.md "wikilink")《闪点行动》系列的发行工作。
+起点》（GRID）系列和自2008年起开始制作的[一级方程-{}-式赛事的授权游戏](../Page/一级方程式赛车.md "wikilink")。此外，Codemasters还负责[波希米亞互動工作室](../Page/波希米亞互動工作室.md "wikilink")制作的第一人称射击游戏《闪点行动》系列的发行工作。
 
 2009年由Asobo Studio制作并由Codemasters发行的沙箱类竞速游戏《》被吉尼斯世界纪录评为游戏地图最大的游戏。\[3\]
 

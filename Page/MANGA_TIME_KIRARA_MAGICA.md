@@ -1,5 +1,5 @@
 《**Manga Time Kirara
-Magica**》（）是[芳文社作為](../Page/芳文社.md "wikilink")《[Manga
+Magica**》（）是[芳文社](../Page/芳文社.md "wikilink")作為《[Manga
 Time Kirara
 Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》的增刊及姊妹誌發行，專門刊載《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》系列的外傳漫畫的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。原則上，在每雙數月的9日發售（有時會於8日或10日發售，月份期號則是下一個月，即單數月），在2017年3月號後改為不定期發行。版式是B5尺寸。
 
@@ -137,7 +137,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》的增刊及姊妹誌發
 
 ## 刊載作品單行本
 
-在上方具有（＊）之作品已經／將會發行單行本，由[芳文社Manga](../Page/芳文社.md "wikilink") Time KR
+在上方具有（＊）之作品已經／將會發行單行本，由[芳文社](../Page/芳文社.md "wikilink")Manga Time KR
 Comics出版發行。
 
   - 魔法少女小圓☆魔力

@@ -2,7 +2,7 @@
 -{H|zh-hans:反坦克炮;zh-hk:反戰車炮;zh-tw:戰防砲;}-
 
 **5cm Pak
-38（L/60）**是一個[納粹德國的](../Page/納粹德國.md "wikilink")50mm口徑的[反坦克炮](../Page/反坦克炮.md "wikilink")。它于1938年由萊茵金屬公司研發，並且繼任了原有的[3.7cm
+38（L/60）**是一個[納粹德國](../Page/納粹德國.md "wikilink")的50mm口徑的[反坦克炮](../Page/反坦克炮.md "wikilink")。它于1938年由萊茵金屬公司研發，並且繼任了原有的[3.7cm
 PaK 36反坦克炮](../Page/PaK_36反坦克炮.md "wikilink")，並且之後被[75mm PaK 40
 反坦克炮所替代](https://zh.wikipedia.org/wiki/Pak_40反坦克炮 "wikilink")。
 
@@ -15,8 +15,8 @@ Pak35/36在西班牙內戰期間被認為是較為成功的設計，但是，納
 ## 服役
 
 Pak
-38最開始由[納粹德國的](../Page/納粹德國.md "wikilink")[德意志國防軍陸軍于](../Page/德意志國防軍.md "wikilink")1941年4月使用。當納粹德國在1941年的[巴巴羅薩計劃面對蘇聯的鐵甲洪流的時候](https://zh.wikipedia.org/wiki/巴巴羅薩計劃 "wikilink")，PaK
-38是少有的幾種德軍的能夠貫穿[T-34坦克的](../Page/T-34坦克.md "wikilink")45mm裝甲的早期型火炮之一。這種火炮還配備了擁有堅硬的鎢心的“AP40”（Panzergranate
+38最開始由[納粹德國](../Page/納粹德國.md "wikilink")的[德意志國防軍](../Page/德意志國防軍.md "wikilink")陸軍于1941年4月使用。當納粹德國在1941年的[巴巴羅薩計劃面對蘇聯的鐵甲洪流的時候](https://zh.wikipedia.org/wiki/巴巴羅薩計劃 "wikilink")，PaK
+38是少有的幾種德軍的能夠貫穿[T-34坦克](../Page/T-34坦克.md "wikilink")的45mm裝甲的早期型火炮之一。這種火炮還配備了擁有堅硬的鎢心的“AP40”（Panzergranate
 40）鎢芯[穿甲弹](../Page/穿甲弹.md "wikilink")，它甚至有機會擊穿[KV-1重型坦克](../Page/KV-1坦克.md "wikilink")。儘管它之後被更加強力的武器所取代，但是，它仍然被使用到戰爭結束。
 
 Pak 38的運載車也被用於7.5cm Pak97/93和7.5cm Pak 50（f）火炮的運輸。

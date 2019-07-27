@@ -1,4 +1,4 @@
-****是一个计算[圆周率的](https://zh.wikipedia.org/wiki/圆周率 "wikilink")[计算机程序](../Page/计算机程序.md "wikilink")，最大精确到小数点以后的3200万位數。该程序采用[高斯-勒让德算法](../Page/高斯-勒让德算法.md "wikilink")，并且于1995年被日本[計算機科學家](https://zh.wikipedia.org/wiki/計算機科學家 "wikilink")[金田康正使用在](../Page/金田康正.md "wikilink")[Windows环境下计算出精确到](https://zh.wikipedia.org/wiki/Windows "wikilink")2<sup>32</sup>次方的圆周率。
+****是一个计算[圆周率的](https://zh.wikipedia.org/wiki/圆周率 "wikilink")[计算机程序](../Page/计算机程序.md "wikilink")，最大精确到小数点以后的3200万位數。该程序采用[高斯-勒让德算法](../Page/高斯-勒让德算法.md "wikilink")，并且于1995年被日本[計算機科學家](https://zh.wikipedia.org/wiki/計算機科學家 "wikilink")[金田康正](../Page/金田康正.md "wikilink")使用在[Windows环境下计算出精确到](https://zh.wikipedia.org/wiki/Windows "wikilink")2<sup>32</sup>次方的圆周率。
 
 ## 意义
 
@@ -13,7 +13,7 @@ PI的不实计算结果，使报告出的计算次数快于正常值。反对欺
 PI的改进版，采用[校验和以验证结果](https://zh.wikipedia.org/wiki/校验和 "wikilink")。然而，其它制造不正确或虚假的计算结果的方式的存在，提高了该程序作为超频基准测试的未来的的疑问。
 
 Super
-PI利用x86指令系统。这一系统可追溯到8086数学协同处理器的时代。在当时[3DNow\!与](../Page/3DNow!.md "wikilink")[Streaming
+PI利用x86指令系统。这一系统可追溯到8086数学协同处理器的时代。在当时[3DNow\!](../Page/3DNow!.md "wikilink")与[Streaming
 SIMD
 Extensions的发布而](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")80386、80486与Pentium过时的条件下有重要意义。
 

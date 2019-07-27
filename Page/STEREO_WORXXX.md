@@ -1,5 +1,5 @@
 《**STEREO
-WORXXX**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")13張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年3月7日發行。唱片公司為。
+WORXXX**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第13張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年3月7日發行。唱片公司為。
 
 ## 概要
 

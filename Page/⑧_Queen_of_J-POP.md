@@ -1,5 +1,5 @@
 《**⑧ Queen of
-J-POP**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")7枚原創專輯。於2013年9月4日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+J-POP**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第7枚原創專輯。於2013年9月4日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -49,7 +49,9 @@ J-POP**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute
 10. **我拿出全力的夜晚**（私が本気を出す夜）
     （作詞・作曲：淳君 編曲：[宅見将典](https://zh.wikipedia.org/wiki/宅見将典 "wikilink")）
 11. **[這條街](../Page/這條街.md "wikilink")**（この街）
-    （作詞：[齊藤英夫](https://zh.wikipedia.org/wiki/齊藤英夫 "wikilink")　作曲：[森高千里](https://zh.wikipedia.org/wiki/森高千里 "wikilink")　編曲：[齊藤英夫](https://zh.wikipedia.org/wiki/齊藤英夫 "wikilink")）
+    （作詞：[森高千里](https://zh.wikipedia.org/wiki/森高千里 "wikilink")
+    作曲：[齊藤英夫](https://zh.wikipedia.org/wiki/齊藤英夫 "wikilink")
+    編曲：平田祥一郎）
       -
         20th單曲
 

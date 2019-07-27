@@ -28,7 +28,7 @@ VS系列</p></td>
 
 飾演破裏劍紅的[塩谷瞬在拍攝當時左手骨折](https://zh.wikipedia.org/wiki/塩谷瞬 "wikilink")，因此劇情設定為左手負傷，故事尾聲時，才得以順理成章的包著繃帶演出。
 
-牙吠銀出場數少是因為[玉山鐵二檔期的緣故](../Page/玉山鐵二.md "wikilink")。飾演牙吠黑的[酒井一圭和飾演兜雷者的](https://zh.wikipedia.org/wiki/酒井一圭 "wikilink")[白川裕二郎皆曾為力士](https://zh.wikipedia.org/wiki/白川裕二郎 "wikilink")，片尾也有兩人較勁相撲的場面。
+牙吠銀出場數少是因為[玉山鐵二](../Page/玉山鐵二.md "wikilink")檔期的緣故。飾演牙吠黑的[酒井一圭和飾演兜雷者的](https://zh.wikipedia.org/wiki/酒井一圭 "wikilink")[白川裕二郎皆曾為力士](https://zh.wikipedia.org/wiki/白川裕二郎 "wikilink")，片尾也有兩人較勁相撲的場面。
 
 ## 人物
 

@@ -1,5 +1,5 @@
 《**MOON
-PRIDE**》是[桃色幸運草Z的第](../Page/桃色幸運草Z.md "wikilink")12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年7月30日由[Evil
+PRIDE**》是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年7月30日由[Evil
 Line
 Records發售](https://zh.wikipedia.org/wiki/Evil_Line_Records "wikilink")。
 

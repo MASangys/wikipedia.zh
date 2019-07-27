@@ -1,5 +1,5 @@
 **NET
-5**是[荷兰的一个商业性](../Page/荷兰.md "wikilink")[电视频道](https://zh.wikipedia.org/wiki/电视频道 "wikilink")，由[Sanoma](https://zh.wikipedia.org/wiki/Sanoma "wikilink")（67%）和塔尔珀传媒控股（33%）联合所有。集团在荷兰的其他频道有[SBS
+5**是[荷兰](../Page/荷兰.md "wikilink")的一个商业性[电视频道](https://zh.wikipedia.org/wiki/电视频道 "wikilink")，由[Sanoma](https://zh.wikipedia.org/wiki/Sanoma "wikilink")（67%）和塔尔珀传媒控股（33%）联合所有。集团在荷兰的其他频道有[SBS
 6和Veronica](../Page/SBS_6.md "wikilink")。
 
 ## 历史

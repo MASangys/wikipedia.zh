@@ -79,13 +79,13 @@ O3U-2/SU-2的外銷型
 ### 列寧號
 
 [Vought_V-65C1_Corsair_(2912367680).jpg](https://zh.wikipedia.org/wiki/File:Vought_V-65C1_Corsair_\(2912367680\).jpg "fig:Vought_V-65C1_Corsair_(2912367680).jpg")\]\]
-**[列寧号](https://zh.wikipedia.org/wiki/列寧号 "wikilink")**是[中国工农红军的第一架](../Page/中国工农红军.md "wikilink")[军用飞机](https://zh.wikipedia.org/wiki/军用飞机 "wikilink")，现存[河南](https://zh.wikipedia.org/wiki/河南 "wikilink")[信阳](https://zh.wikipedia.org/wiki/信阳 "wikilink")[鄂豫皖革命纪念馆](https://zh.wikipedia.org/wiki/鄂豫皖革命纪念馆 "wikilink")。
+**[列寧号](https://zh.wikipedia.org/wiki/列寧号 "wikilink")**是[中国工农红军](../Page/中国工农红军.md "wikilink")的第一架[军用飞机](https://zh.wikipedia.org/wiki/军用飞机 "wikilink")，现存[河南](https://zh.wikipedia.org/wiki/河南 "wikilink")[信阳](https://zh.wikipedia.org/wiki/信阳 "wikilink")[鄂豫皖革命纪念馆](https://zh.wikipedia.org/wiki/鄂豫皖革命纪念馆 "wikilink")。
 
 1930年3月16日，[國民政府軍政部航空署出動美製錢斯沃特](https://zh.wikipedia.org/wiki/國民黨 "wikilink")**O2U海盜式偵察機**從武漢起飛對中國工農紅軍作偵察任務，飛行員是龍文光上尉，但由於在回航時遇上大霧，龍文光駕機迫降在宣化店，他隨後被鄂豫皖紅軍第一師三團二營手槍連俘虜，之後龍文光願意加入紅軍，而這架O2U被改名為**列寧號**。
 
 ### 中日戰爭
 
-中國在[抗日戰爭前夕已購買了V](https://zh.wikipedia.org/wiki/抗日戰爭 "wikilink")-65（42架）和V-92（21架），此兩型皆被稱為新塞可，1936年[西安事變後一架V](https://zh.wikipedia.org/wiki/西安事變 "wikilink")-92負責接送中共代表[周恩來往返延安和西安之間](https://zh.wikipedia.org/wiki/周恩來 "wikilink")，1937年[七七事變引致中日戰爭並隨即發生](https://zh.wikipedia.org/wiki/七七事變 "wikilink")813[淞滬會戰](https://zh.wikipedia.org/wiki/淞滬會戰 "wikilink")，8月15日，中國空軍的V-65（O3U-2）偵察機隊也掛上炸彈和[A-16攻擊機隊一起轟炸駐上海日軍的公大紗廠](../Page/A-16攻擊機.md "wikilink")（已被日本人改為軍事基地）等軍事目標，之後又用於華北戰場，該年年底退出戰場，作為航校教練機使用
+中國在[抗日戰爭前夕已購買了V](https://zh.wikipedia.org/wiki/抗日戰爭 "wikilink")-65（42架）和V-92（21架），此兩型皆被稱為新塞可，1936年[西安事變後一架V](https://zh.wikipedia.org/wiki/西安事變 "wikilink")-92負責接送中共代表[周恩來往返延安和西安之間](https://zh.wikipedia.org/wiki/周恩來 "wikilink")，1937年[七七事變引致中日戰爭並隨即發生](https://zh.wikipedia.org/wiki/七七事變 "wikilink")813[淞滬會戰](https://zh.wikipedia.org/wiki/淞滬會戰 "wikilink")，8月15日，中國空軍的V-65（O3U-2）偵察機隊也掛上炸彈和[A-16攻擊機](../Page/A-16攻擊機.md "wikilink")隊一起轟炸駐上海日軍的公大紗廠（已被日本人改為軍事基地）等軍事目標，之後又用於華北戰場，該年年底退出戰場，作為航校教練機使用
 
 ## 使用國家
 

@@ -3,7 +3,7 @@
 
 ## 功能
 
-理论上看，正如其他散列算法一样，一个MD5哈希值可对应无限个文件，但从现实的角度看，两个不同的文件几乎不可能有相同的[MD5哈希值](../Page/MD5.md "wikilink")，除非其创建便是刻意为之。一般来说，任何对一个文件的非恶意变更都会导致其MD5哈希值改变，因此`md5sum`一般用于检查文件完整性，尤其常用于检测在文件传输、磁盘错误或其他无恶意涉入的情况下文件的正确性。
+理论上看，正如其他散列算法一样，一个MD5哈希值可对应无限个文件，但从现实的角度看，两个不同的文件几乎不可能有相同的[MD5](../Page/MD5.md "wikilink")哈希值，除非其创建便是刻意为之。一般来说，任何对一个文件的非恶意变更都会导致其MD5哈希值改变，因此`md5sum`一般用于检查文件完整性，尤其常用于检测在文件传输、磁盘错误或其他无恶意涉入的情况下文件的正确性。
 
 ## 隐患
 
@@ -11,8 +11,8 @@
 
 ## 分布
 
-在多数[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Linux与其他](../Page/Linux.md "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统或](../Page/操作系统.md "wikilink")[兼容层都默认安装了](../Page/兼容层.md "wikilink")`md5sum`工具，而其他操作系统（包括[Microsoft
-Windows与](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[BSD的变体](../Page/BSD.md "wikilink")[Mac
+在多数[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Linux](../Page/Linux.md "wikilink")与其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")或[兼容层](../Page/兼容层.md "wikilink")都默认安装了`md5sum`工具，而其他操作系统（包括[Microsoft
+Windows与](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[BSD](../Page/BSD.md "wikilink")的变体[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）也有相似的工具。在FreeBSD上，有同样功用的工具名为`md5`，但其亦带有额外的特性。
 

@@ -1,10 +1,10 @@
-是一部於1993年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[陳木勝和](../Page/陳木勝.md "wikilink")[杜琪峯分別擔任導演和監製](../Page/杜琪峯.md "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[吳倩蓮](../Page/吳倩蓮.md "wikilink")、[郭晉安和](../Page/郭晉安.md "wikilink")[黃秋生擔任主演](../Page/黃秋生.md "wikilink")，此電影為《天若有情三部曲系列》中的第二部。
+是一部於1993年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[陳木勝](../Page/陳木勝.md "wikilink")和[杜琪峯](../Page/杜琪峯.md "wikilink")分別擔任導演和監製，以及由[郭富城](../Page/郭富城.md "wikilink")、[吳倩蓮](../Page/吳倩蓮.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")和[黃秋生](../Page/黃秋生.md "wikilink")擔任主演，此電影為《天若有情三部曲系列》中的第二部。
 
 此電影在香港上映的天數和票房收入分別為21天和914萬，總票房排名第56位。
 
 ## 劇情內容
 
-小倩（[吳倩蓮飾](../Page/吳倩蓮.md "wikilink")）為救其弟而偷渡來港，在首次出賣肉體前，捲入黑幫仇殺，得飛車黨阿富（[郭富城飾](../Page/郭富城.md "wikilink")）所救。富生於富有但破碎的家庭，為人鬱鬱寡歡，但被小倩積極樂觀性格所啟發，正當墮入愛河之際，倩離開了富為免其受黑幫禍及，富卻無條件付上生命，最後勝出飛車比賽去送船途中不幸被黑幫手下所殺，老差骨標叔（[關海山飾](../Page/關海山.md "wikilink")）善意謊言之下送倩上船回鄉，帶著不能實現的願望回去。
+小倩（[吳倩蓮](../Page/吳倩蓮.md "wikilink")飾）為救其弟而偷渡來港，在首次出賣肉體前，捲入黑幫仇殺，得飛車黨阿富（[郭富城](../Page/郭富城.md "wikilink")飾）所救。富生於富有但破碎的家庭，為人鬱鬱寡歡，但被小倩積極樂觀性格所啟發，正當墮入愛河之際，倩離開了富為免其受黑幫禍及，富卻無條件付上生命，最後勝出飛車比賽去送船途中不幸被黑幫手下所殺，老差骨標叔（[關海山](../Page/關海山.md "wikilink")飾）善意謊言之下送倩上船回鄉，帶著不能實現的願望回去。
 
 ## 演員表
 
@@ -47,7 +47,7 @@
 
 ## 續集
 
-  - 1996年上映的《[天若有情III之烽火佳人](https://zh.wikipedia.org/wiki/天若有情III之烽火佳人 "wikilink")》，由[劉德華](../Page/劉德華.md "wikilink")、[吳倩蓮](../Page/吳倩蓮.md "wikilink")、[方中信等主演](../Page/方中信.md "wikilink")。
+  - 1996年上映的《[天若有情III之烽火佳人](https://zh.wikipedia.org/wiki/天若有情III之烽火佳人 "wikilink")》，由[劉德華](../Page/劉德華.md "wikilink")、[吳倩蓮](../Page/吳倩蓮.md "wikilink")、[方中信](../Page/方中信.md "wikilink")等主演。
 
 ## 參考資料
 

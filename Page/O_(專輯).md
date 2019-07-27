@@ -1,4 +1,4 @@
-**O**是[日本女子偶像樂團](../Page/日本.md "wikilink")[ZONE的第](../Page/ZONE.md "wikilink")2張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2002年11月27日發行。
+**O**是[日本](../Page/日本.md "wikilink")女子偶像樂團[ZONE](../Page/ZONE.md "wikilink")的第2張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2002年11月27日發行。
 
 ## 收錄曲目
 

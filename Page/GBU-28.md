@@ -1,5 +1,5 @@
 **GBU-28**（The Guided Bomb Unit
-28）是一款由[激光導誘的](../Page/激光.md "wikilink")“碉堡剋星”(Bunker
+28）是一款由[激光](../Page/激光.md "wikilink")導誘的“碉堡剋星”(Bunker
 buster)。
 
 ## 描述
@@ -15,6 +15,12 @@ F-15E进行了初始挂载测试，另一架F-111E进行带弹起飞着陆测试
 美國空軍於22日正式提出採購合約。23日，第三和第四枚炸弹壳运抵埃格林进行装药作业，并于27日“热腾腾”地正式出廠、由C-141空運到位于[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")[塔伊夫的沙漠風暴行動作戰區域準備參戰](https://zh.wikipedia.org/wiki/塔伊夫 "wikilink")。两架F-111F战机各挂载一枚炸弹，去巴格达西北约15英里处轰炸一座此前用F-117投掷GBU-27激光制导炸弹、在至少三次命中之后都没能摧毁的地下碉堡。领机认错目标投歪了炸弹，但第二枚炸弹成功地击穿地堡的钢筋混凝土外壳、炸死了里面所有人。这次攻击也意味着在地下建造碉堡的做法已不再安全。
 
 增強型的GBU-28增加了GPS制導系統輔助導引。\[2\]
+
+## 参见
+
+  - [GBU-43/B大型空爆炸弹](https://zh.wikipedia.org/wiki/GBU-43/B大型空爆炸弹 "wikilink")（炸弹之母）
+  - [传感器引爆武器](https://zh.wikipedia.org/wiki/传感器引爆武器 "wikilink")
+  - [集束炸弹](https://zh.wikipedia.org/wiki/集束炸弹 "wikilink")
 
 ## 注釋
 

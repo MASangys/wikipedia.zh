@@ -1,5 +1,5 @@
 《**洛克人EXE
-BEAST**》（）是[洛克人EXE系列的第四部電視動畫](../Page/洛克人EXE系列.md "wikilink")，在2005年10月1日到2006年4月1日期間播出共25集。香港[無線電視譯為](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《洛克人網路爭霸戰》在2008年7月19日在[TVB兒童台播放](../Page/TVB兒童台.md "wikilink")，2009年在[翡翠台播放時跟](../Page/翡翠台.md "wikilink")**《[洛克人EXE
+BEAST**》（）是[洛克人EXE系列](../Page/洛克人EXE系列.md "wikilink")的第四部電視動畫，在2005年10月1日到2006年4月1日期間播出共25集。香港[無線電視譯為](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《洛克人網路爭霸戰》在2008年7月19日在[TVB兒童台](../Page/TVB兒童台.md "wikilink")播放，2009年在[翡翠台](../Page/翡翠台.md "wikilink")播放時跟**《[洛克人EXE
 BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》**一起播放。
 
 ## 故事概要

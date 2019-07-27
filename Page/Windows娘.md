@@ -1,5 +1,5 @@
 **Windows娘**（，英文：Windows tan／Windows
-Girl）是對[微軟操作系統](https://zh.wikipedia.org/wiki/微軟 "wikilink")[萌擬人化卡通形象代言人的稱呼](../Page/萌擬人化.md "wikilink")。
+Girl）是對[微軟操作系統](https://zh.wikipedia.org/wiki/微軟 "wikilink")[萌擬人化](../Page/萌擬人化.md "wikilink")卡通形象代言人的稱呼。
 
 ## 背景
 
@@ -9,7 +9,7 @@ Windows 操作系統的萌擬人化卡通形象代言人：Win7
 娘[窗邊奈奈美](../Page/窗邊奈奈美.md "wikilink")（日文：窓辺ななみ）。之後微軟日本相繼推出了
 Win7 娘的官方主題和宣傳影像等。
 
-由於微軟日本官方的這一次大膽嘗試，加上[水樹奈奈親自爲](../Page/水樹奈奈.md "wikilink") Win7
+由於微軟日本官方的這一次大膽嘗試，加上[水樹奈奈](../Page/水樹奈奈.md "wikilink")親自爲 Win7
 娘配音，所以當時在日本獲得了極大的成功。從而使 Window 7 操作系統在以 Mac
 爲主流的日本銷售相當火爆。此後，微軟日本繼續加強二次元宣傳攻勢，於 2012 年 Windows 8
 操作系統發佈前夕，推出了 Win8

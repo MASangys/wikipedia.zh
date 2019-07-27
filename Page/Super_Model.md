@@ -1,5 +1,5 @@
 **《Super
-Model》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")9張個人音樂專輯，於2008年2月2日推出。
+Model》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡](../Page/鄭希怡.md "wikilink")的第9張個人音樂專輯，於2008年2月2日推出。
 
 ## 曲目列表
 

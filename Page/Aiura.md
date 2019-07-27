@@ -1,6 +1,6 @@
 [right](https://zh.wikipedia.org/wiki/file:Aiura.jpg "wikilink")
 
-《**Aiura**》（）為日本漫畫家[茶麻所繪製的](../Page/茶麻.md "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")。動畫於2013年4月起在[東京電視台播放](../Page/東京電視台.md "wikilink")\[1\]。
+《**Aiura**》（）為日本漫畫家[茶麻](../Page/茶麻.md "wikilink")所繪製的[四格漫畫](../Page/四格漫畫.md "wikilink")作品。動畫於2013年4月起在[東京電視台](../Page/東京電視台.md "wikilink")播放\[1\]。
 
 ## 概要
 

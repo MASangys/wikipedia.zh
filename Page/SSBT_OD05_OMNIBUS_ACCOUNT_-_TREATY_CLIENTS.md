@@ -1,16 +1,16 @@
 **SSBT OD05 OMNIBUS ACCOUNT - TREATY CLIENTS**（前稱：**SSBT OD05 OMNIBUS
 CHINA TREATY
-808150**）是一個神秘的\[1\]投資基金，其持有超過170間大型[日本上市公司的股票](../Page/日本.md "wikilink")\[2\]，並列名於這些公司的有價證券報告書中\[3\]。
+808150**）是一個神秘的\[1\]投資基金，其持有超過170間大型[日本](../Page/日本.md "wikilink")上市公司的股票\[2\]，並列名於這些公司的有價證券報告書中\[3\]。
 
 據媒體報導其幕後營運者為中國政府的[中國投資和](../Page/中国投资有限责任公司.md "wikilink")[国家外汇管理局](../Page/国家外汇管理局.md "wikilink")\[4\]\[5\]。該基金在每間公司的持股皆低於5%\[6\]，截至2012年，其在日本的總持股金額已經超過3兆5000億[日圓](../Page/日圓.md "wikilink")\[7\]。
 
 ## 概要
 
-该基金在日本的常任代理人最初為[三井住友銀行](../Page/三井住友銀行.md "wikilink")，2009年9月開始轉移至[香港上海滙豐銀行東京分行](../Page/香港上海滙豐銀行.md "wikilink")\[8\]其登記地址為[美國道富銀行](https://zh.wikipedia.org/wiki/美國道富銀行 "wikilink")（State
+该基金在日本的常任代理人最初為[三井住友銀行](../Page/三井住友銀行.md "wikilink")，2009年9月開始轉移至[香港上海滙豐銀行](../Page/香港上海滙豐銀行.md "wikilink")東京分行\[8\]其登記地址為[美國道富銀行](https://zh.wikipedia.org/wiki/美國道富銀行 "wikilink")（State
 Street Bank and Trus）澳洲分行管理部門所在的舊道富中心大樓（State Street
 Centre）\[9\]。而道富銀行的英文縮寫「SSBT」與基金名稱開頭的第一組字母相同。
 
-此外，[索尼在](../Page/索尼.md "wikilink")2011年的有價證券報告書中將SSBT OD05 OMNIBUS
+此外，[索尼](../Page/索尼.md "wikilink")在2011年的有價證券報告書中將SSBT OD05 OMNIBUS
 ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所持的股票，為該機構的股票名義持有人」\[10\]。
 
 ## 持有股票
@@ -803,7 +803,7 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 </tr>
 <tr class="even">
 <td><p>7202</p></td>
-<td><p><a href="../Page/五十鈴.md" title="wikilink">五十鈴自動車</a></p></td>
+<td><p><a href="../Page/五十鈴.md" title="wikilink">五十鈴</a>自動車</p></td>
 <td><p>運輸機械</p></td>
 <td><p>36518</p></td>
 <td><p>2.15</p></td>
@@ -1082,7 +1082,7 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 </tr>
 <tr class="odd">
 <td><p>8473</p></td>
-<td><p><a href="../Page/思佰益.md" title="wikilink">思佰益控股</a></p></td>
+<td><p><a href="../Page/思佰益.md" title="wikilink">思佰益</a>控股</p></td>
 <td><p>證券、商品期貨業</p></td>
 <td><p>266.751</p></td>
 <td><p>1.18</p></td>

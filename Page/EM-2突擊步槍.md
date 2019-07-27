@@ -4,12 +4,12 @@ rifle）是由移民到英國的[波蘭槍械設計師卡齊米日](https://zh.w
 
 ## 設計及歷史
 
-EM-2採用了[犢牛式佈局](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，並附有光學瞄準鏡，此在當代無疑是一種創新的設計。該槍發射以[7.92×33毫米作基礎的](https://zh.wikipedia.org/wiki/7.92×33mm "wikilink")[7×43毫米中間型威力槍彈](https://zh.wikipedia.org/wiki/7×43mm "wikilink")，並以20發[彈匣供彈](../Page/彈匣.md "wikilink")。EM-2在1951年起以實驗武器的名義少量在[英軍中服役](https://zh.wikipedia.org/wiki/英軍 "wikilink")，但後來基於[美國要求](https://zh.wikipedia.org/wiki/美國 "wikilink")[北約成員國以](https://zh.wikipedia.org/wiki/北約 "wikilink")[7.62×51毫米口徑的](../Page/7.62×51mm_NATO.md "wikilink")[戰鬥步槍作制式武器](https://zh.wikipedia.org/wiki/自動步槍 "wikilink")，其中英國採用了[FN
+EM-2採用了[犢牛式佈局](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，並附有光學瞄準鏡，此在當代無疑是一種創新的設計。該槍發射以[7.92×33毫米作基礎的](https://zh.wikipedia.org/wiki/7.92×33mm "wikilink")[7×43毫米中間型威力槍彈](https://zh.wikipedia.org/wiki/7×43mm "wikilink")，並以20發[彈匣](../Page/彈匣.md "wikilink")供彈。EM-2在1951年起以實驗武器的名義少量在[英軍中服役](https://zh.wikipedia.org/wiki/英軍 "wikilink")，但後來基於[美國要求](https://zh.wikipedia.org/wiki/美國 "wikilink")[北約成員國以](https://zh.wikipedia.org/wiki/北約 "wikilink")[7.62×51毫米口徑的](../Page/7.62×51mm_NATO.md "wikilink")[戰鬥步槍作制式武器](https://zh.wikipedia.org/wiki/自動步槍 "wikilink")，其中英國採用了[FN
 FAL](https://zh.wikipedia.org/wiki/FN_FAL "wikilink")（正式採用後命名為L1A1
 SLR，並只有半自動功能）。而EM-2到最後只生產了59支，在英軍列裝FN
 FAL後便漸漸的除役。儘管如此，EM-2的出現卻對日後的部份犢牛式步槍影響深遠，包括[英軍現在裝備的](https://zh.wikipedia.org/wiki/英軍 "wikilink")[SA80](https://zh.wikipedia.org/wiki/SA80 "wikilink")，其外型都是以EM-2作藍本。
 
-另外EM-2也曾在[加拿大生產並裝備](../Page/加拿大.md "wikilink")[加拿大軍隊](../Page/加拿大軍隊.md "wikilink")。
+另外EM-2也曾在[加拿大](../Page/加拿大.md "wikilink")生產並裝備[加拿大軍隊](../Page/加拿大軍隊.md "wikilink")。
 [British_Assault_Rifles_MOD_45162602.jpg](https://zh.wikipedia.org/wiki/File:British_Assault_Rifles_MOD_45162602.jpg "fig:British_Assault_Rifles_MOD_45162602.jpg")
 
 ## 口徑轉換

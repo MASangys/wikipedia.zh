@@ -1,5 +1,5 @@
 《**HEAVY
-GAUGE**》為[GLAY的第](../Page/GLAY.md "wikilink")5張原創專輯，於1999年10月20日發行。
+GAUGE**》為[GLAY](../Page/GLAY.md "wikilink")的第5張原創專輯，於1999年10月20日發行。
 
 ## 簡介
 

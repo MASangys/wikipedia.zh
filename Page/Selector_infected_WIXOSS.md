@@ -696,7 +696,7 @@ WIXOSS》於2016年2月13日公開決定，並在同年8月24放映。
 <td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>星期日 24時00分－24時30分</p></td>
 <td><p>衛星電視</p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 <td></td>
 </tr>

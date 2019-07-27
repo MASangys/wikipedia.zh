@@ -1,6 +1,6 @@
 **AMD
 Piledriver**（[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：“**AMD
-打樁機**”\[1\]）是[超微半導體研發](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[微處理器架構的代號](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，是為第一代[Bulldozer](../Page/AMD_Bulldozer.md "wikilink")[微架構的改進版](../Page/微架構.md "wikilink")。\[2\]\[3\]首發產品是2012年5月發布的基於Piledriver微架構的[AMD
+打樁機**”\[1\]）是[超微半導體研發](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[微處理器架構的代號](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，是為第一代[Bulldozer](../Page/AMD_Bulldozer.md "wikilink")[微架構](../Page/微架構.md "wikilink")的改進版。\[2\]\[3\]首發產品是2012年5月發布的基於Piledriver微架構的[AMD
 Fusion之流動版本A](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")10、A8系列（核心代號“[Trinity](../Page/三位一體.md "wikilink")”）。Piledriver在架構上不會與Bulldozer有太大的差別，而部分國外科技媒體則稱它為「New
 Stepping of
 Bulldozer」，是步進比較新的Bulldozer\[4\]。給人一種「只對耗電問題解決，並在某些方面的改良當中讓時脈變得更好提升。\[5\]
@@ -38,7 +38,7 @@ Bulldozer」，是步進比較新的Bulldozer\[4\]。給人一種「只對耗電
 
 ### 記憶體界面、晶片組、處理器插座、匯流排
 
-  - 仍然是內建[雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")[DDR3記憶體界面](https://zh.wikipedia.org/wiki/DDR3 "wikilink")，支援DDR3-800至2133的記憶體時鐘頻率規格，支援1.25V超低[電壓DDR](../Page/電壓.md "wikilink")3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")；企業級的處理器則最高支援[四通道DDR](https://zh.wikipedia.org/wiki/四通道 "wikilink")3，支援[ECC記憶體](https://zh.wikipedia.org/wiki/寄存式內存 "wikilink")；\[24\]\[25\]
+  - 仍然是內建[雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")[DDR3記憶體界面](https://zh.wikipedia.org/wiki/DDR3 "wikilink")，支援DDR3-800至2133的記憶體時鐘頻率規格，支援1.25V超低[電壓](../Page/電壓.md "wikilink")DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")；企業級的處理器則最高支援[四通道DDR](https://zh.wikipedia.org/wiki/四通道 "wikilink")3，支援[ECC記憶體](https://zh.wikipedia.org/wiki/寄存式內存 "wikilink")；\[24\]\[25\]
   - 消費級的[AMD FX系列沿用](../Page/AMD_FX.md "wikilink")[Socket
     AM3+插座](../Page/Socket_AM3+.md "wikilink")，沿用舊有的[900系列晶片組](../Page/AMD_900_芯片组系列.md "wikilink")；\[26\]\[27\]而基於Piledriver微架構的[AMD
     Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")
@@ -61,7 +61,7 @@ Bulldozer」，是步進比較新的Bulldozer\[4\]。給人一種「只對耗電
     7600D/G系列](../Page/AMD_Radeon_HD_7000.md "wikilink")，擁有128至384個流處理器，核心時鐘頻率為327MHz至492MHz，支援[DriectX
     11](../Page/DirectX.md "wikilink")、[OpenGL
     4.2](../Page/OpenGL.md "wikilink")、[OpenCL
-    1.1](../Page/OpenCL.md "wikilink")，支援[UVD3](../Page/UVD.md "wikilink")[高解析度視訊](https://zh.wikipedia.org/wiki/高清 "wikilink")[解碼](https://zh.wikipedia.org/wiki/解碼 "wikilink")、Eyefinity多屏顯示輸出、[DisplayPort
+    1.1](../Page/OpenCL.md "wikilink")，支援[UVD](../Page/UVD.md "wikilink")3[高解析度視訊](https://zh.wikipedia.org/wiki/高清 "wikilink")[解碼](https://zh.wikipedia.org/wiki/解碼 "wikilink")、Eyefinity多屏顯示輸出、[DisplayPort
     1.2規範等](../Page/DisplayPort.md "wikilink")\[32\]
 
 ## 處理器

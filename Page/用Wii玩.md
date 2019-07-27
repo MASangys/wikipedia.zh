@@ -1,4 +1,4 @@
-是任天堂为[Wii再开发的一系列](../Page/Wii.md "wikilink")[任天堂GameCube游戏](../Page/任天堂GameCube.md "wikilink")。用Wii游玩系列中的游戏做了若干强化，最知名的是用[Wii遥控器与](https://zh.wikipedia.org/wiki/Wii遥控器 "wikilink")[双截棍实现操作](https://zh.wikipedia.org/wiki/Nunchuk "wikilink")\[1\]，此外还有宽屏支持和强化图形\[2\]。
+是任天堂为[Wii](../Page/Wii.md "wikilink")再开发的一系列[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")游戏。用Wii游玩系列中的游戏做了若干强化，最知名的是用[Wii遥控器与](https://zh.wikipedia.org/wiki/Wii遥控器 "wikilink")[双截棍实现操作](https://zh.wikipedia.org/wiki/Nunchuk "wikilink")\[1\]，此外还有宽屏支持和强化图形\[2\]。
 
 ## 作品列表
 

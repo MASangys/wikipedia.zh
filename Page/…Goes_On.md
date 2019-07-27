@@ -1,5 +1,5 @@
 《**…Goes
-On**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄒文正的第三張迷你專輯](../Page/鄒文正.md "wikilink")（[EP](https://zh.wikipedia.org/wiki/EP "wikilink")），在2014年4月7日推出，專輯由[金牌大風製作發行](../Page/金牌大風.md "wikilink")，第一主打為《木偶》，而第二主打則為《爛笑話》。
+On**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄒文正](../Page/鄒文正.md "wikilink")的第三張迷你專輯（[EP](https://zh.wikipedia.org/wiki/EP "wikilink")），在2014年4月7日推出，專輯由[金牌大風](../Page/金牌大風.md "wikilink")製作發行，第一主打為《木偶》，而第二主打則為《爛笑話》。
 
 ## 曲目
 

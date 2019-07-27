@@ -1,4 +1,4 @@
-《**LOOSE**》是日本摇滚组合[B'z的第八张录音室专辑](../Page/B'z.md "wikilink")。1995年11月22日由[Rooms
+《**LOOSE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的第八张录音室专辑。1995年11月22日由[Rooms
 RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]，「B+U+M」解散後，B'z回歸的第一張專輯，從此張專輯開始，稻葉開始參與編曲，也是B'z出道至今最高銷量的錄音室專輯。
 最終銷量約300萬張，為日本最暢銷專輯第21名。
 

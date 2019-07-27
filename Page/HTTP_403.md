@@ -6,7 +6,7 @@ Code）。可以简单的理解为没有权限访问此站，服务器收到请�
 
 [English_Wikipedia_403_2017.jpg](https://zh.wikipedia.org/wiki/File:English_Wikipedia_403_2017.jpg "fig:English_Wikipedia_403_2017.jpg")上的错误信息\]\]
 
-下列非标准代码由[微软的](../Page/微软.md "wikilink")[網際網路資訊服務所返回](../Page/網際網路資訊服務.md "wikilink")，这些代码不被[IANA官方认可](https://zh.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority "wikilink")。
+下列非标准代码由[微软](../Page/微软.md "wikilink")的[網際網路資訊服務](../Page/網際網路資訊服務.md "wikilink")所返回，这些代码不被[IANA官方认可](https://zh.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority "wikilink")。
 
   - 403.1 - 禁止执行访问。
   - 403.2 - 禁止读取访问。

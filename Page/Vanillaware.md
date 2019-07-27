@@ -1,14 +1,14 @@
-**Vanillaware有限公司**（）是日本的[电脑游戏开发公司](../Page/电脑游戏.md "wikilink")。公司地址在[大阪市中央区](../Page/大阪市.md "wikilink")。2002年2月8日设立。
+**Vanillaware有限公司**（）是日本的[电脑游戏](../Page/电脑游戏.md "wikilink")开发公司。公司地址在[大阪市](../Page/大阪市.md "wikilink")中央区。2002年2月8日设立。
 
 ## 概要
 
-Vanillaware主要制作原创的[中世纪西欧风幻想世界为题材的](../Page/中世纪.md "wikilink")[ARPG作品](https://zh.wikipedia.org/wiki/ARPG "wikilink")。公司成员有众多2D图像点绘和动画设计师，作品中均展现出犹如可动绘本般美丽的世界。
+Vanillaware主要制作原创的[中世纪](../Page/中世纪.md "wikilink")西欧风幻想世界为题材的[ARPG作品](https://zh.wikipedia.org/wiki/ARPG "wikilink")。公司成员有众多2D图像点绘和动画设计师，作品中均展现出犹如可动绘本般美丽的世界。
 
 公司董事会代表和总经理神谷盛治曾说过“员工全部都是艺术家”，並就其幻想色彩浓厚的風格表示Vanillaware是“以此为目标的公司”。公司的名字定为冰淇淋常用口味[香草](../Page/香草.md "wikilink")，是因为含有“就像每年都会出的基本款冰淇淋一样制作固定类型的商品”的意思\[1\]。
 
 ## 公司设立
 
-Vanillaware原本是1997年登陆[世嘉土星平台的](../Page/世嘉土星.md "wikilink")[Atlus旗下游戏](../Page/Atlus.md "wikilink")《》的制作小组**Puraguru**\[2\]。在2002年2月，作为制作人的神谷盛治在为[史克威尔艾尼克斯制作](../Page/史克威尔艾尼克斯.md "wikilink")[PC](../Page/PC.md "wikilink")[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")《[幻想大陆](https://zh.wikipedia.org/wiki/幻想大陆 "wikilink")》时在东京招募开发人员并将Puraguru提升为工作室\[3\]，2004年，在神谷盛治离开《幻想大陆》制作组并决定制作《奥丁领域》的时候与原本5名同僚向大阪转移，并将公司名称改为Vanillaware\[4\]。
+Vanillaware原本是1997年登陆[世嘉土星](../Page/世嘉土星.md "wikilink")平台的[Atlus](../Page/Atlus.md "wikilink")旗下游戏《》的制作小组**Puraguru**\[2\]。在2002年2月，作为制作人的神谷盛治在为[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")制作[PC](../Page/PC.md "wikilink")[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")《[幻想大陆](https://zh.wikipedia.org/wiki/幻想大陆 "wikilink")》时在东京招募开发人员并将Puraguru提升为工作室\[3\]，2004年，在神谷盛治离开《幻想大陆》制作组并决定制作《奥丁领域》的时候与原本5名同僚向大阪转移，并将公司名称改为Vanillaware\[4\]。
 
 ## 公司成员
 
@@ -22,7 +22,7 @@ Onyx](https://zh.wikipedia.org/wiki/The_Black_Onyx "wikilink")）给他留下了
 参与了[Atlus](../Page/Atlus.md "wikilink"), 索尼电脑娱乐, [Square
 enix等公司的项目](../Page/史克威尔艾尼克斯.md "wikilink")，直到现在。
 
-他的作品主要以精致的图案与美丽的角色描写[中世纪西方的剑与魔法的奇幻世界](../Page/中世纪.md "wikilink")。然而，在[Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink")
+他的作品主要以精致的图案与美丽的角色描写[中世纪](../Page/中世纪.md "wikilink")西方的剑与魔法的奇幻世界。然而，在[Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink")
 时代，因为已经有大量的优秀的图形设计师,
 如akiman和西村绢，他认为“自己再画也没办法了”，于是他选择了做专职策划。“对于画的认识，在当时发生了可观的改变”。
 

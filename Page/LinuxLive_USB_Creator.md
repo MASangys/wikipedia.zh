@@ -1,5 +1,5 @@
 **LinuxLive USB
-Creator**是一个自由软件，支持创建多个[Linux发行版的Live](../Page/Linux发行版.md "wikilink")
+Creator**是一个自由软件，支持创建多个[Linux发行版](../Page/Linux发行版.md "wikilink")的Live
 USB系统。目前该软件只有[windows版本](https://zh.wikipedia.org/wiki/windows "wikilink")。
 
 ## 支持的操作系统

@@ -1,5 +1,5 @@
 《**Crazy
-Hours**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張智霖的粵語唱片](../Page/張智霖.md "wikilink")，於2014年7月4日推出，同時亦配合他於7月6-8日連開三場的“**張智霖
+Hours**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張智霖](../Page/張智霖.md "wikilink")的粵語唱片，於2014年7月4日推出，同時亦配合他於7月6-8日連開三場的“**張智霖
 Crazy Hours Live 2014**”紅館演唱會。
 
 ## 曲目資料

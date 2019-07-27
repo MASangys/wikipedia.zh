@@ -1,5 +1,5 @@
 《**超级街头霸王IV
-3D**》（，）是一款由[卡普空制作并发行在](../Page/卡普空.md "wikilink")[任天堂3DS上的](../Page/任天堂3DS.md "wikilink")《[快打旋風](https://zh.wikipedia.org/wiki/快打旋風系列 "wikilink")》系列作品。本作移植自卡普空于2010年4月发售的《》，并加入了一些针对任天堂3DS硬件独有的新游戏元素。《超级街头霸王IV
+3D**》（，）是一款由[卡普空](../Page/卡普空.md "wikilink")制作并发行在[任天堂3DS](../Page/任天堂3DS.md "wikilink")上的《[快打旋風](https://zh.wikipedia.org/wiki/快打旋風系列 "wikilink")》系列作品。本作移植自卡普空于2010年4月发售的《》，并加入了一些针对任天堂3DS硬件独有的新游戏元素。《超级街头霸王IV
 3D》是任天堂3DS在日、欧、美、澳等地区的首发游戏之一，也是卡普空用[MT Framework
 Mobile游戏引擎制作的第一款游戏](../Page/MT_Framework.md "wikilink")。本作在全球销量超过110万套\[1\]。
 

@@ -1,14 +1,14 @@
 **Here**（風格化'HERE'，1986 -
-2008年名爲**Navteq**（被諾基亞收購），2007－2011年更名為**Ovi地图**，2011－2012年名為**诺基亚地图**）\[1\]是一个曾由[诺基亚提供的](../Page/诺基亚.md "wikilink")[地图服务](../Page/地图.md "wikilink")，現為德國汽車廠商奥迪，BMW，戴姆勒合資持有。
+2008年名爲**Navteq**（被諾基亞收購），2007－2011年更名為**Ovi地图**，2011－2012年名為**诺基亚地图**）\[1\]是一个曾由[诺基亚](../Page/诺基亚.md "wikilink")提供的[地图](../Page/地图.md "wikilink")服务，現為德國汽車廠商奥迪，BMW，戴姆勒合資持有。
 
 HERE地图包括建筑、公园、交通等信息，同时提供到商业公司的导航，例如：[Garmin](https://zh.wikipedia.org/wiki/Garmin "wikilink")、[BMW](../Page/BMW.md "wikilink")、[亚马逊](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")、[甲骨文公司](../Page/甲骨文公司.md "wikilink")。
 
-此外，HERE地图不仅在诺基亚、[微軟Lumia手機上提供服务](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")，还能运行在其他操作系统上，包括[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android和](../Page/Android.md "wikilink")[Firefox
-OS](../Page/Firefox_OS.md "wikilink")\[2\]，和[BMW](../Page/BMW.md "wikilink")、[福特等廠牌的汽車車載系統](https://zh.wikipedia.org/wiki/福特 "wikilink")。Here地图提供[定位服务](https://zh.wikipedia.org/wiki/地理位置服务 "wikilink")、[地理信息系統和政府的解决方案](https://zh.wikipedia.org/wiki/地理信息系統 "wikilink")。通过[Bing](../Page/Bing.md "wikilink")，和[雅虎地圖提供电子地图](../Page/雅虎地圖.md "wikilink")。\[3\]\[4\]Here地图有200多个国家地图，在94个国家提供语音导航，在33个国家提供交通信息，在45个国家为49000特色建筑提供室内地图。\[5\]
+此外，HERE地图不仅在诺基亚、[微軟Lumia手機上提供服务](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")，还能运行在其他操作系统上，包括[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")和[Firefox
+OS](../Page/Firefox_OS.md "wikilink")\[2\]，和[BMW](../Page/BMW.md "wikilink")、[福特等廠牌的汽車車載系統](https://zh.wikipedia.org/wiki/福特 "wikilink")。Here地图提供[定位服务](https://zh.wikipedia.org/wiki/地理位置服务 "wikilink")、[地理信息系統和政府的解决方案](https://zh.wikipedia.org/wiki/地理信息系統 "wikilink")。通过[Bing](../Page/Bing.md "wikilink")，和[雅虎地圖](../Page/雅虎地圖.md "wikilink")提供电子地图。\[3\]\[4\]Here地图有200多个国家地图，在94个国家提供语音导航，在33个国家提供交通信息，在45个国家为49000特色建筑提供室内地图。\[5\]
 
 ## 历史
 
-诺基亚开展自己的地图和位置业务已经超过10年，收购了定位技术。开始于2001年。「HERE地图」基于Smart2Go（一个3D地图），通过移动设备获取旅游信息。它是由欧盟财团（）获授权的软件<small>（名為「」）</small>，2006年8月，</small>它收购了側重[柏林的路线规划软件公司](../Page/柏林.md "wikilink")「」。\[6\]；这已成为公司的测绘业务的基石，\[7\]並開放Smart2Go免费下载。\[8\]\[9\]\[10\]\[11\]\[12\]
+诺基亚开展自己的地图和位置业务已经超过10年，收购了定位技术。开始于2001年。「HERE地图」基于Smart2Go（一个3D地图），通过移动设备获取旅游信息。它是由欧盟财团（）获授权的软件<small>（名為「」）</small>，2006年8月，</small>它收购了側重[柏林](../Page/柏林.md "wikilink")的路线规划软件公司「」。\[6\]；这已成为公司的测绘业务的基石，\[7\]並開放Smart2Go免费下载。\[8\]\[9\]\[10\]\[11\]\[12\]
 
 2007年10月，诺基亚收购了總部位於芝加哥的\[13\]\[14\]\[15\]\[16\]。NAVTEQ公司是最大的汽车自动导航地图数据制作公司。这次收购带给诺基亚25年制作自动导航内容的经验和在自动工业的一席之地。
 
@@ -79,14 +79,14 @@ store上架。
 
 ### HTML5和Firefox OS
 
-2013年2月，[Mozilla展示了旗下操作系统Firefox](../Page/Mozilla.md "wikilink")
+2013年2月，[Mozilla](../Page/Mozilla.md "wikilink")展示了旗下操作系统Firefox
 OS并宣布这个新平台将使用Here地图及其导航服务。\[33\]
 
 ### Here.com网站
 
 Here.com网站的前身是maps.ovi.com。maps.nokia.com网站提供网上HERE地图。它在能所有主要網頁浏览器使用（但不支持[Internet
 Explorer
-6](../Page/Internet_Explorer_6.md "wikilink")）。用户能够管理他们收藏的最喜欢的地方并同步到移动设备。Here.com還使用[WebGL技术提供](../Page/WebGL.md "wikilink")3D地图（不需要插件）。3D眼镜用户能够浏览25个城市实体镜视图。Here.com提供很多城市街道具体平面成像。\[34\]
+6](../Page/Internet_Explorer_6.md "wikilink")）。用户能够管理他们收藏的最喜欢的地方并同步到移动设备。Here.com還使用[WebGL](../Page/WebGL.md "wikilink")技术提供3D地图（不需要插件）。3D眼镜用户能够浏览25个城市实体镜视图。Here.com提供很多城市街道具体平面成像。\[34\]
 Here.com网站提供下列服務：
 
   - 各地点间路线。

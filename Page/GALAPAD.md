@@ -1,4 +1,4 @@
-**GALAPAD**是[影馳科技推出的](../Page/影馳科技.md "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。
+**GALAPAD**是[影馳科技](../Page/影馳科技.md "wikilink")推出的[平板電腦](../Page/平板電腦.md "wikilink")。
 
 ## 參考鏈接
 

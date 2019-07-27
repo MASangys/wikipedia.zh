@@ -1,7 +1,7 @@
-《**S-終極警官**》（）為[日本的漫畫作品](../Page/日本.md "wikilink")，原作為[小森陽一](../Page/小森陽一.md "wikilink")，漫畫為[藤堂裕所作](https://zh.wikipedia.org/wiki/藤堂裕 "wikilink")。於2009年開始於[小學館的](../Page/小學館.md "wikilink")《[Big
+《**S-終極警官**》（）為[日本](../Page/日本.md "wikilink")的漫畫作品，原作為[小森陽一](../Page/小森陽一.md "wikilink")，漫畫為[藤堂裕所作](https://zh.wikipedia.org/wiki/藤堂裕 "wikilink")。於2009年開始於[小學館](../Page/小學館.md "wikilink")的《[Big
 Comic](../Page/Big_Comic.md "wikilink")》開始連載，至2013年10月已經發行11本單行本。描寫警察廳特殊部隊NPS及警視廳特殊部隊SAT打擊犯罪的故事。
 
-2014年1月由日本[TBS電視台改編為連續劇](../Page/TBS電視台.md "wikilink")\[1\]。
+2014年1月由日本[TBS電視台](../Page/TBS電視台.md "wikilink")改編為連續劇\[1\]。
 
 ## 劇情簡介
 
@@ -89,24 +89,24 @@ Comic](../Page/Big_Comic.md "wikilink")》開始連載，至2013年10月已經�
 ## 電視劇
 
 《S
--終極警官-》為[日本](../Page/日本.md "wikilink")[TBS電視台改編自漫畫的電視連續劇](../Page/TBS電視台.md "wikilink")，於2014年1月12日開始於[日曜劇場](https://zh.wikipedia.org/wiki/日曜劇場 "wikilink")（21:00
+-終極警官-》為[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")改編自漫畫的電視連續劇，於2014年1月12日開始於[日曜劇場](https://zh.wikipedia.org/wiki/日曜劇場 "wikilink")（21:00
 -
-21:54，[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播出。由[向井理主演](../Page/向井理.md "wikilink")\[3\]。
+21:54，[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播出。由[向井理](../Page/向井理.md "wikilink")主演\[3\]。
 
 ### 背景
 
 曾於2012年夏季主演周日劇場《[Summer
-Rescue〜天空的診療所〜](https://zh.wikipedia.org/wiki/Summer_Rescue〜天空的診療所〜 "wikilink")》的向井理與曾於2013年春季演出周日劇場《[飛翔公關室](../Page/飛翔公關室.md "wikilink")》的綾野剛，本次作為兩個立場不同的特殊刑警，一個以活捉犯人為目標的NPS隊員，另一個不顧犯人生死的壓制犯人的SAT，兩人將在劇中發生多次衝突\[4\]。[土屋安娜曾演出多部電影](../Page/土屋安娜.md "wikilink")，此次是她首次演出電視連續劇\[5\]。
+Rescue〜天空的診療所〜](https://zh.wikipedia.org/wiki/Summer_Rescue〜天空的診療所〜 "wikilink")》的向井理與曾於2013年春季演出周日劇場《[飛翔公關室](../Page/飛翔公關室.md "wikilink")》的綾野剛，本次作為兩個立場不同的特殊刑警，一個以活捉犯人為目標的NPS隊員，另一個不顧犯人生死的壓制犯人的SAT，兩人將在劇中發生多次衝突\[4\]。[土屋安娜](../Page/土屋安娜.md "wikilink")曾演出多部電影，此次是她首次演出電視連續劇\[5\]。
 
 本作的主題曲〈我是天馬座
-你是北極星〉（）由[MISIA演唱](../Page/MISIA.md "wikilink")，其亦曾在4年前周日劇場的日劇《[仁者俠醫](../Page/仁者俠醫.md "wikilink")》中負責演唱主題曲，MISIA將以其富有力量的歌聲以及富含情緒的旋律將連續劇的世界觀傳達出來\[6\]。
+你是北極星〉（）由[MISIA](../Page/MISIA.md "wikilink")演唱，其亦曾在4年前周日劇場的日劇《[仁者俠醫](../Page/仁者俠醫.md "wikilink")》中負責演唱主題曲，MISIA將以其富有力量的歌聲以及富含情緒的旋律將連續劇的世界觀傳達出來\[6\]。
 
 ### 簡介
 
 為了守護日本的治安，警視廳成立了特殊部隊的SAT、SIT，2014年成立了以活捉犯人為目的的第三個「S」被俗稱為「NPS」的警察廳特殊急襲捜査班（National
 Police Safetyrescue）本劇為有著「守護之手」之稱的主角神御藏一號的故事。
 
-[廣告標語為](../Page/廣告標語.md "wikilink")「抱著傷痛，讓守護的力量變強――」（）。
+[廣告標語](../Page/廣告標語.md "wikilink")為「抱著傷痛，讓守護的力量變強――」（）。
 
 ### 播出
 

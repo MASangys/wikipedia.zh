@@ -681,7 +681,7 @@ RIAJ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>我們不是相愛過嗎<br />
-<small>(與<a href="../Page/Davichi.md" title="wikilink">Davichi合唱</a>)</small></p></td>
+<small>(與<a href="../Page/Davichi.md" title="wikilink">Davichi</a>合唱)</small></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
@@ -863,14 +863,14 @@ Gaon</a></small><br />
 </tr>
 <tr class="even">
 <td><p>女性時代/永遠的愛<br />
-<small>(與Seeya及<a href="../Page/Davichi.md" title="wikilink">Davichi合唱</a>)</small></p></td>
+<small>(與Seeya及<a href="../Page/Davichi.md" title="wikilink">Davichi</a>合唱)</small></p></td>
 <td><p>2009</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
 <td><p>Wonder Woman<br />
-<small>(與Seeya及<a href="../Page/Davichi.md" title="wikilink">Davichi合唱</a>)</small></p></td>
+<small>(與Seeya及<a href="../Page/Davichi.md" title="wikilink">Davichi</a>合唱)</small></p></td>
 <td><p>2010</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -884,14 +884,14 @@ Gaon</a></small><br />
 </tr>
 <tr class="odd">
 <td><p>Bikini(feat.Skull)<br />
-<small>(與<a href="../Page/Davichi.md" title="wikilink">Davichi合唱</a>)</small></p></td>
+<small>(與<a href="../Page/Davichi.md" title="wikilink">Davichi</a>合唱)</small></p></td>
 <td><p>20</p></td>
 <td><p>11</p></td>
 <td><p>Bikini*</p></td>
 </tr>
 <tr class="even">
 <td><p>Little Apple<br />
-<small>(與<a href="../Page/筷子兄弟.md" title="wikilink">筷子兄弟合唱</a>)</small></p></td>
+<small>(與<a href="../Page/筷子兄弟.md" title="wikilink">筷子兄弟</a>合唱)</small></p></td>
 <td><p>2014</p></td>
 <td><p>91</p></td>
 <td><p>—</p></td>

@@ -1,5 +1,5 @@
 《**I'll Be Loving
-You**》是[香港歌手](../Page/香港.md "wikilink")[梁詠琪的第六張個人唱片](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")，於1998年11月26日推出。
+You**》是[香港](../Page/香港.md "wikilink")歌手[梁詠琪的第六張個人唱片](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")，於1998年11月26日推出。
 
 ## 曲目資料
 

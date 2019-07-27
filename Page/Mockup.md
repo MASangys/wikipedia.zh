@@ -1,7 +1,7 @@
 [Space_Shuttle_America.jpg](https://zh.wikipedia.org/wiki/File:Space_Shuttle_America.jpg "fig:Space_Shuttle_America.jpg")
 [CCC-Google_StreetView_Attrappe_-_FSA09.jpg](https://zh.wikipedia.org/wiki/File:CCC-Google_StreetView_Attrappe_-_FSA09.jpg "fig:CCC-Google_StreetView_Attrappe_-_FSA09.jpg")車的mockup\]\]
 
-在[製造及](https://zh.wikipedia.org/wiki/製造 "wikilink")[設計上](../Page/設計.md "wikilink")，**mockup**是一個設計或是設備的[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")，用來教學、展示、設計評估、推廣或是其他用途，可以是[比例模型或和實物一様大的模型](../Page/比例模型.md "wikilink")。若mockup已有系統一部份的功能，已可以測試其設計，則稱為[原型](../Page/原型_\(工程\).md "wikilink")（prototype）\[1\]。設計者會用mockup來收集使用者的意見及回饋。mockup表示了一個流行的工程概念：設計者可以在繪圖板上用橡皮擦直接修改設計，也可以晚一點用錘子直接修正\[2\]。
+在[製造及](https://zh.wikipedia.org/wiki/製造 "wikilink")[設計](../Page/設計.md "wikilink")上，**mockup**是一個設計或是設備的[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")，用來教學、展示、設計評估、推廣或是其他用途，可以是[比例模型](../Page/比例模型.md "wikilink")或和實物一様大的模型。若mockup已有系統一部份的功能，已可以測試其設計，則稱為[原型](../Page/原型_\(工程\).md "wikilink")（prototype）\[1\]。設計者會用mockup來收集使用者的意見及回饋。mockup表示了一個流行的工程概念：設計者可以在繪圖板上用橡皮擦直接修改設計，也可以晚一點用錘子直接修正\[2\]。
 
 ## 應用
 

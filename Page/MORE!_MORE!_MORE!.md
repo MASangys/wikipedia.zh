@@ -1,5 +1,5 @@
 《**MORE\! MORE\!
-MORE\!**》是日本音樂組合[CAPSULE所推出的第](../Page/CAPSULE.md "wikilink")10張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於\[2008年11月19日發行。唱片公司為。
+MORE\!**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")所推出的第10張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於\[2008年11月19日發行。唱片公司為。
 
 ## 概要
 

@@ -1,5 +1,5 @@
 《**LEVEL
-4**》为[T.M.Revolution在](../Page/T.M.Revolution.md "wikilink")1997年4月21日发行的第四张单曲。销售方为索尼音乐娱乐(Sony
+4**》为[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1997年4月21日发行的第四张单曲。销售方为索尼音乐娱乐(Sony
 Music Entertainment (Japan) )。
 
 ## 概要

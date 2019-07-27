@@ -1,4 +1,4 @@
-電子遊戲《[最終幻想](https://zh.wikipedia.org/wiki/最終幻想_\(遊戲\) "wikilink")》和《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》的音樂由系列長期作曲者[植松伸夫譜曲](../Page/植松伸夫.md "wikilink")，他之後又為其他7部最終幻想遊戲譜曲。雖然兩部遊戲是分開譜曲的，但其經常一起發行。合輯《最終幻想I·II全曲集》收錄了兩部遊戲幾乎全部的音樂，其由DataM/Polystar於1989莫阿米發行，後來又由[NTT出版於](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1994年再版。《交響組曲最終幻想》收錄[服部克久與其子服部隆之前兩部遊戲的](../Page/服部克久.md "wikilink")[改編樂](https://zh.wikipedia.org/wiki/改編 "wikilink")，由DataM於1989年發行，後於1994年由NTT出版/Polystar再版。另一個改編專輯《最終幻想I·II原聲音樂》由植松伸夫和[關戶剛所做](../Page/關戶剛.md "wikilink")，由[DigiCube於](../Page/DigiCube.md "wikilink")2002年發行，[史克威爾艾尼克斯於](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")2004年再次發行。
+電子遊戲《[最終幻想](https://zh.wikipedia.org/wiki/最終幻想_\(遊戲\) "wikilink")》和《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》的音樂由系列長期作曲者[植松伸夫](../Page/植松伸夫.md "wikilink")譜曲，他之後又為其他7部最終幻想遊戲譜曲。雖然兩部遊戲是分開譜曲的，但其經常一起發行。合輯《最終幻想I·II全曲集》收錄了兩部遊戲幾乎全部的音樂，其由DataM/Polystar於1989莫阿米發行，後來又由[NTT出版於](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")1994年再版。《交響組曲最終幻想》收錄[服部克久](../Page/服部克久.md "wikilink")與其子服部隆之前兩部遊戲的[改編樂](https://zh.wikipedia.org/wiki/改編 "wikilink")，由DataM於1989年發行，後於1994年由NTT出版/Polystar再版。另一個改編專輯《最終幻想I·II原聲音樂》由植松伸夫和[關戶剛](../Page/關戶剛.md "wikilink")所做，由[DigiCube](../Page/DigiCube.md "wikilink")於2002年發行，[史克威爾艾尼克斯於](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")2004年再次發行。
 
 音樂獲得媒體好評；評論通常稱讚原版音樂的質量和力量，改變樂曲也獲得良好反響。《主題曲》和《馬托婭的洞窟》等曲目直到今天還依然受歡迎，在管絃音樂會上多次演出，並收錄於史克威爾艾尼克斯內外出版的改編專輯與合輯中。
 
@@ -20,7 +20,7 @@ Online的尼克稱專輯是“慢慢品味才能喜歡上”，並主要將其�
 
 ## 交響組曲最終幻想
 
-《交響組曲最終幻想》（）專輯收錄了《最終幻想》和《最終幻想II》音樂的改編曲，音樂由植松伸夫譜曲，[服部克久與其子服部隆之改編](../Page/服部克久.md "wikilink")，並由[東京交響樂團演奏](https://zh.wikipedia.org/wiki/東京交響樂團 "wikilink")\[12\]。其收錄7首曲目計算39分49秒。专辑由DataM于1989年7月25日首發，後於1994年3月25日由NTT出版社/Polystar再版。原版專輯目錄號為H28X-10007，再版專輯目錄號為PSCR-5253\[13\]。音樂本身東京交響樂團在東京品川臨時大廳音樂會的錄音\[14\]。
+《交響組曲最終幻想》（）專輯收錄了《最終幻想》和《最終幻想II》音樂的改編曲，音樂由植松伸夫譜曲，[服部克久](../Page/服部克久.md "wikilink")與其子服部隆之改編，並由[東京交響樂團演奏](https://zh.wikipedia.org/wiki/東京交響樂團 "wikilink")\[12\]。其收錄7首曲目計算39分49秒。专辑由DataM于1989年7月25日首發，後於1994年3月25日由NTT出版社/Polystar再版。原版專輯目錄號為H28X-10007，再版專輯目錄號為PSCR-5253\[13\]。音樂本身東京交響樂團在東京品川臨時大廳音樂會的錄音\[14\]。
 
 《交響組曲最終幻想》獲得非常好的評論，帕特里克·江恩稱“音樂本身是接觸的”，“重編是絕妙的”，他還稱音樂不僅本身令人懷舊，還把合唱團和配樂結合起來\[15\]。Square
 Enix Music
@@ -31,7 +31,7 @@ Central的艾萨克·恩格尔霍恩也很喜歡專輯，稱其是“精彩”�
 
 ## 最終幻想I·II原聲音樂
 
-《最終幻想I·II原聲音樂》（）是遊戲[PlayStation版](../Page/PlayStation.md "wikilink")《[最终幻想I·II珍藏包](https://zh.wikipedia.org/wiki/最终幻想I·II珍藏包 "wikilink")》的原聲專輯。原聲收錄原版音樂因PlayStation聲音機能提升而重編的樂曲。曲目由植松伸夫譜寫，並由植松和[關戶剛重編](../Page/關戶剛.md "wikilink")。專輯收錄兩碟65首曲目，記1小時42分30秒。專輯由DigiCube於2002年10月23日首發，後由史克威爾艾尼克斯於2004年9月23日再版。原版目錄號為SSCX-10071\~2，再版目錄號為SQEX-10032\~3。首張碟片收錄植松伸夫為《最終幻想》重編的音樂，第二張碟片收錄關戶剛為《最終幻想II》重編的音樂\[19\]。
+《最終幻想I·II原聲音樂》（）是遊戲[PlayStation](../Page/PlayStation.md "wikilink")版《[最终幻想I·II珍藏包](https://zh.wikipedia.org/wiki/最终幻想I·II珍藏包 "wikilink")》的原聲專輯。原聲收錄原版音樂因PlayStation聲音機能提升而重編的樂曲。曲目由植松伸夫譜寫，並由植松和[關戶剛](../Page/關戶剛.md "wikilink")重編。專輯收錄兩碟65首曲目，記1小時42分30秒。專輯由DigiCube於2002年10月23日首發，後由史克威爾艾尼克斯於2004年9月23日再版。原版目錄號為SSCX-10071\~2，再版目錄號為SQEX-10032\~3。首張碟片收錄植松伸夫為《最終幻想》重編的音樂，第二張碟片收錄關戶剛為《最終幻想II》重編的音樂\[19\]。
 
 《最終幻想I·II原聲音樂》獲得好評並登上日本[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")87位，Square
 Enix Music Online的盧斯卡稱讚了關戶剛在編曲方面的影響，並將專輯推薦給最終幻想鐵杆愛好者\[20\]\[21\] 。

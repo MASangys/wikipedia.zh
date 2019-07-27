@@ -1,5 +1,5 @@
 **John Park**（，），全名**John Andrew
-Park**，本名**朴成奎**（），是一位美籍[韓裔](https://zh.wikipedia.org/wiki/韓裔 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")。他在2010年參加《[美國偶像](../Page/美國偶像.md "wikilink")》[第9季入選準決賽](https://zh.wikipedia.org/wiki/美國偶像_\(第九季\) "wikilink")，排名第二十；也在[Mnet媒體的音樂選秀節目](../Page/Mnet媒體.md "wikilink")《[Superstar
+Park**，本名**朴成奎**（），是一位美籍[韓裔](https://zh.wikipedia.org/wiki/韓裔 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")。他在2010年參加《[美國偶像](../Page/美國偶像.md "wikilink")》[第9季入選準決賽](https://zh.wikipedia.org/wiki/美國偶像_\(第九季\) "wikilink")，排名第二十；也在[Mnet媒體](../Page/Mnet媒體.md "wikilink")的音樂選秀節目《[Superstar
 K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞軍，並簽約為旗下歌手\[1\]。
 
 ## 音樂作品
@@ -195,7 +195,8 @@ K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞
   - 2017年：O'live 和 tvN《[岛剑客](../Page/岛剑客.md "wikilink")》13-17集
   - 2018年：[Netflix](../Page/Netflix.md "wikilink") 《Busted\!
     [明星來解謎](../Page/明星來解謎.md "wikilink") 》EP6 飾演 天才偵探團的偵探
-  - 2019: tvN 《在當地也吃的開嗎？美國篇》全集
+  - 2019: tvN 《[在當地吃得開嗎 (第三季)](../Page/在當地吃得開嗎_\(第三季\).md "wikilink")
+    美國篇》全集
 
 ## 獎項
 

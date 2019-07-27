@@ -1,7 +1,7 @@
 [TV_Chosun_logo_(hangul).svg](https://zh.wikipedia.org/wiki/File:TV_Chosun_logo_\(hangul\).svg "fig:TV_Chosun_logo_(hangul).svg")
 **TV
-Chosun**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****）為[大韓民國的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[綜編頻道](https://zh.wikipedia.org/wiki/綜編頻道 "wikilink")，正式名称为**朝鲜放送**（），與[MBN](https://zh.wikipedia.org/wiki/MBN "wikilink")、[JTBC和](../Page/JTBC.md "wikilink")[Channel
-A並列為大韓民國](../Page/Channel_A.md "wikilink")[綜合編成頻道四社](../Page/綜合編成頻道.md "wikilink")。主要擁有者為《[朝鮮日報](../Page/朝鮮日報.md "wikilink")》。
+Chosun**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****）為[大韓民國的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[綜編頻道](https://zh.wikipedia.org/wiki/綜編頻道 "wikilink")，正式名称为**朝鲜放送**（），與[MBN](https://zh.wikipedia.org/wiki/MBN "wikilink")、[JTBC](../Page/JTBC.md "wikilink")和[Channel
+A並列為大韓民國](../Page/Channel_A.md "wikilink")[綜合編成頻道](../Page/綜合編成頻道.md "wikilink")四社。主要擁有者為《[朝鮮日報](../Page/朝鮮日報.md "wikilink")》。
 
 ## 歷史
 

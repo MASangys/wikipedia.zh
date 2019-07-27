@@ -1,4 +1,4 @@
-《**Honey**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融的第四張音樂專輯](../Page/鄭融.md "wikilink")，於2006年11月9日推出。這亦是她轉投[東亞唱片後首張推出的唱片](../Page/東亞唱片_\(集團\).md "wikilink")。
+《**Honey**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融](../Page/鄭融.md "wikilink")的第四張音樂專輯，於2006年11月9日推出。這亦是她轉投[東亞唱片後首張推出的唱片](../Page/東亞唱片_\(集團\).md "wikilink")。
 
 ## 曲目資料
 

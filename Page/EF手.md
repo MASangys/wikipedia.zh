@@ -1,8 +1,8 @@
-**EF手**（）是一种在[钙结合蛋白中发现的](https://zh.wikipedia.org/wiki/钙结合蛋白 "wikilink")[螺旋-环-螺旋](../Page/碱性螺旋-环-螺旋.md "wikilink")[结构域或](../Page/结构域.md "wikilink")[结构基序](https://zh.wikipedia.org/wiki/结构基序 "wikilink")。
+**EF手**（）是一种在[钙结合蛋白中发现的](https://zh.wikipedia.org/wiki/钙结合蛋白 "wikilink")[螺旋-环-螺旋](../Page/碱性螺旋-环-螺旋.md "wikilink")[结构域](../Page/结构域.md "wikilink")或[结构基序](https://zh.wikipedia.org/wiki/结构基序 "wikilink")。
 
-EF手包括一个螺旋-环-螺旋拓扑结构，就像人类的手上拇指和食指，而Ca<sup>2+</sup>离子与其[配体就位于环内](https://zh.wikipedia.org/wiki/配体 "wikilink")。这一[结构最早在](https://zh.wikipedia.org/wiki/结构基序 "wikilink")中发现，小清蛋白含有三个EF手结构，与钙离子结合而造成的[肌肉放松有关](../Page/肌肉.md "wikilink")。
+EF手包括一个螺旋-环-螺旋拓扑结构，就像人类的手上拇指和食指，而Ca<sup>2+</sup>离子与其[配体就位于环内](https://zh.wikipedia.org/wiki/配体 "wikilink")。这一[结构最早在](https://zh.wikipedia.org/wiki/结构基序 "wikilink")中发现，小清蛋白含有三个EF手结构，与钙离子结合而造成的[肌肉](../Page/肌肉.md "wikilink")放松有关。
 
-EF手包含两个[α螺旋](https://zh.wikipedia.org/wiki/α螺旋 "wikilink")，由一个短的（通常包括12个[氨基酸](../Page/氨基酸.md "wikilink")）环状区域连接，常用于结合[钙离子](../Page/钙.md "wikilink")。EF手也出现在[钙调蛋白的所有](../Page/钙调蛋白.md "wikilink")[结构域和肌肉蛋白质](../Page/结构域.md "wikilink")[肌钙蛋白C中](https://zh.wikipedia.org/wiki/肌钙蛋白C "wikilink")。
+EF手包含两个[α螺旋](https://zh.wikipedia.org/wiki/α螺旋 "wikilink")，由一个短的（通常包括12个[氨基酸](../Page/氨基酸.md "wikilink")）环状区域连接，常用于结合[钙](../Page/钙.md "wikilink")离子。EF手也出现在[钙调蛋白](../Page/钙调蛋白.md "wikilink")的所有[结构域](../Page/结构域.md "wikilink")和肌肉蛋白质[肌钙蛋白C中](https://zh.wikipedia.org/wiki/肌钙蛋白C "wikilink")。
 
 ## 钙离子结合位点
 

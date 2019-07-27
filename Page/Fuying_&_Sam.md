@@ -1,7 +1,7 @@
 **Fuying &
 Sam**（縮寫FS），是[馬來西亞雙人演唱團體](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，由歌手[王赴穎](https://zh.wikipedia.org/wiki/王赴穎 "wikilink")（英文名：Fuying）及[沈展寧](https://zh.wikipedia.org/wiki/沈展寧 "wikilink")（英文名：Sam）於2012年10月29日組成出道。
 
-在發行首張專輯《溫度》時，巨星[劉德華錄製了VCR祝福他們](../Page/劉德華.md "wikilink")\[1\]，並稱讚看好FS的歌唱實力，祝福他們的音樂能得到大家的支持。兩人看了這段VCR後感到難以置信，並期許每張專辑都能夠大賣。FS曾榮登大馬的「十冠王」\[2\]，更被外界一致認為是[無印良品的接班人](../Page/無印良品_\(樂團\).md "wikilink")。
+在發行首張專輯《溫度》時，巨星[劉德華](../Page/劉德華.md "wikilink")錄製了VCR祝福他們\[1\]，並稱讚看好FS的歌唱實力，祝福他們的音樂能得到大家的支持。兩人看了這段VCR後感到難以置信，並期許每張專辑都能夠大賣。FS曾榮登大馬的「十冠王」\[2\]，更被外界一致認為是[無印良品的接班人](../Page/無印良品_\(樂團\).md "wikilink")。
 
 FS歌唱實力堅強，其中《分開以後》、《可不可以你也剛好喜歡我》兩首歌曲更在YouTube突破千萬點擊次數。不斷挑戰自我的FS在2017年帶來首支唱跳歌曲《相思湖畔》，同樣來自大馬的[黃明志看到MV後稱讚FS大膽](https://zh.wikipedia.org/wiki/黄明志 "wikilink")、勇於嘗試，會大紅\[3\]。FS第三張專輯《我們走在相思湖畔》呈現不同於以往FS情歌王子的形象，也開啟了FS更多的可能性\[4\]。
 
@@ -213,7 +213,7 @@ MV
   - 《McDonald's》BIG MAC CHANT CHALLENGE 宣傳大使
   - 2013 [聯華食品](../Page/聯華食品.md "wikilink")《MINI可樂果》台灣廣告、代言
   - 2014
-    [卡巴斯基廣告](https://zh.wikipedia.org/wiki/卡巴斯基 "wikilink")（和[周杰倫合拍](../Page/周杰倫.md "wikilink")）\[12\]
+    [卡巴斯基廣告](https://zh.wikipedia.org/wiki/卡巴斯基 "wikilink")（和[周杰倫](../Page/周杰倫.md "wikilink")合拍）\[12\]
   - 2016 WATSONS SWITCH & SAVE CAMPAIGN 宣傳大使
   - 2016 中華民國紅心字會公益大使\[13\]
 

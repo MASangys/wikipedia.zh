@@ -1,4 +1,4 @@
-《**Pilot**》（）是[韓國文化廣播公司於](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")1993年9月13日至1993年11月2日期間播放的[月火劇](../Page/MBC月火連續劇.md "wikilink")。此劇是韓國首部以[航空業為題材的電視劇](../Page/航空.md "wikilink")，也是韓國藝人崔秀宗的代表作之一。此劇在韓國播出後的平均收視率為46.2%。
+《**Pilot**》（）是[韓國文化廣播公司於](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")1993年9月13日至1993年11月2日期間播放的[月火劇](../Page/MBC月火連續劇.md "wikilink")。此劇是韓國首部以[航空](../Page/航空.md "wikilink")業為題材的電視劇，也是韓國藝人崔秀宗的代表作之一。此劇在韓國播出後的平均收視率為46.2%。
 
 ## 演員
 
@@ -25,7 +25,7 @@
   - [朴貞洙](../Page/朴貞洙.md "wikilink") 飾 尹美子
 
   - [田　雲](https://zh.wikipedia.org/wiki/田雲 "wikilink") 飾
-    [大韓航空代表理事](../Page/大韓航空.md "wikilink")
+    [大韓航空](../Page/大韓航空.md "wikilink")代表理事
 
   - [李永厚](https://zh.wikipedia.org/wiki/李永厚 "wikilink") 飾 高英煥
 
@@ -38,7 +38,7 @@
 ### 特別出演
 
   - [車仁杓](../Page/車仁杓.md "wikilink") 飾
-    [大韓航空飛行機械員](../Page/大韓航空.md "wikilink")
+    [大韓航空](../Page/大韓航空.md "wikilink")飛行機械員
 
 ## 同類型電視劇
 

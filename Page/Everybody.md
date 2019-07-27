@@ -1,14 +1,14 @@
-《**Everybody**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")5張韓語迷你專輯，於2013年10月14日發行。唱片公司為[SM
+《**Everybody**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第5張韓語迷你專輯，於2013年10月14日發行。唱片公司為[SM
 Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 專輯概要
 
-  - 此專輯的主打曲目為《Everybody》，是一首融合了朗朗上口的曲調與龐克節奏的Complextro歌曲。歌詞蘊含了喚醒所有人心中的童心的意涵，使聽者與其一同進入愉快的節奏世界。舞蹈由曾與[SHINee合作](../Page/SHINee.md "wikilink")《**Sherlock**》、《**Dream
+  - 此專輯的主打曲目為《Everybody》，是一首融合了朗朗上口的曲調與龐克節奏的Complextro歌曲。歌詞蘊含了喚醒所有人心中的童心的意涵，使聽者與其一同進入愉快的節奏世界。舞蹈由曾與[SHINee](../Page/SHINee.md "wikilink")合作《**Sherlock**》、《**Dream
     Girl**》的世界知名編舞師Tony Testa編舞。
 
 <!-- end list -->
 
-  - 歌曲《Symptoms》由成員[鐘鉉填詞](../Page/鐘鉉.md "wikilink")，全球知名製作團隊The
+  - 歌曲《Symptoms》由成員[鐘鉉](../Page/鐘鉉.md "wikilink")填詞，全球知名製作團隊The
     Underdogs操刀製作。
 
 ## 曲目列表

@@ -1,8 +1,8 @@
-**北京地铁QKZ5型电动车组**是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[机场线运营](../Page/北京地铁机场线.md "wikilink")。
+**北京地铁QKZ5型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[机场线运营](../Page/北京地铁机场线.md "wikilink")。
 
 ## 简介
 
-QKZ5型由[长春轨道客车和](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")[庞巴迪公司制造](https://zh.wikipedia.org/wiki/庞巴迪公司 "wikilink")，共10组40辆，每节车厢共2对车门，为[外置滑轨门](https://zh.wikipedia.org/wiki/外置滑轨门 "wikilink")。在[2008年](../Page/2008年.md "wikilink")[7月19日开始在](https://zh.wikipedia.org/wiki/7月19日 "wikilink")[机场线运营](../Page/北京地铁机场线.md "wikilink")，列车配属于[天竺车辆段](https://zh.wikipedia.org/wiki/天竺车辆段 "wikilink")。本款列车为[直线电动机驱动列车](https://zh.wikipedia.org/wiki/直线电动机 "wikilink")，列车内部以座位为主。自[2012年](../Page/2012年.md "wikilink")[3月8日开始正式实行无人驾驶模式](../Page/3月8日.md "wikilink")\[1\]。
+QKZ5型由[长春轨道客车和](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")[庞巴迪公司制造](https://zh.wikipedia.org/wiki/庞巴迪公司 "wikilink")，共10组40辆，每节车厢共2对车门，为[外置滑轨门](https://zh.wikipedia.org/wiki/外置滑轨门 "wikilink")。在[2008年](../Page/2008年.md "wikilink")[7月19日开始在](https://zh.wikipedia.org/wiki/7月19日 "wikilink")[机场线运营](../Page/北京地铁机场线.md "wikilink")，列车配属于[天竺车辆段](https://zh.wikipedia.org/wiki/天竺车辆段 "wikilink")。本款列车为[直线电动机驱动列车](https://zh.wikipedia.org/wiki/直线电动机 "wikilink")，列车内部以座位为主。自[2012年](../Page/2012年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")开始正式实行无人驾驶模式\[1\]。
 
 ## 车辆图片
 

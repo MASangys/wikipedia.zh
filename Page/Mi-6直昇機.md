@@ -69,11 +69,11 @@ Mi-6PRTBV作為蘇聯戰略火箭軍（彈道飛彈部隊）的運輸直昇機�
 
 蘇聯空軍的Mi-6首次用於1968年出兵[捷克斯洛伐克](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")，之後又用於[阿富汗戰爭](https://zh.wikipedia.org/wiki/阿富汗戰爭_\(1979年\) "wikilink")，蘇軍第181和第280直昇機團用於阿富汗，主要是為地面部隊運送物資，另有一個由蘇聯專家組成的Mi-6去支援阿富汗政府軍作戰，由於Mi-6能在海拔6,000米的高度飛行，故Mi-6是在阿富汗主要的蘇軍運輸直昇機，Mi-6在阿富汗另一個任務是吊運其他被擊傷的飛機，例如:[Mi-24雌鹿直昇機](https://zh.wikipedia.org/wiki/Mi-24雌鹿直昇機 "wikilink")，1986年4月26日，當時的[烏克蘭發生](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[車諾比核能電廠事故](https://zh.wikipedia.org/wiki/車諾比核能電廠 "wikilink")，蘇軍出动8架Mi-6参与用砂石和混凝土埋葬出事的第4號反應堆，事後由於此批Mi-6沾有輻射，而被拆解后碎片全部被深埋地下。
 
-越南空軍的Mi-6也有用於[越戰](https://zh.wikipedia.org/wiki/越戰 "wikilink")，每當美軍戰機前空襲[北越空軍基地](https://zh.wikipedia.org/wiki/北越 "wikilink")，Mi-6都會吊運北越的[米格-17等戰機到較為安全的偽裝區內](https://zh.wikipedia.org/wiki/米格-17 "wikilink")，等到空襲過後又吊回原處，Mi-6也運送物資和部隊，越戰後的1979年，越南出兵攻打[柬埔寨也有使用Mi](../Page/柬埔寨.md "wikilink")-6。
+越南空軍的Mi-6也有用於[越戰](https://zh.wikipedia.org/wiki/越戰 "wikilink")，每當美軍戰機前空襲[北越空軍基地](https://zh.wikipedia.org/wiki/北越 "wikilink")，Mi-6都會吊運北越的[米格-17等戰機到較為安全的偽裝區內](https://zh.wikipedia.org/wiki/米格-17 "wikilink")，等到空襲過後又吊回原處，Mi-6也運送物資和部隊，越戰後的1979年，越南出兵攻打[柬埔寨](../Page/柬埔寨.md "wikilink")也有使用Mi-6。
 
-[伊拉克空軍的Mi](../Page/伊拉克.md "wikilink")-6有用於[兩伊戰爭](https://zh.wikipedia.org/wiki/兩伊戰爭 "wikilink")，負責運送部隊和物資，期間有一架被伊朗的美製[AH-1眼鏡蛇直升機擊落](../Page/AH-1眼鏡蛇直升機.md "wikilink")，1990年伊拉克出兵[科威特也有Mi](../Page/科威特.md "wikilink")-6參與。
+[伊拉克](../Page/伊拉克.md "wikilink")空軍的Mi-6有用於[兩伊戰爭](https://zh.wikipedia.org/wiki/兩伊戰爭 "wikilink")，負責運送部隊和物資，期間有一架被伊朗的美製[AH-1眼鏡蛇直升機](../Page/AH-1眼鏡蛇直升機.md "wikilink")擊落，1990年伊拉克出兵[科威特](../Page/科威特.md "wikilink")也有Mi-6參與。
 
-1967年的第三次中東戰爭和1973年的第四次中東戰爭，[埃及空軍的Mi](../Page/埃及.md "wikilink")-6都有參戰。
+1967年的第三次中東戰爭和1973年的第四次中東戰爭，[埃及](../Page/埃及.md "wikilink")空軍的Mi-6都有參戰。
 
 ## Mi-6在中國
 

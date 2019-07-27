@@ -1,5 +1,5 @@
 《**HEAT
-UP**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1997年7月21日發行。
+UP**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1997年7月21日發行。
 
 ## 概述
 

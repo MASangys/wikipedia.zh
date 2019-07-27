@@ -4,7 +4,7 @@
 
 此年度的平均收視率只有**59.4%**，創下**紅白**史上首次平均收視率不足60%。
 
-**白組**主持人[加山雄三在介紹](../Page/加山雄三.md "wikilink")[少年隊出場時](../Page/少年隊.md "wikilink")，將《[假面舞會](../Page/假面舞會_\(少年隊單曲\).md "wikilink")》（仮面舞踏会）誤說成《[幪面超人](../Page/幪面超人.md "wikilink")》（仮面ライダー），是**紅白**史上其中一個經典的口誤。
+**白組**主持人[加山雄三](../Page/加山雄三.md "wikilink")在介紹[少年隊](../Page/少年隊.md "wikilink")出場時，將《[假面舞會](../Page/假面舞會_\(少年隊單曲\).md "wikilink")》（仮面舞踏会）誤說成《[幪面超人](../Page/幪面超人.md "wikilink")》（仮面ライダー），是**紅白**史上其中一個經典的口誤。
 
 ## 主持人
 
@@ -61,12 +61,12 @@
   - [森下洋子](https://zh.wikipedia.org/wiki/森下洋子 "wikilink")
     ([芭蕾舞蹈家](https://zh.wikipedia.org/wiki/芭蕾 "wikilink"))
   - [雁屋哲](https://zh.wikipedia.org/wiki/雁屋哲 "wikilink")（劇画作家）
-  - [黒柳朝](https://zh.wikipedia.org/wiki/黒柳朝 "wikilink")（[散文家](../Page/散文.md "wikilink"))
+  - [黒柳朝](https://zh.wikipedia.org/wiki/黒柳朝 "wikilink")（[散文](../Page/散文.md "wikilink")家)
   - [加藤芳郎](https://zh.wikipedia.org/wiki/加藤芳郎 "wikilink")（[漫畫家](https://zh.wikipedia.org/wiki/漫畫 "wikilink")）
   - [山崎洋子](../Page/山崎洋子.md "wikilink")（作家）
   - [渡邊謙](../Page/渡邊謙.md "wikilink")（演員）
   - 加納みゆき（演員）
-  - [千代之富士貢](../Page/千代之富士貢.md "wikilink")（本名:秋元貢，[相撲選手](../Page/相撲.md "wikilink")
+  - [千代之富士貢](../Page/千代之富士貢.md "wikilink")（本名:秋元貢，[相撲](../Page/相撲.md "wikilink")選手
     - [横綱](https://zh.wikipedia.org/wiki/横綱 "wikilink")）
   - [中野正之](https://zh.wikipedia.org/wiki/中野正之 "wikilink") (NHK番組制作局長)
 

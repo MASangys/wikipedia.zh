@@ -1,4 +1,4 @@
-（）是[日本的女性](../Page/日本.md "wikilink")[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")。
+（）是[日本](../Page/日本.md "wikilink")的女性[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")。
 
 ## 人物
 

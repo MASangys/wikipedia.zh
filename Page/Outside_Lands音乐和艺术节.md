@@ -1,5 +1,5 @@
 **Outside Lands音乐和艺术节**（**Outside Lands Music and Arts
-Festival**）是每年在[美国](../Page/美国.md "wikilink")[旧金山市](../Page/旧金山.md "wikilink")[金门公园举行为期三天的](../Page/金门公园.md "wikilink")[音乐和](../Page/音乐.md "wikilink")[艺术的](../Page/艺术.md "wikilink")[音乐节](https://zh.wikipedia.org/wiki/音乐节 "wikilink")，它是美国大型音乐节之一，与[Lollapalooza和](../Page/Lollapalooza.md "wikilink")[科切拉音乐节一样而知名](../Page/科切拉音乐节.md "wikilink")。
+Festival**）是每年在[美国](../Page/美国.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")市[金门公园](../Page/金门公园.md "wikilink")举行为期三天的[音乐](../Page/音乐.md "wikilink")和[艺术](../Page/艺术.md "wikilink")的[音乐节](https://zh.wikipedia.org/wiki/音乐节 "wikilink")，它是美国大型音乐节之一，与[Lollapalooza](../Page/Lollapalooza.md "wikilink")和[科切拉音乐节](../Page/科切拉音乐节.md "wikilink")一样而知名。
 
 首届Outside
 Lands音乐和艺术节始于2008年，60多位音乐艺人现场表演，单日大约有4万到6万参与者。尽管首次音乐节大获成功，但因其缺乏人群疏导管制而收到批评。\[1\]

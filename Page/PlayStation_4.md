@@ -1,9 +1,9 @@
 **PlayStation
-4**（官方縮寫：**PS4**）是[索尼互動娛樂推出的](../Page/索尼互動娛樂.md "wikilink")[家用電子遊樂器](../Page/家用游戏机.md "wikilink")，首發在2013年11月15日於[北美開始販售](https://zh.wikipedia.org/wiki/北美 "wikilink")。本機作為[PlayStation
-3的後續機型](../Page/PlayStation_3.md "wikilink")，於[電子遊戲史中為](../Page/電子遊戲史.md "wikilink")[第八世代機種](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。
+4**（官方縮寫：**PS4**）是[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")推出的[家用電子遊樂器](../Page/家用游戏机.md "wikilink")，首發在2013年11月15日於[北美開始販售](https://zh.wikipedia.org/wiki/北美 "wikilink")。本機作為[PlayStation
+3的後續機型](../Page/PlayStation_3.md "wikilink")，於[電子遊戲史](../Page/電子遊戲史.md "wikilink")中為[第八世代機種](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。
 
-在新的應用和服務方面，索尼在[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦上推出專屬應用程式](../Page/平板電腦.md "wikilink")「[PlayStation
-App](../Page/PlayStation_App.md "wikilink")」，讓這些裝置成為第二螢幕以加強遊戲體驗。索尼也推出了[雲端遊戲的](../Page/雲端遊戲.md "wikilink")[串流服務](https://zh.wikipedia.org/wiki/串流 "wikilink")「[PlayStation
+在新的應用和服務方面，索尼在[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")上推出專屬應用程式「[PlayStation
+App](../Page/PlayStation_App.md "wikilink")」，讓這些裝置成為第二螢幕以加強遊戲體驗。索尼也推出了[雲端遊戲](../Page/雲端遊戲.md "wikilink")的[串流服務](https://zh.wikipedia.org/wiki/串流 "wikilink")「[PlayStation
 Now](../Page/PlayStation_Now.md "wikilink")」。此外，搭配的控制器上增加了「分享」按鈕，讓使用者易於將遊玩過程作[直播或录制等用途](https://zh.wikipedia.org/wiki/直播 "wikilink")。
 
 ## 历史
@@ -13,19 +13,19 @@ Cerny）表示，索尼的[第八世代遊戲主機開發工作早在](https://z
 3因製造問題而延遲了數個月才推出，\[2\]使得其上市時間落後了微軟的[Xbox
 360將近一年之久](../Page/Xbox_360.md "wikilink")。\[3\]歐洲PlayStation部門的CEO吉姆·雷恩曾表示索尼希望能在PS3的後繼機種上避免再犯下同樣的錯誤。\[4\]
 
-2011年有媒体称，索尼与[IBM合作开发性能强劲的](../Page/IBM.md "wikilink")[处理器](../Page/中央处理器.md "wikilink")\[5\]。而在2012年又有消息称，索尼放弃了基于[Cell
+2011年有媒体称，索尼与[IBM](../Page/IBM.md "wikilink")合作开发性能强劲的[处理器](../Page/中央处理器.md "wikilink")\[5\]。而在2012年又有消息称，索尼放弃了基于[Cell
 架构处理器的开发工作](../Page/Cell_\(微處理器\).md "wikilink")，转而使用[AMD的处理器和](https://zh.wikipedia.org/wiki/AMD "wikilink")[显示芯片进行开发](https://zh.wikipedia.org/wiki/显卡芯片 "wikilink")\[6\]。
 
-2013年初，索尼宣布将在2月20日于美国[纽约召开以](../Page/纽约.md "wikilink")“见证未来”为主题的发布会。2013年2月20日，索尼在纽约的发布会上正式公布了“PS4”的商标、游戏主机的规格、首发游戏以及游戏演示画面\[7\]。
+2013年初，索尼宣布将在2月20日于美国[纽约](../Page/纽约.md "wikilink")召开以“见证未来”为主题的发布会。2013年2月20日，索尼在纽约的发布会上正式公布了“PS4”的商标、游戏主机的规格、首发游戏以及游戏演示画面\[7\]。
 
 2013年8月21日，索尼電腦娛樂公司（SCE）執行長郝斯（Andrew
 House）在科隆遊戲展（Gamescom）上宣佈，PS4遊戲主機將於11月15日在北美地區發布，[歐洲地區則將在](https://zh.wikipedia.org/wiki/歐洲 "wikilink")11月29日迎來。\[8\]
 
-2013年9月9日，[日本亞洲索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂日本工作室 "wikilink")（SCEJA）宣布，PS4主機將於2014年2月22日在[日本地區發布](../Page/日本.md "wikilink")，含稅價格為41979日圓，搭配PlayStation
+2013年9月9日，[日本亞洲索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂日本工作室 "wikilink")（SCEJA）宣布，PS4主機將於2014年2月22日在[日本](../Page/日本.md "wikilink")地區發布，含稅價格為41979日圓，搭配PlayStation
 Camera的組合含稅價則為46179日圓。
 
 2013年9月18日，索尼宣布PlayStation
-4將於2013年12月中旬在[亞洲地區推出](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，包括[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")、[新加坡和其他](../Page/新加坡.md "wikilink")[東南亞地區](https://zh.wikipedia.org/wiki/東南亞 "wikilink")；由[索尼電腦娛樂世界工作室](https://zh.wikipedia.org/wiki/索尼電腦娛樂全球工作室 "wikilink")（SCE
+4將於2013年12月中旬在[亞洲地區推出](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，包括[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")和其他[東南亞地區](https://zh.wikipedia.org/wiki/東南亞 "wikilink")；由[索尼電腦娛樂世界工作室](https://zh.wikipedia.org/wiki/索尼電腦娛樂全球工作室 "wikilink")（SCE
 Worldwide Studios）與其他軟體開發商及出版商的20款游戏也將同步推出。
 
 2014年12月11日，索尼电脑娱乐上海在[上海举行发布会正式公布PlayStation](https://zh.wikipedia.org/wiki/上海 "wikilink")
@@ -42,37 +42,37 @@ Pro则相比之下加强了机能，采用了更强劲的CPU及GPU，并且支�
 
 ## 规格
 
-官方宣稱PS4主機的運算能力大約是PS3主機的二十倍，遊戲畫面進一步提升解像度到“高達[1080P](../Page/Full_HD.md "wikilink")”、每秒顯示張數“高達每秒60張”。對比PS3，PS4加入不少特色，例如跨遊戲語音聊天功能、轉型成真實好友構成的網絡以及透過Ustream和[Twitch網路串流實況轉播遊玩畫面](../Page/Twitch.md "wikilink")。據稱有更多的PS4機能將會陸續推出。\[12\]
+官方宣稱PS4主機的運算能力大約是PS3主機的二十倍，遊戲畫面進一步提升解像度到“高達[1080P](../Page/Full_HD.md "wikilink")”、每秒顯示張數“高達每秒60張”。對比PS3，PS4加入不少特色，例如跨遊戲語音聊天功能、轉型成真實好友構成的網絡以及透過Ustream和[Twitch](../Page/Twitch.md "wikilink")網路串流實況轉播遊玩畫面。據稱有更多的PS4機能將會陸續推出。\[12\]
 在主机开发过程中，为了避免过于追求性能而使制作游戏软件更加困难的情况的发生，索尼放弃了[PlayStation
-3原有的设计](../Page/PlayStation_3.md "wikilink")，重新选择了与[个人电脑相同的X](../Page/个人电脑.md "wikilink")86架构，使得游戏开发更加容易\[13\]；但是缺點是與PS3、[PS2或是](https://zh.wikipedia.org/wiki/PS2 "wikilink")[PSone®遊戲不相容](https://zh.wikipedia.org/wiki/PSone "wikilink")。
+3原有的设计](../Page/PlayStation_3.md "wikilink")，重新选择了与[个人电脑](../Page/个人电脑.md "wikilink")相同的X86架构，使得游戏开发更加容易\[13\]；但是缺點是與PS3、[PS2或是](https://zh.wikipedia.org/wiki/PS2 "wikilink")[PSone®遊戲不相容](https://zh.wikipedia.org/wiki/PSone "wikilink")。
 
 PS4採用以[超微](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")（AMD）為基礎的[x86-64架構處理器](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，與使用[Cell架構的PS](../Page/Cell_\(微處理器\).md "wikilink")3不同。\[14\]更換處理器架構的目的是讓遊戲開發的過程變得更容易，以吸引更多不同的開發者加入。這樣的變更是來自於索尼在PS3的開發、製造和發售過程中所學習到的經驗。PS4其他的硬體特徵包括內建8
-GB的[GDDR5整合式記憶體](../Page/GDDR5.md "wikilink")、更快速的[藍光光碟機](../Page/藍光光碟.md "wikilink")，以及專門用來處理音訊、影像、以及其它背景服務的定製處理晶片。
+GB的[GDDR5](../Page/GDDR5.md "wikilink")整合式記憶體、更快速的[藍光光碟](../Page/藍光光碟.md "wikilink")機，以及專門用來處理音訊、影像、以及其它背景服務的定製處理晶片。
 
 ### 技術規格
 
 PlayStation
-4使用了由索尼與[超微半導體合作開發的處理器](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")，整合了[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）、[圖形處理器](../Page/圖形處理器.md "wikilink")（GPU）以及包括[内存控制器和](../Page/内存控制器.md "wikilink")[視訊編解碼器在內的其他元件](https://zh.wikipedia.org/wiki/視訊編解碼器 "wikilink")。\[15\]其共計八核心的中央處理器是由兩個[x86-64架構的](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[四核心](../Page/多核心處理器.md "wikilink")[AMD
-Jaguar模組組成](../Page/AMD_Jaguar.md "wikilink")。\[16\]\[17\]圖形處理器由18個運算單元組成，理論上具有最高每秒1.84兆次的[浮點運算能力](../Page/每秒浮點運算次數.md "wikilink")（TFLOPS）。\[18\]主機的[GDDR5記憶體的最高運作時脈為](../Page/GDDR5.md "wikilink")2.75GHz（每秒5500
+4使用了由索尼與AMD[超微半導體合作開發的處理器](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")，整合了[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）、[圖形處理器](../Page/圖形處理器.md "wikilink")（GPU）以及包括[内存控制器](../Page/内存控制器.md "wikilink")和[視訊編解碼器在內的其他元件](https://zh.wikipedia.org/wiki/視訊編解碼器 "wikilink")。\[15\]其共計八核心的中央處理器是由兩個[x86-64架構的](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[四核心](../Page/多核心處理器.md "wikilink")[AMD
+Jaguar模組組成](../Page/AMD_Jaguar.md "wikilink")。\[16\]\[17\]圖形處理器由18個運算單元組成，理論上具有最高每秒1.84兆次的[浮點運算能力](../Page/每秒浮點運算次數.md "wikilink")（TFLOPS）。\[18\]主機的[GDDR5](../Page/GDDR5.md "wikilink")記憶體的最高運作時脈為2.75GHz（每秒5500
 MT），其最大記憶體頻寬為每秒176GB。\[19\]\[20\]\[21\]PlayStation 4配有共8
 GB的GDDR5記憶體，\[22\]\[23\]是PlayStation
 3系統的16倍之多，被認為將可讓主機的市場壽命更長。\[24\]\[25\]主機內另配有一個專責處理下載、上傳和社群遊玩相關功能的次要處理器。\[26\]\[27\]這些功能可在遊戲進行中或主機待機時在背景執行。\[28\]主機內也包含了一個音訊模組，能夠支援遊戲內語音交談，以及在遊戲中處理「十分大量」的音訊串流。\[29\]
 
 PlayStation 4搭載的唯讀式光碟機能讀取[藍光光碟](../Page/藍光光碟.md "wikilink")（PlayStation
-4成为PlayStation系列首款未升级光盘介质的游戏机），其讀取速度最快可達到PS3的三倍，光碟置入方式與PS3一樣為無托盤的吸入式（slot-in）。\[30\]\[31\]主機內建硬體解壓縮模組，能夠加快光碟的讀取速度，並在遊戲不需存取光碟內容時將尚未讀取的資料暫時保存，這項功能是索尼「PlayGo」策略的一部份。\[32\]雖然主機具有[4K解析度照片和影片的播放能力](https://zh.wikipedia.org/wiki/4K "wikilink")，但無法[渲染解析度超過](../Page/渲染.md "wikilink")[1080p的遊戲](../Page/1080p.md "wikilink")。\[33\]\[34\]主機內建500
+4成为PlayStation系列首款未升级光盘介质的游戏机），其讀取速度最快可達到PS3的三倍，光碟置入方式與PS3一樣為無托盤的吸入式（slot-in）。\[30\]\[31\]主機內建硬體解壓縮模組，能夠加快光碟的讀取速度，並在遊戲不需存取光碟內容時將尚未讀取的資料暫時保存，這項功能是索尼「PlayGo」策略的一部份。\[32\]雖然主機具有[4K解析度照片和影片的播放能力](https://zh.wikipedia.org/wiki/4K "wikilink")，但無法[渲染](../Page/渲染.md "wikilink")解析度超過[1080p](../Page/1080p.md "wikilink")的遊戲。\[33\]\[34\]主機內建500
 GB容量的硬碟作為額外的儲存空間，\[35\]使用者也可自行升級更換硬碟（支持7mm与9mm厚的2.5英寸规格硬盘）。\[36\]\[37\]
 
 PlayStation
-4支援[WiFi](https://zh.wikipedia.org/wiki/WiFi "wikilink")、[乙太網路連結和](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")[藍牙傳輸](../Page/藍牙.md "wikilink")，並有兩個[USB
+4支援[WiFi](https://zh.wikipedia.org/wiki/WiFi "wikilink")、[乙太網路連結和](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")[藍牙](../Page/藍牙.md "wikilink")傳輸，並有兩個[USB
 3.0連接埠](../Page/USB_3.0.md "wikilink")。\[38\]\[39\]此外也有一個可連接動作感應裝置[PlayStation
 Camera的接孔](https://zh.wikipedia.org/wiki/#PlayStation_Camera "wikilink")。\[40\]主機包裝內付有一個可與DualShock
-4連結的單聲道耳機麥克風組。\[41\]視訊和音訊的輸出界面支援[HDMI和](../Page/HDMI.md "wikilink")[光纖](../Page/TOSLINK.md "wikilink")[S/PDIF音訊](https://zh.wikipedia.org/wiki/S/PDIF "wikilink")。\[42\]主機無法輸出類比視訊和音訊。\[43\]
+4連結的單聲道耳機麥克風組。\[41\]視訊和音訊的輸出界面支援[HDMI](../Page/HDMI.md "wikilink")和[光纖](../Page/TOSLINK.md "wikilink")[S/PDIF音訊](https://zh.wikipedia.org/wiki/S/PDIF "wikilink")。\[42\]主機無法輸出類比視訊和音訊。\[43\]
 
 雖然在推出時尚無法使用，\[44\]但PlayStation 4具有「睡眠模式」（suspend
 mode）功能。該功能可讓主機以低功耗運作，讓使用者能快速喚醒主機並繼續遊戲。在睡眠模式中主機也能自動下載遊戲或軟體更新等內容。\[45\]\[46\]
 
 PlayStation
-4內建支援110－240[伏特的通用交流電電源供應器](../Page/伏特.md "wikilink")，\[47\]其最大電源值為250[瓦特](../Page/瓦特.md "wikilink")。根據[Eurogamer網站的測試](../Page/Eurogamer.md "wikilink")，主機在操作選單時消耗約80瓦特的電力，在遊戲進行中則會提升至110－120瓦特，在選單模式和遊戲中最高可達到140瓦特的功耗。\[48\]而自然資源保護協會（NRDC）的測試結果也顯示了相近的數據，在遊戲進行時最高功耗為137瓦特（包含連結PlayStation
+4內建支援110－240[伏特](../Page/伏特.md "wikilink")的通用交流電電源供應器，\[47\]其最大電源值為250[瓦特](../Page/瓦特.md "wikilink")。根據[Eurogamer](../Page/Eurogamer.md "wikilink")網站的測試，主機在操作選單時消耗約80瓦特的電力，在遊戲進行中則會提升至110－120瓦特，在選單模式和遊戲中最高可達到140瓦特的功耗。\[48\]而自然資源保護協會（NRDC）的測試結果也顯示了相近的數據，在遊戲進行時最高功耗為137瓦特（包含連結PlayStation
 Camera）；在待機模式下（連結網路）測量的功耗為8.8瓦特，而關機狀態下則為0.5瓦特。\[49\]
 
 ### 控制器
@@ -104,10 +104,10 @@ Move控制器亦可在PlayStation 4上使用\[69\]\[70\]。
 
 [缩略图](https://zh.wikipedia.org/wiki/File:PS4-Camera.JPG "fig:缩略图")
 [PlayStation
-Camera是一個可另選購的動態感測配件](https://zh.wikipedia.org/wiki/PlayStation_Camera "wikilink")。其包含兩個1280x800像素的鏡頭，光圈值為2.0，焦距為30cm，具備85度的[視野範圍](https://zh.wikipedia.org/wiki/視野 "wikilink")\[71\]。雙鏡頭的設計能依據各種應用來改變操作模式\[72\]。兩個鏡頭同時使用下可在攝影機視野範圍內對物體進行[深度偵測](../Page/摄影测量法.md "wikilink")\[73\]，與[Xbox的](../Page/Xbox.md "wikilink")[Kinect系統原理相同](../Page/Kinect.md "wikilink")\[74\]。此外，其中之一的鏡頭可進行影像拍攝，而另一個鏡頭則可用來偵測動作\[75\]。
+Camera是一個可另選購的動態感測配件](https://zh.wikipedia.org/wiki/PlayStation_Camera "wikilink")。其包含兩個1280x800像素的鏡頭，光圈值為2.0，焦距為30cm，具備85度的[視野範圍](https://zh.wikipedia.org/wiki/視野 "wikilink")\[71\]。雙鏡頭的設計能依據各種應用來改變操作模式\[72\]。兩個鏡頭同時使用下可在攝影機視野範圍內對物體進行[深度偵測](../Page/摄影测量法.md "wikilink")\[73\]，與[Xbox](../Page/Xbox.md "wikilink")的[Kinect](../Page/Kinect.md "wikilink")系統原理相同\[74\]。此外，其中之一的鏡頭可進行影像拍攝，而另一個鏡頭則可用來偵測動作\[75\]。
 
 PlayStation
-Camera亦內建一組四聲道麥克風\[76\]，可幫助降低背景噪音，並可接收語音控制命令\[77\]。攝影機的尺寸為186x27x27厘米，重量為183克\[78\]。攝影機與主機上的AUX連接埠相連，可錄製[RAW和未壓縮的](../Page/RAW.md "wikilink")[YUV格式影像](../Page/YUV.md "wikilink")\[79\]\[80\]。
+Camera亦內建一組四聲道麥克風\[76\]，可幫助降低背景噪音，並可接收語音控制命令\[77\]。攝影機的尺寸為186x27x27厘米，重量為183克\[78\]。攝影機與主機上的AUX連接埠相連，可錄製[RAW](../Page/RAW.md "wikilink")和未壓縮的[YUV](../Page/YUV.md "wikilink")格式影像\[79\]\[80\]。
 
 ## 軟體與服務
 
@@ -129,14 +129,14 @@ Plus才能進行\[89\]\[90\]。此外，為了配合訂閱制線上多人遊玩�
 pass）服務\[91\]。索尼預計將在主機的壽命期間中持續擴展與改進各項服務功能\[92\]。
 
 PlayStation
-4在推出後透過軟體更新提供播放[MP3和](../Page/MP3.md "wikilink")[DLNA伺服器媒體的功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")。\[93\]
+4在推出後透過軟體更新提供播放[MP3](../Page/MP3.md "wikilink")和[DLNA伺服器媒體的功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")。\[93\]
 
 ### 使用者界面
 
 PlayStation 4放棄了PlayStation
 3中的[跨界導航選單](../Page/XMB.md "wikilink")（XMB），改用了全新設計的使用者界面，稱為「PlayStation動態選單」（PlayStation
 Dynamic
-Menu）\[94\]\[95\]\[96\]。玩者的使用者檔案中會顯示近期的活動記錄、獲得的[獎盃](https://zh.wikipedia.org/wiki/PlayStation_Network#PlayStation_Trophies "wikilink")，以及其他進一步的資訊\[97\]。系統的主畫面也會顯示可自定的好友動態等內容。此外，各項如[Netflix](../Page/Netflix.md "wikilink")、[Hulu等第三方服務也能透過新界面啟動](../Page/Hulu.md "wikilink")\[98\]。系統亦支援多工處理，例如在進行遊戲的同時開啟網路瀏覽器等\[99\]。
+Menu）\[94\]\[95\]\[96\]。玩者的使用者檔案中會顯示近期的活動記錄、獲得的[獎盃](https://zh.wikipedia.org/wiki/PlayStation_Network#PlayStation_Trophies "wikilink")，以及其他進一步的資訊\[97\]。系統的主畫面也會顯示可自定的好友動態等內容。此外，各項如[Netflix](../Page/Netflix.md "wikilink")、[Hulu](../Page/Hulu.md "wikilink")等第三方服務也能透過新界面啟動\[98\]。系統亦支援多工處理，例如在進行遊戲的同時開啟網路瀏覽器等\[99\]。
 
 PlayStation 4在發售時所提供的第三方線上服務依據國家而有所不同。PlayStation
 4在2013年11月15日於美國上市，同時提供的數位娛樂軟體共有11款，包括Amazon
@@ -160,7 +160,7 @@ Network上選擇顯示本名或[暱稱](https://zh.wikipedia.org/wiki/暱稱 "wi
 ### 共享
 
 DualShock
-4控制器上設有一個「SHARE」按鈕，能夠讓玩者從前15分鐘的遊戲錄影畫面中選擇片段或截圖與他人共享。媒體檔案能直接從主機上傳至[Youtube或](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Facebook](../Page/Facebook.md "wikilink")、[Twitter等社交網路服務](../Page/Twitter.md "wikilink")。截至2013年12月10日，已有超過2000萬分鐘的即時遊戲過程直播影片透過SHARE按鈕分享出去\[108\]
+4控制器上設有一個「SHARE」按鈕，能夠讓玩者從前15分鐘的遊戲錄影畫面中選擇片段或截圖與他人共享。媒體檔案能直接從主機上傳至[Youtube或](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")等社交網路服務。截至2013年12月10日，已有超過2000萬分鐘的即時遊戲過程直播影片透過SHARE按鈕分享出去\[108\]
 
 ### 即時直播
 
@@ -242,11 +242,11 @@ PlayStation 4在發售前普遍受到來自開發商和媒體正面評價。
 
 [Epic Games的馬克](../Page/Epic_Games.md "wikilink")·瑞恩（Mark
 Rein）讚賞PlayStation 4上「強化」的架構，並形容為「一款驚人傑出的硬體」\[130\]。[id
-Software的共同創辦人和程式設計師](https://zh.wikipedia.org/wiki/id_Software "wikilink")[約翰·卡馬克也對主機的設計作出評論](../Page/約翰·卡馬克.md "wikilink")，表示「索尼在工程技術方面作出了明智的選擇」\[131\]，[Gearbox
+Software的共同創辦人和程式設計師](https://zh.wikipedia.org/wiki/id_Software "wikilink")[約翰·卡馬克](../Page/約翰·卡馬克.md "wikilink")也對主機的設計作出評論，表示「索尼在工程技術方面作出了明智的選擇」\[131\]，[Gearbox
 Software的藍迪](https://zh.wikipedia.org/wiki/Gearbox_Software "wikilink")·畢奇弗（Randy
 Pitchford）則對主機內高速記憶體的容量感到滿意\[132\]。
 
-[Eurogamer網站以](../Page/Eurogamer.md "wikilink")「令人印象深刻」來形容PlayStation
+[Eurogamer](../Page/Eurogamer.md "wikilink")網站以「令人印象深刻」來形容PlayStation
 4的繪圖科技，並認為索尼針對PlayStation 3時期開發者遇到的各種困難做出改進\[133\]。[Insomniac
 Games的總裁兼執行長](../Page/Insomniac_Games.md "wikilink")表示：「身為索尼長期的合作夥伴，我們對於過去數十年間一些極佳的遊戲機科技感到滿意，而現在看來PS4將能夠延續這股潮流。我認為大多數家用主機遊戲開發商總是不斷追求更強大的效能、更多的記憶體、更大的儲存空間、更快的讀取時間⋯⋯索尼很清楚地展示了我們將會在新主機上實現這些願望。」此外他也對於[Gaikai遊戲串流技術有所期待](https://zh.wikipedia.org/wiki/Gaikai "wikilink")，認為該技術可讓家用遊戲主機作品在更多不同的裝置上遊玩\[134\]。
 

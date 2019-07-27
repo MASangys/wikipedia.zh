@@ -27,14 +27,14 @@ for money
 
 <!-- end list -->
 
-  -   - 大分電視台（跟[日本電視台的クロスネット局](../Page/日本電視台.md "wikilink")、晚5周左右）
+  -   - 大分電視台（跟[日本電視台](../Page/日本電視台.md "wikilink")的クロスネット局、晚5周左右）
 
 <!-- end list -->
 
   -
 
       -
-        本來的播映時間是[日本電視台的週三劇場播映](../Page/日本電視台.md "wikilink")。
+        本來的播映時間是[日本電視台](../Page/日本電視台.md "wikilink")的週三劇場播映。
 
     毎週三 24:25-25:20
 
@@ -69,7 +69,7 @@ for money
 
 ### 『克洛諾斯』班制作
 
-如果在[地面數碼電視攝影的關係播出](../Page/地面數碼電視.md "wikilink")[郵筒](https://zh.wikipedia.org/wiki/郵筒_\(顯示技術\) "wikilink")，左右顯示側面板，在“○○中”（計劃名），左的側面板上對右的側面板顯示參加了遊戲的剩下人數，只同製造組共同的開放是在高清晰的廣播。只2008年3月5日的廣播，“[全員逃走中](https://zh.wikipedia.org/wiki/全員逃走中 "wikilink")”的標題標識或者區域地圖等的拍攝的圖像以外的一部分被在高清晰製作了（這時在16:9的[地面數碼電視左右顯示的側面板候消失](../Page/地面數碼電視.md "wikilink")，在許多畫面上在16:9顯示那個圖像）。
+如果在[地面數碼電視](../Page/地面數碼電視.md "wikilink")攝影的關係播出[郵筒](https://zh.wikipedia.org/wiki/郵筒_\(顯示技術\) "wikilink")，左右顯示側面板，在“○○中”（計劃名），左的側面板上對右的側面板顯示參加了遊戲的剩下人數，只同製造組共同的開放是在高清晰的廣播。只2008年3月5日的廣播，“[全員逃走中](https://zh.wikipedia.org/wiki/全員逃走中 "wikilink")”的標題標識或者區域地圖等的拍攝的圖像以外的一部分被在高清晰製作了（這時在16:9的[地面數碼電視](../Page/地面數碼電視.md "wikilink")左右顯示的側面板候消失，在許多畫面上在16:9顯示那個圖像）。
 不改變被在概要，深夜廣播的演出或者BGM（[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")）而製作。
 
 #### 全員逃走中
@@ -213,7 +213,7 @@ FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識し
 回数は企画内容ごとのカウントとする。
 
   - 第1回 2007年12月19日
-    [辺見えみり](https://zh.wikipedia.org/wiki/辺見えみり "wikilink")、[矢沢心](https://zh.wikipedia.org/wiki/矢沢心 "wikilink")、[眞鍋かをり](https://zh.wikipedia.org/wiki/眞鍋かをり "wikilink")、[若槻千夏の女性芸能人ブロガー](../Page/若槻千夏.md "wikilink")4人。ドラマゲストは[京野ことみ](https://zh.wikipedia.org/wiki/京野ことみ "wikilink")。
+    [辺見えみり](https://zh.wikipedia.org/wiki/辺見えみり "wikilink")、[矢沢心](https://zh.wikipedia.org/wiki/矢沢心 "wikilink")、[眞鍋かをり](https://zh.wikipedia.org/wiki/眞鍋かをり "wikilink")、[若槻千夏](../Page/若槻千夏.md "wikilink")の女性芸能人ブロガー4人。ドラマゲストは[京野ことみ](https://zh.wikipedia.org/wiki/京野ことみ "wikilink")。
   - 第2回 2008年1月9日
     [田村裕](https://zh.wikipedia.org/wiki/田村裕 "wikilink")（[麒麟](https://zh.wikipedia.org/wiki/麒麟_\(お笑いコンビ\) "wikilink")）、[関暁夫](https://zh.wikipedia.org/wiki/関暁夫 "wikilink")（[ハローバイバイ](https://zh.wikipedia.org/wiki/ハローバイバイ "wikilink")）、[カンニング竹山](../Page/竹山隆範.md "wikilink")、[品川祐](https://zh.wikipedia.org/wiki/品川祐 "wikilink")（[品川庄司](https://zh.wikipedia.org/wiki/品川庄司 "wikilink")）のベストセラー芸人4人。ドラマゲストは[藤井美菜](../Page/藤井美菜.md "wikilink")。
   - 第3回 2008年2月20日
@@ -232,7 +232,7 @@ FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識し
 播映時間:2007年10月17日21:00-22:48（和「生態調査中第1回」為同一集內容）
 
   -
-    場所:[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")・[御台場](../Page/御台場.md "wikilink")（範圍:約5個[東京巨蛋大小](../Page/東京巨蛋.md "wikilink")）
+    場所:[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")・[御台場](../Page/御台場.md "wikilink")（範圍:約5個[東京巨蛋](../Page/東京巨蛋.md "wikilink")大小）
 
     限制時間:60分
 
@@ -1035,7 +1035,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
     - 2011年10月にて5分に縮小していた期間を除き、現在まで継続）。
   - 提供クレジットは水10\!時代は16秒に対し、この枠からは15秒で表示される。
   - 番組の冒頭に全スポンサー[クレジットが表示される](https://zh.wikipedia.org/wiki/クレジット "wikilink")。この手法は「クロノス」及び「逃走中（単発番組）」と同様。但し旧「水10」班制作回では例外もあった。
-  - 筆頭スポンサーの[花王は水](../Page/花王.md "wikilink")10\!のワンナイ過度期からオリキュン時代までは提供クレジットを控えており、この番組にてスポンサー復帰したが、挑戦中「24分間で2kg太れるか?」放送回のみ提供クレジットを控えた。
+  - 筆頭スポンサーの[花王](../Page/花王.md "wikilink")は水10\!のワンナイ過度期からオリキュン時代までは提供クレジットを控えており、この番組にてスポンサー復帰したが、挑戦中「24分間で2kg太れるか?」放送回のみ提供クレジットを控えた。
   - 一時期KDDIが番組スポンサーを降りていた時期があったが、「クロノス」班のゲームで使われていたのはauの携帯のみでSoftbankのものは使われていない。
 
 ## 參考文獻

@@ -1,8 +1,8 @@
-**杜安·D·蒂森**（，）出生于[美国](../Page/美国.md "wikilink")[堪萨斯州](https://zh.wikipedia.org/wiki/堪萨斯州 "wikilink")[马里昂县](https://zh.wikipedia.org/wiki/馬里昂縣_\(堪薩斯州\) "wikilink")，毕业于[匹兹堡州立大学](https://zh.wikipedia.org/wiki/匹兹堡州立大学 "wikilink")，1974年开始在[美国海军陆战队服役](../Page/美国海军陆战队.md "wikilink")，美国太平洋海军陆战队司令。
+**杜安·D·蒂森**（，）出生于[美国](../Page/美国.md "wikilink")[堪萨斯州](https://zh.wikipedia.org/wiki/堪萨斯州 "wikilink")[马里昂县](https://zh.wikipedia.org/wiki/馬里昂縣_\(堪薩斯州\) "wikilink")，毕业于[匹兹堡州立大学](https://zh.wikipedia.org/wiki/匹兹堡州立大学 "wikilink")，1974年开始在[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")服役，美国太平洋海军陆战队司令。
 
 ## 生平
 
-1951年，蒂森出生在[美国](../Page/美国.md "wikilink")[堪萨斯州](https://zh.wikipedia.org/wiki/堪萨斯州 "wikilink")[马里昂县](https://zh.wikipedia.org/wiki/馬里昂縣_\(堪薩斯州\) "wikilink")，在[匹兹堡州立大学毕业后](https://zh.wikipedia.org/wiki/匹兹堡州立大学 "wikilink")，1974年5月，蒂森荣升为[少尉](../Page/少尉.md "wikilink")。蒂森早期在[北卡罗来纳州进行飞行训练](../Page/北卡罗来纳州.md "wikilink")，曾经被派往[太平洋的](https://zh.wikipedia.org/wiki/太平洋 "wikilink")[冲绳群岛和](https://zh.wikipedia.org/wiki/冲绳群岛 "wikilink")[欧洲的](../Page/欧洲.md "wikilink")[地中海](../Page/地中海.md "wikilink")。
+1951年，蒂森出生在[美国](../Page/美国.md "wikilink")[堪萨斯州](https://zh.wikipedia.org/wiki/堪萨斯州 "wikilink")[马里昂县](https://zh.wikipedia.org/wiki/馬里昂縣_\(堪薩斯州\) "wikilink")，在[匹兹堡州立大学毕业后](https://zh.wikipedia.org/wiki/匹兹堡州立大学 "wikilink")，1974年5月，蒂森荣升为[少尉](../Page/少尉.md "wikilink")。蒂森早期在[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")进行飞行训练，曾经被派往[太平洋的](https://zh.wikipedia.org/wiki/太平洋 "wikilink")[冲绳群岛和](https://zh.wikipedia.org/wiki/冲绳群岛 "wikilink")[欧洲](../Page/欧洲.md "wikilink")的[地中海](../Page/地中海.md "wikilink")。
 
 1982年7月，蒂森在[亚利桑那州担任技术教练](https://zh.wikipedia.org/wiki/亚利桑那州 "wikilink")。
 
@@ -10,7 +10,7 @@
 
 1988年，蒂森回到美国，在罗德岛州[纽波特的美国海军战争学院学习升造](../Page/纽波特_\(罗得岛州\).md "wikilink")，毕业后在海军航空系统司令部任职。
 
-1991年6月，蒂森回到[华盛顿州在美国国家战争学院读书](../Page/华盛顿州.md "wikilink")。
+1991年6月，蒂森回到[华盛顿州](../Page/华盛顿州.md "wikilink")在美国国家战争学院读书。
 
 2001年10月，蒂森出任美国国家军事指挥中心的副主任。
 
@@ -18,7 +18,7 @@
 
 2007年6月，蒂森回到美国海军陆战队总部担任副监狱长助理。
 
-2010年3月15日，[美国国防部长](../Page/美国国防部长.md "wikilink")[罗伯特·盖茨提名蒂森为美国海军陆战队太平洋司令](../Page/罗伯特·盖茨.md "wikilink")。\[1\]
+2010年3月15日，[美国国防部长](../Page/美国国防部长.md "wikilink")[罗伯特·盖茨](../Page/罗伯特·盖茨.md "wikilink")提名蒂森为美国海军陆战队太平洋司令。\[1\]
 
 ## 个人生活
 

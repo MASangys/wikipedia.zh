@@ -4,10 +4,10 @@ Moment）功能，可以更加有趣的方式管理日程。\[1\]
 
 ## 荣誉
 
-  - 被[纽约时报评为](../Page/纽约时报.md "wikilink")2011Android应用程序前十名
+  - 被[纽约时报](../Page/纽约时报.md "wikilink")评为2011Android应用程序前十名
   - 被[PC
     Magazine评为一款必备的Android应用程序](https://zh.wikipedia.org/wiki/PC_Magazine "wikilink")
-  - 被 [TechCrunch评为](../Page/TechCrunch.md "wikilink")2011最佳Android应用程序
+  - 被 [TechCrunch](../Page/TechCrunch.md "wikilink")评为2011最佳Android应用程序
   - [Lifehacker评论](https://zh.wikipedia.org/wiki/Lifehacker "wikilink")“Any.DO是一款非常直观的、使用手势操作的Android待办事项应用程序”
 
 ## 参考资料

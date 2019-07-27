@@ -1,5 +1,5 @@
 **Eating your own dog
-food**（直译为“吃你自家的狗粮”，亦略称为**dogfooding**）是一句英语[俚语](https://zh.wikipedia.org/wiki/俚语 "wikilink")，常用于描述公司（尤指[软件公司](../Page/软件.md "wikilink")）使用自己生产的产品这一情况\[1\]。
+food**（直译为“吃你自家的狗粮”，亦略称为**dogfooding**）是一句英语[俚语](https://zh.wikipedia.org/wiki/俚语 "wikilink")，常用于描述公司（尤指[软件](../Page/软件.md "wikilink")公司）使用自己生产的产品这一情况\[1\]。
 
 ## 起源
 
@@ -9,13 +9,13 @@ zh-hant:電機電子工程師學會;}-](../Page/电气电子工程师学会.md "
 1.  在1980年代的一则Alpo牌狗粮的电视广告中，表示他用Alpo牌狗粮喂食自家的狗。
 2.  Kal Kan宠物食物公司的总经理传说曾在股东大会上吃了一罐自己公司的狗粮。
 
-而在IT业界这句俚语可能最早是于1988年开始使用的。当时[微软公司的高级主管](../Page/微软.md "wikilink")曾写过一封题为“Eating
+而在IT业界这句俚语可能最早是于1988年开始使用的。当时[微软](../Page/微软.md "wikilink")公司的高级主管曾写过一封题为“Eating
 our own
 Dogfood”（吃我们自家的狗粮）的邮件，在邮件中他向微软局域网管理工具项目的测试主管提出“提高内部使用自家产品比重”的挑战。而从此以后，这一俚语在公司内就传播开来了\[3\]\[4\]。
 
 ## 优势
 
-Dogfooding策略多基于一种常见的思维：如果公司打算让顾客买自己的产品，那至少公司自己也要愿意使用这些产品\[5\]。从这点出发，Dogfooding常被公司作为彰显其对自己产品的信心的方法，所以也可以看成是为自家产品做广告的手段\[6\]，如[微软和](../Page/微软.md "wikilink")[Google都强调在公司内部使用自己的](../Page/Google.md "wikilink")[软件产品](../Page/软件.md "wikilink")，而至少在微软就有这样的状况（尤其在软件开发阶段）：所有员工可选择以如每夜自动更新的方式获取大部分正处于开发阶段的产品（甚至包括Windows）的[每日构建版本](https://zh.wikipedia.org/wiki/軟體組建 "wikilink")，亦可选择在产品发布前用手动更新的方式获取较为稳定的beta版本或[发布候选版本](https://zh.wikipedia.org/wiki/軟件版本週期#Release_Candidate "wikilink")。
+Dogfooding策略多基于一种常见的思维：如果公司打算让顾客买自己的产品，那至少公司自己也要愿意使用这些产品\[5\]。从这点出发，Dogfooding常被公司作为彰显其对自己产品的信心的方法，所以也可以看成是为自家产品做广告的手段\[6\]，如[微软](../Page/微软.md "wikilink")和[Google](../Page/Google.md "wikilink")都强调在公司内部使用自己的[软件](../Page/软件.md "wikilink")产品，而至少在微软就有这样的状况（尤其在软件开发阶段）：所有员工可选择以如每夜自动更新的方式获取大部分正处于开发阶段的产品（甚至包括Windows）的[每日构建版本](https://zh.wikipedia.org/wiki/軟體組建 "wikilink")，亦可选择在产品发布前用手动更新的方式获取较为稳定的beta版本或[发布候选版本](https://zh.wikipedia.org/wiki/軟件版本週期#Release_Candidate "wikilink")。
 
 除了营销的效果外dogfooding还有一个显而易见的好处：dogfooding使开发者能够在现实的场景中测试自家公司的产品\[7\]\[8\]，这样就能在产品发布前让项目管理者对产品将被如何使用有更好的认知\[9\]。相对应的，在软件开发过程中，dogfooding的方式也多种多样，如建立构建分支、建立个人构建版本与直接进行个人测试，这些方法都能帮助开发者在将修改集成进每日构建版本前进行可行性测试，因而可以使构建版本更加稳定，并且能避免可能的不一致问题与依赖关系问题，尤其是在许多开发者（或者是开发团队）参与同一个产品的开发的时候。
 
@@ -36,17 +36,17 @@ Sperling就有注意到一点，他曾如此表示：
 在1999年，[惠普公司员工曾提及公司在内部推广使用自家产品的计划](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")，而有趣的是该计划名即“Alpo计划”\[15\]
 。
 
-[时代华纳与](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")[美国在线合并时](../Page/美国在线.md "wikilink")，新公司“美国在线·时代华纳”采用了美国在线的电子邮件系统，结果导致邮件丢失，生产率也有所降低，于是这一邮件系统后来就被弃用了\[16\]。
+[时代华纳与](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")[美国在线](../Page/美国在线.md "wikilink")合并时，新公司“美国在线·时代华纳”采用了美国在线的电子邮件系统，结果导致邮件丢失，生产率也有所降低，于是这一邮件系统后来就被弃用了\[16\]。
 
-在2011年6月1日，[YouTube为其视频上传服务添加了一个新特性](../Page/YouTube.md "wikilink")，使用户可以在标准授权与[创作共用协议间选取自己需要的授权许可](../Page/创作共用.md "wikilink")\[17\]\[18\]，而在没有标明商业使用许可的视频的许可证标识之下都有着“Shh\!
+在2011年6月1日，[YouTube](../Page/YouTube.md "wikilink")为其视频上传服务添加了一个新特性，使用户可以在标准授权与[创作共用](../Page/创作共用.md "wikilink")协议间选取自己需要的授权许可\[17\]\[18\]，而在没有标明商业使用许可的视频的许可证标识之下都有着“Shh\!
 - Internal Dogfood”\[19\]这样的信息，后来一个YouTube雇员证实这一信息是用于标识内测中的产品的\[20\]。
 
 ## 变种
 
 在2007年间，[-{zh-hans:纳斯达克;zh-hk:納斯達克;zh-tw:那斯達克;}-上市公司](../Page/纳斯达克.md "wikilink")的CIO谈到她使用另一个短语“drinking
 our own
-champagne”（直译为“喝我们自己的香槟”）以表达dogfooding的意思\[21\]，而后来[Novell的](../Page/Novell.md "wikilink")[公关部长Bruce](../Page/公共关系.md "wikilink")
-Lowry在评论Novell使用[Linux与](../Page/Linux.md "wikilink")[OpenOffice.org的情况时也表示更偏爱这一短语](../Page/OpenOffice.org.md "wikilink")\[22\]。在2009年间，微软的新任[CIOTony](https://zh.wikipedia.org/wiki/CIO "wikilink")
+champagne”（直译为“喝我们自己的香槟”）以表达dogfooding的意思\[21\]，而后来[Novell](../Page/Novell.md "wikilink")的[公关部长Bruce](../Page/公共关系.md "wikilink")
+Lowry在评论Novell使用[Linux](../Page/Linux.md "wikilink")与[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")的情况时也表示更偏爱这一短语\[22\]。在2009年间，微软的新任[CIOTony](https://zh.wikipedia.org/wiki/CIO "wikilink")
 Scott则从开发的产品犹如制造"顾客想买的冰淇淋"般的角度出发，提出“dogfooding”这一短语不够有吸引力而应以“icecreaming”代之\[23\]。
 
 ## 参见条目

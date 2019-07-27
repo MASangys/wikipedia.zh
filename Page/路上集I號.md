@@ -1,4 +1,4 @@
-『**路上集I號**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛在](../Page/川嶋愛.md "wikilink")2005年9月28日發售的第一張[重製](../Page/重製.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")\[1\]。
+『**路上集I號**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2005年9月28日發售的第一張[重製](../Page/重製.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")\[1\]。
 
 ## 解説
 
@@ -50,7 +50,7 @@
 10. **左投手**<small>（サウスポー）</small>
     編曲：長澤孝志
       -
-        [日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[福岡軟體銀行鷹](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")[和田毅登場歌曲](../Page/和田毅.md "wikilink")。
+        [日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[福岡軟體銀行鷹](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")[和田毅](../Page/和田毅.md "wikilink")登場歌曲。
 11. **更加！**<small>（もっと！）</small>
     編曲：長澤孝志
       -

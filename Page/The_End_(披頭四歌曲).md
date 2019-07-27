@@ -27,7 +27,7 @@ End》後面成為《艾比路》的最終曲。\[5\]
 ## 引用
 
   - 《The
-    End》在2006年動畫《[快樂腳](../Page/快樂腳.md "wikilink")》由[凱蒂蓮翻唱](../Page/凱蒂蓮.md "wikilink")。
+    End》在2006年動畫《[快樂腳](../Page/快樂腳.md "wikilink")》由[凱蒂蓮](../Page/凱蒂蓮.md "wikilink")翻唱。
 
 ## 參考資料
 

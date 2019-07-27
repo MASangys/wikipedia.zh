@@ -1,4 +1,4 @@
-**仙女座Y**是在[仙女座的一顆](../Page/仙女座.md "wikilink")[變星](../Page/變星.md "wikilink")，它被歸類為[米拉變星](https://zh.wikipedia.org/wiki/米拉變星 "wikilink")，[視星等的變化範圍從最暗的](https://zh.wikipedia.org/wiki/視星等 "wikilink")15.1等到最亮的8.2等，週期為220.5天\[1\]。
+**仙女座Y**是在[仙女座](../Page/仙女座.md "wikilink")的一顆[變星](../Page/變星.md "wikilink")，它被歸類為[米拉變星](https://zh.wikipedia.org/wiki/米拉變星 "wikilink")，[視星等的變化範圍從最暗的](https://zh.wikipedia.org/wiki/視星等 "wikilink")15.1等到最亮的8.2等，週期為220.5天\[1\]。
 
 ## 參考資料
 

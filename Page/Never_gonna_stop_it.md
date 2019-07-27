@@ -25,7 +25,7 @@ it**』是[MAX的第](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "
 
   - Never gonna stop it
       - [Bourbon](https://zh.wikipedia.org/wiki/Bourbon "wikilink")「くだものいっぱいゼリー」CM歌曲
-      - [日本電視台系](../Page/日本電視台.md "wikilink")「GIRLS²」片尾曲
+      - [日本電視台](../Page/日本電視台.md "wikilink")系「GIRLS²」片尾曲
   - Get ready?
       - [Nikon](https://zh.wikipedia.org/wiki/Nikon "wikilink")「Nuvis
         S2000」CM歌曲

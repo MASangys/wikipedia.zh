@@ -1,5 +1,5 @@
 [Libvirt_support.svg](https://zh.wikipedia.org/wiki/File:Libvirt_support.svg "fig:Libvirt_support.svg")
-and supports several [Hypervisors](../Page/Hypervisor.md "wikilink")\]\]
+and supports several [Hypervisor](../Page/Hypervisor.md "wikilink")s\]\]
 在[電腦運算中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，紅帽公司的**Virtual
 Machine
 Manager**是一個[虛擬機器管理員](https://zh.wikipedia.org/wiki/虛擬機器管理員 "wikilink")，可以讓使用者管理多個[虛擬機器](../Page/虛擬機器.md "wikilink")\[1\]。

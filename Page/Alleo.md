@@ -1,9 +1,9 @@
-**Alleo**是由[法国国家铁路及](../Page/法国国家铁路.md "wikilink")[德国铁路](../Page/德国铁路.md "wikilink")[合资的一家](https://zh.wikipedia.org/wiki/合资公司 "wikilink")[子公司](../Page/子公司.md "wikilink")，它主要经营通过[法国高速铁路东线往返于](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")[巴黎至](../Page/巴黎.md "wikilink")[法兰克福或](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")[斯图加特](https://zh.wikipedia.org/wiki/斯图加特 "wikilink")/[慕尼黑之间](../Page/慕尼黑.md "wikilink")、以及自2012年3月23日起经营通过[法国高速铁路莱茵河－隆河线往返于法兰克福至](https://zh.wikipedia.org/wiki/法国高速铁路莱茵河－隆河线 "wikilink")[马赛之间的国际列车服务](../Page/马赛.md "wikilink")。公司负责人为弗兰克·霍夫曼（）及贝阿特利斯·勒洛普（）。
+**Alleo**是由[法国国家铁路](../Page/法国国家铁路.md "wikilink")及[德国铁路](../Page/德国铁路.md "wikilink")[合资的一家](https://zh.wikipedia.org/wiki/合资公司 "wikilink")[子公司](../Page/子公司.md "wikilink")，它主要经营通过[法国高速铁路东线往返于](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")[巴黎](../Page/巴黎.md "wikilink")至[法兰克福或](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")[斯图加特](https://zh.wikipedia.org/wiki/斯图加特 "wikilink")/[慕尼黑](../Page/慕尼黑.md "wikilink")之间、以及自2012年3月23日起经营通过[法国高速铁路莱茵河－隆河线往返于法兰克福至](https://zh.wikipedia.org/wiki/法国高速铁路莱茵河－隆河线 "wikilink")[马赛](../Page/马赛.md "wikilink")之间的国际列车服务。公司负责人为弗兰克·霍夫曼（）及贝阿特利斯·勒洛普（）。
 
 ## 历史
 
 [TGV-ICE_ParisEst.jpg](https://zh.wikipedia.org/wiki/File:TGV-ICE_ParisEst.jpg "fig:TGV-ICE_ParisEst.jpg")的[ICE](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")（右）及[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")（左）\]\]
-2005年5月23日，[德国铁路及](../Page/德国铁路.md "wikilink")[法国国家铁路的原](../Page/法国国家铁路.md "wikilink")[总裁](../Page/总裁.md "wikilink")及签署了一项谅解备忘录，计划自2007年起在[德国南部至](../Page/德国.md "wikilink")[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎之间共同提供](../Page/巴黎.md "wikilink")[高速列车服务](https://zh.wikipedia.org/wiki/高速列车 "wikilink")\[1\]。
+2005年5月23日，[德国铁路](../Page/德国铁路.md "wikilink")及[法国国家铁路](../Page/法国国家铁路.md "wikilink")的原[总裁](../Page/总裁.md "wikilink")及签署了一项谅解备忘录，计划自2007年起在[德国](../Page/德国.md "wikilink")南部至[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")之间共同提供[高速列车服务](https://zh.wikipedia.org/wiki/高速列车 "wikilink")\[1\]。
 
 成立[合资公司Alleo的协议则由梅多恩及后任法国国家铁路总裁](https://zh.wikipedia.org/wiki/合资公司 "wikilink")于2007年5月25日在巴黎签署，并接管了原项目公司的工作。新公司的[总部设于德国](https://zh.wikipedia.org/wiki/总部 "wikilink")[萨尔布吕肯](../Page/萨尔布吕肯.md "wikilink")，总共仅设7名雇员。合资公司的协议保障直至2012年\[2\]。与类似的业务模式相比，例如法国国家铁路与[瑞士联邦铁路合资的](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")[Lyria](../Page/Lyria.md "wikilink")，Alleo并不对外交流，也没有设立面向乘客的[品牌](../Page/品牌.md "wikilink")。
 
@@ -11,11 +11,11 @@
 
 2008年3月，公司负责人霍夫曼宣布，鉴于首个[财政年度的良性发展](https://zh.wikipedia.org/wiki/财政年度 "wikilink")，未来将要设立更多的经停站（例如）及目的地（例如[马恩拉瓦莱-谢尔西车站](https://zh.wikipedia.org/wiki/马恩拉瓦莱-谢尔西车站 "wikilink")，通过法国高速铁路网络与[巴黎迪士尼乐园相接](https://zh.wikipedia.org/wiki/巴黎迪士尼乐园 "wikilink")）。但在2009年12月的运行图调整中，由法兰克福到发的列车仅是首先经停了。
 
-随着[法国高速铁路莱茵河－隆河线在](https://zh.wikipedia.org/wiki/法国高速铁路莱茵河－隆河线 "wikilink")2011年12月建成通车，两国铁路部门又自2012年3月23日起合作新开行了由法兰克福经[斯特拉斯堡及](../Page/斯特拉斯堡.md "wikilink")[里昂至](../Page/里昂.md "wikilink")[马赛的列车服务](../Page/马赛.md "wikilink")\[7\]。
+随着[法国高速铁路莱茵河－隆河线在](https://zh.wikipedia.org/wiki/法国高速铁路莱茵河－隆河线 "wikilink")2011年12月建成通车，两国铁路部门又自2012年3月23日起合作新开行了由法兰克福经[斯特拉斯堡](../Page/斯特拉斯堡.md "wikilink")及[里昂](../Page/里昂.md "wikilink")至[马赛](../Page/马赛.md "wikilink")的列车服务\[7\]。
 
 ## 公司名称
 
-对于公司名称的起源，有两种不同的说明。其中一种解释是它由[法语单词](../Page/法语.md "wikilink")“（走）”及“（德国的）”共同组成\[8\]。另一种解释则是它来源于“（东西联盟）”的[首字母缩写](https://zh.wikipedia.org/wiki/首字母缩写 "wikilink")\[9\]。弗兰克·霍夫曼指出，[音节](https://zh.wikipedia.org/wiki/音节 "wikilink")“All”可以代表（联盟）、（德国）或（一起）的缩写，[后缀](https://zh.wikipedia.org/wiki/后缀 "wikilink")“”则是“我走了”的[拉丁语翻译](../Page/拉丁语.md "wikilink")\[10\]。
+对于公司名称的起源，有两种不同的说明。其中一种解释是它由[法语](../Page/法语.md "wikilink")单词“（走）”及“（德国的）”共同组成\[8\]。另一种解释则是它来源于“（东西联盟）”的[首字母缩写](https://zh.wikipedia.org/wiki/首字母缩写 "wikilink")\[9\]。弗兰克·霍夫曼指出，[音节](https://zh.wikipedia.org/wiki/音节 "wikilink")“All”可以代表（联盟）、（德国）或（一起）的缩写，[后缀](https://zh.wikipedia.org/wiki/后缀 "wikilink")“”则是“我走了”的[拉丁语](../Page/拉丁语.md "wikilink")翻译\[10\]。
 
 ## 线路
 

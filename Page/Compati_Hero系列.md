@@ -1,4 +1,4 @@
-\[1\]是日本[Banpresto公司和](https://zh.wikipedia.org/wiki/Banpresto "wikilink")[南梦宫万代](https://zh.wikipedia.org/wiki/南梦宫万代 "wikilink")（原来的[万代](https://zh.wikipedia.org/wiki/万代 "wikilink")）发行的一个[电子游戏系列](../Page/电子游戏.md "wikilink")，首作在1990年发行，遊戲系列特色，是集合了[奥特曼系列](https://zh.wikipedia.org/wiki/奥特曼系列 "wikilink")，[假面騎士系列](../Page/假面騎士系列.md "wikilink")，[GUNDAM系列作品和](../Page/GUNDAM系列作品.md "wikilink")[铁拳系列角色](../Page/铁拳系列.md "wikilink")。由於初推出後大受歡迎，翌年更推出單純以跨作品機器人為主題的戰略遊戲「超級機器人大戰」，後者更成為遊戲界其中一款長壽系列。\[2\]
+\[1\]是日本[Banpresto公司和](https://zh.wikipedia.org/wiki/Banpresto "wikilink")[南梦宫万代](https://zh.wikipedia.org/wiki/南梦宫万代 "wikilink")（原来的[万代](https://zh.wikipedia.org/wiki/万代 "wikilink")）发行的一个[电子游戏](../Page/电子游戏.md "wikilink")系列，首作在1990年发行，遊戲系列特色，是集合了[奥特曼系列](https://zh.wikipedia.org/wiki/奥特曼系列 "wikilink")，[假面騎士系列](../Page/假面騎士系列.md "wikilink")，[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")和[铁拳系列](../Page/铁拳系列.md "wikilink")角色。由於初推出後大受歡迎，翌年更推出單純以跨作品機器人為主題的戰略遊戲「超級機器人大戰」，後者更成為遊戲界其中一款長壽系列。\[2\]
 
 ## 系列作品
 
@@ -13,7 +13,7 @@
     Basho*，[FC游戏机](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")－1990年4月20日）
       -
         Compati
-        Hero首部作品，以日本傳統[相撲為題材的距作品聯乘遊戲](../Page/相撲.md "wikilink")，也是[超級戰隊系列唯一出現作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")。
+        Hero首部作品，以日本傳統[相撲](../Page/相撲.md "wikilink")為題材的距作品聯乘遊戲，也是[超級戰隊系列唯一出現作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")。
         參與作品﹕[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[機動戰士Z
         GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")、[機動戰士GUNDAM
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人七號](../Page/超人七號.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")、[幪面超人V3](../Page/假面騎士V3.md "wikilink")、[幪面超人Black
@@ -199,7 +199,7 @@
   - 《[SD指挥官](https://zh.wikipedia.org/wiki/SD指挥官 "wikilink")》（*Battle
     Commander: Hachibushu Shura no Heihou*,又名「SD八武眾」，超级任天堂－1991年12月29日）
       -
-        以[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[鐵甲萬能俠](https://zh.wikipedia.org/wiki/鐵甲萬能俠 "wikilink")、[重戰機為主軸](../Page/重戰機.md "wikilink")、首次也是唯一一款實時戰略遊戲作品。
+        以[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[鐵甲萬能俠](https://zh.wikipedia.org/wiki/鐵甲萬能俠 "wikilink")、[重戰機](../Page/重戰機.md "wikilink")為主軸、首次也是唯一一款實時戰略遊戲作品。
   - *Shuffle Fight*（FC游戏机－1992年10月9日）
 
 ### 其他

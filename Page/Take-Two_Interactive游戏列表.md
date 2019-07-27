@@ -5677,7 +5677,7 @@ zh-tw:碧血狂殺;}-](../Page/荒野大镖客：救赎.md "wikilink")》以及�
 <td></td>
 <td><p><a href="../Page/网页游戏.md" title="wikilink">网页游戏</a></p></td>
 <td></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/腾讯.md" title="wikilink">腾讯游戏</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/腾讯.md" title="wikilink">腾讯</a>游戏</p></td>
 <td><p>2K Sports</p></td>
 <td><p>[707]</p></td>
 </tr>

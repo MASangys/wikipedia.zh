@@ -2,11 +2,11 @@
 
 ## 概要
 
-本作主要策劃人為[CGI製作出道的菅原狀太](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，由其一手擔當企劃、影像監督及角色設計的工作。全部影像均用到日本當地[MAD片和](../Page/MAD片.md "wikilink")[二次創作的製作技術](../Page/二次創作.md "wikilink")，涉及的[3D軟件包括](https://zh.wikipedia.org/wiki/三維計算機圖形軟件 "wikilink")[MikuMikuDance](../Page/MikuMikuDance.md "wikilink")、[Shade及](../Page/Shade.md "wikilink")[六角大王等](https://zh.wikipedia.org/wiki/六角大王 "wikilink")。而有別於2D動畫，本作大部分的內容是配音工作完成以後才開始製作影像。\[1\]\[2\]。而第1期官方網站就曾經公開承認，本作的製作預算相對緊絀，大部分的影像製作只能逼在播放前約一週內，幾乎毫無休止的狀況下完成。
+本作主要策劃人為[CGI製作出道的菅原狀太](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，由其一手擔當企劃、影像監督及角色設計的工作。全部影像均用到日本當地[MAD片](../Page/MAD片.md "wikilink")和[二次創作](../Page/二次創作.md "wikilink")的製作技術，涉及的[3D軟件包括](https://zh.wikipedia.org/wiki/三維計算機圖形軟件 "wikilink")[MikuMikuDance](../Page/MikuMikuDance.md "wikilink")、[Shade](../Page/Shade.md "wikilink")及[六角大王等](https://zh.wikipedia.org/wiki/六角大王 "wikilink")。而有別於2D動畫，本作大部分的內容是配音工作完成以後才開始製作影像。\[1\]\[2\]。而第1期官方網站就曾經公開承認，本作的製作預算相對緊絀，大部分的影像製作只能逼在播放前約一週內，幾乎毫無休止的狀況下完成。
 
 ## 內容
 
-作品內容主要是就著三位妖精於妖精之森的日常聚會展開，於15分鐘以內分成不同環節，不論內容和標題都滲入了其他作品的[二次創作與](../Page/二次創作.md "wikilink")[惡搞](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
+作品內容主要是就著三位妖精於妖精之森的日常聚會展開，於15分鐘以內分成不同環節，不論內容和標題都滲入了其他作品的[二次創作](../Page/二次創作.md "wikilink")與[惡搞](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
 
   - 主要環節
 
@@ -46,7 +46,7 @@
 :: 眾妖精以一般人形姿態登場，伴隨片尾曲跳舞。
 
 ::
-於第1期影碟特典經繪畫人氣角色[初音未來之](../Page/初音未來.md "wikilink")[KEI重新設計](../Page/KEI.md "wikilink")，並促成第2期之全新模組。
+於第1期影碟特典經繪畫人氣角色[初音未來](../Page/初音未來.md "wikilink")之[KEI](../Page/KEI.md "wikilink")重新設計，並促成第2期之全新模組。
 
 :;
 
@@ -77,7 +77,7 @@
     耳朵特別尖銳，頭戴骷髏髮夾。毒舌，十分放任懶散，毫不在乎場合和情況的限制。喜愛用星型魔杖。
     於片尾曲化為星音希露。
   -
-    頭戴蘑菇帽，亦是唯一一位沒有飛翼的狀精。妄想的程度不可思議，也是即興演出最強的一位。喜愛用[金針菇型魔杖](../Page/金針菇.md "wikilink")。
+    頭戴蘑菇帽，亦是唯一一位沒有飛翼的狀精。妄想的程度不可思議，也是即興演出最強的一位。喜愛用[金針菇](../Page/金針菇.md "wikilink")型魔杖。
     於片尾曲化為茸音可蘿。
   - \[3\]
     過場及切入畫面時出現的謎之生物。後來官方公佈是[貓和](https://zh.wikipedia.org/wiki/貓 "wikilink")[槌之子的合成獸](https://zh.wikipedia.org/wiki/槌之子 "wikilink")。
@@ -289,7 +289,7 @@ LiLi），主唱：噼庫噼庫（[三森鈴子](https://zh.wikipedia.org/wiki/�
 | ---------------------------------- | ----------------------------------------------------------------- | ------------------ | --------------------------------------------------------------- | ------------------------------------------------------------- | ---------- |
 | 第1期                                |                                                                   |                    |                                                                 |                                                               |            |
 | [東京都](../Page/東京都.md "wikilink")   | [東京都會電視台](../Page/東京都會電視台.md "wikilink")                          | 2011年10月12日－12月28日 | [星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink") 27:00－27:15 | [UHF局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |            |
-| [日本全國](../Page/日本.md "wikilink")   | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2011年10月13日－12月29日 | [星期四](https://zh.wikipedia.org/wiki/星期四 "wikilink") 13:00 更新    | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")         | \[4\]\[5\] |
+| [日本](../Page/日本.md "wikilink")全國   | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2011年10月13日－12月29日 | [星期四](https://zh.wikipedia.org/wiki/星期四 "wikilink") 13:00 更新    | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")         | \[4\]\[5\] |
 | 第2期 ＃0                             |                                                                   |                    |                                                                 |                                                               |            |
 | 東京都                                | 東京都會電視台                                                           | 2012年12月27日        | 星期四 27:00－27:15                                                 | UHF局                                                          |            |
 | 日本全國                               | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2012年12月28日        | 星期四 13:00 更新                                                    | 網絡電視                                                          | \[6\]      |
@@ -305,7 +305,7 @@ LiLi），主唱：噼庫噼庫（[三森鈴子](https://zh.wikipedia.org/wiki/�
 
 第1期發行全3卷，BD版特別收錄由KEI描繪的角色形象影碟盒、相對集數之新編「森之後台」、無字幕映像、未公開配音湖及聲優短評；初回版另外加贈CD，特別收錄相對集數本篇茶會時間音聲版、gdgd電台妖精及部分歌曲。所有影碟的下集預告內容，因應版權要求而進行適度改動，主要為[馬賽克處理](../Page/馬賽克_\(影像處理\).md "wikilink")。
 
-第2期發行全3卷。BD版除了延續上期附贈之影像，亦特別收錄無對白短篇動畫、評論副音軌及[MikuMikuDance素材](../Page/MikuMikuDance.md "wikilink")；初回版另外加贈CD，特別收錄gdgd電台妖精s及未公開素喇叭。
+第2期發行全3卷。BD版除了延續上期附贈之影像，亦特別收錄無對白短篇動畫、評論副音軌及[MikuMikuDance](../Page/MikuMikuDance.md "wikilink")素材；初回版另外加贈CD，特別收錄gdgd電台妖精s及未公開素喇叭。
 
 <table>
 <thead>

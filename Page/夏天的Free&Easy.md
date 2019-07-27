@@ -1,10 +1,10 @@
-《**夏天的Free\&Easy**》（）是[日本女子組合](../Page/日本.md "wikilink")[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")9張單曲，於2014年7月9日由[N46Div.發行](../Page/Sony_Music_Records.md "wikilink")。
+《**夏天的Free\&Easy**》（）是[日本](../Page/日本.md "wikilink")女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")9張單曲，於2014年7月9日由[N46Div.發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 簡介
 
 《夏天的Free\&Easy》跟上一張單曲《[覺察已是單相思](https://zh.wikipedia.org/wiki/覺察已是單相思 "wikilink")》相隔約三個月發行，是乃木坂46於2014年發行的第2張單曲。單曲分為附送DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共4種形式發行\[1\]。
 
-與前數張作品不同，本單曲的表题曲取消了每次更換中央位置成員（）的安排，並再次由上作《覺察已是單相思》中的中央位置成員[西野七瀨擔任此位置](../Page/西野七瀨.md "wikilink")\[2\]。同時，《夏天的Free\&Easy》采用新阵列，選拔成員擴編至共17人，福神人数則从一排5人增至兩排10人為「十福神」，首次參與錄製乃木坂46歌曲\[3\]的[SKE48交換留學生](../Page/SKE48.md "wikilink")[松井玲奈則排福神前列](../Page/松井玲奈.md "wikilink")。\[4\]單曲[A面曲以](https://zh.wikipedia.org/wiki/A面曲 "wikilink")「都會之夏」為主題，[音樂影片於](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[澀谷和](../Page/澀谷.md "wikilink")[原宿地區中正在營業的](../Page/原宿.md "wikilink")[時裝店內拍攝](https://zh.wikipedia.org/wiki/時裝店 "wikilink")\[5\]。
+與前數張作品不同，本單曲的表题曲取消了每次更換中央位置成員（）的安排，並再次由上作《覺察已是單相思》中的中央位置成員[西野七瀨](../Page/西野七瀨.md "wikilink")擔任此位置\[2\]。同時，《夏天的Free\&Easy》采用新阵列，選拔成員擴編至共17人，福神人数則从一排5人增至兩排10人為「十福神」，首次參與錄製乃木坂46歌曲\[3\]的[SKE48](../Page/SKE48.md "wikilink")交換留學生[松井玲奈](../Page/松井玲奈.md "wikilink")則排福神前列。\[4\]單曲[A面曲以](https://zh.wikipedia.org/wiki/A面曲 "wikilink")「都會之夏」為主題，[音樂影片於](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[澀谷](../Page/澀谷.md "wikilink")和[原宿](../Page/原宿.md "wikilink")地區中正在營業的[時裝店內拍攝](https://zh.wikipedia.org/wiki/時裝店 "wikilink")\[5\]。
 
 ## 收錄內容
 
@@ -79,7 +79,7 @@
 
   - [乃木坂46官方網站](http://www.nogizaka46.com/discography/)
   - PV
-    <small>（乃木坂46官方[YouTube频道](../Page/YouTube.md "wikilink")、限日本地區觀看）</small>
+    <small>（乃木坂46官方[YouTube](../Page/YouTube.md "wikilink")频道、限日本地區觀看）</small>
       -
       -
       -

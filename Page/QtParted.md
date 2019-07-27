@@ -1,8 +1,8 @@
 **QtParted**是一個[GNU
-Parted的](../Page/GNU_Parted.md "wikilink")[Qt前端](../Page/Qt.md "wikilink")，是[KDE在開發出](../Page/KDE.md "wikilink")[KDE
+Parted的](../Page/GNU_Parted.md "wikilink")[Qt](../Page/Qt.md "wikilink")前端，是[KDE](../Page/KDE.md "wikilink")在開發出[KDE
 Partition
 Manager前的官方](../Page/KDE_Partition_Manager.md "wikilink")，可以用於建立、刪除、移動分割，調整[分割大小等操作](https://zh.wikipedia.org/wiki/硬碟分割 "wikilink")。使用[GNU
-Parted作為後端](../Page/GNU_Parted.md "wikilink")，並以[Qt作為前端](../Page/Qt.md "wikilink")。它也可以使用來調整[NTFS的分割大小](../Page/NTFS.md "wikilink")。不支持調整[LVM](https://zh.wikipedia.org/wiki/邏輯捲軸管理 "wikilink")。
+Parted作為後端](../Page/GNU_Parted.md "wikilink")，並以[Qt](../Page/Qt.md "wikilink")作為前端。它也可以使用來調整[NTFS](../Page/NTFS.md "wikilink")的分割大小。不支持調整[LVM](https://zh.wikipedia.org/wiki/邏輯捲軸管理 "wikilink")。
 
 QtParted開發團隊並不直接提供使用QtParted的[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")。但被包含在[Ark
 Linux的](https://zh.wikipedia.org/wiki/Ark_Linux "wikilink")[Live

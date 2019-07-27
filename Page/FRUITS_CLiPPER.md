@@ -1,5 +1,5 @@
 《**FRUITS
-CLiPPER**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")7張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2007年2月21日發行。唱片公司為。
+CLiPPER**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第7張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2007年2月21日發行。唱片公司為。
 
 ## 概要
 
@@ -11,7 +11,7 @@ CLiPPER**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")7張
     Store上作為Bonus](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")
     Track限定配信。
   - 專輯曲「dreamin
-    dreamin」其後被[MEG翻唱](../Page/MEG.md "wikilink")（收錄於專輯[BEAM](https://zh.wikipedia.org/wiki/BEAM_\(MEG專輯\) "wikilink")），「jelly」也被[Kyary
+    dreamin」其後被[MEG](../Page/MEG.md "wikilink")翻唱（收錄於專輯[BEAM](https://zh.wikipedia.org/wiki/BEAM_\(MEG專輯\) "wikilink")），「jelly」也被[Kyary
     Pamyu
     Pamyu翻唱](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")（收錄於迷你專輯[你好原宿](../Page/你好原宿.md "wikilink")）。
 

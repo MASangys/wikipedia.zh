@@ -3,9 +3,9 @@ InkML（*Ink* *M*arkup
 
 ## 外部链接
 
-  - [标准的墨标语架构文件](http://www.w3.org/TR/InkML/inkml.xsd)：本文件由[万维网联盟提供](../Page/万维网联盟.md "wikilink")。
+  - [标准的墨标语架构文件](http://www.w3.org/TR/InkML/inkml.xsd)：本文件由[万维网联盟](../Page/万维网联盟.md "wikilink")提供。
 
-  - [2011．09．20版本，建议的墨标语架构文件](http://www.w3.org/TR/2011/REC-InkML-20110920/inkml.xsd)：本文件由[万维网联盟提供](../Page/万维网联盟.md "wikilink")。
+  - [2011．09．20版本，建议的墨标语架构文件](http://www.w3.org/TR/2011/REC-InkML-20110920/inkml.xsd)：本文件由[万维网联盟](../Page/万维网联盟.md "wikilink")提供。
 
 <!-- end list -->
 

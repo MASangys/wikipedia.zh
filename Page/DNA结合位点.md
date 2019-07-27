@@ -5,7 +5,7 @@ DNA结合位点与其它结合位点的区别在于：
   - 它们是DNA序列（如一个基因组）中的一部分；
   - 它们被[DNA结合蛋白所绑定](https://zh.wikipedia.org/wiki/DNA结合蛋白 "wikilink")。
 
-DNA结合位点常常与一类被称为[转录因子的特殊蛋白相联系起来](../Page/转录因子.md "wikilink")，并因此联系到[转录调控](../Page/转录调控.md "wikilink")。针对特定的一个转录因子的DNA结合位点总和常被命名为该转录因子的[顺反组](../Page/顺反组.md "wikilink")。DNA结合位点也包括了其它蛋白的靶点，如[限制性核酸内切酶](https://zh.wikipedia.org/wiki/限制性核酸内切酶 "wikilink")、位点特异性重组酶（见[位点专一重组](https://zh.wikipedia.org/wiki/位点专一重组 "wikilink")）及[甲基转移酶类](https://zh.wikipedia.org/wiki/甲基转移酶 "wikilink")\[1\]。
+DNA结合位点常常与一类被称为[转录因子](../Page/转录因子.md "wikilink")的特殊蛋白相联系起来，并因此联系到[转录调控](../Page/转录调控.md "wikilink")。针对特定的一个转录因子的DNA结合位点总和常被命名为该转录因子的[顺反组](../Page/顺反组.md "wikilink")。DNA结合位点也包括了其它蛋白的靶点，如[限制性核酸内切酶](https://zh.wikipedia.org/wiki/限制性核酸内切酶 "wikilink")、位点特异性重组酶（见[位点专一重组](https://zh.wikipedia.org/wiki/位点专一重组 "wikilink")）及[甲基转移酶类](https://zh.wikipedia.org/wiki/甲基转移酶 "wikilink")\[1\]。
 
 因此，DNA结合位点可被定义为：特异性地被一种或多种[DNA结合蛋白或蛋白复合物所结合的一段短DNA序列](https://zh.wikipedia.org/wiki/DNA结合蛋白 "wikilink")（典型的是4～30个碱基长，对重组位点来说则长达200bp）。
 

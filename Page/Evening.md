@@ -34,7 +34,7 @@
   - [激昂がんぼ](https://zh.wikipedia.org/wiki/激昂がんぼ "wikilink")（[東風孝広](https://zh.wikipedia.org/wiki/東風孝広 "wikilink")
     原作：[田島隆](https://zh.wikipedia.org/wiki/田島隆 "wikilink")）
   - [BLOOD
-    ALONE](../Page/BLOOD_ALONE.md "wikilink")（[高野真之](https://zh.wikipedia.org/wiki/高野真之 "wikilink")）※[月刊Comic電擊大王移籍](../Page/月刊Comic電擊大王.md "wikilink")
+    ALONE](../Page/BLOOD_ALONE.md "wikilink")（[高野真之](https://zh.wikipedia.org/wiki/高野真之 "wikilink")）※[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")移籍
   - [プロチチ](https://zh.wikipedia.org/wiki/プロチチ "wikilink")（[逢坂三重子](https://zh.wikipedia.org/wiki/逢坂三重子 "wikilink")）
   - [看護工向前衝](https://zh.wikipedia.org/wiki/看護工向前衝 "wikilink")（[草花里樹](https://zh.wikipedia.org/wiki/草花里樹 "wikilink")）\<\!--
   - [瞼の母](https://zh.wikipedia.org/wiki/瞼の母 "wikilink")（[小林まこと](https://zh.wikipedia.org/wiki/小林まこと "wikilink")

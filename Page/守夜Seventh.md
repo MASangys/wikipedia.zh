@@ -1,4 +1,4 @@
-《**守夜**》（），是由马来西亚金牌编剧[李勇昌于](../Page/李勇昌.md "wikilink")2013年自编自导的[马来西亚灵异驚悚片](../Page/马来西亚.md "wikilink")，由来自台湾的[Gino](../Page/Gino.md "wikilink")、新加坡的[王欣](https://zh.wikipedia.org/wiki/王欣 "wikilink")、马来西亚的[陈立谦主演](../Page/陈立谦.md "wikilink")。該片于2014年10月16日在马来西亚上映。
+《**守夜**》（），是由马来西亚金牌编剧[李勇昌](../Page/李勇昌.md "wikilink")于2013年自编自导的[马来西亚](../Page/马来西亚.md "wikilink")灵异驚悚片，由来自台湾的[Gino](../Page/Gino.md "wikilink")、新加坡的[王欣](https://zh.wikipedia.org/wiki/王欣 "wikilink")、马来西亚的[陈立谦](../Page/陈立谦.md "wikilink")主演。該片于2014年10月16日在马来西亚上映。
 
 ## 演員列表
 

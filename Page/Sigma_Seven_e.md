@@ -1,11 +1,11 @@
 **株式會社Sigma Seven
-e**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
+e**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 概要
 
 2009年10月1日成立\[2\]。是[Sigma
 Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係公司的The
-聲優塾養成所解散的關係而創立。另一方面，在這之中畢業生有[安元洋貴](../Page/安元洋貴.md "wikilink")、[福圓美里等人](../Page/福圓美里.md "wikilink")。
+聲優塾養成所解散的關係而創立。另一方面，在這之中畢業生有[安元洋貴](../Page/安元洋貴.md "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")等人。
 
 所屬聲優大多來自Sigma Seven附屬培訓學校出身，和第2回以後Sigma Seven新人聲優徵選會經過獲選的合格者。
 

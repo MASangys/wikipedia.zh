@@ -1,4 +1,4 @@
-**MacSoft**是位于美国[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[普利茅斯的软件开发发行商](../Page/普利茅斯.md "wikilink")，1993年由Peter
+**MacSoft**是位于美国[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[普利茅斯](../Page/普利茅斯.md "wikilink")的软件开发发行商，1993年由Peter
 Tamte创办，迄今为[Mac电脑发行软件超过百款](https://zh.wikipedia.org/wiki/Mac "wikilink")。MacSoft的产品包括[Windows移植游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")，如《[光环：战斗进化](https://zh.wikipedia.org/wiki/光环：战斗进化 "wikilink")》和[帝国时代系列](https://zh.wikipedia.org/wiki/帝国时代系列 "wikilink")，此外还有Desktop
 Labels和1-2-3 Home Design等生产软件\[1\]。
 

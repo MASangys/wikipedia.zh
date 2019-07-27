@@ -1,4 +1,4 @@
-**GNU查找工具组**，或**findutils**是一个[GNU软件包](../Page/GNU软件包列表.md "wikilink")，它提供了基本文件搜索工具，来搜索[GNU和](../Page/GNU.md "wikilink")[类Unix的系统中的目录](https://zh.wikipedia.org/wiki/类Unix "wikilink")。它包含了[find](https://zh.wikipedia.org/wiki/find "wikilink")、[locate](https://zh.wikipedia.org/wiki/locate_\(Unix\) "wikilink")、[updatedb和](https://zh.wikipedia.org/wiki/updatedb "wikilink")[xargs工具的实现](https://zh.wikipedia.org/wiki/xargs "wikilink")。然而，在各种Linux发行版的最新版本中，locate和updatedb已经被剥离到一个单独的包中。
+**GNU查找工具组**，或**findutils**是一个[GNU软件包](../Page/GNU软件包列表.md "wikilink")，它提供了基本文件搜索工具，来搜索[GNU](../Page/GNU.md "wikilink")和[类Unix的系统中的目录](https://zh.wikipedia.org/wiki/类Unix "wikilink")。它包含了[find](https://zh.wikipedia.org/wiki/find "wikilink")、[locate](https://zh.wikipedia.org/wiki/locate_\(Unix\) "wikilink")、[updatedb和](https://zh.wikipedia.org/wiki/updatedb "wikilink")[xargs工具的实现](https://zh.wikipedia.org/wiki/xargs "wikilink")。然而，在各种Linux发行版的最新版本中，locate和updatedb已经被剥离到一个单独的包中。
 
 ## findutils包含软件
 

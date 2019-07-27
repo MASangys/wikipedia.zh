@@ -1,5 +1,5 @@
 《**Let's
-Fly**》是韓國男子組合[B1A4首張迷你專輯](../Page/B1A4.md "wikilink")，在2011年4月21日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]
+Fly**》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")首張迷你專輯，在2011年4月21日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]
 ，主打曲目為《只學會不好的事》（）。
 
 ## 曲目

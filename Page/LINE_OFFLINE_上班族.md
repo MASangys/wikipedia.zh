@@ -1,5 +1,5 @@
 《**LINE OFFLINE
-上班族**》（），是从2013年1月7日开始在[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")（[關東限定](https://zh.wikipedia.org/wiki/關東 "wikilink")）播放的5分鐘短篇動畫（[泡麵番](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")）\[1\]，描述了各个登场人物在公司中的日常生活。2013年8月12日起，每週一至週五晚上7點在[八大綜合台播出](../Page/八大綜合台.md "wikilink")。2017年11月27日起，每週一至週五晚上9點55分在[ViuTV播出](../Page/ViuTV.md "wikilink")，但於2018年3月6日起改為每週二至週六深夜12點30分在[ViuTV播出](../Page/ViuTV.md "wikilink")。
+上班族**》（），是从2013年1月7日开始在[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")（[關東限定](https://zh.wikipedia.org/wiki/關東 "wikilink")）播放的5分鐘短篇動畫（[泡麵番](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")）\[1\]，描述了各个登场人物在公司中的日常生活。2013年8月12日起，每週一至週五晚上7點在[八大綜合台](../Page/八大綜合台.md "wikilink")播出。2017年11月27日起，每週一至週五晚上9點55分在[ViuTV](../Page/ViuTV.md "wikilink")播出，但於2018年3月6日起改為每週二至週六深夜12點30分在[ViuTV](../Page/ViuTV.md "wikilink")播出。
 
 本動畫為[LINE的](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")。
 

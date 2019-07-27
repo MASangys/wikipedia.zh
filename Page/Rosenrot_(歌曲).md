@@ -1,6 +1,6 @@
 "**Rosenrot**"（德译：玫瑰红）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，收录于同名专辑[Rosenrot](../Page/Rosenrot.md "wikilink")。
 
-歌词包含的元素来自[约翰·沃尔夫冈·冯·歌德的诗歌](../Page/约翰·沃尔夫冈·冯·歌德.md "wikilink")[野玫瑰和](../Page/野玫瑰.md "wikilink")[格林兄弟的故事](../Page/格林兄弟.md "wikilink")，Till在该歌中没有发出他的标志性“R”翘舌音。
+歌词包含的元素来自[约翰·沃尔夫冈·冯·歌德](../Page/约翰·沃尔夫冈·冯·歌德.md "wikilink")的诗歌[野玫瑰](../Page/野玫瑰.md "wikilink")和[格林兄弟](../Page/格林兄弟.md "wikilink")的故事，Till在该歌中没有发出他的标志性“R”翘舌音。
 
 ## MV
 

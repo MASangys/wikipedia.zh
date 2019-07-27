@@ -1,5 +1,5 @@
 《**Dream Girl - The Misconceptions Of
-You**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")3枚正規韓語專輯。於2013年2月19日發行。唱片公司為[SM
+You**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第3枚正規韓語專輯。於2013年2月19日發行。唱片公司為[SM
 Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 概要

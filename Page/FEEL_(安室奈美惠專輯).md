@@ -1,5 +1,5 @@
 《**FEEL**》（覺
-醒）是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠第十一張專輯](../Page/安室奈美惠.md "wikilink")。於2013年7月10日由[Avex旗下新品牌](https://zh.wikipedia.org/wiki/Avex "wikilink")[Dimension
+醒）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")第十一張專輯。於2013年7月10日由[Avex旗下新品牌](https://zh.wikipedia.org/wiki/Avex "wikilink")[Dimension
 Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
 
 ## 簡介
@@ -19,7 +19,7 @@ Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
 ## 音樂錄影帶
 
   - 本作除了〈Big Boys
-    Cry〉以外，其他[音樂錄影帶皆於](../Page/音樂錄影帶.md "wikilink")[洛杉磯所拍攝](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")\[6\]。
+    Cry〉以外，其他[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")皆於[洛杉磯所拍攝](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")\[6\]。
   - 〈Let Me Let You
     Go〉的MV特別前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯的海灘拍攝](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，取日落前20分鐘，並加上安室本人的鋼琴演奏\[7\]。
   - 〈Heaven〉為[女神卡卡的巡演DJ](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[ZEDD所製作](https://zh.wikipedia.org/wiki/ZEDD "wikilink")，MV想傳達出於「異次元的舞曲音樂錄影帶」，全篇以舞蹈場面構成\[8\]。
@@ -33,7 +33,7 @@ Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
   - **DISC1：CD**
       - 全12曲收錄
   - **DISC2：DVD**
-      - [音樂錄像帶全](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")6曲收錄、秘藏影像
+      - 全6曲PV收錄、秘藏影像
   - 預購特典：B2尺寸海報。
 
 ### CD+Blu-ray
@@ -42,7 +42,7 @@ Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
   - **DISC1：CD**
       - 全12曲收錄
   - **DISC2: Blu-ray**
-      - [音樂錄像帶全](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")6曲收錄、秘藏影像
+      - 全6曲PV收錄、秘藏影像
   - 預購特典：B2尺寸海報。
 
 ### CD ONLY

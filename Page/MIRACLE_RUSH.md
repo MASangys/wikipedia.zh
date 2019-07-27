@@ -1,12 +1,12 @@
 「**MIRACLE
-RUSH**」是[StylipS的第](../Page/StylipS.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Lantis發售](../Page/Lantis.md "wikilink")。
+RUSH**」是[StylipS](../Page/StylipS.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要
 
 與前作「[STUDY×STUDY](../Page/STUDY×STUDY.md "wikilink")」相隔約3個月發售的作品，是2012年的第2張單曲。標題曲「MIRACLE
-RUSH」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[咲-Saki-阿知賀編
+RUSH」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[咲-Saki-
 episode of
-side-A](../Page/咲-Saki-.md "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。
+side-A](../Page/咲-Saki-.md "wikilink")阿知賀編』的[主題曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲
 
@@ -15,8 +15,8 @@ side-A](../Page/咲-Saki-.md "wikilink")』的[主題曲](../Page/主題曲.md "
 1.  **MIRACLE RUSH** \[4:07\]
       -
         作曲・編曲：[山口朗彦](https://zh.wikipedia.org/wiki/山口朗彦 "wikilink")
-        電視動畫『[咲-Saki-阿知賀編 episode of
-        side-A](../Page/咲-Saki-.md "wikilink")』主題曲
+        電視動畫『[咲-Saki- episode of
+        side-A](../Page/咲-Saki-.md "wikilink")阿知賀編』主題曲
 2.  **Honey Groove** \[3:43\]
       -
         作曲・編曲：[高田暁](https://zh.wikipedia.org/wiki/高田暁 "wikilink")

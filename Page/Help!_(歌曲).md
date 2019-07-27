@@ -1,6 +1,6 @@
 《**Help\!**》是一首[披头士乐队的歌曲](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，为同名专辑《[Help\!](../Page/Help!.md "wikilink")》和同名电影《[Help\!](../Page/Help!_\(电影\).md "wikilink")》的标题歌。它也作为单曲发行，在英国和美国两地的排行榜上位居第一长达三周。
 
-这首歌由[约翰·列侬创作](../Page/约翰·列侬.md "wikilink")，但署名为[列侬-麦卡特尼](https://zh.wikipedia.org/wiki/列侬-麦卡特尼 "wikilink")。在1980年《[花花公子](../Page/花花公子.md "wikilink")》的采访中，列侬说：“当时整个披头士的事情超出了理解范围。我是潜意识地在呼喊求救。”
+这首歌由[约翰·列侬](../Page/约翰·列侬.md "wikilink")创作，但署名为[列侬-麦卡特尼](https://zh.wikipedia.org/wiki/列侬-麦卡特尼 "wikilink")。在1980年《[花花公子](../Page/花花公子.md "wikilink")》的采访中，列侬说：“当时整个披头士的事情超出了理解范围。我是潜意识地在呼喊求救。”
 
 [《Help\!》的歌词，甲壳虫乐队的歌曲《求救！》](https://www.yeyebook.com/zh/%E6%8A%AB%E9%A0%AD%E5%9B%9B%E6%A8%82%E9%9A%8A-beatles-%E6%AD%8C%E6%9B%B2%E3%80%8Ahelp%E3%80%8B%E3%80%8A%E6%B1%82%E6%95%91%EF%BC%81%E3%80%8B-%E6%AD%8C%E6%9B%B2%E6%AD%8C%E8%AF%8D-%E6%96%87%E6%9C%AC/)
 [中文翻译](https://www.yeyebook.com/)

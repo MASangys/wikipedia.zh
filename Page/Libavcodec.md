@@ -1,8 +1,8 @@
-**libavcodec**是一款[LGPL](../Page/GNU宽通用公共许可证.md "wikilink")[自由软件编解码库](../Page/自由软件.md "wikilink")，用于视频和音频数据的编解码工作。带有这个名字的库有[FFmpeg项目和](../Page/FFmpeg.md "wikilink")[Libav项目](https://zh.wikipedia.org/wiki/Libav "wikilink")，但是它们却彼此不兼容。
+**libavcodec**是一款[LGPL](../Page/GNU宽通用公共许可证.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")编解码库，用于视频和音频数据的编解码工作。带有这个名字的库有[FFmpeg](../Page/FFmpeg.md "wikilink")项目和[Libav项目](https://zh.wikipedia.org/wiki/Libav "wikilink")，但是它们却彼此不兼容。
 
-libavcodec是个集成了许多开源多媒体应用和框架。常见的[MPlayer](../Page/MPlayer.md "wikilink")、[xine和](https://zh.wikipedia.org/wiki/xine "wikilink")[VLC媒体播放器都使用它作为它们的主要内置解码引擎](https://zh.wikipedia.org/wiki/VLC "wikilink")，用于许多音频视频格式在所有支持的平台上的重放。它也被[ffdshow试用解码器用作主要的解码库](https://zh.wikipedia.org/wiki/ffdshow "wikilink")。libavcodec也被用于视频编辑和转换应用，例如[Avidemux](../Page/Avidemux.md "wikilink")、或者[Kdenlive既用它解码也用其编码](../Page/Kdenlive.md "wikilink")。
+libavcodec是个集成了许多开源多媒体应用和框架。常见的[MPlayer](../Page/MPlayer.md "wikilink")、[xine和](https://zh.wikipedia.org/wiki/xine "wikilink")[VLC媒体播放器都使用它作为它们的主要内置解码引擎](https://zh.wikipedia.org/wiki/VLC "wikilink")，用于许多音频视频格式在所有支持的平台上的重放。它也被[ffdshow试用解码器用作主要的解码库](https://zh.wikipedia.org/wiki/ffdshow "wikilink")。libavcodec也被用于视频编辑和转换应用，例如[Avidemux](../Page/Avidemux.md "wikilink")、或者[Kdenlive](../Page/Kdenlive.md "wikilink")既用它解码也用其编码。
 
-libavcodec包含了解码器和为实现若干专有格式而存在的编码器。其本身在[逆向工程方面的工作就是libavcodec发展成长的一部分](../Page/逆向工程.md "wikilink")。在标准的libavcodec框架下，有着这些有效的编解码器为使用原始的编解码器带来很大的益处，最明显的就是提升了移植性。另一些方面也增加了它的表现力，因为libavcodec包含了一份标准库，它高度优化了常见建立块的实现，比如[DCT和色彩空间转换](https://zh.wikipedia.org/wiki/DCT "wikilink")。但是，即便libavcodec致力于将字节提取级别的解码来实现最终结果，这样的重现中出现的错误和丢失的特征有时候能导致回放固定文件的兼容性问题。
+libavcodec包含了解码器和为实现若干专有格式而存在的编码器。其本身在[逆向工程](../Page/逆向工程.md "wikilink")方面的工作就是libavcodec发展成长的一部分。在标准的libavcodec框架下，有着这些有效的编解码器为使用原始的编解码器带来很大的益处，最明显的就是提升了移植性。另一些方面也增加了它的表现力，因为libavcodec包含了一份标准库，它高度优化了常见建立块的实现，比如[DCT和色彩空间转换](https://zh.wikipedia.org/wiki/DCT "wikilink")。但是，即便libavcodec致力于将字节提取级别的解码来实现最终结果，这样的重现中出现的错误和丢失的特征有时候能导致回放固定文件的兼容性问题。
 
 ## 已實作的影像編解碼器
 
@@ -40,7 +40,7 @@ libavcodec包含如下的編解碼：\[1\]
   - [MPEG-1](../Page/MPEG-1.md "wikilink")
   - [MPEG-2](../Page/MPEG-2.md "wikilink")/[H.262](../Page/H.262.md "wikilink")
   - [MPEG-4 Part
-    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")（格式多用於[DivX與](../Page/DivX.md "wikilink")[Xvid](../Page/Xvid.md "wikilink")）
+    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")（格式多用於[DivX](../Page/DivX.md "wikilink")與[Xvid](../Page/Xvid.md "wikilink")）
 
 <!-- end list -->
 
@@ -181,11 +181,11 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
 ## 引用libavcodec的庫
 
-  - libavformat（[FFmpeg之部份](../Page/FFmpeg.md "wikilink")）
+  - libavformat（[FFmpeg](../Page/FFmpeg.md "wikilink")之部份）
   - libgegl（[GEGL可選之部份](https://zh.wikipedia.org/wiki/GEGL "wikilink")）
-      - libgimp（[GIMP之部份](../Page/GIMP.md "wikilink")）
-  - libmpcodecs（[MPlayer之部份](../Page/MPlayer.md "wikilink")）
-      - libmpdemux（[MPlayer之部份](../Page/MPlayer.md "wikilink")）
+      - libgimp（[GIMP](../Page/GIMP.md "wikilink")之部份）
+  - libmpcodecs（[MPlayer](../Page/MPlayer.md "wikilink")之部份）
+      - libmpdemux（[MPlayer](../Page/MPlayer.md "wikilink")之部份）
 
 ## 使用libavcodec的應用程式
 

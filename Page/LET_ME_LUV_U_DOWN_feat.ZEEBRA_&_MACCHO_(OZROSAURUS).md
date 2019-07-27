@@ -1,13 +1,13 @@
 「**LET ME LUV U DOWN feat.ZEEBRA & MACCHO
-(OZROSAURUS)**」（愛到癱瘓）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年7月9日於日本發行。
+(OZROSAURUS)**」（愛到癱瘓）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年7月9日於日本發行。
 
 ## 解說
 
   - [ZEEBRA與](https://zh.wikipedia.org/wiki/ZEEBRA "wikilink")[OZROSAURUS及MACCHO為主的單曲](https://zh.wikipedia.org/wiki/OZROSAURUS "wikilink")。
-  - 據說EXILE以這首單曲「開拓新的種類」為主題。[MAKIDAI說著](../Page/MAKIDAI.md "wikilink")「用與ZEEBRA和MACCHO做這個曲子令EXILE的種類的幅度又擴大了」。
+  - 據說EXILE以這首單曲「開拓新的種類」為主題。[MAKIDAI](../Page/MAKIDAI.md "wikilink")說著「用與ZEEBRA和MACCHO做這個曲子令EXILE的種類的幅度又擴大了」。
   - 作詞、作曲是由ZEEBRA，[今井了介](https://zh.wikipedia.org/wiki/今井了介 "wikilink")，DJ
     KEN-BO的一同監製的圑體[FIRSTKLAS](https://zh.wikipedia.org/wiki/FIRSTKLAS "wikilink")。
-  - 這首歌以後，[ATSUSHI開始戴太陽眼鏡示人](../Page/ATSUSHI.md "wikilink")。
+  - 這首歌以後，[ATSUSHI](../Page/ATSUSHI.md "wikilink")開始戴太陽眼鏡示人。
   - PV裏[長谷川潤有份參與演出](https://zh.wikipedia.org/wiki/長谷川潤 "wikilink")。
 
 ## 發行版本

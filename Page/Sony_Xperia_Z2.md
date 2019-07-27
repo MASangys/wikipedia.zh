@@ -1,5 +1,5 @@
 **Sony Xperia
-Z2**，是[索尼於](../Page/索尼.md "wikilink")2014年2月24日發佈的旗艦手機，搭載5.2吋螢幕、2.3
+Z2**，是[索尼](../Page/索尼.md "wikilink")於2014年2月24日發佈的旗艦手機，搭載5.2吋螢幕、2.3
 GHz四核心處理器、3GB記憶體、2,070萬畫素相機且支援4K錄影及防水等功能。\[1\]
 
 [安卓操作系统的旗舰级高阶](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，作为它的前一代[Sony
@@ -12,7 +12,7 @@ G3](../Page/LG_G3.md "wikilink")。
 ## 发布
 
 索尼Xperia
-Z2在2014年2月24日西班牙[巴塞罗那举行的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[世界行動通訊大會上發佈](../Page/世界行動通訊大會.md "wikilink")。
+Z2在2014年2月24日西班牙[巴塞罗那举行的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")上發佈。
 
 ## 規格
 

@@ -1,5 +1,5 @@
 《**Pink
-Blossom**》是[韓國女子流行音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Apink的第](../Page/Apink.md "wikilink")4枚迷你專輯，於2014年3月31日發行，經紀及製作公司為[A
+Blossom**》是[韓國女子流行音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Apink](../Page/Apink.md "wikilink")的第4枚迷你專輯，於2014年3月31日發行，經紀及製作公司為[A
 Cube娛樂](../Page/Plan_A娛樂.md "wikilink")，由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
 
 ## 曲目

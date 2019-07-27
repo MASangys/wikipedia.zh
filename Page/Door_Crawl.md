@@ -1,12 +1,12 @@
 『**Door
-Crawl**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛在](../Page/川嶋愛.md "wikilink")2007年12月12日發售的第15張單曲\[1\]。
+Crawl**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2007年12月12日發售的第15張單曲\[1\]。
 
 ## 概要
 
 距前作『[你幸福嗎／旅行箱](../Page/你幸福嗎／旅行箱.md "wikilink")』約兩個月之後發售的作品。
 
-[史克威爾艾尼克斯的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[Wii專用遊戲軟體](../Page/Wii.md "wikilink")『[陸行鳥不可思議的迷宮
-忘卻時間迷宮](../Page/最终幻想系列游戏列表.md "wikilink")』的主題曲。川嶋也在該遊戲中從事[聲優的工作](../Page/聲優.md "wikilink")。
+[史克威爾艾尼克斯的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[Wii](../Page/Wii.md "wikilink")專用遊戲軟體『[陸行鳥不可思議的迷宮
+忘卻時間迷宮](../Page/最终幻想系列游戏列表.md "wikilink")』的主題曲。川嶋也在該遊戲中從事[聲優](../Page/聲優.md "wikilink")的工作。
 
 推出了通常盤和初回限定盤兩個版本。初回限定盤採取雙封面的樣式，並附上了收錄有「Door
 Crawl」的PV的特典[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。

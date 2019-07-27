@@ -3,7 +3,7 @@
 
 LANTIRN計畫在1980年9月發包，1984年12月完成測評，1985年3月美國空軍允許該莢艙組進行[小批量試生產](https://zh.wikipedia.org/wiki/小批量試生產 "wikilink")，1986年11月批准以全速量產配備。第一批莢艙在1987年3月31日撥交美國空軍。
 
-LANTIRN使用在[空军的一些](../Page/空军.md "wikilink")[战斗机如](../Page/战斗机.md "wikilink")[F-15E攻击鹰式战斗轰炸机和](https://zh.wikipedia.org/wiki/F-15E打击鹰式战斗轰炸机 "wikilink")[F-16战隼战斗机](https://zh.wikipedia.org/wiki/F-16战隼战斗机 "wikilink")（第40/42批次C/D型），还有[海军的](../Page/海军.md "wikilink")[F-14雄猫式战斗机](https://zh.wikipedia.org/wiki/F-14雄猫式战斗机 "wikilink")（F-14后期型，被戏称为“炸弹猫”
+LANTIRN使用在[空军](../Page/空军.md "wikilink")的一些[战斗机](../Page/战斗机.md "wikilink")如[F-15E攻击鹰式战斗轰炸机和](https://zh.wikipedia.org/wiki/F-15E打击鹰式战斗轰炸机 "wikilink")[F-16战隼战斗机](https://zh.wikipedia.org/wiki/F-16战隼战斗机 "wikilink")（第40/42批次C/D型），还有[海军](../Page/海军.md "wikilink")的[F-14雄猫式战斗机](https://zh.wikipedia.org/wiki/F-14雄猫式战斗机 "wikilink")（F-14后期型，被戏称为“炸弹猫”
 Bombcat）。LANTIRN显著增加了这些飞机的作战效能，使他们在低空飞行，晚上及白昼可以随意攻击地面目标，并使用各种各样的[精确制导武器](https://zh.wikipedia.org/wiki/精确制导武器 "wikilink")。
 
 目前，LANTIRN已經開始以替換初期配備的AN/AAQ-14瞄準莢艙，使飛行員及任務指揮官獲得更好的觀測品質與戰術彈性。

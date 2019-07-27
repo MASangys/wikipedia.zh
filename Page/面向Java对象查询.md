@@ -13,8 +13,8 @@ Record](../Page/Active_Record.md "wikilink")，同时面向“关系”和“对
 
 ## 编程范式
 
-jOOQ主张，在任何数据库集成中，都应首先考虑发挥[SQL的作用](../Page/SQL.md "wikilink")。这样一来，就不必再引入新的查询语言，而只是通过jOOQ对象以及依照数据库架构自动生成的代码来创建普通的SQL。jOOQ通过[JDBC来完成底层的SQL查询](https://zh.wikipedia.org/wiki/JDBC "wikilink")。
-与诸如[Hibernate等通常](../Page/Hibernate.md "wikilink")[ORM类库不同的是](https://zh.wikipedia.org/wiki/ORM "wikilink")，jOOQ并不提供过多的功能，复杂性也不高，它只是提供了JDBC之上更便捷的抽象层封装而已。
+jOOQ主张，在任何数据库集成中，都应首先考虑发挥[SQL](../Page/SQL.md "wikilink")的作用。这样一来，就不必再引入新的查询语言，而只是通过jOOQ对象以及依照数据库架构自动生成的代码来创建普通的SQL。jOOQ通过[JDBC来完成底层的SQL查询](https://zh.wikipedia.org/wiki/JDBC "wikilink")。
+与诸如[Hibernate](../Page/Hibernate.md "wikilink")等通常[ORM类库不同的是](https://zh.wikipedia.org/wiki/ORM "wikilink")，jOOQ并不提供过多的功能，复杂性也不高，它只是提供了JDBC之上更便捷的抽象层封装而已。
 
 ## 代码范例
 

@@ -1,9 +1,9 @@
 《**Apink's
-SHOWTIME**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")的一檔[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink六位成員擔當主角](../Page/Apink.md "wikilink")，2014年8月7日至9月25日期間逢星期四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18:00至19:10播出。
+SHOWTIME**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")的一檔[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")六位成員擔當主角，2014年8月7日至9月25日期間逢星期四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18:00至19:10播出。
 
 ## 節目介紹
 
-於節目中，[Apink會親自解答觀眾提出的各種問題並完成節目組指派的各項任務](../Page/Apink.md "wikilink")。
+於節目中，[Apink](../Page/Apink.md "wikilink")會親自解答觀眾提出的各種問題並完成節目組指派的各項任務。
 
 ## 演出成員
 

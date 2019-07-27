@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")6張單曲。
+[GLAY](../Page/GLAY.md "wikilink")的第6張單曲。
 
 ## 簡介
 

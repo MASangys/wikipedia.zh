@@ -1,7 +1,7 @@
 **BBN科技**公司（），前身為Bolt, Beranek and
-Newman公司，位於美國[麻塞諸塞州](https://zh.wikipedia.org/wiki/麻塞諸塞州 "wikilink")[劍橋的高科技公司与国防承包商](../Page/剑桥_\(马萨诸塞州\).md "wikilink")。因為取得美國[國防高等研究計劃署之間的合約](../Page/國防高等研究計劃署.md "wikilink")，它曾經參與[ARPANET與](../Page/ARPANET.md "wikilink")[Internet的最初研發](https://zh.wikipedia.org/wiki/Internet "wikilink")。在1960年代与1970年代被誉为[劍橋的](../Page/剑桥_\(马萨诸塞州\).md "wikilink")（哈佛、MIT之外的）第三大学（"third
+Newman公司，位於美國[麻塞諸塞州](https://zh.wikipedia.org/wiki/麻塞諸塞州 "wikilink")[劍橋的高科技公司与国防承包商](../Page/剑桥_\(马萨诸塞州\).md "wikilink")。因為取得美國[國防高等研究計劃署](../Page/國防高等研究計劃署.md "wikilink")之間的合約，它曾經參與[ARPANET](../Page/ARPANET.md "wikilink")與[Internet的最初研發](https://zh.wikipedia.org/wiki/Internet "wikilink")。在1960年代与1970年代被誉为[劍橋的](../Page/剑桥_\(马萨诸塞州\).md "wikilink")（哈佛、MIT之外的）第三大学（"third
 university" of
-Cambridge）。\[1\]2009年成為[雷神公司的子公司](../Page/雷神公司.md "wikilink")。
+Cambridge）。\[1\]2009年成為[雷神公司](../Page/雷神公司.md "wikilink")的子公司。
 
 ## 歷史
 
@@ -27,7 +27,7 @@ Communications收购](https://zh.wikipedia.org/wiki/Level_3_Communications "wiki
 LLC的一家独立公司，收购方为一批私人投资者，包括, ,
 [In-Q-Tel以及BBN的管理层](https://zh.wikipedia.org/wiki/In-Q-Tel "wikilink")。
 
-2009年9月, [雷神公司出价](../Page/雷神公司.md "wikilink")3.5亿美元全资收购了BBNT Solutions
+2009年9月, [雷神公司](../Page/雷神公司.md "wikilink")出价3.5亿美元全资收购了BBNT Solutions
 LLC。2014年12月，Internet第二老的域名bbn.com,被重定向到www.raytheon.com/ourcompany/bbn/.
 
 BBN的前雇员组建了上百家创业公司。

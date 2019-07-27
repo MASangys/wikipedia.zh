@@ -16,7 +16,7 @@ A系列[APU](https://zh.wikipedia.org/wiki/APU "wikilink")，包括行動版本�
   - 和AMD Bulldozer/Piledriver一致的“M-SPACE”模組化設計；
   - 使用[格羅方德的](https://zh.wikipedia.org/wiki/格羅方德 "wikilink")28納米[SOI](../Page/SOI.md "wikilink")
     [HKMG製程](https://zh.wikipedia.org/wiki/HKMG "wikilink")
-  - 優化線程[排程方式](../Page/排程.md "wikilink")，增強線程並行性以提升線程執行效率；\[10\]
+  - 優化線程[排程](../Page/排程.md "wikilink")方式，增強線程並行性以提升線程執行效率；\[10\]
   - 基於Steamroller架構的AMD
     Fusion，[顯示核心部分全面使用](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[AMD
     Radeon HD

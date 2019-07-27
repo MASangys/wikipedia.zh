@@ -1,5 +1,5 @@
 **CLSQL**是一个[Common
-Lisp语言的](../Page/Common_Lisp.md "wikilink")[SQL数据库接口](../Page/SQL.md "wikilink")，用于让Common
+Lisp语言的](../Page/Common_Lisp.md "wikilink")[SQL](../Page/SQL.md "wikilink")数据库接口，用于让Common
 Lisp和数据库进行通信。这个项目由Kevin M. Rosenberg在2001年发起，以支持在多个Common
 Lisp的实现上通过使用UFFI这个库，进行SQL数据库的存取操作。CLSQL最初的代码大部分来自于Pierre
 R. Mai所开发的MaiSQL库。在2003年的时候，onShore

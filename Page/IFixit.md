@@ -1,6 +1,6 @@
 **iFixit**是一家設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖路易斯-奧比斯保](../Page/聖路易斯-奧比斯保.md "wikilink")（San
 Luis
-Obispo）的公司，創立於2003年。該公司設立的同名網站以類似[wiki網站的方式刊登電子產品等的](https://zh.wikipedia.org/wiki/wiki "wikilink")[DIY維修](../Page/DIY.md "wikilink")、拆解指南，並接受讀者投稿
+Obispo）的公司，創立於2003年。該公司設立的同名網站以類似[wiki網站的方式刊登電子產品等的](https://zh.wikipedia.org/wiki/wiki "wikilink")[DIY](../Page/DIY.md "wikilink")維修、拆解指南，並接受讀者投稿
 \[1\]
 。拆解指南會根據拆解難易度以分數評定（滿分10分為最容易拆解）。近年來該公司以在第一時間取得[蘋果公司新發售的產品進行拆解](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，拆解後報告刊登於網站上而聞名\[2\]。該公司亦販售DIY工具及零件。
 

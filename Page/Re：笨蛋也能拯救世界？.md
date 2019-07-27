@@ -1,4 +1,4 @@
-是由[柳实冬贵創作](https://zh.wikipedia.org/wiki/柳实冬贵 "wikilink")、一叶モカ負責插畫，由[富士見書房發行的輕小說作品](../Page/富士見書房.md "wikilink")。2010年12月發售DRAMA
+是由[柳实冬贵創作](https://zh.wikipedia.org/wiki/柳实冬贵 "wikilink")、一叶モカ負責插畫，由[富士見書房](../Page/富士見書房.md "wikilink")發行的輕小說作品。2010年12月發售DRAMA
 CD\[1\]。
 
 ## 故事內容

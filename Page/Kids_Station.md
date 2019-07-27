@@ -1,13 +1,13 @@
 **KIDS
-STATION**（）是[日本的一家](../Page/日本.md "wikilink")[电视台](../Page/电视台.md "wikilink")，主要面向少儿的电视频道，除播放[动画片外也会播出少量的卡通节目](https://zh.wikipedia.org/wiki/动画片 "wikilink")。开播于1991年4月1日，通过[有线电视和](../Page/有线电视.md "wikilink")[卫星电视播放](../Page/卫星电视.md "wikilink")。
+STATION**（）是[日本](../Page/日本.md "wikilink")的一家[电视台](../Page/电视台.md "wikilink")，主要面向少儿的电视频道，除播放[动画片外也会播出少量的卡通节目](https://zh.wikipedia.org/wiki/动画片 "wikilink")。开播于1991年4月1日，通过[有线电视](../Page/有线电视.md "wikilink")和[卫星电视](../Page/卫星电视.md "wikilink")播放。
 
 ## 概要
 
 KIDS
 STATION在1993年4月12日开播，知名度从一开始就比较高。2007年时覆盖的用户数就突破了800万，其中超过634万的家庭通过有线电视网络收看（其余的用卫星直接收看）。此外，除了主营的广播电视播放以外，还从事包括个人电脑以及游戏软件的开发和销售。
 
-2017年2月23日，日本索尼影業與[三井物產共同宣布於同年](../Page/三井物產.md "wikilink")3月31日設立、簡稱AKH，前者持有過半股份，將各自的[Animax](../Page/Animax.md "wikilink")、KIDS
-STATION納入該[控股公司旗下管理](../Page/控股公司.md "wikilink")，日本索尼影業及Animax社長瀧山正夫兼任AKH及KIDS
+2017年2月23日，日本索尼影業與[三井物產](../Page/三井物產.md "wikilink")共同宣布於同年3月31日設立、簡稱AKH，前者持有過半股份，將各自的[Animax](../Page/Animax.md "wikilink")、KIDS
+STATION納入該[控股公司](../Page/控股公司.md "wikilink")旗下管理，日本索尼影業及Animax社長瀧山正夫兼任AKH及KIDS
 STATION社長<ref>三井物產：
 
   -
@@ -19,15 +19,15 @@ STATION社長<ref>三井物產：
   - 1991年4月，大倉商事株式会社当時採行財務部員添田弘幸的[有線電視節目供給事業做法](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，社内创业以名称每日2小時錄影帶播出\[1\]。
   - 1993年4月 -
     1日，切換[衛星電視播出](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，頻道改名，播出時間延長為每日6小時。12日，大倉商事100%子公司設立營運\[2\]。
-  - 1996年10月，[PerfecTV\!開播](../Page/SKY_PerfecTV!.md "wikilink")，並伴隨[三井物產参與投資](../Page/三井物產.md "wikilink")。出資比率大倉商事60%、三井物產40%。
+  - 1996年10月，[PerfecTV\!開播](../Page/SKY_PerfecTV!.md "wikilink")，並伴隨[三井物產](../Page/三井物產.md "wikilink")参與投資。出資比率大倉商事60%、三井物產40%。
   - 1998年8月，大倉商事聲請破產\[3\]，三井物產收購為子公司。
   - 2000年 - 營運頻道的株式会社NEO SATELIGHT
-    VISION改名。6月，播出時間延長為每日24小時。10月，接受[东京放送控股](https://zh.wikipedia.org/wiki/东京放送控股 "wikilink")、[木星电信](https://zh.wikipedia.org/wiki/木星电信 "wikilink")、[Horipro第三方增資](../Page/Horipro.md "wikilink")。
+    VISION改名。6月，播出時間延長為每日24小時。10月，接受[东京放送控股](https://zh.wikipedia.org/wiki/东京放送控股 "wikilink")、[木星电信](https://zh.wikipedia.org/wiki/木星电信 "wikilink")、[Horipro](../Page/Horipro.md "wikilink")第三方增資。
   - 2004年 -
     添田弘幸退職。同年5月頻道標誌變更為現行樣式，且為避免[著作權侵害](https://zh.wikipedia.org/wiki/著作權侵害 "wikilink")，開始在播出節目畫面右上角顯示[台标](https://zh.wikipedia.org/wiki/台标 "wikilink")\[4\]。10月，KIDS
     STATION HD開播。
   - 2013年5月30日，停播標準画質，全面轉至高畫質播出。
-  - 2017年2月23日，日本索尼影業與[三井物產共同宣布於同年](../Page/三井物產.md "wikilink")3月31日成立株式会社AK
+  - 2017年2月23日，日本索尼影業與[三井物產](../Page/三井物產.md "wikilink")共同宣布於同年3月31日成立株式会社AK
     Holdings，將KIDS STATION納入旗下。
 
 ## KIDS STATION HD

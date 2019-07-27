@@ -1,4 +1,4 @@
-**auto**是[C++程序设计语言的](https://zh.wikipedia.org/wiki/C++程序设计语言 "wikilink")[关键字](../Page/保留字.md "wikilink")。自[C++11以来](../Page/C++11.md "wikilink")，auto关键字用于两种情况：声明变量时根据初始化表达式自动推断该变量的类型、声明函数时函数返回值的占位符。[C++98标准中auto关键字用于](https://zh.wikipedia.org/wiki/C++98 "wikilink")[自动变量的声明](../Page/自动变量.md "wikilink")，但由于使用极少且多余，在C++11中已删除这一用法。
+**auto**是[C++程序设计语言的](https://zh.wikipedia.org/wiki/C++程序设计语言 "wikilink")[关键字](../Page/保留字.md "wikilink")。自[C++11](../Page/C++11.md "wikilink")以来，auto关键字用于两种情况：声明变量时根据初始化表达式自动推断该变量的类型、声明函数时函数返回值的占位符。[C++98标准中auto关键字用于](https://zh.wikipedia.org/wiki/C++98 "wikilink")[自动变量](../Page/自动变量.md "wikilink")的声明，但由于使用极少且多余，在C++11中已删除这一用法。
 
 ## 简要理解
 
@@ -95,7 +95,7 @@ deduction）时的规则。但auto关键字可以从C++11风格的花括号{与}
 ### auto关键字的类型完美转发
 
 C++11使用auto声明变量时，如：`auto&&
-var=initValue;`“auto&&”并不意味着这一定是[右值引用类型的变量](../Page/右值引用.md "wikilink")，而是类似于[模板函数参数的类型推导](../Page/模板参数推导.md "wikilink")，既可能是左值引用，也可能是右值引用。其目的是把初始化表达式的[值分类情况](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")，完美转发给由auto声明的变量。也即：
+var=initValue;`“auto&&”并不意味着这一定是[右值引用](../Page/右值引用.md "wikilink")类型的变量，而是类似于[模板函数参数的类型推导](../Page/模板参数推导.md "wikilink")，既可能是左值引用，也可能是右值引用。其目的是把初始化表达式的[值分类情况](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")，完美转发给由auto声明的变量。也即：
 
   - 如果初始化值（initializer）是类型A的左值，则声明的变量类型为左值引用A&；
   - 如果初始化值是类型A的右值，则声明的变量类型为右值引用A&&。

@@ -5,17 +5,17 @@
 
 ### 公元前9660年到公元前5000年
 
-  - 在[中石器時代](../Page/中石器時代.md "wikilink")[西西里岛](../Page/西西里岛.md "wikilink")的[岩画中描绘了成双成对带有](https://zh.wikipedia.org/wiki/岩画 "wikilink")[菲勒斯特征](../Page/菲勒斯.md "wikilink")（突出勃起的阳具）的男性形象，对此场景有多种解释，包括捕猎、杂耍、宗教仪式以及兩男性交的场景。
+  - 在[中石器時代](../Page/中石器時代.md "wikilink")[西西里岛](../Page/西西里岛.md "wikilink")的[岩画中描绘了成双成对带有](https://zh.wikipedia.org/wiki/岩画 "wikilink")[菲勒斯](../Page/菲勒斯.md "wikilink")特征（突出勃起的阳具）的男性形象，对此场景有多种解释，包括捕猎、杂耍、宗教仪式以及兩男性交的场景。
     \[1\]
 
 ### 公元前1700年到公元前7000年
 
-  - 在[新石器时代和](../Page/新石器时代.md "wikilink")[青铜器时代](https://zh.wikipedia.org/wiki/青铜器时代 "wikilink")[地中海地区描绘性场景的绘画和雕塑中出现了被称为](../Page/地中海.md "wikilink")[第三性的人物形象](https://zh.wikipedia.org/wiki/第三性 "wikilink")，其具有女性的[乳房和男性的](../Page/乳房.md "wikilink")[外生殖器或者不具有明显的](https://zh.wikipedia.org/wiki/外生殖器 "wikilink")[性特征](https://zh.wikipedia.org/wiki/性特征 "wikilink")。\[2\]
+  - 在[新石器时代](../Page/新石器时代.md "wikilink")和[青铜器时代](https://zh.wikipedia.org/wiki/青铜器时代 "wikilink")[地中海](../Page/地中海.md "wikilink")地区描绘性场景的绘画和雕塑中出现了被称为[第三性的人物形象](https://zh.wikipedia.org/wiki/第三性 "wikilink")，其具有女性的[乳房](../Page/乳房.md "wikilink")和男性的[外生殖器或者不具有明显的](https://zh.wikipedia.org/wiki/外生殖器 "wikilink")[性特征](https://zh.wikipedia.org/wiki/性特征 "wikilink")。\[2\]
 
 ## 公元前22世纪
 
-  - 在公元前2900年到公元前2500年间，一名身着女性传统服装的服装男子被埋葬在[捷克共和国](https://zh.wikipedia.org/wiki/捷克共和国 "wikilink")[布拉格的郊区](../Page/布拉格.md "wikilink")。人类学家认为这名男子为跨性别者或第三性别者。\[3\]
-  - [佩皮二世作为](../Page/佩皮二世.md "wikilink")[法老统治埃及时期流传的故事](../Page/法老.md "wikilink")《Neferkare国王和Sasenet将军》（），暗示他在夜间造访他的将军并发生同性关系。\[4\]\[5\]
+  - 在公元前2900年到公元前2500年间，一名身着女性传统服装的服装男子被埋葬在[捷克共和国](https://zh.wikipedia.org/wiki/捷克共和国 "wikilink")[布拉格](../Page/布拉格.md "wikilink")的郊区。人类学家认为这名男子为跨性别者或第三性别者。\[3\]
+  - [佩皮二世](../Page/佩皮二世.md "wikilink")作为[法老](../Page/法老.md "wikilink")统治埃及时期流传的故事《Neferkare国王和Sasenet将军》（），暗示他在夜间造访他的将军并发生同性关系。\[4\]\[5\]
 
 ## 公元前7世纪
 
@@ -29,43 +29,43 @@
 
   - 约公元前540-530年，[伊特鲁里亚文明的](https://zh.wikipedia.org/wiki/伊特鲁里亚文明 "wikilink")[公牛墓](https://zh.wikipedia.org/wiki/公牛墓 "wikilink")（）(Italian:
     *Tomba dei
-    Tori*),于1892年发现于[塔尔奎尼亚的Monterozzi墓地](../Page/塔尔奎尼亚.md "wikilink")（），描绘了同性性行为。这所坟墓因其壁画中的公牛命名，壁画中公牛对面有一对同性恋和一对异性恋的性爱场景。这幅壁画也许用来辟邪，或者是死后和重生的[具象化](https://zh.wikipedia.org/wiki/具象化 "wikilink")。三间墓堂依据墓主人的姓名降序排布，Aranth
+    Tori*),于1892年发现于[塔尔奎尼亚](../Page/塔尔奎尼亚.md "wikilink")的Monterozzi墓地（），描绘了同性性行为。这所坟墓因其壁画中的公牛命名，壁画中公牛对面有一对同性恋和一对异性恋的性爱场景。这幅壁画也许用来辟邪，或者是死后和重生的[具象化](https://zh.wikipedia.org/wiki/具象化 "wikilink")。三间墓堂依据墓主人的姓名降序排布，Aranth
     Spurianas 或称 Arath
-    Spuriana，同时也描绘了[阿基里斯杀死](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")[特洛伊王子](../Page/特洛伊.md "wikilink")[特洛伊罗斯的场景以及](https://zh.wikipedia.org/wiki/特洛伊罗斯 "wikilink")[阿波罗崇拜的相关内容](../Page/阿波罗.md "wikilink")。\[8\]
+    Spuriana，同时也描绘了[阿基里斯杀死](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")[特洛伊](../Page/特洛伊.md "wikilink")王子[特洛伊罗斯的场景以及](https://zh.wikipedia.org/wiki/特洛伊罗斯 "wikilink")[阿波罗](../Page/阿波罗.md "wikilink")崇拜的相关内容。\[8\]
   - 愛琴海東南方的阿斯提帕萊亞島(Astypalaia)海邊岩石上刻著陽具的岩畫，上面還有一些字跡。經研究，岩畫是公元前5至6世紀刻下的，畫面表現兩名男性的床笫之歡\[9\]。
 
 ## 公元前4世纪
 
-  - 公元前385年，[柏拉图出版了](../Page/柏拉图.md "wikilink")[会饮篇](https://zh.wikipedia.org/wiki/会饮篇 "wikilink"),其中[斐德罗](https://zh.wikipedia.org/wiki/斐德罗 "wikilink")，[厄里克希马库斯](https://zh.wikipedia.org/wiki/厄里克希马库斯 "wikilink"),[阿里斯多芬尼斯以及其他希腊学者提出男子与男子之间的恋情是最高形式的爱恋](https://zh.wikipedia.org/wiki/阿里斯多芬尼斯 "wikilink")，与女子之间的恋情是出于色欲和功利的(参见[柏拉图式恋爱](../Page/柏拉图式恋爱.md "wikilink"))\[10\]。而苏格拉底对此持不同观点\[11\]，他在受到漂亮的[亚西比德](https://zh.wikipedia.org/wiki/亚西比德 "wikilink")([Alcibiades](../Page/阿尔西比亚德斯.md "wikilink"))的引诱时显示出极大的自我控制\[12\]。
+  - 公元前385年，[柏拉图](../Page/柏拉图.md "wikilink")出版了[会饮篇](https://zh.wikipedia.org/wiki/会饮篇 "wikilink"),其中[斐德罗](https://zh.wikipedia.org/wiki/斐德罗 "wikilink")，[厄里克希马库斯](https://zh.wikipedia.org/wiki/厄里克希马库斯 "wikilink"),[阿里斯多芬尼斯以及其他希腊学者提出男子与男子之间的恋情是最高形式的爱恋](https://zh.wikipedia.org/wiki/阿里斯多芬尼斯 "wikilink")，与女子之间的恋情是出于色欲和功利的(参见[柏拉图式恋爱](../Page/柏拉图式恋爱.md "wikilink"))\[10\]。而苏格拉底对此持不同观点\[11\]，他在受到漂亮的[亚西比德](https://zh.wikipedia.org/wiki/亚西比德 "wikilink")([Alcibiades](../Page/阿尔西比亚德斯.md "wikilink"))的引诱时显示出极大的自我控制\[12\]。
   - 公元前350年，柏拉图出版[法律篇](https://zh.wikipedia.org/wiki/法律篇 "wikilink")，其中雅典的外来者和他们的同伴批评说同性恋是色欲的产物，并且对于社会是错误的，因为这种行为不会延续后代并会使市民不负责任。\[13\]
-  - 公元前338年，希腊城邦[底比斯的一支由](../Page/底比斯_\(希臘\).md "wikilink")150对[少年愛者组成的由精英部队](../Page/少年愛.md "wikilink")[底比斯圣队在](../Page/底比斯圣队.md "wikilink")[喀罗尼亚战役中被](https://zh.wikipedia.org/wiki/喀罗尼亚战役 "wikilink")[腓力二世的部队歼灭](../Page/腓力二世_\(马其顿\).md "wikilink")，[腓力二世为其牺牲而惋惜并赞扬了他们的英勇](../Page/腓力二世_\(马其顿\).md "wikilink")。\[14\]
-  - 公元前326年，[亚历山大大帝完成了对大部分当时所知的西方世界的征服后](../Page/亚历山大大帝.md "wikilink")，开启了[希腊化时代](https://zh.wikipedia.org/wiki/希腊化时代 "wikilink")。期间数以百万的人秉持希腊的观点，对同性恋关系呈正面态度。
+  - 公元前338年，希腊城邦[底比斯的一支由](../Page/底比斯_\(希臘\).md "wikilink")150对[少年愛](../Page/少年愛.md "wikilink")者组成的由精英部队[底比斯圣队](../Page/底比斯圣队.md "wikilink")在[喀罗尼亚战役中被](https://zh.wikipedia.org/wiki/喀罗尼亚战役 "wikilink")[腓力二世的部队歼灭](../Page/腓力二世_\(马其顿\).md "wikilink")，[腓力二世为其牺牲而惋惜并赞扬了他们的英勇](../Page/腓力二世_\(马其顿\).md "wikilink")。\[14\]
+  - 公元前326年，[亚历山大大帝](../Page/亚历山大大帝.md "wikilink")完成了对大部分当时所知的西方世界的征服后，开启了[希腊化时代](https://zh.wikipedia.org/wiki/希腊化时代 "wikilink")。期间数以百万的人秉持希腊的观点，对同性恋关系呈正面态度。
 
 ## 公元前2世纪
 
-  - 公元前149年及以前，在[罗马共和国时期](../Page/罗马共和国.md "wikilink")，[斯堪提尼亚法](https://zh.wikipedia.org/wiki/斯堪提尼亚法 "wikilink")()惩罚那些侵犯自由民青年的性犯罪者；偶尔也适用于检举那些愿意在同性关系中作为被动者的男性公民（罗马人认为在同性关系中充当被动者是丧失男子气概的表现，并予以谴责）\[15\]，对这些人的惩罚是死刑还是罚款并不十分清楚。对于一个成年男性罗马公民而言，只要他的伴侣是男妓，奴隶或[丧失荣誉者](https://zh.wikipedia.org/wiki/丧失荣誉者 "wikilink")（）等其他失去公民资格的人，那么他自愿地参与到同性关系被认为是自然和可被接受的。
-    在[罗马帝国时期](https://zh.wikipedia.org/wiki/罗马帝国 "wikilink")，斯堪提尼亚法被[图密善作为他司法和道德改革的一部分而发扬](../Page/图密善.md "wikilink")。\[16\]
+  - 公元前149年及以前，在[罗马共和国](../Page/罗马共和国.md "wikilink")时期，[斯堪提尼亚法](https://zh.wikipedia.org/wiki/斯堪提尼亚法 "wikilink")()惩罚那些侵犯自由民青年的性犯罪者；偶尔也适用于检举那些愿意在同性关系中作为被动者的男性公民（罗马人认为在同性关系中充当被动者是丧失男子气概的表现，并予以谴责）\[15\]，对这些人的惩罚是死刑还是罚款并不十分清楚。对于一个成年男性罗马公民而言，只要他的伴侣是男妓，奴隶或[丧失荣誉者](https://zh.wikipedia.org/wiki/丧失荣誉者 "wikilink")（）等其他失去公民资格的人，那么他自愿地参与到同性关系被认为是自然和可被接受的。
+    在[罗马帝国时期](https://zh.wikipedia.org/wiki/罗马帝国 "wikilink")，斯堪提尼亚法被[图密善](../Page/图密善.md "wikilink")作为他司法和道德改革的一部分而发扬。\[16\]
   - 约公元前九十到八十年代，[卡图鲁斯加入了以写作流行于罗马后期的简短希腊式讽刺诗歌的诗人小团体中](https://zh.wikipedia.org/wiki/卡图鲁斯 "wikilink")，他的以男性为渴望对象的讽刺诗，显示了罗马文化中新一轮的同性恋美学风潮。\[17\]
 
 ## 公元前1世纪
 
-  - 公元前57年，[卡图卢斯创作了](../Page/卡图卢斯.md "wikilink")[卡米亚](https://zh.wikipedia.org/wiki/卡米亚 "wikilink")([Carmina](https://zh.wikipedia.org/wiki/Carmina "wikilink"))，其中包括对[Juventius的情诗](https://zh.wikipedia.org/wiki/Juventius "wikilink")，称赞了年轻人蓬勃的性能力，并猛烈地抨击了被动的性悖軌者。
-  - 公元前42年到39年，[维吉尔的](../Page/维吉尔.md "wikilink")《[牧歌集](https://zh.wikipedia.org/wiki/牧歌集 "wikilink")》中的第十章是著名的拉丁文版本的同性恋题材。
+  - 公元前57年，[卡图卢斯](../Page/卡图卢斯.md "wikilink")创作了[卡米亚](https://zh.wikipedia.org/wiki/卡米亚 "wikilink")([Carmina](https://zh.wikipedia.org/wiki/Carmina "wikilink"))，其中包括对[Juventius的情诗](https://zh.wikipedia.org/wiki/Juventius "wikilink")，称赞了年轻人蓬勃的性能力，并猛烈地抨击了被动的性悖軌者。
+  - 公元前42年到39年，[维吉尔](../Page/维吉尔.md "wikilink")的《[牧歌集](https://zh.wikipedia.org/wiki/牧歌集 "wikilink")》中的第十章是著名的拉丁文版本的同性恋题材。
   - 公元前26年到18年，[提布鲁斯的](https://zh.wikipedia.org/wiki/提布鲁斯 "wikilink")[挽歌中涉及到了同性恋题材](https://zh.wikipedia.org/wiki/挽歌 "wikilink")。
 
 ## 公元1世纪
 
   - '''公元1世纪 ''' -
-    [沃伦杯被制作](../Page/沃伦杯.md "wikilink")，这个银质饮水杯上有描绘了两个男性的同性性行为场景的浮雕。
+    [沃伦杯](../Page/沃伦杯.md "wikilink")被制作，这个银质饮水杯上有描绘了两个男性的同性性行为场景的浮雕。
 
 [Pompeii_-_Terme_Suburbane_-_Apodyterium_-_Scene_V.jpg](https://zh.wikipedia.org/wiki/File:Pompeii_-_Terme_Suburbane_-_Apodyterium_-_Scene_V.jpg "fig:Pompeii_-_Terme_Suburbane_-_Apodyterium_-_Scene_V.jpg")
 
   - **54年** – [尼禄](../Page/尼禄.md "wikilink")
     成为[罗马皇帝](https://zh.wikipedia.org/wiki/罗马皇帝 "wikilink").
     尼禄先后与两个男性公民通过合法的仪式结婚，罗马自由人Pythagoras作为其“丈夫”和阉人Sporus作为其“妻子”，其中Sporus佩戴标志着罗马皇帝妻子的徽章同尼禄共同出入公共场合。\[18\]
-    [尤维纳利斯和](../Page/尤维纳利斯.md "wikilink")[马提亚尔](../Page/马提亚尔.md "wikilink")(有争议)记录了当时[男性伴侣们举行了传统的婚姻仪式](../Page/古羅馬同性戀.md "wikilink")。
+    [尤维纳利斯](../Page/尤维纳利斯.md "wikilink")和[马提亚尔](../Page/马提亚尔.md "wikilink")(有争议)记录了当时[男性伴侣们举行了传统的婚姻仪式](../Page/古羅馬同性戀.md "wikilink")。
   - **79年** –
-    [维苏威火山的爆发掩埋了滨海城市](https://zh.wikipedia.org/wiki/维苏威火山 "wikilink")[庞贝和](../Page/庞贝.md "wikilink")[赫库兰尼姆古城](../Page/赫库兰尼姆古城.md "wikilink")，保存了大量的[庞贝古城和赫库兰尼姆的情色艺术](https://zh.wikipedia.org/wiki/Erotic_art_in_Pompeii_and_Herculaneum "wikilink")（），包括大量具有代表性的以及的作品.
+    [维苏威火山的爆发掩埋了滨海城市](https://zh.wikipedia.org/wiki/维苏威火山 "wikilink")[庞贝](../Page/庞贝.md "wikilink")和[赫库兰尼姆古城](../Page/赫库兰尼姆古城.md "wikilink")，保存了大量的[庞贝古城和赫库兰尼姆的情色艺术](https://zh.wikipedia.org/wiki/Erotic_art_in_Pompeii_and_Herculaneum "wikilink")（），包括大量具有代表性的以及的作品.
   - **98年** – [图拉真](https://zh.wikipedia.org/wiki/图拉真 "wikilink"),
     罗马帝国最受爱戴之一的一位皇帝开始了他的统治，他以对男性的迷恋著称，他的这一点被一些国王所利用，如
     [奥斯若恩即](https://zh.wikipedia.org/wiki/埃德萨 "wikilink")[Abgar
@@ -74,7 +74,7 @@
 ## 公元2世纪
 
   - **130年** --
-    [安提诺乌斯](https://zh.wikipedia.org/wiki/安提诺乌斯 "wikilink")，这位罗马皇帝[哈德良最宠爱的男孩十九岁时神秘地死于作为罗马行省时的](../Page/哈德良.md "wikilink")[埃及](../Page/埃及_\(羅馬行省\).md "wikilink")。哈德良因为他的死十分悲痛，全国性地通过命名城市、树立雕像、发行纹章的方式来纪念他，还举行仪式效仿亚历山大大帝纪念情人的方式宣布他为神。
+    [安提诺乌斯](https://zh.wikipedia.org/wiki/安提诺乌斯 "wikilink")，这位罗马皇帝[哈德良](../Page/哈德良.md "wikilink")最宠爱的男孩十九岁时神秘地死于作为罗马行省时的[埃及](../Page/埃及_\(羅馬行省\).md "wikilink")。哈德良因为他的死十分悲痛，全国性地通过命名城市、树立雕像、发行纹章的方式来纪念他，还举行仪式效仿亚历山大大帝纪念情人的方式宣布他为神。
   - **165年** –
     基督教[殉道者](../Page/殉教.md "wikilink")*[Giustino](https://zh.wikipedia.org/wiki/Giustino "wikilink")*
     写到：“我们了解到一个对于新生儿可怕的事，那就是几乎在任何地方，不但女孩，甚至男孩也被强迫卖淫”。\[20\]
@@ -82,7 +82,7 @@
 ## 公元3世纪
 
   - **218年** –
-    罗马皇帝[埃拉伽巴路斯即位](../Page/埃拉伽巴路斯.md "wikilink")，他曾与一位来自[士麦那的运动员](https://zh.wikipedia.org/wiki/士麦那 "wikilink")[Zoticus结婚](https://zh.wikipedia.org/wiki/Zoticus "wikilink")，两人共同出入公共场合。\[21\]
+    罗马皇帝[埃拉伽巴路斯](../Page/埃拉伽巴路斯.md "wikilink")即位，他曾与一位来自[士麦那的运动员](https://zh.wikipedia.org/wiki/士麦那 "wikilink")[Zoticus结婚](https://zh.wikipedia.org/wiki/Zoticus "wikilink")，两人共同出入公共场合。\[21\]
   - **244年–249年** –
     罗马皇帝[菲利普试图下令同性卖淫不合法](../Page/阿拉伯人菲利普.md "wikilink")，后失败。\[22\]
 
@@ -93,9 +93,9 @@
   - **314年** – 代表东欧教会的
     (在现今土耳其[安卡拉](../Page/安卡拉.md "wikilink"))，拒绝为15岁以下或20岁以下的未婚以及50岁以上或已婚的被发现有同性性行为的男性举行[圣礼](https://zh.wikipedia.org/wiki/圣礼 "wikilink")。
   - **342年** –
-    基督徒罗马皇帝[君士坦斯一世和](../Page/君士坦斯一世.md "wikilink")[君士坦提乌斯二世发布了第一部禁止同性婚姻的法律](https://zh.wikipedia.org/wiki/君士坦提乌斯二世 "wikilink")。\[23\]
+    基督徒罗马皇帝[君士坦斯一世](../Page/君士坦斯一世.md "wikilink")和[君士坦提乌斯二世发布了第一部禁止同性婚姻的法律](https://zh.wikipedia.org/wiki/君士坦提乌斯二世 "wikilink")。\[23\]
   - **390年** –
-    基督徒罗马皇帝[瓦伦提尼安二世](../Page/瓦伦提尼安二世.md "wikilink")、[狄奥多西一世和](https://zh.wikipedia.org/wiki/狄奥多西一世 "wikilink")[阿卡狄奧斯宣布同性性行为非法并判罚其公开](../Page/阿卡狄奧斯.md "wikilink")[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")。\[24\]
+    基督徒罗马皇帝[瓦伦提尼安二世](../Page/瓦伦提尼安二世.md "wikilink")、[狄奥多西一世和](https://zh.wikipedia.org/wiki/狄奥多西一世 "wikilink")[阿卡狄奧斯](../Page/阿卡狄奧斯.md "wikilink")宣布同性性行为非法并判罚其公开[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")。\[24\]
   - **390- 405** – 的史诗《》是在此之后一千年里最后一部为人所知赞颂同性恋情的文学著作。\[25\]
 
 ## 公元5世纪
@@ -106,26 +106,26 @@
 ## 公元6世纪
 
   - **529年** – 基督徒罗马皇帝[查士丁尼一世](../Page/查士丁尼一世.md "wikilink")
-    (527–565)将同性恋者比作等同于"[饥荒](https://zh.wikipedia.org/wiki/饥荒 "wikilink")，[地震和](../Page/地震.md "wikilink")[瘟疫](../Page/瘟疫.md "wikilink")"一样的问题。\[27\]
+    (527–565)将同性恋者比作等同于"[饥荒](https://zh.wikipedia.org/wiki/饥荒 "wikilink")，[地震](../Page/地震.md "wikilink")和[瘟疫](../Page/瘟疫.md "wikilink")"一样的问题。\[27\]
   - **576年** –
-    去世。她原是一位执政官的妻子，后为避祸逃入[亚历山卓附近的修道院](https://zh.wikipedia.org/wiki/亚历山卓 "wikilink")，并以僧侣身份度过余生，在当时只有男性才可以这样做。现今性多样化的支持者认为她是一位[跨性別的](../Page/跨性別.md "wikilink")[圣徒](../Page/圣徒.md "wikilink")。
+    去世。她原是一位执政官的妻子，后为避祸逃入[亚历山卓附近的修道院](https://zh.wikipedia.org/wiki/亚历山卓 "wikilink")，并以僧侣身份度过余生，在当时只有男性才可以这样做。现今性多样化的支持者认为她是一位[跨性別](../Page/跨性別.md "wikilink")的[圣徒](../Page/圣徒.md "wikilink")。
   - **589年** –
-    西班牙的[西哥特人王国从](https://zh.wikipedia.org/wiki/西哥特人 "wikilink")[阿里乌教派转为](https://zh.wikipedia.org/wiki/阿里乌教派 "wikilink")[天主教](../Page/天主教.md "wikilink")。这一转变带来相关法律上的修改，包括对于[同性恋者和](https://zh.wikipedia.org/wiki/同性恋者 "wikilink")[犹太人的迫害](../Page/犹太人.md "wikilink")。\[28\]
+    西班牙的[西哥特人王国从](https://zh.wikipedia.org/wiki/西哥特人 "wikilink")[阿里乌教派转为](https://zh.wikipedia.org/wiki/阿里乌教派 "wikilink")[天主教](../Page/天主教.md "wikilink")。这一转变带来相关法律上的修改，包括对于[同性恋者和](https://zh.wikipedia.org/wiki/同性恋者 "wikilink")[犹太人](../Page/犹太人.md "wikilink")的迫害。\[28\]
 
 ## 公元7世纪
 
   - **693年** –
-    和[伊比利亚半岛的](../Page/伊比利亚半岛.md "wikilink")[西哥特统治者](https://zh.wikipedia.org/wiki/西哥特人 "wikilink")[Egica要求教会处理王国内部的同性恋问题](https://zh.wikipedia.org/wiki/:Egica "wikilink")。起草了一份文件被Egica采纳，处以同性性行为实施者[睾丸](../Page/睾丸.md "wikilink")[阉割](https://zh.wikipedia.org/wiki/阉割 "wikilink")、剥夺[圣礼](https://zh.wikipedia.org/wiki/圣礼 "wikilink")、剃发、一百下鞭刑并驱逐流放。\[29\]
+    和[伊比利亚半岛](../Page/伊比利亚半岛.md "wikilink")的[西哥特统治者](https://zh.wikipedia.org/wiki/西哥特人 "wikilink")[Egica要求教会处理王国内部的同性恋问题](https://zh.wikipedia.org/wiki/:Egica "wikilink")。起草了一份文件被Egica采纳，处以同性性行为实施者[睾丸](../Page/睾丸.md "wikilink")[阉割](https://zh.wikipedia.org/wiki/阉割 "wikilink")、剥夺[圣礼](https://zh.wikipedia.org/wiki/圣礼 "wikilink")、剃发、一百下鞭刑并驱逐流放。\[29\]
 
 ## 公元9世纪
 
   - **800年–900年** –
-    [卡洛林文艺复兴时期](../Page/卡洛林文艺复兴.md "wikilink")，一位[修道院院长](https://zh.wikipedia.org/wiki/修道院院长 "wikilink")[阿尔琴因违反教会律令给另一位](../Page/阿尔琴.md "wikilink")[僧侣写情诗被指控为同性恋](https://zh.wikipedia.org/wiki/僧侣 "wikilink")。\[30\]
+    [卡洛林文艺复兴](../Page/卡洛林文艺复兴.md "wikilink")时期，一位[修道院院长](https://zh.wikipedia.org/wiki/修道院院长 "wikilink")[阿尔琴](../Page/阿尔琴.md "wikilink")因违反教会律令给另一位[僧侣写情诗被指控为同性恋](https://zh.wikipedia.org/wiki/僧侣 "wikilink")。\[30\]
 
 ## 公元10世纪
 
   - **966年** –
-    波兰大公[梅什科一世接受](../Page/梅什科一世.md "wikilink")[天主教为国教](../Page/天主教.md "wikilink")，建立[皮亚斯特王朝](https://zh.wikipedia.org/wiki/皮亚斯特王朝 "wikilink")。据称，[波兰历史上从未在法律上将同性恋定义为罪行](https://zh.wikipedia.org/wiki/波兰 "wikilink")。(见1835和1932).\[31\]
+    波兰大公[梅什科一世](../Page/梅什科一世.md "wikilink")接受[天主教](../Page/天主教.md "wikilink")为国教，建立[皮亚斯特王朝](https://zh.wikipedia.org/wiki/皮亚斯特王朝 "wikilink")。据称，[波兰历史上从未在法律上将同性恋定义为罪行](https://zh.wikipedia.org/wiki/波兰 "wikilink")。(见1835和1932).\[31\]
 
 ## 公元11世紀
 
@@ -133,13 +133,13 @@
     神学家将同性恋行为比作[通奸](../Page/通奸.md "wikilink")，因此主张犯此类“罪行”的人应该用同样的方法[忏悔](https://zh.wikipedia.org/wiki/告解 "wikilink")（一般是[禁食](../Page/禁食.md "wikilink")）。\[32\]
   - **1051年** – 宗教改革家在他的著作《**》中主张牧师对于“违反自然”的人应该施以更重的惩罚。\[33\]
   - **1100年** –
-    主教试图说服[教宗](../Page/教宗.md "wikilink")[乌尔巴诺二世关于同性恋的危险性](https://zh.wikipedia.org/wiki/乌尔巴诺二世 "wikilink")。Ivo指控[图尔](../Page/图尔.md "wikilink")[大主教Rodolfo促使法国国王指任Giovanni为](https://zh.wikipedia.org/wiki/大主教 "wikilink")[奥尔良主教](../Page/奥尔良.md "wikilink")。Giovanni被人所知是Rodolfo的情人，甚至法国国王也常常公开宣扬与Giovanni的密切关系。但是乌尔巴诺二世并未对此加以考虑。Giovanni此后担任了四十年的主教，而Rodolfo也继续享有盛名和被人尊敬。\[34\]
+    主教试图说服[教宗](../Page/教宗.md "wikilink")[乌尔巴诺二世关于同性恋的危险性](https://zh.wikipedia.org/wiki/乌尔巴诺二世 "wikilink")。Ivo指控[图尔](../Page/图尔.md "wikilink")[大主教Rodolfo促使法国国王指任Giovanni为](https://zh.wikipedia.org/wiki/大主教 "wikilink")[奥尔良](../Page/奥尔良.md "wikilink")主教。Giovanni被人所知是Rodolfo的情人，甚至法国国王也常常公开宣扬与Giovanni的密切关系。但是乌尔巴诺二世并未对此加以考虑。Giovanni此后担任了四十年的主教，而Rodolfo也继续享有盛名和被人尊敬。\[34\]
 
 ## 公元12世纪
 
   - **1102年** –对公众宣称同性恋是有[罪的](../Page/罪_\(宗教\).md "wikilink")。
   - **1120年** –
-    [耶路撒冷王国国王](https://zh.wikipedia.org/wiki/耶路撒冷王国 "wikilink")[鲍德温二世召集](../Page/鲍德温二世_\(耶路撒冷\).md "wikilink")整理王国内的罪行。公会议呼吁对于判处觸犯[性悖軌法的罪犯实施](../Page/性悖軌法.md "wikilink")[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")。\[35\]
+    [耶路撒冷王国国王](https://zh.wikipedia.org/wiki/耶路撒冷王国 "wikilink")[鲍德温二世召集](../Page/鲍德温二世_\(耶路撒冷\).md "wikilink")整理王国内的罪行。公会议呼吁对于判处觸犯[性悖軌法](../Page/性悖軌法.md "wikilink")的罪犯实施[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")。\[35\]
   - **1140年** – 意大利僧侣在他编纂的著作《**Concordia discordantium
     canonum**》中宣称性悖軌罪是最邪恶的性犯罪，因为它是通过“不自然”的方式进行的。\[36\]
   - **1164年** – 英国僧侣[Aelred of
@@ -154,45 +154,45 @@
     [教宗](../Page/教宗.md "wikilink")[格列高利九世开始在](https://zh.wikipedia.org/wiki/格列高利九世 "wikilink")[意大利城邦中建立](https://zh.wikipedia.org/wiki/意大利城邦 "wikilink")[异端裁判所](https://zh.wikipedia.org/wiki/异端裁判所 "wikilink")。一些城市对一级和二级性悖軌罪判处截肢（肉刑），判处三级性悖軌罪和性悖軌惯犯[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")。
   - **1260年** – 法国判处一级性悖軌罪犯阉割，二级截肢，三级火刑。妇女被判处此类罪行的也要除以相应的肉刑和死刑。\[37\]
   - **1265年** –
-    神学家[托马斯·阿奎那认为性悖軌罪是仅次于谋杀的严重罪行](../Page/托马斯·阿奎那.md "wikilink")。\[38\]
-  - **1283年** – [法国民法典判处性悖軌罪犯除火刑外没收所有财产](../Page/法国民法典.md "wikilink")。
+    神学家[托马斯·阿奎那](../Page/托马斯·阿奎那.md "wikilink")认为性悖軌罪是仅次于谋杀的严重罪行。\[38\]
+  - **1283年** – [法国民法典](../Page/法国民法典.md "wikilink")判处性悖軌罪犯除火刑外没收所有财产。
 
 ## 公元14世纪
 
   - **1308-14年** –
     法国国王[腓力四世以异端](../Page/腓力四世_\(法兰西\).md "wikilink")、偶像崇拜和性悖軌罪命令逮捕所有[圣殿骑士](https://zh.wikipedia.org/wiki/圣殿骑士 "wikilink")，但是实际上他们只是国王为了解决财务危机的牺牲品。骑士团领袖被判处死刑并于1314年3月18日在[巴黎圣母院附近于火刑柱上烧死](https://zh.wikipedia.org/wiki/巴黎圣母院 "wikilink")。
   - **1321年** –
-    [但丁在](https://zh.wikipedia.org/wiki/但丁 "wikilink")[神曲中将性悖軌者置于地狱第七层](../Page/神曲.md "wikilink")。
+    [但丁在](https://zh.wikipedia.org/wiki/但丁 "wikilink")[神曲](../Page/神曲.md "wikilink")中将性悖軌者置于地狱第七层。
   - **1327年** –
-    [英格兰废王](../Page/英格兰.md "wikilink")[爱德华二世被杀](https://zh.wikipedia.org/wiki/爱德华二世 "wikilink")，据说被用烧热的拨火棍刺穿直肠而死。爱德华二世曾经为他多次被驱逐的情人与贵族争斗。
+    [英格兰](../Page/英格兰.md "wikilink")废王[爱德华二世被杀](https://zh.wikipedia.org/wiki/爱德华二世 "wikilink")，据说被用烧热的拨火棍刺穿直肠而死。爱德华二世曾经为他多次被驱逐的情人与贵族争斗。
   - **1347年** – [Rolandino
     Roncaglia因被指控性悖軌罪而在意大利引起轰动](https://zh.wikipedia.org/wiki/Rolandino_Roncaglia "wikilink")。他承认自己从未与妻子或者其他女人有过性接触，因为他对此从未感到过渴望也从未因她们而勃起过。在他的妻子因瘟疫死后，Rolandino开始衣着女性服装卖淫。尽管他有着男性而不是女性的性器官，很多人还是认为他是女人，因为他有着女性的外观、声音和步态。\[39\]
   - **1370左右** – Jan van Aersdone 和 Willem Case
-    两位男性在1370年左右在[比利时的](../Page/比利时.md "wikilink")[安特卫普被判处死刑](../Page/安特卫普.md "wikilink")，他们被指控因进行同性性行为而严重触犯欧洲中世纪的法律。
+    两位男性在1370年左右在[比利时](../Page/比利时.md "wikilink")的[安特卫普](../Page/安特卫普.md "wikilink")被判处死刑，他们被指控因进行同性性行为而严重触犯欧洲中世纪的法律。
     相关文件的发现使得Aersdone 和
-    Case的名字为人所知。十四世纪另一对已知的同性恋者是[威尼斯的Giovanni](../Page/威尼斯.md "wikilink")
+    Case的名字为人所知。十四世纪另一对已知的同性恋者是[威尼斯](../Page/威尼斯.md "wikilink")的Giovanni
     Braganza 和 Nicoleto Marmagna。\[40\]
   - **1395年** –
-    是英国[伦敦附近活跃于](../Page/伦敦.md "wikilink")[牛津的一位](../Page/牛津.md "wikilink")[異裝](../Page/異裝.md "wikilink")[妓男](https://zh.wikipedia.org/wiki/妓男 "wikilink")，他于1395年因[異裝被逮捕和审讯](../Page/異裝.md "wikilink")。
+    是英国[伦敦](../Page/伦敦.md "wikilink")附近活跃于[牛津](../Page/牛津.md "wikilink")的一位[異裝](../Page/異裝.md "wikilink")[妓男](https://zh.wikipedia.org/wiki/妓男 "wikilink")，他于1395年因[異裝](../Page/異裝.md "wikilink")被逮捕和审讯。
 
 ## 公元15世纪
 
   - **1424年** –
     [天主教](../Page/天主教.md "wikilink")[圣徒](../Page/圣徒.md "wikilink")[锡耶纳的圣伯纳丁](https://zh.wikipedia.org/wiki/锡耶纳的圣伯纳丁 "wikilink")([Bernardio
     of
-    Siena](../Page/聖伯爾納定.md "wikilink"))在[意大利](../Page/意大利.md "wikilink")[佛罗伦萨讲道三日](../Page/佛罗伦萨.md "wikilink")，斥责[同性恋和其他形式的肉欲](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，并以焚烧化妆品、假发以及其他美容装饰品的仪式结束。他同时呼吁判处[性悖軌者以](https://zh.wikipedia.org/wiki/性悖軌罪 "wikilink")[陶片放逐制驱逐流放](../Page/陶片放逐制.md "wikilink")。这种布道以及其他神职人员的做法强化并鼓动了政府更多的对于同性恋人群的迫害。\[41\]
+    Siena](../Page/聖伯爾納定.md "wikilink"))在[意大利](../Page/意大利.md "wikilink")[佛罗伦萨](../Page/佛罗伦萨.md "wikilink")讲道三日，斥责[同性恋和其他形式的肉欲](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，并以焚烧化妆品、假发以及其他美容装饰品的仪式结束。他同时呼吁判处[性悖軌者以](https://zh.wikipedia.org/wiki/性悖軌罪 "wikilink")[陶片放逐制](../Page/陶片放逐制.md "wikilink")驱逐流放。这种布道以及其他神职人员的做法强化并鼓动了政府更多的对于同性恋人群的迫害。\[41\]
   - **1432年** –
     佛罗伦萨建立了第一个特别为检举性悖軌者的组织“夜间警卫”，在之后的70年里逮捕了大约1000名成年男子和男孩，判罪2000余人，大多数处以罚款。
   - **1451年** –
     [教宗](../Page/教宗.md "wikilink")[尼古拉五世授意宗教裁判所迫害性悖軌者](https://zh.wikipedia.org/wiki/尼古拉五世 "wikilink")。
   - **1475年** –
-    [秘鲁](../Page/秘鲁.md "wikilink")[卡帕克·尤潘基统治下的一部编年史记录了对同性恋者处以公开火刑并捣毁住所的迫害](../Page/卡帕克·尤潘基.md "wikilink")（通常用于被征服的部落）。
+    [秘鲁](../Page/秘鲁.md "wikilink")[卡帕克·尤潘基](../Page/卡帕克·尤潘基.md "wikilink")统治下的一部编年史记录了对同性恋者处以公开火刑并捣毁住所的迫害（通常用于被征服的部落）。
   - **1476年** –
     佛罗伦萨法庭1476年的一份记录显示[达芬奇和其他三名年轻男性两次被指控犯有性悖軌罪](https://zh.wikipedia.org/wiki/达芬奇 "wikilink")，最后无罪释放。\[42\]
   - **1483年** –
     [西班牙宗教裁判所建立](https://zh.wikipedia.org/wiki/西班牙宗教裁判所 "wikilink")，性悖軌罪犯被处以石刑、阉割和火刑。在1540到1700年间，超过1600人被判处性悖軌罪。\[43\]
   - **1492年** –
-    著名的[人文主义](../Page/人文主义.md "wikilink")[思想家和](https://zh.wikipedia.org/wiki/思想家 "wikilink")[神学家](https://zh.wikipedia.org/wiki/神学家 "wikilink")[德西德里乌斯·伊拉斯谟在荷兰Steyn的一座修道院期间写作了一系列情书给另一位僧侣](../Page/德西德里乌斯·伊拉斯谟.md "wikilink")。\[44\]
+    著名的[人文主义](../Page/人文主义.md "wikilink")[思想家和](https://zh.wikipedia.org/wiki/思想家 "wikilink")[神学家](https://zh.wikipedia.org/wiki/神学家 "wikilink")[德西德里乌斯·伊拉斯谟](../Page/德西德里乌斯·伊拉斯谟.md "wikilink")在荷兰Steyn的一座修道院期间写作了一系列情书给另一位僧侣。\[44\]
   - **1494年** –
     意大利[多明我会修士](https://zh.wikipedia.org/wiki/多明我会 "wikilink")[萨佛纳罗拉](https://zh.wikipedia.org/wiki/萨佛纳罗拉 "wikilink")
     批判佛罗伦萨民众"可怕的罪行"（主要是同性恋和赌博）并且劝告他们离开他们年轻无须的情人。
@@ -202,22 +202,22 @@
 ## 公元16世纪
 
   - **1502年** –
-    意大利艺术家[桑德罗·波提切利被指控犯有](../Page/桑德罗·波提切利.md "wikilink")[性悖軌罪](https://zh.wikipedia.org/wiki/性悖軌罪 "wikilink")。\[45\]
+    意大利艺术家[桑德罗·波提切利](../Page/桑德罗·波提切利.md "wikilink")被指控犯有[性悖軌罪](https://zh.wikipedia.org/wiki/性悖軌罪 "wikilink")。\[45\]
   - **1523年** –
-    佛罗伦萨艺术家[本韦努托·切利尼第一次受到性悖軌罪的指控](../Page/本韦努托·切利尼.md "wikilink")。\[46\]
-  - **1532年** – [神圣罗马帝国宣布判处性悖軌罪死刑](../Page/神圣罗马帝国.md "wikilink")。\[47\]
+    佛罗伦萨艺术家[本韦努托·切利尼](../Page/本韦努托·切利尼.md "wikilink")第一次受到性悖軌罪的指控。\[46\]
+  - **1532年** – [神圣罗马帝国](../Page/神圣罗马帝国.md "wikilink")宣布判处性悖軌罪死刑。\[47\]
   - **1532年** –
-    佛罗伦萨艺术家[米开朗基罗写作了超过](../Page/米开朗基罗.md "wikilink")300首情诗给。\[48\]
+    佛罗伦萨艺术家[米开朗基罗](../Page/米开朗基罗.md "wikilink")写作了超过300首情诗给。\[48\]
   - **1533年** – 英格兰国王[亨利八世](../Page/亨利八世.md "wikilink")
     通过了，对施行肛交者判处死刑。\[49\]
   - **1542年** –
-    拉普拉塔河口和巴拉圭总督[阿尔瓦·努涅斯·卡韦萨·德·巴卡在他的著作](../Page/阿尔瓦·努涅斯·卡韦萨·德·巴卡.md "wikilink")《阿尔瓦·努涅斯·卡韦萨·德·巴卡一行从佛罗里达到太平洋的日记
+    拉普拉塔河口和巴拉圭总督[阿尔瓦·努涅斯·卡韦萨·德·巴卡](../Page/阿尔瓦·努涅斯·卡韦萨·德·巴卡.md "wikilink")在他的著作《阿尔瓦·努涅斯·卡韦萨·德·巴卡一行从佛罗里达到太平洋的日记
     1528-1536》（The Journey of Alvar Nuñez Cabeza de Vaca and His
     Companions from Florida to the Pacific
     1528-1536）中记录了美洲印第安人部落中的同性婚姻以及“身着女性服装并施以女性礼仪，但是使用弓箭并从事重体力劳动”的男性。
-  - **1543年** – 英格兰国王[亨利八世通过](../Page/亨利八世.md "wikilink")，将引入威尔士。
+  - **1543年** – 英格兰国王[亨利八世](../Page/亨利八世.md "wikilink")通过，将引入威尔士。
   - **1553年** –
-    女王[玛丽一世继承英格兰王位](../Page/玛丽一世_\(英格兰\).md "wikilink")，在1530年左右的[英格兰宗教改革中废除了被](../Page/英格兰宗教改革.md "wikilink")[亨利八世通过的所有法案](../Page/亨利八世.md "wikilink")。
+    女王[玛丽一世继承英格兰王位](../Page/玛丽一世_\(英格兰\).md "wikilink")，在1530年左右的[英格兰宗教改革](../Page/英格兰宗教改革.md "wikilink")中废除了被[亨利八世](../Page/亨利八世.md "wikilink")通过的所有法案。
   - **1558年–1563年** –
     英格兰女王[伊丽莎白一世](https://zh.wikipedia.org/wiki/伊丽莎白一世_\(英格兰\) "wikilink")
     恢复了亨利八世的法律，包括。\[50\]
@@ -225,7 +225,7 @@
 ## 公元17世纪
 
   - **1620年** –
-    [勃蘭登堡-普魯士将男男性行為有罪化](../Page/勃蘭登堡-普魯士.md "wikilink")，判以死刑。\[51\]
+    [勃蘭登堡-普魯士](../Page/勃蘭登堡-普魯士.md "wikilink")将男男性行為有罪化，判以死刑。\[51\]
   - **1624年** –
     英国在北美大陆上设立的殖民地[弗吉尼亚自治领将性悖軌者判处绞刑](https://zh.wikipedia.org/wiki/弗吉尼亚自治领 "wikilink")。\[52\]
   - **1649年** –
@@ -245,7 +245,7 @@
   - **1726年** – 的在伦敦被警方搜查，三个男性被判处死刑。在茉莉屋中男性被允许穿着女式服装出入，可以自由结交朋友。\[56\]
   - **1730年-1811年**，[荷兰共和国内出现一股恐慌](https://zh.wikipedia.org/wiki/荷兰共和国 "wikilink")，导致许多针对性悖軌者的判罚，这股迫害在1730年到1737年，1764年，1776年，1795年到1798年最为严重。
   - **1785年** –
-    英国哲学家、法学和社会改革家[杰里米·边沁在英格兰第一个为性悖軌者的无罪化辩护](../Page/杰里米·边沁.md "wikilink")。\[57\]
+    英国哲学家、法学和社会改革家[杰里米·边沁](../Page/杰里米·边沁.md "wikilink")在英格兰第一个为性悖軌者的无罪化辩护。\[57\]
   - **1791年** –
     法国在[大革命期间](../Page/法国大革命.md "wikilink")（以及[安道尔](../Page/安道尔.md "wikilink")）施行，不再将同性性行为判罪。法国成为西欧第一个将成年人间自愿的同性性行为去罪化的国家。\[58\]
   - **1794年** – 普鲁士王国废除了对于性悖軌者的死刑。\[59\]
@@ -257,47 +257,47 @@
 
   - **1800年代** – 19世纪初出版了最早的关于女同性恋的学术研究。
   - **1811年** –
-    [荷兰和](../Page/荷兰.md "wikilink")[印度尼西亚将同性恋行为去罪化](../Page/印度尼西亚.md "wikilink")。
+    [荷兰](../Page/荷兰.md "wikilink")和[印度尼西亚](../Page/印度尼西亚.md "wikilink")将同性恋行为去罪化。
   - **1814年** – “违反自然的性关系或行为”词条第一次出现在美国刑法典中。
-  - **1830年** – [巴西将同性恋行为去罪化](../Page/巴西.md "wikilink")。
+  - **1830年** – [巴西](../Page/巴西.md "wikilink")将同性恋行为去罪化。
   - **1832年** –
-    [俄罗斯根据其新刑法典的](../Page/俄罗斯.md "wikilink")“995条款”判处同性恋者在西伯利亚5年以下流放。
+    [俄罗斯](../Page/俄罗斯.md "wikilink")根据其新刑法典的“995条款”判处同性恋者在西伯利亚5年以下流放。
   - **1835年** –
     在[瓜分波兰事件发生后](https://zh.wikipedia.org/wiki/瓜分波兰 "wikilink")，成为俄国一部分的[波兰会议王国或称](https://zh.wikipedia.org/wiki/波兰会议王国 "wikilink")[俄属波兰历史上第一次判定同性恋行为违法](https://zh.wikipedia.org/wiki/俄属波兰 "wikilink")。
   - **1836年** –
     最后一起对于同性恋的处决发生在[大不列颠岛上](https://zh.wikipedia.org/wiki/大不列颠岛 "wikilink")。在位于伦敦的私人住所中被逮捕，并与处以绞刑。\[60\]
-  - **1852年** – [葡萄牙将同性恋行为去罪化](../Page/葡萄牙.md "wikilink")。\[61\]
+  - **1852年** – [葡萄牙](../Page/葡萄牙.md "wikilink")将同性恋行为去罪化。\[61\]
   - **1856年** –
     摩门教中的女同性恋者第一次被记录。[盐湖城一名男子在日记中记录一名摩门教女性](https://zh.wikipedia.org/wiki/盐湖城 "wikilink")“试图勾引一个年轻女孩”。\[62\]
   - **1858年** –
-    [奥斯曼帝国](../Page/奥斯曼帝国.md "wikilink")（[土耳其的前身](../Page/土耳其.md "wikilink")）将同性恋行为去罪化。\[63\]
-    [东帝汶将同性恋合法化](../Page/东帝汶.md "wikilink")。
+    [奥斯曼帝国](../Page/奥斯曼帝国.md "wikilink")（[土耳其](../Page/土耳其.md "wikilink")的前身）将同性恋行为去罪化。\[63\]
+    [东帝汶](../Page/东帝汶.md "wikilink")将同性恋合法化。
   - **1861年** – 在[英格兰](../Page/英格兰.md "wikilink")，
     的修订中移除了对于鸡奸的死刑判决（自1836年后就未实施过），将判罚改为10年以上有期徒刑至终身监禁。
-  - **1865年** – [圣马力诺将同性恋行为去罪化](../Page/圣马力诺.md "wikilink")。
+  - **1865年** – [圣马力诺](../Page/圣马力诺.md "wikilink")将同性恋行为去罪化。
   - **1867年** –
     1867年8月29日，[卡尔·亨利希·乌尔利克斯](../Page/卡尔·亨利希·乌尔利克斯.md "wikilink")
-    成为史上第一个公开自己同性恋身份的人，并在[慕尼黑的](../Page/慕尼黑.md "wikilink")[德国法律家委员会发表公开演讲呼吁保护同性恋权利废除反同性恋法案](https://zh.wikipedia.org/wiki/德国法律家委员会 "wikilink")。
+    成为史上第一个公开自己同性恋身份的人，并在[慕尼黑](../Page/慕尼黑.md "wikilink")的[德国法律家委员会发表公开演讲呼吁保护同性恋权利废除反同性恋法案](https://zh.wikipedia.org/wiki/德国法律家委员会 "wikilink")。
   - **1869年** – “同性恋”一词第一次出版印刷在德国-匈牙利国内人权活动家 (1824–1882)编写的宣传册上。
   - **1870年** – ** 出版，这是美国小说史上第一部关于同性恋关系的小说。
   - **1871年** –
-    根据[德国刑事法第175条](https://zh.wikipedia.org/wiki/德国刑事法第175条 "wikilink")，同性恋在[德意志帝国全面有罪化](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")；[危地马拉和](../Page/危地马拉.md "wikilink")[墨西哥将同性恋行为去罪化](../Page/墨西哥.md "wikilink")。
+    根据[德国刑事法第175条](https://zh.wikipedia.org/wiki/德国刑事法第175条 "wikilink")，同性恋在[德意志帝国全面有罪化](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")；[危地马拉](../Page/危地马拉.md "wikilink")和[墨西哥](../Page/墨西哥.md "wikilink")将同性恋行为去罪化。
   - **1880年** –
-    [大日本帝国将同性恋行为](../Page/大日本帝国.md "wikilink")（肛交）去罪化，但是在[明治维新早期是违法的](../Page/明治维新.md "wikilink")。
+    [大日本帝国](../Page/大日本帝国.md "wikilink")将同性恋行为（肛交）去罪化，但是在[明治维新](../Page/明治维新.md "wikilink")早期是违法的。
   - **1886年** –
-    在英格兰，根据[维多利亚女王的](https://zh.wikipedia.org/wiki/维多利亚女王 "wikilink")[御准](../Page/御准.md "wikilink")宣布男性之间的性行为违法（但是女性之间则不然）。[阿根廷将同性恋行为去罪化](../Page/阿根廷.md "wikilink")。[葡萄牙再次将同性恋行为有罪化](../Page/葡萄牙.md "wikilink")。
-  - **1889年** – 同性恋在[意大利合法化](../Page/意大利.md "wikilink")。
+    在英格兰，根据[维多利亚女王的](https://zh.wikipedia.org/wiki/维多利亚女王 "wikilink")[御准](../Page/御准.md "wikilink")宣布男性之间的性行为违法（但是女性之间则不然）。[阿根廷](../Page/阿根廷.md "wikilink")将同性恋行为去罪化。[葡萄牙](../Page/葡萄牙.md "wikilink")再次将同性恋行为有罪化。
+  - **1889年** – 同性恋在[意大利](../Page/意大利.md "wikilink")合法化。
     [英格兰](../Page/英格兰.md "wikilink")[克利夫兰街丑闻爆发](https://zh.wikipedia.org/wiki/克利夫兰街丑闻 "wikilink")。
   - **1892年** – “双性恋”和“异性恋”两个词第一次根据它们现在的含义出现在翻译的的著作《》中。
   - **1892年** –
     著名双性恋诗人[埃德娜·圣文森特·米莱出生在](https://zh.wikipedia.org/wiki/埃德娜·圣文森特·米莱 "wikilink")1892年2月22日。
   - **1894年** –
-    生物学家及人类性学开拓者[阿尔弗雷德·金赛博士出生于](../Page/阿尔弗雷德·金赛.md "wikilink")6月23日。
+    生物学家及人类性学开拓者[阿尔弗雷德·金赛](../Page/阿尔弗雷德·金赛.md "wikilink")博士出生于6月23日。
   - **1895年** –
-    [奥斯卡·王尔德根据](../Page/奥斯卡·王尔德.md "wikilink")被告“与其他男性发生有伤风化的行为”而被判处在监狱两年服刑。
+    [奥斯卡·王尔德](../Page/奥斯卡·王尔德.md "wikilink")根据被告“与其他男性发生有伤风化的行为”而被判处在监狱两年服刑。
     在巴西出版了他富有争议的小说（意为“非洲男人和侍童”），其中有同性恋的内容并以黑人男性为故事主角。
   - **1897年** –
-    内科医生及性学家[马格努斯·赫希菲尔德在](../Page/马格努斯·赫希菲尔德.md "wikilink")5月14日建立了来组织同性恋权益维护运动并反对[德国刑事法第175条](https://zh.wikipedia.org/wiki/德国刑事法第175条 "wikilink")。
+    内科医生及性学家[马格努斯·赫希菲尔德](../Page/马格努斯·赫希菲尔德.md "wikilink")在5月14日建立了来组织同性恋权益维护运动并反对[德国刑事法第175条](https://zh.wikipedia.org/wiki/德国刑事法第175条 "wikilink")。
   - **1897年** – 诗人、作家、同性恋人权活动家建立英格兰了第一个同性恋人权组织.
 
 ## 公元20世纪
@@ -309,18 +309,18 @@
     Hotel Baths”的搜捕行动中，26名男性被拘留，其中12名被控鸡奸罪，7名被判处4到20年徒刑。\[64\]
   - **1906年** – 美国第一部幸福结局的公开同性恋小说《》出版。\[65\]
   - **1907年** –
-    致力于推翻[德國刑事法第175條的](../Page/德國刑事法第175條.md "wikilink")“Gemeinschaft
+    致力于推翻[德國刑事法第175條](../Page/德國刑事法第175條.md "wikilink")的“Gemeinschaft
     der
-    Eigenen”运动领袖宣称德意志帝国总理[伯恩哈德·冯·比洛王子为同性恋](../Page/伯恩哈德·冯·比洛.md "wikilink")。王子控告其诽谤并要求恢复声誉；布兰迪被判处18个月徒刑。\[66\]
+    Eigenen”运动领袖宣称德意志帝国总理[伯恩哈德·冯·比洛](../Page/伯恩哈德·冯·比洛.md "wikilink")王子为同性恋。王子控告其诽谤并要求恢复声誉；布兰迪被判处18个月徒刑。\[66\]
   - **1907年–1909年** – 事件在德国爆发，记者指控欧伦堡王子和中将存在同性恋关系。\[67\]
 
 ### 1910s
 
   - **1910** – [埃玛·戈尔德曼](../Page/埃玛·戈尔德曼.md "wikilink")（[Emma
-    Goldman](https://zh.wikipedia.org/wiki/Emma_Goldman "wikilink")）首先在公开演讲中对同性权益表达支持，[马格努斯·赫希菲尔德博士](../Page/马格努斯·赫希菲尔德.md "wikilink")
+    Goldman](https://zh.wikipedia.org/wiki/Emma_Goldman "wikilink")）首先在公开演讲中对同性权益表达支持，[马格努斯·赫希菲尔德](../Page/马格努斯·赫希菲尔德.md "wikilink")博士
     之后写道”她是第一个也是唯一一个女人，第一个也是唯一一个美国人在公众面前捍卫同性恋爱”。\[68\]
     [Lesbiche_-_1928_-_D-_Die_freundin_1928.jpg](https://zh.wikipedia.org/wiki/File:Lesbiche_-_1928_-_D-_Die_freundin_1928.jpg "fig:Lesbiche_-_1928_-_D-_Die_freundin_1928.jpg"))\]\]\[69\]
-  - **1912** –在摩门教杂志《青年妇女杂志》（）的支持下“[莱斯沃斯岛的](../Page/莱斯沃斯岛.md "wikilink")[莎孚](../Page/莎孚.md "wikilink")\[70\]”首次明确涉及女同性恋。Jacob
+  - **1912** –在摩门教杂志《青年妇女杂志》（）的支持下“[莱斯沃斯岛](../Page/莱斯沃斯岛.md "wikilink")的[莎孚](../Page/莎孚.md "wikilink")\[70\]”首次明确涉及女同性恋。Jacob
     .博士创立了第一个荷兰反歧视同性恋组织“荷兰科学人权委员会”（）[3](https://en.wikipedia.org/wiki/Scientific-Humanitarian_Committee)
     (NWHK)
   - **1913** – *faggot*
@@ -331,13 +331,13 @@
   - **1917** –
     俄国的“[十月革命](../Page/十月革命.md "wikilink")”完全废除了之前的刑罚典，包括995条款.\[71\]\[72\]
     [布尔什维克](../Page/布尔什维克.md "wikilink") 领导人宣称“同性恋和异性恋关系在法律面前是平等的。”
-  - **1919** –在德国柏林，[马格努斯·赫希菲尔德博士组建了一个具有开拓性的私立学术和咨询组织](../Page/马格努斯·赫希菲尔德.md "wikilink")，性学研究所（[Institut
+  - **1919** –在德国柏林，[马格努斯·赫希菲尔德](../Page/马格努斯·赫希菲尔德.md "wikilink")博士组建了一个具有开拓性的私立学术和咨询组织，性学研究所（[Institut
     für
     Sexualwissenschaft](https://zh.wikipedia.org/wiki/Institut_für_Sexualwissenschaft "wikilink")
     (Institute for Sex Research)）。
     1933年5月纳粹组织销毁了其数千卷文献。\[73\]\[74\]\[75\]
   - **1919** - 第一部同性恋电影《与众不同》（[Different From the
-    Others](https://zh.wikipedia.org/wiki/Different_From_the_Others "wikilink")）发布，[马格努斯·赫希菲尔德博士在其中出现并资助了这部电影](../Page/马格努斯·赫希菲尔德.md "wikilink")。
+    Others](https://zh.wikipedia.org/wiki/Different_From_the_Others "wikilink")）发布，[马格努斯·赫希菲尔德](../Page/马格努斯·赫希菲尔德.md "wikilink")博士在其中出现并资助了这部电影。
 
 ### 1920s
 
@@ -351,7 +351,7 @@
   - **1924** –  在芝加哥建立了美国第一个同性恋权益组织“人权协会“\[78\]。该组织在警方的压力下只维持了几个月\[79\]。
     同性恋在巴拿马，巴拉圭和秘鲁合法化。
   - **1926** –
-    同性恋“homosexuality”一词第一次出现在美国主流刊物[纽约时报上](../Page/纽约时报.md "wikilink")\[80\]。
+    同性恋“homosexuality”一词第一次出现在美国主流刊物[纽约时报](../Page/纽约时报.md "wikilink")上\[80\]。
   - **1927–**
     波兰同性恋作曲家[卡罗尔·马切伊·席曼诺夫斯基被任命为国立音乐学院](https://zh.wikipedia.org/wiki/卡罗尔·席曼诺夫斯基 "wikilink")
     [Fryderyk Chopin Music
@@ -367,10 +367,10 @@
 
 ### 1990s
 
-  - **1991** – [香港将同性恋行为去罪化](../Page/香港.md "wikilink")。
+  - **1991** – [香港](../Page/香港.md "wikilink")将同性恋行为去罪化。
   - **1997** –
     [中華人民共和國将同性恋行为去罪化](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")。
-  - **1999** – [智利将同性恋行为去罪化](../Page/智利.md "wikilink")。
+  - **1999** – [智利](../Page/智利.md "wikilink")将同性恋行为去罪化。
 
 ## 参考文献
 

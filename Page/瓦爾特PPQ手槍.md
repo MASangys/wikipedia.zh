@@ -1,4 +1,4 @@
-**瓦爾特PPQ**（，意為：警用快速防禦手槍）是一系列由[德国槍械製造商](../Page/德国.md "wikilink")[卡尔·瓦尔特运动枪](../Page/卡尔·瓦尔特运动枪.md "wikilink")[有限公司為民間射擊](../Page/有限公司.md "wikilink")、安全部隊和執法機關取代過去的[瓦爾特P99而研製和生產的](../Page/瓦爾特P99手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40
+**瓦爾特PPQ**（，意為：警用快速防禦手槍）是一系列由[德国](../Page/德国.md "wikilink")槍械製造商[卡尔·瓦尔特运动枪](../Page/卡尔·瓦尔特运动枪.md "wikilink")[有限公司](../Page/有限公司.md "wikilink")為民間射擊、安全部隊和執法機關取代過去的[瓦爾特P99而研製和生產的](../Page/瓦爾特P99手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40
 S\&W這三種](../Page/.40_S&W.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]\[2\]\[3\]到了2015年10月，又推出了發射[.45
 ACP](../Page/.45_ACP.md "wikilink")[口徑型手枪子彈的型號](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
@@ -6,9 +6,9 @@ ACP](../Page/.45_ACP.md "wikilink")[口徑型手枪子彈的型號](https://zh.w
 
 [Walther_P99RAD_PICT0081.jpg](https://zh.wikipedia.org/wiki/File:Walther_P99RAD_PICT0081.jpg "fig:Walther_P99RAD_PICT0081.jpg")
 [Walther_P99Q.jpg](https://zh.wikipedia.org/wiki/File:Walther_P99Q.jpg "fig:Walther_P99Q.jpg")
-瓦爾特PPQ並非一個真正的新設計。這槍使用了與在1996年推出的[瓦爾特P99手槍的衍生型P](../Page/瓦爾特P99手槍.md "wikilink")99QA相同的工程學的原理和主要特點。\[4\]與瓦爾特P99QA型相比，瓦爾特PPQ具有的許多修改，例如經過重新設計的握把，[扳機護圈和向前的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")（大型）鋸齒狀防滑紋[套筒的組合亦在](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")2008年推出的P99衍生型，在波蘭生產和銷售的軍用手槍（）瓦爾特P99RAD上\[5\]，以及瓦爾特P99Q警用手槍上出現過。
+瓦爾特PPQ並非一個真正的新設計。這槍使用了與在1996年推出的[瓦爾特P99手槍](../Page/瓦爾特P99手槍.md "wikilink")的衍生型P99QA相同的工程學的原理和主要特點。\[4\]與瓦爾特P99QA型相比，瓦爾特PPQ具有的許多修改，例如經過重新設計的握把，[扳機護圈和向前的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")（大型）鋸齒狀防滑紋[套筒的組合亦在](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")2008年推出的P99衍生型，在波蘭生產和銷售的軍用手槍（）瓦爾特P99RAD上\[5\]，以及瓦爾特P99Q警用手槍上出現過。
 
-由於是瓦爾特P99的產品發展型，PPQ保持著與P99的瞄準具和P99的第二代[彈匣以及其他配件的兼容性](../Page/彈匣.md "wikilink")。\[6\]\[7\]
+由於是瓦爾特P99的產品發展型，PPQ保持著與P99的瞄準具和P99的第二代[彈匣](../Page/彈匣.md "wikilink")以及其他配件的兼容性。\[6\]\[7\]
 
 PPQ在P99QA、P99RAD和P99Q之上的主要革新是其“快速防衛型”[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")。\[8\]
 
@@ -16,37 +16,36 @@ PPQ在P99QA、P99RAD和P99Q之上的主要革新是其“快速防衛型”[扳�
 
 ### 操作機構
 
-瓦爾特PPQ是一把[槍管短行程後座](../Page/後座作用.md "wikilink")[閉膛式](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，使用從[白朗寧大威力手槍改進過來的白朗寧凸輪閉鎖系統](../Page/白朗寧大威力手槍.md "wikilink")。PPQ具有一個[玻璃钢增強](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚合物材料製造的](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[钢製](../Page/钢.md "wikilink")[套筒組件](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。所有金屬表面都經過[镍](../Page/镍.md "wikilink")[铁](https://zh.wikipedia.org/wiki/铁 "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。它可以被分解為其主要部分，或是在沒有工具的幫助以下只按下分解扣就能夠[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。
+瓦爾特PPQ是一把[槍管短行程後座](../Page/後座作用.md "wikilink")[閉膛式](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，使用從[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")改進過來的白朗寧凸輪閉鎖系統。PPQ具有一個[玻璃钢增強](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚合物](../Page/聚合物.md "wikilink")材料製造的[底把和](../Page/机匣.md "wikilink")[钢](../Page/钢.md "wikilink")製[套筒組件](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。所有金屬表面都經過[镍](../Page/镍.md "wikilink")[铁](https://zh.wikipedia.org/wiki/铁 "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。它可以被分解為其主要部分，或是在沒有工具的幫助以下只按下分解扣就能夠[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。
 
 ### 功能
 
-在瓦爾特PPQ內部預設的[擊針](../Page/撞針.md "wikilink")“快速防衛型”[扳機是一個超越過去的瓦爾特手槍的扳機系統](https://zh.wikipedia.org/wiki/扳機 "wikilink")，並已經在PPQ上加以使用，成為該槍最具特色之處。\[9\]當扳機被扣動時，扳機連杆上的突起物頂起連繫著擊針保險的分離式控制桿，撐起一個阻鐵鉤，同時讓完全預先裝填的擊針總成釋放並向前移，並使手槍射擊。與[格洛克和許多其他擊針發射設計的手槍相似的是](../Page/格洛克.md "wikilink")，不需要預壓擊針簧即可扣動扳機。PPQ的[扳機扣力完全是由扳機和分離彈簧而定](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")。PPQ的[扳機行程大約為](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")9毫米（0.35英寸），[扳機復位行程只有相對很短的](https://zh.wikipedia.org/wiki/扳機復位行程 "wikilink")2.54毫米（0.1英寸），而扳機扣力為大約25牛頓（5.62磅力）。在扣動扳機射擊以後，只要稍微鬆開扳機並且再次扣動就可以擊發下一發子彈，保證了使用者在射擊時的準確性和對快速射擊的需求。有別於許多其他的扳機系統，預置的內置式擊針具有一個讓位關閉點，這樣在不需要[待擊解脫桿以下](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")，扳機扣力從第一發到最後一發都保持不變。然而，應該注意的是，PPQ衍生型擊針不會從[套筒的後面伸出](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，因為該槍械本來就是在一個恆定待擊狀態。\[10\]\[11\]
+在瓦爾特PPQ內部預設的[擊針](../Page/撞針.md "wikilink")“快速防衛型”[扳機是一個超越過去的瓦爾特手槍的扳機系統](https://zh.wikipedia.org/wiki/扳機 "wikilink")，並已經在PPQ上加以使用，成為該槍最具特色之處。\[9\]當扳機被扣動時，扳機連杆上的突起物頂起連繫著擊針保險的分離式控制桿，撐起一個阻鐵鉤，同時讓完全預先裝填的擊針總成釋放並向前移，並使手槍射擊。與[格洛克](../Page/格洛克.md "wikilink")和許多其他擊針發射設計的手槍相似的是，不需要預壓擊針簧即可扣動扳機。PPQ的[扳機扣力完全是由扳機和分離彈簧而定](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")。PPQ的[扳機行程大約為](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")9毫米（0.35英寸），[扳機復位行程只有相對很短的](https://zh.wikipedia.org/wiki/扳機復位行程 "wikilink")2.54毫米（0.1英寸），而扳機扣力為大約25牛頓（5.62磅力）。在扣動扳機射擊以後，只要稍微鬆開扳機並且再次扣動就可以擊發下一發子彈，保證了使用者在射擊時的準確性和對快速射擊的需求。有別於許多其他的扳機系統，預置的內置式擊針具有一個讓位關閉點，這樣在不需要[待擊解脫桿以下](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")，扳機扣力從第一發到最後一發都保持不變。然而，應該注意的是，PPQ衍生型擊針不會從[套筒的後面伸出](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，因為該槍械本來就是在一個恆定待擊狀態。\[10\]\[11\]
 
-由於PPQ手槍的扳機特性，由[德国](../Page/德国.md "wikilink")[瓦爾特生產和銷售的PPQ更像是](../Page/卡尔·瓦尔特运动枪.md "wikilink")[特種部隊手槍](../Page/特種部隊.md "wikilink")，而非如其名字般是一把警用任務型手槍。根據德國警察技術規格（TR；，意為：9×19毫米口徑手槍的技術規格指引；最新修訂版：[2008年1月](../Page/2008年1月.md "wikilink")），獲得德國警用任務型手槍認證的手槍的首發扳機扣力需要大於或等於30牛頓（6.74磅力），[扳機行程大於或等於](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")10毫米（0.39英寸），而[扳機復位行程則大於或等於](https://zh.wikipedia.org/wiki/扳機復位行程 "wikilink")4毫米（0.16英寸）。\[12\]\[13\]
+由於PPQ手槍的扳機特性，由[德国](../Page/德国.md "wikilink")[瓦爾特生產和銷售的PPQ更像是](../Page/卡尔·瓦尔特运动枪.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")手槍，而非如其名字般是一把警用任務型手槍。根據德國警察技術規格（TR；，意為：9×19毫米口徑手槍的技術規格指引；最新修訂版：[2008年1月](../Page/2008年1月.md "wikilink")），獲得德國警用任務型手槍認證的手槍的首發扳機扣力需要大於或等於30牛頓（6.74磅力），[扳機行程大於或等於](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")10毫米（0.39英寸），而[扳機復位行程則大於或等於](https://zh.wikipedia.org/wiki/扳機復位行程 "wikilink")4毫米（0.16英寸）。\[12\]\[13\]
 
-位於[套筒右側](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，尺寸比較長，除了具抽殼功能以外，退殼勾同時作為。當有[彈藥於](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[膛室內的時候](../Page/膛室.md "wikilink")，會使退殼勾尾部向內移動後而縮入套筒，這時套筒上平時被抽殼鈎尾部掩蓋的紅色警示標記就會顯現，白天很容易看到。光線昏暗不佳或是夜間無法用肉眼分辨時，可以通過手指觸摸抽殼鈎尾部的位置以感知膛室內裝有彈藥與否。而沒有彈藥時會把退殼勾縮回槍內。
+位於[套筒右側](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，尺寸比較長，除了具抽殼功能以外，退殼勾同時作為。當有[彈藥於](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[膛室](../Page/膛室.md "wikilink")內的時候，會使退殼勾尾部向內移動後而縮入套筒，這時套筒上平時被抽殼鈎尾部掩蓋的紅色警示標記就會顯現，白天很容易看到。光線昏暗不佳或是夜間無法用肉眼分辨時，可以通過手指觸摸抽殼鈎尾部的位置以感知膛室內裝有彈藥與否。而沒有彈藥時會把退殼勾縮回槍內。
 
-這手槍對於[人體工程學設計方面亦是一個關鍵性的焦點](../Page/人因工程学.md "wikilink")，並正因為如此，與瓦爾特P99一樣，PPQ的握把使用了模塊化設計，可以換裝3種可更換式後方握把片（小型、中型和大型），這樣就令使用者可以因應其手掌大小而調節握把的[形狀和尺寸](../Page/形狀.md "wikilink")，更適合不同的手形。此功能亦讓大多數射手的槍械上具有一個握感舒適和更有效的握把。\[14\]其[注射製模握把](../Page/注射製模.md "wikilink")[底把上具有四條讓](../Page/机匣.md "wikilink")[套筒在前者以上滑動的鋼製導軌](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")：兩條位於底把的後部，而其餘的兩條亦以一對形式設在[扳機護圈的前部的上方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。\[15\]大型扳機護圈的前部和質感本身都是方形。其聚合物握把的兩側、前部和後方握把片上具有捲曲變形紋理化“HI-GRIP”型防滑表面。握把內部使用了喇叭狀擴口處理的[彈匣插槽](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，使彈匣插入時變得更為方便。固定後方握把片下端以空心插銷固定，其設計目的是要作為一個用以裝上戰術槍索附件的空心洞。PPQ亦在套筒下、[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913戰術導軌以安裝各種](../Page/皮卡汀尼導軌.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。\[16\]
+這手槍對於[人體工程學設計方面亦是一個關鍵性的焦點](../Page/人因工程学.md "wikilink")，並正因為如此，與瓦爾特P99一樣，PPQ的握把使用了模塊化設計，可以換裝3種可更換式後方握把片（小型、中型和大型），這樣就令使用者可以因應其手掌大小而調節握把的[形狀](../Page/形狀.md "wikilink")和尺寸，更適合不同的手形。此功能亦讓大多數射手的槍械上具有一個握感舒適和更有效的握把。\[14\]其[注射製模](../Page/注射製模.md "wikilink")握把[底把上具有四條讓](../Page/机匣.md "wikilink")[套筒在前者以上滑動的鋼製導軌](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")：兩條位於底把的後部，而其餘的兩條亦以一對形式設在[扳機護圈的前部的上方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。\[15\]大型扳機護圈的前部和質感本身都是方形。其聚合物握把的兩側、前部和後方握把片上具有捲曲變形紋理化“HI-GRIP”型防滑表面。握把內部使用了喇叭狀擴口處理的[彈匣插槽](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，使彈匣插入時變得更為方便。固定後方握把片下端以空心插銷固定，其設計目的是要作為一個用以裝上戰術槍索附件的空心洞。PPQ亦在套筒下、[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913戰術導軌以安裝各種](../Page/皮卡汀尼導軌.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。\[16\]
 
-手槍的[套筒和其他金屬部件採用了先進的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[特尼弗](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")（Tenifer）處理過程（一種[滲氮工藝](https://zh.wikipedia.org/wiki/滲氮 "wikilink")，也在[格洛克手槍上使用](../Page/格洛克.md "wikilink")）。特尼弗表面處理的厚度為0.04[毫米](../Page/毫米.md "wikilink")（0.0015[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）和0.05[毫米](../Page/毫米.md "wikilink")（0.002[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）之間。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和表面處理部分，甚至在表面以下的一定深度並且變成類似的性質。\[17\]Tenifer氮化處理過程中會產生磨砂[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64
-[HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70
-HRC）、99％的抗[海水](../Page/海水.md "wikilink")[腐蚀](../Page/腐蚀.md "wikilink")（達到或超過[不鏽鋼規格](../Page/不鏽鋼.md "wikilink")）\[18\]和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。採用了這種處理使得瓦爾特PPX特別適合作為個人的手槍，而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[19\]採用類似表面處理的還有[格洛克手槍和](../Page/格洛克.md "wikilink")[HS2000手槍](../Page/HS2000手槍.md "wikilink")。
+手槍的[套筒和其他金屬部件採用了先進的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[特尼弗](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")（Tenifer）處理過程（一種[滲氮工藝](https://zh.wikipedia.org/wiki/滲氮 "wikilink")，也在[格洛克](../Page/格洛克.md "wikilink")手槍上使用）。特尼弗表面處理的厚度為0.04[毫米](../Page/毫米.md "wikilink")（0.0015[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）和0.05毫米（0.002英吋）之間。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和表面處理部分，甚至在表面以下的一定深度並且變成類似的性質。\[17\]Tenifer氮化處理過程中會產生[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64[HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70
+HRC）、99％的抗[海水](../Page/海水.md "wikilink")[腐蚀](../Page/腐蚀.md "wikilink")（達到或超過[不鏽鋼](../Page/不鏽鋼.md "wikilink")規格）\[18\]和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。採用了這種處理使得瓦爾特PPX特別適合作為個人的手槍，而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[19\]採用類似表面處理的還有[格洛克](../Page/格洛克.md "wikilink")手槍和[HS2000手槍](../Page/HS2000手槍.md "wikilink")。
 
-整套瓦爾特PPQ手槍可裝在其專用[聚合物手槍槍盒](../Page/聚合物.md "wikilink")，裡面包括：手槍、2塊大小不同的後方握把片、兩個彈匣、快速裝彈器、使用說明書、保修期文件、原廠在15公尺（16.4[码](https://zh.wikipedia.org/wiki/码 "wikilink")）的距離開了5槍的測試靶子以及一個經認可的*證明機構烏姆*（）進行的[驗證測試的防彈盒子裝著的信封](https://zh.wikipedia.org/wiki/驗證測試 "wikilink")。\[20\]
+整套瓦爾特PPQ手槍可裝在其專用[聚合物](../Page/聚合物.md "wikilink")手槍槍盒，裡面包括：手槍、2塊大小不同的後方握把片、兩個彈匣、快速裝彈器、使用說明書、保修期文件、原廠在15公尺（16.4码）的距離開了5槍的測試靶子以及一個經認可的*證明機構烏姆*（）進行的[驗證測試的防彈盒子裝著的信封](https://zh.wikipedia.org/wiki/驗證測試 "wikilink")。\[20\]
 
 ### 槍管
 
-瓦爾特PPQ手槍裝有一根使用傳統型陽膛和陰膛[槍管](../Page/槍管.md "wikilink")。子彈通過常規的由陽膛和陰膛所組成的[膛線以達到穩定](../Page/膛線.md "wikilink")。槍管下方的[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wikilink")[導桿尾部加裝了一個](https://zh.wikipedia.org/wiki/複進簧導桿 "wikilink")[藍色](../Page/藍色.md "wikilink")[聚合物帽](../Page/聚合物.md "wikilink")，這能既能減少槍管與複進簧導桿尾部接觸位置的摩擦損耗，亦能夠防止使用者在維護手槍以後安裝複進簧導桿的時候出現如倒裝的裝置出錯問題。
+瓦爾特PPQ手槍裝有一根使用傳統型陽膛和陰膛[槍管](../Page/槍管.md "wikilink")。子彈通過常規的由陽膛和陰膛所組成的[膛線](../Page/膛線.md "wikilink")以達到穩定。槍管下方的[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wikilink")[導桿尾部加裝了一個](https://zh.wikipedia.org/wiki/複進簧導桿 "wikilink")[藍色](../Page/藍色.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")帽，這能既能減少槍管與複進簧導桿尾部接觸位置的摩擦損耗，亦能夠防止使用者在維護手槍以後安裝複進簧導桿的時候出現如倒裝的裝置出錯問題。
 
 ### 保險裝置
 
-瓦爾特PPQ設有三個保險裝置（扳機保險、內置式擊針保險和快速保險功能），其中裝在扳機之上並留有外露部份的[整合式扳機保險內部槓桿機構亦可以作為一個額外被動式](https://zh.wikipedia.org/wiki/槍械保險 "wikilink")「[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")」（）。\[21\]在手槍[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[拋殼口上方的開口具有](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，在[膛室內裝彈的時候會突出來](../Page/膛室.md "wikilink")。如果[膛室內裝彈的話](../Page/膛室.md "wikilink")，使用者可以通過該開口看到。\[22\]
+瓦爾特PPQ設有三個保險裝置（扳機保險、內置式擊針保險和快速保險功能），其中裝在扳機之上並留有外露部份的[整合式扳機保險內部槓桿機構亦可以作為一個額外被動式](https://zh.wikipedia.org/wiki/槍械保險 "wikilink")「[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")」（）。\[21\]在手槍[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[拋殼口上方的開口具有](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，在[膛室](../Page/膛室.md "wikilink")內裝彈的時候會突出來。如果[膛室](../Page/膛室.md "wikilink")內裝彈的話，使用者可以通過該開口看到。\[22\]
 
 ### 供彈方式
 
-瓦爾特PPQ是由[彈藥容量不同的左右交錯排列雙排式](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[彈匣供彈](../Page/彈匣.md "wikilink")。瓦爾特還提供具有+2底座的左右交錯排列雙排式彈匣，以手槍及握把高度增加約18毫米（0.71英寸）為代價，使彈匣容量增加2發。\[23\]瓦爾特亦向限制槍械彈匣容量10發的司法管轄區提供10發單排彈匣。這些彈匣是由[钢製成](../Page/钢.md "wikilink")，意大利分包商Mec-Gar公司為瓦爾特生產的，彈匣具有抗摩擦塗層以便裝填和抗腐蝕。彈匣上具有可視式檢查孔，使用者可透過檢查孔計算彈匣內的剩餘子彈量。鋼製彈簧推動上方的橙色聚合物製造的托彈板。標準左右交錯排列雙排式PPQ彈匣的重量為80克（2.82盎司）\[24\]這手槍亦裝有[空槍掛機](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")，在最後一發子彈已經發射之後，其彈匣托彈板會對[套筒鎖施加向上的壓力](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，讓其與[套筒鎖缺口嚙合](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，從而保持在“開放”的位置。\[25\]
+瓦爾特PPQ是由[彈藥容量不同的左右交錯排列雙排式](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[彈匣](../Page/彈匣.md "wikilink")供彈。瓦爾特還提供具有+2底座的左右交錯排列雙排式彈匣，以手槍及握把高度增加約18毫米（0.71英寸）為代價，使彈匣容量增加2發。\[23\]瓦爾特亦向限制槍械彈匣容量10發的司法管轄區提供10發單排彈匣。這些彈匣是由[钢](../Page/钢.md "wikilink")製成，意大利分包商Mec-Gar公司為瓦爾特生產的，彈匣具有抗摩擦塗層以便裝填和抗腐蝕。彈匣上具有可視式檢查孔，使用者可透過檢查孔計算彈匣內的剩餘子彈量。鋼製彈簧推動上方的橙色聚合物製造的托彈板。標準左右交錯排列雙排式PPQ彈匣的重量為80克（2.82盎司）\[24\]這手槍亦裝有[空槍掛機](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")，在最後一發子彈已經發射之後，其彈匣托彈板會對[套筒鎖施加向上的壓力](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，讓其與[套筒鎖缺口嚙合](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，從而保持在“開放”的位置。\[25\]
 
-空槍掛機桿（套筒釋放裝置）位於[底把左右兩側側](../Page/机匣.md "wikilink")、套筒的下方，射手的兩手的拇指可以靈活操作。當手槍的[膛室內已經上彈就可以發射](../Page/膛室.md "wikilink")，而不需要在武器以內插入彈匣才可使用。
+空槍掛機桿（套筒釋放裝置）位於[底把左右兩側側](../Page/机匣.md "wikilink")、套筒的下方，射手的兩手的拇指可以靈活操作。當手槍的[膛室](../Page/膛室.md "wikilink")內已經上彈就可以發射，而不需要在武器以內插入彈匣才可使用。
 
 所有非PPQ
 M2的衍生型按下與[扳機護圈底部融為一體並可靈活地操作的彈匣釋放桿就可把空彈匣釋放](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，\[26\]而PPQ
@@ -54,7 +53,7 @@ M2的衍生型則是通過按壓位於扳機護圈後方底部的一個可反向
 
 ### 瞄準具
 
-標準[機械瞄具是由](../Page/機械瞄具.md "wikilink")[钢或](../Page/钢.md "wikilink")[聚合物製成](../Page/聚合物.md "wikilink")，視乎出售手槍的所在國家或地區。[照門元件可以通過底座的燕尾槽以調整](https://zh.wikipedia.org/wiki/照門 "wikilink")[風偏](https://zh.wikipedia.org/wiki/風偏 "wikilink")，而[準星元件則可以通過更換準星以調整](../Page/照準器.md "wikilink")[海拔](../Page/海拔.md "wikilink")。在這方面瓦爾特提供4個不同高度的準星元件。標準瞄準具具有3個高對比度的點用以增強對比度，並塗上具有餘輝的塗料以幫助在不利的照明條件以下瞄準目標。\[27\]另外還可以使用其[氚瓶光點式夜間機械瞄具](../Page/氚.md "wikilink")。由於瓦爾特手槍線路的產品演化，瓦爾特PPQ保持與瓦爾特P99、[瓦爾特PPS瞄準具的兼容性](../Page/瓦爾特PPS手槍.md "wikilink")。[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的PPQ型號的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[瞄準基線為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")156[毫米](../Page/毫米.md "wikilink")（6.14[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")），而[.40
+標準[機械瞄具](../Page/機械瞄具.md "wikilink")是由[钢](../Page/钢.md "wikilink")或[聚合物](../Page/聚合物.md "wikilink")製成，視乎出售手槍的所在國家或地區。[照門元件可以通過底座的燕尾槽以調整](https://zh.wikipedia.org/wiki/照門 "wikilink")[風偏](https://zh.wikipedia.org/wiki/風偏 "wikilink")，而[準星元件則可以通過更換準星以調整](../Page/照準器.md "wikilink")[海拔](../Page/海拔.md "wikilink")。在這方面瓦爾特提供4個不同高度的準星元件。標準瞄準具具有3個高對比度的點用以增強對比度，並塗上具有餘輝的塗料以幫助在不利的照明條件以下瞄準目標。\[27\]另外還可以使用其[氚](../Page/氚.md "wikilink")瓶光點式夜間機械瞄具。由於瓦爾特手槍線路的產品演化，瓦爾特PPQ保持與瓦爾特P99、[瓦爾特PPS瞄準具的兼容性](../Page/瓦爾特PPS手槍.md "wikilink")。[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的PPQ型號的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[瞄準基線為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")156[毫米](../Page/毫米.md "wikilink")（6.14[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")），而[.40
 S\&W](../Page/.40_S&W.md "wikilink")[口徑的PPQ型號則為](https://zh.wikipedia.org/wiki/口徑 "wikilink")158[毫米](../Page/毫米.md "wikilink")（6.22[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）。
 
 ### 高膛壓彈藥
@@ -63,7 +62,7 @@ S\&W](../Page/.40_S&W.md "wikilink")[口徑的PPQ型號則為](https://zh.wikipe
 
 ### 附件
 
-原廠提供的配件包括：固定金屬三點式[機械瞄具](../Page/機械瞄具.md "wikilink")、固定[氚光夜間瞄具](../Page/氚.md "wikilink")、可調節運動型機械瞄具、可調節[光纖機械瞄具](../Page/光導纖維.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、彈匣底座手電筒轉接器、[槍套](https://zh.wikipedia.org/wiki/槍套 "wikilink")、[彈匣](../Page/彈匣.md "wikilink")、彈匣快速裝彈器、握把延長器、瞄準鏡長導軌座和消聲套件，包括一根118毫米（4.65英寸）槍管、保護槍口螺紋的保護蓋和一個IMPULS
+原廠提供的配件包括：固定金屬三點式[機械瞄具](../Page/機械瞄具.md "wikilink")、固定[氚](../Page/氚.md "wikilink")光夜間瞄具、可調節運動型機械瞄具、可調節[光纖機械瞄具](../Page/光導纖維.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、彈匣底座手電筒轉接器、[槍套](https://zh.wikipedia.org/wiki/槍套 "wikilink")、[彈匣](../Page/彈匣.md "wikilink")、彈匣快速裝彈器、握把延長器、瞄準鏡長導軌座和消聲套件，包括一根118毫米（4.65英寸）槍管、保護槍口螺紋的保護蓋和一個IMPULS
 II-A級產品線的[消聲器](../Page/抑制器.md "wikilink")，例如由瑞士公司生產的抑制器已經作為瓦爾特PPQ的原廠配件提供。\[29\]
 
 為記錄瓦爾特PPQ的具體數據，PPQ亦可以在手槍後方握把片上裝上一個[被動式RFID應答器系統](../Page/射频识别.md "wikilink")。\[30\]存儲的數據可以通過外部單位的電腦系統檢閱。
@@ -81,13 +80,13 @@ II-A級產品線的[消聲器](../Page/抑制器.md "wikilink")，例如由瑞�
 <!-- end list -->
 
   - **PPQ初版**（PPQ First Edition）
-    為PPQ在美國上市的一款衍生型。這些手槍會以在[套筒上軋輥出來的PPQ第一版字樣標明](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，並具有一根連槍口螺紋的118毫米（4.65英寸）特殊長槍管用以安裝[消聲器](../Page/抑制器.md "wikilink")，以及固定金屬三點式[氚光夜間瞄準具](../Page/氚.md "wikilink")。此外，這些手槍提供一個標準型左右交錯排列雙排式[彈匣](../Page/彈匣.md "wikilink")，和一個具有+2底座以增加2發彈匣容量的雙排式彈匣，以及使用具有[餘輝的油漆以增強](https://zh.wikipedia.org/wiki/餘輝 "wikilink")[對比度而非一般的插入氚光管的一組標準](https://zh.wikipedia.org/wiki/對比度 "wikilink")[聚合物瞄準具](../Page/聚合物.md "wikilink")。
+    為PPQ在美國上市的一款衍生型。這些手槍會以在[套筒上軋輥出來的PPQ第一版字樣標明](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，並具有一根連槍口螺紋的118毫米（4.65英寸）特殊長槍管用以安裝[消聲器](../Page/抑制器.md "wikilink")，以及固定金屬三點式[氚](../Page/氚.md "wikilink")光夜間瞄準具。此外，這些手槍提供一個標準型左右交錯排列雙排式[彈匣](../Page/彈匣.md "wikilink")，和一個具有+2底座以增加2發彈匣容量的雙排式彈匣，以及使用具有[餘輝的油漆以增強](https://zh.wikipedia.org/wiki/餘輝 "wikilink")[對比度而非一般的插入氚光管的一組標準](https://zh.wikipedia.org/wiki/對比度 "wikilink")[聚合物](../Page/聚合物.md "wikilink")瞄準具。
 
 ### M2系列
 
   - PPQ M2
 
-在[2013年1月位於](../Page/2013年1月.md "wikilink")[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上由新成立的瓦爾特武器公司推出的一款衍生型，具有與標準型PPQ相同的特徵，唯一例外地已被省略和取代的，是原來與[扳機護圈底部融為一體並可靈活地操作的彈匣釋放桿被位於扳機護圈後方底部的一個拇指釋放按鈕所取代](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。\[31\][彈匣釋放按鈕可以反向安裝](../Page/彈匣.md "wikilink")，讓左[利手使用者可以輕易使用](../Page/利手.md "wikilink")。此外，PPQ
+在[2013年1月](../Page/2013年1月.md "wikilink")位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上由新成立的瓦爾特武器公司推出的一款衍生型，具有與標準型PPQ相同的特徵，唯一例外地已被省略和取代的，是原來與[扳機護圈底部融為一體並可靈活地操作的彈匣釋放桿被位於扳機護圈後方底部的一個拇指釋放按鈕所取代](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。\[31\][彈匣](../Page/彈匣.md "wikilink")釋放按鈕可以反向安裝，讓左[利手](../Page/利手.md "wikilink")使用者可以輕易使用。此外，PPQ
 M2的彈匣與原來的PPQ彈匣並不兼容。
 
 PPQ M2的衍生型具有[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
@@ -138,12 +137,12 @@ S\&W這兩種口徑](../Page/.40_S&W.md "wikilink")，並具有常規PPQ槍管�
 
 [P99](../Page/瓦爾特P99手槍.md "wikilink")、PPQ可以客製化。[荷蘭警方測試過客製化PPQ](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")
 NL、P99 Q NL，最後定案採購P99 Q
-NL\[37\]。[中華民國使用的是PPQ](../Page/中華民國.md "wikilink")
+NL\[37\]。[中華民國](../Page/中華民國.md "wikilink")使用的是PPQ
 M2警用客製化版本，差異為採彈匣釋放桿、槍管，修改滑套設計\[38\]；滑套、膛線工法明顯來自PPQ 45技術。
 
 ## 使用國
 
-  - ：[內政部警政署採購PPQ](../Page/內政部警政署.md "wikilink") M2客製化版本，以取代使用多年的S\&W
+  - ：[內政部警政署](../Page/內政部警政署.md "wikilink")採購PPQ M2客製化版本，以取代使用多年的S\&W
     5904（行政警察用）、6904（刑警用）、3914（女警用）三款手槍，預計在五年內配發全國警察。\[39\]\[40\]\[41\]
 
 ## 流行文化
@@ -157,8 +156,8 @@ M2警用客製化版本，差異為採彈匣釋放桿、槍管，修改滑套設
   - 2013年—《[-{zh-cn:惊天危机; zh-hk:白宮末日;
     zh-tw:白宮末日;}-](../Page/惊天危机.md "wikilink")》（White
     House
-    Down）：型號為PPQ標準型，被前[三角洲部隊隊員兼](../Page/三角洲部隊.md "wikilink")[僱傭兵首領埃米爾](../Page/僱傭兵.md "wikilink")·斯坦茲（Emil
-    Stenz，[傑森·克拉克飾演](../Page/傑森·克拉克.md "wikilink")）作為所使用。
+    Down）：型號為PPQ標準型，被前[三角洲部隊](../Page/三角洲部隊.md "wikilink")隊員兼[僱傭兵](../Page/僱傭兵.md "wikilink")首領埃米爾·斯坦茲（Emil
+    Stenz，[傑森·克拉克](../Page/傑森·克拉克.md "wikilink")飾演）作為所使用。
 
 ## 參見
 

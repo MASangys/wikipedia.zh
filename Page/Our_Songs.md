@@ -1,5 +1,5 @@
 《**Our
-Songs**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!的第](../Page/Buono!.md "wikilink")10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年2月3日發售\[1\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+Songs**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年2月3日發售\[1\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,7 @@ Songs**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!
 1.  **Our Songs**
     （作詞：[三浦德子](../Page/三浦德子.md "wikilink")，作曲：[淳君](../Page/淳君.md "wikilink")，編曲：[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")）
       -
-        《[守護甜心！派對！](../Page/守護甜心！.md "wikilink")》片尾曲（2010年1月至2010年3月）
+        《[守護甜心！](../Page/守護甜心！.md "wikilink")派對！》片尾曲（2010年1月至2010年3月）
 2.  **MIRACLE HAPPY LOVE SONG**
     （作詞：C.Piece，作曲、編曲：AKIRASTAR）
 3.  Our Songs（Instrumental）

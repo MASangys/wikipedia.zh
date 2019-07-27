@@ -3,7 +3,7 @@
 
 ## 經歷
 
-Eminleo畢業於英國[倫敦大學的管理系](../Page/倫敦大學.md "wikilink")\[1\]，早於2009年已在YouTube上載片段，至今影片觀看數目已超過三千萬。他於2010年4月在影片中首次現身，曾被[壹週刊](https://zh.wikipedia.org/wiki/壹週刊 "wikilink")、[E-zone](../Page/E-zone.md "wikilink")、[黑紙等採訪及於](../Page/黑紙.md "wikilink")2010年接受過[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")[叱咤903節目](../Page/叱咤903.md "wikilink")[你睇我唔到訪問](https://zh.wikipedia.org/wiki/你睇我唔到 "wikilink")\[2\]。於2015年6月獲委任為第六屆[中國人民政治協商會議深圳市委員會委員](https://zh.wikipedia.org/wiki/中國人民政治協商會議深圳市委員會 "wikilink")。\[3\]\[4\]自此之後，便不再活躍。
+Eminleo畢業於英國[倫敦大學](../Page/倫敦大學.md "wikilink")的管理系\[1\]，早於2009年已在YouTube上載片段，至今影片觀看數目已超過三千萬。他於2010年4月在影片中首次現身，曾被[壹週刊](https://zh.wikipedia.org/wiki/壹週刊 "wikilink")、[E-zone](../Page/E-zone.md "wikilink")、[黑紙](../Page/黑紙.md "wikilink")等採訪及於2010年接受過[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")[叱咤903](../Page/叱咤903.md "wikilink")節目[你睇我唔到訪問](https://zh.wikipedia.org/wiki/你睇我唔到 "wikilink")\[2\]。於2015年6月獲委任為第六屆[中國人民政治協商會議深圳市委員會委員](https://zh.wikipedia.org/wiki/中國人民政治協商會議深圳市委員會 "wikilink")。\[3\]\[4\]自此之後，便不再活躍。
 
 ## 參與節目
 

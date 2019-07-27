@@ -1,10 +1,10 @@
-是一種由[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[自由和](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開源的編程语言](https://zh.wikipedia.org/wiki/開源 "wikilink")。它是[JavaScript的一個严格超集](../Page/JavaScript.md "wikilink")，並添加了可選的靜態型別和使用看起來像類別基礎的[物件導向編程語法操作](https://zh.wikipedia.org/wiki/物件導向編程 "wikilink")
-Prototype。[C\#的首席架构师以及](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Delphi和](../Page/Delphi.md "wikilink")[Turbo
-Pascal的创始人](../Page/Turbo_Pascal.md "wikilink")[安德斯·海尔斯伯格参与了TypeScript的开发](../Page/安德斯·海尔斯伯格.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
+是一種由[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[自由和](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開源的編程语言](https://zh.wikipedia.org/wiki/開源 "wikilink")。它是[JavaScript](../Page/JavaScript.md "wikilink")的一個严格超集，並添加了可選的靜態型別和使用看起來像類別基礎的[物件導向編程語法操作](https://zh.wikipedia.org/wiki/物件導向編程 "wikilink")
+Prototype。[C\#的首席架构师以及](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Delphi](../Page/Delphi.md "wikilink")和[Turbo
+Pascal的创始人](../Page/Turbo_Pascal.md "wikilink")[安德斯·海尔斯伯格](../Page/安德斯·海尔斯伯格.md "wikilink")参与了TypeScript的开发。\[1\]\[2\]\[3\]\[4\]
 
 TypeScript设计目标是开发大型應用，然后转译成JavaScript。\[5\]由于TypeScript是JavaScript的严格超集，任何現有的JavaScript程式都是合法的TypeScript程序。
 
-TypeScript支援為現存JavaScript函式庫添加類型資訊的定义文件，方便其他程序像使用静态类型的值一样使用现有库中的值。目前有第三方提供常用函式庫如[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")、[MongoDB](../Page/MongoDB.md "wikilink")、[Node.js和](../Page/Node.js.md "wikilink")[D3.js的定义文件](../Page/D3.js.md "wikilink")。
+TypeScript支援為現存JavaScript函式庫添加類型資訊的定义文件，方便其他程序像使用静态类型的值一样使用现有库中的值。目前有第三方提供常用函式庫如[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")、[MongoDB](../Page/MongoDB.md "wikilink")、[Node.js](../Page/Node.js.md "wikilink")和[D3.js](../Page/D3.js.md "wikilink")的定义文件。
 
 TypeScript编译器本身也是用TypeScript编写，并被[转译为JavaScript](../Page/源到源编译器.md "wikilink")，以[Apache
 License 2发布](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。
@@ -13,7 +13,7 @@ License 2发布](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。
 
 TypeScript起源于微软以及外部客户在开发大规模JavaScript应用的过程中遇到的语言本身的短板。\[6\]处理复杂JavaScript代码的挑战使得自定义工具在开发这门语言时很有必要。\[7\]
 
-很多依赖于JavaScript的开发者通常用最终编译为JavaScript代码的另一种语言编写脚本，例如[CoffeeScript和Script](../Page/CoffeeScript.md "wikilink")\#（读作ScriptSharp）。一个明显的劣势是也许无法在那另一种语言中使用任何JavaScript细节的语言特性，如果那种语言不支持。
+很多依赖于JavaScript的开发者通常用最终编译为JavaScript代码的另一种语言编写脚本，例如[CoffeeScript](../Page/CoffeeScript.md "wikilink")和Script\#（读作ScriptSharp）。一个明显的劣势是也许无法在那另一种语言中使用任何JavaScript细节的语言特性，如果那种语言不支持。
 
 ## 语言特性
 
@@ -60,7 +60,7 @@ function Add(left: number, right: number): number {
 
 当一个TypeScript脚本被编译时，有一个产生作为编译后的JavaScript的[组件的一个](https://zh.wikipedia.org/wiki/基于组件的软件工程 "wikilink")[接口而起作用的声明文件](../Page/介面_\(資訊科技\).md "wikilink")（具有扩展名.d.ts）的选项。在这个过程中编译器基本上带走所有的函数和方法体而仅保留所导出类型的批注。当第三方开发者从TypeScript中使用它时，由此产生的声明文件就可以被用于描述一个JavaScript库或模块导出的虚拟的TypeScript类型。
 
-声明文件的概念类似于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++中](../Page/C++.md "wikilink")[头文件的概念](../Page/头文件.md "wikilink")。
+声明文件的概念类似于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")中[头文件](../Page/头文件.md "wikilink")的概念。
 
 ``` javascript
    module Arithmetics {
@@ -108,7 +108,7 @@ class Person {
 
 #### 泛型
 
-这种语言的规范说明一个未来的版本将会支持基于[类型擦除的](../Page/类型擦除.md "wikilink")[泛型编程](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")。
+这种语言的规范说明一个未来的版本将会支持基于[类型擦除](../Page/类型擦除.md "wikilink")的[泛型编程](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")。
 
 ## 与JavaScript的兼容性
 
@@ -119,7 +119,7 @@ TypeScript是JavaScript的一个超集。默认情况下编译器以ECMAScript
 
 ## 支持的浏览器和平台
 
-运行于任何平台上的任何[网页浏览器都可以运行TypeScript](../Page/网页浏览器.md "wikilink")：由于它仅仅是被编译为标准的JavaScript，一个脚本既可以被预编译为JavaScript，也可以通过为TypeScript包含JavaScript编译器实时编译。
+运行于任何平台上的任何[网页浏览器](../Page/网页浏览器.md "wikilink")都可以运行TypeScript：由于它仅仅是被编译为标准的JavaScript，一个脚本既可以被预编译为JavaScript，也可以通过为TypeScript包含JavaScript编译器实时编译。
 
 ## 开发工具
 
@@ -144,7 +144,7 @@ ECMAScript 2015 标准的一部分，在这两个模式下都可以使用。
     和 [Visual Studio
     2015](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
     中内嵌了支持，也为[Sublime
-    Text](../Page/Sublime_Text.md "wikilink")、[Emacs和](../Page/Emacs.md "wikilink")[Vim提供了基本的文本编辑器支持](../Page/Vim.md "wikilink")。\[10\]
+    Text](../Page/Sublime_Text.md "wikilink")、[Emacs](../Page/Emacs.md "wikilink")和[Vim](../Page/Vim.md "wikilink")提供了基本的文本编辑器支持。\[10\]
 
 <!-- end list -->
 
@@ -190,14 +190,14 @@ ECMAScript 2015 标准的一部分，在这两个模式下都可以使用。
 
 ## 开源
 
-TypeScript是[开源的](../Page/开放源代码.md "wikilink")，其[源代码可以在](../Page/源代码.md "wikilink")[Apache
+TypeScript是[开源的](../Page/开放源代码.md "wikilink")，其[源代码](../Page/源代码.md "wikilink")可以在[Apache
 2
 License下从](../Page/Apache许可证.md "wikilink")[Github获得](https://zh.wikipedia.org/wiki/Github "wikilink")。这个项目由[Microsoft维护](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，但是任何人可以通过在Github项目页发送反馈、提出建议和提交bugfixes而做出贡献。\[13\]
 
 已有一些批评提到，TypeScript鼓励[强类型](https://zh.wikipedia.org/wiki/强类型 "wikilink")，当前只有[Microsoft
 Visual
 Studio支持在该语言上方便开发](../Page/Microsoft_Visual_Studio.md "wikilink")。最初的方案是在其它的编辑器上带来强类型，,
-[代码完成和](../Page/自动完成.md "wikilink")[代码重构的功能](../Page/代码重构.md "wikilink")，但这可能不是一个简单的任务。\[14\]此外，支持TypeScript开发的Visual
+[代码完成和](../Page/自动完成.md "wikilink")[代码重构](../Page/代码重构.md "wikilink")的功能，但这可能不是一个简单的任务。\[14\]此外，支持TypeScript开发的Visual
 Studio扩展不是开源的。最好的TypeScript开发体验是在[Microsoft
 Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，\[15\]然而随着时间的流逝以及这种语言的开放性，加之编译器自我托管，而且用TypeScript自身写的，这很有可能会改变。通过编译器的源代码访问到AST（抽象句法树）以及详细的语言规范文档，社群已开始构建一个跨平台的编辑器，\[16\]\[17\]利用和Visual
 Studio所用到的相同的语言服务以提供一个增强的编辑体验。编辑器仍然在概念检验的阶段，但已经运行于Linux,

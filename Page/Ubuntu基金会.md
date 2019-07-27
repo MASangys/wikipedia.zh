@@ -1,5 +1,5 @@
 **Ubuntu基金会**（**Ubuntu
-Foundation**）是一个由南非人[马克·沙特尔沃思和](../Page/马克·沙特尔沃思.md "wikilink")[Canonical有限公司创立的](https://zh.wikipedia.org/wiki/Canonical有限公司 "wikilink")基金会，以确保长期维护[Ubuntu](../Page/Ubuntu.md "wikilink")[Linux发行版的Canonical公司的商业活动](../Page/Linux发行版.md "wikilink")，它的初始资金承诺是1000万美元。\[1\]\[2\]
+Foundation**）是一个由南非人[马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")和[Canonical有限公司创立的](https://zh.wikipedia.org/wiki/Canonical有限公司 "wikilink")基金会，以确保长期维护[Ubuntu](../Page/Ubuntu.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")的Canonical公司的商业活动，它的初始资金承诺是1000万美元。\[1\]\[2\]
 
 目前的[顾问委员会是由](https://zh.wikipedia.org/wiki/顾问委员会 "wikilink")[会长马克](https://zh.wikipedia.org/wiki/会长 "wikilink")·沙特尔沃思，Canonical公司的创始人和Ubuntu社区委员会和Ubuntu的技术委员会的代表组成。\[3\]\[4\]
 

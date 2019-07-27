@@ -1,5 +1,5 @@
 **United Front
-Games**（縮寫為**UFG**）是一間位於[溫哥華的加拿大電子遊戲開發工作室](../Page/溫哥華.md "wikilink")，成立于2007年，在2016年关闭。他們為[PlayStation
+Games**（縮寫為**UFG**）是一間位於[溫哥華](../Page/溫哥華.md "wikilink")的加拿大電子遊戲開發工作室，成立于2007年，在2016年关闭。他們為[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360和](../Page/Xbox_360.md "wikilink")[Microsoft
 Windows平台開發遊戲](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。\[1\]他們開發了《[ModNation
@@ -65,7 +65,7 @@ Informer报道已经被关闭](../Page/Game_Informer.md "wikilink")，對此官�
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="../Page/香港秘密警察.md" title="wikilink">香港秘密警察：決定版</a></p></td>
+<td><p><a href="../Page/香港秘密警察.md" title="wikilink">香港秘密警察</a>：決定版</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -3,13 +3,13 @@
 埃舍爾](https://zh.wikipedia.org/wiki/埃舍爾 "wikilink")（M. C.
 Escher，又譯艾雪）在1960年7月完成的[木刻版畫](../Page/木刻版畫.md "wikilink")。是[艾雪一系列圓極限題作的四樣作品的其中之一](https://zh.wikipedia.org/wiki/埃舍爾 "wikilink")，表達了對於[龐加萊所描述的](https://zh.wikipedia.org/wiki/龐加萊 "wikilink")[雙曲空間的感受](https://zh.wikipedia.org/wiki/羅氏幾何 "wikilink")\[2\]。荷蘭[數學](https://zh.wikipedia.org/wiki/數學家 "wikilink")[物理](https://zh.wikipedia.org/wiki/物理學家 "wikilink")[學家布魯諾](https://zh.wikipedia.org/wiki/科學家 "wikilink")·恩斯特稱它是“最好的四個”\[3\]，其中圓極限IV被認為是埃舍爾最具有大師風範的作品之一\[4\]。
 
-該作品中包含了天使與蝙蝠\[5\]\[6\]，[天使代表了](../Page/天使.md "wikilink")[天堂](https://zh.wikipedia.org/wiki/天堂 "wikilink")，[蝙蝠象徵著](../Page/蝙蝠.md "wikilink")[惡魔](https://zh.wikipedia.org/wiki/惡魔 "wikilink")，代表[地獄](../Page/地獄.md "wikilink")，並以[八角化六階正方形鑲嵌的對稱性繪製重複無窮次於雙曲](../Page/八角化六階正方形鑲嵌.md "wikilink")[龐加萊圓盤模型上](https://zh.wikipedia.org/wiki/龐加萊圓盤模型 "wikilink")。
+該作品中包含了天使與蝙蝠\[5\]\[6\]，[天使](../Page/天使.md "wikilink")代表了[天堂](https://zh.wikipedia.org/wiki/天堂 "wikilink")，[蝙蝠](../Page/蝙蝠.md "wikilink")象徵著[惡魔](https://zh.wikipedia.org/wiki/惡魔 "wikilink")，代表[地獄](../Page/地獄.md "wikilink")，並以[八角化六階正方形鑲嵌](../Page/八角化六階正方形鑲嵌.md "wikilink")的對稱性繪製重複無窮次於雙曲[龐加萊圓盤模型上](https://zh.wikipedia.org/wiki/龐加萊圓盤模型 "wikilink")。
 
 圓極限IV為[艾雪圓極限系列的最後一件作品](https://zh.wikipedia.org/wiki/埃舍爾 "wikilink")。
 
 ## 設計
 
-其作品為黑色和褐色，直徑為41.6公分，天使和蝙蝠充滿了整個鑲嵌佈局平面。天使和蝙蝠的的位置是经过精心设计计算的\[7\]，不只能位於[八角化六階正方形鑲嵌的頂點上](../Page/八角化六階正方形鑲嵌.md "wikilink")\[8\]，也能是[六階正方形鑲嵌或](../Page/六階正方形鑲嵌.md "wikilink")[四階六邊形鑲嵌](../Page/四階六邊形鑲嵌.md "wikilink")，其屬於
+其作品為黑色和褐色，直徑為41.6公分，天使和蝙蝠充滿了整個鑲嵌佈局平面。天使和蝙蝠的的位置是经过精心设计计算的\[7\]，不只能位於[八角化六階正方形鑲嵌](../Page/八角化六階正方形鑲嵌.md "wikilink")的頂點上\[8\]，也能是[六階正方形鑲嵌](../Page/六階正方形鑲嵌.md "wikilink")或[四階六邊形鑲嵌](../Page/四階六邊形鑲嵌.md "wikilink")，其屬於
 (6,4,2) 三角群\[9\]\[10\]，並具有 \[4<sup>+</sup>,6\]
 的[對稱性](https://zh.wikipedia.org/wiki/對稱性 "wikilink")\[11\]。
 

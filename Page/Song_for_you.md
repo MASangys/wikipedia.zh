@@ -1,5 +1,5 @@
 《**song for
-you**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2002年4月17日於日本發行。
+you**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2002年4月17日於日本發行。
 
 ## 解説
 
@@ -10,7 +10,7 @@ you**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE的第](https
     Somebody的TAKE参加和聲部份](https://zh.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")。也有去vocal部份編業。
   - 原創CD初回出版盤的歌詞卡一部份英語記載有錯誤。
   - 在[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（PV）中，[TBS系](https://zh.wikipedia.org/wiki/TBS系 "wikilink")《[校園瘋神榜](https://zh.wikipedia.org/wiki/校園瘋神榜 "wikilink")》（）的B-RAP高中搏得受歡迎、[軟式globe的](https://zh.wikipedia.org/wiki/軟式globe "wikilink")（[三箇一稔](https://zh.wikipedia.org/wiki/三箇一稔 "wikilink")）有參與演出。
-  - 2004年、台灣的男子組合[5566的專輯中以中文翻唱](../Page/5566.md "wikilink")《For You》。
+  - 2004年、台灣的男子組合[5566](../Page/5566.md "wikilink")的專輯中以中文翻唱《For You》。
   - [Boyz II
     Men也有翻唱過](https://zh.wikipedia.org/wiki/Boyz_II_Men "wikilink")。
   - 於日本2008年12月3日發售的專輯《[EXILE BALLAD

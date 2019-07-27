@@ -2,7 +2,7 @@
 
 ## 故事內容
 
-強尼（[劉青雲飾](../Page/劉青雲.md "wikilink")）、Wayne（[古天樂飾](../Page/古天樂.md "wikilink")）及Lena（[梁詠琪飾](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")）在開發「絕世好Bra」大受好評後，另外再開發一套名為「絕世好B」的嬰兒產品。
+強尼（[劉青雲](../Page/劉青雲.md "wikilink")飾）、Wayne（[古天樂](../Page/古天樂.md "wikilink")飾）及Lena（[梁詠琪飾](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")）在開發「絕世好Bra」大受好評後，另外再開發一套名為「絕世好B」的嬰兒產品。
 
 ## 人物角色
 

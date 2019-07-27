@@ -1,5 +1,5 @@
 《**浪漫滿屋 TAKE
-2**》（，）是一部中韓日三國聯合製作的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。與2004年[宋慧喬和](../Page/宋慧喬.md "wikilink")[Rain主演的](../Page/Rain.md "wikilink")《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》一樣是以契約婚姻為主軸，所製作的第二版電視劇，由日本[TBS在](../Page/TBS.md "wikilink")2012年10月5日率先播出，其後自2012年10月22日起週一至週四中午12:30於韓國有線台SBS
+2**》（，）是一部中韓日三國聯合製作的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。與2004年[宋慧喬](../Page/宋慧喬.md "wikilink")和[Rain](../Page/Rain.md "wikilink")主演的《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》一樣是以契約婚姻為主軸，所製作的第二版電視劇，由日本[TBS](../Page/TBS.md "wikilink")在2012年10月5日率先播出，其後自2012年10月22日起週一至週四中午12:30於韓國有線台SBS
 Plus播出。
 
 ## 劇情
@@ -72,7 +72,7 @@ Plus播出。
 
 ## 其他搭配歌曲
 
-  - 台灣[緯來戲劇台版本](../Page/緯來戲劇台.md "wikilink")
+  - 台灣[緯來戲劇台](../Page/緯來戲劇台.md "wikilink")版本
       - 片頭曲：[胡夏](https://zh.wikipedia.org/wiki/胡夏 "wikilink")《愛情離我一公尺》
       - 片尾曲：[陶喆](../Page/陶喆.md "wikilink")、[關詩敏](../Page/關詩敏.md "wikilink")《好好說再見》
 

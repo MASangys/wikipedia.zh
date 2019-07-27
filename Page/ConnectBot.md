@@ -1,5 +1,5 @@
-**ConnectBot**是一个[Android](../Page/Android.md "wikilink")[操作系统上的](../Page/操作系统.md "wikilink")[开源](../Page/开放源代码.md "wikilink")[Secure
-Shell客户端](../Page/Secure_Shell.md "wikilink")。它可以让用户安全地远程连接到运行着SSH[守护程序的](../Page/守护进程.md "wikilink")[服务器中](../Page/服务器.md "wikilink")。用户可以从Andr​​oid设备输入命令，并在远程服务器上执行，而不是本地Android设备。SSH2的标准加密可以使任何命令和数据在传送中不被窃听。
+**ConnectBot**是一个[Android](../Page/Android.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的[开源](../Page/开放源代码.md "wikilink")[Secure
+Shell客户端](../Page/Secure_Shell.md "wikilink")。它可以让用户安全地远程连接到运行着SSH[守护程序的](../Page/守护进程.md "wikilink")[服务器](../Page/服务器.md "wikilink")中。用户可以从Andr​​oid设备输入命令，并在远程服务器上执行，而不是本地Android设备。SSH2的标准加密可以使任何命令和数据在传送中不被窃听。
 
 ## 功能
 

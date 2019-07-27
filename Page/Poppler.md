@@ -8,7 +8,7 @@
 项目发起者 Kristian Høgsberg 有两个目标：\[2\]
 
 1.  以一个程序库的方式提供PDF渲染功能，集中维护力量。
-2.  超过[Xpdf的目标](../Page/Xpdf.md "wikilink")，并与现代操作系统所提供的功能结合。
+2.  超过[Xpdf](../Page/Xpdf.md "wikilink")的目标，并与现代操作系统所提供的功能结合。
 
 到了2011年0.18版释出，Poppler库完整实现了PDF格式标准 ，还是第一个支持表单和注释的主流的自由 PDF 程序库。\[3\]
 
@@ -83,7 +83,7 @@ Problem with Popplers”一集。\[6\]
 
 ## 特性
 
-Poppler可以使用[Cairo和Splash两个后端绘制PDF文档](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")，而它的特性又取决于所使用的后端。一个基于[Qt4绘制框架的第三方后端](../Page/Qt.md "wikilink")“Arthur”也是可用的，但是并不完整，而且已不再是活跃开发状态了。\[8\]
+Poppler可以使用[Cairo和Splash两个后端绘制PDF文档](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")，而它的特性又取决于所使用的后端。一个基于[Qt](../Page/Qt.md "wikilink")4绘制框架的第三方后端“Arthur”也是可用的，但是并不完整，而且已不再是活跃开发状态了。\[8\]
 [Glib](https://zh.wikipedia.org/wiki/Glib "wikilink")，Qt3和Qt4的绑定提供了对Poppler后端的交互界面。尽管Qt3和Qt4绑定仅仅支持Splash后端，有一组可用的补丁支持使用Cairo后端的Qt4绑定。\[9\]然而，Poppler
 项目现在依然不希望将这个特性添加到 Poppler 库中。\[10\]
 
@@ -92,7 +92,7 @@ Poppler可以使用[Cairo和Splash两个后端绘制PDF文档](https://zh.wikipe
   - Cairo:矢量图形反锯齿，以及透明物件渲染。\[11\]
       - Cairo并不对诸如扫描文档的位图进行平滑处理。
       - Cairo并不依赖于[X
-        Window环境](https://zh.wikipedia.org/wiki/X_Window "wikilink")，因此Poppler得以像[Wayland一样在不同平台如](../Page/Wayland.md "wikilink")[Windows或](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
+        Window环境](https://zh.wikipedia.org/wiki/X_Window "wikilink")，因此Poppler得以像[Wayland](../Page/Wayland.md "wikilink")一样在不同平台如[Windows或](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
         OS上运行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。
 
 <!-- end list -->

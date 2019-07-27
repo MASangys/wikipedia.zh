@@ -1,16 +1,16 @@
 「**超HAPPY
-SONG**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[Berryz工房和](../Page/Berryz工房.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")2張合作[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年6月20日由[PICCOLO
+SONG**」是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")和[℃-ute](../Page/℃-ute.md "wikilink")的第2張合作[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年6月20日由[PICCOLO
 TOWN和](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")[zetima發售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「超HAPPY
-    SONG」是[Berryz工房和](../Page/Berryz工房.md "wikilink")[℃-ute的合作單曲](../Page/℃-ute.md "wikilink")。
-  - 「超HAPPY SONG」是[日本電視台節目](../Page/日本電視台.md "wikilink")「Happy
+    SONG」是[Berryz工房](../Page/Berryz工房.md "wikilink")和[℃-ute](../Page/℃-ute.md "wikilink")的合作單曲。
+  - 「超HAPPY SONG」是[日本電視台](../Page/日本電視台.md "wikilink")節目「Happy
     Music」六月份的主題曲。
   - 「超HAPPY
-    SONG」是由[Berryz工房的第](../Page/Berryz工房.md "wikilink")7枚原創專輯「[愛的專輯⑧](../Page/愛的專輯⑧.md "wikilink")」收錄曲「Because
-    happiness」與[℃-ute的第](../Page/℃-ute.md "wikilink")6枚原創專輯『[第七章「太美了真抱歉」](../Page/第七章「太美了真抱歉」.md "wikilink")』收錄曲「幸福的中途」結合成的歌曲。
+    SONG」是由[Berryz工房](../Page/Berryz工房.md "wikilink")的第7枚原創專輯「[愛的專輯⑧](../Page/愛的專輯⑧.md "wikilink")」收錄曲「Because
+    happiness」與[℃-ute](../Page/℃-ute.md "wikilink")的第6枚原創專輯『[第七章「太美了真抱歉」](../Page/第七章「太美了真抱歉」.md "wikilink")』收錄曲「幸福的中途」結合成的歌曲。
   - 此單曲有5個版本，分別有「初回生産限定盤A - D」和「CD ONLY」。「初回生産限定盤A」收錄了「超HAPPY SONG（Mix
     Ver.）」，「初回生産限定盤B」收錄了「超HAPPY SONG（Double Screen Live
     Ver.）」；「初回生産限定盤C」為「Berryz工房版本」，收錄了歌曲「幸福的中途（Berryz工房
@@ -37,12 +37,12 @@ TOWN和](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")[zetima發售](ht
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）
       -
-        [Berryz工房第](../Page/Berryz工房.md "wikilink")7枚原創專輯「[愛的專輯⑧](../Page/愛的專輯⑧.md "wikilink")」收錄曲
+        [Berryz工房](../Page/Berryz工房.md "wikilink")第7枚原創專輯「[愛的專輯⑧](../Page/愛的專輯⑧.md "wikilink")」收錄曲
 4.  **幸福的中途**（幸せの途中）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）
       -
-        [℃-ute第](../Page/℃-ute.md "wikilink")6枚原創專輯『[第七章「太美了真抱歉」](../Page/第七章「太美了真抱歉」.md "wikilink")』收錄曲
+        [℃-ute](../Page/℃-ute.md "wikilink")第6枚原創專輯『[第七章「太美了真抱歉」](../Page/第七章「太美了真抱歉」.md "wikilink")』收錄曲
 5.  超HAPPY SONG（Single Ver.）（Instrumental）
 6.  Because happiness（Single Ver. Berryz工房 vo.含入）（Instrumental）
 7.  幸福的中途（Single Ver. ℃-ute vo.含入）（Instrumental）
@@ -54,7 +54,7 @@ TOWN和](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")[zetima發售](ht
 3.  **Because happiness**
 4.  **幸福的中途**（Berryz工房 Ver.）
       -
-        [Berryz工房主唱](../Page/Berryz工房.md "wikilink")
+        [Berryz工房](../Page/Berryz工房.md "wikilink")主唱
 5.  超HAPPY SONG（Single Ver.）（Instrumental）
 6.  Because happiness（Single Ver. Berryz工房 vo.含入）（Instrumental）
 7.  幸福的中途（Single Ver. ℃-ute vo.含入）（Instrumental）
@@ -66,7 +66,7 @@ TOWN和](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")[zetima發售](ht
 3.  **幸福的中途**
 4.  **Because happiness**（℃-ute Ver.）
       -
-        [℃-ute主唱](../Page/℃-ute.md "wikilink")
+        [℃-ute](../Page/℃-ute.md "wikilink")主唱
 5.  超HAPPY SONG（Single Ver.）（Instrumental）
 6.  幸福的中途（Single Ver. Berryz工房 vo.含入）（Instrumental）
 7.  Because happiness（Single Ver. ℃-ute vo.含入）（Instrumental）

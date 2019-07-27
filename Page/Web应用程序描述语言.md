@@ -2,7 +2,7 @@
 WADL描述了Web服务提供的资源及他们的联系。
 WADL试图简化重用基于HTTP架构的Web服务。它是一个平台，且与语言无关，并试图推动除Web浏览器的基本使用外的应用重用。
 
-WADL于2009年8月31日由[昇陽電腦提交至](../Page/昇陽電腦.md "wikilink")[万维网联盟](../Page/万维网联盟.md "wikilink")，但联盟目前没有标准化它的计划并且它并没有被广泛地支持。WADL依照描述基于[SOAP的RPC式服务的XML词汇](https://zh.wikipedia.org/wiki/SOAP "wikilink")[WSDL定义](../Page/WSDL.md "wikilink")，用于描述REST服务，而WSDL也可用于描述RESTWeb服务。
+WADL于2009年8月31日由[昇陽電腦](../Page/昇陽電腦.md "wikilink")提交至[万维网联盟](../Page/万维网联盟.md "wikilink")，但联盟目前没有标准化它的计划并且它并没有被广泛地支持。WADL依照描述基于[SOAP的RPC式服务的XML词汇](https://zh.wikipedia.org/wiki/SOAP "wikilink")[WSDL](../Page/WSDL.md "wikilink")定义，用于描述REST服务，而WSDL也可用于描述RESTWeb服务。
 
 ## 格式
 

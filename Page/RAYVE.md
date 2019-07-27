@@ -3,7 +3,7 @@ ROBE發售](https://zh.wikipedia.org/wiki/RONDO_ROBE "wikilink")。\[1\]。
 
 ## 概要
 
-這是2012年出道的Ray第一張專輯。除了一如既往由[I've擔任製作人外](../Page/I've.md "wikilink")，同是I've所屬的歌手[川田真美及前成員之一](../Page/川田真美.md "wikilink")[KOTOKO參與填詞](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")。Ray在這個專輯也首次嘗試作詞。
+這是2012年出道的Ray第一張專輯。除了一如既往由[I've](../Page/I've.md "wikilink")擔任製作人外，同是I've所屬的歌手[川田真美](../Page/川田真美.md "wikilink")及前成員之一[KOTOKO參與填詞](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")。Ray在這個專輯也首次嘗試作詞。
 
 初回限定盤封入的DVD收錄了「As for me」PV、PV製作花絮、特別焦點(Special
 Spot)及「sign」「告白」「楽園PROJECT」「Recall」的跳舞版。

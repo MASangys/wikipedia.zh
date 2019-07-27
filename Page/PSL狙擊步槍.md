@@ -8,8 +8,8 @@ PSL是因應[羅馬尼亞軍隊的需求而在](https://zh.wikipedia.org/wiki/�
 
 ## 設計
 
-PSL為一種[長行程導氣式活塞和](https://zh.wikipedia.org/wiki/氣動式 "wikilink")[轉拴式槍機運作的](https://zh.wikipedia.org/wiki/轉拴式槍機 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，[機匣以鋼板沖壓而成](https://zh.wikipedia.org/wiki/機匣 "wikilink")，和均為[AK樣式](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")，[彈匣容量為](../Page/彈匣.md "wikilink")10發。該槍的機匣左側附有導軌可供用戶裝上各種瞄準鏡。PSL的標準瞄準鏡為LPS
-4x6° TIP2，此為蘇制[PSO-1光學瞄準鏡的仿制品](../Page/PSO-1光學瞄準鏡.md "wikilink")。
+PSL為一種[長行程導氣式活塞和](https://zh.wikipedia.org/wiki/氣動式 "wikilink")[轉拴式槍機運作的](https://zh.wikipedia.org/wiki/轉拴式槍機 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，[機匣以鋼板沖壓而成](https://zh.wikipedia.org/wiki/機匣 "wikilink")，和均為[AK樣式](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")，[彈匣](../Page/彈匣.md "wikilink")容量為10發。該槍的機匣左側附有導軌可供用戶裝上各種瞄準鏡。PSL的標準瞄準鏡為LPS
+4x6° TIP2，此為蘇制[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")的仿制品。
 
 儘管外型與SVD相似，PSL的內部結構卻是以[AKM及](../Page/AKM突擊步槍.md "wikilink")[RPK作藍本](../Page/RPK輕機槍.md "wikilink")，並把機匣及槍機拉長，以對應比[7.62×39毫米更長和更大的](../Page/7.62×39mm.md "wikilink")[7.62×54毫米槍彈](../Page/7.62×54mmR.md "wikilink")。
 

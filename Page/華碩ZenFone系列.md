@@ -1,4 +1,4 @@
-**ZenFone**是[華碩旗下的](../Page/華碩.md "wikilink")[智慧型手機系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，於2014年5月首次推出。
+**ZenFone**是[華碩](../Page/華碩.md "wikilink")旗下的[智慧型手機系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，於2014年5月首次推出。
 
 ## 旗下系列產品
 

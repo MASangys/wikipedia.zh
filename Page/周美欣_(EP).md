@@ -1,4 +1,4 @@
-《**周美欣Lori**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周美欣的第一張個人唱片](../Page/周美欣.md "wikilink")，於2013年11月1日推出。
+《**周美欣Lori**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周美欣](../Page/周美欣.md "wikilink")的第一張個人唱片，於2013年11月1日推出。
 
 ## 曲目資料
 

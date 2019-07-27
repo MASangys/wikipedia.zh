@@ -1,26 +1,26 @@
 **圖波列夫SB轟炸機**，設計代號**TsAGI-40**、社內代號**ANT-40**，SB為俄文的**快速轟炸機**（ -
 *Skorostnoi Bombardirovschik*
-），汉语译音读作“**斯勃**”。為蘇聯[圖波列夫設計局設計之單翼雙引擎三座](https://zh.wikipedia.org/wiki/圖波列夫設計局 "wikilink")[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，問世時其前衛的設計概念震撼國際，也是[蘇聯空軍在](../Page/蘇聯空軍.md "wikilink")1941年6月開戰時最主要的對地攻擊機種。
+），汉语译音读作“**斯勃**”。為蘇聯[圖波列夫設計局設計之單翼雙引擎三座](https://zh.wikipedia.org/wiki/圖波列夫設計局 "wikilink")[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，問世時其前衛的設計概念震撼國際，也是[蘇聯空軍](../Page/蘇聯空軍.md "wikilink")在1941年6月開戰時最主要的對地攻擊機種。
 
 ## 研發簡史
 
 [Tupolev_SB_2M-100A_3.jpg](https://zh.wikipedia.org/wiki/File:Tupolev_SB_2M-100A_3.jpg "fig:Tupolev_SB_2M-100A_3.jpg")
 [Tupolev_SB_(Finnish).jpg](https://zh.wikipedia.org/wiki/File:Tupolev_SB_\(Finnish\).jpg "fig:Tupolev_SB_(Finnish).jpg")
 
-1933年，蘇聯空軍頒布了新式快速轟炸機技術需求規格大綱；為了研發出必要技術，1934年1月由領軍研製必要的氣動力外型，至於機體則由圖波列夫設計局研發，主設計小組由[安德烈·图波列夫的學生](../Page/安德烈·图波列夫.md "wikilink")擔當。阿爾漢格爾斯基提出了兩種機型方案，稱為ANT-40
+1933年，蘇聯空軍頒布了新式快速轟炸機技術需求規格大綱；為了研發出必要技術，1934年1月由領軍研製必要的氣動力外型，至於機體則由圖波列夫設計局研發，主設計小組由[安德烈·图波列夫](../Page/安德烈·图波列夫.md "wikilink")的學生擔當。阿爾漢格爾斯基提出了兩種機型方案，稱為ANT-40
 RTS、ANT-40 IS。ANT-40
 RTS運用的動力為美國萊特公司授權的氣冷式9汽缸旋風發動機（R-1820蘇聯版-什韋佐夫M-25發動機），ANT-40
 IS則運用自法国授權的希斯潘諾-蘇莎12Y液冷12汽缸發動機，後來這兩種設計原型機更名為ANT40.1、ANT-40.2。ANT40.1在1934年10月7日首飛，ANT-40.2則在1934年12月30日首飛，而使用較大面積主翼的ANT-40.2甫試飛便展現出其優秀性能，當時被認為應該是量產定案的機型。
 
 然而，掌管重工業的蘇聯中央委員[格里高利·康斯坦丁諾維奇·奧爾忠尼啟則勘查時](https://zh.wikipedia.org/wiki/格里高利·康斯坦丁諾維奇·奧爾忠尼啟則 "wikilink")，現場人員向他控訴ANT-40.2在設計與後勤上的缺點；待他回到[克里姆林宮和史達林報告時](https://zh.wikipedia.org/wiki/克里姆林宮 "wikilink")，同時與會討論的圖波列夫雖辯稱這些缺點只是微不足道的問題，但史達林直接批示：
 
-因為如此，雖然ANT-40.2在1935年初就已經表現出優異性能，但通過相關測試已經是1935年末，投入量產則為1936年初；ANT-40.2量產時該機更名為快速轟炸機，由2座工廠製造，一間於[莫斯科的第](../Page/莫斯科.md "wikilink")22國營飛機工廠、另一間則於[伊爾庫次克之](https://zh.wikipedia.org/wiki/伊爾庫次克 "wikilink")125工廠，SB轟炸機直到1941年才停產。
+因為如此，雖然ANT-40.2在1935年初就已經表現出優異性能，但通過相關測試已經是1935年末，投入量產則為1936年初；ANT-40.2量產時該機更名為快速轟炸機，由2座工廠製造，一間於[莫斯科](../Page/莫斯科.md "wikilink")的第22國營飛機工廠、另一間則於[伊爾庫次克之](https://zh.wikipedia.org/wiki/伊爾庫次克 "wikilink")125工廠，SB轟炸機直到1941年才停產。
 
 SB2是苏联第一种全金属机身、硬铝蒙皮整体受力承载结构的飞机。时速为420公里，后来改进型的SB3时速450公里。而当时的战斗机时速不超过400公里。航程为980公里，载弹量为600公斤。关键部位安装装甲板，装备4挺7.62毫米自卫机枪
 
 除了蘇聯國內，1937年蘇聯政府與[捷克斯洛伐克政府談判](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")，捷克斯洛伐克以之技術交換SB-2
 M-100A的特許生產授權與少量實機，該機稱為**Avia
-B-71**；但是捷克斯洛伐克的機型使用的動力來源並非克里莫夫M-100A發動機，而是由西班牙原廠授權公司製造的希斯潘諾-蘇莎12Ydrs發動機，機首自衛火器也由雙連裝[ShKAS機槍調整為捷克國產的單挺](../Page/ShKAS機槍.md "wikilink")。
+B-71**；但是捷克斯洛伐克的機型使用的動力來源並非克里莫夫M-100A發動機，而是由西班牙原廠授權公司製造的希斯潘諾-蘇莎12Ydrs發動機，機首自衛火器也由雙連裝[ShKAS機槍](../Page/ShKAS機槍.md "wikilink")調整為捷克國產的單挺。
 
 ## 實戰
 
@@ -42,15 +42,15 @@ B-71**；但是捷克斯洛伐克的機型使用的動力來源並非克里莫�
 ### 抗日戰爭
 
 [Soviet_Aviators_in_China.jpg](https://zh.wikipedia.org/wiki/File:Soviet_Aviators_in_China.jpg "fig:Soviet_Aviators_in_China.jpg")
-1937年8月21日，[國民政府和](../Page/國民政府.md "wikilink")[蘇聯締結了](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")《[中蘇互不侵犯條約](https://zh.wikipedia.org/wiki/中蘇互不侵犯條約 "wikilink")》，與該條約同時締結的還有以國內金屬原料抵購的軍火貿易協定及[蘇聯航空志願隊来华助战](https://zh.wikipedia.org/wiki/蘇聯航空志願隊 "wikilink")。第一批次採購了62架SB-2M-100轟炸機，由中蘇兩方共同操作。首批援華轟炸機在1937年10月飛赴中國加入作戰。1937年12月，[国民革命军空军第一大隊](../Page/中華民國空軍.md "wikilink")（1936年11月1日成立，李学炎、王育根为首任正副大队长，装备[诺斯罗普-伽玛2E轻型轰炸机](../Page/A-16攻擊機.md "wikilink")2个中队共18架），赴蘭州接收SB-2轟炸機，開始國軍運用SB轟炸機之始。
+1937年8月21日，[國民政府](../Page/國民政府.md "wikilink")和[蘇聯締結了](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")《[中蘇互不侵犯條約](https://zh.wikipedia.org/wiki/中蘇互不侵犯條約 "wikilink")》，與該條約同時締結的還有以國內金屬原料抵購的軍火貿易協定及[蘇聯航空志願隊来华助战](https://zh.wikipedia.org/wiki/蘇聯航空志願隊 "wikilink")。第一批次採購了62架SB-2M-100轟炸機，由中蘇兩方共同操作。首批援華轟炸機在1937年10月飛赴中國加入作戰。1937年12月，[国民革命军空军第一大隊](../Page/中華民國空軍.md "wikilink")（1936年11月1日成立，李学炎、王育根为首任正副大队长，装备[诺斯罗普-伽玛2E轻型轰炸机](../Page/A-16攻擊機.md "wikilink")2个中队共18架），赴蘭州接收SB-2轟炸機，開始國軍運用SB轟炸機之始。
 
-空军一大隊換裝後，1938年起与[蘇聯航空志願隊一起出擊](https://zh.wikipedia.org/wiki/蘇聯航空志願隊 "wikilink")[蕪湖](https://zh.wikipedia.org/wiki/蕪湖 "wikilink")、[杭州和](https://zh.wikipedia.org/wiki/杭州 "wikilink")[蚌埠等地的日軍目標](https://zh.wikipedia.org/wiki/蚌埠 "wikilink")。1938年2月23日，為紀念蘇聯「[祖國保衛者日](https://zh.wikipedia.org/wiki/祖國保衛者日 "wikilink")」（即苏联红军节），中蘇空軍的SB-2轟炸機原計畫一同轟炸日本海军在台灣的據點[松山機場](https://zh.wikipedia.org/wiki/松山機場 "wikilink")。其中苏联志愿航空队的28架SB-2轰炸机由波利宁大尉领队从[汉口起飞](../Page/汉口.md "wikilink")，以5500米高度直线节油飞行，[成功轰炸了停在台北松山机场的40余架日机](https://zh.wikipedia.org/wiki/松山空袭 "wikilink")，該批機隊全部安全返航；一大队自[南昌起飞的](https://zh.wikipedia.org/wiki/南昌 "wikilink")12架SB轰炸机，則因领航员计算错误，偏离预定航向，最后在[福州机场降落加油后返航](https://zh.wikipedia.org/wiki/福州 "wikilink")。[徐州會戰期間](https://zh.wikipedia.org/wiki/徐州會戰 "wikilink")，SB-2轟炸機隊沿長江和津浦等地轟炸敵軍和敵艦。1938年初，第二批次中苏軍火貿易換約，國府增購約60架SB-2M-100A，該批轟炸機除補充一大隊与[蘇聯航空志願隊耗損](https://zh.wikipedia.org/wiki/蘇聯航空志願隊 "wikilink")，也供空军第二大隊換裝。1938年6月二大隊完成換裝，其餘殘機約20餘架。1938年11月各大隊赴[蘭州補充](https://zh.wikipedia.org/wiki/蘭州 "wikilink")。
+空军一大隊換裝後，1938年起与[蘇聯航空志願隊一起出擊](https://zh.wikipedia.org/wiki/蘇聯航空志願隊 "wikilink")[蕪湖](https://zh.wikipedia.org/wiki/蕪湖 "wikilink")、[杭州和](https://zh.wikipedia.org/wiki/杭州 "wikilink")[蚌埠等地的日軍目標](https://zh.wikipedia.org/wiki/蚌埠 "wikilink")。1938年2月23日，為紀念蘇聯「[祖國保衛者日](https://zh.wikipedia.org/wiki/祖國保衛者日 "wikilink")」（即苏联红军节），中蘇空軍的SB-2轟炸機原計畫一同轟炸日本海军在台灣的據點[松山機場](https://zh.wikipedia.org/wiki/松山機場 "wikilink")。其中苏联志愿航空队的28架SB-2轰炸机由波利宁大尉领队从[汉口](../Page/汉口.md "wikilink")起飞，以5500米高度直线节油飞行，[成功轰炸了停在台北松山机场的40余架日机](https://zh.wikipedia.org/wiki/松山空袭 "wikilink")，該批機隊全部安全返航；一大队自[南昌起飞的](https://zh.wikipedia.org/wiki/南昌 "wikilink")12架SB轰炸机，則因领航员计算错误，偏离预定航向，最后在[福州机场降落加油后返航](https://zh.wikipedia.org/wiki/福州 "wikilink")。[徐州會戰期間](https://zh.wikipedia.org/wiki/徐州會戰 "wikilink")，SB-2轟炸機隊沿長江和津浦等地轟炸敵軍和敵艦。1938年初，第二批次中苏軍火貿易換約，國府增購約60架SB-2M-100A，該批轟炸機除補充一大隊与[蘇聯航空志願隊耗損](https://zh.wikipedia.org/wiki/蘇聯航空志願隊 "wikilink")，也供空军第二大隊換裝。1938年6月二大隊完成換裝，其餘殘機約20餘架。1938年11月各大隊赴[蘭州補充](https://zh.wikipedia.org/wiki/蘭州 "wikilink")。
 
 1939年4月轟炸山西的鐵路和[運城機場](https://zh.wikipedia.org/wiki/運城 "wikilink")，5月再炸[南昌和](https://zh.wikipedia.org/wiki/南昌 "wikilink")[奉新之敵](https://zh.wikipedia.org/wiki/奉新 "wikilink")，7月開始又去蘭州接收新機。1939年10月3日日軍轟炸機襲擊[宜賓機場](https://zh.wikipedia.org/wiki/宜賓 "wikilink")，機場駐紮的SB-2轟炸機緊急起飛疏散，返航時因天候問題肇致3架SB-2迫降墜毀，二大隊9中隊隊長[梅元白上尉等](https://zh.wikipedia.org/wiki/梅元白 "wikilink")8位飛官、機組員殉職。1940年8架SB-2由蘇聯援華航空隊移交中國空軍，隨即參加[棗宜會戰和](https://zh.wikipedia.org/wiki/棗宜會戰 "wikilink")[鄂西會戰](https://zh.wikipedia.org/wiki/鄂西會戰 "wikilink")。
 
-第三批同時也是最後一批採購了100架SB-2M-103，合約在1941年簽訂，機體在[哈密組裝運交](https://zh.wikipedia.org/wiki/哈密 "wikilink")。1941年9月該批轟炸機首度執行支援[第二次長沙會戰之任務](https://zh.wikipedia.org/wiki/第二次長沙會戰 "wikilink")，10月曾夜襲宜昌，11月轟炸在[黃河](https://zh.wikipedia.org/wiki/黃河 "wikilink")[湘北撤退的日軍時遇上](https://zh.wikipedia.org/wiki/湘北 "wikilink")8架敵機，中國空軍的SB-3兩架被擊落而4架被擊傷。[太平洋戰爭爆發後日軍攻佔](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")[中南半島](../Page/中南半島.md "wikilink")，中國空軍部分戰力移駐[昆明](https://zh.wikipedia.org/wiki/昆明 "wikilink")。1942年5月開始SB-3轟炸機轟炸[怒江沿岸的日軍以防其進犯](../Page/怒江.md "wikilink")[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")。1943年夏天，中國空軍的SB-3參與鄂邊會戰，和美製[A29一起出擊轟炸](../Page/哈德遜式轟炸機.md "wikilink")[宜都和](https://zh.wikipedia.org/wiki/宜都 "wikilink")[長陽等地的日軍目標](https://zh.wikipedia.org/wiki/長陽 "wikilink")。1943年8月開始中國空軍改為接收美製[B-25轟炸機](https://zh.wikipedia.org/wiki/B-25轟炸機 "wikilink")，SB-2和SB-3始正式退役。从1937年到1941年，苏联共向中国支援了322架SB轰炸机，其中292架是SB-2。
+第三批同時也是最後一批採購了100架SB-2M-103，合約在1941年簽訂，機體在[哈密組裝運交](https://zh.wikipedia.org/wiki/哈密 "wikilink")。1941年9月該批轟炸機首度執行支援[第二次長沙會戰之任務](https://zh.wikipedia.org/wiki/第二次長沙會戰 "wikilink")，10月曾夜襲宜昌，11月轟炸在[黃河](https://zh.wikipedia.org/wiki/黃河 "wikilink")[湘北撤退的日軍時遇上](https://zh.wikipedia.org/wiki/湘北 "wikilink")8架敵機，中國空軍的SB-3兩架被擊落而4架被擊傷。[太平洋戰爭爆發後日軍攻佔](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")[中南半島](../Page/中南半島.md "wikilink")，中國空軍部分戰力移駐[昆明](https://zh.wikipedia.org/wiki/昆明 "wikilink")。1942年5月開始SB-3轟炸機轟炸[怒江](../Page/怒江.md "wikilink")沿岸的日軍以防其進犯[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")。1943年夏天，中國空軍的SB-3參與鄂邊會戰，和美製[A29一起出擊轟炸](../Page/哈德遜式轟炸機.md "wikilink")[宜都和](https://zh.wikipedia.org/wiki/宜都 "wikilink")[長陽等地的日軍目標](https://zh.wikipedia.org/wiki/長陽 "wikilink")。1943年8月開始中國空軍改為接收美製[B-25轟炸機](https://zh.wikipedia.org/wiki/B-25轟炸機 "wikilink")，SB-2和SB-3始正式退役。从1937年到1941年，苏联共向中国支援了322架SB轰炸机，其中292架是SB-2。
 
-除了向俄國採購，中華民國空軍曾嘗試參照SB轟炸機設計，研製稱為**轟研三式轟炸機**之機型。研轟三只完成1架原型機，使用了從SB-2M-103上挪用的克里莫夫M-103發動機，機體結構則運用[四川產之](https://zh.wikipedia.org/wiki/四川 "wikilink")[杉木替代](../Page/杉木.md "wikilink")、機體蒙皮則由竹片和絲綢包覆而成；製造時間從1942年9月起、1944年1月完工。研轟三所有試飛均在[成都太平寺機場進行](https://zh.wikipedia.org/wiki/成都太平寺機場 "wikilink")，在第3次試飛降落時起落架折斷、機翼受損，因無修復價值最後決定報廢。
+除了向俄國採購，中華民國空軍曾嘗試參照SB轟炸機設計，研製稱為**轟研三式轟炸機**之機型。研轟三只完成1架原型機，使用了從SB-2M-103上挪用的克里莫夫M-103發動機，機體結構則運用[四川產之](https://zh.wikipedia.org/wiki/四川 "wikilink")[杉木](../Page/杉木.md "wikilink")替代、機體蒙皮則由竹片和絲綢包覆而成；製造時間從1942年9月起、1944年1月完工。研轟三所有試飛均在[成都太平寺機場進行](https://zh.wikipedia.org/wiki/成都太平寺機場 "wikilink")，在第3次試飛降落時起落架折斷、機翼受損，因無修復價值最後決定報廢。
 
 ## 基本資料
 

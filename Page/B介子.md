@@ -1,4 +1,4 @@
-**B介子**（）是一種含有[反](https://zh.wikipedia.org/wiki/反物質 "wikilink")[底夸克的](../Page/底夸克.md "wikilink")[介子](../Page/介子.md "wikilink")。B介子可細分成四種，按介子中的另一種夸克而定：含有[上夸克](../Page/上夸克.md "wikilink")，含有[下夸克](../Page/下夸克.md "wikilink")，含有[奇夸克](../Page/奇夸克.md "wikilink")，而則含有[魅夸克](https://zh.wikipedia.org/wiki/魅夸克 "wikilink")。由於[頂夸克的壽命實在太短](../Page/頂夸克.md "wikilink")，所以一般認為反底夸克不能與頂夸克生成介子。而底夸克與反底夸克這個組合不是B介子，是底[夸克偶素](https://zh.wikipedia.org/wiki/夸克偶素 "wikilink")，當中最有名的是[Υ介子](../Page/Υ介子.md "wikilink")。
+**B介子**（）是一種含有[反](https://zh.wikipedia.org/wiki/反物質 "wikilink")[底夸克](../Page/底夸克.md "wikilink")的[介子](../Page/介子.md "wikilink")。B介子可細分成四種，按介子中的另一種夸克而定：含有[上夸克](../Page/上夸克.md "wikilink")，含有[下夸克](../Page/下夸克.md "wikilink")，含有[奇夸克](../Page/奇夸克.md "wikilink")，而則含有[魅夸克](https://zh.wikipedia.org/wiki/魅夸克 "wikilink")。由於[頂夸克](../Page/頂夸克.md "wikilink")的壽命實在太短，所以一般認為反底夸克不能與頂夸克生成介子。而底夸克與反底夸克這個組合不是B介子，是底[夸克偶素](https://zh.wikipedia.org/wiki/夸克偶素 "wikilink")，當中最有名的是[Υ介子](../Page/Υ介子.md "wikilink")。
 
 每一種B介子都有其對應的反粒子，內含底夸克及各種反夸克，分別為反上夸克()、反下夸克()、反奇夸克()及反魅夸克()。
 
@@ -17,7 +17,7 @@
 <a href="../Page/夸克.md" title="wikilink">夸克</a></p></th>
 <th><p>電荷</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/同位旋" title="wikilink">同位旋</a>(<a href="https://zh.wikipedia.org/wiki/同位旋" title="wikilink">I</a>)</p></th>
-<th><p><a href="../Page/自旋.md" title="wikilink">自旋及</a><a href="../Page/宇稱.md" title="wikilink">宇稱</a>(<a href="../Page/自旋.md" title="wikilink">J</a><sup><a href="../Page/宇稱.md" title="wikilink">P</a></sup>)</p></th>
+<th><p><a href="../Page/自旋.md" title="wikilink">自旋</a>及<a href="../Page/宇稱.md" title="wikilink">宇稱</a>(<a href="../Page/自旋.md" title="wikilink">J</a><sup><a href="../Page/宇稱.md" title="wikilink">P</a></sup>)</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/靜止質量" title="wikilink">靜止質量</a><br />
 (<a href="https://zh.wikipedia.org/wiki/電子伏" title="wikilink">MeV</a>/<a href="../Page/光速.md" title="wikilink">c</a><sup>2</sup>)</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/奇異數" title="wikilink">S</a></p></th>
@@ -108,7 +108,7 @@ ps<sup>−1</sup>}}\[2\]。最早的–系統上下限值是由費米實驗室�
 《[芝加哥論壇報](../Page/芝加哥論壇報.md "wikilink")》的羅納德·科圖拉克(Ronald
 Kotulak)在文章中說這粒子很“奇怪”，並指出這介子與“反物質陰森領域”的已知相互作用，可能會“開啟物理學新紀元的門”\[5\]。
 
-在2010年5月20日，費米國家加速器實驗室的物理學家有報告指出，振蕩衰變成物質的概率，比衰變成反物質的高1%，這個概率差可能解釋到為甚麼可見宇宙中物質要比反物質要多很多\[6\]。最近在[LHCb有新的實驗結果](../Page/LHCb.md "wikilink")，他們的數據樣本比費米實驗室的大，然而結果與標準模型的預測相差無幾\[7\]。
+在2010年5月20日，費米國家加速器實驗室的物理學家有報告指出，振蕩衰變成物質的概率，比衰變成反物質的高1%，這個概率差可能解釋到為甚麼可見宇宙中物質要比反物質要多很多\[6\]。最近在[LHCb](../Page/LHCb.md "wikilink")有新的實驗結果，他們的數據樣本比費米實驗室的大，然而結果與標準模型的預測相差無幾\[7\]。
 
 ## 參考資料
 

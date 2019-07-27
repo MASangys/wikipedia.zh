@@ -6,9 +6,9 @@ CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 [TBS系電視動畫](https://zh.wikipedia.org/wiki/TBS系 "wikilink")《[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的劇中歌收錄的專輯。
 
-「**放課後ティータイム**」是『K-ON\!』登場的平澤唯、秋山澪、田井中律、琴吹紬和中野梓的樂隊，實際上即是五人的[聲優](../Page/聲優.md "wikilink")——[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子和](../Page/壽美菜子.md "wikilink")[竹達彩奈](../Page/竹達彩奈.md "wikilink")。
+「**放課後ティータイム**」是『K-ON\!』登場的平澤唯、秋山澪、田井中律、琴吹紬和中野梓的樂隊，實際上即是五人的[聲優](../Page/聲優.md "wikilink")——[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")和[竹達彩奈](../Page/竹達彩奈.md "wikilink")。
 
-[CD分為](../Page/CD.md "wikilink")2枚構成的。前作的『[放學後TEA
+[CD](../Page/CD.md "wikilink")分為2枚構成的。前作的『[放學後TEA
 TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，本作的是[音樂專輯](../Page/音樂專輯.md "wikilink")。
 
 動畫中將所有原創的劇中曲都標示為「秋山澪作詞、琴吹紬作曲」，而實際上真正負責作曲作詞的另有其人\[1\]。

@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:proline_model.jpg "fig:缩略图")[球棒模型](../Page/球棒模型.md "wikilink")。\]\]
 [缩略图](https://zh.wikipedia.org/wiki/File:Prentice_Hall_Molecular_Model_Set_for_General_Organic_Chemistry_8139.JPG "fig:缩略图")
-**MolyMod**是一套[分子模型製作工具](https://zh.wikipedia.org/wiki/分子模型 "wikilink")，以製作[球棒模型為主](../Page/球棒模型.md "wikilink")，可以簡單的製作出各種[分子的實體](../Page/分子.md "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")，且有一定的精確度，也可以輔助一些[分子結構的計算](https://zh.wikipedia.org/wiki/分子結構 "wikilink")。MolyMod主要是[塑膠製品](https://zh.wikipedia.org/wiki/塑膠 "wikilink")，主要是設計用來做教學用途，並且有申請專利。
+**MolyMod**是一套[分子模型製作工具](https://zh.wikipedia.org/wiki/分子模型 "wikilink")，以製作[球棒模型](../Page/球棒模型.md "wikilink")為主，可以簡單的製作出各種[分子](../Page/分子.md "wikilink")的實體[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")，且有一定的精確度，也可以輔助一些[分子結構的計算](https://zh.wikipedia.org/wiki/分子結構 "wikilink")。MolyMod主要是[塑膠製品](https://zh.wikipedia.org/wiki/塑膠 "wikilink")，主要是設計用來做教學用途，並且有申請專利。
 
 這些模型可以製作[無機](https://zh.wikipedia.org/wiki/無機 "wikilink")，[有機分子模型](https://zh.wikipedia.org/wiki/有機 "wikilink")，[原子軌域與](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")[分子軌域模型](https://zh.wikipedia.org/wiki/分子軌域 "wikilink")，[金屬晶體與](https://zh.wikipedia.org/wiki/金屬 "wikilink")[離子晶體模型](https://zh.wikipedia.org/wiki/離子晶體 "wikilink")，也有分不同用途的套件。
 
@@ -8,7 +8,7 @@
 
 ## 例子
 
-例如要製作一個[乙烷分子模型](../Page/乙烷.md "wikilink")，由於套件已經在正確角度處刻上[卡榫的洞](https://zh.wikipedia.org/wiki/卡榫 "wikilink")，因此只需取四價[碳模型和一價](../Page/碳.md "wikilink")[氫模型用](https://zh.wikipedia.org/wiki/氫 "wikilink")[化學鍵模型連結起來即可](https://zh.wikipedia.org/wiki/化學鍵 "wikilink")，不須要額外計算其[鍵角](https://zh.wikipedia.org/wiki/鍵角 "wikilink")，缺點是，化學鍵只有一種長度，因此無法作出更接近實際情形的模型，特別的，對於水分子模型，其氧原子模型的角度有特別設計為約105度，因此可以製作出較接近實際狀況的三維水分子模型\[2\]。
+例如要製作一個[乙烷](../Page/乙烷.md "wikilink")分子模型，由於套件已經在正確角度處刻上[卡榫的洞](https://zh.wikipedia.org/wiki/卡榫 "wikilink")，因此只需取四價[碳](../Page/碳.md "wikilink")模型和一價[氫模型用](https://zh.wikipedia.org/wiki/氫 "wikilink")[化學鍵模型連結起來即可](https://zh.wikipedia.org/wiki/化學鍵 "wikilink")，不須要額外計算其[鍵角](https://zh.wikipedia.org/wiki/鍵角 "wikilink")，缺點是，化學鍵只有一種長度，因此無法作出更接近實際情形的模型，特別的，對於水分子模型，其氧原子模型的角度有特別設計為約105度，因此可以製作出較接近實際狀況的三維水分子模型\[2\]。
 
 ## 配色
 

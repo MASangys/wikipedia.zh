@@ -1,4 +1,4 @@
-**AKB48的"我們的故事"**（）是[AKB48的成員隔週替換出演的](../Page/AKB48.md "wikilink")[廣播劇](../Page/廣播劇.md "wikilink")。[NHK-FM頻率制作](../Page/NHK-FM頻率.md "wikilink")。過去在2010年8月14日・2011年1月2日的2回以[特別節目播放](https://zh.wikipedia.org/wiki/特別節目 "wikilink")，2011年4月開始在隔週星期五正式播放。
+**AKB48的"我們的故事"**（）是[AKB48](../Page/AKB48.md "wikilink")的成員隔週替換出演的[廣播劇](../Page/廣播劇.md "wikilink")。[NHK-FM頻率](../Page/NHK-FM頻率.md "wikilink")制作。過去在2010年8月14日・2011年1月2日的2回以[特別節目播放](https://zh.wikipedia.org/wiki/特別節目 "wikilink")，2011年4月開始在隔週星期五正式播放。
 
 ## 概要
 
@@ -853,11 +853,11 @@
 2.  只在[French
     Kiss的](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")3人出演
 
-3.  只在[SKE48的成員出演](../Page/SKE48.md "wikilink")
+3.  只在[SKE48](../Page/SKE48.md "wikilink")的成員出演
 
 4.  只在[Not yet出演](../Page/Not_yet.md "wikilink")
 
-5.  只在[板野友美出演](../Page/板野友美.md "wikilink")
+5.  只在[板野友美](../Page/板野友美.md "wikilink")出演
 
 6.  只在[走廊奔跑隊7出演](https://zh.wikipedia.org/wiki/走廊奔跑隊#走廊奔跑隊7 "wikilink")
 
@@ -918,7 +918,7 @@
 
 39. 出演成員是渡辺麻・山本・渡辺的3人在2012年3月中從高中畢業。
 
-40. 上西・山本・渡辺美是[NMB48成員首次出演](../Page/NMB48.md "wikilink")。
+40. 上西・山本・渡辺美是[NMB48](../Page/NMB48.md "wikilink")成員首次出演。
 
 41. 標題是指原莉乃的出道單曲。
 

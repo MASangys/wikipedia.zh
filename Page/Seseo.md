@@ -1,8 +1,8 @@
 [IberianSeseo2a.PNG](https://zh.wikipedia.org/wiki/File:IberianSeseo2a.PNG "fig:IberianSeseo2a.PNG")中音的分佈：有音（黃色），無音（綠色）。其中紅線代表大致的語言區界限\]\]
 
-**Seseo**指的是在[西班牙語的一些](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[方言中](../Page/方言.md "wikilink")，[音位](../Page/音位.md "wikilink")[清齒擦音](../Page/清齒擦音.md "wikilink")（寫作z、ce、ci）與[清齒齦擦音](../Page/清齒齦擦音.md "wikilink")（寫作s）發生合併，均發為清齒齦擦音的現象。與之對應的現象稱為**ceceo**，指的是與均發為清齒齦[噝音](https://zh.wikipedia.org/wiki/噝音 "wikilink")/s̄/（與清齒擦音相似）的現象。因此，在能區分和的地區中，“casa”（[房屋](https://zh.wikipedia.org/wiki/房屋 "wikilink")）和“caza”（[狩獵](../Page/狩獵.md "wikilink")）兩詞發音不同，但在seseo或ceceo的地區，兩詞發音相同。使用seseo的人被稱為seseísta或seseante。
+**Seseo**指的是在[西班牙語的一些](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[方言](../Page/方言.md "wikilink")中，[音位](../Page/音位.md "wikilink")[清齒擦音](../Page/清齒擦音.md "wikilink")（寫作z、ce、ci）與[清齒齦擦音](../Page/清齒齦擦音.md "wikilink")（寫作s）發生合併，均發為清齒齦擦音的現象。與之對應的現象稱為**ceceo**，指的是與均發為清齒齦[噝音](https://zh.wikipedia.org/wiki/噝音 "wikilink")/s̄/（與清齒擦音相似）的現象。因此，在能區分和的地區中，“casa”（[房屋](https://zh.wikipedia.org/wiki/房屋 "wikilink")）和“caza”（[狩獵](../Page/狩獵.md "wikilink")）兩詞發音不同，但在seseo或ceceo的地區，兩詞發音相同。使用seseo的人被稱為seseísta或seseante。
 
-Seseo分佈在[西班牙語美洲全境以及](https://zh.wikipedia.org/wiki/西班牙語美洲 "wikilink")[西班牙的](../Page/西班牙.md "wikilink")[加那利群島全境和](https://zh.wikipedia.org/wiki/加那利群島 "wikilink")[安達魯西亞中部](https://zh.wikipedia.org/wiki/安達魯西亞 "wikilink")，Ceceo則主要分佈在安達魯西亞南部。而在西班牙國內的大部分（除加那利群島和安達魯西亞以外）地區的方言中，和都能被很好地區分。
+Seseo分佈在[西班牙語美洲全境以及](https://zh.wikipedia.org/wiki/西班牙語美洲 "wikilink")[西班牙](../Page/西班牙.md "wikilink")的[加那利群島全境和](https://zh.wikipedia.org/wiki/加那利群島 "wikilink")[安達魯西亞中部](https://zh.wikipedia.org/wiki/安達魯西亞 "wikilink")，Ceceo則主要分佈在安達魯西亞南部。而在西班牙國內的大部分（除加那利群島和安達魯西亞以外）地區的方言中，和都能被很好地區分。
 
 ## 能區分和的地區
 
@@ -12,7 +12,7 @@ Seseo分佈在[西班牙語美洲全境以及](https://zh.wikipedia.org/wiki/西
 
 2.  以及“軟”表示[清齒擦音](../Page/清齒擦音.md "wikilink")。
 
-這種發音區別使用在以西班牙語[正寫法為基礎的標準西班牙語中](https://zh.wikipedia.org/wiki/正寫法 "wikilink")，在西班牙中部和北部地區（除[巴斯克語和](../Page/巴斯克語.md "wikilink")[加泰罗尼亚語的](https://zh.wikipedia.org/wiki/加泰罗尼亚語 "wikilink")[雙語地區以外](https://zh.wikipedia.org/wiki/雙語 "wikilink")）的各種方言中也是一種相當普遍的現象\[1\]。因此，在西班牙的大部分地區，都能通過詞語的讀音正確區分出、、、、和、、、、，而不需要專門去記正確的拼法。
+這種發音區別使用在以西班牙語[正寫法為基礎的標準西班牙語中](https://zh.wikipedia.org/wiki/正寫法 "wikilink")，在西班牙中部和北部地區（除[巴斯克語](../Page/巴斯克語.md "wikilink")和[加泰罗尼亚語的](https://zh.wikipedia.org/wiki/加泰罗尼亚語 "wikilink")[雙語地區以外](https://zh.wikipedia.org/wiki/雙語 "wikilink")）的各種方言中也是一種相當普遍的現象\[1\]。因此，在西班牙的大部分地區，都能通過詞語的讀音正確區分出、、、、和、、、、，而不需要專門去記正確的拼法。
 
 ## seseo和ceceo地區
 
@@ -21,15 +21,15 @@ Seseo分佈在[西班牙語美洲全境以及](https://zh.wikipedia.org/wiki/西
 ### Ceceo
 
 [Andalucía_ceceante_y_seseante.PNG](https://zh.wikipedia.org/wiki/File:Andalucía_ceceante_y_seseante.PNG "fig:Andalucía_ceceante_y_seseante.PNG")
-Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的現象\[2\]。Ceceo僅出現在西班牙南部安達魯西亞的方言中，但據瓦爾德（Hualde）報告，在[中美洲的部分地區也有此種現象](../Page/中美洲.md "wikilink")。由於ceceo的使用者大多居住在[農村地區](https://zh.wikipedia.org/wiki/農村 "wikilink")，因此常被認為是一種較為粗野和缺乏教養的發音方式\[3\]。
+Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的現象\[2\]。Ceceo僅出現在西班牙南部安達魯西亞的方言中，但據瓦爾德（Hualde）報告，在[中美洲](../Page/中美洲.md "wikilink")的部分地區也有此種現象。由於ceceo的使用者大多居住在[農村地區](https://zh.wikipedia.org/wiki/農村 "wikilink")，因此常被認為是一種較為粗野和缺乏教養的發音方式\[3\]。
 
 大多數人使用ceceo的地區主要有：
 
   - [加的斯省](https://zh.wikipedia.org/wiki/加的斯省 "wikilink")（[加的斯市區主要為seseo](https://zh.wikipedia.org/wiki/加的斯 "wikilink")）
-  - [馬拉加省除](../Page/馬拉加省.md "wikilink")以外的大部分地區
-  - [韋爾瓦省](../Page/韋爾瓦省.md "wikilink")、[塞維亞省](https://zh.wikipedia.org/wiki/塞維亞省 "wikilink")、[格拉納達省的南半部](../Page/格拉納達省.md "wikilink")
-  - [阿爾梅里亞省的海岸地區](../Page/阿爾梅里亞省.md "wikilink")，以為主
-  - [哈恩省和](../Page/哈恩省.md "wikilink")[科爾多瓦省的小部分地區](../Page/科爾多瓦省_\(西班牙\).md "wikilink")
+  - [馬拉加省](../Page/馬拉加省.md "wikilink")除以外的大部分地區
+  - [韋爾瓦省](../Page/韋爾瓦省.md "wikilink")、[塞維亞省](https://zh.wikipedia.org/wiki/塞維亞省 "wikilink")、[格拉納達省](../Page/格拉納達省.md "wikilink")的南半部
+  - [阿爾梅里亞省](../Page/阿爾梅里亞省.md "wikilink")的海岸地區，以為主
+  - [哈恩省](../Page/哈恩省.md "wikilink")和[科爾多瓦省的小部分地區](../Page/科爾多瓦省_\(西班牙\).md "wikilink")
 
 在這一區域中有多個非ceceo[方言島](https://zh.wikipedia.org/wiki/方言島 "wikilink")，例如[塞維亞和加的斯兩市的大部分居民為seseante](https://zh.wikipedia.org/wiki/塞維亞 "wikilink")，而[格拉納達市區則是seseo和區分](https://zh.wikipedia.org/wiki/格拉納達 "wikilink")與的居民各半\[4\]
 。
@@ -91,9 +91,9 @@ Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的
 
 ### 卡斯蒂利亚的“ceceo”
 
-有一個關於西班牙語中音的[都市傳說非常流行](../Page/都市傳說.md "wikilink")：曾有一位患有[構音障礙的](../Page/言語障礙.md "wikilink")[西班牙國王](https://zh.wikipedia.org/wiki/西班牙國王 "wikilink")“創造”了音，而後借由其威信迅速在國內傳開。但是從學術面上來看，這種說法完全沒有依據\[8\]。對此傳說的來源進行了考證，發現這種說法最早出現於所寫的[編年史書中](https://zh.wikipedia.org/wiki/編年史 "wikilink")，描寫當時的國王[佩德羅一世](../Page/佩德羅一世_\(卡斯蒂利亞\).md "wikilink")“有一點大舌頭”。但這卻與西班牙語發展的歷史事實相悖：佩德羅一世生活於14世紀，但音卻產生於17世紀（見後述）。況且，就算真的是構音障礙導致音的產生，那也只可能讓伊比利亞半島上西班牙語全都變成ceceo，而不會是現在這種情況。例如，構音障礙確實會導致某個人（例如當時的國王）把“siento”（感到）和“ciento”（[百](https://zh.wikipedia.org/wiki/百 "wikilink")）都發成，但在現代西班牙語中它們卻分別發作和。
+有一個關於西班牙語中音的[都市傳說](../Page/都市傳說.md "wikilink")非常流行：曾有一位患有[構音障礙的](../Page/言語障礙.md "wikilink")[西班牙國王](https://zh.wikipedia.org/wiki/西班牙國王 "wikilink")“創造”了音，而後借由其威信迅速在國內傳開。但是從學術面上來看，這種說法完全沒有依據\[8\]。對此傳說的來源進行了考證，發現這種說法最早出現於所寫的[編年史書中](https://zh.wikipedia.org/wiki/編年史 "wikilink")，描寫當時的國王[佩德羅一世](../Page/佩德羅一世_\(卡斯蒂利亞\).md "wikilink")“有一點大舌頭”。但這卻與西班牙語發展的歷史事實相悖：佩德羅一世生活於14世紀，但音卻產生於17世紀（見後述）。況且，就算真的是構音障礙導致音的產生，那也只可能讓伊比利亞半島上西班牙語全都變成ceceo，而不會是現在這種情況。例如，構音障礙確實會導致某個人（例如當時的國王）把“siento”（感到）和“ciento”（[百](https://zh.wikipedia.org/wiki/百 "wikilink")）都發成，但在現代西班牙語中它們卻分別發作和。
 
-對一個生長於seseo地區的西班牙人來說，雖不常用，但由於在生活中或多或少有機會聽到別人發出這個音，所以他們並不會感到這個音十分奇怪。但對於生長在西班牙語美洲以及[美國的人來說](https://zh.wikipedia.org/wiki/美國 "wikilink")，確實會讓他們感到一種“口齒不清”的感覺，因此他們有時會將伊比利亞半島的西班牙語稱為“[卡斯蒂利亚的ceceo](../Page/卡斯蒂利亚.md "wikilink")（’大舌頭’）話”。
+對一個生長於seseo地區的西班牙人來說，雖不常用，但由於在生活中或多或少有機會聽到別人發出這個音，所以他們並不會感到這個音十分奇怪。但對於生長在西班牙語美洲以及[美國的人來說](https://zh.wikipedia.org/wiki/美國 "wikilink")，確實會讓他們感到一種“口齒不清”的感覺，因此他們有時會將伊比利亞半島的西班牙語稱為“[卡斯蒂利亚](../Page/卡斯蒂利亚.md "wikilink")的ceceo（’大舌頭’）話”。
 
 ### 演變
 
@@ -259,7 +259,7 @@ Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的
 </tbody>
 </table>
 
-由於[拉迪諾語至少在](../Page/拉迪諾語.md "wikilink")15世紀就已經脫離卡斯蒂利亞語以及其他一些伊比利亞半島的語言獨立，所以其中噝音的變化並不似西班牙語中那麼激烈。現代拉迪諾語的噝音系統更類似于[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")\[18\]。
+由於[拉迪諾語](../Page/拉迪諾語.md "wikilink")至少在15世紀就已經脫離卡斯蒂利亞語以及其他一些伊比利亞半島的語言獨立，所以其中噝音的變化並不似西班牙語中那麼激烈。現代拉迪諾語的噝音系統更類似于[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")\[18\]。
 
 ## 參見
 

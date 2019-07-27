@@ -1,8 +1,8 @@
-**Flyme**是由[珠海魅族科技有限公司开发的基于](../Page/魅族科技.md "wikilink")[Android的手机操作系统](../Page/Android.md "wikilink")。
+**Flyme**是由[珠海魅族科技有限公司开发的基于](../Page/魅族科技.md "wikilink")[Android](../Page/Android.md "wikilink")的手机操作系统。
 
 ## 軟件
 
-Flyme内置了自家软件，並大幅修改原生[Android界面](../Page/Android.md "wikilink")，且中国版不预装[GMS](https://zh.wikipedia.org/wiki/GMS "wikilink")，[Eico
+Flyme内置了自家软件，並大幅修改原生[Android](../Page/Android.md "wikilink")界面，且中国版不预装[GMS](https://zh.wikipedia.org/wiki/GMS "wikilink")，[Eico
 Design亦有參與設計](https://zh.wikipedia.org/wiki/Eico_Design "wikilink")\[1\]。
 
 对于預裝YunOS版本的手機，如魅蓝metal等诸多魅蓝机型，魅族也已为其提供了Android版本系统。
@@ -13,7 +13,7 @@ Flyme應用中心是魅族自家的應用商店，為Flyme裝置提供應用下�
 
   - Flyme雲服務
 
-Flyme雲服務是[魅族科技開發的](../Page/魅族科技.md "wikilink")[雲端功能](https://zh.wikipedia.org/wiki/雲端 "wikilink")，同時開放網頁端。使用者可以綁定Flyme賬戶，將聯絡人、短信、相冊及系統設定上傳同步至伺服器進行備份，並且使用電腦或者其他Flyme裝置存取數據。可以在網頁端修改、增添和刪除相關數據。找回手機功能可以允许用户在網頁端使用找回手機功能定位手機當前位置，同時可以查看該裝置的狀態、所使用的手機號碼，並可以遠端控制手機發聲、鎖定、远程同步和擦除數據。若手機處於離線狀態，用戶还可選擇透過運營商發送一條短信遠端激活該功能。
+Flyme雲服務是[魅族科技](../Page/魅族科技.md "wikilink")開發的[雲端功能](https://zh.wikipedia.org/wiki/雲端 "wikilink")，同時開放網頁端。使用者可以綁定Flyme賬戶，將聯絡人、短信、相冊及系統設定上傳同步至伺服器進行備份，並且使用電腦或者其他Flyme裝置存取數據。可以在網頁端修改、增添和刪除相關數據。找回手機功能可以允许用户在網頁端使用找回手機功能定位手機當前位置，同時可以查看該裝置的狀態、所使用的手機號碼，並可以遠端控制手機發聲、鎖定、远程同步和擦除數據。若手機處於離線狀態，用戶还可選擇透過運營商發送一條短信遠端激活該功能。
 
 ## 歷史版本
 
@@ -80,7 +80,7 @@ Flyme雲服務是[魅族科技開發的](../Page/魅族科技.md "wikilink")[雲
 
 ## mBack
 
-mBack是魅族手机使用的Home键方案。在手机正面采用一个支持[触摸感应的按键](https://zh.wikipedia.org/wiki/触摸操作 "wikilink")，来代替原生Android的三个按键。触摸主键执行返回操作，按压主键执行回到桌面，从主键两侧的屏幕底部上滑打开多任务卡片。\[4\]主键亦可支持[指纹识别](../Page/指纹识别.md "wikilink")，用于指纹解锁、[微信和](../Page/微信.md "wikilink")[支付宝的指纹支付](../Page/支付宝.md "wikilink")。魅族手机自魅蓝note2以后均采用mBack，但未全部搭载指纹识别。在魅族PRO
+mBack是魅族手机使用的Home键方案。在手机正面采用一个支持[触摸感应的按键](https://zh.wikipedia.org/wiki/触摸操作 "wikilink")，来代替原生Android的三个按键。触摸主键执行返回操作，按压主键执行回到桌面，从主键两侧的屏幕底部上滑打开多任务卡片。\[4\]主键亦可支持[指纹识别](../Page/指纹识别.md "wikilink")，用于指纹解锁、[微信](../Page/微信.md "wikilink")和[支付宝](../Page/支付宝.md "wikilink")的指纹支付。魅族手机自魅蓝note2以后均采用mBack，但未全部搭载指纹识别。在魅族PRO
 6 Plus上，主键还包括活体指纹检测和心率检测功能。
 
 ### 评价

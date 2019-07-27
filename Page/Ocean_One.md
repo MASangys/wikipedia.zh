@@ -1,7 +1,7 @@
 [Ocean_One_(deep_blue_sky).jpg](https://zh.wikipedia.org/wiki/File:Ocean_One_\(deep_blue_sky\).jpg "fig:Ocean_One_(deep_blue_sky).jpg")
 [Canaryside_(Hong_Kong).jpg](https://zh.wikipedia.org/wiki/File:Canaryside_\(Hong_Kong\).jpg "fig:Canaryside_(Hong_Kong).jpg")（右），後方為[炮台山](../Page/魔鬼山.md "wikilink")。\]\]
 **Ocean
-One**，位於[香港](../Page/香港.md "wikilink")[油塘崇信街](../Page/油塘.md "wikilink")6號，為[九龍東的單幢住宅物業](https://zh.wikipedia.org/wiki/九龍東 "wikilink")，於2013年2月落成，實際樓高共31層（不設4、13、14、24、34樓），發展商為[麗新集團](../Page/麗新集團.md "wikilink")，由[許李嚴設計](../Page/嚴迅奇.md "wikilink")，項目提供124伙，單位建築面積由682方呎至1,507方呎，樓底高10呎10吋，35樓單位更高達12呎2吋。\[1\]\[2\]\[3\]\[4\]\[5\]。第一日開售當天剛巧遇上[梁振英政府宣佈推出打壓樓市的辣招](https://zh.wikipedia.org/wiki/梁振英政府 "wikilink")\[6\]，樓盤幾經減價推銷下，至2014年5月方全數沽清，一手實用呎價平均大約港幣1萬3千元。
+One**，位於[香港](../Page/香港.md "wikilink")[油塘](../Page/油塘.md "wikilink")崇信街6號，為[九龍東的單幢住宅物業](https://zh.wikipedia.org/wiki/九龍東 "wikilink")，於2013年2月落成，實際樓高共31層（不設4、13、14、24、34樓），發展商為[麗新集團](../Page/麗新集團.md "wikilink")，由[許李嚴設計](../Page/嚴迅奇.md "wikilink")，項目提供124伙，單位建築面積由682方呎至1,507方呎，樓底高10呎10吋，35樓單位更高達12呎2吋。\[1\]\[2\]\[3\]\[4\]\[5\]。第一日開售當天剛巧遇上[梁振英政府宣佈推出打壓樓市的辣招](https://zh.wikipedia.org/wiki/梁振英政府 "wikilink")\[6\]，樓盤幾經減價推銷下，至2014年5月方全數沽清，一手實用呎價平均大約港幣1萬3千元。
 
 ## 設施
 
@@ -64,10 +64,10 @@ One在各大報章及其售樓說明書中刊登的廣告及資料寫到「九�
 
 </dl>
 <ul>
-<li><a href="../Page/觀塘.md" title="wikilink">觀塘至油塘</a>/鯉魚門線</li>
-<li><a href="../Page/佐敦道.md" title="wikilink">佐敦道</a>/<a href="../Page/土瓜灣.md" title="wikilink">土瓜灣至油塘線</a></li>
-<li><a href="../Page/荃灣.md" title="wikilink">荃灣至油塘線</a> (上下午繁時服務)</li>
-<li><a href="../Page/旺角.md" title="wikilink">旺角至油塘線</a></li>
+<li><a href="../Page/觀塘.md" title="wikilink">觀塘</a>至油塘/鯉魚門線</li>
+<li><a href="../Page/佐敦道.md" title="wikilink">佐敦道</a>/<a href="../Page/土瓜灣.md" title="wikilink">土瓜灣</a>至油塘線</li>
+<li><a href="../Page/荃灣.md" title="wikilink">荃灣</a>至油塘線 (上下午繁時服務)</li>
+<li><a href="../Page/旺角.md" title="wikilink">旺角</a>至油塘線</li>
 </ul>
 <dl>
 <dt><a href="https://zh.wikipedia.org/wiki/三家村碼頭" title="wikilink">三家村碼頭</a><br />
@@ -75,7 +75,7 @@ One在各大報章及其售樓說明書中刊登的廣告及資料寫到「九�
 
 </dl>
 <ul>
-<li>三家村至<a href="../Page/西灣河.md" title="wikilink">西灣河線</a></li>
+<li>三家村至<a href="../Page/西灣河.md" title="wikilink">西灣河</a>線</li>
 <li>三家村至<a href="https://zh.wikipedia.org/wiki/東龍島" title="wikilink">東龍島線</a></li>
 </ul>
 <dl>
@@ -90,7 +90,7 @@ One在各大報章及其售樓說明書中刊登的廣告及資料寫到「九�
 <li>東九龍快綫：油塘至<a href="../Page/深圳灣口岸.md" title="wikilink">深圳灣口岸</a></li>
 </ul>
 <ul>
-<li><a href="../Page/油麗邨.md" title="wikilink">油麗邨至</a><a href="../Page/油塘邨.md" title="wikilink">油塘邨升降機塔</a></li>
+<li><a href="../Page/油麗邨.md" title="wikilink">油麗邨</a>至<a href="../Page/油塘邨.md" title="wikilink">油塘邨</a>升降機塔</li>
 <li>大本型購物廊</li>
 </ul></td>
 </tr>

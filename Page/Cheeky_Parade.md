@@ -9,9 +9,9 @@ Parade是從[愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "
 Street之中](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")，選出9位出道候補成員（又稱「Street生」）所組成的團體。在2012年2月9日於
 [Shibuya
 O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")
-舉辦的「」演唱會中宣布正式成立。\[1\]\[2\]\[3\]。以華麗大膽的舞蹈表演與服裝為團體的基本概念。與日本[澀谷](../Page/澀谷.md "wikilink")[109百貨裡的品牌](../Page/109百貨.md "wikilink")「JSG」合作的打歌服是特色之一。
+舉辦的「」演唱會中宣布正式成立。\[1\]\[2\]\[3\]。以華麗大膽的舞蹈表演與服裝為團體的基本概念。與日本[澀谷](../Page/澀谷.md "wikilink")[109百貨](../Page/109百貨.md "wikilink")裡的品牌「JSG」合作的打歌服是特色之一。
 
-在2012年9月22日的「」上宣布將在2013年1月正式出道\[4\]，是繼同公司的[SUPER☆GiRLS第二個正式出道的團體](../Page/SUPER☆GiRLS.md "wikilink")。
+在2012年9月22日的「」上宣布將在2013年1月正式出道\[4\]，是繼同公司的[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")第二個正式出道的團體。
 
 2018年4月12日宣佈將會於7月31日解散。
 

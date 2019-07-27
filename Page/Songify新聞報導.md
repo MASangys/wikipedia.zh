@@ -1,4 +1,4 @@
-**Songify新聞報導**是一個系列。[格雷戈里兄弟利用數碼技術錄製政治家](../Page/格雷戈里兄弟.md "wikilink")、新聞主播和政治評論員的聲音，再配合旋律，使人物像流行的[饒舌歌手般唱歌一樣](../Page/饒舌.md "wikilink")。\[1\]
+**Songify新聞報導**是一個系列。[格雷戈里兄弟](../Page/格雷戈里兄弟.md "wikilink")利用數碼技術錄製政治家、新聞主播和政治評論員的聲音，再配合旋律，使人物像流行的[饒舌](../Page/饒舌.md "wikilink")歌手般唱歌一樣。\[1\]
 
 ## Auto-Tune The News的集數
 
@@ -41,7 +41,7 @@
 
 ## 外部連結
 
-  - [格雷戈里兄弟](http://www.youtube.com/user/schmoyoho)上傳Songify新聞報導的[YouTube頻道](../Page/YouTube.md "wikilink")
+  - [格雷戈里兄弟](http://www.youtube.com/user/schmoyoho)上傳Songify新聞報導的[YouTube](../Page/YouTube.md "wikilink")頻道
 
 [Category:美國網路劇](https://zh.wikipedia.org/wiki/Category:美國網路劇 "wikilink")
 [Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink")

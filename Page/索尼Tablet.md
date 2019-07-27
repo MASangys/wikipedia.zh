@@ -1,5 +1,5 @@
 **Sony
-Tablet**是[索尼旗下的](../Page/索尼.md "wikilink")[平板電腦品牌](../Page/平板電腦.md "wikilink")，搭載[Android作業系統](../Page/Android.md "wikilink")。\[1\]\[2\]
+Tablet**是[索尼](../Page/索尼.md "wikilink")旗下的[平板電腦](../Page/平板電腦.md "wikilink")品牌，搭載[Android](../Page/Android.md "wikilink")作業系統。\[1\]\[2\]
 
 ## 歷史
 

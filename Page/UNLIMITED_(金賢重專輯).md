@@ -1,5 +1,5 @@
 **《UNLIMITED》**是韓國Pop
-Dance組合[SS501](../Page/SS501.md "wikilink")[隊長](https://zh.wikipedia.org/wiki/隊長 "wikilink")[金賢重於](../Page/金賢重.md "wikilink")2012年12月12日，由[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")/Delicious
+Dance組合[SS501](../Page/SS501.md "wikilink")[隊長](https://zh.wikipedia.org/wiki/隊長 "wikilink")[金賢重](../Page/金賢重.md "wikilink")於2012年12月12日，由[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")/Delicious
 Deli Records所發行的首張日語正規專輯。
 
 ## 專輯概述
@@ -9,14 +9,14 @@ Deli Records所發行的首張日語正規專輯。
 Event』中宣佈將於12月發行日語正規/精選專輯\[1\]。隔日(10月5日)其日本官方網站公布即日起開放預購，12月12日發行，專輯以有著不同以往的無限可能性為概念取名『unlimited』內收錄「Your
 Story (日語新曲①)」、「I'm Yours (日語新曲②)」、「Save Today (日語新曲③)」與同年1月發行的前作《[KISS
 KISS/Lucky
-Guy](https://zh.wikipedia.org/wiki/KISS_KISS/Lucky_Guy "wikilink")》與07月由[B'z製作的單曲](../Page/B'z.md "wikilink")《[HEAT](../Page/HEAT_\(金賢重單曲\).md "wikilink")》等共14首曲目。購買方式分為會員限定款與一般大眾款。
+Guy](https://zh.wikipedia.org/wiki/KISS_KISS/Lucky_Guy "wikilink")》與07月由[B'z](../Page/B'z.md "wikilink")製作的單曲《[HEAT](../Page/HEAT_\(金賢重單曲\).md "wikilink")》等共14首曲目。購買方式分為會員限定款與一般大眾款。
 
 1.  會員限定款分為HENECIA JAPAN會員限定版、金賢重官方手機/智慧型手機網站會員限定版。
 2.  一般大眾款則分為初回限定盤A/B、通常盤三版本與限定特典3款（內含初回限定盤A/B、通常盤各一枚）。
 
 2012年11月21日其日本官方網站宣布於11月28日首先在音樂網站\[2\]發布主打歌曲「Your
 Story」來電答鈴(Ｒ)，下載者可獲待機圖像；12月5月\[3\]發布「Your
-Story」全曲鈴聲。數位音源於12月5日\[4\]開放使用電腦付費下載，智慧型手機則可透過\[5\]音源網站下載\[6\]，同時於公告內容中演唱者[金賢重更透露此輕搖滾節奏曲目的相關信息](../Page/金賢重.md "wikilink")：
+Story」全曲鈴聲。數位音源於12月5日\[4\]開放使用電腦付費下載，智慧型手機則可透過\[5\]音源網站下載\[6\]，同時於公告內容中演唱者[金賢重](../Page/金賢重.md "wikilink")更透露此輕搖滾節奏曲目的相關信息：
 並於2012年12月12日專輯發行當日在各大音源網站發布另兩首新曲〈Save Today〉與〈I'm
 Yours〉的來電答鈴與手機全曲鈴聲；12月18日臺灣壓制版正式發行，分為初回限量A、B盤（CD+DVD）雙版本。
 
@@ -79,7 +79,7 @@ JAPAN會員限定版D版專輯封面\[12\]。在初回限定A盤的封面照中�
 
 ## 成績
 
-據金賢重經紀公司Keyeast與日本[Oricon公信榜資料顯示](../Page/Oricon公信榜.md "wikilink")，金賢重的首張日文正規專輯「UNLIMITED」，在12月12日發行當日即登上公信榜冠軍寶座，銷售量達56,473張，多於韓流明星張根碩（25歲）5月發行的全新專輯「Just
+據金賢重經紀公司Keyeast與日本[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")資料顯示，金賢重的首張日文正規專輯「UNLIMITED」，在12月12日發行當日即登上公信榜冠軍寶座，銷售量達56,473張，多於韓流明星張根碩（25歲）5月發行的全新專輯「Just
 Crazy」的53,000張，刷新韓國明星在日銷售紀錄。同日，日本歌手[水樹奈奈](../Page/水樹奈奈.md "wikilink")（32歲）的「ROCKBOUND
 NEIGHBORS」，銷量為36,779張；團體[Flumpool的](https://zh.wikipedia.org/wiki/Flumpool "wikilink")「Experience」，則為20,449張\[15\]。最終週間排名第三，輸給[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")「EXILE
 BEST HITS -LOVE SIDE / SOUL SIDE-」及上述水樹奈奈的作品。
@@ -154,7 +154,7 @@ BEST HITS -LOVE SIDE / SOUL SIDE-」及上述水樹奈奈的作品。
   - 2012年12月11日於澀谷公會堂舉行『CD發售紀念Premium event』\[35\]
   - 2012年12月12日非公開行程『突擊 Tower Records澀谷店、銀座山野楽器總店』留下簽名
   - 2013年2月24日出席為紀念韓僑移民[巴西](../Page/巴西.md "wikilink")50周年在[聖保羅舉辦的](https://zh.wikipedia.org/wiki/聖保羅 "wikilink")『2013韓國-巴西移民50周年紀念FEEL
-    KOREA』，隔日(25日)前往[秘魯首都](https://zh.wikipedia.org/wiki/秘魯 "wikilink")[利馬舉辦首場個人粉絲會](../Page/利馬.md "wikilink")\[36\]
+    KOREA』，隔日(25日)前往[秘魯首都](https://zh.wikipedia.org/wiki/秘魯 "wikilink")[利馬](../Page/利馬.md "wikilink")舉辦首場個人粉絲會\[36\]
   - 2013年3月02�日演出於[幕張展覽館](../Page/幕張展覽館.md "wikilink")
     國際展示場舉辦的『U-EXPRESS LIVE 2013』演唱會
 

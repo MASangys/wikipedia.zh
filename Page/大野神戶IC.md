@@ -1,4 +1,4 @@
-**大野神戶IC**（平假名：おおのごうどインターチェンジ）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[揖斐郡](https://zh.wikipedia.org/wiki/揖斐郡 "wikilink")[大野町的](https://zh.wikipedia.org/wiki/大野町 "wikilink")[東海環狀自動車道之](../Page/東海環狀自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道還未啟用。
+**大野神戶IC**（平假名：おおのごうどインターチェンジ）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[揖斐郡](https://zh.wikipedia.org/wiki/揖斐郡 "wikilink")[大野町的](https://zh.wikipedia.org/wiki/大野町 "wikilink")[東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。此交流道還未啟用。
 
 ## 連接道路
 
@@ -7,7 +7,7 @@
 ## 年表
 
   - 2020年（預計） -
-    [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")[大垣西IC至](../Page/大垣西IC.md "wikilink")[關廣見IC開通](https://zh.wikipedia.org/wiki/關廣見IC "wikilink")，此交流道也同時啟用\[1\]。
+    [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")[大垣西IC](../Page/大垣西IC.md "wikilink")至[關廣見IC開通](https://zh.wikipedia.org/wiki/關廣見IC "wikilink")，此交流道也同時啟用\[1\]。
 
 ## 交流道周邊
 

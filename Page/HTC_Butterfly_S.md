@@ -1,5 +1,5 @@
 **HTC Butterfly
-S**（國際版型號：**901e**，俗稱「蝴蝶S」，S為‘Super’縮寫。）是[宏達國際電子的高階](../Page/宏達國際電子.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，[2013年7月在](https://zh.wikipedia.org/wiki/台灣2013年7月 "wikilink")[臺灣首發](../Page/臺灣.md "wikilink")。該手機為[HTC
+S**（國際版型號：**901e**，俗稱「蝴蝶S」，S為‘Super’縮寫。）是[宏達國際電子](../Page/宏達國際電子.md "wikilink")的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，[2013年7月在](https://zh.wikipedia.org/wiki/台灣2013年7月 "wikilink")[臺灣](../Page/臺灣.md "wikilink")首發。該手機為[HTC
 Butterfly的升級版](../Page/HTC_Butterfly.md "wikilink")，延續前代機種機身外型，搭載與[HTC
 One相同的](https://zh.wikipedia.org/wiki/HTC_One_\(手機\) "wikilink")408萬畫素Ultra
 Pixel相機、採用新版介面[HTC
@@ -13,7 +13,7 @@ HTC Butterfly s行貨版擁有兩個不同的版本\[1\]：
   - 一款僅支持單卡，被稱之為HTC Butterfly s單卡版，數字型號為HTC 901e。
   - 一款支持雙手機卡，被稱之為HTC Butterfly s雙卡版，數字型號為HTC 9060。
 
-在2013年9月2日，HTC與[長榮航空共同推出了Butterfly](../Page/長榮航空.md "wikilink") s Hello
+在2013年9月2日，HTC與[長榮航空](../Page/長榮航空.md "wikilink")共同推出了Butterfly s Hello
 Kitty限量版，基於Butterfly s白色版在背板加上3D彩繪的[Hello
 Kitty](../Page/Hello_Kitty.md "wikilink")，以及加入了9款Hello
 Kitty為主角的桌布。長榮航空機上購買者，還可以免費取得專屬Hello
@@ -116,7 +116,7 @@ Kitty背蓋與耳機塞\[2\] 。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>210萬畫素前相機（支援<a href="../Page/1080p.md" title="wikilink">1080p錄影</a>）、88度廣角(等效焦距約22mm)、自拍美顏功能、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR拍照</a></p></td>
+<td><p>210萬畫素前相機（支援<a href="../Page/1080p.md" title="wikilink">1080p</a>錄影）、88度廣角(等效焦距約22mm)、自拍美顏功能、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR拍照</a></p></td>
 <td></td>
 <td></td>
 <td></td>

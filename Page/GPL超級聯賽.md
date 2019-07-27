@@ -1,6 +1,6 @@
 [GPL-Logo.jpg](https://zh.wikipedia.org/wiki/File:GPL-Logo.jpg "fig:GPL-Logo.jpg")
-**GPL超級聯賽(Garena Premier
-League)**是由[Garena所舉辦的](https://zh.wikipedia.org/wiki/Garena "wikilink")《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》東南亞的跨國職業[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。2015年台港隊地區獨立成[LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")，2018年越南獨立成VCS聯賽，剩下新加坡、馬來西亞、菲律賓、泰國及印尼地區。2018年春季賽期後，由LOL
+**GPL超級聯賽（Garena Premier
+League）**是由[Garena所舉辦的](https://zh.wikipedia.org/wiki/Garena "wikilink")《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》東南亞的跨國職業[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。2015年台港澳地區獨立成[LMS賽區](../Page/LMS職業聯賽.md "wikilink")，2018年越南獨立成VCS聯賽，剩下新加坡、馬來西亞、菲律賓、泰國及印尼地區。2018年春季賽期後，由LOL
 SEA Tour(LST)代替。
 
 ## 概要

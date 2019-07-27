@@ -1,4 +1,4 @@
-**福克G.I战斗机**（****）是[二战前夕由](https://zh.wikipedia.org/wiki/二战 "wikilink")[荷兰](../Page/荷兰.md "wikilink")[福克公司研发的一种重型双发全金属](../Page/福克公司.md "wikilink")[战斗机](../Page/战斗机.md "wikilink")。设计上集战斗机轰炸机的设计思想于一身。是一种多用途战斗机。1937年3月16日首飞。设计上集战斗机轰炸机的设计思想于一身。是一种多用途战斗机。该机第一次公开亮相是在1936年11月13日的第十五届[巴黎航展](https://zh.wikipedia.org/wiki/巴黎航展 "wikilink")。其革命性的设计迅速引起了轰动。G.I在战前完成了各项测试并装备了[荷兰陆军航空队](https://zh.wikipedia.org/wiki/荷兰陆军航空队 "wikilink")。1940年德军入侵荷兰G.I
+**福克G.I战斗机**（****）是[二战前夕由](https://zh.wikipedia.org/wiki/二战 "wikilink")[荷兰](../Page/荷兰.md "wikilink")[福克公司](../Page/福克公司.md "wikilink")研发的一种重型双发全金属[战斗机](../Page/战斗机.md "wikilink")。设计上集战斗机轰炸机的设计思想于一身。是一种多用途战斗机。1937年3月16日首飞。设计上集战斗机轰炸机的设计思想于一身。是一种多用途战斗机。该机第一次公开亮相是在1936年11月13日的第十五届[巴黎航展](https://zh.wikipedia.org/wiki/巴黎航展 "wikilink")。其革命性的设计迅速引起了轰动。G.I在战前完成了各项测试并装备了[荷兰陆军航空队](https://zh.wikipedia.org/wiki/荷兰陆军航空队 "wikilink")。1940年德军入侵荷兰G.I
 仓促应战击落多架德国战机。荷兰战败后一些G.I
 被编入[纳粹空军](https://zh.wikipedia.org/wiki/纳粹空军 "wikilink")。
 

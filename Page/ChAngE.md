@@ -18,14 +18,14 @@ Girl](../Page/Little_Girl.md "wikilink")》發行約2個月，為miwa於2010年�
 
 《chAngE》是動畫《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十二首主題曲（第266集至第291集），由2010年4月20日開始使用。\[8\]10月12日，該動漫的主題曲換成第十三首，為[SID的](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")《[亂舞的旋律](https://zh.wikipedia.org/wiki/亂舞的旋律 "wikilink")》（）。\[9\]
 
-miwa出席了於同年8月21日播映的《》，首次於電視上演唱《chAngE》。除了這首歌，她也在節目中分別跟[森山良子和](../Page/森山良子.md "wikilink")合唱《》（森山於1976年發行的出道單曲）和《Super
+miwa出席了於同年8月21日播映的《》，首次於電視上演唱《chAngE》。除了這首歌，她也在節目中分別跟[森山良子](../Page/森山良子.md "wikilink")和合唱《》（森山於1976年發行的出道單曲）和《Super
 Folk Song》（矢野於1992年發行的單曲）。\[10\]
 
 同年9月5日，單曲的發行紀念活動——「miwa[輕音樂部](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")」的「第1次部活動」舉行。這個活動要求參加者懂得[電結他](https://zh.wikipedia.org/wiki/電結他 "wikilink")，最終約有300人於官方網站報名，其中20人被抽籤選中，能夠參加這個活動。在活動中，miwa跟這20名電結他手互相交流，並一起演奏《chAngE》。\[11\]
 
 ## 反應
 
-單曲首周唱片銷量約為1.3萬張，於[Oricon公信榜周榜取得第](../Page/Oricon公信榜.md "wikilink")8位，為miwa首次有作品打進周榜頭10位。\[12\]下載銷量方面，《chAngE》在[RIAJ付費音樂下載榜以第](../Page/RIAJ付費音樂下載榜.md "wikilink")4位首次上榜。\[13\]歌曲共上榜六星期，最後一周的排名為第75位。\[14\]2011年7月，這首歌被[日本唱片協會認證為金](../Page/日本唱片協會.md "wikilink")（即累積銷量超過10萬次）。\[15\]
+單曲首周唱片銷量約為1.3萬張，於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")周榜取得第8位，為miwa首次有作品打進周榜頭10位。\[12\]下載銷量方面，《chAngE》在[RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")以第4位首次上榜。\[13\]歌曲共上榜六星期，最後一周的排名為第75位。\[14\]2011年7月，這首歌被[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為金（即累積銷量超過10萬次）。\[15\]
 
 ## 收錄歌曲
 

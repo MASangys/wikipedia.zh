@@ -1,5 +1,5 @@
 **Blackmagic
-Design**是一家来自[澳大利亚的生产](../Page/澳大利亚.md "wikilink")[视频采集卡](https://zh.wikipedia.org/wiki/视频采集卡 "wikilink")、[数字电视](../Page/数字电视.md "wikilink")[摄影机](https://zh.wikipedia.org/wiki/摄影机 "wikilink")、[制作切换台](https://zh.wikipedia.org/wiki/制作切换台 "wikilink")、[硬盘录像机](https://zh.wikipedia.org/wiki/硬盘录像机 "wikilink")、矩阵切换和分配设备、[监看设备等产品的公司](https://zh.wikipedia.org/wiki/监看 "wikilink")。该公司是由[執行長格蘭特](https://zh.wikipedia.org/wiki/執行長 "wikilink")·佩帝（Grant
+Design**是一家来自[澳大利亚](../Page/澳大利亚.md "wikilink")的生产[视频采集卡](https://zh.wikipedia.org/wiki/视频采集卡 "wikilink")、[数字电视](../Page/数字电视.md "wikilink")[摄影机](https://zh.wikipedia.org/wiki/摄影机 "wikilink")、[制作切换台](https://zh.wikipedia.org/wiki/制作切换台 "wikilink")、[硬盘录像机](https://zh.wikipedia.org/wiki/硬盘录像机 "wikilink")、矩阵切换和分配设备、[监看设备等产品的公司](https://zh.wikipedia.org/wiki/监看 "wikilink")。该公司是由[執行長格蘭特](https://zh.wikipedia.org/wiki/執行長 "wikilink")·佩帝（Grant
 Petty）建立的。
 
 ## 产品
@@ -7,7 +7,7 @@ Petty）建立的。
 ### 数字电视摄影机
 
   - Blackmagic Cinema
-    Camera：是一种配有2.5K图像感应器，支持13档动态范围，配备[SSD](https://zh.wikipedia.org/wiki/SSD "wikilink")，支持无压缩以及压缩格式[RAW的兼容EF和ZE卡口镜头的数字电视摄影机](../Page/RAW.md "wikilink")。
+    Camera：是一种配有2.5K图像感应器，支持13档动态范围，配备[SSD](https://zh.wikipedia.org/wiki/SSD "wikilink")，支持无压缩以及压缩格式[RAW](../Page/RAW.md "wikilink")的兼容EF和ZE卡口镜头的数字电视摄影机。
 
 ### 制作切换台
 
@@ -20,7 +20,7 @@ Petty）建立的。
 ### PCIe采集和播放
 
   - DeckLink
-    Studio：是一款兼容[SD和](https://zh.wikipedia.org/wiki/SD "wikilink")[HD的经济型](https://zh.wikipedia.org/wiki/HD "wikilink")[SDI](https://zh.wikipedia.org/wiki/SDI "wikilink")、[HDMI和模拟采集卡](../Page/HDMI.md "wikilink")。
+    Studio：是一款兼容[SD和](https://zh.wikipedia.org/wiki/SD "wikilink")[HD的经济型](https://zh.wikipedia.org/wiki/HD "wikilink")[SDI](https://zh.wikipedia.org/wiki/SDI "wikilink")、[HDMI](../Page/HDMI.md "wikilink")和模拟采集卡。
   - DeckLink Quad：是一款四通道SDI/HD-SDI采集卡。
   - Intensity Pro：是为独立电视制作人设计的HDMI和模拟采集卡。
   - DeckLink HD Extreme
@@ -32,13 +32,13 @@ Petty）建立的。
 ### 采集和播放设备
 
   - Intensity
-    Shuttle：有[USB3.0和](https://zh.wikipedia.org/wiki/USB3.0 "wikilink")[Thunderbolt版本](../Page/Thunderbolt.md "wikilink")，可以进行10bit
+    Shuttle：有[USB3.0和](https://zh.wikipedia.org/wiki/USB3.0 "wikilink")[Thunderbolt](../Page/Thunderbolt.md "wikilink")版本，可以进行10bit
     HDMI和模拟视频制作。
   - UltraStudio Pro：是世界首款支持USB3.0的广播级10 bit制作解决方案。
   - UltraStudio SID：可以在USB3.0电脑上进行SDI采集、播放以及HDMI监视。
   - UltraStudio 3D：可以在Thunderbolt电脑上提供2K和3D采集和播放功能。
   - UltraStudio
-    Express：可以在[Thunderbolt电脑上提供SDI和HDMI的采集和播放](../Page/Thunderbolt.md "wikilink")。
+    Express：可以在[Thunderbolt](../Page/Thunderbolt.md "wikilink")电脑上提供SDI和HDMI的采集和播放。
   - UltraStudio Mini Recorder和Mini Monitor：是袖珍型SDI/HDMI采集或输出产品。
   - UltraStudio 4K：是支持各类音频视频连接的接口箱。
 
@@ -50,7 +50,7 @@ Petty）建立的。
 ### 色彩校正
 
   - DaVinci Resolve：是可用于[Mac OS
-    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux平台的](../Page/Linux.md "wikilink")[调色系统](https://zh.wikipedia.org/wiki/调色系统 "wikilink")。
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")平台的[调色系统](https://zh.wikipedia.org/wiki/调色系统 "wikilink")。
 
 ### 胶片修复
 
@@ -70,7 +70,7 @@ Petty）建立的。
   - Videohub系列：是广播级一体式3 Gb/s
     [SDI](https://zh.wikipedia.org/wiki/SDI "wikilink")[矩阵](../Page/矩阵.md "wikilink")，提供从16
     x 16到72 x 144的多种接口规模。
-  - Videohub控制面板：设备通过[以太网控制](../Page/以太网.md "wikilink")。
+  - Videohub控制面板：设备通过[以太网](../Page/以太网.md "wikilink")控制。
   - Universal
     Videohub：可根据需求，用SDI或[光纤接口插板组建自己的矩阵](https://zh.wikipedia.org/wiki/光纤 "wikilink")，获得24
     x 7的可靠性。

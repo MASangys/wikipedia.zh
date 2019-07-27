@@ -1,5 +1,5 @@
 **Chez Scheme**是一个由[R. Kent
-Dybvig开发的](https://zh.wikipedia.org/wiki/R._Kent_Dybvig "wikilink")[Scheme实现](../Page/Scheme.md "wikilink")，于1985年首次发布。Chez
+Dybvig开发的](https://zh.wikipedia.org/wiki/R._Kent_Dybvig "wikilink")[Scheme](../Page/Scheme.md "wikilink")实现，于1985年首次发布。Chez
 Scheme可以将源代码编译为原生的机器代码，支持[PowerPC](../Page/PowerPC.md "wikilink")、[SPARC](../Page/SPARC.md "wikilink")、[x86和](https://zh.wikipedia.org/wiki/x86 "wikilink")[x86-64处理器架构](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，并提供了一个优秀的[REPL环境](https://zh.wikipedia.org/wiki/REPL "wikilink")。Chez
 Scheme自7.9.1版本开始支持[R6RS](https://zh.wikipedia.org/wiki/R6RS "wikilink")\[1\]。Chez
 Scheme

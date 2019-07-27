@@ -1,12 +1,12 @@
 **貝瑞塔BU9
-Nano**（）是一款由[意大利槍械製造商](../Page/意大利.md "wikilink")[貝瑞塔在](../Page/貝瑞塔.md "wikilink")[美国](../Page/美国.md "wikilink")[马里兰州](../Page/马里兰州.md "wikilink")[阿科基克市的工廠為個人防衛和](https://zh.wikipedia.org/wiki/阿科基克市_\(馬里蘭州\) "wikilink")[執法機關使用而生產的](../Page/警察.md "wikilink")[擊針擊發式袖珍型](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，其最初的設計是以[.40
-S\&W子彈來研製](../Page/.40_S&W.md "wikilink")，但最初推出的版本是採用[9×19毫米子彈](../Page/9×19mm魯格彈.md "wikilink")，自[2011年10月起向市場推出](../Page/2011年10月.md "wikilink")，發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
+Nano**（）是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")在[美国](../Page/美国.md "wikilink")[马里兰州](../Page/马里兰州.md "wikilink")[阿科基克市的工廠為個人防衛和](https://zh.wikipedia.org/wiki/阿科基克市_\(馬里蘭州\) "wikilink")[執法機關使用而生產的](../Page/警察.md "wikilink")[擊針擊發式袖珍型](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，其最初的設計是以[.40
+S\&W子彈來研製](../Page/.40_S&W.md "wikilink")，但最初推出的版本是採用[9×19毫米子彈](../Page/9×19mm魯格彈.md "wikilink")，自[2011年10月](../Page/2011年10月.md "wikilink")起向市場推出，發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
 S\&W這兩種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 設計細節
 
 貝瑞塔BU9
-Nano是一把為了而設計的緊湊型槍械。它具有一個的高科技[聚合物](../Page/聚合物.md "wikilink")[底把和Pronox](../Page/机匣.md "wikilink")[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。Pronox是一個類似於特尼弗（Tenifer，在其中包括[格洛克和](../Page/格洛克.md "wikilink")[春田XD系列手槍以上使用](../Page/HS2000手槍.md "wikilink")）和Melonite（在其中包括[史密斯威森M\&P系列手槍以上使用](../Page/史密斯威森軍警型半自動手槍.md "wikilink")）的處理。它目前在加州不可銷售。
+Nano是一把為了而設計的緊湊型槍械。它具有一個的高科技[聚合物](../Page/聚合物.md "wikilink")[底把和Pronox](../Page/机匣.md "wikilink")[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。Pronox是一個類似於特尼弗（Tenifer，在其中包括[格洛克](../Page/格洛克.md "wikilink")和[春田XD系列手槍以上使用](../Page/HS2000手槍.md "wikilink")）和Melonite（在其中包括[史密斯威森M\&P系列手槍以上使用](../Page/史密斯威森軍警型半自動手槍.md "wikilink")）的處理。它目前在加州不可銷售。
 
 BU9 Nano的設計中具有與底把分離的連序列號底盤，一個值得注意的是在[SIG Sauer
 P250系列手槍以上也可以發現的不尋常功能](../Page/SIG_P250手槍.md "wikilink")。這樣容許貝瑞塔在未來提供額外的底把，允許多種握把和顏色選擇。底盤是可拆卸的，而且可以裝在替代底把上。
@@ -19,19 +19,19 @@ P250系列手槍以上也可以發現的不尋常功能](../Page/SIG_P250手槍.
 Nano手槍的[套筒除了不採用頂部敞開式套筒設計外](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，也不再採用圓滑外形的套筒設計，而是近似方形橫截面的頂部封閉式套筒設計。套筒左側刻有貝瑞塔商標，右側則刻有「BU9
 Nano」和「美國製造」的字樣，表明其是專門面對美國警用和民用市場。
 
-套筒採用4140號[不鏽鋼打造而成](../Page/不鏽鋼.md "wikilink")，表面進行了[氮化處理](../Page/氮.md "wikilink")。雖然是一款[袖珍手槍](https://zh.wikipedia.org/wiki/袖珍手槍 "wikilink")，但在BU9
+套筒採用4140號[不鏽鋼](../Page/不鏽鋼.md "wikilink")打造而成，表面進行了[氮](../Page/氮.md "wikilink")化處理。雖然是一款[袖珍手槍](https://zh.wikipedia.org/wiki/袖珍手槍 "wikilink")，但在BU9
 Nano的套筒上方的瞄準具卻並沒有縮小，而是低輪廓的[三點式瞄具](https://zh.wikipedia.org/wiki/三點式瞄具 "wikilink")，保障了瞄準[精度](../Page/準確與精密.md "wikilink")。準星和照門均採用了燕尾槽進行固定，瞄具後方設有氚光管便於夜間瞄準。
 
-套筒座中的[復進簧和復進簧導桿採用與](https://zh.wikipedia.org/wiki/復進簧 "wikilink")[瓦爾特PPS手槍相同的雙復進簧和雙復進簧導桿設計](../Page/瓦爾特PPS手槍.md "wikilink")，其由兩部份所組成——一根細的復進簧導桿將一根細的復進簧套著，而另一根粗的中空復進簧導管將細復進簧及其導桿的一部份套著，中空復進簧導管外又纏繞著一根粗的復進簧，這樣設計保證了有足夠的簧力，可以承受發射大威力手槍彈時帶來的壓力，使機構動作更加可靠。
+套筒座中的[復進簧和復進簧導桿採用與](https://zh.wikipedia.org/wiki/復進簧 "wikilink")[瓦爾特PPS手槍](../Page/瓦爾特PPS手槍.md "wikilink")相同的雙復進簧和雙復進簧導桿設計，其由兩部份所組成——一根細的復進簧導桿將一根細的復進簧套著，而另一根粗的中空復進簧導管將細復進簧及其導桿的一部份套著，中空復進簧導管外又纏繞著一根粗的復進簧，這樣設計保證了有足夠的簧力，可以承受發射大威力手槍彈時帶來的壓力，使機構動作更加可靠。
 
 ### 槍管組件
 
-[钢製槍管表面也進行了](../Page/钢.md "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，無論是9毫米口徑還是.40
+[钢](../Page/钢.md "wikilink")製槍管表面也進行了[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，無論是9毫米口徑還是.40
 S\&W口徑，槍管內部都設有6條右旋[膛線](../Page/膛線.md "wikilink")。槍管尾部刻有口徑銘文。
 
 ### 套筒座組件
 
-[套筒座組件採用](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[聚合物製造](../Page/聚合物.md "wikilink")。[扳機護圈設計暗藏匠心](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。其採用超大設計，適合所有人群，甚至帶著手套也能射擊。握把後方和前方都設有防滑顆粒，兩側刻有商標和手槍名稱銘文。
+[套筒座組件採用](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[聚合物](../Page/聚合物.md "wikilink")製造。[扳機護圈設計暗藏匠心](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。其採用超大設計，適合所有人群，甚至帶著手套也能射擊。握把後方和前方都設有防滑顆粒，兩側刻有商標和手槍名稱銘文。
 
 ### 擊發機構
 
@@ -52,7 +52,7 @@ Nano手槍具有空槍挂機功能，但由於在套筒座上並沒有設計空�
 ### 彈匣
 
 貝瑞塔BU9
-Nano的標準單排[彈匣容彈量為](../Page/彈匣.md "wikilink")6發，而手槍[膛室亦上膛時的總容量為](../Page/膛室.md "wikilink")7發。該槍的.40
+Nano的標準單排[彈匣](../Page/彈匣.md "wikilink")容彈量為6發，而手槍[膛室](../Page/膛室.md "wikilink")亦上膛時的總容量為7發。該槍的.40
 S\&W的版本的彈匣容量被設計成有著相同的6+1發 容量。
 
 當安裝標準彈匣後，手形較大的使用者抓握握把時小手指會露在外面，對握持會造成一定不便，為此貝瑞塔公司還提供了一款裝上了延長彈匣底座的8發彈匣，插入這款彈匣後相當於延長了握把的長度，符合手形較大的使用者的需要。
@@ -60,7 +60,7 @@ S\&W的版本的彈匣容量被設計成有著相同的6+1發 容量。
 ### 不完全分解
 
 貝瑞塔BU9
-Nano手槍的槍身分解旋鈕設計在[套筒座右側](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、拋殼口下方，使用工具（例如彈殼底緣等）將其向[順時針方向轉動](../Page/順時針方向.md "wikilink")90[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，然後向前取下套筒，繼而從套筒內取出槍管和復進簧組件，即可完成[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。
+Nano手槍的槍身分解旋鈕設計在[套筒座右側](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、拋殼口下方，使用工具（例如彈殼底緣等）將其向[順時針方向](../Page/順時針方向.md "wikilink")轉動90[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，然後向前取下套筒，繼而從套筒內取出槍管和復進簧組件，即可完成[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。
 
 ### 附件
 

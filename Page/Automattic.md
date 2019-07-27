@@ -12,7 +12,7 @@ Inc.**是一家[網頁程式設計](https://zh.wikipedia.org/wiki/網頁程式�
   - [bbPress](https://zh.wikipedia.org/wiki/bbPress "wikilink") –
     [論壇軟件](https://zh.wikipedia.org/wiki/論壇 "wikilink")
   - [blo.gs](https://zh.wikipedia.org/wiki/blo.gs "wikilink") –
-    [RSS訂閱聚合器](../Page/RSS.md "wikilink")
+    [RSS](../Page/RSS.md "wikilink")訂閱聚合器
   - [BuddyPress](https://zh.wikipedia.org/wiki/BuddyPress "wikilink") –
     [社交網絡插件](https://zh.wikipedia.org/wiki/社交網絡 "wikilink")
   - [Ping-O-Matic](https://zh.wikipedia.org/wiki/Ping-O-Matic "wikilink")

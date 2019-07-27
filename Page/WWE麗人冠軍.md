@@ -1,5 +1,5 @@
 **WWE麗人冠軍**（），是隸屬於[世界摔角娛樂的一女子冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")。它成立於2008年，為時任[WWE
-SmackDown](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")[薇琪·葛雷洛替代](../Page/薇琪·葛雷洛.md "wikilink")[WWE女子冠軍的冠軍項目](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")。\[1\]在擊敗了[娜塔莉雅](../Page/娜塔莉雅.md "wikilink")，成為了首屆WWE女子冠軍。而在，在被指定到[Raw品牌後](../Page/WWE_Raw.md "wikilink")，她擊敗了蜜雪兒·麥庫爾成為WWE麗人冠軍。蜜雪兒·麥庫爾擊敗成為WWE女子冠軍後，她進而在2010年9月19日舉行的[冠軍之夜擊敗了當時WWE麗人冠軍](../Page/冠軍之夜.md "wikilink")，並且統一了兩個女子冠軍項目，稱為WWE統一麗人冠軍。然而在2016年的[摔角狂熱上](../Page/摔角狂熱.md "wikilink")，由[WWE名人堂女子選手](https://zh.wikipedia.org/wiki/WWE名人堂 "wikilink")宣布此冠軍腰帶將被舊有的[WWE女子冠軍頭銜而取代](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")，並且是全新的腰帶設計，勝利者將從當晚女子選手三方威脅戰的勝利者能贏得，最後，由[Charlotte獲勝](https://zh.wikipedia.org/wiki/Charlotte "wikilink")，並成功衛冕前冠軍腰帶之記錄天數，成為史上第一位全新女子冠軍保持者。
+SmackDown](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")[薇琪·葛雷洛](../Page/薇琪·葛雷洛.md "wikilink")替代[WWE女子冠軍的冠軍項目](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")。\[1\]在擊敗了[娜塔莉雅](../Page/娜塔莉雅.md "wikilink")，成為了首屆WWE女子冠軍。而在，在被指定到[Raw品牌後](../Page/WWE_Raw.md "wikilink")，她擊敗了蜜雪兒·麥庫爾成為WWE麗人冠軍。蜜雪兒·麥庫爾擊敗成為WWE女子冠軍後，她進而在2010年9月19日舉行的[冠軍之夜](../Page/冠軍之夜.md "wikilink")擊敗了當時WWE麗人冠軍，並且統一了兩個女子冠軍項目，稱為WWE統一麗人冠軍。然而在2016年的[摔角狂熱](../Page/摔角狂熱.md "wikilink")上，由[WWE名人堂女子選手](https://zh.wikipedia.org/wiki/WWE名人堂 "wikilink")宣布此冠軍腰帶將被舊有的[WWE女子冠軍頭銜而取代](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")，並且是全新的腰帶設計，勝利者將從當晚女子選手三方威脅戰的勝利者能贏得，最後，由[Charlotte獲勝](https://zh.wikipedia.org/wiki/Charlotte "wikilink")，並成功衛冕前冠軍腰帶之記錄天數，成為史上第一位全新女子冠軍保持者。
 
 ## 歷史
 
@@ -16,7 +16,7 @@ SmackDown](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")
 [Paige_WWE_Divas_Champion.jpg](https://zh.wikipedia.org/wiki/File:Paige_WWE_Divas_Champion.jpg "fig:Paige_WWE_Divas_Champion.jpg")\]\]
 WWE麗人冠軍的首任冠軍，是2008年獲勝的，而曾有18位選手成為WWE麗人冠軍。WWE麗人冠軍的最長連任時間保持人是[Nikki
 Bella](https://zh.wikipedia.org/wiki/Nikki_Bella "wikilink")，其記錄從2014年11月23日到2015年9月19日，共計301天。WWE麗人冠軍的最短連任時間保持人是，其記錄為4分30秒。WWE麗人冠軍的最年長冠軍王者是34歲的[Layla
-El](https://zh.wikipedia.org/wiki/Layla_El "wikilink")，最年輕冠軍王者是21歲的[Paige](https://zh.wikipedia.org/wiki/Paige "wikilink")。WWE麗人冠軍的最多勝利次數保持人是[伊芙·朵芮絲和](../Page/伊芙·朵芮絲.md "wikilink")[AJ
+El](https://zh.wikipedia.org/wiki/Layla_El "wikilink")，最年輕冠軍王者是21歲的[Paige](https://zh.wikipedia.org/wiki/Paige "wikilink")。WWE麗人冠軍的最多勝利次數保持人是[伊芙·朵芮絲](../Page/伊芙·朵芮絲.md "wikilink")和[AJ
 Lee](https://zh.wikipedia.org/wiki/AJ_Lee "wikilink")，其記錄為3次。
 
 ## 參考文獻

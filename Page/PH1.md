@@ -1,7 +1,7 @@
 \[1\] |semi-amp = 20.69 ± 0.31 ×10<sup>3</sup> \[2\] }}
 
 **PH1**（Planet Hunters
-1），或稱為**克卜勒64b**（**Kepler-64b**）\[3\]是一顆環繞[四重星系統內其中一組](../Page/聚星.md "wikilink")[聯星的](../Page/聯星.md "wikilink")[環聯星運轉行星](https://zh.wikipedia.org/wiki/環聯星運轉行星 "wikilink")。該行星是由參與[行星獵人計畫的兩位業餘天文學家在一組各國天文學家中來自](../Page/行星獵人.md "wikilink")[耶魯大學的成員幫助下分析來自](https://zh.wikipedia.org/wiki/耶魯大學 "wikilink")[克卜勒太空望遠鏡的資料發現](../Page/克卜勒太空望遠鏡.md "wikilink")。該行星於2012年10月15日宣布發現\[4\]\[5\]，是以[凌日法在四重星系統中發現的第一顆行星](https://zh.wikipedia.org/wiki/凌日法 "wikilink")\[6\]，也是在四重星系統中發現的首顆環聯星運轉行星\[7\]，更是四重星系統中發現的第一顆行星。該行星也是行星獵人計畫確認發現的第一顆行星\[8\]。
+1），或稱為**克卜勒64b**（**Kepler-64b**）\[3\]是一顆環繞[四重星系統內其中一組](../Page/聚星.md "wikilink")[聯星](../Page/聯星.md "wikilink")的[環聯星運轉行星](https://zh.wikipedia.org/wiki/環聯星運轉行星 "wikilink")。該行星是由參與[行星獵人](../Page/行星獵人.md "wikilink")計畫的兩位業餘天文學家在一組各國天文學家中來自[耶魯大學的成員幫助下分析來自](https://zh.wikipedia.org/wiki/耶魯大學 "wikilink")[克卜勒太空望遠鏡](../Page/克卜勒太空望遠鏡.md "wikilink")的資料發現。該行星於2012年10月15日宣布發現\[4\]\[5\]，是以[凌日法在四重星系統中發現的第一顆行星](https://zh.wikipedia.org/wiki/凌日法 "wikilink")\[6\]，也是在四重星系統中發現的首顆環聯星運轉行星\[7\]，更是四重星系統中發現的第一顆行星。該行星也是行星獵人計畫確認發現的第一顆行星\[8\]。
 
 ## 發現
 
@@ -13,7 +13,7 @@ Gagliano）在克卜勒太空望遠鏡觀測資料中找到了行星存在的特
 
 ## 系統狀況
 
-PH1是一顆體積相當於海王星的巨大行星，質量大約是地球的20到55倍，半徑是地球的6.2倍，距離地球約5000光年\[11\]\[12\]\[13\]\[14\]。PH1環繞著一對成員星之間距離相當近的[聯星系統](../Page/聯星.md "wikilink")，並且有另一組[聯星在相當遠的距離環繞PH](../Page/聯星.md "wikilink")1所環繞的聯星，因此成為[四重星系統](../Page/聚星.md "wikilink")。這個恆星系統在克卜勒任務的目錄中編號為「[KIC
+PH1是一顆體積相當於海王星的巨大行星，質量大約是地球的20到55倍，半徑是地球的6.2倍，距離地球約5000光年\[11\]\[12\]\[13\]\[14\]。PH1環繞著一對成員星之間距離相當近的[聯星](../Page/聯星.md "wikilink")系統，並且有另一組[聯星](../Page/聯星.md "wikilink")在相當遠的距離環繞PH1所環繞的聯星，因此成為[四重星系統](../Page/聚星.md "wikilink")。這個恆星系統在克卜勒任務的目錄中編號為「[KIC
 4862625](https://zh.wikipedia.org/wiki/#Ph1 "wikilink")」，即[克卜勒64](https://zh.wikipedia.org/wiki/#Ph1 "wikilink")。系統中
 PH1 環繞的距離相當近的聯星系統（後綴
 Aa+Ab）兩者軌道週期20日，因此是[食雙星](https://zh.wikipedia.org/wiki/食雙星 "wikilink")\[15\]。兩顆恆星中Aa星是1.5倍太陽質量的[黃-白矮星](https://zh.wikipedia.org/wiki/黃-白矮星 "wikilink")，光譜型

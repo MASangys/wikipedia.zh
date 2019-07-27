@@ -1,6 +1,6 @@
-是由[世嘉開發的](../Page/世嘉.md "wikilink")[足球](../Page/足球.md "wikilink")[手機游戏](https://zh.wikipedia.org/wiki/手機游戏 "wikilink")。本作取得了「FIFPro」(國際職業足球員協會)正式授權，并於2013年在日本发行，2014年由代理公司[智傲網絡娛樂在香港地区分别於](https://zh.wikipedia.org/wiki/智傲網絡娛樂 "wikilink")7月23日及7月30日在Android平台和iOS平台上推出。\[1\]
+是由[世嘉](../Page/世嘉.md "wikilink")開發的[足球](../Page/足球.md "wikilink")[手機游戏](https://zh.wikipedia.org/wiki/手機游戏 "wikilink")。本作取得了「FIFPro」(國際職業足球員協會)正式授權，并於2013年在日本发行，2014年由代理公司[智傲網絡娛樂在香港地区分别於](https://zh.wikipedia.org/wiki/智傲網絡娛樂 "wikilink")7月23日及7月30日在Android平台和iOS平台上推出。\[1\]
 
-《創造球會》最早推出於96年在[世嘉土星上推出名為](../Page/世嘉土星.md "wikilink")《J LEAGUE
+《創造球會》最早推出於96年在[世嘉土星](../Page/世嘉土星.md "wikilink")上推出名為《J LEAGUE
 创造球会》，其後於2002年於PS2、DC上推出了《創造球會2002》，經過11年終於在手機平台登場。\[2\]
 
 ## 大事記

@@ -1,4 +1,4 @@
-《**飛虎II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬德鐘](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[羅仲謙領銜主演](../Page/羅仲謙.md "wikilink")，並由[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")、[袁偉豪及](../Page/袁偉豪.md "wikilink")[苟芸慧聯合主演](../Page/苟芸慧.md "wikilink")，監製[林志華](../Page/林志華.md "wikilink")。此劇為《[飛虎](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")》的[續集](https://zh.wikipedia.org/wiki/續集 "wikilink")，為第18屆香港國際影視展中無綫電視所推介的19部劇集之一，亦為**無綫電視邁向48週年（2014年）台慶劇**。此劇是[鄧健泓](../Page/鄧健泓.md "wikilink")、[高鈞賢](../Page/高鈞賢.md "wikilink")、[蔡淇俊在無線電視的告別作](../Page/蔡淇俊.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
+《**飛虎II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬德鐘](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[羅仲謙](../Page/羅仲謙.md "wikilink")領銜主演，並由[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[苟芸慧](../Page/苟芸慧.md "wikilink")聯合主演，監製[林志華](../Page/林志華.md "wikilink")。此劇為《[飛虎](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")》的[續集](https://zh.wikipedia.org/wiki/續集 "wikilink")，為第18屆香港國際影視展中無綫電視所推介的19部劇集之一，此劇是**無線邁向48週年台慶劇（不是正統）**，亦是[鄧健泓](../Page/鄧健泓.md "wikilink")、[高鈞賢](../Page/高鈞賢.md "wikilink")、[蔡淇俊](../Page/蔡淇俊.md "wikilink")在無線電視的告別作。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 演員表
 
@@ -191,7 +191,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
 <td><p><strong>鍾韋恩</strong></p></td>
-<td><p><strong>Mad姐（<a href="../Page/船長.md" title="wikilink">船長專稱</a>）</strong><br />
+<td><p><strong>Mad姐（<a href="../Page/船長.md" title="wikilink">船長</a>專稱）</strong><br />
 警长／前臥底<br />
 孤兒<br />
 與展瀚韜互生情愫<br />
@@ -483,7 +483,7 @@
 <td><p><strong>曼</strong></p></td>
 <td><p><strong>Mandy</strong><br />
 失明人士<br />
-表面為<a href="../Page/運動用品.md" title="wikilink">運動用品公司員工</a>，實為劫匪，專門劫富濟貧<br />
+表面為<a href="../Page/運動用品.md" title="wikilink">運動用品</a>公司員工，實為劫匪，專門劫富濟貧<br />
 於第3集被捕</p></td>
 </tr>
 <tr class="even">
@@ -952,7 +952,7 @@ A Team飛虎隊之好友<br />
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |             |          |          |
 | ------ | ------ | ----------- | -------- | -------- |
@@ -1075,6 +1075,8 @@ A Team飛虎隊之好友<br />
 
   - [飛虎II - myTV
     SUPER](http://programme.mytvsuper.com/tc/116382/飛虎-ii/casts)
+  - [飛虎II -
+    encoreTVB](https://encoretvb.com/cantonese/series/A2Rlw84n-Tiger_Cubs_II)
 
 ## 電視節目的變遷
 

@@ -1,4 +1,4 @@
-**Viagogo**是一個線上交易平台。该公司于2006年成立于英国伦敦，在全球營運超過60個網站，顧客來自160個以上不同國家。Viagogo的投资人包括[风险投资公司Index](../Page/风险投资.md "wikilink")
+**Viagogo**是一個線上交易平台。该公司于2006年成立于英国伦敦，在全球營運超過60個網站，顧客來自160個以上不同國家。Viagogo的投资人包括[风险投资](../Page/风险投资.md "wikilink")公司Index
 Ventures、 Lastminute.com的创始人和前執行長布蘭特·赫伯曼（Brent
 Hoberman），以及罗斯柴尔德家族的賈克伯·羅斯柴爾德（Lord
 Jacob

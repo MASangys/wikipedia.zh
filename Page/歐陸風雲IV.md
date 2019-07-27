@@ -1,6 +1,6 @@
 《**歐陸風雲IV**》（）是由[Paradox Development
 Studio開發的](../Page/Paradox_Development_Studio.md "wikilink")[即時戰略遊戲](../Page/即时战略游戏.md "wikilink")，在2013年8月13日由[Paradox
-Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風雲III](../Page/歐陸風雲III.md "wikilink")》的后续版本，以[1444年到](../Page/1444年.md "wikilink")[1821年](https://zh.wikipedia.org/wiki/1821年 "wikilink")，歷經[大航海時代](https://zh.wikipedia.org/wiki/大航海時代 "wikilink")、[文藝復興](https://zh.wikipedia.org/wiki/文藝復興 "wikilink")、西歐殖民時代、至[法國大革命的歐洲關鍵時代為背景的歷史戰略遊戲](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")。玩家可以扮演這段時期“全球任何一個國家”；東起[日本](../Page/日本.md "wikilink")、西至[美洲新大陸](../Page/美洲.md "wikilink")，這些國家的未來，端看玩家是順應局勢變為[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[霸主](https://zh.wikipedia.org/wiki/霸主 "wikilink")、或通過穷兵黩武成為[軍事](../Page/軍事.md "wikilink")[帝國](https://zh.wikipedia.org/wiki/帝國 "wikilink")。
+Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風雲III](../Page/歐陸風雲III.md "wikilink")》的后续版本，以[1444年](../Page/1444年.md "wikilink")到[1821年](https://zh.wikipedia.org/wiki/1821年 "wikilink")，背景由1444年11月尾，[波蘭國王](https://zh.wikipedia.org/wiki/波蘭國王 "wikilink")[瓦迪斯瓦夫三世·雅蓋隆契克遠征](https://zh.wikipedia.org/wiki/瓦迪斯瓦夫三世·雅蓋隆契克 "wikilink")[鄂圖曼帝國在](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")[瓦尔納戰役中戰死開始](https://zh.wikipedia.org/wiki/瓦尔納戰役 "wikilink")，歷經[大航海時代](https://zh.wikipedia.org/wiki/大航海時代 "wikilink")、[文藝復興](https://zh.wikipedia.org/wiki/文藝復興 "wikilink")、西歐殖民時代、至[法國大革命的歐洲關鍵時代為背景的歷史戰略遊戲](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")。玩家可以扮演這段時期“全球任何一個國家”；東起[日本](../Page/日本.md "wikilink")、西至[美洲](../Page/美洲.md "wikilink")新大陸，這些國家的未來，端看玩家是順應局勢變為[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[霸主](https://zh.wikipedia.org/wiki/霸主 "wikilink")、或通過穷兵黩武成為[軍事](../Page/軍事.md "wikilink")[帝國](https://zh.wikipedia.org/wiki/帝國 "wikilink")。
 
 ## 遊戲內容
 
@@ -153,7 +153,7 @@ Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風
 <td><p>主要变化：新大陆、外交界面</p>
 <ul>
 <li><strong>重要更新：增加隨機新大陸功能</strong></li>
-<li><strong>重要更新：加強<a href="../Page/附庸國.md" title="wikilink">附庸功能並為此新增介面</a>，可於該介面中管理玩家的<a href="https://zh.wikipedia.org/wiki/保护国" title="wikilink">保護國和</a><a href="../Page/殖民地.md" title="wikilink">殖民地政府</a></strong></li>
+<li><strong>重要更新：加強<a href="../Page/附庸國.md" title="wikilink">附庸功能並為此新增介面</a>，可於該介面中管理玩家的<a href="https://zh.wikipedia.org/wiki/保护国" title="wikilink">保護國和</a><a href="../Page/殖民地.md" title="wikilink">殖民地</a>政府</strong></li>
 <li>增加北美洲原住民的決議及相關事件</li>
 </ul></td>
 </tr>
@@ -194,7 +194,7 @@ Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風
 <td><p>主要变化：运河决议、贸易公司、商业共和政体</p>
 <ul>
 <li><strong>重要更新：增加宿敵及力量投射系統</strong></li>
-<li>建設<a href="../Page/运河.md" title="wikilink">运河決議及相關事件</a>（包括<a href="../Page/苏伊士运河.md" title="wikilink">苏伊士运河</a>、<a href="../Page/巴拿马运河.md" title="wikilink">巴拿马运河與</a><a href="../Page/基爾運河.md" title="wikilink">基爾運河</a>）</li>
+<li>建設<a href="../Page/运河.md" title="wikilink">运河</a>決議及相關事件（包括<a href="../Page/苏伊士运河.md" title="wikilink">苏伊士运河</a>、<a href="../Page/巴拿马运河.md" title="wikilink">巴拿马运河</a>與<a href="../Page/基爾運河.md" title="wikilink">基爾運河</a>）</li>
 <li>加強<a href="../Page/海上共和国.md" title="wikilink">商業共和制</a></li>
 <li><strong>重要更新：增加貿易公司系統（如<a href="https://zh.wikipedia.org/wiki/東印度公司" title="wikilink">東印度公司</a></strong>）</li>
 </ul></td>
@@ -248,7 +248,7 @@ Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風
 <td><p>无</p></td>
 <td><p>主要变化：欧洲事件组、外交界面、AI</p>
 <ul>
-<li>增加更多<a href="../Page/三十年戰爭.md" title="wikilink">三十年戰爭和</a><a href="../Page/拿破仑时代.md" title="wikilink">拿破仑时代相關事件</a></li>
+<li>增加更多<a href="../Page/三十年戰爭.md" title="wikilink">三十年戰爭</a>和<a href="../Page/拿破仑时代.md" title="wikilink">拿破仑时代</a>相關事件</li>
 <li><strong>重大更新：加強外交功能並擴大地圖省份將近2倍</strong></li>
 <li>修改叛亂和戰鬥機制並增強AI</li>
 <li><strong>重要更新：增加新附庸類型——衛戍國（March）</strong></li>

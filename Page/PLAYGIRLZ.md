@@ -10,7 +10,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
   - 新曲《Shampoo (Japan Ver.)》是After
     School首張正規專輯《[VIRGIN](../Page/VIRGIN.md "wikilink")》主打歌曲《Shampoo》的日語版本；
   - 新曲《上海ロマンス (Japan Ver.)》是After
-    School的子團體[橙子焦糖第二張單曲](../Page/橙子焦糖.md "wikilink")《上海之戀》的日語版本，此曲同時亦是橙子焦糖第1枚原創日語專輯《ORANGE
+    School的子團體[橙子焦糖](../Page/橙子焦糖.md "wikilink")第二張單曲《上海之戀》的日語版本，此曲同時亦是橙子焦糖第1枚原創日語專輯《ORANGE
     CARAMEL》的收錄曲之一。
   - 新曲《Rip off》往後成為After
     School第五張單曲《[FLASHBACK](../Page/FLASHBACK.md "wikilink")》的收錄曲。
@@ -19,7 +19,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     BLITZ」；「CD+DVD Music Video Ed.」收錄了《Let's Do It》、《Bang\!》、《Tap
     Slap》、《DIVA》、《Rambling girls》和《上海之戀》的PV，以及片段「Special footage
     of AFTERSCHOOL」。
-  - 在3月26日於[Oricon公信榜專輯每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")8位。
+  - 在3月26日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯每週排行榜取得第8位。
 
 ## 收錄內容
 

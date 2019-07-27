@@ -1,9 +1,9 @@
-**OLDCODEX**（）是由歌手[Ta_2與畫家YORKE](../Page/鈴木達央.md "wikilink").所組成的[日本樂團](../Page/日本.md "wikilink")，簡稱「OCD」。所屬唱片公司為
+**OLDCODEX**（）是由歌手[Ta_2與畫家YORKE](../Page/鈴木達央.md "wikilink").所組成的[日本](../Page/日本.md "wikilink")樂團，簡稱「OCD」。所屬唱片公司為
 **[Lantis](../Page/Lantis.md "wikilink")** 。
 
 ## 概要
 
-  - 組成的契機為[聲優](../Page/聲優.md "wikilink")[鈴木達央以歌手而非聲優名義進行演唱活動的樂團計畫](../Page/鈴木達央.md "wikilink")。
+  - 組成的契機為[聲優](../Page/聲優.md "wikilink")[鈴木達央](../Page/鈴木達央.md "wikilink")以歌手而非聲優名義進行演唱活動的樂團計畫。
   - 初期成員為[Ta_2（鈴木達央](../Page/鈴木達央.md "wikilink")），以及之前就曾替Ta_2撰寫過大量詞曲的、和
     sae（三枝和人），共四人。
   - 團名是由「OLD」與「CODEX」兩個單字所組成，意思分別是「古老的」和「聖經的手抄本」。
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - 2009年12月，GloryHeaven發表「[重製聲明](../Page/重製.md "wikilink")」，『OLDCODEX』全部召回絕版，再版發售日期為隔年2月24日。
+  - 2009年12月，GloryHeaven發表「[重製](../Page/重製.md "wikilink")聲明」，『OLDCODEX』全部召回絕版，再版發售日期為隔年2月24日。
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   - 2013年7月，第七支單曲『**[Rage
-    on](../Page/Rage_on.md "wikilink")**』成為[京都動畫所製作的動畫](../Page/京都動畫.md "wikilink")『[Free\!](../Page/Free!.md "wikilink")』之片頭曲。這是OLDCODEX首支被作為動畫片頭曲，也是首次登上
+    on](../Page/Rage_on.md "wikilink")**』成為[京都動畫](../Page/京都動畫.md "wikilink")所製作的動畫『[Free\!](../Page/Free!.md "wikilink")』之片頭曲。這是OLDCODEX首支被作為動畫片頭曲，也是首次登上
     ORICON
     公信榜[前十名](http://www.oricon.co.jp/rank/js/w/2013-07-29/)的歌曲。作曲由
     Ta_2 擔任。
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   - 2014年2月～3月，首次舉行全國的巡迴演唱會「OLDCODEX Zepp Tour 2014 -Attract the
-    Attack-」，分別於[東京](../Page/東京都.md "wikilink")、[福岡](../Page/福岡市.md "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[難波四個地區舉行](../Page/難波.md "wikilink")。
+    Attack-」，分別於[東京](../Page/東京都.md "wikilink")、[福岡](../Page/福岡市.md "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[難波](../Page/難波.md "wikilink")四個地區舉行。
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@
 
 <!-- end list -->
 
-  - 2015年2月11日，首次登上[日本武道館舉行演唱會](../Page/日本武道館.md "wikilink")「OLDCODEX
+  - 2015年2月11日，首次登上[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會「OLDCODEX
     "Capture" 2015 in BUDOKAN」。
 
 <!-- end list -->
@@ -158,7 +158,7 @@
 <!-- end list -->
 
   - 2016年4月9日，特別節目「OLDCODEX Veni
-    Vidi」於[BS富士全國播映](../Page/BS富士.md "wikilink")\[5\]，該節目紀錄了本團的經歷及日本武道館和
+    Vidi」於[BS富士](../Page/BS富士.md "wikilink")全國播映\[5\]，該節目紀錄了本團的經歷及日本武道館和
     Legacy Taipei 兩場演唱會的片段及彩排過程。全長90分鐘（含廣告）。
 
 <!-- end list -->
@@ -169,7 +169,7 @@
 <!-- end list -->
 
   - 2016年7月3日，出演由 [Anime Consortium
-    Japan](../Page/DAISUKI.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")、[雅慕斯](../Page/Amuse.md "wikilink")、[萬代影視與](../Page/萬代影視.md "wikilink")[萬代南夢宮Live
+    Japan](../Page/DAISUKI.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")、[雅慕斯](../Page/Amuse.md "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")與[萬代南夢宮Live
     Creative聯合舉辦的](../Page/萬代影視.md "wikilink")「Anisong World Matsuri "祭"
     \~Japan Band Battle\~」。
 
@@ -188,7 +188,7 @@
 <!-- end list -->
 
   -
-    10月10日，於山口巡演的[安可時段表演](../Page/安可.md "wikilink")『Kick out』時， YORKE.
+    10月10日，於山口巡演的[安可](../Page/安可.md "wikilink")時段表演『Kick out』時， YORKE.
     不慎摔落舞台導致挫傷昏迷\[6\]，巡演以不完美的形式收場。到院急救後已恢復意識，但經全面診查後，查出 YORKE.
     有[腦震盪](../Page/腦震盪.md "wikilink")、[肋骨](../Page/肋骨.md "wikilink")[骨折](../Page/骨折.md "wikilink")、左[三角纖維軟骨及左](https://zh.wikipedia.org/wiki/軟骨 "wikilink")[大腿筋骨損傷](https://zh.wikipedia.org/wiki/大腿 "wikilink")\[7\]，需住院觀察，官方於12日宣布原15日舉行的福岡巡演延期，日期再議。
     10月14日，在 YORKE. 受傷靜養和為了宣傳上海巡演的情況下， Ta_2 一個人前往
@@ -260,7 +260,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2018年4月3日（<a href="../Page/Mora.md" title="wikilink">Mora先行</a>）[16]<br />
+<td><p>2018年4月3日（<a href="../Page/Mora.md" title="wikilink">Mora</a>先行）[16]<br />
 2018年4月7日（正式發行）</p></td>
 <td><p><strong>One Side</strong></p></td>
 <td></td>
@@ -1095,7 +1095,7 @@ LACA-35561<br />
     山口公演に関して](https://www.oldcodex.com/news_all/live-event/161010.html)・2016年10月10日
 7.  [OLDCODEX Tour 2016-2017 "FIXED
     ENGINE"山口公演および福岡公演に関してのお知らせ](https://www.oldcodex.com/news_all/live-event/161012-1.html)・2016年10月12日
-8.  位於[東京都](../Page/東京都.md "wikilink")[千代田區外神田](../Page/千代田區.md "wikilink")1-15-16，[秋葉原
+8.  位於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")外神田1-15-16，[秋葉原
     Radio 會館](../Page/秋葉原無線電會館.md "wikilink")9樓
 9.  [Live on the bilibili made Ta_2, Yorke sent a message to
     everyone.](https://www.facebook.com/PainterYORKE/posts/1114937335260714)・2016年10月17日

@@ -14,7 +14,7 @@ Basic。而在同年8月，UJin亦從其粉絲團「89LAND」中宣佈自己退�
 ### 2012年：出道、《Luv Me》
 
 在2012年7月2日，D-Unit推出了〈I'm Missin' You〉的成員UJin的預告\[1\]。4日，[D-Business
-Entertainment正式公布了D](https://zh.wikipedia.org/wiki/D-Business_Entertainment "wikilink")-Unit會在[韓國出道前在](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本舉行首場粉絲見面會](../Page/日本.md "wikilink")\[2\]。10日，D-Unit推出了〈I'm
+Entertainment正式公布了D](https://zh.wikipedia.org/wiki/D-Business_Entertainment "wikilink")-Unit會在[韓國出道前在](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本](../Page/日本.md "wikilink")舉行首場粉絲見面會\[2\]。10日，D-Unit推出了〈I'm
 Missin' You〉的成員RAM的預告。\[3\]16日，D-Business
 Entertainment宣佈D-Unit的第一個實境節目《Welcome to
 D-Unit》，並在18日進行首播。\[4\]29日，D-Unit推出了〈I'm Missin'
@@ -220,4 +220,4 @@ D-Unit解散後，成員RAM做為新四人樂團FIVE RUN STRIKE一員出道回�
 4.
 5.
 6.  [全永祿女兒宇藍，D-Unit解散後搖滾樂團再挑戰](http://sports.chosun.com/news/news.htm?id=201608020100007590000295&ServiceDate=20160801)
-7.  前[SeeYa和](../Page/SeeYa.md "wikilink")[5Dolls成員](../Page/F-VE_DOLLS.md "wikilink")。
+7.  前[SeeYa](../Page/SeeYa.md "wikilink")和[5Dolls成員](../Page/F-VE_DOLLS.md "wikilink")。

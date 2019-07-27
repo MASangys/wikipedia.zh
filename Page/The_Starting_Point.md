@@ -1,5 +1,5 @@
 『**The Starting
-Point**』是[日本的](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛共計第](../Page/川嶋愛.md "wikilink")7張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
+Point**』是[日本](../Page/日本.md "wikilink")的[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")共計第7張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 概要
 

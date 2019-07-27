@@ -1,4 +1,4 @@
-《****》演唱會是由[香港男](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅演出的世界巡迴演唱會](../Page/陳奕迅.md "wikilink")，於2007至2009年間在[亞洲和](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[美国](../Page/美国.md "wikilink")、[加拿大各大城市舉行](../Page/加拿大.md "wikilink")，歷時兩年，是陳奕迅首個大型世界巡迴演唱會。
+《****》演唱會是由[香港](../Page/香港.md "wikilink")男[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")演出的世界巡迴演唱會，於2007至2009年間在[亞洲和](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[美国](../Page/美国.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")各大城市舉行，歷時兩年，是陳奕迅首個大型世界巡迴演唱會。
 
 ## 製作概念
 
@@ -84,6 +84,7 @@
 
 ## 參考文獻
 
+[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink")
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.  [環球唱片 - Eason's Moving On

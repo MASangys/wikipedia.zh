@@ -1,4 +1,4 @@
-《**心路GPS**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝倫理](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，共20集，由[李司棋](../Page/李司棋.md "wikilink")、[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[麥長青及](../Page/麥長青.md "wikilink")[黃翠如領銜主演](../Page/黃翠如.md "wikilink")，並由[陳秀珠及](../Page/陳秀珠.md "wikilink")[張景淳聯合主演](../Page/張景淳.md "wikilink")，監製[李艷芳](../Page/李艷芳.md "wikilink")。
+《**心路GPS**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝倫理[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，共20集，由[李司棋](../Page/李司棋.md "wikilink")、[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[麥長青](../Page/麥長青.md "wikilink")及[黃翠如](../Page/黃翠如.md "wikilink")領銜主演，並由[陳秀珠](../Page/陳秀珠.md "wikilink")及[張景淳](../Page/張景淳.md "wikilink")聯合主演，監製[李艷芳](../Page/李艷芳.md "wikilink")。
 
 ## 演員表
 
@@ -662,21 +662,21 @@
 
 ## 記事
 
-  - 2012年7月16日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠灰位舉行造型記者會](../Page/電視廣播城.md "wikilink")\[1\]。
+  - 2012年7月16日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠灰位舉行造型記者會\[1\]。
   - 2012年8月24日：此劇於16:00在將軍澳電視廣播城舉行開鏡拜神儀式\[2\]。
   - 2012年9月15日：此劇香港戲份煞科。
   - 2012年9月20日：此劇赴廣東[清遠拍攝三個星期](https://zh.wikipedia.org/wiki/清遠 "wikilink")。
   - 2012年10月10日：全劇煞科。
   - 2013年2月17日：此劇於14:30在將軍澳[新都城中心商場二期舉行](https://zh.wikipedia.org/wiki/新都城中心 "wikilink")「從心出發·新春啟航」宣傳活動。\[3\]。
-  - 2013年3月1日：此劇於13:00在[鑽石山](../Page/鑽石山.md "wikilink")[荷里活廣場舉行](../Page/荷里活廣場.md "wikilink")「愛·用心導航」宣傳活動。\[4\]。
+  - 2013年3月1日：此劇於13:00在[鑽石山](../Page/鑽石山.md "wikilink")[荷里活廣場](../Page/荷里活廣場.md "wikilink")舉行「愛·用心導航」宣傳活動。\[4\]。
 
 ## 軼事
 
-  - 此劇是[黃翠如加入無綫後第一套拍攝的劇集](../Page/黃翠如.md "wikilink")。
+  - 此劇是[黃翠如](../Page/黃翠如.md "wikilink")加入無綫後第一套拍攝的劇集。
 
 ## 收視
 
-以下為本劇於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之](../Page/高清翡翠台.md "wikilink")[收視點紀錄](https://zh.wikipedia.org/wiki/收視點 "wikilink")：
+以下為本劇於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之[收視點紀錄](https://zh.wikipedia.org/wiki/收視點 "wikilink")：
 
 |        |        |                  |          |          |         |
 | ------ | ------ | ---------------- | -------- | -------- | ------- |

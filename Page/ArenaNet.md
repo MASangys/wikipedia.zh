@@ -1,7 +1,7 @@
 **ArenaNet**由麥克·歐布林（Mike O'Brien）, 帕特里克·懷特（Patrick Wyatt）和傑夫·斯純（Jeff
-Strain）于2000年春\[1\]在美国[华盛顿州](../Page/华盛顿州.md "wikilink")[贝尔维尤创办](../Page/贝尔维尤_\(华盛顿州\).md "wikilink")\[2\]。他們三人都來自[暴雪娛樂並且之前參與到了](../Page/暴雪娛樂.md "wikilink")[大型多人在線遊戲的開發之中](https://zh.wikipedia.org/wiki/大型多人在線遊戲 "wikilink")，例如[魔獸爭霸系列](https://zh.wikipedia.org/wiki/魔獸爭霸系列 "wikilink")、[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")、[星海爭霸系列以及](../Page/星海爭霸系列.md "wikilink")[戰網的創辦](https://zh.wikipedia.org/wiki/戰網 "wikilink")。
+Strain）于2000年春\[1\]在美国[华盛顿州](../Page/华盛顿州.md "wikilink")[贝尔维尤创办](../Page/贝尔维尤_\(华盛顿州\).md "wikilink")\[2\]。他們三人都來自[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")並且之前參與到了[大型多人在線遊戲的開發之中](https://zh.wikipedia.org/wiki/大型多人在線遊戲 "wikilink")，例如[魔獸爭霸系列](https://zh.wikipedia.org/wiki/魔獸爭霸系列 "wikilink")、[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")、[星海爭霸系列](../Page/星海爭霸系列.md "wikilink")以及[戰網的創辦](https://zh.wikipedia.org/wiki/戰網 "wikilink")。
 
-公司成立之前叫「Triforge」，但不久之後改為「ArenaNet」。ArenaNet在2002年被[NCsoft收購](../Page/NCsoft.md "wikilink")。
+公司成立之前叫「Triforge」，但不久之後改為「ArenaNet」。ArenaNet在2002年被[NCsoft](../Page/NCsoft.md "wikilink")收購。
 
 ## 團隊
 

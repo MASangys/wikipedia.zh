@@ -1,8 +1,8 @@
 **J
 Team**是一支台灣職業[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，所屬-{杰}-藝文創公司旗下，主要參與[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。原為**台北暗殺星**（**Taipei
 Assassins**，簡稱**TPA**），2012年10月14日在美國洛杉磯舉辦的[英雄聯盟第2季世界大賽中](https://zh.wikipedia.org/wiki/英雄聯盟S2賽季全球總決賽 "wikilink")，擊敗[南韓職業隊伍Azubu](https://zh.wikipedia.org/wiki/南韓 "wikilink")
-Frost（現，已解散），贏得100萬美金獎金\[1\]。全隊在奪冠後曾與中華民國電子競技推廣協會一同拜會立法院，爭取電子競技列為正式的運動項目之一，[中華民國政府及朝野各黨團則以允諾修法](../Page/中華民國.md "wikilink")、拋出「電競選手可服替代役」構想回應\[2\]\[3\]。
-2016年4月由台灣藝人[周杰倫代表的](../Page/周杰倫.md "wikilink")-{杰}-藝文創公司取得經營權，改名為**J
+Frost（現，已解散），贏得100萬美金獎金\[1\]。全隊在奪冠後曾與中華民國電子競技推廣協會一同拜會立法院，爭取電子競技列為正式的運動項目之一，[中華民國](../Page/中華民國.md "wikilink")政府及朝野各黨團則以允諾修法、拋出「電競選手可服替代役」構想回應\[2\]\[3\]。
+2016年4月由台灣藝人[周杰倫](../Page/周杰倫.md "wikilink")代表的-{杰}-藝文創公司取得經營權，改名為**J
 Team**，並由周杰倫擔任董事长。
 
 ## 英雄聯盟(LOL)
@@ -31,7 +31,7 @@ Team**，並由周杰倫擔任董事长。
   - 6月17日：StarsWar7冠軍。
   - 7月15日：IPL 5（IGN Pro League 5）臺灣預選賽冠軍。
   - 9月1日：Season2第二季[臺](../Page/臺灣.md "wikilink")[港](../Page/香港.md "wikilink")[澳區域賽](../Page/澳門.md "wikilink")（臺港澳伺服器）冠軍，取得台港澳代表資格進軍世界錦標賽。
-  - 10月14日：**英雄聯盟Season2第二季世界錦標賽**，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉矶拿下](../Page/洛杉矶.md "wikilink")**冠軍**，獲得100萬美元高額獎金。
+  - 10月14日：**英雄聯盟Season2第二季世界錦標賽**，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")拿下**冠軍**，獲得100萬美元高額獎金。
   - 10月20日：於TPA榮耀共享見面會上，正式宣布加入兩位新成員：**GoDJJ**、**Zonda**。
   - 11月17日：[GPL](../Page/GPL超級聯賽.md "wikilink")（Garena Premier
     League）第一屆季後賽總冠軍。
@@ -41,7 +41,7 @@ Team**，並由周杰倫擔任董事长。
 
 #### 2013
 
-  - 1月3日：TPA部分成員異動，由部分選手隊籍轉移到到新成立的「[台北狙擊者Taipei](../Page/台北狙擊者.md "wikilink")
+  - 1月3日：TPA部分成員異動，由部分選手隊籍轉移到到新成立的「[台北狙擊者](../Page/台北狙擊者.md "wikilink")Taipei
     Snipers」（TPS）戰隊，其中包括AD
     Carry玩家**GoDJJ**、女性選手**Colalin**、隊長**MisTake**、AP
     Carry玩家**NeXAbc**、上路玩家**Zonda**以及外界原先認為內定成員**OhReal**，TPA隊長一職則由AP
@@ -75,7 +75,7 @@ Team**，並由周杰倫擔任董事长。
   - 6月18日：**DinTer**與**叉燒**離任策略分析師\[13\]\[14\]。
   - 7月5日：前Najin總教練沈成洙加入執教\[15\]。
   - 8月16日：GPL 2014夏季總決賽冠軍TPA直落三奪得勝利，再次代表台灣爭奪世界冠軍。
-  - 9月21日：TPA於[英雄联盟2014赛季全球总决赛的B組小組賽的成績為](../Page/英雄联盟2014赛季全球总决赛.md "wikilink")1勝5負，無緣晉級，其最終排名為第14至第16名，共獲得25,000美元獎金。
+  - 9月21日：TPA於[英雄联盟2014赛季全球总决赛](../Page/英雄联盟2014赛季全球总决赛.md "wikilink")的B組小組賽的成績為1勝5負，無緣晉級，其最終排名為第14至第16名，共獲得25,000美元獎金。
   - 11月6日：**BeBe**宣布退役，卸下TPA的隊長與AD職位。**Winds**接手隊長一位。
   - 11月13日：新成員**Lupin**加入，擔任位置為AD Carry。
   - 12月12日：TPA以2:0擊敗[yoeFW閃電狼](https://zh.wikipedia.org/wiki/yoe閃電狼 "wikilink")，拿下IEM台北站資格賽敗部冠軍，並取得資格。
@@ -118,7 +118,7 @@ Team**，並由周杰倫擔任董事长。
   - 9月22日:LMS區域資格賽JT VS GRX，以0:3敗給GRX
   - 11月30日:戰隊總監兼總教練**FireFox**黃鼎翔(火狐)、教練**Prydz**陳廣峯(小峯)及教練**Dog8**蔡學裕(狗八)宣布正式離隊\[22\]
   - 12月28日:前[J
-    Team打野](https://zh.wikipedia.org/wiki/J_Team "wikilink")、前閃電狼教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex輔助Koala宣布加入](../Page/G-Rex.md "wikilink")，擔任輔助位置\[23\]
+    Team打野](https://zh.wikipedia.org/wiki/J_Team "wikilink")、前閃電狼教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex](../Page/G-Rex.md "wikilink")輔助Koala宣布加入，擔任輔助位置\[23\]
 
 #### 2019
 
@@ -365,7 +365,7 @@ Team**，並由周杰倫擔任董事长。
 <td><p>Top</p></td>
 <td></td>
 <td></td>
-<td><p>現為<a href="../Page/閃電狼.md" title="wikilink">閃電狼選手</a></p></td>
+<td><p>現為<a href="../Page/閃電狼.md" title="wikilink">閃電狼</a>選手</p></td>
 </tr>
 <tr class="even">
 <td><p>Dinter</p></td>
@@ -461,7 +461,7 @@ Team**，並由周杰倫擔任董事长。
 <td><p>Mid</p></td>
 <td></td>
 <td><p>1992年6月9日</p></td>
-<td><p>曾獲S2世界冠軍，現為<a href="../Page/G-Rex.md" title="wikilink">G-Rex總監</a></p></td>
+<td><p>曾獲S2世界冠軍，現為<a href="../Page/G-Rex.md" title="wikilink">G-Rex</a>總監</p></td>
 </tr>
 <tr class="even">
 <td><p>GoDJJ</p></td>

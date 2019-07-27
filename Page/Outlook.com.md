@@ -10,7 +10,7 @@ Outlook.com的前身是Hotmail。Hotmail於1995年由[傑克·史密斯和印度
 
 1997年12月底，Hotmail被[微軟收購](https://zh.wikipedia.org/wiki/微軟 "wikilink")，並成為MSN服務的一部分。由於針對世界不同地區的市場作了[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")，Hotmail迅速流行起來並成為全球最大的網絡郵件服務提供商。
 
-Hotmail原本運行於[FreeBSD平台和](../Page/FreeBSD.md "wikilink")[Solaris](../Page/Solaris.md "wikilink")[操作系统上](../Page/操作系统.md "wikilink")。最初，微軟試圖將運行於FreeBSD上的部分過渡至基於[Windows
+Hotmail原本運行於[FreeBSD](../Page/FreeBSD.md "wikilink")平台和[Solaris](../Page/Solaris.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上。最初，微軟試圖將運行於FreeBSD上的部分過渡至基於[Windows
 NT
 4.0的系統上](../Page/Windows_NT_4.0.md "wikilink")，但告失敗。之後微軟又嘗試將系統過渡至Windows
 2000平台。2001年6月，微軟宣佈過渡完成。但幾天以後微軟又收回這一言論，並承認Hotmail的部分功能事實上仍依賴於FreeBSD。
@@ -22,7 +22,7 @@ Messenger](../Page/Windows_Live_Messenger.md "wikilink")”和“Windows Live
 Spaces”）整合在了一起。但就在這時，Hotmail出現了一個安全問題，這個問題允許任何人只需輸入密碼“eh”即可-{zh-hans:登录;
 zh-hant:登入;}-任一Hotmail帳戶。這在當時可謂是“網絡史上波及最廣的安全事件”。\[1\]
 
-2004年，[Google發佈了自己的電子郵件服務](../Page/Google.md "wikilink")——[Gmail](../Page/Gmail.md "wikilink")，這使得在技術上停滯了一段時期的網絡電子郵件業迅猛發展起來。Gmail容量大、速度快且界面靈活，在電子郵件市場中掀起了一股革新浪潮。Hotmail作為重要電子郵件服務提供商隨之發佈了速度更快、安全性更高且功能更先進的升級版本。
+2004年，[Google](../Page/Google.md "wikilink")發佈了自己的電子郵件服務——[Gmail](../Page/Gmail.md "wikilink")，這使得在技術上停滯了一段時期的網絡電子郵件業迅猛發展起來。Gmail容量大、速度快且界面靈活，在電子郵件市場中掀起了一股革新浪潮。Hotmail作為重要電子郵件服務提供商隨之發佈了速度更快、安全性更高且功能更先進的升級版本。
 
 ### Windows Live Hotmail
 
@@ -44,7 +44,7 @@ Windows Live Hotmail郵件服務在全球很多國家都開通，是網路上最
 Phone用戶因](../Page/Windows_Phone.md "wikilink")[Windows
 Live帳戶已經與手機連結而不能更改](../Page/Windows_Live.md "wikilink")。
 
-微軟在2013年3月20日宣布hotmail的服務會於2013年[夏天前逐步停止](https://zh.wikipedia.org/wiki/夏天 "wikilink")，而且[MSN首頁不會有hotmail服務](../Page/MSN.md "wikilink")。微軟建議讓全球3億的hotmail用戶全部轉移到Outlook.com網路信箱，也強調舊的E-mail網址不會改變。\[4\]
+微軟在2013年3月20日宣布hotmail的服務會於2013年[夏天前逐步停止](https://zh.wikipedia.org/wiki/夏天 "wikilink")，而且[MSN](../Page/MSN.md "wikilink")首頁不會有hotmail服務。微軟建議讓全球3億的hotmail用戶全部轉移到Outlook.com網路信箱，也強調舊的E-mail網址不會改變。\[4\]
 
 2013年4月5日，Hotmail的行事曆改為類似[Windows
 8的行事曆](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，自此Hotmail走進了歷史。
@@ -53,9 +53,9 @@ Live帳戶已經與手機連結而不能更改](../Page/Windows_Live.md "wikilin
 
 ## 服务概述
 
-Outlook.com提供電郵查送、聯絡人、行事曆和[OneDrive功能](../Page/OneDrive.md "wikilink")。Outlook.com使用[Ajax技術](https://zh.wikipedia.org/wiki/Ajax "wikilink")，並支持更高版本的瀏覽器。界面支援鍵盤控制。支持結構化查詢語法搜索郵件，郵件過濾器，文件夾組織郵件，地址自動完成，聯繫分組，導入和導出CSV文件，文本格式，簽名，垃圾郵件過濾和病毒掃描。Outlook.com亦提供活動視圖、與Office
+Outlook.com提供電郵查送、聯絡人、行事曆和[OneDrive](../Page/OneDrive.md "wikilink")功能。Outlook.com使用[Ajax技術](https://zh.wikipedia.org/wiki/Ajax "wikilink")，並支持更高版本的瀏覽器。界面支援鍵盤控制。支持結構化查詢語法搜索郵件，郵件過濾器，文件夾組織郵件，地址自動完成，聯繫分組，導入和導出CSV文件，文本格式，簽名，垃圾郵件過濾和病毒掃描。Outlook.com亦提供活動視圖、與Office
 Web
-Apps和[Skype整合等功能](../Page/Skype.md "wikilink")。另外，訊息中心（類似即時通）可以和其他人對話，可以連接[Facebook](../Page/Facebook.md "wikilink")、[Google等其他服務](../Page/Google.md "wikilink")。
+Apps和[Skype](../Page/Skype.md "wikilink")整合等功能。另外，訊息中心（類似即時通）可以和其他人對話，可以連接[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")等其他服務。
 
 ## 参考文献
 

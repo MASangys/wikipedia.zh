@@ -3,7 +3,7 @@ Resnick and Andrés Monroy-Hernández is creater.
 
 Scratch [開發平台可安裝在](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux的平台上](../Page/Linux.md "wikilink")；自2.0之后，换用[ActionScript编制](../Page/ActionScript.md "wikilink")，Scratch已於2019年1月2日發布3.0正式版，換用[HTML5編制](../Page/HTML5.md "wikilink")。Scratch运行于浏览器。Scratch[源碼開放給非商業性質用途使用](https://zh.wikipedia.org/wiki/源碼 "wikilink")。\[1\]
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")的平台上；自2.0之后，换用[ActionScript](../Page/ActionScript.md "wikilink")编制，Scratch已於2019年1月2日發布3.0正式版，換用[HTML5](../Page/HTML5.md "wikilink")編制。Scratch运行于浏览器。Scratch[源碼開放給非商業性質用途使用](https://zh.wikipedia.org/wiki/源碼 "wikilink")。\[1\]
 
 ## 概覽
 
@@ -12,7 +12,7 @@ Scratch
 
 Scratch适用于8岁以上用户。即便用户从未學过[程序编程](https://zh.wikipedia.org/wiki/程序编程 "wikilink")，通过拖曳预先设定好的积木式程序模件，堆疊出指令，设置或控制角色及背景的行动和变化，从而完成程序设计\[3\]\[4\]。
 
-Scratch的1.x版本用[Squeak编写](../Page/Squeak.md "wikilink")，从2.0开始改为[ActionScript](../Page/ActionScript.md "wikilink")，自3.0後使用[HTML5](../Page/HTML5.md "wikilink")。Scratch
+Scratch的1.x版本用[Squeak](../Page/Squeak.md "wikilink")编写，从2.0开始改为[ActionScript](../Page/ActionScript.md "wikilink")，自3.0後使用[HTML5](../Page/HTML5.md "wikilink")。Scratch
 可安裝其發行的應用程式進行離線編輯。
 
 ### 界面与功能
@@ -23,7 +23,7 @@ Scratch的1.x版本用[Squeak编写](../Page/Squeak.md "wikilink")，从2.0开�
 的屏幕[截圖](../Page/截圖.md "wikilink")。\]\]
 [Scratch_2.0_Default_screen.png](https://zh.wikipedia.org/wiki/File:Scratch_2.0_Default_screen.png "fig:Scratch_2.0_Default_screen.png")[開發平台](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")
 2.0 英文版的屏幕截圖。\]\] Scratch
-[開發平台的使用者界面分為四部分](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")：[程序模件列表](https://zh.wikipedia.org/wiki/軟體模塊 "wikilink")，[程序設計平台](https://zh.wikipedia.org/wiki/程序設計 "wikilink")，预览窗口和[角色列表](../Page/角色.md "wikilink")。
+[開發平台的使用者界面分為四部分](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")：[程序模件列表](https://zh.wikipedia.org/wiki/軟體模塊 "wikilink")，[程序設計平台](https://zh.wikipedia.org/wiki/程序設計 "wikilink")，预览窗口和[角色](../Page/角色.md "wikilink")列表。
 
 [程序模件列表將其分為](https://zh.wikipedia.org/wiki/軟體模塊 "wikilink")8類：動作、外觀、聲音、畫筆、控制、偵測、運算、[變量](../Page/变量_\(程序设计\).md "wikilink")。程序模件各有不同的顏色和形狀，以便识别。
 
@@ -33,13 +33,13 @@ Scratch
 不易出现导致程序完全无法运行的严重错误。
 
 主要不足：Scratch
-没有针对本地文件的[輸入/輸出功能](https://zh.wikipedia.org/wiki/I/O "wikilink")，不支持多维数组和数组嵌套，自定义[子程序不支持设置形式参数也不支持设置返回值](../Page/子程序.md "wikilink")，无法进行角色的局部碰撞检测，缺少[并发控制](../Page/并发控制.md "wikilink")，无[面向对象特性](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，不方便进行逻辑条件的复杂组合，调试困难。
+没有针对本地文件的[輸入/輸出功能](https://zh.wikipedia.org/wiki/I/O "wikilink")，不支持多维数组和数组嵌套，自定义[子程序](../Page/子程序.md "wikilink")不支持设置形式参数也不支持设置返回值，无法进行角色的局部碰撞检测，缺少[并发控制](../Page/并发控制.md "wikilink")，无[面向对象特性](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，不方便进行逻辑条件的复杂组合，调试困难。
 
 ### 用戶社群
 
 Scratch
 被[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")、[博物館](https://zh.wikipedia.org/wiki/博物館 "wikilink")
-\[5\]、[社區中心等用作](../Page/社區中心.md "wikilink")[教學和](https://zh.wikipedia.org/wiki/教學 "wikilink")[展示](https://zh.wikipedia.org/wiki/展示 "wikilink")。例如，[香港青年協會經常舉辦](../Page/香港青年協會.md "wikilink")
+\[5\]、[社區中心](../Page/社區中心.md "wikilink")等用作[教學和](https://zh.wikipedia.org/wiki/教學 "wikilink")[展示](https://zh.wikipedia.org/wiki/展示 "wikilink")。例如，[香港青年協會](../Page/香港青年協會.md "wikilink")經常舉辦
 Scratch 體驗活動，以推動學生發揮創意\[6\]\[7\]\[8\]。Scratch
 亦附設不同的語言界面，方便非英语用户使用。此外，[Scratch-TW](https://www.scratch-tw.org/)則蒐集了Scratch相關的[線上資源](https://www.scratch-tw.org/)、介紹影片、[創意程設思維教材](https://www.shareclass.org/course/default/?q=%E5%89%B5%E6%84%8F%E7%A8%8B%E8%A8%AD%E6%80%9D%E7%B6%AD)\[9\]，並進行中文化，以便台灣使用者之使用與推廣。[均一教育平台](https://www.junyiacademy.org/)也製作了一系列[Scratch3.0基礎課程](https://www.junyiacademy.org/course/scratch-101)，免費開放提供教師、家長與學生能線上自學Scratch。
 
@@ -50,7 +50,7 @@ Scratch 设立了一個線上社群，其口號為「想像･程式･分享」
 Scratch
 最终成品并非[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，而是所有角色的行為和結合。用戶可以將原始檔案[上傳至線上社群以供分享](https://zh.wikipedia.org/wiki/上傳 "wikilink")。線上社群的成員可以自由[下載該项目的](https://zh.wikipedia.org/wiki/下載 "wikilink")[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，來研究該项目的結構\[11\]\[12\]。除此之外，各成員可自由評論、標籤和「讚」不同的项目以及发表和分享意見。
 
-線上社群中有不同類型的项目，範圍包括[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[簡報和](../Page/簡報.md "wikilink")[聊天機器人](../Page/聊天機器人.md "wikilink")。所有项目都以[創用CC的特許方式發佈](https://zh.wikipedia.org/wiki/創用CC "wikilink")，也可透過
+線上社群中有不同類型的项目，範圍包括[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[簡報](../Page/簡報.md "wikilink")和[聊天機器人](../Page/聊天機器人.md "wikilink")。所有项目都以[創用CC的特許方式發佈](https://zh.wikipedia.org/wiki/創用CC "wikilink")，也可透過
 [Java applet](../Page/Java_applet.md "wikilink") 或 [Flash
 Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")
 播放。線上社群每月都有着一百萬[點擊率](https://zh.wikipedia.org/wiki/點擊率 "wikilink")，且擁有接近7,000,000已登記成員（截至2015年6月）\[13\]，以及超過九百六十萬份作品在線上社群上分享\[14\]。該線上社群隨後開設了不同網頁，如

@@ -1,4 +1,4 @@
-《**紙箱戰機WARS**》（）為[LEVEL-5公司所開發的](../Page/LEVEL-5.md "wikilink")[3DS用](https://zh.wikipedia.org/wiki/3DS "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》系列的第三作暨第二代，預定於2013年3月17日發售。先行[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2013年4月3日至12月25日播放，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27-19:55於[日本](../Page/日本.md "wikilink")[東京電視台播出](../Page/東京電視台.md "wikilink")。全37話。
+《**紙箱戰機WARS**》（）為[LEVEL-5](../Page/LEVEL-5.md "wikilink")公司所開發的[3DS用](https://zh.wikipedia.org/wiki/3DS "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》系列的第三作暨第二代，預定於2013年3月17日發售。先行[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2013年4月3日至12月25日播放，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27-19:55於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播出。全37話。
 
 ## 故事概要
 
@@ -694,7 +694,7 @@
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>（<strong>製作局</strong>）</p></td>
 <td><p>2013年4月3日 - <a href="../Page/12月25日.md" title="wikilink">12月25日</a></p></td>
 <td><p>週三 19:27 - 19:55</p></td>
-<td><p><a href="../Page/東京電視網.md" title="wikilink">東京電視網系列</a></p></td>
+<td><p><a href="../Page/東京電視網.md" title="wikilink">東京電視網</a>系列</p></td>
 <td><p>含字幕<br />
 『』檔<br />
 （7月24日 - 12月25日）</p></td>
@@ -826,7 +826,7 @@ BS放送</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/靜岡電視台" title="wikilink">靜岡電視台</a></p></td>
 <td><p>2013年<a href="../Page/9月22日.md" title="wikilink">9月22日</a> - 2014年<a href="../Page/6月15日.md" title="wikilink">6月15日</a></p></td>
 <td><p>週日 5:30 - 6:00</p></td>
-<td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網系列</a></p></td>
+<td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網</a>系列</p></td>
 <td></td>
 </tr>
 <tr class="odd">

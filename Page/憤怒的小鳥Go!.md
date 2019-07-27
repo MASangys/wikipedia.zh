@@ -1,4 +1,4 @@
-，是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[Rovio公司推出的一款](https://zh.wikipedia.org/wiki/Rovio娛樂 "wikilink")[卡丁車](../Page/卡丁車.md "wikilink")[賽車遊戲](https://zh.wikipedia.org/wiki/賽車遊戲 "wikilink")，為《[憤怒的小鳥](https://zh.wikipedia.org/wiki/憤怒的小鳥 "wikilink")》電子遊戲系列的第一款卡丁車賽車遊戲。《愤怒的小鸟GO！》也是Rovio首个免费的[“愤怒的小鸟”游戏](https://zh.wikipedia.org/wiki/愤怒的小鸟 "wikilink")，亦是Rovio旗下第一个有着3D视觉效果的游戏，遊戲是與[紅牛的賽車手機遊戲合作](../Page/紅牛能量飲料.md "wikilink")，並已於2013年12月11日发售\[1\]。遊戲與[孩之寶Telepods和積木玩具兼容](../Page/孩之寶.md "wikilink")，可讓玩家召喚特定卡丁車。\[2\]遊戲的賽道位於3D小豬島。卡丁車可以升級，每個人物都有特殊能力。\[3\]
+，是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[Rovio公司推出的一款](https://zh.wikipedia.org/wiki/Rovio娛樂 "wikilink")[卡丁車](../Page/卡丁車.md "wikilink")[賽車遊戲](https://zh.wikipedia.org/wiki/賽車遊戲 "wikilink")，為《[憤怒的小鳥](https://zh.wikipedia.org/wiki/憤怒的小鳥 "wikilink")》電子遊戲系列的第一款卡丁車賽車遊戲。《愤怒的小鸟GO！》也是Rovio首个免费的[“愤怒的小鸟”游戏](https://zh.wikipedia.org/wiki/愤怒的小鸟 "wikilink")，亦是Rovio旗下第一个有着3D视觉效果的游戏，遊戲是與[紅牛的賽車手機遊戲合作](../Page/紅牛能量飲料.md "wikilink")，並已於2013年12月11日发售\[1\]。遊戲與[孩之寶](../Page/孩之寶.md "wikilink")Telepods和積木玩具兼容，可讓玩家召喚特定卡丁車。\[2\]遊戲的賽道位於3D小豬島。卡丁車可以升級，每個人物都有特殊能力。\[3\]
 
 ## 比赛类型
 

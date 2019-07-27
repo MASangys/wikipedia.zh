@@ -1,4 +1,4 @@
-**第64回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（）於2013年（[平成](../Page/平成.md "wikilink")25年）12月31日（[JST](../Page/日本標準時間.md "wikilink")）在[NHK音乐廳以](https://zh.wikipedia.org/wiki/NHK音乐廳 "wikilink")[現場直播的方式舉行](../Page/現場直播.md "wikilink")。
+**第64回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（）於2013年（[平成](../Page/平成.md "wikilink")25年）12月31日（[JST](../Page/日本標準時間.md "wikilink")）在[NHK音乐廳以](https://zh.wikipedia.org/wiki/NHK音乐廳 "wikilink")[現場直播](../Page/現場直播.md "wikilink")的方式舉行。
 
 ## 時序
 
@@ -7,7 +7,7 @@
   - 2013年10月18日
     在[NHK音樂廳前室外的特别會場上宣佈了本年度的主持人名單](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")。紅組的主持人是該年度[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[八重之櫻](../Page/八重之櫻.md "wikilink")》女主角[綾瀨遙](../Page/綾瀨遙.md "wikilink")（）、白組主持人是[嵐](../Page/嵐.md "wikilink")、而綜合主持人是[有働由美子](../Page/有働由美子.md "wikilink")。同时，也發佈了本屆的主题，稱為「歌曲在這裏」（）\[2\]。記者會當日，紅白兩組主持人乘坐着[加長轎車進場](https://zh.wikipedia.org/wiki/加長轎車 "wikilink")。
   - 2013年11月20日
-    於[晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》（）中飾演主人公天野秋（）的[能年玲奈被委任為本屆紅白宣傳大使](../Page/能年玲奈.md "wikilink")\[3\]。
+    於[晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》（）中飾演主人公天野秋（）的[能年玲奈](../Page/能年玲奈.md "wikilink")被委任為本屆紅白宣傳大使\[3\]。
   - 2013年11月25日
     正式發表了出演本屆紅白歌合戰的51組出演歌手名單\[4\]。
   - 2013年12月5日
@@ -26,7 +26,7 @@
 
   - [NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")
   - [NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")
-  - 海外：[緯來日本台於](../Page/緯來日本台.md "wikilink")2014年1月5日晚間六點，以[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字幕播出](../Page/字幕.md "wikilink")《第64屆紅白歌唱大賽》。
+  - 海外：[緯來日本台](../Page/緯來日本台.md "wikilink")於2014年1月5日晚間六點，以[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字幕](../Page/字幕.md "wikilink")播出《第64屆紅白歌唱大賽》。
 
 ## 主持人
 

@@ -1,10 +1,10 @@
-**Codecademy**是一个在线交互式网站平台，它提供免费编程课堂，其[编程语言包括例如](../Page/编程语言.md "wikilink")[Python](../Page/Python.md "wikilink")、[JavaScript和](../Page/JavaScript.md "wikilink")[Ruby](../Page/Ruby.md "wikilink")，也包括[置标语言例如](../Page/置标语言.md "wikilink")[HTML和](../Page/HTML.md "wikilink")[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")。\[1\]\[2\]据报道，2011年11月，Codecademy上有超过550,000用户完成了六百万个编程练习。\[3\]
+**Codecademy**是一个在线交互式网站平台，它提供免费编程课堂，其[编程语言](../Page/编程语言.md "wikilink")包括例如[Python](../Page/Python.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")，也包括[置标语言](../Page/置标语言.md "wikilink")例如[HTML](../Page/HTML.md "wikilink")和[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")。\[1\]\[2\]据报道，2011年11月，Codecademy上有超过550,000用户完成了六百万个编程练习。\[3\]
 许多知名媒体和网站，例如[纽约时报](../Page/纽约时报.md "wikilink")\[4\]和[TechCrunch](../Page/TechCrunch.md "wikilink")\[5\]都给予了Codecademy网站良好的报道和评论。
 
 ## 历史
 
 Codecademy由Zach Sims和Ryan Bubinski创建于2011年。\[6\]
-从[哥伦比亚大学毕业的Bubinski获得了](../Page/哥伦比亚大学.md "wikilink")[计算机科学和](../Page/计算机科学.md "wikilink")[生物物理学的学位](../Page/生物物理学.md "wikilink")，和从哥伦比亚大学已辍学的Sims共同专注于这个风投企业。\[7\]
+从[哥伦比亚大学](../Page/哥伦比亚大学.md "wikilink")毕业的Bubinski获得了[计算机科学](../Page/计算机科学.md "wikilink")和[生物物理学](../Page/生物物理学.md "wikilink")的学位，和从哥伦比亚大学已辍学的Sims共同专注于这个风投企业。\[7\]
 Codecademy公司坐落于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")\[8\]，在2011年十月A轮融资了二百五十万美元，以及2012年六月B轮融资了一千万美元。\[9\]\[10\]
 最后一轮的注资是由Index Ventures启动的。\[11\]目前 Codecademy 主要专注于网页前端开发。
 

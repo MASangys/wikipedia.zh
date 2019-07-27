@@ -1,4 +1,4 @@
-此條目收錄使用由[Mozilla基金會所開發的](../Page/Mozilla基金會.md "wikilink")[Firefox
+此條目收錄使用由[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")所開發的[Firefox
 OS作業系統裝置](../Page/Firefox_OS.md "wikilink")。
 
 ## 智慧型手機

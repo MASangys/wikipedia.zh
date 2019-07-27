@@ -1,5 +1,5 @@
 **SuperCollider** 是一个最初由 James McCartney
-在1996年发布的[编程语言和声音编程环境](../Page/编程语言.md "wikilink")，主要用于[实时](../Page/实时.md "wikilink")[声音合成和](../Page/合成器.md "wikilink")[算法作曲](../Page/算法作曲.md "wikilink")。\[1\]\[2\]
+在1996年发布的[编程语言](../Page/编程语言.md "wikilink")和声音编程环境，主要用于[实时](../Page/实时.md "wikilink")[声音合成和](../Page/合成器.md "wikilink")[算法作曲](../Page/算法作曲.md "wikilink")。\[1\]\[2\]
 
 自此之后，它逐步变成一个被科学家与艺术家们共同开发和操作声音的系统。这个高效且有表现力的[动态语言](../Page/动态语言.md "wikilink")，为[声学](../Page/声学.md "wikilink")、
 [算法音乐和](../Page/算法作曲.md "wikilink")提供了一个框架。\[3\]
@@ -41,10 +41,10 @@ SuperCollider 编程语言是一个类似于 [Smalltalk](../Page/Smalltalk.md "w
 的[动态类型](https://zh.wikipedia.org/wiki/动态类型 "wikilink")、
 [垃圾回收](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")、
 单继承的[面向对象和](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，\[6\]
-它的语法类似[LISP或者](../Page/LISP.md "wikilink")[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")。它的架构是在实时计算需求和抽象语言的灵活、简洁性之间的折衷。和许多函数式编程语言类似，它实现了[函数作为一级对象](https://zh.wikipedia.org/wiki/函数_\(计算机科学\) "wikilink")，使得函数可以[复合](../Page/复合函数.md "wikilink")。函数和方法支持缺省参数、可变参数，调用时可以使用任意次序的关键词参数。
+它的语法类似[LISP](../Page/LISP.md "wikilink")或者[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")。它的架构是在实时计算需求和抽象语言的灵活、简洁性之间的折衷。和许多函数式编程语言类似，它实现了[函数作为一级对象](https://zh.wikipedia.org/wiki/函数_\(计算机科学\) "wikilink")，使得函数可以[复合](../Page/复合函数.md "wikilink")。函数和方法支持缺省参数、可变参数，调用时可以使用任意次序的关键词参数。
 [闭包](../Page/闭包_\(计算机科学\).md "wikilink") 是词法的,
 [作用域](../Page/作用域.md "wikilink")
-既有词法作用域和动态作用域。也支持函数式编程语言的其他典型特性，包括[尾调用优化](../Page/尾调用.md "wikilink")，和[协程](../Page/协程.md "wikilink")。
+既有词法作用域和动态作用域。也支持函数式编程语言的其他典型特性，包括[尾调用](../Page/尾调用.md "wikilink")优化，和[协程](../Page/协程.md "wikilink")。
 它特有功能包括隐式的元组扩展和无状态的模式系统。它的常量时间的消息查找和实时的[垃圾回收](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")
 让大型系统保持高效与信号处理的灵活。\[7\]
 

@@ -4,10 +4,10 @@
 7於2013年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年9月18日正式推出。繼任者為2014年9月17日推出的[iOS
 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")\[1\]。
 
-在蘋果設計高級副總裁[強納生·艾夫的主導下](../Page/乔纳森·埃维.md "wikilink")，iOS
+在蘋果設計高級副總裁[乔纳森·艾维的主導下](https://zh.wikipedia.org/wiki/乔纳森·艾维 "wikilink")，iOS
 7採用了全新的的視覺設計，整體風格由[iOS
 6以前的](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")[擬物風格改為](../Page/仿制品.md "wikilink")[扁平化風格](../Page/扁平化设计.md "wikilink")，並對使用者介面進行全面的改造，包括[字體更加纖細精緻](https://zh.wikipedia.org/wiki/字體 "wikilink")、[過場動畫更加平順流暢](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")、應用程式的圖示更加清晰銳利等\[2\]\[3\]。另外，iOS
-7也新增了許多新功能：[控制中心](https://zh.wikipedia.org/wiki/控制中心_\(iOS\) "wikilink")，使用戶能夠快捷開啟[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[相機及](https://zh.wikipedia.org/wiki/相機 "wikilink")[計算機等常用功能及調整螢幕亮度](../Page/計算機_\(應用程式\).md "wikilink")、播放或暫停音樂等；[AirDrop隔空投放技術](https://zh.wikipedia.org/wiki/AirDrop "wikilink")，能使裝置在沒有網路連線的情況下，以藍牙快速傳遞檔案；[CarPlay產業標準](../Page/CarPlay.md "wikilink")，使用戶可透過汽車車載系統操控iOS裝置；[多工處理功能也有所改良](https://zh.wikipedia.org/wiki/多元處理 "wikilink")，介面獲得更新，並能夠在背景自動整理應用程式；語音助理[Siri功能加強](../Page/Siri.md "wikilink")，並改以波動表達互動感。
+7也新增了許多新功能：[控制中心](https://zh.wikipedia.org/wiki/控制中心_\(iOS\) "wikilink")，使用戶能夠快捷開啟[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[相機及](https://zh.wikipedia.org/wiki/相機 "wikilink")[計算機等常用功能及調整螢幕亮度](../Page/計算機_\(應用程式\).md "wikilink")、播放或暫停音樂等；[AirDrop隔空投放技術](https://zh.wikipedia.org/wiki/AirDrop "wikilink")，能使裝置在沒有網路連線的情況下，以藍牙快速傳遞檔案；[CarPlay](../Page/CarPlay.md "wikilink")產業標準，使用戶可透過汽車車載系統操控iOS裝置；[多工處理功能也有所改良](https://zh.wikipedia.org/wiki/多元處理 "wikilink")，介面獲得更新，並能夠在背景自動整理應用程式；語音助理[Siri](../Page/Siri.md "wikilink")功能加強，並改以波動表達互動感。
 
 在iOS 7正式版推出後一天內，整體安裝率即達到35%，一周內即有超過2億部裝置安裝iOS 7，是歷年來最快的一次\[4\]\[5\]。
 
@@ -36,13 +36,13 @@ iOS
 #### 7.0.3
 
 iOS 7.0.3於2013年10月23日發布。此更新首度支援[iCloud鑰匙圈](../Page/钥匙串.md "wikilink")
-，能儲存裝置上登入的所有帳號、密碼；「密碼產生器」功能，讓[Safari建議獨有且難以猜測的密碼](../Page/Safari.md "wikilink")；重新加回了從[Spotlight搜尋中直接搜尋網頁和](../Page/Spotlight_\(應用程式\).md "wikilink")[維基百科的功能](https://zh.wikipedia.org/wiki/維基百科 "wikilink")；更新了鎖定畫面，使用戶在使用Touch
-ID時延遲顯示「滑動來解鎖」的時間；修正了部分使用者無法傳送[iMessage](https://zh.wikipedia.org/wiki/iMessage "wikilink")、[加速度計校正不穩及](https://zh.wikipedia.org/wiki/加速度计 "wikilink")[VoiceOver輸入過度敏感等問題](../Page/VoiceOver.md "wikilink")\[18\]\[19\]\[20\]\[21\]\[22\]\[23\]。
+，能儲存裝置上登入的所有帳號、密碼；「密碼產生器」功能，讓[Safari](../Page/Safari.md "wikilink")建議獨有且難以猜測的密碼；重新加回了從[Spotlight搜尋中直接搜尋網頁和](../Page/Spotlight_\(應用程式\).md "wikilink")[維基百科的功能](https://zh.wikipedia.org/wiki/維基百科 "wikilink")；更新了鎖定畫面，使用戶在使用Touch
+ID時延遲顯示「滑動來解鎖」的時間；修正了部分使用者無法傳送[iMessage](https://zh.wikipedia.org/wiki/iMessage "wikilink")、[加速度計校正不穩及](https://zh.wikipedia.org/wiki/加速度计 "wikilink")[VoiceOver](../Page/VoiceOver.md "wikilink")輸入過度敏感等問題\[18\]\[19\]\[20\]\[21\]\[22\]\[23\]。
 
 #### 7.0.4
 
 iOS
-7.0.4於2013年10月14日發布。此更新修正了[FaceTime通話失敗的問題](../Page/FaceTime.md "wikilink")\[24\]\[25\]\[26\]\[27\]。
+7.0.4於2013年10月14日發布。此更新修正了[FaceTime](../Page/FaceTime.md "wikilink")通話失敗的問題\[24\]\[25\]\[26\]\[27\]。
 
 #### 7.0.5
 
@@ -59,7 +59,7 @@ iOS
 #### 7.1
 
 iOS
-7.1於2014年3月10日發布。此更新調整了[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，大量以圖示取代文字\[33\]\[34\]\[35\]\[36\]\[37\]；引入了[CarPlay產業標準](../Page/CarPlay.md "wikilink")，使用戶可透過汽車車載系統操控iOS裝置\[38\]\[39\]\[40\]；[iTunes
+7.1於2014年3月10日發布。此更新調整了[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，大量以圖示取代文字\[33\]\[34\]\[35\]\[36\]\[37\]；引入了[CarPlay](../Page/CarPlay.md "wikilink")產業標準，使用戶可透過汽車車載系統操控iOS裝置\[38\]\[39\]\[40\]；[iTunes
 Radio音樂串流服務](https://zh.wikipedia.org/wiki/iTunes_Radio "wikilink")，使用戶可以免費聆聽來自全世界的電台\[41\]\[42\]；於設定「輔助使用」選單內新增顯示按鈕形狀、加深應用程式顏色和減少白點的選項\[43\]\[44\]；修正了主畫面[當機的問題](https://zh.wikipedia.org/wiki/當機 "wikilink")，並改進了[Touch
 ID指紋辨識技術](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")\[45\]\[46\]\[47\]\[48\]。
 
@@ -115,7 +115,7 @@ Car，即車用版iOS）功能首次於iOS
 
 ### Siri
 
-Siri的介面全面更新，新增過場動畫，並改以音波的流動表示Siri正在傾聽用戶說話\[89\]\[90\]\[91\]。除了新的介面外，Siri也更換了其使用的聲音，並可選擇使用女性和男性的聲音。此外，Siri亦新增了控制系統設定的功能，例如開關藍牙、Wi-Fi或調整螢幕亮度等。[Bing成為Siri的預設搜尋引擎](../Page/Bing.md "wikilink")，同時[推特及](https://zh.wikipedia.org/wiki/推特 "wikilink")[維基百科也整合至Siri中](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\[92\]\[93\]。
+Siri的介面全面更新，新增過場動畫，並改以音波的流動表示Siri正在傾聽用戶說話\[89\]\[90\]\[91\]。除了新的介面外，Siri也更換了其使用的聲音，並可選擇使用女性和男性的聲音。此外，Siri亦新增了控制系統設定的功能，例如開關藍牙、Wi-Fi或調整螢幕亮度等。[Bing](../Page/Bing.md "wikilink")成為Siri的預設搜尋引擎，同時[推特及](https://zh.wikipedia.org/wiki/推特 "wikilink")[維基百科也整合至Siri中](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\[92\]\[93\]。
 
 ### 其它功能
 
@@ -141,12 +141,12 @@ Store獲得許多重大更新](../Page/App_Store_\(iOS\).md "wikilink")，包括
 ### Safari
 
 在iOS
-7中，內建瀏覽器[Safari獲得許多重大更新](../Page/Safari.md "wikilink")。搜尋欄與網址欄整合為智慧搜尋欄；網址列和工具列在瀏覽頁面時將自動隱藏；新增了翻頁手勢，用户可從畫面邊緣滑動來前後翻頁。此外，還新增了不留下追蹤紀錄的隱私瀏覽模式和翻頁效果的標籤頁瀏覽模式\[106\]\[107\]\[108\]。
+7中，內建瀏覽器[Safari](../Page/Safari.md "wikilink")獲得許多重大更新。搜尋欄與網址欄整合為智慧搜尋欄；網址列和工具列在瀏覽頁面時將自動隱藏；新增了翻頁手勢，用户可從畫面邊緣滑動來前後翻頁。此外，還新增了不留下追蹤紀錄的隱私瀏覽模式和翻頁效果的標籤頁瀏覽模式\[106\]\[107\]\[108\]。
 
 ### 相機與相片
 
 iOS
-7於相機應用程式內新增「正方形」模式，能拍攝與社群媒體[Instagram相似的相片](../Page/Instagram.md "wikilink")，並加入了多種濾鏡\[109\]\[110\]\[111\]\[112\]；「連拍」模式，按住拍攝按鈕，就能以每秒10張的速率拍攝相片\[113\]；[iPhone
+7於相機應用程式內新增「正方形」模式，能拍攝與社群媒體[Instagram](../Page/Instagram.md "wikilink")相似的相片，並加入了多種濾鏡\[109\]\[110\]\[111\]\[112\]；「連拍」模式，按住拍攝按鈕，就能以每秒10張的速率拍攝相片\[113\]；[iPhone
 5s專用的](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")「[慢動作](../Page/慢动作.md "wikilink")」模式，能以每秒120格的高[幀率錄製影片](../Page/帧率.md "wikilink")，並可以在相片應用程式編輯慢動作的起迄點\[114\]；其它更新包括重新設計的介面、在錄影過程中可以使用手指縮放[變焦等](https://zh.wikipedia.org/wiki/變焦鏡 "wikilink")\[115\]\[116\]。
 
 相片應用程式則經過重新設計，改為「相片」、「分享」及「相簿」等三標籤頁形式；相片除了以「時間」排序，還可以「年份」、「選集」或新加入的「時刻」模式排序。在「時刻」分類中，相片將會依照拍攝時間與地點歸類為不同的「時刻」\[117\]\[118\]。相片串流功能現在正式支援影片的分享，共享相片串流相簿中首次支援讓其它的用户上傳相片或影片檔案\[119\]。此外，相片應用程式還新增了[AirDrop分享選項](../Page/隔空投送.md "wikilink")\[120\]。
@@ -163,7 +163,7 @@ Music取代](../Page/Apple_Music.md "wikilink")\[123\]\[124\]。
 
 ### 地圖
 
-蘋果地圖現在支援步驟式導航\[125\]\[126\]。蘋果地圖的介面也獲得更新，新增了全螢幕模式，啟用全螢幕模式時導覽列及搜尋欄皆會自動隱藏；夜晚模式，於日落後自動啟用\[127\]。此外，現在在地圖內還新增了語音助理[Siri的音量調整選項](../Page/Siri.md "wikilink")，以免Siri的聲音蓋過導航指示\[128\]。
+蘋果地圖現在支援步驟式導航\[125\]\[126\]。蘋果地圖的介面也獲得更新，新增了全螢幕模式，啟用全螢幕模式時導覽列及搜尋欄皆會自動隱藏；夜晚模式，於日落後自動啟用\[127\]。此外，現在在地圖內還新增了語音助理[Siri](../Page/Siri.md "wikilink")的音量調整選項，以免Siri的聲音蓋過導航指示\[128\]。
 
 ### 天氣
 

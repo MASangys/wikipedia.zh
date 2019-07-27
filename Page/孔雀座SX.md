@@ -1,5 +1,5 @@
 **孔雀座SX**，又名**CP-70 2850**，**HD 203881**、**SAO 255003**、**HR
-8196**，是[孔雀座的一颗恒星](../Page/孔雀座.md "wikilink")\[1\]\[2\]，视星等为5.34，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")323.22，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-38.65，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+8196**，是[孔雀座](../Page/孔雀座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.34，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")323.22，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-38.65，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

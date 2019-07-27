@@ -4,11 +4,11 @@ ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2007年9月號連�
 
 ## 故事簡介
 
-以前是秘密[警察犬](../Page/警犬.md "wikilink")（[杜伯曼犬](https://zh.wikipedia.org/wiki/杜伯曼犬 "wikilink")）的主人公**因幡洋**是通过[人工授精出生的](../Page/人工授精.md "wikilink")[狼男](../Page/狼人.md "wikilink")。为了寻找行踪不明的弟弟・遥而成为了私人侦探的洋，却卷入了原搭档荻野警部所带来麻烦事件中——他们要将打算征服日本的意大利[黑手党瓦伦蒂诺家族的首领](../Page/黑手党.md "wikilink")（不过是头[山羊](https://zh.wikipedia.org/wiki/山羊 "wikilink")）逮捕。因为洋有着严重的[恋毛癖](https://zh.wikipedia.org/wiki/恋毛癖 "wikilink")，所以以将荻野的头发洗干净这样的支付条件接受了这件麻烦事，与意大利黑手党们开始了连续不断的拉锯战。之后他们在黑手党的实行恐怖主义的老顾客里发现了遥，便以将变成了犯罪者的遥逮捕归案为新的目标，荻野和两位少年助手们一同开始挑战。总而言之，这是一部红发的恋毛癖侦探・因幡洋借助优秀少年助手们的力量，以极度随性的姿态对抗袭击日本的意大利黑手党野心的侦探搞笑物语。
+以前是秘密[警察犬](../Page/警犬.md "wikilink")（[杜伯曼犬](https://zh.wikipedia.org/wiki/杜伯曼犬 "wikilink")）的主人公**因幡洋**是通过[人工授精](../Page/人工授精.md "wikilink")出生的[狼男](../Page/狼人.md "wikilink")。为了寻找行踪不明的弟弟・遥而成为了私人侦探的洋，却卷入了原搭档荻野警部所带来麻烦事件中——他们要将打算征服日本的意大利[黑手党](../Page/黑手党.md "wikilink")瓦伦蒂诺家族的首领（不过是头[山羊](https://zh.wikipedia.org/wiki/山羊 "wikilink")）逮捕。因为洋有着严重的[恋毛癖](https://zh.wikipedia.org/wiki/恋毛癖 "wikilink")，所以以将荻野的头发洗干净这样的支付条件接受了这件麻烦事，与意大利黑手党们开始了连续不断的拉锯战。之后他们在黑手党的实行恐怖主义的老顾客里发现了遥，便以将变成了犯罪者的遥逮捕归案为新的目标，荻野和两位少年助手们一同开始挑战。总而言之，这是一部红发的恋毛癖侦探・因幡洋借助优秀少年助手们的力量，以极度随性的姿态对抗袭击日本的意大利黑手党野心的侦探搞笑物语。
 
 ## 登場人物
 
-※[聲優為電視動畫版](../Page/聲優.md "wikilink") / 廣播劇CD版。
+※[聲優](../Page/聲優.md "wikilink")為電視動畫版 / 廣播劇CD版。
 
 ### 因幡偵探事務所
 
@@ -18,8 +18,8 @@ ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2007年9月號連�
     / [關智一](../Page/關智一.md "wikilink")
     9月4日生、處女座、血型AB型。23歲。身高174cm、變身時是184cm。
     本作主人公。紅髮，戴著細框眼鏡，脖子上都一直掛著項圈。
-    頭頂有近似[獸耳的物體](../Page/獸耳.md "wikilink")，那些其實都是頭髮。喜歡黑又直的頭髮，嚴重討厭染過的毛髮。
-    是以[人工授精方式孕育成的警犬狼男偵探](../Page/人工授精.md "wikilink")，一直朝著精英警犬之路邁進。
+    頭頂有近似[獸耳](../Page/獸耳.md "wikilink")的物體，那些其實都是頭髮。喜歡黑又直的頭髮，嚴重討厭染過的毛髮。
+    是以[人工授精](../Page/人工授精.md "wikilink")方式孕育成的警犬狼男偵探，一直朝著精英警犬之路邁進。
     後來辭去警犬職務，開設因幡偵探事務所成為[私家偵探](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")，獨自尋找突然失蹤的弟弟。
     需要優太點穴（霸武仙流）才可以變身，咬著不同顏色（僅限於自然的髮色）的頭髮可以發揮不同的能力，咬著他人頭髮也能取得DNA以及個人資料，通稱「鑑識能力」。
     被眾人認為是個[M](https://zh.wikipedia.org/wiki/被虐狂 "wikilink")，但本人並不承認。
@@ -583,7 +583,7 @@ ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2007年9月號連�
 | 日本全國                                                              | [AT-X](../Page/AT-X.md "wikilink")                            | 2013年1月4日 - 3月22日   | 星期五 23時30分 - 24時00分                                                                                           | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")     | 有重播                                      |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")               | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 2013年1月7日 - 3月25日   | 星期一 23時30分 - 24時00分                                                                                           | [獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink") |                                          |
 | [東京都](../Page/東京都.md "wikilink")                                  | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 星期一 25時30分 - 26時00分 |                                                                                                               |                                                           |                                          |
-| 日本全國                                                              | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 2013年1月8日 - 3月26日   | 星期二 24時30分 - 25時00分                                                                                           | 衛星電視                                                      | [ANIME+節目](../Page/ANIME+.md "wikilink") |
+| 日本全國                                                              | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 2013年1月8日 - 3月26日   | 星期二 24時30分 - 25時00分                                                                                           | 衛星電視                                                      | [ANIME+](../Page/ANIME+.md "wikilink")節目 |
 | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink") | 2013年1月12日 - 3月30日                                            | 星期六 11時00分更新        | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")                                                         |                                                           |                                          |
 
 ## 腳註

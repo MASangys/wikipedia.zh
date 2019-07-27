@@ -3,7 +3,7 @@ Ovsyannikov，最初于2009年展出概念模型，不过没有可操作的样�
 
 ## 設計特點
 
-Saritch的設計是以西方國家的現代軍用模塊化武器系統的概念作為靈感，它還採用了[犢牛式的佈局](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")。其擊發部件均隱藏在一個以聚合物製成，並具備高度人體工學的外殼內。用戶亦可通過其[機匣頂部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[皮卡汀尼導軌裝上各種瞄準鏡](../Page/皮卡汀尼導軌.md "wikilink")、激光指示器或[戰術燈等戰術配件](../Page/戰術燈.md "wikilink")，此槍還具備一具隱藏在[護木內的大型摺疊式](https://zh.wikipedia.org/wiki/護木 "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。Saritch是一種模塊化武器系統，有關生產出不同長度的槍管（分別為722mm、622mm、522mm）的提議已被提出，以望令它可擔任多種角色。
+Saritch的設計是以西方國家的現代軍用模塊化武器系統的概念作為靈感，它還採用了[犢牛式的佈局](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")。其擊發部件均隱藏在一個以聚合物製成，並具備高度人體工學的外殼內。用戶亦可通過其[機匣頂部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")裝上各種瞄準鏡、激光指示器或[戰術燈](../Page/戰術燈.md "wikilink")等戰術配件，此槍還具備一具隱藏在[護木內的大型摺疊式](https://zh.wikipedia.org/wiki/護木 "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。Saritch是一種模塊化武器系統，有關生產出不同長度的槍管（分別為722mm、622mm、522mm）的提議已被提出，以望令它可擔任多種角色。
 
 目前Saritch的樣槍是以作為半自動民用槍的前提下開發的，但設計者亦有考慮在必要時推出具備全自動射擊功能的軍用型。
 

@@ -16,7 +16,7 @@
         Phycodnaviridae
       - [潘多拉病毒科](https://zh.wikipedia.org/wiki/潘多拉病毒科 "wikilink")
         Pandoraviridae 病毒从一个完全不同的原始细胞系起源
-          - *[潘多拉病毒属](../Page/潘多拉病毒.md "wikilink") Pandoravirus*
+          - *[潘多拉病毒](../Page/潘多拉病毒.md "wikilink")属 Pandoravirus*
               - *咸潘多拉病毒 Pandoravirus salinus*
               - *甜潘多拉病毒 Pandoravirus dulcis*
       - [巨大病毒目](https://zh.wikipedia.org/wiki/巨大病毒目 "wikilink")

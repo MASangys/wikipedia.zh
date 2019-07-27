@@ -7,7 +7,7 @@
 ## 歷史
 
 2010年 - 11月29日在日本正式發售，雖然是迷你[多功能休旅車](../Page/多功能休旅車.md "wikilink")（mini
-MPV），但設定在4,000mm內的車長方便在都會區裡靈活行駛。標準配備具有含音響/[巡航定速控制鍵和換檔撥片的真皮三輻式](../Page/巡航定速.md "wikilink")[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、三環式儀表板、金屬飾板、防水不織布或皮革座椅、恆溫空調、真皮排檔桿頭、[CD音響主機](../Page/CD.md "wikilink")、[衛星導航影音系統](../Page/卫星导航系统.md "wikilink")、AUX端子、全景式天窗、快倒第二排座椅、高低可調行李廂隔板、多處置物格等。驅動方式分成[前置前驅和](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")[四輪驅動二種](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")；動力來源則有1.3L[直列四缸DOHC](../Page/直列四缸引擎.md "wikilink")
+MPV），但設定在4,000mm內的車長方便在都會區裡靈活行駛。標準配備具有含音響/[巡航定速](../Page/巡航定速.md "wikilink")控制鍵和換檔撥片的真皮三輻式[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、三環式儀表板、金屬飾板、防水不織布或皮革座椅、恆溫空調、真皮排檔桿頭、[CD](../Page/CD.md "wikilink")音響主機、[衛星導航影音系統](../Page/卫星导航系统.md "wikilink")、AUX端子、全景式天窗、快倒第二排座椅、高低可調行李廂隔板、多處置物格等。驅動方式分成[前置前驅和](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")[四輪驅動二種](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")；動力來源則有1.3L[直列四缸DOHC](../Page/直列四缸引擎.md "wikilink")
 1NR-FE型引擎及1.5L直列四缸DOHC 1NZ-FE型引擎可供選擇；全車系搭載ACTIVE
 [CVT](../Page/無段自動變速器.md "wikilink")，部分車型另提供七速手排模式，此外也可藉由「Sport
 Mode」按鍵自動調整引擎轉速、變速箱檔位等；安全配備具有六具SRS[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
@@ -15,7 +15,7 @@ Mode」按鍵自動調整引擎轉速、變速箱檔位等；安全配備具有�
 2011年 -
 2月開始外銷[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，除入門級車型搭載1.3L[直列四缸DOHC](../Page/直列四缸引擎.md "wikilink")
 1NR-FE型引擎外，還有一具1.4L直列四缸SOHC
-1ND-TV型[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎可供選擇](../Page/柴油引擎.md "wikilink")；內裝設計則和日規版幾無差異。
+1ND-TV型[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")可供選擇；內裝設計則和日規版幾無差異。
 
 2012年 - 8月1日部分改良，改善1.5L直列四缸DOHC
 1NZ-FE型引擎的油耗效能，而2WD車型除「1.5i」外，其餘皆配置[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")。

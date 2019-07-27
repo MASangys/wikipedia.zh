@@ -3,7 +3,7 @@ Jump](../Page/Super_Jump.md "wikilink")》2011年1號開始連載。
 
 ## 電視劇
 
-《**Dr.DMAT**》（），是[TBS電視台於](../Page/TBS電視台.md "wikilink")2014年1月9日至3月20日於[週四連續劇9時段播出的](../Page/週四連續劇9.md "wikilink")[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，主演為[大倉忠義](../Page/大倉忠義.md "wikilink")。
+《**Dr.DMAT**》（），是[TBS電視台](../Page/TBS電視台.md "wikilink")於2014年1月9日至3月20日於[週四連續劇9](../Page/週四連續劇9.md "wikilink")時段播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，主演為[大倉忠義](../Page/大倉忠義.md "wikilink")。
 
 ### 概要
 

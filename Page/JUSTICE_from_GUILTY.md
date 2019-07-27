@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")46張單曲，2012年12月5日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第46張單曲，2012年12月5日發行。
 
 ## 簡介
 

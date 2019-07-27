@@ -2,7 +2,7 @@
 
 ## 历史
 
-歌曲于1980年在澳大利亚发行，当年也是[1980年莫斯科奥运会举办年](https://zh.wikipedia.org/wiki/1980年莫斯科奥运会 "wikilink")\[1\]。澳大利亚的[七號電視網将该歌曲用于莫斯科奥运会报道的主题曲](../Page/七號電視網.md "wikilink")\[2\]。歌曲在澳大利亚大受欢迎，有六周登上榜单首位。
+歌曲于1980年在澳大利亚发行，当年也是[1980年莫斯科奥运会举办年](https://zh.wikipedia.org/wiki/1980年莫斯科奥运会 "wikilink")\[1\]。澳大利亚的[七號電視網](../Page/七號電視網.md "wikilink")将该歌曲用于莫斯科奥运会报道的主题曲\[2\]。歌曲在澳大利亚大受欢迎，有六周登上榜单首位。
 
 歌曲还在他们1980年专辑《Rom》中出现。该专辑版音乐达6分钟，但单曲版只有四分半长\[3\]。
 
@@ -10,7 +10,7 @@
 
 歌曲在2006年电子游戏《[太鼓达人携带版](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")2》中作为游戏歌曲首次登场，之后歌曲在日本开始流行并被填入[幻听歌词](https://zh.wikipedia.org/wiki/幻听 "wikilink")。
 
-歌曲还在俄罗斯莫斯科举办的[2009年歐洲歌唱大賽上作为开幕曲](../Page/2009年歐洲歌唱大賽.md "wikilink")。
+歌曲还在俄罗斯莫斯科举办的[2009年歐洲歌唱大賽](../Page/2009年歐洲歌唱大賽.md "wikilink")上作为开幕曲。
 
 ## 其他版本
 
@@ -18,14 +18,14 @@
     Messiah在一张专辑中收录了歌曲的改编版](https://zh.wikipedia.org/wiki/Black_Messiah "wikilink")\[5\]。
   - [Frederik和Tanssiorkesteri](https://zh.wikipedia.org/wiki/Frederik "wikilink")
     Lossimies录制了歌曲的芬兰语版本，题为“Volga”。
-  - 香港流行歌手[林子祥演唱了廣東歌改编版](../Page/林子祥.md "wikilink")，题为《世運在莫斯科》。
-  - 在中国大陆，[大张伟演唱了替词歌曲](../Page/大张伟.md "wikilink")《奋斗》。
+  - 香港流行歌手[林子祥](../Page/林子祥.md "wikilink")演唱了廣東歌改编版，题为《世運在莫斯科》。
+  - 在中国大陆，[大张伟](../Page/大张伟.md "wikilink")演唱了替词歌曲《奋斗》。
   - Georgie Dann在1980年演唱了歌曲的西班牙语版。
   - [HammerFall专辑](https://zh.wikipedia.org/wiki/HammerFall "wikilink")《Legacy
     of Kings》中歌曲《At the End of the Rainbow》的副歌一定程度上受到了《Moskau》副歌的影响。
   - [约翰·卡朋特在其电影](https://zh.wikipedia.org/wiki/约翰·卡朋特 "wikilink")《[The
     Fog](https://zh.wikipedia.org/wiki/The_Fog "wikilink")》中使用了音乐的曲调。
-  - 在[交响金属乐团](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿歌曲](../Page/夜愿.md "wikilink")《[Sacrament
+  - 在[交响金属乐团](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿](../Page/夜愿.md "wikilink")歌曲《[Sacrament
     of
     Wilderness](https://zh.wikipedia.org/wiki/Sacrament_of_Wilderness "wikilink")》的现场版中，其即兴演奏了《Moskau》中约位于三分钟时点的音乐。
   - 捷克滑稽乐团Los Rotopedos在2012年改编了这首歌，随后歌曲登上了[Český

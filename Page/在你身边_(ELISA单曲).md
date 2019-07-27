@@ -1,4 +1,4 @@
-「**在你身边**」（）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[ELISA的一支单曲作品](../Page/ELISA_\(歌手\).md "wikilink")。本单曲由ELISA作词、作曲则由[Shihori亲自操刀](../Page/Shihori.md "wikilink")。作为ELISA的第十支[单曲于](../Page/单曲.md "wikilink")2013年6月19日由[SME
+「**在你身边**」（）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[ELISA的一支单曲作品](../Page/ELISA_\(歌手\).md "wikilink")。本单曲由ELISA作词、作曲则由[Shihori](../Page/Shihori.md "wikilink")亲自操刀。作为ELISA的第十支[单曲](../Page/单曲.md "wikilink")于2013年6月19日由[SME
 Records发售](../Page/SME_Records.md "wikilink")。
 
 ## 概要

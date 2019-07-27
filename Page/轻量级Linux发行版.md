@@ -1,11 +1,11 @@
 **輕量級Linux發行版**是使用相對較少電腦資源的[Linux发行版](../Page/Linux发行版.md "wikilink")。舉例來說，只需要128
-MB的[RAM及](../Page/随机存取存储器.md "wikilink")[奔腾II處理器的](../Page/奔腾II.md "wikilink")[Lubuntu是](../Page/Lubuntu.md "wikilink")[Ubuntu的輕量級變體](../Page/Ubuntu.md "wikilink")，Ubuntu需要1
+MB的[RAM及](../Page/随机存取存储器.md "wikilink")[奔腾II](../Page/奔腾II.md "wikilink")處理器的[Lubuntu](../Page/Lubuntu.md "wikilink")是[Ubuntu](../Page/Ubuntu.md "wikilink")的輕量級變體，Ubuntu需要1
 GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
 
 ## 被認為較輕量的發行版
 
   - [Alpine Linux](../Page/Alpine_Linux.md "wikilink") －
-    注重安全的發行版，使用了[uClibc及](https://zh.wikipedia.org/wiki/uClibc "wikilink")[BusyBox因而較輕量](../Page/BusyBox.md "wikilink")\[4\]。最小下載大小是60
+    注重安全的發行版，使用了[uClibc及](https://zh.wikipedia.org/wiki/uClibc "wikilink")[BusyBox](../Page/BusyBox.md "wikilink")因而較輕量\[4\]。最小下載大小是60
     MB；基本系統（包含可執行核心）在5 MB以下。
 
   - － [MEPIS](https://zh.wikipedia.org/wiki/MEPIS "wikilink")
@@ -19,12 +19,12 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
     MB的RAM下運行\[6\]\[7\]。
 
   - [Bodhi Linux](../Page/Bodhi_Linux.md "wikilink") －
-    基於[Ubuntu長期支援版本的輕量級發行版](../Page/Ubuntu.md "wikilink")\[8\]。
+    基於[Ubuntu](../Page/Ubuntu.md "wikilink")長期支援版本的輕量級發行版\[8\]。
 
   - [CrunchBang
     Linux](https://zh.wikipedia.org/wiki/CrunchBang_Linux "wikilink") －
     相對較大的(771
-    MB)基於[Debian的](../Page/Debian.md "wikilink")，主要設計來加強速度及易用性的發行版\[9\]\[10\]。
+    MB)基於[Debian](../Page/Debian.md "wikilink")的，主要設計來加強速度及易用性的發行版\[9\]\[10\]。
 
   - [Damn Small
     Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink") －
@@ -32,14 +32,14 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
     MB。額外的軟體在“DSL擴展”中提供。擴展是使用必需額外安裝的Debian的APT工具。“輕到足以在486DX及16MB的RAM上執行”\[11\]\[12\]。
 
   - －
-    從[Knoppix衍生的輕量級發行版](../Page/Knoppix.md "wikilink")。現在處於不活躍的狀態\[13\]\[14\]。
+    從[Knoppix](../Page/Knoppix.md "wikilink")衍生的輕量級發行版。現在處於不活躍的狀態\[13\]\[14\]。
 
   - Kali Linux mini - [Kali
     Linux的輕量級版本](../Page/Kali_Linux.md "wikilink")，大小約28
     MB。Kail Linux是Backtrack的新代號，此一發行版被用於滲透測試。
 
   - [Lubuntu](../Page/Lubuntu.md "wikilink") －
-    比[Ubuntu輕量](../Page/Ubuntu.md "wikilink")，其使用[LXDE桌面環境](../Page/LXDE.md "wikilink")\[15\]。
+    比[Ubuntu](../Page/Ubuntu.md "wikilink")輕量，其使用[LXDE](../Page/LXDE.md "wikilink")桌面環境\[15\]。
 
   - － 基於MicroCore Linux，只有14 MB的發行版\[16\]。
 
@@ -47,7 +47,7 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
     基於Lubuntu\[17\]。
 
   - － 它只有不到300
-    MB的大小\[18\]。可選用[LXDE或](../Page/LXDE.md "wikilink")[KDE桌面環境](../Page/KDE.md "wikilink")。
+    MB的大小\[18\]。可選用[LXDE](../Page/LXDE.md "wikilink")或[KDE](../Page/KDE.md "wikilink")桌面環境。
 
   - [Puppy Linux](../Page/Puppy_Linux.md "wikilink") －
     比大多數其他的Linux發行版輕量\[19\]。下載大小：133
@@ -63,7 +63,7 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
 
   - [Trisquel
     Mini](https://zh.wikipedia.org/wiki/Trisquel#Trisquel_Mini "wikilink")
-    － Trisquel使用[LXDE的輕量級版本](../Page/LXDE.md "wikilink")\[23\]。
+    － Trisquel使用[LXDE](../Page/LXDE.md "wikilink")的輕量級版本\[23\]。
 
 ## 參見
 

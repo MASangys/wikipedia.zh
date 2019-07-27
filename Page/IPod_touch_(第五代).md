@@ -8,7 +8,7 @@ iPod 系列。它使用與 [iPhone
 A5](../Page/Apple_A5.md "wikilink")
 处理器；搭載了五百萬像素的後置攝像頭，支援[自動對焦並配有](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")
 [LED](https://zh.wikipedia.org/wiki/LED "wikilink")
-[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")，最大[光圈為](../Page/光圈.md "wikilink")
+[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")，最大[光圈](../Page/光圈.md "wikilink")為
 f/2.4。支援
 [Facetime](https://zh.wikipedia.org/wiki/Facetime "wikilink")、[Siri](../Page/Siri.md "wikilink")
 及 [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink")。連接器改用全新的

@@ -4,7 +4,7 @@ MP7而研發](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")，發射
 
 ## 研發
 
-UCP手槍的計劃可以追溯到2002年；當[德國聯邦國防軍試驗MP](../Page/德國聯邦國防軍.md "wikilink")7時，要求HK公司也研究彈藥通用的手槍。UCP的原型槍在2003年底公開，並參加了[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎於](../Page/巴黎.md "wikilink")2003年11月18-20日舉辦的國際軍警用裝備展（Milipol
+UCP手槍的計劃可以追溯到2002年；當[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")試驗MP7時，要求HK公司也研究彈藥通用的手槍。UCP的原型槍在2003年底公開，並參加了[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")於2003年11月18-20日舉辦的國際軍警用裝備展（Milipol
 2003）。
 
 根據公佈的計劃，HK公司將在整個2004年期間繼續測試UCP，並計劃在2004年年底讓可能的軍方和警方客戶評估該槍樣品，在2005年初開始批量生產。然而，HK公司在2009年因為某些原因而取消了UCP手槍的計劃。

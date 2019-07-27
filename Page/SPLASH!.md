@@ -1,4 +1,4 @@
-《**SPLASH\!**》，是日本摇滚组合[B'z的第](../Page/B'z.md "wikilink")42張單曲。2006年6月7日由[VERMILLION
+《**SPLASH\!**》，是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的第42張單曲。2006年6月7日由[VERMILLION
 RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLION_RECORDS "wikilink")，最終銷量約33萬張。\[1\]
 
 ## 收錄曲

@@ -1,7 +1,7 @@
 **Icarus
-Verilog**是[Verilog](../Page/Verilog.md "wikilink")[硬件描述语言的实现工具之一](../Page/硬件描述语言.md "wikilink")。它支持Verilog对应的的[IEEE](../Page/电气电子工程师学会.md "wikilink")
+Verilog**是[Verilog](../Page/Verilog.md "wikilink")[硬件描述语言](../Page/硬件描述语言.md "wikilink")的实现工具之一。它支持Verilog对应的的[IEEE](../Page/电气电子工程师学会.md "wikilink")
 1995、IEEE 2001和IEEE
-2005三个不同的版本，并对[SystemVerilog的部分内容提供支持](../Page/SystemVerilog.md "wikilink")。
+2005三个不同的版本，并对[SystemVerilog](../Page/SystemVerilog.md "wikilink")的部分内容提供支持。
 
 Icarus
 Verilog可以配置在[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")、[Microsoft
@@ -12,7 +12,7 @@ X环境中](https://zh.wikipedia.org/wiki/OS_X "wikilink")。该软件以[GNU通
 
 ## 历史
 
-该软件的作者本人并不记得最初是在何时开始了这个项目，不过[協作版本系統的记录显示](../Page/協作版本系統.md "wikilink")，这一软件的历史可以追溯到1998年，迄今为止发布了0.2版到0.9版。
+该软件的作者本人并不记得最初是在何时开始了这个项目，不过[協作版本系統](../Page/協作版本系統.md "wikilink")的记录显示，这一软件的历史可以追溯到1998年，迄今为止发布了0.2版到0.9版。
 
 Icarus Verilog的开发工作主要由史蒂芬·威廉姆斯（）个人独立完成。其中一些部分以补丁的形式提供。
 

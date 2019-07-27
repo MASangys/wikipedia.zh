@@ -1,4 +1,4 @@
-TGM7型柴油机车（俄语：ТГМ7）是[苏联萨哈林窄轨铁路的调车](../Page/苏联.md "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[柳季诺沃内燃机车制造厂设计制造](../Page/柳季诺沃内燃机车制造厂.md "wikilink")。
+TGM7型柴油机车（俄语：ТГМ7）是[苏联](../Page/苏联.md "wikilink")萨哈林窄轨铁路的调车[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[柳季诺沃内燃机车制造厂](../Page/柳季诺沃内燃机车制造厂.md "wikilink")设计制造。
 
 ## 参看
 

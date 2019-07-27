@@ -23,14 +23,14 @@ MSM-04由于其大脑袋圆滚滚而可爱的造型，以及電影《哀·戰士
 
 ## 简介
 
-[一年战争时期](../Page/一年战争.md "wikilink")，[吉翁公国军出于在](https://zh.wikipedia.org/wiki/吉翁公国 "wikilink")[地球作战的需要](../Page/地球.md "wikilink")，要求其军工产业设计水陆两用的机动战士。第一种成功量产的此类机体是[ZIMAD社的](https://zh.wikipedia.org/wiki/ZIMAD社 "wikilink")[MSM-03葛克](https://zh.wikipedia.org/wiki/MSM-03 "wikilink")。在MSM-03投产后，ZIMAD社的竞争对手[吉翁尼克社也迅速开发出他们自己的水陆两用MS](https://zh.wikipedia.org/wiki/吉翁尼克社 "wikilink")，即MSM-04
+[一年战争](../Page/一年战争.md "wikilink")时期，[吉翁公国军出于在](https://zh.wikipedia.org/wiki/吉翁公国 "wikilink")[地球](../Page/地球.md "wikilink")作战的需要，要求其军工产业设计水陆两用的机动战士。第一种成功量产的此类机体是[ZIMAD社的](https://zh.wikipedia.org/wiki/ZIMAD社 "wikilink")[MSM-03葛克](https://zh.wikipedia.org/wiki/MSM-03 "wikilink")。在MSM-03投产后，ZIMAD社的竞争对手[吉翁尼克社也迅速开发出他们自己的水陆两用MS](https://zh.wikipedia.org/wiki/吉翁尼克社 "wikilink")，即MSM-04
 亞凱。值得注意的是，虽然亞凱编号在前，实际上其开发时间要晚于吉翁另一家军火巨头[MIP社所研制的水陆两用机动战士](https://zh.wikipedia.org/wiki/MIP社 "wikilink")
 [MSM-07茲卡克](https://zh.wikipedia.org/wiki/MSM-07 "wikilink")；但是亞凱投入战场的时间却比葛克早。
 
 为了方便开发，MSM-04使用了很多源自吉翁主力泛用型量产机体[MS-06
 扎古II的技术](https://zh.wikipedia.org/wiki/MS-06_扎古II "wikilink")，包括直接移植MS-06的零件。
 
-MSM-04产量不多，但曾经在[欧洲](../Page/欧洲.md "wikilink")、[东南亚和](https://zh.wikipedia.org/wiki/东南亚 "wikilink")[南美洲的广大地域作战](../Page/南美洲.md "wikilink")，包括对[地球联邦军总部](https://zh.wikipedia.org/wiki/地球联邦军 "wikilink")[贾布罗的潜入作战](https://zh.wikipedia.org/wiki/贾布罗 "wikilink")，除了對潛／對艦及灣岸攻擊外，亞凱的座艙內設有額外的座位以便運送兩棲部隊的步兵。
+MSM-04产量不多，但曾经在[欧洲](../Page/欧洲.md "wikilink")、[东南亚和](https://zh.wikipedia.org/wiki/东南亚 "wikilink")[南美洲](../Page/南美洲.md "wikilink")的广大地域作战，包括对[地球联邦军总部](https://zh.wikipedia.org/wiki/地球联邦军 "wikilink")[贾布罗的潜入作战](https://zh.wikipedia.org/wiki/贾布罗 "wikilink")，除了對潛／對艦及灣岸攻擊外，亞凱的座艙內設有額外的座位以便運送兩棲部隊的步兵。
 
 ## 主要型号
 

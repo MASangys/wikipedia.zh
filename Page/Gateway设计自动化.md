@@ -1,6 +1,6 @@
 **Gateway设计自动化**（）公司，最初名为**自动化集成设计系统**（）公司，是一个致力于[电子设计自动化的企业](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")，该公司于1985年改为现名。最初，公司由Prabhu
 Goel博士持有，他是PODEM测试生成算法的发明者。\[1\]
-[Verilog硬件描述语言则由菲尔](../Page/Verilog.md "wikilink")·莫比（）设计\[2\]，他后来成为了Verilog-XL的首席设计师，并成为了[Cadence
+[Verilog](../Page/Verilog.md "wikilink")硬件描述语言则由菲尔·莫比（）设计\[2\]，他后来成为了Verilog-XL的首席设计师，并成为了[Cadence
 Design
 Systems的首批合伙人](https://zh.wikipedia.org/wiki/Cadence_Design_Systems "wikilink")。凭借着Verilog-XL的成功，Gateway设计自动化迅猛发展，后来它于1989年被位于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣迭戈的Cadence公司收购](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")。\[3\]
 

@@ -38,7 +38,7 @@ Bettis飞出了406.5km/h的创纪录时速并赢得了冠军。
 
 ## 流行文化
 
-在[宫崎骏的动画电影](../Page/宫崎骏.md "wikilink")[红猪中](../Page/红猪.md "wikilink")，男二号唐纳德·卡地士（Donald
+在[宫崎骏](../Page/宫崎骏.md "wikilink")的动画电影[红猪](../Page/红猪.md "wikilink")中，男二号唐纳德·卡地士（Donald
 Curtis）驾驶一架加装了武器的**寇蒂斯 R3C-0 Fighter Sea
 Plane**与主角波鲁克战斗。这个架空机体基本上是R3C-2的武装版。飞机被漆成深蓝色，并在垂尾上绘着响尾蛇的幸运图案。武器上增加了两支7.7mm
 [勃朗宁机枪](https://zh.wikipedia.org/wiki/勃朗宁M1919中型机枪 "wikilink")。\[3\]

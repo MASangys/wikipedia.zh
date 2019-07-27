@@ -1,4 +1,4 @@
-，2013年[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[關西電視台製作](../Page/關西電視台.md "wikilink")，在2013年7月9日至9月10日期間於[富士電視網播放](../Page/富士電視網.md "wikilink")。此劇由[廣末涼子主演](../Page/廣末涼子.md "wikilink")，距離她上次主演連續劇已有17年\[1\]。
+，2013年[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[關西電視台](../Page/關西電視台.md "wikilink")製作，在2013年7月9日至9月10日期間於[富士電視網](../Page/富士電視網.md "wikilink")播放。此劇由[廣末涼子](../Page/廣末涼子.md "wikilink")主演，距離她上次主演連續劇已有17年\[1\]。
 
 ## 劇情
 

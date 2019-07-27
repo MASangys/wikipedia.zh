@@ -1,5 +1,5 @@
 《**Hello...My Name
-Is**》是歌手[關楚耀的第三張音樂專輯](../Page/關楚耀.md "wikilink")，於2008年10月22日推出，隨碟收錄「萬世巨星Hello\!
+Is**》是歌手[關楚耀](../Page/關楚耀.md "wikilink")的第三張音樂專輯，於2008年10月22日推出，隨碟收錄「萬世巨星Hello\!
 My Name Is關楚耀音樂會」錄像，更贈送首批限量Kelvin-bow tie特別版。
 
 ## 曲目

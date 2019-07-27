@@ -1,5 +1,5 @@
 **Acer
-CloudMobile**為[台灣IT公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏碁開發的智慧型手機](../Page/宏碁.md "wikilink")。出廠搭載
+CloudMobile**為[台灣IT公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發的智慧型手機。出廠搭載
 [Android 4.0](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink")
 作業系統，可升級[Android
 4.1.2](https://zh.wikipedia.org/wiki/Android_4.1.2 "wikilink")
@@ -18,7 +18,7 @@ HD](../Page/Full_HD.md "wikilink")）視頻和數字音頻，同時為設備充�
 
   - [Acer](https://zh.wikipedia.org/wiki/Acer "wikilink")
     CloudMobile在中國大陸預發售的機型為[Acer](https://zh.wikipedia.org/wiki/Acer "wikilink")
-    A800，2013年發佈會前被[Google緊急叫停](../Page/Google.md "wikilink")。
+    A800，2013年發佈會前被[Google](../Page/Google.md "wikilink")緊急叫停。
 
 ## 參見
 

@@ -1,5 +1,5 @@
 [MACS_0717.jpg](https://zh.wikipedia.org/wiki/File:MACS_0717.jpg "fig:MACS_0717.jpg")
-的[钱德拉X射线天文台拍攝的星系團MACS](../Page/钱德拉X射线天文台.md "wikilink")
+的[钱德拉X射线天文台](../Page/钱德拉X射线天文台.md "wikilink")拍攝的星系團MACS
 J0717.5+3745合成影像。影像橫跨約770萬光年。\]\]
 [Cluster_MACS_J0717.5+3745.jpg](https://zh.wikipedia.org/wiki/File:Cluster_MACS_J0717.5+3745.jpg "fig:Cluster_MACS_J0717.5+3745.jpg")拍攝MACS
 J0717.5+3745的近紅外線影像。\]\]

@@ -18,7 +18,7 @@
     C04AB02
     [妥拉唑啉](https://zh.wikipedia.org/wiki/妥拉唑啉 "wikilink")（Tolazoline）
 
-### C04AC [烟酸及其衍生物](../Page/烟酸.md "wikilink")（Nicotinic acid and derivatives）
+### C04AC [烟酸](../Page/烟酸.md "wikilink")及其衍生物（Nicotinic acid and derivatives）
 
   -
     C04AC01 [烟酸](../Page/烟酸.md "wikilink")（Nicotinic acid）
@@ -30,7 +30,7 @@
     C04AC07
     [环烟酯](https://zh.wikipedia.org/wiki/环烟酯 "wikilink")（Ciclonicate）
 
-### C04AD [嘌呤衍生物](../Page/嘌呤.md "wikilink")（Purine derivatives）
+### C04AD [嘌呤](../Page/嘌呤.md "wikilink")衍生物（Purine derivatives）
 
   -
     C04AD01
@@ -46,7 +46,7 @@
     QC04AD90
     [丙戊茶碱](https://zh.wikipedia.org/wiki/丙戊茶碱 "wikilink")（Propentofylline）
 
-### C04AE [麦角生物碱类](../Page/麦角.md "wikilink")（Ergot alkaloids）
+### C04AE [麦角](../Page/麦角.md "wikilink")生物碱类（Ergot alkaloids）
 
   -
     C04AE01

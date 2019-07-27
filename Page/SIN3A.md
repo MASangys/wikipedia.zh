@@ -2,7 +2,7 @@
 
 ## 功能
 
-SIN3A是一种[转录调控蛋白](../Page/转录.md "wikilink")，包含有成对[两亲性螺旋结构域](../Page/两亲分子.md "wikilink")（paired
+SIN3A是一种[转录](../Page/转录.md "wikilink")调控蛋白，包含有成对[两亲性螺旋结构域](../Page/两亲分子.md "wikilink")（paired
 amphipathic helix，PAH），对蛋白质互作非常重要\[3\]。
 
 ## 互作

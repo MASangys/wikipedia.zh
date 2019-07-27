@@ -1,8 +1,8 @@
-**MBBA**，即**N-(4-甲氧基苯亞甲基)-4-丁基苯胺**（），是一種[有機化合物](https://zh.wikipedia.org/wiki/有機化合物 "wikilink")，屬於[亞胺類](https://zh.wikipedia.org/wiki/亞胺 "wikilink")，含有[醚](../Page/醚.md "wikilink")、[苯](../Page/苯.md "wikilink")、醛亞胺和[醚等](../Page/醚.md "wikilink")[官能基](https://zh.wikipedia.org/wiki/官能基 "wikilink")，具有[液晶相態](../Page/液晶.md "wikilink")，且[常溫下就呈液晶態](https://zh.wikipedia.org/wiki/常溫 "wikilink")\[1\]，是一種研究较多的液晶材料，其[化學式為C](https://zh.wikipedia.org/wiki/化學式 "wikilink")<sub>18</sub>H<sub>21</sub>NO\[2\]。
+**MBBA**，即**N-(4-甲氧基苯亞甲基)-4-丁基苯胺**（），是一種[有機化合物](https://zh.wikipedia.org/wiki/有機化合物 "wikilink")，屬於[亞胺類](https://zh.wikipedia.org/wiki/亞胺 "wikilink")，含有[醚](../Page/醚.md "wikilink")、[苯](../Page/苯.md "wikilink")、醛亞胺和[醚](../Page/醚.md "wikilink")等[官能基](https://zh.wikipedia.org/wiki/官能基 "wikilink")，具有[液晶](../Page/液晶.md "wikilink")相態，且[常溫下就呈液晶態](https://zh.wikipedia.org/wiki/常溫 "wikilink")\[1\]，是一種研究较多的液晶材料，其[化學式為C](https://zh.wikipedia.org/wiki/化學式 "wikilink")<sub>18</sub>H<sub>21</sub>NO\[2\]。
 
 ## 性質
 
-MBBA的在[常溫下為](https://zh.wikipedia.org/wiki/常溫 "wikilink")[液晶態](../Page/液晶.md "wikilink")，[凝固點為](https://zh.wikipedia.org/wiki/凝固點 "wikilink")22度\[3\]，[熔點為](https://zh.wikipedia.org/wiki/熔點 "wikilink")47度\[4\]，22到47度為液晶相\[5\]\[6\]。從[固態變成液晶態的相變熱為ΔH](https://zh.wikipedia.org/wiki/固態 "wikilink")<sub>trs</sub>=15.9377
+MBBA的在[常溫下為](https://zh.wikipedia.org/wiki/常溫 "wikilink")[液晶](../Page/液晶.md "wikilink")態，[凝固點為](https://zh.wikipedia.org/wiki/凝固點 "wikilink")22度\[3\]，[熔點為](https://zh.wikipedia.org/wiki/熔點 "wikilink")47度\[4\]，22到47度為液晶相\[5\]\[6\]。從[固態變成液晶態的相變熱為ΔH](https://zh.wikipedia.org/wiki/固態 "wikilink")<sub>trs</sub>=15.9377
 kJ/mol、ΔS<sub>trs</sub>=53.91 k/mol
 K；從液晶相變成液相的相變熱為ΔH<sub>trs</sub>=0.2841
 kJ/mol、ΔS<sub>trs</sub>=0.89 k/mol
@@ -11,7 +11,7 @@ kJ/mol、ΔS<sub>trs</sub>=61.04 k/mol
 K\[8\]，[三相點約為](https://zh.wikipedia.org/wiki/三相點 "wikilink")[攝氏](https://zh.wikipedia.org/wiki/攝氏 "wikilink")20度\[9\]，另外，固、液、液晶共存為295.3
 K，約為22.15 °C\[10\]。
 
-MBBA不溶於[水](../Page/水.md "wikilink")、異氰酸酯、鹵代有機物、[過氧化物](https://zh.wikipedia.org/wiki/過氧化物 "wikilink")、[酚類](https://zh.wikipedia.org/wiki/酚類 "wikilink")（[酸性](https://zh.wikipedia.org/wiki/酸性 "wikilink")）、環氧化物、[酸酐和鹵化物](../Page/酸酐.md "wikilink")，與氫結合可能生成強還原劑，如氫化物。\[11\]
+MBBA不溶於[水](../Page/水.md "wikilink")、異氰酸酯、鹵代有機物、[過氧化物](https://zh.wikipedia.org/wiki/過氧化物 "wikilink")、[酚類](https://zh.wikipedia.org/wiki/酚類 "wikilink")（[酸性](https://zh.wikipedia.org/wiki/酸性 "wikilink")）、環氧化物、[酸酐](../Page/酸酐.md "wikilink")和鹵化物，與氫結合可能生成強還原劑，如氫化物。\[11\]
 
 MBBA為長條型[液晶](../Page/液晶.md "wikilink")[分子](../Page/分子.md "wikilink")，[常溫下會以間列式](https://zh.wikipedia.org/wiki/常溫 "wikilink")（線條式，或稱為[向列型](https://zh.wikipedia.org/wiki/向列型液晶 "wikilink")，nematic
 phase）的方式排列。\[12\]
@@ -23,9 +23,9 @@ phase）的方式排列。\[12\]
 
 ## 制備
 
-制備MBBA可由[茴香醛](../Page/茴香醛.md "wikilink")（又稱[對甲氧基苯甲醛](https://zh.wikipedia.org/wiki/對甲氧基苯甲醛 "wikilink")）和[對丁基苯胺發生](../Page/對丁基苯胺.md "wikilink")[縮合反應脫去一](../Page/縮合反應.md "wikilink")[水分子製得](https://zh.wikipedia.org/wiki/水分子 "wikilink")，即常見的亞胺制備流程，以[對丁基苯胺的](../Page/對丁基苯胺.md "wikilink")[氮上](../Page/氮.md "wikilink")[孤對電子攻擊](https://zh.wikipedia.org/wiki/孤對電子 "wikilink")[對甲氧基苯甲醛的](https://zh.wikipedia.org/wiki/對甲氧基苯甲醛 "wikilink")[羰基發生](../Page/羰基.md "wikilink")[親核加成反應](https://zh.wikipedia.org/wiki/親核加成反應 "wikilink")，得到[季銨](https://zh.wikipedia.org/wiki/季銨鹽 "wikilink")[半縮醛](https://zh.wikipedia.org/wiki/半縮醛 "wikilink")，在適當條件轉變為[半縮醛胺中間體](https://zh.wikipedia.org/wiki/半縮醛胺 "wikilink")，再脫去一[水分子](https://zh.wikipedia.org/wiki/水分子 "wikilink")，即發生得到產物MBBA\[13\]。
+制備MBBA可由[茴香醛](../Page/茴香醛.md "wikilink")（又稱[對甲氧基苯甲醛](https://zh.wikipedia.org/wiki/對甲氧基苯甲醛 "wikilink")）和[對丁基苯胺](../Page/對丁基苯胺.md "wikilink")發生[縮合反應](../Page/縮合反應.md "wikilink")脫去一[水分子製得](https://zh.wikipedia.org/wiki/水分子 "wikilink")，即常見的亞胺制備流程，以[對丁基苯胺](../Page/對丁基苯胺.md "wikilink")的[氮](../Page/氮.md "wikilink")上[孤對電子攻擊](https://zh.wikipedia.org/wiki/孤對電子 "wikilink")[對甲氧基苯甲醛的](https://zh.wikipedia.org/wiki/對甲氧基苯甲醛 "wikilink")[羰基](../Page/羰基.md "wikilink")發生[親核加成反應](https://zh.wikipedia.org/wiki/親核加成反應 "wikilink")，得到[季銨](https://zh.wikipedia.org/wiki/季銨鹽 "wikilink")[半縮醛](https://zh.wikipedia.org/wiki/半縮醛 "wikilink")，在適當條件轉變為[半縮醛胺中間體](https://zh.wikipedia.org/wiki/半縮醛胺 "wikilink")，再脫去一[水分子](https://zh.wikipedia.org/wiki/水分子 "wikilink")，即發生得到產物MBBA\[13\]。
 
-一般會選用[苯或](../Page/苯.md "wikilink")[甲苯作為](../Page/甲苯.md "wikilink")[溶劑](https://zh.wikipedia.org/wiki/溶劑 "wikilink")，因為它們和水都會有[共沸現象](../Page/共沸.md "wikilink")，再用[迪安-斯塔克裝置把水從系統中移除或使用](https://zh.wikipedia.org/wiki/迪安-斯塔克裝置 "wikilink")[分子篩](https://zh.wikipedia.org/wiki/分子篩 "wikilink")，使平衡移至MBBA方向以制備MBBA。
+一般會選用[苯](../Page/苯.md "wikilink")或[甲苯](../Page/甲苯.md "wikilink")作為[溶劑](https://zh.wikipedia.org/wiki/溶劑 "wikilink")，因為它們和水都會有[共沸](../Page/共沸.md "wikilink")現象，再用[迪安-斯塔克裝置把水從系統中移除或使用](https://zh.wikipedia.org/wiki/迪安-斯塔克裝置 "wikilink")[分子篩](https://zh.wikipedia.org/wiki/分子篩 "wikilink")，使平衡移至MBBA方向以制備MBBA。
 
 1969年，漢斯·克爾克（Hans
 Kelker）首次成功合成MBBA，是當時少數於室溫下呈間列式液晶相的液晶材料，且成為最熱門的液晶研究的課題之一\[14\]。

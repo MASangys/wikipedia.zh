@@ -4,15 +4,15 @@
 
 ### 事业的起源
 
-查理·B生于[罗马的一个音乐世家](../Page/罗马.md "wikilink")，他有[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")，[德国和](../Page/德国.md "wikilink")[亚美尼亚的血统](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")。查理-B
-4岁搬到[日内瓦](../Page/日内瓦.md "wikilink")，儿时的生活基本在那里度过。当时对他最重要的就是[音乐](../Page/音乐.md "wikilink")。15岁的时候他参加了一个“美国战地服务团”，被安置在[牙买加的一个家庭生活](../Page/牙买加.md "wikilink")，并就读于当地的一个叫IONA
-的高中，那个时候是他第一次接触[雷鬼音乐](https://zh.wikipedia.org/wiki/雷鬼音乐 "wikilink")。然后，他在[加拿大的](../Page/加拿大.md "wikilink")[School
+查理·B生于[罗马](../Page/罗马.md "wikilink")的一个音乐世家，他有[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")，[德国](../Page/德国.md "wikilink")和[亚美尼亚的血统](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")。查理-B
+4岁搬到[日内瓦](../Page/日内瓦.md "wikilink")，儿时的生活基本在那里度过。当时对他最重要的就是[音乐](../Page/音乐.md "wikilink")。15岁的时候他参加了一个“美国战地服务团”，被安置在[牙买加](../Page/牙买加.md "wikilink")的一个家庭生活，并就读于当地的一个叫IONA
+的高中，那个时候是他第一次接触[雷鬼音乐](https://zh.wikipedia.org/wiki/雷鬼音乐 "wikilink")。然后，他在[加拿大](../Page/加拿大.md "wikilink")的[School
 of Recording
-Arts](http://recordingarts.com/)和[日内瓦的](../Page/日内瓦.md "wikilink")[Sound
+Arts](http://recordingarts.com/)和[日内瓦](../Page/日内瓦.md "wikilink")的[Sound
 and Audio Engineering
 School](http://geneve.sae.edu/fr/home/)学习声乐和音乐方面的各项技巧。
 
-才15岁的他就已经对[雷鬼音乐感兴趣了](https://zh.wikipedia.org/wiki/雷鬼音乐 "wikilink")，他开始创作他的第一首歌。在[加拿大学习音乐](../Page/加拿大.md "wikilink")，在牙买加度过的漫长岁月和在[法国经历的日子](https://zh.wikipedia.org/wiki/法国 "wikilink")，造就了这个艺术家的风格。他曾经和多为著名歌唱家合作演出，例如：Capleton,
+才15岁的他就已经对[雷鬼音乐感兴趣了](https://zh.wikipedia.org/wiki/雷鬼音乐 "wikilink")，他开始创作他的第一首歌。在[加拿大](../Page/加拿大.md "wikilink")学习音乐，在牙买加度过的漫长岁月和在[法国经历的日子](https://zh.wikipedia.org/wiki/法国 "wikilink")，造就了这个艺术家的风格。他曾经和多为著名歌唱家合作演出，例如：Capleton,
 Kiprich , DeMarco,Anthony B 等。
 
 ### 事业历程
@@ -54,7 +54,7 @@ Edition”中.
 
 ## 世界巡回演出月南站
 
-2010年5月，查理·B在[越南的](https://zh.wikipedia.org/wiki/越南 "wikilink")[河内市和](https://zh.wikipedia.org/wiki/河内市 "wikilink")[胡志明市两个城市演出](../Page/胡志明市.md "wikilink")。（同时受邀Cama
+2010年5月，查理·B在[越南的](https://zh.wikipedia.org/wiki/越南 "wikilink")[河内市和](https://zh.wikipedia.org/wiki/河内市 "wikilink")[胡志明市](../Page/胡志明市.md "wikilink")两个城市演出。（同时受邀Cama
 Festival电视台访问）
 
 ## 主要作品
@@ -122,7 +122,7 @@ Festival电视台访问）
   - *Everything OK* -
     [安东尼奥港](https://zh.wikipedia.org/wiki/安东尼奥港 "wikilink")
     ([牙买加](../Page/牙买加.md "wikilink"))， 2012年
-  - *Gipsy* (跟Nordia Witter) - [牙买加的Trident](../Page/牙买加.md "wikilink")
+  - *Gipsy* (跟Nordia Witter) - [牙买加](../Page/牙买加.md "wikilink")的Trident
     Castle. 2013年
 
 ## 电视节目

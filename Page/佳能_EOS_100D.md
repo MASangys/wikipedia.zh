@@ -1,5 +1,5 @@
 **佳能EOS
-100D**是[佳能于](../Page/佳能.md "wikilink")2013年3月推出的一款[单镜反光相机](../Page/单镜反光相机.md "wikilink")，有效像素为1800万。佳能称该相机为“全球最轻，最小的单反相机”\[1\]。**100D**为其在中国、韩国及欧洲市场命名，日本本土型号为*'EOS
+100D**是[佳能](../Page/佳能.md "wikilink")于2013年3月推出的一款[单镜反光相机](../Page/单镜反光相机.md "wikilink")，有效像素为1800万。佳能称该相机为“全球最轻，最小的单反相机”\[1\]。**100D**为其在中国、韩国及欧洲市场命名，日本本土型号为*'EOS
 Kiss X7 **，在北美市场则为**EOS Rebel SL1*'。
 
 100D的机身重量为370克，较其他单反相机相比重量较轻，后期提供了白色机身可选，并且配备了[触摸屏](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")。
@@ -34,7 +34,7 @@ STM镜头的套装\[7\]。中国大陆发售的套装，额外附带“瞳画世
 
 佳能英国公司于2014年9月推出了与[斯特拉·麦卡特尼Stella](https://zh.wikipedia.org/wiki/斯特拉·麦卡特尼 "wikilink")
 McCartney设计手包配套的白色版EOS
-100D\[9\]，套装将在11月于[哈洛德百货公司和](https://zh.wikipedia.org/wiki/哈洛德百货公司 "wikilink")[Selfridges销售](../Page/Selfridges.md "wikilink")\[10\]。
+100D\[9\]，套装将在11月于[哈洛德百货公司和](https://zh.wikipedia.org/wiki/哈洛德百货公司 "wikilink")[Selfridges](../Page/Selfridges.md "wikilink")销售\[10\]。
 
 ## 参见
 

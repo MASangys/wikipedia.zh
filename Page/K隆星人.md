@@ -1,4 +1,4 @@
-**K隆星人**是[吉崎觀音的](../Page/吉崎觀音.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》中登場的虛構外星人。
+**K隆星人**是[吉崎觀音](../Page/吉崎觀音.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》中登場的虛構外星人。
 
 ## 特徵
 
@@ -38,7 +38,7 @@
 
   - Tamama 二等兵（）
     配音：日本→[小櫻悅子](../Page/小櫻悅子.md "wikilink")；台灣→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；香港→[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／[王夢華](../Page/王夢華.md "wikilink")（第二季
-    DVD/VCD）
+    DVD/VCD）／[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")（劇場版決戰水著兵團、天空大作戰）
     Keroro小隊最年輕的隊員，養主是西澤桃華，最愛吃零食。討厭摩亞，稱摩亞為「那個女人」。擁有雙重人格，平常是小隊的開心果，但一激動起來就會暴走。
     名稱乃取至日語的[蛋](../Page/蛋.md "wikilink")。體色為藍黑色，肚子與額頭的符號為兩個平行四邊形，一為綠，一為黃。記號代表「[新手](https://zh.wikipedia.org/wiki/新手駕駛標誌 "wikilink")」之意。最年輕的隊員（仍為幼年期K隆星人），還有蝌蚪的尾巴。但於108話被人生有二次槍射中時，只有尾巴消失，臉部並沒有像一般成年K隆星人一樣改變。擁有雙重人格。寄居於有錢人家──[西澤桃華家](https://zh.wikipedia.org/wiki/西澤桃華 "wikilink")，而西澤桃華也同時擁有雙重人格。
     Tamama對Keroro十分的喜歡，經常去日向家找Keroro。但因同時[安哥爾·摩亞也喜歡Keroro](https://zh.wikipedia.org/wiki/安哥爾·摩亞 "wikilink")，所以Tamama也十分妒忌她，並稱她為「那個女人」。於動畫第22話Tamama曾因誤會當上小隊隊長，想**用點心征服藍星**（是小孩子的心態）。於171話中Tamama叛逆期時的用語、態度更為惡劣。由於忌妒心強。因此於動畫第22話中當上隊長後，統率力強，但報復心也甚強。擁有的絕招，例：Tamama衝擊波（這個絕招常出現）、超空間移動（漫畫限定）、Tamama擴散衝擊波（動畫原創）、嫉妒玉（動畫原創，惡搞自七龍珠的元氣玉）等。得知他有[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")，另於動畫161卷（台譯）得知Tamama之電話答鈴為「蛙有夠勇」（[台語發音](https://zh.wikipedia.org/wiki/台語 "wikilink")）。
@@ -51,12 +51,12 @@
     配音：日本→[子安武人](../Page/子安武人.md "wikilink")；台灣→[黃天佑](../Page/黃天佑.md "wikilink")；香港→[陳冠宏](../Page/陳冠宏.md "wikilink")（有線電視）／[黎家希](../Page/黎家希.md "wikilink")（第二季
     DVD/VCD）／[雷霆](../Page/雷霆.md "wikilink")、[蘇強文](../Page/蘇強文.md "wikilink")<small>（代配）</small>（無綫電視）
     Keroro小隊的作戰通讯參謀，養主是北城睦實，但與Keroro等人一起居住在日向家。笑聲陰濕的發明家，最愛咖哩飯，花名為「黃仔」。雖然他很聰明，但他發明的東西一定會為人帶來麻煩。
-    名稱來源來自日語的**旋轉**，耳朵可用作插電腦傳輸線、散播電波或通訊。Keroro小隊的軍師兼高階通信參謀。體色為黃色，戴著螺旋狀的古怪眼鏡，因此看不到他的眼睛表情(眼睛極可能為紅色，因為他變身為月島Kulu子時眼睛就是紅色的)；帽子上的記號為漩渦狀的圖形。幼時體色原是淺藍色，當年撿到把幼時Keroro、Giroro等人困住的Kero球，聽到裡面Keroro的求救。Kululu便要求要請他吃一世[咖哩飯](../Page/咖哩.md "wikilink")。Keroro得救後守諾言，用Kero球變出的超大[咖哩飯](../Page/咖哩.md "wikilink")，但因為太大而壓在Kururu身上。浸泡在黃色的咖哩後，Kururu變成現在的樣子。（小kero
+    名稱來源來自日語的**旋轉**，耳朵可用作插電腦傳輸線、散播電波或通訊。Keroro小隊的軍師兼高階通信參謀。體色為黃色，戴著螺旋狀的古怪眼鏡，因此看不到他的眼睛表情(眼睛極可能為紅色，因為他變身為月島Kulu子時眼睛就是紅色的)；帽子上的記號為漩渦狀的圖形。幼時體色原是淺藍色，當年撿到把幼時Keroro、Giroro等人困住的Kero球，聽到裡面Keroro的求救。Kululu便要求要請他吃一世[咖哩](../Page/咖哩.md "wikilink")飯。Keroro得救後守諾言，用Kero球變出的超大[咖哩](../Page/咖哩.md "wikilink")飯，但因為太大而壓在Kururu身上。浸泡在黃色的咖哩後，Kururu變成現在的樣子。（小kero
     kero球的祕密）
     因為名字與「966」的日文發音接近，所以經常將自己的物品加上「966」的標記。keroro每次的侵略行動幾乎都要Kururu幫忙。漫畫版中曾稱呼Giroro為學長，由此得知他比Keroro、Giroro與Dororo年輕，但[軍階卻是全隊最高的](https://zh.wikipedia.org/wiki/軍階 "wikilink")。年輕時已是天才發明家，專長是發明資訊科技和各式用品，拿出道具時還會模仿漫畫《[多啦A夢](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")》。漫畫83話提及他曾以史無前例的速度升為少佐(＝少校)，但因惡意操弄軍方情報而被降級為曹長。操作各種機器或道具前喜歡說「按下去」。個性極度陰險、陰濕、陰暗，但對摩亞純真的笑容沒有抵抗力。住所是日向家地下基地。(第28集)
     耳罩伸出來的白色的耳機中藏有一對能發出使人痛苦聲波的天線，也可發出洗腦電波（能夠消除他人記憶，但並不常用）也可伸出可以直升的螺旋槳（只在劇場版2用過）。眼鏡可以變成手電筒。喜歡「ku～kukuku（）」地偷笑和冷笑；如果眼鏡不見或碎掉，會一直叫著「眼鏡眼鏡\~（）」，且為無攻擊力狀態，另有一口頭禪「もちコース(Of
     Course)」。即使憤怒也不會給予對方當頭棒喝，總是「ku\~ ku\~ ku\~」的笑著 ，然後趁敵人不注意時再給予意想不到的攻擊。
-    自稱是個浪漫主義者，雖然個性超令人討厭，但是要幫忙時他還是會幫忙的，只是他不會正面的回應給對方知道。疑似有著[偷窺的癖好](https://zh.wikipedia.org/wiki/偷窺 "wikilink")，喜歡拿著[V8攝影機偷拍人群](https://zh.wikipedia.org/wiki/V8 "wikilink")，並製成[影碟出售或收藏](../Page/影碟.md "wikilink")。其中絕大部分的內容為日向秋和日向夏美的私生活。最怕摩亞，因為她天真無邪的性格令惡魔性格的他沒有辦法。喜歡[惡搞](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。第47集，假裝要給夏美DANCE☆MAN的演唱會門票，實際上來的卻是逃舞超人DASONU☆MASO。第83集，在實驗時發生意外，造成他本人回到了幼年時期。在這當中，他還不斷的對冬樹及夏美惡作劇，搞的眾人不知所措。第214集，在Keroro與小隊為侵略藍星而煩惱之際，Kururu獨自離隊計劃了一連串行動，先加入西澤集團成為營業顧問，然後以極快速度令其事業席捲全球，最後更成為[聯合國秘書長](https://zh.wikipedia.org/wiki/聯合國秘書長 "wikilink")，期後訂立了國際咖哩日，然後再立即辭職。
+    自稱是個浪漫主義者，雖然個性超令人討厭，但是要幫忙時他還是會幫忙的，只是他不會正面的回應給對方知道。疑似有著[偷窺的癖好](https://zh.wikipedia.org/wiki/偷窺 "wikilink")，喜歡拿著[V8攝影機偷拍人群](https://zh.wikipedia.org/wiki/V8 "wikilink")，並製成[影碟](../Page/影碟.md "wikilink")出售或收藏。其中絕大部分的內容為日向秋和日向夏美的私生活。最怕摩亞，因為她天真無邪的性格令惡魔性格的他沒有辦法。喜歡[惡搞](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。第47集，假裝要給夏美DANCE☆MAN的演唱會門票，實際上來的卻是逃舞超人DASONU☆MASO。第83集，在實驗時發生意外，造成他本人回到了幼年時期。在這當中，他還不斷的對冬樹及夏美惡作劇，搞的眾人不知所措。第214集，在Keroro與小隊為侵略藍星而煩惱之際，Kururu獨自離隊計劃了一連串行動，先加入西澤集團成為營業顧問，然後以極快速度令其事業席捲全球，最後更成為[聯合國秘書長](https://zh.wikipedia.org/wiki/聯合國秘書長 "wikilink")，期後訂立了國際咖哩日，然後再立即辭職。
     動畫原創中，超愛吃近似自己體色的[咖哩](../Page/咖哩.md "wikilink")，甚至用咖哩洗澡，情人節送巧克力狀咖哩塊給Giroro，洗澡或悠閒時也會唱著自己創作的『咖哩之歌』，不喜歡吃[壽喜燒](../Page/壽喜燒.md "wikilink")。另一動畫原創是曾假扮喜歡Giroro,從而令他不知所措，曾經利用記憶儀改變Giroro的重要記憶，把Giroro記億中的夏美變成自己，作弄Giroro。於動畫第225話，Kururu疑似有含著奶嘴睡覺的習慣（片尾曲播放時的動畫）。動畫版第60集時的笑聲與平常的笑聲有差別（詳情於動畫版第60集）。由於讀音近似英文拼音Kururu，故常被寫錯。台灣角川出版社在第11冊的《Keroro軍曹》漫畫中(06年2月出版)登出啟示，
     並表示以後都會使用「Kululu」這個拼法。
 
@@ -66,7 +66,7 @@
     配音：日本→[草尾毅](../Page/草尾毅.md "wikilink")；台灣→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")、[龍顯蕙](../Page/龍顯蕙.md "wikilink")<small>（幼年）</small>；香港→[楊耀泰](../Page/楊耀泰.md "wikilink")（有線電視）／[何偉誠](../Page/何偉誠.md "wikilink")（第二季
     DVD/VCD）／[梁偉德](../Page/梁偉德.md "wikilink")（無綫電視）
     Keroro小隊的暗殺兵，養主是東谷小雪，容易被遺忘的忍者。個性是活力而溫柔，常被人說是有“心靈創傷”。原名Zeroro。
-    名稱乃取至日語的[泥](../Page/泥.md "wikilink")。Keroro小隊的暗殺兵。原名[Zeroro](https://zh.wikipedia.org/wiki/Zeroro "wikilink")，體色為灰藍色，帽子上的記號為手裡劍的圖形。[忍者裝扮](../Page/忍者.md "wikilink")，操古代[武士腔調](https://zh.wikipedia.org/wiki/武士 "wikilink")（自稱「在下」、說話時習慣在句尾加上「」）。在加入Keroro小隊前曾經是K隆軍特殊部隊X1的成員。出生於K隆星上的有錢人家，很希望得到友情以及別人的注目。現和搭檔東谷小雪住在日向家隔壁（漫畫），而動畫中則是居住在內東京市郊外的水車木屋。
+    名稱乃取至日語的[泥](../Page/泥.md "wikilink")。Keroro小隊的暗殺兵。原名[Zeroro](https://zh.wikipedia.org/wiki/Zeroro "wikilink")，體色為灰藍色，帽子上的記號為手裡劍的圖形。[忍者](../Page/忍者.md "wikilink")裝扮，操古代[武士腔調](https://zh.wikipedia.org/wiki/武士 "wikilink")（自稱「在下」、說話時習慣在句尾加上「」）。在加入Keroro小隊前曾經是K隆軍特殊部隊X1的成員。出生於K隆星上的有錢人家，很希望得到友情以及別人的注目。現和搭檔東谷小雪住在日向家隔壁（漫畫），而動畫中則是居住在內東京市郊外的水車木屋。
     由於深深被地球的美景所吸引，因此成為愛好和平與環保的人，並改名為Dororo，表達保衛地球的決心，也不願參加Keroro的侵略行動（但一些和平而光明正大的侵略行動仍會參加）。與[Keroro](../Page/Keroro.md "wikilink")、[Giroro是同一屆軍校學生](https://zh.wikipedia.org/wiki/Giroro "wikilink")，但卻常被Keroro等人無意間遺忘，存在感十分薄弱，不過這種特性也使他成為優秀的暗殺兵。經常因被忽視而哭，心靈較脆弱。是宇宙第一武術大會的七連霸紀錄保持者。
     因為過去的嚴重心靈創傷，直到現在還是經常被啟動「心靈創傷開關」，只要開關一接上，就會變得十分沮喪而毫無戰鬥力（動畫版開啟心靈創傷會大哭，漫畫版則消沉）。擁有特殊裝甲模式的型態「白兵戰鬼式」，曾使用於單行本15集「冬樹的石像」。握到機器人的操縱桿會變為另一個人。
 
@@ -136,7 +136,7 @@
 ### Syurara軍團
 
 （註：軍團的人物角色皆由特刊《Keroro
-Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身成員所組成的職業軍團。其任務是在[Keroro來到地球時不斷監視他們](../Page/Keroro.md "wikilink")，和消滅整個小隊。）
+Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身成員所組成的職業軍團。其任務是在[Keroro](../Page/Keroro.md "wikilink")來到地球時不斷監視他們，和消滅整個小隊。）
 
 [Putata_and_Mekeke.jpg](https://zh.wikipedia.org/wiki/File:Putata_and_Mekeke.jpg "fig:Putata_and_Mekeke.jpg")
 
@@ -179,7 +179,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 <!-- end list -->
 
   -
-    在動畫版159話和169話和177話登場。177話與Dokuku一起登場。液體K隆星人。只有左眼，頭和肚皮上都有[逗號反轉的記號](../Page/逗號.md "wikilink")。身體為[水藍色](https://zh.wikipedia.org/wiki/水藍色 "wikilink")，可以隨意改變形狀。可以利用自己的極大衝擊力，令對方都變成液體狀態。能夠抵擋熱能攻擊，卻不能抵抗令液體凝固的武器，是[Dokuku的兄長](https://zh.wikipedia.org/wiki/Dokuku "wikilink")。曾經攻擊[Giroro和夏美](https://zh.wikipedia.org/wiki/Giroro "wikilink")，最後被Giroro用食物凝固粉固體化並制服。曾被Keroro小隊禁錮於秘密保險箱中，後來被Dokuku救出，並給他說服退出軍團。角色造型曾刊登於《Keroro
+    在動畫版159話和169話和177話登場。177話與Dokuku一起登場。液體K隆星人。只有左眼，頭和肚皮上都有[逗號](../Page/逗號.md "wikilink")反轉的記號。身體為[水藍色](https://zh.wikipedia.org/wiki/水藍色 "wikilink")，可以隨意改變形狀。可以利用自己的極大衝擊力，令對方都變成液體狀態。能夠抵擋熱能攻擊，卻不能抵抗令液體凝固的武器，是[Dokuku的兄長](https://zh.wikipedia.org/wiki/Dokuku "wikilink")。曾經攻擊[Giroro和夏美](https://zh.wikipedia.org/wiki/Giroro "wikilink")，最後被Giroro用食物凝固粉固體化並制服。曾被Keroro小隊禁錮於秘密保險箱中，後來被Dokuku救出，並給他說服退出軍團。角色造型曾刊登於《Keroro
     Land 春天號》的封面，沒有參與「那個時候的Keroro軍曹」系列，原名Geruru。
 
 <!-- end list -->
@@ -200,7 +200,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 <!-- end list -->
 
   -
-    在動畫版185話登場。機械人型K隆星人，有M、D、E、P四部不同種類的Robobo，動畫版暫時出現了RoboboM（兄）和RoboboD（弟）。耳朵有一雙乾電池，身體為灰色，腳是磁鐵，手也是磁鐵（或是鑽頭），能把人機械化，RoboboM曾把[Keroro等人機械化](../Page/Keroro.md "wikilink")，被[Dororo打敗後](https://zh.wikipedia.org/wiki/Dororo "wikilink")，又出現了RoboboD，最後被Keroro小隊ROBO打敗。角色造型曾刊登於《Keroro
+    在動畫版185話登場。機械人型K隆星人，有M、D、E、P四部不同種類的Robobo，動畫版暫時出現了RoboboM（兄）和RoboboD（弟）。耳朵有一雙乾電池，身體為灰色，腳是磁鐵，手也是磁鐵（或是鑽頭），能把人機械化，RoboboM曾把[Keroro](../Page/Keroro.md "wikilink")等人機械化，被[Dororo打敗後](https://zh.wikipedia.org/wiki/Dororo "wikilink")，又出現了RoboboD，最後被Keroro小隊ROBO打敗。角色造型曾刊登於《Keroro
     Land 春天號》的封面，同時亦設定參與「那個時候的Keroro軍曹」系列。
 
 <!-- end list -->
@@ -211,7 +211,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 <!-- end list -->
 
   -
-    在動畫版159話和188話與[Gyororo一起登場](https://zh.wikipedia.org/wiki/Gyororo "wikilink")。以「縫紉女孩」身份登場。體色是[橙色](../Page/橙色.md "wikilink")，肚子和額頭有像[鈕扣一樣的記號](../Page/鈕扣.md "wikilink")。她本是K隆星的一個布娃娃，後來被主人扔掉之後再由[Syurara注入靈魂](https://zh.wikipedia.org/wiki/Syurara "wikilink")。Nuii本是天真無邪的布娃娃，由於被Gyororo操縱所以變得能攻擊。曾把[Keroro等人布娃娃化](../Page/Keroro.md "wikilink")（Keroro和[夏美除外](https://zh.wikipedia.org/wiki/夏美 "wikilink")）。因為她的樣子與夏美小時候擁有的布娃娃十分相似，所以夏美把Nuii帶回家中收養，並把絲帶戴上她的頭上。當Gyororo操縱Nuii把夏美變成布娃娃的時候，Nuii想起夏美親手為自己戴上的絲帶，所以沒有攻擊夏美。反而用盡渾身的力量阻止Gyororo。角色造型曾刊登於《Keroro
+    在動畫版159話和188話與[Gyororo一起登場](https://zh.wikipedia.org/wiki/Gyororo "wikilink")。以「縫紉女孩」身份登場。體色是[橙色](../Page/橙色.md "wikilink")，肚子和額頭有像[鈕扣](../Page/鈕扣.md "wikilink")一樣的記號。她本是K隆星的一個布娃娃，後來被主人扔掉之後再由[Syurara注入靈魂](https://zh.wikipedia.org/wiki/Syurara "wikilink")。Nuii本是天真無邪的布娃娃，由於被Gyororo操縱所以變得能攻擊。曾把[Keroro](../Page/Keroro.md "wikilink")等人布娃娃化（Keroro和[夏美除外](https://zh.wikipedia.org/wiki/夏美 "wikilink")）。因為她的樣子與夏美小時候擁有的布娃娃十分相似，所以夏美把Nuii帶回家中收養，並把絲帶戴上她的頭上。當Gyororo操縱Nuii把夏美變成布娃娃的時候，Nuii想起夏美親手為自己戴上的絲帶，所以沒有攻擊夏美。反而用盡渾身的力量阻止Gyororo。角色造型曾刊登於《Keroro
     Land Vol.4》的封面，同時亦設定參與「那個時候的Keroro軍曹」系列。
 
 <!-- end list -->
@@ -222,7 +222,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 <!-- end list -->
 
   -
-    在動畫版159話和161話以雙眼登場，188話與[Nuii一起登場](https://zh.wikipedia.org/wiki/Nuii "wikilink")。體色是淺藍色，肚子和額頭，尾巴，帽子二边有像眼珠的記號，未成年，與幼年期的K隆星人一樣有尾巴，帽子是綠色。性格陰險狡猾，不過，他對[Syurara忠心耿耿](https://zh.wikipedia.org/wiki/Syurara "wikilink")，稱Syurara為「Syurara先生」，替好戰而且冷酷無情的Syurara軍團收集[Keroro等人的情報](../Page/Keroro.md "wikilink")。在188話中操縱Nuii攻擊Keroro等人，但最終被Nuii背叛。Keroro於是用了[Kururu的新發明](https://zh.wikipedia.org/wiki/Kururu "wikilink")「肥皂泡tonda槍」放出特殊泡沫把Gyororo困在泡沫內。角色造型曾刊登於《Keroro
+    在動畫版159話和161話以雙眼登場，188話與[Nuii一起登場](https://zh.wikipedia.org/wiki/Nuii "wikilink")。體色是淺藍色，肚子和額頭，尾巴，帽子二边有像眼珠的記號，未成年，與幼年期的K隆星人一樣有尾巴，帽子是綠色。性格陰險狡猾，不過，他對[Syurara忠心耿耿](https://zh.wikipedia.org/wiki/Syurara "wikilink")，稱Syurara為「Syurara先生」，替好戰而且冷酷無情的Syurara軍團收集[Keroro](../Page/Keroro.md "wikilink")等人的情報。在188話中操縱Nuii攻擊Keroro等人，但最終被Nuii背叛。Keroro於是用了[Kururu的新發明](https://zh.wikipedia.org/wiki/Kururu "wikilink")「肥皂泡tonda槍」放出特殊泡沫把Gyororo困在泡沫內。角色造型曾刊登於《Keroro
     Land Vol.8》的封面，沒有參與「那個時候的Keroro軍曹」系列。
 
 <!-- end list -->
@@ -244,19 +244,19 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 <!-- end list -->
 
   -
-    在動畫版202話登場，登場的時間是春天。以「降下大雪山的yukiki」身份登場。是冰凍K隆星人，令日向家被雪掩蓋，曾被誤會是雪人。為引誘[Keroro去收](../Page/Keroro.md "wikilink")[Syurara於過年時寄的賀年卡](https://zh.wikipedia.org/wiki/Syurara "wikilink")，向Keroro挑戰時，一直提出以過年相關的活動競賽，而被Keroro嘲笑過，最後以壓歲錢成功喚醒Keroro要收賀年卡的記憶。不过被Kululu溶掉了，但仍可以頭上的帽子形態移動。
+    在動畫版202話登場，登場的時間是春天。以「降下大雪山的yukiki」身份登場。是冰凍K隆星人，令日向家被雪掩蓋，曾被誤會是雪人。為引誘[Keroro](../Page/Keroro.md "wikilink")去收[Syurara於過年時寄的賀年卡](https://zh.wikipedia.org/wiki/Syurara "wikilink")，向Keroro挑戰時，一直提出以過年相關的活動競賽，而被Keroro嘲笑過，最後以壓歲錢成功喚醒Keroro要收賀年卡的記憶。不过被Kululu溶掉了，但仍可以頭上的帽子形態移動。
 
 ### 其他
 
   - Keroro大尉
     原為K隆軍藍星侵略小隊[Giroro親哥哥Garuru的](https://zh.wikipedia.org/wiki/Giroro "wikilink")[Galulu小隊所準備的複製隊員](https://zh.wikipedia.org/wiki/Galulu小隊 "wikilink")。
-    動畫版的Keroro上尉是Garuru把Keroro的身心恢復到剛登陸藍星時的身心後所創造的「超巨大化Keroro」（失去與冬樹的記憶），外型與原來的Keroro外型基本上只有黃色帽子變成白色頭盔(仿照自[機動戰士鋼彈裡的](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")[夏亞·阿茲納布爾](../Page/夏亞·阿茲納布爾.md "wikilink")，沒有眼罩。)，像小時候的keroro。後來因為被[日向冬樹感動而恢復原樣](../Page/日向冬樹.md "wikilink")。
+    動畫版的Keroro上尉是Garuru把Keroro的身心恢復到剛登陸藍星時的身心後所創造的「超巨大化Keroro」（失去與冬樹的記憶），外型與原來的Keroro外型基本上只有黃色帽子變成白色頭盔(仿照自[機動戰士鋼彈裡的](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")[夏亞·阿茲納布爾](../Page/夏亞·阿茲納布爾.md "wikilink")，沒有眼罩。)，像小時候的keroro。後來因為被[日向冬樹](../Page/日向冬樹.md "wikilink")感動而恢復原樣。
     漫畫版的Keroro上尉為變身體，並沒有「上尉」階級，帽子和「Keroro軍曹」一樣。本尊「Keroro軍曹」變回原樣的方法未知。
 
 <!-- end list -->
 
   - 黑暗Keroro（劇場版3）
-    黑暗Keroro的造型跟[Keroro一樣](../Page/Keroro.md "wikilink")，是一個黑暗的K隆星人（事實上黑暗keroro是由Kiruru製造的王）。黑暗Keroro擁有自己的小隊，其他隊員為**Doruru**、**Shivava**和**Miruru**。迥異於Keroro的輕浮，他的個性較為冷靜沉著，但也很狂傲。對冬樹與Keroro的友情非常感興趣和妒忌，甚至破壞他們的關係。
+    黑暗Keroro的造型跟[Keroro](../Page/Keroro.md "wikilink")一樣，是一個黑暗的K隆星人（事實上黑暗keroro是由Kiruru製造的王）。黑暗Keroro擁有自己的小隊，其他隊員為**Doruru**、**Shivava**和**Miruru**。迥異於Keroro的輕浮，他的個性較為冷靜沉著，但也很狂傲。對冬樹與Keroro的友情非常感興趣和妒忌，甚至破壞他們的關係。
     體色為深綠色，頭上的帽子是灰色，眼球是紅色，有黑眼圈，身上掛著紅色的斗篷。角色造型是由吉崎觀音親自監督。
 
 ## Keroro小隊的相關親人
@@ -346,7 +346,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 **Chiroro**（　配音：日本→[桑谷夏子](../Page/桑谷夏子.md "wikilink")；香港→[張頌欣](../Page/張頌欣.md "wikilink")）
 
   -
-    Karara的雙胞胎姊妹兼好朋友。打招呼時會說[夏威夷語](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")「Aloha」（你好）。動畫版和Karara一起學習忍術，以[女忍者形象登場](../Page/女忍者.md "wikilink")，喜歡威霸；漫畫版和Karara在第11冊第90話第一次登場。
+    Karara的雙胞胎姊妹兼好朋友。打招呼時會說[夏威夷語](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")「Aloha」（你好）。動畫版和Karara一起學習忍術，以[女忍者](../Page/女忍者.md "wikilink")形象登場，喜歡威霸；漫畫版和Karara在第11冊第90話第一次登場。
 
 **Keroro的上司**（　配音：[潘惠子](../Page/潘惠子.md "wikilink")；香港→[謝潔貞](../Page/謝潔貞.md "wikilink")）
 
@@ -400,12 +400,12 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 **超級塑料模型大魔王**（　配音：日本→[過村真人](https://zh.wikipedia.org/wiki/過村真人 "wikilink")；香港→[陳卓智](../Page/陳卓智.md "wikilink")）
 
   -
-    在動畫版191集登場，體色是暗綠色，額頭和肚子上沒有記號，但帽子有星形記號（這個星形記號分為一半，右面是淺藍色，左面是紅色）。他背部披上寫著「百」字的[黃色的斗篷](https://zh.wikipedia.org/wiki/黃色 "wikilink")。帽子與常規的K隆星不同。口的部分與[∀GUNDAM相似](../Page/∀GUNDAM.md "wikilink")。為了告訴Keroro「享受製作塑料模型」而登場，並不是製作塑料模型的技術特別好。他製作的塑料模型個性突出，技術和質量都十分專業。令[Keroro重新體會到](../Page/Keroro.md "wikilink")「製作塑料模型的快樂」。Keroro推測著他是不是「晚年的自己」。
+    在動畫版191集登場，體色是暗綠色，額頭和肚子上沒有記號，但帽子有星形記號（這個星形記號分為一半，右面是淺藍色，左面是紅色）。他背部披上寫著「百」字的[黃色的斗篷](https://zh.wikipedia.org/wiki/黃色 "wikilink")。帽子與常規的K隆星不同。口的部分與[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")相似。為了告訴Keroro「享受製作塑料模型」而登場，並不是製作塑料模型的技術特別好。他製作的塑料模型個性突出，技術和質量都十分專業。令[Keroro](../Page/Keroro.md "wikilink")重新體會到「製作塑料模型的快樂」。Keroro推測著他是不是「晚年的自己」。
 
 **Sababa**（　配音：[佐佐木望](../Page/佐佐木望.md "wikilink")）
 
   -
-    在動畫版220集登場，身體是砂礫構成的古代人造K隆星人。額頭和肚子上的記號是一個類似盤旋的蛇圖案，右手裝備鉤丁，能製造砂分身、吸收生物會巨大化。[古埃及時期封印在金字塔裡](../Page/古埃及.md "wikilink")，[Keroro無意間踩到地板的開關](../Page/Keroro.md "wikilink")、釋放Sababa出來。[Sababa並以](https://zh.wikipedia.org/wiki/Sababa "wikilink")[Keroro為主人](../Page/Keroro.md "wikilink")，之後[Keroro要求Sababa建造自己的獅身人面及金字塔](../Page/Keroro.md "wikilink")，Sababa卻建造自己以示反叛，此時冬樹發現了Sababa的秘密，卻不小心被Sababa吸進體內，不過已成功瓦解Sababa並拿到核心，後來被封印在沙漏裡成[556的杯麵計時器](https://zh.wikipedia.org/wiki/556 "wikilink")。
+    在動畫版220集登場，身體是砂礫構成的古代人造K隆星人。額頭和肚子上的記號是一個類似盤旋的蛇圖案，右手裝備鉤丁，能製造砂分身、吸收生物會巨大化。[古埃及](../Page/古埃及.md "wikilink")時期封印在金字塔裡，[Keroro](../Page/Keroro.md "wikilink")無意間踩到地板的開關、釋放Sababa出來。[Sababa並以](https://zh.wikipedia.org/wiki/Sababa "wikilink")[Keroro](../Page/Keroro.md "wikilink")為主人，之後[Keroro](../Page/Keroro.md "wikilink")要求Sababa建造自己的獅身人面及金字塔，Sababa卻建造自己以示反叛，此時冬樹發現了Sababa的秘密，卻不小心被Sababa吸進體內，不過已成功瓦解Sababa並拿到核心，後來被封印在沙漏裡成[556的杯麵計時器](https://zh.wikipedia.org/wiki/556 "wikilink")。
 
 **Meruru**（　配音：日本→[松岡由貴](../Page/松岡由貴.md "wikilink")；香港→[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 
@@ -415,7 +415,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 **Shipepe**（　配音：無）
 
   -
-    動畫版第228集登場。K隆軍幼年訓練所[Keroro的同班同學](../Page/Keroro.md "wikilink")，只是以[Keroro信件中的寄件人登場](../Page/Keroro.md "wikilink")。體色為淺紫色，額頭和腹部有一個像膠布的記號（橫寬的圓形），鼻子貼著膠布。信件的內容是訓練所畢業典禮的前一天與Keroro和同學們吃拉麵，但[Keroro好像沒有付拉麵費](../Page/Keroro.md "wikilink")。Shipepe問[Keroro能否把錢還給他](../Page/Keroro.md "wikilink")。Keroro超劇場版2《Keroro回到未紅時》中Shipepe也曾登場，但那時的名字是「Shupepe」。
+    動畫版第228集登場。K隆軍幼年訓練所[Keroro](../Page/Keroro.md "wikilink")的同班同學，只是以[Keroro](../Page/Keroro.md "wikilink")信件中的寄件人登場。體色為淺紫色，額頭和腹部有一個像膠布的記號（橫寬的圓形），鼻子貼著膠布。信件的內容是訓練所畢業典禮的前一天與Keroro和同學們吃拉麵，但[Keroro](../Page/Keroro.md "wikilink")好像沒有付拉麵費。Shipepe問[Keroro](../Page/Keroro.md "wikilink")能否把錢還給他。Keroro超劇場版2《Keroro回到未紅時》中Shipepe也曾登場，但那時的名字是「Shupepe」。
 
 **Kikaka**（　配音：[茂呂田薰](../Page/茂呂田薰.md "wikilink")）
 
@@ -438,24 +438,24 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 **Zurara**（　配音：[熊井統子](../Page/熊井統子.md "wikilink")；香港→[楊善諭](../Page/楊善諭.md "wikilink")）
 
   -
-    動畫版285集登場，小時候常來幼年[Keroro等人的公園挑釁決鬥](../Page/Keroro.md "wikilink")。
+    動畫版285集登場，小時候常來幼年[Keroro](../Page/Keroro.md "wikilink")等人的公園挑釁決鬥。
 
 **Gururu**（　配音：[橘U子](../Page/橘U子.md "wikilink")；香港→[何璐怡](../Page/何璐怡.md "wikilink")）
 
   -
-    動畫版285集登場，小時候常來幼年[Keroro等人的公園挑釁決鬥](../Page/Keroro.md "wikilink")。說話時習慣在句尾加上「でヤンス（日本）」
+    動畫版285集登場，小時候常來幼年[Keroro](../Page/Keroro.md "wikilink")等人的公園挑釁決鬥。說話時習慣在句尾加上「でヤンス（日本）」
 
 '''Onono少尉 '''（
 配音：[小山力也](../Page/小山力也.md "wikilink")；香港→[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")）
 
   -
-    動畫版300集登場，在晚上登場時偷了日向家人的私人物品，因飛船燃料用盡變成自動睡眠模式，掉落在藍星後沈睡多年，任務是試驗擁有Kiruru的X標誌的一樣危險物品，因物品引發讓[Keroro小隊擁有X記號](../Page/Keroro.md "wikilink")，最後忘記加燃料而又變成自動睡眠模式，因此又必須沈睡好幾年了。
+    動畫版300集登場，在晚上登場時偷了日向家人的私人物品，因飛船燃料用盡變成自動睡眠模式，掉落在藍星後沈睡多年，任務是試驗擁有Kiruru的X標誌的一樣危險物品，因物品引發讓[Keroro](../Page/Keroro.md "wikilink")小隊擁有X記號，最後忘記加燃料而又變成自動睡眠模式，因此又必須沈睡好幾年了。
 
 **Chibaba**（
 配音：[佐佐木望](../Page/佐佐木望.md "wikilink")；香港→[張方正](../Page/張方正.md "wikilink")）
 
   -
-    動畫版302集登場，宇宙電影製片人，前來拍攝[Keroro小隊等人的電影](../Page/Keroro.md "wikilink")。
+    動畫版302集登場，宇宙電影製片人，前來拍攝[Keroro](../Page/Keroro.md "wikilink")小隊等人的電影。
 
 '''Nobibi
 '''（　配音：日本→[折笠愛](../Page/折笠愛.md "wikilink")；香港→[何璐怡](../Page/何璐怡.md "wikilink")）

@@ -1,5 +1,5 @@
 **Dynamic
-Duo**是一韓國[嘻哈歌唱組合](../Page/嘻哈.md "wikilink")，在2003年出道，2004年5月17日推出首張專輯《Taxi
+Duo**是一韓國[嘻哈](../Page/嘻哈.md "wikilink")歌唱組合，在2003年出道，2004年5月17日推出首張專輯《Taxi
 Driver》。
 
 ## 成員列表
@@ -153,13 +153,13 @@ Driver》。
 | LUCKY MOMENT with Dynamic Duo |       |                                                                                   |
 | 2013年11月23-24日                | 首爾    | [首爾奧林匹克公園奧林匹克大廳](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")               |
 | 2013年11月30日                   | 釜山    | [BEXCO](https://zh.wikipedia.org/wiki/BEXCO "wikilink")                           |
-| 2013年12月7日                    | 大邱    | [慶北大學禮堂](../Page/慶北大學.md "wikilink")                                              |
+| 2013年12月7日                    | 大邱    | [慶北大學](../Page/慶北大學.md "wikilink")禮堂                                              |
 | 2016 Dynamic Duo 單獨演唱會        |       |                                                                                   |
 | 2016年7月23-24日                 | 首爾    | [BLUESKYSQURESAMSUNGCARD廳](https://zh.wikipedia.org/wiki/BLUESKYSQURE "wikilink") |
 | 2016年7月30日                    | 釜山    | [KBS釜山廳](https://zh.wikipedia.org/wiki/KBS釜山廳 "wikilink")                         |
 | 2016年7月31日                    | 光州    | [光州文化藝術會館劇院](https://zh.wikipedia.org/wiki/光州文化藝術會館 "wikilink")                   |
 | 2016年8月5日                     | 大田    | [忠南大學Jeongsimhwa廳](https://zh.wikipedia.org/wiki/忠南大學 "wikilink")                 |
-| 2016年8月6日                     | 大邱    | [慶北大學禮堂](../Page/慶北大學.md "wikilink")                                              |
+| 2016年8月6日                     | 大邱    | [慶北大學](../Page/慶北大學.md "wikilink")禮堂                                              |
 
   - Dynamic Duo參加的其他演唱會
 

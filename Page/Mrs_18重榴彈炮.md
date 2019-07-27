@@ -1,5 +1,5 @@
 **Mrs 18重榴彈炮**（21公分Mrs
-18式）是[納粹德國於](../Page/納粹德國.md "wikilink")[第二次世界大戰中所使用的一種重型](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[榴彈砲](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，它主要發配給獨立砲兵營或砲兵連使用。此外，[德軍岸防部隊也裝備了一定數量的Mrs](https://zh.wikipedia.org/wiki/德軍 "wikilink")
+18式）是[納粹德國](../Page/納粹德國.md "wikilink")於[第二次世界大戰中所使用的一種重型](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[榴彈砲](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，它主要發配給獨立砲兵營或砲兵連使用。此外，[德軍岸防部隊也裝備了一定數量的Mrs](https://zh.wikipedia.org/wiki/德軍 "wikilink")
 18。
 
 ## 設計及歷史

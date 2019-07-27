@@ -2,7 +2,7 @@
 [莫辛纳甘M](../Page/莫辛-納甘步槍.md "wikilink")/38卡宾枪，[莫辛纳甘M](../Page/莫辛-納甘步槍.md "wikilink")91龙步枪、AVS-36和[SVT-40步枪](https://zh.wikipedia.org/wiki/SVT-40 "wikilink")\]\]
 [AVS_36.JPG](https://zh.wikipedia.org/wiki/File:AVS_36.JPG "fig:AVS_36.JPG")
 **AVS-36**（Avtomaticheskaya Vintovka Simonova 1936
-model；）是[苏联研製的一种](../Page/苏联.md "wikilink")[自动步枪](../Page/自动步枪.md "wikilink")，在[二战初期列装](https://zh.wikipedia.org/wiki/二战 "wikilink")。它亦是一种早期的[自动步枪](../Page/自动步枪.md "wikilink")（它不僅能進行半自动射擊，更能全自动射擊）。此槍在1936年起開始少量地试装部队。
+model；）是[苏联](../Page/苏联.md "wikilink")研製的一种[自动步枪](../Page/自动步枪.md "wikilink")，在[二战初期列装](https://zh.wikipedia.org/wiki/二战 "wikilink")。它亦是一种早期的[自动步枪](../Page/自动步枪.md "wikilink")（它不僅能進行半自动射擊，更能全自动射擊）。此槍在1936年起開始少量地试装部队。
 
 ## 歷史
 
@@ -10,7 +10,7 @@ AVS-36的设计师，谢尔盖·西蒙诺夫，在1930年开始试制[气动式�
 
 ## 設計
 
-AVS-36是一种使用[短行程導氣式活塞偏斜闭锁操作的](https://zh.wikipedia.org/wiki/氣動式 "wikilink")[自动步枪](../Page/自动步枪.md "wikilink")，其枪管上有一个[枪口制退器](https://zh.wikipedia.org/wiki/枪口制退器 "wikilink")，可用以减轻后坐力。AVS-36的可拆卸弹匣載彈量為15发，用戶还能在枪身上安装刺刀。另外亦有一种带着PE瞄准镜的狙击型被少量生产出來，狙击型在1938年10月於[莫斯科舉行的](../Page/莫斯科.md "wikilink")‘独立日’閱兵中第一次露面。
+AVS-36是一种使用[短行程導氣式活塞偏斜闭锁操作的](https://zh.wikipedia.org/wiki/氣動式 "wikilink")[自动步枪](../Page/自动步枪.md "wikilink")，其枪管上有一个[枪口制退器](https://zh.wikipedia.org/wiki/枪口制退器 "wikilink")，可用以减轻后坐力。AVS-36的可拆卸弹匣載彈量為15发，用戶还能在枪身上安装刺刀。另外亦有一种带着PE瞄准镜的狙击型被少量生产出來，狙击型在1938年10月於[莫斯科](../Page/莫斯科.md "wikilink")舉行的‘独立日’閱兵中第一次露面。
 
 ## 採用
 

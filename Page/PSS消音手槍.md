@@ -4,7 +4,7 @@
 
 ## 歷史
 
-PSS手槍是專門針對[克格勃的](https://zh.wikipedia.org/wiki/克格勃 "wikilink")[特工和](https://zh.wikipedia.org/wiki/特工 "wikilink")[蘇聯陸軍中的](https://zh.wikipedia.org/wiki/蘇聯軍事 "wikilink")[特種部隊而特別研製出來的](../Page/特種部隊.md "wikilink")。該槍於1983年被正式採用，並取代了和兩種過時且火力不足的特種武器。\[1\]
+PSS手槍是專門針對[克格勃的](https://zh.wikipedia.org/wiki/克格勃 "wikilink")[特工和](https://zh.wikipedia.org/wiki/特工 "wikilink")[蘇聯陸軍中的](https://zh.wikipedia.org/wiki/蘇聯軍事 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")而特別研製出來的。該槍於1983年被正式採用，並取代了[MSP手槍和](https://zh.wikipedia.org/wiki/MSP雷霆消聲手槍 "wikilink")兩種過時且火力不足的特種武器。\[1\]
 
 ## 設計
 
@@ -12,7 +12,7 @@ PSS手槍採用[反沖作用運作](../Page/反沖作用_\(槍械\).md "wikilink
 
 ## 採用
 
-PSS手槍曾經被[克格勃採用過](https://zh.wikipedia.org/wiki/克格勃 "wikilink")。在[蘇聯解體後則轉交給](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")[俄羅斯境內的執法部門和](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[特種部隊使用](../Page/特種部隊.md "wikilink")。
+PSS手槍曾經被[克格勃採用過](https://zh.wikipedia.org/wiki/克格勃 "wikilink")。在[蘇聯解體後則轉交給](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")[俄羅斯境內的執法部門和](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")使用。
 
 ## 使用國
 

@@ -1,5 +1,5 @@
 『**特命戰隊Go Busters THE MOVIE 保護東京Enetower\!**』（日文：）是2012年8月4日
-[東映公開預定上映的](../Page/東映.md "wikilink")『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』的『[特命戰隊Go
+[東映](../Page/東映.md "wikilink")公開預定上映的『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』的『[特命戰隊Go
 Busters](../Page/特命戰隊Go_Busters.md "wikilink")』劇場版作品，與『[假面騎士系列](../Page/假面騎士系列.md "wikilink")
 』的『[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink") 』劇場版『[假面騎士Fourze THE
 MOVIE
@@ -9,7 +9,7 @@ MOVIE
 ## 概要
 
   -
-    日本人氣歌手[辻希美也將在本作舉場版中](../Page/辻希美.md "wikilink")，現聲擔任配音
+    日本人氣歌手[辻希美](../Page/辻希美.md "wikilink")也將在本作舉場版中，現聲擔任配音
     同時本作劇場版，是在[東京鐵塔的全力協助下完成拍攝](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")。
 
 ## 故事概要ー

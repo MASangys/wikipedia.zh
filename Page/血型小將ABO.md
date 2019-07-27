@@ -1,15 +1,15 @@
 《**血型小將ABO**》（，原題：RealCrazyMan's Blood Types
 Comic）是[韓國Real](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 Crazy
-Man（本名：朴東宣）創作的[四格漫畫](../Page/四格漫畫.md "wikilink")。由其改編的電視動畫於2013年4月開始在[日本播放](../Page/日本.md "wikilink")。
+Man（本名：朴東宣）創作的[四格漫畫](../Page/四格漫畫.md "wikilink")。由其改編的電視動畫於2013年4月開始在[日本](../Page/日本.md "wikilink")播放。
 
 ## 概要
 
-該作是韓國[美術](../Page/美術.md "wikilink")[教師朴東宣在自己的](https://zh.wikipedia.org/wiki/教師 "wikilink")[博客上連載的網路漫畫](https://zh.wikipedia.org/wiki/博客 "wikilink")，用生動的故事詮釋了[血型性格學說](../Page/血型性格學說.md "wikilink")。隨後這部漫畫在網路上被翻譯爲各種語言，在[中國大陸和](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[臺灣更是受到廣泛歡迎](../Page/臺灣.md "wikilink")\[1\]。臺灣、大陸、日本於2010年相繼推出了漫畫單行本，2013年日本決定動畫化。
+該作是韓國[美術](../Page/美術.md "wikilink")[教師朴東宣在自己的](https://zh.wikipedia.org/wiki/教師 "wikilink")[博客上連載的網路漫畫](https://zh.wikipedia.org/wiki/博客 "wikilink")，用生動的故事詮釋了[血型性格學說](../Page/血型性格學說.md "wikilink")。隨後這部漫畫在網路上被翻譯爲各種語言，在[中國大陸和](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[臺灣](../Page/臺灣.md "wikilink")更是受到廣泛歡迎\[1\]。臺灣、大陸、日本於2010年相繼推出了漫畫單行本，2013年日本決定動畫化。
 
 ## 登場人物
 
-全員都是[二頭身的小人](https://zh.wikipedia.org/wiki/二頭身 "wikilink")，各自面戴[ABO血型的圓形面具](../Page/ABO血型系统.md "wikilink")。另外，動畫啓用的[聲優都與所配音的角色血型相同](../Page/聲優.md "wikilink")\[2\]。女性角色自第二期開始加入\[3\]。
+全員都是[二頭身的小人](https://zh.wikipedia.org/wiki/二頭身 "wikilink")，各自面戴[ABO血型的圓形面具](../Page/ABO血型系统.md "wikilink")。另外，動畫啓用的[聲優](../Page/聲優.md "wikilink")都與所配音的角色血型相同\[2\]。女性角色自第二期開始加入\[3\]。
 
   -
     第一期有A血型的男性角色。
@@ -101,7 +101,7 @@ Man（本名：朴東宣）創作的[四格漫畫](../Page/四格漫畫.md "wiki
 ## 電視動畫
 
 2013年4月7日至6月7日在[TOKYO
-MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分鐘的短動畫，由[鳴海杏子擔任](../Page/鳴海杏子.md "wikilink")[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")\[13\]。在片首和片尾都會指出「本動畫並不主張血型決定人的性格」。
+MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分鐘的短動畫，由[鳴海杏子](../Page/鳴海杏子.md "wikilink")擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")\[13\]。在片首和片尾都會指出「本動畫並不主張血型決定人的性格」。
 
 ### 製作人員
 

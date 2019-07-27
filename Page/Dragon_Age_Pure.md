@@ -1,5 +1,5 @@
 《**Dragon Age
-Pure**》是[日本](../Page/日本.md "wikilink")[角川書店發行的](../Page/角川書店.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，是《[月刊Dragon
+Pure**》是[日本](../Page/日本.md "wikilink")[角川書店](../Page/角川書店.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，是《[月刊Dragon
 Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》的增刊，2006年1月30日以季刊創刊，2007年4月20日發行第4期並改為雙月刊，2009年2月20日發行第15期並停刊。
 
 ## 連載作品

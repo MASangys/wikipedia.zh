@@ -1,6 +1,6 @@
 **大衛·山繆·高耶**（，）是一位美國男編劇、監製、導演、小說家和漫畫書作家。他的編劇作品包括《[刀鋒戰士三部曲](https://zh.wikipedia.org/wiki/刀鋒戰士系列電影 "wikilink")》、[克里斯托弗·諾蘭的](https://zh.wikipedia.org/wiki/克里斯托弗·諾蘭 "wikilink")《[黑暗騎士三部曲](../Page/黑暗騎士三部曲.md "wikilink")》、《[移魂都市](../Page/移魂都市.md "wikilink")》和《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》。
 
-而他執導的四部故事片分別有《[心靈推手](https://zh.wikipedia.org/wiki/心靈推手 "wikilink")》、《[刀鋒戰士3](../Page/刀鋒戰士3.md "wikilink")》、《[幽靈人口](https://zh.wikipedia.org/wiki/幽靈人口_\(電影\) "wikilink")》和《[生靈勿進](https://zh.wikipedia.org/wiki/生靈勿進 "wikilink")》。高耶也擔任[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[決勝時刻：黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")》、《[決勝時刻：黑色行動2](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》的聯合編劇。他因《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》和《移魂都市》贏得了[土星獎最佳劇本](../Page/土星獎.md "wikilink")，並提名四項[雨果獎](https://zh.wikipedia.org/wiki/雨果獎 "wikilink")。
+而他執導的四部故事片分別有《[心靈推手](https://zh.wikipedia.org/wiki/心靈推手 "wikilink")》、《[刀鋒戰士3](../Page/刀鋒戰士3.md "wikilink")》、《[幽靈人口](https://zh.wikipedia.org/wiki/幽靈人口_\(電影\) "wikilink")》和《[生靈勿進](https://zh.wikipedia.org/wiki/生靈勿進 "wikilink")》。高耶也擔任[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[決勝時刻：黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")》、《[決勝時刻：黑色行動2](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》的聯合編劇。他因《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》和《移魂都市》贏得了[土星獎](../Page/土星獎.md "wikilink")最佳劇本，並提名四項[雨果獎](https://zh.wikipedia.org/wiki/雨果獎 "wikilink")。
 
 ## 個人生活
 
@@ -10,9 +10,9 @@
 
 自稱為「漫畫痴」\[5\]。2011年，高耶寫了一個簡短的故事名為「The Incident」當中，超人放棄了美國國籍。
 
-高耶撰寫或合作撰寫基於各種漫畫書系列幾個劇本，其中包括《[奇異博士](../Page/奇異博士.md "wikilink")》、《[惡靈戰警](../Page/幽靈車神_\(2007年電影\).md "wikilink")》、《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》、《[閃電俠](../Page/閃電俠.md "wikilink")》和《[刀鋒戰士](https://zh.wikipedia.org/wiki/刀鋒戰士 "wikilink")》。高耶寫道根據各[DC漫畫的](../Page/DC漫畫.md "wikilink")[美國正義會標題](https://zh.wikipedia.org/wiki/美國正義會 "wikilink")，為《共同警備區》。
+高耶撰寫或合作撰寫基於各種漫畫書系列幾個劇本，其中包括《[奇異博士](../Page/奇異博士.md "wikilink")》、《[惡靈戰警](../Page/幽靈車神_\(2007年電影\).md "wikilink")》、《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》、《[閃電俠](../Page/閃電俠.md "wikilink")》和《[刀鋒戰士](https://zh.wikipedia.org/wiki/刀鋒戰士 "wikilink")》。高耶寫道根據各[DC漫畫](../Page/DC漫畫.md "wikilink")的[美國正義會標題](https://zh.wikipedia.org/wiki/美國正義會 "wikilink")，為《共同警備區》。
 
-2013年3月，高耶據報導，被選定為電子遊戲改編電影《[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影 "wikilink")》的作家。6月，他宣布要在《正義聯盟》和《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》的續集這兩個工作\[6\]。2013年12月，宣布高耶將和[喬瑟夫·高登-李維一同打造](../Page/喬瑟夫·高登-李維.md "wikilink")[尼爾·蓋曼的漫畫](../Page/尼爾·蓋曼.md "wikilink")《[睡魔](../Page/睡魔.md "wikilink")》電影\[7\]。
+2013年3月，高耶據報導，被選定為電子遊戲改編電影《[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影 "wikilink")》的作家。6月，他宣布要在《正義聯盟》和《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》的續集這兩個工作\[6\]。2013年12月，宣布高耶將和[喬瑟夫·高登-李維](../Page/喬瑟夫·高登-李維.md "wikilink")一同打造[尼爾·蓋曼](../Page/尼爾·蓋曼.md "wikilink")的漫畫《[睡魔](../Page/睡魔.md "wikilink")》電影\[7\]。
 
 ## 作品列表
 

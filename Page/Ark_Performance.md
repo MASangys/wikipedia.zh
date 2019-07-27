@@ -18,7 +18,7 @@ Performance**（アーク・パフォーマンス），是[日本漫畫家](http
     基連暗殺計畫](https://zh.wikipedia.org/wiki/機動戰士鋼彈_基連暗殺計畫 "wikilink")，原作是[富野由悠季](../Page/富野由悠季.md "wikilink")、原案由[矢立肇負責](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")，全四卷。
   - [卡美拉2006
     HARDLINK](../Page/小勇者們～卡美拉～.md "wikilink")（漫畫），原作是[龍居由佳里](../Page/龍居由佳里.md "wikilink")、特攝小組，全一卷。
-  - [戰國自衛隊1549](../Page/戰國自衛隊1549.md "wikilink")，原案由[半村良編劇](../Page/半村良.md "wikilink")、原作是[福井晴敏](../Page/福井晴敏.md "wikilink")，全二卷。
+  - [戰國自衛隊1549](../Page/戰國自衛隊1549.md "wikilink")，原案由[半村良](../Page/半村良.md "wikilink")編劇、原作是[福井晴敏](../Page/福井晴敏.md "wikilink")，全二卷。
 
 ## 來源
 

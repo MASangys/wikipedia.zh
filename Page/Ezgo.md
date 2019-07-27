@@ -1,5 +1,5 @@
 **ezgo**
-是[中華民國](../Page/中華民國.md "wikilink")[教育部校園](../Page/教育部.md "wikilink")[自由軟體數位資源推廣服務中心為校園自由軟體推動](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，邀集自由軟體社群、老師與學生志工合力製作的一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並包含
+是[中華民國](../Page/中華民國.md "wikilink")[教育部](../Page/教育部.md "wikilink")校園[自由軟體數位資源推廣服務中心為校園自由軟體推動](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，邀集自由軟體社群、老師與學生志工合力製作的一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並包含
 [Linux](../Page/Linux.md "wikilink") 及
 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 下的自由軟體收錄，藉由ezgo中的各種類別的自由軟體，包含辦公、美工、影音、網路、教育、遊戲......等，以培養學生資訊應用觀念以及以資訊科技
@@ -29,9 +29,9 @@ ezgo在ezgo11開始支援64位元。
   - 2010年10月：推出ezgo8
   - 2011年10月15日：推出ezgo9+及ezgo9-版
       - ezgo9+版又分為包含Linux及Windows作業系統下的自由軟體體驗和、不含Windows作業系統下的自由軟體的+版ezgo9\[6\]
-      - ezgo9-版為[Ubuntu的初始版本再加上ezgo](../Page/Ubuntu.md "wikilink")9的環境設定與調校\[7\]
+      - ezgo9-版為[Ubuntu](../Page/Ubuntu.md "wikilink")的初始版本再加上ezgo9的環境設定與調校\[7\]
   - 2012年9月30日：推出ezgoX
-    32位元版\[8\]，此版本開始基於[Kubuntu開發](../Page/Kubuntu.md "wikilink")，使用[KDE桌面環境](../Page/KDE.md "wikilink")。
+    32位元版\[8\]，此版本開始基於[Kubuntu](../Page/Kubuntu.md "wikilink")開發，使用[KDE](../Page/KDE.md "wikilink")桌面環境。
   - 2013年
       - 11月23日：舉辦 ezgo11 發表會，32位元與64位元版本推出。
       - 12月21日在中國重慶舉辦首次中國 ezgo 高峰會\[9\]。此版本的客製化版本也於 2013
@@ -62,7 +62,7 @@ ezgo 新版本發佈週期大約是一年一個版本。
 | EzGo7  | 2009年8月     | 全國光碟發行量為 20 萬片                                                                                        |
 | ezgo8  | 2010年10月    | EzGo 正式更名为 ezgo。                                                                                      |
 | ezgo9  | 2011年10月    | 首次辦理發表會。                                                                                              |
-| ezgoX  | 2012年9月30日  | 此版本改為基於[Kubuntu開發](../Page/Kubuntu.md "wikilink")，使用[KDE桌面環境](../Page/KDE.md "wikilink")，ezgo 10在台北發佈 |
+| ezgoX  | 2012年9月30日  | 此版本改為基於[Kubuntu](../Page/Kubuntu.md "wikilink")開發，使用[KDE](../Page/KDE.md "wikilink")桌面環境，ezgo 10在台北發佈 |
 | ezgo11 | 2013年11月19日 | ezgo 11正式在台北發佈，同時首次增加64位元版本，並在重慶舉辦中國發佈會。                                                              |
 | ezgo12 | 2015年3月1日   | ezgo 12 正式版推出，有KDE版與Xfce版，也分為推廣版和基本版。                                                                 |
 | ezgo13 | 2017年1月1日   | ezgo13正式版推出，此版僅有64位元版本， 也分為推廣版和基本版。                                                                   |

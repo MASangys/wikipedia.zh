@@ -1,5 +1,5 @@
 **Golden
-Bomber**（）是[日本的](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[空氣](https://zh.wikipedia.org/wiki/空氣吉他 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")\[1\]。媒體略称是「金爆（きんばく）」\[2\]。
+Bomber**（）是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[空氣](https://zh.wikipedia.org/wiki/空氣吉他 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")\[1\]。媒體略称是「金爆（きんばく）」\[2\]。
 
 ## 概要
 
@@ -9,15 +9,15 @@ Bomber**（）是[日本的](../Page/日本.md "wikilink")[視覺系](../Page/�
 
 2010年在Live追加公演宣布的重大發表中，公開表示拒絕了七間主流經紀公司的出道邀請\[4\]。
 
-2012年1月14日、15日及21日舉行的Live「一生バカ」，首次登上[日本武道館與大阪城Hall](../Page/日本武道館.md "wikilink")。同年6月17、18日「Oh\!
+2012年1月14日、15日及21日舉行的Live「一生バカ」，首次登上[日本武道館](../Page/日本武道館.md "wikilink")與大阪城Hall。同年6月17、18日「Oh\!
 金爆ピック～愛の聖火リレー～」全國巡迴Live最終場也首次登上橫濱Arena的舞台。
 
 2012年11月30日，發表鬼龍院的喉嚨因為需要治療，在2013年1月至4月的活動中止\[5\]，實際是鬼龍院的歌唱活動要控制的意思，否定要中止活動\[6\]。
 
-2012年12月31日於[第63回NHK紅白歌合戰中演唱](../Page/第63回NHK紅白歌合戰.md "wikilink")「女々しくて」，這也是首次有空氣樂團於紅白歌合戰出場。在吉他獨奏時，全場的審查員與觀眾皆一同戴上了鼓手樽美酒研二的塗白妝面具\[7\]，會場2600人也成為演出的一部份。
+2012年12月31日於[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")中演唱「女々しくて」，這也是首次有空氣樂團於紅白歌合戰出場。在吉他獨奏時，全場的審查員與觀眾皆一同戴上了鼓手樽美酒研二的塗白妝面具\[7\]，會場2600人也成為演出的一部份。
 
 2013年1月1日發行的新單曲《Dance My
-Generation》，於公信榜1月14日的週排行榜中首次獲得第1名。以地下樂團的身份獲得第1名，是繼[MONGOL800之後的第](../Page/MONGOL800.md "wikilink")2組；但於發行首週即取得第1名的成績，為公信榜的首例。另外，在此排行榜中，也寫下了地下樂團史上最多，同時有11個作品進入前百名的記錄。\[8\]
+Generation》，於公信榜1月14日的週排行榜中首次獲得第1名。以地下樂團的身份獲得第1名，是繼[MONGOL800](../Page/MONGOL800.md "wikilink")之後的第2組；但於發行首週即取得第1名的成績，為公信榜的首例。另外，在此排行榜中，也寫下了地下樂團史上最多，同時有11個作品進入前百名的記錄。\[8\]
 
 ## 成員
 
@@ -25,9 +25,9 @@ Generation》，於公信榜1月14日的週排行榜中首次獲得第1名。以
 
 鬼龍院翔（キリュウイン ショウ）。[Vocal](../Page/主音.md "wikilink")。
 1984年6月20日出生，B型，身高164cm，
-[東京都出身](../Page/東京都.md "wikilink")。愛称是「キリショー」「キリちゃん」等。
+[東京都](../Page/東京都.md "wikilink")出身。愛称是「キリショー」「キリちゃん」等。
 
-畢業於[東京都立向丘高等學校](https://zh.wikipedia.org/wiki/東京都立向丘高等學校 "wikilink")，高中時曾與歌手[木村KAELA同班](../Page/木村KAELA.md "wikilink")，參加的社團為輕音部。與吉他手喜矢武豊在高中時即透過共同好友認識，但兩人高中並不同校。在樂團內曾經扮演過的角色有「鉄腕アトヌ」「夜魔堕さん」「Gockt」「ヤワラちゃん」「翔也」等等。是樂團中唯一一個把自己負責的部分好好完成的人。興趣是作曲，樂團內所有歌曲的作曲、作詞及編曲皆由他完成。另外除了能演奏[吉他](../Page/吉他.md "wikilink")、[貝斯](../Page/電貝斯.md "wikilink")、[爵士鼓等樂器之外](../Page/爵士鼓.md "wikilink")，也會拉[小提琴](../Page/小提琴.md "wikilink")。\[9\]負責構思LIVE中的演出及短劇劇本。
+畢業於[東京都立向丘高等學校](https://zh.wikipedia.org/wiki/東京都立向丘高等學校 "wikilink")，高中時曾與歌手[木村KAELA](../Page/木村KAELA.md "wikilink")同班，參加的社團為輕音部。與吉他手喜矢武豊在高中時即透過共同好友認識，但兩人高中並不同校。在樂團內曾經扮演過的角色有「鉄腕アトヌ」「夜魔堕さん」「Gockt」「ヤワラちゃん」「翔也」等等。是樂團中唯一一個把自己負責的部分好好完成的人。興趣是作曲，樂團內所有歌曲的作曲、作詞及編曲皆由他完成。另外除了能演奏[吉他](../Page/吉他.md "wikilink")、[貝斯](../Page/電貝斯.md "wikilink")、[爵士鼓](../Page/爵士鼓.md "wikilink")等樂器之外，也會拉[小提琴](../Page/小提琴.md "wikilink")。\[9\]負責構思LIVE中的演出及短劇劇本。
 
 2011年1月5日開始主持個人廣播節目「Golden Bomber鬼龍院翔的All Night
 Nippon」\[10\]。2012年6月20日發行第一本自傳《ゴールデンボンバーのボーカルだけどなんか質問ある？》。同年10月24日發售個人名義單曲「Life
@@ -41,7 +41,7 @@ Go\!\!限定版](../Page/爆走兄弟Let's_&_Go!!.md "wikilink")[迷你四驅車
 
 國中時期開始便是[MALICE
 MIZER的](../Page/MALICE_MIZER.md "wikilink")[歌迷](https://zh.wikipedia.org/wiki/歌迷 "wikilink")，相當崇拜[GACKT](../Page/GACKT.md "wikilink")。
-同時也是[B'z的熱衷歌迷](../Page/B'z.md "wikilink")，曾在[Rolling
+同時也是[B'z](../Page/B'z.md "wikilink")的熱衷歌迷，曾在[Rolling
 Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")。
 在專輯『イミテイション・ゴールド〜金爆の名曲二番搾り〜』中展現了對著名歌手的模仿功力，從曲風到唱腔都能夠模仿。
 
@@ -170,20 +170,20 @@ Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Roll
 喜矢武 豊（キャン
 ユタカ）。[Guitar](../Page/吉他.md "wikilink")。1985年3月15日出生，B型，身高166cm，東京都出身。愛称是「キャン様」等。
 
-在Live與電視上演出時，會做著被稱為「吉他Solo」的特色表演。拼命的過激演出相當多，曾為了吉他Solo的表演特地去考取[焊接證照](../Page/焊接.md "wikilink")、將自己的頭浸在墨汁裡當做毛筆寫書法、在舞台上洗頭及泡澡、快速吃西瓜等等。但其實在Live中，偶爾也會進行真的吉他獨奏，不過由於是空氣樂團，於公開場合總是說自己不會彈吉他，成員也說喜矢武的吉他只是「高中生程度」而已。
+在Live與電視上演出時，會做著被稱為「吉他Solo」的特色表演。拼命的過激演出相當多，曾為了吉他Solo的表演特地去考取[焊接](../Page/焊接.md "wikilink")證照、將自己的頭浸在墨汁裡當做毛筆寫書法、在舞台上洗頭及泡澡、快速吃西瓜等等。但其實在Live中，偶爾也會進行真的吉他獨奏，不過由於是空氣樂團，於公開場合總是說自己不會彈吉他，成員也說喜矢武的吉他只是「高中生程度」而已。
 
 曾經在樂團的短劇、短片內扮演過的角色有「ガチュピン」、「実輪さん」、「クリスティーネ・ゆた子」、「モーゼス・ケバブ」等等。在樂團中的人氣短片〈ガチュピンチャレンジシリーズ〉中同時替「ガチュピン」及「ムックー」兩個角色配音。
 
-負責Live中所使用的影片及預告短片的剪輯，同時也主要負責製作表演時會用到的道具。樂團的形象角色「金爆くん」也是由他設計。中學時期的美術成績相當優異，擅長製作手工的物品，可用紙箱做出[薩克斯風等道具](../Page/薩克斯風.md "wikilink")。
+負責Live中所使用的影片及預告短片的剪輯，同時也主要負責製作表演時會用到的道具。樂團的形象角色「金爆くん」也是由他設計。中學時期的美術成績相當優異，擅長製作手工的物品，可用紙箱做出[薩克斯風](../Page/薩克斯風.md "wikilink")等道具。
 
 國中、高中參加的社團皆為棒球社，運動神經很好，常和喜歡棒球的樽美酒研二一起打球、滑雪。
 
 是樂團中唯一吸菸的人。
 
-相當喜歡[GLAY和](../Page/GLAY.md "wikilink")[B'z](../Page/B'z.md "wikilink")，憧憬的樂手是[X
+相當喜歡[GLAY](../Page/GLAY.md "wikilink")和[B'z](../Page/B'z.md "wikilink")，憧憬的樂手是[X
 JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https://zh.wikipedia.org/wiki/hide "wikilink")。
 
-於2012年8月上映的電影『[死ガ二人ヲワカツマデ…](https://zh.wikipedia.org/wiki/死ガ二人ヲワカツマデ… "wikilink")─第1章「色ノナイ青」』中首次以[演員身份演出](../Page/演員.md "wikilink")，並且也是首次擔任主演。2013年3月於日劇[古書堂事件手帖第](../Page/古書堂事件手帖.md "wikilink")9集客串演出\[12\]。
+於2012年8月上映的電影『[死ガ二人ヲワカツマデ…](https://zh.wikipedia.org/wiki/死ガ二人ヲワカツマデ… "wikilink")─第1章「色ノナイ青」』中首次以[演員](../Page/演員.md "wikilink")身份演出，並且也是首次擔任主演。2013年3月於日劇[古書堂事件手帖](../Page/古書堂事件手帖.md "wikilink")第9集客串演出\[12\]。
 2013年10月於日本電視台深夜日劇「49」常規演出。劇中飾演一名男公關。
 
 **舞台出演**
@@ -200,7 +200,7 @@ JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https
 ### 歌広場淳
 
 歌広場 淳（ウタヒロバ
-ジュン）。[Bass](../Page/電貝斯.md "wikilink")。1985年8月30日出生，O型，身高174cm，[熊本縣出生](../Page/熊本縣.md "wikilink")，[千葉縣長大](../Page/千葉縣.md "wikilink")。2007年4月22日加入。愛称是「うぱ」「じゅんじゅん」「うたひろ」等。本名為高山
+ジュン）。[Bass](../Page/電貝斯.md "wikilink")。1985年8月30日出生，O型，身高174cm，[熊本縣](../Page/熊本縣.md "wikilink")出生，[千葉縣](../Page/千葉縣.md "wikilink")長大。2007年4月22日加入。愛称是「うぱ」「じゅんじゅん」「うたひろ」等。本名為高山
 淳（タカヤマ
 ジュン）\[13\]。[日本大学](../Page/日本大学.md "wikilink")[藝術学部文藝学科畢業](https://zh.wikipedia.org/wiki/藝術学部 "wikilink")。2016年6月和同齡的一般女性[結婚](http://ameblo.jp/sexy-m0xi/entry-12183064272.html)。
 
@@ -211,15 +211,15 @@ JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https
 加入樂團的契機是大學時期偶然看見了Golden
 Bomber的Live，被樂團的表演吸引。當時正好在招募貝斯手，於是寄出希望能夠加入的郵件。是樂團中唯一透露本名的人，就讀大學時為了宣傳樂團，使得本名也被寫在學校網頁上。之後在[NICONICO動畫的生放送節目](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「ゴールデンボンバーのニコラジ」中，自己也不小心將本名說出來。
 
-對[視覺系樂團相當熟悉](../Page/視覺系.md "wikilink")，常稱自己是「バンギャ男」。就讀大學時也經常前往Live
+對[視覺系](../Page/視覺系.md "wikilink")樂團相當熟悉，常稱自己是「バンギャ男」。就讀大學時也經常前往Live
 House觀看演出，從那時開始就已經是[メガマソ的吉他手](https://zh.wikipedia.org/wiki/メガマソ "wikilink")[涼平的粉絲](https://zh.wikipedia.org/wiki/涼平 "wikilink")，大學的畢業論文的題目也和涼平有關\[14\]。曾因為太常做出激烈的甩頭（ヘドバン）動作而被醫生要求停止。在樂團中的代表角色為「淳子@[れいたの嫁](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")」。
 
 大學專攻文藝學科，對文學有相當程度的了解，喜歡的作家是[島田雅彥](https://zh.wikipedia.org/wiki/島田雅彥 "wikilink")。另外對音樂劇的造詣也很深，從小時候開始就相當喜歡[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")，直到現在也會去觀賞演出。
 
 目前在雜誌[月刊TVnavi中撰寫個人連載專欄](https://zh.wikipedia.org/wiki/月刊TVnavi "wikilink")「イケメンがなきゃ生きていけない！」，同時也是品牌服飾「MINTNeKO」的代言模特兒。曾在動畫[伊克西翁傳說
-DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作為[聲優首度嘗試動畫配音](../Page/聲優.md "wikilink")，角色是輕浮男A（チャラ男A）。
+DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作為[聲優](../Page/聲優.md "wikilink")首度嘗試動畫配音，角色是輕浮男A（チャラ男A）。
 
-2013年3月14日、由歌広場淳企劃的型男水果咖啡廳「オータムリーフ」於[秋葉原開張](../Page/秋葉原.md "wikilink")\[15\]。而在2016年3月30日結束營業。
+2013年3月14日、由歌広場淳企劃的型男水果咖啡廳「オータムリーフ」於[秋葉原](../Page/秋葉原.md "wikilink")開張\[15\]。而在2016年3月30日結束營業。
 
 有接觸格鬥遊戲(快打旋風V)，也達到鑽石以上的分數，並在2018年5月\~8月擔任日本快打旋風團體賽Rage的來賓。
 
@@ -228,22 +228,22 @@ DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作
 樽美酒 研二（ダルビッシュ
 ケンジ）。擔任樂團中爵士鼓手。1980年11月28日出生，A型，身高181cm，[福岡縣出身](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。2009年4月10日加入。愛称是「ケンジ」「けんじっち」等。
 
-特徵是臉經常畫上纇似[歌舞伎一般的塗白妝容](../Page/歌舞伎.md "wikilink")。臉上塗白的理由是因為「前代鼓手天空城団吉也是塗白妝的緣故」、「會害羞」等等。素顏被說是成員中最好看的，在[部落格及](https://zh.wikipedia.org/wiki/部落格 "wikilink")[雜誌中都曾公開過素顏](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
+特徵是臉經常畫上纇似[歌舞伎](../Page/歌舞伎.md "wikilink")一般的塗白妝容。臉上塗白的理由是因為「前代鼓手天空城団吉也是塗白妝的緣故」、「會害羞」等等。素顏被說是成員中最好看的，在[部落格及](https://zh.wikipedia.org/wiki/部落格 "wikilink")[雜誌中都曾公開過素顏](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
 在Live中負責播放[iPod的歌曲](https://zh.wikipedia.org/wiki/iPod "wikilink")，也是MC中常被鬼龍院翔稱呼的「音控人員(PAさん)」。在樂團中的角色有「ムックー」、「ダル隊長」，以及畫著視覺系裝扮的「ナルシス研二」等等。
 
-雖然現在已經作為正式的成員進行樂團活動，可是官方表記中的「暫定」兩字並沒有消除，原因僅是「錯失了更正的時機」。演唱會中是不打鼓的「空氣鼓手」，總是在鼓架後面跳舞，為此甚至將[爵士鼓中重要的](../Page/爵士鼓.md "wikilink")[小鼓從鼓架中移除](../Page/小鼓.md "wikilink")。另外鼓棒是以圓柱狀泡棉製成。
+雖然現在已經作為正式的成員進行樂團活動，可是官方表記中的「暫定」兩字並沒有消除，原因僅是「錯失了更正的時機」。演唱會中是不打鼓的「空氣鼓手」，總是在鼓架後面跳舞，為此甚至將[爵士鼓](../Page/爵士鼓.md "wikilink")中重要的[小鼓](../Page/小鼓.md "wikilink")從鼓架中移除。另外鼓棒是以圓柱狀泡棉製成。
 
 小時候以成為[職業棒球選手為目標](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")，一直專心於棒球的練習（位置是6號[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")）。進入高中後開始了樂團活動，擔任主唱與吉他手。據說吉他彈得比吉他手喜矢武豊還要好，也能夠演奏貝斯。原本自己的樂團是「青春[龐克系](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")」，在加入Golden
-Bomber前完全沒有接觸過[視覺系的音樂](../Page/視覺系.md "wikilink")。加入的契機是透過Golden
+Bomber前完全沒有接觸過[視覺系](../Page/視覺系.md "wikilink")的音樂。加入的契機是透過Golden
 Bomber的錄音師tatsuo推薦而加入。
 
 相當頻繁的在更新[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")，瀏覽人數相當多。曾在2012年生日時收到超過五萬筆的祝賀留言，隔日首次獲得[Ameba部落格綜合排行榜第一名](https://zh.wikipedia.org/wiki/Ameba部落格 "wikilink")，2013年1至3月連續獲得月綜合排行榜第一名。由於常在部落格中發表裸身的照片，發生過數次被管理員刪除照片的事件。於2012年2月2日發行第一本部落格書《ベスト
 オブ オバマブログ》，2013年4月13日發行部落格書第二集。
 
-曾兩度被邀請為棒球比賽的開球嘉賓。第一次是2012年7月11日於[明治神宮棒球場舉行的](../Page/明治神宮棒球場.md "wikilink")[東京養樂多燕子與](../Page/東京養樂多燕子.md "wikilink")[橫濱DeNA海灣之星的比賽](../Page/橫濱DeNA海灣之星.md "wikilink")。第二次是2013年3月29日，於家鄉的[福岡巨蛋舉行的](../Page/福岡巨蛋.md "wikilink")[福岡軟體銀行鷹與](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")[東北樂天金鷹的開幕賽](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")。
+曾兩度被邀請為棒球比賽的開球嘉賓。第一次是2012年7月11日於[明治神宮棒球場](../Page/明治神宮棒球場.md "wikilink")舉行的[東京養樂多燕子](../Page/東京養樂多燕子.md "wikilink")與[橫濱DeNA海灣之星](../Page/橫濱DeNA海灣之星.md "wikilink")的比賽。第二次是2013年3月29日，於家鄉的[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")舉行的[福岡軟體銀行鷹與](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")[東北樂天金鷹的開幕賽](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")。
 
-2013年4月開始擔任綜藝節目[新堂本兄弟的固定成員](../Page/新堂本兄弟.md "wikilink")。
+2013年4月開始擔任綜藝節目[新堂本兄弟](../Page/新堂本兄弟.md "wikilink")的固定成員。
 
 身材魁梧健壯、運動神經發達的他，曾多次參加知名實境競賽節目[極限體能王](https://zh.wikipedia.org/wiki/極限體能王 "wikilink")，其實力已備受節目組肯定，而給予**後半段**的編號（多為實力者、全明星等）。參加比賽時，通常與喜矢武一同報名，總以白面裝扮現身。
 
@@ -361,8 +361,8 @@ Oricon週間排名最高73位</p></td>
 2.タイムマシンが欲しいよ<br />
 3.Blow Wind(オリジナル・カラオケ)<br />
 4.タイムマシンが欲しいよ(オリジナル・カラオケ)</p></td>
-<td><p>『タイムマシンが欲しいよ』- <a href="../Page/5pb..md" title="wikilink">5pb.社遊戲</a>「スキップ・ビート!」結尾曲。<br />
-<a href="../Page/宮野真守.md" title="wikilink">宮野真守和</a><a href="../Page/高木俊.md" title="wikilink">高木俊組合SMILY</a>☆SPIKY的合作作品。<br />
+<td><p>『タイムマシンが欲しいよ』- <a href="../Page/5pb..md" title="wikilink">5pb.</a>社遊戲「スキップ・ビート!」結尾曲。<br />
+<a href="../Page/宮野真守.md" title="wikilink">宮野真守</a>和<a href="../Page/高木俊.md" title="wikilink">高木俊</a>組合SMILY☆SPIKY的合作作品。<br />
 『Blow Wind』- SMILY☆SPIKY的曲是遊戲「スキップ・ビート!」開頭曲。<br />
 Oricon週間排名最高168位</p></td>
 </tr>
@@ -1776,7 +1776,7 @@ Oricon週間排名初登場1位</p></td>
 <td><p><strong>JUSTICE教徒に告ぐ・・蝕の宴</strong></p></td>
 <td><p>2007年10月31日</p></td>
 <td><p>1.收錄曲:<a href="https://zh.wikipedia.org/wiki/DAN_DAN_心魅かれてく" title="wikilink">DAN DAN 心魅かれてく</a>（<a href="../Page/FIELD_OF_VIEW.md" title="wikilink">FIELD OF VIEWのカバー</a>）<br />
-2.<a href="https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない" title="wikilink">愛のままにわがままに 僕は君だけを傷つけない</a>（<a href="../Page/B&#39;z.md" title="wikilink">B'z的翻唱</a>）<br />
+2.<a href="https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない" title="wikilink">愛のままにわがままに 僕は君だけを傷つけない</a>（<a href="../Page/B&#39;z.md" title="wikilink">B'z</a>的翻唱）<br />
 3.ベートーベンだねRock'n'Roll（動畫『<a href="../Page/21衛門.md" title="wikilink">21衛門</a>』的OP曲翻唱）<br />
 4.<a href="../Page/無論何時。.md" title="wikilink">無論何時。</a>（<a href="https://zh.wikipedia.org/wiki/槇原敬之" title="wikilink">槇原敬之的翻唱</a>）</p></td>
 <td></td>
@@ -2077,7 +2077,7 @@ Oricon週間排名初登場1位</p></td>
   - [血祭鉄兵部落格](http://youngjapan.blog67.fc2.com/)
 
 [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink")
+[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
 [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
 [Category:日本唱片大獎作曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎作曲獎獲獎者 "wikilink")
 [Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink")

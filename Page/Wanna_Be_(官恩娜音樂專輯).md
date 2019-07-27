@@ -1,5 +1,5 @@
 《**Wanna
-Be**》是[官恩娜的第](../Page/官恩娜.md "wikilink")7張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2013年8月16日推出。
+Be**》是[官恩娜](../Page/官恩娜.md "wikilink")的第7張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2013年8月16日推出。
 
 ## 曲目
 

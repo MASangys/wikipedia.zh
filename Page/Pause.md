@@ -1,4 +1,4 @@
-《**Pause**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關心妍於](../Page/關心妍.md "wikilink")2012年10月12日發行的第十二張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，全碟共有9首歌曲。
+《**Pause**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關心妍](../Page/關心妍.md "wikilink")於2012年10月12日發行的第十二張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，全碟共有9首歌曲。
 
 ## 曲目
 
@@ -98,7 +98,7 @@ Kenix Cheang</p></td>
 <td><p>朴根泰</p></td>
 <td><p>朴根泰<br />
 Gary Chan</p></td>
-<td><p><a href="../Page/盧覓雪.md" title="wikilink">盧覓雪獨白</a></p></td>
+<td><p><a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>獨白</p></td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +111,7 @@ Gary Chan</p></td>
 ## 派台歌成績
 
 **《失戀哲理》**：－
-[新城勁爆流行榜冠軍歌](../Page/新城電台.md "wikilink")／[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金曲金榜冠軍歌](../Page/勁歌金曲.md "wikilink")
+[新城勁爆流行榜冠軍歌](../Page/新城電台.md "wikilink")／[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金曲](../Page/勁歌金曲.md "wikilink")金榜冠軍歌
 903 :N/A
 RTHK:19\>10\>9\>15\>4\>3\>
 新城:15\>12\>11\>10\>10\>11\>9\>6\>6\>6\>**1**

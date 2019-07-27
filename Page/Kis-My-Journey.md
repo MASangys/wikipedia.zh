@@ -5,7 +5,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 《Kis-My-Journey》與上一張原創專輯《[Good向前衝！](../Page/Good向前衝！.md "wikilink")》相距約1年零3個月；與上一張專輯《[HIT\!
 HIT\!
-HIT\!](../Page/HIT!_HIT!_HIT!.md "wikilink")》相距約3個月。收錄第10張單曲「[光的信號](../Page/光的信號.md "wikilink")」和子團[舞祭組的單曲](../Page/舞祭組.md "wikilink")「[從天而降的幸運](https://zh.wikipedia.org/wiki/從天而降的幸運 "wikilink")」，共2首A面曲。
+HIT\!](../Page/HIT!_HIT!_HIT!.md "wikilink")》相距約3個月。收錄第10張單曲「[光的信號](../Page/光的信號.md "wikilink")」和子團[舞祭組](../Page/舞祭組.md "wikilink")的單曲「[從天而降的幸運](https://zh.wikipedia.org/wiki/從天而降的幸運 "wikilink")」，共2首A面曲。
 
 新曲《Seven
 Journey》為此專輯的主打曲目。新曲《3.6.5》是[DHC](../Page/DHC.md "wikilink")「藥用粉刺控制系列」的電視廣告歌曲。新曲《最喜歡妳》是[glico](../Page/江崎固力果.md "wikilink")「Watering
@@ -36,23 +36,23 @@ ONLY）」追加收錄了新曲「心情嗨起來\!」。
         [glico](../Page/江崎固力果.md "wikilink")「Watering KISSMINT」電視廣告歌曲
 6.  **FORM**
       -
-        成員[北山宏光主唱](../Page/北山宏光.md "wikilink")
+        成員[北山宏光](../Page/北山宏光.md "wikilink")主唱
 7.  **LU4E ～Last Song～**
       -
-        成員[藤谷太輔主唱](../Page/藤谷太輔.md "wikilink")
+        成員[藤谷太輔](../Page/藤谷太輔.md "wikilink")主唱
 8.  **Only One...**
       -
-        成員[玉森裕太主唱](../Page/玉森裕太.md "wikilink")
+        成員[玉森裕太](../Page/玉森裕太.md "wikilink")主唱
 9.  **FIRE\!\!\!**
       -
-        成員[北山宏光](../Page/北山宏光.md "wikilink")、[藤谷太輔主唱](../Page/藤谷太輔.md "wikilink")
+        成員[北山宏光](../Page/北山宏光.md "wikilink")、[藤谷太輔](../Page/藤谷太輔.md "wikilink")主唱
 10. **[從天而降的幸運](https://zh.wikipedia.org/wiki/從天而降的幸運 "wikilink")**（棚からぼたもち）
       -
         子團[舞祭組](../Page/舞祭組.md "wikilink")1st單曲
 11. **翼**（ツバサ）
 12. **[光的信號](../Page/光的信號.md "wikilink")**（光のシグナル）
       -
-        10th單曲。電影《[新·大雄的大魔境〜柏高與5人之探險隊〜](../Page/新·大雄的大魔境.md "wikilink")》的主題曲
+        10th單曲。電影《[新·大雄的大魔境](../Page/新·大雄的大魔境.md "wikilink")〜柏高與5人之探險隊〜》的主題曲
 13. **我們的承諾**（僕らの約束）
 14. **心情嗨起來\!**（アゲてくぜ\!）
       -

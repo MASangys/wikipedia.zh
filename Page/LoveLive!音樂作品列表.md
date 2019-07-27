@@ -1,4 +1,4 @@
-以下是由[日昇動畫和](../Page/日昇動畫.md "wikilink")[Lantis的聯合策划](../Page/Lantis.md "wikilink")**《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》的相關音樂專輯**的列表。
+以下是由[日昇動畫](../Page/日昇動畫.md "wikilink")和[Lantis](../Page/Lantis.md "wikilink")的聯合策划**《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》的相關音樂專輯**的列表。
 
 「LoveLive\!」的CD僅在日本國內發行，在中文地區尚無正式代理。本條目的專輯、曲目標題採用「日文原名（中文翻譯）」的格式。中文翻譯採用直譯，[盛大簡體中文版](https://zh.wikipedia.org/wiki/盛大游戏 "wikilink")《[LoveLive\!
 學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》在更新至4.0版本之前雖然有曲名的中文翻譯，但譯文與原文字面意思有較大出入，故未予採用。

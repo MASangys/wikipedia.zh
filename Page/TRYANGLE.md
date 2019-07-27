@@ -1,4 +1,4 @@
-《**TRYANGLE**》是日本组合[ALTIMA首張專輯](../Page/ALTIMA.md "wikilink")。於2014年3月26日由[Warner
+《**TRYANGLE**》是日本组合[ALTIMA](../Page/ALTIMA.md "wikilink")首張專輯。於2014年3月26日由[Warner
 Home
 Video發售](https://zh.wikipedia.org/wiki/Warner_Home_Video "wikilink")。
 

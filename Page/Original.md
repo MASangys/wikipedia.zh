@@ -1,4 +1,4 @@
-《**Original**》是[歌手](../Page/歌手.md "wikilink")[官恩娜的第一張個人](../Page/官恩娜.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，首批特別版於2004年7月24日推出。7月30日推出平裝版。
+《**Original**》是[歌手](../Page/歌手.md "wikilink")[官恩娜](../Page/官恩娜.md "wikilink")的第一張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，首批特別版於2004年7月24日推出。7月30日推出平裝版。
 
 ## 曲目
 

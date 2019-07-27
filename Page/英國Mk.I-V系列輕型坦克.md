@@ -1,6 +1,6 @@
 **英國Mk.I-V系列輕型坦克**包括了Mk.I-V輕型坦克。
 
-在[戰間期](https://zh.wikipedia.org/wiki/戰間期 "wikilink")，英國製造了一系列相似的[輕型坦克](https://zh.wikipedia.org/wiki/輕型坦克 "wikilink")。它們被用於訓練，並在1941年的[東非戰爭期間和一些諸如](https://zh.wikipedia.org/wiki/東非戰爭 "wikilink")[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[大英帝国的成員共同進行了少量的作戰](../Page/大英帝国.md "wikilink")。所有這些戰車的重量都在5[長噸左右](https://zh.wikipedia.org/wiki/長噸 "wikilink")，并在平路上擁有30 mph(50 km/h)的最大速度，越野時則為20 mph
+在[戰間期](https://zh.wikipedia.org/wiki/戰間期 "wikilink")，英國製造了一系列相似的[輕型坦克](https://zh.wikipedia.org/wiki/輕型坦克 "wikilink")。它們被用於訓練，並在1941年的[東非戰爭期間和一些諸如](https://zh.wikipedia.org/wiki/東非戰爭 "wikilink")[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[大英帝国](../Page/大英帝国.md "wikilink")的成員共同進行了少量的作戰。所有這些戰車的重量都在5[長噸左右](https://zh.wikipedia.org/wiki/長噸 "wikilink")，并在平路上擁有30 mph(50 km/h)的最大速度，越野時則為20 mph
 (30 km/h)。
 
 因為英國人並不指望他們的輕型坦克能對付除了輕型坦克以外的戰車，因此，它們僅僅安裝了維克斯.50或.303英寸機槍。懸掛採用霍姆斯斜彈簧式。引擎一般是[亨利-梅朵](https://zh.wikipedia.org/wiki/亨利-梅朵 "wikilink")6缸[汽油機](https://zh.wikipedia.org/wiki/汽油機 "wikilink")。除了Mk

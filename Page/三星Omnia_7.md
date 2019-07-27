@@ -1,5 +1,5 @@
 **Samsung Omnia
-7**是[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[三星電子於](../Page/三星電子.md "wikilink")2010年11月所推出的[Windows
+7**是[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[三星電子](../Page/三星電子.md "wikilink")於2010年11月所推出的[Windows
 Phone](../Page/Windows_Phone.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
 
 ## 參考

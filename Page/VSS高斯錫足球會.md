@@ -1,5 +1,5 @@
 **VSS高斯錫足球會**（**FC VSS
-Košice**）是[斯洛伐克的一家已经解散的足球俱樂部](../Page/斯洛伐克.md "wikilink")，位於斯洛伐克第二大城市[科希策](../Page/科希策.md "wikilink")。球队得到了兩次斯洛伐克足球甲級聯賽的冠軍。
+Košice**）是[斯洛伐克](../Page/斯洛伐克.md "wikilink")的一家已经解散的足球俱樂部，位於斯洛伐克第二大城市[科希策](../Page/科希策.md "wikilink")。球队得到了兩次斯洛伐克足球甲級聯賽的冠軍。
 
 ## 历史
 
@@ -24,7 +24,7 @@ Rezeš在斯洛伐克政府的换届选举中失势，俱乐部也开始走下�
 
 ### 1997-98赛季欧洲冠军联赛
 
-1.FC科希策是斯洛伐克独立以后第一支参加[欧洲冠军联赛正赛的斯洛伐克球队](../Page/欧洲冠军联赛.md "wikilink")，但也成为了欧洲冠军联赛历史上第一支在小组赛一个积分也没有获得的球队，输掉全部六场比赛。球队与[曼联](https://zh.wikipedia.org/wiki/曼联 "wikilink")、[费耶诺德和](https://zh.wikipedia.org/wiki/费耶诺德 "wikilink")[尤文图斯分在一个小组](https://zh.wikipedia.org/wiki/尤文图斯 "wikilink")。在参加欧洲冠军联赛期间，球队的中场球员米兰·奇维里克在一次车祸中丧生，年仅21岁。
+1.FC科希策是斯洛伐克独立以后第一支参加[欧洲冠军联赛](../Page/欧洲冠军联赛.md "wikilink")正赛的斯洛伐克球队，但也成为了欧洲冠军联赛历史上第一支在小组赛一个积分也没有获得的球队，输掉全部六场比赛。球队与[曼联](https://zh.wikipedia.org/wiki/曼联 "wikilink")、[费耶诺德和](https://zh.wikipedia.org/wiki/费耶诺德 "wikilink")[尤文图斯分在一个小组](https://zh.wikipedia.org/wiki/尤文图斯 "wikilink")。在参加欧洲冠军联赛期间，球队的中场球员米兰·奇维里克在一次车祸中丧生，年仅21岁。
 
 ### 21世纪
 

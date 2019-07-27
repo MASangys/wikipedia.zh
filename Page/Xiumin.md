@@ -1,8 +1,8 @@
-**金珉錫**（，；），以藝名**Xiumin**（，）為人熟識。[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男藝人](https://zh.wikipedia.org/wiki/男藝人 "wikilink")，為韓國男子團體[EXO](../Page/EXO.md "wikilink")、[中國分隊](../Page/中國.md "wikilink")[EXO-M及小分隊](../Page/EXO-M.md "wikilink")[EXO-CBX的成員](../Page/EXO-CBX.md "wikilink")，隊內擔任副領舞、副主唱，虛構特殊能力為「**冰**」。
+**金珉錫**（，；），以藝名**Xiumin**（，）為人熟識。[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男藝人](https://zh.wikipedia.org/wiki/男藝人 "wikilink")，為韓國男子團體[EXO](../Page/EXO.md "wikilink")、[中國](../Page/中國.md "wikilink")分隊[EXO-M](../Page/EXO-M.md "wikilink")及小分隊[EXO-CBX](../Page/EXO-CBX.md "wikilink")的成員，隊內擔任副領舞、副主唱，虛構特殊能力為「**冰**」。
 
 ## 個人生活
 
-金珉錫出生於[韓國京畿道南楊州市](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，家中有一位妹妹，高中就讀於九里仁倉高中，為該校足球社創社社長。跆拳道黑帶四段，劍道一段，運動神經發達，精通多種球類，尤其足球，曾在[MBC偶像明星運動會取得兩次足球比賽金牌](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")。在[EXO成員中力氣最大](../Page/EXO.md "wikilink")。
+金珉錫出生於[韓國京畿道南楊州市](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，家中有一位妹妹，高中就讀於九里仁倉高中，為該校足球社創社社長。跆拳道黑帶四段，劍道一段，運動神經發達，精通多種球類，尤其足球，曾在[MBC偶像明星運動會取得兩次足球比賽金牌](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")。在[EXO](../Page/EXO.md "wikilink")成員中力氣最大。
 2019年5月7日，Xiumin以陸軍現役身份服役，成為EXO第一個入伍的成員\[1\]。
 
 ## 演藝經歷
@@ -16,11 +16,11 @@ Contest，以第二名的优秀成績成為韓國[SM.Entertainment旗下練習�
 
 ### 2012-2014年：出道
 
-2012年1月25日，通過EXO官網公開預告影片首次與大眾見面；4月8日，以[EXO和](../Page/EXO.md "wikilink")[EXO-M組合成員身份正式出道](../Page/EXO-M.md "wikilink")，在隊內擔當領唱、副領舞。
+2012年1月25日，通過EXO官網公開預告影片首次與大眾見面；4月8日，以[EXO](../Page/EXO.md "wikilink")和[EXO-M](../Page/EXO-M.md "wikilink")組合成員身份正式出道，在隊內擔當領唱、副領舞。
 
 ### 2015年-現今：戲劇發展、EXO-CBX、入伍
 
-2015年1月，Xiumin與[東方神起的](../Page/東方神起.md "wikilink")[昌珉](https://zh.wikipedia.org/wiki/昌珉 "wikilink")，[SHINee的](../Page/SHINee.md "wikilink")[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")，[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")[Luna](../Page/朴善英.md "wikilink")，[EXO成員](../Page/EXO.md "wikilink")[Suho以及](../Page/Suho.md "wikilink")[Red
+2015年1月，Xiumin與[東方神起](../Page/東方神起.md "wikilink")的[昌珉](https://zh.wikipedia.org/wiki/昌珉 "wikilink")，[SHINee](../Page/SHINee.md "wikilink")的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")，[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")[Luna](../Page/朴善英.md "wikilink")，[EXO](../Page/EXO.md "wikilink")成員[Suho](../Page/Suho.md "wikilink")以及[Red
 Velvet成員](../Page/Red_Velvet.md "wikilink")[Seulgi共同演出由SM娛樂製作的立體音樂劇](https://zh.wikipedia.org/wiki/Seulgi "wikilink")《School
 OZ》，於音樂劇中飾演Aquila\[2\]。10月，Xiumin與[金素恩主演網絡劇](https://zh.wikipedia.org/wiki/金素恩 "wikilink")《愛上挑戰》，該劇成為韓國國內最短時間内突破千萬點擊率以及兩千萬點擊率的網絡劇。此外，Xiumin亦為該劇演唱OST《You
 Are The One》。\[3\]
@@ -28,20 +28,20 @@ Are The One》。\[3\]
 2016年3月3日，Xiumin與[智珉](../Page/智珉.md "wikilink")（[AOA](../Page/AOA.md "wikilink")）合唱的歌曲《Call
 You Bae》公開MV。《Call You Bae》描述陷入愛情的男生和女生，而歌曲一公開，便攻占了各大音源榜。\[4\]
 
-2016年7月，Xiumin與[俞承豪](../Page/俞承豪.md "wikilink")、[高昌錫](../Page/高昌錫.md "wikilink")、[羅美蘭等主演的電影](../Page/羅美蘭.md "wikilink")《[鳳伊
+2016年7月，Xiumin與[俞承豪](../Page/俞承豪.md "wikilink")、[高昌錫](../Page/高昌錫.md "wikilink")、[羅美蘭](../Page/羅美蘭.md "wikilink")等主演的電影《[鳳伊
 金先達](../Page/鳳伊_金先達.md "wikilink")》上映，Xiumin於劇中飾演詐騙團夥中最小的成員堅兒。\[5\]
 
 2016年8月，Xiumin與成員[伯賢](../Page/伯賢.md "wikilink")、[Chen共同為電視劇](../Page/CHEN_\(EXO\).md "wikilink")《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》獻唱OST《For
 You》。《For You》在各大音源榜佔據了上游位置。截至8月25日上午9點，這首歌獲得了Mnet第二名、Olleh
 Music第二名、Genie
-Music第二名、NAVER第二名、Bugs第二名、Melon第四名等等。\[6\]。10月，Xiumin與成員伯賢、Chen組成[EXO第一個子團](../Page/EXO.md "wikilink")[EXO-CBX並發現首張迷你專輯](../Page/EXO-CBX.md "wikilink")[Hey
+Music第二名、NAVER第二名、Bugs第二名、Melon第四名等等。\[6\]。10月，Xiumin與成員伯賢、Chen組成[EXO](../Page/EXO.md "wikilink")第一個子團[EXO-CBX](../Page/EXO-CBX.md "wikilink")並發現首張迷你專輯[Hey
 Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")。
 
-2017年7月，Xiumin與[NCT成員](../Page/NCT.md "wikilink")[Mark為](../Page/李敏亨.md "wikilink")[SM
+2017年7月，Xiumin與[NCT](../Page/NCT.md "wikilink")成員[Mark為](../Page/李敏亨.md "wikilink")[SM
 STATION第二季推出合唱歌曲](../Page/SM_STATION.md "wikilink")《Young &
 Free》\[7\]。8月，Xiumin成為綜藝節目《[被子外面很危險](../Page/被子外面很危險.md "wikilink")》試播的固定成員。\[8\]
 
-2019年5月4日，Xiumin於[首爾綜合運動場舉辦第一次個人見面會](../Page/首爾綜合運動場.md "wikilink")《Xiuweet
+2019年5月4日，Xiumin於[首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")舉辦第一次個人見面會《Xiuweet
 Time》\[9\]。
 
 ## 音樂作品
@@ -333,7 +333,7 @@ Time》\[9\]。
 | 2014年10月24日 | A Glass of Soju     | [任昌丁](../Page/任昌丁.md "wikilink")                                                                                   | 《EXO 90：2014》                                     |
 | 2016年3月3日   | Call You Bae        | [申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")（[AOA成員](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）  |                                                   |
 | 2016年12月29日 | Sound of Your Heart | SMTOWN & Steve Barakatt                                                                                            |                                                   |
-| 2017年7月7日   | Young & Free        | [Mark](https://zh.wikipedia.org/wiki/Mark_\(1999年\) "wikilink")（[NCT成員](../Page/NCT.md "wikilink")）                | [SM STATION S2](../Page/SM_STATION.md "wikilink") |
+| 2017年7月7日   | Young & Free        | [Mark](https://zh.wikipedia.org/wiki/Mark_\(1999年\) "wikilink")（[NCT](../Page/NCT.md "wikilink")成員）                | [SM STATION S2](../Page/SM_STATION.md "wikilink") |
 | 2019年5月9日   | 理由 （You）            | Xiumin                                                                                                             | [SM STATION第三季](../Page/SM_STATION.md "wikilink") |
 
 ## 影音作品

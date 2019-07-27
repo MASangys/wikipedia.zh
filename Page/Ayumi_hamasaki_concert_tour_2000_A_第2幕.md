@@ -1,5 +1,5 @@
 《**ayumi hamasaki concert tour 2000 A 第2幕**》（濱崎步 2000年 巡迴演唱會 A
-第2幕）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2000年間舉行的巡迴演唱會DVD。
+第2幕）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年間舉行的巡迴演唱會DVD。
 
 ## 說明
 

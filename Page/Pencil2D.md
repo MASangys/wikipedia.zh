@@ -13,11 +13,11 @@ License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 | website = <http://www.pencil2d.org/> }}
 
 **Pencil2D**是一个开源的2D动画软件。能在Windows, Mac OS, and
-Linux下运行。\[2\]这个应用程序支持[位图与](../Page/位图.md "wikilink")[矢量的编辑](https://zh.wikipedia.org/wiki/矢量图 "wikilink")，可以用来制作不错的2d动画。这个应用程序在[GNU
+Linux下运行。\[2\]这个应用程序支持[位图](../Page/位图.md "wikilink")与[矢量的编辑](https://zh.wikipedia.org/wiki/矢量图 "wikilink")，可以用来制作不错的2d动画。这个应用程序在[GNU
 General Public
 License下发布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
-Pencil2D使用[C++和](../Page/C++.md "wikilink")[Qt编写](https://zh.wikipedia.org/wiki/Qt_\(toolkit\) "wikilink")。Pencil是從Patrick
+Pencil2D使用[C++](../Page/C++.md "wikilink")和[Qt编写](https://zh.wikipedia.org/wiki/Qt_\(toolkit\) "wikilink")。Pencil是從Patrick
 Corrieri一个简单的“铅笔试验”计划中誕生的，後來Pascal
 Naidon看中了它的潛力，將其擴展為一個完整的2D動畫軟件。原本的Pencil在2011年中起因無人維護而廢棄，但是在2013年由Matt
 Chang以Pencil2D為名，重新啟動開發計畫。

@@ -12,11 +12,11 @@ AKD-10采用固体火箭发动机，根据其出口型蓝箭-7数据显示：导
 
 ## 装备
 
-该型导弹用于装备[直-10及](../Page/直-10.md "wikilink")[直-19武装直升机](https://zh.wikipedia.org/wiki/直-19 "wikilink")，近年来亦有该型导弹用于无人机的报道。蓝箭-7为其出口型。
+该型导弹用于装备[直-10](../Page/直-10.md "wikilink")及[直-19武装直升机](https://zh.wikipedia.org/wiki/直-19 "wikilink")，近年来亦有该型导弹用于无人机的报道。蓝箭-7为其出口型。
 
 ## AKD-9
 
-因[直-19机体较小](https://zh.wikipedia.org/wiki/直-19 "wikilink")，另有同步研发[AKD-9空对地导弹用于](https://zh.wikipedia.org/wiki/AKD-9 "wikilink")[直-19](https://zh.wikipedia.org/wiki/直-19 "wikilink")，同为半主动激光制导，外观布局也相近，但尺寸、重量与射程有所缩水。[直-10因发动机功率不足](../Page/直-10.md "wikilink")，也有使用AKD-9以增加挂弹量的情况（[直-10可挂载](../Page/直-10.md "wikilink")8枚AKD-10或16枚AKD-9）。
+因[直-19机体较小](https://zh.wikipedia.org/wiki/直-19 "wikilink")，另有同步研发[AKD-9空对地导弹用于](https://zh.wikipedia.org/wiki/AKD-9 "wikilink")[直-19](https://zh.wikipedia.org/wiki/直-19 "wikilink")，同为半主动激光制导，外观布局也相近，但尺寸、重量与射程有所缩水。[直-10](../Page/直-10.md "wikilink")因发动机功率不足，也有使用AKD-9以增加挂弹量的情况（[直-10](../Page/直-10.md "wikilink")可挂载8枚AKD-10或16枚AKD-9）。
 
 ## 外部連結
 

@@ -1,10 +1,10 @@
 **IE 商学院**
-是[西班牙](../Page/西班牙.md "wikilink")[马德里一所研究生高校](../Page/马德里.md "wikilink")，成立于1973年，当时命名为**企业学院（Instituto
+是[西班牙](../Page/西班牙.md "wikilink")[马德里](../Page/马德里.md "wikilink")一所研究生高校，成立于1973年，当时命名为**企业学院（Instituto
 de Empresa）**.
 
 根据*[金融时报](https://zh.wikipedia.org/wiki/金融时报 "wikilink")*的报名，IE 的MBA
 课程是全世界商学院中最具竞争力的课程之一。除提供企业管理MBA學程之外還有金融管理 (MF),
-博士班等课程。\[1\]金融时报将MBA课程排在2012年世界第八位，《福布斯》杂志将其在2011年排在全球非美国学校第三位。\[2\][经济学家杂志将职业MBA课程排在](../Page/经济学家.md "wikilink")2010年全球第一位，美国经济杂志将其排在2011年全球第四位，《华尔街日报》杂志将其排在2010年欧洲第一位。\[3\]布隆伯格商业周刊将其排在非美国学校2010年世界第三位。\[4\]金融硕士课程是世界上同类课程中最具竞争力的学校之一，*[金融时报](https://zh.wikipedia.org/wiki/金融时报 "wikilink")*将其排在2012年世界第一位(无经验课程排名)。\[5\]
+博士班等课程。\[1\]金融时报将MBA课程排在2012年世界第八位，《福布斯》杂志将其在2011年排在全球非美国学校第三位。\[2\][经济学家](../Page/经济学家.md "wikilink")杂志将职业MBA课程排在2010年全球第一位，美国经济杂志将其排在2011年全球第四位，《华尔街日报》杂志将其排在2010年欧洲第一位。\[3\]布隆伯格商业周刊将其排在非美国学校2010年世界第三位。\[4\]金融硕士课程是世界上同类课程中最具竞争力的学校之一，*[金融时报](https://zh.wikipedia.org/wiki/金融时报 "wikilink")*将其排在2012年世界第一位(无经验课程排名)。\[5\]
 
 IE
 商学院是全球唯一的57家获得[商学院三认证的高校之一](https://zh.wikipedia.org/wiki/商学院三认证 "wikilink")(占全球商学院不足1%)：[EFMD的](https://zh.wikipedia.org/wiki/EFMD "wikilink")[EQUIS认证](https://zh.wikipedia.org/wiki/EQUIS认证 "wikilink")、[AMBA认证和](https://zh.wikipedia.org/wiki/AMBA认证 "wikilink")[AACSB认证](https://zh.wikipedia.org/wiki/AACSB认证 "wikilink")。也是欧洲第一个加入[Beta
@@ -45,7 +45,7 @@ IE 的脱产 MBA 课程共13个月，可从十一月或四月开始上课，一�
 全球 MBA 课程包含了线上课程，时长 15
 个月。学生也需亲自参与开设在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink"),
 [纽约](../Page/纽约.md "wikilink"),
-[伦敦或](../Page/伦敦.md "wikilink")[马德里的学习课](../Page/马德里.md "wikilink")。英语课程(2009年9月入学班)有来自于34个国家的65名学生。
+[伦敦](../Page/伦敦.md "wikilink")或[马德里](../Page/马德里.md "wikilink")的学习课。英语课程(2009年9月入学班)有来自于34个国家的65名学生。
 
 ## 国际管理硕士
 
@@ -68,17 +68,17 @@ S.L.，主要股东为迪耶戈·阿尔卡萨·希尔维拉先生。\[10\]
     MBA 排名在当年10月位列世界第七，欧洲第二；该校还在年末12月份排名欧洲第五，西班牙第一。\*2011年3月的Poets &
     Quants 杂志中，北美以外的最佳职业 MBA
     课程.[9](http://poetsandquantsforexecs.com/2011/03/10/the-top-25-executive-mba-programs-in-europe-and-asia/)
-  - [华尔街日报在](../Page/华尔街日报.md "wikilink")2009年9月把*顶级两年期以下 MBA 课程*和MBA
+  - [华尔街日报](../Page/华尔街日报.md "wikilink")在2009年9月把*顶级两年期以下 MBA 课程*和MBA
     同时列为世界第一。
     [10](http://online.wsj.com/article/SB10001424052970204251404574344594232539808.html)
   - 在2009年 [QS 全球 200
     所商学院报告](https://zh.wikipedia.org/wiki/QS_全球_200_所商学院报告 "wikilink")\[11\]，欧洲第八
   - 2009年11月[商业周刊](https://zh.wikipedia.org/wiki/商业周刊 "wikilink") 职业 MBA
     排名世界第六，欧洲第一 \[12\]
-  - 2011年8月 [福布斯杂志](../Page/福布斯.md "wikilink"),
+  - 2011年8月 [福布斯](../Page/福布斯.md "wikilink")杂志,
     位列顶级非美国一年期商学院的世界第三。[11](http://www.forbes.com/sites/kurtbadenhausen/2011/08/10/the-best-international-business-schools)
   - MBA
-    排名2009年10月[经济学家杂志和](../Page/经济学家.md "wikilink")2011年6月的[美洲经济分列](https://zh.wikipedia.org/wiki/美洲经济 "wikilink")
+    排名2009年10月[经济学家](../Page/经济学家.md "wikilink")杂志和2011年6月的[美洲经济分列](https://zh.wikipedia.org/wiki/美洲经济 "wikilink")
     世界第十六，欧洲第七和世界第四。[12](http://rankings.americaeconomia.com/2011/mba/ranking-mba-global.php)
   - 职业教育课程在2009年11月的[美洲经济世界第七](https://zh.wikipedia.org/wiki/美洲经济 "wikilink")，欧洲第一。
 

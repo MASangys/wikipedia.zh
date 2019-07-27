@@ -1,18 +1,18 @@
 [Evolution_and_development_of_KDE_software.svg](https://zh.wikipedia.org/wiki/File:Evolution_and_development_of_KDE_software.svg "fig:Evolution_and_development_of_KDE_software.svg")
 **KDE
-Frameworks**是一套由[KDE社群所編寫的](../Page/KDE.md "wikilink")[函式庫及](../Page/函式庫.md "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，是[KDE
+Frameworks**是一套由[KDE](../Page/KDE.md "wikilink")社群所編寫的[函式庫](../Page/函式庫.md "wikilink")及[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，是[KDE
 Plasma 5及](../Page/KDE_Plasma_5.md "wikilink")[KDE Applications
-5的基礎](https://zh.wikipedia.org/wiki/KDE_Software_Compilation#第五版 "wikilink")，並使用[GNU宽通用公共许可证進行散佈](../Page/GNU宽通用公共许可证.md "wikilink")。
+5的基礎](https://zh.wikipedia.org/wiki/KDE_Software_Compilation#第五版 "wikilink")，並使用[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")進行散佈。
 
 其中所包含的各種獨立框架提供了各種常用的功能，包括了硬體整合、檔案格式支援、[控件](../Page/控件.md "wikilink")、繪圖功能、[拼寫檢查及更多](https://zh.wikipedia.org/wiki/拼寫檢查 "wikilink")。
 
 KDE Frameworks相當於將[KDE Platform
-4重寫為一套單獨且分開](../Page/KDELibs.md "wikilink")、跨平臺的模組，可以很容易的提供給所有基於[Qt的程式使用](../Page/Qt.md "wikilink")。從[KDE
+4重寫為一套單獨且分開](../Page/KDELibs.md "wikilink")、跨平臺的模組，可以很容易的提供給所有基於[Qt](../Page/Qt.md "wikilink")的程式使用。從[KDE
 Platform到KDE](../Page/KDELibs.md "wikilink")
 Frameworks的轉換歷時超過3年，由頂尖的技術貢獻者們指導\[1\]。
 
 在KDE Frameworks 5.0釋出後，因為沒有嚴苛的底線壓力，開發者們將會專注在加入新的功能到KDE Frameworks
-5的組件中\[2\]。像是[Firefox與KDE的更佳整合](../Page/Firefox.md "wikilink")\[3\]。
+5的組件中\[2\]。像是[Firefox](../Page/Firefox.md "wikilink")與KDE的更佳整合\[3\]。
 
 KDE Frameworks 5執行時函式庫與KDE Platform
 4執行時函式庫一同安裝應該是可行的，這樣應用程式就可以選擇要用哪一種\[4\]。
@@ -34,7 +34,7 @@ Frameworks 5將會以每個月為基礎釋出\[5\]且使用git\[6\]\[7\]。
 ### 應用程式介面及應用二進制介面穩定性
 
 平台發布是開始一個系列（版本號X.0）的主要發布。這些版本可以打破二進制檔案和，或者換句話說，所有以下版本（X.1, X.2,
-...）將保證原始碼和二進制兼容性（[应用程序接口及](../Page/应用程序接口.md "wikilink")[应用二进制接口](../Page/应用二进制接口.md "wikilink")）。例如，該軟體使用KDE
+...）將保證原始碼和二進制兼容性（[应用程序接口](../Page/应用程序接口.md "wikilink")及[应用二进制接口](../Page/应用二进制接口.md "wikilink")）。例如，該軟體使用KDE
 3.0開發將可以工作在所有（未來）發布的KDE 3，相對於應用程序開發使用KDE 2，不保證能夠利用KDE
 3的函式庫。KDE的主要版本號按照Qt的發布週期，這意味著KDE SC 4是基於 Qt
 4，而KDE 3是基於Qt 3。
@@ -138,9 +138,9 @@ Platform的版本號只有到4，而且其大多數代碼只是將先前的版�
 在Frameworks
 5中的主要變更為，增加了模組化的程度。在較早的KDE版本中，其函式庫被包裝為一個單一的大軟體包。在Frameworks中，這些函式庫會分裂成較小的數個獨立的軟體包。這有利於其他基於Qt的軟體利用這些函式庫，因為依賴性可以被保持在最低程度\[10\]。
 
-而KDE 4是基於第四版的[Qt部件工具箱開發](../Page/Qt.md "wikilink")，Frameworks
+而KDE 4是基於第四版的[Qt](../Page/Qt.md "wikilink")部件工具箱開發，Frameworks
 5則是使用第五版的Qt。Qt
-5能增加[QML的使用量](../Page/QML.md "wikilink")，一個簡單的，基於[JavaScript的敘述性程式語言](../Page/JavaScript.md "wikilink")，用以設計使用者介面。使用QML的圖形渲染引擎可以帶來橫跨不同裝置且更流暢的使用者介面\[11\]。
+5能增加[QML](../Page/QML.md "wikilink")的使用量，一個簡單的，基於[JavaScript](../Page/JavaScript.md "wikilink")的敘述性程式語言，用以設計使用者介面。使用QML的圖形渲染引擎可以帶來橫跨不同裝置且更流暢的使用者介面\[11\]。
 
 ## 參考資料
 

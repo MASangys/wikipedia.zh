@@ -6,7 +6,7 @@ Atomic）5个英文字母的缩写。
 
 ## 设计
 
-TRIGA反应堆是一种可以不安装严密的安全保护层的[池式反应堆](https://zh.wikipedia.org/wiki/池式反应堆 "wikilink")，一般用于教學訓練、科学研究和[同位素生产](../Page/同位素.md "wikilink")。TRIGA反应堆使用[铀氢锆核燃料](https://zh.wikipedia.org/wiki/铀氢锆核燃料 "wikilink")，这种燃料的核反应速率随温度上升而下降，因此TRIGA反应堆非常安全，基本不存在发生核事故的可能。最初的TRIGA反应堆使用高浓度的铀燃料，但[美国能源部在](https://zh.wikipedia.org/wiki/美国能源部 "wikilink")1978年推出“研究试验堆低浓化项目”（Reduced
+TRIGA反应堆是一种可以不安装严密的安全保护层的[池式反应堆](https://zh.wikipedia.org/wiki/池式反应堆 "wikilink")，一般用于教學訓練、科学研究和[同位素](../Page/同位素.md "wikilink")生产。TRIGA反应堆使用[铀氢锆核燃料](https://zh.wikipedia.org/wiki/铀氢锆核燃料 "wikilink")，这种燃料的核反应速率随温度上升而下降，因此TRIGA反应堆非常安全，基本不存在发生核事故的可能。最初的TRIGA反应堆使用高浓度的铀燃料，但[美国能源部在](https://zh.wikipedia.org/wiki/美国能源部 "wikilink")1978年推出“研究试验堆低浓化项目”（Reduced
 Enrichment for Research Test Reactors
 program）后，TRIGA反应堆逐渐转向使用低浓度的铀燃料。\[1\]
 

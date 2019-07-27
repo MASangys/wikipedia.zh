@@ -1,11 +1,11 @@
-《**Robot**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第七張單曲](../Page/CNBLUE.md "wikilink")，由[鄭容和和Kosuke](../Page/鄭容和.md "wikilink")
+《**Robot**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第七張單曲，由[鄭容和](../Page/鄭容和.md "wikilink")和Kosuke
 Oba編寫歌曲及製作，並在2012年12月19日以三個不同版本推出。這也是他們第四張由[華納唱片
 (日本)發行的單曲](../Page/華納音樂集團.md "wikilink")\[1\]。
 
 ## 背景
 
 此單曲由CNBLUE韓國公司FNC媒體方面在11月14日公布發行消息與曲目及版本的資料\[2\]。
-同月22日，在他們日本的官方網頁上傳了一張照片，公開了專輯的封面\[3\]、製作人、價格與每個版本附贈的內容\[4\]\[5\]。日本[日本電視台的節目](../Page/日本電視台.md "wikilink")《》自12月亦選用了《Robot》作為其開場歌曲\[6\]。
+同月22日，在他們日本的官方網頁上傳了一張照片，公開了專輯的封面\[3\]、製作人、價格與每個版本附贈的內容\[4\]\[5\]。日本[日本電視台](../Page/日本電視台.md "wikilink")的節目《》自12月亦選用了《Robot》作為其開場歌曲\[6\]。
 
 ### 發行版本
 
@@ -23,18 +23,18 @@ Oba編寫歌曲及製作，並在2012年12月19日以三個不同版本推出。
 <!-- end list -->
 
   - Warner Music Direct
-    Store限定盤：單曲CD以包裝，封面與初回限定盤及通常盤不同，同時包含了5張[聖誕卡及](../Page/聖誕卡.md "wikilink")1個的[鈴](https://zh.wikipedia.org/wiki/鈴 "wikilink")。此版本只在華納唱片
+    Store限定盤：單曲CD以包裝，封面與初回限定盤及通常盤不同，同時包含了5張[聖誕卡](../Page/聖誕卡.md "wikilink")及1個的[鈴](https://zh.wikipedia.org/wiki/鈴 "wikilink")。此版本只在華納唱片
     (日本)的數碼商店——「Warner Music Direct」出售\[9\]。
 
 ## 單曲內容
 
-《Robot》由CNBLUE成員[鄭容和和Kosuke](../Page/鄭容和.md "wikilink") Oba創作，Kosuke
-Oba同時負責日語翻譯，容和同時創作了B面第一首歌《Ring》。另一位成員[李宗泫則創作了B面第二首歌](../Page/李宗泫.md "wikilink")《Starlit
+《Robot》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")和Kosuke Oba創作，Kosuke
+Oba同時負責日語翻譯，容和同時創作了B面第一首歌《Ring》。另一位成員[李宗泫](../Page/李宗泫.md "wikilink")則創作了B面第二首歌《Starlit
 Night》。
 
 ## 音樂錄影帶
 
-11月26日，華納日本在他們的[YouTube頻道發放了音樂錄影帶的](../Page/YouTube.md "wikilink")30秒預覽\[10\]。完整的音樂錄影帶於2012年12月2日在節目中公開。
+11月26日，華納日本在他們的[YouTube](../Page/YouTube.md "wikilink")頻道發放了音樂錄影帶的30秒預覽\[10\]。完整的音樂錄影帶於2012年12月2日在節目中公開。
 
 ## 曲目
 
@@ -44,7 +44,7 @@ Night》。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------ | ---- |
 | 單曲日榜\[12\]\[13\]                         | 2    | 24,001 | 45,640 | 2週   |
 | 單曲週榜                                     | 2    | 42,563 |        |      |

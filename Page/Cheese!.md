@@ -1,4 +1,4 @@
-《**Cheese\!**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1996年創刊。
+《**Cheese\!**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1996年創刊。
 
 ## 連載中作品（2015年11月）
 

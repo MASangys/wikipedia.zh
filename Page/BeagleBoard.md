@@ -1,8 +1,8 @@
 [BeagleBone.jpg](https://zh.wikipedia.org/wiki/File:BeagleBone.jpg "fig:BeagleBone.jpg")
 [Beaglebone_Black.jpg](https://zh.wikipedia.org/wiki/File:Beaglebone_Black.jpg "fig:Beaglebone_Black.jpg")
-**Beagleboard**是一款由[德州仪器与](../Page/德州仪器.md "wikilink") Digi-Key 和 Newark
+**Beagleboard**是一款由[德州仪器](../Page/德州仪器.md "wikilink")与 Digi-Key 和 Newark
 element14
-合作生产的低能耗[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[单板机](../Page/单板机.md "wikilink")。它也是为运行[开源软件而构建的一个系统](../Page/开源软件.md "wikilink")，以及为展示德州仪器的[OMAP3530芯片](../Page/OMAP.md "wikilink")。这个主板由一个小组开发并以对高校展示开源硬件/软件能力为导向而设计。\[1\]\[2\]\[3\]
+合作生产的低能耗[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[单板机](../Page/单板机.md "wikilink")。它也是为运行[开源软件](../Page/开源软件.md "wikilink")而构建的一个系统，以及为展示德州仪器的[OMAP](../Page/OMAP.md "wikilink")3530芯片。这个主板由一个小组开发并以对高校展示开源硬件/软件能力为导向而设计。\[1\]\[2\]\[3\]
 
 ## BeagleBone
 
@@ -16,12 +16,12 @@ BeagleBone 是一款于 2011 年 10 月发布的使用频率为 720 MHz 的 Sita
 Capes 可以被堆积装入 BeagleBone (同时可安装 4 块）。这些 Capes 包括但不限于：
 
   - LCD 触摸屏板 (7 英寸和 3.5 英寸)
-  - [DVI-D](../Page/DVI.md "wikilink") 板
+  - [DVI](../Page/DVI.md "wikilink")-D 板
   - Breakout 板 (用于调试)
   - [面包板](https://zh.wikipedia.org/wiki/面包板 "wikilink")
   - [CAN 总线板](https://zh.wikipedia.org/wiki/控制器局域网 "wikilink")
   - [RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink") 板
-  - [锂电池板](../Page/锂电池.md "wikilink")\[5\]
+  - [锂电池](../Page/锂电池.md "wikilink")板\[5\]
 
 ## BeagleBone Black
 
@@ -126,7 +126,7 @@ Dedicated single mini-USB client port (no additional 2-port hub)</p></td>
 <td><p>BeagleBoard</p></td>
 <td><p>US$ 125</p></td>
 <td><p>July 28, 2008</p></td>
-<td><p><a href="../Page/OMAP.md" title="wikilink">OMAP3530</a></p></td>
+<td><p><a href="../Page/OMAP.md" title="wikilink">OMAP</a>3530</p></td>
 <td><p>720</p></td>
 <td></td>
 <td><p><a href="../Page/DDR_SDRAM.md" title="wikilink">DDR</a></p></td>

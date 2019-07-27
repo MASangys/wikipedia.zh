@@ -1,5 +1,5 @@
 《**Jazz
-Channel**》（《**林宥嘉邂逅爵士慈善音樂會Live精華**》）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[林宥嘉的首張實體現場大碟](../Page/林宥嘉.md "wikilink")，在2013年1月29日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年2月5日推出。專輯收錄了他在2012年2月26日於[台北國際會議中心舉行的](../Page/台北國際會議中心.md "wikilink")《林宥嘉邂逅爵士慈善音樂會》的部分曲目\[2\]，這也是他首次以[爵士樂形式演唱歌曲](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。
+Channel**》（《**林宥嘉邂逅爵士慈善音樂會Live精華**》）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[林宥嘉](../Page/林宥嘉.md "wikilink")的首張實體現場大碟，在2013年1月29日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年2月5日推出。專輯收錄了他在2012年2月26日於[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")舉行的《林宥嘉邂逅爵士慈善音樂會》的部分曲目\[2\]，這也是他首次以[爵士樂形式演唱歌曲](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。
 
 這張專輯中在電台首播的歌曲是《愛情的背影》，在1月31日首播\[3\]。
 

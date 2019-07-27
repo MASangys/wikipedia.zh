@@ -20,7 +20,7 @@ Zion的功能尚不完善（例如没有[均衡器](https://zh.wikipedia.org/wik
 
   - 支持[APE](https://zh.wikipedia.org/wiki/APE "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[WavPack](../Page/WavPack.md "wikilink")、[TAK](../Page/TAK.md "wikilink")、[MP3](../Page/MP3.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[TTA](../Page/TTA.md "wikilink")、[Musepack](../Page/Musepack.md "wikilink")、[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[WMA](https://zh.wikipedia.org/wiki/WMA "wikilink")、[WAV](../Page/WAV.md "wikilink")，不需要安裝任何插件即可播放（对于WMA和WAV格式则需要[Windows
     Media Player
-    9以上及](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")[DirectShow支持](../Page/DirectShow.md "wikilink")，如果系统渲染链被修改可能导致WMA无法播放）。
+    9以上及](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")[DirectShow](../Page/DirectShow.md "wikilink")支持，如果系统渲染链被修改可能导致WMA无法播放）。
   - 支持MP3、APE、Ogg、WMA、FLAC标签体系。
   - 支持
     [APL](https://zh.wikipedia.org/wiki/APL "wikilink")、[FPL](https://zh.wikipedia.org/wiki/FPL "wikilink")、[M3U](../Page/M3U.md "wikilink")/[M3U8](https://zh.wikipedia.org/wiki/M3U8 "wikilink")、[PLS](https://zh.wikipedia.org/wiki/PLS "wikilink")、[TTPL](https://zh.wikipedia.org/wiki/TTPL "wikilink")/[TTPL](https://zh.wikipedia.org/wiki/TTPL "wikilink")、[ASX](https://zh.wikipedia.org/wiki/ASX "wikilink")、[WPL播放列表格式](https://zh.wikipedia.org/wiki/WPL "wikilink")，支持[CUE](https://zh.wikipedia.org/wiki/CUE "wikilink")（压缩状态有效）及其自动去重。
@@ -34,7 +34,7 @@ Zion的功能尚不完善（例如没有[均衡器](https://zh.wikipedia.org/wik
 
 ### 读取压缩文件
 
-支持读取包含在[ZIP和](https://zh.wikipedia.org/wiki/ZIP "wikilink")[RAR格式的无密码压缩文件中的音频文件并在后台自动解压](../Page/RAR.md "wikilink")。同时，压缩文件内的图片、CUE文件都可以被AirPlay使用。这一特性的负面影响是增加了AirPlay的内存开销。
+支持读取包含在[ZIP和](https://zh.wikipedia.org/wiki/ZIP "wikilink")[RAR](../Page/RAR.md "wikilink")格式的无密码压缩文件中的音频文件并在后台自动解压。同时，压缩文件内的图片、CUE文件都可以被AirPlay使用。这一特性的负面影响是增加了AirPlay的内存开销。
 
 ### 键盘快捷键
 

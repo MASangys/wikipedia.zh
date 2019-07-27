@@ -4,7 +4,7 @@
 <td><p><big><strong>在合理使用的原則下，上載一個非自由內容的作品</strong></big></p></td>
 </tr>
 <tr class="even">
-<td><p><big>本頁用於上載非<a href="../Page/自由內容.md" title="wikilink">自由內容的作品</a>, 並且給出它們在指定的維基百科條目中的使用構成合理使用的原因。要上載其他來源的檔案，請返回<strong><a href="https://zh.wikipedia.org/wiki/Wikipedia:上載" title="wikilink">上載精靈</a></strong></big>。</p></td>
+<td><p><big>本頁用於上載非<a href="../Page/自由內容.md" title="wikilink">自由內容</a>的作品, 並且給出它們在指定的維基百科條目中的使用構成合理使用的原因。要上載其他來源的檔案，請返回<strong><a href="https://zh.wikipedia.org/wiki/Wikipedia:上載" title="wikilink">上載精靈</a></strong></big>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><big>請先閱讀這個重要的訊息</big></p></td>

@@ -11,7 +11,7 @@ disorders*".
 
 ### D05AA [焦油](../Page/焦油.md "wikilink")（Tars）
 
-### D05AC [蒽衍生物](../Page/蒽.md "wikilink")（Antracen derivatives）
+### D05AC [蒽](../Page/蒽.md "wikilink")衍生物（Antracen derivatives）
 
   -
     D05AC01

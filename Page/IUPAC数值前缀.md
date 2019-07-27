@@ -27,11 +27,11 @@
 | 31 | hentriconta- |  | 9000 | nonalia-     |
 
 **数值前缀**（numerical multiplier或multiplying
-affix）是[IUPAC命名法用来表示多少个特定原子或](../Page/IUPAC命名法.md "wikilink")[功能团附加于分子内部的特定位置上](https://zh.wikipedia.org/wiki/功能团 "wikilink")。这些[前缀源自](https://zh.wikipedia.org/wiki/前缀 "wikilink")[拉丁语与](../Page/拉丁语.md "wikilink")[希腊语](https://zh.wikipedia.org/wiki/希腊语 "wikilink")。
+affix）是[IUPAC命名法](../Page/IUPAC命名法.md "wikilink")用来表示多少个特定原子或[功能团附加于分子内部的特定位置上](https://zh.wikipedia.org/wiki/功能团 "wikilink")。这些[前缀源自](https://zh.wikipedia.org/wiki/前缀 "wikilink")[拉丁语](../Page/拉丁语.md "wikilink")与[希腊语](https://zh.wikipedia.org/wiki/希腊语 "wikilink")。
 
 ## 复合前缀
 
-表示大于12的数字的前缀，是按照其[阿拉伯数字表示法相反顺序构造](../Page/阿拉伯数字.md "wikilink")：个位数，接着是十位数，接着是百位数，接着是千位数。例如：
+表示大于12的数字的前缀，是按照其[阿拉伯数字](../Page/阿拉伯数字.md "wikilink")表示法相反顺序构造：个位数，接着是十位数，接着是百位数，接着是千位数。例如：
 
   -
     **548** → octa- (**8**) + tetraconta- (**40**) + pentacta- (**500**)
@@ -41,7 +41,7 @@ affix）是[IUPAC命名法用来表示多少个特定原子或](../Page/IUPAC命
 
 ### 数值1
 
-前缀*mono-*很少用于[有机化学](../Page/有机化学.md "wikilink")，但在[无机化学中为避免二义性前缀](../Page/无机化学.md "wikilink")*mono-*是必须的。例如**carbon
+前缀*mono-*很少用于[有机化学](../Page/有机化学.md "wikilink")，但在[无机化学](../Page/无机化学.md "wikilink")中为避免二义性前缀*mono-*是必须的。例如**carbon
 oxide**可能指[carbon
 monoxide或](https://zh.wikipedia.org/wiki/carbon_monoxide "wikilink")[carbon
 dioxide](https://zh.wikipedia.org/wiki/carbon_dioxide "wikilink")。
@@ -72,7 +72,7 @@ IUPAC有机化学命名中还有两种数值前缀。\[1\]
 | 4   | tetrakis- |
 | ... |           |
 
-例子如[滴滴涕的IUPAC名称](../Page/滴滴涕.md "wikilink")
+例子如[滴滴涕](../Page/滴滴涕.md "wikilink")的IUPAC名称
 
 ### 相同单位命名程序集的乘数前缀
 
@@ -133,13 +133,13 @@ IUPAC有机化学命名中还有两种数值前缀。\[1\]
 
 ## Icosa- *v.* eicosa-
 
-[IUPAC对数值](https://zh.wikipedia.org/wiki/IUPAC "wikilink")20的前缀的拼写依据[语源学选择了](../Page/语源学.md "wikilink")**icosa-**。但是[化学文摘社与](../Page/化学文摘社.md "wikilink")[伯恩斯坦数据库选择了另一种拼写形式](https://zh.wikipedia.org/wiki/伯恩斯坦数据库 "wikilink")*eicosa-*。
+[IUPAC对数值](https://zh.wikipedia.org/wiki/IUPAC "wikilink")20的前缀的拼写依据[语源学](../Page/语源学.md "wikilink")选择了**icosa-**。但是[化学文摘社](../Page/化学文摘社.md "wikilink")与[伯恩斯坦数据库选择了另一种拼写形式](https://zh.wikipedia.org/wiki/伯恩斯坦数据库 "wikilink")*eicosa-*。
 
 ## 语源学
 
 "mono-"源自希腊语，*monos* = "alone"。"un" = 1以及"nona-" = 9源自拉丁语。其它源自希腊数字。
 
-语言学家注意到100及以上的表示法并不是正确的希腊语。[古希腊时候](../Page/古希腊.md "wikilink")，*hekaton*
+语言学家注意到100及以上的表示法并不是正确的希腊语。[古希腊](../Page/古希腊.md "wikilink")时候，*hekaton*
 = 100，*diakosioi* = 200，*triakosioi* = 300等，*khīlioi* =
 1000，*diskhīlioi* = 2000， *triskhīlioi* =
 3000等，且13到19是*treiskaideka*等。

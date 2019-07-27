@@ -1,6 +1,6 @@
 由於[盟軍的海空兵力的增強](../Page/同盟國_\(第二次世界大戰\).md "wikilink")，德國海軍水面補給艦已很難安全到達和德國潛艇的會合地點進行補給作業，故作為補給艦的潛艇應運而生，而在[第二次世界大戰期間除了德國海軍](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，[日本海軍也有使用潛艇作為補給艦向已被美國海軍封鎖的太平洋島嶼上的守軍運送補給物資](../Page/大日本帝國海軍.md "wikilink")。
 
-XIV級潛艇是以[IX級潛艇作為基礎設計的運輸潛艇](../Page/IX級潛艇.md "wikilink")，其艇身相對比較肥大，負責為其他[U艇做補給](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")，能一次過為4至5艘U艇補給燃料，還有魚雷和食物等補給物資，故[納粹德國海軍稱此潛艇為乳牛](../Page/納粹德國海軍.md "wikilink")，1940年開始在[基爾建造了](https://zh.wikipedia.org/wiki/基爾 "wikilink")10艘，分別是:
+XIV級潛艇是以[IX級潛艇](../Page/IX級潛艇.md "wikilink")作為基礎設計的運輸潛艇，其艇身相對比較肥大，負責為其他[U艇做補給](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")，能一次過為4至5艘U艇補給燃料，還有魚雷和食物等補給物資，故[納粹德國海軍](../Page/納粹德國海軍.md "wikilink")稱此潛艇為乳牛，1940年開始在[基爾建造了](https://zh.wikipedia.org/wiki/基爾 "wikilink")10艘，分別是:
 
 [U-boat_Warfare_1939-1945_C3780.jpg](https://zh.wikipedia.org/wiki/File:U-boat_Warfare_1939-1945_C3780.jpg "fig:U-boat_Warfare_1939-1945_C3780.jpg")
 

@@ -1,5 +1,5 @@
 **X-gal**（亦可縮寫BCIG，為5 -溴-4 -氯-3
--吲哚基-β-D-吡喃半乳糖苷）是一種由[半乳糖連接取代](../Page/半乳糖.md "wikilink")[吲哚所組成的](../Page/吲哚.md "wikilink")[有機化合物](https://zh.wikipedia.org/wiki/有機化合物 "wikilink")。於1964年，由[杰羅姆·霍維茨和在密歇根州底特律的合作者共同開發出合成方法](https://zh.wikipedia.org/wiki/杰羅姆·霍維茨 "wikilink")。\[1\]
+-吲哚基-β-D-吡喃半乳糖苷）是一種由[半乳糖](../Page/半乳糖.md "wikilink")連接取代[吲哚](../Page/吲哚.md "wikilink")所組成的[有機化合物](https://zh.wikipedia.org/wiki/有機化合物 "wikilink")。於1964年，由[杰羅姆·霍維茨和在密歇根州底特律的合作者共同開發出合成方法](https://zh.wikipedia.org/wiki/杰羅姆·霍維茨 "wikilink")。\[1\]
 正式的化學名稱經常為了少去麻煩的短語而縮短到不準確，例如：bromochloroindoxyl半乳糖苷。這個X
 吲哚酚很可能是來自X-gal收縮源中的X。X-gal多應用於[分子生物學中測試](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")[β-半乳糖苷酶](https://zh.wikipedia.org/wiki/β-半乳糖苷酶 "wikilink")。它也被用來檢測[組織化學和](https://zh.wikipedia.org/wiki/組織化學 "wikilink")[細菌學各種酶的活性](https://zh.wikipedia.org/wiki/細菌學 "wikilink")。X-gal可以透過許多吲哚酚糖苷和酯，經由酶催化水解產生類似於[靛藍色且不溶的藍色化合物](https://zh.wikipedia.org/wiki/靛藍色 "wikilink")。\[2\]
 
@@ -15,7 +15,7 @@ X-gal的是一個模擬的乳糖，因此可以藉由[β-半乳糖苷酶來對�
 
 在基因的複製中，X-gal的被用作於[藍/白篩的測試中](https://zh.wikipedia.org/wiki/藍/白篩 "wikilink")，此測試為表現出細胞中之[β-半乳糖苷酶是否具有活性](https://zh.wikipedia.org/wiki/β-半乳糖苷酶 "wikilink")。這種篩選方法是區別出基因複製成功的產物與失敗品的一種相當便捷的方式。
 
-在藍/白篩選的方法中，宿主[大腸桿菌菌株攜帶包含ω](../Page/大腸桿菌.md "wikilink")-肽的[LacZ基因缺失突變體](https://zh.wikipedia.org/wiki/LacZ "wikilink")（lacZΔM15
+在藍/白篩選的方法中，宿主[大腸桿菌](../Page/大腸桿菌.md "wikilink")菌株攜帶包含ω-肽的[LacZ基因缺失突變體](https://zh.wikipedia.org/wiki/LacZ "wikilink")（lacZΔM15
 )，而所用的質體攜帶lacZα序列中第59殘基的β-半乳糖苷酶α-肽。無論本身的功能性，然而，當這兩個肽一起表達，因為當該細胞含有質體被變換成lacZΔM15的lacZα的序列，所以它們得以形成一個具有功能性的β-半乳糖苷酶。
 
 [藍/白篩選方法的作用原理是通過破壞該α](https://zh.wikipedia.org/wiki/藍/白篩 "wikilink")-互補的過程。lacZα序列內部的質體攜帶多複製端點（MCS）。這些lacZα中的MCS序列可以透過限制性內切酶進行切割，使lacZ

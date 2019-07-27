@@ -1,5 +1,5 @@
 《**B'z LIVE-GYM 2005 -CIRCLE OF
-ROCK-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")17張LIVE作品映像化(第15張DVD)。
+ROCK-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第17張LIVE作品映像化(第15張DVD)。
 
 ## 簡介
 

@@ -1,5 +1,5 @@
 《**LOVELY
-QUEST**》是[HOOKSOFT製作于](../Page/HOOKSOFT.md "wikilink")2012年9月28日发售[恋爱冒险類型的](https://zh.wikipedia.org/wiki/恋爱冒险 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]原本[GN
+QUEST**》是[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")製作于2012年9月28日发售[恋爱冒险類型的](https://zh.wikipedia.org/wiki/恋爱冒险 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]原本[GN
 Software預定](../Page/GN_Software.md "wikilink")《LOVELY QUEST
 -Unlimited-》發售PlayStation Portable版但後來變更成2014年3月27日發售PlayStation
 Vita版。\[2\]游戏主题是，“探索纯爱，体验腼腆少女的可爱”。

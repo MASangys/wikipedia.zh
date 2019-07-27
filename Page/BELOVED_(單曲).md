@@ -1,9 +1,9 @@
-**BELOVED**是[GLAY的第](../Page/GLAY.md "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+**BELOVED**是[GLAY](../Page/GLAY.md "wikilink")的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介
 
   - 第3張原創專輯『[BELOVED](https://zh.wikipedia.org/wiki/BELOVED "wikilink")』的先發單曲。
-  - 獲得1996年12月6日、第29屆[全日本有線放送大獎金獎](../Page/全日本有線放送大獎.md "wikilink")。
+  - 獲得1996年12月6日、第29屆[全日本有線放送大獎](../Page/全日本有線放送大獎.md "wikilink")金獎。
   - TBS電視台『[夏日求婚](https://zh.wikipedia.org/wiki/夏日求婚 "wikilink")』日劇主題曲。這是GLAY的第1首日劇主題曲，首週銷售量超過10萬張，總銷售量高達80萬張以上。
   - 從這張單曲道2010年發行的「[Precious](https://zh.wikipedia.org/wiki/Precious_\(GLAY\) "wikilink")」15年間、全部單曲打入ORICON單曲榜TOP
     3。

@@ -1,5 +1,5 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:C4ISR_Senior_Leaders_Conference,_February_2011_\(5425033416\).jpg "fig:缩略图")
-**C<sup>4</sup>ISR**是一个[军事学术语](../Page/军事学.md "wikilink")，是由**C<sup>2</sup>**（指挥、-{zh-cn:控制;zh-tw:管制}-）演化而来，通常译为指挥自动化系统。它由[英语的指挥](../Page/英语.md "wikilink")、-{zh-cn:控制;zh-tw:管制}-、通信、-{zh-cn:计算机;zh-tw:資訊}-、情报、监视和侦查七个词（、、、、、、）的首字母缩写而来，-{zh-cn:台湾也译为;zh-tw:取中文首字譯作}-**指管通资情监侦**\[1\]。
+**C<sup>4</sup>ISR**是一个[军事学](../Page/军事学.md "wikilink")术语，是由**C<sup>2</sup>**（指挥、-{zh-cn:控制;zh-tw:管制}-）演化而来，通常译为指挥自动化系统。它由[英语](../Page/英语.md "wikilink")的指挥、-{zh-cn:控制;zh-tw:管制}-、通信、-{zh-cn:计算机;zh-tw:資訊}-、情报、监视和侦查七个词（、、、、、、）的首字母缩写而来，-{zh-cn:台湾也译为;zh-tw:取中文首字譯作}-**指管通资情监侦**\[1\]。
 
 C<sup>4</sup>ISR系统提供军事運訊息化指挥和管理系统，提高指挥效率。现今**C<sup>4</sup>ISR**已成为现代军队的神经中枢。
 

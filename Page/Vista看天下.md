@@ -3,7 +3,7 @@
 ## 简介
 
 《Vista看天下》定位“面向高消费人群的新闻类杂志”，立志做“中国最好看的新闻杂志”[1](https://web.archive.org/web/20140408223131/http://www.vistastory.com/index.php/Other/about)，内容涵盖时政、财经
-、社会、科技、文化、时尚、娱乐等领域。2013年，原《[三联生活周刊](../Page/三联生活周刊.md "wikilink")》主笔之一[孟静作为杂志副主编加入](../Page/孟静.md "wikilink")。
+、社会、科技、文化、时尚、娱乐等领域。2013年，原《[三联生活周刊](../Page/三联生活周刊.md "wikilink")》主笔之一[孟静](../Page/孟静.md "wikilink")作为杂志副主编加入。
 
 ## 主要栏目
 
@@ -25,3 +25,4 @@
 [Category:新闻杂志](https://zh.wikipedia.org/wiki/Category:新闻杂志 "wikilink")
 [Category:中国杂志](https://zh.wikipedia.org/wiki/Category:中国杂志 "wikilink")
 [Category:周刊](https://zh.wikipedia.org/wiki/Category:周刊 "wikilink")
+[Category:2005年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2005年創辦的雜誌 "wikilink")

@@ -2,11 +2,11 @@
 
 ## 歷史
 
-根據部份消息指，AKMSU為[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1977年測試的武器之一，主要是打算供當時的[特種部隊和](../Page/特種部隊.md "wikilink")[空降兵試用](https://zh.wikipedia.org/wiki/空降兵 "wikilink")。然而期間發現7.62×39毫米中間型威力彈槍並不適合用在如此短槍管的武器上，這會導致在全自動射擊時[後座力和](../Page/後座力.md "wikilink")太大，令射手難以控制武器。再加上5.45×39毫米口徑的[AKS-74U即將裝備部隊](https://zh.wikipedia.org/wiki/AKS-74U "wikilink")，所以AKMSU還沒被正式採用就撤裝了。
+根據部份消息指，AKMSU為[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1977年測試的武器之一，主要是打算供當時的[特種部隊](../Page/特種部隊.md "wikilink")和[空降兵試用](https://zh.wikipedia.org/wiki/空降兵 "wikilink")。然而期間發現7.62×39毫米中間型威力彈槍並不適合用在如此短槍管的武器上，這會導致在全自動射擊時[後座力](../Page/後座力.md "wikilink")和太大，令射手難以控制武器。再加上5.45×39毫米口徑的[AKS-74U即將裝備部隊](https://zh.wikipedia.org/wiki/AKS-74U "wikilink")，所以AKMSU還沒被正式採用就撤裝了。
 
 AKMSU較具特色的是其具[穿孔式握把的下](../Page/輔助握把.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。另外它採用了[AKMS樣式的摺疊式](../Page/AKM突擊步槍.md "wikilink")[槍托](../Page/槍托.md "wikilink")，也跟AKS-74U不同。
 
-此外，[羅馬尼亞的](../Page/羅馬尼亞.md "wikilink")[PM
+此外，[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")的[PM
 md.90和前](https://zh.wikipedia.org/wiki/AIM突擊步槍 "wikilink")[南斯拉夫的](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")[Zastava
 M92的許多設計和構念似乎都是參考了AKMSU](https://zh.wikipedia.org/wiki/Zastava_M92卡賓槍 "wikilink")。
 
@@ -55,7 +55,7 @@ example and an apparent lack, as yet, of any official confirmation from
 the Soviet archives of the period, of it having seen service, which
 still leaves its provenance to be determined?*"
 
-AKMSU很可能是由一名[巴基斯坦枪匠製作的产物](../Page/巴基斯坦.md "wikilink")，该武器集合了以下部件：中国56式自動步枪的机匣（但具有1977年圖拉兵工廠生產AKM的刻字）、苏联AKM的击发机座、AKMS折叠枪托、AKS-74U铰链机匣盖，以及由木工制作的护木。
+AKMSU很可能是由一名[巴基斯坦](../Page/巴基斯坦.md "wikilink")枪匠製作的产物，该武器集合了以下部件：中国56式自動步枪的机匣（但具有1977年圖拉兵工廠生產AKM的刻字）、苏联AKM的击发机座、AKMS折叠枪托、AKS-74U铰链机匣盖，以及由木工制作的护木。
 
 于1986年6月，该武器进入英国国防部武器陈列厅。
 

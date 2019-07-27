@@ -1,4 +1,4 @@
-**DistroWatch**是一個包含了各種[Linux发行版及其他](../Page/Linux发行版.md "wikilink")[自由](../Page/自由软件.md "wikilink")/[开放源代码的](../Page/开放源代码.md "wikilink")[類Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")（如[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[MINIX及](../Page/MINIX.md "wikilink")[BSD等](../Page/BSD.md "wikilink")）的新聞、人氣排名、以及其他一般資訊等的[網站](../Page/網站.md "wikilink")。它包含了數百種發行版的資訊\[1\]。它最初在2001年5月31日發佈，並由Ladislav
+**DistroWatch**是一個包含了各種[Linux发行版](../Page/Linux发行版.md "wikilink")及其他[自由](../Page/自由软件.md "wikilink")/[开放源代码](../Page/开放源代码.md "wikilink")的[類Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")（如[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[MINIX](../Page/MINIX.md "wikilink")及[BSD](../Page/BSD.md "wikilink")等）的新聞、人氣排名、以及其他一般資訊等的[網站](../Page/網站.md "wikilink")。它包含了數百種發行版的資訊\[1\]。它最初在2001年5月31日發佈，並由Ladislav
 Bodnar維護\[2\]。
 
 這個網頁包含了很多不同發行版的軟體套裝及版本的細節比較表。也包含了一些基本特徵如價格及支援的處理器架構等\[3\]。其也有DistroWatch週刊（Distrowatch

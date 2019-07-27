@@ -1,5 +1,5 @@
 **Lexus
-SC**是[豐田旗下的高級品牌](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[凌志一款主打企業主管座車市場的中型豪華房車系列](../Page/凌志.md "wikilink")。從1993開賣，以填補[IS](../Page/凌志IS.md "wikilink")
+SC**是[豐田旗下的高級品牌](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[凌志](../Page/凌志.md "wikilink")一款主打企業主管座車市場的中型豪華房車系列。從1993開賣，以填補[IS](../Page/凌志IS.md "wikilink")
 和
 [LS之間的市場](https://zh.wikipedia.org/wiki/凌志LS "wikilink")，也試圖爭取「轎跑車」市場，目前GS共推出到四代。第一代GS主要從[豐田皇冠改裝而來](https://zh.wikipedia.org/wiki/豐田皇冠 "wikilink")，於1993進攻美國歐洲市場，和部分亞洲的訂購市場.
 第二代出現於1998，使用專屬設計的底盤和首度外銷的[V8日製引擎](https://zh.wikipedia.org/wiki/V8 "wikilink")。2006後出現的三代GS可選擇[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[V8和](https://zh.wikipedia.org/wiki/V8 "wikilink")[油電混合車](https://zh.wikipedia.org/wiki/油電混合車 "wikilink")

@@ -1,4 +1,4 @@
-《**One［芳］**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[萬芳的第十六張專輯](../Page/萬芳.md "wikilink")，第二張精選輯。這專輯在2005年1月14日推出。專輯的第一主打歌是《慢火車》，而第二主打歌則是《夜照亮了夜》。
+《**One［芳］**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[萬芳](../Page/萬芳.md "wikilink")的第十六張專輯，第二張精選輯。這專輯在2005年1月14日推出。專輯的第一主打歌是《慢火車》，而第二主打歌則是《夜照亮了夜》。
 
 ## 曲目
 

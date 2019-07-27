@@ -1,6 +1,6 @@
 [Sony_Alpha_Mount_Camera.jpg](https://zh.wikipedia.org/wiki/File:Sony_Alpha_Mount_Camera.jpg "fig:Sony_Alpha_Mount_Camera.jpg")替代了传统的反光板，光线被分给CMOS和垂直于相機內部的相位对焦模块，使SLT相機可以全时自动对焦\]\]
 **半透明反光鏡**（，簡稱：**SLT**）單眼相機，是一种使用了[半透镜技术](https://zh.wikipedia.org/wiki/半透镜 "wikilink")（Translucent
-Mirror Technology）的照相机，目前为相机制造商[索尼專用](../Page/索尼.md "wikilink")。
+Mirror Technology）的照相机，目前为相机制造商[索尼](../Page/索尼.md "wikilink")專用。
 
 相比较传统[单反相机](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，因为使用了半透镜，使得取景及相位检测和拍摄可以同时进行，且[反光板不須動作](https://zh.wikipedia.org/wiki/反光板 "wikilink")，可以达到更好性能，例如连拍速度。同时可以在视频拍摄时候可以[自动对焦](../Page/自动对焦.md "wikilink")，同時減少了[移焦的可能性](https://zh.wikipedia.org/wiki/移焦 "wikilink")。缺点是存在部分通光量损失，且无法使用原始光学取景器（OVF），对于一些传统用家有一定影响，但随着EVF技术的进步，显示效果也在提升。
 
@@ -12,7 +12,7 @@ X100s以及索尼自己的](https://zh.wikipedia.org/wiki/富士_X100s "wikilink
 
 SLT技术核心是其使用的一块固定式的[半透明反光镜](https://zh.wikipedia.org/wiki/半透明反光镜 "wikilink")。
 
-传统[单反相机使用反光板来改变光路](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，使得取景的相可以通过[五棱镜呈现在](https://zh.wikipedia.org/wiki/五棱镜 "wikilink")[光学取景器OVF中](../Page/光学取景器.md "wikilink")，在拍摄时首先抬起反光板，使得光路还原回直射胶片的位置，[快门帘幕动作胶片曝光](https://zh.wikipedia.org/wiki/快门 "wikilink")，完成后快门帘幕复位，放下反光板。SLT中的反光板是半透明式的，可以同时存在反射与透射光线，反射的光线到达了相机上部的相位对焦模块进行利用，完成原先副反光板下对焦模块的作用，透射的光线到达主感光元件，图像信号可以接驳到电子取景器EVF或者背部的主LCD上进行取景；拍摄时，反光板不动作，取景切断，伴随快门帘幕动作进行成像，之后恢复取景。
+传统[单反相机使用反光板来改变光路](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，使得取景的相可以通过[五棱镜呈现在](https://zh.wikipedia.org/wiki/五棱镜 "wikilink")[光学取景器](../Page/光学取景器.md "wikilink")OVF中，在拍摄时首先抬起反光板，使得光路还原回直射胶片的位置，[快门帘幕动作胶片曝光](https://zh.wikipedia.org/wiki/快门 "wikilink")，完成后快门帘幕复位，放下反光板。SLT中的反光板是半透明式的，可以同时存在反射与透射光线，反射的光线到达了相机上部的相位对焦模块进行利用，完成原先副反光板下对焦模块的作用，透射的光线到达主感光元件，图像信号可以接驳到电子取景器EVF或者背部的主LCD上进行取景；拍摄时，反光板不动作，取景切断，伴随快门帘幕动作进行成像，之后恢复取景。
 
 \*;优点 从原理上说，因为不需要反光板动作，所以降低了机震，有利于成像质量提升了；同时减少了反光板动作时间，降低了时滞，可以较容易达到高速连拍
 —— 2010年推出的SLT机种α55可以达到每秒10张连拍，持平了同时代的[佳能 EOS-1D Mark
@@ -21,7 +21,7 @@ IV达到的连拍水准](../Page/佳能_EOS-1D_Mark_IV.md "wikilink")。而且So
 同时，由于无需反光板动作，也就使得机身的制造可以更加趋向紧凑轻便，也減少了反光鏡機械老化後的移焦問題。
 
 \*;缺点与争议
-半透镜因为需要反射部分光线用于对焦，也就使得取景与成像用的光线有所损失（约1/3EV）——在20世纪末，相机制造商[佳能和](../Page/佳能.md "wikilink")[尼康都有推出自己的](../Page/尼康.md "wikilink")，使用了半透镜的产品（甚至在数码时代，奥林巴斯在E10/E20P上使用分光镜实现类似的功能）進光量會略受影響，但此影響細微[\[1\]](http://thesybersite.com/sony/a55/index.htm#slt_mirror_image_quality)。
+半透镜因为需要反射部分光线用于对焦，也就使得取景与成像用的光线有所损失（约1/3EV）——在20世纪末，相机制造商[佳能](../Page/佳能.md "wikilink")和[尼康](../Page/尼康.md "wikilink")都有推出自己的，使用了半透镜的产品（甚至在数码时代，奥林巴斯在E10/E20P上使用分光镜实现类似的功能）進光量會略受影響，但此影響細微[\[1\]](http://thesybersite.com/sony/a55/index.htm#slt_mirror_image_quality)。
 
 ### 中文名称争议
 

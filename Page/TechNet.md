@@ -1,5 +1,5 @@
 **Microsoft
-TechNet**是[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")（Microsoft）为面向[IT专业人士推出的服务](https://zh.wikipedia.org/wiki/IT "wikilink")。提供該公司產品有關的技术信息与[软件下载](../Page/软件.md "wikilink")。类似于微软面向[开发者提供的](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")[微软开发者网络](../Page/微软开发者网络.md "wikilink")（MSDN）服务。
+TechNet**是[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")（Microsoft）为面向[IT专业人士推出的服务](https://zh.wikipedia.org/wiki/IT "wikilink")。提供該公司產品有關的技术信息与[软件](../Page/软件.md "wikilink")下载。类似于微软面向[开发者提供的](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")[微软开发者网络](../Page/微软开发者网络.md "wikilink")（MSDN）服务。
 
 ## 服务一览
 

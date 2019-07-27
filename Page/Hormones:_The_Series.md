@@ -11,7 +11,7 @@ One以及線上播映。儘管沒有在免付費的無線電視臺放送，仍�
 
 *荷爾蒙*由泰國製片公司GMM Tai Hub(GTH)以及子公司Nadao
 Bangkok製作。根據導演[松耀司·舒克馬卡納尼表示](https://zh.wikipedia.org/wiki/松耀司·舒克馬卡納尼 "wikilink"),
-*荷爾蒙*原先一部分只是GTH創作來提供機會給其旗下青少年演員以及一部分帶有實驗性質地製作不同於以往泰國電視劇的模式。其概念有部分是源自於2008年的原文同名電影[愛我一下夏以及受到英國影集](../Page/愛我一下夏.md "wikilink")[皮囊的啟發](../Page/皮囊.md "wikilink")。
+*荷爾蒙*原先一部分只是GTH創作來提供機會給其旗下青少年演員以及一部分帶有實驗性質地製作不同於以往泰國電視劇的模式。其概念有部分是源自於2008年的原文同名電影[愛我一下夏](../Page/愛我一下夏.md "wikilink")以及受到英國影集[皮囊](../Page/皮囊.md "wikilink")的啟發。
 *荷爾蒙*旨在探索及描述青少年生活的不同議題及面向，包含在泰國社會中公開討論被認為是禁忌的青少年性愛以及校園暴力。\[1\]\[2\]
 
 創作劇本時，導演及編劇團隊針對當代的青少年議題作了線上調查，也從參與演出的演員們身上了解。導演想避免用傳道的方式，而以青少年的角度傳達議題，並透過劇中角色的經歷表達某些行為的後果。
@@ -43,7 +43,7 @@ Bangkok College，主角們是高中學生. 主要角色整季都有出現，但
 <td><p>聰明，敢於思考，敢於嘗試，並能勇敢地表現出來，具有領導者意識。<br />
 是校園內最受歡迎的男孩，習慣他想要的都要得到。<br />
 性關係開放、複雜，和學姐Bee和同學Sprite都發生過性關係。<br />
-不經意製造與Sprite和Toei有曖昧的樣子，惹怒Phai和Tar，並連累Toei被Bee霸凌。<br />
+不經意製造與Sprite和Toey有曖昧的樣子，惹怒Phai和Tar，並連累Toey被Bee霸凌。<br />
 Mok的同桌兼好友，與Tar的關係也很好。<br />
 喜歡Kongkwan，時常表現自己以獲取她的注意，第三季結局與她成為情侶。<br />
 同班同學：Kongkwan、Mok<br />
@@ -65,7 +65,7 @@ Kwan</p></td>
 <tr class="even">
 <td><p>Sutatta Udomsilp<br />
 (Punpun)</p></td>
-<td><p>Toei</p></td>
+<td><p>Toey</p></td>
 <td><p>簡單，不像其他女生那樣事兒多<br />
 和男生相處得更好，也因此受到其他女生的排擠，刻意與男生保持距離<br />
 招黑體制，時常被女生（Bee，Kanompang）霸凌<br />
@@ -81,7 +81,7 @@ Phu初中時的前女友，與他藕斷絲連<br />
 <td><p>Phu</p></td>
 <td><p>是學校銅管樂隊的薩克斯風手<br />
 Phao的哥哥<br />
-Toei初中時的前男友，和他藕斷絲連，並同時喜歡Thee<br />
+Toey初中時的前男友，和他藕斷絲連，並同時喜歡Thee<br />
 第二季結局時與Thee重拾舊好，第三季結局與他穩定交往<br />
 名字在泰語中的意思是山<br />
 同班同學：Thee，Sprite<br />
@@ -105,9 +105,9 @@ Win的同桌兼好友，與Tar的關係也很好。<br />
 對於自己的身高敏感<br />
 校園樂團SeeScape第一期的新吉他手<br />
 與Win、Mok和Phai的關係都很好。<br />
-Toei的同桌並喜歡她，第三季結局時成為情侶。<br />
+Toey的同桌並喜歡她，第三季結局時成為情侶。<br />
 曾和Kanompang交往<br />
-同班同學：Toei、Phai<br />
+同班同學：Toey、Phai<br />
 角色主要探討課題：多角關係</p></td>
 </tr>
 <tr class="even">
@@ -124,7 +124,7 @@ Toei的同桌並喜歡她，第三季結局時成為情侶。<br />
 角色主要探討課題：不安全性行為、女同性戀</p></td>
 </tr>
 <tr class="odd">
-<td><p>Thanapob Leeratanakajorn<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/:朋抔·里拉塔納卡鄒" title="wikilink">Thanapob Leeratanakajorn</a><br />
 (Tor)</p></td>
 <td><p>Phai</p></td>
 <td><p>是個魯莽的男孩，常惹麻煩<br />
@@ -132,7 +132,7 @@ Toei的同桌並喜歡她，第三季結局時成為情侶。<br />
 Sprite的男友，不能接受她和別的男生有曖昧<br />
 在乎周圍人的感受，會用盡所有方式保護自己愛的人和夥伴。<br />
 名字在泰語中的意思是竹子<br />
-同班同學：Toei、Tar<br />
+同班同學：Toey、Tar<br />
 角色主要探討課題：童黨、墮胎</p></td>
 </tr>
 <tr class="even">

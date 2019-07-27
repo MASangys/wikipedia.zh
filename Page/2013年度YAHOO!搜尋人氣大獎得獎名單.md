@@ -1,4 +1,4 @@
-**YAHOO\!搜尋人氣大獎2013**，於2013年12月1日香港時間晚上8時假[香港展覽中心舉行](../Page/香港展覽中心.md "wikilink")。由[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚擔任司儀](../Page/胡蓓蔚.md "wikilink")。
+**YAHOO\!搜尋人氣大獎2013**，於2013年12月1日香港時間晚上8時假[香港展覽中心](../Page/香港展覽中心.md "wikilink")舉行。由[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚](../Page/胡蓓蔚.md "wikilink")擔任司儀。
 
 ## 得獎名單
 

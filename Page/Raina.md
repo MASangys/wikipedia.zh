@@ -7,17 +7,17 @@ Blue的成員](https://zh.wikipedia.org/wiki/After_School_Blue "wikilink")。
 
 ## 經歷
 
-Raina高中時與[2AM的](../Page/2AM.md "wikilink")[趙權是同學](../Page/趙權.md "wikilink")。\[2\]
-出道前曾在SM學院接受歌唱培訓，因為母親稱許JYP練習生培訓系統而多次參加[JYP娛樂試鏡](../Page/JYP娛樂.md "wikilink")，也參與過
+Raina高中時與[2AM](../Page/2AM.md "wikilink")的[趙權](../Page/趙權.md "wikilink")是同學。\[2\]
+出道前曾在SM學院接受歌唱培訓，因為母親稱許JYP練習生培訓系統而多次參加[JYP娛樂](../Page/JYP娛樂.md "wikilink")試鏡，也參與過
 [Mnet](../Page/Mnet媒體.md "wikilink")《Superstar K》Audition
-選拔。後來因上傳自行錄製的練習影片至網路被[Pledis娛樂發掘](../Page/Pledis娛樂.md "wikilink")，而簽約成為練習生。經6個月訓練後就加入[After
+選拔。後來因上傳自行錄製的練習影片至網路被[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")發掘，而簽約成為練習生。經6個月訓練後就加入[After
 School出道並擔任主唱](../Page/After_School.md "wikilink")，之後透過「[不朽的名曲](../Page/不朽的名曲：傳說在歌唱.md "wikilink")」、「Perfect
 Singer
-VS」等節目展現個人歌唱實力，另外在子團[橙子焦糖的可愛獨特風格受到人們的歡迎](../Page/橙子焦糖.md "wikilink")。\[3\]
+VS」等節目展現個人歌唱實力，另外在子團[橙子焦糖](../Page/橙子焦糖.md "wikilink")的可愛獨特風格受到人們的歡迎。\[3\]
 
 2014年Raina與[San
 E合作單曲](../Page/San_E.md "wikilink")《仲夏夜的蜜》，6月12日公開音源後，隔日凌晨即登上韓國各大音源榜第一名\[4\]\[5\]，並且拿下「[Gaon
-Chart](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")」與「[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")」音源榜七月份月榜冠軍。在《仲夏夜的蜜》一曲獲得出色成績後，[Pledis娛樂宣布Raina](../Page/Pledis娛樂.md "wikilink")10月8日發行個人首張數位單曲《Reset》，主打歌〈You
+Chart](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")」與「[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")」音源榜七月份月榜冠軍。在《仲夏夜的蜜》一曲獲得出色成績後，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")宣布Raina10月8日發行個人首張數位單曲《Reset》，主打歌〈You
 End, And Me〉邀請到男團TROY成員Kanto搭檔合作。\[6\]
 
 2015年11月24日Raina發行睽違一年多的第二張數位單曲《不知道》Solo回歸，特別是這次新曲由Raina親自參與作詞作曲，突顯創作才能。
@@ -26,7 +26,7 @@ End, And Me〉邀請到男團TROY成員Kanto搭檔合作。\[6\]
 E合作第二首單曲](../Page/San_E.md "wikilink")《焦糖餅》公開。與音源一同公開的新曲MV以愛情是享用甜美的食物為主題，演繹愛情的甜蜜。而歌曲內容是講述了曾經是曖昧關係的兩人發展成情侶的甜蜜愛情故事。\[7\]
 
 2017年7月31日暌違兩年Solo回歸，發行單曲《飯 電影
-咖啡館》，主打歌〈Loop〉和公司后辈[NU'EST的成員](../Page/NU'EST.md "wikilink")[Aron搭檔合作](../Page/郭英敏.md "wikilink")，一同進行兩週的宣傳活動。\[8\]
+咖啡館》，主打歌〈Loop〉和公司后辈[NU'EST](../Page/NU'EST.md "wikilink")的成員[Aron搭檔合作](../Page/郭英敏.md "wikilink")，一同進行兩週的宣傳活動。\[8\]
 
 ## 廣告
 

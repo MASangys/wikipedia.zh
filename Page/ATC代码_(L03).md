@@ -1,6 +1,6 @@
 ## L03A [免疫增强剂](https://zh.wikipedia.org/wiki/免疫增强剂 "wikilink")（Immunostimulants）
 
-### L03AA [集落刺激因子类](../Page/集落刺激因子.md "wikilink")（Colony stimulating factors）
+### L03AA [集落刺激因子](../Page/集落刺激因子.md "wikilink")类（Colony stimulating factors）
 
   -
     L03AA02
@@ -16,7 +16,7 @@
     L03AA13
     [聚乙二醇非格司亭](https://zh.wikipedia.org/wiki/聚乙二醇非格司亭 "wikilink")（Pegfilgrastim）
 
-### L03AB [干扰素类](../Page/干扰素.md "wikilink")（Interferons）
+### L03AB [干扰素](../Page/干扰素.md "wikilink")类（Interferons）
 
   -
     L03AB01
@@ -56,7 +56,7 @@
     L03AB60 PEG干扰素α-2b，复方（Peginterferon alfa-2b, combinations）
     L03AB61 PEG干扰素α-2a，复方（Peginterferon alfa-2a, combinations）
     QL03AB90
-    [干扰素ω](https://zh.wikipedia.org/wiki/干扰素ω "wikilink")，[猫科起源](../Page/猫科.md "wikilink")（Interferon
+    [干扰素ω](https://zh.wikipedia.org/wiki/干扰素ω "wikilink")，[猫科](../Page/猫科.md "wikilink")起源（Interferon
     omega, feline origin）
 
 ### L03AC [白介素类](https://zh.wikipedia.org/wiki/白介素 "wikilink")（Interleukins）

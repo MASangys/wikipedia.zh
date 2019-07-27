@@ -1,7 +1,7 @@
 \-{H|zh-cn:鞑靼人;zh-tw:韃靼;}-
 
 **RIM-24 鞑靼人导弹**（-{zh-cn:，也称**鞑靼**;zh-tw:
-;}-）是[通用动力公司旗下的一款舰载中程](../Page/通用动力.md "wikilink")[防空导弹](../Page/面對空飛彈.md "wikilink")（SAM），也是[美国海军舰艇最早装备的舰对空导弹之一](https://zh.wikipedia.org/wiki/美国海军 "wikilink")。作为美国海军在20世纪60年代至70年代的主力装备，与同时期的[RIM-2小猎犬导弹和](../Page/RIM-2飛彈.md "wikilink")[RIM-8黄铜骑士导弹合称](../Page/RIM-8飛彈.md "wikilink")"3
+;}-）是[通用动力](../Page/通用动力.md "wikilink")公司旗下的一款舰载中程[防空导弹](../Page/面對空飛彈.md "wikilink")（SAM），也是[美国海军舰艇最早装备的舰对空导弹之一](https://zh.wikipedia.org/wiki/美国海军 "wikilink")。作为美国海军在20世纪60年代至70年代的主力装备，与同时期的[RIM-2小猎犬导弹和](../Page/RIM-2飛彈.md "wikilink")[RIM-8黄铜骑士导弹合称](../Page/RIM-8飛彈.md "wikilink")"3
 T's"。
 
 ## 简介
@@ -10,11 +10,11 @@ T's"。
 T's，均发源于1944年开始的[大黄蜂计划](https://zh.wikipedia.org/wiki/大黄蜂计划 "wikilink")（Operation
 Bumblebee），该计划原是为了发展导弹用[冲压发动机](../Page/冲压发动机.md "wikilink")，其结果就是后来的RIM-8塔羅斯导弹。另一方面，在这个计划中实验设计的固体燃料火箭，在飞行试验中显示出优异的性能，衍生出RIM-2小猎犬导弹。这两种均采用早期导弹系统常见的[雷达照射引导方式制导](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")，但该方式对于低空高速目标有其局限性。
 
-鞑靼人得益于20世纪50年代开始的小猎犬改进计划，比如在后者的基础上简化掉助推器，使用新的[半主动雷达制导](../Page/半主动雷达制导.md "wikilink")（SARH），并将控制翼移动到导弹末端等。由此产生了一款满足如[巡洋舰或者大型](../Page/巡洋舰.md "wikilink")[护卫舰](../Page/巡防艦.md "wikilink")（[驱逐舰](../Page/驱逐舰.md "wikilink")）使用需求的距离稍短的防空导弹鞑靼人。
+鞑靼人得益于20世纪50年代开始的小猎犬改进计划，比如在后者的基础上简化掉助推器，使用新的[半主动雷达制导](../Page/半主动雷达制导.md "wikilink")（SARH），并将控制翼移动到导弹末端等。由此产生了一款满足如[巡洋舰](../Page/巡洋舰.md "wikilink")或者大型[护卫舰](../Page/巡防艦.md "wikilink")（[驱逐舰](../Page/驱逐舰.md "wikilink")）使用需求的距离稍短的防空导弹鞑靼人。
 
-20世纪50年代中期，通用动力公司（GD）与[约翰·霍普金斯大学附属应用物理实验室](../Page/约翰·霍普金斯大学.md "wikilink")（APL
+20世纪50年代中期，通用动力公司（GD）与[约翰·霍普金斯大学](../Page/约翰·霍普金斯大学.md "wikilink")附属应用物理实验室（APL
 /
-JHU），将[AIM-7“麻雀”](../Page/AIM-7麻雀飛彈.md "wikilink")[空对空导弹的半主动雷达制导头成功安装在一个试验弹体上](../Page/空对空导弹.md "wikilink")。由此基础上开发出XHW-1感应系统。结合新的双推力火箭发动机（DTRM），组成了鞑靼人的雏形（CTV:
+JHU），将[AIM-7“麻雀”](../Page/AIM-7麻雀飛彈.md "wikilink")[空对空导弹](../Page/空对空导弹.md "wikilink")的半主动雷达制导头成功安装在一个试验弹体上。由此基础上开发出XHW-1感应系统。结合新的双推力火箭发动机（DTRM），组成了鞑靼人的雏形（CTV:
 control test vehicles）。并以此演进至更高阶段（HTV: homing test
 vehicles）验证了鞑靼人导弹的实用性。经过严格的测试，从1959年开始，通用动力公司开始生产的RIM-24A鞑靼人导弹开始批量生产。并作为3T兄弟中最年轻的一位，在1962年开始正式装备。
 总共生产了大约2400枚\[1\]。

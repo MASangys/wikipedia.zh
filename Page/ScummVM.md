@@ -1,4 +1,4 @@
-**ScummVM**是多個重製的遊戲引擎的集合。原本是設計來玩使用了[SCUMM系統的LucasArts冒險遊戲](../Page/SCUMM.md "wikilink")（Scumm**VM**的**VM**意指[虛擬機器](../Page/虛擬機器.md "wikilink")
+**ScummVM**是多個重製的遊戲引擎的集合。原本是設計來玩使用了[SCUMM](../Page/SCUMM.md "wikilink")系統的LucasArts冒險遊戲（Scumm**VM**的**VM**意指[虛擬機器](../Page/虛擬機器.md "wikilink")
 Virtual Machine）。不過現在，ScummVM也支援非SCUMM的遊戲，例如[Revolution
 Software和](https://zh.wikipedia.org/wiki/Revolution_Software "wikilink")[Adventure
 Soft的遊戲](https://zh.wikipedia.org/wiki/Adventure_Soft "wikilink")。這個程式原先是[Ludvig

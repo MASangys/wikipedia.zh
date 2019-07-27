@@ -9,7 +9,7 @@ M: 19,000 |全闊 = 2,792 |全高 = 3,800 |最大尺寸 = |編組總重量 = |�
 [直流](../Page/直流電.md "wikilink")1,500[V](../Page/伏特.md "wikilink")（[第三轨供电](https://zh.wikipedia.org/wiki/第三轨供电 "wikilink")）
 |受流方式 = 下接触型[集电靴](https://zh.wikipedia.org/wiki/集电靴 "wikilink") |輸出 =
 |電動機輸出 = |編組輸出 = |齒輪比 = |驅動裝置 = |控制裝置 =
-湘電-[現代Rotem製](../Page/現代Rotem.md "wikilink")
+湘電-[現代Rotem](../Page/現代Rotem.md "wikilink")製
 [IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF](https://zh.wikipedia.org/wiki/VVVF "wikilink")
 |制動方式 = 单侧双闸瓦踏面制动 |保安裝置 = |車身物料 =
 [不锈钢](https://zh.wikipedia.org/wiki/不锈钢 "wikilink") |轉向架 =

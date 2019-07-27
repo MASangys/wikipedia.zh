@@ -1,5 +1,5 @@
 《**PACT**》（）是[久慈進之介的](https://zh.wikipedia.org/wiki/久慈進之介 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，第一部在2014年2月10日至2015年3月12日於[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young
-Magazine](../Page/週刊Young_Magazine.md "wikilink")》中連載；中文版由[玉皇朝發行](../Page/玉皇朝.md "wikilink")。
+Magazine](../Page/週刊Young_Magazine.md "wikilink")》中連載；中文版由[玉皇朝](../Page/玉皇朝.md "wikilink")發行。
 
 ## 概要
 
@@ -11,7 +11,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》中連載；中文版由
 
 面對這個前所未有的危機，許下某個重要「約定」的日本精銳部隊前往事發地點；
 
-不同以往的[千葉徹彌賞得主所講述的爆炸品處理組的SF戰爭](../Page/千葉徹彌賞.md "wikilink")，開始——
+不同以往的[千葉徹彌賞](../Page/千葉徹彌賞.md "wikilink")得主所講述的爆炸品處理組的SF戰爭，開始——
 
 ## 登場人物
 
@@ -26,7 +26,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》中連載；中文版由
   -
     通称：町（）
     日本現代武器處理小組的指揮官輔佐，擁有高度的編程和破解能力的天生拆彈天才。
-    [依賴型人格障礙患者](../Page/依賴型人格障礙.md "wikilink")，必須有依賴對象才能保持理智，如果保護者凪人不在身邊就什麼事也做不到，相反只要是凪人的要求就一定會拼死去做。
+    [依賴型人格障礙](../Page/依賴型人格障礙.md "wikilink")患者，必須有依賴對象才能保持理智，如果保護者凪人不在身邊就什麼事也做不到，相反只要是凪人的要求就一定會拼死去做。
     在第一話中成功拆除第一枚氮素炸彈，但同時被自我追蹤炸彈擊中昏迷但未死，在昏迷前遺下能破解氮素炸彈的程序。
     後來被南極國救出，並成為了他們的技術人員。
 

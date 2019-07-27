@@ -1,4 +1,4 @@
-《**Documentary**》是[吳浩康的個人音樂專輯](../Page/吳浩康.md "wikilink")，於2006年推出。
+《**Documentary**》是[吳浩康](../Page/吳浩康.md "wikilink")的個人音樂專輯，於2006年推出。
 
 ## 曲目
 

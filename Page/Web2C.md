@@ -1,4 +1,4 @@
-**Web2C**是一整套[相关程序的集合](../Page/TeX.md "wikilink")，也是的一种实现，它包含[本身](../Page/TeX.md "wikilink")、[MetaFont](https://zh.wikipedia.org/wiki/MetaFont "wikilink")、[MetaPost](../Page/MetaPost.md "wikilink")、[BIB等](../Page/BibTeX.md "wikilink")，是很多发行套件的内核。Web2C的工作机理是将[高德纳用](../Page/高德纳.md "wikilink")[文学编程语言](../Page/文学编程.md "wikilink")[WEB所编写的原始代码转换为](https://zh.wikipedia.org/wiki/WEB "wikilink")[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")，即Web-to-C\[1\]。Web2C最初适用于[Unix系统](https://zh.wikipedia.org/wiki/Unix "wikilink")，目前已扩展到包括[DOS](../Page/DOS.md "wikilink")、[Amiga](../Page/Amiga.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
+**Web2C**是一整套[相关程序的集合](../Page/TeX.md "wikilink")，也是的一种实现，它包含[本身](../Page/TeX.md "wikilink")、[MetaFont](https://zh.wikipedia.org/wiki/MetaFont "wikilink")、[MetaPost](../Page/MetaPost.md "wikilink")、[BIB等](../Page/BibTeX.md "wikilink")，是很多发行套件的内核。Web2C的工作机理是将[高德纳](../Page/高德纳.md "wikilink")用[文学编程](../Page/文学编程.md "wikilink")语言[WEB所编写的原始代码转换为](https://zh.wikipedia.org/wiki/WEB "wikilink")[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")，即Web-to-C\[1\]。Web2C最初适用于[Unix系统](https://zh.wikipedia.org/wiki/Unix "wikilink")，目前已扩展到包括[DOS](../Page/DOS.md "wikilink")、[Amiga](../Page/Amiga.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
 OS X等在内的多种操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")\[2\]。
 
 ## 历史
@@ -9,7 +9,7 @@ Berry接手了这项工作。1997年，Karl将这项工作交给了Olaf Weber。
 
 ## 主要内容
 
-所有的Web2C程序均使用[Kpathsea路径搜索库来查找文件](https://zh.wikipedia.org/wiki/Kpathsea "wikilink")，这套库结合环境变量和配置文件的使用来优化大量[TeX文件的搜索](../Page/TeX.md "wikilink")\[4\]。
+所有的Web2C程序均使用[Kpathsea路径搜索库来查找文件](https://zh.wikipedia.org/wiki/Kpathsea "wikilink")，这套库结合环境变量和配置文件的使用来优化大量[TeX](../Page/TeX.md "wikilink")文件的搜索\[4\]。
 
 以Web2C方式处理的核心程序包括\[5\]：
 

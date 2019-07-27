@@ -41,13 +41,13 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     美露的網路領航員。可愛又有親和力，她的實力也不容小覷，身手敏捷、常出奇不意地攻擊敵人，其蒐集資料的能力對洛克人一夥有很大的幫助。喜歡洛克人。
 
-**大山迪卡歐**（配音員：[沼田祐介](../Page/沼田祐介.md "wikilink")（日本）／[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")（香港））
+**大山迪卡歐**（配音員：[沼田祐介](../Page/沼田祐介.md "wikilink")（日本）／[丘台名](../Page/丘台名.md "wikilink")→[林谷珍](../Page/林谷珍.md "wikilink")(Stream以後)（台灣）／[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")（香港））
 
   -
     個性衝動莽撞，是個體格壯碩的大個兒，非常喜歡網路戰鬥。他與對手對戰時看起來很兇猛，但多半是雷聲大雨點小，不過他真的是個值得信任也非常忠實的好夥伴。曾多次表示想進行雙向融合以幫助熱斗，但遭人無視，最终在名人的實驗下，證實他和氣力人的同步率不高，不能進行雙向融合。喜欢美露，視熱斗為情敵。
     第三季起成為咖哩店「曼哈一號」的廚師，拜原WWW幹部暨曼哈一號店長—曼哈尼傑瑪為師，發明出「刨冰咖哩」，而且只有熱斗吃得津津有味，曼哈尼傑瑪亦表示他絕對不敢賣給其他客人，這是只有熱斗專屬的菜色。
 
-**氣力人**（配音員：（日本）／[林谷珍](../Page/林谷珍.md "wikilink")（台灣）
+**氣力人**（配音員：（日本）／[丘台名](../Page/丘台名.md "wikilink")→[林谷珍](../Page/林谷珍.md "wikilink")(Stream以後)（台灣）
 ／[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")（香港））
 
   -
@@ -158,7 +158,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     茉莉花的領航員，喜歡洛克人，是蘿露的情敌。
 
-**查理·艾斯達**（配音員：[松本保典](../Page/松本保典.md "wikilink")（日本）／[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")（香港））
+**查理·艾斯達**（配音員：[松本保典](../Page/松本保典.md "wikilink")（日本）／[林谷珍](../Page/林谷珍.md "wikilink")（台灣）／[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")（香港））
 
   -
     前期原本只是個默默無聞、花花公子般的直昇機飛行員，在調查博物馆窃盗案中認識了身為網路戰警的熱斗和炎山。後来在一座沙灘上與特斯拉相識，並載她飛行。然而，特斯拉不小心將她的戒指遺留下來，他在看見其英文名字時完全想不起什麼，但在其搭檔螺旋槳人的提示下才知道她是新WWW首領—特斯拉·瑪格尼斯，往後就視她為敵人，並與熱斗共同對抗她的途中，成為雙向融合團隊成員之一。
@@ -227,12 +227,12 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
 
 ## 科學署
 
-**光祐一朗**（配音員：[永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink")、[川島得愛](../Page/川島得愛.md "wikilink")（Stream及其之後）（日本）／[林士程](../Page/林士程.md "wikilink")／[陳永信](../Page/陳永信.md "wikilink")（香港））
+**光祐一朗**（配音員：[永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink")、[川島得愛](../Page/川島得愛.md "wikilink")（Stream及其之後）（日本）／[梁興昌](../Page/梁興昌.md "wikilink")→[林士程](../Page/林士程.md "wikilink")(BEAST)（台灣）／[陳永信](../Page/陳永信.md "wikilink")（香港））
 
   -
     熱斗的父親，光正博士之子，科學署的主任，在科學署擁有領導地位，人稱「光博士」。開發出雙向融合的技術。
 
-**名人**（配音員：[藤原啟治](../Page/藤原啟治.md "wikilink")（日本）／[蘇強文](../Page/蘇強文.md "wikilink")（香港））
+**名人**（配音員：[藤原啟治](../Page/藤原啟治.md "wikilink")（日本）／[丘台名](../Page/丘台名.md "wikilink")（台灣）／[蘇強文](../Page/蘇強文.md "wikilink")（香港））
 
   -
     科學署的設備技術員，也是光博士的助理。有時會給予熱斗一些技術上的支援，非常不愛別人稱呼他“名人先生”。與熱斗一樣有收集食玩的興趣，住處櫃子上陳列了多種ACG和食玩等收藏品(擺放重複的)。
@@ -244,7 +244,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     日暮屋的店長，曾為秋原小学的實習老師，喜欢瑪莉老师，是稀有晶片收藏家。
 
-**數字人**（配音員：[上田祐司](../Page/上田祐司.md "wikilink")（日本）／[陳永信](../Page/陳永信.md "wikilink")（香港））
+**數字人**（配音員：[上田祐司](../Page/上田祐司.md "wikilink")（日本）／[丘台名](../Page/丘台名.md "wikilink")（台灣）／[陳永信](../Page/陳永信.md "wikilink")（香港））
 
   -
     日暮暗太郎的網路領航員。
@@ -283,12 +283,12 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     火焰人死後，名人為火野健一創造的新領航員，外表像個打火機，自稱繼承了火焰人的遺志（數據）。第二季產生異變，變回火焰人。
 
-**電擊伯爵**（配音員：[三宅健太](../Page/三宅健太.md "wikilink")（日本）／[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")→[翟耀輝](../Page/翟耀輝.md "wikilink")（香港））
+**電擊伯爵**（配音員：[三宅健太](../Page/三宅健太.md "wikilink")（日本）／[林谷珍](../Page/林谷珍.md "wikilink")（台灣）／[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")→[翟耀輝](../Page/翟耀輝.md "wikilink")（香港））
 
   -
     WWW成員，真名**電擊傑克**，也是高斯·瑪格尼斯的弟弟。因為討厭媽媽老是要他向哥哥看齊導致離家出走。此外他還有一名愛環遊世界的妻子，導致家道中落。
 
-**電擊人**（配音員：[鈴木千尋](../Page/鈴木千尋.md "wikilink")（日本）／[鄺樹培](../Page/鄺樹培.md "wikilink")→[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")（香港））
+**電擊人**（配音員：[鈴木千尋](../Page/鈴木千尋.md "wikilink")（日本）／[林谷珍](../Page/林谷珍.md "wikilink")（台灣）／[鄺樹培](../Page/鄺樹培.md "wikilink")→[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")（香港））
 
   -
     電擊伯爵的領航員，與高斯的領航員—磁鐵人是宿敵。但是自從為了拯救高斯的女兒兼磁鐵人的新主人特斯拉後，開始逐漸與磁鐵人聯手。
@@ -310,7 +310,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
     所開設的分店每一間的門口都擺放了他的塑像，但一號店門口放的是會說話的威利博士塑像，這是因為門口的塑像被破壞的關係。
     和隔壁的烏龍麵店是商業對手，後來因為想到製作咖哩烏龍麵的菜單而變成商業伙伴。
 
-**魔術人**（配音員：[小西克幸](../Page/小西克幸.md "wikilink")（日本）／[招世亮](../Page/招世亮.md "wikilink")（香港））
+**魔術人**（配音員：[小西克幸](../Page/小西克幸.md "wikilink")（日本）／[丘台名](../Page/丘台名.md "wikilink")（台灣）／[招世亮](../Page/招世亮.md "wikilink")（香港））
 
   -
     曼哈尼傑瑪的領航員。
@@ -320,7 +320,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     第五季登場的角色，自稱為「教授」。是前WWW成員，同時是威利博士虔誠的信徒，負責協助威利博士的研究，在威利博士下落不明後離開組織。
 
-**零**（配音員：[渋谷茂](https://zh.wikipedia.org/wiki/渋谷茂 "wikilink")（日本）／[陳卓智](../Page/陳卓智.md "wikilink")→[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")（香港））
+**[傑洛](../Page/傑洛.md "wikilink")**（配音員：[渋谷茂](https://zh.wikipedia.org/wiki/渋谷茂 "wikilink")（日本）／[陳卓智](../Page/陳卓智.md "wikilink")→[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")（香港））
 
   -
     教授製造出的長相神似領航員的病毒，擁有「心」，希望自己是作為領航員誕生，被氣力人所感化，最後為了保護熱斗等人犧牲。
@@ -402,7 +402,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     新WWW成員，外表高大、魁梧、壯碩。
 
-**野獸人**（配音員：[松本大](https://zh.wikipedia.org/wiki/松本大 "wikilink")（日本）／[鄺樹培](../Page/鄺樹培.md "wikilink")→[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")（香港））
+**野獸人**（配音員：[松本大](https://zh.wikipedia.org/wiki/松本大 "wikilink")（日本）／[林谷珍](../Page/林谷珍.md "wikilink")（台灣）／[鄺樹培](../Page/鄺樹培.md "wikilink")→[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")（香港））
 
   -
     初登場時為黑暗機械生命體，被消滅後於第三季被迪奧作為犬飼猛雄的行星生命體復活，沒有黑暗機械生命體時期記憶，最後再次被消滅。
@@ -412,7 +412,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     新WWW成員，是個跨性別者。
 
-**影像人**（配音員：[西村知道](../Page/西村知道.md "wikilink")（日本）／[黃榮璋](../Page/黃榮璋.md "wikilink")→[陳廷軒](../Page/陳廷軒.md "wikilink")（香港））
+**影像人**（配音員：[西村知道](../Page/西村知道.md "wikilink")（日本）／[林谷珍](../Page/林谷珍.md "wikilink")（台灣）／[黃榮璋](../Page/黃榮璋.md "wikilink")→[陳廷軒](../Page/陳廷軒.md "wikilink")（香港））
 
   -
     初登場時為黑暗機械生命體，被消滅後於第三季被迪奧作為維納斯秀的行星生命體復活，沒有黑暗機械生命體時期記憶，最後再次被消滅。
@@ -456,7 +456,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     由利卡爾率領的邪惡網路領航員軍團，為裏電腦世界自行誕生的領航員，第三季出場的則為利卡爾所創造，皆野心勃勃，企图稱霸網路世界，反佔人類的生存空间。初登場於第二季，首任隊長為陰影人，第三季在陰影人死後由黑暗洛克人繼任為第二任隊長。新WWW瓦解後便取代其為新敵人，黑暗洛克人死後宣告全軍覆沒。
 
-**陰影人**（配音員：[中村秀利](../Page/中村秀利.md "wikilink")（日本）／[陳欣](../Page/陳欣_\(配音員\).md "wikilink")（香港））
+**陰影人**（配音員：[中村秀利](../Page/中村秀利.md "wikilink")（日本）／[丘台名](../Page/丘台名.md "wikilink")（台灣）／[陳欣](../Page/陳欣_\(配音員\).md "wikilink")（香港））
 
   -
     黑暗生命體首任隊長，外貌為[吸血鬼](../Page/吸血鬼.md "wikilink")，以[超音波作為攻擊能力](https://zh.wikipedia.org/wiki/超音波 "wikilink")。為了消滅人類，與利卡爾合作共謀所有犯罪事件。但多次的因黑暗晶片而差點合作破裂，但其實他自己本來就不是真心想和利卡爾合作，最後還是因為黑暗晶片的事情和利卡爾決裂，被利卡爾與雷射人的雙向融合姿態差点殺死。
@@ -708,7 +708,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     熱斗等人的朋友。
 
-**閃電人**（配音員：[中村大樹](../Page/中村大樹.md "wikilink")（日本）／[蘇強文](../Page/蘇強文.md "wikilink")（香港））
+**閃電人**（配音員：[中村大樹](../Page/中村大樹.md "wikilink")（日本）／[丘台名](../Page/丘台名.md "wikilink")（台灣）／[蘇強文](../Page/蘇強文.md "wikilink")（香港））
 
   -
     拉伍的領航員。

@@ -6,14 +6,14 @@ Boys Boys (The Dance Remixes)》再次發行。
 
 ## 音樂影片
 
-這首歌曲成功的原因有一部分是來自於它的音樂影片，拍攝地點是在[意大利](../Page/意大利.md "wikilink")[威尼托](https://zh.wikipedia.org/wiki/威尼托 "wikilink")[耶索洛的佛罗里达飯店](../Page/耶索洛.md "wikilink")。在影片裡，莎布琳娜跳入泳池內，她的比基尼泳衣一直滑下來，因而暴露出她的[乳頭](../Page/乳頭.md "wikilink")\[1\]。至今它仍是網際網路下載率最高的影片之一\[2\]。在1988年後期，在[尼諾·弗列托的訪問裡](https://zh.wikipedia.org/wiki/Nino_Firetto "wikilink")（由[Music
+這首歌曲成功的原因有一部分是來自於它的音樂影片，拍攝地點是在[意大利](../Page/意大利.md "wikilink")[威尼托](https://zh.wikipedia.org/wiki/威尼托 "wikilink")[耶索洛](../Page/耶索洛.md "wikilink")的佛罗里达飯店。在影片裡，莎布琳娜跳入泳池內，她的比基尼泳衣一直滑下來，因而暴露出她的[乳頭](../Page/乳頭.md "wikilink")\[1\]。至今它仍是網際網路下載率最高的影片之一\[2\]。在1988年後期，在[尼諾·弗列托的訪問裡](https://zh.wikipedia.org/wiki/Nino_Firetto "wikilink")（由[Music
 Box製作的節目在](https://zh.wikipedia.org/wiki/Music_Box_\(TV\) "wikilink")[超級頻道播出](https://zh.wikipedia.org/wiki/NBC_Europe "wikilink")），她解釋指出影片原先主要是為了雜誌秀而拍攝的。這也就是為何在影片的風格上，它會比一般傳統音樂影片的風格更接近意大利的雜誌秀，更加明顯性感的原因。
 
 ## 排行成績
 
 這首歌曲在義大利的流行歌曲排行榜位居第一有兩個星期之久\[3\]。它在[法国也是熱門歌曲之一](https://zh.wikipedia.org/wiki/法国 "wikilink")，位居排行第一有五個星期之久。在法国SNEP單曲排行榜連續保持第29名達五個
-星期，時間自1987年12月12日至1988年5月28日止。在法国[海報女郎的熱門排行榜上](../Page/海報女郎.md "wikilink")，除了法国的[露瓦·摩爾與英国的](https://zh.wikipedia.org/wiki/Lova_Moor "wikilink")[莎曼莎·福克斯](https://zh.wikipedia.org/wiki/Samantha_Fox "wikilink")，還有莎布琳娜也是其中一位。這首歌曲是首次由義大利歌手達成排行第一的單曲，由[SNEP](https://zh.wikipedia.org/wiki/Syndicat_National_de_l'Édition_Phonographique "wikilink")[金唱片認證](../Page/金唱片.md "wikilink")\[4\]\[5\]。根據Infodisc網站的資料，這首歌曲在法國是排行第292的最佳銷售單曲，共賣出683000
-張\[6\]。它在[英國單曲排行榜是位居第三名](../Page/英國單曲排行榜.md "wikilink")（也有可能是因為它的音樂影片在英國被禁的關係），在[澳洲排行第](../Page/澳大利亚.md "wikilink")11名。
+星期，時間自1987年12月12日至1988年5月28日止。在法国[海報女郎](../Page/海報女郎.md "wikilink")的熱門排行榜上，除了法国的[露瓦·摩爾與英国的](https://zh.wikipedia.org/wiki/Lova_Moor "wikilink")[莎曼莎·福克斯](https://zh.wikipedia.org/wiki/Samantha_Fox "wikilink")，還有莎布琳娜也是其中一位。這首歌曲是首次由義大利歌手達成排行第一的單曲，由[SNEP](https://zh.wikipedia.org/wiki/Syndicat_National_de_l'Édition_Phonographique "wikilink")[金唱片](../Page/金唱片.md "wikilink")認證\[4\]\[5\]。根據Infodisc網站的資料，這首歌曲在法國是排行第292的最佳銷售單曲，共賣出683000
+張\[6\]。它在[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")是位居第三名（也有可能是因為它的音樂影片在英國被禁的關係），在[澳洲排行第](../Page/澳大利亚.md "wikilink")11名。
 
 ## 歌曲列表
 
@@ -150,19 +150,19 @@ position</p></th>
 
 ## 翻唱版本
 
-  - 在1988年，[日本流行歌手](../Page/日本.md "wikilink")[杉本彩首次發行的單曲](../Page/杉本彩.md "wikilink")[翻唱這首歌曲](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。以《Boys
+  - 在1988年，[日本](../Page/日本.md "wikilink")流行歌手[杉本彩](../Page/杉本彩.md "wikilink")首次發行的單曲[翻唱這首歌曲](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。以《Boys
     (Tokyo
-    Mix)》為名的重新錄製歌曲收錄在[杉本彩的首次發行專輯](../Page/杉本彩.md "wikilink")《Aya》，歌詞內容與原歌曲的歌詞完全相同。
-  - 在1989年，[香港歌手](../Page/香港.md "wikilink")[甄楚倩以](../Page/甄楚倩.md "wikilink")[广州话翻唱這首歌曲](../Page/广州话.md "wikilink")。
-  - 在1994年，[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")[朋克搖滾與](../Page/朋克搖滾.md "wikilink")[另类摇滚樂團](../Page/另类摇滚.md "wikilink")[Ludwig_von_88翻唱這首歌曲](https://zh.wikipedia.org/wiki/Ludwig_von_88 "wikilink")，收錄在他們的專輯《17
+    Mix)》為名的重新錄製歌曲收錄在[杉本彩](../Page/杉本彩.md "wikilink")的首次發行專輯《Aya》，歌詞內容與原歌曲的歌詞完全相同。
+  - 在1989年，[香港](../Page/香港.md "wikilink")歌手[甄楚倩](../Page/甄楚倩.md "wikilink")以[广州话](../Page/广州话.md "wikilink")翻唱這首歌曲。
+  - 在1994年，[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")[朋克搖滾](../Page/朋克搖滾.md "wikilink")與[另类摇滚](../Page/另类摇滚.md "wikilink")樂團[Ludwig_von_88翻唱這首歌曲](https://zh.wikipedia.org/wiki/Ludwig_von_88 "wikilink")，收錄在他們的專輯《17
     plombs pour péter les tubes》。
-  - 在2004年，[羅馬尼亞雙人女子團體](../Page/羅馬尼亞.md "wikilink")[The Cheeky
-    Girls翻唱這首歌曲的](https://zh.wikipedia.org/wiki/The_Cheeky_Girls "wikilink")[圣诞节版本](../Page/圣诞节.md "wikilink")，更名為《Boys
+  - 在2004年，[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")雙人女子團體[The Cheeky
+    Girls翻唱這首歌曲的](https://zh.wikipedia.org/wiki/The_Cheeky_Girls "wikilink")[圣诞节](../Page/圣诞节.md "wikilink")版本，更名為《Boys
     and Girls (Christmas Time Love)》。
   - 在2007年，[中国歌手何洁翻唱了这首歌](https://zh.wikipedia.org/wiki/中国 "wikilink")，歌曲名称为[Boys](https://zh.wikipedia.org/wiki/Boys "wikilink")
-  - 在2010年1月，[斯洛伐克雙人女子團體](../Page/斯洛伐克.md "wikilink")與[德国](../Page/德国.md "wikilink")[饒舌歌手](../Page/饒舌.md "wikilink")[Carlprit一同翻唱這首歌曲](https://zh.wikipedia.org/wiki/Carlprit "wikilink")，更名為《Boys
-    Boys Boys》，音樂影片在[耶索洛拍攝](../Page/耶索洛.md "wikilink")\[23\]。
-  - 在2012年，[西班牙雙人女子團體](../Page/西班牙.md "wikilink")[2
+  - 在2010年1月，[斯洛伐克](../Page/斯洛伐克.md "wikilink")雙人女子團體與[德国](../Page/德国.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")歌手[Carlprit一同翻唱這首歌曲](https://zh.wikipedia.org/wiki/Carlprit "wikilink")，更名為《Boys
+    Boys Boys》，音樂影片在[耶索洛](../Page/耶索洛.md "wikilink")拍攝\[23\]。
+  - 在2012年，[西班牙](../Page/西班牙.md "wikilink")雙人女子團體[2
     Atrevidas](https://zh.wikipedia.org/wiki/2_Atrevidas "wikilink")（[Sonia
     Monroy與](https://zh.wikipedia.org/wiki/Sonia_Monroy "wikilink")[Yola
     Berrocal](https://zh.wikipedia.org/wiki/Yola_Berrocal "wikilink")）翻唱這首歌曲\[24\]。

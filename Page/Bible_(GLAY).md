@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")45張單曲，2012年5月23日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第45張單曲，2012年5月23日發行。
 
 ## 簡介
 

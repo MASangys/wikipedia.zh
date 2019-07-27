@@ -1,5 +1,5 @@
 「**擁抱我HOLD ON
-ME\!**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第3张[单曲](../Page/单曲.md "wikilink")。於1998年9月9日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+ME\!**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第3张[单曲](../Page/单曲.md "wikilink")。於1998年9月9日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -7,7 +7,7 @@ ME\!**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「
   - 此單曲有2個版本，分別有「8cm盤」和「12cm盤」。「12cm盤」收錄了「擁抱我HOLD ON
     ME\!（「早安刑事」Version）」
   - 在9月21日於公信榜單曲週排行榜取得第1位，成為早安少女組。出道以來第1張公信榜每周銷量排名第一的單曲。
-  - 在第40屆[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「最優秀新人賞」的獲獎曲，同年年末在第49回[NHK紅白歌合戰演唱其歌曲](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")「擁抱我HOLD
+  - 在第40屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")獲得「最優秀新人賞」的獲獎曲，同年年末在第49回[NHK紅白歌合戰演唱其歌曲](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")「擁抱我HOLD
     ON ME\!」。
 
 ## 收錄内容

@@ -2,7 +2,7 @@
 
 ## 概要
 
-W3Schools由位於[挪威提供軟體開發](../Page/挪威.md "wikilink")、諮詢的[Refsnes
+W3Schools由位於[挪威](../Page/挪威.md "wikilink")提供軟體開發、諮詢的[Refsnes
 Data公司所成立](https://zh.wikipedia.org/wiki/Refsnes_Data "wikilink")，\[1\]提供的免费网页开发教程包括[HTML](../Page/HTML.md "wikilink")、[XML](../Page/XML.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[ASP等等](https://zh.wikipedia.org/wiki/ASP "wikilink")。
 
 網站名稱裡雖有著「W3」、但與制定網頁[WWW標準的全球資訊網協會](../Page/万维网.md "wikilink")「[W3C](https://zh.wikipedia.org/wiki/全球資訊網協會 "wikilink")」無任何關連。\[2\]

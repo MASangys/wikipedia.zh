@@ -79,7 +79,7 @@
 
   - [小紅帽恰恰](https://zh.wikipedia.org/wiki/小紅帽恰恰 "wikilink")（巴拉玫瑰人老師）
   - [魔法小歌王](https://zh.wikipedia.org/wiki/魔法小歌王 "wikilink")（舟木よしお）
-  - [足球小將J](../Page/足球小將.md "wikilink")（[松山光](../Page/松山光.md "wikilink")、岸田猛、ファーラン・コンサワット
+  - [足球小將](../Page/足球小將.md "wikilink")J（[松山光](../Page/松山光.md "wikilink")、岸田猛、ファーラン・コンサワット
     他）
   - 蠟筆小新（まゆつば商事の社員）
   - [白雪公主传奇](https://zh.wikipedia.org/wiki/白雪公主传奇 "wikilink")（ミルク）
@@ -99,7 +99,7 @@
 **1996年**
 
   - [無家可歸的孩子蕾米](../Page/無家可歸的孩子蕾米.md "wikilink")（艾米爾）
-  - [墓場鬼太郎第](../Page/墓場鬼太郎.md "wikilink")4作（[座敷童子](../Page/座敷童子.md "wikilink")、[水獺](../Page/水獺.md "wikilink")）
+  - [墓場鬼太郎](../Page/墓場鬼太郎.md "wikilink")第4作（[座敷童子](../Page/座敷童子.md "wikilink")、[水獺](../Page/水獺.md "wikilink")）
   - [孩子們的遊戲](https://zh.wikipedia.org/wiki/孩子們的遊戲 "wikilink")（溝口、小牧、西川）
   - [バケツでごはん](https://zh.wikipedia.org/wiki/バケツでごはん "wikilink")（氷室）
   - [山林小猎人](https://zh.wikipedia.org/wiki/山林小猎人 "wikilink")（みかづき）
@@ -135,7 +135,7 @@
   - 金田一少年之事件簿（万田光男）
   - [烏龍派出所](../Page/烏龍派出所.md "wikilink")（チャーリー小林）
   - [十兵衛 -心形眼罩的秘密-](../Page/十兵衛.md "wikilink")（針生鉄斎、天地無用之介）
-  - [機械女神J to X](../Page/機械女神.md "wikilink")（笑念）
+  - [機械女神 to X](../Page/機械女神.md "wikilink")J（笑念）
   - [地球防衛企業](https://zh.wikipedia.org/wiki/地球防衛企業 "wikilink")（佐伯 徹）
   - 神奇寶貝（ミケオス）
   - [炸彈人

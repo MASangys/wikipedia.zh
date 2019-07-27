@@ -1,4 +1,4 @@
-《**初音未来 -歌姬计划- f**》（，）是一款由[世嘉与](../Page/世嘉.md "wikilink")[Crypton Future
+《**初音未来 -歌姬计划- f**》（，）是一款由[世嘉](../Page/世嘉.md "wikilink")与[Crypton Future
 Media为](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")[PlayStation
 Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation
 3平台开发的](../Page/PlayStation_3.md "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。\[1\]这是[初音未来

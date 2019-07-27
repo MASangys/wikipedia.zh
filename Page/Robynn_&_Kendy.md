@@ -1,7 +1,7 @@
 **Robynn &
-Kendy**，[香港唱作](../Page/香港.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員為**Robynn
+Kendy**，[香港](../Page/香港.md "wikilink")唱作[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員為**Robynn
 Yip**（[葉晴晴](https://zh.wikipedia.org/wiki/:zh-yue:葉晴晴 "wikilink")）和**Kendy
-Suen**（[孫曉慧](https://zh.wikipedia.org/wiki/:zh-yue:孫曉慧 "wikilink")），2011年7月開始於影片分享網站[YouTube發放改編及翻唱作品](../Page/YouTube.md "wikilink")，現為[環球唱片旗下歌手](../Page/環球唱片_\(香港\).md "wikilink")。
+Suen**（[孫曉慧](https://zh.wikipedia.org/wiki/:zh-yue:孫曉慧 "wikilink")），2011年7月開始於影片分享網站[YouTube](../Page/YouTube.md "wikilink")發放改編及翻唱作品，現為[環球唱片旗下歌手](../Page/環球唱片_\(香港\).md "wikilink")。
 
 ## 成員背景
 
@@ -11,13 +11,13 @@ Robynn（葉晴晴），是已故[中共元老](https://zh.wikipedia.org/wiki/�
 ，[葉選廉和](https://zh.wikipedia.org/wiki/葉選廉 "wikilink")[苏丹丹的女兒](https://zh.wikipedia.org/wiki/苏丹丹 "wikilink")\[2\]\[3\]。兒時就讀[瑪利諾修院學校](../Page/瑪利諾修院學校.md "wikilink")（小學部），15歲便赴[美國升讀高中](https://zh.wikipedia.org/wiki/美國 "wikilink")，其後入读美國的[西北大學](https://zh.wikipedia.org/wiki/西北大学_\(伊利诺州\) "wikilink")，並在大學為[無伴奏合唱團Treblemakers編曲和當音樂指導](https://zh.wikipedia.org/wiki/無伴奏合唱團 "wikilink")。\[4\]在美國由求學時期開始，Robynn就熱愛[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")，其中一首由Robynn寫的無伴奏合唱曲《時鐘的聲音》，也收錄在合唱團的專輯《定義》（Definition）中，而這首歌也在美國的2013年當代無伴奏合唱錄音獎（Contemporary
 A Cappella Recording Award，縮寫 CARA）中得到「最佳學術原創歌曲」（Best Scholastic
 Original
-Song）提名\[5\]。她大學時期主修[心理學](https://zh.wikipedia.org/wiki/心理學 "wikilink")\[6\]，畢業回港後從事特殊教育工作，曾在[自閉症兒童訓練中心任職行為治療師](../Page/自閉症.md "wikilink")。\[7\]。
+Song）提名\[5\]。她大學時期主修[心理學](https://zh.wikipedia.org/wiki/心理學 "wikilink")\[6\]，畢業回港後從事特殊教育工作，曾在[自閉症](../Page/自閉症.md "wikilink")兒童訓練中心任職行為治療師。\[7\]。
 
 Robynn 曾為 Wong Fu Productions 拍過短片《One Days HK - See Through》\[8\] 和
 《Left on Shing Wong》。Robynn也曾和加拿大網路歌手 Jian C 自家製作原創曲《What I'll Tell
 You Everyday》\[9\]。
 
-2010年在[蜂鳥音樂舉辦的](../Page/蜂鳥音樂.md "wikilink")《Brand New
+2010年在[蜂鳥音樂](../Page/蜂鳥音樂.md "wikilink")舉辦的《Brand New
 Star》比賽獲得冠軍，於網上推出原創曲《When the Sky
 Falls》\[10\]。 2010年11月，曾被邀請到新加坡的 Timbre
 表演；2011年的1月及4月也曾到[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink")
@@ -27,7 +27,7 @@ A House 演出。
 
 ### Kendy（孫曉慧）
 
-Kendy（孫曉慧）中學時於[瑪利曼中學就讀](../Page/瑪利曼中學.md "wikilink")，其後因受任職金融界的父親影響，到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦政治經濟學院主修經濟學](../Page/倫敦政治經濟學院.md "wikilink")\[12\]，在留學期間考獲皇家音樂聲樂八級文憑及[倫敦音樂學校音樂表演證書](https://zh.wikipedia.org/wiki/倫敦音樂學校 "wikilink")。2010年畢業返港後曾於銀行界工作，並為作曲人唱Demo及作曲\[13\]。
+Kendy（孫曉慧）中學時於[瑪利曼中學](../Page/瑪利曼中學.md "wikilink")就讀，其後因受任職金融界的父親影響，到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦政治經濟學院](../Page/倫敦政治經濟學院.md "wikilink")主修經濟學\[12\]，在留學期間考獲皇家音樂聲樂八級文憑及[倫敦音樂學校音樂表演證書](https://zh.wikipedia.org/wiki/倫敦音樂學校 "wikilink")。2010年畢業返港後曾於銀行界工作，並為作曲人唱Demo及作曲\[13\]。
 
 Kendy在英國求學時開始接觸[吉他](../Page/吉他.md "wikilink")，並從此愛上了彈吉他。從學校宿舍，到lounge和open
 mic的表演，都吉他不離手。但她印象最深刻卻是加入了英國青年音樂劇團（Youth Music Theatre UK
@@ -38,13 +38,13 @@ Kendy更透過參加倫敦的《倫敦街頭節奏大賽》（Rhythm of London B
 Finalists，有機會在英國的[地下鐵路自彈自唱表演](https://zh.wikipedia.org/wiki/地下鐵路 "wikilink")，和在年度的Shoreditch
 Music Festival演唱了她的原創曲。這些都為她的英國留學生涯留下了難忘的回憶。
 
-Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽約[東亞唱片成為了旗下作曲人](https://zh.wikipedia.org/wiki/東亞唱片 "wikilink")。她也一直為其他作曲人唱Demo，也有為編曲人唱和音，其後發展至在各大小商場演出，又或在各類慶典婚宴上演唱。第一首出版作品有[楊千嬅的作品](../Page/楊千嬅.md "wikilink")《呼吸需要》（電影《[志明與春嬌](https://zh.wikipedia.org/wiki/志明與春嬌 "wikilink")》主題曲）
+Kendy回港後，曾獲得《柏斯琴行原創歌曲大賽》的亞軍，並簽約[東亞唱片成為了旗下作曲人](https://zh.wikipedia.org/wiki/東亞唱片 "wikilink")。她也一直為其他作曲人唱Demo，也有為編曲人唱和音，其後發展至在各大小商場演出，又或在各類慶典婚宴上演唱。第一首出版作品有[楊千嬅](../Page/楊千嬅.md "wikilink")的作品《呼吸需要》（電影《[志明與春嬌](https://zh.wikipedia.org/wiki/志明與春嬌 "wikilink")》主題曲）
 
 ## 組合簡介
 
 ### Robynn & Kendy組合的誕生
 
-2011年，Robynn與Kendy在一個音樂聚會中經友人介紹下認識，發覺彼此無論在音樂理念、熱誠、曲風以至聲線都不謀而合，二人自此便結下不解之緣。後來更一起製作改編歌曲，翻唱作品於[YouTube上發放](../Page/YouTube.md "wikilink")，與大眾分享她們的音樂。
+2011年，Robynn與Kendy在一個音樂聚會中經友人介紹下認識，發覺彼此無論在音樂理念、熱誠、曲風以至聲線都不謀而合，二人自此便結下不解之緣。後來更一起製作改編歌曲，翻唱作品於[YouTube](../Page/YouTube.md "wikilink")上發放，與大眾分享她們的音樂。
 
 2011年7月13日，她們於YouTube發放第一首翻唱作品《你是我的女人》，旋即大獲好評，受網民熱捧，[熱爆網路](https://zh.wikipedia.org/wiki/網路走紅 "wikilink")。
 

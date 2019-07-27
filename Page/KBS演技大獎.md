@@ -1,4 +1,4 @@
-**KBS演技大獎**（；）是由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[KBS電視台自](../Page/韓國放送公社.md "wikilink")1987年起舉辦的年度戲劇頒獎典禮。頒獎典禮定於每年12月31日舉行，由[KBS2直播](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")。另外由[SBS舉辦的同類型頒獎典禮](../Page/SBS_\(韓國\).md "wikilink")[SBS演技大獎也於同一天頒發](../Page/SBS演技大獎.md "wikilink")。
+**KBS演技大獎**（；）是由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[KBS電視台自](../Page/韓國放送公社.md "wikilink")1987年起舉辦的年度戲劇頒獎典禮。頒獎典禮定於每年12月31日舉行，由[KBS2直播](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")。另外由[SBS舉辦的同類型頒獎典禮](../Page/SBS_\(韓國\).md "wikilink")[SBS演技大獎](../Page/SBS演技大獎.md "wikilink")也於同一天頒發。
 
 ## 历届重要奖项得主
 

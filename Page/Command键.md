@@ -1,5 +1,5 @@
 [Apple-modifklavoj.jpg](https://zh.wikipedia.org/wiki/File:Apple-modifklavoj.jpg "fig:Apple-modifklavoj.jpg")
-**Command键**又称**苹果键**（），是[苹果标准键盘中的按鍵](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")，其中一个位于[Option鍵与](https://zh.wikipedia.org/wiki/Option鍵 "wikilink")[空格键之间](https://zh.wikipedia.org/wiki/空格键 "wikilink")，其作用近似于[PC键盘上的](../Page/PC.md "wikilink")[Ctrl键](https://zh.wikipedia.org/wiki/Ctrl键 "wikilink")。而在运行Windows的Mac中，此键功能与[Windows键完全相同](../Page/Windows键.md "wikilink")。
+**Command键**又称**苹果键**（），是[苹果标准键盘中的按鍵](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")，其中一个位于[Option鍵与](https://zh.wikipedia.org/wiki/Option鍵 "wikilink")[空格键之间](https://zh.wikipedia.org/wiki/空格键 "wikilink")，其作用近似于[PC](../Page/PC.md "wikilink")键盘上的[Ctrl键](https://zh.wikipedia.org/wiki/Ctrl键 "wikilink")。而在运行Windows的Mac中，此键功能与[Windows键](../Page/Windows键.md "wikilink")完全相同。
 
 ## 功能
 

@@ -1,4 +1,4 @@
-**索尼ILCE系列相机**是索尼推出的采用[索尼E接环的](../Page/索尼E接环.md "wikilink")[无反光镜可换镜头数码相机产品](../Page/無反光鏡可換鏡頭相機.md "wikilink")，和之前的[NEX产品完全兼容](../Page/索尼NEX系列.md "wikilink")，但是采用全新的命名方式。在中国大陆继续使用“微单™”为商标\[1\]。
+**索尼ILCE系列相机**是索尼推出的采用[索尼E接环](../Page/索尼E接环.md "wikilink")的[无反光镜可换镜头数码相机产品](../Page/無反光鏡可換鏡頭相機.md "wikilink")，和之前的[NEX产品完全兼容](../Page/索尼NEX系列.md "wikilink")，但是采用全新的命名方式。在中国大陆继续使用“微单™”为商标\[1\]。
 
 缩写 "ILCE" 代表“**I**nterchangeable **L**ens **C**amera with
 E-mount”（采用E卡口的可交换镜头相机），取代之前使用的"NEX"；而"ILCE"也会取代[SONY

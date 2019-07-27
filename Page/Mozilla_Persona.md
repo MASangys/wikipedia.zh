@@ -1,5 +1,5 @@
 **Mozilla
-Persona**是由[Mozilla開發](../Page/Mozilla.md "wikilink")\[1\]的基於開放BrowserID協定\[2\]的網站安全[身份驗證系統](https://zh.wikipedia.org/wiki/身份驗證 "wikilink")。
+Persona**是由[Mozilla](../Page/Mozilla.md "wikilink")開發\[1\]的基於開放BrowserID協定\[2\]的網站安全[身份驗證系統](https://zh.wikipedia.org/wiki/身份驗證 "wikilink")。
 
 ## 歷史
 
@@ -26,13 +26,13 @@ VerifiedEmailProtocol\[8\]\[9\]，使用電子郵件地址作為用戶身分的�
 ### 使用現有帳號登錄
 
 Mozilla在2013年7月發表了「使用現有帳號登錄（Identity
-Bridging）」功能。以往必須透過Mozilla傳送電子郵件給用戶確認連結，但透過現有帳號登錄功能，Persona可以直接向用戶的電子郵件提供商既有的[OpenID或](../Page/OpenID.md "wikilink")[OAuth來驗證用戶身分](https://zh.wikipedia.org/wiki/OAuth "wikilink")。在此階段支援[Yahoo電子郵件服務](https://zh.wikipedia.org/wiki/Yahoo "wikilink")。在2013年8月，Mozilla宣布現有帳號登錄功能支援[Gmail帳號](../Page/Gmail.md "wikilink")。透過支援Yahoo和Gmail的現有帳號登錄功能，Persona等同於擁有超過700,000,000的活躍電子郵件用戶\[10\]。
+Bridging）」功能。以往必須透過Mozilla傳送電子郵件給用戶確認連結，但透過現有帳號登錄功能，Persona可以直接向用戶的電子郵件提供商既有的[OpenID](../Page/OpenID.md "wikilink")或[OAuth來驗證用戶身分](https://zh.wikipedia.org/wiki/OAuth "wikilink")。在此階段支援[Yahoo電子郵件服務](https://zh.wikipedia.org/wiki/Yahoo "wikilink")。在2013年8月，Mozilla宣布現有帳號登錄功能支援[Gmail](../Page/Gmail.md "wikilink")帳號。透過支援Yahoo和Gmail的現有帳號登錄功能，Persona等同於擁有超過700,000,000的活躍電子郵件用戶\[10\]。
 
 ## 發展
 
-Persona相當依賴在客戶端瀏覽器執行的[JavaScript程式](../Page/JavaScript.md "wikilink")。
+Persona相當依賴在客戶端瀏覽器執行的[JavaScript](../Page/JavaScript.md "wikilink")程式。
 
-支援Persona驗證的網站應用程式可以在[Drupal](../Page/Drupal.md "wikilink")\[11\]、[WordPress](../Page/WordPress.md "wikilink")\[12\]等[內容管理系統上實作](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")。[Phonegap平台](https://zh.wikipedia.org/wiki/Phonegap "wikilink")（行動裝置的[HTML5應用程式開發平台](../Page/HTML5.md "wikilink")）亦可支援Persona\[13\]。Mozilla提供自家的Persona伺服器（persona.org）。同時開發者也可設置自己的Persona驗證伺服器\[14\]。
+支援Persona驗證的網站應用程式可以在[Drupal](../Page/Drupal.md "wikilink")\[11\]、[WordPress](../Page/WordPress.md "wikilink")\[12\]等[內容管理系統上實作](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")。[Phonegap平台](https://zh.wikipedia.org/wiki/Phonegap "wikilink")（行動裝置的[HTML5](../Page/HTML5.md "wikilink")應用程式開發平台）亦可支援Persona\[13\]。Mozilla提供自家的Persona伺服器（persona.org）。同時開發者也可設置自己的Persona驗證伺服器\[14\]。
 
 著名網站如[Ting](https://zh.wikipedia.org/wiki/Ting "wikilink")\[15\]、[泰晤士報](https://zh.wikipedia.org/wiki/泰晤士報 "wikilink")、[Trovebox和](https://zh.wikipedia.org/wiki/Trovebox "wikilink")[Voost等皆支援](https://zh.wikipedia.org/wiki/Voost "wikilink")
 Persona。

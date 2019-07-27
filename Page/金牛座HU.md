@@ -1,5 +1,5 @@
 **金牛座HU**，又名**BD+20 785**，**HD 29365**、**SAO 76680**、**HR
-1471**，是[金牛座的一颗恒星](../Page/金牛座.md "wikilink")\[1\]\[2\]，视星等为5.92，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")177.88，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-17.22，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+1471**，是[金牛座](../Page/金牛座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.92，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")177.88，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-17.22，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

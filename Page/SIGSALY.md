@@ -7,9 +7,9 @@ SIGSALY不是首字母缩略词，没有什么含义。别名“绿色大黄蜂�
 
 ## 发展过程
 
-二战期间交战双方都用[电子扰频器](https://zh.wikipedia.org/wiki/电子扰频器 "wikilink")（scrambler）保护自己的无线通信不受窃听，但是突破电子扰频器的屏蔽并不十分困难。只要用一台[频谱分析仪器对通信](../Page/频谱分析仪.md "wikilink")[频谱进行仔细扫描](../Page/频谱.md "wikilink")，就能发现扰频的规律从而加以破解。为了弥补这个缺陷，基于一次性密码本的[加密技术出现了](https://zh.wikipedia.org/wiki/加密 "wikilink")。
+二战期间交战双方都用[电子扰频器](https://zh.wikipedia.org/wiki/电子扰频器 "wikilink")（scrambler）保护自己的无线通信不受窃听，但是突破电子扰频器的屏蔽并不十分困难。只要用一台[频谱分析仪](../Page/频谱分析仪.md "wikilink")器对通信[频谱](../Page/频谱.md "wikilink")进行仔细扫描，就能发现扰频的规律从而加以破解。为了弥补这个缺陷，基于一次性密码本的[加密技术出现了](https://zh.wikipedia.org/wiki/加密 "wikilink")。
 
-[贝尔实验室开发了基于一次性密码本加密技术的无线通话系统的原型机](../Page/贝尔实验室.md "wikilink")，并展示给军方。领导这个项目的是A·B·Clark，[英国则派出了著名数学家](https://zh.wikipedia.org/wiki/英国 "wikilink")[艾伦·图灵](../Page/艾伦·图灵.md "wikilink")
+[贝尔实验室](../Page/贝尔实验室.md "wikilink")开发了基于一次性密码本加密技术的无线通话系统的原型机，并展示给军方。领导这个项目的是A·B·Clark，[英国则派出了著名数学家](https://zh.wikipedia.org/wiki/英国 "wikilink")[艾伦·图灵](../Page/艾伦·图灵.md "wikilink")
 \[1\]
 给予协助。军方对此非常满意，向贝尔实验室购买了两套设备并于1943年投入使用，这就是SIGSALY。SIGSALY一直为军方服役至1946年。
 

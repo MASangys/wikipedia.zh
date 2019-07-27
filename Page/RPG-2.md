@@ -2,7 +2,7 @@
 
 ## 概述
 
-RPG-2在1949年起裝備[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，在1960年代起開始被更先進和殺傷力更大的[RPG-7所取代](../Page/RPG-7.md "wikilink")。大量的RPG-2在蘇軍中退役後隨即被輸出到多個[華沙條約國家和](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")[第三世界國家以作軍事援助](https://zh.wikipedia.org/wiki/第三世界國家 "wikilink")。在[冷戰期間的一些衝突](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，如：[越南戰爭及](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")[中東戰爭等皆能找到RPG](https://zh.wikipedia.org/wiki/中東戰爭 "wikilink")-2的蹤影。\[2\]
+RPG-2在1949年起裝備[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，在1960年代起開始被更先進和殺傷力更大的[RPG-7](../Page/RPG-7.md "wikilink")所取代。大量的RPG-2在蘇軍中退役後隨即被輸出到多個[華沙條約國家和](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")[第三世界國家以作軍事援助](https://zh.wikipedia.org/wiki/第三世界國家 "wikilink")。在[冷戰期間的一些衝突](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，如：[越南戰爭及](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")[中東戰爭等皆能找到RPG](https://zh.wikipedia.org/wiki/中東戰爭 "wikilink")-2的蹤影。\[2\]
 
 ## 設計
 

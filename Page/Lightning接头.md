@@ -1,6 +1,7 @@
+\-{T|zh:Lightning接头; zh-hans:闪电接头; zh-hant:Lightning接头}-
 [Lightning_Connecter.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Connecter.jpg "fig:Lightning_Connecter.jpg")
 [Lightning_Dock_in_iPad_mini.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Dock_in_iPad_mini.jpg "fig:Lightning_Dock_in_iPad_mini.jpg")
-**Lightning**（简体中文名**闪电**）是由[蘋果公司所製作的專屬](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[連接器規格](https://zh.wikipedia.org/wiki/連接器 "wikilink")，首次出現在2012年所發表的[iPhone
+**Lightning**是由[蘋果公司所製作的專屬](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[連接器規格](https://zh.wikipedia.org/wiki/連接器 "wikilink")，首次出現在2012年所發表的[iPhone
 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPod
 Touch及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPod
 nano等新款手持式消費性電子產品](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")。此連接器針腳為
@@ -9,7 +10,7 @@ USB相近](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。Lightning取代
 
 ## 特色
 
-這是移動市場首個成為主流的正反可插介面，由於插頭采用了對稱式設計，所以插頭的上下兩面均分佈有相同的針脚。無論使用者以何種方向將插頭插入接口，其中一組針脚都會同基座中的陣脚相連接。目前還有[USB
+這是移動市場首個成為主流的正反可插介面，由於插頭采用了對稱式設計，所以插頭的上下兩面均分佈有相同的針脚。無論使用者以何種方向將插頭插入接口，其中一組針脚都會同基座中的针脚相連接。目前還有[USB
 Type-C也跟著采用這種設計](../Page/USB_Type-C.md "wikilink")。不同的是，Lightning接頭的引腳在外面，USB-C接頭的引腳則在裡面，且Lightning的插座引腳只有一邊，USB-C則兩邊都有。
 
 Lightning接頭還將其上一代30-pin接頭所使用的固定用機械卡扣移動到基座接口中，故此接頭本身上面沒有任何活動部件，緊凑而不容易損壞。接頭左右兩側均有小型凹槽，以配合接口内的固定用卡扣。
@@ -19,11 +20,11 @@ USB做為連接器](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")，因此
 USB的轉接器。在Lightning連接器發表之後，蘋果公司亦提供Lightning連接器轉接[Micro
 USB的轉接器](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。
 
-Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使用未经[MFi认证的Lightning傳輸線](../Page/MFi认证.md "wikilink")，可能會發生無法充電及傳輸之情況，此狀況普遍在裝置上執行[iOS
-7版本之蘋果裝置上](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，且使用未认证傳輸線可能造成[鋰電池損壞](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")、[短路等問題](../Page/短路.md "wikilink")。
+Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使用未经[MFi认证](../Page/MFi认证.md "wikilink")的Lightning傳輸線，可能會發生無法充電及傳輸之情況，此狀況普遍在裝置上執行[iOS
+7版本之蘋果裝置上](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，且使用未认证傳輸線可能造成[鋰電池損壞](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")、[短路](../Page/短路.md "wikilink")等問題。
 
 在2017年11月初的[iOS
-11更新中](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")，蘋果將Lightning简体中文本地化為「闪电」\[1\]\[2\]，而[繁體中文地區依然使用英文名](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")\[3\]。
+11更新中](https://zh.wikipedia.org/wiki/iOS_11 "wikilink")，蘋果將Lightning简体中文[本地化為](https://zh.wikipedia.org/wiki/本地化 "wikilink")「闪-{}-电」\[1\]\[2\]，而[繁體中文地區依然使用英文名](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")\[3\]。
 
 ## 採用 Lightning 接頭的裝置列表
 
@@ -62,6 +63,8 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
     5](https://zh.wikipedia.org/wiki/iPod_touch_5 "wikilink")
   - [iPod touch
     6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink")
+  - [iPod touch
+    7](https://zh.wikipedia.org/wiki/iPod_touch_7 "wikilink")
   - [iPod Nano
     (第七代)](https://zh.wikipedia.org/wiki/iPod_Nano "wikilink")
 

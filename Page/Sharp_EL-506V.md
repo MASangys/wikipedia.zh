@@ -8,10 +8,10 @@ EL-506V為香港[考評局准用計算機型號之一](https://zh.wikipedia.org/
 ## 功能
 
 Sharp
-EL-506V的功能包括[單位轉換](https://zh.wikipedia.org/wiki/計量單位 "wikilink")、[小數](https://zh.wikipedia.org/wiki/小數 "wikilink")[分數轉換](../Page/分數.md "wikilink")、置換計算、[複數計算](https://zh.wikipedia.org/wiki/複數_\(數學\) "wikilink")、三元一次[聯立方程](https://zh.wikipedia.org/wiki/聯立方程 "wikilink")、六種[回歸分析](https://zh.wikipedia.org/wiki/回歸分析 "wikilink")
+EL-506V的功能包括[單位轉換](https://zh.wikipedia.org/wiki/計量單位 "wikilink")、[小數](https://zh.wikipedia.org/wiki/小數 "wikilink")[分數](../Page/分數.md "wikilink")轉換、置換計算、[複數計算](https://zh.wikipedia.org/wiki/複數_\(數學\) "wikilink")、三元一次[聯立方程](https://zh.wikipedia.org/wiki/聯立方程 "wikilink")、六種[回歸分析](https://zh.wikipedia.org/wiki/回歸分析 "wikilink")
 、[標準常態分佈概率](https://zh.wikipedia.org/wiki/標準常態分佈 "wikilink")、[微積分計算等](https://zh.wikipedia.org/wiki/微積分 "wikilink")。在[Casio
 fx-50FH推出前](https://zh.wikipedia.org/wiki/Casio_fx-50FH "wikilink")，Sharp
-EL-506V是最多實用內置功能的考評局准用計數機。\[2\]它擁有七個數字記憶（包括A-D、X、Y及M），及一個常數記憶（K），可用作重複計算及編寫公式。它亦設有2個公式儲存器，每個可儲取最多80個字符的公式。另外，它內置40個[物理常數](../Page/物理常數.md "wikilink")，包括真空中的[光速](../Page/光速.md "wikilink")、[電子](https://zh.wikipedia.org/wiki/電子 "wikilink")、[質子](../Page/質子.md "wikilink")、[中子質量](../Page/中子.md "wikilink")、[重力加速度](../Page/重力加速度.md "wikilink")、[氣體常數等](../Page/氣體常數.md "wikilink")。\[3\]
+EL-506V是最多實用內置功能的考評局准用計數機。\[2\]它擁有七個數字記憶（包括A-D、X、Y及M），及一個常數記憶（K），可用作重複計算及編寫公式。它亦設有2個公式儲存器，每個可儲取最多80個字符的公式。另外，它內置40個[物理常數](../Page/物理常數.md "wikilink")，包括真空中的[光速](../Page/光速.md "wikilink")、[電子](https://zh.wikipedia.org/wiki/電子 "wikilink")、[質子](../Page/質子.md "wikilink")、[中子](../Page/中子.md "wikilink")質量、[重力加速度](../Page/重力加速度.md "wikilink")、[氣體常數](../Page/氣體常數.md "wikilink")等。\[3\]
 
 ## 評價
 

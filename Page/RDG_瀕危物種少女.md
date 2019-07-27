@@ -1,5 +1,5 @@
 《**RDG
-瀕危物種少女**》（）是[日本作家](../Page/日本.md "wikilink")[荻原規子所寫的](../Page/荻原規子.md "wikilink")[奇幻小说系列](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")，[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")、[角川文庫版的插圖均由](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")負責，[角川Sneaker文庫版的插圖則由](../Page/角川Sneaker文庫.md "wikilink")[岸田梅爾負責](../Page/岸田梅爾.md "wikilink")。2008年7月到2012年11月由[角川書店出版發行](../Page/角川書店.md "wikilink")。
+瀕危物種少女**》（）是[日本](../Page/日本.md "wikilink")作家[荻原規子](../Page/荻原規子.md "wikilink")所寫的[奇幻小说系列](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")，[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")、[角川文庫版的插圖均由](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")負責，[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")版的插圖則由[岸田梅爾](../Page/岸田梅爾.md "wikilink")負責。2008年7月到2012年11月由[角川書店](../Page/角川書店.md "wikilink")出版發行。
 
 [電視動畫版角色原案由岸田梅爾負責](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，動畫製作公司為[P.A.
 Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6月播放。[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號（2012年10月26日發售）漫畫版連載開始，作畫由負責\[1\]。
@@ -30,7 +30,7 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 <!-- end list -->
 
   -
-    本作男主角，鳳城學園1年A班，隸屬學生會執行部，成績優異。[山伏的家系](../Page/山伏.md "wikilink")，泉水子的青梅竹馬。
+    本作男主角，鳳城學園1年A班，隸屬學生會執行部，成績優異。[山伏](../Page/山伏.md "wikilink")的家系，泉水子的青梅竹馬。
     與外人處事彬彬有禮看似優等生，但與泉水子或雪政相處時便會露出本性，被泉水子說是表裡不一。
     在后来与泉水子相处渐渐喜欢上泉水子。
     喜欢宫崎骏的《龙猫》，并曾把泉水子的手机铃声调为其中的某个音乐。
@@ -80,7 +80,7 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 
 ### 鳳城學園
 
-位於東京都西部、[高尾山北部](../Page/高尾山.md "wikilink")，常有外國人前來就讀。學校設有國中部與高中部，學生數約為各學年100人。
+位於東京都西部、[高尾山](../Page/高尾山.md "wikilink")北部，常有外國人前來就讀。學校設有國中部與高中部，學生數約為各學年100人。
 
 #### 學生會執行部
 
@@ -91,7 +91,7 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
     就讀高中部1年C班。學生會執行部、馬術社所屬，真響的同胞弟弟。
     是頗為坦率的少年。成績不好但靠著真響的關係而進鳳城學園就讀。嗜好是[流鏑馬](https://zh.wikipedia.org/wiki/流鏑馬 "wikilink")。
   -
-    真響的另一個三胞胎弟弟，六歲時已過世，但可透過真響與真夏的召喚以同齡年齡出現，喜歡泉水子，曾提出交往的請求。第25話向泉水子告白。
+    真響的另一個三胞胎弟弟，六歲時已過世，但可透過真響與真夏的召喚以同齡年齡出現，喜歡泉水子，曾提出交往的請求。動畫第12話向泉水子告白。
   -
     現任學生會會長，穿著男裝的混血少女。目前在學習日本舞。
   -
@@ -115,9 +115,9 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 
 ## 小說
 
-2008年7月至2012年11月角川書店以「角川銀之匙系列」（）出版單行本，之後也以[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")、[角川Sneaker文庫刊行](../Page/角川Sneaker文庫.md "wikilink")。繁體中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")，代理版本為繪製插畫的角川文庫版。简体中文版由[天闻角川代理发行](../Page/天闻角川.md "wikilink")，[湖南美术出版社出版](../Page/湖南美术出版社.md "wikilink")，代理版本为[岸田梅尔绘制插画的角川Sneaker文庫版](https://zh.wikipedia.org/wiki/岸田梅尔 "wikilink")。單行本版全6卷、文庫版5卷。
+2008年7月至2012年11月角川書店以「角川銀之匙系列」（）出版單行本，之後也以[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")、[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")刊行。繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理，代理版本為繪製插畫的角川文庫版。简体中文版由[天闻角川](../Page/天闻角川.md "wikilink")代理发行，[湖南美术出版社](../Page/湖南美术出版社.md "wikilink")出版，代理版本为[岸田梅尔绘制插画的角川Sneaker文庫版](https://zh.wikipedia.org/wiki/岸田梅尔 "wikilink")。單行本版全6卷、文庫版5卷。
 
-《RDG》同小说作者荻原规子的[处女作](https://zh.wikipedia.org/wiki/处女作 "wikilink")《[空色勾玉](https://zh.wikipedia.org/wiki/空色勾玉 "wikilink")》一样都能找到有[日本古代神话的影子](https://zh.wikipedia.org/wiki/日本神话 "wikilink")。这种带有日本神话色彩的[奇幻作品风格创作深远影响了作者本人](../Page/奇幻作品.md "wikilink")。荻原规子自身将奇幻小说定义为“涉及以神话和历史为基础的过去文化遗产，但不被既有的规范约束，个人的幻想可以自由翱翔”，《RDG》也都遵循了这个概念。《RDG》这部小说最初构思为“将成为世界遗产的少女”的故事，并且在最初并未明确会成为系列小说。
+《RDG》同小说作者荻原规子的[处女作](https://zh.wikipedia.org/wiki/处女作 "wikilink")《[空色勾玉](https://zh.wikipedia.org/wiki/空色勾玉 "wikilink")》一样都能找到有[日本古代神话的影子](https://zh.wikipedia.org/wiki/日本神话 "wikilink")。这种带有日本神话色彩的[奇幻作品](../Page/奇幻作品.md "wikilink")风格创作深远影响了作者本人。荻原规子自身将奇幻小说定义为“涉及以神话和历史为基础的过去文化遗产，但不被既有的规范约束，个人的幻想可以自由翱翔”，《RDG》也都遵循了这个概念。《RDG》这部小说最初构思为“将成为世界遗产的少女”的故事，并且在最初并未明确会成为系列小说。
 
 <table>
 <thead>
@@ -288,7 +288,7 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 
 ## 漫畫
 
-《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號開始連載。角色原案由[岸田梅爾擔任](../Page/岸田梅爾.md "wikilink")，作畫由負責，至2014年9月號已完結，全5卷。並在每一卷的封底和無書衣的封面收錄了琴音蘭丸畫的4格漫畫。另外在漫畫第4卷收錄了由原作者[荻原規子描寫的短篇小說](../Page/荻原規子.md "wikilink")『』。
+《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號開始連載。角色原案由[岸田梅爾](../Page/岸田梅爾.md "wikilink")擔任，作畫由負責，至2014年9月號已完結，全5卷。並在每一卷的封底和無書衣的封面收錄了琴音蘭丸畫的4格漫畫。另外在漫畫第4卷收錄了由原作者[荻原規子](../Page/荻原規子.md "wikilink")描寫的短篇小說『』。
 
 故事依照動畫版內容進行，並追加了動畫未播出或被刪除的原作章節故事內容。而原作第5卷和動畫版的最後一集也同樣漫畫化收錄在單行本，已完結。
 
@@ -538,7 +538,7 @@ Network的评论家塞隆](https://zh.wikipedia.org/wiki/Anime_News_Network "wik
 | [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink") | [岐阜放送](../Page/岐阜放送.md "wikilink")                                | 2013年4月4日 - 6月20日   | 星期四 25時45分 - 26時15分                                                                                           | 獨立UHF局                                                    |         |
 | [三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink") | [三重電視台](../Page/三重電視台.md "wikilink")                              | 星期四 26時20分 - 26時50分 |                                                                                                               |                                                           |         |
 | [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")           | 2013年4月5日 - 6月21日   | 星期五 25時30分 - 26時00分                                                                                           |                                                           |         |
-| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")             | 星期五 27時00分 - 27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |         |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")             | 星期五 27時00分 - 27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+](../Page/ANIME+.md "wikilink")節目                  |         |
 | [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                              | 2013年4月7日 - 6月23日   | 星期日 24時30分 - 25時00分                                                                                           | 獨立UHF局                                                    |         |
 | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                            |                     |                                                                                                               |                                                           |         |
 | 日本全國                                                | KIDS STATION                                                      | 2013年4月9日 - 6月25日   | 星期二 24時00分 - 24時30分                                                                                           | 衛星電視                                                      | 有重播     |

@@ -1,5 +1,5 @@
-《**Lady 寶石寵物**》，是[三麗鷗和](../Page/三麗鷗.md "wikilink")[SEGA
-TOYS共同創作的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../Page/角色.md "wikilink")，[寶石寵物動畫版的第六作](../Page/寶石寵物.md "wikilink")。在2014年4月5日至翌年3月28日於[東京電視台播出](../Page/東京電視台.md "wikilink")。[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台於](../Page/翡翠台.md "wikilink")2016年9月27日以「寶石寵物Ⅵ」的名義播出，香港播放最大不同是用回日文主題曲。
+《**Lady 寶石寵物**》，是[三麗鷗](../Page/三麗鷗.md "wikilink")和[SEGA
+TOYS共同創作的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../Page/角色.md "wikilink")，[寶石寵物](../Page/寶石寵物.md "wikilink")動畫版的第六作。在2014年4月5日至翌年3月28日於[東京電視台](../Page/東京電視台.md "wikilink")播出。[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")於2016年9月27日以「寶石寵物Ⅵ」的名義播出，香港播放最大不同是用回日文主題曲。
 
 ## 故事大綱
 
@@ -1124,4 +1124,4 @@ GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
 
-1.  由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台翻譯](../Page/翡翠台.md "wikilink")
+1.  由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")翻譯

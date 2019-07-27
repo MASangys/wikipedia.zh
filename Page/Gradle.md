@@ -1,7 +1,7 @@
 **Gradle**是一个基于[Apache Ant和](../Page/Apache_Ant.md "wikilink")[Apache
-Maven概念的项目](../Page/Apache_Maven.md "wikilink")[自动化建构工具](https://zh.wikipedia.org/wiki/自动化建构 "wikilink")。它使用一种基于[Groovy的](../Page/Groovy.md "wikilink")[特定领域语言来声明项目设置](https://zh.wikipedia.org/wiki/特定领域语言 "wikilink")，而不是传统的[XML](../Page/XML.md "wikilink")。\[1\]
+Maven概念的项目](../Page/Apache_Maven.md "wikilink")[自动化建构工具](https://zh.wikipedia.org/wiki/自动化建构 "wikilink")。它使用一种基于[Groovy](../Page/Groovy.md "wikilink")的[特定领域语言来声明项目设置](https://zh.wikipedia.org/wiki/特定领域语言 "wikilink")，而不是传统的[XML](../Page/XML.md "wikilink")。\[1\]
 
-当前其支持的语言限于[Java](../Page/Java.md "wikilink")、[Groovy和](../Page/Groovy.md "wikilink")[Scala](../Page/Scala.md "wikilink")\[2\]，计划未来将支持更多的语言。
+当前其支持的语言限于[Java](../Page/Java.md "wikilink")、[Groovy](../Page/Groovy.md "wikilink")和[Scala](../Page/Scala.md "wikilink")\[2\]，计划未来将支持更多的语言。
 
 ## 使用 Gradle 的優勢
 

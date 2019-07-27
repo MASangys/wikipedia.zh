@@ -1,5 +1,5 @@
 《'''ALL THE BEST
-'''》（榮耀全精選）是日本組合[化學超男子的首張精選輯](../Page/化學超男子.md "wikilink")。2006年11月22日發行。
+'''》（榮耀全精選）是日本組合[化學超男子](../Page/化學超男子.md "wikilink")的首張精選輯。2006年11月22日發行。
 
 ## 解說
 
@@ -7,7 +7,7 @@
     Kay合作的歌曲](https://zh.wikipedia.org/wiki/Crystal_Kay "wikilink")《Two
     As One》以及再迎來松尾潔負責製作的新曲《Top of the World》\[1\]。
   - 初回盤限定收錄演唱會「CHEMISTRY 2006 TOUR
-    fo(u)r」的[埼玉場次映像以及二人於節目AYASAN超男子](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")《五花八門淺草橋》的選秀會精華片段的DVD。DVD內容並未有單獨發行計劃，而是收錄於其後單獨發行的[藍光光碟中](../Page/藍光光碟.md "wikilink")。CD歌詞本以不同顏色區分川畑與堂珍各自演唱的部分。
+    fo(u)r」的[埼玉場次映像以及二人於節目AYASAN超男子](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")《五花八門淺草橋》的選秀會精華片段的DVD。DVD內容並未有單獨發行計劃，而是收錄於其後單獨發行的[藍光光碟](../Page/藍光光碟.md "wikilink")中。CD歌詞本以不同顏色區分川畑與堂珍各自演唱的部分。
   - 自《[Hot
     Chemistry](../Page/Hot_Chemistry.md "wikilink")》以來約1年10個月的冠軍專輯\[2\]。
 

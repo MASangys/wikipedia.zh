@@ -1,4 +1,4 @@
-**ACM期刊**（，简称）是[计算机协会的官方学术刊物](../Page/计算机协会.md "wikilink")。其内容经[同行评审](https://zh.wikipedia.org/wiki/同行评审 "wikilink")，并廣泛覆蓋[计算机科学](../Page/计算机科学.md "wikilink")，特别是理论領域。通常该期刊只登载那些对计算机科学有深远影响的论文。
+**ACM期刊**（，简称）是[计算机协会](../Page/计算机协会.md "wikilink")的官方学术刊物。其内容经[同行评审](https://zh.wikipedia.org/wiki/同行评审 "wikilink")，并廣泛覆蓋[计算机科学](../Page/计算机科学.md "wikilink")，特别是理论領域。通常该期刊只登载那些对计算机科学有深远影响的论文。
 
 該刊物始創於1954年\[1\]。目前的主编是[康奈爾大學的](https://zh.wikipedia.org/wiki/康奈爾大學 "wikilink")[依娃·塔多斯](https://zh.wikipedia.org/wiki/依娃·塔多斯 "wikilink")\[2\]。
 

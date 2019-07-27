@@ -1,11 +1,11 @@
 **INFINITE
-F**（），為韓國男子團體[INFINITE的子團體](../Page/INFINITE.md "wikilink")，由INFINITE的[成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")、[L](../Page/金明洙.md "wikilink"),
+F**（），為韓國男子團體[INFINITE](../Page/INFINITE.md "wikilink")的子團體，由INFINITE的[成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")、[L](../Page/金明洙.md "wikilink"),
 和[成種](../Page/李成種.md "wikilink")
 三名成員在2014年2月組成。[成烈為](https://zh.wikipedia.org/wiki/李成烈 "wikilink")
 INFINITE F的隊長。
-2014年2月28日至3月1日，[INFINITE於首爾舉行世界巡迴安可場](../Page/INFINITE.md "wikilink")《One
+2014年2月28日至3月1日，[INFINITE](../Page/INFINITE.md "wikilink")於首爾舉行世界巡迴安可場《One
 Great Step Returns》，INFINITE F在演唱會中首次以《心跳》（）舞台作為子團亮相。2014年5月，
-[INFINITE正規二輯](../Page/INFINITE.md "wikilink")《SEASON
+[INFINITE](../Page/INFINITE.md "wikilink")正規二輯《SEASON
 2》中的歌曲《快瘋了》（）為INFINITE F的首支發行歌曲。
 2014年11月19日於日本以單曲專輯《戀愛的預感》(恋のサイン)出道；2014年12月1日於韓國以單曲專輯《青》正式以子團之名出道。
 
@@ -120,7 +120,7 @@ F**中的「F」代表Face、Flower、Forever等意思。
 | 2014年                                                       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")           | 《[心懷叵測的恢單女](../Page/心懷叵測的恢單女.md "wikilink")》                                                                                                | L         | 吉耀翰  | 配角  | 全集    |
 | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | 《[Hi\! School - Love On](../Page/Hi!_School_-_Love_On.md "wikilink")》 | 成烈                                                                                                                                          | 黃成烈       | 男二   | 全集  |       |
 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》                          | L                                                                                                                                           | 時宇        | 男二   | 全集  |       |
-| 2015年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | 《[愛你的時間，7000天](../Page/愛你的時間.md "wikilink")》                                                                                                | L         | 奇成宰  | 客串  | 第2至4集 |
+| 2015年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | 《[愛你的時間](../Page/愛你的時間.md "wikilink")，7000天》                                                                                                | L         | 奇成宰  | 客串  | 第2至4集 |
 | [JTBC](../Page/JTBC.md "wikilink")                          | 《[D-Day](../Page/D-Day_\(電視劇\).md "wikilink")》                        | 成烈                                                                                                                                          | 安大吉       | 配角   | 全集  |       |
 | 2016年                                                       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")              | 《分手後的第二天》                                                                                                                                   | L         | 劉嘆   | 男一  | 全集    |
 | 2017年                                                       | 騰訊                                                                    | 《[撿來的貓男](../Page/撿來的貓男.md "wikilink")》                                                                                                      | L         | 李昊然  | 男二  | 全集    |

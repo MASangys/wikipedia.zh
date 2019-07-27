@@ -1,4 +1,4 @@
-《**光**》是[BREAKERZ的第](../Page/BREAKERZ.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年7月15日由[ZAIN
+《**光**》是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年7月15日由[ZAIN
 RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 收錄曲
@@ -10,7 +10,7 @@ RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
         編曲：BREAKERZ
     <!-- end list -->
       -
-        [讀賣電視台制作](../Page/讀賣電視台.md "wikilink")・[日本電視台系動畫](../Page/日本電視台.md "wikilink")《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》片尾曲。
+        [讀賣電視台](../Page/讀賣電視台.md "wikilink")制作・[日本電視台](../Page/日本電視台.md "wikilink")系動畫《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》片尾曲。
 2.  '''Faraway So Close.
       - 作詞・作曲：AKIHIDE / 編曲：BREAKERZ
 3.  **[Everlasting

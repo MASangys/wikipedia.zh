@@ -1,4 +1,4 @@
-在[美国](../Page/美国.md "wikilink")，**RIAA认证**/**[美国唱片业协会认证](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")**奖项是基于[专辑和](https://zh.wikipedia.org/wiki/专辑 "wikilink")[单曲唱片的零售以及其它附属市场的销售量来认证的](../Page/单曲.md "wikilink")。\[1\]其他国家也有类似认证奖项（请参见
+在[美国](../Page/美国.md "wikilink")，**RIAA认证**/**[美国唱片业协会认证](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")**奖项是基于[专辑和](https://zh.wikipedia.org/wiki/专辑 "wikilink")[单曲](../Page/单曲.md "wikilink")唱片的零售以及其它附属市场的销售量来认证的。\[1\]其他国家也有类似认证奖项（请参见
 [音乐唱片销售认证](../Page/音乐唱片销售认证.md "wikilink")）。
 
 ## 到2012年11月，金唱片、白金唱片和多白金唱片专辑最多认证的音乐艺人

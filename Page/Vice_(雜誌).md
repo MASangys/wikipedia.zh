@@ -1,4 +1,4 @@
-《**Vice**》是一本北美洲的[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，內容專注在國際藝術、文化和新聞方面主題。該雜誌在28個國家免費發行，以廣告作為主要收入來源。在2013年4月，《Vice》的[YouTube頻道訂閱人數超過兩百萬人](../Page/YouTube.md "wikilink")。\[1\]
+《**Vice**》是一本北美洲的[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，內容專注在國際藝術、文化和新聞方面主題。該雜誌在28個國家免費發行，以廣告作為主要收入來源。在2013年4月，《Vice》的[YouTube](../Page/YouTube.md "wikilink")頻道訂閱人數超過兩百萬人。\[1\]
 
 ## 歷史
 
@@ -12,18 +12,18 @@ Laurent）解除合約，在1996年將雜誌改名為《Vice》。
 
 ## 內容
 
-《Vice》雜誌的內容重心從獨立藝術和[流行文化逐漸轉移至較為嚴肅的新聞主題](../Page/流行文化.md "wikilink")。雜誌的編輯們擅於透過實際採訪，再以極其貼近個人經驗的角度撰寫報導。每一期的這樣的風格與主流媒體完全不同。這樣的報導切入方式被稱為「」（immersion
+《Vice》雜誌的內容重心從獨立藝術和[流行文化](../Page/流行文化.md "wikilink")逐漸轉移至較為嚴肅的新聞主題。雜誌的編輯們擅於透過實際採訪，再以極其貼近個人經驗的角度撰寫報導。每一期的這樣的風格與主流媒體完全不同。這樣的報導切入方式被稱為「」（immersion
 journalism），每一期的雜誌都是遵循的這個理念撰寫。《Vice》也曾推出整期內容都專注於[伊拉克人](https://zh.wikipedia.org/wiki/伊拉克人 "wikilink")、\[6\][美洲原住民](../Page/美洲原住民.md "wikilink")、\[7\][俄羅斯人](../Page/俄羅斯人.md "wikilink")、\[8\][精神疾病患者](https://zh.wikipedia.org/wiki/精神病 "wikilink")，\[9\]以及[發展遲緩者的雜誌](https://zh.wikipedia.org/wiki/發展遲緩 "wikilink")。\[10\]《Vice》也會針對英國的學生每年推出指南特刊。\[11\]
 
 2007年《Vice》宣布將開始在網路上發行\[12\]
 
 ### 爭議
 
-《Vice》曾被指控利用[反諷手法](../Page/反諷.md "wikilink")（irony）隱藏其反動性的保守政治主張，並宣傳保守的、種族歧視的以及性別主義的態度。\[13\]\[14\]\[15\]\[16\]
+《Vice》曾被指控利用[反諷](../Page/反諷.md "wikilink")手法（irony）隱藏其反動性的保守政治主張，並宣傳保守的、種族歧視的以及性別主義的態度。\[13\]\[14\]\[15\]\[16\]
 
 2004年8月，創刊人之一的麥金斯在《[美國保守派](https://zh.wikipedia.org/wiki/美國保守派 "wikilink")》（*The
 American
-Conservative*）雜誌上撰寫了一篇文章，標題為〈老派就是時髦：保守主義者越來越酷了〉。\[17\]\[18\]除此之外，麥金斯對於[移民的觀點也曾引發了爭議](../Page/移民.md "wikilink")。在2003年9月一段《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》的專訪中，麥金斯表示：「我喜歡身為白人，而且我覺得這是一件非常值得驕傲的事。」他還提到：「我不希望我們的文化被稀釋。我們需要立刻關閉邊境，並用西方的、白人的、英語的生活方式同化所有人。」\[19\]麥金斯之後解釋這段訪談是針對撰寫該文的一位年輕時尚記者作出的惡作劇。\[20\]針對所引發的爭議，麥金斯回應表示《紐約時報》這類的[嬰兒潮世代媒體是個笑柄](https://zh.wikipedia.org/wiki/嬰兒潮世代 "wikilink")，我們應該用盡各種方式來揶揄他們。\[21\]
+Conservative*）雜誌上撰寫了一篇文章，標題為〈老派就是時髦：保守主義者越來越酷了〉。\[17\]\[18\]除此之外，麥金斯對於[移民](../Page/移民.md "wikilink")的觀點也曾引發了爭議。在2003年9月一段《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》的專訪中，麥金斯表示：「我喜歡身為白人，而且我覺得這是一件非常值得驕傲的事。」他還提到：「我不希望我們的文化被稀釋。我們需要立刻關閉邊境，並用西方的、白人的、英語的生活方式同化所有人。」\[19\]麥金斯之後解釋這段訪談是針對撰寫該文的一位年輕時尚記者作出的惡作劇。\[20\]針對所引發的爭議，麥金斯回應表示《紐約時報》這類的[嬰兒潮世代媒體是個笑柄](https://zh.wikipedia.org/wiki/嬰兒潮世代 "wikilink")，我們應該用盡各種方式來揶揄他們。\[21\]
 
 ### 政治立場
 
@@ -35,7 +35,7 @@ Conservative*）雜誌上撰寫了一篇文章，標題為〈老派就是時髦�
 Cooper）和[哈羅德·布魯姆](../Page/哈羅德·布魯姆.md "wikilink")（Harold
 Bloom）的專訪，以及由（Ann
 Beattie）、[史蒂芬·狄克逊](https://zh.wikipedia.org/wiki/史蒂芬·狄克逊 "wikilink")（Stephen
-Dixon）、[林韜和](../Page/林韜.md "wikilink")（Carlton Mellick III）所撰寫的故事。
+Dixon）、[林韜](../Page/林韜.md "wikilink")和（Carlton Mellick III）所撰寫的故事。
 
 ### 漫畫
 
@@ -88,17 +88,17 @@ Travel*）在內一系列的影片和紀錄片都在網路上的《Vice》頻道
 Metal in Baghdad*），接著在2009年首次發行在劇院上映的紀錄片《白色閃電》（*White
 Lightnin*）。2010年又發行了以職業騎牛者為主題的紀錄片《The Ride》。\[26\]
 
-《Vice》繼續在2013年發行了紀錄片《》，該片以紀錄[史努比狗狗受到](../Page/史努比狗狗.md "wikilink")[拉斯特法里運動影響](https://zh.wikipedia.org/wiki/拉斯特法里運動 "wikilink")，改名為「史努比獅子」（Snoop
+《Vice》繼續在2013年發行了紀錄片《》，該片以紀錄[史努比狗狗](../Page/史努比狗狗.md "wikilink")受到[拉斯特法里運動影響](https://zh.wikipedia.org/wiki/拉斯特法里運動 "wikilink")，改名為「史努比獅子」（Snoop
 Lion）並轉型成雷鬼歌手的過程。\[27\]
 
-2013年4月18日，《Vice》發行的《》在[翠貝卡電影節首映](../Page/翠貝卡電影節.md "wikilink")，並獲得了網路影展最佳長片的獎項。\[28\]\[29\]\[30\]
+2013年4月18日，《Vice》發行的《》在[翠貝卡電影節](../Page/翠貝卡電影節.md "wikilink")首映，並獲得了網路影展最佳長片的獎項。\[28\]\[29\]\[30\]
 
 ### 電視節目
 
 《Vice》與[MTV頻道合作的電視系列節目](https://zh.wikipedia.org/wiki/MTV "wikilink")《Vice萬事指南》（*The
 Vice Guide to Everything*）在2010年12月首播，內容包括《Vice》發行的影片以及其他新製作的內容。
 
-2013年4月5日，與雜誌同名的新聞電視節目《[Vice](../Page/Vice_\(電視節目\).md "wikilink")》在[HBO頻道開始播出](../Page/HBO.md "wikilink")，由創辦人之一的西恩·史密斯主持。\[31\]
+2013年4月5日，與雜誌同名的新聞電視節目《[Vice](../Page/Vice_\(電視節目\).md "wikilink")》在[HBO](../Page/HBO.md "wikilink")頻道開始播出，由創辦人之一的西恩·史密斯主持。\[31\]
 
 ## 其他事業
 

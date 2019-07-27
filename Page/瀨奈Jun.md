@@ -131,7 +131,7 @@ Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇�
   - 『ビューティフル・サンデイ』三枝ちひろ（2012年2月23日\~3月4日[ル テアトル銀座 by
     PARCO](https://zh.wikipedia.org/wiki/ル_テアトル銀座_by_PARCO "wikilink")(東京公演)、3月10日\~3月11日[シアターBRAVA\!](https://zh.wikipedia.org/wiki/シアターBRAVA! "wikilink")(大阪公演)、3月14日[青少年文化センターアートピアホール](https://zh.wikipedia.org/wiki/青少年文化センターアートピアホール "wikilink")(名古屋公演)、3月16日\~3月18日[兵庫県立芸術文化センター阪急中ホール](https://zh.wikipedia.org/wiki/兵庫県立芸術文化センター "wikilink")(兵庫公演)）
   - 『エリザベート』
-    エリザベート（2012年5月9日\~6月27日[帝国劇場](https://zh.wikipedia.org/wiki/帝国劇場 "wikilink")、7月5日\~26日[博多座](https://zh.wikipedia.org/wiki/博多座 "wikilink")、8月3日\~26日[中日劇場](https://zh.wikipedia.org/wiki/中日劇場 "wikilink")、9月1日\~28日[梅田芸術劇場](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）　＊[春野寿美礼とWキャスト](../Page/春野寿美礼.md "wikilink")　
+    エリザベート（2012年5月9日\~6月27日[帝国劇場](https://zh.wikipedia.org/wiki/帝国劇場 "wikilink")、7月5日\~26日[博多座](https://zh.wikipedia.org/wiki/博多座 "wikilink")、8月3日\~26日[中日劇場](https://zh.wikipedia.org/wiki/中日劇場 "wikilink")、9月1日\~28日[梅田芸術劇場](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）　＊[春野寿美礼](../Page/春野寿美礼.md "wikilink")とWキャスト　
   - 『ラストダンス〜the　musical　越路吹雪〜』　2012/11/16 東京　かめありリリオホール※プレビュー公演・11/20
     長野　ホクト文化ホール　中ホール　・11/23 山梨　東京エレクトロン韮崎文化ホールBREEZE・11/27
     金沢　北國新聞赤羽ホール・12/4〜12/19　東京シアタークリエ・12/29〜12/30

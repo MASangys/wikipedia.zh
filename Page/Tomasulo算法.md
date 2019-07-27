@@ -1,5 +1,5 @@
-**Tomasulo算法**（托马苏洛算法）是[IBM的Robert](../Page/IBM.md "wikilink")
-Tomasulo在1967年研发出来的一种用来改善处理器[乱序执行的](../Page/乱序执行.md "wikilink")[指令级并行性的硬件](https://zh.wikipedia.org/wiki/指令层级平行 "wikilink")[算法](../Page/算法.md "wikilink")。
+**Tomasulo算法**（托马苏洛算法）是[IBM](../Page/IBM.md "wikilink")的Robert
+Tomasulo在1967年研发出来的一种用来改善处理器[乱序执行](../Page/乱序执行.md "wikilink")的[指令级并行性的硬件](https://zh.wikipedia.org/wiki/指令层级平行 "wikilink")[算法](../Page/算法.md "wikilink")。
 
 ## 概述
 
@@ -7,12 +7,12 @@ Tomasulo在1967年研发出来的一种用来改善处理器[乱序执行的](..
 System/360 Model
 91处理器的[浮点运算器中率先使用了这种算法](https://zh.wikipedia.org/wiki/浮点运算器 "wikilink")。
 
-该算法与之前同样用于实现[指令流水线动态调度的](../Page/指令管線化.md "wikilink")[计分板不同在于它使用了](../Page/计分板_\(处理器\).md "wikilink")[寄存器重命名机制](../Page/寄存器重命名.md "wikilink")。指令之间具有[数据相关性](https://zh.wikipedia.org/wiki/数据-程序依赖 "wikilink")（例如后条指令的源寄存器恰好是前条指令要写入的目标寄存器），进行动态调度时必须避免三类[冒险](../Page/冒险_\(计算机体系结构\).md "wikilink")：写后读（Read-after-Write,
+该算法与之前同样用于实现[指令流水线动态调度的](../Page/指令管線化.md "wikilink")[计分板不同在于它使用了](../Page/计分板_\(处理器\).md "wikilink")[寄存器重命名](../Page/寄存器重命名.md "wikilink")机制。指令之间具有[数据相关性](https://zh.wikipedia.org/wiki/数据-程序依赖 "wikilink")（例如后条指令的源寄存器恰好是前条指令要写入的目标寄存器），进行动态调度时必须避免三类[冒险](../Page/冒险_\(计算机体系结构\).md "wikilink")：写后读（Read-after-Write,
 RAW）、写后写（Write-after-Write, WAW）、读后写（Write-after-Read,
 WAR）。第一种冒险也被称为真数据相关（true data
 dependence），而后两种冒险则并没有那么致命，它们可以由寄存器重命名来予以解决。Tomasulo算法使用了一个共享数据总线（common
 data bus,
-CDB）将已计算出的值广播给所有需要这个值作为指令源操作数的[保留站](https://zh.wikipedia.org/wiki/保留站 "wikilink")。该算法尽可能降低了使用计分板技术导致的流水线停顿，从而改善了[并行计算的效率](../Page/并行计算.md "wikilink")。
+CDB）将已计算出的值广播给所有需要这个值作为指令源操作数的[保留站](https://zh.wikipedia.org/wiki/保留站 "wikilink")。该算法尽可能降低了使用计分板技术导致的流水线停顿，从而改善了[并行计算](../Page/并行计算.md "wikilink")的效率。
 
 ## 具体流程
 

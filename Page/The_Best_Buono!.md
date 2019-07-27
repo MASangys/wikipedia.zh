@@ -1,5 +1,5 @@
 『**The Best
-Buono\!**』是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!的](../Page/Buono!.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。2010年8月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。2010年8月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
@@ -14,7 +14,7 @@ Buono\!**』是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono
     （作詞・作曲・編曲:[AKIRASTAR](https://zh.wikipedia.org/wiki/AKIRASTAR "wikilink")）
       -
         3rd專輯「[We are Buono\!](../Page/We_are_Buono!.md "wikilink")」收錄。
-        [鈴木愛理最後的台詞被刪除](../Page/鈴木愛理.md "wikilink")。
+        [鈴木愛理](../Page/鈴木愛理.md "wikilink")最後的台詞被刪除。
 2.  **[戀愛♥騎士](https://zh.wikipedia.org/wiki/戀愛騎士 "wikilink")**
     （作詞：[岩里祐穂](https://zh.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲：AKIRASTAR、編曲：[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")）
       -

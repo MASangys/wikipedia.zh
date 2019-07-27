@@ -1,4 +1,4 @@
-是一款於2013年由[AlphaDream開發並由](../Page/AlphaDream.md "wikilink")[任天堂發佈的](../Page/任天堂.md "wikilink")[角色扮演電子遊戲](../Page/電子角色扮演遊戲.md "wikilink")，其平台為[任天堂3DS](../Page/任天堂3DS.md "wikilink")。\[1\]此遊戲是[瑪利歐與路易RPG遊戲系列的第四個遊戲](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG系列 "wikilink")，緊接系列的前三個遊戲《[瑪利歐與路易RPG](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG "wikilink")》、《[瑪利歐與路易RPG2](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG2 "wikilink")》及《[瑪利歐與路易RPG3\!\!\!](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG3!!! "wikilink")》，首次在2013年4月17日的[任天堂直面會發布其遊戲內容](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")\[2\]。此遊戲也是路易吉30周年作品之一。此遊戲於分別於2013年7月12日、7月13日、7月18日和8月11日在歐洲、澳洲、日本及北美發佈。\[3\]
+是一款於2013年由[AlphaDream](../Page/AlphaDream.md "wikilink")開發並由[任天堂](../Page/任天堂.md "wikilink")發佈的[角色扮演電子遊戲](../Page/電子角色扮演遊戲.md "wikilink")，其平台為[任天堂3DS](../Page/任天堂3DS.md "wikilink")。\[1\]此遊戲是[瑪利歐與路易RPG遊戲系列的第四個遊戲](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG系列 "wikilink")，緊接系列的前三個遊戲《[瑪利歐與路易RPG](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG "wikilink")》、《[瑪利歐與路易RPG2](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG2 "wikilink")》及《[瑪利歐與路易RPG3\!\!\!](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG3!!! "wikilink")》，首次在2013年4月17日的[任天堂直面會發布其遊戲內容](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")\[2\]。此遊戲也是路易吉30周年作品之一。此遊戲於分別於2013年7月12日、7月13日、7月18日和8月11日在歐洲、澳洲、日本及北美發佈。\[3\]
 
 ## 遊戲系統
 
@@ -16,8 +16,8 @@
 ## 評價
 
 《瑪利歐與路易吉RPG4
-夢境冒險》獲得的評價大多為正面的，其背景音樂和娛樂性亦是系列中表現最突出的。兩個匯總評分網站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic分別得出此遊戲的分數為](../Page/Metacritic.md "wikilink")80.65%\[8\]和81/100\[9\]。[IGN給予此遊戲](../Page/IGN.md "wikilink")8/10分，讚揚遊戲的畫質、設計等，但就批評其開頭無聊，以及離開夢境世界後主世界變得平淡無奇。\[10\]杂志《[Edge](../Page/Edge_\(杂志\).md "wikilink")》給予此遊戲7/10分，讚揚其遊戲系統，但就批評立體人物造形比2D版本差。\[11\][Game
-Informer給予此遊戲](../Page/Game_Informer.md "wikilink")8.5/10分，並稱讚其延續了系列的精彩。\[12\][GameSpot給予此遊戲](../Page/GameSpot.md "wikilink")8/10分，並稱讚其戰鬥機制和創新性。\[13\]而[Joystiq則給予此遊戲](../Page/Joystiq.md "wikilink")3.5/5星，批評其無聊的開場白，但就讚揚遊戲具創意。\[14\]
+夢境冒險》獲得的評價大多為正面的，其背景音樂和娛樂性亦是系列中表現最突出的。兩個匯總評分網站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")分別得出此遊戲的分數為80.65%\[8\]和81/100\[9\]。[IGN](../Page/IGN.md "wikilink")給予此遊戲8/10分，讚揚遊戲的畫質、設計等，但就批評其開頭無聊，以及離開夢境世界後主世界變得平淡無奇。\[10\]杂志《[Edge](../Page/Edge_\(杂志\).md "wikilink")》給予此遊戲7/10分，讚揚其遊戲系統，但就批評立體人物造形比2D版本差。\[11\][Game
+Informer給予此遊戲](../Page/Game_Informer.md "wikilink")8.5/10分，並稱讚其延續了系列的精彩。\[12\][GameSpot](../Page/GameSpot.md "wikilink")給予此遊戲8/10分，並稱讚其戰鬥機制和創新性。\[13\]而[Joystiq](../Page/Joystiq.md "wikilink")則給予此遊戲3.5/5星，批評其無聊的開場白，但就讚揚遊戲具創意。\[14\]
 
 ## 銷售
 

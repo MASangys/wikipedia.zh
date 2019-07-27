@@ -1,4 +1,4 @@
-《**colorful**》是[日本女子組合](../Page/日本.md "wikilink")[9nine的第](../Page/9nine.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年2月6日由[SME
+《**colorful**》是[日本](../Page/日本.md "wikilink")女子組合[9nine](../Page/9nine.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年2月6日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
@@ -6,7 +6,7 @@ Records發售](../Page/SME_Records.md "wikilink")。
 本單曲是9nine於2013年發行的首張單曲，當中A面曲《colorful》被起用為《[STAR DRIVER
 閃亮的塔科特](../Page/STAR_DRIVER_閃亮的塔科特.md "wikilink")》電影版《STAR
 DRIVER THE
-MOVIE》的主題曲，該電影的監製[五十嵐卓哉評價此曲為](../Page/五十嵐卓哉.md "wikilink")「充滿疾走感的爽快歌曲，能夠給人們力量」\[1\]。
+MOVIE》的主題曲，該電影的監製[五十嵐卓哉](../Page/五十嵐卓哉.md "wikilink")評價此曲為「充滿疾走感的爽快歌曲，能夠給人們力量」\[1\]。
 
 ## 收錄曲
 

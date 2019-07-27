@@ -2,11 +2,11 @@
 Cache）、二級快取（L2
 Cache）。Uncore的功能包括[QPI控制器](https://zh.wikipedia.org/wiki/QPI "wikilink")、三級快取（L3
 Cache）、窺探（監測）[管線](../Page/指令管線化.md "wikilink")（snoop agent
-pipeline）、記憶體控制器，以及[Thunderbolt控制器](../Page/Thunderbolt.md "wikilink")。\[2\]至於其餘的[匯流排控制器](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，像是[PCI-E](https://zh.wikipedia.org/wiki/PCI-E "wikilink")、[SPI等](../Page/序列周邊介面.md "wikilink")，則是屬於[晶片組的一部分](https://zh.wikipedia.org/wiki/晶片組 "wikilink")。\[3\]
+pipeline）、記憶體控制器，以及[Thunderbolt](../Page/Thunderbolt.md "wikilink")控制器。\[2\]至於其餘的[匯流排控制器](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，像是[PCI-E](https://zh.wikipedia.org/wiki/PCI-E "wikilink")、[SPI等](../Page/序列周邊介面.md "wikilink")，則是屬於[晶片組的一部分](https://zh.wikipedia.org/wiki/晶片組 "wikilink")。\[3\]
 
 英特爾Uncore設計根源，來自於[北橋晶片](../Page/北桥.md "wikilink")。Uncore的設計是，將對於處理器核心有關鍵作用的功能重新組合編排，從物理上使它們更靠近核心（整合至處理器晶片上，而它們有部分原來是位於北橋上），以降低它們的存取延時。而北橋上餘下的和處理器核心並無太大關鍵作用的功能，像是PCI-E控制器或者是電源控制單元（PCU），並沒有整合至Uncore部分，而是繼續作為晶片組的一部分。\[4\]
 
-具體而言，[微架構中的uncore是被細分為數個模組單元的](../Page/微架構.md "wikilink")。uncore連接至處理器核心是通過一個叫Cache
+具體而言，[微架構](../Page/微架構.md "wikilink")中的uncore是被細分為數個模組單元的。uncore連接至處理器核心是通過一個叫Cache
 Box（CBox）的界面實現的，CBox也是[末級快取](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")（Last
 Level
 Cache，LLC）的連接界面，同時負責管理[快取一致性](https://zh.wikipedia.org/wiki/快取一致性 "wikilink")。複合的內部與外部QPI連結由物理層單元（Physical

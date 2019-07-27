@@ -148,7 +148,7 @@
         外道眾的[軍師](../Page/軍師.md "wikilink")。於本篇中因為血祭慟哭被擊敗而再次沉睡於三途河底，但因為布雷多蘭利用血祭慟哭之身體而得以再次蘇醒。
         於揭穿血祭之布雷多蘭的計劃後集結不少黑色外表的外道眾並意圖奪回三途河水，但遭到中途出場的海賊戰隊豪快者打敗。
 
-    造型混合了[福祿壽及](../Page/福祿壽.md "wikilink")[烏賊](https://zh.wikipedia.org/wiki/烏賊 "wikilink")
+    造型混合了[福祿壽](../Page/福祿壽.md "wikilink")及[烏賊](https://zh.wikipedia.org/wiki/烏賊 "wikilink")
 
       -
         由於在本篇46話中把一半的生命分給了外道眾的煙鬼，故此死後並未有巨大化。\[1\]
@@ -196,4 +196,4 @@
 [Category:2011年电影](https://zh.wikipedia.org/wiki/Category:2011年电影 "wikilink")
 [Category:2011年代特撮作品](https://zh.wikipedia.org/wiki/Category:2011年代特撮作品 "wikilink")
 
-1.  於[海賊戰隊豪快者第](../Page/海賊戰隊豪快者.md "wikilink")40集中再次重演骨之死太利被打敗的戲份
+1.  於[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")第40集中再次重演骨之死太利被打敗的戲份

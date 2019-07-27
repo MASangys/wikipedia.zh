@@ -1,5 +1,5 @@
 **Sandy
-Bridge**，或简称**SNB**（英特尔官方简称）或**SB**（中国大陆的网友或玩家一般使用的简称），是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構之](../Page/微架構.md "wikilink")[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")，2005年開始研發，是為[Intel
+Bridge**，或简称**SNB**（英特尔官方简称）或**SB**（中国大陆的网友或玩家一般使用的简称），是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")之[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")，2005年開始研發，是為[Intel
 Nehalem微架構的繼任者](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")。2009年Intel公開展示使用Sandy
 Bridge微架構的[處理器樣品](https://zh.wikipedia.org/wiki/處理器 "wikilink")，2011年1月正式發布，仍然使用[Intel
 Core系列處理器作為首發產品](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。\[1\]\[2\]Sandy
@@ -15,7 +15,7 @@ Bridge微架構的處理器樣品，並宣布於2012年中期陸續發布基於I
 [Sandy_Bridge_(architettura).svg](https://zh.wikipedia.org/wiki/File:Sandy_Bridge_\(architettura\).svg "fig:Sandy_Bridge_(architettura).svg")
 Intel Sandy
 Bridge微架構的研發主要由Intel的[以色列](../Page/以色列.md "wikilink")[分公司的研發中心負責](https://zh.wikipedia.org/wiki/分公司 "wikilink")，原先Sandy
-Bridge代號為『Gesher』（[希伯來語中意為](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")『[橋梁](https://zh.wikipedia.org/wiki/橋梁 "wikilink")』）。後來為避免讓人[聯想到以色列已解散](../Page/聯想.md "wikilink")[政黨](https://zh.wikipedia.org/wiki/政黨 "wikilink")『Gesher
+Bridge代號為『Gesher』（[希伯來語中意為](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")『[橋梁](https://zh.wikipedia.org/wiki/橋梁 "wikilink")』）。後來為避免讓人[聯想](../Page/聯想.md "wikilink")到以色列已解散[政黨](https://zh.wikipedia.org/wiki/政黨 "wikilink")『Gesher
 political
 party』，遂改為現在的代號名稱。\[5\]研發計劃組由Intel副總裁羅恩·弗里德曼領導並管理。\[6\]2009年9月在[Intel開發者論壇上](../Page/英特爾開發者論壇.md "wikilink")，Intel展示了使用Sandy
 Bridge微架構的工程樣品處理器，展示的工程樣品處理器為A1步進，並運作於2.0[GHz的](https://zh.wikipedia.org/wiki/GHz "wikilink")[時鐘頻率上](https://zh.wikipedia.org/wiki/時鐘頻率 "wikilink")。\[7\]
@@ -28,7 +28,7 @@ Nehalem微架構的相近，L1快取仍為每核心64[KB](https://zh.wikipedia.o
 ### [多執行緒](https://zh.wikipedia.org/wiki/多執行緒 "wikilink")/超執行緒
 
 部分型號的處理器（如Core i3、Core
-i7等）會繼續沿襲[超執行緒技術](../Page/超執行緒.md "wikilink")，最高可達8核心，16執行緒。
+i7等）會繼續沿襲[超執行緒](../Page/超執行緒.md "wikilink")技術，最高可達8核心，16執行緒。
 
 ### 融合[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")
 
@@ -60,12 +60,12 @@ Express控制器以及各種在處理器上的輸出輸入控制器等均以環�
 
 ### 核心
 
-對[分支預測器的設計進一步優化](../Page/分支預測器.md "wikilink")，擴大[微碼](https://zh.wikipedia.org/wiki/微碼 "wikilink")[解碼器快取](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。[電源和效能管理方面](https://zh.wikipedia.org/wiki/電源 "wikilink")[Turbo
+對[分支預測器](../Page/分支預測器.md "wikilink")的設計進一步優化，擴大[微碼](https://zh.wikipedia.org/wiki/微碼 "wikilink")[解碼器快取](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。[電源和效能管理方面](https://zh.wikipedia.org/wiki/電源 "wikilink")[Turbo
 Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink")（[渦輪加速](https://zh.wikipedia.org/wiki/渦輪 "wikilink")/[睿頻](https://zh.wikipedia.org/wiki/睿頻 "wikilink")）則升級為2.0版本。
 
 ### [指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")
 
-提升處理器運算[超越函數的效能](../Page/超越函數.md "wikilink")，優化[AES加密效能](https://zh.wikipedia.org/wiki/AES "wikilink")（[AES指令集](../Page/AES指令集.md "wikilink")）和[SHA-1切細效能](https://zh.wikipedia.org/wiki/SHA "wikilink")；新增256[位元指令集](../Page/位元.md "wikilink")[AVX指令集](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")，增強[矢量運算能力和](https://zh.wikipedia.org/wiki/矢量運算 "wikilink")[浮點運算能力](https://zh.wikipedia.org/wiki/浮點運算 "wikilink")。
+提升處理器運算[超越函數](../Page/超越函數.md "wikilink")的效能，優化[AES加密效能](https://zh.wikipedia.org/wiki/AES "wikilink")（[AES指令集](../Page/AES指令集.md "wikilink")）和[SHA-1切細效能](https://zh.wikipedia.org/wiki/SHA "wikilink")；新增256[位元](../Page/位元.md "wikilink")指令集[AVX指令集](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")，增強[矢量運算能力和](https://zh.wikipedia.org/wiki/矢量運算 "wikilink")[浮點運算能力](https://zh.wikipedia.org/wiki/浮點運算 "wikilink")。
 
 ### 晶片組、處理器插座
 
@@ -221,7 +221,7 @@ L3快取容量</p></th>
 
 ## 晶片組缺陷
 
-2011年1月31日，Intel突然發布關於6系列晶片組的召回通知，原因是[PCH晶片組上](https://zh.wikipedia.org/wiki/PCH "wikilink")[SATA控制器的瑕疵](../Page/SATA.md "wikilink")。\[12\]
+2011年1月31日，Intel突然發布關於6系列晶片組的召回通知，原因是[PCH晶片組上](https://zh.wikipedia.org/wiki/PCH "wikilink")[SATA](../Page/SATA.md "wikilink")控制器的瑕疵。\[12\]
 
 這個SATA控制器的問題，在於其SATA
 3Gbps連接埠會隨時發生故障而使[主機板失去與](https://zh.wikipedia.org/wiki/主機板 "wikilink")[硬碟機等設備的連線](https://zh.wikipedia.org/wiki/硬碟機 "wikilink")，儘管不會造成資料丟失等嚴重後果，而且SATA
@@ -239,11 +239,11 @@ Bridge微架構處理器必須使用6系列/7系列（2011年第四季度推出�
 Intel從Sandy
 Bridge微架構開始，處理器與PCH晶片組、晶片組與各系統總線之間統一使用DMI總線連接，而且還把系統總線（包括[USB](../Page/USB.md "wikilink")、SATA、[PCI](https://zh.wikipedia.org/wiki/PCI "wikilink")、[PCI-E](https://zh.wikipedia.org/wiki/PCI-E "wikilink")、CPU核心外頻、[記憶體控制器等](https://zh.wikipedia.org/wiki/記憶體 "wikilink")）的時鐘頻率統一由PCH晶片組內建的[時鐘頻率發生器](https://zh.wikipedia.org/wiki/時鐘頻率 "wikilink")（DMICLK）產生，基準為100MHz，不再外加時鐘頻率發生器CK505
 External。\[19\]在處理器的倍頻被鎖定的情況下，提升時鐘頻率只能通過提升基準時鐘頻率，在Sandy
-Bridge微架構上，由於一改變基準時鐘頻率（DMI總線時鐘頻率）就會連帶改變所有系統總線的時鐘頻率，而部分系統總線（如SATA、PCI-E）並不能承受更高的時鐘頻率，致使基準時鐘頻率的提升空間被大大限制（僅能提升5%至7%），儘管[DDR3系統記憶體的時鐘頻率倍率沒有限制](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。為照顧[超頻使用者](../Page/超頻.md "wikilink")，Intel也順勢推出了不鎖倍頻的K/X系列處理器，允許使用者可以調整出超過[渦輪加速最大倍頻的倍頻值](https://zh.wikipedia.org/wiki/渦輪加速 "wikilink")，但最高[倍頻仍限制在](https://zh.wikipedia.org/wiki/倍頻 "wikilink")57x。\[20\]而在Sandy
+Bridge微架構上，由於一改變基準時鐘頻率（DMI總線時鐘頻率）就會連帶改變所有系統總線的時鐘頻率，而部分系統總線（如SATA、PCI-E）並不能承受更高的時鐘頻率，致使基準時鐘頻率的提升空間被大大限制（僅能提升5%至7%），儘管[DDR3系統記憶體的時鐘頻率倍率沒有限制](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。為照顧[超頻](../Page/超頻.md "wikilink")使用者，Intel也順勢推出了不鎖倍頻的K/X系列處理器，允許使用者可以調整出超過[渦輪加速最大倍頻的倍頻值](https://zh.wikipedia.org/wiki/渦輪加速 "wikilink")，但最高[倍頻仍限制在](https://zh.wikipedia.org/wiki/倍頻 "wikilink")57x。\[20\]而在Sandy
 Bridge-E平台，限制相對放寬，Intel在[BIOS](../Page/BIOS.md "wikilink")/[EFI中提供了幾個基準頻率的值以供使用者選擇](https://zh.wikipedia.org/wiki/EFI "wikilink")。\[21\]
 
 在2010年的[IDF上](https://zh.wikipedia.org/wiki/IDF "wikilink")，Intel曾展示了一塊未知型號的基於Sandy
-Bridge微架構的處理器，在[風冷情況下穩定運作在](../Page/風冷.md "wikilink")4.9GHz上。\[22\]\[23\]
+Bridge微架構的處理器，在[風冷](../Page/風冷.md "wikilink")情況下穩定運作在4.9GHz上。\[22\]\[23\]
 
 ### 晶片組
 
@@ -262,7 +262,7 @@ Intel在Sandy Bridge微架構中還整合了一個名為Intel
 Insider的[DRM服務](https://zh.wikipedia.org/wiki/DRM "wikilink")，公司宣稱這是“一層額外的內容保護層”。\[24\]
 
 Intel Sandy
-Bridge微架構處理器均帶有[vPro功能](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")（需配合支持vPro的Intel芯片组），出於安全目的，該功能可以從遠端停止[PC的使用或者是從磁碟機上擦除資料](../Page/PC.md "wikilink")，這個功能在PC丟失或被盜竊的情況下不失為一個實用的功能，處理器可以透過接受[3G信號](../Page/3G.md "wikilink")、[以太網或者是](https://zh.wikipedia.org/wiki/以太網 "wikilink")[網際網路連線接收這些命令](https://zh.wikipedia.org/wiki/網際網路 "wikilink")；此外新增的AES指令集可以在此時“大展拳腳”，充分展示處理器進行AES[硬體加速](https://zh.wikipedia.org/wiki/硬體加速 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")/[解密的能力](https://zh.wikipedia.org/wiki/解密 "wikilink")，這對於[企業內部的](https://zh.wikipedia.org/wiki/企業 "wikilink")[電視會議](https://zh.wikipedia.org/wiki/電視會議 "wikilink")、[VoIP應用等方面非常實用](../Page/VoIP.md "wikilink")。\[25\]
+Bridge微架構處理器均帶有[vPro功能](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")（需配合支持vPro的Intel芯片组），出於安全目的，該功能可以從遠端停止[PC](../Page/PC.md "wikilink")的使用或者是從磁碟機上擦除資料，這個功能在PC丟失或被盜竊的情況下不失為一個實用的功能，處理器可以透過接受[3G](../Page/3G.md "wikilink")信號、[以太網或者是](https://zh.wikipedia.org/wiki/以太網 "wikilink")[網際網路連線接收這些命令](https://zh.wikipedia.org/wiki/網際網路 "wikilink")；此外新增的AES指令集可以在此時“大展拳腳”，充分展示處理器進行AES[硬體加速](https://zh.wikipedia.org/wiki/硬體加速 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")/[解密的能力](https://zh.wikipedia.org/wiki/解密 "wikilink")，這對於[企業內部的](https://zh.wikipedia.org/wiki/企業 "wikilink")[電視會議](https://zh.wikipedia.org/wiki/電視會議 "wikilink")、[VoIP](../Page/VoIP.md "wikilink")應用等方面非常實用。\[25\]
 
 ## 繼任微架構
 

@@ -1,4 +1,4 @@
-《**Sail Away**》是[香港組合](../Page/香港.md "wikilink")[Robynn &
+《**Sail Away**》是[香港](../Page/香港.md "wikilink")組合[Robynn &
 Kendy的第三張個人唱片](../Page/Robynn_&_Kendy.md "wikilink")，於2013年11月25日推出。
 
 ## 曲目資料

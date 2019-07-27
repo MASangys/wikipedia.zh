@@ -14,9 +14,9 @@ Flames Tarantula
 Survey）發現於2011年\[2\]。計畫團隊的其中一位成員是從義大利移民美國，現任職於[聖塔芭芭拉加利福尼亞大學](https://zh.wikipedia.org/wiki/聖塔芭芭拉加利福尼亞大學 "wikilink")[凱維里理論物理研究所的](https://zh.wikipedia.org/wiki/凱維里理論物理研究所 "wikilink")[马特奥·坎迪罗](https://zh.wikipedia.org/wiki/马特奥·坎迪罗 "wikilink")（Matteo
 Cantiello）\[3\]。2007年他和其他合作者預測了性質相當類似VFTS
 102的恆星存在\[4\]。在理論模型中，如此高速的自轉是因為聯星系統中來自另一顆恆星的物質轉移造成。之後其中一顆恆星被認為發生了超新星爆炸，另一顆自轉被加速的恆星因此被高速拋出，這樣狀況下的恆星被稱為速逃星，而VFTS
-102的[自行徑向速度高達每秒](../Page/自行.md "wikilink")228公里。VFTS
+102的[自行](../Page/自行.md "wikilink")徑向速度高達每秒228公里。VFTS
 102的觀測資料非常好地符合理論模型，並且是在超新星遺跡和[脈衝星](https://zh.wikipedia.org/wiki/脈衝星 "wikilink")[PSR
-J0537-6910附近發現的高速自轉速逃星](../Page/PSR_J0537-6910.md "wikilink")。另一個可能狀況則是從星團[R136的中心被拋出](../Page/R136.md "wikilink")。
+J0537-6910附近發現的高速自轉速逃星](../Page/PSR_J0537-6910.md "wikilink")。另一個可能狀況則是從星團[R136](../Page/R136.md "wikilink")的中心被拋出。
 
 ## 參考資料
 

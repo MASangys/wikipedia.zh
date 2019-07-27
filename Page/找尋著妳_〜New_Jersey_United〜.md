@@ -1,5 +1,5 @@
 「**找尋著妳 〜New Jersey
-United〜**」（）是[化學超男子第](../Page/化學超男子.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2002年5月9日發售。
+United〜**」（）是[化學超男子](../Page/化學超男子.md "wikilink")第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2002年5月9日發售。
 
 ## 解説
 
@@ -20,7 +20,7 @@ DISC 1 / CD
 1.  **找尋著妳 〜New Jersey United〜**
     (作詞・作曲:KAWAGUCHI DAISUKE)
       -
-        [富士電視台日劇](../Page/富士電視台.md "wikilink")「婚禮仲介人」主題曲
+        [富士電視台](../Page/富士電視台.md "wikilink")日劇「婚禮仲介人」主題曲
 2.  **Running Away**
     (作詞:TATSUTANO JUN　作曲:[SAGISU
     SHIRO](https://zh.wikipedia.org/wiki/鷺巣詩郎 "wikilink"))

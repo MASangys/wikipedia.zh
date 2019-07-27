@@ -1,6 +1,6 @@
 **PenTile**是[三星的一個商標](../Page/三星電子.md "wikilink")，指稱一系列受專利保護，用於[電子顯示器上的](https://zh.wikipedia.org/wiki/電子顯示器 "wikilink")[子像素排列方式](https://zh.wikipedia.org/wiki/子像素 "wikilink")。
 
-這些被特別設計成連同內嵌在顯示驅動中的[子像素渲染專有](https://zh.wikipedia.org/wiki/子像素渲染 "wikilink")[算法一同運作](../Page/算法.md "wikilink")，以容許和傳統的[RGB](https://zh.wikipedia.org/wiki/RGB "wikilink")（紅綠藍）面版達成[隨插即用的兼容性](../Page/隨插即用.md "wikilink")。
+這些被特別設計成連同內嵌在顯示驅動中的[子像素渲染專有](https://zh.wikipedia.org/wiki/子像素渲染 "wikilink")[算法](../Page/算法.md "wikilink")一同運作，以容許和傳統的[RGB](https://zh.wikipedia.org/wiki/RGB "wikilink")（紅綠藍）面版達成[隨插即用](../Page/隨插即用.md "wikilink")的兼容性。
 
 ## 歷史
 
@@ -13,7 +13,7 @@ PenTile是由Candice H. Brown Elliott所發明的。
 
 ## PenTile RGBG
 
-[Nexus_one_screen_microscope.jpg](https://zh.wikipedia.org/wiki/File:Nexus_one_screen_microscope.jpg "fig:Nexus_one_screen_microscope.jpg")智能手機上用了PenTile排列RGBG系統的[AMOLED顯示屏的放大畫像](../Page/AMOLED.md "wikilink")。\]\]
+[Nexus_one_screen_microscope.jpg](https://zh.wikipedia.org/wiki/File:Nexus_one_screen_microscope.jpg "fig:Nexus_one_screen_microscope.jpg")智能手機上用了PenTile排列RGBG系統的[AMOLED](../Page/AMOLED.md "wikilink")顯示屏的放大畫像。\]\]
 
 ### 使用這技術的裝置
 
@@ -194,7 +194,7 @@ PenTile是由Candice H. Brown Elliott所發明的。
 ## PenTile RGBW
 
 用在LCD上的PenTile
-RGBW技術在傳統的紅、綠、藍子像素外，額外多加一個子像素，該子像素沒有顏色過濾物料而純粹為了讓[背光通過而存在](../Page/背光.md "wikilink")\[9\]，所以就是[白色](../Page/白色.md "wikilink")——W。其存在讓屏幕可以用同樣電力來顯示更光亮的畫像或在顯示同等亮度的畫像時耗用更少能源。\[10\]
+RGBW技術在傳統的紅、綠、藍子像素外，額外多加一個子像素，該子像素沒有顏色過濾物料而純粹為了讓[背光](../Page/背光.md "wikilink")通過而存在\[9\]，所以就是[白色](../Page/白色.md "wikilink")——W。其存在讓屏幕可以用同樣電力來顯示更光亮的畫像或在顯示同等亮度的畫像時耗用更少能源。\[10\]
 
 PenTile
 RGBW排列用了每一個紅、綠、藍、白子像素來向人類眼睛內感受紅色和感受綠色的[視錐細胞傳遞高解柝度的](https://zh.wikipedia.org/wiki/視錐細胞 "wikilink")[亮度資訊](https://zh.wikipedia.org/wiki/亮度 "wikilink")，同時把所有彩色子像素的效果併合來向全部三種視錐細胞傳遞較低解柝度的[彩度](https://zh.wikipedia.org/wiki/彩度 "wikilink")（顏色）資訊。

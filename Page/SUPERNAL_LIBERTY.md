@@ -1,5 +1,5 @@
 《**SUPERNAL
-LIBERTY**》是[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈第十張個人專輯](../Page/水樹奈奈.md "wikilink")，於2014年4月16日由[King
+LIBERTY**》是[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第十張個人專輯，於2014年4月16日由[King
 Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 概要
@@ -7,7 +7,7 @@ Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 此專輯是繼前作《[ROCKBOUND
 NEIGHBORS](../Page/ROCKBOUND_NEIGHBORS.md "wikilink")》1年又4個月後的作品。本專輯以CD+Blu-ray、CD+DVD和CD共3種形態發售，而Blu-ray和DVD版則另外包含了寫真和特典項目、以及紀錄片《》。
 
-2014年4月15日，專輯初登場獲得[Oricon公信榜第一名](../Page/Oricon公信榜.md "wikilink")，是水樹連續第三張專輯獲得此位置，並連續5日保持第一名。同年4月28日的週榜以初週7万6000張的銷量自《[ULTIMATE
+2014年4月15日，專輯初登場獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第一名，是水樹連續第三張專輯獲得此位置，並連續5日保持第一名。同年4月28日的週榜以初週7万6000張的銷量自《[ULTIMATE
 DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")》以来4年又10個月再次獲得週榜第一名\[1\]。
 
 ## 收錄曲
@@ -25,7 +25,7 @@ DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")》以来4年又10個月再次�
       -
         作詞、作曲：水樹奈奈、編曲：藤間仁（Elements Garden）
     <!-- end list -->
-      - [TBS系電視節目](../Page/TBS.md "wikilink")《[COUNT DOWN
+      - [TBS](../Page/TBS.md "wikilink")系電視節目《[COUNT DOWN
         TV](../Page/COUNT_DOWN_TV.md "wikilink")》4、5月開場曲
 4.  ****
       -
@@ -67,7 +67,7 @@ DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")》以来4年又10個月再次�
       -
         作詞：前山田健一、作曲：[伊藤賢治](../Page/伊藤賢治.md "wikilink")、前山田健一、編曲：伊藤賢治
     <!-- end list -->
-      - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")/[Android版](../Page/Android.md "wikilink")「乖離性百萬亞瑟王」主題歌
+      - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")/[Android](../Page/Android.md "wikilink")版「乖離性百萬亞瑟王」主題歌
 14. ****
       -
         作詞、作曲、編曲：矢吹俊郎

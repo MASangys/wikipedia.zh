@@ -1,5 +1,5 @@
 《**Silver
-Moon**》是[挪威流行组合](../Page/挪威.md "wikilink")[Donkeyboy的第二張录音室专辑](../Page/Donkeyboy.md "wikilink")，于2012年3月2日发售，唱片公司為[Warner
+Moon**》是[挪威](../Page/挪威.md "wikilink")流行组合[Donkeyboy](../Page/Donkeyboy.md "wikilink")的第二張录音室专辑，于2012年3月2日发售，唱片公司為[Warner
 Music](https://zh.wikipedia.org/wiki/Warner_Music_Group "wikilink")。此专辑在[Norwegian
 Albums
 Chart最高排名第二](https://zh.wikipedia.org/wiki/VG-lista "wikilink")，在[Danish

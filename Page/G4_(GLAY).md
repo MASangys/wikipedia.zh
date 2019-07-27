@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")33張單曲，也是第一張四A面單曲。
+[GLAY](../Page/GLAY.md "wikilink")的第33張單曲，也是第一張四A面單曲。
 
 ## 簡介
 
@@ -17,7 +17,7 @@
         和2004年「[Blue Jean](../Page/Blue_Jean.md "wikilink")」同時期製作的歌曲。
 3.  **戀**
       -
-        MV由[紀里谷和明擔任導演](../Page/紀里谷和明.md "wikilink")，描寫同性戀和背叛愛情。在電視節目『[音樂戰士
+        MV由[紀里谷和明](../Page/紀里谷和明.md "wikilink")擔任導演，描寫同性戀和背叛愛情。在電視節目『[音樂戰士
         MUSIC
         FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")』、『[我們的音樂](https://zh.wikipedia.org/wiki/我們的音樂 "wikilink")』中演出。
 4.  **LAYLA**

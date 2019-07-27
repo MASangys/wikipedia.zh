@@ -1,4 +1,4 @@
-《**Truth**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第十張單曲](../Page/CNBLUE.md "wikilink")，由[鄭容和](../Page/鄭容和.md "wikilink")、[Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink")、[李相浩](https://zh.wikipedia.org/wiki/李相浩 "wikilink")（）作曲、容和與[miwa\*作詞](https://zh.wikipedia.org/wiki/miwa* "wikilink")，並在2014年4月23日以四個不同版本推出。這也是他們第七張由[華納唱片
+《**Truth**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第十張單曲，由[鄭容和](../Page/鄭容和.md "wikilink")、[Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink")、[李相浩](https://zh.wikipedia.org/wiki/李相浩 "wikilink")（）作曲、容和與[miwa\*作詞](https://zh.wikipedia.org/wiki/miwa* "wikilink")，並在2014年4月23日以四個不同版本推出。這也是他們第七張由[華納唱片
 (日本)發行的單曲](../Page/日本華納音樂.md "wikilink")\[1\]。
 
 ## 背景
@@ -11,7 +11,7 @@
 
   - 初回限定盤A：這版本包括了一片收錄了《Still》的純音樂版本的單曲CD、一片收錄《Zepp Tour 2013 ～Lady～
     @Zepp
-    Tokyo》音樂會片段及《Truth》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[5\]。
+    Tokyo》音樂會片段及《Truth》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - BOICE限定盤：這版本包括了一片收錄了《Truth》的純音樂版本的單曲CD、一片收錄《Still》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")，並只限CNBLUE官方歌迷會「Boice」日本會員購買\[8\]。
+  - BOICE限定盤：這版本包括了一片收錄了《Truth》的純音樂版本的單曲CD、一片收錄《Still》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD，並只限CNBLUE官方歌迷會「Boice」日本會員購買\[8\]。
 
 ## 曲目
 
@@ -32,7 +32,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------ | ---- |
 | 單曲日榜\[9\]                                | 3    | 27,372 | 37,830 | 6星期  |
 | 單曲週榜                                     | 4    | 35,602 |        |      |

@@ -1,5 +1,5 @@
 **室女座HW**（**HW Virginis**，縮寫為 **HW
-Vir**），是一個[室女座內的](../Page/室女座.md "wikilink")[食雙星系統](https://zh.wikipedia.org/wiki/食雙星 "wikilink")（[大陵五型變星](https://zh.wikipedia.org/wiki/大陵五型變星 "wikilink")），距離地球約590光年（根據恆星狀態和星等，[依巴谷衛星的](https://zh.wikipedia.org/wiki/依巴谷衛星 "wikilink")[视差量測誤差過大而不能使用](../Page/视差.md "wikilink")）\[1\]。該系統是由一顆[B型次矮星和一顆](../Page/B型次矮星.md "wikilink")[紅矮星組成](../Page/紅矮星.md "wikilink")。兩顆成員星互繞週期是0.116795日\[2\]。
+Vir**），是一個[室女座](../Page/室女座.md "wikilink")內的[食雙星系統](https://zh.wikipedia.org/wiki/食雙星 "wikilink")（[大陵五型變星](https://zh.wikipedia.org/wiki/大陵五型變星 "wikilink")），距離地球約590光年（根據恆星狀態和星等，[依巴谷衛星的](https://zh.wikipedia.org/wiki/依巴谷衛星 "wikilink")[视差](../Page/视差.md "wikilink")量測誤差過大而不能使用）\[1\]。該系統是由一顆[B型次矮星](../Page/B型次矮星.md "wikilink")和一顆[紅矮星](../Page/紅矮星.md "wikilink")組成。兩顆成員星互繞週期是0.116795日\[2\]。
 
 ## 行星系統
 

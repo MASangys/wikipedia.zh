@@ -1,5 +1,5 @@
 **麒麟座T**，又名**BD+07 1273**，**HD 44990**、**SAO 113845**、**HR
-2310**，是[麒麟座的一颗恒星](../Page/麒麟座.md "wikilink")\[1\]\[2\]，视星等为5.98，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")203.63，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-2.55，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+2310**，是[麒麟座](../Page/麒麟座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.98，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")203.63，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-2.55，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

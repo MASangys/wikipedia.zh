@@ -1,5 +1,5 @@
 **Foreach循环**（Foreach
-loop）是[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[编程语言中的一种](../Page/编程语言.md "wikilink")[控制流程语句](../Page/控制流程.md "wikilink")，通常用来循环遍历[数组或](../Page/数组.md "wikilink")[集合中的元素](https://zh.wikipedia.org/wiki/集合 "wikilink")。
+loop）是[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[编程语言](../Page/编程语言.md "wikilink")中的一种[控制流程](../Page/控制流程.md "wikilink")语句，通常用来循环遍历[数组](../Page/数组.md "wikilink")或[集合中的元素](https://zh.wikipedia.org/wiki/集合 "wikilink")。
 
 ## 程序示例
 
@@ -51,7 +51,7 @@ using (var iterator = list.GetEnumerator()) // iterator的类型为IEnumerator<T
 
 ### Java
 
-[Java语言从JDK](../Page/Java.md "wikilink") 1.5.0开始引入foreach循环。\[2\]
+[Java](../Page/Java.md "wikilink")语言从JDK 1.5.0开始引入foreach循环。\[2\]
 
 以下代码用于循环打印myArray数组中的每个元素，java中的foreach循环使用**for**[关键字](https://zh.wikipedia.org/wiki/关键字 "wikilink")，而非**foreach**。
 
@@ -80,7 +80,7 @@ for (int x : myArray){
 }
 ```
 
-同時也有C++[求值策略的功能](../Page/求值策略.md "wikilink")，可以傳參考。
+同時也有C++[求值策略](../Page/求值策略.md "wikilink")的功能，可以傳參考。
 
 ``` C++
 for (int& x : myArray){

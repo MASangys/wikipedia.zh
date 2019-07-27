@@ -27,6 +27,7 @@ Switch版）、偷天兔（替代瑪利歐）。此遊戲中路易吉可以像�
 [Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink")
 [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
 [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink")
+[Category:2.5D畫面電子遊戲](https://zh.wikipedia.org/wiki/Category:2.5D畫面電子遊戲 "wikilink")
 [Category:瑪利歐設定遊戲](https://zh.wikipedia.org/wiki/Category:瑪利歐設定遊戲 "wikilink")
 
 1.

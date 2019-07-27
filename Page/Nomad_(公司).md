@@ -3,7 +3,7 @@
 ## 概要、沿革
 
 2003年7月，由[Studio
-Pierrot製作出身](../Page/Studio_Pierrot.md "wikilink")、擔任[MADHOUSE製片人一職的小野達矢設立了Nomad公司](../Page/MADHOUSE.md "wikilink")。隔年開始獨立製作電視動畫《[薔薇少女](../Page/薔薇少女.md "wikilink")》。現在在官方網站，Nomad的工作人員網絡廣播『**Nomad
+Pierrot製作出身](../Page/Studio_Pierrot.md "wikilink")、擔任[MADHOUSE](../Page/MADHOUSE.md "wikilink")製片人一職的小野達矢設立了Nomad公司。隔年開始獨立製作電視動畫《[薔薇少女](../Page/薔薇少女.md "wikilink")》。現在在官方網站，Nomad的工作人員網絡廣播『**Nomad
 no radio**』已被配信。
 
 ## 作品履歷

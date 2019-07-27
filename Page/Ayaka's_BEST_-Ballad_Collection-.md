@@ -1,9 +1,9 @@
 《**ayaka's BEST -Ballad
-Collection-**》為[日本女歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2012年9月26日發行的第二張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
+Collection-**》為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Page/絢香.md "wikilink")於2012年9月26日發行的第二張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
 
 ## 解說
 
-  - 本作為[絢香與](../Page/絢香.md "wikilink")[日本華納音樂解約後](../Page/日本華納音樂.md "wikilink")，華納方面發行的「Ballad」企劃精選。
+  - 本作為[絢香](../Page/絢香.md "wikilink")與[日本華納音樂](../Page/日本華納音樂.md "wikilink")解約後，華納方面發行的「Ballad」企劃精選。
 
 ## 發行版本
 

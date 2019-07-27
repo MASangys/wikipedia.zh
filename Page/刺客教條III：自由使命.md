@@ -1,12 +1,12 @@
-是一款由[育碧軟件開發並發行的一款](https://zh.wikipedia.org/wiki/育碧軟件 "wikilink")[第三人稱歷史奇幻類遊戲](https://zh.wikipedia.org/wiki/第三人稱遊戲 "wikilink")，為[刺客教條系列作品](../Page/刺客教條系列.md "wikilink")。本作於2012年[E3遊戲展索尼發佈會上首次公布](https://zh.wikipedia.org/wiki/E3遊戲展 "wikilink")，屬[PlayStation
+是一款由[育碧軟件開發並發行的一款](https://zh.wikipedia.org/wiki/育碧軟件 "wikilink")[第三人稱歷史奇幻類遊戲](https://zh.wikipedia.org/wiki/第三人稱遊戲 "wikilink")，為[刺客教條系列](../Page/刺客教條系列.md "wikilink")作品。本作於2012年[E3遊戲展索尼發佈會上首次公布](https://zh.wikipedia.org/wiki/E3遊戲展 "wikilink")，屬[PlayStation
 Vita獨佔遊戲](../Page/PlayStation_Vita.md "wikilink")。屬於《[刺客教條III](https://zh.wikipedia.org/wiki/刺客教條III "wikilink")》的衍生作品，具連動關係\[1\]。作品其後於2014發佈HD高清重製版，[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360以及](../Page/Xbox_360.md "wikilink")[Microsoft
 Windows玩家可分別透過](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation
 Network](../Page/PlayStation_Network.md "wikilink")、[Xbox Live
-Arcade和](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[Steam購入](../Page/Steam.md "wikilink")。\[2\]\[3\]\[4\]
+Arcade和](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[Steam](../Page/Steam.md "wikilink")購入。\[2\]\[3\]\[4\]
 
-遊戲時間軸設定在[英法美洲殖民地戰爭的](https://zh.wikipedia.org/wiki/法國－印第安人戰爭 "wikilink")1765年至[美國獨立戰爭中段的](../Page/美國獨立戰爭.md "wikilink")1780年。西班牙從戰敗國法國掠得路易斯安那地區，而該地已有大量法國移民在住。本作主角，法非混血後裔刺客艾芙琳·德·格朗普雷（），為刺客教條系列作品首次採用玩家可操作的女性角色。她將於1759年加入紐奧良的刺客教團，潛伏於陷入危機的[新奧爾良為地區自由而奮戰](https://zh.wikipedia.org/wiki/新奧爾良 "wikilink")。\[5\]\[6\]\[7\]
+遊戲時間軸設定在[英法美洲殖民地戰爭的](https://zh.wikipedia.org/wiki/法國－印第安人戰爭 "wikilink")1765年至[美國獨立戰爭](../Page/美國獨立戰爭.md "wikilink")中段的1780年。西班牙從戰敗國法國掠得路易斯安那地區，而該地已有大量法國移民在住。本作主角，法非混血後裔刺客艾芙琳·德·格朗普雷（），為刺客教條系列作品首次採用玩家可操作的女性角色。她將於1759年加入紐奧良的刺客教團，潛伏於陷入危機的[新奧爾良為地區自由而奮戰](https://zh.wikipedia.org/wiki/新奧爾良 "wikilink")。\[5\]\[6\]\[7\]
 
 ## 背景設定
 
@@ -30,7 +30,7 @@ Creed III: Lady Liberty*）的名義推出。\[9\]
 360以及](../Page/Xbox_360.md "wikilink")[Microsoft
 Windows玩家可分別透過](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation
 Network](../Page/PlayStation_Network.md "wikilink")、[Xbox Live
-Arcade和](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[Steam取得遊戲](../Page/Steam.md "wikilink")。高清重製版除了將遊戲界面、音效、AI和臉部表情提升之外，還增加了全新任務以及移除於PSVita觸控螢幕專用的任務。\[10\]PS3版本於2014年1月14日在北美上市、1月15日在歐洲上市。Xbox
+Arcade和](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[Steam](../Page/Steam.md "wikilink")取得遊戲。高清重製版除了將遊戲界面、音效、AI和臉部表情提升之外，還增加了全新任務以及移除於PSVita觸控螢幕專用的任務。\[10\]PS3版本於2014年1月14日在北美上市、1月15日在歐洲上市。Xbox
 360及Microsoft Windows則同於2014年1月15日全球同步上市。\[11\]\[12\]
 
 ## 參考來源

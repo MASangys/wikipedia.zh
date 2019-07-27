@@ -4,7 +4,7 @@ Portable](../Page/PlayStation_Portable.md "wikilink")。
 ## 概述
 
 《魔物獵人攜帶版2nd》是魔物獵人系列中的第二個攜帶版遊戲，其設定部份基於[PlayStation
-2前作](../Page/PlayStation_2.md "wikilink")《[魔物獵人2](../Page/魔物獵人2.md "wikilink")》。因為《魔物獵人2》從沒有在日本國外發售，所以[卡普空才製作此遊戲供日本國外玩家遊玩](../Page/卡普空.md "wikilink")。\[1\]
+2前作](../Page/PlayStation_2.md "wikilink")《[魔物獵人2](../Page/魔物獵人2.md "wikilink")》。因為《魔物獵人2》從沒有在日本國外發售，所以[卡普空](../Page/卡普空.md "wikilink")才製作此遊戲供日本國外玩家遊玩。\[1\]
 
 《魔物獵人攜帶版2nd》並非《魔物獵人2》的PlayStation
 Portable移植版，而是魔物獵人系列中的另一個遊戲。此遊戲新增了不少元素，並刪除了部份《魔物獵人2》的元素，以配合其平台PlayStation
@@ -25,7 +25,7 @@ G》是2008年其中一個銷量最多的遊戲，其於2008年共售出了2,452
 白金](https://zh.wikipedia.org/wiki/神奇寶貝_鑽石·珍珠 "wikilink")》和《[Wii
 Fit](../Page/Wii_Fit.md "wikilink")》。\[9\]
 
-《魔物獵人攜帶版2nd》的評價好壞參差。[Metacritic給予此遊戲](../Page/Metacritic.md "wikilink")72分。\[10\][IGN得出此遊戲的分數為人](../Page/IGN.md "wikilink")8.3分，稱讚其動畫、怪物設計、背景音樂、配音、以及任務系統，但卻指出其控制存在問題。\[11\]另一方面，[GameSpot卻僅給予此遊戲](../Page/GameSpot.md "wikilink")5.0分。GameSpot的喬·多德森指出「遊戲的戰鬥很糟糕，打造裝備更糟糕，且遊戲載入似乎永遠不會結束」。\[12\]
+《魔物獵人攜帶版2nd》的評價好壞參差。[Metacritic](../Page/Metacritic.md "wikilink")給予此遊戲72分。\[10\][IGN](../Page/IGN.md "wikilink")得出此遊戲的分數為人8.3分，稱讚其動畫、怪物設計、背景音樂、配音、以及任務系統，但卻指出其控制存在問題。\[11\]另一方面，[GameSpot](../Page/GameSpot.md "wikilink")卻僅給予此遊戲5.0分。GameSpot的喬·多德森指出「遊戲的戰鬥很糟糕，打造裝備更糟糕，且遊戲載入似乎永遠不會結束」。\[12\]
 
 ## 參考文獻
 

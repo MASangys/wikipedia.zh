@@ -1,7 +1,7 @@
-**GNU汇编器**（），是由[GNU计划所使用的](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")[汇编器](https://zh.wikipedia.org/wiki/汇编器 "wikilink")，一般称为**gas**，或依其可执行文件名称简称为**as**。它是[GCC的默认](../Page/GCC.md "wikilink")[后端](https://zh.wikipedia.org/wiki/后端 "wikilink")。它用于汇编[GNU操作系统](../Page/GNU.md "wikilink")、[Linux内核以及其他各种软件](../Page/Linux内核.md "wikilink")。它是[GNU
+**GNU汇编器**（），是由[GNU计划所使用的](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")[汇编器](https://zh.wikipedia.org/wiki/汇编器 "wikilink")，一般称为**gas**，或依其可执行文件名称简称为**as**。它是[GCC](../Page/GCC.md "wikilink")的默认[后端](https://zh.wikipedia.org/wiki/后端 "wikilink")。它用于汇编[GNU](../Page/GNU.md "wikilink")操作系统、[Linux内核](../Page/Linux内核.md "wikilink")以及其他各种软件。它是[GNU
 Binutils包的一部分](../Page/GNU_Binutils.md "wikilink")。
 
-GAS的[可执行文件被命名为](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[`as`](https://zh.wikipedia.org/wiki/As_\(Unix\) "wikilink")，[Unix汇编器的标准名称](https://zh.wikipedia.org/wiki/Unix "wikilink")。GAS是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以运行或为不同的[计算机系统结构编译](../Page/计算机系统结构.md "wikilink")。GAS依据[GNU通用公共许可证第三版发布](../Page/GNU通用公共许可证.md "wikilink")，为[自由软件](../Page/自由软件.md "wikilink")。
+GAS的[可执行文件被命名为](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[`as`](https://zh.wikipedia.org/wiki/As_\(Unix\) "wikilink")，[Unix汇编器的标准名称](https://zh.wikipedia.org/wiki/Unix "wikilink")。GAS是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以运行或为不同的[计算机系统结构](../Page/计算机系统结构.md "wikilink")编译。GAS依据[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")第三版发布，为[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 通用语法
 
@@ -33,7 +33,7 @@ GAS支持两种注释风格：\[2\]
     V850，m32r，M880x0。
   - [;用于以下平台中](https://zh.wikipedia.org/wiki/分号 "wikilink")：AMD 29k
     family，ARC，H8/300 family，HPPA,PDP-11，picoJava，Motorola，PowerPC。
-  - [@用于ARM平台](../Page/@.md "wikilink")。
+  - [@](../Page/@.md "wikilink")用于ARM平台。
   - [{{\!}}在](https://zh.wikipedia.org/wiki/竖线 "wikilink")680x0平台汇编时用来表示。
   - [\!用于Renesas](../Page/叹号.md "wikilink") SH平台。
 

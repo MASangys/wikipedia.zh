@@ -1,5 +1,5 @@
 《**BREAK
-THROUGH**》是日本摇滚组合[B'z的的第三张录音室专辑](../Page/B'z.md "wikilink")。1990年2月21日由[BMG
+THROUGH**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第三张录音室专辑。1990年2月21日由[BMG
 VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 最終銷量約72.4萬張。

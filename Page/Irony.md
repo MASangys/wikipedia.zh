@@ -1,11 +1,11 @@
-《**irony**》是[ClariS的第](../Page/ClariS.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，于2010年10月20日由[SME
+《**irony**》是[ClariS](../Page/ClariS.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，于2010年10月20日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
 是ClariS首張發售的作品，分為初回限定盤、期間生産限定盤、通常盤3種發售。
 
-标題曲「irony」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[我的妹妹哪有這麼可愛！的](../Page/我的妹妹哪有這麼可愛！.md "wikilink")[主題曲](../Page/主題曲.md "wikilink")。
+标題曲「irony」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")的[主題曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲
 

@@ -18,7 +18,7 @@ stat3label = [助攻](../Page/助攻.md "wikilink") | stat3value = 320（每場�
 | letter = e | bbr = engliaj01 | profile = | HOF = | HOF_player = |
 HOF_coach = }}
 
-**艾伯特·杰伊·英格利希**（，），[美国](../Page/美国.md "wikilink")[NBA联盟前职业](../Page/NBA.md "wikilink")[篮球运动员](../Page/篮球.md "wikilink")。他在1990年的[NBA选秀中第](../Page/NBA选秀.md "wikilink")2轮第10顺位被[华盛顿子弹选中](https://zh.wikipedia.org/wiki/华盛顿子弹 "wikilink")。{{\#tag:ref||name=nbastat}}
+**艾伯特·杰伊·英格利希**（，），[美国](../Page/美国.md "wikilink")[NBA](../Page/NBA.md "wikilink")联盟前职业[篮球](../Page/篮球.md "wikilink")运动员。他在1990年的[NBA选秀](../Page/NBA选秀.md "wikilink")中第2轮第10顺位被[华盛顿子弹选中](https://zh.wikipedia.org/wiki/华盛顿子弹 "wikilink")。{{\#tag:ref||name=nbastat}}
 
 ## 参考资料
 

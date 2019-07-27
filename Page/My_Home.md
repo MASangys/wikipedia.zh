@@ -1,5 +1,5 @@
 《**My
-Home**》（）是[日本男子組合](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")17張單曲，於2011年5月11日由[Imperial
+Home**》（）是[日本](../Page/日本.md "wikilink")男子組合[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第17張單曲，於2011年5月11日由[Imperial
 Records發行](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要

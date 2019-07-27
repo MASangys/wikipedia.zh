@@ -1,9 +1,15 @@
-**約翰·約翰斯敦·百德新**，[JP](../Page/太平紳士.md "wikilink")（，），[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[香港](../Page/香港.md "wikilink")[企業家](https://zh.wikipedia.org/wiki/企業家 "wikilink")，1921年至1945年任[怡和洋行](../Page/怡和洋行.md "wikilink")[大班](../Page/大班.md "wikilink")，[二戰前嘗任香港](https://zh.wikipedia.org/wiki/二戰 "wikilink")[行政](https://zh.wikipedia.org/wiki/行政局 "wikilink")[立法兩局非官守議員](https://zh.wikipedia.org/wiki/立法局 "wikilink")。
+**約翰·約翰斯敦·百德新**，[JP](../Page/太平紳士.md "wikilink")（，），[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[香港](../Page/香港.md "wikilink")[企業家](https://zh.wikipedia.org/wiki/企業家 "wikilink")。
+
+## 生平
 
 百德新的家族與怡和洋行關係密切，他的父親[威廉·百德新](https://zh.wikipedia.org/wiki/威廉·百德新 "wikilink")（William
-Paterson）也曾在1875年至1887年擔任怡和洋行合夥人，位於[銅鑼灣的](../Page/銅鑼灣.md "wikilink")[百德新街即以百德新家族命名](../Page/百德新街.md "wikilink")。百德新生於[蘇格蘭](../Page/蘇格蘭.md "wikilink")[鄧弗里斯](../Page/鄧弗里斯.md "wikilink")，早年受教於[威爾特郡](../Page/威爾特郡.md "wikilink")[馬爾博羅書院](https://zh.wikipedia.org/wiki/馬爾博羅書院 "wikilink")，曾參與[第一次世界大戰](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，後來港發展，除了擔任怡和洋行大班，也曾任[香港上海匯豐銀行主席和](https://zh.wikipedia.org/wiki/香港上海匯豐銀行 "wikilink")[印華輪船公司主席等職](https://zh.wikipedia.org/wiki/印華輪船公司 "wikilink")。
+Paterson）也曾在1875年至1887年擔任怡和洋行合夥人，位於[銅鑼灣](../Page/銅鑼灣.md "wikilink")的[百德新街](../Page/百德新街.md "wikilink")即以百德新家族命名。
 
-百德新在1930年5月9日受任為非官守[太平紳士](../Page/太平紳士.md "wikilink")，1930年6月至1941年12月任立法局非官守議員，1936年4月至1946年4月任行政局非官守議員。百德新曾參與[香港保衛戰](../Page/香港保衛戰.md "wikilink")，1941年12月[香港淪陷後遭囚於](https://zh.wikipedia.org/wiki/香港日治時期 "wikilink")[赤柱拘留營](https://zh.wikipedia.org/wiki/赤柱拘留營 "wikilink")。1945年[香港重光後始獲釋放](../Page/香港重光.md "wikilink")，並與另一怡和大班[D·L·紐璧堅設法重整香港業務](https://zh.wikipedia.org/wiki/D·L·紐璧堅 "wikilink")。香港在1946年恢復文治政府後不久，百德新即從香港退休，並與[美國籍妻子移居](https://zh.wikipedia.org/wiki/美國籍 "wikilink")[肯雅](https://zh.wikipedia.org/wiki/肯雅 "wikilink")，1971年於[內羅畢逝世](https://zh.wikipedia.org/wiki/內羅畢 "wikilink")，終年84歲。
+百德新生於[蘇格蘭](../Page/蘇格蘭.md "wikilink")[鄧弗里斯](../Page/鄧弗里斯.md "wikilink")，早年受教於[威爾特郡](../Page/威爾特郡.md "wikilink")[馬爾博羅書院](https://zh.wikipedia.org/wiki/馬爾博羅書院 "wikilink")，曾參與[第一次世界大戰](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，後來港發展，除了擔任怡和洋行大班，也曾任[香港上海匯豐銀行主席和](https://zh.wikipedia.org/wiki/香港上海匯豐銀行 "wikilink")[印華輪船公司主席等職](https://zh.wikipedia.org/wiki/印華輪船公司 "wikilink")。1921年至1945年任[怡和洋行](../Page/怡和洋行.md "wikilink")[大班](../Page/大班.md "wikilink")，[二戰前嘗任香港](https://zh.wikipedia.org/wiki/二戰 "wikilink")[行政](https://zh.wikipedia.org/wiki/行政局 "wikilink")[立法兩局非官守議員](https://zh.wikipedia.org/wiki/立法局 "wikilink")。
+
+百德新在1930年5月9日受任為非官守[太平紳士](../Page/太平紳士.md "wikilink")，1930年6月至1941年12月任立法局非官守議員，1936年4月至1946年4月任行政局非官守議員。百德新曾參與[香港保衛戰](../Page/香港保衛戰.md "wikilink")，1941年12月[香港淪陷後遭囚於](https://zh.wikipedia.org/wiki/香港日治時期 "wikilink")[赤柱拘留營](https://zh.wikipedia.org/wiki/赤柱拘留營 "wikilink")。1945年[香港重光](../Page/香港重光.md "wikilink")後始獲釋放，並與另一怡和大班[D·L·紐璧堅設法重整香港業務](https://zh.wikipedia.org/wiki/D·L·紐璧堅 "wikilink")。香港在1946年恢復文治政府後不久，百德新即從香港退休，並與[美國籍妻子移居](https://zh.wikipedia.org/wiki/美國籍 "wikilink")[肯雅](https://zh.wikipedia.org/wiki/肯雅 "wikilink")。
+
+1971年於[內羅畢逝世](https://zh.wikipedia.org/wiki/內羅畢 "wikilink")，終年84歲。
 
 ## 相關條目
 
@@ -35,4 +41,5 @@ Paterson）也曾在1875年至1887年擔任怡和洋行合夥人，位於[銅鑼
 [Category:香港商人](https://zh.wikipedia.org/wiki/Category:香港商人 "wikilink")
 [Category:英國企業家](https://zh.wikipedia.org/wiki/Category:英國企業家 "wikilink")
 [Category:太平紳士](https://zh.wikipedia.org/wiki/Category:太平紳士 "wikilink")
-[Category:怡和](https://zh.wikipedia.org/wiki/Category:怡和 "wikilink")
+[Category:怡和人物](https://zh.wikipedia.org/wiki/Category:怡和人物 "wikilink")
+[Category:赤柱拘留营囚犯](https://zh.wikipedia.org/wiki/Category:赤柱拘留营囚犯 "wikilink")

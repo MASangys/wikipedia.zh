@@ -1,4 +1,4 @@
-《**Shadow**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基第四張個人專輯](../Page/李昇基.md "wikilink")，於2009年9月17日由Hook
+《**Shadow**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基](../Page/李昇基.md "wikilink")第四張個人專輯，於2009年9月17日由Hook
 Entertainment製作、LOEN娛樂發行，以《我們分手吧》（）作主打歌曲。
 
 《我們分手吧》在專輯推出後在[SBS人氣歌謠得到兩周冠軍](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")\[1\]，後來在2010年1月28日推出加強版，新加《》（）及《就像當初

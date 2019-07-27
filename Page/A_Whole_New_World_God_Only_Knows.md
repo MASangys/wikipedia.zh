@@ -6,7 +6,7 @@ The World God Only Knows系列的第二部作品\[1\]。
 
 此唱片為新動畫開始放送的6個紀念CD中的第一個，此外的5個為ED和4個角色歌曲\[2\]。與前作《[God only
 knows〜集積回路の夢旅人](https://zh.wikipedia.org/wiki/God_only_knows～集成电路的梦旅人 "wikilink")》的[風格基本一致](https://zh.wikipedia.org/wiki/風格 "wikilink")，也是全英文為歌詞。但長度減為3：33。
-由[ELISA](../Page/ELISA_\(歌手\).md "wikilink")&[Lia演唱](../Page/Lia.md "wikilink")
+由[ELISA](../Page/ELISA_\(歌手\).md "wikilink")&[Lia](../Page/Lia.md "wikilink")演唱
 
 ## 收錄歌曲\[3\]
 

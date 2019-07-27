@@ -1,4 +1,4 @@
-**IEEE量子電子學期刊**()是一份[同行評審](../Page/同行評審.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")，涵蓋[光学工程](../Page/光学工程.md "wikilink")、[电子工程以及一些](../Page/电子工程.md "wikilink")[激光](../Page/激光.md "wikilink")、[物理光学和](../Page/物理光学.md "wikilink")[量子電子學等應用領域](../Page/量子光学.md "wikilink")。
+**IEEE量子電子學期刊**()是一份[同行評審](../Page/同行評審.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")，涵蓋[光学工程](../Page/光学工程.md "wikilink")、[电子工程](../Page/电子工程.md "wikilink")以及一些[激光](../Page/激光.md "wikilink")、[物理光学](../Page/物理光学.md "wikilink")和[量子電子學等應用領域](../Page/量子光学.md "wikilink")。
 本期刊由[IEEE光電子學會](https://zh.wikipedia.org/wiki/IEEE光電子學會 "wikilink")(IEEE
 Photonics Society)於1965年出版。
 

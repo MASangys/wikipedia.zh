@@ -8,17 +8,17 @@ fall**」是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en�
 L'Arc〜en〜Ciel首次榮獲ORICON單曲榜冠軍的作品。
 
 [MV的拍攝地點在](https://zh.wikipedia.org/wiki/MV "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")
-[死亡谷國家公園中的湖泊](../Page/死亡谷國家公園.md "wikilink")。
+[死亡谷國家公園](../Page/死亡谷國家公園.md "wikilink")中的湖泊。
 
 ## 收錄曲
 
 1.  **winter fall**
       -
-        單曲發行前在1997年[東京巨蛋演唱會](../Page/東京巨蛋.md "wikilink")「1997
+        單曲發行前在1997年[東京巨蛋](../Page/東京巨蛋.md "wikilink")演唱會「1997
         REINCARNATION」率先曝光。歌名是從「The curtain falls（落幕）」和「失戀」而來。
         [ken是以夏天為主題來作曲](https://zh.wikipedia.org/wiki/ken "wikilink")，hyde則是以冬天為概念寫下歌詞。
         廣播節目『[山田尚的Radio Unlimited
-        DX](https://zh.wikipedia.org/wiki/山田尚的Radio_Unlimited_DX "wikilink")』中，搖滾樂團[GLAY的](../Page/GLAY.md "wikilink")[TAKURO曾說自己喜歡這首歌曲和](https://zh.wikipedia.org/wiki/TAKURO "wikilink")「[As
+        DX](https://zh.wikipedia.org/wiki/山田尚的Radio_Unlimited_DX "wikilink")』中，搖滾樂團[GLAY](../Page/GLAY.md "wikilink")的[TAKURO曾說自己喜歡這首歌曲和](https://zh.wikipedia.org/wiki/TAKURO "wikilink")「[As
         if in a
         dream](https://zh.wikipedia.org/wiki/DUNE_\(原創專輯\) "wikilink")」、「[預感](https://zh.wikipedia.org/wiki/DUNE_\(原創專輯\) "wikilink")」。
 2.  **metropolis**

@@ -1,6 +1,6 @@
 《**紙箱戰機W**》為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》的第二季，於2012年1月18日至2013年3月20日，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27
 -
-19:55於[日本](../Page/日本.md "wikilink")[東京電視台播出](../Page/東京電視台.md "wikilink")，全58話。香港於2013年8月22日開始播放。
+19:55於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播出，全58話。香港於2013年8月22日開始播放。
 
 ## 故事概要
 
@@ -116,7 +116,7 @@
 <th><p><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB翻譯標題</a>[1]</p></th>
 <th><p>日本播映日期</p></th>
 <th><p>台灣播映日期</p></th>
-<th><p>香港<a href="../Page/Animax.md" title="wikilink">Animax播映日期</a></p></th>
+<th><p>香港<a href="../Page/Animax.md" title="wikilink">Animax</a>播映日期</p></th>
 <th><p>香港<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB播映日期</a></p></th>
 </tr>
 </thead>

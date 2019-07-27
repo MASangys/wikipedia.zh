@@ -1,5 +1,5 @@
-是[三屋咲悠撰寫](../Page/三屋咲悠.md "wikilink")，[okiura繪製插畫的](https://zh.wikipedia.org/wiki/okiura "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")\[1\]\[2\]，[MF文庫J](../Page/MF文庫J.md "wikilink")（[Media
-Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由[尖端出版代理](../Page/尖端出版.md "wikilink")，譯者陳冠安；简体中文版预定由[天闻角川代理发行](../Page/天闻角川.md "wikilink")，[湖南美术出版社出版](../Page/湖南美术出版社.md "wikilink")。2015年10月至12月首播[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+是[三屋咲悠](../Page/三屋咲悠.md "wikilink")撰寫，[okiura繪製插畫的](https://zh.wikipedia.org/wiki/okiura "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")\[1\]\[2\]，[MF文庫J](../Page/MF文庫J.md "wikilink")（[Media
+Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由[尖端出版](../Page/尖端出版.md "wikilink")代理，譯者陳冠安；简体中文版预定由[天闻角川](../Page/天闻角川.md "wikilink")代理发行，[湖南美术出版社](../Page/湖南美术出版社.md "wikilink")出版。2015年10月至12月首播[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 故事簡介
 
@@ -878,7 +878,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 
   -
     原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／角色原案：okiura
-    ，由[MF文庫出版](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")。台灣由[尖端出版代理出版](../Page/尖端出版.md "wikilink")。
+    ，由[MF文庫出版](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")。台灣由[尖端出版](../Page/尖端出版.md "wikilink")代理出版。
 
 <table>
 <thead>
@@ -1378,7 +1378,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 <td><p>日本全國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>衛星電視</p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 <td></td>
 </tr>

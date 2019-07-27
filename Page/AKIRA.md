@@ -1,7 +1,7 @@
 **EXILE
-AKIRA**（本名：黑澤良平，），[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。生於[神奈川縣](../Page/神奈川縣.md "wikilink")[大和市](../Page/大和市.md "wikilink")，在[靜岡縣](../Page/靜岡縣.md "wikilink")[磐田市長大](../Page/磐田市.md "wikilink")。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")，为團體[EXILE及](../Page/放浪兄弟.md "wikilink")[EXILE
+AKIRA**（本名：黑澤良平，），[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。生於[神奈川縣](../Page/神奈川縣.md "wikilink")[大和市](../Page/大和市.md "wikilink")，在[靜岡縣](../Page/靜岡縣.md "wikilink")[磐田市](../Page/磐田市.md "wikilink")長大。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")，为團體[EXILE及](../Page/放浪兄弟.md "wikilink")[EXILE
 THE
-SECOND的表演者之一](../Page/EXILE_THE_SECOND.md "wikilink")。2019年6月6日，宣布与台湾名模[林志玲结为夫妇](../Page/林志玲.md "wikilink")。\[1\]
+SECOND的表演者之一](../Page/EXILE_THE_SECOND.md "wikilink")。2019年6月6日，宣布与台湾名模[林志玲](../Page/林志玲.md "wikilink")结为夫妇。\[1\]
 
 ## 经历
 
@@ -11,9 +11,9 @@ SECOND的表演者之一](../Page/EXILE_THE_SECOND.md "wikilink")。2019年6月6
 
 2008年以TBS系日劇「[Around40](../Page/Around40.md "wikilink")」、電影「[花樣男子F](../Page/花樣男子F.md "wikilink")」在大螢幕出道。
 
-2009年，首次於第9屆紐約亞洲影展、及第33屆[蒙特利爾世界電影節展出的電影作品](../Page/蒙特利爾世界電影節.md "wikilink")「」（Be
+2009年，首次於第9屆紐約亞洲影展、及第33屆[蒙特利爾世界電影節](../Page/蒙特利爾世界電影節.md "wikilink")展出的電影作品「」（Be
 Sure to
-Share）擔任主角、更榮獲第19屆[日本電影影評人大獎的新人獎](../Page/日本電影影評人大獎.md "wikilink")\[2\]。
+Share）擔任主角、更榮獲第19屆[日本電影影評人大獎](../Page/日本電影影評人大獎.md "wikilink")的新人獎\[2\]。
 
 憑藉2010年在中國大陸、台灣和香港上映，2011年在日本上映的劉偉強導演執導的作品「[精武風雲·陳真](../Page/精武風雲·陳真.md "wikilink")（Legend
 of the Fist: The Return of Chen Zhen）」在亞洲影壇嶄露頭角。
@@ -33,7 +33,7 @@ SECOND](../Page/EXILE_THE_SECOND.md "wikilink")。
 
 此外，還被選為「Ralph Lauren」的亞洲首位形象大使，其活動範圍不斷向全世界拓展。
 
-2019年6月6日宣佈與臺灣女藝人[林志玲結婚](../Page/林志玲.md "wikilink")。
+2019年6月6日宣佈與臺灣女藝人[林志玲](../Page/林志玲.md "wikilink")結婚。
 
 ## 参加團體
 

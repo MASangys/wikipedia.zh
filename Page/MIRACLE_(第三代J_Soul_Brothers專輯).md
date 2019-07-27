@@ -1,4 +1,4 @@
-《**MIRACLE**》（奇蹟）是[日本演唱團體](../Page/日本.md "wikilink")[第三代J Soul
+《**MIRACLE**》（奇蹟）是[日本](../Page/日本.md "wikilink")演唱團體[第三代J Soul
 Brothers的第](../Page/J_Soul_Brothers.md "wikilink")3張原創專輯。2013年1月1日發行，唱片公司為[rhythm
 zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
@@ -57,7 +57,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     Asiatic
     Orchestra（Vanir）、編曲：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")）
       -
-        7th單曲、[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2012年8月度片尾曲
+        7th單曲、[朝日電視台](../Page/朝日電視台.md "wikilink")節目《お願い\!ランキング》2012年8月度片尾曲
 6.  **TURNING BACK**
     （作詞：miyakei、作曲：DAICHI / Kinboom、編曲：Kinboom）
 7.  **Love changes everything**
@@ -71,7 +71,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     ～永無止境的冬季～](../Page/Powder_Snow_～永無止境的冬季～.md "wikilink")**（）
     （作詞：小竹正人、作曲：Daisuke Kahara / SHIKATA、編曲：Daisuke Kahara）
       -
-        8th單曲、[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2012年11月度片尾曲、[ABC-MART](https://zh.wikipedia.org/wiki/ABC-MART "wikilink")「stefanorossi」電視廣告歌曲
+        8th單曲、[朝日電視台](../Page/朝日電視台.md "wikilink")節目《お願い\!ランキング》2012年11月度片尾曲、[ABC-MART](https://zh.wikipedia.org/wiki/ABC-MART "wikilink")「stefanorossi」電視廣告歌曲
 10. **LOOK @ US NOW\!**
     （作詞：michico、作曲：T.Kura / michico、編曲：T.Kura）
       -

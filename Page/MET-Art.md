@@ -12,7 +12,7 @@ MET-Art是Met Art Network旗下眾多網站中的一個，由其管理運營。\
 Krogman是MetArt的共同擁有人。\[7\]
 
 2014年2月，MET-Art宣布收購Domai.com和goddessnudes.com兩家網站。\[8\]Domai.com由Eolake
-Stobblehouse於1997年創建，是行業中其中一個首先開始拍攝[軟調色情的網站](../Page/軟調色情.md "wikilink")。網站包含美女的裸體和關於美麗、文化和裸體的文章和故事。\[9\]
+Stobblehouse於1997年創建，是行業中其中一個首先開始拍攝[軟調色情](../Page/軟調色情.md "wikilink")的網站。網站包含美女的裸體和關於美麗、文化和裸體的文章和故事。\[9\]
 
 ## 獎項和提名
 

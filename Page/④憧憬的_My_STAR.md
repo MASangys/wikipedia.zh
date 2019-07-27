@@ -1,5 +1,5 @@
 「**④憧憬的 My STAR**」（④憧れ My
-STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")3枚原創專輯。於2009年1月28日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+STAR）是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第3枚原創專輯。於2009年1月28日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -7,7 +7,7 @@ STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的
     Escalation\!～](../Page/3rd～LOVE_Escalation!～.md "wikilink")」相距約10個月。
   - 收錄第5張單曲「[淚的顏色](../Page/淚的顏色.md "wikilink")」至第7張單曲「[FOREVER
     LOVE](../Page/FOREVER_LOVE.md "wikilink")」，一共3首A面曲。
-  - 成員[有原栞菜最後參與演唱的專輯](../Page/有原栞菜.md "wikilink")。
+  - 成員[有原栞菜](../Page/有原栞菜.md "wikilink")最後參與演唱的專輯。
   - 本作分「初回限定盤」和「CD盤」2種版本
   - 「初回限定盤」收錄了專輯「④憧憬的 My STAR」的Making和Off-shot片段。
   - 在2月9日於公信榜專輯週排行榜取得第13位。
@@ -28,7 +28,7 @@ STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
       -
-        [鈴木愛理主唱](../Page/鈴木愛理.md "wikilink")
+        [鈴木愛理](../Page/鈴木愛理.md "wikilink")主唱
 4.  **[淚的顏色](../Page/淚的顏色.md "wikilink")**（涙の色）
     （作詞・作曲：淳君 編曲：[藤澤慶昌](https://zh.wikipedia.org/wiki/藤澤慶昌 "wikilink")）
       -
@@ -37,12 +37,12 @@ STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[高橋諭一](https://zh.wikipedia.org/wiki/高橋諭一 "wikilink")）
       -
-        [中島早貴](../Page/中島早貴.md "wikilink")・[有原栞菜主唱](../Page/有原栞菜.md "wikilink")
+        [中島早貴](../Page/中島早貴.md "wikilink")・[有原栞菜](../Page/有原栞菜.md "wikilink")主唱
 6.  **青春之歌**（青春ソング）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[山崎淳](https://zh.wikipedia.org/wiki/山崎淳 "wikilink")）
       -
-        [矢島舞美主唱](../Page/矢島舞美.md "wikilink")
+        [矢島舞美](../Page/矢島舞美.md "wikilink")主唱
 7.  **Big dreams**
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：藤澤慶昌）
 8.  **SHINES**
@@ -53,8 +53,8 @@ STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的
 10. **[FOREVER LOVE](../Page/FOREVER_LOVE.md "wikilink")**
     （作詞・作曲：淳君 編曲：鈴木俊介）
       -
-        7th單曲・[TBS節目](../Page/TBS.md "wikilink")「メガデジ」片尾曲
-        成員[有原栞菜的最後一張單曲](../Page/有原栞菜.md "wikilink")
+        7th單曲・[TBS](../Page/TBS.md "wikilink")節目「メガデジ」片尾曲
+        成員[有原栞菜](../Page/有原栞菜.md "wikilink")的最後一張單曲
 11. **[江戶手毬歌Ⅱ](../Page/江戶手毬歌Ⅱ.md "wikilink")**（江戸の手毬唄II）
     （作詞：[吉岡治](https://zh.wikipedia.org/wiki/吉岡治 "wikilink")
     作曲：[宇崎竜童](https://zh.wikipedia.org/wiki/宇崎竜童 "wikilink")

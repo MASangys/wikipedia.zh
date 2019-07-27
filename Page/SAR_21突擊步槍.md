@@ -1,13 +1,13 @@
 [Army.mil-101955-2011-03-16-100334.jpg](https://zh.wikipedia.org/wiki/File:Army.mil-101955-2011-03-16-100334.jpg "fig:Army.mil-101955-2011-03-16-100334.jpg")的新加坡士兵\]\]
 
 **SAR
-21突擊步槍**（，意為：21世紀的新加坡製突擊步槍）是由[新加坡國防企業新科動力](../Page/新加坡.md "wikilink")（全稱：；，簡稱：ST
-Kinetics）自主研發和生產的一枝[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，是[新加坡武裝部隊的制式步槍](../Page/新加坡武裝部隊.md "wikilink")。
+21突擊步槍**（，意為：21世紀的新加坡製突擊步槍）是由[新加坡](../Page/新加坡.md "wikilink")國防企業新科動力（全稱：；，簡稱：ST
+Kinetics）自主研發和生產的一枝[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，是[新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")的制式步槍。
 
 ## 設計細節
 
 SAR
-21和[克罗地亚的](../Page/克罗地亚.md "wikilink")[VHS](https://zh.wikipedia.org/wiki/VHS突击步枪 "wikilink")、[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[FAMAS](../Page/FAMAS突擊步槍.md "wikilink")、[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[SA80](../Page/SA80突擊步槍.md "wikilink")、[奥地利的](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[斯泰爾AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink")、[伊朗的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[KH-2002](https://zh.wikipedia.org/wiki/Khaybar_KH2002突擊步槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[QBZ-95和](../Page/95式自動步槍.md "wikilink")[QBB-95](../Page/95式班用機槍.md "wikilink")、[比利时的](../Page/比利时.md "wikilink")[FN
+21和[克罗地亚](../Page/克罗地亚.md "wikilink")的[VHS](https://zh.wikipedia.org/wiki/VHS突击步枪 "wikilink")、[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[FAMAS](../Page/FAMAS突擊步槍.md "wikilink")、[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[SA80](../Page/SA80突擊步槍.md "wikilink")、[奥地利的](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[斯泰爾AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink")、[伊朗的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[KH-2002](https://zh.wikipedia.org/wiki/Khaybar_KH2002突擊步槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[QBZ-95和](../Page/95式自動步槍.md "wikilink")[QBB-95](../Page/95式班用機槍.md "wikilink")、[比利时](../Page/比利时.md "wikilink")的[FN
 F2000和](../Page/FN_F2000突擊步槍.md "wikilink")[FN
 P90一样采用了](../Page/FN_P90衝鋒槍.md "wikilink")[-{zh-hans:无托结构;
 zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以下的特點：
@@ -46,6 +46,7 @@ zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以
 
   -   - 特種部隊單位
 
+  -   -
   -   - [汶萊皇家武裝部隊](../Page/汶萊軍事.md "wikilink")
 
   -   - 特種部隊單位
@@ -82,7 +83,7 @@ zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以
   - [STANAG彈匣](../Page/STANAG彈匣.md "wikilink")
   - [M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")
   - [M16S1突擊步槍](../Page/M16S1突擊步槍.md "wikilink") -
-    [新加坡武裝部隊的前任制式步槍](../Page/新加坡武裝部隊.md "wikilink")。
+    [新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")的前任制式步槍。
   - [SAR 80](../Page/SAR_80突擊步槍.md "wikilink")
   - [SR-88](../Page/SR-88突擊步槍.md "wikilink")
   - [95式自動步槍](../Page/95式自動步槍.md "wikilink")

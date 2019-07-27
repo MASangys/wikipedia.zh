@@ -1,10 +1,10 @@
 **YOHIO**（Kevin Johio Lucas Rehn
-Eires，），是瑞典籍[瑞典和](../Page/瑞典.md "wikilink")[日本的歌手](../Page/日本.md "wikilink")、詞曲作者。Yohio通常穿著一個[洛麗塔裝扮和裝扮為雌雄同體的在舞台上表演](https://zh.wikipedia.org/wiki/洛麗塔 "wikilink")。他也曾是瑞典搖滾團體Seremedy的團員。為電腦軟體《[Vocaloid
+Eires，），是瑞典籍[瑞典](../Page/瑞典.md "wikilink")和[日本](../Page/日本.md "wikilink")的歌手、詞曲作者。Yohio通常穿著一個[洛麗塔裝扮和裝扮為雌雄同體的在舞台上表演](https://zh.wikipedia.org/wiki/洛麗塔 "wikilink")。他也曾是瑞典搖滾團體Seremedy的團員。為電腦軟體《[Vocaloid
 3](https://zh.wikipedia.org/wiki/Vocaloid_3 "wikilink")》的虛擬歌手[YOHIOloid提供聲源](https://zh.wikipedia.org/wiki/YOHIOloid "wikilink")。
 
 ## 個人生活
 
-喜愛[日本文化](../Page/日本文化.md "wikilink")，也擁有流利的[日語能力](https://zh.wikipedia.org/wiki/日語 "wikilink")，表演風格也多受到日本[視覺系影響](../Page/視覺系.md "wikilink")。
+喜愛[日本文化](../Page/日本文化.md "wikilink")，也擁有流利的[日語能力](https://zh.wikipedia.org/wiki/日語 "wikilink")，表演風格也多受到日本[視覺系](../Page/視覺系.md "wikilink")影響。
 
 ## 音樂事業
 

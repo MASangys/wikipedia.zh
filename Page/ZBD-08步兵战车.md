@@ -1,4 +1,4 @@
-**ZBD-04A步兵战车**（又稱ZBD-08）被认为是在[ZBD-04步兵战车的基础上升級而来的](../Page/ZBD-04步兵战车.md "wikilink")[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[步兵战车](../Page/步兵战车.md "wikilink")。
+**ZBD-04A步兵战车**（又稱ZBD-08）被认为是在[ZBD-04步兵战车](../Page/ZBD-04步兵战车.md "wikilink")的基础上升級而来的[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[步兵战车](../Page/步兵战车.md "wikilink")。
 
 最初在2011年左右，该改型步战车的照片披露出来时被称为“ZBD-08”而流传于互联网络，实际上正式称为“ZBD-04A”\[1\]\[2\]，根据中华人民共和国武器命名规则，“ZBD”是“装甲-步兵战车-履带式”的意思。
 

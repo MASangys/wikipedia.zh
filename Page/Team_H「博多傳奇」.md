@@ -73,7 +73,7 @@
 ### 公演概要
 
   - 公演期間：2013年3月1日 - 2014年4月17日\[1\]　共110场
-      - 2013年4月5日於[AKB48劇場進行出張公演](../Page/AKB48劇場.md "wikilink")
+      - 2013年4月5日於[AKB48劇場](../Page/AKB48劇場.md "wikilink")進行出張公演
         （支援成員為[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")）
 
       - 2013年5月11日於[TOKYO DOME CITY
@@ -93,8 +93,8 @@
         、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")\[6\]
         和 [後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")\[7\]
         等人輪流交替
-          - 在2013年6月21日，[AKB48的](../Page/AKB48.md "wikilink")[單曲選拔組到了](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")[福岡進行](https://zh.wikipedia.org/wiki/福岡 "wikilink")[PV拍攝工作](https://zh.wikipedia.org/wiki/戀愛幸運餅 "wikilink")。因此[AKB48的](../Page/AKB48.md "wikilink")[渡邊麻友作特別嘉賓出演當天公演的前座Girl](../Page/渡邊麻友.md "wikilink")\[8\]
-            ，與[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[田中菜津美披露了](../Page/田中菜津美.md "wikilink")[遺憾少女](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（）、而[SKE48的](../Page/SKE48.md "wikilink")[須田亞香里則於公演上發動](../Page/須田亞香里.md "wikilink")[安可](../Page/安可.md "wikilink")。除了渡邊、須田外，同場觀賞公演的還有[SKE48的](../Page/SKE48.md "wikilink")[松井玲奈和](../Page/松井玲奈.md "wikilink")[NMB48的](../Page/NMB48.md "wikilink")[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")。
+          - 在2013年6月21日，[AKB48](../Page/AKB48.md "wikilink")的[單曲選拔組到了](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")[福岡進行](https://zh.wikipedia.org/wiki/福岡 "wikilink")[PV拍攝工作](https://zh.wikipedia.org/wiki/戀愛幸運餅 "wikilink")。因此[AKB48](../Page/AKB48.md "wikilink")的[渡邊麻友](../Page/渡邊麻友.md "wikilink")作特別嘉賓出演當天公演的前座Girl\[8\]
+            ，與[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")披露了[遺憾少女](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（）、而[SKE48](../Page/SKE48.md "wikilink")的[須田亞香里](../Page/須田亞香里.md "wikilink")則於公演上發動[安可](../Page/安可.md "wikilink")。除了渡邊、須田外，同場觀賞公演的還有[SKE48](../Page/SKE48.md "wikilink")的[松井玲奈](../Page/松井玲奈.md "wikilink")和[NMB48](../Page/NMB48.md "wikilink")的[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")。
 
 <!-- end list -->
 

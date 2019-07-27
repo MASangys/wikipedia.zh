@@ -7,7 +7,7 @@
   -
     *G*為Goodness係數，超過1表示效率良好
     *R*為[電路的電阻](https://zh.wikipedia.org/wiki/電路 "wikilink")
-    \(\mathcal R\)為[磁路的磁阻](../Page/磁路.md "wikilink")
+    \(\mathcal R\)為[磁路](../Page/磁路.md "wikilink")的磁阻
     *A*<sub>m</sub>及*A*<sub>e</sub>分別為磁路及電路的[截面積](https://zh.wikipedia.org/wiki/截面積 "wikilink")
     *l*<sub>m</sub>, *l*<sub>e</sub>分別為磁路及電路的長度
     *μ*為鐵芯的[磁导率](../Page/磁导率.md "wikilink")

@@ -1,5 +1,5 @@
 **Epik
-High**（）是由兩名[饒舌](../Page/饒舌.md "wikilink")[歌手和一名](../Page/歌手.md "wikilink")[DJ组成的韓國](https://zh.wikipedia.org/wiki/DJ "wikilink")[嘻哈團體](../Page/嘻哈.md "wikilink")，於2003年出道。團體的名字Epik
+High**（）是由兩名[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")和一名[DJ组成的韓國](https://zh.wikipedia.org/wiki/DJ "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")團體，於2003年出道。團體的名字Epik
 high意為沉醉在詩里的狀態，或者是具有史詩似偉大的意思，粉絲名為High
 Skool。像他們的名字一樣，說唱的歌詞很重視詩式的表現技法，抒情性及文學性，而其CD封面擁有的設計感，MV創作意境也極擄獲人心。Epik
 High的代表作品包括《Fan》、《Fly》、《One》、《Run》、《Love Love Love》、《一分一秒》、《Don't Hate
@@ -12,7 +12,7 @@ Entertainment簽约](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")�
 [EpikHigh_061215_036_(18151992384).jpg](https://zh.wikipedia.org/wiki/File:EpikHigh_061215_036_\(18151992384\).jpg "fig:EpikHigh_061215_036_(18151992384).jpg")
 迄今發行八張正規專輯，其中三、四輯銷售量皆超過十萬張。（三輯：十六萬，四輯：十三萬以上）四輯銷售量也擠到年度排行第三名。從他們出道專輯開始，開展了具有代表性的獨特說唱音樂風格。憑藉詩一般的表現形式，機智的表現及高超的作詞能力，可以說是成為了一個得到廣泛高評價的Hip-hop團體。
 1980年出生的Tablo是在Epik
-High創作歌詞中佔有非常重要作用的人物，畢業於美國[史丹佛大學英國文學與寫作碩士學位](../Page/史丹佛大學.md "wikilink")。他作詞時利用詩的方式，力圖向人們展現一種接近於文學方面的作詞風格。另一位作詞者是Mithra
+High創作歌詞中佔有非常重要作用的人物，畢業於美國[史丹佛大學](../Page/史丹佛大學.md "wikilink")英國文學與寫作碩士學位。他作詞時利用詩的方式，力圖向人們展現一種接近於文學方面的作詞風格。另一位作詞者是Mithra
 Jin，1983年出生，從高中時期就積極於說唱活動，專輯中所有歌詞都是他和Tablo共同完成。DJ
 Tukutz是畢業於東亞廣播大學音像製作專業的成員，1995年開始從事DJ行業，擁有出色的作曲、編曲才華和韓國最頂尖的DJ實力。
 2009、2010年，成員DJ Tukutz與Mithra
@@ -800,6 +800,12 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
 <td><p>信義劇場 Legacy MAX</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年9月14日</p></td>
+<td></td>
+<td><p>新加坡站</p></td>
+<td><p>聖淘沙名勝世界硬石坊</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

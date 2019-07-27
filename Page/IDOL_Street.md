@@ -1,5 +1,5 @@
 **iDOL
-Street**是[日本愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年設立的偶像專屬唱片品牌與企劃。同年12月22日發行[SUPER☆GiRLS的](../Page/SUPER☆GiRLS.md "wikilink")[超絶少女](https://zh.wikipedia.org/wiki/超絶少女 "wikilink")，也是該品牌第一個發行的作品。目前旗下主要有SUPER☆GiRLS與[Cheeky
+Street**是[日本愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年設立的偶像專屬唱片品牌與企劃。同年12月22日發行[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")的[超絶少女](https://zh.wikipedia.org/wiki/超絶少女 "wikilink")，也是該品牌第一個發行的作品。目前旗下主要有SUPER☆GiRLS與[Cheeky
 Parade團體](../Page/Cheeky_Parade.md "wikilink")。
 
 ## iDOL Street Project

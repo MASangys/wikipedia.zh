@@ -3,11 +3,11 @@
 
 ## 歷史與概要
 
-1989年起富士重工業開始投入攝影鏡頭的相關研究，1991年在第29屆[東京車展上公開](../Page/東京車展.md "wikilink")「主動駕駛輔助系統（Active
+1989年起富士重工業開始投入攝影鏡頭的相關研究，1991年在第29屆[東京車展](../Page/東京車展.md "wikilink")上公開「主動駕駛輔助系統（Active
 Driving Assist，縮寫成ADA）」。1999年9月24日首度將ADA系統量產，搭載於[第三代Legacy Lancaster
-ADA車型上](https://zh.wikipedia.org/wiki/速霸陸Legacy#第三代BE/BH系（1998年-2003年） "wikilink")。原廠在[擋風玻璃內側上方裝設兩具](../Page/擋風玻璃.md "wikilink")[CCD攝影鏡頭](../Page/感光耦合元件.md "wikilink")，配合VDC車輛動態控制系統（Vehicle
+ADA車型上](https://zh.wikipedia.org/wiki/速霸陸Legacy#第三代BE/BH系（1998年-2003年） "wikilink")。原廠在[擋風玻璃](../Page/擋風玻璃.md "wikilink")內側上方裝設兩具[CCD攝影鏡頭](../Page/感光耦合元件.md "wikilink")，配合VDC車輛動態控制系統（Vehicle
 Dynamics Control
-System），可針對車間距離、彎路、行駛路線偏移等狀況提供警報給駕駛人。當設定[巡航定速時](../Page/巡航定速.md "wikilink")，萬一與前車的距離過近，系統還會自動減速\[3\]。因此，ADA系統可說是EyeSight的前身。2004年該公司獲得[日立製作所麾下](https://zh.wikipedia.org/wiki/日立 "wikilink")（）的技術奧援，結合後者的單眼式攝影機，以及二家公司共同開發的影像處理系統軟體，進一步發展成**EyeSight**行車安全輔助系統\[4\]。此系統陸續使用在[第四代Legacy和](https://zh.wikipedia.org/wiki/速霸陸Legacy#第四代BL/BP系（2003年-2009年） "wikilink")[速霸陸Exiga上](../Page/速霸陸Exiga.md "wikilink")，獲得不少好評。
+System），可針對車間距離、彎路、行駛路線偏移等狀況提供警報給駕駛人。當設定[巡航定速](../Page/巡航定速.md "wikilink")時，萬一與前車的距離過近，系統還會自動減速\[3\]。因此，ADA系統可說是EyeSight的前身。2004年該公司獲得[日立製作所麾下](https://zh.wikipedia.org/wiki/日立 "wikilink")（）的技術奧援，結合後者的單眼式攝影機，以及二家公司共同開發的影像處理系統軟體，進一步發展成**EyeSight**行車安全輔助系統\[4\]。此系統陸續使用在[第四代Legacy和](https://zh.wikipedia.org/wiki/速霸陸Legacy#第四代BL/BP系（2003年-2009年） "wikilink")[速霸陸Exiga](../Page/速霸陸Exiga.md "wikilink")上，獲得不少好評。
 
 2010年精進為第二代EyeSight，整合了更多功能：
 
@@ -16,7 +16,7 @@ System），可針對車間距離、彎路、行駛路線偏移等狀況提供�
   - 預警式剎停協助系統（Pre-Collision Brake Assist
     System）：萬一駕駛人沒有減速，以致進入系統所判定的撞擊區域內，此功能會自動介入煞車系統，降低車速以阻止碰撞或降低碰撞傷害。
   - 全速域自動巡航系統（Adaptive Cruise Control With All-speed Range Tracking
-    Function）：此功能除了傳統的[巡航定速外](../Page/巡航定速.md "wikilink")，遇到前車減速時會自動減速以保持車距，或於必要時煞停車輛。
+    Function）：此功能除了傳統的[巡航定速](../Page/巡航定速.md "wikilink")外，遇到前車減速時會自動減速以保持車距，或於必要時煞停車輛。
   - 萬一發生事故時，該系統可像[行車紀錄器一樣保存當時的行車資訊](https://zh.wikipedia.org/wiki/行車紀錄器 "wikilink")，包括方向機轉角、引擎回轉數、油門踏板深度、煞車與排檔桿狀態等資料。
 
 這套系統仍有其限制，譬如夜晚、濃霧、豪雨等不良天候，甚至車頭正朝著夕陽時，皆有可能影響兩具[CCD攝影鏡頭的使用](../Page/感光耦合元件.md "wikilink")。另外，行駛在被積雪覆蓋的路面時，鏡頭也無法判斷車輛是否偏移車道。總括來說，這套系統僅能當作輔助之用，駕駛人不能百分之百仰賴這套系統開車。2015年6月19日原廠發表第二款[油電混合車](../Page/混合動力車輛.md "wikilink")「Impreza
@@ -40,7 +40,7 @@ Hybrid」，列為標準配備的第二代EyeSight針對Hybrid動力做出調整
 
 ### 安全性召回
 
-2015年5月15日原廠針對[北美洲車主發出安全性召回](../Page/北美洲.md "wikilink")\[8\]，由於Eyesight中的預警式剎停系統在煞車燈故障狀態下無法正常運作，必須召回約72,000輛各式車款，包含2014年3月至2015年4月間生產的Legacy、2014年2月至2015年4月的Outback、2014年10月至2015年6月的XV、2015年3月生產迄今的WRX等。車主回廠後，原廠將耗費約1小時進行[軟體更新以改善此缺失](../Page/软件.md "wikilink")\[9\]。
+2015年5月15日原廠針對[北美洲](../Page/北美洲.md "wikilink")車主發出安全性召回\[8\]，由於Eyesight中的預警式剎停系統在煞車燈故障狀態下無法正常運作，必須召回約72,000輛各式車款，包含2014年3月至2015年4月間生產的Legacy、2014年2月至2015年4月的Outback、2014年10月至2015年6月的XV、2015年3月生產迄今的WRX等。車主回廠後，原廠將耗費約1小時進行[軟體更新以改善此缺失](../Page/软件.md "wikilink")\[9\]。
 
 ## 內部連結
 

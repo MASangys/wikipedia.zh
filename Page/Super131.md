@@ -7,7 +7,7 @@ Again](https://zh.wikipedia.org/wiki/Bet_Again "wikilink")》。
 
 ### 2010年：年度超級新團成軍發表會
 
-組合前身爲7KM，隸屬於[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")，由[孫協志以大隊長身分領軍](../Page/孫協志.md "wikilink")，包括當時現有成員陽光和黎開、東彥與後被淘汰的GJ、亞峻和國緯。於2010年11月17日在三立電視舉辦「年度超級新團成軍發表會」，當下就有唱片公司有意要幫7KM發行專輯，但老闆[孫德榮非常看重](../Page/孫德榮.md "wikilink")7KM並認爲還是再多加磨練訓練不想輕易的把他們推出市場，最後不了了之而解散。
+組合前身爲7KM，隸屬於[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")，由[孫協志](../Page/孫協志.md "wikilink")以大隊長身分領軍，包括當時現有成員陽光和黎開、東彥與後被淘汰的GJ、亞峻和國緯。於2010年11月17日在三立電視舉辦「年度超級新團成軍發表會」，當下就有唱片公司有意要幫7KM發行專輯，但老闆[孫德榮](../Page/孫德榮.md "wikilink")非常看重7KM並認爲還是再多加磨練訓練不想輕易的把他們推出市場，最後不了了之而解散。
 
 ### 2012年：東彥腳傷退團，5人出道發片
 
@@ -18,8 +18,8 @@ Super131出道前以足迹計劃‘給我十分鐘，你將會改變’的口號
 
 ### 2014年至今
 
-  - 2014年，Super131經紀人[孫德榮因生病與Super](../Page/孫德榮.md "wikilink")131解除合約，將成員[子浩](https://zh.wikipedia.org/wiki/子浩 "wikilink")、[子豪託孤給孫德榮的好友](https://zh.wikipedia.org/wiki/子豪 "wikilink")、[新亞洲娛樂集團老闆余毓興](../Page/新亞洲娛樂集團.md "wikilink")。並與香港籍的成員李冠星組成Super
-    Group，和藝人[蕭淑慎的新專輯](../Page/蕭淑慎.md "wikilink")《神來了》中合唱歌曲「L.O.V.E
+  - 2014年，Super131經紀人[孫德榮](../Page/孫德榮.md "wikilink")因生病與Super131解除合約，將成員[子浩](https://zh.wikipedia.org/wiki/子浩 "wikilink")、[子豪託孤給孫德榮的好友](https://zh.wikipedia.org/wiki/子豪 "wikilink")、[新亞洲娛樂集團](../Page/新亞洲娛樂集團.md "wikilink")老闆余毓興。並與香港籍的成員李冠星組成Super
+    Group，和藝人[蕭淑慎](../Page/蕭淑慎.md "wikilink")的新專輯《神來了》中合唱歌曲「L.O.V.E
     Love」。\[5\]
   - 2014年，各自以其專長發展但Super131正式宣布解散。
   - 成员[阳光](https://zh.wikipedia.org/wiki/阳光 "wikilink")、[黎开于](https://zh.wikipedia.org/wiki/黎开 "wikilink")2016年与[冯宇](https://zh.wikipedia.org/wiki/冯宇 "wikilink")、[高泰重新组合为](https://zh.wikipedia.org/wiki/高泰 "wikilink")[BET.A](https://zh.wikipedia.org/wiki/BET.A "wikilink")，发行EP《Bet

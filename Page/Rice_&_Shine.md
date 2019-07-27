@@ -1,19 +1,19 @@
 《**rice &
-shine**》（又名：《**米·閃**》）是[香港男歌手](../Page/香港.md "wikilink")[陳奕迅的第](../Page/陳奕迅.md "wikilink")12張[國語音樂專輯](https://zh.wikipedia.org/wiki/國語 "wikilink")，於2014年5月15日發行。
+shine**》（又名：《**米·閃**》）是[香港](../Page/香港.md "wikilink")男歌手[陳奕迅](../Page/陳奕迅.md "wikilink")的第12張[國語音樂專輯](https://zh.wikipedia.org/wiki/國語 "wikilink")，於2014年5月15日發行。
 
 ## 專輯簡介
 
 ### 專輯概念與製作
 
 《rice & shine》的製作概念與Eason 2002年的廣東專輯《[The
-Line-Up](../Page/The_Line-Up.md "wikilink")》相同，是由兩張獨立製作的迷你專輯組成。專輯「rice」部分由[北京音樂團體](https://zh.wikipedia.org/wiki/北京 "wikilink")[火星電台包辦作曲](https://zh.wikipedia.org/wiki/火星電台 "wikilink")、作詞、編曲、監製，「shine」部分則由[新加坡男歌手](../Page/新加坡.md "wikilink")[林俊傑擔任作曲人和監製](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")。
+Line-Up](../Page/The_Line-Up.md "wikilink")》相同，是由兩張獨立製作的迷你專輯組成。專輯「rice」部分由[北京音樂團體](https://zh.wikipedia.org/wiki/北京 "wikilink")[火星電台包辦作曲](https://zh.wikipedia.org/wiki/火星電台 "wikilink")、作詞、編曲、監製，「shine」部分則由[新加坡](../Page/新加坡.md "wikilink")男歌手[林俊傑擔任作曲人和監製](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")。
 
 專輯取名「rice & shine」靈感來自一雜誌封面的標題「RISE AND
 SHINE」。由於「rise」與「rice」發音相似的黑色幽默而被故意選用成專輯名稱，寓意為華人每天會做的兩件重要事-吃米飯和洗澡。中文名稱則為直接翻譯的《米·閃》。
 
 ### 封套設計
 
-本專輯封套設計由香港著名藝人[林海峰擔任創作總監](https://zh.wikipedia.org/wiki/林海峰 "wikilink")，並由香港著名攝影師[夏永康負責攝影部分](../Page/夏永康.md "wikilink")\[1\]。是次是繼2000年《[打得火熱](../Page/打得火熱.md "wikilink")》專輯封面後再次與林海峰的合作，上一次與夏永康的專輯封面合作則是2010和2011年的迷你專輯《[Taste
+本專輯封套設計由香港著名藝人[林海峰擔任創作總監](https://zh.wikipedia.org/wiki/林海峰 "wikilink")，並由香港著名攝影師[夏永康](../Page/夏永康.md "wikilink")負責攝影部分\[1\]。是次是繼2000年《[打得火熱](../Page/打得火熱.md "wikilink")》專輯封面後再次與林海峰的合作，上一次與夏永康的專輯封面合作則是2010和2011年的迷你專輯《[Taste
 the Atmosphere](../Page/Taste_the_Atmosphere.md "wikilink")》和《[Stranger
 Under My Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》\[2\]。
 

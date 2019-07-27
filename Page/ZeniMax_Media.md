@@ -7,10 +7,10 @@ Inc.总部位于美国[马里兰州](../Page/马里兰州.md "wikilink")[罗克�
 ZeniMax Media在2007年报告资产约12亿美元\[4\]\[5\]。
 
 2014年3月21日，ZeniMax
-Media在位於[達拉斯的](../Page/達拉斯.md "wikilink")[德州北區聯邦地方法院對](https://zh.wikipedia.org/wiki/德州 "wikilink")[Oculus
+Media在位於[達拉斯](../Page/達拉斯.md "wikilink")的[德州北區聯邦地方法院對](https://zh.wikipedia.org/wiki/德州 "wikilink")[Oculus
 VR公司](https://zh.wikipedia.org/wiki/Oculus_VR "wikilink")、Oculus
 VR的創辦人Palmer Luckey提出訴訟，ZeniMax Media主張Palmer
-Luckey非法竊取屬於該公司的[營業祕密](https://zh.wikipedia.org/wiki/營業祕密 "wikilink")、並且違反雙方在2012年五月的技術合作過程中所簽訂的保密協定，且Oculus的母公司[Facebook在](../Page/Facebook.md "wikilink")2014年收購Oculus
+Luckey非法竊取屬於該公司的[營業祕密](https://zh.wikipedia.org/wiki/營業祕密 "wikilink")、並且違反雙方在2012年五月的技術合作過程中所簽訂的保密協定，且Oculus的母公司[Facebook](../Page/Facebook.md "wikilink")在2014年收購Oculus
 VR的過程中對此事知情。\[6\]2017年2月1日，陪審團判決Oculus、Facebook、Luckey應支付ZeniMax
 Media五億美元賠償金，其中Oculus應支付二億五千萬美元、Luckey個人應負擔五千萬美元、Oculus VR前CEO
 Brendan Iribe需支付一億五千萬美元。\[7\]2018年12月13日，雙方就訴訟達成了和解。\[8\]

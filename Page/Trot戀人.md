@@ -1,4 +1,4 @@
-《**Trot戀人**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2014年6月23日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[九尾狐：狐狸小妹傳](../Page/九尾狐：狐狸小妹傳.md "wikilink")》、《[童顏美女](../Page/童顏美女.md "wikilink")》的編劇吳善馨執筆，講述藐視[Trot的音樂家](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")（[智鉉寓飾演](../Page/智鉉寓.md "wikilink")）與擁有Trot演唱才華的少女（[鄭恩地飾演](../Page/鄭恩地.md "wikilink")）相遇所發生的一系列故事。\[1\]\[2\]
+《**Trot戀人**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2014年6月23日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[九尾狐：狐狸小妹傳](../Page/九尾狐：狐狸小妹傳.md "wikilink")》、《[童顏美女](../Page/童顏美女.md "wikilink")》的編劇吳善馨執筆，講述藐視[Trot的音樂家](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")（[智鉉寓](../Page/智鉉寓.md "wikilink")飾演）與擁有Trot演唱才華的少女（[鄭恩地](../Page/鄭恩地.md "wikilink")飾演）相遇所發生的一系列故事。\[1\]\[2\]
 
 ## 演員陣容
 

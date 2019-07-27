@@ -2,7 +2,7 @@
 
 ## 行星系統
 
-2008年[匈牙利自动望远镜网络计划宣布在該恆星旁發現一顆](../Page/匈牙利自动望远镜网络计划.md "wikilink")[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")[HAT-P-8b](../Page/HAT-P-8b.md "wikilink")。該行星屬於[熱木星](../Page/熱木星.md "wikilink")\[2\]。
+2008年[匈牙利自动望远镜网络计划](../Page/匈牙利自动望远镜网络计划.md "wikilink")宣布在該恆星旁發現一顆[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")[HAT-P-8b](../Page/HAT-P-8b.md "wikilink")。該行星屬於[熱木星](../Page/熱木星.md "wikilink")\[2\]。
 
 ## 參見
 

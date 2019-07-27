@@ -1,11 +1,11 @@
 **廣州地鐵長客-龐巴迪Movia
-456列車**\[1\]\[2\]是[广州地铁的](../Page/广州地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，內部型號為**A2**（首批26列）、**A3**（增購8列）。該款列車目前分別在[1号线](../Page/广州地铁1号线.md "wikilink")、[8号线運營](../Page/广州地铁8号线.md "wikilink")。
+456列車**\[1\]\[2\]是[广州地铁](../Page/广州地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，內部型號為**A2**（首批26列）、**A3**（增購8列）。該款列車目前分別在[1号线](../Page/广州地铁1号线.md "wikilink")、[8号线運營](../Page/广州地铁8号线.md "wikilink")。
 
 ## 概要
 
 該款列車由[長春長客－龐巴迪軌道車輛製造](https://zh.wikipedia.org/wiki/長春長客－龐巴迪軌道車輛 "wikilink")，該款列车外型为“鼓形”结构，而非一号线的梯型结构。首批列車內部型號為**A2**，共156輛，26列，為當時的舊2號線通車而購買；增購車內部型號為**A3**，共48輛，8列，主要為1號線增加運力而購買。最高運營時速為80公里每小時。該款列車在[西朗車輛段](https://zh.wikipedia.org/wiki/西朗車輛段 "wikilink")、[嘉禾車輛段](https://zh.wikipedia.org/wiki/嘉禾車輛段 "wikilink")、[大洲停車場及](https://zh.wikipedia.org/wiki/大洲停車場 "wikilink")[赤沙車輛段均有配屬](https://zh.wikipedia.org/wiki/赤沙車輛段 "wikilink")。目前該款列車只配屬西朗車輛段（1号线）及赤沙車輛段（8号线）。
 
-全数列车均使用[庞巴迪制交流牵引](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")[电动机及](../Page/电动机.md "wikilink")[IGBT牵引变流器](https://zh.wikipedia.org/wiki/IGBT "wikilink")，[受电弓设于第](https://zh.wikipedia.org/wiki/受电弓 "wikilink")2及第5节。除两端设驾驶室厢不带动力外，其余4节车厢均自带动力。
+全数列车均使用[庞巴迪制交流牵引](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")[电动机](../Page/电动机.md "wikilink")及[IGBT牵引变流器](https://zh.wikipedia.org/wiki/IGBT "wikilink")，[受电弓设于第](https://zh.wikipedia.org/wiki/受电弓 "wikilink")2及第5节。除两端设驾驶室厢不带动力外，其余4节车厢均自带动力。
 
 隨著[舊2号线拆解延長為](../Page/广州地铁2号线.md "wikilink")[新2号线和](../Page/广州地铁2号线.md "wikilink")[8号线](../Page/广州地铁8号线.md "wikilink")，A2型列車被重新分配。當時有17列車被分配至8號線，新2號線在增購的[二八號線增購車](https://zh.wikipedia.org/wiki/廣州地鐵南車株機A型電動列車 "wikilink")（A4）的基礎上則只分配到9列。但配屬並不是固定的，會因應需求在2，8號線之間互相調配。
 
@@ -21,7 +21,7 @@
 
 2002年11月27日，首列MOVIA列车其中两节车厢使用[安124型运输机装载从德国柏林起飞](../Page/安托諾夫An-124.md "wikilink")，在俄罗斯加油后再飞越欧亚大陆抵达广州，2002年11月29日清晨降落在[旧白云机场](https://zh.wikipedia.org/wiki/旧白云机场 "wikilink")，之后12月3日和13日分别运入剩下四节。\[3\]2003年11月28日，第一列国产的MOVIA列车在位于长春的長客-龐巴迪軌道車輛公司下线，于12月份从长春出发，通过机车牵引运输到广州，其余车辆于2005年3月前陆续交付。\[4\]
 
-2004年10月，廣州地鐵再與龐巴迪公司簽訂增購該款列車的採購合同，共追加該款列車48輛，8列。同樣交由長客-龐巴迪軌道車輛公司生產。2006年5月，首列增购车运抵广州。2006年6月6日，[德国](../Page/德国.md "wikilink")[庞巴迪集团将其生产的第](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")1000辆地铁车辆的钥匙，在[赤沙车辆段交给广州地铁总经理卢光霖](../Page/赤沙车辆段.md "wikilink")。
+2004年10月，廣州地鐵再與龐巴迪公司簽訂增購該款列車的採購合同，共追加該款列車48輛，8列。同樣交由長客-龐巴迪軌道車輛公司生產。2006年5月，首列增购车运抵广州。2006年6月6日，[德国](../Page/德国.md "wikilink")[庞巴迪集团将其生产的第](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")1000辆地铁车辆的钥匙，在[赤沙车辆段](../Page/赤沙车辆段.md "wikilink")交给广州地铁总经理卢光霖。
 
 ## 列車特點
 

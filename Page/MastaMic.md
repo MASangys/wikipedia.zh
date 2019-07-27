@@ -1,4 +1,4 @@
-**馬米**（，），原名**唐崇政**，花名唐從政，[香港男](../Page/香港.md "wikilink")[饒舌歌手及音樂人](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")。
+**馬米**（，），原名**唐崇政**，花名唐從政，[香港](../Page/香港.md "wikilink")男[饒舌歌手及音樂人](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")。
 
 ## 簡歷
 
@@ -203,7 +203,7 @@ feat. [DJ Tin Ho](https://zh.wikipedia.org/wiki/DJ_Tin_Ho "wikilink") &
   - 《Love Is Love》天生一半（天生一半廣東版） 主唱：[鄭秀文](../Page/鄭秀文.md "wikilink")
     Featuring **MastaMic**
   - 《獨家試唱》B.O.Y.（Be On You）
-    **MastaMic**與[黎美言合唱](../Page/黎美言.md "wikilink")
+    **MastaMic**與[黎美言](../Page/黎美言.md "wikilink")合唱
 
 ### 2014年
 
@@ -231,7 +231,7 @@ feat. [DJ Tin Ho](https://zh.wikipedia.org/wiki/DJ_Tin_Ho "wikilink") &
 <!-- end list -->
 
   - Good Times Featuring Jerald
-  - Hands In The Air 與[鐵樹蘭合唱](../Page/鐵樹蘭.md "wikilink")
+  - Hands In The Air 與[鐵樹蘭](../Page/鐵樹蘭.md "wikilink")合唱
   - Just Me 主唱：陳明恩 Featuring **MastaMic**
 
 ### 2017年

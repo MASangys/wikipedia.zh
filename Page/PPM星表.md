@@ -1,11 +1,11 @@
-**PPM星表** （**位置和自行星表**）是[SAO星表的繼承者](../Page/SAO星表.md "wikilink")，它包含
+**PPM星表** （**位置和自行星表**）是[SAO星表](../Page/SAO星表.md "wikilink")的繼承者，它包含
 378,910顆恆星的精確位置和自行，涵蓋了[J2000.0](https://zh.wikipedia.org/wiki/J2000.0 "wikilink")/[FK5全天座標系統中全部的恆星](../Page/基本星表.md "wikilink")。其設計目的是盡可能的取代和結束
 [國際天文學聯合會](https://zh.wikipedia.org/wiki/國際天文學聯合會 "wikilink")（IAU）1976年制定的天空座標系統，例如以[FK5定義的](../Page/基本星表.md "wikilink")[星表](../Page/星表.md "wikilink")。因此PPM是FK5的擴充，有更多數量的恆星和更暗弱的星等\[1\]。
 
 ## 敘述
 
 PPM
-可以考慮替代之前提供類似目地的兩個[天體星表](../Page/天體.md "wikilink")：[AGK3和SAO星表](https://zh.wikipedia.org/wiki/德國天文學會星表 "wikilink")。相較於PPM，這些較舊的星表是基於（1）現在已經過時的[FK4系統的位置和自行](../Page/基本星表.md "wikilink")，（2）每顆恆星只有兩個位置的測量\[2\]。
+可以考慮替代之前提供類似目地的兩個[天體](../Page/天體.md "wikilink")星表：[AGK3和SAO星表](https://zh.wikipedia.org/wiki/德國天文學會星表 "wikilink")。相較於PPM，這些較舊的星表是基於（1）現在已經過時的[FK4系統的位置和自行](../Page/基本星表.md "wikilink")，（2）每顆恆星只有兩個位置的測量\[2\]。
 
 雖然SAO星表在9等星上算是完整的，但只有4,503顆比10等暗，PPM星表在9.5等仍是相當完整的，並且有102,672顆比10等暗的恆星，以及22,393顆比11等更暗淡。原始的PPM釋出之後，PPM補充清單的目的是要完整呈現7.5等星。對於更暗淡的恆星，在補充清單中指出：
 

@@ -7,7 +7,7 @@ Phone](../Page/Windows_Phone.md "wikilink")、[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")、[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")、[Firefox
 OS等手机系统](../Page/Firefox_OS.md "wikilink")，也可用于平板电脑和许多其他设备。并提供相关设备的技术信息、[ROM升级](https://zh.wikipedia.org/wiki/ROM "wikilink")、技术支持、Q＆A。每个型号的手机拥有自己的板块。
 
-2009年2月，[微软要求XDA](../Page/微软.md "wikilink")
+2009年2月，[微软](../Page/微软.md "wikilink")要求XDA
 Developers删除所有与[OEM相关的](https://zh.wikipedia.org/wiki/OEM "wikilink")[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")。对此，XDA
 Developers提出了一份签署了超过10,000位XDA开发成员签名的请愿书。对此，微软并没有追究相关的责任，而是认为使用由微软提供的ROM在特定的机型和设备上进行定制是可允许的。
 

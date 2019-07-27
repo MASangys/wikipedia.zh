@@ -1,5 +1,5 @@
 MEWS(新聞地圖)
-是一個香港本土的[公民新聞平台](../Page/公民新闻.md "wikilink")，平台上的報道都由非專業或非傳統新聞傳播者所發報。相類似的著名平台機制有[香港獨立媒體](../Page/香港獨立媒體.md "wikilink")、台灣的[PeoPo公民新聞](../Page/PeoPo公民新聞.md "wikilink")，南韓的[OhmyNews及美國有線電視新聞網的CNN](../Page/OhmyNews.md "wikilink")
+是一個香港本土的[公民新聞平台](../Page/公民新闻.md "wikilink")，平台上的報道都由非專業或非傳統新聞傳播者所發報。相類似的著名平台機制有[香港獨立媒體](../Page/香港獨立媒體.md "wikilink")、台灣的[PeoPo公民新聞](../Page/PeoPo公民新聞.md "wikilink")，南韓的[OhmyNews](../Page/OhmyNews.md "wikilink")及美國有線電視新聞網的CNN
 iReport等。本着全民發聲的概念，結合身邊事系統，務求做到隨時報道、放眼世界、不忘身邊。與一般新聞網站不同，MEWS對地理位置的訊息非常重視，管理員會為大部分新聞消息加入相關地理位置資料。
 
 MEWS 已於2015年12月被共享經濟集團 ECrent World Wide Company Limited (1178) 收購。

@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")25張單曲，2002年2月27日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第25張單曲，2002年2月27日發行。
 
 ## 簡介
 

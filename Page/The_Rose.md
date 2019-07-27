@@ -20,7 +20,7 @@ A. Rothchild聽了3千多首曲子才選出這30首備選曲\[2\]。
 Contemporary榜上維持了長達五週的第1名。該單曲被[RIAA認證為金唱片](https://zh.wikipedia.org/wiki/Recording_Industry_Association_of_America "wikilink")，在美國擁有50萬張的銷量\[3\]\[4\]。
 
 Bette Midler憑藉《The
-Rose》獲得[葛萊美獎最佳流行女歌手獎](../Page/葛萊美獎.md "wikilink")，打敗了[Barbra
+Rose》獲得[葛萊美獎](../Page/葛萊美獎.md "wikilink")最佳流行女歌手獎，打敗了[Barbra
 Streisand和](https://zh.wikipedia.org/wiki/Barbra_Streisand "wikilink")[Donna
 Summer](https://zh.wikipedia.org/wiki/Donna_Summer "wikilink")\[5\]。
 

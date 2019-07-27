@@ -1,4 +1,4 @@
-**Fedora專案**是一個由[紅帽公司所贊助](../Page/紅帽公司.md "wikilink")，以統籌[Fedora](../Page/Fedora.md "wikilink")
+**Fedora專案**是一個由[紅帽公司](../Page/紅帽公司.md "wikilink")所贊助，以統籌[Fedora](../Page/Fedora.md "wikilink")
 [Linux](../Page/Linux.md "wikilink")[作業系統開發的社群](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。該專案於2003年成立，當時是由[Red
 Hat Linux及Fedora](../Page/Red_Hat_Linux.md "wikilink")
 Linux專案合併而成立的。該專案不只包含了紅帽公司的員工，也包含了佔了所有貢獻者總數75%的，來自世界各地的社群成員\[1\]。
@@ -9,7 +9,7 @@ Fedora專案於2003年9月22日成立，當時紅帽公司決定將[Red Hat
 Linux分離為](../Page/Red_Hat_Linux.md "wikilink")[Red Hat Enterprise
 Linux及一個以社群為主的作業系統](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，Fedora\[2\]。同時，Red
 Hat Professional
-Workstation被建立以填補RHL留下來的空缺，但當時並未確立該產品的未來定位\[3\]。該產品在非企業的RHL使用者中馬上就被Fedora所取代。而Fedora社群則繼續蓬勃發展，Fedora發行版則獲得了專注於創新及與上游的Linux社群密切合作的，[自由及开放源代码软件發行版的美譽](../Page/自由及开放源代码软件.md "wikilink")。
+Workstation被建立以填補RHL留下來的空缺，但當時並未確立該產品的未來定位\[3\]。該產品在非企業的RHL使用者中馬上就被Fedora所取代。而Fedora社群則繼續蓬勃發展，Fedora發行版則獲得了專注於創新及與上游的Linux社群密切合作的，[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")發行版的美譽。
 
 ### 安全入侵
 

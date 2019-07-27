@@ -1,5 +1,5 @@
 **Blue Moon Rendering
-Tools**，简写为**BMRT**，直译为蓝月亮渲染工具集，是最著名的符合[RenderMan规范的逼真渲染系统之一](../Page/RenderMan规范.md "wikilink")，是[英伟达已停止开发的](../Page/英伟达.md "wikilink")[Gelato渲染器的前身](https://zh.wikipedia.org/wiki/Gelato "wikilink")。BMRT是免费软件，在当时学习RenderMan渲染规范的学生和业内人士中间很流行，它拥有当时的[PRMan所没有的一些特性](https://zh.wikipedia.org/wiki/PRMan "wikilink")，比如[光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")，因此当时[皮克斯曾使用BMRT进行光线跟踪渲染](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")。根据Exluna的资料，当时，BMRT用在了《[虫虫危机](../Page/虫虫危机.md "wikilink")》、《[精灵鼠小弟](https://zh.wikipedia.org/wiki/精灵鼠小弟 "wikilink")》、《入侵脑细胞》（*The
+Tools**，简写为**BMRT**，直译为蓝月亮渲染工具集，是最著名的符合[RenderMan规范](../Page/RenderMan规范.md "wikilink")的逼真渲染系统之一，是[英伟达](../Page/英伟达.md "wikilink")已停止开发的[Gelato渲染器的前身](https://zh.wikipedia.org/wiki/Gelato "wikilink")。BMRT是免费软件，在当时学习RenderMan渲染规范的学生和业内人士中间很流行，它拥有当时的[PRMan所没有的一些特性](https://zh.wikipedia.org/wiki/PRMan "wikilink")，比如[光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")，因此当时[皮克斯曾使用BMRT进行光线跟踪渲染](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")。根据Exluna的资料，当时，BMRT用在了《[虫虫危机](../Page/虫虫危机.md "wikilink")》、《[精灵鼠小弟](https://zh.wikipedia.org/wiki/精灵鼠小弟 "wikilink")》、《入侵脑细胞》（*The
 Cell*）、《[透明人](../Page/透明人.md "wikilink")》和《女人置上》（*Woman on Top*）等几个影片里。
 
 BMRT最早由拉里·格里兹在[康奈尔大学开发](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")，\[1\]最早于1990年代早期开始开发，并于1994年发布，然后他被皮克斯召入旗下，并参与PRMan的开发。
@@ -14,7 +14,7 @@ BMRT最早由拉里·格里兹在[康奈尔大学开发](https://zh.wikipedia.or
 
   - [BMRT和Entropy渲染器的消亡](https://web.archive.org/web/20051110134703/http://www.renderman.org/RMR/OtherLinks/blackSIGGRAPH.html)，来自RenderMan
     Repository。
-  - [BMRT网站](https://web.archive.org/web/20011201055905/http://www.exluna.com/products/bmrt/index.html)，[互联网档案馆存档](../Page/互联网档案馆.md "wikilink")。
+  - [BMRT网站](https://web.archive.org/web/20011201055905/http://www.exluna.com/products/bmrt/index.html)，[互联网档案馆](../Page/互联网档案馆.md "wikilink")存档。
 
 [Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")
 [Category:RenderMan](https://zh.wikipedia.org/wiki/Category:RenderMan "wikilink")

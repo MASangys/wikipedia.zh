@@ -4,11 +4,11 @@
 
 2013年2月14日，原屬[AIC
 Spirits的製片人](../Page/動畫國際公司.md "wikilink")[松嵜義之帶領一眾動畫師離開公司](https://zh.wikipedia.org/wiki/松嵜義之 "wikilink")，設立Production
-IMS。當時[AIC一直傳出長期積弱和欠債纍纍的消息](../Page/動畫國際公司.md "wikilink")，而[角川書店容許Production](../Page/角川書店.md "wikilink")
+IMS。當時[AIC一直傳出長期積弱和欠債纍纍的消息](../Page/動畫國際公司.md "wikilink")，而[角川書店](../Page/角川書店.md "wikilink")容許Production
 IMS接收該公司原定的新作企劃，包括AIC ASTA的《[天降之物
 永遠的我的鳥籠](../Page/天降之物.md "wikilink")》和AIC
-PLUS+的《[約會大作戰Ⅱ](../Page/約會大作戰.md "wikilink")》等。開業不久即接下《蟲奉行》和《Fantasista
-Doll》等作品做過其他公司的協力。2014年1月出現首部主力製作《[狐仙的戀愛入門](../Page/狐仙的戀愛入門.md "wikilink")》。2018年6月9日自推特宣告破產消息。\[1\]
+PLUS+的《[約會大作戰](../Page/約會大作戰.md "wikilink")Ⅱ》等。開業不久即接下《蟲奉行》和《Fantasista
+Doll》等作品做過其他公司的協力。2014年1月出現首部主力製作《[狐仙的戀愛入門](../Page/狐仙的戀愛入門.md "wikilink")》。2018年6月9日自推特宣告破產消息，旗下製作作品改篇及銷售權被其他製作委員會成員接收，製作人及主要動畫師等亦恢復自由身，沒有如成立時再出現團隊過繼的狀況。\[1\]
 
 ## 主要作品
 
@@ -29,7 +29,7 @@ Doll》等作品做過其他公司的協力。2014年1月出現首部主力製�
 <!-- end list -->
 
   - [狐仙的戀愛入門](../Page/狐仙的戀愛入門.md "wikilink")
-  - [約會大作戰Ⅱ](../Page/約會大作戰.md "wikilink")
+  - [約會大作戰](../Page/約會大作戰.md "wikilink")Ⅱ
   - [我，要成为双马尾](https://zh.wikipedia.org/wiki/我，要成为双马尾 "wikilink")
 
 <!-- end list -->
@@ -83,7 +83,7 @@ Doll》等作品做過其他公司的協力。2014年1月出現首部主力製�
 
 <!-- end list -->
 
-  - [約會大作戰Ⅱ](../Page/約會大作戰.md "wikilink") 第十一話 《七夕慶典狂三》
+  - [約會大作戰](../Page/約會大作戰.md "wikilink")Ⅱ 第十一話 《七夕慶典狂三》
 
 <!-- end list -->
 

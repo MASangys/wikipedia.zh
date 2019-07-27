@@ -1,4 +1,4 @@
-**任天堂DS家系**是[任天堂开发并从](../Page/任天堂.md "wikilink")2004年销售的[掌上游戏机家系](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")。DS家系最初作为附属[Game
+**任天堂DS家系**是[任天堂](../Page/任天堂.md "wikilink")开发并从2004年销售的[掌上游戏机家系](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")。DS家系最初作为附属[Game
 Boy家系的实验性平台](../Page/Game_Boy家系.md "wikilink")，但随后成为了任天堂旗舰掌机设备家族。其后继为[任天堂3DS家系](https://zh.wikipedia.org/wiki/任天堂3DS家系 "wikilink")。
 
 ## 任天堂DS家族
@@ -19,7 +19,7 @@ Boy的銷量紀錄，成為全世界最高銷量的掌上遊戲機。
 ### 任天堂DS Lite
 
 任天堂DS
-Lite是[任天堂DS的上級機種位置](../Page/任天堂DS.md "wikilink")。基本的性能上維持於原本的狀態，為了提高攜帶方便性而更加小型輕量化，外觀設計也換新。發售時原本是以「任天堂DS的上級機種」為由，和從來的DS並行販售，但因為DS爆發性熱潮的幫助，與相同發售過程的[Game
+Lite是[任天堂DS](../Page/任天堂DS.md "wikilink")的上級機種位置。基本的性能上維持於原本的狀態，為了提高攜帶方便性而更加小型輕量化，外觀設計也換新。發售時原本是以「任天堂DS的上級機種」為由，和從來的DS並行販售，但因為DS爆發性熱潮的幫助，與相同發售過程的[Game
 Boy Advance和](../Page/Game_Boy_Advance.md "wikilink")[Game Boy Advance
 SP同樣的](../Page/Game_Boy_Advance_SP.md "wikilink")，現在實際上以任天堂DS的後繼機進行生產、普及。
 
@@ -31,7 +31,7 @@ Lite”(iDSL)建議售價1198元人民幣，台灣版建議售價為4800新台�
 
 任天堂DSi是任天堂DS及任天堂DS
 Lite的上級機種，也是任天堂DS系列的第三代機種。本機名稱任天堂DSi中所使用的小寫英文字母i是英語用作第一人稱的「」
-，即「我」的意思，與另一任天堂家用遊戲機[Wii所代表的](../Page/Wii.md "wikilink")「We」，即「我們」的意思相對，而DSi就是My
+，即「我」的意思，與另一任天堂家用遊戲機[Wii](../Page/Wii.md "wikilink")所代表的「We」，即「我們」的意思相對，而DSi就是My
 DS，即「我的DS」，一人一機的意思。\[3\]
 
 本遊戲機於2008年11月1日於日本發售，2009年4月5日和2009年4月3日分别于美国及欧洲地区发售，神游科技在2009年12月17日于中国大陆发售“iQue

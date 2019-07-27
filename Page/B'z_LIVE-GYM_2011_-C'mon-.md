@@ -1,9 +1,9 @@
 《**B'z LIVE-GYM 2011
--C'mon-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")14張LIVE作品映像化(第12張DVD)。
+-C'mon-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第14張LIVE作品映像化(第12張DVD)。
 
 ## 簡介
 
-  - 2011年9月\~12月動員超過50萬人的巡迴演唱會，收錄的是12/18於[大阪巨蛋的場次](../Page/大阪巨蛋.md "wikilink")，其中有穿插一小段[東京巨蛋場次的畫面](../Page/東京巨蛋.md "wikilink")。
+  - 2011年9月\~12月動員超過50萬人的巡迴演唱會，收錄的是12/18於[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")的場次，其中有穿插一小段[東京巨蛋](../Page/東京巨蛋.md "wikilink")場次的畫面。
   - 發行首周約賣出5.3萬張，獲得[ORICONDVD部門排名第一](https://zh.wikipedia.org/wiki/ORICON "wikilink")，連續8作首周獲得第一。
   - 之後發行的藍光版本首周賣出了約7萬張，是2012年[ORICON藍光光碟部門年度第一](https://zh.wikipedia.org/wiki/ORICON "wikilink")。
 

@@ -1,5 +1,5 @@
 《**Five in the
-Black**》為[東方神起於](../Page/東方神起.md "wikilink")[日本](../Page/日本.md "wikilink")2007年3月14日發行之2nd[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+Black**》為[東方神起](../Page/東方神起.md "wikilink")於[日本](../Page/日本.md "wikilink")2007年3月14日發行之2nd[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 专辑曲目
 

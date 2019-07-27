@@ -11,7 +11,7 @@ style="border:1px solid \#000; width:100%; margin:auto;"\>
 
 <div style="width:70%; margin:auto; text-align:center;">
 
-[代理服务器使用者被封禁時](../Page/代理服务器.md "wikilink")，系統會[自動封禁使用同一代理服务器的用戶以免維基百科再受破壞](https://zh.wikipedia.org/wiki/Wikipedia:自动封禁 "wikilink")，故这类用戶也不可编辑。不便之處，尚祈見諒。
+[代理服务器](../Page/代理服务器.md "wikilink")使用者被封禁時，系統會[自動封禁使用同一代理服务器的用戶以免維基百科再受破壞](https://zh.wikipedia.org/wiki/Wikipedia:自动封禁 "wikilink")，故这类用戶也不可编辑。不便之處，尚祈見諒。
 
 </div>
 
@@ -69,4 +69,4 @@ project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受�
 
 ## IPv6
 
-若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6隧道瀏覽维基百科](../Page/IPv6.md "wikilink")，请[登录后再行编辑](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由于SixXS会在您编辑的同时，自动為页面内的网站链接加上“\*.sixxs.org/”后缀，而此舉会導致[IPv4使用者无法正常访问网站](../Page/IPv4.md "wikilink")。所以请務必於保存條目前去除“\*.sixxs.org/”，敬請垂注。
+若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6](../Page/IPv6.md "wikilink")隧道瀏覽维基百科，请[登录后再行编辑](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由于SixXS会在您编辑的同时，自动為页面内的网站链接加上“\*.sixxs.org/”后缀，而此舉会導致[IPv4](../Page/IPv4.md "wikilink")使用者无法正常访问网站。所以请務必於保存條目前去除“\*.sixxs.org/”，敬請垂注。

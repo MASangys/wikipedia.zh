@@ -1,5 +1,5 @@
 「**②mini ～生存的力量～**」（②mini
-〜生きるという力〜）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")1枚迷你專輯。於2007年4月18日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+〜生きるという力〜）是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第1枚迷你專輯。於2007年4月18日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -20,7 +20,7 @@
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[小倉健二](https://zh.wikipedia.org/wiki/小倉健二 "wikilink")）
       -
-        [梅田繪理香](../Page/梅田繪理香.md "wikilink")・[岡井千聖](../Page/岡井千聖.md "wikilink")・[有原栞菜主唱](../Page/有原栞菜.md "wikilink")
+        [梅田繪理香](../Page/梅田繪理香.md "wikilink")・[岡井千聖](../Page/岡井千聖.md "wikilink")・[有原栞菜](../Page/有原栞菜.md "wikilink")主唱
 3.  **Disco Queen**（ディスコ クイーン）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[田中直](https://zh.wikipedia.org/wiki/田中直 "wikilink")）
@@ -30,12 +30,12 @@
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
       -
-        [鈴木愛理主唱](../Page/鈴木愛理.md "wikilink")
+        [鈴木愛理](../Page/鈴木愛理.md "wikilink")主唱
 5.  **夏DOKI 唇膏**（夏DOKI リップスティック）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
     編曲：[山崎淳](https://zh.wikipedia.org/wiki/山崎淳 "wikilink")）
       -
-        [矢島舞美主唱](../Page/矢島舞美.md "wikilink")
+        [矢島舞美](../Page/矢島舞美.md "wikilink")主唱
 
 ### DVD
 

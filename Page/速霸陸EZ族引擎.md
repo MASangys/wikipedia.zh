@@ -3,7 +3,7 @@
 ## 概要
 
 1996年隨著[速霸陸Alcyone
-SVX停產後](../Page/速霸陸Alcyone_SVX.md "wikilink")，該公司未再推出搭載[水平對臥六缸引擎的車種](../Page/水平對臥六缸引擎.md "wikilink")。2000年原廠追加[第三代Legacy新車型](https://zh.wikipedia.org/wiki/速霸陸Legacy#第三代BE/BH系（1998年-2003年） "wikilink")「Lancaster
+SVX停產後](../Page/速霸陸Alcyone_SVX.md "wikilink")，該公司未再推出搭載[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")的車種。2000年原廠追加[第三代Legacy新車型](https://zh.wikipedia.org/wiki/速霸陸Legacy#第三代BE/BH系（1998年-2003年） "wikilink")「Lancaster
 6」，搭載最新研發的EZ30D型引擎。後者乃基於[EJ型引擎重新開發](../Page/速霸陸EJ族引擎.md "wikilink")，包括變更缸徑和衝程、縮短缸心距離、採用正時鏈條、旋繞式附件驅動等，跟同屬水平對臥六缸構造的[EG33型是截然不同的設計](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EG33型 "wikilink")\[1\]。
 
 ## EZ30D型
@@ -17,7 +17,7 @@ SVX停產後](../Page/速霸陸Alcyone_SVX.md "wikilink")，該公司未再推�
 
 ## EZ30-R型
 
-[排氣量](https://zh.wikipedia.org/wiki/排氣量 "wikilink")、缸徑、衝程、壓縮比皆和EZ30D型相同的**EZ30-R型**，在汽缸頭進氣側加入[AVCS主動閥門控制系統的可變氣門正時](../Page/AVCS主動閥門控制系統.md "wikilink")，並搭配VVL氣門揚程控制（Variable
+[排氣量](https://zh.wikipedia.org/wiki/排氣量 "wikilink")、缸徑、衝程、壓縮比皆和EZ30D型相同的**EZ30-R型**，在汽缸頭進氣側加入[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")的可變氣門正時，並搭配VVL氣門揚程控制（Variable
 Valve
 Lift之縮寫），三種進氣揚程分別為2.8mm、6.0mm和9.55mm，以對應低、中、高三種轉速域。此外，曲軸支撐點嵌入鋁合金鑄鋼片，以保持正確間隙來抑制熱膨脹，進一步降低震動和運轉噪音；還有電子節氣門、樹脂進氣歧管、每邊三合一型式芭蕉段等元件。最大馬力為245hp
 / 6,600rpm、最大扭力30.3kg·m / 4,200rpm。車型：

@@ -7,13 +7,13 @@ FA族引擎雖以FB族引擎為基礎，兩者之間卻有一些差異。FB族�
 Iinjection 4 Stroke Gasoline Engine之縮寫）的奧援，原廠改稱為DIT缸內直噴渦輪增壓系統（Direct
 Injection
 Turbo之縮寫），提高其性能表現。因應此技術，活塞頂部為獨特的凹碗形狀，故[自然進氣版的壓縮比為](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")12.5：1，[渦輪增壓版則降為](../Page/渦輪增壓器.md "wikilink")10.6：1。但是DIT並沒有進氣歧管噴油用的噴油嘴，僅有噴向汽缸內部的四支噴油嘴。為了應付高轉速的強度，[曲軸軸頸由FB族的](https://zh.wikipedia.org/wiki/曲軸 "wikilink")48mm加粗至50mm，同時前置[節氣門和縮短進氣道可獲得更佳的空氣吞吐效率](https://zh.wikipedia.org/wiki/節氣門 "wikilink")。FA20
-DIT型的中冷器和[EJ族一樣為上置式設計](../Page/速霸陸EJ族引擎.md "wikilink")，不過渦輪的安裝位置反而改在引擎下方，有助於引擎室的散熱，減少高溫蓄積的問題。另外，FA20型曾獲得2013年度[華德十大最佳汽車引擎的獎項](../Page/華德十大最佳汽車引擎.md "wikilink")。
+DIT型的中冷器和[EJ族一樣為上置式設計](../Page/速霸陸EJ族引擎.md "wikilink")，不過渦輪的安裝位置反而改在引擎下方，有助於引擎室的散熱，減少高溫蓄積的問題。另外，FA20型曾獲得2013年度[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")的獎項。
 
 ## FA20型
 
-排氣量1,998c.c.的**FA20型**是[自然進氣的構造](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")，其缸徑為86.0mm、衝程86.0mm、壓縮比12.5：1，採取DOHC、16汽門、D4-S缸內燃油直噴技術、雙[AVCS主動閥門控制系統等](../Page/AVCS主動閥門控制系統.md "wikilink")。最大馬力200ps
+排氣量1,998c.c.的**FA20型**是[自然進氣的構造](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")，其缸徑為86.0mm、衝程86.0mm、壓縮比12.5：1，採取DOHC、16汽門、D4-S缸內燃油直噴技術、雙[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")等。最大馬力200ps
 / 7,000rpm，扭力峰值20.9kgf·m /
-6,400-6,600rpm。2016年7月5日日規版小改款之際，原廠改良其引擎本體與進排氣系統，並強化[汽缸蓋與](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[汽缸本體接合部位的剛性](../Page/汽缸本體.md "wikilink")，使得最大馬力達207ps
+6,400-6,600rpm。2016年7月5日日規版小改款之際，原廠改良其引擎本體與進排氣系統，並強化[汽缸蓋與](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[汽缸本體](../Page/汽缸本體.md "wikilink")接合部位的剛性，使得最大馬力達207ps
 / 7,000rpm、扭力峰值21.6kg・m / 6,400-6,800rpm\[1\]。車型：
 
 1.  2012年迄今：[速霸陸BRZ](../Page/速霸陸BRZ.md "wikilink")
@@ -22,7 +22,7 @@ DIT型的中冷器和[EJ族一樣為上置式設計](../Page/速霸陸EJ族引�
 
 ## FA20 DIT型
 
-坊間常稱呼加裝雙渦流[渦輪增壓器的](../Page/渦輪增壓器.md "wikilink")**FA20
+坊間常稱呼加裝雙渦流[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")的**FA20
 DIT型**為「FA20T」，不過這並非官方正式名稱。此具引擎的規格參數與FA20型相同，仍採DOHC、16汽門、雙AVCS主動閥門控制系統等元件，但是壓縮比降為10.6：1。此外，此具引擎曾獲得2015年度[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")\[2\]。依調校程度不同，最大馬力和扭力分別為：
 
 1.  300ps / 5,600rpm、40.8kgf·m / 2,000-4,800rpm。

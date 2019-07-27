@@ -1,4 +1,4 @@
-《**Precious**》為[GLAY的第](../Page/GLAY.md "wikilink")42張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**Precious**》為[GLAY](../Page/GLAY.md "wikilink")的第42張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介
 

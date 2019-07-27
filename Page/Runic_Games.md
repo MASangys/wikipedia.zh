@@ -11,8 +11,8 @@ Runic Games由Travis Baldree、Max Schaefer、Erich Schaefer和Peter
 Hu在2008年8月共同创立。\[5\]公司成立目的是为了维系Mythos团队成员来开发一款作为以前项目的“[精神继承者](https://zh.wikipedia.org/wiki/精神继承者 "wikilink")”的新[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。\[6\]在Flagship
 Studios于2008年解散之后，西雅图团队开发Mythos的所有14名成员都签入Runic Games。\[7\]\[8\]
 
-游戏在2008年11月开始开发，整个开发周期大约11个月。\[9\]在2009年的[游戏开发者大会中](../Page/游戏开发者大会.md "wikilink")，Runic
-Games团队的一些成员以“火炬之光”为标题展示了他们一个单机游戏的早期版本。\[10\]值得注意的是[暴雪娱乐的](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[暗黑破坏神系列的作曲家Matt](../Page/暗黑破坏神系列.md "wikilink")
+游戏在2008年11月开始开发，整个开发周期大约11个月。\[9\]在2009年的[游戏开发者大会](../Page/游戏开发者大会.md "wikilink")中，Runic
+Games团队的一些成员以“火炬之光”为标题展示了他们一个单机游戏的早期版本。\[10\]值得注意的是[暴雪娱乐的](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[暗黑破坏神系列](../Page/暗黑破坏神系列.md "wikilink")的作曲家Matt
 Uelmen也加入了团队。到了2009年中期，公司雇佣了至少26个员工。\[11\]\[12\]
 
 因为工作室在仅仅11个月就创作出如此精美的游戏，[Gamasutra将Runic](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")
@@ -34,7 +34,7 @@ Games的第一个游戏作品，该游戏是单人[动作角色扮演游戏](htt
 OS X版本由](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[World
 Domination
 Industries](https://web.archive.org/web/20131210114439/http://www.wdindustries.net/)开发，并通过[Steam](../Page/Steam.md "wikilink")\[19\]于2010年5月发布。随后通过[XBLA在](https://zh.wikipedia.org/wiki/XBLA "wikilink")2011年3月9日发布[Xbox
-360版本](../Page/Xbox_360.md "wikilink")。\[20\]该游戏获得大量正面评价，[Metacritic汇总的](../Page/Metacritic.md "wikilink")57个评价的平均分为87分。\[21\]
+360版本](../Page/Xbox_360.md "wikilink")。\[20\]该游戏获得大量正面评价，[Metacritic](../Page/Metacritic.md "wikilink")汇总的57个评价的平均分为87分。\[21\]
 
 ### 火炬之光2（2012）
 

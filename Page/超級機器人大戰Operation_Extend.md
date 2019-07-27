@@ -1,5 +1,5 @@
 《**超級機器人大戰Operation
-Extend**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普名義發售的](../Page/萬普.md "wikilink")[超級機器人大戰系列遊戲](../Page/超級機器人大戰系列.md "wikilink")。第1章於2013年7月18日在[PlayStation
+Extend**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。第1章於2013年7月18日在[PlayStation
 Portable上配信](../Page/PlayStation_Portable.md "wikilink")，並於2015年12月24日停止配信。簡稱「機戰OE」「SRWOE」。
 
 官方宣傳為「**擴大（Extend）的戰場上，你能夠離開戰鬥嗎……**」。
@@ -11,7 +11,7 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
 
 基於盡量增加參戰作品的製作方針、登場角色都只保留各作品的主要角色、作為主軸的劇本雖然也包括各作品的故事及世界觀、但也遭到有意圖的簡化\[1\]。另外無論是主線或輔線，只要過關後，都可以重複選擇遊玩。
 
-自2009年發售的[Wii作品](../Page/Wii.md "wikilink")《[超級機械人大戰NEO](https://zh.wikipedia.org/wiki/超級機械人大戰NEO "wikilink")》（下稱《NEO》）以來，本作再次使用3D多邊形作單位的圖像。而且主要的遊戲系統亦會使用《NEO》的系統。
+自2009年發售的[Wii](../Page/Wii.md "wikilink")作品《[超級機械人大戰NEO](https://zh.wikipedia.org/wiki/超級機械人大戰NEO "wikilink")》（下稱《NEO》）以來，本作再次使用3D多邊形作單位的圖像。而且主要的遊戲系統亦會使用《NEO》的系統。
 
 ## 原創系列
 
@@ -72,7 +72,7 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
   - [戰國魔神豪將軍](../Page/戰國魔神豪將軍.md "wikilink")（）
   - [超獸機神斷空我](https://zh.wikipedia.org/wiki/超獸機神斷空我 "wikilink")（）
   - ☆[NG騎士檸檬汽水&40](../Page/NG騎士檸檬汽水&40.md "wikilink")（）
-  - ★[機動警察（TV系列）](../Page/機動警察.md "wikilink")（）
+  - ★[機動警察](../Page/機動警察.md "wikilink")（TV系列）（）
   - ★[機動警察 劇場版](../Page/機動警察.md "wikilink")（）
   - ★[Keroro軍曹](https://zh.wikipedia.org/wiki/Keroro軍曹_\(電視動畫\) "wikilink")（）
   - ☆[獸神萊卡](https://zh.wikipedia.org/wiki/獸神萊卡 "wikilink")（）

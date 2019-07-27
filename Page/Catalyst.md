@@ -1,4 +1,4 @@
-**Catalyst**是一个用[Perl语言写的](../Page/Perl.md "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")、按照[MVC结构开发的](../Page/MVC.md "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")。
+**Catalyst**是一个用[Perl](../Page/Perl.md "wikilink")语言写的、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")、按照[MVC](../Page/MVC.md "wikilink")结构开发的[Web应用框架](../Page/Web应用框架.md "wikilink")。
 
 ## 历史
 

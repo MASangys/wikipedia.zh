@@ -13,7 +13,7 @@ iPad第四代於2012年11月2日起開始出貨，配備16GB、32GB或64GB的容
 
 ## 硬件
 
-配備Retina顯示器的iPad採用9.7英寸、2,048×1,536解像度顯示屏，500萬[像素後置](../Page/像素.md "wikilink")[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")，120萬像素前置[FaceTime](../Page/FaceTime.md "wikilink")[HD鏡頭](https://zh.wikipedia.org/wiki/HD "wikilink")，採用與[iPhone
+配備Retina顯示器的iPad採用9.7英寸、2,048×1,536解像度顯示屏，500萬[像素](../Page/像素.md "wikilink")後置[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")，120萬像素前置[FaceTime](../Page/FaceTime.md "wikilink")[HD鏡頭](https://zh.wikipedia.org/wiki/HD "wikilink")，採用與[iPhone
 5所用的](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[Apple
 A6相似](../Page/Apple_A6.md "wikilink")、具有雙[中央處理器核心及四繪圖核心的](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[Apple
 A6X](../Page/Apple_A6X.md "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；並且採用與iPhone
@@ -132,7 +132,7 @@ mini在](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")3天之內共售出�
 </tr>
 <tr class="odd">
 <td><p>环境<a href="../Page/传感器.md" title="wikilink">传感器</a></p></td>
-<td><p><a href="../Page/加速規.md" title="wikilink">加速規</a>、<a href="../Page/光度感應器.md" title="wikilink">光度感應器</a>、<a href="../Page/磁强计.md" title="wikilink">磁强计和</a><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a></p></td>
+<td><p><a href="../Page/加速規.md" title="wikilink">加速規</a>、<a href="../Page/光度感應器.md" title="wikilink">光度感應器</a>、<a href="../Page/磁强计.md" title="wikilink">磁强计</a>和<a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

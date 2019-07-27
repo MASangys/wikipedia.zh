@@ -2,7 +2,7 @@
 Junior的第五張錄音室專輯](../Page/Super_Junior.md "wikilink")，於2011年8月3日發行。這張專輯距上張專輯《[BONAMANA
 美人啊](../Page/美人啊.md "wikilink")》有一年零三個月之久。至現時為止，此專輯的各版本的總銷量已突破50萬張，是韓國樂壇該年度的銷量第一\[1\]。
 
-[強仁由於在入伍中](../Page/強仁.md "wikilink")，不參與該專輯錄製、唱跳與宣傳，[韓庚由於在](../Page/韓庚.md "wikilink")2010年6月22日宣布退出Super
+[強仁](../Page/強仁.md "wikilink")由於在入伍中，不參與該專輯錄製、唱跳與宣傳，[韓庚](../Page/韓庚.md "wikilink")由於在2010年6月22日宣布退出Super
 Junior後，也不參與之後Super
 Junior任何專輯活動和宣傳，此專輯為成員[金希澈入伍前最後一張音樂作品](https://zh.wikipedia.org/wiki/金希澈 "wikilink")。
 

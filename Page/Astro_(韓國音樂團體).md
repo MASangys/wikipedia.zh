@@ -434,7 +434,7 @@ Rocky</p></td>
 <tr class="even">
 <td><p>2019</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>十八歲的瞬間</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/18歲的瞬間" title="wikilink">18歲的瞬間</a></p></td>
 <td><p>文彬</p></td>
 <td><p>鄭五宰</p></td>
 <td><p>男配角</p></td>
@@ -442,7 +442,7 @@ Rocky</p></td>
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>MBC</p></td>
-<td><p>新入史官具海玲</p></td>
+<td><p><a href="../Page/新入史官具海玲.md" title="wikilink">新入史官具海玲</a></p></td>
 <td><p>車銀優</p></td>
 <td><p>李林</p></td>
 <td><p>男主角</p></td>
@@ -1048,6 +1048,11 @@ Rocky</p></td>
 | 節目名稱               |
 | All Night          |
 | M\! Countdown      |
+| THE SHOW           |
+| Show Music core    |
+| Music Bank         |
+| Inkigayo           |
+| Simply K-Pop       |
 
 ## 演唱會及其他演出
 

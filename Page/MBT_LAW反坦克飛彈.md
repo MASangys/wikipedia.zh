@@ -1,30 +1,30 @@
 **主戰坦克及輕型反坦克武器**（，縮寫：**MBT
-LAW**；又稱：**NLAW**）是一具由[瑞典](../Page/瑞典.md "wikilink")[紳寶](../Page/萨博.md "wikilink")[波佛斯動力公司所研製和生產的便攜](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")、短程及[射後不理式第三代](../Page/射後不理.md "wikilink")[反坦克导彈發射器](https://zh.wikipedia.org/wiki/反坦克导彈 "wikilink")。設計上是為了給步兵使用的MBT
-LAW是肩射式及一次性使用設計的武器，發射一次以後需要將其拋棄。它目前正被英國、芬蘭、盧森堡和[瑞典國防軍所採用](../Page/瑞典國防軍.md "wikilink")。
+LAW**；又稱：**NLAW**）是一具由[瑞典](../Page/瑞典.md "wikilink")[紳寶](../Page/萨博.md "wikilink")[波佛斯動力公司所研製和生產的便攜](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")、短程及[射後不理](../Page/射後不理.md "wikilink")式第三代[反坦克导彈發射器](https://zh.wikipedia.org/wiki/反坦克导彈 "wikilink")。設計上是為了給步兵使用的MBT
+LAW是肩射式及一次性使用設計的武器，發射一次以後需要將其拋棄。它目前正被英國、芬蘭、盧森堡和[瑞典國防軍](../Page/瑞典國防軍.md "wikilink")所採用。
 
 ## 概述
 
 在21世纪初，MBT
-LAW由[瑞典](../Page/瑞典.md "wikilink")[紳寶](../Page/萨博.md "wikilink")[波佛斯動力公司和](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")[泰利斯防空公司](https://zh.wikipedia.org/wiki/泰利斯防空公司 "wikilink")（已經與[英國國防部合併](../Page/英國國防部.md "wikilink")）所研發。該計劃是由瑞典和英國之間的合資企業採用來自（彈頭和制導）以及[AT4
+LAW由[瑞典](../Page/瑞典.md "wikilink")[紳寶](../Page/萨博.md "wikilink")[波佛斯動力公司和](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")[泰利斯防空公司](https://zh.wikipedia.org/wiki/泰利斯防空公司 "wikilink")（已經與[英國國防部](../Page/英國國防部.md "wikilink")合併）所研發。該計劃是由瑞典和英國之間的合資企業採用來自（彈頭和制導）以及[AT4
 CS](../Page/AT4反坦克火箭筒.md "wikilink")（於密閉空間發射能力）系統所衍生的技術，以減少其研發時間。英國國防部國防採購局將會促使由英國和瑞典研製的系統，並於2005年12月與瑞典簽訂合同，而該武器於瑞典則被命名為“RB
 57”（Robot
 57，直譯：機械人57）。據估計，英國的要求​​可能是向英國武裝部隊提供高達20,000具該系統，而每個系統具有大約20年的保質期。2007年12月，芬蘭宣佈一份購置NLAW系統而未公開的購置數量的訂單。2008年12月，還宣佈另外一份（同樣未公開數量）的訂單。
 
 MBT
-LAW是一款[反坦克导彈系統](https://zh.wikipedia.org/wiki/反坦克导彈 "wikilink")，使其可以在[城鎮戰中給步兵在一個封閉的空間之內使用](../Page/城鎮戰.md "wikilink")。在這個系統中，火箭首先以低功率的點火從發射器裡發射出去。在火箭經過好幾公尺的行程直到飛行模式以後，其主火箭就會立即點火，開始推動飛彈，直到命中目標為止。
+LAW是一款[反坦克导彈系統](https://zh.wikipedia.org/wiki/反坦克导彈 "wikilink")，使其可以在[城鎮戰](../Page/城鎮戰.md "wikilink")中給步兵在一個封閉的空間之內使用。在這個系統中，火箭首先以低功率的點火從發射器裡發射出去。在火箭經過好幾公尺的行程直到飛行模式以後，其主火箭就會立即點火，開始推動飛彈，直到命中目標為止。
 
 2009年，該便攜式、短程、射後不理反坦克飛彈系統投入英國陸軍服役，命名為次世代輕型[反坦克武器](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")（，縮寫：**NLAW**），取代英國陸軍目前現有而且已經到了陳舊過時的[INSYS
 LAW 80反坦克火箭系統](../Page/LAW_80輕型反裝甲武器.md "wikilink")，以及在MBT
 LAW還沒有正式進入部署的期間作為其替代品部署的[L2A1
 ILAW](../Page/AT4反坦克火箭筒.md "wikilink")（原型：AT4
 CS；，意為：臨時輕型反坦克武器）。MBT
-LAW於[2009年12月開始交付](../Page/2009年12月.md "wikilink")。
+LAW於[2009年12月](../Page/2009年12月.md "wikilink")開始交付。
 
 ## 研製
 
-發射器和導彈兩者都是由[瑞典](../Page/瑞典.md "wikilink")[紳寶](../Page/萨博.md "wikilink")[波佛斯動力公司位於](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")[埃斯基尔斯蒂纳市和](../Page/埃斯基尔斯蒂纳.md "wikilink")[卡尔斯库加市的設施運用在反裝甲系統上獲得的專業知識所研製的](../Page/卡尔斯库加.md "wikilink")，諸如[卡爾·古斯塔夫無後座力炮](../Page/卡爾·古斯塔夫無後座力炮.md "wikilink")、[AT4
+發射器和導彈兩者都是由[瑞典](../Page/瑞典.md "wikilink")[紳寶](../Page/萨博.md "wikilink")[波佛斯動力公司位於](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")[埃斯基尔斯蒂纳](../Page/埃斯基尔斯蒂纳.md "wikilink")市和[卡尔斯库加](../Page/卡尔斯库加.md "wikilink")市的設施運用在反裝甲系統上獲得的專業知識所研製的，諸如[卡爾·古斯塔夫無後座力炮](../Page/卡爾·古斯塔夫無後座力炮.md "wikilink")、[AT4
 CS密閉空間武器和](../Page/AT4反坦克火箭筒.md "wikilink")[反坦克导彈](https://zh.wikipedia.org/wiki/反坦克导彈 "wikilink")。[泰利斯防空公司是英國的主要合作夥伴和程序貢獻者](https://zh.wikipedia.org/wiki/泰利斯防空公司 "wikilink")，讓MBT
-LAW的研製團隊當中包括的14個英國武器系統及其部件的製造的分包商成為主導。最後的組裝和測試是在泰利斯防空公司位於[贝尔法斯特的設施](../Page/贝尔法斯特.md "wikilink")。該導彈的慣性測量單元是由[BAE系統公司位於](https://zh.wikipedia.org/wiki/BAE系統公司 "wikilink")[普利茅斯的半導體](../Page/普利茅斯.md "wikilink")（慣性測量裝置內裡的矽速率傳感器的製造）的生產設施所生產。總部設在[蒂奇菲爾德的FR](https://zh.wikipedia.org/wiki/蒂奇菲爾德 "wikilink")-HITEMP負責控制翼和致動器的製造。總部設在[格倫羅西斯的](../Page/格倫羅西斯.md "wikilink")[雷神系統有限公司和總部設在](https://zh.wikipedia.org/wiki/雷神系統有限公司 "wikilink")[貝辛斯托克的](../Page/貝辛斯托克.md "wikilink")[泰雷茲導彈電子公司](https://zh.wikipedia.org/wiki/泰雷茲導彈電子公司 "wikilink")，生產電子組件和系統的近炸引信。總部設在[考文垂的](../Page/考文垂.md "wikilink")[全國塑料製品航天公司](https://zh.wikipedia.org/wiki/全國塑料製品航天公司 "wikilink")，負責塑料和複合成型品。總部設在[斯梅斯威克的Skeldings](https://zh.wikipedia.org/wiki/斯梅斯威克 "wikilink")，生產系統的專用彈簧。總部設在[蓋茨黑德的快達工程](https://zh.wikipedia.org/wiki/蓋茨黑德 "wikilink")、總部設在[布里斯托尔的朴茨茅斯航空公司](../Page/布里斯托尔.md "wikilink")、EPS物流技術公司、Leafield工程，以及總部設在[伯明翰的Metalweb公司也都是MBT](../Page/伯明翰.md "wikilink")
+LAW的研製團隊當中包括的14個英國武器系統及其部件的製造的分包商成為主導。最後的組裝和測試是在泰利斯防空公司位於[贝尔法斯特](../Page/贝尔法斯特.md "wikilink")的設施。該導彈的慣性測量單元是由[BAE系統公司位於](https://zh.wikipedia.org/wiki/BAE系統公司 "wikilink")[普利茅斯](../Page/普利茅斯.md "wikilink")的半導體（慣性測量裝置內裡的矽速率傳感器的製造）的生產設施所生產。總部設在[蒂奇菲爾德的FR](https://zh.wikipedia.org/wiki/蒂奇菲爾德 "wikilink")-HITEMP負責控制翼和致動器的製造。總部設在[格倫羅西斯](../Page/格倫羅西斯.md "wikilink")的[雷神系統有限公司和總部設在](https://zh.wikipedia.org/wiki/雷神系統有限公司 "wikilink")[貝辛斯托克](../Page/貝辛斯托克.md "wikilink")的[泰雷茲導彈電子公司](https://zh.wikipedia.org/wiki/泰雷茲導彈電子公司 "wikilink")，生產電子組件和系統的近炸引信。總部設在[考文垂](../Page/考文垂.md "wikilink")的[全國塑料製品航天公司](https://zh.wikipedia.org/wiki/全國塑料製品航天公司 "wikilink")，負責塑料和複合成型品。總部設在[斯梅斯威克的Skeldings](https://zh.wikipedia.org/wiki/斯梅斯威克 "wikilink")，生產系統的專用彈簧。總部設在[蓋茨黑德的快達工程](https://zh.wikipedia.org/wiki/蓋茨黑德 "wikilink")、總部設在[布里斯托尔](../Page/布里斯托尔.md "wikilink")的朴茨茅斯航空公司、EPS物流技術公司、Leafield工程，以及總部設在[伯明翰](../Page/伯明翰.md "wikilink")的Metalweb公司也都是MBT
 LAW聯盟的主要合作夥伴。\[1\]
 
 ## 概述
@@ -32,7 +32,7 @@ LAW聯盟的主要合作夥伴。\[1\]
 MBT LAW具有兩個最明顯的優點：預測瞄準綫和兩種攻擊模式。
 
 預測瞄準綫（Predicted Line of Sight，簡稱：PLOS）技術是MBT
-LAW核心技術及智能能的所在。該技術的實質是預測目標在下一時間點的位置。發現目標以後，使用者在瞄準的同時跟踪運動中的目標，持續時間為2至3秒。發射以前，飛彈上的制導系統的電子設備會記錄使用者的瞄準過程，計算和預測瞄準綫。射手不必考慮座標的距離和角速度，就可發射飛彈。發射以後由彈載[電子計算機控制其飛行](../Page/電子計算機.md "wikilink")，不論是掠飛攻項還是直接攻擊，飛彈都能夠預測目標瞄準綫一側的飛行彈道飛由目標；不管距離目標的遠近，飛彈在彈道上的位置都能保證飛彈與目標相遇。正是有了這項技術，才使飛彈實現[射後不理](../Page/射後不理.md "wikilink")，成為第三代[反坦克导弹](../Page/反坦克导弹.md "wikilink")。但從嚴格意義上而言，預測瞄準綫技術並非真正的是制導方式，因為飛彈只是按照預先設定的路徑飛行，只要目標在行進途中突然停止或是倒轉方向，該飛彈就有可能失去目標。
+LAW核心技術及智能能的所在。該技術的實質是預測目標在下一時間點的位置。發現目標以後，使用者在瞄準的同時跟踪運動中的目標，持續時間為2至3秒。發射以前，飛彈上的制導系統的電子設備會記錄使用者的瞄準過程，計算和預測瞄準綫。射手不必考慮座標的距離和角速度，就可發射飛彈。發射以後由彈載[電子計算機](../Page/電子計算機.md "wikilink")控制其飛行，不論是掠飛攻項還是直接攻擊，飛彈都能夠預測目標瞄準綫一側的飛行彈道飛由目標；不管距離目標的遠近，飛彈在彈道上的位置都能保證飛彈與目標相遇。正是有了這項技術，才使飛彈實現[射後不理](../Page/射後不理.md "wikilink")，成為第三代[反坦克导弹](../Page/反坦克导弹.md "wikilink")。但從嚴格意義上而言，預測瞄準綫技術並非真正的是制導方式，因為飛彈只是按照預先設定的路徑飛行，只要目標在行進途中突然停止或是倒轉方向，該飛彈就有可能失去目標。
 
 [NLAW_Training_Aid_MOD_45149588.jpg](https://zh.wikipedia.org/wiki/File:NLAW_Training_Aid_MOD_45149588.jpg "fig:NLAW_Training_Aid_MOD_45149588.jpg")
 
@@ -66,7 +66,7 @@ LAW繼承來由全世界第一種掠飛攻頂式反坦克飛彈——「」的�
   - ：\[8\]
 
   -
-  - ：在[瑞典國防軍服役的該導彈被命名為](../Page/瑞典國防軍.md "wikilink")**Robot 57**（RB
+  - ：在[瑞典國防軍](../Page/瑞典國防軍.md "wikilink")服役的該導彈被命名為**Robot 57**（RB
     57，直譯：機械人 57）。\[9\]
 
   - ：MBT
@@ -85,11 +85,11 @@ LAW繼承來由全世界第一種掠飛攻頂式反坦克飛彈——「」的�
     2: Operation
     Arrowhead）的[追加下载内容](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")《武裝行動2：英國武裝部隊》（ArmA
     2: British Armed
-    Forces），命名為「NLAW」，被[英國軍隊所使用](../Page/英國軍隊.md "wikilink")。
+    Forces），命名為「NLAW」，被[英國軍隊](../Page/英國軍隊.md "wikilink")所使用。
   - 2013年—《[-{zh-cn:武裝行動3; zh-tw:武裝行動3;
     zh-hk:武裝行動3;}-](https://zh.wikipedia.org/wiki/武裝突襲3 "wikilink")》：命名為「PCML」，被北約部隊所使用。
   - 2013年—《[-{zh-hans:战地4;
-    zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》：命名為「MBT-LAW」（中文版則命名為「反坦克導彈」），1發飛彈，最高攜彈量為4發（單人模式）。單人故事模式之中被[中国人民解放军所使用](../Page/中国人民解放军.md "wikilink")，亦可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+    zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》：命名為「MBT-LAW」（中文版則命名為「反坦克導彈」），1發飛彈，最高攜彈量為4發（單人模式）。單人故事模式之中被[中国人民解放军](../Page/中国人民解放军.md "wikilink")所使用，亦可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
     Recker）所繳獲；多人聯機模式時為美國、中國及俄羅斯三方「工程兵」（Engineer）的預設武器，被歸類為職業配備。可鎖定雷射指定目標。
 
 ## 參見

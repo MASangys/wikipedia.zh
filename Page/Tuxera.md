@@ -1,19 +1,19 @@
-Tuxera公司是[文件系统](../Page/文件系统.md "wikilink")[软件的开发商和供应商](../Page/软件.md "wikilink")。其最流行的产品Tuxera
+Tuxera公司是[文件系统](../Page/文件系统.md "wikilink")[软件](../Page/软件.md "wikilink")的开发商和供应商。其最流行的产品Tuxera
 NTFS和Tuxera
 exFAT已经登陆包括[Linux](../Page/Linux.md "wikilink")、[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")、[QNX](../Page/QNX.md "wikilink")、[Mac
 OS等多种平台](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。Tuxera的客户包括众多在[智能手机](../Page/智能手机.md "wikilink")、[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")、[电视](../Page/电视.md "wikilink")、[电视机顶盒](https://zh.wikipedia.org/wiki/电视机顶盒 "wikilink")、[车载娱乐系统](https://zh.wikipedia.org/wiki/车载娱乐系统 "wikilink")、[存储产品等消费电子领域的顶尖生产厂商](https://zh.wikipedia.org/wiki/存储产品 "wikilink")。许多消费者应该了解Tuxera
 NTFS for
-Mac，这是Tuxera公司旗下专门为实现在Mac平台上对[NTFS分区进行无缝读写功能的软件](../Page/NTFS.md "wikilink")。
+Mac，这是Tuxera公司旗下专门为实现在Mac平台上对[NTFS](../Page/NTFS.md "wikilink")分区进行无缝读写功能的软件。
 
 Tuxera公司成立于2008年，总部位于[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基](../Page/赫尔辛基.md "wikilink")，目前已经在[硅谷](../Page/硅谷.md "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[台北和](https://zh.wikipedia.org/wiki/台北 "wikilink")[首尔建立了办公室](https://zh.wikipedia.org/wiki/首尔 "wikilink")。
 
 ## 发展历史
 
-公司的起源可以追溯至上世纪90年代后期开源NTFS项目的开发。[微软在](../Page/微软.md "wikilink")1993年推出NTFS文件系统并将NTFS作为[Windows
+公司的起源可以追溯至上世纪90年代后期开源NTFS项目的开发。[微软](../Page/微软.md "wikilink")在1993年推出NTFS文件系统并将NTFS作为[Windows
 NT系统的文件系统](../Page/Windows_NT.md "wikilink")。当时Anton
 Altaparmakov是[Linux](../Page/Linux.md "wikilink")
 NTFS内核驱动开发的和维护的领军人物，与此同时，Szabolcs
-Szakacsits也在领导一个叫做[NTFS-3G的独立平台项目的开发](../Page/NTFS-3G.md "wikilink")。2006年，NTFS-3G成为第一个得到完全读写支持的文件系统驱动。NTFS的商业化活动开始于2007年，一年以后（2008年），Szabolcs
+Szakacsits也在领导一个叫做[NTFS-3G](../Page/NTFS-3G.md "wikilink")的独立平台项目的开发。2006年，NTFS-3G成为第一个得到完全读写支持的文件系统驱动。NTFS的商业化活动开始于2007年，一年以后（2008年），Szabolcs
 Szakacsits创建了Tuxera公司。2009年，Tuxera公司与微软（Microsoft）签订知识产权授权协议，公司开始快速发展并和众多主流芯片和操作系统平台供应商建立紧密的合作关系。
 
 ## 产品与服务
@@ -26,23 +26,23 @@ Tuxera NTFS是个可用于内部和外部存储、经过性能优化，具备容
 NTFS已经在市场上一些最新的高端电视、电视机顶盒、智能手机、平板电脑、路由器、网络附属存储和其他设备上使用。Tuxera
 NTFS目前适用于安卓和其他Linux平台、还有QNX、[WinCE](https://zh.wikipedia.org/wiki/WinCE "wikilink")
 Series 40、[Nucleus
-RTOS和](../Page/Nucleus_RTOS.md "wikilink")[VxWorks等](../Page/VxWorks.md "wikilink")。Tuxera同时也适用于许多构架，如[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SuperH和](../Page/SuperH.md "wikilink")[x86等](https://zh.wikipedia.org/wiki/x86 "wikilink")。
+RTOS和](../Page/Nucleus_RTOS.md "wikilink")[VxWorks](../Page/VxWorks.md "wikilink")等。Tuxera同时也适用于许多构架，如[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SuperH](../Page/SuperH.md "wikilink")和[x86等](https://zh.wikipedia.org/wiki/x86 "wikilink")。
 
 #### Tuxera exFAT
 
 Tuxera
 exFAT是Tuxera公司2009年与微软开始合作之后推出的世界上首个商用版本的[exFAT文件系统驱动](https://zh.wikipedia.org/wiki/exFAT "wikilink")。和Tuxera
 NTFS一样，Tuxera exFAT也同样具备良好的性能和容错性。Tuxera
-exFAT目前已经在最新的[宝马和](https://zh.wikipedia.org/wiki/宝马 "wikilink")[奥迪轿车](../Page/奥迪.md "wikilink")，[华硕](https://zh.wikipedia.org/wiki/华硕 "wikilink")、[富士通](../Page/富士通.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[泛泰和其他著名品牌的旗舰安卓智能手机和平板电脑上使用](../Page/泛泰.md "wikilink")。
+exFAT目前已经在最新的[宝马和](https://zh.wikipedia.org/wiki/宝马 "wikilink")[奥迪](../Page/奥迪.md "wikilink")轿车，[华硕](https://zh.wikipedia.org/wiki/华硕 "wikilink")、[富士通](../Page/富士通.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[泛泰](../Page/泛泰.md "wikilink")和其他著名品牌的旗舰安卓智能手机和平板电脑上使用。
 
 #### Tuxera FAT
 
-Tuxera是面向安卓和Linux平台，具备卓越性能和容错性的[FAT文件系统解决方案](../Page/FAT.md "wikilink")。
+Tuxera是面向安卓和Linux平台，具备卓越性能和容错性的[FAT](../Page/FAT.md "wikilink")文件系统解决方案。
 
 #### NTFS-3G
 
 NTFS-3G是在[Fedora](../Page/Fedora.md "wikilink"),
-[Ubuntu等众多](../Page/Ubuntu.md "wikilink")[GNU/Linux发行版上使用的免费](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、开源的NTFS驱动。2011年4月12日，NTFS-3G和[Ntfsprogs项目已经实现合并](https://zh.wikipedia.org/wiki/Ntfsprogs "wikilink")。
+[Ubuntu](../Page/Ubuntu.md "wikilink")等众多[GNU/Linux发行版上使用的免费](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、开源的NTFS驱动。2011年4月12日，NTFS-3G和[Ntfsprogs项目已经实现合并](https://zh.wikipedia.org/wiki/Ntfsprogs "wikilink")。
 
 ### 终端产品
 

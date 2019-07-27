@@ -1,4 +1,4 @@
-《**四年B班**》（）是[香港電視網絡所製作的清新校園小品](../Page/香港電視網絡.md "wikilink")。此劇以[野田直希](https://zh.wikipedia.org/wiki/野田直希 "wikilink")、[張嘉晉](https://zh.wikipedia.org/wiki/張嘉晉 "wikilink")、[林淑銦](https://zh.wikipedia.org/wiki/林淑銦 "wikilink")、[羅昊康](https://zh.wikipedia.org/wiki/羅昊康 "wikilink")、[朱崇熙等小學生做主角](https://zh.wikipedia.org/wiki/朱崇熙 "wikilink")，連同飾演校園裡的學生的數十小演員及飾演老師的[陳宇琛](../Page/陳宇琛.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[郭鋒及](../Page/郭鋒_\(演員\).md "wikilink")[梁寶琪等演員主演](../Page/梁寶琪.md "wikilink")。\[1\]
+《**四年B班**》（）是[香港電視網絡](../Page/香港電視網絡.md "wikilink")所製作的清新校園小品。此劇以[野田直希](https://zh.wikipedia.org/wiki/野田直希 "wikilink")、[張嘉晉](https://zh.wikipedia.org/wiki/張嘉晉 "wikilink")、[林淑銦](https://zh.wikipedia.org/wiki/林淑銦 "wikilink")、[羅昊康](https://zh.wikipedia.org/wiki/羅昊康 "wikilink")、[朱崇熙等小學生做主角](https://zh.wikipedia.org/wiki/朱崇熙 "wikilink")，連同飾演校園裡的學生的數十小演員及飾演老師的[陳宇琛](../Page/陳宇琛.md "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[郭鋒及](../Page/郭鋒_\(演員\).md "wikilink")[梁寶琪](../Page/梁寶琪.md "wikilink")等演員主演。\[1\]
 
 ## 沿革
 
@@ -6,7 +6,7 @@
 
 在大人眼中的無聊小事，在小孩心中卻是最重要的。本劇透過小孩的目光去看看世界有多遼闊，他們如何以既單純又堅決的一顆心去實現這些最重要的小事，讓大人明白到不應用自己的一套來框著他們，任他們純真的夢想飛翔。
 
-劇集以小朋友為骨幹，是約20年前[香港電台的](../Page/香港電台.md "wikilink")《[柏林週記](https://zh.wikipedia.org/wiki/柏林週記 "wikilink")》後未曾拍攝的兒童實況劇。意念源於[港視主席](../Page/香港電視網絡.md "wikilink")[王維基要求編劇向他](../Page/王維基.md "wikilink")「賣橋」，當時創作部推銷以寫實手法討論[校園欺凌](https://zh.wikipedia.org/wiki/校園欺凌 "wikilink")、教育問題的故事，其後在決定開拍題材的會議中因道德考量而否決。事後，王維基認為兒童故事應繼續下去，於是他破例第一次向創作組提出對劇集題材的要求\[2\]，建議他們創作一套走純情路線的兒童劇，最終便成為現時的《四年B班》。\[3\]
+劇集以小朋友為骨幹，是約20年前[香港電台](../Page/香港電台.md "wikilink")的《[柏林週記](https://zh.wikipedia.org/wiki/柏林週記 "wikilink")》後未曾拍攝的兒童實況劇。意念源於[港視主席](../Page/香港電視網絡.md "wikilink")[王維基](../Page/王維基.md "wikilink")要求編劇向他「賣橋」，當時創作部推銷以寫實手法討論[校園欺凌](https://zh.wikipedia.org/wiki/校園欺凌 "wikilink")、教育問題的故事，其後在決定開拍題材的會議中因道德考量而否決。事後，王維基認為兒童故事應繼續下去，於是他破例第一次向創作組提出對劇集題材的要求\[2\]，建議他們創作一套走純情路線的兒童劇，最終便成為現時的《四年B班》。\[3\]
 
 ### 演員招募
 
@@ -23,7 +23,7 @@
 
 ### 集數
 
-此劇集原定為6集\[5\]，最後更改為4集，為香港電視集數最少的劇集，[王維基解釋此劇集為試驗性質](../Page/王維基.md "wikilink")，故只有短短4集。\[6\]
+此劇集原定為6集\[5\]，最後更改為4集，為香港電視集數最少的劇集，[王維基](../Page/王維基.md "wikilink")解釋此劇集為試驗性質，故只有短短4集。\[6\]
 
 ## 演員表
 
@@ -145,7 +145,7 @@
 秘密戰隊隊員<br />
 4B班學生<br />
 張育然之死黨<br />
-於開學日與何寶琳因名稱與<a href="../Page/將軍澳綫.md" title="wikilink">將軍澳綫車站相似而被推舉為班長候選人但落選</a><br />
+於開學日與何寶琳因名稱與<a href="../Page/將軍澳綫.md" title="wikilink">將軍澳綫</a>車站相似而被推舉為班長候選人但落選<br />
 於第1集偷偷潛入教員室取回飯單，但被校長偷聽事敗<br />
 於第1集被校長處罰寫悔過書及到天台花園做三個月小花農<br />
 於第2集數學科分組活動與張育然一組，後因人數不足而被逼與陳家軒一組<br />
@@ -229,7 +229,7 @@
 <td><p><strong>冬菇妹</strong><br />
 4B班學生<br />
 余悅、李紫澄之朋友<br />
-於開學日與張君豪因名稱與<a href="../Page/將軍澳綫.md" title="wikilink">將軍澳綫車站相似而被推舉為班長候選人但落選</a></p></td>
+於開學日與張君豪因名稱與<a href="../Page/將軍澳綫.md" title="wikilink">將軍澳綫</a>車站相似而被推舉為班長候選人但落選</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/王靖維" title="wikilink">王靖維</a></p></td>
@@ -390,7 +390,7 @@
 
 ### [觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")2018
 
-此劇於2018年於[香港開電視播出](../Page/香港開電視.md "wikilink")，故可獲提名資格，惟未能入圍各個獎項的最終候選名單。
+此劇於2018年於[香港開電視](../Page/香港開電視.md "wikilink")播出，故可獲提名資格，惟未能入圍各個獎項的最終候選名單。
 
 ## 參考資料
 

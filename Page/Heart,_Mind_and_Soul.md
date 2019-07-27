@@ -1,5 +1,5 @@
 **《Heart, Mind and
-Soul》**（心，思想和灵魂）為[東方神起在](../Page/東方神起.md "wikilink")2006年3月23日於[日本發行之第一张](../Page/日本.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+Soul》**（心，思想和灵魂）為[東方神起](../Page/東方神起.md "wikilink")在2006年3月23日於[日本](../Page/日本.md "wikilink")發行之第一张[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 专辑曲目
 

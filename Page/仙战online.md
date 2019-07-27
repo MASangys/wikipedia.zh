@@ -1,4 +1,4 @@
-《**仙战online**》（亦称**仙战**）是一款[二维写实类的](https://zh.wikipedia.org/wiki/二维 "wikilink")[大型多人在线角色扮演游戏的](../Page/大型多人在线角色扮演游戏.md "wikilink")[手机游戏](../Page/手机游戏.md "wikilink")。由[深圳中青宝互动网络股份有限公司](../Page/中青宝.md "wikilink")（下称*中青宝*）运营。仙战online于2013年6月15日进行第一次技术测试，并6月21日在深圳华侨城举行发布会。由于受手机游戏市场热度高涨，运营仙战online的游戏公司[深圳中青宝因此受到影响](https://zh.wikipedia.org/wiki/深圳 "wikilink")，其股价上涨3倍\[1\]。
+《**仙战online**》（亦称**仙战**）是一款[二维写实类的](https://zh.wikipedia.org/wiki/二维 "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")的[手机游戏](../Page/手机游戏.md "wikilink")。由[深圳中青宝互动网络股份有限公司](../Page/中青宝.md "wikilink")（下称*中青宝*）运营。仙战online于2013年6月15日进行第一次技术测试，并6月21日在深圳华侨城举行发布会。由于受手机游戏市场热度高涨，运营仙战online的游戏公司[深圳中青宝因此受到影响](https://zh.wikipedia.org/wiki/深圳 "wikilink")，其股价上涨3倍\[1\]。
 
 ## 事件时间表
 

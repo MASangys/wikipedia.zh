@@ -1,4 +1,4 @@
-《**EDEN**》是由[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[月之海所發行的第](../Page/月之海.md "wikilink")3張錄音專輯，於1993年4月21日發行。
+《**EDEN**》是由[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[月之海](../Page/月之海.md "wikilink")所發行的第3張錄音專輯，於1993年4月21日發行。
 
 ## 曲目
 
@@ -33,7 +33,7 @@
         原曲：INORAN
 10. Providence
       -
-        原曲：SUGIZO。主旋律以[圓舞曲的曲調構成](../Page/圓舞曲.md "wikilink")。
+        原曲：SUGIZO。主旋律以[圓舞曲](../Page/圓舞曲.md "wikilink")的曲調構成。
 11. STAY
       -
         原曲：J

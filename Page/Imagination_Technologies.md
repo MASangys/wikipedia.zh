@@ -1,5 +1,5 @@
 **Imagination
-Technologies**公司現以[矽智財](https://zh.wikipedia.org/wiki/矽智財 "wikilink")（SIP）授權販售及DAB收音機為主要業務，[PowerVR為其主力銷售的一項技術](../Page/PowerVR.md "wikilink")。[英特爾及](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[蘋果公司分別持有Imagination](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
+Technologies**公司現以[矽智財](https://zh.wikipedia.org/wiki/矽智財 "wikilink")（SIP）授權販售及DAB收音機為主要業務，[PowerVR](../Page/PowerVR.md "wikilink")為其主力銷售的一項技術。[英特爾及](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[蘋果公司分別持有Imagination](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
 Technologies 16.02%及9.5%股份。
 
 2012年11月5日宣布收购[美普思科技](../Page/美普思科技.md "wikilink")。
@@ -47,7 +47,7 @@ Technologies。
 
   - IMGWorks - SoC design and software integration services
 
-[软件服務](../Page/软件.md "wikilink")
+[软件](../Page/软件.md "wikilink")服務
 
   - FlowTalk [VoIP](../Page/VoIP.md "wikilink") and
     [VoLTE](https://zh.wikipedia.org/wiki/VoLTE "wikilink") software

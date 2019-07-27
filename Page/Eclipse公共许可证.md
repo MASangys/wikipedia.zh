@@ -3,13 +3,13 @@
 date = 2004年2月 | OSI approved = 是\[1\] | Debian approved = 是\[2\] | Free
 Software = 是\[3\] | GPL compatible = 否\[4\] | copyleft = 部分\[5\] |
 copyfree = 否\[6\] | linking = 是 }}
-**Eclipse公共许可证**（简称**EPL**）是一种[开源软件发布许可证](../Page/开源软件.md "wikilink")，由[Eclipse基金会应用于名下的](../Page/Eclipse基金会.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")[Eclipse上](../Page/Eclipse.md "wikilink")。EPL替代了原先的（Common
+**Eclipse公共许可证**（简称**EPL**）是一种[开源软件](../Page/开源软件.md "wikilink")发布许可证，由[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")应用于名下的[集成开发环境](../Page/集成开发环境.md "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")上。EPL替代了原先的（Common
 Public License，简称CPL），在其基础上删除了专利相关诉讼的限制条款\[7\]。
 
 EPL是为适合商业应用的自由软件所量身定制的许可证，其[反版权限定也比现时的](https://zh.wikipedia.org/wiki/反版权 "wikilink")[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GNU
 GPL）等自由软件软件许可证更为松弛：在使用以EPL授权的程序时，用户有权使用、修改、复制与传播软件原始版本和修改后版本，在某些情况下则必须将修改内容一并释出\[8\]。
 
-EPL已被[开放源代码促进会认可](../Page/开放源代码促进会.md "wikilink")\[9\]，同时亦由[自由软件基金会列入自由软件许可证名单](../Page/自由软件基金会.md "wikilink")\[10\]。
+EPL已被[开放源代码促进会](../Page/开放源代码促进会.md "wikilink")认可\[9\]，同时亦由[自由软件基金会](../Page/自由软件基金会.md "wikilink")列入自由软件许可证名单\[10\]。
 
 ## 兼容性
 

@@ -38,22 +38,22 @@
   - 支援螢幕取詞功能。從另一程式選中詞彙，會彈出一個小巧的視窗以顯示譯文。
   - 支援全域快速鍵。可憑此啟動程式視窗，也可從[剪貼簿取詞翻譯](https://zh.wikipedia.org/wiki/剪貼簿 "wikilink")。
   - 主視窗和螢幕取詞視窗都可以設定為最上層顯示。
-  - 使用[WebKit排版引擎](../Page/WebKit.md "wikilink")，以呈現更準確的條目表現（其中涵蓋格式、顏色、圖像和連結）。
-  - 支援[維基百科](https://zh.wikipedia.org/wiki/維基百科 "wikilink")、[維基詞典等基於](https://zh.wikipedia.org/wiki/維基詞典 "wikilink")[MediaWiki的網站](../Page/MediaWiki.md "wikilink")。
+  - 使用[WebKit](../Page/WebKit.md "wikilink")排版引擎，以呈現更準確的條目表現（其中涵蓋格式、顏色、圖像和連結）。
+  - 支援[維基百科](https://zh.wikipedia.org/wiki/維基百科 "wikilink")、[維基詞典等基於](https://zh.wikipedia.org/wiki/維基詞典 "wikilink")[MediaWiki](../Page/MediaWiki.md "wikilink")的網站。
   - 可以透過模板化的[URL方式](https://zh.wikipedia.org/wiki/URL "wikilink")，使用像詞典那種的任意網站。
   - 可以翻譯諸多語種的長文本
-  - 具有基於[Hunspell的形態系統](../Page/Hunspell.md "wikilink")——用在單詞詞幹及拼寫建議。
+  - 具有基於[Hunspell](../Page/Hunspell.md "wikilink")的形態系統——用在單詞詞幹及拼寫建議。
   - 可以向外部程式傳送詞彙，還可連帶其他辭典結果一併輸出。
   - 完全的[Unicode支援](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
   - 支援多種語言的[音譯](https://zh.wikipedia.org/wiki/音譯 "wikilink")。
   - 支援Windows與OS
     X的本地[TTS](https://zh.wikipedia.org/wiki/TTS "wikilink")。
   - 使用由[Qt](../Page/Qt.md "wikilink")4/5介面提供的標籤式瀏覽。
-  - 支援[NPAPI網路插件](../Page/NPAPI.md "wikilink")（如[Flash
+  - 支援[NPAPI](../Page/NPAPI.md "wikilink")網路插件（如[Flash
     Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")）。
   - 支援辭典定制的[圖示](../Page/圖示.md "wikilink")。
   - 平臺支援如右：Linux/X11、Mac OS X、MaeMo、Android、Windows以及其他移植版本。
-  - 使用[Forvo線上服務時](../Page/Forvo.md "wikilink")，允許發音音訊播放。
+  - 使用[Forvo](../Page/Forvo.md "wikilink")線上服務時，允許發音音訊播放。
 
 ## 參考
 

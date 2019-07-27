@@ -6,7 +6,7 @@ Network旗下一個節目區塊品牌](https://zh.wikipedia.org/wiki/Cartoon_Net
 1997年3月17日，Toonami取代了另一個節目區塊Power Zone，成為[Cartoon
 Network週一至週五下午時段](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")，亦即兒童黃金時段的一大節目。區塊最初是由一位名為Moltar的外星製作人，於一間外星工廠作虛擬主持，由C.
 Martin Croker聲演。其造型、背景和聲音演出的安排均出自頻道集團前身的Hanna-Barbera製作的動畫《Space
-Ghost》。當時亦採用了最新的[電腦成像技術讓各虛擬人物和環境展現出立體逼真的形態](../Page/電腦成像.md "wikilink")，比多數用2D和Flash製作的同類節目區塊為高。
+Ghost》。當時亦採用了最新的[電腦成像](../Page/電腦成像.md "wikilink")技術讓各虛擬人物和環境展現出立體逼真的形態，比多數用2D和Flash製作的同類節目區塊為高。
 
 1999年7月10日，Toonami作出相對大型的更新。虛擬主持換上了名為T.O.M.的[人工智能](../Page/人工智能.md "wikilink")[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")（T.O.M.的意思為節目的營運工具，**T**oonami
 **O**perating **M**odule），由Steven Blum聲演。主持的工廠亦轉為一個同屬《Space
@@ -17,7 +17,7 @@ Network以一段半分鐘的宣言結束這個播放長達11年的區塊，有�
 
 2012年4月1日，適逢愚人節，Cartoon Network的姊妹頻道[Adult
 Swim按習慣推出一些節目編排上的玩笑](../Page/Adult_Swim.md "wikilink")，結果讓這個歷史相對悠久的區塊復活一天，並全夜播放一些經典的動作系日本動畫。\[5\]\[6\]緊隨的一天，[adult
-Swim於官方](https://zh.wikipedia.org/wiki/adult_Swim "wikilink")[Twitter詢問了一句想不想有關區塊捲土重來](../Page/Twitter.md "wikilink")，結果於短短兩天接收了足夠的正面意見，讓官方確切推行有關區塊的復活。\[7\]同年5月16日，頻道於Facebook正式宣佈Toonami由5月26日起進駐[adult
+Swim於官方](https://zh.wikipedia.org/wiki/adult_Swim "wikilink")[Twitter](../Page/Twitter.md "wikilink")詢問了一句想不想有關區塊捲土重來，結果於短短兩天接收了足夠的正面意見，讓官方確切推行有關區塊的復活。\[7\]同年5月16日，頻道於Facebook正式宣佈Toonami由5月26日起進駐[adult
 Swim星期六深夜](https://zh.wikipedia.org/wiki/adult_Swim "wikilink")00：00至06：00之時段，起初鋪排3小時的節目並在後方緊接重播，後來於10月擴展至足本播放6小時的節目。2014年1月，再因應adult
 swim投資作品而向前延伸半小時，播放6.5小時的節目。自重新開播以來，相關時段的觀眾人數曾經較過往重播時段翻倍，不過後來有所下降。直至2015年2月7日，[adult
 Swim宣佈只保留](https://zh.wikipedia.org/wiki/adult_Swim "wikilink")00：00至03：30，合共3.5小時的節目時段。
@@ -62,7 +62,7 @@ Deep Space Bass》。隨後於2003年，DJ Clarknova以本節目區塊的主題�
 Network原定為此發行合共一小時的全新大碟《Toonami: Black Hole Megamix》，但計劃後來不了了之。
 
 而在2003年直至現代，Toonami主要使用出自發行公司Ninja
-Tune的音樂，亦有不少非主流[饒舌及](../Page/饒舌.md "wikilink")[電子音樂著作](../Page/電子音樂.md "wikilink")，一般會按角色形象之轉變而大幅更換常用曲目表。
+Tune的音樂，亦有不少非主流[饒舌](../Page/饒舌.md "wikilink")及[電子音樂](../Page/電子音樂.md "wikilink")著作，一般會按角色形象之轉變而大幅更換常用曲目表。
 
 ### 遊戲
 
@@ -124,7 +124,7 @@ Toonami於1999年改革後，就不時在廣告時段播放由T.O.M.或SARA作�
   - G-Force: Guardians of Space
   - [新機動戰記高達W](https://zh.wikipedia.org/wiki/新機動戰記高達W "wikilink")
   - [蝙蝠俠：動畫系列](https://zh.wikipedia.org/wiki/蝙蝠俠_\(動畫影集\) "wikilink")
-  - [天地無用！系列](../Page/天地無用！.md "wikilink")
+  - [天地無用！](../Page/天地無用！.md "wikilink")系列
   - [青之6號](../Page/青之6號.md "wikilink")
   - [超人：動畫系列](https://zh.wikipedia.org/wiki/超人：動畫系列 "wikilink")
 
@@ -282,7 +282,7 @@ Toonami於1999年改革後，就不時在廣告時段播放由T.O.M.或SARA作�
   - [七武士](../Page/七武士.md "wikilink")
   - [交響詩篇](https://zh.wikipedia.org/wiki/交響詩篇 "wikilink")
   - [組合戰神](https://zh.wikipedia.org/wiki/組合戰神 "wikilink")
-  - [霹靂貓2011](../Page/霹靂貓.md "wikilink")
+  - [霹靂貓](../Page/霹靂貓.md "wikilink")2011
   - [攻殼機動隊 STAND ALONE
     COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")
   - [犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")
@@ -362,7 +362,7 @@ Reactor**」，為整個頻道第一次提供有關的網上重溫服務。內�
 Swim開始進駐Toonami類近的晚間時段](../Page/Adult_Swim.md "wikilink")，於是網上服務亦順勢合併為「Adult
 Swim Pipeline」。
 
-2005年，Toonami加入[自選影像服務](https://zh.wikipedia.org/wiki/自選影像 "wikilink")，並成為全世界首個以[MPEG-4技術壓縮播放的節目組合](../Page/MPEG-4.md "wikilink")。\[12\]
+2005年，Toonami加入[自選影像服務](https://zh.wikipedia.org/wiki/自選影像 "wikilink")，並成為全世界首個以[MPEG-4](../Page/MPEG-4.md "wikilink")技術壓縮播放的節目組合。\[12\]
 
 2006年4月25日，Cartoon Network宣佈與VIZ Media合作，再一次推出有關區塊的網上重溫服務，命名為「**Toonami
 Jetstream**」，同年7月30日啟播，內容再次包含獨家首播作品。\[13\]後來隨著區塊結束，Toonami

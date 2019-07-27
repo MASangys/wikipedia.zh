@@ -1,5 +1,5 @@
 《**B'z
-The"Mixture"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z在](../Page/B'z.md "wikilink")2000年所發行的第三張精選輯，收錄曲全使用混音錄製。
+The"Mixture"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2000年所發行的第三張精選輯，收錄曲全使用混音錄製。
 
 ## 簡介
 

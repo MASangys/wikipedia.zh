@@ -1,4 +1,4 @@
-「**DORADORA**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第](../Page/U-KISS.md "wikilink")6枚迷你專輯。於2012年4月25日發行。唱片公司為[NH
+「**DORADORA**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第6枚迷你專輯。於2012年4月25日發行。唱片公司為[NH
 Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要

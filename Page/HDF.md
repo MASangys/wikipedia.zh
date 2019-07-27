@@ -4,13 +4,13 @@ Group支持，其任务是确保HDF5技术的持续开发和存储在HDF中数�
 
 伴随着这个目标，HDF库和相关工具可在自由的类BSD许可证下获得用于一般使用。HDF被很多商业和非商业软件平台所支持，包括[Java](../Page/Java.md "wikilink")、[MATLAB](../Page/MATLAB.md "wikilink")、[Scilab](../Page/Scilab.md "wikilink")、[Octave](../Page/GNU_Octave.md "wikilink")、[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、[IDL](../Page/互動式數據語言.md "wikilink")、[Python](../Page/Python.md "wikilink"),
 [R](../Page/R语言.md "wikilink"),
-[Fortran和](../Page/Fortran.md "wikilink")[Julia](../Page/Julia_\(编程语言\).md "wikilink")。可免费获得的HDF发行中包括了库，命令行实用程序，测试套件源代码，Java接口，和基于Java的HDF查看器（HDFView）\[1\]。
+[Fortran](../Page/Fortran.md "wikilink")和[Julia](../Page/Julia_\(编程语言\).md "wikilink")。可免费获得的HDF发行中包括了库，命令行实用程序，测试套件源代码，Java接口，和基于Java的HDF查看器（HDFView）\[1\]。
 
 当前版本是HDF5，在设计和API上与主要的遗留版本HDF4有显著区别。
 
 ## 历史
 
-在1987年由美国[国家超级计算应用中心](../Page/国家超级电脑应用中心.md "wikilink")（NCSA）的图形基础任务攻坚组（GFTF）着手建立一种架构无关的软件库和文件格式，致力于满足在NCSA当时使用的多种不同计算平台之间移动科学数据的需要。额外的目标还包括有效的存储和访问大对象的能力，在一个容器内存储不同类型的众多对象的能力，增长格式来容纳新类型的对象和对象元数据的能力，用C和Fortran二者的程序访问存储数据的能力。最初称为AEHOO（全包容层级面向对象格式），新软件和文件格式最终叫做层级数据格式（HDF）。HDF的设计组合了来自很多不同格式的想法，包括[TIFF](../Page/TIFF.md "wikilink")、[CGM](https://zh.wikipedia.org/wiki/CGM "wikilink")、[FITS和](../Page/FITS.md "wikilink")[Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
+在1987年由美国[国家超级计算应用中心](../Page/国家超级电脑应用中心.md "wikilink")（NCSA）的图形基础任务攻坚组（GFTF）着手建立一种架构无关的软件库和文件格式，致力于满足在NCSA当时使用的多种不同计算平台之间移动科学数据的需要。额外的目标还包括有效的存储和访问大对象的能力，在一个容器内存储不同类型的众多对象的能力，增长格式来容纳新类型的对象和对象元数据的能力，用C和Fortran二者的程序访问存储数据的能力。最初称为AEHOO（全包容层级面向对象格式），新软件和文件格式最终叫做层级数据格式（HDF）。HDF的设计组合了来自很多不同格式的想法，包括[TIFF](../Page/TIFF.md "wikilink")、[CGM](https://zh.wikipedia.org/wiki/CGM "wikilink")、[FITS](../Page/FITS.md "wikilink")和[Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
 格式。这个计划在1990年和1992年收到了美国[国家科学基金会](https://zh.wikipedia.org/wiki/国家科学基金会 "wikilink")（NSF）的至关重要的拨款。大约1990年代早期[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（NASA）研究了用在地球观测系统（EOS）计划中的15种不同文件格式。在两年评述过程之后，HDF被选择为EOS数据和信息系统的标准格式。\[2\]
 
 1996年[美国能源部的](https://zh.wikipedia.org/wiki/美国能源部 "wikilink")[劳伦斯利弗摩尔](../Page/勞倫斯利佛摩國家實驗室.md "wikilink")、[洛斯阿拉莫斯和](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")[桑迪亚](../Page/桑迪亚国家实验室.md "wikilink")[国家实验室与NCSA抽调人员成立了数据建模和格式](../Page/美国能源部国家实验室.md "wikilink")（DMF）小组，研究满足高级模拟和计算规划（ASC）需要的[并行](https://zh.wikipedia.org/wiki/并行运算 "wikilink")[I/O能力的文件格式](https://zh.wikipedia.org/wiki/I/O "wikilink")。在NASA的额外支持下，三实验室与NCSA联合开发了第一版的HDF5并于1998年发行。在2003年，[R\&D杂志](https://www.rdmag.com)评选HDF5为“2002年一百个技术上最重要的新产品之一”。\[3\]
@@ -38,9 +38,9 @@ HDF5简化了文件结构，只包含两种主要的对象类型：
 
 除了这些在文件格式上的进步，HDF5包括了改进的类型系统，和表示在数据集区域上选择的数据空间对象。API是面向对象的，有关于数据集、群组、属性、类型、数据空间和特性列表。
 
-最新版的[NetCDF版本](../Page/NetCDF.md "wikilink")4基于了HDF5。
+最新版的[NetCDF](../Page/NetCDF.md "wikilink")版本4基于了HDF5。
 
-由于它使用了[B树来索引表格对象](../Page/B树.md "wikilink")，HDF5有效工作于[时间序列数据](https://zh.wikipedia.org/wiki/时间序列 "wikilink")，比如股价序列，网络监控数据，和3D气象数据。大批量的数据直接进入数组（表格对象），它可以比[SQL数据库的行存储更快访问](../Page/SQL.md "wikilink")，而非数组数据可获得B树访问。HDF5数据存储机制比SQL[星模式](https://zh.wikipedia.org/wiki/星模式 "wikilink")（star
+由于它使用了[B树](../Page/B树.md "wikilink")来索引表格对象，HDF5有效工作于[时间序列数据](https://zh.wikipedia.org/wiki/时间序列 "wikilink")，比如股价序列，网络监控数据，和3D气象数据。大批量的数据直接进入数组（表格对象），它可以比[SQL](../Page/SQL.md "wikilink")数据库的行存储更快访问，而非数组数据可获得B树访问。HDF5数据存储机制比SQL[星模式](https://zh.wikipedia.org/wiki/星模式 "wikilink")（star
 schema）更简单和快速。
 
 ### 批评
@@ -63,42 +63,42 @@ schema）更简单和快速。
   - HDF5 Image (H5IM) – 图像和光栅的C接口
   - HDF5 Table (H5TB) – 表格的C接口
   - HDF5 Packet Table (H5PT) –
-    处理“包”数据的C和[C++接口](../Page/C++.md "wikilink")，高速访问
+    处理“包”数据的C和[C++](../Page/C++.md "wikilink")接口，高速访问
   - HDF5 Dimension Scale (H5DS) – 允许向HDF5增加维度缩放
   - [Java](../Page/Java.md "wikilink")
 
 ### 第三方绑定
 
-  - [CGNS使用HDF](../Page/CGNS.md "wikilink")5作为主存储。
+  - [CGNS](../Page/CGNS.md "wikilink")使用HDF5作为主存储。
   - [Common
     Lisp库](../Page/Common_Lisp.md "wikilink")[hdf5-cffi](https://github.com/HDFGroup/hdf5-cffi)。
   - [D语言提供](https://zh.wikipedia.org/wiki/D语言 "wikilink")[到C
     API的绑定](https://github.com/Laeeth/d_hdf5)，有着高层h5py风格的包装器正在开发。
   - [Dymola](https://www.3ds.com/products-services/catia/products/dymola)使用叫做科学数据格式（SDF）的实现支持HDF5导出，自从Dymola
     2016 FD01发行。
-  - [Erlang](../Page/Erlang.md "wikilink")、[Elixir和](../Page/Elixir.md "wikilink")[LFE语言可以使用](https://zh.wikipedia.org/wiki/LFE_\(编程语言\) "wikilink")[BEAM语言绑定](https://github.com/RomanShestakov/erlhdf5)。
+  - [Erlang](../Page/Erlang.md "wikilink")、[Elixir](../Page/Elixir.md "wikilink")和[LFE语言可以使用](https://zh.wikipedia.org/wiki/LFE_\(编程语言\) "wikilink")[BEAM语言绑定](https://github.com/RomanShestakov/erlhdf5)。
   - [GNU数据语言](https://zh.wikipedia.org/wiki/GNU数据语言 "wikilink")。
-  - [Go语言](../Page/Go.md "wikilink")，通过[gonum](https://github.com/gonum)的[hdf5](https://github.com/gonum/hdf5)包。
+  - [Go](../Page/Go.md "wikilink")语言，通过[gonum](https://github.com/gonum)的[hdf5](https://github.com/gonum/hdf5)包。
   - [HDFql](http://www.hdfql.com)使用户能用C、C++、Java、Python、C\#、Fortran和R语言通过高层语言（类似SQL）管理HDF5文件。
   - [Huygens软件](https://svi.nl/HomePage)自从版本3.5使用HDF5作为主存储。
   - [IDL](../Page/互動式數據語言.md "wikilink")。
   - [IGOR
     Pro](https://www.wavemetrics.com/products/igorpro)提供对HDF5文件的完全支持\[7\]。
-  - [JHDF5库](https://wiki-bsse.ethz.ch/display/JHDF5)，是一个可替代的[Java绑定](../Page/Java.md "wikilink")，采用了与官方HDF5
+  - [JHDF5库](https://wiki-bsse.ethz.ch/display/JHDF5)，是一个可替代的[Java](../Page/Java.md "wikilink")绑定，采用了与官方HDF5
     Java绑定不同的方式，一些用户觉得更简单。
-  - [jHDF库](http://jhdf.io)，一个纯[Java实现](../Page/Java.md "wikilink")，提供了对HDF5文件的只读访问。
+  - [jHDF库](http://jhdf.io)，一个纯[Java](../Page/Java.md "wikilink")实现，提供了对HDF5文件的只读访问。
   - [JSON](../Page/JSON.md "wikilink")，通过[hdf5-json](http://hdf5-json.readthedocs.org)。
   - [Julia语言通过](../Page/Julia_\(编程语言\).md "wikilink")[HDF5](https://github.com/julialang/HDF5.jl)包提供HDF5支持。
-  - [LabVIEW可以通过第三方库获得HDF支持](../Page/LabVIEW.md "wikilink")，比如[h5labview](http://h5labview.sourceforge.net/)和[lvhdf5](http://www.upvi.net/main/index.php/products/lvhdf5)。
+  - [LabVIEW](../Page/LabVIEW.md "wikilink")可以通过第三方库获得HDF支持，比如[h5labview](http://h5labview.sourceforge.net/)和[lvhdf5](http://www.upvi.net/main/index.php/products/lvhdf5)。
   - [Lua](../Page/Lua.md "wikilink")，通过[lua-hdf5](http://colberg.org/lua-hdf5)库。
-  - [MATLAB](../Page/MATLAB.md "wikilink")、[Scilab或](../Page/Scilab.md "wikilink")[Octave](../Page/GNU_Octave.md "wikilink")，在新近发行中使用HDF5作为主存储格式。
+  - [MATLAB](../Page/MATLAB.md "wikilink")、[Scilab](../Page/Scilab.md "wikilink")或[Octave](../Page/GNU_Octave.md "wikilink")，在新近发行中使用HDF5作为主存储格式。
   - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")\[8\]提供HDF和HDF5数据的直接分析。
-  - [Perl语言](../Page/Perl.md "wikilink")\[9\]。
-  - [Python语言通过](../Page/Python.md "wikilink")[h5py](http://www.h5py.org)（对HDF5抽象的高层和低层访问二者）和通过[PyTables](https://pytables.github.io/index.html)（带有高级索引和类似数据库查询能力的高层接口）支持HDF5。通过[Python-HDF4](https://pypi.python.org/pypi/python-hdf4)和/或[PyHDF](http://hdfeos.org/software/pyhdf.php)对于Python
+  - [Perl](../Page/Perl.md "wikilink")语言\[9\]。
+  - [Python](../Page/Python.md "wikilink")语言通过[h5py](http://www.h5py.org)（对HDF5抽象的高层和低层访问二者）和通过[PyTables](https://pytables.github.io/index.html)（带有高级索引和类似数据库查询能力的高层接口）支持HDF5。通过[Python-HDF4](https://pypi.python.org/pypi/python-hdf4)和/或[PyHDF](http://hdfeos.org/software/pyhdf.php)对于Python
     2和Python
     3二者支持HDF4。流行的数据操纵包[pandas可以通过](https://zh.wikipedia.org/wiki/Pandas_\(软件\) "wikilink")导入和导出HDF5。
-  - [R语言通过](../Page/R语言.md "wikilink")[rhdf5](http://bioconductor.org/packages/release/bioc/html/rhdf5.html)和[hdf5r](https://CRAN.R-project.org/package=hdf5r)包提供支持。
-  - [Rust语言通过第三方库获得HDF支持](../Page/Rust.md "wikilink")，比如[hdf5](https://crates.io/crates/hdf5)。
+  - [R语言](../Page/R语言.md "wikilink")通过[rhdf5](http://bioconductor.org/packages/release/bioc/html/rhdf5.html)和[hdf5r](https://CRAN.R-project.org/package=hdf5r)包提供支持。
+  - [Rust](../Page/Rust.md "wikilink")语言通过第三方库获得HDF支持，比如[hdf5](https://crates.io/crates/hdf5)。
 
 ## 工具
 

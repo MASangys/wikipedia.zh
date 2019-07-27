@@ -1,9 +1,9 @@
-**紅牛RB9**由[一級方程式衛冕](https://zh.wikipedia.org/wiki/一級方程式 "wikilink")[冠軍車隊](../Page/一级方程式世界车队冠军列表.md "wikilink")[英菲尼迪紅牛車隊所設計](https://zh.wikipedia.org/wiki/英菲尼迪紅牛車隊 "wikilink")。\[1\]\[2\]這台賽車於[2013年世界一級方程式錦標賽整個賽季](https://zh.wikipedia.org/wiki/2013年世界一級方程式錦標賽 "wikilink")，由三屆衛冕[冠軍車手](https://zh.wikipedia.org/wiki/F1世界车手冠军列表 "wikilink")[賽巴斯蒂安·維泰爾及他的隊友](../Page/賽巴斯蒂安·維泰爾.md "wikilink")[馬克·韋伯所駕駛](https://zh.wikipedia.org/wiki/馬克·韋伯 "wikilink")。\[3\]\[4\]賽巴斯蒂安·維泰爾依照慣例為他的賽車RB9命名＂Hungry
-Heidi＂，取名於德國模特兒[海迪·克林](../Page/海迪·克林.md "wikilink")。\[5\]於[2013年印度大奖赛後](../Page/2013年印度大奖赛.md "wikilink")，維泰爾取得第十勝，並且連續四年衛冕了車手冠軍。
+**紅牛RB9**由[一級方程式衛冕](https://zh.wikipedia.org/wiki/一級方程式 "wikilink")[冠軍車隊](../Page/一级方程式世界车队冠军列表.md "wikilink")[英菲尼迪紅牛車隊所設計](https://zh.wikipedia.org/wiki/英菲尼迪紅牛車隊 "wikilink")。\[1\]\[2\]這台賽車於[2013年世界一級方程式錦標賽整個賽季](https://zh.wikipedia.org/wiki/2013年世界一級方程式錦標賽 "wikilink")，由三屆衛冕[冠軍車手](https://zh.wikipedia.org/wiki/F1世界车手冠军列表 "wikilink")[賽巴斯蒂安·維泰爾](../Page/賽巴斯蒂安·維泰爾.md "wikilink")及他的隊友[馬克·韋伯所駕駛](https://zh.wikipedia.org/wiki/馬克·韋伯 "wikilink")。\[3\]\[4\]賽巴斯蒂安·維泰爾依照慣例為他的賽車RB9命名＂Hungry
+Heidi＂，取名於德國模特兒[海迪·克林](../Page/海迪·克林.md "wikilink")。\[5\]於[2013年印度大奖赛](../Page/2013年印度大奖赛.md "wikilink")後，維泰爾取得第十勝，並且連續四年衛冕了車手冠軍。
 
 ## 比賽歷史
 
-2013年1月，紅牛的首席技術指導[亚德里安·纽维承認RB](../Page/亚德里安·纽维.md "wikilink")9賽車的研發在[2012年的下半季暫時擱置了](https://zh.wikipedia.org/wiki/2012年世界一級方程式錦標賽 "wikilink")，如此團隊才能專注於發展他的前任[RB8](../Page/紅牛RB8.md "wikilink")，為了確保2012年錦標賽的車手和車隊冠軍。\[6\]
+2013年1月，紅牛的首席技術指導[亚德里安·纽维](../Page/亚德里安·纽维.md "wikilink")承認RB9賽車的研發在[2012年的下半季暫時擱置了](https://zh.wikipedia.org/wiki/2012年世界一級方程式錦標賽 "wikilink")，如此團隊才能專注於發展他的前任[RB8](../Page/紅牛RB8.md "wikilink")，為了確保2012年錦標賽的車手和車隊冠軍。\[6\]
 
 RB9在[澳大利亞強勢登場](https://zh.wikipedia.org/wiki/2013年澳大利亞大獎賽 "wikilink")，維泰爾在週五的兩次自由練習皆排在首位\[7\]\[8\]，在排位賽也在隊友韋伯之前獲得桿位。\[9\]在正賽中，韋伯的起跑因為[KERS故障而不太順利](https://zh.wikipedia.org/wiki/动能回收系统 "wikilink")，\[10\]維泰爾則遭受輪胎衰退嚴重的問題以第三名結束比賽。韋伯獲得第六名。\[11\]
 {{-}}

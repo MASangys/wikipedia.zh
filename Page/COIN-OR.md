@@ -1,11 +1,11 @@
 **COIN-OR**是**[作業研究](https://zh.wikipedia.org/wiki/作業研究 "wikilink")(Operations
 Research)計算基礎架構(Computational
-Infrastructure)**的縮寫，這是一個致力於"為公開文獻上數學[理論之數學](../Page/理論.md "wikilink")[軟體而建立](https://zh.wikipedia.org/wiki/軟體 "wikilink")(create
+Infrastructure)**的縮寫，這是一個致力於"為公開文獻上數學[理論](../Page/理論.md "wikilink")之數學[軟體而建立](https://zh.wikipedia.org/wiki/軟體 "wikilink")(create
 for mathematical software what the open literature is for mathematical
 theory)"的專案。公開文獻(例如研究期刊)提供作業研究社群文件的審查與保存。作業研究期刊上的數學理論，論文裡經常有計算案例的數值結果。產生這些數值結果所開發的軟體、模型與資料通常並未公開。這會阻礙需要重現計算結果、進行公平比較，以求精益求精的研究人員。
 
 [Linux](../Page/Linux.md "wikilink"),
-[Apache與其他專案的成功推動軟體開發的](https://zh.wikipedia.org/wiki/Apache "wikilink")[開源模式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。一群[IBM研究人員提議以類似](../Page/IBM.md "wikilink")[開放源碼方式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")"發布"軟體、模型與資料。COIN-OR被認為是在[作業研究計算社群推動](https://zh.wikipedia.org/wiki/作業研究 "wikilink")[開放源碼的一項倡議](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，並提供[開源軟體專案營運所需的線上資源與服務](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")。
+[Apache與其他專案的成功推動軟體開發的](https://zh.wikipedia.org/wiki/Apache "wikilink")[開源模式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。一群[IBM](../Page/IBM.md "wikilink")研究人員提議以類似[開放源碼方式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")"發布"軟體、模型與資料。COIN-OR被認為是在[作業研究計算社群推動](https://zh.wikipedia.org/wiki/作業研究 "wikilink")[開放源碼的一項倡議](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，並提供[開源軟體專案營運所需的線上資源與服務](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")。
 
 COIN-OR網站於2000年與喬治亞州亞特蘭大市第17屆數學程式設計國際研討會一起開張時帶有實驗性質。2007年時COIN-OR有25個專案，包括[線性規劃](https://zh.wikipedia.org/wiki/線性規劃 "wikilink")(linear
 programming 如 COIN-OR

@@ -1,5 +1,5 @@
 《**one's
-future**》是[日本女性声優](../Page/日本.md "wikilink")[鈴田美夜子的](../Page/鈴田美夜子.md "wikilink")[单曲](../Page/单曲.md "wikilink")。于2010年4月23日由[Key
+future**》是[日本](../Page/日本.md "wikilink")女性声優[鈴田美夜子](../Page/鈴田美夜子.md "wikilink")的[单曲](../Page/单曲.md "wikilink")。于2010年4月23日由[Key
 Sounds
 Label发售](../Page/Key_Sounds_Label.md "wikilink")，其序列号为KSLA-0056。\[1\]
 

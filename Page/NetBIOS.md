@@ -1,4 +1,4 @@
-**NetBIOS**，為**網路基本輸入輸出系統**（）的縮寫，它提供了[OSI模型中的](../Page/OSI模型.md "wikilink")[會話層服務](https://zh.wikipedia.org/wiki/會話層 "wikilink")，讓在不同電腦上運行的不同程式，可以在[區域網路中](https://zh.wikipedia.org/wiki/區域網路 "wikilink")，互相連線，以及分享資料。嚴格來說，NetBIOS不是一種網路協定，而是[应用程序接口](../Page/应用程序接口.md "wikilink")（API）。較古老的作業系統，使用[IEEE
+**NetBIOS**，為**網路基本輸入輸出系統**（）的縮寫，它提供了[OSI模型](../Page/OSI模型.md "wikilink")中的[會話層服務](https://zh.wikipedia.org/wiki/會話層 "wikilink")，讓在不同電腦上運行的不同程式，可以在[區域網路中](https://zh.wikipedia.org/wiki/區域網路 "wikilink")，互相連線，以及分享資料。嚴格來說，NetBIOS不是一種網路協定，而是[应用程序接口](../Page/应用程序接口.md "wikilink")（API）。較古老的作業系統，使用[IEEE
 802.2與](https://zh.wikipedia.org/wiki/IEEE_802.2 "wikilink")[IPX/SPX協定](https://zh.wikipedia.org/wiki/IPX/SPX "wikilink")，可以使用[NetBIOS
 Frames協定或NetBIOS](https://zh.wikipedia.org/wiki/NetBIOS_Frames協定 "wikilink")
 over IPX/SPX協定來運作。現代作業系統，多數都使用TCP/IP協定，則可透過[NetBIOS over
@@ -15,7 +15,7 @@ Inc開發了一套軟體[API](https://zh.wikipedia.org/wiki/API "wikilink")，�
 PC
 Network](https://zh.wikipedia.org/wiki/IBM_PC_Network "wikilink")[區域網路中](https://zh.wikipedia.org/wiki/區域網路 "wikilink")。
 
-1984年，[IBM授權開放這套標準的](../Page/IBM.md "wikilink")[API給外界使用](https://zh.wikipedia.org/wiki/API "wikilink")，用來與IBM電腦進行網路連結。
+1984年，[IBM](../Page/IBM.md "wikilink")授權開放這套標準的[API給外界使用](https://zh.wikipedia.org/wiki/API "wikilink")，用來與IBM電腦進行網路連結。
 
 1985年，IBM開發[令牌環](https://zh.wikipedia.org/wiki/令牌環 "wikilink")（token
 ring）網路，為了讓舊有使用NetBIOS
@@ -26,7 +26,7 @@ ring網路上提供服務，特別是在[IEEE
 802.2](https://zh.wikipedia.org/wiki/IEEE_802.2 "wikilink")
 [LLC層](https://zh.wikipedia.org/wiki/LLC "wikilink")。
 
-1986年，[Novell發表](../Page/Novell.md "wikilink")[NetWare](https://zh.wikipedia.org/wiki/NetWare "wikilink")
+1986年，[Novell](../Page/Novell.md "wikilink")發表[NetWare](https://zh.wikipedia.org/wiki/NetWare "wikilink")
 2.0，將NetBIOS實作在其中。Novell讓NetBIOS運作在[IPX/SPX協定上](https://zh.wikipedia.org/wiki/IPX/SPX "wikilink")，提出了[NetBIOS
 over
 IPX/SPX協定](https://zh.wikipedia.org/wiki/NetBIOS_over_IPX/SPX "wikilink")。

@@ -1,4 +1,4 @@
-《**文明V：众神与国王**》（）是由[Firaxis开发的](https://zh.wikipedia.org/wiki/Firaxis "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")[文明系列的第五部](../Page/文明系列.md "wikilink")——《[-{zh-cn:文明V;zh-tw:文明帝國5;}-](https://zh.wikipedia.org/wiki/文明V "wikilink")》的首部资料片，於2012年6月19日於北美洲市場推出。《文明V：众神与国王》中不但增添了27种新单位、13种新建筑、9种新奇迹、9种可游玩的新文明，更改了投射兵种的升级链，还重新引入了[宗教系统和](../Page/宗教.md "wikilink")[谍报机制](https://zh.wikipedia.org/wiki/谍报 "wikilink")，同时[外交也较前作而言变得更为丰富](../Page/外交.md "wikilink")。
+《**文明V：众神与国王**》（）是由[Firaxis开发的](https://zh.wikipedia.org/wiki/Firaxis "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")[文明系列](../Page/文明系列.md "wikilink")的第五部——《[-{zh-cn:文明V;zh-tw:文明帝國5;}-](https://zh.wikipedia.org/wiki/文明V "wikilink")》的首部资料片，於2012年6月19日於北美洲市場推出。《文明V：众神与国王》中不但增添了27种新单位、13种新建筑、9种新奇迹、9种可游玩的新文明，更改了投射兵种的升级链，还重新引入了[宗教](../Page/宗教.md "wikilink")系统和[谍报机制](https://zh.wikipedia.org/wiki/谍报 "wikilink")，同时[外交](../Page/外交.md "wikilink")也较前作而言变得更为丰富。
 
 ## 新增文明
 
@@ -51,7 +51,7 @@
 
 ## 宗教
 
-资料片中，世界各教只是借鉴为宗教名字和图标的外壳而已，宗教效果完全由玩家自己选择的神系、创立者信条及追随者信条定义（不是自由定义），宗教名字同样也可以自定义。与[文明IV相比](../Page/文明IV.md "wikilink")，众神与诸王宗教系统自由度更高，但在外交的影响力上不及前者。特殊地，资料片自带的剧情*走向文艺复兴*中，宗教的外交影响力相对于非剧情游戏有一定加强。
+资料片中，世界各教只是借鉴为宗教名字和图标的外壳而已，宗教效果完全由玩家自己选择的神系、创立者信条及追随者信条定义（不是自由定义），宗教名字同样也可以自定义。与[文明IV](../Page/文明IV.md "wikilink")相比，众神与诸王宗教系统自由度更高，但在外交的影响力上不及前者。特殊地，资料片自带的剧情*走向文艺复兴*中，宗教的外交影响力相对于非剧情游戏有一定加强。
 
 以下为游戏借用的宗教：（排名按拼音先后）
 
@@ -71,7 +71,7 @@
 
 ## 评价
 
-游戏的初期评价是正面的，在评论汇总网站[Metacritic收集的](../Page/Metacritic.md "wikilink")42个评价中，游戏的平均得分为80/100分\[1\]。
+游戏的初期评价是正面的，在评论汇总网站[Metacritic](../Page/Metacritic.md "wikilink")收集的42个评价中，游戏的平均得分为80/100分\[1\]。
 
 ## 参考文献
 

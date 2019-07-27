@@ -1,12 +1,12 @@
 《**Crime Scene
-犯罪現場**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台推出的推理型綜藝節目](../Page/JTBC.md "wikilink")，自稱為國內首個[RPG推理遊戲](../Page/角色扮演游戏.md "wikilink")，以神祕殺人事件為背景。參與者既要擺脫兇手嫌疑，又要一起找出真正的兇手，玩法與英國圖版遊戲[妙探尋兇](../Page/妙探尋兇.md "wikilink")（Cluedo）類似\[1\]。
+犯罪現場**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")電視台推出的推理型綜藝節目，自稱為國內首個[RPG推理遊戲](../Page/角色扮演游戏.md "wikilink")，以神祕殺人事件為背景。參與者既要擺脫兇手嫌疑，又要一起找出真正的兇手，玩法與英國圖版遊戲[妙探尋兇](../Page/妙探尋兇.md "wikilink")（Cluedo）類似\[1\]。
 
 第一季於2014年5月10日起至7月12日，韓國時間每週六晚上11點播出。
 後續則有續作《[Crime Scene 犯罪現場
 (第二季)](../Page/Crime_Scene_犯罪現場_\(第二季\).md "wikilink")》和《[Crime
 Scene 犯罪現場 (第三季)](../Page/Crime_Scene_犯罪現場_\(第三季\).md "wikilink")》。
 
-2016年3月27日起中國網路平台[芒果TV播出官方授權節目](../Page/芒果TV.md "wikilink")《[明星大偵探](../Page/明星大偵探.md "wikilink")》\[2\]。
+2016年3月27日起中國網路平台[芒果TV](../Page/芒果TV.md "wikilink")播出官方授權節目《[明星大偵探](../Page/明星大偵探.md "wikilink")》\[2\]。
 
 ## 遊戲節目形式
 

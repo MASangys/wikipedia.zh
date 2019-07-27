@@ -1,6 +1,6 @@
 **苹果酸脱氢酶 (草酰乙酸脱羧)
 (NADP<sup>+</sup>)**（，[EC](https://zh.wikipedia.org/wiki/EC编号 "wikilink")
-[1.1.1.40](http://enzyme.expasy.org/EC/1.1.1.40)）是一种以[NAD<sup>+</sup>或](../Page/烟酰胺腺嘌呤二核苷酸.md "wikilink")[NADP<sup>+</sup>为](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink")[受体](../Page/受体_\(生物化学\).md "wikilink")、作用于[供体](https://zh.wikipedia.org/wiki/供体 "wikilink")[CH](https://zh.wikipedia.org/wiki/次甲基 "wikilink")-[OH](../Page/羟基.md "wikilink")[基团上的](https://zh.wikipedia.org/wiki/基团 "wikilink")[氧化还原酶](https://zh.wikipedia.org/wiki/氧化还原酶 "wikilink")。这种[酶能](../Page/酶.md "wikilink")[催化以下](../Page/催化.md "wikilink")[酶促反应](../Page/酶促反应.md "wikilink")：
+[1.1.1.40](http://enzyme.expasy.org/EC/1.1.1.40)）是一种以[NAD<sup>+</sup>或](../Page/烟酰胺腺嘌呤二核苷酸.md "wikilink")[NADP<sup>+</sup>为](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink")[受体](../Page/受体_\(生物化学\).md "wikilink")、作用于[供体](https://zh.wikipedia.org/wiki/供体 "wikilink")[CH](https://zh.wikipedia.org/wiki/次甲基 "wikilink")-[OH](../Page/羟基.md "wikilink")[基团上的](https://zh.wikipedia.org/wiki/基团 "wikilink")[氧化还原酶](https://zh.wikipedia.org/wiki/氧化还原酶 "wikilink")。这种[酶](../Page/酶.md "wikilink")能[催化](../Page/催化.md "wikilink")以下[酶促反应](../Page/酶促反应.md "wikilink")：
 
   -
     (*S*)-[苹果酸](../Page/苹果酸.md "wikilink") +
@@ -9,7 +9,7 @@
     [CO<sub>2</sub>](../Page/二氧化碳.md "wikilink") + NADPH
 
 苹果酸脱氢酶 (草酰乙酸脱羧)
-(NADP<sup>+</sup>)是[C<sub>4</sub>和](../Page/C4类二氧化碳固定.md "wikilink")[CAM](https://zh.wikipedia.org/wiki/景天酸代谢 "wikilink")[植物固定](../Page/植物.md "wikilink")[二氧化碳过程中使用的三种脱羧酶之一](../Page/二氧化碳.md "wikilink")（其余两种分别为[苹果酸脱氢酶
+(NADP<sup>+</sup>)是[C<sub>4</sub>和](../Page/C4类二氧化碳固定.md "wikilink")[CAM](https://zh.wikipedia.org/wiki/景天酸代谢 "wikilink")[植物](../Page/植物.md "wikilink")固定[二氧化碳](../Page/二氧化碳.md "wikilink")过程中使用的三种脱羧酶之一（其余两种分别为[苹果酸脱氢酶
 (脱羧)和](../Page/苹果酸脱氢酶_\(脱羧\).md "wikilink")[磷酸烯醇丙酮酸羧化激酶](../Page/磷酸烯醇丙酮酸羧化激酶.md "wikilink")）。\[1\]\[2\]
 
 ## 参考文献

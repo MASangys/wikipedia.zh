@@ -20,7 +20,7 @@ Know"伴奏为背景的幻灯片并介绍了即将到来的演唱会。
 
 ## 反响
 
-最初对专辑的负面评价集中于专辑曲风不同于以往。[Metacritic的在线调查中](../Page/Metacritic.md "wikilink")，综合线上的7份评价，《Never
+最初对专辑的负面评价集中于专辑曲风不同于以往。[Metacritic](../Page/Metacritic.md "wikilink")的在线调查中，综合线上的7份评价，《Never
 Gone》只得到了40分（满分100分）。
 
 ## 曲目列表

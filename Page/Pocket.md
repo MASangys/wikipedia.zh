@@ -1,5 +1,5 @@
 **Pocket**（前称**Read It
-Later**）是一个用于管理[互联网文章的](../Page/互联网.md "wikilink")[应用程序及服务](../Page/应用程序.md "wikilink")，目前已有[OS
+Later**）是一个用于管理[互联网](../Page/互联网.md "wikilink")文章的[应用程序](../Page/应用程序.md "wikilink")及服务，目前已有[OS
 X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、[Kobo
 eReader等平台的客户端](https://zh.wikipedia.org/wiki/Kobo_eReader "wikilink")，各種浏览器中亦有其附加元件。\[1\]Pocket以前只可以用于[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")\[2\]。
@@ -13,7 +13,7 @@ eReader等平台的客户端](https://zh.wikipedia.org/wiki/Kobo_eReader "wikili
 Read It Later最早由Nathan
 Weiner于2007年8月发布。随着产品使用人数的增多，他在用户数量达到几百万时將办公室搬至了[硅谷](../Page/硅谷.md "wikilink")。另外四人加入了Read
 It Later团队。Nathan的創造Read It Later是為了製造像TiVo公司网页内容的应用程序。Nathan
-Weiner不担心[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Instapaper及](../Page/Instapaper.md "wikilink")[Safari](../Page/Safari.md "wikilink")“阅读列表”功能的竞争，他指出只有不到1%的用户使用iOS平台的Safari浏览器。\[6\]
+Weiner不担心[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Instapaper](../Page/Instapaper.md "wikilink")及[Safari](../Page/Safari.md "wikilink")“阅读列表”功能的竞争，他指出只有不到1%的用户使用iOS平台的Safari浏览器。\[6\]
 
 后来在2012年获得了250万美元的2011年和额外的500万美元的[风险投资](../Page/风险投资.md "wikilink")。除了一些无名[天使投资人](https://zh.wikipedia.org/wiki/天使投资人 "wikilink")，资金来自基金会的资金，基线风险投资公司，Google风险投资公司，以及创始人集体投资。\[7\]
 
@@ -33,9 +33,9 @@ Later的[API](https://zh.wikipedia.org/wiki/API "wikilink")。\[14\]\[15\]
 
 ## 评价
 
-[CNET的肯特说](../Page/CNET.md "wikilink")：“Read It
+[CNET](../Page/CNET.md "wikilink")的肯特说：“Read It
 Later是非常实用的，可以用于保存所有的文章和新闻报道，我可以在上下班或排队等候时阅读。”\[16\]PC世界的Erez
-Zukerman说，有足够的理由购买“方便的应用程序”以支持开发人员。\[17\][福布斯的Bill](../Page/福布斯.md "wikilink")
+Zukerman说，有足够的理由购买“方便的应用程序”以支持开发人员。\[17\][福布斯](../Page/福布斯.md "wikilink")的Bill
 Barol认为，使用Read It
 Later工作较Instapaper更好，他说，“它使我心爱的Instapaper的外观和感觉有点乏味。”\[18\]Pocket被[時代雜誌评为](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")2013年50个最佳Android应用。\[19\]
 

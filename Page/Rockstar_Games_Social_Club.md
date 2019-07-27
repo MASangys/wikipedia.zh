@@ -13,7 +13,7 @@ Club會員後，玩家會獲得專屬的遊戲內容，並能參加「Social Clu
 ## 支援遊戲
 
 截至2013年，以下遊戲中包含有Rockstar Games Social
-Club平台\[9\]。目前，幫會系統只支持[江湖本色3](https://zh.wikipedia.org/wiki/江湖本色3 "wikilink")、[俠盜獵車手V及其之後發布的遊戲](../Page/俠盜獵車手V.md "wikilink")\[10\]。
+Club平台\[9\]。目前，幫會系統只支持[江湖本色3](https://zh.wikipedia.org/wiki/江湖本色3 "wikilink")、[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")及其之後發布的遊戲\[10\]。
 
 | 遊戲                                                                      | 註釋        |
 | ----------------------------------------------------------------------- | --------- |

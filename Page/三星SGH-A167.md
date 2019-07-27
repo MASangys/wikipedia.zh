@@ -1,10 +1,10 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:A167.jpg "fig:缩略图") **Samsung
-SGH-A167**是由[三星電子發佈的](../Page/三星電子.md "wikilink")[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
+SGH-A167**是由[三星電子](../Page/三星電子.md "wikilink")發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ## 評價
 
-[CNET在](../Page/CNET.md "wikilink")5分之中給予了 SGH-A167
-1.5分。其體面的聲音質量和直接、清晰的菜單備受讚賞。但[CNET也批評鍵盤和照片質量不佳](../Page/CNET.md "wikilink")。\[1\]
+[CNET](../Page/CNET.md "wikilink")在5分之中給予了 SGH-A167
+1.5分。其體面的聲音質量和直接、清晰的菜單備受讚賞。但[CNET](../Page/CNET.md "wikilink")也批評鍵盤和照片質量不佳。\[1\]
 
 ## 外部連結
 

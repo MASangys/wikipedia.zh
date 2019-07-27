@@ -1,5 +1,5 @@
 《**SINGLE
-BEST**》是[日本的](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[川嶋愛在](../Page/川嶋愛.md "wikilink")2008年6月4日發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
+BEST**》是[日本](../Page/日本.md "wikilink")的[創作歌手](../Page/創作歌手.md "wikilink")[川嶋愛](../Page/川嶋愛.md "wikilink")在2008年6月4日發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
 
 ## 解說
 
@@ -112,7 +112,7 @@ BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出
 10. **光**
     編曲：長澤孝志
       -
-        新錄歌曲。原曲為[日本放送廣播節目](../Page/日本放送.md "wikilink")[All
+        新錄歌曲。原曲為[日本放送](../Page/日本放送.md "wikilink")廣播節目[All
         Night-NIPPON的企劃中公開的](https://zh.wikipedia.org/wiki/All_Night-NIPPON "wikilink")『深夜中的信（真夜中の手紙）』。
 
 ### 初回限定盤

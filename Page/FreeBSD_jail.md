@@ -1,5 +1,5 @@
 **FreeBSD
-jail**，一種[作業系統層虛擬化技術](../Page/作業系統層虛擬化.md "wikilink")，在[FreeBSD作業系統中運作](../Page/FreeBSD.md "wikilink")。利用這個技術，FreeBSD的系統管理者，可以創造出幾個小型的軟體系統，這些軟體系統被稱為監獄（jails）。
+jail**，一種[作業系統層虛擬化](../Page/作業系統層虛擬化.md "wikilink")技術，在[FreeBSD](../Page/FreeBSD.md "wikilink")作業系統中運作。利用這個技術，FreeBSD的系統管理者，可以創造出幾個小型的軟體系統，這些軟體系統被稱為監獄（jails）。
 
 這個技術被採納，加入FreeBSD系統中。2000年，伴隨FreeBSD
 4.0版的發布，正式對外公開。系統管理者可以使用[jail(8)](http://www.freebsd.org/cgi/man.cgi?query=jail&sektion=8#end)這個命令來調用這個服務。

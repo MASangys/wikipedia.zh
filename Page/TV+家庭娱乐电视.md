@@ -1,4 +1,4 @@
-**TV+家庭娱乐电视**，是2013年9月3日[TCL集团在](../Page/TCL集团.md "wikilink")[北京发布的全新互联网电视产品家族系列](https://zh.wikipedia.org/wiki/北京 "wikilink")\[1\]。产品涵盖32寸到110寸系列产品，产品线覆盖高中低端。
+**TV+家庭娱乐电视**，是2013年9月3日[TCL集团](../Page/TCL集团.md "wikilink")在[北京发布的全新互联网电视产品家族系列](https://zh.wikipedia.org/wiki/北京 "wikilink")\[1\]。产品涵盖32寸到110寸系列产品，产品线覆盖高中低端。
 
 ## 历史
 

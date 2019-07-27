@@ -160,7 +160,7 @@
     N06BA12
     [二甲磺酸赖右苯丙胺](https://zh.wikipedia.org/wiki/二甲磺酸赖右苯丙胺 "wikilink")（Lisdexamfetamine）
 
-### N06BC [黄嘌呤衍生物](../Page/黄嘌呤.md "wikilink")（Xanthine derivatives）
+### N06BC [黄嘌呤](../Page/黄嘌呤.md "wikilink")衍生物（Xanthine derivatives）
 
   -
     N06BC01 [咖啡因](../Page/咖啡因.md "wikilink")（Caffeine）

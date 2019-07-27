@@ -12,7 +12,7 @@ Boyz為1990年代的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，
 
 1997年，L.A. Boyz正式解散，退出歌壇。
 
-2000年，[黃立行重回台灣歌壇出片](../Page/黃立行.md "wikilink")。
+2000年，[黃立行](../Page/黃立行.md "wikilink")重回台灣歌壇出片。
 
 黃立成則於2003年成立“[Machi](https://zh.wikipedia.org/wiki/Machi "wikilink")”，現在的身份是Machi團長。
 

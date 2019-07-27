@@ -1,4 +1,4 @@
-是由[史克威尔艾尼克斯为](../Page/史克威尔艾尼克斯.md "wikilink")[Mobage兼容](https://zh.wikipedia.org/wiki/Mobage "wikilink")[手机开发发行的](https://zh.wikipedia.org/wiki/手机 "wikilink")[最终幻想电子游戏](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")。游戏和其它传统最终幻想作品相似，都使用了[世界地图和](https://zh.wikipedia.org/wiki/Overworld "wikilink")[迷宫](https://zh.wikipedia.org/wiki/迷宫 "wikilink")，然而游戏以社交为主。游戏在日本有250万用户，但评论却认为游戏缺乏打磨与声音。
+是由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")为[Mobage兼容](https://zh.wikipedia.org/wiki/Mobage "wikilink")[手机开发发行的](https://zh.wikipedia.org/wiki/手机 "wikilink")[最终幻想电子游戏](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")。游戏和其它传统最终幻想作品相似，都使用了[世界地图和](https://zh.wikipedia.org/wiki/Overworld "wikilink")[迷宫](https://zh.wikipedia.org/wiki/迷宫 "wikilink")，然而游戏以社交为主。游戏在日本有250万用户，但评论却认为游戏缺乏打磨与声音。
 
 ## 游戏玩法
 
@@ -11,14 +11,14 @@ Wolf”事件中出现\[8\]。
 
 ## 开发
 
-[史克威尔艾尼克斯在开设公司与Mobage合作的公告站点中](../Page/史克威尔艾尼克斯.md "wikilink")，最早暗示了该游戏\[9\]。公司时任总裁[和田洋一在](../Page/和田洋一.md "wikilink")2011年12月2日公布了《最终幻想Brigade》的消息。这是史克威尔艾尼克斯首个有关最终幻想的免费手机游戏\[10\]。游戏由[史克威尔艾尼克斯第一制作部开发](https://zh.wikipedia.org/wiki/史克威尔艾尼克斯#开发单位 "wikilink")。游戏与2011年12月中旬开始封闭测试，2012年1月6日游戏正式发行\[11\]。游戏还曾有智能机版本的消息宣布，钒发售日期从未公布\[12\]。游戏的美工风格和另一游戏《[最终幻想
+[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")在开设公司与Mobage合作的公告站点中，最早暗示了该游戏\[9\]。公司时任总裁[和田洋一](../Page/和田洋一.md "wikilink")在2011年12月2日公布了《最终幻想Brigade》的消息。这是史克威尔艾尼克斯首个有关最终幻想的免费手机游戏\[10\]。游戏由[史克威尔艾尼克斯第一制作部开发](https://zh.wikipedia.org/wiki/史克威尔艾尼克斯#开发单位 "wikilink")。游戏与2011年12月中旬开始封闭测试，2012年1月6日游戏正式发行\[11\]。游戏还曾有智能机版本的消息宣布，钒发售日期从未公布\[12\]。游戏的美工风格和另一游戏《[最终幻想
 节奏剧场](https://zh.wikipedia.org/wiki/最终幻想_节奏剧场 "wikilink")》相似\[13\]。游戏在日本和韩国由DeNA销售，其中韩国由[多音通信本地化](https://zh.wikipedia.org/wiki/Daum "wikilink")，于2012年11月30日发行，史克威尔艾尼克斯和DeNA宣布游戏将于北美[iOS设备发售](https://zh.wikipedia.org/wiki/iOS "wikilink")\[14\]。在给北美玩家的官网页面注册，在游戏推出时会受到消息，同时还会给他们赠送三个月期的《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》克劳德召唤\[15\]\[16\]。
 
 ## 评价
 
 游戏在发售十三天内达到50万用户\[17\]，一个月内注册用户上升至一亿。截至2012年3月，游戏有200万注册用户，到了7月游戏在日本有250万用户\[18\]\[19\]。日本还有销售游戏Mobi币卡\[20\]。
 
-[Kotaku称游戏](../Page/Kotaku.md "wikilink")“非常令人失望”，认为游戏缺乏功能，包括没有任何音效或音乐，同时非常缺乏打磨\[21\]。
+[Kotaku](../Page/Kotaku.md "wikilink")称游戏“非常令人失望”，认为游戏缺乏功能，包括没有任何音效或音乐，同时非常缺乏打磨\[21\]。
 
 ## 参考文献
 

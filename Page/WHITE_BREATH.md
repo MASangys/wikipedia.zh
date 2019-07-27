@@ -1,5 +1,5 @@
 《**WHITE
-BREATH**》是[T.M.Revolution在](../Page/T.M.Revolution.md "wikilink")1997年10月12日发行的单曲。为自身的第六张单曲。唱片由日本索尼音乐娱乐(Epic
+BREATH**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1997年10月12日发行的单曲。为自身的第六张单曲。唱片由日本索尼音乐娱乐(Epic
 Records Japan)代理發行。
 
 ## 概要

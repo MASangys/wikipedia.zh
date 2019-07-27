@@ -1,9 +1,9 @@
 **VOX玩聲樂團**，是「[A
 Cappella](https://zh.wikipedia.org/wiki/A_Cappella "wikilink")」([阿卡貝拉](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")、[無伴奏合唱](../Page/無伴奏合唱.md "wikilink"))人聲樂團，也是流行音樂團體，成軍於2012年，是由五位男性組成的純人聲演唱團體，擅長演唱現代A
 Cappella，曲風為[流行音樂及](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[搖滾風格](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。經常將流行音樂改編為A
-Cappella版本，並在[YouTube上播送](../Page/YouTube.md "wikilink")，也是台灣第一支以阿卡貝拉為職業演出的團體。根據純人聲音樂跨國性整合平台--中華暢聲亞洲音樂協會（Vocal
+Cappella版本，並在[YouTube](../Page/YouTube.md "wikilink")上播送，也是台灣第一支以阿卡貝拉為職業演出的團體。根據純人聲音樂跨國性整合平台--中華暢聲亞洲音樂協會（Vocal
 Asia）紀載，VOX玩聲樂團是目前台灣最活躍、也是最受矚目的A Cappella
-團隊之一。\[1\]2013年在音樂製作人[李壽全老師的協助及指導下發行首張專輯](../Page/李壽全.md "wikilink")《朱古力》，並於2016年11月發表第二張專輯《VOX
+團隊之一。\[1\]2013年在音樂製作人[李壽全](../Page/李壽全.md "wikilink")老師的協助及指導下發行首張專輯《朱古力》，並於2016年11月發表第二張專輯《VOX
 2》。\[2\]
 
 ## 獲獎及經歷

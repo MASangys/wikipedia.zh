@@ -1,5 +1,5 @@
 《**The Ballads 〜Love &
-B'z〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z在](../Page/B'z.md "wikilink")2002年所發行的抒情精選輯。
+B'z〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2002年所發行的抒情精選輯。
 
 ## 簡介
 

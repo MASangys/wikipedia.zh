@@ -15,9 +15,9 @@ monitor）在该年的报告，2013年其在北美“少于1500万乘客”分�
 机场的空中交通管制服务由BAS-[信佳在与机场运行部的合约下提供](../Page/信佳集團.md "wikilink")。管制塔台在机场北侧（勿与位于航站楼的旧塔台混淆），在大多数日夜提供服务。在周边洋区的进近、离场和航路交通管制服务由纽约航路交通管制中心（ZNY
 ARTCC）在美国政府的[联邦航空局与英国间的协议下提供](https://zh.wikipedia.org/wiki/联邦航空局 "wikilink")。百慕大塔台管制员与纽约航路交通管制中心的管制员始终紧密联系。远程无线电发射器和机场的空中交通雷达覆盖也连接了百慕大和纽约中心。
 
-一台拥有150英里监测范围的现代[多普勒](https://zh.wikipedia.org/wiki/都卜勒雷達 "wikilink")[气象雷达在](../Page/气象雷达.md "wikilink")2015年被机场运行部建成。在机场的导航设施，例如[仪表着陆系统](../Page/仪表着陆系统.md "wikilink")（ILS）和[甚高频全向信标](../Page/甚高频全向信标.md "wikilink")（VOR），归机场运行部所有但由BAS-信佳维护。
+一台拥有150英里监测范围的现代[多普勒](https://zh.wikipedia.org/wiki/都卜勒雷達 "wikilink")[气象雷达](../Page/气象雷达.md "wikilink")在2015年被机场运行部建成。在机场的导航设施，例如[仪表着陆系统](../Page/仪表着陆系统.md "wikilink")（ILS）和[甚高频全向信标](../Page/甚高频全向信标.md "wikilink")（VOR），归机场运行部所有但由BAS-信佳维护。
 
-机场曾是美国政府[国家航空航天局](https://zh.wikipedia.org/wiki/国家航空航天局 "wikilink")[航天飞机发射取消时的应急着陆场地之一](../Page/航天飞机.md "wikilink")。\[5\]
+机场曾是美国政府[国家航空航天局](https://zh.wikipedia.org/wiki/国家航空航天局 "wikilink")[航天飞机](../Page/航天飞机.md "wikilink")发射取消时的应急着陆场地之一。\[5\]
 它只可被用于低和中倾角发射。
 
 ## 航空公司和目的地
@@ -30,7 +30,7 @@ ARTCC）在美国政府的[联邦航空局与英国间的协议下提供](https:
 
 ## 事故
 
-1952年12月6日，[古巴航空的一架](../Page/古巴航空.md "wikilink")[道格拉斯DC-4于该机场起飞后](https://zh.wikipedia.org/wiki/Douglas_DC-4 "wikilink")[坠毁](https://zh.wikipedia.org/wiki/1952年百慕大空难 "wikilink")。机上共有33名乘客和8名机组人员，37人丧生。\[6\]
+1952年12月6日，[古巴航空](../Page/古巴航空.md "wikilink")的一架[道格拉斯DC-4于该机场起飞后](https://zh.wikipedia.org/wiki/Douglas_DC-4 "wikilink")[坠毁](https://zh.wikipedia.org/wiki/1952年百慕大空难 "wikilink")。机上共有33名乘客和8名机组人员，37人丧生。\[6\]
 
 ## 另见
 

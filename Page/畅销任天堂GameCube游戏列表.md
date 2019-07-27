@@ -1,4 +1,4 @@
-本表列出销售或出货至少100万的[任天堂GameCube游戏](../Page/任天堂GameCube.md "wikilink")。
+本表列出销售或出货至少100万的[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")游戏。
 
 ## 列表
 

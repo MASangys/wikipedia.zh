@@ -1,5 +1,5 @@
 《**LIVE暴風現場**》
-是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[動力火車第三張專輯](../Page/動力火車.md "wikilink")，首張[演唱會專輯](../Page/現場專輯.md "wikilink")，於1998年8月1日正式發行，一共收錄十九首歌曲（五首翻唱）。\[1\]
+是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[動力火車](../Page/動力火車.md "wikilink")第三張專輯，首張[演唱會專輯](../Page/現場專輯.md "wikilink")，於1998年8月1日正式發行，一共收錄十九首歌曲（五首翻唱）。\[1\]
 
 ## 曲目
 

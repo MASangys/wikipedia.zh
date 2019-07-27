@@ -2,7 +2,7 @@
 
 **雙列直插式記憶體模組**\[1\]\[2\]\[3\]或**雙線記憶體模組**\[4\]（**D**ual **I**n-line
 **M**emory
-**M**odule，簡稱**DIMM**）是指一系列由[動態隨機存取記憶體](https://zh.wikipedia.org/wiki/動態隨機存取記憶體 "wikilink")（[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）組成的模組。DIMM通常是數顆至數十顆DRAM晶片焊接安裝於一塊已製作好電路的[印刷電路板的形式](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，用於[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[工作站](../Page/工作站.md "wikilink")、[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。相比[SIMM兩邊針腳相連在一起](../Page/SIMM.md "wikilink")，DIMM兩邊針腳是獨立的。SIMM的[數據總線為](https://zh.wikipedia.org/wiki/匯流排 "wikilink")32-bit寬度，DIMM則是64-bit寬度。
+**M**odule，簡稱**DIMM**）是指一系列由[動態隨機存取記憶體](https://zh.wikipedia.org/wiki/動態隨機存取記憶體 "wikilink")（[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）組成的模組。DIMM通常是數顆至數十顆DRAM晶片焊接安裝於一塊已製作好電路的[印刷電路板的形式](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，用於[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[工作站](../Page/工作站.md "wikilink")、[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。相比[SIMM](../Page/SIMM.md "wikilink")兩邊針腳相連在一起，DIMM兩邊針腳是獨立的。SIMM的[數據總線為](https://zh.wikipedia.org/wiki/匯流排 "wikilink")32-bit寬度，DIMM則是64-bit寬度。
 
 ## 常見的DIMM類別
 
@@ -35,7 +35,7 @@
 
 [Asrock_k10n780slix3-wifi.jpg](https://zh.wikipedia.org/wiki/File:Asrock_k10n780slix3-wifi.jpg "fig:Asrock_k10n780slix3-wifi.jpg")
 [Blade1.png](https://zh.wikipedia.org/wiki/File:Blade1.png "fig:Blade1.png")內的記憶體\]\]
-絕大部份[個人電腦及](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[工作站及](../Page/工作站.md "wikilink")[伺服器都是使用DDR](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
+絕大部份[個人電腦及](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[工作站](../Page/工作站.md "wikilink")及[伺服器都是使用DDR](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
 DIMM，包括[DDR1](https://zh.wikipedia.org/wiki/DDR "wikilink")、[DDR2](https://zh.wikipedia.org/wiki/DDR2 "wikilink")、[DDR3和最新的](https://zh.wikipedia.org/wiki/DDR3 "wikilink")[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")。這便是最常見的DIMM。
 
 一般個人電腦採用[雙通道記憶體](https://zh.wikipedia.org/wiki/雙通道 "wikilink")，一條通道有64-bit寬度，每條通道支援兩條DIMM，因此共有4條DIMM插槽。
@@ -53,7 +53,7 @@ DIMM，包括[DDR1](https://zh.wikipedia.org/wiki/DDR "wikilink")、[DDR2](https
   - [單列直插式封裝](https://zh.wikipedia.org/wiki/單列直插式封裝 "wikilink")（SIP）
 
   - [RIMM](https://zh.wikipedia.org/wiki/RIMM "wikilink") -
-    一種由[Rambus公司設計的規格](../Page/Rambus.md "wikilink")，在其自家的記憶體模組產品[RDRAM中使用](../Page/RDRAM.md "wikilink")
+    一種由[Rambus](../Page/Rambus.md "wikilink")公司設計的規格，在其自家的記憶體模組產品[RDRAM](../Page/RDRAM.md "wikilink")中使用
 
   - [SO-DIMM](../Page/SO-DIMM.md "wikilink")
 

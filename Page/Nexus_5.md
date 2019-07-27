@@ -13,7 +13,7 @@ Now和若干其他功能。
 [Nexus_5_(1).jpg](https://zh.wikipedia.org/wiki/File:Nexus_5_\(1\).jpg "fig:Nexus_5_(1).jpg")
 
 外观方面采用了与[Nexus 7
-(2013)相同的](../Page/Nexus_7_\(2013\).md "wikilink")[聚碳酸酯外壳](../Page/聚碳酸酯.md "wikilink")，有黑色、白色和红色可选。其中白色手机的机身正面仍为黑色，但听筒部位为白色，红色版本手机也采用了相同的样式。
+(2013)相同的](../Page/Nexus_7_\(2013\).md "wikilink")[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")外壳，有黑色、白色和红色可选。其中白色手机的机身正面仍为黑色，但听筒部位为白色，红色版本手机也采用了相同的样式。
 
 硬件配置方面与[LG
 G2相似](../Page/LG_G2.md "wikilink")，搭配了一枚2.3GHz的[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
@@ -25,7 +25,7 @@ Nexus
 5搭配了一枚800万像素的主镜头，和一枚130万像素的前置镜头。相機軟件支援360度全景拍攝。主鏡頭具有[OIS光学防抖和HDR功能](https://zh.wikipedia.org/wiki/OIS "wikilink")。
 
 Nexus
-5支持[4G网络](../Page/4G.md "wikilink")。分为北美版（LG-D820）和国际版（LG-D821），两个版本之间的差异主要在网络制式方面。\[2\]\[3\]
+5支持[4G](../Page/4G.md "wikilink")网络。分为北美版（LG-D820）和国际版（LG-D821），两个版本之间的差异主要在网络制式方面。\[2\]\[3\]
 
 与[Nexus 4相同](../Page/Nexus_4.md "wikilink")，Nexus
 5没有[microSD卡插槽](https://zh.wikipedia.org/wiki/microSD "wikilink")，在屏幕底部有一颗彩色[LED通知灯](https://zh.wikipedia.org/wiki/LED "wikilink")。

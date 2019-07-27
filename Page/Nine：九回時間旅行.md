@@ -1,4 +1,4 @@
-《**Nine：九回時間旅行**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2013年3月11日播出的[月火迷你連續劇](../Page/TvN月火連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[趙胤熙主演](../Page/趙胤熙.md "wikilink")，知名劇作家[宋在貞](../Page/宋在貞.md "wikilink")(《[順風婦產科](../Page/順風婦產科.md "wikilink")》、《[搞笑一家親](https://zh.wikipedia.org/wiki/搞笑一家親 "wikilink")》、《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》)執筆。企劃時間超過三年，首播前已事先拍好8集、完成15集的劇本，在習慣邊拍邊播的韓國電視圈實屬罕見。本劇亦為韓國有線電視台首部到海外取景（[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")）的電視劇，製作費為59億韓元，\[1\]為韓國電視史上第一部被美國收購版權的作品，美國版預計由製作，並在[ABC播放](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")。\[2\]\[3\]
+《**Nine：九回時間旅行**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2013年3月11日播出的[月火迷你連續劇](../Page/TvN月火連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[趙胤熙](../Page/趙胤熙.md "wikilink")主演，知名劇作家[宋在貞](../Page/宋在貞.md "wikilink")(《[順風婦產科](../Page/順風婦產科.md "wikilink")》、《[搞笑一家親](https://zh.wikipedia.org/wiki/搞笑一家親 "wikilink")》、《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》)執筆。企劃時間超過三年，首播前已事先拍好8集、完成15集的劇本，在習慣邊拍邊播的韓國電視圈實屬罕見。本劇亦為韓國有線電視台首部到海外取景（[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")）的電視劇，製作費為59億韓元，\[1\]為韓國電視史上第一部被美國收購版權的作品，美國版預計由製作，並在[ABC播放](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")。\[2\]\[3\]
 
 ## 劇情簡介
 
@@ -42,7 +42,7 @@
 <td><p>2012年——CBM電視台12年資歷的記者</p>
 <p>憑藉出色的判斷力和領導力揭發許多爆炸性新聞，年紀輕輕就晉升到主播的位置。得知患上惡性腦腫瘤的那刻起，腦海中浮現出母親的臉孔，再來出現的是自己也很意外的後輩朱敏英，五年來對宣友展開愛情攻勢卻一直保持著距離的敏英，在那瞬間開始一直沒有消失。一年前在<a href="https://zh.wikipedia.org/wiki/喜瑪拉雅" title="wikilink">喜瑪拉雅死去的哥哥政宇所留下的遺物</a>，宣友偶然點燃了那一炷不值錢的香，發現那竟然是能夠回到20年前的時間機器。因為病情副作用所產生的幻想，還是神賦予他另一個再次握緊的機會，不管是哪一個，對於面臨死亡的宣友別無選擇。</p>
 <p>1992年——高中二年級學生</p>
-<p>醫生家庭中的小兒子，期望擁有像電影般難忘的初戀，從父親那得來一個<a href="../Page/傳呼機.md" title="wikilink">傳呼機後</a>，向心儀的女同學散播傳呼機號碼。終於在某一天，初戀對象韓素拉出現了，成功地對她拋出了約會請求。</p></td>
+<p>醫生家庭中的小兒子，期望擁有像電影般難忘的初戀，從父親那得來一個<a href="../Page/傳呼機.md" title="wikilink">傳呼機</a>後，向心儀的女同學散播傳呼機號碼。終於在某一天，初戀對象韓素拉出現了，成功地對她拋出了約會請求。</p></td>
 <td><center>
 <p><a href="../Page/鄧肇基.md" title="wikilink">鄧肇基</a></p></td>
 </tr>
@@ -118,7 +118,7 @@
 <td><center>
 <p>金希玲<small>（45）</small></p></td>
 <td><p>宣友的母親</p>
-<p>2012年——<a href="../Page/精神分裂症.md" title="wikilink">精神分裂症患者</a></p>
+<p>2012年——<a href="../Page/精神分裂症.md" title="wikilink">精神分裂症</a>患者</p>
 <p>丈夫死後就一直待在精神病醫院療養，因為長期生病讓她看起來更蒼老、憔悴。</p>
 <p>1992年——明世醫院院長夫人</p>
 <p>德高望重的學者之女，在父母的安排之下很早就確定要成為明世醫院的媳婦。與獨斷的丈夫無法快樂地生活，和兩個兒子像朋友一樣相處，也無條件滿足他們的願望。</p></td>
@@ -382,7 +382,7 @@
 
   - 《Nine：九回時間旅行》OST（發行日期：2013年5月27日）
 
-### 歌曲 （[東森戲劇台版本](../Page/東森戲劇台.md "wikilink")）
+### 歌曲 （[東森戲劇台](../Page/東森戲劇台.md "wikilink")版本）
 
   - 片頭曲：《愛其實很殘忍》
   - 片尾曲：《住在心裡的過客》

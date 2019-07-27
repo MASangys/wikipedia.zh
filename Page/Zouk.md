@@ -1,7 +1,7 @@
 [Zouk_(club),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Zouk_\(club\),_Kuala_Lumpur.jpg "fig:Zouk_(club),_Kuala_Lumpur.jpg")
-**Zouk**是[新加坡及](../Page/新加坡.md "wikilink")[馬來西亞極具名氣的](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[的士高](https://zh.wikipedia.org/wiki/的士高 "wikilink")[夜總會](../Page/夜總會.md "wikilink")\[1\]，字面解釋為「派對」，是。總店於1991年在新加坡開業，1996至2007年間屢獲[新加坡旅遊局頒發](../Page/新加坡旅遊局.md "wikilink")「最佳夜店體驗」（Best
+**Zouk**是[新加坡](../Page/新加坡.md "wikilink")及[馬來西亞極具名氣的](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[的士高](https://zh.wikipedia.org/wiki/的士高 "wikilink")[夜總會](../Page/夜總會.md "wikilink")\[1\]，字面解釋為「派對」，是。總店於1991年在新加坡開業，1996至2007年間屢獲[新加坡旅遊局](../Page/新加坡旅遊局.md "wikilink")頒發「最佳夜店體驗」（Best
 Nightspot
-Experience）獎狀，亦於2006、2007及2010年被[DJ雜誌評為全球夜店](../Page/DJ雜誌.md "wikilink")100強的頭10名。馬來西亞分店於2004年在[吉隆坡開業](../Page/吉隆坡.md "wikilink")。
+Experience）獎狀，亦於2006、2007及2010年被[DJ雜誌](../Page/DJ雜誌.md "wikilink")評為全球夜店100強的頭10名。馬來西亞分店於2004年在[吉隆坡](../Page/吉隆坡.md "wikilink")開業。
 
 ## ZoukOut
 

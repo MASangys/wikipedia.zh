@@ -1,9 +1,9 @@
 [Th135.png](https://zh.wikipedia.org/wiki/File:Th135.png "fig:Th135.png")
-是由[上海愛莉絲幻樂團與](../Page/上海愛莉絲幻樂團.md "wikilink")[黃昏邊境共同製作的](../Page/黃昏邊境.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")13.5作。\[1\]\[2\]
+是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")13.5作。\[1\]\[2\]
 
 ## 概要
 
-本作在2012年10月5日公佈。游戏中的角色畫面跟系列里的早先格鬥遊戲有較大差别，引入了浮空格斗机制和人氣计算系统，符卡触发操作更直观。此游戏是東方Project系列中第一次使用[720p原始屏幕分辨率](../Page/720p.md "wikilink")。體驗版已於2012年12月30日（[C83](../Page/Comic_Market.md "wikilink")）發佈，Web体验版于2013年4月12日在黄昏边境官网发布，正式版于2013年5月26日第10次例大祭发布。在正式版发布前一天爆出发现严重BUG，要与正式版同时发布修复补丁。后来因部分角色招式使用BUG再推出第二个修复补丁。
+本作在2012年10月5日公佈。游戏中的角色畫面跟系列里的早先格鬥遊戲有較大差别，引入了浮空格斗机制和人氣计算系统，符卡触发操作更直观。此游戏是東方Project系列中第一次使用[720p](../Page/720p.md "wikilink")原始屏幕分辨率。體驗版已於2012年12月30日（[C83](../Page/Comic_Market.md "wikilink")）發佈，Web体验版于2013年4月12日在黄昏边境官网发布，正式版于2013年5月26日第10次例大祭发布。在正式版发布前一天爆出发现严重BUG，要与正式版同时发布修复补丁。后来因部分角色招式使用BUG再推出第二个修复补丁。
 
 ## 故事
 

@@ -68,7 +68,7 @@
 <td><p>4月14日－7月29日</p></td>
 <td><p><a href="../Page/吉本欣司.md" title="wikilink">吉本欣司</a></p></td>
 <td><p>原創</p></td>
-<td><p>與<a href="../Page/ARTLAND.md" title="wikilink">ARTLAND共同製作</a></p></td>
+<td><p>與<a href="../Page/ARTLAND.md" title="wikilink">ARTLAND</a>共同製作</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
@@ -84,7 +84,7 @@
 <td><p>月13日－6月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/倉谷涼一" title="wikilink">倉谷涼一</a></p></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/ZERO-G.md" title="wikilink">ZERO-G共同製作</a></p></td>
+<td><p>與<a href="../Page/ZERO-G.md" title="wikilink">ZERO-G</a>共同製作</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/閃亂神樂_-少女們的真影-.md" title="wikilink">閃亂神樂 SHINOVI MASTER -東京妖魔篇-</a></p></td>

@@ -6,21 +6,21 @@
 \]\]
 
 **Sportfreunde Stiller**
-()是来自[德国靠近](../Page/德国.md "wikilink")[巴伐利亚州](https://zh.wikipedia.org/wiki/巴伐利亚州 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")
-[格尔梅林格的](https://zh.wikipedia.org/wiki/格尔梅林格 "wikilink")[独立摇滚乐队](../Page/独立摇滚.md "wikilink")。
+()是来自[德国](../Page/德国.md "wikilink")靠近[巴伐利亚州](https://zh.wikipedia.org/wiki/巴伐利亚州 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")
+[格尔梅林格的](https://zh.wikipedia.org/wiki/格尔梅林格 "wikilink")[独立摇滚](../Page/独立摇滚.md "wikilink")乐队。
 
 Sportfreunde Stiller唱片*Die gute Seite*里的单曲"Independent"出现在[FIFA
 2003的电子游戏里](https://zh.wikipedia.org/wiki/:en:FIFA_series#FIFA_2003 "wikilink")''。
 
 2006年在德国，其单曲"'54, '74, '90,
-2006"成为[德國國家足球隊球迷的啦啦队队歌](../Page/德國國家足球隊.md "wikilink")，并成为畅销曲。这歌曲纪念了西德足球队在[1954年世界盃足球賽](https://zh.wikipedia.org/wiki/1954年世界盃足球賽 "wikilink"),
+2006"成为[德國國家足球隊](../Page/德國國家足球隊.md "wikilink")球迷的啦啦队队歌，并成为畅销曲。这歌曲纪念了西德足球队在[1954年世界盃足球賽](https://zh.wikipedia.org/wiki/1954年世界盃足球賽 "wikilink"),
 [1974年世界盃足球賽](https://zh.wikipedia.org/wiki/1974年世界盃足球賽 "wikilink"),
 和[1990年世界盃足球賽的世界杯中夺得冠军](https://zh.wikipedia.org/wiki/1990年世界盃足球賽 "wikilink")。在[2006年世界盃足球賽](https://zh.wikipedia.org/wiki/2006年世界盃足球賽 "wikilink")，德国队输给意大利队后，这个被改为"'54,
 '74, '90,
 2010"，预期[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[2010年世界盃足球賽](https://zh.wikipedia.org/wiki/2010年世界盃足球賽 "wikilink").
 
 Sportfreunde
-Stiller在[MTV歐洲音樂大獎最佳德国艺人里被提名过](../Page/MTV歐洲音樂大獎.md "wikilink")5次，分别是[2002](../Page/2002年MTV歐洲音樂大獎.md "wikilink"),
+Stiller在[MTV歐洲音樂大獎](../Page/MTV歐洲音樂大獎.md "wikilink")最佳德国艺人里被提名过5次，分别是[2002](../Page/2002年MTV歐洲音樂大獎.md "wikilink"),
 [2004](../Page/2004年MTV歐洲音樂大獎.md "wikilink"),
 [2006](../Page/2006年MTV歐洲音樂大獎.md "wikilink"),
 [2007](../Page/2002年MTV歐洲音樂大獎.md "wikilink") 和

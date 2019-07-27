@@ -1,4 +1,4 @@
-**速霸陸BRZ**（）為2012年起[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的四人座雙門[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。由於同屬[豐田集團的關係](../Page/豐田集團.md "wikilink")，該款車和[豐田86](../Page/豐田86.md "wikilink")、賽揚FR-S實屬為兄弟車，而這些兄弟車皆在富士重工業的群馬工廠製造。
+**速霸陸BRZ**（）為2012年起[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的四人座雙門[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。由於同屬[豐田集團](../Page/豐田集團.md "wikilink")的關係，該款車和[豐田86](../Page/豐田86.md "wikilink")、賽揚FR-S實屬為兄弟車，而這些兄弟車皆在富士重工業的群馬工廠製造。
 
 車名「BRZ」來自[英語中](https://zh.wikipedia.org/wiki/英語 "wikilink")「**B**oxer引擎」、「**R**ear
 Wheel
@@ -9,9 +9,9 @@ Drive（[後輪驅動](https://zh.wikipedia.org/wiki/後輪驅動 "wikilink")）
 2011年 -
 3月1日在[日內瓦車展上公開](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")「BOXER
 Sports Car
-Architecture」，藉由展出車架輪廓的方式（請參看下方左上角第一張照片）向世人昭告新開發的跑車\[2\]；同年8月23日的[法蘭克福車展則宣布車名為](../Page/法蘭克福車展.md "wikilink")**速霸陸BRZ**；11月13日[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")（Subaru
+Architecture」，藉由展出車架輪廓的方式（請參看下方左上角第一張照片）向世人昭告新開發的跑車\[2\]；同年8月23日的[法蘭克福車展](../Page/法蘭克福車展.md "wikilink")則宣布車名為**速霸陸BRZ**；11月13日[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")（Subaru
 Technology International，縮寫成STI）宣布將以跟共同打造的BRZ參加2012年（）的SUPER
-GT（GT300）級，該比賽乃由（）主辦\[3\]。同年11月30日舉辦的[東京車展上](../Page/東京車展.md "wikilink")，原廠一同公開BRZ量產原型車及BRZ
+GT（GT300）級，該比賽乃由（）主辦\[3\]。同年11月30日舉辦的[東京車展](../Page/東京車展.md "wikilink")上，原廠一同公開BRZ量產原型車及BRZ
 GT300仕樣車。
 
 2012年 - 3月28日起在日本市場正式發售，分成四種級別：
@@ -27,26 +27,26 @@ GT300仕樣車。
       - 駕駛座追加四點式三吋快拆式安全帶。
       - 追加[托森式限滑差速器](../Page/托森式限滑差速器.md "wikilink")。
 
-2012年7月26日[香港總代理意美汽車引進右駕版BRZ](../Page/香港.md "wikilink")，共分六速手排及六速自排兩種版本。8月臺灣總代理[台灣意美汽車公布引進的規格](../Page/台灣意美汽車.md "wikilink")、配備及價格，並於翌年2月開始交車。該公司引進六速手排及六速自排兩種版本，動力心臟一樣為2.0L
-FA20型，標準配備含雙前座、雙前座側邊與車側氣簾等六具[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、[ABS](../Page/防鎖死煞車系統.md "wikilink")+[EBD](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")+BAS煞車系統、VSC[動態穩定控制系統](../Page/电子稳定程序.md "wikilink")、TCS循跡防滑控制系統、後座ISO-FIX兒童安全座椅固定座、引擎啟動按鈕、雙區恆溫空調系統、電熱座椅、[巡航定速系統](../Page/巡航定速.md "wikilink")、車側後視鏡除霧功能、附光感應自動啟閉功能的[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、[LED晝行燈等](../Page/發光二極管.md "wikilink")。至於[中國市場](../Page/中國.md "wikilink")，則遲至翌年9月才上市。
+2012年7月26日[香港](../Page/香港.md "wikilink")總代理意美汽車引進右駕版BRZ，共分六速手排及六速自排兩種版本。8月臺灣總代理[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")公布引進的規格、配備及價格，並於翌年2月開始交車。該公司引進六速手排及六速自排兩種版本，動力心臟一樣為2.0L
+FA20型，標準配備含雙前座、雙前座側邊與車側氣簾等六具[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、[ABS](../Page/防鎖死煞車系統.md "wikilink")+[EBD](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")+BAS煞車系統、VSC[動態穩定控制系統](../Page/电子稳定程序.md "wikilink")、TCS循跡防滑控制系統、後座ISO-FIX兒童安全座椅固定座、引擎啟動按鈕、雙區恆溫空調系統、電熱座椅、[巡航定速](../Page/巡航定速.md "wikilink")系統、車側後視鏡除霧功能、附光感應自動啟閉功能的[HID頭燈](../Page/高強度氣體放電燈.md "wikilink")、[LED晝行燈等](../Page/發光二極管.md "wikilink")。至於[中國](../Page/中國.md "wikilink")市場，則遲至翌年9月才上市。
 
 2013年 -
 8月19日日本當地發表由STI打造、限量500輛的「tS」特仕車。其中包含前下擾流飾板、18吋STI黑色鋁合金輪圈、兩段式角度可調的輕量化乾式碳纖維尾翼、Recaro代工之安全帶、整合側邊氣囊並擁有STI徽飾的Recaro賽車座椅、平光碳纖維車內飾板、紅色STI字樣的真皮鑰匙套等；另外儀表板上方以麂皮包覆，儀表也是STI專屬樣式。[底盤部分加裝引擎室拉桿](https://zh.wikipedia.org/wiki/底盤 "wikilink")、前工字樑強化拉桿、避震器，由Brembo代工的前四活塞、後雙活塞之煞車系統。STI額外調校了VSC[動態穩定控制系統](../Page/电子稳定程序.md "wikilink")，降低其介入程度以便提升車輛操控表現。
 
 2015年 - 6月30日原廠宣布發售限量300部的「BRZ
-tS」特仕車\[5\]，由[速霸陸技術國際操刀的全車空力套件](../Page/速霸陸技術國際.md "wikilink")、黑色18吋鋁圈、煞車系統、引擎室拉桿、專屬運動化懸吊系統、桶型賽車座椅、專屬排檔頭等配備。同年7月1日速霸陸北美分公司宣佈推出限量500輛的「HyperBlue」特仕車\[6\]，除了水藍色車身塗裝與藍黑雙色調內裝之外，車載多媒體系統升級為STARLINK
+tS」特仕車\[5\]，由[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")操刀的全車空力套件、黑色18吋鋁圈、煞車系統、引擎室拉桿、專屬運動化懸吊系統、桶型賽車座椅、專屬排檔頭等配備。同年7月1日速霸陸北美分公司宣佈推出限量500輛的「HyperBlue」特仕車\[6\]，除了水藍色車身塗裝與藍黑雙色調內裝之外，車載多媒體系統升級為STARLINK
 6.2系統，具有6.2吋全彩觸控螢幕、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[CD](../Page/CD.md "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[iPod連接](https://zh.wikipedia.org/wiki/iPod "wikilink")、倒車顯影等功能。
 
 2016年 -
-5月26日速霸陸美國分公司宣布小改款\[7\]，更換前保桿造型，頭燈、霧燈、晝行燈、尾燈一律改為[LED](../Page/發光二極管.md "wikilink")，變換成十輻17吋消光黑鋁圈；為了減重，尾翼以[鋁合金製成](../Page/鋁合金.md "wikilink")。內裝部分沒有多大變動，三環式[儀表板最右側換成](../Page/汽車儀表.md "wikilink")4.2吋[液晶螢幕](../Page/液晶显示器.md "wikilink")，可以顯示G值、油門踏板位置、煞車力道、轉向角度、機油與水溫溫度、電池電壓、單圈計時時間等資訊。重新設計的[方向盤新增多功能快捷按鍵](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，另可加價選購6.2吋的Subaru
+5月26日速霸陸美國分公司宣布小改款\[7\]，更換前保桿造型，頭燈、霧燈、晝行燈、尾燈一律改為[LED](../Page/發光二極管.md "wikilink")，變換成十輻17吋消光黑鋁圈；為了減重，尾翼以[鋁合金](../Page/鋁合金.md "wikilink")製成。內裝部分沒有多大變動，三環式[儀表板最右側換成](../Page/汽車儀表.md "wikilink")4.2吋[液晶螢幕](../Page/液晶显示器.md "wikilink")，可以顯示G值、油門踏板位置、煞車力道、轉向角度、機油與水溫溫度、電池電壓、單圈計時時間等資訊。重新設計的[方向盤新增多功能快捷按鍵](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，另可加價選購6.2吋的Subaru
 STARLINK多功能娛樂整合觸控螢幕。
 
 動力心臟雖同為2.0L[水平對臥四缸DOHC](../Page/水平對臥四缸引擎.md "wikilink")
-[FA20型引擎](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20型 "wikilink")，全新的汽門機構、凸輪軸、汽缸蓋可以減少運轉的[摩擦阻力](../Page/摩擦力.md "wikilink")，[鋁製進氣歧管和重新設計的排氣管可增加空氣流量](https://zh.wikipedia.org/wiki/鋁 "wikilink")。六速手排變速箱的終傳比從4.1：1改成4.3：1，故馬力輸出稍微提高5hp（自排版仍維持原動力）。在[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")[懸吊系統部分](../Page/懸吊系統.md "wikilink")，避震阻尼設定設定得更硬派，強化後防傾桿與引擎室拉桿的剛性，並且將斜坡起步輔助系統列入全車系標準配備。另外，可加價選購Limited手排車型才能搭載的「Performance
+[FA20型引擎](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20型 "wikilink")，全新的汽門機構、凸輪軸、汽缸蓋可以減少運轉的[摩擦阻力](../Page/摩擦力.md "wikilink")，[鋁製進氣歧管和重新設計的排氣管可增加空氣流量](https://zh.wikipedia.org/wiki/鋁 "wikilink")。六速手排變速箱的終傳比從4.1：1改成4.3：1，故馬力輸出稍微提高5hp（自排版仍維持原動力）。在[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")[懸吊系統](../Page/懸吊系統.md "wikilink")部分，避震阻尼設定設定得更硬派，強化後防傾桿與引擎室拉桿的剛性，並且將斜坡起步輔助系統列入全車系標準配備。另外，可加價選購Limited手排車型才能搭載的「Performance
 Package」性能套件，包含煞車卡鉗、SACHS避震器、17吋黑色鋁圈等。
 
-同年7月5日日本本地亦宣布小改款\[8\]，前保桿加入類似飛機翼端板，頭燈與尾燈改成[LED](../Page/發光二極管.md "wikilink")，17吋鋁合金輪圈和尾翼重新設計。內裝方面，中控台、膝蓋靠墊、儀錶板總成等處改以新[皮革材質包覆](../Page/皮革.md "wikilink")，[方向盤的盤面](https://zh.wikipedia.org/wiki/方向盤 "wikilink")[直徑改小](https://zh.wikipedia.org/wiki/直徑 "wikilink")，並換上新材質增加觸感。儀錶板上換成4.2吋的多功能行車資訊顯示幕，電熱加溫控制面板與車門按鈕控制面板則換成類[碳纖維材質](../Page/碳纖維.md "wikilink")。改良2.0L[水平對臥四缸DOHC](../Page/水平對臥四缸引擎.md "wikilink")
-[FA20型引擎的引擎本體與進排氣系統](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20型 "wikilink")，並強化[汽缸蓋與](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[汽缸本體接合部位的剛性](../Page/汽缸本體.md "wikilink")，使得最大馬力達207ps
+同年7月5日日本本地亦宣布小改款\[8\]，前保桿加入類似飛機翼端板，頭燈與尾燈改成[LED](../Page/發光二極管.md "wikilink")，17吋鋁合金輪圈和尾翼重新設計。內裝方面，中控台、膝蓋靠墊、儀錶板總成等處改以新[皮革](../Page/皮革.md "wikilink")材質包覆，[方向盤的盤面](https://zh.wikipedia.org/wiki/方向盤 "wikilink")[直徑改小](https://zh.wikipedia.org/wiki/直徑 "wikilink")，並換上新材質增加觸感。儀錶板上換成4.2吋的多功能行車資訊顯示幕，電熱加溫控制面板與車門按鈕控制面板則換成類[碳纖維](../Page/碳纖維.md "wikilink")材質。改良2.0L[水平對臥四缸DOHC](../Page/水平對臥四缸引擎.md "wikilink")
+[FA20型引擎的引擎本體與進排氣系統](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20型 "wikilink")，並強化[汽缸蓋與](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[汽缸本體](../Page/汽缸本體.md "wikilink")接合部位的剛性，使得最大馬力達207ps
 / 7,000rpm、扭力峰值21.6kg・m /
 6,400-6,800rpm。修改傳動系統的終傳比，讓車子在各轉速域的加速性能都得到提昇。車體方面提升其剛性，換上磅數更大的懸吊彈簧，變更避震器內部構造與減震阻尼設定，更換不同內徑的後軸防傾桿以提昇操控反應與穩定性。此外，秋季預計發表配置Brembo煞車系統、SACHS避震器等配備的頂級車型「GT」，並以GT車型為基礎推出限量100部的「Yellow
 Edition」特仕車。
@@ -55,11 +55,11 @@ Edition」特仕車。
 
 ### 與兄弟車的差異
 
-速霸陸BRZ、[豐田86和](../Page/豐田86.md "wikilink")[賽揚FR-S皆是共同開發](https://zh.wikipedia.org/wiki/賽揚FR-S "wikilink")，並在同一條[生產線製造](../Page/大量生產.md "wikilink")。其中[賽揚汽車為豐田汽車針對](../Page/賽揚汽車.md "wikilink")[北美洲成立的子](../Page/北美洲.md "wikilink")[品牌](../Page/品牌.md "wikilink")，故豐田86和賽揚FR-S實際上相去不遠。反觀速霸陸BRZ和[豐田86的差別](../Page/豐田86.md "wikilink")，自推出以來兩者常被汽車媒體及車迷拿出來比較，最明顯的為車輛轉向性質\[10\]：在操控表現上，BRZ在前輪轉向的回饋較為紮實，特別是透過避震器傳遞路面狀況回車身的狀況更為清晰。換句話說，BRZ刻意強化前輪懸吊[阻尼設定](../Page/阻尼.md "wikilink")，以加強前輪的指向及回饋反應，後輪避震阻尼反倒較為柔軟，降低車輛出彎加速時[轉向過度的特性](https://zh.wikipedia.org/wiki/轉向過度 "wikilink")，呈現偏中性的轉向特質。相反地，[豐田86則採取前軟後硬的避震器阻尼設定](../Page/豐田86.md "wikilink")，以塑造出強調轉向過度的操控特質。駕駛[豐田86在出彎時可以藉由反打](../Page/豐田86.md "wikilink")[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、[漂移車身獲得駕駛樂趣](../Page/漂移.md "wikilink")，但行駛穩定度大減；駕駛BRZ在出彎時則可控制[油門的深淺程度來操縱車輛的轉向幅度](https://zh.wikipedia.org/wiki/節流閥 "wikilink")，不必急著修正偏滑的後輪。
+速霸陸BRZ、[豐田86](../Page/豐田86.md "wikilink")和[賽揚FR-S皆是共同開發](https://zh.wikipedia.org/wiki/賽揚FR-S "wikilink")，並在同一條[生產線製造](../Page/大量生產.md "wikilink")。其中[賽揚汽車](../Page/賽揚汽車.md "wikilink")為豐田汽車針對[北美洲](../Page/北美洲.md "wikilink")成立的子[品牌](../Page/品牌.md "wikilink")，故豐田86和賽揚FR-S實際上相去不遠。反觀速霸陸BRZ和[豐田86](../Page/豐田86.md "wikilink")的差別，自推出以來兩者常被汽車媒體及車迷拿出來比較，最明顯的為車輛轉向性質\[10\]：在操控表現上，BRZ在前輪轉向的回饋較為紮實，特別是透過避震器傳遞路面狀況回車身的狀況更為清晰。換句話說，BRZ刻意強化前輪懸吊[阻尼](../Page/阻尼.md "wikilink")設定，以加強前輪的指向及回饋反應，後輪避震阻尼反倒較為柔軟，降低車輛出彎加速時[轉向過度的特性](https://zh.wikipedia.org/wiki/轉向過度 "wikilink")，呈現偏中性的轉向特質。相反地，[豐田86](../Page/豐田86.md "wikilink")則採取前軟後硬的避震器阻尼設定，以塑造出強調轉向過度的操控特質。駕駛[豐田86](../Page/豐田86.md "wikilink")在出彎時可以藉由反打[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、[漂移](../Page/漂移.md "wikilink")車身獲得駕駛樂趣，但行駛穩定度大減；駕駛BRZ在出彎時則可控制[油門的深淺程度來操縱車輛的轉向幅度](https://zh.wikipedia.org/wiki/節流閥 "wikilink")，不必急著修正偏滑的後輪。
 
 ### 得獎紀錄
 
-速霸陸BRZ曾和兄弟車[豐田86獲得](../Page/豐田86.md "wikilink")2013年度[歐洲年度風雲車第二名](../Page/歐洲年度風雲車.md "wikilink")。
+速霸陸BRZ曾和兄弟車[豐田86](../Page/豐田86.md "wikilink")獲得2013年度[歐洲年度風雲車](../Page/歐洲年度風雲車.md "wikilink")第二名。
 
 Image:11-09-04-iaa-by-RalfR-115.jpg|BOXER Sports Car Architecture
 Image:Dark Gray Subaru BRZ side.jpg Image:2012-03-07 Motorshow Geneva

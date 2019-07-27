@@ -1,9 +1,9 @@
 **IBM Security AppScan**（曾用名**IBM Rational
-AppScan**）是[IBM的](../Page/IBM.md "wikilink")部门的一组网络安全测试和监控工具。AppScan旨在在开发过程中对Web应用程序的安全漏洞进行测试\[1\]。该产品学习每个应用程序的行为，无论是现成的或是内部开发的应用程序；该产品还开发了一个程序，用来测试应用程序所有功能的常见的和特定的安全漏洞。
+AppScan**）是[IBM](../Page/IBM.md "wikilink")的部门的一组网络安全测试和监控工具。AppScan旨在在开发过程中对Web应用程序的安全漏洞进行测试\[1\]。该产品学习每个应用程序的行为，无论是现成的或是内部开发的应用程序；该产品还开发了一个程序，用来测试应用程序所有功能的常见的和特定的安全漏洞。
 
 ## 历史
 
-AppScan最初是由[以色列软件公司Sanctum](../Page/以色列.md "wikilink")
+AppScan最初是由[以色列](../Page/以色列.md "wikilink")软件公司Sanctum
 Ltd.（其最初命名为Perfecto
 Technologies）开发的，1998年首次发布。\[2\]1999年Sanctum扩展了其网络安全解决方案，并推出了世界上第一个应用防火墙——AppShield。\[3\]
 

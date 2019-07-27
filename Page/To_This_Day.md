@@ -9,7 +9,6 @@
 
 [Category:2013年詩作](https://zh.wikipedia.org/wiki/Category:2013年詩作 "wikilink")
 [Category:加拿大詩作](https://zh.wikipedia.org/wiki/Category:加拿大詩作 "wikilink")
-[Category:欺凌](https://zh.wikipedia.org/wiki/Category:欺凌 "wikilink")
 [Category:欺凌題材作品](https://zh.wikipedia.org/wiki/Category:欺凌題材作品 "wikilink")
 [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
 [Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink")

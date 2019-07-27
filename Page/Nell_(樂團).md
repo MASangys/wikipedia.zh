@@ -3,7 +3,7 @@
 2001年至2006年所屬經紀公司為Goesoo Indigene，2006年迄今所屬經紀公司為[Woollim
 Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。
 
-2008年起因成員服兵役而暫停活動，2012年正式回歸樂壇，並於2013年1月23日於[日本出道](../Page/日本.md "wikilink")。
+2008年起因成員服兵役而暫停活動，2012年正式回歸樂壇，並於2013年1月23日於[日本](../Page/日本.md "wikilink")出道。
 
 2016年3月22日表示與經紀公司[Woollim
 Entertainment十年約滿不續約](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，並且自創品牌SPACE
@@ -142,7 +142,7 @@ Taiwan』演唱會。
 <ul>
 <li>發行日期: 2014年2月27日</li>
 </ul></td>
-<td><p>{{hidden|曲目|  </p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
@@ -493,8 +493,6 @@ Taiwan』演唱會。
 </tbody>
 </table>
 
-### DVD
-
 ## 獎項
 
 ### 大型頒獎禮獎項
@@ -503,7 +501,7 @@ Taiwan』演唱會。
 | ---- | -------------------------------------------------------------------------------- | ---------------- | ----------------- |
 | 2007 | 韓國大眾音樂賞KMA Korean Music Awards                                                   | 最佳年度現代搖滾藝人獎      | Let's Take a Walk |
 | 2008 | 二十三屆[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink") 23rd Golden Disk Award | 最佳搖滾獎            | 聚集記憶的時間(기억을걷는시간)  |
-| 2012 | [甜瓜音樂獎Melon](../Page/甜瓜音樂獎.md "wikilink") Music Awards                           | Music Style最佳搖滾獎 | The Day Before    |
+| 2012 | [甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")Melon Music Awards                           | Music Style最佳搖滾獎 | The Day Before    |
 
 ### 音樂節目獎項
 

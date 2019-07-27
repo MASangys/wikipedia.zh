@@ -14,7 +14,7 @@ Telecommunications Project)
 
 ### 輪辦年會
 
-自1994年，參與iEARN的教師在[阿根廷舉辦實體聚會後](../Page/阿根廷.md "wikilink")\[4\]，開始了在各國輪流舉辦年會的傳統\[5\]；1995年在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、1996年[匈牙利](../Page/匈牙利.md "wikilink")、1997年[西班牙](../Page/西班牙.md "wikilink")、1998年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、1999年[波多黎各](../Page/波多黎各.md "wikilink")、2000年[中國](../Page/中國.md "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、2001年[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[開普敦](../Page/開普敦.md "wikilink")、2002年[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")、2003年[日本](../Page/日本.md "wikilink")、2004年[斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")\[6\]、2005年[塞內加爾](https://zh.wikipedia.org/wiki/塞內加爾 "wikilink")[達卡](../Page/達喀爾.md "wikilink")、2006年[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、2007年[埃及](../Page/埃及.md "wikilink")[開羅](https://zh.wikipedia.org/wiki/開羅 "wikilink")\[7\]、2008年[烏茲別克](https://zh.wikipedia.org/wiki/烏茲別克 "wikilink")\[8\]、2009年[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")\[9\]、2010年[加拿大](../Page/加拿大.md "wikilink")\[10\]、2011年[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")\[11\]\[12\]、2012年原預定由[千里達主辦但後來因故取消](https://zh.wikipedia.org/wiki/千里達 "wikilink")\[13\]改為網路聚會\[14\]、2013年則於[卡達](https://zh.wikipedia.org/wiki/卡達 "wikilink")[杜哈舉辦](https://zh.wikipedia.org/wiki/杜哈 "wikilink")\[15\]。
+自1994年，參與iEARN的教師在[阿根廷](../Page/阿根廷.md "wikilink")舉辦實體聚會後\[4\]，開始了在各國輪流舉辦年會的傳統\[5\]；1995年在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、1996年[匈牙利](../Page/匈牙利.md "wikilink")、1997年[西班牙](../Page/西班牙.md "wikilink")、1998年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、1999年[波多黎各](../Page/波多黎各.md "wikilink")、2000年[中國](../Page/中國.md "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、2001年[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[開普敦](../Page/開普敦.md "wikilink")、2002年[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")、2003年[日本](../Page/日本.md "wikilink")、2004年[斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")\[6\]、2005年[塞內加爾](https://zh.wikipedia.org/wiki/塞內加爾 "wikilink")[達卡](../Page/達喀爾.md "wikilink")、2006年[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、2007年[埃及](../Page/埃及.md "wikilink")[開羅](https://zh.wikipedia.org/wiki/開羅 "wikilink")\[7\]、2008年[烏茲別克](https://zh.wikipedia.org/wiki/烏茲別克 "wikilink")\[8\]、2009年[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")\[9\]、2010年[加拿大](../Page/加拿大.md "wikilink")\[10\]、2011年[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")\[11\]\[12\]、2012年原預定由[千里達主辦但後來因故取消](https://zh.wikipedia.org/wiki/千里達 "wikilink")\[13\]改為網路聚會\[14\]、2013年則於[卡達](https://zh.wikipedia.org/wiki/卡達 "wikilink")[杜哈舉辦](https://zh.wikipedia.org/wiki/杜哈 "wikilink")\[15\]。
 
 ### 華文世界之參與
 
@@ -29,7 +29,7 @@ Coordinator
 為高雄女中李旻俐老師(1999年-2000年)、後由高雄中學李志成老師接任(2000年-2002年)、鳳新高中吳翠玲老師(2002年
 -2013年)、2014年起由高雄市正興國中陳貞君老師接任。
 
-2011年第18屆iEARN國際年會暨第15屆青少年高峰會由臺灣國際教育資源網學會主辦，[國立高雄師範大學](../Page/國立高雄師範大學.md "wikilink")、[高雄市教育局](http://www.kh.edu.tw/releaseRedirect.do?unitID=183)、[國立科學工藝博物館等共同合作辦理](../Page/國立科學工藝博物館.md "wikilink")，共有42個國家參與年會，
+2011年第18屆iEARN國際年會暨第15屆青少年高峰會由臺灣國際教育資源網學會主辦，[國立高雄師範大學](../Page/國立高雄師範大學.md "wikilink")、[高雄市教育局](http://www.kh.edu.tw/releaseRedirect.do?unitID=183)、[國立科學工藝博物館](../Page/國立科學工藝博物館.md "wikilink")等共同合作辦理，共有42個國家參與年會，
 450位師生參加。
 台灣國際教育資源網學會目前以國際專案式學習為主軸，透過ICT(資訊傳播科技)，成為臺灣中小學與國際教育夥伴之平台。提供教師專業成長之機會，瞭解專案式學習如何應用於教學中，進而提升臺灣教育品質。協助臺灣青少年進入國際iEARN社群，與國際夥伴為更美好的世界盡一份心力。
 

@@ -1,10 +1,10 @@
-[GLAY的第](../Page/GLAY.md "wikilink")40張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，普通盤有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
+[GLAY](../Page/GLAY.md "wikilink")的第40張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，普通盤有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
 
 ## 簡介
 
   - 作為出道15週年的第一彈作品。
   - 『SAY YOUR
-    DREAM』是[GLAY出道以來第一首長度超過](../Page/GLAY.md "wikilink")10分鐘的歌曲。
+    DREAM』是[GLAY](../Page/GLAY.md "wikilink")出道以來第一首長度超過10分鐘的歌曲。
   - 分為『初回限定盤』和『普通盤』2種，『初回限定盤』也被稱為『DREAM
     BOX』，其中包含CD、DVD、20頁寫真冊，還有可以欣賞[MV等內容的ACCESS](https://zh.wikipedia.org/wiki/MV "wikilink")
     KEY。普通盤有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。

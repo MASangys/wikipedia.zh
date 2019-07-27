@@ -1,5 +1,5 @@
 《**電影 光之美少女 All Stars New Stage2
-心之朋友**》於2013年3月16日在[日本上映](../Page/日本.md "wikilink")。此作品是第五次結集[光之美少女系列的結合作品](../Page/光之美少女系列.md "wikilink")。
+心之朋友**》於2013年3月16日在[日本](../Page/日本.md "wikilink")上映。此作品是第五次結集[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品。
 
 ## 故事簡介
 
@@ -59,7 +59,7 @@
 
   -
 
-### [光之美少女／光之美少女Max Heart](../Page/光之美少女.md "wikilink")
+### [光之美少女 Heart](../Page/光之美少女.md "wikilink")／光之美少女Max
 
   -
 

@@ -4,19 +4,19 @@
 
 2008年4月12日，結束經過1年7個月在[早安家族關西的研習之後](https://zh.wikipedia.org/wiki/早安家族關西 "wikilink")，組成以成員姓氏英文拼音的第一個字母構成名稱的團體組合。
 
-曾在[關西地区的](../Page/近畿地方.md "wikilink")[商場和](../Page/商場.md "wikilink")[音樂展演空間等中心展開活動和現場演出](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")，演唱包括[早安家族各隊及各個成員的歌曲和](../Page/早安家族.md "wikilink")[動畫歌曲](../Page/動畫歌曲.md "wikilink")\[1\]。同年5月，参加在東京舉辦的「[HAPPY\!
+曾在[關西地区的](../Page/近畿地方.md "wikilink")[商場](../Page/商場.md "wikilink")和[音樂展演空間等中心展開活動和現場演出](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")，演唱包括[早安家族](../Page/早安家族.md "wikilink")各隊及各個成員的歌曲和[動畫歌曲](../Page/動畫歌曲.md "wikilink")\[1\]。同年5月，参加在東京舉辦的「[HAPPY\!
 STYLE](https://zh.wikipedia.org/wiki/HAPPY!_STYLE "wikilink")」企劃。
 
 2010年7月發表原創單曲「フランキンセンスΨ」，但未發片。
 
 ## 與早安家族關係
 
-SI☆NA是由2005年度「早安家族關西」徵選合格的成員組成，最初[早安家族官方網站的藝人列表並沒有記載](../Page/早安家族.md "wikilink")，雖然這段期間仍未是早安家族的成員，但已經參與早安家族舉行的活動。包括:
+SI☆NA是由2005年度「早安家族關西」徵選合格的成員組成，最初[早安家族](../Page/早安家族.md "wikilink")官方網站的藝人列表並沒有記載，雖然這段期間仍未是早安家族的成員，但已經參與早安家族舉行的活動。包括:
 
   - 活動記載於早安家族粉絲俱樂部的會報中。
   - 於早安家族官方網站的主頁中記載演出活動的通知。
   - 在早安家族的官方商店中，有官方相片（主要是HAPPY\! STYLE）的發售，舉行握手会等等的活動（主要在大阪心齋橋店）。
-  - 主要的活動場地是HAPPY\! STYLE，前早安家族的[能登有沙也有参加](../Page/能登有沙.md "wikilink")。
+  - 主要的活動場地是HAPPY\! STYLE，前早安家族的[能登有沙](../Page/能登有沙.md "wikilink")也有参加。
   - 在演出活動中演唱早安家族的歌曲。
 
 直至2009年4月早安家族的官方網站更新之後，成員才被加進藝人名單中，令整個事情顯得更清楚。
@@ -32,7 +32,7 @@ STYLE也使用以「ai」「manami」「asami」等等成員們的名字。</sma
     あい、1992年4月15日 -
     、來自[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")）
     -
-    在[早安少女組。甄選2005的第](https://zh.wikipedia.org/wiki/早安少女組。的追加成員甄選 "wikilink")4次審査與[久住小春一同合格](../Page/久住小春.md "wikilink")。
+    在[早安少女組。甄選2005的第](https://zh.wikipedia.org/wiki/早安少女組。的追加成員甄選 "wikilink")4次審査與[久住小春](../Page/久住小春.md "wikilink")一同合格。
   - **I**：[岩嶋雅奈未](https://zh.wikipedia.org/wiki/岩嶋雅奈未 "wikilink")（いわしま
     まなみ、1989年12月17日 -
     、來自大阪府〈生於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")〉）
@@ -41,7 +41,7 @@ STYLE也使用以「ai」「manami」「asami」等等成員們的名字。</sma
     あさみ、1990年9月5日 -
     、來自[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")）
     -
-    與前[早安少女組。的](../Page/早安少女組。.md "wikilink")[安倍夏美的妹妹](../Page/安倍夏美.md "wikilink")(あべ
+    與前[早安少女組。](../Page/早安少女組。.md "wikilink")的[安倍夏美](../Page/安倍夏美.md "wikilink")的妹妹(あべ
     あさみ)是兩個完全不同的人。
 
 ### 中途離開的成員
@@ -63,7 +63,7 @@ STYLE也使用以「ai」「manami」「asami」等等成員們的名字。</sma
     STYLE首次參加由FAB舉辦的](https://zh.wikipedia.org/wiki/HAPPY!_STYLE "wikilink")「HAPPY\!
     STYLE 1st Communication Circuit 001」活動。
   - 9月、阿部・須磨・中山参加「[第87回全国高等学校足球選手權大会](https://zh.wikipedia.org/wiki/第87回全国高等学校足球選手權大会 "wikilink")」大阪大会「NANIWAスパイクガールズ」的高中生記者。
-  - 12月13日、首次在[大阪市舉行現場公演](../Page/大阪市.md "wikilink")「TANOSINA STAGE 2008
+  - 12月13日、首次在[大阪市](../Page/大阪市.md "wikilink")舉行現場公演「TANOSINA STAGE 2008
     Vol.1」。之後，直至2010年為止舉行過7次。
 
 <!-- end list -->
@@ -81,7 +81,7 @@ STYLE也使用以「ai」「manami」「asami」等等成員們的名字。</sma
 
 <!-- end list -->
 
-  - 3月31日、在[Ameba設立官方部落格](../Page/Ameba.md "wikilink")。
+  - 3月31日、在[Ameba](../Page/Ameba.md "wikilink")設立官方部落格。
   - 7月21日、「SI☆NAのしないようでしてる番組」在[Ustream中開始廣播](https://zh.wikipedia.org/wiki/Ustream "wikilink")。
   - 7月24日・25日、在神戶舉行的Hello\! Project演唱會作開場演出。
 
@@ -152,7 +152,7 @@ STYLE也使用以「ai」「manami」「asami」等等成員們的名字。</sma
 <!-- end list -->
 
   -
-    2011年8月10日發售的迷你專輯[Buono\!收錄翻唱歌曲](../Page/Buono!.md "wikilink")「[partenza](https://zh.wikipedia.org/wiki/partenza "wikilink")」
+    2011年8月10日發售的迷你專輯[Buono\!](../Page/Buono!.md "wikilink")收錄翻唱歌曲「[partenza](https://zh.wikipedia.org/wiki/partenza "wikilink")」
 
 ## 外部連結
 

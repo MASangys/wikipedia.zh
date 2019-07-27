@@ -1,29 +1,31 @@
 **HK G28**（最初稱為DMR
-762）是一款由[德国槍械公司](../Page/德国.md "wikilink")[黑克勒-科赫所研製及生產的軍用型](../Page/黑克勒&科赫.md "wikilink")[精確射手步槍](../Page/精確射手步槍.md "wikilink")，在[2011年10月法国](../Page/2011年10月.md "wikilink")[巴黎召開的](../Page/巴黎.md "wikilink")[國際軍警保安器材展](https://zh.wikipedia.org/wiki/國際軍警保安器材展 "wikilink")（，意為：**Mili**tary
+762；又稱：HK241）是一款由[德国](../Page/德国.md "wikilink")槍械公司[黑克勒-科赫所研製及生產的軍用型](../Page/黑克勒&科赫.md "wikilink")[精確射手步槍](../Page/精確射手步槍.md "wikilink")，在[2011年10月](../Page/2011年10月.md "wikilink")法国[巴黎](../Page/巴黎.md "wikilink")召開的[國際軍警保安器材展](https://zh.wikipedia.org/wiki/國際軍警保安器材展 "wikilink")（，意為：**Mili**tary
 and
-**pol**ice）向公眾首次展出，其後再在[2012年1月位於](../Page/2012年1月.md "wikilink")[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上推出。該槍是[MR308](../Page/HK417自動步槍.md "wikilink")（[HK417戰鬥步槍民用型](../Page/HK417自動步槍.md "wikilink")）的[精確射手步槍型版本](../Page/精確射手步槍.md "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**pol**ice）向公眾首次展出，其後再在[2012年1月](../Page/2012年1月.md "wikilink")位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上推出。該槍是[MR308](../Page/HK417自動步槍.md "wikilink")（[HK417戰鬥步槍民用型](../Page/HK417自動步槍.md "wikilink")）的[精確射手步槍](../Page/精確射手步槍.md "wikilink")型版本，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
 
-[冷战時期](../Page/冷战.md "wikilink")，G3A3ZF狙擊步槍（即裝上了瞄準鏡的G3A3，ZF為瞄準鏡的德文“*Zielfernrohr*”簡寫）和[G3SG/1狙擊步槍都曾經是](https://zh.wikipedia.org/wiki/HK_G3SG/1狙擊步槍 "wikilink")[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")（以下簡稱為「德軍」）的標準狙擊步槍，它們配備了6×42毫米瞄準鏡的時候具有達到600公尺（656.17码，1,968.5英尺）的有效射程。
+[冷战](../Page/冷战.md "wikilink")時期，G3A3ZF狙擊步槍（即裝上了瞄準鏡的G3A3，ZF為瞄準鏡的德文“*Zielfernrohr*”簡寫）和[G3SG/1狙擊步槍都曾經是](https://zh.wikipedia.org/wiki/HK_G3SG/1狙擊步槍 "wikilink")[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")（以下簡稱為「德軍」）的標準狙擊步槍，它們配備了6×42毫米瞄準鏡的時候具有達到600公尺（656.17码，1,968.5英尺）的有效射程。
 
-自德軍部署到阿富汗後的相當長一段時期內，德軍為其步兵班組中的特等射手配備的都是G3A3ZF狙擊步槍，於班組級的精確射擊上使用。但實戰中德軍發現，當地多塵的高原山地環境對狙擊步槍的精度造成較大影響，因此德軍一直希望為其部隊配備一種適應當地氣候和環境的狙擊步槍。為了儘快部署部隊，德軍選擇以G3A3ZF狙擊步槍為藍本，並在4個月的時間以內完成了新槍的研發和部署。新槍也被稱為G3A3ZF-DMR，仍然發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且於[2010年12月投入駐阿富汗的德軍服役](../Page/2010年12月.md "wikilink")。
+自德軍部署到阿富汗後的相當長一段時期內，德軍為其步兵班組中的特等射手配備的都是G3A3ZF狙擊步槍，於班組級的精確射擊上使用。但實戰中德軍發現，當地多塵的高原山地環境對狙擊步槍的精度造成較大影響，因此德軍一直希望為其部隊配備一種適應當地氣候和環境的狙擊步槍。為了儘快部署部隊，德軍選擇以G3A3ZF狙擊步槍為藍本，並在4個月的時間以內完成了新槍的研發和部署。新槍也被稱為G3A3ZF-DMR，仍然發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且於[2010年12月](../Page/2010年12月.md "wikilink")投入駐阿富汗的德軍服役。
 
 G3A3ZF-DMR精確射手步槍的改進包括改用德國警用神槍手二型（，簡稱：PM
 II）3—12×50狙擊用途可變倍率光學[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、採用[哈里斯兩腳架以及可調節式](https://zh.wikipedia.org/wiki/哈里斯兩腳架 "wikilink")[槍托](../Page/槍托.md "wikilink")。但由於該槍仍然是以早期型號的G3A3ZF為原型，因而在部署部隊以後招致多種批評。
 
-[黑克勒-科赫原本在](../Page/黑克勒&科赫.md "wikilink")2010年以[HK417參與G](../Page/HK417自動步槍.md "wikilink")27是预定要代替原装备的G3的DMR步枪，但因精度不过关而在2010年时被德军宣布競爭失敗，不過在2011年[德國聯邦國防軍宣布HK](../Page/德國聯邦國防軍.md "wikilink")417的民用型MR308比賽型步槍被選用並且命名為G28。接著國防軍採購了560套，並附有全套配件，包括一部[激光測距儀和](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")[夜視鏡](../Page/夜視鏡.md "wikilink")。目前給德軍駐[阿富汗的步兵使用](../Page/阿富汗戰爭_\(2001年\).md "wikilink")。\[1\]
+[黑克勒-科赫原本在](../Page/黑克勒&科赫.md "wikilink")2010年以[HK417參與G](../Page/HK417自動步槍.md "wikilink")27是预定要代替原装备的G3的DMR步枪，但因精度不过关而在2010年时被德军宣布競爭失敗，不過在2011年[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")宣布HK417的民用型MR308比賽型步槍被選用並且命名為G28。接著國防軍採購了560套，並附有全套配件，包括一部[激光測距儀和](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")[夜視鏡](../Page/夜視鏡.md "wikilink")。目前給德軍駐[阿富汗的步兵使用](../Page/阿富汗戰爭_\(2001年\).md "wikilink")。\[1\]
 [Combater.jpg](https://zh.wikipedia.org/wiki/File:Combater.jpg "fig:Combater.jpg")
 原G27則在德軍駐阿富汗部隊的[HK
 G36出現可靠性問題以後](../Page/HK_G36突擊步槍.md "wikilink")，將在此之前曾測試操作、而現在作為緊急替換HK
 G36的武器，\[2\]並命名為「G27P」。德國聯邦國防軍駐阿富汗部隊已經訂購600枝作為替換HK
-G36的臨時更新武器，2015年時已經交付60枝。其中「P」為「Patrolien」（德文“巡邏”的意思）的縮寫，配備與G28相同長度的420毫米（16.5英吋）[槍管](../Page/槍管.md "wikilink")。順帶一提，在2015年當前推出的“G27P”配備了HK417A2以前的型號上，四邊皆是[皮卡汀尼導軌的](../Page/皮卡汀尼導軌.md "wikilink")[護木和下機匣](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+G36的臨時更新武器，2015年時已經交付60枝。其中「P」為「Patrolien」（德文“巡邏”的意思）的縮寫，配備與G28相同長度的420毫米（16.5英吋）[槍管](../Page/槍管.md "wikilink")。順帶一提，在2015年當前推出的“G27P”配備了HK417A2以前的型號上，四邊皆是[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")的[護木和下機匣](https://zh.wikipedia.org/wiki/護木 "wikilink")。
 
-2014年，黑克勒-科赫再以改進護木及下機匣而研發的G28E，參與2012年[美国陆军緊湊型半自動狙擊系統](../Page/美国陆军.md "wikilink")（Compact
+2014年，黑克勒-科赫再以改進護木及下機匣而研發的G28E，參與2012年[美国陆军](../Page/美国陆军.md "wikilink")緊湊型半自動狙擊系統（Compact
 Semi-Automatic Sniper System，CSASS）計劃採用試驗。最終在2016年3月，HK G28E擊敗了[FN
 CSR-20](https://zh.wikipedia.org/wiki/FN_CSR-20狙擊步槍 "wikilink")、[SIG
 MCX-MR狙擊型](../Page/SIG_MCX突擊步槍.md "wikilink")、[雷明登RSASS等樣槍](../Page/雷明登R11_RSASS狙擊步槍.md "wikilink")，贏得緊湊型半自動狙擊系統項目，獲美國陸軍命名為M110A1，將取代原[M110
 SASS](../Page/M110半自動狙擊手系統.md "wikilink")。\[3\]。
+
+2017年10月，黑克勒-科赫已將G28的公司內部編號變更為**HK241**，儘管G28仍然是聯邦國防軍的命名。
 
 ## 設計細節
 
@@ -51,12 +53,12 @@ G28主要用於裝備部隊[特等射手](https://zh.wikipedia.org/wiki/特等�
 ### 定位
 
 HK
-G28精確射手步槍有力補充了現有的步兵武器性能，為其提供了在單兵標準[突击步枪射程之外的精確射擊能力](../Page/突击步枪.md "wikilink")。它用於裝備步兵班組中的特等射手，使其具備600公尺（656.17码，1,968.5英尺）範圍以內精確射擊能力。
+G28精確射手步槍有力補充了現有的步兵武器性能，為其提供了在單兵標準[突击步枪](../Page/突击步枪.md "wikilink")射程之外的精確射擊能力。它用於裝備步兵班組中的特等射手，使其具備600公尺（656.17码，1,968.5英尺）範圍以內精確射擊能力。
 
 在戰鬥中，精確射手步槍的典型目標通常是經觀察判定對其所在班組威脅最大的人員。根據德軍《步槍使用手冊》的表述，精確射手步槍的主要目標應是敵方處於隠蔽位置的[狙擊手](../Page/狙擊手.md "wikilink")，其次則是敵方中等距離內的技術裝備，包括戰鬥車輛的光學觀察設備等。該手冊也提及最適宜此步槍射擊的目標距離在250—600公尺（273.4—656.17码，820.21—1,968.5英尺）。
 
 当小分隊陷入與敵方的交火的時候，分隊指揮官將為分隊以內的精確射擊小組指定射擊目標，精確射擊小組會使用HK
-G28精確射手步槍實施精確的壓制性射擊，特別是在己方戰鬥班組處於防禦陣地的時候，特等射手與班組的[机枪支援火力將為分隊提供壓制掩護](../Page/机枪.md "wikilink")，同時亦可獨立擔負觀察敵情的任務；而在進攻性戰鬥之中，特等射手或跟隨部隊，或位於隱蔽陣位，為進攻部隊提供火力壓制與掩護，其射擊對象包括敵方的基層軍官、[狙擊手](../Page/狙擊手.md "wikilink")、班組支援機槍射手等重要目標。
+G28精確射手步槍實施精確的壓制性射擊，特別是在己方戰鬥班組處於防禦陣地的時候，特等射手與班組的[机枪](../Page/机枪.md "wikilink")支援火力將為分隊提供壓制掩護，同時亦可獨立擔負觀察敵情的任務；而在進攻性戰鬥之中，特等射手或跟隨部隊，或位於隱蔽陣位，為進攻部隊提供火力壓制與掩護，其射擊對象包括敵方的基層軍官、[狙擊手](../Page/狙擊手.md "wikilink")、班組支援機槍射手等重要目標。
 
 ### 槍管和槍口裝置
 
@@ -72,17 +74,17 @@ G28的導氣系統為兩檔可調，以適應在加裝[消聲器以後的射擊]
 ### 機匣
 
 HK
-G28的上[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[不鏽鋼所製成](../Page/不鏽鋼.md "wikilink")。下機匣亦採用高強度[鋁合金所製造](../Page/鋁合金.md "wikilink")，與其他AR系步槍一樣，主要容納扳機組件和彈匣插座。
+G28的上[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")所製成。下機匣亦採用高強度[鋁合金](../Page/鋁合金.md "wikilink")所製造，與其他AR系步槍一樣，主要容納扳機組件和彈匣插座。
 
 HK
-G28的上、下機匣通過兩對[黑克勒-科赫新設計並取得](../Page/黑克勒&科赫.md "wikilink")[专利的快速拆裝](../Page/专利.md "wikilink")[螺栓固連在一起](https://zh.wikipedia.org/wiki/螺栓 "wikilink")，此專利螺栓可有效防止兩部件間的鬆動。
+G28的上、下機匣通過兩對[黑克勒-科赫新設計並取得](../Page/黑克勒&科赫.md "wikilink")[专利](../Page/专利.md "wikilink")的快速拆裝[螺栓固連在一起](https://zh.wikipedia.org/wiki/螺栓 "wikilink")，此專利螺栓可有效防止兩部件間的鬆動。
 
 ### 護木
 
 HK
 G28有兩種[護木可以使用](https://zh.wikipedia.org/wiki/護木 "wikilink")。其中標準型和巡邏型最重要的差別點亦在這部份。標準型使用的是長護木，而巡邏型則使用短護木。標準型的長護木中間亦具有方便調節導氣裝置的空間。
 
-兩種四面帶有導軌的護木都是由高強度航空[铝製成](../Page/铝.md "wikilink")，護木上方導軌與[機匣頂部導軌連為一體](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
+兩種四面帶有導軌的護木都是由高強度航空[铝](../Page/铝.md "wikilink")製成，護木上方導軌與[機匣頂部導軌連為一體](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
 
 雖然HK
 G28由於在槍管上設有[活塞傳動系統](../Page/氣動式_\(槍械\).md "wikilink")，因此槍管並非[自由浮動式](../Page/自由浮動式槍管.md "wikilink")，但護木則是自由浮動式結構。這樣的結構設計也是為了儘量減少外部零件對槍管的影響，以提高射擊[精度](../Page/準確與精密.md "wikilink")。
@@ -90,16 +92,16 @@ G28由於在槍管上設有[活塞傳動系統](../Page/氣動式_\(槍械\).md 
 ### 槍托
 
 HK
-G28後部的[槍托仍保持經典型AR系槍械設計](../Page/槍托.md "wikilink")，與[M4卡賓槍的](../Page/M4卡賓槍.md "wikilink")4段相似，但HK
+G28後部的[槍托](../Page/槍托.md "wikilink")仍保持經典型AR系槍械設計，與[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")的4段相似，但HK
 G28的槍托為改進自[HK416](../Page/HK416突擊步槍.md "wikilink")、[HK417上自行設計的第二代伸縮式槍托](../Page/HK417自動步槍.md "wikilink")，其長度可5段式調節，適度不同使用者的抵肩位置，而且被原廠方面命名為可調節式狙擊型槍托（，簡稱：ASB）。這與[SR-25](../Page/SR-25狙擊步槍.md "wikilink")、[M110](https://zh.wikipedia.org/wiki/M110狙擊步槍 "wikilink")、[雷明登R11
 RSASS等衍生自](../Page/雷明登R11_RSASS狙擊步槍.md "wikilink")[AR-10的狙擊型步槍使用固定型槍托不同](../Page/AR-10自動步槍.md "wikilink")。
 
-[槍托底板設有降低](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")[後座力的合成](../Page/後座力.md "wikilink")[橡膠製緩衝墊](../Page/橡膠.md "wikilink")，標準型的槍托為凹型，而巡邏型則是凸型。調節時只需轉動槍托後部的調節手輪即可。
+[槍托底板設有降低](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")[後座力](../Page/後座力.md "wikilink")的合成[橡膠](../Page/橡膠.md "wikilink")製緩衝墊，標準型的槍托為凹型，而巡邏型則是凸型。調節時只需轉動槍托後部的調節手輪即可。
 
 槍托尾部上方左右兩側也各設有一個長條形環，兩側後方的槍背帶環的設置讓使用者有更多按照個人習慣選擇加裝槍背帶的空間。HK
 G28的[槍背帶環可根據需要設置於武器的任意一側](https://zh.wikipedia.org/wiki/槍背帶 "wikilink")，方便左右兩手使用。
 
-標準型的槍托配備了[槍托底板](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")（）的調節高度[內六角板手凹槽和](../Page/內六角板手.md "wikilink")的調節高度手輪作為其槍托的一部份。而巡邏型則在槍托內部設有一個附件存儲空間，讓使用者在內放置隨槍提供的清槍及維修配件、備用[电池或其他小型套件](../Page/电池.md "wikilink")，士兵不需要把步槍和相關配備分開攜帶。
+標準型的槍托配備了[槍托底板](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")（）的調節高度[內六角板手](../Page/內六角板手.md "wikilink")凹槽和的調節高度手輪作為其槍托的一部份。而巡邏型則在槍托內部設有一個附件存儲空間，讓使用者在內放置隨槍提供的清槍及維修配件、備用[电池](../Page/电池.md "wikilink")或其他小型套件，士兵不需要把步槍和相關配備分開攜帶。
 
 ### 擊發機構
 
@@ -114,7 +116,7 @@ G28的[快慢機具有保險和發射兩種發射模式](../Page/擊發調變槍
 ### 手槍握把
 
 HK
-G28的為沿用自[HK416上自行設計的手槍握把](../Page/HK416突擊步槍.md "wikilink")，只是取消了原有的一個[手指凹槽](https://zh.wikipedia.org/wiki/手指凹槽 "wikilink")。手槍握把採用具有磨砂表面處理的[聚合物製造](../Page/聚合物.md "wikilink")，握持起來非常舒適。中空的手槍握把內部還可作為附件存儲空間，讓使用者可以用以在內放置備用[电池或是備用](../Page/电池.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。整個手槍握把的[人體工程學設計比](../Page/人因工程学.md "wikilink")[M16A4步槍](../Page/M16突擊步槍.md "wikilink")／[M4卡賓槍所使用的A](../Page/M4卡賓槍.md "wikilink")2型握把更為出色。除了原廠設計的手槍握把以外，亦可以安裝任何種類的AR-15／M16步槍的手槍握把。
+G28的為沿用自[HK416上自行設計的手槍握把](../Page/HK416突擊步槍.md "wikilink")，只是取消了原有的一個[手指凹槽](https://zh.wikipedia.org/wiki/手指凹槽 "wikilink")。手槍握把採用具有[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[聚合物](../Page/聚合物.md "wikilink")製造，握持起來非常舒適。中空的手槍握把內部還可作為附件存儲空間，讓使用者可以用以在內放置備用[电池](../Page/电池.md "wikilink")或是備用[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。整個手槍握把的[人體工程學設計比](../Page/人因工程学.md "wikilink")[M16A4步槍](../Page/M16突擊步槍.md "wikilink")／[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")所使用的A2型握把更為出色。除了原廠設計的手槍握把以外，亦可以安裝任何種類的AR-15／M16步槍的手槍握把。
 
 ### 狙擊鏡
 
@@ -139,24 +141,24 @@ G28在低能見度、夜間或極端天氣條件以下的觀察和精確射擊�
 
 [機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、前托以至導氣組件前端的導氣箍頂部（12點位置）裝有全長的[STANAG](../Page/标准化协议.md "wikilink")
 ，HK G28沒有內置其[機械瞄具](../Page/機械瞄具.md "wikilink")，必須利用其機匣頂部所設有的一條全長式STANAG
-4694北約附件導軌安裝日間／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪和](../Page/热成像仪.md "wikilink")／或以戰術導軌安裝的[機械瞄具作為HK](../Page/機械瞄具.md "wikilink")
+4694北約附件導軌安裝日間／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪](../Page/热成像仪.md "wikilink")和／或以戰術導軌安裝的[機械瞄具](../Page/機械瞄具.md "wikilink")作為HK
 G28的瞄準具，亦可以使用流行的前後串連式安裝配置模式擴大瞄準具附件的加裝應用模式。HK
-G28可以單件式[雙瞄準鏡安裝環式瞄準鏡座固定狙擊鏡](https://zh.wikipedia.org/wiki/瞄準鏡環 "wikilink")，還預留了帶[彈道計算軟件的](../Page/弹道学.md "wikilink")[个人数码助理或小型](../Page/个人数码助理.md "wikilink")[紅點鏡的連接點](../Page/紅點鏡.md "wikilink")。而護木下方和兩側都整合了STANAG
+G28可以單件式[雙瞄準鏡安裝環式瞄準鏡座固定狙擊鏡](https://zh.wikipedia.org/wiki/瞄準鏡環 "wikilink")，還預留了帶[彈道計算軟件的](../Page/弹道学.md "wikilink")[个人数码助理](../Page/个人数码助理.md "wikilink")或小型[紅點鏡](../Page/紅點鏡.md "wikilink")的連接點。而護木下方和兩側都整合了STANAG
 4694北約附件導軌，以便安裝[前握把](../Page/輔助握把.md "wikilink")、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")（例如[哈里斯兩腳架](https://zh.wikipedia.org/wiki/哈里斯兩腳架 "wikilink")）、[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（LAM）以至[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。HK
 G28還配有導軌護蓋，不使用導軌時，可蓋上護蓋，便於握持携行。
 
-[德國聯邦國防軍所使用的HK](../Page/德國聯邦國防軍.md "wikilink")
+[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")所使用的HK
 G28更配備了兩個特殊[硬式攜帶盒](https://zh.wikipedia.org/wiki/硬式攜帶盒 "wikilink")，內部可存放許多額外的設備配件。一個較長的用於存放步槍，另一個則用於存放執行任務過程中可能使用到的各種附配件。此外，携行具中還有一套模塊化的[帆布背包系統](https://zh.wikipedia.org/wiki/帆布 "wikilink")，供携行拆卸後的槍械，並可携帶多種附配件。存放槍械的攜帶盒裡，除了G28狙擊步槍以外，還容納有[彈殼收集袋](https://zh.wikipedia.org/wiki/彈殼收集袋 "wikilink")、[消聲器](../Page/抑制器.md "wikilink")、小零件及配件袋、槍口帽、保護帶、槍械清潔套件（包括通條、油刷、清潔刷、油壼、抺布、棉繩等）、每個彈匣袋兩個20
-發彈匣、安裝光學狙擊鏡和組件用途的[力矩扳手](../Page/力矩.md "wikilink")、4 個導軌護蓋、3 個可裝兩個20
+發彈匣、安裝光學狙擊鏡和組件用途的[力矩](../Page/力矩.md "wikilink")扳手、4 個導軌護蓋、3 個可裝兩個20
 發彈匣的彈匣袋以及1 本使用手冊。而附配件存放攜帶盒中，放置有1
 套[槍背帶](https://zh.wikipedia.org/wiki/槍背帶 "wikilink")、狙擊鏡袋、袖袋、前握把、雷射瞄準器（[萊茵金屬LLM](https://zh.wikipedia.org/wiki/萊茵金屬 "wikilink")225，附携行袋）、輕量型微光夜視鏡（Qioptiq
 Merlin Long
-Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")（德國耶拿HLR15）和備用[电池組](../Page/电池.md "wikilink")。
+Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")（德國耶拿HLR15）和備用[电池](../Page/电池.md "wikilink")組。
 
 ## 衍生型
 
   - G28
-    制式型。被[德國聯邦國防軍所採用](../Page/德國聯邦國防軍.md "wikilink")。
+    制式型。被[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")所採用。
 
   - ; G28E2
 
@@ -171,7 +173,7 @@ Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](h
         G28低倍率可變倍光學狙擊鏡、短護木、與HK417相同的槍托，可說是G28E2的輕量化型號。
 
   - G28E
-    為了參與2012年[美国陆军緊湊型半自動狙擊系統](../Page/美国陆军.md "wikilink")（Compact
+    為了參與2012年[美国陆军](../Page/美国陆军.md "wikilink")緊湊型半自動狙擊系統（Compact
     Semi-Automatic Sniper
     System，CSASS）計劃的採用試驗而研發的輕量化型號。\[7\]順帶一提，雖命名為“G28E”，但卻是在上述的-E2型與-E3型以後研發及推出的型號。
 
@@ -181,14 +183,14 @@ Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](h
     於2016年4月[Heckler &
     Koch證實G](../Page/黑克勒&科赫.md "wikilink")28的輕量化版本G28E贏得了[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")計畫的合約用以替換M110半自動狙擊手系統。\[10\]
 
-    該型號被定名為M110A1，為達成要求的重量上槍匣改為鋁合金而不是原來的不銹鋼，空槍不含彈匣重3.8公斤(8.4lb)，包含彈匣和配件為6.8公斤(15lb)左右；M110A1配有Geissele的[M-LOK附件安裝界面護木](../Page/M-LOK.md "wikilink")、的3–20×50
+    該型號被定名為M110A1，為達成要求的重量上槍匣改為鋁合金而不是原來的不銹鋼，空槍不含彈匣重3.8公斤(8.4lb)，包含彈匣和配件為6.8公斤(15lb)左右；M110A1配有Geissele的[M-LOK](../Page/M-LOK.md "wikilink")附件安裝界面護木、的3–20×50
     PM II Ultra
     Short瞄準鏡、Geissele的鏡座、OSS的SRM6消音管、Harris的6-9英吋雙腳架和轉接座及具有可調整式貼腮的伸縮拖。\[11\]\[12\]
 
     於2018年5月[美國海軍陸戰隊將開始接收M](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")110A1也用來取代M110。\[13\]
 
   - DMR762
-    執法機關的型號。使用的標準設置為德國施密特-本德爾警用神槍手二型3—20×50可變倍光學狙擊鏡，標準[彈匣容量為](../Page/彈匣.md "wikilink")10發，據說獲德國聯邦警察採用。
+    執法機關的型號。使用的標準設置為德國施密特-本德爾警用神槍手二型3—20×50可變倍光學狙擊鏡，標準[彈匣](../Page/彈匣.md "wikilink")容量為10發，據說獲德國聯邦警察採用。
 
     最初是以作為G28的原型MR308為藍本研發而成，但基本配備上與G28E2相同，消焰器與HK417相同，沒有配備導氣調節器和可調節式槍托，還有其他的差異。
 

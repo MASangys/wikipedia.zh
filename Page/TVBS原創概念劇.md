@@ -1,14 +1,14 @@
-**TVBS原創概念劇**，是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[聯意製作](https://zh.wikipedia.org/wiki/TVBS "wikilink")（TVBS）於2013年打造的戲劇品牌，目前開設了一條週播戲劇線，每週六晚上10點在旗下頻道[TVBS歡樂台播出](../Page/TVBS歡樂台.md "wikilink")。2018年開設了八點檔戲劇線，於每週一至週五晚間八點播出。
+**TVBS原創概念劇**，是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[聯意製作](https://zh.wikipedia.org/wiki/TVBS "wikilink")（TVBS）於2013年打造的戲劇品牌，目前開設了一條週播戲劇線，每週六晚上10點在旗下頻道[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")播出。2018年開設了八點檔戲劇線，於每週一至週五晚間八點播出。
 
-“概念劇”是由[偶像劇衍生的新類型劇種](../Page/偶像劇.md "wikilink")，與一般偶像劇不同的是，它強調作品的[創新性](../Page/創新.md "wikilink")\[1\]，並以[作者論為導向](https://zh.wikipedia.org/wiki/作者論 "wikilink")，使題材更加多元化\[2\]。
+“概念劇”是由[偶像劇](../Page/偶像劇.md "wikilink")衍生的新類型劇種，與一般偶像劇不同的是，它強調作品的[創新](../Page/創新.md "wikilink")性\[1\]，並以[作者論為導向](https://zh.wikipedia.org/wiki/作者論 "wikilink")，使題材更加多元化\[2\]。
 
 ## 沿革
 
-TVBS在2000年代曾投資拍攝《[7年級生](../Page/七年級生_\(電視劇\).md "wikilink")》、《[愛情合約](../Page/愛情合約.md "wikilink")》等膾炙人口的偶像劇，但近年將重心放在新聞版圖，戲劇方面以播出母公司[TVB製作的](../Page/電視廣播有限公司.md "wikilink")[港劇為主](../Page/香港電視劇.md "wikilink")。2012年，TVBS在即將邁入開台20週年之際宣佈重返戲劇市場，除了投資50億[新台幣在](https://zh.wikipedia.org/wiki/新台幣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[林口區建造旗艦總部用於自製戲劇](../Page/林口區.md "wikilink")\[3\]，還為此開辦“亞洲編劇培訓營”，以培養更多優秀的本地文創產業人才。
+TVBS在2000年代曾投資拍攝《[7年級生](../Page/七年級生_\(電視劇\).md "wikilink")》、《[愛情合約](../Page/愛情合約.md "wikilink")》等膾炙人口的偶像劇，但近年將重心放在新聞版圖，戲劇方面以播出母公司[TVB製作的](../Page/電視廣播有限公司.md "wikilink")[港劇為主](../Page/香港電視劇.md "wikilink")。2012年，TVBS在即將邁入開台20週年之際宣佈重返戲劇市場，除了投資50億[新台幣在](https://zh.wikipedia.org/wiki/新台幣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[林口區](../Page/林口區.md "wikilink")建造旗艦總部用於自製戲劇\[3\]，還為此開辦“亞洲編劇培訓營”，以培養更多優秀的本地文創產業人才。
 
 2013年5月20日，TVBS舉辦戲劇啟動儀式，宣佈正式啟動自製戲劇計畫，節目部總監劉思銘表示：“我們的自我定位是創新，我們希望從創新的題材、創新的基礎跟創新的應用，去定義出TVBS獨特的概念劇。”並且預計在2014年開設第二條週播戲劇線，2016年加入日播劇，屆時戲劇年產量預計可達416個小時。\[4\]
 
-除了在台灣播出，TVBS[非執行董事](https://zh.wikipedia.org/wiki/非執行董事 "wikilink")[王雪紅未來還計畫在](../Page/王雪紅.md "wikilink")[中國大陸成立](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[合資公司](../Page/合資公司.md "wikilink")，讓TVBS原創概念劇在中國大陸電視頻道的[黃金時段播出](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")\[5\]。在版權行銷方面，則運用母公司TVB的優勢，以簽年約的方式由[TVBI直接行銷至海外](../Page/電視廣播（國際）.md "wikilink")，可賣出至少15個國家的版權\[6\]。
+除了在台灣播出，TVBS[非執行董事](https://zh.wikipedia.org/wiki/非執行董事 "wikilink")[王雪紅](../Page/王雪紅.md "wikilink")未來還計畫在[中國大陸成立](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[合資公司](../Page/合資公司.md "wikilink")，讓TVBS原創概念劇在中國大陸電視頻道的[黃金時段播出](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")\[5\]。在版權行銷方面，則運用母公司TVB的優勢，以簽年約的方式由[TVBI直接行銷至海外](../Page/電視廣播（國際）.md "wikilink")，可賣出至少15個國家的版權\[6\]。
 
 ## 作品列表
 
@@ -185,4 +185,4 @@ Girl's Power</p></td>
 5.
 6.
 7.
-8.  [徐欣瑩](https://www.facebook.com/photo.php?fbid=10151454759783173)在[Facebook的頁面](../Page/Facebook.md "wikilink")
+8.  [徐欣瑩](https://www.facebook.com/photo.php?fbid=10151454759783173)在[Facebook](../Page/Facebook.md "wikilink")的頁面

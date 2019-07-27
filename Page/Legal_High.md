@@ -2483,6 +2483,7 @@
 [Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink")
 [Category:新垣結衣](https://zh.wikipedia.org/wiki/Category:新垣結衣 "wikilink")
 [Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink")
+[Category:Legal_High](https://zh.wikipedia.org/wiki/Category:Legal_High "wikilink")
 
 1.  [纬来日本台](http://japan.videoland.com.tw/channel/1210e/default_002.asp)
 

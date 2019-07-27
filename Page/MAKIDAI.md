@@ -1,16 +1,16 @@
 **MAKIDAI**
-、本名：**真木大輔**（、）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[演員](../Page/演員.md "wikilink")、[司儀](../Page/司儀.md "wikilink")。前[EXILE的表演者](https://zh.wikipedia.org/wiki/EXILE "wikilink")。元[J
+、本名：**真木大輔**（、）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[演員](../Page/演員.md "wikilink")、[司儀](../Page/司儀.md "wikilink")。前[EXILE的表演者](https://zh.wikipedia.org/wiki/EXILE "wikilink")。元[J
 Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")、[RATHER
 UNIQUE](https://zh.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")。
 
-[神奈川縣](../Page/神奈川縣.md "wikilink")[横滨市出身](../Page/横滨市.md "wikilink")。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
+[神奈川縣](../Page/神奈川縣.md "wikilink")[横滨市](../Page/横滨市.md "wikilink")出身。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
 
 ## 來歷
 
 國中的時候，因父親工作的關係從川崎搬到橫濱。國中三年級的時候文化祭時會了舞蹈。據說10歲左右組成名為「Underground street
 kids」的團體，在都内的車站前跳舞過。HIRO說過「他是BABY
 NAIL第一的黑馬」。曾在ZOO的成員當講師的舞蹈工作室當學徒，高中的時候開始常常出入俱樂部和小舞廳。進入神奈川大學經濟學院貿易系就讀但是2年即中途退學。1996年和MATSU一起組成「BABY
-NAIL」，到美國紐約留學並修練舞蹈。看到了美國俱樂部黑人的舞蹈，受了很大的影響。當過[MISIA的背後舞者並在](../Page/MISIA.md "wikilink")「包み込むように～」的PV以舞者身分演出。1998年組成舞蹈隊「Hip
+NAIL」，到美國紐約留學並修練舞蹈。看到了美國俱樂部黑人的舞蹈，受了很大的影響。當過[MISIA](../Page/MISIA.md "wikilink")的背後舞者並在「包み込むように～」的PV以舞者身分演出。1998年組成舞蹈隊「Hip
 Hop Junkeez」。1999年加入「J Soul Brothers」至今。當初HIRO為了組成「J Soul
 Brothers」而找上的成員不是MAKIDAI而是名叫RYUJI的舞者，但RYUJI因為諸多原因不得不抽身離開，後來由MATSU找上MAKIDAI而決定加入。據說他第一次去看的現場演唱是在NHK廣場舉行的ZOO的現場演唱。
 
@@ -24,7 +24,7 @@ MAKIDAI名義發行MIX CD。首張專輯以MIX CD獲得史上最高名次的公�
 MIX](https://zh.wikipedia.org/wiki/DJ_MAKIDAI_from_EXILE_Treasure_MIX "wikilink")』、獲得ORICON週榜3位的記錄。
 
 2009年、與TAKAHIRO一起擔任EXILE的冠名節目『[EXH〜EXILE
-HOUSE〜](https://zh.wikipedia.org/wiki/EXH〜EXILE_HOUSE〜 "wikilink")』的司儀。另外於12月6日起播映的([富士電視台系](../Page/富士電視台.md "wikilink"))『天才アカデミア
+HOUSE〜](https://zh.wikipedia.org/wiki/EXH〜EXILE_HOUSE〜 "wikilink")』的司儀。另外於12月6日起播映的([富士電視台](../Page/富士電視台.md "wikilink")系)『天才アカデミア
 〜頭をやわらかくするTV〜』初次擔EXILE冠名節目以外的司儀。
 
 2010年、擔任時裝品牌「[Emporio
@@ -42,7 +42,7 @@ Eve Premiere Live
 ## 人物
 
   - 精通[Hip
-    hop及](https://zh.wikipedia.org/wiki/Hip_hop "wikilink")[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[長渕剛及](https://zh.wikipedia.org/wiki/長渕剛 "wikilink")[機動戰士GUNDAM的愛好者](../Page/機動戰士GUNDAM.md "wikilink")
+    hop及](https://zh.wikipedia.org/wiki/Hip_hop "wikilink")[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[長渕剛及](https://zh.wikipedia.org/wiki/長渕剛 "wikilink")[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")的愛好者
   - 家裏養著2隻「ココ」及「キウイ」的名字的狗。
   - 最初觀看的現場演唱會，是[NKHall舉行的ZOO現場演唱會](https://zh.wikipedia.org/wiki/NKHall "wikilink")。\[2\]。
   - [石田純一](https://zh.wikipedia.org/wiki/石田純一 "wikilink")、[さかなクン等](https://zh.wikipedia.org/wiki/さかなクン "wikilink")，交友關係寬廣。

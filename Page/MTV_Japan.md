@@ -1,8 +1,8 @@
 **MTV
-Japan**（）是音乐[付费频道](../Page/付费电视.md "wikilink")[MTV的](https://zh.wikipedia.org/wiki/MTV "wikilink")[日本版](../Page/日本.md "wikilink")。该频道是[MTV電視網的附属频道](https://zh.wikipedia.org/wiki/MTV電視網 "wikilink")，于1992年12月24日开播。日本国内观众可通过[有线电视](../Page/有线电视.md "wikilink")、[Sky
+Japan**（）是音乐[付费频道](../Page/付费电视.md "wikilink")[MTV的](https://zh.wikipedia.org/wiki/MTV "wikilink")[日本](../Page/日本.md "wikilink")版。该频道是[MTV電視網的附属频道](https://zh.wikipedia.org/wiki/MTV電視網 "wikilink")，于1992年12月24日开播。日本国内观众可通过[有线电视](../Page/有线电视.md "wikilink")、[Sky
 PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")、[Sky
 PerfecTV\!
-e2和](https://zh.wikipedia.org/wiki/Sky_PerfecTV!_e2 "wikilink")[IPTV等多种平台收看此频道](../Page/IPTV.md "wikilink")。
+e2和](https://zh.wikipedia.org/wiki/Sky_PerfecTV!_e2 "wikilink")[IPTV](../Page/IPTV.md "wikilink")等多种平台收看此频道。
 
 ## 历史
 

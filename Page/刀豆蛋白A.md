@@ -1,4 +1,4 @@
-**刀豆蛋白A**（，缩写**ConA**，又叫刀豆球蛋白A、伴刀豆球蛋白、刀豆素、刀豆凝集素等）是一种[凝集素](https://zh.wikipedia.org/wiki/凝集素 "wikilink")（[糖类结合蛋白](../Page/糖类.md "wikilink")），最初从[白刀豆中提取](https://zh.wikipedia.org/wiki/白刀豆 "wikilink")。它是家族中的一员。
+**刀豆蛋白A**（，缩写**ConA**，又叫刀豆球蛋白A、伴刀豆球蛋白、刀豆素、刀豆凝集素等）是一种[凝集素](https://zh.wikipedia.org/wiki/凝集素 "wikilink")（[糖类](../Page/糖类.md "wikilink")结合蛋白），最初从[白刀豆中提取](https://zh.wikipedia.org/wiki/白刀豆 "wikilink")。它是家族中的一员。
 
 ## 参考文献
 

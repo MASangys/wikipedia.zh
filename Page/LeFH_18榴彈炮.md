@@ -1,20 +1,20 @@
 **105毫米LeFH
-18榴彈炮**（，意為「10.5公分口徑18型輕型野戰榴彈炮」）是[德意志國防軍於](../Page/德意志國防軍.md "wikilink")[第二次世界大戰中配備的制式](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[榴彈砲](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，為德軍的基礎野戰炮兵裝備，至戰爭結束時共生產了22,133門，主要供德軍及其盟邦的師級炮兵營使用。
+18榴彈炮**（，意為「10.5公分口徑18型輕型野戰榴彈炮」）是[德意志國防軍](../Page/德意志國防軍.md "wikilink")於[第二次世界大戰中配備的制式](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[榴彈砲](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，為德軍的基礎野戰炮兵裝備，至戰爭結束時共生產了22,133門，主要供德軍及其盟邦的師級炮兵營使用。
 
 德軍於[東線戰場的作戰經驗顯示LeFH](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")
 18雖然性能優異，但由於重量過重，不適合由弋引。為解決機動性問題，德軍於1942年後開始將火炮安裝於二線戰車底盤上，以[自走炮形式繼續服役](https://zh.wikipedia.org/wiki/自走炮 "wikilink")。
 
 ## 開發歷史
 
-1920年代，威瑪國防軍內部報告判斷換裝105公厘榴彈砲的成本不會較75公厘榴彈砲高出許多，且105公厘砲彈破壞力較75公厘優異許多；1927年6月1日，發布了第59/27號秘密命令，下令開發一款新型輕榴彈炮，計畫優先序位為第二級「最重要工作」。1928年，位於[杜塞道夫的](https://zh.wikipedia.org/wiki/杜塞道夫 "wikilink")[萊茵金屬公司完成新型榴彈炮草稿繪圖與計算](https://zh.wikipedia.org/wiki/萊茵金屬公司 "wikilink")，1929到1930年間設計開發，並於1935年7月26日開始在[德意志國防軍的砲兵營中服役](../Page/德意志國防軍.md "wikilink")。
+1920年代，威瑪國防軍內部報告判斷換裝105公厘榴彈砲的成本不會較75公厘榴彈砲高出許多，且105公厘砲彈破壞力較75公厘優異許多；1927年6月1日，發布了第59/27號秘密命令，下令開發一款新型輕榴彈炮，計畫優先序位為第二級「最重要工作」。1928年，位於[杜塞道夫的](https://zh.wikipedia.org/wiki/杜塞道夫 "wikilink")[萊茵金屬公司完成新型榴彈炮草稿繪圖與計算](https://zh.wikipedia.org/wiki/萊茵金屬公司 "wikilink")，1929到1930年間設計開發，並於1935年7月26日開始在[德意志國防軍](../Page/德意志國防軍.md "wikilink")的砲兵營中服役。
 
 LeFH 18最初由萊茵金屬與克魯伯共同生產，在1939年德國開戰前已經產出4,862門LeFH 18榴彈炮。
 
-10.5厘米leFH18是第二次世界大戰期間[德意志國防軍使用的標準師級野戰榴彈炮](../Page/德意志國防軍.md "wikilink")，概括來說，到1943年[史達林格勒戰役之前](https://zh.wikipedia.org/wiki/史達林格勒戰役 "wikilink")，它都沒有被編制成獨立砲兵營。
+10.5厘米leFH18是第二次世界大戰期間[德意志國防軍](../Page/德意志國防軍.md "wikilink")使用的標準師級野戰榴彈炮，概括來說，到1943年[史達林格勒戰役之前](https://zh.wikipedia.org/wiki/史達林格勒戰役 "wikilink")，它都沒有被編制成獨立砲兵營。
 
-不僅配屬於德軍，leFH18也獲得歐洲許多國家採用，1938年以前曾被出口到[匈牙利](../Page/匈牙利.md "wikilink")、[西班牙和](../Page/西班牙.md "wikilink")[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")，其中出口到芬蘭的53門被更名為105
+不僅配屬於德軍，leFH18也獲得歐洲許多國家採用，1938年以前曾被出口到[匈牙利](../Page/匈牙利.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")和[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")，其中出口到芬蘭的53門被更名為105
 H
-33；1943年到1944年(2月1日)間則有166門出口到[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")；[瑞典在](../Page/瑞典.md "wikilink")1939年至1942年也向德國購買142門leFH18榴彈砲，並命名為Haubits
+33；1943年到1944年(2月1日)間則有166門出口到[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")；[瑞典](../Page/瑞典.md "wikilink")在1939年至1942年也向德國購買142門leFH18榴彈砲，並命名為Haubits
 m/39，於1982年退役。
 
 東亞方面，[中國也有購買LeFH](../Page/中華民國.md "wikilink")

@@ -1,4 +1,4 @@
-**珠海广通GTQ6857NGJ**是[广通汽车生产的一款](https://zh.wikipedia.org/wiki/广通汽车 "wikilink")8.5米级城市公交车，以[合肥江淮HFC](../Page/江淮汽车.md "wikilink")6832NYG3型底盘为基础建设车身。该车为[液化天然气燃料驱动车辆](../Page/液化天然气.md "wikilink")，气罐侧置，发动机排放标准为[国III](https://zh.wikipedia.org/wiki/国三排放标准 "wikilink")。
+**珠海广通GTQ6857NGJ**是[广通汽车生产的一款](https://zh.wikipedia.org/wiki/广通汽车 "wikilink")8.5米级城市公交车，以[合肥江淮HFC](../Page/江淮汽车.md "wikilink")6832NYG3型底盘为基础建设车身。该车为[液化天然气](../Page/液化天然气.md "wikilink")燃料驱动车辆，气罐侧置，发动机排放标准为[国III](https://zh.wikipedia.org/wiki/国三排放标准 "wikilink")。
 
 ## 使用
 

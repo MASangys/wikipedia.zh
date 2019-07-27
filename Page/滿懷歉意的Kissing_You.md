@@ -6,7 +6,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
   - 與前作《[CANDY
     SMILE](../Page/CANDY_SMILE.md "wikilink")》不同，E-girls全員均有選拔並參與。
-  - 此單曲是[Flower的](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")[水野繪梨奈退出E](../Page/水野繪梨奈.md "wikilink")-girls和Flower前最後參與的單曲，亦是[川本璃和](https://zh.wikipedia.org/wiki/川本璃 "wikilink")[須田安娜首次以](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")[Happiness正規成員參與](../Page/Happiness_\(組合\).md "wikilink")、EGD的[中嶋桃花首次選拔並參與的單曲](https://zh.wikipedia.org/wiki/中嶋桃花 "wikilink")。
+  - 此單曲是[Flower的](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")[水野繪梨奈](../Page/水野繪梨奈.md "wikilink")退出E-girls和Flower前最後參與的單曲，亦是[川本璃和](https://zh.wikipedia.org/wiki/川本璃 "wikilink")[須田安娜首次以](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")[Happiness正規成員參與](../Page/Happiness_\(組合\).md "wikilink")、EGD的[中嶋桃花首次選拔並參與的單曲](https://zh.wikipedia.org/wiki/中嶋桃花 "wikilink")。
   - A面曲《滿懷歉意的Kissing You》是電影《[謝罪大王](../Page/謝罪大王.md "wikilink")》主題曲。
   - B面曲《初戀》為組合[Flower的歌曲](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")，並作為Flower於《武者修行》與[Happiness對決中獲勝的獎品](../Page/Happiness_\(組合\).md "wikilink")。此曲是品牌Samantha
     Thavasa「Samantha×Kawaii×Art」電視廣告歌曲和[朝日電視台](../Page/朝日電視台.md "wikilink")「musicる
@@ -16,7 +16,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《滿懷歉意的Kissing You》的Music
     Video。
   - 在10月14日於公信榜单曲週排行榜取得第2位，是E-grils出道以來最高銷量單曲。
-  - 在[第64回NHK紅白歌合戰以組曲形式演唱](../Page/第64回NHK紅白歌合戰.md "wikilink")（[Follow
+  - 在[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")以組曲形式演唱（[Follow
     Me](../Page/Follow_Me.md "wikilink") + 滿懷歉意的Kissing You）
 
 ## 選抜成员

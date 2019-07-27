@@ -2,7 +2,7 @@
 [The_City_with_Citi_Bikes.jpg](https://zh.wikipedia.org/wiki/File:The_City_with_Citi_Bikes.jpg "fig:The_City_with_Citi_Bikes.jpg")
 
 **Citi
-Bike**是一個[紐約市的私有營利](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[公共自行車系統](../Page/公共自行車.md "wikilink")。在2013年5月27日正式營運，是美國最大的公共自行車系統。\[1\]
+Bike**是一個[紐約市的私有營利](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[公共自行車](../Page/公共自行車.md "wikilink")系統。在2013年5月27日正式營運，是美國最大的公共自行車系統。\[1\]
 
 2011年[Alta Bicycle
 Share公司獲選負責執行並營運這項計劃](https://zh.wikipedia.org/wiki/Alta_Bicycle_Share "wikilink")，該公司使用了與[加拿大](../Page/加拿大.md "wikilink")[蒙特婁](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")[Bixi公共自行車相同的技術](https://zh.wikipedia.org/wiki/Bixi "wikilink")。\[2\]\[3\]這項計劃原定在2012年7月完成，但由於系統軟體問題造成了第一次的延誤\[4\]\[5\]\[6\]，之後又因為[颶風珊迪造成倉庫內的自行車損毀而二度延期](https://zh.wikipedia.org/wiki/颶風珊迪 "wikilink")。
@@ -10,7 +10,7 @@ Share公司獲選負責執行並營運這項計劃](https://zh.wikipedia.org/wik
 第一階段的營運共計投入了6,000台自行車，330個駐車站分佈在[曼哈頓](../Page/曼哈頓.md "wikilink")59街以南\[7\]\[8\]，和[布魯克林的](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")（Atlantic
 Avenue）以東與（Nostrand Avenue）以西。\[9\]
 
-之後的第二階段預計將自行車數量擴展至10,000台以上，超過600個駐車站將設立在曼哈頓79街以南、數個布魯克林和[皇后區的街區中](../Page/皇后區.md "wikilink")。\[10\]\[11\]有一部分的當地居民抱怨周邊的駐車站不足\[12\]，而也有些居民反對在住家附近設立駐車站。\[13\]
+之後的第二階段預計將自行車數量擴展至10,000台以上，超過600個駐車站將設立在曼哈頓79街以南、數個布魯克林和[皇后區](../Page/皇后區.md "wikilink")的街區中。\[10\]\[11\]有一部分的當地居民抱怨周邊的駐車站不足\[12\]，而也有些居民反對在住家附近設立駐車站。\[13\]
 
 這套公共自行車系統以[花旗集團](https://zh.wikipedia.org/wiki/花旗集團 "wikilink")（Citigroup）命名，該集團在未來的五年將支付4,100萬美元，成為最大的贊助商。\[14\]紐約市政府並未投資任何款項在這套系統上。\[15\]
 

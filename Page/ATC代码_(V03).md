@@ -12,7 +12,7 @@
     V03AB04
     [碘解磷定](https://zh.wikipedia.org/wiki/碘解磷定 "wikilink")（Pralidoxime）
     V03AB05
-    [泼尼松龙和](../Page/泼尼松龙.md "wikilink")[异丙嗪](https://zh.wikipedia.org/wiki/异丙嗪 "wikilink")（Prednisolone
+    [泼尼松龙](../Page/泼尼松龙.md "wikilink")和[异丙嗪](https://zh.wikipedia.org/wiki/异丙嗪 "wikilink")（Prednisolone
     and promethazine）
     V03AB06 [硫代硫酸钠](../Page/硫代硫酸钠.md "wikilink")（Thiosulfate）
     V03AB08 [亚硝酸钠](../Page/亚硝酸钠.md "wikilink")（Sodium nitrite）

@@ -1,4 +1,4 @@
-《**AGA**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[江海迦的首張同名數碼專輯](../Page/江海迦.md "wikilink")，於2013年9月2日推出，而實體版則在2014年1月7日發行。\[1\]
+《**AGA**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[江海迦](../Page/江海迦.md "wikilink")的首張同名數碼專輯，於2013年9月2日推出，而實體版則在2014年1月7日發行。\[1\]
 
 ## 曲目
 

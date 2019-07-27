@@ -4,7 +4,7 @@
 
 ### 背景
 
-自2003年[刘志军出任](../Page/刘志军.md "wikilink")[中华人民共和国铁道部部长后](../Page/中华人民共和国铁道部.md "wikilink")，提出并实施铁路“跨越式发展”，以尽快缩小在铁路机车车辆装备上与国际先进水平的差距。2003年11月，中国铁道部与[中国南车](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")、[北车集团及其重点企业共同制定了](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")《加快铁路机车车辆装备现代化实施纲要》，并选择了6家机车制造企业作为引进先进技术和自主创新依托的主体。2004年1月，[中国国务院](https://zh.wikipedia.org/wiki/中国国务院 "wikilink")[常务会议通过了](../Page/国务院常务会议.md "wikilink")《中长期铁路网规划》；2004年4月，国务院常务会议研究通过的铁路机车车辆装备现代化实施方案明确指出，“加快我国铁路运输装备现代化，要按照引进先进技术、联合设计生产、打造中国品牌的总体要求，力争在较短时间内，使我国机车车辆生产能力达到世界先进水平”\[1\]\[2\]。2004年，[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大同电力机车有限责任公司](https://zh.wikipedia.org/wiki/大同电力机车有限责任公司 "wikilink")、[大连机车车辆有限公司分别与](https://zh.wikipedia.org/wiki/大连机车车辆有限公司 "wikilink")[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[阿尔斯通公司和](https://zh.wikipedia.org/wiki/阿尔斯通公司 "wikilink")[日本](../Page/日本.md "wikilink")[东芝公司合作](https://zh.wikipedia.org/wiki/东芝公司 "wikilink")，引进了[HXD2](https://zh.wikipedia.org/wiki/HXD2型电力机车 "wikilink")、[HXD3型交流传动货运电力机车](https://zh.wikipedia.org/wiki/HXD3型电力机车 "wikilink")。
+自2003年[刘志军](../Page/刘志军.md "wikilink")出任[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")部长后，提出并实施铁路“跨越式发展”，以尽快缩小在铁路机车车辆装备上与国际先进水平的差距。2003年11月，中国铁道部与[中国南车](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")、[北车集团及其重点企业共同制定了](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")《加快铁路机车车辆装备现代化实施纲要》，并选择了6家机车制造企业作为引进先进技术和自主创新依托的主体。2004年1月，[中国国务院](https://zh.wikipedia.org/wiki/中国国务院 "wikilink")[常务会议通过了](../Page/国务院常务会议.md "wikilink")《中长期铁路网规划》；2004年4月，国务院常务会议研究通过的铁路机车车辆装备现代化实施方案明确指出，“加快我国铁路运输装备现代化，要按照引进先进技术、联合设计生产、打造中国品牌的总体要求，力争在较短时间内，使我国机车车辆生产能力达到世界先进水平”\[1\]\[2\]。2004年，[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大同电力机车有限责任公司](https://zh.wikipedia.org/wiki/大同电力机车有限责任公司 "wikilink")、[大连机车车辆有限公司分别与](https://zh.wikipedia.org/wiki/大连机车车辆有限公司 "wikilink")[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[阿尔斯通公司和](https://zh.wikipedia.org/wiki/阿尔斯通公司 "wikilink")[日本](../Page/日本.md "wikilink")[东芝公司合作](https://zh.wikipedia.org/wiki/东芝公司 "wikilink")，引进了[HXD2](https://zh.wikipedia.org/wiki/HXD2型电力机车 "wikilink")、[HXD3型交流传动货运电力机车](https://zh.wikipedia.org/wiki/HXD3型电力机车 "wikilink")。
 
 ### 研制
 
@@ -18,9 +18,9 @@
 
 DJG2型电力机车采用交—直—交流电传动、水冷[IGBT牵引逆变器](https://zh.wikipedia.org/wiki/IGBT "wikilink")、变频异步牵引电动机、分布式网络控制系统，单轴功率轮周牵引功率达到1600千瓦，额定总功率为6400千瓦，设计最高运行速度为220公里/小时。每台机车装有两台牵引变流柜，每台牵引变流柜内有二个牵引变流器单元；每个变流器单元由一个四象限脉冲整流器、一个中间直流环节、一个电压型[PWM逆变器组成](../Page/脈衝寬度調變.md "wikilink")，每个逆变器专门向一台异步牵引电动机供电，实现机车的轴控驱动；功率控制模块采用水冷IGBT变流模块（6500V/600A），中间直流电压为3775伏\[7\]。[牵引电动机为六极](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[鼠笼式](https://zh.wikipedia.org/wiki/鼠笼式电动机 "wikilink")[三相异步牵引电动机](../Page/异步电动机.md "wikilink")，电动机采用全叠片结构，额定功率为1640千瓦，额定电压为2945伏，冷却方式为强迫通风。
 
-机车设有两台IGBT辅助变流器，由主变压器二次侧辅助绕组供电，其中一个为恒频恒压变流器（CVCF），另一个为变频变压变流器（VVVF）。机车并设有两台[列车供电柜](../Page/列车供电.md "wikilink")，由主变压器的列车供电绕组供电，通过相控整流电路整流为600伏直流电，可向旅客列车提供空调、采暖、照明等电源，额定输出功率为2×400千瓦。
+机车设有两台IGBT辅助变流器，由主变压器二次侧辅助绕组供电，其中一个为恒频恒压变流器（CVCF），另一个为变频变压变流器（VVVF）。机车并设有两台[列车供电](../Page/列车供电.md "wikilink")柜，由主变压器的列车供电绕组供电，通过相控整流电路整流为600伏直流电，可向旅客列车提供空调、采暖、照明等电源，额定输出功率为2×400千瓦。
 
-机车走行部为两台二轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，其结构与[天梭型电力机车的高速转向架基本相同](../Page/天梭型电力机车.md "wikilink")。转向架采用单拉杆轴箱定位，一系悬挂为轴箱两侧螺旋钢弹簧和橡胶垫，配有垂向油压减震器；二系悬挂为高柔度螺旋圆弹簧配橡胶垫；车体和构架之间并设有垂向减振器、横向减振器和抗蛇行减振器的组合。驱动装置采用六连杆轮对空心轴弹性传动结构，牵引电动机采用架悬式全悬挂、单边刚性直齿传动。基础制动装置为[轮盘制动](https://zh.wikipedia.org/wiki/轮盘制动 "wikilink")，每个转向架有两套单元制动器具有弹簧停车储能停放制动功能。
+机车走行部为两台二轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，其结构与[天梭型电力机车](../Page/天梭型电力机车.md "wikilink")的高速转向架基本相同。转向架采用单拉杆轴箱定位，一系悬挂为轴箱两侧螺旋钢弹簧和橡胶垫，配有垂向油压减震器；二系悬挂为高柔度螺旋圆弹簧配橡胶垫；车体和构架之间并设有垂向减振器、横向减振器和抗蛇行减振器的组合。驱动装置采用六连杆轮对空心轴弹性传动结构，牵引电动机采用架悬式全悬挂、单边刚性直齿传动。基础制动装置为[轮盘制动](https://zh.wikipedia.org/wiki/轮盘制动 "wikilink")，每个转向架有两套单元制动器具有弹簧停车储能停放制动功能。
 
 ## 参见
 

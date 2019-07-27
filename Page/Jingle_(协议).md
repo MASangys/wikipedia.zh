@@ -1,14 +1,14 @@
 [JingleLogo.png](https://zh.wikipedia.org/wiki/File:JingleLogo.png "fig:JingleLogo.png")
 
 Jingle是[XMPP的延伸](https://zh.wikipedia.org/wiki/XMPP "wikilink")。它添加了[P2P会话控制](https://zh.wikipedia.org/wiki/P2P "wikilink")（通信）
-，以实现如同[VoIP或](../Page/VoIP.md "wikilink")[视频会议的多媒体交互](../Page/视频会议.md "wikilink")。
+，以实现如同[VoIP](../Page/VoIP.md "wikilink")或[视频会议](../Page/视频会议.md "wikilink")的多媒体交互。
 
-Jingle由Google及XMPP标准基金会设计。其多媒体流被设计用于[RTP](../Page/实时传输协议.md "wikilink")（实时传输协议）。若需要，可由[NAT穿透辅助以使用](../Page/NAT穿透.md "wikilink")[ICE](../Page/互動式連接建立.md "wikilink")（互動式連接建立）。
+Jingle由Google及XMPP标准基金会设计。其多媒体流被设计用于[RTP](../Page/实时传输协议.md "wikilink")（实时传输协议）。若需要，可由[NAT穿透](../Page/NAT穿透.md "wikilink")辅助以使用[ICE](../Page/互動式連接建立.md "wikilink")（互動式連接建立）。
 
 在2009年12月，推荐的Jingle规范仍未被XMPP标准基金会通过，不过现已存在草案标准。\[1\]
 
 由Google实现于[Google
-Talk的](../Page/Google_Talk.md "wikilink")[libjingle程序库](http://code.google.com/p/libjingle)以[BSD许可证发布](../Page/BSD许可证.md "wikilink")。它同时实现了现行标准协议及前标准版本。
+Talk的](../Page/Google_Talk.md "wikilink")[libjingle程序库](http://code.google.com/p/libjingle)以[BSD许可证](../Page/BSD许可证.md "wikilink")发布。它同时实现了现行标准协议及前标准版本。
 
 ## 支持Jingle的客户端
 
@@ -17,7 +17,7 @@ Talk的](../Page/Google_Talk.md "wikilink")[libjingle程序库](http://code.goog
 
   - [Coccinella](https://zh.wikipedia.org/wiki/Coccinella "wikilink")\[3\]\[4\]\[5\]\[6\]
 
-  - [Empathy](../Page/Empathy.md "wikilink")\[7\]（使用[Telepathy框架](../Page/Telepathy.md "wikilink")）
+  - [Empathy](../Page/Empathy.md "wikilink")\[7\]（使用[Telepathy](../Page/Telepathy.md "wikilink")框架）
 
   - [FreeSWITCH](../Page/FreeSWITCH.md "wikilink")
 

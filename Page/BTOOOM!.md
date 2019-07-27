@@ -1,4 +1,4 @@
-《**BTOOOM\!**》（；）是[日本漫畫家](../Page/日本.md "wikilink")[井上淳哉的](../Page/井上淳哉.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2009年6月19日（29號）至2010年8月27日（39號，最終號）在[新潮社旗下青年漫畫雜誌](https://zh.wikipedia.org/wiki/新潮社 "wikilink")《[週刊Comic
+《**BTOOOM\!**》（；）是[日本](../Page/日本.md "wikilink")漫畫家[井上淳哉](../Page/井上淳哉.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2009年6月19日（29號）至2010年8月27日（39號，最終號）在[新潮社旗下青年漫畫雜誌](https://zh.wikipedia.org/wiki/新潮社 "wikilink")《[週刊Comic
 Bunch](https://zh.wikipedia.org/wiki/週刊Comic_Bunch "wikilink")》上連載，之后由於《週刊Comic
 Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本青年漫畫雜誌《[月刊Comic@Bunch](https://zh.wikipedia.org/wiki/月刊Comic@Bunch "wikilink")》上，从雜誌創刊號开始連載至今。
 
@@ -20,7 +20,7 @@ Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本�
     Dark真實篇最後與織田同歸於盡。
   -
     生死情況：存活（兩篇皆是）
-    本作的女主角，本名**御子神赫米利亞**，15歲，身高158公分，血型B型，高中生，居住在東京，因金髮碧眼和豐滿巨乳的身材而經常被誤會為外國人，但能懂英文很可能是[混血](https://zh.wikipedia.org/wiki/混血 "wikilink")。對男性極度不信任，就像[恐懼症那樣嚴重](../Page/恐懼症.md "wikilink")。
+    本作的女主角，本名**御子神赫米利亞**，15歲，身高158公分，血型B型，高中生，居住在東京，因金髮碧眼和豐滿巨乳的身材而經常被誤會為外國人，但能懂英文很可能是[混血](https://zh.wikipedia.org/wiki/混血 "wikilink")。對男性極度不信任，就像[恐懼症](../Page/恐懼症.md "wikilink")那樣嚴重。
     因認識的青梅竹馬是日本著名的樂團成員，約了那些成員跟她的同學會面，但他們卻把她的同學帶到公寓強暴，而HIMIKO因過於害怕而自己逃跑，沒有去救她的同學們，雖然最後事件被公諸於世，成員也都被警方逮捕，但最後還是被同學填上「讓人消失的表格」，因而被送往孤島進行遊戲。
     初始BIM為「計時式」。後來因多次被龍太拯救及發現龍太是網絡遊戲「BTOOOM\!」中的情人「SAKAMOTO」，開始對龍太敞開心房，並喜歡上他。後與龍太組隊。執行搶奪直升機失敗後與織田同時落海，並與織田一起行動，直到遇到敵人後分開，自己去找龍太。
     Light友情篇事件兩年後決定與龍太結婚。
@@ -534,7 +534,7 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
 | [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")           | 2012年10月7日－12月23日 | 星期日 24時00分－24時30分                                                                                             |                                                           |     |
 | [愛知縣](../Page/愛知縣.md "wikilink")                      | [愛知電視台](../Page/愛知電視台.md "wikilink")                              | 星期日 25時05分－25時35分 | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                           |     |
 | 日本全域                                                  | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2012年10月8日－12月24日 | 星期一 22時00分－22時30分                                                                                             | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")     |     |
-| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink") | 2012年10月13日－12月29日                                                | 星期六 27時00分－27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |     |
+| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink") | 2012年10月13日－12月29日                                                | 星期六 27時00分－27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+](../Page/ANIME+.md "wikilink")節目                  |     |
 
 <table>
 <caption>日本國外</caption>

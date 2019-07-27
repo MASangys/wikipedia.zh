@@ -1,4 +1,4 @@
-**AKB48集團埼玉超級競技場春季演唱會～在這裡丟掉全部回憶向前衝！～**（）是[AKB48的姊妹團體於](../Page/AKB48.md "wikilink")2014年4月4日至5日于[日本](../Page/日本.md "wikilink")[埼玉超級競技場舉辦的三場](../Page/埼玉超級競技場.md "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。而除了在運動場內的現場演出外，在日本部分的[戲院也提供了三場演唱會的直播](https://zh.wikipedia.org/wiki/戲院 "wikilink")\[1\]。
+**AKB48集團埼玉超級競技場春季演唱會～在這裡丟掉全部回憶向前衝！～**（）是[AKB48](../Page/AKB48.md "wikilink")的姊妹團體於2014年4月4日至5日于[日本](../Page/日本.md "wikilink")[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉辦的三場[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。而除了在運動場內的現場演出外，在日本部分的[戲院也提供了三場演唱會的直播](https://zh.wikipedia.org/wiki/戲院 "wikilink")\[1\]。
 
 ## 概要
 

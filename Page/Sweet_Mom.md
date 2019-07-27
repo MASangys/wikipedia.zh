@@ -16,7 +16,7 @@ Mom**》（親愛媽咪）為日本歌手[柴咲幸](../Page/柴咲幸.md "wikil
         作詞：柴咲コウ
         作曲・編曲：[市川淳](https://zh.wikipedia.org/wiki/市川淳 "wikilink")　strings編曲：[弦一徹](https://zh.wikipedia.org/wiki/弦一徹 "wikilink")
     <!-- end list -->
-      - [東寶配給電影](../Page/東寶.md "wikilink")《この胸いっぱいの愛を》主題歌
+      - [東寶](../Page/東寶.md "wikilink")配給電影《この胸いっぱいの愛を》主題歌
 2.  **memory pocket -メモポケ-**
       -
         作詞：柴咲コウ　作曲：[Jin

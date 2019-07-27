@@ -13,7 +13,7 @@
 |                                                     |
 
 註：**曾可青**舊藝名小可\[1\]，曾參加[超級星光大道
-(第三屆)的百人初選](../Page/超級星光大道_\(第三屆\).md "wikilink")、[我猜我猜我猜猜猜和](../Page/我猜我猜我猜猜猜.md "wikilink")[我愛黑澀會等節目錄影](../Page/我愛黑澀會.md "wikilink")，曾為[黑澀會美眉的其中一位](../Page/黑澀會美眉.md "wikilink")。\[2\]
+(第三屆)的百人初選](../Page/超級星光大道_\(第三屆\).md "wikilink")、[我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")和[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")等節目錄影，曾為[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")的其中一位。\[2\]
 
 ### 前任成員
 
@@ -32,39 +32,12 @@
 
 **<small>註：成員以團體身份出道前的主持請參閱個人條目**</small>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>日期</p></td>
-<td><p>播出頻道</p></td>
-<td><p>節目名稱</p></td>
-<td><p>性質</p></td>
-<td><p>參與成員</p></td>
-</tr>
-<tr class="even">
-<td><p>2014年3月17日至今</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超級電視台" title="wikilink">超視</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/健康抱報" title="wikilink">健康抱報</a>》</p></td>
-<td><p>助理主持</p></td>
-<td><p>星潼</p></td>
-</tr>
-<tr class="odd">
-<td><p>2014年初至今</p></td>
-<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/電玩宅速配" title="wikilink">電玩宅速配</a>》</p></td>
-<td><p>主持</p></td>
-<td><p>凱希<br />
-斯亞</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|              |                                                      |                                                           |      |       |
+| ------------ | ---------------------------------------------------- | --------------------------------------------------------- | ---- | ----- |
+| 日期           | 播出頻道                                                 | 節目名稱                                                      | 性質   | 參與成員  |
+| 2014年3月17日至今 | [超視](https://zh.wikipedia.org/wiki/超級電視台 "wikilink") | 《[健康抱報](https://zh.wikipedia.org/wiki/健康抱報 "wikilink")》   | 助理主持 | 星潼    |
+| 2014年初至今     | [YouTube](../Page/YouTube.md "wikilink")             | 《[電玩宅速配](https://zh.wikipedia.org/wiki/電玩宅速配 "wikilink")》 | 主持   | 凱希、斯亞 |
+|              |                                                      |                                                           |      |       |
 
 ## 音樂作品
 
@@ -139,7 +112,7 @@
     (**[廖曉彤](../Page/廖曉彤.md "wikilink")**主唱，**Twinko**全員配唱)
     (暖流計劃一週年主題曲)
   - 《[AVENUE
-    創意方城市](http://www.youtube.com/watch?v=v6B8plM0fpI)》（**Twinko**與[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Dal★Shabet合作](../Page/Dal★Shabet.md "wikilink")）（《創意方城市》主題曲）
+    創意方城市](http://www.youtube.com/watch?v=v6B8plM0fpI)》（**Twinko**與[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")合作）（《創意方城市》主題曲）
 
 ## MV演出
 

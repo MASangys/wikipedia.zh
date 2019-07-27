@@ -4,7 +4,7 @@
 [北京新发现20120321：迷你折叠新风尚——A-bike](http://www.tudou.com/programs/view/noDrfyPwzqY)
 }}
 
-是一种由英国人[克莱夫·辛克莱尔发明的](https://zh.wikipedia.org/wiki/克莱夫·辛克莱尔 "wikilink")[折叠车](https://zh.wikipedia.org/wiki/折叠车 "wikilink")，于2006年7月12日发布。重量仅有，折叠体积有67×30×16 cm，可直接装入[背包中](../Page/背包.md "wikilink")。
+是一种由英国人[克莱夫·辛克莱尔发明的](https://zh.wikipedia.org/wiki/克莱夫·辛克莱尔 "wikilink")[折叠车](https://zh.wikipedia.org/wiki/折叠车 "wikilink")，于2006年7月12日发布。重量仅有，折叠体积有67×30×16 cm，可直接装入[背包](../Page/背包.md "wikilink")中。
 
 A-bike由[辛克莱研究有限公司及其位于达卡](https://zh.wikipedia.org/wiki/辛克莱研究 "wikilink")、香港的团队用超过5年的时间设计完成，最早于2004年提出。克莱夫·辛克莱尔构想出了A-bike，亚历克斯·凯勒噶斯为主要的设计工程师。
 
@@ -21,7 +21,7 @@ Show](https://zh.wikipedia.org/wiki/The_Gadget_Show "wikilink")》亮相。\[1\]
 or
 Bust](https://zh.wikipedia.org/wiki/Badger_or_Bust "wikilink")》亮相。在《[英国疯狂汽车秀](../Page/英国疯狂汽车秀.md "wikilink")》(Top
 Gear)的Car vs. Train
-2.环节中[理查德·哈蒙德与](../Page/理查德·哈蒙德.md "wikilink")[詹姆斯·梅将A](../Page/詹姆斯·梅.md "wikilink")-bike带入他们的手提箱并展开从渡轮码头骑到缆车。《A
+2.环节中[理查德·哈蒙德](../Page/理查德·哈蒙德.md "wikilink")与[詹姆斯·梅](../Page/詹姆斯·梅.md "wikilink")将A-bike带入他们的手提箱并展开从渡轮码头骑到缆车。《A
 to B》杂志形容A-bike为“”（中文直译为：极好的折叠车，但也不易骑行）。\[2\]
 
 ## 系列

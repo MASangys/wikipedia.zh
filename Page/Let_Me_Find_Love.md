@@ -1,5 +1,5 @@
 《**Let Me Find
-Love**》是已故[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳僖儀的第二張](../Page/陳僖儀.md "wikilink")、亦是她生前最後一張個人音樂專輯，於2012年12月19日推出。該年她以新人身份共推出了兩張專輯。
+Love**》是已故[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳僖儀](../Page/陳僖儀.md "wikilink")的第二張、亦是她生前最後一張個人音樂專輯，於2012年12月19日推出。該年她以新人身份共推出了兩張專輯。
 
 ## 曲目
 

@@ -9,7 +9,7 @@
 ### 音樂錄影帶
 
   - 2012年8月13日起5日内正午通過NAVER
-    MUSIC依序公開成員[姜知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")、[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")、[朴奎利](../Page/朴奎利.md "wikilink")、[妮可](../Page/鄭龍珠.md "wikilink")、[韓昇延五人五色個別M](../Page/韓昇延.md "wikilink")/V
+    MUSIC依序公開成員[姜知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")、[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")、[朴奎利](../Page/朴奎利.md "wikilink")、[妮可](../Page/鄭龍珠.md "wikilink")、[韓昇延](../Page/韓昇延.md "wikilink")五人五色個別M/V
     teaser\[8\]\[9\]，五部成員個人預告片累計22日止點擊率突破200萬次\[10\]。
   - 2012年8月19日通過MBC Section TV演藝通信Ep.638公開Kara時隔一年回歸的M/V拍攝現場花絮。
   - 2012年8月20日通過NAVER

@@ -1,6 +1,6 @@
 《**Chicken
 Scramble**》是火箭瓶遊戲有限公司推出的[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")，[iOS與](https://zh.wikipedia.org/wiki/iOS "wikilink")
-[Android版本在](../Page/Android.md "wikilink")2014年9月3日同步上架，在不久的將來也會推出[Facebook](../Page/Facebook.md "wikilink")。
+[Android](../Page/Android.md "wikilink")版本在2014年9月3日同步上架，在不久的將來也會推出[Facebook](../Page/Facebook.md "wikilink")。
 
 ## 玩法
 

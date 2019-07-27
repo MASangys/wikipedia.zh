@@ -11,7 +11,7 @@ Notes还可以集成额外的协作能力，包括音视频会议、在线会议
 Lotus Domino Designer开发环境以及其他工具来开发额外的集成应用程序，如请求批准/工作流以及文档管理。
 
 Lotus
-Notes最初由[莲花公司于](https://zh.wikipedia.org/wiki/莲花公司 "wikilink")1989年创建。1995年，莲花公司被[IBM收购](../Page/IBM.md "wikilink")，成为IBM的Lotus开发部门。现在是IBM软件和系统组的一部分。IBM描述此软件为“易用的，可以从单一入口访问为了使工作快速完成而所需的一切，包括商业应用程序、[电子邮件](../Page/电子邮件.md "wikilink")、日历等等。”\[2\]在4.5版本之前，*Lotus
+Notes最初由[莲花公司于](https://zh.wikipedia.org/wiki/莲花公司 "wikilink")1989年创建。1995年，莲花公司被[IBM](../Page/IBM.md "wikilink")收购，成为IBM的Lotus开发部门。现在是IBM软件和系统组的一部分。IBM描述此软件为“易用的，可以从单一入口访问为了使工作快速完成而所需的一切，包括商业应用程序、[电子邮件](../Page/电子邮件.md "wikilink")、日历等等。”\[2\]在4.5版本之前，*Lotus
 Notes*这个词同时指代客户端和服务器应用程序。\[3\]2011年10月4日，Lotus Notes发布了8.5.3版本。
 
 典型的电子邮件应用程序仅仅是一个电子邮件客户端，而Lotus

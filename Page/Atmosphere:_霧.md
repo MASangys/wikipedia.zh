@@ -3,12 +3,12 @@
 
 ## 專輯簡介
 
-2012年，王菀之以「**Atmosphere**」（氣象系列）為音樂主題，首次邀請[香港](../Page/香港.md "wikilink")[獨立樂隊](https://zh.wikipedia.org/wiki/獨立樂隊 "wikilink")[Chochukmo](https://zh.wikipedia.org/wiki/Chochukmo "wikilink")、[常石磊等音樂人為她的專輯作曲](../Page/常石磊.md "wikilink")，推出了《**Atmosphere
+2012年，王菀之以「**Atmosphere**」（氣象系列）為音樂主題，首次邀請[香港](../Page/香港.md "wikilink")[獨立樂隊](https://zh.wikipedia.org/wiki/獨立樂隊 "wikilink")[Chochukmo](https://zh.wikipedia.org/wiki/Chochukmo "wikilink")、[常石磊](../Page/常石磊.md "wikilink")等音樂人為她的專輯作曲，推出了《**Atmosphere
 No.1: 水**》和《**Atmosphere No.2:
 雪**》兩張限量[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。本專輯收錄單曲中的歌曲《Made
 of Water》和《留白》，另外收錄最新「氣象系列」《**Atmosphere No.3: 風**》的歌曲《皇后餐廳》。
 
-另外，因早前拍攝香港男歌手兼好友[張繼聰的歌曲](../Page/張繼聰.md "wikilink")《生命之花》MV大受歡迎\[1\]，隨後二人推出《生命之花》合唱版，以Bonus
+另外，因早前拍攝香港男歌手兼好友[張繼聰](../Page/張繼聰.md "wikilink")的歌曲《生命之花》MV大受歡迎\[1\]，隨後二人推出《生命之花》合唱版，以Bonus
 Track 形式收錄在本專輯。
 
 ## 曲目

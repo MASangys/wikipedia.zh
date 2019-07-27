@@ -1,17 +1,17 @@
 《**TANK-TOP
-FIGHTER**》（日文：）（中文：**無袖戰士**）或譯（**背心戰士**）是[日本](../Page/日本.md "wikilink")[TBS電視台及](../Page/TBS電視台.md "wikilink")[MBS電視台於日本](../Page/MBS电视台.md "wikilink")[2013年4月開始播放的](../Page/2013年4月.md "wikilink")，主角是由歌手兼演員之[小野惠令奈所飾演的西木果衣](../Page/小野惠令奈.md "wikilink")。編劇為山岡潤平及守口悠介等人。
+FIGHTER**》（日文：）（中文：**無袖戰士**）或譯（**背心戰士**）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")及[MBS電視台於日本](../Page/MBS电视台.md "wikilink")[2013年4月](../Page/2013年4月.md "wikilink")開始播放的，主角是由歌手兼演員之[小野惠令奈](../Page/小野惠令奈.md "wikilink")所飾演的西木果衣。編劇為山岡潤平及守口悠介等人。
 
-[廣告標語為](../Page/廣告標語.md "wikilink")「戦わなければ、私じゃない」（意為：不戰鬥的話，就不是我）
+[廣告標語](../Page/廣告標語.md "wikilink")為「戦わなければ、私じゃない」（意為：不戰鬥的話，就不是我）
 
 ## 劇集相關
 
-  - 飾演姊姊[川島海荷於訪問時表示](../Page/川島海荷.md "wikilink")，由於與飾演妹妹的[小野惠令奈是同年](../Page/小野惠令奈.md "wikilink")，因此最初對於飾演這角色感到擔心。\[1\]
+  - 飾演姊姊[川島海荷](../Page/川島海荷.md "wikilink")於訪問時表示，由於與飾演妹妹的[小野惠令奈](../Page/小野惠令奈.md "wikilink")是同年，因此最初對於飾演這角色感到擔心。\[1\]
   - 本劇乃小野惠令奈首次出演之連續劇，並且是其首次担當主題曲之演唱。\[2\]
-  - 由於要演好以打鬥為主的角色，小野惠令奈跟活躍於[荷里活的動作團隊進行了一個月特訓](https://zh.wikipedia.org/wiki/荷里活 "wikilink")，並觀看由[李小龍主演的電影](https://zh.wikipedia.org/wiki/李小龍 "wikilink")[龍爭虎鬥作為參考](../Page/龍爭虎鬥.md "wikilink")。\[3\]
+  - 由於要演好以打鬥為主的角色，小野惠令奈跟活躍於[荷里活的動作團隊進行了一個月特訓](https://zh.wikipedia.org/wiki/荷里活 "wikilink")，並觀看由[李小龍主演的電影](https://zh.wikipedia.org/wiki/李小龍 "wikilink")[龍爭虎鬥](../Page/龍爭虎鬥.md "wikilink")作為參考。\[3\]
   - 3月11日,由主角小野惠令奈主唱之劇中主題曲《[ファイティング☆ヒーロー](https://zh.wikipedia.org/wiki/ファイティング☆ヒーロー "wikilink")》(譯:Fighting☆Hero)會於5月29日發售。
   - 4月18日本劇之宣傳節目\[タンクトップファイター～スタート直前ＳＰ美女祭～\]於MBS電視台及TBS電視台播出。
   - 4月19日,本劇之發報會於東京舉行。
-  - 4月19日,由劇中友情出演的[川島海荷所屬之女子團隊](../Page/川島海荷.md "wikilink")([9nine](../Page/9nine.md "wikilink"))主唱之劇中片頭曲《[Evolution
+  - 4月19日,由劇中友情出演的[川島海荷](../Page/川島海荷.md "wikilink")所屬之女子團隊([9nine](../Page/9nine.md "wikilink"))主唱之劇中片頭曲《[Evolution
     No.9](../Page/Evolution_No.9.md "wikilink")》會於6月12日發售。
   - 6月18日,本劇DVD之會於9月6日發售。
 

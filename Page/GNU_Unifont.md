@@ -1,6 +1,6 @@
 **GNU Unifont**是一個由Roman
-Czyborra所製作的，自由且免費的點陣字型，涵蓋了[Unicode中的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[基本多文種平面](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")，使用了中型的點陣字型格式。见于大多數的自由[操作系统及一些視窗系統中](../Page/操作系统.md "wikilink")，像是[Linux](../Page/Linux.md "wikilink")、[XFree86](../Page/XFree86.md "wikilink")、[X.Org
-Server](../Page/X.Org_Server.md "wikilink")，及一些嵌入式韌體，像是。此字型是以[GNU通用公共许可证第二版或更新釋出](../Page/GNU通用公共许可证.md "wikilink")，但加入了一個字型嵌入的例外條款（在文件中嵌入字型並不構成違反授權條款的條件）。
+Czyborra所製作的，自由且免費的點陣字型，涵蓋了[Unicode中的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[基本多文種平面](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")，使用了中型的點陣字型格式。见于大多數的自由[操作系统](../Page/操作系统.md "wikilink")及一些視窗系統中，像是[Linux](../Page/Linux.md "wikilink")、[XFree86](../Page/XFree86.md "wikilink")、[X.Org
+Server](../Page/X.Org_Server.md "wikilink")，及一些嵌入式韌體，像是。此字型是以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")第二版或更新釋出，但加入了一個字型嵌入的例外條款（在文件中嵌入字型並不構成違反授權條款的條件）。
 
 它在2013年10月成為了GNU軟體包。
 
@@ -13,7 +13,7 @@ Server](../Page/X.Org_Server.md "wikilink")，及一些嵌入式韌體，像是�
 ，GNU Unifont已經完整涵蓋了在Unicode
 6.3版中所定義的[基本多文種平面](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")。小於100%完成度的字形可以由任何貢獻者完成。
 
-一大塊大約20,000個的中日韓表意文字已從[文泉驿的Unibit字形複製過來](../Page/文泉驿.md "wikilink")（獲得授權）\[1\]。
+一大塊大約20,000個的中日韓表意文字已從[文泉驿](../Page/文泉驿.md "wikilink")的Unibit字形複製過來（獲得授權）\[1\]。
 
 ## .hex字型格式
 
@@ -28,7 +28,7 @@ unifont.hex檔案的每一個字形都包含一行。每行都包含四位數的
 
 ### 範例
 
-[GNU_Unifont_Chinese_language_(Taiwan)_Sample.PNG](https://zh.wikipedia.org/wiki/File:GNU_Unifont_Chinese_language_\(Taiwan\)_Sample.PNG "fig:GNU_Unifont_Chinese_language_(Taiwan)_Sample.PNG")与[日语範例](../Page/日语.md "wikilink")\]\]
+[GNU_Unifont_Chinese_language_(Taiwan)_Sample.PNG](https://zh.wikipedia.org/wiki/File:GNU_Unifont_Chinese_language_\(Taiwan\)_Sample.PNG "fig:GNU_Unifont_Chinese_language_(Taiwan)_Sample.PNG")与[日语](../Page/日语.md "wikilink")範例\]\]
 這是包含了一個ASCII大寫'A'字形的範例。
 
     <nowiki>
@@ -65,7 +65,7 @@ Perl的hexdraw指令稿按照上述的一行字形定義產生以下的輸出：
 ## 向量
 
 Luis Alejandro Gonzalez
-Miranda寫了指令稿以進行向量化及使用[FontForge轉換BDF格式](../Page/FontForge.md "wikilink")（unifont.bdf）至[TrueType格式](../Page/TrueType.md "wikilink")\[2\]。Paul
+Miranda寫了指令稿以進行向量化及使用[FontForge](../Page/FontForge.md "wikilink")轉換BDF格式（unifont.bdf）至[TrueType](../Page/TrueType.md "wikilink")格式\[2\]。Paul
 Hardy調整了這些指令稿以處理最新的TrueType版本的組合字母（像是重音符號等）\[3\]。
 
 ## 歷史
@@ -75,7 +75,7 @@ Roman Czyborra在1998年創造了Unifont格式\[4\]，但更早期的努力可�
 2008年，Luis Alejandro González Miranda寫了把這個字型轉換成TrueType字型的程式。Paul
 Hardy在稍後修改它以支援在新版TrueType中的組合字母。
 
-最後，[理查德·斯托曼在](../Page/理查德·斯托曼.md "wikilink")2013年10月接受Unifont成為一個GNU軟體包，而Paul
+最後，[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")在2013年10月接受Unifont成為一個GNU軟體包，而Paul
 Hardy是它的維護者。
 
 ## 參考資料

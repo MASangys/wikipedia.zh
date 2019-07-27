@@ -1,11 +1,11 @@
-**Android應用開發者**（）是一款卡通图形界面的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")[应用程序开发软件](../Page/应用程序.md "wikilink")。它起先由[Google提供的應用軟體](../Page/Google.md "wikilink")，现在由[麻省理工學院維護及營運](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")。
+**Android應用開發者**（）是一款卡通图形界面的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")开发软件。它起先由[Google](../Page/Google.md "wikilink")提供的應用軟體，现在由[麻省理工學院維護及營運](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")。
 
 ## 概述
 
-它可以让任何熟悉或不熟悉[程序设计的人来创造基于](../Page/程序设计.md "wikilink")[Android操作系统的](../Page/Android.md "wikilink")[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它使用图形化界面，非常类似于[Scratch語言和StarLogo](https://zh.wikipedia.org/wiki/Scratch語言 "wikilink")
+它可以让任何熟悉或不熟悉[程序设计](../Page/程序设计.md "wikilink")的人来创造基于[Android](../Page/Android.md "wikilink")操作系统的[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它使用图形化界面，非常类似于[Scratch語言和StarLogo](https://zh.wikipedia.org/wiki/Scratch語言 "wikilink")
 TNG[用户界面](../Page/用户界面.md "wikilink")。用户可以[拖放图形对象来创造一个运行在安卓系统上的应用](https://zh.wikipedia.org/wiki/拖放 "wikilink")，它就可以在许多手机设备上运行。
 
-應用開發者團隊是由[哈尔·阿伯尔森和馬克](../Page/哈尔·阿伯尔森.md "wikilink")·弗里德曼領導。\[1\]
+應用開發者團隊是由[哈尔·阿伯尔森](../Page/哈尔·阿伯尔森.md "wikilink")和馬克·弗里德曼領導。\[1\]
 
 ## 歷史
 

@@ -1,5 +1,5 @@
 **在线IDE**，也被称为Cloud
-IDE，主要基于[HTML5相关技术构建](../Page/HTML5.md "wikilink")，通常在浏览器里即可完成传统[IDE的大部分开发工作](../Page/集成开发环境.md "wikilink")。在线IDE的重要组成部分为：基于[Javascript的源代码编辑器](https://zh.wikipedia.org/wiki/Javascript "wikilink")，相关比较请参见：[Comparison
+IDE，主要基于[HTML5](../Page/HTML5.md "wikilink")相关技术构建，通常在浏览器里即可完成传统[IDE的大部分开发工作](../Page/集成开发环境.md "wikilink")。在线IDE的重要组成部分为：基于[Javascript的源代码编辑器](https://zh.wikipedia.org/wiki/Javascript "wikilink")，相关比较请参见：[Comparison
 of JavaScript-based source code
 editors](https://zh.wikipedia.org/wiki/:en:Comparison_of_JavaScript-based_source_code_editors "wikilink")
 

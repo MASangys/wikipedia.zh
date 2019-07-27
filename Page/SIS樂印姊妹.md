@@ -1,15 +1,15 @@
-**SIS樂印姊妹**，[香港唱作](../Page/香港.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")，由兩名親姊妹——姐姐[駱胤樺](../Page/駱胤樺.md "wikilink")（樂樺）及妹妹[駱胤鳴](../Page/駱胤鳴.md "wikilink")（烙印）組成，現為[GME旗下歌手](../Page/HMV數碼中國集團.md "wikilink")。
+**SIS樂印姊妹**，[香港](../Page/香港.md "wikilink")唱作[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")，由兩名親姊妹——姐姐[駱胤樺](../Page/駱胤樺.md "wikilink")（樂樺）及妹妹[駱胤鳴](../Page/駱胤鳴.md "wikilink")（烙印）組成，現為[GME旗下歌手](../Page/HMV數碼中國集團.md "wikilink")。
 
 ## 成員簡介
 
 ### 樂樺（駱胤樺）
 
-樂樺（**[駱胤樺](../Page/駱胤樺.md "wikilink")**，1989年10月8日出生），為組合「SiS樂印姊妹」中的姊姊。於2013年於[香港大學文學士音樂系及語言學系畢業](../Page/香港大學.md "wikilink")，另持[香港大學學位教師教育文憑](../Page/香港大學.md "wikilink")，以優異成績考獲八級[英國皇家音樂學院鋼琴](../Page/英國皇家音樂學院.md "wikilink")、聲樂及樂理證書。
+樂樺（**[駱胤樺](../Page/駱胤樺.md "wikilink")**，1989年10月8日出生），為組合「SiS樂印姊妹」中的姊姊。於2013年於[香港大學](../Page/香港大學.md "wikilink")文學士音樂系及語言學系畢業，另持[香港大學](../Page/香港大學.md "wikilink")學位教師教育文憑，以優異成績考獲八級[英國皇家音樂學院](../Page/英國皇家音樂學院.md "wikilink")鋼琴、聲樂及樂理證書。
 
-大學時期熱衷無伴奏合唱，曾擔任[香港大學](../Page/香港大學.md "wikilink")[無伴奏合唱團Mosaic的音樂總監](../Page/無伴奏合唱.md "wikilink")、編曲及女高音，並在Mosaic週年音樂會擔任無伴奏合唱音樂劇女主角。除此以外，樂樺亦曾屬[香港大學](../Page/香港大學.md "wikilink")「明我以德合唱團」成員之一，曾經參與「明我以德」MV拍攝及擔當[許冠傑](../Page/許冠傑.md "wikilink")《What
+大學時期熱衷無伴奏合唱，曾擔任[香港大學](../Page/香港大學.md "wikilink")[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")團Mosaic的音樂總監、編曲及女高音，並在Mosaic週年音樂會擔任無伴奏合唱音樂劇女主角。除此以外，樂樺亦曾屬[香港大學](../Page/香港大學.md "wikilink")「明我以德合唱團」成員之一，曾經參與「明我以德」MV拍攝及擔當[許冠傑](../Page/許冠傑.md "wikilink")《What
 a Wonderful World》演唱會2014的表演嘉賓。
 
-出道後，樂樺亦在空餘時間到中小學親自教授樂理，亦舉辦不少關於音樂及[無伴奏合唱的工作坊](../Page/無伴奏合唱.md "wikilink")，現時樂樺除是歌手之外，亦同時是音樂導師。
+出道後，樂樺亦在空餘時間到中小學親自教授樂理，亦舉辦不少關於音樂及[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")的工作坊，現時樂樺除是歌手之外，亦同時是音樂導師。
 
 ### 烙印（駱胤鳴）
 
@@ -17,7 +17,7 @@ a Wonderful World》演唱會2014的表演嘉賓。
 
 自小喜歡音樂的烙印，於2009年參與香港無線電視歌唱選秀節目《[超級巨聲1](../Page/超級巨聲1.md "wikilink")》，憑原創歌《如果我是個男孩》為人熟悉，此曲更於[2009年度YAHOO\!搜尋人氣大獎獲頒](https://zh.wikipedia.org/wiki/2009年度YAHOO!搜尋人氣大獎 "wikilink")「網上熱播歌曲」。
 
-比賽後，烙印於[TVB娛樂新聞台擔任主播](../Page/TVB娛樂新聞台.md "wikilink")，間中亦有客串電視劇集的演出，亦於網上開設頻道發布不少自彈自唱歌曲及自家創作歌曲，當中原創歌《森林》獲22萬點擊率。
+比賽後，烙印於[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")擔任主播，間中亦有客串電視劇集的演出，亦於網上開設頻道發布不少自彈自唱歌曲及自家創作歌曲，當中原創歌《森林》獲22萬點擊率。
 
 ## 入行經過
 
@@ -171,7 +171,7 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
 
 #### 2015年
 
-  - 《讓夢想燃燒》廣播劇（[駱胤樺聲演Kay](https://zh.wikipedia.org/wiki/:zh-yue:駱胤樺 "wikilink")；[駱胤鳴聲演Sally](../Page/駱胤鳴.md "wikilink")）
+  - 《讓夢想燃燒》廣播劇（[駱胤樺聲演Kay](https://zh.wikipedia.org/wiki/:zh-yue:駱胤樺 "wikilink")；[駱胤鳴](../Page/駱胤鳴.md "wikilink")聲演Sally）
 
 ### 電視節目
 

@@ -1,7 +1,7 @@
 **AKB48集團大組閣祭
-～時代在變。但是，我們也只能往前邁進！～**（），簡稱**AKB48集團大組閣祭**（），是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48以及姊妹團體](../Page/AKB48.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink")、[NMB48和](../Page/NMB48.md "wikilink")[HKT48](../Page/HKT48.md "wikilink")）於2014年2月24日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場的](../Page/御台場.md "wikilink")舉辦之所有成員重新分組的活動\[1\]。
+～時代在變。但是，我們也只能往前邁進！～**（），簡稱**AKB48集團大組閣祭**（），是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")以及姊妹團體（[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")和[HKT48](../Page/HKT48.md "wikilink")）於2014年2月24日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場的](../Page/御台場.md "wikilink")舉辦之所有成員重新分組的活動\[1\]。
 
-AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；該活動為第三次組閣，但調整範圍從AKB48本團涵蓋至所有在日本國內的姊妹團體。此次組閣於各分隊中新導入副隊長（）制度，並一併進行了[AKB48集團各劇場管理人等幕後人員的組閣](../Page/AKB48集團.md "wikilink")，且首次導入與[乃木坂46成員相互兼任的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「交換留學生」制度\[2\]。
+AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；該活動為第三次組閣，但調整範圍從AKB48本團涵蓋至所有在日本國內的姊妹團體。此次組閣於各分隊中新導入副隊長（）制度，並一併進行了[AKB48集團](../Page/AKB48集團.md "wikilink")各劇場管理人等幕後人員的組閣，且首次導入與[乃木坂46成員相互兼任的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「交換留學生」制度\[2\]。
 
 ## 概要
 
@@ -718,7 +718,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 | [佐藤實繪子](../Page/佐藤實繪子.md "wikilink")                    | SKE48第1期生           | 副隊長  | [AKS](../Page/AKS.md "wikilink")                                                                                     |                  |
 | [東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")     | SKE48第6期生           |      | [AKS](../Page/AKS.md "wikilink")                                                                                     |                  |
 | [大矢真那](../Page/大矢真那.md "wikilink")                      | SKE48第1期生           |      | [AKS](../Page/AKS.md "wikilink")                                                                                     |                  |
-| [金子栞](../Page/金子栞.md "wikilink")                        | SKE48第4期生           |      | [AKS畢業移籍至](../Page/AKS.md "wikilink")[ニュースタイルプロダクション](https://zh.wikipedia.org/wiki/ニュースタイルプロダクション "wikilink")\[12\] | 2014年4月29日畢業     |
+| [金子栞](../Page/金子栞.md "wikilink")                        | SKE48第4期生           |      | [AKS](../Page/AKS.md "wikilink")畢業移籍至[ニュースタイルプロダクション](https://zh.wikipedia.org/wiki/ニュースタイルプロダクション "wikilink")\[12\] | 2014年4月29日畢業     |
 | [北川綾巴](../Page/北川綾巴.md "wikilink")                      | SKE48第6期生           |      | [AKS](../Page/AKS.md "wikilink")                                                                                     |                  |
 | [鬼頭桃菜](https://zh.wikipedia.org/wiki/鬼頭桃菜 "wikilink")   | SKE48第2期生           |      | [AKS](../Page/AKS.md "wikilink")                                                                                     | 2014年4月29日畢業     |
 | [後藤理沙子](https://zh.wikipedia.org/wiki/後藤理沙子 "wikilink") | SKE48第3期生           |      | [AKS](../Page/AKS.md "wikilink")                                                                                     |                  |
@@ -1200,7 +1200,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 ### 日本国外团体
 
   - AKB48
-    5期生[近野莉菜移籍至](../Page/近野莉菜.md "wikilink")[JKT48](../Page/JKT48.md "wikilink")（移籍发表时未公布所属队伍）。
+    5期生[近野莉菜](../Page/近野莉菜.md "wikilink")移籍至[JKT48](../Page/JKT48.md "wikilink")（移籍发表时未公布所属队伍）。
 
 ## 大組閣活動尾聲
 

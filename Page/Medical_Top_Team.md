@@ -1,6 +1,6 @@
 《**Medical Top
 Team**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年10月9日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[Royal
-Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[金道勳導演與](../Page/金道勳.md "wikilink")《[學習之神](../Page/學習之神.md "wikilink")》、《[Brain](../Page/Brain.md "wikilink")》[尹景雅作家合作打造](https://zh.wikipedia.org/wiki/尹景雅 "wikilink")，講述來自各領域最頂尖的醫生打造一個夢幻醫療團隊的過程。\[1\]
+Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[金道勳](../Page/金道勳.md "wikilink")導演與《[學習之神](../Page/學習之神.md "wikilink")》、《[Brain](../Page/Brain.md "wikilink")》[尹景雅作家合作打造](https://zh.wikipedia.org/wiki/尹景雅 "wikilink")，講述來自各領域最頂尖的醫生打造一個夢幻醫療團隊的過程。\[1\]
 
 ## 演員陣容
 

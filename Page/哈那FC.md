@@ -1,4 +1,4 @@
-**哈那FC**是一支位在[所羅門群島的](https://zh.wikipedia.org/wiki/所羅門群島 "wikilink")[足球俱樂部](../Page/足球.md "wikilink")，所屬聯賽為[索羅門群島全國俱樂部錦標賽](https://zh.wikipedia.org/wiki/索羅門群島全國俱樂部錦標賽 "wikilink")。
+**哈那FC**是一支位在[所羅門群島的](https://zh.wikipedia.org/wiki/所羅門群島 "wikilink")[足球](../Page/足球.md "wikilink")俱樂部，所屬聯賽為[索羅門群島全國俱樂部錦標賽](https://zh.wikipedia.org/wiki/索羅門群島全國俱樂部錦標賽 "wikilink")。
 
 ## 成績
 

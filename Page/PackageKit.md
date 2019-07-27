@@ -1,7 +1,7 @@
 **PackageKit**是由Richard
-Hughes所開發的[自由且開源的](../Page/自由及开放源代码软件.md "wikilink")[应用软件套裝](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，旨在為多種不同的[软件包管理系统提供一個一致的高階](../Page/软件包管理系统.md "wikilink")[前端](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")。
+Hughes所開發的[自由且開源的](../Page/自由及开放源代码软件.md "wikilink")[应用软件套裝](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，旨在為多種不同的[软件包管理系统](../Page/软件包管理系统.md "wikilink")提供一個一致的高階[前端](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")。
 
-此軟體套裝表面上是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，但它主要的目標是提供遵循[Freedesktop.org標準的](../Page/Freedesktop.org.md "wikilink")[Linux发行版之間的互操作性](../Page/Linux发行版.md "wikilink")。它使用[D-Bus及](../Page/D-Bus.md "wikilink")提供的[函式庫來處理內部進程溝通及取得權限](../Page/函式庫.md "wikilink")。
+此軟體套裝表面上是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，但它主要的目標是提供遵循[Freedesktop.org](../Page/Freedesktop.org.md "wikilink")標準的[Linux发行版](../Page/Linux发行版.md "wikilink")之間的互操作性。它使用[D-Bus](../Page/D-Bus.md "wikilink")及提供的[函式庫](../Page/函式庫.md "wikilink")來處理內部進程溝通及取得權限。
 
 ## 歷史
 
@@ -27,15 +27,15 @@ PackageKit本身是一個稱做 `packagekitd`
 
 ### 前端
 
-[Free_and_open-source-software_display_servers_and_UI_toolkits.svg](https://zh.wikipedia.org/wiki/File:Free_and_open-source-software_display_servers_and_UI_toolkits.svg "fig:Free_and_open-source-software_display_servers_and_UI_toolkits.svg")及[NetworkManager齊名的](../Page/NetworkManager.md "wikilink")[守护进程](../Page/守护进程.md "wikilink")\]\]
+[Free_and_open-source-software_display_servers_and_UI_toolkits.svg](https://zh.wikipedia.org/wiki/File:Free_and_open-source-software_display_servers_and_UI_toolkits.svg "fig:Free_and_open-source-software_display_servers_and_UI_toolkits.svg")及[NetworkManager](../Page/NetworkManager.md "wikilink")齊名的[守护进程](../Page/守护进程.md "wikilink")\]\]
 PackageKit目前有數種[前端](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")：
 
-[File:Kpackagekit.png|使用](File:Kpackagekit.png%7C使用)[Qt的](../Page/Qt.md "wikilink")[Apper](../Page/Apper.md "wikilink")
+[File:Kpackagekit.png|使用](File:Kpackagekit.png%7C使用)[Qt](../Page/Qt.md "wikilink")的[Apper](../Page/Apper.md "wikilink")
 [File:GNOME_Software_3.10.png|使用](File:GNOME_Software_3.10.png%7C使用)[GTK+的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[GNOME
 Software](https://zh.wikipedia.org/wiki/GNOME_Software "wikilink")
 <File:PackageKit> on Fedora.png|廢棄的gnome-packagekit
 
-  - **pkcon** 供[命令行界面使用](../Page/命令行界面.md "wikilink")。
+  - **pkcon** 供[命令行界面](../Page/命令行界面.md "wikilink")使用。
 
 ### 後端
 

@@ -1,4 +1,4 @@
-**Typecho**是一个基于[PHP的简洁的开源博客程序](../Page/PHP.md "wikilink")。它使用多种数据库（[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")）储存数据，在[GNU
+**Typecho**是一个基于[PHP](../Page/PHP.md "wikilink")的简洁的开源博客程序。它使用多种数据库（[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")）储存数据，在[GNU
 GPLv2许可证下发行](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 名称来历
@@ -21,7 +21,7 @@ china的活动上](../Page/WordCamp.md "wikilink")，后来有更多成员加入
 
 ### 扩展
 
-和[WordPress一样](../Page/WordPress.md "wikilink")，Typecho带有完整的插件与模板（主题）机制。\[13\]它们可以在不更改博客内容和Typecho核心部分时，修改博客的界面和功能。\[14\]同时Typecho使用独特的模块化架构，使得扩展十分便利。\[15\]
+和[WordPress](../Page/WordPress.md "wikilink")一样，Typecho带有完整的插件与模板（主题）机制。\[13\]它们可以在不更改博客内容和Typecho核心部分时，修改博客的界面和功能。\[14\]同时Typecho使用独特的模块化架构，使得扩展十分便利。\[15\]
 
 ### 使用 Markdown 语法
 
@@ -160,7 +160,7 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 <li>新增了Mysqli适配器</li>
 <li>增加夏令时支持</li>
 <li>修正了反垃圾的措施</li>
-<li><a href="../Page/PHP.md" title="wikilink">PHP最低要求提升至PHP</a>5.4[36]</li>
+<li><a href="../Page/PHP.md" title="wikilink">PHP</a>最低要求提升至PHP5.4[36]</li>
 </ol></td>
 </tr>
 <tr class="even">

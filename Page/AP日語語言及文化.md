@@ -1,5 +1,5 @@
 **大学先修课程日语语言及文化**（别称**AP日语语言及文化**，AP JAP 或 AP
-日语）是由[美国大学理事会提供的其中一种](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[大学先修课程](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。这门课程主要提供给学生对于[日本语和](https://zh.wikipedia.org/wiki/日本语 "wikilink")[日本文化的背景知识和概念](../Page/日本文化.md "wikilink")。这门课程是在2006-07学年作为一门已认证美国大学理事会项目。考试大纲也在同期准备完毕。但是由于当时的技术条件导致当时部分地区没有这门AP考试。
+日语）是由[美国大学理事会提供的其中一种](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[大学先修课程](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")。这门课程主要提供给学生对于[日本语和](https://zh.wikipedia.org/wiki/日本语 "wikilink")[日本文化](../Page/日本文化.md "wikilink")的背景知识和概念。这门课程是在2006-07学年作为一门已认证美国大学理事会项目。考试大纲也在同期准备完毕。但是由于当时的技术条件导致当时部分地区没有这门AP考试。
 
 ## 考试大纲
 

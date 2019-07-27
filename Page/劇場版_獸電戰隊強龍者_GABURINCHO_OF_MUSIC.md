@@ -1,5 +1,5 @@
 『劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC』（日文：劇場版 獣電戦隊キョウリュウジャー
-ガブリンチョ・オブ・ミュージック）是2013年8月3日東映特攝電視劇[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")『[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")』的劇場版作品。與[假面騎士系列的](../Page/假面騎士系列.md "wikilink")『[劇場版
+ガブリンチョ・オブ・ミュージック）是2013年8月3日東映特攝電視劇[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")『[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")』的劇場版作品。與[假面騎士系列](../Page/假面騎士系列.md "wikilink")的『[劇場版
 假面騎士Wizard in Magic
 Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時上映。
 

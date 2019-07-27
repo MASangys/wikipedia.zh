@@ -1,16 +1,16 @@
 《**2GETHER
-4EVER演唱會影音館**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E的第四張演唱會影音專輯](../Page/S.H.E.md "wikilink")，亦是第四次世界巡迴演唱會《[2gether
+4EVER演唱會影音館**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")的第四張演唱會影音專輯，亦是第四次世界巡迴演唱會《[2gether
 4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/2gether_4ever世界巡迴演唱會 "wikilink")》的影音實錄。此張演唱會影音專輯收錄了S.H.E於2013年6月22、6月23日展開的《[2gether
 4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/Together_Forever世界巡迴演唱會 "wikilink")》的首站台北場第二天6月23日於[台北小巨蛋舉辦的演唱會實況的現場影音](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")，並特別收錄演唱會第一天6月22日有演唱而第二天6月23日未演唱之曲目。\[1\]\[2\]
 
-S.H.E憑此影音專輯於[IFPI香港唱片銷量大獎頒獎禮2014獲得](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink")『十大銷量國語唱片』獎項。
+S.H.E憑此影音專輯於[IFPI香港唱片銷量大獎頒獎禮2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink")獲得『十大銷量國語唱片』獎項。
 
 ## 發行版本
 
 | 類型    | 發行日期                     | 版本    | 附註                                                                    |
 | ----- | ------------------------ | ----- | --------------------------------------------------------------------- |
-| BD    | 2014年8月8日                | 精裝限量版 | 僅限預購，[VHS特殊造型包裝](../Page/VHS.md "wikilink")，內附幕後紀實DVD、特殊尺寸32頁寫真冊、海報一張 |
-| DVD   | 2014年8月8日                | 精裝限量版 | 僅限預購，[VHS特殊造型包裝](../Page/VHS.md "wikilink")，內附幕後紀實DVD、特殊尺寸32頁寫真冊、海報一張 |
+| BD    | 2014年8月8日                | 精裝限量版 | 僅限預購，[VHS](../Page/VHS.md "wikilink")特殊造型包裝，內附幕後紀實DVD、特殊尺寸32頁寫真冊、海報一張 |
+| DVD   | 2014年8月8日                | 精裝限量版 | 僅限預購，[VHS](../Page/VHS.md "wikilink")特殊造型包裝，內附幕後紀實DVD、特殊尺寸32頁寫真冊、海報一張 |
 | 平裝發行版 | 發行版，內附幕後紀實DVD、特殊尺寸32頁寫真冊 |       |                                                                       |
 |       |                          |       |                                                                       |
 

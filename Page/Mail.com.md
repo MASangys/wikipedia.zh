@@ -34,7 +34,7 @@ Mail.com仍然接受來自london.com用戶應用到訂閱Mail.com之優質的服
 
 ## 功能
 
-Mail.com為提供免費使用且是靠廣告所支持的電子郵件，以及無限儲存服務的電子郵件；可選擇超過200個域名、線上文件儲存、採集從其他帳戶、組織者、[Facebook的整合](../Page/Facebook.md "wikilink")，以及垃圾郵件和病毒防護的電子郵件\[16\]。
+Mail.com為提供免費使用且是靠廣告所支持的電子郵件，以及無限儲存服務的電子郵件；可選擇超過200個域名、線上文件儲存、採集從其他帳戶、組織者、[Facebook](../Page/Facebook.md "wikilink")的整合，以及垃圾郵件和病毒防護的電子郵件\[16\]。
 
 ### 電子郵件
 
@@ -60,7 +60,7 @@ Mail.com為用戶提供無限的儲存空間的電子郵件，以及2 GB的線�
 
 ### 行動客戶端
 
-Mail.com提供[Android和](../Page/Android.md "wikilink")[iOS之應用系統](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+Mail.com提供[Android](../Page/Android.md "wikilink")和[iOS之應用系統](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 客戶服務問題
 

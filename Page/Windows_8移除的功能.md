@@ -7,7 +7,7 @@
   - 桌面 UI 的变化：放弃部分 [Windows Aero](../Page/Windows_Aero.md "wikilink")
     效果如 Aero Glass (毛玻璃效果) 等，整體感覺會失去立體感，但是其他如DWM和Peek
     预览仍然存在。\[1\]\[2\]
-  - [開始功能表以及開始按鈕](../Page/開始功能表.md "wikilink")(開始按鈕已於Windows 8.1
+  - [開始功能表](../Page/開始功能表.md "wikilink")以及開始按鈕(開始按鈕已於Windows 8.1
     重新出現)(開始功能表則在2014年Build大會发布，已在Windows 10恢复)
   - [桌面小工具](https://zh.wikipedia.org/wiki/桌面小工具 "wikilink")(主要是由於桌面小工具的嚴重安全性漏洞)\[3\]
 

@@ -1,4 +1,4 @@
-《**Chocolate**》（）為[日本女歌手](../Page/日本.md "wikilink")[家入里歐於](../Page/家入里歐.md "wikilink")2014年1月29日發售的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**Chocolate**》（）為[日本](../Page/日本.md "wikilink")女歌手[家入里歐](../Page/家入里歐.md "wikilink")於2014年1月29日發售的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 收錄內容
 

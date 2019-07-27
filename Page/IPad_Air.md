@@ -1,7 +1,7 @@
 **iPad Air**（技术上称**第一代iPad**，而**iPad Air
 1**为俗称，且在[2017款iPad推出之前亦有](../Page/IPad_\(第5代\).md "wikilink")“**iPad
 5**”之俗称）是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[iPad平板電腦](https://zh.wikipedia.org/wiki/iPad "wikilink")，它延續[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")，但机型因参考了iPad
-Mini的设计，使得其更薄、更輕巧，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[旧金山发布](../Page/旧金山.md "wikilink")，同年11月1日起正式发售\[1\]，Air的設計語言主導了之後平板的輕量化設計，所以Air系列同屬iPad系列第5個世代。
+Mini的设计，使得其更薄、更輕巧，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")发布，同年11月1日起正式发售\[1\]，Air的設計語言主導了之後平板的輕量化設計，所以Air系列同屬iPad系列第5個世代。
 
 2014年10月，蘋果公司發佈[iPad Air
 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")。原有的iPad
@@ -12,21 +12,21 @@ Air仍繼續供售容量16GB及32GB機型，其餘容量則不再提供。
 ### 软件
 
 iPad Air首发即搭载运行2013年9月20日发布下载的iOS 7\[2\]。为iOS
-7带来新元素设计的总设计师[乔纳森·埃维](../Page/乔纳森·埃维.md "wikilink")，将此次升级描述为“给复杂操作带来秩序”，以精致的排版、全新的图标、半透明特性、层次感、物理效果以及以陀螺仪驱动的[视差效果等一些重大的变化来突出设计特色](../Page/视差.md "wikilink")\[3\]。iOS
+7带来新元素设计的总设计师[乔纳森·埃维](../Page/乔纳森·埃维.md "wikilink")，将此次升级描述为“给复杂操作带来秩序”，以精致的排版、全新的图标、半透明特性、层次感、物理效果以及以陀螺仪驱动的[视差](../Page/视差.md "wikilink")效果等一些重大的变化来突出设计特色\[3\]。iOS
 7和[OS X
 Mavericks](../Page/OS_X_Mavericks.md "wikilink")（版本10.9）中的设计风格明显与以往版本系统诸如在[游戏中心中的绿色毛毡](../Page/Game_Center.md "wikilink")、中的木纹设计和[日历应用中所使用的皮革质感等的](https://zh.wikipedia.org/wiki/日历_\(应用程序\) "wikilink")“[拟物化](../Page/仿制品.md "wikilink")”设计风格相偏离，而采用扁平化设计风格\[4\]。iOS
 7增加了新的男性和女性的语音提示音、新的系统设置功能、配合操作系统的其他部分进行的全面重新设计，集成[Twitter](../Page/Twitter.md "wikilink")、[维基百科](../Page/维基百科.md "wikilink")、[必应和Photos](https://zh.wikipedia.org/wiki/必应 "wikilink")\[5\]。
 
 该服务允许用户自[iTunes
-Store中预览和下载由](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[Xcode和](../Page/Xcode.md "wikilink")[iOS
+Store中预览和下载由](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[Xcode](../Page/Xcode.md "wikilink")和[iOS
 SDK组件开发并由苹果公司发布的](https://zh.wikipedia.org/wiki/iOS_SDK "wikilink")[应用](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")。自苹果[App
-Store中可以使用](https://zh.wikipedia.org/wiki/App_Store "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")、[iMovie](https://zh.wikipedia.org/wiki/iMovie "wikilink")、[iPhoto以及](https://zh.wikipedia.org/wiki/iPhoto "wikilink")[iWork套件](https://zh.wikipedia.org/wiki/iWork "wikilink")（[Pages](../Page/Pages.md "wikilink")、[Keynote和](../Page/Keynote.md "wikilink")[Numbers](../Page/Numbers.md "wikilink")）等\[6\]。
+Store中可以使用](https://zh.wikipedia.org/wiki/App_Store "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")、[iMovie](https://zh.wikipedia.org/wiki/iMovie "wikilink")、[iPhoto以及](https://zh.wikipedia.org/wiki/iPhoto "wikilink")[iWork套件](https://zh.wikipedia.org/wiki/iWork "wikilink")（[Pages](../Page/Pages.md "wikilink")、[Keynote](../Page/Keynote.md "wikilink")和[Numbers](../Page/Numbers.md "wikilink")）等\[6\]。
 
 iPad
-Air带有一些预装的应用程序，包括[Siri的](../Page/Siri.md "wikilink")、[Safari浏览器](../Page/Safari.md "wikilink")、邮件、照片、视频、音乐、iTunes应用程序商店、地图、便笺、日历、游戏中心、Photo
+Air带有一些预装的应用程序，包括[Siri](../Page/Siri.md "wikilink")的、[Safari](../Page/Safari.md "wikilink")浏览器、邮件、照片、视频、音乐、iTunes应用程序商店、地图、便笺、日历、游戏中心、Photo
 Booth和联系人等\[7\]。
 
-虽然这款平板电脑并未设计为可以通过行動網路拨打电话，但用户依然可以通过Wi-Fi或行動網路利用耳机或内置扬声器和麦克风来使用[VoIP应用程序](../Page/VoIP.md "wikilink")，比如[Skype](../Page/Skype.md "wikilink")\[8\]。该设备具有一款使用与[iPhone
+虽然这款平板电脑并未设计为可以通过行動網路拨打电话，但用户依然可以通过Wi-Fi或行動網路利用耳机或内置扬声器和麦克风来使用[VoIP](../Page/VoIP.md "wikilink")应用程序，比如[Skype](../Page/Skype.md "wikilink")\[8\]。该设备具有一款使用与[iPhone
 4S相同语音识别技术的](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[听写应用程序](https://zh.wikipedia.org/wiki/听写 "wikilink")。用户所讲的语句将被iPad键入其所述至屏幕上显示出来，由于该功能依靠苹果的服务器来翻译对话，因此需要iPad连结上因特网（通过wifi或者蜂窝数据连接）\[9\]。
 iPad
 Air附有一款可选的[iBooks应用程序](https://zh.wikipedia.org/wiki/iBooks "wikilink")，它支持显示的[ePub格式书籍和其他从iBookstore下载下来的内容](../Page/EPUB.md "wikilink")\[10\]。几家主流的图书出版商，其中包括[企鹅出版社](../Page/企鹅出版集团.md "wikilink")、[哈珀柯林斯](../Page/哈珀柯林斯.md "wikilink")、[西蒙与舒斯特以及](https://zh.wikipedia.org/wiki/西蒙与舒斯特 "wikilink")[麦克米伦等确认将致力于为iPad设备平台出版电子书籍](../Page/麥克米倫出版公司.md "wikilink")\[11\]。尽管此举致使包括[Amazon
@@ -157,7 +157,7 @@ HD前置摄像头，支持[802.11n](https://zh.wikipedia.org/wiki/802.11n "wikil
 </tr>
 <tr class="odd">
 <td><p>环境<a href="../Page/传感器.md" title="wikilink">传感器</a></p></td>
-<td><p><a href="../Page/加速規.md" title="wikilink">加速規</a>、<a href="../Page/光度感應器.md" title="wikilink">光度感應器</a>、<a href="../Page/磁强计.md" title="wikilink">磁强计和</a><a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a></p></td>
+<td><p><a href="../Page/加速規.md" title="wikilink">加速規</a>、<a href="../Page/光度感應器.md" title="wikilink">光度感應器</a>、<a href="../Page/磁强计.md" title="wikilink">磁强计</a>和<a href="../Page/陀螺儀.md" title="wikilink">陀螺儀</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

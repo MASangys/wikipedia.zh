@@ -2,11 +2,11 @@
 4的可更新官方](../Page/PlayStation_4.md "wikilink")[固件及](../Page/韌體.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
 
 PlayStation 4主機运行“Orbis
-OS”，该系统是基于[FreeBSD的一个分支](../Page/FreeBSD.md "wikilink")\[1\]\[2\]。PlayStation
+OS”，该系统是基于[FreeBSD](../Page/FreeBSD.md "wikilink")的一个分支\[1\]\[2\]。PlayStation
 4系统软件以“PlayStation动态菜单”（PlayStation Dynamic
 Menu）取代[前代的](../Page/PlayStation_3.md "wikilink")“[交叉媒体廊](https://zh.wikipedia.org/wiki/交叉媒体廊 "wikilink")”（XMB,
 Xross Media Bar）\[3\]\[4\]\[5\]。系统软件于2013年11月13日随PlayStation
-4一同上市，[首版系统软件不支持](https://zh.wikipedia.org/wiki/#1.00 "wikilink")[MP3](../Page/MP3.md "wikilink")、音乐[CD的播放以及](../Page/CD.md "wikilink")[DLNA功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")\[6\]。
+4一同上市，[首版系统软件不支持](https://zh.wikipedia.org/wiki/#1.00 "wikilink")[MP3](../Page/MP3.md "wikilink")、音乐[CD](../Page/CD.md "wikilink")的播放以及[DLNA功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")\[6\]。
 
 ## 概述
 
@@ -18,14 +18,14 @@ Plus](https://zh.wikipedia.org/wiki/PlayStation_Plus "wikilink")\[13\]，这是P
 Online](../Page/DC_超級英雄_Online.md "wikilink")》、《[行星边际2](../Page/行星边际2.md "wikilink")》、《[战甲神兵](https://zh.wikipedia.org/wiki/Warframe "wikilink")》等无需订阅即可游玩。非同步传输功能如在线排行榜仍然可以访问\[15\]。此外，由于多人在线游玩功能需要认购，索尼不会允许任何发布商可以使用该系统的\[16\]。索尼有意扩大和发展系统相关服务以提供主机更多的商品寿命\[17\]。
 
 [SCE表示PlayStation](https://zh.wikipedia.org/wiki/SCE "wikilink")
-4将在发售之后的软件更新中提供支持播放[音乐CD](../Page/CDDA.md "wikilink")、[MP3文件以及支持](../Page/MP3.md "wikilink")[DLNA服务等功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")。\[18\]
+4将在发售之后的软件更新中提供支持播放[音乐CD](../Page/CDDA.md "wikilink")、[MP3](../Page/MP3.md "wikilink")文件以及支持[DLNA服务等功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")。\[18\]
 
 更新2.00系统后已支持播放音乐文件。
 
 ### 用户界面
 
 PlayStation
-4将原先PlayStation3上的[交叉媒体廊](https://zh.wikipedia.org/wiki/交叉媒体廊 "wikilink")（XMB）的功能替换为新的名叫“PlayStation动态菜单”的可自定义界面\[19\]\[20\]\[21\]。玩家用户配置中会显示其最近的活动，他们的全名，和除了已解锁[奖杯之外的其他细节](https://zh.wikipedia.org/wiki/PlayStation_Trophies "wikilink")\[22\]。PS4的主屏幕上可以展现来自朋友的个性化内容\[23\]。使用新界面，可以访问第三方供应商提供的服务，如[Netflix和](../Page/Netflix.md "wikilink")[亚马逊即时视频](https://zh.wikipedia.org/wiki/亚马逊即时视频 "wikilink")\[24\]。系统支持使得用户可以在游戏中更加得心应手，例如在玩游戏的同时打开网页浏览器\[25\]。
+4将原先PlayStation3上的[交叉媒体廊](https://zh.wikipedia.org/wiki/交叉媒体廊 "wikilink")（XMB）的功能替换为新的名叫“PlayStation动态菜单”的可自定义界面\[19\]\[20\]\[21\]。玩家用户配置中会显示其最近的活动，他们的全名，和除了已解锁[奖杯之外的其他细节](https://zh.wikipedia.org/wiki/PlayStation_Trophies "wikilink")\[22\]。PS4的主屏幕上可以展现来自朋友的个性化内容\[23\]。使用新界面，可以访问第三方供应商提供的服务，如[Netflix](../Page/Netflix.md "wikilink")和[亚马逊即时视频](https://zh.wikipedia.org/wiki/亚马逊即时视频 "wikilink")\[24\]。系统支持使得用户可以在游戏中更加得心应手，例如在玩游戏的同时打开网页浏览器\[25\]。
 
 ### 语音控制
 
@@ -797,7 +797,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 <li>可保存先前的直播影片</li>
 <li>在全螢幕直播模式下會顯示新加入觀眾和評論的通知</li>
 <li>可在直播的同時分享上傳影片和螢幕截圖</li>
-<li>可將錄製的影片和螢幕截圖傳送至外接的<a href="../Page/USB.md" title="wikilink">USB儲存設備</a></li>
+<li>可將錄製的影片和螢幕截圖傳送至外接的<a href="../Page/USB.md" title="wikilink">USB</a>儲存設備</li>
 <li>上傳至Facebook的影片和圖片可個別設定觀看權限（之前僅能統一設定觀看權限）</li>
 <li>可在一則Facebook貼文內分享多張螢幕截圖</li>
 <li>Music Unlimited新增分享功能</li>
@@ -812,7 +812,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 
 </dl>
 <ul>
-<li>可關閉<a href="../Page/HDCP.md" title="wikilink">HDCP功能</a>，並透過HDMI截取畫面</li>
+<li>可關閉<a href="../Page/HDCP.md" title="wikilink">HDCP</a>功能，並透過HDMI截取畫面</li>
 <li>DualShock 4的光條亮度可調暗，共分「明亮」、「中等」和「微暗」三階段</li>
 <li><a href="../Page/PlayStation_Vita_TV.md" title="wikilink">PlayStation Vita TV遙控遊玩功能</a>[54][55]</li>
 <li>會員頭像新增顯示PlayStation Plus圖示</li>

@@ -1,5 +1,5 @@
 [Nexus_7_with_Google_Now.jpg](https://zh.wikipedia.org/wiki/File:Nexus_7_with_Google_Now.jpg "fig:Nexus_7_with_Google_Now.jpg")
-**Discover**（中文：**Google即時資訊**\[1\]）是一款由[Google開發的](../Page/Google.md "wikilink")[智慧型個人助理軟體](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，擴充了[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")[手機應用程式的功能](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")，**Discover**最初在[Android](../Page/Android.md "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google
+**Discover**（中文：**Google即時資訊**\[1\]）是一款由[Google](../Page/Google.md "wikilink")開發的[智慧型個人助理軟體](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，擴充了[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")[手機應用程式的功能](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")，**Discover**最初在[Android](../Page/Android.md "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google
 Chrome上使用](../Page/Google_Chrome.md "wikilink")，後來Google從[Google
 Chrome上移除](../Page/Google_Chrome.md "wikilink")\[2\]。**Discover**最早的名稱為**Google
 Now**，後改名為**Google Feed**，最終定名為**Discover**\[3\]。
@@ -18,8 +18,8 @@ Now可在[iOS版本的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google搜�
 
 ## 历史
 
-2011年年底，有報導稱Google將會在Android的[Google語音搜尋下一版本中作出重大更新](https://zh.wikipedia.org/wiki/Google語音搜尋 "wikilink")。其最初的研發代號為「Majel」，即[金·羅登貝瑞的妻子](../Page/金·羅登貝瑞.md "wikilink")（Majel
-Barrett），以[星艦奇航記中電腦系统的聲音聞名](../Page/星艦奇航記.md "wikilink")；其另一個代號是「Assistant」（中文為「助理」、「助手」之意）。\[5\]
+2011年年底，有報導稱Google將會在Android的[Google語音搜尋下一版本中作出重大更新](https://zh.wikipedia.org/wiki/Google語音搜尋 "wikilink")。其最初的研發代號為「Majel」，即[金·羅登貝瑞](../Page/金·羅登貝瑞.md "wikilink")的妻子（Majel
+Barrett），以[星艦奇航記](../Page/星艦奇航記.md "wikilink")中電腦系统的聲音聞名；其另一個代號是「Assistant」（中文為「助理」、「助手」之意）。\[5\]
 
 2012年6月27日，Google Now在[Google
 I/O中亮相](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，被當作是Android
@@ -31,7 +31,7 @@ Now，增加了的Gmail的卡片功能。\[7\]Google
 Now在卡片中顯示使用者的的Gmail帳號中的資訊，包括航班資訊、包裹追蹤資訊、預定旅館和預約餐廳。其他新功能包括藉由使用者所在位置和網頁紀錄的來提供的電影、演唱會、股票和新聞卡片。新功能還包括利用語音輸入來新建日曆活動的功能。
 
 2012年12月5日，Google搜尋應用程式的更新為Google
-Now帶來了幾個新功能，包括：附近的活動；在博物館或商店使用相片搜尋；從電子郵件中提供登機證（僅[聯合航空](../Page/聯合航空.md "wikilink")，將支援更多航空公司）；旅行目的地的天氣；生日提醒；單車及步行活動的月報表表。新的語音指令功能包括從[Google+貼文](../Page/Google+.md "wikilink")、歌曲識別功能和條碼掃描功能。\[8\]
+Now帶來了幾個新功能，包括：附近的活動；在博物館或商店使用相片搜尋；從電子郵件中提供登機證（僅[聯合航空](../Page/聯合航空.md "wikilink")，將支援更多航空公司）；旅行目的地的天氣；生日提醒；單車及步行活動的月報表表。新的語音指令功能包括從[Google+](../Page/Google+.md "wikilink")貼文、歌曲識別功能和條碼掃描功能。\[8\]
 
 2013年3月21日，Google執行董事長[艾瑞克·施密特](https://zh.wikipedia.org/wiki/艾瑞克·施密特 "wikilink")（Eric
 Emerson Schmidt）表示，Google已經將iOS版本的Google
@@ -41,7 +41,7 @@ Now。\[10\]Google Now在Android版本與iOS版本之中的所有功能並非完
 2012年12月，根據Google
 Chrome的[代碼審查紀錄](https://zh.wikipedia.org/wiki/代碼審查 "wikilink")，Google
 Now也有望被添加到Google
-Chrome的桌面版本。\[12\]根據[CNET的塞斯](../Page/CNET.md "wikilink")·羅森布拉特（Seth
+Chrome的桌面版本。\[12\]根據[CNET](../Page/CNET.md "wikilink")的塞斯·羅森布拉特（Seth
 Rosenblatt），謠傳2013年11月Google
 Now將會被當作是[iGoogle的替代功能](https://zh.wikipedia.org/wiki/iGoogle "wikilink")。\[13\]2013年5月15日，在Google
 I/O上，Google宣布即將在桌面平台推出Google Now，但只能能透過Google Chrome或Google Chrome
@@ -168,8 +168,8 @@ Technica的瑞安保罗在评论中表示，与其他大多数语音控制应用
 
 ## 地区限制
 
-自Google即时发布之始至今，Google即时一直无法在[中国大陆地区正常使用](../Page/中国大陆.md "wikilink")。Android版本Google搜索应用设置中Google即时的选项无法被开启，提示“您所在的国家/地区尚未推出Google即时”。
-因[澳門還不支援Google的位置回報功能](../Page/澳門.md "wikilink")，所以[澳門還不能使用Google](../Page/澳門.md "wikilink")
+自Google即时发布之始至今，Google即时一直无法在[中国大陆](../Page/中国大陆.md "wikilink")地区正常使用。Android版本Google搜索应用设置中Google即时的选项无法被开启，提示“您所在的国家/地区尚未推出Google即时”。
+因[澳門](../Page/澳門.md "wikilink")還不支援Google的位置回報功能，所以[澳門](../Page/澳門.md "wikilink")還不能使用Google
 Now。
 
 ## Google即时桌面

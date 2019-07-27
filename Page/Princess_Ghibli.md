@@ -10,7 +10,7 @@ Rigotti的友人因提及「若將吉卜力系列動畫歌曲以金屬樂來翻�
 
 參加翻唱的成員除Disarmonia
 Mundi外，尚有包括同來自義大利的「[Destrage](https://zh.wikipedia.org/wiki/Destrage "wikilink")」、美國的「[Living
-Corpse](https://zh.wikipedia.org/wiki/Living_Corpse "wikilink")」、與[日本的](../Page/日本.md "wikilink")[Blood
+Corpse](https://zh.wikipedia.org/wiki/Living_Corpse "wikilink")」、與[日本](../Page/日本.md "wikilink")的[Blood
 Stain
 Child](https://zh.wikipedia.org/wiki/Blood_Stain_Child "wikilink")、男樂手Neroargento及女歌手Yoko
 Hallelujah等人，\[3\]\[4\]之後共同以「Imaginary Flying

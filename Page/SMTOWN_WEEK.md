@@ -1,5 +1,5 @@
 **SMTOWN
-WEEK**是韓國娛樂公司[SM娛樂旗下歌手的接力演唱會](../Page/SM娛樂.md "wikilink")。這次演唱會是[SM娛樂第一次展示新形式的演唱會](../Page/SM娛樂.md "wikilink")。演唱會一連八日在位於[京畿道](../Page/京畿道.md "wikilink")[高陽市](../Page/高陽市.md "wikilink")[日山的韓國國際展覽中心進行](https://zh.wikipedia.org/wiki/日山 "wikilink")。\[1\]
+WEEK**是韓國娛樂公司[SM娛樂](../Page/SM娛樂.md "wikilink")旗下歌手的接力演唱會。這次演唱會是[SM娛樂](../Page/SM娛樂.md "wikilink")第一次展示新形式的演唱會。演唱會一連八日在位於[京畿道](../Page/京畿道.md "wikilink")[高陽市](../Page/高陽市.md "wikilink")[日山的韓國國際展覽中心進行](https://zh.wikipedia.org/wiki/日山 "wikilink")。\[1\]
 
 ## 巡迴時間表
 

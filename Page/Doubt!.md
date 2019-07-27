@@ -1,4 +1,4 @@
-《**Doubt\!**》（ダウト）是[天乃咲哉的](../Page/天乃咲哉.md "wikilink")[日本](../Page/日本.md "wikilink")[漫画作品之一](https://zh.wikipedia.org/wiki/漫画 "wikilink")，在《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（[ASCII
+《**Doubt\!**》（ダウト）是[天乃咲哉](../Page/天乃咲哉.md "wikilink")的[日本](../Page/日本.md "wikilink")[漫画作品之一](https://zh.wikipedia.org/wiki/漫画 "wikilink")，在《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（[ASCII
 Media
 Works](../Page/ASCII_Media_Works.md "wikilink")）由2012年10月號至2014年3月號連載\[1\]\[2\]。
 
@@ -22,7 +22,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")）由2012年10月號至2014年3�
 
 ## 単行本
 
-由[天乃咲哉的](../Page/天乃咲哉.md "wikilink")[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[ASCII
+由[天乃咲哉](../Page/天乃咲哉.md "wikilink")的[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[ASCII
 Media
 Works的雜誌](../Page/ASCII_Media_Works.md "wikilink")《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》2012年10月號至2014年3月號上連載。四本漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年11月27日至2014年2月27日發售。
 

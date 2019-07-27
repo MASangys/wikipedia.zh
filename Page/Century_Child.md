@@ -1,5 +1,5 @@
 《**Century
-Child**》是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[交響金屬樂團](../Page/交響金屬.md "wikilink")[日暮頌歌的第四張錄音室專輯](https://zh.wikipedia.org/wiki/日暮頌歌 "wikilink")，其由[Spinefarm
+Child**》是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[交響金屬](../Page/交響金屬.md "wikilink")樂團[日暮頌歌的第四張錄音室專輯](https://zh.wikipedia.org/wiki/日暮頌歌 "wikilink")，其由[Spinefarm
 Records發行於](https://zh.wikipedia.org/wiki/Spinefarm_Records "wikilink")2002年。這是現貝斯手和男主唱[Marco
 Hietala第一张参与的专辑](https://zh.wikipedia.org/wiki/Marco_Hietala "wikilink")。
 
@@ -76,7 +76,7 @@ Child》在芬兰售出超过90,000套\[1\]。在全球，专辑在2002年和200
     – [键盘](https://zh.wikipedia.org/wiki/键盘乐器 "wikilink")
   - [Jukka
     Nevalainen](https://zh.wikipedia.org/wiki/Jukka_Nevalainen "wikilink")
-    – [鼓和](../Page/鼓.md "wikilink")[打击乐器](../Page/打击乐器.md "wikilink")
+    – [鼓](../Page/鼓.md "wikilink")和[打击乐器](../Page/打击乐器.md "wikilink")
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@ Child》在芬兰售出超过90,000套\[1\]。在全球，专辑在2002年和200
   - Mongo Aaltonen - 管弦打击乐器
   - Sam Hardwick - 说话部分（1，10）
   - Kristiina Ilmonen - 锡哨
-  - [约恩苏市交响乐团](../Page/约恩苏.md "wikilink")，由尤哈·伊科宁领队
+  - [约恩苏](../Page/约恩苏.md "wikilink")市交响乐团，由尤哈·伊科宁领队
   - 圣托马斯合唱赫尔辛基合唱团 – 大多数合唱，唱诗班由Hilkka Kangasniemi指挥\[3\]
 
 ## 参考文献

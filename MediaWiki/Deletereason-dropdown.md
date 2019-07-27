@@ -27,7 +27,7 @@
       - [G13](https://zh.wikipedia.org/wiki/WP:CSD#G13 "wikilink"):
         明顯、拙劣的機器翻譯
       - [G14](https://zh.wikipedia.org/wiki/WP:CSD#G14 "wikilink"):
-        超過兩周沒有進行任何翻譯的非[現代標準漢語页面](../Page/現代標準漢語.md "wikilink")
+        超過兩周沒有進行任何翻譯的非[現代標準漢語](../Page/現代標準漢語.md "wikilink")页面
       - [G15](https://zh.wikipedia.org/wiki/WP:CSD#G15 "wikilink"): 孤立页面
       - [G16](https://zh.wikipedia.org/wiki/WP:CSD#G16 "wikilink"):
         因為主頁面[侵权而創建的臨時頁面仍然侵權](https://zh.wikipedia.org/wiki/WP:侵权 "wikilink")

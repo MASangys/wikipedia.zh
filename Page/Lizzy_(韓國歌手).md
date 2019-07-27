@@ -6,7 +6,7 @@ Blue成員](https://zh.wikipedia.org/wiki/After_School_Blue "wikilink")。
 
 ## 經歷
 
-Lizzy的家鄉為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")，她因為參加當地音樂選秀節目，偶然在後台遇到[Pledis娛樂公司的企劃長](../Page/Pledis娛樂.md "wikilink")，被邀請去試音而錄取成為練習生，並於2010年3月加入女團[After
+Lizzy的家鄉為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")，她因為參加當地音樂選秀節目，偶然在後台遇到[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")公司的企劃長，被邀請去試音而錄取成為練習生，並於2010年3月加入女團[After
 School出道](../Page/After_School.md "wikilink")。\[3\]
 
 Lizzy出道初期，由於尚未熟悉首爾方言，時常在節目中使用釜山方言，因而有了「方言少女」、「釜山少女」等綽號，使用方言的習慣也廣受喜愛，再加上活潑開朗的個性，於節目中直白而不扭捏造作的表現，使得Lizzy儼然成為了綜藝界的新寵，在當時接下許多綜藝節目的邀約，例如《[Happy
@@ -182,8 +182,8 @@ School。同年7月10日，Lizzy的新經紀公司 Celltrion Entertainment
 | 2012年12月17日 | Cupcake Project                  | Cosmetic     | 與Andup演唱                                                                                                                                                                                  |
 | 2012年12月26日 | Mystic White                     | 人魚公主         | 與[尹寶拉](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")、[姜知英組Mystic](https://zh.wikipedia.org/wiki/姜知英 "wikilink") White合唱 |
 | 2014年11月18日 | Yoon Gun                         | Chemistry    | 與Zizo參與Yoon Gun的歌曲演唱                                                                                                                                                                      |
-| 2015年2月13日  | [朴明洙](../Page/朴明洙.md "wikilink") | Good bye PMS | 與[朴明洙演唱](../Page/朴明洙.md "wikilink")                                                                                                                                                       |
-| 2015年2月20日  | 真少女                              | 年度咒語         | 與[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")、[許齡智組真少女合唱](../Page/許齡智.md "wikilink")                                                            |
+| 2015年2月13日  | [朴明洙](../Page/朴明洙.md "wikilink") | Good bye PMS | 與[朴明洙](../Page/朴明洙.md "wikilink")演唱                                                                                                                                                       |
+| 2015年2月20日  | 真少女                              | 年度咒語         | 與[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")、[許齡智](../Page/許齡智.md "wikilink")組真少女合唱                                                            |
 
 ## 主打歌曲紀錄
 

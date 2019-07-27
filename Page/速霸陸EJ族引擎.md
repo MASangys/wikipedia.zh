@@ -3,7 +3,7 @@ SVX所搭載的EG](../Page/速霸陸Alcyone_SVX.md "wikilink")33型[水平對臥
 
 ## 概要
 
-此系列引擎皆是水平對臥四缸、16氣門的配置，分成[SOHC或](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")[DOHC兩種](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")；[自然進氣或](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")[渦輪增壓等形式皆有](../Page/渦輪增壓器.md "wikilink")。另外此系列引擎曾獲得[華德十大最佳汽車引擎的獎項](../Page/華德十大最佳汽車引擎.md "wikilink")，分別是2004年的EJ257型和2010年的EJ255型。
+此系列引擎皆是水平對臥四缸、16氣門的配置，分成[SOHC或](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")[DOHC兩種](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")；[自然進氣或](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")[渦輪增壓等形式皆有](../Page/渦輪增壓器.md "wikilink")。另外此系列引擎曾獲得[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")的獎項，分別是2004年的EJ257型和2010年的EJ255型。
 
 1999年進化成「Boxer PHASE
 II」系統，主要精進之處在於全新渦流氣旋設計的直線進氣歧管與兩段式迴轉氣門控制軸，具有[可變氣門正時的效果](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")，大幅增加中低轉速的扭力。此外，中央曲軸箱改採五軸承的設計，比起以往的三軸承設計更能抑制噪音與震動\[1\]。
@@ -73,7 +73,7 @@ point fuel injection之縮寫）、MPI多點燃油噴射裝置等二種。共分
 
 ### EJ20D型
 
-**EJ20D型**採自然進氣、DOHC之設計，尚未加入[AVCS主動閥門控制系統前的主力引擎](../Page/AVCS主動閥門控制系統.md "wikilink")，使用普通[汽油](../Page/汽油.md "wikilink")。車型：
+**EJ20D型**採自然進氣、DOHC之設計，尚未加入[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")前的主力引擎，使用普通[汽油](../Page/汽油.md "wikilink")。車型：
 
   - BC/BF型及BD/BG型Legacy：
       - 最大馬力150ps / 6,800rpm、最大扭力17.5kg·m / 5,200rpm（BC/BF型手排車）
@@ -108,7 +108,7 @@ point fuel injection之縮寫）、MPI多點燃油噴射裝置等二種。共分
 
 ### 單渦輪增壓型
 
-**EJ20T型**並非官方正式命名，而是眾多改裝車廠和車迷之間的習稱。加裝[渦輪增壓器的此型引擎皆附有中冷器](../Page/渦輪增壓器.md "wikilink")，且皆為DOHC構造，區分為下述幾個亞型：
+**EJ20T型**並非官方正式命名，而是眾多改裝車廠和車迷之間的習稱。加裝[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")的此型引擎皆附有中冷器，且皆為DOHC構造，區分為下述幾個亞型：
 
 #### EJ20G型
 
@@ -182,7 +182,7 @@ HLA 19T。車型：
 **EJ205型**渦輪增壓引擎搭載於外銷版的Impreza WRX上，而日規版Impreza
 WRX則使用EJ207型（五門旅行車仍使用EJ205型）。此外，外銷澳洲的Impreza
 WRX
-EJ205型引擎沒有點火線圈，可從[車輛識別號碼的第](../Page/車輛識別號碼.md "wikilink")6位是8、第10位是Y來辨識。最大馬力225ps
+EJ205型引擎沒有點火線圈，可從[車輛識別號碼](../Page/車輛識別號碼.md "wikilink")的第6位是8、第10位是Y來辨識。最大馬力225ps
 / 5,600rpm，最大扭力33.2kg·m / 4,400rpm。車型：
 
 1.  1999年迄今：速霸陸Impreza WRX

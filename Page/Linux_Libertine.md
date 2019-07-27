@@ -1,13 +1,13 @@
 是一款由Libertine Open Fonts
 Project创造的数码字体，以创造[专有字体](../Page/专有软件.md "wikilink")（如[Times
-Roman](https://zh.wikipedia.org/wiki/Times_Roman "wikilink")）的[自由和开放的替代品为目标](https://zh.wikipedia.org/wiki/FOSS "wikilink")。该字体以自由字体编辑器[FontForge开发](../Page/FontForge.md "wikilink")，并以[GNU通用公共许可协议和](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")[SIL開源字體授權许可](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")。\[1\]
+Roman](https://zh.wikipedia.org/wiki/Times_Roman "wikilink")）的[自由和开放的替代品为目标](https://zh.wikipedia.org/wiki/FOSS "wikilink")。该字体以自由字体编辑器[FontForge](../Page/FontForge.md "wikilink")开发，并以[GNU通用公共许可协议和](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")[SIL開源字體授權许可](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")。\[1\]
 
 ## 特性
 
 Linux
 Libertine是一款成比例型的[衬线体](../Page/衬线体.md "wikilink")，受到19世纪书籍印刷的启发，并用以替代[Times字体家族](../Page/Times_New_Roman.md "wikilink")。\[2\]
 
-该字体分五种样式：标准、粗体、斜体、粗斜体和小型大写字母，都可以通过[TrueType和](../Page/TrueType.md "wikilink")[OpenType格式实现](../Page/OpenType.md "wikilink")，而且[开放源代码](../Page/开放源代码.md "wikilink")。OpenType版本允许自动定位和置换，包括真分数、连字和。
+该字体分五种样式：标准、粗体、斜体、粗斜体和小型大写字母，都可以通过[TrueType](../Page/TrueType.md "wikilink")和[OpenType](../Page/OpenType.md "wikilink")格式实现，而且[开放源代码](../Page/开放源代码.md "wikilink")。OpenType版本允许自动定位和置换，包括真分数、连字和。
 
 该字体还有配套的[无衬线版本Linux](https://zh.wikipedia.org/wiki/无衬线 "wikilink")
 Biolinum。形似[Optima或](https://zh.wikipedia.org/wiki/Optima "wikilink")[Candara](https://zh.wikipedia.org/wiki/Candara "wikilink")，同样有粗体与斜体。
@@ -15,7 +15,7 @@ Biolinum。形似[Optima或](https://zh.wikipedia.org/wiki/Optima "wikilink")[Ca
 ## Unicode范围
 
 Linux
-Libertine包含了2,000多个[字-{}-形和组合字符设置如](../Page/字形.md "wikilink")[希腊字母](../Page/希腊字母.md "wikilink")、[西里尔字母和](../Page/西里尔字母.md "wikilink")[希伯来字母](../Page/希伯来字母.md "wikilink")。另外还产生一些[连字](https://zh.wikipedia.org/wiki/连字 "wikilink")（如ff、fi、ct、[大写ß](https://zh.wikipedia.org/wiki/大写ß "wikilink")）。该字体还包含了一些特殊符号，如[国际音标](https://zh.wikipedia.org/wiki/国际音标 "wikilink")、箭头、、[罗马数字](../Page/罗马数字.md "wikilink")、[不齐线数字和](../Page/不齐线数字.md "wikilink")[小型大写字母](../Page/小型大写字母.md "wikilink")。Linux吉祥物[Tux放在Unicode编码U](../Page/Tux.md "wikilink")+E000中。
+Libertine包含了2,000多个[字-{}-形和组合字符设置如](../Page/字形.md "wikilink")[希腊字母](../Page/希腊字母.md "wikilink")、[西里尔字母](../Page/西里尔字母.md "wikilink")和[希伯来字母](../Page/希伯来字母.md "wikilink")。另外还产生一些[连字](https://zh.wikipedia.org/wiki/连字 "wikilink")（如ff、fi、ct、[大写ß](https://zh.wikipedia.org/wiki/大写ß "wikilink")）。该字体还包含了一些特殊符号，如[国际音标](https://zh.wikipedia.org/wiki/国际音标 "wikilink")、箭头、、[罗马数字](../Page/罗马数字.md "wikilink")、[不齐线数字](../Page/不齐线数字.md "wikilink")和[小型大写字母](../Page/小型大写字母.md "wikilink")。Linux吉祥物[Tux](../Page/Tux.md "wikilink")放在Unicode编码U+E000中。
 
 ## 使用
 
@@ -27,15 +27,15 @@ Libertine有相连接的W。作为解决方案，交叉型的W被加入到Linux 
 Linux Libertine和Linux Biolinum都被开源设计刊物《[Libre Graphics
 Magazine](https://zh.wikipedia.org/wiki/Libre_Graphics_Magazine "wikilink")》使用。\[6\]
 
-2014年4月起[维基媒体基金会项目网站都把Linux](../Page/维基媒体基金会.md "wikilink")
+2014年4月起[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")项目网站都把Linux
 Libertine用于页面标题。\[7\]
 
 ## 派生作品
 
-Németh László创造了含有[Graphite表格的变种Linux](../Page/Graphite.md "wikilink")
+Németh László创造了含有[Graphite](../Page/Graphite.md "wikilink")表格的变种Linux
 Libertine G和Linux Biolinum
 G。\[8\]两者都搭载于[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
-3.3套-{}-件中，\[9\]同时一部分特性加入到3.5版。\[10\]LibreOffice是多个[Linux发行版的默认办公套](../Page/Linux发行版.md "wikilink")-{}-件，如[Fedora](../Page/Fedora.md "wikilink")、\[11\][Linux
+3.3套-{}-件中，\[9\]同时一部分特性加入到3.5版。\[10\]LibreOffice是多个[Linux发行版](../Page/Linux发行版.md "wikilink")的默认办公套-{}-件，如[Fedora](../Page/Fedora.md "wikilink")、\[11\][Linux
 Mint](../Page/Linux_Mint.md "wikilink")、\[12\][openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")、\[13\]和[Ubuntu](../Page/Ubuntu.md "wikilink")。\[14\]
 
 Khaled Hosny复刻了Linux Libertine来创作Libertinus

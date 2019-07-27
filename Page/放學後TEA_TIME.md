@@ -3,14 +3,14 @@ TIME**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），�
 TIME」（）名義發行的一張同名[迷你專輯](https://zh.wikipedia.org/wiki/EP "wikilink")。專輯中收錄了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的大部分原創劇中曲。2009年7月22日由[PONY
 CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")，商品番號為PCCG-00962。
 
-專輯發行首週售出6.7萬張，取得[Oricon公信榜週間第](../Page/Oricon.md "wikilink")1位，成為首張取得Oricon公信榜週間冠軍的動畫歌曲專輯\[1\]，也是繼[水樹奈奈的](../Page/水樹奈奈.md "wikilink")《[ULTIMATE
-DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")》之後第2張取得Oricon公信榜週間冠軍的[聲優專輯](../Page/聲優.md "wikilink")。
+專輯發行首週售出6.7萬張，取得[Oricon](../Page/Oricon.md "wikilink")公信榜週間第1位，成為首張取得Oricon公信榜週間冠軍的動畫歌曲專輯\[1\]，也是繼[水樹奈奈](../Page/水樹奈奈.md "wikilink")的《[ULTIMATE
+DIAMOND](../Page/ULTIMATE_DIAMOND.md "wikilink")》之後第2張取得Oricon公信榜週間冠軍的[聲優](../Page/聲優.md "wikilink")專輯。
 
 ## 概要
 
 《放學後TEA
 TIME》收錄了2009年[TBS系電視動畫](https://zh.wikipedia.org/wiki/TBS系 "wikilink")《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的劇中曲。「放學後TEA
-TIME」是《K-ON\!》劇情中第2年的學園祭之前櫻丘高校輕音部決定的樂團名稱\[2\]，包括五位主角平澤唯、秋山澪、田井中律、琴吹紬和中野梓，5人的[聲優為](../Page/聲優.md "wikilink")[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子和](../Page/壽美菜子.md "wikilink")[竹達彩奈](../Page/竹達彩奈.md "wikilink")。而之前發行的[單曲CD](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")》、《[Don't
+TIME」是《K-ON\!》劇情中第2年的學園祭之前櫻丘高校輕音部決定的樂團名稱\[2\]，包括五位主角平澤唯、秋山澪、田井中律、琴吹紬和中野梓，5人的[聲優](../Page/聲優.md "wikilink")為[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")和[竹達彩奈](../Page/竹達彩奈.md "wikilink")。而之前發行的[單曲CD](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")》、《[Don't
 say
 “lazy”](https://zh.wikipedia.org/wiki/Don't_say_“lazy” "wikilink")》和《》則以「櫻高輕音部」的名義發行。
 [Toyosato_Elementary_School_Conference_Room_-_After_school_Tea_Time.JPG](https://zh.wikipedia.org/wiki/File:Toyosato_Elementary_School_Conference_Room_-_After_school_Tea_Time.JPG "fig:Toyosato_Elementary_School_Conference_Room_-_After_school_Tea_Time.JPG")以[日本](../Page/日本.md "wikilink")[滋賀縣](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")[犬上郡](https://zh.wikipedia.org/wiki/犬上郡 "wikilink")[豐鄉町豐鄉小學](https://zh.wikipedia.org/wiki/豐鄉町 "wikilink")（已廢校）校-{舍}-三樓[會議室呈現](https://zh.wikipedia.org/wiki/會議室 "wikilink")《K-ON\!》動畫版中的《放學後TEA

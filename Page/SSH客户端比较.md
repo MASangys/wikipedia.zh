@@ -322,7 +322,7 @@ Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算�
 
 ## 平台
 
-SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilink")[虛擬機器](../Page/虛擬機器.md "wikilink")，而不需要[仿真](https://zh.wikipedia.org/wiki/仿真器 "wikilink")；有几种可能：
+SSH客户端所设计运行的[操作系统](../Page/操作系统.md "wikilink")或[虛擬機器](../Page/虛擬機器.md "wikilink")，而不需要[仿真](https://zh.wikipedia.org/wiki/仿真器 "wikilink")；有几种可能：
 
   - “部份”表示虽然其可以使用，但相比其它操作系统上的版本缺少重要功能。甚至可能仍处于开发阶段。
 
@@ -1163,7 +1163,7 @@ SSH客户端所设计运行的[操作系统或](../Page/操作系统.md "wikilin
 映射</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/分页浏览器" title="wikilink">会话<br />
 标签</a></p></th>
-<th><p><a href="../Page/ZMODEM.md" title="wikilink">ZMODEM转移</a></p></th>
+<th><p><a href="../Page/ZMODEM.md" title="wikilink">ZMODEM</a>转移</p></th>
 <th><p>在缓冲区中<br />
 查找文字</p></th>
 <th><p>鼠标输入</p></th>

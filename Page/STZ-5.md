@@ -1,7 +1,7 @@
-**STZ-5中型牽引車**是[蘇軍在](https://zh.wikipedia.org/wiki/蘇軍 "wikilink")[二戰中使用的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[炮兵牽引車](https://zh.wikipedia.org/wiki/炮兵牽引車 "wikilink")。本車由軍民兩用的[STZ-3修改而成](../Page/STZ-3.md "wikilink")，可以說是STZ-3的軍用版。本車的改良之處在於提升了行駛[速度](../Page/速度.md "wikilink")，以及將駕駛室移到車頭，騰出後部的空間以運載炮班成員、彈藥、或者其他裝備。本車是少數幾種蘇聯專為軍隊而研製的牽引車，整體而言相當實用，在[德軍入侵前大約生產了七千輛](https://zh.wikipedia.org/wiki/紅鬍子行動 "wikilink")。主要的缺點是使用僅12吋寛的[履帶](https://zh.wikipedia.org/wiki/履帶 "wikilink")，使之在雪地、泥濘上的行駛能力不佳。除了用於牽引122
+**STZ-5中型牽引車**是[蘇軍在](https://zh.wikipedia.org/wiki/蘇軍 "wikilink")[二戰中使用的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[炮兵牽引車](https://zh.wikipedia.org/wiki/炮兵牽引車 "wikilink")。本車由軍民兩用的[STZ-3](../Page/STZ-3.md "wikilink")修改而成，可以說是STZ-3的軍用版。本車的改良之處在於提升了行駛[速度](../Page/速度.md "wikilink")，以及將駕駛室移到車頭，騰出後部的空間以運載炮班成員、彈藥、或者其他裝備。本車是少數幾種蘇聯專為軍隊而研製的牽引車，整體而言相當實用，在[德軍入侵前大約生產了七千輛](https://zh.wikipedia.org/wiki/紅鬍子行動 "wikilink")。主要的缺點是使用僅12吋寛的[履帶](https://zh.wikipedia.org/wiki/履帶 "wikilink")，使之在雪地、泥濘上的行駛能力不佳。除了用於牽引122
 mm及 152 mm
-等級的[榴彈砲外](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，亦有不少被改造為[喀秋莎火箭炮的發射平台](../Page/喀秋莎火箭炮.md "wikilink")。[德軍亦用大量虜獲使用並賦予CT](https://zh.wikipedia.org/wiki/德軍 "wikilink")3
-601(r)之名。德軍對本車留下深刻印象，以至後來德國自製的[RSO牽引車上亦可看到STZ](../Page/RSO牽引車.md "wikilink")-5的部份特徵。STZ-5總產量約一萬輛。
+等級的[榴彈砲外](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，亦有不少被改造為[喀秋莎火箭炮](../Page/喀秋莎火箭炮.md "wikilink")的發射平台。[德軍亦用大量虜獲使用並賦予CT](https://zh.wikipedia.org/wiki/德軍 "wikilink")3
+601(r)之名。德軍對本車留下深刻印象，以至後來德國自製的[RSO牽引車](../Page/RSO牽引車.md "wikilink")上亦可看到STZ-5的部份特徵。STZ-5總產量約一萬輛。
 [Katusha_BM-13_STZ-5-NATI.jpg](https://zh.wikipedia.org/wiki/File:Katusha_BM-13_STZ-5-NATI.jpg "fig:Katusha_BM-13_STZ-5-NATI.jpg")
 
 ## 性能諸元
@@ -24,7 +24,7 @@ mm及 152 mm
 
 ## Танк «На испуг» (НИ-1)
 
-由於德軍入侵初期紅軍損失大量[戰車](https://zh.wikipedia.org/wiki/戰車 "wikilink")，在蘇聯出了現一陣製作土製戰車的風潮，號稱"（恐怖坦克）"。1941年八九月期間，[被包圍的敖德薩就在STZ](../Page/敖德薩圍城戰_\(1941年\).md "wikilink")-5的車體上，加裝了[T-26坦克1931年型的機槍塔以及](../Page/T-26坦克.md "wikilink")[鍋爐](https://zh.wikipedia.org/wiki/鍋爐 "wikilink")[鋼板](https://zh.wikipedia.org/wiki/鋼板 "wikilink")，成為，總數68輛。不過由於裝甲單薄，速度緩慢，整體設計亦不甚協調，類似的恐怖坦克只能充當活靶的角色。
+由於德軍入侵初期紅軍損失大量[戰車](https://zh.wikipedia.org/wiki/戰車 "wikilink")，在蘇聯出了現一陣製作土製戰車的風潮，號稱"（恐怖坦克）"。1941年八九月期間，[被包圍的敖德薩就在STZ](../Page/敖德薩圍城戰_\(1941年\).md "wikilink")-5的車體上，加裝了[T-26坦克](../Page/T-26坦克.md "wikilink")1931年型的機槍塔以及[鍋爐](https://zh.wikipedia.org/wiki/鍋爐 "wikilink")[鋼板](https://zh.wikipedia.org/wiki/鋼板 "wikilink")，成為，總數68輛。不過由於裝甲單薄，速度緩慢，整體設計亦不甚協調，類似的恐怖坦克只能充當活靶的角色。
 
 [Схема_НИ-1.svg](https://zh.wikipedia.org/wiki/File:Схема_НИ-1.svg "fig:Схема_НИ-1.svg")、9
 鉤、10 雜物箱、11 排氣管、12 底盤橫梁、13 車體前面、14 牽引用接続具、15 惰輪、16 頂支輪、17 動輪、18 路輪、19
@@ -54,7 +54,7 @@ mm及 152 mm
 
   - [T-20 共青團輕型炮兵牽引車](../Page/T-20.md "wikilink")
 
-  - [STZ-3中型炮兵牽引車](../Page/STZ-3.md "wikilink")
+  - [STZ-3](../Page/STZ-3.md "wikilink")中型炮兵牽引車
 
   - [共產國際重型炮兵牽引車](../Page/T-24坦克.md "wikilink")
 

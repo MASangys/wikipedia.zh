@@ -1,5 +1,5 @@
 **SMTOWN Live World Tour
-III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂從](../Page/SM娛樂.md "wikilink")2012至2013年舉辦，旗下藝人的聯合世界巡迴演唱會。這次巡演在八個城市進行，11場共動員約451,000觀眾。
+III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")從2012至2013年舉辦，旗下藝人的聯合世界巡迴演唱會。這次巡演在八個城市進行，11場共動員約451,000觀眾。
 
 ## 參與藝人
 

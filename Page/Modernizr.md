@@ -1,5 +1,5 @@
 **Modernizr**是一套[JavaScript](../Page/JavaScript.md "wikilink")
-[函式庫](../Page/函式庫.md "wikilink")，用來偵測[瀏覽器是否支持](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[HTML5與](../Page/HTML5.md "wikilink")[CSS3等規格](https://zh.wikipedia.org/wiki/CSS#CSS3 "wikilink")。如果浏览器不支持，Modernizr会使用其他的解决方法来进行模拟。
+[函式庫](../Page/函式庫.md "wikilink")，用來偵測[瀏覽器是否支持](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[HTML5](../Page/HTML5.md "wikilink")與[CSS3等規格](https://zh.wikipedia.org/wiki/CSS#CSS3 "wikilink")。如果浏览器不支持，Modernizr会使用其他的解决方法来进行模拟。
 
 ## 概要
 

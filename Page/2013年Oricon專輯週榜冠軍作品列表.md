@@ -1,4 +1,4 @@
-**2013年Oricon專輯週榜冠軍作品列表**列出2013年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
+**2013年Oricon專輯週榜冠軍作品列表**列出2013年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
 全年度共有46張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[Maximum The
 Hormone的](../Page/Maximum_The_Hormone.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《》（3週）。

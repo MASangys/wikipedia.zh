@@ -1,5 +1,5 @@
 《**HEART OF SWORD
-〜夜明け前(夜明之前)〜**》为[T.M.Revolution在](../Page/T.M.Revolution.md "wikilink")1996年11月11日发行的第三张单曲。销售方为索尼音乐娱乐(Sony
+〜夜明け前(夜明之前)〜**》为[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1996年11月11日发行的第三张单曲。销售方为索尼音乐娱乐(Sony
 Music Entertainment(Japan))。
 
 ## 概要

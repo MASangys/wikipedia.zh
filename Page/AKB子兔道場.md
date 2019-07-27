@@ -1,9 +1,9 @@
-《**AKB子兔道場**》（）是[東京電視台以及](../Page/東京電視台.md "wikilink")[東京電視台系列局等在](https://zh.wikipedia.org/wiki/TXN "wikilink")2012年12月7日開始播放的開始[綜藝節目](../Page/綜藝節目.md "wikilink")。
+《**AKB子兔道場**》（）是[東京電視台](../Page/東京電視台.md "wikilink")以及[東京電視台系列局等在](https://zh.wikipedia.org/wiki/TXN "wikilink")2012年12月7日開始播放的開始[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 概要
 
   - 2009年7月10日－2012年11月30日在東京電視台系列播放的首個固定節目《[週刊AKB](https://zh.wikipedia.org/wiki/週刊AKB "wikilink")》的後繼節目。
-  - 歡迎有煩惱的兔子到攝影棚，[AKB48成員親身聆聽煩惱](../Page/AKB48.md "wikilink")、議論、相談並引導解決。
+  - 歡迎有煩惱的兔子到攝影棚，[AKB48](../Page/AKB48.md "wikilink")成員親身聆聽煩惱、議論、相談並引導解決。
   - AKB48的[峯岸みなみ和綜合演出的](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")[テリー伊藤在攝影棚擔任主要](https://zh.wikipedia.org/wiki/テリー伊藤 "wikilink")[MC](https://zh.wikipedia.org/wiki/司会 "wikilink")，並會有9名的AKB48成員出演。是峯岸首次擔任AKB48相關定期節目的MC。
 
 ## 固定成員

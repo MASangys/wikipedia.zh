@@ -26,7 +26,7 @@
 <!-- end list -->
 
   -
-    唯一一輛原型車在戰後送進了[多塞特郡的Bovington](../Page/多塞特郡.md "wikilink")[戰車博物館保存](https://zh.wikipedia.org/wiki/戰車博物館 "wikilink")。
+    唯一一輛原型車在戰後送進了[多塞特郡](../Page/多塞特郡.md "wikilink")的Bovington[戰車博物館保存](https://zh.wikipedia.org/wiki/戰車博物館 "wikilink")。
 
 ## 相關條目
 

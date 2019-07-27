@@ -42,7 +42,7 @@ Rigby](../Page/Eleanor_Rigby.md "wikilink")
 ## 在美國的反應
 
 此單曲在四星期內賣了1,200,000張，並獲得The
-Beatles第21項[金唱片獎](../Page/金唱片.md "wikilink")。
+Beatles第21項[金唱片](../Page/金唱片.md "wikilink")獎。
 
 它在[告示牌百強單曲榜中排第二](https://zh.wikipedia.org/wiki/告示牌百強單曲榜 "wikilink")、Record
 World 雜誌排第一、Cashbox 雜誌排第二。或許它得不到第一是因為＂屠夫封面＂（[Yesterday and

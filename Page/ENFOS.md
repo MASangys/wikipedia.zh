@@ -1,6 +1,6 @@
 **ENFOS公司** 是一家跨国软件公司，总部在[圣马刁
 (加利福尼亞州)](https://zh.wikipedia.org/wiki/圣马刁_\(加利福尼亞州\) "wikilink")。公司开发的软件解决方案，可以使与环境责任管理，公开披露标准（如ASC410,\[1\]
-ASC450,\[2\]和[国际财务报告准则IAS](../Page/国际财务报告准则.md "wikilink")
+ASC450,\[2\]和[国际财务报告准则](../Page/国际财务报告准则.md "wikilink")IAS
 37），公司治理和环境法规（如CERCLA超级基金、RCRA、棕地和国家清理项目）相关的成本降到最低。
 
 ENFOS [软件即服务](../Page/软件即服务.md "wikilink")
@@ -14,7 +14,7 @@ Dibachi（Wavetron Microsystems, Diba,
 Roger Well \[6\] 在2001年加入公司。现在的副总裁兼首席技术官 Sandeep Digra同样也是2001年加入公司。
 
 除了北美和欧洲的客户，ENFOS
-在2012年和北京首钢自动化信息技术（[首钢集团旗下企业](../Page/首钢集团.md "wikilink")）签署了协议，授权其成为ENFOS软件在中国的分销商。该合作关系包括为中国用户开放定制功能的软件。\[7\]
+在2012年和北京首钢自动化信息技术（[首钢集团](../Page/首钢集团.md "wikilink")旗下企业）签署了协议，授权其成为ENFOS软件在中国的分销商。该合作关系包括为中国用户开放定制功能的软件。\[7\]
 
 ENFOS通过了美国SAP实验室的SAP Netweaver
 XI/PI认证，并是[SAP的PartnerEdge项目成员](../Page/SAP公司.md "wikilink")。\[8\]
@@ -34,7 +34,7 @@ ENFOS客户范围广泛，遍布石油天然气、化工、制造、公用事业
 和 [RACER
 Trust](https://zh.wikipedia.org/wiki/RACER_Trust "wikilink").\[13\]
 
-ENFOS的客户基本都被要求依循[财务会计标准委员会制定的](https://zh.wikipedia.org/wiki/财务会计标准委员会 "wikilink")[美国证券交易委员会法规](../Page/美国证券交易委员会.md "wikilink"),
+ENFOS的客户基本都被要求依循[财务会计标准委员会制定的](https://zh.wikipedia.org/wiki/财务会计标准委员会 "wikilink")[美国证券交易委员会](../Page/美国证券交易委员会.md "wikilink")法规,
 会计准则编纂ASC 410资产报废义务，环境责任及ASC
 450环境责任损失。非美国客户也要遵循国际会计准则IAS第37号—准备，或有债务和或有资产。
 

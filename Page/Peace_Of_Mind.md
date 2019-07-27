@@ -1,11 +1,11 @@
 《**Peace Of
-Mind**》是日本摇滚组合[B'z成员](../Page/B'z.md "wikilink")[稻叶浩志第三张个人录音室专辑](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，2004年9月22日由[VERMILLION
+Mind**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")成员[稻叶浩志第三张个人录音室专辑](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，2004年9月22日由[VERMILLION
 RECORDS于日本发行](../Page/Being_\(公司\).md "wikilink")。\[1\]
 總銷量約29.9萬張。
 
 ## 簡介
 
-原本定于9月15日发行，但之后推迟到一周后的9月22日，这个日子是B'z出道日子的第二天，也是稻叶浩志自己40岁生日前一天。专辑收录[TBS電視台综艺节目](../Page/TBS電視台.md "wikilink")《》主题曲《[Wonderland](../Page/Wonderland.md "wikilink")》（亦是單曲，但並未收錄2003年6月發行的[KI任何歌曲](https://zh.wikipedia.org/wiki/KI_\(稻叶浩志单曲\) "wikilink")），这首单曲发行一周即登上[Oricon公信榜周榜第一](../Page/Oricon公信榜.md "wikilink")。\[2\]
+原本定于9月15日发行，但之后推迟到一周后的9月22日，这个日子是B'z出道日子的第二天，也是稻叶浩志自己40岁生日前一天。专辑收录[TBS電視台](../Page/TBS電視台.md "wikilink")综艺节目《》主题曲《[Wonderland](../Page/Wonderland.md "wikilink")》（亦是單曲，但並未收錄2003年6月發行的[KI任何歌曲](https://zh.wikipedia.org/wiki/KI_\(稻叶浩志单曲\) "wikilink")），这首单曲发行一周即登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")周榜第一。\[2\]
 
 ## 曲目
 

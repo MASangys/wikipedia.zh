@@ -1,7 +1,7 @@
 **《特種部隊2
 Online》**（）-{zh-cn:原名;zh-tw:即}-**《特种部队2》**（，）-{zh-cn:，;zh-tw:。中國因代理商等原因，名稱為《**風暴戰區**》，}-是《[特种部队Online](https://zh.wikipedia.org/wiki/特种部队Online "wikilink")》的第2代作品，亦是一款采用[虚幻3引擎的](../Page/虚幻引擎.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")\[1\]，游戏内的[光效采用](https://zh.wikipedia.org/wiki/光效 "wikilink")技术模拟制成。
 
-本作的特色之一是游戏之中的部分枪械的[射击音效是游戏制作团队与](https://zh.wikipedia.org/wiki/射击 "wikilink")[好莱坞的声效工作室合作前往美国](../Page/好莱坞.md "wikilink")[拉斯维加斯的](../Page/拉斯维加斯.md "wikilink")[沙漠之中录制真实枪械子弹出膛声音制成](../Page/沙漠.md "wikilink")\[2\]。
+本作的特色之一是游戏之中的部分枪械的[射击音效是游戏制作团队与](https://zh.wikipedia.org/wiki/射击 "wikilink")[好莱坞](../Page/好莱坞.md "wikilink")的声效工作室合作前往美国[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")的[沙漠](../Page/沙漠.md "wikilink")之中录制真实枪械子弹出膛声音制成\[2\]。
 
 ## 历史
 
@@ -18,7 +18,7 @@ Online》**（）-{zh-cn:原名;zh-tw:即}-**《特种部队2》**（，）-{zh-
 
 同多数FPS網路遊戲（例如《[反恐精英Online](https://zh.wikipedia.org/wiki/反恐精英Online "wikilink")》、《[战争前线](../Page/战争前线.md "wikilink")》），SF2拥有团队决战、爆破、个人决战、回合模式这些基本模式。而SF2在这些基本模式的前提下，也添加了真-{}-實模式（该模式取消了游戏角色的生命值数字，改为一枪毙命，同时取消了地图显示与枪械剩余弹量显示，以突出真实效果）、虛擬對手（即玩家与BOT进行战斗）。同时也拥有逃脫、奪取、-{zh-hans:占领模式;zh-hant:佔領}-、-{zh-hans:夺金模式;zh-hant:搶劫模式}-、突破模式、雪仗模式这些创新模式，亦有玻璃模式这一娱乐模式\[8\]。
 
-SF2在外星浩劫版本之后，陆续推出了星虫模式、星虫模式2、猎杀模式、英雄模式、異星戰場、殭屍獵殺、-{zh-hans:生化模式;zh-hant:殭屍模式}-，其中的英雄模式是以[DotA為蓝本制作的合作模式](../Page/DotA.md "wikilink")\[9\]。
+SF2在外星浩劫版本之后，陆续推出了星虫模式、星虫模式2、猎杀模式、英雄模式、異星戰場、殭屍獵殺、-{zh-hans:生化模式;zh-hant:殭屍模式}-，其中的英雄模式是以[DotA](../Page/DotA.md "wikilink")為蓝本制作的合作模式\[9\]。
 
 游戏最初将狙击模式、霰弹枪模式、特殊武器模式独立为三个不同的模式，在第二次游戏界面改革之后，取消了该三个模式，同时改为多数模式可以自定义狙击枪战、霰弹枪战、特殊武器战等\[10\]。
 
@@ -31,7 +31,7 @@ SF2在外星浩劫版本之后，陆续推出了星虫模式、星虫模式2、�
 游戏另有两幅作战地图是根据现实生活真实存在的建筑加以部分修改制作的，分别是中华民国[故宫博物院与中华民国](https://zh.wikipedia.org/wiki/国立故宫博物院 "wikilink")[国父纪念馆](https://zh.wikipedia.org/wiki/国立国父纪念馆 "wikilink")，采用现实存在的真实地点1:1比例制作。Palace
 Museum地图地點位於台灣台北市士林外雙溪的[國立故宮博物院](https://zh.wikipedia.org/wiki/國立故宮博物院 "wikilink")，臺灣直接命名“故宮博物院”，但是中國則被命名“[博物館](https://zh.wikipedia.org/wiki/博物館 "wikilink")”，有玩家猜测是因为中国俗称的故宫博物院实為[北京故宫](https://zh.wikipedia.org/wiki/北京故宫 "wikilink")，因此為避免混淆而改名。Sun
 Yat-Sen
-Hall地图地点為中华民国[国立国父纪念馆](https://zh.wikipedia.org/wiki/国立国父纪念馆 "wikilink")，但中国将其命名为“故居”，且地图介绍并没有任何内容提到该建筑是以中华民国[国父孙中山为主题的](../Page/国父.md "wikilink")\[13\]，同时该地图[孙中山铜像旁的两面](https://zh.wikipedia.org/wiki/孙中山 "wikilink")[中华民国国旗左上角的](https://zh.wikipedia.org/wiki/中华民国国旗 "wikilink")[青天白日被去掉](../Page/青天白日旗.md "wikilink")，变成了具有[共产主义特色的](../Page/共产主义.md "wikilink")[红旗](../Page/红旗.md "wikilink")\[14\]，从而引起了部分玩家的斥责。
+Hall地图地点為中华民国[国立国父纪念馆](https://zh.wikipedia.org/wiki/国立国父纪念馆 "wikilink")，但中国将其命名为“故居”，且地图介绍并没有任何内容提到该建筑是以中华民国[国父](../Page/国父.md "wikilink")孙中山为主题的\[13\]，同时该地图[孙中山铜像旁的两面](https://zh.wikipedia.org/wiki/孙中山 "wikilink")[中华民国国旗左上角的](https://zh.wikipedia.org/wiki/中华民国国旗 "wikilink")[青天白日被去掉](../Page/青天白日旗.md "wikilink")，变成了具有[共产主义](../Page/共产主义.md "wikilink")特色的[红旗](../Page/红旗.md "wikilink")\[14\]，从而引起了部分玩家的斥责。
 
 ## 武器
 
@@ -41,7 +41,7 @@ Hall地图地点為中华民国[国立国父纪念馆](https://zh.wikipedia.org/
 
 ## 爭議
 
-中国由世纪天成代理的《风暴-{}-战区》最初借平台游戏[決勝時刻系列来宣传其游戏的优点以及画面](../Page/決勝時刻系列.md "wikilink")、手感等各方面的好处，甚至官方最初也称其為“使命召唤网络版”，被部分玩家质疑其真实性\[17\]。直到由[美国动视公司开发的真正的使命召唤网络版](https://zh.wikipedia.org/wiki/美国动视 "wikilink")（《[使命召唤Online](../Page/使命召唤Online.md "wikilink")》）游戏被中国[腾讯公司代理之后](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")，成为玩家对最初世纪天成借《使命召唤》宣传的笑谈\[18\]。
+中国由世纪天成代理的《风暴-{}-战区》最初借平台游戏[決勝時刻系列](../Page/決勝時刻系列.md "wikilink")来宣传其游戏的优点以及画面、手感等各方面的好处，甚至官方最初也称其為“使命召唤网络版”，被部分玩家质疑其真实性\[17\]。直到由[美国动视公司开发的真正的使命召唤网络版](https://zh.wikipedia.org/wiki/美国动视 "wikilink")（《[使命召唤Online](../Page/使命召唤Online.md "wikilink")》）游戏被中国[腾讯公司代理之后](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")，成为玩家对最初世纪天成借《使命召唤》宣传的笑谈\[18\]。
 
 ## 参见
 

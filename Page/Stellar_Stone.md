@@ -12,7 +12,7 @@ Stone的作品都只有俄羅斯評分網站「Absolute Games」給予評分。\
 ## 歷史
 
 Stellar
-Stone是於2000年在[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[圣莫尼卡成立](../Page/圣莫尼卡.md "wikilink")\[2\]，而其總部也設於此，但管理辦公室則設於[洛杉磯和](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。\[3\]可是，其遊戲開發人員卻主要來[俄羅斯和](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[烏克蘭](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")。\[4\]\[5\]因此，Stellar
+Stone是於2000年在[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[圣莫尼卡](../Page/圣莫尼卡.md "wikilink")成立\[2\]，而其總部也設於此，但管理辦公室則設於[洛杉磯和](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。\[3\]可是，其遊戲開發人員卻主要來[俄羅斯和](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[烏克蘭](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")。\[4\]\[5\]因此，Stellar
 Stone無需在開發人員方面投入大量資金，致使其預算能少於15,000美元，比其他公司低5倍。\[6\]
 
 Stellar Stone開發的首個電子遊戲《出租車手》（Taxi Racer）是於2001年在歐洲發佈，其發佈者為BestBuys
@@ -22,16 +22,16 @@ Interactive。\[7\]該遊戲的[引擎是由TS娛樂集團的謝爾蓋](../Page/
 
 Stellar
 Stone總共開發了8款遊戲，其中3款是[直线竞速赛](https://zh.wikipedia.org/wiki/直线竞速赛 "wikilink")（
-《出租車手》、《大货车极限竞赛》和《午夜競速俱樂部：增壓！》）、1款是[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")（《全面麻將和上海》）、1款是狩獵遊戲（《雷明頓大巴克獎杯狩獵》）、1款是[彈珠台遊戲](../Page/彈珠台.md "wikilink")（《趣味彈珠臺》）、以及2款是[即时战略游戏](../Page/即时战略游戏.md "wikilink")（《葛底斯堡：內戰戰役》和《終極內戰戰役：羅伯特·李對尤利塞斯·S·格兰特》）。這些遊戲都是由[GameMill出版發佈](https://zh.wikipedia.org/wiki/GameMill出版 "wikilink")，除了由[BestBuys
+《出租車手》、《大货车极限竞赛》和《午夜競速俱樂部：增壓！》）、1款是[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")（《全面麻將和上海》）、1款是狩獵遊戲（《雷明頓大巴克獎杯狩獵》）、1款是[彈珠台](../Page/彈珠台.md "wikilink")遊戲（《趣味彈珠臺》）、以及2款是[即时战略游戏](../Page/即时战略游戏.md "wikilink")（《葛底斯堡：內戰戰役》和《終極內戰戰役：羅伯特·李對尤利塞斯·S·格兰特》）。這些遊戲都是由[GameMill出版發佈](https://zh.wikipedia.org/wiki/GameMill出版 "wikilink")，除了由[BestBuys
 Interactive發佈的](https://zh.wikipedia.org/wiki/BestBuys_Interactive "wikilink")《出租車手》外。上述所有遊戲都使用了TS娛樂集團的永恆遊戲引擎。\[11\]
 
-在這些遊戲中，最臭名昭著的是《[大货车极限竞赛](../Page/大货车极限竞赛.md "wikilink")》。該遊戲被評為「有史以來最糟糕的遊戲」\[12\]，並獲[GameSpot頒發](../Page/GameSpot.md "wikilink")「最糟糕遊戲獎」。\[13\]儘管該遊戲是一款[pre-alpha開發期的遊戲](../Page/軟件版本週期.md "wikilink")\[14\]，且Stellar
+在這些遊戲中，最臭名昭著的是《[大货车极限竞赛](../Page/大货车极限竞赛.md "wikilink")》。該遊戲被評為「有史以來最糟糕的遊戲」\[12\]，並獲[GameSpot](../Page/GameSpot.md "wikilink")頒發「最糟糕遊戲獎」。\[13\]儘管該遊戲是一款[pre-alpha開發期的遊戲](../Page/軟件版本週期.md "wikilink")\[14\]，且Stellar
 Stone後來亦發佈了其補丁版，但此遊戲仍被評為極差劣。\[15\]
 
 ## 評價
 
 大部份Stellar
-Stone的作品都獲得負面評價，全因《大货车极限竞赛》為公司留下壞印象。\[16\]《大货车极限竞赛》獲得評論家一致的負面評論\[17\]，並得到了「有史以來最糟糕的遊戲」\[18\]、「只有是笑話才算好」\[19\]、以及「徹底壞掉，且很明顯在所有方面都未完成」的評價。\[20\]此遊戲獲得如此負面的評價，全因其缺乏碰撞檢測和[人工智能](../Page/人工智能.md "wikilink")、以及違反物理規則的遊戲。\[21\]於2004年，該遊戲獲[GameSpot頒發](../Page/GameSpot.md "wikilink")「最糟糕遊戲獎」。\[22\]GameSpot的亞歷克斯·納瓦羅亦指出「你能想像它有多壞，它就有多壞」。納瓦羅亦指出「請不要玩這個遊戲。我們強調此意思還不夠」。\[23\]\[24\]該遊戲亦出現於遊戲節目《X-Play》中的「你永遠不應該購買的遊戲」環節，而主持人摩根·韋布更將此遊戲稱為「有史以來最糟糕的遊戲」，並表示此遊戲不予置評。\[25\]
+Stone的作品都獲得負面評價，全因《大货车极限竞赛》為公司留下壞印象。\[16\]《大货车极限竞赛》獲得評論家一致的負面評論\[17\]，並得到了「有史以來最糟糕的遊戲」\[18\]、「只有是笑話才算好」\[19\]、以及「徹底壞掉，且很明顯在所有方面都未完成」的評價。\[20\]此遊戲獲得如此負面的評價，全因其缺乏碰撞檢測和[人工智能](../Page/人工智能.md "wikilink")、以及違反物理規則的遊戲。\[21\]於2004年，該遊戲獲[GameSpot](../Page/GameSpot.md "wikilink")頒發「最糟糕遊戲獎」。\[22\]GameSpot的亞歷克斯·納瓦羅亦指出「你能想像它有多壞，它就有多壞」。納瓦羅亦指出「請不要玩這個遊戲。我們強調此意思還不夠」。\[23\]\[24\]該遊戲亦出現於遊戲節目《X-Play》中的「你永遠不應該購買的遊戲」環節，而主持人摩根·韋布更將此遊戲稱為「有史以來最糟糕的遊戲」，並表示此遊戲不予置評。\[25\]
 
 ## 參考文獻
 

@@ -1,7 +1,7 @@
-**Aircrack-ng**是一个与[802.11标准的无线网络分析有关的安全软件](https://zh.wikipedia.org/wiki/802.11 "wikilink")，主要功能有：网络侦测，[数据包嗅探](https://zh.wikipedia.org/wiki/嗅探 "wikilink")，[WEP和](https://zh.wikipedia.org/wiki/有线等效加密 "wikilink")[WPA](../Page/WPA.md "wikilink")/[WPA2-PSK破解](https://zh.wikipedia.org/wiki/WPA2-PSK "wikilink")。Aircrack-ng可以工作在任何支持[监听模式的无线网卡上](https://zh.wikipedia.org/wiki/监听模式 "wikilink")（设备列表请参阅其官方网站或[1](https://web.archive.org/web/20081205015616/http://wiki.remote-exploit.org/index.php/HCL%3AWireless)）并嗅探[802.11a](https://zh.wikipedia.org/wiki/802.11a "wikilink")，[802.11b](https://zh.wikipedia.org/wiki/802.11b "wikilink")，[802.11g的数据](https://zh.wikipedia.org/wiki/802.11g "wikilink")。该程序可运行在[Linux和](../Page/Linux.md "wikilink")[Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Linux版本已经被移植到了[Zaurus和](https://zh.wikipedia.org/wiki/Sharp_Zaurus "wikilink")[Maemo](../Page/Maemo.md "wikilink")[系统平台](../Page/系统平台.md "wikilink"),
+**Aircrack-ng**是一个与[802.11标准的无线网络分析有关的安全软件](https://zh.wikipedia.org/wiki/802.11 "wikilink")，主要功能有：网络侦测，[数据包嗅探](https://zh.wikipedia.org/wiki/嗅探 "wikilink")，[WEP和](https://zh.wikipedia.org/wiki/有线等效加密 "wikilink")[WPA](../Page/WPA.md "wikilink")/[WPA2-PSK破解](https://zh.wikipedia.org/wiki/WPA2-PSK "wikilink")。Aircrack-ng可以工作在任何支持[监听模式的无线网卡上](https://zh.wikipedia.org/wiki/监听模式 "wikilink")（设备列表请参阅其官方网站或[1](https://web.archive.org/web/20081205015616/http://wiki.remote-exploit.org/index.php/HCL%3AWireless)）并嗅探[802.11a](https://zh.wikipedia.org/wiki/802.11a "wikilink")，[802.11b](https://zh.wikipedia.org/wiki/802.11b "wikilink")，[802.11g的数据](https://zh.wikipedia.org/wiki/802.11g "wikilink")。该程序可运行在[Linux](../Page/Linux.md "wikilink")和[Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Linux版本已经被移植到了[Zaurus和](https://zh.wikipedia.org/wiki/Sharp_Zaurus "wikilink")[Maemo](../Page/Maemo.md "wikilink")[系统平台](../Page/系统平台.md "wikilink"),
 并[概念验证可移植到](https://zh.wikipedia.org/wiki/概念验证 "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
-2007年四月，[德国](../Page/德国.md "wikilink")[达姆施塔特工业大学的研究小组根据](../Page/达姆施塔特工业大学.md "wikilink")[Adi
+2007年四月，[德国](../Page/德国.md "wikilink")[达姆施塔特工业大学](../Page/达姆施塔特工业大学.md "wikilink")的研究小组根据[Adi
 Shamir](https://zh.wikipedia.org/wiki/Adi_Shamir "wikilink")（[RSA发明人之一](https://zh.wikipedia.org/wiki/RSA加密算法 "wikilink")）发表的论文，研究出了一种新的攻击方式。这个名叫“PTW”的方法降低了在解密WEP所需的的[初始化向量数量并从aircrack](../Page/初始向量.md "wikilink")-ng
 0.9版本开始被应用。
 
@@ -38,7 +38,7 @@ aircrack-ng 套件包含有：
 Gerix Wifi Cracker
 是一个在Linux上的aircrack-ng前端[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")。
 Gerix 同样遵循[GNU General Public
-License协议并在某些](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")[Linux发行版诸如](../Page/Linux发行版.md "wikilink")[BackTrack中用来做入侵检测](../Page/BackTrack.md "wikilink")。Gerix囊括了大量[入侵检测工具](https://zh.wikipedia.org/wiki/入侵检测 "wikilink")：网络分析，数据包抓取（嗅探），数据包注入。
+License协议并在某些](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")诸如[BackTrack](../Page/BackTrack.md "wikilink")中用来做入侵检测。Gerix囊括了大量[入侵检测工具](https://zh.wikipedia.org/wiki/入侵检测 "wikilink")：网络分析，数据包抓取（嗅探），数据包注入。
 
 ## 相关条目
 

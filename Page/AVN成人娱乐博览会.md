@@ -1,4 +1,4 @@
-**AVN成人娛樂博覽會**（，[縮寫为](../Page/縮寫.md "wikilink")），是每年1月在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[拉斯維加斯所舉辦的成人博覽會](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，而此活動更由[成人影片新聞雜誌所贊助](https://zh.wikipedia.org/wiki/成人影片新聞雜誌 "wikilink")。
+**AVN成人娛樂博覽會**（，[縮寫](../Page/縮寫.md "wikilink")为），是每年1月在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[拉斯維加斯所舉辦的成人博覽會](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，而此活動更由[成人影片新聞雜誌所贊助](https://zh.wikipedia.org/wiki/成人影片新聞雜誌 "wikilink")。
 
 ## 参考文献
 

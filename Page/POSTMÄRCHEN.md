@@ -2,7 +2,7 @@
 
 ## 概要
 
-POSTMÄRCHEN是为了制作原创的动画作品而于1999年创建的[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[动画系的创作型同人社团](../Page/动画.md "wikilink")。社长是。名称POSTMÄRCHEN的由来是在表示「……以后」的前缀POST后加上[德语里表示](../Page/德语.md "wikilink")「传说」的意思的MÄRCHEN。也被称为「**PMMK**」（「POSTMÄRCHEN
+POSTMÄRCHEN是为了制作原创的动画作品而于1999年创建的[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[动画](../Page/动画.md "wikilink")系的创作型同人社团。社长是。名称POSTMÄRCHEN的由来是在表示「……以后」的前缀POST后加上[德语](../Page/德语.md "wikilink")里表示「传说」的意思的MÄRCHEN。也被称为「**PMMK**」（「POSTMÄRCHEN
 by MINATO KAWAI」的简称）。主要工作是为动画、游戏提供音乐、设计等，现在也断续持续着活动。\[1\]
 
 [网站曾经是](https://zh.wikipedia.org/wiki/网站 "wikilink") http://www.pmmk.jp/

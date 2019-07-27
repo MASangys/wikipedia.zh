@@ -12,7 +12,7 @@
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") 採用重新设计的
     [Windows UI](https://zh.wikipedia.org/wiki/Windows_UI "wikilink")
     风格（舊名為、、）的「開始頁面」，而取消了已沿用多年的「開始功能表」，Windows
-    UI界面适用于[觸控式螢幕和](../Page/觸控式螢幕.md "wikilink")[滑鼠控制](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")。這個新的开始頁面类似
+    UI界面适用于[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")和[滑鼠控制](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")。這個新的开始頁面类似
     [Windows Phone
     7](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")，包含了许多生动的应用图标。登入新的开始頁面後不會即時載入桌面，以增加速度。同时该界面上也包含了“桌面”图标以方便用户回到传统的系统桌面。Metro界面包含一个新的登入和锁定頁面，並會显示时间日期及通知。
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - **[Ribbon界面](../Page/Ribbon.md "wikilink")：**[資源管理器會採用與](https://zh.wikipedia.org/wiki/資源管理器 "wikilink")[Microsoft
+  - **[Ribbon](../Page/Ribbon.md "wikilink")界面：**[資源管理器會採用與](https://zh.wikipedia.org/wiki/資源管理器 "wikilink")[Microsoft
     Office
     2010類似的界面](https://zh.wikipedia.org/wiki/Microsoft_Office_2010 "wikilink")，例如將「複製」和「刪除」等功能鍵放到視窗上方，同時提供了簡潔和專業兩種界面選擇。用戶可以在文件移動或複製的過程中，進行停止、暫停和恢復。
 
@@ -42,7 +42,7 @@ USB系统运行盘\]\]
 <!-- end list -->
 
   - Windows 8
-    的開機階段載入電腦硬件系統將以支援[UEFI為主](https://zh.wikipedia.org/wiki/UEFI "wikilink")。搭配[固態硬碟](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")（SSD）狀態下，可讓開機在數秒內完成。\[2\]\[3\]但仍保留對傳統[BIOS的支援](../Page/BIOS.md "wikilink")。\[4\]
+    的開機階段載入電腦硬件系統將以支援[UEFI為主](https://zh.wikipedia.org/wiki/UEFI "wikilink")。搭配[固態硬碟](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")（SSD）狀態下，可讓開機在數秒內完成。\[2\]\[3\]但仍保留對傳統[BIOS](../Page/BIOS.md "wikilink")的支援。\[4\]
 
 <!-- end list -->
 
@@ -82,9 +82,9 @@ USB系统运行盘\]\]
     1024MB）也可正常運行 Windows 8。
   - 內置 [近场通信](https://zh.wikipedia.org/wiki/近场通信 "wikilink") 功能的 Windows
     8 裝置將可以用 Tap-to-share 功能分享內容。
-  - 登入系統會使用以[相片為基礎](../Page/相片.md "wikilink")。
+  - 登入系統會使用以[相片](../Page/相片.md "wikilink")為基礎。
   - Windows 8 會支援 [ARM
-    架構處理器芯片](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，以改善在[平板電腦上的表現](../Page/平板電腦.md "wikilink")。\[6\]\[7\]<ref name="Why Microsoft has made developers horrified about coding for Windows 8">
+    架構處理器芯片](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，以改善在[平板電腦](../Page/平板電腦.md "wikilink")上的表現。\[6\]\[7\]<ref name="Why Microsoft has made developers horrified about coding for Windows 8">
 
 </ref>
 

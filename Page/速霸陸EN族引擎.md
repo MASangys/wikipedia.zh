@@ -1,4 +1,4 @@
-**速霸陸EN族引擎**為[日本](../Page/日本.md "wikilink")[富士重工業在](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1989年至2012年之間開發製造、搭載於[輕型車的水冷式](../Page/輕型車.md "wikilink")[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[汽油](../Page/汽油.md "wikilink")[往復式發動機](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")，除了D、X二型為[DOHC設計外](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")，其餘皆為[SOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")。在2012年停產時，此族引擎為所有輕型車車種唯一、亦是日本全車系唯一搭載[機械增壓器的引擎](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")。
+**速霸陸EN族引擎**為[日本](../Page/日本.md "wikilink")[富士重工業在](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1989年至2012年之間開發製造、搭載於[輕型車](../Page/輕型車.md "wikilink")的水冷式[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[汽油](../Page/汽油.md "wikilink")[往復式發動機](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")，除了D、X二型為[DOHC設計外](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")，其餘皆為[SOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")。在2012年停產時，此族引擎為所有輕型車車種唯一、亦是日本全車系唯一搭載[機械增壓器的引擎](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")。
 
 ## EN05A型
 
@@ -32,13 +32,13 @@ engine）。最大馬力38ps / 7,500rpm，扭力峰值4.5kg·m / 4,500rpm。車�
 
 ## EN07L型（LPG、化油器）
 
-承襲EN07C型的**EN07L型**引擎，[燃料改成LPG](../Page/燃料.md "wikilink")[液化石油氣](https://zh.wikipedia.org/wiki/液化石油氣 "wikilink")，其餘規格同前者。車型：
+承襲EN07C型的**EN07L型**引擎，[燃料](../Page/燃料.md "wikilink")改成LPG[液化石油氣](https://zh.wikipedia.org/wiki/液化石油氣 "wikilink")，其餘規格同前者。車型：
 
 1.  1990年-1999年：[第五代Sambar](https://zh.wikipedia.org/wiki/速霸陸Sambar#第五代（1990年-1999年） "wikilink")
 
 ## EN07E型（自然進氣、EMPi）
 
-此具658c.c.的**EN07E型**引擎乃是將[化油器型式的EN](../Page/化油器.md "wikilink")07A型改成EMPi電子多點噴射系統（Electric
+此具658c.c.的**EN07E型**引擎乃是將[化油器](../Page/化油器.md "wikilink")型式的EN07A型改成EMPi電子多點噴射系統（Electric
 Multi-point Injection之縮寫），缸徑、衝程未變，壓縮比達到10.0：1。最大馬力是52ps /
 7,200rpm，最大扭力是5.5kg・m / 5,600rpm。車型：
 
@@ -56,7 +56,7 @@ injection，縮寫成SPI），缸徑、衝程未變，壓縮比達到10.0：1。
 
 ## EN07F型（自然進氣、EMPi）
 
-此具658c.c.的**EN07F型**引擎乃是將[化油器型式的EN](../Page/化油器.md "wikilink")07C型改成EMPi電子多點噴射系統（Electric
+此具658c.c.的**EN07F型**引擎乃是將[化油器](../Page/化油器.md "wikilink")型式的EN07C型改成EMPi電子多點噴射系統（Electric
 Multi-point Injection之縮寫），缸徑、衝程未變，壓縮比達到10.2：1。最大馬力是48ps /
 6,400rpm，最大扭力是5.9kg·m / 3,200rpm。車型：
 
@@ -124,8 +124,8 @@ Injection之縮寫），且加裝一個小型中冷器。最大馬力60ps / 6,40
 
 排氣量658c.c.、缸徑56.0mm、衝程66.8mm的**EN07X型**引擎具有附中冷器的[機械增壓器](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")，閥門從SOHC的搖臂驅動方式改成直推式，排氣側的凸輪軸以正時皮帶驅動，進氣側的凸輪軸則以毛邊防止齒輪帶動。由於658c.c.直列四缸的缸徑太小，為了使DOHC的閥門夾角變大，縮小凸輪軸的間隙使燃燒室變得緊湊。為了使[轉速達到](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")9千轉，採用兩個點火線圈同時點火之方式，汽門舉桿則為直動式。
 
-至於燃料方面，上市初期加入普通無鉛[汽油即可](../Page/汽油.md "wikilink")，[Vivio
-RX-R車型曾改成高](../Page/速霸陸Vivio.md "wikilink")[辛烷值無鉛汽油](../Page/辛烷值.md "wikilink")，[第一代Stella上市時又改回普通無鉛汽油](https://zh.wikipedia.org/wiki/速霸陸Stella#第一代（2006年-2011年） "wikilink")。自EN07D型以來變更[汽缸蓋的冷卻管路](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")，以便改善散熱器距離汽缸太遠、無法有效散熱的問題。[R2推出後](../Page/速霸陸R2.md "wikilink")，藉著削薄汽缸體的壁厚而輕量化，縮短活塞側緣以減少摩擦、提升燃油經濟性。車型：
+至於燃料方面，上市初期加入普通無鉛[汽油](../Page/汽油.md "wikilink")即可，[Vivio
+RX-R車型曾改成高](../Page/速霸陸Vivio.md "wikilink")[辛烷值](../Page/辛烷值.md "wikilink")無鉛汽油，[第一代Stella上市時又改回普通無鉛汽油](https://zh.wikipedia.org/wiki/速霸陸Stella#第一代（2006年-2011年） "wikilink")。自EN07D型以來變更[汽缸蓋的冷卻管路](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")，以便改善散熱器距離汽缸太遠、無法有效散熱的問題。[R2推出後](../Page/速霸陸R2.md "wikilink")，藉著削薄汽缸體的壁厚而輕量化，縮短活塞側緣以減少摩擦、提升燃油經濟性。車型：
 
   - 高辛烷值汽油型：最大馬力64ps / 7,200rpm、最大扭力10.8kg·m / 3,600rpm（Vivio
     RX-R　E型）或最大馬力64ps / 6,000rpm、最大扭力10.5kg·m /

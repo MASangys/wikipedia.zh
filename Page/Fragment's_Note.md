@@ -1,5 +1,5 @@
 《**Fragment's
-Note**》（假名：）是一款由[日本游戏厂商](../Page/日本.md "wikilink")[ULLUCUSHEAVEN和](https://zh.wikipedia.org/wiki/ULLUCUSHEAVEN "wikilink")[ALVION共同开发](https://zh.wikipedia.org/wiki/ALVION "wikilink")、于2012年7月18日发行于[iOS平台的基于](https://zh.wikipedia.org/wiki/iOS "wikilink")[触摸屏的](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\][体验版于](https://zh.wikipedia.org/wiki/体验版 "wikilink")2012年8月31日发布。2012年12月19日发布1.03版，在这个版本中，添加了朝霞雪月和白鷺絵里的相关剧情，同时增加了CG模式功能。\[2\]\[3\]游戏全程无语音，有[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")。
+Note**》（假名：）是一款由[日本](../Page/日本.md "wikilink")游戏厂商[ULLUCUSHEAVEN和](https://zh.wikipedia.org/wiki/ULLUCUSHEAVEN "wikilink")[ALVION共同开发](https://zh.wikipedia.org/wiki/ALVION "wikilink")、于2012年7月18日发行于[iOS平台的基于](https://zh.wikipedia.org/wiki/iOS "wikilink")[触摸屏的](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\][体验版于](https://zh.wikipedia.org/wiki/体验版 "wikilink")2012年8月31日发布。2012年12月19日发布1.03版，在这个版本中，添加了朝霞雪月和白鷺絵里的相关剧情，同时增加了CG模式功能。\[2\]\[3\]游戏全程无语音，有[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")。
 
 ## 故事简介
 
@@ -25,7 +25,7 @@ Note**》（假名：）是一款由[日本游戏厂商](../Page/日本.md "wiki
 ### 配角
 
   -
-    从[未来来到悠輝葉身边](../Page/未来.md "wikilink")，声称要让悠輝葉获得幸福，也是为了实现自己愿望。能使用各种高科技道具帮助悠輝葉。性格中有孩子的一面。\[7\]对雪月充满敌意，把雪月称作“[人偶](https://zh.wikipedia.org/wiki/人偶 "wikilink")”。能轻易解出[重点大学的入学考试题](https://zh.wikipedia.org/wiki/重点大学 "wikilink")。料理技术也不错。真实身份是雪月的女儿，悠輝葉、羽耶和ミーシャ的[养女](https://zh.wikipedia.org/wiki/养女 "wikilink")。[旧姓橘](https://zh.wikipedia.org/wiki/旧姓 "wikilink")，[曾用名橘美羽](https://zh.wikipedia.org/wiki/曾用名 "wikilink")。
+    从[未来](../Page/未来.md "wikilink")来到悠輝葉身边，声称要让悠輝葉获得幸福，也是为了实现自己愿望。能使用各种高科技道具帮助悠輝葉。性格中有孩子的一面。\[7\]对雪月充满敌意，把雪月称作“[人偶](https://zh.wikipedia.org/wiki/人偶 "wikilink")”。能轻易解出[重点大学的入学考试题](https://zh.wikipedia.org/wiki/重点大学 "wikilink")。料理技术也不错。真实身份是雪月的女儿，悠輝葉、羽耶和ミーシャ的[养女](https://zh.wikipedia.org/wiki/养女 "wikilink")。[旧姓橘](https://zh.wikipedia.org/wiki/旧姓 "wikilink")，[曾用名橘美羽](https://zh.wikipedia.org/wiki/曾用名 "wikilink")。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@ Note**》（假名：）是一款由[日本游戏厂商](../Page/日本.md "wiki
 ## 与故事相关的术语和理论
 
   -
-    接近于[胚胎干细胞的概念](https://zh.wikipedia.org/wiki/胚胎干细胞 "wikilink")。在美羽所在的未来已经可以实用于治愈[疾病和治疗](../Page/疾病.md "wikilink")[肌肉酸痛](https://zh.wikipedia.org/wiki/肌肉酸痛 "wikilink")。
+    接近于[胚胎干细胞的概念](https://zh.wikipedia.org/wiki/胚胎干细胞 "wikilink")。在美羽所在的未来已经可以实用于治愈[疾病](../Page/疾病.md "wikilink")和治疗[肌肉酸痛](https://zh.wikipedia.org/wiki/肌肉酸痛 "wikilink")。
 
 <!-- end list -->
 

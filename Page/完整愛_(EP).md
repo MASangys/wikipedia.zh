@@ -1,5 +1,5 @@
-《**完整愛**》是[香港女子團體](../Page/香港.md "wikilink")[Twins成員](https://zh.wikipedia.org/wiki/Twins "wikilink")[鍾欣潼的第二張個人國語EP](../Page/鍾欣潼.md "wikilink")，亦是第四張個人專輯。唱片共收錄5首歌曲。2014年5月27日[iTunes開始預購](https://zh.wikipedia.org/wiki/iTunes "wikilink")，2014年6月19日正式發行。iTunes上架兩版本**《普通版》**\[1\]
-及**《豪華版》**\[2\]。台灣由[种子音乐代理發行香港进口版](https://zh.wikipedia.org/wiki/种子音乐 "wikilink")，发行日期为6月20日。此張EP宣傳計畫並未赴[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[星](../Page/新加坡.md "wikilink")[馬等地做宣傳](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。好友[蘇見信亦為阿嬌量身打造](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")《一輩子》，同名電影《[完整愛](../Page/完整愛_\(微電影\).md "wikilink")》更找來了好閨蜜[張韶涵](../Page/張韶涵.md "wikilink")、同門師弟[羅力威及台灣歌手](../Page/羅力威.md "wikilink")[周湯豪出演](../Page/周湯豪.md "wikilink")，赴臺北拍攝取景，由導演[陳映之操手](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。\[3\]\[4\]
+《**完整愛**》是[香港](../Page/香港.md "wikilink")女子團體[Twins成員](https://zh.wikipedia.org/wiki/Twins "wikilink")[鍾欣潼](../Page/鍾欣潼.md "wikilink")的第二張個人國語EP，亦是第四張個人專輯。唱片共收錄5首歌曲。2014年5月27日[iTunes開始預購](https://zh.wikipedia.org/wiki/iTunes "wikilink")，2014年6月19日正式發行。iTunes上架兩版本**《普通版》**\[1\]
+及**《豪華版》**\[2\]。台灣由[种子音乐代理發行香港进口版](https://zh.wikipedia.org/wiki/种子音乐 "wikilink")，发行日期为6月20日。此張EP宣傳計畫並未赴[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[星](../Page/新加坡.md "wikilink")[馬等地做宣傳](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。好友[蘇見信亦為阿嬌量身打造](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")《一輩子》，同名電影《[完整愛](../Page/完整愛_\(微電影\).md "wikilink")》更找來了好閨蜜[張韶涵](../Page/張韶涵.md "wikilink")、同門師弟[羅力威](../Page/羅力威.md "wikilink")及台灣歌手[周湯豪](../Page/周湯豪.md "wikilink")出演，赴臺北拍攝取景，由導演[陳映之操手](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。\[3\]\[4\]
 
 ## 曲目
 
@@ -184,8 +184,8 @@ Youtube</p></td>
 |      |     |         |         |          |         |                                                  |
 | ---- | --- | ------- | ------- | -------- | ------- | ------------------------------------------------ |
 | 年份   | 歌曲  | KKBOX台灣 | KKBOX香港 | KKBOX新加坡 | KKBOX大馬 | 備註                                               |
-| 2014 | 一輩子 | 33      | 5       | 32       | 12      | 2014年4月29日[KKBOX上線](../Page/KKBOX.md "wikilink") |
-|      | 完整愛 | 19      | 13      | 22       | 26      | 2014年5月27日[KKBOX上線](../Page/KKBOX.md "wikilink") |
+| 2014 | 一輩子 | 33      | 5       | 32       | 12      | 2014年4月29日[KKBOX](../Page/KKBOX.md "wikilink")上線 |
+|      | 完整愛 | 19      | 13      | 22       | 26      | 2014年5月27日[KKBOX](../Page/KKBOX.md "wikilink")上線 |
 
 ### iTunes
 

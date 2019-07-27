@@ -1,4 +1,4 @@
-**BOX**是[中國的一個](../Page/中國.md "wikilink")[雙胞胎](../Page/雙胞胎.md "wikilink")[男子音樂组合](https://zh.wikipedia.org/wiki/男子音樂组合 "wikilink")\[1\]，曾經参加香港[無線電視節目](https://zh.wikipedia.org/wiki/無線電視節目 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》及於2012年由[英皇主辦的](https://zh.wikipedia.org/wiki/英皇 "wikilink")「超級經紀人」選拔中脫穎而出，當場簽約於[英皇北京](https://zh.wikipedia.org/wiki/英皇娛樂（北京） "wikilink")。於2013年6月發行首張專輯《[路](https://zh.wikipedia.org/wiki/路\(專輯\) "wikilink")》\[2\]
+**BOX**是[中國](../Page/中國.md "wikilink")的一個[雙胞胎](../Page/雙胞胎.md "wikilink")[男子音樂组合](https://zh.wikipedia.org/wiki/男子音樂组合 "wikilink")\[1\]，曾經参加香港[無線電視節目](https://zh.wikipedia.org/wiki/無線電視節目 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》及於2012年由[英皇主辦的](https://zh.wikipedia.org/wiki/英皇 "wikilink")「超級經紀人」選拔中脫穎而出，當場簽約於[英皇北京](https://zh.wikipedia.org/wiki/英皇娛樂（北京） "wikilink")。於2013年6月發行首張專輯《[路](https://zh.wikipedia.org/wiki/路\(專輯\) "wikilink")》\[2\]
 
 ## 音樂作品
 

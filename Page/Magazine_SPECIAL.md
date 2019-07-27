@@ -30,8 +30,8 @@ SPECIAL**》（マガジンSPECIAL），[日本](../Page/日本.md "wikilink")[�
     -
   - [タンスの奥のぱんつさん](https://zh.wikipedia.org/wiki/タンスの奥のぱんつさん "wikilink")（[なつみん](https://zh.wikipedia.org/wiki/なつみん "wikilink")）2012年1月号
     -
-  - [AKB0048外傳
-    飛出去！AKB零零女學園](../Page/AKB0048.md "wikilink")（企画/[秋元康](../Page/秋元康.md "wikilink")
+  - [AKB0048
+    飛出去！AKB零零女學園](../Page/AKB0048.md "wikilink")外傳（企画/[秋元康](../Page/秋元康.md "wikilink")
     原作/[河森正治](../Page/河森正治.md "wikilink")・[サテライト](https://zh.wikipedia.org/wiki/サテライト_\(アニメ制作会社\) "wikilink")
     構成/[三島ヒデユキ](https://zh.wikipedia.org/wiki/三島ヒデユキ "wikilink")
     漫画/[須賀達郎](https://zh.wikipedia.org/wiki/須賀達郎 "wikilink")）2012年2月号

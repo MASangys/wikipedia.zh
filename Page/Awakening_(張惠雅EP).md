@@ -1,4 +1,4 @@
-《**Awakening**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張惠雅的第一張個人音樂專輯](../Page/張惠雅.md "wikilink")，於2013年11月28日推出。
+《**Awakening**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張惠雅](../Page/張惠雅.md "wikilink")的第一張個人音樂專輯，於2013年11月28日推出。
 
 ## 曲目列表
 

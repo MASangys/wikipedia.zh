@@ -69,7 +69,7 @@
 [手摇计算器](https://zh.wikipedia.org/wiki/手摇计算器 "wikilink") -
 [手摇计算机](https://zh.wikipedia.org/wiki/手摇计算机 "wikilink") -
 [电子计算器](../Page/电子计算器.md "wikilink") -
-[电子计算机](https://zh.wikipedia.org/wiki/电子计算机 "wikilink")
+[电子计算机](../Page/电子计算机.md "wikilink")
 
 <h4>
 

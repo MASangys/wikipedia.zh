@@ -12,7 +12,7 @@
     Lady》；「通常盤」追加收錄第1枚原創專輯「[REPUBLIC OF
     2PM](https://zh.wikipedia.org/wiki/REPUBLIC_OF_2PM "wikilink")」收錄曲「即使分離（LIVE
     ver.）」
-  - 在2月25日於[Oricon公信榜專輯每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")1位。
+  - 在2月25日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯每週排行榜取得第1位。
   - 此外，專輯於6月12日、13日、14日、15日、17日於公信榜單曲日榜取得第1名。
 
 ## 收錄內容
@@ -65,7 +65,7 @@
         [Jun. K主唱](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")
 6.  **Let It Rain**
       -
-        [Nichkhun主唱](../Page/Nichkhun.md "wikilink")
+        [Nichkhun](../Page/Nichkhun.md "wikilink")主唱
 
 ### DVD（初回生産限定盤A）
 

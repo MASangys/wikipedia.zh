@@ -6,7 +6,7 @@
 ## 文学作品
 
   - [爱丽丝
-    (爱丽丝梦游仙境)](https://zh.wikipedia.org/wiki/爱丽丝_\(爱丽丝梦游仙境\) "wikilink")，[路易斯·卡羅所著奇幻小說](../Page/路易斯·卡羅.md "wikilink")《[愛麗絲夢遊仙境](https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境 "wikilink")》裡的主要人物
+    (爱丽丝梦游仙境)](https://zh.wikipedia.org/wiki/爱丽丝_\(爱丽丝梦游仙境\) "wikilink")，[路易斯·卡羅](../Page/路易斯·卡羅.md "wikilink")所著奇幻小說《[愛麗絲夢遊仙境](https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境 "wikilink")》裡的主要人物
 
   - ，由菲莉丝·雷诺兹·内勒编写的儿童和青少年读物系列
 
@@ -54,7 +54,7 @@
 
   - ，Jan Svankmajer导演电影
 
-  - ，[伍迪·艾伦导演电影](../Page/伍迪·艾伦.md "wikilink")
+  - ，[伍迪·艾伦](../Page/伍迪·艾伦.md "wikilink")导演电影
 
   - ，Sylvie Ballyot导演电影
 
@@ -133,7 +133,7 @@
   - 《Alice》，a song by Raven-Symoné from *[This Is My
     Time](https://zh.wikipedia.org/wiki/This_Is_My_Time_\(Raven-Symoné_album\) "wikilink")*
 
-  - 《Alice》，[极地双子星歌曲](../Page/极地双子星.md "wikilink")
+  - 《Alice》，[极地双子星](../Page/极地双子星.md "wikilink")歌曲
 
   - [《Alice》 (Mylène Farmer
     song)](https://zh.wikipedia.org/wiki/Alice_\(Mylène_Farmer_song\) "wikilink")，a
@@ -271,7 +271,7 @@
     International](https://zh.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International "wikilink")*,
     a 2014 United States Supreme Court case
 
-  - [《曾经沧海难为水》](https://zh.wikipedia.org/wiki/曾经沧海难为水 "wikilink")，1974年[马丁·斯科塞斯导演电影](../Page/马丁·斯科塞斯.md "wikilink")
+  - [《曾经沧海难为水》](https://zh.wikipedia.org/wiki/曾经沧海难为水 "wikilink")，1974年[马丁·斯科塞斯](../Page/马丁·斯科塞斯.md "wikilink")导演电影
 
   - [爱丽丝囚徒](../Page/爱丽丝囚徒.md "wikilink")，另类摇滚乐队
 

@@ -1,9 +1,9 @@
 **WinDbg**是[Microsoft
-Windows上的多用途](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[调试器](../Page/调试工具.md "wikilink")，可从微软网站上免费下载安装使用。可用于调试[用户态下的](https://zh.wikipedia.org/wiki/用户态 "wikilink")[应用程序](../Page/应用程序.md "wikilink")、[驱动程序](../Page/驱动程序.md "wikilink")，以及[核心态下的](https://zh.wikipedia.org/wiki/核心态 "wikilink")[操作系统自身](../Page/操作系统.md "wikilink")。该软件是[GUI界面](https://zh.wikipedia.org/wiki/GUI "wikilink")，但与更为著名但功能稍弱的几乎完全不同。
+Windows上的多用途](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[调试器](../Page/调试工具.md "wikilink")，可从微软网站上免费下载安装使用。可用于调试[用户态下的](https://zh.wikipedia.org/wiki/用户态 "wikilink")[应用程序](../Page/应用程序.md "wikilink")、[驱动程序](../Page/驱动程序.md "wikilink")，以及[核心态下的](https://zh.wikipedia.org/wiki/核心态 "wikilink")[操作系统](../Page/操作系统.md "wikilink")自身。该软件是[GUI界面](https://zh.wikipedia.org/wiki/GUI "wikilink")，但与更为著名但功能稍弱的几乎完全不同。
 
 WinDbg看调试核心态或用户态下的[内存卸载文件](https://zh.wikipedia.org/wiki/核心文件 "wikilink")。
 
-WinDbg能从服务器自动装载匹配的文件，如。调试符号文件在[源代码文件与](../Page/源代码.md "wikilink")[二进制可执行程序之间建立对应](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。Microsoft的公开的符号服务器提供了Windows
+WinDbg能从服务器自动装载匹配的文件，如。调试符号文件在[源代码](../Page/源代码.md "wikilink")文件与[二进制可执行程序之间建立对应](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。Microsoft的公开的符号服务器提供了Windows
 2000以后各版本操作系统及服务包的绝大部分符号。
 
 WinDbg较新版本作为免费的[Debugging Tools for

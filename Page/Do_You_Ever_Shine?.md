@@ -1,6 +1,6 @@
 《**Do You Ever
-Shine？**》是臺灣樂團[五月天的首張](../Page/五月天.md "wikilink")[日文單曲](https://zh.wikipedia.org/wiki/日文 "wikilink")，也是日劇《[Bitter
-Blood](../Page/Bitter_Blood.md "wikilink")》的主題曲，由主唱[阿信作曲](../Page/陳信宏.md "wikilink")、[日本知名製作人](../Page/日本.md "wikilink")[小林武史作詞](../Page/小林武史.md "wikilink")，分為英文（戲劇版）及日文兩種版本。實體單曲分為初回限定盤（CD+DVD）及通常盤（CD）形式推出，是五月天在日本正式出道的第一張日文單曲，2014年6月4日於日本正式發行。
+Shine？**》是臺灣樂團[五月天](../Page/五月天.md "wikilink")的首張[日文單曲](https://zh.wikipedia.org/wiki/日文 "wikilink")，也是日劇《[Bitter
+Blood](../Page/Bitter_Blood.md "wikilink")》的主題曲，由主唱[阿信作曲](../Page/陳信宏.md "wikilink")、[日本](../Page/日本.md "wikilink")知名製作人[小林武史](../Page/小林武史.md "wikilink")作詞，分為英文（戲劇版）及日文兩種版本。實體單曲分為初回限定盤（CD+DVD）及通常盤（CD）形式推出，是五月天在日本正式出道的第一張日文單曲，2014年6月4日於日本正式發行。
 
 ## 收录内容
 
@@ -18,7 +18,7 @@ Blood](../Page/Bitter_Blood.md "wikilink")》的主題曲，由主唱[阿信作�
 ## PV（音樂錄影帶）
 
 由紐約影像導演Masakazu Fukatsu執導，並邀《Bitter
-Blood》主演[佐藤健演出](../Page/佐藤健.md "wikilink")，PV的構思以歌曲的歌詞及節奏為發想，運鏡以360度拍攝出對立面白天與黑夜、黑與光之衝擊感，成果與歌曲、戲劇的概念及氛圍相當吻合。
+Blood》主演[佐藤健](../Page/佐藤健.md "wikilink")演出，PV的構思以歌曲的歌詞及節奏為發想，運鏡以360度拍攝出對立面白天與黑夜、黑與光之衝擊感，成果與歌曲、戲劇的概念及氛圍相當吻合。
 \[2\]
 
 | 首播日期       | 歌名                      | 執導                               | 附註    |
@@ -30,7 +30,7 @@ Blood》主演[佐藤健演出](../Page/佐藤健.md "wikilink")，PV的構思�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量  | 總銷量  | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量  | 總銷量  | 停留時間 |
 | ---------------------------------------- | ---- | ---- | ---- | ---- |
 | 單曲日榜                                     | 16   | \-   | 8615 | 6周   |
 | 單曲週榜                                     | 18   | 4579 |      |      |

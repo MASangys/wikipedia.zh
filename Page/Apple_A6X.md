@@ -9,9 +9,9 @@ A6的衍生版本](../Page/Apple_A6.md "wikilink")，包含与Apple
 A6相同的同步[雙核心](https://zh.wikipedia.org/wiki/雙核心 "wikilink")[ARMv7架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，仅圖形處理器升级到運行於300MHz的[四核心](https://zh.wikipedia.org/wiki/四核心 "wikilink")[PowerVR](../Page/PowerVR.md "wikilink")
 SGX554 MP4。\[1\]\[2\]不同於A6，A6X被導熱片覆蓋，且内存模块与芯片分开封装。
 
-A6X同樣由[三星電子代工](../Page/三星電子.md "wikilink")，使用[32纳米制程HKMG](https://zh.wikipedia.org/wiki/32纳米制程 "wikilink")
+A6X同樣由[三星電子](../Page/三星電子.md "wikilink")代工，使用[32纳米制程HKMG](https://zh.wikipedia.org/wiki/32纳米制程 "wikilink")
 (High-κ Metal
-Gate)製造，面積123mm²，比A6大26%。A6X是該公司最後一款[32位元架構的A系列SoC](../Page/32位元.md "wikilink")。
+Gate)製造，面積123mm²，比A6大26%。A6X是該公司最後一款[32位元](../Page/32位元.md "wikilink")架構的A系列SoC。
 
 ## 產品使用
 

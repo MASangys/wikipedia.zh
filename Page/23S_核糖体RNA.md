@@ -1,6 +1,6 @@
 **23S**
-[rRNA是一个长为](https://zh.wikipedia.org/wiki/rRNA "wikilink")2904[nt](../Page/核苷酸.md "wikilink")（在[大腸桿菌中](../Page/大腸桿菌.md "wikilink")）的细菌核糖体大亚基（[50S亚基](../Page/50S核糖体亚基.md "wikilink")）组分。核糖体的[肽基转移酶活性中心就位于此rRNA的第五结构域](https://zh.wikipedia.org/wiki/肽基转移酶 "wikilink")（domain
-V），而此结构域也是许多抑制转录的抗生素的常见作用位点。这一类抗生素包括著名的[氯霉素](../Page/氯霉素.md "wikilink")，通过抑制肽键形成来发挥作用。[利奈唑胺和](../Page/利奈唑胺.md "wikilink")也能结合于23S
+[rRNA是一个长为](https://zh.wikipedia.org/wiki/rRNA "wikilink")2904[nt](../Page/核苷酸.md "wikilink")（在[大腸桿菌](../Page/大腸桿菌.md "wikilink")中）的细菌核糖体大亚基（[50S亚基](../Page/50S核糖体亚基.md "wikilink")）组分。核糖体的[肽基转移酶活性中心就位于此rRNA的第五结构域](https://zh.wikipedia.org/wiki/肽基转移酶 "wikilink")（domain
+V），而此结构域也是许多抑制转录的抗生素的常见作用位点。这一类抗生素包括著名的[氯霉素](../Page/氯霉素.md "wikilink")，通过抑制肽键形成来发挥作用。[利奈唑胺](../Page/利奈唑胺.md "wikilink")和也能结合于23S
 rRNA。
 
 ## 另见

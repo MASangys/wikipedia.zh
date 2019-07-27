@@ -8,7 +8,7 @@ Surface 首次发布时有兩個版本，分別為 Surface RT 系列與 Surface 
 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")
 安裝應用程式，但僅有 Pro 型 Surface 能夠執行 PC 版 Windows 上的軟體。\[1\]
 
-這系列的產品由[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·巴爾默在](../Page/史蒂夫·巴爾默.md "wikilink")2012年6月18日於[洛杉磯舉行的記者會上公開](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。同年2012年10月26日推出。\[2\]
+這系列的產品由[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")在2012年6月18日於[洛杉磯舉行的記者會上公開](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。同年2012年10月26日推出。\[2\]
 接下來，[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2013年9月23日發表
 Surface Pro 2 及 Surface 2 ，同年10月22日上市。但在2014年6月10日發表會上卻只有公佈 [Surface Pro
 3](https://zh.wikipedia.org/wiki/Surface_Pro_3 "wikilink") ，同年8月28日上市。
@@ -64,7 +64,7 @@ Surface Pro在中國大陆另有兩個版本，Surface專業版和Surface中文�
 Surface專業版預装Windows 8專業版及Office 365家庭高级版一個月試用。
 
 Surface中國版預装Windows 8简体中文版，無法更改為其他語言，及Office
-2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker加密數據](../Page/BitLocker.md "wikilink")。\[4\]
+2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker](../Page/BitLocker.md "wikilink")加密數據。\[4\]
 
 **Surface Pro 4**  2015年10月，微软推出了Surface Pro 4，配备12.3吋2736 x
 1824螢幕，處理器提採用第6代Intel Core M3/i5/i7。同时推出了新的Surface
@@ -422,7 +422,7 @@ Mini DisplayPort<br />
 </tr>
 <tr class="odd">
 <td><p>可擴展的儲存空間</p></td>
-<td><p>內置<a href="../Page/SDXC.md" title="wikilink">SDXC存儲卡插槽</a>, 最高支援200GB</p></td>
+<td><p>內置<a href="../Page/SDXC.md" title="wikilink">SDXC</a>存儲卡插槽, 最高支援200GB</p></td>
 </tr>
 <tr class="even">
 <td><p>無線功能</p></td>
@@ -524,7 +524,7 @@ Surface Studio 作为该系列顶级的一体机设备，随机附赠了单独�
 
 由於 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") 和
 [Android](../Page/Android.md "wikilink")
-等平板電腦的崛起及競爭，微軟打破了其37年不生產全套電腦硬體、依靠電腦廠商製造硬體並配套安裝“Windows”作業系統的歷史，推出Surface平板電腦。微軟的官方回應是“就如20多年前推出微軟滑鼠一樣，在市場最需要微軟產品的時侯，推出自有品牌。”但這意味著微軟與[惠普等公司可能由原本親密的硬體夥伴變成競爭對手](../Page/惠普.md "wikilink")。
+等平板電腦的崛起及競爭，微軟打破了其37年不生產全套電腦硬體、依靠電腦廠商製造硬體並配套安裝“Windows”作業系統的歷史，推出Surface平板電腦。微軟的官方回應是“就如20多年前推出微軟滑鼠一樣，在市場最需要微軟產品的時侯，推出自有品牌。”但這意味著微軟與[惠普](../Page/惠普.md "wikilink")等公司可能由原本親密的硬體夥伴變成競爭對手。
 
 微軟同時也開發 [Windows
 Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")。Windows

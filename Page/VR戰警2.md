@@ -1,4 +1,4 @@
-是由[世嘉於](../Page/世嘉.md "wikilink")1995年所開發的[第一人稱射擊](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[光線槍遊戲](https://zh.wikipedia.org/wiki/光槍射擊遊戲 "wikilink")，遊戲是《[VR戰警](../Page/VR戰警.md "wikilink")》的續集。在2003年《VR戰警2》的续作《[VR戰警3](https://zh.wikipedia.org/wiki/VR戰警3 "wikilink")》发售。
+是由[世嘉](../Page/世嘉.md "wikilink")於1995年所開發的[第一人稱射擊](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[光線槍遊戲](https://zh.wikipedia.org/wiki/光槍射擊遊戲 "wikilink")，遊戲是《[VR戰警](../Page/VR戰警.md "wikilink")》的續集。在2003年《VR戰警2》的续作《[VR戰警3](https://zh.wikipedia.org/wiki/VR戰警3 "wikilink")》发售。
 
 ## 劇情
 
@@ -24,7 +24,7 @@ Shootout）的BOSS（Garse Bradley）才可玩。
 游戏一共有四个关卡：
 
   - Beginner - Big
-    Chase：有一[銀行被行劫](../Page/銀行.md "wikilink")，與匪徒交火時，匪徒趁機逃亡，玩家要乘車作出大追捕。此關卡是於一銀行﹑[城市及貨運中心取景](../Page/城市.md "wikilink")，BOSS為Bobbie
+    Chase：有一[銀行](../Page/銀行.md "wikilink")被行劫，與匪徒交火時，匪徒趁機逃亡，玩家要乘車作出大追捕。此關卡是於一銀行﹑[城市](../Page/城市.md "wikilink")及貨運中心取景，BOSS為Bobbie
     Louise，他是行劫銀行的策劃者，手持一[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")，而同時間也不斷扔下鐵筒（差不多死時會扔下貨車）。
   - Medium - Save the
     Mayor：VR城的市長被綁架，玩家需要進入一[郵輪拯救他](../Page/遊輪.md "wikilink")。此關卡是於一[郵輪碼頭取景](https://zh.wikipedia.org/wiki/郵輪碼頭 "wikilink")，BOSS為Aero-Divers，一共有五人，他們會不斷飛行，同時發射榴彈。不同的地方選擇攻打BOSS的地方會有所不同，如果是Bridge，會在郵輪駕駛室攻打BOSS，One

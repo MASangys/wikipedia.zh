@@ -1,5 +1,5 @@
 **Wear OS**前称為**Android
-Wear**，是[Android](../Page/Android.md "wikilink")[作業系統的一個](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[分支版本](https://zh.wikipedia.org/wiki/分支 "wikilink")，專為智慧型手錶等[可穿戴式電腦裝置所設計](../Page/可穿戴式電腦.md "wikilink")，由[Google主導開發](../Page/Google.md "wikilink")。初始原型於2014年3月19日公布，並同時開放開發者預覽版下載。
+Wear**，是[Android](../Page/Android.md "wikilink")[作業系統的一個](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[分支版本](https://zh.wikipedia.org/wiki/分支 "wikilink")，專為智慧型手錶等[可穿戴式電腦](../Page/可穿戴式電腦.md "wikilink")裝置所設計，由[Google](../Page/Google.md "wikilink")主導開發。初始原型於2014年3月19日公布，並同時開放開發者預覽版下載。
 
 ## 功能
 

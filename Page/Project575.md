@@ -1,8 +1,8 @@
-**project575**是[世嘉在](../Page/世嘉.md "wikilink")2013年开展的[跨媒体制作计划](https://zh.wikipedia.org/wiki/跨媒体制作 "wikilink")。发布了多款游戏和一部动画。
+**project575**是[世嘉](../Page/世嘉.md "wikilink")在2013年开展的[跨媒体制作计划](https://zh.wikipedia.org/wiki/跨媒体制作 "wikilink")。发布了多款游戏和一部动画。
 
 ## 概要
 
-主要为基于日文的古代文学创作句式[俳句和](../Page/俳句.md "wikilink")[川柳的](../Page/川柳_\(日本文學\).md "wikilink")“五·七·五”格式编排句式来表达当时的心情的游戏，并配以[VOCALOID朗读输出](../Page/VOCALOID.md "wikilink")。
+主要为基于日文的古代文学创作句式[俳句](../Page/俳句.md "wikilink")和[川柳的](../Page/川柳_\(日本文學\).md "wikilink")“五·七·五”格式编排句式来表达当时的心情的游戏，并配以[VOCALOID](../Page/VOCALOID.md "wikilink")朗读输出。
 
 ## 登场角色
 
@@ -12,7 +12,7 @@
 <!-- end list -->
 
   -
-    本作主人公之一，和小豆同级，平时沉默寡言，但有时会发言毒辣，有少许[中二病的性格](../Page/中二病.md "wikilink")。
+    本作主人公之一，和小豆同级，平时沉默寡言，但有时会发言毒辣，有少许[中二病](../Page/中二病.md "wikilink")的性格。
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@ Vita版本的游戏](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")《》。
 
 ## 动画
 
-**GO\!GO\!575**是2014年1月于[東京都會電視台和](../Page/東京都會電視台.md "wikilink")[神奈川電視台播放的短篇动画](../Page/神奈川電視台.md "wikilink")，每话大约5分钟长，共4话。
+**GO\!GO\!575**是2014年1月于[東京都會電視台](../Page/東京都會電視台.md "wikilink")和[神奈川電視台](../Page/神奈川電視台.md "wikilink")播放的短篇动画，每话大约5分钟长，共4话。
 
 播放结束后的2014年2月以主角两名声优大坪由佳和大橋彩香参观[鎌倉的特辑](https://zh.wikipedia.org/wiki/鎌倉 "wikilink")****，3月再一次重播。
 

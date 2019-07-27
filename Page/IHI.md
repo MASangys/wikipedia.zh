@@ -1,6 +1,6 @@
-**IHI公司**（，），前稱「**石川島播磨重工業**」（），是[日本一家](../Page/日本.md "wikilink")[重工業公司](https://zh.wikipedia.org/wiki/重工業 "wikilink")。
+**IHI公司**（，），前稱「**石川島播磨重工業**」（），是[日本](../Page/日本.md "wikilink")一家[重工業公司](https://zh.wikipedia.org/wiki/重工業 "wikilink")。
 
-IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://zh.wikipedia.org/wiki/江戶幕府 "wikilink")[水戶藩主](../Page/水戶藩.md "wikilink")[德川齊昭下令於](../Page/德川齊昭.md "wikilink")[江戶](../Page/江戶.md "wikilink")[隅田川河口的石川島](../Page/隅田川.md "wikilink")（位於現在[東京都](../Page/東京都.md "wikilink")[中央區佃二丁目](../Page/中央區_\(東京都\).md "wikilink")）建設造船廠，成為「石川島造船廠」。一戰後開始涉足汽車及飛行器製造業務，二戰時參與建造軍艦及飛行器。二戰後透過併購繼續壯大，2007年更名為株式會社IHI。
+IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://zh.wikipedia.org/wiki/江戶幕府 "wikilink")[水戶藩](../Page/水戶藩.md "wikilink")主[德川齊昭](../Page/德川齊昭.md "wikilink")下令於[江戶](../Page/江戶.md "wikilink")[隅田川](../Page/隅田川.md "wikilink")河口的石川島（位於現在[東京都](../Page/東京都.md "wikilink")[中央區佃二丁目](../Page/中央區_\(東京都\).md "wikilink")）建設造船廠，成為「石川島造船廠」。一戰後開始涉足汽車及飛行器製造業務，二戰時參與建造軍艦及飛行器。二戰後透過併購繼續壯大，2007年更名為株式會社IHI。
 
 ## 年表
 
@@ -42,12 +42,12 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
   - 1966年（昭和41年）－製成世界第一艘排水量達20萬噸級的運油輪「[出光丸](https://zh.wikipedia.org/wiki/出光丸號運油輪 "wikilink")」號。
   - 1968年（昭和43年）－併購株式會社吳造船所。
   - 1975年（昭和50年）－製成當時世界排水量最大（約48萬噸）的運油輪「[日精丸](https://zh.wikipedia.org/wiki/日精丸號運油輪 "wikilink")」號。
-  - 2000年（平成12年）－與[川崎重工業及](../Page/川崎重工業.md "wikilink")[三井造船締結船舶](https://zh.wikipedia.org/wiki/三井造船 "wikilink")、海洋事業（政府船舶業務除外）的合作協議。購入[日産自動車的軍事及航太業務](https://zh.wikipedia.org/wiki/日産自動車 "wikilink")（現[IHI航太](https://zh.wikipedia.org/wiki/IHI航太 "wikilink")）。
+  - 2000年（平成12年）－與[川崎重工業](../Page/川崎重工業.md "wikilink")及[三井造船締結船舶](https://zh.wikipedia.org/wiki/三井造船 "wikilink")、海洋事業（政府船舶業務除外）的合作協議。購入[日産自動車的軍事及航太業務](https://zh.wikipedia.org/wiki/日産自動車 "wikilink")（現[IHI航太](https://zh.wikipedia.org/wiki/IHI航太 "wikilink")）。
   - 2002年（平成14年）－受政府開發東京臨海地區影響，關閉東京第1工場（豐洲），業務遷移至橫濱第3工場。將船舶、海洋事業注入與住友重機械工業合資的Marine
     United，成為子公司IHI Marine United。
   - 2003年（平成15年）－購入[新潟鐵工所原動機](https://zh.wikipedia.org/wiki/新潟鐵工所 "wikilink")（現新潟原動機）、產業機械（現[新潟運輸系統](../Page/新潟運輸系統.md "wikilink")）等業務。
   - 2006年（平成18年）－購入IHI Marine United餘下股權，令IHI Marine
-    United成為旗下全資子公司。總公司自[千代田區](../Page/千代田區.md "wikilink")[大手町二丁目遷至](../Page/大手町_\(千代田區\).md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[豐洲三丁目](../Page/豐洲.md "wikilink")。
+    United成為旗下全資子公司。總公司自[千代田區](../Page/千代田區.md "wikilink")[大手町二丁目遷至](../Page/大手町_\(千代田區\).md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[豐洲](../Page/豐洲.md "wikilink")三丁目。
   - 2007年（平成19年）－被發現與其他企業參與鐵橋工程的圍標活動，被國土交通省按[建設業法判罰停業](https://zh.wikipedia.org/wiki/建設業法 "wikilink")45天。公司更名為**株式會社IHI**（英文社名：*IHI
     Corporation*）。2006年度的年報被懷疑載有虛假資料，股份被東京證券交易所列入監察名單。
   - 2008年（平成20年）－2月9日改列入特別注意名單。
@@ -61,7 +61,7 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
 
 #### 軍艦
 
-戰前主要為[日本海軍建造小型艦艇](../Page/大日本帝國海軍.md "wikilink")，戰後亦只為[海上自衛隊建造船艦](../Page/海上自衛隊.md "wikilink")，未有接受外國訂單。
+戰前主要為[日本海軍建造小型艦艇](../Page/大日本帝國海軍.md "wikilink")，戰後亦只為[海上自衛隊](../Page/海上自衛隊.md "wikilink")建造船艦，未有接受外國訂單。
 
 ##### 二戰前、二戰時
 

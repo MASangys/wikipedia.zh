@@ -1,12 +1,12 @@
 **HTC
-Butterfly**（[國際版型號](https://zh.wikipedia.org/wiki/國際版 "wikilink")：**X920d**；[中國大陸型號](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")：**X920e**，俗稱「**蝴蝶機**」）是2012年12月[宏達國際電子在](../Page/宏達國際電子.md "wikilink")[臺灣與](../Page/臺灣.md "wikilink")[中國大陸市場推出的高階](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。針對[日本電信商](../Page/日本.md "wikilink")[KDDI客製化](../Page/KDDI.md "wikilink")，日本地區推出的同名機種為[HTC
+Butterfly**（[國際版型號](https://zh.wikipedia.org/wiki/國際版 "wikilink")：**X920d**；[中國大陸型號](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")：**X920e**，俗稱「**蝴蝶機**」）是2012年12月[宏達國際電子](../Page/宏達國際電子.md "wikilink")在[臺灣](../Page/臺灣.md "wikilink")與[中國大陸市場推出的高階](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。針對[日本](../Page/日本.md "wikilink")電信商[KDDI](../Page/KDDI.md "wikilink")客製化，日本地區推出的同名機種為[HTC
 J
 Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，由[Verizon獨家推出的機種命名為](https://zh.wikipedia.org/wiki/Verizon "wikilink")[Verizon
 Droid DNA by
 HTC](https://zh.wikipedia.org/wiki/Verizon_Droid_DNA_by_HTC "wikilink")\[1\]。
 
 臺灣版HTC
-Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikilink")12月11日率先販售，[台灣大哥大及](../Page/台灣大哥大.md "wikilink")[遠傳電信也於](../Page/遠傳電信.md "wikilink")2013年1月底正式開賣。中華電信表示，2012年12月單月共創造了6萬台以上的銷售量。而龐大的預購量更是讓電信業者無法消化，導致全台缺貨，部分通訊行甚至哄抬售價販賣。
+Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikilink")12月11日率先販售，[台灣大哥大](../Page/台灣大哥大.md "wikilink")及[遠傳電信](../Page/遠傳電信.md "wikilink")也於2013年1月底正式開賣。中華電信表示，2012年12月單月共創造了6萬台以上的銷售量。而龐大的預購量更是讓電信業者無法消化，導致全台缺貨，部分通訊行甚至哄抬售價販賣。
 
 於2013年[母親節前夕](https://zh.wikipedia.org/wiki/母親節 "wikilink")，臺灣推出了玫瑰粉母親節限定版，而單機價將調降為新台幣21,900元，其餘黑、紅、白款也同步降價發售。
 
@@ -81,7 +81,7 @@ Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikili
 <tr class="even">
 <td><p>相機</p></td>
 <td><p>800萬畫素自動對焦相機、<a href="http://en.wikipedia.org/wiki/Backside_illumination">BSI</a>感測器、F/2.0 超大光圈、28mm<a href="https://zh.wikipedia.org/wiki/廣角鏡頭" title="wikilink">廣角鏡頭</a>、1080p <a href="https://zh.wikipedia.org/wiki/FullHD" title="wikilink">FullHD</a> 錄影（可同時拍照），支援錄影防手震和慢動作錄影、<br />
-<a href="https://zh.wikipedia.org/wiki/HTC_ImageChip™" title="wikilink">HTC ImageChip™第一代獨立影像處理晶片</a>、亮度智慧調節LED閃光燈、高速99張連拍、遊覽模式（保持相機隨時待機）、<a href="https://zh.wikipedia.org/wiki/Video_Highlights" title="wikilink">Video Highlights</a> 210萬畫素前相機（支援<a href="../Page/1080p.md" title="wikilink">1080p錄影</a>）、88度廣角(等效焦距約22mm)、自拍美顏功能、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR拍照</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/HTC_ImageChip™" title="wikilink">HTC ImageChip™第一代獨立影像處理晶片</a>、亮度智慧調節LED閃光燈、高速99張連拍、遊覽模式（保持相機隨時待機）、<a href="https://zh.wikipedia.org/wiki/Video_Highlights" title="wikilink">Video Highlights</a> 210萬畫素前相機（支援<a href="../Page/1080p.md" title="wikilink">1080p</a>錄影）、88度廣角(等效焦距約22mm)、自拍美顏功能、<a href="https://zh.wikipedia.org/wiki/HDR" title="wikilink">HDR拍照</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -130,8 +130,8 @@ Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikili
 
 ### 外觀
 
-  - 台灣X920d白、紅與粉紅色採用拋光[聚碳酸酯製成](../Page/聚碳酸酯.md "wikilink")，白色版的表面有一些粉光感，黑色版則採用皮革烤漆材質\[5\]。
-  - 大陸X920e白、黑與棕色皆採用拋光[聚碳酸酯製成](../Page/聚碳酸酯.md "wikilink")，白色版和台灣版不同的地方是，正面框架亦為白色，且鏡頭處有紅色圈點綴，觸控按鈕亦為紅色。
+  - 台灣X920d白、紅與粉紅色採用拋光[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")製成，白色版的表面有一些粉光感，黑色版則採用皮革烤漆材質\[5\]。
+  - 大陸X920e白、黑與棕色皆採用拋光[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")製成，白色版和台灣版不同的地方是，正面框架亦為白色，且鏡頭處有紅色圈點綴，觸控按鈕亦為紅色。
   - 機身背面採用弧形設計，貼合手掌曲線，提供更好的握感。
   - 前置聽筒旁設有訊息通知燈，且在背面相機鏡頭旁，亦有通知燈的設置。
   - 有防水設計，支援 [IPX5](https://zh.wikipedia.org/wiki/IPX5 "wikilink")

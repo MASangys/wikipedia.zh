@@ -1,4 +1,4 @@
-**GOOD4NOTHING**是來自[日本](../Page/日本.md "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[堺市的Melodic](../Page/堺市.md "wikilink")
+**GOOD4NOTHING**是來自[日本](../Page/日本.md "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[堺市](../Page/堺市.md "wikilink")的Melodic
 Punk樂團。由U-TAN（主唱&吉他）、 TANNY（主唱&吉他）、MAKKIN（貝斯&和聲）、
 SUNE（鼓）组成。樂團前身為1997年组成的“電器風呂”，新成員加入後，於1999年改名。他们是ROCK
 IN JAPAN、SUMMER SONIC、FUJI ROCK FESTIVAL、COUNTDOWN JAPAN、PUNK

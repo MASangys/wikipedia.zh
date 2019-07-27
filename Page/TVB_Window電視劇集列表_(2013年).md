@@ -5,7 +5,7 @@ Window所播放的劇集](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")�
 
 ### 中午劇集時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")12:30-14:00及22:30-00:00播出，逢星期二至六02:30-04:00重播
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五12:30-14:00及22:30-00:00播出，逢星期二至六02:30-04:00重播
 
 <table style="width:344%;">
 <colgroup>
@@ -164,7 +164,7 @@ Iris 2</p></td>
 
 ### 下午劇集時段
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")15:00-16:00播出，逢星期二至六05:00-06:00重播\[1\]
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五15:00-16:00播出，逢星期二至六05:00-06:00重播\[1\]
 
 <table style="width:344%;">
 <colgroup>
@@ -310,7 +310,7 @@ Summer Kisses, Winter Tears</p></td>
 
 ### 「我們的...」系列／凌晨劇集時段
 
-[香港時間逢星期二至六](../Page/香港時間.md "wikilink")<small>（星期一至五深夜）</small>00:30-02:15播出，逢星期二至五及下星期一10:00-11:45重播（**每次播映兩集**）\[2\]
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至六<small>（星期一至五深夜）</small>00:30-02:15播出，逢星期二至五及下星期一10:00-11:45重播（**每次播映兩集**）\[2\]
 
 <table style="width:344%;">
 <colgroup>
@@ -364,7 +364,7 @@ Passion Among Us</p></td>
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/翡翠台電視劇集列表_(1993年).md" title="wikilink">1993年無綫劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>每次播映一集</strong><br />
-6月18日至21日不與<a href="../Page/TVB經典台.md" title="wikilink">TVB經典台同日播放相同集數及暫停早上重播</a>(10:00-11:45)，6月20日及21日改為02:00-03:45播出</p></td>
+6月18日至21日不與<a href="../Page/TVB經典台.md" title="wikilink">TVB經典台</a>同日播放相同集數及暫停早上重播(10:00-11:45)，6月20日及21日改為02:00-03:45播出</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -559,7 +559,7 @@ Healing Hands</p></td>
 
 ### 下午劇集時段
 
-[香港時間逢星期六](../Page/香港時間.md "wikilink")15:30-17:30及21:00-23:00播出，逢星期日01:30-03:30及12:00-14:00重播（**每次播映兩集**）
+[香港時間](../Page/香港時間.md "wikilink")逢星期六15:30-17:30及21:00-23:00播出，逢星期日01:30-03:30及12:00-14:00重播（**每次播映兩集**）
 
 <table style="width:344%;">
 <colgroup>
@@ -638,5 +638,5 @@ In Time With You</p></td>
 
 [Category:TVB_Window電視劇列表](https://zh.wikipedia.org/wiki/Category:TVB_Window電視劇列表 "wikilink")
 
-1.  與[TVB經典台同日播放相同集數](../Page/TVB經典台.md "wikilink")。[TVB經典台逢星期一至五](../Page/TVB經典台.md "wikilink")09:15-10:05、13:15-14:05及21:15-22:05播出，逢星期二至六00:50-01:40及05:10-06:00重播
-2.  與[TVB經典台同日播放相同集數](../Page/TVB經典台.md "wikilink")。[TVB經典台逢星期一至五](../Page/TVB經典台.md "wikilink")14:05-15:45、18:00-19:45及22:05-23:45播出，逢星期二至六01:40-03:20及10:05-11:45重播
+1.  與[TVB經典台](../Page/TVB經典台.md "wikilink")同日播放相同集數。[TVB經典台](../Page/TVB經典台.md "wikilink")逢星期一至五09:15-10:05、13:15-14:05及21:15-22:05播出，逢星期二至六00:50-01:40及05:10-06:00重播
+2.  與[TVB經典台](../Page/TVB經典台.md "wikilink")同日播放相同集數。[TVB經典台](../Page/TVB經典台.md "wikilink")逢星期一至五14:05-15:45、18:00-19:45及22:05-23:45播出，逢星期二至六01:40-03:20及10:05-11:45重播

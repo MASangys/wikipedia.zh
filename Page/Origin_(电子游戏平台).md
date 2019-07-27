@@ -13,7 +13,7 @@ Origin商店在2013年8月改版，希望用户对于新版“允许小错误”
 
 ### Origin客户端
 
-Origin客户端是一个自动更新软件，可以使用户使用它来下载游戏，补丁以及DLC。Origin的客户端设计和他的竞争对手[Steam差不多](../Page/Steam.md "wikilink")。客户端有好友和聊天功能。虽然EA一直在修补bug但是Origin依然有很多的问题，特别是在中国大陆地区。
+Origin客户端是一个自动更新软件，可以使用户使用它来下载游戏，补丁以及DLC。Origin的客户端设计和他的竞争对手[Steam](../Page/Steam.md "wikilink")差不多。客户端有好友和聊天功能。虽然EA一直在修补bug但是Origin依然有很多的问题，特别是在中国大陆地区。
 
 ### Origin手机版
 
@@ -36,10 +36,10 @@ Manager”\[5\]。经过一番变革，2011年7月3日Origin从这两个平台�
 
 2016年，Origin取消简体中文支持，原因未知。
 
-2018年10月，Origin开始支持[支付宝付款结算](../Page/支付宝.md "wikilink")，不过只有在用中国大陆和香港的IP地址访问时才能使用支付宝进行付款,\[6\]并且只有在购买游戏时才能使用支付宝进行支付，订阅Origin
-Access与购买[Apex英雄新手包和创始人包目前尚不可用](../Page/Apex英雄.md "wikilink")。
+2018年10月，Origin开始支持[支付宝](../Page/支付宝.md "wikilink")付款结算，不过只有在用中国大陆和香港的IP地址访问时才能使用支付宝进行付款,\[6\]并且只有在购买游戏时才能使用支付宝进行支付，订阅Origin
+Access与购买[Apex英雄](../Page/Apex英雄.md "wikilink")新手包和创始人包目前尚不可用。
 
-2019年1月底，中国大陆IP地址登陆Origin由默认[欧元结算改为](../Page/欧元.md "wikilink")[港元结算](../Page/港元.md "wikilink")，\[7\]实际价格比之前欧元结算有所下降。
+2019年1月底，中国大陆IP地址登陆Origin由默认[欧元](../Page/欧元.md "wikilink")结算改为[港元](../Page/港元.md "wikilink")结算，\[7\]实际价格比之前欧元结算有所下降。
 
 2019年6月初，Origin增加了对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")，目前只有在购买游戏时才能使用银联进行支付，订阅Origin
 Access目前仍不可用。

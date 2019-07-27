@@ -1,5 +1,5 @@
 **karory**（12月8日 -
-）是日本的女性[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")，游戏[原画家](https://zh.wikipedia.org/wiki/原画家 "wikilink")，[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")。[三重县出身](../Page/三重县.md "wikilink")，2008年以自由画师身份出道。karory运营着名为“KAROMIX”的[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")。
+）是日本的女性[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")，游戏[原画家](https://zh.wikipedia.org/wiki/原画家 "wikilink")，[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")。[三重县](../Page/三重县.md "wikilink")出身，2008年以自由画师身份出道。karory运营着名为“KAROMIX”的[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")。
 
 ## 主要作品
 
@@ -27,7 +27,7 @@
   - [旋风管家\!\!Trading Card
     Game](https://zh.wikipedia.org/wiki/旋风管家 "wikilink")（[科乐美数位娱乐](https://zh.wikipedia.org/wiki/科乐美数位娱乐 "wikilink")）
 
-  - [電擊萌王卷首插绘](../Page/電擊萌王.md "wikilink")（2011年6月 -）
+  - [電擊萌王](../Page/電擊萌王.md "wikilink")卷首插绘（2011年6月 -）
 
   - karory的表情（脸）（《[E☆2](https://zh.wikipedia.org/wiki/E☆2 "wikilink")》Vol.26
     - Vol.29）

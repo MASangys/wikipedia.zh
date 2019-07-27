@@ -1,9 +1,9 @@
-**Enako**\[1\]（），女歌手、[聲優](../Page/聲優.md "wikilink")、[Cosplayer](../Page/Cosplay.md "wikilink")，居住於[日本](../Page/日本.md "wikilink")[愛知縣](../Page/愛知縣.md "wikilink")，[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")154cm，[血型爲A型](https://zh.wikipedia.org/wiki/血型 "wikilink")。2011年8月，她在[Comic
+**Enako**\[1\]（），女歌手、[聲優](../Page/聲優.md "wikilink")、[Cosplay](../Page/Cosplay.md "wikilink")er，居住於[日本](../Page/日本.md "wikilink")[愛知縣](../Page/愛知縣.md "wikilink")，[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")154cm，[血型爲A型](https://zh.wikipedia.org/wiki/血型 "wikilink")。2011年8月，她在[Comic
 Market
 80上Cosplay](../Page/Comic_Market.md "wikilink")[帕秋莉·諾雷姬而受到關注](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")\[2\]，隨後推出了數張[寫真](https://zh.wikipedia.org/wiki/寫真 "wikilink")[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")\[3\]。其後的[Comic
 Market上](../Page/Comic_Market.md "wikilink")，Enako均參與了Cosplay表演。2012年6月以來她數次訪中。\[4\]
 
-她和同爲Cosplayer的五木昶（）、黑貓（）曾組建音樂團體**panache\!**（），所屬[唱片公司爲](../Page/唱片公司.md "wikilink")[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[DefSTAR
+她和同爲Cosplayer的五木昶（）、黑貓（）曾組建音樂團體**panache\!**（），所屬[唱片公司](../Page/唱片公司.md "wikilink")爲[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的[DefSTAR
 Records](../Page/DefSTAR_Records.md "wikilink")。\[5\]該組合2012年8月正式成立，於2013年4月26日在官網宣布解散，解散原因是黑貓已經就職。\[6\]
 
 ## 訪中活動
@@ -40,7 +40,7 @@ Records](../Page/DefSTAR_Records.md "wikilink")。\[5\]該組合2012年8月正�
 
 **2015年**
 
-1.  ウチは男の娘。（[聖騎士之戰XX](../Page/聖騎士之戰.md "wikilink")：碧姬）
+1.  ウチは男の娘。（[聖騎士之戰](../Page/聖騎士之戰.md "wikilink")XX：碧姬）
 2.  中華娘娘 （旗袍、女佣）
 3.  Maid for Enakorin
 

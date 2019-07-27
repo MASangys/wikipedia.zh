@@ -1,5 +1,5 @@
 **《Over Joyed》**是韓國Pop
-Dance組合[SS501主唱](../Page/SS501.md "wikilink")[許永生於](../Page/許永生.md "wikilink")2012年9月19日由B2M
+Dance組合[SS501](../Page/SS501.md "wikilink")主唱[許永生](../Page/許永生.md "wikilink")於2012年9月19日由B2M
 Entertainment企劃，[波麗佳音發行的首張日文正規專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 專輯概要
@@ -10,7 +10,7 @@ Entertainment企劃，[波麗佳音發行的首張日文正規專輯](https://zh
     IT
     GO〉日語版本與2012年5月22日韓國發行之第二張個人EP《[SOLO](../Page/SOLO_\(迷你專輯\).md "wikilink")》由永生親自作詞的主打歌曲〈Crying〉日語版本及〈Hello
     Mello〉日語版本等11首的原創音樂作品\[1\]。並於2012年8月17日起進行預購，分為初回限定盤、普通盤雙版本，專輯封面皆是以近似曝光的色調呈現鮮豔具有POP藝術的設計風格。另9月12日於Recochoku公開主打歌曲「1.2.3」來電答鈴\[2\]。
-  - 主打歌曲「1.2.3」是首能令人感到興奮地肆無忌憚玩樂的搖滾曲風，由曾與[SE7EN](https://zh.wikipedia.org/wiki/SE7EN "wikilink")、[KAT-TUN](../Page/KAT-TUN.md "wikilink")、[土屋安娜等日韓歌手合作的美國作曲家ANTHONY](../Page/土屋安娜.md "wikilink")
+  - 主打歌曲「1.2.3」是首能令人感到興奮地肆無忌憚玩樂的搖滾曲風，由曾與[SE7EN](https://zh.wikipedia.org/wiki/SE7EN "wikilink")、[KAT-TUN](../Page/KAT-TUN.md "wikilink")、[土屋安娜](../Page/土屋安娜.md "wikilink")等日韓歌手合作的美國作曲家ANTHONY
     MAZZA與同來自美國的清新創作女生Shida
     kaviani及日本知名作詞家松井五郎共同製作的歌曲。歌詞以「從現在開始one、感受two、跳起來three」帶出接續的歌詞意境且也巧妙地交代歌名來由，更演唱出「over
     joyed（欣喜若狂） 」歌詞間接呈現出此張專輯的概念，再由永生具有壓到性的魅力唱腔演繹歌曲完整了全曲所帶給人的搖滾風格。

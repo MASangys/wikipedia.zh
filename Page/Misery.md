@@ -2,7 +2,7 @@
 
 《**Misery**》是一首[披头士乐队的歌曲](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，收录于首张专辑《[Please
 Please
-Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》中，由[约翰·列侬和](../Page/约翰·列侬.md "wikilink")[保罗·麦卡特尼共同创作](../Page/保罗·麦卡特尼.md "wikilink")。据列侬说：“这首歌相较于一首保罗歌，更像是一首列侬歌，但这是我们一起写的。”麦卡特尼说：“我不认为我们俩中的一个支配了那首，只是合作的结果。”
+Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》中，由[约翰·列侬](../Page/约翰·列侬.md "wikilink")和[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")共同创作。据列侬说：“这首歌相较于一首保罗歌，更像是一首列侬歌，但这是我们一起写的。”麦卡特尼说：“我不认为我们俩中的一个支配了那首，只是合作的结果。”
 
 在1963年翻唱了这首歌并发行了单曲，使《Misery》成为了披头士第一首被其他音乐人翻唱的歌。
 

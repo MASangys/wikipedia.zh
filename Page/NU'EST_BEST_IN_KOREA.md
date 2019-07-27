@@ -1,5 +1,5 @@
 《**NU'EST BEST IN
-KOREA**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST的首張日本精選輯](../Page/NU'EST.md "wikilink")，於2014年7月30日推出，收錄15首他們在韓國的精選歌曲\[1\]。
+KOREA**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")的首張日本精選輯，於2014年7月30日推出，收錄15首他們在韓國的精選歌曲\[1\]。
 
 ## 背景
 
@@ -18,7 +18,7 @@ KOREA**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置    | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置    | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | ------- | ----- | ------ | ---- |
 | 專輯日榜                                     | 7       | \-    | 5,351+ | 4星期  |
 | 專輯週榜                                     | 13\[7\] | 5,351 |        |      |

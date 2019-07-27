@@ -1,5 +1,5 @@
 **三星Galaxy J**
-一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子所生產的一款建構於](../Page/三星電子.md "wikilink")[安卓平台的高階](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，J代表日系的意思，分別在[日本和](../Page/日本.md "wikilink")[台灣推出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[1\]俗稱為日版三星Galaxy
+一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")所生產的一款建構於[安卓平台的高階](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，J代表日系的意思，分別在[日本](../Page/日本.md "wikilink")和[台灣推出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[1\]俗稱為日版三星Galaxy
 S4。\[2\]
 
 日本版型號：SC-02F，台灣型號：SGH-N075T

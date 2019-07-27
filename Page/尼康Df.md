@@ -1,5 +1,5 @@
 **尼康Df**（**Nikon
-Df**）是[日本](../Page/日本.md "wikilink")[相機製造廠](https://zh.wikipedia.org/wiki/相機 "wikilink")[尼康於](../Page/尼康.md "wikilink")2013年发布的[数码单反相机](https://zh.wikipedia.org/wiki/数码单反相机 "wikilink")。其外觀走傳統風，操作轉盤仿機械式相機，並附有古典風格機身皮套。「Df」的D代表Digital，f代表fusion，意思為數位與傳統的融合。此機為全片幅相機，但不支援錄影功能。
+Df**）是[日本](../Page/日本.md "wikilink")[相機製造廠](https://zh.wikipedia.org/wiki/相機 "wikilink")[尼康](../Page/尼康.md "wikilink")於2013年发布的[数码单反相机](https://zh.wikipedia.org/wiki/数码单反相机 "wikilink")。其外觀走傳統風，操作轉盤仿機械式相機，並附有古典風格機身皮套。「Df」的D代表Digital，f代表fusion，意思為數位與傳統的融合。此機為全片幅相機，但不支援錄影功能。
 
 ## 概述
 
@@ -13,7 +13,7 @@ DF是一台尼康产品序列之外的机型，与传统的单位数字及三位
 
 该机主要配置如下\[2\]：
 
-  - 16mp [全画幅CMOS传感器](../Page/全画幅.md "wikilink")，与D4相同
+  - 16mp [全画幅](../Page/全画幅.md "wikilink")CMOS传感器，与D4相同
   - 感光度 100-25600（可扩展到50-204800）
   - 最大5.5fps连拍
   - 39点对焦，其中9点为十字对焦点（与D610相同）

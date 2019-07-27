@@ -1,4 +1,4 @@
-《**WOW！侯麻吉**》，為[衛視中文台自](../Page/衛視中文台.md "wikilink")2013年首播的談話性[綜藝節目](../Page/綜藝節目.md "wikilink")，由[金星娛樂製作](../Page/金星娛樂.md "wikilink")，[侯佩岑](../Page/侯佩岑.md "wikilink")、[黃立成主持](../Page/黃立成.md "wikilink")。
+《**WOW！侯麻吉**》，為[衛視中文台](../Page/衛視中文台.md "wikilink")自2013年首播的談話性[綜藝節目](../Page/綜藝節目.md "wikilink")，由[金星娛樂](../Page/金星娛樂.md "wikilink")製作，[侯佩岑](../Page/侯佩岑.md "wikilink")、[黃立成](../Page/黃立成.md "wikilink")主持。
 
 ## 歷史
 

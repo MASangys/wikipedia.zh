@@ -1,5 +1,5 @@
 《**ORANGE
-RANGE**》是日本男子音乐组合[橘子新乐园的第四张录音室专辑](../Page/橘子新乐园.md "wikilink")，2006年12月6日由[gr8\!
+RANGE**》是日本男子音乐组合[橘子新乐园](../Page/橘子新乐园.md "wikilink")的第四张录音室专辑，2006年12月6日由[gr8\!
 records在日本发行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
 
 ## 曲目

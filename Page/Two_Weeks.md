@@ -1,5 +1,5 @@
 《**Two
-Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京作家執筆](../Page/蘇賢京.md "wikilink")，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫導演執導](../Page/孫亨錫.md "wikilink")。講述了被誣陷為殺人犯的男子（[李準基飾演](../Page/李準基.md "wikilink")）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
+Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京](../Page/蘇賢京.md "wikilink")作家執筆，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫](../Page/孫亨錫.md "wikilink")導演執導。講述了被誣陷為殺人犯的男子（[李準基](../Page/李準基.md "wikilink")飾演）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
 
 ## 演出陣容
 

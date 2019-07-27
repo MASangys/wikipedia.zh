@@ -4,13 +4,13 @@ Entertainment發售](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilin
 
 ## 概要
 
-  - 這次專輯收錄了TV動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》兩首片頭曲「sister's
+  - 這次專輯收錄了TV動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S》兩首片頭曲「sister's
     noise」、「eternal
     reality」，以及TV動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲「black
     bullet」等共十三首歌曲。\[1\]
   - 專輯分為Blu-ray初回限定盤（GNCA-1415）、DVD初回限定盤（GNCA-1416）及通常盤（GNCA-1417）3種版本。
   - Blu-ray及DVD初回限定盤附收錄有《infinite synthesis》PV的DVD。
-  - 於9月16日[Oricon週間排名取得第三名佳績](../Page/Oricon.md "wikilink")，比第一張專輯《[infinite
+  - 於9月16日[Oricon](../Page/Oricon.md "wikilink")週間排名取得第三名佳績，比第一張專輯《[infinite
     synthesis](https://zh.wikipedia.org/wiki/infinite_synthesis "wikilink")》的排名第八名提高了不少。
 
 ## 收錄歌曲
@@ -22,7 +22,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilin
 1.  **sister's noise**（4:22）
       -
         作詞、作曲、編曲：八木沼悟志
-        TV動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片頭曲
+        TV動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S》片頭曲
 2.  **infinite synthesis**（6:54）
       -
         作詞、作曲、編曲：八木沼悟志
@@ -43,7 +43,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilin
 7.  **eternal reality**（3:52）
       -
         作詞：八木沼悟志，作曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、八木沼悟志，編曲：八木沼悟志
-        TV動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片頭曲2
+        TV動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S》片頭曲2
 8.  **black bullet**（4:24）
       -
         作詞、作曲、編曲：八木沼悟志

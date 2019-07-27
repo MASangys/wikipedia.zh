@@ -1,5 +1,5 @@
 《**Sweet
-Answer**》（），是[日本](../Page/日本.md "wikilink")[NHK教育頻道的](../Page/NHK教育頻道.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。每集节目由三、四名參賽者组成小队，挑战各种有趣任务。任务非常多元化，例如嘗試克服[鬼屋的恐惧](../Page/鬼屋.md "wikilink")、練習长时间跪坐而两腿不发麻和[保龄球一击全中等](https://zh.wikipedia.org/wiki/保龄球 "wikilink")。
+Answer**》（），是[日本](../Page/日本.md "wikilink")[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")的[綜藝節目](../Page/綜藝節目.md "wikilink")。每集节目由三、四名參賽者组成小队，挑战各种有趣任务。任务非常多元化，例如嘗試克服[鬼屋](../Page/鬼屋.md "wikilink")的恐惧、練習长时间跪坐而两腿不发麻和[保龄球一击全中等](https://zh.wikipedia.org/wiki/保龄球 "wikilink")。
 
 ## 演出者
 
@@ -19,7 +19,7 @@ Answer**》（），是[日本](../Page/日本.md "wikilink")[NHK教育頻道的
 
 ### Sweet Answer Girls
 
-2010年3月23日播出的《春之大感謝祭\!特輯》（春の大感謝祭\!Special）是[AKB48最後一次參與此節目](../Page/AKB48.md "wikilink")。同月30日播出的新一輯節目則開始由「Sweet
+2010年3月23日播出的《春之大感謝祭\!特輯》（春の大感謝祭\!Special）是[AKB48](../Page/AKB48.md "wikilink")最後一次參與此節目。同月30日播出的新一輯節目則開始由「Sweet
 Answer Girls」（），簡稱「Sweet Girls」（）負責擔任解決疑問的VTR報告員。
 
 <div style="float:left; vertical-align:top; white-space:nowrap; margin-right:1em">

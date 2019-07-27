@@ -1,13 +1,13 @@
 **WISEPA J164715.59+563208.2**（编号可缩写为**WISE 1647+5632**或**WISE
 J1647+5632**）是一颗[光谱分类为L](https://zh.wikipedia.org/wiki/恒星分类 "wikilink")9
-pec（红）的[棕矮星](../Page/棕矮星.md "wikilink")，\[1\]位于[天龙座中](../Page/天龙座.md "wikilink")，距离地球大约28[光年](../Page/光年.md "wikilink")。\[2\]
+pec（红）的[棕矮星](../Page/棕矮星.md "wikilink")，\[1\]位于[天龙座](../Page/天龙座.md "wikilink")中，距离地球大约28[光年](../Page/光年.md "wikilink")。\[2\]
 
 ## 发现
 
 **WISE
 1647+5632**是于2011年由[J·大卫·柯克帕特里克](https://zh.wikipedia.org/wiki/J·大卫·柯克帕特里克 "wikilink")（J.
 Davy
-Kirkpatrick）等人从[廣域紅外線巡天探測衛星](../Page/廣域紅外線巡天探測衛星.md "wikilink")（WISE）收集的数据中发现的。该卫星是美国宇航局发射的40厘米波长红外线[太空望远镜](https://zh.wikipedia.org/wiki/空间望远镜#太空天文台 "wikilink")，环绕地球飞行，它的任务从2009年12月直到2011年2月。2011年，柯克帕特里克等人在[天文期刊增刊上发表论文](../Page/天文期刊.md "wikilink")，当时他们宣布发现了98个WISE观测到的[棕矮星](../Page/棕矮星.md "wikilink")，其中恒星的光谱分类有M、L、T和Y，其中一颗就是WISE
+Kirkpatrick）等人从[廣域紅外線巡天探測衛星](../Page/廣域紅外線巡天探測衛星.md "wikilink")（WISE）收集的数据中发现的。该卫星是美国宇航局发射的40厘米波长红外线[太空望远镜](https://zh.wikipedia.org/wiki/空间望远镜#太空天文台 "wikilink")，环绕地球飞行，它的任务从2009年12月直到2011年2月。2011年，柯克帕特里克等人在[天文期刊](../Page/天文期刊.md "wikilink")增刊上发表论文，当时他们宣布发现了98个WISE观测到的[棕矮星](../Page/棕矮星.md "wikilink")，其中恒星的光谱分类有M、L、T和Y，其中一颗就是WISE
 1647+5632。\[3\]\[4\]
 
 ## 距离

@@ -1,10 +1,10 @@
 **Faith**是2014年3月經紀公司Wode
-Creative於[香港出道的跳唱少年組合](../Page/香港.md "wikilink")，出道時由HiuYong、Wave、Sky組成，現由River
+Creative於[香港](../Page/香港.md "wikilink")出道的跳唱少年組合，出道時由HiuYong、Wave、Sky組成，現由River
 solo。FAITH的歌迷稱為「Black Diamond」。
 
 ## 簡介
 
-Faith的成員均為90後\[1\]，最初經紀公司只簽下就讀於[香港大學附屬學院的浩揚一人](../Page/香港大學附屬學院.md "wikilink")，打算將他打造為公司第一位藝人，但後來考慮到浩揚的台風不足，故加入Wave及還在就讀中學的Sky二人。
+Faith的成員均為90後\[1\]，最初經紀公司只簽下就讀於[香港大學附屬學院](../Page/香港大學附屬學院.md "wikilink")的浩揚一人，打算將他打造為公司第一位藝人，但後來考慮到浩揚的台風不足，故加入Wave及還在就讀中學的Sky二人。
 
 ### 過往成員
 
@@ -36,9 +36,9 @@ Faith的成員均為90後\[1\]，最初經紀公司只簽下就讀於[香港大�
 Faith與同年出道的[BOP被批評為](../Page/BOP_\(組合\).md "wikilink")「[MK
 POP](https://zh.wikipedia.org/wiki/MK_POP "wikilink")」，音樂錄影帶製作粗濫。\[2\]
 
-2015年5月8日，Faith於[聖母玫瑰書院作表演嘉賓](../Page/聖母玫瑰書院.md "wikilink")，並公佈新成員Dawn和River，作出4人的首次公開表演（當日Wave並沒有出席表演），並表示Faith日後以四人組合活動。但成員之一的Wave於其個人Instagram表示對當天表演及新成員加入並不知情。
+2015年5月8日，Faith於[聖母玫瑰書院](../Page/聖母玫瑰書院.md "wikilink")作表演嘉賓，並公佈新成員Dawn和River，作出4人的首次公開表演（當日Wave並沒有出席表演），並表示Faith日後以四人組合活動。但成員之一的Wave於其個人Instagram表示對當天表演及新成員加入並不知情。
 
-2015年5月9日，Faith的官方[Facebook由原成員三人合照改為加入了新成員的四人合照](../Page/Facebook.md "wikilink")，並發表了成員變動的公告，表示成員Wave因私下工作而無法兼顧
+2015年5月9日，Faith的官方[Facebook](../Page/Facebook.md "wikilink")由原成員三人合照改為加入了新成員的四人合照，並發表了成員變動的公告，表示成員Wave因私下工作而無法兼顧
 FAITH
 的練歌、排舞、表演、錄音等工作，而暫停其於Faith當中成員角色，但其官方說法令人質疑;而Faith則會以四人組合繼續活動。\[3\]
 
@@ -77,7 +77,7 @@ FAITH
 ## 活動
 
   - 2014年8月25日，FAITH 「飯聚玩唱會」。
-  - 2015年5月8日，首次以4人組合形式（成員Wave沒有參與）參與由[聖母玫瑰書院舉辦的校內歌唱比賽作表演嘉賓](../Page/聖母玫瑰書院.md "wikilink")。
+  - 2015年5月8日，首次以4人組合形式（成員Wave沒有參與）參與由[聖母玫瑰書院](../Page/聖母玫瑰書院.md "wikilink")舉辦的校內歌唱比賽作表演嘉賓。
   - 2019年5月2日，Michael重返FAITH。
 
 ## 派台歌曲成績

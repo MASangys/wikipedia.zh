@@ -28,7 +28,7 @@ professional**公司。
 **善美（環球）有限公司**（Semi-Tech (Global) Company
 Limited）\[7\]收購赤井電機後，將「Akai」品牌命名中文「雅佳」，並於1999年7月29日易名**雅佳控股有限公司**（Akai
 Holdings
-Limited）\[8\]\[9\]，象徵居該品牌的主導地位；終因[亞洲金融風暴波及而爆出帳目不實](https://zh.wikipedia.org/wiki/亞洲金融風暴 "wikilink")、鉅額虧損\[10\]，在2000年8月被強制[清盤](../Page/清盤.md "wikilink")\[11\]，「Akai」（雅佳）相關子公司與[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")、[特許權轉讓給](https://zh.wikipedia.org/wiki/特許權 "wikilink")[嘉域集團](https://zh.wikipedia.org/wiki/嘉域集團 "wikilink")。
+Limited）\[8\]\[9\]，象徵居該品牌的主導地位；終因[亞洲金融風暴](../Page/亞洲金融風暴.md "wikilink")波及而爆出帳目不實、鉅額虧損\[10\]，在2000年8月被強制[清盤](../Page/清盤.md "wikilink")\[11\]，「Akai」（雅佳）相關子公司與[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")、[特許權轉讓給](https://zh.wikipedia.org/wiki/特許權 "wikilink")[嘉域集團](https://zh.wikipedia.org/wiki/嘉域集團 "wikilink")。
 
 嘉域集團持有其商標、特許權\[12\]，採行「國際品牌」（實為「品牌傘＝umbrella
 brands」）策略，[授權他廠冠名生產](https://zh.wikipedia.org/wiki/授權 "wikilink")、銷售同品牌電器用品，但並非香港嘉域或日本赤井的關係企業。

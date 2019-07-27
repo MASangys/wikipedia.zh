@@ -97,7 +97,7 @@ ActionScript 3 Eval Library\[2\] 和 D.eval API\[3\] 是进行中的用以在 Ac
 [Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink") 是首先使用 `eval`
 函数的语言。事实上，对 `eval` 函数的定义导致了该语言解释器的最初的实施。\[4\]在 `eval`
 函数被定义之前，Lisp
-函数只是手动被编译成[汇编语言语句](../Page/汇编语言.md "wikilink")。然而，一旦
+函数只是手动被编译成[汇编语言](../Page/汇编语言.md "wikilink")语句。然而，一旦
 `eval` 函数被手动编译，它随后就被用于组成第一个 Lisp
 解释器的基础的[Read–eval–print循环的一部分](https://zh.wikipedia.org/wiki/Read–eval–print循环 "wikilink")。
 
@@ -181,7 +181,7 @@ eval('$foo += 2; print "$foo\n";');
 `eval` 原本的目的，而且在赋值的情况下，有可能引起句法错误。)
 
 [Perl](../Page/Perl.md "wikilink") 也有 `eval`
-*块*，作为它的[异常处理机制](../Page/异常处理.md "wikilink")。这与上述对
+*块*，作为它的[异常处理](../Page/异常处理.md "wikilink")机制。这与上述对
 `eval` 传入字符串的用法不同，在于 `eval` 内的代码在编译时而不是运行时解释，所以它不是本文中使用的 `eval` 的含义。
 
 ## PHP

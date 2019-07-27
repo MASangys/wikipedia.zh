@@ -1,6 +1,6 @@
 **AKB-級美食家運動場**（）是由[Sky
 PerfecTV\!頻道](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")[食と旅のフーディーズTV所播放](https://zh.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")、[IMAGICA
-TV制作的](https://zh.wikipedia.org/wiki/IMAGICA_TV "wikilink")[高清制作节目](../Page/高清制作.md "wikilink")。
+TV制作的](https://zh.wikipedia.org/wiki/IMAGICA_TV "wikilink")[高清制作](../Page/高清制作.md "wikilink")节目。
 
 ## 播放内容
 

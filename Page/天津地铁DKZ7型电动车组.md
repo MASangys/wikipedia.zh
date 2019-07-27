@@ -1,4 +1,4 @@
-**天津地铁DKZ7型电动车组**是[天津地铁的](../Page/天津地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[9号线运营](../Page/天津地铁9号线.md "wikilink")。
+**天津地铁DKZ7型电动车组**是[天津地铁](../Page/天津地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[9号线运营](../Page/天津地铁9号线.md "wikilink")。
 
 ## 简介
 

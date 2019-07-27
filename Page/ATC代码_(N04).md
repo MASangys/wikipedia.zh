@@ -23,7 +23,7 @@
     N04AA12
     [曲帕替平](https://zh.wikipedia.org/wiki/曲帕替平 "wikilink")（Tropatepine）
 
-### N04AB 化学与[抗组胺药近似的](https://zh.wikipedia.org/wiki/抗组胺药 "wikilink")[醚类](../Page/醚.md "wikilink")（Ethers chemically close to antihistamines）
+### N04AB 化学与[抗组胺药近似的](https://zh.wikipedia.org/wiki/抗组胺药 "wikilink")[醚](../Page/醚.md "wikilink")类（Ethers chemically close to antihistamines）
 
   -
     N04AB01
@@ -32,7 +32,7 @@
     [盐酸奥芬那君](https://zh.wikipedia.org/wiki/盐酸奥芬那君 "wikilink")（Orphenadrine
     (chloride)）
 
-### N04AC [托品醚类或衍生物类](../Page/托品.md "wikilink")（Ethers of tropine or tropine derivatives）
+### N04AC [托品](../Page/托品.md "wikilink")醚类或衍生物类（Ethers of tropine or tropine derivatives）
 
   -
     N04AC01
@@ -60,7 +60,7 @@
     [乙基左旋多巴](https://zh.wikipedia.org/wiki/乙基左旋多巴 "wikilink")（Etilevodopa
     and decarboxylase inhibitor）
 
-### N04BB [金刚烷胺衍生物](../Page/金刚烷胺.md "wikilink")（Adamantane derivatives）
+### N04BB [金刚烷胺](../Page/金刚烷胺.md "wikilink")衍生物（Adamantane derivatives）
 
   -
     N04BB01 [金刚烷胺](../Page/金刚烷胺.md "wikilink")（Amantadine）

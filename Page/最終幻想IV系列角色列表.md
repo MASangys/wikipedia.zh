@@ -1,6 +1,6 @@
 [Characters_of_Final_Fantasy_IV.jpg](https://zh.wikipedia.org/wiki/File:Characters_of_Final_Fantasy_IV.jpg "fig:Characters_of_Final_Fantasy_IV.jpg")
 
-**最終幻想IV系列角色列表**列出了[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》中的登場角色。由[史克威爾](../Page/史克威爾.md "wikilink")（現[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）發行的[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")《最終幻想IV》大量的人物設計為[天野喜孝負責](../Page/天野喜孝.md "wikilink")。《最終幻想IV》發布於1991年，後來被移植到多個平台。在2007年，Square
+**最終幻想IV系列角色列表**列出了[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》中的登場角色。由[史克威爾](../Page/史克威爾.md "wikilink")（現[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）發行的[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")《最終幻想IV》大量的人物設計為[天野喜孝](../Page/天野喜孝.md "wikilink")負責。《最終幻想IV》發布於1991年，後來被移植到多個平台。在2007年，Square
 Enix公司發布了添加日語和英語配音版本的《[最終幻想IV
 3D重製版](../Page/最終幻想IV_\(任天堂DS\).md "wikilink")》。
 
@@ -9,7 +9,7 @@ Enix公司發布了添加日語和英語配音版本的《[最終幻想IV
 
 ## 概念和創作
 
-根據《最終幻想IV》首席設計師時田貴司表示，《最終幻想IV》是日本的第一個有著「深度的角色」的角色扮演遊戲\[1\]。[超級任天堂的圖像顯示能力足以使天野喜孝來創造比以前發布的紅白機遊戲更複雜的設計](../Page/超級任天堂.md "wikilink")。時田說雖然他缺乏經驗，影響了故事，但人物的性格和角色的故事卻更吸引人\[2\]。時田也指出了各種有助於吸引更多人潮的角色，說明隊伍努力使人物融入故事，和所有反面的東西在當時日本的媒體中，是很難做到的\[3\]。對於任天堂DS的重製，人物處理由愛理吉岡負責。《最終幻想IV
+根據《最終幻想IV》首席設計師時田貴司表示，《最終幻想IV》是日本的第一個有著「深度的角色」的角色扮演遊戲\[1\]。[超級任天堂](../Page/超級任天堂.md "wikilink")的圖像顯示能力足以使天野喜孝來創造比以前發布的紅白機遊戲更複雜的設計。時田說雖然他缺乏經驗，影響了故事，但人物的性格和角色的故事卻更吸引人\[2\]。時田也指出了各種有助於吸引更多人潮的角色，說明隊伍努力使人物融入故事，和所有反面的東西在當時日本的媒體中，是很難做到的\[3\]。對於任天堂DS的重製，人物處理由愛理吉岡負責。《最終幻想IV
 The After -月之歸還-》的人物所設計為小黒晃\[4\]。
 
 時田說DS重製版加入的聲優是為了「足以更戲劇性的本地化」\[5\]。此外加入聲優後就不得不改變原來的劇本人物的嘴的動作，以便他們配合各情景說的台詞\[6\]
@@ -31,7 +31,7 @@ Lowenthal。
 在《Dissidia Final Fantasy Opera
 Omnia》手遊中分成\[聖騎士賽希爾\]與\[黑暗騎士賽希爾\]兩隻角色，兩隻角色各自穿著自己的專用武器防具，能力也各自獨立。\[聖騎士賽希爾\]並不像原作有特殊能力會\[袒護\]（かばう）會袒護隊友，\[黑暗騎士賽希爾\]卻保留了原作的特殊能力\[暗黑\]（あんこく），**這兩隻角色是無法同時出戰的**。
 
-在[GamesRadar](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")，賽希爾被列為擁有[最終幻想系列中最好的英雄特質](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")\[10\]\[11\]。[GameSpot和](../Page/GameSpot.md "wikilink")[IGN都表示](../Page/IGN.md "wikilink")，「拋下」很有趣，避免常見的俗套\[12\]。另一方面，RPGamer的邁克爾·貝克特覺得他是個討人喜歡的主角，邁克爾覺得最重要的是「已被複製了這麼多其他職稱的類型」，專指向賽希爾與蘿莎的個性，他們已被呈現出了俗套\[13\]。
+在[GamesRadar](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")，賽希爾被列為擁有[最終幻想系列中最好的英雄特質](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")\[10\]\[11\]。[GameSpot](../Page/GameSpot.md "wikilink")和[IGN](../Page/IGN.md "wikilink")都表示，「拋下」很有趣，避免常見的俗套\[12\]。另一方面，RPGamer的邁克爾·貝克特覺得他是個討人喜歡的主角，邁克爾覺得最重要的是「已被複製了這麼多其他職稱的類型」，專指向賽希爾與蘿莎的個性，他們已被呈現出了俗套\[13\]。
 
 ### 蘿紗·法雷爾
 
@@ -46,7 +46,7 @@ Omnia》手遊中分成\[聖騎士賽希爾\]與\[黑暗騎士賽希爾\]兩隻�
 年齡：21歲、身高：183公分、61公斤、慣用手：左。
 
 在《[最終幻想
-紛爭012](https://zh.wikipedia.org/wiki/最終幻想_紛爭012 "wikilink")》中作為一個可玩的角色，作為製作人[野村哲也希望他加入這格鬥遊戲](../Page/野村哲也.md "wikilink")\[14\]。日本聲優為[山寺宏一](../Page/山寺宏一.md "wikilink")（紛爭012）、英文版則為Liam
+紛爭012](https://zh.wikipedia.org/wiki/最終幻想_紛爭012 "wikilink")》中作為一個可玩的角色，作為製作人[野村哲也](../Page/野村哲也.md "wikilink")希望他加入這格鬥遊戲\[14\]。日本聲優為[山寺宏一](../Page/山寺宏一.md "wikilink")（紛爭012）、英文版則為Liam
 O'Brien。
 
 ### 莉迪亞
@@ -135,11 +135,11 @@ O'Brien。
 
 ### 魯蓋博士
 
-，戈爾貝札旗下瘋狂科學家，能將人改造成魔物。在巴貝爾之塔派出稱呼為「兒子」的[巴拿巴上前對付賽希爾一夥](../Page/巴拿巴.md "wikilink")，敗陣後自身突變為怪物並親自上陣，最後仍被擊敗。
+，戈爾貝札旗下瘋狂科學家，能將人改造成魔物。在巴貝爾之塔派出稱呼為「兒子」的[巴拿巴](../Page/巴拿巴.md "wikilink")上前對付賽希爾一夥，敗陣後自身突變為怪物並親自上陣，最後仍被擊敗。
 
 ### 梅葛斯三姊妹
 
-，波瓦莉希亞手下。會利用魔法反射來發動「三角攻擊」。命名由來取自[夢野久作的小說](../Page/夢野久作.md "wikilink")《[腦髓地獄](../Page/腦髓地獄.md "wikilink")》。最後敗給了賽希爾一夥。
+，波瓦莉希亞手下。會利用魔法反射來發動「三角攻擊」。命名由來取自[夢野久作](../Page/夢野久作.md "wikilink")的小說《[腦髓地獄](../Page/腦髓地獄.md "wikilink")》。最後敗給了賽希爾一夥。
 
 三姊妹分別為、、。
 
@@ -164,7 +164,7 @@ O'Brien。
 ## 評價
 
 《最終幻想IV》的推出後一直深受好評。GameTrailers表示，遊戲首次發布時，人物超越了常見的RPG常規，主要人物之間的關係仍然會娛樂十年過後的玩家\[15\]。Dragon評論家桑迪·彼得森說，這為每個人物在遊戲情節中明顯表現出他們的動機\[16\]。RPGFan的馬特·里克特一直稱讚多人物其多樣的獨特性質\[17\]。Greg
-Kasavin和[GameSpot也有類似的意見並表示讚賞](../Page/GameSpot.md "wikilink")，不像其他RPG遊戲主角，賽希爾在遊戲中是一名經驗豐富的戰士，並已建立了牢固的關係\[18\]。Micky和GamePlanet的Gunn一樣，由於各人物的專長，玩家有機會在遊戲中玩到各種各樣的舉動\[19\]
+Kasavin和[GameSpot](../Page/GameSpot.md "wikilink")也有類似的意見並表示讚賞，不像其他RPG遊戲主角，賽希爾在遊戲中是一名經驗豐富的戰士，並已建立了牢固的關係\[18\]。Micky和GamePlanet的Gunn一樣，由於各人物的專長，玩家有機會在遊戲中玩到各種各樣的舉動\[19\]
 。
 
 任天堂DS重製的設計叫好不叫座，由GameSpy的Elisa Di Fiore

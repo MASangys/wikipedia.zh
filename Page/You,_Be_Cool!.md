@@ -1,5 +1,5 @@
 **You, Be
-Cool\!**是[日本](../Page/日本.md "wikilink")[國王唱片旗下的](../Page/國王唱片.md "wikilink")[唱片品牌](https://zh.wikipedia.org/wiki/唱片品牌 "wikilink")，媒體常以「**You,
+Cool\!**是[日本](../Page/日本.md "wikilink")[國王唱片](../Page/國王唱片.md "wikilink")旗下的[唱片品牌](https://zh.wikipedia.org/wiki/唱片品牌 "wikilink")，媒體常以「**You,
 Be Cool\!/KING RECORDS**」或「**King Records**」來表示。
 
 ## 概要

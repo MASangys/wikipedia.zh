@@ -1,4 +1,4 @@
-《**我需要你**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K.Will第五張大碟](https://zh.wikipedia.org/wiki/K.Will "wikilink")，第三張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2012年2月14日由[STARSHIP娛樂製作發行](../Page/STARSHIP娛樂.md "wikilink")\[1\]。EP包括了7首歌，並以EP同名歌曲《我需要你》作主打單曲。
+《**我需要你**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K.Will第五張大碟](https://zh.wikipedia.org/wiki/K.Will "wikilink")，第三張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2012年2月14日由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")製作發行\[1\]。EP包括了7首歌，並以EP同名歌曲《我需要你》作主打單曲。
 
 EP出版時，由於印刷錯誤，令原有印製的20000張大碟需要丟棄，市面上因而缺貨，STARSHIP娛樂為此對歌迷表示抱歉\[2\]。
 

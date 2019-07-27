@@ -1,5 +1,5 @@
 《**Imperfect
-Collection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪於](../Page/周柏豪.md "wikilink")2012年12月18日發行\[1\]的第二張個人新曲加精選專輯，收錄三首新歌，當中包括他第一主打《斬立決》、第二主打《無力挽回》、第三主打《Imperfect》。
+Collection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪](../Page/周柏豪.md "wikilink")於2012年12月18日發行\[1\]的第二張個人新曲加精選專輯，收錄三首新歌，當中包括他第一主打《斬立決》、第二主打《無力挽回》、第三主打《Imperfect》。
 
 ## 曲目
 

@@ -1,5 +1,5 @@
-**Atom**是由[GitHub開發的](../Page/GitHub.md "wikilink")[自由及开放源代码的](../Page/自由及开放源代码软件.md "wikilink")[文字與程式碼編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")\[1\]\[2\]，支援[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux作業系統](../Page/Linux.md "wikilink")\[3\]，支援[Node.js所寫的外掛程式](../Page/Node.js.md "wikilink")\[4\]，並內建由[Github提供的](../Page/GitHub.md "wikilink")[Git版本控制系統](../Page/Git.md "wikilink")。多數的延伸套件皆為開放原始碼授權，並由社群建置與維護\[5\]。Atom基於使用[Chromium和Node](../Page/Chromium.md "wikilink").js的跨平台应用框架[Electron](../Page/Electron.md "wikilink")（最初名为Atom
-Shell），并使用[CoffeeScript和](../Page/CoffeeScript.md "wikilink")[Less撰寫](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")\[6\]。Atom也可當作[IDE使用](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")\[7\]\[8\]\[9\]。被它的开发者称为“21
+**Atom**是由[GitHub](../Page/GitHub.md "wikilink")開發的[自由及开放源代码的](../Page/自由及开放源代码软件.md "wikilink")[文字與程式碼編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")\[1\]\[2\]，支持[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")作業系統\[3\]，支援[Node.js](../Page/Node.js.md "wikilink")所寫的外掛程式\[4\]，並內建由[Github提供的](../Page/GitHub.md "wikilink")[Git](../Page/Git.md "wikilink")版本控制系統。多數的延伸套件皆為開放原始碼授權，並由社群建置與維護\[5\]。Atom基於使用[Chromium](../Page/Chromium.md "wikilink")和Node.js的跨平台应用框架[Electron](../Page/Electron.md "wikilink")（最初名为Atom
+Shell），并使用[CoffeeScript](../Page/CoffeeScript.md "wikilink")和[Less撰寫](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")\[6\]。Atom也可當作[IDE使用](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")\[7\]\[8\]\[9\]。被它的开发者称为“21
 世纪的“黑客”文本编辑器（hackable text editor for the 21st
 Century）”。\[10\]自2014年5月6日起，Atom的核心程式、套件管理器以及Atom基於Chromium的桌面程式框架皆使用[MIT授權條款釋出](https://zh.wikipedia.org/wiki/MIT授權條款 "wikilink")\[11\]\[12\]。
 
@@ -20,7 +20,7 @@ Atom拥有较为丰富的插件，目前官网仓库中已有7149个功能插件
 
 ## 许可证
 
-最初，Atom的外挂程序和其他非核心部件是基于开源许可证发布的。在2014年5月6日，Atom核心应用、外挂管理以及它的桌面框架开始以[自由及开放源代码软件基于](../Page/自由及开放源代码软件.md "wikilink")[MIT许可证发布](../Page/MIT許可證.md "wikilink")。\[15\]
+最初，Atom的外挂程序和其他非核心部件是基于开源许可证发布的。在2014年5月6日，Atom核心应用、外挂管理以及它的桌面框架开始以[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")基于[MIT许可证发布](../Page/MIT許可證.md "wikilink")。\[15\]
 
 ## 参见
 

@@ -1,5 +1,5 @@
 **OpenFeint**（原名**Aurora
-Feint**）\[1\]，是一個在[Android和](../Page/Android.md "wikilink")[iOS平台上的](https://zh.wikipedia.org/wiki/iOS "wikilink")[手機遊戲運行的](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")，主要競爭对手有[Game
+Feint**）\[1\]，是一個在[Android](../Page/Android.md "wikilink")和[iOS平台上的](https://zh.wikipedia.org/wiki/iOS "wikilink")[手機遊戲運行的](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")，主要競爭对手有[Game
 Center](../Page/Game_Center.md "wikilink")。使用者可將遊戲進度上傳至平台中，解鎖各個成就，或使用排行榜互相比較成績等。該平台的軟體以[軟體開發套件的形式釋出](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，開發者可以自行將此功能加入自己開發的遊戲內。\[2\]
 
 OpenFeint於2012年12月14日被整合進[GREE平台中](https://zh.wikipedia.org/wiki/GREE平台 "wikilink")，不再被支援。\[3\]
@@ -15,10 +15,10 @@ Game
 Channel獨立的[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。直到2010年1月，[App
 Store上已有超過](../Page/App_Store_\(iOS\).md "wikilink")900個應用程式內建OpenFeint、一千萬個使用者使用該平台。\[7\]同年9月，OpenFeint團隊發出公告將會支援Android系統。
 
-2011年，OpenFeint在集體訴訟中被指控違反合同、侵犯隱私、電腦詐騙及違反其他八項規定，但此訴訟後被自行撤銷。\[8\]2011年4月22日，[日本遊戲公司](../Page/日本.md "wikilink")[GREE以](https://zh.wikipedia.org/wiki/GREE "wikilink")1.04億美元收購OpenFeint，並將擔任創始人、CEO的Jason
+2011年，OpenFeint在集體訴訟中被指控違反合同、侵犯隱私、電腦詐騙及違反其他八項規定，但此訴訟後被自行撤銷。\[8\]2011年4月22日，[日本](../Page/日本.md "wikilink")遊戲公司[GREE以](https://zh.wikipedia.org/wiki/GREE "wikilink")1.04億美元收購OpenFeint，並將擔任創始人、CEO的Jason
 Citron及OpenFeint團隊留在GREE。
 
-2012年11月16日，GREE宣佈OpenFeint服務支援至同年12月14日，並將併至同公司的[GREE平台中](https://zh.wikipedia.org/wiki/GREE平台 "wikilink")，開發者如果將資料整合進GREE平台，遊戲的成就、排行榜等大部分的資料可以直接整合進去。\[9\]\[10\]如[水果忍者等許多應用程式都於訊息發表過後沒多久發布更新移除程式內OpenFeint服務](../Page/水果忍者.md "wikilink")，此動作將影響超過使用平台的三千款iOS遊戲及將近一千款Android遊戲。\[11\]
+2012年11月16日，GREE宣佈OpenFeint服務支援至同年12月14日，並將併至同公司的[GREE平台中](https://zh.wikipedia.org/wiki/GREE平台 "wikilink")，開發者如果將資料整合進GREE平台，遊戲的成就、排行榜等大部分的資料可以直接整合進去。\[9\]\[10\]如[水果忍者](../Page/水果忍者.md "wikilink")等許多應用程式都於訊息發表過後沒多久發布更新移除程式內OpenFeint服務，此動作將影響超過使用平台的三千款iOS遊戲及將近一千款Android遊戲。\[11\]
 
 ## 曾使用之知名應用程式
 
@@ -39,7 +39,7 @@ Citron及OpenFeint團隊留在GREE。
 ## 參見
 
   - 相似服務包括[Game Center](../Page/Game_Center.md "wikilink")、[Gameloft
-    Live](https://zh.wikipedia.org/wiki/Gameloft_Live "wikilink")、[Scoreloop](https://zh.wikipedia.org/wiki/Scoreloop "wikilink")、[OpenXLive等](../Page/OpenXLive.md "wikilink")。
+    Live](https://zh.wikipedia.org/wiki/Gameloft_Live "wikilink")、[Scoreloop](https://zh.wikipedia.org/wiki/Scoreloop "wikilink")、[OpenXLive](../Page/OpenXLive.md "wikilink")等。
 
 ## 參考資料
 

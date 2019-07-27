@@ -1,5 +1,5 @@
 **Hot
-Space**是英国摇滚乐队[皇后乐队的第十张专辑](../Page/皇后乐队.md "wikilink")。由[皇后乐队](../Page/皇后乐队.md "wikilink")、阿里夫·马尔丁、莱因霍尔德·麦克以及大卫·鲍伊制作，1982年5月由唱片公司[EMI在英国发行](../Page/EMI.md "wikilink")，由唱片公司Elektra在美国发行。\[1\]
+Space**是英国摇滚乐队[皇后乐队](../Page/皇后乐队.md "wikilink")的第十张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")、阿里夫·马尔丁、莱因霍尔德·麦克以及大卫·鲍伊制作，1982年5月由唱片公司[EMI](../Page/EMI.md "wikilink")在英国发行，由唱片公司Elektra在美国发行。\[1\]
 
 ## 曲目列表
 

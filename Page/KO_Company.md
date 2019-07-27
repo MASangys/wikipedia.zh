@@ -1,8 +1,8 @@
-（）是一家位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市北區的](../Page/大阪市.md "wikilink")[男同性戀色情片](../Page/男同性戀色情片.md "wikilink")[製片公司](https://zh.wikipedia.org/wiki/製片公司 "wikilink")。
+（）是一家位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")北區的[男同性戀色情片](../Page/男同性戀色情片.md "wikilink")[製片公司](https://zh.wikipedia.org/wiki/製片公司 "wikilink")。
 
 ## 公司簡介
 
-最早於1994年在[日本](../Page/日本.md "wikilink")[京都成立](../Page/京都.md "wikilink")，是一家拍攝[同性戀向或](../Page/同性戀.md "wikilink")[雙性戀向的](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[色情片製片商](../Page/色情片.md "wikilink")。當時日本[關西地區主要的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[男同性戀色情片包括](../Page/男同性戀色情片.md "wikilink")、等，\[1\]
+最早於1994年在[日本](../Page/日本.md "wikilink")[京都](../Page/京都.md "wikilink")成立，是一家拍攝[同性戀](../Page/同性戀.md "wikilink")向或[雙性戀向的](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[色情片](../Page/色情片.md "wikilink")製片商。當時日本[關西地區主要的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[男同性戀色情片](../Page/男同性戀色情片.md "wikilink")包括、等，\[1\]
 而當時的公司名則是“舞男”（）。
 
 早期的錄像帶系列包括“猛舞男”（）、“嬌舞男”（）和“”，而隨著公司發展又陸續推出了體育會系列等。
@@ -21,7 +21,7 @@
   -
 ### surprise\!
 
-該廠牌所拍攝系列的男主角或是膚色為比較健康的小麥色；或是熱愛衝浪的海邊運動男；又或者是類似[傑尼斯事務所旗下的偶像男生](../Page/傑尼斯事務所.md "wikilink")。
+該廠牌所拍攝系列的男主角或是膚色為比較健康的小麥色；或是熱愛衝浪的海邊運動男；又或者是類似[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的偶像男生。
 
 #### 主要系列
 
@@ -40,7 +40,7 @@
   -
 ### deep
 
-該廠牌拍攝的系列多為[虐恋](../Page/虐恋.md "wikilink")、[露天性爱等相對比較刺激的題材](../Page/露天性爱.md "wikilink")。
+該廠牌拍攝的系列多為[虐恋](../Page/虐恋.md "wikilink")、[露天性爱](../Page/露天性爱.md "wikilink")等相對比較刺激的題材。
 
 #### 主要系列
 
@@ -69,7 +69,7 @@
   -
 ### 狂
 
-該廠牌所攝製的系列主要是[群交或](../Page/群交.md "wikilink")[輪奸題材](https://zh.wikipedia.org/wiki/輪奸 "wikilink")。
+該廠牌所攝製的系列主要是[群交](../Page/群交.md "wikilink")或[輪奸題材](https://zh.wikipedia.org/wiki/輪奸 "wikilink")。
 
 #### 主要系列
 
@@ -95,7 +95,7 @@
   -
 ### TYSON VIDEO
 
-該廠牌主要拍攝演員為[熊或](https://zh.wikipedia.org/wiki/男同性戀者#.E7.B1.BB.E5.9E.8B.E4.BB.A3.E7.A7.B0 "wikilink")[藍領工人的電影](../Page/藍領.md "wikilink")。
+該廠牌主要拍攝演員為[熊或](https://zh.wikipedia.org/wiki/男同性戀者#.E7.B1.BB.E5.9E.8B.E4.BB.A3.E7.A7.B0 "wikilink")[藍領](../Page/藍領.md "wikilink")工人的電影。
 
 #### 主要系列
 

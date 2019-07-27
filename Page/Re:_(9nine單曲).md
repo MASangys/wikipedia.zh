@@ -1,10 +1,10 @@
-《**Re:**》是[日本女子組合](../Page/日本.md "wikilink")[9nine的第](../Page/9nine.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年11月20日由[SME
+《**Re:**》是[日本](../Page/日本.md "wikilink")女子組合[9nine](../Page/9nine.md "wikilink")的第15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年11月20日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
-本單曲被[富士電視台採用為由](../Page/富士電視台.md "wikilink")[堺雅人主演的連續劇](../Page/堺雅人.md "wikilink")《[Legal
-high](https://zh.wikipedia.org/wiki/Legal_high "wikilink")》主題曲\[1\]，並在[Oricon公信榜週榜獲得第六名](../Page/Oricon公信榜.md "wikilink")，是組團以來最高的排名\[2\]。
+本單曲被[富士電視台](../Page/富士電視台.md "wikilink")採用為由[堺雅人](../Page/堺雅人.md "wikilink")主演的連續劇《[Legal
+high](https://zh.wikipedia.org/wiki/Legal_high "wikilink")》主題曲\[1\]，並在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜獲得第六名，是組團以來最高的排名\[2\]。
 
 ## 收錄曲
 

@@ -1,5 +1,5 @@
 《**超級機器人大戰OG ORIGINAL
-GENERATIONS**》（），是[日本遊戲商](../Page/日本.md "wikilink")[萬普在](../Page/萬普.md "wikilink")2007年所發行的[PlayStation
+GENERATIONS**》（），是[日本](../Page/日本.md "wikilink")遊戲商[萬普](../Page/萬普.md "wikilink")在2007年所發行的[PlayStation
 2機型專用](../Page/PlayStation_2.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")，[GBA遊戲](https://zh.wikipedia.org/wiki/GBA "wikilink")《[超級機器人大戰原創世紀](../Page/超級機器人大戰原創世紀.md "wikilink")》和《[超級機器人大戰原創世紀2](../Page/超級機器人大戰原創世紀2.md "wikilink")》的重製版。簡稱「機戰OGs」、「OGs」、「PS2版OG」。
 
 ## 概要
@@ -44,7 +44,7 @@ DC戰爭以地球連邦的勝利作結，但比安博士預言的外星人「侵
 
 （以上為OG1故事簡述）
 
-新西歷187年，「DC戰爭」和「L5戰役」終結的半年後，地球連邦政府的新大總統發表《東京宣言》，對社會大眾公開了地球外知性生命的存在與威脅。隨著連邦軍發佈的《神盾計畫（）》，人型機動兵器被大量的開發與量產。但是內憂外患依然接踵而來：DC殘黨佔據了地球搖籃並重組「新生DC（）」、連邦政府發生政變，連邦軍被徹底排斥外星人的[鷹派掌握](../Page/鷹派.md "wikilink")、另一派外星勢力「監察官（）」侵犯地球圈、從平行世界來追求戰爭的「影鏡（）」與將人類判定為「宇宙不需要的存在」的「原生種（）」也蠢蠢欲動。鋼鐵號與飛龍改四處奔波，保護和平的故事。
+新西歷187年，「DC戰爭」和「L5戰役」終結的半年後，地球連邦政府的新大總統發表《東京宣言》，對社會大眾公開了地球外知性生命的存在與威脅。隨著連邦軍發佈的《神盾計畫（）》，人型機動兵器被大量的開發與量產。但是內憂外患依然接踵而來：DC殘黨佔據了地球搖籃並重組「新生DC（）」、連邦政府發生政變，連邦軍被徹底排斥外星人的[鷹派](../Page/鷹派.md "wikilink")掌握、另一派外星勢力「監察官（）」侵犯地球圈、從平行世界來追求戰爭的「影鏡（）」與將人類判定為「宇宙不需要的存在」的「原生種（）」也蠢蠢欲動。鋼鐵號與飛龍改四處奔波，保護和平的故事。
 
 （以上為OG2故事簡述）
 
@@ -54,7 +54,7 @@ DC戰爭以地球連邦的勝利作結，但比安博士預言的外星人「侵
       - [第2次超級機器人大戰](../Page/第2次超級機器人大戰.md "wikilink")
       - [第3次超級機器人大戰](../Page/第3次超級機器人大戰.md "wikilink")
       - [第4次超級機器人大戰](../Page/第4次超級機器人大戰.md "wikilink")
-      - [超級機器人大戰F／完結編](../Page/超級機器人大戰F.md "wikilink")
+      - [超級機器人大戰F](../Page/超級機器人大戰F.md "wikilink")／完結編
   - α系列
       - [超級機器人大戰α](../Page/超級機器人大戰α.md "wikilink")
       - [超級機器人大戰α外傳](../Page/超級機器人大戰α外傳.md "wikilink")
@@ -190,22 +190,22 @@ Live\[13\]。製作人[寺田貴信](../Page/寺田貴信.md "wikilink")、剛�
 
 ### C3×HOBBY 2006
 
-在2006年8月19日、20日於[幕張展覽館舉辦的](../Page/幕張展覽館.md "wikilink")「C3×HOBBY Chara
+在2006年8月19日、20日於[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的「C3×HOBBY Chara
 Hobby
-2006」（），本作共舉行了六次舞台活動\[14\]。由製作人寺田貴信、聲優[三木真一郎](../Page/三木真一郎.md "wikilink")、[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")、[置鯰龍太郎](https://zh.wikipedia.org/wiki/置鯰龍太郎 "wikilink")、[綠川光和主題歌演唱團體JAM](../Page/綠川光.md "wikilink")
+2006」（），本作共舉行了六次舞台活動\[14\]。由製作人寺田貴信、聲優[三木真一郎](../Page/三木真一郎.md "wikilink")、[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")、[置鯰龍太郎](https://zh.wikipedia.org/wiki/置鯰龍太郎 "wikilink")、[綠川光](../Page/綠川光.md "wikilink")和主題歌演唱團體JAM
 Project上場演出。進行[PV上映](https://zh.wikipedia.org/wiki/PV "wikilink")、訪談與電視動畫《超級機器人大戰OG
 -Divine Wars-》的主題曲《Break Out》首次發表。
 
 ### 電視廣告
 
   - 第一彈CM
-    飾演「英格蘭姆·普利斯肯」的聲優[古澤徹擔任旁白的版本](../Page/古澤徹.md "wikilink")\[15\]。
+    飾演「英格蘭姆·普利斯肯」的聲優[古澤徹](../Page/古澤徹.md "wikilink")擔任旁白的版本\[15\]。
   - 特報60秒CM編
     《超級機器人大戰OG -Divine Wars-》最後一集撥完後馬上接著撥放，長達60秒的廣告\[16\]。
   - 武神装攻編
-    飾演「桑格·佐沃特」的聲優[小野健一擔任旁白的版本](../Page/小野健一.md "wikilink")\[17\]。
+    飾演「桑格·佐沃特」的聲優[小野健一](../Page/小野健一.md "wikilink")擔任旁白的版本\[17\]。
   - 瓦爾西翁妮翔子炭編
-    [中川翔子cosplay本作中機體](../Page/中川翔子.md "wikilink")「瓦爾西翁妮」進行廣告\[18\]。
+    [中川翔子](../Page/中川翔子.md "wikilink")cosplay本作中機體「瓦爾西翁妮」進行廣告\[18\]。
 
 ### 陳列競賽
 
@@ -248,7 +248,7 @@ File」\[20\]，為A5大小、共112頁的設定資料集。
 ### CD
 
   - 超級機器人大戦OG ORIGINAL GENERATIONS 原創音樂專輯
-    2007年9月5日由[Lantis發售](../Page/Lantis.md "wikilink")，收錄本作使用BGM的原聲CD。
+    2007年9月5日由[Lantis](../Page/Lantis.md "wikilink")發售，收錄本作使用BGM的原聲CD。
 
 ### 週邊商品
 

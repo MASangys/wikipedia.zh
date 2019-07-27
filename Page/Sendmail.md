@@ -3,7 +3,7 @@ Allman）所開發，於1983年隨著[BSD](../Page/BSD.md "wikilink") 4.1c首次
 
 ## 概要
 
-在[ARPANET時期](../Page/ARPANET.md "wikilink")，艾瑞克·歐曼開發了[delivermail軟體](https://zh.wikipedia.org/wiki/delivermail "wikilink")，隨附在BSD
+在[ARPANET](../Page/ARPANET.md "wikilink")時期，艾瑞克·歐曼開發了[delivermail軟體](https://zh.wikipedia.org/wiki/delivermail "wikilink")，隨附在BSD
 4.0與4.1版。隨著[TCP/IP協定問世並且為BSD](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")
 4.1c所納入支援，他以delivermail為基礎另外分支出Sendmail。
 

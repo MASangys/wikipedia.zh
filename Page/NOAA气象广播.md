@@ -1,9 +1,9 @@
 **NOAA气象广播**([英语](../Page/英语.md "wikilink")：**NOAA Weather
-Radio**)是美国的一个气象预警广播网，属于[美国商务部的](../Page/美国商务部.md "wikilink")[美国国家海洋和大气管理局](../Page/美国国家海洋和大气管理局.md "wikilink")，广播信息由[美国国家气象局提供](https://zh.wikipedia.org/wiki/美国国家气象局 "wikilink")。
+Radio**)是美国的一个气象预警广播网，属于[美国商务部](../Page/美国商务部.md "wikilink")的[美国国家海洋和大气管理局](../Page/美国国家海洋和大气管理局.md "wikilink")，广播信息由[美国国家气象局提供](https://zh.wikipedia.org/wiki/美国国家气象局 "wikilink")。
 
 ## 概况
 
-NOAA气象广播在1950年代开播，主要每天播放气象警告、观测、和其他灾害信息。另外，每天还会随时通过[紧急警报广播和](../Page/紧急警报广播.md "wikilink")[美国联邦通信委员会播放紧急情况信息](https://zh.wikipedia.org/wiki/美国联邦通信委员会 "wikilink")。节目覆盖全国，在[甚高频波段的](https://zh.wikipedia.org/wiki/甚高频 "wikilink")162.400-162.550MHz广播，采取0.025MHz步进。美国市面上不少收音机都设有NOAA气象广播波段。
+NOAA气象广播在1950年代开播，主要每天播放气象警告、观测、和其他灾害信息。另外，每天还会随时通过[紧急警报广播](../Page/紧急警报广播.md "wikilink")和[美国联邦通信委员会播放紧急情况信息](https://zh.wikipedia.org/wiki/美国联邦通信委员会 "wikilink")。节目覆盖全国，在[甚高频波段的](https://zh.wikipedia.org/wiki/甚高频 "wikilink")162.400-162.550MHz广播，采取0.025MHz步进。美国市面上不少收音机都设有NOAA气象广播波段。
 
 ## 外部連結
 

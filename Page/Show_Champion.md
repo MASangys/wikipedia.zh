@@ -715,7 +715,7 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
     [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>2nd</sup>
     - You're The Best<sup>2nd</sup>
   - 03.23 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>3rd</sup>
-    - One Of These Nights<sup>1st</sup>
+    - One of These Nights<sup>1st</sup>
   - 03.30 - 特輯
 
 四月
@@ -796,19 +796,19 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
   - 10.12 - 停播
   - 10.19 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>4th</sup> - Blood
     Sweat & Tears<sup>1st</sup>
-  - 10.26 - [I.O.I](../Page/I.O.I.md "wikilink")<sup>2nd</sup> -*' Very
-    Very Very*'<sup>1st</sup>
+  - 10.26 - [I.O.I](../Page/I.O.I.md "wikilink")<sup>2nd</sup> - Very
+    Very Very<sup>1st</sup>
 
 十一月
 
   - 11.02 -
     [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>1st</sup>
-    - **TT**<sup>1st</sup>
+    - TT<sup>1st</sup>
   - 11.09 - 停播
   - 11.16 - 停播
   - 11.23 - 停播
-  - 11.30 - [世正](../Page/世正.md "wikilink")<sup>1st</sup> - **花路
-    (꽃길)**<sup>1st</sup>
+  - 11.30 - [世正](../Page/世正.md "wikilink")<sup>1st</sup> -
+    花路(꽃길)<sup>1st</sup>
 
 十二月
 
@@ -975,7 +975,7 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
   - 01.03 - 停播
   - 01.10 - 特輯
   - 01.17 - [INFINITE](../Page/INFINITE.md "wikilink")<sup>7th</sup> -
-    Tell me<sup>1st</sup>
+    Tell Me<sup>1st</sup>
   - 01.24 - [Oh My
     Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>1st</sup>
     - Secret Garden<sup>1st</sup>
@@ -1030,8 +1030,8 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
   - 05.16 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>8th</sup> -
     Time For The Moon Night<sup>2nd</sup>
   - 05.23 - 上半年度一位特輯
-  - 05.30 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>7th</sup> - FAKE
-    LOVE<sup>1st</sup>
+  - 05.30 - [防彈少年團](../Page/防彈少年團.md "wikilink")<sup>7th</sup> - Fake
+    Love<sup>1st</sup>
 
 六月
 
@@ -1048,8 +1048,8 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
 七月
 
   - 07.04 - 停播
-  - 07.11 - [Apink](../Page/Apink.md "wikilink")<sup>6th</sup> - I'm so
-    sick<sup>1st</sup>
+  - 07.11 - [Apink](../Page/Apink.md "wikilink")<sup>6th</sup> - I'm So
+    Sick<sup>1st</sup>
   - 07.18 -
     [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>9th</sup>
     - Dance The Night Away<sup>1st</sup>
@@ -1160,12 +1160,12 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
     CROWN<sup>1st</sup>
   - 03.27 - 特輯
     [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>5th</sup>
-    - gogobebe<sup>1st</sup>
+    - Gogobebe<sup>1st</sup>
 
 四月
 
   - 04.03 - [MOMOLAND](../Page/MOMOLAND.md "wikilink")<sup>2nd</sup> -
-    I'm so hot<sup>1st</sup>
+    I'm So Hot<sup>1st</sup>
   - 04.10 - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")<sup>1st</sup> -
     Violeta<sup>1st</sup>
   - 04.17 - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")<sup>2nd</sup> -
@@ -1192,7 +1192,7 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
 
   - 06.05 - [AB6IX](../Page/AB6IX.md "wikilink")<sup>1st</sup> -
     Breathe<sup>1st</sup>
-  - 06.12 - [NCT127](../Page/NCT.md "wikilink")<sup>1st</sup> -
+  - 06.12 - [NCT](../Page/NCT.md "wikilink")127<sup>1st</sup> -
     Superhuman<sup>1st</sup>
   - 06.19 - 特輯
     [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")<sup>1st</sup>
@@ -1200,6 +1200,19 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
   - 06.26 - [Red
     Velvet](../Page/Red_Velvet.md "wikilink")<sup>11th</sup> -
     Zimzalabim<sup>1st</sup>
+
+七月
+
+  - 07.03 -
+    [請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")<sup>2nd</sup>
+    - Snapping<sup>1st</sup>
+  - 07.10 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>10th</sup> -
+    Fever<sup>1st</sup>
+  - 07.17 - [河成雲](../Page/河成雲.md "wikilink")<sup>2nd</sup> -
+    Blue<sup>1st</sup>
+
+＊07.24 - [DAY6](../Page/DAY6.md "wikilink")<sup>1st</sup> - Time of Our
+Life<sup>1st</sup>
 
 ## 藝人成就
 

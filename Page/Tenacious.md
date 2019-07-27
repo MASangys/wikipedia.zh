@@ -1,4 +1,4 @@
-《**Tenacious**》是[香港歌手](../Page/香港.md "wikilink")[薛凱琪為了紀念入行十年](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，於12月24日推出由她親手打造的十年大碟，亦是她由[華納唱片轉會後首張發行的大碟](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")。
+《**Tenacious**》是[香港](../Page/香港.md "wikilink")歌手[薛凱琪為了紀念入行十年](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，於12月24日推出由她親手打造的十年大碟，亦是她由[華納唱片轉會後首張發行的大碟](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")。
 
 由選歌、編曲、前期後期mixing，artwork製作，至服裝、概念、唱片封套設計等Fiona都事事親力親為參與大碟製作，為切合十年主題，大碟內將有十個由Fiona親自設計的造型，例如邀請書法家將《諸葛亮》歌詞寫成墨寶，再印在雪紡上造成古裝裙；被網民熱烈討論，清場拍攝的性感大露背《Contagious》；誇張爆炸頭講述失眠的《F.night》；猶如時尚雜誌封面的see-thought造型《告別我》；以花草代表等待的《等待的藝術》；以及《宮若梅》以六位數子打造的雪景晚裝等，Fiona笑言如此吃力的製作真的十年一次就夠了！
 

@@ -1,4 +1,4 @@
-《**熱血\!人情派喜劇Shakariki駐在先生**》（）是在[朝日放送](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")（關西地區）2012年4月8日至2013年3月31日以[喜劇形式播放的](../Page/喜劇.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。播放時間是每週[星期日的](../Page/星期日.md "wikilink")12:00
+《**熱血\!人情派喜劇Shakariki駐在先生**》（）是在[朝日放送](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")（關西地區）2012年4月8日至2013年3月31日以[喜劇](../Page/喜劇.md "wikilink")形式播放的[綜藝節目](../Page/綜藝節目.md "wikilink")。播放時間是每週[星期日](../Page/星期日.md "wikilink")的12:00
 -
 12:55（[日曜笑劇場時段](https://zh.wikipedia.org/wiki/日曜笑劇場 "wikilink")。[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）。
 

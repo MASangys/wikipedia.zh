@@ -1,4 +1,4 @@
-**Urbos**是[西班牙鐵路建設和協助股份有限公司](https://zh.wikipedia.org/wiki/西班牙鐵路建設和協助股份有限公司 "wikilink")（CAF）製造的一系列[有軌電車的產品名稱](../Page/有軌電車.md "wikilink")。
+**Urbos**是[西班牙鐵路建設和協助股份有限公司](https://zh.wikipedia.org/wiki/西班牙鐵路建設和協助股份有限公司 "wikilink")（CAF）製造的一系列[有軌電車](../Page/有軌電車.md "wikilink")的產品名稱。
 
 至今Urbos系列路面電車已經推出第3代產品，分別介紹如下：
 
@@ -21,7 +21,7 @@ Trena](https://zh.wikipedia.org/wiki/Euskotren_Trena "wikilink")
 
   - （2011年3月被Urbos 3取代）
 
-  - [安塔利亚路面電車](../Page/安塔利亚.md "wikilink")
+  - [安塔利亚](../Page/安塔利亚.md "wikilink")路面電車
 
 ## Urbos 3
 
@@ -29,11 +29,11 @@ Trena](https://zh.wikipedia.org/wiki/Euskotren_Trena "wikilink")
 3**。\]\]
 [Urbos_3_2014-08-10.jpg](https://zh.wikipedia.org/wiki/File:Urbos_3_2014-08-10.jpg "fig:Urbos_3_2014-08-10.jpg")的**Urbos
 3**。\]\]
-[環狀輕軌列車於C2站_5.JPG](https://zh.wikipedia.org/wiki/File:環狀輕軌列車於C2站_5.JPG "fig:環狀輕軌列車於C2站_5.JPG")[高雄環狀輕軌的](../Page/高雄環狀輕軌.md "wikilink")**Urbos
+[環狀輕軌列車於C2站_5.JPG](https://zh.wikipedia.org/wiki/File:環狀輕軌列車於C2站_5.JPG "fig:環狀輕軌列車於C2站_5.JPG")[高雄環狀輕軌](../Page/高雄環狀輕軌.md "wikilink")的**Urbos
 3**。\]\] Urbos
-3有數項創新技術，其中包含了[双电层电容器的使用](../Page/双电层电容器.md "wikilink")，讓車輛得以在無外部電源時仍易於駕駛\[2\]。CAF開發的（*Acumulador
+3有數項創新技術，其中包含了[双电层电容器](../Page/双电层电容器.md "wikilink")的使用，讓車輛得以在無外部電源時仍易於駕駛\[2\]。CAF開發的（*Acumulador
 de Carga
-Rápida*，ACR\[3\]）讓塞維亞的路面電車系統得以在2011年[圣周其間拆除部分區域的架空電車線](../Page/圣周.md "wikilink")\[4\]。Urbos
+Rápida*，ACR\[3\]）讓塞維亞的路面電車系統得以在2011年[圣周](../Page/圣周.md "wikilink")其間拆除部分區域的架空電車線\[4\]。Urbos
 3為低底盤列車，並且最高速為70
 km/h。本型車目前用於[塞維亞](https://zh.wikipedia.org/wiki/塞維亞 "wikilink")、和[貝爾格勒](https://zh.wikipedia.org/wiki/貝爾格勒路面電車 "wikilink")、[马拉加](../Page/马拉加.md "wikilink")。已使用或訂購Urbos
 3的城市如下：

@@ -1,9 +1,9 @@
-**純情的Afilia**（）是[日本的](../Page/日本.md "wikilink")[王立Afilia魔法學院連鎖女僕咖啡廳](https://zh.wikipedia.org/wiki/王立Afilia魔法學院 "wikilink")，由各分店的代表成員組成的[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")。
+**純情的Afilia**（）是[日本](../Page/日本.md "wikilink")的[王立Afilia魔法學院連鎖女僕咖啡廳](https://zh.wikipedia.org/wiki/王立Afilia魔法學院 "wikilink")，由各分店的代表成員組成的[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")。
 
 ## 概要
 
 成員主要由Afilia
-Group連鎖女僕咖啡廳集團各店選出的人員所組成，由[志倉千代丸和](../Page/志倉千代丸.md "wikilink")[桃井晴子擔任製作人](../Page/桃井晴子.md "wikilink")。2008年11月以「Afilia
+Group連鎖女僕咖啡廳集團各店選出的人員所組成，由[志倉千代丸](../Page/志倉千代丸.md "wikilink")和[桃井晴子](../Page/桃井晴子.md "wikilink")擔任製作人。2008年11月以「Afilia
 Saga East」出道\[1\]，2013年2月17日改名為Afilia
 Saga\[2\]，2017年6月7日正式改名為純情的Afilia\[3\]。目前成員已加入第二期新生，共計成員14名\[4\]。
 
@@ -1033,7 +1033,7 @@ YZPB-8009（DVD）</p></td>
   - [Animelo Summer
     Live](../Page/Animelo_Summer_Live.md "wikilink")（2012年～
     さいたまスーパーアリーナ）
-  - nonstop アニソントレイン 祭 2012 in 大阪（[大阪城西の丸庭園](../Page/大阪城.md "wikilink")）
+  - nonstop アニソントレイン 祭 2012 in 大阪（[大阪城](../Page/大阪城.md "wikilink")西の丸庭園）
   - Bayside Explosion
     vol.05（[フェスティバルウォーク蘇我](https://zh.wikipedia.org/wiki/フェスティバルウォーク蘇我 "wikilink")）
   - ウルトラパンチLIVE\!\!

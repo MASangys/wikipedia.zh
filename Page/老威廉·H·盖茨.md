@@ -1,9 +1,9 @@
-**威廉·亨利·蓋茨二世**（，），常被稱為**老威廉·亨利·蓋茨**（），通稱**老比爾·蓋茨**（），生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[布雷默頓](https://zh.wikipedia.org/wiki/布雷默頓_\(華盛頓州\) "wikilink")，律師與慈善家，為是威廉·盖茨基金会的会长，是[微软创始人之一](../Page/微软.md "wikilink")[比尔·盖茨的父亲](../Page/比尔·盖茨.md "wikilink")。
+**威廉·亨利·蓋茨二世**（，），常被稱為**老威廉·亨利·蓋茨**（），通稱**老比爾·蓋茨**（），生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[布雷默頓](https://zh.wikipedia.org/wiki/布雷默頓_\(華盛頓州\) "wikilink")，律師與慈善家，為是威廉·盖茨基金会的会长，是[微软](../Page/微软.md "wikilink")创始人之一[比尔·盖茨](../Page/比尔·盖茨.md "wikilink")的父亲。
 
 ## 名稱
 
 本名威廉·亨利·蓋茨二世，他曾經被稱為威廉·H·蓋茨（William H. Gates）或小威廉·蓋茨（William Gates,
-Jr.）。隨著他的兒子[比尔·盖茨名氣越來越大](../Page/比尔·盖茨.md "wikilink")，他開始被稱為老威廉·亨利·蓋茨。
+Jr.）。隨著他的兒子[比尔·盖茨](../Page/比尔·盖茨.md "wikilink")名氣越來越大，他開始被稱為老威廉·亨利·蓋茨。
 
 名字威廉（William），可以被通稱為比爾（Bill），因此他的通稱與其兒子相同，都是比爾·蓋茨。
 

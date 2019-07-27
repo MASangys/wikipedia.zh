@@ -1,5 +1,5 @@
 《**Clover
-Day's**》是[ALcot在](../Page/ALcot.md "wikilink")2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。於2016年6月24日發售新增E-mote的加強版《Clover
+Day's**》是[ALcot](../Page/ALcot.md "wikilink")在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。於2016年6月24日發售新增E-mote的加強版《Clover
 Day’s Plus》。
 
 Clover
@@ -24,7 +24,7 @@ Heart's》裡面的人物仅飛鳥凜登场。
 
   -
     主人公的義妹，杏鈴的异卵雙胞胎妹妹。一樣為英國人與日本人的混血兒，但是是黑髮。喜歡穿著冷色系衣服。
-    是學年主席的優等生。和杏鈴是不同種類的兄控。因為[傲嬌的關係](../Page/傲嬌.md "wikilink")，雖然看到優人和杏鈴親近非常羨慕，卻以「自己是個大人」表示自己並不羨慕。因為很想成為成熟的大人，所以很崇拜成熟的紫苑。
+    是學年主席的優等生。和杏鈴是不同種類的兄控。因為[傲嬌](../Page/傲嬌.md "wikilink")的關係，雖然看到優人和杏鈴親近非常羨慕，卻以「自己是個大人」表示自己並不羨慕。因為很想成為成熟的大人，所以很崇拜成熟的紫苑。
 
 <!-- end list -->
 

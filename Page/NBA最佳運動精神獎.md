@@ -1,7 +1,7 @@
 [Joe_Dumars.jpg](https://zh.wikipedia.org/wiki/File:Joe_Dumars.jpg "fig:Joe_Dumars.jpg")為第一位得獎者\]\]
-**NBA最佳運動精神獎**（）於1996年創立，為一年一度的籃球獎項。此獎項用以表揚最具有「[體育精神](../Page/體育精神.md "wikilink")」的[NBA球員](../Page/NBA.md "wikilink")，運動家精神主要包括賽場上的道德行為、公平競賽以及誠信\[1\]，而在[WNBA中則頒發同等意義的](../Page/WNBA.md "wikilink")。這兩個獎項也常與[國家冰球聯盟的](../Page/國家冰球聯盟.md "wikilink")相提比較，但最佳運動精神獎相比起紀念盃並不要求出色的成績。
+**NBA最佳運動精神獎**（）於1996年創立，為一年一度的籃球獎項。此獎項用以表揚最具有「[體育精神](../Page/體育精神.md "wikilink")」的[NBA](../Page/NBA.md "wikilink")球員，運動家精神主要包括賽場上的道德行為、公平競賽以及誠信\[1\]，而在[WNBA](../Page/WNBA.md "wikilink")中則頒發同等意義的。這兩個獎項也常與[國家冰球聯盟](../Page/國家冰球聯盟.md "wikilink")的相提比較，但最佳運動精神獎相比起紀念盃並不要求出色的成績。
 
-每一年，NBA的30支球隊中每支球隊都有一名球員可以角逐這個獎項。在這30名候選者中，6位來自NBA六個不同賽區的球員將被評審選為這6個賽區的候選者，最後在NBA例行賽結束之後，由聯盟全部球員投票評選出最終的得獎者。獲得第一位的選票將獲得11分，第二位選票獲得9分，第三位選票獲得7分，第四位選票5分，第五位選票獲得3分，第六位選票獲得1分。最終得分最高的球員將獲得該獎項（無論該球員是否獲得最多的第一位選票），獲得該獎項的球員將同時獲聯盟頒發「[喬·杜馬斯獎](../Page/喬·杜馬斯.md "wikilink")」，而第一個獲獎者是前[底特律活塞隊球員](https://zh.wikipedia.org/wiki/底特律活塞隊 "wikilink")[喬·杜馬斯](../Page/喬·杜馬斯.md "wikilink")，NBA在將聯盟歷史上第一個最佳運動精神獎給杜馬斯的同時，也將此獎項用他的名字命名\[2\]\[3\]。
+每一年，NBA的30支球隊中每支球隊都有一名球員可以角逐這個獎項。在這30名候選者中，6位來自NBA六個不同賽區的球員將被評審選為這6個賽區的候選者，最後在NBA例行賽結束之後，由聯盟全部球員投票評選出最終的得獎者。獲得第一位的選票將獲得11分，第二位選票獲得9分，第三位選票獲得7分，第四位選票5分，第五位選票獲得3分，第六位選票獲得1分。最終得分最高的球員將獲得該獎項（無論該球員是否獲得最多的第一位選票），獲得該獎項的球員將同時獲聯盟頒發「[喬·杜馬斯](../Page/喬·杜馬斯.md "wikilink")獎」，而第一個獲獎者是前[底特律活塞隊球員](https://zh.wikipedia.org/wiki/底特律活塞隊 "wikilink")[喬·杜馬斯](../Page/喬·杜馬斯.md "wikilink")，NBA在將聯盟歷史上第一個最佳運動精神獎給杜馬斯的同時，也將此獎項用他的名字命名\[2\]\[3\]。
 
 [格蘭特·希爾](https://zh.wikipedia.org/wiki/格蘭特·希爾 "wikilink")（3次）、[傑森·基德](https://zh.wikipedia.org/wiki/傑森·基德 "wikilink")（2次）、[邁克·康利](https://zh.wikipedia.org/wiki/邁克·康利 "wikilink")（2次）和[肯巴·沃克](../Page/肯巴·沃克.md "wikilink")（2次）是僅有四名獲得該獎一次以上的球員\[4\]\[5\]。有兩支NBA球隊擁有多於一名榮膺該獎項的球員，他們分別是聖安東尼奧馬刺隊（3名）和西雅圖超音速隊（2名）。杜馬斯和[大衛·羅賓遜是僅有兩名獲得該獎項的同時也入選了](https://zh.wikipedia.org/wiki/大衛·羅賓遜 "wikilink")[奈史密斯籃球名人紀念堂的球員](https://zh.wikipedia.org/wiki/奈史密斯籃球名人紀念堂 "wikilink")\[6\]，而[羅爾·鄧則是唯一一名獲得該獎項的非美國籍球員](https://zh.wikipedia.org/wiki/羅爾·鄧 "wikilink")\[7\]。
 
@@ -9,7 +9,6 @@
 
 [ghill.jpg](https://zh.wikipedia.org/wiki/File:ghill.jpg "fig:ghill.jpg")三度獲得此獎\]\]
 [Luol_Deng_Wizards.jpg](https://zh.wikipedia.org/wiki/File:Luol_Deng_Wizards.jpg "fig:Luol_Deng_Wizards.jpg")為唯一的非美國籍得獎者\]\]
-[Mike_Conley.jpg](https://zh.wikipedia.org/wiki/File:Mike_Conley.jpg "fig:Mike_Conley.jpg")三度入選此獎\]\]
 
 |        |           |
 | ------ | --------- |
@@ -121,7 +120,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅爾·鄧" title="wikilink">羅爾·丹恩</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/前鋒" title="wikilink">前鋒</a></p></td>
-<td><p>{{#tag:ref|羅爾·丹恩出生在<a href="../Page/南蘇丹.md" title="wikilink">南蘇丹的</a><a href="../Page/瓦烏.md" title="wikilink">瓦烏</a>，但在2006年成為英國公民。[19]|group=注}}</p></td>
+<td><p>{{#tag:ref|羅爾·丹恩出生在<a href="../Page/南蘇丹.md" title="wikilink">南蘇丹</a>的<a href="../Page/瓦烏.md" title="wikilink">瓦烏</a>，但在2006年成為英國公民。[19]|group=注}}</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a></p></td>
 <td><p>[20]</p></td>
 </tr>

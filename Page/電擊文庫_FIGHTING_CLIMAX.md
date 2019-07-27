@@ -1,4 +1,4 @@
-，是[電擊文庫與](../Page/電擊文庫.md "wikilink")[世嘉共同合作的](../Page/世嘉.md "wikilink")2D對戰格鬥遊戲。
+，是[電擊文庫](../Page/電擊文庫.md "wikilink")與[世嘉](../Page/世嘉.md "wikilink")共同合作的2D對戰格鬥遊戲。
 
 ## 概要
 

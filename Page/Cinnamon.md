@@ -35,7 +35,7 @@ Cinnamon
 1.8於2013年5月5日發佈，[GNOME控制中心被](https://zh.wikipedia.org/wiki/GNOME控制中心 "wikilink")[Cinnamon控制中心取代](https://zh.wikipedia.org/wiki/Cinnamon控制中心 "wikilink")。Gnome螢幕保護程式被Cinnamon螢幕保護程式取代。並可以從控制中心安裝及升級小工具、擴充元件、桌面小工具、佈景主題，而不需將佈景主題放到themes資料夾裡。Nemo的介面也被調整。
 
 Cinnamon
-2.0於2013年10月10日發佈，從此版本開始，Cinnamon不再是[GNOME桌面的前端](../Page/GNOME.md "wikilink")（像是[Unity或](../Page/Unity_\(使用者介面\).md "wikilink")[GNOME
+2.0於2013年10月10日發佈，從此版本開始，Cinnamon不再是[GNOME](../Page/GNOME.md "wikilink")桌面的前端（像是[Unity或](../Page/Unity_\(使用者介面\).md "wikilink")[GNOME
 Shell](../Page/GNOME_Shell.md "wikilink")），而是一個「完整的桌面環境」。Cinnamon仍然建基於GNOME的技術及使用[GTK+函式庫來開發](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，但不再需要安裝GNOME來使用Cinnamon。此版本最大的更動為改進了邊緣鋪排的能力，以及改進使用者管理，可自訂單一音效，及全螢幕程式效能改進。
 
 ## 特性

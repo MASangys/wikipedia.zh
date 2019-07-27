@@ -1,6 +1,6 @@
 **Window Maker**，是[X
-Window系統上一个](../Page/X_Window系統.md "wikilink")[自由及開放原始碼的](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")[窗口管理器](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")，可讓圖形化應用軟體在[類Unix作業系統上執行](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")。它最最初设计用来模擬[NeXT的](../Page/NeXT.md "wikilink")[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")，令其成為符合[OpenStep相容环境](../Page/OpenStep.md "wikilink")，它可以運行於遊戲機[PS2的Linux套件上](https://zh.wikipedia.org/wiki/PS2 "wikilink")。Window
-Maker 是[GNU計劃的一部分](../Page/GNU計劃.md "wikilink")。
+Window系統上一个](../Page/X_Window系統.md "wikilink")[自由及開放原始碼的](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")[窗口管理器](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")，可讓圖形化應用軟體在[類Unix作業系統上執行](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")。它最最初设计用来模擬[NeXT](../Page/NeXT.md "wikilink")的[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")，令其成為符合[OpenStep](../Page/OpenStep.md "wikilink")相容环境，它可以運行於遊戲機[PS2的Linux套件上](https://zh.wikipedia.org/wiki/PS2 "wikilink")。Window
+Maker 是[GNU計劃](../Page/GNU計劃.md "wikilink")的一部分。
 
 Window
 Maker在每一个方面都力求对用户界面有很优雅的外观和感觉。快速、特性多、易配置、易使用，并且是免费的，它是由全世界的程序员贡献的。多年以来，Window

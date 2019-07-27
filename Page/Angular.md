@@ -1,12 +1,12 @@
-**AngularJS**是一款由[Google维护的](../Page/Google.md "wikilink")[开源](../Page/开源软件.md "wikilink")[JavaScript函式庫](../Page/JavaScript.md "wikilink")，用來協助[單一頁面應用程式運行](../Page/单页应用.md "wikilink")。它的目标是透過[MVC模式](https://zh.wikipedia.org/wiki/MVC模式 "wikilink")（MVC）功能增强基于浏览器的应用，使开发和测试变得更加容易。在版本2大改（最突出的改变的全面使用**[TypeScript](../Page/TypeScript.md "wikilink")**）之后改名**Angular**，第N版以Angular
+**AngularJS**是一款由[Google](../Page/Google.md "wikilink")维护的[开源](../Page/开源软件.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")函式庫，用來協助[單一頁面應用程式運行](../Page/单页应用.md "wikilink")。它的目标是透過[MVC模式](https://zh.wikipedia.org/wiki/MVC模式 "wikilink")（MVC）功能增强基于浏览器的应用，使开发和测试变得更加容易。在版本2大改（最突出的改变的全面使用**[TypeScript](../Page/TypeScript.md "wikilink")**）之后改名**Angular**，第N版以Angular
 N的形式命名。
 
-函式庫讀取包含附加自定義（）的[HTML](../Page/HTML.md "wikilink")，遵從這些自定義屬性中的指令，並將頁面中的輸入或輸出與由JavaScript變量表示的模型綁定起來。這些JavaScript變量的值可以手工設置，或者從靜態或動態[JSON資源中獲取](../Page/JSON.md "wikilink")。
+函式庫讀取包含附加自定義（）的[HTML](../Page/HTML.md "wikilink")，遵從這些自定義屬性中的指令，並將頁面中的輸入或輸出與由JavaScript變量表示的模型綁定起來。這些JavaScript變量的值可以手工設置，或者從靜態或動態[JSON](../Page/JSON.md "wikilink")資源中獲取。
 
 ## Angular的哲學
 
 [Architecture_of_an_Angular_2_application.png](https://zh.wikipedia.org/wiki/File:Architecture_of_an_Angular_2_application.png "fig:Architecture_of_an_Angular_2_application.png")
-Angular的理念是[声明式编程應該用於構建用戶界面以及編寫軟件構建](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")，而[指令式編程非常適合來表示](../Page/指令式編程.md "wikilink")[業務邏輯](https://zh.wikipedia.org/wiki/業務邏輯 "wikilink")。\[1\]框架採用並擴展了傳統HTML，通過雙向的數據綁定來適應動態內容，雙向的數據綁定允許模型和视图之間的自動同步。因此，Angular使得對DOM的操作不再重要並提升了可測試性。
+Angular的理念是[声明式编程應該用於構建用戶界面以及編寫軟件構建](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")，而[指令式編程](../Page/指令式編程.md "wikilink")非常適合來表示[業務邏輯](https://zh.wikipedia.org/wiki/業務邏輯 "wikilink")。\[1\]框架採用並擴展了傳統HTML，通過雙向的數據綁定來適應動態內容，雙向的數據綁定允許模型和视图之間的自動同步。因此，Angular使得對DOM的操作不再重要並提升了可測試性。
 
 設計目標：
 
@@ -27,9 +27,9 @@ Angular在呈現和資料中間，可以簡單建立雙向的數據綁定。一�
 ## 開發歷史
 
 AngularJS在2009年由Miško Hevery和Adam
-Abrons開發，作為線上[JSON儲存服務的軟體](../Page/JSON.md "wikilink")，它是以兆位元來計價，便於成為企業的應用服務。當初以"GetAngular.com"註册網域，但由於只有少量的註册用户，在兩人決定放棄這個商業想法前，就把Angular開源了。
+Abrons開發，作為線上[JSON](../Page/JSON.md "wikilink")儲存服務的軟體，它是以兆位元來計價，便於成為企業的應用服務。當初以"GetAngular.com"註册網域，但由於只有少量的註册用户，在兩人決定放棄這個商業想法前，就把Angular開源了。
 
-Abrons後來離開了這個計劃，但在[Google工作的Hevery和一些谷歌員工如Igor](../Page/Google.md "wikilink")
+Abrons後來離開了這個計劃，但在[Google](../Page/Google.md "wikilink")工作的Hevery和一些谷歌員工如Igor
 Minár和Vojta Jína等則繼續開發維護此函式庫。
 
 ### 发行

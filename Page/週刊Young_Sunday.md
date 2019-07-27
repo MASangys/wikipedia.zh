@@ -1,5 +1,5 @@
 《**週刊Young
-Sunday**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。1987年半月刊《Young
+Sunday**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。1987年半月刊《Young
 Sunday》創刊，1995年改為週刊並改名《週刊Young Sunday》，2008年休刊。
 
 ## 連載作品

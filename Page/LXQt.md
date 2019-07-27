@@ -1,25 +1,25 @@
-**LXQt**是一个资源需求相对较低的[免费的开源](../Page/自由及开放源代码软件.md "wikilink")[Linux](../Page/Linux.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")，它是由[LXDE和](../Page/LXDE.md "wikilink")[Razor-qt项目合并而成](../Page/Razor-qt.md "wikilink")。
+**LXQt**是一个资源需求相对较低的[免费的开源](../Page/自由及开放源代码软件.md "wikilink")[Linux](../Page/Linux.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")，它是由[LXDE](../Page/LXDE.md "wikilink")和[Razor-qt](../Page/Razor-qt.md "wikilink")项目合并而成。
 
 ## 历史
 
-因为对[GTK+
-3不满意](../Page/GTK.md "wikilink")，\[1\][LXDE维护者](../Page/LXDE.md "wikilink")[洪任諭于](../Page/洪任諭.md "wikilink")2013年初对[Qt进行了实验](../Page/Qt.md "wikilink")\[2\]
-，并于2013年3月26日发布了基于[Qt的](../Page/Qt.md "wikilink")[PCMan檔案管理程式的第一个版本](../Page/PCMan檔案管理程式.md "wikilink").\[3\]。不过，他澄清[LXDE不会背离](../Page/LXDE.md "wikilink")[GTK+](../Page/GTK.md "wikilink")，称“[GTK+和](../Page/GTK.md "wikilink")[Qt版本将共存](../Page/Qt.md "wikilink")”，之后他将[LXDE的Xrandr前端](../Page/LXDE.md "wikilink")[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")。\[4\]
+因为对[GTK
+3不满意](../Page/GTK.md "wikilink")+，\[1\][LXDE](../Page/LXDE.md "wikilink")维护者[洪任諭](../Page/洪任諭.md "wikilink")于2013年初对[Qt](../Page/Qt.md "wikilink")进行了实验\[2\]
+，并于2013年3月26日发布了基于[Qt](../Page/Qt.md "wikilink")的[PCMan檔案管理程式](../Page/PCMan檔案管理程式.md "wikilink")的第一个版本.\[3\]。不过，他澄清[LXDE](../Page/LXDE.md "wikilink")不会背离[GTK](../Page/GTK.md "wikilink")+，称“[GTK](../Page/GTK.md "wikilink")+和[Qt](../Page/Qt.md "wikilink")版本将共存”，之后他将[LXDE](../Page/LXDE.md "wikilink")的Xrandr前端[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")。\[4\]
 
-2013年7月3日，[洪任諭宣布推出完整](../Page/洪任諭.md "wikilink")[LXDE套件的Qt端口](../Page/LXDE.md "wikilink")。\[5\]2013年7月21日，[Razor-qt和](../Page/Razor-qt.md "wikilink")[LXDE宣布决定合并这两个项目](../Page/LXDE.md "wikilink")。\[6\]\[7\]这一合并意味着GTK+和Qt版本将首先共存，但最终将放弃[GTK+版本](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，后续将集中在Qt端口上。\[8\]LXDE-Qt和Razor-qt的合并后更名为LXQt\[9\]并于2014年5月7日发布了第一个版本0.7.0。\[10\]
+2013年7月3日，[洪任諭](../Page/洪任諭.md "wikilink")宣布推出完整[LXDE](../Page/LXDE.md "wikilink")套件的Qt端口。\[5\]2013年7月21日，[Razor-qt](../Page/Razor-qt.md "wikilink")和[LXDE](../Page/LXDE.md "wikilink")宣布决定合并这两个项目。\[6\]\[7\]这一合并意味着GTK+和Qt版本将首先共存，但最终将放弃[GTK+版本](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，后续将集中在Qt端口上。\[8\]LXDE-Qt和Razor-qt的合并后更名为LXQt\[9\]并于2014年5月7日发布了第一个版本0.7.0。\[10\]
 
-随着0.13版本于2018年5月21日发布，LXQT项目正式从[LXDE中分离出来](../Page/LXDE.md "wikilink")，并转移到一个独立的[Github团体](https://zh.wikipedia.org/wiki/Github "wikilink")。\[11\]
+随着0.13版本于2018年5月21日发布，LXQT项目正式从[LXDE](../Page/LXDE.md "wikilink")中分离出来，并转移到一个独立的[Github团体](https://zh.wikipedia.org/wiki/Github "wikilink")。\[11\]
 
 ## 软件组件
 
-LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/Qt.md "wikilink")[KDE Frameworks
+LXQt由许多模块化组件组成，其中一些组件依赖于[Qt](../Page/Qt.md "wikilink")和[KDE Frameworks
 5](../Page/KDE_Frameworks_5.md "wikilink")。\[12\]
 
 <table>
 <thead>
 <tr class="header">
 <th><p>组件</p></th>
-<th><p>依赖（除<a href="../Page/Qt.md" title="wikilink">Qt外</a>）</p></th>
+<th><p>依赖（除<a href="../Page/Qt.md" title="wikilink">Qt</a>外）</p></th>
 <th><p>描述</p></th>
 </tr>
 </thead>
@@ -37,7 +37,7 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <tr class="odd">
 <td><p><a href="../Page/簡單顯示管理器.md" title="wikilink">sddm</a></p></td>
 <td></td>
-<td><p>用于LXQt和<a href="../Page/QML.md" title="wikilink">QML的</a><a href="../Page/簡單顯示管理器.md" title="wikilink">簡單顯示管理器</a></p></td>
+<td><p>用于LXQt和<a href="../Page/QML.md" title="wikilink">QML</a>的<a href="../Page/簡單顯示管理器.md" title="wikilink">簡單顯示管理器</a></p></td>
 </tr>
 <tr class="even">
 <td><p>lximage-qt</p></td>
@@ -117,7 +117,7 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <tr class="odd">
 <td><p>lxqt-sudo</p></td>
 <td></td>
-<td><p>sudo/su的<a href="../Page/图形用户界面.md" title="wikilink">图形用户界面前端</a></p></td>
+<td><p>sudo/su的<a href="../Page/图形用户界面.md" title="wikilink">图形用户界面</a>前端</p></td>
 </tr>
 <tr class="even">
 <td><p>menu-cache</p></td>
@@ -127,22 +127,22 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <tr class="odd">
 <td><p>obconf-qt</p></td>
 <td></td>
-<td><p><a href="../Page/Qt.md" title="wikilink">Qt编写的</a><a href="../Page/Openbox.md" title="wikilink">Openbox配置工具</a></p></td>
+<td><p><a href="../Page/Qt.md" title="wikilink">Qt</a>编写的<a href="../Page/Openbox.md" title="wikilink">Openbox</a>配置工具</p></td>
 </tr>
 <tr class="even">
 <td><p>compton-conf</p></td>
 <td></td>
-<td><p>Compton X复合管理器的<a href="../Page/图形用户界面.md" title="wikilink">图形用户界面配置工具</a>（metacity ⇒ xcompmgr ⇒ dcompmgr ⇒ Compton）[13]</p></td>
+<td><p>Compton X复合管理器的<a href="../Page/图形用户界面.md" title="wikilink">图形用户界面</a>配置工具（metacity ⇒ xcompmgr ⇒ dcompmgr ⇒ Compton）[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>pcmanfm-qt</p></td>
 <td></td>
-<td><p>文件管理器（<a href="../Page/PCMan檔案管理程式.md" title="wikilink">PCMan檔案管理程式的Qt端口</a>）</p></td>
+<td><p>文件管理器（<a href="../Page/PCMan檔案管理程式.md" title="wikilink">PCMan檔案管理程式</a>的Qt端口）</p></td>
 </tr>
 <tr class="even">
 <td><p>qt-gtk-engine</p></td>
 <td></td>
-<td><p>Qt风格<a href="../Page/GTK.md" title="wikilink">GTK+ 3程序</a></p></td>
+<td><p>Qt风格<a href="../Page/GTK.md" title="wikilink">GTK 3程序</a>+</p></td>
 </tr>
 </tbody>
 </table>
@@ -181,7 +181,7 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <tr class="odd">
 <td><p>0.11</p></td>
 <td><p>[18]</p></td>
-<td><p>为了解决基于<a href="../Page/Qt.md" title="wikilink">Qt的应用程序占用大量内存的担忧</a>，将此版本与<a href="../Page/Xfce.md" title="wikilink">Xfce进行了比较</a>，发现在<a href="https://zh.wikipedia.org/wiki/重新启动" title="wikilink">冷启动后LXQt的内存使用量为</a>112 MB，略低于<a href="../Page/Xfce.md" title="wikilink">Xfce</a>。[19]</p></td>
+<td><p>为了解决基于<a href="../Page/Qt.md" title="wikilink">Qt</a>的应用程序占用大量内存的担忧，将此版本与<a href="../Page/Xfce.md" title="wikilink">Xfce</a>进行了比较，发现在<a href="https://zh.wikipedia.org/wiki/重新启动" title="wikilink">冷启动后LXQt的内存使用量为</a>112 MB，略低于<a href="../Page/Xfce.md" title="wikilink">Xfce</a>。[19]</p></td>
 </tr>
 <tr class="even">
 <td><p>0.12</p></td>

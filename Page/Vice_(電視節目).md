@@ -1,4 +1,4 @@
-《**Vice**》是一個在[HBO播放的美國電視新聞系列節目](../Page/HBO.md "wikilink")，製作人為[比爾·馬艾](https://zh.wikipedia.org/wiki/比爾·馬艾 "wikilink")、[西恩·史密斯和艾迪](https://zh.wikipedia.org/wiki/西恩·史密斯 "wikilink")·莫瑞特，並由[法里德·扎卡利亞擔任顧問製作人](../Page/法里德·扎卡利亞.md "wikilink")。這是同名雜誌《[Vice](../Page/Vice_\(雜誌\).md "wikilink")》所製播的第一個電視節目，由雜誌工作人員擔任採訪記者。每一集包含數個新聞報導短片，內容涵蓋美國國內和國際議題，主題包括恐怖主義、戰爭、性交易、藥物濫用、武器交易、經濟發展、文化和政治等等。《Vice》在2013年4月5日首播。\[1\]\[2\]
+《**Vice**》是一個在[HBO](../Page/HBO.md "wikilink")播放的美國電視新聞系列節目，製作人為[比爾·馬艾](https://zh.wikipedia.org/wiki/比爾·馬艾 "wikilink")、[西恩·史密斯和艾迪](https://zh.wikipedia.org/wiki/西恩·史密斯 "wikilink")·莫瑞特，並由[法里德·扎卡利亞](../Page/法里德·扎卡利亞.md "wikilink")擔任顧問製作人。這是同名雜誌《[Vice](../Page/Vice_\(雜誌\).md "wikilink")》所製播的第一個電視節目，由雜誌工作人員擔任採訪記者。每一集包含數個新聞報導短片，內容涵蓋美國國內和國際議題，主題包括恐怖主義、戰爭、性交易、藥物濫用、武器交易、經濟發展、文化和政治等等。《Vice》在2013年4月5日首播。\[1\]\[2\]
 
 ## 評價
 
@@ -21,7 +21,7 @@ Ryan）撰寫的負面節目評論，主要針對《Vice》的表現手法提出
 <th><p>Title = Killer Kids</p></th>
 <th><p>LineColor = dbb73d</p></th>
 <th><p>OriginalAirDate = </p></th>
-<th><p>ShortSummary = <a href="https://zh.wikipedia.org/wiki/菲律賓" title="wikilink">菲律賓的政治暗殺</a>、<a href="../Page/阿富汗.md" title="wikilink">阿富汗內由</a><a href="../Page/塔利班.md" title="wikilink">塔利班訓練的兒童自殺炸彈客</a> }} {{Episode list</p></th>
+<th><p>ShortSummary = <a href="https://zh.wikipedia.org/wiki/菲律賓" title="wikilink">菲律賓的政治暗殺</a>、<a href="../Page/阿富汗.md" title="wikilink">阿富汗</a>內由<a href="../Page/塔利班.md" title="wikilink">塔利班</a>訓練的兒童自殺炸彈客 }} {{Episode list</p></th>
 <th><p>EpisodeNumber = 02</p></th>
 <th><p>Title = Bad Borders</p></th>
 <th><p>LineColor = dbb73d</p></th>
@@ -31,12 +31,12 @@ Ryan）撰寫的負面節目評論，主要針對《Vice》的表現手法提出
 <th><p>Title = Guns &amp; Ammo</p></th>
 <th><p>LineColor = dbb73d</p></th>
 <th><p>OriginalAirDate = </p></th>
-<th><p>ShortSummary = <a href="../Page/新墨西哥州.md" title="wikilink">新墨西哥州內武裝備戰的私立學校</a>、<a href="https://zh.wikipedia.org/wiki/伊拉克戰爭" title="wikilink">伊拉克戰爭後留下的有毒物質</a> }} {{Episode list</p></th>
+<th><p>ShortSummary = <a href="../Page/新墨西哥州.md" title="wikilink">新墨西哥州</a>內武裝備戰的私立學校、<a href="https://zh.wikipedia.org/wiki/伊拉克戰爭" title="wikilink">伊拉克戰爭後留下的有毒物質</a> }} {{Episode list</p></th>
 <th><p>EpisodeNumber = 04</p></th>
 <th><p>Title = Love &amp; Rockets</p></th>
 <th><p>LineColor = dbb73d</p></th>
 <th><p>OriginalAirDate = </p></th>
-<th><p>ShortSummary = <a href="../Page/中國.md" title="wikilink">中國單身男性的困境</a>、歐洲經濟危機的極端後果 }} {{Episode list</p></th>
+<th><p>ShortSummary = <a href="../Page/中國.md" title="wikilink">中國</a>單身男性的困境、歐洲經濟危機的極端後果 }} {{Episode list</p></th>
 <th><p>EpisodeNumber = 05</p></th>
 <th><p>Title = Winners and Losers</p></th>
 <th><p>LineColor = dbb73d</p></th>
@@ -46,17 +46,17 @@ Ryan）撰寫的負面節目評論，主要針對《Vice》的表現手法提出
 <th><p>Title = Corruption</p></th>
 <th><p>LineColor = dbb73d</p></th>
 <th><p>OriginalAirDate = </p></th>
-<th><p>ShortSummary = 中國大型建設案淪為鬼城、<a href="../Page/阿拉伯之春.md" title="wikilink">阿拉伯之春在埃及留下的暴力結果</a> }} {{Episode list</p></th>
+<th><p>ShortSummary = 中國大型建設案淪為鬼城、<a href="../Page/阿拉伯之春.md" title="wikilink">阿拉伯之春</a>在埃及留下的暴力結果 }} {{Episode list</p></th>
 <th><p>EpisodeNumber = 07</p></th>
 <th><p>Title = Addiction</p></th>
 <th><p>LineColor = dbb73d</p></th>
 <th><p>OriginalAirDate = </p></th>
-<th><p>ShortSummary = 極度熱愛<a href="https://zh.wikipedia.org/wiki/香菸" title="wikilink">香菸的</a><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a>、在墨西哥用迷幻劑戒除<a href="../Page/海洛因.md" title="wikilink">海洛因成癮</a> }} {{Episode list</p></th>
+<th><p>ShortSummary = 極度熱愛<a href="https://zh.wikipedia.org/wiki/香菸" title="wikilink">香菸的</a><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a>、在墨西哥用迷幻劑戒除<a href="../Page/海洛因.md" title="wikilink">海洛因</a>成癮 }} {{Episode list</p></th>
 <th><p>EpisodeNumber = 08</p></th>
 <th><p>Title = Fighting Chances</p></th>
 <th><p>OriginalAirDate = </p></th>
 <th><p>LineColor = dbb73d</p></th>
-<th><p>ShortSummary = <a href="../Page/芝加哥.md" title="wikilink">芝加哥西區的幫派治安問題</a>、<a href="https://zh.wikipedia.org/wiki/尼日爾河三角洲" title="wikilink">尼日爾河三角洲的石油探鑽</a> }}</p></th>
+<th><p>ShortSummary = <a href="../Page/芝加哥.md" title="wikilink">芝加哥</a>西區的幫派治安問題、<a href="https://zh.wikipedia.org/wiki/尼日爾河三角洲" title="wikilink">尼日爾河三角洲的石油探鑽</a> }}</p></th>
 </tr>
 </thead>
 <tbody>

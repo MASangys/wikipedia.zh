@@ -1,4 +1,4 @@
-《**Missing You**》為[GLAY的第](../Page/GLAY.md "wikilink")21張單曲，台灣有發行台壓版。
+《**Missing You**》為[GLAY](../Page/GLAY.md "wikilink")的第21張單曲，台灣有發行台壓版。
 
 ## 簡介
 

@@ -16,7 +16,7 @@ KF-DET型[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，分別輸
 4,000rpm的最大扭力；[變速系統則有](../Page/变速器.md "wikilink")[CVT與四速](../Page/無段自動變速器.md "wikilink")[自動排檔可供選擇](../Page/自动变速器.md "wikilink")。這部車的後座能前後滑移255mm，且左右獨立椅背也能前傾，可創造不同的空間運用，也提供寬敞的乘坐空間。內裝方面有白黑雙色及黑色兩種可供選購，「Custom」更配置了藍光車室燈、中央扶手、MOMO跑車化[方向盤等配備](https://zh.wikipedia.org/wiki/方向盤 "wikilink")。
 
 2012年 - 1月10日隨著大發Tanto
-Exe小改款，尾燈和第三煞車燈皆改為[LED](../Page/發光二極管.md "wikilink")，並導入[怠速熄火系統以提升燃油經濟性](../Page/怠速熄火系統.md "wikilink")。5月21日又針對「Custom
+Exe小改款，尾燈和第三煞車燈皆改為[LED](../Page/發光二極管.md "wikilink")，並導入[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")以提升燃油經濟性。5月21日又針對「Custom
 RS」車型小改款，加裝大發工業最新研發之「eco IDLE怠速熄火系統」，在日本下平均油耗表現達到22.2km/L。
 
 2014年 - 9月代工的大發工業正式停產大發Tanto Exe。

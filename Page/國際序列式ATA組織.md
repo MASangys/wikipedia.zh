@@ -2,7 +2,7 @@
 [SATA_6Gbs_Logo.gif](https://zh.wikipedia.org/wiki/File:SATA_6Gbs_Logo.gif "fig:SATA_6Gbs_Logo.gif")
 [ESATA_Logo.png](https://zh.wikipedia.org/wiki/File:ESATA_Logo.png "fig:ESATA_Logo.png")
 
-**國際序列式ATA組織**（，[縮寫](../Page/縮寫.md "wikilink")：），是一個提供制定、規範與支援[電腦工業中](https://zh.wikipedia.org/wiki/電腦 "wikilink")[SATA規格的獨立](../Page/SATA.md "wikilink")、非營利性[社會組織](https://zh.wikipedia.org/wiki/社會組織 "wikilink")。SATA-IO是由產業界的數個領導廠商於2004年7月所創立，前身為序列式ATA工作小組(Serial
+**國際序列式ATA組織**（，[縮寫](../Page/縮寫.md "wikilink")：），是一個提供制定、規範與支援[電腦工業中](https://zh.wikipedia.org/wiki/電腦 "wikilink")[SATA](../Page/SATA.md "wikilink")規格的獨立、非營利性[社會組織](https://zh.wikipedia.org/wiki/社會組織 "wikilink")。SATA-IO是由產業界的數個領導廠商於2004年7月所創立，前身為序列式ATA工作小組(Serial
 ATA Working Group)。 SATA-IO直接隸屬於INCITS並且經由INCITS間接隸屬於ANSI。
 
 ## 會員

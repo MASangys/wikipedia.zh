@@ -4,11 +4,11 @@
 
 ## 简介
 
-Ye型由[地铁车辆机械制造厂在](../Page/地铁车辆机械制造厂.md "wikilink")1959年-1969年生产，共824辆。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，本车较之前的[D型相比](../Page/D型电动列车.md "wikilink")，拥有加强筋。
+Ye型由[地铁车辆机械制造厂](../Page/地铁车辆机械制造厂.md "wikilink")在1959年-1969年生产，共824辆。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，本车较之前的[D型相比](../Page/D型电动列车.md "wikilink")，拥有加强筋。
 
 ## 历史
 
-本列车主要用于苏联时期的各加盟共和国的地下铁内。在[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")、[第比利斯地铁和](../Page/第比利斯地铁.md "wikilink")[基辅地铁使用至](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")2012年，在[巴库地铁使用至](https://zh.wikipedia.org/wiki/巴库地铁 "wikilink")2001年。另外，本列车于2006年-2008年也曾在[莫斯科地铁使用](../Page/莫斯科地铁.md "wikilink")。本款列车在不同地区也存在着其他型号，如**Yei**型和**Yer**型。
+本列车主要用于苏联时期的各加盟共和国的地下铁内。在[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")、[第比利斯地铁](../Page/第比利斯地铁.md "wikilink")和[基辅地铁使用至](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")2012年，在[巴库地铁使用至](https://zh.wikipedia.org/wiki/巴库地铁 "wikilink")2001年。另外，本列车于2006年-2008年也曾在[莫斯科地铁](../Page/莫斯科地铁.md "wikilink")使用。本款列车在不同地区也存在着其他型号，如**Yei**型和**Yer**型。
 
 ## 编组列表
 

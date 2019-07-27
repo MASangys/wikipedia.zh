@@ -1,4 +1,4 @@
-**LesPros娛樂有限公司**（），简称**LesPros**（），是一家[日本的](../Page/日本.md "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")，屬[日本音樂事業者協會會員](../Page/日本音樂事業者協會.md "wikilink")，總部位於[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")。LesPros娛樂旗下有眾多藝人（見[所屬藝人](https://zh.wikipedia.org/wiki/#所屬藝人 "wikilink")）。
+**LesPros娛樂有限公司**（），简称**LesPros**（），是一家[日本](../Page/日本.md "wikilink")的[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")，屬[日本音樂事業者協會](../Page/日本音樂事業者協會.md "wikilink")會員，總部位於[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")。LesPros娛樂旗下有眾多藝人（見[所屬藝人](https://zh.wikipedia.org/wiki/#所屬藝人 "wikilink")）。
 
 ## 公司歷史
 
@@ -7,7 +7,7 @@ Production系列事務所之一](../Page/Burning_Production.md "wikilink")。
 
 1997年4月，成立屬下的音樂出版公司「Levie Plus」\[3\]。
 
-1998年10月，設立[童星部門](../Page/童星.md "wikilink")「j-class」\[4\]。
+1998年10月，設立[童星](../Page/童星.md "wikilink")部門「j-class」\[4\]。
 
 2001年4月，公司更名至「Levie Productions」（）\[5\]。
 
@@ -114,18 +114,18 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
   - 東梓（）
 
-  - JUDY舞衣（）
-
   - 川口優菜
 
   -
   - ティファニー春香
 
+  -
 <!-- end list -->
 
   -
-  -
   - ASHLEY（）
+
+  - 長谷川ミラ
 
   - 碓井玲菜
 
@@ -333,6 +333,15 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
   - （引退）
 
+  - [吉井香奈惠](../Page/吉井香奈惠.md "wikilink")（引退）
+
+  - JUDY舞衣（）
+
+  - 竹内彩花
+
+  - [梨衣名](../Page/梨衣名.md "wikilink")
+
+  -
 ## 選秀活動
 
 ### LesPros Girls

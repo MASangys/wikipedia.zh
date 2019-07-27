@@ -1,8 +1,8 @@
-《**LukaLuka★NightFever**》是[日本音樂製作者](../Page/日本.md "wikilink")[Samfree所作詞曲的](https://zh.wikipedia.org/wiki/Samfree "wikilink")[VOCALOID歌曲](../Page/VOCALOID.md "wikilink")。實谷奈奈有發行本曲目的翻唱單曲。
+《**LukaLuka★NightFever**》是[日本](../Page/日本.md "wikilink")音樂製作者[Samfree所作詞曲的](https://zh.wikipedia.org/wiki/Samfree "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲。實谷奈奈有發行本曲目的翻唱單曲。
 
 ## 概要
 
-最初是SAM（Samfree）於[NICONICO動畫上所發布的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[巡音流歌樂曲](../Page/巡音流歌.md "wikilink")，投稿於2009年2月12日。2010年達到170萬播放次數\[1\]。而在此之後，歌手[實谷奈奈的翻唱達到](https://zh.wikipedia.org/wiki/實谷奈奈 "wikilink")150萬播放次數，[DANCEROID的愛川梢的該曲編舞也達到](../Page/DANCEROID.md "wikilink")200萬播放次數\[2\]\[3\]。
+最初是SAM（Samfree）於[NICONICO動畫上所發布的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[巡音流歌](../Page/巡音流歌.md "wikilink")樂曲，投稿於2009年2月12日。2010年達到170萬播放次數\[1\]。而在此之後，歌手[實谷奈奈的翻唱達到](https://zh.wikipedia.org/wiki/實谷奈奈 "wikilink")150萬播放次數，[DANCEROID](../Page/DANCEROID.md "wikilink")的愛川梢的該曲編舞也達到200萬播放次數\[2\]\[3\]。
 
 ## 商業化
 
@@ -26,7 +26,7 @@
 
       - （2011年11月10日）
 
-          - 遊戲收錄歌曲。後述的[DANCEROID愛川梢作為動作主角](../Page/DANCEROID.md "wikilink")。
+          - 遊戲收錄歌曲。後述的[DANCEROID](../Page/DANCEROID.md "wikilink")愛川梢作為動作主角。
 
       - （2011年12月15日）
 
@@ -48,11 +48,11 @@
 
 :\*《》（Heartfull Entertainment、2010年10月27日）\[4\]
 
-:\*\*實谷奈奈的MAXI單曲。[DANCEROID舞者愛川梢的舞蹈收錄於DVD中](../Page/DANCEROID.md "wikilink")。
+:\*\*實谷奈奈的MAXI單曲。[DANCEROID](../Page/DANCEROID.md "wikilink")舞者愛川梢的舞蹈收錄於DVD中。
 
 :\*\*本單曲音源為再收錄。
 
-:\*\*採用於[科樂美的](../Page/科樂美.md "wikilink")《[Dance Evolution
+:\*\*採用於[科樂美](../Page/科樂美.md "wikilink")的《[Dance Evolution
 ARCADE](https://zh.wikipedia.org/wiki/DANCE_EVOLUTION "wikilink")》與《[REFLEC
 BEAT](https://zh.wikipedia.org/wiki/彈指火球 "wikilink")》。
 
@@ -76,7 +76,7 @@ Comic虎之穴的[コラボレーションCD專輯](https://zh.wikipedia.org/wik
 
 :\*
 
-:\*\*[網路偶像團體](https://zh.wikipedia.org/wiki/網路偶像 "wikilink")[DANCEROID成員愛川梢](../Page/DANCEROID.md "wikilink")（）於DANCEROID成立前的2009年7月3日自行投稿的影片。
+:\*\*[網路偶像團體](https://zh.wikipedia.org/wiki/網路偶像 "wikilink")[DANCEROID](../Page/DANCEROID.md "wikilink")成員愛川梢（）於DANCEROID成立前的2009年7月3日自行投稿的影片。
 
 :\*\*2011年2月突破230萬播放數。
 
@@ -84,7 +84,7 @@ Comic虎之穴的[コラボレーションCD專輯](https://zh.wikipedia.org/wik
 
 :\*《DANCEROID》（Heartfull Entertainment、2009年12月29日）
 
-:\*\*[DANCEROID的首張DVD](../Page/DANCEROID.md "wikilink")。本曲為該DVD的第二首和第九首歌曲，第九首為左右顛倒的版本。
+:\*\*[DANCEROID](../Page/DANCEROID.md "wikilink")的首張DVD。本曲為該DVD的第二首和第九首歌曲，第九首為左右顛倒的版本。
 
 ## 參考資料
 

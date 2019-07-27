@@ -1,4 +1,4 @@
-《**Love**》是[嵐的第](../Page/嵐.md "wikilink")15張專輯，第12枚原創專輯，於2013年10月23日發行。唱片公司為[J
+《**Love**》是[嵐](../Page/嵐.md "wikilink")的第15張專輯，第12枚原創專輯，於2013年10月23日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要
@@ -30,7 +30,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 4.  **Hit the floor**
     （作詞:alleztune、作曲:川口進、BERT、ROLF、編曲:石塚知生）
       -
-        [大野智獨唱](../Page/大野智.md "wikilink")
+        [大野智](../Page/大野智.md "wikilink")獨唱
 5.  **P・A・R・A・D・O・X**
     （作詞:AKIRA、H\&Co.、SQUAREF、s-Tnk、Rap詞:櫻井翔、作曲:James Bird、Olly
     Goodman、Michael Duke、Emma Rohan、編曲:A.K.Janeway、吉岡たく、James
@@ -40,7 +40,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 6.  **sugar and salt**
     （作詞:100+、Rap詞:櫻井翔、作曲･編曲:韻シスト）
       -
-        [櫻井翔獨唱](../Page/櫻井翔.md "wikilink")
+        [櫻井翔](../Page/櫻井翔.md "wikilink")獨唱
 7.  **[Breathless](https://zh.wikipedia.org/wiki/Calling/Breathless "wikilink")**
     （作詞：HYDRANT、作曲：Takuya Harada・Christofer Erixon・Joakim
     Björnberg、編曲：佐々木博史）
@@ -49,17 +49,17 @@ Storm](../Page/J_Storm.md "wikilink")。
 8.  **第20825天之歌**（20825日目の曲）
     （作詞･作曲:二宮和也、編曲:ha-j、二宮和也）
       -
-        [二宮和也獨唱](../Page/二宮和也.md "wikilink")
+        [二宮和也](../Page/二宮和也.md "wikilink")獨唱
 9.  '''Rock Tonight '''
     （作詞･作曲:100+、編曲:BJ Khan）
 10. **[Endless Game](../Page/Endless_Game.md "wikilink")**
     （作詞：100+、作曲：Chris Janey, Dyce Taylor、編曲：2H, Chris Janey）
       -
-        41st單曲。[富士電視台水十檔連續劇](../Page/富士電視台.md "wikilink")《[家族遊戲](../Page/家族遊戲.md "wikilink")》主題曲。
+        41st單曲。[富士電視台](../Page/富士電視台.md "wikilink")水十檔連續劇《[家族遊戲](../Page/家族遊戲.md "wikilink")》主題曲。
 11. **[Calling](https://zh.wikipedia.org/wiki/Calling/Breathless "wikilink")**
     （作詞：s-Tnk・eltvo、作曲：Andreas Johansson・youwhich、編曲：石塚知生）
       -
-        40th單曲。[富士電視台火九連續劇](../Page/富士電視台.md "wikilink")《[LAST
+        40th單曲。[富士電視台](../Page/富士電視台.md "wikilink")火九連續劇《[LAST
         HOPE](../Page/LAST_HOPE.md "wikilink")》主題曲。
 12. **給夜空的信**（夜空への手紙）
     （作詞:阿部祐也、作曲:ニホンジン、編曲:BIGSHOOTER BOYS）

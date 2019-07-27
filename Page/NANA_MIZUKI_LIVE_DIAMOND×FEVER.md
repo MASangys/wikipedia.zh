@@ -1,12 +1,12 @@
 『**NANA MIZUKI LIVE
-DIAMOND×FEVER**』是[水樹奈奈的第](../Page/水樹奈奈.md "wikilink")8作張Live影像作品\[1\]。2009年12月23日由[King
+DIAMOND×FEVER**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第8作張Live影像作品\[1\]。2009年12月23日由[King
 Records以Blu](https://zh.wikipedia.org/wiki/King_Records "wikilink")-ray
 Disc、DVD發售。
 
 ## 概要
 
 2009年舉行的巡迴演唱會「NANA MIZUKI LIVE
-FEVER」的1月25日・[日本武道館公演和](../Page/日本武道館.md "wikilink")7月5日在[西武巨蛋舉行的](../Page/西武巨蛋.md "wikilink")「NANA
+FEVER」的1月25日・[日本武道館](../Page/日本武道館.md "wikilink")公演和7月5日在[西武巨蛋](../Page/西武巨蛋.md "wikilink")舉行的「NANA
 MIZUKI LIVE DIAMOND」的影像收錄。
 
 ## 收錄内容

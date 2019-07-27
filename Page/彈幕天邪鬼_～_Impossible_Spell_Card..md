@@ -1,4 +1,4 @@
-为[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團制作的](../Page/上海愛莉絲幻樂團.md "wikilink")[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")\[1\]，是[东方Project系列的第](https://zh.wikipedia.org/wiki/东方Project "wikilink")14.3作\[2\]，亦是第一部名字中不含「東方」二字的東方作品。本作於第十一回[博丽神社例大祭](https://zh.wikipedia.org/wiki/博丽神社例大祭 "wikilink")（2014年5月11日）發布，並於5月18日委託販賣。
+为[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")制作的[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")\[1\]，是[东方Project系列的第](https://zh.wikipedia.org/wiki/东方Project "wikilink")14.3作\[2\]，亦是第一部名字中不含「東方」二字的東方作品。本作於第十一回[博丽神社例大祭](https://zh.wikipedia.org/wiki/博丽神社例大祭 "wikilink")（2014年5月11日）發布，並於5月18日委託販賣。
 
 在遊戲中，玩家需要通過操縱主人公鬼人正邪來對抗每一關卡中的頭目。然而與前作不同的是，在本作中玩家可以攜帶兩個道具來挑戰個關卡中頭目的符卡。
 

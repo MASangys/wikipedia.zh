@@ -17,18 +17,18 @@ OWARI在2011年的一段小故事。樂隊四人自組成樂隊起已經住在�
 以海洋為目標向前進 並沒有甚麼可怕的
 因為我們已經不再獨自一人了」。她之後拜託Fukase繼續餘下的部份，完成這首以[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")（RPG）為題材的歌曲。\[2\]
 
-這首歌帶有[進行曲的風格](https://zh.wikipedia.org/wiki/進行曲 "wikilink")，曲調輕快，[定音鼓和拍手聲混入其中](../Page/定音鼓.md "wikilink")，使用了[風琴](../Page/風琴.md "wikilink")、[班多鈕手風琴](https://zh.wikipedia.org/wiki/班多鈕手風琴 "wikilink")（Bandoneón）等各色各樣的樂器。\[3\]結他手Nakajin稱他用了[交響樂的方法來為](https://zh.wikipedia.org/wiki/交響樂 "wikilink")《RPG》編曲。他又指這首歌的音效是他們之前所沒有的，因此這首歌在音樂層面上對他們今後十分重要。\[4\]
+這首歌帶有[進行曲的風格](https://zh.wikipedia.org/wiki/進行曲 "wikilink")，曲調輕快，[定音鼓](../Page/定音鼓.md "wikilink")和拍手聲混入其中，使用了[風琴](../Page/風琴.md "wikilink")、[班多鈕手風琴](https://zh.wikipedia.org/wiki/班多鈕手風琴 "wikilink")（Bandoneón）等各色各樣的樂器。\[3\]結他手Nakajin稱他用了[交響樂的方法來為](https://zh.wikipedia.org/wiki/交響樂 "wikilink")《RPG》編曲。他又指這首歌的音效是他們之前所沒有的，因此這首歌在音樂層面上對他們今後十分重要。\[4\]
 
 ## 音樂影片
 
 SEKAI NO
 OWARI為了洗去過往認真的印象，故邀請了[田向潤擔任](https://zh.wikipedia.org/wiki/田向潤 "wikilink")《RPG》MV的導演。風格奇異的女歌手[Kyary
 Pamyu
-Pamyu的MV全部都是由田向潤導演的](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")。\[5\]MV內容為樂隊成員被一群小朋友引導，掀起革命的故事。\[6\]Fukase由於在發行幾個月前，於[国立代代木第一体育館舉行的演唱會後的慶功宴中受傷](../Page/國立代代木競技場.md "wikilink")，導致左腳腳趾骨折，所以在MV中提着一支柺杖。導演田向潤刻意在主唱Fukase腳部受傷時，在MV後半中加入舞蹈部份。這部份正式拍攝時，先拍攝戴上[石膏面具的舞蹈員跳舞的鏡頭](../Page/石膏.md "wikilink")，再拍攝多位成員本人上半身的鏡頭。\[7\]
+Pamyu的MV全部都是由田向潤導演的](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")。\[5\]MV內容為樂隊成員被一群小朋友引導，掀起革命的故事。\[6\]Fukase由於在發行幾個月前，於[国立代代木第一体育館舉行的演唱會後的慶功宴中受傷](../Page/國立代代木競技場.md "wikilink")，導致左腳腳趾骨折，所以在MV中提着一支柺杖。導演田向潤刻意在主唱Fukase腳部受傷時，在MV後半中加入舞蹈部份。這部份正式拍攝時，先拍攝戴上[石膏](../Page/石膏.md "wikilink")面具的舞蹈員跳舞的鏡頭，再拍攝多位成員本人上半身的鏡頭。\[7\]
 
 ## 排行榜成績
 
-單曲於發行後的星期六（即5月4日）以超過一萬張的銷量，取得當日[Oricon公信榜單曲日榜首名](../Page/Oricon公信榜.md "wikilink")。其後於發行首星期錄得銷量約7.9萬張，取得該榜的單曲週榜第2名，屈居於[Sexy
+單曲於發行後的星期六（即5月4日）以超過一萬張的銷量，取得當日[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲日榜首名。其後於發行首星期錄得銷量約7.9萬張，取得該榜的單曲週榜第2名，屈居於[Sexy
 Zone的](../Page/Sexy_Zone.md "wikilink")《[Real Sexy\!/BAD
 BOYS](https://zh.wikipedia.org/wiki/Real_Sexy!/BAD_BOYS "wikilink")》。\[8\]\[9\]這張單曲的首週銷量超過了上一張專輯《[ENTERTAINMENT](https://zh.wikipedia.org/wiki/ENTERTAINMENT "wikilink")》（約6.5萬張）和上一張單曲《[睡公主](https://zh.wikipedia.org/wiki/睡公主_\(單曲\) "wikilink")》（約3.7萬張）\[10\]，亦刷新了SEKAI
 NO OWARI自身的排名紀錄。
@@ -49,7 +49,7 @@ OWARI初次奪得該兩個排行榜的冠軍。\[13\]\[14\]
 
 | 排行榜（2013年）                                                                        | 最高排名 |
 | --------------------------------------------------------------------------------- | ---- |
-| [Oricon公信榜單曲日榜](../Page/Oricon公信榜.md "wikilink")\[15\]                            | 1    |
+| [Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲日榜\[15\]                            | 1    |
 | Oricon公信榜單曲周榜\[16\]                                                               | 2    |
 | [Billboard Japan Hot 100](https://zh.wikipedia.org/wiki/日本百強單曲榜 "wikilink")\[17\] | 1    |
 | Billboard JAPAN Hot Top Airplay\[18\]                                             | 2    |

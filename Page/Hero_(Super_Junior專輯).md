@@ -1,5 +1,5 @@
 《Hero》是韓國演唱團體[Super
-Junior的第一張日語正規專輯](../Page/Super_Junior.md "wikilink")，於2013年7月24日發行。\[1\]\[2\]專輯一發行便登上日本[Oricon公信榜專輯日榜首位](../Page/Oricon.md "wikilink")。\[3\]
+Junior的第一張日語正規專輯](../Page/Super_Junior.md "wikilink")，於2013年7月24日發行。\[1\]\[2\]專輯一發行便登上日本[Oricon](../Page/Oricon.md "wikilink")公信榜專輯日榜首位。\[3\]
 
 ## 簡介
 
@@ -34,7 +34,7 @@ Junior第五張正規專輯的改版專輯《[A-CHA](../Page/Mr._Simple.md "wiki
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon公信榜專輯日榜</a></p></td>
+<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>公信榜專輯日榜</p></td>
 <td><p>2013年7月23日</p></td>
 <td><center>
 <p>1</p>

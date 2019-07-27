@@ -1,4 +1,4 @@
-《**Verax**》是2013年[香港短片](../Page/香港.md "wikilink")，描写[爱德华·斯诺登危机](../Page/爱德华·斯诺登.md "wikilink")。\[1\]制片人是謝夫·發露（Jeff
+《**Verax**》是2013年[香港](../Page/香港.md "wikilink")短片，描写[爱德华·斯诺登](../Page/爱德华·斯诺登.md "wikilink")危机。\[1\]制片人是謝夫·發露（Jeff
 Floro）、李健恩（Edwin Lee）、謝兆龍（Shawn Tse）和崔正傑（Marcus
 Tsui）。\[2\]他們上載這段短片至[YouTube](../Page/YouTube.md "wikilink")。\[3\]
 

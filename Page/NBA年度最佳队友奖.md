@@ -1,10 +1,10 @@
 **NBA年度最佳队友奖**，全名**特曼-史托克斯年度最佳队友奖**（英文：Twyman–Stokes Teammate of the
 Year
-Award）為一年一度的[NBA獎項](../Page/NBA.md "wikilink")，頒發給被認為在比賽中「無私打球，對球隊專注敬業」的理想隊友。\[1\]
+Award）為一年一度的[NBA](../Page/NBA.md "wikilink")獎項，頒發給被認為在比賽中「無私打球，對球隊專注敬業」的理想隊友。\[1\]
 
 ## 由来
 
-這座獎項的命名由來是取自兩位前NBA球員[杰克·特威曼與](../Page/杰克·特威曼.md "wikilink")[莫里斯·斯托克斯](../Page/莫里斯·斯托克斯.md "wikilink")，他們自1955年到1958年一直是[羅徹斯特/辛辛那提皇家的隊友](../Page/沙加緬度國王.md "wikilink")，直到1958年例行賽最後一場比賽，史托克斯切入上籃後頭部重重摔落至地面並一度失去意識，但在之後醒了過來。三天過後季後賽正式開始，史托克斯依然正常上場比賽，但在搭飛機時，史托克斯開始全身不由自主顫抖和冒汗，接著陷入昏迷就此癱瘓，診斷結果為腦震盪後所引起的腦部病變。特曼之後成為史托克斯的法定監護人並替他爭取權益、創立基金會\[2\]\[3\]，直到他在1970年去世。2004年，在特曼的爭取下，史托克斯入選了[奈史密斯籃球名人紀念堂](https://zh.wikipedia.org/wiki/奈史密斯籃球名人紀念堂 "wikilink")。\[4\]
+這座獎項的命名由來是取自兩位前NBA球員[杰克·特威曼](../Page/杰克·特威曼.md "wikilink")與[莫里斯·斯托克斯](../Page/莫里斯·斯托克斯.md "wikilink")，他們自1955年到1958年一直是[羅徹斯特/辛辛那提皇家的隊友](../Page/沙加緬度國王.md "wikilink")，直到1958年例行賽最後一場比賽，史托克斯切入上籃後頭部重重摔落至地面並一度失去意識，但在之後醒了過來。三天過後季後賽正式開始，史托克斯依然正常上場比賽，但在搭飛機時，史托克斯開始全身不由自主顫抖和冒汗，接著陷入昏迷就此癱瘓，診斷結果為腦震盪後所引起的腦部病變。特曼之後成為史托克斯的法定監護人並替他爭取權益、創立基金會\[2\]\[3\]，直到他在1970年去世。2004年，在特曼的爭取下，史托克斯入選了[奈史密斯籃球名人紀念堂](https://zh.wikipedia.org/wiki/奈史密斯籃球名人紀念堂 "wikilink")。\[4\]
 
 ## 奖项设置
 
@@ -14,10 +14,10 @@ Award）為一年一度的[NBA獎項](../Page/NBA.md "wikilink")，頒發給被�
 
 ## 获奖情况
 
-[洛杉磯快艇隊後衛](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")[昌西·比卢普斯為首位得獎者](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink")，[邁阿密熱火隊前鋒](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")[肖恩·巴蒂尔得到第二名](../Page/肖恩·巴蒂尔.md "wikilink")，而紐約尼克隊後衛[傑森·基德得到第三名](https://zh.wikipedia.org/wiki/傑森·基德 "wikilink")。\[7\]而巴蒂尔則在[2013-14
+[洛杉磯快艇隊後衛](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")[昌西·比卢普斯為首位得獎者](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink")，[邁阿密熱火隊前鋒](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")[肖恩·巴蒂尔](../Page/肖恩·巴蒂尔.md "wikilink")得到第二名，而紐約尼克隊後衛[傑森·基德得到第三名](https://zh.wikipedia.org/wiki/傑森·基德 "wikilink")。\[7\]而巴蒂尔則在[2013-14
 NBA賽季得到此獎](../Page/2013-14_NBA賽季.md "wikilink")，[艾爾·傑佛森得到第二名](https://zh.wikipedia.org/wiki/艾爾·傑佛森 "wikilink")，而[德克·諾威斯基得到第三名](https://zh.wikipedia.org/wiki/德克·諾威斯基 "wikilink")。\[8\]
 [蒂姆·邓肯在](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")[2014-15
-NBA赛季得到此奖](https://zh.wikipedia.org/wiki/2014-15_NBA赛季 "wikilink")。\[9\][文斯·卡特得到第二名](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink")，[埃尔顿·布兰德得到第三名](../Page/埃尔顿·布兰德.md "wikilink")。
+NBA赛季得到此奖](https://zh.wikipedia.org/wiki/2014-15_NBA赛季 "wikilink")。\[9\][文斯·卡特得到第二名](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink")，[埃尔顿·布兰德](../Page/埃尔顿·布兰德.md "wikilink")得到第三名。
 
 ## 得獎者
 

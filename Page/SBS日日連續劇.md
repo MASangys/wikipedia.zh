@@ -40,7 +40,7 @@
 <td><p>每週一至週五 逢晚間10點15分</p></td>
 <td><p>100分</p></td>
 <td><p>align="center"=2|含廣告兩集連播<br />
-與<a href="../Page/SBS晨間連續劇.md" title="wikilink">SBS晨間連續劇交替播出</a></p></td>
+與<a href="../Page/SBS晨間連續劇.md" title="wikilink">SBS晨間連續劇</a>交替播出</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年4月25日-現在</p></td>

@@ -64,7 +64,7 @@ TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設�
 <tr class="odd">
 <td><p>2011年6月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
-<td><p><a href="../Page/國立代代木競技場.md" title="wikilink">國立代代木競技場第一體育館</a></p></td>
+<td><p><a href="../Page/國立代代木競技場.md" title="wikilink">國立代代木競技場</a>第一體育館</p></td>
 <td><p>總計52,000名</p></td>
 <td></td>
 </tr>

@@ -1,9 +1,9 @@
 [thumb](https://zh.wikipedia.org/wiki/image:RockAmRingMarilynManson.jpg "wikilink")\]\]
 
 **Rock am Ring** (*Rock at the Ring*) 和 **Rock im Park** (*Rock in the
-Park*)音乐节是每年在[德国同时举办的两个](../Page/德国.md "wikilink")[摇滚音乐节](../Page/摇滚.md "wikilink")。所有音乐人在三天音乐节里，一天是在纽伯格林Rock
+Park*)音乐节是每年在[德国](../Page/德国.md "wikilink")同时举办的两个[摇滚](../Page/摇滚.md "wikilink")音乐节。所有音乐人在三天音乐节里，一天是在纽伯格林Rock
 am Ring表演，另一天是在纽伦堡Rock im Park表演。Rock im Park和Rock am
-Ring一起是[德国最大的音乐节盛会](../Page/德国.md "wikilink")，在2007年共有超过15万人参观者，成为全世界最大音乐节之一，这音乐会的门票也首次提前售罄一空。\[1\]
+Ring一起是[德国](../Page/德国.md "wikilink")最大的音乐节盛会，在2007年共有超过15万人参观者，成为全世界最大音乐节之一，这音乐会的门票也首次提前售罄一空。\[1\]
 
 ## 2012音乐节
 

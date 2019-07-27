@@ -5,16 +5,16 @@ Watch
 Watch 有三個系列：Apple Watch Sport、Apple Watch 和 Apple Watch
 Edition。這些系列的將由不同錶殼與錶帶的組合做出區別。
 
-由於作為蘋果配件的定位，為這支手錶所設計的許多預設功能甚至第三方程式必須依靠與iPhone連結才能運行（例如撥打電話和傳送簡訊），透過[藍芽或](https://zh.wikipedia.org/wiki/藍芽 "wikilink")[Wi-Fi以無線的方式與安裝有](../Page/Wi-Fi.md "wikilink")[iOS
+由於作為蘋果配件的定位，為這支手錶所設計的許多預設功能甚至第三方程式必須依靠與iPhone連結才能運行（例如撥打電話和傳送簡訊），透過[藍芽或](https://zh.wikipedia.org/wiki/藍芽 "wikilink")[Wi-Fi](../Page/Wi-Fi.md "wikilink")以無線的方式與安裝有[iOS
 8.2或更新版本的](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")[iPhone
 5及後繼機種連結](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")。Apple
 Watch 在2015年4月10日開放預購，並在2015年4月24日正式上市\[1\]\[2\]。
 
 ## 功能
 
-在2014年9月9日的發表會上，蘋果宣布蘋果手錶將支援[行動支付平台](../Page/行動支付.md "wikilink")[Apple
+在2014年9月9日的發表會上，蘋果宣布蘋果手錶將支援[行動支付](../Page/行動支付.md "wikilink")平台[Apple
 Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")。此外，手錶在與[iPhone連結後可撥打和接聽電話](https://zh.wikipedia.org/wiki/iPhone "wikilink")、傳送和閱讀[iMessage和](https://zh.wikipedia.org/wiki/iMessage "wikilink")[SMS簡訊](https://zh.wikipedia.org/wiki/SMS "wikilink")、追蹤健康及運動狀況、執行第三方開發的應用程式（app）。蘋果手錶能控制[Apple
-TV](../Page/Apple_TV.md "wikilink")，並可當作[對講機及iPhone相機的取景窗使用](https://zh.wikipedia.org/wiki/對講機 "wikilink")\[3\]。透過手錶中內建的地圖應用程式，可提供穿戴者導航與方向指引。此外手錶也能在[Passbook中儲存會員卡](https://zh.wikipedia.org/wiki/Passbook "wikilink")、入場門票和登機證等票卷。蘋果手錶中也包含了數位個人助理[Siri功能](../Page/Siri.md "wikilink")。手錶採用了力道感應觸控（force
+TV](../Page/Apple_TV.md "wikilink")，並可當作[對講機及iPhone相機的取景窗使用](https://zh.wikipedia.org/wiki/對講機 "wikilink")\[3\]。透過手錶中內建的地圖應用程式，可提供穿戴者導航與方向指引。此外手錶也能在[Passbook中儲存會員卡](https://zh.wikipedia.org/wiki/Passbook "wikilink")、入場門票和登機證等票卷。蘋果手錶中也包含了數位個人助理[Siri](../Page/Siri.md "wikilink")功能。手錶採用了力道感應觸控（force
 touch）的輸入方式，能感測穿戴者按壓螢幕的力道大小。
 
 若殘餘電池的電量低於特定程度，手錶將會自動進入「省電」模式，能讓穿戴者能夠在接下來的72小時內繼續查看時間。手錶在充電後即會回復至一般的正常模式\[4\]。
@@ -33,8 +33,8 @@ Store與其他App Store使用方式類似，下載任何應用程式前需要點
 
 ## 設計
 
-蘋果手錶共有三種系列，提供兩種不同尺寸的錶殼：和，總共有38種不同的款式組合\[7\]。錶殼上裝有可交換不同錶帶的裝置設計。蘋果手錶的[觸控式螢幕可感測按壓力道](../Page/觸控式螢幕.md "wikilink")，能分辨輕點和按壓的不同。手錶側面裝有一個數位[錶冠](https://zh.wikipedia.org/wiki/手錶 "wikilink")（digital
-crown），透過旋轉錶冠可捲動畫面內容，按下錶冠則可回到主畫面。手錶上同時也有一個按鈕，按下後可顯示聯絡人列表\[8\]。蘋果手錶透過[無線充電方式充電](../Page/無線充電.md "wikilink")，使用與蘋果公司[MacBook家族之](https://zh.wikipedia.org/wiki/MacBook家族 "wikilink")[MagSafe近似的充電線](../Page/MagSafe.md "wikilink")\[9\]。
+蘋果手錶共有三種系列，提供兩種不同尺寸的錶殼：和，總共有38種不同的款式組合\[7\]。錶殼上裝有可交換不同錶帶的裝置設計。蘋果手錶的[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")可感測按壓力道，能分辨輕點和按壓的不同。手錶側面裝有一個數位[錶冠](https://zh.wikipedia.org/wiki/手錶 "wikilink")（digital
+crown），透過旋轉錶冠可捲動畫面內容，按下錶冠則可回到主畫面。手錶上同時也有一個按鈕，按下後可顯示聯絡人列表\[8\]。蘋果手錶透過[無線充電](../Page/無線充電.md "wikilink")方式充電，使用與蘋果公司[MacBook家族之](https://zh.wikipedia.org/wiki/MacBook家族 "wikilink")[MagSafe](../Page/MagSafe.md "wikilink")近似的充電線\[9\]。
 
 蘋果為了蘋果手錶開發了一套名為「[San
 Francisco](../Page/San_Francisco_\(2014年的字体\).md "wikilink")」的專屬字體，該字體是為了在手錶小型螢幕上顯示而特別設計。
@@ -50,18 +50,18 @@ Store展示的Apple Watch
 ## 硬體
 
 蘋果手錶使用蘋果的[S1處理器](../Page/Apple_S1.md "wikilink")，以「在單一晶片上包含了整台電腦的架構」作為宣傳。此外，手錶也使用了稱為「Taptic
-Engine」的[直線步進馬達](https://zh.wikipedia.org/wiki/直線步進馬達 "wikilink")，能在收到通知或警示時提供[觸覺回饋](https://zh.wikipedia.org/wiki/觸覺回饋 "wikilink")。手錶內建了使用[紅外線和可見光](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[LED及](https://zh.wikipedia.org/wiki/LED "wikilink")[光电二极管的](../Page/光电二极管.md "wikilink")[心率監測儀](https://zh.wikipedia.org/wiki/心率監測儀 "wikilink")\[10\]。手錶具有[IPX7的防水認證等級](../Page/国际防护等级认证.md "wikilink")，但不建議將整隻手錶浸入水中\[11\]。所有版本的蘋果手錶皆內建8
+Engine」的[直線步進馬達](https://zh.wikipedia.org/wiki/直線步進馬達 "wikilink")，能在收到通知或警示時提供[觸覺回饋](https://zh.wikipedia.org/wiki/觸覺回饋 "wikilink")。手錶內建了使用[紅外線和可見光](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[LED及](https://zh.wikipedia.org/wiki/LED "wikilink")[光电二极管](../Page/光电二极管.md "wikilink")的[心率監測儀](https://zh.wikipedia.org/wiki/心率監測儀 "wikilink")\[10\]。手錶具有[IPX7的防水認證等級](../Page/国际防护等级认证.md "wikilink")，但不建議將整隻手錶浸入水中\[11\]。所有版本的蘋果手錶皆內建8
 [GB的儲存空間](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")，能讓使用者存放最多2
 GB的音樂，以及75
 MB的相片，然而，這些限制僅在蘋果手錶未連接至iPhone時適用，當手錶與iPhone連接後，所有iPhone中的音樂和相片皆可在手錶上聆聽或觀賞\[12\]。
 
 蘋果手錶使用了彈性的[Retina](https://zh.wikipedia.org/wiki/Retina_Display "wikilink")
-[AMOLED螢幕](../Page/AMOLED.md "wikilink")，這是第一款使用AMOLED科技的蘋果公司產品\[13\]。
+[AMOLED](../Page/AMOLED.md "wikilink")螢幕，這是第一款使用AMOLED科技的蘋果公司產品\[13\]。
 
 手錶與運行[iOS
 8.2或更新版本的](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")[iPhone
 5與其後繼機種相容](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")，透過[藍芽
-4.0和](https://zh.wikipedia.org/wiki/藍芽 "wikilink")[Wi-Fi連接](../Page/Wi-Fi.md "wikilink")\[14\]。
+4.0和](https://zh.wikipedia.org/wiki/藍芽 "wikilink")[Wi-Fi](../Page/Wi-Fi.md "wikilink")連接\[14\]。
 
 ## 系列比較
 
@@ -168,7 +168,7 @@ Apple Watch系列配有拋光鏡面不鏽鋼和太空黑色不鏽鋼錶殼。[19
 </tr>
 <tr class="odd">
 <td><p>連接埠</p></td>
-<td><p>手錶透過<a href="../Page/無線充電.md" title="wikilink">無線充電方式充電</a>，使用與蘋果公司<a href="https://zh.wikipedia.org/wiki/MackBook家族" title="wikilink">MackBook家族之</a><a href="../Page/MagSafe.md" title="wikilink">MagSafe近似的充電線</a>。</p></td>
+<td><p>手錶透過<a href="../Page/無線充電.md" title="wikilink">無線充電</a>方式充電，使用與蘋果公司<a href="https://zh.wikipedia.org/wiki/MackBook家族" title="wikilink">MackBook家族之</a><a href="../Page/MagSafe.md" title="wikilink">MagSafe</a>近似的充電線。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -186,7 +186,7 @@ Apple Watch系列配有拋光鏡面不鏽鋼和太空黑色不鏽鋼錶殼。[19
 </tr>
 <tr class="even">
 <td><p>適用性</p></td>
-<td><p>支援執行<a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8.2或更新版本作業系統的</a><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">iPhone 5及後續機種</a>，與裝置間透過<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi或</a><a href="https://zh.wikipedia.org/wiki/藍芽" title="wikilink">藍芽4.0連結</a>。</p></td>
+<td><p>支援執行<a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8.2或更新版本作業系統的</a><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">iPhone 5及後續機種</a>，與裝置間透過<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>或<a href="https://zh.wikipedia.org/wiki/藍芽" title="wikilink">藍芽4.0連結</a>。</p></td>
 <td></td>
 <td></td>
 </tr>

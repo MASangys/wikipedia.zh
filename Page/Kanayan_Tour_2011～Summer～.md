@@ -1,11 +1,11 @@
 《**Kanayan Tour
-2011～Summer～**》為[日本歌手](../Page/日本.md "wikilink")[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2011年在[日本舉行的巡迴演唱會](../Page/日本.md "wikilink")。
+2011～Summer～**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2011年在[日本](../Page/日本.md "wikilink")舉行的巡迴演唱會。
 
 ## 解說
 
   - 演唱會內容主要以第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Thank
     you, Love](../Page/Thank_you,_Love.md "wikilink")》為主。
-  - 2011年7月由[埼玉縣開始演出到同年](../Page/埼玉縣.md "wikilink")9月的[日本武道館追加公演閉幕](../Page/日本武道館.md "wikilink")。共16會場17公演合計5萬人的動員人次\[1\]\[2\]。同年12月7日發行西野首張LIVE作品《*[Kanayan
+  - 2011年7月由[埼玉縣](../Page/埼玉縣.md "wikilink")開始演出到同年9月的[日本武道館](../Page/日本武道館.md "wikilink")追加公演閉幕。共16會場17公演合計5萬人的動員人次\[1\]\[2\]。同年12月7日發行西野首張LIVE作品《*[Kanayan
     Tour
     2011〜Summer〜](https://zh.wikipedia.org/wiki/#影音作品《Kanayan_Tour_2011～Summer～》 "wikilink")*》。
 

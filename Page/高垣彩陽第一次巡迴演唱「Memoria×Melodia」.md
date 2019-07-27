@@ -1,4 +1,4 @@
-『**高垣彩陽第一次巡迴演唱「Memoria×Melodia」**』（高垣彩陽ファーストコンサートツアー「Memoria×Melodia」）是[高垣彩陽的Live影像作品](../Page/高垣彩陽.md "wikilink")。2012年6月13日由[Music
+『**高垣彩陽第一次巡迴演唱「Memoria×Melodia」**』（高垣彩陽ファーストコンサートツアー「Memoria×Melodia」）是[高垣彩陽](../Page/高垣彩陽.md "wikilink")的Live影像作品。2012年6月13日由[Music
 Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 ## 收錄内容

@@ -1,4 +1,4 @@
-**TÜV南德意志集團**（）是一個優質、安全和可持續發展的專業測試、檢驗、審核、驗證，培訓和知識服務解決方案獨立第三方驗證單位，總部在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")，是[TÜV組織的成員之一](../Page/TÜV組織.md "wikilink")。TÜV南德意志集團全球有超過850個據點，員工約24,000人，因此在歐洲、美洲、中東、亞洲和非洲備受盛譽。透過客觀公正的專業知識和寶貴的見解，為企業、消費者和環境增添顯著價值。TÜV
+**TÜV南德意志集團**（）是一個優質、安全和可持續發展的專業測試、檢驗、審核、驗證，培訓和知識服務解決方案獨立第三方驗證單位，總部在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")，是[TÜV組織](../Page/TÜV組織.md "wikilink")的成員之一。TÜV南德意志集團全球有超過850個據點，員工約24,000人，因此在歐洲、美洲、中東、亞洲和非洲備受盛譽。透過客觀公正的專業知識和寶貴的見解，為企業、消費者和環境增添顯著價值。TÜV
 SÜD旨在透過綜合完善的一站式服務，幫助全球客戶提高生產和營運效率、降低成本、控制風險。
 
 ## 歷史沿革
@@ -36,7 +36,7 @@ Services）無損材料測試和檢驗服務公司
 
 ## 服務領域
 
-  - 消費產品：電子電氣產品、家電產品、運動器材、[手工具產品](https://zh.wikipedia.org/wiki/手工具 "wikilink")、[燈具及零組件](https://zh.wikipedia.org/wiki/燈具 "wikilink")、電源、電池、輕工產品、帶電醫療器材、不帶電醫療器材、[玩具及](../Page/玩具.md "wikilink")[化學](https://zh.wikipedia.org/wiki/化学 "wikilink")。
+  - 消費產品：電子電氣產品、家電產品、運動器材、[手工具產品](https://zh.wikipedia.org/wiki/手工具 "wikilink")、[燈具及零組件](https://zh.wikipedia.org/wiki/燈具 "wikilink")、電源、電池、輕工產品、帶電醫療器材、不帶電醫療器材、[玩具](../Page/玩具.md "wikilink")及[化學](https://zh.wikipedia.org/wiki/化学 "wikilink")。
   - 工業服務：[風力能源](https://zh.wikipedia.org/wiki/風力發電廠 "wikilink")、[太陽能源](https://zh.wikipedia.org/wiki/太陽能發電 "wikilink")、核能、工業、承壓設備、防火測試、ATEX防爆...等。
 
 <!-- end list -->

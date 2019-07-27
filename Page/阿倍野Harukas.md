@@ -1,4 +1,4 @@
-**阿倍野HARUKAS**（）是位於[日本](../Page/日本.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[阿倍野區的](../Page/阿倍野區.md "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，於2010年1月9日開工，2014年3月7日全部完工啟用\[1\]\[2\]\[3\]。阿倍野HARUKAS地上部分共有60層，高300米，是日本第一高樓，也是日本第三高[結構物](https://zh.wikipedia.org/wiki/結構物 "wikilink")，僅次於[東京晴空塔](../Page/東京晴空塔.md "wikilink")（634m）和[東京鐵塔](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")（332.6m）。阿倍野HARUKAS的低層部分是[近鐵百貨阿倍野HARUKAS本店和](https://zh.wikipedia.org/wiki/近鐵百貨阿倍野HARUKAS本店 "wikilink")[HARUKAS美術館](https://zh.wikipedia.org/wiki/HARUKAS美術館 "wikilink")\[4\]\[5\]，中層部分是辦公室，高層部分則是[大阪萬豪都酒店和](https://zh.wikipedia.org/wiki/大阪萬豪都酒店 "wikilink")[HARUKAS300展望台](https://zh.wikipedia.org/wiki/HARUKAS300展望台 "wikilink")。現在[夏普將其位於大阪市內的營業據點記者設置在阿倍野HARUKAS](https://zh.wikipedia.org/wiki/夏普 "wikilink")\[6\]\[7\]。另外在18樓則有多家銀行和證券公司入駐\[8\]。
+**阿倍野HARUKAS**（）是位於[日本](../Page/日本.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[阿倍野區](../Page/阿倍野區.md "wikilink")的[摩天大樓](../Page/摩天大樓.md "wikilink")，於2010年1月9日開工，2014年3月7日全部完工啟用\[1\]\[2\]\[3\]。阿倍野HARUKAS地上部分共有60層，高300米，是日本第一高樓，也是日本第三高[結構物](https://zh.wikipedia.org/wiki/結構物 "wikilink")，僅次於[東京晴空塔](../Page/東京晴空塔.md "wikilink")（634m）和[東京鐵塔](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")（332.6m）。阿倍野HARUKAS的低層部分是[近鐵百貨阿倍野HARUKAS本店和](https://zh.wikipedia.org/wiki/近鐵百貨阿倍野HARUKAS本店 "wikilink")[HARUKAS美術館](https://zh.wikipedia.org/wiki/HARUKAS美術館 "wikilink")\[4\]\[5\]，中層部分是辦公室，高層部分則是[大阪萬豪都酒店和](https://zh.wikipedia.org/wiki/大阪萬豪都酒店 "wikilink")[HARUKAS300展望台](https://zh.wikipedia.org/wiki/HARUKAS300展望台 "wikilink")。現在[夏普將其位於大阪市內的營業據點記者設置在阿倍野HARUKAS](https://zh.wikipedia.org/wiki/夏普 "wikilink")\[6\]\[7\]。另外在18樓則有多家銀行和證券公司入駐\[8\]。
 
 ## 概要
 
@@ -147,7 +147,7 @@
 <td><p>B2F - B1F</p></td>
 <td><p>近鐵百貨 阿倍野HARUKAS本店 簡餐美食街</p>
 <hr>
-<p><a href="../Page/大阪市營地下鐵.md" title="wikilink">大阪市營地下鐵</a> <a href="../Page/天王寺站.md" title="wikilink">天王寺站直通</a></p></td>
+<p><a href="../Page/大阪市營地下鐵.md" title="wikilink">大阪市營地下鐵</a> <a href="../Page/天王寺站.md" title="wikilink">天王寺站</a>直通</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -244,7 +244,7 @@
 1.  [高さ日本一の300M大阪「あべのハルカス」全面開業](http://www.asahi.com/articles/ASG3730VYG37PLFA001.html)
     - 朝日新聞デジタル2014年3月7日
 2.  [あべのハルカス：「日本一尽くし」で全面開業](http://mainichi.jp/graph/2014/03/07/20140307k0000e020148000c/001.html)
-    - 毎日新聞2014年3月7日
+     - 毎日新聞2014年3月7日
 3.  [日本一300メートル、あべのハルカス全面開業](http://www.yomiuri.co.jp/homeguide/news/20140307-OYT8T00731.html)
      - 読売新聞2014年3月7日
 4.  [「あべの美術館（仮称）」計画の特別顧問に蓑豊氏を招聘](http://www.kintetsu.jp/news/files/abenominosi100428.pdf)近畿日本鉄道2010年4月28日閲覧

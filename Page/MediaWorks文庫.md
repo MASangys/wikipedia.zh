@@ -1,15 +1,15 @@
-**MediaWorks文庫**（）是日本出版社[MediaWorks](../Page/MediaWorks.md "wikilink")（已併入[角川公司](https://zh.wikipedia.org/wiki/角川公司 "wikilink")）於2009年12月16日創刊的[文庫系列](../Page/文庫.md "wikilink")，在每月25日會出版新書。
+**MediaWorks文庫**（）是日本出版社[MediaWorks](../Page/MediaWorks.md "wikilink")（已併入[角川公司](https://zh.wikipedia.org/wiki/角川公司 "wikilink")）於2009年12月16日創刊的[文庫](../Page/文庫.md "wikilink")系列，在每月25日會出版新書。
 
 ## 概要
 
-MediaWorks原有創立已久的[輕小說書系](../Page/輕小說.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")，電擊文庫在日本的讀者群有一大部份是在學學生，這些閱讀過輕小說的學生在畢業出社會後，閱讀的興趣從奇幻、娛樂色彩較重的輕小說，逐漸轉向到具有文藝成份的小說作品，因此MediaWorks為開拓這類讀者群的市場，而創辦MediaWorks文庫。對於以閱讀文藝作品為主而未讀過輕小說的另一個讀者群，也是MediaWorks文庫欲爭取的目標客群之一。
+MediaWorks原有創立已久的[輕小說](../Page/輕小說.md "wikilink")書系[電擊文庫](../Page/電擊文庫.md "wikilink")，電擊文庫在日本的讀者群有一大部份是在學學生，這些閱讀過輕小說的學生在畢業出社會後，閱讀的興趣從奇幻、娛樂色彩較重的輕小說，逐漸轉向到具有文藝成份的小說作品，因此MediaWorks為開拓這類讀者群的市場，而創辦MediaWorks文庫。對於以閱讀文藝作品為主而未讀過輕小說的另一個讀者群，也是MediaWorks文庫欲爭取的目標客群之一。
 
-MediaWorks文庫封面繪圖大多為漫畫風格，但減少了電擊文庫等輕小說書系常見的[萌系畫風](../Page/萌.md "wikilink")，而內頁的黑白插圖也通常少於輕小說，甚至完全沒有插圖。與電擊文庫相比，內頁的字體有所放大。一些在輕小說界頗為活躍的作家也在MediaWorks文庫推出作品，例如[入間人間](../Page/入間人間.md "wikilink")、[杉井光](../Page/杉井光.md "wikilink")。
+MediaWorks文庫封面繪圖大多為漫畫風格，但減少了電擊文庫等輕小說書系常見的[萌](../Page/萌.md "wikilink")系畫風，而內頁的黑白插圖也通常少於輕小說，甚至完全沒有插圖。與電擊文庫相比，內頁的字體有所放大。一些在輕小說界頗為活躍的作家也在MediaWorks文庫推出作品，例如[入間人間](../Page/入間人間.md "wikilink")、[杉井光](../Page/杉井光.md "wikilink")。
 
-[電擊小說大獎於](../Page/電擊小說大獎.md "wikilink")2009年第16屆起新增Media
+[電擊小說大獎](../Page/電擊小說大獎.md "wikilink")於2009年第16屆起新增Media
 Works文庫獎，正賞+副賞可得100萬日圓，得獎作品會於MediaWorks文庫出版。
 
-[台灣角川翻譯代理MediaWorks文庫的作品](../Page/台灣角川.md "wikilink")，將其歸類至「輕文學」與「文學放映所」書系，書本尺寸也大於一般的輕小說。
+[台灣角川](../Page/台灣角川.md "wikilink")翻譯代理MediaWorks文庫的作品，將其歸類至「輕文學」與「文學放映所」書系，書本尺寸也大於一般的輕小說。
 
 ## 作品一覽
 
@@ -34,7 +34,7 @@ Works文庫獎，正賞+副賞可得100萬日圓，得獎作品會於MediaWorks�
 <td><p>2009年12月～</p></td>
 <td><p>已發行2巻；腳本集</p></td>
 <td><p>大矢正和</p></td>
-<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a>、<a href="../Page/天闻角川.md" title="wikilink">天闻角川代理</a></p></td>
+<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a>、<a href="../Page/天闻角川.md" title="wikilink">天闻角川</a>代理</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/入間人間.md" title="wikilink">入間人間</a></p></td>

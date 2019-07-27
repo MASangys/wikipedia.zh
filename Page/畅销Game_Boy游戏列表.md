@@ -64,7 +64,7 @@ Color游戏](../Page/Game_Boy_Color.md "wikilink")。
 <td><p>估计300万：美国151万[32]，日本139万[33]，英国10万[34]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/超级马里奥兄弟.md" title="wikilink">超级马里奥兄弟DX</a></p></td>
+<td><p><a href="../Page/超级马里奥兄弟.md" title="wikilink">超级马里奥兄弟</a>DX</p></td>
 <td><p>美国280万[35]</p></td>
 </tr>
 <tr class="odd">
@@ -100,7 +100,7 @@ Color游戏](../Page/Game_Boy_Color.md "wikilink")。
 <td><p>日本145万[46]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/他媽哥池.md" title="wikilink">他媽哥池2</a></p></td>
+<td><p><a href="../Page/他媽哥池.md" title="wikilink">他媽哥池</a>2</p></td>
 <td><p>日本145万[47]</p></td>
 </tr>
 <tr class="even">

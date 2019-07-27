@@ -23,7 +23,7 @@ Vita存储卡和一个[DualShock
 索尼电脑娱乐公司首席执行官表示索尼希望能够使用PSVita
 TV打入中国游戏市场。在2013年时，中国大陆市场[禁止销售电子游戏机](../Page/中国大陆游戏机历史.md "wikilink")\[8\]。PSVita
 TV于2014年1月16日在其他五个东南亚国家和香港地区发布\[9\]。在上，索尼公布该主机将于2014年第三季度在北美和欧洲推出，名称为PlayStation
-TV\[10\]。最终在2014年[Gamescom展会上宣布了北美及欧洲地区的最终发行日期](../Page/Gamescom.md "wikilink")\[11\]。
+TV\[10\]。最终在2014年[Gamescom](../Page/Gamescom.md "wikilink")展会上宣布了北美及欧洲地区的最终发行日期\[11\]。
 
 3.15版本系统软件更新于2014年4月30日发布，该版本新增支持PSVita
 TV远程串流PS4游戏，而注册地在亚洲及日本以外的PSN账户当时尚未支持PS4远程播放功能。至2014年10月，随着3.30版本系统固件更新的发布，该功能也可用于日本及亚洲地区以外的PlayStation
@@ -34,13 +34,13 @@ Now功能在北美于](../Page/PlayStation_Now.md "wikilink")2014年10月14日�
 
 2015年3月底，索尼在欧洲将PS TV的价格下调了40%至59.99欧元。同一周内PS TV在欧洲的销售额增长了1272％\[13\]。
 
-2016年2月29日，[Engadget报道索尼停止在日本发售PSVita](../Page/Engadget.md "wikilink")
+2016年2月29日，[Engadget](../Page/Engadget.md "wikilink")报道索尼停止在日本发售PSVita
 TV\[14\]。索尼之后确认PS TV在美洲和欧洲已于2015年底停止发货，但日本之外的亚洲部分国家和地区将暂时继续销售\[15\]。
 
 ## 功能
 
 [PlayStation-TV-BL.jpg](https://zh.wikipedia.org/wiki/File:PlayStation-TV-BL.jpg "fig:PlayStation-TV-BL.jpg")
-主机通过[HDMI连接显示器](../Page/HDMI.md "wikilink")，而并非通过内置屏幕。使用者可以使用[DualShock
+主机通过[HDMI](../Page/HDMI.md "wikilink")连接显示器，而并非通过内置屏幕。使用者可以使用[DualShock
 3手柄进行控制](../Page/DualShock.md "wikilink")\[16\]（在2014年3月25日发布的3.10固件更新新增了对[DualShock
 4手柄的支持](../Page/DualShock.md "wikilink")\[17\]），由于手柄缺少许多PlayStation
 Vita的功能，部分需要这些功能的游戏及应用程序无法在PSVita TV上运行。列如部分使用PlayStation
@@ -62,7 +62,7 @@ Vita设备中删除\[22\]。
 主机支持与[PlayStation
 4进行](../Page/PlayStation_4.md "wikilink")，该功能可以让PlayStation
 4上的游戏串流至PSVita
-TV，同时允许玩家串流来自视频服务的内容，例如[Hulu和](../Page/Hulu.md "wikilink")[Niconico](https://zh.wikipedia.org/wiki/Niconico "wikilink")。也可以远程访问PlayStation
+TV，同时允许玩家串流来自视频服务的内容，例如[Hulu](../Page/Hulu.md "wikilink")和[Niconico](https://zh.wikipedia.org/wiki/Niconico "wikilink")。也可以远程访问PlayStation
 4的[PlayStation Store](../Page/PlayStation_Store.md "wikilink")。PSVita
 TV的PS4 Remote Play功能需要PS4的固件版本为1.70及以上才可以正常游玩\[23\]\[24\]。PSVita
 TV主机包含了PS Vita设备的一些功能，如网页浏览器和电子邮件客户端\[25\]。索尼计划在未来为PSVita

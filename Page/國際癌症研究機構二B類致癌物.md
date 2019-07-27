@@ -291,7 +291,7 @@ EINECS</p></th>
 <td><p>b-Butyrolactone，别名4-甲基-β-丙酰内酯；B-丁内酯；Β-丁内酮，分子式为C<sub>4</sub>H<sub>6</sub>O<sub>2</sub></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/酯.md" title="wikilink">酯類</a>，可作<a href="https://zh.wikipedia.org/wiki/單體" title="wikilink">單體</a>[9][10]</p></td>
+<td><p><a href="../Page/酯.md" title="wikilink">酯</a>類，可作<a href="https://zh.wikipedia.org/wiki/單體" title="wikilink">單體</a>[9][10]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/碳煙" title="wikilink">碳煙</a></p></td>
@@ -326,7 +326,7 @@ EINECS</p></th>
 <td></td>
 <td></td>
 <td></td>
-<td><p>（，殺<a href="https://zh.wikipedia.org/wiki/蟲" title="wikilink">蟲</a>﹑殺<a href="../Page/真菌.md" title="wikilink">真菌藥</a>，原商標名）</p></td>
+<td><p>（，殺<a href="https://zh.wikipedia.org/wiki/蟲" title="wikilink">蟲</a>﹑殺<a href="../Page/真菌.md" title="wikilink">真菌</a>藥，原商標名）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -594,7 +594,7 @@ EINECS</p></th>
   - [Refractory ceramic
     fibres](https://zh.wikipedia.org/wiki/Refractory_ceramic_fibres "wikilink")
   - [Riddelliine](https://zh.wikipedia.org/wiki/Riddelliine "wikilink")
-  - [黃樟素Safrole](../Page/黃樟素.md "wikilink")
+  - [黃樟素](../Page/黃樟素.md "wikilink")Safrole
   - *[Schistosoma
     japonicum](https://zh.wikipedia.org/wiki/Schistosoma_japonicum "wikilink")*
     (infection with)
@@ -657,9 +657,9 @@ EINECS</p></th>
 
   - [消防](https://zh.wikipedia.org/wiki/消防 "wikilink")
 
-  - [印刷过程](../Page/印刷.md "wikilink")
+  - [印刷](../Page/印刷.md "wikilink")过程
 
-  - [滑石粉](../Page/滑石.md "wikilink")（[粉尘](https://zh.wikipedia.org/wiki/粉尘 "wikilink")）
+  - [滑石](../Page/滑石.md "wikilink")粉（[粉尘](https://zh.wikipedia.org/wiki/粉尘 "wikilink")）
 
   - [纺织工业](https://zh.wikipedia.org/wiki/纺织工业 "wikilink")（生产过程）
 

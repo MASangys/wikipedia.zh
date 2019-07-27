@@ -1,4 +1,4 @@
-**g.o.d**（；）是[韓國第一代五人男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，最早時期為[JYP娛樂旗下藝人](../Page/JYP娛樂.md "wikilink")，成員包括[朴俊炯](../Page/朴俊炯.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[Danny
+**g.o.d**（；）是[韓國第一代五人男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，最早時期為[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下藝人，成員包括[朴俊炯](../Page/朴俊炯.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[Danny
 Ahn](../Page/安信源.md "wikilink")、[孫昊永](../Page/孫昊永.md "wikilink")、[金泰宇](../Page/金泰宇.md "wikilink")。
 隊名為groove over
 dose三個英文單字的縮寫，除此意義外，縮寫之後的三字合起來便有天神之意，意味著天團之崛起，團體的代表顏色是<font color=#00BFFF>天藍色</font>，歌迷官方名稱為「FANgod」。

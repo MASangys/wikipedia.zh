@@ -1,9 +1,9 @@
-**RPG-28**（；\[1\]\[2\]Клюква；俄語羅馬化：**Klyukva**，意為：[蔓越莓](https://zh.wikipedia.org/wiki/小紅莓 "wikilink")）是一具由[俄罗斯國家研究和生產企業與武器製造商](../Page/俄罗斯.md "wikilink")[Bazalt所聯合研製及生產的](https://zh.wikipedia.org/wiki/Bazalt "wikilink")125毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[PG-28](https://zh.wikipedia.org/wiki/PG-28 "wikilink")
+**RPG-28**（；\[1\]\[2\]Клюква；俄語羅馬化：**Klyukva**，意為：[蔓越莓](https://zh.wikipedia.org/wiki/小紅莓 "wikilink")）是一具由[俄罗斯](../Page/俄罗斯.md "wikilink")國家研究和生產企業與武器製造商[Bazalt所聯合研製及生產的](https://zh.wikipedia.org/wiki/Bazalt "wikilink")125毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[PG-28](https://zh.wikipedia.org/wiki/PG-28 "wikilink")
 [HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
 
 ## 歷史
 
-RPG-28於2007年由[阿布扎比國家研究和生產企業所舉辦的](../Page/阿布扎比.md "wikilink")「[國際防務展覽及會議](https://zh.wikipedia.org/wiki/阿布扎比國際防務展 "wikilink")」（IDEX，）上由[Bazalt首次展出](https://zh.wikipedia.org/wiki/Bazalt "wikilink")，並作為一個現代化的[反坦克火箭發射器的設計](../Page/反坦克戰.md "wikilink")，以破壞現代和未來擁有先進的[反應和](../Page/反应装甲.md "wikilink")[複合裝甲的](https://zh.wikipedia.org/wiki/複合裝甲 "wikilink")[坦克](../Page/坦克.md "wikilink")，以及強化的[步兵](../Page/步兵.md "wikilink")。\[3\]它於2008年可用於出口。\[4\]RPG-28於2011年12月正式被俄羅斯政府所採用。\[5\]
+RPG-28於2007年由[阿布扎比](../Page/阿布扎比.md "wikilink")國家研究和生產企業所舉辦的「[國際防務展覽及會議](https://zh.wikipedia.org/wiki/阿布扎比國際防務展 "wikilink")」（IDEX，）上由[Bazalt首次展出](https://zh.wikipedia.org/wiki/Bazalt "wikilink")，並作為一個現代化的[反坦克火箭發射器的設計](../Page/反坦克戰.md "wikilink")，以破壞現代和未來擁有先進的[反應和](../Page/反应装甲.md "wikilink")[複合裝甲的](https://zh.wikipedia.org/wiki/複合裝甲 "wikilink")[坦克](../Page/坦克.md "wikilink")，以及強化的[步兵](../Page/步兵.md "wikilink")。\[3\]它於2008年可用於出口。\[4\]RPG-28於2011年12月正式被俄羅斯政府所採用。\[5\]
 
 ## 概述
 
@@ -11,11 +11,11 @@ RPG-28採用了與RPG-27相似的便攜式，一次射擊型單發式[反坦克]
 
 RPG-28的口徑是125毫米，與[俄羅斯聯邦軍隊的](../Page/俄罗斯军事.md "wikilink")[T-64](../Page/T-64主战坦克.md "wikilink")／[T-72](../Page/T-72主戰坦克.md "wikilink")／[T-80](../Page/T-80主戰坦克.md "wikilink")／[T-90](../Page/T-90主戰坦克.md "wikilink")[主戰坦克的主砲口徑一致](https://zh.wikipedia.org/wiki/坦克#主戰坦克 "wikilink")，亦是目前RPG系列中最大口徑的一款。
 
-PG-28火箭彈是一發125毫米的[锥形装药](https://zh.wikipedia.org/wiki/锥形装药 "wikilink")，彈重為12公斤，射程為300公尺（328.08码，984.25英尺）的火箭彈。據稱該火箭彈具有超過1,000毫米的[軋壓均質裝甲連](../Page/軋壓均質裝甲.md "wikilink")[反应装甲和](../Page/反应装甲.md "wikilink")3,000毫米的[磚的貫穿能力](../Page/磚.md "wikilink")。\[6\]上彈以後的重量是13.5千克（29.76磅）。\[7\]
+PG-28火箭彈是一發125毫米的[锥形装药](https://zh.wikipedia.org/wiki/锥形装药 "wikilink")，彈重為12公斤，射程為300公尺（328.08码，984.25英尺）的火箭彈。據稱該火箭彈具有超過1,000毫米的[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")連[反应装甲](../Page/反应装甲.md "wikilink")和3,000毫米的[磚](../Page/磚.md "wikilink")的貫穿能力。\[6\]上彈以後的重量是13.5千克（29.76磅）。\[7\]
 
 ## RMG衍生型
 
-RMG是RPG-28的體積小型化及多用途衍生型，它著重於對破壞輕型車輛和步兵掩體方面的優化。但結果是，其對[坦克裝甲貫穿性能下降](../Page/坦克.md "wikilink")。
+RMG是RPG-28的體積小型化及多用途衍生型，它著重於對破壞輕型車輛和步兵掩體方面的優化。但結果是，其對[坦克](../Page/坦克.md "wikilink")裝甲貫穿性能下降。
 
 該發射器裝有一發具有[戰鬥部的火箭彈](../Page/彈頭.md "wikilink")。前彈頭的[高爆反坦克型戰鬥部能夠貫穿裝甲或是其他障礙物](../Page/高爆反坦克彈.md "wikilink")（如鋼筋混凝土、磚石等）。而主彈頭則產生精細的爆炸雲，而且會通過前彈頭的貫穿所造成的孔鑽入內部。主戰鬥部的炸藥的引爆具有多重效果（高爆和燃燒）。
 

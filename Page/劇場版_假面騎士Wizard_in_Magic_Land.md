@@ -38,7 +38,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
   -
     原文：
-    如現實世界的[電子貨幣般](../Page/電子貨幣.md "wikilink")，利用身上的魔力感應作為貨幣付款交易的機械系統。
+    如現實世界的[電子貨幣](../Page/電子貨幣.md "wikilink")般，利用身上的魔力感應作為貨幣付款交易的機械系統。
     所有從系統得來的魔力全數送往翡翠城之內收集。
 
 **翡翠城**
@@ -59,13 +59,13 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
 ### 《假面騎士Wizard》原登場人物
 
-**操真晴人（）**（[白石隼也飾](../Page/白石隼也.md "wikilink")）
+**操真晴人（）**（[白石隼也](../Page/白石隼也.md "wikilink")飾）
 
   -
     守護人類的希望而與魅影對抗的魔法使，**假面騎士Wizard**變身者。
     由原本世界變化成為魔法王國後，被當地人們視為入侵者。
 
-**仁藤攻介（）**（[永瀨匡飾](../Page/永瀨匡.md "wikilink")）
+**仁藤攻介（）**（[永瀨匡](../Page/永瀨匡.md "wikilink")飾）
 
   -
     古代魔法使，**假面騎士Beast**變身者。
@@ -79,7 +79,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
     協助操真晴人的少女，被奧瑪大臣擄走後作為改變世界的輔助力量。
     與晴人同樣從原本世界迷失於魔法王國之中。
 
-**大門凛子（）**（[高山侑子飾](../Page/高山侑子.md "wikilink")）
+**大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink")飾）
 
   -
     原本世界中協助操真晴人，鳥井坂警視廳的女警。
@@ -104,7 +104,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 **美紗（）**（飾）
 
   -
-    [美杜莎的宿主](../Page/美杜莎.md "wikilink")。
+    [美杜莎](../Page/美杜莎.md "wikilink")的宿主。
     在原本世界與魔法王國中的身份同是指揮魅影行動的怪人女幹部。
     不斷對魔法王國發動襲擊。
 
@@ -115,7 +115,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
     在原本世界中被假面騎士Wizard打敗，葬身於太陽中受到生死循環之苦。
     魔法王國中的身份同是魅影的怪人幹部之一。
 
-**空（）**（[前山剛久飾](../Page/前山剛久.md "wikilink")）
+**空（）**（[前山剛久](../Page/前山剛久.md "wikilink")飾）
 
   -
     [古利姆連的宿主](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")。
@@ -123,7 +123,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
 ### 本作登場人物
 
-**瑪雅大王（）**（[忍成修吾飾](../Page/忍成修吾.md "wikilink")）
+**瑪雅大王（）**（[忍成修吾](../Page/忍成修吾.md "wikilink")飾）
 
   -
     魔法王國國王，愛民如子並受萬人敬仰。

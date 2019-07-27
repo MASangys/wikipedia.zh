@@ -1,11 +1,11 @@
 《**The Partner
-～給摯愛的百年朋友～**》（、）是一部[日本與](../Page/日本.md "wikilink")[越南合拍的](https://zh.wikipedia.org/wiki/越南 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2013年9月29日，分別在[TBS電視台和](../Page/TBS電視台.md "wikilink")[越南電視台播出](https://zh.wikipedia.org/wiki/越南電視台 "wikilink")\[1\]。本劇由[東山紀之](https://zh.wikipedia.org/wiki/東山紀之 "wikilink")、主演，為紀念[日本與](../Page/日本.md "wikilink")[越南建交](https://zh.wikipedia.org/wiki/越南 "wikilink")40週年的慶祝活動之一，同時兩家電視台也是初次合作。\[2\]\[3\]
+～給摯愛的百年朋友～**》（、）是一部[日本](../Page/日本.md "wikilink")與[越南合拍的](https://zh.wikipedia.org/wiki/越南 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2013年9月29日，分別在[TBS電視台](../Page/TBS電視台.md "wikilink")和[越南電視台播出](https://zh.wikipedia.org/wiki/越南電視台 "wikilink")\[1\]。本劇由[東山紀之](https://zh.wikipedia.org/wiki/東山紀之 "wikilink")、主演，為紀念[日本](../Page/日本.md "wikilink")與[越南建交](https://zh.wikipedia.org/wiki/越南 "wikilink")40週年的慶祝活動之一，同時兩家電視台也是初次合作。\[2\]\[3\]
 
 ## 概要
 
-本劇以[越南革命人士](https://zh.wikipedia.org/wiki/越南 "wikilink")[潘佩珠為主題](../Page/潘佩珠.md "wikilink")，根據真人真事改編。故事分為百年前的「明治篇」和現今的「現代篇」。
+本劇以[越南革命人士](https://zh.wikipedia.org/wiki/越南 "wikilink")[潘佩珠](../Page/潘佩珠.md "wikilink")為主題，根據真人真事改編。故事分為百年前的「明治篇」和現今的「現代篇」。
 
-劇中的醫院原是取景[栃木縣](../Page/栃木縣.md "wikilink")[日光市足尾的古河掛水俱樂部](../Page/日光市.md "wikilink")，此處為[日本的登錄有形文化財地點](../Page/日本.md "wikilink")\[4\]。
+劇中的醫院原是取景[栃木縣](../Page/栃木縣.md "wikilink")[日光市](../Page/日光市.md "wikilink")足尾的古河掛水俱樂部，此處為[日本](../Page/日本.md "wikilink")的登錄有形文化財地點\[4\]。
 
 ## 演員陣容
 

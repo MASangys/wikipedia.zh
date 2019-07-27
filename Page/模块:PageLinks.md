@@ -6,20 +6,7 @@ storing the tracking categories. local demo
 \-- Define a custom error message for this module. local function
 err(msg, section)
 
-`   local help`
-`   if section then`
-`       help = ' (`[`帮助`](https://zh.wikipedia.org/wiki/Template:Page-multi#'_.._section_.._' "wikilink")`)'`
-`   else`
-`       help = ''`
-`   end`
-`   local cat`
-`   if demo == 'yes' then`
-`       cat = ''`
-`   else`
-`       cat = ''`
-`   end`
-`   return '`<span class="error">[`Page-multi出错`](https://zh.wikipedia.org/wiki/Template:Page-multi "wikilink")`：' .. msg `
-`       .. help .. '.`</span>`' .. cat`
+`   return '`<strong class="error">[`-{zh-hans:模块;zh-hant:模組}-:PageLinks錯誤`](../Page/模块:PageLinks.md "wikilink")`：' .. msg .. '。`</strong>`'`
 
 end
 
@@ -56,6 +43,13 @@ local function makeWhatLinksHereLink()
 
 `   return '`[`-{zh-hans:链接;``
  ``zh-hant:連結;}-`](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/'_.._p.fullText_.._' "wikilink")`'`
+
+end
+
+local function makeWhatLinksHereLink2()
+
+`   return '`[`-{zh-hans:链;``
+ ``zh-hant:連;}-入`](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/'_.._p.fullText_.._' "wikilink")`'`
 
 end
 
@@ -139,6 +133,7 @@ local linktypes = {
 
 `   {'t'   , makeTalkLink},`
 `   {'wlh' , makeWhatLinksHereLink},`
+`   {'wlh2' , makeWhatLinksHereLink2},`
 `   {'rc'  , makeRelatedChangesLink},`
 `   {'edit', makeEditLink},`
 `   {'h'   , makeHistoryLink},`

@@ -1,12 +1,12 @@
 **King Digital Entertainment
 plc**，簡稱**King**，原名King.com\[1\]，全名為Midasplayer
 International
-Holding，，是一間休閒社交遊戲公司，主要於[Facebook開發應用遊戲程式](../Page/Facebook.md "wikilink")，以及[博弈遊戲](https://zh.wikipedia.org/wiki/博弈遊戲 "wikilink")\[2\]\[3\]，並是[Facebook上最大的遊戲開發商](../Page/Facebook.md "wikilink")。\[4\]\[5\]
+Holding，，是一間休閒社交遊戲公司，主要於[Facebook](../Page/Facebook.md "wikilink")開發應用遊戲程式，以及[博弈遊戲](https://zh.wikipedia.org/wiki/博弈遊戲 "wikilink")\[2\]\[3\]，並是[Facebook](../Page/Facebook.md "wikilink")上最大的遊戲開發商。\[4\]\[5\]
 此公司開發的遊戲提供同步功能\[6\]\[7\]，這意味著用戶的遊戲進度可從不同平台上切換。
 
 而主要辦事處設於[马耳他](../Page/马耳他.md "wikilink")、[马尔默](../Page/马尔默.md "wikilink")、[布加勒斯特](../Page/布加勒斯特.md "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")（總部）、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿 "wikilink")、[漢堡](https://zh.wikipedia.org/wiki/漢堡 "wikilink")，以及[斯德哥爾摩](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")。員工數目為約400人。
 
-2015年11月2日，[动视暴雪以](../Page/动视暴雪.md "wikilink")59亿美元现金收购该公司。\[8\]
+2015年11月2日，[动视暴雪](../Page/动视暴雪.md "wikilink")以59亿美元现金收购该公司。\[8\]
 
 ## 產品
 

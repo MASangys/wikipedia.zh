@@ -5,7 +5,7 @@
 
 1980年[美國為了滿足新組建的快速署部隊的需要](https://zh.wikipedia.org/wiki/美國 "wikilink")，根據LAV輕型裝甲車輛，決定發展一種輪式步兵戰車，由[美國陸軍和海軍陸戰隊共同負責實施](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")，並提出了能滿足雙方要求的技術指標。1982年9月美軍正式宣佈加拿大通用汽車公司柴油機分部的方案得標，並將該公司提供的食人魚(Piranha)輪式裝甲車命名為LAV-25。\[1\]
 
-美軍要求該車能用現有軍用運輸機或直升機空運或空投，採運輸機時[C-5A能運](https://zh.wikipedia.org/wiki/C-5 "wikilink")8輛，[C-141能運](https://zh.wikipedia.org/wiki/C-141 "wikilink")2輛，[C-130能運](https://zh.wikipedia.org/wiki/C-130 "wikilink")1輛，海軍陸戰隊的[CH-53E直升機也能運](../Page/CH-53E直升機.md "wikilink")1輛。\[2\]
+美軍要求該車能用現有軍用運輸機或直升機空運或空投，採運輸機時[C-5A能運](https://zh.wikipedia.org/wiki/C-5 "wikilink")8輛，[C-141能運](https://zh.wikipedia.org/wiki/C-141 "wikilink")2輛，[C-130能運](https://zh.wikipedia.org/wiki/C-130 "wikilink")1輛，海軍陸戰隊的[CH-53E直升機](../Page/CH-53E直升機.md "wikilink")也能運1輛。\[2\]
 
 ## 車型
 

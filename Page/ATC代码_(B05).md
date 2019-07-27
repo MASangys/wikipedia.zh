@@ -1,4 +1,4 @@
-## B05A [血液及相关药品](../Page/血液.md "wikilink")（Blood and related products）
+## B05A [血液](../Page/血液.md "wikilink")及相关药品（Blood and related products）
 
 ### B05AA [血液代用品和](https://zh.wikipedia.org/wiki/血液代用品 "wikilink")[血浆蛋白成分](https://zh.wikipedia.org/wiki/血浆蛋白 "wikilink")（Blood substitutes and plasma protein fractions）
 
@@ -11,9 +11,9 @@
     agents）
     B05AA07
     [羟乙基淀粉](https://zh.wikipedia.org/wiki/羟乙基淀粉 "wikilink")（Hydroxyethylstarch）
-    B05AA08 [血红蛋白crosfumari](../Page/血红蛋白.md "wikilink")（Hemoglobin
+    B05AA08 [血红蛋白](../Page/血红蛋白.md "wikilink")crosfumari（Hemoglobin
     crosfumaril）
-    B05AA09 [血红蛋白raffimer](../Page/血红蛋白.md "wikilink")（Hemoglobin
+    B05AA09 [血红蛋白](../Page/血红蛋白.md "wikilink")raffimer（Hemoglobin
     raffimer）
     B05AA10 血红蛋白谷氨酸基团（牛）[Hemoglobin
     glutamer](https://zh.wikipedia.org/wiki/Hemoglobin_glutamer "wikilink")
@@ -154,7 +154,7 @@
 ### B05XB 氨基酸类（Amino acids）
 
   -
-    B05XB01 [盐酸精氨酸](../Page/盐酸.md "wikilink")（Arginine hydrochloride）
+    B05XB01 [盐酸](../Page/盐酸.md "wikilink")精氨酸（Arginine hydrochloride）
     B05XB02
     [丙氨酰谷酰胺](https://zh.wikipedia.org/wiki/丙氨酰谷酰胺 "wikilink")（Alanyl
     glutamine）

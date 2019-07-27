@@ -1,10 +1,10 @@
 《**The First
-Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮的第](../Page/梁耀燮.md "wikilink")1張個人迷你專輯。於2012年11月26日發行。\[1\]唱片公司為[Cube娛樂](../Page/Cube娛樂.md "wikilink")。
+Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")的第1張個人迷你專輯。於2012年11月26日發行。\[1\]唱片公司為[Cube娛樂](../Page/Cube娛樂.md "wikilink")。
 
 ## 概要
 
   - 「The First
-    Collage」是[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮的首張個人迷你專輯](../Page/梁耀燮.md "wikilink")，全碟歌曲絕大部分由[龍俊亨創作](../Page/龍俊亨.md "wikilink")。\[2\]
+    Collage」是[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")的首張個人迷你專輯，全碟歌曲絕大部分由[龍俊亨](../Page/龍俊亨.md "wikilink")創作。\[2\]
   - 「咖啡因」為此專輯的主打曲目。
   - 主打曲目「咖啡因」於[M\!
     Countdown和](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")[Music
@@ -76,7 +76,7 @@ Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ### Oricon公信榜（日本）
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 專輯日榜                                     | 3    | 7,876  | 10,757+ | 3星期  |
 | 專輯週榜                                     | 5    | 9,781  |         |      |

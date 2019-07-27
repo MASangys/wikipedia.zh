@@ -1,4 +1,4 @@
-**速霸陸Vivio**（）乃[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1992年至1998年間研發製造的[輕型車](../Page/輕型車.md "wikilink")，為[速霸陸Rex的後繼車款](../Page/速霸陸Rex.md "wikilink")。2001年該款車曾在[中國市場國產化](../Page/中國.md "wikilink")，即為**[貴航雲雀WOW](https://zh.wikipedia.org/wiki/貴航雲雀 "wikilink")**（屬後期型）\[1\]，至於原裝進口版則稱為**斯巴魯小公主**。
+**速霸陸Vivio**（）乃[日本](../Page/日本.md "wikilink")[富士重工業於](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")1992年至1998年間研發製造的[輕型車](../Page/輕型車.md "wikilink")，為[速霸陸Rex](../Page/速霸陸Rex.md "wikilink")的後繼車款。2001年該款車曾在[中國](../Page/中國.md "wikilink")市場國產化，即為**[貴航雲雀WOW](https://zh.wikipedia.org/wiki/貴航雲雀 "wikilink")**（屬後期型）\[1\]，至於原裝進口版則稱為**斯巴魯小公主**。
 
 車名源於[英語中的](https://zh.wikipedia.org/wiki/英語 "wikilink")「vivid」，表示色彩鮮豔之意；此外該車引擎[排氣量](https://zh.wikipedia.org/wiki/排氣量 "wikilink")「660」以[羅馬數字書寫為](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")
 「VI VI 0」，與「vivio」近似。
@@ -10,8 +10,8 @@
 mini sedan（駕駛者之迷你轎車）」出發，雖然造型簡單但具有時尚感，所有控制面板和旋鈕皆以容易就手為考量，當然也針對女性車主做調整。
 
 乘用車延續曾搭載於Rex、具有EMPi電子多點噴射系統的658c.c.直列四缸SOHC
-[EN07E型引擎](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07E型（自然進氣、EMPi） "wikilink")，商用車則使用單[化油器的](../Page/化油器.md "wikilink")658c.c.直列四缸SOHC
-[EN07A型引擎](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07A型（自然進氣、化油器） "wikilink")；變速箱系統則採五速手動排檔、三速自動排檔二種設定。雖然Vivio為輕型車，但[懸吊系統採四輪獨立懸吊之](../Page/懸吊系統.md "wikilink")[麥花臣懸吊系統](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，前輪懸吊加裝下支臂與連桿，後輪則為（semi-trailing
+[EN07E型引擎](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07E型（自然進氣、EMPi） "wikilink")，商用車則使用單[化油器](../Page/化油器.md "wikilink")的658c.c.直列四缸SOHC
+[EN07A型引擎](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07A型（自然進氣、化油器） "wikilink")；變速箱系統則採五速手動排檔、三速自動排檔二種設定。雖然Vivio為輕型車，但[懸吊系統](../Page/懸吊系統.md "wikilink")採四輪獨立懸吊之[麥花臣懸吊系統](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，前輪懸吊加裝下支臂與連桿，後輪則為（semi-trailing
 arm suspension）。
 
 1993年 -
@@ -28,7 +28,7 @@ arm suspension）。
 
 1997年 -
 5月追加「RX-SS」新車型，將以往的ECVT變速系統，改成六速手排模式SportShift手自排系統。該變速系統乃[保時捷汽車與富士重工業共同開發](https://zh.wikipedia.org/wiki/保時捷 "wikilink")，原本在1995年第31屆東京車展展出「Vivio
-RX-T」[概念車時公開發表](../Page/概念車.md "wikilink")，直到此時才正式使用於量產車。9月小改款，並追加「GX-SS」新車型。
+RX-T」[概念車](../Page/概念車.md "wikilink")時公開發表，直到此時才正式使用於量產車。9月小改款，並追加「GX-SS」新車型。
 
 1998年 - 10月原廠宣布停產，實質上的後繼車款為[Pleo](../Page/速霸陸Pleo.md "wikilink")。
 
@@ -42,7 +42,7 @@ RX-T」[概念車時公開發表](../Page/概念車.md "wikilink")，直到此�
   - **ef-s型**：廂型車型的豪華版，到了後期動力方向盤列入標準配備。
   - **ef-sII型**：1997年11月發售的廂型車豪華版。
   - **el型**：中階版，具備布質座椅、空調系統、輪圈蓋等，而動力方向盤為選購。1994年後因銷量不佳，原廠乃改推配備更為簡化、售價更低廉的el-s版，以刺激銷售量。
-  - **ex型**：三門[掀背車的頂級版](https://zh.wikipedia.org/wiki/掀背車 "wikilink")，具有電動調整後視鏡、轉速表、專屬飾紋、冷暖空調系統、電動窗、動力方向盤，但是ABS[防鎖死煞車系統卻為選購配備](../Page/防鎖死煞車系統.md "wikilink")。
+  - **ex型**：三門[掀背車的頂級版](https://zh.wikipedia.org/wiki/掀背車 "wikilink")，具有電動調整後視鏡、轉速表、專屬飾紋、冷暖空調系統、電動窗、動力方向盤，但是ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")卻為選購配備。
 
 [Subaru_Vivio_005.JPG](https://zh.wikipedia.org/wiki/File:Subaru_Vivio_005.JPG "fig:Subaru_Vivio_005.JPG")
 
@@ -62,18 +62,18 @@ RX-T」[概念車時公開發表](../Page/概念車.md "wikilink")，直到此�
 [Subaru-Vivio-M300-supercharger.jpg](https://zh.wikipedia.org/wiki/File:Subaru-Vivio-M300-supercharger.jpg "fig:Subaru-Vivio-M300-supercharger.jpg")
 
   - **M300
-    Extra型**：M300型系列中的廉價入門版，具有[CD音響](../Page/CD.md "wikilink")、木紋裝飾面板、免鑰匙感應門鎖系統（keyless
+    Extra型**：M300型系列中的廉價入門版，具有[CD](../Page/CD.md "wikilink")音響、木紋裝飾面板、免鑰匙感應門鎖系統（keyless
     entry system）等配備。
   - **A1型**：1993年11月發表的限量車款，具[4WD](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")、[ECVT](../Page/電子式無段變速自排系統.md "wikilink")、ABS防鎖死煞車系統等配備。
   - **Sound Special型**：1994年元月發售的特別版，顧名思義配備了Kenwood音響系統。
-  - **Reebok型**：1996年5月限定發售的機械增壓版車款，與運動用品商[銳步異業合作](https://zh.wikipedia.org/wiki/銳步 "wikilink")，具有運動化外觀和內裝、[歌樂ADDZEST音響系統](../Page/歌樂.md "wikilink")、SRS安全氣囊等配備。
+  - **Reebok型**：1996年5月限定發售的機械增壓版車款，與運動用品商[銳步異業合作](https://zh.wikipedia.org/wiki/銳步 "wikilink")，具有運動化外觀和內裝、[歌樂](../Page/歌樂.md "wikilink")ADDZEST音響系統、SRS安全氣囊等配備。
   - **Leapal型（リーパル）**：透過（農業協同組合，簡稱「農協」或「JA」）販售的特殊車型，具有專用銘牌、腳踏墊、晴雨窗\[2\]等配備。
-  - **Transcare型**：1997年5月針對[身心障礙人士發售的福祉車輛](../Page/身心障礙.md "wikilink")，除了駕駛座可電動向外移動，助手席亦可迴轉。
+  - **Transcare型**：1997年5月針對[身心障礙](../Page/身心障礙.md "wikilink")人士發售的福祉車輛，除了駕駛座可電動向外移動，助手席亦可迴轉。
 
 [Subaru_Vivio_GX-R.jpg](https://zh.wikipedia.org/wiki/File:Subaru_Vivio_GX-R.jpg "fig:Subaru_Vivio_GX-R.jpg")
 
   - **GX型**：658c.c.直列四缸SOHC
-    [EN07A型引擎配合](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07A型（自然進氣、化油器） "wikilink")[ECVT的版本](../Page/電子式無段變速自排系統.md "wikilink")，配備與ex型接近，並具有機械增壓引擎版的進氣壩、側裙、雙尾管、駕駛座椅面上下調整裝置、[米其林製](../Page/米其林.md "wikilink")[輪胎](../Page/輪胎.md "wikilink")、ABC柱為黑色塗裝等配備。
+    [EN07A型引擎配合](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07A型（自然進氣、化油器） "wikilink")[ECVT的版本](../Page/電子式無段變速自排系統.md "wikilink")，配備與ex型接近，並具有機械增壓引擎版的進氣壩、側裙、雙尾管、駕駛座椅面上下調整裝置、[米其林](../Page/米其林.md "wikilink")製[輪胎](../Page/輪胎.md "wikilink")、ABC柱為黑色塗裝等配備。
   - **GX-R型**：和GX型同樣的動力來源，卻具有RX-R型的配備。
   - **GX-L型**：1994年發售，配備內容大致和GX型相同。
   - **GX-SS型**：動力來源改成658c.c.直列四缸SOHC
@@ -89,15 +89,15 @@ RX-T」[概念車時公開發表](../Page/概念車.md "wikilink")，直到此�
   - **RX-R Special Version型**：為了紀念Vivio在1993年（Safari
     Rally）奪得A-5級的優勝，1995年5月原廠發售限量200部的紀念車型。具有[速霸陸技術國際](../Page/速霸陸技術國際.md "wikilink")（Subaru
     Tecnica International，縮寫成STI）和PIAA共同開發的霧燈、製Legalis
-    K尾段、[建伍音響系統等配備](../Page/建伍.md "wikilink")。
-  - **RX-RA型**：具有全時四輪驅動系統的車型，「RA」便是速霸陸汽車對競速車款的共通記號，故此車型去除了空調系統、電動窗、電動調整後視鏡等跟競速賽事無關的配備，比RX-R型減少20[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。專用[ECU](../Page/发动机控制器.md "wikilink")、一至四檔齒比比較綿密的手排變速箱、經過強化的[懸吊系統](../Page/懸吊系統.md "wikilink")、後輪機械式[限滑差速器等](../Page/限滑差速器.md "wikilink")，皆是為了競速賽事而設定。
+    K尾段、[建伍](../Page/建伍.md "wikilink")音響系統等配備。
+  - **RX-RA型**：具有全時四輪驅動系統的車型，「RA」便是速霸陸汽車對競速車款的共通記號，故此車型去除了空調系統、電動窗、電動調整後視鏡等跟競速賽事無關的配備，比RX-R型減少20[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。專用[ECU](../Page/发动机控制器.md "wikilink")、一至四檔齒比比較綿密的手排變速箱、經過強化的[懸吊系統](../Page/懸吊系統.md "wikilink")、後輪機械式[限滑差速器](../Page/限滑差速器.md "wikilink")等，皆是為了競速賽事而設定。
   - **RX-SS型**：動力來源改成658c.c.直列四缸SOHC
     [EN07E型引擎加上六速手排模式SportShift手自排變速系統](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07E型（自然進氣、EMPi） "wikilink")，車身上的銘牌及雙色塗裝是最大的差異。
 
 [Subaru_Vivio_T-top_002.JPG](https://zh.wikipedia.org/wiki/File:Subaru_Vivio_T-top_002.JPG "fig:Subaru_Vivio_T-top_002.JPG")
 
   - **T-TOP型**：為了紀念富士重工業成立40周年、限量3千部的（targa
-    top）特殊車型，富士重工業特地委託[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市的](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")製造電動硬頂收納裝置\[3\]。採用五速手動排檔或[ECVT的變速箱](../Page/電子式無段變速自排系統.md "wikilink")，色彩豐富的內裝乃其特徵，這部車也是富士重工業第一部採[斜背車設計的車款](../Page/斜背車.md "wikilink")。
+    top）特殊車型，富士重工業特地委託[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市的](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")製造電動硬頂收納裝置\[3\]。採用五速手動排檔或[ECVT的變速箱](../Page/電子式無段變速自排系統.md "wikilink")，色彩豐富的內裝乃其特徵，這部車也是富士重工業第一部採[斜背車](../Page/斜背車.md "wikilink")設計的車款。
   - **GX-T型**：限量1千部的特別仕樣車，動力來源為658c.c.直列四缸SOHC
     [EN07Z型](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07Z型（機械增壓附中冷器、EMPi） "wikilink")[機械增壓引擎](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")，配合[ECVT變速系統](../Page/電子式無段變速自排系統.md "wikilink")。
 
@@ -129,12 +129,12 @@ RX-T」[概念車時公開發表](../Page/概念車.md "wikilink")，直到此�
 Rally）裡速霸陸拉力車隊派出[英國籍](https://zh.wikipedia.org/wiki/英國 "wikilink")[科林·麥克雷](https://zh.wikipedia.org/wiki/科林·麥克雷 "wikilink")（Colin
 Steele
 McRae）、日本籍石田雅史、[肯亞籍派崔克](https://zh.wikipedia.org/wiki/肯亞 "wikilink")·吉魯（Patrick
-Njiru）等三名[賽車手](../Page/賽車手.md "wikilink")，再加上獨立參賽的[墨西哥籍法蘭西斯科](../Page/墨西哥.md "wikilink")·彼拉賽尼奧（Francisco
+Njiru）等三名[賽車手](../Page/賽車手.md "wikilink")，再加上獨立參賽的[墨西哥](../Page/墨西哥.md "wikilink")籍法蘭西斯科·彼拉賽尼奧（Francisco
 Villaseñor），共有4輛Vivio投入此番賽事。
 
-科林·麥克雷駕駛的Vivio在120km/hr的時速中，左前輪遭到路面突起的石塊擊中。雖然經過維修團隊搶修，卻仍超過比賽規定時間而淘汰。石田雅史的車則在第三天的賽程中，因為引擎冷卻系統的問題遭到淘汰。剩下的派崔克·吉魯因[輪胎被石塊刺破](../Page/輪胎.md "wikilink")，勉強以三輪繼續剩餘的賽程，不過除了[離合器出狀況外](../Page/離合器.md "wikilink")，他自己也發生第三天不慎將路況筆記\[4\]遺留在[旅館裡的糗事](https://zh.wikipedia.org/wiki/旅館 "wikilink")。縱然如此，派崔克·吉魯仍然完成此站的所有賽程，雖然獲得綜合第12名，卻是A-5級的優勝\[5\]。
+科林·麥克雷駕駛的Vivio在120km/hr的時速中，左前輪遭到路面突起的石塊擊中。雖然經過維修團隊搶修，卻仍超過比賽規定時間而淘汰。石田雅史的車則在第三天的賽程中，因為引擎冷卻系統的問題遭到淘汰。剩下的派崔克·吉魯因[輪胎](../Page/輪胎.md "wikilink")被石塊刺破，勉強以三輪繼續剩餘的賽程，不過除了[離合器](../Page/離合器.md "wikilink")出狀況外，他自己也發生第三天不慎將路況筆記\[4\]遺留在[旅館裡的糗事](https://zh.wikipedia.org/wiki/旅館 "wikilink")。縱然如此，派崔克·吉魯仍然完成此站的所有賽程，雖然獲得綜合第12名，卻是A-5級的優勝\[5\]。
 
-此外，2000年代初期在[北海道舉行的](../Page/北海道.md "wikilink")中，也常看到獨立車隊使用Vivio作為比賽用車。
+此外，2000年代初期在[北海道](../Page/北海道.md "wikilink")舉行的中，也常看到獨立車隊使用Vivio作為比賽用車。
 
 ## 內部連結
 

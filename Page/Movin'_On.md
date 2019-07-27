@@ -5,7 +5,7 @@ On**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia
 x Shiga親自設計的別注版iPhone 5 Case一個。
 
 专辑中由周柏豪作曲，林若寧填詞的歌曲《到此為止》於2012年11月27日推出单曲。在2012年2月7日上載至[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")，截至2014年3月2日，點擊率逾620萬，正評逾1.8萬，負評近1300。此曲被高登音樂台改編成單身過節，Youtube點擊率逾10萬。[Dear
-Jane於](../Page/Dear_Jane.md "wikilink")2012年9月30日曾與[連詩雅於](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[九龍灣國際展貿中心合唱到此為止](../Page/九龍灣國際展貿中心.md "wikilink")。
+Jane於](../Page/Dear_Jane.md "wikilink")2012年9月30日曾與[連詩雅於](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")合唱到此為止。
 
 ## 曲目
 

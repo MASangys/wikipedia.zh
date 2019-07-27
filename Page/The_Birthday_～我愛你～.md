@@ -1,5 +1,5 @@
 《**The Birthday ～我愛你～**》（原名 : The Birthday 〜Ti
-Amo〜）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年9月24日於日本發行。
+Amo〜）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年9月24日於日本發行。
 
 ## 解說
 
@@ -8,7 +8,7 @@ Amo〜）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh
   - 以「CD+DVD」及「CD ONLY」2種形態發售。2種形態封面也不相同,初回盤是限定紙盒包裝及附送8週年紀念海報。
   - 作為EXILE的單曲，《[道路](../Page/道路_\(EXILE單曲\).md "wikilink")》以來相隔了1年6個月，第5部作品的獲得週榜首位的同時，超過了第2章開始以來最高銷量《Lovers
     Again》的記錄。還有標題曲《Ti Amo
-    我愛你》於發售年的2008年獲得[第50屆日本唱片大獎大獎外](https://zh.wikipedia.org/wiki/第50屆日本唱片大獎 "wikilink")，更獲得2009年度的[JASRAC獎著銀獎](../Page/JASRAC獎.md "wikilink")。
+    我愛你》於發售年的2008年獲得[第50屆日本唱片大獎大獎外](https://zh.wikipedia.org/wiki/第50屆日本唱片大獎 "wikilink")，更獲得2009年度的[JASRAC獎](../Page/JASRAC獎.md "wikilink")著銀獎。
 
 ## 發行版本
 
@@ -30,14 +30,14 @@ Amo〜）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh
         Again](../Page/Lovers_Again.md "wikilink")》的[松尾潔](https://zh.wikipedia.org/wiki/松尾潔 "wikilink")，這是他為EXILE第2首歌的演出。再次是作詞松尾、作曲松尾與[Jin
         Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")，為R\&B風味的中等舒情樂曲。今次的歌詞是以女性角度所寫。還有，旁白員[秀島史香](https://zh.wikipedia.org/wiki/秀島史香 "wikilink")，為進入最後歌的副歌前負責「Ti
         Amo」這私語。
-        PV以1920年代的上海為舞台，男主角為與EXILE有親密的交往的[東京斯卡成員](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")[谷中敦](https://zh.wikipedia.org/wiki/谷中敦 "wikilink")，女性主角方面由女演員的[美波演出](../Page/美波.md "wikilink")。另外，本作品收錄的PV是「Chapter
+        PV以1920年代的上海為舞台，男主角為與EXILE有親密的交往的[東京斯卡成員](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")[谷中敦](https://zh.wikipedia.org/wiki/谷中敦 "wikilink")，女性主角方面由女演員的[美波](../Page/美波.md "wikilink")演出。另外，本作品收錄的PV是「Chapter
         1」，接續的「Chapter 2」收錄於《[EXILE BALLAD
         BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")》內。「Chapter
         2」不僅EXILE也有演出，還有交代了有不倫關係的2人的結果。
-        還有，有EXILE的演出的《Fran》廣告和使用了《[只是…想見你](../Page/只是…想見你.md "wikilink")》展開推銷的[明治製菓的有關人員聽了](../Page/明治製菓.md "wikilink")「Ti
+        還有，有EXILE的演出的《Fran》廣告和使用了《[只是…想見你](../Page/只是…想見你.md "wikilink")》展開推銷的[明治製菓](../Page/明治製菓.md "wikilink")的有關人員聽了「Ti
         Amo」後覺得和新商品《Meltykiss》的「冬天以外不能遇到的口中溶化時的感覺」商品性和「大人」的世界觀與《Ti
         Amo》很吻合，於是決定了Tie-Up。
-        2012年[BENI用英語翻唱了這歌曲](../Page/BENI.md "wikilink")，並於BENI的翻唱專輯《[COVER](https://zh.wikipedia.org/wiki/COVERS_\(BENI專輯\) "wikilink")》內被收錄。
+        2012年[BENI](../Page/BENI.md "wikilink")用英語翻唱了這歌曲，並於BENI的翻唱專輯《[COVER](https://zh.wikipedia.org/wiki/COVERS_\(BENI專輯\) "wikilink")》內被收錄。
 2.  **[SUPER
     SHINE](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")
     feat. [VERBAL](https://zh.wikipedia.org/wiki/VERBAL "wikilink")
@@ -62,7 +62,7 @@ Amo〜）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh
         [DOBERMAN
         INC的合作單曲](https://zh.wikipedia.org/wiki/DOBERMAN_INC "wikilink")《[24karats
         -type
-        S-](https://zh.wikipedia.org/wiki/24karats_-type_S- "wikilink")》的另一版本。由原本[Sowelu換為](../Page/Sowelu.md "wikilink")[J
+        S-](https://zh.wikipedia.org/wiki/24karats_-type_S- "wikilink")》的另一版本。由原本[Sowelu](../Page/Sowelu.md "wikilink")換為[J
         Soul
         Brothers](../Page/J_Soul_Brothers.md "wikilink")，而且伴隨歌詞也被變更。樂曲也有一部份變更，歌的開頭加上了DOBERMAN
         INC的Rap。

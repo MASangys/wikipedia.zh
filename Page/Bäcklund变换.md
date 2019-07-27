@@ -8,9 +8,9 @@
 
 \(phi[2](u,x,t,u_x,u_t,w,xi,eta,w_xi,w_eta)=0\)
 
-是'''Bäcklund变换是求[非线性偏微分方程精确解的一种重要的变换](../Page/非线性偏微分方程.md "wikilink")。
+是'''Bäcklund变换是求[非线性偏微分方程](../Page/非线性偏微分方程.md "wikilink")精确解的一种重要的变换。
 
-1876年瑞典数学家[巴克隆德发现](../Page/阿尔伯特·维克多·巴克隆德.md "wikilink")[Sine-Gordon方程的不同解u](../Page/Sine-Gordon方程.md "wikilink")、v
+1876年瑞典数学家[巴克隆德发现](../Page/阿尔伯特·维克多·巴克隆德.md "wikilink")[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")的不同解u、v
 
 \[u_{xt} = \sin u.\,\]
 
@@ -47,7 +47,7 @@ II型方程的精确解](https://zh.wikipedia.org/wiki/高维广义Burger_II型�
 [Sine-gordon_3D_animation1.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_3D_animation1.gif "fig:Sine-gordon_3D_animation1.gif")
 [Sine-gordon_3D_animation2.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_3D_animation2.gif "fig:Sine-gordon_3D_animation2.gif")
 
-利用[Sine-Gordon方程的自Bäcklund变换解Sine](../Page/Sine-Gordon方程.md "wikilink")-Gordon方程：
+利用[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")的自Bäcklund变换解Sine-Gordon方程：
 
 由Bäcklund自变换\(v_x = u_x - 2\beta \sin( \frac{u+v}{2} )\)令v=0，得
 
@@ -69,7 +69,7 @@ II型方程的精确解](https://zh.wikipedia.org/wiki/高维广义Burger_II型�
 
 \(2*beta*x+2*t/beta = 4*ln(tan((1/4)*u))\)，
 
-分离u得[Sine-Gordon方程的一个解析解](../Page/Sine-Gordon方程.md "wikilink")：
+分离u得[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")的一个解析解：
 
 \(u(x,t)=4*arctan(e^{\frac{\beta^2*x+t}{2\beta}})\)
 

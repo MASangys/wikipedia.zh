@@ -1,4 +1,4 @@
-**Vsauce**是一個由[麥可·史蒂文斯創建的YouTube](../Page/麥可·史蒂文斯.md "wikilink")[科普頻道](https://zh.wikipedia.org/wiki/科普 "wikilink")。主要拍攝關於遊戲、科技、文化以及人們普遍關心的議題的視訊。\[1\]\[2\]\[3\]\[4\]\[5\]
+**Vsauce**是一個由[麥可·史蒂文斯](../Page/麥可·史蒂文斯.md "wikilink")創建的YouTube[科普頻道](https://zh.wikipedia.org/wiki/科普 "wikilink")。主要拍攝關於遊戲、科技、文化以及人們普遍關心的議題的視訊。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 歷史
 

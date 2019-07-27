@@ -1,10 +1,10 @@
 **攻殼機動隊
-ARISE**是[士郎正宗同名漫畫](../Page/士郎正宗.md "wikilink")《[攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(漫畫\) "wikilink")》改編的劇場版動畫作品。[Production
+ARISE**是[士郎正宗](../Page/士郎正宗.md "wikilink")同名漫畫《[攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(漫畫\) "wikilink")》改編的劇場版動畫作品。[Production
 I.G公司製作](../Page/Production_I.G.md "wikilink")，导演[黃瀨和哉](../Page/黃瀨和哉.md "wikilink")，系列构成[冲方丁](../Page/冲方丁.md "wikilink")。
 
 ## 劇情簡介
 
-本作故事內容講述軍方身分的[草薙素子在加入](../Page/草薙素子.md "wikilink")[公安九課前的前傳故事](../Page/公安九課.md "wikilink")，所以各種科技方面比[S.A.C.
+本作故事內容講述軍方身分的[草薙素子](../Page/草薙素子.md "wikilink")在加入[公安九課](../Page/公安九課.md "wikilink")前的前傳故事，所以各種科技方面比[S.A.C.
 2nd GIG要落後一些](../Page/攻壳机动队_S.A.C._2nd_GIG.md "wikilink")。
 
   - 第一話**border:1 Ghost Pain**：2013年6月22日於日本上映
@@ -320,7 +320,7 @@ Production I.G、<a href="../Page/Flying_DOG.md" title="wikilink">Flying DOG</a>
 </tr>
 <tr class="odd">
 <td><p>配給</p></td>
-<td><p><a href="../Page/東寶.md" title="wikilink">東寶映像事業部</a></p></td>
+<td><p><a href="../Page/東寶.md" title="wikilink">東寶</a>映像事業部</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>

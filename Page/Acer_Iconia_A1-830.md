@@ -1,5 +1,5 @@
 Acer Iconia A1-830，昵称为Ducati，
-是由[台灣電子消費產品製造商](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏碁開發及生產](../Page/宏碁.md "wikilink")，採用[Android](../Page/Android.md "wikilink")[操作系統的一款](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。于美國時間2014年1月6日在CES
+是由[台灣電子消費產品製造商](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發及生產，採用[Android](../Page/Android.md "wikilink")[操作系統的一款](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。于美國時間2014年1月6日在CES
 2014首次展出，并被評為CES 2014最佳平板。
 
 ## 設計

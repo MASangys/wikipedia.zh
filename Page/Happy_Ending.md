@@ -1,5 +1,5 @@
 **《Happy
-Ending》**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2012年4月23日首播的[月火劇](../Page/JTBC月火連續劇.md "wikilink")，逢韓國時間週一、二晚上8:45播出。
+Ending》**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2012年4月23日首播的[月火劇](../Page/JTBC月火連續劇.md "wikilink")，逢韓國時間週一、二晚上8:45播出。
 
 ## 劇情簡介
 

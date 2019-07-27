@@ -1,5 +1,5 @@
 **忘年感謝祭 來洗牌吧，AKB！
-SKE也請多關照吧**（）是日本女子偶像組合[AKB48於](../Page/AKB48.md "wikilink")2008年12月20日在[JCB
+SKE也請多關照吧**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2008年12月20日在[JCB
 Hall](../Page/MEETS_PORT.md "wikilink")（現TOKYO DOME CITY
 HALL）舉行的演唱會\[1\]，為AKB48在2008年最後一個演唱會。
 
@@ -130,7 +130,7 @@ HALL）舉行的演唱會\[1\]，為AKB48在2008年最後一個演唱會。
 
 ## DVD
 
-演唱會的[CD及](../Page/CD.md "wikilink")[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS於](../Page/AKS.md "wikilink")2009年2月28日發行\[13\]\[14\]。DVD共有2枚並收錄了演唱會及幕後花絮。同時亦發售Premium
+演唱會的[CD](../Page/CD.md "wikilink")及[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2009年2月28日發行\[13\]\[14\]。DVD共有2枚並收錄了演唱會及幕後花絮。同時亦發售Premium
 Box，附有演唱會的歌曲CD、DVD、120頁小冊子及隨機5張生寫真\[15\]。
 
 根據[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")，本DVD的最高排名為173名\[16\]。

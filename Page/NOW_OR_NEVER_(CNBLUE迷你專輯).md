@@ -1,6 +1,6 @@
 《**NOW OR
-NEVER**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE首張](../Page/CNBLUE.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，也是他們以地下樂團名義出版的第一張作品，在2009年8月19日由[AI
-Entertainment製作發行](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")\[1\]。EP包含了五首歌曲，當中有兩首由團員[鄭容和參與創作](../Page/鄭容和.md "wikilink")。
+NEVER**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，也是他們以地下樂團名義出版的第一張作品，在2009年8月19日由[AI
+Entertainment製作發行](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")\[1\]。EP包含了五首歌曲，當中有兩首由團員[鄭容和](../Page/鄭容和.md "wikilink")參與創作。
 
 ## 曲目
 
@@ -8,7 +8,7 @@ Entertainment製作發行](https://zh.wikipedia.org/wiki/AI_Entertainment "wikil
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 |
 | ---------------------------------------- | ---- |
 | 專輯日榜                                     | ？    |
 | 專輯週榜                                     | 95   |

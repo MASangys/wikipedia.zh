@@ -1,6 +1,6 @@
-**嵌入式OpenType字体**（，简称**EOT**）是被[微软设计用来在网页使用的字体格式](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。该字体格式是[OpenType字体的压缩格式](../Page/OpenType.md "wikilink")。文件的[扩展名通常是](../Page/文件扩展名.md "wikilink")"`.eot`"。
+**嵌入式OpenType字体**（，简称**EOT**）是被[微软设计用来在网页使用的字体格式](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。该字体格式是[OpenType](../Page/OpenType.md "wikilink")字体的压缩格式。文件的[扩展名通常是](../Page/文件扩展名.md "wikilink")"`.eot`"。
 
-通过使用[微软的网页字体工具](https://zh.wikipedia.org/wiki/Microsoft "wikilink")（WETF）、其他版权软件或者开源软件，并且基于的存在的[TrueType字体文件](../Page/TrueType.md "wikilink")，这种字体文件也能够被制作。
+通过使用[微软的网页字体工具](https://zh.wikipedia.org/wiki/Microsoft "wikilink")（WETF）、其他版权软件或者开源软件，并且基于的存在的[TrueType](../Page/TrueType.md "wikilink")字体文件，这种字体文件也能够被制作。
 
 通过只包括需要使用文字的[子集](../Page/子集.md "wikilink")，或者通过[压缩](https://zh.wikipedia.org/wiki/压缩 "wikilink")，文件也能够减少它的空间占用。（LZ
 compression, part of

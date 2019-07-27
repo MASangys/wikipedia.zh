@@ -1,5 +1,5 @@
 **FARA 83**（；“阿根廷共和國自動步槍”或 **FAA
-81**）是一款由[阿根廷於](../Page/阿根廷.md "wikilink")1980年代開發並裝備軍隊的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
+81**）是一款由[阿根廷](../Page/阿根廷.md "wikilink")於1980年代開發並裝備軍隊的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 發展
 
@@ -16,7 +16,7 @@ FSL，只有少數的士兵裝備了FARA 83。
 ## 特徵
 
 FARA 83的設計明顯是受到[以色列](../Page/以色列.md "wikilink")[IMI
-Galil的影響](../Page/IMI_Galil突擊步槍.md "wikilink")。此槍具有一個折疊式[槍托和一個用在弱光條件下的氚光瞄準鏡](../Page/槍托.md "wikilink")。早期的型號在供彈方面更使用來自[貝瑞塔AR70的](../Page/貝瑞塔AR70突擊步槍.md "wikilink")30發[彈匣](../Page/彈匣.md "wikilink")，並具有一個可切換為半自動或[全自動射擊的扳機組](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。
+Galil的影響](../Page/IMI_Galil突擊步槍.md "wikilink")。此槍具有一個折疊式[槍托](../Page/槍托.md "wikilink")和一個用在弱光條件下的氚光瞄準鏡。早期的型號在供彈方面更使用來自[貝瑞塔AR70的](../Page/貝瑞塔AR70突擊步槍.md "wikilink")30發[彈匣](../Page/彈匣.md "wikilink")，並具有一個可切換為半自動或[全自動射擊的扳機組](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。
 
 ## 使用國
 

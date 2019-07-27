@@ -23,7 +23,7 @@ Interactive花费2230万美元从[Atari手里收购了](https://zh.wikipedia.org
 Games](../Page/Firaxis_Games.md "wikilink")，2005年1月，Take-Two
 Interactive为了在体育竞技游戏市场上与[美国艺电旗下的](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")[EA
 Sports体育部门一决高下](../Page/EA_Sports.md "wikilink")，Take-Two
-Interactive收购日本[世嘉公司旗下的工作室](../Page/世嘉.md "wikilink")[Visual
+Interactive收购日本[世嘉](../Page/世嘉.md "wikilink")公司旗下的工作室[Visual
 Concepts连同其完全所有的子公司](../Page/Visual_Concepts.md "wikilink")[Kush
 Games](https://zh.wikipedia.org/wiki/Kush_Games "wikilink")，之后又花费8000万美元收购了多个游戏工作室。伴随着对Visual
 Concepts的收购，Take-Two Interactive同时创立了一个全新的发行品牌2K Games，而原来由Visual
@@ -39,7 +39,7 @@ Division](https://zh.wikipedia.org/wiki/Private_Division "wikilink")，主要负
 ### 中国市场
 
 Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥暴力的Rockstar Games相比，Take-Two
-Interactive十分关注中国市场的发展，并表现出浓厚的兴趣。[2K中国成立于](../Page/2K中国.md "wikilink")2006年1月，是Take-Two
+Interactive十分关注中国市场的发展，并表现出浓厚的兴趣。[2K中国](../Page/2K中国.md "wikilink")成立于2006年1月，是Take-Two
 Interactive在中国唯一的全资子公司，其工作包括为中国市场进行游戏本地化、移植游戏到其他平台以及协助其他工作室共同开发电子游戏。
 
 由于必须使用中文进行注册，所以2K中国的实际注册名称为仟游软件科技（上海）有限公司；而两间工作室则分别称为仟游软件科技（杭州）有限公司和仟游软件科技（成都）有限公司。

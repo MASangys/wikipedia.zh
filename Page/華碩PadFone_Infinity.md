@@ -1,5 +1,5 @@
 **ASUS PadFone
-Infinity**是[臺灣電腦公司](../Page/臺灣.md "wikilink")[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2013年4月17日所推出的高階智慧型手機產品，是此系列的第三代產品，也是華碩第一隻螢幕到達五吋Full
+Infinity**是[臺灣](../Page/臺灣.md "wikilink")電腦公司[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2013年4月17日所推出的高階智慧型手機產品，是此系列的第三代產品，也是華碩第一隻螢幕到達五吋Full
 HD解析度，並將平板螢幕的解析度同樣也提升至與手機螢幕相同。當時的競爭旗艦機款為[HTC
 One](https://zh.wikipedia.org/wiki/HTC_One "wikilink")
 (同樣為金屬機身)、[Samsung Galaxy
@@ -67,8 +67,8 @@ Xperia Z](../Page/Sony_Xperia_Z.md "wikilink")。
 
 1.  **Super Note**：自行開發的之製圖軟體，提供影像編輯、繪製等功能。
 2.  **Watch Calender**：自行開發的行事曆軟體，採圖形化介面。
-3.  **asus@vibe**：提供[華碩自營](../Page/華碩.md "wikilink")[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
-4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩公司所提供的網路伺服器內](../Page/華碩.md "wikilink")。(現為ASUS
+3.  **asus@vibe**：提供[華碩](../Page/華碩.md "wikilink")自營[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
+4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩](../Page/華碩.md "wikilink")公司所提供的網路伺服器內。(現為ASUS
     WebStorage)
 
 <!-- end list -->

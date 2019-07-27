@@ -1,5 +1,5 @@
 **2raumwohnung** () 是一支成立于2000年
-[德国](../Page/德国.md "wikilink")[柏林流行二人音乐组合](../Page/柏林.md "wikilink")。其有2为成员[Inga
+[德国](../Page/德国.md "wikilink")[柏林](../Page/柏林.md "wikilink")流行二人音乐组合。其有2为成员[Inga
 Humpe](https://zh.wikipedia.org/wiki/Inga_Humpe "wikilink")<font color="#000000">和</font>[Tommi
 Eckhart](https://zh.wikipedia.org/wiki/Tommi_Eckhart "wikilink")，他们先前是音乐组合Neonbabies的歌手。
 

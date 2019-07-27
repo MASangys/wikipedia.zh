@@ -368,7 +368,7 @@ Works製作的原創電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wiki
 
 ## Web广播
 
-，从2014年6月30日起，由[音泉在](../Page/音泉.md "wikilink")制作。\[6\]
+，从2014年6月30日起，由[音泉](../Page/音泉.md "wikilink")在制作。\[6\]
 
   - 主持人
 

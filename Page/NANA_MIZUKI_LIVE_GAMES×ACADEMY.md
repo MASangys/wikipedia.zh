@@ -1,5 +1,5 @@
 『**NANA MIZUKI LIVE
-GAMES×ACADEMY**』是[水樹奈奈的第](../Page/水樹奈奈.md "wikilink")9作張Live影像作品（通算第14作張影像作品）。2010年12月22日由[King
+GAMES×ACADEMY**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第9作張Live影像作品（通算第14作張影像作品）。2010年12月22日由[King
 Records以](https://zh.wikipedia.org/wiki/King_Records "wikilink")[Blu-ray
 Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
@@ -114,7 +114,7 @@ Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https
 #### 概要
 
   - Live名是『**NANA MIZUKI LIVE GAMES 2010**』。
-  - 7月25日的公演「[ハートキャッチ☆パラダイス](https://zh.wikipedia.org/wiki/Alright!_ハートキャッチプリキュア!/ハートキャッチ☆パラダイス "wikilink")」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[ハートキャッチプリキュア\!](https://zh.wikipedia.org/wiki/ハートキャッチプリキュア! "wikilink")』的共演者[水澤史繪以嘉賓出演歌唱](../Page/水澤史繪.md "wikilink")。
+  - 7月25日的公演「[ハートキャッチ☆パラダイス](https://zh.wikipedia.org/wiki/Alright!_ハートキャッチプリキュア!/ハートキャッチ☆パラダイス "wikilink")」是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[ハートキャッチプリキュア\!](https://zh.wikipedia.org/wiki/ハートキャッチプリキュア! "wikilink")』的共演者[水澤史繪](../Page/水澤史繪.md "wikilink")以嘉賓出演歌唱。
 
 #### 舉辦日時・会場
 

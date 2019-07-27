@@ -1,5 +1,5 @@
 《**Tea For
-Two**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[萬芳的第五張專輯](../Page/萬芳.md "wikilink")，首張英語[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱專輯 "wikilink")，在1994年1月15日推出。專輯的第一主打歌是《Unchained
+Two**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[萬芳](../Page/萬芳.md "wikilink")的第五張專輯，首張英語[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱專輯 "wikilink")，在1994年1月15日推出。專輯的第一主打歌是《Unchained
 Melody》，而第二主打歌則是《True Colors》。
 
 ## 曲目

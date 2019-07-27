@@ -1,5 +1,5 @@
 《**Dr.
-JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月26日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。改編自日本漫畫家[村上紀香漫畫作品](../Page/村上紀香.md "wikilink")《[仁者俠醫](../Page/仁者俠醫.md "wikilink")》。講述2012年韓國最優秀的[外科醫生秦赫穿越時空回到](https://zh.wikipedia.org/wiki/外科醫生 "wikilink")1860年朝鮮時代艱苦行醫的故事。
+JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月26日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。改編自日本漫畫家[村上紀香](../Page/村上紀香.md "wikilink")漫畫作品《[仁者俠醫](../Page/仁者俠醫.md "wikilink")》。講述2012年韓國最優秀的[外科醫生秦赫穿越時空回到](https://zh.wikipedia.org/wiki/外科醫生 "wikilink")1860年朝鮮時代艱苦行醫的故事。
 
 ## 劇情簡介
 
@@ -12,7 +12,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 
 ## 歷史背景
 
-朝鮮第25代王[哲宗在位時的](../Page/朝鮮哲宗.md "wikilink")19世紀後半期，是[純祖即位以來由](../Page/朝鮮純祖.md "wikilink")[安東金氏掌權的勢道政治鼎盛時期](https://zh.wikipedia.org/wiki/安東金氏 "wikilink")，延續了60餘年，造成王權沒落，貪官污吏的專橫導致三政紊亂現象達到最惡劣的頂峰，加上全國性的[傳染病與民亂的發生](../Page/傳染病.md "wikilink")，百姓的生活陷入苦不堪言的境地。1863年第26代王[高宗即位後](../Page/朝鮮高宗.md "wikilink")，由[興宣大院君拉下長達](https://zh.wikipedia.org/wiki/興宣大院君 "wikilink")60餘年勢道政治的帷幕。
+朝鮮第25代王[哲宗在位時的](../Page/朝鮮哲宗.md "wikilink")19世紀後半期，是[純祖即位以來由](../Page/朝鮮純祖.md "wikilink")[安東金氏掌權的勢道政治鼎盛時期](https://zh.wikipedia.org/wiki/安東金氏 "wikilink")，延續了60餘年，造成王權沒落，貪官污吏的專橫導致三政紊亂現象達到最惡劣的頂峰，加上全國性的[傳染病](../Page/傳染病.md "wikilink")與民亂的發生，百姓的生活陷入苦不堪言的境地。1863年第26代王[高宗即位後](../Page/朝鮮高宗.md "wikilink")，由[興宣大院君拉下長達](https://zh.wikipedia.org/wiki/興宣大院君 "wikilink")60餘年勢道政治的帷幕。
 
 ## 演員陣容
 
@@ -40,7 +40,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 <p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 <td><center>
 <p><a href="../Page/雷霆.md" title="wikilink">雷霆</a></p></td>
-<td><p>最年輕醫大入學者及首席畢業生，以27歲年紀成為最年輕<a href="../Page/神經外科.md" title="wikilink">神經外科科長</a>，冷靜快速的判斷力加上比任何人都細心的手術，所有人都舉雙手投降的病例，到了他手中成功率就會倍增，對工作有著自豪使命感與十足信心。天下只有一個不易招架的對手，那就是青梅竹馬一起長大的戀人美娜，兩人共同夢想著美好未來的某一天，美娜出了車禍，在絕望的陳赫面前出現了來歷不明的患者。</p></td>
+<td><p>最年輕醫大入學者及首席畢業生，以27歲年紀成為最年輕<a href="../Page/神經外科.md" title="wikilink">神經外科</a>科長，冷靜快速的判斷力加上比任何人都細心的手術，所有人都舉雙手投降的病例，到了他手中成功率就會倍增，對工作有著自豪使命感與十足信心。天下只有一個不易招架的對手，那就是青梅竹馬一起長大的戀人美娜，兩人共同夢想著美好未來的某一天，美娜出了車禍，在絕望的陳赫面前出現了來歷不明的患者。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -54,7 +54,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 <p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 <td><center>
 <p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
-<td><p>家門沒落的<a href="../Page/兩班.md" title="wikilink">兩班家閨秀</a>，與母親、兄長一起生活，歸屬南人黨派的參判父親，被<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏逼迫退位</a>，後因<a href="../Page/瘟疫.md" title="wikilink">瘟疫去世</a>。外貌與美娜相似，行為謹慎規矩，有著對可憐之人無法置之不理的溫暖心腸。長時間相處之下，發現她連性格都與美娜如出一轍，讓陳赫開始相信她是生活在另一個空間的另一個美娜。從來不知門外之事，不敢夢想過未來的朝鮮時代女子，遇到陳赫後明白了什麼是真正的愛情，也開始夢想自己的醫學之路。</p></td>
+<td><p>家門沒落的<a href="../Page/兩班.md" title="wikilink">兩班</a>家閨秀，與母親、兄長一起生活，歸屬南人黨派的參判父親，被<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏逼迫退位</a>，後因<a href="../Page/瘟疫.md" title="wikilink">瘟疫</a>去世。外貌與美娜相似，行為謹慎規矩，有著對可憐之人無法置之不理的溫暖心腸。長時間相處之下，發現她連性格都與美娜如出一轍，讓陳赫開始相信她是生活在另一個空間的另一個美娜。從來不知門外之事，不敢夢想過未來的朝鮮時代女子，遇到陳赫後明白了什麼是真正的愛情，也開始夢想自己的醫學之路。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -78,7 +78,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 <p><a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a></p></td>
 <td><center>
 <p><a href="../Page/曹啟謙.md" title="wikilink">曹啟謙</a></p></td>
-<td><p>永來的未婚夫，<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏兼老論僻派的</a><a href="../Page/左議政.md" title="wikilink">左議政金炳禧</a><a href="https://zh.wikipedia.org/wiki/庶子" title="wikilink">庶子</a>，任捕盜廳從事官一職，武藝超群。比任何人都想得到父親的認可，所以從不曾輸給任何人，也不輕易流露出脆弱的一面,深愛著永來,自從知道永來的微笑是因為陳赫而展開後，一直以來用寬容雅量包容的感情瞬間被背叛，無法再繼續看著她向陳赫靠近，決定只要得到她的心，就算拋棄努力守護到現在的一切也在所不惜。</p></td>
+<td><p>永來的未婚夫，<a href="https://zh.wikipedia.org/wiki/安東金氏" title="wikilink">安東金氏兼老論僻派的</a><a href="../Page/左議政.md" title="wikilink">左議政</a>金炳禧<a href="https://zh.wikipedia.org/wiki/庶子" title="wikilink">庶子</a>，任捕盜廳從事官一職，武藝超群。比任何人都想得到父親的認可，所以從不曾輸給任何人，也不輕易流露出脆弱的一面,深愛著永來,自從知道永來的微笑是因為陳赫而展開後，一直以來用寬容雅量包容的感情瞬間被背叛，無法再繼續看著她向陳赫靠近，決定只要得到她的心，就算拋棄努力守護到現在的一切也在所不惜。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -347,7 +347,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 <p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
 <td><center>
 <p><a href="../Page/沈小蘭.md" title="wikilink">沈小蘭</a></p></td>
-<td><p>脖子上長腫瘤的女子，<a href="../Page/神貞王后.md" title="wikilink">神貞王后的姪女</a>。</p></td>
+<td><p>脖子上長腫瘤的女子，<a href="../Page/神貞王后.md" title="wikilink">神貞王后</a>的姪女。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -369,7 +369,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 <p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
 <td><center>
 <p><a href="../Page/余欣沛.md" title="wikilink">余欣沛</a></p></td>
-<td><p>染上<a href="../Page/梅毒.md" title="wikilink">梅毒的妓生</a></p></td>
+<td><p>染上<a href="../Page/梅毒.md" title="wikilink">梅毒</a>的妓生</p></td>
 </tr>
 <tr class="even">
 <td><center>

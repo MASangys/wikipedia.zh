@@ -1,17 +1,17 @@
 **npm**（全称 Node Package
-Manager，即“node包管理器”）是[Node.js預設的](../Page/Node.js.md "wikilink")、以[JavaScript編寫的](../Page/JavaScript.md "wikilink")[軟體套件管理系統](https://zh.wikipedia.org/wiki/軟體套件管理系統 "wikilink")。
+Manager，即“node包管理器”）是[Node.js](../Page/Node.js.md "wikilink")預設的、以[JavaScript](../Page/JavaScript.md "wikilink")編寫的[軟體套件管理系統](https://zh.wikipedia.org/wiki/軟體套件管理系統 "wikilink")。
 
 ## 历史
 
-npm完全用[JavaScript写成](../Page/JavaScript.md "wikilink")，最初由艾萨克·施吕特（Isaac
+npm完全用[JavaScript](../Page/JavaScript.md "wikilink")写成，最初由艾萨克·施吕特（Isaac
 Z.
-Schlueter）开发。艾萨克表示自己意识到“模块管理很糟糕”的问题，并看到了[PHP的](../Page/PHP.md "wikilink")[PEAR与](../Page/PEAR.md "wikilink")[Perl的](../Page/Perl.md "wikilink")[CPAN等软件的缺点](https://zh.wikipedia.org/wiki/CPAN "wikilink")，于是编写了npm。\[1\]
+Schlueter）开发。艾萨克表示自己意识到“模块管理很糟糕”的问题，并看到了[PHP](../Page/PHP.md "wikilink")的[PEAR](../Page/PEAR.md "wikilink")与[Perl](../Page/Perl.md "wikilink")的[CPAN等软件的缺点](https://zh.wikipedia.org/wiki/CPAN "wikilink")，于是编写了npm。\[1\]
 
 ## 说明
 
 npm会随着Node.js自动安装\[2\]。npm模块仓库提供了一个名为“registry”的查询服务，用户可通过本地的npm命令下载并安装指定模块。此外用户也可以通过npm把自己设计的模块分发到registry上面\[3\]。
 
-registry上面的模块通常采用[CommonJS格式](../Page/CommonJS.md "wikilink")，而且都包含一个[JSON格式的元文件](../Page/JSON.md "wikilink")\[4\]。截止到2016年7月，npm的registry上面已经注册了超过280,000个模块\[5\]。
+registry上面的模块通常采用[CommonJS](../Page/CommonJS.md "wikilink")格式，而且都包含一个[JSON](../Page/JSON.md "wikilink")格式的元文件\[4\]。截止到2016年7月，npm的registry上面已经注册了超过280,000个模块\[5\]。
 
 npm的模块以“先到先得”的原则注册，各模块作者不会发生混乱。然而一旦有人撤回自己发布的模块，那么不仅会使依赖那个模块的项目出现问题，还会带来安全风险\[6\]。例如有一個模組叫做「left-pad」，其中只有一個字串對齊的功能。但是，當作者把它從registry裡面移除之後，許多模組便無法正確構建\[7\]。
 

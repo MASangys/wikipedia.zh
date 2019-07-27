@@ -1,4 +1,4 @@
-**《E.d.M.O.N.D》**是[梁漢文第](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")3張EP，於2013年由[金牌大風娛樂有限公司發行](../Page/金牌大風.md "wikilink")，亦是梁漢文離開金牌大風前的最後一張唱片。
+**《E.d.M.O.N.D》**是[梁漢文第](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")3張EP，於2013年由[金牌大風](../Page/金牌大風.md "wikilink")娛樂有限公司發行，亦是梁漢文離開金牌大風前的最後一張唱片。
 
 ## 曲目
 

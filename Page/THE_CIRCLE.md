@@ -1,5 +1,5 @@
 《**THE
-CIRCLE**》是日本摇滚组合[B'z的的第十四张录音室专辑](../Page/B'z.md "wikilink")。2005年4月6日由[VERMILLION
+CIRCLE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十四张录音室专辑。2005年4月6日由[VERMILLION
 RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約55.7萬張。

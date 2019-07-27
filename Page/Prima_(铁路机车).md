@@ -4,7 +4,7 @@
 
 ### 法國
 
-1990年代中期，为了适应[欧洲铁路运输的快速发展](../Page/欧洲.md "wikilink")，及适应[欧盟成员国铁路改革对通用机车的需求](https://zh.wikipedia.org/wiki/欧盟成员国 "wikilink")，法国阿尔斯通公司为此开发了能满足客货跨境运输要求、采用模块化设计的“Prima”机车技术平台，其中包括了适用于1500伏直流电和25千伏50赫兹交流电气化铁路的“Prima
+1990年代中期，为了适应[欧洲](../Page/欧洲.md "wikilink")铁路运输的快速发展，及适应[欧盟成员国铁路改革对通用机车的需求](https://zh.wikipedia.org/wiki/欧盟成员国 "wikilink")，法国阿尔斯通公司为此开发了能满足客货跨境运输要求、采用模块化设计的“Prima”机车技术平台，其中包括了适用于1500伏直流电和25千伏50赫兹交流电气化铁路的“Prima
 2U”双电流制电力机车，以及适用于1500伏直流电、25千伏50赫兹交流电和15千伏16⅔赫兹交流电气化铁路的“Prima
 3U15”三电流制电力机车，两者功率均为4200千瓦，机车轴式为Bo-Bo，最高运行速度为140公里/小时。
 
@@ -21,7 +21,7 @@
 
 2004年，[中國國鐵亦為](https://zh.wikipedia.org/wiki/中華人民共和國鐵道部 "wikilink")[大秦鐵路大功率交傳機車展開全球招標](https://zh.wikipedia.org/wiki/大秦鐵路 "wikilink")，並由阿爾斯通-[大同電力機車中標](https://zh.wikipedia.org/wiki/大同電力機車 "wikilink")，向國鐵及同車等廠商分別提供180輛貨運型Prima機車及其技術（當中0049-0180在中國製造），並與向西門子-株洲訂購的機車統一命名為DJ4型電力機車（當中Prima機車定為DJ4-3000型）。及後，此等機車改名為[HXD2](https://zh.wikipedia.org/wiki/HXD2 "wikilink")，是首款以固定重聯方式運作的Prima系列機車。及後，國鐵再在2006年訂購500輛屬Prima系列的[HXD2B機車](https://zh.wikipedia.org/wiki/HXD2B "wikilink")，並於2010年全部交付。由此，中國國鐵成為繼法國國鐵後，第二個Prima電力機車用家。
 
-在上述機車交付後，大同電力機車以此為基礎，再生產了深度國產化的HXD2、[HXD2C型](https://zh.wikipedia.org/wiki/HXD2C "wikilink")（僅首批最後3輛車輛；其他採用[龐巴迪運輸或](../Page/龐巴迪運輸.md "wikilink")[東芝公司製牽引系統](https://zh.wikipedia.org/wiki/東芝公司 "wikilink")）等機車，並為[神華集團及](../Page/神華集團.md "wikilink")[白俄羅斯鐵路生產了改用龐巴迪製牽引系統的同款機車](https://zh.wikipedia.org/wiki/白俄羅斯鐵路 "wikilink")。
+在上述機車交付後，大同電力機車以此為基礎，再生產了深度國產化的HXD2、[HXD2C型](https://zh.wikipedia.org/wiki/HXD2C "wikilink")（僅首批最後3輛車輛；其他採用[龐巴迪運輸](../Page/龐巴迪運輸.md "wikilink")或[東芝公司製牽引系統](https://zh.wikipedia.org/wiki/東芝公司 "wikilink")）等機車，並為[神華集團](../Page/神華集團.md "wikilink")及[白俄羅斯鐵路生產了改用龐巴迪製牽引系統的同款機車](https://zh.wikipedia.org/wiki/白俄羅斯鐵路 "wikilink")。
 
 ## 产品系列
 
@@ -62,7 +62,7 @@
       - [AD43C型柴油机车](https://zh.wikipedia.org/wiki/AD43C型柴油机车 "wikilink")
   - 以色列
       - [JT
-        42BW型柴油机车](https://zh.wikipedia.org/wiki/JT_42BW型柴油机车 "wikilink")（裝配[易安迪製柴油機](../Page/易安迪.md "wikilink")，下同）
+        42BW型柴油机车](https://zh.wikipedia.org/wiki/JT_42BW型柴油机车 "wikilink")（裝配[易安迪](../Page/易安迪.md "wikilink")製柴油機，下同）
       - [JT
         42CW型柴油机车](https://zh.wikipedia.org/wiki/JT_42CW型柴油机车 "wikilink")
   - 美国

@@ -1,5 +1,5 @@
 **Groove音樂**，舊稱**Xbox音樂**和**Zune音樂**，是由[微軟開發的一種數位音樂流媒體服務](https://zh.wikipedia.org/wiki/微軟 "wikilink")，透過訂閱或Windows商店裡購買提供音樂串流。\[1\]\[2\]該服務基於網絡，也可透過[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox產品線](../Page/Xbox.md "wikilink")、iOS和[Android的應用程式訪問](../Page/Android.md "wikilink")。\[3\]\[4\]\[5\]Groove收錄了超過38萬首歌曲。\[6\]
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox](../Page/Xbox.md "wikilink")產品線、iOS和[Android](../Page/Android.md "wikilink")的應用程式訪問。\[3\]\[4\]\[5\]Groove收錄了超過38萬首歌曲。\[6\]
 
 2017年10月2日，微软宣布将于2017年12月31日停止该服务，用户将被转移至[Spotify](../Page/Spotify.md "wikilink")。\[7\]
 

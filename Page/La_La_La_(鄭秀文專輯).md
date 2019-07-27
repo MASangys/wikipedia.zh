@@ -1,5 +1,5 @@
 《**La La
-La**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭秀文的第](../Page/鄭秀文.md "wikilink")29張個人專輯和第22張粵語專輯，於2004年2月27日發行。
+La**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭秀文](../Page/鄭秀文.md "wikilink")的第29張個人專輯和第22張粵語專輯，於2004年2月27日發行。
 
 ## 曲目列表
 

@@ -2,7 +2,7 @@
 
 ## 概要
 
-现在NanosizeMir的成员中，水谷瑠奈负责歌唱，塚越雄一朗负责创作歌曲和演奏乐器，其创作的歌曲大多可以归入[独立音乐和](https://zh.wikipedia.org/wiki/独立音乐 "wikilink")[同人音乐类](https://zh.wikipedia.org/wiki/同人音乐 "wikilink")。其乐曲以正统的[流行音乐为基础](https://zh.wikipedia.org/wiki/流行_\(音乐类型\) "wikilink")，又兼有民族音乐和[摇滚乐的特点](../Page/摇滚乐.md "wikilink")。NanosizeMir的两位成员也以**PicoMir**（日语：）的名义进行音乐活动，PicoMir的音乐风格是多用[合成器的电子流行乐](../Page/合成器.md "wikilink")（Techno
+现在NanosizeMir的成员中，水谷瑠奈负责歌唱，塚越雄一朗负责创作歌曲和演奏乐器，其创作的歌曲大多可以归入[独立音乐和](https://zh.wikipedia.org/wiki/独立音乐 "wikilink")[同人音乐类](https://zh.wikipedia.org/wiki/同人音乐 "wikilink")。其乐曲以正统的[流行音乐为基础](https://zh.wikipedia.org/wiki/流行_\(音乐类型\) "wikilink")，又兼有民族音乐和[摇滚乐](../Page/摇滚乐.md "wikilink")的特点。NanosizeMir的两位成员也以**PicoMir**（日语：）的名义进行音乐活动，PicoMir的音乐风格是多用[合成器](../Page/合成器.md "wikilink")的电子流行乐（Techno
 Pop）。
 
 ## 成员
@@ -13,7 +13,7 @@ Pop）。
 <!-- end list -->
 
   - **塚越雄一朗**（日语：）
-      - 主要负责[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，[编曲](https://zh.wikipedia.org/wiki/编曲 "wikilink")，[电子琴](https://zh.wikipedia.org/wiki/电子琴 "wikilink")，[吉他](../Page/吉他.md "wikilink")，[打击乐器等](../Page/打击乐器.md "wikilink")。1981年10月25日生，[长野县出身](https://zh.wikipedia.org/wiki/长野县 "wikilink")，旧名是ShiroKuma。\[2\]在成人作品中使用**碓氷悠一朗**的名义\[3\]。
+      - 主要负责[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，[编曲](https://zh.wikipedia.org/wiki/编曲 "wikilink")，[电子琴](https://zh.wikipedia.org/wiki/电子琴 "wikilink")，[吉他](../Page/吉他.md "wikilink")，[打击乐器](../Page/打击乐器.md "wikilink")等。1981年10月25日生，[长野县出身](https://zh.wikipedia.org/wiki/长野县 "wikilink")，旧名是ShiroKuma。\[2\]在成人作品中使用**碓氷悠一朗**的名义\[3\]。
 
 ## 独立音乐作品
 

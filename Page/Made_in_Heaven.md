@@ -1,5 +1,5 @@
 **Made in
-Heaven**是英国摇滚乐队[皇后乐队的第十五张专辑](../Page/皇后乐队.md "wikilink")，最后一张有主唱[弗雷迪·默丘里](https://zh.wikipedia.org/wiki/弗雷迪·默丘里 "wikilink")、贝斯手[约翰·迪肯的专辑](../Page/约翰·迪肯.md "wikilink")。由[皇后乐队制作](../Page/皇后乐队.md "wikilink")，发行于1995年11月6日。\[1\]
+Heaven**是英国摇滚乐队[皇后乐队](../Page/皇后乐队.md "wikilink")的第十五张专辑，最后一张有主唱[弗雷迪·默丘里](../Page/弗雷迪·默丘里.md "wikilink")、贝斯手[约翰·迪肯](../Page/约翰·迪肯.md "wikilink")的专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")制作，发行于1995年11月6日。\[1\]
 
 ## 曲目列表
 

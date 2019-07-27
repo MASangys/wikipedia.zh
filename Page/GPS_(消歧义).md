@@ -33,7 +33,7 @@
 
   - ，澳大利亚的橄榄球俱乐部
 
-  - GIMP Paint Studio，[GIMP开发团队设计的扩展](../Page/GIMP.md "wikilink")
+  - GIMP Paint Studio，[GIMP](../Page/GIMP.md "wikilink")开发团队设计的扩展
 
   - [心路GPS](../Page/心路GPS.md "wikilink")，香港电视广播有限公司放映的电视剧
 

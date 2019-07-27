@@ -1,8 +1,8 @@
 **FictionBook**
-是建基於[XML的](../Page/XML.md "wikilink")[電子書格式](../Page/電子書.md "wikilink")，起源並流行於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。此類檔案格式為.fb2
+是建基於[XML](../Page/XML.md "wikilink")的[電子書](../Page/電子書.md "wikilink")格式，起源並流行於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。此類檔案格式為.fb2
 。
 
-它包含設定碑文體、經文體及引用的標籤；而[電子書的](../Page/電子書.md "wikilink")[元數據](https://zh.wikipedia.org/wiki/元數據 "wikilink")，包括作者、書名及出版社等資料，亦可在檔案中找到。因此，此格式適合用於各種自動處理、設置索引及電子書管理等。同時，將此檔案格式轉為其他[電子書格式亦較方便](../Page/電子書.md "wikilink")。
+它包含設定碑文體、經文體及引用的標籤；而[電子書](../Page/電子書.md "wikilink")的[元數據](https://zh.wikipedia.org/wiki/元數據 "wikilink")，包括作者、書名及出版社等資料，亦可在檔案中找到。因此，此格式適合用於各種自動處理、設置索引及電子書管理等。同時，將此檔案格式轉為其他[電子書](../Page/電子書.md "wikilink")格式亦較方便。
 
 ## 功能特點
 
@@ -43,7 +43,7 @@
 
 [FBReader](../Page/FBReader.md "wikilink")、[AlReader](https://zh.wikipedia.org/wiki/AlReader "wikilink")、[Haali
 Reader](https://zh.wikipedia.org/wiki/Haali_Reader "wikilink")、[STDU
-Viewer](https://zh.wikipedia.org/wiki/STDU_Viewer "wikilink")、[CoolReader](https://zh.wikipedia.org/wiki/CoolReader "wikilink")、[Okular及](../Page/Okular.md "wikilink")[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Documents](https://zh.wikipedia.org/wiki/Documents "wikilink")
+Viewer](https://zh.wikipedia.org/wiki/STDU_Viewer "wikilink")、[CoolReader](https://zh.wikipedia.org/wiki/CoolReader "wikilink")、[Okular](../Page/Okular.md "wikilink")及[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Documents](https://zh.wikipedia.org/wiki/Documents "wikilink")
 等閱讀器均支援FictionBook。
 
 很多裝置都支援FictionBooks，包括 BeBook One、BeBook Mini、BeBook Club、PocketBook

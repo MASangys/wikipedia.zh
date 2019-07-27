@@ -1,5 +1,5 @@
 "**Without U**"
-是日本著名女歌手青山黛瑪與[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[4minute合作的歌曲](../Page/4minute.md "wikilink")。
+是日本著名女歌手青山黛瑪與[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[4minute](../Page/4minute.md "wikilink")合作的歌曲。
 
 ## 發行過程
 

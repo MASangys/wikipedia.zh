@@ -1,7 +1,7 @@
-**XStream**是[Java类库](../Page/Java.md "wikilink")，用来将[对象](../Page/面向对象程序设计.md "wikilink")[序列化成](../Page/序列化.md "wikilink")[XML](../Page/XML.md "wikilink")
+**XStream**是[Java](../Page/Java.md "wikilink")类库，用来将[对象](../Page/面向对象程序设计.md "wikilink")[序列化](../Page/序列化.md "wikilink")成[XML](../Page/XML.md "wikilink")
 （[JSON](../Page/JSON.md "wikilink")）或反序列化为对象。\[1\]
 
-XStream是[自由软件](../Page/自由软件.md "wikilink"),可以在[BSD许可证的许可下分发](../Page/BSD许可证.md "wikilink")。
+XStream是[自由软件](../Page/自由软件.md "wikilink"),可以在[BSD许可证](../Page/BSD许可证.md "wikilink")的许可下分发。
 
 ## XStream库
 

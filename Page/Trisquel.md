@@ -1,7 +1,7 @@
 **Trisquel**（官方称呼为**Trisquel
-GNU/Linux**\[1\]）是基于[Ubuntu的](../Page/Ubuntu.md "wikilink")[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。\[2\]
+GNU/Linux**\[1\]）是基于[Ubuntu](../Page/Ubuntu.md "wikilink")的[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。\[2\]
 
-该计划旨在建成一个完全由[自由软件构造而不含任何](../Page/自由软件.md "wikilink")[专有软件及专有](../Page/专有软件.md "wikilink")[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")，使用[Linux-libre](../Page/Linux-libre.md "wikilink")——一个清除所有非自由代码（）[Linux核心的](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，与Ubuntu一样友善易用的GNU/Linux操作系统。\[3\]Trisquel依赖于用户的捐款。\[4\]它的标志是一个蓝色[三曲枝图](../Page/三曲腿图.md "wikilink")。\[5\]
+该计划旨在建成一个完全由[自由软件](../Page/自由软件.md "wikilink")构造而不含任何[专有软件](../Page/专有软件.md "wikilink")及专有[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")，使用[Linux-libre](../Page/Linux-libre.md "wikilink")——一个清除所有非自由代码（）[Linux核心的](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，与Ubuntu一样友善易用的GNU/Linux操作系统。\[3\]Trisquel依赖于用户的捐款。\[4\]它的标志是一个蓝色[三曲枝图](../Page/三曲腿图.md "wikilink")。\[5\]
 
 ## 版本
 
@@ -16,9 +16,9 @@ GNU/Linux**\[1\]）是基于[Ubuntu的](../Page/Ubuntu.md "wikilink")[Linux](../
 Trisquel
 Mini是主線Trisquel的替代版本，用於[上網本及古舊機器](https://zh.wikipedia.org/wiki/上網本 "wikilink")。
 
-它使用低資源需求的[LXDE及輕量的](../Page/LXDE.md "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[X
+它使用低資源需求的[LXDE](../Page/LXDE.md "wikilink")及輕量的[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[X
 Window
-System](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")，以替代[GNOME和](../Page/GNOME.md "wikilink")[Qt](../Page/Qt.md "wikilink")/[KDE應用程式](../Page/KDE.md "wikilink")。\[6\]包含[英語和](https://zh.wikipedia.org/wiki/英語 "wikilink")[西班牙語的語言包](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")。
+System](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")，以替代[GNOME](../Page/GNOME.md "wikilink")和[Qt](../Page/Qt.md "wikilink")/[KDE](../Page/KDE.md "wikilink")應用程式。\[6\]包含[英語和](https://zh.wikipedia.org/wiki/英語 "wikilink")[西班牙語的語言包](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")。
 
 ### Trisquel Sugar TOAST
 
@@ -34,8 +34,8 @@ Trisquel的全部源代碼封裝在此鏡像中可供下載。
 
 ## 歷史
 
-該計劃始於2004年，由贊助教育軟體的[加利西亞語支援](../Page/加利西亞語.md "wikilink")，後於2005年4月由[GNU計劃創辦人](../Page/GNU計劃.md "wikilink")[理查·斯托曼作為特別來賓官方支援](https://zh.wikipedia.org/wiki/理查·斯托曼 "wikilink")。\[7\]據計劃負責人Rubén
-Rodríguez言，[奥伦塞省](https://zh.wikipedia.org/wiki/奥伦塞省 "wikilink")[移民的南非及墨西哥社群對加利西亞語的支援有興趣](../Page/移民.md "wikilink")。\[8\]
+該計劃始於2004年，由贊助教育軟體的[加利西亞語](../Page/加利西亞語.md "wikilink")支援，後於2005年4月由[GNU計劃](../Page/GNU計劃.md "wikilink")創辦人[理查·斯托曼作為特別來賓官方支援](https://zh.wikipedia.org/wiki/理查·斯托曼 "wikilink")。\[7\]據計劃負責人Rubén
+Rodríguez言，[奥伦塞省](https://zh.wikipedia.org/wiki/奥伦塞省 "wikilink")[移民](../Page/移民.md "wikilink")的南非及墨西哥社群對加利西亞語的支援有興趣。\[8\]
 
 2008年12月左右，Trisquel包含於[自由軟體基金會](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")，見[自由軟體基金會批准的Linux發行版](https://zh.wikipedia.org/wiki/自由軟體基金會批准的Linux發行版 "wikilink")。\[9\]
 
@@ -171,7 +171,7 @@ Rodríguez言，[奥伦塞省](https://zh.wikipedia.org/wiki/奥伦塞省 "wikil
 
 **当前的版本都包括这些软件：**
 
-  - 稱為"Abrowser"的[Firefox衍生版本](../Page/Firefox.md "wikilink")，其不會建議安裝非自由的[附加元件](../Page/插件.md "wikilink")，也不包含有[商标疑慮的藝術品與名稱](../Page/商标.md "wikilink")。Abrowser會被重新命名是因為Mozilla
+  - 稱為"Abrowser"的[Firefox](../Page/Firefox.md "wikilink")衍生版本，其不會建議安裝非自由的[附加元件](../Page/插件.md "wikilink")，也不包含有[商标](../Page/商标.md "wikilink")疑慮的藝術品與名稱。Abrowser會被重新命名是因為Mozilla
     當時的商標政策不允許對其商標在未經同意的狀況下進行修改\[37\]。
   - 因為[Adobe Flash
     Player是專有軟體](../Page/Adobe_Flash_Player.md "wikilink")，所以Trisquel並不會提供它，取而代之的是提供[Gnash](../Page/Gnash.md "wikilink")

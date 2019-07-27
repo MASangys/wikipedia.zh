@@ -1,4 +1,4 @@
-**Miredo**是一个网络工具，主要用于[BSD和](../Page/BSD.md "wikilink")[Linux的](../Page/Linux.md "wikilink")[IPV6](https://zh.wikipedia.org/wiki/IPV6 "wikilink")
+**Miredo**是一个网络工具，主要用于[BSD](../Page/BSD.md "wikilink")和[Linux](../Page/Linux.md "wikilink")的[IPV6](https://zh.wikipedia.org/wiki/IPV6 "wikilink")
 [Teredo隧道链接](https://zh.wikipedia.org/wiki/Teredo "wikilink")，可以转换不支持IPV6的网络连接IPV6，内核中需要有IPV6和TUN隧道支持。
 
 ## 参数

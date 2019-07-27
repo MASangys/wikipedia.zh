@@ -19,7 +19,7 @@ Thrun在Udacity的工作被*[卫报](https://zh.wikipedia.org/wiki/卫报 "wikil
 在2012年2月20日Udacity同时启动2个课堂，\[13\] 由弗吉尼亚大学 Dave Evans教授课程为 "CS 101:
 Building a Search Engine/CS101：建立一个搜索引擎", 和Thrun教授 "CS 373: Programming
 a Robotic Car/CS
-373:一辆机器汽车的编程"的课堂。两个课堂都使用[Python编程语言](../Page/Python.md "wikilink")。在2012年8月23日，关于创业的一个新课堂EP245被宣布，它会由退休了并多次创业的Steve
+373:一辆机器汽车的编程"的课堂。两个课堂都使用[Python](../Page/Python.md "wikilink")编程语言。在2012年8月23日，关于创业的一个新课堂EP245被宣布，它会由退休了并多次创业的Steve
 Blank传授。\[14\]
 
 ## 参见

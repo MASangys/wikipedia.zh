@@ -1,7 +1,7 @@
-**JailbreakMe**是一个[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，由越狱开发者comex维护并开发\[1\]。JailbreakMe利用了[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")[Safari的漏洞使浏览器崩溃来达到越狱的目的](../Page/Safari.md "wikilink")，如JailbreakMe
+**JailbreakMe**是一个[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，由越狱开发者comex维护并开发\[1\]。JailbreakMe利用了[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")[Safari](../Page/Safari.md "wikilink")的漏洞使浏览器崩溃来达到越狱的目的，如JailbreakMe
 3.0就利用了Safari显示[PDF文稿时的一个漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")。\[2\]
 不同于
-、[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")、[Absinthe](https://zh.wikipedia.org/wiki/Absinthe "wikilink")等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC。在使得Safari崩溃后，会自动添加[Cydia到桌面](../Page/Cydia.md "wikilink")。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[jailbreakme.com](http://www.jailbreakme.com)即可。
+、[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")、[Absinthe](https://zh.wikipedia.org/wiki/Absinthe "wikilink")等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC。在使得Safari崩溃后，会自动添加[Cydia](../Page/Cydia.md "wikilink")到桌面。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[jailbreakme.com](http://www.jailbreakme.com)即可。
 [JailbreakMe_3.0.png](https://zh.wikipedia.org/wiki/File:JailbreakMe_3.0.png "fig:JailbreakMe_3.0.png")
 JailbreakMe的第一个版本是在2007年用于越狱基于1.1.1固件的第一代[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
 touch的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。JailbreakMe的第二个版本出现于2010年8月用于基于4.0.1或更早版本的越狱。JailbreakMe的第三个版本发布于2011年7月，用以越狱4.3到4.3.3固件。已经至少有两百万的设备通过JailbreakMe
@@ -17,7 +17,7 @@ touch越狱，它利用了一个Safari的[tiff漏洞来安装](https://zh.wikipe
 ### JailbreakMe 2.0 Star
 
 2010年8月1日，comex公布了JailbreakMe
-2.0，它利用了在渲染[PDF文件时的](https://zh.wikipedia.org/wiki/PDF "wikilink")[FreeType字体解析器漏洞](../Page/FreeType.md "wikilink")。它是第一个iPhone
+2.0，它利用了在渲染[PDF文件时的](https://zh.wikipedia.org/wiki/PDF "wikilink")[FreeType](../Page/FreeType.md "wikilink")字体解析器漏洞。它是第一个iPhone
 4越狱工具，可以越狱iOS 3.1.2-4.0.1的iPhone,iPad,iPod touch\[6\] 。苹果在iOS
 4.0.2时，封堵了这个漏洞\[7\]。
 
@@ -25,7 +25,7 @@ touch越狱，它利用了一个Safari的[tiff漏洞来安装](https://zh.wikipe
 
 JailbreakMe 3.0于2011年7月6日发布。适用于iOS 4.3-4.3.3的所有iOS设备。这也是首个公开的iPad
 2越狱\[8\] 。JailbreakMe
-3.0依然利用了[FreeType字体解析器漏洞](../Page/FreeType.md "wikilink")。comex也提供了一个免费的修复补丁，用户在越狱后可以通过[Cydia免费下载](../Page/Cydia.md "wikilink")\[9\]。
+3.0依然利用了[FreeType](../Page/FreeType.md "wikilink")字体解析器漏洞。comex也提供了一个免费的修复补丁，用户在越狱后可以通过[Cydia](../Page/Cydia.md "wikilink")免费下载\[9\]。
 在正式版发布的前几天，有人现行发布了与JailbreakMe 3.0同样漏洞的越狱工具，声称是JailbreakMe
 3.0的测试版，但是仅提供iPad 2的iOS
 4.3越狱，而当测试版工具发出时，最新的iOS固件已经是4.3.2了。\[10\]
@@ -60,7 +60,7 @@ comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4</a><br />
-<small><a href="../Page/GSM.md" title="wikilink">GSM版本</a></small></p></td>
+<small><a href="../Page/GSM.md" title="wikilink">GSM</a>版本</small></p></td>
 <td><p>4.0 到 4.0.1, 4.3 到 4.3.3</p></td>
 </tr>
 <tr class="odd">

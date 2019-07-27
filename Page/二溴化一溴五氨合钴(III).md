@@ -1,4 +1,4 @@
-**二溴化一溴五氨合钴(III)**是一种无机[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，[化学式为](../Page/化学式.md "wikilink")\[Co(NH<sub>3</sub>)<sub>5</sub>Br\]Br<sub>2</sub>，它是紫色、可溶于水的固体。
+**二溴化一溴五氨合钴(III)**是一种无机[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，[化学式](../Page/化学式.md "wikilink")为\[Co(NH<sub>3</sub>)<sub>5</sub>Br\]Br<sub>2</sub>，它是紫色、可溶于水的固体。
 
 ## 制备和反应
 

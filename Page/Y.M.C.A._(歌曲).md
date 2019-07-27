@@ -1,4 +1,4 @@
-《**Y.M.C.A.**》是由美国[迪斯科组合](../Page/迪斯科.md "wikilink")[村民录制的一首歌曲](../Page/村民_\(樂團\).md "wikilink")，是其专辑《Cruisin'》中的唯一一支单曲。该曲在1979年初登上美国榜单第二，并同时在英国榜上获得冠军，这成为该乐团的最热门歌曲。它也是不到40首全球销量破千万的单曲。\[1\]
+《**Y.M.C.A.**》是由美国[迪斯科](../Page/迪斯科.md "wikilink")组合[村民录制的一首歌曲](../Page/村民_\(樂團\).md "wikilink")，是其专辑《Cruisin'》中的唯一一支单曲。该曲在1979年初登上美国榜单第二，并同时在英国榜上获得冠军，这成为该乐团的最热门歌曲。它也是不到40首全球销量破千万的单曲。\[1\]
 
 该曲在美国和欧洲仍十分流行，在众多体育盛事中仍在播放。这首歌更是因为其迪斯科金曲和[同志国歌的地位而受到欢迎](https://zh.wikipedia.org/wiki/同志国歌 "wikilink")。
 
@@ -6,9 +6,9 @@
 
 ## 翻唱
 
-  - 1979年，日本歌手[西城秀樹发行的单曲](../Page/西城秀樹.md "wikilink")《[YOUNG MAN
+  - 1979年，日本歌手[西城秀樹](../Page/西城秀樹.md "wikilink")发行的单曲《[YOUNG MAN
     (Y.M.C.A.)](https://zh.wikipedia.org/wiki/YOUNG_MAN_\(Y.M.C.A.\) "wikilink")》翻唱自这首歌，唱片公司宣称销量为140万张，而日本Oricon公司统计的销量为80万张以上。
-  - 1979年，台灣歌手[崔愛蓮亦翻唱過此首歌](https://zh.wikipedia.org/wiki/崔愛蓮 "wikilink")，歌名就叫《[年輕人](https://zh.wikipedia.org/wiki/年輕人 "wikilink")》；同年，香港歌手[林子祥也以曲名](../Page/林子祥.md "wikilink")《[YMCA好知己](https://zh.wikipedia.org/wiki/YMCA好知己 "wikilink")》進行了這首歌粵語版的翻唱。
+  - 1979年，台灣歌手[崔愛蓮亦翻唱過此首歌](https://zh.wikipedia.org/wiki/崔愛蓮 "wikilink")，歌名就叫《[年輕人](https://zh.wikipedia.org/wiki/年輕人 "wikilink")》；同年，香港歌手[林子祥](../Page/林子祥.md "wikilink")也以曲名《[YMCA好知己](https://zh.wikipedia.org/wiki/YMCA好知己 "wikilink")》進行了這首歌粵語版的翻唱。
   - 1995年，台灣歌手庾澄慶亦有翻唱此首歌。
   - 2010年，中国大陆歌手杨坤在专辑《DISCO》中翻唱了这首歌， 曲名就叫《YMCA》。
   - 2013年，美国动画电影《[-{zh-cn:卑鄙的我2; zh-tw:神偷奶爸2; zh-hk:壞蛋獎門人2;

@@ -24,7 +24,7 @@ Limited旗下品牌「one2free」整合成新品牌「csl.」。
 
 ## 廣告宣傳
 
-該公司於1997年6月邀請[郭富城拍攝以](../Page/郭富城.md "wikilink")[香港主權移交為題的](https://zh.wikipedia.org/wiki/香港主權移交 "wikilink")[廣告](../Page/廣告.md "wikilink")，此廣告獲得1998年1月十大電視廣告大獎及1997年[十大勁歌金曲最受歡迎廣告歌曲](https://zh.wikipedia.org/wiki/十大勁歌金曲 "wikilink")。2002年起邀請台灣唱作人[周杰倫代言](../Page/周杰倫.md "wikilink")，2004年[周杰倫主演](../Page/周杰倫.md "wikilink")「你free得起\!」廣告並創作廣告歌《園遊會》（收錄在他2004年推出的《[七里香](../Page/七里香_\(專輯\).md "wikilink")》專輯），獲得2005年「[第十一屆十大電視廣告頒獎典禮](../Page/第十一屆十大電視廣告頒獎典禮.md "wikilink")」中「最受歡迎廣告」及「最受歡迎男明星」獎。
+該公司於1997年6月邀請[郭富城](../Page/郭富城.md "wikilink")拍攝以[香港主權移交為題的](https://zh.wikipedia.org/wiki/香港主權移交 "wikilink")[廣告](../Page/廣告.md "wikilink")，此廣告獲得1998年1月十大電視廣告大獎及1997年[十大勁歌金曲最受歡迎廣告歌曲](https://zh.wikipedia.org/wiki/十大勁歌金曲 "wikilink")。2002年起邀請台灣唱作人[周杰倫](../Page/周杰倫.md "wikilink")代言，2004年[周杰倫](../Page/周杰倫.md "wikilink")主演「你free得起\!」廣告並創作廣告歌《園遊會》（收錄在他2004年推出的《[七里香](../Page/七里香_\(專輯\).md "wikilink")》專輯），獲得2005年「[第十一屆十大電視廣告頒獎典禮](../Page/第十一屆十大電視廣告頒獎典禮.md "wikilink")」中「最受歡迎廣告」及「最受歡迎男明星」獎。
 
 ## 參考資料
 

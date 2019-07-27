@@ -1,5 +1,5 @@
 「**Loving
-U**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SISTAR的第](../Page/SISTAR.md "wikilink")1枚夏日特别专辑。於2012年6月28日發行。唱片公司為[Starship
+U**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")的第1枚夏日特别专辑。於2012年6月28日發行。唱片公司為[Starship
 Entertainment](https://zh.wikipedia.org/wiki/STARSHIP娱乐 "wikilink")。
 
 ## 概要

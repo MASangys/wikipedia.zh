@@ -1,5 +1,5 @@
 **戰隊系列Ｘ假面騎士SPECIAL LIVE In
-Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列的大型](../Page/假面騎士系列.md "wikilink")[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，大多在每一年的9月份舉辦，道具皆由日本原裝搬來台灣，並納入台灣在地文化，量身訂做的劇情。2010年剛開始時並沒有假面騎士登場，直到第二年才有假面騎士登場。
+Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")的大型[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，大多在每一年的9月份舉辦，道具皆由日本原裝搬來台灣，並納入台灣在地文化，量身訂做的劇情。2010年剛開始時並沒有假面騎士登場，直到第二年才有假面騎士登場。
 
 ## 起因
 
@@ -21,7 +21,7 @@ Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊
   - 日期：2011年9月30日～10月2日
   - 時間：11:00、15:00、19:00（日本語場9月30日限定）
   - 地點：[台大體育館](https://zh.wikipedia.org/wiki/台灣大學 "wikilink")
-  - 登場英雄：[假面騎士1號](../Page/假面騎士.md "wikilink")、[假面騎士2號](../Page/假面騎士.md "wikilink")、[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")、[假面騎士Kiva](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")、[假面騎士Saga](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")、炎神戰隊轟音者、[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")
+  - 登場英雄：[假面騎士](../Page/假面騎士.md "wikilink")1號、[假面騎士](../Page/假面騎士.md "wikilink")2號、[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")、[假面騎士Kiva](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")、[假面騎士Saga](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")、炎神戰隊轟音者、[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")
   - 登場敵人：害地大臣、總理大臣、害地副大臣、修卡
 
 ### 2012年

@@ -8,9 +8,9 @@ Credit and Investment Company）\[1\]。
 Company），同時搬遷至[紐約市為主要總部](https://zh.wikipedia.org/wiki/紐約市 "wikilink")\[2\]，1924年，首次在[紐約證券交易所上市](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")，1948年10月27日，Henry
 Ittleson去世，終年77歲\[3\]。
 
-1959年，公司搬遷至[曼克頓](https://zh.wikipedia.org/wiki/曼克頓 "wikilink")[麥迪遜大道大樓](../Page/麥迪遜大道.md "wikilink")，60年代，受[越戰事件影響](https://zh.wikipedia.org/wiki/越戰事件 "wikilink")，公司也不得不改變策略，1969年，開始進軍汽車、房產信託等。1979年，受銀行法規影響，出售。1980年，被[美國收音機公司收購](../Page/RCA.md "wikilink")。1982年，出售曼迪遜大道大樓，以及搬遷至新澤西州。
+1959年，公司搬遷至[曼克頓](https://zh.wikipedia.org/wiki/曼克頓 "wikilink")[麥迪遜大道](../Page/麥迪遜大道.md "wikilink")大樓，60年代，受[越戰事件影響](https://zh.wikipedia.org/wiki/越戰事件 "wikilink")，公司也不得不改變策略，1969年，開始進軍汽車、房產信託等。1979年，受銀行法規影響，出售。1980年，被[美國收音機公司收購](../Page/RCA.md "wikilink")。1982年，出售曼迪遜大道大樓，以及搬遷至新澤西州。
 
-1984年，被（[摩根大通前身](../Page/摩根大通.md "wikilink")）全面收購。1989年，[第一勸業銀行](https://zh.wikipedia.org/wiki/第一勸業銀行 "wikilink")（[瑞穗實業銀行前身](../Page/瑞穗實業銀行.md "wikilink")）收購該公司60%股權，其後出售和再分拆上市。1999年，收購位於多倫多的紐康特信貨公司，總代價為40億美元。
+1984年，被（[摩根大通](../Page/摩根大通.md "wikilink")前身）全面收購。1989年，[第一勸業銀行](https://zh.wikipedia.org/wiki/第一勸業銀行 "wikilink")（[瑞穗實業銀行](../Page/瑞穗實業銀行.md "wikilink")前身）收購該公司60%股權，其後出售和再分拆上市。1999年，收購位於多倫多的紐康特信貨公司，總代價為40億美元。
 
 2001年6月，被[泰科國際股份有限公司全面收購](https://zh.wikipedia.org/wiki/泰科國際股份有限公司 "wikilink")，更名為「泰科資本股份有限公司」。2002年，更回原本名稱、出售、再次上市，以及搬回[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。2009年，CIT以按照[美國法規第十一章申請破產保護](https://zh.wikipedia.org/wiki/美國法規第十一章 "wikilink")，原因是受到嚴重財務問題，而資產總額為710億美元，債務總額達到649億美元\[4\]。
 

@@ -144,7 +144,7 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
 <tbody>
 <tr class="odd">
 <td><p>'''1st '''</p></td>
-<td><p>首張正規專輯《<em>' Simon Dominic Presents 'SNL LEAGUE BEGINS</em>'》</p>
+<td><p>首張正規專輯《''' Simon Dominic Presents 'SNL LEAGUE BEGINS' '''》</p>
 <ul>
 <li>發行日期：2011年10月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -153,7 +153,7 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
 </tr>
 <tr class="even">
 <td><p>'''2nd '''</p></td>
-<td><p>第二張正規專輯《''' DARKROOM: roommates only '''》</p>
+<td><p>第二張正規專輯《''' DARKROOM '''》</p>
 <ul>
 <li>發行日期：2018年6月15日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>

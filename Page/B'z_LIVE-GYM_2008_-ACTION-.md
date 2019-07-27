@@ -1,5 +1,5 @@
 《**B'z LIVE-GYM 2008
--ACTION-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")16張LIVE作品映像化(第14張DVD)。
+-ACTION-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第16張LIVE作品映像化(第14張DVD)。
 
 ## 簡介
 

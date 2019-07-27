@@ -1,4 +1,4 @@
-**四日市東IC**（平假名：よっかいちひがしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[四日市市的](../Page/四日市市.md "wikilink")[東名阪自動車道之](../Page/東名阪自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**四日市東IC**（平假名：よっかいちひがしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[四日市市](../Page/四日市市.md "wikilink")的[東名阪自動車道](../Page/東名阪自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 

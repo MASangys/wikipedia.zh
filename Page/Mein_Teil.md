@@ -1,13 +1,13 @@
 **Mein
-Teil**（德译：我的部分）是德国工业金属乐队[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，歌曲的创作灵感源于[阿明·迈韦斯和贝恩德](../Page/阿明·迈韦斯.md "wikilink")·于尔根阿曼多·布兰德斯事件，2001年3月，两名40岁左右的男子相识并相爱，布兰德斯的阴茎被切下并煮熟后被对方吃掉，之后，迈韦斯在布兰德斯的同意下杀害了他并吃了他。结果，迈韦斯因故意杀人罪，被判处有期徒刑八年半，但其后被控以谋杀罪被判处终身监禁。
+Teil**（德译：我的部分）是德国工业金属乐队[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，歌曲的创作灵感源于[阿明·迈韦斯](../Page/阿明·迈韦斯.md "wikilink")和贝恩德·于尔根阿曼多·布兰德斯事件，2001年3月，两名40岁左右的男子相识并相爱，布兰德斯的阴茎被切下并煮熟后被对方吃掉，之后，迈韦斯在布兰德斯的同意下杀害了他并吃了他。结果，迈韦斯因故意杀人罪，被判处有期徒刑八年半，但其后被控以谋杀罪被判处终身监禁。
 
 “Mein
-Teil”在[第48届格莱美奖中获得了最佳金属奖提名](../Page/第48届格莱美奖.md "wikilink")，但输给了[活结乐队的](https://zh.wikipedia.org/wiki/活结乐队 "wikilink")。\[1\]
+Teil”在[第48届格莱美奖](../Page/第48届格莱美奖.md "wikilink")中获得了最佳金属奖提名，但输给了[活结乐队的](https://zh.wikipedia.org/wiki/活结乐队 "wikilink")。\[1\]
 
 ## MV
 
 因为各种争议，Mein Teil的MV在德国MTV频道限制在晚上11点后播出。MV中[Christoph
-Schneider装扮成](https://zh.wikipedia.org/wiki/Christoph_Schneider "wikilink")[阿明·迈韦斯的母亲](../Page/阿明·迈韦斯.md "wikilink")；Till让一位天使给他口交随后吃她的翅膀并杀了她；[Flake在迷幻状态下跳芭蕾](https://zh.wikipedia.org/wiki/Christian_Lorenz "wikilink")；[Paul颤抖](https://zh.wikipedia.org/wiki/Paul_Landers "wikilink")；大声尖叫在狂乱的状况下四处游荡；[Richard在跟他的分身决斗](https://zh.wikipedia.org/wiki/Richard_Kruspe "wikilink")；[Ollie在地板上痛苦的痉挛](https://zh.wikipedia.org/wiki/Oliver_Riedel "wikilink")，随后他们在泥浆池中打架，最后，五位乐队成员，被Schneider牵着，像狗一样地爬出地铁。
+Schneider装扮成](https://zh.wikipedia.org/wiki/Christoph_Schneider "wikilink")[阿明·迈韦斯](../Page/阿明·迈韦斯.md "wikilink")的母亲；Till让一位天使给他口交随后吃她的翅膀并杀了她；[Flake在迷幻状态下跳芭蕾](https://zh.wikipedia.org/wiki/Christian_Lorenz "wikilink")；[Paul颤抖](https://zh.wikipedia.org/wiki/Paul_Landers "wikilink")；大声尖叫在狂乱的状况下四处游荡；[Richard在跟他的分身决斗](https://zh.wikipedia.org/wiki/Richard_Kruspe "wikilink")；[Ollie在地板上痛苦的痉挛](https://zh.wikipedia.org/wiki/Oliver_Riedel "wikilink")，随后他们在泥浆池中打架，最后，五位乐队成员，被Schneider牵着，像狗一样地爬出地铁。
 
 ## 现场
 

@@ -1,12 +1,12 @@
 《**艦隊Collection
--艦Colle-**》（），一般譯作「艦隊收藏」，是由[角川遊戲開發](../Page/角川集團.md "wikilink")、[DMM.com提供及營運的](../Page/DMM.com.md "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，簡稱《艦Colle》（）；DMM表記《》。本遊戲以[第二次世界大戰時期的各國](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[軍艦](https://zh.wikipedia.org/wiki/軍艦 "wikilink")(以[大日本帝國海軍為多數](../Page/大日本帝國海軍.md "wikilink"))為題材，而遊戲內容為玩家需要收集稱為「艦娘」（）的軍艦[萌擬人化角色卡片](../Page/萌擬人化.md "wikilink")，為艦娘進行強化及改造同時，並以在戰鬥中打倒敵人作為目標。作為PC瀏覽器運行的網頁遊戲，在營運半年用戶即突破100萬\[1\]。
+-艦Colle-**》（），一般譯作「艦隊收藏」，是由[角川遊戲開發](../Page/角川集團.md "wikilink")、[DMM.com](../Page/DMM.com.md "wikilink")提供及營運的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，簡稱《艦Colle》（）；DMM表記《》。本遊戲以[第二次世界大戰時期的各國](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[軍艦](https://zh.wikipedia.org/wiki/軍艦 "wikilink")(以[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")為多數)為題材，而遊戲內容為玩家需要收集稱為「艦娘」（）的軍艦[萌擬人化](../Page/萌擬人化.md "wikilink")角色卡片，為艦娘進行強化及改造同時，並以在戰鬥中打倒敵人作為目標。作為PC瀏覽器運行的網頁遊戲，在營運半年用戶即突破100萬\[1\]。
 
 拥有音乐CD、Drama
 CD、四格漫畫、動畫、小說等衍生作品。由於遊戲畫面與對話設計別具特色、對史實的再解釋，成為同人創作與同人作品的熱門素材\[2\]。
 
 ## 遊戲内容
 
-玩家（遊戲內艦娘們會稱呼玩家為「提督」或「司令」）為透過收集[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")、[戰艦](../Page/戰艦.md "wikilink")、[巡洋艦等不同類型的](https://zh.wikipedia.org/wiki/巡洋艦 "wikilink")[萌擬人化軍艦卡片](../Page/萌擬人化.md "wikilink")「艦娘」，並編制不同的艦隊與敵人戰鬥務求獲得勝利。每一位艦娘的插畫及人物設定皆以軍艦的外型及特徵為藍本，而戰鬥時使用的數值，是對應該艦在歷史上於不同海戰中發生的事件及其他要素，簡單地表現出來。艦娘所裝備的[主砲等兵器也是以真實存在的兵裝能力數值化後的產物](https://zh.wikipedia.org/wiki/艦砲 "wikilink")，所以該遊戲作為[卡片遊戲的同時](../Page/卡片遊戲.md "wikilink")，亦是模擬海戰的[戰爭遊戲](https://zh.wikipedia.org/wiki/戰爭遊戲 "wikilink")。
+玩家（遊戲內艦娘們會稱呼玩家為「提督」或「司令」）為透過收集[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")、[戰艦](../Page/戰艦.md "wikilink")、[巡洋艦等不同類型的](https://zh.wikipedia.org/wiki/巡洋艦 "wikilink")[萌擬人化](../Page/萌擬人化.md "wikilink")軍艦卡片「艦娘」，並編制不同的艦隊與敵人戰鬥務求獲得勝利。每一位艦娘的插畫及人物設定皆以軍艦的外型及特徵為藍本，而戰鬥時使用的數值，是對應該艦在歷史上於不同海戰中發生的事件及其他要素，簡單地表現出來。艦娘所裝備的[主砲等兵器也是以真實存在的兵裝能力數值化後的產物](https://zh.wikipedia.org/wiki/艦砲 "wikilink")，所以該遊戲作為[卡片遊戲](../Page/卡片遊戲.md "wikilink")的同時，亦是模擬海戰的[戰爭遊戲](https://zh.wikipedia.org/wiki/戰爭遊戲 "wikilink")。
 
 玩家可進行的指令，分為出擊、編成（編制）、補給、改裝、入渠及[工廠](../Page/工廠.md "wikilink")6種。在遊戲開始時可得到1位艦娘及一些資源，增加艦娘數目的方式，除了自行建造（「工廠」內其中一個指令）外，也可以在打倒敵人後拾得其掉下的艦娘。而艦娘的育成，則為在出擊後藉著等級上升來強化，並用以編制強大的艦隊。艦娘的建造與修理，必須使用的物資為燃料、彈藥、鋼材及鋁土礦這4種參數。這些物資會隨時間經過自動增加。玩家亦可以透過遠征（「出擊」內其中一個指令）來增加所擁有的物資。
 
@@ -14,7 +14,7 @@ CD、四格漫畫、動畫、小說等衍生作品。由於遊戲畫面與對話
 
 艦娘本身均設有耐久度，輕微損毀時會在其圖標上噴出黑煙，而在中度損毀或以上的狀態其插畫會出現變化。耐久度降至0時即被判定為「[擊沉](https://zh.wikipedia.org/wiki/沉沒 "wikilink")」，在對殘存的艦隊留下遺言後該艦娘將會連同身上全部裝備消失（損失）。沒有任何方法可令被擊沉的艦娘復活，只可以重新訓練同種艦隻作為替代；但若是有安置[損害管制道具](https://zh.wikipedia.org/wiki/損害管制 "wikilink")，則會在該艦娘留下遺言之後發動，可以暫時性迴避一次擊沈所帶來的損失，並使艦娘總血量恢復四分之一（小數點直接捨去），損害管制道具有分基本與高級兩種，高級損管道具作用與基本損管道具相同，但不同的是，會使該艦娘的耐久度、燃料與彈藥全滿，損管道具皆為一次性道具，發動之後會消失，損害管制道具可以透過部分任務或是活動獲得，也可以用現金購買。
 
-敵方艦隊被稱為「深海棲艦」），是以軍艦與輸送艦等所構成但實質不明的一群怪物。雖然多數怪物的形狀與生物不甚相似，但是戰艦與航空母艦等強力的敵人則變成女性的形態。在期間限定的特別活動（期間限定活動的背景藍圖多為參照史實的大日本帝國參加過的海戰）及部分高難度的場景中登場的「深海棲艦」，會被被賦與「鬼」「姬」「浮遊要塞」等一般艦種有別的特殊名稱，而這些被賦予特殊名稱的深海棲艦也多為參照[美軍或](https://zh.wikipedia.org/wiki/美軍 "wikilink")[同盟國國家的軍事或戰略基地](../Page/同盟國_\(第二次世界大戰\).md "wikilink")（如北方棲姬代表位於[阿留申羣島的](https://zh.wikipedia.org/wiki/阿留申羣島 "wikilink")[荷蘭港及中間棲姬代表](../Page/荷蘭港.md "wikilink")[中途島](../Page/中途島.md "wikilink")）、港口（如港灣棲姬代表[達爾文港](https://zh.wikipedia.org/wiki/達爾文港 "wikilink")）、機場（如飛行場姬代表[瓜達爾卡納爾島](https://zh.wikipedia.org/wiki/瓜達爾卡納爾島 "wikilink")）、或是同盟國各國的[戰艦以及](../Page/戰艦.md "wikilink")[航空母艦所設計](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，也有部分活動的深海棲艦形象參照自史實中在某作戰被擊沉的[大日本帝國海軍軍艦及海外軍艦](../Page/大日本帝國海軍.md "wikilink")（例如於[馬里亞納海戰被擊沉的](https://zh.wikipedia.org/wiki/馬里亞納海戰 "wikilink")[翔鶴號航空母艦與](../Page/翔鹤号航空母舰.md "wikilink")[大鳳號航空母艦](../Page/大鳳號航空母艦.md "wikilink")、[萊特灣海戰被擊沉的](https://zh.wikipedia.org/wiki/萊特灣海戰 "wikilink")[扶桑號戰艦及](../Page/扶桑號戰艦.md "wikilink")[山城號戰艦及](https://zh.wikipedia.org/wiki/山城號戰艦 "wikilink")[北非戰場被](../Page/北非戰場.md "wikilink")[盟軍中破的維奇法軍旗艦](https://zh.wikipedia.org/wiki/盟軍 "wikilink")[黎胥留號戰艦](https://zh.wikipedia.org/wiki/黎胥留號戰艦 "wikilink")），而其登場的場景亦與通常的敵人有所不同。
+敵方艦隊被稱為「深海棲艦」），是以軍艦與輸送艦等所構成但實質不明的一群怪物。雖然多數怪物的形狀與生物不甚相似，但是戰艦與航空母艦等強力的敵人則變成女性的形態。在期間限定的特別活動（期間限定活動的背景藍圖多為參照史實的大日本帝國參加過的海戰）及部分高難度的場景中登場的「深海棲艦」，會被被賦與「鬼」「姬」「浮遊要塞」等一般艦種有別的特殊名稱，而這些被賦予特殊名稱的深海棲艦也多為參照[美軍或](https://zh.wikipedia.org/wiki/美軍 "wikilink")[同盟國國家的軍事或戰略基地](../Page/同盟國_\(第二次世界大戰\).md "wikilink")（如北方棲姬代表位於[阿留申羣島的](https://zh.wikipedia.org/wiki/阿留申羣島 "wikilink")[荷蘭港](../Page/荷蘭港.md "wikilink")及中間棲姬代表[中途島](../Page/中途島.md "wikilink")）、港口（如港灣棲姬代表[達爾文港](https://zh.wikipedia.org/wiki/達爾文港 "wikilink")）、機場（如飛行場姬代表[瓜達爾卡納爾島](https://zh.wikipedia.org/wiki/瓜達爾卡納爾島 "wikilink")）、或是同盟國各國的[戰艦](../Page/戰艦.md "wikilink")以及[航空母艦所設計](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，也有部分活動的深海棲艦形象參照自史實中在某作戰被擊沉的[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")軍艦及海外軍艦（例如於[馬里亞納海戰被擊沉的](https://zh.wikipedia.org/wiki/馬里亞納海戰 "wikilink")[翔鶴號航空母艦與](../Page/翔鹤号航空母舰.md "wikilink")[大鳳號航空母艦](../Page/大鳳號航空母艦.md "wikilink")、[萊特灣海戰被擊沉的](https://zh.wikipedia.org/wiki/萊特灣海戰 "wikilink")[扶桑號戰艦](../Page/扶桑號戰艦.md "wikilink")及[山城號戰艦及](https://zh.wikipedia.org/wiki/山城號戰艦 "wikilink")[北非戰場](../Page/北非戰場.md "wikilink")被[盟軍中破的維奇法軍旗艦](https://zh.wikipedia.org/wiki/盟軍 "wikilink")[黎胥留號戰艦](https://zh.wikipedia.org/wiki/黎胥留號戰艦 "wikilink")），而其登場的場景亦與通常的敵人有所不同。
 
 在作品中使用並名為《夜戰之曲（）》的樂曲，是由隸屬於DMM.com的製作人[岡宮道生所作曲](https://zh.wikipedia.org/wiki/岡宮道生 "wikilink")\[3\]。
 
@@ -36,26 +36,26 @@ A）。
 
 2015年4月27日開始的2015春季限定活動加入意大利海軍[維托里奧·維內托級戰艦利托里奧](../Page/维托里奥·维内托级战列舰.md "wikilink")(Littorio)/意大利(Italia)及羅馬號(Roma)，同年8月10日的夏季限定活動第二次SN作戰後加入西北風級驅逐艦西南風號。
 
-2016年2月10日的冬季限定活動中加入[扎拉级重巡洋艦扎拉號](https://zh.wikipedia.org/wiki/扎拉级重巡洋艦 "wikilink")，同年5月3日的春季限定活動中加入扎拉號的姊妹艦波拉號，8月12日的夏季限定活動第二次[馬來亞海戰後加入](../Page/馬來亞海戰.md "wikilink")[鷲座號航空母艦](../Page/鷲座號航空母艦.md "wikilink")，使軸心國海軍均已有艦艇登場。此外，2016年2月發售的掌上型遊樂器[PlayStation
+2016年2月10日的冬季限定活動中加入[扎拉级重巡洋艦扎拉號](https://zh.wikipedia.org/wiki/扎拉级重巡洋艦 "wikilink")，同年5月3日的春季限定活動中加入扎拉號的姊妹艦波拉號，8月12日的夏季限定活動第二次[馬來亞海戰](../Page/馬來亞海戰.md "wikilink")後加入[鷲座號航空母艦](../Page/鷲座號航空母艦.md "wikilink")，使軸心國海軍均已有艦艇登場。此外，2016年2月發售的掌上型遊樂器[PlayStation
 Vita平台系列遊戲](../Page/PlayStation_Vita.md "wikilink")「艦これ
-改」加入了[美國海軍的](../Page/美國海軍.md "wikilink")[愛荷華號戰艦](../Page/艾奧瓦號戰艦_\(BB-61\).md "wikilink")，成為了本作第一艘同盟國側艦娘。並與2016年春季活動作為第七张(最后一张)作战地图过关獎勵加入到PC平台的「艦これ
-」中。其後在8月12日的夏季限定活動第二次[馬來亞海戰中的第四張](../Page/馬來亞海戰.md "wikilink")(最後一張)地圖加入了[英國皇家海軍的](../Page/英國皇家海軍.md "wikilink")[伊莉莎白女王級戰艦](https://zh.wikipedia.org/wiki/伊莉莎白女王級戰艦 "wikilink")[厭戰號](https://zh.wikipedia.org/wiki/厭戰號戰艦 "wikilink")。11月19日的秋季限定活動中的第三張地圖加入了[法國海軍的特斯特司令官號](../Page/法國海軍.md "wikilink")[水上機母艦](https://zh.wikipedia.org/wiki/水上機母艦 "wikilink")、並於第五張地圖(最後一張)加入了[美國海軍](../Page/美國海軍.md "wikilink")[列星頓級航空母艦的](https://zh.wikipedia.org/wiki/列星頓級航空母艦 "wikilink")[薩拉托加號航空母艦](../Page/薩拉托加號航空母艦_\(CV-3\).md "wikilink")，為第一艘同盟國側的[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")。
+改」加入了[美國海軍](../Page/美國海軍.md "wikilink")的[愛荷華號戰艦](../Page/艾奧瓦號戰艦_\(BB-61\).md "wikilink")，成為了本作第一艘同盟國側艦娘。並與2016年春季活動作為第七张(最后一张)作战地图过关獎勵加入到PC平台的「艦これ
+」中。其後在8月12日的夏季限定活動第二次[馬來亞海戰](../Page/馬來亞海戰.md "wikilink")中的第四張(最後一張)地圖加入了[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")的[伊莉莎白女王級戰艦](https://zh.wikipedia.org/wiki/伊莉莎白女王級戰艦 "wikilink")[厭戰號](https://zh.wikipedia.org/wiki/厭戰號戰艦 "wikilink")。11月19日的秋季限定活動中的第三張地圖加入了[法國海軍](../Page/法國海軍.md "wikilink")的特斯特司令官號[水上機母艦](https://zh.wikipedia.org/wiki/水上機母艦 "wikilink")、並於第五張地圖(最後一張)加入了[美國海軍](../Page/美國海軍.md "wikilink")[列星頓級航空母艦的](https://zh.wikipedia.org/wiki/列星頓級航空母艦 "wikilink")[薩拉托加號航空母艦](../Page/薩拉托加號航空母艦_\(CV-3\).md "wikilink")，為第一艘同盟國側的[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")。
 
-2017年5月2日的春季限定活動的最後一張地圖加入了[蘇聯海軍的](../Page/蘇聯海軍.md "wikilink")[甘古特級甘古特號戰艦](https://zh.wikipedia.org/wiki/甘古特級 "wikilink")，為本作中真正意義上的第一艘[蘇聯艦艇](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。2017年8月10日的夏季限定活動的第四張地圖中加入了法國海軍的[黎賽留級戰艦](https://zh.wikipedia.org/wiki/黎賽留級戰艦 "wikilink")[黎賽留號](https://zh.wikipedia.org/wiki/黎賽留號 "wikilink")，第六張地圖加入了義大利海軍的Luigi
+2017年5月2日的春季限定活動的最後一張地圖加入了[蘇聯海軍](../Page/蘇聯海軍.md "wikilink")的[甘古特級甘古特號戰艦](https://zh.wikipedia.org/wiki/甘古特級 "wikilink")，為本作中真正意義上的第一艘[蘇聯艦艇](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。2017年8月10日的夏季限定活動的第四張地圖中加入了法國海軍的[黎賽留級戰艦](https://zh.wikipedia.org/wiki/黎賽留級戰艦 "wikilink")[黎賽留號](https://zh.wikipedia.org/wiki/黎賽留號 "wikilink")，第六張地圖加入了義大利海軍的Luigi
 Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號航空母艦](https://zh.wikipedia.org/wiki/皇家方舟號航空母艦 "wikilink")。
 
 2018年2月27日的冬季限定活動中，於第四張地圖加入了[美國海軍](../Page/美國海軍.md "wikilink")[卡萨布兰卡级](https://zh.wikipedia.org/wiki/卡萨布兰卡級护航航空母艦 "wikilink")號護衛航母，以及[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")驅逐艦號。第六張地圖中加入[蘇聯海軍](../Page/蘇聯海軍.md "wikilink")[塔什干號驅逐艦](https://zh.wikipedia.org/wiki/塔什干号驱逐舰 "wikilink")。第七張(最後一張)地圖中加入了[美國海軍](../Page/美國海軍.md "wikilink")[艾塞克斯級航空母艦](../Page/艾塞克斯級航空母艦.md "wikilink")[无畏號](https://zh.wikipedia.org/wiki/无畏号航空母舰 "wikilink")。
 
-2018年4月23日的五周年限定任務完成後，將會加入[美國海軍的](../Page/美國海軍.md "wikilink")護衛驅逐艦號。
+2018年4月23日的五周年限定任務完成後，將會加入[美國海軍](../Page/美國海軍.md "wikilink")的護衛驅逐艦號。
 
 2018年9月9日，2018年初秋活动开始。击破第三张地图可获得由德國远洋郵輪改裝而成的[神鹰号航空母舰](https://zh.wikipedia.org/wiki/神鹰号航空母舰 "wikilink")，击破第四张地图可获得[意大利海军](../Page/意大利海军.md "wikilink")[西北风](https://zh.wikipedia.org/wiki/西北风号驱逐舰 "wikilink")，同時可以在此地图通过打捞获得[瑞典海军的](https://zh.wikipedia.org/wiki/瑞典海军 "wikilink")。击破第五张地图的最终海域可以获得[英国皇家海军](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")[纳尔逊级](../Page/纳尔逊级战列舰.md "wikilink")[战列舰](https://zh.wikipedia.org/wiki/战列舰 "wikilink")[纳尔逊](https://zh.wikipedia.org/wiki/纳尔逊号战舰 "wikilink")。
 
 2018年12月27日开始的冬季限定活动中，击破第三张地图的最终海域可以获得[大日本帝国海军的](https://zh.wikipedia.org/wiki/大日本帝国海军 "wikilink")。同时可以通过打捞获得[美国海军的](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[约翰斯顿](https://zh.wikipedia.org/wiki/约翰斯顿号驱逐舰_\(DD-557\) "wikilink")，这也是本作实装的第一艘[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")。
 
-2019年5月21日舉行的春季限定活動中，擊破第二張地圖可以獲得[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")[占守型海防艦的](https://zh.wikipedia.org/wiki/占守型海防艦 "wikilink")，並可透過打撈獲得其同型艦的。在擊破第三張地圖後，將可獲得[義大利皇家海軍的](../Page/義大利皇家海軍.md "wikilink")。後段作戰中則可以打撈[美國海軍的](../Page/美國海軍.md "wikilink")[弗莱彻级驱逐舰命名艦](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[弗萊徹號驅逐艦
+2019年5月21日舉行的春季限定活動中，擊破第二張地圖可以獲得[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")[占守型海防艦的](https://zh.wikipedia.org/wiki/占守型海防艦 "wikilink")，並可透過打撈獲得其同型艦的。在擊破第三張地圖後，將可獲得[義大利皇家海軍](../Page/義大利皇家海軍.md "wikilink")的。後段作戰中則可以打撈[美國海軍](../Page/美國海軍.md "wikilink")的[弗莱彻级驱逐舰命名艦](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[弗萊徹號驅逐艦
 (DD-445)](https://zh.wikipedia.org/wiki/弗萊徹號驅逐艦_\(DD-445\) "wikilink")，更能夠於擊破第五張地圖(最終關卡)後獲得美國海軍[科羅拉多級戰艦的](https://zh.wikipedia.org/wiki/科羅拉多級戰艦 "wikilink")[科羅拉多號戰艦](../Page/科羅拉多號戰艦.md "wikilink")。
 
-登場的艦娘各有自己的專用台詞，並使用[聲優錄製成全語音](../Page/聲優.md "wikilink")，部分艦娘還有整點報時的語音。重大節日（聖誕節、[新曆新年等日本傳統節日](../Page/日本新年.md "wikilink")）、或是牽涉到史實的活動時亦會裝設期間限定的語音。聲優最多一人分飾約10艘的艦娘。至2014年11月底已登場艦娘配音聲優名單刊載於官方解說書《》\[8\]。
+登場的艦娘各有自己的專用台詞，並使用[聲優](../Page/聲優.md "wikilink")錄製成全語音，部分艦娘還有整點報時的語音。重大節日（聖誕節、[新曆新年等日本傳統節日](../Page/日本新年.md "wikilink")）、或是牽涉到史實的活動時亦會裝設期間限定的語音。聲優最多一人分飾約10艘的艦娘。至2014年11月底已登場艦娘配音聲優名單刊載於官方解說書《》\[8\]。
 
 <table>
 <thead>
@@ -418,7 +418,7 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 <tr class="odd">
 <td><p>曉型</p></td>
 <td><p><a href="../Page/曉號驅逐艦_(吹雪型).md" title="wikilink">曉</a>、<a href="../Page/響號驅逐艦.md" title="wikilink">響／Верный</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
-<td><p>響依據改造，艦名變更為<a href="../Page/蘇聯海軍.md" title="wikilink">蘇聯海軍的Верный</a>。</p></td>
+<td><p>響依據改造，艦名變更為<a href="../Page/蘇聯海軍.md" title="wikilink">蘇聯海軍</a>的Верный。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -950,7 +950,7 @@ Users,，1日1次以上進行遊戲的人數）為2萬人
 
 和大部分以「轉蛋」（購買抽獎券）這類[道具收費為重心獲取利益的](../Page/网络游戏免费模式.md "wikilink")[社群網路遊戲不同](https://zh.wikipedia.org/wiki/社群網路遊戲 "wikilink")，《艦Colle》雖然有利於遊戲進行的付費要素，但是不付費就得不到的日常消耗性道具、艦娘、遊戲功能基本上不存在\[101\]。遊戲中絕大部分付費道具均有機會循完成指定任務或季節限定活動取得，即使不購買遊戲物資或擴充持有船數上限，也能夠突破限定活動，活動限定的艦娘有機會在往後的活動中再掉落，或過一段時間後開放建造，並不會特別優待付費玩家\[102\]，官方甚至在游戏画面中明确提醒玩家切勿購買資源進行消耗资源较多的大型建造。《艦Colle》構想在書籍出版及週邊商品等多媒體展開（[跨媒體製作](../Page/跨媒體製作.md "wikilink")）方式以取得獲利\[103\]。
 
-2013年9月27日，[角川集團控股董事長](https://zh.wikipedia.org/wiki/角川集團控股 "wikilink")[角川歷彥提到](../Page/角川歷彥.md "wikilink")《艦Colle》時表示，由於出資比率的關係，截至2013年9月，角川集團並未從中賺取利益；有多數企劃期望將角川Games的《艦Colle》改編成小說及漫畫等，對角川歷彥本人將來想嘗試的「重複運用一項IP（[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")）」在《艦Colle》逐漸成長這件事抱以期待\[104\]。截止至2014年3月末，據日本經濟新聞援引DMM.com的資料顯示，艦娘的銷售額已經達到了70億日圓，是遊戲開發費用的140倍\[105\]。
+2013年9月27日，[角川集團控股董事長](https://zh.wikipedia.org/wiki/角川集團控股 "wikilink")[角川歷彥](../Page/角川歷彥.md "wikilink")提到《艦Colle》時表示，由於出資比率的關係，截至2013年9月，角川集團並未從中賺取利益；有多數企劃期望將角川Games的《艦Colle》改編成小說及漫畫等，對角川歷彥本人將來想嘗試的「重複運用一項IP（[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")）」在《艦Colle》逐漸成長這件事抱以期待\[104\]。截止至2014年3月末，據日本經濟新聞援引DMM.com的資料顯示，艦娘的銷售額已經達到了70億日圓，是遊戲開發費用的140倍\[105\]。
 
 ## 零售版
 
@@ -965,7 +965,7 @@ Vita以作為遊戲平台，其實在正式發表1年多前已經決定\[108\]�
 ### 電視動畫
 
 於KADOKAWA GAME STUDIO MEDIA BRIEFING 2013 AUTUMN中發表PS
-Vita版《艦Colle改》的同時間，該作亦一同發表動畫將進行動畫化的計劃\[109\]。並預定於2015年冬季後播放，所負責的聲優與遊戲版相同\[110\]\[111\]，並公告戰鬥畫面將大幅採用[3D動畫製作](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")。電視動畫自2015年1月7日起於[獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")、[日本電視網](https://zh.wikipedia.org/wiki/NNS "wikilink")、[TBS電視網](../Page/TBS電視台.md "wikilink")、[東京電視網](../Page/東京電視網.md "wikilink")、[全日本新聞網](../Page/全日本新聞網.md "wikilink")、[富士電視網底下多家電視台及](../Page/富士電視網.md "wikilink")[BS11頻道播放](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
+Vita版《艦Colle改》的同時間，該作亦一同發表動畫將進行動畫化的計劃\[109\]。並預定於2015年冬季後播放，所負責的聲優與遊戲版相同\[110\]\[111\]，並公告戰鬥畫面將大幅採用[3D動畫製作](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")。電視動畫自2015年1月7日起於[獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")、[日本電視網](https://zh.wikipedia.org/wiki/NNS "wikilink")、[TBS電視網](../Page/TBS電視台.md "wikilink")、[東京電視網](../Page/東京電視網.md "wikilink")、[全日本新聞網](../Page/全日本新聞網.md "wikilink")、[富士電視網](../Page/富士電視網.md "wikilink")底下多家電視台及[BS11頻道播放](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
 
 在動畫播出之後，因為劇情的多頭馬車等原因，使得此動畫不管在遊戲愛好者之中還是愛好者之外的觀眾給予的評價都不甚理想。
 
@@ -1868,10 +1868,10 @@ Alive](../Page/月刊Comic_Alive.md "wikilink")』2013年12月號開始連載。
 
 ### 日本社会
 
-根據[厚生勞動省的統計](../Page/厚生勞動省.md "wikilink")，申請「軍人履歷原表」的人在這幾年間越來越多，原本在2005年時有著898件，之後在2011年之後只剩下了403件，但是到了2013年卻增加到了639件，但多數的理由是為了「慰靈」，不同於以前多半為戰友會為紀錄歷史或供本人或是其親屬寫傳記之用。但是厚生勞動省的人員表示「不曉得為甚麼會增加」，但推測是因為《[永遠的0](../Page/永遠的0.md "wikilink")》的電影與小說以及本遊戲的興起，讓一些年輕人想知道自己祖父是否曾在舊日本海軍軍艦或是舊日本海軍武器工廠、造船廠任職過，甚至也有日本玩家會發布一些自己祖父在軍艦上或者是在造船、海軍武器[重工廠內等等的故事](https://zh.wikipedia.org/wiki/重工業 "wikilink")。\[117\]\[118\]
+根據[厚生勞動省](../Page/厚生勞動省.md "wikilink")的統計，申請「軍人履歷原表」的人在這幾年間越來越多，原本在2005年時有著898件，之後在2011年之後只剩下了403件，但是到了2013年卻增加到了639件，但多數的理由是為了「慰靈」，不同於以前多半為戰友會為紀錄歷史或供本人或是其親屬寫傳記之用。但是厚生勞動省的人員表示「不曉得為甚麼會增加」，但推測是因為《[永遠的0](../Page/永遠的0.md "wikilink")》的電影與小說以及本遊戲的興起，讓一些年輕人想知道自己祖父是否曾在舊日本海軍軍艦或是舊日本海軍武器工廠、造船廠任職過，甚至也有日本玩家會發布一些自己祖父在軍艦上或者是在造船、海軍武器[重工廠內等等的故事](https://zh.wikipedia.org/wiki/重工業 "wikilink")。\[117\]\[118\]
 
 執行遊戲時需要使用支援[Adobe
-Flash的作業系統](../Page/Adobe_Flash.md "wikilink")\[119\]，而[iOS系統與](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android系統](../Page/Android.md "wikilink")[平板電腦不支援Adobe](../Page/平板電腦.md "wikilink")
+Flash的作業系統](../Page/Adobe_Flash.md "wikilink")\[119\]，而[iOS系統與](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")系統[平板電腦](../Page/平板電腦.md "wikilink")不支援Adobe
 Flash或者支援有所局限，僅有[Windows系統則有支援](https://zh.wikipedia.org/wiki/Windows "wikilink")。據日本市場調查公司BCN的報告，前述理由導致本遊戲間接帶動了[Windows系統的平板電腦銷售](https://zh.wikipedia.org/wiki/Windows "wikilink")\[120\]。
 
 ### 批評與反駁
@@ -1884,7 +1884,7 @@ Flash或者支援有所局限，僅有[Windows系統則有支援](https://zh.wik
 
 由於艦隊Collection成功吸引了大量玩家，不少遊戲開發商因而對其借鑒、模仿、甚至抄襲、冒名，包括曾在中国大陆地區網路上引發艦隊colletion玩家集體抗議的《[舰娘世界](https://zh.wikipedia.org/wiki/舰娘世界 "wikilink")》\[124\]（曾名「舰娘国服」）、《炮妹》\[125\]、《[战舰少女](../Page/战舰少女.md "wikilink")》\[126\]、《[舰娘收藏](../Page/舰娘收藏.md "wikilink")》\[127\]、《[碧蓝航线](https://zh.wikipedia.org/wiki/碧蓝航线 "wikilink")》和《[深淵地平線](../Page/深淵地平線.md "wikilink")》等等，其中部分曾在網絡上引起廣泛爭議，甚至有的抄袭作品为了人气不惜一切代价抹黑《舰队Collection》的形象。
 
-另一部同質性極高的知名網頁遊戲《[刀劍亂舞](../Page/刀劍亂舞.md "wikilink")》是與艦隊Collection同由[DMM.com營運](../Page/DMM.com.md "wikilink")，但由不同團隊開發製作，該團隊製作人亦承認其遊戲系統的許多部份參考了艦隊Collection的系統\[128\]。
+另一部同質性極高的知名網頁遊戲《[刀劍亂舞](../Page/刀劍亂舞.md "wikilink")》是與艦隊Collection同由[DMM.com](../Page/DMM.com.md "wikilink")營運，但由不同團隊開發製作，該團隊製作人亦承認其遊戲系統的許多部份參考了艦隊Collection的系統\[128\]。
 
 ## 注釋
 
@@ -1978,7 +1978,7 @@ Flash或者支援有所局限，僅有[Windows系統則有支援](https://zh.wik
 38.
     參考標題No.181
 
-39. 與原為巡洋戰艦的[天城並不相同](https://zh.wikipedia.org/wiki/天城號航空母艦 "wikilink")（該艦仍未於作品中出現），本艦為[雲龍級航空母艦的第二艦](../Page/雲龍級航空母艦.md "wikilink")。
+39. 與原為巡洋戰艦的[天城並不相同](https://zh.wikipedia.org/wiki/天城號航空母艦 "wikilink")（該艦仍未於作品中出現），本艦為[雲龍級航空母艦](../Page/雲龍級航空母艦.md "wikilink")的第二艦。
 
 40.
 41.
@@ -2110,7 +2110,7 @@ Flash或者支援有所局限，僅有[Windows系統則有支援](https://zh.wik
 
 118.
 
-119. 2018年8月维护后游戏改为[HTML5系统](../Page/HTML5.md "wikilink")。
+119. 2018年8月维护后游戏改为[HTML5](../Page/HTML5.md "wikilink")系统。
 
 120.
 

@@ -1,10 +1,10 @@
 **歐盟LGBT權益**受到[歐盟](https://zh.wikipedia.org/wiki/歐盟 "wikilink")[基本條約和](../Page/歐洲聯盟基本條約.md "wikilink")[法律的保護](https://zh.wikipedia.org/wiki/歐盟法律 "wikilink")。同性戀在所有歐盟國家都是合法的，也禁止基於性傾向在就業方面的歧視。但是，對於LGBT權益更多的保護，例如[同性婚姻和](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[LGBT領養](https://zh.wikipedia.org/wiki/LGBT領養 "wikilink")，不同的歐盟國家有不同的法律。
 
-歐盟國家總體上對於同性戀的接受程度普遍很高，其中[西班牙](../Page/西班牙.md "wikilink")、[德國和](https://zh.wikipedia.org/wiki/德國 "wikilink")[捷克在](../Page/捷克.md "wikilink")[皮尤研究中心的一份全球調查中位居榜首](../Page/皮尤研究中心.md "wikilink")。\[1\]
+歐盟國家總體上對於同性戀的接受程度普遍很高，其中[西班牙](../Page/西班牙.md "wikilink")、[德國和](https://zh.wikipedia.org/wiki/德國 "wikilink")[捷克](../Page/捷克.md "wikilink")在[皮尤研究中心](../Page/皮尤研究中心.md "wikilink")的一份全球調查中位居榜首。\[1\]
 
 ## 條約保護
 
-[歐洲聯盟基本條約在第一部分第](../Page/歐洲聯盟基本條約.md "wikilink")10條和第二部分第19條中提供了打擊基於性取向進行歧視的條款。這些條款由1999年的《[阿姆斯特丹條約](https://zh.wikipedia.org/wiki/阿姆斯特丹條約 "wikilink")》被執行。\[2\]\[3\]
+[歐洲聯盟基本條約](../Page/歐洲聯盟基本條約.md "wikilink")在第一部分第10條和第二部分第19條中提供了打擊基於性取向進行歧視的條款。這些條款由1999年的《[阿姆斯特丹條約](https://zh.wikipedia.org/wiki/阿姆斯特丹條約 "wikilink")》被執行。\[2\]\[3\]
 
 此外，《[歐洲聯盟基本權利憲章](../Page/歐洲聯盟基本權利憲章.md "wikilink")》的第21條聲明「任何基於任何原因的歧視……例如性取向，應當被禁止。」該憲章於2000年被通過，並於2009年執行。\[4\]\[5\]\[6\]
 
@@ -34,7 +34,7 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 
 2009年，歐盟委員會採取措施來緩和[立陶宛法律中包括的反同措辭](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")，並幫助其他受到禁令威脅的國家舉辦同性戀[驕傲遊行](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")。\[15\]
 
-2016年，[歐盟理事會達成共識](https://zh.wikipedia.org/wiki/歐盟理事會 "wikilink")，要求採取行動促進[LGBT的平等地位](../Page/LGBT.md "wikilink")，以及打擊基於[性傾向和](https://zh.wikipedia.org/wiki/性傾向 "wikilink")[性別認同的歧視行為](../Page/性別認同.md "wikilink")。該決議附帶「尊重成員國的[國家認同](https://zh.wikipedia.org/wiki/國家認同 "wikilink")、憲法傳統和[家庭法權限](../Page/家庭法.md "wikilink")」的條款\[16\]\[17\]。
+2016年，[歐盟理事會達成共識](https://zh.wikipedia.org/wiki/歐盟理事會 "wikilink")，要求採取行動促進[LGBT](../Page/LGBT.md "wikilink")的平等地位，以及打擊基於[性傾向和](https://zh.wikipedia.org/wiki/性傾向 "wikilink")[性別認同](../Page/性別認同.md "wikilink")的歧視行為。該決議附帶「尊重成員國的[國家認同](https://zh.wikipedia.org/wiki/國家認同 "wikilink")、憲法傳統和[家庭法](../Page/家庭法.md "wikilink")權限」的條款\[16\]\[17\]。
 
 ## 外交關係
 
@@ -48,7 +48,7 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 
 民事結合在另外七個國家和英國北愛爾蘭地區合法化：[斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞同性婚姻 "wikilink")、[捷克共和國](https://zh.wikipedia.org/wiki/捷克共和國同性結合 "wikilink")、[愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞同性結合 "wikilink")、[匈牙利](https://zh.wikipedia.org/wiki/匈牙利同性結合 "wikilink")、[賽普勒斯](https://zh.wikipedia.org/wiki/賽普勒斯民事結合 "wikilink")、[希臘以及](https://zh.wikipedia.org/wiki/希臘同性結合 "wikilink")[義大利](https://zh.wikipedia.org/wiki/義大利同性結合 "wikilink")。雖然一些歐盟國家正在考慮合法化同性婚姻，但是有7個國家（保加利亞、克羅埃西亞、匈牙利、拉脫維亞、立陶宛、波蘭和斯洛伐克）已經在憲法上將婚姻定義為一男一女的結合。
 
-另外[羅馬尼亞是目前唯一一個尚未對此議題表態或是立法的歐盟國家](../Page/羅馬尼亞.md "wikilink")。
+另外[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")是目前唯一一個尚未對此議題表態或是立法的歐盟國家。
 
 雖然歐盟立法旨在提高個人的自由遷移，但是沒有條款要求相互承認同性伴侶關係。歐洲議會已經批准了一個號召相互承認的報告。\[22\]\[23\]，而[英國綠黨在](https://zh.wikipedia.org/wiki/英格蘭和威爾士綠黨 "wikilink")2009年發起全歐盟範圍的同性婚姻運動\[24\]。
 
@@ -345,7 +345,7 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 
 ## 北塞浦路斯
 
-[北塞浦路斯土耳其共和國並不受到歐盟的承認](https://zh.wikipedia.org/wiki/北塞浦路斯土耳其共和國 "wikilink")。除了[土耳其外](../Page/土耳其.md "wikilink")，歐盟等其他所有聯合國會員國都認為北塞是[塞浦路斯共和國的一部分](https://zh.wikipedia.org/wiki/塞浦路斯共和國 "wikilink")（因此，也屬於歐盟），北塞浦路斯的法律與以。但是，由於[塞浦路斯內戰後北方領土不受塞浦路斯共和國的控制](https://zh.wikipedia.org/wiki/塞浦路斯內戰 "wikilink")，歐盟法律在這個爭端解決以前，不在北塞執行。
+[北塞浦路斯土耳其共和國並不受到歐盟的承認](https://zh.wikipedia.org/wiki/北塞浦路斯土耳其共和國 "wikilink")。除了[土耳其](../Page/土耳其.md "wikilink")外，歐盟等其他所有聯合國會員國都認為北塞是[塞浦路斯共和國的一部分](https://zh.wikipedia.org/wiki/塞浦路斯共和國 "wikilink")（因此，也屬於歐盟），北塞浦路斯的法律與以。但是，由於[塞浦路斯內戰後北方領土不受塞浦路斯共和國的控制](https://zh.wikipedia.org/wiki/塞浦路斯內戰 "wikilink")，歐盟法律在這個爭端解決以前，不在北塞執行。
 
 北塞的LGBT法律與歐盟存在衝突，因此2014年2月7日起通過容許同性性行為非刑事化，並通過反歧視立法。
 

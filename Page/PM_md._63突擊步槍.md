@@ -1,4 +1,4 @@
-**1963年型7.62毫米[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")\[1\]**（）是一款由[羅馬尼亞仿制的](../Page/羅馬尼亞.md "wikilink")[AKM](https://zh.wikipedia.org/wiki/AKM "wikilink")。曾為[羅馬尼亞軍隊的制式步槍](https://zh.wikipedia.org/wiki/羅馬尼亞軍隊 "wikilink")，亦有出口到多個國家。其出口型一般都會被簡稱為：**AIM**及**AIMS**。
+**1963年型7.62毫米[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")\[1\]**（）是一款由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")仿制的[AKM](https://zh.wikipedia.org/wiki/AKM "wikilink")。曾為[羅馬尼亞軍隊的制式步槍](https://zh.wikipedia.org/wiki/羅馬尼亞軍隊 "wikilink")，亦有出口到多個國家。其出口型一般都會被簡稱為：**AIM**及**AIMS**。
 
 其中md. 63（AIM）是仿制自[AKM](../Page/AKM突擊步槍.md "wikilink")，而md
 .65（AIMS），則是仿制自AKMS。
@@ -6,16 +6,16 @@
 ## 歷史
 
 在1960年代初年，[羅馬尼亞軍隊主要是裝備](https://zh.wikipedia.org/wiki/羅馬尼亞軍隊 "wikilink")[PPSh-41衝鋒槍](https://zh.wikipedia.org/wiki/PPSh-41衝鋒槍 "wikilink")、[Orita
-M1941衝鋒槍和進口自](https://zh.wikipedia.org/wiki/Orita_M1941衝鋒槍 "wikilink")[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[AK-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")。後來，蘇聯下令[華沙條約各國必需研製一款](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")7.62毫米口徑的突擊步槍，並可選擇具AK步槍的風格。不久，[羅馬尼亞的國營兵工廠研製了一款](../Page/羅馬尼亞.md "wikilink")[護木上具](https://zh.wikipedia.org/wiki/護木 "wikilink")[前握把的](../Page/輔助握把.md "wikilink")[AKM仿製型](../Page/AKM突擊步槍.md "wikilink")，該槍被命名為**1963年型衝鋒槍**（Pistol
+M1941衝鋒槍和進口自](https://zh.wikipedia.org/wiki/Orita_M1941衝鋒槍 "wikilink")[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[AK-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")。後來，蘇聯下令[華沙條約各國必需研製一款](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")7.62毫米口徑的突擊步槍，並可選擇具AK步槍的風格。不久，[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")的國營兵工廠研製了一款[護木上具](https://zh.wikipedia.org/wiki/護木 "wikilink")[前握把的](../Page/輔助握把.md "wikilink")[AKM仿製型](../Page/AKM突擊步槍.md "wikilink")，該槍被命名為**1963年型衝鋒槍**（Pistol
 Mitralieră model
-1963），而具摺疊式[槍托的型號則被稱為](../Page/槍托.md "wikilink")**1965年型衝鋒槍**（Pistol
+1963），而具摺疊式[槍托](../Page/槍托.md "wikilink")的型號則被稱為**1965年型衝鋒槍**（Pistol
 Mitralieră model 1965）。
 
 ## 設計
 
 md.
 63的特色是其護木上有​​一個前翹的小型[前握把](../Page/輔助握把.md "wikilink")，可方便射手用以控制槍支並減少[後座力](../Page/後座力.md "wikilink")。而md.
-65由於採用下翻式折疊[槍托](../Page/槍托.md "wikilink")，因此前握把改為向後翹。後來羅馬尼亞又生產了一種類似於[東德MPi](../Page/東德.md "wikilink")-KMS（東德彷製的AKMS）的右側折疊式槍托。md.
+65由於採用下翻式折疊[槍托](../Page/槍托.md "wikilink")，因此前握把改為向後翹。後來羅馬尼亞又生產了一種類似於[東德](../Page/東德.md "wikilink")MPi-KMS（東德彷製的AKMS）的右側折疊式槍托。md.
 63還有一種縮短型號，名為md. 80，該型號取消了護木下方的前握把，不過其下護木仍能跟原槍通用。另外此槍的衍生型還包括稱為md
 .64的[RPK仿製型](../Page/RPK輕機槍.md "wikilink")。
 
@@ -29,14 +29,14 @@ Rifle）的[英語縮寫](https://zh.wikipedia.org/wiki/英語 "wikilink")。其
 
 ### PM md. 80
 
-md. 80也被稱為「AIMR」，是一款短管的AK步槍，此槍通常使用20發[彈匣供彈](../Page/彈匣.md "wikilink")。
+md. 80也被稱為「AIMR」，是一款短管的AK步槍，此槍通常使用20發[彈匣](../Page/彈匣.md "wikilink")供彈。
 
 ### PM md. 90
 
 md. 90是[PA md.
 86突擊步槍的](../Page/PA_md._86突擊步槍.md "wikilink")7.62毫米版本，其內部結構與md.
 63完全相同，但它採用了來自md.
-86的鋼絲折疊式槍托，並具備傾斜式的[補償裝置](../Page/砲口制動器.md "wikilink")。另外此槍還有一種專為載具人員和[特種部隊而特別設計的短管](../Page/特種部隊.md "wikilink")[卡賓槍型](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（類似[AKMSU](../Page/AKMSU卡賓槍.md "wikilink")）。
+86的鋼絲折疊式槍托，並具備傾斜式的[補償裝置](../Page/砲口制動器.md "wikilink")。另外此槍還有一種專為載具人員和[特種部隊](../Page/特種部隊.md "wikilink")而特別設計的短管[卡賓槍型](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（類似[AKMSU](../Page/AKMSU卡賓槍.md "wikilink")）。
 
 ### 7.62毫米RPK
 
@@ -125,7 +125,7 @@ Romanian short AK rifle.jpg|md. 90卡賓槍 |摩洛哥軍隊
 [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink")
 [Category:羅馬尼亞槍械](https://zh.wikipedia.org/wiki/Category:羅馬尼亞槍械 "wikilink")
 
-1.  “Pistolul-mitralieră”在[羅馬尼亞語當中為手提式機槍的意思](../Page/羅馬尼亞語.md "wikilink")，相當於[俄語的](https://zh.wikipedia.org/wiki/俄語 "wikilink")“Пистолет
+1.  “Pistolul-mitralieră”在[羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")當中為手提式機槍的意思，相當於[俄語的](https://zh.wikipedia.org/wiki/俄語 "wikilink")“Пистолет
     пулемёт”，兩者都是對衝鋒槍的稱號。跟不少國家一樣，當時羅馬尼亞人仍没有針對[突擊步槍的相應譯名](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，故把AK也視作[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")。其他典型的例子還包括[中華人民共和國對](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")“[56式衝鋒槍](../Page/56式自動步槍.md "wikilink")”的命名
 2.  <http://www.bdmilitary.com/index.php?option=com_content&view=article&id=204&Itemid=95>
 3.  [CSAT (SCND) has covered up Romania's scam involving weapons trade -

@@ -1,5 +1,5 @@
 **KARA 3rd JAPAN TOUR 2014
-KARASIA**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Kara的第三次](../Page/Kara.md "wikilink")[日本全國巡迴演唱會](../Page/日本.md "wikilink")。巡迴演唱會於2014年10月24日開始，地點為福冈サンパレス；於11月19日結束，地點為横浜アリーナ。
+KARASIA**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Kara](../Page/Kara.md "wikilink")的第三次[日本](../Page/日本.md "wikilink")全國巡迴演唱會。巡迴演唱會於2014年10月24日開始，地點為福冈サンパレス；於11月19日結束，地點為横浜アリーナ。
 
 ## 演出日期
 

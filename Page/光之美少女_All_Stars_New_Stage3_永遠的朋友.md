@@ -1,5 +1,5 @@
 《**電影 光之美少女 All Stars New Stage3
-永遠的朋友**》於2014年3月15日在[日本上映](../Page/日本.md "wikilink")\[1\]。此作品是第六次集結[光之美少女系列的結合作品](../Page/光之美少女系列.md "wikilink")。
+永遠的朋友**》於2014年3月15日在[日本](../Page/日本.md "wikilink")上映\[1\]。此作品是第六次集結[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品。
 
 ## 故事簡介
 
@@ -158,7 +158,7 @@
 
 :;光之美少女 雙重漩渦 Splash（Precure Twin Stream Splash）
 
-### [光之美少女／光之美少女Max Heart](../Page/光之美少女.md "wikilink")
+### [光之美少女 Heart](../Page/光之美少女.md "wikilink")／光之美少女Max
 
   -
 

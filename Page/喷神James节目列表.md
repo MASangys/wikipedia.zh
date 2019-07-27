@@ -1,5 +1,5 @@
 **《[The Angry Video Game
-Nerd](https://zh.wikipedia.org/wiki/The_Angry_Video_Game_Nerd "wikilink")》**（中文：愤怒电玩宅；縮寫：**AVGN**）是由[詹姆斯·罗弗創立的一部美國](https://zh.wikipedia.org/wiki/詹姆斯·罗弗 "wikilink")[喜劇式](../Page/喜劇.md "wikilink")[復古游戲評論網路節目](https://zh.wikipedia.org/wiki/復古游戲 "wikilink")。該節目圍繞著低質量視頻遊戲進行辛辣[獨角戲的評論](https://zh.wikipedia.org/wiki/獨角戲 "wikilink")。從第二季開始到第六季爲止，新的一集會[GameTrailers網站上先行上映](../Page/GameTrailers.md "wikilink")。從第七季開始則轉爲在官網Cinemassacre上先行上映，而所有先行上映的劇集會隔一段時間之後在罗弗自己的[YouTube頻道上重新投稿](../Page/YouTube.md "wikilink")。劇集通常安排在每個月的第一個或第二個星期三發布。最初罗弗早期的工作日程允許每月投稿兩集，但由於其他工作承諾，罗弗便將其改為目前的安排。\[1\]
+Nerd](https://zh.wikipedia.org/wiki/The_Angry_Video_Game_Nerd "wikilink")》**（中文：愤怒电玩宅；縮寫：**AVGN**）是由[詹姆斯·罗弗創立的一部美國](https://zh.wikipedia.org/wiki/詹姆斯·罗弗 "wikilink")[喜劇](../Page/喜劇.md "wikilink")式[復古游戲評論網路節目](https://zh.wikipedia.org/wiki/復古游戲 "wikilink")。該節目圍繞著低質量視頻遊戲進行辛辣[獨角戲的評論](https://zh.wikipedia.org/wiki/獨角戲 "wikilink")。從第二季開始到第六季爲止，新的一集會[GameTrailers](../Page/GameTrailers.md "wikilink")網站上先行上映。從第七季開始則轉爲在官網Cinemassacre上先行上映，而所有先行上映的劇集會隔一段時間之後在罗弗自己的[YouTube](../Page/YouTube.md "wikilink")頻道上重新投稿。劇集通常安排在每個月的第一個或第二個星期三發布。最初罗弗早期的工作日程允許每月投稿兩集，但由於其他工作承諾，罗弗便將其改為目前的安排。\[1\]
 
 三集愤怒电玩宅劇集已從YouTube頻道上下架，但依舊可以在官網上觀看。其中“Atari
 Porn”一集因根據YouTube社區準則被標記為不當內容而下架；另外兩集是“Teenage

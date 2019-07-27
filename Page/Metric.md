@@ -1,5 +1,5 @@
 **Metric**
-是一支[加拿大](../Page/加拿大.md "wikilink")[新浪潮乐队](../Page/新浪潮.md "wikilink")，组建于1998年\[1\]。初期只有（[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他](../Page/吉他.md "wikilink")、[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")）和（吉他）这对双人组合\[2\]，那时他们的組合名字叫「主流」（Mainstream）\[3\]。在发行了《主流迷你專輯》（Mainstream
+是一支[加拿大](../Page/加拿大.md "wikilink")[新浪潮](../Page/新浪潮.md "wikilink")乐队，组建于1998年\[1\]。初期只有（[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他](../Page/吉他.md "wikilink")、[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")）和（吉他）这对双人组合\[2\]，那时他们的組合名字叫「主流」（Mainstream）\[3\]。在发行了《主流迷你專輯》（Mainstream
 EP）后，他们把乐队名字改成现在的Metric。
 
 2001年約書亞·溫史泰德（Joshua

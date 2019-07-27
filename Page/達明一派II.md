@@ -1,4 +1,4 @@
-《達明一派II》是[香港樂隊](../Page/香港.md "wikilink")[達明一派首張大碟](../Page/達明一派.md "wikilink")，與1986年9月正式推出。
+《達明一派II》是[香港](../Page/香港.md "wikilink")樂隊[達明一派](../Page/達明一派.md "wikilink")首張大碟，與1986年9月正式推出。
 
 唱片收录主打歌《迷惘夜車》、《繼續追尋》及电影《戀愛季節》主题曲《Kiss me
 Goodbye》，當中有两首由前歌手方心美主唱，[劉以達作曲的插曲](https://zh.wikipedia.org/wiki/劉以達 "wikilink")《夢竟成真》和《我是能源》。

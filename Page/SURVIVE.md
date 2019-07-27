@@ -1,4 +1,4 @@
-《**SURVIVE**》是日本摇滚组合[B'z的的第九张录音室专辑](../Page/B'z.md "wikilink")。1997年11月19日由[Rooms
+《**SURVIVE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第九张录音室专辑。1997年11月19日由[Rooms
 RECORDS发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約172.3萬張，為日本最暢銷專輯第104名。

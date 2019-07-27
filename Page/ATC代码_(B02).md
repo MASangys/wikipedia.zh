@@ -26,7 +26,7 @@
     B02AB04
     [卡莫司他](https://zh.wikipedia.org/wiki/卡莫司他 "wikilink")（Camostat）
 
-## B02B [维生素K和其它止血药](../Page/维生素K.md "wikilink")（Vitamin K and other hemostatics）
+## B02B [维生素K](../Page/维生素K.md "wikilink")和其它止血药（Vitamin K and other hemostatics）
 
 ### B02BA 维生素K（Vitamin K）
 

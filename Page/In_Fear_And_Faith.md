@@ -1,5 +1,5 @@
 **In Fear and
-Faith**是一個來自美國加州聖地牙哥的搖滾樂團，成軍於2006年，目前與[Rise唱片簽約](../Page/Rise唱片.md "wikilink")，發行了兩張專輯與兩張EP。樂團與Rise簽約約莫一年，就發行了《Your
+Faith**是一個來自美國加州聖地牙哥的搖滾樂團，成軍於2006年，目前與[Rise唱片](../Page/Rise唱片.md "wikilink")簽約，發行了兩張專輯與兩張EP。樂團與Rise簽約約莫一年，就發行了《Your
 World on
 Fire》，獲得[告示牌200第](https://zh.wikipedia.org/wiki/告示牌 "wikilink")193名。第二張專輯《Imperial》在隔年發行，銷售成績超過上一張，單單在美國的成績就讓他們獲得Top
 Heatseekers榜第四名。

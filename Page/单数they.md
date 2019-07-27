@@ -238,7 +238,7 @@ Adendyck对《纽约时报》写了一个回复：
 
 #### 用于特定的知名人士
 
-在一些情况，可能知道个体但却用they来指代，因为性别未知或者因为他偏爱使用they，例如社会媒体应用，可能允许账号持有者来选择非常规性别例如[性别酷儿或](https://zh.wikipedia.org/wiki/性别酷儿 "wikilink")[双性别和一个代词](../Page/双性别.md "wikilink")，包括他们可能愿意使用的they/them。
+在一些情况，可能知道个体但却用they来指代，因为性别未知或者因为他偏爱使用they，例如社会媒体应用，可能允许账号持有者来选择非常规性别例如[性别酷儿或](https://zh.wikipedia.org/wiki/性别酷儿 "wikilink")[双性别](../Page/双性别.md "wikilink")和一个代词，包括他们可能愿意使用的they/them。
 
 ### 当代用法
 

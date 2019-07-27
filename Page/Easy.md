@@ -1,4 +1,4 @@
-《**Easy**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[RubberBand的音樂專輯](../Page/RubberBand.md "wikilink")，亦是他們離開[金牌大風前最後一張創作專輯](../Page/金牌大風.md "wikilink")，在2012年8月8日發行。
+《**Easy**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[RubberBand](../Page/RubberBand.md "wikilink")的音樂專輯，亦是他們離開[金牌大風](../Page/金牌大風.md "wikilink")前最後一張創作專輯，在2012年8月8日發行。
 
 ## 曲目
 

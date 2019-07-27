@@ -1,5 +1,5 @@
 **MY-KIDS
-TV**（****）是[群英社國際股份有限公司經營的以兒童為對象的](https://zh.wikipedia.org/wiki/群英社國際股份有限公司 "wikilink")[高畫質電視頻道](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")，目前僅在[中華電信MOD播出](../Page/中華電信MOD.md "wikilink")。經常代理最新的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，與[日本同步播送](../Page/日本.md "wikilink")。
+TV**（****）是[群英社國際股份有限公司經營的以兒童為對象的](https://zh.wikipedia.org/wiki/群英社國際股份有限公司 "wikilink")[高畫質電視頻道](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")，目前僅在[中華電信MOD](../Page/中華電信MOD.md "wikilink")播出。經常代理最新的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，與[日本](../Page/日本.md "wikilink")同步播送。
 
 MY KIDS
 TV為[台灣第一個採用](https://zh.wikipedia.org/wiki/台灣 "wikilink")「[HD無帶化](https://zh.wikipedia.org/wiki/HDTV "wikilink")」運作方式的[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，所有[動畫以數位檔案方式透過](https://zh.wikipedia.org/wiki/動畫 "wikilink")[光纖網路傳送而不使用](https://zh.wikipedia.org/wiki/光纖網路 "wikilink")[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，減少人力成本、物流成本與時間\[1\]。

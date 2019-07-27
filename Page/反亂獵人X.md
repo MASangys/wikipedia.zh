@@ -1,5 +1,5 @@
 [Mmmhx_vile.jpg](https://zh.wikipedia.org/wiki/File:Mmmhx_vile.jpg "fig:Mmmhx_vile.jpg")
-是[卡普空於](../Page/卡普空.md "wikilink")2005年12月15日發售的[PlayStation
+是[卡普空](../Page/卡普空.md "wikilink")於2005年12月15日發售的[PlayStation
 Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，《[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")》的重製版作品。遊戲的[圖形改為](https://zh.wikipedia.org/wiki/圖形 "wikilink")[3D並新增動畫影片](https://zh.wikipedia.org/wiki/三維計算機圖形 "wikilink")。\[1\]
 
 ## 登場人物
@@ -7,7 +7,7 @@ Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https:
 ### 主要角色
 
   -
-    本作主角，有著藍色裝甲的男性機器人。製作者是[洛克人元祖系列的萊特博士](../Page/洛克人元祖系列.md "wikilink")。是故事中第一個具有能和人類一樣自由思考和情感功能的機器人，被評價為「具有無限的可能性及危險性」。為了確保安全性，被萊特博士封在機器膠囊裡檢查。後來被凱恩博士發現，並加入了負責取締犯罪的思考型機器人的警察組織「非正規獵人」。隸屬17號部隊，等級B級。
+    本作主角，有著藍色裝甲的男性機器人。製作者是[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")的萊特博士。是故事中第一個具有能和人類一樣自由思考和情感功能的機器人，被評價為「具有無限的可能性及危險性」。為了確保安全性，被萊特博士封在機器膠囊裡檢查。後來被凱恩博士發現，並加入了負責取締犯罪的思考型機器人的警察組織「非正規獵人」。隸屬17號部隊，等級B級。
     個性善良，愛好和平且有正義感，因為個性溫柔被其他獵人視為軟弱。在西格瑪叛亂後，試圖阻止其引發的大規模思考型機器人叛亂。沒有被凱恩博士發現前的記憶，直到初次和西格瑪對抗才回想起來。
     能夠在牆壁上[蹬跳移動](https://zh.wikipedia.org/wiki/三角跳 "wikilink")，武器是將手部轉換成砲狀並發射能量彈，打倒頭目後能使用頭目的武器。取得萊特博士遺留的裝甲資料後，身體的外表會發生變化，並提升其性能。在OVA『The
     day of
@@ -58,7 +58,7 @@ Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https:
 <!-- end list -->
 
   -
-    原第13極地部隊的隊員，[企鵝型機器人](../Page/企鵝.md "wikilink")。武器是從嘴巴發射冰塊，能引發區域暴風雪。
+    原第13極地部隊的隊員，[企鵝](../Page/企鵝.md "wikilink")型機器人。武器是從嘴巴發射冰塊，能引發區域暴風雪。
 
 <!-- end list -->
 
@@ -68,17 +68,17 @@ Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https:
 <!-- end list -->
 
   -
-    原第17部隊的隊員，[鍬形蟲型機器人](../Page/鍬形蟲.md "wikilink")。武器是頭上的剪刀形飛鏢。
+    原第17部隊的隊員，[鍬形蟲](../Page/鍬形蟲.md "wikilink")型機器人。武器是頭上的剪刀形飛鏢。
 
 <!-- end list -->
 
   -
-    原第9部隊的隊員，[變色龍型機器人](../Page/變色龍.md "wikilink")。外表能擬態成周遭環境顏色以隱身。
+    原第9部隊的隊員，[變色龍](../Page/變色龍.md "wikilink")型機器人。外表能擬態成周遭環境顏色以隱身。
 
 <!-- end list -->
 
   -
-    原第17部隊隊員，[山魈型機器人](../Page/山魈.md "wikilink")，武器是沿著牆壁及地板移動的球形閃電。
+    原第17部隊隊員，[山魈](../Page/山魈.md "wikilink")型機器人，武器是沿著牆壁及地板移動的球形閃電。
 
 <!-- end list -->
 

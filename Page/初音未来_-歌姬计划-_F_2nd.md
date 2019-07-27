@@ -1,11 +1,11 @@
-《**初音未来 -歌姬计划- F 2nd**》（，）是一款由[世嘉與](../Page/世嘉.md "wikilink")[Crypton
+《**初音未来 -歌姬计划- F 2nd**》（，）是一款由[世嘉](../Page/世嘉.md "wikilink")與[Crypton
 Future
 Media為](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")[PlayStation
 Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation
 3平臺開發的](../Page/PlayStation_3.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")。這是[初音未来
 -歌姬计划-系列的第六款遊戲](../Page/初音未来_-歌姬计划-.md "wikilink")。於2013年12月13日宣布《初音未来
 -歌姬计划- f 2nd》於2014年3月6日發佈於PlayStation 3及PlayStation
-Vita平臺。\[1\]\[2\]預計共四十首PV登場之外，還將從前系列作服裝模組中精選備受玩家好評的高人氣服裝模組，並於2014年[台北國際電玩展發布官方繁體中文版的消息](../Page/台北國際電玩展.md "wikilink")。\[3\]
+Vita平臺。\[1\]\[2\]預計共四十首PV登場之外，還將從前系列作服裝模組中精選備受玩家好評的高人氣服裝模組，並於2014年[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")發布官方繁體中文版的消息。\[3\]
 且已於2014年12月11日於台灣、香港及東南亞等地發售。
 
 ## 新增要素\[4\]

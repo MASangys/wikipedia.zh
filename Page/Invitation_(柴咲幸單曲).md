@@ -3,7 +3,7 @@
 ## 概要
 
   - 與前作《[影](../Page/影_\(柴咲幸單曲\).md "wikilink")》相隔約6個月發行。
-  - 本作與前作一樣搭配[TBS電視台的連續劇](../Page/TBS電視台.md "wikilink")，為《[太陽之歌](../Page/太陽之歌.md "wikilink")》主題曲。
+  - 本作與前作一樣搭配[TBS電視台](../Page/TBS電視台.md "wikilink")的連續劇，為《[太陽之歌](../Page/太陽之歌.md "wikilink")》主題曲。
   - 2009年[美吉田月翻唱本作](https://zh.wikipedia.org/wiki/美吉田月 "wikilink")，收錄在其翻唱專輯《Ska
     Flavor\#2》中。
 
@@ -19,7 +19,7 @@
         Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")
         編曲：[市川淳](https://zh.wikipedia.org/wiki/市川淳 "wikilink")
     <!-- end list -->
-      - [TBS電視台連續劇](../Page/TBS電視台.md "wikilink")《[太陽之歌](../Page/太陽之歌.md "wikilink")》主題曲
+      - [TBS電視台](../Page/TBS電視台.md "wikilink")連續劇《[太陽之歌](../Page/太陽之歌.md "wikilink")》主題曲
 2.  one's heart
       -
         作詞：柴咲幸 作曲：[藤谷一郎](https://zh.wikipedia.org/wiki/藤谷一郎 "wikilink")

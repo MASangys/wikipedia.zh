@@ -1,6 +1,6 @@
 [AT_Online_Gameplay.png](https://zh.wikipedia.org/wiki/File:AT_Online_Gameplay.png "fig:AT_Online_Gameplay.png")
 
-是一款[经营模拟游戏](https://zh.wikipedia.org/wiki/经营模拟游戏 "wikilink")，適用於[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad及任何](https://zh.wikipedia.org/wiki/iPad "wikilink")[Android裝置](../Page/Android.md "wikilink")，本游戏可以让玩家建立自己的航空公司。游戏以回合制的方式進行，每回合兩個小時。透過本遊戲可以與同一个服务器世界各地的玩家進行互動，在詳細的統計數據支援下，建立及管理全球的[航班](https://zh.wikipedia.org/wiki/飛機 "wikilink")，包括客運及貨運，甚至是[機場以及附屬營利設施](../Page/機場.md "wikilink")。遊戲需要以[WiFi或行動數據連接](https://zh.wikipedia.org/wiki/WiFi "wikilink")[網際網路進行](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
+是一款[经营模拟游戏](https://zh.wikipedia.org/wiki/经营模拟游戏 "wikilink")，適用於[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad及任何](https://zh.wikipedia.org/wiki/iPad "wikilink")[Android](../Page/Android.md "wikilink")裝置，本游戏可以让玩家建立自己的航空公司。游戏以回合制的方式進行，每回合兩個小時。透過本遊戲可以與同一个服务器世界各地的玩家進行互動，在詳細的統計數據支援下，建立及管理全球的[航班](https://zh.wikipedia.org/wiki/飛機 "wikilink")，包括客運及貨運，甚至是[機場](../Page/機場.md "wikilink")以及附屬營利設施。遊戲需要以[WiFi或行動數據連接](https://zh.wikipedia.org/wiki/WiFi "wikilink")[網際網路進行](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
 
 遊戲時間設定為公元1960年至2020年，公元1969年12月前真實時間每一小時為遊戲中的一個月，公元1970年1月後真實時間每兩小時相等於遊戲內的一個月（即一個回合）。
 

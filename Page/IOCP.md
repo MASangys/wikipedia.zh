@@ -1,7 +1,7 @@
 **输入输出完成端口**（Input/Output Completion Port，IOCP）,
 是支持多个同时发生的异步I/O操作的应用程序编程接口，在[Windows
 NT的](../Page/Windows_NT.md "wikilink")3.5版本以後\[1\]，或[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")
-5版以後\[2\]或[Solaris第十版以後](../Page/Solaris.md "wikilink")，開始支持。
+5版以後\[2\]或[Solaris](../Page/Solaris.md "wikilink")第十版以後，開始支持。
 
 IOCP特别适合C/S模式网络服务器端模型。因为，让每一个socket有一个线程负责同步（阻塞）数据处理，one-thread-per-client的缺点是：一是如果连入的客户多了，就需要同样多的线程；二是不同的socket的数据处理都要线程切换的代价。
 

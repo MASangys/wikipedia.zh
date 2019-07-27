@@ -1,9 +1,9 @@
 **機動戰士GUNDAM外傳
-殖民地墜落之地**（）是[Bandai于](https://zh.wikipedia.org/wiki/Bandai "wikilink")1999年8月26日在[Dreamcast上發行的](../Page/Dreamcast.md "wikilink")3D[射擊遊戲作品](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")。
+殖民地墜落之地**（）是[Bandai于](https://zh.wikipedia.org/wiki/Bandai "wikilink")1999年8月26日在[Dreamcast](../Page/Dreamcast.md "wikilink")上發行的3D[射擊遊戲作品](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")。
 
 ## 故事與世界觀
 
-宇宙世纪0079。吉恩公国与地球联邦之间的「一年战争」爆发，战争前期吉恩公国使用质量弹「殖民卫星」坠落地球。其结果，[澳洲大陆](https://zh.wikipedia.org/wiki/澳洲大陸 "wikilink")1/3的土地遭到毁灭性打击，悉尼从地球上消失。开战后的0079年11月，这片大陆上联邦军开始对吉恩军进行大规模反攻作战。各部队的活跃，数次拯救了联邦的危机，这是该大陆上联邦军其中一支特殊部队的故事……
+宇宙世纪0079。吉恩公国与地球联邦之间的「一年战争」爆发，战争前期吉恩公国使用质量弹「殖民卫星」坠落地球。其结果，[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")1/3的土地遭到毁灭性打击，悉尼从地球上消失。开战后的0079年11月，这片大陆上联邦军开始对吉恩军进行大规模反攻作战。各部队的活跃，数次拯救了联邦的危机，这是该土地上联邦军其中一支特別部队的故事……
 
 ## 登場人物
 

@@ -1,14 +1,14 @@
 [Steyr_HS_.50-right_side-other_scope.jpg](https://zh.wikipedia.org/wiki/File:Steyr_HS_.50-right_side-other_scope.jpg "fig:Steyr_HS_.50-right_side-other_scope.jpg")
 **斯泰爾HS .50**（Steyr HS.
 50）是由[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")公司（Steyr
-Mannlicher）研製的一種[手動槍機式](../Page/手動槍機.md "wikilink")[反器材](../Page/反器材步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
+Mannlicher）研製的一種[手動槍機](../Page/手動槍機.md "wikilink")式[反器材](../Page/反器材步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
 
 ## 設計特徵
 
 斯泰爾HS
-.50為一款單發式[手動步槍](https://zh.wikipedia.org/wiki/手動步槍 "wikilink")，這說明了它沒有[彈匣](../Page/彈匣.md "wikilink")，裝填時射手需把[子彈裝入拋殼口](../Page/子彈.md "wikilink")，再透過槍機把子彈推進[膛室內](../Page/膛室.md "wikilink")。此槍具有相當優異的[精確度](https://zh.wikipedia.org/wiki/精確度 "wikilink")，有效射程高達1,500米。它具有一對可調式[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，高效能的[槍口制退器能夠有效的減低](../Page/砲口制動器.md "wikilink")[後座力](../Page/後座力.md "wikilink")，從而增加射擊時的舒適感。而[機匣上的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[皮卡汀尼導軌則能夠讓用戶安裝各式各樣的瞄準鏡](../Page/皮卡汀尼導軌.md "wikilink")。
+.50為一款單發式[手動步槍](https://zh.wikipedia.org/wiki/手動步槍 "wikilink")，這說明了它沒有[彈匣](../Page/彈匣.md "wikilink")，裝填時射手需把[子彈](../Page/子彈.md "wikilink")裝入拋殼口，再透過槍機把子彈推進[膛室](../Page/膛室.md "wikilink")內。此槍具有相當優異的[精確度](https://zh.wikipedia.org/wiki/精確度 "wikilink")，有效射程高達1,500米。它具有一對可調式[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，高效能的[槍口制退器能夠有效的減低](../Page/砲口制動器.md "wikilink")[後座力](../Page/後座力.md "wikilink")，從而增加射擊時的舒適感。而[機匣上的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")則能夠讓用戶安裝各式各樣的瞄準鏡。
 
-後來根據用戶的需求，一款以[彈匣供彈的改型亦隨即推出](../Page/彈匣.md "wikilink")。該改型以5發容量的彈匣供彈，彈匣裝在槍的左邊，這種設計類似於[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[NTW-20](../Page/NTW-20.md "wikilink")。
+後來根據用戶的需求，一款以[彈匣](../Page/彈匣.md "wikilink")供彈的改型亦隨即推出。該改型以5發容量的彈匣供彈，彈匣裝在槍的左邊，這種設計類似於[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[NTW-20](../Page/NTW-20.md "wikilink")。
 
 ## 衍生型
 

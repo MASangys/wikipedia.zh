@@ -8,7 +8,7 @@ Moment火速在四個月之內發行的第二張錄音室EP](https://zh.wikipedi
 Moment <旅程> 音樂會』\[2\] \[3\]
 ，當晚亦作新碟提前販售，正式上架則於11月24日。專輯內歌曲包括商台上榜歌曲《里程》等合共六首Supper
 Moment原創作品。本專輯亦首次找到好友[Sammy
-So（蘇浩才）](https://zh.wikipedia.org/wiki/Sammy_So（蘇浩才） "wikilink")@[Kolor進行歌曲監製](../Page/Kolor.md "wikilink")。
+So（蘇浩才）](https://zh.wikipedia.org/wiki/Sammy_So（蘇浩才） "wikilink")@[Kolor](../Page/Kolor.md "wikilink")進行歌曲監製。
 
 ## 曲目列表
 

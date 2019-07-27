@@ -23,7 +23,7 @@ mosso*（稍快點），3/4拍，中間一部分為[降A大調](https://zh.wikip
 夜曲Op. 27 No.
 2是[降D大調](https://zh.wikipedia.org/wiki/降D大調 "wikilink")，[緩板](https://zh.wikipedia.org/wiki/速度_\(音樂\)#基本速度標記 "wikilink")，註*Sostenuto*（將音符延長），6/8拍，共77小節。
 
-此曲在流行文化中也有出現，如[占士邦電影](../Page/占士邦.md "wikilink")[海底城](https://zh.wikipedia.org/wiki/海底城 "wikilink")\[4\]\[5\]。{{-}}
+此曲在流行文化中也有出現，如[占士邦](../Page/占士邦.md "wikilink")電影[海底城](https://zh.wikipedia.org/wiki/海底城 "wikilink")\[4\]\[5\]。{{-}}
 
 ## 參考
 

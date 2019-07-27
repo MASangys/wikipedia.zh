@@ -1,14 +1,14 @@
 《**Battle Spirits Sword Eyes**》，又譯為《**Battle Spirits 劍之眼**》。為[Battle
-Spirits的](../Page/Battle_Spirits.md "wikilink")[動畫第五季](https://zh.wikipedia.org/wiki/動畫 "wikilink")。由2012年9月9日
-至2013年9月8日於[名古屋電視台播放](../Page/名古屋電視台.md "wikilink")。全50話。
+Spirits系列的第五部作品](../Page/Battle_Spirits.md "wikilink")。由2012年9月9日至2013年9月8日於[名古屋電視台](../Page/名古屋電視台.md "wikilink")播放，全50話。
 
 ## 概要
 
-『[Battle Spirits](../Page/Battle_Spirits.md "wikilink")』的第5季。前作『[Battle
+《[Battle
+Spirits](../Page/Battle_Spirits.md "wikilink")》的第五部作品。前作《[Battle
 Spirits
-霸王](../Page/Battle_Spirits_霸王.md "wikilink")』的故事背景是現實世界，和第2季『[Battle
+霸王](../Page/Battle_Spirits_霸王.md "wikilink")》的故事背景是現實世界，和第2作《[Battle
 Spirits
-少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")』一樣，是描寫異世界的冒險故事\[1\]。
+少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》一樣，是描寫異世界的冒險故事\[1\]。
 
 工作人員也是同樣（除了角色設計以外換上新），大概與前作同樣的布陣制作。
 
@@ -16,8 +16,8 @@ Spirits
 
 ### 劍和他的同伴
 
-  - 劍．立胁（ツルギ・タテワキ Tsurugi Tatewaki）
-    [配音員](../Page/配音員.md "wikilink")：[皆川純子](../Page/皆川純子.md "wikilink")
+  -
+    [配音員](../Page/配音員.md "wikilink")：[皆川純子](../Page/皆川純子.md "wikilink")（日本）/[鄭家蕙](../Page/鄭家蕙.md "wikilink")（香港）
     光之Sword Eyes，也是暗之Sword
     Eyes的红属性，阿特兰蒂亚的第二王子，正义感十分强，喜欢滑板的热血少年口头禅为「应该做的！（就要幹！）」。
     持有的X稀有卡：輝龍 閃光龍、輝聖劍 閃光劍、光輝龍皇 閃光龍.弧光、闇龍 暗暴劍龍、暗黑之魔劍 闇刃、龍輝神 閃光龍.疊影、白夜之寶劍
@@ -25,9 +25,9 @@ Spirits
 
 <!-- end list -->
 
-  - 守護者（ブリンガー，Bringer）
+  -
     [配音員](../Page/配音員.md "wikilink")：[諏訪部順一](../Page/諏訪部順一.md "wikilink")
-    把守护剑作为使命的卡斗机器人，以前是阿特兰蒂亚的士兵，編號BS0012。因由劍的母親得到可以寄宿暗之Sword Eyes紅屬的力量。
+    把守护剑作为使命的卡斗机器人，以前是阿特兰蒂亚的士兵，編號「BS0012」。因由劍的母親得到可以寄宿暗之Sword Eyes紅屬的力量。
     持有的X稀有卡：光龍騎神 射手.阿波羅龍、金牛龍神 龍牛．戴拿斯、北斗七星龍 齊格.阿波羅龍（紅）
 
 <!-- end list -->
@@ -48,7 +48,7 @@ Spirits
 
   - 空．龙阳（ソラ・リュウヨウ Sora Ryuyo）
     [配音員](../Page/配音員.md "wikilink")：[小野友樹](../Page/小野友樹.md "wikilink")
-    光之蓝属性，兴奋时会说出“爱”之类的话。喜歡吃甜食。跟黃櫻從小就認識，是機械技師，維修了守護者數次。
+    光之蓝属性，兴奋时会说出「爱」之类的话。喜歡吃甜食。跟黃櫻從小就認識，是機械技師，維修了守護者數次。
     持有的X稀有卡：戰輝神 桑達拿古、蒼海之大劍 大漩渦
 
 <!-- end list -->
@@ -68,7 +68,7 @@ Spirits
 
 ### 艾多蘭提亞
 
-  - 白夜王 刃（白夜王ヤイバ（びゃくやおうー））
+  -
     [配音員](../Page/配音員.md "wikilink")：[綠川光](../Page/綠川光.md "wikilink")／[嶋村侑](../Page/嶋村侑.md "wikilink")（幼年時）
     暗之白属性。劍的哥哥，艾多蘭提亞的統治者。作为劲敌而出现于剑的面前，为了得到制裁之神剑而搜索着剑刃合体和Sword
     Eyes。曾經因母親送走還是嬰兒時期的劍而視她為敵人，實為想實現對父親的承諾，要保護自己的家人。想要获得裁决之神剑的原因是想要弑神。
@@ -148,7 +148,7 @@ Spirits
 
 ### 天空之三賢者
 
-  - 正義立花（ジャスティス立花（ジャスティス たちばな））
+  -
     [配音員](../Page/配音員.md "wikilink")：[立花慎之介](../Page/立花慎之介.md "wikilink")
 
 <!-- end list -->
@@ -165,22 +165,26 @@ Spirits
 
   - 王太后格瑞娜妲（王太后グレナダ）
     [配音員](../Page/配音員.md "wikilink")：[根谷美智子](../Page/根谷美智子.md "wikilink")
+    劍和刃的母親，艾蘭奧絲的妻子。
 
-劍和刃的母親，艾蘭奧絲的妻子。
+<!-- end list -->
 
   - 艾蘭奧絲二世（アトライオス二世）
+    劍和刃的父親，格瑞娜妲的丈夫。
 
-劍和刃的父親，格瑞娜妲的丈夫。
+<!-- end list -->
 
   - 正宗．帶刀（マサムネ・タテワキ）
     [配音員](../Page/配音員.md "wikilink")：坂東尚樹
+    劍的義祖父。
 
-劍的義祖父。
+<!-- end list -->
 
   - 菊．帶刀（キク・タテワキ）
     [配音員](../Page/配音員.md "wikilink")：[佐藤智惠](../Page/佐藤智惠.md "wikilink")
+    劍的義祖母。
 
-劍的義祖母。
+<!-- end list -->
 
   - 高頭（タカト）
     [配音員](../Page/配音員.md "wikilink")：[吉田麻實](../Page/吉田麻實.md "wikilink")
@@ -848,14 +852,20 @@ Spirits
 </tbody>
 </table>
 
+## 播放電視台
+
+  - 香港
+
 ## 參考資料
 
-## 相關系列
+## 相關條目
 
-  - [Battle Spirits 少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")
-  - [Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")
-  - [Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")
-  - [Battle Spirits 霸王](../Page/Battle_Spirits_霸王.md "wikilink")
+  - [Battle Spirits](../Page/Battle_Spirits.md "wikilink")
+  - 《[Battle Spirits
+    少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》
+  - 《[Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》
+  - 《[Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")》
+  - 《[Battle Spirits 霸王](../Page/Battle_Spirits_霸王.md "wikilink")》
 
 ## 外部連結
 
@@ -864,10 +874,6 @@ Spirits
 
   - [Battle Spirits Sword
     Eyes](http://www.nagoyatv.com/battlespirits_sword/)（名古屋電視台）
-
-## 播放電視台
-
-  - 香港
 
 [Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
 [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")

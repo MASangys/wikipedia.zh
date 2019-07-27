@@ -70,7 +70,7 @@
 
   - ，用於大氣科學。
 
-  - 中段尿（Mid-stream urine），用於[泌尿道感染檢測](../Page/泌尿道感染.md "wikilink")。
+  - 中段尿（Mid-stream urine），用於[泌尿道感染](../Page/泌尿道感染.md "wikilink")檢測。
 
   - , particularly in IBM mainframe computers
 

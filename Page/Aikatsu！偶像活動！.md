@@ -3,7 +3,7 @@
 ## 遊戲概要
 
 作為[BANDAI研發的DATA](../Page/萬代.md "wikilink")
-CARDDASS街頭卡片互動機器系列，在[光之美少女系列的運行同時](../Page/光之美少女系列.md "wikilink")，也打算展開自己的原創角色活動，因此與[日昇動畫合作撰寫以偶像為題材的遊戲故事](../Page/日昇動畫.md "wikilink")。2012年10月25日推出街機遊戲之前，日昇動畫製作的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2012年10月8日先行在[東京電視台開始播放](../Page/東京電視台.md "wikilink")，並且也起用[AKB48所屬的偶像成員為遊戲代言人](../Page/AKB48.md "wikilink")。
+CARDDASS街頭卡片互動機器系列，在[光之美少女系列](../Page/光之美少女系列.md "wikilink")的運行同時，也打算展開自己的原創角色活動，因此與[日昇動畫](../Page/日昇動畫.md "wikilink")合作撰寫以偶像為題材的遊戲故事。2012年10月25日推出街機遊戲之前，日昇動畫製作的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2012年10月8日先行在[東京電視台](../Page/東京電視台.md "wikilink")開始播放，並且也起用[AKB48](../Page/AKB48.md "wikilink")所屬的偶像成員為遊戲代言人。
 
 雖然遊戲原始的對象為小學女生，但也逐漸產生男性、中學、高中生以及青年年齡層的支持者，尤有一部分曾是[SEGA已結束運行的同類型遊戲](https://zh.wikipedia.org/wiki/SEGA "wikilink")[時尚魔女
 LOVE AND

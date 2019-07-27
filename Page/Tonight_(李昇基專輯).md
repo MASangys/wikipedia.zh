@@ -1,4 +1,4 @@
-《**Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基第五張個人專輯](../Page/李昇基.md "wikilink")，於2011年10月27日由Hook
+《**Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基](../Page/李昇基.md "wikilink")第五張個人專輯，於2011年10月27日由Hook
 Entertainment製作、LOEN娛樂發行，以《是朋友啊》（）作主打歌曲。
 
 ## 曲目

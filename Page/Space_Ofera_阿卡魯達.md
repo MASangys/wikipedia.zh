@@ -1,5 +1,5 @@
 《**Space Ofera
-阿卡魯達**》（）是[梶島正樹的](../Page/梶島正樹.md "wikilink")[日本](../Page/日本.md "wikilink")[成人動畫作品](../Page/成人動畫.md "wikilink")。
+阿卡魯達**》（）是[梶島正樹](../Page/梶島正樹.md "wikilink")的[日本](../Page/日本.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")作品。
 
 ## 概要
 

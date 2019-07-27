@@ -26,9 +26,9 @@
 
 </div>
 
-在[化學與](../Page/化學.md "wikilink")[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**d軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")2，[磁量子數可以為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")0、±1、±2，且每個[殼層裡有五個d軌域](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")，共可容下10個電子。
+在[化學](../Page/化學.md "wikilink")與[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**d軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")2，[磁量子數可以為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")0、±1、±2，且每個[殼層裡有五個d軌域](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")，共可容下10個電子。
 
-d軌域是很常見的軌域，大部分的[過渡金屬的](https://zh.wikipedia.org/wiki/過渡金屬 "wikilink")[價軌域都是d軌域](https://zh.wikipedia.org/wiki/價電子 "wikilink")，在同一個[主量子數中](../Page/主量子數.md "wikilink")，d軌域是[能量第三低的軌域](../Page/能量.md "wikilink")，比s軌域與p軌域來的高，由於[能階交錯](https://zh.wikipedia.org/wiki/能階交錯 "wikilink")，若以週期的角度來看，[第4](https://zh.wikipedia.org/wiki/第四週期 "wikilink")、[5週期中](https://zh.wikipedia.org/wiki/第五週期 "wikilink")，在[價](https://zh.wikipedia.org/wiki/價電子 "wikilink")[殼層中的d軌域能量很低](../Page/殼層.md "wikilink")，僅次於同一個價殼層中的s軌域。但[第六週期出現能量更低的](https://zh.wikipedia.org/wiki/第六週期 "wikilink")[f軌域](https://zh.wikipedia.org/wiki/f軌域 "wikilink")。
+d軌域是很常見的軌域，大部分的[過渡金屬的](https://zh.wikipedia.org/wiki/過渡金屬 "wikilink")[價軌域都是d軌域](https://zh.wikipedia.org/wiki/價電子 "wikilink")，在同一個[主量子數](../Page/主量子數.md "wikilink")中，d軌域是[能量](../Page/能量.md "wikilink")第三低的軌域，比s軌域與p軌域來的高，由於[能階交錯](https://zh.wikipedia.org/wiki/能階交錯 "wikilink")，若以週期的角度來看，[第4](https://zh.wikipedia.org/wiki/第四週期 "wikilink")、[5週期中](https://zh.wikipedia.org/wiki/第五週期 "wikilink")，在[價](https://zh.wikipedia.org/wiki/價電子 "wikilink")[殼層](../Page/殼層.md "wikilink")中的d軌域能量很低，僅次於同一個價殼層中的s軌域。但[第六週期出現能量更低的](https://zh.wikipedia.org/wiki/第六週期 "wikilink")[f軌域](https://zh.wikipedia.org/wiki/f軌域 "wikilink")。
 
 另外，d軌域可以和[s軌域與](https://zh.wikipedia.org/wiki/s軌域 "wikilink")[p軌域發生](https://zh.wikipedia.org/wiki/p軌域 "wikilink")[混成形成](https://zh.wikipedia.org/wiki/混成 "wikilink")[dsp混成軌域](https://zh.wikipedia.org/wiki/dsp杂化 "wikilink")\[1\]\[2\]。
 
@@ -41,7 +41,7 @@ d軌域的「d」是「diffused」，其為「漫系光譜」之意。
 [D_orbitals.png](https://zh.wikipedia.org/wiki/File:D_orbitals.png "fig:D_orbitals.png")
 [D5M0.png](https://zh.wikipedia.org/wiki/File:D5M0.png "fig:D5M0.png")\]\]
 
-d軌域從[主量子數n](../Page/主量子數.md "wikilink")=3開始出現，最小的d軌域是3d軌域，也就是說1d、2d軌域不存在，當[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")2時，其軌域為d軌域，主量子數不可小於三，對應於五個[磁量子數](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")2、1、0、-1、-2，在3d軌域中，有五個[能量相同的](../Page/能量.md "wikilink")3d軌域，同樣的，主量子數為4以上時也有五個4d軌域，因此，每個[殼層都有五個d軌域](../Page/殼層.md "wikilink")，它們分別為、、、、，但是沒有、、、。在存在的五個d軌域（、、、、）中，有四個[形狀相同](../Page/形狀.md "wikilink")，分別為：、、、但方向不同，而是五個d軌域中形狀與眾不同的一個，儘管如此，軌域仍具有和、、及相同之能量。
+d軌域從[主量子數](../Page/主量子數.md "wikilink")n=3開始出現，最小的d軌域是3d軌域，也就是說1d、2d軌域不存在，當[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")2時，其軌域為d軌域，主量子數不可小於三，對應於五個[磁量子數](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")2、1、0、-1、-2，在3d軌域中，有五個[能量](../Page/能量.md "wikilink")相同的3d軌域，同樣的，主量子數為4以上時也有五個4d軌域，因此，每個[殼層](../Page/殼層.md "wikilink")都有五個d軌域，它們分別為、、、、，但是沒有、、、。在存在的五個d軌域（、、、、）中，有四個[形狀](../Page/形狀.md "wikilink")相同，分別為：、、、但方向不同，而是五個d軌域中形狀與眾不同的一個，儘管如此，軌域仍具有和、、及相同之能量。
 
 4d、5d、6d軌域可視為性質與3d軌域相似，只是大小比較大，其與[p軌域類似](https://zh.wikipedia.org/wiki/p軌域 "wikilink")，也有「正負性」，這些「正負性」變化在[原子軌域彼此形成](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")[化學鍵時非常重要](https://zh.wikipedia.org/wiki/化學鍵 "wikilink")。
 

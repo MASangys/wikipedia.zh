@@ -1,5 +1,5 @@
 《**FLASH
-BACK**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")9張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2007年12月5日發行。唱片公司為。
+BACK**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第9張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2007年12月5日發行。唱片公司為。
 
 ## 概要
 

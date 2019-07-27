@@ -1,4 +1,4 @@
-**山葉TZR**為[日本](../Page/日本.md "wikilink")[山葉發動機公司所研發生產的一系列](../Page/山葉發動機.md "wikilink")[摩托車](../Page/摩托車.md "wikilink")，為該公司1980-90年代當家的二行程運動型機種，也是RZ系列的後繼車。搭載水冷二行程引擎，進汽方式為曲軸箱簧片閥。裝配有如賽車的全覆式整流罩，其設計理念是以平民化為考量，日系共有50cc、125cc、250cc三個系列.其中以TZR250為市場主力。
+**山葉TZR**為[日本](../Page/日本.md "wikilink")[山葉發動機](../Page/山葉發動機.md "wikilink")公司所研發生產的一系列[摩托車](../Page/摩托車.md "wikilink")，為該公司1980-90年代當家的二行程運動型機種，也是RZ系列的後繼車。搭載水冷二行程引擎，進汽方式為曲軸箱簧片閥。裝配有如賽車的全覆式整流罩，其設計理念是以平民化為考量，日系共有50cc、125cc、250cc三個系列.其中以TZR250為市場主力。
 
 TZR250從89年開始，引擎車體皆與市售賽車[山葉TZ有許多共通規格](https://zh.wikipedia.org/wiki/山葉TZ "wikilink")，相容性極高。日本當地有許多250cc-400cc等級的競賽，皆是以改裝過後的市售250為主，TZR是其中一種。海外方面，BELGARDA
 YAMAHA(義大利YAMAHA)所研發的TZR125RR，不同於日規TZR125，擁有相當優良的配備及性能。泰國方面另有姊妹車款TZM150，因應泰國法規而研發150cc。為泰國HONDA
@@ -6,7 +6,7 @@ NSR150之對手車。
 
 關於車名，"T"就是Two-stroke
 cycle[兩衝程循環引擎](https://zh.wikipedia.org/wiki/兩衝程循環 "wikilink")，"Z"代表終極、究極之意，"R"即是Road
-Race、Racing，道路[賽車之意](../Page/賽車.md "wikilink")。
+Race、Racing，道路[賽車](../Page/賽車.md "wikilink")之意。
 
 ## TZR250
 

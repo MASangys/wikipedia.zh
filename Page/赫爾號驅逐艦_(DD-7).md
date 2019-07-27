@@ -1,4 +1,4 @@
-**赫爾號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-7）**是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦的七號艦](../Page/班布里奇級驅逐艦.md "wikilink")。她是美軍第一艘以赫爾為名的軍艦，以紀念[1812年戰爭時期的海軍准將](https://zh.wikipedia.org/wiki/1812年戰爭 "wikilink")[艾薩克·赫爾](https://zh.wikipedia.org/wiki/艾薩克·赫爾 "wikilink")（Issac
+**赫爾號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-7）**是一艘隸屬於[美國海軍](../Page/美國海軍.md "wikilink")的[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")的七號艦。她是美軍第一艘以赫爾為名的軍艦，以紀念[1812年戰爭時期的海軍准將](https://zh.wikipedia.org/wiki/1812年戰爭 "wikilink")[艾薩克·赫爾](https://zh.wikipedia.org/wiki/艾薩克·赫爾 "wikilink")（Issac
 Hull）。
 
 赫爾號在1899年於[夏蘭·荷令斯威鋼鐵廠](https://zh.wikipedia.org/wiki/夏蘭·荷令斯威鋼鐵廠 "wikilink")（Harlan

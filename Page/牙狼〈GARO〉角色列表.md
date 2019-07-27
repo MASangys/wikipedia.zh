@@ -4,7 +4,7 @@
 
 ### 主要人物
 
-**冴島鋼牙（）**（[小西大樹](https://zh.wikipedia.org/wiki/小西大樹 "wikilink")\[現藝名：[小西遼生飾](../Page/小西遼生.md "wikilink"))
+**冴島鋼牙（）**（[小西大樹](https://zh.wikipedia.org/wiki/小西大樹 "wikilink")\[現藝名：[小西遼生](../Page/小西遼生.md "wikilink")飾)
 童年([澤畠流星](https://zh.wikipedia.org/wiki/澤畠流星 "wikilink") 飾）
 
   -
@@ -94,8 +94,8 @@
 ### 番犬所
 
 **三神官(凱爾・貝爾・羅絲)（）**([渡辺けあき](https://zh.wikipedia.org/wiki/渡辺けあき "wikilink")
-、[岡本杏理及](../Page/岡本杏理.md "wikilink")[柏幸奈](../Page/柏幸奈.md "wikilink")
-飾)（配音：[井上富美子](../Page/井上富美子.md "wikilink")、[川名真知子及](../Page/川名真知子.md "wikilink")[佐藤朱](../Page/佐藤朱.md "wikilink")）
+、[岡本杏理](../Page/岡本杏理.md "wikilink")及[柏幸奈](../Page/柏幸奈.md "wikilink")
+飾)（配音：[井上富美子](../Page/井上富美子.md "wikilink")、[川名真知子](../Page/川名真知子.md "wikilink")及[佐藤朱](../Page/佐藤朱.md "wikilink")）
 
 **木靈（）**([マーク武蔵](https://zh.wikipedia.org/wiki/マーク武蔵 "wikilink") 飾)
 

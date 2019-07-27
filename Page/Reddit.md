@@ -1,10 +1,10 @@
 （）\[1\]（中文名：**红迪**\[2\]\[3\]）是一个娱乐、社交及新聞网站，注册用户可以将文字或連結在網站上發布，使它基本上成為了一個[電子佈告欄系統](../Page/BBS.md "wikilink")。注册用户可以对这些帖子进行投票，结果将被用来进行排名和决定它在首页或子页的位置。網站上的內容分類被稱為「subreddit」。subreddit的內容包括新聞、電子遊戲、電影、音樂、書籍、健身、食物和圖片分享等。
 
-Reddit由在[維吉尼亞大學讀書時當時是室友的](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")和[亞歷克西斯·瓦尼安於](../Page/亞歷克西斯·瓦尼安.md "wikilink")2005年創立。[康泰納仕於](https://zh.wikipedia.org/wiki/康泰納仕 "wikilink")2006年收購了該網站。Reddit於2011年9月脫離康泰納仕，成為康泰納仕母公司[先進出版公司的子公司](../Page/先進出版公司.md "wikilink")。雖然先進出版公司是其最大股東，但Reddit是獨立運作的\[4\]。Reddit公司的總部設在[加利福尼亚州的](../Page/加利福尼亚州.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")。在2014年10月，Reddit在由主持，包括[馬克·安德森](https://zh.wikipedia.org/wiki/馬克·安德森 "wikilink")、[彼得·泰爾](../Page/彼得·泰爾.md "wikilink")、、[史努比狗狗和](../Page/史努比狗狗.md "wikilink")[謝拉·力圖的一輪投資中獲得](https://zh.wikipedia.org/wiki/謝拉·力圖 "wikilink")5000萬美元\[5\]。他們的投資使Reddit公司的估值達5億美元\[6\]\[7\]。
+Reddit由在[維吉尼亞大學讀書時當時是室友的](https://zh.wikipedia.org/wiki/維吉尼亞大學 "wikilink")和[亞歷克西斯·瓦尼安](../Page/亞歷克西斯·瓦尼安.md "wikilink")於2005年創立。[康泰納仕於](https://zh.wikipedia.org/wiki/康泰納仕 "wikilink")2006年收購了該網站。Reddit於2011年9月脫離康泰納仕，成為康泰納仕母公司[先進出版公司](../Page/先進出版公司.md "wikilink")的子公司。雖然先進出版公司是其最大股東，但Reddit是獨立運作的\[4\]。Reddit公司的總部設在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[旧金山](../Page/旧金山.md "wikilink")。在2014年10月，Reddit在由主持，包括[馬克·安德森](https://zh.wikipedia.org/wiki/馬克·安德森 "wikilink")、[彼得·泰爾](../Page/彼得·泰爾.md "wikilink")、、[史努比狗狗](../Page/史努比狗狗.md "wikilink")和[謝拉·力圖的一輪投資中獲得](https://zh.wikipedia.org/wiki/謝拉·力圖 "wikilink")5000萬美元\[5\]。他們的投資使Reddit公司的估值達5億美元\[6\]\[7\]。
 
 2018年8月，陆续有网友发现Reddit在中国大陆不可用\[8\]\[9\]\[10\]。随后证实Reddit受到了[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")，部分地区不可用\[11\]\[12\]。
 
-目前Reddit是美国第五大网站，流量仅次于[Google](../Page/Google.md "wikilink")，[YouTube](../Page/YouTube.md "wikilink")，[Facebook以及](../Page/Facebook.md "wikilink")[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")，月活用户数达3.3亿\[13\]。
+目前Reddit是美国第五大网站，流量仅次于[Google](../Page/Google.md "wikilink")，[YouTube](../Page/YouTube.md "wikilink")，[Facebook](../Page/Facebook.md "wikilink")以及[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")，月活用户数达3.3亿\[13\]。
 
 ## 概觀
 
@@ -33,7 +33,7 @@ subreddits」，是未註冊、未登入及剛註冊用戶上首頁上所見到�
 
 在Reddit上註冊是免费的，只需提供[電郵地址](https://zh.wikipedia.org/wiki/電郵地址 "wikilink")。當登入後，用戶可以對帖子和留言投票以提高或降低他們的排序及提交帖子和留言。用戶亦可以創立他們自己關於自選主題的subreddit，而有興趣的用戶可以透過訂閱這些subreddit把他們的內容加到他們的網站首頁。例如維基百科的subreddit題為「在維基百科上最有趣的頁面」（）有超過15萬名用戶訂閱\[17\]。在Reddit上的留言及帖子有時會含有一些被縮短、只有網站用戶才了解（但在很多情況下其他人都認識）的字詞，例如「OP」（「original
 poster」的英文縮寫，指發帖者）和「[NSFW](../Page/NSFW.md "wikilink")」（「not safe for
-work」的英文縮寫，指[裸露](https://zh.wikipedia.org/wiki/裸露 "wikilink")、[暴力](../Page/暴力.md "wikilink")、[色情或](../Page/色情.md "wikilink")[冒犯等不適宜公眾場合的內容](../Page/髒話.md "wikilink")）\[18\]。用戶可以因為受歡迎的留言及連結而獲得貼文分數（）及留言分數（），它們會在用戶頁上累積。用戶亦可以因為高質素或幽默而受歡迎的貼文或留言而獲贈Reddit金幣。Reddit亦有一個叫「」的點數系統，每一個「creddit」可以贈送其他用戶一個月的金幣。這些點數並不是獎品，而是作為用戶在其他用戶中的榮譽勳章，但是亦曾經有用戶嘗試換取他們的「creddit」\[19\]。
+work」的英文縮寫，指[裸露](https://zh.wikipedia.org/wiki/裸露 "wikilink")、[暴力](../Page/暴力.md "wikilink")、[色情](../Page/色情.md "wikilink")或[冒犯等不適宜公眾場合的內容](../Page/髒話.md "wikilink")）\[18\]。用戶可以因為受歡迎的留言及連結而獲得貼文分數（）及留言分數（），它們會在用戶頁上累積。用戶亦可以因為高質素或幽默而受歡迎的貼文或留言而獲贈Reddit金幣。Reddit亦有一個叫「」的點數系統，每一個「creddit」可以贈送其他用戶一個月的金幣。這些點數並不是獎品，而是作為用戶在其他用戶中的榮譽勳章，但是亦曾經有用戶嘗試換取他們的「creddit」\[19\]。
 
 Reddit亦容許非連結的貼文。它們稱為「自我貼文」（）或「文字貼文」。很多討論為主的subreddit，例如「AskReddit」－一個用戶只准問一些較為開放問題的subreddit，只容許用戶提交文字貼文。
 
@@ -43,14 +43,14 @@ Splashy Pants」勝出該投票。\[20\]
 
 在網站內，Reddit用戶每年都會慶祝他們的「蛋糕日」（），即是他們帳戶建立的週年紀念。「蛋糕日」對用戶而言沒有特別優待，只有在24小時內用戶名稱旁有一個蛋糕圖示。\[21\]
 
-Reddit用戶可以把其他用戶列為朋友，讓他們快速查找在他們朋友列表上用戶的貼文及留言。Reddit的留言及朋友系統，加上一套「Reddit禮儀」（），令Reddit擁有社交網絡的某些特質，但不如[Facebook和](../Page/Facebook.md "wikilink")[Google+等主要提供社交服務的網站般廣](../Page/Google+.md "wikilink")。
+Reddit用戶可以把其他用戶列為朋友，讓他們快速查找在他們朋友列表上用戶的貼文及留言。Reddit的留言及朋友系統，加上一套「Reddit禮儀」（），令Reddit擁有社交網絡的某些特質，但不如[Facebook](../Page/Facebook.md "wikilink")和[Google+](../Page/Google+.md "wikilink")等主要提供社交服務的網站般廣。
 
 Reddit社羣亦在世界各地的公園或酒吧社交\[22\]。在網站上亦有各個地區的subreddit籌備聚會。
 
 ## 歷史
 
 [Alexis_Ohanian_Reflections-Projections_ACM_2009.JPG](https://zh.wikipedia.org/wiki/File:Alexis_Ohanian_Reflections-Projections_ACM_2009.JPG "fig:Alexis_Ohanian_Reflections-Projections_ACM_2009.JPG")於2009年。\]\]
-在2005年6月\[23\]，Reddit由[維珍尼亞大學兩名學生](https://zh.wikipedia.org/wiki/維珍尼亞大學 "wikilink")[亞歷克西斯·瓦尼安和](../Page/亞歷克西斯·瓦尼安.md "wikilink")創辦於[麻省](https://zh.wikipedia.org/wiki/麻省 "wikilink")\[24\]。在2005年11月團隊加入了Christopher
+在2005年6月\[23\]，Reddit由[維珍尼亞大學兩名學生](https://zh.wikipedia.org/wiki/維珍尼亞大學 "wikilink")[亞歷克西斯·瓦尼安](../Page/亞歷克西斯·瓦尼安.md "wikilink")和創辦於[麻省](https://zh.wikipedia.org/wiki/麻省 "wikilink")\[24\]。在2005年11月團隊加入了Christopher
 Slowe。在2005年11月與2006年1月間，Reddit與[亞倫·斯沃茨的公司](https://zh.wikipedia.org/wiki/亞倫·斯沃茨 "wikilink")「Infogami」合併，斯沃茨因此亦成為結果母公司「Not
 A
 Bug」的共同擁有者\[25\]\[26\]。[康泰納仕](https://zh.wikipedia.org/wiki/康泰納仕 "wikilink")，[连线杂志的擁有者](https://zh.wikipedia.org/wiki/連線 "wikilink")，於2006年10月31日收購Reddit，其團隊搬至[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")\[27\]。2007年1月，斯沃茨被[解僱](../Page/解僱.md "wikilink")\[28\]。
@@ -62,14 +62,14 @@ Slowe\[32\]和大衛·金\[33\]。2010年5月，Reddit被Lead411列為「2010年
 
 2011年9月6日，Reddit從康泰納仕獨立，成為其母公司先進出版的另外一間子公司\[37\]。2012年1月11日，Reddit宣佈它將會參加一個十二小時的關站行動，以抗議[禁止網絡盜版法案](https://zh.wikipedia.org/wiki/禁止網絡盜版法案 "wikilink")\[38\]。該關站行動於1月18日發生，維基百科及其它數個網站亦有參加。2012年5月，Reddit加入組織往後抗議行動的\[39\]。2013年2月14日，Reddit與Coinbase合作，開始接受虛擬貨幣[比特幣購買Reddit金幣](https://zh.wikipedia.org/wiki/比特幣 "wikilink")。\[40\]。
 
-2014年10月，Reddit成立Redditmade，一個容許subreddit版主創造和售賣商品的平台\[41\]。Redditmade於2015年2月關閉。2014年11月，時任行政總裁[黃易山辭職](../Page/黃易山.md "wikilink")，亞歷克西斯·瓦尼安到Reddit成為全職執行主席。而Reddit的商業及夥伴分析師[鮑康如成為臨時行政總裁](../Page/鮑康如.md "wikilink")\[42\]。2015年7月10日，鮑康如辭任臨時行政總裁，由創辦人代替為正式行政總裁\[43\]\[44\]。
+2014年10月，Reddit成立Redditmade，一個容許subreddit版主創造和售賣商品的平台\[41\]。Redditmade於2015年2月關閉。2014年11月，時任行政總裁[黃易山](../Page/黃易山.md "wikilink")辭職，亞歷克西斯·瓦尼安到Reddit成為全職執行主席。而Reddit的商業及夥伴分析師[鮑康如](../Page/鮑康如.md "wikilink")成為臨時行政總裁\[42\]。2015年7月10日，鮑康如辭任臨時行政總裁，由創辦人代替為正式行政總裁\[43\]\[44\]。
 
 2015年10月，Reddit把先前收購的網誌「The
 Redditor」改成「Upvoted」，發佈基於Reddit用戶貼文而編寫的文章，藉此增強Reddit本身對外的接觸面\[45\]。
 
 2018年8月10日，Reddit上有网友反映其服务在中国大陆不可用\[46\]\[47\]。随后，Reddit被发现受到了DNS污染\[48\]\[49\]。有人认为Reddit此次遭封禁是因为2018年中旬所推出的聊天室功能\[50\]。同样的手法也被用来对付[Discord](../Page/Discord.md "wikilink")\[51\]。
 
-2019年2月11日，Reddit宣布以30亿美元估值完成3亿美元融资，并由[腾讯领投](../Page/腾讯.md "wikilink")\[52\]。由於腾讯过去曾是中国互联网审查机制[防火长城构筑的科技公司之一](../Page/防火长城.md "wikilink")，腾讯投资Reddit引发美国网民对於日後言论可能受到审查的疑虑，部分美国用户在Reddit发布大量[六四事件](../Page/六四事件.md "wikilink")[天安门镇压照片作为回应](../Page/天安门.md "wikilink")\[53\]。
+2019年2月11日，Reddit宣布以30亿美元估值完成3亿美元融资，并由[腾讯](../Page/腾讯.md "wikilink")领投\[52\]。由於腾讯过去曾是中国互联网审查机制[防火长城](../Page/防火长城.md "wikilink")构筑的科技公司之一，腾讯投资Reddit引发美国网民对於日後言论可能受到审查的疑虑，部分美国用户在Reddit发布大量[六四事件](../Page/六四事件.md "wikilink")[天安门](../Page/天安门.md "wikilink")镇压照片作为回应\[53\]。
 
 ## 爭議
 
@@ -82,35 +82,35 @@ subreddits」中的內容都受嚴格監管，例如「science」subreddit上禁
 
 2011件10月18日，一名IT經理在「gameswap」subreddit上貼文，讓用戶以其他遊戲換取《[駭客入侵：人類革命](../Page/駭客入侵：人類革命.md "wikilink")》的遊戲代碼\[64\]。一群用戶取得了他的身份信息，並勒索他以取得代碼\[65\]。在他貼文後的星期一，他在家和工作處共收到了138個勒索電話，而他亦被解僱\[66\]。
 
-[2013年波士頓馬拉松爆炸案後](../Page/2013年波士頓馬拉松爆炸案.md "wikilink")，Reddit因為用戶錯誤識別數名人士為疑犯而被批評\[67\]。其中一名受關注被誤認的人士是在爆炸案前失蹤的學生的遺體於2013年4月25日於[羅德島州一條河中被發現](../Page/羅德島州.md "wikilink")，當局認為死因不包括非法行為\[68\]。他的家人後來向外界確認他的死因是[自殺](../Page/自殺.md "wikilink")\[69\]。Reddit總經理埃里克·馬丁事後因用戶的行為道歉，並批評在該網站上的「網上[獵巫及危險的推測](https://zh.wikipedia.org/wiki/道德恐慌 "wikilink")」（）\[70\]。《[「法」妻](../Page/「法」妻.md "wikilink")》\[71\]和《[新聞室風雲](https://zh.wikipedia.org/wiki/新聞室風雲 "wikilink")》後來引用了此事件\[72\]。\[73\]
+[2013年波士頓馬拉松爆炸案](../Page/2013年波士頓馬拉松爆炸案.md "wikilink")後，Reddit因為用戶錯誤識別數名人士為疑犯而被批評\[67\]。其中一名受關注被誤認的人士是在爆炸案前失蹤的學生的遺體於2013年4月25日於[羅德島州](../Page/羅德島州.md "wikilink")一條河中被發現，當局認為死因不包括非法行為\[68\]。他的家人後來向外界確認他的死因是[自殺](../Page/自殺.md "wikilink")\[69\]。Reddit總經理埃里克·馬丁事後因用戶的行為道歉，並批評在該網站上的「網上[獵巫及危險的推測](https://zh.wikipedia.org/wiki/道德恐慌 "wikilink")」（）\[70\]。《[「法」妻](../Page/「法」妻.md "wikilink")》\[71\]和《[新聞室風雲](https://zh.wikipedia.org/wiki/新聞室風雲 "wikilink")》後來引用了此事件\[72\]。\[73\]
 
 2013年10月末，「politics」subreddit的版主禁止了在該subreddit上發佈一批網站的連結。被禁的網站包括《》、《[哈芬登郵報](https://zh.wikipedia.org/wiki/哈芬登郵報 "wikilink")》、《》、《》、《》、《》、《》、《》和《》等左翼評論網站；進步主義網誌《》和《》；以及右翼主義網站《》、《[布賴特巴特](../Page/布賴特巴特新聞網.md "wikilink")》、《》、《Dailypaul》、《》和《[理性](../Page/理性_\(雜誌\).md "wikilink")》。《沙龍》報導版主在星期二一個貼文中解釋，封禁的目標是「減少[垃圾網誌貼文及嘩眾取寵的標題](https://zh.wikipedia.org/wiki/濫發電子訊息 "wikilink")」（）。版主們亦解釋，此舉亦針對提供「拙劣報導」（）的網站\[74\]。2013年12月封禁網站名單有所改動，《瓊斯母親》和《哈芬登郵報》等具原創內容的網站在subreddit上解封\[75\]。《[今日俄羅斯](https://zh.wikipedia.org/wiki/今日俄羅斯 "wikilink")》在subreddit上亦被封禁，版主們指是由於它操控投票及濫發電子訊息，但其中一名版主指他因為[克里姆林宮資助](https://zh.wikipedia.org/wiki/克里姆林 "wikilink")《今日俄羅斯》才希望在subreddit中封禁該網站\[76\]\[77\]。
 
-2014年8月，[名人相片泄露事件中的圖片在網站上廣泛傳播](../Page/2014年8月名人照片泄露事件.md "wikilink")\[78\]\[79\]。用戶創建了「TheFappening」subreddit用來分享當中之圖片\[80\]，當中包括了絕大部分非法取得的圖片\[81\]\[82\]\[83\]\[84\]\[85\]。其中莉斯·利以及[麥琪拉·瑪隆妮的圖片被指是在他們未成年時拍攝的](https://zh.wikipedia.org/wiki/麥琪拉·瑪隆妮 "wikilink")，所以被用戶及網站外人士指是[兒童色情物品](../Page/兒童色情.md "wikilink")\[86\]。該subreddit在9月6日被封禁\[87\]。此事件使網站管理層受《[The
+2014年8月，[名人相片泄露事件中的圖片在網站上廣泛傳播](../Page/2014年8月名人照片泄露事件.md "wikilink")\[78\]\[79\]。用戶創建了「TheFappening」subreddit用來分享當中之圖片\[80\]，當中包括了絕大部分非法取得的圖片\[81\]\[82\]\[83\]\[84\]\[85\]。其中莉斯·利以及[麥琪拉·瑪隆妮的圖片被指是在他們未成年時拍攝的](https://zh.wikipedia.org/wiki/麥琪拉·瑪隆妮 "wikilink")，所以被用戶及網站外人士指是[兒童色情](../Page/兒童色情.md "wikilink")物品\[86\]。該subreddit在9月6日被封禁\[87\]。此事件使網站管理層受《[The
 Verge](../Page/The_Verge.md "wikilink")》、《》等廣泛批評\[88\]\[89\]。
 
-2014年中，該網站上有可觀數目圍繞[玩家門爭議的內容被刪除](https://zh.wikipedia.org/wiki/玩家門 "wikilink")，例如在「gaming」subreddit上一則貼文有多達24,000條留言被Reddit的版主或管理員刪除\[90\]。而討論爭議中主角之一的subreddit「ZoeQuinnDiscussion」因為違反網站規則被封\[91\]。Reddit的管理員以[4chan掃蕩貼文及造成傷害為他們的行動作辯護](../Page/4chan.md "wikilink")\[92\]。一名版主聲稱他因為公開和奎因之間的信息而被解除版主地位\[93\]。
+2014年中，該網站上有可觀數目圍繞[玩家門爭議的內容被刪除](https://zh.wikipedia.org/wiki/玩家門 "wikilink")，例如在「gaming」subreddit上一則貼文有多達24,000條留言被Reddit的版主或管理員刪除\[90\]。而討論爭議中主角之一的subreddit「ZoeQuinnDiscussion」因為違反網站規則被封\[91\]。Reddit的管理員以[4chan](../Page/4chan.md "wikilink")掃蕩貼文及造成傷害為他們的行動作辯護\[92\]。一名版主聲稱他因為公開和奎因之間的信息而被解除版主地位\[93\]。
 
 2014年12月18日，Reddit不尋常地封禁了用於分享[黑客入侵索尼影業之檔案的](https://zh.wikipedia.org/wiki/索尼影業遭黑客攻擊事件 "wikilink")「SonyGOP」subreddit\[94\]。
 
 在[2015年南卡羅萊納州查理斯頓槍擊案後](https://zh.wikipedia.org/wiki/2015年南卡羅萊納州查理斯頓槍擊案 "wikilink")，Reddit因為最近封禁了五個subreddit，但沒有封禁一個含對疑犯「表示支持」貼文的subreddit而被指「選擇性執行規則」\[95\]。Reddit在[英國廣播公司發表聲明](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，指他們「致力推動言論自由」（）及「有一部分只有很少人瀏覽的subreddit中的內容被反覆強調，但在網站上的內容中只佔一少撮」（）\[96\]。
 
-在[鮑康如成為行政總裁後](../Page/鮑康如.md "wikilink")，Reddit以網絡欺凌為由在2015年6月10日封禁了擁有約150,000人訂閱的subreddit「fatpeoplehate」以及四個其他subreddit\[97\]。此舉引起了極大爭議，有的用戶認為封禁太過分，有的用戶則認為封禁力度不夠\[98\]。Reddit用戶們亦批評鮑康如入稟的訴訟，並投訴在Reddit上有關訴訟的貼文被刪除\[99\]。
+在[鮑康如](../Page/鮑康如.md "wikilink")成為行政總裁後，Reddit以網絡欺凌為由在2015年6月10日封禁了擁有約150,000人訂閱的subreddit「fatpeoplehate」以及四個其他subreddit\[97\]。此舉引起了極大爭議，有的用戶認為封禁太過分，有的用戶則認為封禁力度不夠\[98\]。Reddit用戶們亦批評鮑康如入稟的訴訟，並投訴在Reddit上有關訴訟的貼文被刪除\[99\]。
 
 2015年7月2日，Reddit一群版主因為Reddit解僱了安排在「AmA」（）subreddit進行名人問答的員工維多利亞·泰勒（）以及近期官方與版主溝通不善不滿，所以集體把他們管理的subreddit設定為私人模式，有效地把網站關閉，事件被稱為「AMAgeddon」（英語中把
 AmA 和 [Armageddon](../Page/哈米吉多頓.md "wikilink")
-兩詞結合的[混成詞](../Page/混成詞.md "wikilink")）\[100\]。7月3日，前大衛·克勞奇（）在網站上一場網上問答中透露他因為患上癌症，但康復得不夠快，所以在一年健康保險期內仍被鮑康如解僱\[101\]\[102\]。此後事件愈演愈烈，有用戶在[Change.org上](../Page/Change.org.md "wikilink")[請願要求解除鮑康如作為Reddit](https://zh.wikipedia.org/wiki/請願 "wikilink")
-Inc.的職務，獲超過20萬個簽名\[103\]\[104\]\[105\]。鮑康如於7月3日以及7月6日貼文回應，對溝通不善及沒有履行承諾道歉。她亦為其他管理員道歉，但指過去數年來問題已經存在\[106\]\[107\]\[108\]\[109\]。7月10日，鮑康如辭職，被前行政總裁及該網站創辦人之一史蒂夫·霍夫曼取代\[110\]\[111\]。有用戶對此仍然不滿，指鮑康如只是一名[替罪者](https://zh.wikipedia.org/wiki/代罪羔羊 "wikilink")\[112\]，前行政總裁[黃易山甚至指執行主席](../Page/黃易山.md "wikilink")[亞歷克西斯·瓦尼安以鮑康如作為自己決定的擋箭牌](../Page/亞歷克西斯·瓦尼安.md "wikilink")\[113\]。
+兩詞結合的[混成詞](../Page/混成詞.md "wikilink")）\[100\]。7月3日，前大衛·克勞奇（）在網站上一場網上問答中透露他因為患上癌症，但康復得不夠快，所以在一年健康保險期內仍被鮑康如解僱\[101\]\[102\]。此後事件愈演愈烈，有用戶在[Change.org](../Page/Change.org.md "wikilink")上[請願要求解除鮑康如作為Reddit](https://zh.wikipedia.org/wiki/請願 "wikilink")
+Inc.的職務，獲超過20萬個簽名\[103\]\[104\]\[105\]。鮑康如於7月3日以及7月6日貼文回應，對溝通不善及沒有履行承諾道歉。她亦為其他管理員道歉，但指過去數年來問題已經存在\[106\]\[107\]\[108\]\[109\]。7月10日，鮑康如辭職，被前行政總裁及該網站創辦人之一史蒂夫·霍夫曼取代\[110\]\[111\]。有用戶對此仍然不滿，指鮑康如只是一名[替罪者](https://zh.wikipedia.org/wiki/代罪羔羊 "wikilink")\[112\]，前行政總裁[黃易山](../Page/黃易山.md "wikilink")甚至指執行主席[亞歷克西斯·瓦尼安](../Page/亞歷克西斯·瓦尼安.md "wikilink")以鮑康如作為自己決定的擋箭牌\[113\]。
 
 2019年3月，據報份由大量疑似「[中國網軍](../Page/网络评论员.md "wikilink")」賬戶湧入，其會在批評中國的帖子下給予「負評」（downvote），並會洗白事件\[114\]。
 
 ## 技術
 
 Reddit當初是使用[Common
-Lisp編寫](../Page/Common_Lisp.md "wikilink")，後來在2005年12月改用[Python重新編寫](../Page/Python.md "wikilink")\[115\]。更改程式語言是由於可以使用更多的[函式庫和有更大的開發靈活度](../Page/函式庫.md "wikilink")。由Reddit前員工[亞倫·斯沃茨開發以運行該網站的Python框架](https://zh.wikipedia.org/wiki/亞倫·斯沃茨 "wikilink")「*web.py*」現已成為一個開源軟件專案\[116\]。在2008年6月18日，Reddit自身亦成為一個開源專案\[117\]。除了用於防止垃圾信息或投票作弊的部分，所有為Reddit編寫的函式庫和程式碼都可以在[GitHub公開閱覽](../Page/GitHub.md "wikilink")\[118\]。，Reddit使用[Pylons作為它的網頁框架](../Page/Pylons.md "wikilink")\[119\]。
+Lisp編寫](../Page/Common_Lisp.md "wikilink")，後來在2005年12月改用[Python](../Page/Python.md "wikilink")重新編寫\[115\]。更改程式語言是由於可以使用更多的[函式庫](../Page/函式庫.md "wikilink")和有更大的開發靈活度。由Reddit前員工[亞倫·斯沃茨開發以運行該網站的Python框架](https://zh.wikipedia.org/wiki/亞倫·斯沃茨 "wikilink")「*web.py*」現已成為一個開源軟件專案\[116\]。在2008年6月18日，Reddit自身亦成為一個開源專案\[117\]。除了用於防止垃圾信息或投票作弊的部分，所有為Reddit編寫的函式庫和程式碼都可以在[GitHub](../Page/GitHub.md "wikilink")公開閱覽\[118\]。，Reddit使用[Pylons](../Page/Pylons.md "wikilink")作為它的網頁框架\[119\]。
 
-，Reddit已停止使用該公司自己的伺服器，並把網站轉移使用[亞馬遜網路服務系統](https://zh.wikipedia.org/wiki/亞馬遜網路服務系統 "wikilink")\[120\]。Reddit主要使用[PostgreSQL於它的數據庫中](../Page/PostgreSQL.md "wikilink")，並正緩慢的轉移至使用[Apache
-Cassandra](../Page/Cassandra.md "wikilink")。它使用[RabbitMQ作離線處理](../Page/RabbitMQ.md "wikilink")、[HAProxy作負載分擔及使用](../Page/HAProxy.md "wikilink")[memcached作緩存](https://zh.wikipedia.org/wiki/memcached "wikilink")。在2009年初，Reddit開始使用[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")\[121\]。在2010年6月7日，Reddit推出一套供流動裝置使用的界面，並使用重寫的[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、新的配色方案，以及一系列的改進\[122\]。
+，Reddit已停止使用該公司自己的伺服器，並把網站轉移使用[亞馬遜網路服務系統](https://zh.wikipedia.org/wiki/亞馬遜網路服務系統 "wikilink")\[120\]。Reddit主要使用[PostgreSQL](../Page/PostgreSQL.md "wikilink")於它的數據庫中，並正緩慢的轉移至使用[Apache
+Cassandra](../Page/Cassandra.md "wikilink")。它使用[RabbitMQ](../Page/RabbitMQ.md "wikilink")作離線處理、[HAProxy](../Page/HAProxy.md "wikilink")作負載分擔及使用[memcached作緩存](https://zh.wikipedia.org/wiki/memcached "wikilink")。在2009年初，Reddit開始使用[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")\[121\]。在2010年6月7日，Reddit推出一套供流動裝置使用的界面，並使用重寫的[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、新的配色方案，以及一系列的改進\[122\]。
 
 2010年7月21日，Reddit把它的搜尋功能外判至Flaptor的產品IndexTank\[123\]。，Reddit使用[亞馬遜CloudSearch](https://zh.wikipedia.org/wiki/亞馬遜網路服務系統 "wikilink")\[124\]。在2014年9月，Reddit官方發佈了一個供iOS和Android，用於瀏覽AMA（Ask
 Me Anything）的應用程式\[125\]。2014年10月，Reddit收購了其中一個第三方客戶端「Alien

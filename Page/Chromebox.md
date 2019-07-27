@@ -1,5 +1,5 @@
 [Samsung_Chromebox.JPG](https://zh.wikipedia.org/wiki/File:Samsung_Chromebox.JPG "fig:Samsung_Chromebox.JPG")
-**Chromebox**是[谷歌公司推出的一款](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[迷你](../Page/迷你.md "wikilink")[個人電腦產品](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，產品支持[互聯網連接以及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[藍牙技術](../Page/藍牙.md "wikilink")。\[1\]\[2\]
+**Chromebox**是[谷歌公司推出的一款](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[迷你](../Page/迷你.md "wikilink")[個人電腦產品](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，產品支持[互聯網連接以及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[藍牙](../Page/藍牙.md "wikilink")技術。\[1\]\[2\]
 
 ## 型號
 

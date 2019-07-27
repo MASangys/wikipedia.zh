@@ -1,7 +1,7 @@
 [INFINITE](../Page/INFINITE.md "wikilink") | 現任成員 =
 [Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink"){{·}}[優鉉](https://zh.wikipedia.org/wiki/南優鉉 "wikilink")
 }}
-**Toheart**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂與旗下獨立品牌公司](../Page/SM娛樂.md "wikilink")[Woollim娛樂合作於](../Page/Woollim娛樂.md "wikilink")2014年推出的[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")，由SM娛樂的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）及Woollim
+**Toheart**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")與旗下獨立品牌公司[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")合作於2014年推出的[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")，由SM娛樂的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）及Woollim
 Entertainment的[優鉉](../Page/南優賢.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）組成。隊名含意為「Two
 Heart」及「To Heart」。
 
@@ -36,7 +36,7 @@ Heart」及「To Heart」。
 
 ### 2014年：出道
 
-1月24日，[SM娛樂宣布](../Page/SM娛樂.md "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[Key和](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[INFINITE成員](../Page/INFINITE.md "wikilink")[優鉉將組成限定特別組合](../Page/南優賢.md "wikilink")。\[1\]
+1月24日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣布[SHINee](../Page/SHINee.md "wikilink")成員[Key和](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")成員[優鉉將組成限定特別組合](../Page/南優賢.md "wikilink")。\[1\]
 
 2月20日，首支預告於[Mnet綜藝節目](../Page/Mnet媒體.md "wikilink")《This Is
 INFINITE》片尾和[SMTOWN官方Youtube頻道同步公開](https://zh.wikipedia.org/wiki/SMTOWN "wikilink")，2月27日公開的第二支預告表明團體將於3月出道。

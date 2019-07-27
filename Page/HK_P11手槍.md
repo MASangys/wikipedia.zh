@@ -1,5 +1,5 @@
 **HK
-P11**，是[德國武器製造商](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒&科赫生產的一款](../Page/黑克勒&科赫.md "wikilink")[水下槍械](https://zh.wikipedia.org/wiki/水下槍械 "wikilink")(Underwater
+P11**，是[德國武器製造商](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")生產的一款[水下槍械](https://zh.wikipedia.org/wiki/水下槍械 "wikilink")(Underwater
 firearm)。直到现在，HK公司从没有正式公布过这支秘密研制的水下手枪的资料。有资料指P11是在1970年代研制，并在1976年投入使用。
 
 美国[三角洲部队至少已经购买了](https://zh.wikipedia.org/wiki/三角洲部队 "wikilink")100支HK

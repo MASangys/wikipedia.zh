@@ -1,4 +1,4 @@
-《**RPG**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[葉佩雯的第三張唱片](../Page/葉佩雯.md "wikilink")、第一張音樂專輯，於1999年3月推出。[葉佩雯之前都只推出過單曲](../Page/葉佩雯.md "wikilink")，在此專輯中收錄了她在之前2張單曲的歌曲。
+《**RPG**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[葉佩雯](../Page/葉佩雯.md "wikilink")的第三張唱片、第一張音樂專輯，於1999年3月推出。[葉佩雯](../Page/葉佩雯.md "wikilink")之前都只推出過單曲，在此專輯中收錄了她在之前2張單曲的歌曲。
 
 ## 曲目
 

@@ -1,10 +1,10 @@
 「**是啊\! We're
-ALIVE**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第14张[单曲](../Page/单曲.md "wikilink")。於2002年2月20日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+ALIVE**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第14张[单曲](../Page/单曲.md "wikilink")。於2002年2月20日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「是啊\! We're
-    ALIVE」是[TBS電視台節目](../Page/TBS電視台.md "wikilink")「ソルトレイクシティオリンピック」主題曲。
+    ALIVE」是[TBS電視台](../Page/TBS電視台.md "wikilink")節目「ソルトレイクシティオリンピック」主題曲。
   - B面曲「早安咖啡（2002
     version）」是第1張单曲「[早安咖啡](../Page/早安咖啡.md "wikilink")」的新版本。
   - 此單曲只有「CD ONLY」1個版本。

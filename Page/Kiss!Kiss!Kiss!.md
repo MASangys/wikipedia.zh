@@ -14,7 +14,7 @@ AKIRASTAR(\#2、作曲) | Producer = 滝川洋 | Chart position =
   - 登場回数6回（Oricon）
 
 | Last single = \[\[戀愛騎士|戀愛
-「**Kiss\!Kiss\!Kiss\!**」是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!的第](../Page/Buono!.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年5月14日發售\[1\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+「**Kiss\!Kiss\!Kiss\!**」是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年5月14日發售\[1\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 

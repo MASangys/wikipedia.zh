@@ -63,7 +63,7 @@ Pop當時所僅有的華麗舞台。不畏懼路人投以異樣的眼光，此�
 Bar
 Bar》的「直列五汽缸舞」红遍韩国，让她们人气大增。六月份剛發行時並未獲得樂迷重視，直至七月份才紅遍韓國大街小巷，並掀起連串的模仿潮，音源榜也從百名外以光速竄升至第一名。韩国网友形容為繼《[江南style](https://zh.wikipedia.org/wiki/江南style "wikilink")》和《[Gentleman](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》后，第3首人气搞怪舞蹈歌曲。
 
-2014年10月15日，成員CHOA和WAY（[雙胞胎姊妹](../Page/雙胞胎.md "wikilink")）組成了Crayon
+2014年10月15日，成員CHOA和WAY（[雙胞胎](../Page/雙胞胎.md "wikilink")姊妹）組成了Crayon
 Pop的首隊分支組合－[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「草莓牛奶」（），並於當日發行迷你專輯《The
 1st. Mini Album》。
 
@@ -73,7 +73,7 @@ Pop的首隊分支組合－[韓國的](https://zh.wikipedia.org/wiki/韓國 "wik
 2016年10月4日，新聞傳出成員SoYul最近檢查發現自身患有恐慌症，因此決定全面暫停演藝活動，積極接受治療；而Crayon
 Pop短時間內將由4人形式做宣傳。\[11\]
 
-2016年11月29日，新聞傳出成員SoYul與男子團體[H.O.T.隊長](../Page/H.O.T..md "wikilink")[文熙俊結婚的消息](../Page/文熙俊.md "wikilink")。\[12\]
+2016年11月29日，新聞傳出成員SoYul與男子團體[H.O.T.](../Page/H.O.T..md "wikilink")隊長[文熙俊](../Page/文熙俊.md "wikilink")結婚的消息。\[12\]
 
 2017年5月12日，已懷孕成員SoYul已於下午4點30分左右產出1女，母女均安。\[13\]\[14\]\[15\]\[16\]
 

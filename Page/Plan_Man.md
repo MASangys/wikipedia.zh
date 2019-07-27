@@ -1,5 +1,5 @@
 《**Plan
-Man**》（）是一部2014年上映的[韓國電影](../Page/韓國電影.md "wikilink")，由[成時翕執導](https://zh.wikipedia.org/wiki/成時翕 "wikilink")，[鄭在詠](../Page/鄭在詠.md "wikilink")、[韓志旼主演](../Page/韓志旼.md "wikilink")，描寫分秒按照計劃生活的男人遇上計劃以外的女人的故事。
+Man**》（）是一部2014年上映的[韓國電影](../Page/韓國電影.md "wikilink")，由[成時翕執導](https://zh.wikipedia.org/wiki/成時翕 "wikilink")，[鄭在詠](../Page/鄭在詠.md "wikilink")、[韓志旼](../Page/韓志旼.md "wikilink")主演，描寫分秒按照計劃生活的男人遇上計劃以外的女人的故事。
 
 ## 劇情介紹
 

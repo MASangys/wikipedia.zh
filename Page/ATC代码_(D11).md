@@ -7,10 +7,10 @@
   -
     D11AC01
     [西曲胺](https://zh.wikipedia.org/wiki/西曲胺 "wikilink")（Cetrimide）
-    D11AC02 [钙化合物类](../Page/钙.md "wikilink")（Cadmium compounds）
-    D11AC03 [硒化合物类](../Page/硒.md "wikilink")（Selenium compounds）
+    D11AC02 [钙](../Page/钙.md "wikilink")化合物类（Cadmium compounds）
+    D11AC03 [硒](../Page/硒.md "wikilink")化合物类（Selenium compounds）
     D11AC06 [聚维酮碘](../Page/聚维酮碘.md "wikilink")（Povidone-iodine）
-    D11AC08 [硫化合物类](../Page/硫.md "wikilink")（Sulfur compounds）
+    D11AC08 [硫](../Page/硫.md "wikilink")化合物类（Sulfur compounds）
     D11AC09
     [珍尼柳酯](https://zh.wikipedia.org/wiki/珍尼柳酯 "wikilink")（Xenysalate）
     D11AC30 其它（Others）
@@ -21,7 +21,7 @@
     D11AE01
     [美雄酮](https://zh.wikipedia.org/wiki/美雄酮 "wikilink")（Metandienone）
 
-### D11AF [疣和](../Page/疣.md "wikilink")[鸡眼治疗药](https://zh.wikipedia.org/wiki/鸡眼 "wikilink")（Wart and corn preparations）
+### D11AF [疣](../Page/疣.md "wikilink")和[鸡眼治疗药](https://zh.wikipedia.org/wiki/鸡眼 "wikilink")（Wart and corn preparations）
 
 ### D11AH 过敏性[皮炎治疗药](https://zh.wikipedia.org/wiki/皮炎 "wikilink")，不包括[皮质类固醇](https://zh.wikipedia.org/wiki/皮质类固醇 "wikilink")（Agents for dermatitis, excluding corticosteroids）
 

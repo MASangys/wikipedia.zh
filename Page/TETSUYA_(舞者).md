@@ -1,14 +1,14 @@
-**TETSUYA**（）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
+**TETSUYA**（）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
 THE SECOND表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul
 Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
-[秋田縣出生](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")\[1\]，[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市成長](../Page/橫須賀市.md "wikilink")。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
+[秋田縣出生](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")\[1\]，[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市](../Page/橫須賀市.md "wikilink")成長。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
 
 ## 來歷
 
 初中時期於横須賀市立神明中学校畢業\[2\]。因家人從事室內建築工作的關係而對木匠工作的産生興趣，從小學5年級左右的時候開始想成為木匠，於是高中報讀了建築科。為了學習而沒有參加活動小組,不過有玩四輪滑冰和衝浪。\[3\]。畢業後曾在父親的公司工作\[4\]。
 
-19歲開始跳舞。2002年與KENCHI等人組成4人舞蹈團體「POLY-3」，其間與AKIRA相識。並參與了2004年9月[放浪兄弟所主演的舞台劇](../Page/放浪兄弟.md "wikilink")｢HEART
+19歲開始跳舞。2002年與KENCHI等人組成4人舞蹈團體「POLY-3」，其間與AKIRA相識。並參與了2004年9月[放浪兄弟](../Page/放浪兄弟.md "wikilink")所主演的舞台劇｢HEART
 OF GOLD～STREET FUTURE OPERA BEAT
 POPS～｣之演出。2005年1月，因演出舞台劇的契機與KENCHI、KEIJI、SORI-KEN組成舞蹈團體「FULCRUM」，TETSUYA於「FULCRUM」時代是使用「BATTA」這名字活動。2006年，與AKIRA等人組成｢RAG
 POUND｣，5月至7月參加了「武者修行」巡迴演出。之後參加電影「BACK
@@ -39,7 +39,7 @@ PARTY正式成員](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")�
   - 擅長游泳，由小學到高中去了10年的游泳訓練班\[11\]\[12\]。
   - FULCRUM時代使用「BATTA」的名字活動。
   - 被成員認為是「浪漫的男人」。演唱會也披露「浪漫[五·七·五](../Page/俳句.md "wikilink")」。
-  - 是[德永英明的愛好者](../Page/德永英明.md "wikilink")\[13\]，卡拉OK經常唱的曲子『壞掉的收音機』。\[14\]
+  - 是[德永英明](../Page/德永英明.md "wikilink")的愛好者\[13\]，卡拉OK經常唱的曲子『壞掉的收音機』。\[14\]
   - 2011年，開始在雜誌「[月刊EXILE](../Page/月刊EXILE.md "wikilink")」中連載以舞蹈，訓練，運動和健康為主題的専欄「EXILE
     Performance
     研究所(E.P.I.)」並擔任所長\[15\]。因専欄觸發2014年4月就任為[淑德大學開設的](https://zh.wikipedia.org/wiki/淑德大學 "wikilink")[人文學科表現學科](https://zh.wikipedia.org/wiki/人文學科 "wikilink")[客席教授](https://zh.wikipedia.org/wiki/客席教授 "wikilink")\[16\]。2016年、就任為美作大學的客席准教授\[17\]

@@ -1,9 +1,9 @@
 「**NEXT MY
-SELF**」是[日本女子偶像歌手](../Page/日本.md "wikilink")[真野惠里菜的第](../Page/真野惠里菜.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年12月12日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
+SELF**」是[日本](../Page/日本.md "wikilink")女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年12月12日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要
 
-  - 「NEXT MY SELF」是[真野惠里菜的畢業單曲](../Page/真野惠里菜.md "wikilink")。
+  - 「NEXT MY SELF」是[真野惠里菜](../Page/真野惠里菜.md "wikilink")的畢業單曲。
   - 此單曲有4個版本，分別是「初回生産限定盤A」、「初回生産限定盤B」、和「初回生産限定盤C」「CD
     ONLY」。「初回生産限定盤A」和「初回生産限定盤B」收錄了「NEXT MY
     SELF」的PV和Making。

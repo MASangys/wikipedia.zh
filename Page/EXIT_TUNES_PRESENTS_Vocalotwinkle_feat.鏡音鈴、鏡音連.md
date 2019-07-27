@@ -1,5 +1,5 @@
 《**EXIT TUNES PRESENTS Vocalotwinkle feat.鏡音鈴、鏡音連**》是[EXIT
-TUNES於](../Page/EXIT_TUNES.md "wikilink")2013年3月20日發售的[鏡音鈴、連樂曲合輯](../Page/鏡音鈴、連.md "wikilink")。
+TUNES於](../Page/EXIT_TUNES.md "wikilink")2013年3月20日發售的[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")樂曲合輯。
 
 封面繪製由負責。
 

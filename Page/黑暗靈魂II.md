@@ -1,5 +1,5 @@
 是一款由日本電子遊戲公司[From
-Software製作的](https://zh.wikipedia.org/wiki/From_Software "wikilink")[開放世界](../Page/開放世界.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。本作为[魂系列的第二部作品](../Page/魂系列.md "wikilink")。
+Software製作的](https://zh.wikipedia.org/wiki/From_Software "wikilink")[開放世界](../Page/開放世界.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。本作为[魂系列](../Page/魂系列.md "wikilink")的第二部作品。
 
 本作的[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360版于](../Page/Xbox_360.md "wikilink")2014年3月上市，[Microsoft
@@ -21,7 +21,7 @@ Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 劇情
 
-承接前作的隱晦敘事風格，大部分劇情均須透過主角與[非玩家角色之間的對話及物品介紹自行拼湊](../Page/非玩家角色.md "wikilink")。遊戲與前作設定於同一世界，由各物品之解說可得知本作為前作傳火結局後經歷漫長歲月後之時代。因初始之火（First
+承接前作的隱晦敘事風格，大部分劇情均須透過主角與[非玩家角色](../Page/非玩家角色.md "wikilink")之間的對話及物品介紹自行拼湊。遊戲與前作設定於同一世界，由各物品之解說可得知本作為前作傳火結局後經歷漫長歲月後之時代。因初始之火（First
 Flame）再度減退，不死人咀咒再臨人間，主角是其中一名身負咀咒之旅客，受一名防火女（Firekeeper）之引導而前往名為多蘭古雷格（Drangleic）之地尋求解除不死人咀咒之方法，藉由收集靈魂阻遏咀咒和維持人性：受咀咒者雖有不死之身，但隨著時間過去及死亡次數增加會逐漸失去記憶及情感，最終變成遊魂（Hollow）。
 
 主角不久到達臨海村莊如蜜（Majula），當地碩果僅存的防火女兼傳令者綠衣巡使（Emerald
@@ -41,7 +41,7 @@ Abyss）之靈魂碎片，目的是散播黑暗和令初始之火熄滅，汎克
 
 2013年9月19日，谷村唯宣佈遊戲的[個人電腦版本將延後推出以確保質素](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")\[12\]；遊戲製作Takeshi
 Miyazoe本於2013年12月表示[追加下載內容並不打算推出](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")，但在2014年1月的一次會談中表示遊戲絕對有空間推出追加下載內容而且玩家的回應非常重要\[13\]。2014年6月4日，From
-Software宣佈將推出[三部曲的追加下載內容](../Page/三部曲.md "wikilink")「失落的皇冠」（The Lost
+Software宣佈將推出[三部曲](../Page/三部曲.md "wikilink")的追加下載內容「失落的皇冠」（The Lost
 Crowns），首部曲「深淵王的皇冠」（Crown of the Sunken
 King）於2014年7月22日推出\[14\]，二部曲「鐵之古王的皇冠」（Crown
 of the Old Iron King）於2014年8月26日推出，三部曲「白王的皇冠」（Crown of the Ivory
@@ -57,17 +57,17 @@ One版本的圖像將被重製、線上多人模式將有更高容量、也將�
 
 ## 評價
 
-遊戲獲得一致好評。[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic為遊戲Xbox](../Page/Metacritic.md "wikilink")
+遊戲獲得一致好評。[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")為遊戲Xbox
 360版本分別給予88.95分和91分\[18\]\[19\]、PlayStation
 3版本分別給予89.68分和91分\[20\]\[21\]、個人電腦版本分別給予
 88.30分和91分\[22\]\[23\]。
 
 [德國雜誌](https://zh.wikipedia.org/wiki/德國 "wikilink")《M\!
 Games》給予遊戲90分，評論員表示使用了超過60小時完成遊戲\[24\]；於2014年2月26日公開的幕後製作短片中，為遊戲其中一位角色配音的演員彼得·西拉分諾域斯（Peter
-Serafinowicz）表示在他30年玩電子遊戲的經歷中，從未玩過比《黑暗靈魂II》更出色的遊戲\[25\]；[Fami通給予遊戲](../Page/Fami通.md "wikilink")37/40分，四位評論員分別給予9/10、10/10、9/10和9/10分\[26\]；[IGN給予遊戲](../Page/IGN.md "wikilink")9/10分，評論員馬蒂·兆發（Marty
+Serafinowicz）表示在他30年玩電子遊戲的經歷中，從未玩過比《黑暗靈魂II》更出色的遊戲\[25\]；[Fami通](../Page/Fami通.md "wikilink")給予遊戲37/40分，四位評論員分別給予9/10、10/10、9/10和9/10分\[26\]；[IGN](../Page/IGN.md "wikilink")給予遊戲9/10分，評論員馬蒂·兆發（Marty
 Silva）表示遊戲是一部聰明、規劃巨大而且非常令人覺得值得的續集，充滿深入的設定、緊張的交鋒、聰明的線上多人和二週目元素，使人希望在完成遊戲後再次遊玩，但對死亡的懲罰使遊戲變得幾乎無法遊玩，雖然如此，出色的敵人和關卡設計使60小時的痛苦在瞬間成為過去\[27\]；[Game
 Informer成員丹尼爾](../Page/Game_Informer.md "wikilink")·達克（Daniel
-Tack）給予遊戲9.75/10分，表示遊戲從頭至尾是一場偉大的歷險，充滿奇妙的環境、既創新也恐怖的敵人、以及每次通過白色霧門時帶來的緊張感使遊戲非常值得一玩\[28\]；[Polygon成員菲爾](../Page/Polygon.md "wikilink")·高拉（Phil
+Tack）給予遊戲9.75/10分，表示遊戲從頭至尾是一場偉大的歷險，充滿奇妙的環境、既創新也恐怖的敵人、以及每次通過白色霧門時帶來的緊張感使遊戲非常值得一玩\[28\]；[Polygon](../Page/Polygon.md "wikilink")成員菲爾·高拉（Phil
 Kollar）給予遊戲9/10分，對廣闊的遊戲世界、難度和完成遊戲時的勝利感予以讚揚\[29\]。
 
 遊戲的難度亦招致批評。首次接觸《黑暗靈魂》系列的[Gamespot成員積士汀](https://zh.wikipedia.org/wiki/Gamespot "wikilink")·希活特（Justin
@@ -75,7 +75,7 @@ Haywald）給予遊戲5/10分，表示遊戲把遊玩趣味變得單調乏味，
 
 ## 行銷
 
-直至2014年3月31日，遊戲於[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[歐洲售出一百二十萬份](https://zh.wikipedia.org/wiki/歐洲 "wikilink")\[31\]；萬代南夢宮的2014年度財政報告表示遊戲在[巴西的銷情非常好](../Page/巴西.md "wikilink")\[32\]。
+直至2014年3月31日，遊戲於[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[歐洲售出一百二十萬份](https://zh.wikipedia.org/wiki/歐洲 "wikilink")\[31\]；萬代南夢宮的2014年度財政報告表示遊戲在[巴西](../Page/巴西.md "wikilink")的銷情非常好\[32\]。
 
 ## 注釋
 

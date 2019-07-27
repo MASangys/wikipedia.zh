@@ -1,4 +1,4 @@
-"**Amerika**"是[德国战车的一首单曲](../Page/德国战车.md "wikilink")，于2004年9月發行。
+"**Amerika**"是[德国战车](../Page/德国战车.md "wikilink")的一首单曲，于2004年9月發行。
 
 ## 内容
 
@@ -8,7 +8,7 @@ Amerika*。乐队认为这是对[美国化的讽刺](https://zh.wikipedia.org/wi
 
 ## 音樂影片
 
-MV展示了乐队成员在月球上穿着[阿波罗计划服装](../Page/阿波罗计划.md "wikilink")，在上面玩[弹珠台以及展示一些常规美国文化或美国产品例如香烟](https://zh.wikipedia.org/wiki/弹珠台 "wikilink")，暗示美国文化无处不在。高科技的场面跟原住民部落形成了鲜明的文化对比，在MV结尾，乐队其实一直在一个摄影棚内搭建的月球上，暗指[阿波罗登月计划阴谋论](../Page/阿波罗登月计划阴谋论.md "wikilink")。Rammstein的主唱[Till
+MV展示了乐队成员在月球上穿着[阿波罗计划](../Page/阿波罗计划.md "wikilink")服装，在上面玩[弹珠台以及展示一些常规美国文化或美国产品例如香烟](https://zh.wikipedia.org/wiki/弹珠台 "wikilink")，暗示美国文化无处不在。高科技的场面跟原住民部落形成了鲜明的文化对比，在MV结尾，乐队其实一直在一个摄影棚内搭建的月球上，暗指[阿波罗登月计划阴谋论](../Page/阿波罗登月计划阴谋论.md "wikilink")。Rammstein的主唱[Till
 Lindemann穿太空服的名称](https://zh.wikipedia.org/wiki/Till_Lindemann "wikilink")“Armstrong”指的是[尼尔·阿姆斯特朗](../Page/尼尔·阿姆斯特朗.md "wikilink")。
 
 ## 现场

@@ -1,5 +1,5 @@
 Acer Iconia A500
-是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁開發及生產](../Page/宏碁.md "wikilink")，採用[Android](../Page/Android.md "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。
+是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發及生產，採用[Android](../Page/Android.md "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。
 
 ## 硬件
 
@@ -14,7 +14,7 @@ GB [DDR2](https://zh.wikipedia.org/wiki/DDR2 "wikilink")
 [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，8、16 或 32 GB
 [快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，microSD
 卡插槽。後置 500
-萬[像素](../Page/像素.md "wikilink")[自動對焦](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")[鏡頭連](../Page/鏡頭.md "wikilink")[LED](https://zh.wikipedia.org/wiki/LED "wikilink")[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")，前置
+萬[像素](../Page/像素.md "wikilink")[自動對焦](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")連[LED](https://zh.wikipedia.org/wiki/LED "wikilink")[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")，前置
 200 萬像素視訊鏡頭。\[2\]
 
 ## 軟件

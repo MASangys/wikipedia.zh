@@ -1,5 +1,5 @@
 **Samsung Galaxy Note
-8.0**是[三星電子銷售的](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。於2013年4月11日在[美國推出](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+8.0**是[三星電子](../Page/三星電子.md "wikilink")銷售的[Android](../Page/Android.md "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。於2013年4月11日在[美國推出](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 ## 參見
 

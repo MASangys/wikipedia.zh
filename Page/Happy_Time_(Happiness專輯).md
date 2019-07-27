@@ -16,7 +16,7 @@ Happiness的首張專輯。分為初回限定盤（CD＋DVD）、通常盤（只
     （作詞：[NaNa★MUSiC](https://zh.wikipedia.org/wiki/NaNa_\(歌手\) "wikilink")　作曲・編曲：UTA）
       -
         4th單曲。
-        [東京電視台系](../Page/東京電視台.md "wikilink")『[ピラメキーノ](https://zh.wikipedia.org/wiki/ピラメキーノ "wikilink")』5月度結尾曲
+        [東京電視台](../Page/東京電視台.md "wikilink")系『[ピラメキーノ](https://zh.wikipedia.org/wiki/ピラメキーノ "wikilink")』5月度結尾曲
 3.  **[朋友](../Page/朋友_\(Happiness單曲\).md "wikilink")**
     （作詞：[Kiyoshi
     Matsuo](https://zh.wikipedia.org/wiki/松尾潔 "wikilink")　作曲：Kiyoshi

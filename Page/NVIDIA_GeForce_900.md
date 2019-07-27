@@ -1,5 +1,5 @@
 **NVIDIA GeForce
-900系列**，是[輝達研發的](https://zh.wikipedia.org/wiki/輝達 "wikilink")[圖形處理器產品系列](../Page/圖形處理器.md "wikilink")，用於[桌上型電腦平台和](../Page/桌上型電腦.md "wikilink")[筆記型電腦平台](../Page/筆記型電腦.md "wikilink")。此代顯示核心將採用第二代Maxwell微架構（晶片代號將以『GM』開頭），以[蘇格蘭](../Page/蘇格蘭.md "wikilink")[理論物理學家](https://zh.wikipedia.org/wiki/理論物理學 "wikilink")[詹姆斯·克拉克·麦克斯韦的名字命名](../Page/詹姆斯·克拉克·麦克斯韦.md "wikilink")。NVIDIA宣佈新一代Maxwell核心的首發旗艦級產品將被命名為GeForce
+900系列**，是[輝達研發的](https://zh.wikipedia.org/wiki/輝達 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")產品系列，用於[桌上型電腦](../Page/桌上型電腦.md "wikilink")平台和[筆記型電腦](../Page/筆記型電腦.md "wikilink")平台。此代顯示核心將採用第二代Maxwell微架構（晶片代號將以『GM』開頭），以[蘇格蘭](../Page/蘇格蘭.md "wikilink")[理論物理學家](https://zh.wikipedia.org/wiki/理論物理學 "wikilink")[詹姆斯·克拉克·麦克斯韦](../Page/詹姆斯·克拉克·麦克斯韦.md "wikilink")的名字命名。NVIDIA宣佈新一代Maxwell核心的首發旗艦級產品將被命名為GeForce
 900系列，分別為桌面平台的GTX 970、GTX 980、GTX 980 Ti、GTX TITAN X、GTX 950和GTX
 960以及行動平台的GTX 960M GTX 970M和GTX 980M、GTX 980
 Notebook。\[1\]\[2\]GeForce
@@ -87,7 +87,7 @@ X之外，其餘的顯示卡會有不同的廠商生產自製顯卡，還會有�
 
 GeForce GTX 970
 的規格參數爭議主要在於[顯示記憶體](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")、ROP單元、二級[快取的數量](https://zh.wikipedia.org/wiki/快取 "wikilink")/容量上實際產品與發布宣傳時公佈的不一致。其中，特別是顯示記憶體存取結構，因為沒詳細公佈出來，而導致用家在一些使用場合上觀察到顯示記憶體存取效能上有差異：GTX
-970搭載了4[GiB容量的](https://zh.wikipedia.org/wiki/GiB "wikilink")[GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")，而實際上只有3.5GiB的容量可以全速存取，越過了3.5GiB容量的界限以後的區塊幾乎沒有存取動作，儘管一般使用甚少會越過此界限，但使用這剩餘的0.5GiB容量的顯示記憶體存取效能明顯下降了。其後越來越多的效能測試以及調查結果，使輝達承認，GTX
+970搭載了4[GiB容量的](https://zh.wikipedia.org/wiki/GiB "wikilink")[GDDR5](../Page/GDDR5.md "wikilink")顯示記憶體，而實際上只有3.5GiB的容量可以全速存取，越過了3.5GiB容量的界限以後的區塊幾乎沒有存取動作，儘管一般使用甚少會越過此界限，但使用這剩餘的0.5GiB容量的顯示記憶體存取效能明顯下降了。其後越來越多的效能測試以及調查結果，使輝達承認，GTX
 970的顯示記憶體的使用超過3.5GiB容量界限以後效能下降的事實，並對此做出解釋道，顯示卡正式發售前沒有事先通知或公佈Maxwell架構的顯示核心更精細的核心單元遮蔽方式（這種遮蔽方式更有利於良品率和成本控制）。\[20\]\[21\]\[22\]\[23\]
 
 顯示核心硬體後端的參數，最初輝達的發布會上顯示，GTX 970和GTX
@@ -96,7 +96,7 @@ GeForce GTX 970
 970效能測試結果，而輝達也對規格參數錯誤一事做出道歉並承諾下次會準確公佈各型號圖形處理器的參數，並在驅動程式的開發上對GTX
 970的顯示記憶體使用作特別的最佳化，盡可能避免使用4GiB中最後512MiB的低速區段以減輕其性能衝擊。\[25\]然而輝達又改口稱，因內部的溝通不暢，此前發布供GeForce900系列使用的[驅動程式中實際已對GTX](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")
 970的顯示記憶體使用做過最佳化，不再需要特別對待。\[26\]而輝達的討論社區中也有工作人員稱會對欲退貨的GTX
-970買家提供協助\[27\]\[28\]2015年2月26日，輝達的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[黃仁勳在輝達的官方](../Page/黃仁勳.md "wikilink")[部落格上對該起失誤事件做出正式道歉](https://zh.wikipedia.org/wiki/部落格 "wikilink")。\[29\]\[30\]
+970買家提供協助\[27\]\[28\]2015年2月26日，輝達的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[黃仁勳](../Page/黃仁勳.md "wikilink")在輝達的官方[部落格上對該起失誤事件做出正式道歉](https://zh.wikipedia.org/wiki/部落格 "wikilink")。\[29\]\[30\]
 
 輝達發布的勘誤聲明中，表示SMM中各單元是可進行單獨的遮蔽，每一個單元包括256[KiB的二級快取和](https://zh.wikipedia.org/wiki/KiB "wikilink")8個ROP單元後端，而遮蔽這些單元並不影響顯示記憶體的[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")。\[31\]這樣做的代價是記憶體匯流排被分為高速區段和低速區段，這兩段不能夠同時進行存取操作，最多只能在一個區段進行讀操作的同時另一區段進行寫操作，不能同時進行存取操作，是因為二級快取和ROP單元都管理著這些GDDR5記憶體控制器以共用在兩個GDDR5記憶體控制器和它們自己之間的讀迴圈通道和資料寫入匯流排，即一個64位元的記憶體控制器管轄最後512MiB慢速區段的和鄰近的3.5GiB高速區段的512MiB，共同由一組8個ROP單元和這0.25MiB的二級快取連接使用。\[32\]這樣做使得GTX
 970可使用4GiB的顯示記憶體而非3GiB。簡單來說就是GTX

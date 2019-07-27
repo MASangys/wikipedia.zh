@@ -1,4 +1,4 @@
-《**ZOO**》是東映ビデオ在2005年3月19日播映的電視電影。原作是[日本小說家](https://zh.wikipedia.org/wiki/日本小說家 "wikilink")[乙一的](../Page/乙一.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")「ZOO」。電影收錄了作品中的五個短篇故事，包括「小飾與陽子」、「SEVEN
+《**ZOO**》是東映ビデオ在2005年3月19日播映的電視電影。原作是[日本小說家](https://zh.wikipedia.org/wiki/日本小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")「ZOO」。電影收錄了作品中的五個短篇故事，包括「小飾與陽子」、「SEVEN
 ROOMS」、「SO-far」、「向陽之詩」和「ZOO」。
 
 ## 故事內容

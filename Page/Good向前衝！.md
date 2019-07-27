@@ -20,7 +20,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
   - 此外，與專輯同時發行的單曲「[接·吻·高·手 ～KISS YOUR MIND～/S.O.S (Smile On
     Smile)](https://zh.wikipedia.org/wiki/接·吻·高·手_～KISS_YOUR_MIND～/S.O.S_\(Smile_On_Smile\) "wikilink")」、DVD「[YOSHIO
     -NEW
-    MEMBER-](https://zh.wikipedia.org/wiki/YOSHIO_-NEW_MEMBER- "wikilink")」於公信榜單曲週排行榜、公信榜錄影帶週排行榜取得第1位。繼[濱崎步和](../Page/濱崎步.md "wikilink")[KAT-TUN後](../Page/KAT-TUN.md "wikilink")，史上第三個同時達成了三項公信榜冠軍的團體(歌手)。
+    MEMBER-](https://zh.wikipedia.org/wiki/YOSHIO_-NEW_MEMBER- "wikilink")」於公信榜單曲週排行榜、公信榜錄影帶週排行榜取得第1位。繼[濱崎步](../Page/濱崎步.md "wikilink")和[KAT-TUN](../Page/KAT-TUN.md "wikilink")後，史上第三個同時達成了三項公信榜冠軍的團體(歌手)。
 
 ## 收錄內容
 
@@ -33,34 +33,34 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 3.  **[WANNA
     BEEE\!\!\!](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")**
       -
-        4th單曲。[TBS電視台電視劇](../Page/TBS電視台.md "wikilink")「[Beginners\!](../Page/Beginners!.md "wikilink")」的主題曲
+        4th單曲。[TBS電視台](../Page/TBS電視台.md "wikilink")電視劇「[Beginners\!](../Page/Beginners!.md "wikilink")」的主題曲
 4.  **[命運女孩](https://zh.wikipedia.org/wiki/My_Resistance_-真實的存在-/命運女孩 "wikilink")**（運命Girl）
       -
         6th單曲。7\&I 「情人節展覽會」的電視廣告歌曲
 5.  **Strawberry Dance**
 6.  **xLunaSx**
       -
-        成員[藤谷太輔主唱](../Page/藤谷太輔.md "wikilink")
+        成員[藤谷太輔](../Page/藤谷太輔.md "wikilink")主唱
 7.  **Forza\!**
       -
-        成員[千賀健永](../Page/千賀健永.md "wikilink")、[宮田俊哉](../Page/宮田俊哉.md "wikilink")、[橫尾涉](https://zh.wikipedia.org/wiki/橫尾涉 "wikilink")、[玉森裕太](../Page/玉森裕太.md "wikilink")、[二階堂高嗣主唱](../Page/二階堂高嗣.md "wikilink")
+        成員[千賀健永](../Page/千賀健永.md "wikilink")、[宮田俊哉](../Page/宮田俊哉.md "wikilink")、[橫尾涉](https://zh.wikipedia.org/wiki/橫尾涉 "wikilink")、[玉森裕太](../Page/玉森裕太.md "wikilink")、[二階堂高嗣](../Page/二階堂高嗣.md "wikilink")主唱
 8.  **[Shake It
     Up](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")**
       -
-        4th單曲。[日本電視台電視劇](../Page/日本電視台.md "wikilink")「[私立馬鹿蘭高校](../Page/私立馬鹿蘭高校.md "wikilink")」的主題曲
+        4th單曲。[日本電視台](../Page/日本電視台.md "wikilink")電視劇「[私立馬鹿蘭高校](../Page/私立馬鹿蘭高校.md "wikilink")」的主題曲
 9.  **Chance Chance Baybee**
       -
-        成員[千賀健永](../Page/千賀健永.md "wikilink")、[宮田俊哉](../Page/宮田俊哉.md "wikilink")、[橫尾涉](https://zh.wikipedia.org/wiki/橫尾涉 "wikilink")、[二階堂高嗣主唱](../Page/二階堂高嗣.md "wikilink")
+        成員[千賀健永](../Page/千賀健永.md "wikilink")、[宮田俊哉](../Page/宮田俊哉.md "wikilink")、[橫尾涉](https://zh.wikipedia.org/wiki/橫尾涉 "wikilink")、[二階堂高嗣](../Page/二階堂高嗣.md "wikilink")主唱
 10. **Give me...**
       -
-        成員[北山宏光主唱](../Page/北山宏光.md "wikilink")
+        成員[北山宏光](../Page/北山宏光.md "wikilink")主唱
 11. **[愛的節奏](../Page/愛的節奏.md "wikilink") -Album mix-**
       -
         5th單曲。
 12. **[My Resistance
     -真實的存在-](https://zh.wikipedia.org/wiki/My_Resistance_-真實的存在-/命運女孩 "wikilink")**
       -
-        6th單曲。[朝日電視台電視劇](../Page/朝日電視台.md "wikilink")「[信長的主廚](../Page/信長的主廚.md "wikilink")」的主題曲
+        6th單曲。[朝日電視台](../Page/朝日電視台.md "wikilink")電視劇「[信長的主廚](../Page/信長的主廚.md "wikilink")」的主題曲
 13. **Mother Moon**
 14. **JET\! SET\!\! GO\!\!\!**
       -
@@ -80,15 +80,15 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 3.  **海賊**
 4.  **Think u x.**
       -
-        成員[藤谷太輔主唱](../Page/藤谷太輔.md "wikilink")
+        成員[藤谷太輔](../Page/藤谷太輔.md "wikilink")主唱
 5.  **Brand New Season**
 6.  **ROCK U**
       -
-        成員[北山宏光主唱](../Page/北山宏光.md "wikilink")
+        成員[北山宏光](../Page/北山宏光.md "wikilink")主唱
 7.  **My Love**
 8.  **Rocking Party**
       -
-        成員[北山宏光](../Page/北山宏光.md "wikilink")、[藤谷太輔](../Page/藤谷太輔.md "wikilink")、[玉森裕太主唱](../Page/玉森裕太.md "wikilink")
+        成員[北山宏光](../Page/北山宏光.md "wikilink")、[藤谷太輔](../Page/藤谷太輔.md "wikilink")、[玉森裕太](../Page/玉森裕太.md "wikilink")主唱
 9.  **Kis-My-LAND**
 
 ### DVD（Kis-My-History盤）

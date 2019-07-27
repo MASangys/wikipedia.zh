@@ -1,5 +1,5 @@
 **Source Code Pro**是由Paul D. Hunt為[Adobe
-Systems所設計的等寬無襯線](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[字体](../Page/字体.md "wikilink")。這是Adobe的第二個[开放源代码字體家族](../Page/开放源代码.md "wikilink")，以[SIL開源字體授權進行散佈](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]。
+Systems所設計的等寬無襯線](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[字体](../Page/字体.md "wikilink")。這是Adobe的第二個[开放源代码](../Page/开放源代码.md "wikilink")字體家族，以[SIL開源字體授權進行散佈](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]。
 
 Source Code Pro是一套設計用於程式設計環境中的等寬OpenType字體。這個字體也是設計來與[Source Sans
 Pro家族互補](../Page/Source_Sans_Pro.md "wikilink")。它提供了六種字重（常规、特細、細、半粗、粗、黑）。

@@ -7,7 +7,7 @@ OK ROCK的第](../Page/ONE_OK_ROCK.md "wikilink")7張單曲，於2012年8月22�
   - 與前作《[Re:make/NO
     SCARED](https://zh.wikipedia.org/wiki/Re:make/NO_SCARED "wikilink")》相隔約1年1個月的新作。
   - 標題曲《**The
-    Beginning**》為[佐藤健主演電影](../Page/佐藤健.md "wikilink")「[浪客劍心](https://zh.wikipedia.org/wiki/神劍闖江湖_\(2012年電影\) "wikilink")」的主題曲。
+    Beginning**》為[佐藤健](../Page/佐藤健.md "wikilink")主演電影「[浪客劍心](https://zh.wikipedia.org/wiki/神劍闖江湖_\(2012年電影\) "wikilink")」的主題曲。
   - ONE OK ROCK最高銷量的單曲，登場回數亦達到自身單曲最長的20周\[1\]。
   - **The
     Beginning**的[Youtube影片為該樂團首支突破一億點閱率的影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[2\]。

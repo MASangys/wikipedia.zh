@@ -1,9 +1,9 @@
 《**GATE
-奇幻自衛隊**》（，中文直譯為：**门：自卫队在彼之地如此战斗**）是由日本小说家[柳內巧编写的](../Page/柳內巧.md "wikilink")[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。續作《GATE第二季：自衛隊在彼之海如此戰鬥》（）連載中。截至2018年4月全系列已售賣了445萬本。
+奇幻自衛隊**》（，中文直譯為：**门：自卫队在彼之地如此战斗**）是由日本小说家[柳內巧](../Page/柳內巧.md "wikilink")编写的[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。續作《GATE第二季：自衛隊在彼之海如此戰鬥》（）連載中。截至2018年4月全系列已售賣了445萬本。
 
 ## 劇情簡介
 
-20XX年8月，[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[銀座突然打開了](../Page/銀座.md "wikilink")「門（）」並從中出現了大量的怪物及仿若古羅馬的騎士組成的軍隊，殺死了大量的平民，後稱此事件為「銀座事件」。
+20XX年8月，[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[銀座](../Page/銀座.md "wikilink")突然打開了「門（）」並從中出現了大量的怪物及仿若古羅馬的騎士組成的軍隊，殺死了大量的平民，後稱此事件為「銀座事件」。
 
 在事件發生後的七天，擊敗敵方軍隊並順利攻佔異世界的「門」的日本政府，稱「門」另一邊的幻想世界為「特別地區」（簡稱「特區」），同時為了調查及防止類似「銀座事件」的情況再次發生而派出自衛隊（官方稱之為：特地派遣），確保「門」的掌控。
 
@@ -36,7 +36,7 @@
 <!-- end list -->
 
   -
-    死與斷罪與狂氣與戰鬥之神俄摩拉的使徒。敬稱是「聖下」。外表看上去像是十多歲的女孩但實際年齡為961歲，不老不死且身穿類似[哥德蘿莉的神官服](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")，使用需要數個成年人合力才能抬起的[斧槍戰鬥](../Page/斧槍.md "wikilink")。對伊丹感興趣也有好感，有時會誘惑他。
+    死與斷罪與狂氣與戰鬥之神俄摩拉的使徒。敬稱是「聖下」。外表看上去像是十多歲的女孩但實際年齡為961歲，不老不死且身穿類似[哥德蘿莉的神官服](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")，使用需要數個成年人合力才能抬起的[斧槍](../Page/斧槍.md "wikilink")戰鬥。對伊丹感興趣也有好感，有時會誘惑他。
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 ## 用語解說
 
   - 門（）
-    又稱GATE，於東京[銀座出現](../Page/銀座.md "wikilink")，可自由往來，其門後另一個世界被日本政府稱之為特地，門於20XX年8月突然出現，於[銀座中央區](../Page/銀座.md "wikilink")6丁目及4丁目交叉口旁，AM11：40門出現，AM11:50門形成，同時，發生《銀座事件》，[日本及各國重視門後的特地所擁有的利益](../Page/日本.md "wikilink")。
+    又稱GATE，於東京[銀座](../Page/銀座.md "wikilink")出現，可自由往來，其門後另一個世界被日本政府稱之為特地，門於20XX年8月突然出現，於[銀座](../Page/銀座.md "wikilink")中央區6丁目及4丁目交叉口旁，AM11：40門出現，AM11:50門形成，同時，發生《銀座事件》，[日本](../Page/日本.md "wikilink")及各國重視門後的特地所擁有的利益。
 
 <!-- end list -->
 
@@ -298,8 +298,8 @@
 
 <!-- end list -->
 
-  - [74式戰車E型](../Page/74式戰車.md "wikilink")
-  - [74式戰車G型TUSK](../Page/74式戰車.md "wikilink")（特區改裝版，加上美國援助的戰車城市生存套件）
+  - [74式戰車](../Page/74式戰車.md "wikilink")E型
+  - [74式戰車](../Page/74式戰車.md "wikilink")G型TUSK（特區改裝版，加上美國援助的戰車城市生存套件）
   - [90式戰車](../Page/90式戰車_\(日本\).md "wikilink")(漫畫版)
   - [10式戰車](../Page/10式戰車.md "wikilink")(漫畫版)
   - [75式自走榴彈砲](https://zh.wikipedia.org/wiki/75式155毫米自走榴彈砲 "wikilink")
@@ -631,7 +631,7 @@
 ## 漫畫版
 
   -
-    《》，由[竿尾悟作畫](../Page/竿尾悟.md "wikilink")，每月30日更新。
+    《》，由[竿尾悟](../Page/竿尾悟.md "wikilink")作畫，每月30日更新。
 
 <table>
 <thead>
@@ -1154,7 +1154,7 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
 | 日本全國                                                              | [萬代頻道](../Page/萬代頻道.md "wikilink")                            | 2015年7月8日－9月23日   | 星期三 12時00分 更新                                                                                                 | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink") |         |
 | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink") |                                                               |                   |                                                                                                               |                                                       |         |
 | [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO直播 "wikilink") | 星期三 25時00分－25時30分                                             |                   |                                                                                                               |                                                       |         |
-| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")             | 2015年7月10日－9月25日                                              | 星期五 24時30分－25時00分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")              |         |
+| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")             | 2015年7月10日－9月25日                                              | 星期五 24時30分－25時00分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+](../Page/ANIME+.md "wikilink")節目              |         |
 | [AT-X](../Page/AT-X.md "wikilink")                                | 2015年7月11日－9月26日                                              | 星期六 24時30分－25時00分 | 有重播                                                                                                           |                                                       |         |
 | Channel NECO                                                      | 2015年10月30日－2016年1月22日                                        | 星期五 18時00分－18時30分 | 有重播                                                                                                           |                                                       |         |
 | 第2期                                                               |                                                               |                   |                                                                                                               |                                                       |         |

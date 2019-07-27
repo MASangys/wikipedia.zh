@@ -1,4 +1,4 @@
-是由[史克威尔艾尼克斯和](../Page/史克威尔艾尼克斯.md "wikilink")[GREE社交网络开发的日本电子游戏](https://zh.wikipedia.org/wiki/GREE "wikilink")。游戏是[最终幻想系列的第二部社交游戏](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")，也是第二部和GREE共同开发的电子游戏。
+是由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")和[GREE社交网络开发的日本电子游戏](https://zh.wikipedia.org/wiki/GREE "wikilink")。游戏是[最终幻想系列的第二部社交游戏](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")，也是第二部和GREE共同开发的电子游戏。
 
 游戏为[卡牌游戏](https://zh.wikipedia.org/wiki/卡牌游戏 "wikilink")，使用了最终幻想前作的艺术资产、角色与战斗系统。玩家可以和系列的敌人和头目战斗，获得奖励与等级，也可以与其他玩家对战。
 

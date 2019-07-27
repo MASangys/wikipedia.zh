@@ -1,4 +1,4 @@
-**伊予西條IC**（平假名：いよさいじょうインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[西條市的](../Page/西條市.md "wikilink")[松山自動車道之](../Page/松山自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**伊予西條IC**（平假名：いよさいじょうインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[西條市](../Page/西條市.md "wikilink")的[松山自動車道](../Page/松山自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -14,7 +14,7 @@
 ## 歷史
 
   - 1991年3月28日 -
-    [松山自動車道伊予西條IC至](../Page/松山自動車道.md "wikilink")[土居IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
+    [松山自動車道](../Page/松山自動車道.md "wikilink")伊予西條IC至[土居IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
   - 1994年11月16日 -
     松山自動車道[川內IC至伊予西條IC之間開通](https://zh.wikipedia.org/wiki/川內IC "wikilink")。
 
@@ -22,7 +22,7 @@
 
   - [石鎚山](../Page/石鎚山.md "wikilink")
   - [石鎚神社](https://zh.wikipedia.org/wiki/石鎚神社 "wikilink")
-  - [四國八十八箇所靈場第](../Page/四國八十八箇所.md "wikilink")60號禮所[橫峰寺](https://zh.wikipedia.org/wiki/橫峰寺 "wikilink")
+  - [四國八十八箇所](../Page/四國八十八箇所.md "wikilink")靈場第60號禮所[橫峰寺](https://zh.wikipedia.org/wiki/橫峰寺 "wikilink")
 
 ## 鄰近設施
 

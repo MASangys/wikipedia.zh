@@ -1,8 +1,8 @@
-**东芝FlashAir**存储卡是一种具备[SD卡接口和无线](../Page/SD卡.md "wikilink")[WiFi功能的存储卡](https://zh.wikipedia.org/wiki/WiFi "wikilink")。与[Eye-Fi的推送方式不同的是](../Page/Eye-Fi.md "wikilink")，FlashAir会自行释放出一个[Wi-Fi热点](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")，需要智能设备连接到热点上读取图片。
+**东芝FlashAir**存储卡是一种具备[SD卡](../Page/SD卡.md "wikilink")接口和无线[WiFi功能的存储卡](https://zh.wikipedia.org/wiki/WiFi "wikilink")。与[Eye-Fi](../Page/Eye-Fi.md "wikilink")的推送方式不同的是，FlashAir会自行释放出一个[Wi-Fi热点](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")，需要智能设备连接到热点上读取图片。
 
 ## 概述
 
-无线存储卡目的在于将存储于其中的图片等信息通过WiFi等方式与智能设备，如手机平板计算机等进行分享，达到拍摄后实时欣赏的目的。市面上成熟的产品如[Eye-Fi已经经营多年](../Page/Eye-Fi.md "wikilink")，但是其需要在特定客户端安装特定程序使得临时性的分享变得复杂。
+无线存储卡目的在于将存储于其中的图片等信息通过WiFi等方式与智能设备，如手机平板计算机等进行分享，达到拍摄后实时欣赏的目的。市面上成熟的产品如[Eye-Fi](../Page/Eye-Fi.md "wikilink")已经经营多年，但是其需要在特定客户端安装特定程序使得临时性的分享变得复杂。
 
 东芝公司2012年3月推出FlashAir产品，初代具备8G容量，Class6级别写入速度。其在2013年7月追加二代产品，直接读取速度提升到Class10，无线读取速率据称提升30%\[1\]。
 
@@ -11,7 +11,7 @@
 ## 参见
 
   - [SD卡](../Page/SD卡.md "wikilink")
-      - [Eye-Fi一种知名的无线SD卡](../Page/Eye-Fi.md "wikilink")
+      - [Eye-Fi](../Page/Eye-Fi.md "wikilink")一种知名的无线SD卡
       - [ez Share](https://zh.wikipedia.org/wiki/ez_Share "wikilink")
         另外的无线存储卡解决方案
   - [PQI Air

@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")12張原創專輯，2013年1月23日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第12張原創專輯，2013年1月23日發行。
 
 ## 簡介
 
@@ -13,7 +13,7 @@
   - 除了CD
     ONLY盤外，另外發行『CD+DVD盤』的版本。DVD收錄內容為：由團員以各種手法徹底剖析《GUILTY》，更收錄取自2012.12.10
     Zeep Diver City演唱會現場影像一共長達84分鐘精彩內容。台灣有發行CD+DVD盤的『台壓版』。
-  - [廣告由女演員](../Page/廣告.md "wikilink")[平愛梨演出](../Page/平愛梨.md "wikilink")，共3種版本。
+  - [廣告](../Page/廣告.md "wikilink")由女演員[平愛梨](../Page/平愛梨.md "wikilink")演出，共3種版本。
   - 專輯封面LOGO由[TERU所設計](https://zh.wikipedia.org/wiki/TERU "wikilink")，GLAY的原創專輯中，自『[pure
     soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")』發行以來相隔15年的時間，專輯封面沒有使用團員肖像。
 

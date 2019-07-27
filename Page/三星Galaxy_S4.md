@@ -267,8 +267,8 @@ S4同期的最大競爭對手是Apple [iPhone
   - **系統內置應用程式過大**：由於系統內置的ChatOn、S Travel等程式，以致16GB版本的可用空間僅有8
     [GB](https://zh.wikipedia.org/wiki/GB "wikilink")，近50%儲存容量都被手機的作業系統及內建應用程式佔據，限制用戶可使用的儲存空間\[18\]\[19\]。三星回應「目的為了提供更高的顯示解析度及更強大的功能」，而「為了提供使用者最佳的行動產品經驗，三星讓
     Galaxy S4
-    提供[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")[記憶卡插槽](../Page/記憶卡.md "wikilink")，以擴充記憶容量」\[20\]。
-  - **不允許 app 安裝在記憶卡**：[CNET報導指出](../Page/CNET.md "wikilink")，三星並不允許 app
+    提供[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")[記憶卡](../Page/記憶卡.md "wikilink")插槽，以擴充記憶容量」\[20\]。
+  - **不允許 app 安裝在記憶卡**：[CNET](../Page/CNET.md "wikilink")報導指出，三星並不允許 app
     安裝在記憶卡上，導致很多遊戲無法安裝在S4上。一些先進的遊戲需要大量記憶空間支援，例如《Real Racing 3》便需要 1.2GB
     的手機空間支援。因此 S4 若只剩 8GB
     可用硬碟空間，很容易就不夠用\[21\]。事後三星於更新時支援應用程式可移至記憶卡的設計，但該功能僅限某些特定的應用程式，沒太大分別。\[22\]。
@@ -287,13 +287,13 @@ S4同期的最大競爭對手是Apple [iPhone
 
 <!-- end list -->
 
-  - 2013年7月28日，[香港的杜先生在使用Galaxy](../Page/香港.md "wikilink")
+  - 2013年7月28日，[香港](../Page/香港.md "wikilink")的杜先生在使用Galaxy
     S4時突然過熱爆炸引起大火，全屋燒毀燻黑\[25\]\[26\]。
 
 <!-- end list -->
 
-  - 2013年8月13日，[巴基斯坦一位機主的Galaxy](../Page/巴基斯坦.md "wikilink")
-    S4在充電時候發現有燒焦味，在檢查時發現[USB接頭有燒焦現象](../Page/USB.md "wikilink")\[27\]。
+  - 2013年8月13日，[巴基斯坦](../Page/巴基斯坦.md "wikilink")一位機主的Galaxy
+    S4在充電時候發現有燒焦味，在檢查時發現[USB](../Page/USB.md "wikilink")接頭有燒焦現象\[27\]。
 
 <!-- end list -->
 
@@ -330,10 +330,10 @@ S4同期的最大競爭對手是Apple [iPhone
 
 <!-- end list -->
 
-  - 2013年12月7日，[加拿大一名網友](../Page/加拿大.md "wikilink") Ghostlyrich 的Galaxy
+  - 2013年12月7日，[加拿大](../Page/加拿大.md "wikilink")一名網友 Ghostlyrich 的Galaxy
     S4起火燃燒，他使用的是原廠配給的三星充電器，但三星事後要他簽署協議書，承諾刪除影片、不追究法律責任及不公開協議內容才肯換機\[38\]，因此受害者拍下影片上網抱怨，引起其他網友共鳴，抨擊三星服務品質不佳，還有網友嘲笑：「Galaxy
     S4
-    可以改名為『C4』」\[39\]\[40\]。事件發生後數天，美國[諾基亞在](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Twitter上向受害人承諾送他一部全新](../Page/Twitter.md "wikilink")[Nokia
+    可以改名為『C4』」\[39\]\[40\]。事件發生後數天，美國[諾基亞在](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向受害人承諾送他一部全新[Nokia
     Lumia手機](https://zh.wikipedia.org/wiki/Nokia_Lumia "wikilink")，更聲言會幫他處理電信公司方面的複雜手續\[41\]。
 
 <!-- end list -->

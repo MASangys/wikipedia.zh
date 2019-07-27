@@ -8,7 +8,7 @@ Store上架審查機制後，如果是付費軟體，銷售總額蘋果抽30%，
 
 ## 开发历史
 
-2007年10月17日，乔布斯在苹果网站的一封公开信上宣布[软件开发工具包于](../Page/软件开发工具包.md "wikilink")2008年2月提供给第三方开发商。软件开发工具包于2008年3月6日发布，允许开发者开发[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
+2007年10月17日，乔布斯在苹果网站的一封公开信上宣布[软件开发工具包](../Page/软件开发工具包.md "wikilink")于2008年2月提供给第三方开发商。软件开发工具包于2008年3月6日发布，允许开发者开发[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
 touch应用程序](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")，并且通过“iPhone模拟器”对其进行测试。
 
 自从[Xcode](../Page/Xcode.md "wikilink")
@@ -344,8 +344,8 @@ X核心演变而来，因此开发工具也是基于[Xcode](../Page/Xcode.md "wi
     events and controls)、加速支持(Accelerometer support)、查看等级(View
     hierarchy)、[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")（i18n）(Localization
     (i18n))、[相机支持](https://zh.wikipedia.org/wiki/相机 "wikilink")
-  - [媒体](https://zh.wikipedia.org/wiki/媒体 "wikilink")：[OpenAL](../Page/OpenAL.md "wikilink")、[混音及](../Page/混音.md "wikilink")[录音](https://zh.wikipedia.org/wiki/录音 "wikilink")(Audio
-    mixing and recording)、[视频播放](../Page/视频.md "wikilink")、图像文件格式(Image
+  - [媒体](https://zh.wikipedia.org/wiki/媒体 "wikilink")：[OpenAL](../Page/OpenAL.md "wikilink")、[混音](../Page/混音.md "wikilink")及[录音](https://zh.wikipedia.org/wiki/录音 "wikilink")(Audio
+    mixing and recording)、[视频](../Page/视频.md "wikilink")播放、图像文件格式(Image
     file
     formats)、[Quartz](https://zh.wikipedia.org/wiki/Quartz "wikilink")、[Core
     Animation](https://zh.wikipedia.org/wiki/Core_Animation "wikilink")、[OpenGL
@@ -355,7 +355,7 @@ X核心演变而来，因此开发工具也是基于[Xcode](../Page/Xcode.md "wi
     X核心](https://zh.wikipedia.org/wiki/OS_X "wikilink")：[TCP](https://zh.wikipedia.org/wiki/TCP "wikilink")/[IP协议](https://zh.wikipedia.org/wiki/IP协议 "wikilink")、套接字(Sockets)、电源管理、文件系统(File
     system)、安全
 
-**模拟器：**iOS软件开发工具包中包含和[Xcode工具一样的iOS模拟器](../Page/Xcode.md "wikilink")，让开发人员在计算机上拥有仿真的外观和感觉。最初它被称为阿斯仿真器（Aspen
+**模拟器：**iOS软件开发工具包中包含和[Xcode](../Page/Xcode.md "wikilink")工具一样的iOS模拟器，让开发人员在计算机上拥有仿真的外观和感觉。最初它被称为阿斯仿真器（Aspen
 Simulator），在 Beta2 版本中它被重新命名。但iOS模拟器并不是一个用于运行x86目标代码的工具。
 
 **Core Location：**Core Location是一个软件框架，主要用来检测 iOS
@@ -367,7 +367,7 @@ Simulator），在 Beta2 版本中它被重新命名。但iOS模拟器并不是�
 Canvas](../Page/Canvas_\(HTML元素\).md "wikilink")。
 
 **Flash：**[Flash Professional
-CS5内曾经一度被中断开发的iOS软件输出功能](../Page/Adobe_Creative_Suite.md "wikilink")，由于现在[Apple已经开放第三方开发工具的使用](https://zh.wikipedia.org/wiki/Apple "wikilink")，[Adobe已经决定恢复此功能的开发作业](../Page/Adobe.md "wikilink")。不过[Apple目前仍未开放在浏览器内执行](https://zh.wikipedia.org/wiki/Apple "wikilink")[Flash内容](https://zh.wikipedia.org/wiki/Flash "wikilink")。现时可以在iOS[越狱之后安装第三方Flash软件](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。
+CS5内曾经一度被中断开发的iOS软件输出功能](../Page/Adobe_Creative_Suite.md "wikilink")，由于现在[Apple已经开放第三方开发工具的使用](https://zh.wikipedia.org/wiki/Apple "wikilink")，[Adobe](../Page/Adobe.md "wikilink")已经决定恢复此功能的开发作业。不过[Apple目前仍未开放在浏览器内执行](https://zh.wikipedia.org/wiki/Apple "wikilink")[Flash内容](https://zh.wikipedia.org/wiki/Flash "wikilink")。现时可以在iOS[越狱之后安装第三方Flash软件](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。
 
 **Java：**苹果至今仍没有宣布任何让iPhone运行[Java的计划](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")，因为这属于iOS软件开发协议所规定的范畴以外。协议规定“无论如何,应用程序都不能自己安装或者启动其他任何可执行的代码,包括没有限制的插件架构的使用,别的架构,应用程序接口或者其他任何形式。除了苹果发行的应用程序接口和内置的[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink"),所有翻译码都不能经应用程序下载或使用。”但[Oracle已宣布其将会发布能在iPhone上运行的](https://zh.wikipedia.org/wiki/Oracle "wikilink")[Java虚拟机](../Page/Java虚拟机.md "wikilink")(JVM)的计划，它是基于Java的[J2ME](https://zh.wikipedia.org/wiki/J2ME "wikilink")(Micro
 Edition)版本。这将让用Java应用程序得以在iPhone和iPod

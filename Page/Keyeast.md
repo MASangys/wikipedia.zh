@@ -1,12 +1,12 @@
 *'
-KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由[韓流知名演員](../Page/韓流.md "wikilink")[裴勇浚創辦](../Page/裴勇浚.md "wikilink")，公司目標是同時進軍文化娛樂以及傳媒兩大領域，希望成為像[AOL時代華納和](https://zh.wikipedia.org/wiki/AOL時代華納 "wikilink")[迪士尼那樣的娛樂多媒體公司](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")。因此，除了歌手演員的經紀業務、新人培訓外，還投资涉足多項领域，包括：影视制作、有线电视频道DATV
+KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由[韓流](../Page/韓流.md "wikilink")知名演員[裴勇浚](../Page/裴勇浚.md "wikilink")創辦，公司目標是同時進軍文化娛樂以及傳媒兩大領域，希望成為像[AOL時代華納和](https://zh.wikipedia.org/wiki/AOL時代華納 "wikilink")[迪士尼那樣的娛樂多媒體公司](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")。因此，除了歌手演員的經紀業務、新人培訓外，還投资涉足多項领域，包括：影视制作、有线电视频道DATV
 和KNTV、音乐、APP游戏\[1\]、韩直购网盼达\[2\]、化妆品事业\[3\]等。
 
 ## 公司沿革
 
 ### 前身
 
-  - 2006年2月20日，[裴勇浚自己的经纪公司BOF与韩国软银](../Page/裴勇浚.md "wikilink")、IMX公司共同召开新闻发布会，三家公司将共同投资130亿韩元，入主上市公司OTTOWINTECH取得公司的经营权，并将公司更名为KEYEAST，其中裴勇浚个人出资90亿韩元，以37.5%的股份（144.7万股）成为公司最大股东。\[4\]
+  - 2006年2月20日，[裴勇浚](../Page/裴勇浚.md "wikilink")自己的经纪公司BOF与韩国软银、IMX公司共同召开新闻发布会，三家公司将共同投资130亿韩元，入主上市公司OTTOWINTECH取得公司的经营权，并将公司更名为KEYEAST，其中裴勇浚个人出资90亿韩元，以37.5%的股份（144.7万股）成为公司最大股东。\[4\]
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
     Asia
     Management](../Page/United_Asia_Management.md "wikilink")（簡稱UAM）超大型國際經理人公司。同年10月11日，UAM更與中國[華誼兄弟簽署戰略合作意向](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")。\[6\]
   - 2012年8月26日，KEYEAST正式成立影視製作子公司Content K。
-  - 2014年4月，KEYEAST和中国[江苏卫视签署业务合作协议](../Page/江苏卫视.md "wikilink")，商定共同制作韩流节目《[带你看星星](../Page/带你看星星.md "wikilink")》，同年8月还和[搜狐集团签署战略合作及投资协议](../Page/搜狐.md "wikilink")，正式進軍中國市場。搜狐則以150億韓元的投資取得KEYEAST
+  - 2014年4月，KEYEAST和中国[江苏卫视](../Page/江苏卫视.md "wikilink")签署业务合作协议，商定共同制作韩流节目《[带你看星星](../Page/带你看星星.md "wikilink")》，同年8月还和[搜狐](../Page/搜狐.md "wikilink")集团签署战略合作及投资协议，正式進軍中國市場。搜狐則以150億韓元的投資取得KEYEAST
     6.4股份，成為繼裴勇浚後第二大股東。\[7\]\[8\]
   - 2014年6月，KEYEAST與日本子公司DA以195億韓元收購專門播放韓國電視劇及電視節目，在日本宣傳韓流文化的有線電視頻道KNTV。\[9\]
   - 2016年8月12日，KEYEAST與SM娛樂正式簽訂合約，宣佈為了構建在多領域事業上的合作，雙方將以戰略夥伴關係開始廣泛合作，未來兩大公司將共用雙方的藝人、IP及其他資源，在電視劇、電影、MCN、大眾頻道等方面，進行廣泛地合作，提高作品的行業競爭力。同時SM日本子公司也表示，決定將向KEYEAST子公司DA投資近130億韓元。\[10\]
@@ -33,8 +33,8 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
     Y艺人经纪新体系，在业界树立新的模式而给予积极支持。”除了转签至Content Y的演员，Content
     Y还计划签约更多实力演员，并发掘具有多方面才能的新人。\[11\]Content
     Y的代表由在KEYEAST负责总管management 13年的杨根煥代表担任。\[12\]
-  - 2018年3月14日，[SM娛樂收購Keyeast大股東兼最高戰略負責人](../Page/SM娛樂.md "wikilink")(CSO)[裴勇浚的股份](../Page/裴勇浚.md "wikilink")，還包含子公司日本最大韓流放送Contents平台Digital
-    Adventure（簡稱DA），同時[裴勇浚也購入](../Page/裴勇浚.md "wikilink")[SM娛樂的新股](../Page/SM娛樂.md "wikilink")，成為[SM娛樂的主要股東之一](../Page/SM娛樂.md "wikilink")。而5月14日收購程式結束，裴勇俊正式將其所持股份賣給[SM娛樂](../Page/SM娛樂.md "wikilink")。\[13\]
+  - 2018年3月14日，[SM娛樂](../Page/SM娛樂.md "wikilink")收購Keyeast大股東兼最高戰略負責人(CSO)[裴勇浚](../Page/裴勇浚.md "wikilink")的股份，還包含子公司日本最大韓流放送Contents平台Digital
+    Adventure（簡稱DA），同時[裴勇浚](../Page/裴勇浚.md "wikilink")也購入[SM娛樂](../Page/SM娛樂.md "wikilink")的新股，成為[SM娛樂](../Page/SM娛樂.md "wikilink")的主要股東之一。而5月14日收購程式結束，裴勇俊正式將其所持股份賣給[SM娛樂](../Page/SM娛樂.md "wikilink")。\[13\]
 
 ## KEYEAST旗下藝人
 
@@ -63,7 +63,7 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
   - [朴秀真](../Page/朴秀真.md "wikilink")
   - [蘇怡賢](../Page/蘇怡賢.md "wikilink")
   - [孫淡妃](../Page/孫淡妃.md "wikilink")
-  - [朴秀彬](../Page/秀彬.md "wikilink")（前[Dal★Shabet成員](../Page/Dal★Shabet.md "wikilink")）
+  - [朴秀彬](../Page/秀彬.md "wikilink")（前[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")成員）
   - [鄭麗媛](../Page/鄭麗媛.md "wikilink")
   - 程海娜
   - [趙宇麗](../Page/趙宇麗.md "wikilink")

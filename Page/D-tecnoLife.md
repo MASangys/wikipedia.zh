@@ -1,10 +1,10 @@
-《**D-tecnoLife**》是[UVERworld的出道单曲](../Page/UVERworld.md "wikilink")。2005年7月6日由[gr8\!records发售](../Page/Sony_Music_Records.md "wikilink")。
+《**D-tecnoLife**》是[UVERworld](../Page/UVERworld.md "wikilink")的出道单曲。2005年7月6日由[gr8\!records发售](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概述
 
 出道作品，由于为动画《[BLEACH](https://zh.wikipedia.org/wiki/BLEACH_\(动画\) "wikilink")》的原因、[Oricon单曲排榜](../Page/Oricon公信榜.md "wikilink")，初日达到第六位，周排名也进入前五位，并且连续三周进入排榜前10名，对于新人乐队来说，是个好的开始。
 
-对于本作，这是一个好的开端，《BLEACH》的原作者[久保带人在](../Page/久保带人.md "wikilink")[周刊少年Jump的卷末评论的大意是说](https://zh.wikipedia.org/wiki/周刊少年Jump "wikilink")“因为我自己也喜欢这个乐队所以很高兴”。
+对于本作，这是一个好的开端，《BLEACH》的原作者[久保带人](../Page/久保带人.md "wikilink")在[周刊少年Jump的卷末评论的大意是说](https://zh.wikipedia.org/wiki/周刊少年Jump "wikilink")“因为我自己也喜欢这个乐队所以很高兴”。
 出演[NHK音乐节目](https://zh.wikipedia.org/wiki/日本放送协会 "wikilink")《POP
 JAM》，同时发表了本曲。顺便一提的是，这也是UVERworld的第一次在电视上出演节目。
 

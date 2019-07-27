@@ -1,9 +1,9 @@
-《**超級機器人大戰UX**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普名義發售的](../Page/萬普.md "wikilink")[超級機器人大戰系列遊戲](../Page/超級機器人大戰系列.md "wikilink")。簡稱「機戰UX」「SRWUX」。口號為「**所有的可能性，聚集於此吧**」。
+《**超級機器人大戰UX**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰UX」「SRWUX」。口號為「**所有的可能性，聚集於此吧**」。
 
 ## 概要
 
 本作為[Nintendo
-3DS上第](https://zh.wikipedia.org/wiki/Nintendo_3DS "wikilink")1款超級機器人大戰系列遊戲（連派生作在內是第8款）。亦是首次於[任天堂的](../Page/任天堂.md "wikilink")[攜帶型遊戲機上有為參戰作品配音](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，在戰鬥畫面中運用到主機N3DS的裸眼3D功能。另外，本作亦是首款引入[追加下載內容](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")（DLC）的機戰作品，玩家可以通過付款購買小遊戲來贏取道具。
+3DS上第](https://zh.wikipedia.org/wiki/Nintendo_3DS "wikilink")1款超級機器人大戰系列遊戲（連派生作在內是第8款）。亦是首次於[任天堂](../Page/任天堂.md "wikilink")的[攜帶型遊戲機上有為參戰作品配音](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，在戰鬥畫面中運用到主機N3DS的裸眼3D功能。另外，本作亦是首款引入[追加下載內容](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")（DLC）的機戰作品，玩家可以通過付款購買小遊戲來贏取道具。
 
 **故事全52話（連序章分支共74關）**，劇情亦由三部份構成，各有每部的標題。本作標題的「UX」為故事中傭兵組織「Unknown-Xtrikers」的縮寫。
 
@@ -16,7 +16,7 @@
   - ★[機神咆吼](https://zh.wikipedia.org/wiki/機神咆吼 "wikilink")（）
   - V[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")（）
   - ★[蒼穹之戰神 HEAVEN AND EARTH](../Page/蒼穹之戰神.md "wikilink")（）
-  - V[武裝機甲（原作漫畫版）](../Page/武裝機甲.md "wikilink")（）
+  - V[武裝機甲](../Page/武裝機甲.md "wikilink")（原作漫畫版）（）
   - ★[麟光之翼](../Page/麟光之翼.md "wikilink")（）
   - [忍者戰士飛影](../Page/忍者戰士飛影.md "wikilink")（）
   - ★[「電腦戰機 VIRTUAL-ON」系列
@@ -50,7 +50,7 @@ BraveBattleWarriors**》、《**魔神皇帝SKL**》、《**HEROMAN**》8個作�
 GUNDAM系列與](../Page/SD_GUNDAM系列.md "wikilink")（搭乘型的）GUNDAM系列作品同場共演。
 
 《「電腦戰機 VIRTUAL-ON」系列 飛燕HD》是《電腦戰機
-VIRTUAL-ON》系列及語音合成軟件[初音未來而展開的合作角色](../Page/初音未來.md "wikilink")，推出過插圖及動態figure。只有單一角色參戰的登場作品參戰是系列首次。[世嘉的](../Page/世嘉.md "wikilink")《電腦戰機
+VIRTUAL-ON》系列及語音合成軟件[初音未來](../Page/初音未來.md "wikilink")而展開的合作角色，推出過插圖及動態figure。只有單一角色參戰的登場作品參戰是系列首次。[世嘉](../Page/世嘉.md "wikilink")的《電腦戰機
 VIRTUAL-ON》系列製作人：亙重郎將負責飛燕HD的故事線。
 
 《機神咆吼》為[18禁遊戲](../Page/日本成人遊戲.md "wikilink")《[斬魔大聖](https://zh.wikipedia.org/wiki/斬魔大聖 "wikilink")》的全年齡動畫改編作，因此本作亦是首部18禁遊戲改編作品參戰的系列作。這亦是繼《[超級機械人大戰MX](https://zh.wikipedia.org/wiki/超級機械人大戰MX "wikilink")》的《[-{zh-cn:冥王计划志雷马;

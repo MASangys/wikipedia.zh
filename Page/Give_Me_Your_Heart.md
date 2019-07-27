@@ -1,13 +1,13 @@
 **《Give Me Your Heart》**是韓國人氣男子組合
-[SS501成員](../Page/SS501.md "wikilink")[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年9月5日由[Victor
+[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年9月5日由[Victor
 Entertainment旗下Colourful](https://zh.wikipedia.org/wiki/:ja:ビクターエンタテインメント "wikilink")
 Records\[1\]所發行的首張個人日文單曲。
 
 ## 單曲概述
 
-  - 本作為演唱者[朴政珉繼](../Page/朴政珉.md "wikilink")2011年5月25日於日本發行《[Wara Wara
+  - 本作為演唱者[朴政珉](../Page/朴政珉.md "wikilink")繼2011年5月25日於日本發行《[Wara Wara
     THE, PARK
-    JUNGMIN](../Page/THE,_PARK_JUNGMIN_\(專輯\).md "wikilink")》日文專輯後睽違一年三個月發行的日文單曲\[2\]。是朴政珉以新人之姿另名**ROMEO**於日本發行的出道單曲，藝名是由日本大眾音樂評論家湯川れい子所賦予\[3\]，旨在將過去的成績都放下，以全新的心態出發。其普通盤封面為朴政珉戴上雕花面具後的模樣。此張單曲是由製作過[安室奈美惠和](../Page/安室奈美惠.md "wikilink")[西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")、[黑木明紗](https://zh.wikipedia.org/wiki/黑木明紗 "wikilink")、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[JUJU等日本TOP歌手的頂尖音樂製作人Jeff](../Page/JUJU.md "wikilink")
+    JUNGMIN](../Page/THE,_PARK_JUNGMIN_\(專輯\).md "wikilink")》日文專輯後睽違一年三個月發行的日文單曲\[2\]。是朴政珉以新人之姿另名**ROMEO**於日本發行的出道單曲，藝名是由日本大眾音樂評論家湯川れい子所賦予\[3\]，旨在將過去的成績都放下，以全新的心態出發。其普通盤封面為朴政珉戴上雕花面具後的模樣。此張單曲是由製作過[安室奈美惠](../Page/安室奈美惠.md "wikilink")和[西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")、[黑木明紗](https://zh.wikipedia.org/wiki/黑木明紗 "wikilink")、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[JUJU](../Page/JUJU.md "wikilink")等日本TOP歌手的頂尖音樂製作人Jeff
     Miyahara與[UNIQLO創意總監亦是在日本作為代表性人物的藝術總監](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")[田中敬之合作](https://zh.wikipedia.org/wiki/:ja:タナカノリユキ "wikilink")，和許多美國，德國，瑞典，台灣等各種各樣的國籍的作曲家\[4\]參與以及Yamaha
     A\&R和Victor
     Entertainment協助宣傳\[5\]的作品。並於2012年7月12日起於音樂銷售網進行預購\[6\]，分為初回限定盤A、初回限定盤B、普通盤，三種版本。三版本依版本不同收錄Give
@@ -230,7 +230,7 @@ LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓�
 
   - 2012年7月26日公布9月29日於東京惠比壽LIQUIDROOM舉行兩場的『ROMEO 2nd
     CONTACT』公演內容\[32\]\[33\]。9月27日公布周邊商品\[34\]。
-  - 2012年8月7日公布8月8日零時零分起至8月14日二十三時五十九分止限定一週內於[RecoChoku音源網付費下載答鈴全曲目即得](../Page/RecoChoku.md "wikilink")『REMEO
+  - 2012年8月7日公布8月8日零時零分起至8月14日二十三時五十九分止限定一週內於[RecoChoku](../Page/RecoChoku.md "wikilink")音源網付費下載答鈴全曲目即得『REMEO
     第二波特殊的待機圖像』。
   - 2012年9月4日公布音樂網站ROME情報
       - WOWOW「MUSIC BREAK」

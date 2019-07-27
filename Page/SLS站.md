@@ -1,8 +1,8 @@
-**SLS站**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[拉斯維加斯單軌電車的一個車站](../Page/拉斯維加斯單軌電車.md "wikilink")，位於[撒哈拉賭場酒店內](../Page/SLS拉斯維加斯.md "wikilink")，為[側式月台設計](../Page/側式月台.md "wikilink")。SLS站可由位於酒店後方的道路旁樓梯進入。SLS站北端預留了未來的軌道擴建空間，可經由[馬戲團酒店和](https://zh.wikipedia.org/wiki/馬戲團酒店 "wikilink")[利為旅酒店所在的](../Page/利為旅酒店.md "wikilink")[賭城大道北段往拉斯維加斯市區延伸](../Page/賭城大道.md "wikilink")。
+**SLS站**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[拉斯維加斯單軌電車](../Page/拉斯維加斯單軌電車.md "wikilink")的一個車站，位於[撒哈拉賭場酒店內](../Page/SLS拉斯維加斯.md "wikilink")，為[側式月台](../Page/側式月台.md "wikilink")設計。SLS站可由位於酒店後方的道路旁樓梯進入。SLS站北端預留了未來的軌道擴建空間，可經由[馬戲團酒店和](https://zh.wikipedia.org/wiki/馬戲團酒店 "wikilink")[利為旅酒店](../Page/利為旅酒店.md "wikilink")所在的[賭城大道](../Page/賭城大道.md "wikilink")北段往拉斯維加斯市區延伸。
 
 2011年3月11日，[撒哈拉賭場酒店宣布將在](../Page/SLS拉斯維加斯.md "wikilink")5月16日結束營運\[1\]。拉斯維加斯單軌電車公司在同一天宣布SLS車站將會繼續開放\[2\]。
 
-撒哈拉賭場酒店預計在整修後於[SLS拉斯維加斯之名在](../Page/SLS拉斯維加斯.md "wikilink")2014年重新開幕\[3\]。
+撒哈拉賭場酒店預計在整修後於[SLS拉斯維加斯](../Page/SLS拉斯維加斯.md "wikilink")之名在2014年重新開幕\[3\]。
 
 ## 鄰近酒店
 

@@ -12,7 +12,7 @@
     [吖啶黄](https://zh.wikipedia.org/wiki/吖啶黄 "wikilink")（Euflavine）
     QD08AA99 吖啶类衍生物，复方（Acridine derivatives, combinations）
 
-### D08AB [铝制剂类](../Page/铝.md "wikilink")（Aluminium agents）
+### D08AB [铝](../Page/铝.md "wikilink")制剂类（Aluminium agents）
 
 ### D08AC [双胍类和](https://zh.wikipedia.org/wiki/双胍 "wikilink")[脒类](https://zh.wikipedia.org/wiki/脒 "wikilink")（Biguanides and amidines）
 
@@ -29,9 +29,9 @@
     D08AC52 氯己定，复方（Chlorhexidine, combinations）
     QD08AC54 己脒定，复方（Hexamidine, combinations）
 
-### D08AD [硼酸类](../Page/硼酸.md "wikilink")（Boric acid products）
+### D08AD [硼酸](../Page/硼酸.md "wikilink")类（Boric acid products）
 
-### D08AE [苯酚及其衍生物](../Page/苯酚.md "wikilink")（Phenol and derivatives）
+### D08AE [苯酚](../Page/苯酚.md "wikilink")及其衍生物（Phenol and derivatives）
 
   -
     D08AE01
@@ -52,7 +52,7 @@
   -
     D08AF01 [呋喃西林](../Page/呋喃西林.md "wikilink")（Nitrofural）
 
-### D08AG [碘制剂](../Page/碘.md "wikilink")（Iodine products）
+### D08AG [碘](../Page/碘.md "wikilink")制剂（Iodine products）
 
   -
     D08AG01
@@ -104,7 +104,7 @@
     [苄索氯铵](https://zh.wikipedia.org/wiki/苄索氯铵 "wikilink")，复方（Dodeclonium
     bromide, combinations）
 
-### D08AK [汞制剂类](../Page/汞.md "wikilink")（Mercurial products）
+### D08AK [汞](../Page/汞.md "wikilink")制剂类（Mercurial products）
 
   -
     D08AK01

@@ -2,7 +2,7 @@
 
 ## 发展历史
 
-1998年，连接[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[西兰岛和](../Page/西兰岛.md "wikilink")[菲英岛的](https://zh.wikipedia.org/wiki/菲英岛 "wikilink")[大贝尔特桥建成通车](../Page/大贝尔特桥.md "wikilink")，基本构成了[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")—[帕兹堡](https://zh.wikipedia.org/wiki/帕兹堡 "wikilink")—[汉堡的直通铁路线](../Page/汉堡.md "wikilink")。此后，随着连接丹麦和[瑞典的](../Page/瑞典.md "wikilink")[厄勒海峡大桥于](https://zh.wikipedia.org/wiki/厄勒海峡大桥 "wikilink")2000年建成通车，正式消除了[北欧](https://zh.wikipedia.org/wiki/北欧 "wikilink")[斯堪的纳维亚与](../Page/斯堪的纳维亚.md "wikilink")[欧洲大陆之间实现直通铁路运输的最后一个障碍](https://zh.wikipedia.org/wiki/欧洲大陆 "wikilink")，[德国一丹麦一瑞典的铁路通道从此成为现实](../Page/德国.md "wikilink")。为了满足三个国家之间的过境铁路货运需求，[丹麦国家铁路公司决定购置一种新型货运电力机车](https://zh.wikipedia.org/wiki/丹麦国家铁路公司 "wikilink")，既要适用于采用25千伏50赫兹工频单相交流电的丹麦电气化铁路，又要适用于15千伏16⅔赫兹的低频单相交流电的德国和瑞典电气化铁路。由于大贝尔特桥和厄勒海峡大桥都有海底隧道通道，两端最大坡度达到15.6‰，因此机车被要求具有较大牵引能力，足以在任何[粘着条件下牵引](https://zh.wikipedia.org/wiki/粘着 "wikilink")2000吨货物列车顺利通过两条隧道。
+1998年，连接[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[西兰岛](../Page/西兰岛.md "wikilink")和[菲英岛的](https://zh.wikipedia.org/wiki/菲英岛 "wikilink")[大贝尔特桥](../Page/大贝尔特桥.md "wikilink")建成通车，基本构成了[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")—[帕兹堡](https://zh.wikipedia.org/wiki/帕兹堡 "wikilink")—[汉堡](../Page/汉堡.md "wikilink")的直通铁路线。此后，随着连接丹麦和[瑞典](../Page/瑞典.md "wikilink")的[厄勒海峡大桥于](https://zh.wikipedia.org/wiki/厄勒海峡大桥 "wikilink")2000年建成通车，正式消除了[北欧](https://zh.wikipedia.org/wiki/北欧 "wikilink")[斯堪的纳维亚](../Page/斯堪的纳维亚.md "wikilink")与[欧洲大陆之间实现直通铁路运输的最后一个障碍](https://zh.wikipedia.org/wiki/欧洲大陆 "wikilink")，[德国](../Page/德国.md "wikilink")一丹麦一瑞典的铁路通道从此成为现实。为了满足三个国家之间的过境铁路货运需求，[丹麦国家铁路公司决定购置一种新型货运电力机车](https://zh.wikipedia.org/wiki/丹麦国家铁路公司 "wikilink")，既要适用于采用25千伏50赫兹工频单相交流电的丹麦电气化铁路，又要适用于15千伏16⅔赫兹的低频单相交流电的德国和瑞典电气化铁路。由于大贝尔特桥和厄勒海峡大桥都有海底隧道通道，两端最大坡度达到15.6‰，因此机车被要求具有较大牵引能力，足以在任何[粘着条件下牵引](https://zh.wikipedia.org/wiki/粘着 "wikilink")2000吨货物列车顺利通过两条隧道。
 
 基于上述考虑，丹麦国家铁路公司决定订购一种[Co-Co轴式的六轴大功率电力机车](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，经过招标和评标过程后，这笔机车供应合同最终由西门子交通集团夺得。新机车被定型为EG型，在“[欧洲短跑手](../Page/EuroSprinter.md "wikilink")”（EuroSprinter）系列的[ES64F型电力机车](../Page/ES64F型电力机车.md "wikilink")（德国铁路152型电力机车）基础上进行开发，同样采用了模块化设计。机车采用三相交流传动、水冷GTO牵引变流器、异步牵引电动机，持续功率为6500千瓦。
 
@@ -12,7 +12,7 @@
 
 ### 总体结构
 
-EG3100型电力机车是六轴大功率干线货运用电力机车，车体采用整体承载结构及模块化设计，两端各设有一个按ES64F型電力機車標準設計的司机室，司机可在任何一端司机室对机车进行控制；车内设备采用两侧屏柜化斜对称布置，并设650毫米闊中间贯通走廊。每台机车车顶设有两台8WL0129型单臂式[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，其他车顶外置设备包括[真空断路器](https://zh.wikipedia.org/wiki/断路器 "wikilink")、接地开关、避雷器、高压连接器等高压设备。牵引变压器采用卧式悬挂结构，並安裝於車底中央鋼箱內。[机车轴式为](../Page/机车轴式.md "wikilink")[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，持续功率为6500千瓦；机车轴重为22吨\[1\]。
+EG3100型电力机车是六轴大功率干线货运用电力机车，车体采用整体承载结构及模块化设计，两端各设有一个按ES64F型電力機車標準設計的司机室，司机可在任何一端司机室对机车进行控制；车内设备采用两侧屏柜化斜对称布置，并设650毫米闊中间贯通走廊。每台机车车顶设有两台8WL0129型单臂式[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，其他车顶外置设备包括[真空断路器](https://zh.wikipedia.org/wiki/断路器 "wikilink")、接地开关、避雷器、高压连接器等高压设备。牵引变压器采用卧式悬挂结构，並安裝於車底中央鋼箱內。[机车轴式](../Page/机车轴式.md "wikilink")为[Co-Co](https://zh.wikipedia.org/wiki/Co-Co "wikilink")，持续功率为6500千瓦；机车轴重为22吨\[1\]。
 
 ### 电气系统
 

@@ -9,7 +9,7 @@ Genckel Petersen
 和Jannik Brandt Thomsen
 (生于1981年6月16日)。他们的第二首单曲*Hot\!*是当年的畅销曲，并为他们赢得2003年[丹麦音乐奖的最佳新人奖](https://zh.wikipedia.org/wiki/Danish_Music_Award "wikilink")。其他畅销歌曲包括*Mod
 solnedgangen* (朝着日落), *Lækker*
-([丹麦语意思是性感Hot](../Page/丹麦语.md "wikilink")), *Kan
+([丹麦语](../Page/丹麦语.md "wikilink")意思是性感Hot), *Kan
 Du Høre Hende Synge?* (Can you hear her sing?你能听到她在唱吗？)
 和*Boing\!*，以及联手[Burhan
 G的](https://zh.wikipedia.org/wiki/Burhan_G "wikilink")"Tættere på

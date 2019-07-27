@@ -2,16 +2,16 @@
 [XojoCodeEditor.jpg](https://zh.wikipedia.org/wiki/File:XojoCodeEditor.jpg "fig:XojoCodeEditor.jpg")
 **Xojo**（读作“啁啾”）是一个[跨平台编程语言及多平台开发工具](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，能为[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
 OS
-X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux這三种](../Page/Linux.md "wikilink")[操作系統编写具有](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[图形用户界面的桌面](../Page/图形用户界面.md "wikilink")（Desktop）程序、没有[图形用户界面的](../Page/图形用户界面.md "wikilink")[控制台或后台服务程序](https://zh.wikipedia.org/wiki/控制台 "wikilink")、网络（Web）程序（有嵌入网络服务器功能的可独立运行版本以及支持[Apache和](https://zh.wikipedia.org/wiki/Apache "wikilink")[IIS的](https://zh.wikipedia.org/wiki/IIS "wikilink")[CGI两种方式](https://zh.wikipedia.org/wiki/CGI "wikilink")），并即将支持[iOS等移动平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。Xojo通过交叉编译在开发平台上为各种[操作系統生成本机代码的原生的应用程序](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，即程序由CPU可以直接执行的指令组成，几乎所有界面[控件也都是相应](../Page/控件.md "wikilink")[操作系統的原生界面](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[控件](../Page/控件.md "wikilink")。
+X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")這三种[操作系統编写具有](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")的桌面（Desktop）程序、没有[图形用户界面](../Page/图形用户界面.md "wikilink")的[控制台或后台服务程序](https://zh.wikipedia.org/wiki/控制台 "wikilink")、网络（Web）程序（有嵌入网络服务器功能的可独立运行版本以及支持[Apache和](https://zh.wikipedia.org/wiki/Apache "wikilink")[IIS的](https://zh.wikipedia.org/wiki/IIS "wikilink")[CGI两种方式](https://zh.wikipedia.org/wiki/CGI "wikilink")），并即将支持[iOS等移动平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。Xojo通过交叉编译在开发平台上为各种[操作系統生成本机代码的原生的应用程序](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，即程序由CPU可以直接执行的指令组成，几乎所有界面[控件](../Page/控件.md "wikilink")也都是相应[操作系統的原生界面](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[控件](../Page/控件.md "wikilink")。
 
-Xojo语言是完全[面向对象](https://zh.wikipedia.org/wiki/面向对象 "wikilink")（[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")）的编程语言，支持继承、重构、多态，像[Java和](../Page/Java.md "wikilink")[C\#一样支持类接口](../Page/C♯.md "wikilink")（class
+Xojo语言是完全[面向对象](https://zh.wikipedia.org/wiki/面向对象 "wikilink")（[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")）的编程语言，支持继承、重构、多态，像[Java](../Page/Java.md "wikilink")和[C\#一样支持类接口](../Page/C♯.md "wikilink")（class
 interface）和命名空间（名称空间，namespace）。除此之外，还有委托（delegate）、反射/自省（introspection）等现代编程语言所具有的功能。Xojo语言是强类型语言，所有变量需要先定义后使用。
 
 Xojo的[集成开发环境](../Page/集成开发环境.md "wikilink")（[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")，[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")）提供了工程管理器、界面设计器、菜单设计器、工具栏设计器、报表设计器、代码编辑器、编译器、调试器等全套工具。
 
-Xojo的编译器曾经可以为[X86](../Page/X86.md "wikilink")、[68K](https://zh.wikipedia.org/wiki/68K "wikilink")、[PowerPC三大类芯片编译原生程序](../Page/PowerPC.md "wikilink")，随着后两者的衰落，目前只支持Intel
+Xojo的编译器曾经可以为[X86](../Page/X86.md "wikilink")、[68K](https://zh.wikipedia.org/wiki/68K "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")三大类芯片编译原生程序，随着后两者的衰落，目前只支持Intel
 X86系列及其兼容芯片，能为Windows生成PE格式可执行文件，为Mac OS
-X生成Mach-O格式程序包（以前还支持PEF格式的单一可执行文件），为Linux生成ELF格式的可执行文件。Xojo的编译器后端将在不久的将来采用[LLVM代替自行编写的编译器](../Page/LLVM.md "wikilink")，从而能为[iOS和安卓等移动系统所支持的CPU编译原生应用程序](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+X生成Mach-O格式程序包（以前还支持PEF格式的单一可执行文件），为Linux生成ELF格式的可执行文件。Xojo的编译器后端将在不久的将来采用[LLVM](../Page/LLVM.md "wikilink")代替自行编写的编译器，从而能为[iOS和安卓等移动系统所支持的CPU编译原生应用程序](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 Xojo目前支持的操作系统程序库包括[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 Windows上的Win32及兼容API，[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
@@ -20,11 +20,11 @@ X系统的[Carbon框架和](https://zh.wikipedia.org/wiki/Carbon框架 "wikilink
 OS Classic平台，并且将会支持iOS的[Cocoa
 Touch开发框架](../Page/Cocoa_Touch.md "wikilink")。Xojo提供插件（plugin）开发包[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")，使用户能将用C/C++等语言编写的程序库进行包装后在Xojo程序中调用。Xojo的Mac
 OS
-X程序还支持嵌入[AppleScript脚本](../Page/AppleScript.md "wikilink")，所嵌入的脚本可以作为工程中的一个全局方法来调用，在Windows上则支持大部分ActiveX控件。Xojo语言通过与VB类似的Declare语句提供对操作系统[API和各平台上的动态库](https://zh.wikipedia.org/wiki/API "wikilink")、静态库文件中的函数进行直接调用。
+X程序还支持嵌入[AppleScript](../Page/AppleScript.md "wikilink")脚本，所嵌入的脚本可以作为工程中的一个全局方法来调用，在Windows上则支持大部分ActiveX控件。Xojo语言通过与VB类似的Declare语句提供对操作系统[API和各平台上的动态库](https://zh.wikipedia.org/wiki/API "wikilink")、静态库文件中的函数进行直接调用。
 
-Xojo提供内嵌的SQLite数据库引擎，同时支持[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")、[MySQL社区版](../Page/MySQL.md "wikilink")（MySQL的许可证不允许同时支持开源社区版和付费版的软件存在，因此目前仅支持社区版）、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、MS
+Xojo提供内嵌的SQLite数据库引擎，同时支持[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")、[MySQL](../Page/MySQL.md "wikilink")社区版（MySQL的许可证不允许同时支持开源社区版和付费版的软件存在，因此目前仅支持社区版）、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、MS
 [SQL
-Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")（当然仅限Windows）等大部分主流的[SQL数据库服务器](../Page/SQL.md "wikilink")，也支持以[ODBC方式访问数据库](../Page/ODBC.md "wikilink")。
+Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")（当然仅限Windows）等大部分主流的[SQL](../Page/SQL.md "wikilink")数据库服务器，也支持以[ODBC](../Page/ODBC.md "wikilink")方式访问数据库。
 
 ## Xojo的特殊功能
 
@@ -46,7 +46,7 @@ IDE的自动化脚本功能让Xojo在编译程序之后自动将程序所需的�
 ### Mac平台
 
 Xojo诞生之时，Apple自己的Mac OS
-X平台开发工具[XCode还未面世](https://zh.wikipedia.org/wiki/XCode "wikilink")，因此不久就与[CodeWarrior](https://zh.wikipedia.org/wiki/CodeWarrior "wikilink")（时为[摩托罗拉下属](../Page/摩托罗拉.md "wikilink")[飞思卡尔公司的产品](../Page/飞思卡尔.md "wikilink")）一起成为了Mac
+X平台开发工具[XCode还未面世](https://zh.wikipedia.org/wiki/XCode "wikilink")，因此不久就与[CodeWarrior](https://zh.wikipedia.org/wiki/CodeWarrior "wikilink")（时为[摩托罗拉](../Page/摩托罗拉.md "wikilink")下属[飞思卡尔](../Page/飞思卡尔.md "wikilink")公司的产品）一起成为了Mac
 OS X平台上的重要开发工具，在1999～2001年连续三届获得Apple Design
 Award提名，曾被Mac用户界著名的Macworld杂志给与了4.5只“老鼠”的好评（满分为5只，但极少打出满分），在2003
 MacInTouch读者评选中被评为最佳开发工具。
@@ -59,7 +59,7 @@ Office的苹果版其实一直支持自动化操作，但直到最近的版本�
 
 ### Windows平台
 
-2005年3月，5.5的Windows版获得了CMP评选的[Jolt奖的语言与开发环境奖类生产力奖](../Page/Jolt奖.md "wikilink")\[2\]。
+2005年3月，5.5的Windows版获得了CMP评选的[Jolt奖](../Page/Jolt奖.md "wikilink")的语言与开发环境奖类生产力奖\[2\]。
 
 ### Linux平台
 
@@ -73,7 +73,7 @@ Linux版以绝对优势获得了SYS-CON的[LinuxWorld杂志](https://zh.wikipedi
 ## Xojo的历史
 
 1997年美国人Andrew
-Barry发布了一款名为CrossBasic的快速开发环境（RAD），这是他用业余时间编写的，通过它，用户能用BASIC语言编写图形界面应用程序，然后编译成能运行于680X0（68K）芯片的Macintosh机的程序和Java程序。同年9月CrossBasic被位于[德克萨斯州首府](../Page/德克萨斯州.md "wikilink")[奥斯汀市的FYI软件公司收购](https://zh.wikipedia.org/wiki/奥斯汀市 "wikilink")，由于CrossBasic已经被另一家美国公司注册成为软件产品的商标，因此决定更名为REALbasic，FYI软件公司也随之更名为REAL
+Barry发布了一款名为CrossBasic的快速开发环境（RAD），这是他用业余时间编写的，通过它，用户能用BASIC语言编写图形界面应用程序，然后编译成能运行于680X0（68K）芯片的Macintosh机的程序和Java程序。同年9月CrossBasic被位于[德克萨斯州](../Page/德克萨斯州.md "wikilink")首府[奥斯汀市的FYI软件公司收购](https://zh.wikipedia.org/wiki/奥斯汀市 "wikilink")，由于CrossBasic已经被另一家美国公司注册成为软件产品的商标，因此决定更名为REALbasic，FYI软件公司也随之更名为REAL
 Software, Inc.。
 
 1998年7月14日，REALbasic
@@ -138,7 +138,7 @@ ObJect Orientation，即跨平台面向对象，并称可能在年内或稍晚�
 
 1.  [MacOFFX：值包安装REALbasic在错误的位置](http://support.microsoft.com/kb/312242/zh-cn)
 2.  [Jolt奖2005年获奖名单](http://tech.163.com/05/0304/11/1E0E289200091589.html)，该奖有软件业奥斯卡之称，[Eclipse](../Page/Eclipse.md "wikilink")、[IntelliJ
-    IDEA](../Page/IntelliJ_IDEA.md "wikilink")、[Xcode](../Page/Xcode.md "wikilink")、[Python和](../Page/Python.md "wikilink")[NetBeans都获得过该奖励](../Page/NetBeans.md "wikilink")
+    IDEA](../Page/IntelliJ_IDEA.md "wikilink")、[Xcode](../Page/Xcode.md "wikilink")、[Python](../Page/Python.md "wikilink")和[NetBeans](../Page/NetBeans.md "wikilink")都获得过该奖励
 3.  [2005 SYS-CON LinuxWorld Readers' Choice
     Awards相关新闻](http://linux.sys-con.com/search?s=linuxworld+realbasic)
 4.  [DEMOgod获奖新闻](http://www.pressreleasespider.com/feed1575.aspx)

@@ -1,5 +1,5 @@
 《**FIVE
-STARS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME的第二張](../Page/MYNAME.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年3月26日以三個版本（共計七款）：通常盤、初回限定盤及WEB盤（共五款）推出。曾打入Oricon單曲週榜前十名的單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》在專輯推出前預先發行。
+STARS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第二張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年3月26日以三個版本（共計七款）：通常盤、初回限定盤及WEB盤（共五款）推出。曾打入Oricon單曲週榜前十名的單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》在專輯推出前預先發行。
 
 ## 背景
 
@@ -26,7 +26,7 @@ STARS》的發行消息\[1\]。五款WEB盤的封面在2月10日至2月14日依�
 1首歌曲曾以單曲形式發行：
 
 唯一單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》在2013年11月20日發行。這歌曲由[Lensei](https://zh.wikipedia.org/wiki/Lensei "wikilink")、[INP](https://zh.wikipedia.org/wiki/INP "wikilink")、[Zen
-Nishizawa作曲及填詞](https://zh.wikipedia.org/wiki/Zen_Nishizawa "wikilink")，打入了[Oricon單曲榜第七名](../Page/Oricon.md "wikilink")，首週銷售25,263張及在榜停留3星期\[11\]，B面歌曲《Sha
+Nishizawa作曲及填詞](https://zh.wikipedia.org/wiki/Zen_Nishizawa "wikilink")，打入了[Oricon](../Page/Oricon.md "wikilink")單曲榜第七名，首週銷售25,263張及在榜停留3星期\[11\]，B面歌曲《Sha
 la la》也出現在《FIVE STARS》的第10首位置。
 
 ## 曲目
@@ -35,7 +35,7 @@ la la》也出現在《FIVE STARS》的第10首位置。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------ | ---- |
 | 專輯日榜\[12\]                               | 2    | 19,473 | 31,960 | 4星期  |
 | 專輯週榜                                     | 5    | 30,081 |        |      |

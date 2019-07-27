@@ -1,4 +1,4 @@
-**Bunny King**為[香港設計品牌](../Page/香港.md "wikilink")**[Dream
+**Bunny King**為[香港](../Page/香港.md "wikilink")設計品牌**[Dream
 Capsule](https://zh.wikipedia.org/wiki/Dream_Capsule "wikilink")**其下的一個[卡通人物系列](https://zh.wikipedia.org/wiki/卡通人物 "wikilink")，於2007年創立。Bunny
 King是一隻愛瞪眼發呆的卡通兔仔。沒有天生異禀，卻是自然界的統治者\[1\]。日常生活是四出[旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")[冒險](../Page/冒險.md "wikilink")，興趣是揮動那支來歷不明的骷髏[權杖](https://zh.wikipedia.org/wiki/權杖 "wikilink")。毫無才能的Bunny
 King為何能成為大自然的統治者至今仍是個[謎](https://zh.wikipedia.org/wiki/謎 "wikilink")。
@@ -135,7 +135,7 @@ Capsule網站推出全新版本，加入[網上商店版面](https://zh.wikipedi
 9月 – Dream Capsule
 [Facebook專頁支持者人數突破](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")5000人
 12月 –
-於[港灣豪庭廣場舉行](../Page/港灣豪庭.md "wikilink")[聖誕節活動](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")：Bunny
+於[港灣豪庭](../Page/港灣豪庭.md "wikilink")廣場舉行[聖誕節活動](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")：Bunny
 King聖誕繽紛王國
 
 ### 2013
@@ -170,7 +170,7 @@ Riin、[四分衛樂團](../Page/四分衛樂團.md "wikilink")
 2015年為Bunny King誕生8週年，Dream Capsule繼續創新，作出了多樣不同的嘗試。
 
 5月 – 舉辦Bunny King造型創作大賽
-7月 – 於[香港書展首次推出人物介紹出刊](../Page/香港書展.md "wikilink")《Bunny
+7月 – 於[香港書展](../Page/香港書展.md "wikilink")首次推出人物介紹出刊《Bunny
 King大圖鑑》,並聯同小樹苗教育出版社和青源文化推出不同書籍
 9月 – 推出首個手機遊戲《Bunny King Mini Challenges》Android版
 10月 – 參展台北國際玩具創作大展

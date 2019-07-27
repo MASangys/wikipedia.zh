@@ -1,11 +1,11 @@
 **Catch Notes**（前称“3banana notes”）为一个多平台的免费应用，旨在让用户快速记录头脑中想到的。Catch
-Notes之前有[Android](../Page/Android.md "wikilink")、[IOS客户端以及网页版和](../Page/IOS.md "wikilink")[Chrome浏览器插件](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")。
+Notes之前有[Android](../Page/Android.md "wikilink")、[IOS](../Page/IOS.md "wikilink")客户端以及网页版和[Chrome浏览器插件](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")。
 现已关闭服务，网站也不可访问。\[1\]
 
 ## 主要功能
 
   - 除传统打字外，Catch
-    Notes允许用户通过拍照、录音以及扫描[条形码来创建记录](../Page/条形码.md "wikilink")。
+    Notes允许用户通过拍照、录音以及扫描[条形码](../Page/条形码.md "wikilink")来创建记录。
   - 允许用户创建“数据流”，可将每一条记录分类。
   - 允许插入所在位置信息。
   - 允许给记录增加标签。

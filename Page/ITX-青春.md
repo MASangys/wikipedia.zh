@@ -1,14 +1,14 @@
-**ITX-青春**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：ITX-청춘，）是[韩国铁道公社的准高速铁路客车之一](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")，于2012年2月28日开始在[首都圈电铁中央线和](https://zh.wikipedia.org/wiki/首都圈电铁中央线 "wikilink")[京春线营运](https://zh.wikipedia.org/wiki/京春线 "wikilink")，其后于2017年5月1日开始在[京釜線营运](../Page/京釜線.md "wikilink")。
+**ITX-青春**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：ITX-청춘，）是[韩国铁道公社的准高速铁路客车之一](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")，于2012年2月28日开始在[首都圈电铁中央线和](https://zh.wikipedia.org/wiki/首都圈电铁中央线 "wikilink")[京春线营运](https://zh.wikipedia.org/wiki/京春线 "wikilink")，其后于2017年5月1日开始在[京釜線](../Page/京釜線.md "wikilink")营运。
 
 ## 概况
 
-2010年10月21日[京春线电气化后](https://zh.wikipedia.org/wiki/京春线 "wikilink")，[韩国铁道公社计划以新型列车代替](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")[无穷花号和](https://zh.wikipedia.org/wiki/无穷花号 "wikilink")[Nuriro号在](../Page/Nuriro号.md "wikilink")[京春线行驶](https://zh.wikipedia.org/wiki/京春线 "wikilink")。最终在2011年9月25日列车出厂之后，决定命名为**ITX-青春**，其中**ITX**是[城际列车](../Page/城际列车.md "wikilink")**I**ntercity
+2010年10月21日[京春线电气化后](https://zh.wikipedia.org/wiki/京春线 "wikilink")，[韩国铁道公社计划以新型列车代替](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")[无穷花号和](https://zh.wikipedia.org/wiki/无穷花号 "wikilink")[Nuriro号](../Page/Nuriro号.md "wikilink")在[京春线行驶](https://zh.wikipedia.org/wiki/京春线 "wikilink")。最终在2011年9月25日列车出厂之后，决定命名为**ITX-青春**，其中**ITX**是[城际列车](../Page/城际列车.md "wikilink")**I**ntercity
 **T**rain
 e**x**press的缩写，**青**来自于[清凉里的](../Page/清凉里站.md "wikilink")**清**的谐音，**春**来自于[春川](../Page/春川站.md "wikilink")，故名**ITX-青春**\[1\]。
 
 ## 车辆
 
-**ITX-青春**使用[368000系列车](../Page/韩国铁道公社368000系电力动车组.md "wikilink")，此列车为8节编组，其中2节为双层车厢，列车吸收了[KTX-山川和](../Page/KTX-山川.md "wikilink")[无穷花号的特点](https://zh.wikipedia.org/wiki/无穷花号 "wikilink")。
+**ITX-青春**使用[368000系列车](../Page/韩国铁道公社368000系电力动车组.md "wikilink")，此列车为8节编组，其中2节为双层车厢，列车吸收了[KTX-山川](../Page/KTX-山川.md "wikilink")和[无穷花号的特点](https://zh.wikipedia.org/wiki/无穷花号 "wikilink")。
 
 ## 运行区间
 

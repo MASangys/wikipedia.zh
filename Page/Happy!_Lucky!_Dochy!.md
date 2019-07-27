@@ -1,5 +1,5 @@
 **Happy\! Lucky\!
-Dochy\!**，是[日本女](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")、[金井美香](../Page/金井美香.md "wikilink")、[堀江由衣的](../Page/堀江由衣.md "wikilink")[單曲CD](https://zh.wikipedia.org/wiki/單曲 "wikilink")。這首單曲是當年[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")《[暮蟬悲鳴時
+Dochy\!**，是[日本](../Page/日本.md "wikilink")女[配音員](../Page/配音員.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")、[金井美香](../Page/金井美香.md "wikilink")、[堀江由衣](../Page/堀江由衣.md "wikilink")的[單曲CD](https://zh.wikipedia.org/wiki/單曲 "wikilink")。這首單曲是當年[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")《[暮蟬悲鳴時
 煌](../Page/暮蟬悲鳴時.md "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲

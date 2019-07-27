@@ -1,7 +1,7 @@
 **COMPILE
 HEART**（）是一家[日本](../Page/日本.md "wikilink")[游戏开发商](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")，成立于2006年6月2日，是[Idea
 Factory的一家](../Page/Idea_Factory.md "wikilink")[子公司](../Page/子公司.md "wikilink")，主要开发[电视游戏及](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")[掌机游戏](https://zh.wikipedia.org/wiki/掌机游戏 "wikilink")。公司名称源自已[倒闭的日本游戏开发商COMPILE](https://zh.wikipedia.org/wiki/倒闭 "wikilink")。2010年10月28日从[D4
-Enterprise取得了COMPILE全部的电视游戏营业权](https://zh.wikipedia.org/wiki/D4_Enterprise "wikilink")，但不包括现由[世嘉所有的](../Page/世嘉.md "wikilink")[噗呦噗呦系列](../Page/魔法氣泡系列.md "wikilink")。
+Enterprise取得了COMPILE全部的电视游戏营业权](https://zh.wikipedia.org/wiki/D4_Enterprise "wikilink")，但不包括现由[世嘉](../Page/世嘉.md "wikilink")所有的[噗呦噗呦系列以及现由](../Page/魔法氣泡系列.md "wikilink")所有的系列。
 
 ## 主要作品
 

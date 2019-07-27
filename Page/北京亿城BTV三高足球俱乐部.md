@@ -1,12 +1,12 @@
-**北京亿城BTV三高足球俱乐部**，也称**人大附中三高足球俱乐部**，简称**北京三高**，是一家位于[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[北京市的](../Page/北京市.md "wikilink")[足球俱乐部](https://zh.wikipedia.org/wiki/足球俱乐部 "wikilink")，成立于1992年。
+**北京亿城BTV三高足球俱乐部**，也称**人大附中三高足球俱乐部**，简称**北京三高**，是一家位于[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[北京市](../Page/北京市.md "wikilink")的[足球俱乐部](https://zh.wikipedia.org/wiki/足球俱乐部 "wikilink")，成立于1992年。
 
 ## 概况
 
 [Sangao_F.C._Logo_1.png](https://zh.wikipedia.org/wiki/File:Sangao_F.C._Logo_1.png "fig:Sangao_F.C._Logo_1.png")合作前的队徽，当时的俱乐部名为“人大附中三高足球俱乐部”\]\]
 [Sangao_F.C._Logo_2.png](https://zh.wikipedia.org/wiki/File:Sangao_F.C._Logo_2.png "fig:Sangao_F.C._Logo_2.png")
-俱乐部由[中国人民大学附属中学创办](../Page/中国人民大学附属中学.md "wikilink")，旨在结合文化课与足球，培养年轻球员。俱乐部名称中的“三高”意为“道德素质高、文化素质高、运动技能高”，这也是俱乐部的培养目标。俱乐部曾获北京市中学生足球比赛冠军、全国中学生足球比赛冠军。俱乐部的球员通常可以通过协议进入大学，如2000年时全队升入[北京理工大学](../Page/北京理工大学.md "wikilink")。\[1\]\[2\]\[3\]后来这一批球员成为[北京理工大学足球俱乐部的中坚](https://zh.wikipedia.org/wiki/北京理工大学足球俱乐部 "wikilink")。据统计，三高俱乐部90%的球员可以升入大学，余下10%进入职业球队。\[4\]
+俱乐部由[中国人民大学附属中学](../Page/中国人民大学附属中学.md "wikilink")创办，旨在结合文化课与足球，培养年轻球员。俱乐部名称中的“三高”意为“道德素质高、文化素质高、运动技能高”，这也是俱乐部的培养目标。俱乐部曾获北京市中学生足球比赛冠军、全国中学生足球比赛冠军。俱乐部的球员通常可以通过协议进入大学，如2000年时全队升入[北京理工大学](../Page/北京理工大学.md "wikilink")。\[1\]\[2\]\[3\]后来这一批球员成为[北京理工大学足球俱乐部的中坚](https://zh.wikipedia.org/wiki/北京理工大学足球俱乐部 "wikilink")。据统计，三高俱乐部90%的球员可以升入大学，余下10%进入职业球队。\[4\]
 
-俱乐部在北京的[永丰乡拥有](https://zh.wikipedia.org/wiki/永丰乡 "wikilink")180亩的训练基地。\[5\]
+俱乐部在北京的[西北旺地区](../Page/西北旺地区.md "wikilink")（原属永丰乡）拥有180亩的训练基地。\[5\]
 
 ## 联赛成绩
 
@@ -19,6 +19,8 @@
   - [张辛昕](../Page/张辛昕.md "wikilink")
   - [刘英](https://zh.wikipedia.org/wiki/刘英 "wikilink")
   - [张远](../Page/张远_\(足球运动员\).md "wikilink")
+  - [严鼎皓](https://zh.wikipedia.org/wiki/严鼎皓 "wikilink")
+  - [王上源](../Page/王上源.md "wikilink")
 
 ## 参考资料
 

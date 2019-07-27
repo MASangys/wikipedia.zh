@@ -1,5 +1,5 @@
 《**HEART of
-GOLD**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年8月18日於日本發行。
+GOLD**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年8月18日於日本發行。
 
 ## 解說
 
@@ -7,7 +7,7 @@ GOLD**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh
     POPS〜](https://zh.wikipedia.org/wiki/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜 "wikilink")》先行發售的單曲。
   - 標題歌是EXILE自己企劃，參與演出的音樂劇《HEART of GOLD〜STREET FUTURE OPERA BEAT
     POPS〜》的主題歌，唱出人類愛的抒情歌。
-  - [PV的故事以歌詞中出現的](https://zh.wikipedia.org/wiki/PV "wikilink")「紅色的花」為主題製作，本PV沒有EXILE本人們與與演出。女演員[水川麻美有參與演出](../Page/水川麻美.md "wikilink")。
+  - [PV的故事以歌詞中出現的](https://zh.wikipedia.org/wiki/PV "wikilink")「紅色的花」為主題製作，本PV沒有EXILE本人們與與演出。女演員[水川麻美](../Page/水川麻美.md "wikilink")有參與演出。
   - 《Good Dayz》是USA、MAKIDAI帶領的組合《[RATHER
     UNIQUE](https://zh.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")》的樂曲
 

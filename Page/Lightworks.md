@@ -9,7 +9,7 @@ GNU/Linux、Mac OS X 平台进行移植\[1\]，但由于开发进度原因，原
 日（[内测](https://zh.wikipedia.org/wiki/Alpha_release "wikilink")）\[3\]。
 
 剪辑师使用 Lightworks
-创作了一大批国际知名的，斩获[奥斯卡奖](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink")、[艾美奖的影片和电视节目](../Page/艾美奖.md "wikilink")，包括《[王者之聲：宣戰時刻](https://zh.wikipedia.org/wiki/王者之聲：宣戰時刻 "wikilink")》，[馬丁·史柯西斯的](https://zh.wikipedia.org/wiki/馬丁·史柯西斯 "wikilink")《[雨果的冒險](https://zh.wikipedia.org/wiki/雨果的冒險 "wikilink")》和《[神鬼無間](https://zh.wikipedia.org/wiki/神鬼無間 "wikilink")》，還有《[不可能的任務](https://zh.wikipedia.org/wiki/不可能的任務 "wikilink")》、《[黑色追緝令](https://zh.wikipedia.org/wiki/黑色追緝令 "wikilink")》、《[梅爾吉勃遜之英雄本色](https://zh.wikipedia.org/wiki/梅爾吉勃遜之英雄本色 "wikilink")》以及《[蝙蝠侠](../Page/蝙蝠俠_\(1989年電影\).md "wikilink")》。\[4\]\[5\]\[6\]
+创作了一大批国际知名的，斩获[奥斯卡奖](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink")、[艾美奖](../Page/艾美奖.md "wikilink")的影片和电视节目，包括《[王者之聲：宣戰時刻](https://zh.wikipedia.org/wiki/王者之聲：宣戰時刻 "wikilink")》，[馬丁·史柯西斯的](https://zh.wikipedia.org/wiki/馬丁·史柯西斯 "wikilink")《[雨果的冒險](https://zh.wikipedia.org/wiki/雨果的冒險 "wikilink")》和《[神鬼無間](https://zh.wikipedia.org/wiki/神鬼無間 "wikilink")》，還有《[不可能的任務](https://zh.wikipedia.org/wiki/不可能的任務 "wikilink")》、《[黑色追緝令](https://zh.wikipedia.org/wiki/黑色追緝令 "wikilink")》、《[梅爾吉勃遜之英雄本色](https://zh.wikipedia.org/wiki/梅爾吉勃遜之英雄本色 "wikilink")》以及《[蝙蝠侠](../Page/蝙蝠俠_\(1989年電影\).md "wikilink")》。\[4\]\[5\]\[6\]
 
 ## 历史
 

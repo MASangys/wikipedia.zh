@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2009年5月25日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2009年5月25日發行。
 
 ## 簡介
 
@@ -19,7 +19,7 @@
         電影『[最後的吸血鬼](https://zh.wikipedia.org/wiki/最後的吸血鬼 "wikilink")』主題曲。
 2.  **冬季異鄉人 (THE GREAT VACATION -extra- Live ver.)**
       -
-        [TAKURO為](https://zh.wikipedia.org/wiki/TAKURO "wikilink")[MISIA寫的歌曲](../Page/MISIA.md "wikilink")，GLAY翻唱。
+        [TAKURO為](https://zh.wikipedia.org/wiki/TAKURO "wikilink")[MISIA](../Page/MISIA.md "wikilink")寫的歌曲，GLAY翻唱。
 3.  **I am xxx (Instrumental)**
 4.  **THE GREAT VACATION VOL.1（預告篇）**
 

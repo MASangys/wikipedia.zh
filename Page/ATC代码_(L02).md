@@ -1,6 +1,6 @@
 ## L02A 激素及其相关药物（Hormones and related agents）
 
-### L02AA [雌激素类](../Page/雌激素.md "wikilink")（Estrogens）
+### L02AA [雌激素](../Page/雌激素.md "wikilink")类（Estrogens）
 
   -
     L02AA01 [己烯雌酚](../Page/己烯雌酚.md "wikilink")（Diethylstilbestrol）

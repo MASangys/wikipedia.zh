@@ -1,10 +1,10 @@
 「**Do it\!
-Now**」是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第15张[单曲](../Page/单曲.md "wikilink")，於2002年7月24日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+Now**」是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第15张[单曲](../Page/单曲.md "wikilink")，於2002年7月24日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「Do it\!
-    Now」是[早安少女組。三期成員](../Page/早安少女組。.md "wikilink")[後藤真希的畢業單曲](../Page/後藤真希.md "wikilink")。
+    Now」是[早安少女組。](../Page/早安少女組。.md "wikilink")三期成員[後藤真希](../Page/後藤真希.md "wikilink")的畢業單曲。
   - 此單曲只有「CD ONLY」1個版本。
   - 在8月5日於公信榜单曲週排行榜取得第3位。
 

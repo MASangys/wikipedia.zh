@@ -1,6 +1,6 @@
-《**GJ部**》（）為日本作家[新木伸所撰寫的輕小說系列](../Page/新木伸.md "wikilink")，插畫為[あるや](https://zh.wikipedia.org/wiki/あるや "wikilink")。2010年3月至2012年3月，《**GJ部**》全9卷刊行。2012年7月宣布動畫化。\[1\]2013年1月起於[日本電視台播放](../Page/日本電視台.md "wikilink")。新系列《**GJ部中等部**》（）於2012年4月發行。
+《**GJ部**》（）為日本作家[新木伸](../Page/新木伸.md "wikilink")所撰寫的輕小說系列，插畫為[あるや](https://zh.wikipedia.org/wiki/あるや "wikilink")。2010年3月至2012年3月，《**GJ部**》全9卷刊行。2012年7月宣布動畫化。\[1\]2013年1月起於[日本電視台](../Page/日本電視台.md "wikilink")播放。新系列《**GJ部中等部**》（）於2012年4月發行。
 
-2014年3月21日官方公開動畫30秒宣傳影片，即將推出特別篇OVA動畫《GJ部@》，《GJ部@》OVA於2014年5月5日在[BS日本電視台播出一小時的特別節目](../Page/BS日本.md "wikilink")，2014年5月14日於日本發售[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")&[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄46分鐘的本篇影像與特典影像。
+2014年3月21日官方公開動畫30秒宣傳影片，即將推出特別篇OVA動畫《GJ部@》，《GJ部@》OVA於2014年5月5日在[BS日本](../Page/BS日本.md "wikilink")電視台播出一小時的特別節目，2014年5月14日於日本發售[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")&[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄46分鐘的本篇影像與特典影像。
 
 ## 劇情簡介
 

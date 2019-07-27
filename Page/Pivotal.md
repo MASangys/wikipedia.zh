@@ -1,5 +1,5 @@
 [PivotalSoftware2.JPG](https://zh.wikipedia.org/wiki/File:PivotalSoftware2.JPG "fig:PivotalSoftware2.JPG")
-**毕威拓**（）是一家位于[美国](../Page/美国.md "wikilink")[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[计算机软件公司](https://zh.wikipedia.org/wiki/计算机软件 "wikilink")。Pivotal由[易安信和](https://zh.wikipedia.org/wiki/易安信 "wikilink")[威睿在](https://zh.wikipedia.org/wiki/威睿 "wikilink")2013年合资创建，之后[通用电气注资](../Page/通用电气.md "wikilink")1.05亿[美金](https://zh.wikipedia.org/wiki/美金 "wikilink")\[1\]，三家公司所持股份分别为62%、28%和10%。
+**毕威拓**（）是一家位于[美国](../Page/美国.md "wikilink")[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[计算机软件公司](https://zh.wikipedia.org/wiki/计算机软件 "wikilink")。Pivotal由[易安信和](https://zh.wikipedia.org/wiki/易安信 "wikilink")[威睿在](https://zh.wikipedia.org/wiki/威睿 "wikilink")2013年合资创建，之后[通用电气](../Page/通用电气.md "wikilink")注资1.05亿[美金](https://zh.wikipedia.org/wiki/美金 "wikilink")\[1\]，三家公司所持股份分别为62%、28%和10%。
 
 ## 历史
 
@@ -8,9 +8,9 @@ Foundry、Greenplum等业务。
 
 2013年4月1日，Pivotal公司在美国正式宣布成立，开始作为一个独立的实体运营。
 
-2013年4月24日，Pivotal宣布获得[GE](https://zh.wikipedia.org/wiki/GE "wikilink")（通用电气）1.05[亿](https://zh.wikipedia.org/wiki/亿 "wikilink")[美元的投资](../Page/美元.md "wikilink")。
+2013年4月24日，Pivotal宣布获得[GE](https://zh.wikipedia.org/wiki/GE "wikilink")（通用电气）1.05[亿](https://zh.wikipedia.org/wiki/亿 "wikilink")[美元](../Page/美元.md "wikilink")的投资。
 
-2014年5月5日，在美国[拉斯维加斯举行的](../Page/拉斯维加斯.md "wikilink")2014年EMC
+2014年5月5日，在美国[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")举行的2014年EMC
 World全球大会上，EMC宣布推出EMC联邦战略，联邦成员包括VMware、Pivotal和[RSA](https://zh.wikipedia.org/wiki/RSA "wikilink")。
 
 2018年4月9日，Pivotal計劃以每股14美元至16美元的價格發行3700萬部A類普通股，最高融資5.92億美元。在[紐約證券交易所上市](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")，交易代碼為“PVTL”。

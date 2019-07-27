@@ -1,4 +1,4 @@
-**FANZA成人獎**（，）是[日本](../Page/日本.md "wikilink")[FANZA所主辦與](../Page/DMM.com.md "wikilink")[AV女優及](../Page/AV女優.md "wikilink")[成人影片產業相關的獎項](https://zh.wikipedia.org/wiki/成人影片 "wikilink")，自2014年開辦自今。
+**FANZA成人獎**（，）是[日本](../Page/日本.md "wikilink")[FANZA所主辦與](../Page/DMM.com.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")及[成人影片產業相關的獎項](https://zh.wikipedia.org/wiki/成人影片 "wikilink")，自2014年開辦自今。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 成立之初时活动名称为DMMアダルトアワード（英: DMM ADULT AWARD）。
 
 2015年度，活動名稱改為DMM.R18アダルトアワード（英: DMM.R18 ADULT
-AWARD），場地由[SHIBUYA-AX改為](../Page/SHIBUYA-AX.md "wikilink")[豊洲PIT](https://zh.wikipedia.org/wiki/豊洲PIT "wikilink")。此外，媒體獎設立之後，會場投票與現場直播也開始實施。
+AWARD），場地由[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")改為[豊洲PIT](https://zh.wikipedia.org/wiki/豊洲PIT "wikilink")。此外，媒體獎設立之後，會場投票與現場直播也開始實施。
 
 2019年开始活动名称更改为「**FANZAアダルトアワード**」（英: FANZA ADULT AWARD），场地变更为STUDIO
 COAST。
@@ -240,9 +240,9 @@ DEBUT**》（2018年5月24日、[SOD](https://zh.wikipedia.org/wiki/SOD "wikilin
     ，[奇摩新聞](https://zh.wikipedia.org/wiki/奇摩新聞 "wikilink")，2014年4月24日
 3.  2014年度は結果が僅差のため2名（プラチナ・ゴールド）選出された。
 4.  11・12月デビュー者は翌年の対象となっている。
-5.  [【ＤＭＭアダルトアワード】最優秀女優賞に上原亜衣](http://www.tokyo-sports.co.jp/entame/entertainment/259898/)，[東京體育日報](../Page/東京體育.md "wikilink")，2014年04月24日
+5.  [【ＤＭＭアダルトアワード】最優秀女優賞に上原亜衣](http://www.tokyo-sports.co.jp/entame/entertainment/259898/)，[東京體育](../Page/東京體育.md "wikilink")日報，2014年04月24日
 6.  [【ＤＭＭアダルトアワード】最優秀新人賞の白石茉莉奈が涙](http://www.tokyo-sports.co.jp/entame/entertainment/259909/)，2014年04月24日
-7.  [【DMMアダルトアワード】麻美ゆま　特別賞で感激　プレゼンターは大久保佳代子](http://www.tokyo-sports.co.jp/entame/entertainment/259915/)，[東京體育日報](../Page/東京體育.md "wikilink")，2014年04月24日
+7.  [【DMMアダルトアワード】麻美ゆま　特別賞で感激　プレゼンターは大久保佳代子](http://www.tokyo-sports.co.jp/entame/entertainment/259915/)，[東京體育](../Page/東京體育.md "wikilink")日報，2014年04月24日
 8.  [最優秀女優賞は湊莉久
     涙流しファンに感謝](http://www.tokyo-sports.co.jp/entame/entertainment/396672/)
     - 東スポweb 2015年5月4日

@@ -1,4 +1,4 @@
-**《Everlasting》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鍾舒漫的第九張個人專輯](../Page/鍾舒漫.md "wikilink")，於2013年9月17日推出。
+**《Everlasting》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鍾舒漫](../Page/鍾舒漫.md "wikilink")的第九張個人專輯，於2013年9月17日推出。
 
 ## 曲目
 

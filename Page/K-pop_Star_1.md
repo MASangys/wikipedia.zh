@@ -8,9 +8,9 @@ Victory](../Page/減肥淘汰賽_Victory.md "wikilink")》逢[韓國時間星期
 
 ## 評審
 
-  - [寶兒](../Page/寶兒.md "wikilink")：[SM娛樂旗下](../Page/SM娛樂.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。
-  - [梁鉉錫](../Page/梁鉉錫.md "wikilink")：[YG娛樂創辦人](../Page/YG娛樂.md "wikilink")，曾為[徐太志和孩子們成員](../Page/徐太志和孩子們.md "wikilink")。
-  - [朴軫永](../Page/朴軫永.md "wikilink")：[JYP娛樂創辦人](../Page/JYP娛樂.md "wikilink")、韓國知名的唱跳男歌手及音樂製作人。
+  - [寶兒](../Page/寶兒.md "wikilink")：[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。
+  - [梁鉉錫](../Page/梁鉉錫.md "wikilink")：[YG娛樂](../Page/YG娛樂.md "wikilink")創辦人，曾為[徐太志和孩子們](../Page/徐太志和孩子們.md "wikilink")成員。
+  - [朴軫永](../Page/朴軫永.md "wikilink")：[JYP娛樂](../Page/JYP娛樂.md "wikilink")創辦人、韓國知名的唱跳男歌手及音樂製作人。
 
 ## 分集內容
 

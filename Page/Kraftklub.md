@@ -1,5 +1,5 @@
 **Kraftklub**
-是一支来自[德国开姆尼茨的五人乐队](../Page/德国.md "wikilink")，他们的音乐结合了[独立摇滚与德语](../Page/独立摇滚.md "wikilink")[诵唱](https://zh.wikipedia.org/wiki/Sprechgesang "wikilink")，普遍被认为是[独立音乐与](../Page/獨立音樂.md "wikilink")
+是一支来自[德国](../Page/德国.md "wikilink")开姆尼茨的五人乐队，他们的音乐结合了[独立摇滚](../Page/独立摇滚.md "wikilink")与德语[诵唱](https://zh.wikipedia.org/wiki/Sprechgesang "wikilink")，普遍被认为是[独立音乐与](../Page/獨立音樂.md "wikilink")
 [Rap](../Page/饒舌.md "wikilink") 的混合\[1\]。
 
 ## 作品目录

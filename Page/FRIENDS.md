@@ -1,4 +1,4 @@
-「**FRIENDS**」是[日本的女子偶像歌手](../Page/日本.md "wikilink")[真野惠里菜的第](../Page/真野惠里菜.md "wikilink")1枚原創專輯。於2009年12月16日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
+「**FRIENDS**」是[日本](../Page/日本.md "wikilink")的女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第1枚原創專輯。於2009年12月16日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要
 
@@ -45,7 +45,7 @@
     作曲：[KAN](https://zh.wikipedia.org/wiki/KAN "wikilink")
     編曲：[たいせい](https://zh.wikipedia.org/wiki/たいせい "wikilink")）
       -
-        2nd單曲・[TBS電視台節目](../Page/TBS電視台.md "wikilink")「メガデジ」片尾曲
+        2nd單曲・[TBS電視台](../Page/TBS電視台.md "wikilink")節目「メガデジ」片尾曲
 7.  **[幸運之光](https://zh.wikipedia.org/wiki/幸運之光 "wikilink")**（ラッキーオーラ）
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink")
     作曲：[KAN](https://zh.wikipedia.org/wiki/KAN "wikilink")
@@ -61,7 +61,7 @@
     作曲：[畠山俊昭](https://zh.wikipedia.org/wiki/畠山俊昭 "wikilink")
     編曲：[solaya](https://zh.wikipedia.org/wiki/solaya "wikilink")）
       -
-        4th單曲・[東京電視台動畫](../Page/東京電視台.md "wikilink")「キティズパラダイス」片尾曲
+        4th單曲・[東京電視台](../Page/東京電視台.md "wikilink")動畫「キティズパラダイス」片尾曲
 10. **在睫毛的前端有你**（まつげの先に君がいる）
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink")
     作曲：[畠山俊昭](https://zh.wikipedia.org/wiki/畠山俊昭 "wikilink")

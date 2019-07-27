@@ -1,4 +1,4 @@
-《**AOA**》為[香港唱跳團體](../Page/香港.md "wikilink")[AOA發行首張EP](../Page/A2A.md "wikilink")，唱片共收錄7首歌曲。
+《**AOA**》為[香港](../Page/香港.md "wikilink")唱跳團體[AOA發行首張EP](../Page/A2A.md "wikilink")，唱片共收錄7首歌曲。
 
 ## 曲目
 
@@ -44,7 +44,7 @@
 <td><p>張楚翹</p></td>
 <td><p>朱俊傑</p></td>
 <td><p>伍樂城</p></td>
-<td><p>與<a href="../Page/鄒文正.md" title="wikilink">鄒文正合唱</a></p></td>
+<td><p>與<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>合唱</p></td>
 </tr>
 <tr class="even">
 <td><p>4.</p></td>

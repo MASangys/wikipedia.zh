@@ -1,4 +1,4 @@
-**Peterson算法**是一个实现[互斥锁的](../Page/互斥锁.md "wikilink")[并发程序设计](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[算法](../Page/算法.md "wikilink")，可以控制两个进程访问一个共享的单用户资源而不发生访问冲突。Gary
+**Peterson算法**是一个实现[互斥锁](../Page/互斥锁.md "wikilink")的[并发程序设计](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[算法](../Page/算法.md "wikilink")，可以控制两个进程访问一个共享的单用户资源而不发生访问冲突。Gary
 L. Peterson于1981年提出此算法\[1\] \[2\]。
 
 ## 算法概要

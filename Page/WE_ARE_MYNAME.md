@@ -1,5 +1,5 @@
 《**WE ARE
-MYNAME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME的第](../Page/MYNAME.md "wikilink")1枚原創日語專輯，於2013年3月27日發行。唱片公司為[irving](https://zh.wikipedia.org/wiki/irving "wikilink")。
+MYNAME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第1枚原創日語專輯，於2013年3月27日發行。唱片公司為[irving](https://zh.wikipedia.org/wiki/irving "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@ MYNAME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wiki
     Tokyo的公演片段，以及收錄了《Message（Japanese
     Ver.）》、《SUMMER PARTY》、《What's Up》、《Hello & Goodbye（Japanese
     Ver.）》、《WE ARE THE NIGHT》和《PARI PARI》的PV。
-  - 在4月8日於[Oricon公信榜專輯每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")3位。
+  - 在4月8日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯每週排行榜取得第3位。
 
 ## 收錄內容
 

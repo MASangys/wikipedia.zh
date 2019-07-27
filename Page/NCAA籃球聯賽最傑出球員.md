@@ -1,6 +1,6 @@
 **NCAA籃球聯賽最傑出球員**（英文：NCAA Basketball Tournament **M**ost **O**utstanding
 **P**layer），簡稱**MOP獎**，為一年一度的籃球獎項，由[美聯社選出頒發給](https://zh.wikipedia.org/wiki/美聯社 "wikilink")[NCAA男子與女子籃球在](https://zh.wikipedia.org/wiki/NCAA "wikilink")**最终四強賽**（俗稱**Final
-Four**）中表現最傑出的球員。MOP獎通常頒發給冠軍隊的球員，特別是從1981年起取消季軍戰之后。最近一位非冠軍隊伍的得主為1983年的[哈基姆·歐拉朱萬](https://zh.wikipedia.org/wiki/哈基姆·歐拉朱萬 "wikilink")，而最近一位非冠軍隊伍的女性得主為1991年的[唐·斯特丽](../Page/唐·斯特丽.md "wikilink")。NCAA史上只有一位非先發球員得到此獎：2013年[路易斯維爾大學的](../Page/路易斯維爾大學.md "wikilink")[Luke
+Four**）中表現最傑出的球員。MOP獎通常頒發給冠軍隊的球員，特別是從1981年起取消季軍戰之后。最近一位非冠軍隊伍的得主為1983年的[哈基姆·歐拉朱萬](https://zh.wikipedia.org/wiki/哈基姆·歐拉朱萬 "wikilink")，而最近一位非冠軍隊伍的女性得主為1991年的[唐·斯特丽](../Page/唐·斯特丽.md "wikilink")。NCAA史上只有一位非先發球員得到此獎：2013年[路易斯維爾大學](../Page/路易斯維爾大學.md "wikilink")的[Luke
 Hancock](https://zh.wikipedia.org/wiki/Luke_Hancock "wikilink")。
 
 ## 歷年得獎者

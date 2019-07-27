@@ -22,7 +22,7 @@ One版的存檔被清空，引發玩家眾怒。原因是因為2K官方曾保證
 ## 歐洲聯賽
 
 2013年7月2日，[2K
-Sports與](../Page/2K_Sports.md "wikilink")[歐洲籃球聯賽簽訂一個獨家的長期合約](../Page/歐洲籃球聯賽.md "wikilink")，將聯賽球隊納入遊戲中。\[6\]\[7\]這是歐洲聯賽球隊首次出現在《NBA
+Sports與](../Page/2K_Sports.md "wikilink")[歐洲籃球聯賽](../Page/歐洲籃球聯賽.md "wikilink")簽訂一個獨家的長期合約，將聯賽球隊納入遊戲中。\[6\]\[7\]這是歐洲聯賽球隊首次出現在《NBA
 2K》系列中，正如同[美商藝電](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")《[勁爆美國職籃](https://zh.wikipedia.org/wiki/勁爆美國職籃 "wikilink")》系列中的《[勁爆美國職籃08](../Page/勁爆美國職籃08.md "wikilink")》至《[勁爆美國職籃10](../Page/勁爆美國職籃10.md "wikilink")》，皆包含[國際籃球總會球隊和](https://zh.wikipedia.org/wiki/國際籃球總會 "wikilink")[美國國家男子籃球隊](../Page/美國國家男子籃球隊.md "wikilink")（後者也出現於《[NBA
 2K13](https://zh.wikipedia.org/wiki/NBA_2K13 "wikilink")》中）。
 
@@ -87,10 +87,10 @@ Live團隊宣布由[雷霸龍·詹姆士來挑選](https://zh.wikipedia.org/wiki
 
 ## 評價
 
-這款遊戲普遍地獲得好評，在評論汇总網站[Metacritic上的汇总得分为](../Page/Metacritic.md "wikilink")85分（滿分100分）。\[10\][IGN編輯萊恩](../Page/IGN.md "wikilink")·麥克卡弗瑞（Ryan
+這款遊戲普遍地獲得好評，在評論汇总網站[Metacritic](../Page/Metacritic.md "wikilink")上的汇总得分为85分（滿分100分）。\[10\][IGN](../Page/IGN.md "wikilink")編輯萊恩·麥克卡弗瑞（Ryan
 McCaffrey）給予這款遊戲9.3分的評分，並稱讚遊戲的玩法說道「擁有夠多的新特色，還有比以往更嚴謹的玩法，NBA
-2K14超越了他的前幾代和競爭對手……再次地」。\[11\][GameSpot的編輯湯姆](../Page/GameSpot.md "wikilink")·麥克西亞（Tom
-McShea）則給予8.0的評分，並讚揚遊戲很好，但是批評遊戲的設計。\[12\]\[13\][今日美國的布雷特](../Page/今日美國.md "wikilink")·莫利納（Brett
+2K14超越了他的前幾代和競爭對手……再次地」。\[11\][GameSpot](../Page/GameSpot.md "wikilink")的編輯湯姆·麥克西亞（Tom
+McShea）則給予8.0的評分，並讚揚遊戲很好，但是批評遊戲的設計。\[12\]\[13\][今日美國](../Page/今日美國.md "wikilink")的布雷特·莫利納（Brett
 Molina）在滿分4顆星中給予3.5星，並指出遊戲新的運球與投籃技巧使新手更容易上手，但是令老牌玩家們感到沮喪。\[14\]
 
 ## 新增與變更

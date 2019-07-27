@@ -14,7 +14,7 @@ Old》**是喜剧[老爸老妈的浪漫史](../Page/老爸老妈的浪漫史.md 
   - 泰德声称在西班牙参加了[奔牛節](https://zh.wikipedia.org/wiki/奔牛節 "wikilink")，并表示拥有能将东西打包成像[俄罗斯方块的严丝合缝](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")。
   - 马修不同意泰德把豆袋椅带去罗马说“意大利不需要这样皱巴巴 红彤彤
     漏洞百出还外加一股酒精加毒品味的东西”因为他们有[前总理](../Page/意大利总理列表.md "wikilink")[西尔维奥·贝卢斯科尼](../Page/西尔维奥·贝卢斯科尼.md "wikilink")。
-  - 泰德、马修和莉莉在2002年新年时装扮成[天命真女组合](../Page/天命真女.md "wikilink")，泰德是组合里的[碧昂丝](https://zh.wikipedia.org/wiki/碧昂丝 "wikilink")（还暗示碧昂丝后来嫁给[Jay-Z](https://zh.wikipedia.org/wiki/Jay-Z "wikilink")）
+  - 泰德、马修和莉莉在2002年新年时装扮成[天命真女](../Page/天命真女.md "wikilink")组合，泰德是组合里的[碧昂丝](https://zh.wikipedia.org/wiki/碧昂丝 "wikilink")（还暗示碧昂丝后来嫁给[Jay-Z](https://zh.wikipedia.org/wiki/Jay-Z "wikilink")）
   - 泰德说“我是过来嚼泡泡糖顺便帮你们打包的但现在我没有泡泡...”这一段来自John
     Carpenter在电影[极度空间的情节](https://zh.wikipedia.org/wiki/极度空间 "wikilink")。
   - 在真人激光枪的战场上巴尼的倒挂在天花板射杀两人的场面来自[这个杀手不太冷](https://zh.wikipedia.org/wiki/这个杀手不太冷 "wikilink")。
@@ -29,7 +29,7 @@ How To Fight Loneliness -
 Donna
 Bowman在[影音俱乐部上给这集B的评价](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")\[1\]。
 
-Max Nicholson在[IGN上给这集评](../Page/IGN.md "wikilink")7分\[2\]。
+Max Nicholson在[IGN](../Page/IGN.md "wikilink")上给这集评7分\[2\]。
 
 TV Fanatic给这集4星半的评分，满分5星\[3\]。
 

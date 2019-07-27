@@ -1,7 +1,7 @@
 **AllThingsD.com**
 是一个在线出版媒介，侧重科技和[创业公司新闻](https://zh.wikipedia.org/wiki/创业公司 "wikilink")，分析和媒体报道。\[1\]2007年由和创建大会的衍生物。
 
-它是[道琼斯公司全资拥有的子公司](../Page/道琼斯公司.md "wikilink"),也是[华尔街日报的数码网络的成员之一](../Page/华尔街日报.md "wikilink")，其中还包括WSJ.com,
+它是[道琼斯公司](../Page/道琼斯公司.md "wikilink")全资拥有的子公司,也是[华尔街日报](../Page/华尔街日报.md "wikilink")的数码网络的成员之一，其中还包括WSJ.com,
 [MarketWatch](https://zh.wikipedia.org/wiki/MarketWatch "wikilink"), , 和
 [SmartMoney](https://zh.wikipedia.org/wiki/SmartMoney "wikilink")。
 AllThingsD.com在2010年12月举办过D: Dive Into Mobile大会，\[2\]

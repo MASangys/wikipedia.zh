@@ -1,4 +1,4 @@
-是[藝電足球](https://zh.wikipedia.org/wiki/藝電 "wikilink")[運動類電子遊戲](https://zh.wikipedia.org/wiki/体育类游戏 "wikilink")[FIFA系列的第](../Page/FIFA系列.md "wikilink")20款，由藝電加拿大開發，[梅西擔任代言人](https://zh.wikipedia.org/wiki/梅西 "wikilink")。
+是[藝電足球](https://zh.wikipedia.org/wiki/藝電 "wikilink")[運動類電子遊戲](https://zh.wikipedia.org/wiki/体育类游戏 "wikilink")[FIFA系列](../Page/FIFA系列.md "wikilink")的第20款，由藝電加拿大開發，[梅西擔任代言人](https://zh.wikipedia.org/wiki/梅西 "wikilink")。
 
 試玩版的FIFA 13
 可試玩[曼城](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")、[阿仙奴](https://zh.wikipedia.org/wiki/阿仙奴 "wikilink")、[AC米蘭](https://zh.wikipedia.org/wiki/AC米蘭 "wikilink")、[祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")、[多蒙特五隊球隊](https://zh.wikipedia.org/wiki/多蒙特足球會 "wikilink")。該場館採用了[曼城的](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")[曼徹斯特市球場](../Page/曼徹斯特市球場.md "wikilink")。該演示提供友誼賽的一半長度的3實時分鐘。
@@ -38,11 +38,11 @@
 
 ## 解说
 
-[马丁·泰勒和](../Page/马丁·泰勒.md "wikilink")[阿森纳前球星](https://zh.wikipedia.org/wiki/阿森纳 "wikilink")[阿兰·马丁·史密斯在FIFA](https://zh.wikipedia.org/wiki/阿兰·马丁·史密斯 "wikilink")
+[马丁·泰勒](../Page/马丁·泰勒.md "wikilink")和[阿森纳前球星](https://zh.wikipedia.org/wiki/阿森纳 "wikilink")[阿兰·马丁·史密斯在FIFA](https://zh.wikipedia.org/wiki/阿兰·马丁·史密斯 "wikilink")
 13中再次担当英语解说员，另外还有[克莱夫·泰尔德斯利和](https://zh.wikipedia.org/wiki/克莱夫·泰尔德斯利 "wikilink")[英格兰名将](https://zh.wikipedia.org/wiki/英格兰国家足球队 "wikilink")[安迪·汤森德](https://zh.wikipedia.org/wiki/安迪·汤森德 "wikilink")。除此之外，Geoff
 Shreeves在场边提供伤情报道，Alan McInally带来最新战报（仅限生涯模式和锦标赛模式中）。
 
-另外，[ESPN的几位拉丁美洲解说员](../Page/ESPN.md "wikilink")，萨尔瓦多人费尔南多·帕洛莫、阿根廷退役前锋[-{zh-hans:马里奥·肯佩斯;zh-hk:馬里奧·甘巴斯;zh-tw:馬利歐·肯佩斯}-和墨西哥人Ciro](../Page/马里奥·肯佩斯.md "wikilink")
+另外，[ESPN](../Page/ESPN.md "wikilink")的几位拉丁美洲解说员，萨尔瓦多人费尔南多·帕洛莫、阿根廷退役前锋[-{zh-hans:马里奥·肯佩斯;zh-hk:馬里奧·甘巴斯;zh-tw:馬利歐·肯佩斯}-和墨西哥人Ciro](../Page/马里奥·肯佩斯.md "wikilink")
 Procuna，都将在游戏的拉美版中现声。
 
 ## 赛事及球队
@@ -233,7 +233,7 @@ Football
 ## 球场
 
 FIFA
-13中共包含69座球场，其中包括两座新添加的真实球场：[托特纳姆热刺的主场](https://zh.wikipedia.org/wiki/托特纳姆热刺 "wikilink")[白鹿巷球场和](https://zh.wikipedia.org/wiki/白鹿巷球场 "wikilink")[沙特阿拉伯国家足球队的主场](https://zh.wikipedia.org/wiki/沙特阿拉伯国家足球队 "wikilink")[法赫德国王国际体育场](https://zh.wikipedia.org/wiki/法赫德国王国际体育场 "wikilink")。但是，由于艺电未能与[巴塞罗那足球俱乐部达成许可协议](../Page/巴塞罗那足球俱乐部.md "wikilink")，在之前多个版本中出现的巴塞罗那的主场[诺坎普球场](https://zh.wikipedia.org/wiki/诺坎普球场 "wikilink")，并未出现在本版中。\[3\]以下以**粗体**显示者为本版新加入的球场。
+13中共包含69座球场，其中包括两座新添加的真实球场：[托特纳姆热刺的主场](https://zh.wikipedia.org/wiki/托特纳姆热刺 "wikilink")[白鹿巷球场和](https://zh.wikipedia.org/wiki/白鹿巷球场 "wikilink")[沙特阿拉伯国家足球队的主场](https://zh.wikipedia.org/wiki/沙特阿拉伯国家足球队 "wikilink")[法赫德国王国际体育场](https://zh.wikipedia.org/wiki/法赫德国王国际体育场 "wikilink")。但是，由于艺电未能与[巴塞罗那足球俱乐部](../Page/巴塞罗那足球俱乐部.md "wikilink")达成许可协议，在之前多个版本中出现的巴塞罗那的主场[诺坎普球场](https://zh.wikipedia.org/wiki/诺坎普球场 "wikilink")，并未出现在本版中。\[3\]以下以**粗体**显示者为本版新加入的球场。
 
 ### 真实球场
 

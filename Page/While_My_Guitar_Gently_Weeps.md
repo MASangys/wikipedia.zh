@@ -1,6 +1,6 @@
 《**当我的吉他轻轻地哭泣**》（While My Guitar Gently
-Weeps）是一首[披头士乐队的歌曲](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，由[乔治·哈里森所作](../Page/乔治·哈里森.md "wikilink")，被收录于1968年的专辑《[The
-Beatles](https://zh.wikipedia.org/wiki/The_Beatles_\(album\) "wikilink")》（俗称为“白色专辑”）中。这首歌的主音吉他独奏是由[埃里克·克莱普顿演奏](../Page/埃里克·克莱普顿.md "wikilink")，尽管在专辑中没有正式署他的名字\[1\]。
+Weeps）是一首[披头士乐队的歌曲](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，由[乔治·哈里森](../Page/乔治·哈里森.md "wikilink")所作，被收录于1968年的专辑《[The
+Beatles](https://zh.wikipedia.org/wiki/The_Beatles_\(album\) "wikilink")》（俗称为“白色专辑”）中。这首歌的主音吉他独奏是由[埃里克·克莱普顿](../Page/埃里克·克莱普顿.md "wikilink")演奏，尽管在专辑中没有正式署他的名字\[1\]。
 
 ## 参与人员
 

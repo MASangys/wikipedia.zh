@@ -1,4 +1,4 @@
-《**HEAT**》（）是[金賢重在](../Page/金賢重.md "wikilink")2012年7月4日於日本發行的第二張個人單曲。
+《**HEAT**》（）是[金賢重](../Page/金賢重.md "wikilink")在2012年7月4日於日本發行的第二張個人單曲。
 
 ## 單曲概述
 
@@ -41,7 +41,7 @@
 </tbody>
 </table>
 
-  - 本作音源先行於2012年6月29日在[RecoChoku及其他音源發佈網站公開](../Page/RecoChoku.md "wikilink")。
+  - 本作音源先行於2012年6月29日在[RecoChoku](../Page/RecoChoku.md "wikilink")及其他音源發佈網站公開。
   - 本作另於2012年7月13日由台灣環球音樂發行台壓雙版本（HEAT 初回限定盤A CD+DVD、HEAT
     初回限定盤ABCD+DVD）\[1\]。
 
@@ -56,7 +56,7 @@
 | Let's Party | 2012年7月4日  |
 |             |            |
 
-  - 2012年5月26日，[金賢重於首爾廣壯洞](../Page/金賢重.md "wikilink")(AX-KOREA)舉行的樂天免稅店
+  - 2012年5月26日，[金賢重](../Page/金賢重.md "wikilink")於首爾廣壯洞(AX-KOREA)舉行的樂天免稅店
     FanMeeting中透露隔日5月27日進行《HEAT》[Music
     Video的拍攝](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。幾日後因拍攝畫面遭群眾演員外洩至網路，已擇日進行重拍作業。
   - 2012年6月14日，日本富士電視台晨間新聞《[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")》播放娛樂新聞時公開《HEAT》音樂錄影帶片段畫面，畫面中金賢重化身搖滾樂團主唱搭配著真實的搖滾樂隊站上近500名聽眾團團包圍的舞台中盡情的演唱著新曲，展現了新鮮的“玩樂團的金賢重”樣貌\[2\]\[3\]，官方預告亦於[YOUTUBE公開](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")\[4\]。MV中金賢重所引領的樂團為韓國人氣搖滾團體-Downhell。
@@ -88,10 +88,10 @@
 ### 曲目介紹
 
 1.  HEAT
-      - 由日本搖滾組合[B'z提供歌曲](../Page/B'z.md "wikilink")，是B'Z出道24年(2012年)以來首次共同提供詞曲。組合主唱[稻葉浩志擔當作詞](../Page/稻葉浩志.md "wikilink")，吉他[松本孝弘擔當作曲](../Page/松本孝弘.md "wikilink")。B'z不僅提供了歌曲，亦直接參與歌曲錄製，稲葉浩志擔任和音，松本孝弘親自演奏吉他\[5\]\[6\]。
+      - 由日本搖滾組合[B'z](../Page/B'z.md "wikilink")提供歌曲，是B'Z出道24年(2012年)以來首次共同提供詞曲。組合主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")擔當作詞，吉他[松本孝弘](../Page/松本孝弘.md "wikilink")擔當作曲。B'z不僅提供了歌曲，亦直接參與歌曲錄製，稲葉浩志擔任和音，松本孝弘親自演奏吉他\[5\]\[6\]。
       - 本作主打歌曲《HEAT》結合了令人情緒奔放的旋律與朗朗上口的歌詞。稻葉的高亢嗓音和賢重甜美的音色形成了絕妙的組合，被稱為「如泣的吉他」的松本所演奏出的特殊曲調更為樂曲增添色彩\[7\]。
 2.  Let's Party
-      - 由從[SS501時期就已長期合作的作曲家Jimmy](../Page/SS501.md "wikilink")
+      - 由從[SS501](../Page/SS501.md "wikilink")時期就已長期合作的作曲家Jimmy
         Richard及STEVEN LEE和作詞人Kim Ji
         Hyang共同製作的曲目，以輕快的夏日風情傳遞對戀人的滿溢愛情，再搭配上賢重的可愛笑容和俏皮的舞蹈動作更加令人沉溺於甜蜜的氛圍。
 
@@ -118,7 +118,7 @@
   - 2012年7月14日與日本音樂人[NAOTO INTI
     RAYMI攜手合作於](https://zh.wikipedia.org/wiki/NAOTO_INTI_RAYMI "wikilink")[日本](../Page/日本.md "wikilink")[埼玉超級體育館舉辦兩場名為](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")『金賢重與NAOTO
     INTIRAY 「DOUBLE FANTASISTA」』的公演\[10\]
-  - 2012年7月15日另一次購齊五種版本免費參與[金賢重於與上述同場地舉行的](../Page/金賢重.md "wikilink")『Kim
+  - 2012年7月15日另一次購齊五種版本免費參與[金賢重](../Page/金賢重.md "wikilink")於與上述同場地舉行的『Kim
     Hyun Joong HEAT 2012 in
     JAPAN二單販售紀念會』，名額3萬2000人次\[11\]\[12\]\[13\]。上午場次綵排途中因喉嚨不適前往就醫，導致延遲1個小時開演，隨後演唱「如果妳也和我一樣」前淚灑舞台
 

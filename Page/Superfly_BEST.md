@@ -1,11 +1,11 @@
 《**Superfly
-BEST**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/Superfly.md "wikilink")2013年9月25日發行的首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+BEST**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2013年9月25日發行的首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 簡介
 
   - 本專輯為Superfly首次發行精選輯，收錄自出道以來的單曲，初回限定盤DVD收錄單曲的音樂錄影帶。
   - 新曲〈Bi-Li-Li
-    Emotion〉是繼〈[Force](../Page/Force_\(Superfly單曲\).md "wikilink")〉之後再次搭配上[朝日電視台連續劇](../Page/朝日電視台.md "wikilink")《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題曲\[1\]。
+    Emotion〉是繼〈[Force](../Page/Force_\(Superfly單曲\).md "wikilink")〉之後再次搭配上[朝日電視台](../Page/朝日電視台.md "wikilink")連續劇《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題曲\[1\]。
   - 專輯收錄的三首新曲各有含意，〈Always〉代表「過去」、〈Bi-Li-Li
     Emotion〉代表「現在」、〈StartingOver〉代表「未來」\[2\]。
 
@@ -22,7 +22,7 @@ BEST**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/Su
       -
         作詞：越智志帆　作曲：多保孝一　編曲：蔦谷好位置
     <!-- end list -->
-      - [朝日電視台連續劇](../Page/朝日電視台.md "wikilink")《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題曲
+      - [朝日電視台](../Page/朝日電視台.md "wikilink")連續劇《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題曲
 2.  ハロー・ハロー
 3.  マニフェスト
 4.  i spy i spy (Superfly× JET)
@@ -40,7 +40,7 @@ BEST**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/Su
       -
         作詞：越智志帆　作曲：多保孝一　編曲：蔦谷好位置
     <!-- end list -->
-      - [東京電視台紀錄片節目](../Page/東京電視台.md "wikilink")《Crossroad》片尾曲
+      - [東京電視台](../Page/東京電視台.md "wikilink")紀錄片節目《Crossroad》片尾曲
 
 ### CD Disc 2
 

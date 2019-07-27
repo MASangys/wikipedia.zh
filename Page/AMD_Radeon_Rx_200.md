@@ -1,6 +1,6 @@
 **AMD Radeon Rx
 200**系列[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，[研發代號](https://zh.wikipedia.org/wiki/代號 "wikilink")「*Volcanic
-Islands*」（[火山島](https://zh.wikipedia.org/wiki/火山島 "wikilink")），是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器系列](../Page/圖形處理器.md "wikilink")，接替開發代號「Sea
+Islands*」（[火山島](https://zh.wikipedia.org/wiki/火山島 "wikilink")），是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")系列，接替開發代號「Sea
 Islands」（即[AMD Radeon HD
 8000系列](../Page/AMD_Radeon_HD_8000.md "wikilink")）的產品線。Volcanic
 Islands系列顯示核心原預計2014年推出，屆時將與對手[NVIDIA的Maxwell系列顯示核心和](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[英特爾第二代](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Xeon
@@ -11,7 +11,7 @@ Platform
 Alliance（通用平台聯盟）的28[納米Gate](https://zh.wikipedia.org/wiki/納米 "wikilink")-Last製程來生產。\[2\]
 
 「**Pirates
-Islands**」（[海盜群島](https://zh.wikipedia.org/wiki/海盜 "wikilink")）將會是最後一個以[島嶼為研發代號的顯示核心系列](../Page/島嶼.md "wikilink")\[3\]，接替「Volcanic
+Islands**」（[海盜群島](https://zh.wikipedia.org/wiki/海盜 "wikilink")）將會是最後一個以[島嶼](../Page/島嶼.md "wikilink")為研發代號的顯示核心系列\[3\]，接替「Volcanic
 Islands」系列，是為現時的Radeon Rx 300系列；而「Pirates Islands」首發產品則是歸類到Rx
 200系列的、核心代號「Tonga」的Radeon R9 285。\[4\]
 
@@ -30,12 +30,12 @@ GPU14技術日正式確認並對外公佈新的顯示核心型號命名規則。
 ### TrueAudio音频技术
 
 研發代號『Hawaii XT/Pro』顯示核心以及Radeon R7 260的『Bonaire
-XTX』顯示核心新增TureAudio可程式音訊流水線技術，最高支援24聲道採樣編碼的環繞聲輸出或是身歷聲[高保真音訊輸出](../Page/高保真.md "wikilink")。\[10\]
+XTX』顯示核心新增TureAudio可程式音訊流水線技術，最高支援24聲道採樣編碼的環繞聲輸出或是身歷聲[高保真](../Page/高保真.md "wikilink")音訊輸出。\[10\]
 
 ### TressFX
 
 TressFX技術，是超微透過DirectX
-11所實作的3D畫面處理技術，能逼真展現像是頭髮絲等超精細的畫面細節而無需消耗過多的顯示核心資源。此次超微利用這個技術與Crytek、Illfonic聯手，基於最新的針對[GCN架構進行最佳化的CryENGINE引擎](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")，重新製作了[ATI時代](https://zh.wikipedia.org/wiki/ATI "wikilink")[Radeon系列的虛擬形象代言人Ruby](../Page/Radeon.md "wikilink")，以此作為Radeon
+11所實作的3D畫面處理技術，能逼真展現像是頭髮絲等超精細的畫面細節而無需消耗過多的顯示核心資源。此次超微利用這個技術與Crytek、Illfonic聯手，基於最新的針對[GCN架構進行最佳化的CryENGINE引擎](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")，重新製作了[ATI時代](https://zh.wikipedia.org/wiki/ATI "wikilink")[Radeon](../Page/Radeon.md "wikilink")系列的虛擬形象代言人Ruby，以此作為Radeon
 R9/R7 200系列的虛擬代言人，但這次是『真正擁有』12150根獨立的頭髮絲。
 
 ### CrossFire
@@ -49,7 +49,7 @@ AMD表示，即使不使用接橋，由於PCI-E2.0/2.1/3.0提供的頻寬已經�
 
 ### 多螢幕顯示
 
-此代的[Eyefinity寬域技術仍然最多支援六螢幕顯示輸出](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")，標配連接埠依舊是兩個[DVI](../Page/DVI.md "wikilink")、一個[HDMI和一個](../Page/HDMI.md "wikilink")[DisplayPort](../Page/DisplayPort.md "wikilink")。但這一代的Eyefinity技術相比以往的大大降低對DisplayPort技術的依賴。當只組建三螢幕顯示輸出時，可以完全不使用DisplayPort連接埠，只有兩個DVI
+此代的[Eyefinity寬域技術仍然最多支援六螢幕顯示輸出](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")，標配連接埠依舊是兩個[DVI](../Page/DVI.md "wikilink")、一個[HDMI](../Page/HDMI.md "wikilink")和一個[DisplayPort](../Page/DisplayPort.md "wikilink")。但這一代的Eyefinity技術相比以往的大大降低對DisplayPort技術的依賴。當只組建三螢幕顯示輸出時，可以完全不使用DisplayPort連接埠，只有兩個DVI
 +
 一個HDMI亦可以達成三螢幕輸出，而以往的技術，無論是三螢幕抑或是更多螢幕顯示輸出，都必須使用一個配備DisplayPort連接埠的螢幕方能達成多螢幕輸出。\[14\]因應技術變更，新顯示卡的DVI連接埠相應地改為使用和NVIDIA相同的標準DVI連接埠。\[15\]
 借助MTS擴展器可組建單卡六螢幕輸出。
@@ -62,7 +62,7 @@ AMD表示，即使不使用接橋，由於PCI-E2.0/2.1/3.0提供的頻寬已經�
 
 首次支援DirectX 11.2。是DirectX 11繼DirectX 11.1增量升級後的又一次功能性的增量升級。
 
-除了傳統的[Direct3D](../Page/Direct3D.md "wikilink")、[OpenGL以外](../Page/OpenGL.md "wikilink")，AMD還針對GCN架構的顯示核心開發了新的3D應用程式介面「**Mantle**」，可以讓使用其的遊戲直接存取GCN架構的原始語言，充分利用AMD自家的顯示核心。由於下一代的遊戲主機均使用AMD的處理器，AMD亦以Mantle為這些主機提供無縫的跨平台開發之介面。此外，AMD亦正與許多遊戲開發商合作，建立相關的應用程式介面規範和驅動程式，AMD還表示Mantle並不是取代Direct3D和OpenGL，而是作為它們的輔助。\[16\]
+除了傳統的[Direct3D](../Page/Direct3D.md "wikilink")、[OpenGL](../Page/OpenGL.md "wikilink")以外，AMD還針對GCN架構的顯示核心開發了新的3D應用程式介面「**Mantle**」，可以讓使用其的遊戲直接存取GCN架構的原始語言，充分利用AMD自家的顯示核心。由於下一代的遊戲主機均使用AMD的處理器，AMD亦以Mantle為這些主機提供無縫的跨平台開發之介面。此外，AMD亦正與許多遊戲開發商合作，建立相關的應用程式介面規範和驅動程式，AMD還表示Mantle並不是取代Direct3D和OpenGL，而是作為它們的輔助。\[16\]
 AMD亦提到Mantle儘管目前仍不是開放標準，但不會一家獨大，亦歡迎NVIDIA相容AMD的標準。\[17\]
 
 2014年3月24日，AMD於2014遊戲開發者大會上宣布基於GCN架構的顯示核心均可支援DirectX 12。\[18\]

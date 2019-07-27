@@ -4,7 +4,7 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 概要
 
-2009年10月，以[TBS電視台的網路劇](../Page/TBS電視台.md "wikilink")「bump.y」所組成。成員櫻庭奈奈美表示定位為一個「歌手女優」的團體。成員全部以女演員的身分活躍於[電視劇及](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，並追求向歌唱領域發展。名字「**bump.y**」的由來為：「**b**rilliant」「**u**ltra」「**m**iracle」「**p**ower」「**.**五人之魂」「**y**outhful」
+2009年10月，以[TBS電視台](../Page/TBS電視台.md "wikilink")的網路劇「bump.y」所組成。成員櫻庭奈奈美表示定位為一個「歌手女優」的團體。成員全部以女演員的身分活躍於[電視劇及](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，並追求向歌唱領域發展。名字「**bump.y**」的由來為：「**b**rilliant」「**u**ltra」「**m**iracle」「**p**ower」「**.**五人之魂」「**y**outhful」
 
 ## 成員
 
@@ -226,7 +226,7 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
     X'masLive（2010年12月23日、[東京鐵塔正面入口特設舞台](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")）
   - 汐博2011 IN SHIODOME-AX bump.yデビュー1周年記念イベント - Kiss\!まであっ～という間ですっ\!\! -
   - GirlsAward 2011
-    Autumn/Winter（2011年11月12日、[國立代代木競技場第一體育館](../Page/國立代代木競技場.md "wikilink")）
+    Autumn/Winter（2011年11月12日、[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館）
   - [TOKYO IDOL
     FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")
     2012（2012年8月5日、お台場、青海特設會場）
@@ -400,7 +400,7 @@ Vol.3與Vol.4以及第二張專輯Happy\! Lucky\! bump.y\!同時發售。
 ### 參加作品
 
   - ZONEトリビュート〜君がくれたもの〜（2011年8月25日発売、SONY RECORDS）
-    ※歌唱[ZONE的歌曲](../Page/ZONE.md "wikilink")「卒業」。
+    ※歌唱[ZONE](../Page/ZONE.md "wikilink")的歌曲「卒業」。
 
 ### 寫真集
 

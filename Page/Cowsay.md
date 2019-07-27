@@ -1,4 +1,4 @@
-**cowsay**是一个生成[ASCII图片的程序](../Page/ASCII.md "wikilink")，显示一头牛的消息。\[1\]它也可以使用预先制作的图像，以生成其他动物的图片，如Linux的吉祥物企鹅。由于它是用Perl编写的，它也适用于其他系统，如微软的Windows。还有一个相关的程序，名为**`cowthink`**，则为一头牛在思考，而不是说话。.cow文件能使cowsay产生不同样式的“牛”和“眼睛”等。\[2\]有时，[IRC](../Page/IRC.md "wikilink")、桌面截图和[软件文档中会使用它](../Page/软件文档.md "wikilink")。它更像[黑客文化中的玩笑](https://zh.wikipedia.org/wiki/黑客文化 "wikilink")，但一段时间后，它也较常被一般人使用。在2007年，它被选为[Debian的今日软件包](../Page/Debian.md "wikilink")。\[3\]
+**cowsay**是一个生成[ASCII](../Page/ASCII.md "wikilink")图片的程序，显示一头牛的消息。\[1\]它也可以使用预先制作的图像，以生成其他动物的图片，如Linux的吉祥物企鹅。由于它是用Perl编写的，它也适用于其他系统，如微软的Windows。还有一个相关的程序，名为**`cowthink`**，则为一头牛在思考，而不是说话。.cow文件能使cowsay产生不同样式的“牛”和“眼睛”等。\[2\]有时，[IRC](../Page/IRC.md "wikilink")、桌面截图和[软件文档](../Page/软件文档.md "wikilink")中会使用它。它更像[黑客文化中的玩笑](https://zh.wikipedia.org/wiki/黑客文化 "wikilink")，但一段时间后，它也较常被一般人使用。在2007年，它被选为[Debian](../Page/Debian.md "wikilink")的今日软件包。\[3\]
 
 Cowsay和Cowthink是用[Perl](../Page/Perl.md "wikilink")[语言写成的](../Page/编程语言.md "wikilink")，正因为如此，它很容易用在[Unix系统任务上](https://zh.wikipedia.org/wiki/Unix "wikilink")，比如，告诉用户他们的主目录已满，或他们有新邮件等等。另外，它也可以适应[通用网关接口](../Page/通用网关接口.md "wikilink")。\[4\]
 

@@ -1,22 +1,24 @@
 《》（簡稱：）是由[英國網絡遊戲公司](https://zh.wikipedia.org/wiki/英國 "wikilink")[King
-Digital開發的](https://zh.wikipedia.org/wiki/King_Digital "wikilink")[寶石方塊遊戲](../Page/寶石方塊.md "wikilink")\[1\]。具有同步功能，遊戲進度可於不同平台上切換。截至2013年3月，Candy
+Digital開發的](https://zh.wikipedia.org/wiki/King_Digital "wikilink")[寶石方塊](../Page/寶石方塊.md "wikilink")遊戲\[1\]。具有同步功能，遊戲進度可於不同平台上切換。截至2013年3月，Candy
 Crush Saga已經超越了[FarmVille](../Page/FarmVille.md "wikilink")
 2，成為Facebook平台上最受歡迎遊戲，擁有4億5千6百萬每月玩家。\[2\]\[3\]\[4\]
 
 此遊戲在[Google
-Play商店的中文譯名為](../Page/Google_Play.md "wikilink")[糖果傳奇](https://zh.wikipedia.org/wiki/糖果傳奇 "wikilink")。在[香港](../Page/香港.md "wikilink")、[澳門和](../Page/澳門.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，人們通常直接稱呼此遊戲爲**Candy
-Crush**，不稱呼其非官方中文譯名，有部分香港[網民會以電影](https://zh.wikipedia.org/wiki/網民 "wikilink")《[低俗喜劇](https://zh.wikipedia.org/wiki/低俗喜劇 "wikilink")》中的「爆炸糖」作爲遊戲的中文譯名\[5\]，惟此稱呼並沒有得到廣泛應用。[中国內地方面](https://zh.wikipedia.org/wiki/中国內地 "wikilink")，由于与[腾讯签订了代理协议](../Page/腾讯.md "wikilink")，中文版以《-{zh-hans:糖果传奇;zh-hant:糖果傳奇;}-》作为该游戏的中文译名。中国內地之[App
-Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")（iOS）及中国內地之[Android应用市场均提供此遊戲之中文版](../Page/Android.md "wikilink")，惟不提供国际版\[6\]。2015年7月29日[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Windows
+Play商店的中文譯名為](../Page/Google_Play.md "wikilink")[糖果傳奇](https://zh.wikipedia.org/wiki/糖果傳奇 "wikilink")。在[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")和[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，人們通常直接稱呼此遊戲爲**Candy
+Crush**，不稱呼其非官方中文譯名，有部分香港[網民會以電影](https://zh.wikipedia.org/wiki/網民 "wikilink")《[低俗喜劇](https://zh.wikipedia.org/wiki/低俗喜劇 "wikilink")》中的「爆炸糖」作爲遊戲的中文譯名\[5\]，惟此稱呼並沒有得到廣泛應用。[中国內地方面](https://zh.wikipedia.org/wiki/中国內地 "wikilink")，由于与[腾讯](../Page/腾讯.md "wikilink")签订了代理协议，中文版以《-{zh-hans:糖果传奇;zh-hant:糖果傳奇;}-》作为该游戏的中文译名。中国內地之[App
+Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")（iOS）及中国內地之[Android](../Page/Android.md "wikilink")应用市场均提供此遊戲之中文版，惟不提供国际版\[6\]。2015年7月29日[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Windows
 10 (build 10240)發布後](../Page/Windows_10.md "wikilink")，該遊戲內建於其中。
+
+在2019年7月10日，遊戲發佈了第5000關。
 
 ## 遊戲玩法
 
 Candy Crush
-Saga是以[糖果爲主題](../Page/糖果.md "wikilink")，基本規則是將三至五顆一樣的糖果排成一線消除糖果得到分數\[7\]游戏需要把不同的糖果組在一起並引爆，會產生不同效果威力。當串消糖果產生連擊的期間，玩家無法移動其他的糖果。\[8\]游戏採取逐一[解鎖的方式進行](https://zh.wikipedia.org/wiki/解鎖 "wikilink")，每十五關後會讓你邀請[Facebook好友來解鎖更長的旅行](../Page/Facebook.md "wikilink")，前二十關會直接解鎖，第三十五關後在[Flash版時便需要車票](../Page/Adobe_Flash_Player.md "wikilink")（有時是船票，或是機票）。
+Saga是以[糖果](../Page/糖果.md "wikilink")爲主題，基本規則是將三至五顆一樣的糖果排成一線消除糖果得到分數\[7\]游戏需要把不同的糖果組在一起並引爆，會產生不同效果威力。當串消糖果產生連擊的期間，玩家無法移動其他的糖果。\[8\]游戏採取逐一[解鎖的方式進行](https://zh.wikipedia.org/wiki/解鎖 "wikilink")，每十五關後會讓你邀請[Facebook](../Page/Facebook.md "wikilink")好友來解鎖更長的旅行，前二十關會直接解鎖，第三十五關後在[Flash版時便需要車票](../Page/Adobe_Flash_Player.md "wikilink")（有時是船票，或是機票）。
 
-每一關樣式不同，隨機掉落糖果\[9\]。一開始會提供五顆愛心，失敗一次扣一顆，30分鐘補回一顆，可請求[Facebook好友回贈愛心](../Page/Facebook.md "wikilink")\[10\]或付錢購買。在[Flash版遊戲中](../Page/Adobe_Flash_Player.md "wikilink")，Lemonade
+每一關樣式不同，隨機掉落糖果\[9\]。一開始會提供五顆愛心，失敗一次扣一顆，30分鐘補回一顆，可請求[Facebook](../Page/Facebook.md "wikilink")好友回贈愛心\[10\]或付錢購買。在[Flash版遊戲中](../Page/Adobe_Flash_Player.md "wikilink")，Lemonade
 Lake（Episode3）之後的關卡（包含Lemonade
-Lake）須收費\[11\]，也可請三名[Facebook好友協助解鎖](../Page/Facebook.md "wikilink")，亦可與朋友分享過關情況。當然，也可以使用暴力（Play
+Lake）須收費\[11\]，也可請三名[Facebook](../Page/Facebook.md "wikilink")好友協助解鎖，亦可與朋友分享過關情況。當然，也可以使用暴力（Play
 quests），把三把鑰匙拿到手來獲得車票（或是船票、機票），但每拿到一把鑰匙，都必須等一天才能再搶一把。
 
 在[簡體中文版裡](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")，用户需要用[微信](../Page/微信.md "wikilink")/[QQ帳號登陸](https://zh.wikipedia.org/wiki/QQ "wikilink")，主要操作大致與國際版相同。
@@ -33,7 +35,7 @@ formation.svg|演示如何形成包裝糖果 <file:Color> bomb formation.svg|演
   - 包裝糖果：以範圍3\*3的糖果消除兩次。
   - 彩糖炸彈：所有相同顏色的糖果都會被消除。
   - [椰子輪](https://zh.wikipedia.org/wiki/椰子 "wikilink")：移動它，會消除整行或整列的糖果（只出現在掉落水果（櫻桃跟栗子）模式的關卡當中）。
-  - [果凍魚](../Page/果凍.md "wikilink")：會吃掉果凍（只出現在要消完果凍的關卡當中）。
+  - [果凍](../Page/果凍.md "wikilink")魚：會吃掉果凍（只出現在要消完果凍的關卡當中）。
 
 此外，可將任兩顆特殊糖果結合以產生特殊消除效果：
 
@@ -75,7 +77,7 @@ Struck就會發動，一定移動數目內糖果就會減少一色。
 
 [250px](https://zh.wikipedia.org/wiki/檔案:Candy_crush_at_PC.PNG "wikilink")
 
-只要把糖果大爆險和[Facebook連結](../Page/Facebook.md "wikilink")，便可以在個人電腦上玩這個遊戲。有將近3千萬人讚好糖果大爆險在Facebook的應用程序頁面。它是Facebook上最流行的應用程序。\[13\]
+只要把糖果大爆險和[Facebook](../Page/Facebook.md "wikilink")連結，便可以在個人電腦上玩這個遊戲。有將近3千萬人讚好糖果大爆險在Facebook的應用程序頁面。它是Facebook上最流行的應用程序。\[13\]
 
 開發商也在其官方網站上推出網上版本的糖果大爆險。\[14\]另外，部分網上遊戲網站推出網上版本的糖果大爆險，但無法驗證該版本是否官方推出，關卡也和官方版本不同，只有時間限制關卡。\[15\]
 也可以在Windows 10市集下載Candy Crush Saga同步Facebook \[16\]
@@ -83,7 +85,7 @@ Struck就會發動，一定移動數目內糖果就會減少一色。
 
 ## 外界評價
 
-  - [Metacritic给予糖果大爆險](../Page/Metacritic.md "wikilink")79分（滿分100分）的分數。\[17\]
+  - [Metacritic](../Page/Metacritic.md "wikilink")给予糖果大爆險79分（滿分100分）的分數。\[17\]
   - 據[AppData統計](https://zh.wikipedia.org/wiki/AppData "wikilink")，糖果大爆險在2013年4月位於iOS和Android
     應用程式下載量的第二名與第三名。\[18\]
   - 該遊戲的愛好者指出：“該遊戲有挑戰性，而且適合打發時間\[19\]，而且該遊戲可令玩家和Facebook的好友有互動\[20\]”。
@@ -93,16 +95,16 @@ Struck就會發動，一定移動數目內糖果就會減少一色。
 
 ## 相关统计
 
-自2012年11月起在[移动设备平台上推出後](../Page/移动设备.md "wikilink")，在1個月內有達1,000萬名用戶[下載](https://zh.wikipedia.org/wiki/下載 "wikilink")，現在每月用戶達4,600萬，並且持續地增加中\[26\]，擊敗[憤怒鳥在內的](https://zh.wikipedia.org/wiki/憤怒鳥 "wikilink")200萬個手機應用程式\[27\]。
-根據開發商所称的數據，玩家加起來的總遊戲時間逾10萬年，至今已經有超過1[兆顆糖果被消除](../Page/兆.md "wikilink")。\[28\]根據[Zynga和](../Page/Zynga.md "wikilink")[King.com所称的數據](https://zh.wikipedia.org/wiki/King.com "wikilink")，King.com每日活躍用戶數超越了Zynga。\[29\]
+自2012年11月起在[移动设备](../Page/移动设备.md "wikilink")平台上推出後，在1個月內有達1,000萬名用戶[下載](https://zh.wikipedia.org/wiki/下載 "wikilink")，現在每月用戶達4,600萬，並且持續地增加中\[26\]，擊敗[憤怒鳥在內的](https://zh.wikipedia.org/wiki/憤怒鳥 "wikilink")200萬個手機應用程式\[27\]。
+根據開發商所称的數據，玩家加起來的總遊戲時間逾10萬年，至今已經有超過1[兆](../Page/兆.md "wikilink")顆糖果被消除。\[28\]根據[Zynga](../Page/Zynga.md "wikilink")和[King.com所称的數據](https://zh.wikipedia.org/wiki/King.com "wikilink")，King.com每日活躍用戶數超越了Zynga。\[29\]
 
 ## 影響
 
   - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，有蛋糕店推出以糖果大爆險爲主題的蛋糕，曾出現訂單全滿的情況。\[30\]
-  - 韓國歌手[PSY的歌曲](../Page/PSY.md "wikilink")《[紳士](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》的MV中有玩《糖果大爆險》的鏡頭\[31\]。
+  - 韓國歌手[PSY](../Page/PSY.md "wikilink")的歌曲《[紳士](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》的MV中有玩《糖果大爆險》的鏡頭\[31\]。
   - 在[日本](../Page/日本.md "wikilink")，這款遊戲的活躍會員數突破一億位使用者。（據[中時電子報](../Page/中時電子報.md "wikilink")2013年11月13日報導）
   - 2013年11月18日，這款遊戲在iOS推出至今剛好滿一年，全球累積在各個平台加總被下載次數超過5億次，玩家上線次數超過1500億次。
-  - 臺灣的[客家電視台曾報導](../Page/客家電視台.md "wikilink")“電玩Candy Crush
+  - 臺灣的[客家電視台](../Page/客家電視台.md "wikilink")曾報導“電玩Candy Crush
     全球一天玩7億次”。\[32\]
 
 ## 後續作品
@@ -111,7 +113,7 @@ Struck就會發動，一定移動數目內糖果就會減少一色。
 
 中文譯名「**糖果蘇打傳奇**」，於2014年10月20日推出，其遊戲規則除少數改動外，和《Candy Crush
 Saga》非常雷同。該遊戲內建於「[Windows 10
-1511版](../Page/Windows_10.md "wikilink")」作業系統中。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
+1511版](../Page/Windows_10.md "wikilink")」作業系統中。游戏具有同步功能，用戶的遊戲進度可於[Android](../Page/Android.md "wikilink")和[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
 10和](../Page/Windows_10.md "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
@@ -121,7 +123,7 @@ Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
 《Candy Crush Jelly Saga》（翻譯為「糖果果凍傳奇」），由英國網絡遊戲公司King開發，為寶石方塊類遊戲《**Candy
 Crush Saga**》及《[Candy Crush Soda
-Saga](../Page/Candy_Crush_Soda_Saga.md "wikilink")》的續作，於2016年1月6日推出。遊戲具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
+Saga](../Page/Candy_Crush_Soda_Saga.md "wikilink")》的續作，於2016年1月6日推出。遊戲具有同步功能，用戶的遊戲進度可於[Android](../Page/Android.md "wikilink")和[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
 10和](../Page/Windows_10.md "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 

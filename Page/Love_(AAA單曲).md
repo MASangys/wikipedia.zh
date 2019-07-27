@@ -3,7 +3,7 @@ trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - A面曲《Love》為日本[紅十字會](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")2014年捐血活動《二十歲的捐血》的宣傳歌曲。有別於以往的單曲，此主打曲是由[末吉秀太作開頭](../Page/末吉秀太.md "wikilink")，並非由三大主唱（[西島隆弘](../Page/西島隆弘.md "wikilink")、[宇野實彩子](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")、[浦田直也](../Page/浦田直也.md "wikilink")）或主說唱（[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")）作開頭，亦是繼《[Red
+  - A面曲《Love》為日本[紅十字會](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")2014年捐血活動《二十歲的捐血》的宣傳歌曲。有別於以往的單曲，此主打曲是由[末吉秀太](../Page/末吉秀太.md "wikilink")作開頭，並非由三大主唱（[西島隆弘](../Page/西島隆弘.md "wikilink")、[宇野實彩子](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")、[浦田直也](../Page/浦田直也.md "wikilink")）或主說唱（[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")）作開頭，亦是繼《[Red
     Soul](../Page/Red_Soul.md "wikilink")》後，6年以來並沒收錄任何B面曲的單曲。
   - 此單曲有3個版本，分別有「CD+DVD（Jacket A）」、「CD ONLY（Jacket B）」和「mu-mo
     shop限定盤」。「CD+DVD（Jacket

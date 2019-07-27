@@ -3,7 +3,7 @@
 ## 區碼
 
   - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[俄勒岡州的](https://zh.wikipedia.org/wiki/俄勒岡州 "wikilink")
-  - [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[纽波特的舊有區碼](../Page/纽波特.md "wikilink")。
+  - [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[纽波特](../Page/纽波特.md "wikilink")的舊有區碼。
   - NPT, an IATA code of , Middletown, Rhode Island, United States
 
 ## 法律
@@ -19,7 +19,7 @@
 ## 地區
 
   - [下塔尔波特港](../Page/下塔尔波特港.md "wikilink")（Neath Port
-    Talbot），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[威爾斯的一個郡級自治市](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")。
+    Talbot），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[威爾斯](../Page/威爾斯.md "wikilink")的一個郡級自治市。
 
   - , a lightly travelled foot trail in the Adirondack Park in northern
     New York, United States

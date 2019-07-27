@@ -1,9 +1,9 @@
-**Holler**是[韩國女子組合](https://zh.wikipedia.org/wiki/韩國 "wikilink")[少女時代子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[少女時代-太蒂徐的第二張迷你專輯](../Page/少女時代-太蒂徐.md "wikilink")，於2014年9月18日發行。
+**Holler**是[韩國女子組合](https://zh.wikipedia.org/wiki/韩國 "wikilink")[少女時代子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")的第二張迷你專輯，於2014年9月18日發行。
 
 ## 單曲
 
 官方發方〈내가 네게
-(Whisper)〉的音源作為先行曲在2014年9月13日發行，並透過[SM娛樂官方Youtube公開主打歌](../Page/SM娛樂.md "wikilink")〈Holler〉的預告及專輯其他歌曲的Highlight
+(Whisper)〉的音源作為先行曲在2014年9月13日發行，並透過[SM娛樂](../Page/SM娛樂.md "wikilink")官方Youtube公開主打歌〈Holler〉的預告及專輯其他歌曲的Highlight
 Medley。
 
 ## 曲目

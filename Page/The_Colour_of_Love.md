@@ -1,5 +1,5 @@
 《**The Colour of
-Love**》是[許秋怡的第](../Page/許秋怡.md "wikilink")2張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，於1994年12月推出。
+Love**》是[許秋怡](../Page/許秋怡.md "wikilink")的第2張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，於1994年12月推出。
 
 ## 曲目
 

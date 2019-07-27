@@ -1,16 +1,16 @@
 **Windows
 映像文件格式**（）是一个基于[文件的](https://zh.wikipedia.org/wiki/文件 "wikilink")[磁盘映像](../Page/磁盘映像.md "wikilink")[格式](https://zh.wikipedia.org/wiki/格式 "wikilink")。它由[微软公司设计且发布于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Windows
-Vista及其之后的Windows](../Page/Windows_Vista.md "wikilink")[操作系统中](../Page/操作系统.md "wikilink")，用来支持他们的一部分标准安装过程。它与旧版Windows操作系统兼容良好，且部分用于[Windows
+Vista及其之后的Windows](../Page/Windows_Vista.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，用来支持他们的一部分标准安装过程。它与旧版Windows操作系统兼容良好，且部分用于[Windows
 Fundamentals for Legacy
 PCs中](../Page/Windows_Fundamentals_for_Legacy_PCs.md "wikilink")。\[1\]。
 
 ## 设计
 
-与其它[磁盘镜像格式类似](../Page/磁盘映像.md "wikilink")，WIM格式包含了一系列的文件与所关联的[文件系统](../Page/文件系统.md "wikilink")[元数据](../Page/元数据.md "wikilink")。然而，与其他基于[磁盘扇区的格式](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")（如[ISO格式](https://zh.wikipedia.org/wiki/ISO "wikilink"),[CUE格式](https://zh.wikipedia.org/wiki/CUE "wikilink"),[BIN格式的光盘格式](https://zh.wikipedia.org/wiki/BIN "wikilink")）不同，WIM是基于文件的。这意味着信息的最小单元是一个[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")。这使其最主要的优点是硬件独立，且一个文件的[SIS可在系统中被使用多次](https://zh.wikipedia.org/wiki/单一实例存储 "wikilink")。
+与其它[磁盘镜像格式类似](../Page/磁盘映像.md "wikilink")，WIM格式包含一系列的文件与所关联的[文件系统](../Page/文件系统.md "wikilink")[元数据](../Page/元数据.md "wikilink")。然而，与其他基于[磁盘扇区的格式](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")（如[ISO格式](https://zh.wikipedia.org/wiki/ISO "wikilink"),[CUE格式](https://zh.wikipedia.org/wiki/CUE "wikilink"),[BIN格式的光盘格式](https://zh.wikipedia.org/wiki/BIN "wikilink")）不同，WIM是基于文件的。这意味着信息的最小单元是一个[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")。这使其最主要的优点是硬件独立，且一个文件的[SIS可在系统中被使用多次](https://zh.wikipedia.org/wiki/单一实例存储 "wikilink")。
 
 ## 文件布局
 
-WIM 标头 - 定义 .wim 文件的内容，包括关键资源（元数据资源、查找表、XML 数据）的内存位置，以及各种 .wim
+WIM标头 - 定义 .wim 文件的内容，包括关键资源（元数据资源、查找表、XML 数据）的内存位置，以及各种 .wim
 文件属性（版本、大小、压缩类型）。
 
 文件资源 - 包含捕获数据的一系列程序包，如源文件。
@@ -19,13 +19,13 @@ WIM 标头 - 定义 .wim 文件的内容，包括关键资源（元数据资源�
 
 查找表 - 包含 .wim 文件中的资源文件的内存位置。
 
-XML 数据 - 包含有关映像的其他数据。
+XML数据 - 包含有关映像的其他数据。
 
 完整性表 - 包含用于在应用操作期间验证映像完整性的安全哈希信息。
 
 ## 用途
 
-Windows 映像格式由于部署较方便，因此取代了Windows NT 5.X 的安装方式，成为了从[Windows
+Windows 映像格式由于部署较方便，因此取代Windows NT 5.X 的安装方式，成为从[Windows
 Vista之后的标准部署方式](../Page/Windows_Vista.md "wikilink")。而使用者也不一定要使用Windows
 Setup 进行Windows 安装，其实仍可以透过DISM及ImageX来达到与Windows Setup
 完全一样效果，这时候将只需要安装媒体中sources文件夹的install.wim的档案以及一个Windows
@@ -33,7 +33,9 @@ Setup 进行Windows 安装，其实仍可以透过DISM及ImageX来达到与Windo
 PE等](https://zh.wikipedia.org/wiki/Windows_PE "wikilink")...)和命令提示字符来完成安装。
 Windows 映像格式除了能够部署Windows 安装，它也能用于[Windows
 PE及Windows](https://zh.wikipedia.org/wiki/Windows_PE "wikilink")
-修复环境(Windows安装媒体\\sources\\boot.wim)。 [Windows
+修复环境(Windows安装媒体\\sources\\boot.wim)。
+
+[Windows
 PE提供支持NTFS及](https://zh.wikipedia.org/wiki/Windows_PE "wikilink")64位(WOW64)程序的好处，请见[Windows
 PE](https://zh.wikipedia.org/wiki/Windows_PE "wikilink")。除此之外，它也能用于备份Windows(较少使用)和复原Windows(有些计算机厂商的还原扇区即是利用此方式)。
 

@@ -1,5 +1,5 @@
 **VMware
-Workstation**是[VMware公司推出的一款桌面虚拟计算软件](../Page/VMware.md "wikilink")，具有[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")
+Workstation**是[VMware](../Page/VMware.md "wikilink")公司推出的一款桌面虚拟计算软件，具有[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")
 版本。此软件可以提供[虚拟机功能](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，使计算机可以同时运行多个不同[操作系统](../Page/操作系统.md "wikilink")。2015年，VMware
 Workstation發表12版，[VMware
 Player轉型為VMware](https://zh.wikipedia.org/wiki/VMware_Player "wikilink")
@@ -11,7 +11,7 @@ Workstation的付費版定名為VMware Workstation Pro。
 
 该软件可以使多个虚拟机（或称客户机）在同一个宿主机中运行。每个虚拟机相互独立，拥有各自的[操作系统](../Page/操作系统.md "wikilink")；并且各虚拟机以及宿主机相互独立，互不影响，可独立进行操作及运行[应用程序](../Page/应用程序.md "wikilink")。其中一台虚拟机关机或发生故障，不会影响其他的虚拟机及宿主机。
 
-[64位虚拟机操作系统只能运行在](https://zh.wikipedia.org/wiki/64位 "wikilink")64位处理器的计算机上，且[BIOS要相容支援](../Page/BIOS.md "wikilink")[x86虚拟化技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")\[1\]。[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")64位处理器如果不是硬件支援[Intel
+[64位虚拟机操作系统只能运行在](https://zh.wikipedia.org/wiki/64位 "wikilink")64位处理器的计算机上，且[BIOS](../Page/BIOS.md "wikilink")要相容支援[x86虚拟化技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")\[1\]。[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")64位处理器如果不是硬件支援[Intel
 VT技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")，就不支援分段[长模式](https://zh.wikipedia.org/wiki/长模式 "wikilink")\[2\]。
 
 ## 版本历史
@@ -96,7 +96,7 @@ VT技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")，就不支援�
 <td><p>10.0</p></td>
 <td><p>2013年9月3日</p></td>
 <td><p>在虚拟机环境下支持<a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>、<a href="../Page/Windows_Server_2012.md" title="wikilink">Windows Server 2012 R2</a>、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu 13.10宿主机</a>，并强化USB 3.0<a href="https://zh.wikipedia.org/wiki/串流" title="wikilink">串流功能</a>。<br />
-<a href="../Page/硬件.md" title="wikilink">硬件</a><a href="https://zh.wikipedia.org/wiki/存储设备" title="wikilink">存储设备支持高达</a>8 <a href="https://zh.wikipedia.org/wiki/Terabyte" title="wikilink">Terabyte传统</a><a href="https://zh.wikipedia.org/wiki/硬碟" title="wikilink">硬碟和</a><a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a>、16核心<a href="https://zh.wikipedia.org/wiki/处理器" title="wikilink">处理器</a>（16 vCPUs）、新型虚拟<a href="../Page/SATA.md" title="wikilink">SATA界面控制</a>。</p></td>
+<a href="../Page/硬件.md" title="wikilink">硬件</a><a href="https://zh.wikipedia.org/wiki/存储设备" title="wikilink">存储设备支持高达</a>8 <a href="https://zh.wikipedia.org/wiki/Terabyte" title="wikilink">Terabyte传统</a><a href="https://zh.wikipedia.org/wiki/硬碟" title="wikilink">硬碟和</a><a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a>、16核心<a href="https://zh.wikipedia.org/wiki/处理器" title="wikilink">处理器</a>（16 vCPUs）、新型虚拟<a href="../Page/SATA.md" title="wikilink">SATA</a>界面控制。</p></td>
 </tr>
 <tr class="even">
 <td><p>10.0.1</p></td>
@@ -107,7 +107,7 @@ VT技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")，就不支援�
 <tr class="odd">
 <td><p>10.0.2</p></td>
 <td><p>2014年4月17日</p></td>
-<td><p>在特定<a href="../Page/USB.md" title="wikilink">USB</a><a href="https://zh.wikipedia.org/wiki/音频" title="wikilink">音频</a>/<a href="../Page/视频.md" title="wikilink">视频设备上更好的视频表现和相容性</a>。<br />
+<td><p>在特定<a href="../Page/USB.md" title="wikilink">USB</a><a href="https://zh.wikipedia.org/wiki/音频" title="wikilink">音频</a>/<a href="../Page/视频.md" title="wikilink">视频</a>设备上更好的视频表现和相容性。<br />
 支持Windows 8.1 Update 1与Windows Server 2012 R2的简易安装。</p></td>
 </tr>
 <tr class="even">
@@ -252,7 +252,7 @@ When WS is installed on Linux in a non-default location, the Virtual Network Edi
 ## 问题
 
 VMware
-Workstation在用于将[MAC地址用作唯一识别标记](../Page/MAC地址.md "wikilink")（[UID](https://zh.wikipedia.org/wiki/UID "wikilink")）的环境中时，最好是（通常也是必须）为每个虚拟机手工配置MAC地址，以保证每个MAC地址确实是唯一的。这类环境的一个例子是在网络交换机上启用MAC安全机制（例如端口绑定）的情况，另一个例子是使用Altiris产品的环境（在配置为将MAC地址作为UID时）。该情况下，可以简单地禁用除被桥接的所有网络／适配器，并编辑每个虚拟机的.vmx文件，将其中“ethernet0.address”改为唯一的MAC地址、以及将“ethernet0.addresstype”改为“static”；同时，请确保将“ethernet0.generatedaddress”项整个删除。
+Workstation在用于将[MAC地址](../Page/MAC地址.md "wikilink")用作唯一识别标记（[UID](https://zh.wikipedia.org/wiki/UID "wikilink")）的环境中时，最好是（通常也是必须）为每个虚拟机手工配置MAC地址，以保证每个MAC地址确实是唯一的。这类环境的一个例子是在网络交换机上启用MAC安全机制（例如端口绑定）的情况，另一个例子是使用Altiris产品的环境（在配置为将MAC地址作为UID时）。该情况下，可以简单地禁用除被桥接的所有网络／适配器，并编辑每个虚拟机的.vmx文件，将其中“ethernet0.address”改为唯一的MAC地址、以及将“ethernet0.addresstype”改为“static”；同时，请确保将“ethernet0.generatedaddress”项整个删除。
 
 ## 另見
 

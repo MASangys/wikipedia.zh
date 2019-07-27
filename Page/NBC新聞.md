@@ -1,4 +1,4 @@
-**NBC新聞**（）是美國主要電視網之一[全國廣播公司下屬的](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")[電視新聞部門](https://zh.wikipedia.org/wiki/電視新聞 "wikilink")，由[NBC環球旗下](../Page/NBC環球.md "wikilink")[子公司](../Page/子公司.md "wikilink")負責運營。該集團各項業務均向NBC新聞部主管報告。\[1\]
+**NBC新聞**（）是美國主要電視網之一[全國廣播公司下屬的](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")[電視新聞部門](https://zh.wikipedia.org/wiki/電視新聞 "wikilink")，由[NBC環球](../Page/NBC環球.md "wikilink")旗下[子公司](../Page/子公司.md "wikilink")負責運營。該集團各項業務均向NBC新聞部主管報告。\[1\]
 NBC新聞首次播出電視新聞節目是在1940年2月21日。NBC新聞的編輯室與全國廣播公司總部位於同一個地方，即[洛克菲勒中心](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")[通用電氣大樓](../Page/GE大樓.md "wikilink")。
 
 NBC新聞負責製作美國[收視率第一的晚間新聞節目](https://zh.wikipedia.org/wiki/收視率 "wikilink")《[NBC晚間新聞](https://zh.wikipedia.org/wiki/NBC晚間新聞 "wikilink")》和美國[最長壽的電視節目](https://zh.wikipedia.org/wiki/長壽節目 "wikilink")《[會見新聞界](https://zh.wikipedia.org/wiki/會見新聞界 "wikilink")》，同時NBC新聞還在《NBC環球檔案館》（NBC
@@ -10,7 +10,7 @@ NBC新聞是美國新聞界第一個採訪過兩任俄羅斯總統（[普京和]
 
 ## 醜聞事件
 
-2015年2月，其當家主播年薪1300萬美金的[布萊恩·威廉姆斯被爆出其講述多次的傳奇經歷](../Page/布萊恩·威廉姆斯.md "wikilink")，在2003年[伊拉克戰爭中乘直升機被擊落後緊急迫降的故事](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")，全部是虛構，已經有媒體取得關鍵證據後2月7日只好在主播台上公開承認並道歉，連帶也有人開始懷疑其風災中報導大量浮屍等聳動性風格的過往報導，也許全部是添油加醋的杜撰。此事之後NBC將其暫時停職。\[4\]
+2015年2月，其當家主播年薪1300萬美金的[布萊恩·威廉姆斯](../Page/布萊恩·威廉姆斯.md "wikilink")被爆出其講述多次的傳奇經歷，在2003年[伊拉克戰爭中乘直升機被擊落後緊急迫降的故事](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")，全部是虛構，已經有媒體取得關鍵證據後2月7日只好在主播台上公開承認並道歉，連帶也有人開始懷疑其風災中報導大量浮屍等聳動性風格的過往報導，也許全部是添油加醋的杜撰。此事之後NBC將其暫時停職。\[4\]
 
 ## 下屬機構
 
@@ -32,7 +32,7 @@ NBC新聞是美國新聞界第一個採訪過兩任俄羅斯總統（[普京和]
 
   - ：[科羅拉多州](../Page/科羅拉多州.md "wikilink")[丹佛市](https://zh.wikipedia.org/wiki/丹佛市 "wikilink")
 
-  - ：[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[達拉斯市](../Page/達拉斯.md "wikilink")
+  - ：[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[達拉斯](../Page/達拉斯.md "wikilink")市
 
   - ：德克薩斯州[休士頓市](https://zh.wikipedia.org/wiki/休士頓市 "wikilink")
 

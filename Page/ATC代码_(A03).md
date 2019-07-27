@@ -86,7 +86,7 @@
     A03AC05
     [苯酰胺桂胺](https://zh.wikipedia.org/wiki/苯酰胺桂胺 "wikilink")（Tiropramide）
 
-### A03AD [罂粟碱及其衍生物](../Page/罂粟碱.md "wikilink")（Papaverine and derivatives）
+### A03AD [罂粟碱](../Page/罂粟碱.md "wikilink")及其衍生物（Papaverine and derivatives）
 
   -
     A03AD01 [罂粟碱](../Page/罂粟碱.md "wikilink")（Papaverine）
@@ -216,7 +216,7 @@
     A03CB02
     [颠茄总生物碱和安定药](https://zh.wikipedia.org/wiki/颠茄总生物碱 "wikilink")（Belladonna
     total alkaloids and psycholeptics）
-    A03CB03 [阿托品和安定药](../Page/阿托品.md "wikilink")（Atropine and
+    A03CB03 [阿托品](../Page/阿托品.md "wikilink")和安定药（Atropine and
     psycholeptics）
     A03CB04
     [甲基后阿托品和安定药](https://zh.wikipedia.org/wiki/甲基后阿托品 "wikilink")（Methylhomatropine

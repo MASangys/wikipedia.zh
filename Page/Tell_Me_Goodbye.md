@@ -7,7 +7,7 @@ Goodbye**》是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "w
 
 1.  **Tell Me Goodbye**
       -
-        2010年春開始在[日本的](../Page/日本.md "wikilink")[TBS](../Page/TBS電視台.md "wikilink")「[水曜劇場](https://zh.wikipedia.org/wiki/水曜劇場 "wikilink")」播放[韓国電視劇](https://zh.wikipedia.org/wiki/韓国電視劇 "wikilink")《[IRIS](../Page/IRIS_\(電視劇\).md "wikilink")》（日語配音版）的主題曲。
+        2010年春開始在[日本](../Page/日本.md "wikilink")的[TBS](../Page/TBS電視台.md "wikilink")「[水曜劇場](https://zh.wikipedia.org/wiki/水曜劇場 "wikilink")」播放[韓国電視劇](https://zh.wikipedia.org/wiki/韓国電視劇 "wikilink")《[IRIS](../Page/IRIS_\(電視劇\).md "wikilink")》（日語配音版）的主題曲。
 2.  **HANDS UP**
       -
         富士電視台系《[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")》2010年4月份的主題曲。

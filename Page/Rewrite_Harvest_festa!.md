@@ -4,22 +4,22 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，于2012年7月27日�
 
 ## 概要
 
-在《Rewrite》发售前的采访中，参与《Rewrite》制作的剧本作家[都乃河勇人曾说过](../Page/都乃河勇人.md "wikilink")，如果本作销售业绩良好的话他有意扩展本篇中的故事。《Rewrite》发售之后，都乃河勇人向[Visual
+在《Rewrite》发售前的采访中，参与《Rewrite》制作的剧本作家[都乃河勇人](../Page/都乃河勇人.md "wikilink")曾说过，如果本作销售业绩良好的话他有意扩展本篇中的故事。《Rewrite》发售之后，都乃河勇人向[Visual
 Art's的社长马场隆博取得了开发Fan](../Page/Visual_Art's.md "wikilink")
 disc的许可\[2\]。最终Fan disc定名为Rewrite Harvest
 festa\!，采用与Rewrite相同的工作人员，于2012年7月27日发售\[3\]。本作初回版随游戏赠送[原声带](https://zh.wikipedia.org/wiki/原声带 "wikilink")《“Feast”Rewrite
 Harvest festa\! Original Soundtrack》、一册名为《超自研会报》的小册子、两个手机链，以及[Weiß
 Schwarz](../Page/Weiß_Schwarz.md "wikilink")、[Lycée和Phantasmagoria卡牌各一张](https://zh.wikipedia.org/wiki/Lycée "wikilink")\[4\]。
 
-本作的剧本容量大致与Key于2005年发售的《[智代After](https://zh.wikipedia.org/wiki/智代After "wikilink")》相同\[5\]。在前作《Rewrite》中，重要配角井上只有配音而没有出现在画面中，而本作中收录了由原画家[樋上至创作的井上的立绘](../Page/樋上至.md "wikilink")\[6\]。同样，前作Rewrite中男主角天王寺瑚太朗只有部分配音，本作中收录了瑚太朗的全程语音。本作初回版还赠送了6位女主角的[Windows
+本作的剧本容量大致与Key于2005年发售的《[智代After](https://zh.wikipedia.org/wiki/智代After "wikilink")》相同\[5\]。在前作《Rewrite》中，重要配角井上只有配音而没有出现在画面中，而本作中收录了由原画家[樋上至](../Page/樋上至.md "wikilink")创作的井上的立绘\[6\]。同样，前作Rewrite中男主角天王寺瑚太朗只有部分配音，本作中收录了瑚太朗的全程语音。本作初回版还赠送了6位女主角的[Windows
 7操作系统主题](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，其中5个女主角的視窗系统主题曾随Key公司订做的Rewrite笔记本赠送给买家，而第6位女主角「篝」的系统主题則是新制作的\[7\]\[8\]。
 
 为了给本作做宣传，遊戲開發商商請了[Good Smile
 Company制作一輛命名为](../Page/Good_Smile_Company.md "wikilink")「Rewrite
 Hf
-Car」的[痛车](https://zh.wikipedia.org/wiki/痛车 "wikilink")，该车于2012年5月30日至7月26日走遍了日本全国的主要城市进行宣传活动\[9\]。该车于2012年9月3日在日本[雅虎拍卖网站](../Page/雅虎.md "wikilink")[拍卖](../Page/拍卖.md "wikilink")，起拍价1日元，最终成交价1,806,000日元\[10\]\[11\]。与《Rewrite》相同，在本作发售之前，Key于2012年6月10日在[秋叶原举办了一个叫作Rewrite](https://zh.wikipedia.org/wiki/秋叶原 "wikilink")
+Car」的[痛车](https://zh.wikipedia.org/wiki/痛车 "wikilink")，该车于2012年5月30日至7月26日走遍了日本全国的主要城市进行宣传活动\[9\]。该车于2012年9月3日在日本[雅虎](../Page/雅虎.md "wikilink")拍卖网站[拍卖](../Page/拍卖.md "wikilink")，起拍价1日元，最终成交价1,806,000日元\[10\]\[11\]。与《Rewrite》相同，在本作发售之前，Key于2012年6月10日在[秋叶原举办了一个叫作Rewrite](https://zh.wikipedia.org/wiki/秋叶原 "wikilink")
 Harvest festa\!
-Fes.的活动\[12\]，活动中NanosizeMir和[多田葵进行了现场演出](../Page/多田葵.md "wikilink")，并且举行了数名制作人员与配音演员之间的访谈活动，参加访谈的有[都乃河勇人](../Page/都乃河勇人.md "wikilink")（脚本）、[折户伸治](https://zh.wikipedia.org/wiki/折户伸治 "wikilink")（音乐），以及配音演员[斋藤千和](../Page/斋藤千和.md "wikilink")（神户小鸟）、[篠宮沙弥](https://zh.wikipedia.org/wiki/篠宮沙弥 "wikilink")（凤千早）、[铃木惠子](https://zh.wikipedia.org/wiki/铃木惠子 "wikilink")（中津静流）和[朝树里沙](https://zh.wikipedia.org/wiki/朝树里沙 "wikilink")（此花露西娅）等人\[13\]。
+Fes.的活动\[12\]，活动中NanosizeMir和[多田葵](../Page/多田葵.md "wikilink")进行了现场演出，并且举行了数名制作人员与配音演员之间的访谈活动，参加访谈的有[都乃河勇人](../Page/都乃河勇人.md "wikilink")（脚本）、[折户伸治](https://zh.wikipedia.org/wiki/折户伸治 "wikilink")（音乐），以及配音演员[斋藤千和](../Page/斋藤千和.md "wikilink")（神户小鸟）、[篠宮沙弥](https://zh.wikipedia.org/wiki/篠宮沙弥 "wikilink")（凤千早）、[铃木惠子](https://zh.wikipedia.org/wiki/铃木惠子 "wikilink")（中津静流）和[朝树里沙](https://zh.wikipedia.org/wiki/朝树里沙 "wikilink")（此花露西娅）等人\[13\]。
 
 ## 故事简介
 

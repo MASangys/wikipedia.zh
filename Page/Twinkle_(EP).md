@@ -1,4 +1,4 @@
-《**Twinkle**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[少女时代子团体](../Page/少女时代.md "wikilink")[少女时代-太蒂徐的首张迷你專輯](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。2012年4月29日通过[iTunes发行数字版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，CD实体版于5月2日在韩国发行\[1\]
+《**Twinkle**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[少女时代](../Page/少女时代.md "wikilink")子团体[少女时代-太蒂徐的首张迷你專輯](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。2012年4月29日通过[iTunes发行数字版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，CD实体版于5月2日在韩国发行\[1\]
 。
 
 ## 单曲
@@ -65,8 +65,8 @@
 | --------------------------------------------------------------------------- | ---- |
 | Gaon 每周专辑榜                                                                  | 1    |
 | Gaon 每月专辑榜                                                                  | 1    |
-| [Oricon專輯週榜](../Page/Oricon.md "wikilink")                                  | 6    |
-| [Oricon專輯月榜](../Page/Oricon.md "wikilink")                                  | 16   |
+| [Oricon](../Page/Oricon.md "wikilink")專輯週榜                                  | 6    |
+| [Oricon](../Page/Oricon.md "wikilink")專輯月榜                                  | 16   |
 | [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 专辑排行榜 （美国区）       | 4    |
 | [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 流行音乐专辑排行榜 （美国区）   | 2    |
 | [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 专辑排行榜 （澳大利亚区）     | 4    |

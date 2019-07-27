@@ -1,4 +1,4 @@
-**Tay-Sachs**，[家族黑蒙性癡呆症](https://zh.wikipedia.org/wiki/家族黑蒙性癡呆症 "wikilink")。[溶酶体缺少](https://zh.wikipedia.org/wiki/溶酶体 "wikilink")[氨基己糖酯酶A](https://zh.wikipedia.org/wiki/氨基己糖酯酶A "wikilink")，导致[神经节](../Page/神经节.md "wikilink")[甘脂GM](https://zh.wikipedia.org/wiki/甘脂 "wikilink")2积累，影响[细胞功能](../Page/细胞.md "wikilink")，造成[精神性痴呆](https://zh.wikipedia.org/wiki/精神性痴呆 "wikilink")。
+**Tay-Sachs**，[家族黑蒙性癡呆症](https://zh.wikipedia.org/wiki/家族黑蒙性癡呆症 "wikilink")。[溶酶体缺少](https://zh.wikipedia.org/wiki/溶酶体 "wikilink")[氨基己糖酯酶A](https://zh.wikipedia.org/wiki/氨基己糖酯酶A "wikilink")，导致[神经节](../Page/神经节.md "wikilink")[甘脂GM](https://zh.wikipedia.org/wiki/甘脂 "wikilink")2积累，影响[细胞](../Page/细胞.md "wikilink")功能，造成[精神性痴呆](https://zh.wikipedia.org/wiki/精神性痴呆 "wikilink")。
 
 ## 参考资料
 

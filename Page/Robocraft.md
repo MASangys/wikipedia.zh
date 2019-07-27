@@ -1,6 +1,6 @@
 **《Robocraft》**是一款由[Freejam所開發的線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Freejam "wikilink")，玩家在此遊戲中要在機庫中以各種零件製作成屬於玩家自己的戰鬥機器，再去參與兩隊相戰鬥佔點的戰役。2013年3月7日開始公開測試\[1\]，採免費付費並行的模式。
 
-本遊戲在機體的設計上有極大的自由度，用各種功能的零件如組裝[樂高積木般的堆砌機體外型與調整機體功能](https://zh.wikipedia.org/wiki/樂高積木 "wikilink")，需要注意機體的[質量](https://zh.wikipedia.org/wiki/質量 "wikilink")、[質心位置](../Page/質心.md "wikilink")、[推力等等的物理性質](https://zh.wikipedia.org/wiki/推力 "wikilink")。2015年2月18日加入[鏡像編輯工具](https://zh.wikipedia.org/wiki/鏡像_\(幾何\) "wikilink")，理論上可使建造時間減半。\[2\]2015年12月17日增加塗裝系統，並整併了舊有的結構體，移除駕駛座功能與將機體數量免費提升至25架等重要變更。
+本遊戲在機體的設計上有極大的自由度，用各種功能的零件如組裝[樂高積木般的堆砌機體外型與調整機體功能](https://zh.wikipedia.org/wiki/樂高積木 "wikilink")，需要注意機體的[質量](https://zh.wikipedia.org/wiki/質量 "wikilink")、[質心](../Page/質心.md "wikilink")位置、[推力等等的物理性質](https://zh.wikipedia.org/wiki/推力 "wikilink")。2015年2月18日加入[鏡像編輯工具](https://zh.wikipedia.org/wiki/鏡像_\(幾何\) "wikilink")，理論上可使建造時間減半。\[2\]2015年12月17日增加塗裝系統，並整併了舊有的結構體，移除駕駛座功能與將機體數量免費提升至25架等重要變更。
 
 2015年1月5日發布訊息表示贏得2014年度最佳獨立製作遊戲（Indie Game of the
 Year）獎。\[3\]2015年11月13日贏得（TIGA）的最佳出道獎。\[4\]
@@ -9,7 +9,7 @@ Year）獎。\[3\]2015年11月13日贏得（TIGA）的最佳出道獎。\[4\]
 
 遊戲中主要互動是在[戰役和在母艦建設戰鬥機器](https://zh.wikipedia.org/wiki/戰役 "wikilink")，戰役的背景是在[火星](../Page/火星.md "wikilink")、[GJ
 1214
-b和](../Page/GJ_1214_b.md "wikilink")[地球這](../Page/地球.md "wikilink")3個[行星上](../Page/行星.md "wikilink")。
+b和](../Page/GJ_1214_b.md "wikilink")[地球](../Page/地球.md "wikilink")這3個[行星](../Page/行星.md "wikilink")上。
 
 ### 遊戲模式
 
@@ -69,7 +69,7 @@ CPU 都是2000 pFLOPS，等級變為無上限。\[7\]
         6版本，具有兩款表面為消光霧面材質的黑、橘色T10磚甲，比同階的磚甲貴上許多；亦有字母磚及"6"號數字磚的版本\[10\]。2015年12月17日將所有裝甲併成一般結構。
   - [風擋](https://zh.wikipedia.org/wiki/風擋 "wikilink")（Windshield）：與輕結構裝甲量相同但更耗CPU，幾乎是裝飾用，目前已移除。
   - [氦氣槽](https://zh.wikipedia.org/wiki/氦氣 "wikilink")（Helium
-    Tank）：與現實不同，遊戲中的設定是[負質量物質](../Page/負質量.md "wikilink")，也會增加[阻力](https://zh.wikipedia.org/wiki/阻力 "wikilink")。只有一種方型的形狀，現已被刪除。\[11\]
+    Tank）：與現實不同，遊戲中的設定是[負質量](../Page/負質量.md "wikilink")物質，也會增加[阻力](https://zh.wikipedia.org/wiki/阻力 "wikilink")。只有一種方型的形狀，現已被刪除。\[11\]
   - 裝甲氦氣槽（Armored
     Helium）：於2014年6月6日新增5種等級，是氦氣槽的裝甲強化版，之後又改為只剩2、4、8、10四種等級並把浮力參數改為一半。\[12\]
   - 飛機支架（Aero Rod）：比同級的其它結構部件更輕，但同時犧牲了裝甲和可連接點。有短、L形、長三種。
@@ -96,7 +96,7 @@ Out\!重大更新後都會受到[收益遞減的影響](https://zh.wikipedia.org
     Track）：第一款具有複數連接點的移動配件。單一部件僅能前進和後退，但兩個履帶以上的組合可以如履帶車般轉向。非常重、慢速但耐打，是遊戲中同階血量第二多的移動部件。能直接爬上對輪車是障礙的陡坡，地形適應性僅次於步行者腿（只差在不能倒掛和跳躍）。於2014年12月9日加入\[18\]
   - 陸橇（Ski）：唯一只有五階的移動部件，分為可轉向及無法轉向兩種。完全無動力，必須和推進器等移動部件搭配（但和履帶的組合非常糟）。於2014年12月23日連同禮物加入。\[19\]
   - 旋翼槳葉（Rotor
-    Blades）：俗稱螺旋槳，但實際上[旋翼不是](../Page/旋翼.md "wikilink")[螺旋槳](../Page/螺旋槳.md "wikilink")（因此將旋翼仿螺旋槳的方式垂直擺放，並不會對機體的操縱性產生任何效果）。於2015年2月18日重大更新「Dawn
+    Blades）：俗稱螺旋槳，但實際上[旋翼](../Page/旋翼.md "wikilink")不是[螺旋槳](../Page/螺旋槳.md "wikilink")（因此將旋翼仿螺旋槳的方式垂直擺放，並不會對機體的操縱性產生任何效果）。於2015年2月18日重大更新「Dawn
     of the
     Megabots」加入，單位CPU的可承載質量比機翼高。可以較為穩定的盤旋在空中，飛行高度比一般飛機稍低；裝備兩組以上在操作上較為容易。\[20\]
   - 機械腿（Mecha

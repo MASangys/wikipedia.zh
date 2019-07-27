@@ -1,5 +1,5 @@
 《**Girls'
-Rule**》（，又譯為**女生規則**）是[日本女子組合](../Page/日本.md "wikilink")[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")6張單曲，於2013年7月3日由[N46Div.發行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
+Rule**》（，又譯為**女生規則**）是[日本](../Page/日本.md "wikilink")女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")6張單曲，於2013年7月3日由[N46Div.發行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
 
 ## 發行
 

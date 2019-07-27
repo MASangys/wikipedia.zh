@@ -1,4 +1,4 @@
-**劇團EXILE**是[HIRO擔任總監的](../Page/五十嵐廣行.md "wikilink")[日本劇團](../Page/日本.md "wikilink")。
+**劇團EXILE**是[HIRO擔任總監的](../Page/五十嵐廣行.md "wikilink")[日本](../Page/日本.md "wikilink")劇團。
 
 ## 簡歷
 
@@ -8,7 +8,7 @@
   - 2009年8月、舉行第2屆劇團EXILE選拔會\[6\]。
   - 2009年11月、[青柳翔](../Page/青柳翔.md "wikilink")、[秋山真太郎](../Page/秋山真太郎.md "wikilink")、[春川恭亮](../Page/春川恭亮.md "wikilink")、[JONTE](https://zh.wikipedia.org/wiki/JONTE "wikilink")、磯村洋祐、小澤雄太結成華組開始活動\[7\]。
   - 2010年4月、山下健二郎、[ELLY](https://zh.wikipedia.org/wiki/ELLY "wikilink")、白濱亜嵐、藤間翔、藤間司結成風組開始活動\[8\]。
-  - 2010年8月、舉行第3屆劇団EXILE選拔會\[9\]。[町田啓太](https://zh.wikipedia.org/wiki/町田啓太 "wikilink")、[鈴木伸之合格](../Page/鈴木伸之.md "wikilink")\[10\]。
+  - 2010年8月、舉行第3屆劇団EXILE選拔會\[9\]。[町田啓太](https://zh.wikipedia.org/wiki/町田啓太 "wikilink")、[鈴木伸之](../Page/鈴木伸之.md "wikilink")合格\[10\]。
   - 2010年9月、藤間翔、藤間司退出。
   - 2011年1月、町田啓太、鈴木伸之加入風組\[11\]。
   - 2011年7月、華組與風組合併。施鐘泰、山下健二郎、ELLY、白濱亞嵐、町田啓太退出\[12\]。
@@ -17,7 +17,7 @@
   - 2013年5月、磯村洋祐退出\[16\]。
   - 2015年1月、佐藤寛太加入\[17\]。
   - 2015年9月、春川恭亮退出\[18\]。
-  - 2016年2月、[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[松本利夫擔任松組組長並演出松組創立公演](../Page/松本利夫.md "wikilink")。
+  - 2016年2月、[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[松本利夫](../Page/松本利夫.md "wikilink")擔任松組組長並演出松組創立公演。
 
 ## 成員
 

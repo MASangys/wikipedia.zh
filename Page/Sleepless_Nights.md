@@ -1,5 +1,5 @@
 「**Sleepless
-Nights**」（スリープレス・ナイツ）是[Aimer的第](../Page/Aimer.md "wikilink")1张专辑。
+Nights**」（スリープレス・ナイツ）是[Aimer](../Page/Aimer.md "wikilink")的第1张专辑。
 
 ## 概要
 

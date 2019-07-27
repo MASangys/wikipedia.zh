@@ -1,4 +1,4 @@
-**AFI百年百大电影台词**（）是[美国电影學院](https://zh.wikipedia.org/wiki/美国电影學院 "wikilink")（AFI）[“百年百大”系列的第八個部分](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")。該表單列出了[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[电影中的](../Page/电影.md "wikilink")100句电影台詞。评委团由1,500位艺术家、评论家、历史学家組成。該表單於2005年6月21日在一个长达3小时的电视节目上公布。該节目由演员[皮爾斯·布洛斯南主持](https://zh.wikipedia.org/wiki/皮爾斯·布洛斯南 "wikilink")，並有許多[好萊塢演員](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")、制片人发表评论。[美国內战史诗片](https://zh.wikipedia.org/wiki/美国內战 "wikilink")《[乱世佳人](../Page/乱世佳人.md "wikilink")》（1939年）裡[克拉克·蓋博说的电影台词](https://zh.wikipedia.org/wiki/克拉克·蓋博 "wikilink")「」獲選為AFI百年百大电影台词的第一名。
+**AFI百年百大电影台词**（）是[美国电影學院](https://zh.wikipedia.org/wiki/美国电影學院 "wikilink")（AFI）[“百年百大”系列的第八個部分](https://zh.wikipedia.org/wiki/AFI百年百大系列 "wikilink")。該表單列出了[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[电影](../Page/电影.md "wikilink")中的100句电影台詞。评委团由1,500位艺术家、评论家、历史学家組成。該表單於2005年6月21日在一个长达3小时的电视节目上公布。該节目由演员[皮爾斯·布洛斯南主持](https://zh.wikipedia.org/wiki/皮爾斯·布洛斯南 "wikilink")，並有許多[好萊塢演員](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")、制片人发表评论。[美国內战史诗片](https://zh.wikipedia.org/wiki/美国內战 "wikilink")《[乱世佳人](../Page/乱世佳人.md "wikilink")》（1939年）裡[克拉克·蓋博说的电影台词](https://zh.wikipedia.org/wiki/克拉克·蓋博 "wikilink")「」獲選為AFI百年百大电影台词的第一名。
 
 ## 評選和標準
 
@@ -210,7 +210,7 @@ What we've got here is failure to communicate."</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p>一个<a href="../Page/人口普查.md" title="wikilink">户籍调查员曾试图测试我</a>。我把他的<a href="../Page/肝臟.md" title="wikilink">肝就着</a><a href="../Page/蚕豆.md" title="wikilink">蚕豆和</a><a href="https://zh.wikipedia.org/wiki/基安蒂酒" title="wikilink">基安蒂酒吃了</a>。<br />
+<td><p>一个<a href="../Page/人口普查.md" title="wikilink">户籍调查员曾试图测试我</a>。我把他的<a href="../Page/肝臟.md" title="wikilink">肝就着</a><a href="../Page/蚕豆.md" title="wikilink">蚕豆</a>和<a href="https://zh.wikipedia.org/wiki/基安蒂酒" title="wikilink">基安蒂酒吃了</a>。<br />
 "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti."</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/漢尼拔·萊克特" title="wikilink">漢尼拔·萊克特</a></p></td>
 <td><p><a href="../Page/安東尼·霍普金斯.md" title="wikilink">安東尼·霍普金斯</a></p></td>
@@ -498,7 +498,7 @@ What we've got here is failure to communicate."</p></td>
 </tr>
 <tr class="odd">
 <td><p>53</p></td>
-<td><p>一天早上我在我的<a href="../Page/睡衣.md" title="wikilink">睡衣里打死一只大象</a>，他怎么跑到我睡衣里来的，我就不知道了<br />
+<td><p>一天早上我在我的<a href="../Page/睡衣.md" title="wikilink">睡衣</a>里打死一只大象，他怎么跑到我睡衣里来的，我就不知道了<br />
 "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know."</p></td>
 <td><p>傑佛瑞·T·史保定上校</p></td>
 <td><p><a href="../Page/格魯喬·馬克思.md" title="wikilink">格魯喬·馬克思</a></p></td>

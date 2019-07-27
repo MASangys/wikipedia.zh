@@ -1,5 +1,5 @@
 **船尾座PR**，又名**CD-46 3000**，**HD 56455**、**SAO 218570**、**HR
-2761**，是[船尾座的一颗恒星](../Page/船尾座.md "wikilink")\[1\]\[2\]，视星等为5.72，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")257.96，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-15.71，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+2761**，是[船尾座](../Page/船尾座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.72，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")257.96，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-15.71，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

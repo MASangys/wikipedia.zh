@@ -21,7 +21,7 @@ X100采用APS-C幅面的cmos传感器，具备1200万像素，一颗不可更换
 X100上的23mm镜头为重新开发，镜头后镜片组与传感器之间的距离仅
 5.6mm，具备全开F2的[光圈值](https://zh.wikipedia.org/wiki/光圈值 "wikilink")。镜头内部还集成了[ND镜](../Page/中性灰度滤镜.md "wikilink")，具备3档减光效果。
 
-[镜间快门也集成在这枚镜头内部](https://zh.wikipedia.org/wiki/镜间快门 "wikilink")，提供最高1/4000s快门速度。这样的快门设计使得拍摄时声音较为轻柔，震动较小。而在配合[闪光灯使用时](../Page/闪光灯.md "wikilink")，可以获得很高的[同步速度](https://zh.wikipedia.org/wiki/同步速度 "wikilink")\[4\]
+[镜间快门也集成在这枚镜头内部](https://zh.wikipedia.org/wiki/镜间快门 "wikilink")，提供最高1/4000s快门速度。这样的快门设计使得拍摄时声音较为轻柔，震动较小。而在配合[闪光灯](../Page/闪光灯.md "wikilink")使用时，可以获得很高的[同步速度](https://zh.wikipedia.org/wiki/同步速度 "wikilink")\[4\]
 
 ### 混合式取景器
 

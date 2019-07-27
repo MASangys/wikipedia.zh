@@ -1,7 +1,7 @@
 《**Kinect
 大冒險**》（）是一個於2010年[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[電子娛樂展覽上](https://zh.wikipedia.org/wiki/E3 "wikilink")\[1\]發佈的[Xbox
 360](../Page/Xbox_360.md "wikilink")[冒險](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[體育類](https://zh.wikipedia.org/wiki/體育類遊戲 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，為Xbox
-360[Kinect套裝附贈遊戲](../Page/Kinect.md "wikilink")，\[2\]由Good Science
+360[Kinect](../Page/Kinect.md "wikilink")套裝附贈遊戲，\[2\]由Good Science
 Studio開發，由[微软游戏工作室發佈](https://zh.wikipedia.org/wiki/微软游戏工作室 "wikilink")，共包含5種冒險及運動遊戲。\[3\]
 
 ## 遊戲系統
@@ -65,10 +65,10 @@ Live多人遊戲](../Page/Xbox_Live.md "wikilink")。在遊戲進行期間，Kin
 ## 評價
 
 《Kinect
-大冒險》獲得的評價好壞參半。[Metacritic得出此遊戲的分數為](../Page/Metacritic.md "wikilink")61/100分\[14\]，而[GameRankings則得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")65.39%。\[15\]
+大冒險》獲得的評價好壞參半。[Metacritic](../Page/Metacritic.md "wikilink")得出此遊戲的分數為61/100分\[14\]，而[GameRankings則得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")65.39%。\[15\]
 
-[IGN給予此遊戲](../Page/IGN.md "wikilink")6.5/10，稱讚其畫質和音效，但就批評遊戲太快完結。\[16\][Eurogamer給予此遊戲](../Page/Eurogamer.md "wikilink")6/10分，並批評其遊戲模式太少和吸引力不能持久。\[17\]《[Game
-Informer](../Page/Game_Informer.md "wikilink")》則給予此遊戲7.5/10分，稱讚其善用Kinect、高清的卡通化畫質和高可玩性。\[18\][GameSpot給予此遊戲](../Page/GameSpot.md "wikilink")7/10分，稱讚其良好的操作和遊戲難度繁多，但就批評遊戲種類太少和部份遊戲對玩家的要求太高。\[19\]《Xbox官方雜誌》給予此遊戲7/10分，稱讚遊戲令人愉快和具高吸引力，但仍然批評遊戲種類太少。\[20\]而電子遊戲脫口秀《[Good
+[IGN](../Page/IGN.md "wikilink")給予此遊戲6.5/10，稱讚其畫質和音效，但就批評遊戲太快完結。\[16\][Eurogamer](../Page/Eurogamer.md "wikilink")給予此遊戲6/10分，並批評其遊戲模式太少和吸引力不能持久。\[17\]《[Game
+Informer](../Page/Game_Informer.md "wikilink")》則給予此遊戲7.5/10分，稱讚其善用Kinect、高清的卡通化畫質和高可玩性。\[18\][GameSpot](../Page/GameSpot.md "wikilink")給予此遊戲7/10分，稱讚其良好的操作和遊戲難度繁多，但就批評遊戲種類太少和部份遊戲對玩家的要求太高。\[19\]《Xbox官方雜誌》給予此遊戲7/10分，稱讚遊戲令人愉快和具高吸引力，但仍然批評遊戲種類太少。\[20\]而電子遊戲脫口秀《[Good
 Game](https://zh.wikipedia.org/wiki/Good_Game "wikilink")》的兩位主持人則分別給予此遊戲6/10分和6.5/10分，稱讚其善用Kinect，但就批評遊戲不值得玩。\[21\]
 
 ## 銷售

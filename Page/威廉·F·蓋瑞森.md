@@ -13,7 +13,7 @@ Serpent）指揮官。1993年展開軍事行動，抓捕[索馬里軍閥](https:
 
 蓋瑞森在邪靈蛇行動經歷錯失，要負擔全部責任，此役之後他結束了軍人生涯，他的屬下則認為他是優秀指揮官，索馬利亞的軍事行動失敗該歸咎於政治人物。
 
-蓋瑞森於[山姆·休士頓州立大學和](https://zh.wikipedia.org/wiki/山姆·休士頓州立大學 "wikilink")[德克薩斯大學](https://zh.wikipedia.org/wiki/德克薩斯大學 "wikilink")，[工商管理碩士畢業](../Page/工商管理碩士.md "wikilink")。
+蓋瑞森於[山姆·休士頓州立大學和](https://zh.wikipedia.org/wiki/山姆·休士頓州立大學 "wikilink")[德克薩斯大學](https://zh.wikipedia.org/wiki/德克薩斯大學 "wikilink")，[工商管理碩士](../Page/工商管理碩士.md "wikilink")畢業。
 
 ## 其它
 

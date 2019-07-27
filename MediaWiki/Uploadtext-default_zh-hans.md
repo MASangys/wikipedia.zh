@@ -8,7 +8,7 @@
 [Commons-logo.svg](https://zh.wikipedia.org/wiki/File:Commons-logo.svg "fig:Commons-logo.svg")
 
   - 如果您的图片以**[自由版权协议](https://zh.wikipedia.org/wiki/Commons:Commons:许可协议 "wikilink")**发布（而不是[合理使用](https://zh.wikipedia.org/wiki/wikipedia:合理使用 "wikilink")！），您可以考虑上载到**[维基共享资源](../Page/维基共享资源.md "wikilink")**，一个可用于所有语言、所有维基媒体计划的内容共享仓库。点击**[这里](https://zh.wikipedia.org/wiki/commons:Special:Upload "wikilink")**到[维基共享资源上传图片](https://zh.wikipedia.org/wiki/commons:首页 "wikilink")。
-  - 有些自由版权或无版权的图片只存在于其他维基计画（例如英语或其他语种的维基百科），这可能是因为该处用户不够了解[维基共享资源所致](../Page/维基共享资源.md "wikilink")，如果希望该图能于中文维基上使用，可以考虑上传到\[//commons.wikimedia.org/wiki/Special:Upload
+  - 有些自由版权或无版权的图片只存在于其他维基计画（例如英语或其他语种的维基百科），这可能是因为该处用户不够了解[维基共享资源](../Page/维基共享资源.md "wikilink")所致，如果希望该图能于中文维基上使用，可以考虑上传到\[//commons.wikimedia.org/wiki/Special:Upload
     维基共享资源\]或这里。<font color=#CC0000>
     请注意，若您在维基共享资源没有帐号，则在上传至该处之前必须先\[//commons.wikimedia.org/w/index.php?title=Special:Userlogin\&type=signup
     申请新帐号\]。</font>

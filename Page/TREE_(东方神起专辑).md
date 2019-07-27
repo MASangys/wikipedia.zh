@@ -1,10 +1,10 @@
-《**TREE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[東方神起的第](../Page/東方神起.md "wikilink")7枚原創日語專輯，於2014年3月5日發行。唱片公司為[avex
+《**TREE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[東方神起](../Page/東方神起.md "wikilink")的第7枚原創日語專輯，於2014年3月5日發行。唱片公司為[avex
 trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 距離上一張錄音室專輯《[TIME](https://zh.wikipedia.org/wiki/TIME "wikilink")》相隔一年之後發行，是東方神起二人體制下活動再開後的第三張專輯。
-  - 收錄第37張單曲《[OCEAN](../Page/OCEAN_\(东方神起单曲\).md "wikilink")》、第38張單曲[SCREAM和第](../Page/SCREAM.md "wikilink")40張單曲《[HIDE
+  - 收錄第37張單曲《[OCEAN](../Page/OCEAN_\(东方神起单曲\).md "wikilink")》、第38張單曲[SCREAM](../Page/SCREAM.md "wikilink")和第40張單曲《[HIDE
     & SEEK /
     SOMETHING](https://zh.wikipedia.org/wiki/Hide_&_Seek_/_Something "wikilink")》的4首A面曲。
   - 歌曲《SCREAM》是角川书店制作电影《贞子3D2》主题歌；日本全国音乐信息节目《Music B.B.》2013年9月片尾曲。

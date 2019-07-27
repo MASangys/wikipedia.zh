@@ -1,7 +1,7 @@
 [Wii_console.png](https://zh.wikipedia.org/wiki/File:Wii_console.png "fig:Wii_console.png")\]\]
 
 
-这是一个[Wii](../Page/Wii.md "wikilink")[电子游戏的列表](../Page/电子游戏.md "wikilink")。游戏的销售数量至少超过100万份。游戏按照销售数量排序。至2011年3月，共有103个Wii游戏销售超过100万份。\[1\]
+这是一个[Wii](../Page/Wii.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")的列表。游戏的销售数量至少超过100万份。游戏按照销售数量排序。至2011年3月，共有103个Wii游戏销售超过100万份。\[1\]
 
 ## 列表
 

@@ -1,6 +1,6 @@
-在[软件领域](../Page/软件.md "wikilink")，**JAR文件**（Java归档，）是一种[软件包](../Page/软件包格式.md "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")，通常用于聚合大量的、相关的[元数据和资源](../Page/元数据.md "wikilink")（文本、图片等）文件到一个文件，以便分发Java平台[应用软件或](https://zh.wikipedia.org/wiki/应用软件 "wikilink")[库](../Page/函式庫.md "wikilink")。\[3\]\[1\]
+在[软件](../Page/软件.md "wikilink")领域，**JAR文件**（Java归档，）是一种[软件包](../Page/软件包格式.md "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")，通常用于聚合大量的、相关的[元数据](../Page/元数据.md "wikilink")和资源（文本、图片等）文件到一个文件，以便分发Java平台[应用软件或](https://zh.wikipedia.org/wiki/应用软件 "wikilink")[库](../Page/函式庫.md "wikilink")。\[3\]\[1\]
 
-JAR文件是一种，以[ZIP格式构建](../Page/ZIP格式.md "wikilink")，以`.jar`为[文件扩展名](../Page/文件扩展名.md "wikilink")。用户可以使用[JDK自带的jar命令创建或提取JAR文件](../Page/JDK.md "wikilink")。也可以使用其他`zip`压缩工具，不过压缩时zip文件头里的条目顺序很重要，因为[Manifest文件常需放在首位](https://zh.wikipedia.org/wiki/Manifest文件 "wikilink")。JAR文件内的文件名是Unicode文本。\[2\]
+JAR文件是一种，以[ZIP格式](../Page/ZIP格式.md "wikilink")构建，以`.jar`为[文件扩展名](../Page/文件扩展名.md "wikilink")。用户可以使用[JDK](../Page/JDK.md "wikilink")自带的jar命令创建或提取JAR文件。也可以使用其他`zip`压缩工具，不过压缩时zip文件头里的条目顺序很重要，因为[Manifest文件常需放在首位](https://zh.wikipedia.org/wiki/Manifest文件 "wikilink")。JAR文件内的文件名是Unicode文本。\[2\]
 
 ## 设计
 
@@ -8,13 +8,13 @@ JAR文件是一种，以[ZIP格式构建](../Page/ZIP格式.md "wikilink")，以
 
 JAR文件在路径META-INF/MANIFEST.MF下有一个可选的[Manifest文件](../Page/清单文件.md "wikilink")。Manifest文件中的条目定义这个JAR文件如何被使用。例如，类路径条目由其他JAR文件的绝对或相对路径的列表组成，用于指定在加载本JAR文件时同时加载的其他JAR文件。虽然旨在简化JAR的使用，但在实践中证明Manifest文件是非常脆弱的，因为入口点JAR在创建时依赖于所有相关的JAR的确切位置。一旦需要更改版本或库的位置，必需重建Manifest文件。
 
-为了提取JAR文件的内容，用户可以使用任何标准的unzip解压缩软件，或者每个[Java虚拟机都带有的](../Page/Java虚拟机.md "wikilink")`jar`命令：“`jar
+为了提取JAR文件的内容，用户可以使用任何标准的unzip解压缩软件，或者每个[Java虚拟机](../Page/Java虚拟机.md "wikilink")都带有的`jar`命令：“`jar
 -xf foo.jar`”。
 
 开发者可以对JAR文件进行[数字签名](https://zh.wikipedia.org/wiki/数字签名 "wikilink")。在这种情况下，签名信息成为嵌入的Manifest文件的一部分。JAR本身并没有被签名，而是归档内的每一个文件的校验和连同其名字作为签名，被记录在Manifest文件中。多个实体可能签署一个JAR文件，并在每次签名时改变这个JAR文件，虽然签署文件本身仍然有效。当Java运行时加载签名的JAR文件时，它可以验证签名并拒绝加载签名不匹配的类。Java运行时也支持“密封”的包（Sealed
 Packages）。类加载器一旦成功装载密封包中的某个类后，其后加载的类必须是由同一实体签名，才被允许加载到同一个包。这可以防止恶意代码被插入到现有的软件包，以至于接触到包范围内的类和数据。
 
-开发者可以对JAR文件进行[混淆](../Page/代码混淆.md "wikilink")，这样该JAR文件的用户无法得到关于该JAR文件所包含的代码的太多信息，并且能够压缩文件大小。这在空间受限的[嵌入式系统开发中很有用](../Page/嵌入式系统.md "wikilink")。
+开发者可以对JAR文件进行[混淆](../Page/代码混淆.md "wikilink")，这样该JAR文件的用户无法得到关于该JAR文件所包含的代码的太多信息，并且能够压缩文件大小。这在空间受限的[嵌入式系统](../Page/嵌入式系统.md "wikilink")开发中很有用。
 
 ### 可执行JAR文件
 
@@ -31,32 +31,32 @@ Windows用户而言](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 ## Manifest
 
 在[Java平台中](../Page/Java平臺.md "wikilink"),
-[Manifest文件是JAR归档中所包含的特殊文件](https://zh.wikipedia.org/wiki/Manifest文件 "wikilink")。\[3\]\[4\]Manifest文件被用来定义扩展或档案打包相关数据。Manifest文件是一个[元数据文件](../Page/元数据.md "wikilink")，它包含了不同部分中的数据。如果一个JAR文件被当作可执行文件，则其中的Manifest文件需要指出该程序的主类文件。通常Manifest文件的文件名为`MANIFEST.MF`。
+[Manifest文件是JAR归档中所包含的特殊文件](https://zh.wikipedia.org/wiki/Manifest文件 "wikilink")。\[3\]\[4\]Manifest文件被用来定义扩展或档案打包相关数据。Manifest文件是一个[元数据](../Page/元数据.md "wikilink")文件，它包含了不同部分中的数据。如果一个JAR文件被当作可执行文件，则其中的Manifest文件需要指出该程序的主类文件。通常Manifest文件的文件名为`MANIFEST.MF`。
 
 通常Manifest文件都与Java档案相关，其他的情况比较少见。
 
 ## Apache Ant的Zip/JAR支持
 
 在[Apache
-Ant构建工具中有其自己的包](../Page/Apache_Ant.md "wikilink")——org.apache.tools.zip，用来读写Zip和JAR归档文件，并包括对[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[文件系统的支持](../Page/文件系统.md "wikilink")。org.apache.tools.zip包发布在Apache软件基金会许可下，并被设计成在Ant之外使用。
+Ant构建工具中有其自己的包](../Page/Apache_Ant.md "wikilink")——org.apache.tools.zip，用来读写Zip和JAR归档文件，并包括对[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[文件系统](../Page/文件系统.md "wikilink")的支持。org.apache.tools.zip包发布在Apache软件基金会许可下，并被设计成在Ant之外使用。
 
 ## 相关格式
 
 几种相关的文件格式建立在JAR格式的基础上：
 
   - [WAR](../Page/WAR_\(文件格式\).md "wikilink")
-    （Web应用程序归档，)，也是一种Java归档，存储[XML文件](../Page/XML.md "wikilink")、Java类、[JSP和Web应用程序中的其他文件](../Page/JSP.md "wikilink")。
+    （Web应用程序归档，)，也是一种Java归档，存储[XML](../Page/XML.md "wikilink")文件、Java类、[JSP](../Page/JSP.md "wikilink")和Web应用程序中的其他文件。
 
-  - [RAR](https://zh.wikipedia.org/wiki/Java_EE连接器架构 "wikilink")（资源适配器归档，），这里不是指[RAR文件格式](../Page/RAR.md "wikilink")），也是一种Java归档，存储[XML文件](../Page/XML.md "wikilink")、Java类和[Java
+  - [RAR](https://zh.wikipedia.org/wiki/Java_EE连接器架构 "wikilink")（资源适配器归档，），这里不是指[RAR](../Page/RAR.md "wikilink")文件格式），也是一种Java归档，存储[XML](../Page/XML.md "wikilink")文件、Java类和[Java
     EE连接器架构](https://zh.wikipedia.org/wiki/Java_EE连接器架构 "wikilink")（JCA）应用中的其他文件。
 
-  - （），是一种复合式Java归档文件，包含了[XML文件](../Page/XML.md "wikilink")、Java类和针对Java
+  - （），是一种复合式Java归档文件，包含了[XML](../Page/XML.md "wikilink")文件、Java类和针对Java
     EE应用的其他Java归档文件，例如JAR、WAR和RAR。
 
   - [SAR](https://zh.wikipedia.org/wiki/SAR "wikilink")（），与EAR类似。它提供了`service.xml`文件和相应的JAR文件。
 
   - [APK](../Page/APK.md "wikilink")
-    (Android应用程序包文件，）Java归档格式的一个变种，用于[Android应用程序](../Page/Android.md "wikilink")。\[5\]
+    (Android应用程序包文件，）Java归档格式的一个变种，用于[Android](../Page/Android.md "wikilink")应用程序。\[5\]
 
 ## 参见
 

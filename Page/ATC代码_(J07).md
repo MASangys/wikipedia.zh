@@ -111,7 +111,7 @@
 
 ## J07B 病毒疫苗（Viral vaccines）
 
-### J07BA [脑炎疫苗](../Page/脑炎.md "wikilink")（Encephalitis vaccines）
+### J07BA [脑炎](../Page/脑炎.md "wikilink")疫苗（Encephalitis vaccines）
 
   -
     J07BA01 蜱传播脑炎疫苗，全灭活病毒（Encephalitis, tick borne, inactivated, whole
@@ -136,11 +136,11 @@
     A, inactivated, whole virus）
     J07BC20 复方Combinations
 
-### J07BD [麻疹疫苗](../Page/麻疹.md "wikilink")（Measles vaccines）
+### J07BD [麻疹](../Page/麻疹.md "wikilink")疫苗（Measles vaccines）
 
   -
     J07BD01 麻疹疫苗，减弱活性（Measles, live attenuated）
-    J07BD51 麻疹疫苗，与[腮腺炎疫苗的复方](../Page/腮腺炎.md "wikilink")，减弱活性（Measles,
+    J07BD51 麻疹疫苗，与[腮腺炎](../Page/腮腺炎.md "wikilink")疫苗的复方，减弱活性（Measles,
     combinations with
     [mumps](https://zh.wikipedia.org/wiki/mumps "wikilink"), live
     attenuated）
@@ -152,7 +152,7 @@
     J07BD54 麻疹，腮腺炎，风疹和水痘的复方，减毒活（Measles, combinations with mumps,
     rubella and varicella, live attenuated）
 
-### J07BE [腮腺炎疫苗](../Page/腮腺炎.md "wikilink")（Mumps vaccines）
+### J07BE [腮腺炎](../Page/腮腺炎.md "wikilink")疫苗（Mumps vaccines）
 
   -
     J07BE01 腮腺炎疫苗，减弱活性（Mumps, live attenuated）
@@ -167,7 +167,7 @@
     J07BF03 口服脊髓灰质炎疫苗，三价，全灭活病毒（Poliomyelitis, trivalent, inactivated,
     whole virus）
 
-### J07BG [狂犬病疫苗](../Page/狂犬病.md "wikilink")（Rabies vaccines）
+### J07BG [狂犬病](../Page/狂犬病.md "wikilink")疫苗（Rabies vaccines）
 
   -
     J07BG01 狂犬病疫苗，全灭活病毒（Rabies, inactivated, whole virus）
@@ -185,13 +185,13 @@
     J07BJ51 风疹疫苗，与腮腺炎疫苗的复方，减弱活性（Rubella, combinations with mumps, live
     attenuated）
 
-### J07BK [水痘](../Page/水痘.md "wikilink")[带状疱疹疫苗](../Page/带状疱疹.md "wikilink")（Varicella zoster vaccines）
+### J07BK [水痘](../Page/水痘.md "wikilink")[带状疱疹](../Page/带状疱疹.md "wikilink")疫苗（Varicella zoster vaccines）
 
   -
     J07BK01 水痘疫苗，减弱活性（Varicella, live attenuated）
     J07BK02 带状疱疹，减毒活（Zoster, live attenuated）
 
-### J07BL [黄热病疫苗](../Page/黄热病.md "wikilink")（Yellow fever vaccines）
+### J07BL [黄热病](../Page/黄热病.md "wikilink")疫苗（Yellow fever vaccines）
 
   -
     J07BL01 黄热病疫苗，减弱活性（Yellow fever, live attenuated）

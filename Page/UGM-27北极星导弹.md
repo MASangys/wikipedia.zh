@@ -1,13 +1,13 @@
 [Polaris-a1.jpg](https://zh.wikipedia.org/wiki/File:Polaris-a1.jpg "fig:Polaris-a1.jpg")
 [Polaris_A3TK_Chevaline_RV_and_PAC_toe-in_and_tilt-out.gif](https://zh.wikipedia.org/wiki/File:Polaris_A3TK_Chevaline_RV_and_PAC_toe-in_and_tilt-out.gif "fig:Polaris_A3TK_Chevaline_RV_and_PAC_toe-in_and_tilt-out.gif")
 **UGM-27北极星导弹**（UGM-27
-Polaris）是[洛克希德公司为](../Page/洛克希德公司.md "wikilink")[美国海军在](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[冷战期间建造的一种两段式固態燃料](../Page/冷战.md "wikilink")[潜射弹道导弹](../Page/潜射弹道导弹.md "wikilink")，用于替换[SSM-N-8天狮星型巡航导弹作為美國海軍新一代的舰队弹道导弹](https://zh.wikipedia.org/wiki/SSM-N-8 "wikilink")（Fleet
+Polaris）是[洛克希德公司](../Page/洛克希德公司.md "wikilink")为[美国海军在](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[冷战](../Page/冷战.md "wikilink")期间建造的一种两段式固態燃料[潜射弹道导弹](../Page/潜射弹道导弹.md "wikilink")，用于替换[SSM-N-8天狮星型巡航导弹作為美國海軍新一代的舰队弹道导弹](https://zh.wikipedia.org/wiki/SSM-N-8 "wikilink")（Fleet
 Ballistic Missile,
 FBM）。北極星是在1960年1月7日于[佛罗里达](https://zh.wikipedia.org/wiki/佛罗里达 "wikilink")[卡納維爾角](https://zh.wikipedia.org/wiki/卡納維爾角 "wikilink")（Cape
 Canaveral,
 FL）进行首次试射。英國在1963年签下北极星订购合同后，该弹从1968年到1990年代中期也曾配屬在[英国皇家海军旗下的](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")[潜艇上](https://zh.wikipedia.org/wiki/潜艇 "wikilink")。
 
-除了英美之外，[意大利本也有意购买北極星](../Page/意大利.md "wikilink")，还在（Giuseppe
+除了英美之外，[意大利](../Page/意大利.md "wikilink")本也有意购买北極星，还在（Giuseppe
 Garibaldi）上进行了试射。但是尽管试验成功，美国却出于政治考虑未提供该弹。意大利于是自行发展了，却由于簽署了[核不扩散条约而未實際装备](https://zh.wikipedia.org/wiki/核不扩散条约 "wikilink")。
 
 北極星的后续型是1972年开始发展的[波塞冬导弹](https://zh.wikipedia.org/wiki/UGM-73海神飛彈 "wikilink")（UGM-73

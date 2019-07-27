@@ -1,11 +1,11 @@
-《Triangle》（）是韓國[MBC電視台於](https://zh.wikipedia.org/wiki/MBC "wikilink")2014年製作的月火劇。由[崔完圭編劇](../Page/崔完圭.md "wikilink")，[劉哲龍](../Page/劉哲龍.md "wikilink")、崔正奎導演，[金在中](../Page/金在中.md "wikilink")、[李凡秀](../Page/李凡秀.md "wikilink")、[白珍熙](../Page/白珍熙.md "wikilink")、[任時完](https://zh.wikipedia.org/wiki/任時完 "wikilink")、[吳娟受領銜主演](../Page/吳娟受.md "wikilink")。
+《Triangle》（）是韓國[MBC電視台於](https://zh.wikipedia.org/wiki/MBC "wikilink")2014年製作的月火劇。由[崔完圭](../Page/崔完圭.md "wikilink")編劇，[劉哲龍](../Page/劉哲龍.md "wikilink")、崔正奎導演，[金在中](../Page/金在中.md "wikilink")、[李凡秀](../Page/李凡秀.md "wikilink")、[白珍熙](../Page/白珍熙.md "wikilink")、[任時完](https://zh.wikipedia.org/wiki/任時完 "wikilink")、[吳娟受](../Page/吳娟受.md "wikilink")領銜主演。
 
 該劇主要講述失去父母的三兄弟，從小被迫分開生活了20多年卻不知道互相的存在，又因機缘巧合開始尋找對方，在此過程中發生的關於愛情與成功的故事。於2014年5月5日在韓國MBC電視台播出\[1\]，之後在日本、中國、泰國等地達成了總700萬美元的預先銷售出口。
 
 ## 劇情簡介
 
-張東澈（[金在中飾](../Page/金在中.md "wikilink")）有大他七歲的哥哥張東秀（[李凡秀飾](../Page/李凡秀.md "wikilink")）和小他四歲的弟弟張東宇（[任時完飾](https://zh.wikipedia.org/wiki/任時完 "wikilink")）。在東澈五歲的時候，母親因為太貧困而抛棄了三兄弟。他們一下子成為了孤兒，三兄只能弟艱辛地生活在孤兒院。東澈十歲的時候，一起生活在孤兒院的哥哥留下一句很快就回來的話後就離開了孤兒院。東澈本想要在哥哥回来前一直守護年幼的弟弟東宇，但是弟弟被財閥領養了，没法守護弟弟的東澈逃離了孤兒院。
-逃出孤兒院的張東澈經常出入管教所，並有了一個叫許英達（[金在中飾](../Page/金在中.md "wikilink")）的新名字。在許英達過了二十歲後，又回到了舍北，過著連垃圾都不如的生活。在這裡遇上了搜查高福太非法事件的刑警張東秀，還有賭場[莊荷吳靜熙](../Page/莊荷.md "wikilink")（[白珍熙飾](../Page/白珍熙.md "wikilink")）以及財閥少爺尹良河（[任時完飾](https://zh.wikipedia.org/wiki/任時完 "wikilink")）。\[2\]
+張東澈（[金在中](../Page/金在中.md "wikilink")飾）有大他七歲的哥哥張東秀（[李凡秀](../Page/李凡秀.md "wikilink")飾）和小他四歲的弟弟張東宇（[任時完飾](https://zh.wikipedia.org/wiki/任時完 "wikilink")）。在東澈五歲的時候，母親因為太貧困而抛棄了三兄弟。他們一下子成為了孤兒，三兄只能弟艱辛地生活在孤兒院。東澈十歲的時候，一起生活在孤兒院的哥哥留下一句很快就回來的話後就離開了孤兒院。東澈本想要在哥哥回来前一直守護年幼的弟弟東宇，但是弟弟被財閥領養了，没法守護弟弟的東澈逃離了孤兒院。
+逃出孤兒院的張東澈經常出入管教所，並有了一個叫許英達（[金在中](../Page/金在中.md "wikilink")飾）的新名字。在許英達過了二十歲後，又回到了舍北，過著連垃圾都不如的生活。在這裡遇上了搜查高福太非法事件的刑警張東秀，還有賭場[莊荷](../Page/莊荷.md "wikilink")吳靜熙（[白珍熙](../Page/白珍熙.md "wikilink")飾）以及財閥少爺尹良河（[任時完飾](https://zh.wikipedia.org/wiki/任時完 "wikilink")）。\[2\]
 
 ## 演員陣容
 
@@ -29,7 +29,7 @@
 <td><p><a href="../Page/金在中.md" title="wikilink">金在中</a><br />
 <small>童年：<a href="https://zh.wikipedia.org/wiki/高宇臨" title="wikilink">高宇臨</a></small></p></td>
 <td><p>張東澈／許英達</p></td>
-<td><p>31岁，<a href="../Page/黑社會.md" title="wikilink">黑社會大哥</a>。在他五歲的時候，父親去世，母親拋棄了三兄弟，三兄弟唯有一起生活在孤兒院。哥哥張東秀留下一句很快就回來的話後就離開了他們，弟弟東宇被領養走後，東澈也逃出了孤兒院，並有了一個叫許英達的新名字。在他過了二十歲後，又回到了舍北，並且對賭場<a href="../Page/莊荷.md" title="wikilink">莊荷吳靜熙一見鍾情</a>。</p></td>
+<td><p>31岁，<a href="../Page/黑社會.md" title="wikilink">黑社會</a>大哥。在他五歲的時候，父親去世，母親拋棄了三兄弟，三兄弟唯有一起生活在孤兒院。哥哥張東秀留下一句很快就回來的話後就離開了他們，弟弟東宇被領養走後，東澈也逃出了孤兒院，並有了一個叫許英達的新名字。在他過了二十歲後，又回到了舍北，並且對賭場<a href="../Page/莊荷.md" title="wikilink">莊荷</a>吳靜熙一見鍾情。</p></td>
 <td><p><a href="../Page/李致林.md" title="wikilink">李致林</a></p></td>
 </tr>
 <tr class="odd">
@@ -110,20 +110,20 @@
 
 ### 其他人物
 
-|                                                     |        |                   |                                        |
-| --------------------------------------------------- | ------ | ----------------- | -------------------------------------- |
-| **演員**                                              | **角色** | width:50%|**介绍**  | **粵語配音**                               |
-| [金炳基](../Page/金炳基.md "wikilink")                    | 尹泰俊    | 東宇的養父，大正集團的會長。    | [陳永信](../Page/陳永信.md "wikilink")       |
-| [姜信日](../Page/姜信日.md "wikilink")                    | 黃政滿    | 新惠的父親             | [林國雄](../Page/林國雄.md "wikilink")       |
-| [張東稷](../Page/張東稷.md "wikilink")                    | 玄弼尚    | 新惠的丈夫，大正集團秘書室長。   | [陳欣](../Page/陳欣_\(配音員\).md "wikilink") |
-| [金俊培](https://zh.wikipedia.org/wiki/金俊培 "wikilink") | 萬峰     | 50億的主人            |                                        |
-| [鄭景順](https://zh.wikipedia.org/wiki/鄭景順 "wikilink") | 坡州嬸    | 小飯館的老板娘           | [伍秀霞](../Page/伍秀霞.md "wikilink")       |
-| [鄭素熙](https://zh.wikipedia.org/wiki/鄭素熙 "wikilink") | 閔社长    | 賭場老板              | [雷碧娜](../Page/雷碧娜.md "wikilink")       |
-| [羅野](https://zh.wikipedia.org/wiki/羅野 "wikilink")   | 李秀晶    | 賭場財闊C World集團的小女兒 |                                        |
-| [白信](https://zh.wikipedia.org/wiki/白信 "wikilink")   | 國奉達    | 舍北當地的警察           | [劉昭文](../Page/劉昭文.md "wikilink")       |
-| [朴芝妍](../Page/朴芝妍.md "wikilink")                    | 成宥真    | 東宇的政治聯姻对象         | [陳皓宜](../Page/陳皓宜.md "wikilink")       |
-| [朴元淑](../Page/朴元淑.md "wikilink")                    | 許春熙    | 三兄弟的生母            | [袁淑珍](../Page/袁淑珍.md "wikilink")       |
-| [趙成賢](https://zh.wikipedia.org/wiki/趙成賢 "wikilink") | 尹政宇    | 韓昌集團Lucky賭場理事     |                                        |
+|                                                       |        |                   |                                        |
+| ----------------------------------------------------- | ------ | ----------------- | -------------------------------------- |
+| **演員**                                                | **角色** | width:50%|**介绍**  | **粵語配音**                               |
+| [金炳基](../Page/金炳基.md "wikilink")                      | 尹泰俊    | 東宇的養父，大正集團的會長。    | [陳永信](../Page/陳永信.md "wikilink")       |
+| [姜信日](../Page/姜信日.md "wikilink")                      | 黃政滿    | 新惠的父親             | [林國雄](../Page/林國雄.md "wikilink")       |
+| [張東稷](../Page/張東稷.md "wikilink")                      | 玄弼尚    | 新惠的丈夫，大正集團秘書室長。   | [陳欣](../Page/陳欣_\(配音員\).md "wikilink") |
+| [金俊培](https://zh.wikipedia.org/wiki/金俊培 "wikilink")   | 萬峰     | 50億的主人            |                                        |
+| [鄭景順](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")   | 坡州嬸    | 小飯館的老板娘           | [伍秀霞](../Page/伍秀霞.md "wikilink")       |
+| [鄭素熙](https://zh.wikipedia.org/wiki/鄭素熙 "wikilink")   | 閔社长    | 賭場老板              | [雷碧娜](../Page/雷碧娜.md "wikilink")       |
+| [娜亞](https://zh.wikipedia.org/wiki/:ko:나야 "wikilink") | 李秀晶    | 賭場財闊C World集團的小女兒 |                                        |
+| [白信](https://zh.wikipedia.org/wiki/白信 "wikilink")     | 國奉達    | 舍北當地的警察           | [劉昭文](../Page/劉昭文.md "wikilink")       |
+| [朴芝妍](../Page/朴芝妍.md "wikilink")                      | 成宥真    | 東宇的政治聯姻对象         | [陳皓宜](../Page/陳皓宜.md "wikilink")       |
+| [朴元淑](../Page/朴元淑.md "wikilink")                      | 許春熙    | 三兄弟的生母            | [袁淑珍](../Page/袁淑珍.md "wikilink")       |
+| [趙成賢](https://zh.wikipedia.org/wiki/趙成賢 "wikilink")   | 尹政宇    | 韓昌集團Lucky賭場理事     |                                        |
 
 ### 客串演出
 
@@ -131,7 +131,7 @@
 | ------------------------------------------------------- | ------ | ---------------- | --------------------------------------------------- |
 | **演員**                                                  | **角色** | width:50%|**介绍** | **粵語配音**                                            |
 | [金惠恩](../Page/金惠恩.md "wikilink")                        | 金女士    | 许英达的情人           | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") |
-| [朴相勉](../Page/朴相勉.md "wikilink")                        | －      | 金女士的丈夫，黑幫老大。     | [陳永信](../Page/陳永信.md "wikilink")                    |
+| [朴相勉](../Page/朴相勉.md "wikilink")                        | 金勇哲    | 金女士的丈夫，黑幫大哥      | [陳永信](../Page/陳永信.md "wikilink")                    |
 | [金光奎](../Page/金光奎.md "wikilink")                        | 李亨度    | 警察廳監察班的警察        | [朱子聰](../Page/朱子聰.md "wikilink")                    |
 | [秋成勳](https://zh.wikipedia.org/wiki/:ko:추성훈 "wikilink") | 渡邊     | 黑道打手             | [馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink") |
 | [Horan](https://zh.wikipedia.org/wiki/酷懶之味 "wikilink")  | －      | 爵士樂酒吧的歌手         |                                                     |

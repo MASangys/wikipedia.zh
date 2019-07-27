@@ -1,8 +1,8 @@
-**LPGA台灣錦標賽**（）是[LPGA巡迴賽的其中一場賽事](../Page/美國女子職業高爾夫協會.md "wikilink")，於在[台湾桃園縣楊梅鎮](https://zh.wikipedia.org/wiki/台湾 "wikilink")（後改制為桃園縣楊梅市，今[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")）[揚昇高爾夫鄉村俱樂部首次舉辦](../Page/揚昇高爾夫鄉村俱樂部.md "wikilink")，是第一項在台灣舉辦的LPGA賽事。賽事共72洞，90位選手參赛，全部選手打完72洞，不設晉級線。2011年至2013年由揚昇集團冠名贊助，於揚昇球場舉辦，2014年至2016年改由[富邦金控冠名贊助](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")，移師到[林口](https://zh.wikipedia.org/wiki/林口 "wikilink")[美麗華高爾夫鄉村俱樂部舉行](https://zh.wikipedia.org/wiki/美麗華高爾夫鄉村俱樂部 "wikilink")，2017年由裙襬搖搖高爾夫基金會冠名贊助。
+**LPGA台灣錦標賽**（）是[LPGA巡迴賽的其中一場賽事](../Page/美國女子職業高爾夫協會.md "wikilink")，於在[台湾桃園縣楊梅鎮](https://zh.wikipedia.org/wiki/台湾 "wikilink")（後改制為桃園縣楊梅市，今[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")）[揚昇高爾夫鄉村俱樂部](../Page/揚昇高爾夫鄉村俱樂部.md "wikilink")首次舉辦，是第一項在台灣舉辦的LPGA賽事。賽事共72洞，90位選手參赛，全部選手打完72洞，不設晉級線。2011年至2013年由揚昇集團冠名贊助，於揚昇球場舉辦，2014年至2016年改由[富邦金控冠名贊助](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")，移師到[林口](https://zh.wikipedia.org/wiki/林口 "wikilink")[美麗華高爾夫鄉村俱樂部舉行](https://zh.wikipedia.org/wiki/美麗華高爾夫鄉村俱樂部 "wikilink")，2017年由裙襬搖搖高爾夫基金會冠名贊助。
 
 ## 2014年富邦LPGA台灣錦標賽
 
-2014年台灣錦標賽歷經四天，最終由[朴仁妃以總桿為](../Page/朴仁妃.md "wikilink")-22桿的266桿，打破LPGA台灣錦標賽-19桿的最低總桿大會紀錄。世界排名第二的[史黛西·路易斯](../Page/史黛西·路易斯.md "wikilink")，則以總桿268桿屈居亞軍。[高寶璟在賽中擊出全場最佳的](../Page/高寶璟.md "wikilink")66桿，以總桿271桿排名第三。本屆賽事共有20位台灣女將參賽，創下歷來最多的紀錄。
+2014年台灣錦標賽歷經四天，最終由[朴仁妃](../Page/朴仁妃.md "wikilink")以總桿為-22桿的266桿，打破LPGA台灣錦標賽-19桿的最低總桿大會紀錄。世界排名第二的[史黛西·路易斯](../Page/史黛西·路易斯.md "wikilink")，則以總桿268桿屈居亞軍。[高寶璟](../Page/高寶璟.md "wikilink")在賽中擊出全場最佳的66桿，以總桿271桿排名第三。本屆賽事共有20位台灣女將參賽，創下歷來最多的紀錄。
 
 ## 2015年富邦LPGA台灣錦標賽
 

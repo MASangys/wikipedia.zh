@@ -1,8 +1,8 @@
-《**CANDY**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")30張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年9月23日發行。
+《**CANDY**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第30張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年9月23日發行。
 
 ## 概述
 
-  - [平井堅自](../Page/平井堅.md "wikilink")《即使離別》睽違一年五個月的單曲。
+  - [平井堅](../Page/平井堅.md "wikilink")自《即使離別》睽違一年五個月的單曲。
   - 收錄平井堅首次嘗試阿拉伯曲風樂曲《Furusa sai-da》。
 
 ## 收錄曲目

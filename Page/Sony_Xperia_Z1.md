@@ -1,5 +1,5 @@
 **Sony Xperia
-Z1**，是[索尼移动通信于](../Page/索尼移动通信.md "wikilink")2013年9月12日在[IFA](../Page/柏林國際廣播展.md "wikilink")2013开展前夕所发布的新旗舰级[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。
+Z1**，是[索尼移动通信](../Page/索尼移动通信.md "wikilink")于2013年9月12日在[IFA](../Page/柏林國際廣播展.md "wikilink")2013开展前夕所发布的新旗舰级[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。
 
 ## 简介
 

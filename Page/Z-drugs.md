@@ -3,9 +3,9 @@
 
 ## 歷史
 
-Z-drugs最早出現於1980和1990年間。1989年，[佐匹克隆被](../Page/佐匹克隆.md "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[NHS核准](https://zh.wikipedia.org/wiki/NHS "wikilink")，並以「憶夢返」（Imovane）作為商品名稱上市；臨接著[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[賽諾菲藥廠開發的](https://zh.wikipedia.org/wiki/賽諾菲 "wikilink")[唑吡坦也以](../Page/唑吡坦.md "wikilink")「使蒂諾斯/思诺思」（Stilnox）作為商品名稱上市。1999年制作的扎來普隆被[FDA同意可以銷售到市面](https://zh.wikipedia.org/wiki/FDA "wikilink")；2005年FDA同意[右佐匹克隆的使用](https://zh.wikipedia.org/wiki/右佐匹克隆 "wikilink")；2012年FDA核准「間奏曲」（Intermezzo），而該藥係使用较低剂量[唑吡坦作為其主要配方](../Page/唑吡坦.md "wikilink")，用于夜间睡眠中断而难以继续入睡的情况。
+Z-drugs最早出現於1980和1990年間。1989年，[佐匹克隆](../Page/佐匹克隆.md "wikilink")被[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[NHS核准](https://zh.wikipedia.org/wiki/NHS "wikilink")，並以「憶夢返」（Imovane）作為商品名稱上市；臨接著[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[賽諾菲藥廠開發的](https://zh.wikipedia.org/wiki/賽諾菲 "wikilink")[唑吡坦](../Page/唑吡坦.md "wikilink")也以「使蒂諾斯/思诺思」（Stilnox）作為商品名稱上市。1999年制作的扎來普隆被[FDA同意可以銷售到市面](https://zh.wikipedia.org/wiki/FDA "wikilink")；2005年FDA同意[右佐匹克隆的使用](https://zh.wikipedia.org/wiki/右佐匹克隆 "wikilink")；2012年FDA核准「間奏曲」（Intermezzo），而該藥係使用较低剂量[唑吡坦](../Page/唑吡坦.md "wikilink")作為其主要配方，用于夜间睡眠中断而难以继续入睡的情况。
 
-值得注意的是，美国FDA没有批准[佐匹克隆和](../Page/佐匹克隆.md "wikilink")[右佐匹克隆作为药品上市](https://zh.wikipedia.org/wiki/右佐匹克隆 "wikilink")。
+值得注意的是，美国FDA没有批准[佐匹克隆](../Page/佐匹克隆.md "wikilink")和[右佐匹克隆作为药品上市](https://zh.wikipedia.org/wiki/右佐匹克隆 "wikilink")。
 
 ## 參考文獻
 

@@ -1,4 +1,4 @@
-《**RAIN**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY的第一張](../Page/GLAY.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，同時以這張單曲正式出道。銷售量超過10萬張。
+《**RAIN**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY](../Page/GLAY.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，同時以這張單曲正式出道。銷售量超過10萬張。
 
 ## 簡介
 

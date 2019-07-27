@@ -1,11 +1,11 @@
 《**Keeva
-Mak**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[麥家瑜的首張同名大碟](../Page/麥家瑜.md "wikilink")，於2009年10月23日推出。\[1\]
+Mak**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[麥家瑜](../Page/麥家瑜.md "wikilink")的首張同名大碟，於2009年10月23日推出。\[1\]
 
 ## 專輯簡介
 
 專輯共收錄10首歌曲及3個[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（MV），並找來[林夕](../Page/林夕.md "wikilink")、[C.Y.Kong](https://zh.wikipedia.org/wiki/C.Y.Kong "wikilink")、[黃貫中](../Page/黃貫中.md "wikilink")、[Christopher
 Chak](https://zh.wikipedia.org/wiki/Christopher_Chak "wikilink")、[Gary
-Tong](https://zh.wikipedia.org/wiki/Gary_Tong "wikilink")、[梁榮駿等著名音樂人助陣](../Page/梁榮駿.md "wikilink")，製作了《吃不消》、《火滾》、《不方便的真相》、《不加塑》、《殺死我的溫柔》等多樣的曲風，而當中《殺死我的溫柔》一曲更深受樂迷歡迎。
+Tong](https://zh.wikipedia.org/wiki/Gary_Tong "wikilink")、[梁榮駿](../Page/梁榮駿.md "wikilink")等著名音樂人助陣，製作了《吃不消》、《火滾》、《不方便的真相》、《不加塑》、《殺死我的溫柔》等多樣的曲風，而當中《殺死我的溫柔》一曲更深受樂迷歡迎。
 
 ## 曲目
 

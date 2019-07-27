@@ -1,5 +1,5 @@
 **Moravanka**，又稱**Moravanka Jana
-Slabáka**(意即「揚‧斯萊博克的Moravanka」)，是一個[捷克的管樂樂團](../Page/捷克.md "wikilink")，它由揚‧斯萊博克(Jan
+Slabáka**(意即「揚‧斯萊博克的Moravanka」)，是一個[捷克](../Page/捷克.md "wikilink")的管樂樂團，它由揚‧斯萊博克(Jan
 Slabák，1941年3月24日生於Kelčany)於1971年(或1972年)創立。它演奏的內容很多都源自摩拉維亞地區，尤其是（）一帶的民俗傳統音樂。
 
 ## 唱片目錄

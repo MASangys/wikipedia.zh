@@ -1,7 +1,7 @@
 [Rincgk_01.jpg](https://zh.wikipedia.org/wiki/File:Rincgk_01.jpg "fig:Rincgk_01.jpg")
 **[D小調](https://zh.wikipedia.org/wiki/D小調 "wikilink")[托卡塔與](https://zh.wikipedia.org/wiki/托卡塔 "wikilink")[賦格](https://zh.wikipedia.org/wiki/賦格 "wikilink"),
 [BWV](https://zh.wikipedia.org/wiki/BWV "wikilink")
-565**為[巴赫著名的作品](https://zh.wikipedia.org/wiki/巴赫 "wikilink")，同時也是[風琴作品中最傑出的作品之一](../Page/風琴.md "wikilink")。但自1980年代起有學者質疑此曲是否由巴赫本人所作。此曲亦有多個改編版本，如法國號\[1\]、鋼琴、交響樂、弦樂四重奏等，也出現於各流行媒體中，包括[迪士尼的](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[幻想曲](https://zh.wikipedia.org/wiki/幻想曲_\(電影\) "wikilink")。
+565**為[巴赫著名的作品](https://zh.wikipedia.org/wiki/巴赫 "wikilink")，同時也是[風琴](../Page/風琴.md "wikilink")作品中最傑出的作品之一。但自1980年代起有學者質疑此曲是否由巴赫本人所作。此曲亦有多個改編版本，如法國號\[1\]、鋼琴、交響樂、弦樂四重奏等，也出現於各流行媒體中，包括[迪士尼的](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[幻想曲](https://zh.wikipedia.org/wiki/幻想曲_\(電影\) "wikilink")。
 
 ## 分析
 
@@ -37,7 +37,7 @@ Ringk手抄本雖無標註日期，但為歷史最悠久的版本。Ringk除了�
 
 以上理論被其他學者加以推演，他們認為作者最早應在18世紀初出生，在1730年代後（甚或1750年代後）才作此曲，令此曲的風格能得以解釋\[6\]。學者大衛·韓福瑞提出作者可能是[約翰·彼得·克爾納](https://zh.wikipedia.org/wiki/約翰·彼得·克爾納 "wikilink")\[7\]，他與巴赫家關係密切。
 
-1981年的文章中彼得·威廉提出另一個可能性，此曲改編自一首沒有留存至今的[小提琴作品](../Page/小提琴.md "wikilink")，這可解釋作者為何沒為樂曲加入適合風琴演奏的和音。現今已知巴赫為兩首小提琴獨奏曲編風琴作品，如[G小調第一奏鳴曲和E大調第三組曲](https://zh.wikipedia.org/wiki/無伴奏小提琴奏鳴曲與組曲 "wikilink")。彼得·威廉嘗試用此曲還原成小提琴曲，並加以出版和舉行演奏\[8\]
+1981年的文章中彼得·威廉提出另一個可能性，此曲改編自一首沒有留存至今的[小提琴](../Page/小提琴.md "wikilink")作品，這可解釋作者為何沒為樂曲加入適合風琴演奏的和音。現今已知巴赫為兩首小提琴獨奏曲編風琴作品，如[G小調第一奏鳴曲和E大調第三組曲](https://zh.wikipedia.org/wiki/無伴奏小提琴奏鳴曲與組曲 "wikilink")。彼得·威廉嘗試用此曲還原成小提琴曲，並加以出版和舉行演奏\[8\]
 （[彼得·威廉（A小調）小提琴曲的開首部分](https://web.archive.org/web/20141013133206/http://upload.wikimedia.org/wikipedia/en/9/99/BachToccataAndFugueInDMinorOpeningViolinVersion.GIF)與[賦格部分](http://upload.wikimedia.org/wikipedia/en/1/12/BachToccataAndFugueInDMinorRecastAsViolinMusic.PNG)）。
 此外也有其他人此曲還原成小提琴曲\[9\]，亦有人認為此曲編自五弦大提琴作品\[10\]。其他學者也曾作出詳細的研究，但現在仍未有一致的結論。
 

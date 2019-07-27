@@ -4,7 +4,7 @@ Soft共同合作研發的2D橫向線上闖關遊戲。是為了紀念原創漫�
 
 ## 歷史
 
-  - 2013年1月16日，台灣由[遊戲橘子正式宣布代理](../Page/遊戲橘子.md "wikilink")**《蠟筆小新Online》**\[2\]。
+  - 2013年1月16日，台灣由[遊戲橘子](../Page/遊戲橘子.md "wikilink")正式宣布代理**《蠟筆小新Online》**\[2\]。
   - 2013年6月14日～6月16日，第一波[封測](https://zh.wikipedia.org/wiki/封測 "wikilink")。開放角色**[櫻田妮妮](https://zh.wikipedia.org/wiki/櫻田妮妮 "wikilink")**，角色等級上限為15級。
   - 2013年7月19日～7月21日，第二波封測。新增角色**[風間徹](https://zh.wikipedia.org/wiki/風間徹 "wikilink")**，其餘內容與第一波封測相同。
   - 2013年8月15日下午2點，遊戲橘子正式展開[公測](https://zh.wikipedia.org/wiki/公測 "wikilink")。新增角色**[野原新之助](../Page/野原新之助.md "wikilink")**，開放動感執照（角色轉職）、特殊副本〈動感挑戰中心〉以及冒險副本和角色等級上限至30級\[3\]。

@@ -1,5 +1,5 @@
 《**Young
-Ace**》（）是創刊於2009年的[日本月刊](../Page/日本.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，[角川書店出版](../Page/角川書店.md "wikilink")。
+Ace**》（）是創刊於2009年的[日本](../Page/日本.md "wikilink")月刊[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，[角川書店](../Page/角川書店.md "wikilink")出版。
 
 ## 部份連載漫畫
 

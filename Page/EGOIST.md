@@ -1,4 +1,4 @@
-**EGOIST**是一個[日本的雙人音樂團體](../Page/日本.md "wikilink")，由[Supercell的詞曲作家Ryo和演唱者Chelly組成](https://zh.wikipedia.org/wiki/Supercell "wikilink")。最初是為了製作2011年的電視動畫罪惡王冠的主題曲而組成，後來又製作了其他動畫的主題曲，包括了[心靈判官和](https://zh.wikipedia.org/wiki/心靈判官 "wikilink")[甲鐵城的卡巴內里的主題曲](../Page/甲鐵城的卡巴內里.md "wikilink")。
+**EGOIST**是一個[日本](../Page/日本.md "wikilink")的雙人音樂團體，由[Supercell的詞曲作家Ryo和演唱者Chelly組成](https://zh.wikipedia.org/wiki/Supercell "wikilink")。最初是為了製作2011年的電視動畫罪惡王冠的主題曲而組成，後來又製作了其他動畫的主題曲，包括了[心靈判官和](https://zh.wikipedia.org/wiki/心靈判官 "wikilink")[甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")的主題曲。
 
 ## 概要
 
@@ -44,7 +44,7 @@ EGOIST形象角色即為《罪惡王冠》的女主角楪祈，這點可以從�
 
 ### 單曲
 
-| 編號    | 發售日         | 標題                                                                                       | 規格編號        | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| 編號    | 發售日         | 標題                                                                                       | 規格編號        | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | ----- | ----------- | ---------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ |
 | 初回限定盤 | 通常盤         | 期間生產限定盤/動畫盤                                                                              |             |                                            |
 | 1st   | 2011年11月30日 | ****                                                                                     | SVWC-7796   | SVWC-7798                                  |
@@ -73,7 +73,7 @@ EGOIST形象角色即為《罪惡王冠》的女主角楪祈，這點可以從�
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名</p></th>
 </tr>
 </thead>
 <tbody>
@@ -146,7 +146,7 @@ VVCL-1153/4（B）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Planetes</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PC遊戲" title="wikilink">PC遊戲</a>《<a href="../Page/罪惡王冠.md" title="wikilink">罪惡王冠：失落的聖誕</a>》同梱OVA《罪惡王冠》主題歌</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PC遊戲" title="wikilink">PC遊戲</a>《<a href="../Page/罪惡王冠.md" title="wikilink">罪惡王冠</a>：失落的聖誕》同梱OVA《罪惡王冠》主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Fallen</p></td>

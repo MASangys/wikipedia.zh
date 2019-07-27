@@ -1,4 +1,4 @@
-《**MAGIC**》是日本摇滚组合[B'z的的第十七张录音室专辑](../Page/B'z.md "wikilink")。2009年11月18日由[VERMILLION
+《**MAGIC**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十七张录音室专辑。2009年11月18日由[VERMILLION
 RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約48.8萬張。
@@ -36,19 +36,19 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon每日专辑排行榜</a>[2]</p></td>
+<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>每日专辑排行榜[2]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon每周专辑排行榜</a>[3]</p></td>
+<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>每周专辑排行榜[3]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon每月专辑排行榜</a></p></td>
+<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>每月专辑排行榜</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon年度专辑排行榜</a></p></td>
+<td><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>年度专辑排行榜</p></td>
 <td><p>13</p></td>
 </tr>
 </tbody>

@@ -6,7 +6,7 @@ Visual （Part 2）、[IEEE
 1394](../Page/IEEE_1394.md "wikilink")、[VC-1](../Page/VC-1.md "wikilink")、[ATSC](../Page/ATSC.md "wikilink")、、[MPEG2-TS](../Page/MPEG2-TS.md "wikilink")、[AVC/H.264以及](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")[HEVC等等](https://zh.wikipedia.org/wiki/HEVC "wikilink")。MPEG
 LA也提供了[無線網狀網路技術的專利授權](https://zh.wikipedia.org/wiki/無線網狀網路 "wikilink")。
 
-MPEG LA與[MPEG組織](../Page/MPEG.md "wikilink")（Moving Picture Experts
+MPEG LA與[MPEG](../Page/MPEG.md "wikilink")組織（Moving Picture Experts
 Group）並無直接的關聯。
 
 ## 歷史
@@ -14,9 +14,9 @@ Group）並無直接的關聯。
 MPEG
 LA是在收到[美國司法部企業審查信函](https://zh.wikipedia.org/wiki/美國司法部 "wikilink")（Business
 Review
-Letter）後，與1997年7月開始營運\[4\]。在[MPEG-2標準制定的期間](../Page/MPEG-2.md "wikilink")，一群參與制定的公司了解到MPEG-2標準要被採用的最大困難，來自於基礎專利是被許多專利擁有者所持有。最終八個MPEG-2專利的擁有者
+Letter）後，與1997年7月開始營運\[4\]。在[MPEG-2](../Page/MPEG-2.md "wikilink")標準制定的期間，一群參與制定的公司了解到MPEG-2標準要被採用的最大困難，來自於基礎專利是被許多專利擁有者所持有。最終八個MPEG-2專利的擁有者
 --
-[富士通](../Page/富士通.md "wikilink")、[松下電器](../Page/松下電器.md "wikilink")、[索尼](../Page/索尼.md "wikilink")、[三菱集團](https://zh.wikipedia.org/wiki/三菱集團 "wikilink")、、[哥倫比亞大學](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")、[飛利浦以及](../Page/飛利浦.md "wikilink")[通用儀器](../Page/通用儀器.md "wikilink")
+[富士通](../Page/富士通.md "wikilink")、[松下電器](../Page/松下電器.md "wikilink")、[索尼](../Page/索尼.md "wikilink")、[三菱集團](https://zh.wikipedia.org/wiki/三菱集團 "wikilink")、、[哥倫比亞大學](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")、[飛利浦](../Page/飛利浦.md "wikilink")以及[通用儀器](../Page/通用儀器.md "wikilink")
 -- 再加上和一些個體戶，一同成立了MPEG LA並接著創立了第一個現行的專利池解決方案。
 
 在2012年6月，MPEG LA發表了[High Efficiency Video

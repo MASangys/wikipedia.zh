@@ -10,7 +10,7 @@
 
 ### 2011年：首張單曲《Ma Boy》
 
-[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR推出子團體SISTAR](../Page/SISTAR.md "wikilink")19。由富有力量嗓音的[孝琳和強悍饒舌技巧的](../Page/孝琳.md "wikilink")[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。4月28日，公開數碼單曲《Ma
+[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")推出子團體SISTAR19。由富有力量嗓音的[孝琳](../Page/孝琳.md "wikilink")和強悍饒舌技巧的[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。4月28日，公開數碼單曲《Ma
 Boy》MV預告。5月3日，公開數碼單曲《Ma Boy》完整版MV，發行 "Ma Boy"
 並且投入活動。5月5日，SISTAR19在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma
@@ -26,7 +26,7 @@ Not Around Any Longer》，並在Mnet《M\! Countdown》進行回歸舞台，表
 
 ### 2017年：随着SISTAR解散
 
-6月3日，随着[SISTAR的解散](../Page/SISTAR.md "wikilink")，子團體也跟着解散。
+6月3日，随着[SISTAR](../Page/SISTAR.md "wikilink")的解散，子團體也跟着解散。
 
 ## 成員資料
 

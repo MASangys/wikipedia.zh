@@ -1,5 +1,5 @@
 **Yavuz
-16手槍**是以[貝瑞塔92F衍生而成的](../Page/貝瑞塔92手槍.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")，由[土耳其的MKEK製造](../Page/土耳其.md "wikilink")。
+16手槍**是以[貝瑞塔92F衍生而成的](../Page/貝瑞塔92手槍.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")，由[土耳其](../Page/土耳其.md "wikilink")的MKEK製造。
 
 ## 使用國
 

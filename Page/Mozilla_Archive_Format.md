@@ -1,7 +1,7 @@
-**Mozilla 档-{}-案格式**（，又称）是由[Firefox扩展提供的网页封存盘案](../Page/Firefox.md "wikilink")。\[1\]用于将一个或多个网页及其中的音频、视频及其他可用资源封存为单一文档。\[2\]
-不同于[MHTML在HTML文件内部使用](../Page/MHTML.md "wikilink")[MIME编码](https://zh.wikipedia.org/wiki/MIME "wikilink")，MAFF通过生成[ZIP文件的方式封存网页](../Page/ZIP格式.md "wikilink")。\[3\]
+**Mozilla 档-{}-案格式**（，又称）是由[Firefox](../Page/Firefox.md "wikilink")扩展提供的网页封存盘案。\[1\]用于将一个或多个网页及其中的音频、视频及其他可用资源封存为单一文档。\[2\]
+不同于[MHTML](../Page/MHTML.md "wikilink")在HTML文件内部使用[MIME编码](https://zh.wikipedia.org/wiki/MIME "wikilink")，MAFF通过生成[ZIP文件的方式封存网页](../Page/ZIP格式.md "wikilink")。\[3\]
 
-该扩展不能在新版Firefox中工作。作者声称不再添加未来的支持。\[4\]但在[Waterfox中仍然得到支持](../Page/Waterfox.md "wikilink")。瀏覽器扩展“网页剪贴簿”及搭配的PyWebScrapBook輔助程式可支援儲存及開啟MAFF檔案，適用於Firefox
+该扩展不能在新版Firefox中工作。作者声称不再添加未来的支持。\[4\]但在[Waterfox](../Page/Waterfox.md "wikilink")中仍然得到支持。瀏覽器扩展“网页剪贴簿”及搭配的PyWebScrapBook輔助程式可支援儲存及開啟MAFF檔案，適用於Firefox
 57以後版本及Chromium系瀏覽器。\[5\]\[6\]由原扩展复刻而来的[Pale
 Moon扩展](https://zh.wikipedia.org/wiki/Pale_Moon "wikilink")“MozArchiver”为Pale
 Moon 26.0及更新版本添加MAFF支持。\[7\]

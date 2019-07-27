@@ -1,5 +1,5 @@
 《**Lemon
-Tree**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[蘇慧倫的第十一張大碟](../Page/蘇慧倫.md "wikilink")，在1996年5月23日推出。專輯第一主打歌是專輯同名歌曲《Lemon
+Tree**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[蘇慧倫](../Page/蘇慧倫.md "wikilink")的第十一張大碟，在1996年5月23日推出。專輯第一主打歌是專輯同名歌曲《Lemon
 Tree》，這歌曲令她火速走紅，更使這專輯在台灣銷量達到70萬張。
 
 ## 曲目

@@ -1,4 +1,4 @@
-是[任天堂於](../Page/任天堂.md "wikilink")2010年12月2日，在[攜帶型電子遊戲機](https://zh.wikipedia.org/wiki/攜帶型電子遊戲機 "wikilink")[任天堂DS上發售的動作](../Page/任天堂DS.md "wikilink")[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")。本作由位于美国的[任天堂软件技术开发部开发](https://zh.wikipedia.org/wiki/任天堂软件技术开发部 "wikilink")，首次公开于2010年的E3游戏电玩展上。\[1\]
+是[任天堂](../Page/任天堂.md "wikilink")於2010年12月2日，在[攜帶型電子遊戲機](https://zh.wikipedia.org/wiki/攜帶型電子遊戲機 "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")上發售的動作[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")。本作由位于美国的[任天堂软件技术开发部开发](https://zh.wikipedia.org/wiki/任天堂软件技术开发部 "wikilink")，首次公开于2010年的E3游戏电玩展上。\[1\]
 
 ## 故事概要
 

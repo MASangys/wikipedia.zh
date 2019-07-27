@@ -1,4 +1,4 @@
-《**Uncontrolled**》（勢不可擋）是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠第十張](../Page/安室奈美惠.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。於2012年6月27日發行。
+《**Uncontrolled**》（勢不可擋）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")第十張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。於2012年6月27日發行。
 
 ## 簡介
 
@@ -9,17 +9,17 @@
     Stay\! Wait\! Down\!／Love
     Story](https://zh.wikipedia.org/wiki/Sit!_Stay!_Wait!_Down!/Love_Story "wikilink")》、《[Go
     Round／YEAH-OH](https://zh.wikipedia.org/wiki/Go_Round/YEAH-OH "wikilink")》9首單曲及4首新曲共13曲\[2\]，被認為是宛如精選集的原創專輯。
-  - DVD與Blu-ray同時收錄單曲7首及新曲4首的[音樂錄像帶](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")。
+  - DVD與Blu-ray同時收錄單曲7首及新曲4首pv。
   - 專輯最大特色是其中五首曲是全英語單曲，其中先行單曲 Go Round 及 YEAH-OH 亦被改編成英語版本收錄。
   - 封面以日環食為主題\[3\]，其巨型宣傳海報日前於新宿JR車站的露天廣場曝光。而網上亦誤傳安室會現身，導致現場一度聚集過千人\[4\]\[5\]。
   - 專輯發售前夕，安室展開亞洲宣傳之旅，到台灣、香港、新加坡等多個地方宣傳紀念出道二十週年。
-  - 初動以29萬登上週榜冠軍，繼[松任谷由實](../Page/松任谷由實.md "wikilink")、[濱崎步等後成為第六名歌手連續於三個年代獲得原創專輯冠軍](../Page/濱崎步.md "wikilink")\[6\]。公信榜最終銷量約為54萬張。
-  - 連續三週獲得銷量榜冠軍，自2006年[倖田來未的](../Page/倖田來未.md "wikilink")《[Black
+  - 初動以29萬登上週榜冠軍，繼[松任谷由實](../Page/松任谷由實.md "wikilink")、[濱崎步](../Page/濱崎步.md "wikilink")等後成為第六名歌手連續於三個年代獲得原創專輯冠軍\[6\]。公信榜最終銷量約為54萬張。
+  - 連續三週獲得銷量榜冠軍，自2006年[倖田來未](../Page/倖田來未.md "wikilink")的《[Black
     Cherry](../Page/Black_Cherry_\(倖田來未專輯\).md "wikilink")》五年半以來再有女性原創專輯獲得此紀錄。
   - 為慶祝出道二十周年，avex
     trax於9月16日發售安室過往專輯、DVD與Blu-ray影音作品的慶價盤。於9月16日至12月25日期間，購買其中任何兩張（包括沒有發售廉價盤的本作）作品，便能獲得特典歌曲《Hot
     Girls -SMIDI CLUB REMIX-》\[7\]。
-  - 9月25日至12月25日於[RecoChoku提供](../Page/RecoChoku.md "wikilink")《Uncontrolled
+  - 9月25日至12月25日於[RecoChoku](../Page/RecoChoku.md "wikilink")提供《Uncontrolled
     + Hot Girls -SMIDI CLUB REMIX-》合法下載。而《Hot Girls -SMIDI CLUB
     REMIX-》並不提供單曲發售，只能作為專輯特典購買\[8\]。
   - 11月24日發行CD+Blu-ray類型。當初預定於12月18日發售，但其後改為於五大巨蛋演唱會《Namie Amuro 5大巨蛋
@@ -34,7 +34,7 @@
   - **DISC1：CD**
       - 全13曲收錄
   - **DISC2：DVD**
-      - [音樂錄像帶全](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")11曲收錄
+      - 全11曲PV收錄
   - 預購特典：B2尺寸海報（全3種類）。
 
 ### CD ONLY
@@ -54,7 +54,7 @@
   - **DISC1：CD**
       - 全13曲+《Non-Stop Special Remix》特典曲收錄
   - **DISC2：Blu-ray**
-      - 音樂錄像帶全11曲收錄
+      - 全11曲PV收錄
 
 ### PLAYBUTTON（[羅森限定ver](../Page/羅森_\(便利店\).md "wikilink").）（限定生産盤）
 

@@ -1,5 +1,5 @@
 [185_142_Luetzel_03042010.JPG](https://zh.wikipedia.org/wiki/File:185_142_Luetzel_03042010.JPG "fig:185_142_Luetzel_03042010.JPG")
-**庞巴迪TRAXX**，其注册商标全称为**高灵活性的跨国铁路应用机车平台**（）\[1\]，是一个由[庞巴迪运输为中型货运及客运](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[铁路运输所制造的](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")[模块化系列](https://zh.wikipedia.org/wiki/模块 "wikilink")[机车的统称](../Page/鐵路機車.md "wikilink")。其首个版本是2000年面世的为[德国铁路](../Page/德国铁路.md "wikilink")（DB）制造的双[电压制式](https://zh.wikipedia.org/wiki/电压 "wikilink")[交流电机车](https://zh.wikipedia.org/wiki/交流电 "wikilink")。随后又开发了可运行于[欧洲大多数](../Page/欧洲.md "wikilink")[电气化铁路的](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")[直流电制式和四电压制式](https://zh.wikipedia.org/wiki/直流电 "wikilink")，以及自2006年起扩展至[柴油动力制式的版本](../Page/柴油.md "wikilink")。该系列所有机型共有的元素包括[钢制车身外壳](../Page/钢.md "wikilink")、双动力轴双[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")、[三相异步](https://zh.wikipedia.org/wiki/三相 "wikilink")[感应电动机](https://zh.wikipedia.org/wiki/感应电动机 "wikilink")、集成于车顶边缘的[冷却排气装置以及轮盘式制动器](https://zh.wikipedia.org/wiki/冷却 "wikilink")。如今已有超过1230台TRAXX家族的机车在各大欧洲[铁路运营商中运营或订购](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")，其中仅TRAXX2和TRAXX2E系列就有719台。其所有系列均提供满足跨境交通需求的多系统机车。
+**庞巴迪TRAXX**，其注册商标全称为**高灵活性的跨国铁路应用机车平台**（）\[1\]，是一个由[庞巴迪运输为中型货运及客运](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[铁路运输所制造的](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")[模块化系列](https://zh.wikipedia.org/wiki/模块 "wikilink")[机车的统称](../Page/鐵路機車.md "wikilink")。其首个版本是2000年面世的为[德国铁路](../Page/德国铁路.md "wikilink")（DB）制造的双[电压制式](https://zh.wikipedia.org/wiki/电压 "wikilink")[交流电机车](https://zh.wikipedia.org/wiki/交流电 "wikilink")。随后又开发了可运行于[欧洲](../Page/欧洲.md "wikilink")大多数[电气化铁路的](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")[直流电制式和四电压制式](https://zh.wikipedia.org/wiki/直流电 "wikilink")，以及自2006年起扩展至[柴油](../Page/柴油.md "wikilink")动力制式的版本。该系列所有机型共有的元素包括[钢](../Page/钢.md "wikilink")制车身外壳、双动力轴双[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")、[三相异步](https://zh.wikipedia.org/wiki/三相 "wikilink")[感应电动机](https://zh.wikipedia.org/wiki/感应电动机 "wikilink")、集成于车顶边缘的[冷却排气装置以及轮盘式制动器](https://zh.wikipedia.org/wiki/冷却 "wikilink")。如今已有超过1230台TRAXX家族的机车在各大欧洲[铁路运营商中运营或订购](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")，其中仅TRAXX2和TRAXX2E系列就有719台。其所有系列均提供满足跨境交通需求的多系统机车。
 
 截至2012年8月，庞巴迪运输已交付超过1550台该系列的客运及货运机车，其主要用户为[德国](../Page/德国.md "wikilink")，并在欧洲16个国家中运用\[2\]。
 
@@ -145,16 +145,16 @@ TRAXX F140 AC2</p></td>
 
 ### AEG12X / 128型
 
-[20世纪90年代初](https://zh.wikipedia.org/wiki/20世纪90年代 "wikilink")，在[西德标准化机车计划中的大部分](../Page/西德.md "wikilink")[电力机车都接近了使用年限](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，[德国联邦铁路开始寻求以一种全新的通用机型来取代这些老化的电力机车](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")。在过去的10年中，其推出了其首台带有三相[异步电动机和双动力轴双转向架的客货两用机车](../Page/异步电动机.md "wikilink")[120型](https://zh.wikipedia.org/wiki/德国铁路120型电力机车 "wikilink")，并获得广泛使用。1991年，德国联邦铁路发放了超过1000台客货两用机车的订购标书\[4\]，要求研发在120型的基础上改良设计并增加功率的121型。然而在1992年10月，受到高昂的价格及政治局势的转变所影响\[5\]，德国联邦铁路取消了招标\[6\]。1994年，德国联邦铁路合并了原[德国国营铁路](../Page/德国国营铁路.md "wikilink")，创立了德国铁路，并接收了超过600台现代化的[东德](https://zh.wikipedia.org/wiki/东德 "wikilink")[243型机车](https://zh.wikipedia.org/wiki/德国铁路143型电力机车 "wikilink")。此外合并与铁路改革同步，德国铁路的机车车辆被分别划分入区域运输（）、长途运输（）和货物运输（）的部门，这使得通用型机车的计划不再适用\[7\]。从1993年下半年开始，德国铁路的各业务部门开始为根据其自身特定需求而定制的电力机车招标\[8\]\[9\]。
+[20世纪90年代初](https://zh.wikipedia.org/wiki/20世纪90年代 "wikilink")，在[西德](../Page/西德.md "wikilink")标准化机车计划中的大部分[电力机车都接近了使用年限](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，[德国联邦铁路开始寻求以一种全新的通用机型来取代这些老化的电力机车](https://zh.wikipedia.org/wiki/德国联邦铁路 "wikilink")。在过去的10年中，其推出了其首台带有三相[异步电动机](../Page/异步电动机.md "wikilink")和双动力轴双转向架的客货两用机车[120型](https://zh.wikipedia.org/wiki/德国铁路120型电力机车 "wikilink")，并获得广泛使用。1991年，德国联邦铁路发放了超过1000台客货两用机车的订购标书\[4\]，要求研发在120型的基础上改良设计并增加功率的121型。然而在1992年10月，受到高昂的价格及政治局势的转变所影响\[5\]，德国联邦铁路取消了招标\[6\]。1994年，德国联邦铁路合并了原[德国国营铁路](../Page/德国国营铁路.md "wikilink")，创立了德国铁路，并接收了超过600台现代化的[东德](https://zh.wikipedia.org/wiki/东德 "wikilink")[243型机车](https://zh.wikipedia.org/wiki/德国铁路143型电力机车 "wikilink")。此外合并与铁路改革同步，德国铁路的机车车辆被分别划分入区域运输（）、长途运输（）和货物运输（）的部门，这使得通用型机车的计划不再适用\[7\]。从1993年下半年开始，德国铁路的各业务部门开始为根据其自身特定需求而定制的电力机车招标\[8\]\[9\]。
 
-研发121型电力机车的竞争对手包括两家庞巴迪运输的前身公司：当时仍由[戴姆勒-奔驰控股的德国机车制造商](https://zh.wikipedia.org/wiki/戴姆勒-奔驰 "wikilink")[AEG轨道车辆](https://zh.wikipedia.org/wiki/AEG "wikilink")（），以及[ABB在德国的制造分公司ABB亨舍爾](../Page/ABB.md "wikilink")（）。AEG跟进他们的开发力度，新造了一个实验性的通用型样车，称为[12X型](https://zh.wikipedia.org/wiki/AEG12X型电力机车 "wikilink")，这一机型被视为TRAXX系列的前身\[10\]\[11\]。12X型于1994年6月面世\[12\]，虽然为AEG所拥有，但也被德国铁路命名为128型。与120型相比，12X型拥有多项独具特色的创新技术\[13\]，包括基于[可關斷晶閘管](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")（GTO）的水冷式[逆变器](https://zh.wikipedia.org/wiki/逆变器 "wikilink")、枢轴轴承位于两侧的全新主减速器理念以及短轴距为2600毫米的新转向架理念\[14\]\[15\]。机车也有模块化设计，允许因应不同的操作需求而衍生出不同的版本\[16\]，并因此而形成了AEG平台，与德国铁路的新车订单参与竞争\[17\]\[18\]。同时，ABB也开发出了自己设计的模块化电力机车平台：Eco2000\[19\]。ABB的理念包括一个轴距为2650毫米带有灵活浮动（）高速转向架的家族版本，以及[生物降解的可關斷晶閘管](https://zh.wikipedia.org/wiki/生物降解 "wikilink")[酯冷式逆变器和同样采用酯冷却的主](../Page/酯.md "wikilink")[变压器](../Page/变压器.md "wikilink")\[20\]，它被认为是第一代TRAXX机车中逆变器和变压器的起源。
+研发121型电力机车的竞争对手包括两家庞巴迪运输的前身公司：当时仍由[戴姆勒-奔驰控股的德国机车制造商](https://zh.wikipedia.org/wiki/戴姆勒-奔驰 "wikilink")[AEG轨道车辆](https://zh.wikipedia.org/wiki/AEG "wikilink")（），以及[ABB](../Page/ABB.md "wikilink")在德国的制造分公司ABB亨舍爾（）。AEG跟进他们的开发力度，新造了一个实验性的通用型样车，称为[12X型](https://zh.wikipedia.org/wiki/AEG12X型电力机车 "wikilink")，这一机型被视为TRAXX系列的前身\[10\]\[11\]。12X型于1994年6月面世\[12\]，虽然为AEG所拥有，但也被德国铁路命名为128型。与120型相比，12X型拥有多项独具特色的创新技术\[13\]，包括基于[可關斷晶閘管](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")（GTO）的水冷式[逆变器](https://zh.wikipedia.org/wiki/逆变器 "wikilink")、枢轴轴承位于两侧的全新主减速器理念以及短轴距为2600毫米的新转向架理念\[14\]\[15\]。机车也有模块化设计，允许因应不同的操作需求而衍生出不同的版本\[16\]，并因此而形成了AEG平台，与德国铁路的新车订单参与竞争\[17\]\[18\]。同时，ABB也开发出了自己设计的模块化电力机车平台：Eco2000\[19\]。ABB的理念包括一个轴距为2650毫米带有灵活浮动（）高速转向架的家族版本，以及[生物降解的可關斷晶閘管](https://zh.wikipedia.org/wiki/生物降解 "wikilink")[酯](../Page/酯.md "wikilink")冷式逆变器和同样采用酯冷却的主[变压器](../Page/变压器.md "wikilink")\[20\]，它被认为是第一代TRAXX机车中逆变器和变压器的起源。
 
 12X型后来被用作新技术的测试平台，于1997年成为全球首台应用[絕緣閘雙極電晶體](https://zh.wikipedia.org/wiki/IGBT "wikilink")（IGBT）变频器的机车\[21\]\[22\]，并自1998年起开始测试MITRAC牵引力控制系统的电子器件\[23\]。这两种技术在后来都被应用于TRAXX系列机车。
 
 ### 145型
 
 [2010-12-19-angermuende-by-RalfR-03.jpg](https://zh.wikipedia.org/wiki/File:2010-12-19-angermuende-by-RalfR-03.jpg "fig:2010-12-19-angermuende-by-RalfR-03.jpg")\]\]
-1994年11月，德国铁路为其电力机车的新订单分别选择了ABB和AEG：其中ABB为负责长途客运业务领域的[德铁长途运输提供](../Page/德铁长途运输.md "wikilink")145台[101型机车](../Page/德国铁路101型电力机车.md "wikilink")；而AEG则为负责货运业务的[德铁货物运输](https://zh.wikipedia.org/wiki/德铁货物运输 "wikilink")（[德铁信可铁路的前身](../Page/德铁信可铁路.md "wikilink")）提供80台145型货运机车\[24\]。145型最初的设计是将12X型简化而成，它摒弃了包括空心轴驱动在内的高速部件，转而采用较简单的吊挂轴驱动\[25\]。1996年1月，ABB亨舍尔与AEG的母公司戴姆勒-奔驰合并组建了[ADtranz](https://zh.wikipedia.org/wiki/ADtranz "wikilink")\[26\]，为了简化生产和维护，145型机车的最终设计被改造成与101型机车有更多的共性\[27\]，其[生物降解的可關斷晶閘管酯冷式逆变器和同样采用酯冷却的主变压器均来自于](https://zh.wikipedia.org/wiki/生物降解 "wikilink")101型，但只有较少的组件以适应其较低的最大功率，提供单转向架制动而非单轴制动\[28\]。转向架设计也并入了源自ABB的灵活浮动家族版本，轴距增加至2650毫米。由于这种可共享的特点，145型有时也被视为Eco2000系列的成员\[29\]。145型001号机车于1997年7月面世，在1998年1月15日联邦铁路管理局（）进行型号核准后，该系列的80台机车随即开始交付德国铁路。其中前10台机车由ADtranz的[亨尼希斯多夫工厂生产](https://zh.wikipedia.org/wiki/亨尼希斯多夫 "wikilink")，其余70台则在[卡塞尔工厂生产](https://zh.wikipedia.org/wiki/卡塞尔 "wikilink")。机车车库则设于[瑟丁](../Page/瑟丁.md "wikilink")，这里可进行中型保养及维修工作，[德铁信可由此将机车支配至整个德国](../Page/德铁信可.md "wikilink")。在计划的后续订单中，德国铁路更青睐于支持双电压制式的版本185型，145型机车从此停产。
+1994年11月，德国铁路为其电力机车的新订单分别选择了ABB和AEG：其中ABB为负责长途客运业务领域的[德铁长途运输](../Page/德铁长途运输.md "wikilink")提供145台[101型机车](../Page/德国铁路101型电力机车.md "wikilink")；而AEG则为负责货运业务的[德铁货物运输](https://zh.wikipedia.org/wiki/德铁货物运输 "wikilink")（[德铁信可铁路](../Page/德铁信可铁路.md "wikilink")的前身）提供80台145型货运机车\[24\]。145型最初的设计是将12X型简化而成，它摒弃了包括空心轴驱动在内的高速部件，转而采用较简单的吊挂轴驱动\[25\]。1996年1月，ABB亨舍尔与AEG的母公司戴姆勒-奔驰合并组建了[ADtranz](https://zh.wikipedia.org/wiki/ADtranz "wikilink")\[26\]，为了简化生产和维护，145型机车的最终设计被改造成与101型机车有更多的共性\[27\]，其[生物降解的可關斷晶閘管酯冷式逆变器和同样采用酯冷却的主变压器均来自于](https://zh.wikipedia.org/wiki/生物降解 "wikilink")101型，但只有较少的组件以适应其较低的最大功率，提供单转向架制动而非单轴制动\[28\]。转向架设计也并入了源自ABB的灵活浮动家族版本，轴距增加至2650毫米。由于这种可共享的特点，145型有时也被视为Eco2000系列的成员\[29\]。145型001号机车于1997年7月面世，在1998年1月15日联邦铁路管理局（）进行型号核准后，该系列的80台机车随即开始交付德国铁路。其中前10台机车由ADtranz的[亨尼希斯多夫工厂生产](https://zh.wikipedia.org/wiki/亨尼希斯多夫 "wikilink")，其余70台则在[卡塞尔工厂生产](https://zh.wikipedia.org/wiki/卡塞尔 "wikilink")。机车车库则设于[瑟丁](../Page/瑟丁.md "wikilink")，这里可进行中型保养及维修工作，[德铁信可](../Page/德铁信可.md "wikilink")由此将机车支配至整个德国。在计划的后续订单中，德国铁路更青睐于支持双电压制式的版本185型，145型机车从此停产。
 
 此外，有6台同款机车为瑞士私营铁路公司中图尔高铁路（，简称）而造，在当地被定型为Re
 486型。在MThB遭清算后，机车移交至[瑞士联邦铁路](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")（简称），改为Re
@@ -163,8 +163,8 @@ TRAXX F140 AC2</p></td>
 ### 146.0型
 
 [146_003_Rhein-Haard-Express.jpg](https://zh.wikipedia.org/wiki/File:146_003_Rhein-Haard-Express.jpg "fig:146_003_Rhein-Haard-Express.jpg")执行客运任务\]\]
-与此同时，德铁区域运输也开始意识到，短途交通车辆除了替换为各种现代化的[动车组外](https://zh.wikipedia.org/wiki/动车组 "wikilink")，高速电力机车搭配最高时速可达160公里的双层客车的组合也是十分必要的。1999年末，145型的018和019号机车开始搭载短途运输组件在[路德维希港投入](../Page/路德维希港.md "wikilink")[德铁区域运输的服务](../Page/德铁区域运输.md "wikilink")。其车体前端的顶部被修改，以腾出空间安放信息显示屏。在其证明了适用于短途客运的服务后，145
-031–050号机车在2000年[世界博览会期间也被投入了](https://zh.wikipedia.org/wiki/世界博览会 "wikilink")[汉诺威地区的市郊交通](../Page/汉诺威.md "wikilink")。这些用于短途交通的145型机车被验收批准可以将速度提至160km/h。随后它们一直使用于[北莱茵-威斯特法伦州](https://zh.wikipedia.org/wiki/北莱茵-威斯特法伦州 "wikilink")，直到被146型机车替换。
+与此同时，德铁区域运输也开始意识到，短途交通车辆除了替换为各种现代化的[动车组外](https://zh.wikipedia.org/wiki/动车组 "wikilink")，高速电力机车搭配最高时速可达160公里的双层客车的组合也是十分必要的。1999年末，145型的018和019号机车开始搭载短途运输组件在[路德维希港](../Page/路德维希港.md "wikilink")投入[德铁区域运输](../Page/德铁区域运输.md "wikilink")的服务。其车体前端的顶部被修改，以腾出空间安放信息显示屏。在其证明了适用于短途客运的服务后，145
+031–050号机车在2000年[世界博览会期间也被投入了](https://zh.wikipedia.org/wiki/世界博览会 "wikilink")[汉诺威](../Page/汉诺威.md "wikilink")地区的市郊交通。这些用于短途交通的145型机车被验收批准可以将速度提至160km/h。随后它们一直使用于[北莱茵-威斯特法伦州](https://zh.wikipedia.org/wiki/北莱茵-威斯特法伦州 "wikilink")，直到被146型机车替换。
 
 使用经过改造的145型机车只是一个暂时性的措施，因此德铁区域运输向庞巴迪重新订购了专用于短途交通的145型特殊版本，被定为146型。它与145型机车主要的差异是采用了可适应160km/h的空心轴驱动而非吊挂轴驱动，并在机车前窗上方设有可利用整幅宽度的目的地显示屏。首个系列的采购得到了随后使用的[莱茵兰-普法尔茨州和北莱茵](https://zh.wikipedia.org/wiki/莱茵兰-普法尔茨州 "wikilink")-威斯特法伦州的地方财政支持。在2001年至2002年，庞巴迪共交付了31台146型机车至德铁区域运输，其中前7台机车（146
 001–146 007）配属路德维希港，其余24台（146 008–146
@@ -186,17 +186,17 @@ TRAXX F140 AC2</p></td>
 [BLS_485_006.jpeg](https://zh.wikipedia.org/wiki/File:BLS_485_006.jpeg "fig:BLS_485_006.jpeg")
 [SBB428_in_Suderwich.jpg](https://zh.wikipedia.org/wiki/File:SBB428_in_Suderwich.jpg "fig:SBB428_in_Suderwich.jpg")\]\]
 [Ellok185548ITL.JPG](https://zh.wikipedia.org/wiki/File:Ellok185548ITL.JPG "fig:Ellok185548ITL.JPG")
-由于日益增多的国际化业务，德铁信可铁路（当时仍称德铁货物运输）需要一种新的双电压制式电力机车，以符合进入[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[卢森堡和](../Page/卢森堡.md "wikilink")[丹麦境内的](https://zh.wikipedia.org/wiki/丹麦 "wikilink")25千伏50赫兹供电[接触网](https://zh.wikipedia.org/wiki/接触网 "wikilink")。1998年7月，ADtranz收到了近400台新的中型货运机车的后续订单，被定型为185型\[32\]。因其双电压国际化的特点，它也被称为“欧洲机车（Europalok）”。2000年1月，以145型机车为原型开发的185
+由于日益增多的国际化业务，德铁信可铁路（当时仍称德铁货物运输）需要一种新的双电压制式电力机车，以符合进入[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[卢森堡](../Page/卢森堡.md "wikilink")和[丹麦境内的](https://zh.wikipedia.org/wiki/丹麦 "wikilink")25千伏50赫兹供电[接触网](https://zh.wikipedia.org/wiki/接触网 "wikilink")。1998年7月，ADtranz收到了近400台新的中型货运机车的后续订单，被定型为185型\[32\]。因其双电压国际化的特点，它也被称为“欧洲机车（Europalok）”。2000年1月，以145型机车为原型开发的185
 001号机车首次面世。从技术上看，185型是145型的一个进化版本，它保留了145型的走行装置、轴挂电动机、酯冷式逆变器及变压器等基本理念。除了双电压操作的电子设备，185型的变化还包括提供在欧洲使用的各类列车保护系统的安装，以及将车顶高度降低105毫米，以适应在国际[UIC](https://zh.wikipedia.org/wiki/UIC "wikilink")505-1中规定的车辆负载限界。185型机车共计交付399台，使其成为德国铁道线上最常见的电力机车，它主要用作全面替代已老化的[140型机车](https://zh.wikipedia.org/wiki/德国铁路140型电力机车 "wikilink")\[33\]。
 
 庞巴迪在2001年收购ADtranz，从而获得了机车的制造技术。185型机车在庞巴迪旗下被开发成一个类似145系列的带有私营[铁路运营商版本及客运版本的系列式车型](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")。2003年9月，庞巴迪正式将185系列机车的品牌名称命名为TRAXX。2003年1月28日，rail4chem在接收其首台185型机车后，首次利用该车型进行跨境运营，前往瑞士及[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")\[34\]。经过近6年的生产，在2006年初最后一台编号为185
 557的机车交付使用后，185.1型机车共计生产了332台。其中，德国铁路配属超过200台，德国私营铁路配属57台，瑞士联邦铁路配属35台并将其命名为Re
 482，BLS配属20台并将其命名为Re
-485型，[卢森堡国家铁路配属](../Page/卢森堡国家铁路.md "wikilink")20台并将其命名为4000型\[35\]。
+485型，[卢森堡国家铁路](../Page/卢森堡国家铁路.md "wikilink")配属20台并将其命名为4000型\[35\]。
 
 由于空间和重量的原因，机车无法搭载适应所有使用国家的列车控制系统及其它设备，但它们可以在交付后由客户根据实际需求加装或卸载某些特定的程序包。目前已有的一个瑞士安装包，机车便针对该国的技术指标搭载了集成Integra-Signum和ZUB
-262ct技术的列车控制系统、额外的窄型双[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")（1450毫米）以及侧置式后视[摄像头的设备](../Page/摄像头.md "wikilink")，部分运用于[勒奇山隧道的这类机车还加装了](../Page/勒奇山隧道.md "wikilink")[ETCS](../Page/歐洲列車控制系統.md "wikilink")。使用瑞士安装包的机车由于列车控制系统的[永磁铁不兼容而无法在奥地利境内运行](https://zh.wikipedia.org/wiki/永磁铁 "wikilink")，为此德国铁路的185型085-094号机车和瑞士联邦铁路的Re
-482型035-049号机车均配备了可切换的[电磁铁](https://zh.wikipedia.org/wiki/电磁铁 "wikilink")。进入[意大利境内的机车也同样需要加装适用于](../Page/意大利.md "wikilink")[意大利国家铁路的设备](https://zh.wikipedia.org/wiki/意大利国家铁路 "wikilink")。此外还有一个可运行于法国的安装包，它同样集成了法国的列车控制系统和额外的窄型双受电弓，但仅适用于德国和奥地利的基础版本，因其本身只有双受电弓，并且没有额外的安全系统。以窄型受电弓作为额外受电弓，并搭载于外侧的机车包括德国铁路185型085-149号、瑞士联邦铁路Re
+262ct技术的列车控制系统、额外的窄型双[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")（1450毫米）以及侧置式后视[摄像头](../Page/摄像头.md "wikilink")的设备，部分运用于[勒奇山隧道](../Page/勒奇山隧道.md "wikilink")的这类机车还加装了[ETCS](../Page/歐洲列車控制系統.md "wikilink")。使用瑞士安装包的机车由于列车控制系统的[永磁铁不兼容而无法在奥地利境内运行](https://zh.wikipedia.org/wiki/永磁铁 "wikilink")，为此德国铁路的185型085-094号机车和瑞士联邦铁路的Re
+482型035-049号机车均配备了可切换的[电磁铁](https://zh.wikipedia.org/wiki/电磁铁 "wikilink")。进入[意大利](../Page/意大利.md "wikilink")境内的机车也同样需要加装适用于[意大利国家铁路的设备](https://zh.wikipedia.org/wiki/意大利国家铁路 "wikilink")。此外还有一个可运行于法国的安装包，它同样集成了法国的列车控制系统和额外的窄型双受电弓，但仅适用于德国和奥地利的基础版本，因其本身只有双受电弓，并且没有额外的安全系统。以窄型受电弓作为额外受电弓，并搭载于外侧的机车包括德国铁路185型085-149号、瑞士联邦铁路Re
 482型、BLS485型和486型、以及卢森堡国家铁路4000型。
 
 德国铁路的近300台及德国私营铁路的57台机车会经常变换其配属而在德国、瑞士和奥地利境内运用，使用较多的公司包括Rail4chem、HGK、东汉诺威铁运（，简称OHE）、TX物流（）和BLS。这些机车主要由机车租赁公司MRCE和阿尔法列车（）所拥有。瑞士联邦铁路的35台该款机车并命名为Re
@@ -233,9 +233,9 @@ AC1的第二批次146型机车于2003至2005年间交付。这些机车作为185
 
 作为TRAXX 2原型车的185 561号机车于2006年1月移交瑞士联邦铁路并改编号为Re 482
 035，至同年8月庞巴迪共向SBB货运交付了其订购的另外14台同款机车。此外，这款机车也能在各机车租赁公司的库存中找到，并由此租赁至欧洲各地的私营铁路运营商，它们使用自185
-562号开始的企业编号，具体配属为：11台在MRCE、27台在阿尔法列车、11台在CB铁路（）以及2台在[匈牙利的Eurocom](../Page/匈牙利.md "wikilink")。Allco和Railpool则分别预订了12台和30台，其中已交付的前两台正运用于易北-威悉铁运（，简称EVB）。此外，HGK也拥有14台这一类型机车。
+562号开始的企业编号，具体配属为：11台在MRCE、27台在阿尔法列车、11台在CB铁路（）以及2台在[匈牙利](../Page/匈牙利.md "wikilink")的Eurocom。Allco和Railpool则分别预订了12台和30台，其中已交付的前两台正运用于易北-威悉铁运（，简称EVB）。此外，HGK也拥有14台这一类型机车。
 
-自身拥有这款机车所有权的企业则包括ITL（1台）、赫克托铁路（，10台）和哈维兰铁路（，2台）。[瑞典的绿色货运](../Page/瑞典.md "wikilink")（）则已有6台的订单。
+自身拥有这款机车所有权的企业则包括ITL（1台）、赫克托铁路（，10台）和哈维兰铁路（，2台）。[瑞典](../Page/瑞典.md "wikilink")的绿色货运（）则已有6台的订单。
 
 ### P160 AC2
 
@@ -243,7 +243,7 @@ AC1的第二批次146型机车于2003至2005年间交付。这些机车作为185
 标识为TRAXX P160
 AC2的第三批次146型机车自2005年7月22日起交付使用\[38\]，它作为基于185.2型开发的客运版本，被定型为146.2型。首先交付德铁区域运输的51台机车分别配属于斯图加特、弗赖堡和[纽伦堡](../Page/纽伦堡.md "wikilink")，以及梅特罗农和北波罗的海铁路（，简称NOB），其中梅特罗农持有17台，NOB持有4台。
 
-符腾堡交通公司利用其所持有的25台该款机车投放至由斯图加特出发的[区际快车](../Page/区际快车.md "wikilink")、[区域快车及](https://zh.wikipedia.org/wiki/区域快车 "wikilink")[区域列车等线路当中](../Page/区域列车.md "wikilink")。它们主要牵引的是双层客车，但在实际操作中，它与旧款的[n型车厢的搭配也并不少见](https://zh.wikipedia.org/wiki/n型车厢 "wikilink")。只有担当行经斯图加特-[外兴根路段以及](https://zh.wikipedia.org/wiki/外兴根 "wikilink")[普洛兴根](../Page/普洛兴根.md "wikilink")-[盖斯林根路段的区际快车时](../Page/盖斯林根.md "wikilink")，机车的运行速度可以达到其最高限速160公里/小时。阿尔布-博登湖区域交通有限公司（，简称RAB）也有2台同款机车（146
+符腾堡交通公司利用其所持有的25台该款机车投放至由斯图加特出发的[区际快车](../Page/区际快车.md "wikilink")、[区域快车及](https://zh.wikipedia.org/wiki/区域快车 "wikilink")[区域列车](../Page/区域列车.md "wikilink")等线路当中。它们主要牵引的是双层客车，但在实际操作中，它与旧款的[n型车厢的搭配也并不少见](https://zh.wikipedia.org/wiki/n型车厢 "wikilink")。只有担当行经斯图加特-[外兴根路段以及](https://zh.wikipedia.org/wiki/外兴根 "wikilink")[普洛兴根](../Page/普洛兴根.md "wikilink")-[盖斯林根](../Page/盖斯林根.md "wikilink")路段的区际快车时，机车的运行速度可以达到其最高限速160公里/小时。阿尔布-博登湖区域交通有限公司（，简称RAB）也有2台同款机车（146
 221和146 222）配属于斯图加特，它们于斯图加特的其他机车一同执行共用的运营计划。
 
 南巴登区域交通公司（）自2006年起将11台146.2型机车（146 228 – 146
@@ -272,7 +272,7 @@ F140中的“140”字样仍被保留了下来，并且在波兰及奥地利可�
 486型，用于执行高山和跨境运输。在升级至ETCS设备后，机车还可用于瑞士最新的铁路线中，例如勒奇山隧道，此前它仅使用Re
 485型双机牵引。2010年4月底，庞巴迪向德铁信可铁路交付了其订购的65台机车中的前3台，后者计划使用这款机车执行前往法国及比利时的运输任务\[39\]。
 
-2009年7月，机车开始投入[史基浦至](https://zh.wikipedia.org/wiki/斯希普霍尔机场 "wikilink")[布鲁塞尔间的南部](../Page/布鲁塞尔.md "wikilink")[高速铁路中使用](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")，运营商高速联盟（，简称HSA）分别向阿尔法列车和CB铁路租赁了12台和2台DABNL版本的机车，这些机车均搭载有ETCS设备。比利时国家铁路进一步向阿尔法列车租赁了43台。CB铁路则向运营于荷兰与德国之间的[贝蒂沃铁路的私营货运公司出租搭载ETCS的机车](https://zh.wikipedia.org/wiki/贝蒂沃铁路 "wikilink")。
+2009年7月，机车开始投入[史基浦至](https://zh.wikipedia.org/wiki/斯希普霍尔机场 "wikilink")[布鲁塞尔](../Page/布鲁塞尔.md "wikilink")间的南部[高速铁路中使用](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")，运营商高速联盟（，简称HSA）分别向阿尔法列车和CB铁路租赁了12台和2台DABNL版本的机车，这些机车均搭载有ETCS设备。比利时国家铁路进一步向阿尔法列车租赁了43台。CB铁路则向运营于荷兰与德国之间的[贝蒂沃铁路的私营货运公司出租搭载ETCS的机车](https://zh.wikipedia.org/wiki/贝蒂沃铁路 "wikilink")。
 
 ### F140 DC
 
@@ -282,7 +282,7 @@ MS完全相同的，只是主变压器被替换为节气门槽。交流电设备
 
 ### Renfe 253型
 
-252型机车是为[西班牙的](../Page/西班牙.md "wikilink")[宽轨铁路而开发的一款纯直流电力车型](https://zh.wikipedia.org/wiki/宽轨 "wikilink")。[西班牙国家铁路](https://zh.wikipedia.org/wiki/西班牙国家铁路 "wikilink")（简称Renfe）共向庞巴迪订购了100台该款机车，这些机车一部分由庞巴迪设于西班牙的工厂生产，首台机车于2008年下半年交付。机车都配备了吊挂轴驱动，却并不提供列车母线。其车体结构与准轨的TRAXX
+252型机车是为[西班牙](../Page/西班牙.md "wikilink")的[宽轨铁路而开发的一款纯直流电力车型](https://zh.wikipedia.org/wiki/宽轨 "wikilink")。[西班牙国家铁路](https://zh.wikipedia.org/wiki/西班牙国家铁路 "wikilink")（简称Renfe）共向庞巴迪订购了100台该款机车，这些机车一部分由庞巴迪设于西班牙的工厂生产，首台机车于2008年下半年交付。机车都配备了吊挂轴驱动，却并不提供列车母线。其车体结构与准轨的TRAXX
 2E机车相同。整流器设备则与TRAXX F140 DC型有较显著的改变。
 
 ### P160 DE
@@ -302,7 +302,7 @@ F140 DE的设计定位仍为中型的干线机车。
 ### P160 DE ME
 
 [Baureihe_245.JPG](https://zh.wikipedia.org/wiki/File:Baureihe_245.JPG "fig:Baureihe_245.JPG")
-德国铁路于2011年4月与庞巴迪签订了一个价值6亿[欧元的供应框架协议](../Page/欧元.md "wikilink")，按照协议，庞巴迪将在9年内为德铁区域运输提供200台多发电机组柴油机车用作主力客运车型，其中首批确认订购的20台机车价值6200万欧元,将从2013年中期开始交付\[41\]\[42\]。这款被定型为245型的机车企业内部标识为TRAXX
+德国铁路于2011年4月与庞巴迪签订了一个价值6亿[欧元](../Page/欧元.md "wikilink")的供应框架协议，按照协议，庞巴迪将在9年内为德铁区域运输提供200台多发电机组柴油机车用作主力客运车型，其中首批确认订购的20台机车价值6200万欧元,将从2013年中期开始交付\[41\]\[42\]。这款被定型为245型的机车企业内部标识为TRAXX
 P160 DE
 ME，它采用4台功率较小的电动机取代原本单一的大功率电动机，其标识中的“ME”即表示多发电机组（Multi-Engine）。制造商为其设定的额定功率为2252千瓦，平均每个发电机的功率为563千瓦。这种发电机是创新的设备，并且已经在工业应用中得到验证。通过使用不同时开启的4台电动机可以达到减少燃料消耗和废气排放的目的。机车的启动牵引力为270千牛，重量为82吨。因此245型机车的功率范围大致与[西门子](https://zh.wikipedia.org/wiki/西门子 "wikilink")[ER20型柴油機車或](https://zh.wikipedia.org/wiki/ER20型柴油機車 "wikilink")[福斯罗](https://zh.wikipedia.org/wiki/福斯罗 "wikilink")[G2000BB型柴油机车相类似](https://zh.wikipedia.org/wiki/G2000BB型柴油机车 "wikilink")。机车70%的部件均来自现有的TRAXX系列，同时机车车体也是明显的TRAXX式外观，只是因应柴油版本而进行了适当的调整。
 
@@ -311,7 +311,7 @@ ME，它采用4台功率较小的电动机取代原本单一的大功率电动�
 庞巴迪TRAXX 3系列的首个版本TRAXX F140
 AC3在德国被定型为187型，并于2011年5月10日至13日的慕尼黑交通物流展中首次面世。这是一个同时兼容15千伏16⅔赫兹和25千伏50赫兹交流电的机型，并搭载了一个180千瓦的柴油辅助电动机。通过这一辅助电动机使机车在不通电的情况下仍可以最高50公里/小时的速度运行。
 
-根据这一机型的开发经验，庞巴迪在[美国制造了](../Page/美国.md "wikilink")[混合动力机车](https://zh.wikipedia.org/wiki/混合动力 "wikilink")[ALP-45DP型](https://zh.wikipedia.org/wiki/ALP-45DP型机车 "wikilink")。而187型的首个订单来自于机车租赁商Railpool，它们在2010年底订购了5台该款机车。其中的3台将租予BLS，用于投入在德国、奥地利及瑞士的运营\[43\]\[44\]。
+根据这一机型的开发经验，庞巴迪在[美国](../Page/美国.md "wikilink")制造了[混合动力机车](https://zh.wikipedia.org/wiki/混合动力 "wikilink")[ALP-45DP型](https://zh.wikipedia.org/wiki/ALP-45DP型机车 "wikilink")。而187型的首个订单来自于机车租赁商Railpool，它们在2010年底订购了5台该款机车。其中的3台将租予BLS，用于投入在德国、奥地利及瑞士的运营\[43\]\[44\]。
 
 ## TRAXX其它车型
 

@@ -129,6 +129,18 @@ function p.sidebar(frame, args)
 `       end`
 `   end`
 
+`       if args.posttitle then`
+`           root`
+`               :tag('tr')`
+`                   :tag('td')`
+`                       :addClass(args.pretitleclass or args.posttitleclass)`
+`                       :cssText(args.basestyle)`
+`                       :css('padding-bottom', args.topimage and '0.2em' or '0.4em')`
+`                       :css('line-height', '1.2em')`
+`                       :cssText(args.pretitlestyle or args.posttitlestyle)`
+`                       :wikitext(args.posttitle)`
+`   end`
+
 `   if args.image then`
 `       local imageCell = root:tag('tr'):tag('td')`
 

@@ -3,7 +3,7 @@ Prizmmy於2017年3月31日終止活動。
 
 ## 概要
 
-Prizmmy☆是由2011年4月至2012年3月，[東京電視台系](../Page/東京電視台.md "wikilink")6局和[BS
+Prizmmy☆是由2011年4月至2012年3月，[東京電視台](../Page/東京電視台.md "wikilink")系6局和[BS
 JAPAN放映的](https://zh.wikipedia.org/wiki/BS_JAPAN "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[星光少女
 極光之夢](../Page/星光少女_極光之夢.md "wikilink")》的第1至第3季度\[1\]（真人部分）以「Prism
 Mates」演出的日下部美愛（美愛）、久保玲奈（玲奈）、高橋果鈴（果鈴）3人，以及在「avex kids Project
@@ -571,13 +571,13 @@ AVXA-62999</p></td>
 ### 電視節目
 
   - [星光少女
-    極光之夢](../Page/星光少女_極光之夢.md "wikilink")（2012年1月14日－2012年3月31日，[東京電視台系](../Page/東京電視台.md "wikilink")6局，[BS
+    極光之夢](../Page/星光少女_極光之夢.md "wikilink")（2012年1月14日－2012年3月31日，[東京電視台](../Page/東京電視台.md "wikilink")系6局，[BS
     JAPAN](https://zh.wikipedia.org/wiki/BS_JAPAN "wikilink")）
   - [星光少女 Dear My
-    Future](https://zh.wikipedia.org/wiki/星光少女_Dear_My_Future "wikilink")（2012年4月7日－2013年3月30日，[東京電視台系](../Page/東京電視台.md "wikilink")6局，BS
+    Future](https://zh.wikipedia.org/wiki/星光少女_Dear_My_Future "wikilink")（2012年4月7日－2013年3月30日，[東京電視台](../Page/東京電視台.md "wikilink")系6局，BS
     JAPAN）
   - [星光少女 Rainbow
-    Live](https://zh.wikipedia.org/wiki/星光少女_Rainbow_Live "wikilink")（2013年4月6日－2014年3月31日，[東京電視台系](../Page/東京電視台.md "wikilink")6局，BS
+    Live](https://zh.wikipedia.org/wiki/星光少女_Rainbow_Live "wikilink")（2013年4月6日－2014年3月31日，[東京電視台](../Page/東京電視台.md "wikilink")系6局，BS
     JAPAN）
   - もえ×こん（2012年9月4日，[東京電視台](../Page/東京電視台.md "wikilink")）
   - もえ×こん（2012年12月14日，東京電視台）

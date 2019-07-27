@@ -1,17 +1,17 @@
 [Larry_Brilliant.jpg](https://zh.wikipedia.org/wiki/File:Larry_Brilliant.jpg "fig:Larry_Brilliant.jpg")\]\]
 
-**Google.org**（谷歌慈善組織）創立於2005年10月，為網際網路搜尋引擎公司[Google的慈善機構](../Page/Google.md "wikilink")\[1\]。2010年5月，透過投資形式和贊助的方式，該組織所提供的善款已經超過1億[美元](../Page/美元.md "wikilink")。為了提供金費給
+**Google.org**（谷歌慈善組織）創立於2005年10月，為網際網路搜尋引擎公司[Google](../Page/Google.md "wikilink")的慈善機構\[1\]。2010年5月，透過投資形式和贊助的方式，該組織所提供的善款已經超過1億[美元](../Page/美元.md "wikilink")。為了提供金費給
 Google.org
 ，Google在其[首次公開募股時授予該慈善機構三百萬股](https://zh.wikipedia.org/wiki/首次公開募股 "wikilink")。截至2012年3月，
 Google.org
 的三百萬股價值約為18.4億美元。2014年，該組織在其網站上公告他們每年會贊助一億元、提供八萬小時的愛心服務和十億元的產品。
 
 Google.org
-的第一個計劃是量產[插電式混合動力汽車](https://zh.wikipedia.org/wiki/插電式混合動力汽車 "wikilink")，每一加侖可以行駛100英里（每英里1加侖）（詳情請見[V2G汽車電網](../Page/V2G.md "wikilink")）\[2\]。
+的第一個計劃是量產[插電式混合動力汽車](https://zh.wikipedia.org/wiki/插電式混合動力汽車 "wikilink")，每一加侖可以行駛100英里（每英里1加侖）（詳情請見[V2G](../Page/V2G.md "wikilink")汽車電網）\[2\]。
 
 在2007年11月， Google.org宣布RE
-\<C（可再生能源比煤更便宜），將投資超過好幾億美元於可再生能源，例如：[風能和](https://zh.wikipedia.org/wiki/風能 "wikilink")[太陽能](https://zh.wikipedia.org/wiki/太陽能 "wikilink")，其中[太陽熱能更是重要的投資和研究目標](../Page/太陽熱能.md "wikilink")。RE
-\<C的最終目標為從可再生能源中創造超過一[吉瓦的功率](https://zh.wikipedia.org/wiki/瓦 "wikilink")（足以供應像[舊金山大小的城市](https://zh.wikipedia.org/wiki/舊金山 "wikilink")）此種方式將會比傳統的能源-[煤更加省錢](../Page/煤.md "wikilink")\[3\]。
+\<C（可再生能源比煤更便宜），將投資超過好幾億美元於可再生能源，例如：[風能和](https://zh.wikipedia.org/wiki/風能 "wikilink")[太陽能](https://zh.wikipedia.org/wiki/太陽能 "wikilink")，其中[太陽熱能](../Page/太陽熱能.md "wikilink")更是重要的投資和研究目標。RE
+\<C的最終目標為從可再生能源中創造超過一[吉瓦的功率](https://zh.wikipedia.org/wiki/瓦 "wikilink")（足以供應像[舊金山大小的城市](https://zh.wikipedia.org/wiki/舊金山 "wikilink")）此種方式將會比傳統的能源-[煤](../Page/煤.md "wikilink")更加省錢\[3\]。
 
 2006到2009年，Google.org的執行長是\[4\]。博瑞下台後，Google新業務發展副總裁接下執行長一職，該組織便開始針對全球普遍會遇到的問題找出解決方式，例如:利用搜尋資料追蹤流感爆發地區的Flu
 Trends和提供關鍵性資訊和災難危機應變的Crisis Response應對自然災害\[5\]。
@@ -56,7 +56,7 @@ Code\[8\]。編碼功能是相當基礎的技能，但是在研發產品或計�
     中，負責氣候變化及能源計畫的總監丹·賴歇爾（Dan
     Reicher）主持開幕致詞\[21\]。
   - 投資1000萬美元在，研究如何讓風箏系統進入高速氣流中。
-  - 申請由[波浪能供電的浮動數據中心的專利](../Page/波浪能.md "wikilink")。\[22\]
+  - 申請由[波浪能](../Page/波浪能.md "wikilink")供電的浮動數據中心的專利。\[22\]
   - 投資，是美國第一家透過的建立來產生[再生能源的公司](https://zh.wikipedia.org/wiki/再生能源 "wikilink")<ref>
 
 </ref>。
@@ -72,7 +72,7 @@ Google 提供機會讓自己公司的員工到基金會服務，並且在2005年
 ## Google基金会
 
 Google.org还负责管理**Google基金会**。\[24\]该基金会成立较早，与Google的帮助和类似的既定目标，是一个非营利性的组织，根据中的[501(c)(4)部分](https://zh.wikipedia.org/wiki/501\(c\)条款#501\(c\)\(4\) "wikilink")。
-其董事会由Google创始人[谢尔盖·布林和](../Page/谢尔盖·布林.md "wikilink")[拉里·佩奇组成](../Page/拉里·佩奇.md "wikilink")。Google.org的高级顾问兼投资主管这两个职位，除了Brilliant为执行董事，都由[格雷戈里·米勒执行](https://zh.wikipedia.org/wiki/格雷戈里·米勒 "wikilink")。
+其董事会由Google创始人[谢尔盖·布林](../Page/谢尔盖·布林.md "wikilink")和[拉里·佩奇](../Page/拉里·佩奇.md "wikilink")组成。Google.org的高级顾问兼投资主管这两个职位，除了Brilliant为执行董事，都由[格雷戈里·米勒执行](https://zh.wikipedia.org/wiki/格雷戈里·米勒 "wikilink")。
 Google贡献一些自己的员工到基金会工作，还在晚于2005年时资助了基金会9千万美元。
 
 ## 参见

@@ -1,11 +1,11 @@
 是一部电子游戏合辑，其收录了强化移植的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》、《[最终幻想IV
 The After -月之归还-](../Page/最终幻想IV_The_After_-月之归还-.md "wikilink")》，
 以及设定于两部游戏之间的新剧本《最终幻想IV
-间奏》。合辑由[史克威尔艾尼克斯于](../Page/史克威尔艾尼克斯.md "wikilink")2011年3月24日日在日本发行\[1\]，2011年4月19日在北美发行\[2\]，2011年4月21日在欧洲发行，2011年4月28日在澳大利亚发行。其还以[下载形式发行](https://zh.wikipedia.org/wiki/電子軟體分發 "wikilink")\[3\]。
+间奏》。合辑由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")于2011年3月24日日在日本发行\[1\]，2011年4月19日在北美发行\[2\]，2011年4月21日在欧洲发行，2011年4月28日在澳大利亚发行。其还以[下载形式发行](https://zh.wikipedia.org/wiki/電子軟體分發 "wikilink")\[3\]。
 
 ## 游戏玩法
 
-合辑由[时田贵司监督](../Page/时田贵司.md "wikilink")\[4\]。其使用了[16:9的](https://zh.wikipedia.org/wiki/16:9 "wikilink")[高分辨率画面](https://zh.wikipedia.org/wiki/解像度 "wikilink")，和[任天堂DS重制版](../Page/任天堂DS.md "wikilink")《最终幻想IV》相同的[CG开场动画](https://zh.wikipedia.org/wiki/计算机图像生成技术 "wikilink")\[5\]，《月之归还》的新CG开场\[6\]，新编曲的原声\[7\]，以及可查看CG动画和[天野喜孝原画的画廊模式](../Page/天野喜孝.md "wikilink")\[8\]。
+合辑由[时田贵司](../Page/时田贵司.md "wikilink")监督\[4\]。其使用了[16:9的](https://zh.wikipedia.org/wiki/16:9 "wikilink")[高分辨率画面](https://zh.wikipedia.org/wiki/解像度 "wikilink")，和[任天堂DS](../Page/任天堂DS.md "wikilink")重制版《最终幻想IV》相同的[CG开场动画](https://zh.wikipedia.org/wiki/计算机图像生成技术 "wikilink")\[5\]，《月之归还》的新CG开场\[6\]，新编曲的原声\[7\]，以及可查看CG动画和[天野喜孝](../Page/天野喜孝.md "wikilink")原画的画廊模式\[8\]。
 
 遊戲在日本還發行了名為“超級包”的[收藏包](https://zh.wikipedia.org/wiki/特別版 "wikilink")，其中收錄遊戲指南，名為《最終幻想IV
 Complete Arts》的插畫書，以及收錄17首曲目的CD《最終幻想IV The After -月之歸還-
@@ -28,9 +28,9 @@ Complete Arts》的插畫書，以及收錄17首曲目的CD《最終幻想IV The
 
 ## 评价
 
-合辑主要获得正面评价\[12\]。《[Fami通](../Page/Fami通.md "wikilink")》的四人评论组为游戏打了30/40分\[13\]。[IGN为游戏打了](../Page/IGN.md "wikilink")9/10分，称如果“你是没有玩过《最终幻想IV》的RPG爱好者，又没找到彻底打动自己的游戏，我会很惊讶”\[14\]。[1UP.com给游戏打了B](../Page/1UP.com.md "wikilink")-，称原版游戏是一部“杰作”，但称其后续故事“一部暗淡的仿製品”\[15\]。
+合辑主要获得正面评价\[12\]。《[Fami通](../Page/Fami通.md "wikilink")》的四人评论组为游戏打了30/40分\[13\]。[IGN](../Page/IGN.md "wikilink")为游戏打了9/10分，称如果“你是没有玩过《最终幻想IV》的RPG爱好者，又没找到彻底打动自己的游戏，我会很惊讶”\[14\]。[1UP.com](../Page/1UP.com.md "wikilink")给游戏打了B-，称原版游戏是一部“杰作”，但称其后续故事“一部暗淡的仿製品”\[15\]。
 
-[GameZone對遊戲印象並不深](../Page/GameZone.md "wikilink")，給合輯打了4.5/10，並稱作為遊戲包，“這個《完全收藏輯》很難推薦”，作為[賣點的](https://zh.wikipedia.org/wiki/賣點 "wikilink")《月之歸還》“作為情節沒什麼特別的，高清改進給作為核心的冒險帶來了一些相同的視覺障礙”\[16\]。{{-}}
+[GameZone](../Page/GameZone.md "wikilink")對遊戲印象並不深，給合輯打了4.5/10，並稱作為遊戲包，“這個《完全收藏輯》很難推薦”，作為[賣點的](https://zh.wikipedia.org/wiki/賣點 "wikilink")《月之歸還》“作為情節沒什麼特別的，高清改進給作為核心的冒險帶來了一些相同的視覺障礙”\[16\]。{{-}}
 
 ## 參考文獻
 

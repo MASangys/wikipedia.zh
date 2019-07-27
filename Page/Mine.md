@@ -1,4 +1,4 @@
-「**Mine**」是[日本的](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[河西智美的第二张](../Page/河西智美.md "wikilink")[单曲](../Page/单曲.md "wikilink")。将在2013年5月8日由发行。
+「**Mine**」是[日本](../Page/日本.md "wikilink")的[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[河西智美](../Page/河西智美.md "wikilink")的第二张[单曲](../Page/单曲.md "wikilink")。将在2013年5月8日由发行。
 
 ## 概要
 
@@ -43,7 +43,7 @@
       -
         （作詞：秋元康、作曲：藤井一德、編曲：）
         演唱成员:
-        除河西智美之外还有[秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[野呂佳代这些AKB](../Page/野呂佳代.md "wikilink")48的二期生。
+        除河西智美之外还有[秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")这些AKB48的二期生。
 4.  Mine off vocal
 5.  Illumination off vocal
 6.  Enjoy your life \! off vocal

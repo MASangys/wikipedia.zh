@@ -6,7 +6,7 @@ Grad是一種來歷不明的武器，這種武器沒有生產序號，亦沒有�
 
 ## 概述
 
-作為[AK-74的一種變種槍](https://zh.wikipedia.org/wiki/AK-74突擊步槍 "wikilink")，Grad依舊是發射[5.45×39毫米小口徑槍彈](../Page/5.45×39mm.md "wikilink")，但同時存在著6×49毫米和7.62×39毫米口徑的版本。[全自動射擊時理論射速為每分鐘](https://zh.wikipedia.org/wiki/自動火器 "wikilink")600—650發。[槍管長度與AK](../Page/槍管.md "wikilink")-74一樣，而且保留了原有的[槍口制動器以協助射手減低](../Page/砲口制動器.md "wikilink")[後座力](../Page/後座力.md "wikilink")，這亦說明了此槍的彈道性能與AK-74是相同的。其重量與AK-74M相近，而長度則相當於一把[槍托摺疊後的AK步槍](../Page/槍托.md "wikilink")。由於全槍採用了[犢牛式佈局](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，所以槍身顯得比AK-74更短小及緊湊，令槍支可以更容易地在密閉的空間下攜帶，也更適合用於[近身距離作戰](../Page/近身距離作戰.md "wikilink")。然而，犢牛式設計令射手即使在必要時亦不能夠改用左手進行射擊。
+作為[AK-74的一種變種槍](https://zh.wikipedia.org/wiki/AK-74突擊步槍 "wikilink")，Grad依舊是發射[5.45×39毫米小口徑槍彈](../Page/5.45×39mm.md "wikilink")，但同時存在著6×49毫米和7.62×39毫米口徑的版本。[全自動射擊時理論射速為每分鐘](https://zh.wikipedia.org/wiki/自動火器 "wikilink")600—650發。[槍管](../Page/槍管.md "wikilink")長度與AK-74一樣，而且保留了原有的[槍口制動器以協助射手減低](../Page/砲口制動器.md "wikilink")[後座力](../Page/後座力.md "wikilink")，這亦說明了此槍的彈道性能與AK-74是相同的。其重量與AK-74M相近，而長度則相當於一把[槍托](../Page/槍托.md "wikilink")摺疊後的AK步槍。由於全槍採用了[犢牛式佈局](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，所以槍身顯得比AK-74更短小及緊湊，令槍支可以更容易地在密閉的空間下攜帶，也更適合用於[近身距離作戰](../Page/近身距離作戰.md "wikilink")。然而，犢牛式設計令射手即使在必要時亦不能夠改用左手進行射擊。
 
 由於是AK-74的變種槍，所以槍上的部份零件均能夠與AK-74通用。
 

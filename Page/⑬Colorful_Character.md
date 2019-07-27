@@ -1,5 +1,5 @@
 《**⑬Colorful
-Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")13枚原創專輯。於2012年9月12日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+Character**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第13枚原創專輯。於2012年9月12日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -7,15 +7,15 @@ Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink
   - 收錄第48張單曲《[超幼嫩的小雞們](../Page/超幼嫩的小雞們.md "wikilink")》至第50張單曲《[One·Two·Three/The
     摩天樓
     Show](https://zh.wikipedia.org/wiki/One·Two·Three/The_摩天樓_Show "wikilink")》，一共4首A面曲。
-  - 此專輯是[早安少女組。以十人形式參與演唱](../Page/早安少女組。.md "wikilink")，五期成員[新垣里沙和八期成員](../Page/新垣里沙.md "wikilink")[光井愛佳只參與兩首曲目](../Page/光井愛佳.md "wikilink")（[超幼嫩的小雞們](../Page/超幼嫩的小雞們.md "wikilink")
+  - 此專輯是[早安少女組。](../Page/早安少女組。.md "wikilink")以十人形式參與演唱，五期成員[新垣里沙](../Page/新垣里沙.md "wikilink")和八期成員[光井愛佳](../Page/光井愛佳.md "wikilink")只參與兩首曲目（[超幼嫩的小雞們](../Page/超幼嫩的小雞們.md "wikilink")
     - [戀愛獵人](../Page/戀愛獵人.md "wikilink")）
-  - 十期成員[飯窪春菜](../Page/飯窪春菜.md "wikilink")、[石田亞佑美](../Page/石田亞佑美.md "wikilink")、[佐藤優樹](../Page/佐藤優樹.md "wikilink")、[工藤遙加入後第一張原創專輯](../Page/工藤遙.md "wikilink")。
+  - 十期成員[飯窪春菜](../Page/飯窪春菜.md "wikilink")、[石田亞佑美](../Page/石田亞佑美.md "wikilink")、[佐藤優樹](../Page/佐藤優樹.md "wikilink")、[工藤遙](../Page/工藤遙.md "wikilink")加入後第一張原創專輯。
   - 本作分「初回限定盤」和「CD盤」2種版本
   - 「初回限定盤」收錄了「早安少女組。簡介影片」成員自我介紹的片段、專輯《⑬Colorful
     Character》的Making，以及《[怪傑 Positive
     A](../Page/12,_Smart.md "wikilink")》和《[My Way
     〜女子校花道〜](../Page/12,_Smart.md "wikilink")》的Live片段。
-  - 在9月24日於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")6名。
+  - 在9月24日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜取得第6名。
 
 ## 收錄內容
 
@@ -35,7 +35,7 @@ Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink
 4.  **Lalala的Bibibi** (ラララのビビビ)
     （作詞・作曲：淳君 編曲：大久保薫）
       -
-        [道重沙由美主唱](../Page/道重沙由美.md "wikilink")
+        [道重沙由美](../Page/道重沙由美.md "wikilink")主唱
 5.  **爆～炸 隨想曲** （ドッカ～ン カプリッチオ）
     （作詞・作曲：淳君 編曲：大久保薫）
 6.  **[The 摩天樓
@@ -49,7 +49,7 @@ Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink
 8.  **[戀愛獵人](../Page/戀愛獵人.md "wikilink")**（）
     （作詞・作曲：淳君 編曲：平田祥一郎）
       -
-        49th單曲・五期成員[新垣里沙](../Page/新垣里沙.md "wikilink")、八期成員[光井愛佳的畢業單曲](../Page/光井愛佳.md "wikilink")
+        49th單曲・五期成員[新垣里沙](../Page/新垣里沙.md "wikilink")、八期成員[光井愛佳](../Page/光井愛佳.md "wikilink")的畢業單曲
 9.  **地球正在哭泣**（地球が泣いている）
     （作詞・作曲：淳君 編曲：平田祥一郎）
 10. **涙一滴**
@@ -60,11 +60,11 @@ Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink
 11. **微笑\! YOU**（笑って\! YOU）
     （作詞・作曲：淳君 編曲：鈴木俊介 ）
       -
-        [譜久村聖](../Page/譜久村聖.md "wikilink")・[生田衣梨奈](../Page/生田衣梨奈.md "wikilink")・[鞘師里保](../Page/鞘師里保.md "wikilink")・[鈴木香音](../Page/鈴木香音.md "wikilink")・[飯窪春菜](../Page/飯窪春菜.md "wikilink")・[石田亞佑美](../Page/石田亞佑美.md "wikilink")・[佐藤優樹](../Page/佐藤優樹.md "wikilink")・[工藤遙主唱](../Page/工藤遙.md "wikilink")
+        [譜久村聖](../Page/譜久村聖.md "wikilink")・[生田衣梨奈](../Page/生田衣梨奈.md "wikilink")・[鞘師里保](../Page/鞘師里保.md "wikilink")・[鈴木香音](../Page/鈴木香音.md "wikilink")・[飯窪春菜](../Page/飯窪春菜.md "wikilink")・[石田亞佑美](../Page/石田亞佑美.md "wikilink")・[佐藤優樹](../Page/佐藤優樹.md "wikilink")・[工藤遙](../Page/工藤遙.md "wikilink")主唱
 12. **[超幼嫩的小雞們](../Page/超幼嫩的小雞們.md "wikilink")** （ピョコピョコ ウルトラ）
     （作詞・作曲：淳君 編曲：平田祥一郎）
       -
-        48th單曲・十期成員[飯窪春菜](../Page/飯窪春菜.md "wikilink")、[石田亞佑美](../Page/石田亞佑美.md "wikilink")、[佐藤優樹](../Page/佐藤優樹.md "wikilink")、[工藤遙加入後第一張單曲](../Page/工藤遙.md "wikilink")
+        48th單曲・十期成員[飯窪春菜](../Page/飯窪春菜.md "wikilink")、[石田亞佑美](../Page/石田亞佑美.md "wikilink")、[佐藤優樹](../Page/佐藤優樹.md "wikilink")、[工藤遙](../Page/工藤遙.md "wikilink")加入後第一張單曲
 
 ### DVD
 

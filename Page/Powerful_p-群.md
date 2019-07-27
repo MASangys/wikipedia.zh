@@ -15,7 +15,7 @@ powerful
 
 powerful
 *p*-群也可用於研究[pro-*p*群](https://zh.wikipedia.org/wiki/pro-p_group "wikilink")，因為powerful
-*p*-群提供了簡單方法去描繪[*p*-進解析群](https://zh.wikipedia.org/wiki/p-進數 "wikilink")（在*p*-進數上為[流形的群](../Page/流形.md "wikilink")）的特性：一個有限生成pro-*p*群是*p*-進解析的，當且僅當這個群包含一個powerful的[開](https://zh.wikipedia.org/wiki/開集 "wikilink")[正規子群](https://zh.wikipedia.org/wiki/正規子群 "wikilink")。這是[Michel
+*p*-群提供了簡單方法去描繪[*p*-進解析群](https://zh.wikipedia.org/wiki/p-進數 "wikilink")（在*p*-進數上為[流形](../Page/流形.md "wikilink")的群）的特性：一個有限生成pro-*p*群是*p*-進解析的，當且僅當這個群包含一個powerful的[開](https://zh.wikipedia.org/wiki/開集 "wikilink")[正規子群](https://zh.wikipedia.org/wiki/正規子群 "wikilink")。這是[Michel
 Lazard](https://zh.wikipedia.org/wiki/Michel_Lazard "wikilink")(1965)一個深刻結果的特例。
 
 一些與阿貝爾[*p*-群相似的性質有](https://zh.wikipedia.org/wiki/p-群 "wikilink")：若\(G\)是powerful
@@ -25,7 +25,7 @@ Lazard](https://zh.wikipedia.org/wiki/Michel_Lazard "wikilink")(1965)一個深�
   - \(G^{p^k} = \{g^{p^k}|g\in G\}\)對所有\(k\geq 1.\)。就是以\(p^k\)次冪*生成的群*，正是\(p^k\)次冪的*集合*。
   - 對所有\(k\geq 1\)，若\(G = \langle g_1, \ldots, g_d\rangle\)，則\(G^{p^k} = \langle g_1^{p^k},\ldots,g_d^{p^k}\rangle\)。
   - 對所有\(k\geq 1\)，\(G\)的[下中心序列的第](https://zh.wikipedia.org/wiki/下中心序列 "wikilink")*k*位有性質\(\gamma_k(G)\leq G^{p^{k-1}}\)。
-  - powerful *p*-群的每個[商群都powerful](../Page/商群.md "wikilink")。
+  - powerful *p*-群的每個[商群](../Page/商群.md "wikilink")都powerful。
   - \(G\)的[Prüfer秩等於](https://zh.wikipedia.org/wiki/Prüfer秩 "wikilink")\(G\)的生成元的最小數目。
 
 一些不太像阿貝爾群的性質有：若\(G\)是powerful *p*-群，則

@@ -4,7 +4,7 @@
 
 首次亮相是在「」[凹版寫真雜誌上](https://zh.wikipedia.org/wiki/凹版雜誌 "wikilink")。之後還擔任許多雜誌的色情模特兒，並參與了超過100個以上的寫真作品拍攝。
 
-興趣是彈[吉他跟](../Page/吉他.md "wikilink")[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，擅長[空手道跟](../Page/空手道.md "wikilink")[跆拳道](../Page/跆拳道.md "wikilink")。
+興趣是彈[吉他](../Page/吉他.md "wikilink")跟[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，擅長[空手道](../Page/空手道.md "wikilink")跟[跆拳道](../Page/跆拳道.md "wikilink")。
 
 ## 簡歷
 

@@ -15,11 +15,11 @@ Prolog 2.0版本後即未再有更新的商業版本。 而最新的版本是視
 [Prolog](../Page/Prolog.md "wikilink")
 的語法與類型的變量，並於使用上有一些限制，但這不符合Edinborough的標準。
 然而，Turbo Prolog
-編輯器包含基本的使用者介面，可以方便設計人使用。而[Prolog是一種邏輯編程語言](../Page/Prolog.md "wikilink")。它建立在邏輯學的理論基礎之上，最初被運用於自然語言等研究領域。現在它已廣泛的應用在人工智慧的研究中，它可以用來建造專家系統、自然語言理解、智慧知識庫等，在早期的機器智慧研究領域，[Prolog曾經是主要的開發工具](../Page/Prolog.md "wikilink")。而Prolog語言中最重要的功能即是：回溯，這點與其他一般的程式語言有著明顯的不同。
+編輯器包含基本的使用者介面，可以方便設計人使用。而[Prolog](../Page/Prolog.md "wikilink")是一種邏輯編程語言。它建立在邏輯學的理論基礎之上，最初被運用於自然語言等研究領域。現在它已廣泛的應用在人工智慧的研究中，它可以用來建造專家系統、自然語言理解、智慧知識庫等，在早期的機器智慧研究領域，[Prolog](../Page/Prolog.md "wikilink")曾經是主要的開發工具。而Prolog語言中最重要的功能即是：回溯，這點與其他一般的程式語言有著明顯的不同。
 
 ## 程式資訊
 
-[Prolog的程式語言包含了三個主要部份](../Page/Prolog.md "wikilink")：domains, predicates
+[Prolog](../Page/Prolog.md "wikilink")的程式語言包含了三個主要部份：domains, predicates
 與 clauses，而執行程式則是以Goal來回應。
 
 說明如下：

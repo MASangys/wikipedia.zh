@@ -1,7 +1,7 @@
-**eCryptfs**（，**企业加密文件系统**）是适用于加密[Linux的磁盘加密软件](../Page/Linux.md "wikilink")，兼容[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")[文件系统级加密](../Page/文件系统.md "wikilink")，自[Linux内核版本](../Page/Linux内核.md "wikilink")
-2.6.19成为其一部分。[Ubuntu自](../Page/Ubuntu.md "wikilink")9.04开始提供eCryptfs包。
+**eCryptfs**（，**企业加密文件系统**）是适用于加密[Linux](../Page/Linux.md "wikilink")的磁盘加密软件，兼容[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")[文件系统](../Page/文件系统.md "wikilink")级加密，自[Linux内核](../Page/Linux内核.md "wikilink")版本
+2.6.19成为其一部分。[Ubuntu](../Page/Ubuntu.md "wikilink")自9.04开始提供eCryptfs包。
 
-文件系统级加密相对[磁盘加密既有优点也有不足](../Page/磁盘加密.md "wikilink")。磁盘加密工作在块（block）级别，要求另外的文件系统加载到自己的分区上，文件系统级加密能在已存在的分区中工作，不需要划开特定块区域（block
+文件系统级加密相对[磁盘加密](../Page/磁盘加密.md "wikilink")既有优点也有不足。磁盘加密工作在块（block）级别，要求另外的文件系统加载到自己的分区上，文件系统级加密能在已存在的分区中工作，不需要划开特定块区域（block
 area）供其使用。\[1\]同时也可以选择性的加密单个文件或文件夹。
 
 ## 历史

@@ -1,4 +1,4 @@
-《**Ellacadabra**》\[1\]是[歌手](../Page/歌手.md "wikilink")[官恩娜的第二張個人](../Page/官恩娜.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2005年12月22日推出。
+《**Ellacadabra**》\[1\]是[歌手](../Page/歌手.md "wikilink")[官恩娜](../Page/官恩娜.md "wikilink")的第二張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，於2005年12月22日推出。
 
 ## 曲目
 

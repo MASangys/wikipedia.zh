@@ -3,40 +3,40 @@ SOO）槍械設計師[研發生产的](../Page/研究開發.md "wikilink")12.7�
 
 ## 歷史
 
-2002年，VKS消聲狙擊步槍為[俄羅斯聯邦安全局](../Page/聯邦安全局.md "wikilink")（，簡稱：ФСБ；，簡稱：FSB）[特種部隊的要求開發](../Page/特種部隊.md "wikilink")。
+2002年，VKS消聲狙擊步槍為[俄羅斯聯邦安全局](../Page/聯邦安全局.md "wikilink")（，簡稱：ФСБ；，簡稱：FSB）[特種部隊](../Page/特種部隊.md "wikilink")的要求開發。
 
 ## 設計細節
 
-12.7×55毫米俄羅斯[口徑VKS](https://zh.wikipedia.org/wiki/口徑 "wikilink")[消聲狙擊步槍是](../Page/抑制器.md "wikilink")[特種部隊要求提供要比](../Page/特種部隊.md "wikilink")[9×39毫米蘇聯口徑](../Page/9×39mm.md "wikilink")[VSS
-Vintorez消聲狙擊步槍要強大得多的消聲射擊和貫穿力](../Page/VSS_Vintorez狙擊步槍.md "wikilink")。VKS的主要攻擊目標是達到600公尺（656.17码，1,968.5英尺）的範圍內身穿重型[防彈衣或是躲藏在](https://zh.wikipedia.org/wiki/護甲 "wikilink")[汽车和其他堅硬](../Page/汽车.md "wikilink")[掩體後方的敵人](https://zh.wikipedia.org/wiki/掩體 "wikilink")。
+12.7×55毫米俄羅斯[口徑VKS](https://zh.wikipedia.org/wiki/口徑 "wikilink")[消聲狙擊步槍是](../Page/抑制器.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")要求提供要比[9×39毫米蘇聯口徑](../Page/9×39mm.md "wikilink")[VSS
+Vintorez消聲狙擊步槍要強大得多的消聲射擊和貫穿力](../Page/VSS_Vintorez狙擊步槍.md "wikilink")。VKS的主要攻擊目標是達到600公尺（656.17码，1,968.5英尺）的範圍內身穿重型[防彈衣或是躲藏在](https://zh.wikipedia.org/wiki/護甲 "wikilink")[汽车](../Page/汽车.md "wikilink")和其他堅硬[掩體後方的敵人](https://zh.wikipedia.org/wiki/掩體 "wikilink")。
 
-VKS消聲狙擊步槍採用了[无托结构的設計](../Page/犢牛式_\(槍械\).md "wikilink")，把槍機等的主要部件放在的背後，從而縮短了總長度（，簡稱：OAL）而不縮短[槍管長度](../Page/槍管.md "wikilink")。這樣使其尺寸更為適合在城市反恐作戰中使用。
+VKS消聲狙擊步槍採用了[无托结构的設計](../Page/犢牛式_\(槍械\).md "wikilink")，把槍機等的主要部件放在的背後，從而縮短了總長度（，簡稱：OAL）而不縮短[槍管](../Page/槍管.md "wikilink")長度。這樣使其尺寸更為適合在城市反恐作戰中使用。
 
 ### 槍機
 
-與[手動步枪一樣](../Page/手動槍機.md "wikilink")，它需要以手動的方式完成子彈送入[膛室](../Page/膛室.md "wikilink")（上膛）與將使用過的彈槍機退出膛室（退膛）動作。不過VKS消聲狙擊步槍使用的[手動槍機並非旋轉後拉式槍機](../Page/手動槍機.md "wikilink")，而是採用了並不常見的直拉式槍機。雖然這設計早已不再常見，而且結構複雜和可靠性差劣，但其好處是其槍機操作可以比起其他的傳統型手動槍機有更快的操作速度，熟練的射手可以使其射擊速度不下於一枝[半自動步枪](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")。使用這種類似手動槍機的狙擊步槍的現代武器還有[德国](../Page/德国.md "wikilink")[布拉塞爾R93](../Page/布拉塞爾R93戰術型狙擊步槍.md "wikilink")，但VKS的更為簡單。
+與[手動步枪一樣](../Page/手動槍機.md "wikilink")，它需要以手動的方式完成子彈送入[膛室](../Page/膛室.md "wikilink")（上膛）與將使用過的彈槍機退出膛室（退膛）動作。不過VKS消聲狙擊步槍使用的[手動槍機](../Page/手動槍機.md "wikilink")並非旋轉後拉式槍機，而是採用了並不常見的直拉式槍機。雖然這設計早已不再常見，而且結構複雜和可靠性差劣，但其好處是其槍機操作可以比起其他的傳統型手動槍機有更快的操作速度，熟練的射手可以使其射擊速度不下於一枝[半自動步枪](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")。使用這種類似手動槍機的狙擊步槍的現代武器還有[德国](../Page/德国.md "wikilink")[布拉塞爾R93](../Page/布拉塞爾R93戰術型狙擊步槍.md "wikilink")，但VKS的更為簡單。
 
 ### 機匣組件
 
-[钢製](../Page/钢.md "wikilink")[機匣採用金屬](https://zh.wikipedia.org/wiki/機匣 "wikilink")[衝壓加工的方式製作而成](../Page/衝壓.md "wikilink")，機匣前部上方兩側設有6個大型散熱孔。機匣最前方的頂部設有一個折疊式[準星](../Page/照準器.md "wikilink")，準星下方左側設有環。機匣中間頂部裝有一段瞄準鏡導軌，以便安裝光學瞄準鏡。導軌尾部為一個折疊式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")。機匣後方設有一塊。
+[钢](../Page/钢.md "wikilink")製[機匣採用金屬](https://zh.wikipedia.org/wiki/機匣 "wikilink")[衝壓](../Page/衝壓.md "wikilink")加工的方式製作而成，機匣前部上方兩側設有6個大型散熱孔。機匣最前方的頂部設有一個折疊式[準星](../Page/照準器.md "wikilink")，準星下方左側設有環。機匣中間頂部裝有一段瞄準鏡導軌，以便安裝光學瞄準鏡。導軌尾部為一個折疊式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")。機匣後方設有一塊。
 
 ### 槍機組件
 
 與[AK系列步槍一樣](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，VKS也採用[轉拴式](../Page/轉拴式槍栓.md "wikilink")[槍栓閉鎖結構](https://zh.wikipedia.org/wiki/槍栓 "wikilink")。不過兩者的槍機設計不同的是，AK系列步槍槍機機頭上設有兩個鎖耳（，又稱：閉鎖突箏），而VKS則是在槍機機頭上設有四個鎖耳。VKS的裝在[機框上](https://zh.wikipedia.org/wiki/機框 "wikilink")，可在[機匣左右兩側設置](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
 
-使用時，先向前推動拉機柄，帶動槍機向前，將[彈匣內首發](../Page/彈匣.md "wikilink")[子彈推進](../Page/子彈.md "wikilink")[膛室](../Page/膛室.md "wikilink")。當槍機前進到位的時候，機框上的閉鎖凹槽驅動槍機滾轉閉鎖，呈[閉膛待擊狀態](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")。子彈擊發以後，向後拉動拉機柄，機框螺旋槽帶動槍機反方向滾轉而而開鎖，並且抽出[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")，在槍機向後的過程中，將彈殼拋出槍外。
+使用時，先向前推動拉機柄，帶動槍機向前，將[彈匣](../Page/彈匣.md "wikilink")內首發[子彈](../Page/子彈.md "wikilink")推進[膛室](../Page/膛室.md "wikilink")。當槍機前進到位的時候，機框上的閉鎖凹槽驅動槍機滾轉閉鎖，呈[閉膛待擊狀態](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")。子彈擊發以後，向後拉動拉機柄，機框螺旋槽帶動槍機反方向滾轉而而開鎖，並且抽出[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")，在槍機向後的過程中，將彈殼拋出槍外。
 
 ### 護木組件
 
-VKS消聲狙擊步槍使用[聚合物材料製作而成的](../Page/聚合物.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，護木下方帶有一個可以折疊式[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，兩腳架上打孔以減輕重量。兩腳架在不需要使用時可以向後折疊放入護木下方的凹槽中；而有需要使用時可以向前展開，而且兩腳架的高度也可以根據使用者和／或使用情況進行調節。
+VKS消聲狙擊步槍使用[聚合物](../Page/聚合物.md "wikilink")材料製作而成的[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，護木下方帶有一個可以折疊式[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，兩腳架上打孔以減輕重量。兩腳架在不需要使用時可以向後折疊放入護木下方的凹槽中；而有需要使用時可以向前展開，而且兩腳架的高度也可以根據使用者和／或使用情況進行調節。
 
 ### 槍托組件
 
-VKS消聲狙擊步槍使用[聚合物材料製作而成的](../Page/聚合物.md "wikilink")[槍托](../Page/槍托.md "wikilink")，減輕了全槍的[质量](../Page/质量.md "wikilink")。槍托尾部設有一塊由[橡膠製造的後座緩衝墊](../Page/橡膠.md "wikilink")，而且設計為向內裡凹陷樣式，使用者抵肩時非常舒適，而且能夠有效地吸收[後座力](../Page/後座力.md "wikilink")。手動保險桿設置在槍托左側。
+VKS消聲狙擊步槍使用[聚合物](../Page/聚合物.md "wikilink")材料製作而成的[槍托](../Page/槍托.md "wikilink")，減輕了全槍的[质量](../Page/质量.md "wikilink")。槍托尾部設有一塊由[橡膠](../Page/橡膠.md "wikilink")製造的後座緩衝墊，而且設計為向內裡凹陷樣式，使用者抵肩時非常舒適，而且能夠有效地吸收[後座力](../Page/後座力.md "wikilink")。手動保險桿設置在槍托左側。
 
 ### 彈匣組件
 
-VKS消聲狙擊步槍使用[聚合物材料製作而成的](../Page/聚合物.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，這在俄羅斯狙擊步槍而言是比較少見的。彈匣容量為5
+VKS消聲狙擊步槍使用[聚合物](../Page/聚合物.md "wikilink")材料製作而成的[彈匣](../Page/彈匣.md "wikilink")，這在俄羅斯狙擊步槍而言是比較少見的。彈匣容量為5
 發，採用單排式彈匣設計結構保證了其供彈的可靠性。
 
 ## 彈藥
@@ -47,7 +47,7 @@ VKS消聲狙擊步槍發射專屬12.7×55毫米俄羅斯口徑[亞音速](https:
   - SC-130U／STs-130U（）：訓練彈
   - SC-130PT／STs-130PT（）：彈重59克（1,040.58格令）的狙擊彈，在100公尺的[精度為](https://zh.wikipedia.org/wiki/精度 "wikilink")1[MOA](https://zh.wikipedia.org/wiki/角分 "wikilink")，最大有效射程為600公尺（656.17码，1,968.5英尺）
   - SC-130PT2／STs-130PT2（）：青銅實心狙擊彈，精度更高
-  - SC-130VPS／STs-130VPS（）：彈重76克（1,340.41格令）的[穿甲弹](../Page/穿甲弹.md "wikilink")，裝甲貫穿力：在200公尺內16毫米[钢板](../Page/钢.md "wikilink")，或是在100公尺內俄羅斯5級、美國3級重型[避彈衣](https://zh.wikipedia.org/wiki/護甲 "wikilink")
+  - SC-130VPS／STs-130VPS（）：彈重76克（1,340.41格令）的[穿甲弹](../Page/穿甲弹.md "wikilink")，裝甲貫穿力：在200公尺內16毫米[钢](../Page/钢.md "wikilink")板，或是在100公尺內俄羅斯5級、美國3級重型[避彈衣](https://zh.wikipedia.org/wiki/護甲 "wikilink")
 
 ## 使用國
 

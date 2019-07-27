@@ -1,17 +1,17 @@
 **安東尼·桑德斯卓姆**（，），又以DJ
-Antwone見稱，在[加拿大](../Page/加拿大.md "wikilink")[溫哥華出生的](../Page/溫哥華.md "wikilink")[香港](../Page/香港.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")，是一名[美洲原住民](../Page/美洲原住民.md "wikilink")、[挪威及](../Page/挪威.md "wikilink")[華裔美國人](https://zh.wikipedia.org/wiki/華裔美國人 "wikilink")[混血兒](../Page/混血兒.md "wikilink")。身高185公分，體重80公斤。
+Antwone見稱，在[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")出生的[香港](../Page/香港.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")，是一名[美洲原住民](../Page/美洲原住民.md "wikilink")、[挪威](../Page/挪威.md "wikilink")及[華裔美國人](https://zh.wikipedia.org/wiki/華裔美國人 "wikilink")[混血兒](../Page/混血兒.md "wikilink")。身高185公分，體重80公斤。
 
-他在2001年移居在[香港模特兒發展之前](../Page/香港.md "wikilink")，在1993年，因傷無奈結束職業電單車手生涯，於泰國開始他的模特兒生涯，其後便積極於東南亞市場發展．來到[香港發展後](../Page/香港.md "wikilink")，拍攝更多廣告和行天橋等大型活動之餘，亦不忘繼續他的ＤＪ事業\[1\]\[2\]。
+他在2001年移居在[香港](../Page/香港.md "wikilink")模特兒發展之前，在1993年，因傷無奈結束職業電單車手生涯，於泰國開始他的模特兒生涯，其後便積極於東南亞市場發展．來到[香港](../Page/香港.md "wikilink")發展後，拍攝更多廣告和行天橋等大型活動之餘，亦不忘繼續他的ＤＪ事業\[1\]\[2\]。
 
-2008年6月，也即是[端午節期間](https://zh.wikipedia.org/wiki/端午節 "wikilink")，他和妻子[喬瑟琳·盧科於](../Page/喬瑟琳·盧科.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[夏威夷結婚](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，場面非常熱鬧\[3\]。之後二人在合作各大event以
+2008年6月，也即是[端午節期間](https://zh.wikipedia.org/wiki/端午節 "wikilink")，他和妻子[喬瑟琳·盧科](../Page/喬瑟琳·盧科.md "wikilink")於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[夏威夷結婚](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，場面非常熱鬧\[3\]。之後二人在合作各大event以
 DJ Antwone 及 DJ Miss Antwone 的身份打碟\[4\]\[5\]。
 
-除了在[香港和外國增加知名度外](../Page/香港.md "wikilink")，有時參與公益事務。例如他和妻子創立Moonlight
+除了在[香港](../Page/香港.md "wikilink")和外國增加知名度外，有時參與公益事務。例如他和妻子創立Moonlight
 Foundation
 Nepal（MFN），目的是改善[尼泊爾人民生活](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")，之後參加慈善攀山活動\[6\]。
 
 2014年8月，Anthony Sandstrom與妻子[Jocelyn
-Luko獲](https://zh.wikipedia.org/wiki/Jocelyn_Luko "wikilink")[甄子丹和太太](../Page/甄子丹.md "wikilink")[汪詩詩旗下公司](../Page/汪詩詩.md "wikilink")，獲得成為旗下藝人\[7\]。
+Luko獲](https://zh.wikipedia.org/wiki/Jocelyn_Luko "wikilink")[甄子丹](../Page/甄子丹.md "wikilink")和太太[汪詩詩](../Page/汪詩詩.md "wikilink")旗下公司，獲得成為旗下藝人\[7\]。
 
 ## 電視節目
 

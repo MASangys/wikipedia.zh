@@ -1,5 +1,5 @@
 《**〜refrain〜 The songs were inspired by
-"EVANGELION"**》（ルフラン　ザ・ソングズ・ワー・インスパイアド・バイ・エヴァンゲリオン）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》的[原声音乐专辑以及](../Page/原声音乐.md "wikilink")[高橋洋子的第](../Page/高橋洋子.md "wikilink")5张原创专辑。1997年11月6日由[STARCHILD发售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
+"EVANGELION"**》（ルフラン　ザ・ソングズ・ワー・インスパイアド・バイ・エヴァンゲリオン）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》的[原声音乐](../Page/原声音乐.md "wikilink")专辑以及[高橋洋子](../Page/高橋洋子.md "wikilink")的第5张原创专辑。1997年11月6日由[STARCHILD发售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要
 

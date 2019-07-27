@@ -1,4 +1,4 @@
-《**HOLD住婆媽大小事**》是[台灣的談話性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[衛視中文台開播](../Page/衛視中文台.md "wikilink")，[星期一到](../Page/星期一.md "wikilink")[星期四於晚上](https://zh.wikipedia.org/wiki/星期四 "wikilink")8時至9時首播。
+《**HOLD住婆媽大小事**》是[台灣的談話性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[衛視中文台](../Page/衛視中文台.md "wikilink")開播，[星期一](../Page/星期一.md "wikilink")到[星期四於晚上](https://zh.wikipedia.org/wiki/星期四 "wikilink")8時至9時首播。
 
 ## 主持人
 

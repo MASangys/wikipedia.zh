@@ -1,6 +1,6 @@
 在编程领域，**JNI** （**Java Native
-Interface,Java本地接口**）是一种[编程框架](https://zh.wikipedia.org/wiki/编程框架 "wikilink")，使得[Java虚拟机中的](../Page/Java虚拟机.md "wikilink")[Java程序可以调用本地应用](../Page/Java.md "wikilink")/或库，也可以被其他程序调用。
-本地程序一般是用其它语言（[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++或](../Page/C++.md "wikilink")[汇编语言等](../Page/汇编语言.md "wikilink")）编写的，并且被编译为基于本机硬件和操作系统的程序。\[1\]
+Interface,Java本地接口**）是一种[编程框架](https://zh.wikipedia.org/wiki/编程框架 "wikilink")，使得[Java虚拟机](../Page/Java虚拟机.md "wikilink")中的[Java](../Page/Java.md "wikilink")程序可以调用本地应用/或库，也可以被其他程序调用。
+本地程序一般是用其它语言（[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")或[汇编语言](../Page/汇编语言.md "wikilink")等）编写的，并且被编译为基于本机硬件和操作系统的程序。\[1\]
 
 ## 设计目的和功能
 
@@ -15,7 +15,7 @@ JNI框架允许Native方法调用Java对象，就像Java程序访问Native对象
   - 依赖于JNI的应用失去了Java的平台移植性（一种解决办法是为每个平台编写专门的JNI代码，然后在Java代码中，根据操作系统载入正确的JNI代码）。
   - JNI框架并没有对 non-JVM
     内存提供自动垃圾回收机制，Native代码（如汇编语言）分配的内存和资源，需要其自身负责进行显式的释放。
-  - [Linux与](../Page/Linux.md "wikilink")[Solaris平台](../Page/Solaris.md "wikilink")，如果Native代码将自身注册为信号处理器（signal
+  - [Linux](../Page/Linux.md "wikilink")与[Solaris](../Page/Solaris.md "wikilink")平台，如果Native代码将自身注册为信号处理器（signal
     handler），就会拦-{截}-发给JVM的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。可以使用
     [责任链模式](../Page/责任链模式.md "wikilink") 让 Native代码更好地与JVM进行交互。\[2\]
   - Windows平台上，在SEH

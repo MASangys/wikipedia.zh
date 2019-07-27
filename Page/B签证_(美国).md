@@ -1,5 +1,5 @@
 [USA_Visa_-_Arg.jpg](https://zh.wikipedia.org/wiki/File:USA_Visa_-_Arg.jpg "fig:USA_Visa_-_Arg.jpg")人的一张B1/B2签证\]\]
-**B签证**又称**美国商务及旅游签证**，是[美国非移民](../Page/美国.md "wikilink")[签证中的一种](https://zh.wikipedia.org/wiki/签证 "wikilink")，其中包括：
+**B签证**又称**美国商务及旅游签证**，是[美国](../Page/美国.md "wikilink")非移民[签证中的一种](https://zh.wikipedia.org/wiki/签证 "wikilink")，其中包括：
 
   - **B-1签证**：**商务签证**，签发给前往美国进行短期商务活动的人员；
   - **B-2签证**：**旅游签证**，签发给前往美国旅游的人员。
@@ -745,7 +745,7 @@
 <td><p>12</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/免签证计划.md" title="wikilink">免签证计划参与国</a>[24]</p></td>
+<td><p><a href="../Page/免签证计划.md" title="wikilink">免签证计划</a>参与国[24]</p></td>
 <td><p>120</p></td>
 </tr>
 </tbody>

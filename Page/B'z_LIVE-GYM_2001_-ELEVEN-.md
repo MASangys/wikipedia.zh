@@ -1,9 +1,9 @@
 《**B'z LIVE-GYM 2001
--ELEVEN-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")18張LIVE作品映像化(第16張DVD)。
+-ELEVEN-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第18張LIVE作品映像化(第16張DVD)。
 
 ## 簡介
 
-紀念B'z結成25周年，所發行連續3場未發表演唱會的第二場，2001年7月15日於[西武巨蛋開唱](../Page/西武巨蛋.md "wikilink")
+紀念B'z結成25周年，所發行連續3場未發表演唱會的第二場，2001年7月15日於[西武巨蛋](../Page/西武巨蛋.md "wikilink")開唱
 
 ## 收錄會場
 

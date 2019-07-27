@@ -1,4 +1,4 @@
-***Aphrissa***是[粉蝶科](../Page/粉蝶科.md "wikilink")[黃粉蝶亞科裡的一個屬](../Page/黃粉蝶亞科.md "wikilink")，尚無正式中文學名命名。共有8個物種，分佈於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")\[1\]。
+***Aphrissa***是[粉蝶科](../Page/粉蝶科.md "wikilink")[黃粉蝶亞科](../Page/黃粉蝶亞科.md "wikilink")裡的一個屬，尚無正式中文學名命名。共有8個物種，分佈於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")\[1\]。
 
 ## 物種
 

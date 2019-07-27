@@ -22,7 +22,7 @@ Teere作詞](https://zh.wikipedia.org/wiki/La_Teere "wikilink")，並在2014年3
 
 <!-- end list -->
 
-  - 羅森・HMV限定盤（編號：JBCB-6018）：這版本包括了一片CD和一片收錄「愛心社區電台」（）主題節目《我們的未來構想圖》（）廣播內容的CD，並只在[羅森便利店與](../Page/羅森_\(便利店\).md "wikilink")[HMV發售](../Page/HMV.md "wikilink")\[7\]。
+  - 羅森・HMV限定盤（編號：JBCB-6018）：這版本包括了一片CD和一片收錄「愛心社區電台」（）主題節目《我們的未來構想圖》（）廣播內容的CD，並只在[羅森便利店與](../Page/羅森_\(便利店\).md "wikilink")[HMV](../Page/HMV.md "wikilink")發售\[7\]。
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@ Teere作詞](https://zh.wikipedia.org/wiki/La_Teere "wikilink")，並在2014年3
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 單曲日榜                                     | 4    | \-     | 23,654+ | 3星期  |
 | 單曲週榜                                     | 6    | 23,145 |         |      |

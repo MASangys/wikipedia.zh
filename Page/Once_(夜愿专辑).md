@@ -1,6 +1,6 @@
-《**Once**》是[芬兰](../Page/芬兰.md "wikilink")[力量金属乐队](../Page/力量金属.md "wikilink")[夜愿的第五章录音室专辑](../Page/夜愿.md "wikilink")，其由[Nuclear
+《**Once**》是[芬兰](../Page/芬兰.md "wikilink")[力量金属](../Page/力量金属.md "wikilink")乐队[夜愿](../Page/夜愿.md "wikilink")的第五章录音室专辑，其由[Nuclear
 Blast发行于](https://zh.wikipedia.org/wiki/Nuclear_Blast "wikilink")2004年6月7日、[Spinefarm发行于](https://zh.wikipedia.org/wiki/Spinefarm "wikilink")11月24日，而在美国则由[Roadrunner
-Records发行于](https://zh.wikipedia.org/wiki/Roadrunner_Records "wikilink")10月5日。在一次采访中，乐队主要歌词作者[托马斯·霍洛帕尼表示](https://zh.wikipedia.org/wiki/托马斯·霍洛帕尼 "wikilink")，标题Once的含义该由听着发现。每个名字自由其意——不过，他感到这言对于该专辑并不受用\[1\]。这是最后一张由[塔雅·图伦尼主唱的夜愿录音室专辑](../Page/塔雅·图伦尼.md "wikilink")\[2\]。
+Records发行于](https://zh.wikipedia.org/wiki/Roadrunner_Records "wikilink")10月5日。在一次采访中，乐队主要歌词作者[托马斯·霍洛帕尼表示](https://zh.wikipedia.org/wiki/托马斯·霍洛帕尼 "wikilink")，标题Once的含义该由听着发现。每个名字自由其意——不过，他感到这言对于该专辑并不受用\[1\]。这是最后一张由[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")主唱的夜愿录音室专辑\[2\]。
 
 ## 背景
 
@@ -33,7 +33,7 @@ Heatseekers排行榜上排到了第](https://zh.wikipedia.org/wiki/Top_Heatseeke
 在销量上，《Once》获得了芬兰的三白金唱片认证，德国的白金唱片认证\[18\]及瑞典的金唱片认证，随后专辑排到了匈牙利\[19\]及欧洲专辑榜的第一位\[20\]。单曲《Nemo》排在了芬兰\[21\]和匈牙利\[22\]的榜单的首位，并排进了三个国家榜单的前十位\[23\]\[24\]\[25\]。《Nemo》成为了夜愿史上最成功的单曲，而《Once》也在全部芬兰专辑中排第47名\[26\]。专辑的总销量超过100万份\[27\]。
 
 专辑的成功使乐队得以举办巡演Once Upon a
-Tour，并使他们在许多从没去过的国家演出。同时夜愿在2005年[赫尔辛基举办的世界锦标赛开幕式上进行了演出](../Page/赫尔辛基.md "wikilink")\[28\]。
+Tour，并使他们在许多从没去过的国家演出。同时夜愿在2005年[赫尔辛基](../Page/赫尔辛基.md "wikilink")举办的世界锦标赛开幕式上进行了演出\[28\]。
 
 ## 曲目列表
 
@@ -101,7 +101,7 @@ Tour，并使他们在许多从没去过的国家演出。同时夜愿在2005年
 <li><a href="../Page/塔雅·图伦尼.md" title="wikilink">塔雅·图伦尼</a> – <a href="https://zh.wikipedia.org/wiki/主唱" title="wikilink">主唱</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/托马斯·霍洛帕尼" title="wikilink">托马斯·霍洛帕尼</a> – <a href="https://zh.wikipedia.org/wiki/键盘" title="wikilink">键盘</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Emppu_Vuorinen" title="wikilink">Emppu Vuorinen</a> – <a href="../Page/吉他.md" title="wikilink">主吉他手</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Jukka_Nevalainen" title="wikilink">Jukka Nevalainen</a> – <a href="../Page/鼓.md" title="wikilink">鼓及</a><a href="../Page/打击乐器.md" title="wikilink">打击乐器</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Jukka_Nevalainen" title="wikilink">Jukka Nevalainen</a> – <a href="../Page/鼓.md" title="wikilink">鼓</a>及<a href="../Page/打击乐器.md" title="wikilink">打击乐器</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Marco_Hietala" title="wikilink">Marco Hietala</a> – <a href="https://zh.wikipedia.org/wiki/低音吉他" title="wikilink">低音吉他及男主唱</a></li>
 </ul>
 <h3 id="其他人员">其他人员</h3>

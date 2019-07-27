@@ -15,7 +15,7 @@ Media順利在1月[THQ的破產拍賣中收購了](https://zh.wikipedia.org/wiki
 Media也於當年12月收購了手機遊戲公司[Fishlabs
 Entertainment及其遊戲版權](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")\[9\]。兩間公司成為Deep
 Silver的子公司。Deep
-Silver也於當年宣布進入[手機遊戲界](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[10\]。2014年7月底，他們又從[Crytek手上收購了](../Page/Crytek.md "wikilink")《國土防線》系列的版權，並新建了工作室Dambuster
+Silver也於當年宣布進入[手機遊戲界](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[10\]。2014年7月底，他們又從[Crytek](../Page/Crytek.md "wikilink")手上收購了《國土防線》系列的版權，並新建了工作室Dambuster
 Studios接手續作遊戲開發。\[11\]
 
 2018年2月，奥地利游戏公司[THQ Nordic宣布收购](../Page/THQ_Nordic.md "wikilink")，而Deep
@@ -26,7 +26,7 @@ Silver作为子公司也一并被收购。而《黑道圣徒》、《地铁》�
 2013年1月15日，Deep
 Silver公佈了《[死亡島：激流](https://zh.wikipedia.org/wiki/死亡島：激流 "wikilink")》限定版本——Zombie
 Bait版。該版本除了遊戲之外，還包含了一具身穿比基尼泳衣、殭屍化的女性身體軀幹塑像模型。此舉在發布當天立即引發爭議和強烈抨擊，Deep
-Silver在當天下午為他們決定道歉，並在社交媒體[Twitter上發布了道歉公告](../Page/Twitter.md "wikilink")。\[13\]
+Silver在當天下午為他們決定道歉，並在社交媒體[Twitter](../Page/Twitter.md "wikilink")上發布了道歉公告。\[13\]
 
 ## 子公司
 
@@ -37,7 +37,7 @@ Goeldner在2006年創辦，並在翌年營運。\[15\]Hannes Seifert和Niki Labe
 Vienna的前創始人](../Page/Rockstar_Vienna.md "wikilink")，他們在2006年5月公司結業後創辦了GTH。\[16\]GTH在2007年被Koch
 Media收購，併入Deep Silver，成為Deep
 Siliver擁有的第一間工作室\[17\]。工作室在併入後開發了第一款、也是最後一款遊戲《[Cursed
-Mountain](https://zh.wikipedia.org/wiki/Cursed_Mountain "wikilink")》。這是一款[Wii平台獨占的驚悚](../Page/Wii.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2009年8月25日發行。\[18\]2010年，工作室因為當時整體的經濟情況而遭到關閉。\[19\]\[20\]
+Mountain](https://zh.wikipedia.org/wiki/Cursed_Mountain "wikilink")》。這是一款[Wii](../Page/Wii.md "wikilink")平台獨占的驚悚[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2009年8月25日發行。\[18\]2010年，工作室因為當時整體的經濟情況而遭到關閉。\[19\]\[20\]
 
 目前，Deep Silver擁有以下的工作室：
 
@@ -52,7 +52,7 @@ Mountain](https://zh.wikipedia.org/wiki/Cursed_Mountain "wikilink")》。這是�
   - [Dambuster
     Studios](https://zh.wikipedia.org/wiki/Dambuster_Studios "wikilink")（全稱**Deep
     Silver Dambuster Studios**）於2014年7月30日創建，位於英格蘭諾丁漢。當日和Deep
-    Silver宣布收購了[Crytek旗下的](../Page/Crytek.md "wikilink")《國土防線》系列，公司將遊戲續作《國土防線：革命》的開發交由Dambuster
+    Silver宣布收購了[Crytek](../Page/Crytek.md "wikilink")旗下的《國土防線》系列，公司將遊戲續作《國土防線：革命》的開發交由Dambuster
     Studios負責。\[23\]
 
 ## 遊戲

@@ -1,5 +1,5 @@
 「**DARK RIVER／Eternally／時鐘**」是
-[GLAY的第](../Page/GLAY.md "wikilink")48張單曲，也是第2張三A面單曲。
+[GLAY](../Page/GLAY.md "wikilink")的第48張單曲，也是第2張三A面單曲。
 
 ## 簡介
 
@@ -15,7 +15,7 @@ RIVER」的[MV由](https://zh.wikipedia.org/wiki/MV "wikilink")[關和亮擔任�
 1.  **DARK RIVER**
       -
         [NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")『激流〜還記得我嗎?〜』連續劇主題曲。
-        [製作人由](https://zh.wikipedia.org/wiki/製作人 "wikilink")[龜田誠治操刀](../Page/龜田誠治.md "wikilink")，首次和GLAY製作音樂。
+        [製作人由](https://zh.wikipedia.org/wiki/製作人 "wikilink")[龜田誠治](../Page/龜田誠治.md "wikilink")操刀，首次和GLAY製作音樂。
 2.  **Eternally**
       -
         「GLAY Special Live 2013 in HAKODATE GLORIOUS MILLION DOLLAR

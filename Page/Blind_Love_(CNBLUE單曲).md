@@ -1,5 +1,5 @@
 《**Blind
-Love**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第八張單曲](../Page/CNBLUE.md "wikilink")，由[李宗泫和Vinyl](../Page/李宗泫.md "wikilink")
+Love**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第八張單曲，由[李宗泫](../Page/李宗泫.md "wikilink")和Vinyl
 House 編寫歌曲及製作，並在2013年4月24日以三個不同版本推出。這也是他們第五張由[華納唱片
 (日本)發行的單曲](../Page/日本華納音樂.md "wikilink")\[1\]。
 
@@ -12,9 +12,9 @@ House 編寫歌曲及製作，並在2013年4月24日以三個不同版本推出�
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本、不同的隨附卡序列碼和一張參加特別活動的抽獎券。
 
   - 初回限定盤A：這版本包括了一片收錄了《With Your
-    Eyes》的純音樂版本的單曲CD、一片收錄2012年12月24日在[國立代代木競技場第一體育館舉行之](../Page/國立代代木競技場.md "wikilink")《Music
+    Eyes》的純音樂版本的單曲CD、一片收錄2012年12月24日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行之《Music
     for All, All for One》音樂會片段及《Blind
-    Love》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")、一張參加特別活動的抽獎券和隨附卡序列碼版本A\[5\]。
+    Love》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD、一張參加特別活動的抽獎券和隨附卡序列碼版本A\[5\]。
 
 <!-- end list -->
 
@@ -27,9 +27,9 @@ House 編寫歌曲及製作，並在2013年4月24日以三個不同版本推出�
 
 ## 單曲內容
 
-《Blind Love》由CNBLUE成員[李宗泫和Vinyl](../Page/李宗泫.md "wikilink")
+《Blind Love》由CNBLUE成員[李宗泫](../Page/李宗泫.md "wikilink")和Vinyl
 House創作，宗泫同時創作了B面第一首歌《With Your
-Eyes》。另一位成員[鄭容和則和金在陽](../Page/鄭容和.md "wikilink")（）創作了B面第二首歌《Greedy
+Eyes》。另一位成員[鄭容和](../Page/鄭容和.md "wikilink")則和金在陽（）創作了B面第二首歌《Greedy
 Man》。
 
 ## 曲目
@@ -40,7 +40,7 @@ Man》。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量           | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量           | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------------- | ---- |
 | 單曲日榜                                     | 2    | 35,773 | 54,003+ \[8\] | 9週   |
 | 單曲週榜                                     | 4    | 47,577 |               |      |

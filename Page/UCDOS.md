@@ -1,14 +1,14 @@
 [UCDOS_7.0.png](https://zh.wikipedia.org/wiki/File:UCDOS_7.0.png "fig:UCDOS_7.0.png")
-**UCDOS**是北京希望公司研制的汉字系统，运行于[DOS环境下](../Page/DOS.md "wikilink")，是20世纪80年代到90年代较为流行的中文系统。\[1\]\[2\]
+**UCDOS**是北京希望公司研制的汉字系统，运行于[DOS](../Page/DOS.md "wikilink")环境下，是20世纪80年代到90年代较为流行的中文系统。\[1\]\[2\]
 
 ## 历史
 
 1987年，北京希望电脑公司推出了希望汉字系统的第一个版本——超级组合式汉字系统UCDOS 1.0。在UCDOS
 1.0的基础上，1989年和1992年，希望公司又先后推出了UCDOS 2.0和UCDOS
-2.2版。由于这些版本采用对[DOS进行汉化的思路设计](../Page/DOS.md "wikilink")，汉字系统依赖于具体的DOS版本。\[3\]
+2.2版。由于这些版本采用对[DOS](../Page/DOS.md "wikilink")进行汉化的思路设计，汉字系统依赖于具体的DOS版本。\[3\]
 
 1992年，[鲍岳桥发布了DOS中文平台PTDOS](https://zh.wikipedia.org/wiki/鲍岳桥 "wikilink")
-1.0，PT即为汉字“平台”的[汉语拼音首字母](../Page/汉语拼音.md "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。1993年PTDOS
+1.0，PT即为汉字“平台”的[汉语拼音](../Page/汉语拼音.md "wikilink")首字母[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。1993年PTDOS
 2.0发布，由希望公司代销。\[4\]
 
 在鲍岳桥加入希望公司后，1993年9月，希望公司推出了UCDOS 3.0。

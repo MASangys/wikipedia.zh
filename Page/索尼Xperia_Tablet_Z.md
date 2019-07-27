@@ -1,5 +1,5 @@
 **Sony Xperia™Tablet
-Z**，是[索尼移动通信在](../Page/索尼移动通信.md "wikilink")2013年1月21日[NTT
+Z**，是[索尼移动通信](../Page/索尼移动通信.md "wikilink")在2013年1月21日[NTT
 DoCoMo开展前夕所发布的新旗舰级](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[Android](../Page/Android.md "wikilink")™[平板電腦](../Page/平板電腦.md "wikilink")\[1\]。此平板為9.4吋的[Sony
 Xperia Tablet S後繼機種](../Page/Sony_Xperia_Tablet_S.md "wikilink")。
 

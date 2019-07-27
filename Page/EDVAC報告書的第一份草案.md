@@ -1,6 +1,6 @@
 [Firstdraftofrepo00vonn_0003.jpg](https://zh.wikipedia.org/wiki/File:Firstdraftofrepo00vonn_0003.jpg "fig:Firstdraftofrepo00vonn_0003.jpg")報告書的第一份草案封面\]\]
 [ENIAC_Penn1.jpg](https://zh.wikipedia.org/wiki/File:ENIAC_Penn1.jpg "fig:ENIAC_Penn1.jpg")
-《**[EDVAC報告書的第一份草案](../Page/EDVAC.md "wikilink")**》（），一般簡稱為***第一份草案***，是由[约翰·冯·诺伊曼所撰寫共](../Page/约翰·冯·诺伊曼.md "wikilink")101頁文件，於1945年6月30日，由[ENIAC機密計劃的安全官](https://zh.wikipedia.org/wiki/ENIAC "wikilink")所發表。內容包含了第一次公諸於世的使用儲存程式概念電腦的邏輯設計描述，即後來成為眾所熟知且頗具爭議的[范紐曼型架構](../Page/冯·诺伊曼结构.md "wikilink")。
+《**[EDVAC](../Page/EDVAC.md "wikilink")報告書的第一份草案**》（），一般簡稱為***第一份草案***，是由[约翰·冯·诺伊曼](../Page/约翰·冯·诺伊曼.md "wikilink")所撰寫共101頁文件，於1945年6月30日，由[ENIAC機密計劃的安全官](https://zh.wikipedia.org/wiki/ENIAC "wikilink")所發表。內容包含了第一次公諸於世的使用儲存程式概念電腦的邏輯設計描述，即後來成為眾所熟知且頗具爭議的[范紐曼型架構](../Page/冯·诺伊曼结构.md "wikilink")。
 
 ## 歷史
 
@@ -25,7 +25,7 @@
 
 [Julian_Bigelow.jpg](https://zh.wikipedia.org/wiki/File:Julian_Bigelow.jpg "fig:Julian_Bigelow.jpg")左二：\]\]
 
-將這份初始報告公開（在法律的觀點上）而成為[EDVAC設計團隊間激烈內鬨的源由](../Page/EDVAC.md "wikilink")，其原因有兩個。\[2\]第一，公布此份報告阻礙了EDVAC的專利申請；第二，有一部分的EDVAC設計團隊為了爭奪儲存程式概念，於是修改了在[賓州大學](https://zh.wikipedia.org/wiki/賓州大學 "wikilink")對於開發此概念相關的會議日期，使之較馮·諾伊曼於該學院擔任顧問日期還早。在《第一份草案》中所記載的很多工作成果與經過討論的概念所轉化成的正規[邏輯語言所呈現的並不一致](https://zh.wikipedia.org/wiki/邏輯 "wikilink")，而此一正規[邏輯語言是馮](https://zh.wikipedia.org/wiki/邏輯 "wikilink")·諾伊曼所熟悉的，因此，馮·諾伊曼與戈德斯坦並沒有在*第一份草案*上列出其他人為作者，只單獨歸功於馮·諾伊曼一人。
+將這份初始報告公開（在法律的觀點上）而成為[EDVAC](../Page/EDVAC.md "wikilink")設計團隊間激烈內鬨的源由，其原因有兩個。\[2\]第一，公布此份報告阻礙了EDVAC的專利申請；第二，有一部分的EDVAC設計團隊為了爭奪儲存程式概念，於是修改了在[賓州大學](https://zh.wikipedia.org/wiki/賓州大學 "wikilink")對於開發此概念相關的會議日期，使之較馮·諾伊曼於該學院擔任顧問日期還早。在《第一份草案》中所記載的很多工作成果與經過討論的概念所轉化成的正規[邏輯語言所呈現的並不一致](https://zh.wikipedia.org/wiki/邏輯 "wikilink")，而此一正規[邏輯語言是馮](https://zh.wikipedia.org/wiki/邏輯 "wikilink")·諾伊曼所熟悉的，因此，馮·諾伊曼與戈德斯坦並沒有在*第一份草案*上列出其他人為作者，只單獨歸功於馮·諾伊曼一人。
 
 ## 參考
 

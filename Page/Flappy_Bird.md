@@ -1,5 +1,5 @@
 《**Flappy
-Bird**》是一款2013年[鳥飛類遊戲](../Page/鳥飛.md "wikilink")，由[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[河內獨立遊戲开发者](https://zh.wikipedia.org/wiki/河內 "wikilink")[阮河東](../Page/阮河東.md "wikilink")（Dong
+Bird**》是一款2013年[鳥飛](../Page/鳥飛.md "wikilink")類遊戲，由[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[河內獨立遊戲开发者](https://zh.wikipedia.org/wiki/河內 "wikilink")[阮河東](../Page/阮河東.md "wikilink")（Dong
 Nguyen）開發\[1\]\[2\]\[3\]\[4\]，另一個獨立遊戲开发商.GEARS
 Studios發佈。\[5\]此遊戲原本於2013年5月發佈，平台為[iPhone
 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")。同年9月，作者將遊戲更新至[iOS
@@ -31,7 +31,7 @@ Bird》獲《[赫芬頓郵報](https://zh.wikipedia.org/wiki/赫芬頓郵報 "wi
 Crush的受歡迎程度下降和炒作而超越《[Candy Crush
 Saga](../Page/Candy_Crush_Saga.md "wikilink")》成為2014年最受歡迎遊戲。\[20\]
 
-此遊戲的難度亦導致不少玩家感到憤怒，其中一位玩家更指出他自己用了半小時才能獲得5分。\[21\]根據作者本人指出\[22\]，此遊戲的[Android版本要比](../Page/Android.md "wikilink")[iOS版本容易](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[23\]另外，此遊戲亦被稱為「App
+此遊戲的難度亦導致不少玩家感到憤怒，其中一位玩家更指出他自己用了半小時才能獲得5分。\[21\]根據作者本人指出\[22\]，此遊戲的[Android](../Page/Android.md "wikilink")版本要比[iOS版本容易](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[23\]另外，此遊戲亦被稱為「App
 Store的毒品」（）。\[24\]
 
 ## 爭議
@@ -39,7 +39,7 @@ Store的毒品」（）。\[24\]
 因為此遊戲的迅速爆紅，所以部份媒體質疑作者在2014年初利用機器人大幅增加此遊戲的下載次數。\[25\]當阮河東被《[每日電訊報](https://zh.wikipedia.org/wiki/每日電訊報 "wikilink")》採訪時，他說：「我尊重所有其他人的意見。我不會因提出任何評論。我希望我的遊戲能得到和平。」\[26\]但是，當《[新闻周刊](../Page/新闻周刊.md "wikilink")》提出相同的問題時，阮河東卻在twitter上說：「這並不要緊。難道你不這樣覺得嗎？……如果我真的偽造了下載次數，蘋果公司應該還會讓它存活多幾個月。」
 \[27\]
 
-此遊戲亦被[Kotaku批評公開使用超級瑪利歐的設計樣式](../Page/Kotaku.md "wikilink")，並將遊戲等同於「盗窃」。\[28\]
+此遊戲亦被[Kotaku](../Page/Kotaku.md "wikilink")批評公開使用超級瑪利歐的設計樣式，並將遊戲等同於「盗窃」。\[28\]
 
 此遊戲在上市後有大量的衍生作品出現，例如Hacker Diary\[29\]、Flappy MMO、Flappy fario
 等作品出現，Google 和 Apple 甚至將全部含有Flappy 名稱的遊戲都一起下架，避免形成Flappy

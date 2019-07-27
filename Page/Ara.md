@@ -1,10 +1,10 @@
 **Project
-Ara**是[Google先進科技與計畫部門的一項專案](https://zh.wikipedia.org/wiki/Google先進科技與計畫部門 "wikilink")，目的是希望透過[開源硬件開發一款可高度](../Page/開源硬件.md "wikilink")[模組化的](https://zh.wikipedia.org/wiki/模組 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。該專案允許[消費者自由選擇與替換甚至移除任何的零組件](https://zh.wikipedia.org/wiki/消費者 "wikilink")，包括[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")、[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[電池及其他等等手機常見的零組件](https://zh.wikipedia.org/wiki/電池 "wikilink")，這使得消費者可以輕鬆替換掉單一的一個故障致或過時的零組件，從而減少[電子垃圾](https://zh.wikipedia.org/wiki/電子垃圾 "wikilink")，並且延長手機的[產品生命週期](https://zh.wikipedia.org/wiki/產品生命週期 "wikilink")\[1\]\[2\]。
+Ara**是[Google先進科技與計畫部門的一項專案](https://zh.wikipedia.org/wiki/Google先進科技與計畫部門 "wikilink")，目的是希望透過[開源硬件](../Page/開源硬件.md "wikilink")開發一款可高度[模組化的](https://zh.wikipedia.org/wiki/模組 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。該專案允許[消費者自由選擇與替換甚至移除任何的零組件](https://zh.wikipedia.org/wiki/消費者 "wikilink")，包括[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")、[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[電池及其他等等手機常見的零組件](https://zh.wikipedia.org/wiki/電池 "wikilink")，這使得消費者可以輕鬆替換掉單一的一個故障致或過時的零組件，從而減少[電子垃圾](https://zh.wikipedia.org/wiki/電子垃圾 "wikilink")，並且延長手機的[產品生命週期](https://zh.wikipedia.org/wiki/產品生命週期 "wikilink")\[1\]\[2\]。
 
 Project
 Ara原先由[Motorola旗下的先進科技與計畫部門負責](https://zh.wikipedia.org/wiki/Motorola "wikilink")。雖然Google將Motorola出售給[聯想集團](https://zh.wikipedia.org/wiki/聯想集團 "wikilink")，但該部門仍屬於Google旗下，是Google專案之一。
 
-2016年9月1日[路透社根據Google內部人士消息報導](../Page/路透社.md "wikilink")，Google已停止Project
+2016年9月1日[路透社](../Page/路透社.md "wikilink")根據Google內部人士消息報導，Google已停止Project
 Ara開發計畫\[3\]；該消息在同月2日被Google發言人向科技新聞網站VentureBeat證實。\[4\]
 
 ## 框架與模組

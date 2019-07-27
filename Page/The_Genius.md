@@ -1,5 +1,5 @@
 《**The
-Genius**》（），是韓國[TVN電視台的心理戰遊戲綜藝節目](../Page/TVN.md "wikilink")，第一季逢周五晚間11點30分（韓國時間）播出，第二季逢周六晚間11點30分（韓國時間）播出，第三季逢周三晚間11點30分（韓國時間），第四季逢周六晚間9點45分（韓國時間）播出，目前播放至第四季。每季會邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]
+Genius**》（），是韓國[TVN](../Page/TVN.md "wikilink")電視台的心理戰遊戲綜藝節目，第一季逢周五晚間11點30分（韓國時間）播出，第二季逢周六晚間11點30分（韓國時間）播出，第三季逢周三晚間11點30分（韓國時間），第四季逢周六晚間9點45分（韓國時間）播出，目前播放至第四季。每季會邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]
 
 第一季《**The Genius 遊戲的法則**》（）於2013年4月26日至7月12日播出。
 
@@ -57,7 +57,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a> 김성규</p></td>
-<td><p>歌手(組合<a href="../Page/INFINITE.md" title="wikilink">INFINITE隊長</a>)</p></td>
+<td><p>歌手(組合<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>隊長)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/車敏洙" title="wikilink">車敏洙</a> 차민수</p></td>
@@ -791,7 +791,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a> 은지원</p></td>
-<td><p><a href="../Page/水晶男孩.md" title="wikilink">水晶男孩隊長</a></p></td>
+<td><p><a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>隊長</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/林遙煥" title="wikilink">林遙煥</a> 임요환</p></td>

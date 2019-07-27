@@ -1,5 +1,5 @@
 **Ho Hoo
-Tan**為[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")2006年一張粵語專輯，於2006年9月21日在[香港發行](../Page/香港.md "wikilink")。
+Tan**為[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")2006年一張粵語專輯，於2006年9月21日在[香港](../Page/香港.md "wikilink")發行。
 
 ## 簡介
 
@@ -11,10 +11,10 @@ Tan》分別有兩款雙封面CD發售，附碟附送︰三首MV、Twins塞班�
 主打歌之一「熱浪假期」乃Twins
 2006年最新快歌，配合塞班島的熱浪，兩位小妮子在塞班島沙灘拍攝跳舞鏡頭時，猶如開派對，在MV中更邀請塞班小姐冠軍及當地原居民客串演出，Twins與眾同樂開心地跳舞唱歌。
 
-自上一張《[一時無兩](../Page/一時無兩.md "wikilink")》後，[伍樂城的創作便逐漸減少](../Page/伍樂城.md "wikilink")，這次也是僅創作了兩首歌：大路情歌的「自以為是」以及電子樂舞曲的「眼看心勿動」，兩首歌皆不是專輯的主打歌。而[蔡卓妍在這張專輯上首次獻出處女作](../Page/蔡卓妍.md "wikilink")「你不是好情人」，而她本人亦有演唱了獨唱版\[1\]。
+自上一張《[一時無兩](../Page/一時無兩.md "wikilink")》後，[伍樂城](../Page/伍樂城.md "wikilink")的創作便逐漸減少，這次也是僅創作了兩首歌：大路情歌的「自以為是」以及電子樂舞曲的「眼看心勿動」，兩首歌皆不是專輯的主打歌。而[蔡卓妍](../Page/蔡卓妍.md "wikilink")在這張專輯上首次獻出處女作「你不是好情人」，而她本人亦有演唱了獨唱版\[1\]。
 
 [Edward
-Chan上張專輯負責了第一主打歌](https://zh.wikipedia.org/wiki/陳浩然 "wikilink")，這張專輯也是如此，「熱浪假期」為「森巴皇后」（國語版為「森巴」）的延續。蔡志浩第一次和[Twins合作](https://zh.wikipedia.org/wiki/Twins "wikilink")，寫了搖滾味道的「我不儲錢」。大碟中有兩首改編作品，「桃紅結他」及「夏雨」是Twins相隔4年後再次翻唱歌曲。舊班底[黃丹義為](https://zh.wikipedia.org/wiki/黃丹義 "wikilink")[鍾欣潼寫了](../Page/鍾欣潼.md "wikilink")「非君不嫁」。碟內還收錄了不少Twins近來拍攝電影的歌曲，包括Twins合演的《雙子神偷》主題曲「天下有雙」及阿Sa主演電影《妄想》主題曲「你不是好情人」。 大碟結尾曲「Brun
+Chan上張專輯負責了第一主打歌](https://zh.wikipedia.org/wiki/陳浩然 "wikilink")，這張專輯也是如此，「熱浪假期」為「森巴皇后」（國語版為「森巴」）的延續。蔡志浩第一次和[Twins合作](https://zh.wikipedia.org/wiki/Twins "wikilink")，寫了搖滾味道的「我不儲錢」。大碟中有兩首改編作品，「桃紅結他」及「夏雨」是Twins相隔4年後再次翻唱歌曲。舊班底[黃丹義為](https://zh.wikipedia.org/wiki/黃丹義 "wikilink")[鍾欣潼](../Page/鍾欣潼.md "wikilink")寫了「非君不嫁」。碟內還收錄了不少Twins近來拍攝電影的歌曲，包括Twins合演的《雙子神偷》主題曲「天下有雙」及阿Sa主演電影《妄想》主題曲「你不是好情人」。 大碟結尾曲「Brun
 It Up
 Medley」為2006年[MTV封神榜萬人演唱會上演唱的曲目](https://zh.wikipedia.org/wiki/MTV "wikilink")。
 

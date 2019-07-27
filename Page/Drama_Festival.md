@@ -645,7 +645,7 @@ Festival》（）為[MBC製作之獨幕劇](https://zh.wikipedia.org/wiki/文化
 [Category:MBC電視劇](https://zh.wikipedia.org/wiki/Category:MBC電視劇 "wikilink")
 [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
 
-1.  改編自[石田衣良著作之](../Page/石田衣良.md "wikilink")[同名短篇小說集](../Page/4TEEN十四歲.md "wikilink")。
+1.  改編自[石田衣良](../Page/石田衣良.md "wikilink")著作之[同名短篇小說集](../Page/4TEEN十四歲.md "wikilink")。
 
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 

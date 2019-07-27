@@ -7,7 +7,7 @@ Bridge微架構](https://zh.wikipedia.org/wiki/Intel_Sandy_Bridge "wikilink")。
 和Ivy
 Bridge微架構一樣，採用22[納米製程](https://zh.wikipedia.org/wiki/納米 "wikilink")\[2\]
 根據英特爾的“[Tick-Tock](../Page/Intel_Tick-Tock.md "wikilink")”策略和產品路線圖，基於Intel
-Haswell微架構的處理器定於2013年6月發布。\[3\]\[4\]Intel曾於2011年的[IDF上展示出基於Haswell微架構的](https://zh.wikipedia.org/wiki/IDF "wikilink")[晶片](https://zh.wikipedia.org/wiki/晶片 "wikilink")。\[5\]2012年的[英特爾開發者論壇上](../Page/英特爾開發者論壇.md "wikilink")，英特爾公佈了更多關於Haswell架構的工程樣品處理器和技術說明。\[6\]在2013年6月4日至6月8日的[台北國際電腦展上](https://zh.wikipedia.org/wiki/台北國際電腦展 "wikilink")，英特爾正式推出Haswell微架構以及其處理器產品。\[7\]
+Haswell微架構的處理器定於2013年6月發布。\[3\]\[4\]Intel曾於2011年的[IDF上展示出基於Haswell微架構的](https://zh.wikipedia.org/wiki/IDF "wikilink")[晶片](https://zh.wikipedia.org/wiki/晶片 "wikilink")。\[5\]2012年的[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")上，英特爾公佈了更多關於Haswell架構的工程樣品處理器和技術說明。\[6\]在2013年6月4日至6月8日的[台北國際電腦展上](https://zh.wikipedia.org/wiki/台北國際電腦展 "wikilink")，英特爾正式推出Haswell微架構以及其處理器產品。\[7\]
 
 ## 技術特性
 
@@ -21,7 +21,7 @@ Bridge快兩倍。\[9\] 英特爾稱在某些工作负荷上Haswell架構的效�
 
 #### 製程
 
-  - 更成熟的22[奈米製程](https://zh.wikipedia.org/wiki/奈米 "wikilink")，大幅改善漏電率（這裡的漏電指高製程晶片於運作時，部分電子因[量子穿隧效應而由非電路或電路元件的](../Page/量子穿隧效應.md "wikilink")[矽中穿過](https://zh.wikipedia.org/wiki/矽 "wikilink")）；\[10\]
+  - 更成熟的22[奈米製程](https://zh.wikipedia.org/wiki/奈米 "wikilink")，大幅改善漏電率（這裡的漏電指高製程晶片於運作時，部分電子因[量子穿隧效應](../Page/量子穿隧效應.md "wikilink")而由非電路或電路元件的[矽中穿過](https://zh.wikipedia.org/wiki/矽 "wikilink")）；\[10\]
   - 更成熟的[3D](https://zh.wikipedia.org/wiki/3D "wikilink")-三柵極[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")；\[11\]
 
 #### 處理器核心
@@ -33,7 +33,7 @@ Bridge快兩倍。\[9\] 英特爾稱在某些工作负荷上Haswell架構的效�
   - 每核心8指令發射端口，可同時執行8條內部指令（uOPs），以實現4倍整數運算（Intel Sandy Bridge/Ivy
     Bridge為6uOPs/3倍整數運算）。\[15\]
   - 2個256位元的SIMD單元，以便支援[Larrabee](../Page/Intel_Larrabee.md "wikilink")/[Knight系列的](https://zh.wikipedia.org/wiki/Intel_Knight "wikilink")512位元SIMD；\[16\]
-  - 類似於X79晶片組平台（使用LGA2011插座）的可調節[外頻](https://zh.wikipedia.org/wiki/外頻 "wikilink")/基準時鐘頻率（處理器外頻與基準時脈異步），意味著Haswell平台的[超頻限制放寬](../Page/超頻.md "wikilink")。\[17\]\[18\]實際上，由於QPI環形鏈路的設計使得核心電源和時脈管理出現這樣的混亂：由於三級快取是CPU核心和GPU核心共用，但三級快取的電壓控制以及時脈控制是和CPU核心的同步的，當CPU核心處於低負載而內建GPU核心處於高負載時，三級快取需要處於全速運作狀態，連帶CPU核心也需要全速運作，這樣不利於處理器的功耗控制。英特爾要解決這個問題，需要CPU核心的基準時脈與非CPU核心的異步。\[19\]
+  - 類似於X79晶片組平台（使用LGA2011插座）的可調節[外頻](https://zh.wikipedia.org/wiki/外頻 "wikilink")/基準時鐘頻率（處理器外頻與基準時脈異步），意味著Haswell平台的[超頻](../Page/超頻.md "wikilink")限制放寬。\[17\]\[18\]實際上，由於QPI環形鏈路的設計使得核心電源和時脈管理出現這樣的混亂：由於三級快取是CPU核心和GPU核心共用，但三級快取的電壓控制以及時脈控制是和CPU核心的同步的，當CPU核心處於低負載而內建GPU核心處於高負載時，三級快取需要處於全速運作狀態，連帶CPU核心也需要全速運作，這樣不利於處理器的功耗控制。英特爾要解決這個問題，需要CPU核心的基準時脈與非CPU核心的異步。\[19\]
   - 主流級處理器產品全線均為原生[四核心](https://zh.wikipedia.org/wiki/多核心 "wikilink")，\[20\]但實際上，英特爾公佈的技術說明已表明下一代的酷睿
     i3（Core i3）、奔騰（Pentium）系列仍維持雙核心的設計。\[21\]
   - 英特爾[事务性同步扩展](https://zh.wikipedia.org/wiki/事务性同步扩展 "wikilink")
@@ -84,12 +84,12 @@ Bridge快兩倍。\[9\] 英特爾稱在某些工作负荷上Haswell架構的效�
   - 新的高級電源管理，除了傳統的EIST和Turbo
     Boost以外，新增了幾個電力控制狀態，對於CPU核心和內建GPU核心將會有更明確精細的電壓控制，類似於對手[超微半導體](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")（[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")）的Turbo
     Core 3.0；\[53\]\[54\]
-  - 行動版本的處理器將有[熱設計功耗為](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")25瓦、37瓦、47瓦以及57瓦的型號\[55\]；而桌機版本的預期則有熱設計功耗為35瓦、45瓦、55瓦、65瓦、77瓦、95瓦以及極致效能（包括高階[伺服器平台的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")）高達100瓦以上TDP的型號\[56\]，最高達到了Haswell-EP/EX的160瓦，最大通過電流190安培\[57\]\[58\]，不過有消息指出，由於增大的顯示核心，主流級和效能級桌面版本處理器的熱設計功耗有可能上揚至105瓦\[59\]；除了流動平台、桌面平台以及伺服器平台以外，Intel還專門為[超極致筆電設計了](../Page/Ultrabook.md "wikilink")[TDP只有](https://zh.wikipedia.org/wiki/TDP "wikilink")15W、10W的版本，而且還將採用[多晶片模組的設計](../Page/多晶片模組.md "wikilink")，將晶片組和處理器整合到一塊處理器[基板上](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，類似於[Intel
+  - 行動版本的處理器將有[熱設計功耗為](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")25瓦、37瓦、47瓦以及57瓦的型號\[55\]；而桌機版本的預期則有熱設計功耗為35瓦、45瓦、55瓦、65瓦、77瓦、95瓦以及極致效能（包括高階[伺服器平台的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")）高達100瓦以上TDP的型號\[56\]，最高達到了Haswell-EP/EX的160瓦，最大通過電流190安培\[57\]\[58\]，不過有消息指出，由於增大的顯示核心，主流級和效能級桌面版本處理器的熱設計功耗有可能上揚至105瓦\[59\]；除了流動平台、桌面平台以及伺服器平台以外，Intel還專門為[超極致筆電設計了](../Page/Ultrabook.md "wikilink")[TDP只有](https://zh.wikipedia.org/wiki/TDP "wikilink")15W、10W的版本，而且還將採用[多晶片模組](../Page/多晶片模組.md "wikilink")的設計，將晶片組和處理器整合到一塊處理器[基板上](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，類似於[Intel
     Westmere中顯示核心和CPU核心整合於一塊處理器基板的形式](https://zh.wikipedia.org/wiki/Intel_Westmere "wikilink")。\[60\]\[61\]\[62\]\[63\]\[64\]
 
 ### 預期特性
 
-  - 支援[Thunderbolt技術](../Page/Thunderbolt.md "wikilink")。\[65\]
+  - 支援[Thunderbolt](../Page/Thunderbolt.md "wikilink")技術。\[65\]
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@ i7-4790用以取代i7-4771而非i7-4770。
 
 ### 8系列[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")
 
-  - 支援[USB3.0並最多提供](../Page/USB.md "wikilink")6個[連接埠](https://zh.wikipedia.org/wiki/連接埠 "wikilink")
+  - 支援[USB](../Page/USB.md "wikilink")3.0並最多提供6個[連接埠](https://zh.wikipedia.org/wiki/連接埠 "wikilink")
   - 支援[SATA 6.0Gb/s並提供最多](../Page/SATA.md "wikilink")6個連接埠
   - 優化[硬碟資料傳送效能](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，提高資料存取和響應能力，特別是[固態硬碟](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")
   - 優化英特爾智能響應技術及其支援[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")
@@ -123,7 +123,7 @@ i7-4790用以取代i7-4771而非i7-4770。
 消費級平臺上，最高階型號為Z87，支援所有特性；H87不支援動態硬碟加速以及3路PCI-E顯示卡互聯；而最低階的H81取代舊有的H61，僅支援單路PCI-E
 2.0 16倍速+六條PCI-E 2.0 1倍速、兩個USB 3.0連接埠+八個USB 2.0連接埠、兩個SATA
 6Gbps連接埠+兩個SATA
-3Gbps連接埠（無[RAID和](../Page/RAID.md "wikilink")[AHCI](../Page/AHCI.md "wikilink")），以及每通道記憶體只支援一個DIMM（亦即每通道僅能插入一條DDR3記憶體）。除此以外，B85也會取代B75，規格和H87相近但不支援高級硬碟特性。\[70\]\[71\]一些有一定研发实力的厂商，如[华硕电脑](https://zh.wikipedia.org/wiki/华硕电脑 "wikilink")、[华擎科技](https://zh.wikipedia.org/wiki/华擎科技 "wikilink")、[技嘉科技等](../Page/技嘉科技.md "wikilink")，推出的H87、B85芯片组的主板支持一些处理器型号的倍频调整或是基准频率的调整以实现处理器的超频。\[72\]\[73\]\[74\]\[75\]
+3Gbps連接埠（無[RAID](../Page/RAID.md "wikilink")和[AHCI](../Page/AHCI.md "wikilink")），以及每通道記憶體只支援一個DIMM（亦即每通道僅能插入一條DDR3記憶體）。除此以外，B85也會取代B75，規格和H87相近但不支援高級硬碟特性。\[70\]\[71\]一些有一定研发实力的厂商，如[华硕电脑](https://zh.wikipedia.org/wiki/华硕电脑 "wikilink")、[华擎科技](https://zh.wikipedia.org/wiki/华擎科技 "wikilink")、[技嘉科技](../Page/技嘉科技.md "wikilink")等，推出的H87、B85芯片组的主板支持一些处理器型号的倍频调整或是基准频率的调整以实现处理器的超频。\[72\]\[73\]\[74\]\[75\]
 
 商務平臺由Q87、Q85分別取代Q77、Q75。\[76\]\[77\]
 
@@ -160,7 +160,7 @@ G3258)，英特爾8系列和9系列的晶片組均可支援。\[92\]除此以外
 ### 企業級處理器
 
 Intel為在[高效能計算和高效能資料中心領域對抗](https://zh.wikipedia.org/wiki/超級計算機 "wikilink")[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")“[Project
-Denver](../Page/Project_Denver.md "wikilink")”的新形態處理器（基於[ARM的](https://zh.wikipedia.org/wiki/ARM "wikilink")[指令集架構的處理器並整合NVIDIA基於](../Page/指令集架構.md "wikilink")“Maxwell”架構的[GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink")），將推出極致效能的x86處理器核心Haswell-EP/EX，最高支援[八通道](https://zh.wikipedia.org/wiki/多通道 "wikilink")[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-4266，熱設計功耗高達160[瓦](../Page/瓦特.md "wikilink")，往下還有145瓦、135瓦、120瓦等幾個階層。\[95\]\[96\]\[97\]
+Denver](../Page/Project_Denver.md "wikilink")”的新形態處理器（基於[ARM的](https://zh.wikipedia.org/wiki/ARM "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")的處理器並整合NVIDIA基於“Maxwell”架構的[GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink")），將推出極致效能的x86處理器核心Haswell-EP/EX，最高支援[八通道](https://zh.wikipedia.org/wiki/多通道 "wikilink")[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-4266，熱設計功耗高達160[瓦](../Page/瓦特.md "wikilink")，往下還有145瓦、135瓦、120瓦等幾個階層。\[95\]\[96\]\[97\]
 
 ## 效能表現
 
@@ -169,7 +169,7 @@ Denver](../Page/Project_Denver.md "wikilink")”的新形態處理器（基於[A
   - Haswell的CPU核心預期至少有10%～20%的效能提升，相對於Ivy
     Bridge的製品；\[98\]不過根據2013年3月流出的Core
     i7-4770K的工程樣品顯示，整體效能水平相較于前兩代的Core i7而言提升幅度仍然有限。\[99\]\[100\]
-  - 最高階的內建[圖形處理器是HD](../Page/圖形處理器.md "wikilink") Graphics
+  - 最高階的內建[圖形處理器](../Page/圖形處理器.md "wikilink")是HD Graphics
     4600預計會有翻倍的效能，相對於HD Graphics
     4000，而實際上提升幅度和上一代的一樣，而且仍然不及對手[超微半導體的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[AMD
     Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")

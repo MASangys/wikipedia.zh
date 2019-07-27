@@ -1,4 +1,4 @@
-本頁為[假面騎士Decade所登場的卡片做詳細介紹](../Page/假面騎士Decade.md "wikilink")，而劇中卡片的玩具版大多可使用於街機遊戲《[假面騎士大亂鬥
+本頁為[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")所登場的卡片做詳細介紹，而劇中卡片的玩具版大多可使用於街機遊戲《[假面騎士大亂鬥
 GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")》。
 
 ## 卡片類型
@@ -723,7 +723,7 @@ Decade可從握把抽出Faiz EDGE。[5]</p></td>
 
 ## FFR必殺技之比較
 
-| 對應騎士   | 招式名稱                     | [假面騎士Decade本編](../Page/假面騎士Decade.md "wikilink")                  | [GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")                              |
+| 對應騎士   | 招式名稱                     | [假面騎士Decade](../Page/假面騎士Decade.md "wikilink")本編                  | [GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")                              |
 | ------ | ------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | 空我     | DCDA(-{Decade Assualt}-) | 空我格雷姆背上的翅膀會展開，並以頭上的角鉗著敵人，向著Decade飛去，而Decade則使出飛踢。                 | Decade搭乘格雷姆飛上天後進行俯衝，並於抵達地面前對敵人進行飛踢。                                                                  |
 | 顎門     | DCDT(-{Decade Tornado}-) | 顎門龍捲風飛行器前方會出現顎門的紋章，攻擊穿過顎門的紋章後會變成強力的攻擊。                            | Decade會召喚出機械龍捲風(滑翔模式)然後跳上去進行數次迴旋，迴旋後跳出機械龍捲風並以迴旋方式對敵人進行斬擊，並於斬擊後出現顎門的紋章。                               |

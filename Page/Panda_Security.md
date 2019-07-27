@@ -1,12 +1,12 @@
-**熊貓安全公司**（）是一家1990年在[西班牙成立的](../Page/西班牙.md "wikilink")[電腦安全公司](https://zh.wikipedia.org/wiki/電腦安全 "wikilink")。總部與[毕尔巴鄂市](https://zh.wikipedia.org/wiki/毕尔巴鄂 "wikilink")。該公司由其前CEO，Mikel
-Urizarbarrena所創立。一開始該公司只專注於開發與生產[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")；後來他擴展其產品線，目前涵蓋了[防火牆軟體](https://zh.wikipedia.org/wiki/防火牆 "wikilink")、反[垃圾電郵軟體](../Page/垃圾電郵.md "wikilink")、反間諜軟體、資訊犯罪防護、反駭客、反撥號器、反WiFi入侵、攔截不適宜的網站，與其他面向一般家庭或企業使用者的系統管理和安全工具。
+**熊貓安全公司**（）是一家1990年在[西班牙](../Page/西班牙.md "wikilink")成立的[電腦安全公司](https://zh.wikipedia.org/wiki/電腦安全 "wikilink")。總部與[毕尔巴鄂市](https://zh.wikipedia.org/wiki/毕尔巴鄂 "wikilink")。該公司由其前CEO，Mikel
+Urizarbarrena所創立。一開始該公司只專注於開發與生產[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")；後來他擴展其產品線，目前涵蓋了[防火牆軟體](https://zh.wikipedia.org/wiki/防火牆 "wikilink")、反[垃圾電郵](../Page/垃圾電郵.md "wikilink")軟體、反間諜軟體、資訊犯罪防護、反駭客、反撥號器、反WiFi入侵、攔截不適宜的網站，與其他面向一般家庭或企業使用者的系統管理和安全工具。
 
 熊貓安全公司與其他防毒公司(如：Avast\!,
 [Avira](../Page/Avira_AntiVirus.md "wikilink")，[BitDefender](https://zh.wikipedia.org/wiki/BitDefender "wikilink")，[ESET](../Page/ESET.md "wikilink"),
 [F-Secure](https://zh.wikipedia.org/wiki/F-Secure "wikilink")，[卡巴斯基](../Page/卡巴斯基實驗室.md "wikilink")，[McAfee](https://zh.wikipedia.org/wiki/McAfee "wikilink"),
 Sophos和[賽門鐵克](https://zh.wikipedia.org/wiki/賽門鐵克 "wikilink")[等等](../Page/防毒軟體列表.md "wikilink"))相互競爭。
 
-熊貓安全公司的商標技術叫做TruPrevent，具有一系列主動的功能，能攔截未知病毒的入侵。於2007年，熊貓安全公司引入了新的[集體智慧安全模型](../Page/集體智慧.md "wikilink")，它運用[網格計算來收集](https://zh.wikipedia.org/wiki/網格計算 "wikilink")、識別、並偵測惡意軟體。
+熊貓安全公司的商標技術叫做TruPrevent，具有一系列主動的功能，能攔截未知病毒的入侵。於2007年，熊貓安全公司引入了新的[集體智慧](../Page/集體智慧.md "wikilink")安全模型，它運用[網格計算來收集](https://zh.wikipedia.org/wiki/網格計算 "wikilink")、識別、並偵測惡意軟體。
 
 熊貓安全公司於2009年11月推出了它第一個雲端安全服務，面向一般家庭使用者和企業伺服器\[1\]。2015年3月12日，一次更新使得其旗下的安全軟體誤判己身為惡意軟體。
 

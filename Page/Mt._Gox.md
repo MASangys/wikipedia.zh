@@ -1,4 +1,4 @@
-**Mt.Gox**是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區的](../Page/澀谷區.md "wikilink")[比特币交易所](../Page/比特币.md "wikilink")。Mt.Gox最初由Jed
+**Mt.Gox**是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")的[比特币](../Page/比特币.md "wikilink")交易所。Mt.Gox最初由Jed
 McCaled在2010年7月建立，后来在2011年3月卖给了由創建的Tibanne
 Co.。\[1\]於2014年2月因被黑客盜取比特幣而下線，暫停網上交易。\[2\]不久亦申請破產保護。\[3\]
 
@@ -40,11 +40,11 @@ Mt.Gox对低于100个比特币的个人用户每一比交易收取0.6%的手续�
 
 2014年2月24日，Mt.Gox的CEO馬克·卡佩勒斯在博客中宣布退出比特币基金会\[9\]\[10\]，随后访问Mt.Gox只返回一个空白页面。\[11\]2014年2月25日深夜，Mt.Gox官方網站張貼最新訊息，表示以「最近新聞報導和可能對Mt.Gox營運造成衝擊」為由「決定暫時關閉所有交易」\[12\]。2014年2月28日，Mt.Gox向[東京地方法院聲請](https://zh.wikipedia.org/wiki/東京地方法院 "wikilink")[破產保護](https://zh.wikipedia.org/wiki/破產保護 "wikilink")，破產研究機構「帝國資料調查公司」（Teikoku
 Databank,
-Ltd.）的資料顯示，Mt.Gox[負債達](https://zh.wikipedia.org/wiki/負債 "wikilink")65億日圓、2013年度[營收為](https://zh.wikipedia.org/wiki/營收 "wikilink")1.35億日圓；帝國資料調查公司在[新聞稿中表示](../Page/新聞稿.md "wikilink")，Mt.Gox在本月24日發現自有比特幣10萬枚與使用者比特幣75萬枚被竊\[13\]。
+Ltd.）的資料顯示，Mt.Gox[負債達](https://zh.wikipedia.org/wiki/負債 "wikilink")65億日圓、2013年度[營收為](https://zh.wikipedia.org/wiki/營收 "wikilink")1.35億日圓；帝國資料調查公司在[新聞稿](../Page/新聞稿.md "wikilink")中表示，Mt.Gox在本月24日發現自有比特幣10萬枚與使用者比特幣75萬枚被竊\[13\]。
 
 ### 美國聯邦政府介入
 
-2014年2月25日，根據[路透社轉載](../Page/路透社.md "wikilink")[華爾街日報記者引述熟知內情的消息人士的報導](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")，Mt.Gox已經於本月收到[美國聯邦政府](../Page/美國聯邦政府.md "wikilink")[檢察官的傳喚通知](../Page/檢察官.md "wikilink")，檢察官要求Mt.Gox應傳喚指示準備特定文件等物件進行報告。\[14\]
+2014年2月25日，根據[路透社](../Page/路透社.md "wikilink")轉載[華爾街日報記者引述熟知內情的消息人士的報導](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")，Mt.Gox已經於本月收到[美國聯邦政府](../Page/美國聯邦政府.md "wikilink")[檢察官](../Page/檢察官.md "wikilink")的傳喚通知，檢察官要求Mt.Gox應傳喚指示準備特定文件等物件進行報告。\[14\]
 
 ### 陰謀論
 

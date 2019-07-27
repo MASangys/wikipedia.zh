@@ -19,7 +19,7 @@
     [灰黄霉素](https://zh.wikipedia.org/wiki/灰黄霉素 "wikilink")（Griseofulvin）
     D01AA20 复方（Combinations）
 
-### D01AC [咪唑和](../Page/咪唑.md "wikilink")[三唑衍生物](https://zh.wikipedia.org/wiki/三唑衍 "wikilink")（Imidazole and triazole derivatives）
+### D01AC [咪唑](../Page/咪唑.md "wikilink")和[三唑衍生物](https://zh.wikipedia.org/wiki/三唑衍 "wikilink")（Imidazole and triazole derivatives）
 
   -
     D01AC01

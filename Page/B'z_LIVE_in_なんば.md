@@ -1,5 +1,5 @@
 《**B'z LIVE in
-なんば**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")10張LIVE作品映像化(第8張DVD)。
+なんば**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第10張LIVE作品映像化(第8張DVD)。
 
 ## 簡介
 

@@ -1,9 +1,9 @@
 『**From Dusk Till
-Dawn**』是[學院貴公子的第](../Page/學院貴公子.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年12月16日發售。
+Dawn**』是[學院貴公子](../Page/學院貴公子.md "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年12月16日發售。
 
 ## 解説
 
-[每日放送](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")・[TBS](../Page/TBS電視台.md "wikilink")・[中部日本放送系動畫](../Page/中部日本放送.md "wikilink")『[DARKER
+[每日放送](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")・[TBS](../Page/TBS電視台.md "wikilink")・[中部日本放送](../Page/中部日本放送.md "wikilink")系動畫『[DARKER
 THAN BLACK
 -流星之雙子-](https://zh.wikipedia.org/wiki/DARKER_THAN_BLACK "wikilink")』片尾曲。
 

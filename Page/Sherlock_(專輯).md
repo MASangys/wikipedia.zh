@@ -1,4 +1,4 @@
-《**Sherlock**》是[韓國男孩組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee第四張迷你專輯](../Page/SHINee.md "wikilink")，音源於2012年3月19日發佈，而實體鎖售於2012年3月21日開始。專輯為韓國三月份最高銷量專輯，gaon公佈的統計數據紀錄於三月份《**Sherlock**》總售出135,370份，其中主打歌曲《Sherlock
+《**Sherlock**》是[韓國男孩組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee](../Page/SHINee.md "wikilink")第四張迷你專輯，音源於2012年3月19日發佈，而實體鎖售於2012年3月21日開始。專輯為韓國三月份最高銷量專輯，gaon公佈的統計數據紀錄於三月份《**Sherlock**》總售出135,370份，其中主打歌曲《Sherlock
 (Clue +
 Note)》在韓國音源下載榜佔據五星期一位。《**Sherlock**》亦於2012年3月27日登上[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
 "Weekly Heatseekers Albums"
@@ -7,7 +7,7 @@ Note)》在韓國音源下載榜佔據五星期一位。《**Sherlock**》亦於
 
 ## 專輯簡介
 
-　　[SHINee第四張迷你專輯中主打曲](../Page/SHINee.md "wikilink")《Sherlock》通過將獨立的兩首歌曲編成一首的Hybrid
+　　[SHINee](../Page/SHINee.md "wikilink")第四張迷你專輯中主打曲《Sherlock》通過將獨立的兩首歌曲編成一首的Hybrid
 Remix方式產生，其中蘊含著將理性的推理和直覺結合起來神秘的氣氛。此外，[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Jessica也出演了该次主打曲的MV](https://zh.wikipedia.org/wiki/潔西卡_\(韓國藝人\) "wikilink")。
 　　“本次主打歌《Sherlock》是一首混合歌曲，有著不同於其他音樂的獨特風格，再加上編舞由世界知名編舞師托尼泰斯特操刀，將會為粉絲帶去前所未有的新魅力，定會讓大家看到不斷創新，不斷提升自我的SHINee的音樂風格。”
 　

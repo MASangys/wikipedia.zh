@@ -4,7 +4,7 @@
 
 原作四格漫畫，動畫化後熱門作品〈[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")〉首次的電子遊戲。遊戲是使以音樂遊戲模式在[PSP平台上推出](https://zh.wikipedia.org/wiki/PSP "wikilink")，同時收錄了動畫中不少樂曲。演奏部分有平澤唯（[吉他](../Page/吉他.md "wikilink")）、秋山澪（[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")）、田井中律（[爵士鼓](../Page/爵士鼓.md "wikilink")）、琴吹紬（[電子琴](../Page/電子琴.md "wikilink")）、中野梓（副吉他手）5人可以選用，即使相同的曲子選擇不同的角色會有不同的樂譜。搭配PSP內有的聯機對戰通訊模式，最多可5個人的通訊。
 
-遊戲中可變換角色服裝。動畫中梓未出現的哥德蘿莉裝和輕飄飄時間PV的衣服，但是遊戲中[京都動畫有給梓用的專屬服裝](../Page/京都動畫.md "wikilink")。
+遊戲中可變換角色服裝。動畫中梓未出現的哥德蘿莉裝和輕飄飄時間PV的衣服，但是遊戲中[京都動畫](../Page/京都動畫.md "wikilink")有給梓用的專屬服裝。
 
 本作品為《[初音未來
 -歌姬計劃-](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃- "wikilink")》的工作人員擔任。

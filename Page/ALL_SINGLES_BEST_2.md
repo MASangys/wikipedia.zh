@@ -1,12 +1,12 @@
 《**ALL SINGLES BEST
-2**》是日本樂團[可苦可樂的第二張精選輯](../Page/可苦可樂.md "wikilink")。2012年9月5日發行。
+2**》是日本樂團[可苦可樂](../Page/可苦可樂.md "wikilink")的第二張精選輯。2012年9月5日發行。
 
 ## 簡介
 
 因為健康原因宣布休息半年，復歸後的首張作品。自2006年發售銷量超過300萬張的大熱精選輯《[ALL SINGLES
 BEST](../Page/ALL_SINGLES_BEST_\(可苦可樂專輯\).md "wikilink")》後的第二張精選輯。收錄前一張精選輯後發行的所有單曲A面及部份c/w曲、合作歌曲加上初次CD化的歌曲總共21首歌曲。Disc-2的收錄曲除了《太陽的旋律》以外皆為初收錄新曲。
 
-初回限定盤分為兩種類，A盤附送收錄從出道至今所有單曲A面[音樂錄像帶](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")（包括[絢香×可苦可樂名義發表的](../Page/絢香×可苦可樂.md "wikilink")）的DVD，B盤（[7\&I限定盤](../Page/7&I控股.md "wikilink")）附送收錄《ALL
+初回限定盤分為兩種類，A盤附送收錄從出道至今所有單曲A面[音樂錄像帶](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")（包括[絢香×可苦可樂](../Page/絢香×可苦可樂.md "wikilink")名義發表的）的DVD，B盤（[7\&I限定盤](../Page/7&I控股.md "wikilink")）附送收錄《ALL
 SINGLES BEST》所有收錄曲現場音源的2CD。
 
 ## 發行版本

@@ -7,7 +7,7 @@
 |                                                                                                                                 |
 
 **Windows XP主题**是[Windows
-XP系统的定制图形用户界面](../Page/Windows_XP.md "wikilink")。Luna，Royale，Zune和Embedded是[微软提供的官方主题](../Page/微软.md "wikilink")。自Windows
+XP系统的定制图形用户界面](../Page/Windows_XP.md "wikilink")。Luna，Royale，Zune和Embedded是[微软](../Page/微软.md "wikilink")提供的官方主题。自Windows
 XP中，主题包含*视觉样式*。\[1\]默认情况下，Luna主题预装在[Windows
 XP家庭版和专业版](../Page/Windows_XP.md "wikilink")，Royale（Energy
 Blue）主题预装[Windows XP Media Center
@@ -31,7 +31,7 @@ Vista和](../Page/Windows_Vista.md "wikilink")[Windows
 2000或](../Page/Windows_2000.md "wikilink")[Windows
 98的用户可能会发现它使用起来更舒适](../Page/Windows_98.md "wikilink")。除了关闭可视化，该选项也提供了相对较好的性能\[2\]和更大的颜色、字体自定义选项。经典主题也可用于在Windows
 XP
-[安全模式和](../Page/安全模式.md "wikilink")[Win32控制台窗口](../Page/Win32控制台.md "wikilink")。
+[安全模式](../Page/安全模式.md "wikilink")和[Win32控制台](../Page/Win32控制台.md "wikilink")窗口。
 
 ## Royale
 
@@ -42,7 +42,7 @@ XP
 | [Windows_XP_Zune.png](https://zh.wikipedia.org/wiki/File:Windows_XP_Zune.png "fig:Windows_XP_Zune.png")       |
 | Zune主题                                                                                                          |
 
-**Royale**（也称作“**媒体中心样式**”，蓝色的衍生版也作“**亮蓝色**”）是一个[微软的](../Page/微软.md "wikilink")[GUI艺术概念](https://zh.wikipedia.org/wiki/GUI "wikilink")，于2004年推出，用于[Windows
+**Royale**（也称作“**媒体中心样式**”，蓝色的衍生版也作“**亮蓝色**”）是一个[微软](../Page/微软.md "wikilink")的[GUI艺术概念](https://zh.wikipedia.org/wiki/GUI "wikilink")，于2004年推出，用于[Windows
 Media Center桌面版以及](../Page/Windows_Media_Center.md "wikilink")[Windows
 XP Tablet PC
 Edition的](https://zh.wikipedia.org/wiki/Windows_XP_Tablet_PC_Edition "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。
@@ -51,14 +51,14 @@ Edition的](https://zh.wikipedia.org/wiki/Windows_XP_Tablet_PC_Edition "wikilink
 XP布利斯](../Page/布利斯_\(照片\).md "wikilink")），一个[桌面主题和](https://zh.wikipedia.org/wiki/主题_\(计算机\) "wikilink")[皮肤](https://zh.wikipedia.org/wiki/皮肤_\(电脑\) "wikilink")。新的*Energy
 Bliss*壁纸很大程度上来源于[布利斯但使用了人为的](../Page/布利斯_\(照片\).md "wikilink")[计算机图形](../Page/计算机图形.md "wikilink")（GC）[渲染](../Page/渲染.md "wikilink")。
 
-这个概念创造了一个辉煌，明亮的，生动的和人造反射[颜色投影具有强烈的](../Page/颜色.md "wikilink")[蓝色和](https://zh.wikipedia.org/wiki/蓝色 "wikilink")[绿色的颜色](https://zh.wikipedia.org/wiki/绿色 "wikilink")，有点让人想起了默认的蓝色的Microsoft
+这个概念创造了一个辉煌，明亮的，生动的和人造反射[颜色](../Page/颜色.md "wikilink")投影具有强烈的[蓝色和](https://zh.wikipedia.org/wiki/蓝色 "wikilink")[绿色的颜色](https://zh.wikipedia.org/wiki/绿色 "wikilink")，有点让人想起了默认的蓝色的Microsoft
 Office 2003的主题。
 
 ### 可用性
 
 Energy
 Blue主题最初是于2004年12月为人们提供。2005年4月7日，微软新西兰的新西兰主题可通过Windows正版增值[从Microsoft网站下载上下载](http://www.microsoft.com/downloads/details.aspx?FamilyID=15373C73-D5F6-4AF0-B583-D633CB021612)。
-该主题可以通过手动解压[CAB文件的方式在非媒体中心版本的Windows](../Page/CAB.md "wikilink")
+该主题可以通过手动解压[CAB](../Page/CAB.md "wikilink")文件的方式在非媒体中心版本的Windows
 XP上安装。由于这是一个[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，已被许多流行下载站破解，如[Softpedia](https://web.archive.org/web/20140603224008/http://www.softpedia.com/get/Desktop-Enhancements/Themes/Royale-Theme-for-WinXP.shtml)。
 
 微软还发布了[Windows Media
@@ -76,9 +76,9 @@ Royale Noir看起来像一个Energy Blue的黑色版本，有一个黑色的，�
 ## Zune主题
 
 Royale
-Noir被泄露的几个星期后，Zune主题伴随着微软新推出的[Zune媒体播放器](../Page/Zune.md "wikilink")[正式发布](http://go.microsoft.com/fwlink/?LinkID=75078)了。就像Royale
+Noir被泄露的几个星期后，Zune主题伴随着微软新推出的[Zune](../Page/Zune.md "wikilink")媒体播放器[正式发布](http://go.microsoft.com/fwlink/?LinkID=75078)了。就像Royale
 Noir一样，Zune主题似乎是基于Energey
-Blue的主题。Zune主题显示一个棕色的光影样式。Zune主题是第一次包括不同颜色的开始按钮的主题，可选择XP中的绿色版本还是原来经典主题的灰色）。值得注意的是，此主题用于[家得宝的](../Page/家得宝.md "wikilink")[POS单位](../Page/銷售時點情報系統.md "wikilink")
+Blue的主题。Zune主题显示一个棕色的光影样式。Zune主题是第一次包括不同颜色的开始按钮的主题，可选择XP中的绿色版本还是原来经典主题的灰色）。值得注意的是，此主题用于[家得宝](../Page/家得宝.md "wikilink")的[POS单位](../Page/銷售時點情報系統.md "wikilink")
 
 目前尚不知道Royale Noir是否Zune的一个测试版。
 

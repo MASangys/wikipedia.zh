@@ -1,5 +1,5 @@
 《**CROSS &
-CHANGE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland第三張正規專輯](../Page/FTIsland.md "wikilink")，於2009年7月16日在韓國發行，並以《希望》（）作主打歌曲。
+CHANGE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")第三張正規專輯，於2009年7月16日在韓國發行，並以《希望》（）作主打歌曲。
 
 ## 曲目
 
@@ -9,7 +9,7 @@ CHANGE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilin
 CHANGE》的重新包裝專輯，在2009年10月26日發行，收錄了兩張CD：第一片CD《One
 Date》是從原先《CROSS & CHANGE》專輯加上三首新歌：《Lie》、《愛情來了》（）及《A song for
 you（韓語版）》的升級版本大碟；第二片CD《Two
-Date》EP則是由FTIsland成員[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[崔敏煥組成的子團體](../Page/崔敏煥.md "wikilink")[FT.triple演唱](https://zh.wikipedia.org/wiki/FT.triple "wikilink")，同時以他們演唱的《情書》（）作整張專輯的主打曲。
+Date》EP則是由FTIsland成員[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[崔敏煥](../Page/崔敏煥.md "wikilink")組成的子團體[FT.triple演唱](https://zh.wikipedia.org/wiki/FT.triple "wikilink")，同時以他們演唱的《情書》（）作整張專輯的主打曲。
 
 ### 曲目
 

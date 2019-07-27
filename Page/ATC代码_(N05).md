@@ -1,6 +1,6 @@
 ## N05A [抗精神病药](https://zh.wikipedia.org/wiki/抗精神病药 "wikilink")（Antipsychotics）
 
-### N05AA 带有脂肪族侧链的[吩噻嗪类](../Page/吩噻嗪.md "wikilink")（Phenothiazines with aliphatic side-chain）
+### N05AA 带有脂肪族侧链的[吩噻嗪](../Page/吩噻嗪.md "wikilink")类（Phenothiazines with aliphatic side-chain）
 
   -
     N05AA01 [氯丙嗪](../Page/氯丙嗪.md "wikilink")（Chlorpromazine）
@@ -15,7 +15,7 @@
     N05AA07
     [氯丙沙嗪](https://zh.wikipedia.org/wiki/氯丙沙嗪 "wikilink")（Chlorproethazine）
 
-### N05AB 带有[哌嗪结构的吩噻嗪类](../Page/哌嗪.md "wikilink")（Phenothiazines with piperazine structure）
+### N05AB 带有[哌嗪](../Page/哌嗪.md "wikilink")结构的吩噻嗪类（Phenothiazines with piperazine structure）
 
   -
     N05AB01
@@ -38,7 +38,7 @@
     N05AB10
     [培拉嗪](https://zh.wikipedia.org/wiki/培拉嗪 "wikilink")（Perazine）
 
-### N05AC 带有[哌啶结构的吩噻嗪类](../Page/哌啶.md "wikilink")（Phenothiazines with piperidine structure）
+### N05AC 带有[哌啶](../Page/哌啶.md "wikilink")结构的吩噻嗪类（Phenothiazines with piperidine structure）
 
   -
     N05AC01
@@ -73,7 +73,7 @@
     QN05AD90
     [阿扎哌隆](https://zh.wikipedia.org/wiki/阿扎哌隆 "wikilink")（Azaperone）
 
-### N05AE [吲哚衍生物类](../Page/吲哚.md "wikilink")（Indole derivatives）
+### N05AE [吲哚](../Page/吲哚.md "wikilink")衍生物类（Indole derivatives）
 
   -
     N05AE01 [奥昔哌汀](../Page/奥昔哌汀.md "wikilink")（Oxypertine）
@@ -123,7 +123,7 @@
 
 ### QN05AK 神经松驰剂，[迟发性运动障碍](https://zh.wikipedia.org/wiki/迟发性运动障碍 "wikilink")（Neuroleptics, in tardive dyskinesia）
 
-### N05AL [苯甲酰胺类](../Page/苯甲酰胺.md "wikilink")（Benzamides）
+### N05AL [苯甲酰胺](../Page/苯甲酰胺.md "wikilink")类（Benzamides）
 
   -
     N05AL01 [舒必利](../Page/舒必利.md "wikilink")（Sulpiride）
@@ -193,14 +193,14 @@
     N05BA23
     N05BA56 劳拉西泮，复方 Lorazepam, combinations
 
-### N05BB [二苯甲烷衍生物类](../Page/二苯甲烷.md "wikilink")（Diphenylmethane derivatives）
+### N05BB [二苯甲烷](../Page/二苯甲烷.md "wikilink")衍生物类（Diphenylmethane derivatives）
 
   -
     N05BB01 羟嗪 [羟嗪](../Page/羟嗪.md "wikilink")
     N05BB02
     N05BB51 羟嗪，复方 Hydroxyzine, combinations
 
-### N05BC [氨基甲酸酯类](../Page/氨基甲酸酯.md "wikilink")（Carbamates）
+### N05BC [氨基甲酸酯](../Page/氨基甲酸酯.md "wikilink")类（Carbamates）
 
   -
     N05BC01

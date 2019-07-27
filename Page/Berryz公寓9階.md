@@ -1,4 +1,4 @@
-《**Berryz公寓9階**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[Berryz工房的第](../Page/Berryz工房.md "wikilink")8張原創專輯，於2013年1月30日發行。唱片公司為[PICCOLO
+《**Berryz公寓9階**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第8張原創專輯，於2013年1月30日發行。唱片公司為[PICCOLO
 TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要
@@ -29,15 +29,15 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 3.  **男子漢**（）
     （作詞、作曲：淳君　編曲：平田祥一郎）
       -
-        [嗣永桃子](../Page/嗣永桃子.md "wikilink")、[熊井友理奈主唱](../Page/熊井友理奈.md "wikilink")
+        [嗣永桃子](../Page/嗣永桃子.md "wikilink")、[熊井友理奈](../Page/熊井友理奈.md "wikilink")主唱
 4.  **感覺非常的良好\!**（）
     （作詞、作曲：淳君　編曲：[板垣祐介](https://zh.wikipedia.org/wiki/板垣祐介 "wikilink")）
       -
-        [徳永千奈美](https://zh.wikipedia.org/wiki/徳永千奈美 "wikilink")、[須藤茉麻主唱](../Page/須藤茉麻.md "wikilink")
+        [徳永千奈美](https://zh.wikipedia.org/wiki/徳永千奈美 "wikilink")、[須藤茉麻](../Page/須藤茉麻.md "wikilink")主唱
 5.  **戀 珍愛的季節** （）
     （作詞、作曲：淳君　編曲：[近藤圭一](https://zh.wikipedia.org/wiki/近藤圭一 "wikilink")）
       -
-        [清水佐紀](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")、[夏燒雅](../Page/夏燒雅.md "wikilink")、[菅谷梨沙子主唱](../Page/菅谷梨沙子.md "wikilink")
+        [清水佐紀](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")、[夏燒雅](../Page/夏燒雅.md "wikilink")、[菅谷梨沙子](../Page/菅谷梨沙子.md "wikilink")主唱
 6.  **[Be元氣 ＜只要嘗試便能做到\!＞](../Page/Be元氣_＜只要嘗試便能做到!＞.md "wikilink")** （）
     （作詞、作曲：淳君　編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
       -
@@ -60,7 +60,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
     Remix）**（）
     （作詞、作曲：淳君　編曲：[原田ナオ](https://zh.wikipedia.org/wiki/原田ナオ "wikilink")）
       -
-        第29張單曲《cha cha SING》的B面曲、[嗣永桃子主唱](../Page/嗣永桃子.md "wikilink")
+        第29張單曲《cha cha SING》的B面曲、[嗣永桃子](../Page/嗣永桃子.md "wikilink")主唱
 
 ### DVD
 

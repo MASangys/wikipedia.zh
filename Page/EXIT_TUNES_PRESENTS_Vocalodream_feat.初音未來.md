@@ -1,5 +1,5 @@
 《**EXIT TUNES PRESENTS Vocalodream
-feat.初音未來**》是2012年1月18日發布的，藉由[初音未來等歌聲合成軟體](../Page/初音未來.md "wikilink")[VOCALOID創作的歌曲的合輯](../Page/VOCALOID.md "wikilink")。
+feat.初音未來**》是2012年1月18日發布的，藉由[初音未來](../Page/初音未來.md "wikilink")等歌聲合成軟體[VOCALOID](../Page/VOCALOID.md "wikilink")創作的歌曲的合輯。
 
 宣傳標語為「****」。
 

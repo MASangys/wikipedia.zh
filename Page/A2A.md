@@ -1,4 +1,4 @@
-**A2A**（前名「AOA」，後來改做「A2A」）是[雙胞胎](../Page/雙胞胎.md "wikilink")[女子音樂組合及主持人](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，曾經在網路上被稱為「最美雙胞胎」\[1\]。由姐姐[吳燕珊](https://zh.wikipedia.org/wiki/:zh-yue:吳燕珊 "wikilink")（Annelle）與妹妹[吳燕菁](https://zh.wikipedia.org/wiki/:zh-yue:吳燕菁 "wikilink")（Annice）所組成，擅長多種舞蹈包括[芭蕾舞](../Page/芭蕾舞.md "wikilink")、[民俗舞](https://zh.wikipedia.org/wiki/民俗舞 "wikilink")、[爵士舞及](https://zh.wikipedia.org/wiki/爵士舞 "wikilink")[Hip-Hop等](https://zh.wikipedia.org/wiki/Hip-Hop "wikilink")。[排舞師為](https://zh.wikipedia.org/wiki/排舞師 "wikilink")[郭富城的專用排舞師](../Page/郭富城.md "wikilink")[黃國榮](../Page/黃國榮.md "wikilink")。A2A更在出道前拍過35個廣告以及獲得過19個獎項。
+**A2A**（前名「AOA」，後來改做「A2A」）是[雙胞胎](../Page/雙胞胎.md "wikilink")[女子音樂組合及主持人](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，曾經在網路上被稱為「最美雙胞胎」\[1\]。由姐姐[吳燕珊](https://zh.wikipedia.org/wiki/:zh-yue:吳燕珊 "wikilink")（Annelle）與妹妹[吳燕菁](https://zh.wikipedia.org/wiki/:zh-yue:吳燕菁 "wikilink")（Annice）所組成，擅長多種舞蹈包括[芭蕾舞](../Page/芭蕾舞.md "wikilink")、[民俗舞](https://zh.wikipedia.org/wiki/民俗舞 "wikilink")、[爵士舞及](https://zh.wikipedia.org/wiki/爵士舞 "wikilink")[Hip-Hop等](https://zh.wikipedia.org/wiki/Hip-Hop "wikilink")。[排舞師為](https://zh.wikipedia.org/wiki/排舞師 "wikilink")[郭富城](../Page/郭富城.md "wikilink")的專用排舞師[黃國榮](../Page/黃國榮.md "wikilink")。A2A更在出道前拍過35個廣告以及獲得過19個獎項。
 
 ## 名稱
 
@@ -30,7 +30,7 @@
 <td style="text-align: left;"><ol>
 <li>我主場</li>
 <li>微笑的難過（國）</li>
-<li>紅茶或咖啡（與<a href="../Page/鄒文正.md" title="wikilink">鄒文正合唱</a>）（國）</li>
+<li>紅茶或咖啡（與<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>合唱）（國）</li>
 <li>終於哭出來（國）</li>
 <li>放肆</li>
 <li>回家</li>
@@ -49,7 +49,7 @@
 <li>困獸鬥</li>
 <li>一直在眼前</li>
 <li>長頭髮</li>
-<li>Can't Get You Out Of My Mind（與<a href="../Page/鄒文正.md" title="wikilink">鄒文正合唱</a>）</li>
+<li>Can't Get You Out Of My Mind（與<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>合唱）</li>
 </ol></td>
 </tr>
 </tbody>
@@ -90,7 +90,7 @@
 
 ### 2008年
 
-  - 巴啦啦小魔仙（卡通[巴啦啦小魔仙真人版主題曲](../Page/巴啦啦小魔仙.md "wikilink")）
+  - 巴啦啦小魔仙（卡通[巴啦啦小魔仙](../Page/巴啦啦小魔仙.md "wikilink")真人版主題曲）
 
 ### 2009年
 
@@ -98,7 +98,7 @@
 
 ### 2013年
 
-  - 星座密碼（電影[巴啦啦小魔仙大電影歌曲](../Page/巴啦啦小魔仙大電影.md "wikilink")）
+  - 星座密碼（電影[巴啦啦小魔仙大電影](../Page/巴啦啦小魔仙大電影.md "wikilink")歌曲）
 
 ### 2014年
 
@@ -111,7 +111,7 @@
   - 我主場
   - 放肆
   - 回家
-  - 紅茶或咖啡（與[鄒文正合唱](../Page/鄒文正.md "wikilink")）
+  - 紅茶或咖啡（與[鄒文正](../Page/鄒文正.md "wikilink")合唱）
   - 大男人情歌（梁漢文主唱）
 
 ### 2013年
@@ -190,7 +190,7 @@
 
 ### 2012年
 
-  - 《[香港國際旅遊展中國商旅頻道](../Page/香港.md "wikilink")》
+  - 《[香港](../Page/香港.md "wikilink")國際旅遊展中國商旅頻道》
   - 《香港[西貢歡樂遊](https://zh.wikipedia.org/wiki/西貢 "wikilink")》
   - 《未來巨星頒獎典禮拉票會》
   - 《环球旅游皇后中国区大赛》

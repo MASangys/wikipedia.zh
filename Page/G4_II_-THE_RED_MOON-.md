@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")43張單曲，也是第2張四A面單曲。
+[GLAY](../Page/GLAY.md "wikilink")的第43張單曲，也是第2張四A面單曲。
 
 ## 簡介
 

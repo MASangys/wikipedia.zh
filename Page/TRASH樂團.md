@@ -1,4 +1,4 @@
-**TRASH樂團**，為[臺灣樂團](../Page/臺灣.md "wikilink")，於2009年12月成立於[臺北](../Page/臺北.md "wikilink")，目前成員四位由[主唱阿夜](https://zh.wikipedia.org/wiki/主唱 "wikilink")（林志融）、[吉他手頤原](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（林伯儒）、[貝斯手博文](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")（鄧博文）、[鼓手金魁剛](https://zh.wikipedia.org/wiki/鼓手 "wikilink")（王韋翔）所組成。音樂風格以[Britpop](https://zh.wikipedia.org/wiki/Britpop "wikilink")、[Alternative
+**TRASH樂團**，為[臺灣](../Page/臺灣.md "wikilink")樂團，於2009年12月成立於[臺北](../Page/臺北.md "wikilink")，目前成員四位由[主唱阿夜](https://zh.wikipedia.org/wiki/主唱 "wikilink")（林志融）、[吉他手頤原](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（林頤原）、[貝斯手博文](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")（鄧博文）、[鼓手金魁剛](https://zh.wikipedia.org/wiki/鼓手 "wikilink")（王韋翔）所組成。音樂風格以[Britpop](https://zh.wikipedia.org/wiki/Britpop "wikilink")、[Alternative
 rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主](https://zh.wikipedia.org/wiki/Grunge "wikilink")，但不會被一定的型式所侷限，而常有超出這些風格的創意出現。
 
 創作靈感多來自於團員們對[現實生活的真實](https://zh.wikipedia.org/wiki/現實生活 "wikilink")[體驗](https://zh.wikipedia.org/wiki/體驗 "wikilink")、[感觸](https://zh.wikipedia.org/wiki/感觸 "wikilink")，活在自認是革命世代的當下。嚮往六七零年代[搖滾樂萌芽時期的輝煌](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")，更憧憬著搖滾不死的精神實踐。
@@ -30,14 +30,14 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
 <td><p><a href="https://zh.wikipedia.org/wiki/林志融" title="wikilink">林志融</a>（阿夜）</p></td>
 <td></td>
 <td><p>臺北</p></td>
-<td><p>資深藝人<a href="https://zh.wikipedia.org/wiki/林安迪" title="wikilink">林安迪的兒子</a>，歌手<a href="../Page/林吟蔚.md" title="wikilink">林吟蔚的親弟弟</a></p></td>
+<td><p>資深藝人<a href="https://zh.wikipedia.org/wiki/林安迪" title="wikilink">林安迪的兒子</a>，歌手<a href="../Page/林吟蔚.md" title="wikilink">林吟蔚</a>的親弟弟</p></td>
 </tr>
 <tr class="even">
 <td><p>吉他</p></td>
 <td><p>林頤原（頤原）</p></td>
 <td></td>
 <td><p>鹿港</p></td>
-<td><p>2013年9月 加入，<a href="../Page/林哲熹.md" title="wikilink">林哲熹親哥哥</a></p></td>
+<td><p>2013年9月 加入，演員<a href="../Page/林哲熹.md" title="wikilink">林哲熹</a>親哥哥</p></td>
 </tr>
 <tr class="odd">
 <td><p>貝斯</p></td>
@@ -73,7 +73,7 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
     Matter音樂節演出、韓國Pentaport
     Rock音樂節、台北京華城京夏好搖音樂會、台北新光三越南西夏日樂園、大高雄超級搖滾日、高雄硬地音樂展、搖滾台中、香港呼叫音樂節、高雄大彩虹音樂節、桃園鐵玫瑰熱音賞、彰化乳牛節、全聯公益搖滾路跑、全台各大Live
     House。
-  - 2014年：多次受邀參與海外音樂節的演出，分別前往：中國深圳迷笛音樂節；中國上海熱波音樂節；香港呼叫音樂節；[新加坡Music](../Page/新加坡.md "wikilink")
+  - 2014年：多次受邀參與海外音樂節的演出，分別前往：中國深圳迷笛音樂節；中國上海熱波音樂節；香港呼叫音樂節；[新加坡](../Page/新加坡.md "wikilink")Music
     Matters Live；[韓國仁川音樂節](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
   - 2015年：亞洲巡迴（[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink").....等）、河岸留言《河岸聲現》with
     [放客兄弟](../Page/放客兄弟.md "wikilink")\[1\]。

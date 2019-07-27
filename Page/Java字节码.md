@@ -1,10 +1,10 @@
 **Java
-字节码**（）是[Java虚拟机执行的一种指令格式](../Page/Java虚拟机.md "wikilink")。大多数操作码都是一个[字节长](../Page/字节.md "wikilink")，而有些操作需要参数，导致了有一些多字节的操作码。而且并不是所有可能的256个操作码都被使用；其中有51个操作码被保留做将来使用。除此之外，原始[Java平台开发商](https://zh.wikipedia.org/wiki/Java平台 "wikilink")，[昇陽微系统](https://zh.wikipedia.org/wiki/昇陽微系统 "wikilink")，额外保留了3个代码永久不使用。
+字节码**（）是[Java虚拟机](../Page/Java虚拟机.md "wikilink")执行的一种指令格式。大多数操作码都是一个[字节](../Page/字节.md "wikilink")长，而有些操作需要参数，导致了有一些多字节的操作码。而且并不是所有可能的256个操作码都被使用；其中有51个操作码被保留做将来使用。除此之外，原始[Java平台开发商](https://zh.wikipedia.org/wiki/Java平台 "wikilink")，[昇陽微系统](https://zh.wikipedia.org/wiki/昇陽微系统 "wikilink")，额外保留了3个代码永久不使用。
 
 ## 与Java的关系
 
-一个[Java程序员并不需要理解所有的Java字节码](../Page/Java.md "wikilink")。但是，就像[IBM](../Page/IBM.md "wikilink")
-developerWorks周刊建议的那样：“理解字节码以及理解Java编译器如何生成Java字节码与学习[汇编知识对于](https://zh.wikipedia.org/wiki/汇编 "wikilink")[C](../Page/C.md "wikilink")/[C++程序员有一样的意义](../Page/C++.md "wikilink")。”\[1\]
+一个[Java](../Page/Java.md "wikilink")程序员并不需要理解所有的Java字节码。但是，就像[IBM](../Page/IBM.md "wikilink")
+developerWorks周刊建议的那样：“理解字节码以及理解Java编译器如何生成Java字节码与学习[汇编知识对于](https://zh.wikipedia.org/wiki/汇编 "wikilink")[C](../Page/C.md "wikilink")/[C++](../Page/C++.md "wikilink")程序员有一样的意义。”\[1\]
 
 ## 指令
 
@@ -139,11 +139,11 @@ mov ecx, eax
 还有其他的一些编译器，对于其他语言生成Java字节码，使其可以运行在Java虚拟机之上。
 
   - [ColdFusion](https://zh.wikipedia.org/wiki/ColdFusion "wikilink")
-  - [JRuby和](../Page/JRuby.md "wikilink")[Jython](../Page/Jython.md "wikilink")，
-    两种基于[Ruby和](../Page/Ruby.md "wikilink")[Python的](../Page/Python.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")
+  - [JRuby](../Page/JRuby.md "wikilink")和[Jython](../Page/Jython.md "wikilink")，
+    两种基于[Ruby](../Page/Ruby.md "wikilink")和[Python](../Page/Python.md "wikilink")的[脚本语言](../Page/脚本语言.md "wikilink")
   - [Groovy](../Page/Groovy.md "wikilink"), 一种基于Java的脚本语言
   - [Scala](../Page/Scala.md "wikilink"),一种类型安全的通用编程语言，支持[面向对象编程和](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")[函数式编程](../Page/函数式编程.md "wikilink")
-  - [JGNAT和](https://zh.wikipedia.org/wiki/JGNAT "wikilink")[AppleMagic](https://zh.wikipedia.org/wiki/AppleMagic "wikilink"),编译[Ada语言到Java字节码](../Page/Ada.md "wikilink")
+  - [JGNAT和](https://zh.wikipedia.org/wiki/JGNAT "wikilink")[AppleMagic](https://zh.wikipedia.org/wiki/AppleMagic "wikilink"),编译[Ada](../Page/Ada.md "wikilink")语言到Java字节码
   - [Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink"),
     一种函数式的通用编程语言，提供优秀的并发性。是一种LISP方言
   - [MIDletPascal](https://zh.wikipedia.org/wiki/MIDletPascal "wikilink")

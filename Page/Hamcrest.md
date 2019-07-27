@@ -1,5 +1,5 @@
-**Hamcrest**是一个协助编写用[Java语言进行软件测试的框架](../Page/Java.md "wikilink")。它支持创建自定义的[断言匹配器](../Page/斷言_\(程式\).md "wikilink")（assertion
-matchers）（名称“Hamcrest”即为“matchers”的[异位构词](../Page/易位构词游戏.md "wikilink")），允许[声明式定义匹配规则](../Page/宣告式編程.md "wikilink")。\[1\]这些匹配器在[单元测试框架](../Page/单元测试.md "wikilink")（例如[JUnit](../Page/JUnit.md "wikilink")\[2\]和jMock）中有用。
+**Hamcrest**是一个协助编写用[Java](../Page/Java.md "wikilink")语言进行软件测试的框架。它支持创建自定义的[断言匹配器](../Page/斷言_\(程式\).md "wikilink")（assertion
+matchers）（名称“Hamcrest”即为“matchers”的[异位构词](../Page/易位构词游戏.md "wikilink")），允许[声明式定义匹配规则](../Page/宣告式編程.md "wikilink")。\[1\]这些匹配器在[单元测试](../Page/单元测试.md "wikilink")框架（例如[JUnit](../Page/JUnit.md "wikilink")\[2\]和jMock）中有用。
 
 Hamcrest已经被移植到[Java](../Page/Java.md "wikilink")、[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](../Page/Python.md "wikilink")、[ActionScript](../Page/ActionScript.md "wikilink")
 3\[3\]、[PHP](../Page/PHP.md "wikilink")\[4\]、[JavaScript](../Page/JavaScript.md "wikilink")\[5\]和[Erlang](../Page/Erlang.md "wikilink").\[6\]

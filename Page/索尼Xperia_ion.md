@@ -1,6 +1,6 @@
 [Sony_Xperia_Ion.JPG](https://zh.wikipedia.org/wiki/File:Sony_Xperia_Ion.JPG "fig:Sony_Xperia_Ion.JPG")
 **Sony Xperia
-ion**是[日本電子公司](../Page/日本.md "wikilink")[SONY於](https://zh.wikipedia.org/wiki/SONY "wikilink")2012年5月推出的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。（3G版本）但該機已在2012年2月時於[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[AT\&T合作推出](../Page/AT&T.md "wikilink")[4G
+ion**是[日本](../Page/日本.md "wikilink")電子公司[SONY於](https://zh.wikipedia.org/wiki/SONY "wikilink")2012年5月推出的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。（3G版本）但該機已在2012年2月時於[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[AT\&T](../Page/AT&T.md "wikilink")合作推出[4G
 LTE的版本](https://zh.wikipedia.org/wiki/LTE "wikilink")。
 
 ## 規格\[1\]
@@ -20,7 +20,7 @@ LTE的版本](https://zh.wikipedia.org/wiki/LTE "wikilink")。
   - xLoud、Clearbass
   - 設計國：
   - 産地國：
-  - 上市日期：2012年5月（ [臺灣及](../Page/臺灣.md "wikilink")
+  - 上市日期：2012年5月（ [臺灣](../Page/臺灣.md "wikilink")及
     [香港](../Page/香港.md "wikilink")）
 
 ## 顏色

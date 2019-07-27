@@ -1,5 +1,5 @@
 **《Japan Complete
-Edition》**集結[飛輪海的全部日文](../Page/飛輪海.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，發行日期為2009年9月16日。收入曲包括「我有我的Young」的日文版「僕らのシーズン」，以及在日本發行的三張單曲《Stay
+Edition》**集結[飛輪海](../Page/飛輪海.md "wikilink")的全部日文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，發行日期為2009年9月16日。收入曲包括「我有我的Young」的日文版「僕らのシーズン」，以及在日本發行的三張單曲《Stay
 with you》、《Treasure》和《ONLY YOU》內的6首日文歌曲。
 
 此版本附24頁booklet及DVD。Booklet收入未公開寫真及成員感想，DVD則收入MV、CM、message和宣傳活動等影像。

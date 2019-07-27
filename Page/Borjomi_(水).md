@@ -5,14 +5,14 @@
 ()是產自[格魯吉亞](https://zh.wikipedia.org/wiki/格魯吉亞 "wikilink")[博爾若米峽谷的](https://zh.wikipedia.org/wiki/博爾若米 "wikilink")[蘇打](https://zh.wikipedia.org/wiki/蘇打水 "wikilink")[礦泉水](https://zh.wikipedia.org/wiki/礦泉水 "wikilink")，品牌以水源地命名。
 水流從海拔2300米的冰川覆蓋的山峰流出，再經由運輸管道運至灌裝工廠。\[1\]\[2\]
 Borjomi是格魯吉亞第三大出口商品，遠銷40餘個國家。\[3\]
-研究人員發現該水對[消化系統疾病及](https://zh.wikipedia.org/wiki/消化系統 "wikilink")[糖尿病有療效](../Page/糖尿病.md "wikilink")。\[4\]\[5\]
+研究人員發現該水對[消化系統疾病及](https://zh.wikipedia.org/wiki/消化系統 "wikilink")[糖尿病](../Page/糖尿病.md "wikilink")有療效。\[4\]\[5\]
 \[6\]\[7\]
 
 ## 歷史
 
 該水源地的發現歷史超過一千年。\[8\]考古學家在該地發現的七個大石制浴缸可追溯至公元七世紀，證實该水源的使用歷史，最初可能作洗浴用水。\[9\]
-1820年，[俄羅斯帝國軍隊發現Borjomi泉水](https://zh.wikipedia.org/wiki/俄羅斯帝國 "wikilink")，使[博爾若米成為旅遊勝地](https://zh.wikipedia.org/wiki/博爾若米 "wikilink")。Borjomi品牌的歷史與[罗曼诺夫王朝歷史息息相關](../Page/罗曼诺夫王朝.md "wikilink")。
-[1917年俄国革命及](../Page/1917年俄国革命.md "wikilink")[蘇聯入侵格魯吉亞戰爭後](https://zh.wikipedia.org/wiki/蘇聯入侵格魯吉亞 "wikilink"),
+1820年，[俄羅斯帝國軍隊發現Borjomi泉水](https://zh.wikipedia.org/wiki/俄羅斯帝國 "wikilink")，使[博爾若米成為旅遊勝地](https://zh.wikipedia.org/wiki/博爾若米 "wikilink")。Borjomi品牌的歷史與[罗曼诺夫王朝](../Page/罗曼诺夫王朝.md "wikilink")歷史息息相關。
+[1917年俄国革命](../Page/1917年俄国革命.md "wikilink")及[蘇聯入侵格魯吉亞戰爭後](https://zh.wikipedia.org/wiki/蘇聯入侵格魯吉亞 "wikilink"),
 Borjomi被國有化，並作為蘇聯的出口商品。\[10\]
 
 ## 包装

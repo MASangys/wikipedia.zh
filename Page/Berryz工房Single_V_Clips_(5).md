@@ -1,5 +1,5 @@
 『**Berryz工房Single V Clips
-⑤**』（）是[Berryz工房的第](../Page/Berryz工房.md "wikilink")5張PV集。2011年8月17日發售。唱片公司是[PICCOLO
+⑤**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第5張PV集。2011年8月17日發售。唱片公司是[PICCOLO
 TOWN](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")。
 
 ## 收錄内容

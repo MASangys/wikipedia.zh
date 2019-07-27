@@ -2,7 +2,7 @@
 [Imperial_Kennedy_Podium_view_2017.jpg](https://zh.wikipedia.org/wiki/File:Imperial_Kennedy_Podium_view_2017.jpg "fig:Imperial_Kennedy_Podium_view_2017.jpg")
 [Imperial_Kennedy_Shops.jpg](https://zh.wikipedia.org/wiki/File:Imperial_Kennedy_Shops.jpg "fig:Imperial_Kennedy_Shops.jpg")
 **Imperial
-Kennedy**，位於[香港](../Page/香港.md "wikilink")[中西區](../Page/中西區_\(香港\).md "wikilink")[堅尼地城](../Page/堅尼地城.md "wikilink")[卑路乍街](../Page/卑路乍街.md "wikilink")68號，是[新鴻基地產的發展項目](../Page/新鴻基地產.md "wikilink")，於2016年6月入伙，由新輝城建工程負責承建。物業屬單幢住宅，樓高38層，共提供161個住宅單位。項目在2013年11月開售，平均實用呎價2.99萬元，直逼[薄扶林](../Page/薄扶林.md "wikilink")[貝沙灣造價](../Page/貝沙灣.md "wikilink")。示範單位設於[中環](../Page/中環.md "wikilink")[國際金融中心一期](https://zh.wikipedia.org/wiki/國際金融中心 "wikilink")。\[1\]
+Kennedy**，位於[香港](../Page/香港.md "wikilink")[中西區](../Page/中西區_\(香港\).md "wikilink")[堅尼地城](../Page/堅尼地城.md "wikilink")[卑路乍街](../Page/卑路乍街.md "wikilink")68號，是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的發展項目，於2016年6月入伙，由新輝城建工程負責承建。物業屬單幢住宅，樓高38層，共提供161個住宅單位。項目在2013年11月開售，平均實用呎價2.99萬元，直逼[薄扶林](../Page/薄扶林.md "wikilink")[貝沙灣](../Page/貝沙灣.md "wikilink")造價。示範單位設於[中環](../Page/中環.md "wikilink")[國際金融中心一期](https://zh.wikipedia.org/wiki/國際金融中心 "wikilink")。\[1\]
 
 ## 單位
 

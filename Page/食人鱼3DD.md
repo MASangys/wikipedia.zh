@@ -1,4 +1,4 @@
-《**食人鱼3DD**》（）是2012年5月11日上映于[美国的](../Page/美国.md "wikilink")[科幻片和](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")，前集是《[食人鱼3D](../Page/食人鱼3D.md "wikilink")》。
+《**食人鱼3DD**》（）是2012年5月11日上映于[美国](../Page/美国.md "wikilink")的[科幻片和](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")，前集是《[食人鱼3D](../Page/食人鱼3D.md "wikilink")》。
 
 ## 剧情
 
@@ -105,7 +105,7 @@ Tabitha Taylor</p></td>
 
 ## 花絮
 
-电影在[香港上映](../Page/香港.md "wikilink")，碰上本土片《[喜爱夜蒲2](https://zh.wikipedia.org/wiki/喜爱夜蒲2 "wikilink")》，票房惨淡。\[1\]
+电影在[香港](../Page/香港.md "wikilink")上映，碰上本土片《[喜爱夜蒲2](https://zh.wikipedia.org/wiki/喜爱夜蒲2 "wikilink")》，票房惨淡。\[1\]
 
 电影的上集导演是亚历山大·阿嘉，这次是约翰·古拉格执导。
 

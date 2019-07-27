@@ -9,11 +9,11 @@ M2](https://zh.wikipedia.org/wiki/佳能_EOS_M2 "wikilink")。
 [Canon_EOS-5D_vs_EOS-M.JPG](https://zh.wikipedia.org/wiki/File:Canon_EOS-5D_vs_EOS-M.JPG "fig:Canon_EOS-5D_vs_EOS-M.JPG")
 佳能 EOS M 机身类似长方体，尺寸约为 109mm(W) x 67mm(H) x 32mm(D)。转角圆润，过度采用较多曲线设计。
 
-配置1800万像素，APS-C规格的[CMOS传感器](https://zh.wikipedia.org/wiki/CMOS "wikilink")，但类似佳能公司其他产品，[焦距转换率为](../Page/焦距转换率.md "wikilink")1.6x；处理器为[DIGIC
+配置1800万像素，APS-C规格的[CMOS传感器](https://zh.wikipedia.org/wiki/CMOS "wikilink")，但类似佳能公司其他产品，[焦距转换率](../Page/焦距转换率.md "wikilink")为1.6x；处理器为[DIGIC
 5](https://zh.wikipedia.org/wiki/DIGIC "wikilink")；背部为不可翻转的3英寸可触控液晶螢幕，可以实现触控对焦拍摄。整体配置更像是小型化的[佳能
 EOS 650D](https://zh.wikipedia.org/wiki/650D "wikilink")。
 
-机身具备[热靴接口](../Page/热靴.md "wikilink")，可以使用佳能SPEEDLITE系列闪光灯，也可以使用其他附属产品如GPS记录器等。
+机身具备[热靴](../Page/热靴.md "wikilink")接口，可以使用佳能SPEEDLITE系列闪光灯，也可以使用其他附属产品如GPS记录器等。
 
 能源采用新款轻薄型的锂离子电池LP-E12，具备850mAh容量。其随后也在[佳能 EOS
 100D和续作](../Page/佳能_EOS_100D.md "wikilink")[佳能 EOS

@@ -1,5 +1,5 @@
 『**NO MORE
-假裝戀愛**』（）是[小貓俱樂部的第](../Page/小貓俱樂部.md "wikilink")7張單曲，於1987年1月21日發售。[Oricon初登場第](../Page/Oricon公信榜.md "wikilink")1位。
+假裝戀愛**』（）是[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")的第7張單曲，於1987年1月21日發售。[Oricon初登場第](../Page/Oricon公信榜.md "wikilink")1位。
 
 ## 解説
 

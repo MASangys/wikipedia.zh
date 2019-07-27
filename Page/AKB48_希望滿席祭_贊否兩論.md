@@ -1,5 +1,5 @@
 **AKB48 希望滿席祭
-贊否兩論**（）是日本女子偶像組合[AKB48於](../Page/AKB48.md "wikilink")2010年3月24至25日在[橫濱體育館舉行的演唱會](../Page/橫濱體育館.md "wikilink")。演出的團體包括AKB48、[SKE48及](../Page/SKE48.md "wikilink")[SDN48](../Page/SDN48.md "wikilink")\[1\]\[2\]\[3\]\[4\]。
+贊否兩論**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2010年3月24至25日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉行的演唱會。演出的團體包括AKB48、[SKE48](../Page/SKE48.md "wikilink")及[SDN48](../Page/SDN48.md "wikilink")\[1\]\[2\]\[3\]\[4\]。
 
 ## 概要
 
@@ -277,9 +277,9 @@
         B第4台劇場公演「[偶像的黎明](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")」會於2010年4月16日舉行千秋樂，而第5台劇場公演「[劇場的女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")」將於2010年5月21日開始公演。
       - Team
         A第5台劇場公演「[戀愛禁止條例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")」會於2010年5月27日舉行千秋樂，而第6台劇場公演「[目擊者](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")」將於2010年6月19日開始公演。
-      - 2010年6月26日會在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷Scala](../Page/曼谷.md "wikilink")
+      - 2010年6月26日會在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")Scala
         Theater舉行海外公演。
-      - 2010年7月10日至11日會在[國立代代木競技場第一體育館舉行演唱會](../Page/國立代代木競技場.md "wikilink")。
+      - 2010年7月10日至11日會在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行演唱會。
       - 2010年8月會在[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[札幌及](https://zh.wikipedia.org/wiki/札幌 "wikilink")[名古屋舉行全國巡回演唱會](https://zh.wikipedia.org/wiki/名古屋 "wikilink")\[16\]\[17\]\[18\]。
   - 3月25日公佈
       - 在下午的公演披露第16張單曲「[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")」的[PV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，並將於2010年5月26日發售。
@@ -318,8 +318,8 @@
 
 ## DVD
 
-演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS於](../Page/AKS.md "wikilink")2010年6月23日發行，同時發售DVD版本、DVD+MicroSD版本及Premium
-Box版本。DVD版本分為3個版本，分別收錄第1、第2及第3場演唱會內容，並附送1張生寫真及1張交易卡。DVD+MicroSD版本與DVD版本相似，但再包含收錄了演唱會內容的[MicroSD卡](../Page/MicroSD.md "wikilink")，可以在流動裝備中播放。Premium
+演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2010年6月23日發行，同時發售DVD版本、DVD+MicroSD版本及Premium
+Box版本。DVD版本分為3個版本，分別收錄第1、第2及第3場演唱會內容，並附送1張生寫真及1張交易卡。DVD+MicroSD版本與DVD版本相似，但再包含收錄了演唱會內容的[MicroSD](../Page/MicroSD.md "wikilink")卡，可以在流動裝備中播放。Premium
 Box版本亦分為3個版本，分別是Team A、Team K及Team
 B版本。三個版本都包含收錄了3場演唱會及特典片段的DVD、5張生寫真、1張交易卡及120頁寫真集，而3個版本的分別為其包裝，分別印上各Team成員寫下的字句\[26\]\[27\]。
 

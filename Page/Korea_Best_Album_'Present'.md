@@ -1,5 +1,5 @@
 《**Japan Best Album
-'Present**'》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE首張](../Page/CNBLUE.md "wikilink")[韓語精選輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2014年2月5日發行，大碟輯錄了20首他們在韓國發行的歌曲\[1\]。
+'Present**'》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[韓語精選輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2014年2月5日發行，大碟輯錄了20首他們在韓國發行的歌曲\[1\]。
 
 ## 背景
 
@@ -10,7 +10,7 @@
 此專輯共分為2個發行版本：
 
   - 初回限定盤（編號：WPZL-30815/7）：此版本包括兩片CD及一片收錄《Love》、《直感》及《LOVE
-    GIRL》[音樂錄影帶DVD](../Page/音樂錄影帶.md "wikilink")，另外附贈2014年1月至6月的半年曆\[5\]。
+    GIRL》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")DVD，另外附贈2014年1月至6月的半年曆\[5\]。
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 專輯日榜                                     | 2    | 13,044 | 23,983+ | 7星期  |
 | 專輯週榜                                     | 2    | 19,729 |         |      |

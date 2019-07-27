@@ -1,5 +1,5 @@
 《**Mind
-Travel**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/Superfly.md "wikilink")2011年6月15日發行的3rd原創專輯。
+Travel**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2011年6月15日發行的3rd原創專輯。
 
 ## 解說
 
@@ -17,7 +17,7 @@ Travel**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/
     WAVE現場轉播。
   - 本作或得[公信榜初登場第一名](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，為出道以來3張連續冠軍的專輯。另外，單曲《Wildflower
     & Cover Songs:Complete Best 'TRACK
-    3'》專輯榜也獲得第一名，4張連續冠軍的記錄為女性藝人[宇多田光以来](../Page/宇多田光.md "wikilink")7年3個月再次有人達到\[1\]。
+    3'》專輯榜也獲得第一名，4張連續冠軍的記錄為女性藝人[宇多田光](../Page/宇多田光.md "wikilink")以来7年3個月再次有人達到\[1\]。
 
 ## 發行版本
 
@@ -33,7 +33,7 @@ Travel**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/
         作詞：越智志帆　作曲：多保孝一　編曲：[蔦谷好位置](https://zh.wikipedia.org/wiki/蔦谷好位置 "wikilink")
     <!-- end list -->
       - 先行配信的配信單曲。
-      - [富士電視台連續劇](../Page/富士電視台.md "wikilink")《[BOSS](https://zh.wikipedia.org/wiki/BOSS "wikilink")
+      - [富士電視台](../Page/富士電視台.md "wikilink")連續劇《[BOSS](https://zh.wikipedia.org/wiki/BOSS "wikilink")
         第2季》主題歌。
 2.  **[Beep\!\!](https://zh.wikipedia.org/wiki/Beep!!/Sunshine_Sunshine "wikilink")**
       -
@@ -87,7 +87,7 @@ Travel**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/
         作詞：越智志帆　作曲：多保孝一　編曲：蔦谷好位置
     <!-- end list -->
       - 10th單曲。
-      - [富士電視台連續劇](../Page/富士電視台.md "wikilink")「[GOLD](../Page/GOLD.md "wikilink")」主題歌。
+      - [富士電視台](../Page/富士電視台.md "wikilink")連續劇「[GOLD](../Page/GOLD.md "wikilink")」主題歌。
 11. **Free Planet**
       -
         作詞：越智志帆　作曲：多保孝一　編曲：蔦谷好位置

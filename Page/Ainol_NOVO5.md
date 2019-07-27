@@ -1,4 +1,4 @@
-**NOVO5**是由[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[艾諾電子所研發及生產](https://zh.wikipedia.org/wiki/艾諾電子 "wikilink")，使用5吋[顯示面板](https://zh.wikipedia.org/wiki/顯示面板 "wikilink")、並採用[Android操作系統的](../Page/Android.md "wikilink")[平板電腦系列](../Page/平板電腦.md "wikilink")。\[1\]
+**NOVO5**是由[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[艾諾電子所研發及生產](https://zh.wikipedia.org/wiki/艾諾電子 "wikilink")，使用5吋[顯示面板](https://zh.wikipedia.org/wiki/顯示面板 "wikilink")、並採用[Android](../Page/Android.md "wikilink")操作系統的[平板電腦](../Page/平板電腦.md "wikilink")系列。\[1\]
 
 NOVO5是2011年上半年上市的普及版，內設256MB
 [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，8

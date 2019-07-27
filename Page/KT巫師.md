@@ -1,4 +1,4 @@
-**KT巫師**（）是一支[韓國棒球委員會球隊](../Page/韓國棒球委員會.md "wikilink")，成立於2013年，母企業為[韓國通訊](../Page/KT公司.md "wikilink")，主場為位於[水原市的](../Page/水原市.md "wikilink")[水原棒球場](https://zh.wikipedia.org/wiki/水原棒球場 "wikilink")。2014年開始參加韓國職棒二軍聯盟的賽事。2015年賽季加入[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，成為該聯盟第10支球隊。
+**KT巫師**（）是一支[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")球隊，成立於2013年，母企業為[韓國通訊](../Page/KT公司.md "wikilink")，主場為位於[水原市](../Page/水原市.md "wikilink")的[水原棒球場](https://zh.wikipedia.org/wiki/水原棒球場 "wikilink")。2014年開始參加韓國職棒二軍聯盟的賽事。2015年賽季加入[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，成為該聯盟第10支球隊。
 
 ## 歷代教練
 

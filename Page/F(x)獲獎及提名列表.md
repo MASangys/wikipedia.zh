@@ -279,7 +279,7 @@
 </tbody>
 </table>
 
-### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
+### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
 <table>
 <thead>
@@ -345,7 +345,7 @@
 </tbody>
 </table>
 
-### [Mnet亞洲音樂大獎（Mnet Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
 <table>
 <thead>

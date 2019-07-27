@@ -1,4 +1,4 @@
-**ABC足球俱乐部**，一般稱為**ABC納泰**，为[巴西](../Page/巴西.md "wikilink")[北大河州](https://zh.wikipedia.org/wiki/北大河州 "wikilink")[纳塔尔市的一个](https://zh.wikipedia.org/wiki/纳塔尔 "wikilink")[足球俱乐部](../Page/足球.md "wikilink")，成立于1915年。该队现在参加[巴西足球乙级联赛](../Page/巴西足球乙级联赛.md "wikilink")。ABC这3个字母分别代表阿根廷(Argentina)、巴西(Brazil)、智利(Chile)。
+**ABC足球俱乐部**，一般稱為**ABC納泰**，为[巴西](../Page/巴西.md "wikilink")[北大河州](https://zh.wikipedia.org/wiki/北大河州 "wikilink")[纳塔尔市的一个](https://zh.wikipedia.org/wiki/纳塔尔 "wikilink")[足球](../Page/足球.md "wikilink")俱乐部，成立于1915年。该队现在参加[巴西足球乙级联赛](../Page/巴西足球乙级联赛.md "wikilink")。ABC这3个字母分别代表阿根廷(Argentina)、巴西(Brazil)、智利(Chile)。
 
 ## 榮譽
 

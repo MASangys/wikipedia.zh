@@ -1,5 +1,5 @@
 「**AAA TOUR 2012 -777- TRIPLE
-SEVEN**」是[日本的](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2013年2月13日推出的DVD，由[avex
+SEVEN**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2013年2月13日推出的DVD，由[avex
 trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
@@ -8,7 +8,7 @@ trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     Tokyo](../Page/AAA_6th_Anniversary_Tour_2011.9.28_at_Zepp_Tokyo.md "wikilink")」相距約1年。
   - 是AAA于2012年8月22日推出第7枚原创专辑“777 ～TRIPLE
     SEVEN～”前举行的全国巡回演唱会，由2012年4月21日开始，至2012年10月8日，一共39场公演。
-  - 此DVD收錄了AAA於2012年9月23日在[橫濱體育館舉行](../Page/橫濱體育館.md "wikilink")《AAA
+  - 此DVD收錄了AAA於2012年9月23日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉行《AAA
     TOUR 2012 -777- TRIPLE SEVEN 7th Anniversary Autumn
     stAge》的公演，共演唱24首曲目。
   - 原定與單曲「[Miss

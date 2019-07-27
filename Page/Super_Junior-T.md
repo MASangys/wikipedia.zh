@@ -5,7 +5,7 @@ Junior六名成員組成](../Page/Super_Junior.md "wikilink")，成員包括
 [利特](../Page/利特.md "wikilink")
 (隊長)、[希澈](../Page/希澈.md "wikilink")、
 [強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、
-[晟敏與](../Page/晟敏.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")。\[1\]
+[晟敏](../Page/晟敏.md "wikilink")與[銀赫](../Page/銀赫.md "wikilink")。\[1\]
 
 ## 簡介
 
@@ -16,7 +16,7 @@ Junior在韩国凭借轻快的曲风和华丽的舞蹈在韩国和亚洲都有�
 Junior中的](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")
 (隊長)、[希澈](../Page/希澈.md "wikilink")、
 [強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、
-[晟敏與](../Page/晟敏.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")6名成员組成了“Super
+[晟敏](../Page/晟敏.md "wikilink")與[銀赫](../Page/銀赫.md "wikilink")6名成员組成了“Super
 Junior-T”。“T”代表“[韓國演歌](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")”（**T**rot
 /民谣），希望能够让世界都知道韩国传统的Trot音乐的魅力。
 

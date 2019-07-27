@@ -62,7 +62,7 @@ Astro制作和其他影視製作公司達成中文電視劇製作之合作協議
 <td><p><a href="https://zh.wikipedia.org/wiki/己子當歸" title="wikilink">己子當歸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/譚少佳" title="wikilink">譚少佳</a>、<a href="https://zh.wikipedia.org/wiki/吳金英" title="wikilink">吳金英</a>、<a href="https://zh.wikipedia.org/wiki/夏雨" title="wikilink">夏雨</a>、<a href="https://zh.wikipedia.org/wiki/呂愛瓊" title="wikilink">呂愛瓊</a>、<a href="https://zh.wikipedia.org/wiki/王愛玲" title="wikilink">王愛玲</a>、<a href="https://zh.wikipedia.org/wiki/黃翠玲" title="wikilink">黃翠玲</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龍德耀" title="wikilink">龍德耀</a></p></td>
-<td><p><a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台首播</a><br />
+<td><p><a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台</a>首播<br />
 製作單位為<a href="https://zh.wikipedia.org/wiki/Double_Vision" title="wikilink">Double Vision</a></p></td>
 </tr>
 <tr class="odd">

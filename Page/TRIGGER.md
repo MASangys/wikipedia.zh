@@ -2,14 +2,14 @@
 
 ## 概要
 
-2011年上旬，於[GAINAX完成](../Page/GAINAX.md "wikilink")《[吊帶襪天使](https://zh.wikipedia.org/wiki/吊帶襪天使 "wikilink")》的工作後，社員大塚雅彥、[今石洋之和舛本和也帶領部分核心製作夥伴離開公司](../Page/今石洋之.md "wikilink")，
+2011年上旬，於[GAINAX](../Page/GAINAX.md "wikilink")完成《[吊帶襪天使](https://zh.wikipedia.org/wiki/吊帶襪天使 "wikilink")》的工作後，社員大塚雅彥、[今石洋之](../Page/今石洋之.md "wikilink")和舛本和也帶領部分核心製作夥伴離開公司，
 \[1\]並於8月22日正式成立新公司，社名緣由是寓意創作猶如子彈射出時被「觸發」的一瞬間。 \[2\]
 設立前曾經構想過集合行業以內各中小型動畫公司及工作室，形成影響力廣大的控股公司「Ultra
 Super
 Pictures」。後來基於[日本動畫行業的傳統和各個製作班底的自主性方針](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，決定暫時只需名義上加入有關主公司，大部分接收工作的決定依舊會由工作室本身處理。
 
 目前，公司積極參與各項激發創意的活動和展覽會，更曾為繼續編寫已有作品之新系列而進行公開募捐。\[3\]
-製作多為社內人員原創並偏[金田伊功的風格](../Page/金田伊功.md "wikilink")\[4\]。2013年10月，推出第一部長篇[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《Kill
+製作多為社內人員原創並偏[金田伊功](../Page/金田伊功.md "wikilink")的風格\[4\]。2013年10月，推出第一部長篇[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《Kill
 La Kill》。
 
 ## 作品一覽
@@ -165,7 +165,7 @@ La Kill》。
 <td><p><a href="../Page/電光超人古立特.md" title="wikilink">電光超人古立特</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/日本動畫人展覽會.md" title="wikilink">日本動畫人展覽會作品</a></p></td>
+<td><p><a href="../Page/日本動畫人展覽會.md" title="wikilink">日本動畫人展覽會</a>作品</p></td>
 </tr>
 </tbody>
 </table>

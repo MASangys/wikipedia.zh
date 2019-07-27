@@ -16,7 +16,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
 
 ## 原聲帶
 
-  - 2012年4月24日，[SM娛樂發佈電影主題曲](../Page/SM娛樂.md "wikilink")〈Dear My
+  - 2012年4月24日，[SM娛樂](../Page/SM娛樂.md "wikilink")發佈電影主題曲〈Dear My
     Family〉的音樂錄影帶。這首歌曲是翻唱收錄於[俞永鎮](https://zh.wikipedia.org/wiki/俞永鎮 "wikilink")2001年第三張專輯的同名歌曲。
   - 這首歌曲的另一版本收錄於[SMTOWN於](https://zh.wikipedia.org/wiki/SMTOWN "wikilink")2002年推出的第四張冬季合輯《[2002
     Winter Vacation in SMTown.com – My Angel My

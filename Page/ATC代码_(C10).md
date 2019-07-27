@@ -1,4 +1,4 @@
-## C10A [血脂调节剂](../Page/血脂.md "wikilink")，单方（Lipid modifying agents, plain）
+## C10A [血脂](../Page/血脂.md "wikilink")调节剂，单方（Lipid modifying agents, plain）
 
 ### C10AA β-羟基-β-甲基戊二酸单酰辅酶A还原酶抑制药（HMG CoA reductase inhibitors）
 
@@ -45,7 +45,7 @@
     [非诺贝酸](https://zh.wikipedia.org/wiki/非诺贝酸 "wikilink")（Choline
     fenofibrate）
 
-### C10AC [胆酸螯合剂](../Page/胆酸.md "wikilink")（Bile acid sequestrants）
+### C10AC [胆酸](../Page/胆酸.md "wikilink")螯合剂（Bile acid sequestrants）
 
   -
     C10AC01
@@ -117,7 +117,7 @@
 
   -
     C10BX01
-    [辛伐他汀和](../Page/辛伐他汀.md "wikilink")[乙酰水杨酸](https://zh.wikipedia.org/wiki/乙酰水杨酸 "wikilink")（Simvastatin
+    [辛伐他汀](../Page/辛伐他汀.md "wikilink")和[乙酰水杨酸](https://zh.wikipedia.org/wiki/乙酰水杨酸 "wikilink")（Simvastatin
     and acetylsalicylic acid）
     C10BX02
     [普伐他汀和乙酰水杨酸](https://zh.wikipedia.org/wiki/普伐他汀 "wikilink")（Pravastatin

@@ -1,5 +1,5 @@
 **Jevice**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2012年推出的二人女子團體，成員包括HaNa、[JuRi](http://www.generasia.com/wiki/Juri)。Jevice是由Jewelry和Voice兩個單字組成，意指「具有寶石般的歌聲」。此外，經紀公司也表示：「目前在樂壇上雙人組合不是很多，也希望他們能以[As
-One](https://zh.wikipedia.org/wiki/As_One_\(韓國\) "wikilink")，[Davichi的方向努力](../Page/Davichi.md "wikilink")」。
+One](https://zh.wikipedia.org/wiki/As_One_\(韓國\) "wikilink")，[Davichi](../Page/Davichi.md "wikilink")的方向努力」。
 
 **Jevice**的粉絲名稱為**「GEMINIS」**。
 

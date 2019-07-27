@@ -1,4 +1,4 @@
-是由日本作家[松岡圭祐所撰寫的](../Page/松岡圭祐.md "wikilink")[推理小說系列](../Page/推理小說.md "wikilink")，封面插畫為[清原紘繪製](../Page/清原紘.md "wikilink")。由[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）刊行。[漫畫於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2013年2月開始連載，2017年三月完結。
+是由日本作家[松岡圭祐](../Page/松岡圭祐.md "wikilink")所撰寫的[推理小說](../Page/推理小說.md "wikilink")系列，封面插畫為[清原紘](../Page/清原紘.md "wikilink")繪製。由[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）刊行。[漫畫於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2013年2月開始連載，2017年三月完結。
 
 Q系列包括第一部《**万能鑑定士Q的事件簿**》（、Case Files of All-Round Appraiser
 Q）、第二部《**万能鑑定士Q的推理劇**》（、The Mystery Featuring of
@@ -34,7 +34,7 @@ All-Round Appraiser Q）。
 
 ## 小說
 
-系列日文版由[角川書店發行](../Page/角川書店.md "wikilink")。第一部《万能鑑定士Q的事件簿》繁體中文版由[圓神出版社代理](../Page/圓神出版社.md "wikilink")，簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
+系列日文版由[角川書店](../Page/角川書店.md "wikilink")發行。第一部《万能鑑定士Q的事件簿》繁體中文版由[圓神出版社](../Page/圓神出版社.md "wikilink")代理，簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
 
 <table>
 <thead>
@@ -289,7 +289,7 @@ All-Round Appraiser Q）。
 
 ## 漫畫
 
-日文版由[角川書店發行](../Page/角川書店.md "wikilink")。繁體中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")，其中香港地區代理為[香港角川](../Page/香港角川.md "wikilink")。
+日文版由[角川書店](../Page/角川書店.md "wikilink")發行。繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理發行，其中香港地區代理為[香港角川](../Page/香港角川.md "wikilink")。
 
 <table>
 <thead>

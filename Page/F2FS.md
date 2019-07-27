@@ -1,6 +1,6 @@
-**F2FS**（）是一種[快閃記憶體檔案系統](../Page/快閃記憶體檔案系統.md "wikilink")，主要由[金載極](https://zh.wikipedia.org/wiki/金載極 "wikilink")（）在[三星集团研發](https://zh.wikipedia.org/wiki/三星集团 "wikilink")，适合[Linux内核使用](../Page/Linux内核.md "wikilink")\[1\]。
+**F2FS**（）是一種[快閃記憶體檔案系統](../Page/快閃記憶體檔案系統.md "wikilink")，主要由[金載極](https://zh.wikipedia.org/wiki/金載極 "wikilink")（）在[三星集团研發](https://zh.wikipedia.org/wiki/三星集团 "wikilink")，适合[Linux内核](../Page/Linux内核.md "wikilink")使用\[1\]。
 
-此檔案系統起初是為了[NAND闪存的存储设备設計](../Page/闪存.md "wikilink")（诸如[固态硬盘](../Page/固态硬盘.md "wikilink")、[eMMC和](../Page/多媒體記憶卡.md "wikilink")[SD卡](../Page/SD卡.md "wikilink")），这些设备广泛存在于自[移动设备至](../Page/移动设备.md "wikilink")[服务器领域](../Page/服务器.md "wikilink")。
+此檔案系統起初是為了[NAND闪存的存储设备設計](../Page/闪存.md "wikilink")（诸如[固态硬盘](../Page/固态硬盘.md "wikilink")、[eMMC和](../Page/多媒體記憶卡.md "wikilink")[SD卡](../Page/SD卡.md "wikilink")），这些设备广泛存在于自[移动设备](../Page/移动设备.md "wikilink")至[服务器](../Page/服务器.md "wikilink")领域。
 
 三星應用了日誌結構檔案系統的概念，使它更適合用於儲存設備。
 
@@ -84,7 +84,7 @@ indices），两个直接节点指针，两个间接节点指针，以及一个d
 
 | hash | 文件名的散列值                                |
 | :--- | :------------------------------------- |
-| ino  | [Inode号码](../Page/Inode.md "wikilink") |
+| ino  | [Inode](../Page/Inode.md "wikilink")号码 |
 | len  | 文件名长度                                  |
 | type | 文件类型，如目录、符号链接等。                        |
 
@@ -145,7 +145,7 @@ F2FS在需要时和后台闲置时进行清理。按需清理在没有足够的�
 
 F2FS支持两种受者选择策略：贪婪、成本效益算法。在贪婪算法中，F2FS选择有最小有效块数的受者段。在成本效益算法中，F2FS根据段的年龄和有效块数量选择受者段，以解决贪婪算法中存在的日志块抖动问题。F2FS使用贪婪算法进行按需清理，后台清理器则使用成本效益算法。
 
-为识别受者段中的数据是否有效，F2FS管理了一个位图，其中用一个[位元表示一个块的有效性](../Page/位元.md "wikilink")，覆盖主区域所有块的位元流组成了该位图。
+为识别受者段中的数据是否有效，F2FS管理了一个位图，其中用一个[位元](../Page/位元.md "wikilink")表示一个块的有效性，覆盖主区域所有块的位元流组成了该位图。
 
 ## 相關條目
 

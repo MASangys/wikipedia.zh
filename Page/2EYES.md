@@ -1,7 +1,7 @@
-**2EYES**（），是[韓國公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SidusHQ繼推出韓國國民偶像團體](../Page/SidusHQ.md "wikilink")[g.o.d之後](https://zh.wikipedia.org/wiki/g.o.d "wikilink")，時隔十多年再度推出的偶像團體，為四人女子演唱團體，成員包括香淑、慧潾、多慎、多恩四名，團名的寓意是透過自身與粉絲的雙眼分享對音樂的共鳴。2013年6月20日，在《[M\!
+**2EYES**（），是[韓國公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SidusHQ](../Page/SidusHQ.md "wikilink")繼推出韓國國民偶像團體[g.o.d之後](https://zh.wikipedia.org/wiki/g.o.d "wikilink")，時隔十多年再度推出的偶像團體，為四人女子演唱團體，成員包括香淑、慧潾、多慎、多恩四名，團名的寓意是透過自身與粉絲的雙眼分享對音樂的共鳴。2013年6月20日，在《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》以《別囂張》一曲正式出道。
 
-出道之前，香淑、慧潾、多慎和多恩便參與由[SidusHQ主辦的](../Page/SidusHQ.md "wikilink")[JTBC電視台選秀節目](../Page/JTBC.md "wikilink")《》，多慎為節目最終冠軍。慧潾曾為[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink")。
+出道之前，香淑、慧潾、多慎和多恩便參與由[SidusHQ](../Page/SidusHQ.md "wikilink")主辦的[JTBC](../Page/JTBC.md "wikilink")電視台選秀節目《》，多慎為節目最終冠軍。慧潾曾為[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生。
 
 2015年，成員延峻退出。8月11日，韓國媒體Xportsnews報導，根據相關人員的說法，原本是五人團的2EYES，在成員延峻退出之後，將以四人團體的體制活動，不會增加新成員，而離開的成員延峻會留在公司Sidus
 HQ，準備SOLO活動。\[1\]
@@ -116,7 +116,7 @@ NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》，香淑合格。在
 | 2013年7月20日        | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")    | 全體              | －                  |
 | 2013年8月18日－10月27日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | 尋笑人                                                            | 多恩              | 固定演出，10/13為全體演出    |
 | 2013年9月25日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")               | 全體              | 與A-JAX，8/20錄影      |
-| 2013年11月23日       | [JTBC](../Page/JTBC.md "wikilink")                         | [隱藏歌手第二季](../Page/隱藏歌手.md "wikilink")                          | 延峻              | IU篇，10/23錄影        |
+| 2013年11月23日       | [JTBC](../Page/JTBC.md "wikilink")                         | [隱藏歌手](../Page/隱藏歌手.md "wikilink")第二季                          | 延峻              | IU篇，10/23錄影        |
 | 2014年1月31日        | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")        | 明星 vs 國民挑戰者                                                    | 全體              | －                  |
 | 2014年2月2日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")        | [出發夢之隊2](https://zh.wikipedia.org/wiki/出發夢之隊2 "wikilink")      | 全體              | －                  |
 | 2015年6月19日－9月4日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")        | [秘密武器 她](../Page/秘密武器_她.md "wikilink")                         | 多恩              | 固定演出               |

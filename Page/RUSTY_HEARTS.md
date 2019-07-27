@@ -1,5 +1,5 @@
 《**RUSTY
-HEARTS**》是[BREAKERZ的第](../Page/BREAKERZ.md "wikilink")14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年1月16日由[ZAIN
+HEARTS**》是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年1月16日由[ZAIN
 RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 概要

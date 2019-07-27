@@ -4,7 +4,7 @@ Bakalov開發的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[
 
 ## 設計
 
-Bakalov的基本設計是以[AK槍族作雛型](https://zh.wikipedia.org/wiki/AK-47 "wikilink")，但被改為犢牛式設計，而且全槍由72個部份組成；此槍有三種不同口徑的型號可供選擇，包括：[5.56×45mm口徑型](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51mm口徑型及](../Page/7.62×51mm_NATO.md "wikilink")[7.62×39mm口徑型](../Page/7.62×39mm.md "wikilink")；如有需要，用戶更可在其護木上更能加裝40
+Bakalov的基本設計是以[AK槍族作雛型](https://zh.wikipedia.org/wiki/AK-47 "wikilink")，但被改為犢牛式設計，而且全槍由72個部份組成；此槍有三種不同口徑的型號可供選擇，包括：[5.56×45mm口徑型](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51mm口徑型及](../Page/7.62×51mm_NATO.md "wikilink")[7.62×39mm](../Page/7.62×39mm.md "wikilink")口徑型；如有需要，用戶更可在其護木上更能加裝40
 毫米[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。
 
 ## 發展

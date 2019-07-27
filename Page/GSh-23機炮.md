@@ -1,4 +1,4 @@
-**GSh-23機炮**是前[蘇聯為了取代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[NR-23機炮而開發的](../Page/NR-23機炮.md "wikilink")23毫米口徑空用機炮，該機炮採用雙炮管，該型機炮被分成基本型的GSh-23和略為加長的GSh-23L，該型機炮在中國也有生產，名稱是23-3型。
+**GSh-23機炮**是前[蘇聯為了取代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[NR-23機炮](../Page/NR-23機炮.md "wikilink")而開發的23毫米口徑空用機炮，該機炮採用雙炮管，該型機炮被分成基本型的GSh-23和略為加長的GSh-23L，該型機炮在中國也有生產，名稱是23-3型。
 
 ## 基本資料
 
@@ -6,7 +6,7 @@
   - 槍管長：1,000毫米
   - 槍重：49.2公斤（GSh-23）/50公斤（GSh-23L）
   - 口徑：23毫米
-  - 子彈：[AM-23機炮炮彈](../Page/AM-23機炮.md "wikilink")（23x115毫米）
+  - 子彈：[AM-23機炮](../Page/AM-23機炮.md "wikilink")炮彈（23x115毫米）
   - 子彈初速：715米/秒
   - 射速：3,400至3,600發/分鐘
   - 作用方式：氣動式
@@ -22,7 +22,7 @@
   - [米格-23](https://zh.wikipedia.org/wiki/米格-23 "wikilink")
   - [Mi-24PV武裝直昇機](../Page/Mi-24雌鹿直升機.md "wikilink")
   - JF17[梟龍戰鬥機](https://zh.wikipedia.org/wiki/梟龍戰鬥機 "wikilink")
-  - [歼-7C](../Page/歼-7.md "wikilink")/D
+  - [歼-7](../Page/歼-7.md "wikilink")C/D
   - [歼-8](../Page/歼-8.md "wikilink")
   - [歼-10](../Page/歼-10.md "wikilink")
 

@@ -3,10 +3,10 @@
 [SMI_RED250mobile.jpg](https://zh.wikipedia.org/wiki/File:SMI_RED250mobile.jpg "fig:SMI_RED250mobile.jpg")
 
 **SMI**\[1\]（**SensoMotoric
-Instruments**），是一家提供计算机视觉应用的德国制造商，专注于[眼动追踪技术](../Page/眼动追踪.md "wikilink")。SMI的成立可以追溯到1991年在[柏林自由大学进行的学术和医学研究](../Page/柏林自由大学.md "wikilink")。该公司的总部设在[德国](../Page/德国.md "wikilink")[柏林附近的泰尔托市](../Page/柏林.md "wikilink")，并在[美国马萨诸塞州](../Page/美国.md "wikilink")[波士顿和加利福尼亚州的](../Page/波士顿.md "wikilink")[旧金山设有办事处](../Page/旧金山.md "wikilink")，其经销商与合作商遍布全球。
+Instruments**），是一家提供计算机视觉应用的德国制造商，专注于[眼动追踪](../Page/眼动追踪.md "wikilink")技术。SMI的成立可以追溯到1991年在[柏林自由大学](../Page/柏林自由大学.md "wikilink")进行的学术和医学研究。该公司的总部设在[德国](../Page/德国.md "wikilink")[柏林](../Page/柏林.md "wikilink")附近的泰尔托市，并在[美国](../Page/美国.md "wikilink")马萨诸塞州[波士顿](../Page/波士顿.md "wikilink")和加利福尼亚州的[旧金山](../Page/旧金山.md "wikilink")设有办事处，其经销商与合作商遍布全球。
 
-SMI为科研、专业应用和原始设备制造（OEM）等领域提供眼动跟踪解决方案。SMI眼动跟踪系统被用于与头部和身体的[动作捕捉系统](../Page/动作捕捉.md "wikilink")\[2\]、[脑电图](https://zh.wikipedia.org/wiki/脑电图 "wikilink")
-\[3\]\[4\]及其他生物特征的数据组合，\[5\]并作为测量或交互方式被整合到[虚拟现实CAVE投影系统](../Page/虚拟现实.md "wikilink")、\[6\]头戴式装置，如谷歌眼镜\[7\]\[8\]或Oculus
+SMI为科研、专业应用和原始设备制造（OEM）等领域提供眼动跟踪解决方案。SMI眼动跟踪系统被用于与头部和身体的[动作捕捉](../Page/动作捕捉.md "wikilink")系统\[2\]、[脑电图](https://zh.wikipedia.org/wiki/脑电图 "wikilink")
+\[3\]\[4\]及其他生物特征的数据组合，\[5\]并作为测量或交互方式被整合到[虚拟现实](../Page/虚拟现实.md "wikilink")CAVE投影系统、\[6\]头戴式装置，如谷歌眼镜\[7\]\[8\]或Oculus
 Rift，\[9\]\[10\]\[11\]及模拟器、计算机、汽车中。
 
 ## 历史
@@ -25,11 +25,11 @@ SMI的眼控科技是基于对暗瞳及角膜反射的追踪：眼动仪中的�
 
 2015年DEWESoft与SMI就高级驾驶辅助系统（ADAS）项目合作，将驾驶器的监控分析平台与眼动追踪眼镜进行集成整合。\[24\]
 
-2014年，[红牛开始使用SMI的眼动追踪眼镜并将其作为红牛冲浪科学项目](https://zh.wikipedia.org/wiki/红牛 "wikilink")\[25\]\[26\]的重要一环。在2014年的[游戏开发者大会上](../Page/游戏开发者大会.md "wikilink")，[索尼推出了整合有SMI](../Page/索尼.md "wikilink")
+2014年，[红牛开始使用SMI的眼动追踪眼镜并将其作为红牛冲浪科学项目](https://zh.wikipedia.org/wiki/红牛 "wikilink")\[25\]\[26\]的重要一环。在2014年的[游戏开发者大会](../Page/游戏开发者大会.md "wikilink")上，[索尼](../Page/索尼.md "wikilink")推出了整合有SMI
 RED-oem眼动追踪系统的[PS4游戏](https://zh.wikipedia.org/wiki/PS4 "wikilink")《[惡名昭彰：第二之子](../Page/惡名昭彰：第二之子.md "wikilink")》（Infamous:
 Second Son）。\[27\]\[28\]\[29\]
 
-2013年，SMI与TechViz公司将3D眼动追踪眼镜\[30\]\[31\]与3D可视化软件整合，使眼动追踪完全浸入[虚拟现实CAVE系统](../Page/虚拟现实.md "wikilink")。\[32\]
+2013年，SMI与TechViz公司将3D眼动追踪眼镜\[30\]\[31\]与3D可视化软件整合，使眼动追踪完全浸入[虚拟现实](../Page/虚拟现实.md "wikilink")CAVE系统。\[32\]
 Volfoni也曾参与研发SMI 3D眼镜。\[33\]
 WorldViz与SMI协同开发了三维物体与视线向量的交错计算，数据保存至同一个数据库，实现了更深层的数据分析。\[34\]德国人工智能研究中心（DFKI）使用SMI眼动追踪眼镜创建了一个名为Talking
 Places的互动城市指南虚拟原型。\[35\]\[36\]

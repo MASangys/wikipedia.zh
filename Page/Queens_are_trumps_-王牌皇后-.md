@@ -37,7 +37,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
         作詞：ハジメタル、Junnnnn Sato　作曲・編曲：ハジメタル
     <!-- end list -->
       - TOMOMI擔任本首歌主唱。
-      - RINA則負責[合成器部分的演奏](../Page/合成器.md "wikilink")。
+      - RINA則負責[合成器](../Page/合成器.md "wikilink")部分的演奏。
 7.  **聲音** \[4:50\]（-{声}-）
       -
         作詞・作曲：柳澤亮太（[SUPER

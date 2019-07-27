@@ -1,4 +1,4 @@
-《**超級機器人大戰EX**》（）（下稱「EX」）是[萬普發售的](../Page/萬普.md "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](https://zh.wikipedia.org/wiki/RPG "wikilink")。
+《**超級機器人大戰EX**》（）（下稱「EX」）是[萬普](../Page/萬普.md "wikilink")發售的[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](https://zh.wikipedia.org/wiki/RPG "wikilink")。
 
 ## 概要
 

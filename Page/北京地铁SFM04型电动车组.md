@@ -1,4 +1,4 @@
-**北京地铁SFM04型电动车组**\[1\]。是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[1号线运营](../Page/北京地铁1号线.md "wikilink")。
+**北京地铁SFM04型电动车组**\[1\]。是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[1号线运营](../Page/北京地铁1号线.md "wikilink")。
 
 ## 简介
 
@@ -61,7 +61,7 @@
 
 ## 列车运送过程
 
-列车首先从[南车四方出发](https://zh.wikipedia.org/wiki/南车四方 "wikilink")，经[胶济铁路](https://zh.wikipedia.org/wiki/胶济铁路 "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")、[丰双铁路到达](../Page/丰双铁路.md "wikilink")[小红门站](../Page/小红门站_\(铁路\).md "wikilink")，之后通过联络线进入[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后通过[5号线进入与](../Page/北京地铁5号线.md "wikilink")[1号线的联络线后](../Page/北京地铁1号线.md "wikilink")，到达[王府井站](../Page/王府井站.md "wikilink")，最后运送至[四惠车辆段](https://zh.wikipedia.org/wiki/四惠车辆段 "wikilink")\[3\]。
+列车首先从[南车四方出发](https://zh.wikipedia.org/wiki/南车四方 "wikilink")，经[胶济铁路](https://zh.wikipedia.org/wiki/胶济铁路 "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")、[丰双铁路](../Page/丰双铁路.md "wikilink")到达[小红门站](../Page/小红门站_\(铁路\).md "wikilink")，之后通过联络线进入[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后通过[5号线进入与](../Page/北京地铁5号线.md "wikilink")[1号线的联络线后](../Page/北京地铁1号线.md "wikilink")，到达[王府井站](../Page/王府井站.md "wikilink")，最后运送至[四惠车辆段](https://zh.wikipedia.org/wiki/四惠车辆段 "wikilink")\[3\]。
 
 ## 列车图片
 

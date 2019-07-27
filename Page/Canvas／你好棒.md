@@ -1,14 +1,14 @@
 《**Canvas／你・好・棒♥**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：／[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")：／[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Canvas／You
 Are
-Beau・ti・ful♥），[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年2月20日發行。
+Beau・ti・ful♥），[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年2月20日發行。
 
 ## 概述
 
-  - [平井堅首張雙主打單曲](../Page/平井堅.md "wikilink")。
+  - [平井堅](../Page/平井堅.md "wikilink")首張雙主打單曲。
   - 第七張專輯《[FAKIN' POP](../Page/FAKIN'_POP.md "wikilink")》的先行單曲。
-  - 收錄[生田斗真主演主演日劇](../Page/生田斗真.md "wikilink")《蜂蜜幸運草》主題歌。
+  - 收錄[生田斗真](../Page/生田斗真.md "wikilink")主演主演日劇《蜂蜜幸運草》主題歌。
   - 收錄6首歌曲，為平井堅個人最多曲目的單曲，總收錄時間約30分鐘。
-  - 《Canvas記憶的畫布》以校園純愛為主題，[音樂錄影帶亦回母校日本市立橫濱大學拍攝](../Page/音樂錄影帶.md "wikilink")。
+  - 《Canvas記憶的畫布》以校園純愛為主題，[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")亦回母校日本市立橫濱大學拍攝。
 
 ## 收錄曲
 

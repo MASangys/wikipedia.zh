@@ -1,4 +1,4 @@
-**诺基亚Lumia 510**是一款[诺基亚以](../Page/诺基亚.md "wikilink")[Windows
+**诺基亚Lumia 510**是一款[诺基亚](../Page/诺基亚.md "wikilink")以[Windows
 Phone](../Page/Windows_Phone.md "wikilink")
 7.8平台所開發的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。Lumia
 510發表於2012年11月。诺基亚Lumia

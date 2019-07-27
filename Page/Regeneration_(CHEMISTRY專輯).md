@@ -1,4 +1,4 @@
-《**regeneration**》（榮耀再現）是日本組合[化學超男子於](../Page/化學超男子.md "wikilink")2010年2月24日發行的第六張專輯。
+《**regeneration**》（榮耀再現）是日本組合[化學超男子](../Page/化學超男子.md "wikilink")於2010年2月24日發行的第六張專輯。
 
 ## 解說
 
@@ -58,7 +58,7 @@
     <!-- end list -->
       -
         川畑製作的歌曲
-        [富士電視台動畫](../Page/富士電視台.md "wikilink")「[西洋古董洋菓子店〜Antique〜](https://zh.wikipedia.org/wiki/西洋古董洋菓子店 "wikilink")」片頭曲
+        [富士電視台](../Page/富士電視台.md "wikilink")動畫「[西洋古董洋菓子店〜Antique〜](https://zh.wikipedia.org/wiki/西洋古董洋菓子店 "wikilink")」片頭曲
 7.  **ALL MY LOVE / 堂珍嘉邦**
       - 作詞：堂珍嘉邦・Zooco 作曲：K-Muto
     <!-- end list -->

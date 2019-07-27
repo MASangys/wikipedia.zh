@@ -7,7 +7,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
   - [√5](https://zh.wikipedia.org/wiki/√5 "wikilink")(**ROOT
     FIVE**)是日本的影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」裡其中活耀於「試唱」類別的五位人氣男性素人歌手「[koma'n](https://zh.wikipedia.org/wiki/koma'n "wikilink")」、「[蛇足](https://zh.wikipedia.org/wiki/蛇足 "wikilink")」、「[ぽこた](https://zh.wikipedia.org/wiki/ぽこた "wikilink")」、「[みーちゃん](https://zh.wikipedia.org/wiki/みーちゃん "wikilink")」、「[けったろ](https://zh.wikipedia.org/wiki/けったろ "wikilink")」所組成的團體。
   - [√5的團名是從粉絲們募集而來的團名中選出決定的](https://zh.wikipedia.org/wiki/√5 "wikilink")。
-  - 五位成員在影音分享網站中投稿的影片擁有總計超過3000萬次的點閱紀錄，成員各自除音樂活動外也參與[日劇與](https://zh.wikipedia.org/wiki/日劇 "wikilink")[舞台劇之演出等活動](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，在[社群網站的](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[FACEBOOK](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[噗浪裡也擁有眾多的粉絲十分有人氣](../Page/噗浪.md "wikilink")。
+  - 五位成員在影音分享網站中投稿的影片擁有總計超過3000萬次的點閱紀錄，成員各自除音樂活動外也參與[日劇與](https://zh.wikipedia.org/wiki/日劇 "wikilink")[舞台劇之演出等活動](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，在[社群網站的](https://zh.wikipedia.org/wiki/社群網站 "wikilink")[FACEBOOK](https://zh.wikipedia.org/wiki/FACEBOOK "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[噗浪](../Page/噗浪.md "wikilink")裡也擁有眾多的粉絲十分有人氣。
   - [ROOT FIVE於](../Page/ROOT_FIVE.md "wikilink")2011年11月18日投稿[【√5】MERRY
     GO ROUND
     PV【組んでみた】](http://www.nicovideo.jp/watch/sm16202181)正式出道，目前隸屬日本[avex
@@ -44,7 +44,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 
   - 2008年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品。
   - 以歌手身分活動外，也參與[舞台劇演出等活躍於多種領域](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")。
-  - 唱腔與[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[GACKT相似](../Page/GACKT.md "wikilink")，兩人曾合作拍[廣告](../Page/廣告.md "wikilink")。
+  - 唱腔與[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[GACKT](../Page/GACKT.md "wikilink")相似，兩人曾合作拍[廣告](../Page/廣告.md "wikilink")。
   - 外表與[日本](../Page/日本.md "wikilink")[川越達也](https://zh.wikipedia.org/wiki/川越達也 "wikilink")[主廚神似](https://zh.wikipedia.org/wiki/主廚 "wikilink")，兩人曾合作拍[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。
 
 
@@ -72,9 +72,9 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 
 <!-- end list -->
 
-  - **ROOT FIVE**的[饒舌擔當](../Page/饒舌.md "wikilink")。
+  - **ROOT FIVE**的[饒舌](../Page/饒舌.md "wikilink")擔當。
   - 2008年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品。
-  - 參與日劇「[花樣少男少女](https://zh.wikipedia.org/wiki/花樣少男少女 "wikilink")」演出等也以[演員身分展開活動](../Page/演員.md "wikilink")。
+  - 參與日劇「[花樣少男少女](https://zh.wikipedia.org/wiki/花樣少男少女 "wikilink")」演出等也以[演員](../Page/演員.md "wikilink")身分展開活動。
   - 同時是[TOTAL
     OBJECTION的成員](https://zh.wikipedia.org/wiki/TOTAL_OBJECTION "wikilink")。
 

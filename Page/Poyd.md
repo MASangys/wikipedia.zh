@@ -1,4 +1,4 @@
-**Poyd**（暱稱：**寶兒**，，），是[泰国的新生代當紅的](../Page/泰国.md "wikilink")[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[模特](https://zh.wikipedia.org/wiki/模特 "wikilink")，現活跃於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[中國大陸和](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[香港的](../Page/香港.md "wikilink")[演藝圈](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")。\[1\]
+**Poyd**（暱稱：**寶兒**，，），是[泰国](../Page/泰国.md "wikilink")的新生代當紅的[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[模特](https://zh.wikipedia.org/wiki/模特 "wikilink")，現活跃於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[中國大陸和](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[香港](../Page/香港.md "wikilink")的[演藝圈](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")。\[1\]
 
 ## 簡介
 
@@ -9,7 +9,7 @@ Tiffany的頭銜後，便對其進行了一次專訪，寶兒也講述了在做[
 2008年开始和男友谈恋爱，不时在网上秀恩爱，现已分手。\[3\]
 
 2013年，因演出香港電影《[掃毒](../Page/掃毒.md "wikilink")》，其演出劇照的驚豔曝光，而受到網友廣泛的討論。\[4\]
-而該片的導演[陳木勝也說](../Page/陳木勝.md "wikilink")：當初選了很多演員來試鏡Mina這個角色，Poyd是最漂亮的一個，她演起戲來也很放鬆、很大膽。\[5\]
+而該片的導演[陳木勝](../Page/陳木勝.md "wikilink")也說：當初選了很多演員來試鏡Mina這個角色，Poyd是最漂亮的一個，她演起戲來也很放鬆、很大膽。\[5\]
 
 因在《[掃毒](../Page/掃毒.md "wikilink")》中的演出使得在中國的知名度大增，因此被[寰宇藝人管理有限公司垂青](https://zh.wikipedia.org/wiki/寰宇國際金融#寰宇艺人管理有限公司 "wikilink")，于2014年正式簽約成為旗下藝人。\[6\]
 

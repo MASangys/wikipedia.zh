@@ -139,7 +139,7 @@
 
   -
     A06AX01 [甘油](../Page/甘油.md "wikilink")（Glycerol）
-    A06AX02 产生[二氧化碳的药](../Page/二氧化碳.md "wikilink")（Carbon dioxide
+    A06AX02 产生[二氧化碳](../Page/二氧化碳.md "wikilink")的药（Carbon dioxide
     producing drugs）
     A06AX03
     [鲁比前列酮](https://zh.wikipedia.org/wiki/鲁比前列酮 "wikilink")（Lubiprostone）

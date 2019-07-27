@@ -1,4 +1,4 @@
-《**ACE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[李泰民首張韓語迷你專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2014年8月18日由[SM娛樂製作](../Page/SM娛樂.md "wikilink")，[KT
+《**ACE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")成員[李泰民首張韓語迷你專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2014年8月18日由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，[KT
 Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")
 ，主打曲目為《怪盜》（）。
 
@@ -77,7 +77,7 @@ Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")
 
 | 歌曲                                                     | 榜單                                                          | 類型                                              | 停留時間             | 最高位置 | 參考資料  |
 | ------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------- | ---------------- | ---- | ----- |
-| Pretty Boy（Feat. [EXO的KAI](../Page/EXO.md "wikilink")） | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2014年Gaon單曲冠軍作品列表.md "wikilink") | 2014年8月17日－8月23日 | \#44 | \[4\] |
+| Pretty Boy（Feat. [EXO](../Page/EXO.md "wikilink")的KAI） | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2014年Gaon單曲冠軍作品列表.md "wikilink") | 2014年8月17日－8月23日 | \#44 | \[4\] |
 | Ace                                                    | \#54                                                        |                                                 |                  |      |       |
 | Experience                                             | \#82                                                        |                                                 |                  |      |       |
 | 奏鳴曲                                                    | \#89                                                        |                                                 |                  |      |       |

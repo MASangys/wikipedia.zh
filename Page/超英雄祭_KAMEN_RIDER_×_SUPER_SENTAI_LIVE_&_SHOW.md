@@ -1,5 +1,5 @@
 『超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia.org/wiki/特攝 "wikilink")[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列在每年](../Page/假面騎士系列.md "wikilink")1月中旬時的特別表演。
+SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia.org/wiki/特攝 "wikilink")[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")在每年1月中旬時的特別表演。
 
 ## 概要
 

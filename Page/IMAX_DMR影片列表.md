@@ -1,4 +1,4 @@
-**DMR**為加拿大[IMAX公司的專利](../Page/IMAX.md "wikilink")—Digital Media
+**DMR**為加拿大[IMAX](../Page/IMAX.md "wikilink")公司的專利—Digital Media
 Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位拷貝交給IMAX公司，然後IMAX公司以最高解析度掃描每個畫格，再對每幅畫面進行銳化以及降噪（由於商業電影基本上都使用2K\~4K解析度攝影機拍攝，經過此手續才能將電影投射至巨型銀幕上，否則畫面顆粒感與畫面躁動會相當嚴重），最後沖印在70毫米底片或是數位拷貝上。
 
 ## IMAX DMR的影片
@@ -355,7 +355,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/職業特工隊4" title="wikilink">-{zh-hans:碟中谍4;zh-hk:職業特工隊4;zh-tw:不可能的任務：鬼影行動;}-</a></p></td>
 <td><p>2011年12月16日</p></td>
-<td><p>25分钟的精彩片段使用胶片IMAX摄影机拍摄。IMAX影廳於正片開始前放映六分鐘<a href="../Page/黑暗騎士：黎明昇起.md" title="wikilink">黑暗騎士：黎明昇起七分鐘開場</a></p></td>
+<td><p>25分钟的精彩片段使用胶片IMAX摄影机拍摄。IMAX影廳於正片開始前放映六分鐘<a href="../Page/黑暗騎士：黎明昇起.md" title="wikilink">黑暗騎士：黎明昇起</a>七分鐘開場</p></td>
 </tr>
 </tbody>
 </table>
@@ -517,7 +517,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>僅有數位IMAX拷貝。僅在日本地區上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/暮光之城4：破曉.md" title="wikilink">暮光之城4：破曉ll</a></p></td>
+<td><p><a href="../Page/暮光之城4：破曉.md" title="wikilink">暮光之城4：破曉</a>ll</p></td>
 <td><p>2012年11月16日</p></td>
 <td><p>僅有數位IMAX拷貝</p></td>
 </tr>
@@ -1852,7 +1852,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/哥吉拉II：怪獸之王.md" title="wikilink">哥吉拉II：怪獸之王</a></p></td>
+<td><p><a href="../Page/哥吉拉_II_怪獸之王.md" title="wikilink">哥吉拉 II 怪獸之王</a></p></td>
 <td><p>2019年5月31日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
@@ -1869,12 +1869,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/玩具总动员4" title="wikilink">玩具总动员4</a></p></td>
 <td><p>2019年6月21日</p></td>
-<td><p>3D电影。</p></td>
+<td><p>2D电影。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蜘蛛人：離家日.md" title="wikilink">蜘蛛人：離家日</a></p></td>
-<td><p>2019年7月5日</p></td>
-<td><p>3D电影，原为2D电影，后期转制。</p></td>
+<td><p>2019年7月2日</p></td>
+<td><p>3D电影，原为2D电影，后期转制。部分影片的宽高比为1.90:1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/狮子王_(2019年电影)" title="wikilink">獅子王</a></p></td>
@@ -1882,16 +1882,41 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。部分精彩片段使用数字Arri Alexa IMAX摄影机拍摄，並且整部影片的寬高比為1.90:1</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/玩命關頭：特別行動.md" title="wikilink">玩命關頭：特別行動</a></p></td>
+<td><p>2019年8月2日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/牠：第二章.md" title="wikilink">牠：第二章</a></p></td>
 <td><p>2019年9月6日</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/小丑_(電影).md" title="wikilink">小丑</a></p></td>
+<td><p>2019年10月4日</p></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p><a href="../Page/雙子殺手.md" title="wikilink">雙子殺手</a></p></td>
+<td><p>2019年10月11日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/魔鬼終結者：黑暗宿命" title="wikilink">魔鬼終結者：黑暗宿命</a></p></td>
+<td><p>2019年11月1日</p></td>
+<td><p>3D电影。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/冰雪奇缘2" title="wikilink">冰雪奇缘2</a></p></td>
+<td><p>2019年11月22日</p></td>
+<td><p>3D电影。</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/STAR_WARS：天行者的崛起.md" title="wikilink">STAR WARS：天行者的崛起</a></p></td>
 <td><p>2019年12月20日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

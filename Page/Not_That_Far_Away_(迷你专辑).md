@@ -1,5 +1,5 @@
 **《Not That Far
-Away》**是美国[乡村音乐女歌手和女演员](../Page/乡村音乐.md "wikilink")[詹妮特·麦柯迪的首张](https://zh.wikipedia.org/wiki/詹妮特·麦柯迪 "wikilink")[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")。迷你专辑于2010年8月17日发行，并在美国公告牌新艺术家排行榜上最高排名第三。迷你专辑包括了詹妮特的首支单曲《[Not
+Away》**是美国[乡村音乐](../Page/乡村音乐.md "wikilink")女歌手和女演员[詹妮特·麦柯迪的首张](https://zh.wikipedia.org/wiki/詹妮特·麦柯迪 "wikilink")[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")。迷你专辑于2010年8月17日发行，并在美国公告牌新艺术家排行榜上最高排名第三。迷你专辑包括了詹妮特的首支单曲《[Not
 That Far
 Away](https://zh.wikipedia.org/wiki/Not_That_Far_Away "wikilink")》。单曲曾于2010年7月10日所在的一周内在美国公告牌乡村歌曲排行榜上最高排名第58。专辑目前不可获取。
 

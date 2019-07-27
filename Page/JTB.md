@@ -1,4 +1,4 @@
-**JTB**（，）是源自[日本的跨國](../Page/日本.md "wikilink")[旅行社](https://zh.wikipedia.org/wiki/旅行社 "wikilink")，總部在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[東品川的](../Page/東品川.md "wikilink")[天王洲Isle](../Page/天王洲島.md "wikilink")，為日本規模最大的旅行社，在世界旅行業界上也排名前列\[1\]。其經營的JTB集團，在日本國內外擁有多家票券代購、[租車](https://zh.wikipedia.org/wiki/租車 "wikilink")、[遊覽車](../Page/遊覽車.md "wikilink")、[信用卡](../Page/信用卡.md "wikilink")、[出版等旅遊相關之企業](https://zh.wikipedia.org/wiki/出版 "wikilink")。
+**JTB**（，）是源自[日本](../Page/日本.md "wikilink")的跨國[旅行社](https://zh.wikipedia.org/wiki/旅行社 "wikilink")，總部在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[東品川](../Page/東品川.md "wikilink")的[天王洲Isle](../Page/天王洲島.md "wikilink")，為日本規模最大的旅行社，在世界旅行業界上也排名前列\[1\]。其經營的JTB集團，在日本國內外擁有多家票券代購、[租車](https://zh.wikipedia.org/wiki/租車 "wikilink")、[遊覽車](../Page/遊覽車.md "wikilink")、[信用卡](../Page/信用卡.md "wikilink")、[出版等旅遊相關之企業](https://zh.wikipedia.org/wiki/出版 "wikilink")。
 
 ## 概要
 

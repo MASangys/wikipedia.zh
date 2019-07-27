@@ -1,4 +1,4 @@
-《**TEENAGER**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[鄭俊英的第](../Page/鄭俊英.md "wikilink")2枚韓語迷你專輯，於2014年6月26日發行，主打歌曲為《TEENAGER》\[1\]。
+《**TEENAGER**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[鄭俊英](../Page/鄭俊英.md "wikilink")的第2枚韓語迷你專輯，於2014年6月26日發行，主打歌曲為《TEENAGER》\[1\]。
 
 ## 背景
 

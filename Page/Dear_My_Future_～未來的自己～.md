@@ -1,5 +1,5 @@
 《**Dear My Future
-～未來的自己～**》（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆的單曲](../Page/Prizmmy☆.md "wikilink")，於2012年4月25日由[avex
+～未來的自己～**》（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆](../Page/Prizmmy☆.md "wikilink")的單曲，於2012年4月25日由[avex
 entertainment發行](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")。
 
 ## 概要

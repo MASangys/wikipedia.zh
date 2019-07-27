@@ -132,9 +132,9 @@
   - [中村汀女](https://zh.wikipedia.org/wiki/中村汀女 "wikilink")（俳人）
   - 井上ひさし（作家）
   - 中野貴代（消防官）
-  - 神田好武（[全日本空輸機長](../Page/全日本空輸.md "wikilink")）
+  - 神田好武（[全日本空輸](../Page/全日本空輸.md "wikilink")機長）
   - [真木洋子](https://zh.wikipedia.org/wiki/真木洋子 "wikilink")（演員）
-  - [輪島大士](../Page/輪島大士.md "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
+  - [輪島大士](../Page/輪島大士.md "wikilink")（[相撲](../Page/相撲.md "wikilink")選手
     - [大關](https://zh.wikipedia.org/wiki/大關 "wikilink")）
   - 加藤稔(NHK藝能局長)
 

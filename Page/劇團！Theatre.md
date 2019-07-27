@@ -1,10 +1,10 @@
-《**劇團！Theatre**》()是日本作家[有川浩的系列作品](../Page/有川浩.md "wikilink")。
+《**劇團！Theatre**》()是日本作家[有川浩](../Page/有川浩.md "wikilink")的系列作品。
 
 於2011年1月舞台化，由演出，劇本由有川浩所寫，劇名《》。而該舞台劇劇本於2011年5月發售。
 
 ## 概要
 
-當有川浩的作品《[圖書館戰爭](../Page/圖書館戰爭.md "wikilink")》於2008年富士電視台「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」中動畫化時，與登場角色「柴崎麻子」的聲優[澤城美雪交流時引發靈感](../Page/澤城美雪.md "wikilink")。
+當有川浩的作品《[圖書館戰爭](../Page/圖書館戰爭.md "wikilink")》於2008年富士電視台「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」中動畫化時，與登場角色「柴崎麻子」的聲優[澤城美雪](../Page/澤城美雪.md "wikilink")交流時引發靈感。
 
 在當時，澤城是劇團「」的演員，在得知劇團的目標是「成為賺得到錢的劇團」時，對此感興趣，成為《劇團！》的執筆原點，開始為此取材。
 

@@ -1,5 +1,5 @@
 **G雲**
-（或**G雲複合體**）是座落在[本星系群的一個](../Page/本星系群.md "wikilink")[星際雲](../Page/星際雲.md "wikilink")，太陽目前正在向著它移動。目前並不確定太陽是在本地星際雲中，還是在這兩個星際雲交互作用的地區。G雲包括[南門二](../Page/南門二.md "wikilink")（又称半人馬座α，一个[三合星系统](https://zh.wikipedia.org/wiki/三合星 "wikilink")，其中包括[比鄰星](https://zh.wikipedia.org/wiki/比鄰星 "wikilink")）和[牛郎星](https://zh.wikipedia.org/wiki/牛郎星 "wikilink")（可能還有其它的）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。
+（或**G雲複合體**）是座落在[本星系群](../Page/本星系群.md "wikilink")的一個[星際雲](../Page/星際雲.md "wikilink")，太陽目前正在向著它移動。目前並不確定太陽是在本地星際雲中，還是在這兩個星際雲交互作用的地區。G雲包括[南門二](../Page/南門二.md "wikilink")（又称半人馬座α，一个[三合星系统](https://zh.wikipedia.org/wiki/三合星 "wikilink")，其中包括[比鄰星](https://zh.wikipedia.org/wiki/比鄰星 "wikilink")）和[牛郎星](https://zh.wikipedia.org/wiki/牛郎星 "wikilink")（可能還有其它的）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。
 
 ## 參考資料
 

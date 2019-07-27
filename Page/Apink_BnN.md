@@ -1,18 +1,18 @@
 [金南珠](../Page/金南珠_\(歌手\).md "wikilink") |過往成員 = }}
 
 **Apink BnN**前稱**Pink BnN**，是於2014年為發佈音樂單曲《My
-Darling》而推出的一個企劃組合，由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink成員](../Page/Apink.md "wikilink")[尹普美及](../Page/尹普美.md "wikilink")[金南珠組成](../Page/金南珠_\(歌手\).md "wikilink")。
+Darling》而推出的一個企劃組合，由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")成員[尹普美](../Page/尹普美.md "wikilink")及[金南珠組成](../Page/金南珠_\(歌手\).md "wikilink")。
 
 組合名字取「Pink BnN」是指「A**pink**的尹普美（）和（）金南珠（）」，其後更名為「Apink BnN」。
 
 ## 歷程
 
-2014年6月20日，於Apink官方[Twitter及](../Page/Twitter.md "wikilink")[Facebook專頁披露載有文字](../Page/Facebook.md "wikilink")「PINK
+2014年6月20日，於Apink官方[Twitter](../Page/Twitter.md "wikilink")及[Facebook](../Page/Facebook.md "wikilink")專頁披露載有文字「PINK
 BnN」之圖片。\[1\]\[2\]
 
 24日，所屬經紀公司確認該文字為Pink BnN企劃活動的標記。\[3\]\[4\]
 
-25日，於Apink官方[YouTube頻道及Facebook專頁公開新曲試聽片段](../Page/YouTube.md "wikilink")。\[5\]\[6\]
+25日，於Apink官方[YouTube](../Page/YouTube.md "wikilink")頻道及Facebook專頁公開新曲試聽片段。\[5\]\[6\]
 
 26日，於Apink官方Twitter及Facebook專頁公開企劃組合成員為尹普美及金南珠。\[7\]
 

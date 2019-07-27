@@ -1,4 +1,4 @@
-**北京地铁SFM05型电动车组**是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[4号线和](../Page/北京地铁4号线.md "wikilink")[大兴线运营](https://zh.wikipedia.org/wiki/大兴线 "wikilink")。
+**北京地铁SFM05型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[4号线和](../Page/北京地铁4号线.md "wikilink")[大兴线运营](https://zh.wikipedia.org/wiki/大兴线 "wikilink")。
 
 ## 简介
 

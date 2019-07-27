@@ -4,7 +4,7 @@
 
 斯坦伯格成长于[西康涅狄格州哈特福德](https://zh.wikipedia.org/wiki/西康涅狄格州 "wikilink")，曾在Hall
 High
-School读书，16岁时，斯坦伯格在[杜克大学取得](../Page/杜克大学.md "wikilink")[法律学学位](https://zh.wikipedia.org/wiki/法律学 "wikilink")。\[1\]
+School读书，16岁时，斯坦伯格在[杜克大学](../Page/杜克大学.md "wikilink")取得[法律学学位](https://zh.wikipedia.org/wiki/法律学 "wikilink")。\[1\]
 后来，斯坦伯格去了[纽约州](../Page/纽约州.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，从事编剧工作，主要作品是《[美国派系列电影](../Page/美国派系列电影.md "wikilink")》。\[2\]
 
 ## 作品

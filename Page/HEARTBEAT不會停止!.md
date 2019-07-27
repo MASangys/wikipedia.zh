@@ -1,9 +1,9 @@
-「**HEARTBEAT不會停止\!**」（HEARTBEATが止まらないっ\!）是[唯夏織的第](../Page/唯夏織.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[King
+「**HEARTBEAT不會停止\!**」（HEARTBEATが止まらないっ\!）是[唯夏織](../Page/唯夏織.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[King
 Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2010年11月17日發售。
 
 ## 概要
 
-標題曲「HEARTBEAT不會停止\!」是[Web電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")『[ゆいかおりの実♪](https://zh.wikipedia.org/wiki/ゆいかおりの実♪ "wikilink")』的[主題曲和](../Page/主題曲.md "wikilink")[ニコニコ生放送](https://zh.wikipedia.org/wiki/ニコニコ生放送 "wikilink")『電波研究社』的11月片尾曲。
+標題曲「HEARTBEAT不會停止\!」是[Web電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")『[ゆいかおりの実♪](https://zh.wikipedia.org/wiki/ゆいかおりの実♪ "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")和[ニコニコ生放送](https://zh.wikipedia.org/wiki/ニコニコ生放送 "wikilink")『電波研究社』的11月片尾曲。
 
 ## 收錄曲
 

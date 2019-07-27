@@ -38,7 +38,8 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
 | [邕聖祐](https://zh.wikipedia.org/wiki/邕聖祐 "wikilink")                                                                            |
 | **女演員**                                                                                                                        |
 | 姜海林                                                                                                                            |
-| <small>①為組合[5urprise成員](../Page/5urprise.md "wikilink")；②為組合[Surprise U成員](../Page/Surprise_U.md "wikilink")，無上標為個人演員。</small> |
+| [蔡周和](../Page/Hello_Venus.md "wikilink")                                                                                       |
+| <small>①為組合[5urprise](../Page/5urprise.md "wikilink")成員；②為組合[Surprise U成員](../Page/Surprise_U.md "wikilink")，無上標為個人演員。</small> |
 
 ### 組合
 
@@ -60,26 +61,6 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
 | **企劃組合** |
 | 2018年    |
 
-### 其他
-
-約滿前組合解散，留在公司尚未Solo發展的藝人。
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>其他藝人</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>序英<br />
-（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）</p></td>
-</tr>
-<tr class="odd">
-<td><p>夏天<br />
-（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）</p></td>
-</tr>
-</tbody>
-</table>
-
 ### i-Teen 練習生
 
 被公開的練習生雖然擁有關注度，但Fantagio暫未承認他們的正式藝人身份。
@@ -97,9 +78,6 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
 <tr class="odd">
 <td><p>秋藝珍<br />
 （<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>）</p></td>
-</tr>
-<tr class="even">
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -138,9 +116,9 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
   - [朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink") （[PRODUCE 101
     第二季參與者](../Page/PRODUCE_101_第二季.md "wikilink")、[Wanna
     One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
-  - 姜山（[少年24成員](../Page/少年24.md "wikilink")）
+  - 姜山（[少年24](../Page/少年24.md "wikilink")成員）
   - 朱元鐸（[PRODUCE 101
-    第二季參與者](../Page/PRODUCE_101_第二季.md "wikilink")、前[Underdog](https://zh.wikipedia.org/wiki/Underdog "wikilink")、[RAINZ成員](../Page/RAINZ.md "wikilink")）
+    第二季參與者](../Page/PRODUCE_101_第二季.md "wikilink")、前[Underdog](https://zh.wikipedia.org/wiki/Underdog "wikilink")、[RAINZ](../Page/RAINZ.md "wikilink")成員）
 
 <!-- end list -->
 
@@ -163,7 +141,7 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
   - [徐珉志](https://zh.wikipedia.org/wiki/徐珉志 "wikilink")
   - [趙胤熙](../Page/趙胤熙.md "wikilink")
   - [李昭娟](../Page/李昭娟.md "wikilink")
-  - [鄭睿隣](https://zh.wikipedia.org/wiki/鄭睿隣 "wikilink")（現[GFRIEND成員Yerin](../Page/GFRIEND.md "wikilink")）
+  - [鄭睿隣](https://zh.wikipedia.org/wiki/鄭睿隣 "wikilink")（現[GFRIEND](../Page/GFRIEND.md "wikilink")成員Yerin）
   - [權彩媛](https://zh.wikipedia.org/wiki/權彩媛 "wikilink")（現[DIA成員Eunchae](https://zh.wikipedia.org/wiki/DIA "wikilink")）
   - [廉晶雅](../Page/廉晶雅.md "wikilink")
   - [尹承雅](../Page/尹承雅.md "wikilink")
@@ -186,7 +164,7 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
 
   - [官方Facebook](http://www.facebook.com/fantagio)
 
-  - [YouTube上的](../Page/YouTube.md "wikilink")[Fantagio频道](https://www.youtube.com/user/fantagiomusic)
+  - [YouTube](../Page/YouTube.md "wikilink")上的[Fantagio频道](https://www.youtube.com/user/fantagiomusic)
 
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 [Category:韓國唱片公司](https://zh.wikipedia.org/wiki/Category:韓國唱片公司 "wikilink")

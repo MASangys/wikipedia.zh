@@ -1,4 +1,4 @@
-《**Beginning**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪於](../Page/周柏豪.md "wikilink")2007年11月8日發行\[1\]的第一張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，收錄五首歌曲，當中包括他首支歌曲《同天空》。
+《**Beginning**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪](../Page/周柏豪.md "wikilink")於2007年11月8日發行\[1\]的第一張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，收錄五首歌曲，當中包括他首支歌曲《同天空》。
 
 ## 曲目
 

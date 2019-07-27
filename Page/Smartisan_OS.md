@@ -5,9 +5,9 @@ OS的含義是「smart artisan OS」。
 ## 概述
 
 Smartisan
-OS添加了Smartisan賬戶和內置自家軟件，並大幅修改原生[Android界面](../Page/Android.md "wikilink")。Smartisan
-OS使用的[Linux內核採用](../Page/Linux.md "wikilink")[GNU通用公共許可證V](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")3，如果Smartisan
-OS不自行開發一個Linux內核，就必須遵循該許可證進行內核代碼開源。
+OS添加了Smartisan賬戶和內置自家軟件，並大幅修改原生[Android](../Page/Android.md "wikilink")界面。Smartisan
+OS使用的[Linux](../Page/Linux.md "wikilink")內核採用[GNU通用公共許可證V](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")2协议开源，如果Smartisan
+OS不自行開發一個操作系统內核，就必須遵循該許可證将他们修改过的linux內核代碼開源。
 
 ## 功能
 
@@ -93,7 +93,7 @@ Smartisan OS 3.0 基于 [Android](../Page/Android.md "wikilink") 6.0.1
 M1与](https://zh.wikipedia.org/wiki/Smartisan_M1 "wikilink")[Smartisan
 M1L](https://zh.wikipedia.org/wiki/Smartisan_M1L "wikilink")。
 
-## 搭載手機
+## 官方支持的设备
 
   - [OPPO Find 5](https://zh.wikipedia.org/wiki/OPPO_Find_5 "wikilink")
   - [Samsung Galaxy Note

@@ -1,10 +1,10 @@
 《**IN THE
-LIFE**》是日本摇滚组合[B'z的的第五张录音室专辑](../Page/B'z.md "wikilink")。1991年11月27日由[BMG
+LIFE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第五张录音室专辑。1991年11月27日由[BMG
 VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 Oricon年榜第二位，為B'z原創專輯年度排行最高的一張。
 
-在發行當年曾經短暫成為日本最暢銷專輯，直到隔年3月被[恰克與飛鳥精選輯](../Page/恰克與飛鳥.md "wikilink")**SUPER
+在發行當年曾經短暫成為日本最暢銷專輯，直到隔年3月被[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")精選輯**SUPER
 BEST II**超越。
 
 最終銷量約240萬張，為日本最暢銷專輯第46名。

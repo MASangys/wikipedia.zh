@@ -1,11 +1,11 @@
 《**ayumi hamasaki ARENA TOUR 2009 A ～NEXT LEVEL～**》（濱崎步 2009 巡迴演唱會 A
-～新起步～）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2009年間舉行巡迴演唱會，2010年4月14日發行DVD。
+～新起步～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2009年間舉行巡迴演唱會，2010年4月14日發行DVD。
 
 ## 說明
 
 第11張專輯『[Rock'n'Roll Circus](../Page/Rock'n'Roll_Circus.md "wikilink")
 』同時發行。本作 2010年8月28日『A 3D ayumi hamasaki ARENA TOUR 2009 A ～NEXT
-LEVEL～』同步[3D電影化](../Page/3D電影.md "wikilink")。
+LEVEL～』同步[3D電影](../Page/3D電影.md "wikilink")化。
 
 ## 曲目
 

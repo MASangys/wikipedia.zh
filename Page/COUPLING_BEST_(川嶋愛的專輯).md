@@ -1,5 +1,5 @@
 『**COUPLING
-BEST**』是[日本的](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛在](../Page/川嶋愛.md "wikilink")2008年6月4日發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
+BEST**』是[日本](../Page/日本.md "wikilink")的[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2008年6月4日發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
 
 ## 解說
 

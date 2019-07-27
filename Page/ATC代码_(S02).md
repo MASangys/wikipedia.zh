@@ -30,9 +30,9 @@
     S02AA30 抗感染药，复方（Antiinfectives, combinations）
     QS02AA57 新霉素，复方（Neomycin, combinations）
 
-## S02B [皮質類固醇類](../Page/皮質類固醇.md "wikilink")（Corticosteroids）
+## S02B [皮質類固醇](../Page/皮質類固醇.md "wikilink")類（Corticosteroids）
 
-### S02BA [皮質類固醇類](../Page/皮質類固醇.md "wikilink")（Corticosteroids）
+### S02BA [皮質類固醇](../Page/皮質類固醇.md "wikilink")類（Corticosteroids）
 
   -
     S02BA01
@@ -65,7 +65,7 @@
     [氟氢可的松和抗感染药](https://zh.wikipedia.org/wiki/氟氢可的松 "wikilink")（Fludrocortisone
     and antiinfectives）
     QS02CA90 倍他米松和和抗感染药（Betamethasone and antiinfectives）
-    QS02CA91 [莫米松和抗感染药](../Page/莫米松.md "wikilink")（Mometasone and
+    QS02CA91 [莫米松](../Page/莫米松.md "wikilink")和抗感染药（Mometasone and
     antiinfectives）
 
 ## S02D 其它耳科用药（Other otologicals）

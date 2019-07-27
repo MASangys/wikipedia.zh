@@ -4,10 +4,10 @@
 
   - 此張專輯收錄了出道曲「Feel Like dance」到第五張單曲「FREEDOM」。
   - 發售後初週及第二週銷量皆破100萬，發行第二週突破200萬，第五週300萬，為當時的最快紀錄。此外此專輯發售次週單週銷量為105萬張，為目前日本所有唱片第二週銷量的最高紀錄。
-  - 發售後1年，1997年4月26日所屬唱片公司宣佈銷售量正式超過400萬，在[Oricon上停留](../Page/Oricon.md "wikilink")64週。
-  - 銷售量超過400萬，是當時日本流行樂第一張銷售超過400萬的專輯（單曲為[子門真人於](../Page/子門真人.md "wikilink")1975年發行的單曲《[游吧！鯛魚燒君](https://zh.wikipedia.org/wiki/游吧！鯛魚燒君 "wikilink")》）
-  - 超越[Mr.Children於](../Page/Mr.Children.md "wikilink")1994年發行的專輯《[Atomic
-    Heart](../Page/Atomic_Heart.md "wikilink")》（343萬）的記錄，成為當時日本銷售量最高的專輯。之後則被[GLAY於](../Page/GLAY.md "wikilink")1997年發行的精選集《[REVIEW-BEST
+  - 發售後1年，1997年4月26日所屬唱片公司宣佈銷售量正式超過400萬，在[Oricon](../Page/Oricon.md "wikilink")上停留64週。
+  - 銷售量超過400萬，是當時日本流行樂第一張銷售超過400萬的專輯（單曲為[子門真人](../Page/子門真人.md "wikilink")於1975年發行的單曲《[游吧！鯛魚燒君](https://zh.wikipedia.org/wiki/游吧！鯛魚燒君 "wikilink")》）
+  - 超越[Mr.Children](../Page/Mr.Children.md "wikilink")於1994年發行的專輯《[Atomic
+    Heart](../Page/Atomic_Heart.md "wikilink")》（343萬）的記錄，成為當時日本銷售量最高的專輯。之後則被[GLAY](../Page/GLAY.md "wikilink")於1997年發行的精選集《[REVIEW-BEST
     OF
     GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")》（487萬）給超越，現為日本專輯史上銷售量第七。
 

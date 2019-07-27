@@ -19,7 +19,7 @@ last_aired =  | preceded_by = | followed_by = | related = | website =
 UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")（）共同製作，並於[富士電視台聯播網播出的](../Page/富士電視網.md "wikilink")[日本电视剧](../Page/日本电视剧.md "wikilink")。第一集製播2小時5分鐘的特別版。第二集於22:15
 - 23:09（JST）延遲15分鐘播出。
 
-此劇是[阿部寬繼](../Page/阿部寬.md "wikilink")《[白之春](../Page/白之春.md "wikilink")》（2009年4月）以來，睽違三年主演關西電視台製作的周二晚間十點連續劇。另外[山口智子則是繼](../Page/山口智子.md "wikilink")《[長假](../Page/悠長假期.md "wikilink")》（1996年4月）以來，睽違16年再度演出電視劇，[宮崎葵則是繼](../Page/宮崎葵.md "wikilink")《[幸福的尾巴](https://zh.wikipedia.org/wiki/幸福的尾巴 "wikilink")》（）以來，睽違10年再度演出民營電視台的電視劇。[是枝裕和則是首部經手商業廣播電視台電視劇的導演](../Page/是枝裕和.md "wikilink")·編劇。
+此劇是[阿部寬](../Page/阿部寬.md "wikilink")繼《[白之春](../Page/白之春.md "wikilink")》（2009年4月）以來，睽違三年主演關西電視台製作的周二晚間十點連續劇。另外[山口智子](../Page/山口智子.md "wikilink")則是繼《[長假](../Page/悠長假期.md "wikilink")》（1996年4月）以來，睽違16年再度演出電視劇，[宮崎葵](../Page/宮崎葵.md "wikilink")則是繼《[幸福的尾巴](https://zh.wikipedia.org/wiki/幸福的尾巴 "wikilink")》（）以來，睽違10年再度演出民營電視台的電視劇。[是枝裕和](../Page/是枝裕和.md "wikilink")則是首部經手商業廣播電視台電視劇的導演·編劇。
 
 ## 故事摘要
 

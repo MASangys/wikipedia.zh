@@ -1,4 +1,4 @@
-**tvN金土連續劇**（），是[tvN電視台逢](https://zh.wikipedia.org/wiki/tvN "wikilink")[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六播映的電視劇](../Page/星期六.md "wikilink")。
+**tvN金土連續劇**（），是[tvN電視台逢](https://zh.wikipedia.org/wiki/tvN "wikilink")[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六](../Page/星期六.md "wikilink")播映的電視劇。
 2017年6月3日結束之後廢除金土劇，改由週末劇取代。\[1\]\[2\]2018年9月7日改為金曜連續劇逢[星期五播出](https://zh.wikipedia.org/wiki/星期五 "wikilink")。\[3\]
 
 ## 播出時間更動表

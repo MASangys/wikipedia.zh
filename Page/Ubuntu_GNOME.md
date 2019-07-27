@@ -1,5 +1,6 @@
 **Ubuntu
-GNOME**是一个基于[Ubuntu的](../Page/Ubuntu.md "wikilink")[Linux发行版](../Page/Linux.md "wikilink")，但其使用的是桌面环境[Gnome](../Page/GNOME.md "wikilink")。此项目开始于一个名为"remix"的非官方项目，后被接纳为官方发行版之一\[1\]。第一个稳定版本为12.10。由於[Ubuntu官方宣佈將於](../Page/Ubuntu.md "wikilink")17.10起將使用者介面由[Unity更換為](../Page/Unity_\(使用者介面\).md "wikilink")[GNOME](../Page/GNOME.md "wikilink")，故更換後不再單獨提供此版本\[2\]。
+GNOME**是一个基于[Ubuntu](../Page/Ubuntu.md "wikilink")的[Linux](../Page/Linux.md "wikilink")发行版，但其使用的是桌面环境[Gnome](../Page/GNOME.md "wikilink")。此项目开始于一个名为"remix"的非官方项目，后被接纳为官方发行版之一\[1\]。第一个稳定版本为12.10。由於[Ubuntu](../Page/Ubuntu.md "wikilink")官方宣佈將於17.10起將使用者介面由[Unity更換為](../Page/Unity_\(使用者介面\).md "wikilink")[GNOME](../Page/GNOME.md "wikilink")，故更換後不再單獨提供此版本\[2\]，若要使用原生版的Gnome
+可下載vanilla-gnome-desktop 套件。
 
 ## 版本历史
 
@@ -114,11 +115,13 @@ GNOME**是一个基于[Ubuntu的](../Page/Ubuntu.md "wikilink")[Linux发行版](
 <td><p>2018年1月</p></td>
 <td><ul>
 <li>GNOME 3.24</li>
-<li>最終發行版，自下一版17.10起合併至<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu主線</a>。</li>
+<li>最終發行版，自下一版17.10起合併至<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a>主線。</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
+
+之後若要使用原生GNOME，可下載vanilla-gnome-desktop 套件
 
 ## 链接
 

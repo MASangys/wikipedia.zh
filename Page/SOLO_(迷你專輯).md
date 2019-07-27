@@ -1,6 +1,6 @@
 以下時間以（[韓國時間](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")）[UTC+9為準](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")
 
-**《SOLO》**是韓國人氣男子組合[SS501主唱](../Page/SS501.md "wikilink")[許永生於](../Page/許永生.md "wikilink")2012年5月22日推出的第二張個人迷你專輯。2012年5月11日韓國yes24線上商店開始預購，5月18日凌晨0時公開預告[MV](../Page/音樂錄影帶.md "wikilink")\[1\]，5月22日凌晨0時線上公開音源和完整[MV](../Page/音樂錄影帶.md "wikilink")\[2\]及5月23日實體發售，6月1日從[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")－[音樂銀行中演出正式展開一連串的宣傳行程](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。6月17日於[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")－[人氣歌謠演出後結束宣傳](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。
+**《SOLO》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")主唱[許永生](../Page/許永生.md "wikilink")於2012年5月22日推出的第二張個人迷你專輯。2012年5月11日韓國yes24線上商店開始預購，5月18日凌晨0時公開預告[MV](../Page/音樂錄影帶.md "wikilink")\[1\]，5月22日凌晨0時線上公開音源和完整[MV](../Page/音樂錄影帶.md "wikilink")\[2\]及5月23日實體發售，6月1日從[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")－[音樂銀行中演出正式展開一連串的宣傳行程](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。6月17日於[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")－[人氣歌謠演出後結束宣傳](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。
 
 本作另於2012年8月17日發行台壓雙版本（SOLO台灣獨占限定A盤 CD+台灣獨占限定贈品、SOLO台灣獨占影音限定B盤CD+DVD）。
 
@@ -8,14 +8,14 @@
 
 ### 錄製與音樂
 
-  - [許永生作為聯合製作人在專輯的整體企劃](../Page/許永生.md "wikilink")、概念、構成等方面全部參與了製作，同時連歌詞錄音等細節的工作也沒有忽略，並親自作詞等\[3\]。
+  - [許永生](../Page/許永生.md "wikilink")作為聯合製作人在專輯的整體企劃、概念、構成等方面全部參與了製作，同時連歌詞錄音等細節的工作也沒有忽略，並親自作詞等\[3\]。
   - 主打歌曲《**Crying**》是由[SS501](../Page/SS501.md "wikilink")“Love like
     this ”、“Love Ya”和首張個人迷你專輯中“Out the Club”、“Rainy Heart”等歌曲的作曲家STEVEN
-    LEE親自作曲，[許永生親自參與作詞的作品](../Page/許永生.md "wikilink")，兩人相輔相成使得專輯的完成度更高。此首為中板節奏，以流行的RnB形式將RnB節奏與URBAN旋律相融合的歌曲，歌詞以分手後的男人希望戀人再次回來的內容展開\[4\]。音樂影像導演：문성주（Moon
+    LEE親自作曲，[許永生](../Page/許永生.md "wikilink")親自參與作詞的作品，兩人相輔相成使得專輯的完成度更高。此首為中板節奏，以流行的RnB形式將RnB節奏與URBAN旋律相融合的歌曲，歌詞以分手後的男人希望戀人再次回來的內容展開\[4\]。音樂影像導演：문성주（Moon
     Sang Joo）。
   - 另外收錄的《**Intimidated**》是由名作曲家Drew Ryan Scott、Steven
     Lee、凱蒂佩芮、凱莉克萊森、小甜甜布蘭妮等多位國際歌手御用吉他手/作曲家Brent
-    Paschke還有[SHINee的](../Page/SHINee.md "wikilink")" Amigo " ，SS501的
+    Paschke還有[SHINee](../Page/SHINee.md "wikilink")的" Amigo " ，SS501的
     "Love Like This" 等替許多的亞洲偶像組合的音樂作曲且為組合"Varsity
     Fanclub"主唱，活躍在英國和美國的Drew Ryan
     Scott碰撞誕生的歌曲。以強烈的電吉他節奏和抒情旋律的流行搖滾曲風巧妙的融入了永生的歌聲。
@@ -215,7 +215,7 @@
     音樂中心'結束之後，在自己的推特上發表了“許永生像乞丐似的”文字。引起許永生的歌迷們對其進行了非難，隨後該名成員又寫下了“好恐怖，要註銷推特才行…嗯，假的啦。這些都是什麼呀”這樣的文字，態度更為惡劣。
     《NU
     VANE》的隊長金斗衡也說出“哎（表不滿）那些歌迷真是好可怕啊，呵呵呵，說了句話就在推特爆發了”這樣的話，使歌迷們更加生氣。結果張孝元在10日凌晨“對於談及在同一公演場的某個歌手時，好像是有缺乏尊重的問題。在此對歌手和歌迷道歉。”低頭認錯。非難的文字也被刪除，此事告一段落\[7\]。
-  - 在張孝元發表完道歉申明後，許永生的經紀人即是SS501時期的經紀人許亨鎮於其[Twitter上](../Page/Twitter.md "wikilink")
+  - 在張孝元發表完道歉申明後，許永生的經紀人即是SS501時期的經紀人許亨鎮於其[Twitter](../Page/Twitter.md "wikilink")上
     \[<https://twitter.com/hyeongjin2>
     [https://twitter.com/hyeongjin2\]發布以下文字](https://twitter.com/hyeongjin2%5D發布以下文字)：
 
@@ -229,7 +229,7 @@
 
 <!-- end list -->
 
-  - 2012年12月5日平面媒體報導中國一位以原創音樂成名的年輕女歌手-[本兮在該年](../Page/本兮.md "wikilink")11月推出的全新EP《現在開始》被指其編曲與本作主打歌曲《Crying》相似度極高，並且本作演唱者的粉絲們隨即向該曲製作團隊投訴\[8\]。而該曲的作曲人Steven
+  - 2012年12月5日平面媒體報導中國一位以原創音樂成名的年輕女歌手-[本兮](../Page/本兮.md "wikilink")在該年11月推出的全新EP《現在開始》被指其編曲與本作主打歌曲《Crying》相似度極高，並且本作演唱者的粉絲們隨即向該曲製作團隊投訴\[8\]。而該曲的作曲人Steven
     Lee在獲悉此事後，也在個人推特上表示：'''Now on, we shouldn't put Inst ver :(
 
 ## 參考資料

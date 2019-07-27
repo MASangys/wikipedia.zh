@@ -1,5 +1,5 @@
 **Ich tu dir
-weh**（德译：我伤害了你）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")。由于这首歌涉及[虐恋内容](../Page/虐恋.md "wikilink")，防止对未成年人有害信息的联邦部门禁售这张单曲。\[1\]\[2\]2010年5月，未经审查的单曲在德国发布。\[3\]
+weh**（德译：我伤害了你）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")。由于这首歌涉及[虐恋](../Page/虐恋.md "wikilink")内容，防止对未成年人有害信息的联邦部门禁售这张单曲。\[1\]\[2\]2010年5月，未经审查的单曲在德国发布。\[3\]
 
 ## MV
 

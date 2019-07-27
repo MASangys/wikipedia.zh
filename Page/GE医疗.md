@@ -1,7 +1,7 @@
-**GE医疗**（）是[通用电气](../Page/通用电气.md "wikilink")（GE）旗下的子公司，总部位于[美国](../Page/美国.md "wikilink")[伊利诺伊州的](../Page/伊利诺伊州.md "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")，在全球范围内共有超过46000名雇员。原用名为GE医疗系统（GE
+**GE医疗**（）是[通用电气](../Page/通用电气.md "wikilink")（GE）旗下的子公司，总部位于[美国](../Page/美国.md "wikilink")[伊利诺伊州](../Page/伊利诺伊州.md "wikilink")的[芝加哥](../Page/芝加哥.md "wikilink")，在全球范围内共有超过46000名雇员。原用名为GE医疗系统（GE
 Medical Systems）。2004年，在与英国Amersham plc合并后，更名为GE医疗（GE Healthcare）。\[1\]
 
-GE医疗致力于提供革新性的[医疗技术和服务](https://zh.wikipedia.org/wiki/医疗 "wikilink")，为全世界提供成本更加低廉并且可负担的医疗服务。集团旗下产品遍及[医学成像](../Page/医学.md "wikilink")、[信息技术](../Page/信息技术.md "wikilink")、医疗诊断、患者监护系统、药物研发、生物制药以及卓越运营。
+GE医疗致力于提供革新性的[医疗技术和服务](https://zh.wikipedia.org/wiki/医疗 "wikilink")，为全世界提供成本更加低廉并且可负担的医疗服务。集团旗下产品遍及[医学](../Page/医学.md "wikilink")成像、[信息技术](../Page/信息技术.md "wikilink")、医疗诊断、患者监护系统、药物研发、生物制药以及卓越运营。
 
 ## 历史
 
@@ -11,7 +11,7 @@ GE医疗致力于提供革新性的[医疗技术和服务](https://zh.wikipedia.
 Wantz制造电动机与啤酒泵；1895年10月，在一间30平米的地下室里，成立了维克托电器公司（Victor
 Electric Co.），启动资金3000美元，并雇佣6名员工。
 
-维克托电器公司自1896年开展X射线放射业务，并推出X射线放射机（于[伦琴发现](https://zh.wikipedia.org/wiki/伦琴 "wikilink")[X射线后一年](../Page/X射线.md "wikilink")）。由于公司发展策略的调整，1896年搬迁至新的办公地点，约90平方米，在1896年至1899年之间，公司还进行过三次搬迁，以解决办公地点空间紧缺问题。
+维克托电器公司自1896年开展X射线放射业务，并推出X射线放射机（于[伦琴发现](https://zh.wikipedia.org/wiki/伦琴 "wikilink")[X射线](../Page/X射线.md "wikilink")后一年）。由于公司发展策略的调整，1896年搬迁至新的办公地点，约90平方米，在1896年至1899年之间，公司还进行过三次搬迁，以解决办公地点空间紧缺问题。
 
 维克托电器的竞争对手G.A.Frye在1896年开始制造X射线管。该公司于1897年被Swett\&Lewis收购，开始涉及X射线放射业务。
 
@@ -51,7 +51,11 @@ Avenue）。1947年，GEX射线公司迁入新的办公地点。
 
 ## 参考资料
 
-[Category:美國健康](https://zh.wikipedia.org/wiki/Category:美國健康 "wikilink")
+[Category:通用电气](https://zh.wikipedia.org/wiki/Category:通用电气 "wikilink")
+[Category:美国制药公司](https://zh.wikipedia.org/wiki/Category:美国制药公司 "wikilink")
+[Category:放射性药物](https://zh.wikipedia.org/wiki/Category:放射性药物 "wikilink")
+[Category:磁振造影](https://zh.wikipedia.org/wiki/Category:磁振造影 "wikilink")
+[Category:芝加哥公司](https://zh.wikipedia.org/wiki/Category:芝加哥公司 "wikilink")
 [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
 
 1.

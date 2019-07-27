@@ -1,13 +1,13 @@
-**Gepard**（[獵豹](https://zh.wikipedia.org/wiki/獵豹 "wikilink")）是由[匈牙利研製的一系列大口徑重型](../Page/匈牙利.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）。
+**Gepard**（[獵豹](https://zh.wikipedia.org/wiki/獵豹 "wikilink")）是由[匈牙利](../Page/匈牙利.md "wikilink")研製的一系列大口徑重型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）。
 
 ## 概述
 
-Gepard系列狙擊步槍是為了能讓士兵有效地破壞2000米內的輕型裝甲目標而被研製出來的，這種重型狙擊步槍同時具備射程遠、殺傷力大及精度高等優點。其設計概念是源自[第一次世界大戰由](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[德國研製的](https://zh.wikipedia.org/wiki/德國 "wikilink")[反坦克步槍](../Page/反坦克步槍.md "wikilink")，這種武器是專門用來破壞如[坦克等裝甲車輛](../Page/坦克.md "wikilink")。不過隨着重型坦克的面世意味著它們有更厚的裝甲，反坦克步槍便開始派不上場了。然而在1987年，匈牙利軍隊正尋求一種體積小巧，並能被單兵攜帶的大口徑武器，旨在破壞輕型裝甲目標。該項目最終在Ferenc
+Gepard系列狙擊步槍是為了能讓士兵有效地破壞2000米內的輕型裝甲目標而被研製出來的，這種重型狙擊步槍同時具備射程遠、殺傷力大及精度高等優點。其設計概念是源自[第一次世界大戰由](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[德國研製的](https://zh.wikipedia.org/wiki/德國 "wikilink")[反坦克步槍](../Page/反坦克步槍.md "wikilink")，這種武器是專門用來破壞如[坦克](../Page/坦克.md "wikilink")等裝甲車輛。不過隨着重型坦克的面世意味著它們有更厚的裝甲，反坦克步槍便開始派不上場了。然而在1987年，匈牙利軍隊正尋求一種體積小巧，並能被單兵攜帶的大口徑武器，旨在破壞輕型裝甲目標。該項目最終在Ferenc
 Földi（匈牙利人民軍軍事技術研究所的工作人員）的領導下完成了，其成果就是Gepard系列狙擊步槍。
 
 Gepard在正式裝備匈牙利軍隊後的第一個型號是M1型，該型號於1990年推出，為一款單發式步槍，裝彈及退彈方法是將握把90度旋轉扭開，然後裝填/退出[子彈](../Page/子彈.md "wikilink")，而整個過程當中是不需把握把拆下。\[1\]匈牙利軍隊更會指導士兵若需緊急撤退的時候把整槍留下，並只回收其握把部份，這樣敵方就無法使用士兵遺留下來的武器。
 
-M1型發射[12.7×108毫米大口徑步槍彈](../Page/12.7×108mm.md "wikilink")。為了增加精度，該槍採用了長[槍管設計](../Page/槍管.md "wikilink")。而其骨架式[槍托的設計則是為了降低重量](../Page/槍托.md "wikilink")。
+M1型發射[12.7×108毫米大口徑步槍彈](../Page/12.7×108mm.md "wikilink")。為了增加精度，該槍採用了長[槍管](../Page/槍管.md "wikilink")設計。而其骨架式[槍托](../Page/槍托.md "wikilink")的設計則是為了降低重量。
 
 期後Gepard推出了多種改進型，這些改型包括了使用[旋轉後拉式槍機操作的步槍及](../Page/手動槍機.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。
 
@@ -34,7 +34,7 @@ M1型發射[12.7×108毫米大口徑步槍彈](../Page/12.7×108mm.md "wikilink"
   - 載彈量：5/10發
   - 槍機種類：[長行程後座作用](../Page/後座作用.md "wikilink")
 
-為一款[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，採用[長行程後座作用運作](../Page/後座作用.md "wikilink")。該槍比起M1有著更短的槍管長度及更低的重量，並以5發或10發容量的[彈匣供彈](../Page/彈匣.md "wikilink")。M2A2為該槍的縮短版本，主要提供給[傘兵和](../Page/傘兵.md "wikilink")[特種部隊使用](../Page/特種部隊.md "wikilink")。
+為一款[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，採用[長行程後座作用運作](../Page/後座作用.md "wikilink")。該槍比起M1有著更短的槍管長度及更低的重量，並以5發或10發容量的[彈匣](../Page/彈匣.md "wikilink")供彈。M2A2為該槍的縮短版本，主要提供給[傘兵](../Page/傘兵.md "wikilink")和[特種部隊](../Page/特種部隊.md "wikilink")使用。
 
 ### M3
 

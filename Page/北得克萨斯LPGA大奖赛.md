@@ -1,4 +1,4 @@
-**北得克萨斯LPGA大奖赛**（）是[LPGA巡回赛的一场女子职业高尔夫赛事](https://zh.wikipedia.org/wiki/美国女子职业高尔夫协会 "wikilink")。赛事于[2013年在](../Page/2013年LPGA巡回赛.md "wikilink")[美国](../Page/美国.md "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[欧文拉斯科琳娜斯乡村俱乐部首次举办](https://zh.wikipedia.org/wiki/欧文_\(得克萨斯州\) "wikilink")。赛事的首场比赛由[朴仁妃以一杆优势超过](../Page/朴仁妃.md "wikilink")获得。\[1\]
+**北得克萨斯LPGA大奖赛**（）是[LPGA巡回赛的一场女子职业高尔夫赛事](https://zh.wikipedia.org/wiki/美国女子职业高尔夫协会 "wikilink")。赛事于[2013年在](../Page/2013年LPGA巡回赛.md "wikilink")[美国](../Page/美国.md "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[欧文拉斯科琳娜斯乡村俱乐部首次举办](https://zh.wikipedia.org/wiki/欧文_\(得克萨斯州\) "wikilink")。赛事的首场比赛由[朴仁妃](../Page/朴仁妃.md "wikilink")以一杆优势超过获得。\[1\]
 
 ## 获胜者
 

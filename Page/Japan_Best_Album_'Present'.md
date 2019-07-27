@@ -1,5 +1,5 @@
 《**Japan Best Album
-'Present**'》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第二張](../Page/CNBLUE.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")（但官方網站視為精選輯），在2013年11月26日發行，大碟輯錄了10首他們在日本發行的歌曲的韓語改編版本\[1\]。
+'Present**'》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第二張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")（但官方網站視為精選輯），在2013年11月26日發行，大碟輯錄了10首他們在日本發行的歌曲的韓語改編版本\[1\]。
 
 ## 曲目
 

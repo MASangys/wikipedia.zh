@@ -1,4 +1,4 @@
-是[暴雪娛樂發行](../Page/暴雪娛樂.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")[暗黑破坏神III的第一個官方](https://zh.wikipedia.org/wiki/暗黑破坏神III "wikilink")[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，已在2014年3月25日發佈。\[1\]\[2\]
+是[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")發行[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")[暗黑破坏神III的第一個官方](https://zh.wikipedia.org/wiki/暗黑破坏神III "wikilink")[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，已在2014年3月25日發佈。\[1\]\[2\]
 
 此遊戲可在[Windows系統](https://zh.wikipedia.org/wiki/Windows系統 "wikilink")、[Mac
 OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Xbox

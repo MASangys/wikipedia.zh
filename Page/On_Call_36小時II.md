@@ -1,6 +1,6 @@
 [Queen_Elizabeth_Hospital.jpg](https://zh.wikipedia.org/wiki/File:Queen_Elizabeth_Hospital.jpg "fig:Queen_Elizabeth_Hospital.jpg")取景拍攝\]\]
 《**On Call
-36小時II**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，並由[黃智雯](../Page/黃智雯.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[朱千雪](../Page/朱千雪.md "wikilink")、[岑麗香](https://zh.wikipedia.org/wiki/岑麗香 "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[袁偉豪及](../Page/袁偉豪.md "wikilink")[古明華聯合主演](../Page/古明華.md "wikilink")，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為第十七屆香港國際影視展中無綫電視重點推介的劇集之一，亦是無綫電視**46週年台慶劇**，並由FWD香港富衛保險呈獻。此劇於[伊利沙伯醫院取景拍攝](../Page/伊利沙伯醫院.md "wikilink")。
+36小時II**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡](../Page/楊怡.md "wikilink")領銜主演，並由[黃智雯](../Page/黃智雯.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[朱千雪](../Page/朱千雪.md "wikilink")、[岑麗香](https://zh.wikipedia.org/wiki/岑麗香 "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[古明華](../Page/古明華.md "wikilink")聯合主演，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為第十七屆香港國際影視展中無綫電視重點推介的劇集之一，亦是無綫電視**46週年台慶劇**，並由FWD香港富衛保險呈獻。此劇於[伊利沙伯醫院](../Page/伊利沙伯醫院.md "wikilink")取景拍攝。
 
 ## 演員表
 
@@ -400,7 +400,7 @@
 <td><p><a href="../Page/魯振順.md" title="wikilink">魯振順</a></p></td>
 <td><p>林大光</p></td>
 <td><p><strong>林爺</strong><br />
-<a href="../Page/神經外科.md" title="wikilink">神經外科顧問醫生</a><br />
+<a href="../Page/神經外科.md" title="wikilink">神經外科</a>顧問醫生<br />
 莊博文之上司<br />
 參見上輯《<strong><a href="../Page/On_Call_36小時.md" title="wikilink">On Call 36小時</a></strong>》</p></td>
 </tr>
@@ -876,7 +876,7 @@
 <td><p><a href="../Page/張慧雯_(香港).md" title="wikilink">張慧雯</a></p></td>
 <td><p>簡晶晶</p></td>
 <td><p><strong>晶晶</strong><br />
-楊沛聰之鍾情對象<br />
+楊沛聰好友<br />
 於澳洲進修<br />
 參見上輯《<strong><a href="../Page/On_Call_36小時.md" title="wikilink">On Call 36小時</a></strong>》</p></td>
 </tr>
@@ -1083,7 +1083,7 @@ Monica之生意夥伴<br />
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |             |                     |          |          |
 | ------ | ----------- | ------------------- | -------- | -------- |
@@ -1150,13 +1150,13 @@ Monica之生意夥伴<br />
 <td><p>最喜愛TVB電視角色</p></td>
 <td><p>張一健（<a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明飾</a>）<br />
 范子妤（<a href="../Page/楊怡.md" title="wikilink">楊　怡飾</a>）<br />
-洪美雪（<a href="../Page/黃智雯.md" title="wikilink">黃智雯飾</a>）</p></td>
+洪美雪（<a href="../Page/黃智雯.md" title="wikilink">黃智雯</a>飾）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>洛文笙（<a href="../Page/吳啟華.md" title="wikilink">吳啟華飾</a>）<br />
-楊沛聰（<a href="../Page/羅仲謙.md" title="wikilink">羅仲謙飾</a>）</p></td>
+<td><p>洛文笙（<a href="../Page/吳啟華.md" title="wikilink">吳啟華</a>飾）<br />
+楊沛聰（<a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a>飾）</p></td>
 <td><p>提名</p></td>
 <td></td>
 <td></td>
@@ -1256,7 +1256,7 @@ Monica之生意夥伴<br />
 </tr>
 <tr class="even">
 <td><p>最受歡迎電視男角色</p></td>
-<td><p>洛文笙（<a href="../Page/吳啟華.md" title="wikilink">吳啟華飾</a>）<br />
+<td><p>洛文笙（<a href="../Page/吳啟華.md" title="wikilink">吳啟華</a>飾）<br />
 張一健（<a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明飾</a>）</p></td>
 <td><p>提名</p></td>
 <td></td>
@@ -1354,16 +1354,16 @@ Monica之生意夥伴<br />
 
 ## 軼事
 
-此劇是2012年香港小姐亞軍[黃心穎與季軍](../Page/黃心穎.md "wikilink")[朱千雪首度同時合作一劇](../Page/朱千雪.md "wikilink")。
+此劇是2012年香港小姐亞軍[黃心穎](../Page/黃心穎.md "wikilink")與季軍[朱千雪](../Page/朱千雪.md "wikilink")首度同時合作一劇。
 
 ## 記事
 
-  - 2013年1月30日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城TVB傳媒中心舉行試造型記者會](../Page/電視廣播城.md "wikilink")。\[1\]
+  - 2013年1月30日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")TVB傳媒中心舉行試造型記者會。\[1\]
   - 2013年2月28日：此劇於15:00在將軍澳電視廣播城TVB傳媒中心舉行開鏡拜神。\[2\]
   - 2013年5月18日：此劇正式殺青。\[3\]
-  - 2013年11月19日：由於當日20:00-22:30在[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台直播](../Page/高清翡翠台.md "wikilink")《萬千星輝賀台慶》的關係，本劇集暫停播映一次。
-  - 2013年11月22日：由於當日20:30-22:30在[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播映劇集](../Page/高清翡翠台.md "wikilink")《[法外風雲](../Page/法外風雲.md "wikilink")》結局篇的關係，本劇集暫停播映一次。
-  - 2013年12月15日：此劇於當日21:00-21:15及23:15-23:30在[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台直播特備節目](../Page/高清翡翠台.md "wikilink")《On
+  - 2013年11月19日：由於當日20:00-22:30在[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")直播《萬千星輝賀台慶》的關係，本劇集暫停播映一次。
+  - 2013年11月22日：由於當日20:30-22:30在[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")播映劇集《[法外風雲](../Page/法外風雲.md "wikilink")》結局篇的關係，本劇集暫停播映一次。
+  - 2013年12月15日：此劇於當日21:00-21:15及23:15-23:30在[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")直播特備節目《On
     Call 36小時II 美麗使命》，其於21:15-23:15播映劇集的兩小時大結局。
 
 ## 參考資料

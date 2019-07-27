@@ -1,8 +1,8 @@
-**日本NBC環球娛樂有限責任公司**（／），是[NBC環球旗下影音娛樂製作企劃公司](../Page/NBC環球.md "wikilink")。
+**日本NBC環球娛樂有限責任公司**（／），是[NBC環球](../Page/NBC環球.md "wikilink")旗下影音娛樂製作企劃公司。
 
 ## 概要
 
-前身是[先鋒公司於](https://zh.wikipedia.org/wiki/先鋒公司 "wikilink")1981年3月以製作[鐳射影碟為目的而設立的](../Page/鐳射影碟.md "wikilink")「鐳射影碟株式会社」，1989年4月更名「先鋒LDC株式会社」。
+前身是[先鋒公司於](https://zh.wikipedia.org/wiki/先鋒公司 "wikilink")1981年3月以製作[鐳射影碟](../Page/鐳射影碟.md "wikilink")為目的而設立的「鐳射影碟株式会社」，1989年4月更名「先鋒LDC株式会社」。
 
 2003年9月，[電通收購先鋒LDC與美國](https://zh.wikipedia.org/wiki/電通 "wikilink")「Pioneer
 Entertainment (USA) Inc.」\[1\]，分別改名「Geneon娛樂株式会社」、「Geneon Entertainment
@@ -71,7 +71,7 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
   - [Luce Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
     (2015年〜)
   - [KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
-    (2004年〜2010年、2018年〜)（2011年8月1日於[I've畢業](../Page/I've.md "wikilink")）
+    (2004年〜2010年、2018年〜)（2011年8月1日於[I've](../Page/I've.md "wikilink")畢業）
   - [山崎遙](../Page/山崎遙.md "wikilink") (2011年〜2013年、2018年〜)
   - [飯田里穂](https://zh.wikipedia.org/wiki/飯田里穂 "wikilink") (2018年〜)
 

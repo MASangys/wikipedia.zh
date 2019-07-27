@@ -1,10 +1,10 @@
 [Gravitational_lens-full.jpg](https://zh.wikipedia.org/wiki/File:Gravitational_lens-full.jpg "fig:Gravitational_lens-full.jpg")
 
 **B模偏振**（B-mode
-polarization）是[宇宙微波背景輻射的一種](https://zh.wikipedia.org/wiki/宇宙微波背景輻射 "wikilink")[偏振信號](../Page/偏振.md "wikilink")。
-宇宙微波背景輻射的偏振圖樣可以分為兩個部分。一個是[旋度為零的部分](../Page/旋度.md "wikilink")（類[電場部分](../Page/電場.md "wikilink")），稱為「E模偏振」，簡稱為「E模」，不具[手徵性](../Page/手徵性.md "wikilink")。2002年，[度角尺度干涉儀](https://zh.wikipedia.org/wiki/度角尺度干涉儀 "wikilink")（DASI）最先發現這種偏振。另一個是[散度為零](../Page/散度.md "wikilink")、旋度不為零的部分（類[磁場部分](../Page/磁場.md "wikilink")），稱為「B模偏振」，簡稱為「B模」，具有手徵性。\[1\]
+polarization）是[宇宙微波背景輻射的一種](https://zh.wikipedia.org/wiki/宇宙微波背景輻射 "wikilink")[偏振](../Page/偏振.md "wikilink")信號。
+宇宙微波背景輻射的偏振圖樣可以分為兩個部分。一個是[旋度](../Page/旋度.md "wikilink")為零的部分（類[電場](../Page/電場.md "wikilink")部分），稱為「E模偏振」，簡稱為「E模」，不具[手徵性](../Page/手徵性.md "wikilink")。2002年，[度角尺度干涉儀](https://zh.wikipedia.org/wiki/度角尺度干涉儀 "wikilink")（DASI）最先發現這種偏振。另一個是[散度](../Page/散度.md "wikilink")為零、旋度不為零的部分（類[磁場](../Page/磁場.md "wikilink")部分），稱為「B模偏振」，簡稱為「B模」，具有手徵性。\[1\]
 
-[宇宙學家預測存在兩種B模](https://zh.wikipedia.org/wiki/宇宙學家 "wikilink")。第一種是在[大爆炸短暫片刻後的](../Page/大爆炸.md "wikilink")[宇宙暴脹過程中生成](../Page/宇宙暴脹.md "wikilink")\[2\]\[3\]\[4\]；第二種在後來由[引力透鏡生成](https://zh.wikipedia.org/wiki/引力透鏡 "wikilink")\[5\]。
+[宇宙學家預測存在兩種B模](https://zh.wikipedia.org/wiki/宇宙學家 "wikilink")。第一種是在[大爆炸](../Page/大爆炸.md "wikilink")短暫片刻後的[宇宙暴脹](../Page/宇宙暴脹.md "wikilink")過程中生成\[2\]\[3\]\[4\]；第二種在後來由[引力透鏡生成](https://zh.wikipedia.org/wiki/引力透鏡 "wikilink")\[5\]。
 
 ## 研究成果
 

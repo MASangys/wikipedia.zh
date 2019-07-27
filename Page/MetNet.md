@@ -1,4 +1,4 @@
-**MetNet**是一個由[芬蘭氣象研究所規劃的](https://zh.wikipedia.org/wiki/芬蘭氣象研究所 "wikilink")[火星大氣層探測計畫](../Page/火星大氣層.md "wikilink")。該任務計畫中將發射數十個登陸艇到火星表面，目的是為了建立一個火星表面大範圍的觀測站網路以進行火星大氣層結構、物理性質和氣象學的研究。該任務的計畫起始將是在2014年對火星的發射窗口期間發射第一個登陸艇。
+**MetNet**是一個由[芬蘭氣象研究所規劃的](https://zh.wikipedia.org/wiki/芬蘭氣象研究所 "wikilink")[火星大氣層](../Page/火星大氣層.md "wikilink")探測計畫。該任務計畫中將發射數十個登陸艇到火星表面，目的是為了建立一個火星表面大範圍的觀測站網路以進行火星大氣層結構、物理性質和氣象學的研究。該任務的計畫起始將是在2014年對火星的發射窗口期間發射第一個登陸艇。
 
 ## 概念與目標
 
@@ -9,7 +9,7 @@
 
 [MetNet.jpg](https://zh.wikipedia.org/wiki/File:MetNet.jpg "fig:MetNet.jpg")
 MetNet
-的登陸艇將使用充氣式進入與降落系統，而非先前半硬式登陸艇使用的剛性[防熱盾和](../Page/防熱盾.md "wikilink")[降落傘](https://zh.wikipedia.org/wiki/降落傘 "wikilink")。這可優化酬載質量和總質量比例，並且有更多質量與體積可用於科學設備。MetNet
+的登陸艇將使用充氣式進入與降落系統，而非先前半硬式登陸艇使用的剛性[防熱盾](../Page/防熱盾.md "wikilink")和[降落傘](https://zh.wikipedia.org/wiki/降落傘 "wikilink")。這可優化酬載質量和總質量比例，並且有更多質量與體積可用於科學設備。MetNet
 登陸艇在大氣層中降落過程可分成兩個階段：初始的空氣動力學或「充氣制動單元」減速階段；以及延續的空氣動力學或「附加充氣制動單元」減速階段。登陸艇在火星表面的壽命將可達到7年\[2\]。
 
 ## 狀態
@@ -22,7 +22,7 @@ MetNet
 在先前的一個發射窗口中曾經有兩個搭載 MetNet 的方案被考慮\[6\]：
 
 1.  搭載在俄羅斯的[福布斯-土壤中](https://zh.wikipedia.org/wiki/福布斯-土壤 "wikilink")。
-2.  使用以[潜射弹道导弹改造的](../Page/潜射弹道导弹.md "wikilink")[波浪號運載火箭](https://zh.wikipedia.org/wiki/波浪號運載火箭 "wikilink")。
+2.  使用以[潜射弹道导弹](../Page/潜射弹道导弹.md "wikilink")改造的[波浪號運載火箭](https://zh.wikipedia.org/wiki/波浪號運載火箭 "wikilink")。
 
 芬蘭氣象研究所原本宣布將在2011年將示範性的登陸艇搭載在[福布斯-土壤任務中一起發射](https://zh.wikipedia.org/wiki/福布斯-土壤 "wikilink")。但之後因為酬載重量問題而並未搭載，[福布斯-土壤之後因為進入軌道失敗](https://zh.wikipedia.org/wiki/福布斯-土壤 "wikilink")，於2012年1月16日墜入太平洋中墜毀\[7\]。前導任務目前計畫將在2014年的發射窗口執行\[8\]。
 
@@ -34,7 +34,7 @@ MetNet
 ## 發展
 
 MetNet 是 [NetLander](https://zh.wikipedia.org/wiki/NetLander "wikilink")
-任務中大氣探測部分的後繼者，它同時也繼承了俄羅斯[火星96任務](../Page/火星96.md "wikilink")。MetNet
+任務中大氣探測部分的後繼者，它同時也繼承了俄羅斯[火星96](../Page/火星96.md "wikilink")任務。MetNet
 相關設計開始於2000年8月，並自2001年開始發展\[10\]。
 
 MetNet

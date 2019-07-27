@@ -1,15 +1,15 @@
 **Microsoft Office 98 Macintosh 版**\[1\]（Microsoft Office 98 Macintosh
 Edition，简称Office 98
-Mac版）是一款[美国](../Page/美国.md "wikilink")[微软公司开发的专为](../Page/微软.md "wikilink")[苹果公司旗下](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")[Mac
+Mac版）是一款[美国](../Page/美国.md "wikilink")[微软](../Page/微软.md "wikilink")公司开发的专为[苹果公司旗下](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")[Mac
 OS平台提供的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Microsoft
-Office套件](../Page/Microsoft_Office.md "wikilink")。在1998年1月6日的[旧金山](../Page/旧金山.md "wikilink")[Macworld展会上首次亮相](../Page/Macworld.md "wikilink")\[2\]。它引入了Internet
-Explorer4.0[网页浏览器以及Outlook](../Page/网页浏览器.md "wikilink")
+Office套件](../Page/Microsoft_Office.md "wikilink")。在1998年1月6日的[旧金山](../Page/旧金山.md "wikilink")[Macworld](../Page/Macworld.md "wikilink")展会上首次亮相\[2\]。它引入了Internet
+Explorer4.0[网页浏览器](../Page/网页浏览器.md "wikilink")以及Outlook
 Express——一个支持Usenet新闻组阅读器的互联网[e-mail客户端](https://zh.wikipedia.org/wiki/e-mail "wikilink")\[3\]\[4\]。Office98由微软的Macintosh业务部门负责进行过重新设计，以满足客户需要更多“类Mac软件”的愿望\[5\]。
 
 ## 概述
 
 Microsoft Office 98 Macintosh
-版是Mac平台首款支持[QuickTime视频的office套件](../Page/QuickTime.md "wikilink")，是微软为了抢占Mac机用户，首次为苹果机提供的Mac
+版是Mac平台首款支持[QuickTime](../Page/QuickTime.md "wikilink")视频的office套件，是微软为了抢占Mac机用户，首次为苹果机提供的Mac
 Office版本\[6\]。微软Office98中的应用程序如下：
 
   - [Microsoft PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")
@@ -28,13 +28,13 @@ Bookshelf 98参考软件和Microsoft Encarta98 Macintosh豪华版。\[7\]
 
 ## 系统需求
 
-  - 配备[PowerPC处理器的](../Page/PowerPC.md "wikilink")[Mac操作系统兼容电脑](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。
+  - 配备[PowerPC](../Page/PowerPC.md "wikilink")处理器的[Mac操作系统兼容电脑](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。
   - [System
     7.5操作系统或更高版本](https://zh.wikipedia.org/wiki/System_7 "wikilink")。
   - 运行一个应用程序至少需要配备16MB的物理[内存](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，运行多个应用程序，建议配备32MB物理内存。
   - 足够的硬盘空间，这取决于安装方法：“拖放安装”或“简易安装”（90
     MB），“完整安装”（最小43MB到最大110MB）或“从CD运行或从网络运行”（7MB的客户端硬盘）。
-  - 一台[CD-ROM驱动器](../Page/CD-ROM.md "wikilink").
+  - 一台[CD-ROM](../Page/CD-ROM.md "wikilink")驱动器.
   - 一个8位色或4位灰度的显示器，至少640×400的[分辨率](../Page/分辨率.md "wikilink")。
 
 以上所有均需要满足。\[8\]

@@ -1,5 +1,5 @@
 **Nana Kwame
-Abrokwa**（1968年10月5日——）是一个出生于[加纳](../Page/加纳.md "wikilink")，来自[德国的](../Page/德国.md "wikilink")[说唱歌手和](https://zh.wikipedia.org/wiki/说唱歌手 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")，艺名为**Nana**或**Darkman
+Abrokwa**（1968年10月5日——）是一个出生于[加纳](../Page/加纳.md "wikilink")，来自[德国](../Page/德国.md "wikilink")的[说唱歌手和](https://zh.wikipedia.org/wiki/说唱歌手 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")，艺名为**Nana**或**Darkman
 /
 Nana**。Nana并非他实际的名字，而是一个加纳当地的贵族头衔。他最重要的成就在[20世纪90年代后半期到来](https://zh.wikipedia.org/wiki/20世纪90年代 "wikilink")，他的风格被定性为“欧罗巴说唱”(euro-rap)。
 

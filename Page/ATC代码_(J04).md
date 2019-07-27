@@ -28,13 +28,13 @@
     J04AB30
     [卷曲霉素](https://zh.wikipedia.org/wiki/卷曲霉素 "wikilink")（Capreomycin）
 
-### J04AC [酰肼类](../Page/酰肼.md "wikilink")（Hydrazides）
+### J04AC [酰肼](../Page/酰肼.md "wikilink")类（Hydrazides）
 
   -
     J04AC01 [异烟肼](../Page/异烟肼.md "wikilink")（Isoniazid）
     J04AC51 异烟肼，复方（Isoniazid, combinations）
 
-### J04AD [硫脲衍生物类](../Page/硫脲.md "wikilink")（Thiocarbamide derivatives）
+### J04AD [硫脲](../Page/硫脲.md "wikilink")衍生物类（Thiocarbamide derivatives）
 
   -
     J04AD01
@@ -66,10 +66,10 @@
     [氨硫脲和异烟肼](https://zh.wikipedia.org/wiki/氨硫脲 "wikilink")（Thioacetazone
     and isoniazid）
     J04AM05 利福平、吡嗪酰胺和异烟肼（Rifampicin, pyrazinamide and isoniazid）
-    J04AM06 利福平、吡嗪酰胺、[乙胺丁醇和异烟肼](../Page/乙胺丁醇.md "wikilink")（Rifampicin,
+    J04AM06 利福平、吡嗪酰胺、[乙胺丁醇](../Page/乙胺丁醇.md "wikilink")和异烟肼（Rifampicin,
     pyrazinamide, ethambutol and isoniazid）
 
-## J04B [麻风病治疗用药](../Page/麻风病.md "wikilink")（Drugs for treatment of lepra）
+## J04B [麻风病](../Page/麻风病.md "wikilink")治疗用药（Drugs for treatment of lepra）
 
 ### J04BA 麻风病治疗用药（Drugs for treatment of lepra）
 

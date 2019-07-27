@@ -1,8 +1,8 @@
-**OKC-3S**是一柄由[美国海军陆战队在](../Page/美国海军陆战队.md "wikilink")21世纪初正式採用\[1\]、用以取代[M7刺刀及用作](../Page/M7刺刀.md "wikilink")[M16](../Page/M16突擊步槍.md "wikilink")／[M4槍族的制式配備的多用途](../Page/M4卡賓槍.md "wikilink")[刀和](https://zh.wikipedia.org/wiki/刀 "wikilink")[刺刀](../Page/刺刀.md "wikilink")。這柄多用途刺刀系統有著比M7更為持久的耐用性，可以被視為一柄戰鬥刀。
+**OKC-3S**是一柄由[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")在21世纪初正式採用\[1\]、用以取代[M7刺刀](../Page/M7刺刀.md "wikilink")及用作[M16](../Page/M16突擊步槍.md "wikilink")／[M4槍族的制式配備的多用途](../Page/M4卡賓槍.md "wikilink")[刀和](https://zh.wikipedia.org/wiki/刀 "wikilink")[刺刀](../Page/刺刀.md "wikilink")。這柄多用途刺刀系統有著比M7更為持久的耐用性，可以被視為一柄戰鬥刀。
 
 ## 歷史
 
-OKC-3S是在2001年開始，由[海軍陸戰隊前司令](../Page/美国海军陆战队司令.md "wikilink")[詹姆斯·L·瓊斯](https://zh.wikipedia.org/wiki/詹姆斯·L·瓊斯 "wikilink")[上将為了讓海軍陸戰隊擴展及鍛煉](../Page/上将.md "wikilink")[肉搏戰訓練所實施的一系列改進的一部分](https://zh.wikipedia.org/wiki/肉搏戰 "wikilink")，其中包括[海軍陸戰隊武術計劃和](https://zh.wikipedia.org/wiki/海軍陸戰隊武術計劃 "wikilink")[刀戰的培訓在內](https://zh.wikipedia.org/wiki/刀戰 "wikilink")。在[2002年12月](https://zh.wikipedia.org/wiki/2002年12月 "wikilink")，作出使用多用途刺刀的決策以後，開始對33
+OKC-3S是在2001年開始，由[海軍陸戰隊前司令](../Page/美国海军陆战队司令.md "wikilink")[詹姆斯·L·瓊斯](https://zh.wikipedia.org/wiki/詹姆斯·L·瓊斯 "wikilink")[上将](../Page/上将.md "wikilink")為了讓海軍陸戰隊擴展及鍛煉[肉搏戰訓練所實施的一系列改進的一部分](https://zh.wikipedia.org/wiki/肉搏戰 "wikilink")，其中包括[海軍陸戰隊武術計劃和](https://zh.wikipedia.org/wiki/海軍陸戰隊武術計劃 "wikilink")[刀戰的培訓在內](https://zh.wikipedia.org/wiki/刀戰 "wikilink")。在[2002年12月](https://zh.wikipedia.org/wiki/2002年12月 "wikilink")，作出使用多用途刺刀的決策以後，開始對33
 種不同的刀具進行評估。而OKC-3S由於表現最佳，和在幾乎所有的測試類別中接近最好而被選中。OKC-3S於2003年開始生產和銷售。
 
 [Combat_knife_attached_to_gun.jpg](https://zh.wikipedia.org/wiki/File:Combat_knife_attached_to_gun.jpg "fig:Combat_knife_attached_to_gun.jpg")
@@ -17,7 +17,7 @@ HRC），而且能夠在-25—135[℉](../Page/华氏温标.md "wikilink")（-32
 握柄是由一種名為DynaFlex的合成防滑材料所製造，具有符合[人體工程學的開槽](../Page/人因工程学.md "wikilink")，而且比圓形更[椭圆](../Page/椭圆.md "wikilink")。這種設計有助於在訓練時防止重複性緊張損傷和手部疲勞。它還具有海军陆战队标志的浮雕，讓使用者在黑暗中識別出刀片的方向。其[全長度刀莖連接著平直護手片](https://zh.wikipedia.org/wiki/莖_\(器具部位\) "wikilink")／槍口環（這是在4.19[毫米](../Page/毫米.md "wikilink")／.165
 [英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）和用以緊扣著槍管刺刀座的柄端閂鎖板；兩者與刀片一樣都是具有磷酸鹽塗層。前安大略刀具公司總裁兼首席執行官尼克·布維治二世（）曾這樣說：「我們花了很多時間來確保握柄符合人體工程學是正確的……在手柄上並沒有起泡點。海軍陸戰隊員是最好的，他們應該得到最好的」。\[2\]\[3\]
 
-由[聚酯](../Page/聚酯.md "wikilink")[弹性体所製造的刀鞘是由](../Page/弹性体.md "wikilink")[納提克實驗室](https://zh.wikipedia.org/wiki/美國陸軍納提克士兵研究發展和工程中心 "wikilink")（，簡稱：NSRDEC）所設計，比過去的M7刀鞘更為輕便和降低噪音，而且可與[改良型負重裝備](https://zh.wikipedia.org/wiki/改良型負重裝備 "wikilink")（，簡稱：ILBE）兼容。它在其刀鞘口配備了一個內置式[不鏽鋼](../Page/不鏽鋼.md "wikilink")[弹簧和摩擦裝置以固定刺刀](../Page/弹簧.md "wikilink")。[陶瓷包覆](../Page/陶瓷工程.md "wikilink")[铝](../Page/铝.md "wikilink")[珩磨加工桿位於刀鞘背面](https://zh.wikipedia.org/wiki/珩磨鋼 "wikilink")。刀鞘亦可與[MOLLE](https://zh.wikipedia.org/wiki/MOLLE軍用背包 "wikilink")／[PALS模塊化附件系統兼容](https://zh.wikipedia.org/wiki/PALS附件系統 "wikilink")。
+由[聚酯](../Page/聚酯.md "wikilink")[弹性体](../Page/弹性体.md "wikilink")所製造的刀鞘是由[納提克實驗室](https://zh.wikipedia.org/wiki/美國陸軍納提克士兵研究發展和工程中心 "wikilink")（，簡稱：NSRDEC）所設計，比過去的M7刀鞘更為輕便和降低噪音，而且可與[改良型負重裝備](https://zh.wikipedia.org/wiki/改良型負重裝備 "wikilink")（，簡稱：ILBE）兼容。它在其刀鞘口配備了一個內置式[不鏽鋼](../Page/不鏽鋼.md "wikilink")[弹簧](../Page/弹簧.md "wikilink")和摩擦裝置以固定刺刀。[陶瓷包覆](../Page/陶瓷工程.md "wikilink")[铝](../Page/铝.md "wikilink")[珩磨加工桿位於刀鞘背面](https://zh.wikipedia.org/wiki/珩磨鋼 "wikilink")。刀鞘亦可與[MOLLE](https://zh.wikipedia.org/wiki/MOLLE軍用背包 "wikilink")／[PALS模塊化附件系統兼容](https://zh.wikipedia.org/wiki/PALS附件系統 "wikilink")。
 
 ## 參見
 
@@ -25,7 +25,7 @@ HRC），而且能夠在-25—135[℉](../Page/华氏温标.md "wikilink")（-32
 
   - ，[M1加兰德所配用的舊式刺刀](../Page/M1加兰德步枪.md "wikilink")
 
-  - ，[M1卡宾枪所配用的刺刀](../Page/M1卡宾枪.md "wikilink")
+  - ，[M1卡宾枪](../Page/M1卡宾枪.md "wikilink")所配用的刺刀
 
   - [M5刺刀](../Page/M5刺刀.md "wikilink")，M1加兰德所配用的新式刺刀
 

@@ -4,8 +4,8 @@
 
 [Ec-kid_(2044520643).jpg](https://zh.wikipedia.org/wiki/File:Ec-kid_\(2044520643\).jpg "fig:Ec-kid_(2044520643).jpg")\]\]
 
-LTE國際航空於1987年4月29日成立，11月1日開始營運，採用[波音757客機](../Page/波音757.md "wikilink")，由[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[LTU國際航空和西班牙商人共同創立](https://zh.wikipedia.org/wiki/LTU國際航空 "wikilink")。在1993年至2001年5月期間，LTU國際航空是LTE國際航空的唯一投資者\[2\]，至2001年5月24日才把股權出售給西班牙和意大利的商人，LTE國際航空更名為沃拉航空（Volar
-Airlines），但在2005年恢復原名\[3\]。在2002年引入[A320客機](https://zh.wikipedia.org/wiki/A320 "wikilink")，2003年引入[A321客機取代波音](https://zh.wikipedia.org/wiki/A320 "wikilink")757。2008年7月，航空公司提供[諾里奇來往](../Page/諾里奇.md "wikilink")[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")、[阿利坎特和帕爾馬的航班服務](../Page/阿利坎特.md "wikilink")。2008年10月16日，由於財政問題，沒有足夠資金支持未來數天的支出，航空公司宣佈終止所有航班營運\[4\]\[5\]，只保留3架已出租的飛機等待決議。10月27日，LTE國際航空在公司網站宣佈恢復非定期航班服務，並準備恢復網上售票服務。11月15日，LTE國際航空正式終止營運，在此段時間LTE國際航空公司是以其它公司名義提供服務。
+LTE國際航空於1987年4月29日成立，11月1日開始營運，採用[波音757](../Page/波音757.md "wikilink")客機，由[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[LTU國際航空和西班牙商人共同創立](https://zh.wikipedia.org/wiki/LTU國際航空 "wikilink")。在1993年至2001年5月期間，LTU國際航空是LTE國際航空的唯一投資者\[2\]，至2001年5月24日才把股權出售給西班牙和意大利的商人，LTE國際航空更名為沃拉航空（Volar
+Airlines），但在2005年恢復原名\[3\]。在2002年引入[A320客機](https://zh.wikipedia.org/wiki/A320 "wikilink")，2003年引入[A321客機取代波音](https://zh.wikipedia.org/wiki/A320 "wikilink")757。2008年7月，航空公司提供[諾里奇](../Page/諾里奇.md "wikilink")來往[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")、[阿利坎特](../Page/阿利坎特.md "wikilink")和帕爾馬的航班服務。2008年10月16日，由於財政問題，沒有足夠資金支持未來數天的支出，航空公司宣佈終止所有航班營運\[4\]\[5\]，只保留3架已出租的飛機等待決議。10月27日，LTE國際航空在公司網站宣佈恢復非定期航班服務，並準備恢復網上售票服務。11月15日，LTE國際航空正式終止營運，在此段時間LTE國際航空公司是以其它公司名義提供服務。
 
 ## 機隊
 

@@ -1,5 +1,5 @@
 **WWE Legends'
-House**，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）[公司所制作的](../Page/公司.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")，目前僅於[世界摔角娛樂網路服務轉播](../Page/世界摔角娛樂網路服務.md "wikilink")。
+House**，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）[公司](../Page/公司.md "wikilink")所制作的[真人實境秀](../Page/真人實境秀.md "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")，目前僅於[世界摔角娛樂網路服務](../Page/世界摔角娛樂網路服務.md "wikilink")轉播。
 
 ## 製作
 

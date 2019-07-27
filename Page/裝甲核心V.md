@@ -1,4 +1,4 @@
-是[機戰傭兵系列睽違](https://zh.wikipedia.org/wiki/機戰傭兵系列 "wikilink")4年的第五款正宗續作。世界觀翻新。[廣告標語是](../Page/廣告標語.md "wikilink")「」（能把一切燃燒殆盡的暴力）。是該系列首次有正體中文化。
+是[機戰傭兵系列睽違](https://zh.wikipedia.org/wiki/機戰傭兵系列 "wikilink")4年的第五款正宗續作。世界觀翻新。[廣告標語](../Page/廣告標語.md "wikilink")是「」（能把一切燃燒殆盡的暴力）。是該系列首次有正體中文化。
 
 ## 玩法
 
@@ -21,7 +21,7 @@
 
 ### 與[智慧型手機連動](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")
 
-在日本，[Android和](../Page/Android.md "wikilink")[iOS都有對應名為](https://zh.wikipedia.org/wiki/iOS "wikilink")「アーマード・コア
+在日本，[Android](../Page/Android.md "wikilink")和[iOS都有對應名為](https://zh.wikipedia.org/wiki/iOS "wikilink")「アーマード・コア
 Ｖ
 パーツライブラリー(機戰傭兵V零件[函式庫](../Page/函式庫.md "wikilink"))」的[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")\[13\]。
 
@@ -49,7 +49,7 @@ Software因此把即將完工的AC](https://zh.wikipedia.org/wiki/From_Software 
 
 ### 英語版
 
-美版順利在[ESRB爭取到T級](https://zh.wikipedia.org/wiki/ESRB "wikilink")（相當於[輔導級](https://zh.wikipedia.org/wiki/電腦及遊戲軟體分級辦法#分級 "wikilink")）。但有若干內容因[政治正確考量與日版有出入](../Page/政治正確.md "wikilink")。要角RD在日版是年輕人，美版年長了許多。指令任務09、29、40、45、51、52、56、57、62、65、66、70、78的性別安排也有變化。中文版亦以此為準。
+美版順利在[ESRB爭取到T級](https://zh.wikipedia.org/wiki/ESRB "wikilink")（相當於[輔導級](https://zh.wikipedia.org/wiki/電腦及遊戲軟體分級辦法#分級 "wikilink")）。但有若干內容因[政治正確](../Page/政治正確.md "wikilink")考量與日版有出入。要角RD在日版是年輕人，美版年長了許多。指令任務09、29、40、45、51、52、56、57、62、65、66、70、78的性別安排也有變化。中文版亦以此為準。
 
 ## 參考
 

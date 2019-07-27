@@ -1,17 +1,17 @@
 [Agda_proof.jpg](https://zh.wikipedia.org/wiki/File:Agda_proof.jpg "fig:Agda_proof.jpg")
 
-**Agda**是一个[依赖类型的](../Page/依赖类型.md "wikilink")[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，同时亦可作为一个用于构建[构造性证明的](../Page/构造性证明.md "wikilink")[证明辅助工具](https://zh.wikipedia.org/wiki/证明辅助工具 "wikilink")。Agda最早由[瑞典](../Page/瑞典.md "wikilink")[查尔摩斯工学院的](https://zh.wikipedia.org/wiki/查尔摩斯工学院 "wikilink")
+**Agda**是一个[依赖类型](../Page/依赖类型.md "wikilink")的[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，同时亦可作为一个用于构建[构造性证明](../Page/构造性证明.md "wikilink")的[证明辅助工具](https://zh.wikipedia.org/wiki/证明辅助工具 "wikilink")。Agda最早由[瑞典](../Page/瑞典.md "wikilink")[查尔摩斯工学院的](https://zh.wikipedia.org/wiki/查尔摩斯工学院 "wikilink")
 Ulf Norell 设计并开发，作为他的博士论文课题\[1\]。目前的版本，Agda 2，则在第一版的基础上完全重写。
 
 Agda体现了[柯里-霍华德同构](../Page/柯里-霍华德同构.md "wikilink")（Curry-Howard
 correspondence）。它的理论根基是 Zhaohui Luo 的UTT\[2\]，该理论与 [Per
 Martin-Löf](https://zh.wikipedia.org/wiki/Per_Martin-Löf "wikilink")
-的[直觉类型论相类似](../Page/直觉类型论.md "wikilink")。
+的[直觉类型论](../Page/直觉类型论.md "wikilink")相类似。
 
-Agda与[Coq的几点显著不同之处在于](../Page/Coq.md "wikilink")：它本身并不支持tactics；所有的证明均以函数式编程的方式书写；语言本身吸收了许多常规的程序语言元素，诸如：数据类型、模式匹配（pattern
+Agda与[Coq](../Page/Coq.md "wikilink")的几点显著不同之处在于：它本身并不支持tactics；所有的证明均以函数式编程的方式书写；语言本身吸收了许多常规的程序语言元素，诸如：数据类型、模式匹配（pattern
 matching）、记录类型（records）、let表达式和模块（modules）等，而其语法则非常类似[Haskell](../Page/Haskell.md "wikilink")。
 
-Agda系统一般通过其提供的[Emacs界面进行交互](../Page/Emacs.md "wikilink")\[3\]，亦可藉由命令行方式单独执行。
+Agda系统一般通过其提供的[Emacs](../Page/Emacs.md "wikilink")界面进行交互\[3\]，亦可藉由命令行方式单独执行。
 
 ## 特性
 
@@ -64,7 +64,7 @@ Emacs mode 中提供了输入这些符号的快捷键。
 
 ## 编译器后端
 
-目前Agda具备三个编译器后端的实现：编译到Haskell平台的MAlonzo；一个编译到[JavaScript的后端](../Page/JavaScript.md "wikilink")；以及一个[Epic](https://web.archive.org/web/20120722024513/http://www.cs.st-andrews.ac.uk/~eb/epic.php)后端。
+目前Agda具备三个编译器后端的实现：编译到Haskell平台的MAlonzo；一个编译到[JavaScript](../Page/JavaScript.md "wikilink")的后端；以及一个[Epic](https://web.archive.org/web/20120722024513/http://www.cs.st-andrews.ac.uk/~eb/epic.php)后端。
 
 ## 参考文献
 

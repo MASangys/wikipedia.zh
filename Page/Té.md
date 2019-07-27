@@ -1,4 +1,4 @@
-**té**為日本的[數學搖滾](../Page/數學搖滾.md "wikilink")，[後搖滾樂團](../Page/後搖滾.md "wikilink")，由hiro（[吉他](../Page/吉他.md "wikilink")）、masa（[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")）、tachibana（[鼓](../Page/鼓.md "wikilink")），於2004年1月在[東京成立](https://zh.wikipedia.org/wiki/東京 "wikilink")。
+**té**為日本的[數學搖滾](../Page/數學搖滾.md "wikilink")，[後搖滾](../Page/後搖滾.md "wikilink")樂團，由hiro（[吉他](../Page/吉他.md "wikilink")）、masa（[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")）、tachibana（[鼓](../Page/鼓.md "wikilink")），於2004年1月在[東京成立](https://zh.wikipedia.org/wiki/東京 "wikilink")。
 
 ## 樂團簡介
 

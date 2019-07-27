@@ -2,11 +2,11 @@
 360和](../Page/Xbox_360.md "wikilink")[PlayStation
 3冒险游戏](../Page/PlayStation_3.md "wikilink")。在遊戲發售前就發佈動畫化的消息，2012年10月開始播放。
 
-[乐视网宣布从](../Page/乐视网.md "wikilink")2013年3月8日起，每周五00:45与日本同步直播\[1\]。
+[乐视网](../Page/乐视网.md "wikilink")宣布从2013年3月8日起，每周五00:45与日本同步直播\[1\]。
 
 ## 概要
 
-本作是繼《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》之後，[5pb.和](../Page/5pb..md "wikilink")[Nitro+的](../Page/Nitro+.md "wikilink")[協作企劃](https://zh.wikipedia.org/wiki/協作 "wikilink")「[妄想科學ADV系列](https://zh.wikipedia.org/wiki/妄想科學ADV系列 "wikilink")」的第三部作品。
+本作是繼《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》之後，[5pb.](../Page/5pb..md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")的[協作企劃](https://zh.wikipedia.org/wiki/協作 "wikilink")「[妄想科學ADV系列](https://zh.wikipedia.org/wiki/妄想科學ADV系列 "wikilink")」的第三部作品。
 
 故事背景位於2019年的種子島，世界線變動率「1.048596％」，也就是《Steins;Gate》中 TRUE END 的世界線。\[2\]
 因此部份《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》的角色也會在本作中登場。
@@ -55,7 +55,7 @@
   - \[4\]
     年齢：16歳。生日：2002年6月17日。血型：B型。身高：156cm。三圍：77-58-78。
     本作女主角之一。中央種子島高校情報處理科2年1組。從私立金絲雀學園高校轉來的轉學生。
-    又[腐又](../Page/腐女.md "wikilink")[宅且口无遮拦](../Page/宅男.md "wikilink")，集[家里蹲](https://zh.wikipedia.org/wiki/家里蹲 "wikilink")[御宅族的缺點於一身](../Page/御宅族.md "wikilink")。不仅在网络上，在现实中也会使用大量的网络用语。兴趣是对男性间的同性恋进行妄想。对弱气的女性也有着相当大的兴趣。
+    又[腐又](../Page/腐女.md "wikilink")[宅且口无遮拦](../Page/宅男.md "wikilink")，集[家里蹲](https://zh.wikipedia.org/wiki/家里蹲 "wikilink")[御宅族](../Page/御宅族.md "wikilink")的缺點於一身。不仅在网络上，在现实中也会使用大量的网络用语。兴趣是对男性间的同性恋进行妄想。对弱气的女性也有着相当大的兴趣。
     拥有2000万以上玩家的机器人格斗网络游戏——KILLBALLAD的程序设计师。神代芙拉是作为程序设计师的笔名，原名是**古郡可娜**（）。
     因一次死歌的對戰與海翔相遇並產生興趣，為找尋海翔而搬到种子岛后将废弃的旅馆买下并改装后在里面生活。转学第二天以来就没上过学。因为喜欢冷的地方和防止大型计算机的过热，房间里一直开着冷气。生活上相当邋遢。有著隱藏的傲嬌屬性，常以家裡蹲模式來混過去，喜歡著海翔，初吻獻給海翔（海翔的初吻被奪去）。
     在钢巴雷尔制作计划中担任姿势控制系统和操作系统的程序设计师。
@@ -66,7 +66,7 @@
 
   - \[5\]
     年齢：17歳。生日：2001年8月10日。血型：O型。身高：156cm。三圍：73-54-76。
-    本作女主角之一。中央種子島高校普通科3年1組。家裡經營[空手道場](../Page/空手道.md "wikilink")。
+    本作女主角之一。中央種子島高校普通科3年1組。家裡經營[空手道](../Page/空手道.md "wikilink")場。
     像小动物一样胆小害羞，但一手承担着照顾家人的任务。
     虽然从小就一直努力练习空手道，但因为害羞而在人前会发挥不出实力。
     兴趣是[都市传说](https://zh.wikipedia.org/wiki/都市传说 "wikilink")，但实际上很害怕幽灵之类的超自然现象。不擅长拒绝他人的请求。
@@ -130,7 +130,7 @@
 
     年齢：10歳。生日：2000年12月25日。血型：AB型（Rh-）。身高：145cm。三圍：66-50-68。
 
-    本作女主角之一。銀髮碧眼的[蘿莉型美少女](../Page/蘿莉.md "wikilink")，性格純真。生日正好在[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，但卻因為生在[日本南方的](../Page/日本.md "wikilink")[種子島](../Page/種子島.md "wikilink")，身體又罹患某種特殊疾病，無法離開這座島嶼，因此出生至今都未見過雪景，親眼看雪是她一直以來的願望。偶然認識了仍在人世的君島皓，君島表示他有辦法協助愛理治好她的疾病，就是等待。君島住所地下工作室裡有具儀器可讓人生理運作緩暫的[冬眠狀態](../Page/冬眠.md "wikilink")，他要愛理進入儀器沉睡十年左右，君島相信十年後的醫療技術應能治好愛理的疾病，但仍稍有猶豫因為並不確定這計劃是否順利。徵求愛理同意後君島設定好儀器，在2010年開始運作，另外為了解決愛理沉睡期間的孤寂，設計了與愛理一樣的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")-**AR愛理**，並在2008年12月24日（[平安夜](https://zh.wikipedia.org/wiki/平安夜 "wikilink")）完成，從此愛理本體就進入冬眠狀態中。
+    本作女主角之一。銀髮碧眼的[蘿莉](../Page/蘿莉.md "wikilink")型美少女，性格純真。生日正好在[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，但卻因為生在[日本](../Page/日本.md "wikilink")南方的[種子島](../Page/種子島.md "wikilink")，身體又罹患某種特殊疾病，無法離開這座島嶼，因此出生至今都未見過雪景，親眼看雪是她一直以來的願望。偶然認識了仍在人世的君島皓，君島表示他有辦法協助愛理治好她的疾病，就是等待。君島住所地下工作室裡有具儀器可讓人生理運作緩暫的[冬眠](../Page/冬眠.md "wikilink")狀態，他要愛理進入儀器沉睡十年左右，君島相信十年後的醫療技術應能治好愛理的疾病，但仍稍有猶豫因為並不確定這計劃是否順利。徵求愛理同意後君島設定好儀器，在2010年開始運作，另外為了解決愛理沉睡期間的孤寂，設計了與愛理一樣的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")-**AR愛理**，並在2008年12月24日（[平安夜](https://zh.wikipedia.org/wiki/平安夜 "wikilink")）完成，從此愛理本體就進入冬眠狀態中。
 
     2019年12月23日晚上（動畫第15話），海翔在AR愛理的引導下進入了君島住所地下工作室，發現了沉睡愛理本體的儀器，由AR愛理了解原委後將愛理交由警方處理。愛理後來被轉送至醫院，醒來後對於這9年來AR愛理的經歷完全沒印象。在Atum計劃開始後愛理本體被AR君島控制，帶著手槍前往[調布機場阻擋要搭機回種子島的海翔一行人](https://zh.wikipedia.org/wiki/調布機場 "wikilink")。驅離AR君島後愛理被送上飛機帶回種子島並短暫進入昏迷。在與海翔和天王寺綯進入君島住所找到**N
     IV電磁波發射裝置**並要離開時再度遇上AR君島和已被控制的GEZI姐，與AR君島交談後愛理發現現在的君島已經沒有任何感情和思想，只是個想完成實驗的程式罷了。在GEZI姐強制反抗讓所有自動機槍自相殘殺後被AR君島視為故障而將其刪除，在完全刪除前愛理努力與GEZI姐交談，並得知AR愛理已完成她想看雪景的夢想而高興不已。
@@ -197,7 +197,7 @@
 
 ## 科學系列的關聯
 
-  - 用**廚二病**一詞來替代[中二病的設定係沿用](../Page/中二病.md "wikilink")《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》。
+  - 用**廚二病**一詞來替代[中二病](../Page/中二病.md "wikilink")的設定係沿用《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》。
   - 跟前兩部作品一樣，《ROBOTICS;NOTES》內容包括許多先進國家理論以及研究和開發。
   - 儘管並未特別提及，但本作中也加入了世界線的概念，延續[Steins;Gate結局的世界線](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")。
   - 前兩部作品的角色曾出現於本作中。

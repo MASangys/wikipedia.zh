@@ -1,4 +1,4 @@
-「DUO陳奕迅」世界巡迴演唱會是由[香港著名男](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅演出之世界巡迴演唱會](../Page/陳奕迅.md "wikilink")，於2010至2012年間在亞洲和美、加各大城市舉行。演唱會首站－《DUO陳奕迅2010演唱會》於2010年3月20日至4月6日在[香港體育館舉行](../Page/香港體育館.md "wikilink")，一連18場。
+「DUO陳奕迅」世界巡迴演唱會是由[香港](../Page/香港.md "wikilink")著名男[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")演出之世界巡迴演唱會，於2010至2012年間在亞洲和美、加各大城市舉行。演唱會首站－《DUO陳奕迅2010演唱會》於2010年3月20日至4月6日在[香港體育館](../Page/香港體育館.md "wikilink")舉行，一連18場。
 
 ## 製作概念
 
@@ -177,4 +177,5 @@ Véronique)，舞台設計朱祖兒、服裝設計何志恩都認為Eason的內�
 
 ## 參考文獻
 
+[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink")
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")

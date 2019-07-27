@@ -3,12 +3,12 @@
 ## 概要
 
 EL15型的基本構造皆承襲[EJ15型而來](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ15型 "wikilink")，不僅汽缸中心距（bore
-pitch）同樣為113mm，連[汽缸蓋和](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[汽缸本體也改良自EJ族引擎](../Page/汽缸本體.md "wikilink")。此外也流用了[EJ25型的](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ25型 "wikilink")[曲軸和連桿](https://zh.wikipedia.org/wiki/曲軸 "wikilink")，甚至包含[DOHC構造的EJ族引擎上有關](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")[AVCS主動閥門控制系統的零件](../Page/AVCS主動閥門控制系統.md "wikilink")\[1\]。再者EL15型和EJ族共用的周邊輔助機構很多，因此光從整個引擎外表來看難以辨察出二者。
+pitch）同樣為113mm，連[汽缸蓋和](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[汽缸本體](../Page/汽缸本體.md "wikilink")也改良自EJ族引擎。此外也流用了[EJ25型的](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ25型 "wikilink")[曲軸和連桿](https://zh.wikipedia.org/wiki/曲軸 "wikilink")，甚至包含[DOHC構造的EJ族引擎上有關](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")的零件\[1\]。再者EL15型和EJ族共用的周邊輔助機構很多，因此光從整個引擎外表來看難以辨察出二者。
 
 ## EL15型
 
 [排氣量](https://zh.wikipedia.org/wiki/排氣量 "wikilink")1,498c.c.、缸徑77.7mm、衝程79.0mm的**EL15型**引擎，壓縮比為10.0：1，採DOHC
-16汽門的結構，並附有[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")。最大[馬力達](../Page/馬力.md "wikilink")110ps
+16汽門的結構，並附有[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")。最大[馬力](../Page/馬力.md "wikilink")達110ps
 / 6,400rpm，扭力峰值14.7kgf·m / 3,200rpm。車型：
 
 1.  2005年-2007年：第二代速霸陸Impreza（GD型/GG型）

@@ -1,5 +1,5 @@
 **Windows RT**
-是由[微软针对移动设备开发的一款](../Page/微软.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。它本质上是[Windows
+是由[微软](../Page/微软.md "wikilink")针对移动设备开发的一款[操作系统](../Page/操作系统.md "wikilink")。它本质上是[Windows
 8为](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")(ARMv7)架构而开发的定制版本。\[1\]
 在2011年1月于[国际消费电子展展示](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")，Windows
 8 RT在2012年10月26日与Windows8一并上市，包括三款基于Windows RT的设备，比如微软的[Surface

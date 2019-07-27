@@ -1,11 +1,11 @@
 《Empty》是
-[W創作社於](../Page/W創作社.md "wikilink")2006年在[香港文化中心劇場公演的音樂劇](../Page/香港文化中心.md "wikilink")，亦是該劇團的第十一部作品，Michael
-Tsang作曲，與黎允文聯合擔任音樂總監；[黄智龍填詞](https://zh.wikipedia.org/wiki/黄智龍 "wikilink")、編劇，與[梁祖堯聯合擔任導演](../Page/梁祖堯.md "wikilink")；由[邵美君](../Page/邵美君.md "wikilink")、[陳曙曦](https://zh.wikipedia.org/wiki/陳曙曦 "wikilink")、[梁祖堯](../Page/梁祖堯.md "wikilink")、[劉子騰](https://zh.wikipedia.org/wiki/劉子騰 "wikilink")、[朱柏謙等主演](https://zh.wikipedia.org/wiki/朱柏謙 "wikilink")。十三場演出票房亦告全滿，並奪得第十六屆香港舞台劇獎「十大最受歡迎劇目」、「最佳音響設計」，及獲提名「最佳創作音樂」。
+[W創作社](../Page/W創作社.md "wikilink")於2006年在[香港文化中心](../Page/香港文化中心.md "wikilink")劇場公演的音樂劇，亦是該劇團的第十一部作品，Michael
+Tsang作曲，與黎允文聯合擔任音樂總監；[黄智龍填詞](https://zh.wikipedia.org/wiki/黄智龍 "wikilink")、編劇，與[梁祖堯](../Page/梁祖堯.md "wikilink")聯合擔任導演；由[邵美君](../Page/邵美君.md "wikilink")、[陳曙曦](https://zh.wikipedia.org/wiki/陳曙曦 "wikilink")、[梁祖堯](../Page/梁祖堯.md "wikilink")、[劉子騰](https://zh.wikipedia.org/wiki/劉子騰 "wikilink")、[朱柏謙等主演](https://zh.wikipedia.org/wiki/朱柏謙 "wikilink")。十三場演出票房亦告全滿，並奪得第十六屆香港舞台劇獎「十大最受歡迎劇目」、「最佳音響設計」，及獲提名「最佳創作音樂」。
 
 劇中不少對白如「每個人從出生那一刻起，就不斷地學習捨棄」或「需要是可以創造的！」，都引發觀眾對生活作出反思；歌曲如〈Life is so
 Busy〉也道破了香港人總是以「忙」自豪，點點時間都不可放過，以為「忙」就是「充實」而不會覺得「空虛」。
 
-難怪著名文化人[鄧小宇認為](../Page/鄧小宇.md "wikilink")「它（《Empty》）是一部如此都市、如此灰色、如此虛無，如此現代情懷，如此能代表當下香港的創作。」
+難怪著名文化人[鄧小宇](../Page/鄧小宇.md "wikilink")認為「它（《Empty》）是一部如此都市、如此灰色、如此虛無，如此現代情懷，如此能代表當下香港的創作。」
 
 
 ## 背景

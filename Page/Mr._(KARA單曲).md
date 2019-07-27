@@ -1,4 +1,4 @@
-**Mister**（）是[韓国女子](https://zh.wikipedia.org/wiki/大韓民国 "wikilink")5人組的歌手團體[Kara在日本的出道單曲](../Page/Kara.md "wikilink")。2010年8月11日由[UNIVERSAL
+**Mister**（）是[韓国女子](https://zh.wikipedia.org/wiki/大韓民国 "wikilink")5人組的歌手團體[Kara](../Page/Kara.md "wikilink")在日本的出道單曲。2010年8月11日由[UNIVERSAL
 SIGMA发售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 版本

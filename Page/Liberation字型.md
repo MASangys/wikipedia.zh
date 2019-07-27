@@ -1,6 +1,6 @@
-**Liberation**是一套四種的[TrueType](../Page/TrueType.md "wikilink")[字体家族](../Page/字体.md "wikilink")：*Liberation
+**Liberation**是一套四種的[TrueType](../Page/TrueType.md "wikilink")[字体](../Page/字体.md "wikilink")家族：*Liberation
 Sans*、*Liberation Sans Narrow*、*Liberation Serif*及*Liberation
-Mono*。這些字型有計畫的分別與[蒙納公司的](../Page/蒙納公司.md "wikilink")[Arial](../Page/Arial.md "wikilink")、Arial
+Mono*。這些字型有計畫的分別與[蒙納公司](../Page/蒙納公司.md "wikilink")的[Arial](../Page/Arial.md "wikilink")、Arial
 Narrow、[Times New
 Roman](../Page/Times_New_Roman.md "wikilink")、及[Courier
 New相容](https://zh.wikipedia.org/wiki/Courier#Courier_New "wikilink")，這些是在[Microsoft
@@ -9,17 +9,17 @@ Windows與其](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[辦�
 ## 特性
 
 Liberation Sans、Liberation Sans Narrow及Liberation
-Serif相當仔細盡可能分別與[蒙納公司的](../Page/蒙納公司.md "wikilink")[Arial](../Page/Arial.md "wikilink")、Arial
+Serif相當仔細盡可能分別與[蒙納公司](../Page/蒙納公司.md "wikilink")的[Arial](../Page/Arial.md "wikilink")、Arial
 Narrow及[Times New Roman做到相同](../Page/Times_New_Roman.md "wikilink")。
 
 Liberation Mono的風格較類似於Liberation Sans而非[Courier
-New](https://zh.wikipedia.org/wiki/Courier#Courier_New "wikilink")，但其[軟體度量則與Courier](../Page/軟體度量.md "wikilink")
+New](https://zh.wikipedia.org/wiki/Courier#Courier_New "wikilink")，但其[軟體度量](../Page/軟體度量.md "wikilink")則與Courier
 New相符。
 
 Liberation字型是一組替代上述[商业软件的自由且開放原始碼的解決方案](https://zh.wikipedia.org/wiki/商业软件 "wikilink")。
 
 Image:Font Comparison - Liberation Sans to Arial.svg|Liberation
-Sans與[Arial的比較](../Page/Arial.md "wikilink") Image:Font Comparison -
+Sans與[Arial](../Page/Arial.md "wikilink")的比較 Image:Font Comparison -
 Liberation Serif to Times New Roman.svg|Liberation Serif與[Times New
 Roman的比較](../Page/Times_New_Roman.md "wikilink") Image:Font Comparison -
 Liberation Mono to Courier New.svg|Liberation Mono與[Courier
@@ -33,14 +33,14 @@ OEM字元集](https://zh.wikipedia.org/wiki/代碼頁437 "wikilink")，這僅包
 ## 歷史
 
 這些字型原先是由的Steve Matteson開發而成的Ascender Sans及Ascender
-Serif。Liberation字型家族是上述這兩個字型的變種，並加入了一個等寬字型及由[紅帽公司使用了開放原始碼的授權條款](../Page/紅帽公司.md "wikilink")\[3\]。*Liberation
+Serif。Liberation字型家族是上述這兩個字型的變種，並加入了一個等寬字型及由[紅帽公司](../Page/紅帽公司.md "wikilink")使用了開放原始碼的授權條款\[3\]。*Liberation
 Sans*及*Liberation Serif*分別衍生自*Ascender Sans*及*Ascender
 Serif*；*Liberation Mono*則使用了從*Ascender Sans*及*Ascender Uni
 Duo*而來的基礎設計。
 
 這套字型的開發歷經了兩個階段。2007年5月的第一個版本是一套完全可用的字型，但缺乏字型修飾的能力。而在2008年初釋出的版本中則提供了完整的字型修飾功能。
 
-2010年4月，[甲骨文公司貢獻了Liberation](../Page/甲骨文公司.md "wikilink") Sans
+2010年4月，[甲骨文公司](../Page/甲骨文公司.md "wikilink")貢獻了Liberation Sans
 Narrow字型到此專案中\[4\]。其相容於Arial
 Narrow字型家族\[5\]。並與Liberation字型1.06版一同釋出\[6\]。
 
@@ -53,14 +53,14 @@ OS字型複刻而來，使用[SIL開源字型授權](https://zh.wikipedia.org/wi
 
 ### 舊版
 
-[紅帽公司將這些從](../Page/紅帽公司.md "wikilink")而來的字型以包含了一個字型嵌入例外的[GNU通用公共许可证進行授權](../Page/GNU通用公共许可证.md "wikilink")，其中明確的指出了在檔案中[嵌入這些字型不會讓檔案本身受到GNU](https://zh.wikipedia.org/wiki/PDF#技術 "wikilink")
+[紅帽公司](../Page/紅帽公司.md "wikilink")將這些從而來的字型以包含了一個字型嵌入例外的[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")進行授權，其中明確的指出了在檔案中[嵌入這些字型不會讓檔案本身受到GNU](https://zh.wikipedia.org/wiki/PDF#技術 "wikilink")
 GPL的影響，但仍可能對商業軟體造成一些問題。做為進一步的例外，任何以實際產品的形式散佈的目的碼必須提供存取及修改軟體原始碼的權利，以及以目的碼的形式重新安裝修改過的版本到同樣的實際產品中\[8\]。因此，這些字型允許[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")（FLOSS）系統有與微軟軟體相容的高品質字型可以使用。
 
 [Fedora
 專案](https://zh.wikipedia.org/wiki/Fedora_專案 "wikilink")，第9版本是第一個預設包含這些字型的GNU/Linux發行版，主打著是由Ascender公司所貢獻的版本做輕微修改的Liberation字型。為了更好的國際化，其中包含了有中央點的零及其他許多改變\[9\]\[10\]。
 
-其他GNU/Linux發行版（像是[Ubuntu](../Page/Ubuntu.md "wikilink")、[OpenSUSE等](../Page/OpenSUSE.md "wikilink")\[11\]及[Mandriva
-Linux](../Page/Mandriva_Linux.md "wikilink")\[12\]\[13\]）都在預設的安裝中包含了Liberation字型。開放原始碼軟體[OpenOffice.org包含了Liberation字型在其所有支援的作業系統的安裝包中](../Page/OpenOffice.org.md "wikilink")\[14\]\[15\]\[16\]\[17\]\[18\]。
+其他GNU/Linux發行版（像是[Ubuntu](../Page/Ubuntu.md "wikilink")、[OpenSUSE](../Page/OpenSUSE.md "wikilink")等\[11\]及[Mandriva
+Linux](../Page/Mandriva_Linux.md "wikilink")\[12\]\[13\]）都在預設的安裝中包含了Liberation字型。開放原始碼軟體[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")包含了Liberation字型在其所有支援的作業系統的安裝包中\[14\]\[15\]\[16\]\[17\]\[18\]。
 
 由於以GPL授權字型會導致一些複雜的問題，部份專案便開始找尋Liberation字型的取代\[19\]。Apache OpenOffice
 3.4開始，Liberation字型被Chrome
@@ -91,7 +91,7 @@ OS字型取代\[20\]——又被稱為[Croscore字型](../Page/Croscore字型.md
   - 。
 
 [Category:字體](https://zh.wikipedia.org/wiki/Category:字體 "wikilink")
-[Category:Red_Hat](https://zh.wikipedia.org/wiki/Category:Red_Hat "wikilink")
+[Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
 
 1.
 

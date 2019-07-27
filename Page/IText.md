@@ -1,14 +1,14 @@
-**iText**是[Java中用于创建和操作](../Page/Java.md "wikilink")[PDF文件的](https://zh.wikipedia.org/wiki/PDF "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")。它是由Bruno
+**iText**是[Java](../Page/Java.md "wikilink")中用于创建和操作[PDF文件的](https://zh.wikipedia.org/wiki/PDF "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")。它是由Bruno
 Lowagie、Paulo
 Soares等人编写的。报告称2001年以来\[1\]，26个不同的贡献者进行了1万多次提交，超过100多万行代码。\[2\]iText具有一个由大型开发团队维护的完善的、成熟的、活跃度同比持平的代码库。\[3\]利用[COCOMO模型](https://zh.wikipedia.org/wiki/COCOMO "wikilink")，花了大约250的努力后，2000年11月iText项目开始了第一次提交。\[4\]
 
-5.0.0版（2009年12月7日发布）后的iText是在[Affero通用公共许可证第](https://zh.wikipedia.org/wiki/Affero通用公共许可证 "wikilink")3版下分发的。之前版本的iText（Java版的至4.2.1版，和C\#版的至4.1.6版）是在[Mozilla公共许可证或](../Page/Mozilla公共许可证.md "wikilink")[LGPL下分发的](../Page/GNU宽通用公共许可证.md "wikilink")。iText同时由iText软件公司通过一个[专有许可证进行分发](../Page/专有软件.md "wikilink")。iText®是1T3XT
+5.0.0版（2009年12月7日发布）后的iText是在[Affero通用公共许可证第](https://zh.wikipedia.org/wiki/Affero通用公共许可证 "wikilink")3版下分发的。之前版本的iText（Java版的至4.2.1版，和C\#版的至4.1.6版）是在[Mozilla公共许可证](../Page/Mozilla公共许可证.md "wikilink")或[LGPL下分发的](../Page/GNU宽通用公共许可证.md "wikilink")。iText同时由iText软件公司通过一个[专有许可证进行分发](../Page/专有软件.md "wikilink")。iText®是1T3XT
 BVBA的注册商标
 
 iText已经以iTextSharp的名义移植到[.NET
 Framework下](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。iTextSharp是用[C\#编写的](../Page/C♯.md "wikilink")，它有一个独立于iText的代码库，但与iText的版本同步。
 
-在2013年中，iText（Java）和iTextSharp（.NET）仅在[SourceForge就有超过](../Page/SourceForge.md "wikilink")500万次的下载量。2013年10月，iText在[SourceForge上每周约有](../Page/SourceForge.md "wikilink")3000次下载\[5\]，而iTextSharp每周约有4000次下载\[6\]。
+在2013年中，iText（Java）和iTextSharp（.NET）仅在[SourceForge](../Page/SourceForge.md "wikilink")就有超过500万次的下载量。2013年10月，iText在[SourceForge](../Page/SourceForge.md "wikilink")上每周约有3000次下载\[5\]，而iTextSharp每周约有4000次下载\[6\]。
 
 ## 特性
 
@@ -40,13 +40,13 @@ Framework下](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。iTextSh
 ## 历史
 
 1998年冬天，Bruno
-Lowagie在[根特大学的一个内部项目开发了一个PDF](../Page/根特大学.md "wikilink")[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")——rugPdf，用来创建一个PDF文档应用（针对学生管理用）。rugPdf是一个非常小、很复杂[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，实现的功能很少，例如简单的读取和写入PDF文件。为了利用这个[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，开发者必须了解PDF语法、对象、运算符和操作数。
+Lowagie在[根特大学](../Page/根特大学.md "wikilink")的一个内部项目开发了一个PDF[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")——rugPdf，用来创建一个PDF文档应用（针对学生管理用）。rugPdf是一个非常小、很复杂[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，实现的功能很少，例如简单的读取和写入PDF文件。为了利用这个[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，开发者必须了解PDF语法、对象、运算符和操作数。
 
-1999年，Lowagie抛弃了rugPdf的代码，从头开始写了一个新的[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")——iText。Lowagie创建iText，意图使Java开发者在不了解PDF语法的情况下也可以使用这个[库创建PDF文档](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，并在2000年2月14日将其作为[自由及开放源代码软件发布](../Page/自由及开放源代码软件.md "wikilink")。在2000年的夏天，Paulo
+1999年，Lowagie抛弃了rugPdf的代码，从头开始写了一个新的[库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")——iText。Lowagie创建iText，意图使Java开发者在不了解PDF语法的情况下也可以使用这个[库创建PDF文档](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，并在2000年2月14日将其作为[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")发布。在2000年的夏天，Paulo
 Soares加盟了这个项目，现在他已经是iText新功能的主要开发者之一。
 
 2007年，《SOA
-World》（SOA世界）杂志将iText作为企业应该使用的10种开源解决方案之一。[詹姆斯·高斯林称赞iText库](../Page/詹姆斯·高斯林.md "wikilink")，并在Huckster的新版本使用。\[9\][纽约时报还利用iText来创建其公共领域文章的PDF版本](../Page/纽约时报.md "wikilink")。
+World》（SOA世界）杂志将iText作为企业应该使用的10种开源解决方案之一。[詹姆斯·高斯林](../Page/詹姆斯·高斯林.md "wikilink")称赞iText库，并在Huckster的新版本使用。\[9\][纽约时报](../Page/纽约时报.md "wikilink")还利用iText来创建其公共领域文章的PDF版本。
 \[10\]
 
 iText被嵌入在许多产品和服务中，包括[Eclipse
@@ -55,7 +55,7 @@ Reports](https://zh.wikipedia.org/wiki/Jasper_Reports "wikilink")、、、[pdftk
 
 2008年末，iText的专有许可证可用；2009年初，iText软件公司成立，成为iText产品的全球许可方。\[12\]
 
-2013年，[德勤提名iText软件集团为](../Page/德勤.md "wikilink")[比荷卢联盟高科技](https://zh.wikipedia.org/wiki/比荷卢联盟 "wikilink")、高成长50强。该公司在比荷卢联盟中排名第10位，在比利时中排名第3位。\[13\]\[14\]\[15\]\[16\]
+2013年，[德勤](../Page/德勤.md "wikilink")提名iText软件集团为[比荷卢联盟高科技](https://zh.wikipedia.org/wiki/比荷卢联盟 "wikilink")、高成长50强。该公司在比荷卢联盟中排名第10位，在比利时中排名第3位。\[13\]\[14\]\[15\]\[16\]
 
 ## 许可证和复刻
 
@@ -158,7 +158,7 @@ public class ITextHelloWorld {
   - 用来咨询与IText有关问题的支持论坛[1](http://support.itextpdf.com/forum)
   - 用IText创建PDF文件的第三方指南[2](http://tutorials.jenkov.com/java-itext/index.html)
   - 用IText合并PDF文件的第三方指南[3](http://www.mindfiresolutions.com/Java-Merging-multiple-PDFs-into-a-single-PDF-using-iText-671.php)
-  - 2012年IText峰会上讲解[Android](../Page/Android.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[HTML5的视频片段](../Page/HTML5.md "wikilink")[4](https://www.youtube.com/results?search_query=itext+summit&oq=itext+summit)
+  - 2012年IText峰会上讲解[Android](../Page/Android.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[HTML5](../Page/HTML5.md "wikilink")的视频片段[4](https://www.youtube.com/results?search_query=itext+summit&oq=itext+summit)
   - Adobe的PDF架构师Leonard
     Rosenthol在2012年IText峰会上的讲解：[PDF及其标准](http://www.youtube.com/watch?v=Pkm28bFwGtE)
 

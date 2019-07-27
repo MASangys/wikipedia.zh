@@ -1,5 +1,5 @@
-《**LOVELY×CATION**》是[AKABEiSOFT2旗下品牌曉WORKS](../Page/AKABEiSOFT2.md "wikilink")-响-（現hibiki
-works）在2011年6月24日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2011年7月1日發售通常版。\[2\]2013年5月31日由[DMM.com獨占發售DL版](../Page/DMM.com.md "wikilink")。\[3\]2013年6月28日由hibiki
+《**LOVELY×CATION**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌曉WORKS-响-（現hibiki
+works）在2011年6月24日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2011年7月1日發售通常版。\[2\]2013年5月31日由[DMM.com](../Page/DMM.com.md "wikilink")獨占發售DL版。\[3\]2013年6月28日由hibiki
 works發售包含全部APPEND LIFE的合集版《**LOVELY×CATION
 -もうずっと初恋の日々エディション-**》。\[4\]2015年5月21日由5pb.發售[PlayStation
 Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
@@ -164,7 +164,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
 
 ## 評價
 
-《LOVELY×CATION》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2011年6月銷量榜上排名第2名\[12\]，7月排名第15名\[13\]，全年排名第17名\[14\]。本作曾获得Getchu[美少女遊戲大赏](../Page/美少女遊戲.md "wikilink")2011综合排名第八名。\[15\][ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")1380號的クロスレビュー給PSV版評分為29/40。\[16\]
+《LOVELY×CATION》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2011年6月銷量榜上排名第2名\[12\]，7月排名第15名\[13\]，全年排名第17名\[14\]。本作曾获得Getchu[美少女遊戲](../Page/美少女遊戲.md "wikilink")大赏2011综合排名第八名。\[15\][ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")1380號的クロスレビュー給PSV版評分為29/40。\[16\]
 
 ## 参考资料
 

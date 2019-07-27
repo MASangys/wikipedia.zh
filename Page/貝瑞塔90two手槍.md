@@ -1,4 +1,4 @@
-**貝瑞塔90two**（）是一款由[意大利的槍械製造商](../Page/意大利.md "wikilink")[貝瑞塔為個人防衛和](../Page/貝瑞塔.md "wikilink")[執法機關使用而設計和生產的](../Page/警察.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，它在2006年的（美國著名槍展）之中，以[貝瑞塔92的增強版本之名推出](../Page/貝瑞塔92手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40
+**貝瑞塔90two**（）是一款由[意大利](../Page/意大利.md "wikilink")的槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")為個人防衛和[執法機關使用而設計和生產的](../Page/警察.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，它在2006年的（美國著名槍展）之中，以[貝瑞塔92的增強版本之名推出](../Page/貝瑞塔92手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40
 S\&W這三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節
@@ -9,7 +9,7 @@ S\&W這三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilin
 
 ### 材質
 
-貝瑞塔90two系列手槍的握把與[套筒座是由輕型](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[合金所製造的整體結構](../Page/合金.md "wikilink")，並在金屬套筒座表面大部分使用[聚合物材料覆蓋](../Page/聚合物.md "wikilink")，以計算機數控加工金屬件，既確保加工精確、耐用，又具有優秀的耐腐蝕性和減少摩擦。與92系列相似的是，其[底把是由輕型](../Page/机匣.md "wikilink")[合金所製造](../Page/合金.md "wikilink")，而套筒和[槍管則是由](../Page/槍管.md "wikilink")[钢所製造](../Page/钢.md "wikilink")。其線條的構成並充分考慮了外表的清晰性與實用性。其槍身採用了流線形設計，輪廓邊角皆為圓弧形，這樣對於快速抽槍有利，槍身在抽槍與裝槍時不會容易被槍套及衣服所勾掛。幾乎所有部件，例如槍身、[機械瞄具和套筒等的表面](../Page/機械瞄具.md "wikilink")，都採用了藍氡[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。[钢製](../Page/钢.md "wikilink")[槍管採用了微珠噴砂和](../Page/槍管.md "wikilink")處理，並在內膛[鍍](https://zh.wikipedia.org/wiki/电镀 "wikilink")[铬](../Page/铬.md "wikilink")。
+貝瑞塔90two系列手槍的握把與[套筒座是由輕型](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[合金](../Page/合金.md "wikilink")所製造的整體結構，並在金屬套筒座表面大部分使用[聚合物](../Page/聚合物.md "wikilink")材料覆蓋，以計算機數控加工金屬件，既確保加工精確、耐用，又具有優秀的耐腐蝕性和減少摩擦。與92系列相似的是，其[底把是由輕型](../Page/机匣.md "wikilink")[合金](../Page/合金.md "wikilink")所製造，而套筒和[槍管](../Page/槍管.md "wikilink")則是由[钢](../Page/钢.md "wikilink")所製造。其線條的構成並充分考慮了外表的清晰性與實用性。其槍身採用了流線形設計，輪廓邊角皆為圓弧形，這樣對於快速抽槍有利，槍身在抽槍與裝槍時不會容易被槍套及衣服所勾掛。幾乎所有部件，例如槍身、[機械瞄具](../Page/機械瞄具.md "wikilink")和套筒等的表面，都採用了藍氡[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。[钢](../Page/钢.md "wikilink")製[槍管](../Page/槍管.md "wikilink")採用了微珠噴砂和處理，並在內膛[鍍](https://zh.wikipedia.org/wiki/电镀 "wikilink")[铬](../Page/铬.md "wikilink")。
 
 ### 扳機護圈
 
@@ -17,7 +17,7 @@ S\&W這三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilin
 
 ### 套筒
 
-[钢製](../Page/钢.md "wikilink")[套筒本身也是一種全新的設計](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。90two系列手槍保留了貝瑞塔為之自豪的套筒頂部敞開式傳統設計，採用了[磷化和專利的Bruniton鍍膜技術表面處理](../Page/磷酸鹽.md "wikilink")。只是以前92系列的粗糙邊緣，在90two系列手槍都上已經變得平滑了，有更多的“無[螺絲釘](../Page/螺絲.md "wikilink")”設計。手動保險桿可兼作拆卸桿，與過去的92FS一樣設在套筒上，雙側配置，左右手均可操作。保險桿的邊角為圓弧形。90two系列手槍上還設有擊針自動保險，只要扳機扣不到位，即使受型外力作用，擊針仍保持保險狀態。\[1\]
+[钢](../Page/钢.md "wikilink")製[套筒本身也是一種全新的設計](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。90two系列手槍保留了貝瑞塔為之自豪的套筒頂部敞開式傳統設計，採用了[磷化和專利的Bruniton鍍膜技術表面處理](../Page/磷酸鹽.md "wikilink")。只是以前92系列的粗糙邊緣，在90two系列手槍都上已經變得平滑了，有更多的“無[螺絲](../Page/螺絲.md "wikilink")釘”設計。手動保險桿可兼作拆卸桿，與過去的92FS一樣設在套筒上，雙側配置，左右手均可操作。保險桿的邊角為圓弧形。90two系列手槍上還設有擊針自動保險，只要扳機扣不到位，即使受型外力作用，擊針仍保持保險狀態。\[1\]
 
 ### 套筒座
 
@@ -33,7 +33,7 @@ S\&W這三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilin
 
 ### 握把
 
-貝瑞塔90two系列手槍具有“符合[人體工學增強型](../Page/人因工程学.md "wikilink")”（）的設計，使用“[高科技](https://zh.wikipedia.org/wiki/高科技 "wikilink")[高分子](../Page/高分子.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")”（）製造的可移動和互換的環繞式風格的握把套，平時覆蓋到一體成型的筒狀握把的[套筒座頂端](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。表面上看的話，聚合物製造的握把套與套筒座像一個整體。雖然這樣與進入塑料套筒座手槍時代以後出現的一些採用可更換的握把背板的手槍不同，但同樣地可讓使用者選擇不同尺寸的握把套，以適合不同大小的手形。目前可以換裝2種前後部均刻有貝瑞塔菱形格子花紋的可更換式握把套的模塊化設計，有標準型與細長型這2種尺寸。更換握把套的時候，先要把[彈匣拆卸](../Page/彈匣.md "wikilink")，握把根部的分解插銷往外撥出後，把原來的握把套向下移除後再把新的握把套向上裝上，最後把分解插銷裝回握把根部即可。\[5\]\[6\]
+貝瑞塔90two系列手槍具有“符合[人體工學增強型](../Page/人因工程学.md "wikilink")”（）的設計，使用“[高科技](https://zh.wikipedia.org/wiki/高科技 "wikilink")[高分子](../Page/高分子.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")”（）製造的可移動和互換的環繞式風格的握把套，平時覆蓋到一體成型的筒狀握把的[套筒座頂端](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。表面上看的話，聚合物製造的握把套與套筒座像一個整體。雖然這樣與進入塑料套筒座手槍時代以後出現的一些採用可更換的握把背板的手槍不同，但同樣地可讓使用者選擇不同尺寸的握把套，以適合不同大小的手形。目前可以換裝2種前後部均刻有貝瑞塔菱形格子花紋的可更換式握把套的模塊化設計，有標準型與細長型這2種尺寸。更換握把套的時候，先要把[彈匣](../Page/彈匣.md "wikilink")拆卸，握把根部的分解插銷往外撥出後，把原來的握把套向下移除後再把新的握把套向上裝上，最後把分解插銷裝回握把根部即可。\[5\]\[6\]
 
 ### 供彈方式
 
@@ -84,18 +84,18 @@ D型型號是貝瑞塔90two系列的純雙動操作扳機（，簡稱：DAO）�
 
 ## 流行文化
 
-貝瑞塔90two亦登場於多隻[电影](../Page/电影.md "wikilink")、[电視](https://zh.wikipedia.org/wiki/电視 "wikilink")、[电脑游戏和](../Page/电脑游戏.md "wikilink")[動画裡](https://zh.wikipedia.org/wiki/動画 "wikilink")，例如：
+貝瑞塔90two亦登場於多隻[电影](../Page/电影.md "wikilink")、[电視](https://zh.wikipedia.org/wiki/电視 "wikilink")、[电脑游戏](../Page/电脑游戏.md "wikilink")和[動画裡](https://zh.wikipedia.org/wiki/動画 "wikilink")，例如：
 
 ### 电影
 
   - 2010年—《[-{zh-cn:赤焰战场; zh-tw:超危險特工;
     zh-hk:超危險特工;}-](../Page/超危險特工.md "wikilink")》（RED）：被領導CIA的戰術官員（[賈森·溫伯格飾演](https://zh.wikipedia.org/wiki/賈森·溫伯格 "wikilink")）和亞歷山大·鄧寧（Alexander
-    Dunning，[李察·德雷福斯飾演](../Page/李察·德雷福斯.md "wikilink")）所使用。
+    Dunning，[李察·德雷福斯](../Page/李察·德雷福斯.md "wikilink")飾演）所使用。
   - 2010年—《[-{zh:惡靈古堡4：陰陽界; zh-tw:惡靈古堡4：陰陽界; zh-hk:生化危機3D：戰神再生;
     zh-cn:生化危机4：战神再生;}-](../Page/生化危機4：陰陽界.md "wikilink")》（Resident
     Evil:
     Afterlife）：被[克蕾兒·雷德費爾](https://zh.wikipedia.org/wiki/克蕾兒·雷德費爾 "wikilink")（Claire
-    Redfield，[艾丽·拉特飾演](../Page/艾丽·拉特.md "wikilink")）所使用。
+    Redfield，[艾丽·拉特](../Page/艾丽·拉特.md "wikilink")飾演）所使用。
   - 2011年—《[-{zh-cn:致命黑兰; zh-tw:黑蘭煞;
     zh-hk:魅影殺機;}-](../Page/黑蘭煞.md "wikilink")》（Colombiana）：被嘉德麗雅（Cataleya，[阿曼達拉·史坦堡飾演](https://zh.wikipedia.org/wiki/阿曼達拉·史坦堡 "wikilink")）和唐路易的部下馬可（Marco，[詹迪·莫拉飾演](https://zh.wikipedia.org/wiki/詹迪·莫拉 "wikilink")）在最後的槍戰中所使用。
   - 2012年—《[-{zh-cn:全面回忆; zh-tw:攔截記憶碼;
@@ -147,7 +147,7 @@ D型型號是貝瑞塔90two系列的純雙動操作扳機（，簡稱：DAO）�
 ### 動漫
 
   - 2005年—《[聖魔之血](../Page/聖魔之血.md "wikilink")》（トリニティ・ブラッド，Trinity
-    Blood）：裝上[槍口制退器](../Page/砲口制動器.md "wikilink")（射擊會出現[十字架形](../Page/十字架.md "wikilink")）和[復進簧導桿內置式](https://zh.wikipedia.org/wiki/復進簧導桿 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，命名為「傑立寇M13神怒之日大型自動手槍」，被稱為「世界上最大型個人手槍」，發射「13毫米512千里馬」[銀子彈](../Page/銀.md "wikilink")，被托雷士‧伊庫斯（Tres
+    Blood）：裝上[槍口制退器](../Page/砲口制動器.md "wikilink")（射擊會出現[十字架](../Page/十字架.md "wikilink")形）和[復進簧導桿內置式](https://zh.wikipedia.org/wiki/復進簧導桿 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，命名為「傑立寇M13神怒之日大型自動手槍」，被稱為「世界上最大型個人手槍」，發射「13毫米512千里馬」[銀](../Page/銀.md "wikilink")子彈，被托雷士‧伊庫斯（Tres
     Iqus）＝神槍手（Gunslinger）所使用，[雙持](../Page/雙持.md "wikilink")。
 
 ## 圖集

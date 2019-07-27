@@ -1,17 +1,17 @@
 **W創作社**自1999年成立，由黃智龍及曾偉賢創辦，將香港本土文化及港人的思想融入戲劇之中，按照每次演出需求，跟不同範疇的演藝精英合作。經常合作的包括導演[司徒慧焯](../Page/司徒慧焯.md "wikilink")、演員[梁祖堯](../Page/梁祖堯.md "wikilink")、[邵美君](../Page/邵美君.md "wikilink")、[湯駿業](../Page/湯駿業.md "wikilink")、[林小寶](../Page/林小寶.md "wikilink")、[白只](../Page/白只.md "wikilink")、黃呈欣、燈光設計師張國永、楊子欣、佈景設計師陳友榮、邵偉敏、形象設計師梁健棠、吳達生、音響設計師夏恩蓓及編舞陳嘉儀等，建立出高質素的流行藝術風格，吸引了很多從未進入劇場觀賞的年輕觀眾。
 
-W創作社製作了很多叫好叫座的劇作，包括與[林一峰合作的屋村情懷](https://zh.wikipedia.org/wiki/林一峰 "wikilink")「音樂劇場」《[馴情記](../Page/馴情記.md "wikilink")》；分享香港同性戀者愛與哀愁的[梁祖堯獨腳戲](../Page/梁祖堯.md "wikilink")《[攣到爆](../Page/攣到爆.md "wikilink")》；與[何韻詩合作的搖滾音樂劇場](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")《[梁祝下世傳奇](../Page/梁祝下世傳奇_\(舞台劇\).md "wikilink")》；諷刺香港小人的喜劇《[小人國](../Page/小人國_\(舞台劇\).md "wikilink")》系列第1-6集；[黃偉文參演的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")《白雪先生灰先生》；[蘇玉華及林一峰主演的成人童話](../Page/蘇玉華.md "wikilink")《[你今日拯救咗地球未呀?](../Page/你今日拯救咗地球未呀?.md "wikilink")》；林一峰、[盧凱彤及](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")[趙學而等翻唱陳百強作品的音樂劇場](../Page/趙學而.md "wikilink")《[一期一會](../Page/一期一會_\(音樂劇\).md "wikilink")》；[王菀之及](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[張敬軒參演的音樂劇場](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")《Octave
+W創作社製作了很多叫好叫座的劇作，包括與[林一峰合作的屋村情懷](https://zh.wikipedia.org/wiki/林一峰 "wikilink")「音樂劇場」《[馴情記](../Page/馴情記.md "wikilink")》；分享香港同性戀者愛與哀愁的[梁祖堯](../Page/梁祖堯.md "wikilink")獨腳戲《[攣到爆](../Page/攣到爆.md "wikilink")》；與[何韻詩合作的搖滾音樂劇場](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")《[梁祝下世傳奇](../Page/梁祝下世傳奇_\(舞台劇\).md "wikilink")》；諷刺香港小人的喜劇《[小人國](../Page/小人國_\(舞台劇\).md "wikilink")》系列第1-6集；[黃偉文參演的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")《白雪先生灰先生》；[蘇玉華](../Page/蘇玉華.md "wikilink")及林一峰主演的成人童話《[你今日拯救咗地球未呀?](../Page/你今日拯救咗地球未呀?.md "wikilink")》；林一峰、[盧凱彤及](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")[趙學而](../Page/趙學而.md "wikilink")等翻唱陳百強作品的音樂劇場《[一期一會](../Page/一期一會_\(音樂劇\).md "wikilink")》；[王菀之及](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[張敬軒參演的音樂劇場](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")《Octave
 柯迪夫》；揭示愛情陰暗面的邵美君獨腳戲《[Love is Shit
 愛是雪](../Page/愛是雪.md "wikilink")》；[薛凱琪參演的音樂劇場](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")《Last
 Smile, First
-Tear》；講述[香港經濟低迷下生存之道的](../Page/香港.md "wikilink")《[廢柴](../Page/廢柴.md "wikilink")》及以新視點探索當下男男、男女
+Tear》；講述[香港](../Page/香港.md "wikilink")經濟低迷下生存之道的《[廢柴](../Page/廢柴.md "wikilink")》及以新視點探索當下男男、男女
 Open Relationship的《開關係》等。
 
 黃智龍因身體欠佳，W創作社已無限期停止創作\[1\]。
 
 ## 葵青劇院場地伙伴計畫
 
-2009年，W創作社與[風車草劇團開始成為](https://zh.wikipedia.org/wiki/風車草劇團 "wikilink")[葵青劇院場地伙伴](../Page/葵青劇院.md "wikilink")\[2\]，一起推廣舞台劇表演藝術及戲劇教育，拓展年輕觀眾群及培養他們的觀劇習慣。
+2009年，W創作社與[風車草劇團開始成為](https://zh.wikipedia.org/wiki/風車草劇團 "wikilink")[葵青劇院](../Page/葵青劇院.md "wikilink")場地伙伴\[2\]，一起推廣舞台劇表演藝術及戲劇教育，拓展年輕觀眾群及培養他們的觀劇習慣。
 
 ## 作品
 
@@ -35,7 +35,7 @@ Open Relationship的《開關係》等。
 <td><p>黃智龍</p></td>
 <td><p>陳正君、黃雪文、劉子騰、梁俊勇、朱子慧</p></td>
 <td><p>1999年4月22日至26日<br />
-<a href="../Page/香港藝術中心.md" title="wikilink">香港藝術中心壽臣劇院</a></p></td>
+<a href="../Page/香港藝術中心.md" title="wikilink">香港藝術中心</a>壽臣劇院</p></td>
 <td><p>7場</p></td>
 </tr>
 <tr class="even">
@@ -45,7 +45,7 @@ Open Relationship的《開關係》等。
 <td><p>黃智龍</p></td>
 <td><p>黃雪文、劉子騰、周家輝、楊穎儀</p></td>
 <td><p>1999年12月25日至2000年1月2日<br />
-<a href="../Page/香港文化中心.md" title="wikilink">香港文化中心劇場</a></p></td>
+<a href="../Page/香港文化中心.md" title="wikilink">香港文化中心</a>劇場</p></td>
 <td><p>8場</p></td>
 </tr>
 <tr class="odd">
@@ -145,7 +145,7 @@ Open Relationship的《開關係》等。
 <td><p>黃智龍</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a>、<a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/楊淇_(香港演員).md" title="wikilink">楊淇</a>、梁祖堯</p></td>
 <td><p>2005年9月16日至19日<br />
-<a href="../Page/香港演藝學院.md" title="wikilink">香港演藝學院歌劇院</a></p></td>
+<a href="../Page/香港演藝學院.md" title="wikilink">香港演藝學院</a>歌劇院</p></td>
 <td><p>7場</p></td>
 </tr>
 <tr class="odd">
@@ -235,7 +235,7 @@ Open Relationship的《開關係》等。
 <td><p>黃智龍</p></td>
 <td><p>梁祖堯、邵美君、湯駿業、劉子騰、<a href="../Page/朱薰.md" title="wikilink">朱薰</a>@叱吒903、黃呈欣、何遠東</p></td>
 <td><p>2009年5月22日至5月31日<br />
-<a href="../Page/葵青劇院.md" title="wikilink">葵青劇院演藝廳</a></p></td>
+<a href="../Page/葵青劇院.md" title="wikilink">葵青劇院</a>演藝廳</p></td>
 <td><p>10場</p></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ Open Relationship的《開關係》等。
 
 ## 曾合作演藝人
 
-[林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink")、[茜利妹](https://zh.wikipedia.org/wiki/茜利妹 "wikilink")、[楊詩敏](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")、[黃文慧](../Page/黃文慧.md "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")、[周國賢](../Page/周國賢.md "wikilink")、[楊淇](https://zh.wikipedia.org/wiki/楊淇 "wikilink")、[盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")、[趙學而](../Page/趙學而.md "wikilink")、[谷祖琳](../Page/谷祖琳.md "wikilink")、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")(Wyman)、[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")、[朱薰](../Page/朱薰.md "wikilink")、[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[劉雅麗](../Page/劉雅麗.md "wikilink")、[黃又南](../Page/黃又南.md "wikilink")、[徐天佑等](../Page/徐天佑.md "wikilink")。
+[林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink")、[茜利妹](https://zh.wikipedia.org/wiki/茜利妹 "wikilink")、[楊詩敏](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")、[黃文慧](../Page/黃文慧.md "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")、[周國賢](../Page/周國賢.md "wikilink")、[楊淇](https://zh.wikipedia.org/wiki/楊淇 "wikilink")、[盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")、[趙學而](../Page/趙學而.md "wikilink")、[谷祖琳](../Page/谷祖琳.md "wikilink")、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")(Wyman)、[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")、[朱薰](../Page/朱薰.md "wikilink")、[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[蔣祖曼](../Page/蔣祖曼.md "wikilink")、[劉雅麗](../Page/劉雅麗.md "wikilink")、[黃又南](../Page/黃又南.md "wikilink")、[徐天佑](../Page/徐天佑.md "wikilink")等。
 
 ## 參考文獻
 

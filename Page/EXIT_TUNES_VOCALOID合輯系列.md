@@ -1,5 +1,5 @@
 ****是[EXIT
-TUNES於](../Page/EXIT_TUNES.md "wikilink")2009年展開的，以[初音未來等](../Page/初音未來.md "wikilink")[VOCALOID所創作的音樂為收錄對象的](../Page/VOCALOID.md "wikilink")[合輯系列](https://zh.wikipedia.org/wiki/合輯 "wikilink")。販售盡由EXIT
+TUNES於](../Page/EXIT_TUNES.md "wikilink")2009年展開的，以[初音未來](../Page/初音未來.md "wikilink")等[VOCALOID](../Page/VOCALOID.md "wikilink")所創作的音樂為收錄對象的[合輯系列](https://zh.wikipedia.org/wiki/合輯 "wikilink")。販售盡由EXIT
 TUNES的關聯公司[波麗佳音負責](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
@@ -18,7 +18,7 @@ FUTURE
 MEDIA得知了這件事](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")\[6\]。此時，VOCALOID的合輯提案在CRYPTON快速通過，因而成就了本系列\[7\]。當時的QUAKE正因為主力發展的西洋音樂銷售業績不佳而陷入困境\[8\]。當時市面上並沒有主要流通的VOCALOID合輯\[9\]\[10\]。收錄影片分享網站上免費聆聽的樂曲，在CRYPTON的幫助下系列逐漸成功\[11\]。初音未來，最受歡迎的VOCALOID，QUAKE開始發展一系列與之相關的合輯系列\[12\]。
 
 2010年，「[EXIT TUNES PRESENTS Vocalogenesis
-feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalogenesis "wikilink")」首次獲得[Oricon公信榜周間排行第一名](../Page/Oricon公信榜.md "wikilink")。雖然說這是在更新了Oricon第一名最低銷售量紀錄的情況下所產生的結果，但仍讓VOCALOID樂迷沸騰，並震驚了音樂業界\[13\]。這也是VOCALOID合輯首次獲得音樂排行第一名\[14\]，甚至有人士向相關公司詢問這些歌手的出處\[15\]。QUAKE也因為這個成功而倍感自信，著手更新公司體制，將原本商號QUAKE、商標EXIT
+feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalogenesis "wikilink")」首次獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")周間排行第一名。雖然說這是在更新了Oricon第一名最低銷售量紀錄的情況下所產生的結果，但仍讓VOCALOID樂迷沸騰，並震驚了音樂業界\[13\]。這也是VOCALOID合輯首次獲得音樂排行第一名\[14\]，甚至有人士向相關公司詢問這些歌手的出處\[15\]。QUAKE也因為這個成功而倍感自信，著手更新公司體制，將原本商號QUAKE、商標EXIT
 TUNES改為，並將之後的營運目標確定於VOCALOID\[16\]。此外，2011年發售的「[EXIT TUNES PRESENTS
 Vocalonexus
 feat.初音ミク](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonexus "wikilink")」再度獲得Oricon榜首。

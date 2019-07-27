@@ -3,11 +3,11 @@ Factory發行的](../Page/Media_Factory.md "wikilink")[月刊](https://zh.wikipe
 
 ## 概要
 
-最初的概念為「**女性向的少年漫畫雜誌**」。雜誌名為[英語中代表](https://zh.wikipedia.org/wiki/英語 "wikilink")[基因的字](../Page/基因.md "wikilink")「*Gene*」，[廣告標語為](../Page/廣告標語.md "wikilink")「****」。多為從「」與「[月刊Comic
+最初的概念為「**女性向的少年漫畫雜誌**」。雜誌名為[英語中代表](https://zh.wikipedia.org/wiki/英語 "wikilink")[基因](../Page/基因.md "wikilink")的字「*Gene*」，[廣告標語](../Page/廣告標語.md "wikilink")為「****」。多為從「」與「[月刊Comic
 Alive](../Page/月刊Comic_Alive.md "wikilink")」移植過來的作品。
 
 原本在株式會社Media
-Factory的時代2010年12月便作了「2011年4月創刊」的發表聲明\[1\]，但因受2011年3月11日[東日本大震災影響](../Page/東日本大震災.md "wikilink")，創刊日延至預定日後兩個月的6月15日\[2\]。
+Factory的時代2010年12月便作了「2011年4月創刊」的發表聲明\[1\]，但因受2011年3月11日[東日本大震災](../Page/東日本大震災.md "wikilink")影響，創刊日延至預定日後兩個月的6月15日\[2\]。
 
 所刊登作品的單行本由為商標發行。2011年11月26日創刊。
 

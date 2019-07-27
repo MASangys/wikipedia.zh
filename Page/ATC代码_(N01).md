@@ -1,6 +1,6 @@
 ## N01A 全身麻醉药（Anesthetics, general）
 
-### N01AA [醚类](../Page/醚.md "wikilink")（Ethers）
+### N01AA [醚](../Page/醚.md "wikilink")类（Ethers）
 
   -
     N01AA01
@@ -103,7 +103,7 @@
     N01BA05 [苯佐卡因](../Page/苯佐卡因.md "wikilink")（Benzocaine）
     N01BA52 普鲁卡因，复方（Procaine, combinations）
 
-### N01BB [酰胺类](../Page/酰胺.md "wikilink")（Amides）
+### N01BB [酰胺](../Page/酰胺.md "wikilink")类（Amides）
 
   -
     N01BB01 [布比卡因](../Page/布比卡因.md "wikilink")（Bupivacaine）

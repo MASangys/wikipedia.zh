@@ -1,9 +1,9 @@
 **波江座p**（6 Eri, DUN
-5）是在[波江座](../Page/波江座.md "wikilink")（[河流](../Page/河流.md "wikilink")）內距離地球僅有26[光年的一顆](../Page/光年.md "wikilink")[聯星](../Page/聯星.md "wikilink")。它在1825年12月被[詹姆士·丹露帕在](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")[澳大利亞帕拉瑪塔市](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，現在是[新南威爾斯州的](https://zh.wikipedia.org/wiki/新南威爾斯州 "wikilink")[帕拉瑪塔市家中發現是](https://zh.wikipedia.org/wiki/帕拉瑪塔市 "wikilink")[雙星](../Page/雙星.md "wikilink")。
+5）是在[波江座](../Page/波江座.md "wikilink")（[河流](../Page/河流.md "wikilink")）內距離地球僅有26[光年](../Page/光年.md "wikilink")的一顆[聯星](../Page/聯星.md "wikilink")。它在1825年12月被[詹姆士·丹露帕在](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")[澳大利亞帕拉瑪塔市](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，現在是[新南威爾斯州的](https://zh.wikipedia.org/wiki/新南威爾斯州 "wikilink")[帕拉瑪塔市家中發現是](https://zh.wikipedia.org/wiki/帕拉瑪塔市 "wikilink")[雙星](../Page/雙星.md "wikilink")。
 
 ## 命名
 
-"波江座p"的名稱，依據1883年4月19日的[自然第](../Page/自然.md "wikilink")589頁曾經這樣敘述\[1\]：·
+"波江座p"的名稱，依據1883年4月19日的[自然](../Page/自然.md "wikilink")第589頁曾經這樣敘述\[1\]：·
 
 波德的數字在19世紀早期是很常用的，但現在已經過時，並且已經廢棄了一個多世紀。
 
@@ -12,15 +12,15 @@
 
 ## 物理特性
 
-**波江p**是在南天的[聯星系統](../Page/聯星.md "wikilink")，位置在明亮的1等星[水委一北方](../Page/水委一.md "wikilink")1.1度。當[詹姆士·丹露帕首度發現時](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")，他非常仔細地描述這對明亮並且分得相當開的雙星（兩顆星都是6等星）。他還進一步說明望遠鏡觀看的景觀：
+**波江p**是在南天的[聯星](../Page/聯星.md "wikilink")系統，位置在明亮的1等星[水委一](../Page/水委一.md "wikilink")北方1.1度。當[詹姆士·丹露帕首度發現時](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")，他非常仔細地描述這對明亮並且分得相當開的雙星（兩顆星都是6等星）。他還進一步說明望遠鏡觀看的景觀：
 
 自丹露帕發現以來，這對恆星受到了廣泛的注意，並且現在可以輕鬆地用小望遠鏡觀察。
 
-現在我們知道這對恆星非常的接近[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")，目前估計它們躺在距離太陽大約。這個系統包含兩顆可見的成員，彼此在相距頗遠的高[離心率軌道上](../Page/離心率.md "wikilink")。
+現在我們知道這對恆星非常的接近[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")，目前估計它們躺在距離太陽大約。這個系統包含兩顆可見的成員，彼此在相距頗遠的高[離心率](../Page/離心率.md "wikilink")軌道上。
 
 ### 證據不足（Poor quality）
 
-我們對波江座p的知識是不足的，至少對軌道的認知非常少。在聯星軌道的六級評比中列在第五級，是中等認知的軌道。大部分的問題出自[詹姆士·丹露帕在](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")1825年首度的觀測，當時估計兩顆星相距2.5[秒](https://zh.wikipedia.org/wiki/角秒 "wikilink")，[位置角](https://zh.wikipedia.org/wiki/位置角 "wikilink")343<sup>o</sup>，相當接近正北方。不幸的是，觀察和測量是在這個系統於1813年通過了它的[近星點階段之後](https://zh.wikipedia.org/wiki/近星點 "wikilink")。他提出的位置角似乎是錯誤的，於自1825年後的觀測相當不協調，不能調和出明確的聯星軌道上的一段關鍵性的區段。早先[約翰·赫歇爾在](../Page/約翰·赫歇爾.md "wikilink")1835年2月22日的觀測似乎也有問題，他發現兩星相距3.68角秒，[位置角](https://zh.wikipedia.org/wiki/位置角 "wikilink")
+我們對波江座p的知識是不足的，至少對軌道的認知非常少。在聯星軌道的六級評比中列在第五級，是中等認知的軌道。大部分的問題出自[詹姆士·丹露帕在](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")1825年首度的觀測，當時估計兩顆星相距2.5[秒](https://zh.wikipedia.org/wiki/角秒 "wikilink")，[位置角](https://zh.wikipedia.org/wiki/位置角 "wikilink")343<sup>o</sup>，相當接近正北方。不幸的是，觀察和測量是在這個系統於1813年通過了它的[近星點階段之後](https://zh.wikipedia.org/wiki/近星點 "wikilink")。他提出的位置角似乎是錯誤的，於自1825年後的觀測相當不協調，不能調和出明確的聯星軌道上的一段關鍵性的區段。早先[約翰·赫歇爾](../Page/約翰·赫歇爾.md "wikilink")在1835年2月22日的觀測似乎也有問題，他發現兩星相距3.68角秒，[位置角](https://zh.wikipedia.org/wiki/位置角 "wikilink")
 301.7<sup>o</sup>。如果是正確的，這指出在10年的觀察中，位置有了重大的變化。赫歇爾之後在1835年和1838年使用測微器測量了兩次的數據，相較於現在的軌道似乎也有瑕疵。對早期觀測的正確性和重要性仍有很多的爭議，這對正在測定的軌道的精確度有著關鍵的重要性。
 
 ### 軌道解

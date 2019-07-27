@@ -26,24 +26,24 @@ Knight**對**假面騎士部**進行妨礙......
 
 ### 假面騎士部
 
-**如月弦太朗（）**（[福士蒼汰飾](../Page/福士蒼汰.md "wikilink")）
+**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")飾）
 
   -
     假面騎士Fourze變身者，天之川學園高中的3年級生。
     假面騎士部始創人。
 
-**朔田流星（）**（[吉澤亮飾](../Page/吉澤亮.md "wikilink")）
+**朔田流星（）**（[吉澤亮](../Page/吉澤亮.md "wikilink")飾）
 
   -
     假面騎士Meteor變身者，天之川學園高中的3年級特別轉校生。
 
-**歌星賢吾（）**（[高橋龍輝飾](../Page/高橋龍輝.md "wikilink")）
+**歌星賢吾（）**（[高橋龍輝](../Page/高橋龍輝.md "wikilink")飾）
 
   -
     假面騎士部副部長，天之川學園高中的3年級生。
     如月弦太朗的拍擋。
 
-**城島悠木（）**（[清水富美加飾](../Page/清水富美加.md "wikilink")）
+**城島悠木（）**（[清水富美加](../Page/清水富美加.md "wikilink")飾）
 
   -
     假面騎士部部長，天之川學園高中的3年級生。
@@ -66,7 +66,7 @@ Knight**對**假面騎士部**進行妨礙......
     假面騎士部部員之一，現為大學生。
     Powerdizer首席駕駛員。
 
-**野座間友子（）**（[志保飾](../Page/志保.md "wikilink")）
+**野座間友子（）**（[志保](../Page/志保.md "wikilink")飾）
 
   -
     假面騎士部部員之一。天之川學園高中的2年級生。
@@ -105,7 +105,7 @@ Knight**對**假面騎士部**進行妨礙......
     對弦太朗「和機械成為朋友」的宣言作出堅決的否定。
     真實身份為Alicia聯邦製造的機械生命體Groundain。
 
-**白山靜（）**（[木下亞由美飾](../Page/木下亞由美.md "wikilink")）
+**白山靜（）**（[木下亞由美](../Page/木下亞由美.md "wikilink")飾）
 
   -
     冴葉晴海的秘書，親身前往月面基地「Rabbit Hutch」與眾人會面。
@@ -372,7 +372,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **[天秤座Zodiarts](../Page/天秤座.md "wikilink")（）**
+  - **[天秤座](../Page/天秤座.md "wikilink")Zodiarts（）**
 
 <!-- end list -->
 
@@ -396,7 +396,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **[巨蟹座Zodiarts](../Page/巨蟹座.md "wikilink")（）**
+  - **[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts（）**
 
 <!-- end list -->
 
@@ -404,7 +404,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **[白羊座Zodiarts](../Page/白羊座.md "wikilink")（）**
+  - **[白羊座](../Page/白羊座.md "wikilink")Zodiarts（）**
 
 <!-- end list -->
 
@@ -412,7 +412,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **[摩羯座Zodiarts](../Page/摩羯座.md "wikilink")（）**
+  - **[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts（）**
 
 <!-- end list -->
 
@@ -428,7 +428,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **[金牛座Zodiarts](../Page/金牛座.md "wikilink")（）**
+  - **[金牛座](../Page/金牛座.md "wikilink")Zodiarts（）**
 
 <!-- end list -->
 

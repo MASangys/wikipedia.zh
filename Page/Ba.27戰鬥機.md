@@ -1,4 +1,4 @@
-**布雷達Ba.27戰鬥機**'是[義大利布雷達公司在](https://zh.wikipedia.org/wiki/義大利 "wikilink")1930年代初期設計的單翼[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，也是義大利航空業界研發的第一款單主翼戰機，但是在技術條件不成熟的情況性能並不出眾，經過改良後僅有[中華民國採購](../Page/中華民國.md "wikilink")。
+**布雷達Ba.27戰鬥機**'是[義大利布雷達公司在](https://zh.wikipedia.org/wiki/義大利 "wikilink")1930年代初期設計的單翼[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，也是義大利航空業界研發的第一款單主翼戰機，但是在技術條件不成熟的情況性能並不出眾，經過改良後僅有[中華民國](../Page/中華民國.md "wikilink")採購。
 
 ## 簡介
 
@@ -16,7 +16,7 @@ Parano）兩位工程師接手。對於螺旋槳振動問題，發動機原生�
 第二架原型機在1934年5月首飛，編號MM.217，又稱**Breda
 27m**(metallico，義大利文金屬)。顧名思義，在仍以木料為主要結構的飛機上布雷達提高了金屬在結構中的比例；Breda
 27m加大尾翼，並以全流線型鋁製蒙皮結構取代用波浪式鋁板蒙皮的設計，主翼也從木製更換為金屬材質。1934年6月21日Breda
-27m提供給義大利空軍測試，雖然性能有改善，但還是沒有採購意願。布雷達在比照二號原型機標準修改了一號原型機，將駕駛座位置調前因應金屬結構帶來的重心改變，更換編號為MM.218；MM.218在1934年9月12日取得義大利政府適航登記證，9月19日從義大利飛到挪威首都[奧斯陸進行飛行展示爭取訂單](https://zh.wikipedia.org/wiki/奧斯陸 "wikilink")，但[挪威空軍也沒有興趣](https://zh.wikipedia.org/wiki/挪威空軍 "wikilink")。隨後這架飛機以海運運回，1934年11月由[塞斯托-聖喬凡尼穿越平均高度](https://zh.wikipedia.org/wiki/塞斯托-聖喬凡尼 "wikilink")4,500公尺阿爾卑斯山脈抵達[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎參加](../Page/巴黎.md "wikilink")[巴黎航空展](https://zh.wikipedia.org/wiki/巴黎國際航空太空展 "wikilink")。MM.218在1936年下半葉交給了義大利空軍第5聯隊(5º
+27m提供給義大利空軍測試，雖然性能有改善，但還是沒有採購意願。布雷達在比照二號原型機標準修改了一號原型機，將駕駛座位置調前因應金屬結構帶來的重心改變，更換編號為MM.218；MM.218在1934年9月12日取得義大利政府適航登記證，9月19日從義大利飛到挪威首都[奧斯陸進行飛行展示爭取訂單](https://zh.wikipedia.org/wiki/奧斯陸 "wikilink")，但[挪威空軍也沒有興趣](https://zh.wikipedia.org/wiki/挪威空軍 "wikilink")。隨後這架飛機以海運運回，1934年11月由[塞斯托-聖喬凡尼穿越平均高度](https://zh.wikipedia.org/wiki/塞斯托-聖喬凡尼 "wikilink")4,500公尺阿爾卑斯山脈抵達[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")參加[巴黎航空展](https://zh.wikipedia.org/wiki/巴黎國際航空太空展 "wikilink")。MM.218在1936年下半葉交給了義大利空軍第5聯隊(5º
 Stormo)下屬之的第86戰鬥機中隊使用，編號**86-9**；不過，這架飛機最終還是未被飛行員青睞，在1938年1月除役。
 
 雖然在義大利空軍的命運多舛，不過在1935年經義大利空軍顧問推薦，中華民國政府訂購了18架以MM.218標準生產的Breda

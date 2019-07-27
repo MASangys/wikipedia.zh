@@ -1,4 +1,4 @@
-《**月刊flowers**》是[小學館發行的少女](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2002年創刊，毎月28日発行。
+《**月刊flowers**》是[小學館](../Page/小學館.md "wikilink")發行的少女[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2002年創刊，毎月28日発行。
 
 ## 歴代編集長
 

@@ -1,9 +1,9 @@
 **OMNI
-NEWS**是[加拿大](../Page/加拿大.md "wikilink")[多元文化電視台新聞部製作的電視新聞節目](../Page/多元文化電視台.md "wikilink")。
+NEWS**是[加拿大](../Page/加拿大.md "wikilink")[多元文化電視台](../Page/多元文化電視台.md "wikilink")新聞部製作的電視新聞節目。
 
 ## 歷史
 
-OMNI新聞部分佈於各省之直屬分台並在該台製播多種語言的本地新聞報道（[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台除外並已於](../Page/多元文化電視台_\(亞伯達省\).md "wikilink")2011年取消），有時在[多倫多總台製播的本地新聞報導內可能會出現由其他直屬分台採訪的新聞消息](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。由於[OMNI在](../Page/多元文化電視台.md "wikilink")2011年對新聞部實行改組除取消[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台的所有本地新聞報導外](../Page/多元文化電視台_\(亞伯達省\).md "wikilink")，更在各直屬分台製播的本地新聞報道播出前並機直播由[多倫多總台製播的全國新聞報導](https://zh.wikipedia.org/wiki/多倫多 "wikilink")（其中[旁遮普語由](../Page/旁遮普語.md "wikilink")[溫哥華分台製播](../Page/溫哥華.md "wikilink")）。
+OMNI新聞部分佈於各省之直屬分台並在該台製播多種語言的本地新聞報道（[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台除外並已於](../Page/多元文化電視台_\(亞伯達省\).md "wikilink")2011年取消），有時在[多倫多總台製播的本地新聞報導內可能會出現由其他直屬分台採訪的新聞消息](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。由於[OMNI在](../Page/多元文化電視台.md "wikilink")2011年對新聞部實行改組除取消[亞伯達省](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")[分台的所有本地新聞報導外](../Page/多元文化電視台_\(亞伯達省\).md "wikilink")，更在各直屬分台製播的本地新聞報道播出前並機直播由[多倫多總台製播的全國新聞報導](https://zh.wikipedia.org/wiki/多倫多 "wikilink")（其中[旁遮普語](../Page/旁遮普語.md "wikilink")由[溫哥華](../Page/溫哥華.md "wikilink")分台製播）。
 
 OMNI
 NEWS於周一至周五均推出六種語言的本地新聞報導，包括：[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[國語](https://zh.wikipedia.org/wiki/普通話 "wikilink")（其中[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")、[葡萄牙語均沒有](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")[卑詩省](https://zh.wikipedia.org/wiki/卑詩省 "wikilink")[分台製播的版本](../Page/多元文化電視台_\(卑詩省\).md "wikilink")）及[旁遮普語](../Page/旁遮普語.md "wikilink")；和三種語言的全國新聞報導，包括：[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[國語和](https://zh.wikipedia.org/wiki/普通話 "wikilink")[旁遮普語](../Page/旁遮普語.md "wikilink")。而周末新聞雜誌類節目，包括[粵語及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[國語並由多倫多總台製播](https://zh.wikipedia.org/wiki/國語 "wikilink")。

@@ -1,9 +1,9 @@
 是一款由Christopher
-Fynn创造的[藏文](../Page/藏文.md "wikilink")[有头体电脑字体](https://zh.wikipedia.org/wiki/有头体 "wikilink")，以[SIL开源字体授权自由发布](../Page/SIL开源字体授权.md "wikilink")。支持使用[Unicode标准和中华人民共和国国家标准GB](https://zh.wikipedia.org/wiki/Unicode标准 "wikilink")/T20524-2006《信息交换用藏文编码字符集》的编码显示藏文。该字体的设计基于不丹人手写的范文，\[1\]并且可用于[藏语](https://zh.wikipedia.org/wiki/藏语 "wikilink")、[宗喀语和其他使用藏文的语言](https://zh.wikipedia.org/wiki/宗喀语 "wikilink")。
+Fynn创造的[藏文](../Page/藏文.md "wikilink")[有头体电脑字体](https://zh.wikipedia.org/wiki/有头体 "wikilink")，以[SIL开源字体授权](../Page/SIL开源字体授权.md "wikilink")自由发布。支持使用[Unicode标准和中华人民共和国国家标准GB](https://zh.wikipedia.org/wiki/Unicode标准 "wikilink")/T20524-2006《信息交换用藏文编码字符集》的编码显示藏文。该字体的设计基于不丹人手写的范文，\[1\]并且可用于[藏语](https://zh.wikipedia.org/wiki/藏语 "wikilink")、[宗喀语和其他使用藏文的语言](https://zh.wikipedia.org/wiki/宗喀语 "wikilink")。
 
 ## 格式和授权
 
-Jomolhari字体可以[OpenType格式获取](../Page/OpenType.md "wikilink")，使用[TrueType轮廓](../Page/TrueType.md "wikilink")。根据[SIL开源字体授权的条款发行](../Page/SIL开源字体授权.md "wikilink")。
+Jomolhari字体可以[OpenType](../Page/OpenType.md "wikilink")格式获取，使用[TrueType](../Page/TrueType.md "wikilink")轮廓。根据[SIL开源字体授权](../Page/SIL开源字体授权.md "wikilink")的条款发行。
 
 该字体还可从[Savannah上的](https://zh.wikipedia.org/wiki/GNU_Savannah "wikilink")[Free
 Tibetan Fonts
@@ -29,7 +29,7 @@ Project](http://savannah.nongnu.org/projects/free-tibetan)及其他站点下载�
       - [不丹商务](https://zh.wikipedia.org/wiki/不丹商务 "wikilink")
       - [Druk
         Yoedzer](https://zh.wikipedia.org/wiki/Druk_Yoedzer "wikilink")
-  - Jomolhari被[MediaWiki用作显示藏文的默认字体](../Page/MediaWiki.md "wikilink")，\[4\]包括了维基百科。
+  - Jomolhari被[MediaWiki](../Page/MediaWiki.md "wikilink")用作显示藏文的默认字体，\[4\]包括了维基百科。
   - Jomolhari还被[不丹国家图书馆网站用在宗喀语页面](https://zh.wikipedia.org/wiki/不丹国家图书馆 "wikilink")。\[5\]
 
 ## 派生作品
@@ -38,7 +38,7 @@ Project](http://savannah.nongnu.org/projects/free-tibetan)及其他站点下载�
 InDesign](../Page/Adobe_InDesign.md "wikilink") CS3及CS4创造出Jomolhari
 ID字体。该字体添加了附加的lookup以及通用OpenType特性以使文字能在这些版本中正确显示。\[6\]\[7\]
 
-[魏安也创造了该字体的复刻版BabelStone](../Page/魏安.md "wikilink")
+[魏安](../Page/魏安.md "wikilink")也创造了该字体的复刻版BabelStone
 Tibetan以提供扩展支持。该字体添加后来的Unicode版本中收录的藏文字符，添加了更多的字符组合，尤其是用于藏文速记缩写和转写西夏语的组合。\[8\]
 
 ## 参考资料

@@ -1,16 +1,16 @@
-**HMV數碼中國集團有限公司**（\[1\]，前稱**中國3D數碼娛樂有限公司**及**龍彩娛樂集團有限公司**），是[香港一家投資控股公司](../Page/香港.md "wikilink")，於[-{zh-cn:百慕大;zh-hk:百慕達;zh-tw:百慕達;}-註冊成立之有限公司](https://zh.wikipedia.org/wiki/百慕達 "wikilink")\[2\]，主要專注於影片及電視節目製作、分銷及特許經營、影院經營及藝人管理，以及投資拍攝多部電影製作、發行、相關產品發展。此外，集團於2011年開始分階段於香港、北京、天津、上海、重慶、廣東及深圳等地開設及經營電影院\[3\]。
+**HMV數碼中國集團有限公司**（\[1\]，前稱**中國3D數碼娛樂有限公司**及**龍彩娛樂集團有限公司**），是[香港](../Page/香港.md "wikilink")一家投資控股公司，於[-{zh-cn:百慕大;zh-hk:百慕達;zh-tw:百慕達;}-註冊成立之有限公司](https://zh.wikipedia.org/wiki/百慕達 "wikilink")\[2\]，主要專注於影片及電視節目製作、分銷及特許經營、影院經營及藝人管理，以及投資拍攝多部電影製作、發行、相關產品發展。此外，集團於2011年開始分階段於香港、北京、天津、上海、重慶、廣東及深圳等地開設及經營電影院\[3\]。
 
 ## 概要
 
-集團曾參與多齣電影的投資項目及製作，如電影《[3D肉蒲團之極樂寶鑑](../Page/3D肉蒲團之極樂寶鑑.md "wikilink")》、《[一路向西](../Page/一路向西.md "wikilink")》、《[Delete愛人](../Page/Delete愛人.md "wikilink")》、《[壹獄壹世界：高登闊少踎監日記](../Page/壹獄壹世界：高登闊少踎監日記.md "wikilink")》、《[猛龍特囧](../Page/猛龍特囧.md "wikilink")》、《[十月初五的月光](https://zh.wikipedia.org/wiki/十月初五的月光_\(電影\) "wikilink")》、《[導火新聞線](https://zh.wikipedia.org/wiki/導火新聞線_\(電影\) "wikilink")》、《[29+1](https://zh.wikipedia.org/wiki/29+1 "wikilink")》及《[西謊極落之太爆太子太空艙](../Page/西謊極落之太爆太子太空艙.md "wikilink")》。當中《一路向西》、《西謊極落之太爆太子太空艙》改編自網絡超人氣作者-{[向西村上春樹](https://zh.wikipedia.org/wiki/向西村上春樹 "wikilink")}-的暢銷小說；《[天生愛情狂](https://zh.wikipedia.org/wiki/天生愛情狂 "wikilink")》、《Delete愛人》、《十月初五的月光》為本港愛情片導演[葉念琛作品](../Page/葉念琛.md "wikilink")；《導火新聞線》電影版獲得[香港電視網絡有限公司授權拍攝](../Page/香港電視網絡.md "wikilink")；《29+1》改編自[彭秀慧的暢銷](../Page/彭秀慧.md "wikilink")“獨腳戲”舞台劇。
+集團曾參與多齣電影的投資項目及製作，如電影《[3D肉蒲團之極樂寶鑑](../Page/3D肉蒲團之極樂寶鑑.md "wikilink")》、《[一路向西](../Page/一路向西.md "wikilink")》、《[Delete愛人](../Page/Delete愛人.md "wikilink")》、《[壹獄壹世界：高登闊少踎監日記](../Page/壹獄壹世界：高登闊少踎監日記.md "wikilink")》、《[猛龍特囧](../Page/猛龍特囧.md "wikilink")》、《[十月初五的月光](https://zh.wikipedia.org/wiki/十月初五的月光_\(電影\) "wikilink")》、《[導火新聞線](https://zh.wikipedia.org/wiki/導火新聞線_\(電影\) "wikilink")》、《[29+1](https://zh.wikipedia.org/wiki/29+1 "wikilink")》及《[西謊極落之太爆太子太空艙](../Page/西謊極落之太爆太子太空艙.md "wikilink")》。當中《一路向西》、《西謊極落之太爆太子太空艙》改編自網絡超人氣作者-{[向西村上春樹](https://zh.wikipedia.org/wiki/向西村上春樹 "wikilink")}-的暢銷小說；《[天生愛情狂](https://zh.wikipedia.org/wiki/天生愛情狂 "wikilink")》、《Delete愛人》、《十月初五的月光》為本港愛情片導演[葉念琛](../Page/葉念琛.md "wikilink")作品；《導火新聞線》電影版獲得[香港電視網絡](../Page/香港電視網絡.md "wikilink")有限公司授權拍攝；《29+1》改編自[彭秀慧](../Page/彭秀慧.md "wikilink")的暢銷“獨腳戲”舞台劇。
 
-另外，該公司於2015年5月宣佈收購**GME中國**（前稱**環球狂熱文化娛樂**）；其後於2016年2月在該公司四周年晚宴上，宣佈成功收購**種星堂娛樂有限公司**（，簡稱**種星堂娛樂**）一半股份，旗下藝人都會在其集團投資的電影中擔當重要角色\[4\]；2016年3月21日宣布成功收購國際大型連鎖影音零售商[HMV](../Page/HMV.md "wikilink")；2017年1月10日，宣佈成功以31,500,000港元（配發43,448,275股）收購收購[鐳射企業有限公司](../Page/鐳射企業.md "wikilink")70%股權。
+另外，該公司於2015年5月宣佈收購**GME中國**（前稱**環球狂熱文化娛樂**）；其後於2016年2月在該公司四周年晚宴上，宣佈成功收購**種星堂娛樂有限公司**（，簡稱**種星堂娛樂**）一半股份，旗下藝人都會在其集團投資的電影中擔當重要角色\[4\]；2016年3月21日宣布成功收購國際大型連鎖影音零售商[HMV](../Page/HMV.md "wikilink")；2017年1月10日，宣佈成功以31,500,000港元（配發43,448,275股）收購收購[鐳射企業](../Page/鐳射企業.md "wikilink")有限公司70%股權。
 
 該公司於2016年11月，斥資4,650萬元收購香港本地OTT影視點播平台Anyplex。
 
 該公司於2017年6月與台灣[華聯國際](../Page/華聯國際.md "wikilink")（經由華聯國際的集團控股公司「Vantage
 Metro Limited
-益都有限公司」，[開曼群島註冊](../Page/開曼群島.md "wikilink")）簽約合併\[5\]\[6\]\[7\]\[8\]。
+益都有限公司」，[開曼群島](../Page/開曼群島.md "wikilink")註冊）簽約合併\[5\]\[6\]\[7\]\[8\]。
 
 該公司於2018年11月起已先後被入稟追討欠租和貨款，包括銅鑼灣hmv旗艦店和中環萬年大廈分店的業主於11月30日，分別入稟向被告追討共約486萬港元欠租，並要求收回舖位和向被告索償。位於銅鑼灣珠城大廈2至5樓的hmv旗艦店業主Ever
 Light
@@ -19,8 +19,8 @@ Limited則在其入稟狀指稱，該公司2016年9月與被告訂立為期6年�
 
 2019年，該公司主席蕭定一建議將公司名稱由「HMV數碼中國集團有限公司」更改為「中國創意數碼娛樂有限公司」。\[10\]
 
-旗下藝人[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[譚芷昀](https://zh.wikipedia.org/wiki/譚芷昀 "wikilink")、[陳永馨](../Page/陳永馨.md "wikilink")、[譚順生的唱片合約由](../Page/譚順生.md "wikilink")**GME中國**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")；[鄭欣宜的唱片合約由](../Page/鄭欣宜.md "wikilink")**Passionfruit
-Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")\[11\]；[鄧健泓的唱片合約由](../Page/鄧健泓.md "wikilink")[星娛樂代理發行](../Page/中星集團.md "wikilink")；[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅的唱片合約由](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[星夢娛樂代理出品及發行](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")。
+旗下藝人[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[譚芷昀](https://zh.wikipedia.org/wiki/譚芷昀 "wikilink")、[陳永馨](../Page/陳永馨.md "wikilink")、[譚順生](../Page/譚順生.md "wikilink")的唱片合約由**GME中國**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")；[鄭欣宜](../Page/鄭欣宜.md "wikilink")的唱片合約由**Passionfruit
+Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")\[11\]；[鄧健泓](../Page/鄧健泓.md "wikilink")的唱片合約由[星娛樂代理發行](../Page/中星集團.md "wikilink")；[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅的唱片合約由](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[星夢娛樂代理出品及發行](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")。
 
 ## 旗下藝人
 
@@ -43,9 +43,8 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 （<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/駱胤鳴.md" title="wikilink">駱胤鳴</a><br />
-（<a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a>）<br />
-（<strong>GME中國</strong>）</p></td>
+<td><p><a href="../Page/鄭融.md" title="wikilink">鄭　融</a><br />
+（<strong>種星堂娛樂</strong>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a></p></td>
@@ -58,7 +57,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 （<strong>GME中國</strong>）</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>HMV數碼中國娛樂／中國3D數碼娛樂</strong></p></td>
+<td><p><strong>中國創意數碼娛樂</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>歌星</strong></p></td>
@@ -91,7 +90,8 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><strong>歌星</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧月平.md" title="wikilink">鄧月平</a></p></td>
+<td><p><a href="../Page/駱胤鳴.md" title="wikilink">駱胤鳴</a><br />
+（<a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>組合</strong></p></td>
@@ -112,7 +112,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="https://zh.wikipedia.org/wiki/門東毅" title="wikilink">門東毅</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂娛樂</a></strong></p></td>
+<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂</a>娛樂</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>歌星</strong></p></td>
@@ -131,7 +131,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <table>
 <thead>
 <tr class="header">
-<th><p><strong>中國3D數碼娛樂</strong></p></th>
+<th><p><strong>中國創意數碼娛樂</strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -142,7 +142,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="https://zh.wikipedia.org/wiki/胡耀輝" title="wikilink">胡耀輝</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂娛樂</a></strong></p></td>
+<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂</a>娛樂</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>藝人</strong></p></td>
@@ -170,22 +170,10 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <table>
 <thead>
 <tr class="header">
-<th><p><strong>HMV數碼中國集團</strong></p></th>
+<th><p><strong>hmv MUSIC</strong></p></th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p><strong>藝人</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊建平" title="wikilink">楊建平</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>hmv MUSIC</strong></p></td>
-</tr>
 <tr class="odd">
 <td><p><strong>歌星</strong></p></td>
 </tr>
@@ -194,20 +182,35 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 已加盟<a href="https://zh.wikipedia.org/wiki/星夢娛樂" title="wikilink">星夢娛樂</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>中國3D數碼娛樂</strong></p></td>
+<td><p><a href="../Page/何浩文.md" title="wikilink">何浩文</a><br />
+（<strong>GME中國</strong>）</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>歌星</strong></p></td>
+<td><p><strong>組合</strong></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/少女標本_(香港)" title="wikilink">少女標本</a><br />
+（<strong>GME中國</strong>）</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>中國創意數碼娛樂</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>歌星</strong></p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/石詠莉.md" title="wikilink">石詠莉</a><br />
 已加盟<a href="../Page/中星集團.md" title="wikilink">星娛樂</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/莊思敏.md" title="wikilink">莊思敏</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/張智霖.md" title="wikilink">張智霖</a><br />
+已轉到個人工作室</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>一元製作室</strong></p></td>
@@ -243,7 +246,8 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="../Page/茜拉.md" title="wikilink">茜　拉</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜德偉.md" title="wikilink">杜德偉</a></p></td>
+<td><p><a href="../Page/簡淑兒.md" title="wikilink">簡淑兒</a><br />
+（<a href="https://zh.wikipedia.org/wiki/少女標本_(香港)" title="wikilink">少女標本</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>組合</strong></p></td>
@@ -268,7 +272,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="../Page/范植偉.md" title="wikilink">范植偉</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂娛樂</a></strong></p></td>
+<td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂</a>娛樂</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>藝人</strong></p></td>
@@ -487,7 +491,7 @@ Agent Mr. Chan</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2018年6月21日</p></td>
-<td style="text-align: center;"><p><a href="../Page/洩密者.md" title="wikilink">洩密者們</a><br />
+<td style="text-align: center;"><p><a href="../Page/洩密者.md" title="wikilink">洩密者</a>們<br />
 The Leaker</p></td>
 <td style="text-align: center;"><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/張智霖.md" title="wikilink">張智霖</a>、<a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a>、<br />
 <a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="https://zh.wikipedia.org/wiki/鄭則士" title="wikilink">鄭則士</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<br />
@@ -562,7 +566,7 @@ Dark Secret</p></td>
 <a href="https://zh.wikipedia.org/wiki/伍倩彤" title="wikilink">伍倩彤</a>、<a href="../Page/黃竣鋒.md" title="wikilink">黃竣鋒</a>、<a href="https://zh.wikipedia.org/wiki/伍熹賢" title="wikilink">伍熹賢</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭英偉" title="wikilink">鄭英偉</a></p></td>
 <td style="text-align: center;"><p><a href="http://hmvod.hmv.com.hk/zh_hk/drama/18/1">網頁</a></p></td>
-<td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
+<td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良</a>作曲）<br />
 尾：天機泄露（獨唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>）<br />
 尾：天機泄露（合唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>）</p></td>
 </tr>
@@ -749,7 +753,7 @@ Sexy Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a></p></td>
-<td><p><a href="../Page/Joyce.md" title="wikilink">Joyce（特別版）</a></p></td>
+<td><p><a href="../Page/Joyce.md" title="wikilink">Joyce</a>（特別版）</p></td>
 <td><p>10月21日</p></td>
 <td><p>懶人包</p></td>
 <td><p>無表面傷痕</p></td>
@@ -824,7 +828,7 @@ Sexy Central</p></td>
 <td></td>
 <td></td>
 <td><p>I'll Be With You<br />
-<small>（<a href="../Page/奇妙電視.md" title="wikilink">奇妙電視電視劇</a>《<a href="../Page/閃婚100天.md" title="wikilink">閃婚100天</a>》主題曲）</small></p></td>
+<small>（<a href="../Page/奇妙電視.md" title="wikilink">奇妙電視</a>電視劇《<a href="../Page/閃婚100天.md" title="wikilink">閃婚100天</a>》主題曲）</small></p></td>
 <td><p>心頭大石</p></td>
 <td><p>死不了的</p></td>
 <td><p>一切天空早注定</p></td>
@@ -880,7 +884,7 @@ Sexy Central</p></td>
 <td><p>有種愛情</p>
 <hr/>
 <p>有種愛情<br />
-<small>（與<a href="../Page/張彥博.md" title="wikilink">張彥博合唱</a>）</small></p></td>
+<small>（與<a href="../Page/張彥博.md" title="wikilink">張彥博</a>合唱）</small></p></td>
 <td><p>十萬個激嬲我的理由<br />
 <small>（Featuring. <a href="../Page/科林.md" title="wikilink">科林</a>）</small></p></td>
 <td></td>
@@ -1050,7 +1054,7 @@ Sexy Central</p></td>
 <td><p>12月4日</p></td>
 <td><p>Be Yourself</p></td>
 <td><p>I'll Be There<br />
-<small>（<a href="../Page/香港電視網絡.md" title="wikilink">香港電視網絡電視劇</a><br />
+<small>（<a href="../Page/香港電視網絡.md" title="wikilink">香港電視網絡</a>電視劇<br />
 《<a href="../Page/選戰.md" title="wikilink">選戰</a>》插曲）</small></p></td>
 <td><p>It's My Dream</p></td>
 <td></td>
@@ -1082,7 +1086,7 @@ Sexy Central</p></td>
 <td><p>9月21日</p></td>
 <td><p>Hero</p></td>
 <td><p>兵兵<br />
-<small>（與<a href="../Page/吳業坤.md" title="wikilink">吳業坤合唱</a>）</small></p></td>
+<small>（與<a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>合唱）</small></p></td>
 <td><p>愈愛愈美麗</p></td>
 <td></td>
 <td></td>
@@ -1101,7 +1105,7 @@ Sexy Central</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a></p></td>
-<td><p><a href="../Page/Joyce.md" title="wikilink">Joyce（特別版）</a></p></td>
+<td><p><a href="../Page/Joyce.md" title="wikilink">Joyce</a>（特別版）</p></td>
 <td><p>10月21日</p></td>
 <td><p>懶人包</p></td>
 <td><p>無表面傷痕</p></td>
@@ -1215,7 +1219,7 @@ Sexy Central</p></td>
 金睛火眼 (聖誕 Remix)</p></td>
 <td><p>踩鋼線</p></td>
 <td><p>情難控<br />
-<small>（<a href="../Page/石詠莉.md" title="wikilink">石詠莉獨唱</a>）</small></p></td>
+<small>（<a href="../Page/石詠莉.md" title="wikilink">石詠莉</a>獨唱）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1678,7 +1682,7 @@ Sexy Central</p></td>
 <td><p>10月30日</p></td>
 <td><p>Me Vs Me</p></td>
 <td><p>一事無成<br />
-<small>（與<a href="../Page/周柏豪.md" title="wikilink">周柏豪合唱</a>）</small></p></td>
+<small>（與<a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>合唱）</small></p></td>
 <td><p>健康教育</p></td>
 <td><p>還</p></td>
 <td><p>無謂情歌<br />
@@ -1735,7 +1739,7 @@ Sexy Central</p></td>
 <td><p>rowspan ="2"|</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Remembrance.md" title="wikilink">Remembrance（特別版）</a></p></td>
+<td><p><a href="../Page/Remembrance.md" title="wikilink">Remembrance</a>（特別版）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1769,7 +1773,7 @@ Sexy Central</p></td>
 <td><p>-{<a href="../Page/本体分裂.md" title="wikilink">本体分裂</a>}-</p></td>
 <td><p>rowspan ="3"|6月23日</p></td>
 <td><p>rowspan ="3"|後援<br />
-<small>（<a href="../Page/有線娛樂台.md" title="wikilink">有線娛樂台外購劇</a>《<a href="../Page/濟眾院_(電視劇).md" title="wikilink">濟眾院</a>》主題曲）</small></p></td>
+<small>（<a href="../Page/有線娛樂台.md" title="wikilink">有線娛樂台</a>外購劇《<a href="../Page/濟眾院_(電視劇).md" title="wikilink">濟眾院</a>》主題曲）</small></p></td>
 <td><p>rowspan ="3"|Smiley Face</p></td>
 <td><p>rowspan ="3"|黑</p></td>
 <td><p>rowspan ="3"|</p></td>
@@ -1994,7 +1998,7 @@ Sexy Central</p></td>
 <td><p>rowspan ="2"|4月29日</p></td>
 <td><p>rowspan ="2"|小白</p></td>
 <td><p>rowspan ="2"|百年不合<br />
-<small>（<a href="../Page/電視廣播有限公司.md" title="wikilink">TVB微電影</a>《<a href="../Page/愛情來的時候2.md" title="wikilink">愛情來的時候2　台灣</a>》主題曲）</small></p></td>
+<small>（<a href="../Page/電視廣播有限公司.md" title="wikilink">TVB微電影</a>《<a href="../Page/愛情來的時候2.md" title="wikilink">愛情來的時候2</a>　台灣》主題曲）</small></p></td>
 <td><p>rowspan ="2"|天不怕地不怕</p></td>
 <td><p>rowspan ="2"|上次講到</p></td>
 <td><p>rowspan ="2"|</p></td>
@@ -2080,7 +2084,7 @@ Sexy Central</p></td>
 <small>（<a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>、<a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">企鵝影視合拍電視劇</a>《<a href="https://zh.wikipedia.org/wiki/使徒行者2" title="wikilink">使徒行者2</a>》主題曲）</small></p></td>
 <td><p>男人背後<br />
 背後女人<br />
-<small>（與<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅合唱</a>）</small></p></td>
+<small>（與<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>合唱）</small></p></td>
 <td><p>烏托邦<br />
 <small>（<a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>、<a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a>、<a href="https://zh.wikipedia.org/wiki/中國廣播影視出版社" title="wikilink">中國廣播影視出版社合拍電視劇</a>《<a href="https://zh.wikipedia.org/wiki/再創世紀" title="wikilink">再創世紀</a>》主題曲）</small></p></td>
 <td><p>老少平安</p></td>
@@ -2126,29 +2130,29 @@ Sexy Central</p></td>
 | 節目名稱                                                                                                                         | 日期                       |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | 2011年                                                                                                                        |                          |
-| [雨僑Listen](../Page/雨僑.md "wikilink") to Me Ava Live羽翹演唱會2011                                                                 | 5月9及10日                  |
+| [雨僑](../Page/雨僑.md "wikilink")Listen to Me Ava Live羽翹演唱會2011                                                                 | 5月9及10日                  |
 | 2012年                                                                                                                        |                          |
-| [周柏豪Imperfect](../Page/周柏豪.md "wikilink") Live 2012                                                                          | 12月28至30日                |
+| [周柏豪](../Page/周柏豪.md "wikilink")Imperfect Live 2012                                                                          | 12月28至30日                |
 | 2014年                                                                                                                        |                          |
-| [張智霖Chilam](../Page/張智霖.md "wikilink") Crazy Hours Live 2014                                                                 | 7月6至8日                   |
-| [周柏豪Colors](../Page/周柏豪.md "wikilink") of Life演唱會2014                                                                        | 9月25至26日                 |
+| [張智霖](../Page/張智霖.md "wikilink")Chilam Crazy Hours Live 2014                                                                 | 7月6至8日                   |
+| [周柏豪](../Page/周柏豪.md "wikilink")Colors of Life演唱會2014                                                                        | 9月25至26日                 |
 | 2015年                                                                                                                        |                          |
-| [張智霖Chilam](../Page/張智霖.md "wikilink") Crazy Hours Live - 澳門站                                                                | 7月4日                     |
-| [茜拉Colorful](../Page/茜拉.md "wikilink") Life真．炫色演唱會                                                                           | 10月30日                   |
+| [張智霖](../Page/張智霖.md "wikilink")Chilam Crazy Hours Live - 澳門站                                                                | 7月4日                     |
+| [茜拉](../Page/茜拉.md "wikilink")Colorful Life真．炫色演唱會                                                                           | 10月30日                   |
 | 2016年                                                                                                                        |                          |
 | [家駒](../Page/黃家駒.md "wikilink")……愛心延續慈善演唱會2016                                                                               | 6月10日                    |
 | [連詩雅Shiga](https://zh.wikipedia.org/wiki/連詩雅 "wikilink") VS Shiga Live 2016                                                  | 8月13日                    |
-| [石詠莉Sukie](../Page/石詠莉.md "wikilink") S My First Stage Live 2016                                                             | 10月9日                    |
-| [鄭欣宜女神有問題演唱會](../Page/鄭欣宜.md "wikilink")2016                                                                                 | 10月22及23日                |
+| [石詠莉](../Page/石詠莉.md "wikilink")Sukie S My First Stage Live 2016                                                             | 10月9日                    |
+| [鄭欣宜](../Page/鄭欣宜.md "wikilink")女神有問題演唱會2016                                                                                 | 10月22及23日                |
 | 2017年                                                                                                                        |                          |
-| [SIS樂印姊妹SIS](../Page/SIS樂印姊妹.md "wikilink") Cappella Dream Concert 2017                                                      | 2月25日                    |
-| [周柏豪One](../Page/周柏豪.md "wikilink") Step Closer Pakho Live 2017                                                              | 4月28至30日                 |
+| [SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")SIS Cappella Dream Concert 2017                                                      | 2月25日                    |
+| [周柏豪](../Page/周柏豪.md "wikilink")One Step Closer Pakho Live 2017                                                              | 4月28至30日                 |
 | [鄭欣宜](../Page/鄭欣宜.md "wikilink") x [陳奐仁](../Page/陳奐仁.md "wikilink")[新城唱好音樂會](https://zh.wikipedia.org/wiki/新城知訊台 "wikilink") | 8月25日                    |
 | [鄭融](../Page/鄭融.md "wikilink")、[連詩雅Stephanie](https://zh.wikipedia.org/wiki/連詩雅 "wikilink") + Shiga她們SS 2017 Live Concert    | 9月9及10日                  |
-| [周柏豪One](../Page/周柏豪.md "wikilink") Step Closer Pakho Live 2017 - 澳門站                                                        | 10月21日                   |
+| [周柏豪](../Page/周柏豪.md "wikilink")One Step Closer Pakho Live 2017 - 澳門站                                                        | 10月21日                   |
 | 2018年                                                                                                                        |                          |
-| [29+1](https://zh.wikipedia.org/wiki/29+1 "wikilink")[彭秀慧經典獨腳戲](../Page/彭秀慧.md "wikilink")                                   | 3月24至27、29至31、4月1至3、6及7日 |
-| [鄭欣宜BREAK](../Page/鄭欣宜.md "wikilink") a LEG演唱會2018                                                                           | 4月21及22日                 |
+| [29+1](https://zh.wikipedia.org/wiki/29+1 "wikilink")[彭秀慧](../Page/彭秀慧.md "wikilink")經典獨腳戲                                   | 3月24至27、29至31、4月1至3、6及7日 |
+| [鄭欣宜](../Page/鄭欣宜.md "wikilink")BREAK a LEG演唱會2018                                                                           | 4月21及22日                 |
 | [阿泓鄧健泓Music](../Page/鄧健泓.md "wikilink") Live Concert 2018                                                                    | 4月29日                    |
 |                                                                                                                              |                          |
 

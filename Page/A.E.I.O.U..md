@@ -1,5 +1,5 @@
 [MeranSonnenuhr1.JPG](https://zh.wikipedia.org/wiki/File:MeranSonnenuhr1.JPG "fig:MeranSonnenuhr1.JPG")的一个日晷，上面刻有“A.E.I.O.U.”\]\]
-**A.E.I.O.U.**，或**AEIOU**，是[哈布斯堡王朝皇帝使用的格言](../Page/哈布斯堡王朝.md "wikilink")，亦是[奥地利帝国的国家格言](https://zh.wikipedia.org/wiki/奥地利帝国 "wikilink")。这个格言是由[腓特烈三世发明的](../Page/腓特烈三世_\(神圣罗马帝国\).md "wikilink")，这位皇帝喜欢使用缩写的、带有神秘色彩的语言。\[1\]
+**A.E.I.O.U.**，或**AEIOU**，是[哈布斯堡王朝](../Page/哈布斯堡王朝.md "wikilink")皇帝使用的格言，亦是[奥地利帝国的国家格言](https://zh.wikipedia.org/wiki/奥地利帝国 "wikilink")。这个格言是由[腓特烈三世发明的](../Page/腓特烈三世_\(神圣罗马帝国\).md "wikilink")，这位皇帝喜欢使用缩写的、带有神秘色彩的语言。\[1\]
 他在自己的一封手稿上曾用德语解释了A.E.I.O.U.的真正含义，即“**A**lles **E**rdreich **i**st
 **Ö**sterreich
 **u**ntertan”（[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")，意为“普天之下，莫非奥土”），<ref name="MKL">
@@ -32,7 +32,7 @@
 
 ## 参见
 
-  - [FERT](https://zh.wikipedia.org/wiki/FERT "wikilink")——[萨伏依王朝的格言](../Page/萨伏依王朝.md "wikilink")，真正意义亦不明
+  - [FERT](https://zh.wikipedia.org/wiki/FERT "wikilink")——[萨伏依王朝](../Page/萨伏依王朝.md "wikilink")的格言，真正意义亦不明
 
 ## 来源
 

@@ -1,4 +1,4 @@
-**車善玗**（，）韓國5人男子组合[B1A4组合的成員之一](../Page/B1A4.md "wikilink")
+**車善玗**（，）曾為韓國男子團體[B1A4](../Page/B1A4.md "wikilink")组合的成員之一
 。出生於韓國[光州廣域市](../Page/光州廣域市.md "wikilink")，是隊中的Rapper。組合的專輯中也收錄Baro創作歌曲。2016年ShareFakta_Kpop「南韓最帥臉蛋」前100名的男星中，Baro為第57名。
 2018月6月30日，與[WM娛樂合約到期](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，不續約。同年7月17日，與[HODOO娛樂簽訂專屬合約](https://zh.wikipedia.org/wiki/HODOO娛樂 "wikilink")。
 
@@ -20,6 +20,7 @@
 | 2017                                                        | KBS                                                    | [Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink")      | 趙錫泰          |
 | 2018                                                        | MBC                                                    | [壞刑警](../Page/壞刑警.md "wikilink")                              | 蔡東允          |
 | 2019                                                        | K LEAGUE                                               | Two Hearts                                                    | 車善玗          |
+| 2019                                                        | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink")    | [Level Up](https://zh.wikipedia.org/wiki/Level_Up "wikilink") | 郭韓哲          |
 
 ### 電影
 
@@ -36,7 +37,7 @@
 |                   |                                                     |                                                        |
 | ----------------- | --------------------------------------------------- | ------------------------------------------------------ |
 | 日期                | 電視台                                                 | 節目名稱                                                   |
-| 2014年9月12日-10月10日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [花樣青春第一季](../Page/花樣青春.md "wikilink") 寮國篇              |
+| 2014年9月12日-10月10日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [花樣青春](../Page/花樣青春.md "wikilink")第一季 寮國篇              |
 | 2019年2月1日、8日      | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [Coffee Friends](../Page/Coffee_Friends.md "wikilink") |
 
 ### 參與音樂MV

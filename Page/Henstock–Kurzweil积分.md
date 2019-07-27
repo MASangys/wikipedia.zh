@@ -1,4 +1,4 @@
-在[数学中](../Page/数学.md "wikilink")，**Henstock–Kurzweil积分**（也称为**Luzin积分**、**Perron积分**，有时为了和广义Denjoy积分区别而称为**Denjoy积分**）是[黎曼积分的一种推广](../Page/黎曼积分.md "wikilink")，有些情况下比[勒贝格积分更加宽泛](https://zh.wikipedia.org/wiki/勒贝格积分 "wikilink")。
+在[数学](../Page/数学.md "wikilink")中，**Henstock–Kurzweil积分**（也称为**Luzin积分**、**Perron积分**，有时为了和广义Denjoy积分区别而称为**Denjoy积分**）是[黎曼积分](../Page/黎曼积分.md "wikilink")的一种推广，有些情况下比[勒贝格积分更加宽泛](https://zh.wikipedia.org/wiki/勒贝格积分 "wikilink")。
 
 Henstock-Kurzweil积分最早是由二十世纪初[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[数学家](../Page/数学家.md "wikilink")引进的。Arnaud
 Denjoy在研究形似：
@@ -7,11 +7,11 @@ Denjoy在研究形似：
 
 的函数的时候，希望能够为它们定义积分。这种函数往往在某一点附近无法定义黎曼积分，但是用类似极限定义的  方法又能够定义出类似黎曼积分的极限。
 
-为了给这类函数定义积分，Denjoy将黎曼不可积的点分为若干种情形，分别用[超限归纳法来定义积分](../Page/超限归纳法.md "wikilink")。这样的定义繁复冗长。Nikolai
-Luzin使用类似[绝对连续的方式给出了另一种等价定义](../Page/绝对连续.md "wikilink")；Oskar
+为了给这类函数定义积分，Denjoy将黎曼不可积的点分为若干种情形，分别用[超限归纳法](../Page/超限归纳法.md "wikilink")来定义积分。这样的定义繁复冗长。Nikolai
+Luzin使用类似[绝对连续](../Page/绝对连续.md "wikilink")的方式给出了另一种等价定义；Oskar
 Perron也给出了一种等价的定义，但这个等价关系并不显然。
 
-1957年，[捷克数学家](../Page/捷克.md "wikilink")给出了一种比较优雅的定义，和黎曼积分的定义比较相似。Kurzweil称之为“刻度积分”（）。而则发展并完善了这种积分理论。基于这两位数学家的贡献，现今一般将这种积分称为**Henstock-Kurzweil积分**。由于Kurzweil的定义和黎曼积分的定义同样简洁，有的数学教育者认为可以在教学中用Henstock-Kurzweil积分代替黎曼积分，但这个主张并未被广泛采纳。
+1957年，[捷克](../Page/捷克.md "wikilink")数学家给出了一种比较优雅的定义，和黎曼积分的定义比较相似。Kurzweil称之为“刻度积分”（）。而则发展并完善了这种积分理论。基于这两位数学家的贡献，现今一般将这种积分称为**Henstock-Kurzweil积分**。由于Kurzweil的定义和黎曼积分的定义同样简洁，有的数学教育者认为可以在教学中用Henstock-Kurzweil积分代替黎曼积分，但这个主张并未被广泛采纳。
 
 ## 定义
 
@@ -31,7 +31,7 @@ Perron也给出了一种等价的定义，但这个等价关系并不显然。
 
 \[\sum_{i=0}^{n-1} f(t_i) (x_{i+1}-x_i)\]
 
-和式中的每一项是子区间长度\(x_{i+1}-x_i\)与在\(t_i\)处的函数值\(f(t_i)\)的乘积。直观地说，就是以标记点\(t_i\)上的函数值\(f(t_i)\)到X轴的[距离为高](../Page/距离.md "wikilink")，以分割的子区间为长的[矩形的面积](../Page/矩形.md "wikilink")。\[2\]
+和式中的每一项是子区间长度\(x_{i+1}-x_i\)与在\(t_i\)处的函数值\(f(t_i)\)的乘积。直观地说，就是以标记点\(t_i\)上的函数值\(f(t_i)\)到X轴的[距离](../Page/距离.md "wikilink")为高，以分割的子区间为长的[矩形](../Page/矩形.md "wikilink")的面积。\[2\]
 
 ### Henstock–Kurzweil积分
 

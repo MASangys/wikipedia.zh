@@ -1,8 +1,8 @@
-《**RIVER**》是[印度尼西亚女子偶像组合](../Page/印度尼西亚.md "wikilink")[JKT48的第](../Page/JKT48.md "wikilink")1张单曲唱片，分为通常盘与剧场盘两种式样，剧场盘在5月11日\[1\]起于JKT48剧场先行，通常盘于5月17日正式由发行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《RIVER》實際上就是姊妹團體[AKB48的第](../Page/AKB48.md "wikilink")14首單曲《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》，只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
+《**RIVER**》是[印度尼西亚](../Page/印度尼西亚.md "wikilink")女子偶像组合[JKT48](../Page/JKT48.md "wikilink")的第1张单曲唱片，分为通常盘与剧场盘两种式样，剧场盘在5月11日\[1\]起于JKT48剧场先行，通常盘于5月17日正式由发行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《RIVER》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第14首單曲《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》，只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要
 
-單曲分為两種版本，通常盤及劇場盤。單曲在印度尼西亚发行之后，通常盤也将在[日本发行特别版](../Page/日本.md "wikilink")，在2013年6月中旬正式发行（需要提前预约）\[2\]。与[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48的首张单曲相同](../Page/NMB48.md "wikilink")，都是同一队伍的成员进入选拔，以及都是16人进入选拔。因为Team
+單曲分為两種版本，通常盤及劇場盤。單曲在印度尼西亚发行之后，通常盤也将在[日本](../Page/日本.md "wikilink")发行特别版，在2013年6月中旬正式发行（需要提前预约）\[2\]。与[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")的首张单曲相同，都是同一队伍的成员进入选拔，以及都是16人进入选拔。因为Team
 J一共有23人，Cindy Gulla、Diasta Priswarini、Frieska Anastasia Laksani、Ghaida
 Farisya、Sendy Ariani、Sonia Natalia、Sonya Pandarmawan没有进入选拔。
 
@@ -20,11 +20,11 @@ Takajo、Nabilah Ratna Ayu Azalia**
 1.  **RIVER** \[4:41\]
       -
         （作曲、編曲：）
-        原曲为[AKB48的](../Page/AKB48.md "wikilink")[第14张单曲标题曲《RIVER》](../Page/RIVER_\(AKB48單曲\).md "wikilink")。
+        原曲为[AKB48](../Page/AKB48.md "wikilink")的[第14张单曲标题曲《RIVER》](../Page/RIVER_\(AKB48單曲\).md "wikilink")。
 2.  **Sakura no Shiori**（Pembatas Buku Sakura）\[3:58\]
       -
         （作曲：上杉洋史，編曲：）
-        原曲为[AKB48的](../Page/AKB48.md "wikilink")[第15张单曲标题曲《櫻花印記》](../Page/櫻花印記.md "wikilink")。
+        原曲为[AKB48](../Page/AKB48.md "wikilink")的[第15张单曲标题曲《櫻花印記》](../Page/櫻花印記.md "wikilink")。
 3.  **Mirai no Kajitsu**（Buah Masa Depan）- 研究生 \[4:52\]
       -
         （作曲：岡田実音，編曲：高島智明）

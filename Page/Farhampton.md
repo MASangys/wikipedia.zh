@@ -17,15 +17,15 @@
 
 ## 文化参考
 
-  - 在得知Klaus的妹妹Uta在[莱比锡当过摔跤手后泰德形容她是](../Page/莱比锡.md "wikilink")[巨人安德烈](../Page/巨人安德烈.md "wikilink")。
-  - 最后一幕，泰德在看他最喜欢的一本书[霍乱时期的爱情时撑着小黄伞的老妈进入车站](../Page/霍乱时期的爱情.md "wikilink")。
+  - 在得知Klaus的妹妹Uta在[莱比锡](../Page/莱比锡.md "wikilink")当过摔跤手后泰德形容她是[巨人安德烈](../Page/巨人安德烈.md "wikilink")。
+  - 最后一幕，泰德在看他最喜欢的一本书[霍乱时期的爱情](../Page/霍乱时期的爱情.md "wikilink")时撑着小黄伞的老妈进入车站。
 
 ## 反响
 
 Donna
 Bowman在[影音俱乐部上给这集B的评价](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")\[2\]。
 
-Max Nicholson在[IGN上给这集评](../Page/IGN.md "wikilink")6/10分\[3\]。
+Max Nicholson在[IGN](../Page/IGN.md "wikilink")上给这集评6/10分\[3\]。
 
 TV Fanatic给这集4星的评分，满分5星\[4\]。
 

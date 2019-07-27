@@ -1,4 +1,4 @@
-《**遙遠〜SAILING FOR MY DREAM〜**》是[日本乐团](../Page/日本.md "wikilink")[FENCE OF
+《**遙遠〜SAILING FOR MY DREAM〜**》是[日本](../Page/日本.md "wikilink")乐团[FENCE OF
 DEFENSE的第](../Page/FENCE_OF_DEFENSE.md "wikilink")17张[单曲](../Page/单曲.md "wikilink")。
 
 ## 内容

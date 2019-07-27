@@ -1,5 +1,5 @@
 《**Break it
-down**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial的第二張專輯](../Page/SpeXial.md "wikilink")，於2014年6月5日舉行專輯發表會\[1\]，同月12日發行\[2\]；並於8月1日推出專輯改版《**Break
+down**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的第二張專輯，於2014年6月5日舉行專輯發表會\[1\]，同月12日發行\[2\]；並於8月1日推出專輯改版《**Break
 it down**
 情人節慶功紀念版》\[3\]。首波主打歌為《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》主題曲《Break
 it
@@ -13,7 +13,7 @@ down》\[4\]；第二主打為《[明若曉溪](../Page/明若曉溪.md "wikilin
   - 首版專輯內附36頁寫真；情人節慶功紀念版以全新封面發行，加送32頁全新寫真歌詞本、球員卡和親筆信，以及肖像應援扇。
   - 首波主打《Break it
     down》是由[宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[偉晉](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")、[明-{杰}-主演的電視劇](https://zh.wikipedia.org/wiki/許明杰 "wikilink")《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》主題曲。
-  - 第二主打《愛這種離譜感覺》是由[子閎](https://zh.wikipedia.org/wiki/林子閎 "wikilink")、[Evan與同門師姐](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")[曾沛慈主演的電視劇](../Page/曾沛慈.md "wikilink")《[明若曉溪](../Page/明若曉溪.md "wikilink")》主題曲。
+  - 第二主打《愛這種離譜感覺》是由[子閎](https://zh.wikipedia.org/wiki/林子閎 "wikilink")、[Evan與同門師姐](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")[曾沛慈](../Page/曾沛慈.md "wikilink")主演的電視劇《[明若曉溪](../Page/明若曉溪.md "wikilink")》主題曲。
   - 專輯發行首週(2014年第24週)即登上五大金榜第三名，並在第二週登上第二名\[8\]。
   - 這張專輯是[明-{杰}-入伍前的最後一張專輯](https://zh.wikipedia.org/wiki/許明杰 "wikilink")，同時也是[Evan完成學業前的最後一張專輯](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")。
 

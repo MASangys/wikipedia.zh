@@ -1,4 +1,4 @@
-《**AKB48的你是誰？**》（）是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48在](../Page/AKB48.md "wikilink")[NOTTV的冠名](../Page/NOTTV.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。節目自2012年4月2日開始至2016年6月30日NOTTV停播為止，於[當地時間](../Page/日本標準時間.md "wikilink")[星期一至](../Page/星期一.md "wikilink")[五下午](https://zh.wikipedia.org/wiki/星期五 "wikilink")5－6時播出，是一個開放[歌迷現場參與節目錄影的](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[現場直播節目](../Page/現場直播.md "wikilink")。
+《**AKB48的你是誰？**》（）是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")在[NOTTV](../Page/NOTTV.md "wikilink")的冠名[綜藝節目](../Page/綜藝節目.md "wikilink")。節目自2012年4月2日開始至2016年6月30日NOTTV停播為止，於[當地時間](../Page/日本標準時間.md "wikilink")[星期一](../Page/星期一.md "wikilink")至[五下午](https://zh.wikipedia.org/wiki/星期五 "wikilink")5－6時播出，是一個開放[歌迷現場參與節目錄影的](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[現場直播](../Page/現場直播.md "wikilink")節目。
 
 ## 概要
 
@@ -6,7 +6,7 @@
 CAFE\&SHOP
 AKIHABARA」内的劇場區域開始公開直播，由AKB48成員4名和MC2人出演，每回播放給30名的一般觀眾（事前抽選制、收費）。
 
-節目內容是成員一邊在粉絲的面前挑戰各式各樣的企劃一邊繼續呼籲個性的東西。此外，這個節目與[Google+連同展開節目內容的企劃](../Page/Google+.md "wikilink")。
+節目內容是成員一邊在粉絲的面前挑戰各式各樣的企劃一邊繼續呼籲個性的東西。此外，這個節目與[Google+](../Page/Google+.md "wikilink")連同展開節目內容的企劃。
 
 還有，關於一般觀眾在每回16時開始在「AKB48 CAFE\&SHOP
 AKIHABARA」商店前進行整理票的配布，可以用抽籤觀賞。觀賞費為2,000圓（飲料、附禮品）。

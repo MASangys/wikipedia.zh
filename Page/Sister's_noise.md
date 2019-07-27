@@ -6,14 +6,14 @@ Anniversary Live 2012～Decade Tokyo～》。
 ## 概要
 
   - 初回限定盤（GNCA-0280）及通常盤（GNCA-0281）2種版本。初回限定盤附收錄有《sister's noise》PV的DVD。
-  - 第二期TV動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》繼續由[fripSide擔當片頭曲](https://zh.wikipedia.org/wiki/fripSide "wikilink")。
+  - 第二期TV動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S》繼續由[fripSide擔當片頭曲](https://zh.wikipedia.org/wiki/fripSide "wikilink")。
   - 單曲發售同一日，也發售[fripSide在](https://zh.wikipedia.org/wiki/fripSide "wikilink")2012年12月22日《[Decade](../Page/Decade.md "wikilink")》專輯週年紀念演唱會的Blu-ray及DVD《10th
     Anniversary Live 2012～Decade Tokyo～》。
 
 ## 排行榜成績
 
-  - 5月10日在[Oricon的日間排行榜取得第](../Page/Oricon.md "wikilink")1位，是[fripSide全部作品中首次獲得日間第](https://zh.wikipedia.org/wiki/fripSide "wikilink")1位。\[1\]
-  - 還有，5月20日在[Oricon週間排行榜裏首次在單曲獲得了週間第](../Page/Oricon.md "wikilink")1位，以聲優單曲而言是繼[水樹奈奈的](../Page/水樹奈奈.md "wikilink")「[PHANTOM
+  - 5月10日在[Oricon](../Page/Oricon.md "wikilink")的日間排行榜取得第1位，是[fripSide全部作品中首次獲得日間第](https://zh.wikipedia.org/wiki/fripSide "wikilink")1位。\[1\]
+  - 還有，5月20日在[Oricon](../Page/Oricon.md "wikilink")週間排行榜裏首次在單曲獲得了週間第1位，以聲優單曲而言是繼[水樹奈奈](../Page/水樹奈奈.md "wikilink")的「[PHANTOM
     MINDS](../Page/PHANTOM_MINDS.md "wikilink")」及[K-ON\!\!的](https://zh.wikipedia.org/wiki/K-ON!! "wikilink")「[GO\!
     GO\! MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink")」後的第3例。
 
@@ -25,7 +25,7 @@ Anniversary Live 2012～Decade Tokyo～》。
 
 1.  **sister's noise** （4:20）
       -
-        TV動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片頭曲
+        TV動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S》片頭曲
         作詞、作曲、編曲：八木沼悟志
 2.  **I'm believing you** （5:44）
       -

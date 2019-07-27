@@ -1,4 +1,4 @@
-**Fairview**是由[美国国家安全局实施的一项秘密](../Page/美国国家安全局.md "wikilink")[大规模监听项目](https://zh.wikipedia.org/wiki/大规模监听 "wikilink")。该项目的目标是整批收集来自外国公民移动电话的[元数据](../Page/元数据.md "wikilink")。\[1\]根据告密人[爱德华·斯诺登](../Page/爱德华·斯诺登.md "wikilink")
+**Fairview**是由[美国国家安全局](../Page/美国国家安全局.md "wikilink")实施的一项秘密[大规模监听项目](https://zh.wikipedia.org/wiki/大规模监听 "wikilink")。该项目的目标是整批收集来自外国公民移动电话的[元数据](../Page/元数据.md "wikilink")。\[1\]根据告密人[爱德华·斯诺登](../Page/爱德华·斯诺登.md "wikilink")
 2013 年的披露：
 
   -
@@ -6,7 +6,7 @@
 
 据披露，美国国家安全局仅在2013年1月就收集了来自巴西用户的2,300,000,000份数据。\[3\]
 
-斯诺登此前还曾披露国家安全局收集了来自[中国大陆的超过十亿移动电话订户的通话的元数据和](../Page/中国大陆.md "wikilink")[短消息](https://zh.wikipedia.org/wiki/短消息 "wikilink")，但报道中并未给出这一项目的名称。\[4\]
+斯诺登此前还曾披露国家安全局收集了来自[中国大陆](../Page/中国大陆.md "wikilink")的超过十亿移动电话订户的通话的元数据和[短消息](https://zh.wikipedia.org/wiki/短消息 "wikilink")，但报道中并未给出这一项目的名称。\[4\]
 
 ## 参见
 

@@ -1,4 +1,4 @@
-**《愛的魔法》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[樂瞳的第三張](https://zh.wikipedia.org/wiki/樂瞳 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")\[1\]，於2013年8月29日發行，亦是在[星煥國際有限公司推出的首張專輯](../Page/星煥國際.md "wikilink")，與對上一張專輯《[乾物女皇](../Page/乾物女皇.md "wikilink")》相距三年。星煥國際有限公司於[2011年已經開始展開製作](https://zh.wikipedia.org/wiki/2011 "wikilink")，可惜出碟期由2011年9月延遲至2013年8月才發行\[2\]\[3\]，而且星煥國際曾對外公佈會為樂瞳推出首張大碟，惟樂瞳工作較多，最終公司決定推出迷你專輯。新碟甫推出的銷量比預期中的好，差不多在各大唱片專賣店已火速售罄，而且在微博獲得多名圈中好友支持。
+**《愛的魔法》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[樂瞳的第三張](https://zh.wikipedia.org/wiki/樂瞳 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")\[1\]，於2013年8月29日發行，亦是在[星煥國際](../Page/星煥國際.md "wikilink")有限公司推出的首張專輯，與對上一張專輯《[乾物女皇](../Page/乾物女皇.md "wikilink")》相距三年。星煥國際有限公司於[2011年已經開始展開製作](https://zh.wikipedia.org/wiki/2011 "wikilink")，可惜出碟期由2011年9月延遲至2013年8月才發行\[2\]\[3\]，而且星煥國際曾對外公佈會為樂瞳推出首張大碟，惟樂瞳工作較多，最終公司決定推出迷你專輯。新碟甫推出的銷量比預期中的好，差不多在各大唱片專賣店已火速售罄，而且在微博獲得多名圈中好友支持。
 
 ## 簡介
 

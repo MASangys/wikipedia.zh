@@ -1,7 +1,7 @@
 **LPO-50**（Лёгкий пехотный огнемёт
 ЛПО-50，意為步兵用火焰噴射器）是一種[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[二次大戰後研製的](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")，它取代了[蘇軍在二戰期間使用的舊式火焰噴射器](https://zh.wikipedia.org/wiki/蘇軍 "wikilink")，旨在保護陣地和消滅在室外的敵方人員。
 
-自[蘇聯解體後](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")，[俄羅斯軍隊早已把LPO](https://zh.wikipedia.org/wiki/俄羅斯軍隊 "wikilink")-50從制式武器的名單上除名，但由於蘇聯曾把它出口，所以有些國家至今仍有儲備及使用。不僅如此，LPO-50更在[羅馬尼亞及](../Page/羅馬尼亞.md "wikilink")[中國生產](../Page/中國.md "wikilink")，其中以中國把這種武器命名為74式。
+自[蘇聯解體後](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")，[俄羅斯軍隊早已把LPO](https://zh.wikipedia.org/wiki/俄羅斯軍隊 "wikilink")-50從制式武器的名單上除名，但由於蘇聯曾把它出口，所以有些國家至今仍有儲備及使用。不僅如此，LPO-50更在[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")及[中國](../Page/中國.md "wikilink")生產，其中以中國把這種武器命名為74式。
 
 ## 軼事
 

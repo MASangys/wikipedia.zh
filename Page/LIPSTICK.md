@@ -1,4 +1,4 @@
-《**LIPSTICK**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[橙子焦糖的第](../Page/橙子焦糖.md "wikilink")1张正規韓語專輯，於2012年9月12日發行。唱片公司為[Pledis
+《**LIPSTICK**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[橙子焦糖](../Page/橙子焦糖.md "wikilink")的第1张正規韓語專輯，於2012年9月12日發行。唱片公司為[Pledis
 Entertainment](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
 
 ## 概要
@@ -30,10 +30,10 @@ Entertainment](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
 6.  **[還是…](https://zh.wikipedia.org/wiki/Aing♡ "wikilink")**（아직…）
       -
         2nd迷你專輯「Aing♡」收錄曲
-        [Raina主唱](../Page/Raina.md "wikilink")
+        [Raina](../Page/Raina.md "wikilink")主唱
 7.  **Superwoman**
       -
-        [Raina和](../Page/Raina.md "wikilink")[S.COUPS](https://zh.wikipedia.org/wiki/崔勝澈 "wikilink")（[SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")）主唱
+        [Raina](../Page/Raina.md "wikilink")和[S.COUPS](https://zh.wikipedia.org/wiki/崔勝澈 "wikilink")（[SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")）主唱
 8.  **[One Love](https://zh.wikipedia.org/wiki/Aing♡ "wikilink")**
       -
         2nd迷你專輯「Aing♡」收錄曲
@@ -51,7 +51,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
     미룰 순 없나요）
       -
         1st迷你專輯「魔法少女」收錄曲
-        [Raina主唱](../Page/Raina.md "wikilink")
+        [Raina](../Page/Raina.md "wikilink")主唱
 13. **[Bangkok
     City](https://zh.wikipedia.org/wiki/Bangkok_City "wikilink")（2012
     New Recording）**（방콕시티）

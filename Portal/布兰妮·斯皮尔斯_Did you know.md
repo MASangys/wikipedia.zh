@@ -7,7 +7,7 @@
   - [2001年MTV音乐录像带大奖上](https://zh.wikipedia.org/wiki/2001年MTV音乐录像带大奖 "wikilink")，布兰妮在和一条缅甸蟒共同表演了**[哪首歌曲](https://zh.wikipedia.org/wiki/我是你的奴仆 "wikilink")**？
   - **[哪部电影](../Page/穿越乡间路.md "wikilink")**是布兰妮首次参与主演的电影？
   - 布兰妮在[2003年MTV音乐录像带大奖亲吻了](https://zh.wikipedia.org/wiki/2003年MTV音乐录像带大奖 "wikilink")**[哪位女歌手](https://zh.wikipedia.org/wiki/麦当娜 "wikilink")**，在当时引起巨大轰动？
-  - **[哪首歌曲](../Page/中你的毒.md "wikilink")**为[凯莉·米洛的弃曲](../Page/凯莉·米洛.md "wikilink")，但成为了布兰妮的经典作品之一？
+  - **[哪首歌曲](../Page/中你的毒.md "wikilink")**为[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")的弃曲，但成为了布兰妮的经典作品之一？
   - 布兰妮的**[第一张混音专辑](../Page/妮裳舞部曲-混音精选+新曲.md "wikilink")**是什么？
   - **[哪首歌曲](../Page/再危險...我也要.md "wikilink")**诞生了布兰妮的著名流行语“It's
     Britney, bitch”？
@@ -19,6 +19,6 @@
   - 布兰妮曾参与演唱[蕾哈娜](../Page/蕾哈娜.md "wikilink")**[哪首歌曲](https://zh.wikipedia.org/wiki/禁忌游戏 "wikilink")**的混音版本？
   - 布兰妮曾担任**[哪场真人秀](../Page/X音素_\(美国真人秀\).md "wikilink")**的评审？
   - 布兰妮在美国**[排行最低的一张专辑](https://zh.wikipedia.org/wiki/勁舞布蘭妮 "wikilink")**是什么？
-  - 布兰妮于2013年开始在[拉斯维加斯展开了](../Page/拉斯维加斯.md "wikilink")**[哪一场演出](https://zh.wikipedia.org/wiki/布兰妮：破碎的我 "wikilink")**？
+  - 布兰妮于2013年开始在[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")展开了**[哪一场演出](https://zh.wikipedia.org/wiki/布兰妮：破碎的我 "wikilink")**？
 
 </div>

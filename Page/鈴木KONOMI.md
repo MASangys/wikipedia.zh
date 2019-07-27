@@ -1,4 +1,4 @@
-**鈴木KONOMI**<ref name=sk>在[兩岸三地活動不是用原文就是用](../Page/兩岸三地.md "wikilink")「鈴木KONOMI」：
+**鈴木KONOMI**<ref name=sk>在[兩岸三地](../Page/兩岸三地.md "wikilink")活動不是用原文就是用「鈴木KONOMI」：
 
   -
   -
@@ -6,15 +6,15 @@
 
 ## 簡歷
 
-鈴木從小就練習歌唱與舞蹈。15歲時對[May'n的歌聲感到震驚](../Page/May'n.md "wikilink")，於是決心當上歌手\[2\]。
+鈴木從小就練習歌唱與舞蹈。15歲時對[May'n](../Page/May'n.md "wikilink")的歌聲感到震驚，於是決心當上歌手\[2\]。
 
-2011年，鈴木贏得了第五屆全日本動漫歌曲大獎賽的冠軍，從此受注目。2012年4月25日，她以電視動畫[黃昏乙女×失憶幽靈的主題曲](../Page/黃昏乙女×失憶幽靈.md "wikilink")「」正式出道\[3\]。
+2011年，鈴木贏得了第五屆全日本動漫歌曲大獎賽的冠軍，從此受注目。2012年4月25日，她以電視動畫[黃昏乙女×失憶幽靈](../Page/黃昏乙女×失憶幽靈.md "wikilink")的主題曲「」正式出道\[3\]。
 
-2014年7月13日，至[上海擔任第十屆中國國際動漫遊戲博覽會嘉賓](https://zh.wikipedia.org/wiki/上海 "wikilink")，並舉行兩場演唱簽名會。2015年5月17日，在[香港與](../Page/香港.md "wikilink")[新田惠海](../Page/新田惠海.md "wikilink")、[橋本美雪共同舉行](../Page/橋本美雪.md "wikilink")「KiraKira
+2014年7月13日，至[上海擔任第十屆中國國際動漫遊戲博覽會嘉賓](https://zh.wikipedia.org/wiki/上海 "wikilink")，並舉行兩場演唱簽名會。2015年5月17日，在[香港](../Page/香港.md "wikilink")與[新田惠海](../Page/新田惠海.md "wikilink")、[橋本美雪](../Page/橋本美雪.md "wikilink")共同舉行「KiraKira
 Anisong
-Night」演唱會；同年7月18日，於[Niconico動畫的節目頻道](../Page/Niconico動畫.md "wikilink")，成立官方粉絲俱樂部節目「」\[4\]；同年11月15日，在[臺北市花漾Hana展演空間舉行個人演唱會](../Page/臺北市.md "wikilink")，這是鈴木第一次的海外個人演唱會。
+Night」演唱會；同年7月18日，於[Niconico動畫](../Page/Niconico動畫.md "wikilink")的節目頻道，成立官方粉絲俱樂部節目「」\[4\]；同年11月15日，在[臺北市](../Page/臺北市.md "wikilink")花漾Hana展演空間舉行個人演唱會，這是鈴木第一次的海外個人演唱會。
 
-2016年1月11日，鈴木表示為了專注歌手活動，決定大學休學並上京，同時發表了移籍到（[Amuleto](../Page/Amuleto.md "wikilink")）事務所。2016年11月5日，鈴木20歲生日在[幕張展覽館舉行](../Page/幕張展覽館.md "wikilink")2016年第二十場演唱會「鈴木このみ
+2016年1月11日，鈴木表示為了專注歌手活動，決定大學休學並上京，同時發表了移籍到（[Amuleto](../Page/Amuleto.md "wikilink")）事務所。2016年11月5日，鈴木20歲生日在[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行2016年第二十場演唱會「鈴木このみ
 Birthday Live 2016 ～Cheers\!\!\!」，同時Staff公佈鈴木飾演「[LOST
 SONG](../Page/LOST_SONG.md "wikilink")」的女主角，所飾演的角色為「鈴」，作為鈴木的驚喜禮物。2016年12月31日在「鈴木このみ
 COUNTDOWN LIVE 2016～2017」獻唱首次參與作曲的「Moment」，並訂下「作詞作曲」為2017年的目標。
@@ -139,7 +139,7 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS遊戲</a>『STELLA GLOW』主題曲</p></td>
+<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>遊戲『STELLA GLOW』主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">

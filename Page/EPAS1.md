@@ -3,7 +3,7 @@
 
 ## 功能
 
-EPAS1所表达的蛋白是一个[转录因子的组成部分](../Page/转录因子.md "wikilink")，该转录因子介导一些受[氧气调控基因的表达](../Page/氧气.md "wikilink")，特别是低氧（[缺氧](../Page/缺氧.md "wikilink")）环境下。该蛋白包含一个[碱性螺旋-环-螺旋蛋白二聚化结构域](../Page/碱性螺旋-环-螺旋.md "wikilink")，此结构域也常见于其它氧应激相关信号通路蛋白。EPAS1涉及的发育，并在[脐带的](../Page/脐带.md "wikilink")[血管壁](../Page/血管.md "wikilink")[内皮细胞中表达](https://zh.wikipedia.org/wiki/内皮细胞 "wikilink")。EPAS1维持[儿茶酚胺类物质在胚胎早期发育中的稳定](../Page/儿茶酚胺.md "wikilink")，以防止[心臟衰竭](../Page/心臟衰竭.md "wikilink")\[5\]。[儿茶酚胺类物质包括](../Page/儿茶酚胺.md "wikilink")[肾上腺素和](../Page/肾上腺素.md "wikilink")[去甲肾上腺素](../Page/去甲肾上腺素.md "wikilink")，其稳定对胎儿与成人的心脏的健康有着重要作用\[6\]。
+EPAS1所表达的蛋白是一个[转录因子](../Page/转录因子.md "wikilink")的组成部分，该转录因子介导一些受[氧气](../Page/氧气.md "wikilink")调控基因的表达，特别是低氧（[缺氧](../Page/缺氧.md "wikilink")）环境下。该蛋白包含一个[碱性螺旋-环-螺旋](../Page/碱性螺旋-环-螺旋.md "wikilink")蛋白二聚化结构域，此结构域也常见于其它氧应激相关信号通路蛋白。EPAS1涉及的发育，并在[脐带](../Page/脐带.md "wikilink")的[血管](../Page/血管.md "wikilink")壁[内皮细胞中表达](https://zh.wikipedia.org/wiki/内皮细胞 "wikilink")。EPAS1维持[儿茶酚胺](../Page/儿茶酚胺.md "wikilink")类物质在胚胎早期发育中的稳定，以防止[心臟衰竭](../Page/心臟衰竭.md "wikilink")\[5\]。[儿茶酚胺](../Page/儿茶酚胺.md "wikilink")类物质包括[肾上腺素](../Page/肾上腺素.md "wikilink")和[去甲肾上腺素](../Page/去甲肾上腺素.md "wikilink")，其稳定对胎儿与成人的心脏的健康有着重要作用\[6\]。
 
 ## 交互作用
 

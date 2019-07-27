@@ -17,17 +17,17 @@ Parted函式庫，可對[FAT16](https://zh.wikipedia.org/wiki/FAT16 "wikilink")�
 
 ### 圖形前端
 
-[GParted以及](../Page/GParted.md "wikilink")[KDE Partition
+[GParted](../Page/GParted.md "wikilink")以及[KDE Partition
 Manager皆為使用GNU](../Page/KDE_Partition_Manager.md "wikilink")
 Parted函式庫的圖形前端
-。它們分別為[GNOME及](../Page/GNOME.md "wikilink")[KDE兩大](../Page/KDE.md "wikilink")[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")[桌面環境作了微調](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。它們通常會包含在許多有[Live
-CD的](../Page/Live_CD.md "wikilink")[發行版裡作為工具以方便使用者進行硬碟分割](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。[QtParted是另外一個使用](../Page/QtParted.md "wikilink")[Qt寫成的圖形前端](../Page/Qt.md "wikilink")，但此專案已經不再被維護。
+。它們分別為[GNOME](../Page/GNOME.md "wikilink")及[KDE](../Page/KDE.md "wikilink")兩大[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")[桌面環境作了微調](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。它們通常會包含在許多有[Live
+CD的](../Page/Live_CD.md "wikilink")[發行版裡作為工具以方便使用者進行硬碟分割](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。[QtParted](../Page/QtParted.md "wikilink")是另外一個使用[Qt](../Page/Qt.md "wikilink")寫成的圖形前端，但此專案已經不再被維護。
 
 **Pyparted**\[4\]
-(也被稱作python-parted)\[5\]是一個以[Python寫成的圖形前端](../Page/Python.md "wikilink")。以此為預設分割工具的[Linux發行版包含](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Slackware](../Page/Slackware.md "wikilink")，[Knoppix](../Page/Knoppix.md "wikilink")，，，以及[Parted
+(也被稱作python-parted)\[5\]是一個以[Python](../Page/Python.md "wikilink")寫成的圖形前端。以此為預設分割工具的[Linux發行版包含](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Slackware](../Page/Slackware.md "wikilink")，[Knoppix](../Page/Knoppix.md "wikilink")，，，以及[Parted
 Magic](../Page/Parted_Magic.md "wikilink")。
 
-默认带有此程序的[Linux发行版包括](../Page/Linux发行版.md "wikilink")[Slackware](../Page/Slackware.md "wikilink")、[Knoppix](../Page/Knoppix.md "wikilink")、、和[Parted
+默认带有此程序的[Linux发行版](../Page/Linux发行版.md "wikilink")包括[Slackware](../Page/Slackware.md "wikilink")、[Knoppix](../Page/Knoppix.md "wikilink")、、和[Parted
 Magic](http://www.partedmagic.com/)。
 
 ## 限制

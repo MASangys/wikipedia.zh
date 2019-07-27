@@ -1,6 +1,6 @@
 [SUBARU_B9_SCRAMBLER_at_TMS2003_001.jpg](https://zh.wikipedia.org/wiki/File:SUBARU_B9_SCRAMBLER_at_TMS2003_001.jpg "fig:SUBARU_B9_SCRAMBLER_at_TMS2003_001.jpg")上的速霸陸B9
 Scrambler\]\] **速霸陸B9
-Scrambler**（）乃是[日本](../Page/日本.md "wikilink")[富士重工業設計的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[雙座敞篷](../Page/雙座敞篷車.md "wikilink")[概念車](../Page/概念車.md "wikilink")，出自[安德烈斯·札琶提納斯的手筆](../Page/安德烈斯·札琶提納斯.md "wikilink")。
+Scrambler**（）乃是[日本](../Page/日本.md "wikilink")[富士重工業設計的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[雙座敞篷](../Page/雙座敞篷車.md "wikilink")[概念車](../Page/概念車.md "wikilink")，出自[安德烈斯·札琶提納斯](../Page/安德烈斯·札琶提納斯.md "wikilink")的手筆。
 
 ## 概要
 

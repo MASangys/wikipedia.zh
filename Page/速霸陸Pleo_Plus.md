@@ -15,7 +15,7 @@ e:S最大的差異，便是車頭的水箱罩造型。
 動力方面比照大發Mira e:S搭載658c.c.直列三缸DOHC KF-VE3型引擎，具有52ps /
 6,800rpm的最大馬力與6.1kg·m /
 5,200rpm的峰值扭力。在[CVT變速系統](../Page/無段自動變速器.md "wikilink")、eco
-IDLE引擎怠速熄火系統、動能回收充電系統、車身造型具更優異的[空氣動力學](https://zh.wikipedia.org/wiki/空氣動力學 "wikilink")、低滾動阻力[輪胎與i](../Page/輪胎.md "wikilink")-EGR廢氣回收系統等節能裝置的加持下，在日本下平均油耗表現達到30km/L\[3\]。依照配備及驅動方式，這部車共分為[FF的E](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")、F、L、G等四型，以及採[4WD的FA](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")、LA、GA等三型。
+IDLE引擎怠速熄火系統、動能回收充電系統、車身造型具更優異的[空氣動力學](https://zh.wikipedia.org/wiki/空氣動力學 "wikilink")、低滾動阻力[輪胎](../Page/輪胎.md "wikilink")與i-EGR廢氣回收系統等節能裝置的加持下，在日本下平均油耗表現達到30km/L\[3\]。依照配備及驅動方式，這部車共分為[FF的E](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")、F、L、G等四型，以及採[4WD的FA](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")、LA、GA等三型。
 
 2013年 - 7月兄弟車大發Mira e:S小改款，8月19日Pleo
 Plus亦比照辦理。按照日本，其平均油耗表現由原先的30km/L進步至33.4km/L，原因除了既有的[CVT變速系統](../Page/無段自動變速器.md "wikilink")、[時速高於](https://zh.wikipedia.org/wiki/時速 "wikilink")11km/hr即準備啟動的eco
@@ -27,7 +27,7 @@ Assist系統，能偵測自身與前車的安全距離及時煞車。
 KF-VE3型引擎的壓縮比從原先的11.3：1提高至12.2：1，搭配改良的[動能回收系統](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")，在日本JC08模式（日语：JC08モード）下[平均油耗表現達到](../Page/汽车燃油经济性.md "wikilink")35.2km/L。
 
 2015年 - 4月8日再度部分改良\[5\]，4月22日推出「Black
-Edition」特仕車，含有專屬[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")、[白色](../Page/白色.md "wikilink")、[紅色車身塗裝](https://zh.wikipedia.org/wiki/紅色 "wikilink")，[黑色處理的水箱護罩](../Page/黑色.md "wikilink")、後視鏡、車頂、座椅，並有專屬14吋鋁框。
+Edition」特仕車，含有專屬[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")、[白色](../Page/白色.md "wikilink")、[紅色車身塗裝](https://zh.wikipedia.org/wiki/紅色 "wikilink")，[黑色](../Page/黑色.md "wikilink")處理的水箱護罩、後視鏡、車頂、座椅，並有專屬14吋鋁框。
 
 Image:Subaru Pleo plus 0157.JPG|車頭 Image:Subaru Pleo plus 0158.JPG|車尾
 Image:Subaru Pleo Plus Ｆ Smart-Assist LA300F Interior.jpg Image:Subaru

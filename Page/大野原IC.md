@@ -1,4 +1,4 @@
-**大野原IC**（平假名：おおのはらインターチェンジ）是位於[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[觀音寺市的](../Page/觀音寺市.md "wikilink")[高松自動車道之](../Page/高松自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**大野原IC**（平假名：おおのはらインターチェンジ）是位於[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[觀音寺市](../Page/觀音寺市.md "wikilink")的[高松自動車道](../Page/高松自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 

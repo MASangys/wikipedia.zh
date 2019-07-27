@@ -1,8 +1,8 @@
-[GLAY的](../Page/GLAY.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
+[GLAY](../Page/GLAY.md "wikilink")的[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 簡介
 
-  - [GLAY出道以來第一張](../Page/GLAY.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
+  - [GLAY](../Page/GLAY.md "wikilink")出道以來第一張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
   - 除了[CD](../Page/CD.md "wikilink")+[DVD的普通盤外](https://zh.wikipedia.org/wiki/DVD "wikilink")，同時發行SPECIAL
     BOX的『初回限定盤』，包含CD、DVD和團員肖像月曆。普通盤在『GLAY Official Store
     G-DIRECT』和演唱會會場販售，『初回限定盤』則只有在『GLAY Official Store

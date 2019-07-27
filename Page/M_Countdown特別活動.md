@@ -248,6 +248,24 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年7月6日-7月7日</p></td>
+<td><p>KCON 2019 NY</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約市" title="wikilink">紐約市</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥迪遜廣場花園" title="wikilink">麥迪遜廣場花園</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月15日-2019年8月18日</p></td>
+<td><p>KCON 2019 LA</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/史坦波中心" title="wikilink">史坦波中心</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -777,7 +795,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 ## KCON 2019 JAPAN
 
-活動日期：2019年5月17日－2018年5月19日
+活動日期：2019年5月17日－2019年5月19日
 
 活動地點：[幕張展覽館](../Page/幕張展覽館.md "wikilink")
 
@@ -818,6 +836,37 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
   - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")
   - [VAV](../Page/VAV.md "wikilink")
+
+## KCON 2019 NY
+
+活動日期：2019年7月6日-2019年7月7日
+
+活動地點：[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[麥迪遜廣場花園](https://zh.wikipedia.org/wiki/麥迪遜廣場花園 "wikilink")
+
+7月6日
+
+  - [ATEEZ](../Page/ATEEZ.md "wikilink")
+  - [EVERGLOW](../Page/EVERGLOW.md "wikilink")
+  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
+  - [NU'EST](../Page/NU'EST.md "wikilink")
+  - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
+  - [TOMORROW X
+    TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")
+
+7月7日
+
+  - [AB6IX](../Page/AB6IX.md "wikilink")
+  - [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")
+  - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
+  - [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")
+  - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
+  - [VERIVERY](../Page/VERIVERY.md "wikilink")
+
+## KCON 2019 LA
+
+活動日期：2019年8月15日-2019年8月18日
+
+活動地點：[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[史坦波中心](https://zh.wikipedia.org/wiki/史坦波中心 "wikilink")
 
 ## 參考資料
 

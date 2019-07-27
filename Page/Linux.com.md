@@ -1,4 +1,4 @@
-**Linux.com**是一個由[Linux基金會所擁有的網站名稱](../Page/Linux基金會.md "wikilink")，該網站目前是關於[Linux的資訊的主要來源](../Page/Linux.md "wikilink")，包含了軟體、文件以及橫跨伺服器、桌上型/筆記型電腦、行動、嵌入式領域的問題與回答。Linux.com提供免費的Linux教學課程、新聞、部落格、論壇、討論群組、Linux軟體及硬體目錄、以及工作版。@linux.com這個虛擬的電子郵件後綴僅授予那些致力於社群及Linux發行版的人們。
+**Linux.com**是一個由[Linux基金會](../Page/Linux基金會.md "wikilink")所擁有的網站名稱，該網站目前是關於[Linux](../Page/Linux.md "wikilink")的資訊的主要來源，包含了軟體、文件以及橫跨伺服器、桌上型/筆記型電腦、行動、嵌入式領域的問題與回答。Linux.com提供免費的Linux教學課程、新聞、部落格、論壇、討論群組、Linux軟體及硬體目錄、以及工作版。@linux.com這個虛擬的電子郵件後綴僅授予那些致力於社群及Linux發行版的人們。
 
 就像Linux本身，Linux.com計畫依靠社群創造及推動內容及對話。Linux.com的成員有99美元的年費，而學生則是25美元的折扣價。
 
@@ -9,7 +9,7 @@ Linux系統公司（後來改為VA軟體公司，然後由SourceForge公司接�
 
 Linux.com於2008年12月暫停發佈新文章，但在2009年元旦的一篇公告中暗示將會在一次未具體說明的變動後恢復運作；但又表示出於法律上的理由無法清楚說明變動\[1\]。
 
-2009年3月3日，[Linux基金會宣佈他們將會接手Linux](../Page/Linux基金會.md "wikilink").com的管理與運作\[2\]。
+2009年3月3日，[Linux基金會](../Page/Linux基金會.md "wikilink")宣佈他們將會接手Linux.com的管理與運作\[2\]。
 
 ## 參考資料
 

@@ -1,7 +1,7 @@
 《**Can't
-Stop**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE第五張](../Page/CNBLUE.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")（連同日語EP計算則為第九張），在2014年2月24日由[FNC娛樂製作](../Page/FNC娛樂.md "wikilink")，[Mnet
+Stop**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")第五張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")（連同日語EP計算則為第九張），在2014年2月24日由[FNC娛樂](../Page/FNC娛樂.md "wikilink")製作，[Mnet
 Media發行](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。EP包括了6首歌，並以《Can't
-Stop》作主打單曲。這張EP標誌著CNBLUE一次音樂大轉型，主唱[鄭容和首次拋棄結他](../Page/鄭容和.md "wikilink")，以鋼琴演奏大部分曲目。他在一次訪問中表示，在《Diamond
+Stop》作主打單曲。這張EP標誌著CNBLUE一次音樂大轉型，主唱[鄭容和](../Page/鄭容和.md "wikilink")首次拋棄結他，以鋼琴演奏大部分曲目。他在一次訪問中表示，在《Diamond
 Girl》一曲可以聽到英倫搖滾遇上流行搖滾及拉丁風旋律的效果\[1\]。
 
 ## 曲目

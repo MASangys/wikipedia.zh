@@ -1,5 +1,5 @@
 **ACM通讯**（Communications of the
-ACM，CACM）是[计算机协会面向所有会员发行的一种](../Page/计算机协会.md "wikilink")[杂志](../Page/杂志.md "wikilink")，于1957年创建。该杂志是最久远最受尊敬的计算机出版物之一。
+ACM，CACM）是[计算机协会](../Page/计算机协会.md "wikilink")面向所有会员发行的一种[杂志](../Page/杂志.md "wikilink")，于1957年创建。该杂志是最久远最受尊敬的计算机出版物之一。
 
 ## 著名文章
 

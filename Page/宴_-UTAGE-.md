@@ -1,5 +1,5 @@
 《**宴
--UTAGE-**》是[T.M.Revolution在](../Page/T.M.Revolution.md "wikilink")2011年11月16日发行的迷你专辑。是自身第二张迷你专辑。唱片由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（Epic
+-UTAGE-**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在2011年11月16日发行的迷你专辑。是自身第二张迷你专辑。唱片由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（Epic
 Records Japan）代理發行。
 
 ## 概要

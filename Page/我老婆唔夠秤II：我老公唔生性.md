@@ -1,4 +1,4 @@
-2012年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[鄭伊健](../Page/鄭伊健.md "wikilink")、[蔡卓妍領銜主演](../Page/蔡卓妍.md "wikilink")，由[阮世生執導](../Page/阮世生.md "wikilink")，由[寰宇娛樂出品](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")。是於2002年上映的《[我老婆唔夠秤](https://zh.wikipedia.org/wiki/:zh-yue:我老婆唔夠秤 "wikilink")》的續作。
+2012年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[鄭伊健](../Page/鄭伊健.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")領銜主演，由[阮世生](../Page/阮世生.md "wikilink")執導，由[寰宇娛樂出品](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")。是於2002年上映的《[我老婆唔夠秤](https://zh.wikipedia.org/wiki/:zh-yue:我老婆唔夠秤 "wikilink")》的續作。
 獲選為2012年度【香港電影評論學會】八部推薦電影之一\[1\]。
 
 ## 演員表
@@ -20,7 +20,7 @@
 <td><p><strong><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></strong></p></td>
 <td><p><strong>馬淑玲</strong></p></td>
 <td><p><strong>YoYo</strong>，張十三妻子<br />
-與林書浩是小學同學，童年<a href="../Page/陳沛妍.md" title="wikilink">陳沛妍飾演</a></p></td>
+與林書浩是小學同學，童年<a href="../Page/陳沛妍.md" title="wikilink">陳沛妍</a>飾演</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/張歆藝" title="wikilink">張歆藝</a></strong></p></td>
@@ -175,7 +175,7 @@
   - 美術指導：馮繼輝
   - 服裝指導：蔡彥文
   - 出品公司：[寰宇娛樂有限公司](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")
-  - 聯合出品：[太陽娛樂文化有限公司](../Page/太陽娛樂文化.md "wikilink")、北京綜藝[星皓娛樂文化有限公司](https://zh.wikipedia.org/wiki/星皓娛樂 "wikilink")、廣州英明文化傳播有限公司
+  - 聯合出品：[太陽娛樂文化](../Page/太陽娛樂文化.md "wikilink")有限公司、北京綜藝[星皓娛樂文化有限公司](https://zh.wikipedia.org/wiki/星皓娛樂 "wikilink")、廣州英明文化傳播有限公司
 
 ## 參考
 

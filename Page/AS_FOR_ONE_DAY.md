@@ -1,10 +1,10 @@
 「**AS FOR ONE
-DAY**」是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第18张[单曲](../Page/单曲.md "wikilink")，於2003年4月23日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+DAY**」是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第18张[单曲](../Page/单曲.md "wikilink")，於2003年4月23日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「AS FOR ONE
-    DAY」是[早安少女組。二期成員](../Page/早安少女組。.md "wikilink")[保田圭的畢業單曲](../Page/保田圭.md "wikilink")。
+    DAY」是[早安少女組。](../Page/早安少女組。.md "wikilink")二期成員[保田圭](../Page/保田圭.md "wikilink")的畢業單曲。
   - 此單曲收錄了第4张单曲「[Memory
     青春之光](../Page/Memory_青春之光.md "wikilink")」的B面曲「Never
     Forget」的「Never Forget（Rock ver.）」

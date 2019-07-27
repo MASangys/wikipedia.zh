@@ -1,4 +1,4 @@
-《**假面騎士Drive**》（，），從2014年10月5日起於朝日電視台放映，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Drive也是該劇主角變身的英雄的名字。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第16部[平成系列作品](../Page/平成.md "wikilink")，口號是「這個男人，既是刑警也是假面騎士！」。
+《**假面騎士Drive**》（，），從2014年10月5日起於朝日電視台放映，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Drive也是該劇主角變身的英雄的名字。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第16部[平成](../Page/平成.md "wikilink")系列作品，口號是「這個男人，既是刑警也是假面騎士！」。
 
 播映方面，台灣東森系列的綜合台及超視台於《假面騎士鎧武》播映完畢後，跳過本作、後作《假面騎士Ghost》，播出《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》，本作是繼《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》及《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》之後第三部沒有在台灣播出的平成假面騎士作品。
 
@@ -16,7 +16,7 @@
     除第1話,最終話/特別篇,本作首次在大多集數取消上集提要和開頭,直接播片頭曲。
     演唱本作片頭曲的歌手[松岡充](https://zh.wikipedia.org/wiki/松岡充 "wikilink"),曾演劇場版《[假面騎士W
     Forever A至Z/命運的Gaia
-    Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")》的敵人大道克己/假面騎士Eternal和演唱該劇場版主題曲《W》\[3\],是第二位過去曾先參與平成[假面騎士系列角色](../Page/假面騎士系列.md "wikilink"),後來演唱假面騎士電視版片頭曲的歌手\[4\],亦是首位過去曾演假面騎士變身者的平成[假面騎士系列電視版片頭曲主唱](../Page/假面騎士系列.md "wikilink")\[5\]\[6\]。
+    Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")》的敵人大道克己/假面騎士Eternal和演唱該劇場版主題曲《W》\[3\],是第二位過去曾先參與平成[假面騎士系列](../Page/假面騎士系列.md "wikilink")角色,後來演唱假面騎士電視版片頭曲的歌手\[4\],亦是首位過去曾演假面騎士變身者的平成[假面騎士系列](../Page/假面騎士系列.md "wikilink")電視版片頭曲主唱\[5\]\[6\]。
     另外是自《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》之後再次於劇中使用**假面騎士**的稱呼，亦繼《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》後第二次變身器擁有人格的演繹。
     本作世界觀設定與前作《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》\[7\]和後作《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》相連，之後於2017年上映的《[假面騎士平成Generations
     FINAL Build & EX-AID with
@@ -542,7 +542,7 @@ type Formula形態時所屬的的騎士踢。移速手鐲按下按鈕「Igniter�
 跳躍力：33m<br />
 行動速度：100m / 5.6秒</p></td>
 <td><p>type Speed形態為主，輪胎部位為紫色和形狀猶如手裡劍</p></td>
-<td><p>原有能力兼具<a href="../Page/忍者.md" title="wikilink">忍者一樣變幻自在的戰鬥技巧</a>，可作分身、隱身或向目標投放手裡劍光束</p></td>
+<td><p>原有能力兼具<a href="../Page/忍者.md" title="wikilink">忍者</a>一樣變幻自在的戰鬥技巧，可作分身、隱身或向目標投放手裡劍光束</p></td>
 <td><p><strong>Shadow Syuriken</strong><br />
 原文：<br />
 移速手鐲推下手柄一或三次後發動，遠距離向目標放出光束手裡劍。</p></td>
@@ -838,7 +838,7 @@ type Formula形態時所屬的的騎士踢。移速手鐲按下按鈕「Igniter�
 跳躍力：44.3m<br />
 行動速度：100m / 0.288秒</p></td>
 <td><p>type Formula形態為主，右手輪胎部位為绿色</p></td>
-<td><p>原有能力兼帶<a href="../Page/千斤頂.md" title="wikilink">千斤頂形的裝備Jacky</a> Riser，除了使用作架高重物外，亦可當作小型護盾或伸縮時用作突擊目標</p></td>
+<td><p>原有能力兼帶<a href="../Page/千斤頂.md" title="wikilink">千斤頂</a>形的裝備Jacky Riser，除了使用作架高重物外，亦可當作小型護盾或伸縮時用作突擊目標</p></td>
 <td><p><strong>Jacky Lift</strong>[19]<br />
 移速手鐲推下手掣三次後發動，千斤頂形裝備Jacky Riser伸縮性彈射向目標作突擊。</p></td>
 </tr>
@@ -855,7 +855,7 @@ type Formula形態時所屬的的騎士踢。移速手鐲按下按鈕「Igniter�
 跳躍力：45.2m<br />
 行動速度：100m / 0.25秒</p></td>
 <td><p>type Formula形態為主，右手輪胎部位為金黄色</p></td>
-<td><p>原有能力兼帶<a href="../Page/扳手.md" title="wikilink">扳手型裝備Grasper</a> Crow，猶如利爪般作近戰使用</p></td>
+<td><p>原有能力兼帶<a href="../Page/扳手.md" title="wikilink">扳手</a>型裝備Grasper Crow，猶如利爪般作近戰使用</p></td>
 <td><p><strong>Sparner Rotation</strong>[20]<br />
 移速手鐲推下手掣一次後發動，扳手型武器Grasper Crow高速地迴轉以增加殺傷力。</p></td>
 </tr>
@@ -1126,7 +1126,7 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
   -
     原文：
     使用「Jacky
-    F02」移速戰車後附帶的[千斤頂形狀裝備](../Page/千斤頂.md "wikilink")，可作護手之用及伸縮彈射來攻擊目標。
+    F02」移速戰車後附帶的[千斤頂](../Page/千斤頂.md "wikilink")形狀裝備，可作護手之用及伸縮彈射來攻擊目標。
 
 <!-- end list -->
 
@@ -1137,7 +1137,7 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
   -
     原文：
     使用「Sparner
-    F03」移速戰車後附帶的[扳手形狀的尖爪武器](../Page/扳手.md "wikilink")，主要作近戰之用。
+    F03」移速戰車後附帶的[扳手](../Page/扳手.md "wikilink")形狀的尖爪武器，主要作近戰之用。
 
 #### 共通系列必殺技
 
@@ -1758,7 +1758,7 @@ Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car
 
   -
     原文： / *Tokujo-Ka Key*
-    使用性質與移速戰車及信號摩托相同，接入量產型Mach驅動器內作變身的[USB型工具](../Page/USB.md "wikilink")。
+    使用性質與移速戰車及信號摩托相同，接入量產型Mach驅動器內作變身的[USB](../Page/USB.md "wikilink")型工具。
 
 <!-- end list -->
 
@@ -1928,7 +1928,7 @@ Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car
 馬力：250ps（183.9kw）<br />
 最高時速：370km/h</p></td>
 <td><p>全身主色分為紅色或藍色、搭配色為黑色</p></td>
-<td><p>高性能的<a href="../Page/卡丁車.md" title="wikilink">卡丁車型飛行載具</a>。<br />
+<td><p>高性能的<a href="../Page/卡丁車.md" title="wikilink">卡丁車</a>型飛行載具。<br />
 車身底部採用渦輪式飛行裝置以能夠作空中懸浮；前端具有能夠連射光束彈的裝備；車頭所裝置的徽章型傳感器，能夠與該名乘搭的假面騎士作意念的訊號連接，並跟隨意願作出轉換手動或自動駕駛模式。<br />
 集合兩台後可作為賽特朗的配件般合體。</p></td>
 </tr>
@@ -2009,7 +2009,7 @@ Booster Tridoron</strong></p></td>
 <td><p>style="text-align:center”|Shift Dead Heat</p></td>
 <td><p>style="text-align:center”|</p></td>
 <td><p>style="text-align:center”|移速爆熱</p></td>
-<td><p><a href="../Page/邊車.md" title="wikilink">邊車摩托</a></p></td>
+<td><p><a href="../Page/邊車.md" title="wikilink">邊車</a>摩托</p></td>
 <td><p>與假面騎士Mach持有的性能所結合的形態</p></td>
 <td><p>變身形態<strong>type Dead Heat</strong><br />
 假面騎士Mach使用變身形態<strong>Dead Heat Mach</strong><br />
@@ -2141,7 +2141,7 @@ Chase原本的記憶就備份在這台移速戰車中，一度因為被毀損而
 <td><p>style="text-align:center”|Midnight Shadow</p></td>
 <td><p>style="text-align:center”|</p></td>
 <td><p>style="text-align:center”|午夜魅影</p></td>
-<td><p>擁有如<a href="../Page/忍者.md" title="wikilink">忍者般身手的戰鬥模式</a></p></td>
+<td><p>擁有如<a href="../Page/忍者.md" title="wikilink">忍者</a>般身手的戰鬥模式</p></td>
 <td><p>具有能力包括有分身、隱身及發出光束手裡劍</p></td>
 <td></td>
 <td></td>
@@ -2281,7 +2281,7 @@ Chase原本的記憶就備份在這台移速戰車中，一度因為被毀損而
 <td><p>style="color:#B22222”|暴走旅者</p></td>
 <td><p><a href="../Page/日本暴走卡車.md" title="wikilink">暴走卡車</a></p></td>
 <td><p>車輛單體本身能力具有放出鎖鏈纏繞物件、<br />
-能投放<a href="../Page/演歌.md" title="wikilink">演歌式音響及燦爛光燈擾亂敵人</a></p></td>
+能投放<a href="../Page/演歌.md" title="wikilink">演歌</a>式音響及燦爛光燈擾亂敵人</p></td>
 <td><p>個性豪放，喜歡有男子氣概的人，因此在進之介身分曝光前和追田警部補相遇時便一拍即合。</p></td>
 <td></td>
 <td></td>
@@ -2817,7 +2817,7 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 <td><p>122kg</p></td>
 <td><p>美波護郎</p></td>
 <td><p>9</p></td>
-<td><p>雙手能夠放電或製造落雷攻擊；以帶電的拳擊作近身攻擊；能夠使用<a href="../Page/電磁鐵.md" title="wikilink">電磁鐵的原理</a>，操縱鐵製物品及製造擁有反彈力的力場</p></td>
+<td><p>雙手能夠放電或製造落雷攻擊；以帶電的拳擊作近身攻擊；能夠使用<a href="../Page/電磁鐵.md" title="wikilink">電磁鐵</a>的原理，操縱鐵製物品及製造擁有反彈力的力場</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -4424,12 +4424,11 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
   - [《假面騎士Drive》東映官網](http://www.toei.co.jp/tv/Drive/)
 
   -
-## 參考資料
-
 [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
 [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
 [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
 [Category:汽车电视节目](https://zh.wikipedia.org/wiki/Category:汽车电视节目 "wikilink")
+[Category:人工智能題材作品](https://zh.wikipedia.org/wiki/Category:人工智能題材作品 "wikilink")
 
 1.  <https://www.facebook.com/luckycomics/posts/1566158083453573>
 
@@ -4437,7 +4436,7 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 3.  過去劇場版都有假面騎士變身者兼任主唱其劇場版主題曲,如吉川晃司於[假面騎士×假面騎士 OOO & W feat. Skull
     Movie大戰
-    Core飾演鳴海莊吉](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")/假面騎士Skull,並於其劇場版與[大黑摩季合唱主題曲](../Page/大黑摩季.md "wikilink")《HEART∞BREAKER》,後來[及川光博於](../Page/及川光博.md "wikilink")[超級英雄大戰GP
+    Core飾演鳴海莊吉](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")/假面騎士Skull,並於其劇場版與[大黑摩季](../Page/大黑摩季.md "wikilink")合唱主題曲《HEART∞BREAKER》,後來[及川光博](../Page/及川光博.md "wikilink")於[超級英雄大戰GP
     假面騎士3號演黑井響一郎](../Page/超級英雄大戰GP_假面騎士3號.md "wikilink")/假面騎士3號,;並於其劇場版主唱主題曲《Who's
     That Guy》。
 
@@ -4445,10 +4444,10 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 5.  [假面騎士電王第二期主題曲由變身電王各種形態的四位異魔神的聲優主唱](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink"),雖然至今首個及唯一由劇中聲優演唱假面騎士電視版片頭曲,但因為劇中不是以真人演員演出而不計;特別版如OOO
     《Anything Goes Special
-    Edit》,其主唱由演火野映司/假面騎士OOO的[渡部秀和](../Page/渡部秀.md "wikilink")[大黑摩季合唱](../Page/大黑摩季.md "wikilink"),但只於劇場版《假面騎士×假面騎士
+    Edit》,其主唱由演火野映司/假面騎士OOO的[渡部秀](../Page/渡部秀.md "wikilink")和[大黑摩季](../Page/大黑摩季.md "wikilink")合唱,但只於劇場版《假面騎士×假面騎士
     Fourze & OOO Movie大戰 Mega Max》作插曲而不計。
 
-6.  過去亦有[假面騎士系列電視版片頭曲歌手客串](../Page/假面騎士系列.md "wikilink")[假面騎士系列角色](../Page/假面騎士系列.md "wikilink"),並非常規角色。如Decade的Gackt----結城
+6.  過去亦有[假面騎士系列](../Page/假面騎士系列.md "wikilink")電視版片頭曲歌手客串[假面騎士系列](../Page/假面騎士系列.md "wikilink")角色,並非常規角色。如Decade的Gackt----結城
     丈二(Decade夏季劇場版);W的上木彩矢&淺沼拓也---歌唱比賽裁判 (TV版23-24話);
     Ghost的氣志團成員--英雄團(Ghost夏季劇場版)
 

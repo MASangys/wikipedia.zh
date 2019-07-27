@@ -1,5 +1,5 @@
 《**Love Is
-Love**》（意思：愛就是愛）是[鄭秀文的第](../Page/鄭秀文.md "wikilink")35張個人專輯和第26張粵語專輯，於2013年12月23日發行\[1\]
+Love**》（意思：愛就是愛）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第35張個人專輯和第26張粵語專輯，於2013年12月23日發行\[1\]
 \[2\]。
 
 ## 曲目
@@ -49,8 +49,8 @@ Love**》（意思：愛就是愛）是[鄭秀文的第](../Page/鄭秀文.md "w
     warehouse](https://zh.wikipedia.org/wiki/CD_warehouse "wikilink")
     銷量冠軍 (連續第三星期)
   - [香港唱片](../Page/香港唱片.md "wikilink") 2013年第51周冠軍 (今周第2位)
-  - [HMV全球榜](../Page/HMV.md "wikilink")&亞洲榜銷量冠軍 (連續第三星期)
-  - [香港唱片商會銷量榜](../Page/香港唱片商會.md "wikilink") 銷量冠軍 (連續第四星期)
+  - [HMV](../Page/HMV.md "wikilink")全球榜&亞洲榜銷量冠軍 (連續第三星期)
+  - [香港唱片商會](../Page/香港唱片商會.md "wikilink")銷量榜 銷量冠軍 (連續第四星期)
   - [iTunes熱門專輯No](https://zh.wikipedia.org/wiki/iTunes "wikilink").1
     (2014年1月) (現時第3位)
   - [Yesasia所有華語音樂暢銷產品](https://zh.wikipedia.org/wiki/Yesasia "wikilink")7

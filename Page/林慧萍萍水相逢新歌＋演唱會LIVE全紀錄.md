@@ -1,5 +1,5 @@
-【**林慧萍萍水相逢新歌＋演唱會LIVE全紀錄**】是歌手[林慧萍的個人二十六張專輯](../Page/林慧萍.md "wikilink")；[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")2003年8月3日發行。
-這張專輯是林慧萍於[台北國際會議中心舉行入行](../Page/台北國際會議中心.md "wikilink")20年售票演唱會『萍水相逢』的
+【**林慧萍萍水相逢新歌＋演唱會LIVE全紀錄**】是歌手[林慧萍](../Page/林慧萍.md "wikilink")的個人二十六張專輯；[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")2003年8月3日發行。
+這張專輯是林慧萍於[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")舉行入行20年售票演唱會『萍水相逢』的
 LIVE專輯 \[1\] \[2\]。
 
 ## 專輯簡介
@@ -54,7 +54,7 @@ LIVE專輯 \[1\] \[2\]。
 <td></td>
 <td></td>
 <td><p>4:14</p></td>
-<td><p><a href="../Page/陳淑樺.md" title="wikilink">陳淑樺翻唱</a>；收錄於海外版的《星光滿天》專輯 <a href="https://zh.wikipedia.org/wiki/李翊君" title="wikilink">李翊君翻唱</a>；收錄於《海枯石爛》專輯</p></td>
+<td><p><a href="../Page/陳淑樺.md" title="wikilink">陳淑樺</a>翻唱；收錄於海外版的《星光滿天》專輯 <a href="https://zh.wikipedia.org/wiki/李翊君" title="wikilink">李翊君翻唱</a>；收錄於《海枯石爛》專輯</p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
@@ -136,7 +136,7 @@ LIVE專輯 \[1\] \[2\]。
 <td><p>4:32</p></td>
 <td><p>音樂磁場翻唱；收錄於【國語經典名曲12】</p>
 <p>江明學翻唱；收錄於【江明學的心情盒子】</p>
-<p><a href="../Page/侯湘婷.md" title="wikilink">侯湘婷翻唱</a>；收錄於【侯湘婷 17、18、19】</p></td>
+<p><a href="../Page/侯湘婷.md" title="wikilink">侯湘婷</a>翻唱；收錄於【侯湘婷 17、18、19】</p></td>
 </tr>
 </tbody>
 </table>
@@ -213,8 +213,8 @@ LIVE專輯 \[1\] \[2\]。
 <td></td>
 <td></td>
 <td><p>3:37</p></td>
-<td><p><a href="../Page/張清芳.md" title="wikilink">張清芳翻唱</a>；收錄於〈雙陳故事〉</p>
-<p><a href="../Page/錦繡二重唱.md" title="wikilink">錦繡二重唱翻唱</a>；收錄於〈錦鏽羅曼史II〉</p></td>
+<td><p><a href="../Page/張清芳.md" title="wikilink">張清芳</a>翻唱；收錄於〈雙陳故事〉</p>
+<p><a href="../Page/錦繡二重唱.md" title="wikilink">錦繡二重唱</a>翻唱；收錄於〈錦鏽羅曼史II〉</p></td>
 </tr>
 <tr class="even">
 <td><p>07</p></td>
@@ -234,7 +234,7 @@ LIVE專輯 \[1\] \[2\]。
 <td></td>
 <td></td>
 <td><p>4:27</p></td>
-<td><p><a href="../Page/高勝美.md" title="wikilink">高勝美</a>、任潔玲、音樂磁場、<a href="https://zh.wikipedia.org/wiki/姜育恆" title="wikilink">姜育恆</a>、<a href="https://zh.wikipedia.org/wiki/李翊君" title="wikilink">李翊君</a>、<a href="../Page/邰正宵.md" title="wikilink">邰正宵先後翻唱</a> <a href="../Page/周慧敏.md" title="wikilink">周慧敏翻唱粵語版</a>『癡心換情深』</p></td>
+<td><p><a href="../Page/高勝美.md" title="wikilink">高勝美</a>、任潔玲、音樂磁場、<a href="https://zh.wikipedia.org/wiki/姜育恆" title="wikilink">姜育恆</a>、<a href="https://zh.wikipedia.org/wiki/李翊君" title="wikilink">李翊君</a>、<a href="../Page/邰正宵.md" title="wikilink">邰正宵</a>先後翻唱 <a href="../Page/周慧敏.md" title="wikilink">周慧敏</a>翻唱粵語版『癡心換情深』</p></td>
 </tr>
 <tr class="even">
 <td><p>09</p></td>

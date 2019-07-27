@@ -1,14 +1,15 @@
 **Lotus
-Domino**是[IBM的一个服务器产品](../Page/IBM.md "wikilink")，提供了企业级的[电子邮件](../Page/电子邮件.md "wikilink")、[协作能力以及一个可定制的应用平台](https://zh.wikipedia.org/wiki/协作软件 "wikilink")。Domino最早被称为**Lotus
+Domino**是[IBM](../Page/IBM.md "wikilink")的一个服务器产品，提供了企业级的[电子邮件](../Page/电子邮件.md "wikilink")、[协作能力以及一个可定制的应用平台](https://zh.wikipedia.org/wiki/协作软件 "wikilink")。Domino最早被称为**Lotus
 Notes
 Server**，是[莲花公司的客户端](https://zh.wikipedia.org/wiki/莲花公司 "wikilink")-服务器通信技术的服务器组件。它可以被用作[Lotus
-Notes的应用服务器并](../Page/IBM_Lotus_Notes.md "wikilink")/或作为一个网页服务器。它还包含了一个内置的数据库系统，使用NSF格式。其目录服务也可以被用作认证的目的。\[1\]
+Notes的应用服务器并](../Page/IBM_Lotus_Notes.md "wikilink")/或作为一个网页服务器。它还包含了一个内置的数据库系统，使用NSF格式。其目录服务也可以被用作认证的目的。\[1\]2018年12月，将软件全部出售给了[HCL
+Technologies](https://zh.wikipedia.org/wiki/HCL_Technologies "wikilink")\[2\]。
 
 ## 面向文档的数据库
 
 IBM Lotus Domino产品系列使用被称为NSF（Notes Storage
 Facility）的面向文档的数据库来管理半结构化数据，如[富文本](https://zh.wikipedia.org/wiki/富文本 "wikilink")（Rich
-Text）及文件。数据以文档的形式被储存，并且视图可以使查找特定文档十分高效。面向文档的数据库\[2\]是Domino架构\[3\]的核心部分。
+Text）及文件。数据以文档的形式被储存，并且视图可以使查找特定文档十分高效。面向文档的数据库\[3\]是Domino架构\[4\]的核心部分。
 
 ### 文档
 
@@ -125,4 +126,5 @@ Versions](https://zh.wikipedia.org/wiki/Lotus_Notes#Versions "wikilink").
 1.  [Ticket Verifier Technical
     Components](http://help.sap.com/erp2005_ehp_04/helpdata/EN/22/bf642724ca20418924e57c51412191/frameset.htm)
 2.
-3.  [1](http://www-12.lotus.com/ldd/doc/uafiles.nsf/docs/inside-notes/$File/insidenotes.pdf)
+3.
+4.  [1](http://www-12.lotus.com/ldd/doc/uafiles.nsf/docs/inside-notes/$File/insidenotes.pdf)

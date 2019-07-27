@@ -1,13 +1,13 @@
 **JSP标准标签库**（**JSP Standard Tag Library**）是[Java
-EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")[网络应用程序开发平台的组成部分](../Page/网络应用程序.md "wikilink")。它在[JSP规范的基础上](../Page/JSP.md "wikilink")，扩充了一个JSP的[标签库来完成一些通用任务](https://zh.wikipedia.org/wiki/标签库 "wikilink")，比如[XML数据处理](../Page/XML.md "wikilink")、条件执行、[数据库访问](../Page/数据库.md "wikilink")、循环和[国际化](https://zh.wikipedia.org/wiki/国际化 "wikilink")。
+EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")开发平台的组成部分。它在[JSP](../Page/JSP.md "wikilink")规范的基础上，扩充了一个JSP的[标签库来完成一些通用任务](https://zh.wikipedia.org/wiki/标签库 "wikilink")，比如[XML](../Page/XML.md "wikilink")数据处理、条件执行、[数据库](../Page/数据库.md "wikilink")访问、循环和[国际化](https://zh.wikipedia.org/wiki/国际化 "wikilink")。
 
-JSTL是在[JCP下](../Page/JCP.md "wikilink")，作为**JSR**
+JSTL是在[JCP](../Page/JCP.md "wikilink")下，作为**JSR**
 52被开发出来的。2006年5月8日发布了JSTL
 1.2，接下来是2011年12月7日的JSTL 1.2.1。\[1\]
 
 ## 概述
 
-JSTL提供了一个有效的途径，以在[JSP页面中嵌入逻辑](../Page/JSP.md "wikilink")，而不是直接嵌入[Java代码](../Page/Java.md "wikilink")。使用标准标签集，减少了Java代码导致的不连续，从而提高代码的可维护性，并达到[应用软件代码开发与](https://zh.wikipedia.org/wiki/应用软件 "wikilink")[用户界面间的](../Page/用户界面.md "wikilink")[关注点分离](../Page/关注点分离.md "wikilink")。
+JSTL提供了一个有效的途径，以在[JSP](../Page/JSP.md "wikilink")页面中嵌入逻辑，而不是直接嵌入[Java](../Page/Java.md "wikilink")代码。使用标准标签集，减少了Java代码导致的不连续，从而提高代码的可维护性，并达到[应用软件代码开发与](https://zh.wikipedia.org/wiki/应用软件 "wikilink")[用户界面](../Page/用户界面.md "wikilink")间的[关注点分离](../Page/关注点分离.md "wikilink")。
 
   - 下面是全部六个JSTL标签库的描述：
       - [核心库](http://docs.oracle.com/javaee/5/jstl/1.1/docs/tlddocs/c/tld-summary.html)，如<c:if>和<c:when>。

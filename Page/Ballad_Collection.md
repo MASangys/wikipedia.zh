@@ -40,7 +40,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     （作詞・作曲：小室哲哉 Rap詞：日高光啓 編曲：華原大輔）
       -
         6th專輯「Buzz Communication」曲目
-        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也](../Page/浦田直也.md "wikilink")・[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")・[與真司郎](../Page/與真司郎.md "wikilink")・[末吉秀太主唱](../Page/末吉秀太.md "wikilink")
+        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也](../Page/浦田直也.md "wikilink")・[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")・[與真司郎](../Page/與真司郎.md "wikilink")・[末吉秀太](../Page/末吉秀太.md "wikilink")主唱
 3.  **[Day by day](../Page/不屈的心.md "wikilink")**
     （作詞・作曲：小室哲哉 Rap詞：日高光啓 編曲：齋藤真也）
       -
@@ -56,18 +56,18 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
       -
         20th單曲・京都和服「友禪」的廣告歌曲
         「啟程之歌」的B面曲
-        [宇野實彩子與](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")[伊藤千晃主唱](../Page/伊藤千晃.md "wikilink")
+        [宇野實彩子與](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")[伊藤千晃](../Page/伊藤千晃.md "wikilink")主唱
 6.  **[我所驚覺的任性自由](../Page/CHOICE_IS_YOURS.md "wikilink")**（あきれるくらいわがままな自由）
     （作詞：Kenn Kato、作曲：ダイキ）
       -
         4th迷你專輯「CHOICE IS YOURS」曲目
-        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也](../Page/浦田直也.md "wikilink")・[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")・[與真司郎](../Page/與真司郎.md "wikilink")・[末吉秀太主唱](../Page/末吉秀太.md "wikilink")
+        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也](../Page/浦田直也.md "wikilink")・[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")・[與真司郎](../Page/與真司郎.md "wikilink")・[末吉秀太](../Page/末吉秀太.md "wikilink")主唱
 7.  **[Love Candle](../Page/MIRAGE_\(AAA單曲\).md "wikilink")**
     （作詞：jam 作曲：[日比野裕史](https://zh.wikipedia.org/wiki/日比野裕史 "wikilink")
     編曲：水島康貴）
       -
         17th單曲・「MIRAGE」的B面曲
-        [浦田直也](../Page/浦田直也.md "wikilink")・[末吉秀太主唱](../Page/末吉秀太.md "wikilink")
+        [浦田直也](../Page/浦田直也.md "wikilink")・[末吉秀太](../Page/末吉秀太.md "wikilink")主唱
 8.  **[Wonderful
     Life](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")**
     （作詞：中島有紀 作曲：Sin）
@@ -81,7 +81,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     （作詞・作曲：[中村中](../Page/中村中.md "wikilink")）
       -
         11th單曲
-        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也主唱](../Page/浦田直也.md "wikilink")
+        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也](../Page/浦田直也.md "wikilink")主唱
 11. **[夢想的片段](https://zh.wikipedia.org/wiki/ALL/2 "wikilink")**（夢ノカケラ）
     （作詞：中島有紀 作曲：Sin）
       -
@@ -106,26 +106,26 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 1.  [Last Love](../Page/777_～TRIPLE_SEVEN～.md "wikilink")
       -
-        [西島隆弘主唱](../Page/西島隆弘.md "wikilink")
+        [西島隆弘](../Page/西島隆弘.md "wikilink")主唱
 2.  [HORIZON](https://zh.wikipedia.org/wiki/depArture "wikilink")
       -
         [宇野實彩子主唱](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")
 3.  [啟程之歌](../Page/啟程之歌_\(AAA單曲\).md "wikilink")（旅ダチノウタ）
       -
-        [浦田直也主唱](../Page/浦田直也.md "wikilink")
+        [浦田直也](../Page/浦田直也.md "wikilink")主唱
 4.  [SHE的真相](https://zh.wikipedia.org/wiki/Get_啾!_/_SHE的真相 "wikilink")（SHEの事実）
       -
         [日高光啓主唱](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")
 5.  [Hasta la vista ～再見～](../Page/CHOICE_IS_YOURS.md "wikilink")（Hasta
     la vista 〜アスタ・ラ・ビスタ〜）
       -
-        [與真司郎主唱](../Page/與真司郎.md "wikilink")
+        [與真司郎](../Page/與真司郎.md "wikilink")主唱
 6.  [Hide & Seek](../Page/Hide-away.md "wikilink")
       -
-        [末吉秀太主唱](../Page/末吉秀太.md "wikilink")
+        [末吉秀太](../Page/末吉秀太.md "wikilink")主唱
 7.  [Us](../Page/ALL_\(AAA專輯\).md "wikilink")
       -
-        [伊藤千晃主唱](../Page/伊藤千晃.md "wikilink")
+        [伊藤千晃](../Page/伊藤千晃.md "wikilink")主唱
 
 [Category:AAA的專輯](https://zh.wikipedia.org/wiki/Category:AAA的專輯 "wikilink")
 [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")

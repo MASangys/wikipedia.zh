@@ -3,7 +3,7 @@
 
 ## 传记
 
-Donkeyboy因为[Myspace空间被华纳的一名员工发现而签约](../Page/Myspace.md "wikilink")[華納音樂](../Page/華納音樂集團.md "wikilink")\[1\]
+Donkeyboy因为[Myspace](../Page/Myspace.md "wikilink")空间被华纳的一名员工发现而签约[華納音樂](../Page/華納音樂集團.md "wikilink")\[1\]
 。他们的出道单曲《野心》（*Ambitions*）于2009年3月26日发行。这首歌的副歌部分类似[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")、[比利·吉恩以及](https://zh.wikipedia.org/wiki/比利·吉恩 "wikilink")[麦当娜在](https://zh.wikipedia.org/wiki/麦当娜 "wikilink")1980年代的风格。《野心》在挪威单曲榜打榜，在2009年4月的榜单上取得第七名的位置\[2\]，并在打榜13周后在该榜单取得第一名。《野心》蝉联该榜第一名单长达12周之久，之后被于9月22日发布的第二張单曲《有时候》（*Sometimes*）取代。这是有史以来第一次挪威艺人在这张榜单上占有两个重要位置。\[3\]吉他手彼得·米切尔森用
 “太荒唐了”来形容这种状况。\[4\]
 

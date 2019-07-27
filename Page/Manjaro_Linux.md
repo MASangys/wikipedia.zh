@@ -25,9 +25,9 @@ Linux](../Page/Arch_Linux.md "wikilink")，但拥有自己独立的软件仓库�
 
 ## 发布历史
 
-Manjaro Linux 官方支持的[桌面环境包括](../Page/桌面环境.md "wikilink")
+Manjaro Linux 官方支持的[桌面环境](../Page/桌面环境.md "wikilink")包括
 [Xfce](../Page/Xfce.md "wikilink") （首选）和 [KDE
-Plasma](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")。社区支持的[桌面环境包括](../Page/桌面环境.md "wikilink")：[Enlightenment](../Page/Enlightenment.md "wikilink")、[MATE](../Page/MATE.md "wikilink")、[dde](https://zh.wikipedia.org/wiki/dde "wikilink")
+Plasma](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")。社区支持的[桌面环境](../Page/桌面环境.md "wikilink")包括：[Enlightenment](../Page/Enlightenment.md "wikilink")、[MATE](../Page/MATE.md "wikilink")、[dde](https://zh.wikipedia.org/wiki/dde "wikilink")
 (deepin
 默认桌面)、[LXDE](../Page/LXDE.md "wikilink")、[Cinnamon](../Page/Cinnamon.md "wikilink")、[Gnome等](https://zh.wikipedia.org/wiki/Gnome "wikilink")。同时，也有预装单独的[窗口管理器的社区版本](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")。另外，Manjaro
 还提供网络版(NET-Edition)，可配置自定义的图形环境。此外，通过 Manjaro Linux
@@ -70,7 +70,7 @@ Manjaro，我认为它在过去有着不错的品质，但并没有特別突出�
 ## 外部链接
 
   -
-  - 官方社区
+  - [官方社区](https://forum.manjaro.org/)
 
   - 官方中文社区
 

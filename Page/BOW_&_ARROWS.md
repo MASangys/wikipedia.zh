@@ -1,5 +1,5 @@
 《**BOW &
-ARROWS**》（中文譯名：一觸即發）為[日本團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第40張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月25日於日本發行。
+ARROWS**》（中文譯名：一觸即發）為[日本](../Page/日本.md "wikilink")團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第40張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月25日於日本發行。
 
 ## 解說
 

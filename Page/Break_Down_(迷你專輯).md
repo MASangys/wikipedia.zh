@@ -1,5 +1,5 @@
 《**Break
-Down**》是韓國人氣組合[SS501隊長](../Page/SS501.md "wikilink")[金賢重於](../Page/金賢重.md "wikilink")2011年6月7日由CJ
+Down**》是韓國人氣組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")於2011年6月7日由CJ
 E\&M所發行的首張個人迷你專輯。
 
 ## 概述

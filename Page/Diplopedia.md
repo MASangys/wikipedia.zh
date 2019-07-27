@@ -4,15 +4,15 @@
 of the United States Department of
 State），是[美國國務院國際信息局](https://zh.wikipedia.org/wiki/美國國務院國際信息局 "wikilink")的一個計劃，為運行在[美國政府](../Page/美國聯邦政府.md "wikilink")[內部網](https://zh.wikipedia.org/wiki/內部網 "wikilink")「OpenNet」上的一個Wiki。網站收集關於[外交](../Page/外交.md "wikilink")、[國際關係和](https://zh.wikipedia.org/wiki/國際關係 "wikilink")[國務院情報等內容](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")。
 
-這個wiki可能被位於美國國內外的美國外交部門所使用，可以透過國家內網瀏覽。此外此站點也作為[美國情報體系底下各單位組成的](../Page/美國情報體系.md "wikilink")「」內部網路其中一個唯讀鏡像網站讓使用者進行瀏覽。這兩個網站都被美國政府評為敏感但未分類站點\[2\]，也由於其機密性而都不對公眾開放使用。
+這個wiki可能被位於美國國內外的美國外交部門所使用，可以透過國家內網瀏覽。此外此站點也作為[美國情報體系](../Page/美國情報體系.md "wikilink")底下各單位組成的「」內部網路其中一個唯讀鏡像網站讓使用者進行瀏覽。這兩個網站都被美國政府評為敏感但未分類站點\[2\]，也由於其機密性而都不對公眾開放使用。
 
-與[維基百科相同](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，皆使用[MediaWiki做為網站架構](../Page/MediaWiki.md "wikilink")\[3\]。
+與[維基百科相同](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，皆使用[MediaWiki](../Page/MediaWiki.md "wikilink")做為網站架構\[3\]。
 
 ## 建立與使用
 
 這個專案在Bronk\[4\]於[Wikimania
 2006上的介紹後](https://zh.wikipedia.org/wiki/維基媒體國際會議#2006年度 "wikilink")，於當年9月開始正式運作\[5\]\[6\]，此為前任[國務卿](https://zh.wikipedia.org/wiki/美國國務卿 "wikilink")[康朵麗莎·萊斯在轉型外交概念下所做的大力推動而開始的計劃其中一部分](https://zh.wikipedia.org/wiki/康朵麗莎·萊斯 "wikilink")。根據該計劃，人員利用維基、部落格、社群和虛擬工作環境等Web
-2.0技術為代表性不足的領域提供外交服務\[7\]。在她卸任之後，該計劃繼續在[希拉蕊·柯林頓的外交](https://zh.wikipedia.org/wiki/希拉蕊·柯林頓 "wikilink")[巧實力願景之下進行發展](../Page/巧實力.md "wikilink")，相當依賴網路發展出的[新媒體](../Page/新媒體.md "wikilink")，以及[Twitter](../Page/Twitter.md "wikilink")、[Facebook和](../Page/Facebook.md "wikilink")[YouTube等大型的商業社群媒體網站](../Page/YouTube.md "wikilink")\[8\]。
+2.0技術為代表性不足的領域提供外交服務\[7\]。在她卸任之後，該計劃繼續在[希拉蕊·柯林頓的外交](https://zh.wikipedia.org/wiki/希拉蕊·柯林頓 "wikilink")[巧實力](../Page/巧實力.md "wikilink")願景之下進行發展，相當依賴網路發展出的[新媒體](../Page/新媒體.md "wikilink")，以及[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")和[YouTube](../Page/YouTube.md "wikilink")等大型的商業社群媒體網站\[8\]。
 
 在[Wikimania
 2008中](https://zh.wikipedia.org/wiki/維基媒體國際會議#2008年度 "wikilink")，eDiplomacy公佈了Diplopedia維基專案截至2008年7月的的狀態。根據當時發表的題目：「Diplopedia：美國國務院中的維基文化」（）中所提到，其中共有4,400多則條目、1000個註冊用戶編輯、並擁有65萬次的頁面瀏覽量\[9\]。
@@ -41,7 +41,7 @@ Diplopedia有一個獨特的縮寫和縮略詞分類（為數不少的政府單�
 
 ## Intellipedia
 
-根據維基百科的創辦人[吉米·威爾斯於國會的證詞](../Page/吉米·威爾斯.md "wikilink")\[16\]，有說到垂直和水平資訊共享的區別，並表明這兩者都可能是邁向電子化政府成功的嘗試之一。對於在跨部門水平的分享資訊來說是個優秀的範例，而
+根據維基百科的創辦人[吉米·威爾斯](../Page/吉米·威爾斯.md "wikilink")於國會的證詞\[16\]，有說到垂直和水平資訊共享的區別，並表明這兩者都可能是邁向電子化政府成功的嘗試之一。對於在跨部門水平的分享資訊來說是個優秀的範例，而
 Diplopedia在國務院的官僚體系中共享資訊方面取得了類似的成功。在兩個維基平台上的聲明也都明確鼓勵著使用者們能夠適度的在雙邊交叉發布相關資訊來做分享。
 
 ## 相關條目

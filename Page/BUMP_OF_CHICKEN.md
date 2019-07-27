@@ -1,19 +1,17 @@
-**BUMP OF
-CHICKEN**（バンプ・オブ・チキン）為日本樂團，於1994年組成。略稱有「バンプ」、「BOC」等。經紀公司為[TOY'S
-FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。樂團名有「弱者的反擊」之意。
+**BUMP OF CHICKEN**（）是日本搖滾樂團，於1994年組成。略稱有「」、「BOC」等。經紀公司為[TOY'S
+FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。團名有「弱者的反擊」之意。
 
 ## 所屬成員
 
-  -
-    全員皆為1979於[千葉縣](../Page/千葉縣.md "wikilink")[佐倉市所生](../Page/佐倉市.md "wikilink")（僅藤原於[秋田縣所生](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")）。因秉持著「所有團員皆屬平等」，所以樂團內未決定誰為團長。
-    [藤原基央](https://zh.wikipedia.org/wiki/藤原基央 "wikilink")（ふじわら
-    もとお）：出生於1979年4月12日主唱，同時是吉他手。負責作詞、作曲。
-    [増川弘明](https://zh.wikipedia.org/wiki/増川弘明 "wikilink")（ますかわ
-    ひろあき）：出生於1979年12月20日，吉他手。
-    [直井由文](https://zh.wikipedia.org/wiki/直井由文 "wikilink")（なおい
-    よしふみ）：出生於1979年10月9日，貝斯手。
-    [升秀夫](https://zh.wikipedia.org/wiki/升秀夫 "wikilink")（ます
-    ひでお）：出生於1979年8月10日鼓手。
+全員皆為[千葉縣](../Page/千葉縣.md "wikilink")[佐倉市](../Page/佐倉市.md "wikilink")出身、以及1979年出生（藤原為[秋田縣出生](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")、升為[宮城縣](../Page/宮城縣.md "wikilink")出生）。因秉持著「所有團員皆屬平等」，所以沒有選定團長。
+
+  - （）：出生於1979年4月12日，負責主唱、吉他手、作詞、作曲。
+
+  - （）：出生於1979年12月20日，負責吉他手、和音。
+
+  - （）：出生於1979年10月9日，負責貝斯手、和音。
+
+  - （）：出生於1979年8月10日，負責鼓手、和音。
 
 ## 简介
 
@@ -613,11 +611,21 @@ GOLD GLIDER TOUR 2012</a></strong></p></td>
 | ---------- | ----------------------------------------------------------------------------------------- | -- | --------- | ------------ |
 | 2004年9月16日 | **[SYNCHRONIZED ROCKERS](https://zh.wikipedia.org/wiki/SYNCHRONIZED_ROCKERS "wikilink")** | CD | KICS-1103 | ハイブリッド レインボウ |
 
+## 媒體演出
+
+### 電視
+
+  - [第66回NHK紅白歌合戰](../Page/第66回NHK紅白歌合戰.md "wikilink")（2015年12月31日，[紅白初出場](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")）
+
+### 廣播
+
+  - （1999年10月3日－至今，）
+
 ## 注释
 
 ## 外部链接
 
-  - [BUMP OF CHICKEN official web site](http://www.bumpofchicken.com/) -
+  - [BUMP OF CHICKEN official website](https://www.bumpofchicken.com/) -
     官方网站
 
   - [BUMP OF CHICKEN
@@ -630,9 +638,10 @@ GOLD GLIDER TOUR 2012</a></strong></p></td>
 
   - （「R.I.P.」をはじめ何曲かビデオクリップを公開している。）
 
-  - [PONTSUKA\!\!」](http://web.bayfm.jp/bump/) - 於主持的廣播节目网站
+  - [PONTSUKA\!\!](http://web.bayfm.jp/bump/) - 於主持的廣播节目网站
 
 [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
 [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
 [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
 [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink")
+[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")

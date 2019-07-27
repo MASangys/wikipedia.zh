@@ -1,8 +1,8 @@
 **S.M. The
 Performance**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")，成員包括[瑜鹵允浩](../Page/鄭允浩.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[珉豪](../Page/珉豪.md "wikilink")、[泰民](../Page/泰民.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Ten](../Page/Ten_\(歌手\).md "wikilink")。組合集結了旗下當紅男子組合中的舞蹈精英，是為了2012年12月29日[SBS歌謠大戰而組成的最強舞蹈組合](../Page/SBS_\(韓國\).md "wikilink")。
 
-2017年，[SM娛樂宣布重啟](../Page/SM娛樂.md "wikilink")**S.M. The
-Performance**企劃，並加入[NCT成員](../Page/NCT.md "wikilink")[Ten作為新成員](../Page/Ten_\(歌手\).md "wikilink")\[1\]。
+2017年，[SM娛樂](../Page/SM娛樂.md "wikilink")宣布重啟**S.M. The
+Performance**企劃，並加入[NCT](../Page/NCT.md "wikilink")成員[Ten作為新成員](../Page/Ten_\(歌手\).md "wikilink")\[1\]。
 
 ## 成員列表
 

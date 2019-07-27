@@ -1,5 +1,5 @@
 **Galaxy S4
-Zoom**是為第一部由[三星電子所製造的](../Page/三星電子.md "wikilink")[數位相機型](https://zh.wikipedia.org/wiki/數位相機 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。這款手機先在Samsung
+Zoom**是為第一部由[三星電子](../Page/三星電子.md "wikilink")所製造的[數位相機型](https://zh.wikipedia.org/wiki/數位相機 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。這款手機先在Samsung
 Mobile Press網頁發佈，之後在Samsung Premiere 2013進行詳細介紹。\[1\]
 
 ## 前置相機
@@ -25,11 +25,11 @@ Glass 2保護](https://zh.wikipedia.org/wiki/Gorilla_Glass_2 "wikilink")。
 
 | [鏡頭](../Page/鏡頭.md "wikilink")                        | 4.3-43 mm (10x optical zoom)                                              |
 | ----------------------------------------------------- | ------------------------------------------------------------------------- |
-| [光圈範圍](../Page/光圈.md "wikilink")                      | F3.1-6.3                                                                  |
+| [光圈](../Page/光圈.md "wikilink")範圍                      | F3.1-6.3                                                                  |
 | [傳感器](https://zh.wikipedia.org/wiki/傳感器 "wikilink")   | 1/2.33" BSI CMOS                                                          |
 | 最大[解像度](https://zh.wikipedia.org/wiki/解像度 "wikilink") | 16 [megapixels](https://zh.wikipedia.org/wiki/Pixel#Megapixel "wikilink") |
 | **[ASA/ISO範圍](../Page/感光度.md "wikilink")**            | ISO 100-3200                                                              |
-| **[快門速度範圍](../Page/快門速度.md "wikilink")**              | 16-1/2,000秒                                                               |
+| **[快門速度](../Page/快門速度.md "wikilink")範圍**              | 16-1/2,000秒                                                               |
 
 ## 參考文獻
 

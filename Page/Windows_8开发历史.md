@@ -11,12 +11,12 @@
 <!-- end list -->
 
   - [2011年5月](../Page/2011年5月.md "wikilink")，微軟執行長[巴爾默表示](../Page/史蒂夫·巴爾默.md "wikilink")，2012年將推出新一代的Windows
-    8作業系統，系统將支援[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，包括[平板電腦](../Page/平板電腦.md "wikilink")、[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")、[筆記型電腦等](../Page/筆記型電腦.md "wikilink")，預告微軟將持續發展5大類技術領域，包括更自然的使用者介面、語言、HTML和JavaScript、雲端技術。其中使用者介面將涵蓋語音辨識、體感辨識、手寫辨識、觸控式螢幕等。\[2\]\[3\]。
+    8作業系統，系统將支援[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，包括[平板電腦](../Page/平板電腦.md "wikilink")、[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")、[筆記型電腦](../Page/筆記型電腦.md "wikilink")等，預告微軟將持續發展5大類技術領域，包括更自然的使用者介面、語言、HTML和JavaScript、雲端技術。其中使用者介面將涵蓋語音辨識、體感辨識、手寫辨識、觸控式螢幕等。\[2\]\[3\]。
 
 <!-- end list -->
 
   - [2011年6月](../Page/2011年6月.md "wikilink")，微軟官方正式透露Windows
-    8將會开发平板裝置，同時將會針對[多點觸控操作模式予以調整](../Page/多點觸控.md "wikilink")，同時未來也將能以跨硬體平台的模式使用在各類裝置上，諸如手機或平板等行動裝置。\[4\]
+    8將會开发平板裝置，同時將會針對[多點觸控](../Page/多點觸控.md "wikilink")操作模式予以調整，同時未來也將能以跨硬體平台的模式使用在各類裝置上，諸如手機或平板等行動裝置。\[4\]
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
   - [2011年12月](../Page/2011年12月.md "wikilink")，微软正式公布了Windows
     Store的詳情，並宣佈Windows 8
-    Beta將於[2012年2月推出](../Page/2012年2月.md "wikilink")。\[6\]
+    Beta將於[2012年2月](../Page/2012年2月.md "wikilink")推出。\[6\]
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - 2012年10月25日，微软在[纽约宣布Windows](../Page/纽约.md "wikilink") 8正式上市。
+  - 2012年10月25日，微软在[纽约](../Page/纽约.md "wikilink")宣布Windows 8正式上市。
 
 ## 资料
 

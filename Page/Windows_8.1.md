@@ -29,7 +29,7 @@ Windows 8.1後續系統為[Windows 10](../Page/Windows_10.md "wikilink")。Windo
     1.1 GHz及以上
   - [内存](https://zh.wikipedia.org/wiki/内存 "wikilink")：1 GB（32位元）或2
     GB（64位元）
-  - [硬盘空间](../Page/硬盘.md "wikilink")：16 GB可用（32位元）或20 GB可用（64位元）
+  - [硬盘](../Page/硬盘.md "wikilink")空间：16 GB可用（32位元）或20 GB可用（64位元）
   - [顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")：[DirectX 9图形设备](https://zh.wikipedia.org/wiki/DirectX_9 "wikilink")（带有[WDDM驱动程序](../Page/Windows_Display_Driver_Model.md "wikilink")）
 
 <!-- end list -->
@@ -72,7 +72,7 @@ Windows 8.1後續系統為[Windows 10](../Page/Windows_10.md "wikilink")。Windo
   - 需要數位[電視棒](https://zh.wikipedia.org/wiki/電視棒 "wikilink")，才能在Windows
     Media Center中播放及錄製電視節目（僅限Windows 8.1專業版套件和Windows 8.1 Media
     Center套件）。
-  - [Miracast需要支援Windows顯示驅動程式模型](../Page/Miracast.md "wikilink")（WDDM）1.3的顯示卡以及支援[Wi-Fi
+  - [Miracast](../Page/Miracast.md "wikilink")需要支援Windows顯示驅動程式模型（WDDM）1.3的顯示卡以及支援[Wi-Fi
     Direct的](https://zh.wikipedia.org/wiki/Wi-Fi_Direct "wikilink")[Wi-Fi介面卡](https://zh.wikipedia.org/wiki/Wi-Fi介面卡 "wikilink")。
   - [InstantGo僅適用於針對](https://zh.wikipedia.org/wiki/InstantGo "wikilink")「連線待命」所設計的電腦。
 
@@ -100,7 +100,7 @@ Windows 8.1後續系統為[Windows 10](../Page/Windows_10.md "wikilink")。Windo
   - 添加“自訂”操作
   - 支持4種大小的磁貼，分別為小（Small）、中（Medium）、寬（Wide）及大（Large）。Windows 8只有中及寬這2種大小
   - 底部的“查看所有應用”按鈕（或從開始屏幕向上滑動）可瀏覽所有應用程式，同時支持按照名稱、安裝日期、最多使用以及種類篩選。
-  - 簡體中文版的“開始”二字的字體由[微軟正黑體改為](../Page/微軟正黑體.md "wikilink")[微軟雅黑](https://zh.wikipedia.org/wiki/微軟雅黑 "wikilink")
+  - 簡體中文版的“開始”二字的字體由[微軟正黑體](../Page/微軟正黑體.md "wikilink")改為[微軟雅黑](https://zh.wikipedia.org/wiki/微軟雅黑 "wikilink")
   - 解決了非Metro應用在開始界面表現不佳的問題（即只有圖標在變，磁貼顏色還是一樣，非常單調），現在可根據圖標主色只能決定磁貼的背景色彩
 
 ### 启动与导航
@@ -123,7 +123,7 @@ Windows 8.1後續系統為[Windows 10](../Page/Windows_10.md "wikilink")。Windo
   - 需要[Microsoft
     Account登入系統以做最佳整合](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")
   - 安裝時將會要求輸入Microsoft Account的手機、電子信箱驗證碼以提高安全性
-  - [OneDrive的Windows](../Page/OneDrive.md "wikilink") UI
+  - [OneDrive](../Page/OneDrive.md "wikilink")的Windows UI
     App以及傳統桌面適用的OneDrive會整合至系統，並可以離線存取雲端資料\[6\]，可以直接当做文件夹使用（在文件资源管理器左侧的树目录下），同时是Microsoft
     Office文档的預設保存位置。
 

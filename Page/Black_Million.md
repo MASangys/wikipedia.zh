@@ -1,5 +1,5 @@
 《**Black
-Million**》（）是2013年4月6日開始在[東京電視台播放的](../Page/東京電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+Million**》（）是2013年4月6日開始在[東京電視台](../Page/東京電視台.md "wikilink")播放的[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 概要
 
@@ -55,4 +55,4 @@ ONE](https://zh.wikipedia.org/wiki/ROUND_ONE "wikilink")」\[1\]，挑戰者能�
 [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
 
 1.  節目中出演的NMB48在ROUND ONE的CM中出演。
-2.  [AKB48兼任](../Page/AKB48.md "wikilink")。
+2.  [AKB48](../Page/AKB48.md "wikilink")兼任。

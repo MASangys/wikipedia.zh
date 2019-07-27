@@ -1,4 +1,4 @@
-这个列表收录了已经[自杀身亡的著名](https://zh.wikipedia.org/wiki/自杀 "wikilink")[女同性恋](https://zh.wikipedia.org/wiki/女同性恋 "wikilink")，[男同性恋](https://zh.wikipedia.org/wiki/男同性恋 "wikilink")，[双性恋和](../Page/双性恋.md "wikilink")[跨性别人士](https://zh.wikipedia.org/wiki/跨性别 "wikilink")。
+这个列表收录了已经[自杀身亡的著名](https://zh.wikipedia.org/wiki/自杀 "wikilink")[女同性恋](https://zh.wikipedia.org/wiki/女同性恋 "wikilink")，[男同性恋](https://zh.wikipedia.org/wiki/男同性恋 "wikilink")，[双性恋](../Page/双性恋.md "wikilink")和[跨性别人士](https://zh.wikipedia.org/wiki/跨性别 "wikilink")。
 
 <table>
 <colgroup>

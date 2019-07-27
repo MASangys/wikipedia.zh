@@ -1,4 +1,4 @@
-『**FOREPLAY**』是[RIZE的第](../Page/RIZE.md "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2001年12月5日發售。唱片公司是[Epic
+『**FOREPLAY**』是[RIZE](../Page/RIZE.md "wikilink")的第2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2001年12月5日發售。唱片公司是[Epic
 Records Japan
 Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 

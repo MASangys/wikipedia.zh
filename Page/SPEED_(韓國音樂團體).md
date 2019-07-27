@@ -1,4 +1,4 @@
-**SPEED**（）為[MBK娛樂旗下已解散的男子團體](../Page/MBK娛樂.md "wikilink")。原為韓國混聲音樂團體[男女共學的男性子團](https://zh.wikipedia.org/wiki/男女共學_\(組合\) "wikilink")，後為獨立團體。SPEED的官方粉絲名稱為「DEEPS」，意思為被SPEED深深吸引的人們。
+**SPEED**（）為[MBK娛樂](../Page/MBK娛樂.md "wikilink")旗下已解散的男子團體。原為韓國混聲音樂團體[男女共學的男性子團](https://zh.wikipedia.org/wiki/男女共學_\(組合\) "wikilink")，後為獨立團體。SPEED的官方粉絲名稱為「DEEPS」，意思為被SPEED深深吸引的人們。
 
 ## 經歷
 
@@ -16,7 +16,7 @@ News上宣布男子團的名稱決定為SPEED（스피드）。
 
 SPEED推出首張單曲〈Lovey Dovey
 Plus〉，改編自[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")〈Lovey
-Dovey〉，MV請來[柳和榮和](../Page/柳和榮.md "wikilink")[柳孝榮參與演出](../Page/柳孝榮.md "wikilink")。
+Dovey〉，MV請來[柳和榮](../Page/柳和榮.md "wikilink")和[柳孝榮](../Page/柳孝榮.md "wikilink")參與演出。
 
 2012年2月13日，公開單曲〈Lovey Dovey Plus〉MV。
 
@@ -49,14 +49,14 @@ You〉中，隊長泰雲參與Rap部份和Dance Ver. MV。
 
 〈That's my fault〉和〈It's
 over〉的MV故事設定在1980年5月18日的[光州事件](https://zh.wikipedia.org/wiki/光州事件 "wikilink")（光州民主化運動）為背景，講述市民自發要求民主運動的內容，由[車恩澤導演執導](https://zh.wikipedia.org/wiki/車恩澤 "wikilink")，各別作為劇情版（上／下集）及舞蹈版，並邀請[A
-Pink的](https://zh.wikipedia.org/wiki/A_Pink "wikilink")[孫娜恩](../Page/孫娜恩.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[池昌旭](../Page/池昌旭.md "wikilink")、[河錫辰等人擔綱演出](../Page/河錫辰.md "wikilink")。
+Pink的](https://zh.wikipedia.org/wiki/A_Pink "wikilink")[孫娜恩](../Page/孫娜恩.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[池昌旭](../Page/池昌旭.md "wikilink")、[河錫辰](../Page/河錫辰.md "wikilink")等人擔綱演出。
 
 2013年1月16日，[Core Contents
 Media表示SPEED](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2013全新專輯《Superior
 SPEED》收入將全數捐出。
 
 2013年1月17日，於[M\!
-Countdown正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，出道舞台嘉賓是[Davichi的](../Page/Davichi.md "wikilink")[姜珉耿](https://zh.wikipedia.org/wiki/姜珉耿 "wikilink")。
+Countdown正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，出道舞台嘉賓是[Davichi](../Page/Davichi.md "wikilink")的[姜珉耿](https://zh.wikipedia.org/wiki/姜珉耿 "wikilink")。
 
 2013年2月18日，推出改版專輯。
 
@@ -70,7 +70,7 @@ SeeYa幼真](../Page/The_SeeYa.md "wikilink")、[5dolls](https://zh.wikipedia.or
 2013年9月21日，在[蒙古烏蘭巴托體育場和](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[Davichi](../Page/Davichi.md "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")
 、[The SeeYa舉辦CCM家族演唱會](../Page/The_SeeYa.md "wikilink") 。
 
-2013年12月18日，在[柬埔寨和](../Page/柬埔寨.md "wikilink")[T-ara舉辦演唱會](https://zh.wikipedia.org/wiki/T-ara "wikilink")。
+2013年12月18日，在[柬埔寨](../Page/柬埔寨.md "wikilink")和[T-ara舉辦演唱會](https://zh.wikipedia.org/wiki/T-ara "wikilink")。
 
 ### 2014年 發行迷你專輯《Speed Circus》
 
@@ -118,9 +118,9 @@ Entertainment新樂團活動](https://zh.wikipedia.org/wiki/MBK_Entertainment "w
 
 ### 2016年 解散後發展
 
-2016年1月27日，成員正優表示與所屬社[MBK娛樂合約已到期](../Page/MBK娛樂.md "wikilink")。
+2016年1月27日，成員正優表示與所屬社[MBK娛樂](../Page/MBK娛樂.md "wikilink")合約已到期。
 
-2016年1月28日，成員世濬表示在[MBK娛樂轉為演員身分進行活動](../Page/MBK娛樂.md "wikilink")。同年，世濬以「KIDZ」身份作為饒舌歌手在自己創立的公司[AMD娛樂發表](https://zh.wikipedia.org/wiki/AMD娛樂 "wikilink")《BETRAY
+2016年1月28日，成員世濬表示在[MBK娛樂](../Page/MBK娛樂.md "wikilink")轉為演員身分進行活動。同年，世濬以「KIDZ」身份作為饒舌歌手在自己創立的公司[AMD娛樂發表](https://zh.wikipedia.org/wiki/AMD娛樂 "wikilink")《BETRAY
 (Feat. $ody)》出道。
 
 2016年6月1日，成員IONE(泰河)日本官方推特表示，正在準備SOLO活動。\[1\]
@@ -416,7 +416,7 @@ Entertainment新樂團活動](https://zh.wikipedia.org/wiki/MBK_Entertainment "w
 
 | 年份                                  | 歌名                                  | MV長度                                                                                                                                                                                                                                                                                                                                                | 其他資料                                                                                                                                                                                                                                                                                                            |
 | ----------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2012                                | Lovey Dovey Plus Ver.1              | 4:10                                                                                                                                                                                                                                                                                                                                                | Ft. [柳和榮及](../Page/柳和榮.md "wikilink")[5dolls成員](../Page/F-VE_DOLLS.md "wikilink")[柳孝榮](../Page/柳孝榮.md "wikilink")                                                                                                                                                                                               |
+| 2012                                | Lovey Dovey Plus Ver.1              | 4:10                                                                                                                                                                                                                                                                                                                                                | Ft. [柳和榮](../Page/柳和榮.md "wikilink")及[5dolls成員](../Page/F-VE_DOLLS.md "wikilink")[柳孝榮](../Page/柳孝榮.md "wikilink")                                                                                                                                                                                               |
 | Lovey Dovey Plus Ver.2              | 4:16                                | Ft. [5dolls成員](https://zh.wikipedia.org/wiki/5dolls "wikilink")[柳孝榮](../Page/柳孝榮.md "wikilink")                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                 |
 | 2013                                | 슬픈약속 "That's My Fault" (Drama Ver.) | 13:17                                                                                                                                                                                                                                                                                                                                               | Ft. [朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")[孫娜恩](../Page/孫娜恩.md "wikilink")、[池昌旭](../Page/池昌旭.md "wikilink")、[河錫辰](../Page/河錫辰.md "wikilink")                                                                                             |
 | 슬픈약속 "That's My Fault" (Dance Ver.) | 4:18                                | Ft. [Davichi](../Page/Davichi.md "wikilink")[姜珉耿](https://zh.wikipedia.org/wiki/姜珉耿 "wikilink")                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                 |

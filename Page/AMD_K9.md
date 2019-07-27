@@ -19,7 +19,7 @@ K9架構的設計基於[K7和K](https://zh.wikipedia.org/wiki/AMD_K7 "wikilink")
   - 半導體製程方面將從90奈米進化至65奈米。\[8\]
   - 使用K9微架構的處理器系列有Opteron以及Athlon 64。\[9\]
   - [熱設計功耗在](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")30W至55W的範圍內。\[10\]
-  - 採用新版本[HyperTransport匯流排](../Page/HyperTransport.md "wikilink")\[11\]
+  - 採用新版本[HyperTransport](../Page/HyperTransport.md "wikilink")匯流排\[11\]
 
 但是這個計劃尚處於概念化階段的時候就被下令取消研發，在超微官方宣布K8下一代架構後大約6個月，雖然此時K9的電路架構已完成，但仍未有任何以K9名義的晶片流片。\[12\]此時不少媒體猜測K8的下一代微架構將是K8L/[K10](https://zh.wikipedia.org/wiki/K10 "wikilink")，也有K10架構也被取消研發的傳聞。而後來K10微架構發布以後也有不少特性和當年K9微架構被披露出來時相近。
 

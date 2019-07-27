@@ -1,5 +1,5 @@
 **FX**电视台（**F**ox
-e**x**tended，暗示“[特效](https://zh.wikipedia.org/wiki/特效 "wikilink")”，又称：**FX电视网**），是美国[新闻集团旗下](../Page/新闻集团.md "wikilink")[福克斯娱乐集团拥有的电视频道](https://zh.wikipedia.org/wiki/福克斯娱乐集团 "wikilink")。
+e**x**tended，暗示“[特效](https://zh.wikipedia.org/wiki/特效 "wikilink")”，又称：**FX电视网**），是美国[新闻集团](../Page/新闻集团.md "wikilink")旗下[福克斯娱乐集团拥有的电视频道](https://zh.wikipedia.org/wiki/福克斯娱乐集团 "wikilink")。
 
 这个电视频道有一系列广受好评的电视节目，如《美国怪谭》和《混乱之子》與《冰血暴》
 

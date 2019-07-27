@@ -1,4 +1,4 @@
-**PlentyOfFish**（簡稱**POF**）是一個[社群網路服務及](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")[約會](../Page/約會.md "wikilink")[網站](../Page/網站.md "wikilink")。\[1\]於2003年創立，總部設在[加拿大](../Page/加拿大.md "wikilink")[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞 "wikilink")[溫哥華市](../Page/溫哥華.md "wikilink")，該網站被評為當今全球最有價值的未上市科技公司之一。\[2\]\[3\]\[4\]
+**PlentyOfFish**（簡稱**POF**）是一個[社群網路服務及](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")[約會](../Page/約會.md "wikilink")[網站](../Page/網站.md "wikilink")。\[1\]於2003年創立，總部設在[加拿大](../Page/加拿大.md "wikilink")[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞 "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")市，該網站被評為當今全球最有價值的未上市科技公司之一。\[2\]\[3\]\[4\]
 
 ## 歷史
 

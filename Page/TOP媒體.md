@@ -11,9 +11,9 @@ TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、
 | 出道年份 | 名字                                                           | 性別 | 相關團體                                                          |
 | ---- | ------------------------------------------------------------ | -- | ------------------------------------------------------------- |
 | 1998 | [Andy](../Page/李先鎬.md "wikilink")                            | 男  | [神话](https://zh.wikipedia.org/wiki/神话_\(组合\) "wikilink")      |
+| 1998 | [Eric](../Page/文晸赫.md "wikilink")                            | 男  | [神话](https://zh.wikipedia.org/wiki/神话_\(组合\) "wikilink")      |
 | 2009 | 박동민（Park Dong Min）                                           | 男  | —                                                             |
 | 2010 | [Niel](https://zh.wikipedia.org/wiki/Niel_\(歌手\) "wikilink") | 男  | [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") |
-| 1998 | [Eric](../Page/文晸赫.md "wikilink")                            | 男  | [神话](https://zh.wikipedia.org/wiki/神话_\(组合\) "wikilink")      |
 
 ### 組合
 

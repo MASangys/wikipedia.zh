@@ -2,7 +2,7 @@
 
 ## 背景
 
-巴利加出生在[印度](../Page/印度.md "wikilink")[馬德拉斯](https://zh.wikipedia.org/wiki/清奈 "wikilink")\[3\]，成長於印度[班加羅爾附近的小村莊](../Page/班加羅爾.md "wikilink")。父親是巴拉特電子有限公司（）的前任負責人\[4\]。於1969年取得的學士學位，並分別於1971年及1974年取得[壬色列理工學院的碩士與博士學位](https://zh.wikipedia.org/wiki/壬色列理工學院 "wikilink")。
+巴利加出生在[印度](../Page/印度.md "wikilink")[馬德拉斯](https://zh.wikipedia.org/wiki/清奈 "wikilink")\[3\]，成長於印度[班加羅爾](../Page/班加羅爾.md "wikilink")附近的小村莊。父親是巴拉特電子有限公司（）的前任負責人\[4\]。於1969年取得的學士學位，並分別於1971年及1974年取得[壬色列理工學院的碩士與博士學位](https://zh.wikipedia.org/wiki/壬色列理工學院 "wikilink")。
 
 ## 職業生涯
 

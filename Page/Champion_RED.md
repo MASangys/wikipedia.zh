@@ -1,5 +1,5 @@
 《**Champion
-RED**》（）是由[日本](../Page/日本.md "wikilink")[秋田書店發行的月刊](../Page/秋田書店.md "wikilink")[漫畫雜誌](https://zh.wikipedia.org/wiki/漫画 "wikilink")，以[青年漫畫為主](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。2002年8月19日（同年10月号）創刊，每月19日發售。
+RED**》（）是由[日本](../Page/日本.md "wikilink")[秋田書店](../Page/秋田書店.md "wikilink")發行的月刊[漫畫雜誌](https://zh.wikipedia.org/wiki/漫画 "wikilink")，以[青年漫畫為主](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。2002年8月19日（同年10月号）創刊，每月19日發售。
 
 ## 連載作品
 
@@ -67,7 +67,7 @@ RED**》（）是由[日本](../Page/日本.md "wikilink")[秋田書店發行的
 ## 特別揭載
 
   - [真無敵鐵金剛
-    衝擊！H篇](https://zh.wikipedia.org/wiki/真無敵鐵金剛_衝擊！Z篇 "wikilink")（[永井豪とダイナミックプロ](../Page/永井豪.md "wikilink")）
+    衝擊！H篇](https://zh.wikipedia.org/wiki/真無敵鐵金剛_衝擊！Z篇 "wikilink")（[永井豪](../Page/永井豪.md "wikilink")とダイナミックプロ）
   - [スクライドビギンズ](https://zh.wikipedia.org/wiki/スクライド_\(漫画\) "wikilink")（シナリオ：[黒田洋介](https://zh.wikipedia.org/wiki/黒田洋介 "wikilink")（[スタジオオルフェ](https://zh.wikipedia.org/wiki/スタジオオルフェ "wikilink")）、漫画：[戸田泰成](https://zh.wikipedia.org/wiki/戸田泰成 "wikilink")）
   - [舞-乙HiME SUPER
     H](https://zh.wikipedia.org/wiki/舞-乙HiME_\(漫画\) "wikilink")（[佐藤健悦](https://zh.wikipedia.org/wiki/佐藤健悦 "wikilink")）

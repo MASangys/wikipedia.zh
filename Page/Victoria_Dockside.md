@@ -2,15 +2,15 @@
 **VICTORIA DOCKSIDE （維港文化匯）**
 位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[梳士巴利道](../Page/梳士巴利道.md "wikilink")18號，毗鄰[梳士巴利花園](../Page/梳士巴利花園.md "wikilink")、[香港藝術館](../Page/香港藝術館.md "wikilink")、[星光大道和](../Page/星光大道_\(香港\).md "wikilink")[香港太空館](../Page/香港太空館.md "wikilink")，是位於尖沙咀核心地段的綜合型發展項目，總樓面面積達300萬平方呎，預計於2019年全面啟用。項目的第一期[K11
 ATELIER已於](../Page/K11_ATELIER.md "wikilink")2018年4月底正式開幕，銳意將該區發展成國際級創意藝術設計新地標。VICTORIA
-DOCKSIDE前身為於1978年12月建成的[新世界中心](../Page/新世界中心.md "wikilink")，是全港首個集合[商場](../Page/商場.md "wikilink")、[酒店及](../Page/酒店.md "wikilink")[服務式住宅為一的綜合商住區](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")，在八、九十年代一度成為文化藝術及時尚潮人的集中地，其後於1997年建成地下商場——[名店城](../Page/名店城.md "wikilink")，兩者均於2009年至2011年被拆卸，於2012年年底起分階段重建，VICTORIA
-DOCKSIDE耗資200億港元，2019年全面落成啟用後建築面積達32萬平方米，包括藝術、設計及消閒體驗，為[新世界發展目前規模最龐大的項目](../Page/新世界發展.md "wikilink")。\[1\]
+DOCKSIDE前身為於1978年12月建成的[新世界中心](../Page/新世界中心.md "wikilink")，是全港首個集合[商場](../Page/商場.md "wikilink")、[酒店](../Page/酒店.md "wikilink")及[服務式住宅為一的綜合商住區](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")，在八、九十年代一度成為文化藝術及時尚潮人的集中地，其後於1997年建成地下商場——[名店城](../Page/名店城.md "wikilink")，兩者均於2009年至2011年被拆卸，於2012年年底起分階段重建，VICTORIA
+DOCKSIDE耗資200億港元，2019年全面落成啟用後建築面積達32萬平方米，包括藝術、設計及消閒體驗，為[新世界發展](../Page/新世界發展.md "wikilink")目前規模最龐大的項目。\[1\]
 
 ## 命名
 
 2017年5月25日，新世界集團公佈新世界中心重建項目將改名為「Victoria
 Dockside」。「Victoria」代表香港維多利亞港；「Dockside」就意指地址前身為藍煙囪碼頭。
 
-而項目在2017年正式公佈名稱時並沒有中文官方名稱，但在2019年1月首次在[星光大道內向遊客展示的](https://zh.wikipedia.org/wiki/星光大道 "wikilink")[新世界發展官方街道圖及指示牌寫上項目的中文名稱](../Page/新世界發展.md "wikilink")「維港文化匯」以及該項目內各建築物的中文名稱。
+而項目在2017年正式公佈名稱時並沒有中文官方名稱，但在2019年1月首次在[星光大道內向遊客展示的](https://zh.wikipedia.org/wiki/星光大道 "wikilink")[新世界發展](../Page/新世界發展.md "wikilink")官方街道圖及指示牌寫上項目的中文名稱「維港文化匯」以及該項目內各建築物的中文名稱。
 
 值得一提的是，港鐵尖東站J出口原本命為「Victoria
 Dockside」，但及後發展商向港鐵提供項目中文名稱，所以港鐵在2019年6月將J出口更名為「維港文化匯」（英文名稱不變）。不過該發展商及項目的官方網站和社交媒體，以及媒體的報道，從來沒有提及過項目的中文名稱。
@@ -29,9 +29,9 @@ Dockside」改為「VICTORIA DOCKSIDE」。
 
 [缩略图](https://zh.wikipedia.org/wiki/File:尖沙咀_藍煙囪貨倉碼頭_Tsim_Sha_Tsui_Holt's_Wharf,_1963.jpg "fig:缩略图")\]\]
 [缩略图](https://zh.wikipedia.org/wiki/File:New_World_Centre_0501.jpg "fig:缩略图")（1978-2011年）\]\]
-發展商[新世界發展於](../Page/新世界發展.md "wikilink")1996年計劃[重建](https://zh.wikipedia.org/wiki/重建 "wikilink")[新世界中心](../Page/新世界中心.md "wikilink")，至2003年獲得[地政總署批准重建一幢樓高約](../Page/地政總署.md "wikilink")70層的[大廈](https://zh.wikipedia.org/wiki/大廈 "wikilink")。由於[地契修改](https://zh.wikipedia.org/wiki/地契 "wikilink")（主要依據分區計劃大綱圖的許可）（暫時並無公衆諮詢制度），至2008年4月，[城市規劃委員會公佈該地皮的高設限制最高達](https://zh.wikipedia.org/wiki/城市規劃委員會 "wikilink")265米時，令到市場頗為鬨動。\[2\]重建項目於2008年完成[補地價](../Page/補地價.md "wikilink")，金額約9.26億港元。\[3\]
+發展商[新世界發展](../Page/新世界發展.md "wikilink")於1996年計劃[重建](https://zh.wikipedia.org/wiki/重建 "wikilink")[新世界中心](../Page/新世界中心.md "wikilink")，至2003年獲得[地政總署](../Page/地政總署.md "wikilink")批准重建一幢樓高約70層的[大廈](https://zh.wikipedia.org/wiki/大廈 "wikilink")。由於[地契修改](https://zh.wikipedia.org/wiki/地契 "wikilink")（主要依據分區計劃大綱圖的許可）（暫時並無公衆諮詢制度），至2008年4月，[城市規劃委員會公佈該地皮的高設限制最高達](https://zh.wikipedia.org/wiki/城市規劃委員會 "wikilink")265米時，令到市場頗為鬨動。\[2\]重建項目於2008年完成[補地價](../Page/補地價.md "wikilink")，金額約9.26億港元。\[3\]
 
-2009年至2011年，新世界發展正式將原有的新世界中心東西兩翼寫字樓、購物商場、[萬麗酒店和附連的服務式住宅拆卸](../Page/九龍萬麗酒店.md "wikilink")（但不包括已出售的洲際酒店）。2012年年底起，[新世界發展率先重建東翼部份為一座](../Page/新世界發展.md "wikilink")64層（後改為66層）高的大樓，由[美國KPF建築師事務所及](https://zh.wikipedia.org/wiki/美國KPF建築師事務所 "wikilink")[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")，集[六星級的](https://zh.wikipedia.org/wiki/六星級 "wikilink")[香港瑰麗酒店](../Page/香港瑰麗酒店.md "wikilink")、酒店式公寓、瑰麗府邸、[商場和甲級](../Page/商場.md "wikilink")[寫字樓等等於一體](https://zh.wikipedia.org/wiki/寫字樓 "wikilink")，總樓面面積將達130萬平方呎，預計最早於2017年竣工。其餘部份則為樓高21層的綜合商業建築，用途包括110萬平方呎[零售部分及香港瑰麗酒店和酒店式](../Page/零售.md "wikilink")[公寓](../Page/公寓.md "wikilink")，各附設4層地下[停車場](../Page/停車場.md "wikilink")。\[4\]
+2009年至2011年，新世界發展正式將原有的新世界中心東西兩翼寫字樓、購物商場、[萬麗酒店和附連的服務式住宅拆卸](../Page/九龍萬麗酒店.md "wikilink")（但不包括已出售的洲際酒店）。2012年年底起，[新世界發展](../Page/新世界發展.md "wikilink")率先重建東翼部份為一座64層（後改為66層）高的大樓，由[美國KPF建築師事務所及](https://zh.wikipedia.org/wiki/美國KPF建築師事務所 "wikilink")[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")設計，集[六星級的](https://zh.wikipedia.org/wiki/六星級 "wikilink")[香港瑰麗酒店](../Page/香港瑰麗酒店.md "wikilink")、酒店式公寓、瑰麗府邸、[商場](../Page/商場.md "wikilink")和甲級[寫字樓等等於一體](https://zh.wikipedia.org/wiki/寫字樓 "wikilink")，總樓面面積將達130萬平方呎，預計最早於2017年竣工。其餘部份則為樓高21層的綜合商業建築，用途包括110萬平方呎[零售](../Page/零售.md "wikilink")部分及香港瑰麗酒店和酒店式[公寓](../Page/公寓.md "wikilink")，各附設4層地下[停車場](../Page/停車場.md "wikilink")。\[4\]
 
 2011年1月1日，開始進行清拆，名為「新世界中心重建項目」（New World Centre Remodeling）。
 
@@ -196,7 +196,7 @@ Site View 201508.jpg|2015年8月 New World Centre Remodeling Site View
 
 ## 周邊環境
 
-為配合項目，新世界將附近的建築和設施翻新，包括[星光大道](https://zh.wikipedia.org/wiki/星光大道 "wikilink")、[梳士巴利道外的巴士站](../Page/梳士巴利道.md "wikilink")、[尖東站J出口](../Page/尖東站.md "wikilink")、項目對出的一段[梳士巴利道行人道等](../Page/梳士巴利道.md "wikilink")。
+為配合項目，新世界將附近的建築和設施翻新，包括[星光大道](https://zh.wikipedia.org/wiki/星光大道 "wikilink")、[梳士巴利道](../Page/梳士巴利道.md "wikilink")外的巴士站、[尖東站](../Page/尖東站.md "wikilink")J出口、項目對出的一段[梳士巴利道](../Page/梳士巴利道.md "wikilink")行人道等。
 
 ## 批評
 

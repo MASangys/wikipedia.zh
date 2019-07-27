@@ -28,7 +28,7 @@ SimRank
 与传统的文本相似度（Textual Similarity）相比，SimRank
 相似度的计算完全基于网络图的拓扑结构，其递归的定义方式能使SimRank相似度的值捕捉到图结构的整体信息。此外，SimRank
 相似度能比较任意两个结点间的相似度问题，相比之下Google
-[PageRank只能衡量每个结点的重要性](../Page/PageRank.md "wikilink")。
+[PageRank](../Page/PageRank.md "wikilink")只能衡量每个结点的重要性。
 
 ## 矩阵形式
 

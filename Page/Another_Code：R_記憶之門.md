@@ -1,5 +1,5 @@
 《**Another Code：R
-記憶之門**》（，）是一個[Wii](../Page/Wii.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。此遊戲由[Cing開發](../Page/Cing.md "wikilink")，[任天堂發佈](../Page/任天堂.md "wikilink")，是《[Another
+記憶之門**》（，）是一個[Wii](../Page/Wii.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。此遊戲由[Cing](../Page/Cing.md "wikilink")開發，[任天堂](../Page/任天堂.md "wikilink")發佈，是《[Another
 Code
 兩段記憶](../Page/Another_Code_兩段記憶.md "wikilink")》的續作。此遊戲也是Cing首個開發的Wii遊戲。\[1\]
 
@@ -60,13 +60,13 @@ Code
 
 ## 發佈
 
-此遊戲於2008年10月在[任天堂秋季發布會上首次亮相](../Page/任天堂.md "wikilink")。\[5\]於2009年2月5日，此遊戲在日本發佈。\[6\]於2009年6月26日，此遊戲在歐洲發佈。\[7\]與前作不同，此遊戲並沒有在北美及澳洲發佈。
+此遊戲於2008年10月在[任天堂](../Page/任天堂.md "wikilink")秋季發布會上首次亮相。\[5\]於2009年2月5日，此遊戲在日本發佈。\[6\]於2009年6月26日，此遊戲在歐洲發佈。\[7\]與前作不同，此遊戲並沒有在北美及澳洲發佈。
 
 ## 評價
 
 此遊戲獲得的評價不錯。[GameRankings得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")69.21%。\[8\]
 日本遊戲雜誌《[Fami通](../Page/Fami通.md "wikilink")》給予此遊戲28/40分。\[9\]而《[任天堂官方雜誌](https://zh.wikipedia.org/wiki/任天堂官方雜誌 "wikilink")》
-則給予此遊戲84%的得分。[IGN給予此遊戲](../Page/IGN.md "wikilink")8/10分，並稱讚其畫質、音樂和遊戲系統。\[10\]而[Eurogamer則給予此遊戲](../Page/Eurogamer.md "wikilink")6/10分，稱讚其畫質，但就批評其遊戲費時。\[11\]
+則給予此遊戲84%的得分。[IGN](../Page/IGN.md "wikilink")給予此遊戲8/10分，並稱讚其畫質、音樂和遊戲系統。\[10\]而[Eurogamer](../Page/Eurogamer.md "wikilink")則給予此遊戲6/10分，稱讚其畫質，但就批評其遊戲費時。\[11\]
 
 ## 銷售
 

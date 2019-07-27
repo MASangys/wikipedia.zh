@@ -1,14 +1,14 @@
 **PGM-19朱庇特(神皇)弹道导弹**（**PGM-19
-Jupiter**）或称**SM-78丘辟特导弹**，[美国空军第一代](../Page/美国空军.md "wikilink")[遠程弹道导弹](https://zh.wikipedia.org/wiki/遠程弹道导弹 "wikilink")，使用液体燃料[RP-1和](https://zh.wikipedia.org/wiki/RP-1 "wikilink")[LOX氧化剂为动力](../Page/液氧.md "wikilink")，以及一个[洛克达因公司](../Page/洛克达因公司.md "wikilink")[LR70-NA](https://zh.wikipedia.org/wiki/LR70-NA "wikilink")
+Jupiter**）或称**SM-78丘辟特导弹**，[美国空军](../Page/美国空军.md "wikilink")第一代[遠程弹道导弹](https://zh.wikipedia.org/wiki/遠程弹道导弹 "wikilink")，使用液体燃料[RP-1和](https://zh.wikipedia.org/wiki/RP-1 "wikilink")[LOX氧化剂为动力](../Page/液氧.md "wikilink")，以及一个[洛克达因公司](../Page/洛克达因公司.md "wikilink")[LR70-NA](https://zh.wikipedia.org/wiki/LR70-NA "wikilink")
 (S-3D型)火箭发动机，产生667 kN的[推力发射](https://zh.wikipedia.org/wiki/推力 "wikilink")。主承包商是[克莱斯勒公司](https://zh.wikipedia.org/wiki/克莱斯勒公司 "wikilink")。
 
-导弹携带核弹头，1961年[北约将其部署在](https://zh.wikipedia.org/wiki/北约 "wikilink")[意大利和](../Page/意大利.md "wikilink")[土耳其](../Page/土耳其.md "wikilink")，以保持对[苏联的](../Page/苏联.md "wikilink")[冷战威慑](../Page/冷战.md "wikilink")。[古巴导弹危机期间](../Page/古巴导弹危机.md "wikilink")，作为美国与苏联秘密协议的一部分，被撤除。
+导弹携带核弹头，1961年[北约将其部署在](https://zh.wikipedia.org/wiki/北约 "wikilink")[意大利](../Page/意大利.md "wikilink")和[土耳其](../Page/土耳其.md "wikilink")，以保持对[苏联](../Page/苏联.md "wikilink")的[冷战](../Page/冷战.md "wikilink")威慑。[古巴导弹危机](../Page/古巴导弹危机.md "wikilink")期间，作为美国与苏联秘密协议的一部分，被撤除。
 
 ## 历史
 
 ### 开发和测试
 
-1955年9月，[沃纳·冯·布劳恩给美国国防部长的一份简报指出](../Page/沃纳·冯·布劳恩.md "wikilink")，[PGM-11红石导弹可以继续延伸发展到](https://zh.wikipedia.org/wiki/PGM-11红石导弹 "wikilink")1500英里(2400公里)射程。因此，1955年12月，陆军和海军部长宣布成立一个陆海军项目，研制一个陆基和海基[遠程弹道导弹](https://zh.wikipedia.org/wiki/遠程弹道导弹 "wikilink")。
+1955年9月，[沃纳·冯·布劳恩](../Page/沃纳·冯·布劳恩.md "wikilink")给美国国防部长的一份简报指出，[PGM-11红石导弹可以继续延伸发展到](https://zh.wikipedia.org/wiki/PGM-11红石导弹 "wikilink")1500英里(2400公里)射程。因此，1955年12月，陆军和海军部长宣布成立一个陆海军项目，研制一个陆基和海基[遠程弹道导弹](https://zh.wikipedia.org/wiki/遠程弹道导弹 "wikilink")。
 
 1956年11月，美国国防部将所有陆基远程导弹划归空军，陆军只保持射程为200英里(320公里)或更少的导弹。朱庇特导弹计划也移交到空军。
 
@@ -17,7 +17,7 @@ Jupiter**）或称**SM-78丘辟特导弹**，[美国空军第一代](../Page/美
 ### 生物的航班
 
 [Miss_Baker,_the_squirrel_monkey.jpg](https://zh.wikipedia.org/wiki/File:Miss_Baker,_the_squirrel_monkey.jpg "fig:Miss_Baker,_the_squirrel_monkey.jpg")与一个朱庇特导弹模型，它在1959年骑在弹头上进行亚轨道飞行\]\]
-朱庇特导弹被用在一系列的[亚轨道生物测试飞行](https://zh.wikipedia.org/wiki/亚轨道 "wikilink")。1958年12月13日，朱庇特AM-13从佛罗里达[卡纳维拉尔角发射](../Page/卡纳维拉尔角.md "wikilink")，随同发射的有一只名叫戈多的[南美松鼠猴](https://zh.wikipedia.org/wiki/南美松鼠猴 "wikilink")，因降落伞未能运作戈多死亡。发回的飞行遥测数据表明猴子在发射10
+朱庇特导弹被用在一系列的[亚轨道生物测试飞行](https://zh.wikipedia.org/wiki/亚轨道 "wikilink")。1958年12月13日，朱庇特AM-13从佛罗里达[卡纳维拉尔角](../Page/卡纳维拉尔角.md "wikilink")发射，随同发射的有一只名叫戈多的[南美松鼠猴](https://zh.wikipedia.org/wiki/南美松鼠猴 "wikilink")，因降落伞未能运作戈多死亡。发回的飞行遥测数据表明猴子在发射10
 g(100 m/s²)时存活，经历8分钟的失重和1万英里(4.5公里/秒)再入40
 g(390 m/s²)。导弹鼻锥沉没在离达纳维拉尔角发射场1302海里(2411公里)的海里。
 
@@ -48,7 +48,7 @@ Aerobrigata Interdizione Strategica (第36战略拦截空中中队, 意大利空
 
 据报道，1962年保加利亚一架米格-17侦察飞机在飞越意大利领空时撞上一个橄榄树林附近的一个美国朱庇特导弹发射基地。\[2\]
 
-1959年10月，美国与土耳其签署了政府协议，一个朱庇特导弹中队（共计15枚导弹）被部署在[伊兹密尔附近](../Page/伊兹密尔.md "wikilink")，部署于5个基地。基地最初由美国空军运行，在试射了3枚后转交土耳其空军
+1959年10月，美国与土耳其签署了政府协议，一个朱庇特导弹中队（共计15枚导弹）被部署在[伊兹密尔](../Page/伊兹密尔.md "wikilink")附近，部署于5个基地。基地最初由美国空军运行，在试射了3枚后转交土耳其空军
 (Türk Hava Kuvvetleri)负责，美军只控制核弹头。
 
 1961年10月中旬至1962年8月期间，在意大利空军基地，载有相当于1.4百万吨级的TNT(5.9
@@ -101,7 +101,7 @@ PJ)威力的核弹头的朱庇特导弹曾四次被闪电击中，每次导弹�
 
 [Jupiter-C_vs_Jupiter_IRBM.jpg](https://zh.wikipedia.org/wiki/File:Jupiter-C_vs_Jupiter_IRBM.jpg "fig:Jupiter-C_vs_Jupiter_IRBM.jpg")
 
-[土星1号运载火箭和](../Page/土星1号运载火箭.md "wikilink")[土星1B號運載火箭使用一个朱庇特导弹推进剂贮箱](../Page/土星1B號運載火箭.md "wikilink")，与八个红石火箭推进剂组成一个动力系统，担任[运载火箭第一阶段的推进动力](https://zh.wikipedia.org/wiki/运载火箭 "wikilink")。
+[土星1号运载火箭](../Page/土星1号运载火箭.md "wikilink")和[土星1B號運載火箭](../Page/土星1B號運載火箭.md "wikilink")使用一个朱庇特导弹推进剂贮箱，与八个红石火箭推进剂组成一个动力系统，担任[运载火箭第一阶段的推进动力](https://zh.wikipedia.org/wiki/运载火箭 "wikilink")。
 
 朱庇特MRBM也是[朱諾二號運載火箭的动力组成部分](https://zh.wikipedia.org/wiki/朱諾二號運載火箭 "wikilink")。
 
@@ -282,9 +282,9 @@ PJ)威力的核弹头的朱庇特导弹曾四次被闪电击中，每次导弹�
 
 一枚SM-78/PMG-19展示于佛罗里达州卡纳维拉尔角的[美国空军太空与导弹博物馆](https://zh.wikipedia.org/wiki/美国空军太空与导弹博物馆 "wikilink")。导弹在火箭花园展示了许多年，直到2009年被撤下并给予一次完整的修复。\[4\]
 
-一枚朱庇特导弹(朱诺二号配置)展示在佛罗里达州[肯尼迪航天中心火箭花园](../Page/肯尼迪航天中心.md "wikilink"),。它在2004年被[弗朗西斯飓风损坏](https://zh.wikipedia.org/wiki/弗朗西斯飓风 "wikilink"),\[5\]修复后来回到展览馆。
+一枚朱庇特导弹(朱诺二号配置)展示在佛罗里达州[肯尼迪航天中心](../Page/肯尼迪航天中心.md "wikilink")火箭花园,。它在2004年被[弗朗西斯飓风损坏](https://zh.wikipedia.org/wiki/弗朗西斯飓风 "wikilink"),\[5\]修复后来回到展览馆。
 
-一枚PGM-19在俄亥俄州[代顿的](https://zh.wikipedia.org/wiki/代顿 "wikilink")[美国空军国家博物馆展出](../Page/美国空军国家博物馆.md "wikilink")。导弹1963年从克莱斯勒公司获得。几十年来一直在博物馆外展示，1998年之前被拆除。导弹被博物馆的工作人员修复后，在2007年返回博物馆的新导弹发射井画廊展示。\[6\]
+一枚PGM-19在俄亥俄州[代顿的](https://zh.wikipedia.org/wiki/代顿 "wikilink")[美国空军国家博物馆](../Page/美国空军国家博物馆.md "wikilink")展出。导弹1963年从克莱斯勒公司获得。几十年来一直在博物馆外展示，1998年之前被拆除。导弹被博物馆的工作人员修复后，在2007年返回博物馆的新导弹发射井画廊展示。\[6\]
 
 一枚PGM-19在南卡罗来纳州哥伦比亚的露天游乐场展出。被命名为“**哥伦比亚**”（*Columbia*）。1960年代初由美国空军提供给该市，1969年花了1万美元被安装在游乐场。\[7\]
 

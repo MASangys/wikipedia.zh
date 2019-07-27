@@ -1,5 +1,5 @@
 《**What's
-Up**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME的第](../Page/MYNAME.md "wikilink")2張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年11月21日由[irving發售](https://zh.wikipedia.org/wiki/irving "wikilink")。
+Up**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第2張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年11月21日由[irving發售](https://zh.wikipedia.org/wiki/irving "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@ Up**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
     & Goodbye（Japanese Ver.）》、《Read Between The Lines》；「CD Only
     Chara-Ani限定盤」只收錄了B面曲收錄了B面曲《Hello & Goodbye（Japanese
     Ver.）》、《Everlastin' Luv（Acoustic ver.）》。
-  - 在12月3日於[Oricon公信榜單曲每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")9位。
+  - 在12月3日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲每週排行榜取得第9位。
 
 ## 收錄內容
 

@@ -1,10 +1,10 @@
 「**THE
-MANPOWER\!\!\!**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第25张[单曲](../Page/单曲.md "wikilink")，於2005年1月19日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+MANPOWER\!\!\!**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第25张[单曲](../Page/单曲.md "wikilink")，於2005年1月19日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「THE
-    MANPOWER\!\!\!」是[早安少女組。一期成員](../Page/早安少女組。.md "wikilink")[飯田圭織的畢業單曲](../Page/飯田圭織.md "wikilink")。
+    MANPOWER\!\!\!」是[早安少女組。](../Page/早安少女組。.md "wikilink")一期成員[飯田圭織](../Page/飯田圭織.md "wikilink")的畢業單曲。
   - 「THE
     MANPOWER\!\!\!」是[東北樂天金鷹的公式應援歌](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")。
   - 此單曲有2個版本，分別是「初回生産限定盤」和「CD ONLY」。

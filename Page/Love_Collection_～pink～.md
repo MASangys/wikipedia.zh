@@ -13,9 +13,9 @@ Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
     Place](../Page/Love_Place.md "wikilink")」4首專輯主打曲，連同4首新曲，共30首曲目，並以雙專輯發行。
   - 本作分「初回限定盤」和「CD盤」2種版本。
   - 「初回限定盤」收錄了單曲和專輯主打曲等，共25首歌曲的PV。
-  - 在9月16日於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")2名。
+  - 在9月16日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜取得第2名。
   - 同時，與專輯同時發行的「[Love Collection
-    ～mint～](../Page/Love_Collection_～mint～.md "wikilink")」於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")1名，繼[藤圭子](../Page/藤圭子.md "wikilink")、[濱崎步和](../Page/濱崎步.md "wikilink")[JUJU後](../Page/JUJU.md "wikilink")，第四位佔據Oricon首兩位的女歌手。
+    ～mint～](../Page/Love_Collection_～mint～.md "wikilink")」於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜取得第1名，繼[藤圭子](../Page/藤圭子.md "wikilink")、[濱崎步](../Page/濱崎步.md "wikilink")和[JUJU](../Page/JUJU.md "wikilink")後，第四位佔據Oricon首兩位的女歌手。
 
 ## 收錄內容
 

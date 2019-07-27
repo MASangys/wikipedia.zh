@@ -1,5 +1,5 @@
 《**月刊Big Comic
-Spirits**》是[小學館發行的](../Page/小學館.md "wikilink")[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫雜誌 "wikilink")，2009年創刊。
+Spirits**》是[小學館](../Page/小學館.md "wikilink")發行的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫雜誌 "wikilink")，2009年創刊。
 
 ## 連載漫画
 

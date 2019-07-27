@@ -3,7 +3,7 @@
 
 ## 本作特色
 
-  - 本作為平成假面騎士系列第15部紀念作，及紀念原作者[石之森章太郎誕生](../Page/石之森章太郎.md "wikilink")75週年的首部劇場版。
+  - 本作為平成假面騎士系列第15部紀念作，及紀念原作者[石之森章太郎](../Page/石之森章太郎.md "wikilink")誕生75週年的首部劇場版。
   - 歷代平成假面騎士會在此作內再次登場。
   - 本作劇場版的口號為「豪華絢爛
     平成假面騎士系列第15部作品記念」、「假面騎士戰國激戰繪卷！」、「Wizard、最強敵人現身！？鎧武、為了同伴的激鬥！！」
@@ -41,21 +41,21 @@
 
 ### 假面騎士Wizard
 
-**操真晴人（）**（[白石隼也飾](../Page/白石隼也.md "wikilink")）
+**操真晴人（）**（[白石隼也](../Page/白石隼也.md "wikilink")飾）
 
   -
     指環之魔法使，幪面超人Wizard變身者。
     決戰事件過後，帶著曆的遺物「Hope」指環而遊走各地尋找地方安葬。
-    因為體內寄宿魅影的緣故而被[食人魔所狙擊](../Page/食人魔.md "wikilink")。
+    因為體內寄宿魅影的緣故而被[食人魔](../Page/食人魔.md "wikilink")所狙擊。
 
-**曆（）**（[奧仲麻琴飾](../Page/奧仲麻琴.md "wikilink")）
+**曆（）**（[奧仲麻琴](../Page/奧仲麻琴.md "wikilink")飾）
 
   -
     過去與操真晴人共同生活的少女。
     本來因被奪走體內用作維持生命的「賢者之石」而消失於人世，
     如今事件中卻因「Hope」指環的力量實體化後，現身於晴人面前並變身成為白色魔法使。
 
-**仁藤攻介（）**（[永瀨匡飾](../Page/永瀨匡.md "wikilink")）
+**仁藤攻介（）**（[永瀨匡](../Page/永瀨匡.md "wikilink")飾）
 
   -
     古代魔法使，幪面超人Beast變身者。
@@ -67,7 +67,7 @@
   -
     過去因被操真晴人所救而自願成為其助手的青年，現今在古董店「面影堂」跟隨輪島繁學習製作魔法指環。
 
-**大門凛子（）**（[高山侑子飾](../Page/高山侑子.md "wikilink")）
+**大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink")飾）
 
   -
     過去支援著操真晴人，現今隸屬國家安全局零課的女警。
@@ -81,7 +81,7 @@
 **[大須賀](../Page/大須賀康高.md "wikilink")（）**（飾）
 
   -
-    魅影的餘孽之一，[食人魔的宿主](../Page/食人魔.md "wikilink")。
+    魅影的餘孽之一，[食人魔](../Page/食人魔.md "wikilink")的宿主。
     為了增強自身力量而不斷噬食其餘的同類，並盯上操真晴人體內寄宿的魅影Wizardragon。
 
 **甜甜圈店店長**（飾）
@@ -91,14 +91,14 @@
 
 ### 假面騎士鎧武
 
-**葛葉紘汰（）**（[佐野岳飾](../Page/佐野岳.md "wikilink")）
+**葛葉紘汰（）**（[佐野岳](../Page/佐野岳.md "wikilink")飾）
 
   -
     幪面超人鎧武變身者。
     以街舞團體「鎧武隊」的代表參加鬥技大會「戰極Battle Royale」，比賽中途卻突然出現時空裂縫。
     為追逐神秘的怪人而掉進裂縫，因此到達稱為「武神」的幪面超人們割據爭雄的異世界之中。
 
-**驅紋戒斗（）**（[小林豐飾](../Page/小林豐.md "wikilink")）
+**驅紋戒斗（）**（[小林豐](../Page/小林豐.md "wikilink")飾）
 
   -
     幪面超人巴隆變身者。
@@ -106,14 +106,14 @@
     參戰鬥技大會「戰極Battle Royale」中與眾人一同掉進時空裂縫因而到達異世界。
     被武神OOO勢力一方，信長的家臣蘭丸推舉成為新任的君主。
 
-**吳島光實（）**（[高杉真宙飾](../Page/高杉真宙.md "wikilink")）
+**吳島光實（）**（[高杉真宙](../Page/高杉真宙.md "wikilink")飾）
 
   -
     幪面超人龍玄變身者。
     「鎧武隊」的隊員，私下是世界樹財團高層的公子。
     與葛葉紘汰代表團體參加鬥技大會「戰極Battle Royale」，與眾人一同掉進時空裂縫並到達異世界之中。
 
-**吳島貴虎（）**（[久保田悠来飾](../Page/久保田悠来.md "wikilink")）
+**吳島貴虎（）**（[久保田悠来](../Page/久保田悠来.md "wikilink")飾）
 
   -
     幪面超人斬月變身者。
@@ -173,7 +173,7 @@
     街舞團體「因維托隊」的領隊。
     代表團體參戰鬥技大會「戰極Battle Royale」。
 
-**DJ相樂（）**（[山口智充飾](../Page/山口智充.md "wikilink")）
+**DJ相樂（）**（[山口智充](../Page/山口智充.md "wikilink")飾）
 
   -
     澤芽市中廣播地下電台節目「Beat Riders Hotline」的唱片騎師。
@@ -197,26 +197,26 @@
     性格優柔寡斷及行動力欠奉，常常被妻子茶茶的雌威壓制在頭上。
     原型角色為《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》中的**照井龍（）**
 
-**[茶茶](../Page/淀殿.md "wikilink")（）**（[山本光飾](../Page/山本光.md "wikilink")）
+**[茶茶](../Page/淀殿.md "wikilink")（）**（[山本光](../Page/山本光.md "wikilink")飾）
 
   -
     秀吉的妻子，常去怒斥和用草履拍打丈夫以示激勵。
     原型角色為《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》中的**照井亞樹子（）**
 
-**[信長](../Page/織田信長.md "wikilink")（）**（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")）
+**[信長](../Page/織田信長.md "wikilink")（）**（[岩永洋昭](../Page/岩永洋昭.md "wikilink")飾）
 
   -
     武神OOO從屬的武將。
     被武神鎧武追撃至教堂「[HONNOUJI](https://zh.wikipedia.org/wiki/本能寺 "wikilink")」中與武神OOO一同戰敗身亡。
     原型角色為《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的**伊達明（）**
 
-**Fourze軍武將**（[高橋龍輝飾](../Page/高橋龍輝.md "wikilink")）
+**Fourze軍武將**（[高橋龍輝](../Page/高橋龍輝.md "wikilink")飾）
 
   -
     武神Fourze從屬的武將。
     原型角色為《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》中的**歌星賢吾（）**
 
-**Kiva軍武將**（[加藤慶祐飾](../Page/加藤慶祐.md "wikilink")）
+**Kiva軍武將**（[加藤慶祐](../Page/加藤慶祐.md "wikilink")飾）
 
   -
     武神Kiva從屬的武將。
@@ -576,7 +576,7 @@ Fourze鎧甲</p></td>
 <!-- end list -->
 
   - \* **[食人魔](../Page/食人魔.md "wikilink")（）** （替身演員：、CV：）
-    :宿主為大須賀的魅影。使用長劍作武器；左肩長出的口部可舌食其他魅影並化作自身的能力使用，已具有[巴力西卜](../Page/巴力西卜.md "wikilink")、進化體、[彌諾陶洛斯](https://zh.wikipedia.org/wiki/彌諾陶洛斯 "wikilink")、[美杜莎及](../Page/美杜莎.md "wikilink")的能力。
+    :宿主為大須賀的魅影。使用長劍作武器；左肩長出的口部可舌食其他魅影並化作自身的能力使用，已具有[巴力西卜](../Page/巴力西卜.md "wikilink")、進化體、[彌諾陶洛斯](https://zh.wikipedia.org/wiki/彌諾陶洛斯 "wikilink")、[美杜莎](../Page/美杜莎.md "wikilink")及的能力。
     \* **卡巴克魯（）**
 
       -
@@ -593,21 +593,21 @@ Fourze鎧甲</p></td>
 
   - **Zodiarts（）**
       - **[獵戶座Zodiarts](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")（）**
-      - **[英仙座Zodiarts](../Page/英仙座.md "wikilink")（）**
+      - **[英仙座](../Page/英仙座.md "wikilink")Zodiarts（）**
       - **[蒼蠅座Zodiarts](https://zh.wikipedia.org/wiki/蒼蠅座 "wikilink")（）**
-      - **[巨蟹座Zodiarts](../Page/巨蟹座.md "wikilink")（）**
+      - **[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts（）**
       - **[雙魚座Zodiarts](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")（）**
 
 <!-- end list -->
 
   - **Yummy（）**
       - **贗品Yummy（）**
-      - **[螳螂Yummy](../Page/螳螂.md "wikilink")（）**
+      - **[螳螂](../Page/螳螂.md "wikilink")Yummy（）**
       - **[貓Yummy](https://zh.wikipedia.org/wiki/貓 "wikilink")（）**
       - **[鸚鵡Yummy](https://zh.wikipedia.org/wiki/鸚鵡 "wikilink")（）**
       - **[黑鳳蝶Yummy](https://zh.wikipedia.org/wiki/黑鳳蝶 "wikilink")（）**
       - **[翼龍Yummy](https://zh.wikipedia.org/wiki/翼龍 "wikilink")（）**
-      - **[貓頭鷹Yummy](../Page/貓頭鷹.md "wikilink")（）**
+      - **[貓頭鷹](../Page/貓頭鷹.md "wikilink")Yummy（）**
       - **[軍雞Yummy](https://zh.wikipedia.org/wiki/軍雞 "wikilink")（）**
 
 <!-- end list -->

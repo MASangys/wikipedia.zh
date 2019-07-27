@@ -17,7 +17,7 @@ Pleyel\[1\]。
 夜曲**Op. 9 No.
 2**是[降E大調](https://zh.wikipedia.org/wiki/降E大調 "wikilink")，是一首十分著名的夜曲。此樂曲為蕭邦大約20歲時的作品，帶有一貫的憂鬱風格。它為複[二段體](https://zh.wikipedia.org/wiki/二段體 "wikilink")（AABABA）及有一個[尾聲](../Page/尾聲.md "wikilink")，而每次重複其旋律時會加上更多的修飾。左手部分是三個音為一組的伴奏，該伴奏運用了闊音域和踏板，強調了樂曲的12/8節拍。
 
-全曲氣氛平和，但至最後樂句音調突然升高，強而有力地彈[八度音](../Page/八度.md "wikilink")。蕭邦於Coda部分中標上senza
+全曲氣氛平和，但至最後樂句音調突然升高，強而有力地彈[八度](../Page/八度.md "wikilink")音。蕭邦於Coda部分中標上senza
 tempo（任意速度），樂曲於一串重複的旋律中平靜地結束。
 
 |                                                                                                                                 |                                                                                                                                 |

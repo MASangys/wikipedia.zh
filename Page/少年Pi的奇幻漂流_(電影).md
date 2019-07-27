@@ -1,24 +1,24 @@
-《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安执导的](../Page/李安.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David
-Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大作家](../Page/加拿大.md "wikilink")[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛飾演主角](../Page/苏拉·沙玛.md "wikilink")「-{Pi}-」（又譯「-{派}-」、埤）。
+《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安](../Page/李安.md "wikilink")执导的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David
+Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大](../Page/加拿大.md "wikilink")作家[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛](../Page/苏拉·沙玛.md "wikilink")飾演主角「-{Pi}-」（又譯「-{派}-」）。
 
-影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达赢得多个影评人协会奖的最佳摄影奖](../Page/克劳迪奥·米兰达.md "wikilink")，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。
+影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达](../Page/克劳迪奥·米兰达.md "wikilink")赢得多个影评人协会奖的最佳摄影奖，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。
 
 ## 剧情简介
 
-派西尼·莫利托·帕特尔（綽號「-{Pi}-」）是個出身[印度的男孩](../Page/印度.md "wikilink")，他熱愛宗教（他同時信仰[基督教](../Page/基督教.md "wikilink")、[印度教及](../Page/印度教.md "wikilink")[伊斯蘭教](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")），由于家裡開[動物園](../Page/動物園.md "wikilink")，對[動物十分了解](https://zh.wikipedia.org/wiki/動物 "wikilink")，有一對愛他的父母跟一個哥哥拉維。1976年2月，印度的[塔米納杜政府解體](../Page/泰米尔纳德邦.md "wikilink")，埤辛的爸爸認為這是[甘地夫人踏上極權](https://zh.wikipedia.org/wiki/甘地夫人 "wikilink")[專制之路的最](../Page/專制.md "wikilink")-{zh:後;zh-hans:后;zh-hant:後;}-一擊，於是決定舉家遷移到[加拿大](../Page/加拿大.md "wikilink")。
+派西尼·莫利托·帕特尔（綽號「-{Pi}-」）是個出身[印度](../Page/印度.md "wikilink")的男孩，他熱愛宗教（他同時信仰[基督教](../Page/基督教.md "wikilink")、[印度教](../Page/印度教.md "wikilink")及[伊斯蘭教](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")），由于家裡開[動物園](../Page/動物園.md "wikilink")，對[動物十分了解](https://zh.wikipedia.org/wiki/動物 "wikilink")，有一對愛他的父母跟一個哥哥拉維。1976年2月，印度的[塔米納杜政府解體](../Page/泰米尔纳德邦.md "wikilink")，皮辛的爸爸認為這是[甘地夫人踏上極權](https://zh.wikipedia.org/wiki/甘地夫人 "wikilink")[專制](../Page/專制.md "wikilink")之路的最-{zh:後;zh-hans:后;zh-hant:後;}-一擊，於是決定舉家遷移到[加拿大](../Page/加拿大.md "wikilink")。
 
 在前往加拿大的過程中，他們以及他們動物園的動物所搭乘的[輪船](../Page/輪船.md "wikilink")「奇桑號」因為一場[暴風雨意外沉沒](https://zh.wikipedia.org/wiki/暴風雨 "wikilink")。在混亂之中，Pi
-被[水手丟上一艘載滿動物的](../Page/水手.md "wikilink")[救生艇](https://zh.wikipedia.org/wiki/救生艇 "wikilink")，上面有一隻[斑馬](../Page/斑馬.md "wikilink")、一隻[鬣狗](https://zh.wikipedia.org/wiki/鬣狗 "wikilink")、一隻[紅毛猩猩及一隻](https://zh.wikipedia.org/wiki/紅毛猩猩 "wikilink")[孟加拉虎Richard](../Page/孟加拉虎.md "wikilink")
+被[水手](../Page/水手.md "wikilink")丟上一艘載滿動物的[救生艇](https://zh.wikipedia.org/wiki/救生艇 "wikilink")，上面有一隻[斑馬](../Page/斑馬.md "wikilink")、一隻[鬣狗](https://zh.wikipedia.org/wiki/鬣狗 "wikilink")、一隻[紅毛猩猩及一隻](https://zh.wikipedia.org/wiki/紅毛猩猩 "wikilink")[孟加拉虎](../Page/孟加拉虎.md "wikilink")Richard
 Parker。Pi
 運用他的動物知識與動物和平共處，靠著宗教信仰堅定意志，开始了他在[太平洋的奇幻漂流](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。
 
-Pi 獲救之後，日本海運公司事故鑑識人員來到 Pi 的病床來了解狀況。Pi 照實說出了動物版本：鬣狗殺了斑馬和猩猩之後被孟加拉虎殺掉，剩下 Pi
-和老虎共存在船上。海運公司人員沒有相信，并再三要求 Pi 說出真相。Pi 隨後就說了人類版本：廚師殺了水手跟 Pi 的母親之後被 Pi
-殺掉；聽者聽後表示，鬣狗代表廚師，斑馬代表水手，猩猩代表母親，而老虎就代表 Pi。
+Pi 獲救之後，日本海運公司人員來到 Pi 的病床來了解狀況。Pi 照實說出了動物版本：鬣狗殺了斑馬和猩猩之後被孟加拉虎殺掉，剩下 Pi
+和老虎共存在船上。海運公司人員沒有相信，并再三要求 Pi 說出真相。Pi 隨後就說了人類版本：廚師殺了水手跟 Pi 的母親之後被
+Pi 殺掉；鬣狗代表廚師，斑馬代表水手，猩猩代表母親，而老虎就代表 Pi 的獸性本能。
 
 ## 故事版本差異
 
-在故事版本，Pi問了那兩位日本海運公司人員，問他們會選擇哪一個版本。而在電影版本，Pi是向前來訪問的作家提問此問題。而相同地作家也是選擇了Pi的動物版本。另一方面，小說中Pi向那兩位日本海運公司人員介紹他遇見一名台灣水手（電影中由[王柏傑飾](../Page/王柏傑.md "wikilink")），但電影中沒有確切表示他是台籍水手。
+在故事版本，Pi問了那兩位日本海運公司人員，問他們會選擇哪一個版本。而在電影版本，Pi是向前來訪問的作家提問此問題。而相同地作家也是選擇了Pi的動物版本。另一方面，小說中Pi向那兩位日本海運公司人員介紹他遇見一名台灣水手（電影中由[王柏傑](../Page/王柏傑.md "wikilink")飾），但電影中沒有確切表示他是台籍水手。
 
 ## 演员
 
@@ -100,7 +100,7 @@ Anandi</p></td>
 <td><p><a href="../Page/王柏傑.md" title="wikilink">王柏傑</a></p></td>
 <td><p>水手<br />
 Buddhist Sailor</p></td>
-<td><p>Pi一家在船上認識的<a href="../Page/佛教.md" title="wikilink">佛教徒華人水手</a>。</p></td>
+<td><p>Pi一家在船上認識的<a href="../Page/佛教.md" title="wikilink">佛教</a>徒華人水手。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黃健瑋.md" title="wikilink">黃健瑋</a></p></td>
@@ -119,11 +119,11 @@ Buddhist Sailor</p></td>
 ## 制作
 
 影片投资1.2亿美元\[1\]，David
-Magee担任编剧工作。导演花了好几个月寻找男主角Pi的演員，最终17岁的新人蘇拉·沙瑪于2010年10月从3000名挑选者中脱颖而出。2011年1月开拍，拍摄地包括[臺北市立動物園](https://zh.wikipedia.org/wiki/臺北市立動物園 "wikilink")、[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[水湳經貿園區和](https://zh.wikipedia.org/wiki/水湳經貿園區 "wikilink")[屏東縣的](../Page/屏東縣.md "wikilink")[墾丁國家公園等地](../Page/墾丁國家公園.md "wikilink")，以及[印度](../Page/印度.md "wikilink")[本地治里等地](../Page/本地治里.md "wikilink")\[2\]\[3\]\[4\]。
+Magee担任编剧工作。导演花了好几个月寻找男主角Pi的演員，最终17岁的新人蘇拉·沙瑪于2010年10月从3000名挑选者中脱颖而出。2011年1月开拍，拍摄地包括[臺北市立動物園](https://zh.wikipedia.org/wiki/臺北市立動物園 "wikilink")、[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[水湳經貿園區和](https://zh.wikipedia.org/wiki/水湳經貿園區 "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")的[墾丁國家公園](../Page/墾丁國家公園.md "wikilink")等地，以及[印度](../Page/印度.md "wikilink")[本地治里](../Page/本地治里.md "wikilink")等地\[2\]\[3\]\[4\]。
 
 ### 音樂
 
-原聲帶結合東西方聲韻，由來自[加拿大的配樂家](../Page/加拿大.md "wikilink")[麥可·唐納](../Page/麥可·唐納.md "wikilink")（Mychael
+原聲帶結合東西方聲韻，由來自[加拿大](../Page/加拿大.md "wikilink")的配樂家[麥可·唐納](../Page/麥可·唐納.md "wikilink")（Mychael
 Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink")》、《[與魔鬼共騎](../Page/與魔鬼共騎.md "wikilink")》後，三度與李安合作。麥可主要利用[管弦樂的搭配](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")，呈現海浪來襲的不安定感，充斥著危險、緊張與和平，人獸之間命懸一念之氣氛。
 
 ### 原聲帶曲目
@@ -132,7 +132,7 @@ Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink
 
 影片于2012年9月在[纽约电影节首映后](https://zh.wikipedia.org/wiki/纽约电影节 "wikilink")，收获了不少好评，主要集中在故事叙述与视觉效果上。\[5\]正式上映后，美国媒体综评78分，《完全电影》、《[环球邮报](../Page/环球邮报.md "wikilink")》、《[芝加哥太阳报](https://zh.wikipedia.org/wiki/芝加哥太阳报 "wikilink")》、《[洛杉矶时报](https://zh.wikipedia.org/wiki/洛杉矶时报 "wikilink")》、《纽约杂志》、《[时代周刊](https://zh.wikipedia.org/wiki/时代周刊 "wikilink")》、《[好莱坞报道者](https://zh.wikipedia.org/wiki/好莱坞报道者 "wikilink")》等多家媒体给出满分；《[烂番茄](https://zh.wikipedia.org/wiki/烂番茄 "wikilink")》新鲜度达88%，收获广泛赞誉\[6\]。影片被《[时代周刊](https://zh.wikipedia.org/wiki/时代周刊 "wikilink")》列为年度十佳电影之一。\[7\]
 
-媒体代表性评价：“2012年度最佳影片之一，一次关于真实的拷问，一首关于人性选择的挽歌，影片的每一分每一秒都是如此真实”，“[李安最好的作品总是有这样一种倾向](../Page/李安.md "wikilink")，在平静而美好的外表下，奔腾着汹涌的道德暗流”，“堪称哲学史诗的3D技术映画，让银幕上的世界呼之欲出。甚至不是我等站在银幕外，而是融入世界中”，“从一开始多种宗教主义的探讨和融合就能看出，这部影片的主题其实与[宗教并无关系](../Page/宗教.md "wikilink")，甚至已经横亙幻想与现实的壁垒”，“绝对的大师手笔，[达尔文](https://zh.wikipedia.org/wiki/达尔文 "wikilink")[演化論](../Page/演化論.md "wikilink")、宗教[人本主义](https://zh.wikipedia.org/wiki/人本主义 "wikilink")、[信仰与心境的互动](https://zh.wikipedia.org/wiki/信仰 "wikilink")，无数理念在这部影片中水乳交融混合为一”。\[8\]
+媒体代表性评价：“2012年度最佳影片之一，一次关于真实的拷问，一首关于人性选择的挽歌，影片的每一分每一秒都是如此真实”，“[李安](../Page/李安.md "wikilink")最好的作品总是有这样一种倾向，在平静而美好的外表下，奔腾着汹涌的道德暗流”，“堪称哲学史诗的3D技术映画，让银幕上的世界呼之欲出。甚至不是我等站在银幕外，而是融入世界中”，“从一开始多种宗教主义的探讨和融合就能看出，这部影片的主题其实与[宗教](../Page/宗教.md "wikilink")并无关系，甚至已经横亙幻想与现实的壁垒”，“绝对的大师手笔，[达尔文](https://zh.wikipedia.org/wiki/达尔文 "wikilink")[演化論](../Page/演化論.md "wikilink")、宗教[人本主义](https://zh.wikipedia.org/wiki/人本主义 "wikilink")、[信仰与心境的互动](https://zh.wikipedia.org/wiki/信仰 "wikilink")，无数理念在这部影片中水乳交融混合为一”。\[8\]
 
 ## 票房
 
@@ -140,7 +140,7 @@ Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink
 
 台灣方面，首日票房為新台幣750萬元\[12\]；首週五天票房為新台幣6500萬元\[13\]；上映9天，全台票房破億\[14\]；次週票房累計至新台幣1.8億元\[15\]；第三週票房累計至新台幣2.75億元\[16\]；第四週票房累計至新台幣3.5億元\[17\]；第五週票房累計至新台幣3.9億元\[18\]，連霸全台五週週末票房冠軍\[19\]；上映第八週時，因奧斯卡公布入圍名單，再度奪回周末冠軍寶座，第八週票房累計至直逼新台幣5億元\[20\]；最終全台票房為新台幣5.5億元\[21\]，位居[2012年全台票房第2名](https://zh.wikipedia.org/wiki/台灣電影年度票房列表#2012年 "wikilink")。
 
-中國大陸方面，首週4天收获票房1亿110万人民币，其中[IMAX版的票房贡献达到](../Page/IMAX.md "wikilink")17%之多\[22\]。上映後，電影连续三週票房居首，截至12月9日累计票房近4.4亿元人民币（约合7044.4万美元）\[23\]。最终票房5.72億人民币\[24\]。
+中國大陸方面，首週4天收获票房1亿110万人民币，其中[IMAX](../Page/IMAX.md "wikilink")版的票房贡献达到17%之多\[22\]。上映後，電影连续三週票房居首，截至12月9日累计票房近4.4亿元人民币（约合7044.4万美元）\[23\]。最终票房5.72億人民币\[24\]。
 
 ## 奖项
 
@@ -413,7 +413,7 @@ Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第60屆金膠獎[38][39]</p></td>
+<td><p>第60屆金膠獎[38]</p></td>
 <td><p><strong>年度電影人</strong></p></td>
 <td><p>李安</p></td>
 <td></td>
@@ -443,7 +443,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>休士頓影評人協會獎[40]</p></td>
+<td><p>休士頓影評人協會獎[39]</p></td>
 <td><p>最佳攝影</p></td>
 <td><p>Claudio Miranda</p></td>
 <td></td>
@@ -461,7 +461,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>國際3D協會獎[41]</p></td>
+<td><p>國際3D協會獎[40]</p></td>
 <td><p><strong>哈羅德獎</strong></p></td>
 <td><p>李安</p></td>
 <td></td>
@@ -485,7 +485,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>國際電影音樂評論協會獎[42]</p></td>
+<td><p>國際電影音樂評論協會獎[41]</p></td>
 <td><p><strong>年度最佳電影音樂</strong></p></td>
 <td><p>Mychael Danna</p></td>
 <td></td>
@@ -509,19 +509,19 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>愛爾蘭電影電視獎[43]</p></td>
+<td><p>愛爾蘭電影電視獎[42]</p></td>
 <td><p>國際電影</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第46屆堪薩斯城影評人協會獎[44]</p></td>
+<td><p>第46屆堪薩斯城影評人協會獎[43]</p></td>
 <td><p><strong>最佳導演</strong></p></td>
 <td><p>李安</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第17屆拉斯維加斯影評人協會獎[45]</p></td>
+<td><p>第17屆拉斯維加斯影評人協會獎[44]</p></td>
 <td><p><strong>最佳劇情片</strong></p></td>
 <td></td>
 <td></td>
@@ -557,7 +557,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>倫敦影評人協會獎[46]</p></td>
+<td><p>倫敦影評人協會獎[45]</p></td>
 <td><p><strong>年度最佳導演</strong></p></td>
 <td><p>李安</p></td>
 <td></td>
@@ -569,7 +569,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第12屆<a href="https://zh.wikipedia.org/wiki/紐約在線影評人協會獎" title="wikilink">紐約在線影評人協會獎</a>[47]</p></td>
+<td><p>第12屆<a href="https://zh.wikipedia.org/wiki/紐約在線影評人協會獎" title="wikilink">紐約在線影評人協會獎</a>[46]</p></td>
 <td><p><strong>2012年十大頂尖電影</strong></p></td>
 <td></td>
 <td></td>
@@ -587,19 +587,19 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第16屆線上影評人獎[48]</p></td>
+<td><p>第16屆線上影評人獎[47]</p></td>
 <td><p>最佳攝影</p></td>
 <td><p>Claudio Miranda</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第24屆棕梠泉國際電影節[49]</p></td>
+<td><p>第24屆棕梠泉國際電影節[48]</p></td>
 <td><p><strong>弗雷德里克-洛維</strong></p></td>
 <td><p>Mychael Danna</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>鳳凰城影評人協會獎[50]</p></td>
+<td><p>鳳凰城影評人協會獎[49]</p></td>
 <td><p><strong>十大電影</strong></p></td>
 <td></td>
 <td></td>
@@ -647,19 +647,19 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第24屆<a href="https://zh.wikipedia.org/wiki/美國製片公會獎" title="wikilink">美國製片公會獎</a>[51]</p></td>
+<td><p>第24屆<a href="https://zh.wikipedia.org/wiki/美國製片公會獎" title="wikilink">美國製片公會獎</a>[50]</p></td>
 <td><p>劇情片傑出製作人</p></td>
 <td><p>李安, Gil Netter and David Womark</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第25屆南加州大學圖書館編劇獎[52]</p></td>
+<td><p>第25屆南加州大學圖書館編劇獎[51]</p></td>
 <td><p>編劇獎</p></td>
 <td><p>David Magee</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第17屆衛星獎[53]</p></td>
+<td><p>第17屆衛星獎[52]</p></td>
 <td><p>最佳劇情片</p></td>
 <td></td>
 <td></td>
@@ -689,7 +689,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第39屆土星獎[54]</p></td>
+<td><p>第39屆土星獎[53]</p></td>
 <td><p><strong>最佳奇幻電影</strong></p></td>
 <td></td>
 <td></td>
@@ -737,7 +737,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>西南影評人協會獎2012[55]</p></td>
+<td><p>西南影評人協會獎2012[54]</p></td>
 <td><p><strong>十大電影</strong></p></td>
 <td></td>
 <td></td>
@@ -749,7 +749,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>聖路易斯影評人協會[56]</p></td>
+<td><p>聖路易斯影評人協會[55]</p></td>
 <td><p>最佳影片</p></td>
 <td></td>
 <td></td>
@@ -779,7 +779,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第11屆視覺效果協會獎[57]</p></td>
+<td><p>第11屆視覺效果協會獎[56]</p></td>
 <td><p><strong>VES Visionary Award</strong></p></td>
 <td><p>李安</p></td>
 <td></td>
@@ -821,7 +821,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/華盛頓特區影評人協會獎" title="wikilink">華盛頓特區影評人協會獎</a>[58]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華盛頓特區影評人協會獎" title="wikilink">華盛頓特區影評人協會獎</a>[57]</p></td>
 <td><p>最佳改編劇本</p></td>
 <td><p>David Magee</p></td>
 <td></td>
@@ -839,7 +839,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>美國編劇工會獎[59]</p></td>
+<td><p>美國編劇工會獎[58]</p></td>
 <td><p>最佳改編劇本</p></td>
 <td><p>David Magee</p></td>
 <td></td>
@@ -1020,5 +1020,3 @@ Editors: Kam Chan, Jamie Baker</p></td>
 57.
 
 58.
-
-59.

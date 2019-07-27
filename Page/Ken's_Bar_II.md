@@ -1,12 +1,12 @@
 **《Ken's Bar
-II》**，是[平井堅個人第二張翻唱概念專輯](../Page/平井堅.md "wikilink")。於2009年5月27日發行。
+II》**，是[平井堅](../Page/平井堅.md "wikilink")個人第二張翻唱概念專輯。於2009年5月27日發行。
 
 ## 概述
 
   - 紀念個人概念演唱會「Ken's Bar」自1998年5月29日開店第十周年的實體作品。
   - 翻唱了許多國外及日本的樂團、歌手經典歌曲，如[EAGLES](https://zh.wikipedia.org/wiki/老鷹樂隊 "wikilink")、[Ne-Yo](https://zh.wikipedia.org/wiki/Ne-Yo "wikilink")、[Stevie
-    Wonder](https://zh.wikipedia.org/wiki/Stevie_Wonder "wikilink")、[中島美雪](../Page/中島美雪.md "wikilink")、[桑田佳祐](../Page/桑田佳祐.md "wikilink")、[濱崎步等](../Page/濱崎步.md "wikilink")。
-  - 繼上張翻唱專輯與[坂本九合唱後](../Page/坂本九.md "wikilink")，再度跨越時空與日本國寶級歌手[美空雲雀演唱](../Page/美空雲雀.md "wikilink")「Stardust」。
+    Wonder](https://zh.wikipedia.org/wiki/Stevie_Wonder "wikilink")、[中島美雪](../Page/中島美雪.md "wikilink")、[桑田佳祐](../Page/桑田佳祐.md "wikilink")、[濱崎步](../Page/濱崎步.md "wikilink")等。
+  - 繼上張翻唱專輯與[坂本九](../Page/坂本九.md "wikilink")合唱後，再度跨越時空與日本國寶級歌手[美空雲雀](../Page/美空雲雀.md "wikilink")演唱「Stardust」。
   - [草野正宗](../Page/草野正宗.md "wikilink")、[小野麗莎](https://zh.wikipedia.org/wiki/小野麗莎 "wikilink")、Frank
     McComb等歌手獻聲合唱。
   - 音樂形式多元，包含節奏藍調、爵士、巴薩諾瓦等等。

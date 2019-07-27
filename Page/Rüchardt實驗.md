@@ -1,13 +1,13 @@
 **Rüchardt實驗**是测定[理想气体](https://zh.wikipedia.org/wiki/理想气体 "wikilink")[绝热指数](../Page/绝热指数.md "wikilink")（即[理想气体](https://zh.wikipedia.org/wiki/理想气体 "wikilink")[恒压热容与](https://zh.wikipedia.org/wiki/热容 "wikilink")[恒容热容之比](https://zh.wikipedia.org/wiki/热容 "wikilink")）的一个著名实验。\[1\]
 \[2\]\[3\]该实验最早由Eduard Rüchardt (March 29, 1888 – March 7,
-1962)引入，通过测定绝热气缸上活塞的微[振动周期](https://zh.wikipedia.org/wiki/振动 "wikilink")，从而得出[绝热指数的数值](../Page/绝热指数.md "wikilink")。
+1962)引入，通过测定绝热气缸上活塞的微[振动周期](https://zh.wikipedia.org/wiki/振动 "wikilink")，从而得出[绝热指数](../Page/绝热指数.md "wikilink")的数值。
 
 ## 原理
 
 [Ruchard_experiment_layout.png](https://zh.wikipedia.org/wiki/File:Ruchard_experiment_layout.png "fig:Ruchard_experiment_layout.png")
 如图所示，压强为**P**的理想气体置于绝热容器中，该容器上方连有一截面积为**A**的竖直绝热管，管内有一质量为**m**的活塞，活塞上方连通大气。活塞与管壁的摩擦可忽略。被封闭气体的总体积为**V**；整个装置处于重力场**g**中。\[4\]
 
-现在考虑活塞在平衡位置附近做小幅[振动的情形](https://zh.wikipedia.org/wiki/振动 "wikilink")。假设活塞偏离平衡位置的[位移为](../Page/位移.md "wikilink")**x**，则此时，作用于活塞的外力**F**为：
+现在考虑活塞在平衡位置附近做小幅[振动的情形](https://zh.wikipedia.org/wiki/振动 "wikilink")。假设活塞偏离平衡位置的[位移](../Page/位移.md "wikilink")为**x**，则此时，作用于活塞的外力**F**为：
 
 \(F = A \mathrm{d}P\)
 
@@ -15,7 +15,7 @@
 
 \(a = \frac{\mathrm{d}^2x}{\mathrm{d}t^2} = \frac{A}{m}\mathrm{d}P\)
 
-由于活塞在平衡位置附近做小幅振动时，容器内的气体经历[准静态](https://zh.wikipedia.org/wiki/准静态过程 "wikilink")[绝热过程](../Page/绝热过程.md "wikilink")。由[泊松方程可知](../Page/泊松方程.md "wikilink")：
+由于活塞在平衡位置附近做小幅振动时，容器内的气体经历[准静态](https://zh.wikipedia.org/wiki/准静态过程 "wikilink")[绝热过程](../Page/绝热过程.md "wikilink")。由[泊松方程](../Page/泊松方程.md "wikilink")可知：
 
 \(V^\gamma \mathrm{d}P + \gamma P V^{\gamma-1} \mathrm{d}V = 0\)
 

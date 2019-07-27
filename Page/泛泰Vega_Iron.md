@@ -1,5 +1,5 @@
 **泛泰Vega
-Iron**（****）是[泛泰於](../Page/泛泰.md "wikilink")2013年4月26日推出的智能手機，是和[泛泰Vega
+Iron**（****）是[泛泰](../Page/泛泰.md "wikilink")於2013年4月26日推出的智能手機，是和[泛泰Vega
 N°6](https://zh.wikipedia.org/wiki/泛泰Vega_N°6 "wikilink")（A860）並行的雙旗艦之一。\[1\]其初出廠時採用[Android
 4.1.2系統](../Page/Android.md "wikilink")，並為當地首部採用Endless
 Metal設計的手機，另亦預設配備了In-cell顯示屏，IEEE

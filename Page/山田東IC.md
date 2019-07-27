@@ -1,4 +1,4 @@
-**山田東IC**（平假名：やまだひがしインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西區的](https://zh.wikipedia.org/wiki/西區_\(名古屋市\) "wikilink")[名古屋第二環狀自動車道之](../Page/名古屋第二環狀自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道只提供內外回方向出口。
+**山田東IC**（平假名：やまだひがしインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西區的](https://zh.wikipedia.org/wiki/西區_\(名古屋市\) "wikilink")[名古屋第二環狀自動車道](../Page/名古屋第二環狀自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。此交流道只提供內外回方向出口。
 
 ## 連接道路
 
@@ -23,7 +23,7 @@
   - [名古屋飛行場](https://zh.wikipedia.org/wiki/名古屋飛行場 "wikilink")
   - 洗堰綠地
   - [名鐵犬山線](https://zh.wikipedia.org/wiki/名鐵犬山線 "wikilink")、[名古屋市營地下鐵鶴舞線](https://zh.wikipedia.org/wiki/名古屋市營地下鐵鶴舞線 "wikilink")[上小田井站](https://zh.wikipedia.org/wiki/上小田井站 "wikilink")
-  - [山崎麵包名古屋工廠](../Page/山崎麵包.md "wikilink")
+  - [山崎麵包](../Page/山崎麵包.md "wikilink")名古屋工廠
   - 庄內綠地
 
 ## 鄰近設施

@@ -8,7 +8,7 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
 
   -
     本作繼假面騎士系列劇場版《**[響鬼與七人的戰鬼](../Page/響鬼與七人的戰鬼.md "wikilink")**》後另一部加入[時代劇元素的作品](https://zh.wikipedia.org/wiki/時代劇 "wikilink")。
-    [朝日電視台所播出的](../Page/朝日電視台.md "wikilink")[時代劇](https://zh.wikipedia.org/wiki/時代劇 "wikilink")《**[暴坊將軍](../Page/暴坊將軍.md "wikilink")**》，由[松平健演出的主角德川吉宗亦在本作中進行共演](../Page/松平健.md "wikilink")。
+    [朝日電視台](../Page/朝日電視台.md "wikilink")所播出的[時代劇](https://zh.wikipedia.org/wiki/時代劇 "wikilink")《**[暴坊將軍](../Page/暴坊將軍.md "wikilink")**》，由[松平健](../Page/松平健.md "wikilink")演出的主角德川吉宗亦在本作中進行共演。
 
 ## 故事概要
 
@@ -21,7 +21,7 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
 
 ### 《假面騎士OOO》原登場人物
 
-**火野映司（）**（[渡部秀飾](../Page/渡部秀.md "wikilink")）
+**火野映司（）**（[渡部秀](../Page/渡部秀.md "wikilink")飾）
 
   -
     假面騎士OOO的變身者。
@@ -33,7 +33,7 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
     回到現在後得到假面騎士Fourze的幫助合力撃退Gala，但冷不防被偷襲而失去體內三枚恐龍系核心硬幣。
     最後與成功集合21枚核心硬幣力量變成巨龍般的Gala決戰，得到Greeed一眾借出核心硬幣後，利用昆蟲系聯組的分身各自變成不同的聯組，與Birth合力消滅Gala。
 
-**Ankh（）**（[三浦涼介飾](../Page/三浦涼介.md "wikilink")）
+**Ankh（）**（[三浦涼介](../Page/三浦涼介.md "wikilink")飾）
 
   -
     協助映司的Greeed鳥系怪人。
@@ -45,14 +45,14 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
   -
     事件中與映司一同被送至江戶時代。鵺Yummy來襲之際發現伊達遺留的鐵桶及變身系統而助映司變成Birth戰鬥。
 
-**伊達明（）**（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")）
+**伊達明（）**（[岩永洋昭](../Page/岩永洋昭.md "wikilink")飾）
 
   -
     假面騎士Birth的變身者。
     因盛載普通硬幣的鐵桶與映司共同轉送至過去而無法變身Birth，以血肉之軀與後藤承受風險的利用Birth Buster發動「CELL
     Burst」及CLAWS·Sasori，破壞Gala本營城外佈下的結界。
 
-**後藤慎太郎（）**（[君嶋麻耶飾](../Page/君嶋麻耶.md "wikilink")）
+**後藤慎太郎（）**（[君嶋麻耶](../Page/君嶋麻耶.md "wikilink")飾）
 
   -
     伊達明的支援者。
@@ -83,13 +83,13 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
     前鴻上生體研究所的會長，現時與Greeed組織一起。
     強調自己與Gala終結世界的理念完全是兩碼子的事。
 
-**Uva（）**（[山田悠介飾](../Page/山田悠介.md "wikilink")）
+**Uva（）**（[山田悠介](../Page/山田悠介.md "wikilink")飾）
 
   -
     Greeed昆蟲系怪人。現時與真木組織一起。
     為被Gala奪去核心硬幣的事而被迫靜觀其變，故事結尾借出核心硬幣給OOO去消滅Gala。
 
-**Kazari（）**（[橋本汰斗飾](../Page/橋本汰斗.md "wikilink")）
+**Kazari（）**（[橋本汰斗](../Page/橋本汰斗.md "wikilink")飾）
 
   -
     Greeed貓系怪人。現時與真木組織一起。
@@ -101,7 +101,7 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
     Greeed重力系怪人。現時與真木組織一起。
     為被Gala奪去核心硬幣的事而被迫靜觀其變，故事結尾借出核心硬幣給OOO去消滅Gala。
 
-**Mezool（）**（[矢作穗香飾](../Page/矢作穗香.md "wikilink")）
+**Mezool（）**（[矢作穗香](../Page/矢作穗香.md "wikilink")飾）
 
   -
     Greeed水棲系怪人。現時與真木組織一起。
@@ -109,7 +109,7 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
 
 ### 本作登場人物
 
-**Gala（）**（[酒井美紀飾](../Page/酒井美紀.md "wikilink")）
+**Gala（）**（[酒井美紀](../Page/酒井美紀.md "wikilink")飾）
 
   -
     800年前製造核心硬幣的其中一名鍊金術士。
@@ -117,12 +117,12 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
     宣言終結這個世界而成為新世界的王，進行著回收核心硬幣的行動。
     被OOO與Fourze重創後，利用收集的21枚核心硬幣啟動「失落的硬幣」裝置而變身成巨大化龍型怪物，最後被OOO聯組8人與Birth共同消滅。
 
-**Bell（）**（[荻野可鈴飾](../Page/荻野可鈴.md "wikilink")）
+**Bell（）**（[荻野可鈴](../Page/荻野可鈴.md "wikilink")飾）
 
   -
     Gala製造出的使魔，複數分身的小丑裝扮少女。
 
-**德川吉宗（）**（[松平健飾](../Page/松平健.md "wikilink")）
+**德川吉宗（）**（[松平健](../Page/松平健.md "wikilink")飾）
 
   -
     江戶幕府第八代將軍。
@@ -130,19 +130,19 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
     因為映司作出保護民眾的舉動而決定出面幫助平息混亂。
     眼見用作變身用的硬幣後，回想起收藏的貢品中有著相同的事物，於是把三枚爬蟲系核心硬幣交給映司，令OOO變身爬蟲系聯組消滅鵺Yummy。
 
-**若葉駿（）**（[根岸泰樹飾](../Page/根岸泰樹.md "wikilink")）
+**若葉駿（）**（[根岸泰樹](../Page/根岸泰樹.md "wikilink")飾）
 
   -
     因追尋被Gala憑依母親若葉五月而遇上映司一行人。
     同樣與映司一同被送至江戶時代。
 
-**若葉五月（）**（[酒井美紀飾](../Page/酒井美紀.md "wikilink")）
+**若葉五月（）**（[酒井美紀](../Page/酒井美紀.md "wikilink")飾）
 
   -
     若葉駿的母親，Gala復活途中身體被憑依。
     OOO首次與Gala戰鬥中成功被救出。
 
-**如月弦太朗（）**（[福士蒼汰飾](../Page/福士蒼汰.md "wikilink")）
+**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")飾）
 
   -
     假面騎士Fourze變身者，天之川學園高中的2年級生。
@@ -150,7 +150,7 @@ The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈�
     揚言要和所有假面騎士成為朋友。
     與OOO聯手使出Rider Swing-by擊退Gala。
 
-**城島悠木（）**（[清水富美加飾](../Page/清水富美加.md "wikilink")）
+**城島悠木（）**（[清水富美加](../Page/清水富美加.md "wikilink")飾）
 
   -
     天之川學園高中的2年級生，弦太朗的青梅竹馬。

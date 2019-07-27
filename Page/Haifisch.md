@@ -3,7 +3,7 @@ da中](../Page/Liebe_ist_für_alle_da.md "wikilink")，在MV公布之前，Ramms
 
 ## MV
 
-MV于2010年8月23日发布在乐队的[Myspace页面上](../Page/Myspace.md "wikilink")。
+MV于2010年8月23日发布在乐队的[Myspace](../Page/Myspace.md "wikilink")页面上。
 
 MV展现了乐队成员和其他哀悼者参加主唱[Till
 Lindemann的葬礼](https://zh.wikipedia.org/wiki/Till_Lindemann "wikilink")。两个女人因都有Till的孩子开始争吵，与此同时，乐队其他成员在考虑谁应该取代Lindemann作为主唱（从和[James

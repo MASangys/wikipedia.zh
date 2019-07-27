@@ -3,7 +3,7 @@ Boy**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音�
 Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2013年1月1日發行。在發行後售出265,332張。
 
 《**I Got a
-Boy**》亦在[美國的billboard榜中得到第一](https://zh.wikipedia.org/wiki/美國 "wikilink")，並得到billboard的稱讚\[1\]。在第24屆[香港電台國際流行音樂大獎得到全年最佳銷量韓文專輯獎](../Page/香港電台.md "wikilink")。
+Boy**》亦在[美國的billboard榜中得到第一](https://zh.wikipedia.org/wiki/美國 "wikilink")，並得到billboard的稱讚\[1\]。在第24屆[香港電台](../Page/香港電台.md "wikilink")國際流行音樂大獎得到全年最佳銷量韓文專輯獎。
 
 ## 曲目
 

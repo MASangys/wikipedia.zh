@@ -1,6 +1,6 @@
 大众集团A平台是大众集团旗下多个品牌的[紧凑型车和](https://zh.wikipedia.org/wiki/紧凑型车 "wikilink")[中级车共享的一款](https://zh.wikipedia.org/wiki/中级车 "wikilink")[汽车平台](../Page/汽车平台.md "wikilink")。
 
-该平台的原型基于[大众高尔夫Mk](../Page/大众高尔夫.md "wikilink")1，并同时适用于[前驱和](https://zh.wikipedia.org/wiki/前驱 "wikilink")[四驱](https://zh.wikipedia.org/wiki/四驱 "wikilink")。A级平台仅用于[引擎前置且横置的车型](https://zh.wikipedia.org/wiki/引擎前置 "wikilink")。
+该平台的原型基于[大众高尔夫](../Page/大众高尔夫.md "wikilink")Mk1，并同时适用于[前驱和](https://zh.wikipedia.org/wiki/前驱 "wikilink")[四驱](https://zh.wikipedia.org/wiki/四驱 "wikilink")。A级平台仅用于[引擎前置且横置的车型](https://zh.wikipedia.org/wiki/引擎前置 "wikilink")。
 
 基于该平台的车型常用第几代表示，如第一代高尔夫被称为“高尔夫A1”。虽然通常“Mk\*”（Mark的缩写）会用来替代表示“A\*”，但这可能引起误导，例如尚酷Mk1和尚酷Mk2都是基于A1平台的。
 
@@ -67,7 +67,7 @@
     (1J)
   - [大众捷达（第四代，宝来，Bora）](https://zh.wikipedia.org/wiki/大众捷达#第四代（1998） "wikilink")
     (1J)
-  - [大众朗逸（第一代）](../Page/大众朗逸.md "wikilink")
+  - [大众朗逸](../Page/大众朗逸.md "wikilink")（第一代）
   - [大众新甲壳虫](../Page/大众新甲壳虫.md "wikilink") (1C/1Y/9C)
   - [SEAT León
     Mk1](https://zh.wikipedia.org/wiki/SEAT_León#1M "wikilink") (1M)

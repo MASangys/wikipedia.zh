@@ -1,5 +1,5 @@
 《**Cross 〜never say
-die〜**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2002年8月7日於日本發行。
+die〜**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2002年8月7日於日本發行。
 
 ## 概要
 
@@ -15,7 +15,7 @@ die〜**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE的第](ht
         Hara](https://zh.wikipedia.org/wiki/原一博 "wikilink")
     <!-- end list -->
       -
-        [日本電視台系劇集](../Page/日本電視台.md "wikilink")《[東京獨門獨院](https://zh.wikipedia.org/wiki/東京獨門獨院 "wikilink")》（）插曲
+        [日本電視台](../Page/日本電視台.md "wikilink")系劇集《[東京獨門獨院](https://zh.wikipedia.org/wiki/東京獨門獨院 "wikilink")》（）插曲
 2.  Cross 〜never say die〜 （LA 2002 REMIX）\[5:19\]
       - 作詞：[Kenn
         Kato](https://zh.wikipedia.org/wiki/Kenn_Kato "wikilink") /

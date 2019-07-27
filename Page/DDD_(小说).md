@@ -3,14 +3,14 @@
 ## 概要
 
 [成人电子小说作品](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")《[月姬](../Page/月姬.md "wikilink")》和《[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》等作品的[TYPE-MOON的](../Page/TYPE-MOON.md "wikilink")[剧本](../Page/剧本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[奈须蘑菇的](https://zh.wikipedia.org/wiki/奈须蘑菇 "wikilink")[传奇小说](https://zh.wikipedia.org/wiki/传奇小说 "wikilink")。[讲谈社出版](../Page/讲谈社.md "wikilink")。《[浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")》Vol.3（2004年7月发售）开始不定期连载。角色设计以及插画担当为同社的[小山广和](https://zh.wikipedia.org/wiki/小山广和 "wikilink")。本作是[TYPE-MOON第一次没有](../Page/TYPE-MOON.md "wikilink")[武内崇参与的商业作品](../Page/武内崇.md "wikilink")。
+night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》等作品的[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")的[剧本](../Page/剧本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[奈须蘑菇的](https://zh.wikipedia.org/wiki/奈须蘑菇 "wikilink")[传奇小说](https://zh.wikipedia.org/wiki/传奇小说 "wikilink")。[讲谈社](../Page/讲谈社.md "wikilink")出版。《[浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")》Vol.3（2004年7月发售）开始不定期连载。角色设计以及插画担当为同社的[小山广和](https://zh.wikipedia.org/wiki/小山广和 "wikilink")。本作是[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")第一次没有[武内崇](../Page/武内崇.md "wikilink")参与的商业作品。
 
-本作品描绘的是“恶魔附身”的故事，尽管有恶魔登场，但是却没有奈须蘑菇作品中常见的[魔法的概念](../Page/魔法.md "wikilink")。因此，《DDD》是与《[月姬](../Page/月姬.md "wikilink")》和《[Fate/stay
+本作品描绘的是“恶魔附身”的故事，尽管有恶魔登场，但是却没有奈须蘑菇作品中常见的[魔法](../Page/魔法.md "wikilink")的概念。因此，《DDD》是与《[月姬](../Page/月姬.md "wikilink")》和《[Fate/stay
 night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》世界观不同的一部作品\[1\]。另外，作品中的年号记法也是一大特征。
 
 单行本上确认的标题有“Malion in day dream”、“H-RED-B”、“S.Peeping Beauty”、“.D.D.D”。
 
-奈须蘑菇在[书评杂志](https://zh.wikipedia.org/wiki/书评 "wikilink")《达·芬奇》的采访中曾宣布预定全三部，而后在自己的[主页“竹箒”](http://www.remus.dti.ne.jp/~takeucto/)上更正为全四卷。并称预计2007年内完结，第三卷将在来年（2008年）发售。然而，直到2014年仍没有[续篇的消息](https://zh.wikipedia.org/wiki/续篇 "wikilink")。
+奈须蘑菇在[书评杂志](https://zh.wikipedia.org/wiki/书评 "wikilink")《达·芬奇》的采访中曾宣布预定全三部，而后在自己的[主页“竹箒”](http://www.remus.dti.ne.jp/~takeucto/)上更正为全四卷。并称预计2007年内完结，第三卷将在来年（2008年）发售。然而，直到2019年仍没有[续篇的消息](https://zh.wikipedia.org/wiki/续篇 "wikilink")。
 
 2010年7月13日发售的[讲谈社](../Page/讲谈社.md "wikilink")中刊载了《DDD》的番外篇《宙之外》。同时刊载了榎本俊二的同作漫画版。
 

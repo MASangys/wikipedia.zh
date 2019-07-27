@@ -1,6 +1,6 @@
 **Push
 Video**，意即主動的影音通報功能，為影像通報系統，提供事件的提醒消息和影片，以推播通知的方式在智慧型裝置上運用。此功能在手機系統上提供了一個「永遠在線」的能力。\[1\]功能的運用模式為在攝像機偵測到異常事件發生時的一定時間內，系統會主動將事件發生前預錄到事件發生後的錄影片段發送到使用者的行動裝置上頭。目前在運用在偵測器上，可廣泛應於家庭照護、防盜防災...等情境。事件被觸發後，各個手機即會啓動相對推播功能。\[2\]
-其為應用程式[EagleEyes的主要功能之一](https://zh.wikipedia.org/wiki/EagleEyes "wikilink")，同樣也適用於[Android以及](../Page/Android.md "wikilink")[iOS兩個平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，能在通知時滑動手機通知瞭解事件內容。\[3\]\[4\]\[5\]
+其為應用程式[EagleEyes的主要功能之一](https://zh.wikipedia.org/wiki/EagleEyes "wikilink")，同樣也適用於[Android](../Page/Android.md "wikilink")以及[iOS兩個平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，能在通知時滑動手機通知瞭解事件內容。\[3\]\[4\]\[5\]
 
 ## 歷史
 
@@ -12,7 +12,7 @@ mail](https://zh.wikipedia.org/wiki/Push_mail "wikilink")
 ## 功能簡述
 
 本功能以[網路攝影機為主體](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")，藉由網路攝影機內建或是外接的感應器，偵測到異常事件發生時，將網路攝影機前方所拍攝到的影片，以[wifi](https://zh.wikipedia.org/wiki/wifi "wikilink"),[2G](../Page/2G.md "wikilink"),
-[3G](../Page/3G.md "wikilink")，[4G的方式](../Page/4G.md "wikilink")，將影片自動寄送到使用者的智慧型手機上。\[6\]使用者收到通知之後，即可觀看攝影機所拍攝到的異常發生時間內所錄製的影片。起至事件發生前三秒，後至事件發生後四十秒。\[7\]在此架構之下，推撥影片增加了通知的即時性。它提供遠程用戶即時通知；新的警訊會自動出現在設備上，而不需要用戶作出任何要求。此為AVTECH所研發之核心技術。\[8\]
+[3G](../Page/3G.md "wikilink")，[4G](../Page/4G.md "wikilink")的方式，將影片自動寄送到使用者的智慧型手機上。\[6\]使用者收到通知之後，即可觀看攝影機所拍攝到的異常發生時間內所錄製的影片。起至事件發生前三秒，後至事件發生後四十秒。\[7\]在此架構之下，推撥影片增加了通知的即時性。它提供遠程用戶即時通知；新的警訊會自動出現在設備上，而不需要用戶作出任何要求。此為AVTECH所研發之核心技術。\[8\]
 
 ## 外部連結
 

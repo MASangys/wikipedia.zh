@@ -1,5 +1,5 @@
 「**One of
-You**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第](../Page/U-KISS.md "wikilink")4張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月5日由[avex
+You**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第4張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月5日由[avex
 trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

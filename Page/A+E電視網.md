@@ -1,11 +1,11 @@
-**A+E電視網**（，全稱，曾縮寫為）是一家通過[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[衛星電視實現在](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[美國及海外地區聯播的](https://zh.wikipedia.org/wiki/美國 "wikilink")[電視網](https://zh.wikipedia.org/wiki/電視網 "wikilink")。“”是藝術（）與娛樂（）兩個英文單詞的首字母縮寫。A+E電視網目前由[赫斯特国际集团和](../Page/赫斯特国际集团.md "wikilink")[華特迪士尼公司旗下的](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[迪士尼ABC電視集團聯合運營](https://zh.wikipedia.org/wiki/迪士尼ABC電視集團 "wikilink")。
+**A+E電視網**（，全稱，曾縮寫為）是一家通過[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[衛星電視實現在](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[美國及海外地區聯播的](https://zh.wikipedia.org/wiki/美國 "wikilink")[電視網](https://zh.wikipedia.org/wiki/電視網 "wikilink")。“”是藝術（）與娛樂（）兩個英文單詞的首字母縮寫。A+E電視網目前由[赫斯特国际集团](../Page/赫斯特国际集团.md "wikilink")和[華特迪士尼公司旗下的](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[迪士尼ABC電視集團聯合運營](https://zh.wikipedia.org/wiki/迪士尼ABC電視集團 "wikilink")。
 
 ## 電視網歷史
 
 A+E電視網最初是由和合資組建而成。\[1\]
 
 截止2009年年底，A+E電視網完成了對人生娛樂電視公司（Lifetime Entertainment
-Services）的收購。完成收購之後，A+E電視網的新持股比例為赫斯特国际集团與迪士尼ABC電視集團各持股43%，[NBC環球集團持股](../Page/NBC環球.md "wikilink")16%。同時三方還達成一項協議，NBC環球集團將在未來15年內將手上的股票分別出售給赫斯特國際集團及迪士尼ABC電視集團。\[2\]\[3\]
+Services）的收購。完成收購之後，A+E電視網的新持股比例為赫斯特国际集团與迪士尼ABC電視集團各持股43%，[NBC環球](../Page/NBC環球.md "wikilink")集團持股16%。同時三方還達成一項協議，NBC環球集團將在未來15年內將手上的股票分別出售給赫斯特國際集團及迪士尼ABC電視集團。\[2\]\[3\]
 2012年7月，NBC環球集團確認向赫斯特國際集團和迪士尼ABC電視集團出售其手中的A+E電視網股份。赫斯特國際集團和迪士尼ABC電視集團將成為A+E電視網各占股一半的合資夥伴。\[4\]
 
 ## 旗下頻道
@@ -40,7 +40,7 @@ A+E英國電視網所經營的業務範圍包括歐洲、中東及非洲。
 
 ### A+E亞洲電視網
 
-A+E亞洲電視網成立於2007年4月，由A+E電視網和[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[付費電視運營商](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[Astro集團共同投資組建](../Page/Astro集團.md "wikilink")。A+E亞洲電視網總部位於[新加坡](../Page/新加坡.md "wikilink")，但是在馬來西亞的[吉隆坡也有運營部門](../Page/吉隆坡.md "wikilink")。\[10\]
+A+E亞洲電視網成立於2007年4月，由A+E電視網和[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[付費電視運營商](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[Astro集團](../Page/Astro集團.md "wikilink")共同投資組建。A+E亞洲電視網總部位於[新加坡](../Page/新加坡.md "wikilink")，但是在馬來西亞的[吉隆坡](../Page/吉隆坡.md "wikilink")也有運營部門。\[10\]
 A+E亞洲電視網在亞洲地區運營著四個頻道。
 
 2009年，A+E亞洲電視網斥資80萬美元與馬來西亞國家電影發展公司達成合作協議，雙方將共同製作節目在A+E亞洲電視網上播出。\[11\]
@@ -48,7 +48,7 @@ A+E亞洲電視網在亞洲地區運營著四個頻道。
 
 ## 家庭娛樂部門
 
-A+E電視網家庭娛樂部門主要是包裝并行銷A+E電視網旗下各頻道（例如：A+E頻道、[歷史頻道和人物傳記頻道等](../Page/歷史頻道.md "wikilink")）節目內容，同時它還收購一些節目的版權，例如：美國的電視劇、英國喜劇、邪典電視和體育節目等。
+A+E電視網家庭娛樂部門主要是包裝并行銷A+E電視網旗下各頻道（例如：A+E頻道、[歷史頻道](../Page/歷史頻道.md "wikilink")和人物傳記頻道等）節目內容，同時它還收購一些節目的版權，例如：美國的電視劇、英國喜劇、邪典電視和體育節目等。
 
 A+E電視網家庭娛樂部門目前行銷的內容請參看下列內容。
 

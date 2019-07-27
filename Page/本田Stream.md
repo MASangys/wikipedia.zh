@@ -1,4 +1,4 @@
-**本田Stream**（日語：），是[日本](../Page/日本.md "wikilink")[本田技研工業旗下的一款](../Page/本田技研工业.md "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，於2000年上市至今，分別在[日本](../Page/日本.md "wikilink")、[北韓](https://zh.wikipedia.org/wiki/北韓 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[香港和](../Page/香港.md "wikilink")[澳門等地區販售](../Page/澳門.md "wikilink")。其競爭對手為[豐田Wish](../Page/豐田Wish.md "wikilink")。
+**本田Stream**（日語：），是[日本](../Page/日本.md "wikilink")[本田技研工業旗下的一款](../Page/本田技研工业.md "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，於2000年上市至今，分別在[日本](../Page/日本.md "wikilink")、[北韓](https://zh.wikipedia.org/wiki/北韓 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[香港](../Page/香港.md "wikilink")和[澳門](../Page/澳門.md "wikilink")等地區販售。其競爭對手為[豐田Wish](../Page/豐田Wish.md "wikilink")。
 
 ## 歷史
 
@@ -6,7 +6,7 @@
 
 ### 第一代
 
-2000年10月27日本田正式推出第一代Stream，於日本發售。第一代是在原來[本田思域的底盤基礎上拉長軸距](../Page/本田思域.md "wikilink")，成為七人座位版本。但相對於[運動型多功能車](https://zh.wikipedia.org/wiki/運動型多功能車 "wikilink")，它又較為矮小。
+2000年10月27日本田正式推出第一代Stream，於日本發售。第一代是在原來[本田思域](../Page/本田思域.md "wikilink")的底盤基礎上拉長軸距，成為七人座位版本。但相對於[運動型多功能車](https://zh.wikipedia.org/wiki/運動型多功能車 "wikilink")，它又較為矮小。
 
 第一代的本田Stream推出時，是搭載了1.7升的本田D17引擎，以及2.0升的本田K20引擎。
 

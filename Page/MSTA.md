@@ -1,12 +1,12 @@
 [2S19_Msta-S_of_the_Ukrainian_Army.jpg](https://zh.wikipedia.org/wiki/File:2S19_Msta-S_of_the_Ukrainian_Army.jpg "fig:2S19_Msta-S_of_the_Ukrainian_Army.jpg")的2S19
 Msta-S\]\] **2S19
 MSTA-S自行火炮**（，[拉丁化](https://zh.wikipedia.org/wiki/拉丁化 "wikilink")：**2S19
-"MSTA-S"**）是一個自走的152毫米[榴彈砲](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，於1989年在[蘇聯陸軍投入服務并在](../Page/蘇聯陸軍.md "wikilink")1991年[苏联解体后被](../Page/苏联解体.md "wikilink")[俄罗斯陆军继续使用](../Page/俄罗斯陆军.md "wikilink")。它是基於[T-80底盤的車輛](https://zh.wikipedia.org/wiki/T-80 "wikilink")，但是使用[T-72的柴油發動機](https://zh.wikipedia.org/wiki/T-72 "wikilink")。
+"MSTA-S"**）是一個自走的152毫米[榴彈砲](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，於1989年在[蘇聯陸軍](../Page/蘇聯陸軍.md "wikilink")投入服務并在1991年[苏联解体](../Page/苏联解体.md "wikilink")后被[俄罗斯陆军](../Page/俄罗斯陆军.md "wikilink")继续使用。它是基於[T-80底盤的車輛](https://zh.wikipedia.org/wiki/T-80 "wikilink")，但是使用[T-72的柴油發動機](https://zh.wikipedia.org/wiki/T-72 "wikilink")。
 
 ## 發展
 
 2S19
-MSTA-S自行火炮是[苏联為了進行現代化榴彈砲部署計劃而設計的](../Page/苏联.md "wikilink")，苏联将[2A65榴彈砲](https://zh.wikipedia.org/wiki/2A65榴彈砲 "wikilink")（152毫米）牽引炮安装在[T-80坦克的底盘上产生了](https://zh.wikipedia.org/wiki/T-80 "wikilink")“MSTA-S自行火炮”（俄罗斯国防部火箭炮兵装备总局将其命名为“2S19自行火炮”）。
+MSTA-S自行火炮是[苏联](../Page/苏联.md "wikilink")為了進行現代化榴彈砲部署計劃而設計的，苏联将[2A65榴彈砲](https://zh.wikipedia.org/wiki/2A65榴彈砲 "wikilink")（152毫米）牽引炮安装在[T-80坦克的底盘上产生了](https://zh.wikipedia.org/wiki/T-80 "wikilink")“MSTA-S自行火炮”（俄罗斯国防部火箭炮兵装备总局将其命名为“2S19自行火炮”）。
 
 2S19自行火炮的研發(費爾馬項目)從1985年開始，原型被稱為**317工程**。
 2S19自行火炮的標準設備包括一個1P22半自動裝彈系統、NBC防護系統、被動夜視設備、涉水套件、推土鏟和81毫米煙霧彈發射器、1V116對講系統和一個16千瓦的AP-18D發電機。在2008年，俄軍著手改進其自動化火控系統模組以提高生存存性。

@@ -1,9 +1,9 @@
-「**Flower**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨的第](../Page/龍俊亨.md "wikilink")1張個人迷你專輯。於2013年12月16日發行。唱片公司為[Cube
+「**Flower**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨](../Page/龍俊亨.md "wikilink")的第1張個人迷你專輯。於2013年12月16日發行。唱片公司為[Cube
 Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。
 
 ## 概要
 
-  - 「Flower」是[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨的首張個人迷你專輯](../Page/龍俊亨.md "wikilink")，全碟由自己與金泰洙共同製作。\[1\]
+  - 「Flower」是[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨](../Page/龍俊亨.md "wikilink")的首張個人迷你專輯，全碟由自己與金泰洙共同製作。\[1\]
   - 2013年12月6日，[CUBE透過官方SNS表示龍俊亨將發行迷你一輯](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，所收錄的五首歌曲，全由龍俊亨自己參與創作，主打歌為專輯同名歌曲「Flower」。\[2\]
   - 2013年12月13日，在各大音源網站公開專輯音源。
   - 2013年12月16日，實體專輯正式發行。

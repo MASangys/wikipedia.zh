@@ -1,4 +1,4 @@
-《**GUNDAM創戰者**》（，）為2013年10月7日起於[東京電視台播放的日本電視動畫](../Page/東京電視台.md "wikilink")。並於2014年10月8日開始上映第二季動畫－**[GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink")**（，）。
+《**GUNDAM創戰者**》（，）為2013年10月7日起於[東京電視台](../Page/東京電視台.md "wikilink")播放的日本電視動畫。並於2014年10月8日開始上映第二季動畫－**[GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink")**（，）。
 
 ## 概要
 
@@ -1352,7 +1352,7 @@ NAOKI</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>2013年10月13日－2014年4月6日</p></td>
 <td><p>星期日 19時00分－19時30分</p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1464,7 +1464,7 @@ NAOKI</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>2014年10月12日－2015年4月5日</p></td>
 <td><p>星期日 19時00分－19時30分</p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 <td></td>
 </tr>

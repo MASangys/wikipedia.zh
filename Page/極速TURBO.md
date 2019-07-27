@@ -1,9 +1,9 @@
-《**渦輪方程式**》（）是一部2013年3D動畫電影，由美國[夢工場公司製作](https://zh.wikipedia.org/wiki/夢工場 "wikilink")，由[加拿大籍的](../Page/加拿大.md "wikilink")[大衛·蘇倫執導](https://zh.wikipedia.org/wiki/大衛·蘇倫 "wikilink")。電影上映之後，一個名叫《》的電視系列也會跟著於2013年12月在[Netflix推出](../Page/Netflix.md "wikilink")，以及在[Cartoon
+《**渦輪方程式**》（）是一部2013年3D動畫電影，由美國[夢工場公司製作](https://zh.wikipedia.org/wiki/夢工場 "wikilink")，由[加拿大](../Page/加拿大.md "wikilink")籍的[大衛·蘇倫執導](https://zh.wikipedia.org/wiki/大衛·蘇倫 "wikilink")。電影上映之後，一個名叫《》的電視系列也會跟著於2013年12月在[Netflix](../Page/Netflix.md "wikilink")推出，以及在[Cartoon
 Network播映](../Page/卡通頻道.md "wikilink")。
 
 ## 劇情
 
-一隻名叫Turbo的蝸牛，一直夢想可以參加[印第安納波利斯500英里大賽](../Page/印第安納波利斯500.md "wikilink")。在一次被吸進汽車引擎的意外之後，车内的[氮氧加速系统](https://zh.wikipedia.org/wiki/氮氧加速系统 "wikilink")
+一隻名叫Turbo的蝸牛，一直夢想可以參加[印第安納波利斯500](../Page/印第安納波利斯500.md "wikilink")英里大賽。在一次被吸進汽車引擎的意外之後，车内的[氮氧加速系统](https://zh.wikipedia.org/wiki/氮氧加速系统 "wikilink")
 让它的DNA发生基因突变，让它化身成為一隻有超能力，速度極高的蝸牛。
 
 ## 角色
@@ -105,12 +105,12 @@ Network播映](../Page/卡通頻道.md "wikilink")。
 
 ## 製作
 
-[夢工場動畫跟](https://zh.wikipedia.org/wiki/夢工場動畫 "wikilink")[印第安納波利斯500的主辦單位](../Page/印第安納波利斯500.md "wikilink")[印第賽車合作](../Page/印第賽車.md "wikilink")，在電影中重現[印第安納波利斯賽車場](../Page/印第安納波利斯賽車場.md "wikilink")。四屆印第賽車總冠軍Dario
+[夢工場動畫跟](https://zh.wikipedia.org/wiki/夢工場動畫 "wikilink")[印第安納波利斯500](../Page/印第安納波利斯500.md "wikilink")的主辦單位[印第賽車](../Page/印第賽車.md "wikilink")合作，在電影中重現[印第安納波利斯賽車場](../Page/印第安納波利斯賽車場.md "wikilink")。四屆印第賽車總冠軍Dario
 Franchitti是電影的技術顧問，提供有關蝸牛Turbo在賽事中的觀點的相關建議。\[22\]
 
 ## 评价
 
-[烂番茄新鲜度为](https://zh.wikipedia.org/wiki/烂番茄 "wikilink")64%，平均得分6分；[Metacritic上媒体专业综评](../Page/Metacritic.md "wikilink")59分；在[CinemaScore上](https://zh.wikipedia.org/wiki/CinemaScore "wikilink")18岁以下观众打分"A+"\[23\]，好评占多数。
+[烂番茄新鲜度为](https://zh.wikipedia.org/wiki/烂番茄 "wikilink")64%，平均得分6分；[Metacritic](../Page/Metacritic.md "wikilink")上媒体专业综评59分；在[CinemaScore上](https://zh.wikipedia.org/wiki/CinemaScore "wikilink")18岁以下观众打分"A+"\[23\]，好评占多数。
 
 ## 票房
 

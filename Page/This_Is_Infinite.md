@@ -1,5 +1,5 @@
 《**This Is INFINITE**》（）是以韩国[Woollim
-Entertainment公司培养的当红人气男子组合](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")[INFINITE为主角的真人秀类综艺节目](../Page/INFINITE.md "wikilink")，这档节目没有固定MC，没有固定的的节目环节，每期都有各自的特色主题。《This
+Entertainment公司培养的当红人气男子组合](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")为主角的真人秀类综艺节目，这档节目没有固定MC，没有固定的的节目环节，每期都有各自的特色主题。《This
 Is INFINITE》的制作PD郑有贞此前也制作了《 INFINITE你是我的哥哥》、《Seasame Player》、《
 INFINITE的序列王》等综艺，这档节目依然围绕 INFINITE全员的真实面貌展开，还原最真实的 INFINITE。
 

@@ -1,7 +1,7 @@
 **WIT
-STUDIO**是[日本的](../Page/日本.md "wikilink")[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")，是由[Production
+STUDIO**是[日本](../Page/日本.md "wikilink")的[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")，是由[Production
 I.G動畫](../Page/Production_I.G.md "wikilink")《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》的六課工作室，配合母公司「」在動畫產業的戰略佈局所成立的，與主打國際大成本製作的[Production
-I.G](../Page/Production_I.G.md "wikilink")、改編原作與代工為主的[XEBEC的關係密切](../Page/XEBEC.md "wikilink")。
+I.G](../Page/Production_I.G.md "wikilink")、改編原作與代工為主的[XEBEC](../Page/XEBEC.md "wikilink")的關係密切。
 
 而WIT
 STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》、《[鬼灯的冷徹](https://zh.wikipedia.org/wiki/鬼灯的冷徹 "wikilink")》、《[終結的熾天使](../Page/終結的熾天使.md "wikilink")》、《[甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")》、《[魔法使的新娘](../Page/魔法使的新娘.md "wikilink")》。
@@ -96,7 +96,7 @@ STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進�
 <td><p>2019年</p></td>
 <td><p><a href="../Page/海盜戰記.md" title="wikilink">海盜戰記</a></p></td>
 <td></td>
-<td><p>未定</p></td>
+<td><p>7月—</p></td>
 <td><p>籔田修平</p></td>
 <td></td>
 <td></td>
@@ -160,7 +160,7 @@ STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進�
 同時推出OAD，分前篇、中篇及後篇</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/笑傲曇天.md" title="wikilink">笑傲曇天〈外傳〉～訣別，豺之誓言～</a></p></td>
+<td><p><a href="../Page/笑傲曇天.md" title="wikilink">笑傲曇天</a>〈外傳〉～訣別，豺之誓言～</p></td>
 <td></td>
 <td><p>2017年12月</p></td>
 <td><p>若野哲也</p></td>
@@ -189,7 +189,7 @@ STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進�
 <td><p>2018年7月</p></td>
 <td><p>矢島哲生</p></td>
 <td><p>遊戯</p></td>
-<td><p>與<a href="../Page/OLM.md" title="wikilink">OLM共同製作</a></p></td>
+<td><p>與<a href="../Page/OLM.md" title="wikilink">OLM</a>共同製作</p></td>
 </tr>
 <tr class="even">
 <td><p>笑傲曇天〈外傳〉～櫻華，天望的架橋～</p></td>

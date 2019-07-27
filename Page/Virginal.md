@@ -1,4 +1,4 @@
-《**Virginal**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[蒼井翔太第](../Page/蒼井翔太.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2014年1月15日由[b-green發售](https://zh.wikipedia.org/wiki/b-green "wikilink")，商品番號QECB-90056（初回限定盤）QECB-56（通常盤）。
+《**Virginal**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[蒼井翔太](../Page/蒼井翔太.md "wikilink")第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2014年1月15日由[b-green發售](https://zh.wikipedia.org/wiki/b-green "wikilink")，商品番號QECB-90056（初回限定盤）QECB-56（通常盤）。
 
 ## 解説
 

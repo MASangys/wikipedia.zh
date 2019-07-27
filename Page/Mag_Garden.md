@@ -1,5 +1,5 @@
 **Mag
-Garden**（）是[日本的一間](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[出版社](../Page/出版社.md "wikilink")，2001年6月5日由前[艾尼克斯出版事業局局長](../Page/艾尼克斯.md "wikilink")[保坂嘉弘創立](https://zh.wikipedia.org/wiki/保坂嘉弘 "wikilink")，總部位在[東京都](../Page/東京都.md "wikilink")。
+Garden**（）是[日本](../Page/日本.md "wikilink")的一間[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[出版社](../Page/出版社.md "wikilink")，2001年6月5日由前[艾尼克斯](../Page/艾尼克斯.md "wikilink")出版事業局局長[保坂嘉弘創立](https://zh.wikipedia.org/wiki/保坂嘉弘 "wikilink")，總部位在[東京都](../Page/東京都.md "wikilink")。
 
 ## 雜誌
 

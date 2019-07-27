@@ -1,4 +1,4 @@
-**MEKO型护卫舰**是德国设计的外銷用[護衛艦和](https://zh.wikipedia.org/wiki/護衛艦 "wikilink")[巡防艦系列](../Page/巡防艦.md "wikilink")，它的创新在于使用了[模块化系统来安装各种武器装备以满足不同的客户](https://zh.wikipedia.org/wiki/模块 "wikilink")。MEKO（英文：“Mehrzweck-Kombination”）多用途组合舰的简化混合形式縮寫。
+**MEKO型护卫舰**是德国设计的外銷用[護衛艦和](https://zh.wikipedia.org/wiki/護衛艦 "wikilink")[巡防艦](../Page/巡防艦.md "wikilink")系列，它的创新在于使用了[模块化系统来安装各种武器装备以满足不同的客户](https://zh.wikipedia.org/wiki/模块 "wikilink")。MEKO（英文：“Mehrzweck-Kombination”）多用途组合舰的简化混合形式縮寫。
 
 ## 类型
 
@@ -282,7 +282,7 @@ MEKO系列巡防艦有諸多衍生型，以下為MEKO系列各型諸元與簡介
 [CorbetasMeko140.jpg](https://zh.wikipedia.org/wiki/File:CorbetasMeko140.jpg "fig:CorbetasMeko140.jpg")
 
 反潛型號，舰艏配置两座[76快砲](https://zh.wikipedia.org/wiki/奧托布雷達76公厘艦炮 "wikilink")，舰艉配置2座双联装40mm快炮、舰舯則配置4發[飞鱼反舰导弹](../Page/飞鱼反舰导弹.md "wikilink")，直升机飞行甲板两侧各有1座3联装324mm鱼雷发射器，可操作1架直升机。\[2\]
-1979年1月，[阿根廷向布洛姆](../Page/阿根廷.md "wikilink")·福斯造船厂订购6艘MKKO-140
+1979年1月，[阿根廷](../Page/阿根廷.md "wikilink")向布洛姆·福斯造船厂订购6艘MKKO-140
 A16型護衛舰，前4艘于1985～1990年服役，后2艘则延至2000年和2004年交付。\[3\]
 
 ### MEKO 200
@@ -307,8 +307,8 @@ F-452，希臘神話中的九頭蛇）於德國建造，1992年11月服役，後
 #### MEKO 200 ANZAC
 
 [HMAS_Ballarat_(FFH_155)_and_HMAS_Warramunga_(FFH_152)_at_Joint_Base_Pearl_Harbor-Hickam_for_RIMPAC_2016.jpg](https://zh.wikipedia.org/wiki/File:HMAS_Ballarat_\(FFH_155\)_and_HMAS_Warramunga_\(FFH_152\)_at_Joint_Base_Pearl_Harbor-Hickam_for_RIMPAC_2016.jpg "fig:HMAS_Ballarat_(FFH_155)_and_HMAS_Warramunga_(FFH_152)_at_Joint_Base_Pearl_Harbor-Hickam_for_RIMPAC_2016.jpg")
- 以[德国MEKO](../Page/德国.md "wikilink")
-200型为基础设计修改，使用模组化设计，由[纽西兰和](https://zh.wikipedia.org/wiki/纽西兰 "wikilink")[澳大利亚合作建造](../Page/澳大利亚.md "wikilink")，總計10艘，其中2艘属于纽西兰8艘属于澳大利亚。
+ 以[德国](../Page/德国.md "wikilink")MEKO
+200型为基础设计修改，使用模组化设计，由[纽西兰和](https://zh.wikipedia.org/wiki/纽西兰 "wikilink")[澳大利亚](../Page/澳大利亚.md "wikilink")合作建造，總計10艘，其中2艘属于纽西兰8艘属于澳大利亚。
 \[7\]
 
 #### MEKO 200 TN
@@ -318,7 +318,7 @@ F-452，希臘神話中的九頭蛇）於德國建造，1992年11月服役，後
 
 #### MEKO 200 PN
 
-1986年7月，[葡萄牙与德国布洛姆](../Page/葡萄牙.md "wikilink")·福斯造船厂签订3艘MEKO 200
+1986年7月，[葡萄牙](../Page/葡萄牙.md "wikilink")与德国布洛姆·福斯造船厂签订3艘MEKO 200
 PN型护卫舰的合約。首舰于1989年2月开工，3艘同型艦均在德国建造，于1991年交付服役。\[8\]
 
 ### MEKO A200
@@ -342,7 +342,7 @@ PN型护卫舰的合約。首舰于1989年2月开工，3艘同型艦均在德国
 [馬來西亞皇家海軍的新一代水面艦隊計劃的首種艦艇](https://zh.wikipedia.org/wiki/馬來西亞皇家海軍 "wikilink")（後續馬來西亞採購法國[追風級護衛艦](https://zh.wikipedia.org/wiki/追風級護衛艦 "wikilink")），雙方原協議前2艘在德国先完成各个船段与模组後再海运到马来西亚槟城造船工业公司组装完成，后续各舰则由B\&V协助槟城造船工业公司建造。但两年后双方更改合约，頭2艘改由在德国建造完成後交付[馬來西亞皇家海軍](https://zh.wikipedia.org/wiki/馬來西亞皇家海軍 "wikilink")，MEKO
 100 RMN动力使用2具[卡特彼勒](../Page/卡特彼勒.md "wikilink")
 3616柴油机，每具8000马力，以双轴的可变距螺旋桨推进器驱动，一般最大航速约为24节，極速可达約30节，12节时的续航力約6050海浬，海上作业可达21天，舰体由3个船段加2个桅杆模组組成，每个区域皆有各自独立的核生化过滤系统与加压空调，能维持高于外部的气压，阻绝受核生化污染的气体、落尘侵入，另以八道水密舱门分隔为9个水密舱区，裝置一座[76快砲](https://zh.wikipedia.org/wiki/奧托布雷達76公厘艦炮 "wikilink")、一具[MK-49
-RAM公羊防空飞弹系统](../Page/RIM-116滾體飛彈.md "wikilink")，舰体中段可加装2组[飞鱼反舰导弹发射器](../Page/飞鱼反舰导弹.md "wikilink")、机库上方裝設一座30公厘全自动机炮塔，两舷各有一挺12.7公厘机枪。\[11\]
+RAM公羊防空飞弹系统](../Page/RIM-116滾體飛彈.md "wikilink")，舰体中段可加装2组[飞鱼反舰导弹](../Page/飞鱼反舰导弹.md "wikilink")发射器、机库上方裝設一座30公厘全自动机炮塔，两舷各有一挺12.7公厘机枪。\[11\]
 
 #### Project 621
 
@@ -351,7 +351,7 @@ RAM公羊防空飞弹系统](../Page/RIM-116滾體飛彈.md "wikilink")，舰体
 ### MEKO D
 
 2000年代初B\&V推出的MEKO A-200改良型號，稱為MEKO
-Delta，作戰能力與德國現役的[薩克森級巡防艦相當](../Page/薩克森級巡防艦.md "wikilink")，且具有優異的匿蹤性，上層結構近乎完全封閉並與船舷合而為一，使用X型橫截面設計。舷寬由艦首到艦尾都持續不斷地增加，俯視有如一個錐形結構，此一設計可增強耐波力、航行穩定性以及艦尾飛行甲板的面積。標準排水量約3500噸，長116m，寬19.6m，吃水4.2m，動力來源可能為複合燃氣渦輪或柴電推進（CODLAG）或者複合燃氣渦輪與柴電推進（CODLOD），可簡化動力系統結構並增加經濟效益（使用燃油較現役艦艇減少20%），最大航速約28節，航速16節時續航力約為4000海里，能在海上持續作業21天。此外自動化程度極高，乘員編制僅78名，還有容納另外35人的餘裕可載運特種部隊或指揮人員。目前有D500和D600（中/大型巡防艦）及MEKO
+Delta，作戰能力與德國現役的[薩克森級巡防艦](../Page/薩克森級巡防艦.md "wikilink")相當，且具有優異的匿蹤性，上層結構近乎完全封閉並與船舷合而為一，使用X型橫截面設計。舷寬由艦首到艦尾都持續不斷地增加，俯視有如一個錐形結構，此一設計可增強耐波力、航行穩定性以及艦尾飛行甲板的面積。標準排水量約3500噸，長116m，寬19.6m，吃水4.2m，動力來源可能為複合燃氣渦輪或柴電推進（CODLAG）或者複合燃氣渦輪與柴電推進（CODLOD），可簡化動力系統結構並增加經濟效益（使用燃油較現役艦艇減少20%），最大航速約28節，航速16節時續航力約為4000海里，能在海上持續作業21天。此外自動化程度極高，乘員編制僅78名，還有容納另外35人的餘裕可載運特種部隊或指揮人員。目前有D500和D600（中/大型巡防艦）及MEKO
 D100（中/小型巡防艦，2500噸級）的設計。
 
 ### MEKO X

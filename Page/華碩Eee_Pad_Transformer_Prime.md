@@ -1,5 +1,5 @@
 Asus Eee Pad Transformer Prime
-是[台灣電腦廠商](https://zh.wikipedia.org/wiki/台灣 "wikilink")[華碩生產的](../Page/華碩.md "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink")
+是[台灣電腦廠商](https://zh.wikipedia.org/wiki/台灣 "wikilink")[華碩](../Page/華碩.md "wikilink")生產的[平板電腦](../Page/平板電腦.md "wikilink")，使用[Google](../Page/Google.md "wikilink")
 [Android](../Page/Android.md "wikilink")
 [操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，是世上首部採用[四核心](https://zh.wikipedia.org/wiki/四核心 "wikilink")[處理器的平板電腦](https://zh.wikipedia.org/wiki/處理器 "wikilink")\[1\]，2011年12月1日推出。
 
@@ -18,7 +18,7 @@ Tegra](https://zh.wikipedia.org/wiki/NVIDIA_Tegra "wikilink") 3 1.4 GHz
 64 GB [快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")；10.1
 吋[電容式](https://zh.wikipedia.org/wiki/電容式 "wikilink")[多點觸控](../Page/多點觸控.md "wikilink")
 [IPS](https://zh.wikipedia.org/wiki/IPS "wikilink")
-[液晶顯示屏](../Page/液晶.md "wikilink")（解像度 1280 × 800）、後置 800
+[液晶](../Page/液晶.md "wikilink")顯示屏（解像度 1280 × 800）、後置 800
 萬像素[自動對焦](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")、前置
 120 萬像素視訊鏡頭。連接介面包括 40 針專用連接插槽、micro [HDMI](../Page/HDMI.md "wikilink") 及
 3.5 mm 耳機插孔，及

@@ -1,4 +1,4 @@
-**MIC男团**，是由[太合麦田于](../Page/太合麦田.md "wikilink")2010年10月推出的一支[中国大陆知名偶像男子音乐团体](https://zh.wikipedia.org/wiki/中国 "wikilink")，由王浩、赵泳鑫、檀健次、池约翰和肖顺尧5位成员组成，2010年获得东方卫视《[咪咕明星学院](https://zh.wikipedia.org/wiki/咪咕明星学院 "wikilink")》全国总冠军而出道至今。
+**MIC男团**，是由[太合麦田](../Page/太合麦田.md "wikilink")于2010年10月推出的一支[中国大陆知名偶像男子音乐团体](https://zh.wikipedia.org/wiki/中国 "wikilink")，由王浩、赵泳鑫、檀健次、池约翰和肖顺尧5位成员组成，2010年获得东方卫视《[咪咕明星学院](https://zh.wikipedia.org/wiki/咪咕明星学院 "wikilink")》全国总冠军而出道至今。
 
 ## 主要经历
 

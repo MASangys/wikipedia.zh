@@ -1,10 +1,10 @@
 《**POP
-STAR**》，[日本男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年10月26日發行。
+STAR**》，[日本](../Page/日本.md "wikilink")男[歌手](../Page/歌手.md "wikilink")[平井堅](../Page/平井堅.md "wikilink")的第23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年10月26日發行。
 
 ## 概述
 
   - 距上張「在思緒重疊之前…」暌違一年的單曲。
-  - 2005年[平井堅迎接出道十周年單曲](../Page/平井堅.md "wikilink")。
+  - 2005年[平井堅](../Page/平井堅.md "wikilink")迎接出道十周年單曲。
   - 被視為平井堅音樂路線轉型的一大代表作。
   - 收錄日劇《危險傻大姊》主題歌。
   - 原為精選輯『[愛歌成癡](../Page/平井堅-愛歌成痴十年完全精選.md "wikilink")』先行單曲，後來收錄於第七張原創專輯『[FAKIN'

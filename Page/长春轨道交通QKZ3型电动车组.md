@@ -1,9 +1,9 @@
 [CCQG2001.ogg](https://zh.wikipedia.org/wiki/File:CCQG2001.ogg "fig:CCQG2001.ogg")
-**长春轻轨QKZ3型/2000系电动车组**是[长春轨道交通的电车车款之一](../Page/长春轨道交通.md "wikilink")，在[长春轨道交通3号线和](../Page/长春轨道交通3号线.md "wikilink")[长春轨道交通4号线运行](../Page/长春轨道交通4号线.md "wikilink")。
+**长春轻轨QKZ3型/2000系电动车组**是[长春轨道交通](../Page/长春轨道交通.md "wikilink")的电车车款之一，在[长春轨道交通3号线](../Page/长春轨道交通3号线.md "wikilink")和[长春轨道交通4号线](../Page/长春轨道交通4号线.md "wikilink")运行。
 
 ## 简介
 
-QKZ3型/2000系电动车组由[长春轨道客车于](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")2007年生产，3节编组，共20列。车门为[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，为70%低地板车辆。目前在[长春轨道交通3号线和](../Page/长春轨道交通3号线.md "wikilink")[长春轨道交通4号线运行](../Page/长春轨道交通4号线.md "wikilink")，是长春轻轨的第四款电动车组。其中，编号为201、206-211、218-220的列车外涂装为红色，编号为203-205的列车外涂装为银色，编号为202、212-217的列车外涂装为蓝色。车门由北京博得负责制造，空调为广州中车DLD30型\[1\]，(201-219)的[VVVF由瑞士](https://zh.wikipedia.org/wiki/VVVF "wikilink")[ABB负责制造](../Page/ABB.md "wikilink")，(220)的[VVVF由](https://zh.wikipedia.org/wiki/VVVF "wikilink")[大连电牵负责制造](https://zh.wikipedia.org/wiki/中国北车股份有限公司大连电力牵引研发中心 "wikilink")\[2\]，驾驶室内操纵设备为手柄式，为7级牵引、10级制动，网络控制系统和牵引系统为[大连电牵负责制造](https://zh.wikipedia.org/wiki/中国北车股份有限公司大连电力牵引研发中心 "wikilink")\[3\]\[4\]，制动设备为[克诺尔制造的液压制动装置](../Page/克诺尔集团.md "wikilink")\[5\]。
+QKZ3型/2000系电动车组由[长春轨道客车于](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")2007年生产，3节编组，共20列。车门为[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，为70%低地板车辆。目前在[长春轨道交通3号线](../Page/长春轨道交通3号线.md "wikilink")和[长春轨道交通4号线](../Page/长春轨道交通4号线.md "wikilink")运行，是长春轻轨的第四款电动车组。其中，编号为201、206-211、218-220的列车外涂装为红色，编号为203-205的列车外涂装为银色，编号为202、212-217的列车外涂装为蓝色。车门由北京博得负责制造，空调为广州中车DLD30型\[1\]，(201-219)的[VVVF由瑞士](https://zh.wikipedia.org/wiki/VVVF "wikilink")[ABB](../Page/ABB.md "wikilink")负责制造，(220)的[VVVF由](https://zh.wikipedia.org/wiki/VVVF "wikilink")[大连电牵负责制造](https://zh.wikipedia.org/wiki/中国北车股份有限公司大连电力牵引研发中心 "wikilink")\[2\]，驾驶室内操纵设备为手柄式，为7级牵引、10级制动，网络控制系统和牵引系统为[大连电牵负责制造](https://zh.wikipedia.org/wiki/中国北车股份有限公司大连电力牵引研发中心 "wikilink")\[3\]\[4\]，制动设备为[克诺尔制造的液压制动装置](../Page/克诺尔集团.md "wikilink")\[5\]。
 
 ## 编组
 
@@ -208,5 +208,4 @@ QKZ3型/2000系电动车组由[长春轨道客车于](https://zh.wikipedia.org/w
 3.
 4.  <http://www.cnrerd.chinacnr.com/p404.aspx?ProductID=35&CategoryID=110>
 5.  <http://www.docin.com/p-70233089.html>
-6.  [黑色吉普涉嫌闯红灯
-    交会路口与轻轨相撞](http://cswbszb.chinajilin.com.cn/html/2011-07/16/content_745803.htm)
+6.

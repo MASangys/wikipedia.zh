@@ -4,16 +4,16 @@ SIG這四種](../Page/.357_SIG.md "wikilink")[手枪](../Page/手枪.md "wikilin
 
 ## 歷史
 
-1990年代初期，斯泰爾開始設計新型工程[塑料底把手槍](../Page/塑料.md "wikilink")；並在1999年春季，最終產品正式亮相並且命名為**M9**（適用於發射[9×19毫米魯格子彈](../Page/9×19mm魯格彈.md "wikilink")）。雖然發射[.40
+1990年代初期，斯泰爾開始設計新型工程[塑料](../Page/塑料.md "wikilink")底把手槍；並在1999年春季，最終產品正式亮相並且命名為**M9**（適用於發射[9×19毫米魯格子彈](../Page/9×19mm魯格彈.md "wikilink")）。雖然發射[.40
 S\&W子彈的](../Page/.40_S&W.md "wikilink")**M40**版本早在M9之前研製的，緊接著後來還推出了**M357**（[.357
-SIG或](../Page/.357_SIG.md "wikilink")9×22毫米口徑）以及M9和M40的兩個緊湊化衍生型，分別命名為**S9**和**S40**。\[1\]這些手槍主要是為了而研製的，並具有工程[塑料底把縮短的](../Page/塑料.md "wikilink")[槍管](../Page/槍管.md "wikilink")、[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、更小的[底把](https://zh.wikipedia.org/wiki/機匣 "wikilink")（又稱：套筒座）和減小的[彈匣容量](../Page/彈匣.md "wikilink")。\[2\]
+SIG或](../Page/.357_SIG.md "wikilink")9×22毫米口徑）以及M9和M40的兩個緊湊化衍生型，分別命名為**S9**和**S40**。\[1\]這些手槍主要是為了而研製的，並具有工程[塑料](../Page/塑料.md "wikilink")底把縮短的[槍管](../Page/槍管.md "wikilink")、[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、更小的[底把](https://zh.wikipedia.org/wiki/機匣 "wikilink")（又稱：套筒座）和減小的[彈匣](../Page/彈匣.md "wikilink")容量。\[2\]
 
 到了2013年，除斯泰爾M（中）和S（小）的槍身外形尺寸以外，還新增了L（大）尺寸系列和C（緊湊型）尺寸系列，後兩者都具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
 S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為**L9-A1**、**L40-A1**、**C9-A1**和**C40-A1**。
 
 ## 設計細節
 
-斯泰爾M系列手槍採用了機械式鎖定的[槍管短行程後座作用與無連接式垂直下降槍管來操作](../Page/後座作用.md "wikilink")。\[3\]\[4\]槍管是藉由圍繞槍管膛室的凹部的單個矩形鎖耳（）型裝置進入[套筒中的拋殼口的方式於套筒內閉鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。發射時，從點燃[子彈而造成的](../Page/子彈.md "wikilink")[後座衝力會驅動](../Page/後座力.md "wikilink")[槍管和套筒向後滑動](../Page/槍管.md "wikilink")，鎖定在一起直到子彈離開了槍管和壓力下降到安全的水平。然後一個整合到[底把以內的閉鎖塊會與膛室底部的一個鎖耳接合](../Page/机匣.md "wikilink")，並且推動槍管往下降，在套筒在直線上繼續向後運動的時候，將槍管從套筒分離並終止其任何進一步的向後運動。斯泰爾M系列還具有非常高的握把輪廓，以保持槍管軸線接近射手的手，通過減少射擊時的和更容易控制後座力使得斯泰爾M更為舒適，並且讓射手順序快速射擊以後容易更快甚至立即恢復瞄準目標。
+斯泰爾M系列手槍採用了機械式鎖定的[槍管短行程後座作用與無連接式垂直下降槍管來操作](../Page/後座作用.md "wikilink")。\[3\]\[4\]槍管是藉由圍繞槍管膛室的凹部的單個矩形鎖耳（）型裝置進入[套筒中的拋殼口的方式於套筒內閉鎖](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。發射時，從點燃[子彈](../Page/子彈.md "wikilink")而造成的[後座衝力會驅動](../Page/後座力.md "wikilink")[槍管](../Page/槍管.md "wikilink")和套筒向後滑動，鎖定在一起直到子彈離開了槍管和壓力下降到安全的水平。然後一個整合到[底把以內的閉鎖塊會與膛室底部的一個鎖耳接合](../Page/机匣.md "wikilink")，並且推動槍管往下降，在套筒在直線上繼續向後運動的時候，將槍管從套筒分離並終止其任何進一步的向後運動。斯泰爾M系列還具有非常高的握把輪廓，以保持槍管軸線接近射手的手，通過減少射擊時的和更容易控制後座力使得斯泰爾M更為舒適，並且讓射手順序快速射擊以後容易更快甚至立即恢復瞄準目標。
 
 配備了和的斯泰爾M採用了命名為“復位動作”扳機的純雙動操作（DAO）預設式扳機機構。\[5\]當扳機處於向前位置的時候，擊針彈簧會保持輕微壓縮（由套筒向前運動，返回到位的時候預先待擊）。扣動扳機一直到後面就會完全地壓縮擊針彈簧，將撞針完全拉伸至後部並將扳機桿定位以釋放擊針及發射該發子彈。斯泰爾M的扳機行程是大約4毫米（0.16英寸），而扳機扣力則約25牛頓（5.62磅力）。\[6\]
 
@@ -23,11 +23,11 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為**
 
 斯泰爾M使用的供彈具是子彈排列為交錯排列模式及具有單邊入彈／出彈類型（即單邊出彈雙排）的可拆卸式鋼製[彈匣](../Page/彈匣.md "wikilink")。其托彈板和底板是由聚合物製成。[彈匣扣／釋放按鈕位於底把的左側](https://zh.wikipedia.org/wiki/彈匣釋放按鈕 "wikilink")、扳機護圈的正後方。當發射彈匣內最後一發子彈以後，手槍的套筒會由位於底把左側的金屬[套筒阻鐵保持鎖定開放](https://zh.wikipedia.org/wiki/套筒阻鐵 "wikilink")，並用拇指進行操作。
 
-斯泰爾M配備了固定的低輪廓型[機械瞄具](../Page/機械瞄具.md "wikilink")。獨特的瞄準裝置佈置是由一個呈[三角形的](../Page/三角形.md "wikilink")[準星和呈](../Page/照準器.md "wikilink")[梯形的缺口式](../Page/梯形.md "wikilink")[照門所組成](https://zh.wikipedia.org/wiki/照門 "wikilink")，讓眼睛對準目標以更快捕捉目標，並且可以讓使用者作[本能瞄準](https://zh.wikipedia.org/wiki/本能瞄準 "wikilink")。\[15\]準星背面具有填充了不發光的白色三角形的光對比元素的設計，以配合在照門兩側所具有的兩個白色平行四邊形長條，這些幾何形狀的氚光標記是為了在黑暗中容易瞄準。斯泰爾M也可以安裝可選配的[氚光照明式夜間或低光照用瞄準具](../Page/氚.md "wikilink")；這種機械瞄具則具有傳統型矩形輪廓。在手槍底把前方的還具有專用附件安裝導軌用以安裝專用的戰術附件，例如[戰術燈和](../Page/戰術燈.md "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。\[16\]
+斯泰爾M配備了固定的低輪廓型[機械瞄具](../Page/機械瞄具.md "wikilink")。獨特的瞄準裝置佈置是由一個呈[三角形](../Page/三角形.md "wikilink")的[準星和呈](../Page/照準器.md "wikilink")[梯形](../Page/梯形.md "wikilink")的缺口式[照門所組成](https://zh.wikipedia.org/wiki/照門 "wikilink")，讓眼睛對準目標以更快捕捉目標，並且可以讓使用者作[本能瞄準](https://zh.wikipedia.org/wiki/本能瞄準 "wikilink")。\[15\]準星背面具有填充了不發光的白色三角形的光對比元素的設計，以配合在照門兩側所具有的兩個白色平行四邊形長條，這些幾何形狀的氚光標記是為了在黑暗中容易瞄準。斯泰爾M也可以安裝可選配的[氚](../Page/氚.md "wikilink")光照明式夜間或低光照用瞄準具；這種機械瞄具則具有傳統型矩形輪廓。在手槍底把前方的還具有專用附件安裝導軌用以安裝專用的戰術附件，例如[戰術燈](../Page/戰術燈.md "wikilink")和[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。\[16\]
 
-手槍的設計充分地利用了現代化的生產技術與工藝：套筒是由[钢所精密研磨製造](../Page/钢.md "wikilink")；\[17\]底把則是由注射成型的合成[聚合物所製造](../Page/聚合物.md "wikilink")\[18\]，而且扳機和撞針機構的零件是由[金屬板壓制而成](https://zh.wikipedia.org/wiki/鈑金 "wikilink")。\[19\]為了方便定期的維護保養目的，該手槍可以[不完全分解為以下的部件](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")：槍管、套筒、復進簧、底把和彈匣。
+手槍的設計充分地利用了現代化的生產技術與工藝：套筒是由[钢](../Page/钢.md "wikilink")所精密研磨製造；\[17\]底把則是由注射成型的合成[聚合物](../Page/聚合物.md "wikilink")所製造\[18\]，而且扳機和撞針機構的零件是由[金屬板壓制而成](https://zh.wikipedia.org/wiki/鈑金 "wikilink")。\[19\]為了方便定期的維護保養目的，該手槍可以[不完全分解為以下的部件](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")：槍管、套筒、復進簧、底把和彈匣。
 
-由於斯泰爾M是斯泰爾公司為了與[格洛克公司的同類產品競爭而研製出來的](../Page/格洛克.md "wikilink")，因而被頻繁地與格洛克系列手槍相比較（均為聚合物底把的擊針發射式手槍，並同樣採用[特尼弗](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")（Tenifer）[滲氮工藝型](https://zh.wikipedia.org/wiki/滲氮 "wikilink")處理過程），包括在設計中細節上的若干差異。例如，M系列具有在從一開始所有的上膛動作時作全面支撐的[膛室](../Page/膛室.md "wikilink")（有些格洛克手槍型號也是從一開始就具有這一功能，而且相比於其原型的內部佈局，演變為其它格洛克手槍型號時其膛室亦比原型具有更多的支撐面）、獨特的三角形與梯形機械瞄具、缺口式照門下方的上膛指示器（在第三及以後世代的格洛克手槍上則是在套筒面右側的上出現此功能）以及不同的握把角度（111[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")）。
+由於斯泰爾M是斯泰爾公司為了與[格洛克](../Page/格洛克.md "wikilink")公司的同類產品競爭而研製出來的，因而被頻繁地與格洛克系列手槍相比較（均為聚合物底把的擊針發射式手槍，並同樣採用[特尼弗](https://zh.wikipedia.org/wiki/鐵素體氮碳共滲 "wikilink")（Tenifer）[滲氮工藝型](https://zh.wikipedia.org/wiki/滲氮 "wikilink")處理過程），包括在設計中細節上的若干差異。例如，M系列具有在從一開始所有的上膛動作時作全面支撐的[膛室](../Page/膛室.md "wikilink")（有些格洛克手槍型號也是從一開始就具有這一功能，而且相比於其原型的內部佈局，演變為其它格洛克手槍型號時其膛室亦比原型具有更多的支撐面）、獨特的三角形與梯形機械瞄具、缺口式照門下方的上膛指示器（在第三及以後世代的格洛克手槍上則是在套筒面右側的上出現此功能）以及不同的握把角度（111[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")）。
 
 斯泰爾亦向“第三代”型號提供了改裝套件，讓9毫米魯格彈和.40 S\&W兩種口徑之間得以互換。這些套件包括一個套筒，槍管，反沖彈簧組件和彈匣。
 
@@ -42,7 +42,7 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為**
 S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為C9-A1和C40-A1。這款C型（緊湊型）在外形上可是將S型（袖珍型／小型）的槍管長度搭載於M型（中型）外形的握把以上。意大利的C9-A1只提供[9×21毫米IMI口徑版本](https://zh.wikipedia.org/wiki/9×21mm_IMI "wikilink")。與此同時可觸可視式被取消了。握把的設計得到進一步改進，從而使武器的使用者具有更好的手感。
 
 2013年，斯泰爾再推出M-A1的長套筒型L-A1系列，這使得在斯泰爾M型（中型）、斯泰爾C型（緊湊型）與斯泰爾S型（袖珍型／小型）等外形尺寸以外可以藉由斯泰爾L型（大型）尺寸的**L-A1**系列相互補救；同樣地，L-A1具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
-S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9-A1和L40-A1，分別以17發+2發底座板型可拆卸式雙排鋼製[彈匣與](../Page/彈匣.md "wikilink")12發可拆卸式雙排鋼製彈匣。L-A1系列在延長了的套筒的前側部以上具有鋸齒狀防滑紋和115毫米（4.53英吋）的[槍管長度](../Page/槍管.md "wikilink")，使之更符合其他槍械製造商所提供的全尺寸制式手槍。
+S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9-A1和L40-A1，分別以17發+2發底座板型可拆卸式雙排鋼製[彈匣](../Page/彈匣.md "wikilink")與12發可拆卸式雙排鋼製彈匣。L-A1系列在延長了的套筒的前側部以上具有鋸齒狀防滑紋和115毫米（4.53英吋）的[槍管](../Page/槍管.md "wikilink")長度，使之更符合其他槍械製造商所提供的全尺寸制式手槍。
 
 <table>
 <thead>
@@ -254,23 +254,23 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9
 
 ## 流行文化
 
-斯泰爾M系列亦登場於多部[电影](../Page/电影.md "wikilink")、[电視](https://zh.wikipedia.org/wiki/电視 "wikilink")、[电子游戏和](../Page/电子游戏.md "wikilink")[動画裡](https://zh.wikipedia.org/wiki/動画 "wikilink")，例如：
+斯泰爾M系列亦登場於多部[电影](../Page/电影.md "wikilink")、[电視](https://zh.wikipedia.org/wiki/电視 "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")和[動画裡](https://zh.wikipedia.org/wiki/動画 "wikilink")，例如：
 
 ### 電影
 
   - 2012年—《[-{zh-cn:藏身之所;zh-hk:滅口佈局;
     zh-tw:狡兔計畫;}-](../Page/狡兔計畫.md "wikilink")》：型號為M9-A1，被叛逃的資深探員托賓·佛斯特（Tobin
-    Frost，[丹泽尔·华盛顿飾演](../Page/丹泽尔·华盛顿.md "wikilink")）作為他在[開普敦的](../Page/開普敦.md "wikilink")所使用。
+    Frost，[丹泽尔·华盛顿](../Page/丹泽尔·华盛顿.md "wikilink")飾演）作為他在[開普敦](../Page/開普敦.md "wikilink")的所使用。
   - 2012年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援;
     zh-hk:救參96小時;}-2](../Page/即刻救援2.md "wikilink")》：型號為M9-A1，原來被主角布賴恩·米爾斯（Bryan
-    Mills，[連恩·尼遜飾演](../Page/連恩·尼遜.md "wikilink")）所使用，其後於電影最後場景中被馬爾科的父親及黑幫頭目穆拉德·霍查（Murad
+    Mills，[連恩·尼遜](../Page/連恩·尼遜.md "wikilink")飾演）所使用，其後於電影最後場景中被馬爾科的父親及黑幫頭目穆拉德·霍查（Murad
     Hoxha，[雷德·瑟貝佳飾演](https://zh.wikipedia.org/wiki/雷德·瑟貝佳 "wikilink")）所奪取。
   - 2012年—《[-{zh-cn:007：大破天幕杀机; zh-tw:007：空降危機;
-    zh-hk:新鐵金剛：智破天凶城;}-](../Page/007：大破天幕杀机.md "wikilink")》：型號為M9-A1，在澳門賭場被珊妮亞·岳納托的保鏢（[羅傑·元飾演](https://zh.wikipedia.org/wiki/羅傑·元 "wikilink")）；亦被前[秘密情報局特務洛烏](../Page/秘密情報局.md "wikilink")·西法（Raoul
-    Silva，[哈維爾·巴登飾演](../Page/哈維爾·巴登.md "wikilink")）所使用，但其手槍被（[茱蒂·丹契飾演](../Page/茱蒂·丹契.md "wikilink")）拆掉。
+    zh-hk:新鐵金剛：智破天凶城;}-](../Page/007：大破天幕杀机.md "wikilink")》：型號為M9-A1，在澳門賭場被珊妮亞·岳納托的保鏢（[羅傑·元飾演](https://zh.wikipedia.org/wiki/羅傑·元 "wikilink")）；亦被前[秘密情報局](../Page/秘密情報局.md "wikilink")特務洛烏·西法（Raoul
+    Silva，[哈維爾·巴登](../Page/哈維爾·巴登.md "wikilink")飾演）所使用，但其手槍被（[茱蒂·丹契](../Page/茱蒂·丹契.md "wikilink")飾演）拆掉。
   - 2015年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援;
     zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：型號為M9-A1，被主角布賴恩·米爾斯（Bryan
-    Mills，[連恩·尼遜飾演](../Page/連恩·尼遜.md "wikilink")）所使用。
+    Mills，[連恩·尼遜](../Page/連恩·尼遜.md "wikilink")飾演）所使用。
 
 ### 電視劇
 
@@ -293,8 +293,8 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9
   - 2002年—《[-{zh-cn:全金属狂潮;
     zh-tw:驚爆危機;}-](../Page/驚爆危機.md "wikilink")》：型號為M9，被策反的西太平洋戰隊特別對應班成員關·濱部（グェン・ビェン・ボー，[聲優](../Page/聲優.md "wikilink")：[岩松
     廉](https://zh.wikipedia.org/wiki/福山廉士 "wikilink")）所使用。
-  - 2003年—《[神槍少女：Il
-    Teatrino](../Page/神槍少女.md "wikilink")》：型號為M9-A1，裝上[戰術燈並且被安潔麗卡](../Page/戰術燈.md "wikilink")（アンジェリカ，Angelica，[聲優](../Page/聲優.md "wikilink")：[寺門仁美](https://zh.wikipedia.org/wiki/寺門仁美 "wikilink")／[花澤香菜](../Page/花澤香菜.md "wikilink")）作為所使用。
+  - 2003年—《[神槍少女
+    Teatrino](../Page/神槍少女.md "wikilink")：Il》：型號為M9-A1，裝上[戰術燈](../Page/戰術燈.md "wikilink")並且被安潔麗卡（アンジェリカ，Angelica，[聲優](../Page/聲優.md "wikilink")：[寺門仁美](https://zh.wikipedia.org/wiki/寺門仁美 "wikilink")／[花澤香菜](../Page/花澤香菜.md "wikilink")）作為所使用。
 
 ### [輕小說](../Page/輕小說.md "wikilink")
 

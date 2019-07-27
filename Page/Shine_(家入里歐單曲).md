@@ -1,9 +1,9 @@
-《**Shine**》是[家入里歐的第](../Page/家入里歐.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Victor
+《**Shine**》是[家入里歐](../Page/家入里歐.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Victor
 Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 概要
 
-〈Shine〉為[富士電視台系連續劇](../Page/富士電視台.md "wikilink")《[青蛙公主](https://zh.wikipedia.org/wiki/青蛙公主_\(日本電視劇\) "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
+〈Shine〉為[富士電視台](../Page/富士電視台.md "wikilink")系連續劇《[青蛙公主](https://zh.wikipedia.org/wiki/青蛙公主_\(日本電視劇\) "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲
 

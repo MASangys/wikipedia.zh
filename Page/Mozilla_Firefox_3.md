@@ -2,13 +2,13 @@
 Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[網頁瀏覽器的一个版本](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，發佈於2008年6月17日\[1\]。
 
 Firefox
-3.0採用[Gecko排版引擎的](../Page/Gecko.md "wikilink")1.9版本來渲染網頁。相較於Firefox
+3.0採用[Gecko](../Page/Gecko.md "wikilink")排版引擎的1.9版本來渲染網頁。相較於Firefox
 2.0，新版本修正了非常多的錯誤，也增加對網頁標準的相容性，還有許多新的[APIs提供開發者使用](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。其他新特性包括重新設計的下載管理員、新的「Place」系統來儲存書籤和瀏覽紀錄以及在各種作業系統上更有一致性的佈景主題。
 
 ## 發展
 
 Firefox
-3.0的開發代號為[大帕拉迪索山](https://zh.wikipedia.org/wiki/大帕拉迪索山 "wikilink")\[2\]，如同其他版本的Firefox開發代號一樣，是一個真實的地名，是[格雷晏阿爾卑斯山脈第七高的一座山](../Page/格雷晏阿爾卑斯山脈.md "wikilink")。
+3.0的開發代號為[大帕拉迪索山](https://zh.wikipedia.org/wiki/大帕拉迪索山 "wikilink")\[2\]，如同其他版本的Firefox開發代號一樣，是一個真實的地名，是[格雷晏阿爾卑斯山脈](../Page/格雷晏阿爾卑斯山脈.md "wikilink")第七高的一座山。
 
 2006年10月13日，開發小組向各位徵求意見，把使用者想要的功能納入到Firefox 3中\[3\]。
 
@@ -21,7 +21,7 @@ Mozilla基金會在2007年11月19日釋出了第一個測試版，2007年12月18
 Firefox
 3最重要的變化就是加入了新版本的[排版引擎](../Page/排版引擎.md "wikilink")[Gecko](../Page/Gecko.md "wikilink")
 1.9。新版本的排版引擎修正了非常多的錯誤，也增加對網頁標準的相容性，還有許多新的[APIs](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")\[6\]。某方面來說，新的排版引擎讓Firefox
-3成為了Mozilla釋出的瀏覽器中第一個通過網頁標準測試[Acid2的產品](../Page/Acid2.md "wikilink")，而在更進階的測試[Acid3中](../Page/Acid3.md "wikilink")，Firefox
+3成為了Mozilla釋出的瀏覽器中第一個通過網頁標準測試[Acid2](../Page/Acid2.md "wikilink")的產品，而在更進階的測試[Acid3](../Page/Acid3.md "wikilink")中，Firefox
 3的分數也比Firefox 2高。
 
 Firefox
@@ -47,7 +47,7 @@ OS X 10.4以上的版本\[9\]，而且將會使用原生的「Cocoa」元件\[10
 
 為了讓瀏覽器的外觀現在能夠在各種作業系統上更有一致性並更高度的結合，Firefox 3已經有分別為Mac OS X、Linux、Windows
 XP和Windows
-Vista建立的預設佈景主題。使用者使用[GNOME桌面時](../Page/GNOME.md "wikilink")，Firefox
+Vista建立的預設佈景主題。使用者使用[GNOME](../Page/GNOME.md "wikilink")桌面時，Firefox
 3會從桌面環境取得圖示，因此當桌面環境改變設定時，Firefox也會跟著改變\[14\]。
 
 Firefox
@@ -75,7 +75,7 @@ Firefox
 </center></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:Firefox_3_Tango_Blubuntu.png" title="fig:Firefox_3_Tango_Blubuntu.png">Firefox_3_Tango_Blubuntu.png</a></p>
 <center>
-<p><a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> <a href="../Page/Linux.md" title="wikilink">Linux下的</a>「Tango」視覺樣式。</p>
+<p><a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> <a href="../Page/Linux.md" title="wikilink">Linux</a>下的「Tango」視覺樣式。</p>
 </center></td>
 </tr>
 </tbody>

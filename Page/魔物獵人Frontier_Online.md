@@ -4,7 +4,7 @@ Online**》（，），是一款[多人線上](https://zh.wikipedia.org/wiki/大
 フロンティアG），簡稱「**MHF-G**」，2016年11月9日的大型更新將標題改成《**魔物獵人FrontierZ**》（モンスターハンター
 フロンティアZ），簡稱「**MHF-Z**」。
 
-臺版方面原由[遊戲新幹線代理](../Page/遊戲新幹線.md "wikilink")，但於2012年9月4日結束營運；後來CAPCOM在2014年開設官方直營的繁體中文伺服器，服務範圍包括台灣、香港、澳門及新加坡，平台為[PC](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[PS3及PSV](../Page/PlayStation_3.md "wikilink")。\[2\]\[3\]
+臺版方面原由[遊戲新幹線](../Page/遊戲新幹線.md "wikilink")代理，但於2012年9月4日結束營運；後來CAPCOM在2014年開設官方直營的繁體中文伺服器，服務範圍包括台灣、香港、澳門及新加坡，平台為[PC](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[PS3及PSV](../Page/PlayStation_3.md "wikilink")。\[2\]\[3\]
 
 日版《Monster Hunter Frontier Z》 將於2019 年12 月18
 日結束營運，臺版也準備在2019年12月26日營運結束。\[4\]

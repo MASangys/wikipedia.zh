@@ -1,14 +1,14 @@
 **Kodi**是由**XBMC基金会**开发的[开源](../Page/自由及开放源代码软件.md "wikilink")[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")\[1\]，原名**XBMC**（最后一个以XBMC命名的版本是13.2“Gotham”，14.0
 “Helix”是第一个以“Kodi”命名的版本。\[2\]），Kodi可以运行在多种操作系统和硬件平台。
-它可以让用户播放本地或网络[存储设备中的大多数视频](https://zh.wikipedia.org/wiki/存储设备 "wikilink")、音乐、[播客及各种常见数位媒体文件](../Page/播客.md "wikilink")。\[3\]\[4\]\[5\]
+它可以让用户播放本地或网络[存储设备中的大多数视频](https://zh.wikipedia.org/wiki/存储设备 "wikilink")、音乐、[播客](../Page/播客.md "wikilink")及各种常见数位媒体文件。\[3\]\[4\]\[5\]
 
 它是[Windows Media
 Center的很热门的替代物](../Page/Windows_Media_Center.md "wikilink")。\[6\]\[7\]\[8\]\[9\]\[10\]
 Kodi
-的可定制性很高，有许多[皮肤可以更改软件外观及各种可以访问网络内容的](https://zh.wikipedia.org/wiki/皮肤\(电脑\) "wikilink")[插件](../Page/插件.md "wikilink")，包括[Spotify](../Page/Spotify.md "wikilink")、[鲨客](../Page/鲨客.md "wikilink")、[Pandora电台和Youtube](../Page/Pandora电台.md "wikilink")。\[11\]\[12\]
+的可定制性很高，有许多[皮肤可以更改软件外观及各种可以访问网络内容的](https://zh.wikipedia.org/wiki/皮肤\(电脑\) "wikilink")[插件](../Page/插件.md "wikilink")，包括[Spotify](../Page/Spotify.md "wikilink")、[鲨客](../Page/鲨客.md "wikilink")、[Pandora电台](../Page/Pandora电台.md "wikilink")和Youtube。\[11\]\[12\]
 从版本12.0（代号“Frodo”）开始，XBMC附带录制直播节目的[数位视频录像机图形界面前端](https://zh.wikipedia.org/wiki/数位视频录像机 "wikilink")，同时支持[电子节目指南和高清视频录制](https://zh.wikipedia.org/wiki/电子节目指南 "wikilink")。\[13\]
 
-该软件最初是为计划运行在[Xbox上的](../Page/Xbox.md "wikilink")，名称也由此而来，\[14\]\[15\]\[16\]
+该软件最初是为计划运行在[Xbox](../Page/Xbox.md "wikilink")上的，名称也由此而来，\[14\]\[15\]\[16\]
 随后有了[Android](../Page/Android.md "wikilink")、
 [Linux](../Page/Linux.md "wikilink")、 [BSD](../Page/BSD.md "wikilink")、
 [Mac OS
@@ -23,7 +23,7 @@ Windows操作系统的原生版](https://zh.wikipedia.org/wiki/Microsoft_Windows
 支持大多数音频、视频和图像格式，同时支持播放列表、可视化效果、幻灯片、天气预报和第三方插件。它可以连接互联网或者局域网。 和大多数同类软件(如
 Windows Media Center)不同的是 XBMC
 自身不具备录制直播电视节目的能力。\[27\]\[28\]\[29\]\[30\]用
-[Python写的插件为其添加了许多新功能](../Page/Python.md "wikilink")，比如电视节目指南、Youtube、电影预告片和在线播放播客。在XBMC上也可以玩
+[Python](../Page/Python.md "wikilink")写的插件为其添加了许多新功能，比如电视节目指南、Youtube、电影预告片和在线播放播客。在XBMC上也可以玩
 Python 写的小游戏。\[31\]\[32\]\[33\]\[34\]\[35\]\[36\]
 
 XBMC
@@ -47,24 +47,24 @@ Kodi要求[图形处理器支持](https://zh.wikipedia.org/wiki/图形处理器 
 9.0平台](../Page/Direct3D.md "wikilink")，也可以在能力较强的[IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink")/[x86](https://zh.wikipedia.org/wiki/x86 "wikilink"),
 [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"),
 [ARM](https://zh.wikipedia.org/wiki/ARM架构 "wikilink"), 或 [PowerPC
-G4等平台上运行](https://zh.wikipedia.org/wiki/PowerPC_G4 "wikilink")。\[40\]播放全高清[1080p的视频如果通过系统CPU软件解码需要](../Page/1080p.md "wikilink")2GHz
-或更快的[多核心处理器](https://zh.wikipedia.org/wiki/多核心处理器 "wikilink")，否则会出现掉[帧或其他异常现象](../Page/帧.md "wikilink")。
+G4等平台上运行](https://zh.wikipedia.org/wiki/PowerPC_G4 "wikilink")。\[40\]播放全高清[1080p](../Page/1080p.md "wikilink")的视频如果通过系统CPU软件解码需要2GHz
+或更快的[多核心处理器](https://zh.wikipedia.org/wiki/多核心处理器 "wikilink")，否则会出现掉[帧](../Page/帧.md "wikilink")或其他异常现象。
 
 Kodi也可以将大部分视频解码工作分担给支持以下硬件加速视频解码技术的图形硬件控制器：\[41\] Intel的 VAAPI, Nvidia的
 [VDPAU](../Page/VDPAU.md "wikilink"), AMD的 XvBA, 微软的
 [DXVA](https://zh.wikipedia.org/wiki/DXVA "wikilink"), Apple的
 VDADecoder/VideoToolBox, [OpenMAX](../Page/OpenMAX.md "wikilink"),\[42\]
-晶晨半导体的8726-MX系列VPU,\[43\] [飞思卡尔的i](../Page/飞思卡尔.md "wikilink").MX6x系列
-VPU, 及 [全志科技的](../Page/全志科技.md "wikilink") CedarX/CedarV VPU。\[44\]
+晶晨半导体的8726-MX系列VPU,\[43\] [飞思卡尔](../Page/飞思卡尔.md "wikilink")的i.MX6x系列
+VPU, 及 [全志科技](../Page/全志科技.md "wikilink")的 CedarX/CedarV VPU。\[44\]
 因此，XBMC可以在支持这些技术或带有这些硬件的很便宜的、低功耗的系统上播放高清视频。
 
 ### 语言支持
 
 目前，Kodi支持包括中文在内的70多种语言，完全实现[国际化与本地化](../Page/国际化与本地化.md "wikilink")。\[45\]
 如果没有某种语言，或者翻译过时了，可以编辑 [XML](../Page/XML.md "wikilink")
-文件的中的[字符串并向项目管理和](../Page/字符串.md "wikilink")[缺陷跟踪管理系统提交该文件](../Page/缺陷跟踪管理系统.md "wikilink"),版本11.0后
+文件的中的[字符串](../Page/字符串.md "wikilink")并向项目管理和[缺陷跟踪管理系统](../Page/缺陷跟踪管理系统.md "wikilink")提交该文件,版本11.0后
 XBMC
-转向使用[Gettext以便使用基于网页的](../Page/Gettext.md "wikilink")[Transifex平台](../Page/Transifex.md "wikilink")。\[46\]
+转向使用[Gettext](../Page/Gettext.md "wikilink")以便使用基于网页的[Transifex](../Page/Transifex.md "wikilink")平台。\[46\]
 
 ## 核心功能
 

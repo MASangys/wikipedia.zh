@@ -1,9 +1,9 @@
 [Google-sciencefair-logo.jpg](https://zh.wikipedia.org/wiki/File:Google-sciencefair-logo.jpg "fig:Google-sciencefair-logo.jpg")
 
 **Google Science
-Fair**（简称“GSF”）是一个在线科学竞赛，由[Google](../Page/Google.md "wikilink")、[乐高](https://zh.wikipedia.org/wiki/乐高 "wikilink")、[欧洲核子研究组织](https://zh.wikipedia.org/wiki/欧洲核子研究组织 "wikilink")、[国家地理以及](https://zh.wikipedia.org/wiki/国家地理 "wikilink")[科学美国人组成](../Page/科学美国人.md "wikilink")。\[1\]\[2\]\[3\]第一届Google
+Fair**（简称“GSF”）是一个在线科学竞赛，由[Google](../Page/Google.md "wikilink")、[乐高](https://zh.wikipedia.org/wiki/乐高 "wikilink")、[欧洲核子研究组织](https://zh.wikipedia.org/wiki/欧洲核子研究组织 "wikilink")、[国家地理以及](https://zh.wikipedia.org/wiki/国家地理 "wikilink")[科学美国人](../Page/科学美国人.md "wikilink")组成。\[1\]\[2\]\[3\]第一届Google
 Science
-Fair曾经于2011年1月宣布，所有的参赛作品于[北美东部时区](../Page/北美东部时区.md "wikilink")2011年4月7日下午11:59:59前提交，在2011年7月评判。此竞赛向13-18岁的世界各地的学生开放，参赛者将首先制定一个假设，之后进行实验，取得研究成果。\[4\]\[5\]所有的参赛者都必须通过网络和免费的[Google帐户参与](https://zh.wikipedia.org/wiki/Google帐户 "wikilink")，通过此项目的[英语](../Page/英语.md "wikilink")，[德语](../Page/德语.md "wikilink")，[意大利语](../Page/意大利语.md "wikilink")，[西班牙语](../Page/西班牙语.md "wikilink")，或[法语网站提交项目](../Page/法语.md "wikilink")。\[6\]最终的提交必须包括十部分，分别是摘要，“关于我”页面，该项目的步骤，以及项目引用页。\[7\]
+Fair曾经于2011年1月宣布，所有的参赛作品于[北美东部时区](../Page/北美东部时区.md "wikilink")2011年4月7日下午11:59:59前提交，在2011年7月评判。此竞赛向13-18岁的世界各地的学生开放，参赛者将首先制定一个假设，之后进行实验，取得研究成果。\[4\]\[5\]所有的参赛者都必须通过网络和免费的[Google帐户参与](https://zh.wikipedia.org/wiki/Google帐户 "wikilink")，通过此项目的[英语](../Page/英语.md "wikilink")，[德语](../Page/德语.md "wikilink")，[意大利语](../Page/意大利语.md "wikilink")，[西班牙语](../Page/西班牙语.md "wikilink")，或[法语](../Page/法语.md "wikilink")网站提交项目。\[6\]最终的提交必须包括十部分，分别是摘要，“关于我”页面，该项目的步骤，以及项目引用页。\[7\]
 
 竞赛项目的判断标准包括8个核心标准，其中包括学生的介绍、问题、假设、研究、实验、数据、观察以及结论。\[8\]三位决赛选手将获得奖品。大奖包括了国家地理旅行[加拉帕戈斯群岛](https://zh.wikipedia.org/wiki/加拉帕戈斯群岛 "wikilink")，50,000美元的奖学金，并在赞助的组织里体验;\[9\]决赛选手将获得一个25,000美元的奖学金和来自发起组织的各种礼包。\[10\][Larry
 Page和](https://zh.wikipedia.org/wiki/Larry_Page "wikilink")[Sergey
@@ -38,8 +38,8 @@ Hodge赢得了13-14岁级别的冠军，她研究的项目为腌制的烤肉是�
 
 ## 2012年的获奖者
 
-17岁的[布坦妮·翁格的研究项目](../Page/布坦妮·翁格.md "wikilink")“乳腺癌全球神经网络云服务”赢得了大奖。此项目为非侵入性诊断恶性的肿瘤，在测试的一组中，它成功地检测到超过99％的恶性乳腺肿瘤。她收到了50,000美元、加拉帕戈斯群岛之旅、辅导以及实习的机会。\[16\]
-来自[西班牙的Iván](../Page/西班牙.md "wikilink") Hervías Rodríguez, Marcos Ochoa,
+17岁的[布坦妮·翁格](../Page/布坦妮·翁格.md "wikilink")的研究项目“乳腺癌全球神经网络云服务”赢得了大奖。此项目为非侵入性诊断恶性的肿瘤，在测试的一组中，它成功地检测到超过99％的恶性乳腺肿瘤。她收到了50,000美元、加拉帕戈斯群岛之旅、辅导以及实习的机会。\[16\]
+来自[西班牙](../Page/西班牙.md "wikilink")的Iván Hervías Rodríguez, Marcos Ochoa,
 和Sergio Pascual赢得了15-16岁年龄组冠军，他们的研究项目为使用显微镜来研究在水生生态系统中的微观生物。
 
 Jonah

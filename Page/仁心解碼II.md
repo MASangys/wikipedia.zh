@@ -1,6 +1,6 @@
 [Shek_Kip_Mei_Park_Sports_Centre.jpg](https://zh.wikipedia.org/wiki/File:Shek_Kip_Mei_Park_Sports_Centre.jpg "fig:Shek_Kip_Mei_Park_Sports_Centre.jpg")[體育館](https://zh.wikipedia.org/wiki/石硤尾公園體育館 "wikilink")\]\]
 
-《**仁心解碼II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝懸疑](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共25集，監製[羅永賢](../Page/羅永賢.md "wikilink")。是由[方中信](../Page/方中信.md "wikilink")、[楊怡及](../Page/楊怡.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，並由[黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳茵媺](../Page/陳茵媺.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[陳國邦及](../Page/陳國邦.md "wikilink")[李亞男聯合主演](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，監製[羅永賢](../Page/羅永賢.md "wikilink")。此劇為《[仁心解碼](../Page/仁心解碼.md "wikilink")》第二輯。
+《**仁心解碼II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝懸疑[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共25集，監製[羅永賢](../Page/羅永賢.md "wikilink")。是由[方中信](../Page/方中信.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")及[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，並由[黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳茵媺](../Page/陳茵媺.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[陳國邦](../Page/陳國邦.md "wikilink")及[李亞男聯合主演](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，監製[羅永賢](../Page/羅永賢.md "wikilink")。此劇為《[仁心解碼](../Page/仁心解碼.md "wikilink")》第二輯。
 
 ## 演員表
 
@@ -30,7 +30,7 @@
 參見<a href="https://zh.wikipedia.org/wiki/#瑞愛精神醫療中心" title="wikilink"><strong>瑞愛精神醫療中心</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/謝天華.md" title="wikilink">方中信</a></strong></p></td>
+<td><p><strong><a href="../Page/方中信.md" title="wikilink">方中信</a></strong></p></td>
 <td><p><strong>高立仁</strong></p></td>
 <td><p><strong>高醫生、大杏仁（潔心專用）</strong><br />
 法醫精神科顧問醫生<br />
@@ -43,7 +43,7 @@
 羅永鏗之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/陳法拉.md" title="wikilink">蒙嘉慧</a></strong></p></td>
+<td><p><strong><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></strong></p></td>
 <td><p><strong>卓慧翹</strong></p></td>
 <td><p><strong>Lois</strong><br />
 法醫精神科高級醫生→顧問醫生<br />
@@ -172,7 +172,7 @@ Franco前女友<br />
 <td><p><strong>林頌恩</strong></p></td>
 <td><p><strong>Apple、大頭恩</strong><br />
 原名<strong>蔣依琳</strong><br />
-<a href="../Page/毒品調查科.md" title="wikilink">毒品調查科卧底</a>（第1-7集）→<a href="../Page/警署警長.md" title="wikilink">警署警長</a>（第8-23集）→<a href="../Page/刑事紀錄科.md" title="wikilink">刑事紀錄科人員</a>（第23集起）<br />
+<a href="../Page/毒品調查科.md" title="wikilink">毒品調查科</a>卧底（第1-7集）→<a href="../Page/警署警長.md" title="wikilink">警署警長</a>（第8-23集）→<a href="../Page/刑事紀錄科.md" title="wikilink">刑事紀錄科</a>人員（第23集起）<br />
 鍾國彬之下屬兼女友<br />
 高立仁之好友<br />
 患有<a href="https://zh.wikipedia.org/wiki/解離症" title="wikilink">解離性失憶症</a>（於第20集康復）、于第19集被绑架、反绑双手、布條封嘴、放血，導致<a href="https://zh.wikipedia.org/wiki/精神分裂" title="wikilink">精神分裂</a>（於第21集起）<br />
@@ -501,7 +501,7 @@ Franco前女友<br />
 <td><p>蔡錦標</p></td>
 <td><p>患有（第三型小腦脊髓運動失調症候群／馬查多-約瑟夫病）<br />
 於二十年前親眼目睹司徒慧屍體<br />
-童年由<a href="../Page/羅梓龍.md" title="wikilink">羅梓龍飾演</a></p></td>
+童年由<a href="../Page/羅梓龍.md" title="wikilink">羅梓龍</a>飾演</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/林穎彤.md" title="wikilink">林穎彤</a></p></td>
@@ -1362,7 +1362,7 @@ Mable之男友（第14集）</p></td>
 
 ## 收視
 
-以下為本劇於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                  |          |          |
 | ------ | ------ | ---------------- | -------- | -------- |
@@ -1377,12 +1377,12 @@ Mable之男友（第14集）</p></td>
 
 ## 記事
 
-  - 2012年7月26日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠灰位舉行造型記者會](../Page/電視廣播城.md "wikilink")。\[1\]
+  - 2012年7月26日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠灰位舉行造型記者會。\[1\]
   - 2012年8月8日：此劇正式開始拍攝工作。
-  - 2012年8月14日：此劇於15:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十二廠舉行開鏡拜神](../Page/電視廣播城.md "wikilink")。\[2\]
+  - 2012年8月14日：此劇於15:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")十二廠舉行開鏡拜神。\[2\]
   - 2012年10月24日：全劇殺青。
   - 2013年3月14日：此劇於15:00在[尖沙咀](../Page/尖沙咀.md "wikilink")[九龍香格里拉酒店](../Page/九龍香格里拉酒店.md "wikilink")「智解仁心密碼」。\[3\]
-  - 2013年3月24日：此劇於14:00在[荃灣廣場一樓中庭](../Page/荃灣廣場.md "wikilink")「人心測試站」。\[4\]
+  - 2013年3月24日：此劇於14:00在[荃灣廣場](../Page/荃灣廣場.md "wikilink")一樓中庭「人心測試站」。\[4\]
   - 2013年4月16日：此劇於14:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")「終極解碼」。\[5\]
 
 ## 參考資料

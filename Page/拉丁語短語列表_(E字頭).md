@@ -85,7 +85,7 @@
 <tr class="even">
 <td><p><strong>equo ne credite</strong></p></td>
 <td><p>不要相信那马</p></td>
-<td><p>出自<a href="../Page/维吉尔.md" title="wikilink">维吉尔的</a>《<a href="https://zh.wikipedia.org/wiki/埃涅伊德" title="wikilink">埃涅伊德</a>》。</p></td>
+<td><p>出自<a href="../Page/维吉尔.md" title="wikilink">维吉尔</a>的《<a href="https://zh.wikipedia.org/wiki/埃涅伊德" title="wikilink">埃涅伊德</a>》。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/erga_omnes" title="wikilink">erga omnes</a></strong></p></td>
@@ -220,12 +220,12 @@
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Etiamsi_omnes,_ego_non" title="wikilink">Etiamsi omnes, ego non</a></strong></p></td>
 <td><p>即便众人因为你的缘故。。。我绝不。。。</p></td>
-<td><p>典出《<a href="https://zh.wikipedia.org/wiki/玛窦福音" title="wikilink">玛窦福音</a>》第二十六章第三十三节伯多禄对<a href="../Page/耶稣.md" title="wikilink">耶稣说的话</a>。原文是：“即便众人因为你的缘故跌倒，我绝不跌倒。”</p></td>
+<td><p>典出《<a href="https://zh.wikipedia.org/wiki/玛窦福音" title="wikilink">玛窦福音</a>》第二十六章第三十三节伯多禄对<a href="../Page/耶稣.md" title="wikilink">耶稣</a>说的话。原文是：“即便众人因为你的缘故跌倒，我绝不跌倒。”</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/etsi_deus_non_daretur" title="wikilink">etsi deus non daretur</a></strong></p></td>
 <td><p>即便上帝不存在</p></td>
-<td><p>这是一句依据荷兰人、国际法之父<a href="../Page/胡果·格老秀斯.md" title="wikilink">胡果·格老秀斯的观点而总结出的短语</a>。</p></td>
+<td><p>这是一句依据荷兰人、国际法之父<a href="../Page/胡果·格老秀斯.md" title="wikilink">胡果·格老秀斯</a>的观点而总结出的短语。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>ex abundanti cautela</strong></p></td>
@@ -245,7 +245,7 @@
 <tr class="even">
 <td><p><strong>ex Africa semper aliquid novi</strong></p></td>
 <td><p>总有些新事物从非洲而来。</p></td>
-<td><p>典出<a href="../Page/老普林尼.md" title="wikilink">老普林尼的</a>《自然史》8.42：“unde etiam vulgare Graeciae dictum semper aliquid novi Africam adferre”[2]), 这一短语从希腊语短语“Ἀεὶ Λιβύη φέρει τι καινόν”翻译得来。</p></td>
+<td><p>典出<a href="../Page/老普林尼.md" title="wikilink">老普林尼</a>的《自然史》8.42：“unde etiam vulgare Graeciae dictum semper aliquid novi Africam adferre”[2]), 这一短语从希腊语短语“Ἀεὶ Λιβύη φέρει τι καινόν”翻译得来。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>ex animo</strong></p></td>
@@ -351,7 +351,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/ex_nihilo" title="wikilink">ex nihilo</a> nihil fit</strong></p></td>
 <td><p>无中不能生有</p></td>
-<td><p>语出<a href="../Page/罗马共和国.md" title="wikilink">罗马共和国诗人</a><a href="../Page/卢克莱修.md" title="wikilink">卢克莱修</a>，更早时被古希腊的<a href="../Page/恩培多克勒.md" title="wikilink">恩培多克勒提到过</a>。最初，这一短语用来表达:“为了延续、继续，（某物）必须做功。”而现代更多解释为：“一切都源自另一事物。”“Ex nihilo”是“出于乌有”，这一部分常与“创造”一词连用。如：“creatio ex nihilo”即：“无中生有”的意思。</p></td>
+<td><p>语出<a href="../Page/罗马共和国.md" title="wikilink">罗马共和国</a>诗人<a href="../Page/卢克莱修.md" title="wikilink">卢克莱修</a>，更早时被古希腊的<a href="../Page/恩培多克勒.md" title="wikilink">恩培多克勒</a>提到过。最初，这一短语用来表达:“为了延续、继续，（某物）必须做功。”而现代更多解释为：“一切都源自另一事物。”“Ex nihilo”是“出于乌有”，这一部分常与“创造”一词连用。如：“creatio ex nihilo”即：“无中生有”的意思。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>ex novo</strong></p></td>
@@ -406,7 +406,7 @@
 <tr class="even">
 <td><p><strong>ex scientia tridens</strong></p></td>
 <td><p>制海权来自知识</p></td>
-<td><p><a href="../Page/美国海军学院.md" title="wikilink">美国海军学院的格言</a>。triden是海神<a href="../Page/波塞冬.md" title="wikilink">波塞冬的三叉戟</a>。</p></td>
+<td><p><a href="../Page/美国海军学院.md" title="wikilink">美国海军学院</a>的格言。triden是海神<a href="../Page/波塞冬.md" title="wikilink">波塞冬</a>的三叉戟。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>ex scientia vera</strong></p></td>
@@ -471,7 +471,7 @@
 <tr class="odd">
 <td><p><strong>excelsior</strong></p></td>
 <td><p>精益求精</p></td>
-<td><p>即：“百尺竿头更进一步。”这一短语也是<a href="../Page/纽约.md" title="wikilink">纽约的格言</a>。</p></td>
+<td><p>即：“百尺竿头更进一步。”这一短语也是<a href="../Page/纽约.md" title="wikilink">纽约</a>的格言。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>exceptio firmat</strong> (or <em>probat</em>) <strong>regulam in casibus non exceptis</strong></p></td>
@@ -532,12 +532,12 @@
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/extra_Ecclesiam_nulla_salus" title="wikilink">extra Ecclesiam nulla salus</a></strong></p></td>
 <td><p>教会之外无救恩</p></td>
-<td><p>典出公元三世纪<a href="../Page/居普良.md" title="wikilink">居普良主教的著作</a>。通常用于强调为了得到救恩，<a href="https://zh.wikipedia.org/wiki/天主教会" title="wikilink">天主教会是多么重要</a>。</p></td>
+<td><p>典出公元三世纪<a href="../Page/居普良.md" title="wikilink">居普良</a>主教的著作。通常用于强调为了得到救恩，<a href="https://zh.wikipedia.org/wiki/天主教会" title="wikilink">天主教会是多么重要</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>extra omnes</strong></p></td>
 <td><p>其他人离开</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/教宗礼仪处" title="wikilink">教宗礼仪处处长在</a><a href="../Page/教宗选举.md" title="wikilink">教宗选举前颁布的命令</a>。当该命令颁布时，除了<a href="https://zh.wikipedia.org/wiki/红衣主教" title="wikilink">红衣主教以外的人必须退出</a><a href="https://zh.wikipedia.org/wiki/西斯廷教堂" title="wikilink">西斯廷教堂</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/教宗礼仪处" title="wikilink">教宗礼仪处处长在</a><a href="../Page/教宗选举.md" title="wikilink">教宗选举</a>前颁布的命令。当该命令颁布时，除了<a href="https://zh.wikipedia.org/wiki/红衣主教" title="wikilink">红衣主教以外的人必须退出</a><a href="https://zh.wikipedia.org/wiki/西斯廷教堂" title="wikilink">西斯廷教堂</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>extra territorium jus dicenti impune non paretur</strong></p></td>

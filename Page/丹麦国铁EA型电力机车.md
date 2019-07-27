@@ -1,4 +1,4 @@
-**EA型电力机车**是[丹麦国家铁路所使用的第一种](../Page/丹麦国家铁路.md "wikilink")[电力机车车型](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，由[联邦德国](https://zh.wikipedia.org/wiki/联邦德国 "wikilink")（西德）[西门子交通集团和](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[勃朗-包维利股份公司等企业联合设计制造](https://zh.wikipedia.org/wiki/勃朗-包维利股份公司 "wikilink")，适用于供电制式为25千伏50赫兹工频单相交流电的[电气化铁路](../Page/電氣化鐵路.md "wikilink")。
+**EA型电力机车**是[丹麦国家铁路](../Page/丹麦国家铁路.md "wikilink")所使用的第一种[电力机车车型](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，由[联邦德国](https://zh.wikipedia.org/wiki/联邦德国 "wikilink")（西德）[西门子交通集团和](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[勃朗-包维利股份公司等企业联合设计制造](https://zh.wikipedia.org/wiki/勃朗-包维利股份公司 "wikilink")，适用于供电制式为25千伏50赫兹工频单相交流电的[电气化铁路](../Page/電氣化鐵路.md "wikilink")。
 
 ## 簡介
 
@@ -8,7 +8,7 @@ EA型电力机车以[德国铁路](../Page/德国铁路.md "wikilink")[120型电
 
 ## 運用及配屬
 
-在1985年起，EA型電力機車全部應用於丹麦國鐵客、貨運服務。但由於丹麦國鐵引入同廠生產、更先進的[EuroSprinter電力機車](../Page/EuroSprinter.md "wikilink")，此等機車除3004、3007、3010、3020及3022五輛外，均已從丹麦國鐵引退。
+在1985年起，EA型電力機車全部應用於丹麦國鐵客、貨運服務。但由於丹麦國鐵引入同廠生產、更先進的[EuroSprinter](../Page/EuroSprinter.md "wikilink")電力機車，此等機車除3004、3007、3010、3020及3022五輛外，均已從丹麦國鐵引退。
 
 2001年，3012-3019及3021九輛機車連同丹麦国家铁路貨運部門被併入雷力昂公司（機車租賃公司），並於2009-10年再連同雷力昂併入[德鐵信可鐵路](https://zh.wikipedia.org/wiki/德鐵信可鐵路 "wikilink")。
 
@@ -34,13 +34,13 @@ EA型电力机车以[德国铁路](../Page/德国铁路.md "wikilink")[120型电
 <tbody>
 <tr class="odd">
 <td><p>3001</p></td>
-<td><p><a href="../Page/汉斯·奥斯特.md" title="wikilink">汉斯·奥斯特號</a></p></td>
+<td><p><a href="../Page/汉斯·奥斯特.md" title="wikilink">汉斯·奥斯特</a>號</p></td>
 <td><p>除籍</p></td>
 <td><p>曾配屬丹麦国家铁路，已於2017年1月拆解，充當廢鐵處分</p></td>
 </tr>
 <tr class="even">
 <td><p>3002</p></td>
-<td><p><a href="../Page/尼尔斯·玻尔.md" title="wikilink">尼尔斯·玻尔號</a></p></td>
+<td><p><a href="../Page/尼尔斯·玻尔.md" title="wikilink">尼尔斯·玻尔</a>號</p></td>
 <td><p>Bulmarket燃氣公司</p></td>
 <td><p>2007年出售</p></td>
 </tr>
@@ -52,7 +52,7 @@ EA型电力机车以[德国铁路](../Page/德国铁路.md "wikilink")[120型电
 </tr>
 <tr class="even">
 <td><p>3004</p></td>
-<td><p><a href="../Page/奧勒·羅默.md" title="wikilink">奧勒·羅默號</a></p></td>
+<td><p><a href="../Page/奧勒·羅默.md" title="wikilink">奧勒·羅默</a>號</p></td>
 <td><p>丹麦国家铁路</p></td>
 <td></td>
 </tr>

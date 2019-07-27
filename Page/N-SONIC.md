@@ -1,6 +1,6 @@
 **N-SONIC**（），是[韓國六人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，在2011年出道，成員包括J-Heart、Minkee、Sihoo、Byul、Zion以及
 BongJun，所屬公司為[韓國C](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")2K
-Entertainment及[香港SG](../Page/香港.md "wikilink")
+Entertainment及[香港](../Page/香港.md "wikilink")SG
 Music。2011年10月6日正式出道，出道作品為《We are Super
 Boys》。在2013年10月發表的迷你專輯《Into the Light》，主打歌《RUN &
 RUN》數個版本的點擊率亦有15萬，專輯亦積極爭取電視的曝光率。粉絲名為SuperSonic。

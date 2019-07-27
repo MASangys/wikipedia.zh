@@ -1,6 +1,6 @@
 **Freeview**是[英國的免費無線](https://zh.wikipedia.org/wiki/英國 "wikilink")[數位電視服務的名稱](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。Freeview由DTV服務公司（**DTV
 Services Ltd**）提供服務，這家公司是由
-[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")、[ITV](../Page/獨立電視公司.md "wikilink")、[英國第四台和](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")[英國天空廣播共同出資創建](https://zh.wikipedia.org/wiki/英國天空廣播 "wikilink")。Freeview自2002年開始播出\[1\]。在2014年4月，Freeview提供播出有60個[DVB-T電視頻道](../Page/DVB-T.md "wikilink")，26個數碼廣播頻率，10個高清電視頻道\[2\]\[3\]\[4\]。
+[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")、[ITV](../Page/獨立電視公司.md "wikilink")、[英國第四台和](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")[英國天空廣播共同出資創建](https://zh.wikipedia.org/wiki/英國天空廣播 "wikilink")。Freeview自2002年開始播出\[1\]。在2014年4月，Freeview提供播出有60個[DVB-T](../Page/DVB-T.md "wikilink")電視頻道，26個數碼廣播頻率，10個高清電視頻道\[2\]\[3\]\[4\]。
 
 ## 參考資料
 

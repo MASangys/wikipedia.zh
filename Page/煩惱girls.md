@@ -1,10 +1,10 @@
-**煩惱girls**（是[日本的女子歌手團體](../Page/日本.md "wikilink")。2005年10月8日出道，同年12月31日解散。
+**煩惱girls**（是[日本](../Page/日本.md "wikilink")的女子歌手團體。2005年10月8日出道，同年12月31日解散。
 
 ## 特徴
 
-  - 總數是「[煩惱之数](https://zh.wikipedia.org/wiki/煩惱 "wikilink")」108人（之後追加1人，包括[變性人](https://zh.wikipedia.org/wiki/變性人 "wikilink")8人、[AV女優数名](../Page/AV女優.md "wikilink")）。
+  - 總數是「[煩惱之数](https://zh.wikipedia.org/wiki/煩惱 "wikilink")」108人（之後追加1人，包括[變性人](https://zh.wikipedia.org/wiki/變性人 "wikilink")8人、[AV女優](../Page/AV女優.md "wikilink")数名）。
   - 在2005年10月8日出道，同年12月31日「與[除夕之鐘](https://zh.wikipedia.org/wiki/除夕之鐘 "wikilink")」解散。
-  - 成員大半是以[模特兒為本業](../Page/模特兒.md "wikilink")。
+  - 成員大半是以[模特兒](../Page/模特兒.md "wikilink")為本業。
 
 ## 成員
 

@@ -1,5 +1,5 @@
 《**5TH
-DIMENSION**》（）是[桃色幸運草Z的第](../Page/桃色幸運草Z.md "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2013年4月10日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
+DIMENSION**》（）是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2013年4月10日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 2013年8月4日黑胶唱片數量限定發售（LPレコード2枚組、180g重量盤）。
 
@@ -79,7 +79,7 @@ Store](https://zh.wikipedia.org/wiki/iTunes_Music_Store "wikilink")・[レコチ
 5.  **津軽半島竜飛崎**
       -
         歌：[高城蕾妮](../Page/高城蕾妮.md "wikilink")
-6.  **襟裳岬 (森進一の曲)|襟裳岬**（[森進一之翻唱歌曲](../Page/森進一.md "wikilink")）
+6.  **襟裳岬 (森進一の曲)|襟裳岬**（[森進一](../Page/森進一.md "wikilink")之翻唱歌曲）
       -
         歌：[高城蕾妮](../Page/高城蕾妮.md "wikilink")
 7.  **だって あーりんなんだもーん☆**

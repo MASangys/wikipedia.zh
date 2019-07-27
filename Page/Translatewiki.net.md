@@ -1,28 +1,28 @@
-**translatewiki.net**是一个基于网络的翻译平台，搭载了[MediaWiki的翻译扩展](../Page/MediaWiki.md "wikilink")，使得MediaWiki成为强有力的工具来翻译各种文字。
+**translatewiki.net**是一个基于网络的翻译平台，搭载了[MediaWiki](../Page/MediaWiki.md "wikilink")的翻译扩展，使得MediaWiki成为强有力的工具来翻译各种文字。
 
-就页面数而言，目前它是世界第13大wiki\[1\]，拥有约6000名译者\[2\]及来自超过20个项目的50000页面\[3\]，其中包括[MediaWiki](../Page/MediaWiki.md "wikilink")、[OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")、[Mifos](https://zh.wikipedia.org/wiki/Mifos "wikilink")、[网络生命大百科及](../Page/网络生命大百科.md "wikilink")[MantisBT](https://zh.wikipedia.org/wiki/MantisBT "wikilink")。
+就页面数而言，目前它是世界第13大wiki\[1\]，拥有约6000名译者\[2\]及来自超过20个项目的50000页面\[3\]，其中包括[MediaWiki](../Page/MediaWiki.md "wikilink")、[OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")、[Mifos](https://zh.wikipedia.org/wiki/Mifos "wikilink")、[网络生命大百科](../Page/网络生命大百科.md "wikilink")及[MantisBT](https://zh.wikipedia.org/wiki/MantisBT "wikilink")。
 
 ## 功能
 
 translatewiki.net是一个[wiki站点](https://zh.wikipedia.org/wiki/wiki "wikilink")，因此任何网络用户都可以很方便地作出贡献，而几乎无[障碍](https://zh.wikipedia.org/wiki/准入门槛 "wikilink")\[4\]。译者可以专注做他们最擅长的事——翻译，没有其它烦恼，从而确保了翻译的品質。
 
-翻译立即对译者可用，并会流畅地同步[版本控制系统和可翻译的wiki页面](../Page/版本控制.md "wikilink")\[5\]，无需译者的干预。在最好的情况下，对于维基媒体计划使用的MediaWiki，新的[本地化内容在](https://zh.wikipedia.org/wiki/本地化 "wikilink")[一天之内就能同步至网站上](https://zh.wikipedia.org/wiki/mw:Localisation#Update_of_localisation "wikilink")。
+翻译立即对译者可用，并会流畅地同步[版本控制](../Page/版本控制.md "wikilink")系统和可翻译的wiki页面\[5\]，无需译者的干预。在最好的情况下，对于维基媒体计划使用的MediaWiki，新的[本地化内容在](https://zh.wikipedia.org/wiki/本地化 "wikilink")[一天之内就能同步至网站上](https://zh.wikipedia.org/wiki/mw:Localisation#Update_of_localisation "wikilink")。
 
-翻译编辑器提供了各种[電腦輔助翻譯功能](../Page/電腦輔助翻譯.md "wikilink")，如
+翻译编辑器提供了各种[電腦輔助翻譯](../Page/電腦輔助翻譯.md "wikilink")功能，如
 
   - 消息文档，也称为“上下文”，
-  - 来自[语料库和](../Page/语料库.md "wikilink")[机器翻译的建议](../Page/机器翻译.md "wikilink")，
+  - 来自[语料库](../Page/语料库.md "wikilink")和[机器翻译](../Page/机器翻译.md "wikilink")的建议，
   - 检查翻译中常见的语法错误，
   - 消息的翻译状态。\[6\]
 
-translatewiki.net也是[语义wiki站点](https://zh.wikipedia.org/wiki/Semantic_MediaWiki "wikilink")，[语义网的一部分](../Page/语义网.md "wikilink")。\[7\]\[8\]\[9\]
+translatewiki.net也是[语义wiki站点](https://zh.wikipedia.org/wiki/Semantic_MediaWiki "wikilink")，[语义网](../Page/语义网.md "wikilink")的一部分。\[7\]\[8\]\[9\]
 
 ## 历史
 
 [Translating_the_wiki_way.webm](https://zh.wikipedia.org/wiki/File:Translating_the_wiki_way.webm "fig:Translating_the_wiki_way.webm")
 
 translatewiki.net在2006年6月左右由Niklas
-Laxström开发\[10\]，作为[MediaWiki所有语言的本地化平台](../Page/MediaWiki.md "wikilink")，​​当时被命名为Betawiki\[11\]。
+Laxström开发\[10\]，作为[MediaWiki](../Page/MediaWiki.md "wikilink")所有语言的本地化平台，​​当时被命名为Betawiki\[11\]。
 
 除了翻译，它还兼为MediaWiki的[集成开发环境](../Page/集成开发环境.md "wikilink")（2005年的Nukawiki\[12\]），着重于改善[国际化功能](https://zh.wikipedia.org/wiki/国际化 "wikilink")\[13\]。
 
@@ -30,7 +30,7 @@ Laxström开发\[10\]，作为[MediaWiki所有语言的本地化平台](../Page/
 
 2007年11月，德国虚拟主机服务商Netcup托管了translatewiki.net。\[14\]
 
-2008年4月，它已为MediaWiki及其200个扩展提供了超过100种语言的翻译，“使之成为有史以来翻译最为完全的软件项目之一”，同时还有[FreeCol](../Page/FreeCol.md "wikilink")。此后，虽然是一个独立的志愿者项目\[15\]\[16\]，普遍认为它在很大程度上促成了MediaWiki全球性的成功，以及基于此的[维基媒体基金会项目如](../Page/维基媒体基金会.md "wikilink")[维基百科](../Page/维基百科.md "wikilink")，其提供了超过280种语言的版本\[17\]。
+2008年4月，它已为MediaWiki及其200个扩展提供了超过100种语言的翻译，“使之成为有史以来翻译最为完全的软件项目之一”，同时还有[FreeCol](../Page/FreeCol.md "wikilink")。此后，虽然是一个独立的志愿者项目\[15\]\[16\]，普遍认为它在很大程度上促成了MediaWiki全球性的成功，以及基于此的[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")项目如[维基百科](../Page/维基百科.md "wikilink")，其提供了超过280种语言的版本\[17\]。
 
 2009年，Niklas
 Laxström的[Google编程之夏项目协助改进了此站点](https://zh.wikipedia.org/wiki/Google编程之夏 "wikilink")\[18\]。2011年引入了校对功能\[19\]。2012年，其为所有维基媒体计划的翻译启用了翻译记忆库引擎\[20\]。
@@ -42,7 +42,7 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 
 下面列出了原生支持的格式。在自定义后还可添加更多的格式。\[22\]
 
-  - [MediaWiki界面和页面](../Page/MediaWiki.md "wikilink")
+  - [MediaWiki](../Page/MediaWiki.md "wikilink")界面和页面
 
   - [GNU Gettext](https://zh.wikipedia.org/wiki/gettext "wikilink")
 
@@ -55,7 +55,7 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 
   - [Dtd](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")
 
-  - [PHP文件](../Page/PHP.md "wikilink")
+  - [PHP](../Page/PHP.md "wikilink")文件
 
   - [JavaScript](../Page/JavaScript.md "wikilink")
 
@@ -73,7 +73,7 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 
 ## 著名案例
 
-  - [MediaWiki及MediaWiki扩展](../Page/MediaWiki.md "wikilink")
+  - [MediaWiki](../Page/MediaWiki.md "wikilink")及MediaWiki扩展
 
   - [Wikia](../Page/Wikia.md "wikilink")
 
@@ -99,9 +99,9 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 
   - [Gentoo Linux文档](../Page/Gentoo_Linux.md "wikilink")\[23\]\[24\]
 
-  - [KDE文档](../Page/KDE.md "wikilink")\[25\]\[26\]
+  - [KDE](../Page/KDE.md "wikilink")文档\[25\]\[26\]
 
-  - [Kiwix网站](../Page/Kiwix.md "wikilink")
+  - [Kiwix](../Page/Kiwix.md "wikilink")网站
 
   - 网站
 

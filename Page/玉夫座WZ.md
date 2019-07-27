@@ -1,5 +1,5 @@
 **玉夫座WZ**，又名**CD-34 576**，**HD 9065**、**SAO 193136**、**HR
-431**，是[玉夫座的一颗恒星](../Page/玉夫座.md "wikilink")\[1\]\[2\]，视星等为6.58，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")254.77，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-79.59，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+431**，是[玉夫座](../Page/玉夫座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.58，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")254.77，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-79.59，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

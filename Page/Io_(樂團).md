@@ -1,17 +1,17 @@
 **io**，是一個音樂品牌，一種信念，一份對音樂的堅持，io 是 I and ALL。
-io是一在[臺灣發跡的](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由音樂製作人也是團長暨吉他手的
+io是一在[臺灣](../Page/臺灣.md "wikilink")發跡的[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由音樂製作人也是團長暨吉他手的
 [陳思翰](../Page/陳思翰_\(音樂人\).md "wikilink")
-([Hans](../Page/陳思翰_\(音樂人\).md "wikilink"))，與主唱[陳逸年](https://zh.wikipedia.org/wiki/陳逸年 "wikilink")（Angus）、鼓手[潘國笙](https://zh.wikipedia.org/wiki/潘國笙 "wikilink")（Cody）最初於2002年3月在[加拿大](../Page/加拿大.md "wikilink")[溫哥華組成](../Page/溫哥華.md "wikilink")，三人有著深刻的淵源，交錯的國小同學及國中同學的身份，因為音樂結合。
+([Hans](../Page/陳思翰_\(音樂人\).md "wikilink"))，與主唱[陳逸年](https://zh.wikipedia.org/wiki/陳逸年 "wikilink")（Angus）、鼓手[潘國笙](https://zh.wikipedia.org/wiki/潘國笙 "wikilink")（Cody）最初於2002年3月在[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")組成，三人有著深刻的淵源，交錯的國小同學及國中同學的身份，因為音樂結合。
 
 ## 經歷
 
-2007年，第一任貝斯手[李宇瀚加入](https://zh.wikipedia.org/wiki/李宇瀚 "wikilink")，使io樂團的陣容確立。2009年10月9日，貝斯手李宇瀚因私人因素選擇離團並回到[香港定居](../Page/香港.md "wikilink")，第二任貝斯手[簡瑞松則在出席io樂團的一場表演之後被他們的音樂所震撼](https://zh.wikipedia.org/wiki/簡瑞松 "wikilink")，因緣際會下加入成為團員。
+2007年，第一任貝斯手[李宇瀚加入](https://zh.wikipedia.org/wiki/李宇瀚 "wikilink")，使io樂團的陣容確立。2009年10月9日，貝斯手李宇瀚因私人因素選擇離團並回到[香港](../Page/香港.md "wikilink")定居，第二任貝斯手[簡瑞松則在出席io樂團的一場表演之後被他們的音樂所震撼](https://zh.wikipedia.org/wiki/簡瑞松 "wikilink")，因緣際會下加入成為團員。
 
-2010年12月25日，獨立發行首張全創作專輯《[就算今天贏了，明天又會如何？](https://zh.wikipedia.org/wiki/就算今天贏了，明天又會如何？ "wikilink")》，專輯歌曲《真實》被選入[中華音樂人交流協會年度十大單曲](../Page/中華音樂人交流協會.md "wikilink")\[1\]。
+2010年12月25日，獨立發行首張全創作專輯《[就算今天贏了，明天又會如何？](https://zh.wikipedia.org/wiki/就算今天贏了，明天又會如何？ "wikilink")》，專輯歌曲《真實》被選入[中華音樂人交流協會](../Page/中華音樂人交流協會.md "wikilink")年度十大單曲\[1\]。
 
 2011年，io成為[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[利物浦音樂節](https://zh.wikipedia.org/wiki/利物浦音樂節 "wikilink")（Liverpool
 Sound City
-festival）的台灣代表，也成為[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[草莓音樂節的台灣代表](../Page/草莓音樂節.md "wikilink")\[2\]；並參與[國家地理頻道紀錄片](../Page/國家地理頻道.md "wikilink")《愛上真台灣：華語樂之路》的訪問\[3\]。也因為入圍第22屆[金曲獎最佳新人及最佳樂團的緣故](../Page/金曲獎.md "wikilink")，io在[台北小巨蛋舉行的頒獎典禮演奏了出道作品](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")
+festival）的台灣代表，也成為[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[草莓音樂節](../Page/草莓音樂節.md "wikilink")的台灣代表\[2\]；並參與[國家地理頻道](../Page/國家地理頻道.md "wikilink")紀錄片《愛上真台灣：華語樂之路》的訪問\[3\]。也因為入圍第22屆[金曲獎](../Page/金曲獎.md "wikilink")最佳新人及最佳樂團的緣故，io在[台北小巨蛋舉行的頒獎典禮演奏了出道作品](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")
 《真實》\[4\]。
 
 2012年，io加入[滾石唱片](../Page/滾石唱片.md "wikilink")，同年11月發行第二張專輯《[到頭來瘋的難道是我？](../Page/到頭來瘋的難道是我？.md "wikilink")》\[5\]。
@@ -19,7 +19,7 @@ festival）的台灣代表，也成為[北京](https://zh.wikipedia.org/wiki/北
 2014年6月，io在Legacy
 Taipei舉辦了「少了一個你」演唱會中，公佈了當時的貝斯手Sho將無限期請假。因為Sho私人因素而離團，也宣告了io樂團從此回到了最原始的三人編制。12月，io結束與滾石娛樂的經紀約，轉而與艾歐音樂簽約。
 
-2015年5月，三人編制的io樂團再次受文化部青睞，受邀代表台灣前往[新加坡參加國際音樂盛事](../Page/新加坡.md "wikilink")「Music
+2015年5月，三人編制的io樂團再次受文化部青睞，受邀代表台灣前往[新加坡](../Page/新加坡.md "wikilink")參加國際音樂盛事「Music
 Matters
 Live」。10月，io樂團再次受邀代表台灣前往美國[紐約參加CMJ音樂節](https://zh.wikipedia.org/wiki/紐約 "wikilink")。12月18日，io樂團舉辦木衛一演唱會並同步推出第三張正規專輯《III》。
 

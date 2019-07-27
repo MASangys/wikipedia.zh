@@ -4,7 +4,7 @@ Engine）打造。故事的時間點設定在《[潛龍諜影 和平先驅](../P
 這部本傳作品被公佈為2個不同的項目，一個是在潛龍諜影25週年紀念會上公佈，名為《原爆點》，另一個則是由Moby Dick
 Studio開發的《幻痛》（，）。至2013年3月官方網站正式上線，名稱才確定為《[潛龍諜影V
 幻痛](../Page/潛龍諜影V_幻痛.md "wikilink")》\[2\]。2013年11月11日，科樂美數位娛樂宣布《潛龍諜影V
-原爆點》獨立於2014年春季發行\[3\]。2014年德國[科隆游戏展上](../Page/Gamescom.md "wikilink")，小島秀夫宣佈原爆點在同年會藉由[Steam登上電腦平台](../Page/Steam.md "wikilink")\[4\]。
+原爆點》獨立於2014年春季發行\[3\]。2014年德國[科隆游戏展上](../Page/Gamescom.md "wikilink")，小島秀夫宣佈原爆點在同年會藉由[Steam](../Page/Steam.md "wikilink")登上電腦平台\[4\]。
 
 ## 劇情概要
 
@@ -21,7 +21,7 @@ Boss）**稱號的男人：**裸蛇（Naked Snake）**，決定隻身潛入集�
   - Ground Zeroes（原爆点） — 为该游戏的主线任务
   - Eliminate the Renegade Threat — 抹除一对精英狙击手
   - Intel Operative Rescue（营救情报人员） —
-    强袭基地进行人员营救，[小岛秀夫在该任务中客串所营救的情报人员](../Page/小岛秀夫.md "wikilink")
+    强袭基地进行人员营救，[小岛秀夫](../Page/小岛秀夫.md "wikilink")在该任务中客串所营救的情报人员
   - Classified Intel Acquisition（机密情报获取） — 潜入基地获得记录有机密情报的磁带
   - Destroy the Anti-Air Emplacements（防空火力摧毁） — 针对该基地的防空火力进行摧毁，确保后续行动
 
@@ -98,13 +98,13 @@ Face抓住並遭到施暴。
 
 ## 主角配音變更
 
-於2013年六月六日[科樂美公布之](../Page/科樂美.md "wikilink")2013[E3展前導影片](https://zh.wikipedia.org/wiki/E3 "wikilink")\[6\]，公開了主角Naked
+於2013年六月六日[科樂美](../Page/科樂美.md "wikilink")公布之2013[E3展前導影片](https://zh.wikipedia.org/wiki/E3 "wikilink")\[6\]，公開了主角Naked
 Snake的英文配音以及臉部動態捕捉將由影星[基佛·蘇德蘭擔任](https://zh.wikipedia.org/wiki/基弗·萨瑟兰 "wikilink")。
 
 ## 音乐
 
 《潛龍諜影V
-原爆點》的主题曲选自英国著名摇滚歌手[麦克·欧菲尔德在](../Page/麦克·欧菲尔德.md "wikilink")2014年推出的专辑《》中的“Nuclear”，插曲選取1971年電影《》主題曲“”。
+原爆點》的主题曲选自英国著名摇滚歌手[麦克·欧菲尔德](../Page/麦克·欧菲尔德.md "wikilink")在2014年推出的专辑《》中的“Nuclear”，插曲選取1971年電影《》主題曲“”。
 
 ## 資料來源
 

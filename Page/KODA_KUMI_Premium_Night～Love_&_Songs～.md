@@ -1,5 +1,5 @@
 《**KODA KUMI Premium Night～Love & Songs～**》（典藏之夜～Love &
-Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2013年3月20日發行的演唱會影音作品。
+Songs～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年3月20日發行的演唱會影音作品。
 
 ## 解說
 

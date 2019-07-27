@@ -1,22 +1,22 @@
 **IWI X95**（又稱：**微型塔沃爾**，\[1\]\[2\]\[3\]，M.T.A.R.
-21\[4\]；有時又被簡稱為Tavor-2）是一系列由[以色列](../Page/以色列.md "wikilink")[武器工業](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")（IWI）專門為[特種部隊以及通常不使用長管突擊步槍的軍事人員研製及生產的](../Page/特種部隊.md "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，亦可通過零件轉換套件包變成犢牛式[冲锋枪](../Page/冲锋枪.md "wikilink")，是[IMI塔沃爾TAR-21的外型上獨立及極其緊湊型武器](../Page/IMI_TAR-21突擊步槍.md "wikilink")。突击步枪時分別發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（X95和X95-L）、[5.45×39毫米](../Page/5.45×39mm.md "wikilink")[苏联口徑](../Page/苏联.md "wikilink")（X95-R）和[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，而冲锋枪時則發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")（X95-S和X95
+21\[4\]；有時又被簡稱為Tavor-2）是一系列由[以色列](../Page/以色列.md "wikilink")[武器工業](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")（IWI）專門為[特種部隊](../Page/特種部隊.md "wikilink")以及通常不使用長管突擊步槍的軍事人員研製及生產的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，亦可通過零件轉換套件包變成犢牛式[冲锋枪](../Page/冲锋枪.md "wikilink")，是[IMI塔沃爾TAR-21的外型上獨立及極其緊湊型武器](../Page/IMI_TAR-21突擊步槍.md "wikilink")。突击步枪時分別發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（X95和X95-L）、[5.45×39毫米](../Page/5.45×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")口徑（X95-R）和[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，而冲锋枪時則發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")（X95-S和X95
 SMG）[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 2009年，[以色列国防军宣佈塔沃爾X](https://zh.wikipedia.org/wiki/以色列国防军 "wikilink")95會被選定為以色列步兵未來的標兵武器。\[5\]
 
 ## 歷史
 
-為了滿足現代戰爭中的多用途需求，[以色列武器工業公司在](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")[塔沃爾TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")[突击步枪基礎上研製了一款新型](../Page/突击步枪.md "wikilink")[犢牛式突擊步槍](../Page/犢牛式_\(槍械\).md "wikilink")：Tavor
+為了滿足現代戰爭中的多用途需求，[以色列武器工業公司在](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")[塔沃爾TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")基礎上研製了一款新型[犢牛式突擊步槍](../Page/犢牛式_\(槍械\).md "wikilink")：Tavor
 2型突擊步槍。它不但可以轉換成9毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，而且獨立衍生出Tavor
 2型槍族，適用性非常廣泛。
 
-2002年5月，[以色列國防軍採購了Tavor](../Page/以色列國防軍.md "wikilink") 2及Tavor
+2002年5月，[以色列國防軍](../Page/以色列國防軍.md "wikilink")採購了Tavor 2及Tavor
 CTAR原型共10,000枝，取代目前裝備的M16系列，作為步兵先遣隊的標準配備武器。正式定型後的Tavor 2重新採用[ITL
 MARS一體化](../Page/ITL_MARS一體化紅點鏡.md "wikilink")[紅點鏡](../Page/紅點鏡.md "wikilink")，命名為Tavor
 2 B。
 
 2004年，IWI將Tavor 2改稱為MTAR-21。新型MTAR-21與Tavor
-2在彈匣插座上有比較大的細節區別，此外MTAR-21型採用了不同的[扳機護圈來區分](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")5.56毫米型和9毫米型。此外，MTAR-21衝鋒槍型的9毫米型使用了[烏茲衝鋒槍的可拆卸式](../Page/烏茲衝鋒槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。MTAR-21有三種型號：5.56毫米短槍管普通型、5.56毫米短槍管消聲型和9毫米衝鋒槍型，5.56毫米長槍管型號則被取消了。
+2在彈匣插座上有比較大的細節區別，此外MTAR-21型採用了不同的[扳機護圈來區分](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")5.56毫米型和9毫米型。此外，MTAR-21衝鋒槍型的9毫米型使用了[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")的可拆卸式[彈匣](../Page/彈匣.md "wikilink")。MTAR-21有三種型號：5.56毫米短槍管普通型、5.56毫米短槍管消聲型和9毫米衝鋒槍型，5.56毫米長槍管型號則被取消了。
 
 2009年11月，[以色列国防军宣佈微型塔沃爾](https://zh.wikipedia.org/wiki/以色列国防军 "wikilink")（Micro
 Tavor，M.T.A.R.
@@ -27,28 +27,28 @@ SMG。而在2012年，IWI又推出了長槍管的5.56×45毫米型X95-L和5.45×
 
 ## 設計細節
 
-塔沃爾X95系列是一款外型上獨立於塔沃爾系列、極其緊湊的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")。其非常緊湊的外型是專為軍事上的特種部隊而設計，因為他倆通常是不會使用較長的突擊步槍。由於槍身比CTAR-21更短，因此微型塔沃爾的[槍托系統與原來的TAR](../Page/槍托.md "wikilink")-21的形狀有明顯不同。\[10\]最明顯的特徵就是護木前端具有向外擴展的喇叭形擴口處理，以防止使用者在黑暗等情況下使用時手指伸到槍管前方而受傷；同時由於不再使用原來的[MARS紅點鏡](../Page/ITL_MARS一體化紅點鏡.md "wikilink")，因而取消了[雷射瞄準器開關](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。這一點被生產商視為該槍與過去其他同系列突擊步槍型號於網上目錄上的區別。
+塔沃爾X95系列是一款外型上獨立於塔沃爾系列、極其緊湊的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")。其非常緊湊的外型是專為軍事上的特種部隊而設計，因為他倆通常是不會使用較長的突擊步槍。由於槍身比CTAR-21更短，因此微型塔沃爾的[槍托](../Page/槍托.md "wikilink")系統與原來的TAR-21的形狀有明顯不同。\[10\]最明顯的特徵就是護木前端具有向外擴展的喇叭形擴口處理，以防止使用者在黑暗等情況下使用時手指伸到槍管前方而受傷；同時由於不再使用原來的[MARS紅點鏡](../Page/ITL_MARS一體化紅點鏡.md "wikilink")，因而取消了[雷射瞄準器開關](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。這一點被生產商視為該槍與過去其他同系列突擊步槍型號於網上目錄上的區別。
 
-塔沃爾X95採用[長行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，[轉拴式槍栓閉鎖機構](../Page/轉拴式槍栓.md "wikilink")。外殼完全是由[聚合物所製造而成](../Page/聚合物.md "wikilink")，聚合物外殼內部的[機匣部分是一個鋼製U形骨架](https://zh.wikipedia.org/wiki/機匣 "wikilink")，保障武器堅固耐用。
+塔沃爾X95採用[長行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")閉鎖機構。外殼完全是由[聚合物](../Page/聚合物.md "wikilink")所製造而成，聚合物外殼內部的[機匣部分是一個鋼製U形骨架](https://zh.wikipedia.org/wiki/機匣 "wikilink")，保障武器堅固耐用。
 
-塔沃爾X95可藉由的位置很​​輕易地與TAR-21（以及CTAR-21、STAR-21和GTAR-21）區分開來。X95的拉機柄更接近，而TAR-21的拉機柄更靠近槍口。其[槍托還略有重新設計](../Page/槍托.md "wikilink")。\[11\]
+塔沃爾X95可藉由的位置很​​輕易地與TAR-21（以及CTAR-21、STAR-21和GTAR-21）區分開來。X95的拉機柄更接近，而TAR-21的拉機柄更靠近槍口。其[槍托](../Page/槍托.md "wikilink")還略有重新設計。\[11\]
 
 只要通過IWI公司專門提供的一套簡單的零件轉換套件包，即換用口徑的槍管、槍機和彈匣，就可以把塔沃爾X95由原來的[5.56×45毫米NATO](../Page/5.56×45mm_NATO.md "wikilink")[子弹的突击步枪改為發射](https://zh.wikipedia.org/wiki/子弹 "wikilink")[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑子弹的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")。另外，亦有一種整體式[消聲器型的槍管也可以加裝到塔沃爾X](../Page/抑制器.md "wikilink")95上，它亦是9毫米口徑零件轉換套件包的一部份；作為替換護木的一部分，它還整合了[槍口制退器](../Page/砲口制動器.md "wikilink")、消聲器和護木。\[12\]以後還可能推出[.22
 LR口徑的轉換套件](../Page/.22_LR.md "wikilink")，訓練時就能節省大量彈藥費用。而[以色列武器工業亦已經研發了微型塔沃爾專屬的](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")[槍管下掛式榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")：[IWI
 GL 40](../Page/IWI_GL_40附加型榴彈發射器.md "wikilink")。
 
 當配置為發射9×19毫米口徑子弹時，該槍利用[反沖作用以拋出彈殼和再讓彈藥上膛](../Page/反沖作用_\(槍械\).md "wikilink")，但與[氣動式
-(槍械)氣動式步槍重新上膛系統在同一槍身以內內進行](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)氣動式 "wikilink")。[彈匣則採用來自](../Page/彈匣.md "wikilink")[烏茲衝鋒槍的彈匣](../Page/烏茲衝鋒槍.md "wikilink")，有20、25及32發三種（亦有40及50發彈匣）。因為彈匣尺寸不同，X95使用衝鋒槍彈匣時就需要安裝彈匣適配器。可以裝上的整體式消聲器，可直接發射9×19毫米標準速度彈藥，而非專門的[亞音速彈藥](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")。衝鋒槍版本的長度與步槍版本相同，但是[膛線纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：10，以穩定較重的9毫米[彈頭](https://zh.wikipedia.org/wiki/彈丸 "wikilink")。\[13\]
+(槍械)氣動式步槍重新上膛系統在同一槍身以內內進行](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)氣動式 "wikilink")。[彈匣](../Page/彈匣.md "wikilink")則採用來自[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")的彈匣，有20、25及32發三種（亦有40及50發彈匣）。因為彈匣尺寸不同，X95使用衝鋒槍彈匣時就需要安裝彈匣適配器。可以裝上的整體式消聲器，可直接發射9×19毫米標準速度彈藥，而非專門的[亞音速彈藥](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")。衝鋒槍版本的長度與步槍版本相同，但是[膛線纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：10，以穩定較重的9毫米[彈頭](https://zh.wikipedia.org/wiki/彈丸 "wikilink")。\[13\]
 
-與配備長度370毫米（14.6英寸）槍管、全長達到890毫米（35英寸；展開槍托以後）的[M4卡賓槍相比](../Page/M4卡賓槍.md "wikilink")，X95配備330毫米（12.99英寸）、380毫米（14.96英寸）或419毫米（16.49英寸）槍管以後的全長分別是580毫米（22.83英寸），640毫米（25.2英寸）或670毫米（26.38英吋）。\[14\]
+與配備長度370毫米（14.6英寸）槍管、全長達到890毫米（35英寸；展開槍托以後）的[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")相比，X95配備330毫米（12.99英寸）、380毫米（14.96英寸）或419毫米（16.49英寸）槍管以後的全長分別是580毫米（22.83英寸），640毫米（25.2英寸）或670毫米（26.38英吋）。\[14\]
 
 ### 內部核心機件
 
-X95的槍機在12點、4點與7點鐘方向設有三個鎖耳，其中7點鐘方向的鎖耳中間設有凹槽，以排除發射子彈時所產生的高壓火藥燃氣。採用了超大型爪狀抽殼鉤。[圆形拋殼挺設置在機頭上](../Page/圆.md "wikilink")。由[數控機床所加工而成的鋼製槍機機框非常結實而可靠](https://zh.wikipedia.org/wiki/數控機床 "wikilink")。槍機機框上部前方連接著活塞桿。當使用者進行射擊的時候，高壓火藥燃氣從槍管中的導氣口進入導氣箍，並把活塞桿向後推動。槍機後部則是[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wikilink")、復進簧導桿及與之平行的槍機導桿。在射擊時，槍機的往復運動非常平穩。X95的扳機組件參考了AK槍族的扳機組件，並且採用模塊化設計。此外X95的及其側板亦採用模塊化設計，可將握把在MTAR-21的帶有[扳機護圈握把與X](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")95的帶有很像TAR-21的握把護圈握把之間更換；而兩種握把的側板同樣可更換。
+X95的槍機在12點、4點與7點鐘方向設有三個鎖耳，其中7點鐘方向的鎖耳中間設有凹槽，以排除發射子彈時所產生的高壓火藥燃氣。採用了超大型爪狀抽殼鉤。[圆](../Page/圆.md "wikilink")形拋殼挺設置在機頭上。由[數控機床所加工而成的鋼製槍機機框非常結實而可靠](https://zh.wikipedia.org/wiki/數控機床 "wikilink")。槍機機框上部前方連接著活塞桿。當使用者進行射擊的時候，高壓火藥燃氣從槍管中的導氣口進入導氣箍，並把活塞桿向後推動。槍機後部則是[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wikilink")、復進簧導桿及與之平行的槍機導桿。在射擊時，槍機的往復運動非常平穩。X95的扳機組件參考了AK槍族的扳機組件，並且採用模塊化設計。此外X95的及其側板亦採用模塊化設計，可將握把在MTAR-21的帶有[扳機護圈握把與X](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")95的帶有很像TAR-21的握把護圈握把之間更換；而兩種握把的側板同樣可更換。
 
 ### 槍管組件
 
-X95的[槍管通過槍身上的槍管固定旋鈕固定在](../Page/槍管.md "wikilink")[機匣上](https://zh.wikipedia.org/wiki/機匣 "wikilink")，使用工具可實現快速更換槍管。
+X95的[槍管](../Page/槍管.md "wikilink")通過槍身上的槍管固定旋鈕固定在[機匣上](https://zh.wikipedia.org/wiki/機匣 "wikilink")，使用工具可實現快速更換槍管。
 
 ### 操作方式
 
@@ -64,7 +64,7 @@ X95設有[空槍挂機](https://zh.wikipedia.org/wiki/空槍挂機 "wikilink")�
 
 ### 供彈方式
 
-作為一款新型犢牛式突擊步槍，X95並沒有重新設計彈匣，而是採用了[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")／[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")（即[AR-15系列](../Page/AR-15自動步槍.md "wikilink")）使用的[標準彈匣](../Page/STANAG彈匣.md "wikilink")。而變成衝鋒槍型以後，則採用[烏茲衝鋒槍的](../Page/烏茲衝鋒槍.md "wikilink")20、25、32發[彈匣](../Page/彈匣.md "wikilink")。將口徑轉換為9毫米時，需要在彈匣插槽裝上適配器。
+作為一款新型犢牛式突擊步槍，X95並沒有重新設計彈匣，而是採用了[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")／[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")（即[AR-15系列](../Page/AR-15自動步槍.md "wikilink")）使用的[標準彈匣](../Page/STANAG彈匣.md "wikilink")。而變成衝鋒槍型以後，則採用[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")的20、25、32發[彈匣](../Page/彈匣.md "wikilink")。將口徑轉換為9毫米時，需要在彈匣插槽裝上適配器。
 
 ### 導軌設置
 
@@ -72,11 +72,11 @@ X95護木頂部、右側及下方均設有[MIL-STD-1913戰術導軌](../Page/皮
 
 ### 不完全分解
 
-X95不完全分解的步驟是，首先卸下彈匣，拉動檢查[膛室是否有彈](../Page/膛室.md "wikilink")；確保無彈後，拔出[槍托尾部的固定銷](../Page/槍托.md "wikilink")，打開槍托底板，此時就可以直接抽出內部的槍機組件，完成不完全分解。整個過程簡單快捷，方便士兵在野外進行操作和維護。
+X95不完全分解的步驟是，首先卸下彈匣，拉動檢查[膛室](../Page/膛室.md "wikilink")是否有彈；確保無彈後，拔出[槍托](../Page/槍托.md "wikilink")尾部的固定銷，打開槍托底板，此時就可以直接抽出內部的槍機組件，完成不完全分解。整個過程簡單快捷，方便士兵在野外進行操作和維護。
 
 ## 衍生型
 
-[Flickr_-_Israel_Defense_Forces_-_Golani_Brigade_Conducts_Exercise_in_Mount_Hermon_Snow_(7).jpg](https://zh.wikipedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Golani_Brigade_Conducts_Exercise_in_Mount_Hermon_Snow_\(7\).jpg "fig:Flickr_-_Israel_Defense_Forces_-_Golani_Brigade_Conducts_Exercise_in_Mount_Hermon_Snow_(7).jpg")以上，裝備了塔沃爾X95的[以色列國防軍士兵](../Page/以色列國防軍.md "wikilink")。\]\]
+[Flickr_-_Israel_Defense_Forces_-_Golani_Brigade_Conducts_Exercise_in_Mount_Hermon_Snow_(7).jpg](https://zh.wikipedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Golani_Brigade_Conducts_Exercise_in_Mount_Hermon_Snow_\(7\).jpg "fig:Flickr_-_Israel_Defense_Forces_-_Golani_Brigade_Conducts_Exercise_in_Mount_Hermon_Snow_(7).jpg")以上，裝備了塔沃爾X95的[以色列國防軍](../Page/以色列國防軍.md "wikilink")士兵。\]\]
 [Range253232.JPG](https://zh.wikipedia.org/wiki/File:Range253232.JPG "fig:Range253232.JPG")型）的女兵。\]\]
 目前塔沃爾X95有三種不同的[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")：第一款是圓柱形（這樣可以安裝[消聲器並將其收藏於護木以內](../Page/抑制器.md "wikilink")），目前只供軍事組織採用；第二款是矩形，在三、六和九點鐘位置配備了內置式導軌，並可裝上有可拆卸式導軌蓋；第三款是第二款的細長型版本，為IWI
 US
@@ -113,7 +113,7 @@ X95所生產。圓柱護木型最初在[機匣頂部和護木以上裝有兩條�
 
 #### 俄羅斯口徑型
 
-2013年4月，IWI推出了供X95使用的口徑轉換套件，發射[5.45×39毫米](../Page/5.45×39mm.md "wikilink")[苏联口徑](../Page/苏联.md "wikilink")（X95-R）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該套件專為出口客戶而設計，讓該步槍可以發射在他們的存貨中已經使用的5.45×39毫米[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。\[24\]\[25\]
+2013年4月，IWI推出了供X95使用的口徑轉換套件，發射[5.45×39毫米](../Page/5.45×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")口徑（X95-R）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該套件專為出口客戶而設計，讓該步槍可以發射在他們的存貨中已經使用的5.45×39毫米[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。\[24\]\[25\]
 
   - **X95-R
     330**：5.45×39毫米苏联口徑卡賓槍，裝有長達330毫米（12.99英吋）的槍管，總長度達到580毫米（22.83英吋）。
@@ -123,7 +123,7 @@ X95所生產。圓柱護木型最初在[機匣頂部和護木以上裝有兩條�
 ### 特許產生型
 
   - **Zittara**：為MTAR-21微型塔沃爾的印度當地生產改進型版本，以發射印度研製、由（OFB）生產的子彈。\[26\]這些MTAR
-    21系列步槍裝有經過修改的單塊式[槍托和新型瞄準具](../Page/槍托.md "wikilink")，以及[土耳其製](../Page/土耳其.md "wikilink")[MKEK
+    21系列步槍裝有經過修改的單塊式[槍托](../Page/槍托.md "wikilink")和新型瞄準具，以及[土耳其](../Page/土耳其.md "wikilink")製[MKEK
     T-40](../Page/MKEK_T-40附加型榴彈發射器.md "wikilink")[槍管下掛式榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")。但是，它並無獲採用以投入服役。\[27\]
   - **Fort-223**：為IWI X95 330的烏克蘭國營兵工廠授權生產版本，亦可很簡單地轉換為X95 SMG或X95-S
     SMG。\[28\]
@@ -154,16 +154,16 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
 
   -   - [安哥拉武裝部隊](../Page/安哥拉武装力量.md "wikilink")：X95\[30\]
 
-  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")：X95
+  -   - [特種部隊](../Page/特種部隊.md "wikilink")單位：X95
 
   - ：MTAR-21於當地由作本土生產。\[31\]
 
-  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")
+  -   - [特種部隊](../Page/特種部隊.md "wikilink")單位
 
   -   - [塞浦路斯國民警衛隊](https://zh.wikipedia.org/wiki/塞浦路斯國民警衛隊 "wikilink")：X95將取代目前裝備的[HK
         G3自動步槍](../Page/HK_G3自動步槍.md "wikilink")。
 
-  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")：MTAR-21
+  -   - [特種部隊](../Page/特種部隊.md "wikilink")單位：MTAR-21
 
   -   - 警察單位：MTAR-21
 
@@ -174,18 +174,18 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
 
       - [中央後備警察部隊](https://zh.wikipedia.org/wiki/中央後備警察部隊 "wikilink")（CRPF）：訂購了12,000枝X95步槍（微型塔沃爾），並且在2011年初收到第一批步槍。\[34\]在印度軍隊使用武器打擊克什米爾叛亂之後，CRPF指揮官表示，由於X95的體積細小、威力強大、射程更遠以及重量更輕，因而是一款比[AKM更有力的突擊步槍](../Page/AKM突擊步槍.md "wikilink")。
 
-      - [印度武裝部隊](https://zh.wikipedia.org/wiki/印度軍事 "wikilink")：2002年底，印度與[以色列軍事工業簽署了一項價值達到](../Page/以色列軍事工業.md "wikilink")8.8億美元（相當於2017年的24億[印度盧比或](../Page/印度盧比.md "wikilink")3,500萬美元）的協議，將向印度的[特種部隊人員設放](../Page/特種部隊.md "wikilink")3,070枝製成的TAR-21，\[35\]它的人體工程學設計、耐熱量和沙粒的可靠性可使它在近身距離和車廂內操作方面具有優勢。
+      - [印度武裝部隊](https://zh.wikipedia.org/wiki/印度軍事 "wikilink")：2002年底，印度與[以色列軍事工業](../Page/以色列軍事工業.md "wikilink")簽署了一項價值達到8.8億美元（相當於2017年的24億[印度盧比](../Page/印度盧比.md "wikilink")或3,500萬美元）的協議，將向印度的[特種部隊](../Page/特種部隊.md "wikilink")人員設放3,070枝製成的TAR-21，\[35\]它的人體工程學設計、耐熱量和沙粒的可靠性可使它在近身距離和車廂內操作方面具有優勢。
 
-      - [特別邊防部隊](../Page/特別邊防部隊.md "wikilink")（SFF）：2005年，以色列軍事工業向印度北部的特別邊防部隊提供了350—400枝TAR-21。但隨後宣布結果“在操作上不令人滿意”。此後已經完成所需作出的改進，2006年間在以色列的測試進展順利，並且結算了交付合同當中的貨品。TAR-21現已投入操作服役——即使以後印度準備進行更大規模的競標，可能採用X95的9×19毫米魯格口徑版本。\[36\]隨後由當地（，簡稱：OFB）作印度本土生產，命名為「**Zittara**」，但從未被採用過。\[37\]新型塔沃爾X95裝有經過修改的單塊式[槍托和新型瞄準具](../Page/槍托.md "wikilink")，以及[土耳其製MKEK](../Page/土耳其.md "wikilink")
+      - [特別邊防部隊](../Page/特別邊防部隊.md "wikilink")（SFF）：2005年，以色列軍事工業向印度北部的特別邊防部隊提供了350—400枝TAR-21。但隨後宣布結果“在操作上不令人滿意”。此後已經完成所需作出的改進，2006年間在以色列的測試進展順利，並且結算了交付合同當中的貨品。TAR-21現已投入操作服役——即使以後印度準備進行更大規模的競標，可能採用X95的9×19毫米魯格口徑版本。\[36\]隨後由當地（，簡稱：OFB）作印度本土生產，命名為「**Zittara**」，但從未被採用過。\[37\]新型塔沃爾X95裝有經過修改的單塊式[槍托](../Page/槍托.md "wikilink")和新型瞄準具，以及[土耳其](../Page/土耳其.md "wikilink")製MKEK
         T-40[槍管下掛式榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")。\[38\]最近已被訂購5,500枝，並且正在訂購更多的步槍。
 
       - （MARCOS）：2010年12月，MARCOS獲發配了500多枝塔沃爾犢牛式突擊步槍和另外30支[加利爾狙擊步槍](../Page/IMI加利爾狙擊型步槍.md "wikilink")，價值分別超過1.5億印度盧比（220萬美元）和2,000萬印度盧比（290,000美元）。\[39\]
 
   -   - [以色列國防軍](../Page/以色列國防軍.md "wikilink")：2009年11月宣布，微型塔沃爾（塔沃爾X95）將會取代原來的所有T.A.R.
         21，並且另外加上一種新型槍管下掛式榴彈發射器（[IWI GL
-        40附加型榴彈發射器](../Page/IWI_GL_40附加型榴彈發射器.md "wikilink")）並且一起在2011年成為他們的制式步兵武器。\[40\]2014年，以色列國防軍宣布，未來（從2014年底開始），一部份步兵部隊可能會開始裝備一些X95的改進型，它倆將裝上有較長的380毫米（14.96英寸）[槍管而非X](../Page/槍管.md "wikilink")95原來的330毫米（12.99英寸）槍，以及較輕的扳機扣力。\[41\]
+        40附加型榴彈發射器](../Page/IWI_GL_40附加型榴彈發射器.md "wikilink")）並且一起在2011年成為他們的制式步兵武器。\[40\]2014年，以色列國防軍宣布，未來（從2014年底開始），一部份步兵部隊可能會開始裝備一些X95的改進型，它倆將裝上有較長的380毫米（14.96英寸）[槍管](../Page/槍管.md "wikilink")而非X95原來的330毫米（12.99英寸）槍，以及較輕的扳機扣力。\[41\]
 
-  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")\[42\]
+  -   - [特種部隊](../Page/特種部隊.md "wikilink")單位\[42\]
 
   -   - 特種部隊單位\[43\]
 
@@ -193,7 +193,7 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
 
   -   - 特別舟艇部隊\[45\]
 
-  -   - “老虎”[特種部隊](../Page/特種部隊.md "wikilink")\[46\]
+  -   - “猛虎”[特種部隊](../Page/特種部隊.md "wikilink")\[46\]
 
   -   -
   -   - [菲律賓海岸防衛隊](../Page/菲律賓海巡署.md "wikilink")\[47\]
@@ -207,7 +207,7 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
 
   - ：的負責人[尤里·盧岑科在](https://zh.wikipedia.org/wiki/尤里·盧岑科 "wikilink")2008年10月1日，宣佈向[IWI和以及烏克蘭的研究和生產公司](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")將共同生產塔沃爾系列突擊步槍，當中包括X95
     330和X95-R，分別命名為「**[Fort-223](../Page/Fort-221突擊步槍.md "wikilink")**」和「**[Fort-224](../Page/Fort-221突擊步槍.md "wikilink")**」。\[49\]並將被分發至[烏克蘭軍隊和](https://zh.wikipedia.org/wiki/烏克蘭軍隊 "wikilink")[特警隊內服役](https://zh.wikipedia.org/wiki/特種警察 "wikilink")。\[50\]\[51\]RPC
-    Fort曾向烏克蘭安全部隊人員展示5.45口徑型操作樣槍（包括烏克蘭生產的X95-R），作為說服他們購買為烏克蘭特種部隊生產的塔沃爾系列的一種手段。\[52\]目前Fort-224已被[乌克兰民族卫队所採用](../Page/乌克兰民族卫队.md "wikilink")。\[53\]
+    Fort曾向烏克蘭安全部隊人員展示5.45口徑型操作樣槍（包括烏克蘭生產的X95-R），作為說服他們購買為烏克蘭特種部隊生產的塔沃爾系列的一種手段。\[52\]目前Fort-224已被[乌克兰民族卫队](../Page/乌克兰民族卫队.md "wikilink")所採用。\[53\]
 
       - [烏克蘭武裝力量](https://zh.wikipedia.org/wiki/烏克蘭軍事 "wikilink")
 
@@ -224,7 +224,7 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
     zh-tw:機器戰警;}-2014](../Page/机械战警_\(2014年电影\).md "wikilink")》（RoboCop
     2014）：型號為MTAR-21，被Omni Corp公司安全警衛所使用。
   - 2016年—《[-{zh-tw:惡棍英雄：死侍; zh-cn:死侍;
-    zh-hk:死侍：不死現身;}-](../Page/惡棍英雄：死侍.md "wikilink")》：型號為MTAR-21，被「阿積斯」法蘭西斯·費里曼的[僱傭兵所使用](../Page/僱傭兵.md "wikilink")。
+    zh-hk:死侍：不死現身;}-](../Page/惡棍英雄：死侍.md "wikilink")》：型號為MTAR-21，被「阿積斯」法蘭西斯·費里曼的[僱傭兵](../Page/僱傭兵.md "wikilink")所使用。
 
 ### 电視節目
 
@@ -245,13 +245,13 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
     of Duty: Black Ops
     II）：型號為X95平頂型，命名為「MTAR」，30發[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至40發），初始攜彈量為180發（故事模式）、90發（聯機模式）和120發（殭屍模式），最高攜彈量為390發（故事模式）和240發（聯機模式和殭屍模式），造型上裝有不可使用的通用[戰術燈](../Page/戰術燈.md "wikilink")。故事模式之中完成「時間和命運」（Time
     and Fate）戰役以後解鎖，被大衞·梅森（David
-    Mason）、[巴基斯坦三軍情報局](../Page/巴基斯坦三軍情報局.md "wikilink")（ISI）、[也門](https://zh.wikipedia.org/wiki/也門 "wikilink")[民兵](../Page/民兵.md "wikilink")、「核心之日」第二號人物兼[僱傭兵指揮官德法科](../Page/僱傭兵.md "wikilink")（DeFalco）和僱傭兵所使用；聯機模式時於等級4解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、快速重裝彈匣、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器；殭屍模式時以950點打開神秘箱取得，亦有一款衍生型稱作「惡意的生物分類陽極處理救贖主」（Malevolent
+    Mason）、[巴基斯坦三軍情報局](../Page/巴基斯坦三軍情報局.md "wikilink")（ISI）、[也門](https://zh.wikipedia.org/wiki/也門 "wikilink")[民兵](../Page/民兵.md "wikilink")、「核心之日」第二號人物兼[僱傭兵](../Page/僱傭兵.md "wikilink")指揮官德法科（DeFalco）和僱傭兵所使用；聯機模式時於等級4解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、快速重裝彈匣、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器；殭屍模式時以950點打開神秘箱取得，亦有一款衍生型稱作「惡意的生物分類陽極處理救贖主」（Malevolent
     Taxonomic Anodized
     Redeemer），最高攜彈量提升至360發，下掛的榴彈發射器攜彈量則提升至8發，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、毫米波掃描器、目標搜索器、EOTech全息瞄準鏡、榴彈發射器。
   - 2013年—《[-{zh-cn:战地4;
     zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「中国崛起」（China
-    Rising）武器之一。只在聯機模式中登場。型號為X95，命名為「MTAR-21」（中文版則命名為「MTAR-21突擊步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")。聯機模式時為所有兵種的解鎖武器包武器之一，於完成小任務「多元天賦」（以[突击步枪](../Page/突击步枪.md "wikilink")、[輕機枪](https://zh.wikipedia.org/wiki/輕機枪 "wikilink")、[狙擊步槍和](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")[手榴弹各以一發殺敵](../Page/手榴弹.md "wikilink")1人）以後才能解鎖，並可以使用[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、FLIR（紅外線放大2倍）、JGM-4（放大4倍）、土狼、稜鏡（放大3.4倍）、、折疊握把、綠點雷射瞄準器、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、馬鈴薯握把、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33、直立握把當中之七）。
+    Rising）武器之一。只在聯機模式中登場。型號為X95，命名為「MTAR-21」（中文版則命名為「MTAR-21突擊步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")。聯機模式時為所有兵種的解鎖武器包武器之一，於完成小任務「多元天賦」（以[突击步枪](../Page/突击步枪.md "wikilink")、[輕機枪](https://zh.wikipedia.org/wiki/輕機枪 "wikilink")、[狙擊步槍和](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")[手榴弹](../Page/手榴弹.md "wikilink")各以一發殺敵1人）以後才能解鎖，並可以使用[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、FLIR（紅外線放大2倍）、JGM-4（放大4倍）、土狼、稜鏡（放大3.4倍）、、折疊握把、綠點雷射瞄準器、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、馬鈴薯握把、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33、直立握把當中之七）。
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
     zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
     of Duty:

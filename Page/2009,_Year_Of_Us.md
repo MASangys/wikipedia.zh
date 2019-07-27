@@ -1,5 +1,5 @@
 《**2009, Year of
-Us**》是[韓國男孩組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee在](../Page/SHINee.md "wikilink")2009年10月19日公佈的第三張迷你專輯，其實體鎖售於2009年10月22日開始。其中歌曲《Ring
+Us**》是[韓國男孩組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee](../Page/SHINee.md "wikilink")在2009年10月19日公佈的第三張迷你專輯，其實體鎖售於2009年10月22日開始。其中歌曲《Ring
 Ding Dong》和《Jo Jo》為宣傳單曲。唱片於發行後一星期獲得最高位置為第四位。
 
 ## 專輯簡介
@@ -11,7 +11,7 @@ Us)，人氣作曲家Kenzie呈獻的時尚歐洲流行舞曲《Jo
 Jo》，以搖擺旋律為基調的輕快歌曲《SHINee
 Girl》等等。我們可以從中感受豐富多彩的音樂。並且還有[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
 組合成員[Luna參與合作的](../Page/朴善英.md "wikilink")[珉豪](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")、[Key的強烈的Rap](https://zh.wikipedia.org/wiki/Key "wikilink")
-Battle曲《Get Down》，[溫流的首支單曲並有歌手Yeon](../Page/溫流.md "wikilink")-Woo
+Battle曲《Get Down》，[溫流](../Page/溫流.md "wikilink")的首支單曲並有歌手Yeon-Woo
 Kim參與的更加感性地演繹出無結果的愛情之傷痛的歌曲《我愛過的名字》<small>*(내가 사랑했던 이름 (The Name
 I Loved))*</small>等等突出各個成員個性的歌曲提升了本專輯的完成度。
 

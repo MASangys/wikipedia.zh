@@ -38,7 +38,7 @@
 <tr class="odd">
 <td><p><a href="https://github.com/html5lib/html5lib-python">html5lib</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MIT许可证" title="wikilink">MIT许可证</a></p></td>
-<td><p><a href="../Page/Python.md" title="wikilink">Python和</a><a href="../Page/PHP.md" title="wikilink">PHP</a></p></td>
+<td><p><a href="../Page/Python.md" title="wikilink">Python</a>和<a href="../Page/PHP.md" title="wikilink">PHP</a></p></td>
 <td><p>2013-12-23[3]</p></td>
 <td></td>
 <td></td>

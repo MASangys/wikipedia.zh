@@ -1,5 +1,5 @@
 **Lamport面包店算法**是解决多个[线程](../Page/线程.md "wikilink")[并发访问一个共享的单用户资源的](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[互斥问题的算法](../Page/互斥锁.md "wikilink")。
-由[莱斯利·兰波特发明](../Page/莱斯利·兰波特.md "wikilink")\[1\]。
+由[莱斯利·兰波特](../Page/莱斯利·兰波特.md "wikilink")发明\[1\]。
 
 ## 算法
 

@@ -1,5 +1,5 @@
 《**The Misconceptions Of
-Us**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee第](../Page/SHINee.md "wikilink")3張正規韓語改版專輯。於2013年8月8日發行。唱片公司為[SM
+Us**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")第3張正規韓語改版專輯。於2013年8月8日發行。唱片公司為[SM
 Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 專輯概要
@@ -17,7 +17,7 @@ Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 <!-- end list -->
 
   - 此次收錄兩首新曲《Selene 6.23 (我們之間的距離)》、《Better
-    Off》皆為成員[鐘鉉填詞](../Page/鐘鉉.md "wikilink")。
+    Off》皆為成員[鐘鉉](../Page/鐘鉉.md "wikilink")填詞。
 
 ## 曲目列表\[CD-1\]
 

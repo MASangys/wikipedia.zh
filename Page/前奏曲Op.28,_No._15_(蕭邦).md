@@ -4,12 +4,12 @@
 
 [阿爾弗雷德·科爾托將其稱為](https://zh.wikipedia.org/wiki/阿爾弗雷德·科爾托 "wikilink")"但死亡在這裏，在陰影之中"(Mais
 la Morte est là, dans
-l'ombre)，[汉斯·冯·彪罗將其稱為](../Page/汉斯·冯·彪罗.md "wikilink")"雨滴"(Raindrop)，而現在"雨滴"這一綽號是廣為人知的。\[1\]
+l'ombre)，[汉斯·冯·彪罗](../Page/汉斯·冯·彪罗.md "wikilink")將其稱為"雨滴"(Raindrop)，而現在"雨滴"這一綽號是廣為人知的。\[1\]
 
 ## 創作
 
 [Chopin-Prelude_15_"Raindrop".PNG](https://zh.wikipedia.org/wiki/File:Chopin-Prelude_15_"Raindrop".PNG "fig:Chopin-Prelude_15_\"Raindrop\".PNG")
- [乔治·桑記述了蕭邦一次彈琴時發了一場夢](../Page/乔治·桑.md "wikilink")：
+ [乔治·桑](../Page/乔治·桑.md "wikilink")記述了蕭邦一次彈琴時發了一場夢：
 
 她沒有指出上述故事源自哪首前奏曲，而以與雨聲類似一點來看，不少評論認為是這首。\[2\]但另一說認為[第六首也有可能](https://zh.wikipedia.org/wiki/前奏曲Op.28,_No._6_\(蕭邦\) "wikilink")。
 

@@ -1,4 +1,4 @@
-《**飄流幻境Online**》（）是由[中華網龍研發並營運的一款](../Page/中華網龍.md "wikilink")[2D](../Page/二维计算机图形.md "wikilink")
+《**飄流幻境Online**》（）是由[中華網龍](../Page/中華網龍.md "wikilink")研發並營運的一款[2D](../Page/二维计算机图形.md "wikilink")
 [Q版](https://zh.wikipedia.org/wiki/Q版 "wikilink")[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，于2005年12月14日在台湾公测\[1\]。游戏在大陆\[2\]、美国、港澳\[3\]都有运营。
 
 游戏以荒岛求生为主题，玩家需要通过收集素材来探索世界。遊戲以古文明的幻想为题材\[4\]，游戏包含了神秘的[馬雅文化](https://zh.wikipedia.org/wiki/馬雅文化 "wikilink")、[復活島上的巨石雕像以及各種謎樣事件](https://zh.wikipedia.org/wiki/復活島 "wikilink")\[5\]。而游戏画面也以日式风格著称\[6\]。
@@ -7,7 +7,7 @@
 
 ### 世界觀
 
-游戏的故事开始于一场船难，幸存的人们漂流到了一个荒岛上。荒岛可以给人们提供各种资源，玩家则利用这些资源进行研发，并探索更远的世界。游戏世界是以[地球为原型创作的](../Page/地球.md "wikilink")，其中包括[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[埃及](../Page/埃及.md "wikilink")、[玛雅和](https://zh.wikipedia.org/wiki/玛雅 "wikilink")[南极等地](../Page/南极.md "wikilink")\[7\]。
+游戏的故事开始于一场船难，幸存的人们漂流到了一个荒岛上。荒岛可以给人们提供各种资源，玩家则利用这些资源进行研发，并探索更远的世界。游戏世界是以[地球](../Page/地球.md "wikilink")为原型创作的，其中包括[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[埃及](../Page/埃及.md "wikilink")、[玛雅和](https://zh.wikipedia.org/wiki/玛雅 "wikilink")[南极](../Page/南极.md "wikilink")等地\[7\]。
 
 ### 開發
 
@@ -425,7 +425,7 @@
   - 燕玲
     屬性：火
     技能：火靈斬、熾焰武力 (原始技能) 、紅炎狂龍破（轉生技能）
-    [七次下西洋的宦官](https://zh.wikipedia.org/wiki/鄭和下西洋 "wikilink")[鄭和的養女](../Page/鄭和.md "wikilink")，有著正義的個性。一開始在鄭和船上，玩家被燕玲誤認成綁架父親的人，後來才得知是海盜頭目札多拉作的事情，玩家成功救出鄭和後，燕玲也以監視玩家的名義加入玩家。
+    [七次下西洋的宦官](https://zh.wikipedia.org/wiki/鄭和下西洋 "wikilink")[鄭和](../Page/鄭和.md "wikilink")的養女，有著正義的個性。一開始在鄭和船上，玩家被燕玲誤認成綁架父親的人，後來才得知是海盜頭目札多拉作的事情，玩家成功救出鄭和後，燕玲也以監視玩家的名義加入玩家。
     但其死亡任務相當悲慘，第2次札多拉為了盜取大明水軍的黃金再次綁架鄭和，札多拉為了使自己更強喝下在南洋取得的魔化藥水，最後被玩家擊敗後，札多拉以炸藥抓走燕玲，並與燕玲同歸於盡。
 
 <!-- end list -->

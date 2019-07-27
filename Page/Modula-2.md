@@ -1,4 +1,4 @@
-**Modula-2**是由[图灵奖获得者](../Page/图灵奖.md "wikilink")[尼克劳斯·维尔特](../Page/尼克劳斯·维尔特.md "wikilink")（Niklaus
+**Modula-2**是由[图灵奖](../Page/图灵奖.md "wikilink")获得者[尼克劳斯·维尔特](../Page/尼克劳斯·维尔特.md "wikilink")（Niklaus
 Wirth）所提出的一个[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。Modula-2之名是根據其3個編譯單元的模組而來，這些模組分別為程式模組（Program
 Module），定義模組（Definition Module）及執行模組（Implementation Module）。
 

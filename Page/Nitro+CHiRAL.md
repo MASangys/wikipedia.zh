@@ -1,4 +1,4 @@
-**Nitro+CHiRAL**是株式会社[Nitro+於](../Page/Nitro+.md "wikilink")2004年成立的[BL遊戲品牌](https://zh.wikipedia.org/wiki/BL "wikilink")。代表作是《[咎狗之血](../Page/咎狗之血.md "wikilink")》。主劇本家為[淵井鏑](https://zh.wikipedia.org/wiki/淵井鏑 "wikilink")，原畫家為、及（於2006年退社，於2009年退社）。
+**Nitro+CHiRAL**是株式会社[Nitro+](../Page/Nitro+.md "wikilink")於2004年成立的[BL遊戲品牌](https://zh.wikipedia.org/wiki/BL "wikilink")。代表作是《[咎狗之血](../Page/咎狗之血.md "wikilink")》。主劇本家為[淵井鏑](https://zh.wikipedia.org/wiki/淵井鏑 "wikilink")，原畫家為、及（於2006年退社，於2009年退社）。
 
 ## 作品列表
 

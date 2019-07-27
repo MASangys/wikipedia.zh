@@ -1,4 +1,4 @@
-**chatmonchy**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：**チャットモンチー**；中譯：**恰萌奇**）是[日本的一支二人組女子](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")。
+**chatmonchy**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：**チャットモンチー**；中譯：**恰萌奇**）是[日本](../Page/日本.md "wikilink")的一支二人組女子[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")。
 
 ## 成員
 
@@ -6,7 +6,7 @@
 
 **[橋本 絵莉子](https://zh.wikipedia.org/wiki/橋本_絵莉子 "wikilink")**（はしもと えりこ）
 
-  - 1983年10月17日出生，[日本](../Page/日本.md "wikilink")[德島縣](https://zh.wikipedia.org/wiki/德島縣 "wikilink")[德島市出身](../Page/德島市.md "wikilink")，血型A型。
+  - 1983年10月17日出生，[日本](../Page/日本.md "wikilink")[德島縣](https://zh.wikipedia.org/wiki/德島縣 "wikilink")[德島市](../Page/德島市.md "wikilink")出身，血型A型。
   - [德島市立城東中学校](https://zh.wikipedia.org/wiki/德島市立城東中学校 "wikilink")、[德島縣立城東高等学校畢業](https://zh.wikipedia.org/wiki/德島縣立城東高等学校 "wikilink")。
   - 擔任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")、[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[口琴](https://zh.wikipedia.org/wiki/口琴演奏家 "wikilink")、絕大部分歌曲的[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、部分歌曲的[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、樂隊核心。
 

@@ -1,9 +1,9 @@
 《**SKE48
-炸蝦商！**》（），簡稱Ebishō，是[日本電視台從](../Page/日本電視台.md "wikilink")2014年7月15日起至9月30日間、每[周二凌晨](https://zh.wikipedia.org/wiki/周二 "wikilink")1:29
+炸蝦商！**》（），簡稱Ebishō，是[日本電視台](../Page/日本電視台.md "wikilink")從2014年7月15日起至9月30日間、每[周二凌晨](https://zh.wikipedia.org/wiki/周二 "wikilink")1:29
 -
-1:59（即每[周一深夜](https://zh.wikipedia.org/wiki/周一 "wikilink")）播出的、日本女性偶像團體[SKE48的冠名](../Page/SKE48.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]。
+1:59（即每[周一深夜](https://zh.wikipedia.org/wiki/周一 "wikilink")）播出的、日本女性偶像團體[SKE48](../Page/SKE48.md "wikilink")的冠名[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]。
 
-該節目實質上是此前SKE48與女性[搞笑艺人](https://zh.wikipedia.org/wiki/搞笑艺人 "wikilink")[大久保佳代子合作的綜藝節目](../Page/大久保佳代子.md "wikilink")《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》的續集。
+該節目實質上是此前SKE48與女性[搞笑艺人](https://zh.wikipedia.org/wiki/搞笑艺人 "wikilink")[大久保佳代子](../Page/大久保佳代子.md "wikilink")合作的綜藝節目《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》的續集。
 
 ## 簡介
 
@@ -11,10 +11,10 @@
 
 每回授課結束後由大久保佳代子選出本期最優秀的成員，並對其進行特別的單獨授課。
 
-該節目與同時期同一電視台播放的[NMB48的綜藝節目](../Page/NMB48.md "wikilink")《[NMB48
+該節目與同時期同一電視台播放的[NMB48](../Page/NMB48.md "wikilink")的綜藝節目《[NMB48
 藝人\!\!\!3](../Page/NMB48_藝人！.md "wikilink")》\[2\]中的「私立難波女学院」設定上為姊妹學校，並有在相互的節目中交換留學的計劃。
 
-每期節目在電視台播放结束後亦可透過網路、在[Hulu或日本電視台的](../Page/Hulu.md "wikilink")[隨選視訊上進行付費觀看](../Page/隨選視訊.md "wikilink")。\[3\]
+每期節目在電視台播放结束後亦可透過網路、在[Hulu](../Page/Hulu.md "wikilink")或日本電視台的[隨選視訊](../Page/隨選視訊.md "wikilink")上進行付費觀看。\[3\]
 
 從7月29日起至9月30日間，每期節目中均包含一個特別企畫單元「**SKE48
 松村香織和谷真理佳的日本列島搭便車之旅**」，其中未公開的部分僅在Hulu上限定播放。
@@ -83,7 +83,7 @@
 <td><p>谷真理佳<br />
 松村香織</p></td>
 <td><p>嘉賓：（日本電視台製作人）<br />
-從<a href="../Page/宗谷岬.md" title="wikilink">宗谷岬到</a><a href="https://zh.wikipedia.org/wiki/SUNSHINE_SAKAE#2F" title="wikilink">SKE劇場的搭便車之旅</a></p></td>
+從<a href="../Page/宗谷岬.md" title="wikilink">宗谷岬</a>到<a href="https://zh.wikipedia.org/wiki/SUNSHINE_SAKAE#2F" title="wikilink">SKE劇場的搭便車之旅</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -139,7 +139,7 @@ SKE48 谷真理佳和松村香織的日本列島搭便車之旅</p></td>
 <td><p>9</p></td>
 <td><p>2014年<br />
 9月9日</p></td>
-<td><p><a href="../Page/足球.md" title="wikilink">足球運動員</a></p></td>
+<td><p><a href="../Page/足球.md" title="wikilink">足球</a>運動員</p></td>
 <td><p>特別企畫 SKE48 vs NMB48<br />
 泡泡足球</p></td>
 <td><p>-</p></td>

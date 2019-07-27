@@ -1,4 +1,4 @@
-[Kanon動畫是](../Page/Kanon.md "wikilink")[日本](../Page/日本.md "wikilink")[視覺小說kanon的動畫化作品](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，共分為[東映動畫製作版與](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[京都動畫製作版兩個版本](../Page/京都動畫.md "wikilink")。動畫描述男主角相澤祐一因家庭因素而到北國小鎮寄住在身為[表妹的少女家中的少年與在那小鎮中相遇的少女們的](https://zh.wikipedia.org/wiki/表妹 "wikilink")[戀愛故事](https://zh.wikipedia.org/wiki/戀愛 "wikilink")。随着双亲去了海外就职，来到了七年不见的“北國小鎮”，寄住在母亲的妹妹水濑秋子和她女儿名雪的家里。不知为何幾乎没有关于七年前在北國小鎮的记忆。
+[Kanon](../Page/Kanon.md "wikilink")動畫是[日本](../Page/日本.md "wikilink")[視覺小說kanon的動畫化作品](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，共分為[東映動畫製作版與](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[京都動畫](../Page/京都動畫.md "wikilink")製作版兩個版本。動畫描述男主角相澤祐一因家庭因素而到北國小鎮寄住在身為[表妹的少女家中的少年與在那小鎮中相遇的少女們的](https://zh.wikipedia.org/wiki/表妹 "wikilink")[戀愛故事](https://zh.wikipedia.org/wiki/戀愛 "wikilink")。随着双亲去了海外就职，来到了七年不见的“北國小鎮”，寄住在母亲的妹妹水濑秋子和她女儿名雪的家里。不知为何幾乎没有关于七年前在北國小鎮的记忆。
 
 ## 東映動畫版
 
@@ -94,7 +94,7 @@
 
 ## 京都動畫版
 
-2006年，因製作同樣改編自Key社遊戲[AIR的動畫版](https://zh.wikipedia.org/wiki/AIR "wikilink")，而受好評的[京都動畫宣佈將對Kanon進行第二次動畫化](../Page/京都動畫.md "wikilink")。此版動畫共24集，於2006年10月5日至2007年3月15日在日本
+2006年，因製作同樣改編自Key社遊戲[AIR的動畫版](https://zh.wikipedia.org/wiki/AIR "wikilink")，而受好評的[京都動畫](../Page/京都動畫.md "wikilink")宣佈將對Kanon進行第二次動畫化。此版動畫共24集，於2006年10月5日至2007年3月15日在日本
 BS-i 數位頻道播放。
 
 ### 製作人員\[5\]

@@ -1,5 +1,5 @@
 《**教我說再見 ～comment te dire adieu～**》（日语：）是日本[Visual
-Art's旗下品牌CRAFTWORK在](../Page/Visual_Art's.md "wikilink")2001年3月2日发售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]因為其含有大量令人精神上不適，並且難以理解的內容的緣故，因此經常被称為[獵奇與](../Page/獵奇.md "wikilink")[電波系遊戲](../Page/電波系.md "wikilink")。\[2\]
+Art's旗下品牌CRAFTWORK在](../Page/Visual_Art's.md "wikilink")2001年3月2日发售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]因為其含有大量令人精神上不適，並且難以理解的內容的緣故，因此經常被称為[獵奇](../Page/獵奇.md "wikilink")與[電波系](../Page/電波系.md "wikilink")遊戲。\[2\]
 
 ## 概述
 
@@ -47,7 +47,7 @@ Art's旗下品牌CRAFTWORK在](../Page/Visual_Art's.md "wikilink")2001年3月2�
 
 ## 表現手法
 
-這部作品與大部分[美少女遊戲的區別之處在于其遊戲中含有的大量意義不明的對話](../Page/美少女遊戲.md "wikilink")、男主人公與選項背道而馳的行動，以及大量的[象征手法](https://zh.wikipedia.org/wiki/象征 "wikilink")。
+這部作品與大部分[美少女遊戲](../Page/美少女遊戲.md "wikilink")的區別之處在于其遊戲中含有的大量意義不明的對話、男主人公與選項背道而馳的行動，以及大量的[象征手法](https://zh.wikipedia.org/wiki/象征 "wikilink")。
 
 在這部作品中，通過男主人公同幾名其“妄想”中的少女中的對話可知，所有與男主人公接觸的少女均象征著主人公在不同的時期所經歷的各種困惑。\[4\]其中，望美象征著男主人公初中時代的厭世感；真晝象征著童年時代對於虐待貓的愧疚感；羽由象征著小學時無法實現理想的無奈感；御幸象征著高中時代的厭學。\[5\]而當男主人公殺害妄想中的少女后，她們又原封不動地回到男主人公的身邊這件事，則象征著男主人公對於過去的罪惡與困惑無法抹去這一事實。此外，在遊戲的Bad
 End中，還有一張美人蕉的圖片。\[6\]美人蕉的花語有著妄想、猜疑與現實的末路的含義，這也象征了男主人公的處境。

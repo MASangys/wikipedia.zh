@@ -1,5 +1,5 @@
 《**The Simple
-Life**》是[香港已故](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[蔡齡齡第二張專輯](../Page/蔡齡齡.md "wikilink")，在1990年5月推出，當中主打歌《人生嘉年華》反應不俗，另一主打《細水長流》初時反應並不理想，但後來卻在1991年時因在[商業二台](https://zh.wikipedia.org/wiki/商業二台 "wikilink")[創作人音樂會演繹後獲得高度評價](https://zh.wikipedia.org/wiki/創作人音樂會 "wikilink")，而成為了她的經典作品
+Life**》是[香港](../Page/香港.md "wikilink")已故[歌手](../Page/歌手.md "wikilink")[蔡齡齡](../Page/蔡齡齡.md "wikilink")第二張專輯，在1990年5月推出，當中主打歌《人生嘉年華》反應不俗，另一主打《細水長流》初時反應並不理想，但後來卻在1991年時因在[商業二台](https://zh.wikipedia.org/wiki/商業二台 "wikilink")[創作人音樂會演繹後獲得高度評價](https://zh.wikipedia.org/wiki/創作人音樂會 "wikilink")，而成為了她的經典作品
 。
 
 ## 曲目
@@ -29,7 +29,7 @@ Life**》是[香港已故](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 <td><p><a href="../Page/林振強.md" title="wikilink">林振強</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林鑛培" title="wikilink">林鑛培</a></p></td>
 <td><p>第一主打<br />
-改編自<a href="../Page/玻利維亞.md" title="wikilink">玻利維亞歌曲</a>《》</p></td>
+改編自<a href="../Page/玻利維亞.md" title="wikilink">玻利維亞</a>歌曲《》</p></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
@@ -63,7 +63,7 @@ Life**》是[香港已故](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 <td><p>林振強</p></td>
 <td><p>袁卓繁</p></td>
 <td><p>第四主打<br />
-改編自<a href="../Page/西班牙.md" title="wikilink">西班牙歌曲</a>《》</p></td>
+改編自<a href="../Page/西班牙.md" title="wikilink">西班牙</a>歌曲《》</p></td>
 </tr>
 <tr class="even">
 <td><p>07</p></td>

@@ -1,5 +1,5 @@
 《**EXIT TUNES PRESENTS Vocaloanthems
-feat.初音未來**》是2010年9月15日發布的，藉由[初音未來等歌聲合成軟體](../Page/初音未來.md "wikilink")[VOCALOID創作的歌曲的](../Page/VOCALOID.md "wikilink")[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。發售元[EXIT
+feat.初音未來**》是2010年9月15日發布的，藉由[初音未來](../Page/初音未來.md "wikilink")等歌聲合成軟體[VOCALOID](../Page/VOCALOID.md "wikilink")創作的歌曲的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。發售元[EXIT
 TUNES](../Page/EXIT_TUNES.md "wikilink")、販售元[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 宣傳標語為「****」。

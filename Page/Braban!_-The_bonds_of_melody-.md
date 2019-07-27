@@ -1,5 +1,5 @@
 《**Braban\! -The bonds of
-melody-**》（）是[YUZUSOFT在](../Page/YUZUSOFT.md "wikilink")2006年7月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱「」，日文「」的縮寫，中文是指[管樂隊](https://zh.wikipedia.org/wiki/管樂隊 "wikilink")。
+melody-**》（）是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")在2006年7月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱「」，日文「」的縮寫，中文是指[管樂隊](https://zh.wikipedia.org/wiki/管樂隊 "wikilink")。
 
 ## 故事
 
@@ -57,7 +57,7 @@ melody-**》（）是[YUZUSOFT在](../Page/YUZUSOFT.md "wikilink")2006年7月28�
 ### 次要角色
 
   -
-    屬赤城山管樂部，擔任[小號手](../Page/小號.md "wikilink")。純和妙的兒時玩伴、同班同學。
+    屬赤城山管樂部，擔任[小號](../Page/小號.md "wikilink")手。純和妙的兒時玩伴、同班同學。
     常被純和和音開玩笑、毆打，是個悲劇角色。
     對一些不為人知的冷知識意外地了解。
   -
@@ -67,7 +67,7 @@ melody-**》（）是[YUZUSOFT在](../Page/YUZUSOFT.md "wikilink")2006年7月28�
     赤城山管樂部顧問兼指導老師，個性強悍、爽朗。健太郎高一同學的姐姐，因此健太郎常直呼其名，但本人希望被叫老師。
     酒量很好，收集了不少特殊的名酒。
   -
-    圓山學園管樂部副部長，擔任[薩克斯風手](../Page/薩克斯風.md "wikilink")。
+    圓山學園管樂部副部長，擔任[薩克斯風](../Page/薩克斯風.md "wikilink")手。
     追求羅曼蒂克，學園女性殺手。
     個性隨和、自尊心強，對自己的演奏相當有自信。
     在認識妙後對她一見鍾情，之後皆以天使稱呼她，讓妙感到相當害羞。

@@ -1,5 +1,5 @@
 《**Endless
-Story**》，[日本](../Page/日本.md "wikilink")[美籍女](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手](../Page/歌手.md "wikilink")[伊藤由奈以](../Page/伊藤由奈.md "wikilink")「REIRA
+Story**》，[日本](../Page/日本.md "wikilink")[美籍女](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手](../Page/歌手.md "wikilink")[伊藤由奈](../Page/伊藤由奈.md "wikilink")以「REIRA
 starring YUNA
 ITO」名義發行的第1張出道[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年9月7日發行。
 
@@ -11,10 +11,10 @@ ITO」名義發行的第1張出道[單曲和代表作之一](https://zh.wikipedi
   - 此曲乃改編自道恩·湯馬斯（Dawn Thomas）的《If I'm Not in Love》，曾多次被外國歌手凱西·特羅克利（Kathy
     Troccoli）、喬蒂·華特利（Jody Watley）、「布萊恩·瓊斯城大屠殺」樂團（Brian Jonestown
     Massacre）、菲絲·希爾（Faith Hill）翻唱。
-  - 該張單曲發行後，連續6週維持在日本[Oricon公信榜前五名](../Page/Oricon公信榜.md "wikilink")，創下了日本史上個人女歌手出道單曲之最高記錄，並同時打破了1989年由宮澤理惠創下的連續5週記錄。之後，她亦創造了出道單曲連續6周進入了公信榜最佳5名的記錄。
+  - 該張單曲發行後，連續6週維持在日本[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")前五名，創下了日本史上個人女歌手出道單曲之最高記錄，並同時打破了1989年由宮澤理惠創下的連續5週記錄。之後，她亦創造了出道單曲連續6周進入了公信榜最佳5名的記錄。
   - 累積銷量約47萬張，為伊藤由奈本人至今銷量最高的單曲。
   - 受惠於單曲大熱，伊藤由奈在該年憑歌曲首次登上[第56屆NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，並在同年套得[BEST
-    HIT歌謠祭最優秀新人獎](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")、[日本有線大獎最優秀新人獎](../Page/日本有線大獎.md "wikilink")、第47屆日本唱片大獎特別獎。
+    HIT歌謠祭最優秀新人獎](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")、[日本有線大獎](../Page/日本有線大獎.md "wikilink")最優秀新人獎、第47屆日本唱片大獎特別獎。
 
 ## 收錄歌曲
 

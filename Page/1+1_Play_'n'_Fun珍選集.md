@@ -1,5 +1,5 @@
 《**1+1 Play 'n' Fun珍選集**》
-是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[卓文萱首張](../Page/卓文萱.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，第5張個人專輯，於2009年11月6日正式發行，6首新歌、17首精選，一共收錄23首歌曲。\[1\]
+是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[卓文萱](../Page/卓文萱.md "wikilink")首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，第5張個人專輯，於2009年11月6日正式發行，6首新歌、17首精選，一共收錄23首歌曲。\[1\]
 
 ## 曲目
 

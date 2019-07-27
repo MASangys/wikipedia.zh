@@ -1,4 +1,4 @@
-是1989年[光榮公司所製作的](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")，屬於[三國志系列遊戲中的第二作](../Page/三國志系列.md "wikilink")。本作仍舊延續前作，參照中國文學名著《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》為基礎來設計遊戲內容，並加入了若干的新遊戲元素。遊戲的[背景音樂由](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")作曲。\[1\]
+是1989年[光榮公司所製作的](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")，屬於[三國志系列](../Page/三國志系列.md "wikilink")遊戲中的第二作。本作仍舊延續前作，參照中國文學名著《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》為基礎來設計遊戲內容，並加入了若干的新遊戲元素。遊戲的[背景音樂由](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")作曲。\[1\]
 
 本作延續前作，仍採用《三國演義》的小說內容來設定人物，玩家擔當的角色是[君主](../Page/君主.md "wikilink")，透過[内政](https://zh.wikipedia.org/wiki/内政 "wikilink")、[軍事](../Page/軍事.md "wikilink")、[外交](../Page/外交.md "wikilink")、[計略等指令指揮屬下武將](https://zh.wikipedia.org/wiki/戰略 "wikilink")，最終目標是統一分割為41國的中國全土。遊戲依照對應的[機種型號不同](../Page/電子遊戲機.md "wikilink")，可同時控制4、8、12名君主，然而，仍有部分君主作為[非玩家角色](../Page/非玩家角色.md "wikilink")，於劇本初期設定時不能選擇。
 
@@ -11,9 +11,9 @@
   - 新增加了『信用度』，是影響錄用人才，外交談判，屬下忠誠度的參數。
   - 合戰指令除了延續前作的通常攻撃、一齊攻擊、突撃、火計並加入了更細微的設定外，更新增了[單挑](https://zh.wikipedia.org/wiki/單挑 "wikilink")、寝返り工作（一種收買敵方的指令）、、共同軍援軍、（ZOC）概念等。
   - 本作中開始可以使用「新君主」來統一中國。
-  - 新增了[東漢滅亡後的劇本](https://zh.wikipedia.org/wiki/東漢 "wikilink")，同時[三國時代後期的的武將如](https://zh.wikipedia.org/wiki/三國時代 "wikilink")[鄧艾](https://zh.wikipedia.org/wiki/鄧艾 "wikilink")、[鍾會等人也首次登場](../Page/鍾會.md "wikilink")，使武將數達到352人。
+  - 新增了[東漢滅亡後的劇本](https://zh.wikipedia.org/wiki/東漢 "wikilink")，同時[三國時代後期的的武將如](https://zh.wikipedia.org/wiki/三國時代 "wikilink")[鄧艾](https://zh.wikipedia.org/wiki/鄧艾 "wikilink")、[鍾會](../Page/鍾會.md "wikilink")等人也首次登場，使武將數達到352人。
   - 降低了國家的數目，由58降至41。
-  - 新增了特殊武將，如[華佗](https://zh.wikipedia.org/wiki/華佗 "wikilink")、[許子将](https://zh.wikipedia.org/wiki/許子将 "wikilink")、[司馬徽](https://zh.wikipedia.org/wiki/司馬徽 "wikilink")、[貂蝉等](../Page/貂蝉.md "wikilink")。
+  - 新增了特殊武將，如[華佗](https://zh.wikipedia.org/wiki/華佗 "wikilink")、[許子将](https://zh.wikipedia.org/wiki/許子将 "wikilink")、[司馬徽](https://zh.wikipedia.org/wiki/司馬徽 "wikilink")、[貂蝉](../Page/貂蝉.md "wikilink")等。
 
 ## mask data
 
@@ -22,7 +22,7 @@
   - 義理：是否容易叛變的參數，義理越高的武將越不容易叛變，如[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")。
   - 人徳：即個人[魅力](https://zh.wikipedia.org/wiki/魅力 "wikilink")，人德越高的武將被捕捉到時越容易被釋放。
   - 野望：即[野心](https://zh.wikipedia.org/wiki/野心 "wikilink")。野望越高的的武將越容易引發單挑、野望高而義理低的武將容易中計自行舉兵[獨立](https://zh.wikipedia.org/wiki/獨立 "wikilink")。
-  - 相性：即各武將的相合度。本作中，[曹操設定](../Page/曹操.md "wikilink")0，[劉備為](https://zh.wikipedia.org/wiki/劉備 "wikilink")50，孫家為100，武將越靠近設定數字者，與該君主的相合度越高。換言之，與曹操相合度最好的武將，與孫家的相合度就最差，而玩家選擇劉備為君主時，於錄用人才有優勢。若玩家選擇新君主時，其相性是由玩家選擇的[生日決定的](../Page/生日.md "wikilink")：誕生月數字[乘誕生日數字](https://zh.wikipedia.org/wiki/乘 "wikilink")，最大100。所以玩家若選擇2月25日或5月10日與10月15日，相性值均為50，與劉備相同。\[4\]
+  - 相性：即各武將的相合度。本作中，[曹操](../Page/曹操.md "wikilink")設定0，[劉備為](https://zh.wikipedia.org/wiki/劉備 "wikilink")50，孫家為100，武將越靠近設定數字者，與該君主的相合度越高。換言之，與曹操相合度最好的武將，與孫家的相合度就最差，而玩家選擇劉備為君主時，於錄用人才有優勢。若玩家選擇新君主時，其相性是由玩家選擇的[生日](../Page/生日.md "wikilink")決定的：誕生月數字[乘誕生日數字](https://zh.wikipedia.org/wiki/乘 "wikilink")，最大100。所以玩家若選擇2月25日或5月10日與10月15日，相性值均為50，與劉備相同。\[4\]
   - [壽命](https://zh.wikipedia.org/wiki/壽命 "wikilink")：各武將的壽命，著名武將在壽命將盡時，有機率發生「凶兆」事件對玩家暗示，但在PC版的假想模式（仮想モード）中，該設定無效\[5\]，所有武將壽命都以60歲做標準。\[6\]
 
 ## 戰利品
@@ -31,9 +31,9 @@
 
 1.  [書籍](https://zh.wikipedia.org/wiki/書籍 "wikilink")：如《[孫子兵法](https://zh.wikipedia.org/wiki/孫子兵法 "wikilink")》、《[孟德新書](https://zh.wikipedia.org/wiki/孟德新書 "wikilink")》、《[太平要術](https://zh.wikipedia.org/wiki/太平要術 "wikilink")》等，可提升[智力](../Page/智力.md "wikilink")。
 
-2.  [寶劍](../Page/劍.md "wikilink")：如[七星寶刀](https://zh.wikipedia.org/wiki/七星寶刀 "wikilink")（遊戲中作「七星之劍」）、[青龍偃月刀](https://zh.wikipedia.org/wiki/青龍偃月刀 "wikilink")（遊戲中作「青龍之劍」）、[青釭劍](https://zh.wikipedia.org/wiki/青釭劍 "wikilink")、[倚天劍等](../Page/倚天劍.md "wikilink")，可提升[武力](https://zh.wikipedia.org/wiki/武力 "wikilink")。
+2.  [寶劍](../Page/劍.md "wikilink")：如[七星寶刀](https://zh.wikipedia.org/wiki/七星寶刀 "wikilink")（遊戲中作「七星之劍」）、[青龍偃月刀](https://zh.wikipedia.org/wiki/青龍偃月刀 "wikilink")（遊戲中作「青龍之劍」）、[青釭劍](https://zh.wikipedia.org/wiki/青釭劍 "wikilink")、[倚天劍](../Page/倚天劍.md "wikilink")等，可提升[武力](https://zh.wikipedia.org/wiki/武力 "wikilink")。
 
-3.  [美女](../Page/美女.md "wikilink")：如[芙蓉姬](https://zh.wikipedia.org/wiki/芙蓉姬 "wikilink")\[7\]、[大喬](https://zh.wikipedia.org/wiki/大喬 "wikilink")、[小喬](https://zh.wikipedia.org/wiki/小喬 "wikilink")、[鄒氏](https://zh.wikipedia.org/wiki/張濟_\(武威\)#家庭 "wikilink")、[弓腰姬等](../Page/孫夫人.md "wikilink")，可提升魅力。另外在[重製版有](../Page/重製.md "wikilink")[首飾類的](https://zh.wikipedia.org/wiki/首飾 "wikilink")[勾玉](../Page/勾玉.md "wikilink")、金製冠飾、金製耳飾，可增加3點魅力。
+3.  [美女](../Page/美女.md "wikilink")：如[芙蓉姬](https://zh.wikipedia.org/wiki/芙蓉姬 "wikilink")\[7\]、[大喬](https://zh.wikipedia.org/wiki/大喬 "wikilink")、[小喬](https://zh.wikipedia.org/wiki/小喬 "wikilink")、[鄒氏](https://zh.wikipedia.org/wiki/張濟_\(武威\)#家庭 "wikilink")、[弓腰姬等](../Page/孫夫人.md "wikilink")，可提升魅力。另外在[重製](../Page/重製.md "wikilink")版有[首飾類的](https://zh.wikipedia.org/wiki/首飾 "wikilink")[勾玉](../Page/勾玉.md "wikilink")、金製冠飾、金製耳飾，可增加3點魅力。
 
 4.  ：如[赤兎馬](https://zh.wikipedia.org/wiki/赤兎馬 "wikilink")、[的盧](../Page/的盧.md "wikilink")、[爪黃飛電等](https://zh.wikipedia.org/wiki/爪黃飛電 "wikilink")，戰場退卻絕對成功，外交使者時不會被捕。
 
@@ -43,7 +43,7 @@
 
 ## 貂蟬事件
 
-本作中，當玩家滿足特定條件時，會觸發三國演義中貂蟬的「連環計」隱藏事件與選項，玩家可以在選項中選擇「貂蟬」指令，會出現貂蟬陪睡侍寢的[裸露上半身圖片](https://zh.wikipedia.org/wiki/裸露 "wikilink")；但玩家選擇貂蟬陪睡之後，最終貂蟬將會[自殺](../Page/自殺.md "wikilink")，而玩家所屬的全部武將忠誠度將下降30；而本事件中的[王允僅以文字帶過](../Page/王允.md "wikilink")，且並非所有機種的移植作品都能觸發。
+本作中，當玩家滿足特定條件時，會觸發三國演義中貂蟬的「連環計」隱藏事件與選項，玩家可以在選項中選擇「貂蟬」指令，會出現貂蟬陪睡侍寢的[裸露上半身圖片](https://zh.wikipedia.org/wiki/裸露 "wikilink")；但玩家選擇貂蟬陪睡之後，最終貂蟬將會[自殺](../Page/自殺.md "wikilink")，而玩家所屬的全部武將忠誠度將下降30；而本事件中的[王允](../Page/王允.md "wikilink")僅以文字帶過，且並非所有機種的移植作品都能觸發。
 
 ## 重製版
 
@@ -52,7 +52,7 @@
 1999年7月30日發售，基本上與本作大致相同，以下為相異點：
 
   - 刪除了新君主、地圖、流浪、軍師建言等指令，特殊武將華佗未登場。
-  - 人物頭像採用[三國志V的](../Page/三國志V.md "wikilink")[圖片](https://zh.wikipedia.org/wiki/圖片 "wikilink")，除了著名武將外，部分武將的頭像是重複的。
+  - 人物頭像採用[三國志V](../Page/三國志V.md "wikilink")的[圖片](https://zh.wikipedia.org/wiki/圖片 "wikilink")，除了著名武將外，部分武將的頭像是重複的。
   - 戰利品的書籍部份更改。如《[六韜](https://zh.wikipedia.org/wiki/六韜 "wikilink")》、《[論語](https://zh.wikipedia.org/wiki/論語 "wikilink")》、《[書經](https://zh.wikipedia.org/wiki/書經 "wikilink")》、《[易經](https://zh.wikipedia.org/wiki/易經 "wikilink")》、《[春秋](https://zh.wikipedia.org/wiki/春秋_\(史書\) "wikilink")》等。
   - 一些事件被刪除，如上述的貂蟬事件。
   - 取消了長期戰功能，所有戰爭必須在一個月之內結束。
@@ -63,7 +63,7 @@
 2000年4月6日發售，與本作有以下不同處：
 
   - 新增了武將列傳。
-  - 人物頭像採用[三國志V的圖片](../Page/三國志V.md "wikilink")。
+  - 人物頭像採用[三國志V](../Page/三國志V.md "wikilink")的圖片。
   - 可選擇武將列傳模式。
   - 新君主、治療、流浪、軍師建言等指令被刪除。
 
@@ -88,15 +88,15 @@
 
 ### 三國志2（[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")/[iPod touch版](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")）
 
-2010年12月22日發售，人物頭像採用[三國志VII的圖片](../Page/三國志VII.md "wikilink")，並針對[觸控螢幕做了內容上的](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")[最佳化修改](https://zh.wikipedia.org/wiki/最佳化 "wikilink")。本版有三種模式可以選擇武將壽命：（史実、長寿、假想），增加了劉備與[諸葛亮以對話形式進行的互動式新手教學](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")、武將列傳與寶物庫（戰利品一覽）等。
+2010年12月22日發售，人物頭像採用[三國志VII](../Page/三國志VII.md "wikilink")的圖片，並針對[觸控螢幕做了內容上的](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")[最佳化修改](https://zh.wikipedia.org/wiki/最佳化 "wikilink")。本版有三種模式可以選擇武將壽命：（史実、長寿、假想），增加了劉備與[諸葛亮以對話形式進行的互動式新手教學](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")、武將列傳與寶物庫（戰利品一覽）等。
 
 以下是相異處：
 
   - 可以選擇全部君主遊玩，如原作中不能選擇的[孔融](../Page/孔融.md "wikilink")、[王朗](../Page/王朗.md "wikilink")。
-  - 追加女性武將，如貂蝉、大喬、小喬、[祝融等](../Page/祝融.md "wikilink")。
-  - 「七星之劍」改名為「七星寶劍」、「青龍之剣」改為「斬蛇之剣」、「華佗醫學書」改為「青囊書」、首飾部分變更了金耳墜、[珍珠等](../Page/珍珠.md "wikilink")。
+  - 追加女性武將，如貂蝉、大喬、小喬、[祝融](../Page/祝融.md "wikilink")等。
+  - 「七星之劍」改名為「七星寶劍」、「青龍之剣」改為「斬蛇之剣」、「華佗醫學書」改為「青囊書」、首飾部分變更了金耳墜、[珍珠](../Page/珍珠.md "wikilink")等。
   - 戰利品增加的數值由隨機給予改為固定。
-  - 刪除了武裝度與訓練度，改以[士氣替代](../Page/士氣.md "wikilink")。
+  - 刪除了武裝度與訓練度，改以[士氣](../Page/士氣.md "wikilink")替代。
   - 指令中的「治水」、「地圖」「流浪」、「治療」、「軍師建言」等指令刪除，取消了派遣一名武將獲取他國情報的功能。
   - 取消了華佗、許子將(許邵)、司馬徽以[旅行者身分登場](https://zh.wikipedia.org/wiki/旅行者 "wikilink")。
   - 無法進行長期戰。
@@ -141,7 +141,7 @@
 4.  《三國志II ハンドブック》，頁43
 5.  《三國志II ハンドブック》，頁32
 6.  《三國志II ハンドブック》，頁48
-7.  虛構人物，於[吉川英治所著作](../Page/吉川英治.md "wikilink")《》中登場，設定為劉備[初戀](https://zh.wikipedia.org/wiki/初戀 "wikilink")。
+7.  虛構人物，於[吉川英治](../Page/吉川英治.md "wikilink")所著作《》中登場，設定為劉備[初戀](https://zh.wikipedia.org/wiki/初戀 "wikilink")。
 8.  [三國志II](http://www.gamecity.ne.jp/media/cd/sw/sangokusi/san2.htm)
 9.  [【光栄オリジナルＢＧＭ集 Vol.3】三國志II／維新の嵐
     ＋グレードアップ・ヴァージョン](http://www.gamecity.ne.jp/media/cd/bgm/bgm03.htm)

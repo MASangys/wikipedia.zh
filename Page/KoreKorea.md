@@ -1,8 +1,8 @@
-**KoreKorea**（）一詞是表示[南太平洋島國](../Page/南太平洋.md "wikilink")[吉里巴斯為](https://zh.wikipedia.org/wiki/吉里巴斯 "wikilink")[南韓漁](https://zh.wikipedia.org/wiki/南韓 "wikilink")[船員提供](https://zh.wikipedia.org/wiki/船員 "wikilink")[性交易的女子](../Page/性交易.md "wikilink")\[1\]。南韓漁民多利用[金錢](https://zh.wikipedia.org/wiki/金錢 "wikilink")、[衣物](https://zh.wikipedia.org/wiki/衣物 "wikilink")、魚貨等利誘吉里巴斯[未成年女子從事非法性交易](https://zh.wikipedia.org/wiki/未成年 "wikilink")\[2\]\[3\]。其女子年齡多位於14至18歲，屬於未成年性交易，引發吉里巴斯政府嚴重關切以及當地民眾的不滿\[4\]\[5\]。
+**KoreKorea**（）一詞是表示[南太平洋](../Page/南太平洋.md "wikilink")島國[吉里巴斯為](https://zh.wikipedia.org/wiki/吉里巴斯 "wikilink")[南韓漁](https://zh.wikipedia.org/wiki/南韓 "wikilink")[船員提供](https://zh.wikipedia.org/wiki/船員 "wikilink")[性交易](../Page/性交易.md "wikilink")的女子\[1\]。南韓漁民多利用[金錢](https://zh.wikipedia.org/wiki/金錢 "wikilink")、[衣物](https://zh.wikipedia.org/wiki/衣物 "wikilink")、魚貨等利誘吉里巴斯[未成年女子從事非法性交易](https://zh.wikipedia.org/wiki/未成年 "wikilink")\[2\]\[3\]。其女子年齡多位於14至18歲，屬於未成年性交易，引發吉里巴斯政府嚴重關切以及當地民眾的不滿\[4\]\[5\]。
 
 ## 南韓船員的增加
 
-位於[赤道附近的](../Page/赤道.md "wikilink")[南太平洋](../Page/南太平洋.md "wikilink")[島國擁有世界第三大排他](https://zh.wikipedia.org/wiki/島國 "wikilink")[經濟海域](https://zh.wikipedia.org/wiki/經濟海域 "wikilink")。自1980年代起，許多[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[遠洋漁船赴當地進行漁撈作業](https://zh.wikipedia.org/wiki/遠洋漁船 "wikilink")，每年約有數百名[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[船員在](https://zh.wikipedia.org/wiki/船員 "wikilink")[吉里巴斯](https://zh.wikipedia.org/wiki/吉里巴斯 "wikilink")[首都](../Page/首都.md "wikilink")[塔拉瓦環礁上岸](https://zh.wikipedia.org/wiki/塔拉瓦環礁 "wikilink")。
+位於[赤道](../Page/赤道.md "wikilink")附近的[南太平洋](../Page/南太平洋.md "wikilink")[島國擁有世界第三大排他](https://zh.wikipedia.org/wiki/島國 "wikilink")[經濟海域](https://zh.wikipedia.org/wiki/經濟海域 "wikilink")。自1980年代起，許多[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[遠洋漁船赴當地進行漁撈作業](https://zh.wikipedia.org/wiki/遠洋漁船 "wikilink")，每年約有數百名[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[船員在](https://zh.wikipedia.org/wiki/船員 "wikilink")[吉里巴斯](https://zh.wikipedia.org/wiki/吉里巴斯 "wikilink")[首都](../Page/首都.md "wikilink")[塔拉瓦環礁上岸](https://zh.wikipedia.org/wiki/塔拉瓦環礁 "wikilink")。
 
 ## KoreKorea的產生
 
@@ -10,7 +10,7 @@
 
 ## KoreKorea的問題
 
-[吉里巴斯最高](https://zh.wikipedia.org/wiki/吉里巴斯 "wikilink")[民意代表機構](../Page/民意代表.md "wikilink")[吉里巴斯國會將KoreKorea視為國家嚴重社會議題](https://zh.wikipedia.org/wiki/吉里巴斯國會 "wikilink")，在經過媒體報導KoreKorea的醜聞後，該會曾於2003年下令禁止[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[漁船停靠吉里巴斯的任何](https://zh.wikipedia.org/wiki/漁船 "wikilink")[港口](../Page/港口.md "wikilink")，以及不配發新的[捕魚執照予南韓籍漁船來解決問題](https://zh.wikipedia.org/wiki/捕魚 "wikilink")。2007年[吉里巴斯國家青少年委員會發表南韓漁船員仍於吉里巴斯境內與KoreKorea進行非法性交易](https://zh.wikipedia.org/wiki/吉里巴斯國家青少年委員會 "wikilink")\[7\]\[8\]。另外，因為與南韓船員進行[性交易而](../Page/性交易.md "wikilink")[懷孕的KoreKorea所生下的孩子亦成為社會問題](https://zh.wikipedia.org/wiki/懷孕 "wikilink")。
+[吉里巴斯最高](https://zh.wikipedia.org/wiki/吉里巴斯 "wikilink")[民意代表](../Page/民意代表.md "wikilink")機構[吉里巴斯國會將KoreKorea視為國家嚴重社會議題](https://zh.wikipedia.org/wiki/吉里巴斯國會 "wikilink")，在經過媒體報導KoreKorea的醜聞後，該會曾於2003年下令禁止[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[漁船停靠吉里巴斯的任何](https://zh.wikipedia.org/wiki/漁船 "wikilink")[港口](../Page/港口.md "wikilink")，以及不配發新的[捕魚執照予南韓籍漁船來解決問題](https://zh.wikipedia.org/wiki/捕魚 "wikilink")。2007年[吉里巴斯國家青少年委員會發表南韓漁船員仍於吉里巴斯境內與KoreKorea進行非法性交易](https://zh.wikipedia.org/wiki/吉里巴斯國家青少年委員會 "wikilink")\[7\]\[8\]。另外，因為與南韓船員進行[性交易](../Page/性交易.md "wikilink")而[懷孕的KoreKorea所生下的孩子亦成為社會問題](https://zh.wikipedia.org/wiki/懷孕 "wikilink")。
 
 另一方面，南韓籍漁船員因為性交易而為吉里巴斯帶來[人類免疫缺陷病毒HIV](https://zh.wikipedia.org/wiki/人類免疫缺陷病毒 "wikilink")-AIDS。根據塔拉瓦綜合醫院的資料指出，有43名KoreKorea因與南韓船員進行性行為而染上[愛滋病毒](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")，其中26名患者更因此喪命\[9\]。
 

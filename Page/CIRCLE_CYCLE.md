@@ -16,11 +16,11 @@ CYCLE**》（無限循環）為日本歌手[柴崎幸於](https://zh.wikipedia.o
       - 花王 「ASIENSE」 電視廣告曲（本人演出）
 2.  **四次元世界（）**
 3.  **[無形的靈魂](../Page/無形的靈魂.md "wikilink")（）**
-      - [TBS電視台連續劇](../Page/TBS電視台.md "wikilink")《LADY|LADY～最後的犯罪檔案～》主題曲
+      - [TBS電視台](../Page/TBS電視台.md "wikilink")連續劇《LADY|LADY～最後的犯罪檔案～》主題曲
 4.  **愛的圈圈（愛の輪）**
 5.  **Graspin' all of it　**
 6.  **[EUPHORIA](../Page/EUPHORIA_\(柴咲幸單曲\).md "wikilink")**
-      - [富士電視台特別連續劇](../Page/富士電視台.md "wikilink")《[草霉之夜](https://zh.wikipedia.org/wiki/草霉之夜 "wikilink")》主題曲
+      - [富士電視台](../Page/富士電視台.md "wikilink")特別連續劇《[草霉之夜](https://zh.wikipedia.org/wiki/草霉之夜 "wikilink")》主題曲
 7.  **身旁（）**
 8.  **[GENOMICHRONICLE](../Page/無形的靈魂.md "wikilink")（）**
 9.  **[SAYONALOVE](https://zh.wikipedia.org/wiki/SAYONALOVE "wikilink")（）**

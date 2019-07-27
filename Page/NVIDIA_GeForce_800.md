@@ -1,5 +1,5 @@
 **NVIDIA GeForce
-800系列**，是[輝達研發的](https://zh.wikipedia.org/wiki/輝達 "wikilink")[圖形處理器產品系列](../Page/圖形處理器.md "wikilink")，用於[筆記型電腦平台](../Page/筆記型電腦.md "wikilink")。此代顯示核心將採用新的Maxwell微架構（晶片代號將以『GM』開頭），以[蘇格蘭](../Page/蘇格蘭.md "wikilink")[理論物理學家](https://zh.wikipedia.org/wiki/理論物理學 "wikilink")[詹姆士·克拉克·麥克斯韋的名字命名](https://zh.wikipedia.org/wiki/麥克斯韋 "wikilink")。2014年初悄然發表的行動型顯示核心GeForce
+800系列**，是[輝達研發的](https://zh.wikipedia.org/wiki/輝達 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")產品系列，用於[筆記型電腦](../Page/筆記型電腦.md "wikilink")平台。此代顯示核心將採用新的Maxwell微架構（晶片代號將以『GM』開頭），以[蘇格蘭](../Page/蘇格蘭.md "wikilink")[理論物理學家](https://zh.wikipedia.org/wiki/理論物理學 "wikilink")[詹姆士·克拉克·麥克斯韋的名字命名](https://zh.wikipedia.org/wiki/麥克斯韋 "wikilink")。2014年初悄然發表的行動型顯示核心GeForce
 820M，儘管列入GeForce 800系列，但仍採用[GeForce
 500系列](https://zh.wikipedia.org/wiki/GeForce_500系列 "wikilink")『Fermi』架構的GF117顯示核心，因此僅僅是舊型號顯示核心更名而已。\[1\]\[2\]首款基於Maxwell微架構的顯示核心實際為GeForce
 700系列上的GeForce GTX 750以及750 Ti。\[3\]\[4\]\[5\]後來，NVIDIA也陸續發布行動平台的GeForce
@@ -14,7 +14,7 @@ GeForce 900系列](../Page/NVIDIA_GeForce_900.md "wikilink")，分別為GTX 970�
 ## 概觀
 
 用於GeForce 800系列上的『Maxwell』顯示核心架構，是用於[GeForce
-600以及](https://zh.wikipedia.org/wiki/GeForce_600 "wikilink")700系列『Kepler』顯示核心架構的下一代，將首次在顯示核心上內建[ARM架構的CPU核心](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[8\]\[9\]NVIDIA的CEO[黃仁勳稱](../Page/黃仁勳.md "wikilink")，這樣做使得GPU更加獨立於主CPU\[10\]。NVIDIA稱『Maxwell』顯示核心架構對比『Kepler』架構，會有更高的圖形處理效能、更簡化的可程式性以及更好的[能效比](../Page/效能功耗比.md "wikilink")。\[11\]
+600以及](https://zh.wikipedia.org/wiki/GeForce_600 "wikilink")700系列『Kepler』顯示核心架構的下一代，將首次在顯示核心上內建[ARM架構的CPU核心](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[8\]\[9\]NVIDIA的CEO[黃仁勳](../Page/黃仁勳.md "wikilink")稱，這樣做使得GPU更加獨立於主CPU\[10\]。NVIDIA稱『Maxwell』顯示核心架構對比『Kepler』架構，會有更高的圖形處理效能、更簡化的可程式性以及更好的[能效比](../Page/效能功耗比.md "wikilink")。\[11\]
 
 2010年9月NVIDIA宣布下一代顯示核心架構『Maxwell』。\[12\]首款基於『Maxwell』架構的消費級顯示核心的產品將於2014年早期發賣。\[13\]稍後將有基於『Maxwell』顯示核心的[NVIDIA
 Tesla運算卡以及](../Page/NVIDIA_Tesla.md "wikilink")[NVIDIA

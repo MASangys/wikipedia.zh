@@ -1,4 +1,4 @@
-《**Timing**》是[香港歌手](../Page/香港.md "wikilink")[洪卓立於](../Page/洪卓立.md "wikilink")2014年3月1日發行的第十張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯包括CD和DVD各一。
+《**Timing**》是[香港](../Page/香港.md "wikilink")歌手[洪卓立](../Page/洪卓立.md "wikilink")於2014年3月1日發行的第十張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯包括CD和DVD各一。
 
 ## 專輯簡介
 

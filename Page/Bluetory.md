@@ -1,10 +1,10 @@
-《**Bluetory**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE首張](../Page/CNBLUE.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2010年1月14日由[FNC娛樂製作](../Page/FNC娛樂.md "wikilink")，[Mnet
+《**Bluetory**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2010年1月14日由[FNC娛樂](../Page/FNC娛樂.md "wikilink")製作，[Mnet
 Media發行](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。EP包括了5首歌，並以《孤獨的人》（）作主打曲\[1\]。這專輯另外於2010年8月10日由[華納唱片
 (台灣)在台灣以兩個版本發行](https://zh.wikipedia.org/wiki/華納唱片_\(台灣\) "wikilink")，其中一個版本附贈一片DVD。
 
 ## 宣傳及反響
 
-2010年1月7日，成員[李宗泫宣傳EP的預告片連同](../Page/李宗泫.md "wikilink")《孤獨的人》單曲一同出爐，次日[姜敏赫的預告片亦公開](../Page/姜敏赫.md "wikilink")。[李正信的預告片則到](../Page/李正信.md "wikilink")1月11日公開；而隊長、主音[鄭容和的預告片要到EP推出前一日才公開](../Page/鄭容和.md "wikilink")。
+2010年1月7日，成員[李宗泫](../Page/李宗泫.md "wikilink")宣傳EP的預告片連同《孤獨的人》單曲一同出爐，次日[姜敏赫](../Page/姜敏赫.md "wikilink")的預告片亦公開。[李正信](../Page/李正信.md "wikilink")的預告片則到1月11日公開；而隊長、主音[鄭容和](../Page/鄭容和.md "wikilink")的預告片要到EP推出前一日才公開。
 
 2010年1月15日，CNBLUE於[KBS的](../Page/韓國放送公社.md "wikilink")《[KBS音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》首次亮相，並在1月29日取得冠軍。同時，《孤獨的人》在1月31日於[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》為他們奪得了首個「Mutizen
 Song」\[2\]。

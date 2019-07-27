@@ -1,10 +1,10 @@
 《**Singing
-Bird**》是日本摇滚组合[B'z成员](../Page/B'z.md "wikilink")[稻叶浩志第五张个人录音室专辑](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，2014年5月21日由[VERMILLION
+Bird**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")成员[稻叶浩志第五张个人录音室专辑](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，2014年5月21日由[VERMILLION
 RECORDS于日本发行](../Page/Being_\(公司\).md "wikilink")。
 
 ## 簡介
 
-距上张个人专辑《[Hadou](../Page/Hadou.md "wikilink")》后暌违3年9個月的專輯\[1\]\[2\]。收录了由日本知名足球選手[本田圭佑演出的](../Page/本田圭佑.md "wikilink")[奧林巴斯](../Page/奧林巴斯.md "wikilink")「OM-D
+距上张个人专辑《[Hadou](../Page/Hadou.md "wikilink")》后暌违3年9個月的專輯\[1\]\[2\]。收录了由日本知名足球選手[本田圭佑](../Page/本田圭佑.md "wikilink")演出的[奧林巴斯](../Page/奧林巴斯.md "wikilink")「OM-D
 E-M10」廣告曲《oh my
 love》，以及配信單曲《[草约](https://zh.wikipedia.org/wiki/草约 "wikilink")》、《[哭泣著](../Page/哭泣著.md "wikilink")》和《[Stay
 Free](https://zh.wikipedia.org/wiki/Stay_Free "wikilink")》。初回限定盘DVD中收录了4首[音乐影片](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")。

@@ -3,15 +3,15 @@ Hart**，），[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikili
 
 ## 生平
 
-哈特出生于[密歇根州](../Page/密歇根州.md "wikilink")[杰纳西县](https://zh.wikipedia.org/wiki/杰纳西县_\(密歇根州\) "wikilink")，1897年毕业于[美国海军学院](../Page/美国海军学院.md "wikilink")，[美西战争期间在](../Page/美西战争.md "wikilink")[马萨诸塞号战列舰和](https://zh.wikipedia.org/wiki/马萨诸塞号战列舰_\(BB-2\) "wikilink")[维克森号快艇上服役](https://zh.wikipedia.org/wiki/维克森号快艇_\(PY-4\) "wikilink")\[1\]。
+哈特出生于[密歇根州](../Page/密歇根州.md "wikilink")[杰纳西县](https://zh.wikipedia.org/wiki/杰纳西县_\(密歇根州\) "wikilink")，1897年毕业于[美国海军学院](../Page/美国海军学院.md "wikilink")，[美西战争](../Page/美西战争.md "wikilink")期间在[马萨诸塞号战列舰和](https://zh.wikipedia.org/wiki/马萨诸塞号战列舰_\(BB-2\) "wikilink")[维克森号快艇上服役](https://zh.wikipedia.org/wiki/维克森号快艇_\(PY-4\) "wikilink")\[1\]。
 
-[第一次世界大战前](../Page/第一次世界大战.md "wikilink")，哈特在多个岗位和地区服役：在战列舰、鱼雷艇和潜艇上担任尉官；在海军学院担任教师；担任海军助理部长的助手；担任太平洋鱼雷舰队司令。1917年春，哈特担任[芝加哥号防护巡洋舰和](https://zh.wikipedia.org/wiki/芝加哥号防护巡洋舰_\(1885年\) "wikilink")[康涅狄格州](https://zh.wikipedia.org/wiki/康涅狄格州 "wikilink")[新英格兰海军潜艇基地指挥](https://zh.wikipedia.org/wiki/新英格兰海军潜艇基地 "wikilink")，同时也担任[大西洋舰队潜艇部队司令的参谋长](https://zh.wikipedia.org/wiki/大西洋舰队 "wikilink")。
+[第一次世界大战](../Page/第一次世界大战.md "wikilink")前，哈特在多个岗位和地区服役：在战列舰、鱼雷艇和潜艇上担任尉官；在海军学院担任教师；担任海军助理部长的助手；担任太平洋鱼雷舰队司令。1917年春，哈特担任[芝加哥号防护巡洋舰和](https://zh.wikipedia.org/wiki/芝加哥号防护巡洋舰_\(1885年\) "wikilink")[康涅狄格州](https://zh.wikipedia.org/wiki/康涅狄格州 "wikilink")[新英格兰海军潜艇基地指挥](https://zh.wikipedia.org/wiki/新英格兰海军潜艇基地 "wikilink")，同时也担任[大西洋舰队潜艇部队司令的参谋长](https://zh.wikipedia.org/wiki/大西洋舰队 "wikilink")。
 
-1910年3月30日，哈特与美国海军学院前校长[威拉德·H·布朗森的女儿卡罗琳](https://zh.wikipedia.org/wiki/威拉德·H·布朗森 "wikilink")·布朗森结婚。哈特的女儿哈丽雅特·哈特是美国总统[伍德罗·威尔逊的孙子](../Page/伍德罗·威尔逊.md "wikilink")[小弗朗西斯·B·塞尔的妻子](https://zh.wikipedia.org/wiki/小弗朗西斯·B·塞尔 "wikilink")\[2\]。
+1910年3月30日，哈特与美国海军学院前校长[威拉德·H·布朗森的女儿卡罗琳](https://zh.wikipedia.org/wiki/威拉德·H·布朗森 "wikilink")·布朗森结婚。哈特的女儿哈丽雅特·哈特是美国总统[伍德罗·威尔逊](../Page/伍德罗·威尔逊.md "wikilink")的孙子[小弗朗西斯·B·塞尔的妻子](https://zh.wikipedia.org/wiki/小弗朗西斯·B·塞尔 "wikilink")\[2\]。
 
 ## 第一次世界大战
 
-第一次世界大战期间，哈特同时担任第2潜艇部队和第3潜艇部队的司令，其旗舰为[布什内尔号测量船](https://zh.wikipedia.org/wiki/萨姆纳号测量船_\(AGS-5\) "wikilink")。两支潜艇部队一支以[班特里湾为基地](https://zh.wikipedia.org/wiki/班特里湾 "wikilink")，负责保护[不列颠群岛周边海域](https://zh.wikipedia.org/wiki/不列颠群岛 "wikilink")，而另一支则驻扎[亚速群岛](https://zh.wikipedia.org/wiki/亚速群岛 "wikilink")[蓬塔德尔加达](https://zh.wikipedia.org/wiki/蓬塔德尔加达 "wikilink")，负责保护给养线。1918年，在短暂任职于[英国海军部后](https://zh.wikipedia.org/wiki/英国海军部 "wikilink")，哈特被任命为[美国海军作战部长办公室潜艇指挥官](../Page/美国海军作战部长.md "wikilink")\[3\]直至1922年。
+第一次世界大战期间，哈特同时担任第2潜艇部队和第3潜艇部队的司令，其旗舰为[布什内尔号测量船](https://zh.wikipedia.org/wiki/萨姆纳号测量船_\(AGS-5\) "wikilink")。两支潜艇部队一支以[班特里湾为基地](https://zh.wikipedia.org/wiki/班特里湾 "wikilink")，负责保护[不列颠群岛周边海域](https://zh.wikipedia.org/wiki/不列颠群岛 "wikilink")，而另一支则驻扎[亚速群岛](https://zh.wikipedia.org/wiki/亚速群岛 "wikilink")[蓬塔德尔加达](https://zh.wikipedia.org/wiki/蓬塔德尔加达 "wikilink")，负责保护给养线。1918年，在短暂任职于[英国海军部后](https://zh.wikipedia.org/wiki/英国海军部 "wikilink")，哈特被任命为[美国海军作战部长](../Page/美国海军作战部长.md "wikilink")办公室潜艇指挥官\[3\]直至1922年。
 
 ## 战间期
 

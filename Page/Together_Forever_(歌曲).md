@@ -1,7 +1,7 @@
 《**Together
-Forever**》是由[理查德·艾斯利在](../Page/理查德·艾斯利.md "wikilink")1988年6月18日發行的歌曲，也曾經是[告示牌百强单曲榜排名第一的歌曲](../Page/告示牌百强单曲榜.md "wikilink")。
+Forever**》是由[理查德·艾斯利](../Page/理查德·艾斯利.md "wikilink")在1988年6月18日發行的歌曲，也曾經是[告示牌百强单曲榜](../Page/告示牌百强单曲榜.md "wikilink")排名第一的歌曲。
 
-當時它在[英國單曲排行榜是被](../Page/英國單曲排行榜.md "wikilink")《[家有芳鄰](../Page/家有芳鄰.md "wikilink")》演員[凯莉·米洛首次發行的單曲](../Page/凯莉·米洛.md "wikilink")《》擠下而排名第二。它的和音結構與旋律類似於《[Never
+當時它在[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")是被《[家有芳鄰](../Page/家有芳鄰.md "wikilink")》演員[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")首次發行的單曲《》擠下而排名第二。它的和音結構與旋律類似於《[Never
 Gonna Give You
 Up](https://zh.wikipedia.org/wiki/Never_Gonna_Give_You_Up "wikilink")》，可能是因為它們在同時期皆由所製作。
 
@@ -20,10 +20,10 @@ D{{\!\!}}\[5\]{{\!\!}}[街机](../Page/街机.md "wikilink")
 ### 其他
 
   - 1990年代早期，由[卡西歐](../Page/卡西歐.md "wikilink")[電子琴](../Page/電子琴.md "wikilink")製作的[示範樂曲](https://zh.wikipedia.org/wiki/Demo "wikilink")。
-  - 受歡迎的[加拿大](../Page/加拿大.md "wikilink")[青少年](../Page/青少年.md "wikilink")[戏剧影集](../Page/戏剧.md "wikilink")《》，其中一集是以它為名。
-  - [美国的](../Page/美国.md "wikilink")[情景喜剧](../Page/情景喜剧.md "wikilink")《》其中一集《The
+  - 受歡迎的[加拿大](../Page/加拿大.md "wikilink")[青少年](../Page/青少年.md "wikilink")[戏剧](../Page/戏剧.md "wikilink")影集《》，其中一集是以它為名。
+  - [美国](../Page/美国.md "wikilink")的[情景喜剧](../Page/情景喜剧.md "wikilink")《》其中一集《The
     Aluminum Monster vs. Fatty McGoo》曾經以它做為配樂\[11\]。
-  - [菲律宾人藝人](../Page/菲律宾人.md "wikilink")曾經在他的表演節目《Tonight with Dick and
+  - [菲律宾人](../Page/菲律宾人.md "wikilink")藝人曾經在他的表演節目《Tonight with Dick and
     Carmi》作為個人主題曲。
   - 這首歌曾經是《[辛普森一家](../Page/辛普森一家.md "wikilink")：》其中一集的配樂。
 

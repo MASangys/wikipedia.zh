@@ -1,6 +1,6 @@
 [PSX-Console-wController.jpg](https://zh.wikipedia.org/wiki/File:PSX-Console-wController.jpg "fig:PSX-Console-wController.jpg")\]\]
 
-**最畅销的PlayStation游戏列表**是一个已售出或出货至少十万份的[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")[电子游戏列表](../Page/电子游戏.md "wikilink")。
+**最畅销的PlayStation游戏列表**是一个已售出或出货至少十万份的[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")列表。
 
 ## 列表
 

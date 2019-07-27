@@ -1,6 +1,6 @@
 **Java类加载器**（）是[Java运行时环境](https://zh.wikipedia.org/wiki/Java运行时环境 "wikilink")（Java
 Runtime
-Environment）的一部分，负责[动态加载](https://zh.wikipedia.org/wiki/动态加载 "wikilink")[Java类到](https://zh.wikipedia.org/wiki/Java类 "wikilink")[Java虚拟机的内存空间中](../Page/Java虚拟机.md "wikilink")。\[1\]类通常是[按需加载](../Page/惰性初始模式.md "wikilink")，即第一次使用该类时才加载。由于有了类加载器，Java运行时系统不需要知道文件与文件系统。学习类加载器时，掌握Java的委派概念很重要。
+Environment）的一部分，负责[动态加载](https://zh.wikipedia.org/wiki/动态加载 "wikilink")[Java类到](https://zh.wikipedia.org/wiki/Java类 "wikilink")[Java虚拟机](../Page/Java虚拟机.md "wikilink")的内存空间中。\[1\]类通常是[按需加载](../Page/惰性初始模式.md "wikilink")，即第一次使用该类时才加载。由于有了类加载器，Java运行时系统不需要知道文件与文件系统。学习类加载器时，掌握Java的委派概念很重要。
 
 每个Java类必须由某个类加载器装入到内存。\[2\]Java程序可以利用外部库（即由其他作者编写的软件库）。
 
@@ -27,7 +27,7 @@ JVM中有3个默认的类加载器：\[3\]\[4\]
       - 实现脚本语言
       - 用于[bean生成器](https://zh.wikipedia.org/wiki/JavaBean "wikilink")
       - 允许用户定义的
-      - 允许[命名空间之间的通信](../Page/命名空间.md "wikilink")。这是[CORBA](../Page/CORBA.md "wikilink")
+      - 允许[命名空间](../Page/命名空间.md "wikilink")之间的通信。这是[CORBA](../Page/CORBA.md "wikilink")
         / [RMI协议的基础](https://zh.wikipedia.org/wiki/Java_RMI "wikilink")。
   - 改变Java[字节码的装入](https://zh.wikipedia.org/wiki/字节码 "wikilink")，例如，可用于Java类字节码的加密装入。\[7\]).
   - 修改已装入的字节码[weaving](https://zh.wikipedia.org/wiki/Aspect_weaver "wikilink")

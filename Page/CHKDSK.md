@@ -1,5 +1,5 @@
 **`CHKDSK`**（全称Microsoft Check
-Disk，意为磁盘检查）是一种可运行在[DOS](../Page/DOS.md "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Windows操作系统上的](https://zh.wikipedia.org/wiki/Windows "wikilink")[指令程序](https://zh.wikipedia.org/wiki/指令 "wikilink")。当系统发生[假死机或](../Page/假死机.md "wikilink")[非法关机时](https://zh.wikipedia.org/wiki/非法关机 "wikilink")，[系统将调用它来检查](../Page/操作系统.md "wikilink")[磁盘](../Page/硬盘.md "wikilink")，用户也可以通过[命令行手动调用检查某个](../Page/命令行界面.md "wikilink")[磁盘分区](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")。该程序会基于被检测的磁盘所使用的[文件系统生成磁盘的状态报告](../Page/文件系统.md "wikilink")，如果提供[参数](https://zh.wikipedia.org/wiki/参数 "wikilink")，程序还可修复多种磁盘文件系统的逻辑错误。
+Disk，意为磁盘检查）是一种可运行在[DOS](../Page/DOS.md "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Windows操作系统上的](https://zh.wikipedia.org/wiki/Windows "wikilink")[指令程序](https://zh.wikipedia.org/wiki/指令 "wikilink")。当系统发生[假死机](../Page/假死机.md "wikilink")或[非法关机时](https://zh.wikipedia.org/wiki/非法关机 "wikilink")，[系统将调用它来检查](../Page/操作系统.md "wikilink")[磁盘](../Page/硬盘.md "wikilink")，用户也可以通过[命令行手动调用检查某个](../Page/命令行界面.md "wikilink")[磁盘分区](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")。该程序会基于被检测的磁盘所使用的[文件系统](../Page/文件系统.md "wikilink")生成磁盘的状态报告，如果提供[参数](https://zh.wikipedia.org/wiki/参数 "wikilink")，程序还可修复多种磁盘文件系统的逻辑错误。
 
 ## 命令参数
 
@@ -17,7 +17,7 @@ Disk，意为磁盘检查）是一种可运行在[DOS](../Page/DOS.md "wikilink"
 | /p               | 即使驱动器不在 CHKDSK 的检查范围内，也执行彻底检查。该参数不会对驱动器做任何更改。                                                                                                                                                          |
 | /r               | 找到坏[扇区并恢复可读取的信息](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")。必须锁定磁盘。                                                                                                                                |
 | /v               | 磁盘检查时，显示每个目录下的[文件](../Page/文本文件.md "wikilink")。                                                                                                                                                        |
-| /x               | 仅随 NTFS 使用。如果必要，会首先强制卸载[卷](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")。该驱动器的所有打开[句柄都无效](../Page/句柄.md "wikilink")。该参数还包含了/f 的功能。                                                                    |
+| /x               | 仅随 NTFS 使用。如果必要，会首先强制卸载[卷](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")。该驱动器的所有打开[句柄](../Page/句柄.md "wikilink")都无效。该参数还包含了/f 的功能。                                                                    |
 | /b               | 仅随 NTFS 使用。用于重新评估该卷上的坏[簇](../Page/簇.md "wikilink")。                                                                                                                                                    |
 | /?               | 在[命令提示符中显示帮助](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")。                                                                                                                                         |
 
@@ -73,6 +73,6 @@ CHKDSK 后，效果如下：
 1.  [故障恢复控制台主要命令
     chinaitlab.com](http://windows.chinaitlab.com/system/10410.html)
 2.  [CHKDSK(磁盘检测)命令的运用
-    [网易科技](../Page/网易.md "wikilink")](http://tech.163.com/05/0329/14/1G15EGH700091589.html)
+    [网易](../Page/网易.md "wikilink")科技](http://tech.163.com/05/0329/14/1G15EGH700091589.html)
 3.  [Windows 2000 故障恢复控制台说明
     [Microsoft帮助与支持](https://zh.wikipedia.org/wiki/Microsoft "wikilink")](http://support.microsoft.com/kb/229716/zh-cn)

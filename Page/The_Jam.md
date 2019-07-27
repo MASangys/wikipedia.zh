@@ -1,11 +1,11 @@
 **The
-Jam**是一支來自[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[薩里郡的](../Page/薩里郡.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[朋克風格](https://zh.wikipedia.org/wiki/朋克 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。The
-Jam在[1972年組成](https://zh.wikipedia.org/wiki/1972 "wikilink")，成員包括被認為最出色的[主音及](../Page/主音.md "wikilink")[吉他手](../Page/吉他.md "wikilink")[Paul
+Jam**是一支來自[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[薩里郡](../Page/薩里郡.md "wikilink")的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[朋克風格](https://zh.wikipedia.org/wiki/朋克 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。The
+Jam在[1972年組成](https://zh.wikipedia.org/wiki/1972 "wikilink")，成員包括被認為最出色的[主音](../Page/主音.md "wikilink")及[吉他](../Page/吉他.md "wikilink")手[Paul
 Weller](https://zh.wikipedia.org/wiki/Paul_Weller "wikilink"),
 [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")[Bruce
 Foxton](https://zh.wikipedia.org/wiki/Bruce_Foxton "wikilink"),
 [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[Rick
-Buckler及](https://zh.wikipedia.org/wiki/Rick_Buckler "wikilink")[樂隊成立早期時已離隊的](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[吉他手Steve](../Page/吉他.md "wikilink")
+Buckler及](https://zh.wikipedia.org/wiki/Rick_Buckler "wikilink")[樂隊成立早期時已離隊的](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[吉他](../Page/吉他.md "wikilink")手Steve
 Brookes。
 
 在[樂隊組成的十年之後](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，由[Paul
@@ -23,7 +23,7 @@ Revival](https://zh.wikipedia.org/wiki/Mod_Revival "wikilink")）所作出貢獻
 Who](https://zh.wikipedia.org/wiki/The_Who "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，可是在其他[國家的](https://zh.wikipedia.org/wiki/國家 "wikilink")[社會上](https://zh.wikipedia.org/wiki/社會 "wikilink")，就遠遠地比不上後者的成就。
 
 The Jam在活躍的十年間推出了多首歌曲，包括出自[Paul
-Weller手筆](https://zh.wikipedia.org/wiki/Paul_Weller "wikilink")，充滿[諷刺](https://zh.wikipedia.org/wiki/諷刺 "wikilink")[政治味道的](../Page/政治.md "wikilink")*The
+Weller手筆](https://zh.wikipedia.org/wiki/Paul_Weller "wikilink")，充滿[諷刺](https://zh.wikipedia.org/wiki/諷刺 "wikilink")[政治](../Page/政治.md "wikilink")味道的*The
 Eton Rifles*及*Going Underground*,以及*In The City*, *News Of The
 World*，*All Around The World*, *The Modern World*和*Art School*等等。
 

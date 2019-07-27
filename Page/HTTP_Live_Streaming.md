@@ -4,7 +4,7 @@ X和](https://zh.wikipedia.org/wiki/QuickTime_X "wikilink")[iPhone软件系统�
 M3U (m3u8)](https://zh.wikipedia.org/wiki/extended_M3U "wikilink")
 [playlist文件](https://zh.wikipedia.org/wiki/playlist "wikilink")，用于寻找可用的媒体流。
 
-HLS只请求基本的HTTP报文，与[实时传输协议（RTP）不同](../Page/实时传输协议.md "wikilink")，HLS可以穿过任何允许HTTP数据通过的[防火墙或者](../Page/防火墙.md "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")。它也很容易使用[内容分發网络来传输媒体流](https://zh.wikipedia.org/wiki/内容分發网络 "wikilink")。
+HLS只请求基本的HTTP报文，与[实时传输协议](../Page/实时传输协议.md "wikilink")（RTP）不同，HLS可以穿过任何允许HTTP数据通过的[防火墙](../Page/防火墙.md "wikilink")或者[代理服务器](../Page/代理服务器.md "wikilink")。它也很容易使用[内容分發网络来传输媒体流](https://zh.wikipedia.org/wiki/内容分發网络 "wikilink")。
 
 苹果公司把HLS协议作为一个[互联网草案](https://zh.wikipedia.org/wiki/Internet-Draft "wikilink")（逐步提交），在第一阶段中已作为一个非正式的标准提交到[IETF](https://zh.wikipedia.org/wiki/IETF "wikilink")。2017年8月，RFC
 8216發佈，描述了HLS協議第7版的定義。\[1\]
@@ -38,7 +38,7 @@ HLS只请求基本的HTTP报文，与[实时传输协议（RTP）不同](../Page
 
   - iOS从3.0开始成为标准功能。
   - Adobe Flash Player从11.0开始支持HLS。
-  - [Google的](../Page/Google.md "wikilink")[Android自Honeycomb](../Page/Android.md "wikilink")（3.0）开始支持HLS。
+  - [Google](../Page/Google.md "wikilink")的[Android](../Page/Android.md "wikilink")自Honeycomb（3.0）开始支持HLS。
   - VODOBOX HLS Player (Android,iOS, Adobe Flash Player)
   - JWPlayer (Adobe Flash)
   - Flowplayer (Adobe Flash,使用hlsjs版本不使用Adobe Flash)

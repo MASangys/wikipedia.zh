@@ -1,8 +1,8 @@
 **dd**是一个[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[系统上的命令](../Page/操作系统.md "wikilink")，主要功能为转换和复制文件。\[1\]
 
-在Unix上，硬件的设备驱动（如[硬盘](../Page/硬盘.md "wikilink")）和特殊[设备文件](../Page/设备文件系统.md "wikilink")（如[Dd_(Unix)//dev/zero和](https://zh.wikipedia.org/wiki/Dd_\(Unix\)/dev/zero "wikilink")[Dd_(Unix)//dev/random](https://zh.wikipedia.org/wiki/Dd_\(Unix\)/dev/random "wikilink")）就像普通文件一样，出现在文件系统中；只要在各自的驱动程序中实现了对应的功能，`dd`也可以读取自和/或写入到这些文件。这样，`dd`也可以用在备份硬件的[引导扇区](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")、取得一定数量的随机数据等任务中。`dd`程序也可以在复制时处理数据，例如转换[字节序](../Page/字节序.md "wikilink")、或在[ASCII与](../Page/ASCII.md "wikilink")[EBCDIC编码间互换](../Page/EBCDIC.md "wikilink")。\[2\]
+在Unix上，硬件的设备驱动（如[硬盘](../Page/硬盘.md "wikilink")）和特殊[设备文件](../Page/设备文件系统.md "wikilink")（如[Dd_(Unix)//dev/zero和](https://zh.wikipedia.org/wiki/Dd_\(Unix\)/dev/zero "wikilink")[Dd_(Unix)//dev/random](https://zh.wikipedia.org/wiki/Dd_\(Unix\)/dev/random "wikilink")）就像普通文件一样，出现在文件系统中；只要在各自的驱动程序中实现了对应的功能，`dd`也可以读取自和/或写入到这些文件。这样，`dd`也可以用在备份硬件的[引导扇区](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")、取得一定数量的随机数据等任务中。`dd`程序也可以在复制时处理数据，例如转换[字节序](../Page/字节序.md "wikilink")、或在[ASCII](../Page/ASCII.md "wikilink")与[EBCDIC](../Page/EBCDIC.md "wikilink")编码间互换。\[2\]
 
-`dd`的名字可能来源于[IBM的](../Page/IBM.md "wikilink")[工作控制语言](https://zh.wikipedia.org/wiki/工作控制语言 "wikilink")（JCL）中的DD语句，\[3\]意为“Data
+`dd`的名字可能来源于[IBM](../Page/IBM.md "wikilink")的[工作控制语言](https://zh.wikipedia.org/wiki/工作控制语言 "wikilink")（JCL）中的DD语句，\[3\]意为“Data
 Description”（数据描述）的缩写。\[4\]该命令的语句与JCL中的相似，而与其他Unix命令较不同，因此这可能是个玩笑。\[5\]另一种解释是“cc”（根据命令自身的描述，为“convert
 and copy”（转换和复制））已经被C语言编译器（C compiler）所占。
 
@@ -14,13 +14,13 @@ and copy”（转换和复制））已经被C语言编译器（C compiler）所�
  ``值`*或`-`*`选项`*`=`*`值`*。`dd`默认从[标准输入中读取](https://zh.wikipedia.org/wiki/标准输入 "wikilink")，并写入到[标准输出中](https://zh.wikipedia.org/wiki/标准输出 "wikilink")，但可以用选项`if`（input
 file，输入文件）和`of`（output file，输出文件）改变。
 
-由于[操作系统的不同](../Page/操作系统.md "wikilink")，用法会有出入。另外，`dd`的一些特定功能取决于计算机系统的能力，例如直接访问内存。向运行中的`dd`进程发送[SIGINFO信号](https://zh.wikipedia.org/wiki/SIGINFO "wikilink")（Linux上为USR1）可以使它将I/O统计信息打印到[标准错误一次](https://zh.wikipedia.org/wiki/标准流#标准错误输出_\(stderr\) "wikilink")，然后继续复制（注意在OS
-X上，信号可能导致进程终止）。`dd`可以从键盘中读取[标准输入](https://zh.wikipedia.org/wiki/标准流#标准输入_\(stdin\) "wikilink")。到达[文件结尾时](https://zh.wikipedia.org/wiki/文件结尾 "wikilink")，`dd`将会退出。信号和EOF是由软件决定。例如，移植到[Windows的Unix工具使用不同的EOF](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")：[Cygwin使用](../Page/Cygwin.md "wikilink")<ctrl-d>
+由于[操作系统](../Page/操作系统.md "wikilink")的不同，用法会有出入。另外，`dd`的一些特定功能取决于计算机系统的能力，例如直接访问内存。向运行中的`dd`进程发送[SIGINFO信号](https://zh.wikipedia.org/wiki/SIGINFO "wikilink")（Linux上为USR1）可以使它将I/O统计信息打印到[标准错误一次](https://zh.wikipedia.org/wiki/标准流#标准错误输出_\(stderr\) "wikilink")，然后继续复制（注意在OS
+X上，信号可能导致进程终止）。`dd`可以从键盘中读取[标准输入](https://zh.wikipedia.org/wiki/标准流#标准输入_\(stdin\) "wikilink")。到达[文件结尾时](https://zh.wikipedia.org/wiki/文件结尾 "wikilink")，`dd`将会退出。信号和EOF是由软件决定。例如，移植到[Windows的Unix工具使用不同的EOF](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")：[Cygwin](../Page/Cygwin.md "wikilink")使用<ctrl-d>
 （通常的Unix
 EOF），而[MKS工具箱使用](https://zh.wikipedia.org/wiki/MKS工具箱 "wikilink")<ctrl-z>（通常的Windows
 EOF）。
 
-正如[Unix哲学一样](../Page/Unix哲学.md "wikilink")，`dd`只做好一件事（并被认为做得“好”
+正如[Unix哲学](../Page/Unix哲学.md "wikilink")一样，`dd`只做好一件事（并被认为做得“好”
 ）。与复杂的和高度抽象的实用程序不同，除了为不同的选项做底层决定，`dd`没有其它的算法。一般在每一次运行时，会改变`dd`的选项以分步处理一个计算机问题。
 
 ## 输出消息
@@ -31,9 +31,9 @@ Linux上GNU coreutils提供的变种没有描述运行结束时，`dd`输出到�
 
 ## 块大小
 
-[块是衡量一次读取](../Page/块_\(数据存储\).md "wikilink")、写入和转换[字节的单位](../Page/字节.md "wikilink")。命令行选项可以为输入/读取（`ibs`）和输出/写入（`obs`）指定一个不同的块大小，尽管块大小（`bs`）选项会覆盖`ibs`和`obs`选项。输入和输出的默认块大小为512字节（传统的磁盘块及POSIX规定的“块”大小）复制的`count`选项、读取的`skip`选项和写入的`seek`选项都是以块为单位。转换操作也受“转换块大小”（`cbs`）影响。
+[块是衡量一次读取](../Page/块_\(数据存储\).md "wikilink")、写入和转换[字节](../Page/字节.md "wikilink")的单位。命令行选项可以为输入/读取（`ibs`）和输出/写入（`obs`）指定一个不同的块大小，尽管块大小（`bs`）选项会覆盖`ibs`和`obs`选项。输入和输出的默认块大小为512字节（传统的磁盘块及POSIX规定的“块”大小）复制的`count`选项、读取的`skip`选项和写入的`seek`选项都是以块为单位。转换操作也受“转换块大小”（`cbs`）影响。
 
-在`dd`的一些用途中，块大小可能会影响表现。例如，当转换硬盘中数据时，较小的块大小通常会导致更多的字节被转换。发出许多小块的读取是一种开销的浪费，且可能会对执行性能有负面影响。较大的块大小可能会提高复制速度。但是，由于要复制的字节量是由bs×count给出的，因此不可能在一次`dd`命令中复制[素数个字节](../Page/素数.md "wikilink")，除非使用两个糟糕选项之一：`bs=N
+在`dd`的一些用途中，块大小可能会影响表现。例如，当转换硬盘中数据时，较小的块大小通常会导致更多的字节被转换。发出许多小块的读取是一种开销的浪费，且可能会对执行性能有负面影响。较大的块大小可能会提高复制速度。但是，由于要复制的字节量是由bs×count给出的，因此不可能在一次`dd`命令中复制[素数](../Page/素数.md "wikilink")个字节，除非使用两个糟糕选项之一：`bs=N
 count=1`（消耗内存）或`bs=1
 count=N`（大量读请求开销）。替代程序（见下文）允许指定字节，而不是块。在用作网络传输时，根据使用的[网络协议](../Page/网络传输协议.md "wikilink")，块大小可能会与[包大小冲突](https://zh.wikipedia.org/wiki/分组 "wikilink")。
 
@@ -41,7 +41,7 @@ count=N`（大量读请求开销）。替代程序（见下文）允许指定字
 × 1024倍，`G`表示1024 × 1024 × 1024倍，等等。另外，在块大小和计数参数中，一些实现也可以使用`x`表示乘运算。
 
 例如，块大小`bs=2x80x18b`表示2 × 80 × 18 × 512 = 1474560字节，也就是一张1440
-KiB[软盘的确切大小](../Page/软盘.md "wikilink")。
+KiB[软盘](../Page/软盘.md "wikilink")的确切大小。
 
 ## 用途
 
@@ -73,13 +73,13 @@ KiB[软盘的确切大小](../Page/软盘.md "wikilink")。
 dd if=/dev/fd0 of=MBRboot.img bs=512 count=2
 ```
 
-要创建整个x86[主引导记录的镜像](../Page/主引导记录.md "wikilink")（包括MS-DOS[分区表和MBR魔法字节](https://zh.wikipedia.org/wiki/分区表 "wikilink")）：
+要创建整个x86[主引导记录](../Page/主引导记录.md "wikilink")的镜像（包括MS-DOS[分区表和MBR魔法字节](https://zh.wikipedia.org/wiki/分区表 "wikilink")）：
 
 ``` bash
 dd if=/dev/sda of=MBR.img bs=512 count=1
 ```
 
-要创建仅含[主引导记录引导代码的镜像](../Page/主引导记录.md "wikilink")（不包括[分区表和开机所需的魔法字节](https://zh.wikipedia.org/wiki/分区表 "wikilink")）：
+要创建仅含[主引导记录](../Page/主引导记录.md "wikilink")引导代码的镜像（不包括[分区表和开机所需的魔法字节](https://zh.wikipedia.org/wiki/分区表 "wikilink")）：
 
 ``` bash
 dd if=/dev/sda of=MBR_boot.img bs=446 count=1
@@ -132,7 +132,7 @@ dd if=/dev/zero of=/dev/sda bs=4k
 1984年，GNU
 `dd`开启了[开源软件](../Page/开源软件.md "wikilink")（OSS）[恢复数据](https://zh.wikipedia.org/wiki/数据恢复 "wikilink")、文件、驱动器和分区的历史。`dd`进程一次处理一个块，它的算法只是在用户界面显示运行状态。1999年10月，一个C语言的程序*[`dd_rescue`](http://www.garloff.de/kurt/linux/ddrescue/)*发布了。它的算法一次能处理两个块。但改进`dd_rescue`的数据恢复算法、2003年的shell脚本[`dd_rhelp`](http://www.kalysto.org/utilities/dd_rhelp/index.en.html)作者现在推荐[`GNU``
  ``ddrescue`](http://www.gnu.org/software/ddrescue/ddrescue.html)。\[9\]它是一个发布于2004年的C++程序，与大多数的Linux发行版一起发行。在开源软件中，GNU
-`ddrescue`有最先进的块大小变换算法。\[10\]（`ddrescue`和`dd_rescue`尽管名字相近，但却是不同的程序。因为如此，区分更为明确的备用名称也有使用；使用的名称有“addrescue”（freecode.com），“gddrescue”（[Debian包名](../Page/Debian.md "wikilink")）和“gnu_ddrescue”（[openSUSE包名](https://zh.wikipedia.org/wiki/openSUSE "wikilink")）。）
+`ddrescue`有最先进的块大小变换算法。\[10\]（`ddrescue`和`dd_rescue`尽管名字相近，但却是不同的程序。因为如此，区分更为明确的备用名称也有使用；使用的名称有“addrescue”（freecode.com），“gddrescue”（[Debian](../Page/Debian.md "wikilink")包名）和“gnu_ddrescue”（[openSUSE包名](https://zh.wikipedia.org/wiki/openSUSE "wikilink")）。）
 
 GNU `ddrescue`既稳定又安全。\[11\]
 
@@ -176,7 +176,7 @@ dd if=/dev/zero of=mytestfile.out bs=1 count=0 seek=1G
 ## 局限
 
 [希捷的文档警告说](../Page/希捷科技.md "wikilink")，“一些依赖底层硬盘访问的硬盘工具（如DD）可能不支持48位[逻辑区块地址](https://zh.wikipedia.org/wiki/逻辑区块地址 "wikilink")（LBA），除非进行升级”。\[12\]使用超过128
-GiB的ATA硬盘时需要48位LBA。然而在[Linux中](../Page/Linux.md "wikilink")，`dd`使用内核读取或写入原始[设备文件](../Page/设备文件系统.md "wikilink")。2003年释出的2.4.23版本内核已经实现了对48位LBA的支持。\[13\]\[14\]
+GiB的ATA硬盘时需要48位LBA。然而在[Linux](../Page/Linux.md "wikilink")中，`dd`使用内核读取或写入原始[设备文件](../Page/设备文件系统.md "wikilink")。2003年释出的2.4.23版本内核已经实现了对48位LBA的支持。\[13\]\[14\]
 
 有人开玩笑说，`dd`意为“destroy disk”（破坏硬盘）或“delete
 data”（删除数据），因为在对硬盘进行底层操作时，类似颠倒输入和输出文件的一个小错误都可能造成部分或全部硬盘数据的丢失。\[15\]
@@ -201,7 +201,7 @@ Harbour）开发的增强版本。\[16\]\[17\]\[18\]与`dd`相比，`dcfldd`允�
 ## 外部链接
 
   -
-  - [dd](http://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html)：[GNU核心工具组手册页](../Page/GNU核心工具组.md "wikilink")。
+  - [dd](http://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html)：[GNU核心工具组](../Page/GNU核心工具组.md "wikilink")手册页。
 
   -
   - [dd for Windows](http://www.chrysocome.net/dd)

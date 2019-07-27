@@ -1,4 +1,4 @@
-在[密碼學中](https://zh.wikipedia.org/wiki/密碼學 "wikilink")，**RC4**（來自的縮寫）是一種[流加密算法](https://zh.wikipedia.org/wiki/流加密 "wikilink")，[密钥长度可变](../Page/密钥.md "wikilink")。它加解密使用相同的密钥，因此也属于[对称加密算法](https://zh.wikipedia.org/wiki/对称加密 "wikilink")。RC4是[有线等效加密](https://zh.wikipedia.org/wiki/有线等效加密 "wikilink")（WEP）中采用的加密算法，也曾经是[TLS可采用的算法之一](https://zh.wikipedia.org/wiki/传输层安全协议 "wikilink")。
+在[密碼學中](https://zh.wikipedia.org/wiki/密碼學 "wikilink")，**RC4**（來自的縮寫）是一種[流加密算法](https://zh.wikipedia.org/wiki/流加密 "wikilink")，[密钥](../Page/密钥.md "wikilink")长度可变。它加解密使用相同的密钥，因此也属于[对称加密算法](https://zh.wikipedia.org/wiki/对称加密 "wikilink")。RC4是[有线等效加密](https://zh.wikipedia.org/wiki/有线等效加密 "wikilink")（WEP）中采用的加密算法，也曾经是[TLS可采用的算法之一](https://zh.wikipedia.org/wiki/传输层安全协议 "wikilink")。
 
 由美國密碼學家[羅納德·李維斯特](https://zh.wikipedia.org/wiki/羅納德·李維斯特 "wikilink")（）在1987年设计的。由于RC4算法存在弱点，2015年2月所發佈的
 RFC 7465 规定禁止在TLS中使用RC4加密算法\[1\]。
@@ -10,7 +10,7 @@ RC4由[伪随机数生成器和](https://zh.wikipedia.org/wiki/伪随机数 "wik
 ## 歷史
 
 RC4是由[RSA
-Security的](https://zh.wikipedia.org/wiki/RSA_Security "wikilink")[罗纳德·李维斯特在](../Page/罗纳德·李维斯特.md "wikilink")1987年开发出来的，虽然它的官方名是“Rivest
+Security的](https://zh.wikipedia.org/wiki/RSA_Security "wikilink")[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")在1987年开发出来的，虽然它的官方名是“Rivest
 Cipher 4”，但是首字母缩写RC也可以理解为"Ron's
 Code"\[2\]。（见[RC2](https://zh.wikipedia.org/wiki/RC2 "wikilink")，[RC5](../Page/RC5.md "wikilink")，[RC6](../Page/RC6.md "wikilink")）
 

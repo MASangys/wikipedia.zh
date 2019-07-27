@@ -1,6 +1,6 @@
-**WINNER**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂透過](../Page/YG娛樂.md "wikilink")[Mnet生存實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN：WHO
+**WINNER**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")透過[Mnet生存實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN
 IS
-NEXT](../Page/WIN.md "wikilink")》所推出的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，也是該經紀公司繼2006年[BIGBANG後第二組男子偶像團體](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，現任成員為[金秦禹](../Page/金秦禹.md "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")、[宋旻浩及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[姜昇潤](../Page/姜昇潤.md "wikilink")，並由姜昇潤擔任隊長。2016年10月12日，YG娛樂公布[南太鉉因心理問題暫停演藝活動](../Page/南太鉉.md "wikilink")，\[1\]同年11月25日宣布退出團體，\[2\]自此以四人組體制活動。
+NEXT](../Page/WIN.md "wikilink")：WHO》所推出的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，也是該經紀公司繼2006年[BIGBANG後第二組男子偶像團體](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，現任成員為[金秦禹](../Page/金秦禹.md "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")、[宋旻浩及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[姜昇潤](../Page/姜昇潤.md "wikilink")，並由姜昇潤擔任隊長。2016年10月12日，YG娛樂公布[南太鉉](../Page/南太鉉.md "wikilink")因心理問題暫停演藝活動，\[1\]同年11月25日宣布退出團體，\[2\]自此以四人組體制活動。
 
 ## 團體資料
 
@@ -96,22 +96,22 @@ LineData =
 
 ### 2013年至出道前
 
-2013年8月20日，在[首爾汝矣島舉行](../Page/首爾.md "wikilink")[YG娛樂選拔新](../Page/YG娛樂.md "wikilink")[男子音樂組合的生存淘汰賽節目](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")《[WIN](../Page/WIN.md "wikilink")》的製作發布會，首次公開旗下11名男練習生，並將其分成A隊及B隊，進行舞蹈、歌唱等出道競爭實錄，由觀眾投票選出最終優勝隊，而贏者可獲得隊名「**WINNER**」及出道機會。\[7\]2013年8月23日起，在有線電視[Mnet正式播映](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN：WHO
+2013年8月20日，在[首爾](../Page/首爾.md "wikilink")汝矣島舉行[YG娛樂](../Page/YG娛樂.md "wikilink")選拔新[男子音樂組合的生存淘汰賽節目](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")《[WIN](../Page/WIN.md "wikilink")》的製作發布會，首次公開旗下11名男練習生，並將其分成A隊及B隊，進行舞蹈、歌唱等出道競爭實錄，由觀眾投票選出最終優勝隊，而贏者可獲得隊名「**WINNER**」及出道機會。\[7\]2013年8月23日起，在有線電視[Mnet正式播映](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN
 IS
-NEXT](../Page/WIN.md "wikilink")》。並從9月27日的首輪對決開始，《WIN》通過三輪對決和三次觀眾投票合算，最終胜者完全取決於觀眾的投票結果。\[8\]
+NEXT](../Page/WIN.md "wikilink")：WHO》。並從9月27日的首輪對決開始，《WIN》通過三輪對決和三次觀眾投票合算，最終胜者完全取決於觀眾的投票結果。\[8\]
 
 2013年**10月25日**，經過十個禮拜競賽後，在終場以觀眾前兩次的投票結果佔總分的40%，與最終回的投票結果佔60%，分數加總出來的結果，宣布由當時五位平均年齡20歲的A隊獲得最終勝利。\[9\]A隊中，金秦禹及南太鉉為YG旗下長期練習生，\[10\]姜昇潤為2010年[Mnet音樂選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《》殿軍，\[11\]李昇勳為2012年[SBS音樂選秀節目](https://zh.wikipedia.org/wiki/SBS "wikilink")《[K-pop
 Star 1](../Page/K-pop_Star_1.md "wikilink")》殿軍，而宋旻浩則曾是[Block
-B的預備成員](../Page/Block_B.md "wikilink")，後來於2011年以抒情團體「B.o.M」（已解散）成員出道。\[12\]另A隊早期尚未有隊長人選，後YG社長[梁鉉錫指定由宋旻浩擔任隊長](../Page/梁鉉錫.md "wikilink")，但第二轮对决前，因宋旻浩腳傷，擔心影響團隊比賽士氣，改由姜昇潤擔任隊長一職。\[13\]
+B的預備成員](../Page/Block_B.md "wikilink")，後來於2011年以抒情團體「B.o.M」（已解散）成員出道。\[12\]另A隊早期尚未有隊長人選，後YG社長[梁鉉錫](../Page/梁鉉錫.md "wikilink")指定由宋旻浩擔任隊長，但第二轮对决前，因宋旻浩腳傷，擔心影響團隊比賽士氣，改由姜昇潤擔任隊長一職。\[13\]
 
-2013年12月13日，[YG娛樂與有線電視](../Page/YG娛樂.md "wikilink")[Mnet推出由WINNER成員出演共十集的紀實綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《WINNER
+2013年12月13日，[YG娛樂](../Page/YG娛樂.md "wikilink")與有線電視[Mnet推出由WINNER成員出演共十集的紀實綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《WINNER
 TV》，旨在展現成員的個人魅力、出道專輯的準備過程、擔任[BIGBANG日本六大巨蛋巡演開場舞台經驗](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、及日本見面會現場等等內容，\[14\]並且首次參與了主題曲的創作。\[15\]
 
 2014年1月17日，於《WINNER
-TV》節目中，[梁鉉錫社長表示](../Page/梁鉉錫.md "wikilink")：「WINNER預計將在《WINNER
+TV》節目中，[梁鉉錫](../Page/梁鉉錫.md "wikilink")社長表示：「WINNER預計將在《WINNER
 TV》結束的2月底出道，目前正在錄製專輯中。為了能夠充分發揮他們自創曲能力，專輯發行日期只能向後延。」並表示：「想通過這張專輯讓人們對WINNER的未來抱有更大期待。」展現其特别的關心。\[16\]
 
-2014年3月1日起，WINNER擔任[2NE1第二次世界巡迴演唱會](../Page/2NE1.md "wikilink")《2014
+2014年3月1日起，WINNER擔任[2NE1](../Page/2NE1.md "wikilink")第二次世界巡迴演唱會《2014
 2NE1 WORLD TOUR ～ALL OR NOTHING～》的部分場次特別嘉賓。並同時參與《YG FAMILY-2014 WORLD
 TOUR》演唱會。
 
@@ -128,7 +128,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》名稱及由成員參�
 REAL LIFE : NOW FESTIVAL 2014
 YG家族演唱會」上公開出道舞臺，並於**8月17日**首次登上音樂節目[人氣歌謠正式出道舞台](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。
 
-而原訂於去年10月《[WIN](../Page/WIN.md "wikilink")》節目獲勝後將立即出道，反而經過十個月等待後，才正式推出首張專輯，對此[YG娛樂楊社長受訪時表示](../Page/YG娛樂.md "wikilink")，為了要創造出不同的風格，與其倉促推出WINNER，寧願不管外界的質疑、延後出道時間只為找到WINNER獨一無二的樂壇定位，並表示不希望大眾認為WINNER是舞蹈型偶像組合，因此選擇了感性、抒情味濃厚的嘻哈曲。\[17\]也或許因為YG音樂取向而認為WINNER會帶有強烈的嘻哈風格，但是WINNER希望瞄準大眾取向來創作音樂。\[18\]
+而原訂於去年10月《[WIN](../Page/WIN.md "wikilink")》節目獲勝後將立即出道，反而經過十個月等待後，才正式推出首張專輯，對此[YG娛樂](../Page/YG娛樂.md "wikilink")楊社長受訪時表示，為了要創造出不同的風格，與其倉促推出WINNER，寧願不管外界的質疑、延後出道時間只為找到WINNER獨一無二的樂壇定位，並表示不希望大眾認為WINNER是舞蹈型偶像組合，因此選擇了感性、抒情味濃厚的嘻哈曲。\[17\]也或許因為YG音樂取向而認為WINNER會帶有強烈的嘻哈風格，但是WINNER希望瞄準大眾取向來創作音樂。\[18\]
 
 2014年8月22日，根據美國Billboard排名，WINNER的出道專輯《2014
 S/S》，獲得了**世界專輯排名第一**，\[19\]驚人的魅力也獲得告示牌盛讚：「韓流耀眼新男團」。並且，在Heatseekers
@@ -170,13 +170,13 @@ EXIT TOUR IN SEOUL」，\[43\]並首次公開未完成之新曲《LA
 LA》，\[44\]之後於[光州](../Page/光州.md "wikilink")、[大邱及](https://zh.wikipedia.org/wiki/大邱 "wikilink")[釜山展開巡演](https://zh.wikipedia.org/wiki/釜山 "wikilink")。而韓國巡迴告一段落後，便移師日本展開巡迴「2016
 EXIT TOUR IN JAPAN」，在四個城市舉行九場公演，總共動員3萬6000人觀賞。
 
-4月23日，固定出演[JTBC綜藝節目](../Page/JTBC.md "wikilink")《[半月朋友](../Page/半月朋友.md "wikilink")》，採用綜藝與紀錄片相結合的新模式，通過記錄WINNER開設夢想幼稚園與4-7歲的孩子們成為朋友，從而展現充滿笑聲與感動的交流過程。且為了參與為期五周的節目拍攝，WINNER宣布暫時中斷活動。\[45\]
+4月23日，固定出演[JTBC](../Page/JTBC.md "wikilink")綜藝節目《[半月朋友](../Page/半月朋友.md "wikilink")》，採用綜藝與紀錄片相結合的新模式，通過記錄WINNER開設夢想幼稚園與4-7歲的孩子們成為朋友，從而展現充滿笑聲與感動的交流過程。且為了參與為期五周的節目拍攝，WINNER宣布暫時中斷活動。\[45\]
 
 7月7日，WINNER為了與粉絲有更多的溝通，由李昇勳親自製作，於v live開播WIN WIN TV（昇昇TV）。
 
-9月8日，宋旻浩推出個人SOLO曲\[46\]，並與同公司的[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")）成立[MOBB小分隊活動](../Page/MOBB.md "wikilink")。
+9月8日，宋旻浩推出個人SOLO曲\[46\]，並與同公司的[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")）成立[MOBB](../Page/MOBB.md "wikilink")小分隊活動。
 
-10月12日，YG官方發表正式聲明，表示成員南太鉉因心理健康問題，將暫時停止活動，因此WINNER的回歸也將無限期延期，另表示成員們都在盡全力克服團隊的危機。\[47\]\[48\]此段時期，因組合活動暫時停止，其他成員則展開個人活動。姜昇潤以嘉賓身分出演[SBS綜藝節目](../Page/SBS_\(韓國\).md "wikilink")《[花樣旅行](../Page/花樣旅行.md "wikilink")》，而後成為固定成員。\[49\]金秦禹參與了韓國國立[現代舞蹈團的現代舞劇](https://zh.wikipedia.org/wiki/現代舞蹈 "wikilink")《小王子》，飾演「小王子」一角，成為首次登上現代舞蹈團演出舞台的偶像歌手。\[50\]宋旻浩以[MOBB活動外](../Page/MOBB.md "wikilink")，並成為[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《[新西遊記
+10月12日，YG官方發表正式聲明，表示成員南太鉉因心理健康問題，將暫時停止活動，因此WINNER的回歸也將無限期延期，另表示成員們都在盡全力克服團隊的危機。\[47\]\[48\]此段時期，因組合活動暫時停止，其他成員則展開個人活動。姜昇潤以嘉賓身分出演[SBS綜藝節目](../Page/SBS_\(韓國\).md "wikilink")《[花樣旅行](../Page/花樣旅行.md "wikilink")》，而後成為固定成員。\[49\]金秦禹參與了韓國國立[現代舞蹈團的現代舞劇](https://zh.wikipedia.org/wiki/現代舞蹈 "wikilink")《小王子》，飾演「小王子」一角，成為首次登上現代舞蹈團演出舞台的偶像歌手。\[50\]宋旻浩以[MOBB](../Page/MOBB.md "wikilink")活動外，並成為[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《[新西遊記
 3](../Page/新西遊記.md "wikilink")》的固定成員。\[51\]李昇勳則為了出演[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[吃睡吃](../Page/吃睡吃.md "wikilink")》喀比篇親自撰寫了企劃案，而後也順利參與拍攝。\[52\]
 
 11月25日，YG發表了官方聲明表示：「原先預告今年將會活躍活動的WINNER，很遺憾地因為南太鉉的心理健康問題，近幾個月都全面中斷了活動。YG和WINNER成員們都認為南太鉉的健康最重要，一直期待他的好轉，但由於南太鉉是從小就存在心理健康的問題，何時能夠恢復回歸很難確定，經過與南太鉉長時間的討論後，認為他未來很難再以WINNER成員繼續進行活動，因此於11月18日雙方解除了合約。」並表示WINNER目前也不會加入新成員，未來將暫時維持四人組的形式，也在積極準備正式活動當中，希望粉絲繼續給予南太鉉及WINNER支持。\[53\]\[54\]
@@ -190,19 +190,19 @@ FOR](https://zh.wikipedia.org/wiki/FATE_NUMBER_FOR "wikilink")》音源及MV。�
 REALLY》另入選美國Apple Music的「Best of the
 Week」，\[57\]且根據美國著名音樂雜誌告示牌（Billboard）的數據顯示，此曲連續兩周登上了
 World Digital Song Sales 榜第三名，\[58\]海內外皆備受好評。此外歌曲《REALLY
-REALLY》經過發布一個月後，在音源排名出現逆襲，在韓國最大音樂榜單MelOn實時排名以當時基準重新躍居前三，此首歌儼然成為WINNER出道以来的最熱門歌曲。\[59\]而為了徹底彌補長時間未見面的遺憾，並延續音源及綜藝的好勢頭，將團隊活動期延長至五月底，成為[YG娛樂少數活動期長達八周的團體](../Page/YG娛樂.md "wikilink")。\[60\]
+REALLY》經過發布一個月後，在音源排名出現逆襲，在韓國最大音樂榜單MelOn實時排名以當時基準重新躍居前三，此首歌儼然成為WINNER出道以来的最熱門歌曲。\[59\]而為了徹底彌補長時間未見面的遺憾，並延續音源及綜藝的好勢頭，將團隊活動期延長至五月底，成為[YG娛樂](../Page/YG娛樂.md "wikilink")少數活動期長達八周的團體。\[60\]
 
 而對於WINNER的音樂風格姜昇潤表示：「WINNER是走感性路線，個性突出，給人一種節制感。」\[61\]
 
-7月24日，[YG娛樂宣布WINNER將於](../Page/YG娛樂.md "wikilink")8月4日下午4時發行雙主打曲《LOVE ME
+7月24日，[YG娛樂](../Page/YG娛樂.md "wikilink")宣布WINNER將於8月4日下午4時發行雙主打曲《LOVE ME
 LOVE ME》及《ISLAND》的全新單曲專輯《[OUR TWENTY
 FOR](../Page/Our_Twenty_For_\(WINNER韓語單曲\).md "wikilink")》回歸，延续了围绕数字“4”展开的专辑概念。
 \[62\]
 
 8月4日，自今年4月發行《FATE NUMBER
-FOR》後打破了[YG娛樂的慣例](../Page/YG娛樂.md "wikilink")，僅隔4個月高速回歸，釋出符合夏季風格的單曲二輯雙主打曲音源及MV，新曲發布後在韓國五大主流音源網站位居實時榜首，並在其他22個國家地區的iTunes專輯排行榜同時登上一位，更新了上次回歸的最高紀錄，在全球性iTunes專輯榜上也位居第二位，此次WINNER也以自己創作的音樂進一步鞏固了只属于自己的音樂色彩。\[63\]\[64\]\[65\]
+FOR》後打破了[YG娛樂](../Page/YG娛樂.md "wikilink")的慣例，僅隔4個月高速回歸，釋出符合夏季風格的單曲二輯雙主打曲音源及MV，新曲發布後在韓國五大主流音源網站位居實時榜首，並在其他22個國家地區的iTunes專輯排行榜同時登上一位，更新了上次回歸的最高紀錄，在全球性iTunes專輯榜上也位居第二位，此次WINNER也以自己創作的音樂進一步鞏固了只属于自己的音樂色彩。\[63\]\[64\]\[65\]
 
-11月7日，有線電視[tvN推出由WINNER成員出演共四集的](https://zh.wikipedia.org/wiki/tvN "wikilink")《新西遊記外傳：[花樣青春WINNER篇](../Page/花樣青春.md "wikilink")》，為此前在《新西遊記4》中，「宋神指事件」\[66\]及最後妖怪們蒐集七顆龍珠成功招喚龍神實現了願望，而宋旻浩的願望就是和WINNER成員們一起出演《花樣青春》，節目組因此滿足了他的願望。\[67\]且平均年齡25.5歲的他們，也成為歷代《花樣青春》中最年輕的團隊。\[68\]
+11月7日，有線電視[tvN推出由WINNER成員出演共四集的](https://zh.wikipedia.org/wiki/tvN "wikilink")《新西遊記外傳：[花樣青春](../Page/花樣青春.md "wikilink")WINNER篇》，為此前在《新西遊記4》中，「宋神指事件」\[66\]及最後妖怪們蒐集七顆龍珠成功招喚龍神實現了願望，而宋旻浩的願望就是和WINNER成員們一起出演《花樣青春》，節目組因此滿足了他的願望。\[67\]且平均年齡25.5歲的他們，也成為歷代《花樣青春》中最年輕的團隊。\[68\]
 
 ### 2018年：第二張正規專輯《EVERYD4Y》、首次巡迴演唱會、單曲《MILLIONS》
 
@@ -294,7 +294,7 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
   - 2013年：[WIN : WHO IS NEXT](../Page/WIN.md "wikilink")
   - 2013年–2014年：WINNER TV
   - 2016年：[半月朋友](../Page/半月朋友.md "wikilink")
-  - 2017年：[新西遊記外傳](../Page/新西遊記.md "wikilink")－[花樣青春WINNER篇](../Page/花樣青春.md "wikilink")
+  - 2017年：[新西遊記](../Page/新西遊記.md "wikilink")外傳－[花樣青春](../Page/花樣青春.md "wikilink")WINNER篇
   - 2019年：WINNER VACATION－Hoony Tour
 
 ## 演唱會

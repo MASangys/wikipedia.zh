@@ -1,6 +1,6 @@
-**Aptitude**，一个基于[Ncurses的](../Page/Ncurses.md "wikilink")[Apt文字介面前端程序](https://zh.wikipedia.org/wiki/Apt "wikilink")，是[Debian及其衍生系统中功能极其强大的](../Page/Debian.md "wikilink")[软件包管理系统](../Page/软件包管理系统.md "wikilink")。以交互形式运行时，它可以显示出所有可用的[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，并允许用户选择包来安装或卸载。它还有一个强大的搜索系统，可通过多种搜索模式进行搜索。
+**Aptitude**，一个基于[Ncurses](../Page/Ncurses.md "wikilink")的[Apt文字介面前端程序](https://zh.wikipedia.org/wiki/Apt "wikilink")，是[Debian](../Page/Debian.md "wikilink")及其衍生系统中功能极其强大的[软件包管理系统](../Page/软件包管理系统.md "wikilink")。以交互形式运行时，它可以显示出所有可用的[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，并允许用户选择包来安装或卸载。它还有一个强大的搜索系统，可通过多种搜索模式进行搜索。
 
-最初，它是为[Debian所开发](../Page/Debian.md "wikilink")，但现在已有可用于[RPM包管理系统的衍生](../Page/RPM套件管理員.md "wikilink")。
+最初，它是为[Debian](../Page/Debian.md "wikilink")所开发，但现在已有可用于[RPM包管理系统的衍生](../Page/RPM套件管理員.md "wikilink")。
 
 在[Google Summer of
 Code](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")（2008）上，Obey

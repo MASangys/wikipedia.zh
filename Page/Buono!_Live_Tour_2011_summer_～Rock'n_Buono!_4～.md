@@ -1,7 +1,7 @@
 『**Buono\! Live Tour 2011 summer ～Rock'n Buono\!
-4～**』（）是[日本的女子偶像組合的Live影像](../Page/日本.md "wikilink")。2011年12月7日以DVD和Blu-ray同日發售\[1\]。
+4～**』（）是[日本](../Page/日本.md "wikilink")的女子偶像組合的Live影像。2011年12月7日以DVD和Blu-ray同日發售\[1\]。
 
-## 收錄曲
+## 收錄曲目
 
 1.  Opening
 2.  [partenza〜レッツゴー\!\!\!〜](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")

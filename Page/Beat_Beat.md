@@ -1,5 +1,5 @@
 《**Beat
-Beat**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融的第三張音樂專輯](../Page/鄭融.md "wikilink")，於2005年10月18日推出。
+Beat**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融](../Page/鄭融.md "wikilink")的第三張音樂專輯，於2005年10月18日推出。
 
 ## 曲目列表
 

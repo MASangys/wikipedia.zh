@@ -2,11 +2,11 @@
 
 另外除了证书本身功能，X.509还附带了[证书吊销列表和用于从最终对证书进行签名的证书签发机构直到最终可信点为止的](https://zh.wikipedia.org/wiki/证书吊销列表 "wikilink")[证书合法性验证算法](https://zh.wikipedia.org/wiki/证书合法性验证算法 "wikilink")。
 
-X.509是[ITU-T标准化部门基于他们之前的](https://zh.wikipedia.org/wiki/ITU-T "wikilink")[ASN.1定义的一套证书标准](../Page/ASN.1.md "wikilink")。
+X.509是[ITU-T标准化部门基于他们之前的](https://zh.wikipedia.org/wiki/ITU-T "wikilink")[ASN.1](../Page/ASN.1.md "wikilink")定义的一套证书标准。
 
 ## 历史及使用情况
 
-X.509最早与X.500一起发布于1988年7月3日。它假设有一套严格的层次化的证书颁发机构（CA）。和[web信任模型相比较](https://zh.wikipedia.org/wiki/web信任 "wikilink")，[PGP采用的方案是任何人都可以签名](../Page/PGP.md "wikilink")，从而证明其他人密钥证书的有效性。X.509
+X.509最早与X.500一起发布于1988年7月3日。它假设有一套严格的层次化的证书颁发机构（CA）。和[web信任模型相比较](https://zh.wikipedia.org/wiki/web信任 "wikilink")，[PGP](../Page/PGP.md "wikilink")采用的方案是任何人都可以签名，从而证明其他人密钥证书的有效性。X.509
 v3证书设计非常弹性化，除了对[网桥拓扑架构网络的支持](https://zh.wikipedia.org/wiki/网桥 "wikilink")，还可以支持用于点对点方式的[Mesh网](https://zh.wikipedia.org/wiki/Mesh网 "wikilink")\[1\]类似与OpenPGP那样的web信任机制，不过这样方式在2004年之前很少使用。X.500系统仅由主权国家实施，以实现国家身份信息共享条约的实施目的；而[IETF的公钥基础设施](https://zh.wikipedia.org/wiki/IETF "wikilink")（X.509）简称PKIX工作组将该标准制定成适用于更灵活的互联网组织。而且事实上X.509认证指的是RFC5280里定义的X.509
 v3，包括对IETF的PKIX证书和证书吊销列表，通常也称为公钥基础设施。
 
@@ -73,14 +73,14 @@ OID。在4.2.1里定义的几个常用扩展定义如下：
 </ref>典型用法是用于叶子证书中的公钥的使用目的。它包括一系列的OID，每一个都指定一种用途。比如`{ id-pkix 3 1 }`
 表示用于服务器端的TLS/SSL连接，而`{ id-pkix 3 4 }`用于email的安全操作。
 通常情况下，一份证书有多个限制用途的扩展时，所有限制条件都应该满足才可以使用。RFC
-5280里有对一个同时含有keyUsage和extendedKeyUsage的证书的例子，这样的证书只能用在两个扩展中都指定了的用途。比如[网络安全服务决定证书用途时会同时对这两个扩展进行判断](../Page/网络安全服务.md "wikilink")\[5\]
+5280里有对一个同时含有keyUsage和extendedKeyUsage的证书的例子，这样的证书只能用在两个扩展中都指定了的用途。比如[网络安全服务](../Page/网络安全服务.md "wikilink")决定证书用途时会同时对这两个扩展进行判断\[5\]
 
 ### 证书文件扩展名
 
 X.509有多种常用的扩展名。不过其中的一些还用于其它用途，就是说具有这个扩展名的文件可能并不是证书，比如说可能只是保存了私钥。
 
   - `.pem` – （）
-    编码的证书再进行[Base64编码的数据存放在](../Page/Base64.md "wikilink")"-----BEGIN
+    编码的证书再进行[Base64](../Page/Base64.md "wikilink")编码的数据存放在"-----BEGIN
     CERTIFICATE-----"和"-----END CERTIFICATE-----"之中
   - `.cer`, `.crt`, `.der` – 通常是二进制格式的，但Base64编码后也很常见。
   - `.p7b`, `.p7c` – [PKCS\#7](../Page/公钥密码学标准.md "wikilink") SignedData
@@ -139,7 +139,7 @@ cert2, cert6的情况也类似。这样就允许老的用户证书可以在新�
 
 ## X.509证书样例
 
-下面是[GlobalSign颁发的用于wikipedia](../Page/GlobalSign.md "wikilink").org以及一些其它Wikipedia网站X.509证书。证书颁发者填在颁发者(Issuer)字段，主题内容里是组织机构Wikipedia的描述，主题备用名称是那些采用该证书的服务器的主机名。主题公钥里的信息表明采用的是[椭圆曲线公共密钥](../Page/椭圆曲线.md "wikilink")，位于最后的签名算法表示它是由GlobalSign用其私钥并采用带[RSA加密的SHA](https://zh.wikipedia.org/wiki/RSA "wikilink")-256算法进行签名的。
+下面是[GlobalSign](../Page/GlobalSign.md "wikilink")颁发的用于wikipedia.org以及一些其它Wikipedia网站X.509证书。证书颁发者填在颁发者(Issuer)字段，主题内容里是组织机构Wikipedia的描述，主题备用名称是那些采用该证书的服务器的主机名。主题公钥里的信息表明采用的是[椭圆曲线](../Page/椭圆曲线.md "wikilink")公共密钥，位于最后的签名算法表示它是由GlobalSign用其私钥并采用带[RSA加密的SHA](https://zh.wikipedia.org/wiki/RSA "wikilink")-256算法进行签名的。
 
 ### 最终实体证书（或者叫叶子证书）
 
@@ -211,7 +211,7 @@ cert2, cert6的情况也类似。这样就允许老的用户证书可以在新�
 
 ### 中间证书
 
-下面是[证书颁发机构的证书示例](../Page/证书颁发机构.md "wikilink")。该证书是由下例根证书签名的用于颁发上例最终实体证书的证书。当然它的主题标识符跟上例证书的授权密钥标识符是相匹配的。
+下面是[证书颁发机构](../Page/证书颁发机构.md "wikilink")的证书示例。该证书是由下例根证书签名的用于颁发上例最终实体证书的证书。当然它的主题标识符跟上例证书的授权密钥标识符是相匹配的。
 
 ` 证书:`
 `          版本: 3 (0x2)`
@@ -293,7 +293,7 @@ cert2, cert6的情况也类似。这样就允许老的用户证书可以在新�
 
 ## 安全性
 
-[布鲁斯·施奈尔](https://zh.wikipedia.org/wiki/布鲁斯·施奈尔 "wikilink")、[彼得·古特曼及其他安全专家已经发布了很多PKI的安全问题](../Page/彼得·古特曼.md "wikilink")。
+[布鲁斯·施奈尔](https://zh.wikipedia.org/wiki/布鲁斯·施奈尔 "wikilink")、[彼得·古特曼](../Page/彼得·古特曼.md "wikilink")及其他安全专家已经发布了很多PKI的安全问题。
 <ref>
 
 ` `

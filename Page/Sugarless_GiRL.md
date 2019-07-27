@@ -1,5 +1,5 @@
 《**Sugarless
-GiRL**》是日本音樂組合[CAPSULE所推出的第](../Page/CAPSULE.md "wikilink")8張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2007年2月21日發行。唱片公司為。
+GiRL**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")所推出的第8張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2007年2月21日發行。唱片公司為。
 
 ## 概要
 

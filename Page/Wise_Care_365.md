@@ -3,7 +3,7 @@
 
 Wise Care 365 是將諸種功能包裝成一個軟件，包含[Wise Disk
 Cleaner和](../Page/Wise_Disk_Cleaner.md "wikilink")[Wise Registry
-Cleaner的全部功能](../Page/Wise_Registry_Cleaner.md "wikilink")：能够清理无效的[注册表](../Page/注册表.md "wikilink")，无用的文件，对注册表碎片及[磁盘碎片进行有效的整理优化等](../Page/磁盘碎片.md "wikilink")。此外，该款免费软体还提供了一些其他的使用工具，如[Wise
+Cleaner的全部功能](../Page/Wise_Registry_Cleaner.md "wikilink")：能够清理无效的[注册表](../Page/注册表.md "wikilink")，无用的文件，对注册表碎片及[磁盘碎片](../Page/磁盘碎片.md "wikilink")进行有效的整理优化等。此外，该款免费软体还提供了一些其他的使用工具，如[Wise
 Data Recovery](../Page/Wise_Data_Recovery.md "wikilink")， Wise Folder
 Hider等等。
 

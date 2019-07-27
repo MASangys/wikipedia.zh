@@ -1,5 +1,5 @@
-KPDF是一个基于[Xpdf的自由的](../Page/Xpdf.md "wikilink")[PDF阅读器](https://zh.wikipedia.org/wiki/PDF阅读器 "wikilink")。它与[KDE平台相耦合](../Page/KDE.md "wikilink")，因而可以无痕地嵌入到[Konqueror和](../Page/Konqueror.md "wikilink")[KPart中](https://zh.wikipedia.org/wiki/KPart "wikilink")。
-在[KDE软件集4中KPDF被](../Page/KDE_Software_Compilation_4.md "wikilink")[Okular取代](../Page/Okular.md "wikilink")。
+KPDF是一个基于[Xpdf](../Page/Xpdf.md "wikilink")的自由的[PDF阅读器](https://zh.wikipedia.org/wiki/PDF阅读器 "wikilink")。它与[KDE](../Page/KDE.md "wikilink")平台相耦合，因而可以无痕地嵌入到[Konqueror](../Page/Konqueror.md "wikilink")和[KPart中](https://zh.wikipedia.org/wiki/KPart "wikilink")。
+在[KDE软件集4中KPDF被](../Page/KDE_Software_Compilation_4.md "wikilink")[Okular](../Page/Okular.md "wikilink")取代。
 
 ## 特性
 

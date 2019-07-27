@@ -1,7 +1,7 @@
 **D**(D-[flat](https://zh.wikipedia.org/wiki/降音符 "wikilink"))是[C的一個](https://zh.wikipedia.org/wiki/C_\(音名\) "wikilink")[半音之上](https://zh.wikipedia.org/wiki/半音 "wikilink")，[D的一個](https://zh.wikipedia.org/wiki/D_\(音名\) "wikilink")[半音之下](https://zh.wikipedia.org/wiki/半音 "wikilink")。因此，D與[C{{music](../Page/C♯_\(音名\).md "wikilink")[異名同音](../Page/異名同音.md "wikilink")。D在法語裏是第二個[唱名](https://zh.wikipedia.org/wiki/唱名 "wikilink")，稱為*do
 dièse*。
 
-在[十二平均律中](../Page/十二平均律.md "wikilink")，如果[中央C之上的](https://zh.wikipedia.org/wiki/中央C "wikilink")[A的](../Page/A_\(音名\).md "wikilink")[頻率是](https://zh.wikipedia.org/wiki/頻率 "wikilink")440[Hz](https://zh.wikipedia.org/wiki/赫茲 "wikilink")，那D<sub>4</sub>(中央C之上的D的頻率就是大約277.18 Hz。(參見[音高](../Page/音高.md "wikilink"))
+在[十二平均律](../Page/十二平均律.md "wikilink")中，如果[中央C之上的](https://zh.wikipedia.org/wiki/中央C "wikilink")[A的](../Page/A_\(音名\).md "wikilink")[頻率是](https://zh.wikipedia.org/wiki/頻率 "wikilink")440[Hz](https://zh.wikipedia.org/wiki/赫茲 "wikilink")，那D<sub>4</sub>(中央C之上的D的頻率就是大約277.18 Hz。(參見[音高](../Page/音高.md "wikilink"))
 
 ## 每個八度的D
 
@@ -22,7 +22,7 @@ dièse*。
 ## 十二律
 
 D
-在[十二律中对应](../Page/十二律.md "wikilink")[大吕](https://zh.wikipedia.org/wiki/大吕 "wikilink")。
+在[十二律](../Page/十二律.md "wikilink")中对应[大吕](https://zh.wikipedia.org/wiki/大吕 "wikilink")。
 
 ## 參見
 

@@ -1,5 +1,5 @@
 **本格推理小說 Best
-10**（本格ミステリベスト10）是[日本偵探小説研究會編](../Page/日本.md "wikilink")・著的推理小説排行書，每年12月由[原書房發行](https://zh.wikipedia.org/wiki/原書房 "wikilink")。
+10**（本格ミステリベスト10）是[日本](../Page/日本.md "wikilink")偵探小説研究會編・著的推理小説排行書，每年12月由[原書房發行](https://zh.wikipedia.org/wiki/原書房 "wikilink")。
 
 ## 歷史
 

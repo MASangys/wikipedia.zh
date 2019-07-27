@@ -1,13 +1,13 @@
-**Happiness**是[日本的女子歌唱團體](../Page/日本.md "wikilink")。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能公司\) "wikilink")。唱片公司是[rhythm
+**Happiness**是[日本](../Page/日本.md "wikilink")的女子歌唱團體。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能公司\) "wikilink")。唱片公司是[rhythm
 zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
 
-2008年10月，藝能事務所LDH經營的舞蹈學校[EXPG開始](../Page/EXPG.md "wikilink")，由東京校出身的[KAEDEとMIYUU](https://zh.wikipedia.org/wiki/KAEDE "wikilink")、大阪校出身的MIMU和[KAREN](../Page/藤井夏恋.md "wikilink")、宮崎校出身的SAYAKA的5人組結成。在[EXILE的巡迴演唱會中作為伴舞成員開始活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。2009年7月中宮崎校出身的YURINO加入，10月中DVD單曲「Happy
+2008年10月，藝能事務所LDH經營的舞蹈學校[EXPG](../Page/EXPG.md "wikilink")開始，由東京校出身的[KAEDEとMIYUU](https://zh.wikipedia.org/wiki/KAEDE "wikilink")、大阪校出身的MIMU和[KAREN](../Page/藤井夏恋.md "wikilink")、宮崎校出身的SAYAKA的5人組結成。在[EXILE的巡迴演唱會中作為伴舞成員開始活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。2009年7月中宮崎校出身的YURINO加入，10月中DVD單曲「Happy
 Talk」獨立製作發表。12月中STEPOUT DANCE STUDIO出身的MAYU加入。
 
 2011年2月9日、單曲「[Kiss
-Me](../Page/Kiss_Me_\(Happiness單曲\).md "wikilink")」作主流單曲出道。4月29日在[SHIBUYA-AX舉行首個單獨演唱會](../Page/SHIBUYA-AX.md "wikilink")，9月25日中在中国的[北京国家体育場舉行](https://zh.wikipedia.org/wiki/北京国家体育場 "wikilink")「三国演義－中日韓風雲音楽祭」中出演，初次在海外舉行演唱會。
+Me](../Page/Kiss_Me_\(Happiness單曲\).md "wikilink")」作主流單曲出道。4月29日在[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")舉行首個單獨演唱會，9月25日中在中国的[北京国家体育場舉行](https://zh.wikipedia.org/wiki/北京国家体育場 "wikilink")「三国演義－中日韓風雲音楽祭」中出演，初次在海外舉行演唱會。
 
 2012年1月27日，MIMU發表以學業優先為理由而休止活動，預定8月12日開始的單獨演唱會「Happiness LIVE TOUR 2012
 "Happy
@@ -160,7 +160,7 @@ Time"」、主音MAYU因為感染「傳染性單核球症」而延期。後來MA
 | one more time                                                                                                                   | [JR東海](../Page/東海旅客鐵道.md "wikilink")「トーキョー☆ブックマーク」CM歌曲                                                                               |
 | Wish                                                                                                                            | [TBS系](../Page/TBS電視台.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」2011年8月度開頭曲                                |
 | I’m for you                                                                                                                     | 「03GIRL ハートプルミスト」主題曲                                                                                                                 |
-| We Can Fly                                                                                                                      | [東京電視台系](../Page/東京電視台.md "wikilink")「[ピラメキーノ](https://zh.wikipedia.org/wiki/ピラメキーノ "wikilink")」2012年5月度結尾曲                          |
+| We Can Fly                                                                                                                      | [東京電視台](../Page/東京電視台.md "wikilink")系「[ピラメキーノ](https://zh.wikipedia.org/wiki/ピラメキーノ "wikilink")」2012年5月度結尾曲                          |
 | NSSAダンスプロジェクト2012 主題曲                                                                                                           |                                                                                                                                      |
 | [宝島社](https://zh.wikipedia.org/wiki/宝島社 "wikilink")『[Sweet](https://zh.wikipedia.org/wiki/sweet_\(雜誌\) "wikilink")』2012年8月号CM歌曲 |                                                                                                                                      |
 | Have A Good Time                                                                                                                | [オートバックス](https://zh.wikipedia.org/wiki/オートバックスセブン "wikilink")「カーナビスーパーフェア」CM歌曲                                                      |

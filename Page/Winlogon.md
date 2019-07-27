@@ -1,11 +1,11 @@
-在[微软的](../Page/微软.md "wikilink")[Windows
+在[微软](../Page/微软.md "wikilink")的[Windows
 NT系列操作系统中](../Page/Windows_NT.md "wikilink")，'''Winlogon
 '''是负责处理安全相关的用户交互界面的组件\[1\]。Winlogon的工作包括加载其他用户身份安全组件、提供图形化的登录界面，以及创建用户会话。这个模块是Windows操作系统的关键进程，其中止会造成Windows崩溃\[2\]。
 
 Winlogon负责在登录时调用用户身份安全组件搜集用户身份凭据，在[Windows
 Vista之前的NT版本Windows中](../Page/Windows_Vista.md "wikilink")，这个界面由[图形化识别和验证](https://zh.wikipedia.org/wiki/图形化识别和验证 "wikilink")（GINA）模块提供。Windows默认的实现msgina.dll根据系统的[快速用户切换设置显示一个用户列表或者一个用户名](https://zh.wikipedia.org/wiki/快速用户切换 "wikilink")/密码输入框。但是其他开发者也可以提供GINA模块使得用户可以用指纹、智能卡或者面部识别等其他方式登录系统\[3\]。在Vista及之后的版本的系统中，由于旧的GINA架构造成在安装了有缺陷的GINA时系统不稳定，微软使用LogonUI和[凭据提供者替代GINA作为用户身份凭据的插件接口](https://zh.wikipedia.org/wiki/凭据提供者 "wikilink")\[4\]。
 
-在搜集到用户身份凭据之后，Winlogon会创建一个用户会话，并加载用户的配置，例如登录用户的所拥有的[注册表项和在域中漫游的个人文件](../Page/注册表.md "wikilink")。在这个会话中Winlogon还会创建一个Windows工作站，在这个工作站中WinLogon会创建如下三个桌面\[5\]：
+在搜集到用户身份凭据之后，Winlogon会创建一个用户会话，并加载用户的配置，例如登录用户的所拥有的[注册表](../Page/注册表.md "wikilink")项和在域中漫游的个人文件。在这个会话中Winlogon还会创建一个Windows工作站，在这个工作站中WinLogon会创建如下三个桌面\[5\]：
 
   - [安全桌面负责显示系统安全界面](https://zh.wikipedia.org/wiki/安全桌面 "wikilink")
   - 应用程序桌面负责显示用户启动的应用程序

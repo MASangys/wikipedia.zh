@@ -1,5 +1,5 @@
 《**Precious
-Moments**》是[彭羚的第四張新曲加精選](../Page/彭羚.md "wikilink")，也是她歌唱事業中最後一張大碟，於2002年9月20日推出。此專輯收錄了四首新歌以及她在[新力唱片時期的十三首舊作品](https://zh.wikipedia.org/wiki/新力音樂_\(香港\) "wikilink")。
+Moments**》是[彭羚](../Page/彭羚.md "wikilink")的第四張新曲加精選，也是她歌唱事業中最後一張大碟，於2002年9月20日推出。此專輯收錄了四首新歌以及她在[新力唱片時期的十三首舊作品](https://zh.wikipedia.org/wiki/新力音樂_\(香港\) "wikilink")。
 
 ## 曲目列表
 

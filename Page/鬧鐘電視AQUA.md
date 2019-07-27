@@ -1,6 +1,6 @@
-《**鬧鐘電視AQUA**》（）是[日本](../Page/日本.md "wikilink")[富士電視台及其](../Page/富士電視台.md "wikilink")[聯播網](../Page/電視聯播網.md "wikilink")（[FNN](https://zh.wikipedia.org/wiki/FNN "wikilink")）周一至周五早上4:00
+《**鬧鐘電視AQUA**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")及其[聯播網](../Page/電視聯播網.md "wikilink")（[FNN](https://zh.wikipedia.org/wiki/FNN "wikilink")）周一至周五早上4:00
 -
-5:25播出的[晨間新聞資訊節目](../Page/晨間新聞.md "wikilink")，於2014年3月31日開始播出。接檔《[鬧鐘新聞](../Page/鬧鐘新聞.md "wikilink")》。
+5:25播出的[晨間新聞](../Page/晨間新聞.md "wikilink")資訊節目，於2014年3月31日開始播出。接檔《[鬧鐘新聞](../Page/鬧鐘新聞.md "wikilink")》。
 
 ## 出演者
 

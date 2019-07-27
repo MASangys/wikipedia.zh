@@ -1,32 +1,31 @@
-**拜鲁尔·克里希那马查尔·桑达拉拉亚·艾扬格**（，）是一位[印度](../Page/印度.md "wikilink")[瑜伽大师](../Page/瑜伽.md "wikilink")，他是[艾扬格瑜伽的创始人](https://zh.wikipedia.org/wiki/艾扬格瑜伽 "wikilink")，被认为是全球最负盛名的一位瑜伽教师\[1\]\[2\]。他出版了包括《[瑜伽之光](https://zh.wikipedia.org/wiki/瑜伽之光 "wikilink")》在内许多瑜伽练习书籍，在世界各地有许多人学习他创立的瑜伽练习课程。他是现代瑜伽之父——[Tirumalai
+**拜鲁尔·克里希那马查尔·桑达拉拉亚·艾扬格**（，）是一位[印度](../Page/印度.md "wikilink")[瑜伽](../Page/瑜伽.md "wikilink")大师，他是[艾扬格瑜伽的创始人](https://zh.wikipedia.org/wiki/艾扬格瑜伽 "wikilink")，被认为是全球最负盛名的一位瑜伽教师\[1\]\[2\]。他出版了包括《[瑜伽之光](https://zh.wikipedia.org/wiki/瑜伽之光 "wikilink")》在内许多瑜伽练习书籍，在世界各地有许多人学习他创立的瑜伽练习课程。他是现代瑜伽之父——[Tirumalai
 Krishnamacharya最早的一位学生](https://zh.wikipedia.org/wiki/Tirumalai_Krishnamacharya "wikilink")\[3\]。他普及了瑜伽，并将之传播到了全世界\[4\]。他因此被许多人尊称为“尊敬的上师”(guru-ji)\[5\]。
 
-1991年艾扬格获得[印度政府颁发的](../Page/印度政府.md "wikilink")[莲花士勋章](../Page/莲花士勋章.md "wikilink")，2002年获得[莲花装勋章](https://zh.wikipedia.org/wiki/莲花装勋章 "wikilink")，2014年获得[莲花赐勋章](https://zh.wikipedia.org/wiki/莲花赐勋章 "wikilink")\[6\]\[7\]。2004年，艾扬格被《[时代杂志](https://zh.wikipedia.org/wiki/时代杂志 "wikilink")》评选为[全球最有影响的一百位名人之一](../Page/时代百大人物.md "wikilink")\[8\]\[9\]。
+1991年艾扬格获得[印度政府](../Page/印度政府.md "wikilink")颁发的[莲花士勋章](../Page/莲花士勋章.md "wikilink")，2002年获得[莲花装勋章](https://zh.wikipedia.org/wiki/莲花装勋章 "wikilink")，2014年获得[莲花赐勋章](https://zh.wikipedia.org/wiki/莲花赐勋章 "wikilink")\[6\]\[7\]。2004年，艾扬格被《[时代杂志](https://zh.wikipedia.org/wiki/时代杂志 "wikilink")》评选为[全球最有影响的一百位名人之一](../Page/时代百大人物.md "wikilink")\[8\]\[9\]。
 
 ## 生平
 
-1918年12月14日，艾扬格出生在印度[卡纳塔克邦一个贫穷家庭里](../Page/卡纳塔克邦.md "wikilink")，排行十一。他的父亲是一位教师，在他9岁时死于[阑尾炎](https://zh.wikipedia.org/wiki/阑尾炎 "wikilink")。童年时艾扬格曾患过[肺结核](https://zh.wikipedia.org/wiki/肺结核 "wikilink")、[伤寒与](../Page/伤寒.md "wikilink")[疟疾](../Page/疟疾.md "wikilink")，16岁开始学习瑜伽。\[10\]
+1918年12月14日，艾扬格出生在印度[卡纳塔克邦](../Page/卡纳塔克邦.md "wikilink")一个贫穷家庭里，排行十一。他的父亲是一位教师，在他9岁时死于[阑尾炎](https://zh.wikipedia.org/wiki/阑尾炎 "wikilink")。童年时艾扬格曾患过[肺结核](https://zh.wikipedia.org/wiki/肺结核 "wikilink")、[伤寒](../Page/伤寒.md "wikilink")与[疟疾](../Page/疟疾.md "wikilink")，16岁开始学习瑜伽。\[10\]
 
 1952年，他与瑜伽爱好者耶胡迪·梅纽因(Yehudi Menuhin)结伴旅行，从事瑜伽的传授\[11\]。
 
 ## 著作
 
-Iyengar published his first book (*Light on Yoga*) in 1966. The book has
-been translated into 17 languages and sold 3 million copies.\[12\]
-
+  - 《瑜伽之樹》(The Tree of
+    Yoga*)，2008年，繁體中文版由[心靈工坊](../Page/心靈工坊.md "wikilink")出版，ISBN
+    978-986-678-238-1*
+  - 《艾揚格瑜伽聖經》( Light on Life: The Yoga Journey to Wholeness, Inner
+    Peace, and Ultimate
+    Freedom*)，2011年，繁體中文版由[心靈工坊](../Page/心靈工坊.md "wikilink")出版，ISBN
+    978-986-611-218-8*
   - Iyengar, B.K.S. (1966; revised ed. 1977). *Light on Yoga.* New York:
-    Schocken. ISBN 978-0-8052-1031-6
+    Schocken.\[12\] ISBN 978-0-8052-1031-6
   - Iyengar, B.K.S. (1989). *Light on Pranayama: The Yogic Art of
     Breathing.* New York: Crossroad. ISBN 0-8245-0686-3
   - Iyengar, B.K.S. (1985). *The Art of Yoga.* Boston: Unwin. ISBN
     978-0-04-149062-6
-  - Iyengar, B.K.S. (1988). *The Tree of Yoga.* Boston: Shambhala. ISBN
-    0-87773-464-X
   - Iyengar, B.K.S. (1996). *Light on the Yoga Sutras of Patanjali.*
     London: Thorsons. ISBN 978-0-00-714516-4
-  - Iyengar, B.K.S., Abrams, D. & Evans, J.J. (2005). *Light on Life:
-    The Yoga Journey to Wholeness, Inner Peace, and Ultimate Freedom.*
-    Pennsylvania: Rodale. ISBN 1-59486-248-6
   - Iyengar, B.K.S. (2007). *Yoga: The Path to Holistic Health*. New
     York: Dorling Kindersley. ISBN 978-0-7566-3362-2
   - Iyengar, B.K.S. (8 Vols, 2000–2008). *Astadala Yogamala: Collected

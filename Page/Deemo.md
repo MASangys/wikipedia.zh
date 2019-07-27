@@ -1,8 +1,8 @@
-《**Deemo**》是由[雷亞遊戲开发的一款](../Page/雷亞遊戲.md "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。[iOS版本于](https://zh.wikipedia.org/wiki/iOS "wikilink")2013年11月13日在全球的[App
-Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[1\]；[Android版本于](../Page/Android.md "wikilink")2013年12月27日在[Google
+《**Deemo**》是由[雷亞遊戲](../Page/雷亞遊戲.md "wikilink")开发的一款[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。[iOS版本于](https://zh.wikipedia.org/wiki/iOS "wikilink")2013年11月13日在全球的[App
+Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[1\]；[Android](../Page/Android.md "wikilink")版本于2013年12月27日在[Google
 Play上架](../Page/Google_Play.md "wikilink")；\[2\]名为《**Deemo
 ～最終演奏～**》的[PlayStation
-Vita版本于](../Page/PlayStation_Vita.md "wikilink")2015年6月24日發售；\[3\][任天堂Switch版本于](../Page/任天堂Switch.md "wikilink")2017年9月21日发售；[PlayStation
+Vita版本于](../Page/PlayStation_Vita.md "wikilink")2015年6月24日發售；\[3\][任天堂Switch](../Page/任天堂Switch.md "wikilink")版本于2017年9月21日发售；[PlayStation
 4平台的](../Page/PlayStation_4.md "wikilink")《**Deemo
 -Reborn-**》預定於2019年發售。\[4\]
 

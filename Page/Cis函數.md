@@ -1,8 +1,8 @@
-在[微积分学中](../Page/微积分学.md "wikilink")，**cis函數**又稱**純虛數指數函數**，是[複變函數的一种](https://zh.wikipedia.org/wiki/複變函數 "wikilink")，和[三角函數類似](https://zh.wikipedia.org/wiki/三角函數 "wikilink")，其可以使用[正弦函數和](https://zh.wikipedia.org/wiki/正弦函數 "wikilink")[餘弦函數](https://zh.wikipedia.org/wiki/餘弦函數 "wikilink")\(\operatorname{cis} x = \cos x + \mathrm{i} \sin x\)來定義，是一種[實變數](../Page/实函数.md "wikilink")，其中為[虛數單位](../Page/虛數單位.md "wikilink")，而cis則為的縮寫。
+在[微积分学](../Page/微积分学.md "wikilink")中，**cis函數**又稱**純虛數指數函數**，是[複變函數的一种](https://zh.wikipedia.org/wiki/複變函數 "wikilink")，和[三角函數類似](https://zh.wikipedia.org/wiki/三角函數 "wikilink")，其可以使用[正弦函數和](https://zh.wikipedia.org/wiki/正弦函數 "wikilink")[餘弦函數](https://zh.wikipedia.org/wiki/餘弦函數 "wikilink")\(\operatorname{cis} x = \cos x + \mathrm{i} \sin x\)來定義，是一種[實變數](../Page/实函数.md "wikilink")，其中為[虛數單位](../Page/虛數單位.md "wikilink")，而cis則為的縮寫。
 
 ## 概觀
 
-cis符號最早由[威廉·哈密頓在他於](../Page/威廉·哈密頓.md "wikilink")1866出版的《Elements of
+cis符號最早由[威廉·哈密頓](../Page/威廉·哈密頓.md "wikilink")在他於1866出版的《Elements of
 Quaternions》中使用\[1\]，而Irving Stringham在1893出版的《Uniplanar Algebra》
 \[2\]\[3\] 以及James Harkness和Frank Morley在1898出版的《Theory of Analytic
 Functions》中皆沿用了此一符號 \[4\]\[5\]
@@ -12,11 +12,11 @@ cis函數主要的功能為簡化某些數學表達式，透過cis函數可以�
 
 ## 性質
 
-cis函數的定义域是整个[实数集](https://zh.wikipedia.org/wiki/实数集 "wikilink")，[值域是](../Page/值域.md "wikilink")[單位複數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")，[絕對值為](https://zh.wikipedia.org/wiki/絕對值 "wikilink")[1的](../Page/1.md "wikilink")[複數](https://zh.wikipedia.org/wiki/複數 "wikilink")。它是[周期函数](../Page/周期函数.md "wikilink")，其最小正周期为\(2\pi\)。其图像关于原点对称。
+cis函數的定义域是整个[实数集](https://zh.wikipedia.org/wiki/实数集 "wikilink")，[值域](../Page/值域.md "wikilink")是[單位複數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")，[絕對值為](https://zh.wikipedia.org/wiki/絕對值 "wikilink")[1](../Page/1.md "wikilink")的[複數](https://zh.wikipedia.org/wiki/複數 "wikilink")。它是[周期函数](../Page/周期函数.md "wikilink")，其最小正周期为\(2\pi\)。其图像关于原点对称。
 
 上述文字稱它以類似三角函數的形式來定義函數的原因是，就如同[三角函數](https://zh.wikipedia.org/wiki/三角函數 "wikilink")，他也算是一種[比值](https://zh.wikipedia.org/wiki/比值 "wikilink")，[複數和其模的比值](https://zh.wikipedia.org/wiki/複數 "wikilink"):
 
-\[\operatorname{cis} \theta  = \frac{z}{\left| z\right|}\]，其中\(z\)是[幅角為](../Page/幅角.md "wikilink")\(\theta\)的[複數](https://zh.wikipedia.org/wiki/複數 "wikilink")
+\[\operatorname{cis} \theta  = \frac{z}{\left| z\right|}\]，其中\(z\)是[幅角](../Page/幅角.md "wikilink")為\(\theta\)的[複數](https://zh.wikipedia.org/wiki/複數 "wikilink")
 因此，當一複數的模為1，其反函數就是[幅角](../Page/幅角.md "wikilink")（[arg函數](https://zh.wikipedia.org/wiki/arg函數 "wikilink")）。
 
 **\(\operatorname{cis}\)函數**可視為求[單位複數的函數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")
@@ -26,7 +26,7 @@ cis函數的定义域是整个[实数集](https://zh.wikipedia.org/wiki/实数�
 
 ## 命名
 
-由於\(\operatorname{cis}\)函數的值為「[餘弦加上](../Page/餘弦.md "wikilink")[虛數單位倍的](../Page/虛數單位.md "wikilink")[正弦](../Page/正弦.md "wikilink")」，取其英文縮寫<u>c</u>osine
+由於\(\operatorname{cis}\)函數的值為「[餘弦](../Page/餘弦.md "wikilink")加上[虛數單位](../Page/虛數單位.md "wikilink")倍的[正弦](../Page/正弦.md "wikilink")」，取其英文縮寫<u>c</u>osine
 and <u>i</u>maginary unit <u>s</u>ine，故以\(\operatorname{cis}\)來表示該函數。
 
 ## 歐拉公式
@@ -48,7 +48,7 @@ and <u>i</u>maginary unit <u>s</u>ine，故以\(\operatorname{cis}\)來表示該
 \(\operatorname{cis}\)的反函數:
 \(\operatorname{arccis} x\)，當代入模為1的複數時，所得的值是其輻角
 
-類似其他三角函數，\(\operatorname{cis}\)的反函數也可以用[自然對數來表示](../Page/自然對數.md "wikilink")
+類似其他三角函數，\(\operatorname{cis}\)的反函數也可以用[自然對數](../Page/自然對數.md "wikilink")來表示
 
 \[\operatorname{arccis} \, x =-{\mathrm{i}} \ln x \,\]
 
@@ -109,18 +109,18 @@ and <u>i</u>maginary unit <u>s</u>ine，故以\(\operatorname{cis}\)來表示該
 
 \[\operatorname{cish} \theta = e^{\theta}= \cosh(\theta) + \sinh(\theta)\]
 
-[定義域和](https://zh.wikipedia.org/wiki/定義域 "wikilink")[值域皆為](../Page/值域.md "wikilink")[實數](https://zh.wikipedia.org/wiki/實數 "wikilink")，但若定義[雙曲複數](../Page/雙曲複數.md "wikilink")，
+[定義域和](https://zh.wikipedia.org/wiki/定義域 "wikilink")[值域](../Page/值域.md "wikilink")皆為[實數](https://zh.wikipedia.org/wiki/實數 "wikilink")，但若定義[雙曲複數](../Page/雙曲複數.md "wikilink")，
 
 考慮數\(z=x+jy\)，其中\(x,y\)是[實數](https://zh.wikipedia.org/wiki/實數 "wikilink")，而量\(j\)不是實數，但\(j^2\)是實數。
 
 選取\(j^2=-1\)，得到一般複數。取\(+1\)的話，便得到雙曲複數。
 
-而[雙曲複數有對應的](../Page/雙曲複數.md "wikilink")[歐拉公式](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")\[e^{j \theta} = \cosh(\theta) + j \sinh(\theta)\]
+而[雙曲複數](../Page/雙曲複數.md "wikilink")有對應的[歐拉公式](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")\[e^{j \theta} = \cosh(\theta) + j \sinh(\theta)\]
 
 \[\operatorname{cish} \theta = \cosh(\theta) + j \sinh(\theta)\]
 其中j為[雙曲複數](../Page/雙曲複數.md "wikilink")。
 
-因此[雙曲cis函數得到的值為](https://zh.wikipedia.org/wiki/雙曲cis函數 "wikilink")[雙曲複數](../Page/雙曲複數.md "wikilink")，相反的若將其[反函數帶入模為一的](../Page/反函數.md "wikilink")[雙曲複數可得其](../Page/雙曲複數.md "wikilink")[輻角](https://zh.wikipedia.org/wiki/輻角 "wikilink")。
+因此[雙曲cis函數得到的值為](https://zh.wikipedia.org/wiki/雙曲cis函數 "wikilink")[雙曲複數](../Page/雙曲複數.md "wikilink")，相反的若將其[反函數](../Page/反函數.md "wikilink")帶入模為一的[雙曲複數](../Page/雙曲複數.md "wikilink")可得其[輻角](https://zh.wikipedia.org/wiki/輻角 "wikilink")。
 
 如此一來，值域將會變成[四元數](https://zh.wikipedia.org/wiki/四元數 "wikilink")。
 

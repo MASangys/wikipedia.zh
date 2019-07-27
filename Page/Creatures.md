@@ -1,5 +1,5 @@
 是一家日本的电子游戏开发公司，创立于1995年11月。公司由石原恒和从[系井重里的公司Ape](../Page/糸井重里.md "wikilink")
-Inc.退职后创立，\[1\][岩田聪也提供了协助](https://zh.wikipedia.org/wiki/岩田聪 "wikilink")。其现任总裁为[田中宏和](../Page/田中宏和.md "wikilink")。公司总部位于东京[千代田區五番町KU大厦](../Page/千代田區.md "wikilink")2楼\[2\]，靠近[日本铁道的](https://zh.wikipedia.org/wiki/日本鐵道 "wikilink")[市谷站](https://zh.wikipedia.org/wiki/市谷站 "wikilink")\[3\]。公司作为[精靈寶可夢公司的主要股东之一](../Page/精靈寶可夢_\(公司\).md "wikilink")，参与《[精灵宝可梦系列](../Page/精灵宝可梦系列.md "wikilink")》的卡牌游戏、玩具与电子游戏的制作。
+Inc.退职后创立，\[1\][岩田聪也提供了协助](https://zh.wikipedia.org/wiki/岩田聪 "wikilink")。其现任总裁为[田中宏和](../Page/田中宏和.md "wikilink")。公司总部位于东京[千代田區](../Page/千代田區.md "wikilink")五番町KU大厦2楼\[2\]，靠近[日本铁道的](https://zh.wikipedia.org/wiki/日本鐵道 "wikilink")[市谷站](https://zh.wikipedia.org/wiki/市谷站 "wikilink")\[3\]。公司作为[精靈寶可夢公司的主要股东之一](../Page/精靈寶可夢_\(公司\).md "wikilink")，参与《[精灵宝可梦系列](../Page/精灵宝可梦系列.md "wikilink")》的卡牌游戏、玩具与电子游戏的制作。
 
 ## 历史
 

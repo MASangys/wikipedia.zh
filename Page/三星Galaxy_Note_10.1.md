@@ -1,10 +1,10 @@
 **Samsung Galaxy Note
-10.1**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子於](../Page/三星電子.md "wikilink")2012年设计、开发和銷售的[平板電腦](../Page/平板電腦.md "wikilink")，是[Samsung
+10.1**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")於2012年设计、开发和銷售的[平板電腦](../Page/平板電腦.md "wikilink")，是[Samsung
 Galaxy
 Note系列的第二款產品](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note "wikilink")，也是前一款的放大版。
 它搭载[Android](../Page/Android.md "wikilink")
 4.0.4版本(欧洲地区为4.1.1)[作業系統](../Page/操作系统.md "wikilink")，並作为一個提供电影、音乐和网页浏览服务的多媒体平台，其配備的Spen及相關功能亦提供良好的創作環境。
-[臺灣僅販售白色版本](../Page/臺灣.md "wikilink")，[香港則僅販售](../Page/香港.md "wikilink")[3G版本](../Page/3G.md "wikilink")。
+[臺灣](../Page/臺灣.md "wikilink")僅販售白色版本，[香港](../Page/香港.md "wikilink")則僅販售[3G](../Page/3G.md "wikilink")版本。
 
 ## 規格\[1\]
 

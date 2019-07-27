@@ -1,7 +1,7 @@
 《**仲夏的Sounds good\!**》（Manatsu no Sounds
-Good\!）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48的第](../Page/JKT48.md "wikilink")4張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年11月26日由發行\[1\]。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Manatsu
+Good\!）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48](../Page/JKT48.md "wikilink")的第4張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年11月26日由發行\[1\]。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Manatsu
 no Sounds
-Good\!》實際上就是姊妹團體[AKB48的第](../Page/AKB48.md "wikilink")26首單曲《[仲夏的Sounds
+Good\!》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第26首單曲《[仲夏的Sounds
 good\!](../Page/仲夏的Sounds_good!.md "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要

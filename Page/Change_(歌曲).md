@@ -1,5 +1,5 @@
-**Change**是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[金泫雅發行的首張單曲](../Page/金泫雅.md "wikilink")。由
-[龍俊亨唱](../Page/龍俊亨.md "wikilink")[Rap部分](../Page/饒舌.md "wikilink")。
+**Change**是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[金泫雅](../Page/金泫雅.md "wikilink")發行的首張單曲。由
+[龍俊亨](../Page/龍俊亨.md "wikilink")唱[Rap部分](../Page/饒舌.md "wikilink")。
 
 ## 特色
 

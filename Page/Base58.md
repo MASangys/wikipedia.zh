@@ -44,7 +44,7 @@ Base58编码可以表示的比特位数为Log<sub>2</sub>58\(\approx\)5.858<sub>
 | 14    | F    | 30 | X     | 46   | o |       |      |  |       |      |
 | 15    | G    | 31 | Y     | 47   | p |       |      |  |       |      |
 
-由于256不能被58整除，Base58无法像Base64那样转换为8bits的2进制后依次取出6bits就可以快速完成转换。因此，Base58编码算法需要除法运算实现，如果被编码的数据较长，则要用特殊的类来处理大数，在Bitcoin使用了[OpenSSL中的BIGNUM](../Page/OpenSSL.md "wikilink")：
+由于256不能被58整除，Base58无法像Base64那样转换为8bits的2进制后依次取出6bits就可以快速完成转换。因此，Base58编码算法需要除法运算实现，如果被编码的数据较长，则要用特殊的类来处理大数，在Bitcoin使用了[OpenSSL](../Page/OpenSSL.md "wikilink")中的BIGNUM：
 
 ``` cpp
     code_string = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz";

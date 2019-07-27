@@ -1,5 +1,5 @@
 **back
-number**（バックナンバー，簡稱「バクナン」、「bn」、「bknb」等）是一個[日本三人摇滚乐组合](../Page/日本.md "wikilink")，属[环球音乐唱片公司旗下](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，官方粉絲團名為「one
+number**（バックナンバー，簡稱「バクナン」、「bn」、「bknb」等）是一個[日本](../Page/日本.md "wikilink")三人摇滚乐组合，属[环球音乐唱片公司旗下](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，官方粉絲團名為「one
 room」。
 
 樂隊名稱「back number」在日本可以解作「雜誌的舊刊」，例如9月期的雜誌到了10月份就成為了「back
@@ -14,7 +14,7 @@ number」，變成沒用的東西。\[1\]
 
 2013年9月7日、举办首次日本武道館“back number live at 日本武道館 -stay with us-”演唱会。
 
-2015年、單曲《聖誕歌》成為富士電視台[月九日劇](https://zh.wikipedia.org/wiki/月九 "wikilink")《[朝5晚9](../Page/朝5晚9.md "wikilink")》主題曲，使該曲高踞[Oricon公信榜單曲排行榜第](../Page/Oricon公信榜.md "wikilink")2位。
+2015年、單曲《聖誕歌》成為富士電視台[月九日劇](https://zh.wikipedia.org/wiki/月九 "wikilink")《[朝5晚9](../Page/朝5晚9.md "wikilink")》主題曲，使該曲高踞[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲排行榜第2位。
 
 ## 成员
 

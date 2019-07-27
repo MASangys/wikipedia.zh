@@ -1,5 +1,5 @@
 **仙女座ET**，又名**BD+44 4373**，**HD 219749**、**SAO 52876**、**HR
-8861**，是[仙女座的一颗恒星](../Page/仙女座.md "wikilink")\[1\]\[2\]，视星等为6.48，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")106.25，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-14.33，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+8861**，是[仙女座](../Page/仙女座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.48，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")106.25，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-14.33，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

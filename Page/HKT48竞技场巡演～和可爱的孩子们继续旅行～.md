@@ -1,10 +1,10 @@
-**HKT48竞技场巡演～和可爱的孩子们继续旅行～**（）是[HKT48於](../Page/HKT48.md "wikilink")2014年4月29日
+**HKT48竞技场巡演～和可爱的孩子们继续旅行～**（）是[HKT48](../Page/HKT48.md "wikilink")於2014年4月29日
 -
-7月13日在[日本的](../Page/日本.md "wikilink")[竞技场级别的场所所舉辦的巡回演唱會](../Page/竞技场.md "wikilink")。
+7月13日在[日本](../Page/日本.md "wikilink")的[竞技场](../Page/竞技场.md "wikilink")级别的场所所舉辦的巡回演唱會。
 
 ## 概要
 
-举办巡演的消息是在2014年3月21日于[福冈县举办的演唱会](../Page/福冈县.md "wikilink")“[HKT48九州7县巡演～和可爱的孩子们一起旅行～](https://zh.wikipedia.org/wiki/HKT48九州7县巡演～和可爱的孩子们一起旅行～#福冈县 "wikilink")”夜公演安可之后发表的，这是HKT48首次在日本全国进行巡回演出。
+举办巡演的消息是在2014年3月21日于[福冈县](../Page/福冈县.md "wikilink")举办的演唱会“[HKT48九州7县巡演～和可爱的孩子们一起旅行～](https://zh.wikipedia.org/wiki/HKT48九州7县巡演～和可爱的孩子们一起旅行～#福冈县 "wikilink")”夜公演安可之后发表的，这是HKT48首次在日本全国进行巡回演出。
 
 ## 幕張展覽館
 
@@ -14,7 +14,7 @@
   - 开场/开演时间：
       - 昼公演：11:00/12:00
       - 夜公演：16:00/17:00
-  - 本场演唱会作为本次竞技场巡演的初日，相比之前的九州七县巡演有许多曲目上的改变，不仅如此，原本在九州七县巡演《[真假摇滚](../Page/櫻花印記.md "wikilink")》（）一曲中表演的短剧也升级为了以[白雪公主为主题的短剧](../Page/白雪公主.md "wikilink")，而在短剧结束之后，成员[指原莉乃表示](../Page/指原莉乃.md "wikilink")“这样的短剧再长就看不下去了”（），也使得部分媒体解读为这是对持续时间较长的“[AKB48集团埼玉超级竞技场春季演唱会之NMB48单独演唱会](https://zh.wikipedia.org/wiki/AKB48集团埼玉超级竞技场春季演唱会#NMB48 "wikilink")”中的的批判。但由于组合自己的原创歌曲过少，使得对知名偶像歌曲的翻唱仍占了歌单的其中一部分。在演唱会开始前的记者访问中，指原莉乃也表示将在[AKB48总选举中争取连冠](https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉 "wikilink")。
+  - 本场演唱会作为本次竞技场巡演的初日，相比之前的九州七县巡演有许多曲目上的改变，不仅如此，原本在九州七县巡演《[真假摇滚](../Page/櫻花印記.md "wikilink")》（）一曲中表演的短剧也升级为了以[白雪公主](../Page/白雪公主.md "wikilink")为主题的短剧，而在短剧结束之后，成员[指原莉乃](../Page/指原莉乃.md "wikilink")表示“这样的短剧再长就看不下去了”（），也使得部分媒体解读为这是对持续时间较长的“[AKB48集团埼玉超级竞技场春季演唱会之NMB48单独演唱会](https://zh.wikipedia.org/wiki/AKB48集团埼玉超级竞技场春季演唱会#NMB48 "wikilink")”中的的批判。但由于组合自己的原创歌曲过少，使得对知名偶像歌曲的翻唱仍占了歌单的其中一部分。在演唱会开始前的记者访问中，指原莉乃也表示将在[AKB48总选举中争取连冠](https://zh.wikipedia.org/wiki/AKB48第37張單曲選拔總選舉 "wikilink")。
 
 ### 曲目
 
@@ -54,7 +54,7 @@
     [穴井千寻](https://zh.wikipedia.org/wiki/穴井千寻 "wikilink")、田島、[本村碧唯](../Page/本村碧唯.md "wikilink")
 16. 《[说说漂亮话不也很好吗？](../Page/喜歡！喜歡！小跳步！.md "wikilink")》（） - 原曲選拔成員
       -
-        之後插入一段以[白雪公主為主題的](../Page/白雪公主.md "wikilink")[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
+        之後插入一段以[白雪公主](../Page/白雪公主.md "wikilink")為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
 17. 《[Show fight！](https://zh.wikipedia.org/wiki/格子花纹 "wikilink")》 -
     [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（） - 同上
@@ -165,7 +165,7 @@
   - 举办时间与地点：5月2日，[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")（）
   - 开场/开演时间：17:00/18:00
   - 由于要出席Team
-    E“[手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#SKE48_Team_E_4th_Stage“手牵手”公演 "wikilink")”公演的初日演出，自SKE48兼任的成员[木本花音未能参加本场演出](../Page/木本花音.md "wikilink")。开场时，与曾是AKB48成员的[多田爱佳表示相比于](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")[柏木由纪更喜欢](https://zh.wikipedia.org/wiki/柏木由纪 "wikilink")[渡边麻友](https://zh.wikipedia.org/wiki/渡边麻友 "wikilink")。在演出中，指原莉乃表示了对吉本新喜剧和[阪神虎](../Page/阪神虎.md "wikilink")的喜爱，并以NMB48成员[山本彩在综艺节目](../Page/山本彩.md "wikilink")《》上的糟糕表现为话题，调动现场观众情绪。
+    E“[手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#SKE48_Team_E_4th_Stage“手牵手”公演 "wikilink")”公演的初日演出，自SKE48兼任的成员[木本花音](../Page/木本花音.md "wikilink")未能参加本场演出。开场时，与曾是AKB48成员的[多田爱佳表示相比于](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")[柏木由纪更喜欢](https://zh.wikipedia.org/wiki/柏木由纪 "wikilink")[渡边麻友](https://zh.wikipedia.org/wiki/渡边麻友 "wikilink")。在演出中，指原莉乃表示了对吉本新喜剧和[阪神虎](../Page/阪神虎.md "wikilink")的喜爱，并以NMB48成员[山本彩](../Page/山本彩.md "wikilink")在综艺节目《》上的糟糕表现为话题，调动现场观众情绪。
 
 ### 曲目
 
@@ -190,7 +190,7 @@
 15. 《Pedicure day》 - 穴井、田島、本村
 16. 《说说漂亮话不也很好吗？》 - 原曲選拔成員
       -
-        之後插入一段以[白雪公主為主題的](../Page/白雪公主.md "wikilink")[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
+        之後插入一段以[白雪公主](../Page/白雪公主.md "wikilink")為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
 17. 《Show fight！》 -
     [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《戀愛的幸運餅乾》 - 同上
@@ -234,7 +234,7 @@
   - 开场/开演时间：
       - 昼公演：11:00/12:08
       - 夜公演：16:00/17:00
-  - 由于名古屋是HKT48的姐妹组合[SKE48的所在地](../Page/SKE48.md "wikilink")，因此本次演出有许多SKE48的成员前来观看，自SKE48兼任的木本花音也自当日正式开始参加此次巡演。由指原莉乃担任出道单曲制作人的AKB48
+  - 由于名古屋是HKT48的姐妹组合[SKE48](../Page/SKE48.md "wikilink")的所在地，因此本次演出有许多SKE48的成员前来观看，自SKE48兼任的木本花音也自当日正式开始参加此次巡演。由指原莉乃担任出道单曲制作人的AKB48
     Group研究生会会长[松村香织更是在晚场演出中登台表演](https://zh.wikipedia.org/wiki/松村香织 "wikilink")《[松村LOVE\!](https://zh.wikipedia.org/wiki/松村LOVE! "wikilink")》（）炒热气氛。
 
 ### 曲目
@@ -262,7 +262,7 @@
 15. 《Pedicure day》 - 穴井、田島、本村
 16. 《说说漂亮话不也很好吗？》 - 原曲選拔成員
       -
-        之後插入一段以[白雪公主為主題的](../Page/白雪公主.md "wikilink")[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
+        之後插入一段以[白雪公主](../Page/白雪公主.md "wikilink")為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
 17. 《Show fight！》 -
     [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《戀愛的幸運餅乾》 - 同上
@@ -367,7 +367,7 @@
 
   - 举办时间与地点：7月13日，[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[海之中道](../Page/海之中道.md "wikilink")[海濱公園](../Page/海之中道海濱公園.md "wikilink")（）
   - 开场/开演时间：14:00/17:00
-  - 在当日的演唱会上，74岁的摇滚歌手[内田裕也作为惊喜嘉宾登场登场与指原莉乃合作](../Page/内田裕也.md "wikilink")，演唱了他在时隔29年之后发行的新单曲《[Shake
+  - 在当日的演唱会上，74岁的摇滚歌手[内田裕也](../Page/内田裕也.md "wikilink")作为惊喜嘉宾登场登场与指原莉乃合作，演唱了他在时隔29年之后发行的新单曲《[Shake
     It Up,
     Baby](../Page/Shake_It_Up,_Baby.md "wikilink")》，引起现场观众惊呼。另外，在之前剧场公演中受伤的Team
     KIV的[岡田栞奈在演出尾端登场加入演唱](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")，正式复归舞台。
@@ -432,7 +432,7 @@
 30. 《[我点燃的烟花](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#HKT48_Team_H_2nd_Stage“青春女孩”公演 "wikilink")》（）
     - 全员（包括冈田栞奈）
 31. 《[爱之绳](https://zh.wikipedia.org/wiki/爱之绳 "wikilink")》（）
-32. 《[尖端顶点之上！博多方言](../Page/尖端顶点之上！.md "wikilink") ver.》（）
+32. 《[尖端顶点之上！](../Page/尖端顶点之上！.md "wikilink")博多方言 ver.》（）
 33. 《[BINGO\!](../Page/BINGO!.md "wikilink")》
 34. 《眨眼3次》
 35. 《因为喜欢你 博多方言 ver.》

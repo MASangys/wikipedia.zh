@@ -1,11 +1,11 @@
-是一款由[Smilebit開發](https://zh.wikipedia.org/wiki/SEGA_Sports_R&D "wikilink")、[SEGA發行的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[Dreamcast主機](../Page/Dreamcast.md "wikilink")[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")。該遊戲在2000年6月9日於日本推出，同年10月30日在北美上市，接著於11月24日在歐洲發售。之後，[Vicarious
+是一款由[Smilebit開發](https://zh.wikipedia.org/wiki/SEGA_Sports_R&D "wikilink")、[SEGA發行的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")主機[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")。該遊戲在2000年6月9日於日本推出，同年10月30日在北美上市，接著於11月24日在歐洲發售。之後，[Vicarious
 Visions製作的](../Page/Vicarious_Visions.md "wikilink")[Game Boy
 Advance移植版本由](../Page/Game_Boy_Advance.md "wikilink")[THQ在](https://zh.wikipedia.org/wiki/THQ "wikilink")2004年6月26日於北美、2004年2月20日於歐洲推出。2012年9月，Blit
 Software制作的高畫質（HD）版本在[Xbox Live
 Arcade](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[PlayStation
 Network和](../Page/PlayStation_Network.md "wikilink")[Windows上發售](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。在SEGA轉型為軟體公司後，其續作《[Jet
 Set Radio
-Future](https://zh.wikipedia.org/wiki/Jet_Set_Radio_Future "wikilink")》於2002年在[Xbox上推出](../Page/Xbox.md "wikilink")。本作品以[卡通渲染的視覺風格在遊戲界中成為知名作品](../Page/卡通渲染.md "wikilink")。
+Future](https://zh.wikipedia.org/wiki/Jet_Set_Radio_Future "wikilink")》於2002年在[Xbox](../Page/Xbox.md "wikilink")上推出。本作品以[卡通渲染](../Page/卡通渲染.md "wikilink")的視覺風格在遊戲界中成為知名作品。
 
 ## 遊戲內容
 
@@ -28,7 +28,7 @@ GGs」的的成員，目標是掌控虛構城市「Tokyo-to」，並對付其他
 <!-- end list -->
 
   -
-    跟基德同齡的女生，金髮棕瞳(有時是藍瞳)的德國人，K教授說她很酷但會令人心碎。在[SEGA的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[網球及](https://zh.wikipedia.org/wiki/網球 "wikilink")[賽車遊戲中亦有登場](../Page/賽車.md "wikilink")。
+    跟基德同齡的女生，金髮棕瞳(有時是藍瞳)的德國人，K教授說她很酷但會令人心碎。在[SEGA的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[網球及](https://zh.wikipedia.org/wiki/網球 "wikilink")[賽車](../Page/賽車.md "wikilink")遊戲中亦有登場。
 
 <!-- end list -->
 

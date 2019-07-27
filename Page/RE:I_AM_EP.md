@@ -1,5 +1,5 @@
 《**RE:I AM
-EP**》是日本歌手[Aimer的第](../Page/Aimer.md "wikilink")5张[单曲](../Page/单曲.md "wikilink")。2013年3月20日由[DefSTAR
+EP**》是日本歌手[Aimer](../Page/Aimer.md "wikilink")的第5张[单曲](../Page/单曲.md "wikilink")。2013年3月20日由[DefSTAR
 Records发售](../Page/DefSTAR_Records.md "wikilink")。
 
 收錄曲「RE:I AM」是OVA動畫《[機動戰士GUNDAM

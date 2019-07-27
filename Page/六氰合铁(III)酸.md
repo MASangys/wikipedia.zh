@@ -2,7 +2,7 @@
 
 ## 制备
 
-六氰合铁(III)酸可以由浓[盐酸和](../Page/盐酸.md "wikilink")[铁氰酸钾饱和溶液反应得到](https://zh.wikipedia.org/wiki/铁氰酸钾 "wikilink")。\[2\]\[3\]
+六氰合铁(III)酸可以由浓[盐酸](../Page/盐酸.md "wikilink")和[铁氰酸钾饱和溶液反应得到](https://zh.wikipedia.org/wiki/铁氰酸钾 "wikilink")。\[2\]\[3\]
 
 ## 性质
 

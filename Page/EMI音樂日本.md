@@ -1,30 +1,30 @@
-**株式会社EMI音樂・日本**（EMI音樂日本）是一家曾属于[EMI旗下的](../Page/EMI.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，原為**東芝EMI株式会社**（東芝EMI），已於2013年4月1日解散並由[日本環球音樂整合成其國內的一個品牌](../Page/環球音樂_\(日本\).md "wikilink")「EMI
+**株式会社EMI音樂・日本**（EMI音樂日本）是一家曾属于[EMI](../Page/EMI.md "wikilink")旗下的[唱片公司](../Page/唱片公司.md "wikilink")，原為**東芝EMI株式会社**（東芝EMI），已於2013年4月1日解散並由[日本環球音樂整合成其國內的一個品牌](../Page/環球音樂_\(日本\).md "wikilink")「EMI
 Records Japan」。
 
 ## 概要
 
-1960年，[東芝的音樂軟體部門獨立成为](https://zh.wikipedia.org/wiki/東芝 "wikilink")「**東芝音樂工業**」。1973年，因[EMI入股而改稱](../Page/EMI.md "wikilink")「**東芝EMI**」（Toshiba
+1960年，[東芝的音樂軟體部門獨立成为](https://zh.wikipedia.org/wiki/東芝 "wikilink")「**東芝音樂工業**」。1973年，因[EMI](../Page/EMI.md "wikilink")入股而改稱「**東芝EMI**」（Toshiba
 EMI，公司登記名稱為）。1994年之後EMI出資55％，剩下的45％由東芝出資。2007年6月，東芝為強化企業的主力部門而將保有的東芝EMI股份賣出\[1\]，東芝EMI改名**EMI音樂・日本**。
 
 ## 沿革
 
   - 1955（昭和30）年10月，[東芝開始從事唱片業務](https://zh.wikipedia.org/wiki/東芝 "wikilink")。
   - 1958年左右，開發了在製作過程加入[抗靜電劑形成紅色的唱片](https://zh.wikipedia.org/wiki/抗靜電劑 "wikilink")「エバー・クリーン・レコード」（別名「[赤盤](https://zh.wikipedia.org/wiki/赤盤 "wikilink")」）開發並發行。
-  - 1959年3月，開始發行[立體聲唱片](../Page/立體聲.md "wikilink")。
+  - 1959年3月，開始發行[立體聲](../Page/立體聲.md "wikilink")唱片。
   - 1959年，開始自行製作立體聲唱片。
   - 1960（昭和35）年10月1日，東芝的音樂軟體部門獨立成「**東芝音楽工業株式会社**」。設立時的資本額為1億5千萬日圓。
-  - 1971（昭和46）年10月1日，在[富士山腳](../Page/富士山.md "wikilink")[静岡縣](https://zh.wikipedia.org/wiki/静岡縣 "wikilink")[御殿場市開設當時最新技術的生產工廠](https://zh.wikipedia.org/wiki/御殿場市 "wikilink")「御殿場工場」。
+  - 1971（昭和46）年10月1日，在[富士山](../Page/富士山.md "wikilink")腳[静岡縣](https://zh.wikipedia.org/wiki/静岡縣 "wikilink")[御殿場市開設當時最新技術的生產工廠](https://zh.wikipedia.org/wiki/御殿場市 "wikilink")「御殿場工場」。
   - 1973（昭和48）年10月1日，因EMI的資本加入而改稱「**東芝イーエムアイ株式会社**」。
   - 1979年11月時，自行製作的LP數位錄音開始向大眾市場發售。
   - 1982（昭和57）年5月24日，港区赤坂2丁目（[溜池山王十字路口](https://zh.wikipedia.org/wiki/溜池山王 "wikilink")）本社大樓落成。
   - 2005（平成17）年12月26日，與製造部門（東芝EMI御殿場工場）進行分割。專心製作於音樂軟體方面之業務。
   - 2006（平成18）年12月14日，東芝將其擁有的剩餘股份售出，東芝EMI成為EMI的完全子公司。
   - 2007（平成19）年6月30日，社名由東芝イーエムアイ株式会社改為「**株式会社EMI音樂・日本**」。但規格編號TOCT、TOCP不變。
-  - 2008（平成20）年2月18日，本社由赤坂5丁目的[赤坂Sacas轉移至](../Page/赤坂Sacas.md "wikilink")[赤坂Biz塔樓大廈](https://zh.wikipedia.org/wiki/赤坂Biz塔樓大廈 "wikilink")。
+  - 2008（平成20）年2月18日，本社由赤坂5丁目的[赤坂Sacas](../Page/赤坂Sacas.md "wikilink")轉移至[赤坂Biz塔樓大廈](https://zh.wikipedia.org/wiki/赤坂Biz塔樓大廈 "wikilink")。
   - 2008年3月5日，開始進入[Blu-ray
-    Disc市場](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")，第1彈為[松任谷由實的演唱會](../Page/松任谷由實.md "wikilink")「YUMING
+    Disc市場](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")，第1彈為[松任谷由實](../Page/松任谷由實.md "wikilink")的演唱會「YUMING
     SPECTACLE SHANGRILA
-    Ⅲ」[DVD-Video與Blu](../Page/DVD-Video.md "wikilink")-ray
+    Ⅲ」[DVD-Video](../Page/DVD-Video.md "wikilink")與Blu-ray
     Disc同時發行。
   - 2010年10月1日，迎向創立50周年（從東芝音工時代算起）。
   - 2012年10月1日 -
@@ -61,7 +61,7 @@ EMI，公司登記名稱為）。1994年之後EMI出資55％，剩下的45％由
   - [宇野ゆう子](https://zh.wikipedia.org/wiki/宇野ゆう子 "wikilink")
   - [大城バネサ](https://zh.wikipedia.org/wiki/大城バネサ "wikilink")
   - [岡林信康](https://zh.wikipedia.org/wiki/岡林信康 "wikilink")
-  - [加藤清史郎with](../Page/加藤清史郎.md "wikilink")[アンクル☆させ](https://zh.wikipedia.org/wiki/佐瀬寿一 "wikilink")
+  - [加藤清史郎](../Page/加藤清史郎.md "wikilink")with[アンクル☆させ](https://zh.wikipedia.org/wiki/佐瀬寿一 "wikilink")
   - [KAME\&L.N.K](https://zh.wikipedia.org/wiki/KAME&L.N.K "wikilink")
   - [岸千恵子](https://zh.wikipedia.org/wiki/岸千恵子 "wikilink")
   - [9mm Parabellum

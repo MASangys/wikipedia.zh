@@ -1,5 +1,5 @@
 《**EXO's SHOWTIME**》（）是韓國[SM
-Entertainment旗下組合](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[EXO的首個綜藝節目](../Page/EXO.md "wikilink")，在節目中有著許多關於[EXO日常生活的小趣事](../Page/EXO.md "wikilink")。節目於2013年11月28日至2014年2月13日，逢星期四在[MBC
+Entertainment旗下組合](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[EXO](../Page/EXO.md "wikilink")的首個綜藝節目，在節目中有著許多關於[EXO](../Page/EXO.md "wikilink")日常生活的小趣事。節目於2013年11月28日至2014年2月13日，逢星期四在[MBC
 every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 
 ## 播放清單
@@ -16,7 +16,7 @@ every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 <td><p>1</p></td>
 <td><p>2013年11月28日</p></td>
 <td><p>請回答吧! <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>• 分辨<a href="../Page/EXO.md" title="wikilink">EXO成員的方法</a><br />
+<td><p>• 分辨<a href="../Page/EXO.md" title="wikilink">EXO</a>成員的方法<br />
 • 挑戰一人一炸雞</p></td>
 </tr>
 <tr class="odd">
@@ -33,7 +33,7 @@ every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 <td><p>2013年12月12日</p></td>
 <td><p>彼此怎樣祝賀生日呢?</p></td>
 <td><p>• 在林蔭大道買生日禮物<br />
-• <a href="../Page/Chanyeol.md" title="wikilink">Chanyeol生日慶生</a></p></td>
+• <a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>生日慶生</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -66,7 +66,7 @@ every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2014年1月9日</p></td>
-<td><p><a href="../Page/EXO.md" title="wikilink">EXO互相應援的方法</a>?</p></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a>互相應援的方法?</p></td>
 <td><p>• 中國成員南山行<br />
 • 中國城吃火鍋</p></td>
 </tr>
@@ -79,7 +79,7 @@ every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2014年1月23日</p></td>
-<td><p><a href="../Page/EXO.md" title="wikilink">EXO在練習室裡發生什麼事</a>?</p></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a>在練習室裡發生什麼事?</p></td>
 <td><p>• 舞蹈練習<br />
 • 高音和低音對決、Rap對決<br />
 • 吉他交流<br />

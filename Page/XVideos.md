@@ -1,10 +1,10 @@
-**XVideos**是一个總部位於[捷克的](../Page/捷克.md "wikilink")[色情](../Page/色情.md "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")。
+**XVideos**是一个總部位於[捷克](../Page/捷克.md "wikilink")的[色情](../Page/色情.md "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")。
 
 根据[Alexa排名](https://zh.wikipedia.org/wiki/Alexa "wikilink")，自从2013年初它就已经跻身为排名全球前50的最受网友欢迎的网站。在2012年時网站的月访问量已有3億5000萬人次，每月数据传输量为29[PB](../Page/拍字节.md "wikilink")。\[1\]
 
 ## 历史
 
-XVideos是一个色情视频分享网站，它是一个类似于[YouTube为一般用户提供类似](../Page/YouTube.md "wikilink")[RedTube成人内容的视频网站](../Page/RedTube.md "wikilink")，內容来自专业色情影片業者（有时是盗版）的影片片段，以及业余色情视频制作者。[法比安·蒂曼](https://zh.wikipedia.org/wiki/法比安·蒂曼 "wikilink")([MindGeek之所有者](../Page/MindGeek.md "wikilink"))试图於2012年收购XVideos以壟斷色情网站，而XVideos的法籍業主拒绝了超过1.2亿美元的报价。2014年，XVideos企图强迫内容提供者承诺放弃从账户中删除视频或立即关闭其账户的权利而引发争议。
+XVideos是一个色情视频分享网站，它是一个类似于[YouTube](../Page/YouTube.md "wikilink")为一般用户提供类似[RedTube](../Page/RedTube.md "wikilink")成人内容的视频网站，內容来自专业色情影片業者（有时是盗版）的影片片段，以及业余色情视频制作者。[法比安·蒂曼](https://zh.wikipedia.org/wiki/法比安·蒂曼 "wikilink")([MindGeek](../Page/MindGeek.md "wikilink")之所有者)试图於2012年收购XVideos以壟斷色情网站，而XVideos的法籍業主拒绝了超过1.2亿美元的报价。2014年，XVideos企图强迫内容提供者承诺放弃从账户中删除视频或立即关闭其账户的权利而引发争议。
 
 ## 审查
 

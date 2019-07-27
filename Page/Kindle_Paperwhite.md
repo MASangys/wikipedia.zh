@@ -1,7 +1,7 @@
 **Kindle
 Paperwhite**是一個[亞馬遜公司的](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/電子書閱讀器 "wikilink")\[1\]。
 [Kindle](../Page/Kindle.md "wikilink")
-Paperwhite最初於2012年9月6日亞馬遜所舉行的發布會上發布，包括了一個[Wi-Fi版本和一個](../Page/Wi-Fi.md "wikilink")[3G版本](../Page/3G.md "wikilink")。於2013年6月7日下午4時登陸中國地區。在亞馬遜、蘇寧易購和蘇寧網點開售\[2\]。
+Paperwhite最初於2012年9月6日亞馬遜所舉行的發布會上發布，包括了一個[Wi-Fi](../Page/Wi-Fi.md "wikilink")版本和一個[3G](../Page/3G.md "wikilink")版本。於2013年6月7日下午4時登陸中國地區。在亞馬遜、蘇寧易購和蘇寧網點開售\[2\]。
 Paperwhite使用了一塊6英寸的[E-Ink](https://zh.wikipedia.org/wiki/E-Ink "wikilink")（俗稱電子墨水）螢幕。同時，還使用了一種新型的閱讀燈來為Paperwhite提供照明。截止2019年1月，Paperwhite发布至Paperwhite4\[3\]。
 
 ## 设计
@@ -37,7 +37,7 @@ Paperwhite屏幕尺寸为6寸，机身厚度为9.1mm，较为小巧。但因为�
 
 ### 无线连接
 
-Paperwhite内置[Wi-Fi以更快捷地下载电子书](../Page/Wi-Fi.md "wikilink")。同时也可通过Wi-Fi连接至亚马逊的服务器购买电子书。
+Paperwhite内置[Wi-Fi](../Page/Wi-Fi.md "wikilink")以更快捷地下载电子书。同时也可通过Wi-Fi连接至亚马逊的服务器购买电子书。
 
 ### 网页浏览
 
@@ -49,7 +49,7 @@ Paperwhite也有内置[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikil
 
 ### 翻译功能
 
-Paperwhite内置了翻译功能，在阅读外文书籍时，可以自动调用内置的字典查询词语释义。也可以使用[Bing翻译工具翻译成其他语言](../Page/Bing.md "wikilink")。也可以直接使用内置的网页浏览器访问互联网搜索引擎。
+Paperwhite内置了翻译功能，在阅读外文书籍时，可以自动调用内置的字典查询词语释义。也可以使用[Bing](../Page/Bing.md "wikilink")翻译工具翻译成其他语言。也可以直接使用内置的网页浏览器访问互联网搜索引擎。
 
 ## 价格
 

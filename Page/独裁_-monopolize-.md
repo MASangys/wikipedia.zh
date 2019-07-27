@@ -1,5 +1,5 @@
 《**独裁
--monopolize-**》是[T.M.Revolution在](../Page/T.M.Revolution.md "wikilink")1996年5月13日发行的出道单曲。销售方为索尼音乐娱乐(Sony
+-monopolize-**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1996年5月13日发行的出道单曲。销售方为索尼音乐娱乐(Sony
 Music Entertainment(Japan))。
 
 ## 概要

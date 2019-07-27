@@ -2,8 +2,8 @@
 
 ## 历史
 
-由[Facebook前高級主管戴夫](../Page/Facebook.md "wikilink")·莫林（Dave
-Morin）创建。最初代的Path（Path1.0）只是一个图片分享工具，只有从2.0开始才加入了[文字发送和](../Page/文字.md "wikilink")[签到](https://zh.wikipedia.org/wiki/签到 "wikilink")、[音乐分享功能](../Page/音乐.md "wikilink")。Path在3.0版本中加入了[聊天功能](https://zh.wikipedia.org/wiki/聊天 "wikilink")。現為韓國[Kakao旗下服務](../Page/Kakao.md "wikilink")。
+由[Facebook](../Page/Facebook.md "wikilink")前高級主管戴夫·莫林（Dave
+Morin）创建。最初代的Path（Path1.0）只是一个图片分享工具，只有从2.0开始才加入了[文字](../Page/文字.md "wikilink")发送和[签到](https://zh.wikipedia.org/wiki/签到 "wikilink")、[音乐](../Page/音乐.md "wikilink")分享功能。Path在3.0版本中加入了[聊天功能](https://zh.wikipedia.org/wiki/聊天 "wikilink")。現為韓國[Kakao](../Page/Kakao.md "wikilink")旗下服務。
 
 Path强调的是私密社交。用户的好友数量会被限制，最初的版本只允许添加50位好友，3.0版本好友数量上限增加到了150人。
 

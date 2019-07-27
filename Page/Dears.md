@@ -1,5 +1,5 @@
 [Sayyesdears.jpg](https://zh.wikipedia.org/wiki/File:Sayyesdears.jpg "fig:Sayyesdears.jpg")
-**Dears**是[阿爾發音樂旗下的](../Page/阿爾發音樂.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員為[簡廷芮](../Page/簡廷芮.md "wikilink")（Dewi）、[安婕希](../Page/安婕希.md "wikilink")（小安），於2014年夏天正式出道。
+**Dears**是[阿爾發音樂](../Page/阿爾發音樂.md "wikilink")旗下的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員為[簡廷芮](../Page/簡廷芮.md "wikilink")（Dewi）、[安婕希](../Page/安婕希.md "wikilink")（小安），於2014年夏天正式出道。
 
 團名「Dears」開頭D取自Dewi和小安(Dabe)兩人的英文名字開頭，而中間的“ear”則有耳朵、傾聽之意，字尾“s”則代表她們是兩個人所組成\[1\]。
 
@@ -8,7 +8,7 @@ Yes》於2016年1月22日發行\[4\]。
 
 2017年擔任教育部體育署SH150運動大使。
 
-2018年，成員[安婕希](../Page/安婕希.md "wikilink")3月25日於個人音樂會上透露，將暫別歌壇出國進修，[簡廷芮將於](../Page/簡廷芮.md "wikilink")6月發行個人專輯，兩人「單飛不解散」\[5\]。
+2018年，成員[安婕希](../Page/安婕希.md "wikilink")3月25日於個人音樂會上透露，將暫別歌壇出國進修，[簡廷芮](../Page/簡廷芮.md "wikilink")將於6月發行個人專輯，兩人「單飛不解散」\[5\]。
 
 ## 成員資料
 

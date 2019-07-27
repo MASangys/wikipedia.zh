@@ -1,4 +1,4 @@
-《**NMB48學園**》（）是2011年4月開始在[ABC廣播制作播出的地方廣播節目](https://zh.wikipedia.org/wiki/ABC廣播 "wikilink")。是[NMB48的冠名節目](../Page/NMB48.md "wikilink")。
+《**NMB48學園**》（）是2011年4月開始在[ABC廣播制作播出的地方廣播節目](https://zh.wikipedia.org/wiki/ABC廣播 "wikilink")。是[NMB48](../Page/NMB48.md "wikilink")的冠名節目。
 
 ## NMB48学園〜教我吧千鳥先生〜
 
@@ -52,7 +52,7 @@
     [朝日放送](../Page/朝日放送.md "wikilink")
   - [ABC発「NMB48学園
     ～教えて千鳥先生～」に潜入](https://web.archive.org/web/20100531200041/http://www.asahi.com/kansai/news/abc_yu/index.html#nmb48)
-    [朝日新聞関西版](../Page/朝日新聞.md "wikilink")
+    [朝日新聞](../Page/朝日新聞.md "wikilink")関西版
 
 [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
 [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")

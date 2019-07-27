@@ -10,7 +10,7 @@ Mustard](../Page/Mean_Mr._Mustard.md "wikilink")》及《[Polythene
 Pam](../Page/Polythene_Pam.md "wikilink")》的中間，之後因保羅·麥卡尼不滿意錄製的結果而請錄音室工程師約翰·柯蘭德（John
 Kurlander）將初錄的《Her Majesty》這一段剪掉。雖然約翰·柯蘭德之後不小心將《Mean Mr.
 Mustard》最後結束的爆音、連同《Her
-Majesty》的段落一同剪掉，但麥卡尼當時未將此一事放在心上。而因當時披頭四所屬的唱片公司[EMI禁止隨意損毀與披頭四相關的錄音作品](../Page/EMI.md "wikilink")，使得與《Mean
+Majesty》的段落一同剪掉，但麥卡尼當時未將此一事放在心上。而因當時披頭四所屬的唱片公司[EMI](../Page/EMI.md "wikilink")禁止隨意損毀與披頭四相關的錄音作品，使得與《Mean
 Mr. Mustard》結束的爆音接在一起的《Her
 Majesty》錄音帶保留了下來。\[1\]\[2\]之後麥卡尼喜歡上這個因錄音出錯所弄出的意外效果版本，而加入為《艾比路》專輯的正式曲目內容。\[3\]\[4\]
 

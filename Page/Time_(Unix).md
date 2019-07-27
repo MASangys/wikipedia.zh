@@ -1,4 +1,4 @@
-**`time`**是一个[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[操作系统上的命令](../Page/操作系统.md "wikilink")。它可以用于确定执行特定[命令持续的时间](../Page/命令_\(计算机\).md "wikilink")。
+**`time`**是一个[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的命令。它可以用于确定执行特定[命令持续的时间](../Page/命令_\(计算机\).md "wikilink")。
 
 ## 用法
 
@@ -23,7 +23,7 @@ time）或作为[shell内建命令](../Page/Unix_shell.md "wikilink")（例如�
 
 ## 用户时间与系统时间
 
-第一次看到时，术语“用户CPU时间”可以会有点误导。需要明确的是，总CPU时间是指CPU花费在程序执行操作的时间，及CPU花费在[内核为该程序执行](../Page/内核.md "wikilink")[系统调用的时间组合](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。当程序在数组中循环时，将累加到用户CPU时间。相反，当一个程序执行如`exec`或`fork`[系统调用时](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，将累加到系统CPU时间。
+第一次看到时，术语“用户CPU时间”可以会有点误导。需要明确的是，总CPU时间是指CPU花费在程序执行操作的时间，及CPU花费在[内核](../Page/内核.md "wikilink")为该程序执行[系统调用的时间组合](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。当程序在数组中循环时，将累加到用户CPU时间。相反，当一个程序执行如`exec`或`fork`[系统调用时](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，将累加到系统CPU时间。
 
 ## 真实时间与CPU时间
 

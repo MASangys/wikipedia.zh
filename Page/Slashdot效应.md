@@ -1,7 +1,7 @@
 **Slashdot效应**（Slashdot
 effect）也称作**slashdotting**，指的是当一个受众广泛的[网站介绍了另一个小众的网站后](https://zh.wikipedia.org/wiki/网站 "wikilink")，小众网站流量激增的现象。小网站流量的激增使得它的访问速度变慢或者一时间完全不能访问。这个效应的名字来源于科技新闻网站*[Slashdot](../Page/Slashdot.md "wikilink")*，因为每当Slashdot链接到其他的网站时就会给其他网站带来很多流量。这个效应也能应用到其他的网站和元博客（metablog），例如[Fark](https://zh.wikipedia.org/wiki/Fark "wikilink")、*[Drudge
-Report](https://zh.wikipedia.org/wiki/Drudge_Report "wikilink")*、[Reddit](../Page/Reddit.md "wikilink")、[Twitter和](../Page/Twitter.md "wikilink")[Digg](../Page/Digg.md "wikilink")，衍生了一批词汇例如**Farked**、**Drudged**、以及受到“**Reddit效应**的影响”。[Google
-doodle由于会将人引导至和Doodle相关的搜索结果](https://zh.wikipedia.org/wiki/Google_doodle "wikilink")，也会导致相关搜索结果页面的流量激增\[1\]。通常，不那么[鲁棒的网站因无法处理如此巨大的流量而导致网站无法访问](https://zh.wikipedia.org/wiki/鲁棒性_\(计算机科学\) "wikilink")——常见原因有缺乏足够[带宽](../Page/带宽.md "wikilink")、[服务器无法处理这么多并发请求](../Page/服务器.md "wikilink")、配额（quota）已满等。建在[虚拟主机上的网站遇到Slashdot效应时往往会变得无法访问](../Page/虚拟主机.md "wikilink")。
+Report](https://zh.wikipedia.org/wiki/Drudge_Report "wikilink")*、[Reddit](../Page/Reddit.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Digg](../Page/Digg.md "wikilink")，衍生了一批词汇例如**Farked**、**Drudged**、以及受到“**Reddit效应**的影响”。[Google
+doodle由于会将人引导至和Doodle相关的搜索结果](https://zh.wikipedia.org/wiki/Google_doodle "wikilink")，也会导致相关搜索结果页面的流量激增\[1\]。通常，不那么[鲁棒的网站因无法处理如此巨大的流量而导致网站无法访问](https://zh.wikipedia.org/wiki/鲁棒性_\(计算机科学\) "wikilink")——常见原因有缺乏足够[带宽](../Page/带宽.md "wikilink")、[服务器](../Page/服务器.md "wikilink")无法处理这么多并发请求、配额（quota）已满等。建在[虚拟主机](../Page/虚拟主机.md "wikilink")上的网站遇到Slashdot效应时往往会变得无法访问。
 
 **flash
 crowd**这个词汇更一般地描述了网络或者主机遇到大量流量的现象。这有些时候是因为博客和新闻栏上出现了一个网站\[2\]\[3\]\[4\]。
@@ -34,11 +34,11 @@ Reddit、StumbleUpon和Fark这样的站点是由许多“用户提交的*帖子*
 
 很少有确定的数字能够精确地衡量*Slashdot*效应的影响程度，不过估计涌入的最大页面请求量在几百、几千次点击/分钟\[7\]\[8\]\[9\]。通常，当对应的文章处于网站首页最上面的时候，会带来最大的流量，在新帖出现後效应有所减少。在文章离开首页（约在最初发表的12～18个小时之後发生）之前，流量通常都会维持在较高水準。但是某些人气旺盛、有新闻价值、有趣的文章明显会有更长的生命周期。
 
-在2005年，有人报道说*Slashdot*效应在趋于消失\[10\]。但是，有人报道，当某些被关注人数多的[Twitter用户提到一个网站时](../Page/Twitter.md "wikilink")，会发生类似的效应\[11\]。
+在2005年，有人报道说*Slashdot*效应在趋于消失\[10\]。但是，有人报道，当某些被关注人数多的[Twitter](../Page/Twitter.md "wikilink")用户提到一个网站时，会发生类似的效应\[11\]。
 
 ### 社区
 
-当被提到的网站是基于[社区的网站的时候](../Page/虛擬社群.md "wikilink")，本效应还可以指一大群新用户突然前来注册、参与社区引发的次生效应。有的时候这是一件好事，但是某些时候先前的高端用户会觉得受到冒犯，因为大量纯新人带来了许多原有用户并不希望的东西，例如[小白](https://zh.wikipedia.org/wiki/白目 "wikilink")、[破坏和](https://zh.wikipedia.org/wiki/破坏 "wikilink")[菜鳥行为泛滥](../Page/菜鳥.md "wikilink")。这类似于1990年代[Usenet俚语裡的](../Page/Usenet.md "wikilink")“[永恒九月](../Page/永恒九月.md "wikilink")”。
+当被提到的网站是基于[社区的网站的时候](../Page/虛擬社群.md "wikilink")，本效应还可以指一大群新用户突然前来注册、参与社区引发的次生效应。有的时候这是一件好事，但是某些时候先前的高端用户会觉得受到冒犯，因为大量纯新人带来了许多原有用户并不希望的东西，例如[小白](https://zh.wikipedia.org/wiki/白目 "wikilink")、[破坏和](https://zh.wikipedia.org/wiki/破坏 "wikilink")[菜鳥](../Page/菜鳥.md "wikilink")行为泛滥。这类似于1990年代[Usenet](../Page/Usenet.md "wikilink")俚语裡的“[永恒九月](../Page/永恒九月.md "wikilink")”。
 
 ## 解决办法
 

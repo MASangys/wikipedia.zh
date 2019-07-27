@@ -40,12 +40,12 @@
 <tr class="odd">
 <td><p><strong>beati possidentes</strong></p></td>
 <td><p>佔有的人是有福的</p></td>
-<td><p>由<a href="../Page/欧里庇得斯.md" title="wikilink">欧里庇得斯的著作轉譯而成的拉丁語短語</a>。</p></td>
+<td><p>由<a href="../Page/欧里庇得斯.md" title="wikilink">欧里庇得斯</a>的著作轉譯而成的拉丁語短語。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>beatus homo qui invenit sapientiam</strong></p></td>
 <td><p>尋得智慧和獲取睿智的人是有福的</p></td>
-<td><p>典出<a href="https://zh.wikipedia.org/wiki/舊約聖經" title="wikilink">舊約聖經</a>，<a href="../Page/箴言.md" title="wikilink">箴言第三章第十三節</a>。</p></td>
+<td><p>典出<a href="https://zh.wikipedia.org/wiki/舊約聖經" title="wikilink">舊約聖經</a>，<a href="../Page/箴言.md" title="wikilink">箴言</a>第三章第十三節。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>bella gerant alii</strong><br />
@@ -57,7 +57,7 @@
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/bellum_omnium_contra_omnes" title="wikilink">bellum omnium contra omnes</a></strong></p></td>
 <td><p>所有人对所有人的战争</p></td>
-<td><p>一句被<a href="../Page/托马斯·霍布斯.md" title="wikilink">托马斯·霍布斯所使用過的短語</a>。</p></td>
+<td><p>一句被<a href="../Page/托马斯·霍布斯.md" title="wikilink">托马斯·霍布斯</a>所使用過的短語。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/bellum_se_ipsum_alet" title="wikilink">bellum se ipsum alet</a></strong></p></td>

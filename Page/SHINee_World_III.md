@@ -1,5 +1,5 @@
 **SHINee World III**
-是[SHINee的第三次巡回演唱会](../Page/SHINee.md "wikilink")、第一次世界巡迴演唱會，本次巡回演唱会由2014年3月8日的[首爾場揭開序幕](../Page/首爾.md "wikilink")。\[1\]
+是[SHINee](../Page/SHINee.md "wikilink")的第三次巡回演唱会、第一次世界巡迴演唱會，本次巡回演唱会由2014年3月8日的[首爾](../Page/首爾.md "wikilink")場揭開序幕。\[1\]
 
 ## 历史
 
@@ -11,11 +11,11 @@ III」。首场演唱会定在3月8-9日首尔的奥林匹克体操竞技场。2
 [SHINee](../Page/SHINee.md "wikilink")
 在3月8日与9日的[首尔场](https://zh.wikipedia.org/wiki/首尔 "wikilink")“SHINee
 World
-III”共号召了两万五千名粉丝。[SHINee在演唱会前的记者访问中说道](../Page/SHINee.md "wikilink")：
+III”共号召了两万五千名粉丝。[SHINee](../Page/SHINee.md "wikilink")在演唱会前的记者访问中说道：
 
   -
 
-[SHINee在首爾場中初次公開了包括](../Page/SHINee.md "wikilink")《Spoiler》、《Evil》等正規三輯收錄曲的舞台，並演唱多首主打歌曲及數首日文歌曲，並表演了日文第九張單曲《3
+[SHINee](../Page/SHINee.md "wikilink")在首爾場中初次公開了包括《Spoiler》、《Evil》等正規三輯收錄曲的舞台，並演唱多首主打歌曲及數首日文歌曲，並表演了日文第九張單曲《3
 2 1》的韓文版本。
 
 ### 墨西哥
@@ -31,18 +31,18 @@ SHINee在4月6日时在圣地亚哥，智利举行了他们的“**SHINee World
 III**”，并且吸引了八千五百人到Movistar竞技场来观看他们的表演。
 因为这是SHINee第一次在智利举行演唱会，所以歌迷们在前天晚上就排上了队等待演唱会的开始。SHINee在演唱会当天表演了25首歌曲，其中包括Dream
 Girl, [Ring Ding Dong](../Page/Ring_Ding_Dong.md "wikilink"),
-[Everybody](../Page/Everybody.md "wikilink")”Macarena”特别舞台。歌迷们也为金钟铉的生日提前准备了惊喜，除了歌迷们每人手里拿的“生日快乐金钟铉”手幅之外，当[SHINee演唱Colorful这首歌中](../Page/SHINee.md "wikilink")，歌迷们将五颜六色的气球放飞在空中。此演唱会有100多个不同媒体的记者们参加，其中有LA
+[Everybody](../Page/Everybody.md "wikilink")”Macarena”特别舞台。歌迷们也为金钟铉的生日提前准备了惊喜，除了歌迷们每人手里拿的“生日快乐金钟铉”手幅之外，当[SHINee](../Page/SHINee.md "wikilink")演唱Colorful这首歌中，歌迷们将五颜六色的气球放飞在空中。此演唱会有100多个不同媒体的记者们参加，其中有LA
 Tercera, Terra, Canal 13, ETC
 TV等等，他们在演唱会之前的记者见面会中采访到了[SHINee](../Page/SHINee.md "wikilink")。
 
 ### 阿根廷
 
 4月8日，世界巡回演唱会阿根廷场次在Luna
-Park竞技场举行。这次[SHINee演唱了](../Page/SHINee.md "wikilink")26首歌，其中有Juliette,
+Park竞技场举行。这次[SHINee](../Page/SHINee.md "wikilink")演唱了26首歌，其中有Juliette,
 Lucifer, Dream Girl, Everybody,
-还有为八千五百名粉丝们准备”Macarena”特别舞台。演唱时，歌迷们从头到尾都在跟着歌曲一起哼唱。歌迷们还准备了一个上面写着“生日快乐，钟铉”的蛋糕来为金钟铉庆生。当[SHINee演唱Green](../Page/SHINee.md "wikilink")
+还有为八千五百名粉丝们准备”Macarena”特别舞台。演唱时，歌迷们从头到尾都在跟着歌曲一起哼唱。歌迷们还准备了一个上面写着“生日快乐，钟铉”的蛋糕来为金钟铉庆生。当[SHINee](../Page/SHINee.md "wikilink")演唱Green
 Rain时，所有的歌迷们手举“阿根廷热爱于SHINee”
-的手幅字样来为[SHINee应援](../Page/SHINee.md "wikilink")。SHINee的成员们在演唱会说道：
+的手幅字样来为[SHINee](../Page/SHINee.md "wikilink")应援。SHINee的成员们在演唱会说道：
 
   -
 

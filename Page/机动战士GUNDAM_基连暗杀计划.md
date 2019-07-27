@@ -1,6 +1,6 @@
 《**機動戰士GUNDAM
-基連暗殺計劃**》（）是以[機動戰士GUNDAM中的](../Page/機動戰士GUNDAM.md "wikilink")[一年戰爭末期](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")，以[吉翁公國總帥](../Page/吉翁公國.md "wikilink")[基連·扎比為目標的暗殺計劃為題材的已完結漫畫](https://zh.wikipedia.org/wiki/扎比家族 "wikilink")。\[1\]從2007年在[角川書店的漫畫雜誌](../Page/角川書店.md "wikilink")《GUNDAM
-ACE》上連載（2007年10月號至2010年3月號）。單行本共四卷完結（出版：角川書店）。中文授權本由[台灣角川出版](../Page/台灣角川.md "wikilink")。\[2\]
+基連暗殺計劃**》（）是以[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")中的[一年戰爭末期](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")，以[吉翁公國](../Page/吉翁公國.md "wikilink")總帥[基連·扎比為目標的暗殺計劃為題材的已完結漫畫](https://zh.wikipedia.org/wiki/扎比家族 "wikilink")。\[1\]從2007年在[角川書店](../Page/角川書店.md "wikilink")的漫畫雜誌《GUNDAM
+ACE》上連載（2007年10月號至2010年3月號）。單行本共四卷完結（出版：角川書店）。中文授權本由[台灣角川](../Page/台灣角川.md "wikilink")出版。\[2\]
 
 ## 簡介
 

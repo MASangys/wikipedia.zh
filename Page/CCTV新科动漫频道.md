@@ -1,4 +1,4 @@
-**中国中央电视台新科动漫频道**是隶属于[中国中央电视台的](../Page/中国中央电视台.md "wikilink")[中央新闻纪录电影制片厂与](https://zh.wikipedia.org/wiki/中央新闻纪录电影制片厂 "wikilink")[北京科学教育电影制片厂合办的以全](https://zh.wikipedia.org/wiki/北京科学教育电影制片厂 "wikilink")[动漫内容呈现的专业](https://zh.wikipedia.org/wiki/动漫 "wikilink")[付费电视频道](../Page/付费电视.md "wikilink")，它是具有全年龄段、全动漫、全景化展示[科教文内涵的科技时尚资讯频道](https://zh.wikipedia.org/wiki/科教文 "wikilink")。
+**中国中央电视台新科动漫频道**是隶属于[中国中央电视台](../Page/中国中央电视台.md "wikilink")的[中央新闻纪录电影制片厂与](https://zh.wikipedia.org/wiki/中央新闻纪录电影制片厂 "wikilink")[北京科学教育电影制片厂合办的以全](https://zh.wikipedia.org/wiki/北京科学教育电影制片厂 "wikilink")[动漫内容呈现的专业](https://zh.wikipedia.org/wiki/动漫 "wikilink")[付费电视](../Page/付费电视.md "wikilink")频道，它是具有全年龄段、全动漫、全景化展示[科教文内涵的科技时尚资讯频道](https://zh.wikipedia.org/wiki/科教文 "wikilink")。
 
 ## 参考资料
 

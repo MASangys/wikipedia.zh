@@ -1,7 +1,7 @@
 **SAAJ**（**[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink") with
 Attachments [API](https://zh.wikipedia.org/wiki/API "wikilink") for
 [Java](../Page/Java.md "wikilink")**，带附件的SOAP Java
-API）提供了从Java平台通过[因特网发送](https://zh.wikipedia.org/wiki/因特网 "wikilink")[XML文档的标准方法](../Page/XML.md "wikilink")。开发者可以使用SAAJ产生、接受符合SOAP
+API）提供了从Java平台通过[因特网发送](https://zh.wikipedia.org/wiki/因特网 "wikilink")[XML](../Page/XML.md "wikilink")文档的标准方法。开发者可以使用SAAJ产生、接受符合SOAP
 1.1和1.2规范的消息，以及[带附件的SOAP消息](https://zh.wikipedia.org/wiki/带附件的SOAP消息 "wikilink")。开发者还可以直接使用它来编写SOAP消息传递应用程序，而不是使用[JAX-RPC或](https://zh.wikipedia.org/wiki/JAX-RPC "wikilink")[JAX-WS](../Page/JAX-WS.md "wikilink")。
 
 ## 为什么SOAP需要附件

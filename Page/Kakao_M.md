@@ -3,11 +3,11 @@ M**（）是[韓國的一家唱片製作發行公司](https://zh.wikipedia.org/w
 
 LOEN娛樂前身是成立於1978年的Seoul
 Records（首爾唱片），1982年首爾唱片正式進行登記，2005年由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SK集團的子公司](https://zh.wikipedia.org/wiki/SK集團 "wikilink")[SK
-Telecom收購](https://zh.wikipedia.org/wiki/SK_Telecom "wikilink")。2008年，收購韓國數位音樂平台[Melon](../Page/Melon.md "wikilink")。2016年被[Kakao收購](../Page/Kakao.md "wikilink")，2018年公司名稱由LOEN娛樂改為Kakao
+Telecom收購](https://zh.wikipedia.org/wiki/SK_Telecom "wikilink")。2008年，收購韓國數位音樂平台[Melon](../Page/Melon.md "wikilink")。2016年被[Kakao](../Page/Kakao.md "wikilink")收購，2018年公司名稱由LOEN娛樂改為Kakao
 M。
 
 Kakao M
-發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wikilink")、[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[嘻哈等](../Page/嘻哈.md "wikilink")。
+發行的音樂種類包含：[K-POP](../Page/韓國流行音樂.md "wikilink")、[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")等。
 
 ## 歷史
 
@@ -20,7 +20,7 @@ Tree](https://zh.wikipedia.org/wiki/Loen_Tree "wikilink")」負責IU、Sunny
 Hill、History及演員。[Collaboddari
 Label負責ZIA及Fiestar](https://zh.wikipedia.org/wiki/Collaboddari_Label "wikilink")。
 
-2013年12月18日，LOEN娛樂宣佈決定投資[STARSHIP娛樂的](../Page/STARSHIP娛樂.md "wikilink")70%股份，成為旗下獨立品牌。\[1\]
+2013年12月18日，LOEN娛樂宣佈決定投資[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")的70%股份，成為旗下獨立品牌。\[1\]
 
 2014年2月17日，LOEN娛樂決定將旗下主要管理音樂發行等相關事業的LOEN
 MUSIC()更名為「[1theK](https://zh.wikipedia.org/wiki/1theK "wikilink")」()，希望躍升成為一個全球性的K-POP樞紐。
@@ -33,7 +33,7 @@ MUSIC()更名為「[1theK](https://zh.wikipedia.org/wiki/1theK "wikilink")」()�
 2015年11月25日，LOEN娛樂宣佈決定投資[A
 Cube娛樂的](https://zh.wikipedia.org/wiki/A_Cube娛樂 "wikilink")70%股份，以此增加LOEN在製作、藝人經紀部分的競爭力。
 
-2016年1月11日，韓國移動信息服務提供商[Kakao集團表示將以](../Page/Kakao.md "wikilink")1.9兆韓元（15.7億美元）的價格收購韓國頂級音樂流媒體服務提供商LOEN娛樂有限公司76.4%的股份，以開拓新的收入來源。\[3\]
+2016年1月11日，韓國移動信息服務提供商[Kakao](../Page/Kakao.md "wikilink")集團表示將以1.9兆韓元（15.7億美元）的價格收購韓國頂級音樂流媒體服務提供商LOEN娛樂有限公司76.4%的股份，以開拓新的收入來源。\[3\]
 
 2016年3月2日，LOEN娛樂旗下的[A
 Cube娛樂宣佈將正式更名為](https://zh.wikipedia.org/wiki/A_Cube娛樂 "wikilink")「[Plan
@@ -125,7 +125,7 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - （現屬APOP娛樂）
 
-  - Cheska（前[FIESTAR成員](../Page/FIESTAR.md "wikilink")）
+  - Cheska（前[FIESTAR](../Page/FIESTAR.md "wikilink")成員）
 
   - [金伊娜](../Page/金伊娜.md "wikilink")（作詞家）
 
@@ -408,7 +408,7 @@ E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[17\]
 
 MEGA MONSTER（原STORY PLANT)是Kakao M与[Studio Dragon
 Corporation](../Page/Studio_Dragon_Corporation.md "wikilink")（[CJ
-E\&M的子公司](../Page/CJ集团.md "wikilink")）合作的一家戏剧制作公司。该公司将在[2018年制作四部电视剧](../Page/2018年.md "wikilink")。
+E\&M的子公司](../Page/CJ集团.md "wikilink")）合作的一家戏剧制作公司。该公司将在[2018年](../Page/2018年.md "wikilink")制作四部电视剧。
 
   - 2015年：NAVER TV/ONSTYLE
     《[我們分手了](../Page/我們分手了_\(韓國網路劇\).md "wikilink")》
@@ -417,7 +417,7 @@ E\&M的子公司](../Page/CJ集团.md "wikilink")）合作的一家戏剧制作�
   - 2015年：[tvN](../Page/TVN.md "wikilink")
     《[不哭鳥](../Page/不哭鳥.md "wikilink")》
   - 2015年：tvN 《[Heart to Heart](../Page/Heart_to_Heart.md "wikilink")》
-    ([綠蛇傳媒与合作伙伴关系](../Page/綠蛇傳媒.md "wikilink"))
+    ([綠蛇傳媒](../Page/綠蛇傳媒.md "wikilink")与合作伙伴关系)
   - 2016年：[MBC](../Page/文化廣播公司.md "wikilink")
     《[家和萬事成](../Page/家和萬事成.md "wikilink")》
   - 2018年：MBC 《[赤月青日](../Page/赤月青日.md "wikilink")》

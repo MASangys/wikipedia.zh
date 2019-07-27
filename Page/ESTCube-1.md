@@ -1,6 +1,6 @@
 **ESTCube-1**為[愛沙尼亞第一顆發射成功的](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")[人造衛星](../Page/人造衛星.md "wikilink")，是作為“[愛沙尼亞學生衛星計畫](https://zh.wikipedia.org/wiki/愛沙尼亞學生衛星計畫 "wikilink")”（Estonian
 Student Satellite
-Program）的一部分內容，而後者計畫為計畫讓高中與大學學生能夠共同參與開發人造衛星的教學項目\[1\]\[2\]。ESTCube-1在工程技術上參考了標準的而成，並於2013年5月7日搭載在[織女星運載火箭上發射升空](../Page/織女星運載火箭.md "wikilink")\[3\]。
+Program）的一部分內容，而後者計畫為計畫讓高中與大學學生能夠共同參與開發人造衛星的教學項目\[1\]\[2\]。ESTCube-1在工程技術上參考了標準的而成，並於2013年5月7日搭載在[織女星運載火箭](../Page/織女星運載火箭.md "wikilink")上發射升空\[3\]。
 
 ## 設計
 
@@ -19,7 +19,7 @@ Group負責監督](https://zh.wikipedia.org/wiki/CGI_Group "wikilink")。而在�
 
 儘管ESTCube-1其重點放在教導學生關於衛星製作等技術，然而同時也包含了其科學研究目的\[6\]。在衛星上裝備有芬蘭科學家所發明的[電動帆](../Page/電動帆.md "wikilink")，在ESTCube-1繞行期間透過10公尺長、20微米至50微米粗細線組成的電動帆進行操作，藉此降低衛星自轉的速度或者是改變攝影鏡頭的方向\[7\]。其中電動帆的原理為在衛星內部配置有電子控制儀器以及兩個操作電動帆的，藉由電子之間的交互作用以及地球周遭[電漿的撞擊控制方向](https://zh.wikipedia.org/wiki/電漿 "wikilink")\[8\]。
 
-在任務實驗進行時將會自電子發射器射出500伏特的電子，接著測試位於[電離層的帶電離子便會受到帶正電的電動帆影響而改變衛星的旋轉方向的程度](https://zh.wikipedia.org/wiki/電離層 "wikilink")；而這次實驗其效果測試結束後將會啟動另一邊的電動帆，來證實是否能夠藉由電動帆來控制衛星所繞行的軌道。另外在衛星上還搭載有[CMOS彩色攝影鏡頭](../Page/互補式金屬氧化物半導體.md "wikilink")，能夠提供[RAW格式的](../Page/RAW.md "wikilink")[VGA圖像](https://zh.wikipedia.org/wiki/視訊圖形陣列 "wikilink")，而其主要目的為拍攝地球照片以及監控電動帆的使用。
+在任務實驗進行時將會自電子發射器射出500伏特的電子，接著測試位於[電離層的帶電離子便會受到帶正電的電動帆影響而改變衛星的旋轉方向的程度](https://zh.wikipedia.org/wiki/電離層 "wikilink")；而這次實驗其效果測試結束後將會啟動另一邊的電動帆，來證實是否能夠藉由電動帆來控制衛星所繞行的軌道。另外在衛星上還搭載有[CMOS彩色攝影鏡頭](../Page/互補式金屬氧化物半導體.md "wikilink")，能夠提供[RAW](../Page/RAW.md "wikilink")格式的[VGA圖像](https://zh.wikipedia.org/wiki/視訊圖形陣列 "wikilink")，而其主要目的為拍攝地球照片以及監控電動帆的使用。
 
 ### 投資成本
 
@@ -27,7 +27,7 @@ Group負責監督](https://zh.wikipedia.org/wiki/CGI_Group "wikilink")。而在�
 
 ## 發射
 
-ESTCube-1的發射計畫是由所負責，在2013年5月7日2時6分31秒（UTC）搭載有衛星的[織女星運載火箭自](../Page/織女星運載火箭.md "wikilink")[蓋亞那太空中心](https://zh.wikipedia.org/wiki/蓋亞那太空中心 "wikilink")發射升空\[9\]。為了能夠完成任務內容並且獲得最佳的衛星通訊，衛星的繞行軌道設定在海拔高度670公里的[太陽同步軌道上](https://zh.wikipedia.org/wiki/太陽同步軌道 "wikilink")。
+ESTCube-1的發射計畫是由所負責，在2013年5月7日2時6分31秒（UTC）搭載有衛星的[織女星運載火箭](../Page/織女星運載火箭.md "wikilink")自[蓋亞那太空中心](https://zh.wikipedia.org/wiki/蓋亞那太空中心 "wikilink")發射升空\[9\]。為了能夠完成任務內容並且獲得最佳的衛星通訊，衛星的繞行軌道設定在海拔高度670公里的[太陽同步軌道上](https://zh.wikipedia.org/wiki/太陽同步軌道 "wikilink")。
 
 ## 參見
 

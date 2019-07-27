@@ -3,7 +3,7 @@
 
 ## 简介
 
-MAS-36是一种短小、轻便的[卡宾枪型步枪](../Page/卡宾枪.md "wikilink")，使用两段式枪托，與其他步枪相比，其机匣也更加光滑。此枪使用1929年开始制造的现代无底缘弹[7.5×54毫米法国步枪弹](../Page/7.5×54mm法國步槍彈.md "wikilink")，这是[FM-24/29輕機槍所用的](https://zh.wikipedia.org/wiki/FM-24/29輕機槍 "wikilink")的缩短版。此款步枪设计时融入了法国参加[一战时积累的经验](https://zh.wikipedia.org/wiki/一战 "wikilink")，并借鉴了战争中使用的其他步枪的特性，如英国的[李-恩菲爾德步槍](../Page/李-恩菲爾德步槍.md "wikilink")（枪机后方设置闭锁突耳保证可靠性）、美国的[恩菲尔德M1917步枪](https://zh.wikipedia.org/wiki/恩菲尔德M1917 "wikilink")（枪机柄朝下弯曲，加入[觇空照门](https://zh.wikipedia.org/wiki/照门 "wikilink")）与德国[毛瑟枪](https://zh.wikipedia.org/wiki/毛瑟枪 "wikilink")
+MAS-36是一种短小、轻便的[卡宾枪](../Page/卡宾枪.md "wikilink")型步枪，使用两段式枪托，與其他步枪相比，其机匣也更加光滑。此枪使用1929年开始制造的现代无底缘弹[7.5×54毫米法国步枪弹](../Page/7.5×54mm法國步槍彈.md "wikilink")，这是[FM-24/29輕機槍所用的](https://zh.wikipedia.org/wiki/FM-24/29輕機槍 "wikilink")的缩短版。此款步枪设计时融入了法国参加[一战时积累的经验](https://zh.wikipedia.org/wiki/一战 "wikilink")，并借鉴了战争中使用的其他步枪的特性，如英国的[李-恩菲爾德步槍](../Page/李-恩菲爾德步槍.md "wikilink")（枪机后方设置闭锁突耳保证可靠性）、美国的[恩菲尔德M1917步枪](https://zh.wikipedia.org/wiki/恩菲尔德M1917 "wikilink")（枪机柄朝下弯曲，加入[觇空照门](https://zh.wikipedia.org/wiki/照门 "wikilink")）与德国[毛瑟枪](https://zh.wikipedia.org/wiki/毛瑟枪 "wikilink")
 （5
 发盒型弹倉），以造出“丑陋、粗糙但又极为健壮可靠”的军用步枪。\[1\]MAS-36步枪的拉机柄特别的朝前弯曲，借此使士兵的手可以更方便地操控之，\[2\]同时还有个相对较短的枪管。在后方的大孔觇孔照门，和在前方的尖头[准星的高度](https://zh.wikipedia.org/wiki/准星 "wikilink")，都可以调整，以适合不同的射程。另外，恰如当时的法国步枪的特点，MAS-36並無手动[保险装置](https://zh.wikipedia.org/wiki/保险装置 "wikilink")。\[3\]
 
@@ -17,10 +17,10 @@ MAS-36是一种短小、轻便的[卡宾枪型步枪](../Page/卡宾枪.md "wiki
 
 ## 二战后的使用
 
-在法国战后于各殖民地的平叛行动中，MAS-36在法国及其殖民地的军队得到广泛使用，如在[法越战争](https://zh.wikipedia.org/wiki/法越战争 "wikilink")、[阿尔及利亚战争和](../Page/阿尔及利亚战争.md "wikilink")[第二次中东战争中都有它们的身影](../Page/第二次中东战争.md "wikilink")。[第二次中东战争期间](../Page/第二次中东战争.md "wikilink")，法國2ème
+在法国战后于各殖民地的平叛行动中，MAS-36在法国及其殖民地的军队得到广泛使用，如在[法越战争](https://zh.wikipedia.org/wiki/法越战争 "wikilink")、[阿尔及利亚战争](../Page/阿尔及利亚战争.md "wikilink")和[第二次中东战争](../Page/第二次中东战争.md "wikilink")中都有它们的身影。[第二次中东战争](../Page/第二次中东战争.md "wikilink")期间，法國2ème
 RPC空降部隊射手曾以配有狙擊鏡的MAS-36反制敵方狙擊手，而MAS-36在1960年代初期卻成了殖民地軍隊的步槍。自從法國1949年起採用半自動步槍[MAS-49以後](../Page/MAS-49半自动步枪.md "wikilink")，MAS-36便正式退居二線。但其狙擊槍等級的槍機設計，卻仍保留在[FR-F1狙擊步槍](../Page/FR-F1狙擊步槍.md "wikilink")（目前可裝填[7.62×51毫米北約制式彈藥](../Page/7.62×51mm_NATO.md "wikilink")）及其後繼款[FR-F2上](../Page/FR-F2狙擊步槍.md "wikilink")。
 
-二戰結束後，MAS以及槍匠吉恩·富尼耶將MAS-36改造為民用獵槍。成了半[槍托型獵槍後](../Page/槍托.md "wikilink")，還可裝填各種子彈，例如7×54毫米富尼耶彈（常見將7.5×54毫米改小為7毫米）、7×57毫米（很少見）、8×60毫米S（不常見），以及
+二戰結束後，MAS以及槍匠吉恩·富尼耶將MAS-36改造為民用獵槍。成了半[槍托](../Page/槍托.md "wikilink")型獵槍後，還可裝填各種子彈，例如7×54毫米富尼耶彈（常見將7.5×54毫米改小為7毫米）、7×57毫米（很少見）、8×60毫米S（不常見），以及
 10.75×68毫米（少見），後2型的槍款還配備有整合式槍口制退器。
 
 法國也曾將軍方多餘的MAS-36輸出到美國，並將彈藥規格從7.5×54毫米修改為7.62×51毫米北約制式彈。不僅裝填形式改變，也添加了[SKS的扳機保險裝置](https://zh.wikipedia.org/wiki/SKS "wikilink")。

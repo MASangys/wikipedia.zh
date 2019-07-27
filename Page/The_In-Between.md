@@ -1,5 +1,5 @@
 《**The In-Between**》
-是[香港歌手](../Page/香港.md "wikilink")[馮允謙個人第三張](../Page/馮允謙.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2014年9月12日正式發行，一共收錄八首歌曲。\[1\]
+是[香港](../Page/香港.md "wikilink")歌手[馮允謙](../Page/馮允謙.md "wikilink")個人第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2014年9月12日正式發行，一共收錄八首歌曲。\[1\]
 
 ## 曲目
 

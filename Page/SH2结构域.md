@@ -2,19 +2,19 @@
 
 ## 介绍
 
-蛋白质-蛋白质互作在细胞生长与发育过程中起到重要的作用。作为蛋白质亚单位的模块化的结构域通过识别短肽序列的方式调控这些蛋白质互作。SH2结构域就是比较著名的结构域之一。SH2结构域在细胞通讯之中起到了重要作用。这一结构域长约100个氨基酸，存在于111种人体蛋白质中\[4\]。究其结构，该结构域包含两股[α螺旋及七股](https://zh.wikipedia.org/wiki/α螺旋 "wikilink")[β链](https://zh.wikipedia.org/wiki/β链 "wikilink")。研究显示其与[磷酸化的](../Page/磷酸化.md "wikilink")[酪氨酸残基有较高的亲和力且已知其可以识别一段](../Page/酪氨酸.md "wikilink")[模体肽链中](https://zh.wikipedia.org/wiki/短线性模体 "wikilink")3～6个氨基酸序列。
+蛋白质-蛋白质互作在细胞生长与发育过程中起到重要的作用。作为蛋白质亚单位的模块化的结构域通过识别短肽序列的方式调控这些蛋白质互作。SH2结构域就是比较著名的结构域之一。SH2结构域在细胞通讯之中起到了重要作用。这一结构域长约100个氨基酸，存在于111种人体蛋白质中\[4\]。究其结构，该结构域包含两股[α螺旋及七股](https://zh.wikipedia.org/wiki/α螺旋 "wikilink")[β链](https://zh.wikipedia.org/wiki/β链 "wikilink")。研究显示其与[磷酸化](../Page/磷酸化.md "wikilink")的[酪氨酸](../Page/酪氨酸.md "wikilink")残基有较高的亲和力且已知其可以识别一段[模体肽链中](https://zh.wikipedia.org/wiki/短线性模体 "wikilink")3～6个氨基酸序列。
 
 ## 结合与磷酸化
 
 SH2结构域通常结合到靶蛋白中较长肽基序中的[磷酸化酪氨酸残基上](https://zh.wikipedia.org/wiki/磷酸酪氨酸 "wikilink")，SH2结构域代表了最大一类已知磷酸酪氨酸识别结构域\[5\]\[6\]。
 
-蛋白质中的[磷酸化酪氨酸残基往往存在于信号转导通路中](../Page/磷酸化.md "wikilink")，这一信号由[酪氨酸激酶产生](https://zh.wikipedia.org/wiki/酪氨酸激酶 "wikilink")。通过这种方式，由酪氨酸激酶所致的[底物磷酸化行使了开关的作用](https://zh.wikipedia.org/wiki/底物_\(生物化学\) "wikilink")，诱发含SH2结构域的蛋白结合上来。结合到SH2结构域上的多种含酪氨酸的短线性基序在多种高等真核生物间都很保守\[7\]。在真核生物进化过程中，酪氨酸激酶与SH2结构域同时出现，证明了它们之间的紧密联系性。
+蛋白质中的[磷酸化](../Page/磷酸化.md "wikilink")酪氨酸残基往往存在于信号转导通路中，这一信号由[酪氨酸激酶产生](https://zh.wikipedia.org/wiki/酪氨酸激酶 "wikilink")。通过这种方式，由酪氨酸激酶所致的[底物磷酸化行使了开关的作用](https://zh.wikipedia.org/wiki/底物_\(生物化学\) "wikilink")，诱发含SH2结构域的蛋白结合上来。结合到SH2结构域上的多种含酪氨酸的短线性基序在多种高等真核生物间都很保守\[7\]。在真核生物进化过程中，酪氨酸激酶与SH2结构域同时出现，证明了它们之间的紧密联系性。
 
 ## 多样性
 
-SH2结构域并不存在于单细胞的[酵母之中](../Page/酵母.md "wikilink")，而存在于[单细胞生物与多细胞的](https://zh.wikipedia.org/wiki/单细胞生物 "wikilink")[动物之间的边缘生物中](https://zh.wikipedia.org/wiki/动物界 "wikilink")，如社会性变形虫[盘基网柄菌](https://zh.wikipedia.org/wiki/盘基网柄菌 "wikilink")\[8\]。
+SH2结构域并不存在于单细胞的[酵母](../Page/酵母.md "wikilink")之中，而存在于[单细胞生物与多细胞的](https://zh.wikipedia.org/wiki/单细胞生物 "wikilink")[动物之间的边缘生物中](https://zh.wikipedia.org/wiki/动物界 "wikilink")，如社会性变形虫[盘基网柄菌](https://zh.wikipedia.org/wiki/盘基网柄菌 "wikilink")\[8\]。
 
-前人做过详尽的对[人类及](https://zh.wikipedia.org/wiki/人类 "wikilink")[小鼠中SH](https://zh.wikipedia.org/wiki/小鼠 "wikilink")2结构域的[生物信息学检测](../Page/生物信息学.md "wikilink")，发现人类基因组编码出的115种蛋白质中包含了120个SH2结构域\[9\]，这意味着SH2结构域的进化速度很快。
+前人做过详尽的对[人类及](https://zh.wikipedia.org/wiki/人类 "wikilink")[小鼠中SH](https://zh.wikipedia.org/wiki/小鼠 "wikilink")2结构域的[生物信息学](../Page/生物信息学.md "wikilink")检测，发现人类基因组编码出的115种蛋白质中包含了120个SH2结构域\[9\]，这意味着SH2结构域的进化速度很快。
 
 现已解析出大量SH2结构域的结构，亦构建出敲除含SH2结构域的那些蛋白质的基因敲除鼠。可在[这个网站](https://web.archive.org/web/20060910123443/http://sh2.uchicago.edu/)上找到这些敲除小鼠的信息\[10\]。
 

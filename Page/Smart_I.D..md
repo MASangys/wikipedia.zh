@@ -1,5 +1,5 @@
 《**Smart
-I.D.**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[李克勤的粵語個人專輯](../Page/李克勤.md "wikilink")，於2004年6月18日發行\[1\]\[2\]。
+I.D.**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[李克勤](../Page/李克勤.md "wikilink")的粵語個人專輯，於2004年6月18日發行\[1\]\[2\]。
 
 ## 曲目
 

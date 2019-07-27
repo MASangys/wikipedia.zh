@@ -1,8 +1,8 @@
-**株式會社MAPPA**（，）於2011年成立，是[日本一家](../Page/日本.md "wikilink")[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
+**株式會社MAPPA**（，）於2011年成立，是[日本](../Page/日本.md "wikilink")一家[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 概要
 
-MAPPA是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2011年6月，由時年70歲從[MADHOUSE退職的前社長與共同創社人](../Page/MADHOUSE.md "wikilink")[丸山正雄另外在](../Page/丸山正雄.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區成立](../Page/杉並區.md "wikilink")\[1\]。
+MAPPA是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2011年6月，由時年70歲從[MADHOUSE](../Page/MADHOUSE.md "wikilink")退職的前社長與共同創社人[丸山正雄](../Page/丸山正雄.md "wikilink")另外在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")成立\[1\]。
 
 2016年4月，MAPPA社長由以前和丸山一起創立MAPPA的大塚學接任。至於丸山則轉任會長，並兼任同一時間跟MAPPA成立的「M2工作室」社長。
 
@@ -11,7 +11,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 
 2016年11月，電影動畫《[這個世界的角落](../Page/這個世界的角落.md "wikilink")》入圍[第40回日本電影金像獎最優秀作品獎](https://zh.wikipedia.org/wiki/第40回日本電影金像獎 "wikilink")。
 
-2018年4月2日，在[宮城縣](../Page/宮城縣.md "wikilink")[仙台市開設分工作室](../Page/仙台市.md "wikilink")\[2\]\[3\]\[4\]。
+2018年4月2日，在[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")開設分工作室\[2\]\[3\]\[4\]。
 
 ## 作品列表
 
@@ -39,7 +39,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 <td><p>4月－6月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/渡邊信一郎" title="wikilink">渡邊信一郎</a></p></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/手塚製作公司.md" title="wikilink">手塚製作公司共同製作</a></p></td>
+<td><p>與<a href="../Page/手塚製作公司.md" title="wikilink">手塚製作公司</a>共同製作</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/庭球社.md" title="wikilink">庭球社</a></p></td>
@@ -59,7 +59,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 <td><p>10月－2014年3月</p></td>
 <td><p><a href="../Page/宍戶淳.md" title="wikilink">宍戶淳</a><br />
 西村聰</p></td>
-<td><p>與<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE共同製作</a></p></td>
+<td><p>與<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE</a>共同製作</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -97,7 +97,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 <td><p>4月－6月</p></td>
 <td><p>上村泰</p></td>
 <td><p>原創</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/角川多玩國" title="wikilink">MAGES.和</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台共同企劃</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/角川多玩國" title="wikilink">MAGES.和</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>共同企劃</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/潮與虎" title="wikilink">潮與虎</a></p></td>
@@ -216,7 +216,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 <td><p>2019年</p></td>
 <td><p>狂賭之淵××</p></td>
 <td></td>
-<td><p>1月－未定</p></td>
+<td><p>1月－3月</p></td>
 <td><p>林祐一郎</p></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -224,20 +224,38 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 <tr class="odd">
 <td><p><a href="../Page/多羅羅.md" title="wikilink">多羅羅</a></p></td>
 <td></td>
+<td><p>1月－6月</p></td>
 <td><p>古橋一浩</p></td>
 <td><p>與手塚製作公司共同製作</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/皿三昧.md" title="wikilink">皿三昧</a></p></td>
 <td></td>
-<td><p>4月－未定</p></td>
+<td><p>4月－6月</p></td>
 <td><p><a href="../Page/幾原邦彥.md" title="wikilink">幾原邦彥</a></p></td>
 <td><p>原創</p></td>
 <td><p>與Lapin Track共同製作</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/獵獸神兵.md" title="wikilink">獵獸神兵</a></p></td>
+<td></td>
+<td><p>7月－</p></td>
+<td><p><a href="../Page/宍戶淳.md" title="wikilink">宍戶淳</a></p></td>
+<td><p>漫畫</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>淘氣貓2020</p></td>
+<td></td>
+<td><p>1月－</p></td>
+<td><p>松田清</p></td>
+<td><p>原創</p></td>
+<td><p>與Lapin Track共同製作</p></td>
 </tr>
 </tbody>
 </table>
@@ -289,7 +307,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
       - Tweet Mystery 「」篇
 
       - Tweet Fantasy 「」篇
-  - [新潟市動畫計畫](../Page/新潟市.md "wikilink")（）宣傳影片－「古町和團子郎」（2012年11月10日於「」展覽會展出。）
+  - [新潟市](../Page/新潟市.md "wikilink")動畫計畫（）宣傳影片－「古町和團子郎」（2012年11月10日於「」展覽會展出。）
   - [豐田](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[ITS汽車](../Page/智慧型運輸系統.md "wikilink")「Ha:mo」的概念影片－「約束之路」（2012年）
   - [NHK震災復興支援歌曲](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")「[花正在開](../Page/花正在開.md "wikilink")」動畫版PV（2013年）
 
@@ -342,7 +360,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 </tbody>
 </table>
 
-## 來源
+## 參考來源
 
 ## 相關項目
 

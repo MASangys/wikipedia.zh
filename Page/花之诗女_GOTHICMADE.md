@@ -3,7 +3,7 @@
 
 ## 概要
 
-2006年第五期《[NewType](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")》上公开了永野护主创的电影动画《GOTHICMADE-花之诗女》的企划，原作、导演、剧本、分镜、设计、原画，全由永野護一人担当\[4\]\[5\]。片中出现的类似《[五星物语](https://zh.wikipedia.org/wiki/五星物语 "wikilink")》中[MH的机器人GTM将不采用](https://zh.wikipedia.org/wiki/电气骑士 "wikilink")[CG构图而是全部由永野护亲自担任](https://zh.wikipedia.org/wiki/CG "wikilink")[原画以手绘完成](../Page/原画.md "wikilink")\[6\]。辗转5年经过多次延期之后于2011年的“C3×HOBBY”周边展上再次公开将于2012年上映的消息\[7\]。此外，《五星物语》在2013年4月对在此之前的设定进行了大幅的变更，承接本作的设定，在时隔9年之后再次开启连载。因此，本作的情节也被编入“五星物语年表”（星团历451年）\[8\]。
+2006年第五期《[NewType](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")》上公开了永野护主创的电影动画《GOTHICMADE-花之诗女》的企划，原作、导演、剧本、分镜、设计、原画，全由永野護一人担当\[4\]\[5\]。片中出现的类似《[五星物语](https://zh.wikipedia.org/wiki/五星物语 "wikilink")》中[MH的机器人GTM将不采用](https://zh.wikipedia.org/wiki/电气骑士 "wikilink")[CG构图而是全部由永野护亲自担任](https://zh.wikipedia.org/wiki/CG "wikilink")[原画](../Page/原画.md "wikilink")以手绘完成\[6\]。辗转5年经过多次延期之后于2011年的“C3×HOBBY”周边展上再次公开将于2012年上映的消息\[7\]。此外，《五星物语》在2013年4月对在此之前的设定进行了大幅的变更，承接本作的设定，在时隔9年之后再次开启连载。因此，本作的情节也被编入“五星物语年表”（星团历451年）\[8\]。
 
 2012年10月10日发售的《[五星物語](../Page/五星物語.md "wikilink")》限期发售特价版[蓝光光盘中](https://zh.wikipedia.org/wiki/蓝光光盘 "wikilink")，关于本作的特别指导[DVD被作为特典附送其中](https://zh.wikipedia.org/wiki/DVD "wikilink")\[9\]。
 
@@ -81,7 +81,7 @@ JET SERVICE的协助，处处体现了永野护的个人特色。因此，在201
 
   - 主題歌《空之皇子 花之诗女》（） 配乐：長岡成貢、演唱：川村万梨阿
     [iTunes
-    Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[RecoChoku上的卡拉OK版本以每首](../Page/RecoChoku.md "wikilink")250日元（含税）发售\[32\]。
+    Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[RecoChoku](../Page/RecoChoku.md "wikilink")上的卡拉OK版本以每首250日元（含税）发售\[32\]。
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@ JET SERVICE的协助，处处体现了永野护的个人特色。因此，在201
 ## 网络电台节目
 
 《GTM Podcast
-まも☆しん》是2012年1月26日至2012年12月26日之间，以[播客节目的方式每月预计两集不定期更新](../Page/播客.md "wikilink")。全14集＋特別篇。节目的录制在角川書店社長室进行\[34\]。演出以及节目的主持人为导演——被叫做“まも”的永野和角川書店社長——被叫做“しん”的井上伸一郎。特別篇“のぞ☆まり”由扮演托里哈隆的佐佐木望（被叫做‘のぞ’）和扮演贝琳的川村万梨阿（被叫做‘まり’）担任主持人。
+まも☆しん》是2012年1月26日至2012年12月26日之间，以[播客](../Page/播客.md "wikilink")节目的方式每月预计两集不定期更新。全14集＋特別篇。节目的录制在角川書店社長室进行\[34\]。演出以及节目的主持人为导演——被叫做“まも”的永野和角川書店社長——被叫做“しん”的井上伸一郎。特別篇“のぞ☆まり”由扮演托里哈隆的佐佐木望（被叫做‘のぞ’）和扮演贝琳的川村万梨阿（被叫做‘まり’）担任主持人。
 \[35\]
 
   - 2012年1月26日 まも☆しん \#00 23分 没有标题

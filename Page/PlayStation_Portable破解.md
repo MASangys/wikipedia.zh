@@ -5,9 +5,9 @@ Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）上执行的过程
 
 ## 破解历史
 
-自2004年[索尼电脑娱乐旗下](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[掌上游戏机PSP发售后](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")，[黑客就开始在PSP上探索可能被用于在设备上运行未签名代码的漏洞](https://zh.wikipedia.org/wiki/黑客_\(爱好者\) "wikilink")。2005年5月，[索尼发布的](../Page/索尼.md "wikilink")[PSP固件1.51版封堵了黑客们用来获得对设备访问权限的漏洞](https://zh.wikipedia.org/wiki/PlayStation_Portable系統軟體#1.51版 "wikilink")\[1\]。2005年6月15日黑客将PSP的代码散布在[互联网上](../Page/互联网.md "wikilink")。由于黑客拒绝将导致他们的破解程序无法使用的应用更新，因此索尼试图说服用户进行系统升级的好处包括新增功能和固件更新，如新增[Web浏览器](https://zh.wikipedia.org/wiki/Web浏览器 "wikilink")，而不仅仅是安全补丁、堵塞漏洞的新功能升级。《[商业周刊](https://zh.wikipedia.org/wiki/商业周刊 "wikilink")》戏称此为“胡萝卜加大棒”法\[2\]。
+自2004年[索尼电脑娱乐旗下](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[掌上游戏机PSP发售后](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")，[黑客就开始在PSP上探索可能被用于在设备上运行未签名代码的漏洞](https://zh.wikipedia.org/wiki/黑客_\(爱好者\) "wikilink")。2005年5月，[索尼](../Page/索尼.md "wikilink")发布的[PSP固件1.51版封堵了黑客们用来获得对设备访问权限的漏洞](https://zh.wikipedia.org/wiki/PlayStation_Portable系統軟體#1.51版 "wikilink")\[1\]。2005年6月15日黑客将PSP的代码散布在[互联网](../Page/互联网.md "wikilink")上。由于黑客拒绝将导致他们的破解程序无法使用的应用更新，因此索尼试图说服用户进行系统升级的好处包括新增功能和固件更新，如新增[Web浏览器](https://zh.wikipedia.org/wiki/Web浏览器 "wikilink")，而不仅仅是安全补丁、堵塞漏洞的新功能升级。《[商业周刊](https://zh.wikipedia.org/wiki/商业周刊 "wikilink")》戏称此为“胡萝卜加大棒”法\[2\]。
 
-2005年8月索尼发布，包含有Web浏览器、对文件兼容性的更新和其他功能的[固件2.0版本](https://zh.wikipedia.org/wiki/PlayStation_Portable系統軟體#2.0版 "wikilink")\[3\]。黑客和其他爱好者遇到了PSP上的第一个[木马病毒](../Page/特洛伊木马_\(电脑\).md "wikilink")，[赛门铁克将这种木马命名为](../Page/赛门铁克.md "wikilink")“Trojan.PSPBrick”\[4\]。当用户尝试使用这个软件来为自己的PSP进行时，会发现这是无法进行的操作，因为这软件会强制删除重要的系统文件\[5\]。在2005年期间，索尼对PSP进行了六次固件升级，而每次黑客都会对PSP进行降级以避免新的安全更新\[6\]。
+2005年8月索尼发布，包含有Web浏览器、对文件兼容性的更新和其他功能的[固件2.0版本](https://zh.wikipedia.org/wiki/PlayStation_Portable系統軟體#2.0版 "wikilink")\[3\]。黑客和其他爱好者遇到了PSP上的第一个[木马病毒](../Page/特洛伊木马_\(电脑\).md "wikilink")，[赛门铁克](../Page/赛门铁克.md "wikilink")将这种木马命名为“Trojan.PSPBrick”\[4\]。当用户尝试使用这个软件来为自己的PSP进行时，会发现这是无法进行的操作，因为这软件会强制删除重要的系统文件\[5\]。在2005年期间，索尼对PSP进行了六次固件升级，而每次黑客都会对PSP进行降级以避免新的安全更新\[6\]。
 
 在2006年中期，在成功破解PSP固件几个月后，一个可以使新PSP主机将2.6版本系统固件降级到1.5版本的文件被发布到网上，之后他们也可以使用旧的方法进行破解操作。这一消息引起社会各界的比对近期官方产品信息更多的关注。\[7\]
 
@@ -28,7 +28,7 @@ One游戏光盘镜像转制成的PSP格式文件](../Page/PlayStation.md "wikili
 ### Half Byte Loader
 
 Half Byte
-Loader（半字节加载程序，也被称为HBL）是一个[开源软件项目](../Page/开源软件.md "wikilink")，目的是通过PSP掌上游戏机上的用户模式漏洞加载自制软件。其不提供任何机制来加载官方游戏或ISO映像。HBL是从头开始建立的，以便可以很容易地移植到任何用户模式漏洞上。该计划由m0skit0和AB5000建立并启动\[14\]\[15\]。之后由WOLOLO进行维护\[16\]。
+Loader（半字节加载程序，也被称为HBL）是一个[开源软件](../Page/开源软件.md "wikilink")项目，目的是通过PSP掌上游戏机上的用户模式漏洞加载自制软件。其不提供任何机制来加载官方游戏或ISO映像。HBL是从头开始建立的，以便可以很容易地移植到任何用户模式漏洞上。该计划由m0skit0和AB5000建立并启动\[14\]\[15\]。之后由WOLOLO进行维护\[16\]。
 
 HBL最初是在《》的漏洞上建立的。其Alpha版本在2009年11月由m0skit0和AB5000以开源形式释出，当时仅能很运行简单的自制程序\[17\]。当《》演示版游戏被发现并释出漏洞后，wololo论坛也加入了这个项目，并提出了端口HBL这个新漏洞\[18\]。曾主持该项目的AdvancedPSP论坛，在主机和项目转移到wololo论坛后就关闭了\[19\]。wololo也在[Google
 Code上为HBL创建了一个新的公共SVN库](https://zh.wikipedia.org/wiki/Google_Code "wikilink")\[20\]。其他的PSP黑客如Davee和neur0n也曾加入，以帮助该端口的开发。啪嗒砰2的HBL进行到beta版本，并于2010年3月被发布，被认为是第一个可实际使用的HBL版本。

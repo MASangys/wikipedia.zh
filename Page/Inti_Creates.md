@@ -11,7 +11,7 @@
   - 2005年4月8日 - 公司所在地迁移至千叶县市川市南八幡。
   - 2005年10月31日 - 资本金增资至3,250万日元。
   - 2008年1月 -
-    在[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村区设立](../Page/中村区.md "wikilink")**名古屋开发部**（名古屋营业所）。
+    在[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")设立**名古屋开发部**（名古屋营业所）。
 
 ## 開發遊戲列表
 
@@ -60,7 +60,7 @@
 <td><p>2017</p></td>
 <td></td>
 <td><p>マイティガンヴォルト バースト</p></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td><p>《麥提鋼佛特》的續作</p></td>
 </tr>
 <tr class="even">
@@ -86,7 +86,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="../Page/血污：夜之仪式.md" title="wikilink">血咒之城：月之詛咒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/血污：夜之仪式#血咒之城：月之詛咒" title="wikilink">血咒之城：月之詛咒</a></p></td>
 <td><p>ブラッドステインド:カース・オブ・ザ・ムーン</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
 <td><p>《<a href="../Page/血污：夜之仪式.md" title="wikilink">血污：夜之仪式</a>》的衍生作品</p></td>
@@ -363,7 +363,7 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="../Page/火影忍者.md" title="wikilink">火影忍者SD 力量全開疾風傳</a></p></td>
+<td><p><a href="../Page/火影忍者.md" title="wikilink">火影忍者 力量全開疾風傳</a>SD</p></td>
 <td><p>NARUTO -ナルト-SD パワフル疾風伝</p></td>
 <td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萬代南夢宮遊戲" title="wikilink">萬代南夢宮遊戲</a></p></td>

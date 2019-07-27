@@ -2,17 +2,17 @@
 
 ## 歷史
 
-SoundCloud最初建立于[瑞典的](../Page/瑞典.md "wikilink")[斯德哥爾摩](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")，2007年8月，由編曲家亞歷山大·埃里恩和藝術家埃里克·華爾福斯于[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林正式成立](../Page/柏林.md "wikilink")。它的原旨是想讓音樂家們能自由交流各自的錄音，但不久它就徹底轉變成了一個同時也能推廣音樂家曲目的公開平臺。\[3\]
+SoundCloud最初建立于[瑞典](../Page/瑞典.md "wikilink")的[斯德哥爾摩](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")，2007年8月，由編曲家亞歷山大·埃里恩和藝術家埃里克·華爾福斯于[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林](../Page/柏林.md "wikilink")正式成立。它的原旨是想讓音樂家們能自由交流各自的錄音，但不久它就徹底轉變成了一個同時也能推廣音樂家曲目的公開平臺。\[3\]
 
 在架設後的幾個月裡，SoundCloud開始挑戰[MySpace的優勢](https://zh.wikipedia.org/wiki/MySpace "wikilink")。\[4\]
 
 2009年，在接受*《[連線](https://zh.wikipedia.org/wiki/連線 "wikilink")》*雜誌的採訪中，創始人之一亞歷山大·埃里恩說道：
 
-> “我們都因為音樂聯繫在一起，所以我們對和人們在音樂上合作感到真的非常、非常惱火——我指那些簡單的合作：僅僅私下裡把作品給別人，從他們得到一些反饋，并就這段音樂談論幾句。同樣的情況下我們可以用[Flickr分享照片](../Page/Flickr.md "wikilink")，還有[Vimeo分享影片](../Page/Vimeo.md "wikilink")，但我們沒有屬於音樂的交流平台。”\[5\]
+> “我們都因為音樂聯繫在一起，所以我們對和人們在音樂上合作感到真的非常、非常惱火——我指那些簡單的合作：僅僅私下裡把作品給別人，從他們得到一些反饋，并就這段音樂談論幾句。同樣的情況下我們可以用[Flickr](../Page/Flickr.md "wikilink")分享照片，還有[Vimeo](../Page/Vimeo.md "wikilink")分享影片，但我們沒有屬於音樂的交流平台。”\[5\]
 
 2009年4月，[道提韩森科技创投公司给予SoundCloud](https://zh.wikipedia.org/wiki/道提韩森科技创投公司 "wikilink")250万欧元的A系列资金\[6\]。2010年5月，SoundCloud用户数达100万\[7\]。2011年1月，SoundCloud已由联合广场风险指数投资公司筹集B轮融资。2011年6月15日，用户数达500万，[阿什顿·库彻和](https://zh.wikipedia.org/wiki/阿什顿·库彻 "wikilink")[盖·奥西瑞的顶级基金投资SoundCloud](https://zh.wikipedia.org/wiki/盖·奥西瑞 "wikilink")。2012年1月23日，用户数达1000万，官方博客创建\[8\]。2012年12月，新版页面正式上线，同时推出全站音乐列表播出及阅读掩盖[波形的评论](https://zh.wikipedia.org/wiki/波形 "wikilink")。2014年5月，SoundCloud电邮通知注册用户旧版入口关闭。
 
-2014年3月，据报道SoundCloud就出现在平台上的版权受保护的材料的许可证，与各大唱片公司谈判，力求避免出现[Google和](../Page/Google.md "wikilink")[YouTube被迫处理大量删除通知的情况](../Page/YouTube.md "wikilink")\[9\]。
+2014年3月，据报道SoundCloud就出现在平台上的版权受保护的材料的许可证，与各大唱片公司谈判，力求避免出现[Google](../Page/Google.md "wikilink")和[YouTube](../Page/YouTube.md "wikilink")被迫处理大量删除通知的情况\[9\]。
 
 ## 特色
 
@@ -55,7 +55,7 @@ SoundCloud会向用户提供付费订阅。若用户希望上传2个小时的内
 
 ## 應用程式
 
-SoundCloud的App已在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[21\]和[Android平台发行](../Page/Android.md "wikilink")\[22\]。
+SoundCloud的App已在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[21\]和[Android](../Page/Android.md "wikilink")平台发行\[22\]。
 
 ## 接受度
 

@@ -1,5 +1,5 @@
 **S Ori
-52**是位於[獵戶座](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")[參宿三星團](../Page/參宿三.md "wikilink")（獵戶座δ星團）中，[光譜類型L](https://zh.wikipedia.org/wiki/恆星分類#冷且紅和棕矮星類型 "wikilink")，性質尚不確定的一個天體。首度觀測到它的是[毛納基山的](https://zh.wikipedia.org/wiki/毛納基山 "wikilink")[凱克望遠鏡](https://zh.wikipedia.org/wiki/凱克望遠鏡 "wikilink")\[1\]，估計它的質量在2-8[木星質量之間](../Page/木星.md "wikilink")\[2\]。這個天體的確切性質仍有爭議，研究顯示它可能是[次棕矮星](../Page/次棕矮星.md "wikilink")\[3\]，一顆[流浪行星](../Page/星際行星.md "wikilink")\[4\]，或這只是單純已經衰老的棕矮星，躺在星群之前的前景星\[5\]。
+52**是位於[獵戶座](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")[參宿三](../Page/參宿三.md "wikilink")星團（獵戶座δ星團）中，[光譜類型L](https://zh.wikipedia.org/wiki/恆星分類#冷且紅和棕矮星類型 "wikilink")，性質尚不確定的一個天體。首度觀測到它的是[毛納基山的](https://zh.wikipedia.org/wiki/毛納基山 "wikilink")[凱克望遠鏡](https://zh.wikipedia.org/wiki/凱克望遠鏡 "wikilink")\[1\]，估計它的質量在2-8[木星](../Page/木星.md "wikilink")質量之間\[2\]。這個天體的確切性質仍有爭議，研究顯示它可能是[次棕矮星](../Page/次棕矮星.md "wikilink")\[3\]，一顆[流浪行星](../Page/星際行星.md "wikilink")\[4\]，或這只是單純已經衰老的棕矮星，躺在星群之前的前景星\[5\]。
 
 ## 參考資料
 

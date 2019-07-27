@@ -1,4 +1,4 @@
-**Openswan**，一個自由軟體專案，提供[IPsec功能](../Page/IPsec.md "wikilink")，可在[Linux與](../Page/Linux.md "wikilink")[FreeBSD作業系統上運作](../Page/FreeBSD.md "wikilink")，採用[GPL釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。可支援[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")
+**Openswan**，一個自由軟體專案，提供[IPsec](../Page/IPsec.md "wikilink")功能，可在[Linux](../Page/Linux.md "wikilink")與[FreeBSD](../Page/FreeBSD.md "wikilink")作業系統上運作，採用[GPL釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。可支援[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")
 2.0，2.2，2.4 與 2.6版本。
 
 ## 歷史

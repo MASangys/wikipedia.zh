@@ -1,5 +1,5 @@
 ****
-（中国大陆译为“重生娱乐”）是一家位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶谢尔曼奥克斯市的](../Page/洛杉矶.md "wikilink")[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，公司成立於2010年，由開發了知名[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[使命召喚](https://zh.wikipedia.org/wiki/使命召喚系列 "wikilink")》系列的
+（中国大陆译为“重生娱乐”）是一家位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")谢尔曼奥克斯市的[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，公司成立於2010年，由開發了知名[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[使命召喚](https://zh.wikipedia.org/wiki/使命召喚系列 "wikilink")》系列的
 [Infinity Ward](../Page/Infinity_Ward.md "wikilink") 工作室的兩位共同創辦人Jason
 West、Vince
 Zampella及一些前員工組成。\[1\]公司于2017年被[EA收购](https://zh.wikipedia.org/wiki/EA "wikilink")。\[2\]
@@ -16,7 +16,7 @@ West和Vince
 Zampella，共且他們二人的職位由動視的[首席技術官Steve](https://zh.wikipedia.org/wiki/首席技術官 "wikilink")
 Pearce及公司生產部主管Steve Ackrich暫時補上。\[5\]
 
-2010年4月12日，據[洛杉磯時報報導](../Page/洛杉磯時報.md "wikilink")，Jason West及Vince
+2010年4月12日，據[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")報導，Jason West及Vince
 Zampella正組成一家新的獨立遊戲工作室，名為「Respawn
 Entertainment」。他們經由[藝電的EA合作夥伴計劃尋求經費](https://zh.wikipedia.org/wiki/藝電 "wikilink")，同時他們可擁有保留所有由他們製作的[知識產權的權力](https://zh.wikipedia.org/wiki/知識產權 "wikilink")，而藝電則全權擁有作品的發佈權。\[6\]
 
@@ -31,7 +31,7 @@ Entertainment。\[9\]而在遊戲新聞網站[Kotaku](../Page/Kotaku.md "wikilin
 West由2012年5月已經沒有參與工作室內任何工作，包括他們的第一款遊戲。\[10\]
 
 美国时间2017年11月9日，EA宣布收购Respawn
-Entertainment。EA将通过1.51亿美元的现金和以股份形式的1.64亿美元支付收购费用，此外EA还将在未来提供1.4亿美元的额外薪金作为工作室如果能在2022年以前达到预期商业目标的奖励。\[11\]此外有消息称在此次收购前，韩国著名游戏公司[Nexon曾提出收购要约](../Page/Nexon.md "wikilink")，但被EA击败。\[12\]
+Entertainment。EA将通过1.51亿美元的现金和以股份形式的1.64亿美元支付收购费用，此外EA还将在未来提供1.4亿美元的额外薪金作为工作室如果能在2022年以前达到预期商业目标的奖励。\[11\]此外有消息称在此次收购前，韩国著名游戏公司[Nexon](../Page/Nexon.md "wikilink")曾提出收购要约，但被EA击败。\[12\]
 
 ## 開發遊戲作品
 

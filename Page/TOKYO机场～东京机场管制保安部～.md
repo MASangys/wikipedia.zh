@@ -1,19 +1,19 @@
-《**TOKYO机场～东京机场管制保安部～**》（）是自2012年10月14日在[富士电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")，以[空中交通管制為主題](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")、[東京國際機場](../Page/東京國際機場.md "wikilink")（羽田機場）為背景，由[深田恭子](../Page/深田恭子.md "wikilink")、[佐佐木希](../Page/佐佐木希.md "wikilink")、[瀨戶康史](../Page/瀨戶康史.md "wikilink")、[要润](https://zh.wikipedia.org/wiki/要润 "wikilink")、[瀨戶朝香及](../Page/瀨戶朝香.md "wikilink")[時任三郎領銜主演](../Page/時任三郎.md "wikilink")，並得到[日本航空及](../Page/日本航空.md "wikilink")[全日空支持下拍攝](../Page/全日本空輸.md "wikilink")。
+《**TOKYO机场～东京机场管制保安部～**》（）是自2012年10月14日在[富士电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")，以[空中交通管制為主題](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")、[東京國際機場](../Page/東京國際機場.md "wikilink")（羽田機場）為背景，由[深田恭子](../Page/深田恭子.md "wikilink")、[佐佐木希](../Page/佐佐木希.md "wikilink")、[瀨戶康史](../Page/瀨戶康史.md "wikilink")、[要润](https://zh.wikipedia.org/wiki/要润 "wikilink")、[瀨戶朝香](../Page/瀨戶朝香.md "wikilink")及[時任三郎](../Page/時任三郎.md "wikilink")領銜主演，並得到[日本航空](../Page/日本航空.md "wikilink")及[全日空支持下拍攝](../Page/全日本空輸.md "wikilink")。
 
 ## 故事大綱
 
-故事講述原在機場任職[日本航空](../Page/日本航空.md "wikilink")[機場地勤的篠田香織](../Page/機場地勤.md "wikilink")（[深田恭子飾](../Page/深田恭子.md "wikilink")），因為某個契機而辭去工作，參加國家考試，並在航空保安大學進修，完成嚴格訓練，最終成為羽田機場管制部獨當一面的航空管制官。
+故事講述原在機場任職[日本航空](../Page/日本航空.md "wikilink")[機場地勤](../Page/機場地勤.md "wikilink")的篠田香織（[深田恭子](../Page/深田恭子.md "wikilink")飾），因為某個契機而辭去工作，參加國家考試，並在航空保安大學進修，完成嚴格訓練，最終成為羽田機場管制部獨當一面的航空管制官。
 
-充滿了緊張、興奮以及不安的她登上管制塔，在那的是一群即使面對緊急情況也能冷靜對應的保護人命的專業人員，他們每一個人都有著獨特的個性。篠田與資歷豐富的在職培訓管制官竹內裕美（[瀨戶朝香飾](../Page/瀨戶朝香.md "wikilink")）一同執行航空管制，但因為疏忽而造成的錯誤，篠田差一點引起事故。雖然內疚，但她很快振作了起來，經過一連串的危機處理，加上用心學習的態度，篠田開始熟習管制塔上的職務，無論在進場及管制塔上，逐漸成為出色的管制官。
+充滿了緊張、興奮以及不安的她登上管制塔，在那的是一群即使面對緊急情況也能冷靜對應的保護人命的專業人員，他們每一個人都有著獨特的個性。篠田與資歷豐富的在職培訓管制官竹內裕美（[瀨戶朝香](../Page/瀨戶朝香.md "wikilink")飾）一同執行航空管制，但因為疏忽而造成的錯誤，篠田差一點引起事故。雖然內疚，但她很快振作了起來，經過一連串的危機處理，加上用心學習的態度，篠田開始熟習管制塔上的職務，無論在進場及管制塔上，逐漸成為出色的管制官。
 
 ## 沿襲
 
-《TOKYO机场～东京机场管制保安部～》的劇情發生在[富士電視台收費頻道](../Page/富士電視台.md "wikilink")播放的劇集《[TOKYO
+《TOKYO机场～东京机场管制保安部～》的劇情發生在[富士電視台](../Page/富士電視台.md "wikilink")收費頻道播放的劇集《[TOKYO
 CONTROL
 東京航空交通管制部](https://zh.wikipedia.org/wiki/TOKYO_CONTROL_東京航空交通管制部 "wikilink")》之後兩年，但主場景由[東京航空交通管制部](../Page/東京航空交通管制部.md "wikilink")（Tokyo
 Control）轉為羽田機場的管制塔。
 
-部份前作演員則轉到管制保安部上工作，如[時任三郎飾演的結城昇](../Page/時任三郎.md "wikilink")、[梶原善飾演的矢野元治](https://zh.wikipedia.org/wiki/梶原善 "wikilink")、[野波麻帆飾演的中島晴](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")、[別所哲也飾演的冰室一生](https://zh.wikipedia.org/wiki/別所哲也 "wikilink")、及[螢雪次朗飾演的田邊明](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")。而[野間口徹飾演的敷島貴志](https://zh.wikipedia.org/wiki/野間口徹 "wikilink")，則成為劇中由[小野武彥飾演的橫山博開設的](https://zh.wikipedia.org/wiki/小野武彥 "wikilink")「敷島咖啡」店長。另一主角[川原亞矢子飾演的鈴木真紀](https://zh.wikipedia.org/wiki/川原亞矢子 "wikilink")，則在第十集客串演出，但由東京區域管制中心轉職至[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")。\[1\]
+部份前作演員則轉到管制保安部上工作，如[時任三郎](../Page/時任三郎.md "wikilink")飾演的結城昇、[梶原善飾演的矢野元治](https://zh.wikipedia.org/wiki/梶原善 "wikilink")、[野波麻帆飾演的中島晴](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")、[別所哲也飾演的冰室一生](https://zh.wikipedia.org/wiki/別所哲也 "wikilink")、及[螢雪次朗飾演的田邊明](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")。而[野間口徹飾演的敷島貴志](https://zh.wikipedia.org/wiki/野間口徹 "wikilink")，則成為劇中由[小野武彥飾演的橫山博開設的](https://zh.wikipedia.org/wiki/小野武彥 "wikilink")「敷島咖啡」店長。另一主角[川原亞矢子飾演的鈴木真紀](https://zh.wikipedia.org/wiki/川原亞矢子 "wikilink")，則在第十集客串演出，但由東京區域管制中心轉職至[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")。\[1\]
 
 ## 演員表
 
@@ -39,7 +39,7 @@ Control）轉為羽田機場的管制塔。
 <td><center>
 <p>篠田香織</p></td>
 <td><p>新人管制官<br />
-從<a href="../Page/日本航空.md" title="wikilink">日本航空</a><a href="../Page/機場地勤.md" title="wikilink">機場地勤轉職</a><br />
+從<a href="../Page/日本航空.md" title="wikilink">日本航空</a><a href="../Page/機場地勤.md" title="wikilink">機場地勤</a>轉職<br />
 嗜好為跑步<br />
 酒井真奈、桐島悠、西川俊一之好友<br />
 本上圭介戀人<br />
@@ -316,7 +316,7 @@ Control）轉為羽田機場的管制塔。
 <p><a href="https://zh.wikipedia.org/wiki/野波麻帆" title="wikilink">野波麻帆</a></p></td>
 <td><center>
 <p>中島晴</p></td>
-<td><p>任<a href="../Page/所澤市.md" title="wikilink">所澤市東京航空交通管制部任職五年</a>。有<a href="https://zh.wikipedia.org/wiki/氣象預報員" title="wikilink">氣象預報員的資格</a>。<br />
+<td><p>任<a href="../Page/所澤市.md" title="wikilink">所澤市</a>東京航空交通管制部任職五年。有<a href="https://zh.wikipedia.org/wiki/氣象預報員" title="wikilink">氣象預報員的資格</a>。<br />
 之後從東京航空交通管制部調至羽田機場，遞補竹內至<a href="https://zh.wikipedia.org/wiki/國際民航組織" title="wikilink">國際民航組織</a>（ICAO）任職後留下的空缺。調任至羽田機場除了業務移交外，也接受竹內的指導，熟悉羽田機場塔台的工作[2]。過去似乎與敷島有所爭執。</p></td>
 <td><center>
 <p>29歲</p></td>
@@ -354,7 +354,7 @@ Control）轉為羽田機場的管制塔。
 <td><center>
 <p>敷島貴志</p></td>
 <td><p>前東京航空管制官。岡本的同行。<br />
-<a href="../Page/京濱急行電鐵.md" title="wikilink">京濱急行電鐵</a><a href="../Page/青物横丁站.md" title="wikilink">青物横丁站附近的敷島咖啡加盟店經理</a>。有豐富的咖啡知識，本身沒有咖啡因過敏。店址離機場相距甚遠，過去保安部的同事都是專程到店裡捧場。</p></td>
+<a href="../Page/京濱急行電鐵.md" title="wikilink">京濱急行電鐵</a><a href="../Page/青物横丁站.md" title="wikilink">青物横丁站</a>附近的敷島咖啡加盟店經理。有豐富的咖啡知識，本身沒有咖啡因過敏。店址離機場相距甚遠，過去保安部的同事都是專程到店裡捧場。</p></td>
 <td><center>
 <p>33歲</p></td>
 </tr>
@@ -427,7 +427,7 @@ Control）轉為羽田機場的管制塔。
 <p><a href="https://zh.wikipedia.org/wiki/土師野隆之介" title="wikilink">土師野隆之介</a></p></td>
 <td><center>
 <p>渡邊健太</p></td>
-<td><p>獨自一人準備搭機前往北海道見奶奶的小朋友，在前往機場的<a href="../Page/東京單軌電車羽田機場線.md" title="wikilink">東京單軌電車羽田機場線的電車上遇到了香織</a>，在香織的協助下，於起飛前最後一刻及時趕上班機。</p></td>
+<td><p>獨自一人準備搭機前往北海道見奶奶的小朋友，在前往機場的<a href="../Page/東京單軌電車羽田機場線.md" title="wikilink">東京單軌電車羽田機場線</a>的電車上遇到了香織，在香織的協助下，於起飛前最後一刻及時趕上班機。</p></td>
 <td><center>
 <p>1</p></td>
 </tr>

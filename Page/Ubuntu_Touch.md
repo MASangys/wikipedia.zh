@@ -17,7 +17,7 @@ Phone**）是[Canonical公司與Ubuntu社群所開發的行動裝置作業系統
 ### 開發者預覽版
 
 開發者預覽版支援的機種包括[三星的Galaxy](../Page/三星電子.md "wikilink")
-Nexus以及[Google的Nexus](../Page/Google.md "wikilink") 4。而Ubuntu
+Nexus以及[Google](../Page/Google.md "wikilink")的Nexus 4。而Ubuntu
 13.10在10月發佈時，基於Qt/QML環境開發的App預計能夠正常在PC、電視、平板或智慧型手機上執行。
 
 ## 硬體需求

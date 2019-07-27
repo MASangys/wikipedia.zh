@@ -1,4 +1,4 @@
-**GARNiDELiA**（）為[日本索尼音樂娛樂旗下](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
+**GARNiDELiA**（）為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下[SACRA
 MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為「」，由歌手MARiA（[水桥舞](https://zh.wikipedia.org/wiki/水桥舞 "wikilink")）和作曲家toku（[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")）組成。團體名稱的由來為「（法語，含義為（水桥舞）的[加尼葉歌劇場](../Page/巴黎歌劇院.md "wikilink")）」，與toku的出生年份同時發現的[小行星2758](../Page/小行星2758.md "wikilink")（Cordelia）」中的文字所組合而成。\[2\]
 
 ## 經歷
@@ -64,7 +64,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
   - 1月21日 發行第1張專輯，總共收錄了[KILL la
     KILL](../Page/KILL_la_KILL.md "wikilink")（斬服少女）片頭曲、[魔法科高中的劣等生片頭曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")、[GUNDAM
     G之復國運動片頭曲](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")、動畫投稿網站nico動畫百萬點閱的[Lamb.等曲子](https://zh.wikipedia.org/wiki/Lamb. "wikilink")。
-  - 5月13日 發行第4張單曲「MIRAI」，為[雙槍激鬥片尾曲](../Page/雙槍激鬥.md "wikilink")。
+  - 5月13日 發行第4張單曲「MIRAI」，為[雙槍激鬥](../Page/雙槍激鬥.md "wikilink")片尾曲。
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
     為[PC遊戲](https://zh.wikipedia.org/wiki/PC遊戲 "wikilink")「靈魂行者（ソウルワーカー）」所創作主題曲「Burning
     Soul」\[7\]。
   - 8月17日 發行第5張單曲「約束 -Promise
-    code-」，第6單曲「clever」與[ClariS合作](../Page/ClariS.md "wikilink")，為[Qualidea
+    code-」，第6單曲「clever」與[ClariS](../Page/ClariS.md "wikilink")合作，為[Qualidea
     Code第二](../Page/Qualidea_Code.md "wikilink")、第三片尾曲
   - 12月3日 來台灣參與「 LisAni！LIVE TAIWAN Supported by
     戰鬥女子學園」在「台北國際會議中心」中舉辦\[8\]。
@@ -113,7 +113,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
     BEATLESS片頭曲](../Page/沒有心跳的少女_BEATLESS.md "wikilink")\[17\]。
   - 3月28日 發行第3張專輯「G.R.N.D.」\[18\]。
   - 9月26日
-    發行第4張專輯「響喜亂舞」，初回限定版中附贈寫真當中收錄[水橋舞的舞蹈服裝照片](../Page/水橋舞.md "wikilink")\[19\]。
+    發行第4張專輯「響喜亂舞」，初回限定版中附贈寫真當中收錄[水橋舞](../Page/水橋舞.md "wikilink")的舞蹈服裝照片\[19\]。
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 <!-- end list -->
 
   - 3月13日 發行第10張單曲「REBEL
-    FLAG」，為[魔法少女特殊戰明日香片尾曲](../Page/魔法少女特殊戰明日香.md "wikilink")\[20\]。
+    FLAG」，為[魔法少女特殊戰明日香](../Page/魔法少女特殊戰明日香.md "wikilink")片尾曲\[20\]。
   - 6月1日 亞巡來台舉辦個人團體演唱會「stellacage Asia Tour 2019 "響喜乱舞" in Taipei
     」在「永豐Legacy Taipei 音樂展演空間」中舉辦\[21\]\[22\]
 
@@ -143,7 +143,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 <th><p>#</p></th>
 <th><p>發售日</p></th>
 <th><p>名稱</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon週榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>週榜<br />
 最高位</p></th>
 <th><p>唱片編號</p></th>
 <th><p>发售形态</p></th>

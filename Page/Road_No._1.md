@@ -1,5 +1,5 @@
 《**Road No.
-1**》（）是[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年6月23日起播出的[水木劇](../Page/MBC水木迷你連續劇.md "wikilink")，亦是紀念[韓戰爆發](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")60週年的電視劇。由[蘇志燮](../Page/蘇志燮.md "wikilink")、[金荷娜](../Page/金荷娜.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[崔民秀](../Page/崔民秀.md "wikilink")、[孫暢敏主演](../Page/孫暢敏.md "wikilink")。故事講述在[韓戰中](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，莊雨、秀妍、泰昊三人圍繞着戰爭的三角愛情故事。
+1**》（）是[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年6月23日起播出的[水木劇](../Page/MBC水木迷你連續劇.md "wikilink")，亦是紀念[韓戰爆發](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")60週年的電視劇。由[蘇志燮](../Page/蘇志燮.md "wikilink")、[金荷娜](../Page/金荷娜.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[崔民秀](../Page/崔民秀.md "wikilink")、[孫暢敏](../Page/孫暢敏.md "wikilink")主演。故事講述在[韓戰中](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，莊雨、秀妍、泰昊三人圍繞着戰爭的三角愛情故事。
 
 ## 劇情
 

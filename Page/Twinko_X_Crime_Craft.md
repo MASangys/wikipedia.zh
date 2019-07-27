@@ -1,5 +1,5 @@
 **Twinko X Crime Craft**（又名：**黑幫 Crime
-Craft**）為最新「自然系」女子團體[Twinko的首張數位單曲](../Page/Twinko.md "wikilink")。成軍以來首度爲電玩遊戲「」代言。**Twinko**也為了她們的首張單曲拍攝第一支MV，MV中結合電玩有著超高難度的打鬥場面，裡面的帥氣又性感的舞蹈希望能帶動潮流，在歷經24小時的辛苦拍攝後，於12/25全球首播。在MV推出後，惹來網友批評簡陋\[1\]\[2\]。已收錄在2014年11月14日發行的《[Twinko同名迷你專輯](https://zh.wikipedia.org/wiki/Twinko同名迷你專輯 "wikilink")》。
+Craft**）為最新「自然系」女子團體[Twinko](../Page/Twinko.md "wikilink")的首張數位單曲。成軍以來首度爲電玩遊戲「」代言。**Twinko**也為了她們的首張單曲拍攝第一支MV，MV中結合電玩有著超高難度的打鬥場面，裡面的帥氣又性感的舞蹈希望能帶動潮流，在歷經24小時的辛苦拍攝後，於12/25全球首播。在MV推出後，惹來網友批評簡陋\[1\]\[2\]。已收錄在2014年11月14日發行的《[Twinko同名迷你專輯](https://zh.wikipedia.org/wiki/Twinko同名迷你專輯 "wikilink")》。
 
 ## 曲目
 

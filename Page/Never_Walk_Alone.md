@@ -1,5 +1,5 @@
 《**Never Walk
-Alone**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方力申的第](../Page/方力申.md "wikilink")5張個人音樂專輯，於2004年4月29日發行。7月20日推出特別版，加送5首MV及《好好戀愛》合唱版。
+Alone**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方力申](../Page/方力申.md "wikilink")的第5張個人音樂專輯，於2004年4月29日發行。7月20日推出特別版，加送5首MV及《好好戀愛》合唱版。
 
 ## 曲目
 

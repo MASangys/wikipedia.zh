@@ -1,14 +1,14 @@
-**體育-{台}-**（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司旗下一條體育頻道](../Page/電視廣播有限公司.md "wikilink")。
+**體育-{台}-**（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下一條體育頻道。
 
 ## 歷史與發展
 
-2013年10月17日，下午舉行開台大典，邀請[霍震霆和](../Page/霍震霆.md "wikilink")[余錦基出席啟播酒會](../Page/余錦基.md "wikilink")；同日晚上8點半，該頻道以「**TVB體育-{台}-**」和「」分別作為中文和英文的頻道名稱正式開播，同時正式在[香港透過](../Page/香港.md "wikilink")[無綫網絡電視和](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[now寬頻電視分別使用第](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")13/213頻道和第818/820/840頻道收看，同時首個直播節目是《[FIFA世少盃2013](https://zh.wikipedia.org/wiki/2013年U17世界盃足球賽 "wikilink")
+2013年10月17日，下午舉行開台大典，邀請[霍震霆](../Page/霍震霆.md "wikilink")和[余錦基](../Page/余錦基.md "wikilink")出席啟播酒會；同日晚上8點半，該頻道以「**TVB體育-{台}-**」和「」分別作為中文和英文的頻道名稱正式開播，同時正式在[香港](../Page/香港.md "wikilink")透過[無綫網絡電視和](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[now寬頻電視分別使用第](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")13/213頻道和第818/820/840頻道收看，同時首個直播節目是《[FIFA世少盃2013](https://zh.wikipedia.org/wiki/2013年U17世界盃足球賽 "wikilink")
 揭幕戰 - 巴西 對
-斯洛伐克》，第一場評述員是[陳恩能和](../Page/陳恩能.md "wikilink")[鍾志光](../Page/鍾志光.md "wikilink")。
+斯洛伐克》，第一場評述員是[陳恩能](../Page/陳恩能.md "wikilink")和[鍾志光](../Page/鍾志光.md "wikilink")。
 
 2013年10月19日凌晨2點半，第一次直播《[意大利甲組足球聯賽](https://zh.wikipedia.org/wiki/2013年至2014年意大利甲組足球聯賽 "wikilink")-羅馬對拿玻里》。
 
-直播第一場入球球員是[巴西的](../Page/巴西.md "wikilink")[摩斯基圖](https://zh.wikipedia.org/wiki/摩斯基圖 "wikilink")。
+直播第一場入球球員是[巴西](../Page/巴西.md "wikilink")的[摩斯基圖](https://zh.wikipedia.org/wiki/摩斯基圖 "wikilink")。
 
 2013年10月20日凌晨1點55分，第一次直播《[法國甲組足球聯賽](https://zh.wikipedia.org/wiki/法國甲組足球聯賽 "wikilink")-蒙彼利埃
 對 里爾》。
@@ -23,7 +23,7 @@
 
 2014年1月31日第一次直播《AEF馬年[賀歲盃](../Page/賀歲盃足球賽.md "wikilink")[國際足球邀請賽](https://zh.wikipedia.org/wiki/國際足球邀請賽 "wikilink")-FC東京
 對
-奧漢倫斯》。評述員是[陳恩能](../Page/陳恩能.md "wikilink")、[何輝和](../Page/何輝.md "wikilink")[鍾志光](../Page/鍾志光.md "wikilink")。
+奧漢倫斯》。評述員是[陳恩能](../Page/陳恩能.md "wikilink")、[何輝](../Page/何輝.md "wikilink")和[鍾志光](../Page/鍾志光.md "wikilink")。
 
 2014年3月16日早上9點45分，第一次直播《[FIFA 女子世少盃
 2014](https://zh.wikipedia.org/wiki/2014年U17女子世界盃 "wikilink") 揭幕戰 -
@@ -34,7 +34,7 @@
 
 2014年5月。著名體育主持[馬啟仁先生強勢加盟體育台](https://zh.wikipedia.org/wiki/馬啟仁 "wikilink")。第一炮為體育台主持[巴西世界盃](https://zh.wikipedia.org/wiki/2014年世界盃足球賽 "wikilink")。
 
-2014年6月。著名體育主持[江忠德先生強勢加盟體育台](https://zh.wikipedia.org/wiki/江忠德 "wikilink")。第一炮為[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台主持](../Page/翡翠台.md "wikilink")《甲午年沙田[龍舟競渡](https://zh.wikipedia.org/wiki/龍舟競渡 "wikilink")》。
+2014年6月。著名體育主持[江忠德先生強勢加盟體育台](https://zh.wikipedia.org/wiki/江忠德 "wikilink")。第一炮為[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")主持《甲午年沙田[龍舟競渡](https://zh.wikipedia.org/wiki/龍舟競渡 "wikilink")》。
 
 2014年6月13日凌晨4點。第一次直播《[FIFA 男子巴西世界盃
 2014](https://zh.wikipedia.org/wiki/2014年世界盃足球賽 "wikilink") 揭幕戰 - 巴西 對
@@ -298,7 +298,7 @@
   - now
     Sports精選[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")
   - now Sports精選[ATP 250布里斯本國際賽2014](../Page/2014年布里斯本國際賽.md "wikilink")
-  - 二零一三[香港公開羽毛球錦標賽OSIM世界羽聯世界超級賽系列](../Page/香港公開羽毛球錦標賽.md "wikilink")
+  - 二零一三[香港公開羽毛球錦標賽](../Page/香港公開羽毛球錦標賽.md "wikilink")OSIM世界羽聯世界超級賽系列
   - [廣州國際女子網球公開賽](https://zh.wikipedia.org/wiki/廣州國際女子網球公開賽 "wikilink")2014
   - now
     sports精選[六個紅球世界錦標賽](https://zh.wikipedia.org/wiki/六個紅球世界錦標賽 "wikilink")2014
@@ -343,14 +343,14 @@
   - 2015-2016世界盃場地單車賽－香港站
   - [渣打香港馬拉松](../Page/渣打香港馬拉松.md "wikilink")2016直擊
   - 浪琴表香港馬術大師賽2016-精采直擊
-  - FINA 跳水世界盃2016（与[J5同步播出](../Page/J5.md "wikilink")）
+  - FINA 跳水世界盃2016（与[J5](../Page/J5.md "wikilink")同步播出）
   - 里約熱內盧女子國際網球巡迴賽2016
-  - 2016里約奧運ping pong球亞洲區外圍賽（与[J5同步播出](../Page/J5.md "wikilink")）
+  - 2016里約奧運ping pong球亞洲區外圍賽（与[J5](../Page/J5.md "wikilink")同步播出）
   - 世界男子職業網球巡迴賽2016-羅馬尼亞 納西達斯及泰利亞克獎盃賽
 
 ### 2017年
 
-  - [世界跳舞大奬賽](https://zh.wikipedia.org/wiki/世界跳舞大奬賽 "wikilink")[香港站第三站](../Page/香港.md "wikilink")
+  - [世界跳舞大奬賽](https://zh.wikipedia.org/wiki/世界跳舞大奬賽 "wikilink")[香港](../Page/香港.md "wikilink")站第三站
 
 ### 2018年
 
@@ -364,7 +364,7 @@
     sports頻道播](https://zh.wikipedia.org/wiki/Bein_sports "wikilink")
   - 11月1日[意大利甲組足球聯賽轉往](https://zh.wikipedia.org/wiki/意大利甲組足球聯賽 "wikilink")[Bein
     sports頻道播](https://zh.wikipedia.org/wiki/Bein_sports "wikilink")
-  - 11月1日[英格蘭足球冠軍聯賽轉往](../Page/英格蘭足球冠軍聯賽.md "wikilink")[Bein
+  - 11月1日[英格蘭足球冠軍聯賽](../Page/英格蘭足球冠軍聯賽.md "wikilink")轉往[Bein
     sports頻道播](https://zh.wikipedia.org/wiki/Bein_sports "wikilink")
 
 ## 參見

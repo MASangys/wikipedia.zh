@@ -1,5 +1,5 @@
 《**Go your
-way**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第十一張單曲](../Page/CNBLUE.md "wikilink")，第八張出道單曲，由[鄭容和與](../Page/鄭容和.md "wikilink")（）、[崔載烈](https://zh.wikipedia.org/wiki/崔載烈 "wikilink")（）（二人合稱「Heaven
+way**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第十一張單曲，第八張出道單曲，由[鄭容和](../Page/鄭容和.md "wikilink")與（）、[崔載烈](https://zh.wikipedia.org/wiki/崔載烈 "wikilink")（）（二人合稱「Heaven
 Light」）作曲、容和與[miwa\*作詞](https://zh.wikipedia.org/wiki/miwa* "wikilink")，並在2014年8月20日以四個不同版本推出，由[日本華納唱片發行](../Page/日本華納音樂.md "wikilink")\[1\]。
 
 ## 背景
@@ -15,7 +15,7 @@ your way》、《Control》與《Monster》的音源\[6\]。
 
   - 初回限定盤A（編號：WPZL-30878/9）：這版本包括了一片收錄了《Control》的純音樂版本的單曲CD、一片收錄《ARENA
     TOUR 2013 ～ONE MORE TIME～ @》音樂會片段及《Go your
-    way》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[7\]。
+    way》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[7\]。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@ your way》、《Control》與《Monster》的音源\[6\]。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 單曲日榜                                     | 4    | \-     | 25,856+ |      |
 | 單曲週榜                                     | 8    | 24,603 |         |      |

@@ -21,8 +21,8 @@ Music付費訂閱用戶才可使用此服務](../Page/Apple_Music.md "wikilink")
 
 iTunes Radio是有[广告的免费服务](../Page/网络广告.md "wikilink")，订阅了[iTunes
 Match的用户则可以享受没有广告的iTunes](https://zh.wikipedia.org/wiki/iTunes_Match "wikilink")
-Radio。该服务可供所有itunes用户使用，在iOS设备中与[Siri整合](../Page/Siri.md "wikilink")。用户可以跳过曲目，自定义电台，并在[iTunes
-store中购买他们正在听的歌曲](https://zh.wikipedia.org/wiki/iTunes_store "wikilink")。\[6\]用户也可以搜索之前听过的歌曲历史列表。\[7\]跳过曲目限制与[Pandora电台相同](../Page/Pandora电台.md "wikilink")。\[8\]
+Radio。该服务可供所有itunes用户使用，在iOS设备中与[Siri](../Page/Siri.md "wikilink")整合。用户可以跳过曲目，自定义电台，并在[iTunes
+store中购买他们正在听的歌曲](https://zh.wikipedia.org/wiki/iTunes_store "wikilink")。\[6\]用户也可以搜索之前听过的歌曲历史列表。\[7\]跳过曲目限制与[Pandora电台](../Page/Pandora电台.md "wikilink")相同。\[8\]
 
 ## 參見
 

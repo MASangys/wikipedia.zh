@@ -1,6 +1,6 @@
 《**鋼鐵雄心IV**》（）是二战[模拟游戏钢铁雄心系列于](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")2016年推出的新作品，開發公司[Paradox
 Development
-Studio在前作發表長達](../Page/Paradox_Development_Studio.md "wikilink")6年後，正式在2014年1月23日的[邁阿密Paradox年度會議宣布推出新一代作品](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")\[1\]。與系列中的過往三代產品相同，《鋼鐵雄心IV》允许玩家扮演1936－1948年间世界上任何一个存在或可能存在的国家，通过政治、经济、谍报、外交以及战争等各種方式，於[第二次世界大战期间擴張版圖](../Page/第二次世界大战.md "wikilink")。
+Studio在前作發表長達](../Page/Paradox_Development_Studio.md "wikilink")6年後，正式在2014年1月23日的[邁阿密Paradox年度會議宣布推出新一代作品](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")\[1\]。與系列中的過往三代產品相同，《鋼鐵雄心IV》允许玩家扮演1936－1948年间世界上任何一个存在或可能存在的国家，通过政治、经济、谍报、外交以及战争等各種方式，於[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间擴張版圖。
 
 ## 开发
 
@@ -10,7 +10,7 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 
 在2014年1月的發佈會上，Paradox方面表示本遊戲預計於2015年第一季度發售\[4\]，後來宣佈推遲到第二季度\[5\]。在2015年E3展上，證實該作會推遲到2016年才能推出，因需要解決開發中遇到的問題。
 
-2013年，Paradox的在[Reddit上進行一次的問答中承諾](../Page/Reddit.md "wikilink")《鋼鐵雄心4》會有比3代更好的AI和操作界面\[6\]，並且沒有強制的遊戲流程，會有[沙盒式玩法](../Page/開放世界.md "wikilink")\[7\]。他還表示，《鋼鐵雄心4》將會推出[Linux版本](../Page/Linux.md "wikilink")\[8\]。
+2013年，Paradox的在[Reddit](../Page/Reddit.md "wikilink")上進行一次的問答中承諾《鋼鐵雄心4》會有比3代更好的AI和操作界面\[6\]，並且沒有強制的遊戲流程，會有[沙盒式玩法](../Page/開放世界.md "wikilink")\[7\]。他還表示，《鋼鐵雄心4》將會推出[Linux](../Page/Linux.md "wikilink")版本\[8\]。
 
 ## 特色
 
@@ -50,10 +50,10 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 <tr class="odd">
 <td><p>钢铁雄心IV：共赴胜利（Hearts of Iron IV: Together for Victory）</p></td>
 <td><ul>
-<li>為<a href="../Page/英联邦.md" title="wikilink">英联邦國家</a>（<a href="https://zh.wikipedia.org/wiki/英屬印度" title="wikilink">英屬印度</a>、加拿大自治領、澳大利亞自治領、<a href="../Page/紐西蘭自治領.md" title="wikilink">紐西蘭自治領</a>、<a href="../Page/南非聯邦.md" title="wikilink">南非聯邦</a>）提供獨特國策及新事件</li>
+<li>為<a href="../Page/英联邦.md" title="wikilink">英联邦</a>國家（<a href="https://zh.wikipedia.org/wiki/英屬印度" title="wikilink">英屬印度</a>、加拿大自治領、澳大利亞自治領、<a href="../Page/紐西蘭自治領.md" title="wikilink">紐西蘭自治領</a>、<a href="../Page/南非聯邦.md" title="wikilink">南非聯邦</a>）提供獨特國策及新事件</li>
 <li>新增<a href="https://zh.wikipedia.org/wiki/滿洲國" title="wikilink">滿洲國</a>（日本<a href="https://zh.wikipedia.org/wiki/附庸" title="wikilink">附庸</a>）</li>
 <li>新增自主系統，允許附庸國從宗主國獨立和允許宗主國附庸傀儡</li>
-<li>新增<a href="../Page/租借法案.md" title="wikilink">租借法案系統</a>，允許玩家向別國提供物资</li>
+<li>新增<a href="../Page/租借法案.md" title="wikilink">租借法案</a>系統，允許玩家向別國提供物资</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -120,7 +120,7 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 <li>為德國和日本更新獨特國策
 <ul>
 <li>德國可以選擇重返<a href="https://zh.wikipedia.org/wiki/威廉二世_(德国)#战后生活" title="wikilink">君主制</a>，或者走向民主制建立中歐同盟</li>
-<li>日本可以選擇支持<a href="../Page/皇道派.md" title="wikilink">皇道派北進</a>、或重返民主政治重修<a href="../Page/英日同盟.md" title="wikilink">英日同盟</a>、或帶領<a href="../Page/日本共產黨.md" title="wikilink">日本共產黨奪取政權</a></li>
+<li>日本可以選擇支持<a href="../Page/皇道派.md" title="wikilink">皇道派</a>北進、或重返民主政治重修<a href="../Page/英日同盟.md" title="wikilink">英日同盟</a>、或帶領<a href="../Page/日本共產黨.md" title="wikilink">日本共產黨</a>奪取政權</li>
 </ul></li>
 <li>新增多個可透過吞併而組成的國家[19]</li>
 </ul></td>
@@ -128,7 +128,7 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 <tr class="even">
 <td><p>鋼鐵雄心IV：炮手就位（Hearts of Iron IV:Man the Guns）[20]</p></td>
 <td><ul>
-<li>新增<a href="../Page/流亡政府.md" title="wikilink">流亡政府系統</a>[21]</li>
+<li>新增<a href="../Page/流亡政府.md" title="wikilink">流亡政府</a>系統[21]</li>
 <li>為美國[22]及英國[23]更新獨特國策</li>
 <li>為荷蘭[24]及墨西哥新增獨特國策</li>
 <li>非洲及亞洲殖民地可以透過部分宗主國的<a href="https://zh.wikipedia.org/wiki/去殖民化" title="wikilink">去殖民化國策被解放</a></li>

@@ -1,4 +1,4 @@
-**rm**，是一个基本的[UNIX命令](../Page/Unix实用程序列表.md "wikilink")，其名称源自[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[单词remove的](https://zh.wikipedia.org/wiki/单词 "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")，用于删除文件系统中的文件、目录、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[符号链接等对象](../Page/符号链接.md "wikilink")。准确地说，rm移除的指向特定对象的引用。在文件系统中，这些特定的对象可能有多个引用（例如，两个不同的文件名可能指向相同的文件）,
+**rm**，是一个基本的[UNIX命令](../Page/Unix实用程序列表.md "wikilink")，其名称源自[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[单词remove的](https://zh.wikipedia.org/wiki/单词 "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")，用于删除文件系统中的文件、目录、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[符号链接](../Page/符号链接.md "wikilink")等对象。准确地说，rm移除的指向特定对象的引用。在文件系统中，这些特定的对象可能有多个引用（例如，两个不同的文件名可能指向相同的文件）,
 只有在一个对象不再有任何引用，并且没有任何程序还拥有这个文件的有效句柄的时候，这个文件才会被删除。
 
 这一机制允许下列出现：某个程序可以创建一个文件，并立即将此文件从文件系统中移除，并将这个文件占用的空间作为临时空间使用。（因为我们知道在该程序退出甚至是崩溃的时候，这一文件占用的空间会被回收。）
@@ -26,7 +26,7 @@ rm命令一般来说并不摧毁文件数据，因为其目的仅仅在于解除
 ## 背景
 
 rm
-一般在[UNIX及其衍生操作系统中出现](../Page/UNIX.md "wikilink")，而这些系统不提供已被删除文件的恢复机制（例如[回收站](../Page/資源回收筒_\(Windows\).md "wikilink")）\[1\]，因此用户常对rm命令进行一些封装以避免意外删除文件。
+一般在[UNIX](../Page/UNIX.md "wikilink")及其衍生操作系统中出现，而这些系统不提供已被删除文件的恢复机制（例如[回收站](../Page/資源回收筒_\(Windows\).md "wikilink")）\[1\]，因此用户常对rm命令进行一些封装以避免意外删除文件。
 
 也有被称为[undelete的实用工具](https://zh.wikipedia.org/wiki/undelete "wikilink")。如果被删除文件原先占用的部分未被再度利用，这一工具将尝试恢复文件的索引以将这一被删除文件恢复。
 
@@ -48,7 +48,7 @@ shell的功能](../Page/Bourne_shell.md "wikilink")，rm命令常常被“rm
 
 **rm -rf** (其他的形式包括： `rm -rf /`， `rm -rf
 *`等)常常在描述UNIX灾难的笑话和轶事中出现\[2\]</ref>。
-若在根目录由[超级用户执行](../Page/超级用户.md "wikilink") `rm -rf`
+若在根目录由[超级用户](../Page/超级用户.md "wikilink")执行 `rm -rf`
 命令，将会导致系统中所有已挂载可写入文件系统中所有内容的清除，直到系统自身因为丢失重要文件或目录而崩溃或其他致命系统事件，这一命令才会终止。
 
 rm命令常常与[xargs命令一起使用](https://zh.wikipedia.org/wiki/xargs "wikilink")，这样就可以支持给定列表的文件批量删除：
@@ -79,7 +79,7 @@ bit](https://zh.wikipedia.org/wiki/sticky_bit "wikilink")，那么这个文件�
 
 [太阳微系统在](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink")2005首次发布的[Solaris](https://zh.wikipedia.org/wiki/Solaris_\(操作系统\) "wikilink")
 10中，引入了"`rm -rf /`"保护。若尝试执行这一命令，系统将汇报不允许移除根目录。\[3\]
-不久之后，相同的功能引入了[FreeBSD版本的](../Page/FreeBSD.md "wikilink")`rm`实用工具。如果没有指定`--no-preserve-root`参数，[GNU](../Page/GNU.md "wikilink")
+不久之后，相同的功能引入了[FreeBSD](../Page/FreeBSD.md "wikilink")版本的`rm`实用工具。如果没有指定`--no-preserve-root`参数，[GNU](../Page/GNU.md "wikilink")
 `rm` 将拒绝执行`rm -rf
 /`。这一参数自2006年发布的[GNU核心工具组](../Page/GNU核心工具组.md "wikilink")（版本
 6.4）以来成为了默认设置。

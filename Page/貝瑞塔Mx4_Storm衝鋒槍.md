@@ -1,32 +1,32 @@
 **貝瑞塔Mx4
-Storm**（）是一款由[意大利槍械製造商](../Page/意大利.md "wikilink")[貝瑞塔為軍事用途和](../Page/貝瑞塔.md "wikilink")[執法機關使用而研製和生產的](../Page/警察.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，是[貝瑞塔Cx4
+Storm**（）是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")為軍事用途和[執法機關使用而研製和生產的](../Page/警察.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，是[貝瑞塔Cx4
 Storm的短槍管全自動軍警用型版本](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 貝瑞塔Mx4
-Storm在2011年[阿拉伯联合酋长国的](../Page/阿拉伯联合酋长国.md "wikilink")「[國際防務展覽及會議](../Page/阿布扎比国际防务展.md "wikilink")」（IDEX，）以上首度展出。
+Storm在2011年[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")的「[國際防務展覽及會議](../Page/阿布扎比国际防务展.md "wikilink")」（IDEX，）以上首度展出。
 
 貝瑞塔Mx4 Storm並不在任何民用市場上銷售。
 
 ## 設計細節
 
 與Cx4 Storm一樣，貝瑞塔Mx4
-Storm是一枝由[合金和](../Page/合金.md "wikilink")[聚合物製造的](../Page/聚合物.md "wikilink")和[直接反沖作用式操作的槍械](../Page/反沖作用_\(槍械\).md "wikilink")，以及使用相同的靈巧的控制。不同的是，它裝有一根長度為312毫米（12英吋）的[槍管](../Page/槍管.md "wikilink")，而且能夠[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。目前，貝瑞塔Mx4
+Storm是一枝由[合金](../Page/合金.md "wikilink")和[聚合物](../Page/聚合物.md "wikilink")製造的和[直接反沖作用式操作的槍械](../Page/反沖作用_\(槍械\).md "wikilink")，以及使用相同的靈巧的控制。不同的是，它裝有一根長度為312毫米（12英吋）的[槍管](../Page/槍管.md "wikilink")，而且能夠[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。目前，貝瑞塔Mx4
 Storm只有[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，目前未知會否推出其[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21_IMI "wikilink")（Cx4
 Storm原來[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")）、[.40
 S\&W和](../Page/.40_S&W.md "wikilink")[.45
 ACP口徑版本](../Page/.45_ACP.md "wikilink")。
 
 貝瑞塔Mx4
-Storm與不少[手枪](../Page/手枪.md "wikilink")、[包絡式槍機](../Page/包絡式槍機.md "wikilink")[冲锋枪一樣](../Page/冲锋枪.md "wikilink")，將彈匣裝入與[槍托相連成一體的](../Page/槍托.md "wikilink")內。它使用來自[貝瑞塔92FS](../Page/貝瑞塔92手槍.md "wikilink")／[M9系列的可拆卸式](../Page/貝瑞塔M9手槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，或是其自身的30發可拆卸式彈匣。
+Storm與不少[手枪](../Page/手枪.md "wikilink")、[包絡式槍機](../Page/包絡式槍機.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")一樣，將彈匣裝入與[槍托](../Page/槍托.md "wikilink")相連成一體的內。它使用來自[貝瑞塔92FS](../Page/貝瑞塔92手槍.md "wikilink")／[M9系列的可拆卸式](../Page/貝瑞塔M9手槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，或是其自身的30發可拆卸式彈匣。
 
 貝瑞塔Mx4
-Storm裝有內置伸縮式[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以藉著推動前端按鈕和利用拇指護耳將戰術導軌從[前](https://zh.wikipedia.org/wiki/前護木 "wikilink")[護木內沿著](https://zh.wikipedia.org/wiki/護木 "wikilink")[槍管的底部拉出](../Page/槍管.md "wikilink")。每種Storm系列槍械還可以選擇利用兩顆安裝[螺絲以裝上前護木兩側的戰術導軌](../Page/螺絲.md "wikilink")，而另一種選擇是從生產商購買連底部的三條戰術導軌架連接座。前護木底部的戰術導軌同樣需要利用兩顆安裝螺絲從戰術導軌的兩端螺絲孔才能裝上前護木兩側之下。使用者也可以從生產商購買[機匣頂部的戰術導軌和利用工具連安裝至貝瑞塔Mx](https://zh.wikipedia.org/wiki/機匣 "wikilink")4
-Storm。其機匣頂部的戰術導軌需要使用三顆螺絲和三顆[螺母與利用機匣頂部的預鑽洞安裝](../Page/螺母.md "wikilink")，使得使用者能夠利用戰術導軌作為光學瞄準鏡基座，並且將另外兩個預鑽洞隱藏在塑料薄膜底下。安裝頂部附加導軌所需要的正確尺寸的[鑽頭是不包括在冲锋枪或是頂部導軌套件上](../Page/鑽頭.md "wikilink")，而且必須自行購買。貝瑞塔Mx4
-Storm可以利用貝瑞塔配件包裝上最多五條戰術導軌，然後和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪及](../Page/步枪.md "wikilink")[冲锋枪一樣](../Page/冲锋枪.md "wikilink")，使用者可以利用這些戰術導軌以便安裝市面上各種對應導軌的各種[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[兩腳架這些戰術配件](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")；另外，貝瑞塔Mx4
+Storm裝有內置伸縮式[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以藉著推動前端按鈕和利用拇指護耳將戰術導軌從[前](https://zh.wikipedia.org/wiki/前護木 "wikilink")[護木內沿著](https://zh.wikipedia.org/wiki/護木 "wikilink")[槍管](../Page/槍管.md "wikilink")的底部拉出。每種Storm系列槍械還可以選擇利用兩顆安裝[螺絲](../Page/螺絲.md "wikilink")以裝上前護木兩側的戰術導軌，而另一種選擇是從生產商購買連底部的三條戰術導軌架連接座。前護木底部的戰術導軌同樣需要利用兩顆安裝螺絲從戰術導軌的兩端螺絲孔才能裝上前護木兩側之下。使用者也可以從生產商購買[機匣頂部的戰術導軌和利用工具連安裝至貝瑞塔Mx](https://zh.wikipedia.org/wiki/機匣 "wikilink")4
+Storm。其機匣頂部的戰術導軌需要使用三顆螺絲和三顆[螺母](../Page/螺母.md "wikilink")與利用機匣頂部的預鑽洞安裝，使得使用者能夠利用戰術導軌作為光學瞄準鏡基座，並且將另外兩個預鑽洞隱藏在塑料薄膜底下。安裝頂部附加導軌所需要的正確尺寸的[鑽頭](../Page/鑽頭.md "wikilink")是不包括在冲锋枪或是頂部導軌套件上，而且必須自行購買。貝瑞塔Mx4
+Storm可以利用貝瑞塔配件包裝上最多五條戰術導軌，然後和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪](../Page/步枪.md "wikilink")及[冲锋枪](../Page/冲锋枪.md "wikilink")一樣，使用者可以利用這些戰術導軌以便安裝市面上各種對應導軌的各種[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[兩腳架這些戰術配件](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")；另外，貝瑞塔Mx4
 Storm亦可以利用槍口螺紋以裝上[消聲器](../Page/抑制器.md "wikilink")，不裝上消聲器時並可裝上保護環。與原槍械一樣有著非常高的自行定製適應能力。
 
 貝瑞塔Mx4
-Storm裝上了來自原廠的可調節式[機械瞄具系統](../Page/機械瞄具.md "wikilink")。前方的柱狀[準星可以利用隨槍提供的調整工具調節風偏和海拔](../Page/照準器.md "wikilink")。後方「L」字型可翻轉調節的覘孔式[照門是兩孔式設計](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別是有迅速射擊和遠距離高精度射擊這兩種選擇。這兩個機械瞄具可以在利用[機匣頂部加裝的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[戰術導軌以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀時折疊下來](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。裝上瞄準鏡的貝瑞塔Mx4
+Storm裝上了來自原廠的可調節式[機械瞄具](../Page/機械瞄具.md "wikilink")系統。前方的柱狀[準星可以利用隨槍提供的調整工具調節風偏和海拔](../Page/照準器.md "wikilink")。後方「L」字型可翻轉調節的覘孔式[照門是兩孔式設計](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別是有迅速射擊和遠距離高精度射擊這兩種選擇。這兩個機械瞄具可以在利用[機匣頂部加裝的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[戰術導軌以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")和／或[熱成像儀時折疊下來](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。裝上瞄準鏡的貝瑞塔Mx4
 Storm，在100公尺（109.36码，328.08英尺）以內非常的準確，即使在200公尺（218.72码，656.16英尺）以內[全自動射擊仍然相當準確](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。
 
 除了能夠利用戰術配件自行定制貝瑞塔Mx4
@@ -64,7 +64,7 @@ Storm以外，它亦是較為少數能夠將手動保險、彈匣卡筍、和拋
     zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：命名為「MX4」（中文版則命名為「MX4衝鋒槍」），發射[9×19毫米子彈](../Page/9×19mm魯格彈.md "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為93發（故事模式）。單人故事模式之中於「怒海爭鋒」（South
     China
-    Sea）戰役達到銀牌時解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+    Sea）戰役達到銀牌時解鎖並且可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
     Recker）所使用；多人聯機模式時為美國、中國及俄羅斯三方「工程兵」（Engineer）的預設武器，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，預設使用[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[舒適握把技能](../Page/輔助握把.md "wikilink")，並可以使用[制動器](../Page/砲口制動器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）。
   - 2015年－《[-{zh-hans:战地：硬仗;
     zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield

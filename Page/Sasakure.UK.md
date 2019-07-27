@@ -1,5 +1,5 @@
 **sasakure.UK**（2月11日 -
-）是[日本的](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。又被稱作**ささくれP**。
+）是[日本](../Page/日本.md "wikilink")的[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。又被稱作**ささくれP**。
 
 作品世界觀以「[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")」和「[寓言](../Page/寓言.md "wikilink")」作為基底，加以
 [Chiptune](https://zh.wikipedia.org/wiki/晶片音樂 "wikilink")
@@ -7,7 +7,7 @@
 Dot 動畫和美術設計也是 sasakure.UK 的特色之一。\[1\]
 
 sasakure.UK
-表示創作音樂的時候通常是與影像、影片同步創作。\[2\]透過[遊戲音樂](../Page/遊戲音樂.md "wikilink")、男聲合唱和[日本文學](https://zh.wikipedia.org/wiki/日本文學 "wikilink")，自認受到[宮澤賢治](../Page/宮澤賢治.md "wikilink")、[星新一](../Page/星新一.md "wikilink")、[手塚治虫等藝術家的影響深遠](../Page/手塚治虫.md "wikilink")。\[3\]
+表示創作音樂的時候通常是與影像、影片同步創作。\[2\]透過[遊戲音樂](../Page/遊戲音樂.md "wikilink")、男聲合唱和[日本文學](https://zh.wikipedia.org/wiki/日本文學 "wikilink")，自認受到[宮澤賢治](../Page/宮澤賢治.md "wikilink")、[星新一](../Page/星新一.md "wikilink")、[手塚治虫](../Page/手塚治虫.md "wikilink")等藝術家的影響深遠。\[3\]
 
 ## 概要
 
@@ -18,9 +18,9 @@ sasakure.UK
 創作活動，使用別名義「chocolate max」投稿了樂曲「★SweeT
 DiscoverY★」大受歡迎、作品中暖洋洋的音色和自製圖像贏得一定人氣，另有名義「TJ.hangneil」投稿作品「神威」。
 
-2007年末，在[NICONICO動畫網站投稿](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID樂曲](../Page/VOCALOID.md "wikilink")，認為使用VOCALOID創作是「希望寫出只有VOCALOID能表現出來的歌曲」\[6\]，2009年發表的VOCALOID作品皆獲得絕大人氣。
+2007年末，在[NICONICO動畫網站投稿](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")樂曲，認為使用VOCALOID創作是「希望寫出只有VOCALOID能表現出來的歌曲」\[6\]，2009年發表的VOCALOID作品皆獲得絕大人氣。
 
-2010年3月正式出道，發行第一張商業專輯《**ボーカロイドは終末鳥の夢を見るか？**（VOCALOID會夢見終結之鳥嗎？）》\[7\]，專輯使用了當時尚未發售的[初音未來Append音源](../Page/初音未來.md "wikilink")。負責開發[初音未來的製作人佐佐木涉表示](../Page/初音未來.md "wikilink")「以VOCALOID為名，將聲音的碎片保存起來，這些聲音將失去些什麼？能得到什麼樣的魅力？使用這些聲音說出愛的話語，又真的帶著情感和意識嗎？sasakure.UK
+2010年3月正式出道，發行第一張商業專輯《**ボーカロイドは終末鳥の夢を見るか？**（VOCALOID會夢見終結之鳥嗎？）》\[7\]，專輯使用了當時尚未發售的[初音未來](../Page/初音未來.md "wikilink")Append音源。負責開發[初音未來](../Page/初音未來.md "wikilink")的製作人佐佐木涉表示「以VOCALOID為名，將聲音的碎片保存起來，這些聲音將失去些什麼？能得到什麼樣的魅力？使用這些聲音說出愛的話語，又真的帶著情感和意識嗎？sasakure.UK
 的音樂世界揉合了流行和嚴肅層面，探討VOCALOID而言什麼是最重要的。」\[8\]
 
 同年，遊戲《[初音未來 -Project
@@ -34,7 +34,7 @@ sasakure.UK 歌曲「**\*ハロー、プラネット。**」中的故事設定�
 
 2012年發行了第二張商業專輯《幻実アイソーポス》，首度邀請真人歌手與VOCALOID共演。\[12\]\[13\]與
 [DECO\*27](../Page/DECO*27.md "wikilink")
-一同擔綱[初音未來發售五週年紀念曲](../Page/初音未來.md "wikilink")《39》，同時也是[全家便利商店活動](../Page/全家便利商店.md "wikilink")「ミク
+一同擔綱[初音未來](../Page/初音未來.md "wikilink")發售五週年紀念曲《39》，同時也是[全家便利商店](../Page/全家便利商店.md "wikilink")活動「ミク
 LOVES ファミマ♪」電視廣告曲。\[14\]年末發表有形ランペイジ樂團首張專輯《**有形世界リコンストラクション**》。\[15\]
 
 2013年，持續擔綱遊戲《》主題曲「HeavenZ-ArmZ」。\[16\]發行第三張商業專輯《**トンデモ未来空奏図**》。\[17\]

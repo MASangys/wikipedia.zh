@@ -1,4 +1,4 @@
-《**JESUS**》系列漫畫是1992年12月號開始連載於[週刊少年Sunday的漫畫](../Page/週刊少年Sunday.md "wikilink")，原作：[七月鏡一](../Page/七月鏡一.md "wikilink")、作畫：[藤原芳秀](../Page/藤原芳秀.md "wikilink")。1995年結束第一部。第二部於2009年2月20日重新連載。
+《**JESUS**》系列漫畫是1992年12月號開始連載於[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")的漫畫，原作：[七月鏡一](../Page/七月鏡一.md "wikilink")、作畫：[藤原芳秀](../Page/藤原芳秀.md "wikilink")。1995年結束第一部。第二部於2009年2月20日重新連載。
 
 ## JESUS 復活殺手
 
@@ -24,7 +24,7 @@
 
 ## 世界觀
 
-與同樣是[七月鏡一原作](../Page/七月鏡一.md "wikilink")[藤原芳秀作畫的](../Page/藤原芳秀.md "wikilink")[闇之盾為相同世界觀](../Page/闇之盾.md "wikilink")。JESUS的故事時間點早於闇之盾故事數年。
+與同樣是[七月鏡一](../Page/七月鏡一.md "wikilink")原作[藤原芳秀](../Page/藤原芳秀.md "wikilink")作畫的[闇之盾](../Page/闇之盾.md "wikilink")為相同世界觀。JESUS的故事時間點早於闇之盾故事數年。
 
 ## JESUS 砂塵航路
 

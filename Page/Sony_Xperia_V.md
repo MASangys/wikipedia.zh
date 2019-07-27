@@ -1,5 +1,5 @@
 **Sony Xperia V**（日本型號：Xperia
-AX），是[索尼於](../Page/索尼.md "wikilink")2012年發佈的旗艦手機，採用[Android](../Page/Android.md "wikilink")
+AX），是[索尼](../Page/索尼.md "wikilink")於2012年發佈的旗艦手機，採用[Android](../Page/Android.md "wikilink")
 4.0作業系統，它是索尼移動通信首部支援全球4G
 LTE的手機，是首批機背取消了[索尼愛立信](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")「小綠球」的索尼手機之一。
 
@@ -22,7 +22,7 @@ MSM8960 1.5 GHz 雙核處理器，1300萬像素後置Exmor
 R鏡頭，30萬像素前置鏡頭，[MHL輸出功能](https://zh.wikipedia.org/wiki/MHL "wikilink")，內置1GB
 [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、8GB
 [快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。設有[Micro
-USB連接埠](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")，並支援[近場通訊](../Page/近場通訊.md "wikilink")（NFC）技術，可讀取[八達通卡中的餘額等資料](../Page/八達通.md "wikilink")，或與另一部支援NFC功能的手機分享檔案。\[1\]
+USB連接埠](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")，並支援[近場通訊](../Page/近場通訊.md "wikilink")（NFC）技術，可讀取[八達通](../Page/八達通.md "wikilink")卡中的餘額等資料，或與另一部支援NFC功能的手機分享檔案。\[1\]
 
 ## 作業系統
 

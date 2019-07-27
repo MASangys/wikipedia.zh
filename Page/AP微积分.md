@@ -11,12 +11,12 @@ AP微积分AB是为高中生准备的[大学先修课程中](https://zh.wikipedi
 
 ### 考试内容
 
-考试内容包括[微分和](../Page/微分.md "wikilink")[积分的理论与应用](../Page/积分.md "wikilink")，图像分析包括[極限](https://zh.wikipedia.org/wiki/極限_\(數學\) "wikilink")，[渐近线](../Page/渐近线.md "wikilink")，和[连续](https://zh.wikipedia.org/wiki/连续 "wikilink")。\[1\]AP微积分AB课程通常等同于大学第一学期的高数课程。
+考试内容包括[微分](../Page/微分.md "wikilink")和[积分](../Page/积分.md "wikilink")的理论与应用，图像分析包括[極限](https://zh.wikipedia.org/wiki/極限_\(數學\) "wikilink")，[渐近线](../Page/渐近线.md "wikilink")，和[连续](https://zh.wikipedia.org/wiki/连续 "wikilink")。\[1\]AP微积分AB课程通常等同于大学第一学期的高数课程。
 进一步来说，课程内容包括\[2\]
 
   - 图像分析 (并对现象进行预测、解释)
   - 方程[极限](https://zh.wikipedia.org/wiki/极限 "wikilink") (单双两向)
-  - [渐近线和](../Page/渐近线.md "wikilink")[无限现象](https://zh.wikipedia.org/wiki/无限 "wikilink")
+  - [渐近线](../Page/渐近线.md "wikilink")和[无限现象](https://zh.wikipedia.org/wiki/无限 "wikilink")
   - [连续](https://zh.wikipedia.org/wiki/连续 "wikilink")
   - [导数](../Page/导数.md "wikilink")
       - 概念
@@ -41,7 +41,7 @@ AP微积分AB是为高中生准备的[大学先修课程中](https://zh.wikipedi
 
 ### 课程内容
 
-AP微积分BC涵盖了AP微积分AB章节，并新增了数列[审敛法](../Page/审敛法.md "wikilink")、[泰勒级数](../Page/泰勒级数.md "wikilink"),应用[參數方程](../Page/參數方程.md "wikilink")、[极坐标系以及计算相应坐标内的弧长](../Page/极坐标系.md "wikilink")、[洛必达法则](../Page/洛必达法则.md "wikilink")、[分部積分法](../Page/分部積分法.md "wikilink")、[瑕积分](https://zh.wikipedia.org/wiki/瑕积分 "wikilink")、[欧拉方法](../Page/欧拉方法.md "wikilink")、[Logistic函数](https://zh.wikipedia.org/wiki/Logistic函数 "wikilink")、应用[部分分式分解法对](../Page/部分分式分解.md "wikilink")[有理函數进行积分](../Page/有理函數.md "wikilink")。\[3\]
+AP微积分BC涵盖了AP微积分AB章节，并新增了数列[审敛法](../Page/审敛法.md "wikilink")、[泰勒级数](../Page/泰勒级数.md "wikilink"),应用[參數方程](../Page/參數方程.md "wikilink")、[极坐标系](../Page/极坐标系.md "wikilink")以及计算相应坐标内的弧长、[洛必达法则](../Page/洛必达法则.md "wikilink")、[分部積分法](../Page/分部積分法.md "wikilink")、[瑕积分](https://zh.wikipedia.org/wiki/瑕积分 "wikilink")、[欧拉方法](../Page/欧拉方法.md "wikilink")、[Logistic函数](https://zh.wikipedia.org/wiki/Logistic函数 "wikilink")、应用[部分分式分解](../Page/部分分式分解.md "wikilink")法对[有理函數](../Page/有理函數.md "wikilink")进行积分。\[3\]
 
 ## 考试
 

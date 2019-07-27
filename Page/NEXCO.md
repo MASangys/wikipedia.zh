@@ -1,6 +1,6 @@
 [Nexco_Systems_Map.svg](https://zh.wikipedia.org/wiki/File:Nexco_Systems_Map.svg "fig:Nexco_Systems_Map.svg")
 
-**NEXCO**（）是[日本](../Page/日本.md "wikilink")3家經營廣域[高速公路的](../Page/高速公路.md "wikilink")[公司合稱](../Page/公司.md "wikilink")，由[日本道路公團](../Page/日本道路公團.md "wikilink")（JH）在2005年10月1日與而來。
+**NEXCO**（）是[日本](../Page/日本.md "wikilink")3家經營廣域[高速公路](../Page/高速公路.md "wikilink")的[公司](../Page/公司.md "wikilink")合稱，由[日本道路公團](../Page/日本道路公團.md "wikilink")（JH）在2005年10月1日與而來。
 
 「NEXCO」的[暱稱是在](https://zh.wikipedia.org/wiki/暱稱 "wikilink")2006年4月命名的。3家公司在成立後的[盈餘均達到](https://zh.wikipedia.org/wiki/盈餘 "wikilink")100億[日圓](../Page/日圓.md "wikilink")，其中NEXCO中日本因接手經營[東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")、[名神高速道路](https://zh.wikipedia.org/wiki/名神高速道路 "wikilink")、[中央自動車道這](https://zh.wikipedia.org/wiki/中央自動車道 "wikilink")3個日本東西交通大動脈，是3家公司中盈餘最多的。雖然NEXCO是以民營化為名而成立，但目前這3家公司均為[日本政府全資擁有的法定](https://zh.wikipedia.org/wiki/日本政府 "wikilink")[國營企業](https://zh.wikipedia.org/wiki/國營企業 "wikilink")（）。
 
@@ -78,9 +78,9 @@ NEXCO集團與等不同，未設有持股公司。
       -
       -
       -
-  - [JR集團](https://zh.wikipedia.org/wiki/JR集團 "wikilink")（[國鐵分割民營化後成立的](../Page/國鐵分割民營化.md "wikilink")[鐵路事業群](../Page/鐵路.md "wikilink")）
+  - [JR集團](https://zh.wikipedia.org/wiki/JR集團 "wikilink")（[國鐵分割民營化](../Page/國鐵分割民營化.md "wikilink")後成立的[鐵路](../Page/鐵路.md "wikilink")事業群）
 
-  - [NTT](https://zh.wikipedia.org/wiki/NTT "wikilink")（[日本電信電話公社分割民營後成立的](../Page/日本電信電話公社.md "wikilink")[電信事業集團](https://zh.wikipedia.org/wiki/電信公司 "wikilink")）
+  - [NTT](https://zh.wikipedia.org/wiki/NTT "wikilink")（[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")分割民營後成立的[電信事業集團](https://zh.wikipedia.org/wiki/電信公司 "wikilink")）
 
   - [JT](https://zh.wikipedia.org/wiki/JT "wikilink")（[日本專賣公社民營化後成立的](https://zh.wikipedia.org/wiki/日本專賣公社 "wikilink")[煙草製造公司](https://zh.wikipedia.org/wiki/煙草 "wikilink")）
 

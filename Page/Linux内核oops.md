@@ -1,6 +1,6 @@
 [Linux-2.6-oops-parisc.jpg](https://zh.wikipedia.org/wiki/File:Linux-2.6-oops-parisc.jpg "fig:Linux-2.6-oops-parisc.jpg")上顯示出一頭由ASCII字元組成的死亡乳牛的Linux内核oops\]\]
 
-**oops**是[Linux内核發生不正確的行為並產生一份錯誤報告](../Page/Linux内核.md "wikilink")。多種類型的oops導致眾所周知的[内核错误](../Page/内核错误.md "wikilink")，但部分oops也允許繼續操作，但[可靠度會打折扣](https://zh.wikipedia.org/wiki/可靠度 "wikilink")。這個術語僅僅代表了一個簡單的錯誤。
+**oops**是[Linux内核](../Page/Linux内核.md "wikilink")發生不正確的行為並產生一份錯誤報告。多種類型的oops導致眾所周知的[内核错误](../Page/内核错误.md "wikilink")，但部分oops也允許繼續操作，但[可靠度會打折扣](https://zh.wikipedia.org/wiki/可靠度 "wikilink")。這個術語僅僅代表了一個簡單的錯誤。
 
 當核心檢測到問題時，它會列印一個oops訊息然後殺死全部相關[行程](../Page/行程.md "wikilink")。oops訊息可以幫助Linux核心工程師進行[调试](https://zh.wikipedia.org/wiki/调试 "wikilink")，檢測oops出現的條件，並修復導致oops的程式錯誤。
 

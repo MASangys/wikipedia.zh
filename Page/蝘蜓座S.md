@@ -1,5 +1,5 @@
 **蝘蜓座S**，又名**CP-76 767**，**HD 117360**、**SAO 257060**、**HR
-5082**，是[蝘蜓座的一颗恒星](../Page/蝘蜓座.md "wikilink")\[1\]\[2\]，视星等为6.48，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")305.25，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-14.88，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+5082**，是[蝘蜓座](../Page/蝘蜓座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.48，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")305.25，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-14.88，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

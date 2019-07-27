@@ -1,10 +1,10 @@
-是[洛克人X系列的外傳故事](../Page/洛克人X系列.md "wikilink")，2000年10月20日發表於[Game Boy
+是[洛克人X系列](../Page/洛克人X系列.md "wikilink")的外傳故事，2000年10月20日發表於[Game Boy
 Color上的專用](../Page/Game_Boy_Color.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。
 
 ## 概要
 
-[洛克人X系列發行在的](../Page/洛克人X系列.md "wikilink")[Game Boy
-Color第一部外傳故事](../Page/Game_Boy_Color.md "wikilink")。本作採用了與[洛克人世界相同的模式](https://zh.wikipedia.org/wiki/洛克人世界 "wikilink")，將《[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")》與《[洛克人X2](../Page/洛克人X2.md "wikilink")》混合移植後加入新角色，並將模式分成一般模式、困難模式與完全模式，誕生出了全新的故事，本作也是[卡普空發行的作品中最後一部能使用於舊型](../Page/卡普空.md "wikilink")[Game
+[洛克人X系列](../Page/洛克人X系列.md "wikilink")發行在的[Game Boy
+Color第一部外傳故事](../Page/Game_Boy_Color.md "wikilink")。本作採用了與[洛克人世界相同的模式](https://zh.wikipedia.org/wiki/洛克人世界 "wikilink")，將《[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")》與《[洛克人X2](../Page/洛克人X2.md "wikilink")》混合移植後加入新角色，並將模式分成一般模式、困難模式與完全模式，誕生出了全新的故事，本作也是[卡普空](../Page/卡普空.md "wikilink")發行的作品中最後一部能使用於舊型[Game
 Boy的遊戲](../Page/Game_Boy.md "wikilink")。
 
 ## 故事
@@ -36,7 +36,7 @@ Eraser的貝爾卡娜和卡雷斯也是相同的風格](https://zh.wikipedia.org
   - 斬因（，）
     神秘戰鬥思考型機器人集團**闇影獵人**的其中一人，聽從西格瑪的指示進入電子空間擊倒艾克斯。身上覆蓋[中世紀裝甲及巨劍作為主力的戰鬥型機器人](https://zh.wikipedia.org/wiki/中世紀 "wikilink")，致力於強化自己身上的戰力，是個沉默寡言的強者。
   - 基梅爾（，）
-    **闇影獵人**的其中一人，斬因的同夥，與沉默寡言的斬因相反，自身聰明、狡猾與邪惡，有著自己獨有的笑聲。武器為大型[手裡劍和滑翔用的](https://zh.wikipedia.org/wiki/手裡劍 "wikilink")[風箏](https://zh.wikipedia.org/wiki/風箏 "wikilink")、是如同[忍者般的角色](../Page/忍者.md "wikilink")。
+    **闇影獵人**的其中一人，斬因的同夥，與沉默寡言的斬因相反，自身聰明、狡猾與邪惡，有著自己獨有的笑聲。武器為大型[手裡劍和滑翔用的](https://zh.wikipedia.org/wiki/手裡劍 "wikilink")[風箏](https://zh.wikipedia.org/wiki/風箏 "wikilink")、是如同[忍者](../Page/忍者.md "wikilink")般的角色。
 
 ### 其他角色與頭目
 
@@ -51,7 +51,7 @@ Eraser的貝爾卡娜和卡雷斯也是相同的風格](https://zh.wikipedia.org
 
 ## 頭目角色
 
-本代頭目大多都是由[超級任天堂平台完全移植](../Page/超級任天堂.md "wikilink")，且皆為馬薩電腦中重現的資料，故不多加介紹。
+本代頭目大多都是由[超級任天堂](../Page/超級任天堂.md "wikilink")平台完全移植，且皆為馬薩電腦中重現的資料，故不多加介紹。
 
   - 登場於[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")
 
@@ -78,7 +78,7 @@ Eraser的貝爾卡娜和卡雷斯也是相同的風格](https://zh.wikipedia.org
   - 波蜘蛛（(BoSpider)）
     蜘蛛外表的大型機器人，會利用下降和放出小蜘蛛進行攻擊。登場於[洛克人X1的頭目](https://zh.wikipedia.org/wiki/洛克人X1 "wikilink")。
   - 薩加斯坦克((Sagesse Tank))
-    薩加斯製造的大型戰車，四個砲台各能發射不同的能源彈，除非外殼被破壞，否則無法傷害薩加斯本體。登場於[洛克人X2的頭目](../Page/洛克人X2.md "wikilink")。
+    薩加斯製造的大型戰車，四個砲台各能發射不同的能源彈，除非外殼被破壞，否則無法傷害薩加斯本體。登場於[洛克人X2](../Page/洛克人X2.md "wikilink")的頭目。
 
 ## 外部連結
 

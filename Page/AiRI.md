@@ -1,11 +1,11 @@
-**AiRI**（9月13日－\[1\]）是[日本女歌手](../Page/日本.md "wikilink")，隸屬於[Lantis](../Page/Lantis.md "wikilink")。她所演唱的《[TARI
+**AiRI**（9月13日－\[1\]）是[日本](../Page/日本.md "wikilink")女歌手，隸屬於[Lantis](../Page/Lantis.md "wikilink")。她所演唱的《[TARI
 TARI](../Page/TARI_TARI.md "wikilink")》[電視動畫主題曲](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《Dreamer》為成名曲之一。\[2\]她曾經使用過「**UR@N**」的名義發表作品。\[3\]
 
 ## 音樂作品
 
 ### 單曲
 
-| \#            | 發售日期       | 名稱                                                                        | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| \#            | 發售日期       | 名稱                                                                        | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | ------------- | ---------- | ------------------------------------------------------------------------- | ------------------------------------------ |
 | 1st           | 2011年5月11日 | [learn together](https://zh.wikipedia.org/wiki/learn_together "wikilink") | 92位\[4\]                                   |
 | 2nd           | 2011年8月10日 | 運命/二つの足跡                                                                  | 83位\[5\]                                   |
@@ -16,7 +16,7 @@ TARI](../Page/TARI_TARI.md "wikilink")》[電視動畫主題曲](https://zh.wiki
 
 ### 專輯
 
-| \#  | 發售日期       | 名稱                                                                   | [Oricon最高排名](../Page/Oricon.md "wikilink") |
+| \#  | 發售日期       | 名稱                                                                   | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
 | --- | ---------- | -------------------------------------------------------------------- | ------------------------------------------ |
 | 1st | 2012年2月22日 | [Puzzle](https://zh.wikipedia.org/wiki/Puzzle_\(AiRI專輯\) "wikilink") | 77位\[8\]                                   |
 | 2nd | 2013年5月8日  | [Color](https://zh.wikipedia.org/wiki/Color_\(AiRI專輯\) "wikilink")   | 60位\[9\]                                   |

@@ -3,7 +3,7 @@
 **IA -ARIA ON THE PLANETES-**（），簡稱IA（），是[1st
 PLACE以](https://zh.wikipedia.org/wiki/1st_PLACE "wikilink")[YAMAHA开发的](https://zh.wikipedia.org/wiki/YAMAHA "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")™
 3[語音合成引擎為基礎所開發的女聲虛擬歌姬](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，亦是首個使用VOCALOID™
-3引擎的[VOCALOID人物](../Page/VOCALOID.md "wikilink")。聲源為日本女性[治癒系創作歌手](https://zh.wikipedia.org/wiki/治癒系 "wikilink")[Lia](../Page/Lia.md "wikilink")；人物設定則由漫畫家[赤坂Aka](https://zh.wikipedia.org/wiki/赤坂Aka "wikilink")（）繪圖設計。
+3引擎的[VOCALOID](../Page/VOCALOID.md "wikilink")人物。聲源為日本女性[治癒系創作歌手](https://zh.wikipedia.org/wiki/治癒系 "wikilink")[Lia](../Page/Lia.md "wikilink")；人物設定則由漫畫家[赤坂Aka](https://zh.wikipedia.org/wiki/赤坂Aka "wikilink")（）繪圖設計。
 
 ## 人物簡介
 
@@ -12,7 +12,7 @@ PLACE以](https://zh.wikipedia.org/wiki/1st_PLACE "wikilink")[YAMAHA开发的](h
 IA的聲源是被譽為「水晶歌姬」的日本女性歌手[Lia](../Page/Lia.md "wikilink")\[1\]，以透明感的声音作为特征，演唱過《[鳥之詩](../Page/鳥之詩.md "wikilink")》等[日本動漫名曲](https://zh.wikipedia.org/wiki/日本動漫 "wikilink")（《鳥之詩》的VSQX工程文件隨IA商品附帶）。由於聲音「遺傳」了Lia特徵，故後IA來也被稱為VOCALOID中的「水晶歌姬」\[2\]。
 
 IA的軟件製品分為Library（）和Starter
-Pack（）兩種，前者只包含聲音庫，而後者顧名思義即為初次使用[VOCALOID的用戶提供的完整版本](../Page/VOCALOID.md "wikilink")。軟件的用法和其他VOCALOID產品相同，都是輸入音調和歌詞（[假名或](https://zh.wikipedia.org/wiki/假名 "wikilink")[羅馬字](../Page/日语罗马字.md "wikilink")）並作調整。
+Pack（）兩種，前者只包含聲音庫，而後者顧名思義即為初次使用[VOCALOID](../Page/VOCALOID.md "wikilink")的用戶提供的完整版本。軟件的用法和其他VOCALOID產品相同，都是輸入音調和歌詞（[假名或](https://zh.wikipedia.org/wiki/假名 "wikilink")[羅馬字](../Page/日语罗马字.md "wikilink")）並作調整。
 
 軟件於2012年1月27日發售，發售時曾在[Amazon.com的音樂製作軟件中獲銷量排名的第一名](../Page/亞馬遜公司.md "wikilink")\[3\]\[4\]。
 
@@ -294,7 +294,7 @@ DiverCity出演「VOICE Fes 2012」，應用了3D投影映射（3D Projection Ma
 ### 賽車
 
 「房車錦標賽」第五戰鈴鹿1000公里賽中，1st PLACE與SUPER GT500級賽車團隊「LEXUS TEAM
-SARD」合作，成為其[贊助商](https://zh.wikipedia.org/wiki/贊助商 "wikilink")。IA會為每場賽事提供團隊主題歌，比賽當天，IA首度作為賽車女郎亮相\[10\]。這意味著IA成為繼[初音未來後又一作為賽車女郎的VOCALOID角色](../Page/初音未來.md "wikilink")。
+SARD」合作，成為其[贊助商](https://zh.wikipedia.org/wiki/贊助商 "wikilink")。IA會為每場賽事提供團隊主題歌，比賽當天，IA首度作為賽車女郎亮相\[10\]。這意味著IA成為繼[初音未來](../Page/初音未來.md "wikilink")後又一作為賽車女郎的VOCALOID角色。
 
 ### 人物模型
 

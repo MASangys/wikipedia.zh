@@ -1,6 +1,6 @@
 **BigWorld**是一家於1999年成立的專門開發供[大型多人連線遊戲以及](https://zh.wikipedia.org/wiki/大型多人連線遊戲 "wikilink")[虛擬世界使用的](https://zh.wikipedia.org/wiki/虛擬世界 "wikilink")[中介軟體開發工具公司](https://zh.wikipedia.org/wiki/中介軟體 "wikilink")，並且販賣開發工具套件授權。總部位於[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。在2007年，BigWorld被英國的電子遊戲產業[開發者雜誌認定為業界的領導](https://zh.wikipedia.org/wiki/開發者雜誌 "wikilink")。\[1\]
 
-2012年8月7號，[戰遊網花費](../Page/戰遊網.md "wikilink")4千5百萬美元收購中介軟體開發商BigWorld。\[2\]
+2012年8月7號，[戰遊網](../Page/戰遊網.md "wikilink")花費4千5百萬美元收購中介軟體開發商BigWorld。\[2\]
 
 ## 相關遊戲作品
 

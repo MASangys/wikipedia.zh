@@ -1,11 +1,11 @@
-《**-{MOZU}-**》，為日本[TBS電視台自](../Page/TBS電視台.md "wikilink")2014年4月10日起至6月播出的週四晚間九點檔（[週四電視劇場](../Page/週四連續劇9.md "wikilink")）及[WOWOW自](../Page/WOWOW.md "wikilink")2014年6月22日起播出的週日晚間十點檔（）。由[西島秀俊主演](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")。同年11月，宣布拍攝同名電影版，亦由西島秀俊主演\[1\]。
+《**-{MOZU}-**》，為日本[TBS電視台](../Page/TBS電視台.md "wikilink")自2014年4月10日起至6月播出的週四晚間九點檔（[週四電視劇場](../Page/週四連續劇9.md "wikilink")）及[WOWOW](../Page/WOWOW.md "wikilink")自2014年6月22日起播出的週日晚間十點檔（）。由[西島秀俊主演](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")。同年11月，宣布拍攝同名電影版，亦由西島秀俊主演\[1\]。
 
 ## 概要
 
 延續2012年制作《[DOUBLE
 FACE](https://zh.wikipedia.org/wiki/DOUBLE_FACE "wikilink")》兩局合作電視劇後的第2部\[2\]。
 監督為《[DOUBLE
-FACE](https://zh.wikipedia.org/wiki/DOUBLE_FACE "wikilink")》羽住英一郎繼續擔任，延用上作原班人馬製作。原作為[逢坂剛小說](../Page/逢坂剛.md "wikilink")《[百舌吶喊的夜晚](https://zh.wikipedia.org/wiki/百舌 "wikilink")》（Mozu即為日語百舌鳥/伯勞鳥的說法）及《幻之翼》\[3\]，TBS與WOWOW分別製作成《MOZU
+FACE](https://zh.wikipedia.org/wiki/DOUBLE_FACE "wikilink")》羽住英一郎繼續擔任，延用上作原班人馬製作。原作為[逢坂剛](../Page/逢坂剛.md "wikilink")小說《[百舌吶喊的夜晚](https://zh.wikipedia.org/wiki/百舌 "wikilink")》（Mozu即為日語百舌鳥/伯勞鳥的說法）及《幻之翼》\[3\]，TBS與WOWOW分別製作成《MOZU
 Season1～百舌吶喊的夜晚～》與《MOZU Season2～幻之翼～》\[4\]。
 取景自福岡縣北九州市各地與東京都、橫濱市\[5\]，於北九州羽住與出演者有村架純訪問市長一幕\[6\]。羽住還於北九州市拍攝《[巨乳排球](../Page/巨乳排球.md "wikilink")》、《[Wild
 7](https://zh.wikipedia.org/wiki/Wild_7 "wikilink")》等七部作品，任命「北九州市文化大使」\[7\]。
@@ -471,7 +471,7 @@ Saldonia共和國總統。是通過日本石油貿易協議協商確定，企圖
 
 ## 電影
 
-，此片改編自同名電視劇《MOZU》，[TBS電視台於](../Page/TBS電視台.md "wikilink")2014年11月13日第二季電視劇「幻之翼」最終回播出後，於官方網站宣布拍攝電影版，並由原班人馬演出，2015年上映\[10\]。
+，此片改編自同名電視劇《MOZU》，[TBS電視台](../Page/TBS電視台.md "wikilink")於2014年11月13日第二季電視劇「幻之翼」最終回播出後，於官方網站宣布拍攝電影版，並由原班人馬演出，2015年上映\[10\]。
 
 ### 登场角色
 

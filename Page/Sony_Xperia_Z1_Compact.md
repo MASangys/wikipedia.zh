@@ -1,5 +1,5 @@
 **Sony Xperia Z1
-Compact**是一款由[索尼移动通信研制并发售的](../Page/索尼移动通信.md "wikilink")[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[Z1的迷你版](../Page/Sony_Xperia_Z1.md "wikilink")，也可以稱輕旗艦
+Compact**是一款由[索尼移动通信](../Page/索尼移动通信.md "wikilink")研制并发售的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[Z1的迷你版](../Page/Sony_Xperia_Z1.md "wikilink")，也可以稱輕旗艦
 
 ## 規格
 
@@ -8,7 +8,7 @@ Compact**是一款由[索尼移动通信研制并发售的](../Page/索尼移动
   - 作業系統：Android 4.4 KitKat
   - 電池容量：2,300mAh 不可拆換電池
   - 相機：2070萬畫素主相機 with
-    G镜头（支援[1080p錄影](../Page/1080p.md "wikilink")）、前置鏡頭220萬畫素
+    G镜头（支援[1080p](../Page/1080p.md "wikilink")錄影）、前置鏡頭220萬畫素
   - 記憶體：內建2GB RAM，16GB
     ROM，支援外接[microSD至](https://zh.wikipedia.org/wiki/microSD "wikilink")64GB
   - 特殊功能：降噪、[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")、IP55/IP58防塵防水認證

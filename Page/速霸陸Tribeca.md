@@ -1,38 +1,38 @@
-**速霸陸Tribeca**（）為2005年至2015年間[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的七人座中型[多功能休旅車或](../Page/多功能休旅車.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，2007年以前稱作**速霸陸B9
-Tribeca**，[中國官方正式名稱則為](../Page/中國.md "wikilink")**速霸陸馳鵬**。
+**速霸陸Tribeca**（）為2005年至2015年間[日本](../Page/日本.md "wikilink")[富士重工業製造](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")、販售的七人座中型[多功能休旅車](../Page/多功能休旅車.md "wikilink")或[跨界休旅車](../Page/跨界休旅車.md "wikilink")，2007年以前稱作**速霸陸B9
+Tribeca**，[中國](../Page/中國.md "wikilink")官方正式名稱則為**速霸陸馳鵬**。
 
-車名「Tribeca」來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓西南方的](../Page/曼哈頓.md "wikilink")[翠貝卡](../Page/翠貝卡.md "wikilink")（Tribeca）。
+車名「Tribeca」來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")西南方的[翠貝卡](../Page/翠貝卡.md "wikilink")（Tribeca）。
 
 ## 歷史與概要
 
-2005年 - 富士重工業在美國[底特律車展公開名為](../Page/底特律車展.md "wikilink")**B9
-Tribeca**的七人座多功能休旅車，[梯形鼻頭的進氣壩造型和小改款的第二代Impreza](../Page/梯形.md "wikilink")、[R1](../Page/速霸陸R1.md "wikilink")、[R2等如出一轍](../Page/速霸陸R2.md "wikilink")，且計畫在[印第安那州](https://zh.wikipedia.org/wiki/印第安那州 "wikilink")[拉斐特的](https://zh.wikipedia.org/wiki/拉斐特_\(印第安纳州\) "wikilink")「速霸陸五十鈴汽車廠（同年12月起改稱〔Subaru
+2005年 - 富士重工業在美國[底特律車展](../Page/底特律車展.md "wikilink")公開名為**B9
+Tribeca**的七人座多功能休旅車，[梯形](../Page/梯形.md "wikilink")鼻頭的進氣壩造型和小改款的第二代Impreza、[R1](../Page/速霸陸R1.md "wikilink")、[R2等如出一轍](../Page/速霸陸R2.md "wikilink")，且計畫在[印第安那州](https://zh.wikipedia.org/wiki/印第安那州 "wikilink")[拉斐特的](https://zh.wikipedia.org/wiki/拉斐特_\(印第安纳州\) "wikilink")「速霸陸五十鈴汽車廠（同年12月起改稱〔Subaru
 of Indiana Automotive,
-Inc.〕）」量產製造，針對[北美洲市場販售](../Page/北美洲.md "wikilink")。
+Inc.〕）」量產製造，針對[北美洲](../Page/北美洲.md "wikilink")市場販售。
 
 內裝鋪陳方面，三列座位共可乘坐七人，其中第二、三列可全部傾倒，第二列亦可前後移動，第三列座椅可收入行李廂底板下，變化出更多空間彈性。標準配備含有雙區恆溫空調系統、方向盤音響控制鍵、八向駕駛座電動調整座椅等，另可加價選購吸頂式DVD螢幕。3.0L[水平對臥六缸DOHC](../Page/水平對臥六缸引擎.md "wikilink")
 [EZ30-R型引擎分別可輸出](https://zh.wikipedia.org/wiki/速霸陸EZ族引擎#EZ30-R型 "wikilink")250hp
 / 6,600rpm的[馬力](../Page/馬力.md "wikilink")、30.3kg·m /
-4,200rpm的扭力，搭配五速手自排變速系統。[懸吊系統採用前](../Page/懸吊系統.md "wikilink")[麥花臣](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")、後[雙A臂的結構](https://zh.wikipedia.org/wiki/雙橫臂懸架 "wikilink")，配合速霸陸一貫的全時[四輪驅動設定](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。至於安全性配備部分，ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、VDC車輛動態控制系統、四顆前座[安全氣囊與側邊氣簾等皆為標準配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
+4,200rpm的扭力，搭配五速手自排變速系統。[懸吊系統](../Page/懸吊系統.md "wikilink")採用前[麥花臣](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")、後[雙A臂的結構](https://zh.wikipedia.org/wiki/雙橫臂懸架 "wikilink")，配合速霸陸一貫的全時[四輪驅動設定](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。至於安全性配備部分，ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、VDC車輛動態控制系統、四顆前座[安全氣囊與側邊氣簾等皆為標準配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
 
 2006年 -
-2月22日在美國推出精裝版，含有全新設計的網狀水箱罩、鍍鉻鋁圈、衛星導航系統等配備。同年11月19日斯巴魯（中國）汽車公司在北京國際車展公開Tribeca，命名為**馳鵬**並接受預訂；翌年2月中旬此款車正式進軍[中國市場](../Page/中國.md "wikilink")。
+2月22日在美國推出精裝版，含有全新設計的網狀水箱罩、鍍鉻鋁圈、衛星導航系統等配備。同年11月19日斯巴魯（中國）汽車公司在北京國際車展公開Tribeca，命名為**馳鵬**並接受預訂；翌年2月中旬此款車正式進軍[中國](../Page/中國.md "wikilink")市場。
 
 2007年 -
 原廠在4月舉行的[紐約國際車展上公開小改款的B](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")9
 Tribeca，同時宣布在美國市場發售。車頭造型改成大型倒梯形橫柵進氣壩，雙側為四角銳利的頭燈組。靠近車尾的D柱形狀改變，三角窗也變得較為方正，尾燈組的[面積予以放大](https://zh.wikipedia.org/wiki/面積 "wikilink")。原有的3.0L引擎升級為3.6L水平對臥六缸DOHC
 [EZ36型引擎](https://zh.wikipedia.org/wiki/速霸陸EZ族引擎#EZ36型 "wikilink")，最大馬力提升為256hp
 / 6,600rpm，扭力峰值也來到34.2kg·m /
-4,400rpm之譜；當然五速手自排與四輪驅動系統都列為標準配備。同年6月25日，小改款的Tribeca也在[加拿大發表上市](../Page/加拿大.md "wikilink")。
+4,400rpm之譜；當然五速手自排與四輪驅動系統都列為標準配備。同年6月25日，小改款的Tribeca也在[加拿大](../Page/加拿大.md "wikilink")發表上市。
 
 2009年 -
-8月21日臺灣總代理[台灣意美汽車引進小改款的Tribeca](../Page/台灣意美汽車.md "wikilink")，採取米色內裝，並含有前後座獨立恆溫空調、CD音響主機、電動調整座椅等配備。
+8月21日臺灣總代理[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")引進小改款的Tribeca，採取米色內裝，並含有前後座獨立恆溫空調、CD音響主機、電動調整座椅等配備。
 
 2014年 - 由於銷售成績持續積弱不振，速霸陸美國分公司在1月宣布停售，但中國市場仍持續販售至2015年止。
 
 ### 軼聞趣事
 
-2000年代初期[日本](../Page/日本.md "wikilink")[富士重工業仍屬](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車集團時](https://zh.wikipedia.org/wiki/通用汽车公司 "wikilink")，後者曾經要求旗下[瑞典車廠](../Page/瑞典.md "wikilink")[紳寶以速霸陸Tribeca為基礎](../Page/萨博.md "wikilink")，開發出「9-6X」休旅車。不過2005年隨著通用汽車將[股權出售給](../Page/股票.md "wikilink")[豐田汽車](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，此計劃亦隨之中止\[1\]。後來這輛「9-6X」原型車被紳寶汽車收藏在[特羅爾海坦市的](https://zh.wikipedia.org/wiki/特羅爾海坦市 "wikilink")[博物館中](https://zh.wikipedia.org/wiki/博物館 "wikilink")，大方地公諸於世\[2\]。
+2000年代初期[日本](../Page/日本.md "wikilink")[富士重工業仍屬](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車集團時](https://zh.wikipedia.org/wiki/通用汽车公司 "wikilink")，後者曾經要求旗下[瑞典](../Page/瑞典.md "wikilink")車廠[紳寶以速霸陸Tribeca為基礎](../Page/萨博.md "wikilink")，開發出「9-6X」休旅車。不過2005年隨著通用汽車將[股權出售給](../Page/股票.md "wikilink")[豐田汽車](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，此計劃亦隨之中止\[1\]。後來這輛「9-6X」原型車被紳寶汽車收藏在[特羅爾海坦市的](https://zh.wikipedia.org/wiki/特羅爾海坦市 "wikilink")[博物館中](https://zh.wikipedia.org/wiki/博物館 "wikilink")，大方地公諸於世\[2\]。
 
 ### 安全性召回
 

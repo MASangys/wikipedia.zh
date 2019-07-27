@@ -1,4 +1,4 @@
-**Elixir**是一个基于[Erlang](../Page/Erlang.md "wikilink")[虚拟机的](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")[函数式](../Page/函数式编程.md "wikilink")、面向[并行的通用](../Page/并发计算.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。Elixir以Erlang为基础，支持分布式、高容错、实时应用程序的开发，亦可通过[宏实现](https://zh.wikipedia.org/wiki/宏 "wikilink")[元编程对其进行扩展](../Page/元编程.md "wikilink")，并通过协议支持[多态](https://zh.wikipedia.org/wiki/多态_\(面向对象程序设计\) "wikilink")。\[1\]
+**Elixir**是一个基于[Erlang](../Page/Erlang.md "wikilink")[虚拟机的](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")[函数式](../Page/函数式编程.md "wikilink")、面向[并行的通用](../Page/并发计算.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。Elixir以Erlang为基础，支持分布式、高容错、实时应用程序的开发，亦可通过[宏实现](https://zh.wikipedia.org/wiki/宏 "wikilink")[元编程](../Page/元编程.md "wikilink")对其进行扩展，并通过协议支持[多态](https://zh.wikipedia.org/wiki/多态_\(面向对象程序设计\) "wikilink")。\[1\]
 
 ## 历史
 
@@ -7,18 +7,18 @@ Valim是Elixir语言的设计者。他创造该语言的目标是在维持与现
 
 ## 特性
 
-  - 基于[Erlang虚拟机](../Page/Erlang.md "wikilink")（BEAM）。
+  - 基于[Erlang](../Page/Erlang.md "wikilink")虚拟机（BEAM）。
   - 与Erlang语言的无缝衔接；与Erlang的互调几乎无任何额外开销。
-  - 基于[宏的](https://zh.wikipedia.org/wiki/宏 "wikilink")[元编程能力](../Page/元编程.md "wikilink")，语言的[抽象语法树作为头等公民](https://zh.wikipedia.org/wiki/抽象语法树 "wikilink")。
+  - 基于[宏的](https://zh.wikipedia.org/wiki/宏 "wikilink")[元编程](../Page/元编程.md "wikilink")能力，语言的[抽象语法树作为头等公民](https://zh.wikipedia.org/wiki/抽象语法树 "wikilink")。
   - 基于协议的[多态实现](https://zh.wikipedia.org/wiki/多态_\(面向对象程序设计\) "wikilink")。（启发自[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")）
   - 完善的文档支持。
   - 通过[消息传递](https://zh.wikipedia.org/wiki/消息传递 "wikilink")（[参与者模式](https://zh.wikipedia.org/wiki/参与者模式 "wikilink")）支持
     Shared-nothing 并行事务。
-  - 强调利用[递归和](../Page/递归.md "wikilink")[高阶函数的函数式编程胜过基于](https://zh.wikipedia.org/wiki/高阶函数 "wikilink")[副作用和](../Page/副作用.md "wikilink")[循环的命令式编程](https://zh.wikipedia.org/wiki/循环 "wikilink")。
+  - 强调利用[递归](../Page/递归.md "wikilink")和[高阶函数的函数式编程胜过基于](https://zh.wikipedia.org/wiki/高阶函数 "wikilink")[副作用](../Page/副作用.md "wikilink")和[循环的命令式编程](https://zh.wikipedia.org/wiki/循环 "wikilink")。
   - 一切均为[表达式](https://zh.wikipedia.org/wiki/表达式 "wikilink")。
   - [惰性求值](../Page/惰性求值.md "wikilink")，拥有诸如futures和promises一类的[异步流数据类型](https://zh.wikipedia.org/wiki/异步 "wikilink")。
   - [模式匹配](https://zh.wikipedia.org/wiki/模式匹配 "wikilink")。
-  - [Unicode支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")，[UTF-8字符串](../Page/UTF-8.md "wikilink")。
+  - [Unicode支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")，[UTF-8](../Page/UTF-8.md "wikilink")字符串。
 
 ## 示例
 

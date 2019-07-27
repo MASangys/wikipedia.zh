@@ -3,7 +3,7 @@
 
 ## 概要
 
-2008年10月，[JVC與](../Page/JVC.md "wikilink")[建伍經營統合](../Page/建伍.md "wikilink")，兩家共同股票轉讓組成控股公司「JVC建伍控股株式会社」，JVC、建伍子公司化；JVC主要股東[松下電器持股也一併移轉](../Page/松下電器.md "wikilink")。
+2008年10月，[JVC](../Page/JVC.md "wikilink")與[建伍](../Page/建伍.md "wikilink")經營統合，兩家共同股票轉讓組成控股公司「JVC建伍控股株式会社」，JVC、建伍子公司化；JVC主要股東[松下電器](../Page/松下電器.md "wikilink")持股也一併移轉。
 
 2011年8月，JVC建伍控股[商号變更為](https://zh.wikipedia.org/wiki/商号 "wikilink")「JVC建伍株式会社」；同年10月吸收合併傘下JVC、建伍、J\&K汽車電子成為一般[產業](https://zh.wikipedia.org/wiki/產業 "wikilink")，不再是[控股公司](../Page/控股公司.md "wikilink")。併入三家子公司是圖謀經營體制效率化。\[1\]
 

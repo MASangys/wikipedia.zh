@@ -243,10 +243,10 @@ CN-01.jpg|[Cscr-featured.svg](https://zh.wikipedia.org/wiki/File:Cscr-featured.s
 [Edersee大壩](https://zh.wikipedia.org/wiki/:en:Edersee_Dam "wikilink"),
 埃德尔塔尔市, 黑森州, 德國 <File:NesjavellirPowerPlant>
 edit2.jpg|[Cscr-featured.svg](https://zh.wikipedia.org/wiki/File:Cscr-featured.svg "fig:Cscr-featured.svg")
-冰岛[辛格韦德利的](../Page/辛格韦德利.md "wikilink")[奈斯亞威里爾](../Page/奈斯亞威里爾.md "wikilink")[地熱發電廠](../Page/地熱能.md "wikilink")
+冰岛[辛格韦德利](../Page/辛格韦德利.md "wikilink")的[奈斯亞威里爾](../Page/奈斯亞威里爾.md "wikilink")[地熱發電廠](../Page/地熱能.md "wikilink")
 <File:De> Zoeker
 LCD.jpg|[Cscr-featured.svg](https://zh.wikipedia.org/wiki/File:Cscr-featured.svg "fig:Cscr-featured.svg")
-荷蘭[赞瑟斯汉斯村的寻找者風車](../Page/赞瑟斯汉斯.md "wikilink")（De Zoeker） <File:Kuremaa>
+荷蘭[赞瑟斯汉斯](../Page/赞瑟斯汉斯.md "wikilink")村的寻找者風車（De Zoeker） <File:Kuremaa>
 mõisa
 tuuleveski.jpg|[Cscr-featured.svg](https://zh.wikipedia.org/wiki/File:Cscr-featured.svg "fig:Cscr-featured.svg")
 [Kuremaa莊園風車](https://zh.wikipedia.org/wiki/:en:Kuremaa "wikilink"),

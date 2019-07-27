@@ -1,15 +1,15 @@
 《**Coming
-Soon\!\!**》（）是在TBS系列逢星期一23:45至24:50播映的[現場直播音樂節目](../Page/現場直播.md "wikilink")，由2011年4月25日首播，2012年3月26日結束播映。
+Soon\!\!**》（）是在TBS系列逢星期一23:45至24:50播映的[現場直播](../Page/現場直播.md "wikilink")音樂節目，由2011年4月25日首播，2012年3月26日結束播映。
 
 ## 概要
 
-[TBS上個於平日深夜播映的音樂節目是](../Page/TBS.md "wikilink")《》，上個現場直播的音樂節目已是18年前的《》。節目主持[中居正廣曾於TBS主持的音樂節目有](../Page/中居正廣.md "wikilink")《[歌番](../Page/歌番.md "wikilink")》、《》。
+[TBS](../Page/TBS.md "wikilink")上個於平日深夜播映的音樂節目是《》，上個現場直播的音樂節目已是18年前的《》。節目主持[中居正廣](../Page/中居正廣.md "wikilink")曾於TBS主持的音樂節目有《[歌番](../Page/歌番.md "wikilink")》、《》。
 
 節目每集會有數組藝人演出，先跟主持人中居展開談話，然後現場表演。談話時嘉賓跟中居是面對面，而不是坐在旁邊的。現場表演後嘉賓就會即時退場，在節目結束時不會全部再次集合在一起，而是只由中居一人收結。另外，節目結束時會將出席藝人的專輯排列在中居前。
 
-節目跟[Twitter有所連繫](../Page/Twitter.md "wikilink")，中居會以[iPad讀出](https://zh.wikipedia.org/wiki/iPad "wikilink")「\#cmsn」標籤的消息。
+節目跟[Twitter](../Page/Twitter.md "wikilink")有所連繫，中居會以[iPad讀出](https://zh.wikipedia.org/wiki/iPad "wikilink")「\#cmsn」標籤的消息。
 
-2012年，由中居、[江角真紀子和](../Page/江角真紀子.md "wikilink")[AKB48主持的音樂節目](../Page/AKB48.md "wikilink")《[火曜曲！](https://zh.wikipedia.org/wiki/火曜曲！ "wikilink")》於4月24日開始播映，本節目隨之於3月26日結束播映。
+2012年，由中居、[江角真紀子](../Page/江角真紀子.md "wikilink")和[AKB48](../Page/AKB48.md "wikilink")主持的音樂節目《[火曜曲！](https://zh.wikipedia.org/wiki/火曜曲！ "wikilink")》於4月24日開始播映，本節目隨之於3月26日結束播映。
 
 ## 內容
 

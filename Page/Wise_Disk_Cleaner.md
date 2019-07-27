@@ -7,7 +7,7 @@ Registry Cleaner效果更佳](../Page/Wise_Registry_Cleaner.md "wikilink")。
 Wise disk cleaner的主要功能分为以下几个模块：
 
   - 常规清理：清理系统垃圾文件，上网痕跡（[IE浏览器](https://zh.wikipedia.org/wiki/IE浏览器 "wikilink")，[火狐浏览器](https://zh.wikipedia.org/wiki/火狐浏览器 "wikilink"),[Google
-    Chrome浏览器](../Page/Google_Chrome.md "wikilink"),[Safari浏览器产生的历史记录等](../Page/Safari.md "wikilink")），以及[应用程序产生的垃圾文件](../Page/应用程序.md "wikilink")
+    Chrome浏览器](../Page/Google_Chrome.md "wikilink"),[Safari](../Page/Safari.md "wikilink")浏览器产生的历史记录等），以及[应用程序](../Page/应用程序.md "wikilink")产生的垃圾文件
   - 高级清理：主要是自定义一些[文件类型](https://zh.wikipedia.org/wiki/文件类型 "wikilink")，如.tmp,
     .dmp, .\~等等（适用于高级用户）
   - 系统瘦身：主要是删除一些不必要的系统文件，如[壁纸](../Page/壁纸.md "wikilink")，示例视频，示例音乐，[Windows帮助文档](https://zh.wikipedia.org/wiki/Windows "wikilink")，Windows补丁备份及安装文件，日语IME等等，主要是自己判断能否用到，用不到的就可以删掉。（务必根据自己需要来删除）
@@ -16,10 +16,10 @@ Wise disk cleaner的主要功能分为以下几个模块：
 ## 获奖记录
 
 Wise Disk Cleaner
-自2009年以来就被[CNET评为](../Page/CNET.md "wikilink")5星级软件，曾一度是唯一的一款五星垃圾清理软件
+自2009年以来就被[CNET](../Page/CNET.md "wikilink")评为5星级软件，曾一度是唯一的一款五星垃圾清理软件
 \[1\] 除此之外，Wise Disk Cleaner还被德国最大的科技及下载网站CHIP评为优秀软件 \[2\] 并且早在2007年Wise
 Disk
-Cleaner就被[微软官方科技网站Technet](../Page/微软.md "wikilink").microsoft.com评为推荐磁盘清理软件.\[3\]
+Cleaner就被[微软](../Page/微软.md "wikilink")官方科技网站Technet.microsoft.com评为推荐磁盘清理软件.\[3\]
 
 ## 同类软件
 

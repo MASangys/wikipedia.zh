@@ -1,5 +1,5 @@
 **Sparkling
-Girls**，簡稱**SKG**，是一隊[香港女子跳唱組合](../Page/香港.md "wikilink")，於2012年11月正式出道，為[亞洲星光影視旗下藝人](https://zh.wikipedia.org/wiki/亞洲星光影視 "wikilink")。組合成立初期的成員包括**吳宥萱（Sena）**、**莊茜佳（Tasha）**和**林宜鎂（Meow）**，後來**林宜鎂（Meow）**因為跳舞引致嚴重受傷而暫時退出，並由新成員**高韻（N'IE）**加入取代\[1\]\[2\]。
+Girls**，簡稱**SKG**，是一隊[香港](../Page/香港.md "wikilink")女子跳唱組合，於2012年11月正式出道，為[亞洲星光影視旗下藝人](https://zh.wikipedia.org/wiki/亞洲星光影視 "wikilink")。組合成立初期的成員包括**吳宥萱（Sena）**、**莊茜佳（Tasha）**和**林宜鎂（Meow）**，後來**林宜鎂（Meow）**因為跳舞引致嚴重受傷而暫時退出，並由新成員**高韻（N'IE）**加入取代\[1\]\[2\]。
 
 ## 成員
 
@@ -29,7 +29,7 @@ Girls**，簡稱**SKG**，是一隊[香港女子跳唱組合](../Page/香港.md 
 <td><p>雙魚座</p></td>
 <td><p>168cm</p></td>
 <td><p>粵語、國語、英語</p></td>
-<td><p><a href="../Page/香港浸會大學.md" title="wikilink">香港浸會大學電影專業碩士</a></p></td>
+<td><p><a href="../Page/香港浸會大學.md" title="wikilink">香港浸會大學</a>電影專業碩士</p></td>
 <td><p>現任成員</p></td>
 <td><p>舊名“吳洺錡”[3]、“吳倩”[4]</p></td>
 <td></td>
@@ -43,7 +43,7 @@ Girls**，簡稱**SKG**，是一隊[香港女子跳唱組合](../Page/香港.md 
 <td><p>天蝎座</p></td>
 <td><p>170cm</p></td>
 <td><p>粵語、國語、英語、日語</p></td>
-<td><p><a href="../Page/香港城市大學.md" title="wikilink">香港城市大學語言學學士</a>、<a href="../Page/香港大學.md" title="wikilink">香港大學法律課程</a></p></td>
+<td><p><a href="../Page/香港城市大學.md" title="wikilink">香港城市大學</a>語言學學士、<a href="../Page/香港大學.md" title="wikilink">香港大學</a>法律課程</p></td>
 <td><p>舊名“莊倩兒”[5]</p></td>
 <td></td>
 <td></td>
@@ -144,7 +144,7 @@ Sunshine Kiss Gift</p></td>
   - 10月22日
     獲邀出席《2012[新城慈善K唱遊](https://zh.wikipedia.org/wiki/新城慈善K唱遊 "wikilink")》，擔任表演嘉賓
   - 10月25日 成員**Meow**獲邀接受《Yes》專訪\[9\]
-  - 11月 4日 受邀出席“崽崽”[翁航融全新專輯廣州發佈會](../Page/翁航融.md "wikilink")
+  - 11月 4日 受邀出席“崽崽”[翁航融](../Page/翁航融.md "wikilink")全新專輯廣州發佈會
   - 11月 9日 應邀出席《回顧007之夜》，某意大利著名汽酒品牌派對
   - 11月15日
     獲邀出席[香港美容展](https://zh.wikipedia.org/wiki/香港美容展 "wikilink")，擔任特邀嘉賓
@@ -153,7 +153,7 @@ Sunshine Kiss Gift</p></td>
     于黃石出席《百年枝江•東楚之夜》黃石巨星演唱會，與[譚詠麟](../Page/譚詠麟.md "wikilink")、[張靚穎等同台](https://zh.wikipedia.org/wiki/張靚穎 "wikilink")
   - 12月 4日 于武漢接受湖北音樂台《樂拍樂時尚》、湖北交通音樂台《音樂會說話》的專訪
   - 12月 5日 出席《Yes校園行》活動，應邀擔任表演嘉賓
-  - 12月21日 獲邀與[楊怡小姐一起出席](../Page/楊怡.md "wikilink")《茶犬聖誕遊樂園》活動
+  - 12月21日 獲邀與[楊怡](../Page/楊怡.md "wikilink")小姐一起出席《茶犬聖誕遊樂園》活動
   - 12月31日 應邀于廣州參加跨年活動，任表演嘉賓
 
 ### 2013年
@@ -172,7 +172,7 @@ Sunshine Kiss Gift</p></td>
   - 3月 5日 受邀出席某電影公司開幕式
   - 3月23日 出席《愛健康·愛環保——樽裝飲品包裝設計比賽頒獎典禮》，擔任頒獎及表演嘉賓
   - 3月25日 接受某寵物雜誌獨家專訪
-  - 3月27日 接受[香港電台專訪](../Page/香港電台.md "wikilink")
+  - 3月27日 接受[香港電台](../Page/香港電台.md "wikilink")專訪
   - 3月28日 “No No No No Yes”上榜TVB8《金曲榜》，位列前十
   - 4月 6日 “No No No No Yes”上榜TVB《無間音樂》
   - 4月17日 接受香港商業電台3個訪問
@@ -184,7 +184,7 @@ Sunshine Kiss Gift</p></td>
   - 1月18日 出席《積極人生愛滿Fun嘉年華》活動，應邀擔任表演嘉賓
   - 1月25日 獲邀出席《新城Teen友伴我行閉幕加許禮》，擔任表演嘉賓
   - 2月12日
-    出席[商業電台宣傳新歌](https://zh.wikipedia.org/wiki/商業電台 "wikilink")“單身女皇”，接受[香港電台普通話台專訪](../Page/香港電台.md "wikilink")
+    出席[商業電台宣傳新歌](https://zh.wikipedia.org/wiki/商業電台 "wikilink")“單身女皇”，接受[香港電台](../Page/香港電台.md "wikilink")普通話台專訪
   - 3月 4日 受邀出席《香港唱片商會 2014年春節聯歡晚會》，擔任表演嘉賓
   - 4月 4日
     接受[聲滙網節目](https://zh.wikipedia.org/wiki/聲滙網 "wikilink")《聲滙音樂》專訪

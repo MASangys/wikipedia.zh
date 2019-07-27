@@ -1,9 +1,9 @@
 [Argo_Logo.png](https://zh.wikipedia.org/wiki/File:Argo_Logo.png "fig:Argo_Logo.png")
 [2016-04-countries.png](https://zh.wikipedia.org/wiki/File:2016-04-countries.png "fig:2016-04-countries.png")
 
-**Argo**是一个海洋观测系统的名称，可为[气候](https://zh.wikipedia.org/wiki/气候学 "wikilink")、天气、[海洋学及渔业研究提供实时海洋观测数据](../Page/海洋学.md "wikilink")。\[1\]\[2\]
+**Argo**是一个海洋观测系统的名称，可为[气候](https://zh.wikipedia.org/wiki/气候学 "wikilink")、天气、[海洋学](../Page/海洋学.md "wikilink")及渔业研究提供实时海洋观测数据。\[1\]\[2\]
 
-该观测系统由大量布放在全球海洋中小型、自由漂移的自动探测设备（Argo剖面浮标）组成。大部分浮标在1000米漂移（被称为停留深度），每隔10天下潜到2000米深度并上浮至海面，在这过程中进行海水[温度和](../Page/温度.md "wikilink")[电导率等要素的测量](https://zh.wikipedia.org/wiki/电导率 "wikilink")，由此可计算获得海水[盐度和密度](https://zh.wikipedia.org/wiki/盐度 "wikilink")。观测数据通过卫星传送到地面科研人员，并向所有人免费、无限制提供。Argo计划的名字起源于[希腊神话中勇士](../Page/希腊神话.md "wikilink")[伊阿宋](../Page/伊阿宋.md "wikilink")（Jason）和[阿爾戈英雄](../Page/阿爾戈英雄.md "wikilink")（Argonauts）寻找[金色羊毛时所乘的船](https://zh.wikipedia.org/wiki/金羊毛 "wikilink")。之所以选用该名字，意在强调Argo计划与杰森卫星高度计（）的相互补充。
+该观测系统由大量布放在全球海洋中小型、自由漂移的自动探测设备（Argo剖面浮标）组成。大部分浮标在1000米漂移（被称为停留深度），每隔10天下潜到2000米深度并上浮至海面，在这过程中进行海水[温度](../Page/温度.md "wikilink")和[电导率等要素的测量](https://zh.wikipedia.org/wiki/电导率 "wikilink")，由此可计算获得海水[盐度和密度](https://zh.wikipedia.org/wiki/盐度 "wikilink")。观测数据通过卫星传送到地面科研人员，并向所有人免费、无限制提供。Argo计划的名字起源于[希腊神话](../Page/希腊神话.md "wikilink")中勇士[伊阿宋](../Page/伊阿宋.md "wikilink")（Jason）和[阿爾戈英雄](../Page/阿爾戈英雄.md "wikilink")（Argonauts）寻找[金色羊毛时所乘的船](https://zh.wikipedia.org/wiki/金羊毛 "wikilink")。之所以选用该名字，意在强调Argo计划与杰森卫星高度计（）的相互补充。
 
 ## 国际合作
 

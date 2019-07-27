@@ -1,5 +1,5 @@
 《**Boys Meet
-U**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")8张日語[单曲](../Page/单曲.md "wikilink")。2013年8月21日由[EMI发售](../Page/EMI.md "wikilink")。
+U**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第8张日語[单曲](../Page/单曲.md "wikilink")。2013年8月21日由[EMI](../Page/EMI.md "wikilink")发售。
 
 ## 概要
 
@@ -36,12 +36,12 @@ U**》是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 ## 銷售榜單成績
 
-根據日本主要音樂流行榜——[Oricon公信榜統計](../Page/Oricon公信榜.md "wikilink")，《Boys Meet
+根據日本主要音樂流行榜——[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")統計，《Boys Meet
 U》在發行首日賣出了37,674張，名列日榜第2位，並在發行第四周（2013年9月16日）名列日榜第一。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置                                                  | 銷售量                                                | 總銷量                                                    | 停留時間                      |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置                                                  | 銷售量                                                | 總銷量                                                    | 停留時間                      |
 | ---------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | ------------------------- |
 | 單曲日榜<ref>{{cite web                      | url = <http://www.oricon.co.jp/rank/js/d/2013-08-21/> | publisher = [Oricon](../Page/Oricon.md "wikilink") | title = CDシングルデイリーランキング                                | date = August 22, 2013    |
 | 單曲週榜<ref>{{cite web                      | url = <http://www.oricon.co.jp/rank/js/w/2013-09-02/> | Oricon\]\]                                         | title = CDシングル週間ランキング                                  | date = August 19–25, 2013 |

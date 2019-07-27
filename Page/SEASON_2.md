@@ -1,5 +1,5 @@
 《**SEASON
-2**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE第](../Page/INFINITE.md "wikilink")2枚正規韓語專輯，於2014年5月21日發行，主打歌曲為《Last
+2**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")第2枚正規韓語專輯，於2014年5月21日發行，主打歌曲為《Last
 Romeo》。並在同年7月22日推出重新包裝版專輯《BE BACK》\[1\]，主打歌則為《Back》。
 
 ## 曲目

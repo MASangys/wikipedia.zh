@@ -1,5 +1,5 @@
 《**Last Romeo ～只要你～**》
-（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE的第四張日語單曲](../Page/INFINITE.md "wikilink")，由（）、[金勝洙](https://zh.wikipedia.org/wiki/金勝洙 "wikilink")（）作曲、[文理奈](https://zh.wikipedia.org/wiki/文理奈 "wikilink")（）作詞，並在2014年7月2日以三個不同版本推出\[1\]。這也是他們自加盟[日本環球音樂屬下](../Page/環球音樂_\(日本\).md "wikilink")[維京唱片之](../Page/維京唱片.md "wikilink")品牌後首張作品。
+（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第四張日語單曲，由（）、[金勝洙](https://zh.wikipedia.org/wiki/金勝洙 "wikilink")（）作曲、[文理奈](https://zh.wikipedia.org/wiki/文理奈 "wikilink")（）作詞，並在2014年7月2日以三個不同版本推出\[1\]。這也是他們自加盟[日本環球音樂屬下](../Page/環球音樂_\(日本\).md "wikilink")[維京唱片](../Page/維京唱片.md "wikilink")之品牌後首張作品。
 
 ## 背景
 
@@ -10,7 +10,7 @@
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本。
 
   - 初回限定盤A：這版本包括了一片CD、一片收錄《Last Romeo
-    ～只要你～》[音樂錄影帶與製作花絮的DVD及](../Page/音樂錄影帶.md "wikilink")16頁小冊子\[5\]。
+    ～只要你～》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD及16頁小冊子\[5\]。
 
 <!-- end list -->
 
@@ -26,7 +26,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 單曲日榜                                     | 2    | 32,455 | 49,003+ | 4星期  |
 | 單曲週榜                                     | 2    | 47,262 |         |      |

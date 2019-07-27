@@ -1,8 +1,8 @@
-**Animeism**是[日本](../Page/日本.md "wikilink")[每日放送專門播放自家製作](../Page/每日放送.md "wikilink")[動畫的一個節目時段](https://zh.wikipedia.org/wiki/動畫 "wikilink")。本節目名稱結合了英語的「動畫」（Anime）和「主義」（ism）。作為[TBS電視台](../Page/TBS電視台.md "wikilink")[聯播網](../Page/聯播網.md "wikilink")（[日本新聞網](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")）一員，本區塊亦於[TBS和](../Page/TBS.md "wikilink")[BS-TBS播放](../Page/BS-TBS.md "wikilink")。
+**Animeism**（）是[日本](../Page/日本.md "wikilink")[每日放送](../Page/每日放送.md "wikilink")的[深夜動畫時段](../Page/日本深夜動畫.md "wikilink")，名稱結合了英語的「動畫」（Anime）和「主義」（ism）。該時段的作品均為自家原創製作，而做為[TBS電視台](../Page/TBS電視台.md "wikilink")[聯播網](../Page/聯播網.md "wikilink")（[JNN](../Page/日本新聞網_\(TBS\).md "wikilink")）一員，該時段的作品亦於TBS電視台（[聯播](../Page/同步廣播.md "wikilink")）以及[BS-TBS](../Page/BS-TBS.md "wikilink")播出。
 
 ## 源由
 
-[每日放送自](../Page/每日放送.md "wikilink")2006年10月開始，已經固定於星期四深夜25時55分播放電視台有份投資的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，跟一般仰賴[聯播網](../Page/聯播網.md "wikilink")[核心局提供節目的其他電視台相比](../Page/核心局.md "wikilink")，顯得較為積極。其後於2011年4月，電視台擴展有關區塊，原為重播其他電視台動畫的深夜26時25分時段均改為播放自家投資製作。2012年4月，電視台有見相關觀眾群已經漸見成熟，決定把兩線動畫時段正式命名為「Animeism」。
+[每日放送](../Page/每日放送.md "wikilink")自2006年10月開始，已經固定於星期四深夜25時55分播放電視台有份投資的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，跟一般仰賴[聯播網](../Page/聯播網.md "wikilink")[核心局](../Page/核心局.md "wikilink")提供節目的其他電視台相比，顯得較為積極。其後於2011年4月，電視台擴展有關區塊，原為重播其他電視台動畫的深夜26時25分時段均改為播放自家投資製作。2012年4月，電視台有見相關觀眾群已經漸見成熟，決定把兩線動畫時段正式命名為「Animeism」。
 
 2015年4月，電視台讓區塊改於星期五播放，於深夜26時10分至27時40分納入三線動畫。
 
@@ -216,7 +216,7 @@
 <td><p><a href="../Page/蒼穹之戰神.md" title="wikilink">蒼穹之戰神 EXODUS</a></p></td>
 <td></td>
 <td><p>26</p></td>
-<td><p><a href="../Page/XEBEC.md" title="wikilink">XEBECzwei</a></p></td>
+<td><p><a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>zwei</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -115,7 +115,7 @@ Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://
 <tr class="odd">
 <td><p>2014年7月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
-<td><p><a href="../Page/國立代代木競技場.md" title="wikilink">國立代代木競技場第一體育館</a></p></td>
+<td><p><a href="../Page/國立代代木競技場.md" title="wikilink">國立代代木競技場</a>第一體育館</p></td>
 <td><p>總計39,000名</p></td>
 <td></td>
 </tr>

@@ -8,7 +8,7 @@ iOS 8做出了許多重大的改變。iOS
 8再度對使用者介面進行變更\[2\]，並首次引入[接續互通功能體系](https://zh.wikipedia.org/wiki/接續互通 "wikilink")，能不間斷的銜接[蘋果裝置的作業](https://zh.wikipedia.org/wiki/蘋果裝置 "wikilink")。接續互通包括Handoff，能在不同裝置間同步[應用程式作業](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，包括撰寫郵件及瀏覽網站等；通用剪貼板功能，能在不同裝置間同步[拷貝的文字](https://zh.wikipedia.org/wiki/复制 "wikilink")、圖片或其他內容；行動網路通話功能，在同一環境下能使用[Mac接聽](https://zh.wikipedia.org/wiki/Macintosh "wikilink")、撥打電話；及Instant
 Hotspot功能，能透過Mac開啟iPhone熱點\[3\]\[4\]。家人共享功能，能讓多達六位的家庭成員分享從[iTunes
 Store與](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[App
-Store購買的內容](../Page/App_Store_\(iOS\).md "wikilink")，無須共用帳號；用戶可用同一張[信用卡支付全家人購買的內容](../Page/信用卡.md "wikilink")，也可設定限制未成年成員的消費\[5\]；全新[QuickType鍵盤](https://zh.wikipedia.org/wiki/QuickType "wikilink")，能自動建議單字\[6\]；第三方廠商權限增加，可提供小工具及鍵盤\[7\]\[8\]。
+Store購買的內容](../Page/App_Store_\(iOS\).md "wikilink")，無須共用帳號；用戶可用同一張[信用卡](../Page/信用卡.md "wikilink")支付全家人購買的內容，也可設定限制未成年成員的消費\[5\]；全新[QuickType鍵盤](https://zh.wikipedia.org/wiki/QuickType "wikilink")，能自動建議單字\[6\]；第三方廠商權限增加，可提供小工具及鍵盤\[7\]\[8\]。
 
 iOS
 8的內建應用程式也得到了升級：新增健康應用程式，整合第三方健康相關應用程式資料；引入蘋果自有[雲端硬碟服務](../Page/网络硬盘.md "wikilink")[iCloud
@@ -81,7 +81,7 @@ Watch应用程式；改进健康应用程式功能，並提升系統效能，同
 8.3起，蘋果推出公開[Beta版软件计划](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")，讓消費者也可免費试用预发布版本软件，并向蘋果反馈問題\[56\]\[57\]\[58\]。
 
 iOS
-8.3於2015年4月8日發布。此更新重新設計[表情符號鍵盤](https://zh.wikipedia.org/wiki/表情符號 "wikilink")、新增無線[CarPlay功能支援](../Page/CarPlay.md "wikilink")，並提升效能、修正大量錯誤\[59\]\[60\]\[61\]。
+8.3於2015年4月8日發布。此更新重新設計[表情符號鍵盤](https://zh.wikipedia.org/wiki/表情符號 "wikilink")、新增無線[CarPlay](../Page/CarPlay.md "wikilink")功能支援，並提升效能、修正大量錯誤\[59\]\[60\]\[61\]。
 
 #### 8.4
 
@@ -116,7 +116,7 @@ Store媒體內容等](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")\[88
 ### 通知中心
 
 iOS
-8的通知中心經過了重新設計，新增了[小工具功能](https://zh.wikipedia.org/wiki/Widget "wikilink")。第三方應用程式可開發附屬小工具，並由用戶加入通知中心。小工具不必透過應用程式即可顯示部分資訊，例如[ESPN運動比賽分數或](../Page/ESPN.md "wikilink")[eBay的競標資訊等](https://zh.wikipedia.org/wiki/eBay "wikilink")。用户可以自由添加、移除小工具並排列次序\[90\]\[91\]\[92\]。
+8的通知中心經過了重新設計，新增了[小工具功能](https://zh.wikipedia.org/wiki/Widget "wikilink")。第三方應用程式可開發附屬小工具，並由用戶加入通知中心。小工具不必透過應用程式即可顯示部分資訊，例如[ESPN](../Page/ESPN.md "wikilink")運動比賽分數或[eBay的競標資訊等](https://zh.wikipedia.org/wiki/eBay "wikilink")。用户可以自由添加、移除小工具並排列次序\[90\]\[91\]\[92\]。
 
 出現於螢幕上緣的橫幅通知訊息現在加入了直接回覆功能，用戶可在不切換應用程式的情況下直接在通知橫幅中回覆簡訊、將電子郵件刪除或標示為已讀等\[93\]。
 
@@ -126,13 +126,13 @@ iOS 8首度引入全新QuickType鍵盤，可在輸入文字時即時顯示字詞
 8將自動學習使用者的輸入習慣和用詞風格，且能依據傳送對象產生不同的預測內容。字詞預測支援包括[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[日文等](https://zh.wikipedia.org/wiki/日文 "wikilink")14種語言\[94\]\[95\]\[96\]。
 
 iOS
-8首度支援第三方输入法，如[嘸蝦米輸入法和](../Page/嘸蝦米輸入法.md "wikilink")[百度输入法等](https://zh.wikipedia.org/wiki/百度手機輸入法 "wikilink")\[97\]\[98\]\[99\]。在一般情況下，iOS
+8首度支援第三方输入法，如[嘸蝦米輸入法](../Page/嘸蝦米輸入法.md "wikilink")和[百度输入法等](https://zh.wikipedia.org/wiki/百度手機輸入法 "wikilink")\[97\]\[98\]\[99\]。在一般情況下，iOS
 8皆讓第三方输入法於[沙盒隔離環境中運作](../Page/沙盒_\(電腦安全\).md "wikilink")，以免侵害個人隱私。只有用戶選擇開放個人資訊時，输入法才得以收集用戶資料\[100\]\[101\]。此外，第三方输入法不支援Siri聽寫功能\[102\]。
 
 ### 家人共享
 
 iOS 8首度引入家人共享功能，只要共同使用iOS 8和[OS X
-Yosemite以上版本系统的裝置](../Page/OS_X_Yosemite.md "wikilink")，用户可以與最多6名家庭成员共同分享使用同一张[信用卡购买的應用程式](../Page/信用卡.md "wikilink")、[音乐及](../Page/音乐.md "wikilink")[电子书等數位內容](https://zh.wikipedia.org/wiki/电子书 "wikilink")，不需輸入個別的帳號及密碼\[103\]\[104\]\[105\]。不過，未成年成員無法看見成人購買的內容\[106\]。
+Yosemite以上版本系统的裝置](../Page/OS_X_Yosemite.md "wikilink")，用户可以與最多6名家庭成员共同分享使用同一张[信用卡](../Page/信用卡.md "wikilink")购买的應用程式、[音乐](../Page/音乐.md "wikilink")及[电子书等數位內容](https://zh.wikipedia.org/wiki/电子书 "wikilink")，不需輸入個別的帳號及密碼\[103\]\[104\]\[105\]。不過，未成年成員無法看見成人購買的內容\[106\]。
 
 家人共享功能也延伸至內建應用程式中，例如为所有家庭成员自动建立的相片串流，及自動同步的[行事历等](https://zh.wikipedia.org/wiki/行事曆_\(應用程式\) "wikilink")\[107\]\[108\]。未成年成員也可以藉由[App
 Store](../Page/App_Store_\(iOS\).md "wikilink")、[iTunes
@@ -144,7 +144,7 @@ Store等商店介面向家长传送购买请求](https://zh.wikipedia.org/wiki/i
 
 首次支援免授權行動存取，即[Wi-Fi通話功能](https://zh.wikipedia.org/wiki/Wi-Fi通話 "wikilink")，電信業者可自行決定是否啟用\[113\]\[114\]\[115\]\[116\]。
 
-內建[語音助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")[Siri現在支援](../Page/Siri.md "wikilink")[Shazam歌曲辨識功能](../Page/Shazam_\(服務\).md "wikilink")\[117\]。
+內建[語音助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")[Siri](../Page/Siri.md "wikilink")現在支援[Shazam歌曲辨識功能](../Page/Shazam_\(服務\).md "wikilink")\[117\]。
 
 ## 應用程式新增功能
 
@@ -154,7 +154,7 @@ Store等商店介面向家长传送购买请求](https://zh.wikipedia.org/wiki/i
 
 #### 相機
 
-相機應用程式首次支援[縮時攝影模式](../Page/縮時攝影.md "wikilink")，能以每秒一幀的[幀率錄製影片](https://zh.wikipedia.org/wiki/幀率 "wikilink")，並以正常影片速率播放；此外，新增的[倒數計時器可延迟拍攝三至十秒](https://zh.wikipedia.org/wiki/倒數計時 "wikilink")\[118\]\[119\]。原先只在[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
+相機應用程式首次支援[縮時攝影](../Page/縮時攝影.md "wikilink")模式，能以每秒一幀的[幀率錄製影片](https://zh.wikipedia.org/wiki/幀率 "wikilink")，並以正常影片速率播放；此外，新增的[倒數計時器可延迟拍攝三至十秒](https://zh.wikipedia.org/wiki/倒數計時 "wikilink")\[118\]\[119\]。原先只在[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
 touch出現的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[全景拍攝模式](../Page/全景图.md "wikilink")，現在也支援[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")\[120\]。
 
 #### iCloud相片圖庫
@@ -223,11 +223,11 @@ Plus以上裝置](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")\[153\]
 
 ### Safari
 
-Safari現在支援[WebGL圖形](../Page/WebGL.md "wikilink")[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")\[154\]。
+Safari現在支援[WebGL](../Page/WebGL.md "wikilink")圖形[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")\[154\]。
 
 ### 天氣
 
-在iOS 8中，天氣資料來源由[雅虎天氣改為](../Page/雅虎.md "wikilink")[The Weather
+在iOS 8中，天氣資料來源由[雅虎](../Page/雅虎.md "wikilink")天氣改為[The Weather
 Channel](https://zh.wikipedia.org/wiki/The_Weather_Channel "wikilink")\[155\]\[156\]\[157\]；同時，應用程式介面也有些許改變\[158\]。
 
 ### Touch ID
@@ -243,7 +243,7 @@ iOS
 ### 與大中華地區相關的新設計
 
 iOS
-8的第二曆法中新增了[農曆](../Page/農曆.md "wikilink")，改善了[大陸地區的地圖資料](https://zh.wikipedia.org/wiki/大陸地區 "wikilink")\[161\]，同時加強了[Siri的中文語音識別能力](../Page/Siri.md "wikilink")\[162\]。此外，系統語言亦加入了[香港繁體中文的選項](../Page/香港.md "wikilink")\[163\]。
+8的第二曆法中新增了[農曆](../Page/農曆.md "wikilink")，改善了[大陸地區的地圖資料](https://zh.wikipedia.org/wiki/大陸地區 "wikilink")\[161\]，同時加強了[Siri](../Page/Siri.md "wikilink")的中文語音識別能力\[162\]。此外，系統語言亦加入了[香港](../Page/香港.md "wikilink")繁體中文的選項\[163\]。
 
 ## 問題
 

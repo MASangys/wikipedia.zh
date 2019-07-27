@@ -1,6 +1,6 @@
-**AS阿德玛足球俱乐部**是一个位于[马达加斯加](../Page/马达加斯加.md "wikilink")[塔那那利佛市的一家足球俱乐部](../Page/塔那那利佛.md "wikilink")\[1\]。该俱乐部曾经连续3次赢得[马达加斯加冠军联赛](https://zh.wikipedia.org/wiki/马达加斯加冠军联赛 "wikilink")
+**AS阿德玛足球俱乐部**是一个位于[马达加斯加](../Page/马达加斯加.md "wikilink")[塔那那利佛](../Page/塔那那利佛.md "wikilink")市的一家足球俱乐部\[1\]。该俱乐部曾经连续3次赢得[马达加斯加冠军联赛](https://zh.wikipedia.org/wiki/马达加斯加冠军联赛 "wikilink")
 冠军（2002、2006、2012年）.
-在2002年，该俱乐部还还进入了[非足联冠军联赛四强但输给了](https://zh.wikipedia.org/wiki/非足联冠军联赛 "wikilink")[埃及的](../Page/埃及.md "wikilink")[马斯里](https://zh.wikipedia.org/wiki/阿尔马斯里足球俱乐部 "wikilink")。\[2\]
+在2002年，该俱乐部还还进入了[非足联冠军联赛四强但输给了](https://zh.wikipedia.org/wiki/非足联冠军联赛 "wikilink")[埃及](../Page/埃及.md "wikilink")的[马斯里](https://zh.wikipedia.org/wiki/阿尔马斯里足球俱乐部 "wikilink")。\[2\]
 
 ## 历史
 

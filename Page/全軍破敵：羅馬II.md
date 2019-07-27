@@ -1,5 +1,5 @@
 是一款由[Creative
-Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行的戰略遊戲](../Page/世嘉.md "wikilink")。遊戲在2013年9月3日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]平台上發布。這是[全面戰爭系列的第](https://zh.wikipedia.org/wiki/全面戰爭系列 "wikilink")8代獨立遊戲，也是第3代作品《[羅馬：全面戰爭](https://zh.wikipedia.org/wiki/羅馬：全面戰爭 "wikilink")》的續作。這遊戲是一個商業上的成功，它在銷售量和發布當天的線上玩家人數都超越[全軍破敵系列的其他遊戲](https://zh.wikipedia.org/wiki/全軍破敵 "wikilink")\[2\]\[3\]\[4\]。
+Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉](../Page/世嘉.md "wikilink")發行的戰略遊戲。遊戲在2013年9月3日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]平台上發布。這是[全面戰爭系列的第](https://zh.wikipedia.org/wiki/全面戰爭系列 "wikilink")8代獨立遊戲，也是第3代作品《[羅馬：全面戰爭](https://zh.wikipedia.org/wiki/羅馬：全面戰爭 "wikilink")》的續作。這遊戲是一個商業上的成功，它在銷售量和發布當天的線上玩家人數都超越[全軍破敵系列的其他遊戲](https://zh.wikipedia.org/wiki/全軍破敵 "wikilink")\[2\]\[3\]\[4\]。
 
 遊戲的背景設定在[古典時代的歐洲](https://zh.wikipedia.org/wiki/古典時代 "wikilink")，相對於《羅馬：全軍破敵》的遊戲背景幾乎完全集中在[羅馬共和國和它的政治不同](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")，羅馬II盡可能準確和深入地刻畫出在那時代的每一個文明。玩家在遊戲中扮演其中一個可玩派系，而玩家想取得勝利便要比敵人更快建立一個帝國。單人遊戲模式開始於公元前272年，並持續300多年。然而，玩家可以繼續進行遊戲，因為在羅馬II中沒有時間勝利條件。
 
@@ -28,10 +28,10 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
   - 郊區戰鬥：這種戰鬥是在沒有城牆的城市發生，因為那些城市規模太小所以才沒有[城牆](https://zh.wikipedia.org/wiki/城牆 "wikilink")。在這種戰鬥中，城市裹有多個佔領點,攻方的目標是控制那些佔領點,守方的工作是阻止攻方成功。
   - 攻城戰：這種戰鬥是在軍隊強攻[省城或](https://zh.wikipedia.org/wiki/省城 "wikilink")[堡壘時發生的](../Page/要塞.md "wikilink")。勝利條件與郊區戰鬥一樣。攻方還能在強攻前打造[攻城器械](https://zh.wikipedia.org/wiki/古羅馬攻城器械 "wikilink")。
   - 堡壘戰：由於軍隊可以進入防禦姿態來建立臨時堡壘,這種戰鬥是當敵方攻擊正在處於防禦姿態的軍隊才觸發的。守方還可以在戰鬥前進一步建立[防禦工事例如木柵欄或小型堡壘](https://zh.wikipedia.org/wiki/防禦工事 "wikilink")。總而言之，這種戰鬥會像一場小規模的圍攻。
-  - 渡河戰：渡河戰是指當一支軍隊試圖橫過一條[河流時遭到另一支軍隊阻止而爆發的戰鬥](../Page/河流.md "wikilink")。海軍可以在這種戰鬥中幫助，但陸軍自己也可以制造運輸艦渡江。
+  - 渡河戰：渡河戰是指當一支軍隊試圖橫過一條[河流](../Page/河流.md "wikilink")時遭到另一支軍隊阻止而爆發的戰鬥。海軍可以在這種戰鬥中幫助，但陸軍自己也可以制造運輸艦渡江。
   - 伏擊戰：[伏擊戰在羅馬II中有大大的改變](../Page/埋伏.md "wikilink")。埋伏者可以在埋伏區周圍放置陷阱,例如一包包乾草和木刺等。守方便要想辦法逃出埋伏區或消滅埋伏者。
   - 突擊戰：當一支軍隊處於急行軍時受到襲擊便會爆發突擊戰。由於急行軍會累壞士兵所以他們的戰鬥力和士氣都會降低。攻方需要設法奪取敵人的補給車或直接殲滅敵人來勝出。
-  - 海軍圍城：這種圍城只有海軍部隊參加，但玩家可以把艦上的[水手登陸變成](../Page/水手.md "wikilink")[海軍陸戰隊進行陸戰](../Page/海軍陸戰隊.md "wikilink")，更有船隻裝有[投石器等攻城武器](https://zh.wikipedia.org/wiki/投石器 "wikilink")。
+  - 海軍圍城：這種圍城只有海軍部隊參加，但玩家可以把艦上的[水手](../Page/水手.md "wikilink")登陸變成[海軍陸戰隊](../Page/海軍陸戰隊.md "wikilink")進行陸戰，更有船隻裝有[投石器等攻城武器](https://zh.wikipedia.org/wiki/投石器 "wikilink")。
 
 ### 事務官
 
@@ -43,7 +43,7 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 
 ### 外交與政治
 
-羅馬II中的政治體制已被全面提升。羅馬和迦太基這兩個派系內部都有三個政治黨派互相爭奪權力，如果玩家想選擇這兩個派系來進行遊戲他們只能選擇其中一個黨派來扮演。其他的派系只有一個政治黨派\[17\]\[18\]。不同黨派的政治地位是基於他們對國家的貢獻，例如某黨派的將軍為國家佔領更多的土地或某政治人物為國家贏取外交勝利等。如果一個黨派的地位降得太低，他們可能再不能左右國家事務，但如果一個黨派變得過於強大，又可能會迫使他的對手聯合起來對付他。在某些情況下，玩家可以嘗試把所有權力集中在自己身上，從而成為[皇帝或](../Page/皇帝.md "wikilink")[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")，但這樣需要經歷一場內戰\[19\]。現在將軍可以是軍人或政治家，這取決於他們的技能和特質。
+羅馬II中的政治體制已被全面提升。羅馬和迦太基這兩個派系內部都有三個政治黨派互相爭奪權力，如果玩家想選擇這兩個派系來進行遊戲他們只能選擇其中一個黨派來扮演。其他的派系只有一個政治黨派\[17\]\[18\]。不同黨派的政治地位是基於他們對國家的貢獻，例如某黨派的將軍為國家佔領更多的土地或某政治人物為國家贏取外交勝利等。如果一個黨派的地位降得太低，他們可能再不能左右國家事務，但如果一個黨派變得過於強大，又可能會迫使他的對手聯合起來對付他。在某些情況下，玩家可以嘗試把所有權力集中在自己身上，從而成為[皇帝](../Page/皇帝.md "wikilink")或[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")，但這樣需要經歷一場內戰\[19\]。現在將軍可以是軍人或政治家，這取決於他們的技能和特質。
 
 外交系統已轉用更好的人工智能，讓玩家們可以從外交手段取得勝利。開發小組承認在以前的全軍破敵遊戲中自動玩家會做出各種異常舉動，例如小城邦會對強大的角色宣戰，現在人工智能會比之前更聰明和更狡猾\[20\]。玩家的行動將會決定其他自動玩家把玩家看作成一個值得信賴的盟友還是一個可疑的叛徒。
 
@@ -59,7 +59,7 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 
   - [羅馬共和國](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")：[尤利烏斯家族](https://zh.wikipedia.org/wiki/尤利烏斯家族 "wikilink")、[科涅利烏斯家族](https://zh.wikipedia.org/wiki/:en:Cornelia_\(gens\) "wikilink")、[尤尼烏斯家族](https://zh.wikipedia.org/wiki/:en:Junia_\(gens\) "wikilink")
   - [古迦太基](../Page/古迦太基.md "wikilink")：[巴卡家族](https://zh.wikipedia.org/wiki/巴卡家族 "wikilink")、[漢諾家族](https://zh.wikipedia.org/wiki/漢諾家族 "wikilink")、[馬戈家族](https://zh.wikipedia.org/wiki/:en:Magonids "wikilink")
-  - [繼業者帝國](../Page/繼業者.md "wikilink")：[馬其頓](../Page/馬其頓.md "wikilink")([安提柯王朝](../Page/安提柯王朝.md "wikilink"))、[塞琉古帝國](https://zh.wikipedia.org/wiki/塞琉古帝國 "wikilink")、[埃及](../Page/托勒密王國.md "wikilink")([托勒密王國](../Page/托勒密王國.md "wikilink"))、[巴克特里亞王國](https://zh.wikipedia.org/wiki/希臘-巴克特里亞王國 "wikilink")（[大夏王國](https://zh.wikipedia.org/wiki/希臘-巴克特里亞王國 "wikilink")）
+  - [繼業者](../Page/繼業者.md "wikilink")帝國：[馬其頓](../Page/馬其頓.md "wikilink")([安提柯王朝](../Page/安提柯王朝.md "wikilink"))、[塞琉古帝國](https://zh.wikipedia.org/wiki/塞琉古帝國 "wikilink")、[埃及](../Page/托勒密王國.md "wikilink")([托勒密王國](../Page/托勒密王國.md "wikilink"))、[巴克特里亞王國](https://zh.wikipedia.org/wiki/希臘-巴克特里亞王國 "wikilink")（[大夏王國](https://zh.wikipedia.org/wiki/希臘-巴克特里亞王國 "wikilink")）
   - [希臘城邦](../Page/希臘城邦.md "wikilink")：[雅典](../Page/雅典.md "wikilink")、[斯巴達](https://zh.wikipedia.org/wiki/斯巴達 "wikilink")、[伊庇魯斯](https://zh.wikipedia.org/wiki/伊庇魯斯 "wikilink")、[敘拉古](https://zh.wikipedia.org/wiki/敘拉古 "wikilink")、[馬薩利亞](https://zh.wikipedia.org/wiki/馬賽 "wikilink")
   - 東方帝國：[帕提亞](../Page/安息帝國.md "wikilink")、[亞美尼亞王國](../Page/亞美尼亞王國.md "wikilink")、[本都](../Page/本都.md "wikilink")
   - [日耳曼人](../Page/日耳曼人.md "wikilink")：[蘇維匯人](https://zh.wikipedia.org/wiki/蘇維匯人 "wikilink")
@@ -72,7 +72,7 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 
 ## 下載包
 
-與前作[全軍破敵：幕府將軍2相同](../Page/全軍破敵：幕府將軍2.md "wikilink")，《羅馬II：全軍破敵》在基本遊戲以外亦有大部分需額外付費購買的大量下載包，以添加更多的新增派系、兵種、戰役、視覺效果及其他遊戲內容。
+與前作[全軍破敵：幕府將軍2](../Page/全軍破敵：幕府將軍2.md "wikilink")相同，《羅馬II：全軍破敵》在基本遊戲以外亦有大部分需額外付費購買的大量下載包，以添加更多的新增派系、兵種、戰役、視覺效果及其他遊戲內容。
 
 ### 獨立戰役包
 
@@ -86,7 +86,7 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 
   - 〈君臨天下〉（免費）：
 
-16/9/2014推出，戰役背景設定為共和國晚期[後三頭內戰](https://zh.wikipedia.org/wiki/後三頭 "wikilink")，以及包括[亞美尼亞王國一個在主戰役中新的可玩派系](../Page/亞美尼亞王國.md "wikilink")。
+16/9/2014推出，戰役背景設定為共和國晚期[後三頭內戰](https://zh.wikipedia.org/wiki/後三頭 "wikilink")，以及包括[亞美尼亞王國](../Page/亞美尼亞王國.md "wikilink")一個在主戰役中新的可玩派系。
 
   - 〈斯巴達之怒〉：
 
@@ -94,7 +94,7 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 
   - 〈帝國分裂〉：
 
-30/11/2017推出，戰役背景設定為[三世紀危機時](https://zh.wikipedia.org/wiki/三世紀危機 "wikilink")[羅馬帝國的分裂與內戰](../Page/羅馬帝國.md "wikilink")，以及包括主戰役政治系統的重大重製更新。
+30/11/2017推出，戰役背景設定為[三世紀危機時](https://zh.wikipedia.org/wiki/三世紀危機 "wikilink")[羅馬帝國](../Page/羅馬帝國.md "wikilink")的分裂與內戰，以及包括主戰役政治系統的重大重製更新。
 
   - 〈共和國崛起〉
 
@@ -108,7 +108,7 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 
   - 遊牧民族文化包：
 
-22/10/2013推出，包括[馬薩革泰人](../Page/馬薩革泰人.md "wikilink")、[羅克索拉尼人及](https://zh.wikipedia.org/wiki/羅克索拉尼人 "wikilink")[斯基泰人三個在主戰役中新的可玩派系](../Page/斯基泰人.md "wikilink")。
+22/10/2013推出，包括[馬薩革泰人](../Page/馬薩革泰人.md "wikilink")、[羅克索拉尼人及](https://zh.wikipedia.org/wiki/羅克索拉尼人 "wikilink")[斯基泰人](../Page/斯基泰人.md "wikilink")三個在主戰役中新的可玩派系。
 
   - 巴爾幹部落文化包：
 
@@ -134,7 +134,7 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 
   - 戰神之女下載包：
 
-15/8/2014推出，為遊戲加添若干諸如女[角鬥士等女性兵種](../Page/角鬥士.md "wikilink")。
+15/8/2014推出，為遊戲加添若干諸如女[角鬥士](../Page/角鬥士.md "wikilink")等女性兵種。
 
 ### 派系包（免費）
 
@@ -161,11 +161,11 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉發行�
 ## 評價
 
 《羅馬II：全軍破敵》在各大電子媒體上均獲得良好口碑，遊戲在[GameRankings](https://zh.wikipedia.org/wiki/GameRankings "wikilink")\[22\]和[Metacritic](../Page/Metacritic.md "wikilink")\[23\]分別得到76.67分和76分，後者在網站上評級這遊戲是「總體良好」\[24\]。[PC
-Gamer給這遊戲](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")85分，這網站稱讚羅馬II的戰鬥像電影一般壯觀和對細節的重視，他們稱這遊戲為「令人驚嘆」。但在同一個評論中也有人批評遊戲的最初版本有毛病\[25\]。[Edge也同樣稱讚遊戲的和戰鬥視覺效果但同時也有指出遊戲初期的問題](https://zh.wikipedia.org/wiki/Edge "wikilink")\[26\]。[GameSpot在評論中稱讚羅馬II有眾多單位可以給玩家選擇的特點和優越的音效與視覺效果](../Page/GameSpot.md "wikilink")，但同時有批評遊戲的單位攝像機有問題\[27\]。[The
+Gamer給這遊戲](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")85分，這網站稱讚羅馬II的戰鬥像電影一般壯觀和對細節的重視，他們稱這遊戲為「令人驚嘆」。但在同一個評論中也有人批評遊戲的最初版本有毛病\[25\]。[Edge也同樣稱讚遊戲的和戰鬥視覺效果但同時也有指出遊戲初期的問題](https://zh.wikipedia.org/wiki/Edge "wikilink")\[26\]。[GameSpot](../Page/GameSpot.md "wikilink")在評論中稱讚羅馬II有眾多單位可以給玩家選擇的特點和優越的音效與視覺效果，但同時有批評遊戲的單位攝像機有問題\[27\]。[The
 Escapist也稱讚羅馬II優越的視覺效果](../Page/The_Escapist.md "wikilink")，並特別指出遊戲的單位多元化令遊戲中所有派系都可以特出自己的文化特點\[28\]。
 
 除了戰鬥之外，[Game
-Revolution給這遊戲的戰役地圖十分高的評價](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")，也讚揚遊戲新的功能，但同時也有批評等待人工智能的回合時間太長\[29\]。[IGN也批評回合時間太長](../Page/IGN.md "wikilink")，即使它們評價羅馬II是一個值得回味的遊戲，但遊戲也有地方要玩家受一些不必要的麻煩\[30\]。[Game
+Revolution給這遊戲的戰役地圖十分高的評價](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")，也讚揚遊戲新的功能，但同時也有批評等待人工智能的回合時間太長\[29\]。[IGN](../Page/IGN.md "wikilink")也批評回合時間太長，即使它們評價羅馬II是一個值得回味的遊戲，但遊戲也有地方要玩家受一些不必要的麻煩\[30\]。[Game
 Informer認為羅馬II比](../Page/Game_Informer.md "wikilink")《全軍破敵：幕府將軍2》退步，因為在羅馬II中國家的實力會影響戰爭的規模，而在幕府將軍2一個小國也可以發動一場規模龐大的戰爭\[31\]。但是[GamesRadar反而稱讚羅馬II是一個優秀的續集](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")\[32\]。
 
 ### 銷售

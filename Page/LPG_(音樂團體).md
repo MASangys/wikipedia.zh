@@ -340,6 +340,6 @@ Girl**）為Aquagro娛樂打造的女子團體。第一期在2005年出道時為
 9.  現以**달보드레**之名活動中
 10. 現以本名作為演員活動中
 11. Pow Pow時期退出，現以**서휘**之名作為演員活動
-12. 現為[RANIA隊長](../Page/RANIA.md "wikilink")
+12. 現為[RANIA](../Page/RANIA.md "wikilink")隊長
 13. Pow Pow時期作為**雅律**替代成員加入，現為模特兒
 14.

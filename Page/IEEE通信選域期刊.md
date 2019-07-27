@@ -1,6 +1,6 @@
 **IEEE通信選域期刊**()是一份由[IEEE通信學會](https://zh.wikipedia.org/wiki/IEEE通信學會 "wikilink")(IEEE
 Communications
-Society)單月出版的[同行評審](../Page/同行評審.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")，期刊內文著重在[电信領域方面的探討研究](../Page/电信.md "wikilink")。本期刊成立於1983年，目前的主編為"穆里爾·梅德"()。\[1\]根據[期刊引证报告](../Page/期刊引证报告.md "wikilink")，本期刊在2012年的[影响因子為](../Page/影响因子.md "wikilink")\<3.121\>、[特徵因子](https://zh.wikipedia.org/wiki/特徵因子 "wikilink")(eigenfactor)分值為\<0.03366\>，以及[論文影響分值](https://zh.wikipedia.org/wiki/論文影響分值 "wikilink")(article
+Society)單月出版的[同行評審](../Page/同行評審.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")，期刊內文著重在[电信](../Page/电信.md "wikilink")領域方面的探討研究。本期刊成立於1983年，目前的主編為"穆里爾·梅德"()。\[1\]根據[期刊引证报告](../Page/期刊引证报告.md "wikilink")，本期刊在2012年的[影响因子](../Page/影响因子.md "wikilink")為\<3.121\>、[特徵因子](https://zh.wikipedia.org/wiki/特徵因子 "wikilink")(eigenfactor)分值為\<0.03366\>，以及[論文影響分值](https://zh.wikipedia.org/wiki/論文影響分值 "wikilink")(article
 influence score)為\<2.493\>。\[2\]\[3\]
 
 ## 註釋

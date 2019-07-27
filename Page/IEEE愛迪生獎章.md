@@ -2,7 +2,7 @@
 
 IEEE愛迪生獎章得名於發明家[湯瑪斯·愛迪生](https://zh.wikipedia.org/wiki/湯瑪斯·愛迪生 "wikilink")，與1904年2月11日由愛迪生的家族及同事創立。四年後被引入當時的美國電氣工程師協會（AIEE，IEEE的前身之一），作為其頒發的最高榮譽。第一位獲獎者是（1909年）。之後的獲獎者包括[喬治·威斯汀豪斯](https://zh.wikipedia.org/wiki/喬治·威斯汀豪斯 "wikilink")、[亞歷山大·格拉漢姆·貝爾](https://zh.wikipedia.org/wiki/亞歷山大·格拉漢姆·貝爾 "wikilink")、[尼古拉·特斯拉](../Page/尼古拉·特斯拉.md "wikilink")、[米海洛·卜平](../Page/米海洛·卜平.md "wikilink")、[羅伯特·密立根](https://zh.wikipedia.org/wiki/羅伯特·密立根 "wikilink")（獲1923年[諾貝爾物理學獎](https://zh.wikipedia.org/wiki/諾貝爾物理學獎 "wikilink")）和[萬尼瓦爾·布什等](https://zh.wikipedia.org/wiki/萬尼瓦爾·布什 "wikilink")。\[3\]IEEE在其網站公佈有完整的獲獎者名單。\[4\]
 
-1963年，無線電工程師學會（IRE）和美國電氣工程師協會（AIEE）合併為電機電子工程師學會（IEEE）之後，[IEEE榮譽獎章成為了最高榮譽](../Page/IEEE榮譽獎章.md "wikilink")，IEEE愛迪生獎章則是
+1963年，無線電工程師學會（IRE）和美國電氣工程師協會（AIEE）合併為電機電子工程師學會（IEEE）之後，[IEEE榮譽獎章](../Page/IEEE榮譽獎章.md "wikilink")成為了最高榮譽，IEEE愛迪生獎章則是
 IEEE的主要獎項。
 
 截至2014年，只有2名IEEE愛迪生獎章得主也獲得了[諾貝爾物理學獎](https://zh.wikipedia.org/wiki/諾貝爾物理學獎 "wikilink")，他們是：[羅伯特·密立根](https://zh.wikipedia.org/wiki/羅伯特·密立根 "wikilink")（1923年）、[赤崎勇](../Page/赤崎勇.md "wikilink")（2014年）。

@@ -1,4 +1,4 @@
-***Neotrogla***，是[啮虫目](../Page/啮虫总目.md "wikilink")（Psocodea）[小啮虫亚目下的一个](../Page/小啮虫亚目.md "wikilink")[属](https://zh.wikipedia.org/wiki/属_\(生物\) "wikilink")。该属生物较为特别之处在于其与众不同的生殖器官，雌体具有类似[阴茎结构](../Page/阴茎.md "wikilink")，而雄体则具有[阴道结构](../Page/阴道.md "wikilink")。
+***Neotrogla***，是[啮虫目](../Page/啮虫总目.md "wikilink")（Psocodea）[小啮虫亚目](../Page/小啮虫亚目.md "wikilink")下的一个[属](https://zh.wikipedia.org/wiki/属_\(生物\) "wikilink")。该属生物较为特别之处在于其与众不同的生殖器官，雌体具有类似[阴茎](../Page/阴茎.md "wikilink")结构，而雄体则具有[阴道](../Page/阴道.md "wikilink")结构。
 
 ### 生殖
 
@@ -8,7 +8,7 @@ Neotrogla的雄性具有陰道結構，而雌性具有陰莖結構。
 
 在插入的幾秒內，雌性的「陰莖」會迅速膨脹，固定位置後吸取精液，這種交配方式使得牠們交配能夠持續一天以上。
 
-2017[搞笑諾貝爾獎將生物學獎給予此種昆蟲生殖行為的研究](../Page/搞笑諾貝爾獎.md "wikilink")。
+2017[搞笑諾貝爾獎](../Page/搞笑諾貝爾獎.md "wikilink")將生物學獎給予此種昆蟲生殖行為的研究。
 
 ## 生活习性
 

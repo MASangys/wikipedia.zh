@@ -1,10 +1,10 @@
 《**絢香 LIVE TOUR 2012 "The
-beginning"～開始的時刻～**》（）為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2012年12月12日發行的現場影音作品。
+beginning"～開始的時刻～**》（）為[日本](../Page/日本.md "wikilink")歌手[絢香](../Page/絢香.md "wikilink")於2012年12月12日發行的現場影音作品。
 
 ## 簡介
 
   - 本次採「影音+單曲」型式發行。
-  - 本次收錄2012年8月8日於[橫濱體育館的最終場公演](../Page/橫濱體育館.md "wikilink")。
+  - 本次收錄2012年8月8日於[橫濱體育館](../Page/橫濱體育館.md "wikilink")的最終場公演。
   - [藍光版本封入首場公演](https://zh.wikipedia.org/wiki/藍光 "wikilink")「[日本武道館](../Page/日本武道館.md "wikilink")」的Photo
     Book感動照片，並收錄〈The
     beginning〉、〈はじまりのとき〉[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、演唱會特別影像。
@@ -58,7 +58,7 @@ beginning"～開始的時刻～**》（）為[日本歌手](../Page/日本.md "w
 
 ### Disc 2（CD）
 
-1.    - [日本電視台新聞節目](../Page/日本電視台.md "wikilink")《NEWS ZERO》主題曲
+1.    - [日本電視台](../Page/日本電視台.md "wikilink")新聞節目《NEWS ZERO》主題曲
 
 ## 資料來源
 

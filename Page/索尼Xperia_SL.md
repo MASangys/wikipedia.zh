@@ -1,14 +1,14 @@
 **Sony Xperia
-SL**是[日本電子公司](../Page/日本.md "wikilink")[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的旗艦級[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，Xperia
+SL**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的旗艦級[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，Xperia
 S的兄弟機，屬於[Xperia NXT系列](../Page/Xperia.md "wikilink")\[1\]，是[Sony Xperia
-S的後續](../Page/Sony_Xperia_S.md "wikilink")，具備[Walkman音樂播放器](../Page/Walkman.md "wikilink")，與[Facebook整合](../Page/Facebook.md "wikilink")，\[2\]於2012年9月推出。\[3\]
+S的後續](../Page/Sony_Xperia_S.md "wikilink")，具備[Walkman](../Page/Walkman.md "wikilink")音樂播放器，與[Facebook](../Page/Facebook.md "wikilink")整合，\[2\]於2012年9月推出。\[3\]
 
 ## 硬件
 
 Sony Xperia SL具備4.3吋Reality Display屏幕，解像度為1280 x 720
 HD，是當時所有Sony手機中最清晰的手機。\[4\]採用Qualcomm
 MSM8260
-1.7GHz雙核處理器，1210萬像素後置ExmorR鏡頭，130萬像素前置鏡頭，[HDMI輸出功能](../Page/HDMI.md "wikilink")，內置1GB[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、32GB[快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。
+1.7GHz雙核處理器，1210萬像素後置ExmorR鏡頭，130萬像素前置鏡頭，[HDMI](../Page/HDMI.md "wikilink")輸出功能，內置1GB[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、32GB[快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。
 
 ## 作業系統
 

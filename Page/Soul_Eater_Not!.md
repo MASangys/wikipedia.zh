@@ -1,6 +1,6 @@
 《**噬魂者NOT！**》（Soul Eater
 Not\!）是[大久保篤的作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")[SOUL
-EATER的](../Page/SOUL_EATER.md "wikilink")[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")。2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》。由[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[電視動畫由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[東京電視台於](../Page/東京電視台.md "wikilink")2014年4月8日首播，北美地區由[Funimation進行同步轉播](../Page/Funimation.md "wikilink")。
+EATER的](../Page/SOUL_EATER.md "wikilink")[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")。2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》。由[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[電視動畫由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播，北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。
 
 ## 概要
 
@@ -183,8 +183,8 @@ EATER的](../Page/SOUL_EATER.md "wikilink")[外傳](https://zh.wikipedia.org/wik
 
 ### 電視動畫
 
-《月刊少年GANGAN》2014年1月號中公布動畫化。\[6\]2014年2月12日確定2014年4月於[東京電視台播映電視動畫作品](../Page/東京電視台.md "wikilink")，並由[東京電視台於](../Page/東京電視台.md "wikilink")2014年4月8日首播。\[7\]\[8\]北美地區由[Funimation進行同步轉播](../Page/Funimation.md "wikilink")。\[9\]電視動畫片頭曲是由Dancing
-Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動畫角色鶇、美美、阿妮亞的聲優[千菅春香](../Page/千菅春香.md "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")、[早見沙織演唱](../Page/早見沙織.md "wikilink")\[11\]的《》。
+《月刊少年GANGAN》2014年1月號中公布動畫化。\[6\]2014年2月12日確定2014年4月於[東京電視台](../Page/東京電視台.md "wikilink")播映電視動畫作品，並由[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播。\[7\]\[8\]北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。\[9\]電視動畫片頭曲是由Dancing
+Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動畫角色鶇、美美、阿妮亞的聲優[千菅春香](../Page/千菅春香.md "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")演唱\[11\]的《》。
 
 #### 製作人員
 
@@ -445,7 +445,7 @@ Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動�
   - [Soul Eater Not\!
     GyaO\!網路直播專題](https://web.archive.org/web/20140412085825/http://gyao.yahoo.co.jp/p/00527/v12071/)
   - [Soul Eater
-    Not\!](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12446)漫畫在[動畫新聞網百科全書上的資料](../Page/動畫新聞網.md "wikilink")
+    Not\!](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12446)漫畫在[動畫新聞網](../Page/動畫新聞網.md "wikilink")百科全書上的資料
 
 [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")
 [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink")

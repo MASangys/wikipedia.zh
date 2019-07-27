@@ -1,5 +1,5 @@
 《**B'z The Best XXV
-1999-2012**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z在](../Page/B'z.md "wikilink")2013年6月所發行的精選輯，共收錄28首歌曲。
+1999-2012**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2013年6月所發行的精選輯，共收錄28首歌曲。
 
 ## 簡介
 
@@ -46,7 +46,7 @@ DISC 2
     -記憶之山脈-](https://zh.wikipedia.org/wiki/GO_FOR_IT,_BABY_-記憶之山脈- "wikilink")　
 13. Q\&A
       -
-        動畫[名偵探柯南主題曲](../Page/名偵探柯南.md "wikilink")
+        動畫[名偵探柯南](../Page/名偵探柯南.md "wikilink")主題曲
 14. Utopia
       -
 

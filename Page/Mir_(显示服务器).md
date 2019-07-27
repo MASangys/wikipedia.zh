@@ -1,4 +1,4 @@
-**Mir**是由[Canonical公司开发的](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")[Linux操作系统下的显示服务器](../Page/Linux.md "wikilink")。原本用以取代[Ubuntu中的](../Page/Ubuntu.md "wikilink")[X窗口系统](https://zh.wikipedia.org/wiki/X窗口系统 "wikilink")。\[1\]\[2\]\[3\]，但是2017年4月Canonical公司宣佈放棄開發Mir專用的顯示後端服務，並改開發以[Wayland作為顯示後端的使用者界面](../Page/Wayland.md "wikilink")。\[4\]。並於2017年10月，將原先發佈的版本1.0
+**Mir**是由[Canonical公司开发的](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")[Linux](../Page/Linux.md "wikilink")操作系统下的显示服务器。原本用以取代[Ubuntu](../Page/Ubuntu.md "wikilink")中的[X窗口系统](https://zh.wikipedia.org/wiki/X窗口系统 "wikilink")。\[1\]\[2\]\[3\]，但是2017年4月Canonical公司宣佈放棄開發Mir專用的顯示後端服務，並改開發以[Wayland](../Page/Wayland.md "wikilink")作為顯示後端的使用者界面。\[4\]。並於2017年10月，將原先發佈的版本1.0
 退回到版本 0.28 並大幅度的增加對於 wayland 的支援程度。\[5\]
 
 ## 开发

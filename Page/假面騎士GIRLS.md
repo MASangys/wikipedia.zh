@@ -1,5 +1,5 @@
 **KAMEN RIDER
-GIRLS**（かめんライダーガールズ、仮面ライダーGIRLS）是、[日本的女子](../Page/日本.md "wikilink")[跳舞組合](https://zh.wikipedia.org/wiki/跳舞組合 "wikilink")。
+GIRLS**（かめんライダーガールズ、仮面ライダーGIRLS）是、[日本](../Page/日本.md "wikilink")的女子[跳舞組合](https://zh.wikipedia.org/wiki/跳舞組合 "wikilink")。
 「[假面騎士](../Page/假面騎士.md "wikilink")」40週年紀念而結成的。成員被分配了在不同系列裡登場的假面騎士身份，穿著自己已被分配的假面騎士身份的假面騎士主題的服裝和變身腰帶。
 當初作為偶像組合出道,不過之後被重新設定為走搖滾樂線路的組合。 主要的活動是演唱假面騎士主題的歌曲及出席相關活動的演出。
 
@@ -231,7 +231,7 @@ Go RiderKick
     1.  咲いて
           -
             everset的同名歌曲的翻唱版
-            [朝日電視台系列特攝片](../Page/朝日電視台.md "wikilink")『假面騎士Fourze』插曲
+            [朝日電視台](../Page/朝日電視台.md "wikilink")系列特攝片『假面騎士Fourze』插曲
             [TBS系列烹飪節目](../Page/TBS電視台.md "wikilink")『[チューボーですよ\!](https://zh.wikipedia.org/wiki/チューボーですよ! "wikilink")』片尾曲（2012年4月
             - 6月、以KR Girl名義
     2.  O.K Alright feat.everset
@@ -344,7 +344,7 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
 14. ドラゴン・ロード2014（串田晃& KAMEN RIDER GIRLS）（『[平成騎士對昭和騎士 假面騎士大戰
     feat.超級戰隊](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊 "wikilink")』主題曲）
       -
-        [串田晃の楽曲](../Page/串田晃.md "wikilink")「[ドラゴン・ロード](https://zh.wikipedia.org/wiki/ドラゴン・ロード "wikilink")」舊版Remix新版
+        [串田晃](../Page/串田晃.md "wikilink")の楽曲「[ドラゴン・ロード](https://zh.wikipedia.org/wiki/ドラゴン・ロード "wikilink")」舊版Remix新版
 
 ##### TYPE-A
 

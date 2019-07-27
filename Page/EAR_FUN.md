@@ -1,5 +1,5 @@
 《**EAR
-FUN**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第](../Page/CNBLUE.md "wikilink")3枚迷你專輯。於2012年3月26日發行。唱片公司為[FNC
+FUN**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第3枚迷你專輯。於2012年3月26日發行。唱片公司為[FNC
 Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
 
 ## 概要

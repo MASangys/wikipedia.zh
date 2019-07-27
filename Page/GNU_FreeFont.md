@@ -1,21 +1,21 @@
 **GNU
-FreeFont**，又稱為**自由的通用字符集輪廓字體**（），是一組自由的高品質的輪廓（[OpenType](../Page/OpenType.md "wikilink")、[TrueType及](../Page/TrueType.md "wikilink")[WOFF](https://zh.wikipedia.org/wiki/WOFF "wikilink")）字體，目標是盡可能的包含[通用字符集的大多數字元](../Page/通用字符集.md "wikilink")。此專案於2002年由Primož
+FreeFont**，又稱為**自由的通用字符集輪廓字體**（），是一組自由的高品質的輪廓（[OpenType](../Page/OpenType.md "wikilink")、[TrueType](../Page/TrueType.md "wikilink")及[WOFF](https://zh.wikipedia.org/wiki/WOFF "wikilink")）字體，目標是盡可能的包含[通用字符集](../Page/通用字符集.md "wikilink")的大多數字元。此專案於2002年由Primož
 Peterlin發起，而現在則由Steve White維護。
 
 此套字體以[GNU
-GPLv3包含](https://zh.wikipedia.org/wiki/GNU通用公共许可证#GPLv3 "wikilink")[GPL字型例外的方式授權](../Page/GPL字型例外.md "wikilink")，確保其可以自由的被散佈，且這樣就可以讓這些字體嵌入文件中而不讓-{文件}-本身受到GPL的影響。
+GPLv3包含](https://zh.wikipedia.org/wiki/GNU通用公共许可证#GPLv3 "wikilink")[GPL字型例外](../Page/GPL字型例外.md "wikilink")的方式授權，確保其可以自由的被散佈，且這樣就可以讓這些字體嵌入文件中而不讓-{文件}-本身受到GPL的影響。
 
 此字體家族包含了三種字體，分別稱為FreeMono、FreeSans、及FreeSerif，每一個都有四種風格。這些字體可以從[GNU
 Savannah上免費獲得](https://zh.wikipedia.org/wiki/GNU_Savannah "wikilink")\[1\]。
 
 ## 歷史
 
-這套字體的核心是35種由URW++設計與開發有限公司為[Ghostscript專案](../Page/Ghostscript.md "wikilink")\[2\]所捐贈的Type
-1字體\[3\]，同樣以GPL授權。基本的[西里尔字母範圍是基於Valek](../Page/西里尔字母.md "wikilink")
+這套字體的核心是35種由URW++設計與開發有限公司為[Ghostscript](../Page/Ghostscript.md "wikilink")專案\[2\]所捐贈的Type
+1字體\[3\]，同樣以GPL授權。基本的[西里尔字母](../Page/西里尔字母.md "wikilink")範圍是基於Valek
 Filipov的Cyrillic及Omega Serif字體。Valek Filippov加入了一些複合的拉丁字母擴展A的字體。 Angelo
 Haritsis收集了一套希臘文的Type 1字體，在FreeSans及FreeMono中可用。有襯線的梵文字體則是從Velthuis
 TeX字體而來\[4\]，而無襯線的部份則是基於Gargi\[5\]；孟加拉文及古木基文是基於Harsh
-Kumar的BharatBhasha專案及其他專案。古吉拉特文及奧里亞文是基於Samyak字體。[吉茲字母是基於在](../Page/吉茲字母.md "wikilink")[汉堡大学中的衣索比亞元字體專案](../Page/汉堡大学.md "wikilink")\[6\]。
+Kumar的BharatBhasha專案及其他專案。古吉拉特文及奧里亞文是基於Samyak字體。[吉茲字母](../Page/吉茲字母.md "wikilink")是基於在[汉堡大学](../Page/汉堡大学.md "wikilink")中的衣索比亞元字體專案\[6\]。
 
 ## Unicode覆蓋範圍
 

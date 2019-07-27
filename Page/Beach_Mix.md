@@ -1,11 +1,11 @@
 《**Beach
-Mix**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2012年8月1日發行的5th[混音專輯](https://zh.wikipedia.org/wiki/混音專輯 "wikilink")。
+Mix**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2012年8月1日發行的5th[混音專輯](https://zh.wikipedia.org/wiki/混音專輯 "wikilink")。
 
 ## 解說
 
   - 本張為倖田首次發行的夏日混音專輯。
   - 因懷孕睽違了約半年的（新曲+混音）專輯，本作採NON-STOP的混音模式與之前的混音專輯相同。
-  - DVD收錄內容除了新曲的[音樂錄影帶之外](../Page/音樂錄影帶.md "wikilink")，更加入了往年在a-nation、Rhythm
+  - DVD收錄內容除了新曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")之外，更加入了往年在a-nation、Rhythm
     Nation的精選LIVE影片。
 
 ## 發行版本

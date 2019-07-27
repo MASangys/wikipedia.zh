@@ -2,7 +2,7 @@
 G），是[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[蘇霍伊航空公司設計的](https://zh.wikipedia.org/wiki/蘇霍伊 "wikilink")[第四代雙座](https://zh.wikipedia.org/wiki/第四代战机 "wikilink")[多用途戰機](../Page/多用途戰機.md "wikilink")。在俄罗斯远东的阿穆尔共青城航空联合制造企业生产，1999年首飛成功。
 
 Su-30MKK是俄語Су-30МКК的拉丁轉寫。МКК是модернизированный, коммерческий,
-китайский的縮寫，意思是[中國的現代化商業版](../Page/中國.md "wikilink")。解放軍用它來替代老化的[殲轟-7](../Page/殲轟-7.md "wikilink")，成為新主力。
+китайский的縮寫，意思是[中國](../Page/中國.md "wikilink")的現代化商業版。解放軍用它來替代老化的[殲轟-7](../Page/殲轟-7.md "wikilink")，成為新主力。
 
 ## 概觀
 

@@ -23,7 +23,7 @@ followed_by =
 <https://web.archive.org/web/20140618061116/http://www.gtv.com.tw/Program/S051520140623U/>
 }}
 
-《**終極X宿舍**》（），2014年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，由[八大電視及](../Page/八大電視.md "wikilink")[可米國際影視聯合製作](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")。[終極系列第六部](https://zh.wikipedia.org/wiki/終極系列 "wikilink")。由[藍心湄](../Page/藍心湄.md "wikilink")、[汪東城](../Page/汪東城.md "wikilink")[SpeXial-宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[寒](https://zh.wikipedia.org/wiki/蔡芷紜 "wikilink")、[SpeXial-明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[SpeXial-偉晉](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")、[王詩安](https://zh.wikipedia.org/wiki/王詩安 "wikilink")、[陳博正](../Page/陳博正.md "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[蔡昌憲](../Page/蔡昌憲.md "wikilink")、[阿喜](https://zh.wikipedia.org/wiki/阿喜_\(藝人\) "wikilink")、[赤世代-脩](../Page/陳德修.md "wikilink")、[那維勳領銜主演](../Page/那維勳.md "wikilink")。接續《[終極一班3](../Page/終極一班3.md "wikilink")》大結局，2014年1月14日開拍，2014年5月19日殺青，2014年6月23日於[八大綜合台播出](../Page/八大綜合台.md "wikilink")，在2014年8月15日播畢。[中視於](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2014年6月24日上檔，在2014年8月18日播畢。
+《**終極X宿舍**》（），2014年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，由[八大電視](../Page/八大電視.md "wikilink")及[可米國際影視聯合製作](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")。[終極系列第六部](https://zh.wikipedia.org/wiki/終極系列 "wikilink")。由[藍心湄](../Page/藍心湄.md "wikilink")、[汪東城](../Page/汪東城.md "wikilink")[SpeXial-宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[寒](https://zh.wikipedia.org/wiki/蔡芷紜 "wikilink")、[SpeXial-明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[SpeXial-偉晉](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")、[王詩安](https://zh.wikipedia.org/wiki/王詩安 "wikilink")、[陳博正](../Page/陳博正.md "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[蔡昌憲](../Page/蔡昌憲.md "wikilink")、[阿喜](https://zh.wikipedia.org/wiki/阿喜_\(藝人\) "wikilink")、[赤世代-脩](../Page/陳德修.md "wikilink")、[那維勳](../Page/那維勳.md "wikilink")領銜主演。接續《[終極一班3](../Page/終極一班3.md "wikilink")》大結局，2014年1月14日開拍，2014年5月19日殺青，2014年6月23日於[八大綜合台](../Page/八大綜合台.md "wikilink")播出，在2014年8月15日播畢。[中視於](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2014年6月24日上檔，在2014年8月18日播畢。
 
 ## 故事大綱
 
@@ -345,7 +345,7 @@ followed_by =
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/阿喜_(藝人)" title="wikilink">阿喜</a><br />
-(原訂<a href="../Page/文雨非.md" title="wikilink">文雨非飾</a>)</p></td>
+(原訂<a href="../Page/文雨非.md" title="wikilink">文雨非</a>飾)</p></td>
 <td><center>
 <p><strong>吉吉如律·苓（吉如苓/小聾女/吉姐姐）</strong><br />
 金時空：裘球<br />
@@ -1140,7 +1140,7 @@ H聯盟總部的掃地老人。受H聯盟的指示綁架陳偉，以及脅迫葉
 十年前，本與寒將要結婚，最後因為怕自己去討伐狄阿怖玀魔尊無法平安回來，而以傳音入密告知寒不要再等自己了。<br />
 托付脩带回了重组感情的坠子，希望寒能有一段新的感情。<br />
 36集提到目前還在大戰中，正邪大戰陷入膠著。<br />
-第40集為了守護時空和平，與夏宇在大戰中犧牲自己。受傷，需要大東去幫他療傷。<a href="../Page/終極一班4.md" title="wikilink">終極一班4提及</a></p></td>
+第40集為了守護時空和平，與夏宇在大戰中犧牲自己。受傷，需要大東去幫他療傷。<a href="../Page/終極一班4.md" title="wikilink">終極一班4</a>提及</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1195,7 +1195,7 @@ H聯盟總部的掃地老人。受H聯盟的指示綁架陳偉，以及脅迫葉
 </strong>種類：半魍魎／火的原位高階異能行者'''<br />
 夏家長子，參加大戰的其中一員，戰後失蹤。<br />
 十年前當夏天和寒結婚時，負責去載新郎，後來發現夏天失蹤，四處去尋找夏天。<br />
-第40集為了守護時空和平，與夏天在大戰中犧牲自己。<a href="../Page/終極一家Ⅱ.md" title="wikilink">終極一家Ⅱ還會登場</a></p></td>
+第40集為了守護時空和平，與夏天在大戰中犧牲自己。<a href="../Page/終極一家Ⅱ.md" title="wikilink">終極一家Ⅱ</a>還會登場</p></td>
 <td><center>
 <p>(20年前)<br />
 40000+</p></td>
@@ -1261,7 +1261,7 @@ H聯盟總部的掃地老人。受H聯盟的指示綁架陳偉，以及脅迫葉
 <td><p><strong>狀態：正常→失蹤</strong><br />
 <strong>種類：高阶異能行者</strong><br />
 20年前時震發生時，奉灸舞盟主之命在各個時空尋找汪大東，並大膽推算大東不是穿越時空而是穿越時間，而毅然跳下時間的裂縫到達十年後的金時空。掉落在公車上被萬鈞和裘球發現後，身上異能指數僅存1000點，後因龐教授的計畫而被消滅異能。（詳見<a href="https://zh.wikipedia.org/wiki/終極一班2" title="wikilink">終極一班2</a>）<br />
-西城衛團長，吉吉如律·苓的哥哥，十年前為了對付狄阿怖玀魔尊，盟主率領西城衞去迎戰，最後下落不明，生死未卜。(詳見<a href="../Page/終極一班3.md" title="wikilink">終極一班3對話</a>)<br />
+西城衛團長，吉吉如律·苓的哥哥，十年前為了對付狄阿怖玀魔尊，盟主率領西城衞去迎戰，最後下落不明，生死未卜。(詳見<a href="../Page/終極一班3.md" title="wikilink">終極一班3</a>對話)<br />
 未提到戰後下落。</p></td>
 <td><center>
 <p>(20年前)<br />
@@ -2514,7 +2514,7 @@ Open</strong></p></td>
 <!-- end list -->
 
   - 1月14日，[藍心湄](../Page/藍心湄.md "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[宏正](https://zh.wikipedia.org/wiki/寺唯宏正 "wikilink")、[明-{杰}-](../Page/明杰.md "wikilink")、[陳博正](../Page/陳博正.md "wikilink")、[那維勳](../Page/那維勳.md "wikilink")、[蔡芷紜](https://zh.wikipedia.org/wiki/蔡芷紜 "wikilink")、[張皓明](../Page/張皓明.md "wikilink")、[王詩安於](https://zh.wikipedia.org/wiki/王詩安 "wikilink")[八大電視台一樓大廳舉辦開鏡記者會](https://zh.wikipedia.org/wiki/八大電視台 "wikilink")。\[1\]
-  - 2月11日，[汪東城進棚錄影](../Page/汪東城.md "wikilink")，情義相挺客串。\[2\]
+  - 2月11日，[汪東城](../Page/汪東城.md "wikilink")進棚錄影，情義相挺客串。\[2\]
   - 3月24日，公開3分鐘精彩片花\[3\]
   - 4月8日，終極X寶寶來了\~一出生就會說「嗚拉巴哈」? 夏、美、懷、孕、啦！！！
   - 5月11日，謝和弦、王詩安殺青。\[4\]\[5\]

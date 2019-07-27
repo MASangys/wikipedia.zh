@@ -1,11 +1,11 @@
-**2YOON**（韓文：투윤），為[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[4minute的子團體](../Page/4minute.md "wikilink")，隸屬[Cube
-Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，成員包括[許嘉允和](../Page/許嘉允.md "wikilink")[田祉潤](../Page/田祉潤.md "wikilink")。\[1\]於2013年1月17日發行首張迷你專輯《[Harvest
+**2YOON**（韓文：투윤），為[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[4minute](../Page/4minute.md "wikilink")的子團體，隸屬[Cube
+Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，成員包括[許嘉允](../Page/許嘉允.md "wikilink")和[田祉潤](../Page/田祉潤.md "wikilink")。\[1\]於2013年1月17日發行首張迷你專輯《[Harvest
 Moon](../Page/Harvest_Moon.md "wikilink")》，並以主打曲〈24/7〉在[M\!
-Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。2016年6月16日，官方宣布原團體[4minute解散而子團體](../Page/4minute.md "wikilink")**2YOON**也隨着解散。
+Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。2016年6月16日，官方宣布原團體[4minute](../Page/4minute.md "wikilink")解散而子團體**2YOON**也隨着解散。
 
 ## 團名由來
 
-「2YOON」此名是由[許嘉允的](../Page/許嘉允.md "wikilink")「允」（Yoon）和[田祉潤的](../Page/田祉潤.md "wikilink")「潤」（Yoon）為名。
+「2YOON」此名是由[許嘉允](../Page/許嘉允.md "wikilink")的「允」（Yoon）和[田祉潤](../Page/田祉潤.md "wikilink")的「潤」（Yoon）為名。
 
 ## 成員資料
 
@@ -19,7 +19,7 @@ Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。2016�
 ## 出道過程
 
 2012年12月25日，[Cube
-Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter上向公眾透露](../Page/Twitter.md "wikilink")\[2\]，由成員[4minute成員](../Page/4minute.md "wikilink")[許嘉允和](../Page/許嘉允.md "wikilink")[田祉潤組成的限定組合](../Page/田祉潤.md "wikilink")2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。在2013年1月7日,官方發佈消息指《**2Yoon**》將會於1月17日在網上發佈專輯,及在其後數日發佈概念照，並進行宣傳活動出道。
+Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向公眾透露\[2\]，由成員[4minute](../Page/4minute.md "wikilink")成員[許嘉允](../Page/許嘉允.md "wikilink")和[田祉潤](../Page/田祉潤.md "wikilink")組成的限定組合2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。在2013年1月7日,官方發佈消息指《**2Yoon**》將會於1月17日在網上發佈專輯,及在其後數日發佈概念照，並進行宣傳活動出道。
 **2Yoon**首張迷你專輯《[Harvest
 Moon](../Page/Harvest_Moon.md "wikilink")》於2013年1月17日中午公開發售，MV於當日連同音源公開發佈，是次主打為《[24/7](https://zh.wikipedia.org/wiki/24/7 "wikilink")》。主打曲由[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")、金度勋和李尚浩聯手創作,以[Country
 Pop作為歌曲概念類型](https://zh.wikipedia.org/wiki/Country_Pop "wikilink")。

@@ -1,4 +1,4 @@
-**丙酰辅酶A羧化酶**是依赖[生物素催化线粒体基质中的丙酰辅酶A羧化反应的酶](../Page/生物素.md "wikilink")，该反应的产物是(S)-[甲基丙二酰辅酶A](https://zh.wikipedia.org/wiki/甲基丙二酰辅酶A "wikilink")。
+**丙酰辅酶A羧化酶**是依赖[生物素](../Page/生物素.md "wikilink")催化线粒体基质中的丙酰辅酶A羧化反应的酶，该反应的产物是(S)-[甲基丙二酰辅酶A](https://zh.wikipedia.org/wiki/甲基丙二酰辅酶A "wikilink")。
 
 ## 酶结构
 

@@ -1,8 +1,8 @@
-**JumpStation**，一個軟體程式的名稱，它被認為是世界上第一個[網路搜尋引擎](https://zh.wikipedia.org/wiki/網路搜尋引擎 "wikilink")。它在1993年12月3日研發成功，於12月21日出現在[Mosaic瀏覽器的](../Page/Mosaic.md "wikilink")「What's
+**JumpStation**，一個軟體程式的名稱，它被認為是世界上第一個[網路搜尋引擎](https://zh.wikipedia.org/wiki/網路搜尋引擎 "wikilink")。它在1993年12月3日研發成功，於12月21日出現在[Mosaic](../Page/Mosaic.md "wikilink")瀏覽器的「What's
 New」頁面上\[1\]。喬納森·弗萊徹（Jonathon
-Fletcher）在[蘇格蘭的](../Page/蘇格蘭.md "wikilink")[斯特靈大學創造了這個程式](https://zh.wikipedia.org/wiki/斯特靈大學 "wikilink")\[2\]\[3\]\[4\]，他也因此被認為是搜尋引擎之父\[5\]。
+Fletcher）在[蘇格蘭](../Page/蘇格蘭.md "wikilink")的[斯特靈大學創造了這個程式](https://zh.wikipedia.org/wiki/斯特靈大學 "wikilink")\[2\]\[3\]\[4\]，他也因此被認為是搜尋引擎之父\[5\]。
 
-1992年，喬納森·弗萊徹以第一名的成績，自[斯特靈大學計算機科學系畢業後](https://zh.wikipedia.org/wiki/斯特靈大學 "wikilink")，準備進修[格拉斯哥大學博士課程](../Page/格拉斯哥大學.md "wikilink")。但因為格拉斯哥大學中止了博士課程的研究經費，弗萊徹回到斯特靈大學計算機中心，找到一份工作，擔任管理員。
+1992年，喬納森·弗萊徹以第一名的成績，自[斯特靈大學計算機科學系畢業後](https://zh.wikipedia.org/wiki/斯特靈大學 "wikilink")，準備進修[格拉斯哥大學](../Page/格拉斯哥大學.md "wikilink")博士課程。但因為格拉斯哥大學中止了博士課程的研究經費，弗萊徹回到斯特靈大學計算機中心，找到一份工作，擔任管理員。
 
 在架設網路伺服器的過程中，弗萊徹發現Mosaic瀏覽器的「What's New」頁面無法自動更新，於是他寫作了一個網絡爬蟲（Web
 Crawler），取名叫JumpStation。1993年12月21日，它走遍了當時全世界的網際網路，找到了2萬5千個網頁。弗萊徹之後又加上了搜尋工具，把它放在Mosaic瀏覽器的「What's

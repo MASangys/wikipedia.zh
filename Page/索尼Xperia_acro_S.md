@@ -1,5 +1,5 @@
 **Sony Xperia acro
-S**是[日本電子公司](../Page/日本.md "wikilink")[索尼於](../Page/索尼.md "wikilink")2012年推出的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
+S**是[日本](../Page/日本.md "wikilink")電子公司[索尼](../Page/索尼.md "wikilink")於2012年推出的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 
 ## 規格
 

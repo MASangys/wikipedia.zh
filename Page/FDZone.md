@@ -8,7 +8,7 @@
 討論區營運初期，對申請會員沒有限制，任何人都可以自由分享下載。隨著會員人數增多，營運方式轉向會員制。\[1\] Vhhchu
 FDZone管理制度森嚴，對會員申請尤其嚴格，一般可分為普通會員及VIP會員。普通會員需要有「邀請碼」才能註冊，而每個「邀請碼」則由現有會員提供，每個價值1000「金錢」（討論區代幣）。經管理員審批成為普通會員後，仍需要達成發帖指定「要求」，才能獲得更多下載權限及保持帳號。普通會員可按年份付費成為VIP會員，以享有不少特權，費用由300至700澳門元不等，會員可在網站上下載[盜版檔案](https://zh.wikipedia.org/wiki/盜版 "wikilink")。該網站更設有專門檔案，介紹給各會員一些預防和規避各地執法機構的提示方法。有[版權組織估計](https://zh.wikipedia.org/wiki/版權 "wikilink")，該討論區令影音事業界損失數以億計澳門元。\[2\]\[3\]
 
-有台灣媒體稱，FDZone與被指侵權的[網絡空間](https://zh.wikipedia.org/wiki/網絡空間 "wikilink")[Megaupload遭遇十分相似](../Page/Megaupload.md "wikilink")，但若規模來說則差距甚遠。[Megaupload聲稱有](../Page/Megaupload.md "wikilink")1.5億用戶，但FDZone則只有約89萬名會員。\[4\]
+有台灣媒體稱，FDZone與被指侵權的[網絡空間](https://zh.wikipedia.org/wiki/網絡空間 "wikilink")[Megaupload](../Page/Megaupload.md "wikilink")遭遇十分相似，但若規模來說則差距甚遠。[Megaupload](../Page/Megaupload.md "wikilink")聲稱有1.5億用戶，但FDZone則只有約89萬名會員。\[4\]
 
 ## 網民討論
 

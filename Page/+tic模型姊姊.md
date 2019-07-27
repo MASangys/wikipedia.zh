@@ -1,5 +1,5 @@
 《**+tic模型姊姊**》（；英文標題：+TIC ELDER SISTER），是日本漫畫家栗井茶（くりいちゃ，1983年8月22日 -
-）所描繪的[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，為一部連載中的短篇幅（每一話的數頁僅2、4、6、8、10，或12頁不等。前三冊尤以每話6頁為主）青春校園喜劇。故事環繞在三名頭戴[模型玩具的模型社女高中生](https://zh.wikipedia.org/wiki/模型玩具 "wikilink")，與周邊夥伴嘻笑胡鬧時或日常生活中所發生的種種笑料。並由[Lantis公司在](../Page/Lantis.md "wikilink")2012年7月發行同名的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")（有DVD／BD兩種版本，全一卷，共12話）。
+）所描繪的[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，為一部連載中的短篇幅（每一話的數頁僅2、4、6、8、10，或12頁不等。前三冊尤以每話6頁為主）青春校園喜劇。故事環繞在三名頭戴[模型玩具的模型社女高中生](https://zh.wikipedia.org/wiki/模型玩具 "wikilink")，與周邊夥伴嘻笑胡鬧時或日常生活中所發生的種種笑料。並由[Lantis](../Page/Lantis.md "wikilink")公司在2012年7月發行同名的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")（有DVD／BD兩種版本，全一卷，共12話）。
 
 原著書名中的「**+tic**（+チック）」，讀作「Plus
 Tic（プラスチック）」，為塑膠模型玩具（プラモ）的「塑膠（プラスチック）」之意。不過「チック症」也是一種精神疾病「[抽動障礙](https://zh.wikipedia.org/wiki/抽動障礙 "wikilink")」，也暗示主角群都很有病。中文界常見的譯名，除了「+tic模型姊姊」之外，尚有「+TIC姊姊」、「+TIC姐姐」、「+tic模型姐妹」、「+模型姊姊」、「模型姊姊」、「模型姐姐」、「模型姊妹」、「模型姐妹」和「模型少女」等。
@@ -31,7 +31,7 @@ GanGan官方網頁所公開的第1話至第3話，實為第3冊所收錄的第45
   -
     本名：源間色枝（，出自第1冊第16話）
     初登場：第1冊第1話
-    女主角，特徵是一頭黃色長髮、與年齡不符的矮小身形，以及置於頭上的[城堡模型](../Page/城堡.md "wikilink")。（然而國二時的姊姊留著一頭短髮、表演才藝時的姊姊則會束起高[馬尾](https://zh.wikipedia.org/wiki/馬尾 "wikilink")）
+    女主角，特徵是一頭黃色長髮、與年齡不符的矮小身形，以及置於頭上的[城堡](../Page/城堡.md "wikilink")模型。（然而國二時的姊姊留著一頭短髮、表演才藝時的姊姊則會束起高[馬尾](https://zh.wikipedia.org/wiki/馬尾 "wikilink")）
     三年級生，幾乎不做模型的模型社社長，有各種搞怪的才藝，以作弄旁人為樂。可以為了捉弄別人埋下長串伏筆。
     有著出色的[槌球與將棋技巧](https://zh.wikipedia.org/wiki/槌球 "wikilink")。
     旁人常以「矮」字稱呼：
@@ -392,7 +392,7 @@ GanGan官方網頁所公開的第1話至第3話，實為第3冊所收錄的第45
 
 ### 隨卷贈品
 
-#### [黏土人姊姊](../Page/黏土人.md "wikilink")
+#### [黏土人](../Page/黏土人.md "wikilink")姊姊
 
   - 全名：ねんどろいど 姉さん Blu-ray Discセット/DVDセット (ねんどろいど ねえさん Blu-ray
     Discせっと／DVDせっと)

@@ -6,7 +6,7 @@ __FORCETOC__
 ## 概述
 
 WEG善于将复杂的结构与绝美的[旋律糅合](https://zh.wikipedia.org/wiki/旋律 "wikilink")，从到[Jazz](../Page/爵士乐.md "wikilink")-infused
-rock，再到现代[古典](../Page/古典音乐.md "wikilink")，其[音乐涉及的领域极广](../Page/音乐.md "wikilink")。作品受[前卫摇滚](https://zh.wikipedia.org/wiki/前卫摇滚 "wikilink")（progressive
+rock，再到现代[古典](../Page/古典音乐.md "wikilink")，其[音乐](../Page/音乐.md "wikilink")涉及的领域极广。作品受[前卫摇滚](https://zh.wikipedia.org/wiki/前卫摇滚 "wikilink")（progressive
 rock）、[重金属](../Page/重金属.md "wikilink")（heavy
 metal）、[古典音乐](../Page/古典音乐.md "wikilink")（classic
 music）等风格的影响，因而也有不少人拿WEG的音乐跟[Aphex
@@ -22,7 +22,7 @@ girlfriend偶现的另一面，展示了恶作剧般的音乐；后者则突然�
 
 **前田胜彦（[日语](../Page/日语.md "wikilink")：まえだ かつひこ）（1975年11月1日- ）**
 
-1975年11月1日，出生于[长崎县的](../Page/长崎县.md "wikilink")[五岛列岛](https://zh.wikipedia.org/wiki/五岛列岛 "wikilink")，10岁时从父亲[收藏的](../Page/收藏.md "wikilink")[唱片中接触](https://zh.wikipedia.org/wiki/唱片 "wikilink")[古典音乐](../Page/古典音乐.md "wikilink")，受到[贝多芬](https://zh.wikipedia.org/wiki/贝多芬 "wikilink")[作品的冲击与启发](../Page/作品.md "wikilink")，于是开始[创作音乐](https://zh.wikipedia.org/wiki/创作 "wikilink")。\[2\]12岁开始利用[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[吉他](../Page/吉他.md "wikilink")、[录音机](https://zh.wikipedia.org/wiki/录音机 "wikilink")、[电脑等](https://zh.wikipedia.org/wiki/电脑 "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，至今创作的乐曲已超过600首。\[3\][前田胜彦既是](https://zh.wikipedia.org/wiki/前田胜彦 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[编曲家](https://zh.wikipedia.org/wiki/编曲家 "wikilink")、[演奏家](https://zh.wikipedia.org/wiki/演奏家 "wikilink")，同时还担任过多位[音乐人的](https://zh.wikipedia.org/wiki/音乐人 "wikilink")[监制](https://zh.wikipedia.org/wiki/监制 "wikilink")，亦是厂牌[Virgin
+1975年11月1日，出生于[长崎县](../Page/长崎县.md "wikilink")的[五岛列岛](https://zh.wikipedia.org/wiki/五岛列岛 "wikilink")，10岁时从父亲[收藏](../Page/收藏.md "wikilink")的[唱片中接触](https://zh.wikipedia.org/wiki/唱片 "wikilink")[古典音乐](../Page/古典音乐.md "wikilink")，受到[贝多芬](https://zh.wikipedia.org/wiki/贝多芬 "wikilink")[作品](../Page/作品.md "wikilink")的冲击与启发，于是开始[创作音乐](https://zh.wikipedia.org/wiki/创作 "wikilink")。\[2\]12岁开始利用[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[吉他](../Page/吉他.md "wikilink")、[录音机](https://zh.wikipedia.org/wiki/录音机 "wikilink")、[电脑等](https://zh.wikipedia.org/wiki/电脑 "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，至今创作的乐曲已超过600首。\[3\][前田胜彦既是](https://zh.wikipedia.org/wiki/前田胜彦 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[编曲家](https://zh.wikipedia.org/wiki/编曲家 "wikilink")、[演奏家](https://zh.wikipedia.org/wiki/演奏家 "wikilink")，同时还担任过多位[音乐人的](https://zh.wikipedia.org/wiki/音乐人 "wikilink")[监制](https://zh.wikipedia.org/wiki/监制 "wikilink")，亦是厂牌[Virgin
 Babylon
 Records的](https://zh.wikipedia.org/wiki/Virgin_Babylon_Records "wikilink")[创始人及负责人](https://zh.wikipedia.org/wiki/创始人 "wikilink")。
 
@@ -54,7 +54,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
     Song》；此后2003年加入新曲后重新发表，2009年、2010年、2011年以world's
     end girlfriend或world's end boyfriend的名义于网络配信，曲目有差异。
   - 11月25日－由厂牌noble发表第二张专辑《farewell
-    kingdom》，[世界观再一次获得惊人的升华](../Page/世界观.md "wikilink")，令其人气直升。
+    kingdom》，[世界观](../Page/世界观.md "wikilink")再一次获得惊人的升华，令其人气直升。
 
 <!-- end list -->
 
@@ -76,8 +76,8 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 
 <!-- end list -->
 
-  - 02月26日－前[SPEED成员hiro](https://zh.wikipedia.org/wiki/SPEED "wikilink")（[岛袋宽子](https://zh.wikipedia.org/wiki/岛袋宽子 "wikilink")）发表的[单曲中](../Page/单曲.md "wikilink")，主打曲《Baby
-    Don't Cry》的[混音版本由WEG混制](../Page/混音.md "wikilink")。
+  - 02月26日－前[SPEED成员hiro](https://zh.wikipedia.org/wiki/SPEED "wikilink")（[岛袋宽子](https://zh.wikipedia.org/wiki/岛袋宽子 "wikilink")）发表的[单曲](../Page/单曲.md "wikilink")中，主打曲《Baby
+    Don't Cry》的[混音](../Page/混音.md "wikilink")版本由WEG混制。
 
 <!-- end list -->
 
@@ -85,8 +85,8 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 
 <!-- end list -->
 
-  - 04月－展开以[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[香港等](../Page/香港.md "wikilink")[东亚](https://zh.wikipedia.org/wiki/东亚 "wikilink")[城市为中心的巡演](../Page/城市.md "wikilink")，同时作品也开始在国外发行。
-  - 11月－负责[电影](../Page/电影.md "wikilink")《[おそいひと](https://zh.wikipedia.org/wiki/おそいひと "wikilink")》\[7\]的[原声音乐制作](../Page/原声音乐.md "wikilink")。
+  - 04月－展开以[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[香港](../Page/香港.md "wikilink")等[东亚](https://zh.wikipedia.org/wiki/东亚 "wikilink")[城市](../Page/城市.md "wikilink")为中心的巡演，同时作品也开始在国外发行。
+  - 11月－负责[电影](../Page/电影.md "wikilink")《[おそいひと](https://zh.wikipedia.org/wiki/おそいひと "wikilink")》\[7\]的[原声音乐](../Page/原声音乐.md "wikilink")制作。
 
 <!-- end list -->
 
@@ -96,12 +96,12 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 
   - 02月25日－发表专辑《The Lie Lay Land》。
   - 06月－再次应邀出席Sónar[音乐节](https://zh.wikipedia.org/wiki/音乐节 "wikilink")。
-  - 11月～12月－以暖场嘉宾的身份，参与了[MONO](https://zh.wikipedia.org/wiki/MONO "wikilink")[欧洲巡演](../Page/欧洲.md "wikilink")“European
+  - 11月～12月－以暖场嘉宾的身份，参与了[MONO](https://zh.wikipedia.org/wiki/MONO "wikilink")[欧洲](../Page/欧洲.md "wikilink")巡演“European
     Tour Fall
     05”的每一场演出；以此为契机，同年12月14日与[MONO共同创作了专辑](https://zh.wikipedia.org/wiki/MONO "wikilink")《Palmless
     Prayer / Mass Murder Refrain》，由Human Highway
-    Records发行，2006年9月12日由[美国厂牌Temporary](../Page/美国.md "wikilink")
-    Residence发行[CD及](../Page/CD.md "wikilink")[LP两种版本](https://zh.wikipedia.org/wiki/LP "wikilink")。
+    Records发行，2006年9月12日由[美国](../Page/美国.md "wikilink")厂牌Temporary
+    Residence发行[CD](../Page/CD.md "wikilink")及[LP两种版本](https://zh.wikipedia.org/wiki/LP "wikilink")。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 <!-- end list -->
 
   - 03月23日－相隔两年后发表新专辑《Hurtbreak Wonderland》，作品转由Human Highway Records发行。
-  - 04月～05月－随MONO到[美国展开巡演](../Page/美国.md "wikilink")，其他参加[乐队还有](https://zh.wikipedia.org/wiki/乐队 "wikilink")[The
+  - 04月～05月－随MONO到[美国](../Page/美国.md "wikilink")展开巡演，其他参加[乐队还有](https://zh.wikipedia.org/wiki/乐队 "wikilink")[The
     Drift](https://zh.wikipedia.org/wiki/The_Drift "wikilink")\[8\]、[Grails](https://zh.wikipedia.org/wiki/Grails "wikilink")\[9\]等。
   - 11月9日－以world's end
     girlfriend的名义重新发表[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")《enchanted
@@ -131,7 +131,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 
 <!-- end list -->
 
-  - 09月25日－发表《[空気人形](https://zh.wikipedia.org/wiki/空気人形 "wikilink")》\[11\]的电影[原声音乐唱片](../Page/原声音乐.md "wikilink")《空気人形
+  - 09月25日－发表《[空気人形](https://zh.wikipedia.org/wiki/空気人形 "wikilink")》\[11\]的电影[原声音乐](../Page/原声音乐.md "wikilink")唱片《空気人形
     サウンドトラック》。
 
 <!-- end list -->
@@ -141,7 +141,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 <!-- end list -->
 
   - 01月20日－本着“从‘与完整乐曲不一样’的视点来享受音乐世界”的[理念](https://zh.wikipedia.org/wiki/理念 "wikilink")，将07年旧作《Hurtbreak
-    Wonderland》中的部分曲目，大胆地分解成[旋律部分](https://zh.wikipedia.org/wiki/旋律 "wikilink")“division1”和[节奏部分](../Page/节奏.md "wikilink")“division2”，于[OTOTOY上连载](https://zh.wikipedia.org/wiki/OTOTOY "wikilink")，6月20日连载完毕后于VBR发表《Hurtbreak
+    Wonderland》中的部分曲目，大胆地分解成[旋律部分](https://zh.wikipedia.org/wiki/旋律 "wikilink")“division1”和[节奏](../Page/节奏.md "wikilink")部分“division2”，于[OTOTOY上连载](https://zh.wikipedia.org/wiki/OTOTOY "wikilink")，6月20日连载完毕后于VBR发表《Hurtbreak
     wonderland ; division one》和《Hurtbreak wonderland ; division
     two》两张数字EP。\[12\]
   - 07月14日－创立厂牌“**Virgin Babylon Records**”\[13\]，收纳强大阵容。
@@ -167,9 +167,9 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 
 <!-- end list -->
 
-  - 03月11日－正直[2011年日本东北地方太平洋近海地震一周年](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")，发表旧作《誕生日抵抗日》的[混音版本](../Page/混音.md "wikilink")《Birthday
+  - 03月11日－正直[2011年日本东北地方太平洋近海地震一周年](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")，发表旧作《誕生日抵抗日》的[混音](../Page/混音.md "wikilink")版本《Birthday
     Resistance Parade》，免费提供下载。
-  - 04月13日－《[星空](https://zh.wikipedia.org/wiki/星空_\(2011年电影\) "wikilink")》\[15\]电影的[原声音乐大碟](../Page/原声音乐.md "wikilink")《Starry
+  - 04月13日－《[星空](https://zh.wikipedia.org/wiki/星空_\(2011年电影\) "wikilink")》\[15\]电影的[原声音乐](../Page/原声音乐.md "wikilink")大碟《Starry
     Starry Night soundtrack》由VBR发行。
   - 05月4日－VBR在[涉谷首次举办厂牌演出](https://zh.wikipedia.org/wiki/涉谷 "wikilink")“Virgin
     Babylon Night”，参加的音乐人包括world's end girlfriend、[about
@@ -179,8 +179,8 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
     Daisuke](https://zh.wikipedia.org/wiki/KASHIWA_Daisuke "wikilink")、[Katsui](https://zh.wikipedia.org/wiki/Katsui "wikilink")、[Go-qualia等](https://zh.wikipedia.org/wiki/Go-qualia "wikilink")；演出音源录制成特典CD，随官方网店Unsupermarket购买商品附送。
   - 08月10日－与单色[画家Ly合作发表的EP](https://zh.wikipedia.org/wiki/画家 "wikilink")《I
     KNOW
-    YOU》，其[唱片封套及随碟附送](https://zh.wikipedia.org/wiki/唱片 "wikilink")[T恤均由Ly设计](../Page/T恤.md "wikilink")，随着Ly的“ART
-    SHOW”8月10日至26日在BEAMS T [原宿开幕](../Page/原宿.md "wikilink")，该CD套装均在BEAMS
+    YOU》，其[唱片封套及随碟附送](https://zh.wikipedia.org/wiki/唱片 "wikilink")[T恤](../Page/T恤.md "wikilink")均由Ly设计，随着Ly的“ART
+    SHOW”8月10日至26日在BEAMS T [原宿](../Page/原宿.md "wikilink")开幕，该CD套装均在BEAMS
     T各大门店有售；而单碟版也在2013年2月14日开始，仅在官方网店Unsupermarket有售。
   - 09月29日～10月4日－原定的[中国巡演](https://zh.wikipedia.org/wiki/中国 "wikilink")（[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[武汉](https://zh.wikipedia.org/wiki/武汉 "wikilink")、[广州](https://zh.wikipedia.org/wiki/广州 "wikilink")）取消，官网称因中日问题而无法获准[签证](https://zh.wikipedia.org/wiki/签证 "wikilink")，并宣布10月5日在[涉谷举办](https://zh.wikipedia.org/wiki/涉谷 "wikilink")“We
     Couldn't Go”演出，乐队[BLACK HOLE
@@ -456,7 +456,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 06. division2-birthday resistance</p></td>
 <td><p>Virgin Babylon Records</p></td>
 <td><p>从2010年1月20日至6月20日在OTOTOY连载的分解版，<br />
-整合成两张数字EP，在OTOTOY、<a href="../Page/Bandcamp.md" title="wikilink">Bandcamp等网站配信</a></p></td>
+整合成两张数字EP，在OTOTOY、<a href="../Page/Bandcamp.md" title="wikilink">Bandcamp</a>等网站配信</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年9月14日</p></td>
@@ -579,7 +579,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 <td><p>01. ゆでちゃん/Yudechang (feat.BOOL)</p></td>
 <td><p>Virgin Babylon Records</p></td>
 <td><p>POEM CORE TOKYO厂牌创立人<a href="https://zh.wikipedia.org/wiki/BOOL" title="wikilink">BOOL负责</a><a href="https://zh.wikipedia.org/wiki/作词" title="wikilink">作词及</a><a href="https://zh.wikipedia.org/wiki/朗读" title="wikilink">朗读</a><br />
-12月23日由厂牌官方<a href="../Page/Bandcamp.md" title="wikilink">Bandcamp页面配信</a>，<br />
+12月23日由厂牌官方<a href="../Page/Bandcamp.md" title="wikilink">Bandcamp</a>页面配信，<br />
 <a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes及</a><a href="https://zh.wikipedia.org/wiki/Amazon" title="wikilink">Amazon等平台则从</a>2014年1月23日后陆续配信</p></td>
 </tr>
 </tbody>
@@ -606,7 +606,7 @@ Suicide》，同时WEG担任[音乐制作人](https://zh.wikipedia.org/wiki/音�
 <em>（2004年）</em></p>
 </center></td>
 <td><center>
-<p>没发行电影<a href="../Page/原声音乐.md" title="wikilink">原声音乐唱片</a></p>
+<p>没发行电影<a href="../Page/原声音乐.md" title="wikilink">原声音乐</a>唱片</p>
 </center></td>
 <td></td>
 <td><p>曲目收录在《dream's end come true》、《SEVEN IDIOTS》、《The Lie Lay Land》等<a href="https://zh.wikipedia.org/wiki/专辑" title="wikilink">专辑</a></p></td>
@@ -725,7 +725,7 @@ YOU ARE PHOTOGENIC Issue</p>
 </center></td>
 <td><p><strong>03. Listening You</strong></p></td>
 <td><p>Afterhours</p></td>
-<td><p>音乐<a href="../Page/杂志.md" title="wikilink">杂志AFTERHOURS第</a>11期附赠CD</p></td>
+<td><p>音乐<a href="../Page/杂志.md" title="wikilink">杂志</a>AFTERHOURS第11期附赠CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000年7月17日</p></td>
@@ -1208,7 +1208,7 @@ world's end girlfriend名义</p></td>
 <td><center>
 <p>55:31</p>
 </center></td>
-<td><p>于WEG个人<a href="../Page/SoundCloud.md" title="wikilink">SoundCloud上发布供试听</a><br />
+<td><p>于WEG个人<a href="../Page/SoundCloud.md" title="wikilink">SoundCloud</a>上发布供试听<br />
 涉及<a href="https://zh.wikipedia.org/wiki/Mr._Bungle" title="wikilink">Mr. Bungle</a>、<a href="https://zh.wikipedia.org/wiki/Autechre" title="wikilink">Autechre</a>、<a href="https://zh.wikipedia.org/wiki/Ministry" title="wikilink">Ministry</a>、<a href="https://zh.wikipedia.org/wiki/The_Sabres_of_Paradise" title="wikilink">The Sabres of Paradise</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Cylob" title="wikilink">Cylob</a>、<a href="https://zh.wikipedia.org/wiki/Yello" title="wikilink">Yello</a>、<a href="https://zh.wikipedia.org/wiki/Extreme" title="wikilink">Extreme</a>、<a href="https://zh.wikipedia.org/wiki/David_Byrne" title="wikilink">David Byrne等音乐人的作品</a></p></td>
 </tr>
@@ -1237,7 +1237,7 @@ world's end girlfriend名义</p></td>
 <td><center>
 <p>36:02</p>
 </center></td>
-<td><p>于WEG个人<a href="../Page/SoundCloud.md" title="wikilink">SoundCloud上发布</a>，10月25—31日期间限定免费下载。</p></td>
+<td><p>于WEG个人<a href="../Page/SoundCloud.md" title="wikilink">SoundCloud</a>上发布，10月25—31日期间限定免费下载。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1288,17 +1288,17 @@ world's end girlfriend名义</p></td>
      及 [world's end girlfriend－F.R.D
     Record](http://frdrecord.com/artist/artist_07.html)
 
-4.  日本[电子音乐人](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[编曲家](https://zh.wikipedia.org/wiki/编曲家 "wikilink")，1992年开始以[嘻哈组合News](../Page/嘻哈.md "wikilink")
+4.  日本[电子音乐人](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[编曲家](https://zh.wikipedia.org/wiki/编曲家 "wikilink")，1992年开始以[嘻哈](../Page/嘻哈.md "wikilink")组合News
     From Street Connection的成员身份活动，1998年单人出道，创有F.R.D Record、op.disc等厂牌。
 
 5.  原名[中尾真人](https://zh.wikipedia.org/wiki/中尾真人 "wikilink")，[流行乐](https://zh.wikipedia.org/wiki/流行乐 "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")。
 
-6.  Sónar于每年6月第三周在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那举办](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")，是一个前卫音乐与[新媒体](https://zh.wikipedia.org/wiki/新媒体 "wikilink")[艺术的音乐节](../Page/艺术.md "wikilink")，吸引全球[先锋派](https://zh.wikipedia.org/wiki/先锋派 "wikilink")、[实验派艺术家参加](https://zh.wikipedia.org/wiki/实验音乐 "wikilink")。
+6.  Sónar于每年6月第三周在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那举办](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")，是一个前卫音乐与[新媒体](https://zh.wikipedia.org/wiki/新媒体 "wikilink")[艺术](../Page/艺术.md "wikilink")的音乐节，吸引全球[先锋派](https://zh.wikipedia.org/wiki/先锋派 "wikilink")、[实验派艺术家参加](https://zh.wikipedia.org/wiki/实验音乐 "wikilink")。
 
-7.  电影《[おそいひと](https://zh.wikipedia.org/wiki/おそいひと "wikilink")》于2004年，在第五届[东京FILMeX国际电影节上首映](https://zh.wikipedia.org/wiki/东京FILMeX国际电影节 "wikilink")，但因引起争议未能在国内上映。2005年开始在众多[国际](https://zh.wikipedia.org/wiki/国际 "wikilink")[电影节中获得好评](../Page/电影节.md "wikilink")，2007年12月1日再次“回归”日本，于[东京ポレポレ東中野](../Page/东京.md "wikilink")[电影院上映后](https://zh.wikipedia.org/wiki/电影院 "wikilink")，终于迎来全国公映。之后还以《LATE
+7.  电影《[おそいひと](https://zh.wikipedia.org/wiki/おそいひと "wikilink")》于2004年，在第五届[东京FILMeX国际电影节上首映](https://zh.wikipedia.org/wiki/东京FILMeX国际电影节 "wikilink")，但因引起争议未能在国内上映。2005年开始在众多[国际](https://zh.wikipedia.org/wiki/国际 "wikilink")[电影节](../Page/电影节.md "wikilink")中获得好评，2007年12月1日再次“回归”日本，于[东京](../Page/东京.md "wikilink")ポレポレ東中野[电影院上映后](https://zh.wikipedia.org/wiki/电影院 "wikilink")，终于迎来全国公映。之后还以《LATE
     BLOOMER》的英文译名在[北美上映](https://zh.wikipedia.org/wiki/北美 "wikilink")，并发行DVD。
 
-8.  来自[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[旧金山的后摇乐队](../Page/旧金山.md "wikilink")。
+8.  来自[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[旧金山](../Page/旧金山.md "wikilink")的后摇乐队。
 
 9.  来自[美国](../Page/美国.md "wikilink")[俄勒冈州](../Page/俄勒冈州.md "wikilink")[波特兰的后摇乐队](https://zh.wikipedia.org/wiki/波特兰 "wikilink")。
 
@@ -1306,7 +1306,7 @@ world's end girlfriend名义</p></td>
     Festival于1999年在[英国创办](https://zh.wikipedia.org/wiki/英国 "wikilink")，汇聚了[后摇](https://zh.wikipedia.org/wiki/后摇滚 "wikilink")、[先锋](https://zh.wikipedia.org/wiki/前卫 "wikilink")、[独立](https://zh.wikipedia.org/wiki/独立音乐 "wikilink")、[地下说唱等另类音乐界精英](../Page/另类嘻哈.md "wikilink")。
 
 11. 电影《[空気人形](https://zh.wikipedia.org/wiki/空気人形 "wikilink")》改编自[业田良家的漫画原作](https://zh.wikipedia.org/wiki/业田良家 "wikilink")《ゴーダ哲学堂
-    空気人形》，于2009年5月14日，在[第62届戛纳电影节的](../Page/第62届戛纳电影节.md "wikilink")“一种注目”单元中上映后，受到业界好评，同年9月26日于日本正式公映。
+    空気人形》，于2009年5月14日，在[第62届戛纳电影节](../Page/第62届戛纳电影节.md "wikilink")的“一种注目”单元中上映后，受到业界好评，同年9月26日于日本正式公映。
 
 12. [OTOTOY－world's end girlfriendの革新的挑戦\! division
     series遂に完結\!](http://ototoy.jp/feature/20100620)
@@ -1321,7 +1321,7 @@ world's end girlfriend名义</p></td>
 
 14.
 15. 电影《[星空（Starry Starry
-    Night）](https://zh.wikipedia.org/wiki/星空_\(2011年电影\) "wikilink")》改编自[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")[几米的同名](https://zh.wikipedia.org/wiki/几米 "wikilink")[绘本](https://zh.wikipedia.org/wiki/绘本 "wikilink")《星空》，由[中国大陆](../Page/中国大陆.md "wikilink")、台湾联合出品，于2011年11月3日、4日在[中国大陆](https://zh.wikipedia.org/wiki/中国 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳门](https://zh.wikipedia.org/wiki/澳门 "wikilink")、台湾、[新加坡等地陆续上映](../Page/新加坡.md "wikilink")。
+    Night）](https://zh.wikipedia.org/wiki/星空_\(2011年电影\) "wikilink")》改编自[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")[几米的同名](https://zh.wikipedia.org/wiki/几米 "wikilink")[绘本](https://zh.wikipedia.org/wiki/绘本 "wikilink")《星空》，由[中国大陆](../Page/中国大陆.md "wikilink")、台湾联合出品，于2011年11月3日、4日在[中国大陆](https://zh.wikipedia.org/wiki/中国 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳门](https://zh.wikipedia.org/wiki/澳门 "wikilink")、台湾、[新加坡](../Page/新加坡.md "wikilink")等地陆续上映。
 
 16. 协助WEG完成现场演出的乐队，双鼓+双吉他+萨克斯风
     阵容。[LIQUIDROOM](http://www.liquidroom.net/livereport/947/)

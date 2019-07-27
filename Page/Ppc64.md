@@ -1,9 +1,9 @@
-**ppc64**是[Linux](../Page/Linux.md "wikilink")、[GCC和](../Page/GCC.md "wikilink")[LLVM](../Page/LLVM.md "wikilink")[开源软件社区内常用的](../Page/开源软件.md "wikilink")，指目标架构为64位[PowerPC和](../Page/PowerPC.md "wikilink")[Power
+**ppc64**是[Linux](../Page/Linux.md "wikilink")、[GCC](../Page/GCC.md "wikilink")和[LLVM](../Page/LLVM.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")社区内常用的，指目标架构为64位[PowerPC](../Page/PowerPC.md "wikilink")和[Power
 Architecture处理器并对此优化的应用程序的标识符](https://zh.wikipedia.org/wiki/Power_Architecture "wikilink")。\[1\]
 
-**ppc64le**是一个已经推出了纯[小端模式](../Page/字节序.md "wikilink")，作为首要目标，OpenPower基金会基础的技术，试图使基于[x86的](https://zh.wikipedia.org/wiki/x86 "wikilink")[Linux软件的移植工作以最小的工作量进行](../Page/Linux.md "wikilink")。\[2\]
+**ppc64le**是一个已经推出了纯[小端模式](../Page/字节序.md "wikilink")，作为首要目标，OpenPower基金会基础的技术，试图使基于[x86的](https://zh.wikipedia.org/wiki/x86 "wikilink")[Linux](../Page/Linux.md "wikilink")软件的移植工作以最小的工作量进行。\[2\]
 
-这两个标识符常见于[开源软件编译时标识目标架构](../Page/开源软件.md "wikilink")。\[3\]
+这两个标识符常见于[开源软件](../Page/开源软件.md "wikilink")编译时标识目标架构。\[3\]
 [PPC-970fx.jpg](https://zh.wikipedia.org/wiki/File:PPC-970fx.jpg "fig:PPC-970fx.jpg")在本例。\]\]
 
   - 64位元Power和PowerPC处理器如下：

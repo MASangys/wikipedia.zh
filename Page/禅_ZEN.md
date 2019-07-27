@@ -1,5 +1,5 @@
 **禅
-ZEN**（ぜん）是2009年1月10日上映的[日本电影](../Page/日本电影.md "wikilink")，导演，主演。\[1\]\[2\]讲述了日本[鎌倉時代初期的](https://zh.wikipedia.org/wiki/鎌倉時代 "wikilink")[禅](../Page/禅.md "wikilink")[僧](https://zh.wikipedia.org/wiki/僧 "wikilink")[道元禅师的生平故事](../Page/道元.md "wikilink")。电影改编自的小説《永平の風
+ZEN**（ぜん）是2009年1月10日上映的[日本电影](../Page/日本电影.md "wikilink")，导演，主演。\[1\]\[2\]讲述了日本[鎌倉時代初期的](https://zh.wikipedia.org/wiki/鎌倉時代 "wikilink")[禅](../Page/禅.md "wikilink")[僧](https://zh.wikipedia.org/wiki/僧 "wikilink")[道元](../Page/道元.md "wikilink")禅师的生平故事。电影改编自的小説《永平の風
 道元の生涯》\[3\]。
 
 ## 情节简介

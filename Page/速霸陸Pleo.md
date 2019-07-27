@@ -8,7 +8,7 @@
 ### 第一代（1998年-2009年）
 
 1995年 -
-11月在第31屆[東京車展上](../Page/東京車展.md "wikilink")，富士重工業展出一輛名為「Elcapa」的[概念車](../Page/概念車.md "wikilink")，即為Pleo的藍本。
+11月在第31屆[東京車展](../Page/東京車展.md "wikilink")上，富士重工業展出一輛名為「Elcapa」的[概念車](../Page/概念車.md "wikilink")，即為Pleo的藍本。
 
 1998年 - 10月9日正式發表**Pleo**，共搭載四種引擎：
 
@@ -26,7 +26,7 @@
 
 除了五速手動排檔[變速系統外](../Page/变速器.md "wikilink")，另有i-CVT[無段自動變速系統可供選購](../Page/無段自動變速器.md "wikilink")，此種i-CVT系統具有鎖定功能的[扭力轉換裝置](https://zh.wikipedia.org/wiki/液力变矩器 "wikilink")，且可模擬7速SportShift手排模式（「RM」、「RS」二種車型），乃世界首創。此款車也有簡易型TCS循跡控制裝置（Traction
 Control
-System之縮寫），當偵測到車輪空轉打滑時，會提高齒輪比以抑制傳動力，但介入程度不高。在[底盤平台方面](https://zh.wikipedia.org/wiki/底盤 "wikilink")，採用「環狀力骨構造車體（環状力骨構造ボディー）」，原廠宣稱B柱的[強度比前一代Vivio高出](https://zh.wikipedia.org/wiki/強度 "wikilink")7倍。同年12月2日針對[身心障礙人士發售福祉車輛](../Page/身心障礙.md "wikilink")「Transcare型」，除了駕駛座可電動向外移動，助手席亦可迴轉。
+System之縮寫），當偵測到車輪空轉打滑時，會提高齒輪比以抑制傳動力，但介入程度不高。在[底盤平台方面](https://zh.wikipedia.org/wiki/底盤 "wikilink")，採用「環狀力骨構造車體（環状力骨構造ボディー）」，原廠宣稱B柱的[強度比前一代Vivio高出](https://zh.wikipedia.org/wiki/強度 "wikilink")7倍。同年12月2日針對[身心障礙](../Page/身心障礙.md "wikilink")人士發售福祉車輛「Transcare型」，除了駕駛座可電動向外移動，助手席亦可迴轉。
 
 1999年 - 6月23日發售新車型「**Pleo
 Nesta**（ネスタ）」，具有專屬進氣壩、四顆圓形頭燈、[歐洲風格的內裝設計等](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。這種衍生車型區分成二種：
@@ -36,12 +36,12 @@ Nesta**（ネスタ）」，具有專屬進氣壩、四顆圓形頭燈、[歐洲
 2.  「RG型」：附7速SportShift手排模式的i-CVT[無段自動變速系統搭配](../Page/無段自動變速器.md "wikilink")658c.c.直列四缸SOHC
     [EN07Z型](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07Z型（機械增壓附中冷器、EMPi） "wikilink")[機械增壓引擎](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")。
 
-同時原有的「L型」新增13吋[輪胎](../Page/輪胎.md "wikilink")、「LM型」新增13吋輪胎與電動調整後視鏡、「RM型」新增深色車窗[玻璃](../Page/玻璃.md "wikilink")、手動排檔車型新增[離合器啟動裝置](../Page/離合器.md "wikilink")。此外，引擎支架也經過改良，以提升靜肅性。同年10月14日新增「LS型」，備有運動化前下巴、側裙、尾翼等空力套件、13吋鋁合金輪框、多重反射霧燈、CD播放機及4支喇叭等裝備。12月24日再推出「Le型」特別仕樣車，具有AM/FM音響和2支喇叭、免鑰匙感應門鎖系統（keyless
+同時原有的「L型」新增13吋[輪胎](../Page/輪胎.md "wikilink")、「LM型」新增13吋輪胎與電動調整後視鏡、「RM型」新增深色車窗[玻璃](../Page/玻璃.md "wikilink")、手動排檔車型新增[離合器](../Page/離合器.md "wikilink")啟動裝置。此外，引擎支架也經過改良，以提升靜肅性。同年10月14日新增「LS型」，備有運動化前下巴、側裙、尾翼等空力套件、13吋鋁合金輪框、多重反射霧燈、CD播放機及4支喇叭等裝備。12月24日再推出「Le型」特別仕樣車，具有AM/FM音響和2支喇叭、免鑰匙感應門鎖系統（keyless
 entry
 system）、電動窗、SRS[安全氣囊等配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
 
 2000年 - 12月22日「**Pleo
-NICOT**（ニコット）」車型上市。這輛車頭設計像是在微笑的車曾在第33屆[東京車展上公開](../Page/東京車展.md "wikilink")，當時搭載CNG（[壓縮天然氣](../Page/壓縮天然氣.md "wikilink")）[天然氣引擎](https://zh.wikipedia.org/wiki/天然氣 "wikilink")，現在量產車則改成658c.c.直列四缸SOHC
+NICOT**（ニコット）」車型上市。這輛車頭設計像是在微笑的車曾在第33屆[東京車展](../Page/東京車展.md "wikilink")上公開，當時搭載CNG（[壓縮天然氣](../Page/壓縮天然氣.md "wikilink")）[天然氣引擎](https://zh.wikipedia.org/wiki/天然氣 "wikilink")，現在量產車則改成658c.c.直列四缸SOHC
 [EN07U型](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN07U型（mild_charge機械增壓、EMPi） "wikilink")[機械增壓引擎](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")，搭配i-CVT變速系統\[2\]。
 
 2001年 - 10月9日富士重工業發表嶄新的「六連星」企業識別標誌，故Pleo車系的廠徽隨之變更。

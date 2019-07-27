@@ -1,9 +1,9 @@
 《**INVADER INVADER**》（）是[Kyary Pamyu
-Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年5月15日由[日本華納音樂發售](../Page/日本華納音樂.md "wikilink")。
+Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年5月15日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。
 
 ## 概要
 
-與前作《[忍者棒棒](../Page/忍者棒棒.md "wikilink")》相隔約2個月發行。單曲分為初回限定盤和通常盤2種形態發售。依然由[中田康貴擔任歌曲的製作人](../Page/中田康貴.md "wikilink")。
+與前作《[忍者棒棒](../Page/忍者棒棒.md "wikilink")》相隔約2個月發行。單曲分為初回限定盤和通常盤2種形態發售。依然由[中田康貴](../Page/中田康貴.md "wikilink")擔任歌曲的製作人。
 
 ## 收錄曲
 

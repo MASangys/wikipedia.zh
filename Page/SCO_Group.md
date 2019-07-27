@@ -2,7 +2,7 @@
 International**，破產後曾改名為**TSG Group,
 Inc**，美國電腦軟體公司，在併購了[聖克魯茲作業](../Page/聖克魯茲作業.md "wikilink")（Santa
 Cruz
-Operation）伺服器軟體與伺服器技術部門，得到[UnixWare與](https://zh.wikipedia.org/wiki/UnixWare "wikilink")[OpenServer技術](../Page/OpenServer.md "wikilink")，引起了[SCO-Linux爭議](https://zh.wikipedia.org/wiki/SCO-Linux爭議 "wikilink")。
+Operation）伺服器軟體與伺服器技術部門，得到[UnixWare與](https://zh.wikipedia.org/wiki/UnixWare "wikilink")[OpenServer](../Page/OpenServer.md "wikilink")技術，引起了[SCO-Linux爭議](https://zh.wikipedia.org/wiki/SCO-Linux爭議 "wikilink")。
 
 2007年，SCO Group申請破產。2011年4月，UnXis收購SCO Group，將它更名為TSG Group。
 
@@ -13,7 +13,7 @@ Operation）伺服器軟體與伺服器技術部門，得到[UnixWare與](https:
 ### 聖克魯茲作業公司（SCO）
 
 [聖克魯茲作業](../Page/聖克魯茲作業.md "wikilink")（Santa Cruz Operation，SCO）
-是加利福尼亚州[圣克鲁斯的一家软件公司](https://zh.wikipedia.org/wiki/圣克鲁斯 "wikilink")。以销售3个版本的基于X86硬件平台的[UNIX而知名](../Page/UNIX.md "wikilink")：[Xenix](../Page/Xenix.md "wikilink")、[SCO
+是加利福尼亚州[圣克鲁斯的一家软件公司](https://zh.wikipedia.org/wiki/圣克鲁斯 "wikilink")。以销售3个版本的基于X86硬件平台的[UNIX](../Page/UNIX.md "wikilink")而知名：[Xenix](../Page/Xenix.md "wikilink")、[SCO
 UNIX](https://zh.wikipedia.org/wiki/SCO_UNIX "wikilink")（后改称SCO
 OpenServer）、[UnixWare](https://zh.wikipedia.org/wiki/UnixWare "wikilink")（1995年自Novell公司收购该软件业务）。
 
@@ -24,11 +24,11 @@ Systems，SCO只保留了Tarantella产品线，并改称Tarantella, Inc.
 ### Caldera Systems, Caldera Holdings, Caldera International
 
 **Caldera,
-Inc.**是一家位于[犹他州的创建于](../Page/犹他州.md "wikilink")1994年的软件公司。启动资金来自时任[Novell公司CEO的](https://zh.wikipedia.org/wiki/Novell公司 "wikilink")[:en:Ray
+Inc.**是一家位于[犹他州](../Page/犹他州.md "wikilink")的创建于1994年的软件公司。启动资金来自时任[Novell公司CEO的](https://zh.wikipedia.org/wiki/Novell公司 "wikilink")[:en:Ray
 Noorda的](https://zh.wikipedia.org/wiki/:en:Ray_Noorda "wikilink")[:en:Canopy
 Group](https://zh.wikipedia.org/wiki/:en:Canopy_Group "wikilink")。主要产品是“Caldera
 Network
-Desktop”，一个针对商业客户的[Linux版本](../Page/Linux.md "wikilink")。随后购并了“The
+Desktop”，一个针对商业客户的[Linux](../Page/Linux.md "wikilink")版本。随后购并了“The
 Linux Support Team Software GmbH”及其LST Linux版本。LST成为随后的[:en:Caldera
 OpenLinux的基础](https://zh.wikipedia.org/wiki/:en:Caldera_OpenLinux "wikilink")。1998年8月，Caldera,
 Inc.分割为两家公司：**Caldera Systems, Inc.**与“Caldera Thin Clients,

@@ -22,7 +22,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
         作詞：武島羽衣、作曲：[瀧廉太郎](https://zh.wikipedia.org/wiki/瀧廉太郎 "wikilink")）
 4.  [春一番](https://zh.wikipedia.org/wiki/春一番_\(キャンディーズの曲\) "wikilink")
       - 作詞・作曲：穗口雄右、編曲：大井洋輔
-      - [糖果合唱團的歌曲](../Page/糖果合唱團.md "wikilink")
+      - [糖果合唱團](../Page/糖果合唱團.md "wikilink")的歌曲
 5.  卒業
       - 作詞：渡邊美里、作曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、編曲：齋藤有太
       - 1991年發行的自身[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。

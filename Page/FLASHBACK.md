@@ -20,7 +20,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilin
 4.  **手錶**（손목시계）
 5.  **Timeless**
       -
-        [正雅與](https://zh.wikipedia.org/wiki/正雅 "wikilink")[Raina合唱](../Page/Raina.md "wikilink")
+        [正雅與](https://zh.wikipedia.org/wiki/正雅 "wikilink")[Raina](../Page/Raina.md "wikilink")合唱
 
 ## 參考資料
 

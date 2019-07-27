@@ -1,5 +1,5 @@
 **诺基亚 Lumia
-1520**是[Nokia公司设计和生产的一款](https://zh.wikipedia.org/wiki/Nokia "wikilink")[平板手机](../Page/平板手机.md "wikilink")，2013年10月22日在[阿布扎比与](../Page/阿布扎比.md "wikilink")
+1520**是[Nokia公司设计和生产的一款](https://zh.wikipedia.org/wiki/Nokia "wikilink")[平板手机](../Page/平板手机.md "wikilink")，2013年10月22日在[阿布扎比](../Page/阿布扎比.md "wikilink")与
 [Nokia Lumia
 1320](https://zh.wikipedia.org/wiki/Nokia_Lumia_1320 "wikilink") 和
 [Nokia Lumia
@@ -12,7 +12,7 @@ One Max竞争的手机](../Page/HTC_One_Max.md "wikilink")\[3\]。
 ## 供货
 
 Lumia 1520首发的国家和地区有新加坡、香港、美国、法国、中国、德国、芬兰和印度。Lumia
-1520在澳大利亚由独家做为合约机销售\[4\]\[5\]，在美国由[AT\&T独家销售](../Page/AT&T.md "wikilink")\[6\]。
+1520在澳大利亚由独家做为合约机销售\[4\]\[5\]，在美国由[AT\&T](../Page/AT&T.md "wikilink")独家销售\[6\]。
 
 ## 设计
 
@@ -91,7 +91,7 @@ LTE和](https://zh.wikipedia.org/wiki/4G_LTE "wikilink")[近场通信](https://z
 1520在显示、速度、拍照方面表现优异，但不支持触控笔，太大难以单手持握，使它不够好用。\[17\]
 
 Nokia Lumia
-1520的硬件令[Engadget赞叹](../Page/Engadget.md "wikilink")，称其为“目前为止最好的
+1520的硬件令[Engadget](../Page/Engadget.md "wikilink")赞叹，称其为“目前为止最好的
 Windows Phone 设备”，给人前所未有的体验。\[18\]
 
 可信评论称Lumia 1520是手机分水岭，它的问世，使Windows Phone

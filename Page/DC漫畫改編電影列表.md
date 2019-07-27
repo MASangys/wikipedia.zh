@@ -1,4 +1,4 @@
-**DC漫畫改編電影列表**是陳列出[DC漫畫改編成的系列電影](../Page/DC漫畫.md "wikilink")，但不包括「愛好者」和「非官方」產品。
+**DC漫畫改編電影列表**是陳列出[DC漫畫](../Page/DC漫畫.md "wikilink")改編成的系列電影，但不包括「愛好者」和「非官方」產品。
 
 ## 院線電影
 
@@ -344,7 +344,7 @@
 <td><p>2007</p></td>
 <td><p><strong><a href="../Page/星塵傳奇.md" title="wikilink">星塵傳奇</a></strong></p></td>
 <td><p>派拉蒙影业/马福影业</p></td>
-<td><p>改編自<a href="../Page/尼爾·蓋曼.md" title="wikilink">尼爾·蓋曼和</a>的小說《》。</p></td>
+<td><p>改編自<a href="../Page/尼爾·蓋曼.md" title="wikilink">尼爾·蓋曼</a>和的小說《》。</p></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
@@ -538,7 +538,7 @@
 </tr>
 <tr class="even">
 <td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/正義聯盟：開戰" title="wikilink">正義聯盟：開戰</a></strong></p></td>
-<td><p>以<a href="../Page/新52.md" title="wikilink">新52為基準</a>。</p></td>
+<td><p>以<a href="../Page/新52.md" title="wikilink">新52</a>為基準。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -603,7 +603,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/蝙蝠俠：披風戰士歸來_(動畫電影).md" title="wikilink">蝙蝠俠：披風鬥士歸來</a></strong></p></td>
-<td><p>基於1960年代電視劇《》改編，於<a href="../Page/有限上映.md" title="wikilink">有限上映的方式發行</a>。</p></td>
+<td><p>基於1960年代電視劇《》改編，於<a href="../Page/有限上映.md" title="wikilink">有限上映</a>的方式發行。</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-《**SPEC〜零〜**》（）是2013年10月23日在[日本](../Page/日本.md "wikilink")[TBS電視台播出的單集電視劇](../Page/TBS電視台.md "wikilink")，為TBS電視台刑事科幻劇《[SPEC](../Page/SPEC～警視廳公安部公安第五課_未詳事件特別對策係事件簿～.md "wikilink")》的第2部電視劇特別篇，亦是《SPEC》本劇的[前傳](https://zh.wikipedia.org/wiki/前傳 "wikilink")。
+《**SPEC～零～**》（）是2013年10月23日在[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")播出的單集電視劇，為TBS電視台刑事科幻劇《[SPEC](../Page/SPEC～警視廳公安部公安第五課_未詳事件特別對策係事件簿～.md "wikilink")》的第2部電視劇特別篇，亦是《SPEC》本劇的[前傳](https://zh.wikipedia.org/wiki/前傳 "wikilink")。
 
 ## 主要角色
 
@@ -58,3 +58,4 @@
 [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
 [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
 [Category:電視劇前傳](https://zh.wikipedia.org/wiki/Category:電視劇前傳 "wikilink")
+[Category:東京國際戲劇節優秀單發劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀單發劇獲獎作品 "wikilink")

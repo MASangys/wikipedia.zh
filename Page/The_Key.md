@@ -1,5 +1,5 @@
 《**The
-Key**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語音樂迷你專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2013年7月22日發行。
+Key**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語音樂迷你專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2013年7月22日發行。
 
 ## 專輯簡介
 
@@ -8,7 +8,7 @@ Key**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wik
 由於陳奕迅忙於籌備《Eason's LIFE》香港紅館演唱會，是次專輯起用了梁榮駿([Alvin
 Leong](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink"))、[C.Y.
 Kong](https://zh.wikipedia.org/wiki/C.Y._Kong "wikilink")、[Eric
-Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")、填詞人[林夕](../Page/林夕.md "wikilink")、[小克](https://zh.wikipedia.org/wiki/小克 "wikilink")、[林若寧等合作無間的主要製作班底](../Page/林若寧.md "wikilink")，陳奕迅與以往積極參與幕後製作的情況相反，只負責主唱部份。
+Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")、填詞人[林夕](../Page/林夕.md "wikilink")、[小克](https://zh.wikipedia.org/wiki/小克 "wikilink")、[林若寧](../Page/林若寧.md "wikilink")等合作無間的主要製作班底，陳奕迅與以往積極參與幕後製作的情況相反，只負責主唱部份。
 
 專輯名稱《The Key》原自陳奕迅看過香港本地藝術家Prodip Leung的一幅畫像，當時畫像還未加上在唱片封面上看到的星星圖案"The
 Key"。當陳奕迅了解此畫的"Main Theme (主旨)"
@@ -40,7 +40,7 @@ Key》專輯再次沒有收錄個人照片。
 | 01              | 主旋律\[1\]           | Rick Lau @ hehehe                                   | 2013年7月16日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [官方Youtube連結](http://www.youtube.com/watch?v=fJJoPLG-Bnc)            |
 | 03              | 斯德哥爾摩情人            | [莊少榮](https://zh.wikipedia.org/wiki/莊少榮 "wikilink") | \-         | \-                                                          | [官方Youtube連結](https://www.youtube.com/watch?v=GUtpzogPajU)           |
 | 04              | 任我行                | \-                                                  | 2013年7月22日 | uView手機程式                                                   | [官方Youtube連結](http://www.youtube.com/watch?v=oYw4uH80gcw)            |
-| 04              | 任我行（Lyrics Video）  | \-                                                  | 2013年7月26日 | [Facebook專頁](../Page/Facebook.md "wikilink")                | [官方Facebook連結](http://www.facebook.com/photo.php?v=1404118496466458) |
+| 04              | 任我行（Lyrics Video）  | \-                                                  | 2013年7月26日 | [Facebook](../Page/Facebook.md "wikilink")專頁                | [官方Facebook連結](http://www.facebook.com/photo.php?v=1404118496466458) |
 | 05              | 遠在咫尺（Lyrics Video） | \-                                                  | 2013年10月3日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [官方Youtube連結](http://www.youtube.com/watch?v=brEd9sjXHvM)            |
 | Bonus CD Single | 同舟之情               | \-                                                  | 2013年6月5日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [官方Youtube連結](http://www.youtube.com/watch?v=ZcT_b1UthgQ)            |
 

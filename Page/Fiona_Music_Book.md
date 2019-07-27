@@ -1,4 +1,4 @@
-《**冷笑話**》為香港女歌手[薛凱琪於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2013年發行的廣東單曲碟，是她加入[太陽娛樂文化後發行的第一張廣東專輯](../Page/太陽娛樂文化.md "wikilink")。
+《**冷笑話**》為香港女歌手[薛凱琪於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2013年發行的廣東單曲碟，是她加入[太陽娛樂文化](../Page/太陽娛樂文化.md "wikilink")後發行的第一張廣東專輯。
 
 ## 專輯簡介
 

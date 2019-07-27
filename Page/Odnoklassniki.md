@@ -1,8 +1,8 @@
-（，意为“同学”）是一个为[俄罗斯和其他](../Page/俄罗斯.md "wikilink")[前苏联国家的网民提供校友](https://zh.wikipedia.org/wiki/前苏联 "wikilink")[社交网络服务的网站](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")，由[阿尔伯特·波普科夫创建于](https://zh.wikipedia.org/wiki/阿尔伯特·波普科夫 "wikilink")2006年3月4日。\[1\]
+（，意为“同学”）是一个为[俄罗斯](../Page/俄罗斯.md "wikilink")和其他[前苏联国家的网民提供校友](https://zh.wikipedia.org/wiki/前苏联 "wikilink")[社交网络服务的网站](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")，由[阿尔伯特·波普科夫创建于](https://zh.wikipedia.org/wiki/阿尔伯特·波普科夫 "wikilink")2006年3月4日。\[1\]
 
 ## 现状
 
-Odnoklassniki的网站宣称已有超过4500万的注册用户，每天的独立访客逾1000万。\[2\]根据[Alexa的流量数据](https://zh.wikipedia.org/wiki/Alexa "wikilink")，Odnoklassniki在全球排名第67，而在俄罗斯国内排在第7位。\[3\]网站收入的主要来源是广告、社交游戏和其他收费项目，2008年第一季度的营收为330万美元。\[4\]\[5\]\[6\]社交网站Odnoklassniki.ru的用户主要集中在35岁以下，年收入低于3万美元的人群。网站在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")（排名第四）、[亚美尼亚](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")（排名第五）等国非常受欢迎。\[7\]Odnoklassniki的[服务器位于俄罗斯](../Page/服务器.md "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")，网站以[Java编写](../Page/Java.md "wikilink")，用户主要使用的语言为[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")。\[8\]在2006年和2007年，Odnoklassniki两度获得俄罗斯的Runet大奖。\[9\]\[10\]
+Odnoklassniki的网站宣称已有超过4500万的注册用户，每天的独立访客逾1000万。\[2\]根据[Alexa的流量数据](https://zh.wikipedia.org/wiki/Alexa "wikilink")，Odnoklassniki在全球排名第67，而在俄罗斯国内排在第7位。\[3\]网站收入的主要来源是广告、社交游戏和其他收费项目，2008年第一季度的营收为330万美元。\[4\]\[5\]\[6\]社交网站Odnoklassniki.ru的用户主要集中在35岁以下，年收入低于3万美元的人群。网站在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")（排名第四）、[亚美尼亚](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")（排名第五）等国非常受欢迎。\[7\]Odnoklassniki的[服务器](../Page/服务器.md "wikilink")位于俄罗斯[莫斯科](../Page/莫斯科.md "wikilink")，网站以[Java](../Page/Java.md "wikilink")编写，用户主要使用的语言为[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")。\[8\]在2006年和2007年，Odnoklassniki两度获得俄罗斯的Runet大奖。\[9\]\[10\]
 
 2008年9月15日，根据媒体报道，创始人波普科夫将手中Odnoklassniki的20%股份尽数出售给[数码天空科技](../Page/数码天空科技.md "wikilink")。至此，Odnoklassniki归属数码天空科技所有。\[11\]
 

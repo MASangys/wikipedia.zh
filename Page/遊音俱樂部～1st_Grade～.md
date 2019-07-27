@@ -1,5 +1,5 @@
 《**遊音俱樂部～1st
-Grade～**》為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2013年9月4日發行的首張[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，由[A
+Grade～**》為[日本](../Page/日本.md "wikilink")歌手[絢香](../Page/絢香.md "wikilink")於2013年9月4日發行的首張[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，由[A
 stAtion製作](https://zh.wikipedia.org/wiki/A_stAtion "wikilink")、[avex
 marketing發行](https://zh.wikipedia.org/wiki/avex "wikilink")\[1\]。
 

@@ -1,12 +1,12 @@
 《**Go to the
-top**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2012年10月24日發行的53rd[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2012年產後回歸的第一張單曲。
+top**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2012年10月24日發行的53rd[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2012年產後回歸的第一張單曲。
 
 ## 解說
 
   - 與上張單曲相隔約11月，發行4版本。
   - CD+DVD版跟CD+DVD【Total Eclipse盤】收錄的音樂錄影帶版本不同。
   - CD+DVD【Total Eclipse盤】的包裝為特別紙盒，封面採用動畫描繪的單曲形象。
-  - 標題曲為[東京電視台動畫](../Page/東京電視台.md "wikilink")《[Total
+  - 標題曲為[東京電視台](../Page/東京電視台.md "wikilink")動畫《[Total
     Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")》主題曲。
   - 是首次以動畫作為音樂錄影帶的單曲\[1\]，另外在其中的畫面隱藏了下張單曲《[好愛好愛你](../Page/好愛好愛你.md "wikilink")》的發行日期。
   - 於｢[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")｣演唱。
@@ -30,7 +30,7 @@ top**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page
       -
         作曲・編曲：CLARABELL
     <!-- end list -->
-      - [東京電視台動畫](../Page/東京電視台.md "wikilink")《[Total
+      - [東京電視台](../Page/東京電視台.md "wikilink")動畫《[Total
         Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")》主題曲
       - 歌詞內含正面積極的訊息，鼓勵人們跨越眼前的種種障礙，以不屈不撓的姿態朝著未來前進\!\!
 2.  **darling**

@@ -1,10 +1,10 @@
 [LOFTER_LOGO.png](https://zh.wikipedia.org/wiki/File:LOFTER_LOGO.png "fig:LOFTER_LOGO.png")
 
-**LOFTER**，中文名**乐乎**，是由[网易开发的轻博客服务](../Page/网易.md "wikilink")，目标群体是小众的[文艺青年](https://zh.wikipedia.org/wiki/文艺青年 "wikilink")。
+**LOFTER**，中文名**乐乎**，是由[网易](../Page/网易.md "wikilink")开发的轻博客服务，目标群体是小众的[文艺青年](https://zh.wikipedia.org/wiki/文艺青年 "wikilink")。
 
 ## 成立
 
-2007年，[Tumblr创立后](https://zh.wikipedia.org/wiki/Tumblr "wikilink")，[轻博客开始逐渐流行](../Page/轻博客.md "wikilink")。2011年8月，LOFTER上线。\[1\]2011年12月，LOFTER开放注册。\[2\]
+2007年，[Tumblr创立后](https://zh.wikipedia.org/wiki/Tumblr "wikilink")，[轻博客](../Page/轻博客.md "wikilink")开始逐渐流行。2011年8月，LOFTER上线。\[1\]2011年12月，LOFTER开放注册。\[2\]
 
 ## 历史
 
@@ -14,11 +14,11 @@
 
 LOFTER官方介绍页面宣称其为“简单随性的记录工具，凝聚精华的创作平台”。\[3\]
 
-与其他中华人民共和国的公司提供的[轻博客服务不同](../Page/轻博客.md "wikilink")，LOFTER一开始便注重原创，并提出了“专注兴趣，分享创作”的口号来阐述LOFTER的定位。LOFTER认为其与竞争对手不同，特立独行。
+与其他中华人民共和国的公司提供的[轻博客](../Page/轻博客.md "wikilink")服务不同，LOFTER一开始便注重原创，并提出了“专注兴趣，分享创作”的口号来阐述LOFTER的定位。LOFTER认为其与竞争对手不同，特立独行。
 
 与传统博客时代类似，
 
-LOFTER为用户提供了将原创内容以[知识共享协议发布的选项](../Page/知识共享.md "wikilink")。\[4\]
+LOFTER为用户提供了将原创内容以[知识共享](../Page/知识共享.md "wikilink")协议发布的选项。\[4\]
 
 ## 初期宣传方式
 

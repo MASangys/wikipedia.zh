@@ -1,4 +1,4 @@
-**DP輕機槍**（，意为**捷格加廖夫步兵机枪**），有型号**DP27**或**DP28**，是一款由[蘇聯人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[瓦西里·捷格加廖夫於](../Page/瓦西里·捷格加廖夫.md "wikilink")1927年研製成功，1928年裝備[蘇聯紅軍的](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，此槍經歷過[西班牙內戰](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，在[冬季戰爭當中被](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")[芬蘭軍拿到](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")8000支，在[第二次世界大戰的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德蘇戰爭當中也經常出現](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")。
+**DP輕機槍**（，意为**捷格加廖夫步兵机枪**），有型号**DP27**或**DP28**，是一款由[蘇聯人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[瓦西里·捷格加廖夫](../Page/瓦西里·捷格加廖夫.md "wikilink")於1927年研製成功，1928年裝備[蘇聯紅軍的](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，此槍經歷過[西班牙內戰](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，在[冬季戰爭當中被](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")[芬蘭軍拿到](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")8000支，在[第二次世界大戰的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德蘇戰爭當中也經常出現](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")。
 
 ## 設計特式
 
@@ -19,7 +19,7 @@ DP輕機槍的改良型，把其複進簧改成裝在[機匣後方的複進箕�
 
   - DT/DTM
 
-車載機槍，主要作為[T-34坦克的同軸機槍和車前機槍](../Page/T-34坦克.md "wikilink")。该枪枪管更重，采用双层弹盘，装备可伸缩金属枪托和手枪握把。
+車載機槍，主要作為[T-34坦克](../Page/T-34坦克.md "wikilink")的同軸機槍和車前機槍。该枪枪管更重，采用双层弹盘，装备可伸缩金属枪托和手枪握把。
 [Machine_gun_DP_and_DT.jpg](https://zh.wikipedia.org/wiki/File:Machine_gun_DP_and_DT.jpg "fig:Machine_gun_DP_and_DT.jpg")
 
   - DTM-4
@@ -36,7 +36,7 @@ DTM四聯裝車載機槍衍生型。
 
 ## 現況
 
-[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[二戰結束後就以](https://zh.wikipedia.org/wiki/二戰 "wikilink")[RPD及](https://zh.wikipedia.org/wiki/RPD "wikilink")[RPK等較新型的輕機槍取代了DP輕機槍](https://zh.wikipedia.org/wiki/RPK "wikilink")。但至今仍有許多[第三世界國家的](https://zh.wikipedia.org/wiki/第三世界國家 "wikilink")[軍隊及反政府武裝團体仍在使用及生產中](../Page/軍隊.md "wikilink")。DP輕機槍還曾出現在[索馬里內戰及](https://zh.wikipedia.org/wiki/索馬里內戰 "wikilink")[2011年利比亞內戰等武裝衝突](https://zh.wikipedia.org/wiki/2011年利比亞內戰 "wikilink")。
+[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[二戰結束後就以](https://zh.wikipedia.org/wiki/二戰 "wikilink")[RPD及](https://zh.wikipedia.org/wiki/RPD "wikilink")[RPK等較新型的輕機槍取代了DP輕機槍](https://zh.wikipedia.org/wiki/RPK "wikilink")。但至今仍有許多[第三世界國家的](https://zh.wikipedia.org/wiki/第三世界國家 "wikilink")[軍隊](../Page/軍隊.md "wikilink")及反政府武裝團体仍在使用及生產中。DP輕機槍還曾出現在[索馬里內戰及](https://zh.wikipedia.org/wiki/索馬里內戰 "wikilink")[2011年利比亞內戰等武裝衝突](https://zh.wikipedia.org/wiki/2011年利比亞內戰 "wikilink")。
 
 ## 使用國家
 
@@ -115,7 +115,7 @@ DTM四聯裝車載機槍衍生型。
 
   - 在1956年拍攝的中國[韓戰電影](https://zh.wikipedia.org/wiki/韓戰 "wikilink")《[上甘嶺](https://zh.wikipedia.org/wiki/上甘嶺_\(電影\) "wikilink")》當中有為DP輕機槍上彈和投入戰鬥的鏡頭。
   - 韓國電影《[-{zh-hans:太极旗飘扬; zh-hk:太極旗飄揚：生死有情;
-    zh-hant:太極旗－生死兄弟;}-](../Page/太極旗飄揚.md "wikilink")》中，最後[大韓民國國軍衝鋒時](../Page/大韓民國國軍.md "wikilink")，有[朝鮮人民軍士兵使用DP輕機槍射擊的畫面](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")。
+    zh-hant:太極旗－生死兄弟;}-](../Page/太極旗飄揚.md "wikilink")》中，最後[大韓民國國軍](../Page/大韓民國國軍.md "wikilink")衝鋒時，有[朝鮮人民軍士兵使用DP輕機槍射擊的畫面](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")。
 
 ## 相關條目
 

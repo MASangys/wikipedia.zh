@@ -1,5 +1,5 @@
 **AZ大廈**（**AZ
-Tower**）是一座位於[捷克共和國](https://zh.wikipedia.org/wiki/捷克共和國 "wikilink")[布爾諾的](../Page/布爾諾.md "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")。現在是[捷克最高建築](https://zh.wikipedia.org/wiki/捷克共和國摩天大樓列表 "wikilink")。\[1\]
+Tower**）是一座位於[捷克共和國](https://zh.wikipedia.org/wiki/捷克共和國 "wikilink")[布爾諾](../Page/布爾諾.md "wikilink")的[摩天大樓](../Page/摩天大樓.md "wikilink")。現在是[捷克最高建築](https://zh.wikipedia.org/wiki/捷克共和國摩天大樓列表 "wikilink")。\[1\]
 
 ## 參考文獻
 

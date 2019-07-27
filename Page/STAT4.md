@@ -1,4 +1,4 @@
-**STAT4**是[转录因子中](../Page/转录因子.md "wikilink")[信号转导及转录激活蛋白](../Page/信号转导及转录激活蛋白.md "wikilink")（STAT蛋白）家族的一员\[1\]。
+**STAT4**是[转录因子](../Page/转录因子.md "wikilink")中[信号转导及转录激活蛋白](../Page/信号转导及转录激活蛋白.md "wikilink")（STAT蛋白）家族的一员\[1\]。
 It is required for the development of Th1 cells from naive [CD4+ T
 cells](https://zh.wikipedia.org/wiki/T_helper_cell "wikilink")\[2\] and
 [IFN-γ](https://zh.wikipedia.org/wiki/Interferon-gamma "wikilink")
@@ -7,7 +7,7 @@ production in response to
 
 ## 结构
 
-人类和鼠类的STAT4基因都位于[STAT1基因的附近](../Page/STAT1.md "wikilink")，这一点暗示了这两个基因由[基因重複而来](../Page/基因重複.md "wikilink")\[4\]，[STAT蛋白都有几个特定的](https://zh.wikipedia.org/wiki/STAT蛋白 "wikilink")[结构域](../Page/结构域.md "wikilink")，包括[N-端互作结构域](https://zh.wikipedia.org/wiki/N-末端 "wikilink")，中间的，一个[SH2结构域以及](../Page/SH2结构域.md "wikilink")[C-端的转录激活结构域](https://zh.wikipedia.org/wiki/C-末端 "wikilink")\[5\]。
+人类和鼠类的STAT4基因都位于[STAT1](../Page/STAT1.md "wikilink")基因的附近，这一点暗示了这两个基因由[基因重複](../Page/基因重複.md "wikilink")而来\[4\]，[STAT蛋白都有几个特定的](https://zh.wikipedia.org/wiki/STAT蛋白 "wikilink")[结构域](../Page/结构域.md "wikilink")，包括[N-端互作结构域](https://zh.wikipedia.org/wiki/N-末端 "wikilink")，中间的，一个[SH2结构域](../Page/SH2结构域.md "wikilink")以及[C-端的转录激活结构域](https://zh.wikipedia.org/wiki/C-末端 "wikilink")\[5\]。
 
 ## 表达
 

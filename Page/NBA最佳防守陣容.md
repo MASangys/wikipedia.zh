@@ -1,4 +1,4 @@
-**NBA最佳防守陣容**（）是[NBA的荣誉之一](../Page/NBA.md "wikilink")，於1968年創立，用来表彰当季联盟防守表现最好的球员，每个赛季选拔一次由各球隊[總教練選出](https://zh.wikipedia.org/wiki/總教練 "wikilink")，但他們不能選擇自己隊的球員。\[1\]\[2\]
+**NBA最佳防守陣容**（）是[NBA](../Page/NBA.md "wikilink")的荣誉之一，於1968年創立，用来表彰当季联盟防守表现最好的球员，每个赛季选拔一次由各球隊[總教練選出](https://zh.wikipedia.org/wiki/總教練 "wikilink")，但他們不能選擇自己隊的球員。\[1\]\[2\]
 
 最佳防守陣容分为一队以及二队，每队5名球员。当一名球员被支持进入一队会得到2分，被支持进入二队会得到1分，累计得分最高的5位球员将进入一队，累计得分在6-10位的球员进入二队。如果第五名出现并列的情况，得分相同的球员均会进入一队。如果一队拥有超过5名的球员，二队依然还会含有5名球员而非4名。这种情况只在2006年发生过，当时[柯比·布萊恩和](https://zh.wikipedia.org/wiki/柯比·布萊恩 "wikilink")[傑森·基德以相同的票数进入了](https://zh.wikipedia.org/wiki/傑森·基德 "wikilink")1队。
 
@@ -1238,7 +1238,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉·伊巴卡" title="wikilink">塞尔吉·伊巴卡</a>^ (3)</p></td>
 <td><p><a href="../Page/俄克拉何马城雷霆.md" title="wikilink">俄克拉何马城雷霆</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>^</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/安德烈·伊格达拉.md" title="wikilink">安德烈·伊格达拉</a>^ (2)</p></td>
@@ -1247,7 +1247,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a></strong>^ (2)</p></td>
+<td><p><strong><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a></strong>^ (2)</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 </tr>
 <tr class="even">
@@ -1272,7 +1272,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a></strong>^ (3)</p></td>
+<td><p><strong><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a></strong>^ (3)</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 </tr>
 <tr class="odd">
@@ -1311,7 +1311,7 @@
 <td><p><a href="../Page/丹尼·格林.md" title="wikilink">丹尼·格林</a>^</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^ (4)</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>^ (4)</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安東尼·戴維斯_(籃球運動員)" title="wikilink">安东尼·戴维斯</a>^ (2)</p></td>
 </tr>
@@ -1388,7 +1388,7 @@
 <tr class="odd">
 <td><p><a href="../Page/艾瑞克·布萊德索.md" title="wikilink">艾瑞克·布萊德索</a>^</p></td>
 <td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^ (5)</p></td>
+<td><p><a href="../Page/科怀·伦纳德.md" title="wikilink">科怀·伦纳德</a>^ (5)</p></td>
 </tr>
 </tbody>
 </table>

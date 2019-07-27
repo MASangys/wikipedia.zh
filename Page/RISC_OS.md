@@ -1,14 +1,14 @@
 **** ()\[1\]
-是给[ARM架构的系统设计的一系列基于](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[图形用户界面的电脑](../Page/图形用户界面.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。它的名字来源于它所支持的[精简指令集RISC](../Page/精简指令集.md "wikilink")
+是给[ARM架构的系统设计的一系列基于](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")的电脑[操作系统](../Page/操作系统.md "wikilink")。它的名字来源于它所支持的[精简指令集](../Page/精简指令集.md "wikilink")RISC
 架构。 这个OS原本是被[艾康電腦](../Page/艾康電腦.md "wikilink")（[Acorn
 Computers](https://zh.wikipedia.org/wiki/Acorn_Computers "wikilink"))公司开发，用于他们的1987的[Archimedes个人电脑](https://zh.wikipedia.org/wiki/Archimedes "wikilink")，该个人电脑使用的是[Acorn
 RISC
-Machine处理器](https://zh.wikipedia.org/wiki/Acorn_RISC_Machine "wikilink")。它是由[命令行界面和](../Page/命令行界面.md "wikilink")[桌面环境组成的](../Page/桌面环境.md "wikilink")[视窗系统](https://zh.wikipedia.org/wiki/视窗系统 "wikilink")。
+Machine处理器](https://zh.wikipedia.org/wiki/Acorn_RISC_Machine "wikilink")。它是由[命令行界面](../Page/命令行界面.md "wikilink")和[桌面环境](../Page/桌面环境.md "wikilink")组成的[视窗系统](https://zh.wikipedia.org/wiki/视窗系统 "wikilink")。
 
 最新的稳定版本运行在 ARMv3/ARMv4
 \[2\]（或根据仿真通过或），ARMv5的Iyonix\[3\]和ARMv7的Cortex-A8处理器\[4\]\[5\]
-（如使用的[BeagleBoard和](../Page/BeagleBoard.md "wikilink")）。在2011年，一个移植的
-已宣布\[6\]和[树莓派在公众场合露面的开发版本可免费下载的候选发布版已跟进](../Page/树莓派.md "wikilink")\[7\]\[8\]\[9\]，这版本已免费提供[树莓派用户](../Page/树莓派.md "wikilink")。\[10\]
+（如使用的[BeagleBoard](../Page/BeagleBoard.md "wikilink")和）。在2011年，一个移植的
+已宣布\[6\]和[树莓派](../Page/树莓派.md "wikilink")在公众场合露面的开发版本可免费下载的候选发布版已跟进\[7\]\[8\]\[9\]，这版本已免费提供[树莓派](../Page/树莓派.md "wikilink")用户。\[10\]
 
 2018年10月，RISC OS在[Apache
 2.0许可证下开源](https://zh.wikipedia.org/wiki/Apache_2.0 "wikilink")\[11\]。

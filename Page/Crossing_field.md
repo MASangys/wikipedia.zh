@@ -1,5 +1,5 @@
 《**crossing
-field**》（）是日本女歌手[LiSA的第](../Page/LiSA.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月8日由[Aniplex發售](../Page/Aniplex.md "wikilink")。
+field**》（）是日本女歌手[LiSA](../Page/LiSA.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月8日由[Aniplex](../Page/Aniplex.md "wikilink")發售。
 
 ## 概要
 
@@ -18,7 +18,7 @@ field的PV影片。而限定版的封面人物亞絲娜則是由《刀劍神域�
 ## 反應
 
 在2012年8月20日中，crossing
-field取得了[Oricon公信榜週榜的第](../Page/Oricon公信榜.md "wikilink")5位，成為LiSA當時在該榜的最高名次，直到2014年5月13日才被同為自己的單曲《[Rising
+field取得了[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜的第5位，成為LiSA當時在該榜的最高名次，直到2014年5月13日才被同為自己的單曲《[Rising
 Hope](../Page/Rising_Hope.md "wikilink")》打破（第4位）。最初的銷售數量達至3.9萬份\[4\]，雖然比前作《oath
 sign》的銷售數量少大約0.6萬份，但仍然達成了連續兩首單曲都打進Oricon公信榜週榜的前五。
 

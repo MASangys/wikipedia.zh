@@ -1,13 +1,13 @@
 [Creative_Comic_Collection_1.jpg](https://zh.wikipedia.org/wiki/File:Creative_Comic_Collection_1.jpg "fig:Creative_Comic_Collection_1.jpg")
 《**Creative Comic Collection
-創作集**》，簡稱《**CCC創作集**》，是以[臺灣歷史](../Page/臺灣.md "wikilink")、文化與自然為題材，臺灣創作者創作的漫畫綜合雜誌，由[行政院國家科學委員會](https://zh.wikipedia.org/wiki/行政院國家科學委員會 "wikilink")[數位典藏與數位學習國家型科技計畫](https://zh.wikipedia.org/wiki/數位典藏與數位學習國家型科技計畫 "wikilink")-數位核心平台計畫製作\[1\]\[2\]，[蓋亞文化發行](https://zh.wikipedia.org/wiki/蓋亞文化 "wikilink")\[3\]；2012年底，數位典藏與數位學習國家型科技計畫執行完畢\[4\]，《CCC創作集》改由蓋亞文化獨立製作與出版；2015年，《CCC創作集》發行第二十期後宣布停刊\[5\]。2017年[中華民國文化部挹注](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")[新台幣千萬元](https://zh.wikipedia.org/wiki/新台幣 "wikilink")
+創作集**》，簡稱《**CCC創作集**》，是以[臺灣](../Page/臺灣.md "wikilink")歷史、文化與自然為題材，臺灣創作者創作的漫畫綜合雜誌，由[行政院國家科學委員會](https://zh.wikipedia.org/wiki/行政院國家科學委員會 "wikilink")[數位典藏與數位學習國家型科技計畫](https://zh.wikipedia.org/wiki/數位典藏與數位學習國家型科技計畫 "wikilink")-數位核心平台計畫製作\[1\]\[2\]，[蓋亞文化發行](https://zh.wikipedia.org/wiki/蓋亞文化 "wikilink")\[3\]；2012年底，數位典藏與數位學習國家型科技計畫執行完畢\[4\]，《CCC創作集》改由蓋亞文化獨立製作與出版；2015年，《CCC創作集》發行第二十期後宣布停刊\[5\]。2017年[中華民國文化部挹注](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")[新台幣千萬元](https://zh.wikipedia.org/wiki/新台幣 "wikilink")
 ，預計月刊發行24期 ，並於同年12月27日發行復刊號試刊 \[6\]。
 
 ## 出版緣起
 
 2009年起，國科會數位典藏與數位學習國家型科技計畫-數位核心平台計畫與國內漫畫、插畫、小說創作者合作\[7\]，推出數位典藏與數位學習成果入口網導覽專刊《Creative
 Comic Collection
-創作集》，試圖用說故事的方式推廣[數位典藏與數位學習成果入口網](http://digitalarchives.tw)的內容\[8\]，並在[同人誌即賣會與](../Page/同人誌即賣會.md "wikilink")[台北國際書展等場合免費兌換](../Page/台北國際書展.md "wikilink")。2011年第五期起，交由蓋亞文化發行\[9\]。2013年度開始由蓋亞文化取得授權，在[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")101\[10\]與103\[11\]年度補助下，獨立製作出版。2015年名列文化部「第37次中小學生優良課外讀物評選推介活動」獲選書籍\[12\]。
+創作集》，試圖用說故事的方式推廣[數位典藏與數位學習成果入口網](http://digitalarchives.tw)的內容\[8\]，並在[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")與[台北國際書展](../Page/台北國際書展.md "wikilink")等場合免費兌換。2011年第五期起，交由蓋亞文化發行\[9\]。2013年度開始由蓋亞文化取得授權，在[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")101\[10\]與103\[11\]年度補助下，獨立製作出版。2015年名列文化部「第37次中小學生優良課外讀物評選推介活動」獲選書籍\[12\]。
 
 ### 一至四期兌換活動
 

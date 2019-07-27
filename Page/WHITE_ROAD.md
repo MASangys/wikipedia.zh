@@ -1,5 +1,5 @@
 《**WHITE
-ROAD**》為[GLAY的第](../Page/GLAY.md "wikilink")32張單曲，有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
+ROAD**》為[GLAY](../Page/GLAY.md "wikilink")的第32張單曲，有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
 
 ## 簡介
 

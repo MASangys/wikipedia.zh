@@ -1,14 +1,14 @@
 《**Day by
 Day**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第六張韓語迷你專輯](https://zh.wikipedia.org/wiki/T-ara "wikilink")，由[Core
 Contents
-Media於](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2012年7月3日發行\[1\]。這張同時也是[柳和榮退出組合前最後一張參與錄製的專輯](../Page/柳和榮.md "wikilink")，以及新成員[李雅琳的出道專輯](https://zh.wikipedia.org/wiki/李雅琳 "wikilink")。
+Media於](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2012年7月3日發行\[1\]。這張同時也是[柳和榮](../Page/柳和榮.md "wikilink")退出組合前最後一張參與錄製的專輯，以及新成員[李雅琳的出道專輯](https://zh.wikipedia.org/wiki/李雅琳 "wikilink")。
 
 原定於2012年8月15日要推出重新包裝的第七張迷你專輯《**Mirage**》\[2\]，但受到柳和榮退出組合事件的影響，故將發行日期推延至同年9月3日\[3\]。
 
 ## 宣傳與發行
 
 2012年6月13日，Core Contents Media釋出第六張迷你專輯《Day by
-Day》的發行訊息\[4\]，隔天公布了即將加入組合的第八位成員[李雅琳的照片](https://zh.wikipedia.org/wiki/李雅琳 "wikilink")\[5\]。6月15日，經紀公司公開了[朴孝敏和預計在](../Page/朴孝敏.md "wikilink")12月加入組合的第九位成員[Danee的音樂影片劇照](https://zh.wikipedia.org/wiki/Danee "wikilink")\[6\]。6月28日，經紀公司公開了回歸單曲《Day
+Day》的發行訊息\[4\]，隔天公布了即將加入組合的第八位成員[李雅琳的照片](https://zh.wikipedia.org/wiki/李雅琳 "wikilink")\[5\]。6月15日，經紀公司公開了[朴孝敏](../Page/朴孝敏.md "wikilink")和預計在12月加入組合的第九位成員[Danee的音樂影片劇照](https://zh.wikipedia.org/wiki/Danee "wikilink")\[6\]。6月28日，經紀公司公開了回歸單曲《Day
 by
 Day》的[音樂影片預告](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")\[7\]，隔天則公布了專輯封面和全體成員的專輯概念照\[8\]。
 
@@ -17,7 +17,7 @@ Day》的[音樂影片預告](https://zh.wikipedia.org/wiki/音樂影片 "wikili
 leave》和主打《Day by Day》兩首曲目，正式展開宣傳行程。
 
 2012年7月30日，Core Contents
-Media的代表[金光洙發表聲明稿](../Page/金光洙.md "wikilink")，柳和榮將無條件解約，退出T-ara\[9\]。這件事情及之前隊內成員不合的傳言\[10\]引發各界的輿論壓力，並導致《Day
+Media的代表[金光洙](../Page/金光洙.md "wikilink")發表聲明稿，柳和榮將無條件解約，退出T-ara\[9\]。這件事情及之前隊內成員不合的傳言\[10\]引發各界的輿論壓力，並導致《Day
 by
 Day》的宣傳行程必須提早結束\[11\]，也因此7月29日在《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》的表演成為最後的宣傳活動，而那時柳和榮就因為腳傷的關係無法上台\[12\]。
 

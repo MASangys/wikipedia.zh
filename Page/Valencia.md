@@ -29,15 +29,15 @@
 
   - [瓦倫西亞王國](https://zh.wikipedia.org/wiki/瓦倫西亞王國 "wikilink")（）1238年至1707年的一个王权。
 
-  - [巴伦西亚德亚尔坎塔拉](../Page/巴伦西亚德亚尔坎塔拉.md "wikilink")（），[埃斯特雷马杜拉的一个镇](../Page/埃斯特雷马杜拉.md "wikilink")。
+  - [巴伦西亚德亚尔坎塔拉](../Page/巴伦西亚德亚尔坎塔拉.md "wikilink")（），[埃斯特雷马杜拉](../Page/埃斯特雷马杜拉.md "wikilink")的一个镇。
 
-  - [巴伦西亚德东胡安](../Page/巴伦西亚德东胡安.md "wikilink")（），西班牙自治区[卡斯蒂利亚-莱昂的一个镇](../Page/卡斯蒂利亚-莱昂.md "wikilink")。
+  - [巴伦西亚德东胡安](../Page/巴伦西亚德东胡安.md "wikilink")（），西班牙自治区[卡斯蒂利亚-莱昂](../Page/卡斯蒂利亚-莱昂.md "wikilink")的一个镇。
 
   - （）
 
 ### 菲律宾
 
-  - [巴伦西亚城](https://zh.wikipedia.org/wiki/巴伦西亚城 "wikilink")（），[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[棉兰老岛](../Page/棉兰老岛.md "wikilink")[布基农省的一座城市](../Page/布基农省.md "wikilink")。
+  - [巴伦西亚城](https://zh.wikipedia.org/wiki/巴伦西亚城 "wikilink")（），[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[棉兰老岛](../Page/棉兰老岛.md "wikilink")[布基农省](../Page/布基农省.md "wikilink")的一座城市。
   - [巴伦西亚
     (东内格罗省)](../Page/巴伦西亚_\(东内格罗省\).md "wikilink")（），[东内格罗省的一座城市](https://zh.wikipedia.org/wiki/东内格罗省 "wikilink")。
 
@@ -92,7 +92,7 @@
 
 ## 其他用法
 
-  - ，[剑桥大学彭布罗克学院人的自称](../Page/剑桥大学彭布罗克学院.md "wikilink")。
+  - ，[剑桥大学彭布罗克学院](../Page/剑桥大学彭布罗克学院.md "wikilink")人的自称。
 
   - *Valencia*，美国电影《[科洛弗10號地窖](../Page/科洛弗10號地窖.md "wikilink")》中的代号
 

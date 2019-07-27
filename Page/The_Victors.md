@@ -1,10 +1,10 @@
 《得胜者》是密歇根大学的[战歌](https://zh.wikipedia.org/wiki/战歌 "wikilink")(fight
-song)。由于[密歇根大学的](../Page/密歇根大学.md "wikilink")[狼獾队在](https://zh.wikipedia.org/wiki/密歇根大学狼獾队 "wikilink")[NCAA非常有地位](https://zh.wikipedia.org/wiki/NCAA "wikilink")，这首主要是为球队加油的歌也就自然很著名。
+song)。由于[密歇根大学](../Page/密歇根大学.md "wikilink")的[狼獾队在](https://zh.wikipedia.org/wiki/密歇根大学狼獾队 "wikilink")[NCAA非常有地位](https://zh.wikipedia.org/wiki/NCAA "wikilink")，这首主要是为球队加油的歌也就自然很著名。
 
 ## 创作背景
 
-1898年的一场NCAA美式足球比赛里，密歇根大学的狼獾队在最后一分钟绝杀了[芝加哥大学的褐红色队](../Page/芝加哥大学.md "wikilink")，观看了比赛的密歇根学生路易·埃尔伯于赛后写了这首歌。\[1\]
-[约翰·菲利普·苏萨认为这首歌是有史以来最好的大学战歌](https://zh.wikipedia.org/wiki/约翰·菲利普·苏萨 "wikilink")。\[2\]多年以后，这首歌取代了《今晚，这座古老的城市会充满激情》(同样也被[德克萨斯农工大学和](https://zh.wikipedia.org/wiki/德克萨斯农工大学 "wikilink")[威斯康星大学用作过战歌](../Page/威斯康星大学.md "wikilink")）成为了密歇根大学的战歌。\[3\]密歇根大学还有其他的战歌，但都不如这首歌有名。
+1898年的一场NCAA美式足球比赛里，密歇根大学的狼獾队在最后一分钟绝杀了[芝加哥大学](../Page/芝加哥大学.md "wikilink")的褐红色队，观看了比赛的密歇根学生路易·埃尔伯于赛后写了这首歌。\[1\]
+[约翰·菲利普·苏萨认为这首歌是有史以来最好的大学战歌](https://zh.wikipedia.org/wiki/约翰·菲利普·苏萨 "wikilink")。\[2\]多年以后，这首歌取代了《今晚，这座古老的城市会充满激情》(同样也被[德克萨斯农工大学和](https://zh.wikipedia.org/wiki/德克萨斯农工大学 "wikilink")[威斯康星大学](../Page/威斯康星大学.md "wikilink")用作过战歌）成为了密歇根大学的战歌。\[3\]密歇根大学还有其他的战歌，但都不如这首歌有名。
 
 ## 歌词
 

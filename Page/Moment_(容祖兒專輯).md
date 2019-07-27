@@ -100,7 +100,7 @@
 <td><p>2</p></td>
 <td><p>霧裏看花</p></td>
 <td></td>
-<td><p><a href="../Page/陳建州.md" title="wikilink">陳建州出演</a></p></td>
+<td><p><a href="../Page/陳建州.md" title="wikilink">陳建州</a>出演</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -130,7 +130,7 @@
 <td><p>7</p></td>
 <td><p>不好意思我愛你</p></td>
 <td></td>
-<td><p><a href="../Page/彭秀慧.md" title="wikilink">彭秀慧</a>、<a href="../Page/馬志威.md" title="wikilink">馬志威出演</a></p></td>
+<td><p><a href="../Page/彭秀慧.md" title="wikilink">彭秀慧</a>、<a href="../Page/馬志威.md" title="wikilink">馬志威</a>出演</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>

@@ -1,4 +1,4 @@
-**世界IPv6日**（）是在2011年6月8日由[互联网协会组织和赞助的](../Page/互联网协会.md "wikilink")，一次公开测试[IPv6的活动](../Page/IPv6.md "wikilink")。\[1\]
+**世界IPv6日**（）是在2011年6月8日由[互联网协会](../Page/互联网协会.md "wikilink")组织和赞助的，一次公开测试[IPv6](../Page/IPv6.md "wikilink")的活动。\[1\]
 在2011年的活动大获成功之后，互联网协会将2012年6月6日定为了**世界IPv6启动日**，在这一天，全球IPv6网络已正式启动。\[2\]
 
 ## 介绍
@@ -7,22 +7,22 @@
 在2011年1月12日，[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[雅虎](../Page/雅虎.md "wikilink")、[Akamai和](https://zh.wikipedia.org/wiki/Akamai "wikilink")[Limelight
 Networks五家公司一同宣布了世界IPv](https://zh.wikipedia.org/wiki/Limelight_Networks "wikilink")6日的日期：活动开始于2011年6月8日00:00（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")），终止于当日23:59。\[3\]\[4\]
 活动的主要内容和目的是对IPv6的[AAAA记录模式进行测试](https://zh.wikipedia.org/wiki/IPv6#IPv6和域名系统 "wikilink")，评估之前模拟测试中出现的“连通性破坏”（IPv6
-brokenness）在实际应用中对网络的影响，以及让所有有关的组织——包括[网络供应商](https://zh.wikipedia.org/wiki/网络供应商 "wikilink")、[硬件生产商](../Page/硬件.md "wikilink")、[操作系统零售商和网络公司等](../Page/操作系统.md "wikilink")——准备好相关的的服务，从而能够在[IP地址用尽之日成功由IPv](../Page/IP地址.md "wikilink")4过渡至IPv6。\[5\]
+brokenness）在实际应用中对网络的影响，以及让所有有关的组织——包括[网络供应商](https://zh.wikipedia.org/wiki/网络供应商 "wikilink")、[硬件](../Page/硬件.md "wikilink")生产商、[操作系统](../Page/操作系统.md "wikilink")零售商和网络公司等——准备好相关的的服务，从而能够在[IP地址](../Page/IP地址.md "wikilink")用尽之日成功由IPv4过渡至IPv6。\[5\]
 
 ### 参与者
 
 世界IPv6日的活动有超过400名参与者，这其中包括了[康卡斯特](../Page/康卡斯特.md "wikilink")、[Google](../Page/Google.md "wikilink")、[雅虎](../Page/雅虎.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[微软](../Page/微软.md "wikilink")、[Vonage](../Page/Vonage.md "wikilink")、[美国在线](../Page/美国在线.md "wikilink")、[T-Online](../Page/T-Online.md "wikilink"),
 [思科](https://zh.wikipedia.org/wiki/思科 "wikilink")、[Juniper
-Networks](https://zh.wikipedia.org/wiki/Juniper_Networks "wikilink")、[中兴](https://zh.wikipedia.org/wiki/中兴 "wikilink")、[华为](../Page/华为.md "wikilink")、[美国商务部](../Page/美国商务部.md "wikilink")、[Mastercard](https://zh.wikipedia.org/wiki/Mastercard "wikilink")、[英国广播公司和](../Page/英国广播公司.md "wikilink")[墨西哥电信](../Page/墨西哥电信.md "wikilink")。\[6\]
-许多大公司（不管是否有参与活动）同一天都在他们的网站开放了IPv6，如[百度和](../Page/百度.md "wikilink")[腾讯](../Page/腾讯.md "wikilink")\[7\]\[8\]。
+Networks](https://zh.wikipedia.org/wiki/Juniper_Networks "wikilink")、[中兴](https://zh.wikipedia.org/wiki/中兴 "wikilink")、[华为](../Page/华为.md "wikilink")、[美国商务部](../Page/美国商务部.md "wikilink")、[Mastercard](https://zh.wikipedia.org/wiki/Mastercard "wikilink")、[英国广播公司](../Page/英国广播公司.md "wikilink")和[墨西哥电信](../Page/墨西哥电信.md "wikilink")。\[6\]
+许多大公司（不管是否有参与活动）同一天都在他们的网站开放了IPv6，如[百度](../Page/百度.md "wikilink")和[腾讯](../Page/腾讯.md "wikilink")\[7\]\[8\]。
 
 ### 结果
 
 IPv6的流量比例在当日由0.024%上升至了0.041%。\[9\]
-Google的网站流量因为[Android设备的大量访问而出现了最显著的增长](../Page/Android.md "wikilink")。\[10\]
+Google的网站流量因为[Android](../Page/Android.md "wikilink")设备的大量访问而出现了最显著的增长。\[10\]
 
 各个公司测试结果不一，但普遍来说都比较成功地按照了计划进行。\[11\] 例如，思科和Google并未发现太大的问题；\[12\]\[13\]
-[Facebook认为结果是](../Page/Facebook.md "wikilink")“鼓舞人心的”，并决定活动结束保持测试网站的开启；\[14\]
+[Facebook](../Page/Facebook.md "wikilink")认为结果是“鼓舞人心的”，并决定活动结束保持测试网站的开启；\[14\]
 华为则是[中国唯一通过所有测试的设备厂商](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")。\[15\]\[16\]
 不过最终各大厂商一同得出的结论是在IPv6长期广泛使用之前还必须加强建设有关服务。\[17\]\[18\]
 因此，他们决定将继续详细分析测试日的数据，并一直保持IPv4和IPv6共同运行。\[19\]
@@ -31,8 +31,8 @@ Google的网站流量因为[Android设备的大量访问而出现了最显著的
 
 [World_IPv6_launch_badge.svg](https://zh.wikipedia.org/wiki/File:World_IPv6_launch_badge.svg "fig:World_IPv6_launch_badge.svg")
 随着世界IPv6日的成功，互联网协会决定将2012年6月6日定为世界IPv6启动日，在这一日，所有参与该活动的组织正式永久启用了IPv6。\[20\]
-参与此次活动的除了有IPv6日的参加者之外，还包括了[维基媒体](https://zh.wikipedia.org/wiki/维基媒体 "wikilink")（包括维基百科在内的全部子项目已全面启用IPv6）等许多其他组织；中国大陆也根据[中国下一代互联网示范工程的计划开通了IPv](../Page/中国下一代互联网示范工程.md "wikilink")6。世界上最大的网络交换中心[阿姆斯特丹互联网交换中心的IPv](https://zh.wikipedia.org/wiki/阿姆斯特丹互联网交换中心 "wikilink")6流量在当天由2Gbps增加了50%至3Gbps。\[21\]
-根据思科系统公司的统计，在IPv6启动日过后至少有约30%的IPv4[万维网网页已经支持了IPv](../Page/万维网.md "wikilink")6。\[22\]
+参与此次活动的除了有IPv6日的参加者之外，还包括了[维基媒体](https://zh.wikipedia.org/wiki/维基媒体 "wikilink")（包括维基百科在内的全部子项目已全面启用IPv6）等许多其他组织；中国大陆也根据[中国下一代互联网示范工程](../Page/中国下一代互联网示范工程.md "wikilink")的计划开通了IPv6。世界上最大的网络交换中心[阿姆斯特丹互联网交换中心的IPv](https://zh.wikipedia.org/wiki/阿姆斯特丹互联网交换中心 "wikilink")6流量在当天由2Gbps增加了50%至3Gbps。\[21\]
+根据思科系统公司的统计，在IPv6启动日过后至少有约30%的IPv4[万维网](../Page/万维网.md "wikilink")网页已经支持了IPv6。\[22\]
 
 ## 参考资料
 

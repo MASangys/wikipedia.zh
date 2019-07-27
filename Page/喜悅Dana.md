@@ -1,4 +1,4 @@
-**洪性美**（，，），藝名**喜悅Dana**（，），是韓國娛樂公司[SM娛樂旗下於](../Page/SM娛樂.md "wikilink")2001年以正規專輯《DANA》出道的Solo歌手，亦是四人[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[天上智喜及子團](../Page/天上智喜.md "wikilink")[天上智喜的成員](../Page/天上智喜.md "wikilink")。Solo官方應援色為**藍色**，Solo官方粉絲名為Dana4U。
+**洪性美**（，，），藝名**喜悅Dana**（，），是韓國娛樂公司[SM娛樂](../Page/SM娛樂.md "wikilink")旗下於2001年以正規專輯《DANA》出道的Solo歌手，亦是四人[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[天上智喜](../Page/天上智喜.md "wikilink")及子團[天上智喜](../Page/天上智喜.md "wikilink")的成員。Solo官方應援色為**藍色**，Solo官方粉絲名為Dana4U。
 
 ## 簡介
 
@@ -6,8 +6,8 @@
 
 <!-- end list -->
 
-  - 1997年，Dana通過參加[SM娛樂Starlight](../Page/SM娛樂.md "wikilink") Casting
-    System而加入公司。作為一位Solo歌手出發，Dana被期望將成為“下一個[寶兒](../Page/寶兒.md "wikilink")”。在出道之前，她已經出現同公司的男子組合[H.O.T.的電影](../Page/H.O.T..md "wikilink")《和平的時代》和[安七炫的](../Page/安七炫.md "wikilink")〈北極星〉的音樂錄影帶。
+  - 1997年，Dana通過參加[SM娛樂](../Page/SM娛樂.md "wikilink")Starlight Casting
+    System而加入公司。作為一位Solo歌手出發，Dana被期望將成為“下一個[寶兒](../Page/寶兒.md "wikilink")”。在出道之前，她已經出現同公司的男子組合[H.O.T.](../Page/H.O.T..md "wikilink")的電影《和平的時代》和[安七炫](../Page/安七炫.md "wikilink")的〈北極星〉的音樂錄影帶。
 
 <!-- end list -->
 
@@ -16,13 +16,13 @@
 <!-- end list -->
 
   - 2001年，Dana推出了相當成功的出道單曲〈直到世界盡頭〉，這是改編自歐洲作曲家Stefan
-    Aberg的歌曲〈告訴我沒有更多的謊言〉。她隨後的後續曲〈Diamond〉，有當時還未出道的[東方神起成員](../Page/東方神起.md "wikilink")[瑜鹵允浩伴舞](../Page/鄭允浩.md "wikilink")（2003年以東方神起出道）。她的事業發展順暢，並出現不少綜藝節目，如《X
+    Aberg的歌曲〈告訴我沒有更多的謊言〉。她隨後的後續曲〈Diamond〉，有當時還未出道的[東方神起](../Page/東方神起.md "wikilink")成員[瑜鹵允浩伴舞](../Page/鄭允浩.md "wikilink")（2003年以東方神起出道）。她的事業發展順暢，並出現不少綜藝節目，如《X
     Man》等，還有出現情景喜劇《Nonstop 第3季》。Dana在2003年推出第二張正規專輯《남겨둔 이야기
-    (Maybe)》，但這次專輯賣得不好。從這時起，她從音樂產業消失（除了SMTOWN合作），直至以組合[天上智喜出道](../Page/天上智喜.md "wikilink")。
+    (Maybe)》，但這次專輯賣得不好。從這時起，她從音樂產業消失（除了SMTOWN合作），直至以組合[天上智喜](../Page/天上智喜.md "wikilink")出道。
 
 <!-- end list -->
 
-  - 直到2005年以四人組合[天上智喜的成員出道](../Page/天上智喜.md "wikilink")。隊長為（Isak N
+  - 直到2005年以四人組合[天上智喜](../Page/天上智喜.md "wikilink")的成員出道。隊長為（Isak N
     Jiyeon前成員——**李智淵（智淵Jiyeon）**），在組合的第四張日文單曲，她的獨唱歌曲〈さよならの向こうに〉是她自己作曲。
 
 <!-- end list -->
@@ -33,13 +33,13 @@
 
 <!-- end list -->
 
-  - 2011年6月，網絡上有圖像洩露了[SM娛樂](../Page/SM娛樂.md "wikilink")2011年的行程，該圖像顯示出[天上智喜會發行新單曲](../Page/天上智喜.md "wikilink")，SM娛樂之後確認[天上智喜將作出一個新的形象重新回歸樂壇](../Page/天上智喜.md "wikilink")。2011年7月8日，[天上智喜以子團的形式推出數碼單曲](../Page/天上智喜.md "wikilink")〈나
+  - 2011年6月，網絡上有圖像洩露了[SM娛樂](../Page/SM娛樂.md "wikilink")2011年的行程，該圖像顯示出[天上智喜](../Page/天上智喜.md "wikilink")會發行新單曲，SM娛樂之後確認[天上智喜](../Page/天上智喜.md "wikilink")將作出一個新的形象重新回歸樂壇。2011年7月8日，[天上智喜](../Page/天上智喜.md "wikilink")以子團的形式推出數碼單曲〈나
     좀 봐줘 (One More Chance)〉，相隔兩年再回歸樂壇。
 
 <!-- end list -->
 
   - 2016年5月演出MBC綜藝節目《[黃金漁場Radio
-    Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")》時親自公開與導演李浩宰的戀情，2018年11月6日被報導已分手，後經所屬公司[SM娛樂證實](../Page/SM娛樂.md "wikilink")。
+    Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")》時親自公開與導演李浩宰的戀情，2018年11月6日被報導已分手，後經所屬公司[SM娛樂](../Page/SM娛樂.md "wikilink")證實。
 
 <!-- end list -->
 

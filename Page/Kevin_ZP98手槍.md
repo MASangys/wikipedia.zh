@@ -4,7 +4,7 @@ ZP98**（通常被稱為Kevin）是一種在[捷克共和國生產的袖珍型](
 ## 概述
 
 Kevin手槍是由Antonín
-Zendl在1990年代未期研製，其設計目的是要成為執法人員和平民的隱蔽武器。此槍的槍身是由高強度的[鋁合金製成](../Page/鋁合金.md "wikilink")，[槍管和](../Page/槍管.md "wikilink")[套筒皆是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[鋼製品](https://zh.wikipedia.org/wiki/鋼 "wikilink")，而握把則由增強的橡膠化合物製成。在操作方面Kevin手槍採用了雙動板機的設計，並以ZVI公司設計的反衝系統運作。而瞄具是固定的前後式準星。附帶一提，此槍沒有保險裝置。
+Zendl在1990年代未期研製，其設計目的是要成為執法人員和平民的隱蔽武器。此槍的槍身是由高強度的[鋁合金](../Page/鋁合金.md "wikilink")製成，[槍管](../Page/槍管.md "wikilink")和[套筒皆是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[鋼製品](https://zh.wikipedia.org/wiki/鋼 "wikilink")，而握把則由增強的橡膠化合物製成。在操作方面Kevin手槍採用了雙動板機的設計，並以ZVI公司設計的反衝系統運作。而瞄具是固定的前後式準星。附帶一提，此槍沒有保險裝置。
 
 ## 用途
 

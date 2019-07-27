@@ -4,9 +4,9 @@
 
 ## 概要
 
-[日本國民偶像團體](../Page/日本.md "wikilink")[SMAP首次登上](../Page/SMAP.md "wikilink")[紅白歌合戰](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
+[日本](../Page/日本.md "wikilink")國民偶像團體[SMAP](../Page/SMAP.md "wikilink")首次登上[紅白歌合戰](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
 
-[歐陽菲菲與](../Page/歐陽菲菲.md "wikilink")[鄧麗君首次同台演出](../Page/鄧麗君.md "wikilink")，並且都是第3次入選紅白。
+[歐陽菲菲](../Page/歐陽菲菲.md "wikilink")與[鄧麗君](../Page/鄧麗君.md "wikilink")首次同台演出，並且都是第3次入選紅白。
 
 第一部的平均收視率為**34.9%**，第二部則為**51.5%**。
 
@@ -158,14 +158,14 @@
 
 ### 審査員
 
-  - [増井光子](https://zh.wikipedia.org/wiki/増井光子 "wikilink")（[多摩動物公園園長](../Page/多摩動物公園.md "wikilink")）
+  - [増井光子](https://zh.wikipedia.org/wiki/増井光子 "wikilink")（[多摩動物公園](../Page/多摩動物公園.md "wikilink")園長）
   - [山崎豊子](https://zh.wikipedia.org/wiki/山崎豊子 "wikilink")（作家）
   - [秋山幸二](https://zh.wikipedia.org/wiki/秋山幸二 "wikilink")（[西武獅外野手](https://zh.wikipedia.org/wiki/西武獅 "wikilink")）
   - 芦原すなお（作家）
   - 荻野アンナ（作家）
-  - [花田虎上](../Page/花田虎上.md "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
+  - [花田虎上](../Page/花田虎上.md "wikilink")（[相撲](../Page/相撲.md "wikilink")選手
     - 前頭）
-  - [貴乃花](https://zh.wikipedia.org/wiki/貴乃花 "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
+  - [貴乃花](https://zh.wikipedia.org/wiki/貴乃花 "wikilink")（[相撲](../Page/相撲.md "wikilink")選手
     - 前頭）
   - [緒形直人](../Page/緒形直人.md "wikilink")（演員）
   - 鷲尾いさ子（演員）

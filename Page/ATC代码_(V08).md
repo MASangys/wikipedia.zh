@@ -1,4 +1,4 @@
-## V08A [X射线造影剂](../Page/X射线.md "wikilink")，碘化剂（X-ray contrast media, iodinated）
+## V08A [X射线](../Page/X射线.md "wikilink")造影剂，碘化剂（X-ray contrast media, iodinated）
 
 ### V08AA 水溶性、向肾性、高渗透压的X射线造影剂（Water-soluble, nephrotropic, high osmolar X-ray contrast media）
 
@@ -101,7 +101,7 @@
 
 ## V08B 非碘化物的X射线造影剂（X-ray contrast media, non-iodinated）
 
-### V08BA 含[硫酸钡的X射线造影剂](../Page/硫酸钡.md "wikilink")（Barium sulfate containing X-ray contrast media）
+### V08BA 含[硫酸钡](../Page/硫酸钡.md "wikilink")的X射线造影剂（Barium sulfate containing X-ray contrast media）
 
   -
     V08BA01 含悬浮剂的硫酸钡（Barium sulfate with suspending agents）

@@ -1,4 +1,4 @@
-《**INNOCENCE**》（）是日本女歌手[藍井艾露的第](../Page/藍井艾露.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年11月21日由[SME
+《**INNOCENCE**》（）是日本女歌手[藍井艾露](../Page/藍井艾露.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年11月21日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
@@ -16,7 +16,7 @@ de Ei Ei Ru\!」活動時藍井艾露演唱此曲的時候已經非常受歡迎\
 
 ## 反應
 
-在2012年11月7日，INNOCENCE在[mora](https://zh.wikipedia.org/wiki/mora "wikilink")、[多玩國的](../Page/多玩國.md "wikilink")「超！放送局」和「放送局」與[RecoChoku的日榜中都取得了第](../Page/RecoChoku.md "wikilink")1名\[4\]。而在同年12月3日[Oricon公信榜的週榜中](../Page/Oricon公信榜.md "wikilink")，INNOCENCE則取得了第6位。另外，INNOCENCE的銷售數量達到2.5萬份，比第一張專輯《[MEMORIA](../Page/MEMORIA.md "wikilink")》的1.4萬份更高，也同時刷新了Eir的個人最佳成績\[5\]。
+在2012年11月7日，INNOCENCE在[mora](https://zh.wikipedia.org/wiki/mora "wikilink")、[多玩國](../Page/多玩國.md "wikilink")的「超！放送局」和「放送局」與[RecoChoku](../Page/RecoChoku.md "wikilink")的日榜中都取得了第1名\[4\]。而在同年12月3日[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的週榜中，INNOCENCE則取得了第6位。另外，INNOCENCE的銷售數量達到2.5萬份，比第一張專輯《[MEMORIA](../Page/MEMORIA.md "wikilink")》的1.4萬份更高，也同時刷新了Eir的個人最佳成績\[5\]。
 
 ## 評價
 

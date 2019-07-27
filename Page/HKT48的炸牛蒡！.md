@@ -1,12 +1,12 @@
-《**HKT48的炸牛蒡！**》（）是一個[西日本電視台於](https://zh.wikipedia.org/wiki/西日本電視台 "wikilink")2014年5月24日至2016年3月27日播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，是以[福岡為活動據點的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48的冠名節目之一](../Page/HKT48.md "wikilink")。於每週六中午12時播出半個小時的此節目是HKT48第一個常態性的日間冠名節目，由福岡當地的[搞笑藝人雙人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")（）主持。
+《**HKT48的炸牛蒡！**》（）是一個[西日本電視台於](https://zh.wikipedia.org/wiki/西日本電視台 "wikilink")2014年5月24日至2016年3月27日播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，是以[福岡為活動據點的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")的冠名節目之一。於每週六中午12時播出半個小時的此節目是HKT48第一個常態性的日間冠名節目，由福岡當地的[搞笑藝人雙人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")（）主持。
 
 ## 簡介
 
-以「讓HKT48的成員們成為跟炸[牛蒡](../Page/牛蒡.md "wikilink")[烏龍麵一樣人見人愛的偶像](../Page/烏龍麵.md "wikilink")」作為節目主旨，因此以「炸牛蒡」作為節目名稱。
+以「讓HKT48的成員們成為跟炸[牛蒡](../Page/牛蒡.md "wikilink")[烏龍麵](../Page/烏龍麵.md "wikilink")一樣人見人愛的偶像」作為節目主旨，因此以「炸牛蒡」作為節目名稱。
 
 節目的內容主要分為[攝影棚內的段落](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")，與一個稱為「來決定受愛戴的center吧！」（）的[外景採訪單元](https://zh.wikipedia.org/wiki/外景 "wikilink")。攝影棚內的段落是由傘兵部隊的兩人主持，在每集節目中由七名HKT48的成員出席參與，除此之外有時也會邀請其他的藝人前來擔任特別來賓，由成員們與特別來賓共同挑戰像是看影片猜謎或是實證網路話題新聞之類的活動。
 
-除了上述的主要段落外，在每一集的片尾都有一個由[指原莉乃主持的小單元](../Page/指原莉乃.md "wikilink")「指原的烏龍麵」（），由指原扮演炸牛蒡烏龍麵攤的老闆，每集由一位不同的成員出席提出心中想要諮詢的疑問，並由指原邊煮麵邊回答問題。
+除了上述的主要段落外，在每一集的片尾都有一個由[指原莉乃](../Page/指原莉乃.md "wikilink")主持的小單元「指原的烏龍麵」（），由指原扮演炸牛蒡烏龍麵攤的老闆，每集由一位不同的成員出席提出心中想要諮詢的疑問，並由指原邊煮麵邊回答問題。
 
 ## 主要單元
 

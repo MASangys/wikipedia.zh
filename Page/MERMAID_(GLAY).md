@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")19張單曲。
+[GLAY](../Page/GLAY.md "wikilink")的第19張單曲。
 
 ## 簡介
 

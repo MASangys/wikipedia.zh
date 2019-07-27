@@ -17,7 +17,7 @@ J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
   - 9月18日，專輯收錄曲「1mm」作為宣傳單曲在線上發售。歌曲的短版MV同時於9月3日在Youtube官方頻道上公開。
   - 專輯首日取得8.7萬張的銷量，以首周165,748張的銷量登上ORICON專輯周榜冠軍位置。達成了專輯「[GAME](../Page/GAME_\(Perfume專輯\).md "wikilink")」以來連續五張專輯登上ORICON榜單周冠軍的記錄，此前女子團體連續五張專輯獲得的周冠的記錄保持者為女子樂隊[PRINCESS
     PRINCESS](../Page/PRINCESS_PRINCESS.md "wikilink")，刷新了暌違20年的專輯銷量五連冠記錄。
-  - 2014年5月14日發行了此專輯之[黑膠唱片版本](../Page/黑膠唱片.md "wikilink")。
+  - 2014年5月14日發行了此專輯之[黑膠唱片](../Page/黑膠唱片.md "wikilink")版本。
   - 2014年10月22日發行了此專輯之海外豪華版本『LEVEL3 (Bonus Edition)』，追加收錄了單曲「Spending
     all my time」的兩首混音版本DV & LM remix及Radio Mix。「DV & LM
     remix」是首次有中田康貴以外的人提供歌曲混音，製作人為全球Top 100

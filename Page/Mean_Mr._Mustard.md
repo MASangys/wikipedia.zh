@@ -3,10 +3,10 @@ Mustard**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/w
 
 ## 歌曲概要
 
-此歌曲為藍儂與其他披頭四成員在[印度接受超覺靜坐導師](../Page/印度.md "wikilink")[瑪赫西教誨的閒暇期間所創作出](https://zh.wikipedia.org/wiki/瑪赫西 "wikilink")。在專輯《艾比路》中與下一首曲子《[Polythene
+此歌曲為藍儂與其他披頭四成員在[印度](../Page/印度.md "wikilink")接受超覺靜坐導師[瑪赫西教誨的閒暇期間所創作出](https://zh.wikipedia.org/wiki/瑪赫西 "wikilink")。在專輯《艾比路》中與下一首曲子《[Polythene
 Pam](../Page/Polythene_Pam.md "wikilink")》是以不中斷接續手法連接著。\[1\]
 
-作品內容描述著一名小氣吝嗇的[露宿者芥茉先生](../Page/露宿者.md "wikilink")（Mr.
+作品內容描述著一名小氣吝嗇的[露宿者](../Page/露宿者.md "wikilink")芥茉先生（Mr.
 Mustard），歌詞提到的「他的妹妹潘在商店工作」（His sister Pam works in
 a shop）中的「潘」（Pam）、則是下一首歌曲《Polythene Pam》裡的人物。而最初藍儂原先想到的是歌詞是「他的妹妹雪莉」（His
 sister Shirley），之後才改名成「潘」。\[2\]

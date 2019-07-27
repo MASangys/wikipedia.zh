@@ -1,13 +1,13 @@
 **Super Junior-D\&E**是韓國演唱團體[Super
 Junior的第五個官方子團體](../Page/Super_Junior.md "wikilink")，由Super
-Junior的兩名成員[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫於](../Page/銀赫.md "wikilink")2011年組成。2016年憑藉迷你專輯《[Present](https://zh.wikipedia.org/wiki/Present_\(Super_Junior-D&E迷你專輯\) "wikilink")》獲頒[日本金唱片大獎年度最佳專輯獎](../Page/日本金唱片大獎.md "wikilink")\[1\]。
+Junior的兩名成員[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")於2011年組成。2016年憑藉迷你專輯《[Present](https://zh.wikipedia.org/wiki/Present_\(Super_Junior-D&E迷你專輯\) "wikilink")》獲頒[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[1\]。
 
 ## 簡歷
 
 ### 2011-2012年：出道、Oppa, Oppa
 
 2011年11月19日、20日，[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫在Super](../Page/銀赫.md "wikilink")
+Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")在Super
 Junior演唱會[Super Show 4首爾場上演出](../Page/Super_Show_4.md "wikilink")《[Oppa,
 Oppa](../Page/Oppa,_Oppa.md "wikilink")》。同年12月16日，通過Melon、Bugs、Mnet等韓國音樂網站發布韓語單曲《[Oppa,
 Oppa](../Page/Oppa,_Oppa.md "wikilink")》\[2\]，同日在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")[音樂銀行演出及發布歌曲MV](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")，MV由Super
@@ -22,7 +22,7 @@ Oppa》獲日本Oricon公信榜第2位和Tower Records單曲榜第1位。
 ### 2013-2014年：Still You、Ride Me、I Wanna Dance、Skeleton、首次日本巡演
 
 Team One Sound的彼得通過Twitter寫道，[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫在](../Page/銀赫.md "wikilink")2013年發行音樂作品。6月19日，發行第二張日語單曲《[I
+Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")在2013年發行音樂作品。6月19日，發行第二張日語單曲《[I
 Wanna Dance](../Page/I_Wanna_Dance.md "wikilink")》\[4\]，收錄[Super
 Junior-M成員](../Page/Super_Junior-M.md "wikilink")[Henry創作的](../Page/劉憲華.md "wikilink")《Love
 That I Need》。同年12月18日公佈第二首韓語單曲《[Still
@@ -30,7 +30,7 @@ You](../Page/Still_You.md "wikilink")》，這首歌的MV在倫敦拍攝。
 
 2014年2月26日，發行首張日語正規專輯《[Ride
 Me](../Page/Ride_Me.md "wikilink")》\[5\]，以《Motorcycle》作主打曲，[Super
-Junior成员](../Page/Super_Junior.md "wikilink")[崔始源客串歌曲MV](../Page/崔始源.md "wikilink")。3月至5月，于日本9个城市举行《Super
+Junior成员](../Page/Super_Junior.md "wikilink")[崔始源](../Page/崔始源.md "wikilink")客串歌曲MV。3月至5月，于日本9个城市举行《Super
 Junior-D\&E The 1st Japan Tour
 2014》，22场演唱会累计观众达10万名\[6\]。8月6日發行第三張日語單曲《[Skeleton](../Page/Skeleton_\(Donghae_&_Eunhyuk單曲\).md "wikilink")》。11月13日，出席在第9届倫敦韓國電影節\[7\]。
 
@@ -40,7 +40,7 @@ Junior-D\&E The 1st Japan Tour
 On](../Page/The_Beat_Goes_On.md "wikilink")》，3月24日發行改版專輯\[8\]。4月1日，發行首張日語迷你專輯《[Present](../Page/Present_\(Super_Junior_Donghae_&_Eunhyuk迷你專輯\).md "wikilink")》\[9\]。4月3日至23日，于日本4个城市举行《Super
 Junior-D\&E The 2nd Japan Tour 2015》\[10\]。6月及8月，于亞洲4个城市舉行《Super
 Junior-D\&E Asia Tour 2015》\[11\]。9月30日，發行第四張日語單曲《[Let's Get It
-On](https://zh.wikipedia.org/wiki/Let's_Get_It_On "wikilink")》。2016年2月27日，憑藉迷你專輯《Present》獲頒[日本金唱片大獎年度最佳專輯獎](../Page/日本金唱片大獎.md "wikilink")\[12\]。
+On](https://zh.wikipedia.org/wiki/Let's_Get_It_On "wikilink")》。2016年2月27日，憑藉迷你專輯《Present》獲頒[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[12\]。
 
 2015年10月13日及15日銀赫與東海相繼入伍，團體活動暫停。
 

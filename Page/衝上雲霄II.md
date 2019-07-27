@@ -1,17 +1,17 @@
-《**衝上雲霄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉及](../Page/陳法拉.md "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")\[1\]領銜主演，並由[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")\[2\]、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[江美儀及](../Page/江美儀.md "wikilink")[羅仲謙聯合主演](../Page/羅仲謙.md "wikilink")，監製[歐冠英及](https://zh.wikipedia.org/wiki/歐冠英 "wikilink")[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。
+《**衝上雲霄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")及[吳卓羲](../Page/吳卓羲.md "wikilink")\[1\]領銜主演，並由[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")\[2\]、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[江美儀](../Page/江美儀.md "wikilink")及[羅仲謙](../Page/羅仲謙.md "wikilink")聯合主演，監製[歐冠英及](https://zh.wikipedia.org/wiki/歐冠英 "wikilink")[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。
 
-此劇是《[衝上雲霄系列](../Page/衝上雲霄系列.md "wikilink")》第二輯，[2012無綫節目巡禮劇集](../Page/2012無綫節目巡禮.md "wikilink")，亦為第17屆[香港國際影視展中無綫電視推介的](https://zh.wikipedia.org/wiki/香港國際影視展 "wikilink")17部劇集之一，以及「[TVB
+此劇是《[衝上雲霄系列](../Page/衝上雲霄系列.md "wikilink")》第二輯，[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")劇集，亦為第17屆[香港國際影視展中無綫電視推介的](https://zh.wikipedia.org/wiki/香港國際影視展 "wikilink")17部劇集之一，以及「[TVB
 Amazing Summer](../Page/TVB_Amazing_Summer.md "wikilink")
-2013」暑期宣傳活動的推介劇集，由[香港航空贊助](../Page/香港航空.md "wikilink")、[香港機場管理局協助拍攝](../Page/香港機場管理局.md "wikilink")。
+2013」暑期宣傳活動的推介劇集，由[香港航空](../Page/香港航空.md "wikilink")贊助、[香港機場管理局](../Page/香港機場管理局.md "wikilink")協助拍攝。
 
-此劇播出後收視一直高企，以36點平均綜合收視點榮登[2010年代無綫電視劇集平均綜合收視點最高劇集](../Page/無綫電視劇集收視列表_\(2010年代\).md "wikilink")，電視收視所錄得的41點最高收視為大結局中[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖與](../Page/張智霖.md "wikilink")[陳法拉的](../Page/陳法拉.md "wikilink")「航機意外」，為無綫於2013年唯一一部突破40點收視劇集，亦是該年全年錄得最高收視的電視節目。
+此劇播出後收視一直高企，以36點平均綜合收視點榮登[2010年代無綫電視劇集平均綜合收視點最高劇集](../Page/無綫電視劇集收視列表_\(2010年代\).md "wikilink")，電視收視所錄得的41點最高收視為大結局中[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")與[陳法拉](../Page/陳法拉.md "wikilink")的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集，亦是該年全年錄得最高收視的電視節目。
 
 此劇在[TVB
-馬來西亞星光薈萃頒獎典禮2013及](../Page/TVB_馬來西亞星光薈萃頒獎典禮2013.md "wikilink")[萬千星輝頒獎典禮2013成為大贏家](../Page/萬千星輝頒獎典禮2013.md "wikilink")，分別獲得11及4個獎項，包括囊括兩個頒獎典禮的「（最佳／最喜愛TVB電視）劇集」獎，而劇中的三位主角[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖及](../Page/張智霖.md "wikilink")[陳法拉亦全部打入兩個頒獎的](../Page/陳法拉.md "wikilink")「（最佳／最喜愛TVB）男／女主角」最後五強。
+馬來西亞星光薈萃頒獎典禮2013及](../Page/TVB_馬來西亞星光薈萃頒獎典禮2013.md "wikilink")[萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")成為大贏家，分別獲得11及4個獎項，包括囊括兩個頒獎典禮的「（最佳／最喜愛TVB電視）劇集」獎，而劇中的三位主角[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")及[陳法拉](../Page/陳法拉.md "wikilink")亦全部打入兩個頒獎的「（最佳／最喜愛TVB）男／女主角」最後五強。
 
 ## 劇情簡介
 
-晉升高級副機長的唐亦風（[吳卓羲飾](../Page/吳卓羲.md "wikilink")）離開飛揚航空後，加入天頌航空（Skylette），他非常崇拜公司的明星機長顧夏陽（[張智霖飾](../Page/張智霖.md "wikilink")），並漸漸與酷似其大嫂蘇怡、夏陽的妹妹顧夏晨（[胡杏兒飾](../Page/胡杏兒.md "wikilink")）發生情愫。機長唐亦琛（[吳鎮宇飾](../Page/吳鎮宇.md "wikilink")）因蘇怡（[胡杏兒分飾](../Page/胡杏兒.md "wikilink")）之死在英國倫敦渡過悠長假期，直至他遇到破壞他蛋糕的瘋癲何年希（[陳法拉飾](../Page/陳法拉.md "wikilink")），令他提早結束假期回港並加入天頌航空再次飛翔，與夏陽亦敵亦友。兩人性格南轅北轍，亦琛內斂，夏陽張揚，加上亦琛擔任訓練機長考核夏陽，他們在事業和愛情上都有一番較量。高級副機長高志宏（[馬國明飾](https://zh.wikipedia.org/wiki/馬國明 "wikilink")）有兩個女朋友，難以取捨又不忍傷害。他與高級機艙事務長方芮嘉（[江美儀飾](../Page/江美儀.md "wikilink")）分享祕密成為知己，最後竟發生一夜情。本是港隊游泳選手的詹子麟（[羅仲謙飾](../Page/羅仲謙.md "wikilink")），為退役籌謀投考機師，卻愛上代友懷孕的機艙事務長凌卓芝（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）……隨著飛機起落升降，繪成一段段傷感、離別、喜悅與重逢的故事。
+晉升高級副機長的唐亦風（[吳卓羲](../Page/吳卓羲.md "wikilink")飾）離開飛揚航空後，加入天頌航空（Skylette），他非常崇拜公司的明星機長顧夏陽（[張智霖](../Page/張智霖.md "wikilink")飾），並漸漸與酷似其大嫂蘇怡、夏陽的妹妹顧夏晨（[胡杏兒](../Page/胡杏兒.md "wikilink")飾）發生情愫。機長唐亦琛（[吳鎮宇](../Page/吳鎮宇.md "wikilink")飾）因蘇怡（[胡杏兒](../Page/胡杏兒.md "wikilink")分飾）之死在英國倫敦渡過悠長假期，直至他遇到破壞他蛋糕的瘋癲何年希（[陳法拉](../Page/陳法拉.md "wikilink")飾），令他提早結束假期回港並加入天頌航空再次飛翔，與夏陽亦敵亦友。兩人性格南轅北轍，亦琛內斂，夏陽張揚，加上亦琛擔任訓練機長考核夏陽，他們在事業和愛情上都有一番較量。高級副機長高志宏（[馬國明飾](https://zh.wikipedia.org/wiki/馬國明 "wikilink")）有兩個女朋友，難以取捨又不忍傷害。他與高級機艙事務長方芮嘉（[江美儀](../Page/江美儀.md "wikilink")飾）分享祕密成為知己，最後竟發生一夜情。本是港隊游泳選手的詹子麟（[羅仲謙](../Page/羅仲謙.md "wikilink")飾），為退役籌謀投考機師，卻愛上代友懷孕的機艙事務長凌卓芝（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）……隨著飛機起落升降，繪成一段段傷感、離別、喜悅與重逢的故事。
 
 ## 演員表
 
@@ -1113,7 +1113,7 @@ BJ Chong之朋友，後為其女友</p></td>
 
 ## 收视
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |           |                  |          |          |
 | ------ | --------- | ---------------- | -------- | -------- |
@@ -1128,21 +1128,21 @@ BJ Chong之朋友，後為其女友</p></td>
 | 8      | 36－41     | 2013年9月2日－9月6日   | 34點      | 39點      |
 | 42－43  | 2013年9月8日 | 38點              | 41點      |          |
 
-  - 《衝上雲霄II》兩小時大結局平均收視38點，最高收視41點\*為唐亦琛（[吳鎮宇飾](../Page/吳鎮宇.md "wikilink")）、顧夏陽（[張智霖飾](../Page/張智霖.md "wikilink")）與何年希（[陳法拉飾](../Page/陳法拉.md "wikilink")）的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集。
+  - 《衝上雲霄II》兩小時大結局平均收視38點，最高收視41點\*為唐亦琛（[吳鎮宇](../Page/吳鎮宇.md "wikilink")飾）、顧夏陽（[張智霖](../Page/張智霖.md "wikilink")飾）與何年希（[陳法拉](../Page/陳法拉.md "wikilink")飾）的「航機意外」，為無綫於2013年唯一一部突破40點收視劇集。
 
 ## 記事
 
-  - 2011年6月7日：過百位TVB藝人及行政人員，與廣告客戶一同出席在[天際100舉行的](../Page/天際100.md "wikilink")「TVB
+  - 2011年6月7日：過百位TVB藝人及行政人員，與廣告客戶一同出席在[天際100](../Page/天際100.md "wikilink")舉行的「TVB
     POWER天際任飛翔」活動，介紹即將拍攝的新劇，其中《衝上雲霄II》的演員[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[黃宗澤及](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")[胡定欣等穿上機師及空中服務員制服亮相](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")\[3\]。
-  - 2011年10月12日：一眾演員包括[張智霖](../Page/張智霖.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、胡杏兒、陳法拉、吳卓羲、黃宗澤、徐子珊及胡定欣等到[香港國際機場為本劇拍攝](../Page/香港國際機場.md "wikilink")[2012無綫節目巡禮片段](../Page/2012無綫節目巡禮.md "wikilink")\[4\]，[吳鎮宇於片尾以客串形式露面](../Page/吳鎮宇.md "wikilink")。
+  - 2011年10月12日：一眾演員包括[張智霖](../Page/張智霖.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、胡杏兒、陳法拉、吳卓羲、黃宗澤、徐子珊及胡定欣等到[香港國際機場](../Page/香港國際機場.md "wikilink")為本劇拍攝[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")片段\[4\]，[吳鎮宇](../Page/吳鎮宇.md "wikilink")於片尾以客串形式露面。
   - [林峰因为要拍摄](https://zh.wikipedia.org/wiki/林峰 "wikilink")《[雷霆扫毒](https://zh.wikipedia.org/wiki/雷霆扫毒 "wikilink")》，档期问题跟冲2相撞，所以无法参演
   - [黄宗泽因为要拍摄](https://zh.wikipedia.org/wiki/黄宗泽 "wikilink")《[面包树的女人](https://zh.wikipedia.org/wiki/面包树的女人 "wikilink")》，档期跟冲2相撞，所以无法参演。
   - 2012年7月18日：於15:00在尖沙咀[The Mira Hong
     Kong](../Page/The_Mira_Hong_Kong.md "wikilink") 18樓宴會廳1舉行記者會\[5\]。
-  - 2012年7月24日：於15:00在將軍澳[電視廣播城城一廠Common](../Page/電視廣播城.md "wikilink")
+  - 2012年7月24日：於15:00在將軍澳[電視廣播城](../Page/電視廣播城.md "wikilink")城一廠Common
     Room及停車場舉行造型記者會以及開鏡拜神儀式\[6\]。
-  - 2012年8月14日：[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒在中環拍街頭鬧交場面](../Page/胡杏兒.md "wikilink")。
-  - 2012年8月15日：[吳卓羲](../Page/吳卓羲.md "wikilink")、[胡杏兒在石澳拍攝踩單車戲](../Page/胡杏兒.md "wikilink")。\[7\]
+  - 2012年8月14日：[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")在中環拍街頭鬧交場面。
+  - 2012年8月15日：[吳卓羲](../Page/吳卓羲.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")在石澳拍攝踩單車戲。\[7\]
   - 2012年9月11日：出發至海南三亞拍攝外景。
   - 2012年9月16日：海南三亞外景煞科。
   - 2012年11月3日：廠景煞科。
@@ -1154,34 +1154,34 @@ BJ Chong之朋友，後為其女友</p></td>
   - 2013年6月28日至6月30日：劇中主要演員吳鎮宇、張智霖、陳法拉、吳卓羲及胡定欣前往馬來西亞出席造勢宣傳活動。
   - 2013年7月11日：此劇於14:30在香港國際機場南環路81號中國飛機服務有限公司飛機維修庫舉行「夢想啟航」宣傳活動。\[9\]
   - 2013年7月13日：特備節目《衝上雲霄II正式召集》於19:00－19:30在翡翠台、高清翡翠台及Astro On Demand播映。
-  - 2013年7月14日：此劇於14:30在[尖沙咀The](../Page/尖沙咀.md "wikilink") Mira Hong
+  - 2013年7月14日：此劇於14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")The Mira Hong
     Kong 18樓宴會廳舉行「向夢想出發」宣傳活動。\[10\]
-  - 2013年7月23日：此劇於12:00在[將軍澳智選](../Page/將軍澳.md "wikilink")[假日酒店晉薈舉行祝捷會](../Page/假日酒店.md "wikilink")。\[11\]
-  - 2013年7月28日：此劇於15:00在[荃灣](../Page/荃灣.md "wikilink")[愉景新城舉行](../Page/愉景新城.md "wikilink")「『飛』常任務」宣傳活動。\[12\]
-  - 2013年8月15日：此劇於14:30在[九龍城](../Page/九龍城.md "wikilink")[宋皇臺道](https://zh.wikipedia.org/wiki/宋皇臺道 "wikilink")31號[香港飛行總會舉行](../Page/香港飛行總會.md "wikilink")「星空下的情緣」宣傳活動。\[13\]
-  - 2013年8月25日：此劇於14:00在[將軍澳](../Page/將軍澳.md "wikilink")[新都城二期商場舉行](../Page/新都城.md "wikilink")「愛的魔法」宣傳活動。\[14\]
-  - 2013年9月8日：此劇於14:00在[將軍澳](../Page/將軍澳.md "wikilink")[新都城二期商場](../Page/新都城.md "wikilink")
+  - 2013年7月23日：此劇於12:00在[將軍澳](../Page/將軍澳.md "wikilink")智選[假日酒店](../Page/假日酒店.md "wikilink")晉薈舉行祝捷會。\[11\]
+  - 2013年7月28日：此劇於15:00在[荃灣](../Page/荃灣.md "wikilink")[愉景新城](../Page/愉景新城.md "wikilink")舉行「『飛』常任務」宣傳活動。\[12\]
+  - 2013年8月15日：此劇於14:30在[九龍城](../Page/九龍城.md "wikilink")[宋皇臺道](https://zh.wikipedia.org/wiki/宋皇臺道 "wikilink")31號[香港飛行總會](../Page/香港飛行總會.md "wikilink")舉行「星空下的情緣」宣傳活動。\[13\]
+  - 2013年8月25日：此劇於14:00在[將軍澳](../Page/將軍澳.md "wikilink")[新都城](../Page/新都城.md "wikilink")二期商場舉行「愛的魔法」宣傳活動。\[14\]
+  - 2013年9月8日：此劇於14:00在[將軍澳](../Page/將軍澳.md "wikilink")[新都城](../Page/新都城.md "wikilink")二期商場
     L1
     天幕廣場舉行新都城中心特約：《衝上雲霄II華麗著陸》宣傳活動。（[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[馬國明缺席](https://zh.wikipedia.org/wiki/馬國明 "wikilink")）\[15\]
   - 2013年9月8日：特備節目《衝上雲霄II華麗著陸》於21:00－21:15及23:15－23:30在翡翠台、高清翡翠台播映。
 
 ## 迴響
 
-由於本劇為十年前備受歡迎的《[衝上雲霄](../Page/衝上雲霄.md "wikilink")》籌拍多年的續集，亦遠赴外國取景，由多位一線演員演出，觀眾甚為期待\[16\]。惟播出以後受不少爭議，包括[林子祥主唱的主題歌曲與劇情不配](../Page/林子祥.md "wikilink")、多位女角以性感演出作招徠等等\[17\]。
+由於本劇為十年前備受歡迎的《[衝上雲霄](../Page/衝上雲霄.md "wikilink")》籌拍多年的續集，亦遠赴外國取景，由多位一線演員演出，觀眾甚為期待\[16\]。惟播出以後受不少爭議，包括[林子祥](../Page/林子祥.md "wikilink")主唱的主題歌曲與劇情不配、多位女角以性感演出作招徠等等\[17\]。
 
-前劇以[陳奕迅](../Page/陳奕迅.md "wikilink")《歲月如歌》為主題曲，本劇預告片亦以該曲作宣傳，但最終由[林子祥主唱主題曲](../Page/林子祥.md "wikilink")，引起網民反對，認為該曲與主題並不相襯\[18\]，未播映已接獲51宗投訴\[19\]，後來通訊事務管理局也接獲11宗投訴，其中10宗投訴主題曲太悲觀，令人產生負面情緒、令社會不和諧、不切合劇集主題及劇情、不動聽及令人不安，另一宗指劇集誤導觀眾，又被稱主題曲為一個失敗。\[20\]
-[林峯主唱的插曲就好評如潮](https://zh.wikipedia.org/wiki/林峯 "wikilink")，被指比[林子祥主唱的主題曲動聽萬倍](../Page/林子祥.md "wikilink")，應作為此劇的主題曲。其後，林子祥親身回應指《歲月如歌》是十年前的事，又表示每首歌也有人喜歡或不喜歡，每首歌不值得比較。\[21\]
+前劇以[陳奕迅](../Page/陳奕迅.md "wikilink")《歲月如歌》為主題曲，本劇預告片亦以該曲作宣傳，但最終由[林子祥](../Page/林子祥.md "wikilink")主唱主題曲，引起網民反對，認為該曲與主題並不相襯\[18\]，未播映已接獲51宗投訴\[19\]，後來通訊事務管理局也接獲11宗投訴，其中10宗投訴主題曲太悲觀，令人產生負面情緒、令社會不和諧、不切合劇集主題及劇情、不動聽及令人不安，另一宗指劇集誤導觀眾，又被稱主題曲為一個失敗。\[20\]
+[林峯主唱的插曲就好評如潮](https://zh.wikipedia.org/wiki/林峯 "wikilink")，被指比[林子祥](../Page/林子祥.md "wikilink")主唱的主題曲動聽萬倍，應作為此劇的主題曲。其後，林子祥親身回應指《歲月如歌》是十年前的事，又表示每首歌也有人喜歡或不喜歡，每首歌不值得比較。\[21\]
 
-[張智霖飾演的](../Page/張智霖.md "wikilink")「Cool魔」顧夏陽大受歡迎\[22\]\[23\]\[24\]，張智霖的對白更被列為金句，角色成為城中熱話\[25\]，後來有數集沒有出現，通訊事務管理局收到三宗投訴\[26\]。最後劇情無故由「萬人迷」變為痴迷前女友更惹來爭議及反感，張智霖亦暗示不滿指劇情角色被剪接過。\[27\]。另外，吳卓羲的英文發音再受爭議\[28\]。
+[張智霖](../Page/張智霖.md "wikilink")飾演的「Cool魔」顧夏陽大受歡迎\[22\]\[23\]\[24\]，張智霖的對白更被列為金句，角色成為城中熱話\[25\]，後來有數集沒有出現，通訊事務管理局收到三宗投訴\[26\]。最後劇情無故由「萬人迷」變為痴迷前女友更惹來爭議及反感，張智霖亦暗示不滿指劇情角色被剪接過。\[27\]。另外，吳卓羲的英文發音再受爭議\[28\]。
 
-女主角方面，不少網民希望「Sam」可與前劇[陳慧珊飾演的](../Page/陳慧珊.md "wikilink")「Belle」或本劇仍有演出的[胡杏兒飾演的](../Page/胡杏兒.md "wikilink")「Zoe」再續前緣\[29\]\[30\]。[胡杏兒新角色出場時收視雖一度跌至](../Page/胡杏兒.md "wikilink")27點\[31\]，哭戲也被指稍露出「囧」樣\[32\]，但後來冷酷的角色演出也頗受歡迎，她原本的角色蘇怡與「Sam哥」的感情仍受關注\[33\]，不過角色叫「Summer」卻被指無新意，因與其他劇集角色一樣\[34\]。另一女主角[陳法拉演技被觀眾認為有待進步](../Page/陳法拉.md "wikilink")。\[35\]\[36\]\[37\]。本劇最受歡迎的女演員是第三女主角[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，代孕產子的劇情備受爭議，\[38\]但整體演出獲三位男主角點名讚賞。\[39\]
+女主角方面，不少網民希望「Sam」可與前劇[陳慧珊](../Page/陳慧珊.md "wikilink")飾演的「Belle」或本劇仍有演出的[胡杏兒](../Page/胡杏兒.md "wikilink")飾演的「Zoe」再續前緣\[29\]\[30\]。[胡杏兒](../Page/胡杏兒.md "wikilink")新角色出場時收視雖一度跌至27點\[31\]，哭戲也被指稍露出「囧」樣\[32\]，但後來冷酷的角色演出也頗受歡迎，她原本的角色蘇怡與「Sam哥」的感情仍受關注\[33\]，不過角色叫「Summer」卻被指無新意，因與其他劇集角色一樣\[34\]。另一女主角[陳法拉](../Page/陳法拉.md "wikilink")演技被觀眾認為有待進步。\[35\]\[36\]\[37\]。本劇最受歡迎的女演員是第三女主角[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，代孕產子的劇情備受爭議，\[38\]但整體演出獲三位男主角點名讚賞。\[39\]
 
 本劇以多位女角「灑鹽花」性感演出招徠，包括[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")、[朱璇](../Page/朱璇.md "wikilink")、[林芊妤](../Page/林芊妤.md "wikilink")、[梁政珏](../Page/梁政珏.md "wikilink")、[劉俐](../Page/劉俐.md "wikilink")、，雖然受部分網民歡迎，卻同時接獲多宗投訴\[40\]\[41\]\[42\]\[43\]。觀眾批評尺度太寬，通訊事務管理局錄得14宗投訴，內容包括：含不雅內容、令人不安、意識不良及不適合兒童觀看\[44\]。而陳法拉一段露背戲，無綫再接到17宗有關本劇投訴，包括4宗話太多性感鏡頭，通訊事務管理局則有25宗投訴。後來，無綫及通訊局共收到38宗投訴，包括劇中人物亂搞男女關係、意識不良、有不雅內容、胡定欣做代母誇張不合情理、刪剪太多令劇情不完整（陳法拉情挑Cool魔露背一幕）、騎單車無戴頭盔（指吳卓羲）違反安全守則。\[45\]
 
 承接上一輯，本劇再次被拍抄襲十年前由日本萬人迷木村拓哉主演的經典飛行劇《[夢想飛行Good
 Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，除了張智霖與木村飾演的機長相似，吳鎮宇與堤真一雷同，胡杏兒亦被指跟柴崎幸的角色相似，都是飛機維修員，性格也為冷酷的中性角色。\[46\]另外，本劇持續出現航空犯駁橋段，[公民黨譚文豪開設名為](https://zh.wikipedia.org/wiki/公民黨 "wikilink")「衝上雲霄專業版」的[facebook專頁解釋錯誤](https://zh.wikipedia.org/wiki/facebook "wikilink")\[47\]。
 
-該劇最終平均收視31點，最高41點，再加跨平台([MyTV](../Page/MyTV.md "wikilink"))收視的5點共36點成爲2013年收視冠軍。在該劇播完後，無綫宣布與[蕭定一開拍電影版及不排除會開拍第三輯](../Page/蕭定一.md "wikilink")。
+該劇最終平均收視31點，最高41點，再加跨平台([MyTV](../Page/MyTV.md "wikilink"))收視的5點共36點成爲2013年收視冠軍。在該劇播完後，無綫宣布與[蕭定一](../Page/蕭定一.md "wikilink")開拍電影版及不排除會開拍第三輯。
 
 2018年，[TVB於香港國際影視展宣佈開拍](https://zh.wikipedia.org/wiki/TVB "wikilink")《[衝上雲霄2020](https://zh.wikipedia.org/wiki/衝上雲霄2020 "wikilink")》
 
@@ -1245,11 +1245,11 @@ Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，�
 </tr>
 <tr class="even">
 <td><p>最喜愛TVB電視角色</p></td>
-<td><p>唐亦琛（<a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇飾</a>）<br />
-顧夏陽（<a href="../Page/張智霖.md" title="wikilink">張智霖飾</a>）<br />
-何年希（<a href="../Page/陳法拉.md" title="wikilink">陳法拉飾</a>）<br />
-顧夏晨（<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒飾</a>）<br />
-唐亦風（<a href="../Page/吳卓羲.md" title="wikilink">吳卓羲飾</a>）<br />
+<td><p>唐亦琛（<a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>飾）<br />
+顧夏陽（<a href="../Page/張智霖.md" title="wikilink">張智霖</a>飾）<br />
+何年希（<a href="../Page/陳法拉.md" title="wikilink">陳法拉</a>飾）<br />
+顧夏晨（<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>飾）<br />
+唐亦風（<a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>飾）<br />
 凌卓芝（<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣飾</a>）</p></td>
 <td></td>
 <td></td>
@@ -1312,7 +1312,7 @@ Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，�
 </tr>
 <tr class="even">
 <td><p>最喜愛TVB劇集歌曲</p></td>
-<td><p>衝上雲霄（<a href="../Page/林子祥.md" title="wikilink">林子祥主唱</a>）</p></td>
+<td><p>衝上雲霄（<a href="../Page/林子祥.md" title="wikilink">林子祥</a>主唱）</p></td>
 <td><p>入圍最後五強</p></td>
 <td></td>
 </tr>
@@ -1565,6 +1565,8 @@ Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，�
     tvb.com](http://programme.tvb.com/drama/triumphintheskies2/)
   - [《衝上雲霄II》 GOTV
     第1集重溫](https://web.archive.org/web/20160304112027/http://gotv.tvb.com/programme/103604/161406/)
+  - [《衝上雲霄II》
+    encoreTVB](https://encoretvb.com/cantonese/series/aj0q4B70-Triumph_In_The_Skies_II)
 
 ## 節目變遷
 

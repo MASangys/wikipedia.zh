@@ -1,11 +1,11 @@
-**幻影IV式**是法国的[喷气式](../Page/喷气式.md "wikilink")[超音速](../Page/超音速.md "wikilink")[战略轰炸机和](../Page/战略轰炸机.md "wikilink")[远程侦察机](https://zh.wikipedia.org/wiki/偵察機 "wikilink")，与英国的[胜利者式等并肩](https://zh.wikipedia.org/wiki/胜利者式轰炸机 "wikilink")。1964年10月入役。长期以来是法国[核三位一体的](../Page/核三位一体.md "wikilink")[核威慑力量一极](https://zh.wikipedia.org/wiki/核威慑 "wikilink")。1996年轰炸型退役，2005年侦察型退役。\[1\]\[2\]。
+**幻影IV式**是法国的[喷气式](../Page/喷气式.md "wikilink")[超音速](../Page/超音速.md "wikilink")[战略轰炸机](../Page/战略轰炸机.md "wikilink")和[远程侦察机](https://zh.wikipedia.org/wiki/偵察機 "wikilink")，与英国的[胜利者式等并肩](https://zh.wikipedia.org/wiki/胜利者式轰炸机 "wikilink")。1964年10月入役。长期以来是法国[核三位一体](../Page/核三位一体.md "wikilink")的[核威慑力量一极](https://zh.wikipedia.org/wiki/核威慑 "wikilink")。1996年轰炸型退役，2005年侦察型退役。\[1\]\[2\]。
 
 ## 发展
 
 1956年法国军界开始探讨携带核弹的战略轰炸机可能。当年5月[Guy
 Mollet起草了一份载弹](https://zh.wikipedia.org/wiki/Guy_Mollet "wikilink")3公吨，5.2米长的，自带油航程2,000公里且可空中加油的超音速轰炸机要求。\[3\]
 1957年三月20日最后规格被批准。
-[南方飞机公司和](../Page/南方飞机公司.md "wikilink")[北方飞机公司都提交了方案](https://zh.wikipedia.org/wiki/北方飞机公司 "wikilink")。前者是以超秃鹰轰炸机
+[南方飞机公司](../Page/南方飞机公司.md "wikilink")和[北方飞机公司都提交了方案](https://zh.wikipedia.org/wiki/北方飞机公司 "wikilink")。前者是以超秃鹰轰炸机
 为基程拉长一些用的是10500磅推力的ATAR引擎，0.9马赫下作战半径1700英里,\[4\]达索的方案更简化一些而更易于开发，是以1956年早期提出的幻影III改来的双发夜间战斗机为基础\[5\]其侦察版被称为“穷人的SR-71”。\[6\]
 
 ## 战区外核打击

@@ -1,4 +1,4 @@
-**宇和島坂下津IC**（平假名：うわじまさかしづインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[宇和島市的](../Page/宇和島市.md "wikilink")[宇和島道路之](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道只設松山方向出口與津島高田IC方向入口。
+**宇和島坂下津IC**（平假名：うわじまさかしづインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[宇和島市](../Page/宇和島市.md "wikilink")的[宇和島道路之](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道只設松山方向出口與津島高田IC方向入口。
 
 ## 連接道路
 
@@ -16,7 +16,7 @@
   - 1998年3月 -
     [宇和島道路宇和島坂下津IC至](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")[宇和島南IC之間開通](https://zh.wikipedia.org/wiki/宇和島南IC "wikilink")，此交流道也同時啟用。
   - 2001年3月 -
-    宇和島道路（地面路段）[宇和島朝日IC至宇和島坂下津IC之間開通](../Page/宇和島朝日IC.md "wikilink")。
+    宇和島道路（地面路段）[宇和島朝日IC](../Page/宇和島朝日IC.md "wikilink")至宇和島坂下津IC之間開通。
   - 2005年7月9日 - 宇和島道路（高架路段）宇和島朝日IC至宇和島坂下津IC之間開通。
 
 ## 交流道周邊

@@ -1,5 +1,5 @@
 《**SO
-BEAST**》[南韓男子偶像團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BEAST的第一張](https://zh.wikipedia.org/wiki/BEAST "wikilink")[日文專輯](https://zh.wikipedia.org/wiki/日文 "wikilink")，2011年8月10日在[日本發行](../Page/日本.md "wikilink")，共收錄12首歌曲，專輯發行三種版本，分別為初回盤A、初回盤B、通常盤。初回盤A內容物為CD、60分鐘長的DVD、72頁的寫真冊、22頁的歌詞本。初回盤B內容物為CD、45分鐘長的DVD、32業的寫真冊、歌詞本。通常盤則包含CD及歌詞本。發行首周在[Oricon專輯周榜取得第三名的成績](../Page/Oricon.md "wikilink")。\[1\]
+BEAST**》[南韓男子偶像團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BEAST的第一張](https://zh.wikipedia.org/wiki/BEAST "wikilink")[日文專輯](https://zh.wikipedia.org/wiki/日文 "wikilink")，2011年8月10日在[日本](../Page/日本.md "wikilink")發行，共收錄12首歌曲，專輯發行三種版本，分別為初回盤A、初回盤B、通常盤。初回盤A內容物為CD、60分鐘長的DVD、72頁的寫真冊、22頁的歌詞本。初回盤B內容物為CD、45分鐘長的DVD、32業的寫真冊、歌詞本。通常盤則包含CD及歌詞本。發行首周在[Oricon](../Page/Oricon.md "wikilink")專輯周榜取得第三名的成績。\[1\]
 
 ## 歌曲內容
 
@@ -8,10 +8,10 @@ BEAST**》[南韓男子偶像團體](https://zh.wikipedia.org/wiki/南韓 "wikil
 
 ## 單曲
 
-第一首發行的日文單曲「Shock(日文版)」於2011年3月16日發行，在[Oricon周榜取得第二名](../Page/Oricon.md "wikilink")，銷量超過56,000張。
+第一首發行的日文單曲「Shock(日文版)」於2011年3月16日發行，在[Oricon](../Page/Oricon.md "wikilink")周榜取得第二名，銷量超過56,000張。
 
 BEAST在韓國的出道曲日文版則是第二首發行的日文單曲「Bad
-Girl(日文版)」，6月15日發行，在[Oricon周榜取得第三名](../Page/Oricon.md "wikilink")，銷量超過50,000張。
+Girl(日文版)」，6月15日發行，在[Oricon](../Page/Oricon.md "wikilink")周榜取得第三名，銷量超過50,000張。
 
 ## 曲目
 
@@ -24,7 +24,7 @@ Girl(日文版)」，6月15日發行，在[Oricon周榜取得第三名](../Page/
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon榜</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>榜</p></th>
 <th><p>最高名次</p></th>
 <th><p>甫發行銷量</p></th>
 <th><p>總銷量</p></th>

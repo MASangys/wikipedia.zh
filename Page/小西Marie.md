@@ -1,5 +1,5 @@
 **小西
-まりえ**（，）是[日本的](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")。於2013年出道。
+まりえ**（，）是[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")。於2013年出道。
 
 ## 人物略歴
 

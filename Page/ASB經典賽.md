@@ -1,9 +1,9 @@
 **ASB經典賽**（**ASB
-Classic**）是一項在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭舉辦的女子室外硬地網球賽事](../Page/奧克蘭_\(紐西蘭\).md "wikilink")，1986年創辦至今，由[奧克蘭儲蓄銀行](https://zh.wikipedia.org/wiki/奧克蘭儲蓄銀行 "wikilink")（ASB）所冠名。本賽事也是[WTA巡迴賽的比賽之一](https://zh.wikipedia.org/wiki/WTA巡迴賽 "wikilink")，被歸類於國際賽方面。舉行日期則通常訂於每年的首週、男子網球賽事[海尼根公開賽的前一週](../Page/海尼根公開賽.md "wikilink")，兩者比賽地點皆在。
+Classic**）是一項在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭舉辦的女子室外硬地網球賽事](../Page/奧克蘭_\(紐西蘭\).md "wikilink")，1986年創辦至今，由[奧克蘭儲蓄銀行](https://zh.wikipedia.org/wiki/奧克蘭儲蓄銀行 "wikilink")（ASB）所冠名。本賽事也是[WTA巡迴賽的比賽之一](https://zh.wikipedia.org/wiki/WTA巡迴賽 "wikilink")，被歸類於國際賽方面。舉行日期則通常訂於每年的首週、男子網球賽事[海尼根公開賽](../Page/海尼根公開賽.md "wikilink")的前一週，兩者比賽地點皆在。
 
 為了跟進[澳洲網球公開賽的腳步](https://zh.wikipedia.org/wiki/澳洲網球公開賽 "wikilink")，從2008年的比賽開始，球場表面的硬地材質從更換成。
 
-2012年10月15日，根據報導指出波蘭籍的[阿格涅什卡·拉德萬斯卡以頭號種子的身分參加](../Page/阿格涅什卡·拉德萬斯卡.md "wikilink")2013年的賽事，而最後她也順利抱回獎盃\[1\]。
+2012年10月15日，根據報導指出波蘭籍的[阿格涅什卡·拉德萬斯卡](../Page/阿格涅什卡·拉德萬斯卡.md "wikilink")以頭號種子的身分參加2013年的賽事，而最後她也順利抱回獎盃\[1\]。
 
 [Flickr_-_chascow_-_Agnieszka_Radwańska.jpg](https://zh.wikipedia.org/wiki/File:Flickr_-_chascow_-_Agnieszka_Radwańska.jpg "fig:Flickr_-_chascow_-_Agnieszka_Radwańska.jpg")在2013年賽事的決賽上擊敗[雅尼婭·維克梅耶爾](https://zh.wikipedia.org/wiki/雅尼婭·維克梅耶爾 "wikilink")，奪得冠軍。\]\]
 

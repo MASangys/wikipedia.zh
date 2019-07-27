@@ -1,4 +1,4 @@
-以下是可以被发送到[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")[服务器的](../Page/服务器.md "wikilink")**FTP命令列表**，包含由[IETF在RFC](https://zh.wikipedia.org/wiki/IETF "wikilink")
+以下是可以被发送到[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")[服务器](../Page/服务器.md "wikilink")的**FTP命令列表**，包含由[IETF在RFC](https://zh.wikipedia.org/wiki/IETF "wikilink")
 959中标准化的所有命令。需要注意的是，大多数命令行FTP客户端都给用户提供了额外的命令集。例如，GET是一个常见的用来下载文件的用户命令，用来替代原始的RETR命令。
 
 | 命令   | [RFC](../Page/RFC.md "wikilink")                   | 描述                                                                                                  |

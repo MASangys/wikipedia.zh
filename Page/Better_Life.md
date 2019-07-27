@@ -1,5 +1,5 @@
 《**Better
-Life**》是[F.I.R.飛兒樂團第](../Page/F.I.R.飛兒樂團.md "wikilink")7張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是主唱[詹雯婷](../Page/詹雯婷.md "wikilink")（Faye）退團前的最後一張專輯，發行於2013年12月13日。\[1\]這張專輯中的〈七號公路〉是為[關島觀光局](../Page/關島.md "wikilink")2014年度宣傳歌曲。\[2\]\[3\]\[4\]\[5\]
+Life**》是[F.I.R.飛兒樂團](../Page/F.I.R.飛兒樂團.md "wikilink")第7張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是主唱[詹雯婷](../Page/詹雯婷.md "wikilink")（Faye）退團前的最後一張專輯，發行於2013年12月13日。\[1\]這張專輯中的〈七號公路〉是為[關島](../Page/關島.md "wikilink")觀光局2014年度宣傳歌曲。\[2\]\[3\]\[4\]\[5\]
 
 ## 曲目
 

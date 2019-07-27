@@ -1,5 +1,5 @@
 《**Night
-Ghost**》是[香港歌手](../Page/香港.md "wikilink")、前商業電台DJ[黃承恩（Ekee）的第一張個人EP](../Page/黃承恩.md "wikilink")，於2012年1月4日公開發售。專輯早於2011年12月於音樂會場內發售。
+Ghost**》是[香港](../Page/香港.md "wikilink")歌手、前商業電台DJ[黃承恩](../Page/黃承恩.md "wikilink")（Ekee）的第一張個人EP，於2012年1月4日公開發售。專輯早於2011年12月於音樂會場內發售。
 
 ## 曲目資料
 

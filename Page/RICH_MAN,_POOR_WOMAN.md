@@ -1,13 +1,13 @@
 《**-{RICH MAN, POOR
-WOMAN}-**》（）是[日本](../Page/日本.md "wikilink")[富士電視台於](../Page/富士電視台.md "wikilink")2012年7月9日至2012年9月17日播出的[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")，由[小栗旬](../Page/小栗旬.md "wikilink")\[1\]主演。台灣緯來日本台於2012年7月21日同期播出，劇名為《-{多金社長小資女}-》；特別篇於2013年12月11日播出，劇名為《-{多金社長小資女之同居挑戰中}-》。
+WOMAN}-**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於2012年7月9日至2012年9月17日播出的[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")，由[小栗旬](../Page/小栗旬.md "wikilink")\[1\]主演。台灣緯來日本台於2012年7月21日同期播出，劇名為《-{多金社長小資女}-》；特別篇於2013年12月11日播出，劇名為《-{多金社長小資女之同居挑戰中}-》。
 
 韓國製作公司IHQ於2017年宣布翻拍此作，共16集\[2\]。
 
 ## 概要
 
-  - 主演的[小栗旬是繼](../Page/小栗旬.md "wikilink")《[東京癲狗](https://zh.wikipedia.org/wiki/東京癲狗 "wikilink")》（2009年）相隔3年多後再度主演月九劇，女主角[石原聰美則是繼演出](../Page/石原聰美.md "wikilink")《[Voice～來自亡者的聲音](../Page/Voice～來自亡者的聲音.md "wikilink")》（2009年）也是相隔3年多，再度演出月九劇。
+  - 主演的[小栗旬](../Page/小栗旬.md "wikilink")是繼《[東京癲狗](https://zh.wikipedia.org/wiki/東京癲狗 "wikilink")》（2009年）相隔3年多後再度主演月九劇，女主角[石原聰美](../Page/石原聰美.md "wikilink")則是繼演出《[Voice～來自亡者的聲音](../Page/Voice～來自亡者的聲音.md "wikilink")》（2009年）也是相隔3年多，再度演出月九劇。
   - 劇集2012年6月開始拍攝，並於9月11日劇集完成拍攝工作、全劇殺青。
-  - 人物故事原型是參考[facebook創辦人](https://zh.wikipedia.org/wiki/facebook "wikilink")[馬克·祖克柏及](https://zh.wikipedia.org/wiki/馬克·祖克柏 "wikilink")[蘋果創辦人](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·賈伯斯的商場鬥爭故事並且融入經典愛情電影](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")[麻雀變鳳凰的戀愛情節](../Page/麻雀變鳳凰.md "wikilink")，呈現出現代版的多元寫實的職場愛情故事。
+  - 人物故事原型是參考[facebook創辦人](https://zh.wikipedia.org/wiki/facebook "wikilink")[馬克·祖克柏及](https://zh.wikipedia.org/wiki/馬克·祖克柏 "wikilink")[蘋果創辦人](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·賈伯斯的商場鬥爭故事並且融入經典愛情電影](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")[麻雀變鳳凰](../Page/麻雀變鳳凰.md "wikilink")的戀愛情節，呈現出現代版的多元寫實的職場愛情故事。
   - 日本廣告詞為「我的程式裡沒有這種女人（）」、｢我所沒讀到的那種人（）｣。
   - 台灣廣告詞為「我的app程式裡，沒有這種女孩」、｢學校的教科書裡，沒有這種男人｣。
   - 全劇在日播出時深受好評，雖然劇情上有些俗套，但因重新以IT產業做包裝且主角群演技備受觀眾肯定，在17日播出最終話後，引起廣大觀眾迴響，並期待播出特別篇或續作。

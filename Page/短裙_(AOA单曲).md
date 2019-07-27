@@ -5,7 +5,7 @@ Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
 
   - 「短裙」是AOA的第4張單曲，連同AOA
     Black的單曲「[MOYA](https://zh.wikipedia.org/wiki/MOYA "wikilink")」，此單曲通算為第5張單曲。
-  - 《短裙》為此單曲專輯的主打曲目，並首次與[勇敢兄弟合作](../Page/勇敢兄弟.md "wikilink")。
+  - 《短裙》為此單曲專輯的主打曲目，並首次與[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")合作。
   - 與前作《[RED
     MOTION](../Page/RED_MOTION.md "wikilink")》一樣，此單曲只有舞蹈團體成員參與演唱，[有慶並沒有參與](https://zh.wikipedia.org/wiki/徐有慶 "wikilink")。
   - 在回歸前夕，成員[雪炫因腳傷而無法參與](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")《短裙》的宣傳。

@@ -1,6 +1,6 @@
-《**愛迷ELEGY**》（）是[DECO\*27的第二張原創](../Page/DECO*27.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2010年12月15日由[U/M/A/A發售](https://zh.wikipedia.org/wiki/U/M/A/A "wikilink")。
+《**愛迷ELEGY**》（）是[DECO\*27](../Page/DECO*27.md "wikilink")的第二張原創[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2010年12月15日由[U/M/A/A發售](https://zh.wikipedia.org/wiki/U/M/A/A "wikilink")。
 
-收錄[DECO\*27於動畫網站](../Page/DECO*27.md "wikilink")[NICONICO動畫上以](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[初音未來](../Page/初音未來.md "wikilink")、[Megpoid等VOCALOID創作並發表的樂曲](../Page/Megpoid.md "wikilink")，以及DECO\*27自身與女性歌手marina的翻唱\[1\]。
+收錄[DECO\*27](../Page/DECO*27.md "wikilink")於動畫網站[NICONICO動畫上以](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[初音未來](../Page/初音未來.md "wikilink")、[Megpoid](../Page/Megpoid.md "wikilink")等VOCALOID創作並發表的樂曲，以及DECO\*27自身與女性歌手marina的翻唱\[1\]。
 
 ## 曲目
 

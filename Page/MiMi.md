@@ -1,8 +1,8 @@
 《**Mimi**》 （）
-，是由[東方神起成員](../Page/東方神起.md "wikilink")[沈昌珉及](../Page/沈昌珉.md "wikilink")[文佳英主演的](https://zh.wikipedia.org/wiki/文佳英 "wikilink")2014年的[韓國迷你](https://zh.wikipedia.org/wiki/韓國 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。\[1\]
+，是由[東方神起](../Page/東方神起.md "wikilink")成員[沈昌珉](../Page/沈昌珉.md "wikilink")及[文佳英主演的](https://zh.wikipedia.org/wiki/文佳英 "wikilink")2014年的[韓國迷你](https://zh.wikipedia.org/wiki/韓國 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。\[1\]
 此劇由2014年2月21日至3月14日逢星期五23:00在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[Mnet播放](https://zh.wikipedia.org/wiki/Mnet "wikilink")4集。\[2\]\[3\]\[4\]
 
-此劇是被[李明世](https://zh.wikipedia.org/wiki/李明世 "wikilink")2007年的電影《M》所啟發，並由[SM娛樂旗下的](../Page/SM娛樂.md "wikilink")[SM
+此劇是被[李明世](https://zh.wikipedia.org/wiki/李明世 "wikilink")2007年的電影《M》所啟發，並由[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的[SM
 C\&C製作](https://zh.wikipedia.org/wiki/SM_C&C "wikilink")。
 
 ## 演出

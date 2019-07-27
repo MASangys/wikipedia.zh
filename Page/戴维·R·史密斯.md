@@ -1,4 +1,4 @@
-**戴维·R·史密斯**是一名美国物理学家，在北卡罗莱纳州[杜克大学任电子和计算机工程教授](../Page/杜克大学.md "wikilink")。史密斯的研究兴趣主要为电磁[超材料](../Page/超材料.md "wikilink")，也即具有[负折射率的材料](https://zh.wikipedia.org/wiki/负折射率 "wikilink")。
+**戴维·R·史密斯**是一名美国物理学家，在北卡罗莱纳州[杜克大学](../Page/杜克大学.md "wikilink")任电子和计算机工程教授。史密斯的研究兴趣主要为电磁[超材料](../Page/超材料.md "wikilink")，也即具有[负折射率的材料](https://zh.wikipedia.org/wiki/负折射率 "wikilink")。
 
 1988年，史密斯毕业于[加利福尼亚大学圣地亚哥分校](https://zh.wikipedia.org/wiki/加利福尼亚大学圣地亚哥分校 "wikilink")（UCSD），获得学士学位（物理学），并在1994年于该校获得博士学位（物理学）。此后他继续在圣地亚哥从事研究。
 

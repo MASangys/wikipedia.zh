@@ -1,9 +1,9 @@
 《**Wind: A Breath of
-Heart**》是[日本](../Page/日本.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[公司](../Page/公司.md "wikilink")[minori開發的](https://zh.wikipedia.org/wiki/minori "wikilink")[視覺小說系列](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，2002年4月19日首次以[日本成人遊戲來販賣](../Page/日本成人遊戲.md "wikilink")，適合[個人電腦使用](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。\[1\]2003年，《Wind:
+Heart**》是[日本](../Page/日本.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[公司](../Page/公司.md "wikilink")[minori開發的](https://zh.wikipedia.org/wiki/minori "wikilink")[視覺小說系列](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，2002年4月19日首次以[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")來販賣，適合[個人電腦使用](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。\[1\]2003年，《Wind:
 A Breath of
 Heart》被移植到[Dreamcast](../Page/Dreamcast.md "wikilink")\[2\]\[3\]與[PlayStation
 2](../Page/PlayStation_2.md "wikilink")\[4\]。《Wind: A Breath of
-Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該作品的片頭動畫和插入動畫是由後來的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[新海誠製作而引發了話題](../Page/新海誠.md "wikilink")。
+Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該作品的片頭動畫和插入動畫是由後來的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[新海誠](../Page/新海誠.md "wikilink")製作而引發了話題。
 
 ## 登場人物
 

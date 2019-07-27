@@ -1,12 +1,12 @@
 《**HOT
-LIMIT**》是[T.M.Revolution在](../Page/T.M.Revolution.md "wikilink")1998年6月24日发行的单曲，是自身的第八张单曲。唱片由日本索尼音乐娱乐(Epic
+LIMIT**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在1998年6月24日发行的单曲，是自身的第八张单曲。唱片由日本索尼音乐娱乐(Epic
 Records Japan)代理發行。
 
 ## 概要
 
   - 累计销售约71万张。
   - 曲目3的“**HOT
-    LIMIT(MITSUYA-MIX)**”是當時[日本职业棒球](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[歐力士野牛的](../Page/歐力士野牛.md "wikilink")[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")[鈴木一朗演出的](https://zh.wikipedia.org/wiki/鈴木一朗 "wikilink")“MITSUYA汽水”的广告主題曲。广告在单曲发行前4个月就开始放映。广告版与单曲版相比，歌词及编曲有所不同。
+    LIMIT(MITSUYA-MIX)**”是當時[日本职业棒球](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[歐力士野牛](../Page/歐力士野牛.md "wikilink")的[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")[鈴木一朗演出的](https://zh.wikipedia.org/wiki/鈴木一朗 "wikilink")“MITSUYA汽水”的广告主題曲。广告在单曲发行前4个月就开始放映。广告版与单曲版相比，歌词及编曲有所不同。
   - 歌词中出现了“**ダイスケ**([浅倉大介](https://zh.wikipedia.org/wiki/浅倉大介 "wikilink"))”，引用了浅仓的著书《**ダイスケ的にOK\!?**》的题目。巡回演唱会中也经常用举行地名来替换“ダイスケ”部分。
   - 《UNDER : COVER》版本中的“**ヤスヒロ**”是西川父亲的名字。
   - PV方面，西川继续他的奇装异服，这次他穿着黑色布条装站在搭在海面上的星形舞台上，吹着海风跳舞。(偶发事件：组成舞台的5片红色板子的其中一片被强风吹飞了。)其拍摄风格也出现在《HIGH

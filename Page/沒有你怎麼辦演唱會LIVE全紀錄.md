@@ -1,4 +1,4 @@
-《**沒有你怎麼辦演唱會LIVE全紀錄**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[嚴爵的第二張現場專輯](../Page/嚴爵.md "wikilink")，在2012年4月17日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2012年5月4日推出。專輯收錄了他在2011年8月27日於[臺北國際會議中心舉行的](https://zh.wikipedia.org/wiki/臺北國際會議中心 "wikilink")《嚴爵沒有你怎麼辦演唱會》的曲目\[2\]。
+《**沒有你怎麼辦演唱會LIVE全紀錄**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[嚴爵](../Page/嚴爵.md "wikilink")的第二張現場專輯，在2012年4月17日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2012年5月4日推出。專輯收錄了他在2011年8月27日於[臺北國際會議中心舉行的](https://zh.wikipedia.org/wiki/臺北國際會議中心 "wikilink")《嚴爵沒有你怎麼辦演唱會》的曲目\[2\]。
 
 ## 曲目
 

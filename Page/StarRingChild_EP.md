@@ -1,5 +1,5 @@
 《**StarRingChild
-EP**》是日本歌手[Aimer的第](../Page/Aimer.md "wikilink")6张[单曲](../Page/单曲.md "wikilink")。2014年5月21日由[DefSTAR
+EP**》是日本歌手[Aimer](../Page/Aimer.md "wikilink")的第6张[单曲](../Page/单曲.md "wikilink")。2014年5月21日由[DefSTAR
 Records发售](../Page/DefSTAR_Records.md "wikilink")。
 
 ## 概要
@@ -13,7 +13,7 @@ AM》（《机动战士高达UC》第六集《宇宙与地球》主题曲）之�
 本单曲有CD＋DVD的初回生产限定碟、标准碟和限期生产的动画碟三种类型的CD发售，限期生产的动画碟的封面为插画家[森下直亲绘制的全身散发绿色](https://zh.wikipedia.org/wiki/森下直亲 "wikilink")[精神感应框体光芒的](https://zh.wikipedia.org/wiki/New_Type "wikilink")[全武装型独角兽](https://zh.wikipedia.org/wiki/RX-0#1號機 "wikilink")，并附赠有購入者特典活动“東京・大阪教会现场演唱”参加申请用明信片\[3\]\[4\]。首批发售的所有版本的单品均附有特典，内容包括DVD版的《StarRingChild》音乐视频、星屑式样的透明外盒以及内附的抽奖券\[5\]。
 
 2014年5月14日，《机动战士GUNDAM
-UC》的制作方发布了其最后一集的一个预告，以《StarRingChild》为配乐，配合画面则是法国克鲁尼美术馆所藏的[织锦](https://zh.wikipedia.org/wiki/织锦 "wikilink")《[贵妇人与独角兽](https://zh.wikipedia.org/wiki/贵妇人与独角兽 "wikilink")》的影像\[6\]。为配合单曲的发售和动画的上映，词曲作者泽野弘之和演唱者Aimer于2014年5月30日起在[东京和](../Page/东京.md "wikilink")[大阪举办鋼彈UC特别演唱会](https://zh.wikipedia.org/wiki/大阪 "wikilink")“UnChild”\[7\]。同时为了纪念单曲发售，自2014年5月22日起USTREAM直播Aimer的网络演唱会。单曲在发售首日就登上了公信榜每日单曲排行第三名，打破了Aimer此前凭借单曲《RE：I
+UC》的制作方发布了其最后一集的一个预告，以《StarRingChild》为配乐，配合画面则是法国克鲁尼美术馆所藏的[织锦](https://zh.wikipedia.org/wiki/织锦 "wikilink")《[贵妇人与独角兽](https://zh.wikipedia.org/wiki/贵妇人与独角兽 "wikilink")》的影像\[6\]。为配合单曲的发售和动画的上映，词曲作者泽野弘之和演唱者Aimer于2014年5月30日起在[东京](../Page/东京.md "wikilink")和[大阪举办鋼彈UC特别演唱会](https://zh.wikipedia.org/wiki/大阪 "wikilink")“UnChild”\[7\]。同时为了纪念单曲发售，自2014年5月22日起USTREAM直播Aimer的网络演唱会。单曲在发售首日就登上了公信榜每日单曲排行第三名，打破了Aimer此前凭借单曲《RE：I
 AM》所取得的初上榜第六名成绩\[8\]。BANDAI
 CHANNEL的“〈月刊〉动画的秘密”于2014年4月25日播出的第9集中播出了《StarRingChild》的制作幕后故事\[9\]。
 

@@ -32,7 +32,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 2.  **[Next Stage](https://zh.wikipedia.org/wiki/告別之前 "wikilink")**
     （作詞：leonn / Rap詞：Mitsuhiro Hidaka / 作曲：Kenji Kabashima, SugayaBros.）
       -
-        42nd單曲・[富士電視台週六Premium動畫](../Page/富士電視台.md "wikilink")「ONE PIECE
+        42nd單曲・[富士電視台](../Page/富士電視台.md "wikilink")週六Premium動畫「ONE PIECE
         "3D2Y" 跨越艾斯之死！路飛與夥伴的誓言」的主題曲
         「告別之前」的B面曲
 3.  **SHOUT & SHAKE**
@@ -72,7 +72,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 11. **[Wake up\!](../Page/Wake_up!.md "wikilink")**
     （作詞：leonn、Rap詞：日高光啓、作曲・編曲：日比野裕史）
       -
-        41st單曲・[富士電視台動畫](../Page/富士電視台.md "wikilink")「[ONE
+        41st單曲・[富士電視台](../Page/富士電視台.md "wikilink")動畫「[ONE
         PIECE](../Page/ONE_PIECE.md "wikilink")」（海賊王）的主題曲
 
 ### DVD

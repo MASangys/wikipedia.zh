@@ -1,5 +1,5 @@
 **The
-Singles**是日本[環球唱片自主發行收錄](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[美国流行歌手](../Page/美国.md "wikilink")[女神卡卡八首單曲的](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")\[1\]，限定生產量為5000套，內含9隻CD並以9個單曲水晶薄盒保存，對摺了的封面紙裡面是印有日英對譯的歌詞頁。
+Singles**是日本[環球唱片自主發行收錄](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[美国](../Page/美国.md "wikilink")流行歌手[女神卡卡八首單曲的](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")\[1\]，限定生產量為5000套，內含9隻CD並以9個單曲水晶薄盒保存，對摺了的封面紙裡面是印有日英對譯的歌詞頁。
 本套裝收錄了八張單曲碟加一張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，八首單曲為[女神卡卡於](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[Born
 This
 Way單曲發表前全部單曲](https://zh.wikipedia.org/wiki/Born_This_Way "wikilink")（但不包括宣傳單曲Beautiful,

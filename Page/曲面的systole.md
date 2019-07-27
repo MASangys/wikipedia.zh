@@ -8,7 +8,7 @@
 
 ## 實射影平面
 
-[蒲保明於](../Page/蒲保明.md "wikilink")1952年給出對實射影平面的類似結果，是為[蒲氏不等式](https://zh.wikipedia.org/wiki/蒲氏不等式 "wikilink")，證明其systolic比SR(RP<sup>2</sup>)有上界π/2，也是在常曲率時達到上界。
+[蒲保明](../Page/蒲保明.md "wikilink")於1952年給出對實射影平面的類似結果，是為[蒲氏不等式](https://zh.wikipedia.org/wiki/蒲氏不等式 "wikilink")，證明其systolic比SR(RP<sup>2</sup>)有上界π/2，也是在常曲率時達到上界。
 
 ## 克萊因瓶
 

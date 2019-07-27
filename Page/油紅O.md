@@ -1,10 +1,10 @@
-**油紅O**，或稱**油劑紅27**，**蘇丹紅5B**（C<sub>26</sub>H<sub>24</sub>N<sub>4</sub>O）是一種[重氮](https://zh.wikipedia.org/wiki/重氮 "wikilink")[脂肪染色劑](https://zh.wikipedia.org/wiki/脂肪染色劑 "wikilink")，用於染中性的[脂質冰凍切片和一些](https://zh.wikipedia.org/wiki/脂質 "wikilink")[脂蛋白的石蠟切片](../Page/脂蛋白.md "wikilink")。正常情況下為紅色粉末狀。
+**油紅O**，或稱**油劑紅27**，**蘇丹紅5B**（C<sub>26</sub>H<sub>24</sub>N<sub>4</sub>O）是一種[重氮](https://zh.wikipedia.org/wiki/重氮 "wikilink")[脂肪染色劑](https://zh.wikipedia.org/wiki/脂肪染色劑 "wikilink")，用於染中性的[脂質冰凍切片和一些](https://zh.wikipedia.org/wiki/脂質 "wikilink")[脂蛋白](../Page/脂蛋白.md "wikilink")的石蠟切片。正常情況下為紅色粉末狀。
 
 ## 用途
 
-油紅O是[蘇丹染劑之一](https://zh.wikipedia.org/wiki/蘇丹染劑 "wikilink")，很大程度上可以取代[蘇丹三號和](../Page/蘇丹三號.md "wikilink")[蘇丹四號](../Page/蘇丹四號.md "wikilink")，因其染出的顏色更紅。
+油紅O是[蘇丹染劑之一](https://zh.wikipedia.org/wiki/蘇丹染劑 "wikilink")，很大程度上可以取代[蘇丹三號](../Page/蘇丹三號.md "wikilink")和[蘇丹四號](../Page/蘇丹四號.md "wikilink")，因其染出的顏色更紅。
 
-在[煙火製造中](https://zh.wikipedia.org/wiki/煙火製造 "wikilink")，油紅是一些[彩色煙霧粉末的組成物](https://zh.wikipedia.org/wiki/彩色煙霧 "wikilink")。同時也被用來給[塑料染色](../Page/塑料.md "wikilink")。
+在[煙火製造中](https://zh.wikipedia.org/wiki/煙火製造 "wikilink")，油紅是一些[彩色煙霧粉末的組成物](https://zh.wikipedia.org/wiki/彩色煙霧 "wikilink")。同時也被用來給[塑料](../Page/塑料.md "wikilink")染色。
 
 ### 法醫
 

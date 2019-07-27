@@ -1,5 +1,5 @@
 《**A Kind Of
-Magic**》是英国摇滚乐队[皇后乐队](../Page/皇后乐队.md "wikilink")（QUEEN）的第十二张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")、莱因霍尔德·麦克以及大衛·理查兹制作，1986年6月2日由唱片公司[EMI在英国发行](../Page/EMI.md "wikilink")。\[1\]
+Magic**》是英国摇滚乐队[皇后乐队](../Page/皇后乐队.md "wikilink")（QUEEN）的第十二张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")、莱因霍尔德·麦克以及大衛·理查兹制作，1986年6月2日由唱片公司[EMI](../Page/EMI.md "wikilink")在英国发行。\[1\]
 
 ## 曲目列表
 

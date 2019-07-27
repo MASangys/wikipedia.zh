@@ -1,5 +1,5 @@
 **船帆座IV**，又名**CP-52 2980**，**HD 86466**、**SAO 237526**、**HR
-3941**，是[船帆座的一颗恒星](../Page/船帆座.md "wikilink")\[1\]\[2\]，视星等为6.12，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")278.2，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")1.66，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+3941**，是[船帆座](../Page/船帆座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.12，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")278.2，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")1.66，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

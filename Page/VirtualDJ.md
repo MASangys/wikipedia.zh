@@ -1,4 +1,4 @@
-**VirtualDJ**（亦稱為**VDJ**）使用於[PC與](../Page/PC.md "wikilink")[MAC來進行](../Page/MAC.md "wikilink")[音樂或](https://zh.wikipedia.org/wiki/音樂 "wikilink")[影片混合](https://zh.wikipedia.org/wiki/影片 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，內建也取代了其唱盤與CD播放器\[1\]。由ATOMIX製造公司專為戶外與俱樂部[DJ使用者而開發的軟體](https://zh.wikipedia.org/wiki/DJ "wikilink")。該軟體也再添加了NUMARK，稱為NUMARK
+**VirtualDJ**（亦稱為**VDJ**）使用於[PC](../Page/PC.md "wikilink")與[MAC](../Page/MAC.md "wikilink")來進行[音樂或](https://zh.wikipedia.org/wiki/音樂 "wikilink")[影片混合](https://zh.wikipedia.org/wiki/影片 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，內建也取代了其唱盤與CD播放器\[1\]。由ATOMIX製造公司專為戶外與俱樂部[DJ使用者而開發的軟體](https://zh.wikipedia.org/wiki/DJ "wikilink")。該軟體也再添加了NUMARK，稱為NUMARK
 CUE。
 
 ## 歷史
@@ -11,8 +11,8 @@ Limited Edition、VirtualDJ Plus 以及 VirtualDJ Pro
 
 ## 內部
 
-自VirtualDJ6，可[儲存映射到](../Page/存储器映射输入输出.md "wikilink")[MIDI或](../Page/MIDI.md "wikilink")[HID控制器](https://zh.wikipedia.org/wiki/HID "wikilink")。於早期版本對應到一個控制器是與內置到軟體的映射器完成，或由使用者（使用[C++或其他](../Page/C++.md "wikilink")[編程語言](https://zh.wikipedia.org/wiki/編程語言 "wikilink")）製成硬編碼的DLL文件。VirtualDJ6
-中引入了VDJScript語言\[4\]，使一個自定義映射為任何MIDI和HID控制器更容易透過編輯軟體的映射配置，或透過編輯[XML文件](../Page/XML.md "wikilink")。
+自VirtualDJ6，可[儲存映射到](../Page/存储器映射输入输出.md "wikilink")[MIDI](../Page/MIDI.md "wikilink")或[HID控制器](https://zh.wikipedia.org/wiki/HID "wikilink")。於早期版本對應到一個控制器是與內置到軟體的映射器完成，或由使用者（使用[C++](../Page/C++.md "wikilink")或其他[編程語言](https://zh.wikipedia.org/wiki/編程語言 "wikilink")）製成硬編碼的DLL文件。VirtualDJ6
+中引入了VDJScript語言\[4\]，使一個自定義映射為任何MIDI和HID控制器更容易透過編輯軟體的映射配置，或透過編輯[XML](../Page/XML.md "wikilink")文件。
 
 ## 相關條目
 

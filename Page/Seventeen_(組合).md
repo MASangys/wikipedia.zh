@@ -3,7 +3,7 @@
 [夫碩順(BSS)](https://zh.wikipedia.org/wiki/SEVENTEEN-BSS "wikilink")
 }}
 
-**SEVENTEEN**（，）是韓國[Pledis娛樂旗下的](../Page/Pledis娛樂.md "wikilink")13人男子流行音樂團體，成員包括[韓國籍](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")，[美籍韓裔的](../Page/美国.md "wikilink")[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")，韓美雙籍的[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")，以及[中國籍的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[Jun和](../Page/文俊輝.md "wikilink")[The
+**SEVENTEEN**（，）是韓國[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下的13人男子流行音樂團體，成員包括[韓國籍](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")，[美籍韓裔的](../Page/美国.md "wikilink")[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")，韓美雙籍的[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")，以及[中國籍的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[Jun和](../Page/文俊輝.md "wikilink")[The
 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。
 
 2015年5月26日透過練習生生活紀錄節目《小綠屋》實境節目《SEVENTEEN Project：出道大作戰》第七集Debut
@@ -15,19 +15,19 @@ U〉。由於成員參與每一張專輯的作曲、作詞和編舞而獲得「�
 團體名字「SEVENTEEN」寓意為「13名成員+3個分隊+1個團體」，問候語為「Say the name,
 SEVENTEEN」，同時左手比1，右手比7，並將兩手向前伸再彎曲交疊。 官方粉絲名稱「CARAT (캐럿)
 」取自於鑽石的質量單位，比喻SEVENTEEN是像鑽石一樣閃耀的存在，隨著CARAT的數量增加SEVENTEEN的價值也越高。應援色為
-Rose
-Quartz（玫瑰石英粉）與Serenity（寧靜藍），玫瑰石英粉是暖和且柔軟的，而寧靜藍則是沈靜、平穩的，用來描述SEVENTEEN的溫暖及清澈。
+[<span style="color:#f7cac9">Rose
+Quartz（玫瑰石英粉)</span>與](https://zh.wikipedia.org/wiki/Rose_Quartz（玫瑰石英粉 "wikilink")[<span style="color:#92a8d1">Serenity（寧靜藍)</span>](https://zh.wikipedia.org/wiki/Serenity（寧靜藍\) "wikilink")，玫瑰石英粉是暖和且柔軟的，而寧靜藍則是沈靜、平穩的，用來描述SEVENTEEN的溫暖及清澈。
 
 ## 經歷
 
 ### 出道前
 
-在出道前，成員已經進行了多樣化的活動。當中[文俊輝在童星時期出演了](../Page/文俊輝.md "wikilink")2007年電影《[野·良犬](../Page/野·良犬.md "wikilink")》、2010年電影《[葉問前傳](../Page/葉問前傳.md "wikilink")》等多部電視劇及電影，其中《[野·良犬](../Page/野·良犬.md "wikilink")》入圍[第二十七屆香港電影金像獎「最佳新演員」最後五強](../Page/香港電影金像獎最佳新演員.md "wikilink")，以及榮獲[第三屆香港電影導演會年度大獎「年度新晉演員銀獎」](../Page/香港電影導演會年度大獎最佳新演員.md "wikilink")，作為童星受到了很多歡迎。
+在出道前，成員已經進行了多樣化的活動。當中[文俊輝](../Page/文俊輝.md "wikilink")在童星時期出演了2007年電影《[野·良犬](../Page/野·良犬.md "wikilink")》、2010年電影《[葉問前傳](../Page/葉問前傳.md "wikilink")》等多部電視劇及電影，其中《[野·良犬](../Page/野·良犬.md "wikilink")》入圍[第二十七屆香港電影金像獎「最佳新演員」最後五強](../Page/香港電影金像獎最佳新演員.md "wikilink")，以及榮獲[第三屆香港電影導演會年度大獎「年度新晉演員銀獎」](../Page/香港電影導演會年度大獎最佳新演員.md "wikilink")，作為童星受到了很多歡迎。
 
-在2012年SEVENTEEN正式定名前，團體成員與[NU'EST成員](../Page/NU'EST.md "wikilink")、張道允等公司其他男練習生合稱「Pledis
+在2012年SEVENTEEN正式定名前，團體成員與[NU'EST](../Page/NU'EST.md "wikilink")成員、張道允等公司其他男練習生合稱「Pledis
 Boys」，並以此名義出演出了許多活動。
 
-2011年，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST出演了](../Page/NU'EST.md "wikilink")[A.S.
+2011年，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")出演了[A.S.
 BLUE的出道曲](https://zh.wikipedia.org/wiki/After_School#子團體 "wikilink")〈Wonder
 Boy〉的MV<ref>
 
@@ -53,21 +53,21 @@ Boy〉的MV<ref>
 
   -
   -
-</ref>。在年末[SBS歌謠大戰中](../Page/SBS歌謠大戰.md "wikilink")，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST等Pledis練習生們也一起於](../Page/NU'EST.md "wikilink")[After
+</ref>。在年末[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")中，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")等Pledis練習生們也一起於[After
 School的舞台上演出](../Page/After_School.md "wikilink")。\[10\]
 
-2012年，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎則出演了](../Page/金珉奎.md "wikilink")[NU'EST的出道曲](../Page/NU'EST.md "wikilink")〈FACE〉的MV\[11\]，[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎也出演了](../Page/金珉奎.md "wikilink")[Hello
-Venus的出道曲](../Page/Hello_Venus.md "wikilink")〈Venus〉的MV\[12\]。另外，[崔勝哲亦參與了](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[橙子焦糖的正規一輯](../Page/橙子焦糖.md "wikilink")《[LIPSTICK](../Page/LIPSTICK.md "wikilink")》收錄曲〈Superwoman〉的Featuring。
+2012年，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")則出演了[NU'EST](../Page/NU'EST.md "wikilink")的出道曲〈FACE〉的MV\[11\]，[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")也出演了[Hello
+Venus的出道曲](../Page/Hello_Venus.md "wikilink")〈Venus〉的MV\[12\]。另外，[崔勝哲亦參與了](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[橙子焦糖](../Page/橙子焦糖.md "wikilink")的正規一輯《[LIPSTICK](../Page/LIPSTICK.md "wikilink")》收錄曲〈Superwoman〉的Featuring。
 
-2013年起，[Pledis娛樂在網路個人電視伺服器](../Page/Pledis娛樂.md "wikilink")[Ustream上](https://zh.wikipedia.org/wiki/Ustream "wikilink")，依季別播放《SEVENTEEN
-TV》，讓SEVENTEEN預備成員們出演，與粉絲雙方面交流。在年末[SBS歌謠大戰上](../Page/SBS歌謠大戰.md "wikilink")，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李碩珉](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[崔韓率](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[張道允共同出演](https://zh.wikipedia.org/wiki/張道允 "wikilink")[Hello
+2013年起，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")在網路個人電視伺服器[Ustream上](https://zh.wikipedia.org/wiki/Ustream "wikilink")，依季別播放《SEVENTEEN
+TV》，讓SEVENTEEN預備成員們出演，與粉絲雙方面交流。在年末[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")上，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李碩珉](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[崔韓率](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[張道允共同出演](https://zh.wikipedia.org/wiki/張道允 "wikilink")[Hello
 Venus的舞台](../Page/Hello_Venus.md "wikilink")。\[13\]
 
-2014年，[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎與](../Page/金珉奎.md "wikilink")[PRISTIN隊長](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")[娜榮擔任了](https://zh.wikipedia.org/wiki/娜榮 "wikilink")[San
-E和](../Page/San_E.md "wikilink")[Raina的合作單曲](../Page/Raina.md "wikilink")〈한여름밤의
+2014年，[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")與[PRISTIN隊長](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")[娜榮擔任了](https://zh.wikipedia.org/wiki/娜榮 "wikilink")[San
+E和](../Page/San_E.md "wikilink")[Raina](../Page/Raina.md "wikilink")的合作單曲〈한여름밤의
 꿀 (A midsummer night's
-sweetness)〉\[14\]的伴舞，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[文俊輝](../Page/文俊輝.md "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")、[崔韓率也出演了年末](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[KBS歌謠盛典中S](../Page/KBS歌謠盛典.md "wikilink")[San
-E和](../Page/San_E.md "wikilink")[Raina的舞台](../Page/Raina.md "wikilink")。<ref>**現場舞台影片整理：**San
+sweetness)〉\[14\]的伴舞，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[文俊輝](../Page/文俊輝.md "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")、[崔韓率也出演了年末](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")中S[San
+E和](../Page/San_E.md "wikilink")[Raina](../Page/Raina.md "wikilink")的舞台。<ref>**現場舞台影片整理：**San
 E, Raina - A midsummer night's sweetness
 
   -
@@ -77,7 +77,7 @@ E, Raina - A midsummer night's sweetness
   -
   -
   -
-  - </ref> 同年，[金珉奎與](../Page/金珉奎.md "wikilink")[After
+  - </ref> 同年，[金珉奎](../Page/金珉奎.md "wikilink")與[After
     School成員](../Page/After_School.md "wikilink")[佳恩出演了](../Page/佳恩_\(1994年出生\).md "wikilink")的迷你二輯《24》的主打歌〈28.5〉的MV\[15\]；[崔韓率則固定出演](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[MBC的綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《》。
 
 ### 2015年
@@ -122,9 +122,9 @@ Chart公開了男子偶像團專輯銷量](../Page/Gaon音乐榜.md "wikilink")�
 
 #### 首場演唱會《LIKE SEVENTEEN – Boys Wish》
 
-12月24至26日，SEVENTEEN於[首爾](../Page/首爾.md "wikilink")[龍山區](../Page/龍山區_\(首爾\).md "wikilink")[梨泰院洞龍山ART](../Page/梨泰院洞.md "wikilink")
+12月24至26日，SEVENTEEN於[首爾](../Page/首爾.md "wikilink")[龍山區](../Page/龍山區_\(首爾\).md "wikilink")[梨泰院洞](../Page/梨泰院洞.md "wikilink")龍山ART
 HALL舉辦共四場的單獨演唱會《LIKE SEVENTEEN – Boys
-Wish》，門票在開售一分鐘後就全部售罄，證明了SEVENTEEN的高人氣。翌年2月13至14日，SEVENTEEN於首爾[松坡區](../Page/松坡區.md "wikilink")[SK奧林匹克手球館舉行安可演唱會](../Page/SK奧林匹克手球館.md "wikilink")，共7,000席的門票亦在5分鐘之內售罄，並在2月14日演出當天宣布官方粉絲名確定為「캐럿
+Wish》，門票在開售一分鐘後就全部售罄，證明了SEVENTEEN的高人氣。翌年2月13至14日，SEVENTEEN於首爾[松坡區](../Page/松坡區.md "wikilink")[SK奧林匹克手球館](../Page/SK奧林匹克手球館.md "wikilink")舉行安可演唱會，共7,000席的門票亦在5分鐘之內售罄，並在2月14日演出當天宣布官方粉絲名確定為「캐럿
 (CARAT) 」。\[23\]
 
 ### 2016年
@@ -149,7 +149,7 @@ Champion](../Page/Show_Champion.md "wikilink")》奪得一位，蟬聯兩週冠�
 
 #### 正規改版一輯《Love & Letter（改版專輯）》
 
-6月15日，[Pledis娛樂發表公告](../Page/Pledis娛樂.md "wikilink")，表示[圓佑因健康因素將暫停活動休息](../Page/全圓佑.md "wikilink")，因此改版專輯的活動會暫時以12人形式進行。\[27\]
+6月15日，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")發表公告，表示[圓佑因健康因素將暫停活動休息](../Page/全圓佑.md "wikilink")，因此改版專輯的活動會暫時以12人形式進行。\[27\]
 
 7月4日，正規改版一輯《[Love &
 Letter（改版專輯）](../Page/Love_&_Letter.md "wikilink")》發行，主打歌為〈VERY
@@ -198,7 +198,7 @@ Letter（改版專輯）](../Page/Love_&_Letter.md "wikilink")》以銷量98,420
 
 5月23日，第四張迷你專輯《[Al1](../Page/Al1.md "wikilink")》發行，主打歌為〈Don't Wanna Cry
 (울고 싶지
-않아)〉。專輯首周銷量為192,399+張，並成功打入Hanteo首週銷量排行榜第10名，僅次於[EXO](../Page/EXO.md "wikilink")、[防彈少年團以及](../Page/防彈少年團.md "wikilink")[GOT7](../Page/GOT7.md "wikilink")。截至5月底，[Gaon
+않아)〉。專輯首周銷量為192,399+張，並成功打入Hanteo首週銷量排行榜第10名，僅次於[EXO](../Page/EXO.md "wikilink")、[防彈少年團](../Page/防彈少年團.md "wikilink")以及[GOT7](../Page/GOT7.md "wikilink")。截至5月底，[Gaon
 Chart銷量已突破](../Page/Gaon音乐榜.md "wikilink")259,364+張，位列5月份[Gaon
 Chart專輯銷量第一](../Page/Gaon音乐榜.md "wikilink")。\[36\]
 
@@ -221,7 +221,7 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》冠軍歌曲�
 
 #### 合作
 
-8月16日，[Vernon與](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[M.O.L.A成員發布](../Page/M.O.L.A.md "wikilink")〈CHILLIN'〉5M.O.L.As版本<ref>
+8月16日，[Vernon與](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[M.O.L.A](../Page/M.O.L.A.md "wikilink")成員發布〈CHILLIN'〉5M.O.L.As版本<ref>
 
   - YouTube：
   - SoundCloud：</ref>，並加入由5位來自不同經紀公司和團體的成員組成的音樂創作團體[M.O.L.A](../Page/M.O.L.A.md "wikilink")\[37\]\[38\]。
@@ -254,7 +254,7 @@ Champion](../Page/Show_Champion.md "wikilink")》冠軍歌曲。\[48\] 11月17�
 Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》冠軍歌曲。\[49\]
 
 12月12日，在正規二輯《[TEEN,
-AGE](../Page/Teen,_Age.md "wikilink")》的宣傳活動結束後，[Pledis娛樂發表公告](../Page/Pledis娛樂.md "wikilink")，表示[The
+AGE](../Page/Teen,_Age.md "wikilink")》的宣傳活動結束後，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")發表公告，表示[The
 8因專注於腰傷治療將暫停活動](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。\[50\]
 
 ### 2018年
@@ -468,12 +468,12 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
   - （장도윤）：1995年8月31日出生，國籍[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。現經紀公司JB
     Entertainment，於2013年演員出道，現以演員身分活動中。已於2018年入伍，現服役中。
 
-  - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（요명명）：1997年1月5日出生，國籍[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")。曾參加[MIXNINE獲得第](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")10名，其後加入J\&B娛樂旗下男子組合[BLK](../Page/BLK.md "wikilink")，組合解散後簽約[古天樂旗下公司天加一文化](../Page/古天樂.md "wikilink")，並參加中國網路綜藝[青春有你以第三名出道](../Page/青春有你.md "wikilink")，成為[UNINE一員](../Page/UNINE.md "wikilink")。
+  - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（요명명）：1997年1月5日出生，國籍[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")。曾參加[MIXNINE獲得第](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")10名，其後加入J\&B娛樂旗下男子組合[BLK](../Page/BLK.md "wikilink")，組合解散後簽約[古天樂](../Page/古天樂.md "wikilink")旗下公司天加一文化，並參加中國網路綜藝[青春有你](../Page/青春有你.md "wikilink")以第三名出道，成為[UNINE](../Page/UNINE.md "wikilink")一員。
 
   - 申東振（신동진）：2000年8月19日出生，國籍[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。現為經紀公司Eleven
     Nine Entertainment旗下1109boys成員之一，正在准备出道中。
 
-  - [Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（金塞繆爾、김사무엘）：2002年1月17日出生於[美國](../Page/美国.md "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")、[西班牙混血兒](../Page/西班牙.md "wikilink")。當時因年齡太小和顧及學業而退出。現經紀公司為[Brave娛樂](../Page/Brave娛樂.md "wikilink")，曾以[1PUNCH出道](../Page/1PUNCH.md "wikilink")(藝名為「PUNCH」)，其後以本名參加[PRODUCE
+  - [Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（金塞繆爾、김사무엘）：2002年1月17日出生於[美國](../Page/美国.md "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")混血兒。當時因年齡太小和顧及學業而退出。現經紀公司為[Brave娛樂](../Page/Brave娛樂.md "wikilink")，曾以[1PUNCH](../Page/1PUNCH.md "wikilink")出道(藝名為「PUNCH」)，其後以本名參加[PRODUCE
     101
     第二季取得第](../Page/PRODUCE_101_第二季.md "wikilink")18名，於2017年8月2日更改藝名為「Samuel」作個人單飛出道。
 
@@ -568,12 +568,12 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td><center>
 <p>首爾站</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大韩民国" title="wikilink">韓國</a><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/龍山區" title="wikilink">龍山區</a><a href="../Page/漢南洞.md" title="wikilink">漢南洞Blue</a> Square 三星卡廳</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大韩民国" title="wikilink">韓國</a><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/龍山區" title="wikilink">龍山區</a><a href="../Page/漢南洞.md" title="wikilink">漢南洞</a>Blue Square 三星卡廳</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年5月26日</p></td>
 <td><p>迷你一輯《<a href="../Page/17_Carat.md" title="wikilink">17 CARAT</a>》</p></td>
-<td><p>韓國<a href="../Page/京畿道.md" title="wikilink">京畿道一山MBC夢想中心</a></p></td>
+<td><p>韓國<a href="../Page/京畿道.md" title="wikilink">京畿道</a>一山MBC夢想中心</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -924,7 +924,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="odd">
 <td><p>2017年9月29日</p></td>
 <td></td>
-<td><p><a href="../Page/新達城.md" title="wikilink">新達城新加坡國際會議展覽中心</a></p></td>
+<td><p><a href="../Page/新達城.md" title="wikilink">新達城</a>新加坡國際會議展覽中心</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1029,7 +1029,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>2018年8月31日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亚洲国际博览馆" title="wikilink">亚洲国际博览馆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亚洲国际博览馆" title="wikilink">亚洲国际博览馆</a> Arena</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1251,7 +1251,70 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年10月8日</p></td>
 <td></td>
+<td><p><a href="../Page/大阪市.md" title="wikilink">大阪</a></p></td>
+<td><p>大阪城展演廳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月9日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月12日</p></td>
+<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知</a></p></td>
+<td><p>天空展覽館</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月13日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月14日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月30日</p></td>
+<td><p><a href="../Page/横滨市.md" title="wikilink">橫濱</a></p></td>
+<td><p><a href="../Page/橫濱體育館.md" title="wikilink">橫濱體育館</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月31日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月7日</p></td>
+<td><p><a href="../Page/千葉市.md" title="wikilink">千葉</a></p></td>
+<td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月8日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月9日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1578,7 +1641,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>12月29日</p></td>
 <td><p>2011 <a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/京畿道.md" title="wikilink">京畿道一山</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/京畿道.md" title="wikilink">京畿道</a>一山</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>（Pledis Boys）與<a href="../Page/After_School.md" title="wikilink">After School一同出演</a> [90]</p></td>
 </tr>
 <tr class="odd">
@@ -1627,8 +1690,8 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>12月26日</p></td>
 <td><p>2014 <a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a></p></td>
-<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
-<td><p>S.coups、Jun、Hoshi、圓佑、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、Vernon 與<a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/Raina.md" title="wikilink">Raina一同出演</a></p></td>
+<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS大廳</p></td>
+<td><p>S.coups、Jun、Hoshi、圓佑、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、Vernon 與<a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/Raina.md" title="wikilink">Raina</a>一同出演</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
@@ -1645,7 +1708,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="odd">
 <td><p>5月2日</p></td>
 <td><p>第23屆 漣川舊石器節</p></td>
-<td><p>韓國<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/漣川郡.md" title="wikilink">漣川郡全谷史前博物館</a></p></td>
+<td><p>韓國<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/漣川郡.md" title="wikilink">漣川郡</a>全谷史前博物館</p></td>
 <td><p>S.coups與Raina一同出演</p></td>
 </tr>
 <tr class="even">
@@ -1709,7 +1772,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="odd">
 <td><p>9月20日</p></td>
 <td><p>2015 慶州韓流夢想演唱會</p></td>
-<td><p>韓國<a href="../Page/慶州市.md" title="wikilink">慶州市民運動場</a></p></td>
+<td><p>韓國<a href="../Page/慶州市.md" title="wikilink">慶州市</a>民運動場</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1763,7 +1826,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>12月2日</p></td>
 <td><p>2015 <a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet Asian Music Awards</a></p></td>
-<td><p><a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a></p></td>
+<td><p><a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a> Arena</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1781,7 +1844,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="odd">
 <td><p>12月31日</p></td>
 <td><p>2015 MBC歌謠大祭典</p></td>
-<td><p>韓國<a href="../Page/京畿道.md" title="wikilink">京畿道一山MBC夢想中心</a></p></td>
+<td><p>韓國<a href="../Page/京畿道.md" title="wikilink">京畿道</a>一山MBC夢想中心</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1792,8 +1855,8 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 </tr>
 <tr class="odd">
 <td><p>1月12日</p></td>
-<td><p><a href="../Page/無限挑戰.md" title="wikilink">無限挑戰EXPO</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/京畿道.md" title="wikilink">京畿道一山KINTEX</a> 第一展覽館</p></td>
+<td><p><a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a>EXPO</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/京畿道.md" title="wikilink">京畿道</a>一山KINTEX 第一展覽館</p></td>
 <td><p>Performance Team + Vernon</p></td>
 </tr>
 <tr class="even">
@@ -1817,7 +1880,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="odd">
 <td><p>1月21日</p></td>
 <td><p>第30屆 <a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
-<td><p>韓國首爾<a href="../Page/慶熙大學.md" title="wikilink">慶熙大學和平殿堂</a></p></td>
+<td><p>韓國首爾<a href="../Page/慶熙大學.md" title="wikilink">慶熙大學</a>和平殿堂</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1828,7 +1891,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 </tr>
 <tr class="odd">
 <td><p>3月12日</p></td>
-<td><p><a href="../Page/厲旭.md" title="wikilink">厲旭演唱會</a>《Ever Lasting Star - Ryeo Wook》</p></td>
+<td><p><a href="../Page/厲旭.md" title="wikilink">厲旭</a>演唱會《Ever Lasting Star - Ryeo Wook》</p></td>
 <td><p>韓國首爾COEX Artium SMTOWN Theatre</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛作為嘉賓出演</a></p></td>
 </tr>
@@ -1895,13 +1958,13 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>10月22日</p></td>
 <td><p>Severence Family Concert</p></td>
-<td><p>韓國首爾<a href="../Page/延世大學.md" title="wikilink">延世大學戶外露天劇場</a></p></td>
+<td><p>韓國首爾<a href="../Page/延世大學.md" title="wikilink">延世大學</a>戶外露天劇場</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月16日</p></td>
 <td><p>2016 <a href="../Page/亞洲明星盛典.md" title="wikilink">Asia Artist Awards</a></p></td>
-<td><p>韓國首爾<a href="../Page/慶熙大學.md" title="wikilink">慶熙大學和平殿堂</a></p></td>
+<td><p>韓國首爾<a href="../Page/慶熙大學.md" title="wikilink">慶熙大學</a>和平殿堂</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1919,13 +1982,13 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>11月30日</p></td>
 <td><p>MBN Hero Concert</p></td>
-<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場蠶室室內體育館</a></p></td>
+<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場</a>蠶室室內體育館</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月2日</p></td>
 <td><p>2016 <a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet Asian Music Awards</a></p></td>
-<td><p><a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a></p></td>
+<td><p>香港<a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a> Arena</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1937,7 +2000,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><p>2016 <a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a></p></td>
-<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
+<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS大廳</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1955,13 +2018,13 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>1月14日</p></td>
 <td><p>第31屆 <a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/京畿道.md" title="wikilink">京畿道一山KINTEX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/京畿道.md" title="wikilink">京畿道</a>一山KINTEX</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月19日</p></td>
 <td><p>第26屆 <a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">首爾歌謠大賞</a></p></td>
-<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場蠶室室內體育館</a></p></td>
+<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場</a>蠶室室內體育館</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1973,7 +2036,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="odd">
 <td><p>3月18日</p></td>
 <td><p>2017 第12屆 Seoul Girls Collection Fashion X Kpop Concert</p></td>
-<td><p>韓國首爾<a href="../Page/高麗大學.md" title="wikilink">高麗大學花亭體育館</a></p></td>
+<td><p>韓國首爾<a href="../Page/高麗大學.md" title="wikilink">高麗大學</a>花亭體育館</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1991,7 +2054,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>5月1日</p></td>
 <td><p>第55屆 慶尚道體育節</p></td>
-<td><p>韓國<a href="https://zh.wikipedia.org/wiki/慶尚北道" title="wikilink">慶尚北道</a><a href="../Page/永川市.md" title="wikilink">永川市民體育場</a></p></td>
+<td><p>韓國<a href="https://zh.wikipedia.org/wiki/慶尚北道" title="wikilink">慶尚北道</a><a href="../Page/永川市.md" title="wikilink">永川市</a>民體育場</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2050,7 +2113,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 </tr>
 <tr class="even">
 <td><p>12月2日</p></td>
-<td><p><a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a></p></td>
+<td><p>香港<a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a> Arena</p></td>
 <td><p>Vernon（與<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo合作舞台</a>）</p></td>
 <td></td>
 </tr>
@@ -2063,13 +2126,13 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>12月21日</p></td>
 <td><p>2017 論山市青少年送年演唱會</p></td>
-<td><p>韓國<a href="../Page/忠清南道.md" title="wikilink">忠清南道</a><a href="../Page/論山市.md" title="wikilink">論山市陸軍訓練所演武館</a></p></td>
+<td><p>韓國<a href="../Page/忠清南道.md" title="wikilink">忠清南道</a><a href="../Page/論山市.md" title="wikilink">論山市</a>陸軍訓練所演武館</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The 8因腰傷缺席</a>[104]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><p>2017 <a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a></p></td>
-<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
+<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS大廳</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2099,7 +2162,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>2月14日</p></td>
 <td><p>第7屆 <a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a></p></td>
-<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場蠶室室內體育館</a></p></td>
+<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場</a>蠶室室內體育館</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2175,22 +2238,22 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>12月14日</p></td>
+<td><p>2018 <a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet Asian Music Awards</a></p></td>
+<td><p>香港<a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a> Arena</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>12月25日</p></td>
 <td><p>2018 <a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a></p></td>
 <td><p>韓國首爾<a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月28日</p></td>
 <td><p>2018 <a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a></p></td>
-<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
+<td><p>韓國首爾<a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS大廳</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>12月29日</p></td>
-<td><p>2018 <a href="https://zh.wikipedia.org/wiki/MBC演藝大獎" title="wikilink">MBC 放送演藝大賞</a></p></td>
-<td><p>韓國首爾上岩MBC演播大廳</p></td>
-<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12月31日</p></td>
@@ -2219,14 +2282,14 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <tr class="even">
 <td><p>1月19日</p></td>
 <td><p>Music Bank in Hong Kong 2019</p></td>
-<td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a></p></td>
+<td><p>香港<a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a> Arena</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月23日</p></td>
 <td><p>第8屆 <a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a></p></td>
-<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場蠶室室內體育館</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The 8缺席</a></p></td>
+<td><p>韓國<a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場</a>蠶室室內體育館</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The 8因個人行程缺席</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5月18日</p></td>
@@ -2242,14 +2305,20 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 </tr>
 <tr class="even">
 <td><p>7月6日</p></td>
-<td><p>SBS Super Concert Hong Kong 2019</p></td>
-<td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a></p></td>
-<td></td>
+<td><p>SBS Super Concert in Hong Kong 2019</p></td>
+<td><p>香港<a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a> Arena</p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛因腳傷缺席</a></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p>7月7日</p></td>
+<td><p><a href="../Page/M_Countdown特別活動.md" title="wikilink">KCON 2019 NY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a><a href="https://zh.wikipedia.org/wiki/紐約市" title="wikilink">紐約市</a><a href="https://zh.wikipedia.org/wiki/麥迪遜廣場花園" title="wikilink">麥迪遜廣場花園</a></p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛因腳傷缺席</a></p></td>
+</tr>
+<tr class="even">
+<td><p>8月18日</p></td>
+<td><p>KCON 2019 LA</p></td>
+<td><p>洛杉磯</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2260,17 +2329,17 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 | 日期       | 活動名稱                                                           | 活動地點                                                                                                                   | 參加人員                                                                  | 備註     |
 | -------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------ |
 | 2016年    |                                                                |                                                                                                                        |                                                                       |        |
-| 7月8日     | 2016 第60屆韓國小姐選拔                                                | [韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[首爾](../Page/首爾.md "wikilink")[慶熙大學音樂廳](../Page/慶熙大學.md "wikilink") | 全體（[圓佑因病缺席](../Page/全圓佑.md "wikilink")\[107\]）                        | 於直播    |
+| 7月8日     | 2016 第60屆韓國小姐選拔                                                | [韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[首爾](../Page/首爾.md "wikilink")[慶熙大學](../Page/慶熙大學.md "wikilink")音樂廳 | 全體（[圓佑因病缺席](../Page/全圓佑.md "wikilink")\[107\]）                        | 於直播    |
 | 10月3日    | KCC亞洲職籃錦標賽                                                     | 韓國首爾[綜合運動場學生室內體育館](../Page/首爾綜合運動場.md "wikilink")                                                                      | 全體                                                                    | 於直播    |
 | 2017年    |                                                                |                                                                                                                        |                                                                       |        |
 | 3月11、12日 | 2017 [韓國經典K聯賽](https://zh.wikipedia.org/wiki/挑戰K聯賽 "wikilink") | 韓國[慶尚南道李舜臣綜合運動場](../Page/庆尚南道.md "wikilink")                                                                           | 全體                                                                    |        |
 | 12月8日    | Love Milk Festival                                             | 永登浦時代廣場                                                                                                                | 全體                                                                    |        |
-| 12月15日   | 2017 Super Model選拔大會                                           | 韓國[濟州特別自治道濟州神話世界](../Page/濟州特別自治道.md "wikilink")                                                                       | 全體（[The 8因腰傷缺席](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")\[108\]） |        |
+| 12月15日   | 2017 Super Model選拔大會                                           | 韓國[濟州特別自治道](../Page/濟州特別自治道.md "wikilink")濟州神話世界                                                                       | 全體（[The 8因腰傷缺席](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")\[108\]） |        |
 | 2018年    |                                                                |                                                                                                                        |                                                                       |        |
-| 5月12日    | 趙容弼50週年紀念演唱會’Thanks to You'                                    | 韓國[首爾蠶室綜合運動場奧林匹克主競技場](../Page/首爾.md "wikilink")                                                                        | 全體                                                                    | 開場表演嘉賓 |
+| 5月12日    | 趙容弼50週年紀念演唱會’Thanks to You'                                    | 韓國[首爾](../Page/首爾.md "wikilink")蠶室綜合運動場奧林匹克主競技場                                                                        | 全體                                                                    | 開場表演嘉賓 |
 | 10月2日    | [韓國電視劇節](../Page/韓國電視劇節.md "wikilink")2018                     |                                                                                                                        | 全體                                                                    | 表演嘉賓   |
 | 2019年    |                                                                |                                                                                                                        |                                                                       |        |
-| 5月9日     | 第65屆 京畿道體育節                                                    | 韓國[京畿道體育館](../Page/京畿道.md "wikilink")                                                                                  | 全體（[Vernon因個人行程缺席](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")      | 開場表演嘉賓 |
+| 5月9日     | 第65屆 京畿道體育節                                                    | 韓國[京畿道](../Page/京畿道.md "wikilink")體育館                                                                                  | 全體（[Vernon因個人行程缺席](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")      | 開場表演嘉賓 |
 |          |                                                                |                                                                                                                        |                                                                       |        |
 
 ### 其他活動
@@ -2291,7 +2360,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 | 2018年  |                                                        |                                                                                                                                    |                                                                                                  |                                                                                           |
 | 4月21日  | 第10屆S.E.S Green Heart Bazzar                           | 韓國首爾城東區S factory                                                                                                                   | [Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")           |                                                                                           |
 | 2019年  |                                                        |                                                                                                                                    |                                                                                                  |                                                                                           |
-| 2月16日  | the SAEM Fansign in Malaysia                           | 馬來西亞[吉隆坡柏威年廣場](../Page/吉隆坡.md "wikilink")                                                                                          | 全體                                                                                               | [The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、[Jun未出席](../Page/文俊輝.md "wikilink") |
+| 2月16日  | the SAEM Fansign in Malaysia                           | 馬來西亞[吉隆坡](../Page/吉隆坡.md "wikilink")柏威年廣場                                                                                          | 全體                                                                                               | [The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、[Jun未出席](../Page/文俊輝.md "wikilink") |
 | 5月30日  | Tiffany & Co. 北京國貿旗艦店開幕儀式                              | 中國[北京](../Page/北京市.md "wikilink")                                                                                                  | [The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")                                            |                                                                                           |
 |        |                                                        |                                                                                                                                    |                                                                                                  |                                                                                           |
 

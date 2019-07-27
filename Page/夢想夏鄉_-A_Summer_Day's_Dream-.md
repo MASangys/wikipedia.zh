@@ -1,5 +1,5 @@
 《**夢想夏鄉 -A Summer Day's
-Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](https://zh.wikipedia.org/wiki/舞風 "wikilink")（MAIKAZE）制作的[東方Project同人動畫](https://zh.wikipedia.org/wiki/東方Project "wikilink")。2008年12月29日，第1話《夢想夏鄉》在[C75以](../Page/Comic_Market.md "wikilink")2200日圓的價格首發\[1\]。作為同人作品，其精美的畫風和華麗的[聲優陣容引起廣泛議論](../Page/聲優.md "wikilink")\[2\]\[3\]。
+Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](https://zh.wikipedia.org/wiki/舞風 "wikilink")（MAIKAZE）制作的[東方Project同人動畫](https://zh.wikipedia.org/wiki/東方Project "wikilink")。2008年12月29日，第1話《夢想夏鄉》在[C75以](../Page/Comic_Market.md "wikilink")2200日圓的價格首發\[1\]。作為同人作品，其精美的畫風和華麗的[聲優](../Page/聲優.md "wikilink")陣容引起廣泛議論\[2\]\[3\]。
 
 動畫的製作組曾表示預定全12話，不過鑑於1、2話發售時間間隔長，不排除計劃變更的可能。\[4\]製作組後表示預計4話完結。\[5\]
 
@@ -9,7 +9,7 @@ Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](ht
 
 ## 世界觀
 
-一天早上，博麗神社的巫女[博麗靈夢正在和伊吹萃香準備宴會](../Page/博麗靈夢.md "wikilink")。然而，日常的平靜很快因神社的賽錢箱不見而打破。此後，紅魔館的[紅茶和食材](https://zh.wikipedia.org/wiki/紅茶 "wikilink")、帕秋麗的書陸續失蹤。
+一天早上，博麗神社的巫女[博麗靈夢](../Page/博麗靈夢.md "wikilink")正在和伊吹萃香準備宴會。然而，日常的平靜很快因神社的賽錢箱不見而打破。此後，紅魔館的[紅茶和食材](https://zh.wikipedia.org/wiki/紅茶 "wikilink")、帕秋麗的書陸續失蹤。
 
 這是「異變」嗎？……
 
@@ -92,7 +92,7 @@ Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](ht
 <td><p>开绽的即视感</p></td>
 <td><p>2016年8月13日</p></td>
 <td><p>C90</p></td>
-<td></td>
+<td><p>2300</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -124,6 +124,8 @@ Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](ht
 
   - 片頭曲：
   - 片尾曲：
+
+第3話的[OST](https://zh.wikipedia.org/wiki/OST "wikilink")《》已於2016年10月16日第三回[博麗神社秋季例大祭發售](https://zh.wikipedia.org/wiki/博麗神社秋季例大祭 "wikilink")。
 
 ## 參考資料
 

@@ -1,5 +1,5 @@
 **Idris**
-是一个通用的[依赖类型纯](../Page/依赖类型.md "wikilink")[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，其[类型系统与](https://zh.wikipedia.org/wiki/类型系统 "wikilink")
+是一个通用的[依赖类型](../Page/依赖类型.md "wikilink")纯[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，其[类型系统与](https://zh.wikipedia.org/wiki/类型系统 "wikilink")
 [Agda](../Page/Agda.md "wikilink") 以及
 [Epigram](https://zh.wikipedia.org/wiki/Epigram "wikilink") 相似。
 

@@ -2,12 +2,12 @@
 
 ## 簡介
 
-2001年，金井政人、里亞德偉武和柿沼廣也等成員在高中時期成立樂隊，但由於經驗尚淺，故取了一個「沒有那麼酷」的名字「BIGMAMA」\[1\]。BIGMAMA在[搖滾音樂中混入](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")[小提琴合奏](../Page/小提琴.md "wikilink")，為樂隊的音樂特色之一\[2\]。
+2001年，金井政人、里亞德偉武和柿沼廣也等成員在高中時期成立樂隊，但由於經驗尚淺，故取了一個「沒有那麼酷」的名字「BIGMAMA」\[1\]。BIGMAMA在[搖滾音樂中混入](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")[小提琴](../Page/小提琴.md "wikilink")合奏，為樂隊的音樂特色之一\[2\]。
 
 樂團歌曲的歌詞基本上全部都是以[英語編寫](https://zh.wikipedia.org/wiki/英語 "wikilink")，一直到了第二張專輯《Dowsing
 For The Future》才首次推出日語歌曲。
 
-BIGMAMA曾被媒體稱為另一四人搖滾組合[［Alexandros］的](../Page/［Alexandros］.md "wikilink")「兄弟團」\[3\]。
+BIGMAMA曾被媒體稱為另一四人搖滾組合[［Alexandros］](../Page/［Alexandros］.md "wikilink")的「兄弟團」\[3\]。
 
 ## 成員
 
@@ -395,7 +395,7 @@ Yokota Yasuhara</p></td>
 
 ## 延伸閱讀
 
-  - [雅虎娛樂](../Page/雅虎.md "wikilink")：[日本樂團BIGMAMA出頭天
+  - [雅虎](../Page/雅虎.md "wikilink")娛樂：[日本樂團BIGMAMA出頭天
     新輯融合搖滾古典改編「天鵝湖」](https://hk.celebrity.yahoo.com/news/日本樂團bigmama出頭天-新輯融合搖滾古典改編-天鵝湖-135240840.html)
 
   - 音樂地圖：[《野台開唱》BIGMAMA](https://web.archive.org/web/20131030055136/http://www.music-map.tw/index.php?option=com_k2&view=item&id=168%3A%E3%80%8A%E9%87%8E%E5%8F%B0%E9%96%8B%E5%94%B1%E3%80%8Bbigmama&Itemid=639)

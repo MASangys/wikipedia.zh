@@ -11,7 +11,7 @@ mATX的設計相容於ATX。兩者的寛度和背板I/O大小均相同，安裝�
 
 [VIA_Mini-ITX_Form_Factor_Comparison.jpg](https://zh.wikipedia.org/wiki/File:VIA_Mini-ITX_Form_Factor_Comparison.jpg "fig:VIA_Mini-ITX_Form_Factor_Comparison.jpg")
 
-上圖的ATX主機板只有6條擴充槽，沒有最近CPU的那條。mATX主機板則有齊4條擴充槽，位置跟ATX相同。
+上圖的ATX主機板只有6條擴充槽，沒有最近CPU的那條。mATX主機板則有4條擴充槽，位置跟ATX相同。
 
 ## 參考文獻
 

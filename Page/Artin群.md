@@ -13,7 +13,7 @@
 
 若\(m=\infty\)，按慣例這表示\(x_i\)和\(x_j\)間沒有關係。
 
-在整數\(m_{i,j}\)中加入\(m_{i,i}=1\)，可以組成一個[對稱矩陣](../Page/對稱矩陣.md "wikilink")，稱為這個群的[考克斯特矩陣](https://zh.wikipedia.org/wiki/考克斯特矩陣 "wikilink")（）。在Artin群中加入所有形為\({x_i}^2=1\)的關係，得到的[商群是](../Page/商群.md "wikilink")[考克斯特群](../Page/考克斯特群.md "wikilink")。這個考克斯特群和原本的Artin群有相同的生成元和[考克斯特矩陣](https://zh.wikipedia.org/wiki/考克斯特矩陣 "wikilink")。從Artin群到對應的考克斯特群的[群同態的](../Page/群同態.md "wikilink")[核](https://zh.wikipedia.org/wiki/核_\(代數\) "wikilink")，稱為**純Artin群**（）。
+在整數\(m_{i,j}\)中加入\(m_{i,i}=1\)，可以組成一個[對稱矩陣](../Page/對稱矩陣.md "wikilink")，稱為這個群的[考克斯特矩陣](https://zh.wikipedia.org/wiki/考克斯特矩陣 "wikilink")（）。在Artin群中加入所有形為\({x_i}^2=1\)的關係，得到的[商群](../Page/商群.md "wikilink")是[考克斯特群](../Page/考克斯特群.md "wikilink")。這個考克斯特群和原本的Artin群有相同的生成元和[考克斯特矩陣](https://zh.wikipedia.org/wiki/考克斯特矩陣 "wikilink")。從Artin群到對應的考克斯特群的[群同態](../Page/群同態.md "wikilink")的[核](https://zh.wikipedia.org/wiki/核_\(代數\) "wikilink")，稱為**純Artin群**（）。
 
 ## Artin群的類
 
@@ -41,18 +41,18 @@ n，都可定義一個矩陣*M*，其中若*i*和*j*在**Γ**中相連，則*m*<
   -
     \(x_i x_j = x_j x_i \quad\)若*i*和*j*在\(\Gamma\)中相連。
 
-直角Artin群包括了有限秩的[自由群](../Page/自由群.md "wikilink")，對應無邊線的圖，及有限生成的[自由阿貝爾群](https://zh.wikipedia.org/wiki/自由阿貝爾群 "wikilink")，對應[完全圖](../Page/完全圖.md "wikilink")。事實上每個秩為*r*的直角Artin群都是一個秩為*r*-1的直角Artin群的[HNN擴張](../Page/HNN擴張.md "wikilink")，兩個極端例子是[自由積和](../Page/自由積.md "wikilink")[直積](https://zh.wikipedia.org/wiki/直積 "wikilink")。這個構造法有一個推廣稱為[群的圖積](https://zh.wikipedia.org/wiki/群的圖積 "wikilink")（）。直角Artin群是群的圖積的特例，其中每個頂點群都是秩1自由群（即無限[循環群](../Page/循環群.md "wikilink")）。
+直角Artin群包括了有限秩的[自由群](../Page/自由群.md "wikilink")，對應無邊線的圖，及有限生成的[自由阿貝爾群](https://zh.wikipedia.org/wiki/自由阿貝爾群 "wikilink")，對應[完全圖](../Page/完全圖.md "wikilink")。事實上每個秩為*r*的直角Artin群都是一個秩為*r*-1的直角Artin群的[HNN擴張](../Page/HNN擴張.md "wikilink")，兩個極端例子是[自由積](../Page/自由積.md "wikilink")和[直積](https://zh.wikipedia.org/wiki/直積 "wikilink")。這個構造法有一個推廣稱為[群的圖積](https://zh.wikipedia.org/wiki/群的圖積 "wikilink")（）。直角Artin群是群的圖積的特例，其中每個頂點群都是秩1自由群（即無限[循環群](../Page/循環群.md "wikilink")）。
 
 Mladen Bestvina和Noel
 Brady建構了一個非正曲立方複形（）*K*，其基本群是一個給定的直角Artin群*A*(**Γ**)。他們在Artin群的幾何描述上用[莫爾斯理論來論證](https://zh.wikipedia.org/wiki/莫爾斯理論 "wikilink")，給出具有性質(FP<sub>2</sub>)的[非有限展示群的第一批例子](../Page/群的展示.md "wikilink")。
 
 ## 其他Artin群
 
-若一個Artin群或一個[考克斯特群的對應矩陣中](../Page/考克斯特群.md "wikilink")，對所有*i* ≠
+若一個Artin群或一個[考克斯特群](../Page/考克斯特群.md "wikilink")的對應矩陣中，對所有*i* ≠
 *j*都有*m*<sub>*i*, *j*</sub> ≥ 3，稱這個群是大型（）的；若對所有*i* ≠
 *j*都有*m*<sub>*i*, *j*</sub> ≥ 4，則稱這個群是超大型（）的。
 
-[凱尼斯·阿佩爾和P](../Page/凱尼斯·阿佩爾.md "wikilink").E.
+[凱尼斯·阿佩爾](../Page/凱尼斯·阿佩爾.md "wikilink")和P.E.
 Schupp探討Artin群的性質，證明了四條定理。這些定理之前已知對考克斯特群成立，而他們證明對Artin群也成立。他們發現可以使用[小消去理論的技巧研究超大型Artin群和考克斯特群](https://zh.wikipedia.org/wiki/小消去理論 "wikilink")，並可以把技巧改進來用在那些大型的群中。
 
 他們證明的定理為：

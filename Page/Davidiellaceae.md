@@ -1,5 +1,5 @@
-**Davidiellaceae**是[真菌界](https://zh.wikipedia.org/wiki/真菌界 "wikilink")[座囊菌纲](https://zh.wikipedia.org/wiki/座囊菌纲 "wikilink")[煤炱目之下的其中一個科](../Page/煤炱目.md "wikilink")，目前未有中文名。
-本科是2006年才建立，是因為[分子](https://zh.wikipedia.org/wiki/分子系統發生學 "wikilink")[系统发生学的研究而創建](../Page/系统发生学.md "wikilink")，為了容納不能歸入其他科的***Davidiella***屬\[1\]以及其他[無性型](https://zh.wikipedia.org/wiki/無性型 "wikilink")（anamorph）的煤炱目真菌。
+**Davidiellaceae**是[真菌界](https://zh.wikipedia.org/wiki/真菌界 "wikilink")[座囊菌纲](https://zh.wikipedia.org/wiki/座囊菌纲 "wikilink")[煤炱目](../Page/煤炱目.md "wikilink")之下的其中一個科，目前未有中文名。
+本科是2006年才建立，是因為[分子](https://zh.wikipedia.org/wiki/分子系統發生學 "wikilink")[系统发生学](../Page/系统发生学.md "wikilink")的研究而創建，為了容納不能歸入其他科的***Davidiella***屬\[1\]以及其他[無性型](https://zh.wikipedia.org/wiki/無性型 "wikilink")（anamorph）的煤炱目真菌。
 
 ## 分類
 

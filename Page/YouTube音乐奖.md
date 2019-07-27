@@ -1,14 +1,14 @@
-**YouTube音乐奖**（，缩写为）是由[YouTube颁发的奖项](../Page/YouTube.md "wikilink")。奖项设立于2013年，设立目的是为了表彰优秀的[音乐录影带](https://zh.wikipedia.org/wiki/音乐录影带 "wikilink")。
+**YouTube音乐奖**（，缩写为）是由[YouTube](../Page/YouTube.md "wikilink")颁发的奖项。奖项设立于2013年，设立目的是为了表彰优秀的[音乐录影带](https://zh.wikipedia.org/wiki/音乐录影带 "wikilink")。
 
 ## 历史
 
-[YouTube于](../Page/YouTube.md "wikilink")2013年设立此奖项，首届颁奖典礼于2013年11月3日在[美国](../Page/美国.md "wikilink")[纽约市的Pier](https://zh.wikipedia.org/wiki/纽约市 "wikilink")
+[YouTube](../Page/YouTube.md "wikilink")于2013年设立此奖项，首届颁奖典礼于2013年11月3日在[美国](../Page/美国.md "wikilink")[纽约市的Pier](https://zh.wikipedia.org/wiki/纽约市 "wikilink")
 36举行，并在youtube.com/YTMA进行在线直播。包括[拱廊之火](../Page/拱廊之火.md "wikilink")、[琳賽·斯特林](https://zh.wikipedia.org/wiki/琳賽·斯特林 "wikilink")、[五聲音階](../Page/五聲音階_\(樂團\).md "wikilink")、[造物主泰勒](../Page/造物主泰勒.md "wikilink")、[女神卡卡及](../Page/Lady_Gaga.md "wikilink")[阿姆在内的多位艺人出席颁奖礼并表演](../Page/Eminem.md "wikilink")。颁奖典礼于[美国东部时间晚上](https://zh.wikipedia.org/wiki/美国东部时间 "wikilink")6点开始并持续了90分钟。\[1\]
 
-YouTube音乐奖的各个奖项均由歌迷投票选出，投票是通过[Facebook](../Page/Facebook.md "wikilink")、[Google+或](../Page/Google+.md "wikilink")[Twitter分享由youtube](../Page/Twitter.md "wikilink").com/YTMA提供的特殊链接的方式进行的。各个奖项中得票最高的音乐录影带即为获奖者。\[2\]
+YouTube音乐奖的各个奖项均由歌迷投票选出，投票是通过[Facebook](../Page/Facebook.md "wikilink")、[Google+](../Page/Google+.md "wikilink")或[Twitter](../Page/Twitter.md "wikilink")分享由youtube.com/YTMA提供的特殊链接的方式进行的。各个奖项中得票最高的音乐录影带即为获奖者。\[2\]
 
 2013年的颁奖典礼由[史派克·瓊茲导演](https://zh.wikipedia.org/wiki/史派克·瓊茲 "wikilink")。颁奖礼大部分是没有[腳本的脱稿表演](../Page/剧本.md "wikilink")，因为瓊茲希望颁奖礼本身“给人一种像YouTube影片一样的感觉，有制作过程中不事雕琢的杂乱感”。\[3\]\[4\]\[5\]
-。除了頒獎典禮之外，YouTube亦分別在[首爾](../Page/首爾.md "wikilink")、[東京](../Page/東京都.md "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[莫斯科和](../Page/莫斯科.md "wikilink")[里约热内卢舉辦暖身演唱會](../Page/里约热内卢.md "wikilink")，向全球网络直播。\[6\]
+。除了頒獎典禮之外，YouTube亦分別在[首爾](../Page/首爾.md "wikilink")、[東京](../Page/東京都.md "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[莫斯科](../Page/莫斯科.md "wikilink")和[里约热内卢](../Page/里约热内卢.md "wikilink")舉辦暖身演唱會，向全球网络直播。\[6\]
 
 2015年，YouTube举办了第二届YouTube音乐奖。YouTube于当年3月23日在网站上发布影片宣布奖项得主，视频由YouTube名人[泰勒·奥克利主播](https://zh.wikipedia.org/wiki/泰勒·奥克利 "wikilink")。本届奖项未设颁奖典礼。[Vice媒体担任颁奖影片的执行制作](https://zh.wikipedia.org/wiki/Vice媒体 "wikilink")。\[7\]\[8\]
 
@@ -51,7 +51,7 @@ YouTube音乐奖的各个奖项均由歌迷投票选出，投票是通过[Facebo
 
 ### 2013
 
-2013年10月21日，[YouTube公布了](../Page/YouTube.md "wikilink")6个奖项的提名。\[9\]
+2013年10月21日，[YouTube](../Page/YouTube.md "wikilink")公布了6个奖项的提名。\[9\]
 提名是根据自2012年9月起开始统计的视频观看次数、“-{zh-cn:顶;zh-tw:喜歡;zh-hk:喜歡}-”次数、分享数、评论数以及上传者订阅数确定的。\[10\]
 然而，YouTube并未公布各提名者的得票数。
 

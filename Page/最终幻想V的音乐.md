@@ -1,4 +1,4 @@
-电子游戏《[最终幻想V](../Page/最终幻想V.md "wikilink")》的音乐由系列主要作曲者[植松伸夫谱写](../Page/植松伸夫.md "wikilink")。《最终幻想V
+电子游戏《[最终幻想V](../Page/最终幻想V.md "wikilink")》的音乐由系列主要作曲者[植松伸夫](../Page/植松伸夫.md "wikilink")谱写。《最终幻想V
 原声音乐版》辑录了游戏中几乎全部音乐，其由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")/[NTT出版发行](https://zh.wikipedia.org/wiki/NTT出版 "wikilink")，并在后来由NTT出版再版。[改编专辑](https://zh.wikipedia.org/wiki/改编_\(音乐\) "wikilink")《最终幻想V
 亲爱的朋友》选录了数首游戏音乐，并以现场和声乐等多种风格改编，专辑有史克威尔/NTT出版发行，后由NTT出版再版。此外，由植松伸夫作曲，佐藤史郎编曲，森俊之演奏的钢琴编曲选集《钢琴选集
 最终幻想V》由史克威尔/NTT出版发行，后来由NTT出版再版。
@@ -13,7 +13,7 @@
 ## 最终幻想V 原声音乐版
 
 《最终幻想V
-原声音乐版》（）是《[最终幻想V](../Page/最终幻想V.md "wikilink")》的[电子游戏音乐](https://zh.wikipedia.org/wiki/电子游戏音乐 "wikilink")[原声](https://zh.wikipedia.org/wiki/原声 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。专辑收录了游戏的音乐曲目，由[植松伸夫作曲](../Page/植松伸夫.md "wikilink")、编曲、制作并演奏。专辑分为2碟，共67首曲目，计2小时8分30秒。专辑由史克威尔和NTT出版于1992年12月7日发行，目录号为N33D-013\~4，并由NTT出版于1994年11月26日和2004年10月1日再版，目录号分别是PSCN-5015\~6和NTPC-5015\~6\[3\]。
+原声音乐版》（）是《[最终幻想V](../Page/最终幻想V.md "wikilink")》的[电子游戏音乐](https://zh.wikipedia.org/wiki/电子游戏音乐 "wikilink")[原声](https://zh.wikipedia.org/wiki/原声 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。专辑收录了游戏的音乐曲目，由[植松伸夫](../Page/植松伸夫.md "wikilink")作曲、编曲、制作并演奏。专辑分为2碟，共67首曲目，计2小时8分30秒。专辑由史克威尔和NTT出版于1992年12月7日发行，目录号为N33D-013\~4，并由NTT出版于1994年11月26日和2004年10月1日再版，目录号分别是PSCN-5015\~6和NTPC-5015\~6\[3\]。
 
 1992年发行的[单曲](../Page/单曲.md "wikilink")《最终幻想V
 5+1》收录了原声中的《片头曲》、《最终幻想V主题曲》、《收获》、《迷宫》、《战斗1》，以及之前未发行的《[最终幻想](../Page/最终幻想_\(游戏\).md "wikilink")》音乐《玛托娅的洞窟》。单曲由NTT出版发行，目录号为N09D-012，计14分46秒\[4\]。单曲《最终幻想V
@@ -31,7 +31,7 @@ Central的杰里米·奥尔特也认为其可与植松的其他作品相提并�
 
 《最终幻想V
 亲爱的朋友》（）是《[最终幻想V](../Page/最终幻想V.md "wikilink")》原声音乐[改编专辑](https://zh.wikipedia.org/wiki/改编_\(音乐\) "wikilink")，其选录了游戏音乐曲目，并使用现场乐器与合成乐器改编。[Angelit和Ulla](https://zh.wikipedia.org/wiki/Angelit "wikilink")
-Pirttijärvi使用英语和[萨米语为数个曲目演唱声乐](../Page/萨米语.md "wikilink")。专辑收录14首曲目，计55分48秒。专辑由史克威尔和NTT出版于1993年3月25日首发，接着由NTT出版于1994年11月26日和2004年10月1日再版。初版目录号为N30D-017，初次再版目录号为PSCN-5018，二次再版目录号为NTCP-5018\[11\]。
+Pirttijärvi使用英语和[萨米语](../Page/萨米语.md "wikilink")为数个曲目演唱声乐。专辑收录14首曲目，计55分48秒。专辑由史克威尔和NTT出版于1993年3月25日首发，接着由NTT出版于1994年11月26日和2004年10月1日再版。初版目录号为N30D-017，初次再版目录号为PSCN-5018，二次再版目录号为NTCP-5018\[11\]。
 
 评论者给《最终幻想V 亲爱的朋友》不一的评价；评论认为其质量尚可，Jason
 Strohmaier发现合成乐器有一些问题，而RPGFan的弗雷迪·W在评论中也总结称，专辑是“意境、情感和思想的大杂烩，只会吸引那些喜爱《最终幻想V》之人”\[12\]\[13\]。
@@ -50,7 +50,7 @@ Strohmaier发现合成乐器有一些问题，而RPGFan的弗雷迪·W在评论�
 
 ## 影响
 
-将[最终幻想游戏音乐以](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[摇滚风格改编的乐团](https://zh.wikipedia.org/wiki/摇滚音乐 "wikilink")[黑魔导士改编了两首](../Page/黑魔导士.md "wikilink")《最终幻想V》乐曲：《大桥的死战》收录于2003年发行的[同名专辑](https://zh.wikipedia.org/wiki/黑魔导士_\(专辑\) "wikilink")，《最终战》的改编曲《尼奥·艾克斯迪斯》收录于2008年专辑《[黑暗与星光](https://zh.wikipedia.org/wiki/黑魔导士III_黑暗与星光 "wikilink")》\[17\]\[18\]。填词版《回忆的音乐盒》和《亲爱的朋友》由[大木理纱演唱](https://zh.wikipedia.org/wiki/大木理纱 "wikilink")，收录史克威尔制作合辑《[最终幻想声乐合辑I
+将[最终幻想游戏音乐以](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[摇滚风格改编的乐团](https://zh.wikipedia.org/wiki/摇滚音乐 "wikilink")[黑魔导士](../Page/黑魔导士.md "wikilink")改编了两首《最终幻想V》乐曲：《大桥的死战》收录于2003年发行的[同名专辑](https://zh.wikipedia.org/wiki/黑魔导士_\(专辑\) "wikilink")，《最终战》的改编曲《尼奥·艾克斯迪斯》收录于2008年专辑《[黑暗与星光](https://zh.wikipedia.org/wiki/黑魔导士III_黑暗与星光 "wikilink")》\[17\]\[18\]。填词版《回忆的音乐盒》和《亲爱的朋友》由[大木理纱演唱](https://zh.wikipedia.org/wiki/大木理纱 "wikilink")，收录史克威尔制作合辑《[最终幻想声乐合辑I
 －祈祷－](https://zh.wikipedia.org/wiki/最终幻想声乐合辑I_－祈祷－ "wikilink")》中\[19\]。此外填词版《那天终会到来》和《遥远的家乡》由大木理纱和野口郁子演唱，收录于《[最终幻想声乐合辑II
 “爱将成长”](https://zh.wikipedia.org/wiki/最终幻想声乐合辑II_“爱将成长” "wikilink")》中\[20\]。
 

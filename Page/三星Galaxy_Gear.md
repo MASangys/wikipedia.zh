@@ -1,5 +1,5 @@
 **Samsung Galaxy
-Gear**是一款[智慧型手錶](https://zh.wikipedia.org/wiki/智慧型手錶 "wikilink")，由[三星電子在](../Page/三星電子.md "wikilink")2013年9月4日在[柏林舉行的發表會上公開](../Page/柏林.md "wikilink")。\[1\]這款手錶只能與[Galaxy
+Gear**是一款[智慧型手錶](https://zh.wikipedia.org/wiki/智慧型手錶 "wikilink")，由[三星電子](../Page/三星電子.md "wikilink")在2013年9月4日在[柏林](../Page/柏林.md "wikilink")舉行的發表會上公開。\[1\]這款手錶只能與[Galaxy
 Note 3和](https://zh.wikipedia.org/wiki/Galaxy_Note_3 "wikilink")[Galaxy
 Note 10.1 2014
 Edition搭配使用](https://zh.wikipedia.org/wiki/Galaxy_Note_10.1_2014_Edition "wikilink")，[Galaxy
@@ -32,13 +32,13 @@ Samsung Galaxy Gear於2013年9月25日在超過140個國家上市，並隨後於
 
 Galaxy
 Gear推出後受到不少批評，其中[美聯社記者試用後發現Galaxy](https://zh.wikipedia.org/wiki/美聯社 "wikilink")
-Gear的語音指令服務反應緩慢，同時伴隨許多轉譯錯誤，操作困難：「目前為止，Gear像是一款300[美元的雛形機](../Page/美元.md "wikilink")，感覺上，三星似乎急急忙忙推出這個產品，趕搭假日購物潮那樣。」又指產品有電池續航不足、功能太少、價格太高、相容性有限等多項缺點。\[10\]亦有評論認為Gear手錶「為搶風頭，研發僅用三個月，錶盤周圍的螺絲更是在發佈會前幾天才最終定型，如此一款速成產品自然問題百出。」\[11\]而[紐約時報科技專欄作家大衛](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")-波格則表示：“沒有人會選購這款手錶，而且也不應該選購這款手錶。”
+Gear的語音指令服務反應緩慢，同時伴隨許多轉譯錯誤，操作困難：「目前為止，Gear像是一款300[美元](../Page/美元.md "wikilink")的雛形機，感覺上，三星似乎急急忙忙推出這個產品，趕搭假日購物潮那樣。」又指產品有電池續航不足、功能太少、價格太高、相容性有限等多項缺點。\[10\]亦有評論認為Gear手錶「為搶風頭，研發僅用三個月，錶盤周圍的螺絲更是在發佈會前幾天才最終定型，如此一款速成產品自然問題百出。」\[11\]而[紐約時報科技專欄作家大衛](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")-波格則表示：“沒有人會選購這款手錶，而且也不應該選購這款手錶。”
 他又認為從軟體設計、用戶指南，到英文翻譯和設計一致性，Galaxy
 Gear都是“糟糕的人機介面”\[12\]。的評論將其形容為「比起真正要滿足顧客的需求，這個產品更大程度上好像是為了應對蘋果公司的威脅而製造出來的」（It
 feels like a device built reflexively out of the threat of Apple's
 eventual smartwatch, rather than to fulfill an actual consumer
 need）\[13\]。[新華社亦引述三星一位高層指三星也承認Galaxy](https://zh.wikipedia.org/wiki/新華社 "wikilink")
-Gear缺乏關鍵性的創新\[14\]。美國[諾基亞更曾在其](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Twitter上嘲弄三星的智慧型手錶](../Page/Twitter.md "wikilink")[Galaxy
+Gear缺乏關鍵性的創新\[14\]。美國[諾基亞更曾在其](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Twitter](../Page/Twitter.md "wikilink")上嘲弄三星的智慧型手錶[Galaxy
 Gear太](https://zh.wikipedia.org/wiki/Galaxy_Gear "wikilink")「2013年」，並建議三星在2014年帶來有插頭和可以放光碟「智慧型鞋子」，引使美國三星以粗口「go
 fuck yourself」回罵，並被批評「沒品」\[15\]。
 

@@ -1,4 +1,4 @@
-**ZE:A-FIVE**是以演唱為主的五人小分隊，由[ZE:A成員](../Page/ZE:A.md "wikilink")[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")(Kevin)、[時完](../Page/時完.md "wikilink")、[旼佑](../Page/旼佑.md "wikilink")、[炯植和](../Page/朴炯植.md "wikilink")[桐俊所組成](https://zh.wikipedia.org/wiki/桐俊 "wikilink")。ZE:A-FIVE原本只打算進軍日本，在日本舉行活動，並於2月7日發行首張日文單曲《The
+**ZE:A-FIVE**是以演唱為主的五人小分隊，由[ZE:A](../Page/ZE:A.md "wikilink")成員[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")(Kevin)、[時完](../Page/時完.md "wikilink")、[旼佑](../Page/旼佑.md "wikilink")、[炯植和](../Page/朴炯植.md "wikilink")[桐俊所組成](https://zh.wikipedia.org/wiki/桐俊 "wikilink")。ZE:A-FIVE原本只打算進軍日本，在日本舉行活動，並於2月7日發行首張日文單曲《The
 Classic》。但他們在日本發行的新專輯《The
 Classic》得到意想不到的好成績。3月初，ZE:A-FIVE在日本首先公開亮相時，便與日本組合KAT-TUN分別佔據了日本公信榜的第1、2名，吸引眾人目光。同時，在韓國國內進行正式活動前，ZE:A-FIVE便已在MELON、BUGS
 MUSIC等各大音樂網站J-POP排行榜中，排名第一位，預示著向成功不斷邁進之中。

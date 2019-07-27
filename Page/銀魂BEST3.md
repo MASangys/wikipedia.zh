@@ -1,4 +1,4 @@
-《**銀魂BEST3**》是[東京電視台系](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")》和[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《[銀魂完結篇：永遠的萬事屋](../Page/銀魂劇場版_完結篇_永遠的萬事屋.md "wikilink")》的[主題曲合輯](../Page/主題曲.md "wikilink")。於2013年11月27日由[Aniplex發行](../Page/Aniplex.md "wikilink")。收錄自2011年6月到動畫第五期播放結束的主題曲及劇場版的主題曲合輯（全12首）。是繼[銀魂BEST2之後銀魂動畫的第三張主題歌合輯](../Page/銀魂BEST2.md "wikilink")。
+《**銀魂BEST3**》是[東京電視台](../Page/東京電視台.md "wikilink")系[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")》和[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《[銀魂完結篇：永遠的萬事屋](../Page/銀魂劇場版_完結篇_永遠的萬事屋.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")合輯。於2013年11月27日由[Aniplex](../Page/Aniplex.md "wikilink")發行。收錄自2011年6月到動畫第五期播放結束的主題曲及劇場版的主題曲合輯（全12首）。是繼[銀魂BEST2](../Page/銀魂BEST2.md "wikilink")之後銀魂動畫的第三張主題歌合輯。
 
 本專輯榮獲[第28回日本金唱片大獎最佳動畫專輯](../Page/日本金唱片大獎.md "wikilink")。
 

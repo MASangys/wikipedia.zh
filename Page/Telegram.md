@@ -1,24 +1,24 @@
-**Telegram**是一個[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[即時通訊软件](../Page/即時通訊.md "wikilink")，它的[客户端是](https://zh.wikipedia.org/wiki/客户端 "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，但是它的[服务器是](../Page/服务器.md "wikilink")[专有软件](https://zh.wikipedia.org/wiki/私有軟體 "wikilink")。使用者可以相互交換加密與自毁訊息，傳送[相片](../Page/相片.md "wikilink")、[影片等所有類型檔案](https://zh.wikipedia.org/wiki/視像 "wikilink")。官方提供手機版（[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Windows
+**Telegram**是一個[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")软件，它的[客户端是](https://zh.wikipedia.org/wiki/客户端 "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，但是它的[服务器](../Page/服务器.md "wikilink")是[专有软件](https://zh.wikipedia.org/wiki/私有軟體 "wikilink")。使用者可以相互交換加密與自毁訊息，傳送[相片](../Page/相片.md "wikilink")、[影片等所有類型檔案](https://zh.wikipedia.org/wiki/視像 "wikilink")。官方提供手機版（[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")）、桌面版（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")）和網頁版\[1\]等多種平台用戶端；同时官方开放[应用程序接口](../Page/应用程序接口.md "wikilink")，因此擁有許多第三方的客户端\[2\]可供選擇，其中多款內建中文。
 
 ## 歷史
 
-它在2013年由杜洛夫兄弟正式启用，也就是[尼古拉·杜洛夫與](../Page/尼古拉·杜洛夫.md "wikilink")[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")，[俄罗斯最大的](../Page/俄罗斯.md "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")[VKontakte的創始者](../Page/VKontakte.md "wikilink")\[3\]。Telegram
+它在2013年由杜洛夫兄弟正式启用，也就是[尼古拉·杜洛夫](../Page/尼古拉·杜洛夫.md "wikilink")與[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")，[俄罗斯](../Page/俄罗斯.md "wikilink")最大的[社交網路服務](../Page/社交網路服務.md "wikilink")[VKontakte](../Page/VKontakte.md "wikilink")的創始者\[3\]。Telegram
 Messenger
-LLP是獨立的非營利公司，設立在[柏林](../Page/柏林.md "wikilink")，而且與[VKontakte毫無關聯](../Page/VKontakte.md "wikilink")\[4\]。[尼古拉·杜洛夫為它設計新的](../Page/尼古拉·杜洛夫.md "wikilink")[网络传输协议稱為MTProto](../Page/网络传输协议.md "wikilink")，同時[保羅·杜洛夫自數位堡壘公司提供資金與基礎設備](../Page/保羅·杜洛夫.md "wikilink")\[5\]。
+LLP是獨立的非營利公司，設立在[柏林](../Page/柏林.md "wikilink")，而且與[VKontakte](../Page/VKontakte.md "wikilink")毫無關聯\[4\]。[尼古拉·杜洛夫](../Page/尼古拉·杜洛夫.md "wikilink")為它設計新的[网络传输协议](../Page/网络传输协议.md "wikilink")稱為MTProto，同時[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")自數位堡壘公司提供資金與基礎設備\[5\]。
 
 在2013年10月的統計，每日有10萬名使用者在線上活動\[6\]。在2016年2月，官方宣稱突破一億月活躍使用者\[7\]，而且每日有 150
 億訊息在傳遞\[8\]。
 
 ### 競賽
 
-  - 2013年12月19日，它的贊助人[保羅·杜洛夫宣佈只要有任何人成功破解已攔截的通話訊息](../Page/保羅·杜洛夫.md "wikilink")，他願意提供价值20萬美元的[比特幣做為獎金](https://zh.wikipedia.org/wiki/比特幣 "wikilink")\[9\]\[10\]。
-  - 2013年12月21日，一名[信息技術社群的使用者發現它的](https://zh.wikipedia.org/wiki/信息技術 "wikilink")[信息安全問題](../Page/信息安全.md "wikilink")。在修正之後，他得到了10萬[美元獎金](../Page/美元.md "wikilink")\[11\]。
+  - 2013年12月19日，它的贊助人[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")宣佈只要有任何人成功破解已攔截的通話訊息，他願意提供价值20萬美元的[比特幣做為獎金](https://zh.wikipedia.org/wiki/比特幣 "wikilink")\[9\]\[10\]。
+  - 2013年12月21日，一名[信息技術社群的使用者發現它的](https://zh.wikipedia.org/wiki/信息技術 "wikilink")[信息安全](../Page/信息安全.md "wikilink")問題。在修正之後，他得到了10萬[美元](../Page/美元.md "wikilink")獎金\[11\]。
   - 2014年3月1日，首場競賽沒有任何贏家，而且官方公佈解密方法\[12\]。官方宣稱有多名挑戰者破解它的權限管理，而且還宣佈會做好更多的準備來迎接下一次的競賽\[13\]\[14\]。
 
 ### 活躍人數
 
-[SPIM_on_Telegram.png](https://zh.wikipedia.org/wiki/File:SPIM_on_Telegram.png "fig:SPIM_on_Telegram.png")广告（中文用户群体称之为“[清真广告](../Page/清真.md "wikilink")”）在群组[刷屏](https://zh.wikipedia.org/wiki/刷屏 "wikilink")。另有常见的中文垃圾广告“电报拉人”。\]\]
+[SPIM_on_Telegram.png](https://zh.wikipedia.org/wiki/File:SPIM_on_Telegram.png "fig:SPIM_on_Telegram.png")广告（中文用户群体称之为“[清真](../Page/清真.md "wikilink")广告”）在群组[刷屏](https://zh.wikipedia.org/wiki/刷屏 "wikilink")。另有常见的中文垃圾广告“电报拉人”。\]\]
 
   - 2013年10月，Telegram每天有10萬活躍用戶\[15\]。
   - 2014年3月，Telegram公布其服務分別已達到每月3500萬活躍用戶和每日1500萬活躍用戶\[16\]。
@@ -42,7 +42,7 @@ Telegram 亞洲區停擺一小時。
 
 [Explanation_of_secret_chats_(Telegram).png](https://zh.wikipedia.org/wiki/File:Explanation_of_secret_chats_\(Telegram\).png "fig:Explanation_of_secret_chats_(Telegram).png")
 [Telegram_secret_chat_-_en.png](https://zh.wikipedia.org/wiki/File:Telegram_secret_chat_-_en.png "fig:Telegram_secret_chat_-_en.png")）\]\]
-官方宣稱它具有強大的通訊安全特性，與其他以為主的[即時通訊軟體例如](../Page/即時通訊.md "wikilink")[WhatsApp與](../Page/WhatsApp.md "wikilink")[连我相互比較](https://zh.wikipedia.org/wiki/连我 "wikilink")，它更安全。
+官方宣稱它具有強大的通訊安全特性，與其他以為主的[即時通訊](../Page/即時通訊.md "wikilink")軟體例如[WhatsApp](../Page/WhatsApp.md "wikilink")與[连我相互比較](https://zh.wikipedia.org/wiki/连我 "wikilink")，它更安全。
 
 它把聊天管道分為兩種型態，如下所示：
 
@@ -57,9 +57,9 @@ Telegram 亞洲區停擺一小時。
 
 主要特性如下所示：
 
-  - 經由專用的MTProto[网络传输协议](../Page/网络传输协议.md "wikilink")，以對稱式[-{zh-cn:高级加密;zh-tw:進階加密;zh-hk:高階加密;}-标准256位元](../Page/高级加密标准.md "wikilink")（AES）、[RSA加密演算法2048位元與](../Page/RSA加密演算法.md "wikilink")[迪菲－赫尔曼密钥交换為基礎的加密方法](https://zh.wikipedia.org/wiki/迪菲－赫尔曼密钥交换 "wikilink")\[30\]\[31\]\[32\]\[33\]。
+  - 經由專用的MTProto[网络传输协议](../Page/网络传输协议.md "wikilink")，以對稱式[-{zh-cn:高级加密;zh-tw:進階加密;zh-hk:高階加密;}-标准256位元](../Page/高级加密标准.md "wikilink")（AES）、[RSA加密演算法](../Page/RSA加密演算法.md "wikilink")2048位元與[迪菲－赫尔曼密钥交换為基礎的加密方法](https://zh.wikipedia.org/wiki/迪菲－赫尔曼密钥交换 "wikilink")\[30\]\[31\]\[32\]\[33\]。
   - 聊天歷史會被儲存在 Telegram 雲端，而且可以使用多個裝置登入并同步聊天历史。
-  - 它被區分為[智能手机版](../Page/智能手机.md "wikilink")、[个人电脑版](../Page/个人电脑.md "wikilink")、[网页浏览器延伸版與非官方](../Page/网页浏览器.md "wikilink")[智能手机版](../Page/智能手机.md "wikilink")\[34\]。
+  - 它被區分為[智能手机](../Page/智能手机.md "wikilink")版、[个人电脑](../Page/个人电脑.md "wikilink")版、[网页浏览器](../Page/网页浏览器.md "wikilink")延伸版與非官方[智能手机](../Page/智能手机.md "wikilink")版\[34\]。
   - 可以傳送語音、照片、影片以及所有的[檔案格式](../Page/檔案格式.md "wikilink")。
   - 群組聊天（群組服務）起初最多可以支援到200名成員\[35\]，2015年11月底，擴增為1000名成員\[36\]\[37\]，2016年3月中旬上增人數到5000名成員\[38\]，2017年6月底增至10000名成員\[39\]，時至今日，已支援
     100,000 人，並有眾多群組達到此限制。
@@ -71,9 +71,9 @@ Telegram 亞洲區停擺一小時。
   - 進行祕密聊天的訊息可選擇定時自動銷毀，像 [Snapchat](../Page/Snapchat.md "wikilink") 一樣。
   - 訊息的讀取狀態分為兩種：一只对勾代表傳送完毕，二只对勾代表消息已获讀取\[42\]。
 
-所有經由MTProto[网络传输协议的聊天通訊都會被加密](../Page/网络传输协议.md "wikilink")，這個專用的MTProto是由[尼古拉·杜洛夫研發](../Page/尼古拉·杜洛夫.md "wikilink")。
+所有經由MTProto[网络传输协议](../Page/网络传输协议.md "wikilink")的聊天通訊都會被加密，這個專用的MTProto是由[尼古拉·杜洛夫](../Page/尼古拉·杜洛夫.md "wikilink")研發。
 
-官方發行的用戶端軟體與部分的非官方用戶端是屬於[开放源代码](../Page/开放源代码.md "wikilink")\[43\]。然而，它的伺服器端軟體是屬於封闭原始碼的專有軟體。[保羅·杜洛夫提到伺服器端原始碼不是](../Page/保羅·杜洛夫.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，原因在於，為了允許獨立的伺服器成為Telegram雲端的一部分，它在架構的部分需要重新設計\[44\]。
+官方發行的用戶端軟體與部分的非官方用戶端是屬於[开放源代码](../Page/开放源代码.md "wikilink")\[43\]。然而，它的伺服器端軟體是屬於封闭原始碼的專有軟體。[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")提到伺服器端原始碼不是[自由软件](../Page/自由软件.md "wikilink")，原因在於，為了允許獨立的伺服器成為Telegram雲端的一部分，它在架構的部分需要重新設計\[44\]。
 
 一部分的加密社群成員包含資訊安全研究人員與泰勒·烘比（）\[45\]都曾經批評它的加密競賽與專用的MTProto[网络传输协议](../Page/网络传输协议.md "wikilink")\[46\]\[47\]\[48\]\[49\]\[50\]。
 [Telegram_account_self-destruction.png](https://zh.wikipedia.org/wiki/File:Telegram_account_self-destruction.png "fig:Telegram_account_self-destruction.png")
@@ -84,7 +84,7 @@ Telegram 亞洲區停擺一小時。
 ### 秘密聊天
 
 [Encryption_key_in_Telegram.jpg](https://zh.wikipedia.org/wiki/File:Encryption_key_in_Telegram.jpg "fig:Encryption_key_in_Telegram.jpg")
-秘密聊天是專為那些比一般人希望獲得更高安全性的人們所設計的功能。秘密聊天的內容全部都是以直接的[端到端加密來傳輸](../Page/端到端加密.md "wikilink")。這代表只有你與秘密聊天的對方，才能讀取到這些聊天訊息
+秘密聊天是專為那些比一般人希望獲得更高安全性的人們所設計的功能。秘密聊天的內容全部都是以直接的[端到端加密](../Page/端到端加密.md "wikilink")來傳輸。這代表只有你與秘密聊天的對方，才能讀取到這些聊天訊息
 － 沒有任何其他人可以破解它們，包含 Telegram
 團隊本身。此外，秘密聊天訊息也無法被轉寄。而你也可藉由設定在對方讀取訊息後的特定時間，自動銷毀訊息內容，這樣一來不論你或者對方裝置上的該訊息就會永久消失。
 
@@ -107,7 +107,7 @@ Telegram
 
 2017年3月，Telegram 官方應用程式新增了[語音通話功能](../Page/VoIP.md "wikilink")\[54\]。
 
-這採用了跟[祕密聊天相同的](https://zh.wikipedia.org/wiki/#祕密聊天 "wikilink")[端到端加密技術](../Page/端到端加密.md "wikilink")，在網路環境許可的情況下，會採用端對端傳輸，否則會經由最近的伺服器連線。
+這採用了跟[祕密聊天相同的](https://zh.wikipedia.org/wiki/#祕密聊天 "wikilink")[端到端加密](../Page/端到端加密.md "wikilink")技術，在網路環境許可的情況下，會採用端對端傳輸，否則會經由最近的伺服器連線。
 
 ### 即時查看
 
@@ -168,24 +168,24 @@ Telegram
 
 2015年7月10日後，公司CEO於[推特上曾多次说道其服務遭受攻擊](https://zh.wikipedia.org/wiki/推特 "wikilink")，开发者於同年7月24日在其博客上宣布，该服务在该月10至12日被来自[东亚的攻击者](https://zh.wikipedia.org/wiki/东亚 "wikilink")[分布式拒绝服务攻击](https://zh.wikipedia.org/wiki/分布式拒绝服务攻击 "wikilink")（DDoS）\[58\]\[59\]\[60\]\[61\]，同时[中华人民共和国政府封锁了该服务](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")。据悉，此行为与攻击行为在时间上高度相关\[62\]。
 
-[2017－2018年伊朗示威后](../Page/2017－2018年伊朗示威.md "wikilink")，一家[德黑兰法院认为Telegram在抗议活动中发挥作用](../Page/德黑兰.md "wikilink")，于是发布命令禁止伊朗民众使用Telegram\[63\]。
+[2017－2018年伊朗示威](../Page/2017－2018年伊朗示威.md "wikilink")后，一家[德黑兰](../Page/德黑兰.md "wikilink")法院认为Telegram在抗议活动中发挥作用，于是发布命令禁止伊朗民众使用Telegram\[63\]。
 
 2018年3月，俄罗斯最高法院驳回Telegram的上诉，并裁定Telegram有义务授权安全部门获取用户的消息等信息\[64\]。同年4月，因为Telegram一直拒绝交出密钥，俄罗斯媒体监管机构请求法庭在全国范围内封锁Telegram\[65\]。
 
 Telegram CEO
 在5月尾帖文表示俄羅斯表示要封鎖Telegram之後，[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
-就停止批審Telegram提交的更新版本，導致應用程式在全球所有地區均無法通過更新審查\[66\]。由於重要的安全补丁和错误修复無法更新，[iPhone用户处于风险当中](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[67\]。
+就停止批審Telegram提交的更新版本，導致應用程式在全球所有地區均無法通過更新審查。由於重要的安全补丁和错误修复無法更新，[iPhone用户处于风险当中](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[66\]。
 
-2019年6月12日，[反對逃犯條例修訂草案佔領行動期间](../Page/反對逃犯條例修訂草案佔領行動.md "wikilink")，香港很多抗议者使用Telegram这个社交媒体来逃避电子监视，协调他们反对“逃犯条例”的抗议示威活动。当天，Telegram遭受“强大的”[分散式阻断服务攻击](https://zh.wikipedia.org/wiki/分散式阻断服务 "wikilink")。黑客通过发送大量垃圾请求，试图瘫痪目标伺服器，其中大部分请求来自中国\[68\]\[69\]。
+2019年6月，[反對逃犯條例修訂草案運動期间](https://zh.wikipedia.org/wiki/反對逃犯條例修訂草案運動 "wikilink")，香港的很多抗议者使用Telegram这个社交媒体来逃避电子监视，协调他们反对“逃犯条例”的抗议示威活动。\[67\]11日晚，[香港警方以涉嫌](https://zh.wikipedia.org/wiki/香港警方 "wikilink")「串謀公眾妨擾罪」为由逮捕了某反送中讨论群的一名管理员。\[68\]\[69\]\[70\]\[71\]次日，Telegram遭受“强大的”[分散式阻断服务攻击](https://zh.wikipedia.org/wiki/分散式阻断服务 "wikilink")。黑客通过发送大量垃圾请求，试图瘫痪目标伺服器，其中大部分请求来自中国\[72\]\[73\]\[74\]\[75\]\[76\]\[77\]。
 
 ### 牽涉恐怖活動
 
-2015年11月，由於[伊斯蘭國](https://zh.wikipedia.org/wiki/伊斯蘭國 "wikilink")（ISIS）相關組織使用頻繁，Telegram移除了近250個所使用廣播頻道，並封鎖其所屬帳號\[70\]\[71\]並且持續每天移除近百頻道\[72\]。
+2015年11月，由於[伊斯蘭國](https://zh.wikipedia.org/wiki/伊斯蘭國 "wikilink")（ISIS）相關組織使用頻繁，Telegram移除了近250個所使用廣播頻道，並封鎖其所屬帳號\[78\]\[79\]並且持續每天移除近百頻道\[80\]。
 
 ### 色情、侵犯版權的內容的限制
 
-[Telegram_Messenger_blocks_pornoraphic_content_on_iOS.jpg](https://zh.wikipedia.org/wiki/File:Telegram_Messenger_blocks_pornoraphic_content_on_iOS.jpg "fig:Telegram_Messenger_blocks_pornoraphic_content_on_iOS.jpg")
-強調不鼓勵色情內容、侵犯版權的內容存在\[73\]\[74\]。
+[Telegram_Messenger_for_iOS_blocks_pornographic_content.jpg](https://zh.wikipedia.org/wiki/File:Telegram_Messenger_for_iOS_blocks_pornographic_content.jpg "fig:Telegram_Messenger_for_iOS_blocks_pornographic_content.jpg")
+強調不鼓勵色情內容、侵犯版權的內容存在\[81\]\[82\]。
 
 除使用者舉報的色情群組、頻道於 iOS、macOS 設備無法觀看外，尚無出現官方任意審查或下架頻道的情況。
 
@@ -357,20 +357,33 @@ Telegram CEO
 
 65.
 
-66. [Telegram CEO：蘋果正封鎖 Telegram
-    全球的更新](https://www.newmobilelife.com/2018/05/31/appstore-block-telegram-updating/)流動日報
-    2018-05-31
-
-67. [Telegram：苹果在全球范围内拒绝我们提交应用更新](https://cn.technode.com/post/2018-05-31/telegram-apple-app-store-updates/)
+66. [Telegram：苹果在全球范围内拒绝我们提交应用更新](https://cn.technode.com/post/2018-05-31/telegram-apple-app-store-updates/)
      动点科技 2018-05-31
 
+67.
 68.
 
 69.
 
 70.
+
 71.
-72. \[//t.me/ISISwatch ISIS Watch\]的Telegram頻道（需安裝Telegram）
+
+72.
 
 73.
+
 74.
+
+75.
+
+76.
+
+77.
+
+78.
+79.
+80. \[//t.me/ISISwatch ISIS Watch\]的Telegram頻道（需安裝Telegram）
+
+81.
+82.

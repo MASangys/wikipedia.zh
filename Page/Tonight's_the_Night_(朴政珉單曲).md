@@ -1,5 +1,5 @@
 **《Tonight's the
-Night》**是韓國人氣男子組合[SS501成員](../Page/SS501.md "wikilink")[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年10月31日由[Victor
+Night》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年10月31日由[Victor
 Entertainment旗下Colourful](../Page/勝利娛樂.md "wikilink")
 Records\[1\]所發行的第二張個人日文單曲。
 
@@ -101,7 +101,7 @@ the Night〉、〈Dream Out Loud〉等兩首曲目的付費下載音源\[5\]。
     KARAOKEE CHART TOP 20」OA情報 （2012/10/03）　
   - [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") 「MTV × DAM
     KARAOKEE CHART TOP 20 supported by 第一興商」ROMEO スタジオゲスト （2012/10/06）
-  - [富士電視台CS](../Page/富士電視台.md "wikilink")
+  - [富士電視台](../Page/富士電視台.md "wikilink")CS
     『韓タメ！POP』「朴政珉變身神秘人物＂ROMEO＂」OA情報
     （2012/11/16）
 

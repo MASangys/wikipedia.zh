@@ -3,15 +3,15 @@ SmackDown**，或簡稱**SmackDown**），是[美國](https://zh.wikipedia.org/w
 
 WWE SmackDown於1999年開始播出，一開始，WWE SmackDown是於星期四播出；但從2005年開始，皆在星期五播出。WWE
 SmackDown最初在1999年4月29日於美國[UPN電視網首播](https://zh.wikipedia.org/wiki/UPN電視網 "wikilink")，但就在UPN電視網與[WB電視網](../Page/WB電視網.md "wikilink")[合併後](https://zh.wikipedia.org/wiki/合併 "wikilink")，2006年，WWE
-SmackDown改於[CW電視網播出](../Page/CW電視網.md "wikilink")。2008年10月，\[1\]\[2\]WWE
+SmackDown改於[CW電視網](../Page/CW電視網.md "wikilink")播出。2008年10月，\[1\]\[2\]WWE
 SmackDown將轉播權移交至[MyNetworkTV](https://zh.wikipedia.org/wiki/MyNetworkTV "wikilink")。2010年10月1日，WWE
 SmackDown將轉播權移交至[Syfy](../Page/Syfy.md "wikilink")。\[3\]\[4\]
 
 自第一集播出以來，WWE
-SmackDown已經在162個地區、147座城市集七個國家播出（美國、[加拿大](../Page/加拿大.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[伊拉克於](../Page/伊拉克.md "wikilink")2006年和2007年的悼念軍人特集、[日本於](../Page/日本.md "wikilink")2005年、[義大利於](https://zh.wikipedia.org/wiki/義大利 "wikilink")2007年、[墨西哥於](../Page/墨西哥.md "wikilink")2011年）。
+SmackDown已經在162個地區、147座城市集七個國家播出（美國、[加拿大](../Page/加拿大.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")於2006年和2007年的悼念軍人特集、[日本](../Page/日本.md "wikilink")於2005年、[義大利於](https://zh.wikipedia.org/wiki/義大利 "wikilink")2007年、[墨西哥](../Page/墨西哥.md "wikilink")於2011年）。
 
 由於[時差的關係](https://zh.wikipedia.org/wiki/時差 "wikilink")，WWE
-SmackDown的播出會比[愛爾蘭和英國早幾個小時](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")，比[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[菲律賓和](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[印度早一天](../Page/印度.md "wikilink")。
+SmackDown的播出會比[愛爾蘭和英國早幾個小時](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")，比[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[菲律賓和](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[印度](../Page/印度.md "wikilink")早一天。
 
 WWE SmackDown原本是和另一間職業摔角公司世界冠軍摔角（World Champion
 Wrestling）所制作的節目Thunder相競爭的節目，和世界摔角娛樂公司的其他節目制作不同，它不是一個直播節目，而是一個錄影節目。目前WWE
@@ -30,8 +30,7 @@ Smackdown Live。並且將恢復從2011年取消的品牌選手概念制，兩�
         Kingston](https://zh.wikipedia.org/wiki/Kofi_Kingston "wikilink")
   - [WWE
     SmackDown女子冠軍](https://zh.wikipedia.org/wiki/WWE_SmackDown女子冠軍 "wikilink")
-      - [Becky
-        lynch](https://en.m.wikipedia.org/wiki/Asuka_\(wrestler\))
+      - [Bayley](https://en.m.wikipedia.org/wiki/Bayley_\(wrestler\))
   - [WWE洲際冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")
       - [Finn
         Balor](https://zh.wikipedia.org/wiki/Finn_Balor "wikilink")
@@ -103,12 +102,12 @@ Smackdown Live。並且將恢復從2011年取消的品牌選手概念制，兩�
   -
 ### 團體組合
 
-  - （[席莫斯和](../Page/席莫斯.md "wikilink")[安東尼奧·希薩羅](https://zh.wikipedia.org/wiki/安東尼奧·希薩羅 "wikilink")）
+  - （[席莫斯](../Page/席莫斯.md "wikilink")和[安東尼奧·希薩羅](https://zh.wikipedia.org/wiki/安東尼奧·希薩羅 "wikilink")）
 
   - （[埃爾伊克·洛望和](https://zh.wikipedia.org/wiki/埃爾伊克·洛望 "wikilink")[盧克·哈波爾](../Page/盧克·哈波爾.md "wikilink")）
 
   - （[Big
-    E](../Page/Big_E.md "wikilink")、[科菲·京斯頓和](../Page/科菲·京斯頓.md "wikilink")）
+    E](../Page/Big_E.md "wikilink")、[科菲·京斯頓](../Page/科菲·京斯頓.md "wikilink")和）
 
   - （、、和）
 

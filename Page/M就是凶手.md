@@ -1,4 +1,4 @@
-《**M就是凶手**》（）是一部1931年的德国[剧情](https://zh.wikipedia.org/wiki/劇情片 "wikilink")[惊悚电影](../Page/驚悚片.md "wikilink")，由[弗里茨·朗执导](../Page/弗里茨·朗.md "wikilink")，[彼得·罗主演](../Page/彼得·罗.md "wikilink")。该片由朗和他的妻子编剧，是朗的第一部[有声电影](https://zh.wikipedia.org/wiki/有声电影 "wikilink")。在此之前，他已经导演了数十部电影\[1\]。
+《**M就是凶手**》（）是一部1931年的德国[剧情](https://zh.wikipedia.org/wiki/劇情片 "wikilink")[惊悚电影](../Page/驚悚片.md "wikilink")，由[弗里茨·朗](../Page/弗里茨·朗.md "wikilink")执导，[彼得·罗](../Page/彼得·罗.md "wikilink")主演。该片由朗和他的妻子编剧，是朗的第一部[有声电影](https://zh.wikipedia.org/wiki/有声电影 "wikilink")。在此之前，他已经导演了数十部电影\[1\]。
 
 本片已成为了一部影史经典电影，朗自己也认为这是他最好的作品。\[2\]\[3\]
 

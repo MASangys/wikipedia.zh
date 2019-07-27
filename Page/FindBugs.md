@@ -10,7 +10,7 @@ license = [GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "
 <http://findbugs.sourceforge.net/> }}
 
 **FindBugs**是由Bill Pugh和David
-Hovemeyer创建的[开源程序](https://zh.wikipedia.org/wiki/开源 "wikilink")，用来查找[Java代码中的程序错误](../Page/Java.md "wikilink")。\[1\]\[2\]它使用[静态分析](https://zh.wikipedia.org/wiki/静态代码分析 "wikilink")\[3\]\[4\]来识别Java程序中上百种不同类型的潜在错误。潜在错误可分为四个等级：恐怖的（scariest）、吓人的（scary）、令人困扰的（troubling）和值得关注的（of
+Hovemeyer创建的[开源程序](https://zh.wikipedia.org/wiki/开源 "wikilink")，用来查找[Java](../Page/Java.md "wikilink")代码中的程序错误。\[1\]\[2\]它使用[静态分析](https://zh.wikipedia.org/wiki/静态代码分析 "wikilink")\[3\]\[4\]来识别Java程序中上百种不同类型的潜在错误。潜在错误可分为四个等级：恐怖的（scariest）、吓人的（scary）、令人困扰的（troubling）和值得关注的（of
 concern），这是根据其可能产生的影响或严重程度，而对开发者的提示。\[5\]FindBugs操作的是[Java字节码](../Page/Java字节码.md "wikilink")，\[6\]而非源代码。软件作为一个独立的[图形化应用程序分发](../Page/图形用户界面.md "wikilink")。\[7\]
 [Eclipse](../Page/Eclipse.md "wikilink")\[8\]、NetBeans\[9\]、IntelliJ
 IDEA\[10\]\[11\]\[12\]、[Gradle](../Page/Gradle.md "wikilink")、[Hudson](https://zh.wikipedia.org/wiki/Hudson "wikilink")\[13\]和[Jenkins](https://zh.wikipedia.org/wiki/Jenkins "wikilink")\[14\]有可用的FindBugs插件。

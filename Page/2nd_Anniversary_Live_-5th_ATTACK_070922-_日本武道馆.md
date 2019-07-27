@@ -1,5 +1,5 @@
 「**2nd Anniversary Live -5th ATTACK 070922-
-日本武道馆**」是[日本的](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2008年1月8日推出的DVD，由[avex
+日本武道馆**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2008年1月8日推出的DVD，由[avex
 trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。首次以DVD跟HD
 DVD兩種型態發售。
 
@@ -8,7 +8,7 @@ DVD兩種型態發售。
   - 與上一張DVD「[4th ATTACK at SHIBUYA-AX on 4th of
     April](../Page/4th_ATTACK_at_SHIBUYA-AX_on_4th_of_April.md "wikilink")」相距約5個月。
   - 「2nd Anniversary Live -5th ATTACK 070922-
-    日本武道馆」收錄了AAA於2007年9月22日在[日本武道館舉行的兩週年紀念Live](../Page/日本武道館.md "wikilink")，共演唱24首曲目。
+    日本武道馆」收錄了AAA於2007年9月22日在[日本武道館](../Page/日本武道館.md "wikilink")舉行的兩週年紀念Live，共演唱24首曲目。
   - 與單曲《[MIRAGE](../Page/MIRAGE_\(AAA單曲\).md "wikilink")》同時發行。
   - 在1月21日於公信榜錄影帶週排行榜取得第4位
 

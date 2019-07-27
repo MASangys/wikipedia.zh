@@ -1,12 +1,12 @@
 **CFOP**（又称**弗雷德里奇法（Fridrich
-Method）**）是[速解魔方最常用的公式系统之一](../Page/速解魔方.md "wikilink")，由**底十字**（**Cross**）、**下两层**（**F2L**，First
+Method）**）是[速解魔方](../Page/速解魔方.md "wikilink")最常用的公式系统之一，由**底十字**（**Cross**）、**下两层**（**F2L**，First
 2 Layers）、**頂層定向**（**OLL**，Orientation of last
 layer）、**頂層排列**（**PLL**，Permutation of last
 layer）四个步骤组成。最早由[杰西卡·弗雷德里奇总结](https://zh.wikipedia.org/wiki/杰西卡·弗雷德里奇 "wikilink")。自2005年以来，大多世界排名在前十名的魔方玩家都使用CFOP公式或它的变种。
 
 ## 底十字（Cross）
 
-首先從[配色中](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")，選出一個顏色作為基準，當作底面。一般在初學時，這個顏色是固定的；等到熟練時，可以練習**雙十字**或是**多十字**，在[速解魔方時](../Page/速解魔方.md "wikilink")，選擇最有利的顏色出發。多數人偏好選擇**白色**或是**黃色**。
+首先從[配色中](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")，選出一個顏色作為基準，當作底面。一般在初學時，這個顏色是固定的；等到熟練時，可以練習**雙十字**或是**多十字**，在[速解魔方](../Page/速解魔方.md "wikilink")時，選擇最有利的顏色出發。多數人偏好選擇**白色**或是**黃色**。
 決定顏色以後便不能隨意更改，此時僅考慮**底面**和其相鄰四面[邊塊的](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")，而無需顧慮其他部分，將方塊轉動至如圖所示的情況
 \[<http://www.ryanheise.com/AnimCube.html?width=600&height=600&colorscheme=bwygor&bgcolor=FFFFFF&butbgcolor=99AACC&&position=LLUU&edit=0&facelets=xwxwwwxwxxxxxxxxxxxxxbbxxxxxxxggxxxxxoxxoxxxxxxxrrxxxx>[CFOP_cross.png](https://zh.wikipedia.org/wiki/File:CFOP_cross.png "fig:CFOP_cross.png")\]。
 通常，在有觀察的情況，這個步驟可以在七步以內矇眼完成，且完成後白色面朝下。

@@ -1,4 +1,4 @@
-**GSM频段**（频率范围）是[国际电信联盟为](../Page/国际电信联盟.md "wikilink")[GSM](../Page/GSM.md "wikilink")[移动电话工作而指定的蜂窝式无线通讯系统的频率](../Page/移动电话.md "wikilink")。
+**GSM频段**（频率范围）是[国际电信联盟](../Page/国际电信联盟.md "wikilink")为[GSM](../Page/GSM.md "wikilink")[移动电话](../Page/移动电话.md "wikilink")工作而指定的蜂窝式无线通讯系统的频率。
 
 ## GSM频段
 
@@ -32,7 +32,7 @@
 
 ### GSM-900, GSM-1800 and EGSM/EGSM-900
 
-GSM-900和GSM-1800被用于世界上大部分区域：[欧洲](../Page/欧洲.md "wikilink")、[中东](../Page/中东.md "wikilink")、[非洲](../Page/非洲.md "wikilink")、[大洋洲以及](../Page/大洋洲.md "wikilink")[亚洲的大部分区域](../Page/亚洲.md "wikilink")。南美洲和中美洲的以下国家使用：
+GSM-900和GSM-1800被用于世界上大部分区域：[欧洲](../Page/欧洲.md "wikilink")、[中东](../Page/中东.md "wikilink")、[非洲](../Page/非洲.md "wikilink")、[大洋洲](../Page/大洋洲.md "wikilink")以及[亚洲](../Page/亚洲.md "wikilink")的大部分区域。南美洲和中美洲的以下国家使用：
 
 :\*[巴拉圭](../Page/巴拉圭.md "wikilink") – GSM-1800和GSM-1900
 
@@ -49,14 +49,14 @@ GSM-900和GSM-1800被用于世界上大部分区域：[欧洲](../Page/欧洲.md
 :\*[委内瑞拉](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink") –
 GSM-850，GSM-900和1900
 
-  - GSM-900使用890–915MHz从[裝置向](https://zh.wikipedia.org/wiki/裝置 "wikilink")[基站发送信息](../Page/基站.md "wikilink")（上行），使用935–960MHz接收信息（下行），其提供124个无线频道（频道号1-124），每个频道占用200kHz。[双工间隔是](https://zh.wikipedia.org/wiki/双工间隔 "wikilink")45MHz。100kHz的保护带宽被置于频段的两端。\[2\]
+  - GSM-900使用890–915MHz从[裝置向](https://zh.wikipedia.org/wiki/裝置 "wikilink")[基站](../Page/基站.md "wikilink")发送信息（上行），使用935–960MHz接收信息（下行），其提供124个无线频道（频道号1-124），每个频道占用200kHz。[双工间隔是](https://zh.wikipedia.org/wiki/双工间隔 "wikilink")45MHz。100kHz的保护带宽被置于频段的两端。\[2\]
   - GSM-1800使用1710–1785MHz从移动台向基站发送信息（上行），使用1805–1880MHz接收信息（下行）,
     其提供374个频道（频道号512-885）。
-    双工间隔是95MHz。GSM-1800在[英国也称为DCS](https://zh.wikipedia.org/wiki/英国 "wikilink")（数字移动电话服务），而在[香港被称为](../Page/香港.md "wikilink")[PCS](https://zh.wikipedia.org/wiki/个人通讯服务 "wikilink")\[3\]——为避免混淆，GSM-1900在世界上其他地区称作PCS。[MCA使用GSM](https://zh.wikipedia.org/wiki/手机与飞航安全 "wikilink")1800。\[4\]
+    双工间隔是95MHz。GSM-1800在[英国也称为DCS](https://zh.wikipedia.org/wiki/英国 "wikilink")（数字移动电话服务），而在[香港](../Page/香港.md "wikilink")被称为[PCS](https://zh.wikipedia.org/wiki/个人通讯服务 "wikilink")\[3\]——为避免混淆，GSM-1900在世界上其他地区称作PCS。[MCA使用GSM](https://zh.wikipedia.org/wiki/手机与飞航安全 "wikilink")1800。\[4\]
 
 ### GSM-850和GSM-1900
 
-GSM-850和GSM-1900用于[阿根廷](../Page/阿根廷.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[美国以及](../Page/美国.md "wikilink")[美洲的许多其他国家](../Page/美洲.md "wikilink")。
+GSM-850和GSM-1900用于[阿根廷](../Page/阿根廷.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[美国](../Page/美国.md "wikilink")以及[美洲](../Page/美洲.md "wikilink")的许多其他国家。
 
 ### GSM-450
 

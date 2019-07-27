@@ -1,5 +1,5 @@
 《**月刊Sunday
-Gene-X**》是[小學館發行的青年](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2000年創刊，毎月8日発行。
+Gene-X**》是[小學館](../Page/小學館.md "wikilink")發行的青年[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2000年創刊，毎月8日発行。
 
 ## 連載作品
 
@@ -7,7 +7,7 @@ Gene-X**》是[小學館發行的青年](../Page/小學館.md "wikilink")[漫畫
     2000年10月号 -
   - [東京カラス](https://zh.wikipedia.org/wiki/東京カラス "wikilink")（原案：コザキユースケ、作画：宮下裕樹）
     2012年6月号 -
-  - [果然我的青春戀愛喜劇搞錯了。@comic](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（原作：渡航、作画：伊緒直道、キャラクター原案：ぽんかん⑧）
+  - [果然我的青春戀愛喜劇搞錯了。](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")@comic（原作：渡航、作画：伊緒直道、キャラクター原案：ぽんかん⑧）
     2013年1月号 -
   - [コイネコ](https://zh.wikipedia.org/wiki/コイネコ "wikilink")（[真島悦也](https://zh.wikipedia.org/wiki/真島悦也 "wikilink")）
     2004年10月号 -
@@ -77,7 +77,7 @@ Gene-X**》是[小學館發行的青年](../Page/小學館.md "wikilink")[漫畫
     2004年6月号 - 2005年3月号
   - [ぐりまる](https://zh.wikipedia.org/wiki/ぐりまる "wikilink")（[富沢義彦](https://zh.wikipedia.org/wiki/富沢義彦 "wikilink")+[海童博行](https://zh.wikipedia.org/wiki/海童博行 "wikilink")）
     2008年4月号 - 2009年10月号
-  - [CODE-EX](../Page/CODE-E.md "wikilink")（[榊一郎](../Page/榊一郎.md "wikilink")+原尾有美子）
+  - [CODE-E](../Page/CODE-E.md "wikilink")X（[榊一郎](../Page/榊一郎.md "wikilink")+原尾有美子）
     2007年7月号 - 2008年7月号
   - [この花はわたしです。](https://zh.wikipedia.org/wiki/この花はわたしです。 "wikilink")（喜国雅彦+国樹由香）
     2000年8月号 - 2004年2月号

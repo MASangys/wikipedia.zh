@@ -1,4 +1,4 @@
-**Cuvie**（キュービー，1976年7月20日）是[日本的](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。主要在成人向、一般向漫畫雜誌上進行連載活動。[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市出生](../Page/名古屋市.md "wikilink")。
+**Cuvie**（キュービー，1976年7月20日）是[日本](../Page/日本.md "wikilink")的[女性](../Page/女性.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。主要在成人向、一般向漫畫雜誌上進行連載活動。[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出生。
 
 ## 經歷
 
@@ -49,9 +49,9 @@
 ### 一般向
 
   - [特蘿蒂亞 ～魔女的鐵鎚～](../Page/特蘿蒂亞_～魔女的鐵鎚～.md "wikilink")（[月刊Dragon
-    Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")，2005年6月號～2008年3月號，[富士見書房](../Page/富士見書房.md "wikilink")，[東立出版社代理臺灣中文版](../Page/東立出版社.md "wikilink")）－全6卷。
-  - [夢魘製造機](https://zh.wikipedia.org/wiki/夢魘製造機 "wikilink")（，2009年～2012年，[秋田書店](../Page/秋田書店.md "wikilink")，[青文出版社代理臺灣中文版](../Page/青文出版社.md "wikilink")）－全6卷。
-  - [絢爛的世界舞台](https://zh.wikipedia.org/wiki/絢爛的世界舞台 "wikilink")（秋田書店，[長鴻出版社代理臺灣中文版](../Page/長鴻出版社.md "wikilink")）
+    Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")，2005年6月號～2008年3月號，[富士見書房](../Page/富士見書房.md "wikilink")，[東立出版社](../Page/東立出版社.md "wikilink")代理臺灣中文版）－全6卷。
+  - [夢魘製造機](https://zh.wikipedia.org/wiki/夢魘製造機 "wikilink")（，2009年～2012年，[秋田書店](../Page/秋田書店.md "wikilink")，[青文出版社](../Page/青文出版社.md "wikilink")代理臺灣中文版）－全6卷。
+  - [絢爛的世界舞台](https://zh.wikipedia.org/wiki/絢爛的世界舞台 "wikilink")（秋田書店，[長鴻出版社](../Page/長鴻出版社.md "wikilink")代理臺灣中文版）
 
 ## 參考
 

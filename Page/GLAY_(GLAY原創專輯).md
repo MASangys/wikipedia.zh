@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")10張原創專輯，2010年10月13日發行。
+[GLAY](../Page/GLAY.md "wikilink")的第10張原創專輯，2010年10月13日發行。
 
 ## 簡介
 
@@ -41,7 +41,7 @@
       -
         GLAY LIVE TOUR 2010-2011 ROCK AROUND THE
         WORLD演唱會場刊附屬CD中收錄Acoustic Version版。
-        [押井守導演的短篇動畫電影](../Page/押井守.md "wikilink")「Je
+        [押井守](../Page/押井守.md "wikilink")導演的短篇動畫電影「Je
         t'aime」插曲。編曲幾乎由HISASHI1人進行，原本預定放在最後1首。
 10. **Chelsea**
 11. **[Thank you for your

@@ -1,6 +1,6 @@
 是一部2013年以[3D格式上映](https://zh.wikipedia.org/wiki/3D电影 "wikilink")、中国大陆与香港合拍的古装[武侠片](https://zh.wikipedia.org/wiki/武侠片 "wikilink")，改编自著名华人作家[温瑞安创作的系列](https://zh.wikipedia.org/wiki/温瑞安 "wikilink")[武侠小说](https://zh.wikipedia.org/wiki/武侠小说 "wikilink")《[四大名捕](../Page/四大名捕.md "wikilink")》，亦是《四大名捕》系列电影的第二部。本片由[北京光线影业有限公司](https://zh.wikipedia.org/wiki/北京光线影业有限公司 "wikilink")、东阳光线影业有限公司和香港影业国际有限公司联合出品，光线影业发行，并由[陈嘉上](https://zh.wikipedia.org/wiki/陈嘉上 "wikilink")、[秦小珍执导](https://zh.wikipedia.org/wiki/秦小珍 "wikilink")，[邓超](../Page/邓超.md "wikilink")、[刘亦菲](../Page/刘亦菲.md "wikilink")、[邹兆龙](https://zh.wikipedia.org/wiki/邹兆龙 "wikilink")、[郑中基领衔主演](https://zh.wikipedia.org/wiki/郑中基 "wikilink")。剧情承接前作，讲述了四大名捕在调查一宗命案时，意外牵扯出了十二年前的无情家灭门惨案，期间的调查过程险象环生、危机四伏，随着幕后主谋的步步紧逼，神捕惨遭毒手，诸葛正我也被陷害入狱，名捕们因此遭遇极大考验。
 
-本片与系列电影的第三部《[四大名捕大结局](https://zh.wikipedia.org/wiki/四大名捕大结局 "wikilink")》一起[套拍而成](https://zh.wikipedia.org/wiki/背靠背電影製作 "wikilink")，于2012年7月11日在浙江[横店影视城开机](../Page/横店影视城.md "wikilink")\[1\]\[2\]，期间曾转战[仙居取景拍摄](https://zh.wikipedia.org/wiki/仙居 "wikilink")，历时半年多时间后至次年1月23日杀青关机\[3\]。影片原定于2013年11月22日在中国大陆正式公映\[4\]，后延期至12月6日上映\[5\]\[6\]。
+本片与系列电影的第三部《[四大名捕大结局](https://zh.wikipedia.org/wiki/四大名捕大结局 "wikilink")》一起[套拍而成](https://zh.wikipedia.org/wiki/背靠背電影製作 "wikilink")，于2012年7月11日在浙江[横店影视城](../Page/横店影视城.md "wikilink")开机\[1\]\[2\]，期间曾转战[仙居取景拍摄](https://zh.wikipedia.org/wiki/仙居 "wikilink")，历时半年多时间后至次年1月23日杀青关机\[3\]。影片原定于2013年11月22日在中国大陆正式公映\[4\]，后延期至12月6日上映\[5\]\[6\]。
 
 ## 剧情
 

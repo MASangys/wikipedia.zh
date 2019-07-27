@@ -17,7 +17,7 @@ Phone](../Page/Windows_Phone.md "wikilink")
 ## 資金
 
 [Aaron_Levie,_Co-founder_and_CEO,_Box.jpg](https://zh.wikipedia.org/wiki/File:Aaron_Levie,_Co-founder_and_CEO,_Box.jpg "fig:Aaron_Levie,_Co-founder_and_CEO,_Box.jpg")在“云的崛起，10年内的最新趋势”上发言。()\]\]
-Box 在 2005 年获得[马克·库班的天使投资](../Page/马克·库班.md "wikilink")。2006 年从 [Draper
+Box 在 2005 年获得[马克·库班](../Page/马克·库班.md "wikilink")的天使投资。2006 年从 [Draper
 Fisher
 Jurvetson](https://zh.wikipedia.org/wiki/Draper_Fisher_Jurvetson "wikilink")
 处获得第一轮的 150 万美元融资，第二轮融资在 2007 年底，获得 600 万美元。2009 年再从 [Venture

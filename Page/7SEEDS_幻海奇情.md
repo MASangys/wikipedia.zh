@@ -1,4 +1,4 @@
-《**7SEEDS～幻海奇情～**》為日本[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[田村由美的漫畫作品](../Page/田村由美.md "wikilink")，2001年11月起於[小學館漫畫雜誌](../Page/小學館.md "wikilink")《[別冊少女Comic](../Page/Betsucomi.md "wikilink")》開始連載，2002年6月伴隨同社的《[月刊flowers](../Page/月刊flowers.md "wikilink")》創刊移往該誌連載。2007年獲得第52屆[小學館漫畫賞](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")，2017年7月完結。作中分別以數個不同主角的視點，來敘述各個隊伍的遭遇，被認為是群像劇體裁的作品。
+《**7SEEDS～幻海奇情～**》為日本[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[田村由美](../Page/田村由美.md "wikilink")的漫畫作品，2001年11月起於[小學館](../Page/小學館.md "wikilink")漫畫雜誌《[別冊少女Comic](../Page/Betsucomi.md "wikilink")》開始連載，2002年6月伴隨同社的《[月刊flowers](../Page/月刊flowers.md "wikilink")》創刊移往該誌連載。2007年獲得第52屆[小學館漫畫賞](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")，2017年7月完結。作中分別以數個不同主角的視點，來敘述各個隊伍的遭遇，被認為是群像劇體裁的作品。
 
 ## 簡介
 

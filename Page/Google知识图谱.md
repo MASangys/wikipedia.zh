@@ -1,10 +1,10 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Google_Knowledge_Panel.png "fig:缩略图")的Google知识图谱數據\]\]
-**Google知识图谱**（，也称**Google知识图**）是[Google的一个](../Page/Google.md "wikilink")[知识库](https://zh.wikipedia.org/wiki/知识库 "wikilink")，其使用[语义检索从多种来源收集信息](https://zh.wikipedia.org/wiki/语义检索 "wikilink")，以提高Google搜索的质量。知识图谱2012年加入Google搜索，2012年5月16日正式发布\[1\]，首先可在[美国使用](../Page/美国.md "wikilink")。知识图谱除了显示其他网站的链接列表，还提供结构化及详细的关于主题的信息。其目标是，用户将能够使用此功能提供的信息来解决他们查询的问题，而不必导航到其他网站并自己汇总信息。\[2\]
+**Google知识图谱**（，也称**Google知识图**）是[Google](../Page/Google.md "wikilink")的一个[知识库](https://zh.wikipedia.org/wiki/知识库 "wikilink")，其使用[语义检索从多种来源收集信息](https://zh.wikipedia.org/wiki/语义检索 "wikilink")，以提高Google搜索的质量。知识图谱2012年加入Google搜索，2012年5月16日正式发布\[1\]，首先可在[美国](../Page/美国.md "wikilink")使用。知识图谱除了显示其他网站的链接列表，还提供结构化及详细的关于主题的信息。其目标是，用户将能够使用此功能提供的信息来解决他们查询的问题，而不必导航到其他网站并自己汇总信息。\[2\]
 
 ## 历史
 
-据Google称，知识图谱的信息来自许多来源，包括[CIA的](https://zh.wikipedia.org/wiki/CIA "wikilink")[世界概况](../Page/世界概况.md "wikilink")，[Freebase和](../Page/Freebase.md "wikilink")[维基百科](../Page/维基百科.md "wikilink")\[3\]。其功能与[Ask.com和](../Page/Ask.com.md "wikilink")[Wolfram
-Alpha等问题](../Page/Wolfram_Alpha.md "wikilink")[問答系統相似](../Page/問答系統.md "wikilink")。
+据Google称，知识图谱的信息来自许多来源，包括[CIA的](https://zh.wikipedia.org/wiki/CIA "wikilink")[世界概况](../Page/世界概况.md "wikilink")，[Freebase](../Page/Freebase.md "wikilink")和[维基百科](../Page/维基百科.md "wikilink")\[3\]。其功能与[Ask.com](../Page/Ask.com.md "wikilink")和[Wolfram
+Alpha等问题](../Page/Wolfram_Alpha.md "wikilink")[問答系統](../Page/問答系統.md "wikilink")相似。
 
 ，其[语义网络包含超过](../Page/语义网络_\(计算机科学\).md "wikilink")570亿个对象，超过18亿个介绍，这些不同的对象之间有链接关系，用来理解搜索[关键词的含义](https://zh.wikipedia.org/wiki/关键词 "wikilink")。\[4\]\[5\]
 
@@ -25,7 +25,7 @@ Science》就引用了早期关于语义链网络自动发现的工作。\[14\]
 ## 对话搜索
 
 在2013年5月的Google
-I/O大会上，Google的[阿米特·辛格尔提出了未来搜索引擎的设想](../Page/阿米特·辛格尔.md "wikilink")：搜索引擎的三个主要功能将需要改进，搜索将需要：1.答案，2.对话，3.预测。作为他发表主题演讲的一部分，阿密特说，“一台电脑，你可以与它交谈吗？它会回答你问的吗？我成为我的为整个世界的梦想的负责人。”对话搜索（）技术包含阿密特推出的一种“热关键词”的搜索技术，不需要一个接口，即用户只需将Google搜索引擎说“OK
+I/O大会上，Google的[阿米特·辛格尔](../Page/阿米特·辛格尔.md "wikilink")提出了未来搜索引擎的设想：搜索引擎的三个主要功能将需要改进，搜索将需要：1.答案，2.对话，3.预测。作为他发表主题演讲的一部分，阿密特说，“一台电脑，你可以与它交谈吗？它会回答你问的吗？我成为我的为整个世界的梦想的负责人。”对话搜索（）技术包含阿密特推出的一种“热关键词”的搜索技术，不需要一个接口，即用户只需将Google搜索引擎说“OK
 Google”。\[18\]
 
 在I/O大会上的观众演示，在其中一个用户问了一个关于[圣克鲁斯的问题](https://zh.wikipedia.org/wiki/圣克鲁斯 "wikilink")，搜索引擎除了查询结果的介绍，还以“谈话”方式回答。Google的约翰娜·怀特解释说，搜索引擎使用知识图谱的数据产生的结果：“知识图谱知道，圣克鲁斯是一个地方，且此列表与圣克鲁斯有关。”\[19\]\[20\]

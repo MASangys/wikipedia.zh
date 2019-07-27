@@ -1,6 +1,6 @@
 **iPad mini 2**（原名**iPad
 mini配備-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-**\[1\]，不過後來在-{zh-tw:發表會;zh-cn:发布会}-上被改為現名）是[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的第二代[iPad
-mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")。此[平板電腦配備有](../Page/平板電腦.md "wikilink")7.9吋[-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-](../Page/Retina显示屏.md "wikilink")，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")-{zh-tw:發表;zh-cn:发布}-，並於同年11月15日發售\[2\]。
+mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")。此[平板電腦](../Page/平板電腦.md "wikilink")配備有7.9吋[-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-](../Page/Retina显示屏.md "wikilink")，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")-{zh-tw:發表;zh-cn:发布}-，並於同年11月15日發售\[2\]。
 
 2014年10月，蘋果公司-{zh-tw:發表;zh-cn:发布}-[iPad mini
 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")。原有的iPad mini
@@ -13,7 +13,7 @@ mini 2隨即下架。
 
 ## 硬件
 
-採用7.9吋[-{zh-hans:Retina屏幕;zh-hant:Retina顯示器;}-](../Page/Retina显示屏.md "wikilink")（[LED背光](https://zh.wikipedia.org/wiki/LED "wikilink")），解析度增加到四倍2048×1536，配置500萬[像素後置](../Page/像素.md "wikilink")
+採用7.9吋[-{zh-hans:Retina屏幕;zh-hant:Retina顯示器;}-](../Page/Retina显示屏.md "wikilink")（[LED背光](https://zh.wikipedia.org/wiki/LED "wikilink")），解析度增加到四倍2048×1536，配置500萬[像素](../Page/像素.md "wikilink")後置
 [iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")
 [鏡頭](../Page/鏡頭.md "wikilink")，120 萬像素前置
 [FaceTime](../Page/FaceTime.md "wikilink") HD
@@ -22,7 +22,7 @@ mini 2隨即下架。
 相同的[64位元](../Page/64位元.md "wikilink")[Apple
 A7處理器和M](../Page/Apple_A7.md "wikilink")7動態協同處理器，配備1GB
 RAM。此外，第二代iPad
-mini採用[MIMO技術](../Page/MIMO.md "wikilink")，提高了[Wi-Fi數據傳輸速度](../Page/Wi-Fi.md "wikilink")。\[3\]
+mini採用[MIMO](../Page/MIMO.md "wikilink")技術，提高了[Wi-Fi](../Page/Wi-Fi.md "wikilink")數據傳輸速度。\[3\]
 
 [基準測試方面](https://zh.wikipedia.org/wiki/基準測試 "wikilink")，Geekbench
 3的單-{核心}-/多核心得分為1390/2512，比第一代的261/493快了四倍以上。\[4\]

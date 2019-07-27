@@ -1,4 +1,4 @@
-《**Filicious**》為[香港女歌手](../Page/香港.md "wikilink")[薛凱琪的廣東音樂專輯](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，於2012年6月29日發行。
+《**Filicious**》為[香港](../Page/香港.md "wikilink")女歌手[薛凱琪的廣東音樂專輯](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，於2012年6月29日發行。
 
 ## 專輯簡介
 
@@ -10,7 +10,7 @@ Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")（陳浩然）等擔
 
 ### 專輯命名
 
-「**Filicious**」是一個合併字，取自薛凱琪英文名**Fiona**的頭兩個字母（**Fi**-），和美味的英文**delicious**的後半部（-**licious**），併貼在一起，有「薛凱琪很吸引」的意思，亦帶點性感的味道。另一位[香港女歌手](../Page/香港.md "wikilink")[陳慧琳的](../Page/陳慧琳.md "wikilink")2008年專輯《[Kellylicious](../Page/Kellylicious.md "wikilink")》也採用了類似的命名方法。
+「**Filicious**」是一個合併字，取自薛凱琪英文名**Fiona**的頭兩個字母（**Fi**-），和美味的英文**delicious**的後半部（-**licious**），併貼在一起，有「薛凱琪很吸引」的意思，亦帶點性感的味道。另一位[香港](../Page/香港.md "wikilink")女歌手[陳慧琳](../Page/陳慧琳.md "wikilink")的2008年專輯《[Kellylicious](../Page/Kellylicious.md "wikilink")》也採用了類似的命名方法。
 
 ### 發行版本
 

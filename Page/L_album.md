@@ -1,11 +1,11 @@
 《**L
-album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")13張[專輯](../Page/音樂專輯.md "wikilink")。於2013年12月4日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")13張[專輯](../Page/音樂專輯.md "wikilink")。於2013年12月4日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說
 
 本專輯分別有初回版和通常版兩個版本。
 
-初回版附送的特典[數碼多功能影音光碟收錄了](../Page/數碼多功能影音光碟.md "wikilink")[不一樣的石頭](../Page/不一樣的石頭.md "wikilink")、[尚未化作淚水的哀傷/戀情雖美終將凋零](https://zh.wikipedia.org/wiki/尚未化作淚水的哀傷/戀情雖美終將凋零 "wikilink")，一共3首[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，封面各有不同。
+初回版附送的特典[數碼多功能影音光碟](../Page/數碼多功能影音光碟.md "wikilink")收錄了[不一樣的石頭](../Page/不一樣的石頭.md "wikilink")、[尚未化作淚水的哀傷/戀情雖美終將凋零](https://zh.wikipedia.org/wiki/尚未化作淚水的哀傷/戀情雖美終將凋零 "wikilink")，一共3首[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，封面各有不同。
 
 兩個版本各有雙CD，分成<DISK LOVE>及<DISK LIFE>。
 

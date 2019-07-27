@@ -1,4 +1,4 @@
-，是[日本](../Page/日本.md "wikilink")[小說作家](https://zh.wikipedia.org/wiki/小說 "wikilink")[今野敏編寫的](https://zh.wikipedia.org/wiki/今野敏 "wikilink")[警察](../Page/警察.md "wikilink")[推理小說系列](../Page/推理小說.md "wikilink")，1998年起開始刊載。2013年4月[日本電視台將故事改編成單發電視劇](../Page/日本電視台.md "wikilink")，由[藤原龍也與](../Page/藤原龍也.md "wikilink")[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。2014年7月電視台再將故事改編成連續劇，並繼續沿用單發電視劇的演員陣容，再次由藤原龍也與岡田將生主演，7月16日起[逄週三晚上十時播映](../Page/日本電視台週三連續劇.md "wikilink")。隨後同年8月6日宣佈電影化，電影於2015年1月10日上映。
+，是[日本](../Page/日本.md "wikilink")[小說作家](https://zh.wikipedia.org/wiki/小說 "wikilink")[今野敏編寫的](https://zh.wikipedia.org/wiki/今野敏 "wikilink")[警察](../Page/警察.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")系列，1998年起開始刊載。2013年4月[日本電視台](../Page/日本電視台.md "wikilink")將故事改編成單發電視劇，由[藤原龍也](../Page/藤原龍也.md "wikilink")與[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。2014年7月電視台再將故事改編成連續劇，並繼續沿用單發電視劇的演員陣容，再次由藤原龍也與岡田將生主演，7月16日起[逄週三晚上十時播映](../Page/日本電視台週三連續劇.md "wikilink")。隨後同年8月6日宣佈電影化，電影於2015年1月10日上映。
 
 ## 故事劇情
 
@@ -127,7 +127,7 @@
 
 ### ST 警視廳科學特搜班
 
-2013年4月10日[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")21:00－23:08於[日本電視系播放故事的單發電視劇版](https://zh.wikipedia.org/wiki/日本電視系 "wikilink")，由[藤原龍也與](../Page/藤原龍也.md "wikilink")[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。隨著電視台於2014年再製作連續劇版，單發電視劇版的[藍光](../Page/藍光光碟.md "wikilink")[DVD於同年](https://zh.wikipedia.org/wiki/DVD "wikilink")7月2日起發售\[2\]。
+2013年4月10日[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")21:00－23:08於[日本電視系播放故事的單發電視劇版](https://zh.wikipedia.org/wiki/日本電視系 "wikilink")，由[藤原龍也](../Page/藤原龍也.md "wikilink")與[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。隨著電視台於2014年再製作連續劇版，單發電視劇版的[藍光](../Page/藍光光碟.md "wikilink")[DVD於同年](https://zh.wikipedia.org/wiki/DVD "wikilink")7月2日起發售\[2\]。
 
 #### 演出角色
 
@@ -154,7 +154,7 @@
   - 特殊效果：杉谷政次
   - 「GACKY君」設計及造型：
   - 劇中格鬥指導：佐佐木修平
-  - [罪犯側寫顧問](../Page/罪犯側寫.md "wikilink")：桐生正幸
+  - [罪犯側寫](../Page/罪犯側寫.md "wikilink")顧問：桐生正幸
   - 警察顧問：尾崎祐司
   - 監製：[神藏克](https://zh.wikipedia.org/wiki/神藏克 "wikilink")、[大平太](https://zh.wikipedia.org/wiki/大平太 "wikilink")
   - 製作人：[森雅弘](https://zh.wikipedia.org/wiki/森雅弘 "wikilink")（AXON）、[大野哲哉](https://zh.wikipedia.org/wiki/大野哲哉 "wikilink")（日本電視台）
@@ -167,7 +167,7 @@
 -
 23:00於[日本電視系](https://zh.wikipedia.org/wiki/日本電視系 "wikilink")「[週三連續劇](../Page/日本電視台週三連續劇.md "wikilink")」時段內播出\[4\]。
 
-劇集繼續由[藤原龍也與](../Page/藤原龍也.md "wikilink")[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。本劇廣告標語為「無法解釋的事件儘管交給那兩個人\!
+劇集繼續由[藤原龍也](../Page/藤原龍也.md "wikilink")與[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。本劇廣告標語為「無法解釋的事件儘管交給那兩個人\!
 正因互相對立，卻可成為最強的夥伴。」。
 
 #### 工作人員
@@ -184,7 +184,7 @@
   - 特殊化妝：松井祐一
   - 動作協調：FC計劃
   - 「GACKY君」設計及造型：
-  - [罪犯側寫顧問](../Page/罪犯側寫.md "wikilink")：桐生正幸
+  - [罪犯側寫](../Page/罪犯側寫.md "wikilink")顧問：桐生正幸
   - 警察顧問：尾崎祐司
   - 科學搜查顧問：山崎昭、古山翔平
   - 法醫學顧問：内内崎西作、高木徹也

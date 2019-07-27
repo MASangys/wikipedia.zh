@@ -1,10 +1,10 @@
-《**魔法少女奈葉INNOCENT**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列的一部分](../Page/魔法少女奈葉系列.md "wikilink")，與《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》及《[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[川上修一](https://zh.wikipedia.org/wiki/川上修一 "wikilink")，2012年9月號起在《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》上連載。
+《**魔法少女奈葉INNOCENT**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的一部分，與《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》及《[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[川上修一](https://zh.wikipedia.org/wiki/川上修一 "wikilink")，2012年9月號起在《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》上連載。
 
 《魔法少女奈葉INNOCENT》手机游戏于2013年3月31日运行，并将于2018年1月12日停止运行。
 
 ## 概要
 
-與以往[魔法少女奈葉系列的其它作品不同](../Page/魔法少女奈葉系列.md "wikilink")，本次故事與原作不同的平行世界，地區城市的研究者開發出了前所未見的全新體感模擬遊戲「Brave
+與以往[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的其它作品不同，本次故事與原作不同的平行世界，地區城市的研究者開發出了前所未見的全新體感模擬遊戲「Brave
 Duel」（在此簡稱**BD**），襲捲了全世界。私立海聖小學四年級的小學生高町奈葉，與好友亞麗沙·巴寧斯及月村鈴香一同踏入了這個遊戲，開始了與過往系列不同的冒險故事。
 
 ## 登場角色

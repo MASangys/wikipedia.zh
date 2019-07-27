@@ -3,7 +3,7 @@
 
 ## 制备
 
-将[氰化镍](../Page/氰化镍.md "wikilink")(II)溶于[氰化钾溶液](../Page/氰化钾.md "wikilink")，得到四氰合镍(II)酸钾的杏黄色溶液：\[1\]
+将[氰化镍](../Page/氰化镍.md "wikilink")(II)溶于[氰化钾](../Page/氰化钾.md "wikilink")溶液，得到四氰合镍(II)酸钾的杏黄色溶液：\[1\]
 
   -
     Ni(CN)<sub>2</sub> + 2 KCN → K<sub>2</sub>\[Ni(CN)<sub>4</sub>\]
@@ -26,14 +26,14 @@
     K<sub>2</sub>Ni(CN)<sub>4</sub> + 2HCHO → Ni(CN)<sub>2</sub> + 2
     CH<sub>2</sub>(CN)OK
 
-它可以和二羧酸进行固相反应，生成[氰化镍水合物并放出氰化氢](../Page/氰化镍.md "wikilink")：\[3\]
+它可以和二羧酸进行固相反应，生成[氰化镍](../Page/氰化镍.md "wikilink")水合物并放出氰化氢：\[3\]
 
   -
     K<sub>2</sub>\[Ni(CN)<sub>4</sub>\] +
     H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> → Ni(CN)<sub>2</sub> +
     K<sub>2</sub>C<sub>2</sub>O<sub>4</sub> + 2 HCN
 
-反应的难易程度随着碳原子数的增加而变得困难，[草酸与之在室温时便可反应](../Page/草酸.md "wikilink")。
+反应的难易程度随着碳原子数的增加而变得困难，[草酸](../Page/草酸.md "wikilink")与之在室温时便可反应。
 
 ## 相關條目
 

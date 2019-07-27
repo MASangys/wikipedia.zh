@@ -10,9 +10,9 @@ Butterfly 2**」\[2\]\[3\]。
   - 本機為HTC首次最高規格的防水防塵機種，且為未加防水蓋類型的防水，防水係數達IPX5/IPX7、防塵IP5X，第一代的[HTC
     Butterfly僅支持IPX](../Page/HTC_Butterfly.md "wikilink")5的生活防水（中國大陸版本為IP55防水防塵）。
   - 此次與M8皆採用「Duo Camera」，但主鏡頭規格由M8的UltraPixel相機改為1300萬畫素相機。
-  - 本次日本版附贈的耳機為[哈曼卡頓旗下品牌](../Page/哈曼卡頓.md "wikilink")「JBL」合作的耳機「JBL
+  - 本次日本版附贈的耳機為[哈曼卡頓](../Page/哈曼卡頓.md "wikilink")旗下品牌「JBL」合作的耳機「JBL
     J22a-h
-    入耳式耳機」，並附贈收納包（台灣版改活動贈送），美國電信商[Sprint的限定版M](../Page/Sprint.md "wikilink")8，HTC即與[哈曼卡頓合作過](../Page/哈曼卡頓.md "wikilink")，本次將搭載JBL®LiveStage™音效來配合耳機播放效果。
+    入耳式耳機」，並附贈收納包（台灣版改活動贈送），美國電信商[Sprint](../Page/Sprint.md "wikilink")的限定版M8，HTC即與[哈曼卡頓](../Page/哈曼卡頓.md "wikilink")合作過，本次將搭載JBL®LiveStage™音效來配合耳機播放效果。
   - 與其他高階機種M8、E8相同皆能搭配專屬的「Dot View」保護套，共有灰、藍、橘三色。
   - 本次發售三色分別為「陶瓷白」、「胭脂紅」、「午夜藍」，其中陶瓷白機種正反面皆為白色，且機殼為磨砂質感並塗上特殊抗污塗層來展現有如日本瓷器的質感，而藍、紅色則皆採用拋光材質，並有如跑車的烤漆質感。
   - 本機為HTC在台灣地區開賣的首款同時搭載FDD-LTE以及TDD-LTE的手機，能在中港台暢遊4G。

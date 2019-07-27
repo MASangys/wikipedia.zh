@@ -1,5 +1,5 @@
 《**EXIT TUNES PRESENTS Vocalosensation
-feat.初音未來**》是2013年2月20日發布的，藉由[初音未來等歌聲合成軟體](../Page/初音未來.md "wikilink")[VOCALOID創作的歌曲的](../Page/VOCALOID.md "wikilink")[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")，是為[EXIT
+feat.初音未來**》是2013年2月20日發布的，藉由[初音未來](../Page/初音未來.md "wikilink")等歌聲合成軟體[VOCALOID](../Page/VOCALOID.md "wikilink")創作的歌曲的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")，是為[EXIT
 TUNES
 VOCALOID合輯系列第](../Page/EXIT_TUNES_VOCALOID合輯系列.md "wikilink")11張作品。
 

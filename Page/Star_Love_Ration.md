@@ -1,5 +1,5 @@
 《**スターラブレイション**》（Star Love
-Ration\[1\]）為[日本搖滾樂團](../Page/日本.md "wikilink")[ケラケラ於](https://zh.wikipedia.org/wiki/ケラケラ "wikilink")2013年5月15日發行的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+Ration\[1\]）為[日本](../Page/日本.md "wikilink")搖滾樂團[ケラケラ於](https://zh.wikipedia.org/wiki/ケラケラ "wikilink")2013年5月15日發行的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -15,7 +15,7 @@ Ration\[1\]）為[日本搖滾樂團](../Page/日本.md "wikilink")[ケラケラ
       -
         作詞：ふるっぺ・森さん・Litz 作曲：ふるっぺ
     <!-- end list -->
-      - [富士電視台連續劇](../Page/富士電視台.md "wikilink")《[最後的灰姑娘](../Page/最後的灰姑娘.md "wikilink")》主題曲
+      - [富士電視台](../Page/富士電視台.md "wikilink")連續劇《[最後的灰姑娘](../Page/最後的灰姑娘.md "wikilink")》主題曲
 2.  **虹色ハートビート**
       -
         作詞：ふるっぺ・森さん 作曲：ふるっぺ

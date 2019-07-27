@@ -8,7 +8,7 @@
 Linked
 Software）同盟合作\[4\]。第一份公開可取得的資料集在2007年時發佈。它是透過的方式所發佈，允許他人自由利用這些資料集。
 
-維基百科的條目大部分都是沒有固定格式的文字，不過也有部分的資料是屬於結構化的資訊並且被鑲嵌在條目中，像是*[資訊框](https://zh.wikipedia.org/wiki/資訊框 "wikilink")*的表格內容（也就是預設在[桌機版維基百科瀏覽格式](https://zh.wikipedia.org/wiki/桌機 "wikilink")，出現在條目右上角出現的欄位，或是[行動版維基百科的條目一開始就顯示的欄位](https://zh.wikipedia.org/wiki/維基百科#行動版 "wikilink")。）、分類、圖像、地理座標、以及外部[網頁連結](../Page/網頁.md "wikilink")。這些結構化的資訊會在此計畫案被提取出來並且將其統一的放在一個資料集裡頭以方便查詢。
+維基百科的條目大部分都是沒有固定格式的文字，不過也有部分的資料是屬於結構化的資訊並且被鑲嵌在條目中，像是*[資訊框](https://zh.wikipedia.org/wiki/資訊框 "wikilink")*的表格內容（也就是預設在[桌機版維基百科瀏覽格式](https://zh.wikipedia.org/wiki/桌機 "wikilink")，出現在條目右上角出現的欄位，或是[行動版維基百科的條目一開始就顯示的欄位](https://zh.wikipedia.org/wiki/維基百科#行動版 "wikilink")。）、分類、圖像、地理座標、以及外部[網頁](../Page/網頁.md "wikilink")連結。這些結構化的資訊會在此計畫案被提取出來並且將其統一的放在一個資料集裡頭以方便查詢。
 
 ## 資料組
 
@@ -24,7 +24,7 @@ Framework，簡稱RDF）來呈現擷取的資料，目前包含了24.6億筆的�
 
 ## 範例
 
-DBpedia摘取維基百科頁面上的事實資訊，讓使用者可以不用在多個維基百科條目之間瀏覽便找到問題的答案。查詢資料的方式是利用叫做[SPARQL](../Page/SPARQL.md "wikilink")（像是[SQL一類的](../Page/SQL.md "wikilink")[查詢語言](https://zh.wikipedia.org/wiki/查詢語言 "wikilink")）來對[資源描述框架(RDF)進行查詢](../Page/資源描述框架.md "wikilink")。舉例而言，假如你對日本[少女漫畫系列](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[東京喵喵感興趣](../Page/東京喵喵.md "wikilink")，想要找這位漫畫的繪者所創作的其他作品。DBpedia結合了維基百科上東京喵喵、[征海未亞這些條目](https://zh.wikipedia.org/wiki/征海未亞 "wikilink")，以及相關作品諸如[麗佳公主以及](../Page/麗佳公主.md "wikilink")的資訊。因為DBpedia把這些資料都標準化到單一的資料庫裡頭，下列[查詢](http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&should-sponge=&query=PREFIX+dbprop%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2F%3E%0D%0APREFIX+db%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2F%3E%0D%0ASELECT+%3Fwho%2C+%3Fwork%2C+%3Fgenre+WHERE+%7B+%0D%0A+db%3ATokyo_Mew_Mew+dbprop%3Aauthor+%3Fwho+.%0D%0A+%3Fwork++dbprop%3Aauthor+%3Fwho+.%0D%0A+OPTIONAL+%7B+%3Fwork+dbprop%3Agenre+%3Fgenre+%7D+.%0D%0A%7D+%0D%0A&format=text%2Fhtml&debug=on&timeout=)就能夠在不需具體清楚哪一個條目有包含了哪一部分的片段資訊，就能夠完整的列出相關作品類型：
+DBpedia摘取維基百科頁面上的事實資訊，讓使用者可以不用在多個維基百科條目之間瀏覽便找到問題的答案。查詢資料的方式是利用叫做[SPARQL](../Page/SPARQL.md "wikilink")（像是[SQL](../Page/SQL.md "wikilink")一類的[查詢語言](https://zh.wikipedia.org/wiki/查詢語言 "wikilink")）來對[資源描述框架](../Page/資源描述框架.md "wikilink")(RDF)進行查詢。舉例而言，假如你對日本[少女漫畫系列](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[東京喵喵](../Page/東京喵喵.md "wikilink")感興趣，想要找這位漫畫的繪者所創作的其他作品。DBpedia結合了維基百科上東京喵喵、[征海未亞這些條目](https://zh.wikipedia.org/wiki/征海未亞 "wikilink")，以及相關作品諸如[麗佳公主](../Page/麗佳公主.md "wikilink")以及的資訊。因為DBpedia把這些資料都標準化到單一的資料庫裡頭，下列[查詢](http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&should-sponge=&query=PREFIX+dbprop%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2F%3E%0D%0APREFIX+db%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2F%3E%0D%0ASELECT+%3Fwho%2C+%3Fwork%2C+%3Fgenre+WHERE+%7B+%0D%0A+db%3ATokyo_Mew_Mew+dbprop%3Aauthor+%3Fwho+.%0D%0A+%3Fwork++dbprop%3Aauthor+%3Fwho+.%0D%0A+OPTIONAL+%7B+%3Fwork+dbprop%3Agenre+%3Fgenre+%7D+.%0D%0A%7D+%0D%0A&format=text%2Fhtml&debug=on&timeout=)就能夠在不需具體清楚哪一個條目有包含了哪一部分的片段資訊，就能夠完整的列出相關作品類型：
 
 ``` sparql
 PREFIX dbprop: <http://dbpedia.org/property/>
@@ -38,7 +38,7 @@ SELECT ?who, ?WORK, ?genre WHERE {
 
 ## 使用DBpedia的相關計畫或組織
 
-DBpedia廣納了人類知識不同領域，十分多元的範疇資料。這使得它自然而然成為連結眾多資料集的樞紐，讓外部資料集能夠連結到相關的概念。\[11\]DBpedia的資料集是跟其他許多網路上不同的[開放資料資料集在RDF的層級交互相連著](../Page/開放資料.md "wikilink")。透過這些資料集，可以讓應用程式豐富DBpedia的資料。，已經有超過4500萬筆在DBpedia與外部資料集之間的交互連結產生，外部資料集包含：[Freebase
+DBpedia廣納了人類知識不同領域，十分多元的範疇資料。這使得它自然而然成為連結眾多資料集的樞紐，讓外部資料集能夠連結到相關的概念。\[11\]DBpedia的資料集是跟其他許多網路上不同的[開放資料](../Page/開放資料.md "wikilink")資料集在RDF的層級交互相連著。透過這些資料集，可以讓應用程式豐富DBpedia的資料。，已經有超過4500萬筆在DBpedia與外部資料集之間的交互連結產生，外部資料集包含：[Freebase
 (database)](https://zh.wikipedia.org/wiki/Freebase_\(database\) "wikilink")、[OpenCyc](https://zh.wikipedia.org/wiki/Cyc#OpenCyc "wikilink")、、、[Musicbrainz](https://zh.wikipedia.org/wiki/Musicbrainz "wikilink")、[CIA
 World Fact
 Book](https://zh.wikipedia.org/wiki/CIA_World_Fact_Book "wikilink")、[DBLP](https://zh.wikipedia.org/wiki/DBLP "wikilink")、[Project
@@ -68,7 +68,7 @@ Spotlight聚焦在多種不同用途的客製應用。不去聚焦於少部分�
 DBpedia
 Spotlight可公開獲取，是以一個為了測試用途而提供的[網路服務](https://zh.wikipedia.org/wiki/web_service "wikilink")，或者也可以從[Apache授權的](https://zh.wikipedia.org/wiki/Apache_License "wikilink")[Java](../Page/Java.md "wikilink")/[Scala](../Page/Scala.md "wikilink")
 API。DBpedia
-Spotlight分配也包含了一[jQuery插件](https://zh.wikipedia.org/wiki/jQuery "wikilink")，此插件允許開發人員在網路上的任何一頁加上註解，只要在他們的頁面上增加一行文字即可\[21\]用戶端也有Java或[PHP的支援應用](../Page/PHP.md "wikilink")\[22\]。此工具可從其展示頁（demo
+Spotlight分配也包含了一[jQuery插件](https://zh.wikipedia.org/wiki/jQuery "wikilink")，此插件允許開發人員在網路上的任何一頁加上註解，只要在他們的頁面上增加一行文字即可\[21\]用戶端也有Java或[PHP](../Page/PHP.md "wikilink")的支援應用\[22\]。此工具可從其展示頁（demo
 page）裡，處理多種的英語資料\[23\]以及網路服務。國際化的支援部分，只要此語言有開維基百科即可支援\[24\]。
 
 ## 參見

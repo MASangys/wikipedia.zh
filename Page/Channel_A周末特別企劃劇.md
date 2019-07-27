@@ -1,5 +1,5 @@
 **Channel
-A周末特別企劃劇**（），是逢[星期六](../Page/星期六.md "wikilink")、[星期日韓國晚間](../Page/星期日.md "wikilink")7點50分在[Channel
+A周末特別企劃劇**（），是逢[星期六](../Page/星期六.md "wikilink")、[星期日](../Page/星期日.md "wikilink")韓國晚間7點50分在[Channel
 A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 
 ## 作品列表

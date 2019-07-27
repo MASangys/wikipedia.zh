@@ -1,5 +1,5 @@
 《**Missin' you～It will break my
-heart～**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年1月30日發行。
+heart～**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年1月30日發行。
 
 ## 概述
 

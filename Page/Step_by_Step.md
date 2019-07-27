@@ -1,5 +1,5 @@
 《**Step by
-Step**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起在日本发行的第](../Page/東方神起.md "wikilink")9张单曲。于2007年1月24日由[rhythm
+Step**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第9张单曲。于2007年1月24日由[rhythm
 zone公司发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

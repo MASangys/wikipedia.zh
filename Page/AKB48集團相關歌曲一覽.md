@@ -1,6 +1,6 @@
-**AKB48集團相关歌曲一覧**是[AKB48与](../Page/AKB48.md "wikilink")[SKE48等姐妹组合](../Page/SKE48.md "wikilink")，与[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")（）等衍生分队歌曲的一览表，但不包括被称作“官方对手”的[乃木坂46之作品](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。
+**AKB48集團相关歌曲一覧**是[AKB48](../Page/AKB48.md "wikilink")与[SKE48](../Page/SKE48.md "wikilink")等姐妹组合，与[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")（）等衍生分队歌曲的一览表，但不包括被称作“官方对手”的[乃木坂46之作品](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。
 
-此列表收錄的範圍不仅限于[秋元康担任制作人的歌曲](../Page/秋元康.md "wikilink")，也包括了AKB48集團成員参加演唱的他方作品。
+此列表收錄的範圍不仅限于[秋元康](../Page/秋元康.md "wikilink")担任制作人的歌曲，也包括了AKB48集團成員参加演唱的他方作品。
 
 为便于查阅，剧场公演中出现的歌曲与发行唱片中收录的歌曲若有相同者，會在列表中重複记载。
 
@@ -831,13 +831,13 @@ someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- 
 
       -
         作为渡邊美優紀1ST SOLO
-        單曲[與其溫柔不如給我一個吻的CW曲收錄](../Page/與其溫柔不如給我一個吻.md "wikilink")。
+        單曲[與其溫柔不如給我一個吻](../Page/與其溫柔不如給我一個吻.md "wikilink")的CW曲收錄。
 
 #### 未音源化
 
 :\* 这像我一样（）
 
-:: [任天堂3DS游戏](../Page/任天堂3DS.md "wikilink")「AKB48+Me」收录曲（作詞：秋元康、作曲：増田武史）
+:: [任天堂3DS](../Page/任天堂3DS.md "wikilink")游戏「AKB48+Me」收录曲（作詞：秋元康、作曲：増田武史）
 
 :\* 共同的爱（）
 
@@ -880,7 +880,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - [清原](../Page/清原和博.md "wikilink")
     <!-- end list -->
       -
-        [第2屆AKB48红白对抗歌合战中表演](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")。
+        [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")中表演。
     **化作滚石吧**
       - 化作滚石吧（Team A ver.）
     <!-- end list -->
@@ -950,7 +950,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [第2屆AKB48红白对抗歌合战中表演](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")。
+        [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")中表演。
 
     <!-- end list -->
 
@@ -991,7 +991,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [第2屆AKB48红白对抗歌合战中表演](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")。
+        [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")中表演。
 
     <!-- end list -->
 
@@ -1010,7 +1010,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
   -
 
       -
-        [第3届AKB48红白对抗歌合战中表演](../Page/第3届AKB48红白对抗歌合战.md "wikilink")。
+        [第3届AKB48红白对抗歌合战](../Page/第3届AKB48红白对抗歌合战.md "wikilink")中表演。
 
     **我的YELL**
 
@@ -1055,7 +1055,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [第3届AKB48红白对抗歌合战中表演](../Page/第3届AKB48红白对抗歌合战.md "wikilink")。
+        [第3届AKB48红白对抗歌合战](../Page/第3届AKB48红白对抗歌合战.md "wikilink")中表演。
 
 <!-- end list -->
 
@@ -1064,7 +1064,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 红组钻石
     <!-- end list -->
       -
-        [第3届AKB48红白对抗歌合战中表演](../Page/第3届AKB48红白对抗歌合战.md "wikilink")。
+        [第3届AKB48红白对抗歌合战](../Page/第3届AKB48红白对抗歌合战.md "wikilink")中表演。
     **为了麻友**
       - 为了美咲
     <!-- end list -->
@@ -1635,7 +1635,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 <td><p>川上礼奈</p></td>
 <td><p>(壞路姫)わるきー<br />
 (Waruki)</p></td>
-<td><p><a href="../Page/岸和田市.md" title="wikilink">岸和田市场次中表演</a>。</p></td>
+<td><p><a href="../Page/岸和田市.md" title="wikilink">岸和田市</a>场次中表演。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4059,7 +4059,7 @@ Best Hit KAIMEI》中收录。
   -
 
       -
-        [第2屆AKB48红白对抗歌合战中表演](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")。
+        [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")中表演。
 
 ### 非日语版本
 
@@ -4067,7 +4067,7 @@ Best Hit KAIMEI》中收录。
 
 :\* 大声钻石
 
-:: 2009年7月3日，AKB48在参加[日本博覽會时披露](../Page/日本博覽會.md "wikilink")。
+:: 2009年7月3日，AKB48在参加[日本博覽會](../Page/日本博覽會.md "wikilink")时披露。
 
 :\* Fortune Cookie in Love - English Version -
 
@@ -4089,7 +4089,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
   -
 
       -
-        2009年7月3日，AKB48在参加[日本博覽會时披露](../Page/日本博覽會.md "wikilink")。
+        2009年7月3日，AKB48在参加[日本博覽會](../Page/日本博覽會.md "wikilink")时披露。
 
 ### 上述以外
 
@@ -4175,7 +4175,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        Ruka（）&麻里亜（秋元才加、[高橋南或](../Page/高橋南.md "wikilink")[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")）演唱
+        Ruka（）&麻里亜（秋元才加、[高橋南](../Page/高橋南.md "wikilink")或[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")）演唱
         AKB歌劇团《Infinity》主題歌。
         （作詞：[广井王子](https://zh.wikipedia.org/wiki/广井王子 "wikilink")、作曲：田中公平、編曲：松尾早人）
 
@@ -4196,7 +4196,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        [藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")、[近野莉菜演唱](../Page/近野莉菜.md "wikilink")
+        [藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")演唱
         因担任宣传大使而演唱。
         （作曲：松本卓也）
 
@@ -4262,7 +4262,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        [龝田和惠演唱](../Page/龝田和惠.md "wikilink")
+        [龝田和惠](../Page/龝田和惠.md "wikilink")演唱
         2012年3月28日开始提供下载的下载限定单曲。
 
     <!-- end list -->
@@ -4282,7 +4282,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        [佐藤堇演唱](../Page/佐藤堇.md "wikilink")
+        [佐藤堇](../Page/佐藤堇.md "wikilink")演唱
         《奥特曼传奇 Original Soundtrack》中收录。
 
     <!-- end list -->
@@ -4292,7 +4292,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        仲谷明香、[岩田華怜参加了歌曲录制](../Page/岩田華怜.md "wikilink")。同时单曲内也收录了岩田的个人演唱版本。
+        仲谷明香、[岩田華怜](../Page/岩田華怜.md "wikilink")参加了歌曲录制。同时单曲内也收录了岩田的个人演唱版本。
 
     <!-- end list -->
 

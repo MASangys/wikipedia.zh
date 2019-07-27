@@ -1,4 +1,4 @@
-此**GNU软件包列表**列出了由[自由软件基金会作为](../Page/自由软件基金会.md "wikilink")[GNU计划的一部分而开发或维护的重要](../Page/GNU.md "wikilink")[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，GNU计划目的是开发完全由[自由软件组成的](../Page/自由软件.md "wikilink")[类Unix计算机](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。其中许多的软件包与[Linux内核一起构建了完整的计算机](../Page/Linux内核.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
+此**GNU软件包列表**列出了由[自由软件基金会](../Page/自由软件基金会.md "wikilink")作为[GNU](../Page/GNU.md "wikilink")计划的一部分而开发或维护的重要[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，GNU计划目的是开发完全由[自由软件](../Page/自由软件.md "wikilink")组成的[类Unix计算机](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。其中许多的软件包与[Linux内核](../Page/Linux内核.md "wikilink")一起构建了完整的计算机[操作系统](../Page/操作系统.md "wikilink")。
 
 ## GNU软件包意味着什么
 
@@ -198,7 +198,7 @@
 4.  [GNU make](https://zh.wikipedia.org/wiki/Make#GNU_make "wikilink") –
     GNU make程序
 5.  [GNU编译器套裝](../Page/GCC.md "wikilink")（GNU Compiler Collection） –
-    多种[编程语言的优化](../Page/编程语言.md "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，包括[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[C++](../Page/C++.md "wikilink")，[Fortran](../Page/Fortran.md "wikilink")，[Ada](../Page/Ada.md "wikilink")，[Java](../Page/Java.md "wikilink")。
+    多种[编程语言](../Page/编程语言.md "wikilink")的优化[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，包括[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[C++](../Page/C++.md "wikilink")，[Fortran](../Page/Fortran.md "wikilink")，[Ada](../Page/Ada.md "wikilink")，[Java](../Page/Java.md "wikilink")。
 6.  [Data Display
     Debugger](https://zh.wikipedia.org/wiki/Data_Display_Debugger "wikilink")
     – 几个调试器的[前端](https://zh.wikipedia.org/wiki/调试工具#前端 "wikilink")（ddd）
@@ -228,7 +228,7 @@
     Microsoft[.NET的替代](../Page/.NET框架.md "wikilink")
 17. [GNU
     Classpath](https://zh.wikipedia.org/wiki/GNU_Classpath "wikilink") –
-    [Java库](../Page/Java.md "wikilink")
+    [Java](../Page/Java.md "wikilink")库
 18. [GNU bison](https://zh.wikipedia.org/wiki/GNU_bison "wikilink") –
     作为[yacc替代的](https://zh.wikipedia.org/wiki/yacc "wikilink")[语法分析器产生程序](../Page/編譯器編譯程式.md "wikilink")
 19. [GNU Guile](../Page/GNU_Guile.md "wikilink") –
@@ -244,9 +244,9 @@
     实现[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[双向算法的库](https://zh.wikipedia.org/wiki/双向文稿 "wikilink")
 24. [MIT/GNU
     Scheme](https://zh.wikipedia.org/wiki/MIT/GNU_Scheme "wikilink") –
-    [麻省理工学院](../Page/麻省理工学院.md "wikilink")[Scheme语言的解释器](../Page/Scheme.md "wikilink")、编译器及库。
+    [麻省理工学院](../Page/麻省理工学院.md "wikilink")[Scheme](../Page/Scheme.md "wikilink")语言的解释器、编译器及库。
 25. [SmartEiffel](https://zh.wikipedia.org/wiki/SmartEiffel "wikilink")
-    – GNU [Eiffel编译器](../Page/Eiffel.md "wikilink")
+    – GNU [Eiffel](../Page/Eiffel.md "wikilink")编译器
 26. [GNU
     Smalltalk](https://zh.wikipedia.org/wiki/GNU_Smalltalk "wikilink") –
     [ANSI](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink")
@@ -332,7 +332,7 @@
 21. [pexec](https://zh.wikipedia.org/wiki/pexec "wikilink") –
     并行执行shell命令（在单一主机上，或使用[SSH连接多个主机](https://zh.wikipedia.org/wiki/SSH "wikilink")）
 22. [GNU Privacy Guard](../Page/GnuPG.md "wikilink") –
-    [PGP加密替代](../Page/PGP.md "wikilink")
+    [PGP](../Page/PGP.md "wikilink")加密替代
 23. GNU [wget](https://zh.wikipedia.org/wiki/wget "wikilink") –
     高级网络和互联网文件检索工具
 24. [GNUnet](https://zh.wikipedia.org/wiki/GNUnet "wikilink") –
@@ -392,7 +392,7 @@
 </tr>
 <tr class="even">
 <td><p>| <a href="https://zh.wikipedia.org/wiki/PSPP" title="wikilink">PSPP</a></p></td>
-<td><p>与<a href="../Page/SPSS.md" title="wikilink">SPSS竞争的一个统计程序</a></p></td>
+<td><p>与<a href="../Page/SPSS.md" title="wikilink">SPSS</a>竞争的一个统计程序</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -441,11 +441,11 @@
     Backgammon](https://zh.wikipedia.org/wiki/GNU_Backgammon "wikilink")
     - [双陆棋游戏](https://zh.wikipedia.org/wiki/双陆棋 "wikilink")
 2.  [GNUbik](https://zh.wikipedia.org/wiki/GNUbik "wikilink") -
-    [魔方的自由软件实现](../Page/魔方.md "wikilink")
+    [魔方](../Page/魔方.md "wikilink")的自由软件实现
 3.  [GNU Chess](../Page/GNU_Chess.md "wikilink") -
     使用[glChess](https://zh.wikipedia.org/wiki/glChess "wikilink")、[Xboard或类似的国际象棋游戏引擎](https://zh.wikipedia.org/wiki/Xboard "wikilink")
 4.  [GNU Go](../Page/GNU_Go.md "wikilink") -
-    [围棋的实现](../Page/围棋.md "wikilink")
+    [围棋](../Page/围棋.md "wikilink")的实现
 5.  [GNU Jump](https://zh.wikipedia.org/wiki/GNU_Jump "wikilink") -
     目标是爬上塔，在不同平台之间跳越而不掉下
 6.  [GNU Kart](https://zh.wikipedia.org/wiki/GNU_Kart "wikilink") - 赛车游戏
@@ -472,7 +472,7 @@
 7.  [3DLDF](https://zh.wikipedia.org/wiki/3DLDF "wikilink") – 图形软件包
 8.  [GNU
     LibreDWG](https://zh.wikipedia.org/wiki/GNU_LibreDWG "wikilink") –
-    读取写入[.dwg文件的库](../Page/.dwg.md "wikilink")
+    读取写入[.dwg](../Page/.dwg.md "wikilink")文件的库
 9.  GNU dbm（或GDBM）
 10. [GNU
     MediaGoblin](https://zh.wikipedia.org/wiki/GNU_MediaGoblin "wikilink")

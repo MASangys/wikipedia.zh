@@ -3,8 +3,8 @@ World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](h
 
 ## 概述
 
-[SM娛樂在](../Page/SM娛樂.md "wikilink")2009年11月宣布舉辦這次演唱會。門票銷售從11月19日開始，當中首爾場門票更於開售後三分鐘內全部售罄。\[1\]
-演唱會演出了[少女時代的出道單曲](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（《[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")》）、兩張迷你專輯（《[Gee](https://zh.wikipedia.org/wiki/Gee "wikilink")》、《[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")》）及兩張專輯（《[少女時代](../Page/少女時代_\(專輯\).md "wikilink")》、《[Oh\!](../Page/Oh!_\(專輯\).md "wikilink")》）的大部分曲目。七場巡迴演唱會在三個城市舉行，以[首爾為首站拉開序幕](../Page/首爾.md "wikilink")，然後是[上海及](https://zh.wikipedia.org/wiki/上海 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，共動員了五萬五千名粉絲前往入場。
+[SM娛樂](../Page/SM娛樂.md "wikilink")在2009年11月宣布舉辦這次演唱會。門票銷售從11月19日開始，當中首爾場門票更於開售後三分鐘內全部售罄。\[1\]
+演唱會演出了[少女時代的出道單曲](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（《[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")》）、兩張迷你專輯（《[Gee](https://zh.wikipedia.org/wiki/Gee "wikilink")》、《[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")》）及兩張專輯（《[少女時代](../Page/少女時代_\(專輯\).md "wikilink")》、《[Oh\!](../Page/Oh!_\(專輯\).md "wikilink")》）的大部分曲目。七場巡迴演唱會在三個城市舉行，以[首爾](../Page/首爾.md "wikilink")為首站拉開序幕，然後是[上海及](https://zh.wikipedia.org/wiki/上海 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，共動員了五萬五千名粉絲前往入場。
 
 原定於2010年7月24日在泰國曼谷舉行的演唱會，因當地發生抗議，使公演無限期延期。\[2\]
 

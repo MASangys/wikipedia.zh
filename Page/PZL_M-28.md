@@ -10,7 +10,7 @@ An-28的設計概念是由[An-14延伸而來](https://zh.wikipedia.org/wiki/An-1
 
 1969年9月，An-14M在[烏克蘭首度升空](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")，1975年間確定了乘員的配置為2名機組員加上15名乘客。1978年An-28的生產線移轉到[波蘭的PZL](https://zh.wikipedia.org/wiki/波蘭 "wikilink")-Mielec公司，1986年An-28才拿到蘇聯頒發的適航證書。
 
-1993年，在重新設計了機身與機翼的構型，改採西方國家的航空電子系統及[普拉特·惠特尼加拿大公司生產的PT](../Page/普拉特·惠特尼加拿大公司.md "wikilink")6A-65B引擎，再搭配Hartzell
+1993年，在重新設計了機身與機翼的構型，改採西方國家的航空電子系統及[普拉特·惠特尼加拿大公司](../Page/普拉特·惠特尼加拿大公司.md "wikilink")生產的PT6A-65B引擎，再搭配Hartzell
 Propeller公司型號為HC-B5MP-3的5片式轉子葉片後，更改名稱為現行的PZL M28 Skytruck。
 
 2004年通過了[美國聯邦航空管理局的形式認證](https://zh.wikipedia.org/wiki/美國聯邦航空管理局 "wikilink")，獲得美軍採用。
@@ -186,7 +186,7 @@ Propeller公司型號為HC-B5MP-3的5片式轉子葉片後，更改名稱為現�
   - PZL An-28
     在[安托諾夫的原始設計上改良](https://zh.wikipedia.org/wiki/安托諾夫 "wikilink")，使用PZL-10S型發動機(原來使用的發動機型號是TV-10B)。
   - PZL M28 Skytruck
-    全新設計的機身結構、機翼、西方世界的航空電子系統及採用[普拉特·惠特尼加拿大公司生產的PT](../Page/普拉特·惠特尼加拿大公司.md "wikilink")6A-65B引擎搭配Hartzell
+    全新設計的機身結構、機翼、西方世界的航空電子系統及採用[普拉特·惠特尼加拿大公司](../Page/普拉特·惠特尼加拿大公司.md "wikilink")生產的PT6A-65B引擎搭配Hartzell
     Propeller公司型號為HC-B5MP-3的5片式轉子葉片。
   - PZL M28B Bryza
     軍用化的型號，與Skytruck基本相同但是沿用PZL-10S發動機，主要為波蘭海、空軍所使用。
@@ -219,9 +219,9 @@ Propeller公司型號為HC-B5MP-3的5片式轉子葉片後，更改名稱為現�
 ## 事故
 
   - 蘇利南的藍翼航空於[2008年4月3日](https://zh.wikipedia.org/wiki/2008年蘇利南空難 "wikilink")（全機共17人，無人生還）、2009年10月15日（全機共8人，4人受輕傷）、[2010年5月15日](https://zh.wikipedia.org/wiki/2010年蘇利南藍翼航空墜毀事件 "wikilink")（全機共8人，無人生還）發生過三次M-28機型的空難。
-  - 2005年11月4日，一架[越南空軍所有的M](https://zh.wikipedia.org/wiki/越南 "wikilink")28墬毀在[河內市附近的](../Page/河內市.md "wikilink")[嘉林縣](https://zh.wikipedia.org/wiki/嘉林縣 "wikilink"),
+  - 2005年11月4日，一架[越南空軍所有的M](https://zh.wikipedia.org/wiki/越南 "wikilink")28墬毀在[河內市](../Page/河內市.md "wikilink")附近的[嘉林縣](https://zh.wikipedia.org/wiki/嘉林縣 "wikilink"),
     三名機組員死亡。\[3\]
-  - 2010年10月27日，一架[印尼國家警政署編號](https://zh.wikipedia.org/wiki/印尼 "wikilink")4204的航機墬毀在[納比雷的](https://zh.wikipedia.org/wiki/納比雷 "wikilink")。這架飛機之前曾運送不幸在[南亞大海嘯中喪生的](https://zh.wikipedia.org/wiki/南亞大海嘯 "wikilink")[西巴布亞省居民](../Page/西巴布亞省.md "wikilink")，5名機組員死亡。
+  - 2010年10月27日，一架[印尼國家警政署編號](https://zh.wikipedia.org/wiki/印尼 "wikilink")4204的航機墬毀在[納比雷的](https://zh.wikipedia.org/wiki/納比雷 "wikilink")。這架飛機之前曾運送不幸在[南亞大海嘯中喪生的](https://zh.wikipedia.org/wiki/南亞大海嘯 "wikilink")[西巴布亞省](../Page/西巴布亞省.md "wikilink")居民，5名機組員死亡。
 
 ## 參見
 

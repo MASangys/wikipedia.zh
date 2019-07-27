@@ -1,13 +1,13 @@
 __NOTOC__   **TCP
-Wrapper**是一个基于主机的网络[访问控制表系统](https://zh.wikipedia.org/wiki/访问控制表 "wikilink")，用于对[类Unix系统](../Page/类Unix系统.md "wikilink")（如[Linux或](../Page/Linux.md "wikilink")[BSD](../Page/BSD.md "wikilink")）的网络访问。其能将主机或[子网](../Page/子网.md "wikilink")[IP地址](../Page/IP地址.md "wikilink")、[名称及](https://zh.wikipedia.org/wiki/主機名稱 "wikilink")查询回复作为筛选标记，实现[访问控制](https://zh.wikipedia.org/wiki/访问控制 "wikilink")。
+Wrapper**是一个基于主机的网络[访问控制表系统](https://zh.wikipedia.org/wiki/访问控制表 "wikilink")，用于对[类Unix系统](../Page/类Unix系统.md "wikilink")（如[Linux](../Page/Linux.md "wikilink")或[BSD](../Page/BSD.md "wikilink")）的网络访问。其能将主机或[子网](../Page/子网.md "wikilink")[IP地址](../Page/IP地址.md "wikilink")、[名称及](https://zh.wikipedia.org/wiki/主機名稱 "wikilink")查询回复作为筛选标记，实现[访问控制](https://zh.wikipedia.org/wiki/访问控制 "wikilink")。
 
 原始代码是1990年左右由[荷兰人Wietse](https://zh.wikipedia.org/wiki/荷兰人 "wikilink")
-Venema编写的，目的是监视[埃因霍温理工大学数学和计算机科学系的](../Page/埃因霍温理工大学.md "wikilink")[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[工作站上的黑客行动](../Page/工作站.md "wikilink")。\[1\]Wietse
+Venema编写的，目的是监视[埃因霍温理工大学](../Page/埃因霍温理工大学.md "wikilink")数学和计算机科学系的[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[工作站](../Page/工作站.md "wikilink")上的黑客行动。\[1\]Wietse
 Venema一直维护这个程序到1995年；2001年6月1日，在其自己的[BSD风格的许可证下发布](../Page/BSD许可证.md "wikilink")。
 
 ## 1999年木马事件
 
-1999年1月，软件在[埃因霍温理工大学的分发包被修改后的版本替换](../Page/埃因霍温理工大学.md "wikilink")，其包含一个被[木马感染的软件版本](../Page/特洛伊木马_\(电脑\).md "wikilink")，入侵者可以访问安装了此版本软件的任何一个服务器。作者在几个小时内发现了这个问题，此后他将主分发站点改为其个人网站\[2\]\[3\]\[4\]\[5\]。
+1999年1月，软件在[埃因霍温理工大学](../Page/埃因霍温理工大学.md "wikilink")的分发包被修改后的版本替换，其包含一个被[木马感染的软件版本](../Page/特洛伊木马_\(电脑\).md "wikilink")，入侵者可以访问安装了此版本软件的任何一个服务器。作者在几个小时内发现了这个问题，此后他将主分发站点改为其个人网站\[2\]\[3\]\[4\]\[5\]。
 
 ## 参见
 

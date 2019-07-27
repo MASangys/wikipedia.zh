@@ -8,7 +8,7 @@
 
 由于2.4GHz频带已经被到处使用，采用5GHz的频带让802.11a具有更少冲突的优点。然而，高载波频率也带来了负面效果。802.11a几乎被限制在直线范围内使用，这导致必须使用更多的接入点；同样还意味着802.11a不能传播得像802.11b那么远，因为它更容易被吸收。
 
-尽管2003年的世界无线电通信会议让802.11a在全球的应用变得更容易，不同的国家还是有不同的规定支持。[美国和](../Page/美国.md "wikilink")[日本已经出现了相关规定对](../Page/日本.md "wikilink")802.11a进行了认可，但是在其它地区，如[欧盟](https://zh.wikipedia.org/wiki/欧盟 "wikilink")，管理机构却考虑使用欧洲的[HIPERLAN标准](https://zh.wikipedia.org/wiki/HIPERLAN "wikilink")，而且在2002年中期禁止在欧洲使用802.11a。在美国，2003年中期[联邦通信委员会的决定可能会为](../Page/联邦通信委员会.md "wikilink")802.11a提供更多的频谱。
+尽管2003年的世界无线电通信会议让802.11a在全球的应用变得更容易，不同的国家还是有不同的规定支持。[美国](../Page/美国.md "wikilink")和[日本](../Page/日本.md "wikilink")已经出现了相关规定对802.11a进行了认可，但是在其它地区，如[欧盟](https://zh.wikipedia.org/wiki/欧盟 "wikilink")，管理机构却考虑使用欧洲的[HIPERLAN标准](https://zh.wikipedia.org/wiki/HIPERLAN "wikilink")，而且在2002年中期禁止在欧洲使用802.11a。在美国，2003年中期[联邦通信委员会](../Page/联邦通信委员会.md "wikilink")的决定可能会为802.11a提供更多的频谱。
 
 在52个[OFDM副载波中](https://zh.wikipedia.org/wiki/OFDM "wikilink")，48个用于传输数据，4个是[引示副载波](https://zh.wikipedia.org/wiki/引示副载波 "wikilink")（pilot
 carrier），每一个带宽为0.3125MHz（20MHz/64），可以是[二相](https://zh.wikipedia.org/wiki/二相移相键控 "wikilink")[移相键控](https://zh.wikipedia.org/wiki/相位偏移调变 "wikilink")（BPSK），[四相移相键控](https://zh.wikipedia.org/wiki/四相移相键控 "wikilink")（QPSK），16-[QAM或者](https://zh.wikipedia.org/wiki/QAM "wikilink")64-QAM。总带宽为20MHz，占用带宽为16.6MHz。符号时间为4微秒，保护间隔0.8微秒。实际产生和解码正交分量的过程都是在基带中由DSP完成，然后由发射器将频率提升到5GHz。每一个副载波都需要用复数来表示。时域信号通过[逆向快速傅里叶变换产生](https://zh.wikipedia.org/wiki/IFFT "wikilink")。接收器将信号降频至20MHz，重新采样并通过[快速傅里叶变换来重新获得原始系数](https://zh.wikipedia.org/wiki/FFT "wikilink")。使用OFDM的好处包括减少接收时的多路效应，增加了频谱效率。

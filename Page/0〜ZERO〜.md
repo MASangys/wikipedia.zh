@@ -6,7 +6,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 概要
 
   - 《0〜ZERO〜》是第三代J Soul Brothers出道以來第一張4A單曲。
-  - A面曲《花火》為[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2012年8月度片尾曲。
+  - A面曲《花火》為[朝日電視台](../Page/朝日電視台.md "wikilink")節目《お願い\!ランキング》2012年8月度片尾曲。
   - A面曲《（YOU SHINE）THE
     WORLD》為[ABC-MART](https://zh.wikipedia.org/wiki/ABC-MART "wikilink")「夏季涼鞋博覽會」電視廣告歌曲。
   - A面曲《Kiss You Tonight》為劇集《[結婚同窗會 〜SEASIDE
@@ -19,7 +19,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     ONLY），一共發行了8個版本。「CD+DVD」收錄了《花火》的Music
     Video和單獨Arena巡迴演唱會「第三代J Soul Brothers LIVE TOUR 2012 0〜ZERO〜」的告知影像。
   - 在8月20日於[公信榜单曲週排行榜取得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")2位。
-  - 在第54屆[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」，同年年末在[第63回NHK紅白歌合戰演唱其歌曲](../Page/第63回NHK紅白歌合戰.md "wikilink")《花火》
+  - 在第54屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")獲得「優秀作品獎」，同年年末在[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")演唱其歌曲《花火》
   - 第三代J Soul
     Brothers憑《花火》於[MTV日本音樂錄影帶大獎](../Page/MTV日本音樂錄影帶大獎.md "wikilink")2013奪得『最佳團體音樂錄影帶獎』。
 

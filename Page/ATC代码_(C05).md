@@ -46,17 +46,17 @@
 ### C05AX 治疗痔疮和肛裂的其它外用药（Other agents for treatment of hemorrhoids and anal fissures for topical use）
 
   -
-    C05AX01 [铝制剂](../Page/铝.md "wikilink")（Aluminium preparations）
-    C05AX02 [铋制剂复方](../Page/铋.md "wikilink")（Bismuth preparations,
+    C05AX01 [铝](../Page/铝.md "wikilink")制剂（Aluminium preparations）
+    C05AX02 [铋](../Page/铋.md "wikilink")制剂复方（Bismuth preparations,
     combinations）
     C05AX03 其它制剂复方（Other preparations, combinations）
-    C05AX04 [锌制剂](../Page/锌.md "wikilink")（Zinc preparations）
+    C05AX04 [锌](../Page/锌.md "wikilink")制剂（Zinc preparations）
     C05AX05
     [三苄糖苷](https://zh.wikipedia.org/wiki/三苄糖苷 "wikilink")（Tribenoside）
 
 ## C05B 抗[静脉曲张药](https://zh.wikipedia.org/wiki/静脉曲张 "wikilink")（Antivaricose therapy）
 
-### C05BA [局部用药的](https://zh.wikipedia.org/wiki/局部用药 "wikilink")[肝素或](../Page/肝素.md "wikilink")[类肝素](https://zh.wikipedia.org/wiki/类肝素 "wikilink")（Heparins or heparinoids for topical use）
+### C05BA [局部用药的](https://zh.wikipedia.org/wiki/局部用药 "wikilink")[肝素](../Page/肝素.md "wikilink")或[类肝素](https://zh.wikipedia.org/wiki/类肝素 "wikilink")（Heparins or heparinoids for topical use）
 
   -
     C05BA01

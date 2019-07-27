@@ -1,5 +1,5 @@
-是[任天堂开发的一系列聲音連動游戏](../Page/任天堂.md "wikilink")（Sound Link
-Game）形式的[战略角色扮演游戏](https://zh.wikipedia.org/wiki/战略角色扮演游戏 "wikilink")，于1997年9月29日由[任天堂在日本发售](../Page/任天堂.md "wikilink")，平台为[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。该作通过[BS-X卫星下载发行](https://zh.wikipedia.org/wiki/BS-X "wikilink")，至1997年10月20日截止共4话。在1997年11月和1999年4月还进行了再放送。
+是[任天堂](../Page/任天堂.md "wikilink")开发的一系列聲音連動游戏（Sound Link
+Game）形式的[战略角色扮演游戏](https://zh.wikipedia.org/wiki/战略角色扮演游戏 "wikilink")，于1997年9月29日由[任天堂](../Page/任天堂.md "wikilink")在日本发售，平台为[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。该作通过[BS-X卫星下载发行](https://zh.wikipedia.org/wiki/BS-X "wikilink")，至1997年10月20日截止共4话。在1997年11月和1999年4月还进行了再放送。
 
 ## 参考文献
 

@@ -1,20 +1,20 @@
 **Sherlock**是[蘋果公司為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac
 OS推出的檔案與網頁搜尋工具](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，最初在[Mac
 OS
-8.5中作為](../Page/Mac_OS_8.md "wikilink")[Finder的外掛模組推出](../Page/Finder.md "wikilink")，提供檔案搜尋功能。\[1\]Sherlock的名稱出自[福爾摩斯](https://zh.wikipedia.org/wiki/福爾摩斯 "wikilink")（**Sherlock**
+8.5中作為](../Page/Mac_OS_8.md "wikilink")[Finder](../Page/Finder.md "wikilink")的外掛模組推出，提供檔案搜尋功能。\[1\]Sherlock的名稱出自[福爾摩斯](https://zh.wikipedia.org/wiki/福爾摩斯 "wikilink")（**Sherlock**
 Holmes），是[Mac OS 8.5至](../Page/Mac_OS_8.md "wikilink")[Mac OS X
 Panther的系統預設搜尋工具](../Page/Mac_OS_X_Panther.md "wikilink")，可搜尋本地檔案、網頁和網上的各種生活資訊，如電影上映日期、購物資訊和航班排程等。Sherlock使用與之前的[AppleSearch類似的基本索引程式碼和搜尋邏輯](https://zh.wikipedia.org/wiki/AppleSearch "wikilink")，可搜尋本地檔案和檔案內容，同時可借助一系列的外掛模組，利用現有的網頁[搜尋器來搜尋](https://zh.wikipedia.org/wiki/搜尋器 "wikilink")[萬維網項目](https://zh.wikipedia.org/wiki/萬維網 "wikilink")。Sherlock的外掛模組以[純文字檔案作基礎](https://zh.wikipedia.org/wiki/純文字 "wikilink")，使用者可相對輕鬆地自行製作Sherlock外掛模組。
 
 Sherlock最終被[Mac OS X
-Tiger的](../Page/Mac_OS_X_Tiger.md "wikilink")[Spotlight與](https://zh.wikipedia.org/wiki/Spotlight "wikilink")[Dashboard取代](../Page/Dashboard.md "wikilink")（但在Mac
+Tiger的](../Page/Mac_OS_X_Tiger.md "wikilink")[Spotlight與](https://zh.wikipedia.org/wiki/Spotlight "wikilink")[Dashboard](../Page/Dashboard.md "wikilink")取代（但在Mac
 OS X Tiger裡，系統預設安裝仍附帶Sherlock）。Sherlock自帶的標準外掛模組大部分現已失效，自2007年的[Mac OS X
 Leopard開始](../Page/Mac_OS_X_Leopard.md "wikilink")，系統亦已經不再附帶該項軟件。\[2\]
 
 ## 外掛模組
 
-Sherlock搜尋外掛模組為[SGML檔案](../Page/SGML.md "wikilink")，其[副檔名通常為](https://zh.wikipedia.org/wiki/副檔名 "wikilink")「.src」。Sherlock外掛模組以三部分組成，其元件名稱分別為：<search>、<input>和<interpret>標籤。Sherlock會分別利用這些元件來識別搜尋器的[網頁和與搜尋有關的部份內容](../Page/網頁.md "wikilink")，以及搜尋結果。同時亦可定義Sherlock外掛模組的升級方式。
+Sherlock搜尋外掛模組為[SGML](../Page/SGML.md "wikilink")檔案，其[副檔名通常為](https://zh.wikipedia.org/wiki/副檔名 "wikilink")「.src」。Sherlock外掛模組以三部分組成，其元件名稱分別為：<search>、<input>和<interpret>標籤。Sherlock會分別利用這些元件來識別搜尋器的[網頁](../Page/網頁.md "wikilink")和與搜尋有關的部份內容，以及搜尋結果。同時亦可定義Sherlock外掛模組的升級方式。
 
-Sherlock的搜尋外掛模組在經過調整之後，亦可用於[Mozilla的瀏覽器套件之中](../Page/Mozilla.md "wikilink")。這些外掛模組亦被稱為「[Mycroft
+Sherlock的搜尋外掛模組在經過調整之後，亦可用於[Mozilla](../Page/Mozilla.md "wikilink")的瀏覽器套件之中。這些外掛模組亦被稱為「[Mycroft
 project外掛模組](https://zh.wikipedia.org/wiki/Mycroft_project "wikilink")」（Mycroft即福爾摩斯的哥哥，邁克羅夫特·福爾摩斯）。\[3\]
 
 ## 頻道
@@ -44,7 +44,7 @@ Sherlock 3的搜尋外掛模組是一個網頁應用程式，每次使用都會�
     v10.2](../Page/Mac_OS_X_v10.2.md "wikilink")，僅有[Mac OS
     X版](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
   - Sherlock的本地搜尋功能最終被[Mac OS X
-    Tiger的](../Page/Mac_OS_X_Tiger.md "wikilink")[Spotlight取代](https://zh.wikipedia.org/wiki/Spotlight "wikilink")，其他功能則被[Dashboard取代](../Page/Dashboard.md "wikilink")。[Mac
+    Tiger的](../Page/Mac_OS_X_Tiger.md "wikilink")[Spotlight取代](https://zh.wikipedia.org/wiki/Spotlight "wikilink")，其他功能則被[Dashboard](../Page/Dashboard.md "wikilink")取代。[Mac
     OS X
     Leopard開始系統不再附帶該項軟件](../Page/Mac_OS_X_Leopard.md "wikilink")。Sherlock從未提供過[通用二進制版本](https://zh.wikipedia.org/wiki/通用二進制 "wikilink")，因此亦無法在[OS
     X

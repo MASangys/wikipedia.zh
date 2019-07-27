@@ -1,4 +1,4 @@
-**4ever**是[周子娛樂於](../Page/周子娛樂.md "wikilink")2012年推出的組合，由[孫沁岳](https://zh.wikipedia.org/wiki/孫沁岳 "wikilink")（沁岳）、[簡宏霖](https://zh.wikipedia.org/wiki/簡宏霖 "wikilink")（Jolin）、[李迪恩](https://zh.wikipedia.org/wiki/李迪恩 "wikilink")（迪恩）、[張洛偍組成](https://zh.wikipedia.org/wiki/張洛偍 "wikilink")。2012年6月10日發行首張EP《4ever》，後各自專注於戲劇演出。2018年初，孫沁岳、簡宏霖、李迪恩約滿，孫沁岳前往北京中央戲劇學院進修，重回學生生活。李迪恩於5月入伍服消防替代役，為期一年。簡宏霖於10月爆出與經紀人交惡，雙方在社交平台互掀醜事，2019年1月改用藝名言明澔參與蔡依林《腦公》MV，演出秋生一角。
+**4ever**是[周子娛樂](../Page/周子娛樂.md "wikilink")於2012年推出的組合，由[孫沁岳](https://zh.wikipedia.org/wiki/孫沁岳 "wikilink")（沁岳）、[簡宏霖](https://zh.wikipedia.org/wiki/簡宏霖 "wikilink")（Jolin）、[李迪恩](https://zh.wikipedia.org/wiki/李迪恩 "wikilink")（迪恩）、[張洛偍組成](https://zh.wikipedia.org/wiki/張洛偍 "wikilink")。2012年6月10日發行首張EP《4ever》，後各自專注於戲劇演出。2018年初，孫沁岳、簡宏霖、李迪恩約滿，孫沁岳前往北京中央戲劇學院進修，重回學生生活。李迪恩於5月入伍服消防替代役，為期一年。簡宏霖於10月爆出與經紀人交惡，雙方在社交平台互掀醜事，2019年1月改用藝名言明澔參與蔡依林《腦公》MV，演出秋生一角。
 
 ## 團體沿革
 
@@ -391,7 +391,7 @@
 
   - 2012年《BOBSON春夏目錄》
   - 2012年《Lativ秋季新品平面》
-  - 2014年《Crocs任大中華代言人“Fun享大使”[林依晨與](../Page/林依晨.md "wikilink")4ever微電影與目錄》
+  - 2014年《Crocs任大中華代言人“Fun享大使”[林依晨](../Page/林依晨.md "wikilink")與4ever微電影與目錄》
 
 ### 戲劇
 
@@ -418,7 +418,7 @@
 <td><center>
 <p>童嘉輝</p></td>
 <td><center>
-<p><a href="../Page/賀軍翔.md" title="wikilink">賀軍翔</a>、<a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>、<a href="../Page/王傳一.md" title="wikilink">王傳一等</a></p></td>
+<p><a href="../Page/賀軍翔.md" title="wikilink">賀軍翔</a>、<a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>、<a href="../Page/王傳一.md" title="wikilink">王傳一</a>等</p></td>
 <td><center>
 <p>全劇</p></td>
 <td><center>
@@ -726,7 +726,7 @@
 <td><center>
 <p>李進勤</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張立昂" title="wikilink">張立昂</a>、<a href="https://zh.wikipedia.org/wiki/邵雨薇" title="wikilink">邵雨薇</a>、<a href="../Page/蔡黃汝.md" title="wikilink">蔡黃汝等</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張立昂" title="wikilink">張立昂</a>、<a href="https://zh.wikipedia.org/wiki/邵雨薇" title="wikilink">邵雨薇</a>、<a href="../Page/蔡黃汝.md" title="wikilink">蔡黃汝</a>等</p></td>
 <td><center>
 <p>全劇</p></td>
 <td><center>
@@ -742,7 +742,7 @@
 <td><center>
 <p>朱亮瑜</p></td>
 <td><center>
-<p><a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>、<a href="../Page/曾之喬.md" title="wikilink">曾之喬</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="../Page/李運慶.md" title="wikilink">李運慶等</a></p></td>
+<p><a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>、<a href="../Page/曾之喬.md" title="wikilink">曾之喬</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="../Page/李運慶.md" title="wikilink">李運慶</a>等</p></td>
 <td><center>
 <p>男配角</p></td>
 <td></td>
@@ -772,7 +772,7 @@
 <td><center>
 <p>尤宇安</p></td>
 <td><center>
-<p><a href="../Page/王傳一.md" title="wikilink">王傳一</a>、<a href="../Page/魏蔓.md" title="wikilink">魏蔓</a>、<a href="../Page/張雁名.md" title="wikilink">張雁名</a>、<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a>、<a href="../Page/蔡昌憲.md" title="wikilink">蔡昌憲等</a></p></td>
+<p><a href="../Page/王傳一.md" title="wikilink">王傳一</a>、<a href="../Page/魏蔓.md" title="wikilink">魏蔓</a>、<a href="../Page/張雁名.md" title="wikilink">張雁名</a>、<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a>、<a href="../Page/蔡昌憲.md" title="wikilink">蔡昌憲</a>等</p></td>
 <td><center>
 <p>男配角</p></td>
 <td></td>
@@ -787,7 +787,7 @@
 <td><center>
 <p>柯國隆</p></td>
 <td><center>
-<p><a href="../Page/謝佳見.md" title="wikilink">謝佳見</a>、<a href="../Page/黃薇渟.md" title="wikilink">黃薇渟</a>、<a href="../Page/洪小鈴.md" title="wikilink">洪小鈴等</a></p></td>
+<p><a href="../Page/謝佳見.md" title="wikilink">謝佳見</a>、<a href="../Page/黃薇渟.md" title="wikilink">黃薇渟</a>、<a href="../Page/洪小鈴.md" title="wikilink">洪小鈴</a>等</p></td>
 <td><center>
 <p>男主角之一</p></td>
 <td></td>
@@ -830,7 +830,7 @@
 <td><center>
 <p>小隻</p></td>
 <td><center>
-<p><a href="../Page/楊一展.md" title="wikilink">楊一展</a>、<a href="https://zh.wikipedia.org/wiki/豆花妹" title="wikilink">豆花妹</a>、<a href="../Page/周孝安.md" title="wikilink">周孝安</a>、<a href="../Page/陳敬宣.md" title="wikilink">陳敬宣等</a></p></td>
+<p><a href="../Page/楊一展.md" title="wikilink">楊一展</a>、<a href="https://zh.wikipedia.org/wiki/豆花妹" title="wikilink">豆花妹</a>、<a href="../Page/周孝安.md" title="wikilink">周孝安</a>、<a href="../Page/陳敬宣.md" title="wikilink">陳敬宣</a>等</p></td>
 <td><center>
 <p>全劇</p></td>
 <td><center>
@@ -846,7 +846,7 @@
 <td><center>
 <p>段若凡</p></td>
 <td><center>
-<p><a href="../Page/陳奕_(台灣).md" title="wikilink">陳奕</a>、<a href="../Page/魏蔓.md" title="wikilink">魏蔓</a>、<a href="https://zh.wikipedia.org/wiki/簡宏霖" title="wikilink">簡宏霖</a>、<a href="../Page/陶嫚曼.md" title="wikilink">陶嫚曼</a>、<a href="../Page/沈建宏.md" title="wikilink">沈建宏</a>、<a href="../Page/陳乃榮.md" title="wikilink">陳乃榮等</a></p></td>
+<p><a href="../Page/陳奕_(台灣).md" title="wikilink">陳奕</a>、<a href="../Page/魏蔓.md" title="wikilink">魏蔓</a>、<a href="https://zh.wikipedia.org/wiki/簡宏霖" title="wikilink">簡宏霖</a>、<a href="../Page/陶嫚曼.md" title="wikilink">陶嫚曼</a>、<a href="../Page/沈建宏.md" title="wikilink">沈建宏</a>、<a href="../Page/陳乃榮.md" title="wikilink">陳乃榮</a>等</p></td>
 <td><center></td>
 <td><center>
 <p>第二男主角</p></td>
@@ -874,7 +874,7 @@
 <td><center>
 <p>季言希</p></td>
 <td><center>
-<p><a href="../Page/謝祖武.md" title="wikilink">謝祖武</a>、<a href="../Page/苗可麗.md" title="wikilink">苗可麗</a>、<a href="../Page/李維維.md" title="wikilink">李維維</a>、<a href="../Page/陽詠存.md" title="wikilink">陽詠存等</a></p></td>
+<p><a href="../Page/謝祖武.md" title="wikilink">謝祖武</a>、<a href="../Page/苗可麗.md" title="wikilink">苗可麗</a>、<a href="../Page/李維維.md" title="wikilink">李維維</a>、<a href="../Page/陽詠存.md" title="wikilink">陽詠存</a>等</p></td>
 <td><center></td>
 <td><center>
 <p>第一男主角</p></td>
@@ -994,7 +994,7 @@
 
 | 首播時間    | 劇名                                           | 成員 | 角色      | 合作演員                                                                                                                       | 性質 |
 | ------- | -------------------------------------------- | -- | ------- | -------------------------------------------------------------------------------------------------------------------------- | -- |
-| 2016年3月 | 《[青春自拍團](../Page/青春自拍團.md "wikilink")：愛上她的他》 | 沁岳 | 張信俞（阿信） | [阿喜](https://zh.wikipedia.org/wiki/阿喜_\(藝人\) "wikilink")、[林珈安和](../Page/林珈安.md "wikilink")[黃甄妮](../Page/黃甄妮.md "wikilink") | 主演 |
+| 2016年3月 | 《[青春自拍團](../Page/青春自拍團.md "wikilink")：愛上她的他》 | 沁岳 | 張信俞（阿信） | [阿喜](https://zh.wikipedia.org/wiki/阿喜_\(藝人\) "wikilink")、[林珈安](../Page/林珈安.md "wikilink")和[黃甄妮](../Page/黃甄妮.md "wikilink") | 主演 |
 | 迪恩      | 偉嘉                                           |    |         |                                                                                                                            |    |
 |         |                                              |    |         |                                                                                                                            |    |
 

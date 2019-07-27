@@ -1,5 +1,5 @@
 《**Stand by
-U**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起在日本发行的第](../Page/東方神起.md "wikilink")28张[单曲](../Page/单曲.md "wikilink")。于2009年7月1日由[avex
+U**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第28张[单曲](../Page/单曲.md "wikilink")。于2009年7月1日由[avex
 trax公司下属厂牌](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[rhythm
 zone发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
@@ -9,7 +9,7 @@ zone发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 Are\!](https://zh.wikipedia.org/wiki/Share_The_World/We_Are! "wikilink")》发行相隔约3个月，是组合2009年第4张单曲。
 
 单曲分为「CD+DVD」「只CD」两种版本发行，前者有收录主打歌《Stand by
-U》分别由组合成员和演员[田中圭与](../Page/田中圭.md "wikilink")[入山法子出演的两个版本的MV与各MV的拍摄过程](../Page/入山法子.md "wikilink")（只在初回限定盘中收录），后者则收录有作为附赠音轨收录的的第七张单曲《[Sky](https://zh.wikipedia.org/wiki/Sky_\(東方神起单曲\) "wikilink")》和《Stand
+U》分别由组合成员和演员[田中圭](../Page/田中圭.md "wikilink")与[入山法子](../Page/入山法子.md "wikilink")出演的两个版本的MV与各MV的拍摄过程（只在初回限定盘中收录），后者则收录有作为附赠音轨收录的的第七张单曲《[Sky](https://zh.wikipedia.org/wiki/Sky_\(東方神起单曲\) "wikilink")》和《Stand
 by U》的混音版本。初回限定版本封入特典是封面大小的卡片（6种中随机封入1种），“只CD”版本有12页豪华手册同捆封入。
 
 《Stand by

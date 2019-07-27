@@ -115,7 +115,7 @@ Cam）\[6\]軟體可拍攝完整的感光元件尺寸，儲存超過30M檔案大
 ## 評論
 
 [Nokia_Lumia_1020_vs._Nokia_808_PureView_-_(1).jpg](https://zh.wikipedia.org/wiki/File:Nokia_Lumia_1020_vs._Nokia_808_PureView_-_\(1\).jpg "fig:Nokia_Lumia_1020_vs._Nokia_808_PureView_-_(1).jpg")的對比\]\]
-[Cylindrical_billboard_with_Nokia_Lumia_1020_in_Tampere_2013.jpg](https://zh.wikipedia.org/wiki/File:Cylindrical_billboard_with_Nokia_Lumia_1020_in_Tampere_2013.jpg "fig:Cylindrical_billboard_with_Nokia_Lumia_1020_in_Tampere_2013.jpg")[坦佩雷的Luima](../Page/坦佩雷.md "wikilink")
+[Cylindrical_billboard_with_Nokia_Lumia_1020_in_Tampere_2013.jpg](https://zh.wikipedia.org/wiki/File:Cylindrical_billboard_with_Nokia_Lumia_1020_in_Tampere_2013.jpg "fig:Cylindrical_billboard_with_Nokia_Lumia_1020_in_Tampere_2013.jpg")[坦佩雷](../Page/坦佩雷.md "wikilink")的Luima
 1020廣告。\]\] 知道您的小工具（KnowYourGadget）的卡玛拉萨（Kamalahasan）：「Nokia Lumia 1020
 is a great improvement over the Nokia 808. The camera is just superb and
 one of the best we have seen on a mobile device. If you need a simple
@@ -154,7 +154,7 @@ Nosowitz：「Nokia's new Lumia smartphone has amazing hardware
 matter at all, because its software lags so far behind its
 hardware.」\[14\]
 
-[衛報的查爾斯](../Page/衛報.md "wikilink")·亞瑟（Charles Arthur）：「The Finnish phone
+[衛報](../Page/衛報.md "wikilink")的查爾斯·亞瑟（Charles Arthur）：「The Finnish phone
 maker released its remarkable Lumia 1020 phone with a 41-megapixel
 camera - but it's still missing native apps for low-quality Instagram,
 Vine and Snapchat」\[15\]
@@ -182,8 +182,8 @@ to be very popular.」\[17\]
 Lumia 1020曾經出現在多個MV和電影中，其中包括：
 
   - 出現在歌手[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")[听我吼的MV中](https://zh.wikipedia.org/wiki/听我吼 "wikilink")。\[20\]
-  - 出现在美国[CW电视台](https://zh.wikipedia.org/wiki/CW "wikilink")[吸血鬼日记中](../Page/吸血鬼日记.md "wikilink")。
-  - 出現在歌手[佩麗冉卡·曹帕拉的一首](../Page/佩麗冉卡·曹帕拉.md "wikilink")「我不能讓你愛我」（I Can't
+  - 出现在美国[CW电视台](https://zh.wikipedia.org/wiki/CW "wikilink")[吸血鬼日记](../Page/吸血鬼日记.md "wikilink")中。
+  - 出現在歌手[佩麗冉卡·曹帕拉](../Page/佩麗冉卡·曹帕拉.md "wikilink")的一首「我不能讓你愛我」（I Can't
     Make You Love Me）的MV中。\[21\]
   - 出現在歌手[埃利·古尔丁的一首](https://zh.wikipedia.org/wiki/埃利·古尔丁 "wikilink")「」（How
     Long Will I Love You?）MV中，而影片本身也是使用Luima 1020錄製。\[22\]

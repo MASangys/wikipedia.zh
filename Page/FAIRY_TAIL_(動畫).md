@@ -14,10 +14,10 @@ TAIL}- BEST\!」的精選重播。\[3\]
 
 在經過兩年多的停播後，第三期動畫（第278話開始）於2018年10月7日起再度於星期日上午7:00播出。\[4\]
 
-[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2010年4月18日起以《**魔導少年**》為名在[台視播出](../Page/臺灣電視台.md "wikilink")（中日雙語），並由藝人[蔡黃汝](../Page/蔡黃汝.md "wikilink")（豆花妹）擔任代言人；[Animax亦自](../Page/Animax.md "wikilink")2011年3月16日每星期一至五以[國語配音播出](https://zh.wikipedia.org/wiki/華語 "wikilink")。第二季則於2015年8月15日起以《**魔導少年第二季**》為名播出。
+[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2010年4月18日起以《**魔導少年**》為名在[台視播出](../Page/臺灣電視台.md "wikilink")（中日雙語），並由藝人[蔡黃汝](../Page/蔡黃汝.md "wikilink")（豆花妹）擔任代言人；[Animax](../Page/Animax.md "wikilink")亦自2011年3月16日每星期一至五以[國語配音播出](https://zh.wikipedia.org/wiki/華語 "wikilink")。第二季則於2015年8月15日起以《**魔導少年第二季**》為名播出。
 
-[香港於](../Page/香港.md "wikilink")2010年9月30日起在Animax播出（粵日雙語）。而免費電視台方面，以《**FAIRY
-TAIL魔導少年**》為名，48話分別於2011年7月14日在[J2首播及於](../Page/J2.md "wikilink")2012年2月26日在[翡翠台重播](../Page/翡翠台.md "wikilink")（粵日雙語），而第48話後，則安排於[翡翠台首播](../Page/翡翠台.md "wikilink")，而翡翠台亦有沿用原先集數於[J2台足本播放的做法](../Page/J2.md "wikilink")；但由於兩集連播關係，前集的片尾曲及預告則被電視台刪減。而在第101話起，無綫電視於官方網站[myTV上載粵語配音版本供香港觀眾於](https://zh.wikipedia.org/wiki/myTV "wikilink")14天內重溫。而到151話起[翡翠台改為只播一集](../Page/翡翠台.md "wikilink")，但再到166話起又改為兩集連播，但再到201集起又改為只播一集，不過前集的片尾曲及預告並沒有被電視台刪減。
+[香港](../Page/香港.md "wikilink")於2010年9月30日起在Animax播出（粵日雙語）。而免費電視台方面，以《**FAIRY
+TAIL魔導少年**》為名，48話分別於2011年7月14日在[J2](../Page/J2.md "wikilink")首播及於2012年2月26日在[翡翠台](../Page/翡翠台.md "wikilink")重播（粵日雙語），而第48話後，則安排於[翡翠台](../Page/翡翠台.md "wikilink")首播，而翡翠台亦有沿用原先集數於[J2](../Page/J2.md "wikilink")台足本播放的做法；但由於兩集連播關係，前集的片尾曲及預告則被電視台刪減。而在第101話起，無綫電視於官方網站[myTV上載粵語配音版本供香港觀眾於](https://zh.wikipedia.org/wiki/myTV "wikilink")14天內重溫。而到151話起[翡翠台](../Page/翡翠台.md "wikilink")改為只播一集，但再到166話起又改為兩集連播，但再到201集起又改為只播一集，不過前集的片尾曲及預告並沒有被電視台刪減。
 
 ### 登場人物
 
@@ -319,11 +319,20 @@ J.PARAIZE</p></td>
 <tr class="even">
 <td><p>25</p></td>
 <td><p><strong>NO-LIMIT</strong></p></td>
-<td><p>第304－話</p></td>
+<td><p>第304－315話</p></td>
 <td><p>GAKU</p></td>
 <td><p>GAKU</p></td>
 <td><p>GAKU</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪☆春夏秋冬" title="wikilink">大阪☆春夏秋冬</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p><strong>MORE THAN LiKE</strong></p></td>
+<td><p>第316－話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/BiSH.md" title="wikilink">BiSH</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -612,11 +621,20 @@ Caroline Gustavsson</p></td>
 <tr class="odd">
 <td><p>26</p></td>
 <td><p><strong>僕と君のララバイ</strong></p></td>
-<td><p>第304－話</p></td>
+<td><p>第304－315話</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/みゆな" title="wikilink">みゆな</a></p></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p><strong>Exceed</strong></p></td>
+<td><p>第316－話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Miyuu" title="wikilink">Miyuu</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -3685,6 +3703,33 @@ Kim Ki Yeob</p></td>
 <td><p>316</p></td>
 <td></td>
 <td><p>格雷的王牌</p></td>
+<td><p>十川誠志</p></td>
+<td><p>石平信司</p></td>
+<td><p>神谷望夢</p></td>
+<td><p>Prommee Saksit</p></td>
+</tr>
+<tr class="even">
+<td><p>317</p></td>
+<td></td>
+<td><p>黑色的未來</p></td>
+<td><p>冨岡淳広</p></td>
+<td><p>高山智也</p></td>
+<td><p>藤崎真吾</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>318</p></td>
+<td></td>
+<td><p>我的名字是…</p></td>
+<td><p>石平信司</p></td>
+<td><p>伊藤史夫</p></td>
+<td><p>犬塚正彥</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>319</p></td>
+<td></td>
+<td><p>情</p></td>
 <td></td>
 <td></td>
 <td></td>

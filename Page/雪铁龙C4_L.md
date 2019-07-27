@@ -1,7 +1,7 @@
 [雪铁龙C4 L
 (後面)](https://zh.wikipedia.org/wiki/File:Citroën_C4L_02_China_2013-03-02.jpg "fig:雪铁龙C4 L (後面)")
 **雪铁龙C4
-L**是一个基于[第二代雪铁龙C4开发的三厢版](https://zh.wikipedia.org/wiki/雪铁龙C4#第二代\(2010–至今\) "wikilink")[轿车](../Page/轿车.md "wikilink")\[1\]。于2012年底在[中国发布](https://zh.wikipedia.org/wiki/中国 "wikilink")，并在2013年于[俄罗斯开始生产销售](../Page/俄罗斯.md "wikilink")，下一步计划推向[南美市场](https://zh.wikipedia.org/wiki/南美 "wikilink")\[2\]。另外使用同一平台设计的还有[标致408](../Page/标致408.md "wikilink")。
+L**是一个基于[第二代雪铁龙C4开发的三厢版](https://zh.wikipedia.org/wiki/雪铁龙C4#第二代\(2010–至今\) "wikilink")[轿车](../Page/轿车.md "wikilink")\[1\]。于2012年底在[中国发布](https://zh.wikipedia.org/wiki/中国 "wikilink")，并在2013年于[俄罗斯](../Page/俄罗斯.md "wikilink")开始生产销售，下一步计划推向[南美市场](https://zh.wikipedia.org/wiki/南美 "wikilink")\[2\]。另外使用同一平台设计的还有[标致408](../Page/标致408.md "wikilink")。
 
 除了提供一个440升的行李箱，相较于两厢版原型2.62米的轴距，本车型轴距延长了约10[厘米](../Page/厘米.md "wikilink")（至2.71米）。车头设计采用与第二代C4相似的宽镀铬格栅与头灯式样。后视镜则采用了C5和C6的设计。
 

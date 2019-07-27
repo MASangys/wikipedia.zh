@@ -1,5 +1,5 @@
 **EA
-Phenomic**是一家位于[德国的](../Page/德国.md "wikilink")[即时战略游戏开发公司](../Page/即时战略游戏.md "wikilink")。这家公司在1997年创办，叫做**Phenomic
+Phenomic**是一家位于[德国](../Page/德国.md "wikilink")的[即时战略游戏](../Page/即时战略游戏.md "wikilink")开发公司。这家公司在1997年创办，叫做**Phenomic
 Game Development**，在2006年8月23日被[Electronic
 Arts收购](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")。\[1\]
 

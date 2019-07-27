@@ -40,7 +40,7 @@ Detective Conan: The Mystery of the Legendary Monster Bird</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a>），於2012年12月在<a href="../Page/J2.md" title="wikilink">J2再次播出</a></p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a>），於2012年12月在<a href="../Page/J2.md" title="wikilink">J2</a>再次播出</p></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@ Ranma 1/2</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>），於2013年7月在<a href="../Page/J2.md" title="wikilink">J2再次播出</a></p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>），於2013年7月在<a href="../Page/J2.md" title="wikilink">J2</a>再次播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>25/05</p></td>
@@ -92,7 +92,7 @@ Ikkyu San</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），於2014年1月在<a href="../Page/J2.md" title="wikilink">J2再次播出</a></p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），於2014年1月在<a href="../Page/J2.md" title="wikilink">J2</a>再次播出</p></td>
 </tr>
 </tbody>
 </table>

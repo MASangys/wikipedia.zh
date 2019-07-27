@@ -1,5 +1,5 @@
 **Apache
-Commons**是[Apache软件基金会的项目](../Page/Apache软件基金会.md "wikilink")，曾隶属于[Jakarta项目](../Page/Jakarta项目.md "wikilink")。Commons的目的是提供可重用的、开源的Java代码。Commons由三部分组成：Proper（是一些已发布的项目）、Sandbox（是一些正在开发的项目）和Dormant（是一些刚启动或者已经停止维护的项目）。
+Commons**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的项目，曾隶属于[Jakarta项目](../Page/Jakarta项目.md "wikilink")。Commons的目的是提供可重用的、开源的Java代码。Commons由三部分组成：Proper（是一些已发布的项目）、Sandbox（是一些正在开发的项目）和Dormant（是一些刚启动或者已经停止维护的项目）。
 
 ## Commons Proper
 
@@ -15,7 +15,7 @@ Proper是一个协作与共享的地方，Commons的开发者努力确保其组�
 | 杂项                                                    | CLI、Discovery、Lang和Collections                      |
 | 实用程序                                                  | BeanUtils、Configuration、Logging、DBCP、Pool和Validator |
 | [Web相关](https://zh.wikipedia.org/wiki/Web "wikilink") | FileUpload和Net                                      |
-| [XML相关](../Page/XML.md "wikilink")                    | Betwixt、Digester、Jelly和JXPath                       |
+| [XML](../Page/XML.md "wikilink")相关                    | Betwixt、Digester、Jelly和JXPath                       |
 
 ## Commons Sandbox
 

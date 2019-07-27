@@ -1,9 +1,9 @@
 **英仙座GK**（**GK Persei**）也被称为**1901年英仙座新星**（**Nova Persei
-1901**）是一颗位于[英仙座的明亮](../Page/英仙座.md "wikilink")[新星](../Page/新星.md "wikilink")，1901年爆发，爆发后最亮[视星等为](../Page/视星等.md "wikilink")0.2，这是20世纪发现的第一颗新星，也是现代发现的最亮新星，直到1918年才被[天鹰座V603打破](../Page/天鹰座V603.md "wikilink")。它由苏格兰牧师[托马斯·大卫·安德森在](https://zh.wikipedia.org/wiki/Thomas_David_Anderson "wikilink")2月21日发现。\[1\]
+1901**）是一颗位于[英仙座](../Page/英仙座.md "wikilink")的明亮[新星](../Page/新星.md "wikilink")，1901年爆发，爆发后最亮[视星等](../Page/视星等.md "wikilink")为0.2，这是20世纪发现的第一颗新星，也是现代发现的最亮新星，直到1918年才被[天鹰座V603](../Page/天鹰座V603.md "wikilink")打破。它由苏格兰牧师[托马斯·大卫·安德森在](https://zh.wikipedia.org/wiki/Thomas_David_Anderson "wikilink")2月21日发现。\[1\]
 
 ## 特征
 
-和天鹰座V603不同的是，英仙座GK在20世纪早期星等变暗到12-13等后，偶尔会增亮2-3等（即亮度增加7-15倍）。在1980年后，这种现象变得更为普遍，平均每3年增亮一次，每次持续约2个月。因此，英仙座GK并非类似天鹰座V603的经典新星，最近更倾向于将它归类为[矮新星型](../Page/矮新星.md "wikilink")[激变变星](https://zh.wikipedia.org/wiki/激变变星 "wikilink")。
+和天鹰座V603不同的是，英仙座GK在20世纪早期星等变暗到12-13等后，偶尔会增亮2-3等（即亮度增加7-15倍）。在1980年后，这种现象变得更为普遍，平均每3年增亮一次，每次持续约2个月。因此，英仙座GK并非类似天鹰座V603的经典新星，最近更倾向于将它归类为[矮新星](../Page/矮新星.md "wikilink")型[激变变星](https://zh.wikipedia.org/wiki/激变变星 "wikilink")。
 
 包圍著英仙座GK周围的是[新星遗迹焰火星云](https://zh.wikipedia.org/wiki/新星遗迹 "wikilink")，在1902年首次观测到，由气体云和星尘组成，膨胀速度为
 300 km/s.\[2\]

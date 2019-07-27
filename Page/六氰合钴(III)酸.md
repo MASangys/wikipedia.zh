@@ -2,9 +2,9 @@
 
 ## 制备
 
-六氰合钴(III)酸的五水合物可由[六氰合钴(III)酸钾流过H](../Page/六氰合钴\(III\)酸钾.md "wikilink")<sup>+</sup>型离子交换柱得到，加热脱水。
+六氰合钴(III)酸的五水合物可由[六氰合钴(III)酸钾](../Page/六氰合钴\(III\)酸钾.md "wikilink")流过H<sup>+</sup>型离子交换柱得到，加热脱水。
 
-另一方法是由[盐酸和](../Page/盐酸.md "wikilink")[乙醚与](../Page/乙醚.md "wikilink")[六氰合钴(III)酸钾作用得到](../Page/六氰合钴\(III\)酸钾.md "wikilink")。
+另一方法是由[盐酸](../Page/盐酸.md "wikilink")和[乙醚](../Page/乙醚.md "wikilink")与[六氰合钴(III)酸钾](../Page/六氰合钴\(III\)酸钾.md "wikilink")作用得到。
 
 ## 参考资料
 

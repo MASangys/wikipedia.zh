@@ -1,4 +1,4 @@
-**Verilog-AMS**是[Verilog](../Page/Verilog.md "wikilink")[硬件描述语言的一个衍生](../Page/硬件描述语言.md "wikilink")。它包含了[模拟和](../Page/模拟电路.md "wikilink")[混合信号扩展模块](https://zh.wikipedia.org/wiki/混合訊號積體電路 "wikilink")，以实现对于模拟电路和混合信号系统行为的描述。它扩展了Verilog、SystemVerilog等的事件驱动[仿真器的回路](../Page/电子电路仿真.md "wikilink")，通过使用一个连续时间仿真器，可以在模拟域（）上求解微分方程。模拟事件可以触发数字行为，反之亦可。\[1\]
+**Verilog-AMS**是[Verilog](../Page/Verilog.md "wikilink")[硬件描述语言](../Page/硬件描述语言.md "wikilink")的一个衍生。它包含了[模拟和](../Page/模拟电路.md "wikilink")[混合信号扩展模块](https://zh.wikipedia.org/wiki/混合訊號積體電路 "wikilink")，以实现对于模拟电路和混合信号系统行为的描述。它扩展了Verilog、SystemVerilog等的事件驱动[仿真器的回路](../Page/电子电路仿真.md "wikilink")，通过使用一个连续时间仿真器，可以在模拟域（）上求解微分方程。模拟事件可以触发数字行为，反之亦可。\[1\]
 
 ## 参考文献
 

@@ -1,11 +1,11 @@
 《**I'll
-believe**》是[ALTIMA的第一張](../Page/ALTIMA.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年12月7日由[Warner
+believe**》是[ALTIMA](../Page/ALTIMA.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年12月7日由[Warner
 Home
 Video發售](https://zh.wikipedia.org/wiki/Warner_Home_Video "wikilink")。
 
 ## 概要
 
-  - [組合ALTIMA的主要歌曲](../Page/組合.md "wikilink")。
+  - [組合](../Page/組合.md "wikilink")ALTIMA的主要歌曲。
   - 《I'll
     believe》是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[灼眼的夏娜Ⅲ（第三期）](../Page/灼眼的夏娜_\(動畫\).md "wikilink")》的片尾曲，而《-Indefinitely-》是ALTIMA的個人歌曲。
   - 分成初回限定盤與通常盤兩款，前者附錄《I'll

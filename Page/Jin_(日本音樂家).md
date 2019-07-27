@@ -1,11 +1,11 @@
-**Jin**（，），也被稱為**自然之敵P**（），是[日本](../Page/日本.md "wikilink")[音乐家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，主要使用[初音未來和](../Page/初音未來.md "wikilink")[IA等](../Page/IA_\(VOCALOID\).md "wikilink")[VOCALOID軟體來創作歌曲](../Page/VOCALOID.md "wikilink")。
-2011年發佈[陽炎計劃第一首歌曲](../Page/陽炎計劃.md "wikilink")，2012年開始發表小說。
+**Jin**（，），也被稱為**自然之敵P**（），是[日本](../Page/日本.md "wikilink")[音乐家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，主要使用[初音未來](../Page/初音未來.md "wikilink")和[IA等](../Page/IA_\(VOCALOID\).md "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")軟體來創作歌曲。
+2011年發佈[陽炎計劃](../Page/陽炎計劃.md "wikilink")第一首歌曲，2012年開始發表小說。
 
 ## 簡歷
 
-1990年10月20日於[北海道](../Page/北海道.md "wikilink")[利尻島出生](../Page/利尻島.md "wikilink")。從小學二年級開始接觸[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，上高中後第一次組了樂團。之後進入了音樂專門學校的錄音專業，認識了時裝系的朋友。在[Niconico動畫盛行的](../Page/Niconico動畫.md "wikilink")2007-2010年反而不知道其存在。在拜訪專校同學的哥哥（kamoshika，Vocaloid創作者）後產生強烈興趣而開始創作。第三作「陽炎DAZE」（）引起熱潮，相關動畫總播放數達到1000萬次。
+1990年10月20日於[北海道](../Page/北海道.md "wikilink")[利尻島](../Page/利尻島.md "wikilink")出生。從小學二年級開始接觸[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，上高中後第一次組了樂團。之後進入了音樂專門學校的錄音專業，認識了時裝系的朋友。在[Niconico動畫](../Page/Niconico動畫.md "wikilink")盛行的2007-2010年反而不知道其存在。在拜訪專校同學的哥哥（kamoshika，Vocaloid創作者）後產生強烈興趣而開始創作。第三作「陽炎DAZE」（）引起熱潮，相關動畫總播放數達到1000萬次。
 
-2013年2月被動捲入「」，在[Niconico動畫上掀起風波](../Page/Niconico動畫.md "wikilink")。\[1\]
+2013年2月被動捲入「」，在[Niconico動畫](../Page/Niconico動畫.md "wikilink")上掀起風波。\[1\]
 
 ## 作品
 

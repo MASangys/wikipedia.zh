@@ -28,7 +28,7 @@ turbocharger），故最大馬力170ps / 4,800-5,600rpm，扭力峰值25.5kgf·m
 
 ## FB20型
 
-**FB20型**的排氣量為1,995c.c.、缸徑84.0mm、衝程90.0mm、壓縮比10.5：1（但[速霸陸XV則為](../Page/速霸陸XV.md "wikilink")12.5：1）、缸心距113.0mm，至於馬力和扭力則依調校程度而有所差別：
+**FB20型**的排氣量為1,995c.c.、缸徑84.0mm、衝程90.0mm、壓縮比10.5：1（但[速霸陸XV](../Page/速霸陸XV.md "wikilink")則為12.5：1）、缸心距113.0mm，至於馬力和扭力則依調校程度而有所差別：
 
 1.  [自排](../Page/自动变速器.md "wikilink")、[CVT車型](../Page/無段自動變速器.md "wikilink")：最大馬力148ps
     / 6,000rpm、最大扭力20.0kgf·m / 4,200rpm。
@@ -39,9 +39,9 @@ turbocharger），故最大馬力170ps / 4,800-5,600rpm，扭力峰值25.5kgf·m
 3.  CVT+電動馬達車型：最大馬力150ps / 6,000rpm、最大扭力20.0kgf·m / 4,200rpm。
 
 此具引擎導入TGV進氣控制系統（Tumble Generated
-Valve）、EGR[排氣再循環系統](../Page/排氣再循環.md "wikilink")（Exhaust
+Valve）、EGR[排氣再循環](../Page/排氣再循環.md "wikilink")系統（Exhaust
 Gas
-Recirculation）、[AVCS主動閥門控制系統與分離式引擎冷卻器等](../Page/AVCS主動閥門控制系統.md "wikilink")。車型：
+Recirculation）、[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")與分離式引擎冷卻器等。車型：
 
 1.  2010年迄今：[第三、四代速霸陸Forester](../Page/速霸陸Forester.md "wikilink")
 2.  2011年-2016年：第四代速霸陸Impreza

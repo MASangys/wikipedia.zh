@@ -1,5 +1,5 @@
 《**GUNDAM Mission to the Rise**》（原題：ガンダム
-ミッション・トゥ・ザ・ライズ），是由[大友克洋所執導的](../Page/大友克洋.md "wikilink")[GUNDAM系列CG動畫短片作品](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。\[1\]\[2\]
+ミッション・トゥ・ザ・ライズ），是由[大友克洋](../Page/大友克洋.md "wikilink")所執導的[GUNDAM系列CG動畫短片作品](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。\[1\]\[2\]
 
 ## 概要
 
@@ -21,7 +21,7 @@ the Rise」が敢行される。
 
 ## 音响
 
-短いながらも映画用[数字音响系统である](https://zh.wikipedia.org/wiki/数字音响系统 "wikilink")、[杜比数字](../Page/杜比数字.md "wikilink")、[DTS数字音效等も試験的に採用された](../Page/DTS.md "wikilink")。
+短いながらも映画用[数字音响系统である](https://zh.wikipedia.org/wiki/数字音响系统 "wikilink")、[杜比数字](../Page/杜比数字.md "wikilink")、[DTS](../Page/DTS.md "wikilink")数字音效等も試験的に採用された。
 
 ## 注释
 

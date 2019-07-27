@@ -1,5 +1,5 @@
 《**COME
-ON**》是[台灣男子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Energy的首張專輯](../Page/Energy.md "wikilink")，於2002年7月12日正式發行。
+ON**》是[台灣男子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Energy](../Page/Energy.md "wikilink")的首張專輯，於2002年7月12日正式發行。
 
 ## 曲目
 

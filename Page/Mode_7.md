@@ -1,7 +1,7 @@
 [Mode_7_Test-0000.png](https://zh.wikipedia.org/wiki/File:Mode_7_Test-0000.png "fig:Mode_7_Test-0000.png")
 
 **Mode
-7**是[电子游戏机](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")[超级任天堂一種](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[图形方式](../Page/电脑显示标准.md "wikilink")，可让逐扫描线式的背景层支持旋转与缩放，以此创造大量的不同效果。\[1\]其中最著名的效果是，通过缩放和旋转背景层来显示透视效果。这种将高度改为深度的变换，将背景层变为二维水平[材质贴图平面](../Page/材质贴图.md "wikilink")。如此便可显示三维图形的效果。
+7**是[电子游戏机](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")[超级任天堂一種](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[图形方式](../Page/电脑显示标准.md "wikilink")，可让逐扫描线式的背景层支持旋转与缩放，以此创造大量的不同效果。\[1\]其中最著名的效果是，通过缩放和旋转背景层来显示透视效果。这种将高度改为深度的变换，将背景层变为二维水平[材质贴图](../Page/材质贴图.md "wikilink")平面。如此便可显示三维图形的效果。
 
 [Mega Drive的扩展](../Page/Mega_Drive.md "wikilink")[Mega
 CD以及](https://zh.wikipedia.org/wiki/Mega_CD "wikilink")[Atari
@@ -52,7 +52,7 @@ Time](https://zh.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Tim
 
 ### 公式
 
-使用Mode 7图形的平面纹理地图，是由屏幕坐标到背景坐标的2D[仿射变换而转换成](../Page/仿射变换.md "wikilink")，
+使用Mode 7图形的平面纹理地图，是由屏幕坐标到背景坐标的2D[仿射变换](../Page/仿射变换.md "wikilink")而转换成，
 
   -
     \(\begin{bmatrix} x' \\ y' \end{bmatrix} = \begin{bmatrix} a & b & x_0 \\ c & d & y_0 \end{bmatrix} \begin{bmatrix} x - x_0 \\ y - y_0 \\ 1 \end{bmatrix}\)
@@ -84,7 +84,7 @@ CD](https://zh.wikipedia.org/wiki/Sonic_CD "wikilink")》的特定关卡。但�
 血族](https://zh.wikipedia.org/wiki/恶魔城_血族 "wikilink")》、《蝙蝠侠与罗宾汉》和《[魂斗罗·铁血兵团](https://zh.wikipedia.org/wiki/魂斗罗·铁血兵团 "wikilink")》等游戏使用了类似效果。[世嘉32X支持](https://zh.wikipedia.org/wiki/世嘉32X "wikilink")2D和基本的3D，所以缩放和旋转效果成为了2D游戏常见要素，如《[Knuckles'
 Chaotix](https://zh.wikipedia.org/wiki/Knuckles'_Chaotix "wikilink")》是[索尼克系列首个使用多边形特殊舞台的游戏](https://zh.wikipedia.org/wiki/索尼克系列 "wikilink")。
 
-一些[Amiga游戏通过程序技巧实现了和mode](../Page/Amiga.md "wikilink") 7类似的效果，如《[Mr.
+一些[Amiga](../Page/Amiga.md "wikilink")游戏通过程序技巧实现了和mode 7类似的效果，如《[Mr.
 Nutz: Hoppin'
 Mad](https://zh.wikipedia.org/wiki/Mr._Nutz:_Hoppin'_Mad "wikilink")》、《[Lionheart](https://zh.wikipedia.org/wiki/Lionheart_\(游戏\) "wikilink")》、《[Obitus](https://zh.wikipedia.org/wiki/Obitus "wikilink")》和《[Brian
 the Lion](https://zh.wikipedia.org/wiki/Brian_the_Lion "wikilink")》。

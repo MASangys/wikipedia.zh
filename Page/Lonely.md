@@ -49,9 +49,9 @@ There的宣傳活動後](../Page/I'll_Be_There.md "wikilink")，旋即於2012年
       - 主打歌曲。再次由為Spica製作[Russian
         Roulette的K](../Page/Russian_Roulette.md "wikilink")-POP熱門音樂製作團隊「SWEETUNE」傾力製作，描述在分手後喝醉的悲傷女子漫步在曾與前男友共同走過的街頭卻感受著完全不同的情緒，是首刻劃著想念對方卻又苦澀的女人傷口與孤獨徬徨的歌曲。
 2.  With you
-      - 由Spica成員[金甫娥親自填詞譜曲](../Page/金甫娥.md "wikilink")，並參與製作，是首擁有純淨懏永的歌詞與能夠感受[放克律動的都會歌曲](../Page/放克.md "wikilink")。
+      - 由Spica成員[金甫娥](../Page/金甫娥.md "wikilink")親自填詞譜曲，並參與製作，是首擁有純淨懏永的歌詞與能夠感受[放克](../Page/放克.md "wikilink")律動的都會歌曲。
 3.  那晚
-      - 由Spica成員[金保亨個人提供詞曲與編曲及製作](../Page/金保亨.md "wikilink")，是首結合合成聲與電子吉他配樂的歌曲。
+      - 由Spica成員[金保亨](../Page/金保亨.md "wikilink")個人提供詞曲與編曲及製作，是首結合合成聲與電子吉他配樂的歌曲。
 4.  Since You’re Out of My Life
       - 專輯中最後一首曲目，由現正在美國活動的「MARCAN」團隊製作是首能強烈感受到Urban
         Soul的歌曲，為Spica獻給期待已久的粉絲們的禮物。

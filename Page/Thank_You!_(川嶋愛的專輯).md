@@ -1,5 +1,5 @@
 『**Thank
-You**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛在](../Page/川嶋愛.md "wikilink")2006年5月24日發售的第二張非迷你專輯\[1\]。
+You**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2006年5月24日發售的第二張非迷你專輯\[1\]。
 
 ## 解説
 

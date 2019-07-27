@@ -7,7 +7,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 概要
 
   - A面曲 《On Your Mark
-    〜奇蹟之光〜》是搞笑藝人[濱田雅功主演](../Page/濱田雅功.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")「[検事・鬼島平八郎](https://zh.wikipedia.org/wiki/検事・鬼島平八郎 "wikilink")」的主題曲
+    〜奇蹟之光〜》是搞笑藝人[濱田雅功](../Page/濱田雅功.md "wikilink")主演、[朝日電視台](../Page/朝日電視台.md "wikilink")「[検事・鬼島平八郎](https://zh.wikipedia.org/wiki/検事・鬼島平八郎 "wikilink")」的主題曲
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《On Your Mark
     〜奇蹟之光〜》的Music Video。
   - 在12月13日於公信榜单曲週排行榜取得第3位。

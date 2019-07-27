@@ -1,11 +1,11 @@
-**Sambomaster**（），[日本搖滾樂團](../Page/日本.md "wikilink")，由主唱兼[吉他手山口隆](../Page/吉他.md "wikilink")、[貝斯手近藤洋一和鼓手木内泰史所組成](../Page/電貝斯.md "wikilink")，所屬經紀公司為[Sony
+**Sambomaster**（），[日本](../Page/日本.md "wikilink")搖滾樂團，由主唱兼[吉他](../Page/吉他.md "wikilink")手山口隆、[貝斯手近藤洋一和鼓手木内泰史所組成](../Page/電貝斯.md "wikilink")，所屬經紀公司為[Sony
 Music
 Artists](../Page/Sony_Music_Artists.md "wikilink")。2005年，因演唱日本話題連續劇《[電車男](../Page/電車男_\(電視劇\).md "wikilink")》主題曲〈世界はそれを愛と呼ぶんだぜ〉而為人所知。
 
 ## 成员
 
-  - 山口隆：主唱兼吉他手，亦負責團內多數歌曲的作詞作曲。[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[會津若松市人](../Page/會津若松市.md "wikilink")，1976年2月8日出生。[東洋大學法學院畢業](https://zh.wikipedia.org/wiki/東洋大學 "wikilink")。
-  - 近藤洋一：[貝斯手](../Page/電貝斯.md "wikilink")。[栃木縣](../Page/栃木縣.md "wikilink")[下野市人](../Page/下野市.md "wikilink")，1977年6月16日出生。曾演出電影《[SOLANIN](../Page/樂與路.md "wikilink")》。
+  - 山口隆：主唱兼吉他手，亦負責團內多數歌曲的作詞作曲。[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[會津若松市](../Page/會津若松市.md "wikilink")人，1976年2月8日出生。[東洋大學法學院畢業](https://zh.wikipedia.org/wiki/東洋大學 "wikilink")。
+  - 近藤洋一：[貝斯手](../Page/電貝斯.md "wikilink")。[栃木縣](../Page/栃木縣.md "wikilink")[下野市](../Page/下野市.md "wikilink")人，1977年6月16日出生。曾演出電影《[SOLANIN](../Page/樂與路.md "wikilink")》。
   - 木內泰史：鼓手。[千葉縣](../Page/千葉縣.md "wikilink")[袖浦市人](https://zh.wikipedia.org/wiki/袖浦市 "wikilink")，1976年8月4日出生。
 
 ## 音樂作品

@@ -13,7 +13,7 @@ CarPlay旨在令用户通过汽车制造商之原生车载系统来使用、操�
   - [iMessage的控制与回复](https://zh.wikipedia.org/wiki/iMessage "wikilink")。
 
 同時Podacsts、Beats
-Music、iHeartRadio、[Spotify及Stitcher等第三方程式也將會支援](../Page/Spotify.md "wikilink")。
+Music、iHeartRadio、[Spotify](../Page/Spotify.md "wikilink")及Stitcher等第三方程式也將會支援。
 
 ## 汽车制造商、系統供應商
 
@@ -50,8 +50,7 @@ Cue）宣布：部分汽车制造商自2014年起将着手参与的功能实施�
   - [铃木](https://zh.wikipedia.org/wiki/铃木 "wikilink")\[27\]
   - [丰田](https://zh.wikipedia.org/wiki/丰田 "wikilink")\[28\]\[29\]
   - [沃尔沃](https://zh.wikipedia.org/wiki/沃尔沃 "wikilink")\[30\]
-
-馬自達
+  - [馬自達](https://zh.wikipedia.org/wiki/馬自達 "wikilink")
 
 ## 部分早期实施内容
 
@@ -75,9 +74,9 @@ Map](https://zh.wikipedia.org/wiki/Google_Map "wikilink")，提供導航使用�
 
 ## 參見
 
-  - [MirrorLink](../Page/MirrorLink.md "wikilink")，一种设备协作与资讯交换的标准，提供[智能手机与车载信息娱乐系统之间的整合功能](../Page/智能手机.md "wikilink")。
+  - [MirrorLink](../Page/MirrorLink.md "wikilink")，一种设备协作与资讯交换的标准，提供[智能手机](../Page/智能手机.md "wikilink")与车载信息娱乐系统之间的整合功能。
   - [Android
-    Auto](../Page/Android_Auto.md "wikilink")，[Google公司所推出](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，用於[Android与车载信息娱乐系统之间的整合功能](../Page/Android.md "wikilink")。
+    Auto](../Page/Android_Auto.md "wikilink")，[Google公司所推出](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，用於[Android](../Page/Android.md "wikilink")与车载信息娱乐系统之间的整合功能。
 
 ## 参考资料
 

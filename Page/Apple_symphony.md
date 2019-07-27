@@ -1,5 +1,5 @@
 《**apple
-symphony**》是[竹達彩奈的](../Page/竹達彩奈.md "wikilink")[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2013年4月10日由[PONY
+symphony**》是[竹達彩奈](../Page/竹達彩奈.md "wikilink")的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2013年4月10日由[PONY
 CANYON發售](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 概要

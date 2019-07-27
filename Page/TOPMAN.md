@@ -1,4 +1,4 @@
-****是一間[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[時裝公司](../Page/時裝.md "wikilink")，隸屬於[Arcadia集團](https://zh.wikipedia.org/wiki/Arcadia集團 "wikilink")，在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[美國設有分店](https://zh.wikipedia.org/wiki/美國 "wikilink")。由在1978年於英國[倫敦成立](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。Topman是[Topshop的兄弟品牌](../Page/Topshop.md "wikilink")。
+****是一間[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[時裝](../Page/時裝.md "wikilink")公司，隸屬於[Arcadia集團](https://zh.wikipedia.org/wiki/Arcadia集團 "wikilink")，在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[美國設有分店](https://zh.wikipedia.org/wiki/美國 "wikilink")。由在1978年於英國[倫敦成立](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。Topman是[Topshop](../Page/Topshop.md "wikilink")的兄弟品牌。
 
 ## 历史
 

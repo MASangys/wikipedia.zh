@@ -1,4 +1,4 @@
-**MBS電視台**（，）是[日本廣播業者](../Page/日本.md "wikilink")[每日放送的](../Page/每日放送.md "wikilink")[電視事業部門](https://zh.wikipedia.org/wiki/電視 "wikilink")，開播於1959年3月1日，以[近畿地方為播出區域](../Page/近畿地方.md "wikilink")。其所屬聯播網為[JNN](../Page/日本新聞網_\(TBS\).md "wikilink")（[TBS電視網](../Page/TBS電視台.md "wikilink")）。
+**MBS電視台**（，）是[日本](../Page/日本.md "wikilink")廣播業者[每日放送](../Page/每日放送.md "wikilink")的[電視事業部門](https://zh.wikipedia.org/wiki/電視 "wikilink")，開播於1959年3月1日，以[近畿地方](../Page/近畿地方.md "wikilink")為播出區域。其所屬聯播網為[JNN](../Page/日本新聞網_\(TBS\).md "wikilink")（[TBS電視網](../Page/TBS電視台.md "wikilink")）。
 
 ## 沿革
 

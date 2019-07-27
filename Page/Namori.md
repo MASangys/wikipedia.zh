@@ -48,8 +48,8 @@
 
 ### 插圖
 
-  - 《リセットな彼女》（2006年，原作：高崎とおる・著：坂東真紅郎，[Fami通文庫出版](../Page/Fami通文庫.md "wikilink")）
-  - 《神燈女僕！》（2006 - 2010年，原作：夏緑，[MF文庫J出版](../Page/MF文庫J.md "wikilink")）
+  - 《リセットな彼女》（2006年，原作：高崎とおる・著：坂東真紅郎，[Fami通文庫](../Page/Fami通文庫.md "wikilink")出版）
+  - 《神燈女僕！》（2006 - 2010年，原作：夏緑，[MF文庫J](../Page/MF文庫J.md "wikilink")出版）
 
 ### 同人誌
 
@@ -60,7 +60,7 @@
 ### 其他
 
   - 《[YOUNG
-    GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》（2012年No.3的[勇者鬥惡龍系列誕生](../Page/勇者鬥惡龍系列.md "wikilink")25周年記念插圖）
+    GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》（2012年No.3的[勇者鬥惡龍系列](../Page/勇者鬥惡龍系列.md "wikilink")誕生25周年記念插圖）
   - 《[偽物語](../Page/偽物語.md "wikilink")》（為動畫版第肆話提供插畫）
   - 《ぽにきゃん声たま女子部オーディション2012》（二次審査角色圖）
   - 《[神薙](../Page/神薙.md "wikilink")》第七集（與武梨繪里合作）

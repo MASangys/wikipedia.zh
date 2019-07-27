@@ -92,7 +92,7 @@ Arista的装置均设计为多层式交换器，无一例外地支持第三层([
 所有Arista的交换器均採用商业用硅，而非定製的专门交换用集成电路([ASICs](https://zh.wikipedia.org/wiki/Application-specific_integrated_circuit "wikilink"))。这样可使Arista在压低价格的同时可及时置换最新纳米工艺的处理器，如果採用定製的芯片则无法达到这一效果。主要的竞争对手思科（
 [Cisco](https://zh.wikipedia.org/wiki/Cisco_Systems "wikilink")）和瞻博网络（[Juniper](https://zh.wikipedia.org/wiki/Juniper_Networks "wikilink")）现在也开始一一效仿这一设计\[38\]，导致很多互相竞争的产品都建立在同一种芯片上。比如博通公司（[Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink")）的Trident芯片就同时用在了思科的Nexus交换器[Cisco
 Nexus
-switches](https://zh.wikipedia.org/wiki/Cisco_Nexus_switches "wikilink")、瞻博的QFX交换器、Force10、[IBM和惠普](../Page/IBM.md "wikilink")（hp）的交换器上\[39\]。这种芯片与其余系统的整合设计（包括与[MAC](https://zh.wikipedia.org/wiki/Media_access_control "wikilink")、[PHY和设备驱动在控制平台上的整合](https://zh.wikipedia.org/wiki/PHY_\(chip\) "wikilink")）与配套软件一并成为区分各个公司产品的主要因素。
+switches](https://zh.wikipedia.org/wiki/Cisco_Nexus_switches "wikilink")、瞻博的QFX交换器、Force10、[IBM](../Page/IBM.md "wikilink")和惠普（hp）的交换器上\[39\]。这种芯片与其余系统的整合设计（包括与[MAC](https://zh.wikipedia.org/wiki/Media_access_control "wikilink")、[PHY和设备驱动在控制平台上的整合](https://zh.wikipedia.org/wiki/PHY_\(chip\) "wikilink")）与配套软件一并成为区分各个公司产品的主要因素。
 
 2013年11月，Arista Networks开发了Spine网络，将主干加分支式结构与单层网络相结合，以达到缩减运营成本的目的\[40\]。
 

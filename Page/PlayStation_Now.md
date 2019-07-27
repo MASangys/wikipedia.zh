@@ -1,10 +1,10 @@
 **PlayStation
-Now**是一個基於的[雲端遊戲服務](../Page/雲端遊戲.md "wikilink")，用於向[PlayStation
+Now**是一個基於的[雲端遊戲](../Page/雲端遊戲.md "wikilink")服務，用於向[PlayStation
 4](../Page/PlayStation_4.md "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[PlayStation
 Vita](../Page/PlayStation_Vita.md "wikilink")、[PlayStation Vita
-TV和](../Page/PlayStation_Vita_TV.md "wikilink")[BRAVIA電視提供](../Page/BRAVIA.md "wikilink")[PlayStation遊戲](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")。\[1\]\[2\]該服務允許用戶付款，通過訂閱或按照單款遊戲售賣的計價的方式，獲得一段原PlayStation
-3的遊戲作品訪問。該項目随后扩展到PS4作品，亦加入移植版本的[PlayStation和](../Page/PlayStation.md "wikilink")[PlayStation
+TV和](../Page/PlayStation_Vita_TV.md "wikilink")[BRAVIA](../Page/BRAVIA.md "wikilink")電視提供[PlayStation遊戲](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")。\[1\]\[2\]該服務允許用戶付款，通過訂閱或按照單款遊戲售賣的計價的方式，獲得一段原PlayStation
+3的遊戲作品訪問。該項目随后扩展到PS4作品，亦加入移植版本的[PlayStation](../Page/PlayStation.md "wikilink")和[PlayStation
 2作品](../Page/PlayStation_2.md "wikilink")。\[3\]\[4\]若用戶使用非PlayStation設備要使用該服務，則需要[DualShock](../Page/DualShock.md "wikilink")
 3手柄支持，因為索尼認為這些遊戲是為其手柄而設計的，使用DualShock接入進行遊玩將會獲得最好的體驗，PlayStation品牌設備則可分別使用他們原來各自的遊戲控制器進行操作。\[5\]索尼亦建議玩家配有5
 Mbps的網絡連接以獲得他們認為的“良好表現”。\[6\]

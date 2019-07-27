@@ -1,19 +1,19 @@
-《**Erepyon**》（），是[歌手](../Page/歌手.md "wikilink")[小野惠令奈於](../Page/小野惠令奈.md "wikilink")2012年4月3日宣佈發表的首張個人單曲。
+《**Erepyon**》（），是[歌手](../Page/歌手.md "wikilink")[小野惠令奈](../Page/小野惠令奈.md "wikilink")於2012年4月3日宣佈發表的首張個人單曲。
 
 ## 概要
 
-本單曲名稱「」取自主唱[小野惠令奈的暱稱](../Page/小野惠令奈.md "wikilink")。單曲中亦收錄同名歌曲，此曲之作曲由活躍於[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[SmileR](https://zh.wikipedia.org/wiki/SmileR "wikilink")（）所創作。歌詞則由主唱小野惠令奈親自填寫，這次亦是小野首次填詞。此曲亦於4月17日開始，被採用為日本[富士電視台週二晚間九點連續劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")，由[新垣結衣和](../Page/新垣結衣.md "wikilink")[堺雅人主演的法庭劇集](../Page/堺雅人.md "wikilink")《[LEGAL
-HIGH](https://zh.wikipedia.org/wiki/LEGAL_HIGH "wikilink")》之片頭曲。另外，單曲以5個發售形態於2012年6月13日在[日本開始發售](../Page/日本.md "wikilink")。\[1\]
+本單曲名稱「」取自主唱[小野惠令奈](../Page/小野惠令奈.md "wikilink")的暱稱。單曲中亦收錄同名歌曲，此曲之作曲由活躍於[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[SmileR](https://zh.wikipedia.org/wiki/SmileR "wikilink")（）所創作。歌詞則由主唱小野惠令奈親自填寫，這次亦是小野首次填詞。此曲亦於4月17日開始，被採用為日本[富士電視台週二晚間九點連續劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")，由[新垣結衣](../Page/新垣結衣.md "wikilink")和[堺雅人](../Page/堺雅人.md "wikilink")主演的法庭劇集《[LEGAL
+HIGH](https://zh.wikipedia.org/wiki/LEGAL_HIGH "wikilink")》之片頭曲。另外，單曲以5個發售形態於2012年6月13日在[日本](../Page/日本.md "wikilink")開始發售。\[1\]
 
 ## 相關消息
 
-  - 2012年4月17日，作為片頭曲出現在[富士電視台週二晚間九點連續劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")，由[新垣結衣及](../Page/新垣結衣.md "wikilink")[堺雅人主演之法庭劇集](../Page/堺雅人.md "wikilink")《[LEGAL
+  - 2012年4月17日，作為片頭曲出現在[富士電視台週二晚間九點連續劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")，由[新垣結衣](../Page/新垣結衣.md "wikilink")及[堺雅人](../Page/堺雅人.md "wikilink")主演之法庭劇集《[LEGAL
     HIGH](https://zh.wikipedia.org/wiki/LEGAL_HIGH "wikilink")》中。
   - 2012年5月3日，其PV之SPOT映像及專輯封面公開。\[2\]
-  - 2012年5月8日，於[RecoChoku開始以電話鈴聲发售](../Page/RecoChoku.md "wikilink"),並獲得當日RecoChoku電話鈴聲排行榜第一位。\[3\]
+  - 2012年5月8日，於[RecoChoku](../Page/RecoChoku.md "wikilink")開始以電話鈴聲发售,並獲得當日RecoChoku電話鈴聲排行榜第一位。\[3\]
   - 2012年5月30日，A面曲歌名「えれぴょん」及B面曲「センチメンタルガール」分別以電話來電畫面（着ムービー）及電話鈴聲(着うた)发售。其中，A面曲歌名「えれぴょん」獲得5月31日RecoChoku電話來電畫面（着ムービー）排行榜第一位。\[4\]
-  - 2012年6月1日，為宣傳新單曲，於東京・[秋葉原車站](../Page/秋葉原.md "wikilink")・電氣街口牆壁與[涉谷](https://zh.wikipedia.org/wiki/涉谷 "wikilink")・西村大廈牆壁上展開宣傳廣告。\[5\]
-  - 2012年6月13日，於日本開始發售，並於當日獲得[Oricon排行第二位](../Page/Oricon.md "wikilink")。\[6\]
+  - 2012年6月1日，為宣傳新單曲，於東京・[秋葉原](../Page/秋葉原.md "wikilink")車站・電氣街口牆壁與[涉谷](https://zh.wikipedia.org/wiki/涉谷 "wikilink")・西村大廈牆壁上展開宣傳廣告。\[5\]
+  - 2012年6月13日，於日本開始發售，並於當日獲得[Oricon](../Page/Oricon.md "wikilink")排行第二位。\[6\]
   - 2012年6月19日，發售首週賣出2萬6千張並獲得Oricon週間排行第三位(計算時間：6/11～6/17)。\[7\]
 
 ## 發售形態
@@ -22,7 +22,7 @@ HIGH](https://zh.wikipedia.org/wiki/LEGAL_HIGH "wikilink")》之片頭曲。另�
 
 とにかくかわいい、えれぴょん盤
 
-  - 1.えれぴょん(日本[富士電視台電視劇](../Page/富士電視台.md "wikilink")《[王牌大律師](https://zh.wikipedia.org/wiki/王牌大律師 "wikilink")》片頭曲)\[3:19\]
+  - 1.えれぴょん(日本[富士電視台](../Page/富士電視台.md "wikilink")電視劇《[王牌大律師](https://zh.wikipedia.org/wiki/王牌大律師 "wikilink")》片頭曲)\[3:19\]
   - 2.センチメンタルガール(作詞：小野恵令奈、作曲・編曲：SmileR)\[3:46\]
   - 3.えれぴょん（off vocal ver.)
   - 4.センチメンタルガール（off vocal ver.)
@@ -97,6 +97,7 @@ Disc-2(DVD)
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 [Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink")
 [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
+[Category:Legal_High](https://zh.wikipedia.org/wiki/Category:Legal_High "wikilink")
 
 1.  [エレーナ速報　April 03
     \[Tue\], 2012, 10:00](http://yaplog.jp/lp-erena/archive/101)

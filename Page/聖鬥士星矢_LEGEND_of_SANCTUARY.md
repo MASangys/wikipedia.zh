@@ -1,16 +1,16 @@
 《**聖鬥士星矢 LEGEND of
-SANCTUARY**》（，）是一部由[东映动画出品](../Page/东映动画.md "wikilink")，佐藤敬一执导，铃木智寻编剧并于2014年上映的[日本](../Page/日本.md "wikilink")[CG](../Page/计算机动画.md "wikilink")[动画](../Page/日本动画.md "wikilink")[电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")。这是第六部，也是系列中首部全CG动画\[1\]。影片于2014年6月11日在[安錫國際動畫影展上首映](https://zh.wikipedia.org/wiki/安錫國際動畫影展 "wikilink")，并于2014年6月21日在日本上映。
+SANCTUARY**》（，）是一部由[东映动画](../Page/东映动画.md "wikilink")出品，佐藤敬一执导，铃木智寻编剧并于2014年上映的[日本](../Page/日本.md "wikilink")[CG](../Page/计算机动画.md "wikilink")[动画](../Page/日本动画.md "wikilink")[电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")。这是第六部，也是系列中首部全CG动画\[1\]。影片于2014年6月11日在[安錫國際動畫影展上首映](https://zh.wikipedia.org/wiki/安錫國際動畫影展 "wikilink")，并于2014年6月21日在日本上映。
 
 本作於2011年以「聖鬥士星矢誕生25周年纪念作」發佈製作消息，2013年10月公佈標題，距離上一部劇場版作品《[聖鬥士星矢 天界篇
 序奏～overture～](../Page/聖鬥士星矢_天界篇_序奏～overture～.md "wikilink")》上映相隔了10年以上。本作品是原作者[車田正美出道四十週年紀念電影](https://zh.wikipedia.org/wiki/車田正美 "wikilink")，由原作者親自命名副標題。本作品更是首次採用全[CG製作的系列劇場版作品](https://zh.wikipedia.org/wiki/CG "wikilink")，劇情則是以在TV版大受歡迎的十二宮篇改編的故事。但人物的[3D造型和原著有較大差異](https://zh.wikipedia.org/wiki/3D "wikilink")。主角青銅聖鬥士們的造型無甚大變化，黃金聖鬥士們的造型則有較大改動以接近其本身國籍的外觀（髮色、膚色和瞳色的變動，添加了鬍子和眼鏡等等）。
 
-本作的主角，青銅聖鬥士們的[聲優陣容沒有沿用](../Page/聲優.md "wikilink")[舊TV版的第一代聲優陣](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")、[冥王篇的第二代聲優陣](https://zh.wikipedia.org/wiki/聖鬥士星矢#冥王篇 "wikilink")、[Ω的第三代聲優陣中的班底](https://zh.wikipedia.org/wiki/聖鬥士星矢Ω "wikilink")，而是起用以[石川界人為首的一系列新生代聲優](../Page/石川界人.md "wikilink")，以及由[山寺宏一](../Page/山寺宏一.md "wikilink")、[平田廣明等實力聲優組成的](../Page/平田廣明.md "wikilink")[黃金聖鬥士聲優陣容的第四代聲優陣](https://zh.wikipedia.org/wiki/黃金聖鬥士 "wikilink")。
+本作的主角，青銅聖鬥士們的[聲優](../Page/聲優.md "wikilink")陣容沒有沿用[舊TV版的第一代聲優陣](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")、[冥王篇的第二代聲優陣](https://zh.wikipedia.org/wiki/聖鬥士星矢#冥王篇 "wikilink")、[Ω的第三代聲優陣中的班底](https://zh.wikipedia.org/wiki/聖鬥士星矢Ω "wikilink")，而是起用以[石川界人](../Page/石川界人.md "wikilink")為首的一系列新生代聲優，以及由[山寺宏一](../Page/山寺宏一.md "wikilink")、[平田廣明](../Page/平田廣明.md "wikilink")等實力聲優組成的[黃金聖鬥士聲優陣容的第四代聲優陣](https://zh.wikipedia.org/wiki/黃金聖鬥士 "wikilink")。
 
 而根據據原作者[車田正美所說](https://zh.wikipedia.org/wiki/車田正美 "wikilink")\[2\]，本作在設定和設定上都刻意偏向漫畫原作的設定；而為了打破過去無法達到的表現效果，所以本作才決定採用全[CG製作](https://zh.wikipedia.org/wiki/CG "wikilink")。而製作本作的最大目的則是希望能吸引更多人接觸原作，並使新舊的支持者能聯繫起來。
 
 ## 概述
 
-本片的日语配音由日本美少女组合“[桃色幸运草](https://zh.wikipedia.org/wiki/桃色幸运草 "wikilink")”成员[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")\[3\]\[4\]和曾为《[翠星之加尔刚蒂亚](https://zh.wikipedia.org/wiki/翠星之加尔刚蒂亚 "wikilink")》、《[金色时光](https://zh.wikipedia.org/wiki/金色时光 "wikilink")》中的角色配音的[石川界人](../Page/石川界人.md "wikilink")，曾为《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》系列中的主人公[哈利作日语配音的](../Page/哈利·波特_\(角色\).md "wikilink")[小野賢章](../Page/小野賢章.md "wikilink")，曾为《[眼镜部](../Page/眼鏡部！.md "wikilink")》中的角色配音的[赤羽根健治](../Page/赤羽根健治.md "wikilink")，曾为《[青之除魔师](https://zh.wikipedia.org/wiki/青之除魔师 "wikilink")》中的角色配音的[岡本信彥以及曾为](../Page/岡本信彥.md "wikilink")《[飙速宅男](https://zh.wikipedia.org/wiki/飙速宅男 "wikilink")》中的角色配音的[野島健兒等](../Page/野島健兒.md "wikilink")[配音演员为主角们配音](https://zh.wikipedia.org/wiki/配音演员 "wikilink")\[5\]。内容以原作中的《圣域十二宫篇》为基础作改编\[6\]。
+本片的日语配音由日本美少女组合“[桃色幸运草](https://zh.wikipedia.org/wiki/桃色幸运草 "wikilink")”成员[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")\[3\]\[4\]和曾为《[翠星之加尔刚蒂亚](https://zh.wikipedia.org/wiki/翠星之加尔刚蒂亚 "wikilink")》、《[金色时光](https://zh.wikipedia.org/wiki/金色时光 "wikilink")》中的角色配音的[石川界人](../Page/石川界人.md "wikilink")，曾为《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》系列中的主人公[哈利作日语配音的](../Page/哈利·波特_\(角色\).md "wikilink")[小野賢章](../Page/小野賢章.md "wikilink")，曾为《[眼镜部](../Page/眼鏡部！.md "wikilink")》中的角色配音的[赤羽根健治](../Page/赤羽根健治.md "wikilink")，曾为《[青之除魔师](https://zh.wikipedia.org/wiki/青之除魔师 "wikilink")》中的角色配音的[岡本信彥](../Page/岡本信彥.md "wikilink")以及曾为《[飙速宅男](https://zh.wikipedia.org/wiki/飙速宅男 "wikilink")》中的角色配音的[野島健兒](../Page/野島健兒.md "wikilink")等[配音演员为主角们配音](https://zh.wikipedia.org/wiki/配音演员 "wikilink")\[5\]。内容以原作中的《圣域十二宫篇》为基础作改编\[6\]。
 
 本片是自2004年上映的电影《[聖鬥士星矢 天界篇
 序奏～overture～](../Page/聖鬥士星矢_天界篇_序奏～overture～.md "wikilink")》后时隔十年再次上映的圣斗士星矢系列全新剧场版动画\[7\]，同时也是漫画原作者车田正美出道40周年纪念作品\[8\]\[9\]。
@@ -21,33 +21,33 @@ SANCTUARY**》（，）是一部由[东映动画出品](../Page/东映动画.md 
 -KARAS-](../Page/鴉_-KARAS-.md "wikilink")》并曾执导过动画片《[TIGER &
 BUNNY](../Page/TIGER_&_BUNNY.md "wikilink")》以及真人版电影《[黑执事](https://zh.wikipedia.org/wiki/黑执事 "wikilink")》的佐藤敬一执导\[10\]\[11\]，同样参与过《TIGER
 &
-BUNNY》制作的铃木智寻负责编剧\[12\]，原著作者[车田正美不光统筹指挥整部作品计划](../Page/车田正美.md "wikilink")，更亲自定下标题\[13\]\[14\]。
+BUNNY》制作的铃木智寻负责编剧\[12\]，原著作者[车田正美](../Page/车田正美.md "wikilink")不光统筹指挥整部作品计划，更亲自定下标题\[13\]\[14\]。
 
-影片讲述了城户沙织（佐佐木彩夏配音）——一个为自己所拥有的神秘力量而困惑的女孩，被[天馬座](https://zh.wikipedia.org/wiki/天馬座 "wikilink")[圣斗士](https://zh.wikipedia.org/wiki/圣斗士 "wikilink")[星矢](../Page/天馬座_星矢.md "wikilink")（石川界人\[15\]配音）从一个被派来杀死她的刺客手中救下。沙织随后得知她是[女神](https://zh.wikipedia.org/wiki/女神 "wikilink")[雅典娜的转世](../Page/雅典娜.md "wikilink")，而星矢则是她的88个圣斗士之一，她的使命是前往圣域并向[教皇发动战争](https://zh.wikipedia.org/wiki/聖鬥士星矢角色列表#教皇（Pope） "wikilink")\[16\]。为了从即将到来的死亡威胁下拯救他们的女神雅典娜，星矢和他的青铜圣斗士伙伴[天龙座紫龙](../Page/天龙座.md "wikilink")、[凤凰座一辉](../Page/凤凰座.md "wikilink")、[白鸟座冰河](https://zh.wikipedia.org/wiki/白鸟座 "wikilink")、[室女座瞬一起](../Page/室女座.md "wikilink")，必须在十二个小时内穿越圣域的[十二宫圣殿](https://zh.wikipedia.org/wiki/十二宫 "wikilink")。他们必须面对由十二个黄金圣斗士分别守护每个圣殿\[17\]。
+影片讲述了城户沙织（佐佐木彩夏配音）——一个为自己所拥有的神秘力量而困惑的女孩，被[天馬座](https://zh.wikipedia.org/wiki/天馬座 "wikilink")[圣斗士](https://zh.wikipedia.org/wiki/圣斗士 "wikilink")[星矢](../Page/天馬座_星矢.md "wikilink")（石川界人\[15\]配音）从一个被派来杀死她的刺客手中救下。沙织随后得知她是[女神](https://zh.wikipedia.org/wiki/女神 "wikilink")[雅典娜](../Page/雅典娜.md "wikilink")的转世，而星矢则是她的88个圣斗士之一，她的使命是前往圣域并向[教皇发动战争](https://zh.wikipedia.org/wiki/聖鬥士星矢角色列表#教皇（Pope） "wikilink")\[16\]。为了从即将到来的死亡威胁下拯救他们的女神雅典娜，星矢和他的青铜圣斗士伙伴[天龙座](../Page/天龙座.md "wikilink")紫龙、[凤凰座](../Page/凤凰座.md "wikilink")一辉、[白鸟座冰河](https://zh.wikipedia.org/wiki/白鸟座 "wikilink")、[室女座](../Page/室女座.md "wikilink")瞬一起，必须在十二个小时内穿越圣域的[十二宫圣殿](https://zh.wikipedia.org/wiki/十二宫 "wikilink")。他们必须面对由十二个黄金圣斗士分别守护每个圣殿\[17\]。
 
 《圣域传说》是导演佐藤的第一部CGI的作品，他认为这是一个挑战。影片将故事的背景放在了现代，人物设计风格与车田正美的画风不同，在某些时候CGI的质感被设计的风格类似[视频游戏](https://zh.wikipedia.org/wiki/视频游戏 "wikilink")，
 而在某些时候则类似电影风格。除了CGI，人物造型都依稀基于佐藤的想法。原作漫画的作者车田正美担任影片的电影监制。佐藤认为，通过与车田的共同工作，
 他们将避免删除“原作漫画的灵魂”
 。佐藤还希望CGI来可以给主角们带来经由他们各自的个性所产生的面部表情。他表示因为不是机器人动画，所以尽量避免画面造成类似机器的感觉，并说是以
-“在电视上绝对没办法看得到的表现方式以120%的心血作成的映像”。为了突出角色们的充满活力，而在制作中使用了模型制作而不采用真人[动作捕捉](../Page/动作捕捉.md "wikilink")，以[传统动画般的](../Page/传统动画.md "wikilink")“手工制作”的方式来完成CG动画制作。\[18\]\[19\]\[20\]
+“在电视上绝对没办法看得到的表现方式以120%的心血作成的映像”。为了突出角色们的充满活力，而在制作中使用了模型制作而不采用真人[动作捕捉](../Page/动作捕捉.md "wikilink")，以[传统动画](../Page/传统动画.md "wikilink")般的“手工制作”的方式来完成CG动画制作。\[18\]\[19\]\[20\]
 
-在日语配音演员阵容方面，主角青铜圣斗士们没有采用《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》、《[聖鬥士星矢Ω](https://zh.wikipedia.org/wiki/聖鬥士星矢Ω "wikilink")》中的[古谷徹等人以及](../Page/古谷徹.md "wikilink")[OVA系列](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")中的[森田成一等人](../Page/森田成一.md "wikilink")，而是启用了新的配音\[21\]，而黄金圣斗士们则由宮本充、小山力也、山寺宏一等担纲\[22\]。[石川界人](../Page/石川界人.md "wikilink")\[23\]饰演的[天馬座
-星矢](../Page/天馬座_星矢.md "wikilink")是个抱持着自己的信仰、意志非常坚定的男孩\[24\]。石川提到他很高兴被分配到这个角色\[25\]。[佐佐木彩夏饰演](../Page/佐佐木彩夏.md "wikilink")\[26\]，她是女神雅典娜的转世，但不知自己的出身和使命\[27\]。[小野賢章饰演](../Page/小野賢章.md "wikilink")，他是一个内敛而不露声色，但充满激情的青铜圣斗士\[28\]。[赤羽根健治饰演](../Page/赤羽根健治.md "wikilink")，平静和周到愿意为别人冒着生命危险的青铜圣斗士\[29\]。赤羽根将这个角色塑造成既“酷”又“严肃”的样子\[30\]。[岡本信彥饰演](../Page/岡本信彥.md "wikilink")，一个温柔善良不喜欢伤害他的敌人的青铜圣斗士\[31\]。冈本指出，他在演绎时必须表现出阳刚之气\[32\]。[野島健兒饰演](../Page/野島健兒.md "wikilink")，一个独来独往的青铜圣斗士\[33\]。[宮本充饰演](../Page/宮本充.md "wikilink")[白羊座
-穆](https://zh.wikipedia.org/wiki/黄金圣斗士#白羊座／牡羊座 "wikilink")\[34\]，平静而又现实的白羊座黄金圣斗士不喜欢战斗\[35\]。[小山力也饰演](../Page/小山力也.md "wikilink")[金牛座
-阿鲁迪巴](https://zh.wikipedia.org/wiki/黄金圣斗士#金牛座_/_牡牛座 "wikilink")\[36\]，金牛座黄金圣斗士耿直健谈\[37\]。[山寺宏一饰演](../Page/山寺宏一.md "wikilink")[雙子座
-撒加](https://zh.wikipedia.org/wiki/黄金圣斗士#雙子座_/_双子座 "wikilink")\[38\]，一个拥有一颗同时兼具野心和骄傲的纯粹的心的人\[39\]。[平田廣明饰演](../Page/平田廣明.md "wikilink")[巨蟹座
-迪斯马斯克](https://zh.wikipedia.org/wiki/黄金圣斗士#巨蟹座 "wikilink")\[40\]，一个嗜血成性的邪恶的人\[41\]。[井上剛饰演](../Page/井上剛.md "wikilink")[獅子座
-艾欧利亚](https://zh.wikipedia.org/wiki/黄金圣斗士#獅子座 "wikilink")\[42\]，对自己的使命充满激情的最年轻黄金圣斗士\[43\]。[真殿光昭饰演](../Page/真殿光昭.md "wikilink")[處女座
-沙加](https://zh.wikipedia.org/wiki/黄金圣斗士#處女座／室女座／乙女座 "wikilink")\[44\]，他被认为是佛的转世，有深刻的洞察力\[45\]。真殿对这个角色很满意，并由此成为圣斗士星矢爱好者\[46\]。[浅野真澄饰演](../Page/浅野真澄.md "wikilink")[天蠍座
-米羅](https://zh.wikipedia.org/wiki/黄金圣斗士#天蠍座／蠍子座 "wikilink")\[47\]，一个聪明的人，并荣幸自己成为雅典娜的圣斗士\[48\]。浅野说在演绎米罗这个角色时给予了很大的自由空间\[49\]。[森川智之饰演](../Page/森川智之.md "wikilink")[射手座
-艾俄洛斯](https://zh.wikipedia.org/wiki/黄金圣斗士#射手座／人馬座 "wikilink")\[50\]，已故的射手座黄金圣斗士，在被视为叛徒之后失去了性命\[51\]。[川田紳司饰演](../Page/川田紳司.md "wikilink")[摩羯座
-修羅](https://zh.wikipedia.org/wiki/黄金圣斗士#摩羯座／山羊座 "wikilink")\[52\]，一个喜欢战斗的积极的人\[53\]。[浪川大輔饰演](../Page/浪川大輔.md "wikilink")[水瓶座
+在日语配音演员阵容方面，主角青铜圣斗士们没有采用《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》、《[聖鬥士星矢Ω](https://zh.wikipedia.org/wiki/聖鬥士星矢Ω "wikilink")》中的[古谷徹](../Page/古谷徹.md "wikilink")等人以及[OVA系列](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")中的[森田成一](../Page/森田成一.md "wikilink")等人，而是启用了新的配音\[21\]，而黄金圣斗士们则由宮本充、小山力也、山寺宏一等担纲\[22\]。[石川界人](../Page/石川界人.md "wikilink")\[23\]饰演的[天馬座
+星矢](../Page/天馬座_星矢.md "wikilink")是个抱持着自己的信仰、意志非常坚定的男孩\[24\]。石川提到他很高兴被分配到这个角色\[25\]。[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")饰演\[26\]，她是女神雅典娜的转世，但不知自己的出身和使命\[27\]。[小野賢章](../Page/小野賢章.md "wikilink")饰演，他是一个内敛而不露声色，但充满激情的青铜圣斗士\[28\]。[赤羽根健治](../Page/赤羽根健治.md "wikilink")饰演，平静和周到愿意为别人冒着生命危险的青铜圣斗士\[29\]。赤羽根将这个角色塑造成既“酷”又“严肃”的样子\[30\]。[岡本信彥](../Page/岡本信彥.md "wikilink")饰演，一个温柔善良不喜欢伤害他的敌人的青铜圣斗士\[31\]。冈本指出，他在演绎时必须表现出阳刚之气\[32\]。[野島健兒](../Page/野島健兒.md "wikilink")饰演，一个独来独往的青铜圣斗士\[33\]。[宮本充](../Page/宮本充.md "wikilink")饰演[白羊座
+穆](https://zh.wikipedia.org/wiki/黄金圣斗士#白羊座／牡羊座 "wikilink")\[34\]，平静而又现实的白羊座黄金圣斗士不喜欢战斗\[35\]。[小山力也](../Page/小山力也.md "wikilink")饰演[金牛座
+阿鲁迪巴](https://zh.wikipedia.org/wiki/黄金圣斗士#金牛座_/_牡牛座 "wikilink")\[36\]，金牛座黄金圣斗士耿直健谈\[37\]。[山寺宏一](../Page/山寺宏一.md "wikilink")饰演[雙子座
+撒加](https://zh.wikipedia.org/wiki/黄金圣斗士#雙子座_/_双子座 "wikilink")\[38\]，一个拥有一颗同时兼具野心和骄傲的纯粹的心的人\[39\]。[平田廣明](../Page/平田廣明.md "wikilink")饰演[巨蟹座
+迪斯马斯克](https://zh.wikipedia.org/wiki/黄金圣斗士#巨蟹座 "wikilink")\[40\]，一个嗜血成性的邪恶的人\[41\]。[井上剛](../Page/井上剛.md "wikilink")饰演[獅子座
+艾欧利亚](https://zh.wikipedia.org/wiki/黄金圣斗士#獅子座 "wikilink")\[42\]，对自己的使命充满激情的最年轻黄金圣斗士\[43\]。[真殿光昭](../Page/真殿光昭.md "wikilink")饰演[處女座
+沙加](https://zh.wikipedia.org/wiki/黄金圣斗士#處女座／室女座／乙女座 "wikilink")\[44\]，他被认为是佛的转世，有深刻的洞察力\[45\]。真殿对这个角色很满意，并由此成为圣斗士星矢爱好者\[46\]。[浅野真澄](../Page/浅野真澄.md "wikilink")饰演[天蠍座
+米羅](https://zh.wikipedia.org/wiki/黄金圣斗士#天蠍座／蠍子座 "wikilink")\[47\]，一个聪明的人，并荣幸自己成为雅典娜的圣斗士\[48\]。浅野说在演绎米罗这个角色时给予了很大的自由空间\[49\]。[森川智之](../Page/森川智之.md "wikilink")饰演[射手座
+艾俄洛斯](https://zh.wikipedia.org/wiki/黄金圣斗士#射手座／人馬座 "wikilink")\[50\]，已故的射手座黄金圣斗士，在被视为叛徒之后失去了性命\[51\]。[川田紳司](../Page/川田紳司.md "wikilink")饰演[摩羯座
+修羅](https://zh.wikipedia.org/wiki/黄金圣斗士#摩羯座／山羊座 "wikilink")\[52\]，一个喜欢战斗的积极的人\[53\]。[浪川大輔](../Page/浪川大輔.md "wikilink")饰演[水瓶座
 卡妙](https://zh.wikipedia.org/wiki/黄金圣斗士#水瓶座／宝瓶座 "wikilink")\[54\]，看似冷酷无情实则十分和善的人\[55\]。[桐本琢也饰演](https://zh.wikipedia.org/wiki/桐本琢也 "wikilink")[雙魚座
-阿布羅狄](https://zh.wikipedia.org/wiki/黄金圣斗士#雙魚座_/_魚座 "wikilink")\[56\]，用[玫瑰战斗的美男子](../Page/玫瑰.md "wikilink")\[57\]，桐本表示很荣幸能饰演这个角色\[58\]。
+阿布羅狄](https://zh.wikipedia.org/wiki/黄金圣斗士#雙魚座_/_魚座 "wikilink")\[56\]，用[玫瑰](../Page/玫瑰.md "wikilink")战斗的美男子\[57\]，桐本表示很荣幸能饰演这个角色\[58\]。
 
 ## 故事簡介
 
-在遙遠的神話時代，有一群守護著戰鬥女神[雅典娜的戰士](../Page/雅典娜.md "wikilink")。他們正是在邪惡於這個世上蔓延的時候必定會出現的希望的戰士·聖鬥士。他們身穿[星座的](../Page/星座.md "wikilink")[聖衣](https://zh.wikipedia.org/wiki/聖衣 "wikilink")，赤手空拳對抗威脅大地的邪惡勢力，據說他們的拳頭能撕裂天空，腳踢能裂開大地。
+在遙遠的神話時代，有一群守護著戰鬥女神[雅典娜](../Page/雅典娜.md "wikilink")的戰士。他們正是在邪惡於這個世上蔓延的時候必定會出現的希望的戰士·聖鬥士。他們身穿[星座](../Page/星座.md "wikilink")的[聖衣](https://zh.wikipedia.org/wiki/聖衣 "wikilink")，赤手空拳對抗威脅大地的邪惡勢力，據說他們的拳頭能撕裂天空，腳踢能裂開大地。
 
 然後，經過長久的聖戰，在現代，為自己所擁有的不可思議的力量而煩惱的少女·**[城戶沙織](https://zh.wikipedia.org/wiki/聖鬥士星矢角色列表#城戶沙織 "wikilink")**，被告知那種力量名為「[小宇宙](../Page/小宇宙.md "wikilink")」，而她正是率領「聖鬥士」守衛大地的愛與和平的雅典娜的轉世。但是作為聖鬥士大本營的聖域裏的教皇則聲稱沙織是冒充雅典娜的逆賊，更派出刺客追殺她。而將沙織從來襲刺客的襲擊中救出來的，正是守護著她的[青銅聖鬥士](https://zh.wikipedia.org/wiki/青銅聖鬥士 "wikilink")**[星矢](../Page/天馬座_星矢.md "wikilink")**。
 
@@ -301,7 +301,7 @@ BUNNY》制作的铃木智寻负责编剧\[12\]，原著作者[车田正美不�
 
   -
     CV：[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")\[81\]／[興梠里美](../Page/興梠里美.md "wikilink")〈嬰兒〉／[諸星堇](../Page/諸星堇.md "wikilink")〈幼年〉；臺灣：[楊凱凱](../Page/楊凱凱.md "wikilink")；香港：[顧詠雪](../Page/顧詠雪.md "wikilink")
-    16歲。[雅典娜的轉世](../Page/雅典娜.md "wikilink")，被古拉杜財團總裁：城戶光政當作孫女撫養，平時穿著西装外套。
+    16歲。[雅典娜](../Page/雅典娜.md "wikilink")的轉世，被古拉杜財團總裁：城戶光政當作孫女撫養，平時穿著西装外套。
     在剛滿16歲時，一邊躊躇著自己的出身，一邊也確認了自己的宿命，之後與青銅聖鬥士們一起前往聖域。
     對星矢的稱呼由原著的「星矢」變成「**星矢君**」。
 
@@ -347,7 +347,7 @@ BUNNY》制作的铃木智寻负责编剧\[12\]，原著作者[车田正美不�
 <!-- end list -->
 
   -
-    守護著女神[雅典娜的戰士](../Page/雅典娜.md "wikilink")。
+    守護著女神[雅典娜](../Page/雅典娜.md "wikilink")的戰士。
     據說不拿武器的他們的拳頭能撕裂天空，腳踢能裂開大地。
     聖鬥士分為三個級別，為守護十二宮，最高級的黃金聖鬥士、中級的白銀聖鬥士、最低級的青銅聖鬥士。
     還有，他們身穿與自己守護星座相對應的聖衣。
@@ -453,9 +453,9 @@ BUNNY》制作的铃木智寻负责编剧\[12\]，原著作者[车田正美不�
 ### 音乐
 
 影片的配乐由池赖广完成，配乐专辑于2014年6月18日发售\[83\]。曾是日本[视觉](https://zh.wikipedia.org/wiki/视觉系 "wikilink")[摇滚乐团](https://zh.wikipedia.org/wiki/摇滚乐团 "wikilink")[X
-JAPAN队长的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[Yoshiki创作了电影的主题曲](../Page/Yoshiki.md "wikilink")《Hero
+JAPAN队长的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[Yoshiki](../Page/Yoshiki.md "wikilink")创作了电影的主题曲《Hero
 (Yoshiki Classical
-Version)》（英雄（Yoshiki经典版））。这首歌脱离了[日本动漫歌曲固有的限制](https://zh.wikipedia.org/wiki/日本动漫 "wikilink")，以英语填词。在曲中，由Yoshiki负责[钢琴演奏](../Page/钢琴.md "wikilink")，Yoshiki另一支乐队中的主唱凯蒂·菲茨杰拉德负责演唱。在看完电影制作这首歌之前，Yoshiki就盛赞这部影片场面宏大、效果惊人惊人；在得知什么样的歌曲更符合电影的愿景后，他最终决定写一首[叙事歌谣](https://zh.wikipedia.org/wiki/谣曲 "wikilink")。他称这首歌“以冲击心灵的优美旋律承载着英雄的主题”。他在他的“\#Yoshiki
+Version)》（英雄（Yoshiki经典版））。这首歌脱离了[日本动漫歌曲固有的限制](https://zh.wikipedia.org/wiki/日本动漫 "wikilink")，以英语填词。在曲中，由Yoshiki负责[钢琴](../Page/钢琴.md "wikilink")演奏，Yoshiki另一支乐队中的主唱凯蒂·菲茨杰拉德负责演唱。在看完电影制作这首歌之前，Yoshiki就盛赞这部影片场面宏大、效果惊人惊人；在得知什么样的歌曲更符合电影的愿景后，他最终决定写一首[叙事歌谣](https://zh.wikipedia.org/wiki/谣曲 "wikilink")。他称这首歌“以冲击心灵的优美旋律承载着英雄的主题”。他在他的“\#Yoshiki
 Classical World
 Tour”世界巡回演唱会的第一站期间首次推出这首歌曲\[84\]\[85\]。Yoshiki表示，作为原版圣斗士星矢动画的爱好者，他为能创作并演奏这支主题曲而感到十分荣幸\[86\]\[87\]。
 
@@ -466,15 +466,15 @@ Project”为题的《圣域传说》制作计划最初是在2011年2月由东�
 文是“SAVE YOUR ATHENA”（拯救你的雅典娜），中间还有一行小字“你曾感受过小宇宙吗”\[91\]\[92\]。
 2014年3月10日，影片制作方又公开了一张海报，画面中央是身着射手座黄金圣衣的星矢和雅典娜的化身城户沙织以及其他4名青铜圣斗士，背景是教皇和
 12位黄金圣斗士中的10位\[93\]。影片首款预告片2014年3月出现在官方网站上，在预告片中公开了包括阿鲁迪巴（金牛座）、艾奥利亚（狮子座）、穆（白羊座）
-以及沙迦（处女座）在内的12位黄金圣斗士，预告片中说：“星矢传说从这里开始”\[94\]\[95\]。继公布了配音阵容后，影片的官方网站又更新了一个新的视觉海报，为担纲主角的星矢穿射手座的黄金圣衣，标语写道，“燃烧吧，小宇宙。”\[96\]2014年4月[漫画娜塔莉推出了一个新的海报](../Page/Natalie_\(網站\).md "wikilink")。2014年春季日本黄金周假期期间，影片的“黄金海报”将张贴在遍及日本全境的40座[JR的主要火车站](../Page/JR.md "wikilink")，海报以黄金色的原作《圣域十二宫篇》漫画经典场面为背景，五名主角围绕着雅典娜\[97\]\[98\]。原计划“黄金海报”展出一周时间，但由于反响良好，于是主办方配合影片上映于[东京都内个主要站点展出](https://zh.wikipedia.org/wiki/东京都 "wikilink")\[99\]。2014年6月16日，制作方公布了又一段预告片，画面中出现了雅典娜遭利箭穿胸的场景，预告片配合主题曲《Hero
+以及沙迦（处女座）在内的12位黄金圣斗士，预告片中说：“星矢传说从这里开始”\[94\]\[95\]。继公布了配音阵容后，影片的官方网站又更新了一个新的视觉海报，为担纲主角的星矢穿射手座的黄金圣衣，标语写道，“燃烧吧，小宇宙。”\[96\]2014年4月[漫画娜塔莉推出了一个新的海报](../Page/Natalie_\(網站\).md "wikilink")。2014年春季日本黄金周假期期间，影片的“黄金海报”将张贴在遍及日本全境的40座[JR](../Page/JR.md "wikilink")的主要火车站，海报以黄金色的原作《圣域十二宫篇》漫画经典场面为背景，五名主角围绕着雅典娜\[97\]\[98\]。原计划“黄金海报”展出一周时间，但由于反响良好，于是主办方配合影片上映于[东京都内个主要站点展出](https://zh.wikipedia.org/wiki/东京都 "wikilink")\[99\]。2014年6月16日，制作方公布了又一段预告片，画面中出现了雅典娜遭利箭穿胸的场景，预告片配合主题曲《Hero
 (Yoshiki Classic Version)》被发布\[100\]\[101\]。
 2014年6月28日，官方又发布了一支预告片，包括处女座、天蝎座、山羊座在内的多名黄金圣斗士均出现在预告片中，片中还出现了雅典娜以神力治疗受伤的冰河以及带唇环的狮子座艾欧里亚\[102\]。
 
 ## 发行
 
-这部影片在2014年6月21日公开上映。购买预售票的影迷可以参加特别的谈话活动。剧组成员2014年5月31日出现在[东京的讲座活动上](../Page/东京.md "wikilink")，随后于6月1日在[名古屋和](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[大阪出席了类似的活动](https://zh.wikipedia.org/wiki/大阪 "wikilink")\[103\]。另一场讲座将在2014年6月19日举行，这将是关于关于人物模型、动画、照明等\[104\]。2014年6月11日在安錫國際動畫影展上首映\[105\]。
+这部影片在2014年6月21日公开上映。购买预售票的影迷可以参加特别的谈话活动。剧组成员2014年5月31日出现在[东京](../Page/东京.md "wikilink")的讲座活动上，随后于6月1日在[名古屋和](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[大阪出席了类似的活动](https://zh.wikipedia.org/wiki/大阪 "wikilink")\[103\]。另一场讲座将在2014年6月19日举行，这将是关于关于人物模型、动画、照明等\[104\]。2014年6月11日在安錫國際動畫影展上首映\[105\]。
 
-为了推动影片在日本市场的宣传，[速食](https://zh.wikipedia.org/wiki/速食 "wikilink")[连锁店](https://zh.wikipedia.org/wiki/连锁店 "wikilink")[乐天利餐厅与电影制作方合作](../Page/乐天利.md "wikilink")，2014年6月5日起为其全土豆菜单新增了一个特制版联合菜单——一个被设计看起来像是圣斗士圣衣箱的容器，随机附赠一个剧中五位主人公（天马座星矢，天龙座紫龙，白鸟座冰河，室女座瞬以及凤凰座一辉）造型的手机[耳机插孔](../Page/TRS端子.md "wikilink")[吊饰](https://zh.wikipedia.org/wiki/手機吊飾 "wikilink")。顾客也可以参加全国性的抽奖来赢取限量版射手座星矢表带、石川界人签名版的《圣域传说》海报，或者一个特制的剧场小册子。\[106\]\[107\]\[108\]\[109\]
+为了推动影片在日本市场的宣传，[速食](https://zh.wikipedia.org/wiki/速食 "wikilink")[连锁店](https://zh.wikipedia.org/wiki/连锁店 "wikilink")[乐天利](../Page/乐天利.md "wikilink")餐厅与电影制作方合作，2014年6月5日起为其全土豆菜单新增了一个特制版联合菜单——一个被设计看起来像是圣斗士圣衣箱的容器，随机附赠一个剧中五位主人公（天马座星矢，天龙座紫龙，白鸟座冰河，室女座瞬以及凤凰座一辉）造型的手机[耳机插孔](../Page/TRS端子.md "wikilink")[吊饰](https://zh.wikipedia.org/wiki/手機吊飾 "wikilink")。顾客也可以参加全国性的抽奖来赢取限量版射手座星矢表带、石川界人签名版的《圣域传说》海报，或者一个特制的剧场小册子。\[106\]\[107\]\[108\]\[109\]
 
 2014年5月23日电影制作方宣布同[手机游戏](../Page/手机游戏.md "wikilink")《[龍族拼圖](../Page/龍族拼圖.md "wikilink")》进行联动活动，活动将于6月23日展开。\[110\]\[111\]
 
@@ -584,9 +584,7 @@ Project”为题的《圣域传说》制作计划最初是在2011年2月由东�
 56.
 57.
 58.
-59. 映画『聖闘士星矢 Legend of Sanctuary』}}官方中文網站 |access-date=2013-12-16
-    |archive-url=<https://web.archive.org/web/20131216055819/http://saintseiya2014.com/gl_chinese.html>
-    |archive-date=2013-12-16 |dead-url=yes }}
+59.
 
 60. 宣傳海報
 

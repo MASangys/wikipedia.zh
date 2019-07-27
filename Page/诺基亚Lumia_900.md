@@ -1,5 +1,5 @@
-**諾基亞Lumia 900**是由[诺基亚开发](../Page/诺基亚.md "wikilink")，使用[Windows
-Phone操作系统的](../Page/Windows_Phone.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。于[2012年4月发布](../Page/2012年4月.md "wikilink")。Lumia
+**諾基亞Lumia 900**是由[诺基亚](../Page/诺基亚.md "wikilink")开发，使用[Windows
+Phone操作系统的](../Page/Windows_Phone.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。于[2012年4月](../Page/2012年4月.md "wikilink")发布。Lumia
 900拥有4.3英寸的“[AMOLED](../Page/AMOLED.md "wikilink")”800×480分辨率[电容式触摸屏](https://zh.wikipedia.org/wiki/电容式触摸屏 "wikilink")，同时其机身为一体化设计，材料为[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")，有黑色，青色和白色三种颜色可供选择。
 
 ## 主要特性
@@ -11,7 +11,7 @@ LTE
 
 ## Windows Phone 8升级限制及抛售风波
 
-由于硬件限制等诸多原因，[微软宣布现有](../Page/微软.md "wikilink")[Windows Phone
+由于硬件限制等诸多原因，[微软](../Page/微软.md "wikilink")宣布现有[Windows Phone
 7.5设备](https://zh.wikipedia.org/wiki/Windows_Phone_7.5 "wikilink")（包括Lumia
 900）无法升级至[Windows Phone
 8](../Page/Windows_Phone_8.md "wikilink")，但可以升级至[Windows

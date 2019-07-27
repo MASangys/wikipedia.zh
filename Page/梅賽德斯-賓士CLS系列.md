@@ -8,13 +8,13 @@ car）與較為運動風格取向的雙門[轎跑車](../Page/轎跑車.md "wiki
 
 [Cls_350_elegance_2006.jpg](https://zh.wikipedia.org/wiki/File:Cls_350_elegance_2006.jpg "fig:Cls_350_elegance_2006.jpg")
 [Mercedes-Benz_CLS_320_CDI.jpg](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_CLS_320_CDI.jpg "fig:Mercedes-Benz_CLS_320_CDI.jpg")
-CLS系列的起源最早可以回溯至2003年9月時在[法蘭克福車展中展出的Vision](../Page/法蘭克福車展.md "wikilink")
+CLS系列的起源最早可以回溯至2003年9月時在[法蘭克福車展](../Page/法蘭克福車展.md "wikilink")中展出的Vision
 CLS[概念車](../Page/概念車.md "wikilink")，並於隔年的2004年正式量產。車廠內部車系代號為W219的第一代CLS，是以賓士廠內代號W211的中型房車[E系列的](https://zh.wikipedia.org/wiki/梅賽德斯-賓士E系列 "wikilink")[前置引擎、後輪驅動](https://zh.wikipedia.org/wiki/前置後驅 "wikilink")[底盤為基礎](https://zh.wikipedia.org/wiki/底盤 "wikilink")，加長約152mm的[軸距之後修改而來](https://zh.wikipedia.org/wiki/軸距 "wikilink")。與作為開發基礎的E系列不大相同的是，CLS系列雖然與E系列同樣是採用四門四座的配置，但卻擁有比較接近一般轎跑車（雙門四座）的流線、[跑車風格外型與低矮的車頂](https://zh.wikipedia.org/wiki/跑車 "wikilink")。車廠方面也是以「一輛擁有房車舒適性與功能性的轎跑車」這般的訴求在設定CLS系列，稱呼它為「四門轎跑車」並歸類在轎跑車產品系列底下。
 
 ### 第二代（W218）
 
 [Mercedes-Benz_CLS-Shooting_Brake_Rear.JPG](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_CLS-Shooting_Brake_Rear.JPG "fig:Mercedes-Benz_CLS-Shooting_Brake_Rear.JPG")。\]\]
-在2010年[巴黎車展中](../Page/巴黎車展.md "wikilink")，賓士展出了廠內車系代號W218的第二代CLS系列。W218延續了第一代CLS房車車體搭配轎跑車造型的產品特色，但為了配合賓士新的造型設計趨勢，而擁有較為剛硬、侵略性的外觀，由韓裔設計師Hubert
+在2010年[巴黎車展](../Page/巴黎車展.md "wikilink")中，賓士展出了廠內車系代號W218的第二代CLS系列。W218延續了第一代CLS房車車體搭配轎跑車造型的產品特色，但為了配合賓士新的造型設計趨勢，而擁有較為剛硬、侵略性的外觀，由韓裔設計師Hubert
 Lee設計。W218
 CLS系列擁有七款[排氣量與](https://zh.wikipedia.org/wiki/排氣量 "wikilink")[汽缸數量不同的](https://zh.wikipedia.org/wiki/汽缸 "wikilink")[汽油與](../Page/汽油引擎.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")，其中頂級車款是2011年時上市的CLS
 63

@@ -1,5 +1,5 @@
 《**Walk
-Together**》是[台灣樂團](https://zh.wikipedia.org/wiki/台灣 "wikilink")[蘇打綠的第四張現場專輯](../Page/蘇打綠.md "wikilink")，在2013年3月5日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年3月22日推出。專輯收錄了他們在《當我們一起走過》巡迴演唱會的部分曲目\[2\]。另外，隨預購版附送一片EP《小時候》，收錄《小時候》及《獨處的時候》兩首單曲\[3\]。
+Together**》是[台灣樂團](https://zh.wikipedia.org/wiki/台灣 "wikilink")[蘇打綠](../Page/蘇打綠.md "wikilink")的第四張現場專輯，在2013年3月5日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年3月22日推出。專輯收錄了他們在《當我們一起走過》巡迴演唱會的部分曲目\[2\]。另外，隨預購版附送一片EP《小時候》，收錄《小時候》及《獨處的時候》兩首單曲\[3\]。
 
 ## 曲目
 

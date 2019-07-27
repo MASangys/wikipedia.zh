@@ -1,4 +1,4 @@
-**最終幻想V角色列表**列出了[史克威爾開發](../Page/史克威爾.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")《[最終幻想V](https://zh.wikipedia.org/wiki/最終幻想V "wikilink")》的登場角色。
+**最終幻想V角色列表**列出了[史克威爾](../Page/史克威爾.md "wikilink")開發[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")《[最終幻想V](https://zh.wikipedia.org/wiki/最終幻想V "wikilink")》的登場角色。
 
 ## 主要人物
 

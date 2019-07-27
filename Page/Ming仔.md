@@ -1,4 +1,4 @@
-**梁嘉銘**（，，藝名**Ming仔**），是一名在[香港的](../Page/香港.md "wikilink")[YouTube用戶](../Page/YouTube.md "wikilink")，傳月入25萬。\[1\]\[2\]其作品主要有《今日freestyle》、《今日明少理》、《非南非旅》、《歐遊列國》、《單身美旅》、《單身日記》、《西澳之旅》、《愛・回加》、《日全食》等系列。
+**梁嘉銘**（，，藝名**Ming仔**），是一名在[香港](../Page/香港.md "wikilink")的[YouTube](../Page/YouTube.md "wikilink")用戶，傳月入25萬。\[1\]\[2\]其作品主要有《今日freestyle》、《今日明少理》、《非南非旅》、《歐遊列國》、《單身美旅》、《單身日記》、《西澳之旅》、《愛・回加》、《日全食》等系列。
 
 ## 經歷
 
@@ -16,14 +16,14 @@ jai是最成功的Youtuber」和「找數真漢子」\[3\]\[4\]。
   - 2013年
       - 《[溝女不離三兄弟](../Page/溝女不離三兄弟.md "wikilink")》飾演 馮總
   - 2015年
-      - [香港電台電視節目](../Page/香港電台.md "wikilink")《[監警有道](https://zh.wikipedia.org/wiki/監警有道 "wikilink")》飾演
+      - [香港電台](../Page/香港電台.md "wikilink")電視節目《[監警有道](https://zh.wikipedia.org/wiki/監警有道 "wikilink")》飾演
         阿魚
       - 香港電台電視節目《[火速救兵III](../Page/火速救兵III.md "wikilink")》飾演 Nicky
       - 鴨王
       - 電影《[宅男女神殺人狂](../Page/宅男女神殺人狂.md "wikilink")》飾演 Ming仔
       - 電影《沒女神探》
   - 2016年
-      - [ViuTV電視劇](../Page/ViuTV.md "wikilink")《[三一如三](../Page/三一如三.md "wikilink")》第16集「谷阿食」飾演
+      - [ViuTV](../Page/ViuTV.md "wikilink")電視劇《[三一如三](../Page/三一如三.md "wikilink")》第16集「谷阿食」飾演
         谷阿食
   - 2017年
       - [ViuTV](../Page/ViuTV.md "wikilink")[晚吹](../Page/晚吹.md "wikilink")

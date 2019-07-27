@@ -1,8 +1,8 @@
-**Rola**（****、，本命****），[亞歐混血兒](https://zh.wikipedia.org/wiki/亞歐混血 "wikilink")，是出身於[日本](../Page/日本.md "wikilink")[東京都的女](../Page/東京都.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")、[歌手及](../Page/歌手.md "wikilink")[演員](../Page/演員.md "wikilink")。所屬[經紀公司為](../Page/經紀公司.md "wikilink")[LIBERA](https://zh.wikipedia.org/wiki/LIBERA_\(經紀公司\) "wikilink")。父親是[孟加拉人](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")，母親擁有四分之一[俄羅斯血統及四分之三日本血統](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。\[1\]
+**Rola**（****、，本命****），[亞歐混血兒](https://zh.wikipedia.org/wiki/亞歐混血 "wikilink")，是出身於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")的女[模特兒](../Page/模特兒.md "wikilink")、[歌手](../Page/歌手.md "wikilink")及[演員](../Page/演員.md "wikilink")。所屬[經紀公司](../Page/經紀公司.md "wikilink")為[LIBERA](https://zh.wikipedia.org/wiki/LIBERA_\(經紀公司\) "wikilink")。父親是[孟加拉人](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")，母親擁有四分之一[俄羅斯血統及四分之三日本血統](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。\[1\]
 
 ## 生平
 
-Rola是出生於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")，並在[孟加拉國長大直到她](https://zh.wikipedia.org/wiki/孟加拉國 "wikilink")7歲。\[2\]她的父母在她年幼时離婚，後由她的繼母（中國人）抚养。\[3\]她於高中時期和朋友去[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷的購物被發掘之後開始加入模特兒活動](../Page/澀谷.md "wikilink")。\[4\]
+Rola是出生於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")，並在[孟加拉國長大直到她](https://zh.wikipedia.org/wiki/孟加拉國 "wikilink")7歲。\[2\]她的父母在她年幼时離婚，後由她的繼母（中國人）抚养。\[3\]她於高中時期和朋友去[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")的購物被發掘之後開始加入模特兒活動。\[4\]
 
 Rola於2007年5月在Pop出道，多次參加彩妝單元的拍攝，因為勻稱修長的身材而頻繁出現在服裝單元。本來想取的藝名是Rosa，但經紀人卻認為Rola這個名字更有魅力。在Pop活動期間雖然人氣不低，卻一直沒有參加大的企劃，所以有點半紅不紫。在2008年8月雜誌《[Popteen](../Page/Popteen.md "wikilink")》的宴會「あげるPopteen祭」裡唱上親手寫的歌以歌手身份出現。在2008年4月號初登場《[ViVi](../Page/ViVi.md "wikilink")》，以後成為ViVi正式模特。2009年5月正式加盟ViVi，以豐富的拍攝經驗成功晉升名模行列，人氣日益上漲。
 

@@ -1,4 +1,4 @@
-**RCC-M**，《压水反应堆核岛机械设备设计和建造规则》的简称，此法规由法国核岛设备设计和建造规则协会（，[縮寫AFCEN](../Page/縮寫.md "wikilink")）编制，意在规范法国[压水反应堆](../Page/压水反应堆.md "wikilink")[核电站机械设备设计和建造](https://zh.wikipedia.org/wiki/核电站 "wikilink")。
+**RCC-M**，《压水反应堆核岛机械设备设计和建造规则》的简称，此法规由法国核岛设备设计和建造规则协会（，[縮寫](../Page/縮寫.md "wikilink")AFCEN）编制，意在规范法国[压水反应堆](../Page/压水反应堆.md "wikilink")[核电站机械设备设计和建造](https://zh.wikipedia.org/wiki/核电站 "wikilink")。
 
 ## 外部連結
 

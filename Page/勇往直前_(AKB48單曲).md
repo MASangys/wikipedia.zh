@@ -1,4 +1,4 @@
-《**勇往直前**》（）是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的第](../Page/AKB48.md "wikilink")35張[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2014年2月26日由[國王唱片發行的這張單曲](../Page/國王唱片.md "wikilink")，是AKB48慣例會在日本的畢業季（每年4月）之前發行的畢業單曲之一。
+《**勇往直前**》（）是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第35張[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2014年2月26日由[國王唱片](../Page/國王唱片.md "wikilink")發行的這張單曲，是AKB48慣例會在日本的畢業季（每年4月）之前發行的畢業單曲之一。
 
 ## 简介
 
@@ -8,10 +8,10 @@
 
 主打歌《勇往直前》是在2014年1月24日于[TOKYO DOME
 CITY举办的](../Page/MEETS_PORT.md "wikilink")“[AKB48 重温时间 最佳曲目200
-2014](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目200_2014 "wikilink")”演唱会上首次披露，而单曲在电视上的首次演出是在2014年2月3日[富士电视台播映的](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《[SMAP×SMAP](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")》中与[SMAP的](../Page/SMAP.md "wikilink")5名成員合作演出。至于首次单独演出，则是2014年2月7日在[朝日电视台的直播音樂節目](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")《[MUSIC
+2014](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目200_2014 "wikilink")”演唱会上首次披露，而单曲在电视上的首次演出是在2014年2月3日[富士电视台播映的](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《[SMAP×SMAP](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")》中与[SMAP](../Page/SMAP.md "wikilink")的5名成員合作演出。至于首次单独演出，则是2014年2月7日在[朝日电视台的直播音樂節目](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")《[MUSIC
 STATION](../Page/MUSIC_STATION.md "wikilink")》上初次表演。另外，在AKB48集團於2月26日在東京台場的表演場所舉辦的「大組閣祭」活動中，也曾出現過一個由48集團音樂總監田中博信領軍、五名與音樂或影像作品相關的幕後工作人員所組成的臨時團體「斷氣合唱團」（），在活動正式開始前登台表演改編版的《勇往直前》，作為暖場。
 
-《勇往直前》一作除了是大岛优子参加的最后一首单曲作品外，也是製作人[秋元康第一次單獨指定大島擔任center位置的作品](../Page/秋元康.md "wikilink")。在過去秋元曾多次指定大島與其他成員以雙center或甚至四center的方式擔任單曲主打歌的領軍位置，而大島單獨擔任center的《[無限重播](../Page/無限重播.md "wikilink")》（）與《[格子花紋](../Page/格子花紋.md "wikilink")》（）二作，則實際上是透過歌迷票選而非製作人指定站位的單曲。
+《勇往直前》一作除了是大岛优子参加的最后一首单曲作品外，也是製作人[秋元康](../Page/秋元康.md "wikilink")第一次單獨指定大島擔任center位置的作品。在過去秋元曾多次指定大島與其他成員以雙center或甚至四center的方式擔任單曲主打歌的領軍位置，而大島單獨擔任center的《[無限重播](../Page/無限重播.md "wikilink")》（）與《[格子花紋](../Page/格子花紋.md "wikilink")》（）二作，則實際上是透過歌迷票選而非製作人指定站位的單曲。
 
 除了與單曲同名的主打歌之外，本作各版本中的搭配[B面曲之參與成員名單也作了以往不曾見過的嘗試](https://zh.wikipedia.org/wiki/B面曲 "wikilink")。配合此單曲的B面曲目成立了四個以動物命名的臨時小分隊，分別是「Smiling
 Lions」（微笑[獅](https://zh.wikipedia.org/wiki/獅 "wikilink")）、「Beauty
@@ -36,7 +36,7 @@ ver.）的一般短版MV外，還另外拍攝有一個片長超過17分鐘的劇
 ### Type-A
 
 除了各版本共通的收錄內容外，Type-A主要收錄了由小分隊Beauty
-Giraffes演唱的《早看穿你的謊言》。此版本的封面是由選拔組中的[大島優子](../Page/大島優子.md "wikilink")、[川荣李奈](https://zh.wikipedia.org/wiki/川荣李奈 "wikilink")、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")、[橫山由依與](../Page/橫山由依.md "wikilink")[渡邊美優紀共八名成員拍攝](../Page/渡邊美優紀.md "wikilink")，其中版面中央位置的是大島優子。至於此張單曲的封套內裡，四個版本全都是由NMB48的[山本彩單獨拍攝](../Page/山本彩.md "wikilink")。
+Giraffes演唱的《早看穿你的謊言》。此版本的封面是由選拔組中的[大島優子](../Page/大島優子.md "wikilink")、[川荣李奈](https://zh.wikipedia.org/wiki/川荣李奈 "wikilink")、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")、[橫山由依](../Page/橫山由依.md "wikilink")與[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")共八名成員拍攝，其中版面中央位置的是大島優子。至於此張單曲的封套內裡，四個版本全都是由NMB48的[山本彩](../Page/山本彩.md "wikilink")單獨拍攝。
 
 收錄內容：
 
@@ -70,13 +70,13 @@ Giraffes演唱的《早看穿你的謊言》。此版本的封面是由選拔組
 
 <!-- end list -->
 
-  - 全國[握手會活動參加券](../Page/握手會.md "wikilink")1张（僅初回限定版附贈）
+  - 全國[握手會](../Page/握手會.md "wikilink")活動參加券1张（僅初回限定版附贈）
   - 生寫真1张（僅有通常版附贈）
 
 ### Type-B
 
 除了各版本共通的收錄內容外，Type-B主要收錄了由小分隊Baby
-Elephants演唱的《秘密日記》。此版本的封面是由選拔組中的[柏木由紀](../Page/柏木由紀.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[須田亚香里](https://zh.wikipedia.org/wiki/須田亚香里 "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、山本彩與[渡邊麻友共八名成員拍攝](../Page/渡邊麻友.md "wikilink")，其中版面中央位置的是渡邊麻友。封套內裡仍然是山本彩的獨照。
+Elephants演唱的《秘密日記》。此版本的封面是由選拔組中的[柏木由紀](../Page/柏木由紀.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[須田亚香里](https://zh.wikipedia.org/wiki/須田亚香里 "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、山本彩與[渡邊麻友](../Page/渡邊麻友.md "wikilink")共八名成員拍攝，其中版面中央位置的是渡邊麻友。封套內裡仍然是山本彩的獨照。
 
 收錄內容：
 
@@ -101,7 +101,7 @@ Elephants演唱的《秘密日記》。此版本的封面是由選拔組中的[�
 2.  《勇往直前》舞蹈版MV
 3.  《比昨天更喜欢》MV
 4.  《秘密日记》MV
-5.  特典影片：《[平田梨奈的](../Page/平田梨奈.md "wikilink")[伦敦报道](../Page/伦敦.md "wikilink")》（）
+5.  特典影片：《[平田梨奈](../Page/平田梨奈.md "wikilink")的[伦敦](../Page/伦敦.md "wikilink")报道》（）
       - 在美國長大、以[英語為母語的平田獲得製作團隊的推薦](https://zh.wikipedia.org/wiki/英語 "wikilink")，接下擔任[NHK音樂節目](https://zh.wikipedia.org/wiki/NHK "wikilink")《[Music
         Japan](https://zh.wikipedia.org/wiki/Music_Japan "wikilink")》特派員獨自前往英國倫敦採訪五人男子偶像團體[1世代](../Page/1世代.md "wikilink")（One
         Direction）的任務。此影片紀錄了平田從臨時接到任務的委託、出發前的準備、到實際抵達倫敦後的見聞與訪問1世代前後的花絮，並由平田本人擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。
@@ -144,7 +144,7 @@ Chimpanzees演唱的《KONJO》。此版本的封面是大島優子個人獨照�
 3.  《比起昨天更喜歡你》MV
 4.  《KONJO》MV
 5.  特典影片：《[小瓢虫Chu\!in](https://zh.wikipedia.org/wiki/小瓢虫Chu! "wikilink")[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")》（）
-      - 小瓢蟲Chu\!成員中的田岛芽瑠与朝长美樱兩人，因正好遇上[HKT48的](../Page/HKT48.md "wikilink")[九州巡迴演唱會行程衝突](https://zh.wikipedia.org/wiki/HKT48九州7縣巡演～和可愛的孩子們一起旅行～ "wikilink")，只参加了部分影像的拍摄。
+      - 小瓢蟲Chu\!成員中的田岛芽瑠与朝长美樱兩人，因正好遇上[HKT48](../Page/HKT48.md "wikilink")的[九州巡迴演唱會行程衝突](https://zh.wikipedia.org/wiki/HKT48九州7縣巡演～和可愛的孩子們一起旅行～ "wikilink")，只参加了部分影像的拍摄。
 
 <!-- end list -->
 
@@ -187,7 +187,7 @@ Chimpanzees演唱的《KONJO》。此版本的封面是大島優子個人獨照�
 
 ### 勇往直前
 
-主打A面曲《勇往直前》（）是一首由製作人秋元康作詞、古城康行作曲、編曲，採[搖滾樂風的作品](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")\[2\]。除了是已經宣布即將在唱片發行後自AKB48畢業的大島優子之畢業歌曲外，也被選作多個與AKB48有關的跨業合作企畫之[電視廣告歌曲](../Page/電視廣告.md "wikilink")，包括求職網站旗下專門針對打工求職的媒合而設置的子站「baitoru.com」（）和AKB48的
+主打A面曲《勇往直前》（）是一首由製作人秋元康作詞、古城康行作曲、編曲，採[搖滾樂風的作品](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")\[2\]。除了是已經宣布即將在唱片發行後自AKB48畢業的大島優子之畢業歌曲外，也被選作多個與AKB48有關的跨業合作企畫之[電視廣告](../Page/電視廣告.md "wikilink")歌曲，包括求職網站旗下專門針對打工求職的媒合而設置的子站「baitoru.com」（）和AKB48的
 “BAITORU×AKB48”（）企畫，與軟體公司[GREE所出品](https://zh.wikipedia.org/wiki/GREE "wikilink")、以AKB48成員為主角的手機遊戲
 《》（）等。
 
@@ -209,9 +209,9 @@ Chimpanzees演唱的《KONJO》。此版本的封面是大島優子個人獨照�
     Team B成员）
   - HKT48 Team H：[指原莉乃](../Page/指原莉乃.md "wikilink")
 
-在所有入選本次單曲選拔的成員中，只有小嶋真子一人是首度入選，而對照上张单曲《[真心电流](https://zh.wikipedia.org/wiki/真心电流 "wikilink")》（）的选拔成员名单，未能連續入圍的是[入山杏奈与](../Page/入山杏奈.md "wikilink")[多田爱佳兩人](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")。至於SKE48的须田亚香里上一次參與單曲選拔則是2013年8月21日發行的第32張單曲《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（）。
+在所有入選本次單曲選拔的成員中，只有小嶋真子一人是首度入選，而對照上张单曲《[真心电流](https://zh.wikipedia.org/wiki/真心电流 "wikilink")》（）的选拔成员名单，未能連續入圍的是[入山杏奈](../Page/入山杏奈.md "wikilink")与[多田爱佳兩人](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")。至於SKE48的须田亚香里上一次參與單曲選拔則是2013年8月21日發行的第32張單曲《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（）。
 
-如同前述，除了由16名選拔成員共同參與拍攝、被命名為「舞蹈版」的標準版MV外，此次單曲還另外拍攝有一支片長約17分鐘的長版MV。由[日活製作](../Page/日活.md "wikilink")、[導演的這個MV是由主角大島優子與渡邊麻友](https://zh.wikipedia.org/wiki/導演 "wikilink")、松井珠理奈、高橋南、小嶋陽菜、指原莉乃、橫山由依、島崎遙香共8名成員參與演出，收錄於Type-A、-B、-C三本所附贈的DVD中。
+如同前述，除了由16名選拔成員共同參與拍攝、被命名為「舞蹈版」的標準版MV外，此次單曲還另外拍攝有一支片長約17分鐘的長版MV。由[日活](../Page/日活.md "wikilink")製作、[導演的這個MV是由主角大島優子與渡邊麻友](https://zh.wikipedia.org/wiki/導演 "wikilink")、松井珠理奈、高橋南、小嶋陽菜、指原莉乃、橫山由依、島崎遙香共8名成員參與演出，收錄於Type-A、-B、-C三本所附贈的DVD中。
 
 ### 比起昨天更喜歡你
 
@@ -304,7 +304,7 @@ Elephants包含了多位首度參與AKB48單曲或B面曲演唱的成員。如�
 ### KONJO
 
 只有Type-C才有收錄的B面曲《KONJO》（根性，在日文中表「毅力」之意）是由秋元康作詞、粟津彰作曲、（）編曲。由小分隊「Talking
-Chimpanzees」（多話的黑猩猩）演唱的這首歌曲，其MV是以高中女子[排球隊的奮鬥作為題材](../Page/排球.md "wikilink")，由AKB48的中村麻里子擔任center，這也是她首次在AKB48作品中獲得center站位。至於站在中村兩旁的，則分別是NMB48的山田菜菜與SKE48的高柳明音。
+Chimpanzees」（多話的黑猩猩）演唱的這首歌曲，其MV是以高中女子[排球](../Page/排球.md "wikilink")隊的奮鬥作為題材，由AKB48的中村麻里子擔任center，這也是她首次在AKB48作品中獲得center站位。至於站在中村兩旁的，則分別是NMB48的山田菜菜與SKE48的高柳明音。
 
 Talking Chimpanzees的詳細成員表列如下：
 

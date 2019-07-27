@@ -24,7 +24,7 @@
     [吉妥福酯](https://zh.wikipedia.org/wiki/吉妥福酯 "wikilink")（Gitoformate）
     C01AA52 乙酰地高辛复方（Acetyldigoxin, combinations）
 
-### C01AB [海葱苷类](../Page/海葱.md "wikilink")（Scilla glycosides）
+### C01AB [海葱](../Page/海葱.md "wikilink")苷类（Scilla glycosides）
 
   -
     C01AB01
@@ -199,7 +199,7 @@
 
 ## C01D 治疗[心脏病用](https://zh.wikipedia.org/wiki/心脏病 "wikilink")[血管舒张药](https://zh.wikipedia.org/wiki/血管舒张 "wikilink")（Vasodilators used in cardiac diseases）
 
-### C01DA 有机[硝酸酯类](../Page/硝酸酯.md "wikilink")（Organic nitrate nitrates）
+### C01DA 有机[硝酸酯](../Page/硝酸酯.md "wikilink")类（Organic nitrate nitrates）
 
   -
     C01DA02 [硝酸甘油](../Page/硝酸甘油.md "wikilink")（Glyceryl trinitrate）
@@ -235,7 +235,7 @@
     C01DA70 在与安定药的复方中的有机硝酸酯（Organic nitrates in combination with
     psycholeptics）
 
-### C01DB [喹啉类血管舒张药](../Page/喹啉.md "wikilink")（Quinolone vasodilators）
+### C01DB [喹啉](../Page/喹啉.md "wikilink")类血管舒张药（Quinolone vasodilators）
 
   -
     C01DB01
@@ -295,7 +295,7 @@
 
 ## C01E 其它治疗心脏病药（Other cardiac preparations）
 
-### C01EA [前列腺素类](../Page/前列腺素.md "wikilink")（Prostaglandins）
+### C01EA [前列腺素](../Page/前列腺素.md "wikilink")类（Prostaglandins）
 
   -
     C01EA01

@@ -105,7 +105,7 @@ Like That〉正式發行。
 <li>發行日期：2012年6月25日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<a href="../Page/趙權.md" title="wikilink">趙權</a>、美笑</li>
-<li>備註：<a href="../Page/2AM.md" title="wikilink">2AM趙權首張個人專輯</a>《I'm Da One》</li>
+<li>備註：<a href="../Page/2AM.md" title="wikilink">2AM</a>趙權首張個人專輯《I'm Da One》</li>
 </ul></td>
 <td><ol>
 <li>Heaven</li>

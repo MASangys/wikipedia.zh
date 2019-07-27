@@ -1,5 +1,5 @@
 《**Cool
-Guide**》是[香港](../Page/香港.md "wikilink")[電視廣播有限公司介紹生活潮流的資訊節目](../Page/電視廣播有限公司.md "wikilink")，由[范振鋒及](../Page/范振鋒.md "wikilink")[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於2012年10月7日起[香港時間逢星期日](../Page/香港時間.md "wikilink")22:00-22:30在[J2播出](../Page/J2.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。
+Guide**》是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")介紹生活潮流的資訊節目，由[范振鋒](../Page/范振鋒.md "wikilink")及[陸浩明](../Page/陸浩明.md "wikilink")擔任主持。本節目於2012年10月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期日22:00-22:30在[J2](../Page/J2.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。
 
 ## 節目簡介
 

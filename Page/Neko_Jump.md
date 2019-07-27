@@ -14,14 +14,14 @@
     EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
   - 2008年3月15日…[GIRL SINGERS
     FESTIVAL 2008](http://www.sawadee-shop.com/sawadeemusic/rs2008concert.htmlRS)（原宿アストロホール）
-  - 2008年5月26日…[湄公河音樂祭前夜祭](../Page/湄公河.md "wikilink") （[Shibuya
+  - 2008年5月26日…[湄公河](../Page/湄公河.md "wikilink")音樂祭前夜祭 （[Shibuya
     eggman](https://zh.wikipedia.org/wiki/Shibuya_eggman "wikilink")）
   - 2008年5月27日…湄公河川音樂祭（[神奈川縣立音樂堂](https://zh.wikipedia.org/wiki/神奈川縣立音樂堂 "wikilink")）
   - 2009年10月24日…STARCHILD
     PRESENTSキルミンずぅが来るみんずぅ（[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")）
   - 2009年10月24日 -
     25日…第3回横浜タイフェスティバル（[赤レンガ倉庫前廣場](https://zh.wikipedia.org/wiki/赤レンガ倉庫 "wikilink")）
-  - 2009年12月23日…[日本CD出道](../Page/日本.md "wikilink")
+  - 2009年12月23日…[日本](../Page/日本.md "wikilink")CD出道
   - 2009年12月23日…日本出道單曲發售記念・トーク&迷你Live&握手会（HMV池袋メトロポリタンプラザ）
   - 2010年5月15日 - 16日… 第11回 タイ・フェスティバル2010 in 代々木公園
   - 2010年8月1日…[THAI IDOL FESTIVAL 2010 -RS KAMIKAZE

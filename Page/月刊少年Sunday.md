@@ -1,4 +1,4 @@
-《**月刊少年Sunday**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2009年5月12日創刊\[1\]。毎月12日發售。
+《**月刊少年Sunday**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2009年5月12日創刊\[1\]。毎月12日發售。
 {{-}}
 
 ## 連載漫画
@@ -40,7 +40,7 @@
 </tr>
 <tr class="odd">
 <td><p>02</p></td>
-<td><p><a href="../Page/笑園漫畫大王.md" title="wikilink">笑園漫畫大王・補習篇</a></p></td>
+<td><p><a href="../Page/笑園漫畫大王.md" title="wikilink">笑園漫畫大王</a>・補習篇</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東清彥" title="wikilink">東清彥</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.06</p></td>

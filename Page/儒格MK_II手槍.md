@@ -1,13 +1,13 @@
 **儒格MK II**（Ruger MK
 II）是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[儒格-斯特姆公司](https://zh.wikipedia.org/wiki/儒格-斯特姆 "wikilink")（Sturm,
-Ruger）研製及生產的一種.22口徑[凸緣式底火單動式](../Page/凸緣式底火.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，此槍為流行於美國境內的運動槍之一，並已售出超過300萬支。
+Ruger）研製及生產的一種.22口徑[凸緣式底火](../Page/凸緣式底火.md "wikilink")單動式[半自動手槍](../Page/半自動手槍.md "wikilink")，此槍為流行於美國境內的運動槍之一，並已售出超過300萬支。
 
 ## 型號
 
 MK II型於1982-2005年期間生產。其前身包括了（Ruger
 Standard），該型號於1949-1982年期間生產。還有於1951-1982年期間生產的MK
 I型。MK
-II的衍生型包括了「射靶型」，它有著更重的槍管和一個可調式瞄具。而22/45型則具有以聚合物製成的槍身，而且其握把角位是跟[M1911手槍相匹配的](../Page/M1911手槍.md "wikilink")。儒格MK
+II的衍生型包括了「射靶型」，它有著更重的槍管和一個可調式瞄具。而22/45型則具有以聚合物製成的槍身，而且其握把角位是跟[M1911手槍](../Page/M1911手槍.md "wikilink")相匹配的。儒格MK
 II於2004年停產，並被更新的[MK
 III型所取代](../Page/儒格MK_III手槍.md "wikilink")。所有由儒格公司生產的凸緣式底火手槍都只對應[.22
 LR彈](../Page/.22_LR.md "wikilink")。
@@ -29,7 +29,7 @@ Eagle）的型號，它在1949年起生產，直至其生產商的聯合創始�
 
 [AWCTMamphibianS-black.jpg](https://zh.wikipedia.org/wiki/File:AWCTMamphibianS-black.jpg "fig:AWCTMamphibianS-black.jpg")的版本\]\]
 消聲版的儒格MK II型手槍（AWC TM-Amphibian
-'S' ）亦被[美國中央情報局及](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[美國海軍](../Page/美國海軍.md "wikilink")[海豹部隊所使用](../Page/海豹部隊.md "wikilink")\[2\]，這個版本比起MK
+'S' ）亦被[美國中央情報局及](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[美國海軍](../Page/美國海軍.md "wikilink")[海豹部隊](../Page/海豹部隊.md "wikilink")所使用\[2\]，這個版本比起MK
 II的標準型有著更低的噪音，而且精確度更高。另外這些手槍皆能在水底裡開火。而據稱若在消音器內注入少量水的話，消音效果就會更佳。
 
 ## 使用國

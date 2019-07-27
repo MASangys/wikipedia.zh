@@ -1,18 +1,18 @@
-《**Free\!**》（）是由[日本動畫公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[京都動畫和旗下子公司](../Page/京都動畫.md "wikilink")[Animation
+《**Free\!**》（）是由[日本動畫公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[京都動畫](../Page/京都動畫.md "wikilink")和旗下子公司[Animation
 Do共同製作的](../Page/京都動畫.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2013年7月3日至9月25日播放第1期，2014年7月2日至9月24日播放第2期，第三期於2018年7月11日至2018年9月26日播放。於[TOKYO
 MX與](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")[朝日放送](../Page/朝日放送.md "wikilink")（Asahi
 Broadcasting Corporation）等電視台播放。
 
 ## 概要
 
-本部動畫名字取自日本人普遍對[自由泳的簡稱](../Page/自由泳.md "wikilink")「」。也有人認為是享受在水中游泳的自由自在。
+本部動畫名字取自日本人普遍對[自由泳](../Page/自由泳.md "wikilink")的簡稱「」。也有人認為是享受在水中游泳的自由自在。
 
-本作是以第二屆[京都動畫大賞輕小說部門之優秀作品](../Page/京都動畫大獎.md "wikilink")《**High☆Speed\!**》（作者：）為框架、進而改編為[電視動畫的作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，暫定內容為延續原案小學生角色成長至高中生的全新故事。[京都動畫亦讓其子公司Animation](../Page/京都動畫.md "wikilink")
+本作是以第二屆[京都動畫大賞輕小說部門之優秀作品](../Page/京都動畫大獎.md "wikilink")《**High☆Speed\!**》（作者：）為框架、進而改編為[電視動畫的作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，暫定內容為延續原案小學生角色成長至高中生的全新故事。[京都動畫](../Page/京都動畫.md "wikilink")亦讓其子公司Animation
 Do首次投入獨立製作，企劃相關概念圖早於正式宣傳約一年前，即2012年4月左右，出現在Animation Do官方網站首頁\[1\]。
 
-2013年3月6日，按照本作原案概念而製成的宣傳片於同一公司製作的《[玉子市場](../Page/玉子市場.md "wikilink")》播放期間揭露，取名為CM「游泳篇」\[2\]。片段隨即得到極大迴響，於Youtube上突破了高達3百萬次點擊\[3\]，並一度觸發部分歐美動漫愛好者以簽名行動促成[京都動畫把有關作品確實轉化為](../Page/京都動畫.md "wikilink")[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")。
+2013年3月6日，按照本作原案概念而製成的宣傳片於同一公司製作的《[玉子市場](../Page/玉子市場.md "wikilink")》播放期間揭露，取名為CM「游泳篇」\[2\]。片段隨即得到極大迴響，於Youtube上突破了高達3百萬次點擊\[3\]，並一度觸發部分歐美動漫愛好者以簽名行動促成[京都動畫](../Page/京都動畫.md "wikilink")把有關作品確實轉化為[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")。
 
-同年4月26日，[京都動畫透過](../Page/京都動畫.md "wikilink")[NICONICO生放送正式開始宣傳本作第](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")1期，並於同日正式開設本作之官方網站。角色設計和身份設定與過去發佈的影像存在些微改動。作品於2013年7月至9月播放。
+同年4月26日，[京都動畫](../Page/京都動畫.md "wikilink")透過[NICONICO生放送正式開始宣傳本作第](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")1期，並於同日正式開設本作之官方網站。角色設計和身份設定與過去發佈的影像存在些微改動。作品於2013年7月至9月播放。
 
 第1期播放完畢後，先後在片尾插畫和京都動畫公司活動上透露會再次見面的消息。
 
@@ -33,6 +33,8 @@ you in 2020⋯」
 
 2019年1月13日宣布將於2019年7月5日於日本上映《**Free\!-Road to the
 World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將於2020年夏天上映完全新作劇場版。
+
+2019年7月18日，受[京都動畫縱火案影响](https://zh.wikipedia.org/wiki/京都動畫縱火案 "wikilink")，官方于推特上宣布，原定于7月19日公开的《Free！》系列《2020夏》最新续报，目前决定中止发表\[6\]。
 
 ## 故事簡介
 
@@ -143,7 +145,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <th><p>話數</p></th>
 <th><p>日文標題</p></th>
 <th><p>大陸標題</p></th>
-<th><p>香港標題[6]</p></th>
+<th><p>香港標題[7]</p></th>
 <th><p>台灣標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
@@ -688,7 +690,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p>2013年7月7日－9月29日</p></td>
 <td><p>星期日 24時00分－24時30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衞星電視" title="wikilink">衞星電視</a></p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO動畫</a></p></td>
@@ -699,7 +701,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朝日放送.md" title="wikilink">朝日放送動畫俱樂部</a></p></td>
+<td><p><a href="../Page/朝日放送.md" title="wikilink">朝日放送</a>動畫俱樂部</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -741,7 +743,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 星期六 24時50分－26時30分</p></td>
 <td><p>－</p></td>
 <td><p>各日4話連續放送<br />
-鳥取縣地方編成[7]</p></td>
+鳥取縣地方編成[8]</p></td>
 </tr>
 <tr class="even">
 <td><p>第2期</p></td>
@@ -783,7 +785,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p>2014年7月5日－9月27日</p></td>
 <td><p>星期六 23時00分－23時30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/衞星電視" title="wikilink">衞星電視</a></p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO動畫</a></p></td>
@@ -799,7 +801,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p>2014年7月25日－10月31日</p></td>
 <td><p>星期五 25時45分－26時10分</p></td>
 <td><p>－</p></td>
-<td><p>鳥取縣地方編成[8]</p></td>
+<td><p>鳥取縣地方編成[9]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -815,14 +817,16 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 ### 日本国外
 
   - 香港
-    在[J2播出](../Page/J2.md "wikilink")
+    在[J2](../Page/J2.md "wikilink")播出
       - 第一季为2013年12月18日－2014年3月12日的星期三 00:00－00:30，2013年12月25日停播。
       - 第二季为2015年8月8日－11月7日的星期六
         23:35－00:05，在8月8日、8月22日、9月26日、10月24日23:45－00:15，10月17日停播。
       - 劇場版《熱血自由式 極速青春》於2017年7月29日 星期六 00:35－03:00播放。
+      - 劇場版《熱血自由式！友情接力！》於2019年7月21日 星期日 00:05－02:05播放。
+      - 劇場版《熱血自由式！友情約定！》於2019年7月28日 星期日 00:05－02:05播放。
   - 台湾
     于星期六
-    17:30－18:00在[八大娛樂台首播](../Page/八大娛樂台.md "wikilink")、而劇場版及特別版皆在[東森電影台首播](../Page/東森電影台.md "wikilink")。
+    17:30－18:00在[八大娛樂台](../Page/八大娛樂台.md "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")首播、而劇場版及特別版皆在[東森電影台](../Page/東森電影台.md "wikilink")首播。
       - 第一季为2014年8月2日－10月18日
       - 第二季为2014年10月25日－2015年1月17日。
       - 劇場版-Eternal Summer为2016年2月19日
@@ -833,7 +837,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 ## 網路廣播
 
 《**イワトビちゃんねる**》是2013年6月17日到9月30日在
-與[音泉等網路電台所放送的廣播節目](../Page/音泉.md "wikilink")，主持人是[島崎信長](../Page/島崎信長.md "wikilink")(飾
+與[音泉](../Page/音泉.md "wikilink")等網路電台所放送的廣播節目，主持人是[島崎信長](../Page/島崎信長.md "wikilink")(飾
 七瀨遙)、[鈴木達央](../Page/鈴木達央.md "wikilink")(飾 橘真琴)，每周一播放，共16回。
 
 『**イワトビちゃんねるS**』2013年10月7日～2014年2月10日，主持人是[島崎信長](../Page/島崎信長.md "wikilink")，每個月播放一回，每回都有一個來賓，共5回。
@@ -1493,7 +1497,7 @@ WEB版預告映像</p></td>
 ### 出版書籍
 
   - 輕小說
-    《High☆Speed\!》\[9\]
+    《High☆Speed\!》\[10\]
 
 <table>
 <thead>
@@ -1537,7 +1541,7 @@ WEB版預告映像</p></td>
 
 ### 劇場版 High☆Speed\! - Free\! Starting Days
 
-  - 2015年3月23號開放官方網站，4月24日宣布製作人員，7月20日公布製作人員與登場人物配音員，內容描述主角七瀨遙與橘真琴兩人國中時期加入游泳社的故事。同年12月5日公開\[10\]。
+  - 2015年3月23號開放官方網站，4月24日宣布製作人員，7月20日公布製作人員與登場人物配音員，內容描述主角七瀨遙與橘真琴兩人國中時期加入游泳社的故事。同年12月5日公開\[11\]。
 
 #### 製作人員
 
@@ -1564,22 +1568,22 @@ WEB版預告映像</p></td>
 
 ### 劇場版 Free！ -Timeless Medley- 絆
 
-2017年4月22日上映\[11\]。香港於2017年9月21日上映\[12\]。
+2017年4月22日上映\[12\]。香港於2017年9月21日上映\[13\]。
 
 #### 主題曲
 
-  - 「RISING FREE」\[13\]
+  - 「RISING FREE」\[14\]
     作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") 作曲、編曲：
     主唱：STYLE
     FIVE［七瀨遙（[島崎信長](../Page/島崎信長.md "wikilink")）、橘真琴（[鈴木達央](../Page/鈴木達央.md "wikilink")）、松岡凜（[宮野真守](../Page/宮野真守.md "wikilink")）、葉月渚（[代永翼](../Page/代永翼.md "wikilink")）、龍崎-{怜}-（[平川大輔](../Page/平川大輔.md "wikilink")）］
 
 ### 劇場版 Free！ -Timeless Medley- 約束
 
-2017年7月1日上映\[14\]。
+2017年7月1日上映\[15\]。
 
 ### 特別版 Free！ -Take Your Marks-
 
-2017年10月28日上映\[15\]。台灣於2018年4月4日上映\[16\]。香港於2018年4月12日上映
+2017年10月28日上映\[16\]。台灣於2018年4月4日上映\[17\]。香港於2018年4月12日上映
 
 ## 参见
 
@@ -1636,6 +1640,7 @@ WEB版預告映像</p></td>
 [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
 [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 [Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink")
+[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
@@ -1648,13 +1653,13 @@ WEB版預告映像</p></td>
 
 5.
 
-6.  標題以播放時所顯示的字幕為準。
+6.
 
-7.
+7.  標題以播放時所顯示的字幕為準。
 
 8.
-9.
 
+9.
 10.
 
 11.
@@ -1664,7 +1669,9 @@ WEB版預告映像</p></td>
 13.
 
 14.
-15. [「Free！」系列](https://twitter.com/iwatobi_sc/status/843418371924221952)在[Twitter的官方網站](../Page/Twitter.md "wikilink").
+
+15.
+16. [「Free！」系列](https://twitter.com/iwatobi_sc/status/843418371924221952)在[Twitter](../Page/Twitter.md "wikilink")的官方網站.
     2017-03-19 \[2017-03-22\] （日語）.
 
-16.
+17.

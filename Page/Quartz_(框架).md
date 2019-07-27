@@ -1,4 +1,4 @@
-**Quartz**是一个[Java下作业控制的](../Page/Java.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")。Quartz用来创建或简单或复杂的调度时间表，执行Java下任意数量的作业。版本1.0发布于2002年9月13日，当前版本2.2.1发布于2013年9月24日。
+**Quartz**是一个[Java](../Page/Java.md "wikilink")下作业控制的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")。Quartz用来创建或简单或复杂的调度时间表，执行Java下任意数量的作业。版本1.0发布于2002年9月13日，当前版本2.2.1发布于2013年9月24日。
 
 可以通过[`CronTrigger`](https://zh.wikipedia.org/wiki/cron#crontab文件 "wikilink")定义Quartz的调度时间表（例如`0 0 12
 ? *

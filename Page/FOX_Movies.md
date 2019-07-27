@@ -1,5 +1,5 @@
 **F-{o}-x
-Movies**，是亞洲的一個電影頻道，由[21世紀福斯的分支機構](https://zh.wikipedia.org/wiki/21世紀福斯 "wikilink")[福斯傳媒集團所擁有](../Page/福斯傳媒集團.md "wikilink")。
+Movies**，是亞洲的一個電影頻道，由[21世紀福斯的分支機構](https://zh.wikipedia.org/wiki/21世紀福斯 "wikilink")[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")所擁有。
 
 2012年1月1日，香港、澳門及部分東南亞國家的[STAR
 Movies更名為F](../Page/STAR_Movies.md "wikilink")-{o}-x Movies

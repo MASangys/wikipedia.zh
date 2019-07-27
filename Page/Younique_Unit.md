@@ -1,6 +1,6 @@
 **Younique Unit**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM
 Entertainment旗下於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012年組成的[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")，成員包括[銀赫](../Page/銀赫.md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[Henry](../Page/劉憲華.md "wikilink")、[泰民](../Page/泰民.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[Luhan](../Page/鹿晗.md "wikilink")。[SM
-Entertainment與韓國](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[現代汽車合作](../Page/現代汽車.md "wikilink")，此組合作為代言人之一，並推出單曲《Maxstep》。\[1\]\[2\]
+Entertainment與韓國](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[現代汽車](../Page/現代汽車.md "wikilink")合作，此組合作為代言人之一，並推出單曲《Maxstep》。\[1\]\[2\]
 Younique Unit就是取「Unique」的「U」的諧音「You」，意思是獨一無二的組合。
 
 ## 成員列表

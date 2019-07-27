@@ -10,31 +10,31 @@ X TOGETHER](../Page/TXT_\(組合\).md "wikilink")。
 
 2005年2月1日，由韓國知名詞曲創作人與製作人房時爀於韓國首爾創立並出任代表理事。\[1\]
 
-2009年末，接手管理[2AM的唱片合約](../Page/2AM.md "wikilink")，並2010年1月21日推出[2AM首張迷你專輯](../Page/2AM.md "wikilink")《死也不能放開你》。
+2009年末，接手管理[2AM](../Page/2AM.md "wikilink")的唱片合約，並2010年1月21日推出[2AM](../Page/2AM.md "wikilink")首張迷你專輯《死也不能放開你》。
 
 2011年，[吳志勳（David
 Oh）結束MBC選秀節目](../Page/吳世勛_\(韓國歌手\).md "wikilink")《偉大的誕生》比賽，與自己的導師代表房時爀簽署專屬合約。
 
-2012年6月，歌手[林正姬與](../Page/林正姬.md "wikilink")[JYP娛樂合約期滿](../Page/JYP娛樂.md "wikilink")，並確定不續約，改只與Big
+2012年6月，歌手[林正姬](../Page/林正姬.md "wikilink")與[JYP娛樂](../Page/JYP娛樂.md "wikilink")合約期滿，並確定不續約，改只與Big
 Hit娛樂簽約。\[2\]
 
-2013年6月13日，於2010年開始培訓與策劃的[防彈少年團正式出道](../Page/防彈少年團.md "wikilink")。\[3\]
+2013年6月13日，於2010年開始培訓與策劃的[防彈少年團](../Page/防彈少年團.md "wikilink")正式出道。\[3\]
 
 2014年4月9日，於2014年4月開始，原先與2AM的合約結束。在做出調整的新合約中，Big
-Hit娛樂將會負責2AM公演與日本活動事項，經紀管理和粉絲經營則回歸由[JYP娛樂負責](../Page/JYP娛樂.md "wikilink")。\[4\]9月，[8Eight團員珠熙](../Page/8Eight.md "wikilink")、白燦與Big
-Hit娛樂合約到期，不續約。團員李賢在[8Eight解散期間入伍](../Page/8Eight.md "wikilink")，後決定留在Big
-Hit娛樂與[李昶旻以](../Page/李昶旻.md "wikilink")[Homme身份活動](../Page/Homme.md "wikilink")。\[5\]
+Hit娛樂將會負責2AM公演與日本活動事項，經紀管理和粉絲經營則回歸由[JYP娛樂](../Page/JYP娛樂.md "wikilink")負責。\[4\]9月，[8Eight](../Page/8Eight.md "wikilink")團員珠熙、白燦與Big
+Hit娛樂合約到期，不續約。團員李賢在[8Eight](../Page/8Eight.md "wikilink")解散期間入伍，後決定留在Big
+Hit娛樂與[李昶旻](../Page/李昶旻.md "wikilink")以[Homme](../Page/Homme.md "wikilink")身份活動。\[5\]
 
 2015年，2AM與JYP娛樂合約到期，不續約，同時結束Big Hit娛樂合約，但是團員李昶旻選擇與Big
 Hit娛樂續約。7月23日，林正姬與Big Hit娛樂的合約到期，不續約。\[6\]8月，Big
-Hit娛樂加入韓國音樂內容產業協會，與[SM娛樂](../Page/SM娛樂.md "wikilink")、[JYP娛樂](../Page/JYP娛樂.md "wikilink")、[YG娛樂等多家經紀娛樂公司成為大韓民國大眾音樂產業的代表](../Page/YG娛樂.md "wikilink")\[7\]。
+Hit娛樂加入韓國音樂內容產業協會，與[SM娛樂](../Page/SM娛樂.md "wikilink")、[JYP娛樂](../Page/JYP娛樂.md "wikilink")、[YG娛樂](../Page/YG娛樂.md "wikilink")等多家經紀娛樂公司成為大韓民國大眾音樂產業的代表\[7\]。
 
 ### 2018年
 
-1月31日，與[李昶旻專屬合約到期](../Page/李昶旻.md "wikilink")，李昶旻決定成立個人經紀公司，不續約。
+1月31日，與[李昶旻](../Page/李昶旻.md "wikilink")專屬合約到期，李昶旻決定成立個人經紀公司，不續約。
 
 4月4日，Big Hit娛樂表示[CJ
-E\&M旗下遊戲開發公司](../Page/CJ_E&M.md "wikilink")[網石遊戲](../Page/Netmarble_Games.md "wikilink")（Netmarble）向其投資2014億韓圜，獲得25.71%股份，成為第二大股東，也是第一大[法人股東](../Page/法人.md "wikilink")，後續Netmarble的持股增為28.84%，Big
+E\&M旗下遊戲開發公司](../Page/CJ_E&M.md "wikilink")[網石遊戲](../Page/Netmarble_Games.md "wikilink")（Netmarble）向其投資2014億韓圜，獲得25.71%股份，成為第二大股東，也是第一大[法人](../Page/法人.md "wikilink")股東，後續Netmarble的持股增為28.84%，Big
 Hit娛樂成為Netmarble的[聯營公司](https://zh.wikipedia.org/wiki/聯營公司 "wikilink")。\[8\]\[9\]
 
 10月18日，Big

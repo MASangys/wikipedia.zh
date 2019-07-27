@@ -9,7 +9,7 @@
 
 ## V06C 婴儿营养配方（Infant formulas）
 
-### V06CA 无[苯丙氨酸的营养](../Page/苯丙氨酸.md "wikilink")（Nutrients without phenylalanine）
+### V06CA 无[苯丙氨酸](../Page/苯丙氨酸.md "wikilink")的营养（Nutrients without phenylalanine）
 
 ## V06D 其它营养（Other nutrients）
 

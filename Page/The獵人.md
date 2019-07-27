@@ -1,4 +1,4 @@
-《**The獵人**》（）是[讀賣電視台每週五](../Page/讀賣電視台.md "wikilink")26:35 -
+《**The獵人**》（）是[讀賣電視台](../Page/讀賣電視台.md "wikilink")每週五26:35 -
 27:05（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放的綜藝節目。2011年4月29日開始。
 
 ## 出演者

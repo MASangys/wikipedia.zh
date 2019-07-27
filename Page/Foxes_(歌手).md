@@ -1,7 +1,7 @@
 **法西絲**（，），本名**路易莎·蘿絲·艾倫**（**Louisa Rose
 Allen**）。她是英國歌手和作曲家\[1\]，最初居於南安普敦
 ，現定居在倫敦。她最出名的作品是和 [Zedd](https://zh.wikipedia.org/wiki/Zedd "wikilink")
-合作的歌曲“Clarity”，這首作品曾得到[告示牌百强单曲榜第](../Page/告示牌百强单曲榜.md "wikilink")8名和美國熱舞歌曲第1名，并荣获[葛萊美獎](../Page/葛萊美獎.md "wikilink")。首张专辑
+合作的歌曲“Clarity”，這首作品曾得到[告示牌百强单曲榜](../Page/告示牌百强单曲榜.md "wikilink")第8名和美國熱舞歌曲第1名，并荣获[葛萊美獎](../Page/葛萊美獎.md "wikilink")。首张专辑
 「光荣 (Glorious)」 ，于 2014 年在英国发布。专辑包括获得前 20 名成绩的单曲 "Youth"，"Let Go for
 Tonight" 和 "Holding onto Heaven"。第二张专辑 「我所需要 (All I Need)」 包括了单曲 "Body
 Talk" 和 "Feet Don't Fail Me Now" 将于 2016 年发布。\[2\]
@@ -51,7 +51,7 @@ it.")她的首張專輯登上了英國專輯榜第5名。
 
 | 年份   | 片名                                                        | 角色                                                          | 備註 |
 | ---- | --------------------------------------------------------- | ----------------------------------------------------------- | -- |
-| 2014 | *[超時空博士](https://zh.wikipedia.org/wiki/超時空博士 "wikilink")* | 表演[皇后乐队的歌曲](../Page/皇后乐队.md "wikilink") "Don't Stop Me Now" |    |
+| 2014 | *[超時空博士](https://zh.wikipedia.org/wiki/超時空博士 "wikilink")* | 表演[皇后乐队](../Page/皇后乐队.md "wikilink")的歌曲 "Don't Stop Me Now" |    |
 
 ## 参考资料
 

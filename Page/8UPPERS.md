@@ -1,4 +1,4 @@
-《**8UPPERS**》(パッチアッパーズ)為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")4張專輯。
+《**8UPPERS**》(パッチアッパーズ)為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第4張專輯。
 
 ## 概要
 

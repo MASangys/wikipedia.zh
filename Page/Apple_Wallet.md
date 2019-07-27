@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Passbook_icon.png "fig:缩略图")中的Passbook图标|替代=<https://www.google.com.hk/url?sa=i&source=images&cd=&ved=2ahUKEwj11Prz0dfcAhUNO3AKHau2BPMQjRx6BAgBEAU&url=http%3A%2F%2Fwww.saveyourlife.me%2F2016%2F12%2F16%2Fhow-to-use-apple-wallet%2F&psig=AOvVaw1TM2eb8PoVfm5tyRfLIFWk&ust=1533617858761407>\]\]
 
-\-{zh-hans:**钱包**（）;zh-tw:**錢包**（）;zh-hk:**銀包**（）;zh-hant:「**Wallet**」}-是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS中的一個](https://zh.wikipedia.org/wiki/iOS "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，讓使用者可以在手機中儲存[優惠券](https://zh.wikipedia.org/wiki/優惠券 "wikilink")、[登機證](../Page/登機證.md "wikilink")、活動[門票](https://zh.wikipedia.org/wiki/門票 "wikilink")、酬賓卡或其他類型的[行動支付票卡等](../Page/行動支付.md "wikilink")。\[1\]从iOS
+\-{zh-hans:**钱包**（）;zh-tw:**錢包**（）;zh-hk:**銀包**（）;zh-hant:「**Wallet**」}-是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS中的一個](https://zh.wikipedia.org/wiki/iOS "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，讓使用者可以在手機中儲存[優惠券](https://zh.wikipedia.org/wiki/優惠券 "wikilink")、[登機證](../Page/登機證.md "wikilink")、活動[門票](https://zh.wikipedia.org/wiki/門票 "wikilink")、酬賓卡或其他類型的[行動支付](../Page/行動支付.md "wikilink")票卡等。\[1\]从iOS
 8.1开始，还可以通过[Apple
 Pay添加](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")[信用卡](../Page/信用卡.md "wikilink")、商店卡和[借记卡](../Page/借记卡.md "wikilink")。\[2\]
 

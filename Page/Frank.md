@@ -1,4 +1,4 @@
-**《Frank》**是香港樂隊[RubberBand於](../Page/RubberBand.md "wikilink")2014年推出的專輯。
+**《Frank》**是香港樂隊[RubberBand](../Page/RubberBand.md "wikilink")於2014年推出的專輯。
 
 ## 曲目
 

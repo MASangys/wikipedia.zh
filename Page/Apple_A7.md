@@ -3,7 +3,7 @@ A7**是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[蘋果公司
 5S](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")、[iPad
 Air和](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[iPad
 mini2](https://zh.wikipedia.org/wiki/iPad_mini_\(第二代\) "wikilink")，於2013年9月10日發布。\[1\]蘋果公司表示CPU與GPU效能都是[Apple
-A6的兩倍](../Page/Apple_A6.md "wikilink")。CPU部份採用[64位元的](../Page/64位元.md "wikilink")[ARMv8架构](https://zh.wikipedia.org/wiki/ARM_架构 "wikilink")，這使得iPhone成為全球首款採用64位元處理器的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。此SoC由[三星電子以](../Page/三星電子.md "wikilink")[28奈米製程代工生產](https://zh.wikipedia.org/wiki/28奈米製程 "wikilink")。
+A6的兩倍](../Page/Apple_A6.md "wikilink")。CPU部份採用[64位元](../Page/64位元.md "wikilink")的[ARMv8架构](https://zh.wikipedia.org/wiki/ARM_架构 "wikilink")，這使得iPhone成為全球首款採用64位元處理器的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。此SoC由[三星電子](../Page/三星電子.md "wikilink")以[28奈米製程代工生產](https://zh.wikipedia.org/wiki/28奈米製程 "wikilink")。
 
 ## 設計
 

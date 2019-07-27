@@ -7,9 +7,9 @@ Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japa
 
 6月8、9日這兩天，在首爾開始首次巡迴演唱會。之前舉辦的日本第二次巡迴演唱會[GIRLS' GENERATION
 \~Girls\&Peace\~ Japan 2nd
-Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。特別是，[SM娛樂子公司](../Page/SM娛樂.md "wikilink")[SM
+Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。特別是，[SM娛樂](../Page/SM娛樂.md "wikilink")子公司[SM
 C\&C合併了](../Page/SM娛樂.md "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，並創立獨立品牌經紀公司[Woollim
-Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子組合[TASTY作為香港站及澳門站的開場嘉賓](../Page/TASTY.md "wikilink")。
+Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子組合[TASTY](../Page/TASTY.md "wikilink")作為香港站及澳門站的開場嘉賓。
 
 ## GIRLS' GENERATION \~Girls\&Peace\~ Japan 2nd Tour
 

@@ -6,7 +6,7 @@ Giraud
 和Philippe Druillet 加上记者Jean-Pierre Dionnet与财政主管Bernard
 Farkas创刊。这四个人一起以“Les Humanoïdes
 Associés”（即人形联盟“United
-Humanoids”）而闻名，后来组建出版公司的时候就以这个名字命名。后来这个杂志发行[美国出版](../Page/美国.md "wikilink")，名字是《Heavy
+Humanoids”）而闻名，后来组建出版公司的时候就以这个名字命名。后来这个杂志发行[美国](../Page/美国.md "wikilink")出版，名字是《Heavy
 Metal》。当出版人Leonard Mogel
 注册美国版的时候他选择了重新命名，然后这本美国版杂志在1977年4月正式发行，光滑全彩封面每月一刊，翻译原载《Métal
 Hurlant》的漫画，作者包括Enki Bilal， Jean Giraud （也就是 Moebius)）， Philippe

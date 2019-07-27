@@ -1,10 +1,10 @@
 [DOS4GWbanner.svg](https://zh.wikipedia.org/wiki/File:DOS4GWbanner.svg "fig:DOS4GWbanner.svg")
 
-**DOS扩展器**是一个电脑[软件程序](../Page/软件.md "wikilink")，令须[保护模式环境的软件能够在](https://zh.wikipedia.org/wiki/保护模式 "wikilink")[实模式运行](https://zh.wikipedia.org/wiki/实模式 "wikilink")，即使其所处的操作系统衹能在实模式下运作。
+**DOS扩展器**是一个电脑[软件](../Page/软件.md "wikilink")程序，令须[保护模式环境的软件能够在](https://zh.wikipedia.org/wiki/保护模式 "wikilink")[实模式运行](https://zh.wikipedia.org/wiki/实模式 "wikilink")，即使其所处的操作系统衹能在实模式下运作。
 
 DOS扩展器起初在1980年代诞生，目的是要通过[Intel
 80286芯片](../Page/Intel_80286.md "wikilink")（稍後扩展到[Intel
-80386](../Page/Intel_80386.md "wikilink")）的指令，以应付[MS-DOS及其它同类型操作系统的内存限制](../Page/MS-DOS.md "wikilink")。
+80386](../Page/Intel_80386.md "wikilink")）的指令，以应付[MS-DOS](../Page/MS-DOS.md "wikilink")及其它同类型操作系统的内存限制。
 
 ## DOS扩展器操作
 
@@ -98,14 +98,14 @@ Interface，缩写作DPMI）所代，後者在Windows 3.0
   - [AutoCAD](../Page/AutoCAD.md "wikilink") 11（PharLap 386）
   - [Lotus
     1-2-3发行版的第](../Page/Lotus_1-2-3.md "wikilink")3版（Rational系统DOS/16M）
-  - [甲骨文公司商务版本软件](../Page/甲骨文公司.md "wikilink")
-  - [IBM公司的](../Page/IBM.md "wikilink")
+  - [甲骨文公司](../Page/甲骨文公司.md "wikilink")商务版本软件
+  - [IBM](../Page/IBM.md "wikilink")公司的
   - 1980年代的BBS软件包《》，用了的DOS扩展器。
   - [Quarterdeck Office Systems
     Quarterdeck的](https://zh.wikipedia.org/wiki/Quarterdeck_Office_Systems_Quarterdeck "wikilink")
     [DESQview](https://zh.wikipedia.org/wiki/DESQview "wikilink")、DESQview/X
     多任务软件
-  - [Watcom_c在](https://zh.wikipedia.org/wiki/Watcom_c "wikilink")[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Fortran的](../Page/Fortran.md "wikilink")[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
+  - [Watcom_c在](https://zh.wikipedia.org/wiki/Watcom_c "wikilink")[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Fortran](../Page/Fortran.md "wikilink")的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
   - 1990年代早期中期的无数DOS游戏，多用DOS/4GW，包括:
       - [id
         Software的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[毁灭战士及其续集](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")，又如[雷神之锤
@@ -120,12 +120,12 @@ Interface，缩写作DPMI）所代，後者在Windows 3.0
         兽人与人类](https://zh.wikipedia.org/wiki/魔兽争霸:_兽人与人类 "wikilink")、[魔兽争霸II：黑暗之门](../Page/魔兽争霸II：黑暗之门.md "wikilink")
       - [3D
         Realms的](https://zh.wikipedia.org/wiki/3D_Realms "wikilink")[永远的毁灭公爵](../Page/永远的毁灭公爵.md "wikilink")
-      - [Midway的](../Page/Midway.md "wikilink")[真人快打系列](../Page/真人快打系列.md "wikilink")
-      - [西木工作室的](../Page/西木工作室.md "wikilink")[命令与征服](https://zh.wikipedia.org/wiki/命令与征服 "wikilink")、[红色警戒1](https://zh.wikipedia.org/wiki/红色警戒1 "wikilink")
+      - [Midway](../Page/Midway.md "wikilink")的[真人快打系列](../Page/真人快打系列.md "wikilink")
+      - [西木工作室](../Page/西木工作室.md "wikilink")的[命令与征服](https://zh.wikipedia.org/wiki/命令与征服 "wikilink")、[红色警戒1](https://zh.wikipedia.org/wiki/红色警戒1 "wikilink")
       - [DMA
         Design](https://zh.wikipedia.org/wiki/DMA_Design "wikilink")（现称Rockstar
         North）的[侠盗猎车手](https://zh.wikipedia.org/wiki/侠盗猎车手 "wikilink")，後期游戏版本移植进了Windows以兼容新型电脑。
-      - [NovaLogic的](../Page/NovaLogic.md "wikilink")用了特殊的内存管理器，须[80386芯片支持](https://zh.wikipedia.org/wiki/80386 "wikilink")，与其他、不兼容，须在[CONFIG.SYS内配置复杂的](https://zh.wikipedia.org/wiki/CONFIG.SYS "wikilink")。後期版本包含了一个DOS扩展器，以解上述难题。
+      - [NovaLogic](../Page/NovaLogic.md "wikilink")的用了特殊的内存管理器，须[80386芯片支持](https://zh.wikipedia.org/wiki/80386 "wikilink")，与其他、不兼容，须在[CONFIG.SYS内配置复杂的](https://zh.wikipedia.org/wiki/CONFIG.SYS "wikilink")。後期版本包含了一个DOS扩展器，以解上述难题。
   - [Windows
     9x自称为](../Page/Windows_9x.md "wikilink")“操作系统”系列，但实为高级的更灵活扩展了MS-DOS代码的Window
       - [Windows 95](../Page/Windows_95.md "wikilink")

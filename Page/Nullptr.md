@@ -1,9 +1,9 @@
-**nullptr**是[C++11语言标准用来表示](../Page/C++11.md "wikilink")[空指针的](https://zh.wikipedia.org/wiki/空指针 "wikilink")[常量值](https://zh.wikipedia.org/wiki/常量 "wikilink")\[1\]，可以指派給任意類型的[指標變數](../Page/指標_\(電腦科學\).md "wikilink")\[2\]。部分[編譯器將之視為一個關鍵字](../Page/編譯器.md "wikilink")，例如[Visual
-Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")\[3\]，部分使用舊標準的[C++編譯器則未實作需要自行定義](../Page/C++.md "wikilink")\[4\]或引入額外的標頭檔\[5\]。
+**nullptr**是[C++11](../Page/C++11.md "wikilink")语言标准用来表示[空指针的](https://zh.wikipedia.org/wiki/空指针 "wikilink")[常量值](https://zh.wikipedia.org/wiki/常量 "wikilink")\[1\]，可以指派給任意類型的[指標變數](../Page/指標_\(電腦科學\).md "wikilink")\[2\]。部分[編譯器](../Page/編譯器.md "wikilink")將之視為一個關鍵字，例如[Visual
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")\[3\]，部分使用舊標準的[C++](../Page/C++.md "wikilink")編譯器則未實作需要自行定義\[4\]或引入額外的標頭檔\[5\]。
 
 ## 定義
 
-在C语言中，[空指標可以使用](../Page/空指標.md "wikilink")`(void
+在C语言中，[空指標](../Page/空指標.md "wikilink")可以使用`(void
 *)0;`來表示，且標準庫中也是如此定義，但在C++语言中，由于对语法的类型检查更为严格，因而空指针的值就不能表示为`(void
 *)0;`。例如，空指针的值表示为`FILE *fp=(void
 *)0;`编译报错。所以至少自[C++98开始](https://zh.wikipedia.org/wiki/C++98 "wikilink")`#define
@@ -18,7 +18,7 @@ int main()
 }
 ```
 
-[C++11开始](../Page/C++11.md "wikilink")，定义了空指针的常值为`nullptr`，解决了上述函数重载问题。
+[C++11](../Page/C++11.md "wikilink")开始，定义了空指针的常值为`nullptr`，解决了上述函数重载问题。
 
 在没有C++11的nullptr时，可以自己实现一个\[6\]：
 

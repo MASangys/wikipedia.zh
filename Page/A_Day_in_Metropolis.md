@@ -1,5 +1,5 @@
 《**A Day In
-Metropolis**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[曹震豪的首張專輯](../Page/曹震豪.md "wikilink")，於2011年3月11日發行\[1\]，以人生活的二十四小時為主題，第一主打歌為《騙人的》。
+Metropolis**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[曹震豪](../Page/曹震豪.md "wikilink")的首張專輯，於2011年3月11日發行\[1\]，以人生活的二十四小時為主題，第一主打歌為《騙人的》。
 
 ## 曲目
 

@@ -1,17 +1,17 @@
 **PSM**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пистолет
 Самозарядный
-Малогабаритный，意為：緊湊型半自動手槍）是一種由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[KBP儀器設計局於](https://zh.wikipedia.org/wiki/俄聯邦儀器設計局 "wikilink")1969年設計的防身用手槍，旨在提供給執法部門及[軍官使用](../Page/軍官.md "wikilink")。該槍在1973年於正式投產。
+Малогабаритный，意為：緊湊型半自動手槍）是一種由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[KBP儀器設計局於](https://zh.wikipedia.org/wiki/俄聯邦儀器設計局 "wikilink")1969年設計的防身用手槍，旨在提供給執法部門及[軍官](../Page/軍官.md "wikilink")使用。該槍在1973年於正式投產。
 
 ## 設計
 
-PSM採用[反沖作用機制運作](../Page/反沖作用_\(槍械\).md "wikilink")，為雙動式設計，保險裝置與[滑套一體化](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。較特別的是，此槍並沒有加入外置的滑套卡槽，但仍然有空倉掛機功能，與[瓦爾特PP／PPK較為相似](../Page/瓦爾特PP手槍.md "wikilink")。PSM全槍大部份零件均由[鋼製成](https://zh.wikipedia.org/wiki/鋼 "wikilink")，而其則是由薄[鋁板製成](https://zh.wikipedia.org/wiki/鋁 "wikilink")，但較新的型號則使用以硬質[塑料製造的握把護板](../Page/塑料.md "wikilink")。
+PSM採用[反沖作用機制運作](../Page/反沖作用_\(槍械\).md "wikilink")，為雙動式設計，保險裝置與[滑套一體化](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。較特別的是，此槍並沒有加入外置的滑套卡槽，但仍然有空倉掛機功能，與[瓦爾特PP／PPK較為相似](../Page/瓦爾特PP手槍.md "wikilink")。PSM全槍大部份零件均由[鋼製成](https://zh.wikipedia.org/wiki/鋼 "wikilink")，而其則是由薄[鋁板製成](https://zh.wikipedia.org/wiki/鋁 "wikilink")，但較新的型號則使用以硬質[塑料](../Page/塑料.md "wikilink")製造的握把護板。
 
 PSM手槍使用的[彈藥為](https://zh.wikipedia.org/wiki/彈藥 "wikilink")研製的5.45×18毫米槍彈，這種彈藥具高貫穿力的特點，其性能甚至超越了[.22
 LR和](../Page/.22_LR.md "wikilink")兩種相同等級的彈藥，然而卻有著因槍口初速低而導致的殺傷力和停止作用偏低的缺點。
 
 ## 採用
 
-PSM手槍原先是打算提供給[蘇聯軍隊中的高階軍官作自衛之用](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，但考慮到此槍的緊湊槍身，令其不久更成為了[克格勃和](https://zh.wikipedia.org/wiki/克格勃 "wikilink")[警察的常用武器](../Page/警察.md "wikilink")。
+PSM手槍原先是打算提供給[蘇聯軍隊中的高階軍官作自衛之用](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，但考慮到此槍的緊湊槍身，令其不久更成為了[克格勃和](https://zh.wikipedia.org/wiki/克格勃 "wikilink")[警察](../Page/警察.md "wikilink")的常用武器。
 
 ## 衍生型
 

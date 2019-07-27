@@ -3,8 +3,8 @@ SCANDAL**》是日本女子樂團[SCANDAL的獨立製作](https://zh.wikipedia.o
 
 ## 概要
 
-樂團在[獨立音樂時期最後的發行作品](../Page/獨立音樂.md "wikilink")。儘管[Oricon公信榜並未進榜](../Page/Oricon公信榜.md "wikilink")，但於[TOWER
-RECORDS的J](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")-POP、專輯部門排名第三，並在3月至北美、7月到[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、8月造訪[香港演出](../Page/香港.md "wikilink")，使SCANDAL的知名度得以擴展至海外。\[1\]。
+樂團在[獨立音樂](../Page/獨立音樂.md "wikilink")時期最後的發行作品。儘管[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")並未進榜，但於[TOWER
+RECORDS的J](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")-POP、專輯部門排名第三，並在3月至北美、7月到[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、8月造訪[香港](../Page/香港.md "wikilink")演出，使SCANDAL的知名度得以擴展至海外。\[1\]。
 
 本作被評為「搖滾樂團以令人振奮又可愛的方式呈現音樂，聲音聽起來地適度地些許粗糙也是魅力之一。」\[2\]。
 

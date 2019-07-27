@@ -1,4 +1,4 @@
-《**Everlasting**》是[美国出生的女性歌手](../Page/美国.md "wikilink")[Kylee的第三支单曲](https://zh.wikipedia.org/wiki/Kylee "wikilink")。
+《**Everlasting**》是[美国](../Page/美国.md "wikilink")出生的女性歌手[Kylee的第三支单曲](https://zh.wikipedia.org/wiki/Kylee "wikilink")。
 
 ## 概要
 

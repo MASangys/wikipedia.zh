@@ -1,5 +1,5 @@
 《**Start
-Up...**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[劉浩龍的首張個人專輯](../Page/劉浩龍.md "wikilink")，於2004年6月3日推出。第二版於2004年8月3日推出，加送3個[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
+Up...**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[劉浩龍](../Page/劉浩龍.md "wikilink")的首張個人專輯，於2004年6月3日推出。第二版於2004年8月3日推出，加送3個[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
 
 ## 曲目
 

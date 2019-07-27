@@ -1,4 +1,4 @@
-《**Message**》為[日本女歌手](../Page/日本.md "wikilink")[家入里歐於](../Page/家入里歐.md "wikilink")2013年5月22日發售的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，此首歌曲為《[確証～警視庁捜査3課](https://zh.wikipedia.org/wiki/確証～警視庁捜査3課 "wikilink")》主題歌曲。《Message》分為通常盤、初回限定盤A及初回限定盤B。
+《**Message**》為[日本](../Page/日本.md "wikilink")女歌手[家入里歐](../Page/家入里歐.md "wikilink")於2013年5月22日發售的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，此首歌曲為《[確証～警視庁捜査3課](https://zh.wikipedia.org/wiki/確証～警視庁捜査3課 "wikilink")》主題歌曲。《Message》分為通常盤、初回限定盤A及初回限定盤B。
 
 ## 收錄內容
 

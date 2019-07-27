@@ -13,7 +13,7 @@ alexa =  53,296 ()\[1\] }} {{ infobox software | license =Apache许可2.0 }}
 
 ## 特性
 
-Identi.ca在pump.io上运行，与[Facebook和](../Page/Facebook.md "wikilink")[Google+类似](../Page/Google+.md "wikilink")，允许发布限定长度的状态更新、富文本和图片。活动流协议支持大多数的活动动态如游戏。OpenFarmGame就是一个基于活动流的游戏。
+Identi.ca在pump.io上运行，与[Facebook](../Page/Facebook.md "wikilink")和[Google+](../Page/Google+.md "wikilink")类似，允许发布限定长度的状态更新、富文本和图片。活动流协议支持大多数的活动动态如游戏。OpenFarmGame就是一个基于活动流的游戏。
 
 ## 历史
 

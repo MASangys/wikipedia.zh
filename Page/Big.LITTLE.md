@@ -1,5 +1,5 @@
 **ARM
-big.LITTLE**或**big.LITTLE**是由[安謀國際科技公司](https://zh.wikipedia.org/wiki/安謀國際科技 "wikilink")（ARM）提出的[異質運算](https://zh.wikipedia.org/wiki/異質運算 "wikilink")[多核心處理器組態結構配置](../Page/多核心處理器.md "wikilink")。在這個組態，將比較耗電、但運算能力強的處理器核心組成的「big叢集」與低耗電、運算能力弱的處理器核心組成的「LITTLE叢集」結合在一起，這些處理器核心共用[記憶體區段](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，並能夠在不同的CPU叢集之間線上實時分派、切換負載。\[1\]這個多核心處理器組態結構運用在-{zh-hant:行動計算;zh-cn:移动计算}-上，從而能夠做出計算高效能，但是平均耗電低的多核心處理器，ARM的市場資料稱在某些運算操作中這個組態配置相比只使用與「big叢集」相同CPU核心數量的處理器可節省多達75%的功耗。\[2\]
+big.LITTLE**或**big.LITTLE**是由[安謀國際科技公司](https://zh.wikipedia.org/wiki/安謀國際科技 "wikilink")（ARM）提出的[異質運算](https://zh.wikipedia.org/wiki/異質運算 "wikilink")[多核心處理器](../Page/多核心處理器.md "wikilink")組態結構配置。在這個組態，將比較耗電、但運算能力強的處理器核心組成的「big叢集」與低耗電、運算能力弱的處理器核心組成的「LITTLE叢集」結合在一起，這些處理器核心共用[記憶體區段](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，並能夠在不同的CPU叢集之間線上實時分派、切換負載。\[1\]這個多核心處理器組態結構運用在-{zh-hant:行動計算;zh-cn:移动计算}-上，從而能夠做出計算高效能，但是平均耗電低的多核心處理器，ARM的市場資料稱在某些運算操作中這個組態配置相比只使用與「big叢集」相同CPU核心數量的處理器可節省多達75%的功耗。\[2\]
 
 本組態配置式在2011年10月ARM發表[Cortex-A7時首次對外公布](../Page/ARM_Cortex-A7_MPCore.md "wikilink")，[Cortex-A15也能夠與這個架構相容](../Page/ARM_Cortex-A15_MPCore.md "wikilink")。\[3\]2012年10月，ARM公司宣布與（[ARMv8](https://zh.wikipedia.org/wiki/ARMv8 "wikilink")）也能與這個架構相容。\[4\]2014年2月ARM發表，同一年在[Computex
 2013上ARM又發表了](../Page/台北國際電腦展覽會.md "wikilink")，這兩種CPU核心也可用於big.LITTLE配置式中的「big叢集」上（「LITTLE叢集」由Cortex-A7擔當）。\[5\]\[6\]
@@ -51,7 +51,7 @@ A11也採用此種排程方式](https://zh.wikipedia.org/wiki/Apple_A11 "wikilin
 
 ## 任務排程
 
-對於大小CPU核心（叢集）成對配置的，它們之間的切換過程對作業系統來說是透明的，[作業系統使用現成的動態電壓與時鐘信號調整](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（DVFS）功能來實現。作業系統核心現成的DVFS支援（像是[Linux核心的](../Page/Linux.md "wikilink")`cpufreq`）將根據負載輕重，從預先設定的一個時鐘信號-核心電壓參數配置表中以合適的參數設定CPU的電壓與時脈，和此前僅需調整核心電壓、時脈的CPU一樣，然而，較低的參數設定則會開啟節電（小）CPU核心，而較高的參數設定則是開啟高效能（大）CPU核心。
+對於大小CPU核心（叢集）成對配置的，它們之間的切換過程對作業系統來說是透明的，[作業系統使用現成的動態電壓與時鐘信號調整](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（DVFS）功能來實現。作業系統核心現成的DVFS支援（像是[Linux](../Page/Linux.md "wikilink")核心的`cpufreq`）將根據負載輕重，從預先設定的一個時鐘信號-核心電壓參數配置表中以合適的參數設定CPU的電壓與時脈，和此前僅需調整核心電壓、時脈的CPU一樣，然而，較低的參數設定則會開啟節電（小）CPU核心，而較高的參數設定則是開啟高效能（大）CPU核心。
 
 另一種相對的，則是所有的CPU核心都呈現給作業系統內核排程器，排程器將依據請求決定由哪個核心執行哪個行程或執行緒。這種排程方式需要非成對配置的CPU核心（叢集），不過成對配置的CPU核心（叢集）也可能允許使用。不過這種排程方式更考驗作業系統內核排程器的調校功力（多核心處理器的效能最佳化），至少當前大多數的硬體中，多核心處理器的結構使用的是[對稱多處理器系統](https://zh.wikipedia.org/wiki/对称多处理 "wikilink")，big.LITTLE組態其實也不例外。
 

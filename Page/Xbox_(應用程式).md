@@ -1,7 +1,7 @@
 **Xbox SmartGlass**是一個為[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android等行動終端開發的串連技術](../Page/Android.md "wikilink")，于2012年面世\[1\]。它可以使行動設備連接Xbox
+Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")等行動終端開發的串連技術，于2012年面世\[1\]。它可以使行動設備連接Xbox
 360，以分享更多的娛樂項目，使移動設備成為第二個螢幕\[2\]。
 
 ## 功能
@@ -20,7 +20,7 @@ Phone（7.5以上）的智能手机、Windows Server
 
 Xbox
 SmartGlass的最初2012年的[E3上被发布](https://zh.wikipedia.org/wiki/E3 "wikilink")，于2012年10月26日与Windows
-8一同发售\[7\]。发布会同时也伴随着应用的运行演示，这些演示中包括、[最後一戰4和](../Page/最後一戰4.md "wikilink")[Internet
+8一同发售\[7\]。发布会同时也伴随着应用的运行演示，这些演示中包括、[最後一戰4](../Page/最後一戰4.md "wikilink")和[Internet
 Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 
 2013年6月底，微软正式宣布Xbox SmartGlass下载量超过1700万。\[9\]
@@ -247,7 +247,7 @@ Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 <td><p>美国</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Now_TV" title="wikilink">Now TV</a></p></td>
+<td><p><a href="../Page/Now_TV.md" title="wikilink">Now TV</a></p></td>
 <td></td>
 <td><p>英国</p></td>
 </tr>

@@ -72,7 +72,7 @@ SystemModeler Quick Revision History\]
 ## 发布
 
 Wolfram SystemModeler
-是一个[专有软件](../Page/专有软件.md "wikilink")，同时受[商业秘密和](../Page/商业秘密.md "wikilink")[知识产权法保护](../Page/知识产权.md "wikilink")。
+是一个[专有软件](../Page/专有软件.md "wikilink")，同时受[商业秘密](../Page/商业秘密.md "wikilink")和[知识产权](../Page/知识产权.md "wikilink")法保护。
 
 ## 参考文献
 

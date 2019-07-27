@@ -1,11 +1,11 @@
 **《FIFA
-15》**是一部以足球为题材的体育游戏，游戏是[艺电开发的](../Page/艺电.md "wikilink")[FIFA系列的第](../Page/FIFA系列.md "wikilink")22部作品，游戏于2014年9月2日在北美区上市，之后登陆欧洲区和英国区。\[1\]游戏发布了适用于[PlayStation
+15》**是一部以足球为题材的体育游戏，游戏是[艺电](../Page/艺电.md "wikilink")开发的[FIFA系列](../Page/FIFA系列.md "wikilink")的第22部作品，游戏于2014年9月2日在北美区上市，之后登陆欧洲区和英国区。\[1\]游戏发布了适用于[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[PlayStation
 4](../Page/PlayStation_4.md "wikilink")、[PlayStation
 Vita](../Page/PlayStation_Vita.md "wikilink")、[Xbox
 One](../Page/Xbox_One.md "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[IOS和](../Page/IOS.md "wikilink")[Android的版本](../Page/Android.md "wikilink")。与前作相比，艺电将会在[PC平台上采用](../Page/PC.md "wikilink")[Ignite引擎](https://zh.wikipedia.org/wiki/Ignite引擎 "wikilink")。\[2\]\[3\]本作是FIFA系列第一次官方中文化。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[IOS](../Page/IOS.md "wikilink")和[Android](../Page/Android.md "wikilink")的版本。与前作相比，艺电将会在[PC](../Page/PC.md "wikilink")平台上采用[Ignite引擎](https://zh.wikipedia.org/wiki/Ignite引擎 "wikilink")。\[2\]\[3\]本作是FIFA系列第一次官方中文化。
 
 ## 开发
 
@@ -15,7 +15,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[IOS和](
 zh-tw:梅西;}-出现在所有版本的封面中](../Page/利昂内尔·梅西.md "wikilink")。与FIFA
 14相同，不同地区的版本的封面将会有一名球员与-{zh-hans:梅西; zh-hk:美斯; zh-tw:梅西;}-一起出现，以下是球员列表：
 
-  - [美国和](../Page/美国.md "wikilink")[加拿大](../Page/加拿大.md "wikilink")：[-{zh-cn:克林特·邓普西;
+  - [美国](../Page/美国.md "wikilink")和[加拿大](../Page/加拿大.md "wikilink")：[-{zh-cn:克林特·邓普西;
     zh-tw:柯林特·登普塞;
     zh-hk:奇連·丹比斯;}-](https://zh.wikipedia.org/wiki/克林特·邓普西 "wikilink")\[4\]
 
@@ -38,7 +38,7 @@ zh-tw:梅西;}-出现在所有版本的封面中](../Page/利昂内尔·梅西.m
 
   - [拉丁美洲](../Page/拉丁美洲.md "wikilink")：[-{zh-hans:阿图罗·比达尔;zh-hk:阿圖羅·維度爾;zh-tw:阿圖羅·比達爾;}-](../Page/阿图罗·比达尔.md "wikilink")\[12\]
 
-  - [英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[比利时和](../Page/比利时.md "wikilink")[荷兰](../Page/荷兰.md "wikilink")：[-{zh-hans:艾登·阿扎尔;zh-hk:伊登·夏薩特;zh-tw:伊甸·夏沙特;}-](../Page/伊登·夏薩特.md "wikilink")\[13\]
+  - [英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[比利时](../Page/比利时.md "wikilink")和[荷兰](../Page/荷兰.md "wikilink")：[-{zh-hans:艾登·阿扎尔;zh-hk:伊登·夏薩特;zh-tw:伊甸·夏沙特;}-](../Page/伊登·夏薩特.md "wikilink")\[13\]
 
   - [捷克共和国](https://zh.wikipedia.org/wiki/捷克共和国 "wikilink")：[-{zh-hans:米哈尔·卡德莱茨;zh-hk:米哈爾·卡歷;zh-tw:米哈爾·卡德萊茨;}-](../Page/米哈尔·卡德莱茨.md "wikilink")\[14\]
 
@@ -49,7 +49,7 @@ zh-tw:梅西;}-出现在所有版本的封面中](../Page/利昂内尔·梅西.m
 《FIFA
 15》总体而言获得了评论界正面的评价。汇总评分网站[GameRankings基于](https://zh.wikipedia.org/wiki/GameRankings "wikilink")25份独立评分对游戏的PS4版本给出了81.90%的汇总得分。\[16\]
 
-[IGN的编辑Chris](../Page/IGN.md "wikilink") Schilling为《FIFA 15》的PS4及XBOX
+[IGN](../Page/IGN.md "wikilink")的编辑Chris Schilling为《FIFA 15》的PS4及XBOX
 ONE版本给出了8.3分。他在评论中说：“《FIFA
 15》仍旧是体育模拟游戏中最好的那一种，有着精湛的动作动画和精心打造出来的大赛氛围。”但他也认为游戏的缺点在于镜头不稳定以及AI队友的反应不够合理。\[17\]
 

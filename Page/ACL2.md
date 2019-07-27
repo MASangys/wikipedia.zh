@@ -1,18 +1,18 @@
 **ACL2**（A Computational Logic for Applicative Common Lisp，应用 Common
 Lisp
-计算逻辑）是由一个[程序语言](https://zh.wikipedia.org/wiki/程序语言 "wikilink")、一套[一阶逻辑的可拓理论](../Page/一阶逻辑.md "wikilink")、以及一个机械化的[定理证明器所组成的](https://zh.wikipedia.org/wiki/定理机器证明 "wikilink")[软件系统](../Page/软件.md "wikilink")。ACL2从设计上支持基于[归纳逻辑理论的](https://zh.wikipedia.org/wiki/归纳逻辑 "wikilink")[自动推理](https://zh.wikipedia.org/wiki/自动推理 "wikilink")，可应用于软件或[硬件系统的验证](../Page/硬件.md "wikilink")。ACL2的编程语言与实现基于
+计算逻辑）是由一个[程序语言](https://zh.wikipedia.org/wiki/程序语言 "wikilink")、一套[一阶逻辑](../Page/一阶逻辑.md "wikilink")的可拓理论、以及一个机械化的[定理证明器所组成的](https://zh.wikipedia.org/wiki/定理机器证明 "wikilink")[软件](../Page/软件.md "wikilink")系统。ACL2从设计上支持基于[归纳逻辑理论的](https://zh.wikipedia.org/wiki/归纳逻辑 "wikilink")[自动推理](https://zh.wikipedia.org/wiki/自动推理 "wikilink")，可应用于软件或[硬件](../Page/硬件.md "wikilink")系统的验证。ACL2的编程语言与实现基于
 [Common
 Lisp](../Page/Common_Lisp.md "wikilink")。ACL2是基于[BSD授权发布的](https://zh.wikipedia.org/wiki/BSD授权 "wikilink")[开源软件](../Page/开源软件.md "wikilink")。
 
 ACL2程序语言可看作是一个[函数式](../Page/函数式编程.md "wikilink")（无任何[副作用](../Page/副作用.md "wikilink")）的
 Common Lisp
-变体。和Lisp一样，ACL2使用动态类型。ACL2中所有的[函数均是完整的](../Page/子程序.md "wikilink")（）——意即，每一个函数均在ACL2的[全集中将各个对象](../Page/全集.md "wikilink")（输入）映射到另一个对象（输出）。
+变体。和Lisp一样，ACL2使用动态类型。ACL2中所有的[函数均是完整的](../Page/子程序.md "wikilink")（）——意即，每一个函数均在ACL2的[全集](../Page/全集.md "wikilink")中将各个对象（输入）映射到另一个对象（输出）。
 
 ACL2的基础理论将其程序语言的语义及其内置函数全部公理化。而程序语言中满足*定义原则（definitional
 principle）*的用户自定义部分在扩展该理论的同时亦能保持其[逻辑自洽性](https://zh.wikipedia.org/wiki/自洽 "wikilink")。
 
 ACL2定理证明器的核心基于[项重写](../Page/重写逻辑.md "wikilink")（term
-rewriting）系统，此核心高度可扩展，用户已证得的定理可以在后续的[猜想中被用作现成的](../Page/猜想.md "wikilink")[数学证明](https://zh.wikipedia.org/wiki/数学证明 "wikilink")。
+rewriting）系统，此核心高度可扩展，用户已证得的定理可以在后续的[猜想](../Page/猜想.md "wikilink")中被用作现成的[数学证明](https://zh.wikipedia.org/wiki/数学证明 "wikilink")。
 
 ACL2设计的目标是成为 Boyer–Moore 定理证明器
 [NQTHM](https://zh.wikipedia.org/wiki/NQTHM "wikilink")

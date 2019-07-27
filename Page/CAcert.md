@@ -2,7 +2,7 @@
 是一个社群推动的公共[认证机构](https://zh.wikipedia.org/wiki/认证机构 "wikilink")。它可以对个人发放免费[公钥证书](https://zh.wikipedia.org/wiki/公钥 "wikilink")\[1\]
 (其他证书颁发机构需要收费)。该机构目前已经有 200,000 名认证用户，以及接近800,000（截至2012年1月）\[2\]份证书。
 
-该机构的证书支持[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，以及[X.509协议](../Page/X.509.md "wikilink")
+该机构的证书支持[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，以及[X.509](../Page/X.509.md "wikilink")协议
 
 CAcert是一个非盈利性组织，2003年7月成立于澳洲，其成员分布在世界各地。目前，董事会成员有7人。
 
@@ -10,7 +10,7 @@ CAcert是一个非盈利性组织，2003年7月成立于澳洲，其成员分布
 
 CAcert使用程序来自动签发证书，你只需要告诉它域名和邮箱即可。因此，Cacert并不会验证请求者的身份，这造成其证书的可信度不高。如果你想获得高可靠性的证书，必须通过实际认证，与证书签发机构的人会面，通过多方面证明自己的身份。CAcert制定了一项规定，允许用户通过提供更多个人信息来提高“确认点”\[3\]。
 
-CAcert的签名提供商是[CeBIT和](../Page/CeBIT.md "wikilink")[FOSDEM](https://zh.wikipedia.org/wiki/FOSDEM "wikilink").
+CAcert的签名提供商是[CeBIT](../Page/CeBIT.md "wikilink")和[FOSDEM](https://zh.wikipedia.org/wiki/FOSDEM "wikilink").
 
 ## 根证书
 

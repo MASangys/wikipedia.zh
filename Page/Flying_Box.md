@@ -1,6 +1,6 @@
 **Flying
 Box**（）是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[藝能事務所](../Page/經紀公司.md "wikilink")，下轄許多女性藝人。另外，Flying
-Box和屬於同一體系，不過後者主要負責[模特兒的部分](../Page/模特兒.md "wikilink")。
+Box和屬於同一體系，不過後者主要負責[模特兒](../Page/模特兒.md "wikilink")的部分。
 
 ## 現在所屬藝人
 

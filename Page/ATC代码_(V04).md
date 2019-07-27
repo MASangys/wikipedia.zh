@@ -1,18 +1,18 @@
-## V04B [尿检测](../Page/尿.md "wikilink")（Urine tests）
+## V04B [尿](../Page/尿.md "wikilink")检测（Urine tests）
 
   -
     *空组*
 
 ## V04C 其它诊断用药（Other diagnostic agents）
 
-### V04CA [糖尿病检测](../Page/糖尿病.md "wikilink")（Tests for diabetes）
+### V04CA [糖尿病](../Page/糖尿病.md "wikilink")检测（Tests for diabetes）
 
   -
     V04CA01
     [甲苯磺丁脲](https://zh.wikipedia.org/wiki/甲苯磺丁脲 "wikilink")（Tolbutamide）
     V04CA02 [葡萄糖](../Page/葡萄糖.md "wikilink")（Glucose）
 
-### V04CB [脂肪吸收的检测](../Page/脂肪.md "wikilink")（Tests for fat absorption）
+### V04CB [脂肪](../Page/脂肪.md "wikilink")吸收的检测（Tests for fat absorption）
 
   -
     V04CB01
@@ -73,14 +73,14 @@
     [亚甲蓝](https://zh.wikipedia.org/wiki/亚甲蓝 "wikilink")（Methylthioninium
     chloride）
     V04CG30
-    [咖啡因和](../Page/咖啡因.md "wikilink")[苯甲酸钠](../Page/苯甲酸钠.md "wikilink")（Caffeine
+    [咖啡因](../Page/咖啡因.md "wikilink")和[苯甲酸钠](../Page/苯甲酸钠.md "wikilink")（Caffeine
     and sodium benzoate）
 
 ### V04CH [肾功能检测](https://zh.wikipedia.org/wiki/肾 "wikilink")（Tests for renal function）
 
   -
     V04CH01
-    [菊粉和其它](../Page/菊粉.md "wikilink")[多果聚糖类](https://zh.wikipedia.org/wiki/多果聚糖类 "wikilink")（Inulin
+    [菊粉](../Page/菊粉.md "wikilink")和其它[多果聚糖类](https://zh.wikipedia.org/wiki/多果聚糖类 "wikilink")（Inulin
     and other polyfructosans）
     V04CH02 [靛卡红](https://zh.wikipedia.org/wiki/靛卡红 "wikilink")（Indigo
     carmine）
@@ -92,7 +92,7 @@
     [氨马尿酸](https://zh.wikipedia.org/wiki/氨马尿酸 "wikilink")（Aminohippuric
     acid）
 
-### V04CJ [甲状腺功能检测](../Page/甲状腺.md "wikilink")（Tests for thyreoidea function）
+### V04CJ [甲状腺](../Page/甲状腺.md "wikilink")功能检测（Tests for thyreoidea function）
 
   -
     V04CJ01
@@ -113,9 +113,9 @@
 
 ### V04CL [变应性疾病检测](https://zh.wikipedia.org/wiki/变应性 "wikilink")（Tests for allergic diseases）
 
-### QV04CQ [乳腺炎检测](../Page/乳腺炎.md "wikilink")（Tests for mastitis）
+### QV04CQ [乳腺炎](../Page/乳腺炎.md "wikilink")检测（Tests for mastitis）
 
-### QV04CV [呼吸功能检测](../Page/呼吸.md "wikilink")（Tests for respiratory function）
+### QV04CV [呼吸](../Page/呼吸.md "wikilink")功能检测（Tests for respiratory function）
 
   -
     QV04CV01

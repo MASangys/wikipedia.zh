@@ -1,5 +1,5 @@
 **The New ASUS PadFone
-Infinity**是[臺灣電腦公司](../Page/臺灣.md "wikilink")[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2013年9月18日所推出的高階智慧型手機產品，是此系列[PadFone
+Infinity**是[臺灣](../Page/臺灣.md "wikilink")電腦公司[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2013年9月18日所推出的高階智慧型手機產品，是此系列[PadFone
 Inifinity的小幅改款之作](https://zh.wikipedia.org/wiki/華碩Padfone_Infinity "wikilink")，針對CPU升級以及使用者介面做了些許的改變。此機也因為華碩與[GARMIN導航結束合作關係](https://zh.wikipedia.org/wiki/GARMIN "wikilink")，並無內建GARMIN應用程式。
 
 ## 技術規格
@@ -33,7 +33,7 @@ Inifinity的小幅改款之作](https://zh.wikipedia.org/wiki/華碩Padfone_Infi
   - 聲音輸入：底部麥克風
   - 支援音訊格式：[MP3](../Page/MP3.md "wikilink")/[3GP](https://zh.wikipedia.org/wiki/3GP "wikilink")/[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")/[AAC+](https://zh.wikipedia.org/wiki/AAC+ "wikilink")
   - 支援播放影像格式：[MPEG4至](https://zh.wikipedia.org/wiki/MPEG4 "wikilink")[1080p](../Page/1080p.md "wikilink")/[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")/H.264
-    @HD1080p/3GP/[Ogg規格](../Page/Ogg.md "wikilink")
+    @HD1080p/3GP/[Ogg](../Page/Ogg.md "wikilink")規格
   - 支援攝錄影像格式：MPEG4至1080p@30fps / 720p@60fps規格
   - 資料輸出：MyDP port、相容[micro-USB接頭](../Page/USB.md "wikilink")、符合USB2.0規格
   - SIM卡規格：[nano SIM](https://zh.wikipedia.org/wiki/SIM "wikilink")
@@ -59,8 +59,8 @@ Inifinity的小幅改款之作](https://zh.wikipedia.org/wiki/華碩Padfone_Infi
 
 1.  **Super Note**：自行開發的之製圖軟體，提供影像編輯、繪製等功能。
 2.  **Watch Calender**：自行開發的行事曆軟體，採圖形化介面。
-3.  **asus@vibe**：提供[華碩自營](../Page/華碩.md "wikilink")[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
-4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩公司所提供的網路伺服器內](../Page/華碩.md "wikilink")。(現為ASUS
+3.  **asus@vibe**：提供[華碩](../Page/華碩.md "wikilink")自營[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
+4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩](../Page/華碩.md "wikilink")公司所提供的網路伺服器內。(現為ASUS
     WebStorage)
 5.  **Pixel Master**：於相機中内建的功能，運用將四個畫素合併為一個畫素的軟體運算法，將畫面調亮。
 6.  **ZenUI**：ASUS新介面
@@ -98,7 +98,7 @@ Inifinity的小幅改款之作](https://zh.wikipedia.org/wiki/華碩Padfone_Infi
     升級計畫經跟高通原廠協商後，預計於2015年第三季升級，華碩也表示高通將會協助華碩取得通用的韌體資源以開發Android
     L版本。
 4.  2015年9月15日，華碩正式開放更新Android
-    L(12.4.0.59)，並修補[Stagefright漏洞該版本取消CHT](../Page/Stagefright漏洞.md "wikilink")(中華電信版)和TW(台灣通用版)的差別。
+    L(12.4.0.59)，並修補[Stagefright漏洞](../Page/Stagefright漏洞.md "wikilink")該版本取消CHT(中華電信版)和TW(台灣通用版)的差別。
 5.  2015年10月19日，華碩釋出版本V12.4.0.66。
 6.  2015年11月24日，華碩釋出版本V12.4.0.72，修補其他漏洞。
 

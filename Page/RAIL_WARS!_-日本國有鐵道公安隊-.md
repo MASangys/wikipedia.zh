@@ -1,12 +1,12 @@
 《**RAIL WARS\!
--日本國有鐵道公安隊-**》（）是由所著的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，負責插畫。於2012年1月起由[創藝社發行](https://zh.wikipedia.org/wiki/創藝社 "wikilink")，但因創藝社退出輕小說市場，後來於2017年12月轉由[實業之日本社發行](https://zh.wikipedia.org/wiki/實業之日本社 "wikilink")。2014年6月起由[青文出版社翻譯並出版其繁體中文版](../Page/青文出版社.md "wikilink")。
+-日本國有鐵道公安隊-**》（）是由所著的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，負責插畫。於2012年1月起由[創藝社發行](https://zh.wikipedia.org/wiki/創藝社 "wikilink")，但因創藝社退出輕小說市場，後來於2017年12月轉由[實業之日本社發行](https://zh.wikipedia.org/wiki/實業之日本社 "wikilink")。2014年6月起由[青文出版社](../Page/青文出版社.md "wikilink")翻譯並出版其繁體中文版。
 
 ## 簡介
 
-這作品以[日本國有鐵道沒被](../Page/日本國有鐵道.md "wikilink")[分割民營化的](../Page/國鐵分割民營化.md "wikilink")[平行世界日本為舞台](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，描述被編配到**鐵道公安隊**培訓的主角高山直人等四位高中生與公安隊隊員一起活動的情形。由於作品將主張國鐵分割民營化者描繪為[恐怖分子](https://zh.wikipedia.org/wiki/恐怖分子 "wikilink")，其組織「RJ」標誌為「JR」共同標誌反轉而成，故有醜化、抹黑現有[JR集團之嫌](https://zh.wikipedia.org/wiki/JR集團 "wikilink")。
+這作品以[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")沒被[分割民營化的](../Page/國鐵分割民營化.md "wikilink")[平行世界日本為舞台](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，描述被編配到**鐵道公安隊**培訓的主角高山直人等四位高中生與公安隊隊員一起活動的情形。由於作品將主張國鐵分割民營化者描繪為[恐怖分子](https://zh.wikipedia.org/wiki/恐怖分子 "wikilink")，其組織「RJ」標誌為「JR」共同標誌反轉而成，故有醜化、抹黑現有[JR集團之嫌](https://zh.wikipedia.org/wiki/JR集團 "wikilink")。
 
 2012年11月起，此作品於[Blade
-Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikipedia.org/wiki/Blade_Online "wikilink")。\[1\]其後於2013年底發表改編電視動畫的計劃\[2\]並決定於2014年夏天在[TBS電視和](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[BS-TBS開始播放](../Page/BS-TBS.md "wikilink")\[3\]。另外，亦有改編為遊戲的計劃，並已於2014年5月設立官方網站。\[4\]
+Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikipedia.org/wiki/Blade_Online "wikilink")。\[1\]其後於2013年底發表改編電視動畫的計劃\[2\]並決定於2014年夏天在[TBS電視和](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")開始播放\[3\]。另外，亦有改編為遊戲的計劃，並已於2014年5月設立官方網站。\[4\]
 
 ## 登場人物
 
@@ -20,9 +20,9 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
     本作主人公，桐生鐵路高中二年級生（旅客運輸科），被任命擔任警四的代理班長。
-    一心想進入國鐵工作，一方面是自身就是[鐵道迷](../Page/鐵道迷.md "wikilink")，小時候就很喜歡鐵道，也對鐵道相關的資訊非常清楚，並希望成為[新幹線或](../Page/新幹線.md "wikilink")[磁浮列車的駕駛](https://zh.wikipedia.org/wiki/磁浮列車 "wikilink")，另一方面是本性較追求安穩的生活，國鐵福利制度完善，又不會有[裁員危機](../Page/裁員.md "wikilink")，因此國鐵工作十分適合自己需求。然而剛進學生鐵道OJT時得知自己是被排在公安隊頓時感到失望，認為與本追求安穩的國鐵生活完全不符，不過因為新人不會被派遣危險任務而讓他暫時鬆口氣，對公安隊的工作仍然十分盡職。
+    一心想進入國鐵工作，一方面是自身就是[鐵道迷](../Page/鐵道迷.md "wikilink")，小時候就很喜歡鐵道，也對鐵道相關的資訊非常清楚，並希望成為[新幹線](../Page/新幹線.md "wikilink")或[磁浮列車的駕駛](https://zh.wikipedia.org/wiki/磁浮列車 "wikilink")，另一方面是本性較追求安穩的生活，國鐵福利制度完善，又不會有[裁員](../Page/裁員.md "wikilink")危機，因此國鐵工作十分適合自己需求。然而剛進學生鐵道OJT時得知自己是被排在公安隊頓時感到失望，認為與本追求安穩的國鐵生活完全不符，不過因為新人不會被派遣危險任務而讓他暫時鬆口氣，對公安隊的工作仍然十分盡職。
     小時候曾被一位[DD51型的駕駛救過一命](../Page/日本國鐵DD51型柴油機車.md "wikilink")，這也成為他如此憧憬當國鐵駕駛的原因之一。
-    每天早上都在房間裡用超大規模的[鐵道模型練習駕駛](../Page/鐵道模型.md "wikilink")\[5\]。
+    每天早上都在房間裡用超大規模的[鐵道模型](../Page/鐵道模型.md "wikilink")練習駕駛\[5\]。
     姓氏取自[高山本線](../Page/高山本線.md "wikilink")。
 
 <!-- end list -->
@@ -35,7 +35,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    容姿端麗、[天然純真](../Page/天然呆.md "wikilink")、頭腦明晰的[巨乳少女](../Page/巨乳.md "wikilink")。白精華高中二年級生。有著能夠記住[東京車站全部列車時刻表的記憶力](https://zh.wikipedia.org/wiki/東京車站 "wikilink")。對直人表示想進國鐵工作是為了見某人。年幼時曾在[交通博物館受困於倉庫中後被直人所救](../Page/交通博物館_\(東京\).md "wikilink")，因此對直人有好感與恩情，但直人本身已不太記得此事。
+    容姿端麗、[天然純真](../Page/天然呆.md "wikilink")、頭腦明晰的[巨乳](../Page/巨乳.md "wikilink")少女。白精華高中二年級生。有著能夠記住[東京車站全部列車時刻表的記憶力](https://zh.wikipedia.org/wiki/東京車站 "wikilink")。對直人表示想進國鐵工作是為了見某人。年幼時曾在[交通博物館受困於倉庫中後被直人所救](../Page/交通博物館_\(東京\).md "wikilink")，因此對直人有好感與恩情，但直人本身已不太記得此事。
     缺乏運動神經，短期研修進行射擊訓練時曾經打中[天花板](https://zh.wikipedia.org/wiki/天花板 "wikilink")。
     姓氏取自[小海線](../Page/小海線.md "wikilink")。
 
@@ -103,7 +103,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    鐵道公安隊[輕井澤分室的公安隊員](../Page/輕井澤.md "wikilink")，管理EB42型鐵路[腳踏車](https://zh.wikipedia.org/wiki/腳踏車 "wikilink")「愛伯特君」。
+    鐵道公安隊[輕井澤](../Page/輕井澤.md "wikilink")分室的公安隊員，管理EB42型鐵路[腳踏車](https://zh.wikipedia.org/wiki/腳踏車 "wikilink")「愛伯特君」。
     姓氏取自[和歌山線](../Page/和歌山線.md "wikilink")。
 
 <!-- end list -->
@@ -176,7 +176,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
   -
     KiHa381系柴聯車的列車長，留著一頭金色的長髮。曾在列車動力系統出狀況時受到直人與飯田的幫助。
     人物原形為玩具公司旗下的「」系列第二彈登場角色。
-    姓氏取自[三陸縱貫線](https://zh.wikipedia.org/wiki/三陸縱貫線 "wikilink")[北谷灣線的](../Page/北谷灣線.md "wikilink")[久慈車站](../Page/久慈車站.md "wikilink")，名字則由北谷灣線名「リアス」反序而來。
+    姓氏取自[三陸縱貫線](https://zh.wikipedia.org/wiki/三陸縱貫線 "wikilink")[北谷灣線](../Page/北谷灣線.md "wikilink")的[久慈車站](../Page/久慈車站.md "wikilink")，名字則由北谷灣線名「リアス」反序而來。
 
 <!-- end list -->
 
@@ -200,7 +200,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
     原RJ成員、男性，後來脫離並向輕井澤公安隊尋求庇護，並提供RJ欲發動關東[火力發電廠同時爆炸的大規模攻擊計畫情報](https://zh.wikipedia.org/wiki/火力發電廠 "wikilink")。
-    有個急切需要[肝臟移植的妹妹優奈](../Page/肝臟.md "wikilink")（）。
+    有個急切需要[肝臟](../Page/肝臟.md "wikilink")移植的妹妹優奈（）。
     姓氏取自[夷隅線舊稱木原線](https://zh.wikipedia.org/wiki/夷隅線 "wikilink")。
 
 <!-- end list -->
@@ -237,8 +237,8 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 ### 阿特拉王國
 
   -
-    [地中海小國阿特拉王國的王子](../Page/地中海.md "wikilink")，家族王位繼承順位為第五位，金髮碧眼的美少年。也是一名鐵路迷。
-    為了拜訪[友好城市](../Page/友好城市.md "wikilink")[札幌市而搭乘北斗星號列車前往並由警四負責護送](../Page/札幌市.md "wikilink")，結果途中遭可疑份子襲擊。
+    [地中海](../Page/地中海.md "wikilink")小國阿特拉王國的王子，家族王位繼承順位為第五位，金髮碧眼的美少年。也是一名鐵路迷。
+    為了拜訪[友好城市](../Page/友好城市.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")而搭乘北斗星號列車前往並由警四負責護送，結果途中遭可疑份子襲擊。
     與小遙過去就認識（說是在英國留學時的同學）。真實性別其實是女性，似乎因特別原因才冒充成男性，該秘密目前僅有王族中少數人與直人知道。似乎對直人有好感。
 
 <!-- end list -->
@@ -254,7 +254,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 ### 其他
 
   -
-    誠愛女子學園國中部二年級生，擁有一頭黑色[雙馬尾長髮](../Page/雙馬尾.md "wikilink")。在[京濱東北線被](../Page/京濱東北線.md "wikilink")[癡漢騷擾時受到了葵的幫助](https://zh.wikipedia.org/wiki/癡漢 "wikilink")，因此很仰慕葵，並稱葵為「姐姐大人」。
+    誠愛女子學園國中部二年級生，擁有一頭黑色[雙馬尾](../Page/雙馬尾.md "wikilink")長髮。在[京濱東北線](../Page/京濱東北線.md "wikilink")被[癡漢騷擾時受到了葵的幫助](https://zh.wikipedia.org/wiki/癡漢 "wikilink")，因此很仰慕葵，並稱葵為「姐姐大人」。
     姓氏取自[北上線](../Page/北上線.md "wikilink")。
 
 <!-- end list -->
@@ -268,7 +268,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
     高千穗旅館老闆的女兒，高中三年級。協助警四調查幽靈事件。似乎對直人有好感。
-    姓氏取自[根室本線釧路車站至根室車站區間的暱稱](../Page/根室本線.md "wikilink")「花咲線」。
+    姓氏取自[根室本線](../Page/根室本線.md "wikilink")釧路車站至根室車站區間的暱稱「花咲線」。
 
 <!-- end list -->
 
@@ -276,7 +276,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
     生日1982年10月17日，[天秤座](../Page/天秤座.md "wikilink")，A型，身高163[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")。
     女警官，非常無法容忍眼前任何交通違規的人，曾因小葵為追上直人與小遙強行通過道路被她撞見而遭到搏命追逐\[8\]。
     人物原形為玩具公司旗下的「」系列第二彈登場角色。
-    姓名全取自[有樂町線的](../Page/有樂町線.md "wikilink")[櫻田門車站](../Page/櫻田門站.md "wikilink")，「[櫻田門](../Page/櫻田門.md "wikilink")」同時也是[警視廳的代稱](../Page/警視廳.md "wikilink")。
+    姓名全取自[有樂町線](../Page/有樂町線.md "wikilink")的[櫻田門車站](../Page/櫻田門站.md "wikilink")，「[櫻田門](../Page/櫻田門.md "wikilink")」同時也是[警視廳](../Page/警視廳.md "wikilink")的代稱。
 
 <!-- end list -->
 
@@ -335,7 +335,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
     ABT式齒軌電力機車，退役後保存4輛，留在[輕井澤車站的車庫內分為麓側](https://zh.wikipedia.org/wiki/輕井澤車站 "wikilink")3輛、山側1輛，中間連結10系客車「[白山](https://zh.wikipedia.org/wiki/淺間號列車 "wikilink")」8輛，作超高擬真度模擬器使用。
-    此外另有架空的軌道自行車**EB42形**「ABT君」，外型和機能以ED42型為基礎，車體縮小，以人力驅動齒輪，可以回生電軔控制下山速度。此車在[信越本線坍方中斷時行走留有齒軌的舊線](../Page/信越本線.md "wikilink")，緊急運送器官移植用的肝臟。
+    此外另有架空的軌道自行車**EB42形**「ABT君」，外型和機能以ED42型為基礎，車體縮小，以人力驅動齒輪，可以回生電軔控制下山速度。此車在[信越本線](../Page/信越本線.md "wikilink")坍方中斷時行走留有齒軌的舊線，緊急運送器官移植用的肝臟。
 
 <!-- end list -->
 
@@ -464,7 +464,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    架空車輛，駕駛車外型取自，係國鐵唯一推拉式[燃氣渦輪機車](https://zh.wikipedia.org/wiki/燃氣渦輪機車 "wikilink")，中間車外型則取自，有傾斜功能。最高時速120公里，曾在[山陰本線試驗運轉創下柴聯車最高時速](../Page/山陰本線.md "wikilink")158公里的紀錄。在動畫版中因車輛老舊而出現渦輪有爆炸聲、空調停止等故障情形。
+    架空車輛，駕駛車外型取自，係國鐵唯一推拉式[燃氣渦輪機車](https://zh.wikipedia.org/wiki/燃氣渦輪機車 "wikilink")，中間車外型則取自，有傾斜功能。最高時速120公里，曾在[山陰本線](../Page/山陰本線.md "wikilink")試驗運轉創下柴聯車最高時速158公里的紀錄。在動畫版中因車輛老舊而出現渦輪有爆炸聲、空調停止等故障情形。
     現實中曾存在的燃氣渦輪車組則是試驗性質的。
 
 <!-- end list -->
@@ -592,7 +592,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
   -
 
-#### [新幹線列車](../Page/新幹線.md "wikilink")
+#### [新幹線](../Page/新幹線.md "wikilink")列車
 
   - [新幹線0系電聯車](../Page/新幹線0系電聯車.md "wikilink")
 
@@ -750,7 +750,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
       -
 
-#### [東北](https://zh.wikipedia.org/wiki/东北地方_\(日本\) "wikilink")·[北海道地方](../Page/北海道.md "wikilink")
+#### [東北](https://zh.wikipedia.org/wiki/东北地方_\(日本\) "wikilink")·[北海道](../Page/北海道.md "wikilink")地方
 
   - [津輕線](../Page/津輕線.md "wikilink")
 
@@ -885,7 +885,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 ### 國鐵相關
 
   -
-    本作登場的鐵道組織，原型為[JR分割民營化前的國營鐵道企業](../Page/JR.md "wikilink")[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")。
+    本作登場的鐵道組織，原型為[JR](../Page/JR.md "wikilink")分割民營化前的國營鐵道企業[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")。
 
 <!-- end list -->
 
@@ -896,7 +896,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    加入學生鐵道OJT前所需的30天研修課程，於[西國分寺站附近的](../Page/西國分寺站.md "wikilink")「國鐵中央學院」進行。內容包含鐵道與相關法律知識、武道與射擊訓練（於警察學校進行）、[自衛隊入伍體驗](https://zh.wikipedia.org/wiki/自衛隊 "wikilink")、[蒸汽機車投炭訓練與列車防護訓練](../Page/蒸汽機車.md "wikilink")。
+    加入學生鐵道OJT前所需的30天研修課程，於[西國分寺站](../Page/西國分寺站.md "wikilink")附近的「國鐵中央學院」進行。內容包含鐵道與相關法律知識、武道與射擊訓練（於警察學校進行）、[自衛隊入伍體驗](https://zh.wikipedia.org/wiki/自衛隊 "wikilink")、[蒸汽機車](../Page/蒸汽機車.md "wikilink")投炭訓練與列車防護訓練。
 
 <!-- end list -->
 
@@ -930,7 +930,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    本作登場的虛構恐怖組織，以[國鐵分割民營化為目標的激進派份子組成](../Page/國鐵分割民營化.md "wikilink")。成員多用假名互稱。
+    本作登場的虛構恐怖組織，以[國鐵分割民營化](../Page/國鐵分割民營化.md "wikilink")為目標的激進派份子組成。成員多用假名互稱。
 
 ### 其他
 
@@ -947,7 +947,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    位於[地中海的虛構小國](../Page/地中海.md "wikilink")，雖然國土面積極小，大型[电机工業卻相當發達](https://zh.wikipedia.org/wiki/电机 "wikilink")，許多電車相關與電子產品皆從其出產，[国民生产总值高達一兆](../Page/国民生产总值.md "wikilink")。
+    位於[地中海](../Page/地中海.md "wikilink")的虛構小國，雖然國土面積極小，大型[电机工業卻相當發達](https://zh.wikipedia.org/wiki/电机 "wikilink")，許多電車相關與電子產品皆從其出產，[国民生产总值](../Page/国民生产总值.md "wikilink")高達一兆。
     過去採用帝國制度，但現都以「國王」來取代「帝王」稱呼。
 
 ## 出版資料
@@ -1410,7 +1410,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
 ## 遊戲
 
-原本預定由[5pb.在](../Page/5pb..md "wikilink")2014年11月27日發售[PlayStation
+原本預定由[5pb.](../Page/5pb..md "wikilink")在2014年11月27日發售[PlayStation
 Vita的](../Page/PlayStation_Vita.md "wikilink")[冒險類型遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")《**RAIL
 WARS\!
 -軽井沢より殺意を乗せて-**》\[16\]，後來在2014年10月24日將發售日變更為未定\[17\]，最後官方網站在2016年1月28日宣布取消發售。\[18\]

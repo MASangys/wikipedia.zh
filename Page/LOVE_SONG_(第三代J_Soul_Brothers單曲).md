@@ -7,7 +7,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")；5月27日於
 ## 概要
 
   - A面曲《LOVE
-    SONG》為[朝日電視台節目](../Page/朝日電視台.md "wikilink")《お願い\!ランキング》2011年5月度片尾曲，亦是LIXIL住宅研究所「アイフルホーム」電視廣告歌曲、[Rekochoku電視廣告歌曲和](https://zh.wikipedia.org/wiki/Rekochoku "wikilink")[d頻道電視劇](../Page/NTT_DOCOMO.md "wikilink")「戀愛是必然的
+    SONG》為[朝日電視台](../Page/朝日電視台.md "wikilink")節目《お願い\!ランキング》2011年5月度片尾曲，亦是LIXIL住宅研究所「アイフルホーム」電視廣告歌曲、[Rekochoku電視廣告歌曲和](https://zh.wikipedia.org/wiki/Rekochoku "wikilink")[d頻道電視劇](../Page/NTT_DOCOMO.md "wikilink")「戀愛是必然的
     〜在電視劇看到\! 新感覺戀愛法則〜」的主題曲
   - 《LOVE
     SONG》由[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")《[Heavenly

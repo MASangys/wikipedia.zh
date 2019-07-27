@@ -1,4 +1,4 @@
-**與謝天橋立IC**（平假名：よざあまのはしだてインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宮津市的](../Page/宮津市.md "wikilink")[鳥取豐岡宮津自動車道之](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**與謝天橋立IC**（平假名：よざあまのはしだてインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宮津市](../Page/宮津市.md "wikilink")的[鳥取豐岡宮津自動車道之](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,9 +13,9 @@
 ## 歷史
 
   - 2001年1月 -
-    [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC至與謝天橋立IC之間開始動工](../Page/宮津天橋立IC.md "wikilink")。
+    [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")至與謝天橋立IC之間開始動工。
   - 2011年3月12日 -
-    [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC至與謝天橋立IC之間開通](../Page/宮津天橋立IC.md "wikilink")，此交流道也同時啟用。
+    [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")至與謝天橋立IC之間開通，此交流道也同時啟用。
   - 2016年（預計） -
     [鳥取豐岡宮津自動車道與謝天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[大宮森本IC之間開通](https://zh.wikipedia.org/wiki/大宮森本IC "wikilink")。
 
@@ -23,7 +23,7 @@
 
   - 宮津與謝消防總部
   - 宮津市立吉津小學
-  - [北近畿丹後鐵道野田川站](../Page/北近畿丹後鐵道.md "wikilink")
+  - [北近畿丹後鐵道](../Page/北近畿丹後鐵道.md "wikilink")野田川站
 
 ## 鄰近設施
 

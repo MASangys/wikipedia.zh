@@ -1,4 +1,4 @@
-《**Dear／啟程的那一天…**》是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[川嶋愛在](../Page/川嶋愛.md "wikilink")2006年2月1日發售的第8張單曲\[1\]。
+《**Dear／啟程的那一天…**》是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[川嶋愛](../Page/川嶋愛.md "wikilink")在2006年2月1日發售的第8張單曲\[1\]。
 
 ## 概要
 
@@ -16,12 +16,12 @@
     編曲：[hal](https://zh.wikipedia.org/wiki/HΛL "wikilink")
       -
         [RKB每日放送](../Page/RKB每日放送.md "wikilink")《今日感電視》2006年1月度的終場曲
-        為了支持著自己的人們和本人的粉絲所作的歌曲。PV是將整個[電影院包下來所拍攝的](../Page/電影院.md "wikilink")，有如[戲劇一般的發展](https://zh.wikipedia.org/wiki/戲劇 "wikilink")。
+        為了支持著自己的人們和本人的粉絲所作的歌曲。PV是將整個[電影院](../Page/電影院.md "wikilink")包下來所拍攝的，有如[戲劇一般的發展](https://zh.wikipedia.org/wiki/戲劇 "wikilink")。
 2.  **啟程的那一天…**
     編曲：satoshi takebe
       -
         川嶋愛在[I
-        WiSH時代發行的](../Page/I_WiSH.md "wikilink")[迎向未來的原曲](../Page/迎向未來.md "wikilink")。在高中時期街頭演出時已先行公開，重新錄製後和同為[畢業歌曲的](../Page/畢業.md "wikilink")《Dear》一齊發售。不過歌詞和當初的並不一樣\[2\]。
+        WiSH時代發行的](../Page/I_WiSH.md "wikilink")[迎向未來](../Page/迎向未來.md "wikilink")的原曲。在高中時期街頭演出時已先行公開，重新錄製後和同為[畢業](../Page/畢業.md "wikilink")歌曲的《Dear》一齊發售。不過歌詞和當初的並不一樣\[2\]。
         PV有在學校拍攝和春夏秋冬各種版本。初回盤B中收錄的PV為在學校拍攝的版本。春夏天冬各版本中則有季節的風景詩（風物詩）登場。
 3.  **Bye Bye**
     編曲：takashi nagasawa

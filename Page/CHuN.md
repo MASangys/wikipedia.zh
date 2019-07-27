@@ -1,6 +1,6 @@
 **CHuN**，本名**翁志強**，是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。
 
-CHuN從[國立台灣大學醫事技術學系畢業後](https://zh.wikipedia.org/wiki/國立台灣大學 "wikilink")，不顧家人反對，開始立志於插畫/漫畫事業。從事插畫工作至2008年開始向日本的[出版社投稿](../Page/出版社.md "wikilink")。出道作為《王騎》，2008年刊載於[SQUARE
+CHuN從[國立台灣大學醫事技術學系畢業後](https://zh.wikipedia.org/wiki/國立台灣大學 "wikilink")，不顧家人反對，開始立志於插畫/漫畫事業。從事插畫工作至2008年開始向日本的[出版社](../Page/出版社.md "wikilink")投稿。出道作為《王騎》，2008年刊載於[SQUARE
 ENIX旗下的漫畫雜誌](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")《[月刊GANGAN
 POWERED](https://zh.wikipedia.org/wiki/月刊GANGAN_POWERED "wikilink")》。CHuN創作的《魔王逗勇者》（日语：）2008年開始於同公司漫畫雜誌《[月刊GANGAN
 WING](../Page/月刊GANGAN_WING.md "wikilink")》上連載，完結篇發表於同公司的線上漫畫網站《[GANGAN

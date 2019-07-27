@@ -56,7 +56,7 @@
     L04AB06
     [戈利木单抗](https://zh.wikipedia.org/wiki/戈利木单抗 "wikilink")（Golimumab）
 
-### L04AC [白细胞介素抑制剂](../Page/白细胞介素.md "wikilink")（Interleukin inhibitors）
+### L04AC [白细胞介素](../Page/白细胞介素.md "wikilink")抑制剂（Interleukin inhibitors）
 
   -
     L04AC01
@@ -80,7 +80,7 @@
     L04AC10
     [Secukinumab](https://zh.wikipedia.org/wiki/Secukinumab "wikilink")
 
-### L04AD [钙调磷酸酶抑制剂](../Page/钙调磷酸酶.md "wikilink")（Calcineurin inhibitors）
+### L04AD [钙调磷酸酶](../Page/钙调磷酸酶.md "wikilink")抑制剂（Calcineurin inhibitors）
 
   -
     L04AD01 [环孢素](../Page/环孢素.md "wikilink")（Ciclosporin）

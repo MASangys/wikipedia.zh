@@ -1,7 +1,7 @@
 [MIonNEX6.jpg](https://zh.wikipedia.org/wiki/File:MIonNEX6.jpg "fig:MIonNEX6.jpg")
 
 **MI热靴**（Multi Interface
-Shoe）是索尼公司于2012年9月推出的一种[热靴接口](../Page/热靴.md "wikilink")，物理上基于ISO518规范\[1\]，可以触发兼容闪光灯，但同时通过前端附带的金手指提供额外功能，除了配合原厂灯实现TTL功能外，还可以支持麦克风、GPS等与相机交换信息。
+Shoe）是索尼公司于2012年9月推出的一种[热靴](../Page/热靴.md "wikilink")接口，物理上基于ISO518规范\[1\]，可以触发兼容闪光灯，但同时通过前端附带的金手指提供额外功能，除了配合原厂灯实现TTL功能外，还可以支持麦克风、GPS等与相机交换信息。
 
 **MI热靴**用于替代索尼之前继承[美能达单反系统而获得的](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")**i-ISO**热靴，为标准冷靴附件，与单点热靴产品提供更好的支持。索尼公司在之后推出的相机与摄像机产品上以此来作为热靴标准配置。
 

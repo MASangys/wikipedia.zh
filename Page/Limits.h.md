@@ -2,7 +2,7 @@
 
 ## [-{zh-cn:宏;zh-tw:巨集}-](../Page/巨集.md "wikilink")
 
-以下的常數已32位元[電腦的常見數值為例](https://zh.wikipedia.org/wiki/電腦 "wikilink")，但不同[硬體](https://zh.wikipedia.org/wiki/硬體 "wikilink")、[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")、[編譯器可能會有不同的數值](../Page/編譯器.md "wikilink")。
+以下的常數已32位元[電腦的常見數值為例](https://zh.wikipedia.org/wiki/電腦 "wikilink")，但不同[硬體](https://zh.wikipedia.org/wiki/硬體 "wikilink")、[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")、[編譯器](../Page/編譯器.md "wikilink")可能會有不同的數值。
 
   - CHAR_BIT 字节的最小位数：8
   - SCHAR_MIN 有符号字符类型的最小值：-128

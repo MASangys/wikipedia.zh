@@ -2,7 +2,7 @@
 
 ## 解説
 
-2008年8月27日發售。[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")[編曲以及](https://zh.wikipedia.org/wiki/編曲 "wikilink")[音樂製作人是](../Page/音樂製作人.md "wikilink")[flumpool](https://zh.wikipedia.org/wiki/flumpool "wikilink")。
+2008年8月27日發售。[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")[編曲以及](https://zh.wikipedia.org/wiki/編曲 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")是[flumpool](https://zh.wikipedia.org/wiki/flumpool "wikilink")。
 
 ## 收錄曲
 

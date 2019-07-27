@@ -13,12 +13,12 @@ g）大約是4.0到6.5\[2\]。大多數的O型次矮星在銀河系中的移動�
 1970年代早期[傑西·格林斯坦](https://zh.wikipedia.org/wiki/傑西·格林斯坦 "wikilink")（Jesse
 L.
 Greenstein）和[安妮拉·薩金特](https://zh.wikipedia.org/wiki/安妮拉·薩金特 "wikilink")（Anneila
-Sargent）量測其表面溫度和重力以將該種恆星定位在赫羅圖的正確位置。帕洛馬－格林巡天、漢堡巡天、[史隆數位巡天和Ia超新星前身星巡天](../Page/史隆數位巡天.md "wikilink")（Supernova
+Sargent）量測其表面溫度和重力以將該種恆星定位在赫羅圖的正確位置。帕洛馬－格林巡天、漢堡巡天、[史隆數位巡天](../Page/史隆數位巡天.md "wikilink")和Ia超新星前身星巡天（Supernova
 Ia Progenitor Survey，ESO-SPY）中發現了許多O型次矮星\[5\]。
 
 ## 數量
 
-O型次矮星的數量大約只有另一種類似恆星[B型次矮星的三分之一](../Page/B型次矮星.md "wikilink")\[6\]。
+O型次矮星的數量大約只有另一種類似恆星[B型次矮星](../Page/B型次矮星.md "wikilink")的三分之一\[6\]。
 
 ## 光譜
 
@@ -37,7 +37,7 @@ O型次矮星的光譜相當多變。在光譜中有強烈氦譜線的被歸類�
 
 ## 生命循環
 
-O型次矮星在赫羅圖上的位置是在極端[水平分支](../Page/水平分支.md "wikilink")。它是來自兩個恆星演化階段，分別是後[漸近巨星分支](../Page/漸近巨星分支.md "wikilink")（明亮的O型次矮星）和[延伸水平分支](https://zh.wikipedia.org/wiki/延伸水平分支 "wikilink")（緻密O型次矮星）。後漸進巨星分支一般認為在[行星狀星雲中可以找到](https://zh.wikipedia.org/wiki/行星狀星雲 "wikilink")，但至今在其中只找到四顆O型次矮星。緻密O型次矮星被認為是B型次矮星的演化結果，但兩者的統計結果並不符合這項推測。另一個替代理論是O型次矮星可能是兩顆[白矮星合併的產物](../Page/白矮星.md "wikilink")。這可能會出現在密近雙星，並且會因為軌道衰減產生[重力波](../Page/重力波_\(相對論\).md "wikilink")\[13\]。
+O型次矮星在赫羅圖上的位置是在極端[水平分支](../Page/水平分支.md "wikilink")。它是來自兩個恆星演化階段，分別是後[漸近巨星分支](../Page/漸近巨星分支.md "wikilink")（明亮的O型次矮星）和[延伸水平分支](https://zh.wikipedia.org/wiki/延伸水平分支 "wikilink")（緻密O型次矮星）。後漸進巨星分支一般認為在[行星狀星雲中可以找到](https://zh.wikipedia.org/wiki/行星狀星雲 "wikilink")，但至今在其中只找到四顆O型次矮星。緻密O型次矮星被認為是B型次矮星的演化結果，但兩者的統計結果並不符合這項推測。另一個替代理論是O型次矮星可能是兩顆[白矮星](../Page/白矮星.md "wikilink")合併的產物。這可能會出現在密近雙星，並且會因為軌道衰減產生[重力波](../Page/重力波_\(相對論\).md "wikilink")\[13\]。
 
 ## 參考資料
 

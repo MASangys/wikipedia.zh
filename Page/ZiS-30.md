@@ -1,4 +1,4 @@
-**ZiS-30**是[蘇聯于](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1941年開始生產的[驅逐戰車或稱為自行反坦克炮](../Page/驅逐戰車.md "wikilink")。
+**ZiS-30**是[蘇聯于](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1941年開始生產的[驅逐戰車](../Page/驅逐戰車.md "wikilink")或稱為自行反坦克炮。
 
 ## 開發及設計
 
@@ -9,7 +9,7 @@ M1937
 1941年，約有100輛的共青團號拖炮車上被安裝了[57 mm
 ZiS-2反坦克炮](../Page/M-43_57mm反坦克炮_\(ZiS-2\).md "wikilink")，以及一塊薄薄的裝甲板。
 
-ZiS-30在1941-1942年[莫斯科戰役期間](../Page/莫斯科戰役.md "wikilink")，主要裝備[蘇聯坦克旅的反坦克營](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，應付大量德軍裝甲部隊的入侵。\[1\]
+ZiS-30在1941-1942年[莫斯科戰役](../Page/莫斯科戰役.md "wikilink")期間，主要裝備[蘇聯坦克旅的反坦克營](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，應付大量德軍裝甲部隊的入侵。\[1\]
 
 ## 實戰應用
 

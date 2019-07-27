@@ -1,5 +1,5 @@
 **南十字座BG**，又名**CP-58 4344**，**HD 108968**、**SAO 240027**、**HR
-4768**，是[南十字座的一颗恒星](../Page/南十字座.md "wikilink")\[1\]\[2\]，视星等为5.48，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")300.42，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")3.35，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
+4768**，是[南十字座](../Page/南十字座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.48，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")300.42，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")3.35，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
 

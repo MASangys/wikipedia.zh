@@ -1,5 +1,5 @@
 *'Alt-J
-**(又名**∆*')是一支于2007年成立于英国利兹的[独立摇滚三人组合](../Page/独立摇滚.md "wikilink")。他们的第一张专辑*[An
+**(又名**∆*')是一支于2007年成立于英国利兹的[独立摇滚](../Page/独立摇滚.md "wikilink")三人组合。他们的第一张专辑*[An
 Awesome
 Wave](https://zh.wikipedia.org/wiki/An_Awesome_Wave "wikilink")*与2013年5月在欧洲发布\[1\]，在2012年他们赢得了英国[水星音樂獎](../Page/水星音樂獎.md "wikilink")。
 

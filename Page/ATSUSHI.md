@@ -1,7 +1,7 @@
-**ATSUSHI**（）是[日本的](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")、RED
+**ATSUSHI**（）是[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")。[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")、RED
 DIAMOND DOGS的主唱、原[COLOR的主唱兼製作](../Page/DEEP_\(歌手組合\).md "wikilink")。
 
-[埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市出身](../Page/越谷市.md "wikilink")。身高175cm。
+[埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市](../Page/越谷市.md "wikilink")出身。身高175cm。
 
 ## 來歷
 
@@ -23,7 +23,7 @@ in maze）提供歌詞、從而以作詞家身份出道。
 尊敬[久保田利伸](../Page/久保田利伸.md "wikilink")，於2007年3月9日集合多是的流行歌手一起演出「MTV iCON
 久保田利伸 powered by 楽天徵選」。與在日本第一次被選為i CON的久保田利伸一起演唱「Indigo
 Waltz」。ATSUSHI在ASAYAN的時候，也唱過他的「Missing」和「Cymbals」。他以**ATSUSHI from
-EXILE**身份参加於2004年2月25日所發售[久保田利伸的感恩專](../Page/久保田利伸.md "wikilink")「[SOUL
+EXILE**身份参加於2004年2月25日所發售[久保田利伸](../Page/久保田利伸.md "wikilink")的感恩專「[SOUL
 TREE〜a musical tribute to toshinobu
 kubota〜](https://zh.wikipedia.org/wiki/SOUL_TREE〜a_musical_tribute_to_toshinobu_kubota〜 "wikilink")」翻唱「Cymbals」。
 
@@ -42,7 +42,7 @@ ATSUSHI**名義發售作以朝日電視台劇集「[陽はまた昇る](https://
 Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」作合併發售。
 
 2012年1月1日以専輯「[Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#Solo_/_EXILE_ATSUSHI "wikilink")」與「[EXILE
-JAPAN](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN "wikilink")」雙合併専輯發售。1月12日，前往中國「騰訊網星光大典」以來賓身份翻唱[王菲的](../Page/王菲.md "wikilink")「我願意」、這是他首次以個人身份於中國表演\[5\]。3月7日與TAKAHIRO參與JAPAN
+JAPAN](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN "wikilink")」雙合併専輯發售。1月12日，前往中國「騰訊網星光大典」以來賓身份翻唱[王菲](../Page/王菲.md "wikilink")的「我願意」、這是他首次以個人身份於中國表演\[5\]。3月7日與TAKAHIRO參與JAPAN
 UNITED with MUSIC名義發售的單曲「All You Need Is
 Love」\[6\]。4月14日開始的巨蛋巡迴演唱會「EXILE TRIBE
 LIVE TOUR 2012 〜TOWER OF
@@ -60,13 +60,13 @@ Vol.1』中收錄有2人一起翻唱EXILE的作品「[羽1/2](https://zh.wikiped
 
 2016年5月28日 - 9月3日，舉辦了首個個人巨蛋巡迴演唱會『EXILE ATSUSHI LIVE TOUR 2016 "IT'S SHOW
 TIME\!\!"』、同時發表了組成樂隊組合「[RED DIAMOND
-DOGS](https://zh.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink")」。6月26日、成為首個日本人於[道奇體育場獻唱日本國歌](../Page/道奇體育場.md "wikilink")。8月31日、發表了於2017年整年的活動據點會在海外。預定2018年才回歸日本國内活動，而其間EXILE的活動會受限制\[11\]。
+DOGS](https://zh.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink")」。6月26日、成為首個日本人於[道奇體育場](../Page/道奇體育場.md "wikilink")獻唱日本國歌。8月31日、發表了於2017年整年的活動據點會在海外。預定2018年才回歸日本國内活動，而其間EXILE的活動會受限制\[11\]。
 
 ## 人物
 
   - 愛好，是鋼琴和讀書。
   - 初次中·高中時代從屬於足球部，曾夢想當職業球員。
-  - 戴著[太陽眼鏡是其特徵](../Page/太陽眼鏡.md "wikilink")。
+  - 戴著[太陽眼鏡](../Page/太陽眼鏡.md "wikilink")是其特徵。
   - 右胸的刺青刺著『I'm gentle and convey true
     love』。背後則是「EVOLUTION」。右手腕是19歲的時候刺的，象徵平和的水牛。ATSUSHI說「刺青不是為了炫耀，而是想要在想要逃離某事物或後退的時候有能支撐我的東西。就是說這些刺青是為了對自己發誓要而刺的」。
     \[12\]以前是會抽菸的人，就算制止他也會繼續抽，不過HIRO說「ATSUSHI你要抽的話我也要抽喔」，一句話就制止了他。
@@ -135,7 +135,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </ol>
 </div>
 </div></td>
-<td><p>以EXILE ATSUSHI &amp; <a href="../Page/辻井伸行.md" title="wikilink">辻井伸行名義發行</a>。</p></td>
+<td><p>以EXILE ATSUSHI &amp; <a href="../Page/辻井伸行.md" title="wikilink">辻井伸行</a>名義發行。</p></td>
 <td><p>3位</p></td>
 </tr>
 <tr class="even">
@@ -190,7 +190,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </div>
 </div></td>
 <td><p>以EXILE ATSUSHI + <a href="../Page/AI_(歌手).md" title="wikilink">AI名義</a>。[14]<br />
-<a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>・<a href="../Page/富士電視台.md" title="wikilink">富士電視台連續劇</a>『HEAT』主題曲</p></td>
+<a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>・<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>連續劇『HEAT』主題曲</p></td>
 <td><p>7位</p></td>
 </tr>
 <tr class="even">
@@ -325,11 +325,11 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Rainy_Blue" title="wikilink">Rainy Blue</a></strong></p></td>
-<td><p><a href="../Page/德永英明.md" title="wikilink">德永英明的出道曲</a>。於個人演唱會「SOLO」中演唱。</p></td>
+<td><p><a href="../Page/德永英明.md" title="wikilink">德永英明</a>的出道曲。於個人演唱會「SOLO」中演唱。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/WILL_(中島美嘉單曲).md" title="wikilink">WILL</a></strong></p></td>
-<td><p><a href="../Page/中島美嘉.md" title="wikilink">中島美嘉的樂曲</a>。於個人演唱會「SOLO」與中島美嘉共同演出。</p></td>
+<td><p><a href="../Page/中島美嘉.md" title="wikilink">中島美嘉</a>的樂曲。於個人演唱會「SOLO」與中島美嘉共同演出。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/STARS_(中島美嘉單曲).md" title="wikilink">STARS</a></strong></p></td>
@@ -345,7 +345,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Cymbals" title="wikilink">Cymbals</a></strong></p></td>
-<td><p><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸的樂曲</a>。於個人演唱會「SOLO」中演唱。並且在<a href="https://zh.wikipedia.org/wiki/ASAYAN" title="wikilink">ASAYAN時也有唱</a>。<br />
+<td><p><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a>的樂曲。於個人演唱會「SOLO」中演唱。並且在<a href="https://zh.wikipedia.org/wiki/ASAYAN" title="wikilink">ASAYAN時也有唱</a>。<br />
 在久保田利伸的<a href="https://zh.wikipedia.org/wiki/致敬・專輯" title="wikilink">致敬・專輯</a>、『<a href="https://zh.wikipedia.org/wiki/SOUL_TREE〜a_musical_tribute_to_toshinobu_kubota〜" title="wikilink">SOUL TREE〜a musical tribute to toshinobu kubota〜</a>』有翻唱。</p></td>
 </tr>
 <tr class="even">
@@ -367,7 +367,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/OH_MY_LITTLE_GIRL" title="wikilink">OH MY LITTLE GIRL</a></strong></p></td>
-<td><p><a href="../Page/尾崎豐.md" title="wikilink">尾崎豐的樂曲</a>。於個人演唱會「SOLO」中演唱。</p></td>
+<td><p><a href="../Page/尾崎豐.md" title="wikilink">尾崎豐</a>的樂曲。於個人演唱會「SOLO」中演唱。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/I_LOVE_YOU" title="wikilink">I LOVE YOU</a></strong></p></td>
@@ -375,7 +375,7 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/涙のキッス" title="wikilink">涙のキッス</a></strong></p></td>
-<td><p><a href="../Page/南方之星.md" title="wikilink">南方之星的樂曲</a>。於個人演唱會「SOLO」中演唱。</p></td>
+<td><p><a href="../Page/南方之星.md" title="wikilink">南方之星</a>的樂曲。於個人演唱會「SOLO」中演唱。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/CHANGE_THE_WORLD" title="wikilink">CHANGE THE WORLD</a></strong></p></td>
@@ -411,23 +411,23 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Lion_Heart" title="wikilink">Lion Heart</a></strong></p></td>
-<td><p><a href="../Page/SMAP.md" title="wikilink">SMAP的樂曲</a>。於ASAYAN及個人演唱會「The Roots」中演唱。</p></td>
+<td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a>的樂曲。於ASAYAN及個人演唱會「The Roots」中演唱。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/最後的雨" title="wikilink">最後的雨</a></strong></p></td>
-<td><p><a href="../Page/中西保志.md" title="wikilink">中西保志的樂曲</a>。</p></td>
+<td><p><a href="../Page/中西保志.md" title="wikilink">中西保志</a>的樂曲。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>小城大事</strong></p></td>
-<td><p><a href="../Page/楊千嬅.md" title="wikilink">楊千嬅的樂曲</a>。於楊千嬅的演唱會中共同演出。及於中華圈發售的1st專輯「Solo」中華圈限定封入特典CD全日語歌詞（小城大事 ～相信永恆～）所收錄（作詞：<a href="../Page/林夕.md" title="wikilink">林夕</a>、ATSUSHI 作曲：<a href="../Page/雷頌德.md" title="wikilink">雷頌德</a>）。</p></td>
+<td><p><a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>的樂曲。於楊千嬅的演唱會中共同演出。及於中華圈發售的1st專輯「Solo」中華圈限定封入特典CD全日語歌詞（小城大事 ～相信永恆～）所收錄（作詞：<a href="../Page/林夕.md" title="wikilink">林夕</a>、ATSUSHI 作曲：<a href="../Page/雷頌德.md" title="wikilink">雷頌德</a>）。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>我願意</strong></p></td>
-<td><p><a href="../Page/王菲.md" title="wikilink">王菲的樂曲</a>。於中華圈發售的1st專輯「Solo」中華圈限定封入特典CD所收錄。</p></td>
+<td><p><a href="../Page/王菲.md" title="wikilink">王菲</a>的樂曲。於中華圈發售的1st專輯「Solo」中華圈限定封入特典CD所收錄。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>說了再見</strong></p></td>
-<td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫的樂曲</a>。於中華圈發售的1st專輯「Solo」中華圈限定封入特典CD所收錄。</p></td>
+<td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>的樂曲。於中華圈發售的1st專輯「Solo」中華圈限定封入特典CD所收錄。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -721,7 +721,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>活出堅強 -電影 Version-</strong></p></td>
-<td><p><a href="../Page/活出堅強.md" title="wikilink">活出堅強的別版本</a></p></td>
+<td><p><a href="../Page/活出堅強.md" title="wikilink">活出堅強</a>的別版本</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -752,7 +752,7 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 <tr class="even">
 <td><p><strong>Rising Sun</strong></p></td>
 <td><p>單曲「<a href="https://zh.wikipedia.org/wiki/Rising_Sun/總有一天…" title="wikilink">Rising Sun/總有一天…</a>」</p></td>
-<td><p><a href="../Page/東日本大震災.md" title="wikilink">東日本大震災復興支援慈善歌</a></p></td>
+<td><p><a href="../Page/東日本大震災.md" title="wikilink">東日本大震災</a>復興支援慈善歌</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>獻給你</strong></p></td>
@@ -762,8 +762,8 @@ ATSUSHI單獨的作詞曲第2彈。</p></td>
 <tr class="even">
 <td><p><strong>Beautiful Life</strong></p></td>
 <td><p>專輯「<a href="https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN" title="wikilink">EXILE JAPAN</a>」</p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系</a> <a href="https://zh.wikipedia.org/wiki/Sunday_Night_Premiere" title="wikilink">Sunday Night Premiere</a>『<a href="https://zh.wikipedia.org/wiki/我的天空" title="wikilink">我的天空 刑事篇</a>』主題歌<br />
-作詞是與<a href="../Page/SHOKICHI.md" title="wikilink">SHOKICHI一起合作的作品</a></p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系 <a href="https://zh.wikipedia.org/wiki/Sunday_Night_Premiere" title="wikilink">Sunday Night Premiere</a>『<a href="https://zh.wikipedia.org/wiki/我的天空" title="wikilink">我的天空 刑事篇</a>』主題歌<br />
+作詞是與<a href="../Page/SHOKICHI.md" title="wikilink">SHOKICHI</a>一起合作的作品</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>today…</strong></p></td>
@@ -1412,7 +1412,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 <!-- end list -->
 
   -
-    [HKT48的TeamH的成員](../Page/HKT48.md "wikilink")。ATSUSHI的中學後輩。
+    [HKT48](../Page/HKT48.md "wikilink")的TeamH的成員。ATSUSHI的中學後輩。
 
 <!-- end list -->
 

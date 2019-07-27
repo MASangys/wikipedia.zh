@@ -1,15 +1,15 @@
-《**海之Yeah\!\!"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[南方之星在](../Page/南方之星.md "wikilink")1998年為紀念出道20週年所發行的精選輯。
+《**海之Yeah\!\!"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[南方之星](../Page/南方之星.md "wikilink")在1998年為紀念出道20週年所發行的精選輯。
 
 ## 簡介
 
   - 紀念出道20週年發行的精選輯
-  - 初動量超過100萬，為當時[南方之星本身最高的初動記錄](../Page/南方之星.md "wikilink")，之後被2000年發行的另一張精選輯[民謠3
+  - 初動量超過100萬，為當時[南方之星](../Page/南方之星.md "wikilink")本身最高的初動記錄，之後被2000年發行的另一張精選輯[民謠3
     〜the album of
     LOVE〜](https://zh.wikipedia.org/wiki/民謠3_〜the_album_of_LOVE〜 "wikilink")130萬的初動量超越。
   - 發行此張精選輯的目的是為了當年於[靜岡縣](../Page/靜岡縣.md "wikilink")[渚園所舉辦的大規模野外演唱會](https://zh.wikipedia.org/wiki/渚園 "wikilink")[SUPER
     LIVE in 渚園 モロ出し祭り
     〜過剰サービスに鰻はネットリ父ウットリ〜](https://zh.wikipedia.org/wiki/SUPER_LIVE_in_渚園_モロ出し祭り_〜過剰サービスに鰻はネットリ父ウットリ〜 "wikilink")，此場演唱會主要是演唱過去20年來的人氣歌曲。
-  - 至2013年，銷售量為3,512,577張，[ORICON歷代專輯排行榜第](https://zh.wikipedia.org/wiki/ORICON "wikilink")11位，為[南方之星所有作品裡銷售量最高的](../Page/南方之星.md "wikilink")。
+  - 至2013年，銷售量為3,512,577張，[ORICON歷代專輯排行榜第](https://zh.wikipedia.org/wiki/ORICON "wikilink")11位，為[南方之星](../Page/南方之星.md "wikilink")所有作品裡銷售量最高的。
 
 ## 收錄曲
 

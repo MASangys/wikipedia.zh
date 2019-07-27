@@ -30,7 +30,7 @@ MP40PH-3C與 MP36PH-3C相似，不同處如下：
 
 [Sunrail-MP32PH-Q.jpg](https://zh.wikipedia.org/wiki/File:Sunrail-MP32PH-Q.jpg "fig:Sunrail-MP32PH-Q.jpg")
 MP32PH-Q 是為 SunRail
-製造的，實際上它是將曾使用於[馬里蘭區域通勤鐵路的GP](../Page/馬里蘭區域通勤鐵路.md "wikilink")40WH-2，更換引擎與電子系統，改造以達到與其它的
+製造的，實際上它是將曾使用於[馬里蘭區域通勤鐵路](../Page/馬里蘭區域通勤鐵路.md "wikilink")的GP40WH-2，更換引擎與電子系統，改造以達到與其它的
 MPXpress 相似的性能指標。\[3\]
 外觀上仍然保留了GP40WH-2的引擎室，不過駕駛室新建成MPXpress的型式。\[4\]\[5\]
 
@@ -49,7 +49,7 @@ MP54AC采用一对康明斯16缸QSK60发动机，每台发动机功率为2,700�
 | MP36PH-3C                                                                                                                     | [加州火車](https://zh.wikipedia.org/wiki/加州火車 "wikilink")                                                       | [舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")    | 6         |
 | *[FrontRunner](https://zh.wikipedia.org/wiki/FrontRunner "wikilink")*                                                         | [鹽湖城](https://zh.wikipedia.org/wiki/鹽湖城 "wikilink")                                                         | 11                                                     |           |
 | [馬里蘭區域通勤鐵路](../Page/馬里蘭區域通勤鐵路.md "wikilink")                                                                                  | [華盛頓](https://zh.wikipedia.org/wiki/華盛頓 "wikilink")/[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")   | 26 + (10)                                              |           |
-| [波士顿通勤铁路（MBTA Commuter Rail）](../Page/波士顿通勤铁路.md "wikilink")                                                                  | [波士頓](https://zh.wikipedia.org/wiki/波士頓 "wikilink")                                                         | 2                                                      |           |
+| [波士顿通勤铁路 Commuter Rail）](../Page/波士顿通勤铁路.md "wikilink")（MBTA                                                                  | [波士頓](https://zh.wikipedia.org/wiki/波士頓 "wikilink")                                                         | 2                                                      |           |
 | [南加州都会铁道](https://zh.wikipedia.org/wiki/南加州都会铁道 "wikilink")                                                                   | [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")                                                         | 15                                                     |           |
 | [北極星鐵路（Northstar Line）](https://zh.wikipedia.org/wiki/北極星鐵路（Northstar_Line） "wikilink")                                       | [明尼亞波里斯](https://zh.wikipedia.org/wiki/明尼亞波里斯 "wikilink")                                                   | 6                                                      |           |
 | [新墨西哥鐵路快車（New Mexico Rail Runner Express）](https://zh.wikipedia.org/wiki/新墨西哥鐵路快車（New_Mexico_Rail_Runner_Express） "wikilink") | [阿布奎基](https://zh.wikipedia.org/wiki/阿布奎基 "wikilink")                                                       | 9                                                      |           |

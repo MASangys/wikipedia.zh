@@ -78,7 +78,7 @@ Phone 8支持三种分辨率：800 × 480（15:9）、1280 × 720（16:9）和12
 ×1080
 (16:9)，支持[1080p](../Page/1080p.md "wikilink")、[720p](../Page/720p.md "wikilink")、[WXGA屏幕](https://zh.wikipedia.org/wiki/WXGA "wikilink")。Windows
 Phone
-8也支持[MicroSD卡扩展](../Page/MicroSD.md "wikilink")，用户可以将拍摄的照片和下载的音乐等储存在数据卡上。同时所有Windows
+8也支持[MicroSD](../Page/MicroSD.md "wikilink")卡扩展，用户可以将拍摄的照片和下载的音乐等储存在数据卡上。同时所有Windows
 Phone 7.5的应用全部兼容Windows Phone 8。
 
 ### 应用商店

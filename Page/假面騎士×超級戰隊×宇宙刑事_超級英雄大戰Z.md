@@ -1,23 +1,23 @@
 《**假面騎士×超級戰隊×宇宙刑事
-超級英雄大戰Z**》（），為2013年東映預定上映的[超級英雄大戰第二作劇場版作品](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，同時除了《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》和《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》外，《[宇宙刑事系列](../Page/宇宙刑事.md "wikilink")》也將共同演出。
+超級英雄大戰Z**》（），為2013年東映預定上映的[超級英雄大戰第二作劇場版作品](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，同時除了《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》和《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》外，《[宇宙刑事](../Page/宇宙刑事.md "wikilink")系列》也將共同演出。
 
 ## 概要
 
 ## 故事概要
 
-**[宇宙戰爭勃發](../Page/宇宙.md "wikilink")**
+**[宇宙](../Page/宇宙.md "wikilink")戰爭勃發**
 
   -
-    [日本引以為傲的英雄](../Page/日本.md "wikilink")，[假面騎士與](../Page/假面騎士系列.md "wikilink")[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。2013年－－「超級英雄大戰」系列中宇宙刑事們新加入了戰局。
+    [日本](../Page/日本.md "wikilink")引以為傲的英雄，[假面騎士與](../Page/假面騎士系列.md "wikilink")[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。2013年－－「超級英雄大戰」系列中宇宙刑事們新加入了戰局。
     曾是祕密結社的[修卡在取得魔法的力量後以](../Page/假面騎士.md "wikilink")「宇宙修卡」之姿復活，全宇宙陷入毀滅危機。[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink")、[特命戰隊Go
-    Busters](../Page/特命戰隊Go_Busters.md "wikilink")，還有最新的英雄[獸電戰隊強龍者陸續參戰](../Page/獸電戰隊強龍者.md "wikilink")，不久後邪惡組織的龐大野心即將明朗化！那些懷念的英雄們也將再次前往最前線。將絕望化為希望，前所未見的英雄神話就此誕生！
+    Busters](../Page/特命戰隊Go_Busters.md "wikilink")，還有最新的英雄[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")陸續參戰，不久後邪惡組織的龐大野心即將明朗化！那些懷念的英雄們也將再次前往最前線。將絕望化為希望，前所未見的英雄神話就此誕生！
     2013年，來自日本的嶄新ALL HERO電影在此誕生。\[1\]
 
 ## 登場人物
 
 ### 假面騎士
 
-  - **操真晴人（）**（[白石隼也飾](../Page/白石隼也.md "wikilink")）
+  - **操真晴人（）**（[白石隼也](../Page/白石隼也.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - **仁藤攻介（）**（[永瀨匡飾](../Page/永瀨匡.md "wikilink")）
+  - **仁藤攻介（）**（[永瀨匡](../Page/永瀨匡.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - **大門凛子（）**（[高山侑子飾](../Page/高山侑子.md "wikilink")）
+  - **大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - **輪島繁（）**（[小倉久寬飾](https://zh.wikipedia.org/wiki/:ja:小倉久寛 "wikilink")）
+  - **輪島繁（）**（[小倉久寬](../Page/小倉久寬.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 ### 超級戰隊
 
-  - **桐生大吾（）**（[龍星涼飾](../Page/龍星涼.md "wikilink")）
+  - **桐生大吾（）**（[龍星涼](../Page/龍星涼.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - **伊恩・尤克蘭（）**（[齊藤秀翼飾](../Page/齊藤秀翼.md "wikilink")）
+  - **伊恩・尤克蘭（）**（[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 
 <!-- end list -->
 
-  - **有働伸治（）**（[金城大和飾](https://zh.wikipedia.org/wiki/:ja:金城大和 "wikilink")）
+  - **有働伸治（）**（[金城大和](../Page/金城大和.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - **立風館總司（）**（[塩野瑛久飾](https://zh.wikipedia.org/wiki/:ja:塩野瑛久 "wikilink")）
+  - **立風館總司（）**（[鹽野瑛久飾](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")）
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - **艾美結月（）**（[今野鮎莉飾](../Page/今野鮎莉.md "wikilink")）
+  - **艾美結月（）**（[今野鮎莉](../Page/今野鮎莉.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - **櫻田弘（）**（[鈴木勝大飾](../Page/鈴木勝大.md "wikilink")）
+  - **櫻田弘（）**（[鈴木勝大](../Page/鈴木勝大.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - **岩崎龍司（）**（[馬場良馬飾](../Page/馬場良馬.md "wikilink")）
+  - **岩崎龍司（）**（[馬場良馬](../Page/馬場良馬.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -134,7 +134,7 @@
 
 <!-- end list -->
 
-  - **宇佐見陽子（）**（[小宮有紗飾](../Page/小宮有紗.md "wikilink")）
+  - **宇佐見陽子（）**（[小宮有紗](../Page/小宮有紗.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - **黑木猛（）**（[榊英雄](https://zh.wikipedia.org/wiki/:ja:榊英雄 "wikilink") 飾）
+  - **黑木猛（）**（ 飾）
 
 <!-- end list -->
 
@@ -171,7 +171,7 @@
 
 <!-- end list -->
 
-  - **伊狩鎧（）**（[池田純矢飾](../Page/池田純矢.md "wikilink")）
+  - **伊狩鎧（）**（[池田純矢](../Page/池田純矢.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -180,7 +180,7 @@
 
 <!-- end list -->
 
-  - **花織琴羽（）**（[森田涼花飾](../Page/森田涼花.md "wikilink")）
+  - **花織琴羽（）**（[森田涼花](../Page/森田涼花.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@
 
 ### 宇宙刑事
 
-  - **十文字撃（）**（[石垣佑磨飾](https://zh.wikipedia.org/wiki/:ja:石垣佑磨 "wikilink")）
+  - **十文字撃（）**（飾）
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@
 
 <!-- end list -->
 
-  - **一条寺烈（）**（[大葉健二飾](https://zh.wikipedia.org/wiki/:ja:大葉健二 "wikilink")）
+  - **一条寺烈（）**（飾）
 
 <!-- end list -->
 
@@ -207,7 +207,7 @@
 
 <!-- end list -->
 
-  - **日向快（）**（[三浦力飾](../Page/三浦力.md "wikilink")）
+  - **日向快（）**（[三浦力](../Page/三浦力.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -216,7 +216,7 @@
 
 <!-- end list -->
 
-  - **Sherry（）**（[森田涼花飾](../Page/森田涼花.md "wikilink")）
+  - **Sherry（）**（[森田涼花](../Page/森田涼花.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -225,7 +225,7 @@
 
 <!-- end list -->
 
-  - **軍師Raider（）**（[本田博太郎飾](https://zh.wikipedia.org/wiki/:ja:本田博太郎 "wikilink")）
+  - **軍師Raider（）**（飾）
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@
 
 ### 假面騎士
 
-#### [假面骑士Wizard](https://zh.wikipedia.org/wiki/假面骑士Wizard "wikilink")
+#### 假面骑士Wizard
 
   - 假面骑士Wizard
       - Flame Style
@@ -249,79 +249,79 @@
       - Buffa Mantle
       - Chameleo Mantle
 
-#### [假面骑士Fourze](https://zh.wikipedia.org/wiki/假面骑士Fourze "wikilink")
+#### 假面骑士Fourze
 
   - 假面骑士Fourze（CV：[福士蒼汰](../Page/福士蒼汰.md "wikilink")）
       - Base States
   - 假面骑士Meteor（CV：[池田純矢](../Page/池田純矢.md "wikilink")）
 
-#### [假面骑士OOO](https://zh.wikipedia.org/wiki/假面骑士OOO "wikilink")
+#### 假面骑士OOO
 
   - 假面骑士OOO
       - 鷹虎蝗組合
 
-#### [假面骑士W](https://zh.wikipedia.org/wiki/假面骑士W "wikilink")
+#### 假面骑士W
 
   - 假面骑士W
       - CycloneJoker
 
-#### [假面骑士DECADE](https://zh.wikipedia.org/wiki/假面骑士DECADE "wikilink")
+#### 假面骑士DECADE
 
   - 假面骑士DECADE
 
-#### [假面骑士電王](https://zh.wikipedia.org/wiki/假面骑士電王 "wikilink")
+#### 假面骑士電王
 
   - 假面骑士電王
       - Sword Form
 
-#### [假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")
+#### 假面騎士KABUTO
 
   - 假面騎士KABUTO
 
-#### [假面骑士響鬼](https://zh.wikipedia.org/wiki/假面骑士響鬼 "wikilink")
+#### 假面骑士響鬼
 
   - 假面骑士響鬼
 
-#### [假面騎士Faiz](https://zh.wikipedia.org/wiki/假面騎士Faiz "wikilink")
+#### 假面騎士Faiz
 
   - 假面騎士Faiz
 
-#### [假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")
+#### 假面騎士龍騎
 
   - 假面騎士龍騎
 
-#### [假面騎士空我](../Page/假面騎士空我.md "wikilink")
+#### 假面騎士空我
 
   - 假面騎士空我
 
-#### [假面骑士Super 1](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")
+#### 假面骑士Super 1
 
   - 假面骑士Super 1
 
-#### [假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")
+#### 假面騎士BLACK RX
 
   - 假面騎士BLACK RX
 
-#### [假面骑士AMAZON](https://zh.wikipedia.org/wiki/假面骑士AMAZON "wikilink")
+#### 假面骑士AMAZON
 
   - 假面骑士AMAZON（CV：[関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")）
 
-#### [假面骑士X](https://zh.wikipedia.org/wiki/假面骑士X "wikilink")
+#### 假面骑士X
 
   - 假面骑士X
 
-#### [假面骑士V3](https://zh.wikipedia.org/wiki/假面骑士V3 "wikilink")
+#### 假面骑士V3
 
   - 假面骑士V3
 
-#### [假面骑士](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")
+#### 假面骑士
 
   - 假面骑士1號（CV：[稲田徹](https://zh.wikipedia.org/wiki/稲田徹 "wikilink")）
   - 假面骑士2號
 
 ### 超級戰隊
 
-#### [獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")
+#### 獸電戰隊強龍者
 
   - 強龍紅（CV：[龍星涼](../Page/龍星涼.md "wikilink")）
   - 強龍黑（CV：[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")）
@@ -330,40 +330,39 @@
   - 強龍粉紅（CV：[今野鮎莉](../Page/今野鮎莉.md "wikilink")）
   - 強龍金（CV：[丸山敦史](../Page/丸山敦史.md "wikilink")）
 
-#### [特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")
+#### 特命戰隊Go Busters
 
   - Red Buster （CV：[鈴木勝大](../Page/鈴木勝大.md "wikilink")）
   - Blue Buster（CV：[馬場良馬](../Page/馬場良馬.md "wikilink")）
   - Yellow Buster（CV：[小宮有紗](../Page/小宮有紗.md "wikilink")）
 
-#### [海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")
+#### 海賊戰隊豪快者
 
   - 豪快紅（CV：[小澤亮太](../Page/小澤亮太.md "wikilink")）
       - Draft
-        Redder（《[特搜Exceedraft](https://zh.wikipedia.org/wiki/:ja:特捜エクシードラフト "wikilink")》）
+        Redder（《[特搜Exceedraft](../Page/特搜Exceedraft.md "wikilink")》）
       - 真剑红
       - 魔法红
       - 电磁红
   - 豪快藍
-      - Blue Beet（《[重甲
-        B-Fighter](https://zh.wikipedia.org/wiki/:ja:重甲ビーファイター "wikilink")》）
+      - Blue Beet（《[重甲B-Fighter](../Page/重甲B-Fighter.md "wikilink")》）
       - 真剑蓝
   - 豪快黃
       - B-Fighter Kabuto（《[B-Fighter
-        Kabuto](https://zh.wikipedia.org/wiki/:ja:ビーファイターカブト "wikilink")》）
+        Kabuto](../Page/B-Fighter_Kabuto.md "wikilink")》）
       - 真剑黄
   - 豪快綠
       - 磁雷矢（《[世界忍者戰磁雷矢](../Page/世界忍者戰磁雷矢.md "wikilink")》）
       - 真剑绿
   - 豪快粉紅
-      - 強帕森（《[特搜機械強帕森](https://zh.wikipedia.org/wiki/:ja:特捜ロボ_ジャンパーソン "wikilink")》）
+      - 強帕森（《[特搜機器人Janperson](../Page/特搜機器人Janperson.md "wikilink")》）
       - 真剑粉
   - 豪快銀
-      - 吉邦（《[機動刑事吉邦](https://zh.wikipedia.org/wiki/:ja:機動刑事ジバン "wikilink")》）
+      - 吉邦（《[機動刑事](../Page/機動刑事.md "wikilink")吉邦》）
       - 真剑金
       - 轰音金
 
-#### [侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")
+#### 侍戰隊真劍者
 
   - 真劍紅
   - 真劍藍
@@ -371,13 +370,13 @@
   - 真劍綠
   - 真劍黃（CV：[森田涼花](../Page/森田涼花.md "wikilink")）
 
-#### [獸拳戰隊激氣連者](../Page/獸拳戰隊激氣連者.md "wikilink")
+#### 獸拳戰隊激氣連者
 
   - 激氣紅（CV：[須賀健太](../Page/須賀健太.md "wikilink")）
   - 激氣藍
   - 激氣黃
 
-#### [轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")
+#### 轟轟戰隊冒險者
 
   - 冒險紅
   - 冒險黑
@@ -385,7 +384,7 @@
   - 冒險黃
   - 冒險粉紅
 
-#### [特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")
+#### 特搜戰隊刑事連者
 
   - 刑事紅
   - 刑事藍
@@ -393,11 +392,11 @@
   - 刑事黃
   - 刑事粉紅
 
-#### [忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")
+#### 忍風戰隊破裏劍者
 
   - 破裏劍紅
 
-#### [星獸戰隊銀河人](../Page/星獸戰隊銀河人.md "wikilink")
+#### 星獸戰隊銀河人
 
   - 銀河紅
   - 銀河綠
@@ -405,17 +404,17 @@
   - 銀河黃
   - 銀河粉紅
 
-#### [鳥人戰隊噴射人](../Page/鳥人戰隊噴射人.md "wikilink")
+#### 鳥人戰隊噴射人
 
   - 紅鷹
 
-#### [超獸戰隊生命人](../Page/超獸戰隊生命人.md "wikilink")
+#### 超獸戰隊生命人
 
   - 紅獵鷹
   - 黃獅子
   - 藍海豚
 
-#### [超新星閃光人](../Page/超新星閃光人.md "wikilink")
+#### 超新星閃光人
 
   - Red Flash
   - Green Flash
@@ -423,45 +422,45 @@
   - Yellow Flash
   - Pink Flash
 
-#### [電子戰隊電磁人](../Page/電子戰隊電磁人.md "wikilink")
+#### 電子戰隊電磁人
 
   - 電磁紅
 
-#### [秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")
+#### 秘密戰隊五連者
 
   - 赤連者（CV：[関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")）
 
 ### 宇宙刑事
 
-#### [宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink") THE MOVIE
+#### 宇宙刑事卡邦 THE MOVIE
 
   - 宇宙刑事卡邦 Type G
 
-#### [宇宙刑事夏利邦](https://zh.wikipedia.org/wiki/宇宙刑事夏利邦 "wikilink")
+#### 宇宙刑事夏利邦
 
   - 宇宙刑事夏利邦
 
-#### [宇宙刑事夏依達](https://zh.wikipedia.org/wiki/宇宙刑事夏依達 "wikilink")
+#### 宇宙刑事夏依達
 
   - 宇宙刑事夏依達（CV：[岩永洋昭](../Page/岩永洋昭.md "wikilink")）
 
 ### 其他
 
-#### 閃電人（《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》 ver.）
+#### 閃電人（《假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum》 ver.）
 
   - 蛹超人/閃電人（CV：[須賀健太](../Page/須賀健太.md "wikilink")）
 
 ## 登場敵人
 
-### 宇宙犯罪組織馬多（[宇宙刑事夏利邦](https://zh.wikipedia.org/wiki/宇宙刑事夏利邦 "wikilink")）
+### 宇宙犯罪組織馬多（宇宙刑事夏利邦）
 
   - 宇宙Raider
-  - 魔王Psycho（CV：[飯塚昭三](https://zh.wikipedia.org/wiki/:ja:飯塚昭三 "wikilink")）
+  - 魔王Psycho（CV：[飯塚昭三](../Page/飯塚昭三.md "wikilink")）
 
 ### 宇宙修卡
 
   - 宇宙魷魚惡魔（CV：[関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")）
-  - 宇宙蜘蛛怪（CV：[酒井敬幸](https://zh.wikipedia.org/wiki/:ja:酒井敬幸 "wikilink")）
+  - 宇宙蜘蛛怪（CV：）
 
 **黑暗結社戈爾哥姆（[假面騎士BLACK](../Page/假面騎士BLACK.md "wikilink")）**
 
@@ -500,7 +499,7 @@
 
   - [射手座Zodiarts](https://zh.wikipedia.org/wiki/射手座 "wikilink")
   - [天蠍座Zodiarts](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
-  - [英仙座Zodiarts](../Page/英仙座.md "wikilink")
+  - [英仙座](../Page/英仙座.md "wikilink")Zodiarts
   - [蒼蠅座Zodiarts](https://zh.wikipedia.org/wiki/蒼蠅座 "wikilink")（第三形態）
 
 **蠻機族（[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")）**
@@ -511,9 +510,9 @@
 
   - 血祭慟哭
 
-### [天地雙龍](https://zh.wikipedia.org/wiki/天地雙龍 "wikilink")（《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》 ver.）
+### 天地雙龍（《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》 ver.）
 
-  - Groundain（CV：[岡田浩暉](https://zh.wikipedia.org/wiki/:ja:岡田浩暉 "wikilink")）
+  - Groundain（CV：）
   - Skydain（CV：[木下亞由美](../Page/木下亞由美.md "wikilink")）
 
 `    德尔萨军团`[`假面骑士Stronger`](https://zh.wikipedia.org/wiki/假面骑士Stronger "wikilink")
@@ -689,18 +688,21 @@
 **「蒸着 〜 We are Brothers〜」**
 
   - 主唱 - Hero Music All Stars Z
-      - [鎌田章吾](https://zh.wikipedia.org/wiki/:ja:鎌田章吾 "wikilink")
-      - [KAMEN RIDER
-        GIRLS](https://zh.wikipedia.org/wiki/:ja:仮面ライダーGIRLS "wikilink")
+      -
+      - [KAMEN RIDER GIRLS](../Page/假面騎士GIRLS.md "wikilink")
+
       - [串田晃](../Page/串田晃.md "wikilink")
+
       - [高取秀明](../Page/高取秀明.md "wikilink")
-      - [高橋秀幸](https://zh.wikipedia.org/wiki/:ja:高橋秀幸 "wikilink")
-      - [野村義男](https://zh.wikipedia.org/wiki/:ja:野村義男 "wikilink")
+
+      -
+      -
       - [松原剛志](../Page/松原剛志.md "wikilink")
-      - [Ricky](https://zh.wikipedia.org/wiki/:ja:Ricky "wikilink")
+
+      -
   - 作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink")
-  - 作曲 - [AYANO](https://zh.wikipedia.org/wiki/:ja:AYANO! "wikilink")
-  - 編曲 - [鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/:ja:鳴瀬シュウヘイ "wikilink")
+  - 作曲 -
+  - 編曲 -
 
 ## 其他相關放映
 
@@ -725,12 +727,9 @@
   - 立風館總司 - **塩野瑛久** 飾
   - 艾美結月 - **今野鮎莉** 飾
   - 電波人甲蟲女 - **小宮有紗** 飾
-  - 執事 - **[島津健太郎](https://zh.wikipedia.org/wiki/:ja:島津健太郎 "wikilink")**
-    飾
-  - 風麵店主 -
-    **[どうきひろし](https://zh.wikipedia.org/wiki/:ja:どうきひろし "wikilink")**
-    飾
-  - 佛田監督 - **[佛田洋](https://zh.wikipedia.org/wiki/:ja:佛田洋 "wikilink")** 飾
+  - 執事 - **** 飾
+  - 風麵店主 - **** 飾
+  - 佛田監督 - **** 飾
 
 #### 網路版聲音演出
 
@@ -743,9 +742,9 @@
   - 黒十字王、其他 - **[稲田徹](https://zh.wikipedia.org/wiki/稲田徹 "wikilink")**
   - 宇宙刑事夏利邦 - **三浦力**
   - **[石川英郎](../Page/石川英郎.md "wikilink")**
-  - **[酒井敬幸](https://zh.wikipedia.org/wiki/:ja:酒井敬幸 "wikilink")**
+  - ****
   - **[三宅淳一](../Page/三宅淳一.md "wikilink")**
-  - **[間藤絢子](https://zh.wikipedia.org/wiki/:ja:間藤絢子 "wikilink")**
+  - **間藤絢子**
 
 #### 網路版各話標題
 
@@ -911,11 +910,11 @@
   - 原作 -
     [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
   - 編劇 - [米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")
-  - 導演 - [金田治](https://zh.wikipedia.org/wiki/:ja:金田治 "wikilink")
+  - 導演 -
   - 配樂 -
     [中川幸太郎](../Page/中川幸太郎.md "wikilink")、[山下康介](../Page/山下康介.md "wikilink")
-  - 特攝導演 - [佛田洋](https://zh.wikipedia.org/wiki/:ja:佛田洋 "wikilink")
-  - 動作指導 - [小倉敏博](https://zh.wikipedia.org/wiki/:ja:おぐらとしひろ "wikilink")
+  - 特攝導演 -
+  - 動作指導 -
   - 發行 - [東映](../Page/東映.md "wikilink")
   - 製作 -
     劇場版「スーパーヒーロー大戦Z」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[TOEI

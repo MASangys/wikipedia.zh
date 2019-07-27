@@ -1,4 +1,4 @@
-《**BLUELOVE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE第二張](../Page/CNBLUE.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2010年5月19日由[FNC娛樂製作](../Page/FNC娛樂.md "wikilink")，[Mnet
+《**BLUELOVE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")第二張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2010年5月19日由[FNC娛樂](../Page/FNC娛樂.md "wikilink")製作，[Mnet
 Media發行](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")\[1\]。在專輯推出前首張數碼單曲《愛之光》（）已在2010年5月10日推出；而單曲《Love》其後亦選作主打。專輯包含了五首新歌，以及一首曾在他們的日語EP《》出現的英語歌曲——《Let's
 Go Crazy》。
 

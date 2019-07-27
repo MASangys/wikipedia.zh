@@ -1,7 +1,7 @@
 《**精靈寶可夢 X·Y**》（，）是一款由[GAME
-FREAK开发](https://zh.wikipedia.org/wiki/GAME_FREAK "wikilink")，由[任天堂与](../Page/任天堂.md "wikilink")[精靈寶可夢公司联合发行在](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")[任天堂3DS上的](../Page/任天堂3DS.md "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是[精靈寶可夢系列第六世代的正统续作](https://zh.wikipedia.org/wiki/精靈寶可夢系列 "wikilink")，也是该系列在3DS平台上的首款正统续作。
+FREAK开发](https://zh.wikipedia.org/wiki/GAME_FREAK "wikilink")，由[任天堂](../Page/任天堂.md "wikilink")与[精靈寶可夢公司联合发行在](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")[任天堂3DS](../Page/任天堂3DS.md "wikilink")上的[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是[精靈寶可夢系列第六世代的正统续作](https://zh.wikipedia.org/wiki/精靈寶可夢系列 "wikilink")，也是该系列在3DS平台上的首款正统续作。
 
-本作公布于2013年1月8日的[任天堂Direct精靈寶可夢特别版](https://zh.wikipedia.org/wiki/任天堂Direct "wikilink")，将于2013年10月12日于日本、北美、欧洲、澳洲、和韓國同步发售，这也是系列史上首次。2013年6月18日，[任天堂溥天和](../Page/任天堂溥天.md "wikilink")[任天堂香港宣布针对繁体中文区域版本的](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")《精靈寶可夢
+本作公布于2013年1月8日的[任天堂Direct精靈寶可夢特别版](https://zh.wikipedia.org/wiki/任天堂Direct "wikilink")，将于2013年10月12日于日本、北美、欧洲、澳洲、和韓國同步发售，这也是系列史上首次。2013年6月18日，[任天堂溥天](../Page/任天堂溥天.md "wikilink")和[任天堂香港宣布针对繁体中文区域版本的](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")《精靈寶可夢
 X·Y》将于2013年内发售，遊戲有多國語言介面供選擇（日、英、德、法、西班牙、義大利、韓）。\[1\]\[2\]
 
 ## 游戏概况
@@ -16,7 +16,7 @@ X·Y》将于2013年内发售，遊戲有多國語言介面供選擇（日、英
 ## 銷售
 
 在2019年4月底公開的第三季（截止至2019年3月）任天堂財報中《精靈寶可夢
-X·Y》在全球已售出1,639萬份，在[任天堂3DS上的本家遊戲銷量第二名](../Page/任天堂3DS.md "wikilink")。\[4\]
+X·Y》在全球已售出1,639萬份，在[任天堂3DS](../Page/任天堂3DS.md "wikilink")上的本家遊戲銷量第二名。\[4\]
 
 ## 参考资料
 

@@ -1,9 +1,9 @@
 **LILO** (**LI**nux
-**LO**ader)是[Linux一个](../Page/Linux.md "wikilink")[啟動程式](../Page/啟動程式.md "wikilink")，在流行[loadlin后成为许多](https://zh.wikipedia.org/wiki/loadlin "wikilink")[Linux发行版的默认啟動程式](../Page/Linux发行版.md "wikilink")。
+**LO**ader)是[Linux](../Page/Linux.md "wikilink")一个[啟動程式](../Page/啟動程式.md "wikilink")，在流行[loadlin后成为许多](https://zh.wikipedia.org/wiki/loadlin "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")的默认啟動程式。
 
 ## 总览
 
-LILO不依赖于一个特定的[文件系统](../Page/文件系统.md "wikilink")，可以启动一个[操作系统](../Page/操作系统.md "wikilink")(例如，从[软盘和](../Page/软盘.md "wikilink")[硬盘启动](../Page/硬盘.md "wikilink")[Linux内核](../Page/Linux内核.md "wikilink")
+LILO不依赖于一个特定的[文件系统](../Page/文件系统.md "wikilink")，可以启动一个[操作系统](../Page/操作系统.md "wikilink")(例如，从[软盘](../Page/软盘.md "wikilink")和[硬盘](../Page/硬盘.md "wikilink")启动[Linux内核](../Page/Linux内核.md "wikilink")
 \[内核\]镜像)。在启动时有十六种不同的镜像可供选择。各种参数，如根设备参数，可以为每种内核单独设置。LILO可以放在[主引导记录](../Page/主引导记录.md "wikilink")(MBR)或一个分区的[引导扇区中](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")。在后者的情况下，MBR中必须包含加载LILO的代码。
 
 在开启系统时，LILO只有通过[BIOS](../Page/BIOS.md "wikilink")[驱动访问硬盘](https://zh.wikipedia.org/wiki/设备驱动程序 "wikilink")。因此，一个很老的BIOS访问范围限定为[柱0到1023的前两个硬盘](https://zh.wikipedia.org/wiki/柱1024 "wikilink")。对于后来的BIOS，LILO可以使用32位的"[逻辑块寻址](https://zh.wikipedia.org/wiki/逻辑块寻址 "wikilink")"(LBA)来获得访问整块硬盘的能力。

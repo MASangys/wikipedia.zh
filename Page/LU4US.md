@@ -1,4 +1,4 @@
-**LU4US**（），前名**LU:KUS**、**L.A.U**，是韩国男子音乐组合。由原[X-5的三位成員Haewon](../Page/X-5.md "wikilink")、Donghyeon、Jinwan及二位新成員Choi、Kyungjin組合而成。
+**LU4US**（），前名**LU:KUS**、**L.A.U**，是韩国男子音乐组合。由原[X-5](../Page/X-5.md "wikilink")的三位成員Haewon、Donghyeon、Jinwan及二位新成員Choi、Kyungjin組合而成。
 
 LU:KUS念法為「Look Us」，如同字面上意義一樣「Look At Us」，要全世界都把目光放在他們身上。
 
@@ -46,7 +46,7 @@ LU:KUS念法為「Look Us」，如同字面上意義一樣「Look At Us」，要
 </tbody>
 </table>
 
-  - J.One、Donghyeon及Jinwan曾為已解散組合[X-5成員](../Page/X-5.md "wikilink")。
+  - J.One、Donghyeon及Jinwan曾為已解散組合[X-5](../Page/X-5.md "wikilink")成員。
   - 2016年12月26日A娛樂宣布Jinwan因個人因素決定離隊\[5\]
 
 ## 音樂作品

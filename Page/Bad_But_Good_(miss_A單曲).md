@@ -1,6 +1,6 @@
 《**Bad But
 Good**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss
-A出道首張單曲專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")，[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2010年7月1日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。〈Bad
+A出道首張單曲專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")，[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2010年7月1日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。〈Bad
 Girl Good Girl〉為專輯主打歌曲。
 
 ## 曲目
@@ -48,13 +48,13 @@ Girl Good Girl〉為專輯主打歌曲。
 
 ## 獎項
 
-  - 第12屆[Mnet亞洲音樂大獎最佳女子組合舞蹈表演獎](../Page/Mnet亞洲音樂大獎.md "wikilink")〈Bad
+  - 第12屆[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")最佳女子組合舞蹈表演獎〈Bad
     Girl Good Girl〉\[17\]
-  - 第12屆[Mnet亞洲音樂大獎年度金曲獎](../Page/Mnet亞洲音樂大獎.md "wikilink")〈Bad Girl
+  - 第12屆[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")年度金曲獎〈Bad Girl
     Good Girl〉\[18\]
   - 第25屆韓國[金唱片獎數位音源本賞](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")〈Bad
     Girl Good Girl〉\[19\]
-  - 第2屆[甜瓜音樂獎MBC](../Page/甜瓜音樂獎.md "wikilink") Plus Star〈Bad Girl Good
+  - 第2屆[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")MBC Plus Star〈Bad Girl Good
     Girl〉
   - 第8屆[韓國大眾音樂獎最佳電子](https://zh.wikipedia.org/wiki/韓國音樂大獎#最佳電子_&_舞曲歌曲 "wikilink")
     & 舞曲歌曲〈Bad Girl Good Girl〉

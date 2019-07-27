@@ -1,6 +1,6 @@
-**С型潜艇**（也称为“**S級潛艇**”）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰前向德荷合作的荷蘭船舶建設工程局訂購的潛艇](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，其設計是以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[I級潛艇為基本](../Page/I級潛艇.md "wikilink")，因此也等同是蘇聯版的[U艇](https://zh.wikipedia.org/wiki/U艇 "wikilink")，因為這間荷蘭公司其實是德國人為了迴避[第一次世界大戰後簽定的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[凡爾賽條約對德國發展潛艇的限制而在荷蘭成立的](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")，此級潛艇由1934年至1948年共建造了27艘，頭一批甚至採用了由德國MAN廠生產的零件。在二战前有17艘完工，17艘战争中完工，还有7艘战前开工战后完工者。战争中损失15艘，有两艘艇获得了近卫艇称号，六艘得到红旗勋章，S-56号获得了这两项荣誉。
+**С型潜艇**（也称为“**S級潛艇**”）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰前向德荷合作的荷蘭船舶建設工程局訂購的潛艇](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，其設計是以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[I級潛艇](../Page/I級潛艇.md "wikilink")為基本，因此也等同是蘇聯版的[U艇](https://zh.wikipedia.org/wiki/U艇 "wikilink")，因為這間荷蘭公司其實是德國人為了迴避[第一次世界大戰後簽定的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[凡爾賽條約對德國發展潛艇的限制而在荷蘭成立的](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")，此級潛艇由1934年至1948年共建造了27艘，頭一批甚至採用了由德國MAN廠生產的零件。在二战前有17艘完工，17艘战争中完工，还有7艘战前开工战后完工者。战争中损失15艘，有两艘艇获得了近卫艇称号，六艘得到红旗勋章，S-56号获得了这两项荣誉。
 
-С型潜艇的本意为“标准艇”，其中，“С”为俄文“Средняя”的首字母。\[1\][俄语罗马化后字母](../Page/俄语罗马化.md "wikilink")“С”对应字母“S”，故该型潜艇也称为“S级潜艇”。苏联有时称也该型潜艇为史達林級\[2\]。
+С型潜艇的本意为“标准艇”，其中，“С”为俄文“Средняя”的首字母。\[1\][俄语罗马化](../Page/俄语罗马化.md "wikilink")后字母“С”对应字母“S”，故该型潜艇也称为“S级潜艇”。苏联有时称也该型潜艇为史達林級\[2\]。
 
 ## 建造
 
@@ -36,7 +36,7 @@
 [Soviet_S-1_sea_trials_1936.jpg](https://zh.wikipedia.org/wiki/File:Soviet_S-1_sea_trials_1936.jpg "fig:Soviet_S-1_sea_trials_1936.jpg")
 [058_-_Wladiwostok_2015_(23798929693).jpg](https://zh.wikipedia.org/wiki/File:058_-_Wladiwostok_2015_\(23798929693\).jpg "fig:058_-_Wladiwostok_2015_(23798929693).jpg")
 该级艇在二战中击沉了82,770吨商船并击沉了七艘军舰（包括一艘潜艇），占到了苏联海军潜艇二战击沉吨位的三分之一。
-蘇聯海軍的S級潛艇在第二次世界大戰時進行的其中一次最有名的實戰是在1945年1月30日，當時有一艘德國客輪[古斯特洛夫號載著](https://zh.wikipedia.org/wiki/古斯特洛夫號 "wikilink")10,582名從[拉脫維亞的庫爾蘭](../Page/拉脫維亞.md "wikilink")，[但澤和](../Page/格但斯克.md "wikilink")[東普魯士撤走的德國軍民](../Page/東普魯士.md "wikilink")，當晚一艘蘇聯S級潛艇S-13號在马林斯科艇长指挥下發現了它並向它發射了3杖魚雷把其擊沉，最新估计造成9000人死亡，为航海史上最高的沉船死亡人数。\[3\]
+蘇聯海軍的S級潛艇在第二次世界大戰時進行的其中一次最有名的實戰是在1945年1月30日，當時有一艘德國客輪[古斯特洛夫號載著](https://zh.wikipedia.org/wiki/古斯特洛夫號 "wikilink")10,582名從[拉脫維亞](../Page/拉脫維亞.md "wikilink")的庫爾蘭，[但澤和](../Page/格但斯克.md "wikilink")[東普魯士](../Page/東普魯士.md "wikilink")撤走的德國軍民，當晚一艘蘇聯S級潛艇S-13號在马林斯科艇长指挥下發現了它並向它發射了3杖魚雷把其擊沉，最新估计造成9000人死亡，为航海史上最高的沉船死亡人数。\[3\]
 
 2月10日，S-13又发现了德国医院船“斯图本”将军号把它错当成埃姆登级巡洋舰。12:50用两条鱼雷命中目标，船上3608人获救659人死亡，当时船上大部分是难民（800人）和伤兵（2800人）。
 

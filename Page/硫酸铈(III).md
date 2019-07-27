@@ -1,8 +1,8 @@
-**硫酸铈(III)**，又称**硫酸亚铈**，是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式为Ce](../Page/化学式.md "wikilink")<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>。它在水中的[溶解度随着温度的升高而降低](https://zh.wikipedia.org/wiki/溶解度 "wikilink")。\[1\]
+**硫酸铈(III)**，又称**硫酸亚铈**，是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为Ce<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>。它在水中的[溶解度随着温度的升高而降低](https://zh.wikipedia.org/wiki/溶解度 "wikilink")。\[1\]
 
 ## 制备
 
-硫酸铈(III)通常以[硝酸铈(IV)铵为原料](https://zh.wikipedia.org/wiki/硝酸铈\(IV\)铵 "wikilink")，经过30%[过氧化氢还原得到](../Page/过氧化氢.md "wikilink")：\[2\]
+硫酸铈(III)通常以[硝酸铈(IV)铵为原料](https://zh.wikipedia.org/wiki/硝酸铈\(IV\)铵 "wikilink")，经过30%[过氧化氢](../Page/过氧化氢.md "wikilink")还原得到：\[2\]
 
   -
     (NH<sub>4</sub>)<sub>2</sub>Ce(NO<sub>3</sub>)<sub>6</sub> + 4

@@ -1,4 +1,4 @@
-**YukiRing**（\[1\]）是[日本唱片公司](../Page/日本.md "wikilink")[愛貝克思的一個](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")[品牌](../Page/品牌.md "wikilink")\[2\]，亦是[AKB48成員](../Page/AKB48.md "wikilink")[柏木由紀的唱片品牌](../Page/柏木由紀.md "wikilink")。
+**YukiRing**（\[1\]）是[日本](../Page/日本.md "wikilink")唱片公司[愛貝克思的一個](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")[品牌](../Page/品牌.md "wikilink")\[2\]，亦是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")的唱片品牌。
 
 ## 概要
 

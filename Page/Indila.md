@@ -1,5 +1,5 @@
 **Adila
-Sedraïa**（），艺名**Indila**，是一位[法国的](https://zh.wikipedia.org/wiki/法國人 "wikilink")[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")[歌手及](../Page/歌手.md "wikilink")[作词人](https://zh.wikipedia.org/wiki/作词人 "wikilink")。\[1\]
+Sedraïa**（），艺名**Indila**，是一位[法国的](https://zh.wikipedia.org/wiki/法國人 "wikilink")[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")[歌手](../Page/歌手.md "wikilink")及[作词人](https://zh.wikipedia.org/wiki/作词人 "wikilink")。\[1\]
 
 Indila曾与很多法国歌手合作，例如、[Rohff](https://zh.wikipedia.org/wiki/Rohff "wikilink")、[TLF](https://zh.wikipedia.org/wiki/TLF_\(band\) "wikilink")、[Soprano和](https://zh.wikipedia.org/wiki/Soprano_\(rapper\) "wikilink")[Youssoupha](https://zh.wikipedia.org/wiki/Youssoupha "wikilink")，并且与他们以及[M.
 Pokora](https://zh.wikipedia.org/wiki/M._Pokora "wikilink")、[Admiral
@@ -13,8 +13,8 @@ dans le vide"在法国榜单达到了前十。
 
 ## 个人经历
 
-Indila在[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎出生](../Page/巴黎.md "wikilink")。\[2\]
-她有着[印度](../Page/印度.md "wikilink")、[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、\[3\][柬埔寨和](../Page/柬埔寨.md "wikilink")[埃及](../Page/埃及.md "wikilink")\[4\]血统。
+Indila在[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")出生。\[2\]
+她有着[印度](../Page/印度.md "wikilink")、[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、\[3\][柬埔寨](../Page/柬埔寨.md "wikilink")和[埃及](../Page/埃及.md "wikilink")\[4\]血统。
 
 Indila 与唱片制片人、作词人Pascal Koeu结婚，Koeu 以 [DJ
 Skalp](https://zh.wikipedia.org/wiki/Skalp "wikilink") 和 Skalpovic

@@ -1,7 +1,7 @@
-**AGS-40**（；，，意為：[巴爾幹](../Page/巴尔干半岛.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一挻由[前苏联研製](../Page/苏联.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[GNPP
+**AGS-40**（；，，意為：[巴爾幹](../Page/巴尔干半岛.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一挻由[前苏联研製](../Page/苏联.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[GNPP
 Pribor設計局生產的](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")40毫米[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的大](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[口徑改進型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，發射40毫米7P39[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
-AGS-40裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")、[车辆](https://zh.wikipedia.org/wiki/车辆 "wikilink")、[船隻和](../Page/船.md "wikilink")[直升機以上使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-40已經被[俄羅斯軍隊所採用](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")。
+AGS-40裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")、[车辆](https://zh.wikipedia.org/wiki/车辆 "wikilink")、[船](../Page/船.md "wikilink")隻和[直升機以上使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-40已經被[俄羅斯軍隊所採用](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")。
 
 ## 歷史
 
@@ -11,14 +11,14 @@ AGS-40裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")�
 SOO）負責，而彈藥部分則由[GNPP
 Pribor設計局負責](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")。當時的原型命名為TKB-0134“山羊”（；Козлик，，意為：[山羊](../Page/家山羊.md "wikilink")）。
 
-然而受到經濟狀況不佳和[苏联解体造成的衝擊影響](../Page/苏联解体.md "wikilink")，該研製項目在1980年代末期就停滯不前。在1990年代初，該項目以“巴爾幹”為代號，由V.N.捷利什、P.加爾金和Yu.V.列別捷夫為首的槍械設計師團隊重新開展研製工作。
+然而受到經濟狀況不佳和[苏联解体](../Page/苏联解体.md "wikilink")造成的衝擊影響，該研製項目在1980年代末期就停滯不前。在1990年代初，該項目以“巴爾幹”為代號，由V.N.捷利什、P.加爾金和Yu.V.列別捷夫為首的槍械設計師團隊重新開展研製工作。
 
 巴爾幹項目主要承包商GNPP
-Pribor已於2008年[夏季](../Page/夏季.md "wikilink")[莫斯科舉辦的IDELF軍事展覽上展出了命名為](../Page/莫斯科.md "wikilink")6G27（）的榴彈發射器和配用的7P39無殼彈藥。其後亦在2009年[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")[阿布扎比的第九屆](../Page/阿布扎比.md "wikilink")[國際防務展覽及會議上展出](../Page/阿布扎比国际防务展.md "wikilink")。生產商方面宣佈，該武器和彈藥目前正在[俄羅斯軍隊進行測試](../Page/俄罗斯军事.md "wikilink")。
+Pribor已於2008年[夏季](../Page/夏季.md "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")舉辦的IDELF軍事展覽上展出了命名為6G27（）的榴彈發射器和配用的7P39無殼彈藥。其後亦在2009年[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")[阿布扎比](../Page/阿布扎比.md "wikilink")的第九屆[國際防務展覽及會議上展出](../Page/阿布扎比国际防务展.md "wikilink")。生產商方面宣佈，該武器和彈藥目前正在[俄羅斯軍隊進行測試](../Page/俄罗斯军事.md "wikilink")。
 
 ## 設計細節
 
-AGS-40採用[氣動式操作原理和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓閉鎖機構](../Page/轉拴式槍栓.md "wikilink")。與AGS-17及AGS-30一樣，AGS-40榴彈發射器也是[開放式槍栓](../Page/開放式槍栓.md "wikilink")。AGS-40的[擊針擊針為剛性連接在槍機機框上](../Page/撞針.md "wikilink")，從而使其後座並且帶動槍機旋轉開鎖；擊針同時作為氣體活塞，由發射時膛內的高壓火藥燃氣直接壓迫擊針後退。開鎖後槍機組在氣體壓力開始運動。
+AGS-40採用[氣動式操作原理和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")閉鎖機構。與AGS-17及AGS-30一樣，AGS-40榴彈發射器也是[開放式槍栓](../Page/開放式槍栓.md "wikilink")。AGS-40的[擊針擊針為剛性連接在槍機機框上](../Page/撞針.md "wikilink")，從而使其後座並且帶動槍機旋轉開鎖；擊針同時作為氣體活塞，由發射時膛內的高壓火藥燃氣直接壓迫擊針後退。開鎖後槍機組在氣體壓力開始運動。
 
 AGS-40榴彈發射器採用可散式彈鏈，從右側供彈。彈鏈由工廠裝填，以專用向部隊提供，每個彈箱能裝兩條彈鏈，共40發。作戰使用時，一個裝著20發彈鏈的彈鼓掛在[機匣右側](https://zh.wikipedia.org/wiki/機匣 "wikilink")。AGS-40發射的彈藥是7P39破片殺傷高爆榴彈，全長132毫米（5.2英吋），重0.45公斤（0.99磅）。發射藥位於彈體尾部，點燃後通過底部4個小孔排出。
 
@@ -138,7 +138,7 @@ N/A<br />
 N/A</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/槍管.md" title="wikilink">槍管長度</a>，毫米</strong></p></td>
+<td><p><strong><a href="../Page/槍管.md" title="wikilink">槍管</a>長度，毫米</strong></p></td>
 <td><p>N/A</p></td>
 <td><p>400</p></td>
 <td><p>330</p></td>

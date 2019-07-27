@@ -1,7 +1,7 @@
 「**EASON's LIFE
-世界巡迴演唱會**」世界巡迴演唱會是由[香港著名男](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅演出之世界巡迴演唱會](../Page/陳奕迅.md "wikilink")，於2013年起在亞洲和美、加各大城市舉行。演唱會首站－《EASON's
+世界巡迴演唱會**」世界巡迴演唱會是由[香港](../Page/香港.md "wikilink")著名男[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")演出之世界巡迴演唱會，於2013年起在亞洲和美、加各大城市舉行。演唱會首站－《EASON's
 LIFE
-世界巡迴演唱會－香港站》於2013年7月至8月在[香港體育館舉行](../Page/香港體育館.md "wikilink")，一連25場，為他的個人售票演唱會中最高場數紀錄。
+世界巡迴演唱會－香港站》於2013年7月至8月在[香港體育館](../Page/香港體育館.md "wikilink")舉行，一連25場，為他的個人售票演唱會中最高場數紀錄。
 
 ## 製作概念
 
@@ -200,7 +200,7 @@ Kong」演唱會也以人生作題材。
 <tr class="odd">
 <td><p>2014年6月28日</p></td>
 <td><p>EASON's LIFE 陳奕迅2014演唱會 武漢站</p></td>
-<td><p><a href="../Page/武漢體育中心.md" title="wikilink">武漢體育中心體育場</a></p></td>
+<td><p><a href="../Page/武漢體育中心.md" title="wikilink">武漢體育中心</a>體育場</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/武漢" title="wikilink">武漢</a></p></td>
 </tr>
 <tr class="even">
@@ -397,7 +397,7 @@ Kong」演唱會也以人生作題材。
 
 ### 爭議
 
-  - 2013年8月：藝人[陳冠希名下製作公司Ding](../Page/陳冠希.md "wikilink") Dong Team
+  - 2013年8月：藝人[陳冠希](../Page/陳冠希.md "wikilink")名下製作公司Ding Dong Team
     Limited與陳奕迅經理人[陳家瑛](https://zh.wikipedia.org/wiki/陳家瑛 "wikilink")，早前以210萬元簽約合作，由公司製作錄像片段在《Eason's
     LIFE》個唱內播出，惟陳家瑛僅付100萬元。結果Ding Dong Team
     Limited入稟法院，追討陳家瑛110萬元製作費用及賠償。\[4\]\]\[5\]
@@ -418,6 +418,7 @@ Kong」演唱會也以人生作題材。
 ## 參考文獻
 
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink")
 
 1.  [環球唱片－Eason's Life 陳奕迅2013演唱會 (2
     DVD)](http://www.umg.com.hk/album/2782/detail)

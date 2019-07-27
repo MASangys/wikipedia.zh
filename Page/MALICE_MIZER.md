@@ -69,7 +69,7 @@ MIZER的現場演出與他們的音樂同樣著名，擁有豪華古代[服裝�
 [Category:1992年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年成立的音樂團體 "wikilink")
 [Category:2001年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年解散的音樂團體 "wikilink")
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink")
+[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
 [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
 [Category:1992年日本建立](https://zh.wikipedia.org/wiki/Category:1992年日本建立 "wikilink")
 [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")

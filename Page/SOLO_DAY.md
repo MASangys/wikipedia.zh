@@ -1,5 +1,5 @@
 《**SOLO
-DAY**》是韓國男子組合[B1A4第五張迷你專輯](../Page/B1A4.md "wikilink")，在2014年7月14日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]，主打曲目為《SOLO
+DAY**》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")第五張迷你專輯，在2014年7月14日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]，主打曲目為《SOLO
 DAY》。
 
 ## 曲目
@@ -116,7 +116,7 @@ DAY》。
 
 ### Oricon公信榜（日本版）
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 停留時間 |
 | ---------------------------------------- | ---- | ---- |
 | 專輯日榜                                     | \-   | 1星期  |
 | 專輯週榜                                     | 209  |      |

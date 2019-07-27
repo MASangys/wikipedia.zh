@@ -7,7 +7,7 @@ Pioneer出道](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。�
 
 樂團解散之後，成員現今仍然各自進行自己的音樂活動，唯獨松川在1998年之後完全沒有公開活動。 他在1994年的時候，與[X
 JAPAN吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[PATA一起參與了X](../Page/Pata_\(吉他手\).md "wikilink")
-JAPAN知名吉他手[hide的個人巡迴演唱會](https://zh.wikipedia.org/wiki/hide "wikilink")。另外，他也親手替[ZARD寫了幾首歌](../Page/ZARD.md "wikilink")。收錄為ZARD首張單曲《[Good-bye
+JAPAN知名吉他手[hide的個人巡迴演唱會](https://zh.wikipedia.org/wiki/hide "wikilink")。另外，他也親手替[ZARD](../Page/ZARD.md "wikilink")寫了幾首歌。收錄為ZARD首張單曲《[Good-bye
 My
 Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")》B面曲的《愛在黑暗中》是翻唱自BLIZARD的專輯《SHOW
 ME THE WAY》裡的《EMPTY

@@ -18,7 +18,7 @@
 
 ## 实例
 
-[伯格斯方程的Painlevé分析](../Page/伯格斯方程.md "wikilink")
+[伯格斯方程](../Page/伯格斯方程.md "wikilink")的Painlevé分析
 
 \(sys :=\frac{\partial u(x, t)}{\partial t}+a u(x, t) \frac{\partial (u(x, t)}{\partial x}+b \frac{\partial^2 (u(x, t)}{\partial  x^2} = 0\)
 

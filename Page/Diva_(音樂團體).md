@@ -77,7 +77,7 @@ Vicky和Zinnie開始參與廣播節目及其他綜藝節目；Zinnie之後前往
 
   - 因不做作、強悍作風，曾經被稱為是女版「[DJ
     DOC](../Page/DJ_DOC.md "wikilink")」(韓國知名三人組Hip-hop團體）。
-  - 〈Joy〉的副歌部分和[藍心湄的](../Page/藍心湄.md "wikilink")〈你的電話〉的副歌部分相似度高，一度被認為是抄襲或翻唱，但原作曲人[脱拉庫表示該曲早在未出道前就已寫好](https://zh.wikipedia.org/wiki/脱拉庫 "wikilink")，且之前並無聽過〈Joy〉，不可能抄襲。這兩首歌之後被傳為「歌曲明星臉事件」。
+  - 〈Joy〉的副歌部分和[藍心湄](../Page/藍心湄.md "wikilink")的〈你的電話〉的副歌部分相似度高，一度被認為是抄襲或翻唱，但原作曲人[脱拉庫表示該曲早在未出道前就已寫好](https://zh.wikipedia.org/wiki/脱拉庫 "wikilink")，且之前並無聽過〈Joy〉，不可能抄襲。這兩首歌之後被傳為「歌曲明星臉事件」。
   - 收錄在英文專輯《Dream Diva》中的〈Merry Xmas, Lonely
     Xmas〉mv由台灣導演[賴偉康所拍攝](https://zh.wikipedia.org/wiki/賴偉康 "wikilink")，這首單曲在台灣意外地引起一陣風潮。
   - 在live演出時穿著印有「Osama bin Laden
@@ -91,13 +91,13 @@ Vicky和Zinnie開始參與廣播節目及其他綜藝節目；Zinnie之後前往
 
 ### 歌曲翻唱
 
-  - 〈왜불러〉（為何叫我）由台灣歌手[徐懷鈺翻唱成中文歌](../Page/徐懷鈺.md "wikilink")〈怪獸〉；香港歌手[杜德偉翻唱成英文歌](../Page/杜德偉.md "wikilink")〈Breaking
+  - 〈왜불러〉（為何叫我）由台灣歌手[徐懷鈺](../Page/徐懷鈺.md "wikilink")翻唱成中文歌〈怪獸〉；香港歌手[杜德偉](../Page/杜德偉.md "wikilink")翻唱成英文歌〈Breaking
     the
-    Rules〉（合唱曲）及粵語歌〈著迷〉（合唱曲）；被韓國企劃女團[C.I.V.A重新翻唱](../Page/C.I.V.A.md "wikilink")；在台灣發行的《Dream》雙CD中，亦收錄了不同的混音版本。
+    Rules〉（合唱曲）及粵語歌〈著迷〉（合唱曲）；被韓國企劃女團[C.I.V.A](../Page/C.I.V.A.md "wikilink")重新翻唱；在台灣發行的《Dream》雙CD中，亦收錄了不同的混音版本。
   - 〈이 겨울에〉（這個冬季）被韓國女團[Brown Eyed
     Girls重新翻唱](../Page/Brown_Eyed_Girls.md "wikilink")，收錄於《Somewhere
     Over The Rainbow Vol.6》合輯中。
-  - 〈Action〉被台灣歌手[許慧欣翻唱成中文歌](../Page/許慧欣.md "wikilink")〈失戀不敗〉。
+  - 〈Action〉被台灣歌手[許慧欣](../Page/許慧欣.md "wikilink")翻唱成中文歌〈失戀不敗〉。
   - 〈고리〉(Yo
     Yo)被香港女團[B2翻唱成粵語歌](../Page/B2_\(組合\).md "wikilink")〈自己知自己事〉及國語歌〈愛得不清醒〉。
 

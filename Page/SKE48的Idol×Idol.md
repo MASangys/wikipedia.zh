@@ -1,4 +1,4 @@
-『**SKE48的Idol×Idol**』（）是[中京電視台在](../Page/中京電視台.md "wikilink")2010年12月6日至2010年12月27日播放，每週[星期一的深夜時段](../Page/星期一.md "wikilink")，共4回播放[音樂](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+『**SKE48的Idol×Idol**』（）是[中京電視台](../Page/中京電視台.md "wikilink")在2010年12月6日至2010年12月27日播放，每週[星期一](../Page/星期一.md "wikilink")的深夜時段，共4回播放[音樂](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 出演者
 
@@ -120,7 +120,7 @@
 
 | 播放地域                                                   | 播放電視台                                                     | 播放期間                | 播放日時              | 系列                                                              | 備註  |
 | ------------------------------------------------------ | --------------------------------------------------------- | ------------------- | ----------------- | --------------------------------------------------------------- | --- |
-| [中京廣域圏](https://zh.wikipedia.org/wiki/廣域放送 "wikilink") | [中京電視台](../Page/中京電視台.md "wikilink")                      | 2010年12月6日 - 12月27日 | 星期一 24:29 - 24:59 | [日本電視台系列](../Page/日本電視台.md "wikilink")                          | 制作局 |
+| [中京廣域圏](https://zh.wikipedia.org/wiki/廣域放送 "wikilink") | [中京電視台](../Page/中京電視台.md "wikilink")                      | 2010年12月6日 - 12月27日 | 星期一 24:29 - 24:59 | [日本電視台](../Page/日本電視台.md "wikilink")系列                          | 制作局 |
 | [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")    | [福岡放送](../Page/福岡放送.md "wikilink")                        | 2011年3月3日 - 3月31日   | 星期四 25:18 - 25:48 |                                                                 |     |
 | [千葉縣](../Page/千葉縣.md "wikilink")                       | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")   | 2011年5月11日 - 6月1日   | 星期三 22:00 - 22:30 | [独立UHF局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |     |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")    | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink") | 2011年7月23日 - 9月3日   | 星期六 20:54 - 21:24 | |                                                               |     |

@@ -14,7 +14,7 @@ DD-2）是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikil
 
 ## 第一次世界大战时期
 
-巴里号于1917年8月1日离开[菲律宾群岛](https://zh.wikipedia.org/wiki/菲律宾群岛 "wikilink")，经[苏伊士运河在当年](../Page/苏伊士运河.md "wikilink")10月20日抵达[直布罗陀](../Page/直布罗陀.md "wikilink")。她在[地中海地区负责为货船护航](../Page/地中海.md "wikilink")，直到1918年8月启程前往[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[查尔斯顿
+巴里号于1917年8月1日离开[菲律宾群岛](https://zh.wikipedia.org/wiki/菲律宾群岛 "wikilink")，经[苏伊士运河](../Page/苏伊士运河.md "wikilink")在当年10月20日抵达[直布罗陀](../Page/直布罗陀.md "wikilink")。她在[地中海](../Page/地中海.md "wikilink")地区负责为货船护航，直到1918年8月启程前往[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[查尔斯顿
 (南卡罗来纳州)](../Page/查尔斯顿_\(南卡罗来纳州\).md "wikilink")，并于同年9月5日抵达。她在查尔斯顿继续担任巡逻及护航任务。1919年1月，她前往[费城海军船坞](https://zh.wikipedia.org/wiki/费城海军船坞 "wikilink")，同年6月28日拆解后，1920年1月3日出售。
 
 ## 相關條目

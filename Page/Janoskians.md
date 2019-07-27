@@ -5,7 +5,7 @@ The **Janoskians** (**J**ust **A**nother **N**ame **O**f **S**illy
 
 他們的頻道于2010年7月4日創建。組合中的五個人經常上傳一些他們在[公共場合做惡作劇的視頻](https://zh.wikipedia.org/wiki/公共場合 "wikilink")，或是做一些讓自己噁心，痛苦的挑戰遊戲（比如吃老鼠屍體，用捕鼠夾夾自己，暴飲暴食等等），以及做偽紀錄片（比如[荒野求生的模仿視頻](https://zh.wikipedia.org/wiki/荒野求生 "wikilink")）。他們的一個視頻，《尷尬的火車場景》，在世界範圍有四千五百萬的點擊量。\[5\]
 
-Janoskians在很多社交网络服務的頁面，比如[臉書](../Page/Facebook.md "wikilink")，[推特](../Page/Twitter.md "wikilink")，[Instagram以及Keek甚至是](../Page/Instagram.md "wikilink")[同人小說都有一大群的影迷](../Page/同人小說.md "wikilink")。截至2013年1月9日，Janoskians的Youtube頻道已有超過五十三萬的訂閱者。
+Janoskians在很多社交网络服務的頁面，比如[臉書](../Page/Facebook.md "wikilink")，[推特](../Page/Twitter.md "wikilink")，[Instagram](../Page/Instagram.md "wikilink")以及Keek甚至是[同人小說](../Page/同人小說.md "wikilink")都有一大群的影迷。截至2013年1月9日，Janoskians的Youtube頻道已有超過五十三萬的訂閱者。
 
 ## 參考資料
 

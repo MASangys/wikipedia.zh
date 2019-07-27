@@ -1,4 +1,4 @@
-，原《**异种杀手**》（）是一款由[育碧蒙彼利埃开发并由](../Page/育碧.md "wikilink")[育碧发行在](../Page/育碧.md "wikilink")[Wii
+，原《**异种杀手**》（）是一款由[育碧](../Page/育碧.md "wikilink")蒙彼利埃开发并由[育碧](../Page/育碧.md "wikilink")发行在[Wii
 U上的](../Page/Wii_U.md "wikilink")[惊悚](https://zh.wikipedia.org/wiki/惊悚游戏 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。本作被看作是育碧在1986年制作的街机游戏《[僵尸](https://zh.wikipedia.org/wiki/僵尸_\(电子游戏\) "wikilink")》（）的续作。\[1\]《僵尸U》作为Wii
 U的首发游戏之一与Wii U同步发售，并支持1080P全高清的画面输出。2015年7月，育碧宣布将本作移植到[PlayStation
 4](../Page/PlayStation_4.md "wikilink")、[Xbox

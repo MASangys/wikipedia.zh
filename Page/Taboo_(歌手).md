@@ -1,8 +1,8 @@
-**海梅·路易斯·戈麦斯**（，）艺名为**Taboo**\[1\]，是一位美国[歌手](../Page/歌手.md "wikilink")，[演员和](https://zh.wikipedia.org/wiki/演员 "wikilink")[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")，流行音乐团体[黑眼豆豆的成员](../Page/黑眼豆豆.md "wikilink")。
+**海梅·路易斯·戈麦斯**（，）艺名为**Taboo**\[1\]，是一位美国[歌手](../Page/歌手.md "wikilink")，[演员和](https://zh.wikipedia.org/wiki/演员 "wikilink")[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")，流行音乐团体[黑眼豆豆](../Page/黑眼豆豆.md "wikilink")的成员。
 
 ## 个人生活
 
-Taboo出生于[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶博伊尔高地](../Page/洛杉矶.md "wikilink")。\[2\]父亲是[墨西哥裔美国人](../Page/墨西哥裔美国人.md "wikilink")，母亲是[墨西哥裔美国人和](../Page/墨西哥裔美国人.md "wikilink")[肖松尼本土美国人](../Page/休休尼人.md "wikilink")。\[3\]\[4\]\[5\]2008年7月12日，他的33岁生日的前两天，Taboo和Jaymie
+Taboo出生于[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")博伊尔高地。\[2\]父亲是[墨西哥裔美国人](../Page/墨西哥裔美国人.md "wikilink")，母亲是[墨西哥裔美国人](../Page/墨西哥裔美国人.md "wikilink")和[肖松尼本土美国人](../Page/休休尼人.md "wikilink")。\[3\]\[4\]\[5\]2008年7月12日，他的33岁生日的前两天，Taboo和Jaymie
 Dizon在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[帕萨迪纳结婚](../Page/帕萨迪纳_\(加利福尼亚州\).md "wikilink")。[will.i.am和](https://zh.wikipedia.org/wiki/will.i.am "wikilink")[apl.de.ap担任伴郎](https://zh.wikipedia.org/wiki/apl.de.ap "wikilink")。这对夫妻的第一个孩子Jimmy
 Jalen
 Gomez出生于2009年7月19日，第二个孩子Journey出生于2011年4月19日。他之前一段关系中还有一个儿子Joshua\[6\]，出生于1993年10月13日。\[7\]\[8\]

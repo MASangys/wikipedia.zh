@@ -1,6 +1,6 @@
 **Theatresports**是即興的劇場運動,由Keith Johnstone所創立,目的在於希望觀眾與表演者能夠有互動,帶起全場氣氛。
 目前澳門戲劇農莊創團成員與行政總監、Theatresports 註冊專業導師（加拿大International Theatresports
-Institute）、（港澳、新加坡、汶箂及馬來西亞等Theatresports）授權顧問[李俊傑先生正熱烈在亞洲區推廣Theatresports](../Page/李俊傑.md "wikilink")
+Institute）、（港澳、新加坡、汶箂及馬來西亞等Theatresports）授權顧問[李俊傑](../Page/李俊傑.md "wikilink")先生正熱烈在亞洲區推廣Theatresports
 
 ## Opening
 

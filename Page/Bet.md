@@ -6,7 +6,7 @@ Bet在不同的闪米特语言中都有“房子”的意思，最初来自[原�
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <hiero>O1</hiero>                                       | [<File:Proto-Canaanite_-_bet.png>](https://zh.wikipedia.org/wiki/File:Proto-Canaanite_-_bet.png "fig:File:Proto-Canaanite_-_bet.png") | [Phoenician_beth.svg](https://zh.wikipedia.org/wiki/File:Phoenician_beth.svg "fig:Phoenician_beth.svg") | [<File:Early_Aramaic_character_-_Beth.png>](https://zh.wikipedia.org/wiki/File:Early_Aramaic_character_-_Beth.png "fig:File:Early_Aramaic_character_-_Beth.png") |
 
-[希腊字母](../Page/希腊字母.md "wikilink")[Β](../Page/Β.md "wikilink")、[拉丁字母](../Page/拉丁字母.md "wikilink")（现[英文字母](../Page/英文字母.md "wikilink")）[B](../Page/B.md "wikilink")、[西里尔字母](../Page/西里尔字母.md "wikilink")[Б与](../Page/Б.md "wikilink")[В皆源于该字母](../Page/В.md "wikilink")。
+[希腊字母](../Page/希腊字母.md "wikilink")[Β](../Page/Β.md "wikilink")、[拉丁字母](../Page/拉丁字母.md "wikilink")（现[英文字母](../Page/英文字母.md "wikilink")）[B](../Page/B.md "wikilink")、[西里尔字母](../Page/西里尔字母.md "wikilink")[Б](../Page/Б.md "wikilink")与[В](../Page/В.md "wikilink")皆源于该字母。
 
 ## 参考文献
 

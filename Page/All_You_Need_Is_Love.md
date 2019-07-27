@@ -4,7 +4,7 @@ World中首次唱此曲，當時估計有26個國家4億人收看。歌曲也被
 
 ## 簡介
 
-樂團[經紀人](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[布萊恩·愛普斯坦說](../Page/布萊恩·愛普斯坦.md "wikilink")：
+樂團[經紀人](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[布萊恩·愛普斯坦](../Page/布萊恩·愛普斯坦.md "wikilink")說：
 
 記者傑德·萊特說：
 
@@ -16,7 +16,7 @@ World創作的](https://zh.wikipedia.org/wiki/Our_World "wikilink")；[喬治·�
 
 ## 結構
 
-此曲運用了[混合节拍](https://zh.wikipedia.org/wiki/节拍#复节拍（混合节拍） "wikilink")：雖和聲部分絕大部分皆為（最後一小節為），主音部分則為、、、、、、、。此曲另一特別的地方是突出的[大提琴伴奏](../Page/大提琴.md "wikilink")，而這種技巧亦不是樂團第一次使用。此曲是[G大調](https://zh.wikipedia.org/wiki/G大調 "wikilink")，但在主旋律之外附加了不同的[和弦](../Page/和弦.md "wikilink")，是為樂團常用的襯托技巧。
+此曲運用了[混合节拍](https://zh.wikipedia.org/wiki/节拍#复节拍（混合节拍） "wikilink")：雖和聲部分絕大部分皆為（最後一小節為），主音部分則為、、、、、、、。此曲另一特別的地方是突出的[大提琴](../Page/大提琴.md "wikilink")伴奏，而這種技巧亦不是樂團第一次使用。此曲是[G大調](https://zh.wikipedia.org/wiki/G大調 "wikilink")，但在主旋律之外附加了不同的[和弦](../Page/和弦.md "wikilink")，是為樂團常用的襯托技巧。
 
 ## 直播
 

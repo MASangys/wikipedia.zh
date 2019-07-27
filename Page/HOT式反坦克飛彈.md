@@ -4,7 +4,7 @@
 Subsonic **O**ptical Remote-Guided,
 **T**ube-Launched"的縮寫，意即"高次音速、光學遙控、筒射"。
 
-HOT式作為重型反坦克飛彈主要由武裝直昇機（例如:[瞪羚直升機](../Page/瞪羚直升機.md "wikilink")）和裝甲車輛（例如:[美洲豹1型發射車](https://zh.wikipedia.org/wiki/美洲豹式驅逐戰車 "wikilink")）發射，其彈頭採用[高爆反坦克彈設計](../Page/高爆反坦克彈.md "wikilink")，能炸穿800至1,250毫米厚鋼裝甲。
+HOT式作為重型反坦克飛彈主要由武裝直昇機（例如:[瞪羚直升機](../Page/瞪羚直升機.md "wikilink")）和裝甲車輛（例如:[美洲豹1型發射車](https://zh.wikipedia.org/wiki/美洲豹式驅逐戰車 "wikilink")）發射，其彈頭採用[高爆反坦克彈](../Page/高爆反坦克彈.md "wikilink")設計，能炸穿800至1,250毫米厚鋼裝甲。
 
 如同大多數第二代反坦克飛彈，HOT式仍是有線導引，最遠射程約為4公里。
 

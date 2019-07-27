@@ -1,5 +1,5 @@
-《**STARHORSE3**》是[世嘉開發的](../Page/世嘉.md "wikilink")[賽馬育成街機遊戲](../Page/賽馬.md "wikilink")，2011年11月22日開始推出市面，是[STARHORSE第八代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。
-由於[世嘉將於](../Page/世嘉.md "wikilink")2019年開發全新的[賽馬育成街機遊戲](../Page/賽馬.md "wikilink")《**STARHORSE4**》[1](https://www.youtube.com/watch?v=ZR3umlSi_Bk)，《StarHorse3
+《**STARHORSE3**》是[世嘉](../Page/世嘉.md "wikilink")開發的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲，2011年11月22日開始推出市面，是[STARHORSE第八代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。
+由於[世嘉](../Page/世嘉.md "wikilink")將於2019年開發全新的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲《**STARHORSE4**》[1](https://www.youtube.com/watch?v=ZR3umlSi_Bk)，《StarHorse3
 SeasonVII Great Jockey》是STARHORSE系列第14套(亦是StarHorse3最後一套系列)作品。
 
 ## 玩法

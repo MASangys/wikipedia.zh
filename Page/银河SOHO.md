@@ -1,4 +1,4 @@
-**银河SOHO**（），是[SOHO中国旗下位于中国](https://zh.wikipedia.org/wiki/SOHO中国 "wikilink")[北京市东二环朝阳门桥西南角的集商业办公于一身的大型城市综合体建筑](../Page/北京市.md "wikilink")。该建筑由世界知名建筑设计师、[普立兹克奖得主](https://zh.wikipedia.org/wiki/普立兹克奖 "wikilink")[扎哈·哈迪德设计](https://zh.wikipedia.org/wiki/扎哈·哈迪德 "wikilink")，[中建一局建设发展公司承建](https://zh.wikipedia.org/wiki/中建一局 "wikilink")，总占地50,000平米、总建筑面积328,204平方米。
+**银河SOHO**（），是[SOHO中国旗下位于中国](https://zh.wikipedia.org/wiki/SOHO中国 "wikilink")[北京市](../Page/北京市.md "wikilink")东二环朝阳门桥西南角的集商业办公于一身的大型城市综合体建筑。该建筑由世界知名建筑设计师、[普立兹克奖得主](https://zh.wikipedia.org/wiki/普立兹克奖 "wikilink")[扎哈·哈迪德设计](https://zh.wikipedia.org/wiki/扎哈·哈迪德 "wikilink")，[中建一局建设发展公司承建](https://zh.wikipedia.org/wiki/中建一局 "wikilink")，总占地50,000平米、总建筑面积328,204平方米。
 
 ## 历史沿革
 

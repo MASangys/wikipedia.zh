@@ -2,12 +2,12 @@
 Center**）是一个为[家庭劇院個人電腦设计的](https://zh.wikipedia.org/wiki/家庭劇院個人電腦 "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")\[1\]
 ，基於[Kodi](../Page/Kodi.md "wikilink")[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")\[2\]\[3\]。
 
-OpenELEC的设计使得它消耗较少资源并且可以迅速从[闪存启动](../Page/闪存.md "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
-OpenELEC也有适用于[树莓派的](../Page/树莓派.md "wikilink")[磁碟镜像](https://zh.wikipedia.org/wiki/磁碟镜像 "wikilink")。\[10\]\[11\]
+OpenELEC的设计使得它消耗较少资源并且可以迅速从[闪存](../Page/闪存.md "wikilink")启动。\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
+OpenELEC也有适用于[树莓派](../Page/树莓派.md "wikilink")的[磁碟镜像](https://zh.wikipedia.org/wiki/磁碟镜像 "wikilink")。\[10\]\[11\]
 
 ## 概览及描述
 
-除了自带的XBMC外，用户还可以安装第三方扩展，比如复古的[游戏机模拟器和](../Page/游戏机模拟器.md "wikilink")[数字视频录像机](https://zh.wikipedia.org/wiki/数字视频录像机 "wikilink")。OpenELEC是一个极小的启动很快的Linux发行版，主要运行在如[CompactFlash和](../Page/CompactFlash.md "wikilink")[SD卡的](../Page/SD卡.md "wikilink")[记忆卡或者](https://zh.wikipedia.org/wiki/记忆卡 "wikilink")[固态硬盘上](../Page/固态硬盘.md "wikilink")。\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]
+除了自带的XBMC外，用户还可以安装第三方扩展，比如复古的[游戏机模拟器](../Page/游戏机模拟器.md "wikilink")和[数字视频录像机](https://zh.wikipedia.org/wiki/数字视频录像机 "wikilink")。OpenELEC是一个极小的启动很快的Linux发行版，主要运行在如[CompactFlash](../Page/CompactFlash.md "wikilink")和[SD卡](../Page/SD卡.md "wikilink")的[记忆卡或者](https://zh.wikipedia.org/wiki/记忆卡 "wikilink")[固态硬盘](../Page/固态硬盘.md "wikilink")上。\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]
 
 ## 历史
 

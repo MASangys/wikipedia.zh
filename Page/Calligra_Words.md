@@ -1,11 +1,11 @@
 **Calligra
-Words**是一个[开放源代码的](../Page/开放源代码.md "wikilink")[文字处理软件](https://zh.wikipedia.org/wiki/字处理 "wikilink")，它是[Calligra
-Suite的一个组件](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")，由[KDE开发](../Page/KDE.md "wikilink")。
+Words**是一个[开放源代码](../Page/开放源代码.md "wikilink")的[文字处理软件](https://zh.wikipedia.org/wiki/字处理 "wikilink")，它是[Calligra
+Suite的一个组件](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")，由[KDE](../Page/KDE.md "wikilink")开发。
 
 ## 简介
 
 当开发Calligra
-Suite的时候，和其他组件不一样的是，Words不是KOffice组件[KWord的一个延续](../Page/KWord.md "wikilink")\[1\]。Words的大部分功能部件已经从头重写了，2011年五月一个全新的引擎诞生\[2\]。它的第一版在Calligra
+Suite的时候，和其他组件不一样的是，Words不是KOffice组件[KWord](../Page/KWord.md "wikilink")的一个延续\[1\]。Words的大部分功能部件已经从头重写了，2011年五月一个全新的引擎诞生\[2\]。它的第一版在Calligra
 2.4中发布\[3\]。
 
 Calligra

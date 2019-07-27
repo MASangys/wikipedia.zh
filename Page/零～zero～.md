@@ -1,5 +1,5 @@
 是发行于[PlayStation
-2和](../Page/PlayStation_2.md "wikilink")[Xbox的](../Page/Xbox.md "wikilink")[心理恐怖电子游戏](https://zh.wikipedia.org/wiki/心理恐怖 "wikilink")\[1\]，是[零系列的第一作](../Page/零系列.md "wikilink")。Xbox版在日本称为“Fatal
+2和](../Page/PlayStation_2.md "wikilink")[Xbox](../Page/Xbox.md "wikilink")的[心理恐怖电子游戏](https://zh.wikipedia.org/wiki/心理恐怖 "wikilink")\[1\]，是[零系列](../Page/零系列.md "wikilink")的第一作。Xbox版在日本称为“Fatal
 Frame -零 Special Edition-”，加入了新结局，更多服装，新的游戏模式和更困难的设置。游戏作为PlayStation 2
 Classic，2013年为北美[PlayStation
 3的](../Page/PlayStation_3.md "wikilink")[PlayStation
@@ -47,7 +47,7 @@ Network服务发行](../Page/PlayStation_Network.md "wikilink")\[2\]\[3\]。
 
 《零～zero～》在获得积极评价。日本杂志《[Fami通](../Page/Fami通.md "wikilink")》为PlayStation
 2版打出32/40分\[4\]。而在西方，PlayStation
-2版在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic的汇总得分为](../Page/Metacritic.md "wikilink")81%和74/100\[5\]\[6\]，Xbox版为80%和77/100\[7\]\[8\]。
+2版在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")的汇总得分为81%和74/100\[5\]\[6\]，Xbox版为80%和77/100\[7\]\[8\]。
 
 ## 参考文献
 

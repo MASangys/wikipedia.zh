@@ -1,5 +1,5 @@
 『**We are
-Buono\!**』是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!的第](../Page/Buono!.md "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2010年2月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2010年2月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 收錄曲
 

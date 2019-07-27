@@ -1,10 +1,10 @@
 《**Come
-on**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE的第六張單曲](../Page/CNBLUE.md "wikilink")，由[李宗泫作曲](../Page/李宗泫.md "wikilink")、[鄭容和填詞](../Page/鄭容和.md "wikilink")、[玉井健二日語翻譯](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")。這單曲在2012年8月1日以3個不同版本：CD+DVD初回限定盤\[1\]、通常盤\[2\]\[3\]及Lawson限定盤\[4\]發行。這也是他們第三張由[華納唱片
+on**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第六張單曲，由[李宗泫](../Page/李宗泫.md "wikilink")作曲、[鄭容和](../Page/鄭容和.md "wikilink")填詞、[玉井健二日語翻譯](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")。這單曲在2012年8月1日以3個不同版本：CD+DVD初回限定盤\[1\]、通常盤\[2\]\[3\]及Lawson限定盤\[4\]發行。這也是他們第三張由[華納唱片
 (日本)發行的單曲](../Page/華納音樂集團.md "wikilink")。
 
 ## 背景
 
-此單曲由CNBLUE韓國公司FNC媒體方面在2012年6月12日公布發行消息\[5\]。同月25日，[朝日電視台宣布](../Page/朝日電視台.md "wikilink")7月起將採用《Come
+此單曲由CNBLUE韓國公司FNC媒體方面在2012年6月12日公布發行消息\[5\]。同月25日，[朝日電視台](../Page/朝日電視台.md "wikilink")宣布7月起將採用《Come
 on》為其節目《music ru TV》的主題曲\[6\]。到7月2日，單曲曲目、版本及封面的資料與《Come
 on》的音樂錄影帶預覽同時公開\[7\]。同日公司方面也公布了CNBLUE首張日文正規專輯將在8月29日發行\[8\]\[9\]，該專輯將包含這單曲的歌曲以及2張單曲《[Where
 you are](../Page/Where_you_are_\(CNBLUE單曲\).md "wikilink")》和《[In My
@@ -15,13 +15,13 @@ on》音樂錄影帶與製作花絮的一片DVD，另附贈一本44頁的相冊�
 
 ## 單曲內容
 
-單曲所有歌曲由成員[鄭容和作詞](../Page/鄭容和.md "wikilink")，《Come
-on》一曲由玉井健二翻譯為日語歌詞，成員[李宗泫負責作曲](../Page/李宗泫.md "wikilink")。《Wake
+單曲所有歌曲由成員[鄭容和](../Page/鄭容和.md "wikilink")作詞，《Come
+on》一曲由玉井健二翻譯為日語歌詞，成員[李宗泫](../Page/李宗泫.md "wikilink")負責作曲。《Wake
 Up》由Ryo及容和作曲；而《My Miracle》就由Ryo及宗泫作曲。
 
 ## 音樂錄影帶
 
-2012年7月2日，華納日本在他們的[YouTube頻道發放了音樂錄影帶的預覽片段](../Page/YouTube.md "wikilink")\[10\]。
+2012年7月2日，華納日本在他們的[YouTube](../Page/YouTube.md "wikilink")頻道發放了音樂錄影帶的預覽片段\[10\]。
 
 ## 曲目
 
@@ -32,7 +32,7 @@ on》也以一週銷售33,911張登上了Oricon單曲週榜第5名。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 單曲日榜                                     | 4    | 16,532 | 39,250+ | 5週   |
 | 單曲週榜                                     | 5    | 33,911 |         |      |

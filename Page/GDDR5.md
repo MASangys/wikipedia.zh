@@ -24,7 +24,7 @@ GDDR5的實際運作頻率是1500MHz。DDR記億體會於一個時鐘周期內�
 2011年早期有消息指出，[DDR4
 SDRAM記憶體問世後](../Page/DDR4_SDRAM.md "wikilink")，將會有基於DDR4標準的GDDR6顯示記憶體標準，亦即「**第六版圖形用雙倍資料傳輸率**」（Graphics
 Double Data Rate, version
-6，簡稱[GDDR6](../Page/GDDR6.md "wikilink")），將由[AMD與](https://zh.wikipedia.org/wiki/AMD "wikilink")[JEDEC於](../Page/JEDEC.md "wikilink")2012年合作制定，除此以外還有[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[高通](../Page/高通.md "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")、[Cisco等資訊企業參與該標準的制定](https://zh.wikipedia.org/wiki/Cisco "wikilink")。\[5\]該標準或基於[DDR4
+6，簡稱[GDDR6](../Page/GDDR6.md "wikilink")），將由[AMD與](https://zh.wikipedia.org/wiki/AMD "wikilink")[JEDEC](../Page/JEDEC.md "wikilink")於2012年合作制定，除此以外還有[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[高通](../Page/高通.md "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")、[Cisco等資訊企業參與該標準的制定](https://zh.wikipedia.org/wiki/Cisco "wikilink")。\[5\]該標準或基於[DDR4
 SDRAM](../Page/DDR4_SDRAM.md "wikilink")，與基於[DDR3
 SDRAM的GDDR](../Page/DDR3_SDRAM.md "wikilink")5將有不少技術差異。
 
@@ -36,7 +36,7 @@ HBM比起GDDR5擁有更高的頻寬和位元，位元部分每一顆HBM記憶體
 
 在HBM發佈之後，HBM 2也成功開發出來，記憶體位元提升至兩倍。
 
-[美光科技於](../Page/美光科技.md "wikilink")2015年10月宣布成功開發出GDDR5X，比GDDR5更高、逼近現時HBM的頻寬速度（於記憶體匯流排維持256位元、等效時脈14GHz的條件下，至少可擁有448GB/s的頻寬）。目前已知GDDR5X相較於GDDR5的改變，在於記憶體預取從8n提升到16n、更低的運行電壓（和DDR3L相同的1.35V）、其餘部分與GDDR5的基本相同。\[13\]\[14\][NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
+[美光科技](../Page/美光科技.md "wikilink")於2015年10月宣布成功開發出GDDR5X，比GDDR5更高、逼近現時HBM的頻寬速度（於記憶體匯流排維持256位元、等效時脈14GHz的條件下，至少可擁有448GB/s的頻寬）。目前已知GDDR5X相較於GDDR5的改變，在於記憶體預取從8n提升到16n、更低的運行電壓（和DDR3L相同的1.35V）、其餘部分與GDDR5的基本相同。\[13\]\[14\][NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
 [Pascal架構的顯示核心](https://zh.wikipedia.org/wiki/Pascal "wikilink")，旗艦型號使用GDDR5X記憶體。
 
 ## 另见

@@ -1,5 +1,5 @@
 **Tweetbot**是专为苹果公司的[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
-Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[Mac设计的](https://zh.wikipedia.org/wiki/Mac "wikilink")，社交网站[Twitter的第三方客户端](../Page/Twitter.md "wikilink")。该应用程序有三个版本，一个被设计用于iPhone和iPod
+Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[Mac设计的](https://zh.wikipedia.org/wiki/Mac "wikilink")，社交网站[Twitter](../Page/Twitter.md "wikilink")的第三方客户端。该应用程序有三个版本，一个被设计用于iPhone和iPod
 Touch，一个被设计用于iPad，还有一个Mac版本。
 
 ## 历史

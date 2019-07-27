@@ -1,4 +1,4 @@
-**Freebase**是一个由[元数据组成的大型合作](../Page/元数据.md "wikilink")[知识库](https://zh.wikipedia.org/wiki/知识库 "wikilink")，内容主要来自其社区成员的贡献。它整合了许多网上的资源，包括部分私人[wiki站点中的内容](https://zh.wikipedia.org/wiki/wiki "wikilink")。\[1\]Freebase致力于打造一个允许全球所有人（和机器）快捷访问的资源库。它由美国软件公司Metaweb开发并于2007年3月公开运营。2010年7月16日被[谷歌收购](https://zh.wikipedia.org/wiki/谷歌 "wikilink")。
+**Freebase**是一个由[元数据](../Page/元数据.md "wikilink")组成的大型合作[知识库](https://zh.wikipedia.org/wiki/知识库 "wikilink")，内容主要来自其社区成员的贡献。它整合了许多网上的资源，包括部分私人[wiki站点中的内容](https://zh.wikipedia.org/wiki/wiki "wikilink")。\[1\]Freebase致力于打造一个允许全球所有人（和机器）快捷访问的资源库。它由美国软件公司Metaweb开发并于2007年3月公开运营。2010年7月16日被[谷歌收购](https://zh.wikipedia.org/wiki/谷歌 "wikilink")。
 
 2014年12月16日，Google宣布将在六个月后关闭Freebase，并帮助将数据从Freebase迁移至[维基数据](../Page/维基数据.md "wikilink")。\[2\]
 

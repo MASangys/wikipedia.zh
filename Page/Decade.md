@@ -6,8 +6,8 @@ Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon环球娱乐 "wik
   - 這張專輯作為[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）第二張專輯，也是十週年紀念專輯。
   - 標題就是英語「十年」的意思。
   - Blu-ray初回限定盤（GNCA-1350）、DVD初回限定盤（GNCA-1351）及通常盤（GNCA-1352）3種版本。
-  - Blu-ray及DVD初回限定盤附收錄有《Decade》PV的DVD，這次PV出演分別由初代主唱nao與現任主唱[南條愛乃為十週年專輯主題曲](../Page/南條愛乃.md "wikilink")《Decade》合唱。
-  - 這次專輯的收錄了初代主唱nao的歌曲，以及現任主唱[南條愛乃的歌曲](../Page/南條愛乃.md "wikilink")。由南条爱乃翻唱了come
+  - Blu-ray及DVD初回限定盤附收錄有《Decade》PV的DVD，這次PV出演分別由初代主唱nao與現任主唱[南條愛乃](../Page/南條愛乃.md "wikilink")為十週年專輯主題曲《Decade》合唱。
+  - 這次專輯的收錄了初代主唱nao的歌曲，以及現任主唱[南條愛乃](../Page/南條愛乃.md "wikilink")的歌曲。由南条爱乃翻唱了come
     to mind和message两首nao时代的歌曲。
 
 ## 收錄歌曲
@@ -15,7 +15,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon环球娱乐 "wik
   - CD
 
       -
-        第1首主唱：nao、[南條愛乃](../Page/南條愛乃.md "wikilink")；第11首主唱：nao；其餘由[南條愛乃主唱](../Page/南條愛乃.md "wikilink")。
+        第1首主唱：nao、[南條愛乃](../Page/南條愛乃.md "wikilink")；第11首主唱：nao；其餘由[南條愛乃](../Page/南條愛乃.md "wikilink")主唱。
 
 <!-- end list -->
 

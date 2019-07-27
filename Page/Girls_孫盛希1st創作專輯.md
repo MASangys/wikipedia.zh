@@ -1,4 +1,4 @@
-《GIRLS》是[孫盛希首張個人](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")[創作專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2014年6月20日由[滾石唱片發行](../Page/滾石唱片.md "wikilink")。\[1\]
+《GIRLS》是[孫盛希首張個人](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")[創作專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2014年6月20日由[滾石唱片](../Page/滾石唱片.md "wikilink")發行。\[1\]
 2015年5月18日，孫盛希憑藉該專輯入圍[第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")。
 
 ## 曲目

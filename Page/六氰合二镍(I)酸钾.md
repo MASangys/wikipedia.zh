@@ -1,8 +1,8 @@
-**六氰合二镍(I)酸钾**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式为K](../Page/化学式.md "wikilink")<sub>4</sub>\[Ni<sub>2</sub>(CN)<sub>6</sub>\]。
+**六氰合二镍(I)酸钾**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为K<sub>4</sub>\[Ni<sub>2</sub>(CN)<sub>6</sub>\]。
 
 ## 制备
 
-在液[氨中](../Page/氨.md "wikilink")，用金属[钾还原](../Page/钾.md "wikilink")[四氰合镍(II)酸钾可以得到六氰合二镍](../Page/四氰合镍\(II\)酸钾.md "wikilink")(I)酸钾。\[1\]
+在液[氨](../Page/氨.md "wikilink")中，用金属[钾](../Page/钾.md "wikilink")还原[四氰合镍(II)酸钾](../Page/四氰合镍\(II\)酸钾.md "wikilink")可以得到六氰合二镍(I)酸钾。\[1\]
 
 ## 化学性质
 

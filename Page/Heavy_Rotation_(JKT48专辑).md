@@ -1,9 +1,9 @@
 《**Heavy
-Rotation**》是印度尼西亚偶像组合[JKT48的第一张](../Page/JKT48.md "wikilink")[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。在2013年2月16日由发售。[歌词中大部分都是从日语翻译成](https://zh.wikipedia.org/wiki/歌词 "wikilink")[印度尼西亚语的](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
+Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")的第一张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。在2013年2月16日由发售。[歌词中大部分都是从日语翻译成](https://zh.wikipedia.org/wiki/歌词 "wikilink")[印度尼西亚语的](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
 
 ## 概要
 
-在印度尼西亚发行之后，Type-A也将在[日本发行特别版](../Page/日本.md "wikilink")，在2013年4月27日、28日的举办的「[AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")」中提前发售了一部分，並将在2013年6月12日正式发行（需要提前预约）\[1\]。截止2013年6月，这张专辑在印度尼西亚的销量已经超过了7万张\[2\]。
+在印度尼西亚发行之后，Type-A也将在[日本](../Page/日本.md "wikilink")发行特别版，在2013年4月27日、28日的举办的「[AKB48团临时总会～黑白分明！～](https://zh.wikipedia.org/wiki/AKB48团临时总会～黑白分明！～ "wikilink")」中提前发售了一部分，並将在2013年6月12日正式发行（需要提前预约）\[1\]。截止2013年6月，这张专辑在印度尼西亚的销量已经超过了7万张\[2\]。
 
 ## 收录曲目
 
@@ -21,7 +21,7 @@ Rotation**》是印度尼西亚偶像组合[JKT48的第一张](../Page/JKT48.md 
 1.  **Heavy Rotation** \[4:42\]
       -
         （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：山崎燿、編曲：）
-        [AKB48的](../Page/AKB48.md "wikilink")[第17张单曲标题曲《无限重播》的翻唱](https://zh.wikipedia.org/wiki/无限重播 "wikilink")。
+        [AKB48](../Page/AKB48.md "wikilink")的[第17张单曲标题曲《无限重播》的翻唱](https://zh.wikipedia.org/wiki/无限重播 "wikilink")。
 2.  **Kimi no Koto ga Suki Dakara** -Karena Kusuka Dirimu- \[4:07\]
       -
         （作詞：秋元康、作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")、編曲：（））
@@ -59,7 +59,7 @@ Rotation**》是印度尼西亚偶像组合[JKT48的第一张](../Page/JKT48.md 
 8.  **Gomenne、Summer** -Maafkan、Summer- \[4:03\]
       -
         （作詞：秋元康、作曲：[俊龍](../Page/俊龍.md "wikilink")、編曲：原田）
-        [SKE48的](../Page/SKE48.md "wikilink")[第3张单曲标题曲《抱歉、SUMMER》的翻唱](../Page/抱歉、SUMMER.md "wikilink")。
+        [SKE48](../Page/SKE48.md "wikilink")的[第3张单曲标题曲《抱歉、SUMMER》的翻唱](../Page/抱歉、SUMMER.md "wikilink")。
 9.  **Namida Surprise\!** -Air Mata Surprise\!- \[4:40\]
       -
         （作詞：秋元康、作曲・編曲：井上义正）
@@ -99,7 +99,7 @@ Rotation**》是印度尼西亚偶像组合[JKT48的第一张](../Page/JKT48.md 
 
   - 高城亚樹和仲川遥香合影生写真 1张（先行发售盤只有一种、正式发行的版本中三种随机封入一种）
   - JKT48 Team J生写真（除了高城亚树和仲川遥香之外Team J成员21名随机封入一张）
-  - JKT48 成员亲自书写的[日语信息卡](../Page/日语.md "wikilink")（51名成员随机封入一种）
+  - JKT48 成员亲自书写的[日语](../Page/日语.md "wikilink")信息卡（51名成员随机封入一种）
   - 印尼国内使用的握手券
 
 ### Type-B

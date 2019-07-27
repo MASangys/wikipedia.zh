@@ -1,9 +1,9 @@
 **Samsung Galaxy
-S5**是韓國[三星電子於](../Page/三星電子.md "wikilink")2014年推出的新一代旗艦型智慧型手機，是[Samsung
+S5**是韓國[三星電子](../Page/三星電子.md "wikilink")於2014年推出的新一代旗艦型智慧型手機，是[Samsung
 Galaxy
 S系列的第五代](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S系列 "wikilink")。在2014年2月24日在西班牙[巴塞罗那举行的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[全球移动通讯大会上發佈](https://zh.wikipedia.org/wiki/全球移动通讯大会 "wikilink")。
 
-[Android操作系統的旗艦級高價](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，作為它的前一代[三星Galaxy
+[Android](../Page/Android.md "wikilink")操作系統的旗艦級高價[智能手机](../Page/智能手机.md "wikilink")，作為它的前一代[三星Galaxy
 S4的繼承機型](../Page/三星Galaxy_S4.md "wikilink")。主要競爭對手為[HTC One
 (M8)](../Page/HTC_One_\(M8\).md "wikilink")，同期競爭尚有[Sony Xperia
 Z2](../Page/Sony_Xperia_Z2.md "wikilink")、[LG
@@ -13,7 +13,7 @@ G3](../Page/LG_G3.md "wikilink")\[1\]\[2\]、[iPhone
 ## 发布
 
 Galaxy
-S5在2014年2月24日西班牙[巴塞罗那举行的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[全球移动通讯大会上發佈](https://zh.wikipedia.org/wiki/全球移动通讯大会 "wikilink")。三星移动业务副总裁[李永熙在](https://zh.wikipedia.org/wiki/李永熙 "wikilink")[2014年1月的访谈中](../Page/2014年1月.md "wikilink")，谈到新一代的[Galaxy
+S5在2014年2月24日西班牙[巴塞罗那举行的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[全球移动通讯大会上發佈](https://zh.wikipedia.org/wiki/全球移动通讯大会 "wikilink")。三星移动业务副总裁[李永熙在](https://zh.wikipedia.org/wiki/李永熙 "wikilink")[2014年1月](../Page/2014年1月.md "wikilink")的访谈中，谈到新一代的[Galaxy
 Gear智能手表将会与Galaxy](https://zh.wikipedia.org/wiki/Galaxy_Gear "wikilink")
 S5一同推出\[3\]。同年4月11日在150個國家開賣。
 
@@ -90,14 +90,14 @@ S4 LTE-A的開賣每日銷售上萬支稍低\[4\] 。
 ### 負面
 
   - 有Mobile01論壇網民批評「S5造型醜、功能了無新意」，「防水功能是抄襲SONY的」、並批評偵測心跳功能毫無用處\[5\]。
-  - [诺基亚在](../Page/诺基亚.md "wikilink")[Twitter上发布了一張寫著](../Page/Twitter.md "wikilink")“Not
+  - [诺基亚](../Page/诺基亚.md "wikilink")在[Twitter](../Page/Twitter.md "wikilink")上发布了一張寫著“Not
     the
     SAMESUNG”（意思为一样的毫无新意）的[圖片](https://web.archive.org/web/20140407083753/http://www.xapcn.com/uploads/allimg/140225/1_140225154814_2_lit.png)，嘲笑S5了无新意\[6\]。
   - 香港[東方日報評論認為S](https://zh.wikipedia.org/wiki/東方日報 "wikilink")5沒配備2K高清顯示屏，令新的處理器「無用武之地」，其他規格也「沒甚驚喜」，改用快速充電技術的傳言也落空，「甚至連不少日系手機擁有的無線充電功能也欠奉」。評論指三星S4
     Active早已是防水防塵手機，其實並沒新意。\[7\]
-  - [福布斯評論指S](../Page/福布斯.md "wikilink")5它沒採用金屬機身而繼續用塑膠「讓用家失望」，S5的操作介面面對競爭對手的全新[iOS
+  - [福布斯](../Page/福布斯.md "wikilink")評論指S5它沒採用金屬機身而繼續用塑膠「讓用家失望」，S5的操作介面面對競爭對手的全新[iOS
     7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，卻沿用[Touchwiz](https://zh.wikipedia.org/wiki/Touchwiz "wikilink")，未見有大改變。\[8\]
-  - 有[YouTube頻道對Galaxy](../Page/YouTube.md "wikilink")
+  - 有[YouTube](../Page/YouTube.md "wikilink")頻道對Galaxy
     S5進行撞擊測試時，電池突然膨脹並隨即爆炸，洩出不明氣體、燻黑手機\[9\]
     。
   - [新浪網評論指](https://zh.wikipedia.org/wiki/新浪網 "wikilink")「S5內置的心率傳感器的功能事實上任何配備相機和閃光燈的設備都可以提供，傳感器與很多第三方應用沒有太多區別，沒有驚喜，而且讀數不超過5BPM，沒有任何實際意義\[10\]。

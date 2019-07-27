@@ -1,4 +1,4 @@
-**Ubiquity**是一个简单的[Ubuntu和它的衍生版本的Linux安装程序](../Page/Ubuntu.md "wikilink")。它运行于[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，并且有[Qt和](../Page/Qt.md "wikilink")[GTK+的前端界面](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。Ubiquity最早在Ubuntu
+**Ubiquity**是一个简单的[Ubuntu](../Page/Ubuntu.md "wikilink")和它的衍生版本的Linux安装程序。它运行于[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，并且有[Qt](../Page/Qt.md "wikilink")和[GTK+的前端界面](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。Ubiquity最早在Ubuntu
 6.06 (Dapper Drake)中被引入。
 
 ## 特性

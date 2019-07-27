@@ -1,4 +1,4 @@
-《**老表，你好hea！**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，此劇為《[老表，你好嘢！](../Page/老表，你好嘢！_\(電視劇\).md "wikilink")》的姊妹作，但故事內容沒有關聯。是由[郭晉安](../Page/郭晉安.md "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[萬綺雯](../Page/萬綺雯.md "wikilink")、[王菀之及](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[張繼聰領銜主演](../Page/張繼聰.md "wikilink")，並由[鍾景輝](../Page/鍾景輝.md "wikilink")、[黃光亮](../Page/黃光亮.md "wikilink")、[朱咪咪](../Page/朱咪咪.md "wikilink")、[林盛斌](../Page/林盛斌.md "wikilink")、[胡楓](../Page/胡楓.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[小寶](https://zh.wikipedia.org/wiki/陳嘉佳 "wikilink")、[韓馬利及](../Page/韓馬利.md "wikilink")[羅蘭聯合主演](../Page/羅蘭_\(香港\).md "wikilink")，此劇為[2014無綫節目巡禮劇集之一](../Page/2014無綫節目巡禮.md "wikilink")，亦為**無線電視邁向48週年（2014年）台慶劇**。內容以娛樂圈、環保、爭產風波、政治人物、民生為主，主軸由富二代發展。
+《**老表，你好hea！**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，此劇為《[老表，你好嘢！](../Page/老表，你好嘢！_\(電視劇\).md "wikilink")》的姊妹作，但故事內容沒有關聯。是由[郭晉安](../Page/郭晉安.md "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[萬綺雯](../Page/萬綺雯.md "wikilink")、[王菀之及](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[張繼聰](../Page/張繼聰.md "wikilink")領銜主演，並由[鍾景輝](../Page/鍾景輝.md "wikilink")、[黃光亮](../Page/黃光亮.md "wikilink")、[朱咪咪](../Page/朱咪咪.md "wikilink")、[林盛斌](../Page/林盛斌.md "wikilink")、[胡楓](../Page/胡楓.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[小寶](https://zh.wikipedia.org/wiki/陳嘉佳 "wikilink")、[韓馬利](../Page/韓馬利.md "wikilink")及[羅蘭聯合主演](../Page/羅蘭_\(香港\).md "wikilink")，此劇為[2014無綫節目巡禮](../Page/2014無綫節目巡禮.md "wikilink")劇集之一，亦為**無線電視邁向48週年台慶劇**。內容以娛樂圈、環保、爭產風波、政治人物、民生為主，主軸由富二代發展。
 
 ## 演員表
 
@@ -136,7 +136,7 @@
 尤長、齊秋水之私生女<br />
 尤田無血緣關係之姊，并被其憎恨<br />
 林在野之舊同學，後為其女友，於第21集公證结婚，第24集公開宴客<br />
-對基本147種物質（食物、氣體和化學物品）過敏，會對<a href="../Page/橙.md" title="wikilink">橙產生恐懼而暈倒</a>，在第8集得林在野之助而成功克服<br />
+對基本147種物質（食物、氣體和化學物品）過敏，會對<a href="../Page/橙.md" title="wikilink">橙</a>產生恐懼而暈倒，在第8集得林在野之助而成功克服<br />
 於第30集被尤田的魚流感導致昏迷，後甦醒<br />
 戴眼鏡後性格變得兇惡<br />
 參見<a href="https://zh.wikipedia.org/wiki/#福建炒飯同鄉會" title="wikilink"><strong>福建炒飯同鄉會</strong></a></p></td>
@@ -158,7 +158,7 @@
 馬利亞之天敵<br />
 追求林雪，後視為天敵<br />
 因樣貌和馬拉高相似而常被誤會為兩父子<br />
-特別喜愛吃<a href="../Page/魚翅.md" title="wikilink">魚翅</a>、<a href="../Page/鮑魚.md" title="wikilink">鮑魚和喝</a><a href="https://zh.wikipedia.org/wiki/紅酒" title="wikilink">紅酒</a>，于《<a href="https://zh.wikipedia.org/wiki/老表，毕业喇！" title="wikilink">老表，毕业喇！</a>》第30集为了环保而戒食鱼翅并喜欢《<a href="https://zh.wikipedia.org/wiki/老表，你好嘢！" title="wikilink">老表，你好嘢！</a>》里的蔡芯的咖喱鱼蛋<br />
+特別喜愛吃<a href="../Page/魚翅.md" title="wikilink">魚翅</a>、<a href="../Page/鮑魚.md" title="wikilink">鮑魚</a>和喝<a href="https://zh.wikipedia.org/wiki/紅酒" title="wikilink">紅酒</a>，于《<a href="https://zh.wikipedia.org/wiki/老表，毕业喇！" title="wikilink">老表，毕业喇！</a>》第30集为了环保而戒食鱼翅并喜欢《<a href="https://zh.wikipedia.org/wiki/老表，你好嘢！" title="wikilink">老表，你好嘢！</a>》里的蔡芯的咖喱鱼蛋<br />
 口頭禪：可能我<a href="https://zh.wikipedia.org/wiki/洋人" title="wikilink">鬼仔性格</a><br />
 於第29集成為「魚流感」帶菌者，令香港爆發突發性腎上腺素過激兼流行性魚流感，於第30集康復并改邪歸正（實際上並没有認真反省）<br />
 參見《<a href="../Page/老表，畢業喇！.md" title="wikilink">老表，畢業喇！</a>》</p></td>
@@ -226,7 +226,7 @@
 林在野之舊同學，後為其女友，於第21集公證结婚，第24集公開宴客<br />
 希拉美之舊同學，被其陷害<br />
 郭寶之女友，後分手<br />
-對基本147種物質（食物、氣體和化學物品）過敏，會對<a href="../Page/橙.md" title="wikilink">橙產生恐懼而暈倒</a>，在第8集得林在野之助而成功克服<br />
+對基本147種物質（食物、氣體和化學物品）過敏，會對<a href="../Page/橙.md" title="wikilink">橙</a>產生恐懼而暈倒，在第8集得林在野之助而成功克服<br />
 於第20集退出福建炒飯同鄉會，於第23集加入聯群傑黨，後於第25集返回福建炒飯同鄉會<br />
 戴眼鏡後性格變得兇惡<br />
 於第30集被尤田的魚流感導致昏迷，後甦醒</p></td>
@@ -1384,41 +1384,41 @@ Eric Kwok之妻</p></td>
 
 ## 軼事
 
-  - 此劇於第三集劇情播出的戲中戲《殭屍和我有個誤會》為無綫電視多年來的競爭對手[亞洲電視的經典劇集](../Page/亞洲電視.md "wikilink")《[我和殭屍有個約會](../Page/我和殭屍有個約會.md "wikilink")》系列的映射，而該套劇集為本劇女主角萬綺雯主演的劇集。其中《假如真的再有約會》為其第二輯《[我和殭屍有個約會II](../Page/我和殭屍有個約會II.md "wikilink")》之主題曲，無綫電視能夠播出其主題曲絕對是香港電視史上一大突破。
+  - 此劇於第三集劇情播出的戲中戲《殭屍和我有個誤會》為無綫電視多年來的競爭對手[亞洲電視](../Page/亞洲電視.md "wikilink")的經典劇集《[我和殭屍有個約會](../Page/我和殭屍有個約會.md "wikilink")》系列的映射，而該套劇集為本劇女主角萬綺雯主演的劇集。其中《假如真的再有約會》為其第二輯《[我和殭屍有個約會II](../Page/我和殭屍有個約會II.md "wikilink")》之主題曲，無綫電視能夠播出其主題曲絕對是香港電視史上一大突破。
 
 <!-- end list -->
 
-  - 此劇[蔣志光所飾演的角色高音為其半自傳式劇情](../Page/蔣志光.md "wikilink")。該角色由在[廟街模仿](https://zh.wikipedia.org/wiki/庙街 "wikilink")[林子祥](../Page/林子祥.md "wikilink")，到創辦沒關係唱片有限公司，創作《城市儷人》、《舊朋友》、《相逢何必曾相識》等，但歌曲雖紅，人卻偏偏不紅，認為音樂已死，就此退隱江湖，而蔣志光則半生歷程正正是原本在廟街唱口水歌糊口，其後獲邀模仿林子祥唱歌，而《城市儷人》、《舊朋友》、《相逢何必曾相識》正正為其所創作，而其歌曲雖紅，人卻不紅，也是他當時的寫照。
+  - 此劇[蔣志光](../Page/蔣志光.md "wikilink")所飾演的角色高音為其半自傳式劇情。該角色由在[廟街模仿](https://zh.wikipedia.org/wiki/庙街 "wikilink")[林子祥](../Page/林子祥.md "wikilink")，到創辦沒關係唱片有限公司，創作《城市儷人》、《舊朋友》、《相逢何必曾相識》等，但歌曲雖紅，人卻偏偏不紅，認為音樂已死，就此退隱江湖，而蔣志光則半生歷程正正是原本在廟街唱口水歌糊口，其後獲邀模仿林子祥唱歌，而《城市儷人》、《舊朋友》、《相逢何必曾相識》正正為其所創作，而其歌曲雖紅，人卻不紅，也是他當時的寫照。
 
 <!-- end list -->
 
-  - 此劇主角[郭晉安飾演的林在野自設](../Page/郭晉安.md "wikilink")[網路電台自投羅網](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，\[3\]。並且劇中該網台的所有內容，也都放在了網台上。
+  - 此劇主角[郭晉安](../Page/郭晉安.md "wikilink")飾演的林在野自設[網路電台自投羅網](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，\[3\]。並且劇中該網台的所有內容，也都放在了網台上。
 
 <!-- end list -->
 
   - 此劇第24集之中福建炒飯同鄉會以及聯群結黨各自穿著黃色以及紅色衣服在街上以及茶樓[講數提親](https://zh.wikipedia.org/wiki/講數 "wikilink")，取材自[泰國政治鬥爭](https://zh.wikipedia.org/wiki/泰國 "wikilink")。其中福建炒飯同鄉會所穿黃衫映射泰國的[黃衫軍](https://zh.wikipedia.org/wiki/黃衫軍 "wikilink")，而聯群結黨的則影射[紅衫軍](https://zh.wikipedia.org/wiki/紅衫軍 "wikilink")。
-  - 此劇[張繼聰飾演的](../Page/張繼聰.md "wikilink") Mario
-    遇到[謝安琪時指他很妒忌謝安琪的丈夫](../Page/謝安琪.md "wikilink")。但在現實生活，張繼聰正是謝安琪的丈夫，有自誇和自嘲的雙重效果。
+  - 此劇[張繼聰](../Page/張繼聰.md "wikilink")飾演的 Mario
+    遇到[謝安琪](../Page/謝安琪.md "wikilink")時指他很妒忌謝安琪的丈夫。但在現實生活，張繼聰正是謝安琪的丈夫，有自誇和自嘲的雙重效果。
   - 此劇 [Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")
-    和[葉佩雯在現實生活中也是夫婦](../Page/葉佩雯.md "wikilink")，但葉佩雯從來沒有當過音樂比賽評審。而
+    和[葉佩雯](../Page/葉佩雯.md "wikilink")在現實生活中也是夫婦，但葉佩雯從來沒有當過音樂比賽評審。而
     Eric
-    與[陳奐仁是](../Page/陳奐仁.md "wikilink")《[星夢傳奇](../Page/星夢傳奇.md "wikilink")》評審，也是令[鄭俊弘和](../Page/鄭俊弘.md "wikilink")[陳明恩的音樂才能被發掘的選秀節目](../Page/陳明恩.md "wikilink")。同時[王祖藍也在該節目成為](../Page/王祖藍.md "wikilink")「星夢幫」外援參賽者和嘉賓主持。
-  - 此劇[李思捷是辣㷫玩嘢王主持](../Page/李思捷.md "wikilink")，在現實生活也是《[玩嘢王](../Page/玩嘢王_\(無綫電視\).md "wikilink")》主持，本劇演員[陳奐仁和](../Page/陳奐仁.md "wikilink")[郭晉安曾參加合謀玩弄](../Page/郭晉安.md "wikilink")，而[林盛斌](../Page/林盛斌.md "wikilink")、[小寶和](../Page/小寶.md "wikilink")[吳業坤也曾被玩弄](../Page/吳業坤.md "wikilink")。
-  - 此劇是[張繼聰與](../Page/張繼聰.md "wikilink")[李亞男繼](https://zh.wikipedia.org/wiki/李亞男 "wikilink")《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》後再度合作。
-  - 此劇是[司徒瑞祈服務](../Page/司徒瑞祈.md "wikilink")10年之告別作。
+    與[陳奐仁](../Page/陳奐仁.md "wikilink")是《[星夢傳奇](../Page/星夢傳奇.md "wikilink")》評審，也是令[鄭俊弘](../Page/鄭俊弘.md "wikilink")和[陳明恩](../Page/陳明恩.md "wikilink")的音樂才能被發掘的選秀節目。同時[王祖藍](../Page/王祖藍.md "wikilink")也在該節目成為「星夢幫」外援參賽者和嘉賓主持。
+  - 此劇[李思捷](../Page/李思捷.md "wikilink")是辣㷫玩嘢王主持，在現實生活也是《[玩嘢王](../Page/玩嘢王_\(無綫電視\).md "wikilink")》主持，本劇演員[陳奐仁](../Page/陳奐仁.md "wikilink")和[郭晉安](../Page/郭晉安.md "wikilink")曾參加合謀玩弄，而[林盛斌](../Page/林盛斌.md "wikilink")、[小寶](../Page/小寶.md "wikilink")和[吳業坤](../Page/吳業坤.md "wikilink")也曾被玩弄。
+  - 此劇是[張繼聰](../Page/張繼聰.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[小寶](../Page/小寶.md "wikilink")與[李亞男繼](https://zh.wikipedia.org/wiki/李亞男 "wikilink")《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》後再度合作。
+  - 此劇是[司徒瑞祈](../Page/司徒瑞祈.md "wikilink")服務10年之告別作。
 
 ### 迴響
 
-  - 受本劇[蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")、黑妹、[小寶等帶動的全城熱話影響](../Page/小寶.md "wikilink")，TVB亦於[2015無綫節目巡禮之中發佈讓以前的歌手再次發光發熱的節目](../Page/2015無綫節目巡禮.md "wikilink")《我要再成名》的（製作）計劃，其後於2017年製作同類的懷舊音樂節目[流行經典50年](../Page/流行經典50年.md "wikilink")。
+  - 受本劇[蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")、黑妹、[小寶](../Page/小寶.md "wikilink")等帶動的全城熱話影響，TVB亦於[2015無綫節目巡禮](../Page/2015無綫節目巡禮.md "wikilink")之中發佈讓以前的歌手再次發光發熱的節目《我要再成名》的（製作）計劃，其後於2017年製作同類的懷舊音樂節目[流行經典50年](../Page/流行經典50年.md "wikilink")。
 
 ## 記事
 
-  - 2014年3月31日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠灰位舉行開鏡拜神儀式](../Page/電視廣播城.md "wikilink")。
+  - 2014年3月31日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠灰位舉行開鏡拜神儀式。
   - 2014年10月13日：此劇於13:00在將軍澳[新都城中心二期商場L](https://zh.wikipedia.org/wiki/新都城中心 "wikilink")1天幕廣場舉行「老表駕臨賀台慶」宣傳活動\[4\]。
   - 2014年10月19日：此劇於14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[The
     ONE露天廣場舉行](../Page/The_ONE.md "wikilink")「我有好嘢推介」宣傳活動。
-  - 2014年10月30日：此劇於17:00在[油塘](../Page/油塘.md "wikilink")[大本型地下中庭舉行](../Page/大本型.md "wikilink")「老表同你玩嘢」宣傳活動。
-  - 2014年11月16日：此劇於14:00在[鑽石山](../Page/鑽石山.md "wikilink")[荷里活廣場一樓明星廣場舉行](../Page/荷里活廣場.md "wikilink")「相逢未晚演嘢會」宣傳活動。
+  - 2014年10月30日：此劇於17:00在[油塘](../Page/油塘.md "wikilink")[大本型](../Page/大本型.md "wikilink")地下中庭舉行「老表同你玩嘢」宣傳活動。
+  - 2014年11月16日：此劇於14:00在[鑽石山](../Page/鑽石山.md "wikilink")[荷里活廣場](../Page/荷里活廣場.md "wikilink")一樓明星廣場舉行「相逢未晚演嘢會」宣傳活動。
   - 2014年11月30日：大結局前後安排特備節目《老表，你好hea！爆唱金曲頒獎典禮》於21:00-21:15及23:15-23:30在翡翠台及高清翡翠台播映。
 
 ## 製作團隊
@@ -1556,7 +1556,7 @@ Eric Kwok之妻</p></td>
 
 ## 收視
 
-以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |             |                    |          |          |
 | ------ | ----------- | ------------------ | -------- | -------- |

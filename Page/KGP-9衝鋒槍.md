@@ -1,4 +1,4 @@
-**KGP-9**是一種[匈牙利製的](../Page/匈牙利.md "wikilink")[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，主要裝備本國的[軍隊和](../Page/軍隊.md "wikilink")[監獄守衛](../Page/監獄.md "wikilink")。
+**KGP-9**是一種[匈牙利](../Page/匈牙利.md "wikilink")製的[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，主要裝備本國的[軍隊](../Page/軍隊.md "wikilink")和[監獄](../Page/監獄.md "wikilink")守衛。
 
 ## 設計
 

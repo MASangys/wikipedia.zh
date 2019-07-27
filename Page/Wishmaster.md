@@ -1,10 +1,10 @@
-《**Wishmaster**》是芬兰[交响金属乐团](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿的第三张专辑](../Page/夜愿.md "wikilink")，由[Spinefarm唱片发行于](https://zh.wikipedia.org/wiki/Spinefarm "wikilink")2000年5月19日。
+《**Wishmaster**》是芬兰[交响金属乐团](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿](../Page/夜愿.md "wikilink")的第三张专辑，由[Spinefarm唱片发行于](https://zh.wikipedia.org/wiki/Spinefarm "wikilink")2000年5月19日。
 
 《Wishmaster》延续了前张专辑《[Oceanborn](../Page/Oceanborn.md "wikilink")》
 强大交响力量金属的的特色，但也更重视强有力的旋律速度与沉重的氛围。《Wishmaster》有一个非常明确的幻想主题，这或许超越了其上张专辑。虽然
 人们通常认为专辑接近传统力量金属，但其也有种类繁多的慢歌，如《Come Cover Me》和《Two for
 Tragedy》，以及更多的史诗类作品，如《Dead Boy's
-Poem》和《FantasMic》。《Kinslayer》则写了科伦拜恩高中屠杀的受害者\[1\]。《Wishmaster》的灵感来自于幻想小说《[指环王](https://zh.wikipedia.org/wiki/指环王 "wikilink")》和《[龙枪](https://zh.wikipedia.org/wiki/龙枪 "wikilink")》，里面提到了[瓦爾妲](../Page/瓦爾妲.md "wikilink")、[羅斯洛立安和从前的](../Page/羅斯洛立安.md "wikilink")[林頓](../Page/林頓.md "wikilink")；此外还有[达拉马](https://zh.wikipedia.org/wiki/达拉马 "wikilink")、[雷斯林·马哲里以及后来的](https://zh.wikipedia.org/wiki/雷斯林·马哲里 "wikilink")[最终归宿旅店](https://zh.wikipedia.org/wiki/最终归宿旅店 "wikilink")\[2\]。歌曲《FantasMic》和迪斯尼动画电影相关，尤以其中的幻想和寓言的元素，而歌曲标题则是来自迪士尼乐园节目《[Fantasmic\!](../Page/Fantasmic!.md "wikilink")》。
+Poem》和《FantasMic》。《Kinslayer》则写了科伦拜恩高中屠杀的受害者\[1\]。《Wishmaster》的灵感来自于幻想小说《[指环王](https://zh.wikipedia.org/wiki/指环王 "wikilink")》和《[龙枪](https://zh.wikipedia.org/wiki/龙枪 "wikilink")》，里面提到了[瓦爾妲](../Page/瓦爾妲.md "wikilink")、[羅斯洛立安](../Page/羅斯洛立安.md "wikilink")和从前的[林頓](../Page/林頓.md "wikilink")；此外还有[达拉马](https://zh.wikipedia.org/wiki/达拉马 "wikilink")、[雷斯林·马哲里以及后来的](https://zh.wikipedia.org/wiki/雷斯林·马哲里 "wikilink")[最终归宿旅店](https://zh.wikipedia.org/wiki/最终归宿旅店 "wikilink")\[2\]。歌曲《FantasMic》和迪斯尼动画电影相关，尤以其中的幻想和寓言的元素，而歌曲标题则是来自迪士尼乐园节目《[Fantasmic\!](../Page/Fantasmic!.md "wikilink")》。
 
 专辑同名歌曲《Wishmaster》一直夜愿的精选作品之一，其在几个[精选辑中](https://zh.wikipedia.org/wiki/精选辑 "wikilink")
 都有收录。其自发布以来经常在现场演奏中出现，歌曲还是2005年录制的现场DVD《End of an

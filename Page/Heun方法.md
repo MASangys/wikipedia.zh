@@ -1,4 +1,4 @@
-在[数学和](../Page/数学.md "wikilink")[计算机科学中](../Page/计算机科学.md "wikilink")，**Heun法**亦被稱為**改进的**或**修改過的欧拉方法**（即，顯式的梯形规则），或类似的二阶的[龙格－库塔法](../Page/龙格－库塔法.md "wikilink")。它是以德國數學家的名字命名的，是求解給定[初值](../Page/初值問題.md "wikilink")[常微分方程的](../Page/常微分方程.md "wikilink")[数值方法](https://zh.wikipedia.org/wiki/数值方法 "wikilink")。这两个变体可以被看作是把[欧拉方法扩展为两级二阶龙格](../Page/欧拉方法.md "wikilink")－库塔法。
+在[数学](../Page/数学.md "wikilink")和[计算机科学](../Page/计算机科学.md "wikilink")中，**Heun法**亦被稱為**改进的**或**修改過的欧拉方法**（即，顯式的梯形规则），或类似的二阶的[龙格－库塔法](../Page/龙格－库塔法.md "wikilink")。它是以德國數學家的名字命名的，是求解給定[初值](../Page/初值問題.md "wikilink")[常微分方程](../Page/常微分方程.md "wikilink")的[数值方法](https://zh.wikipedia.org/wiki/数值方法 "wikilink")。这两个变体可以被看作是把[欧拉方法](../Page/欧拉方法.md "wikilink")扩展为两级二阶龙格－库塔法。
 
 通过Heun法计算初值问题数值解的过程步骤：
 

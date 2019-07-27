@@ -10,7 +10,7 @@ GAZ-67/67B的可越過64度斜坡和以40度下坡，因此蘇聯人宣稱其機
 
 ## 實戰
 
-GAZ-67/67B首次參戰就是[庫斯克戰役](https://zh.wikipedia.org/wiki/庫斯克戰役 "wikilink")，用作拉動火炮、偵察車和參謀聯絡車，二次大戰後GAZ-67/67B也軍援中國和朝鮮並用於[韓戰](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，由於GAZ-67/67B可以用[直-5空運](../Page/直-5.md "wikilink")，所以，[中國人民解放軍的GAZ](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")-67/67B用於空降部隊作機降作戰。
+GAZ-67/67B首次參戰就是[庫斯克戰役](https://zh.wikipedia.org/wiki/庫斯克戰役 "wikilink")，用作拉動火炮、偵察車和參謀聯絡車，二次大戰後GAZ-67/67B也軍援中國和朝鮮並用於[韓戰](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，由於GAZ-67/67B可以用[直-5](../Page/直-5.md "wikilink")空運，所以，[中國人民解放軍的GAZ](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")-67/67B用於空降部隊作機降作戰。
 
 ## 基本資料(GAZ-67B)
 

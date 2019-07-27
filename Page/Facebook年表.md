@@ -17,7 +17,7 @@
 | 2009年－2011年間專注發展             | Facebook希望成為網路的「社交層」（social layer），推出[Facebook Connect](https://zh.wikipedia.org/wiki/Facebook_Connect "wikilink")（現已中止），讓外部網站可加入Facebook的「讚」按鈕，並讓使用者可以Facebook帳號登入網站。                                                                        |
 | 2012年起，包括2010年和2011年的部分先期行動  | Facebook to sim                                                                                                                                                                                                                               |
 | 2011年起                       | Facebook保留了部分核心社交基礎架構，將個人檔案頁面和塗鴉牆以新的「動態時報」（Timeline）取代，並推出新的社交圖表搜尋（Facebook Graph Search）取代舊有的搜尋方式。2013年3月Facebook曾宣布大幅重新設計動態消息頁面的計劃，但數個月後計劃被取消。                                                                                              |
-| 2013年起                       | Facebook向[Twitter市場挑戰](../Page/Twitter.md "wikilink")，包括支援[主題標籤](../Page/主題標籤.md "wikilink")（hashtag）和主題標籤搜尋，並據此推出熱門主題區塊（trending topics）。                                                                                                    |
+| 2013年起                       | Facebook向[Twitter](../Page/Twitter.md "wikilink")市場挑戰，包括支援[主題標籤](../Page/主題標籤.md "wikilink")（hashtag）和主題標籤搜尋，並據此推出熱門主題區塊（trending topics）。                                                                                                    |
 
 ## 完整年表
 
@@ -71,7 +71,7 @@
 <td><p>2004年</p></td>
 <td><p>6月</p></td>
 <td></td>
-<td><p>Thefacebook.com獲得來自<a href="../Page/PayPal.md" title="wikilink">PayPal共同創辦人彼得</a>·西爾（Peter Thiel）的第一筆投資50萬美元。 [9]</p></td>
+<td><p>Thefacebook.com獲得來自<a href="../Page/PayPal.md" title="wikilink">PayPal</a>共同創辦人彼得·西爾（Peter Thiel）的第一筆投資50萬美元。 [9]</p></td>
 </tr>
 <tr class="even">
 <td><p>2004年</p></td>
@@ -113,7 +113,7 @@
 <td><p>2006年</p></td>
 <td><p>5月</p></td>
 <td><p>使用者</p></td>
-<td><p>Facebook擴展到<a href="../Page/印度.md" title="wikilink">印度的</a><a href="../Page/印度理工學院.md" title="wikilink">印度理工學院和</a><a href="https://zh.wikipedia.org/wiki/印度管理學院" title="wikilink">印度管理學院</a>。</p></td>
+<td><p>Facebook擴展到<a href="../Page/印度.md" title="wikilink">印度</a>的<a href="../Page/印度理工學院.md" title="wikilink">印度理工學院</a>和<a href="https://zh.wikipedia.org/wiki/印度管理學院" title="wikilink">印度管理學院</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
@@ -131,7 +131,7 @@
 <td><p>2006年</p></td>
 <td><p>8月</p></td>
 <td><p>使用者</p></td>
-<td><p>Facebook加入了<a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國的大學和</a><a href="../Page/以色列.md" title="wikilink">以色列的高中</a>。</p></td>
+<td><p>Facebook加入了<a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國的大學和</a><a href="../Page/以色列.md" title="wikilink">以色列</a>的高中。</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年</p></td>
@@ -155,7 +155,7 @@
 <td><p>2006年</p></td>
 <td><p>10月</p></td>
 <td><p>收購</p></td>
-<td><p>隨著<a href="../Page/Google.md" title="wikilink">Google以</a>16億美元收購YouTube，有傳聞說Google開價23億美元欲從<a href="../Page/雅虎.md" title="wikilink">雅虎手中搶購Facebook</a>。[20]</p></td>
+<td><p>隨著<a href="../Page/Google.md" title="wikilink">Google</a>以16億美元收購YouTube，有傳聞說Google開價23億美元欲從<a href="../Page/雅虎.md" title="wikilink">雅虎</a>手中搶購Facebook。[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
@@ -185,13 +185,13 @@
 <td><p>2007年</p></td>
 <td><p>7月</p></td>
 <td><p>被Facebook收購</p></td>
-<td><p>Facebook完成了第一次對其他公司的收購，從<a href="https://zh.wikipedia.org/wiki/布雷克·罗斯" title="wikilink">布雷克·罗斯和</a><a href="../Page/喬·休伊特.md" title="wikilink">喬·休伊特手中收購了</a><a href="../Page/Parakey.md" title="wikilink">Parakey</a>。[23]</p></td>
+<td><p>Facebook完成了第一次對其他公司的收購，從<a href="https://zh.wikipedia.org/wiki/布雷克·罗斯" title="wikilink">布雷克·罗斯和</a><a href="../Page/喬·休伊特.md" title="wikilink">喬·休伊特</a>手中收購了<a href="../Page/Parakey.md" title="wikilink">Parakey</a>。[23]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年</p></td>
 <td><p>7月24日</p></td>
 <td><p>人事</p></td>
-<td><p>Facebook聘用<a href="../Page/YouTube.md" title="wikilink">YouTube的前</a><a href="https://zh.wikipedia.org/wiki/CFO" title="wikilink">CFO</a> Gideon Yu为CFO，替換了Michael Sheridan。[24]</ref></p></td>
+<td><p>Facebook聘用<a href="../Page/YouTube.md" title="wikilink">YouTube</a>的前<a href="https://zh.wikipedia.org/wiki/CFO" title="wikilink">CFO</a> Gideon Yu为CFO，替換了Michael Sheridan。[24]</ref></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
@@ -215,7 +215,7 @@
 <td><p>2008年</p></td>
 <td><p>5月28日</p></td>
 <td><p>其他</p></td>
-<td><p>《纽约时报》报道指有个以时任<a href="https://zh.wikipedia.org/wiki/中华人民共和国" title="wikilink">中国</a><a href="../Page/中华人民共和国国务院总理.md" title="wikilink">国务院总理</a><a href="../Page/温家宝.md" title="wikilink">温家宝名义建立的页面获得超过</a>1.5万名支持者，成为该网站最受欢迎政治名人之一，排在第3位，仅次于奥巴马和<a href="../Page/阿诺·施瓦辛格.md" title="wikilink">-{zh-cn:施瓦辛格; zh-tw:史瓦辛格; zh-hk:舒華辛力加}-</a>。Facebook在中国大陆的知名度也因此提高[28]。</p></td>
+<td><p>《纽约时报》报道指有个以时任<a href="https://zh.wikipedia.org/wiki/中华人民共和国" title="wikilink">中国</a><a href="../Page/中华人民共和国国务院总理.md" title="wikilink">国务院总理</a><a href="../Page/温家宝.md" title="wikilink">温家宝</a>名义建立的页面获得超过1.5万名支持者，成为该网站最受欢迎政治名人之一，排在第3位，仅次于奥巴马和<a href="../Page/阿诺·施瓦辛格.md" title="wikilink">-{zh-cn:施瓦辛格; zh-tw:史瓦辛格; zh-hk:舒華辛力加}-</a>。Facebook在中国大陆的知名度也因此提高[28]。</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年</p></td>
@@ -233,7 +233,7 @@
 <td><p>2008年</p></td>
 <td><p>7月初</p></td>
 <td><p>封鎖</p></td>
-<td><p>Facebook被大陸<a href="../Page/防火长城.md" title="wikilink">防火长城不完全封锁</a>，当时使用者仍可以间歇性地看到部分内容，中共並無说明任何原因。[33]</p></td>
+<td><p>Facebook被大陸<a href="../Page/防火长城.md" title="wikilink">防火长城</a>不完全封锁，当时使用者仍可以间歇性地看到部分内容，中共並無说明任何原因。[33]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
@@ -263,19 +263,19 @@
 <td><p>2009年</p></td>
 <td><p>3月</p></td>
 <td><p>產品</p></td>
-<td><p>Facebook进行了一次重要改版，使得页面很像<a href="../Page/Twitter.md" title="wikilink">Twitter的</a>“状态流”，并宣布会开放其API。[35]</p></td>
+<td><p>Facebook进行了一次重要改版，使得页面很像<a href="../Page/Twitter.md" title="wikilink">Twitter</a>的“状态流”，并宣布会开放其API。[35]</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p>7月7日</p></td>
 <td><p>封鎖</p></td>
-<td><p>因7月5日<a href="../Page/乌鲁木齐市.md" title="wikilink">乌鲁木齐市发生</a><a href="https://zh.wikipedia.org/wiki/2009年7月乌鲁木齐骚乱" title="wikilink">骚乱事件</a>，Facebook再次被封锁。[36][37]</p></td>
+<td><p>因7月5日<a href="../Page/乌鲁木齐市.md" title="wikilink">乌鲁木齐市</a>发生<a href="https://zh.wikipedia.org/wiki/2009年7月乌鲁木齐骚乱" title="wikilink">骚乱事件</a>，Facebook再次被封锁。[36][37]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年</p></td>
 <td><p>8月6日</p></td>
 <td><p>其他</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/中国国防报" title="wikilink">中国国防报</a>》发表文章指责Twitter、Facebook和<a href="../Page/YouTube.md" title="wikilink">YouTube是</a>“西方敌对势力”的宣传与「颠覆工具」，并称“要加快提高网络隔绝、屏蔽、锁定和反击网上攻击的能力”。[38][39][40][41]</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/中国国防报" title="wikilink">中国国防报</a>》发表文章指责Twitter、Facebook和<a href="../Page/YouTube.md" title="wikilink">YouTube</a>是“西方敌对势力”的宣传与「颠覆工具」，并称“要加快提高网络隔绝、屏蔽、锁定和反击网上攻击的能力”。[38][39][40][41]</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
@@ -299,25 +299,25 @@
 <td><p>2010年</p></td>
 <td><p>4月22日</p></td>
 <td><p>產品</p></td>
-<td><p>在Facebook的开发者会议F8上，<a href="../Page/微软.md" title="wikilink">微软宣布依托Facebook</a> Connect推出微软文档[45]，以挑战在电子文档领域居于领先地位的<a href="../Page/Google文件.md" title="wikilink">Google文件</a>，同时，Yelp、Pandora等公司也宣布将旗下产品与Facebook加强整合。Facebook借以将其内容整合至更多网站。[46]</p></td>
+<td><p>在Facebook的开发者会议F8上，<a href="../Page/微软.md" title="wikilink">微软</a>宣布依托Facebook Connect推出微软文档[45]，以挑战在电子文档领域居于领先地位的<a href="../Page/Google文件.md" title="wikilink">Google文件</a>，同时，Yelp、Pandora等公司也宣布将旗下产品与Facebook加强整合。Facebook借以将其内容整合至更多网站。[46]</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
 <td><p>7月8日</p></td>
 <td><p>其他</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中國社科院" title="wikilink">大陸社科院發表一份報告</a>，指責Facebook實爲<a href="https://zh.wikipedia.org/wiki/西方國家" title="wikilink">西方國家</a><a href="../Page/颠覆国家政权罪.md" title="wikilink">顛覆中国政權的</a>「顛覆工具」[47]，随后Facebook在大陆一直被封锁，同时，在2010年和2012年也相繼传出Facebook将进入<a href="https://zh.wikipedia.org/wiki/大陆" title="wikilink">大陆市场的消息</a>，但前景却不被人看好。[48]一些人指出由于长期遭到封锁，Facebook将会被已经在大陸有庞大用户群的<a href="../Page/人人网.md" title="wikilink">人人网和</a><a href="../Page/开心网.md" title="wikilink">开心网等社交网站排挤</a>。[49]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國社科院" title="wikilink">大陸社科院發表一份報告</a>，指責Facebook實爲<a href="https://zh.wikipedia.org/wiki/西方國家" title="wikilink">西方國家</a><a href="../Page/颠覆国家政权罪.md" title="wikilink">顛覆中国政權的</a>「顛覆工具」[47]，随后Facebook在大陆一直被封锁，同时，在2010年和2012年也相繼传出Facebook将进入<a href="https://zh.wikipedia.org/wiki/大陆" title="wikilink">大陆市场的消息</a>，但前景却不被人看好。[48]一些人指出由于长期遭到封锁，Facebook将会被已经在大陸有庞大用户群的<a href="../Page/人人网.md" title="wikilink">人人网</a>和<a href="../Page/开心网.md" title="wikilink">开心网</a>等社交网站排挤。[49]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年</p></td>
 <td><p>12月20日</p></td>
 <td><p>其他</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扎克伯格" title="wikilink">扎克伯格到访中国大陆</a>，四天行程包括去<a href="../Page/雍和宫.md" title="wikilink">雍和宫和后海休闲</a>，也从北到南一共与四大中国IT企业创办人会面，包括<a href="../Page/百度.md" title="wikilink">百度的</a><a href="../Page/李彦宏.md" title="wikilink">李彦宏</a>、<a href="https://zh.wikipedia.org/wiki/中国移动" title="wikilink">中国移动的</a><a href="../Page/王建宙.md" title="wikilink">王建宙</a>、<a href="../Page/新浪.md" title="wikilink">新浪的</a><a href="../Page/曹国伟.md" title="wikilink">曹国伟和</a><a href="../Page/阿里巴巴.md" title="wikilink">阿里巴巴的</a><a href="../Page/马云.md" title="wikilink">马云</a>。因Facebook在中国受到封锁，所以有中国媒体调侃说，扎克伯格应该这样介绍自己：“你好，我是‘404无法访问’的网站的创始人，马克·扎克伯格。”[50]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/扎克伯格" title="wikilink">扎克伯格到访中国大陆</a>，四天行程包括去<a href="../Page/雍和宫.md" title="wikilink">雍和宫</a>和后海休闲，也从北到南一共与四大中国IT企业创办人会面，包括<a href="../Page/百度.md" title="wikilink">百度</a>的<a href="../Page/李彦宏.md" title="wikilink">李彦宏</a>、<a href="https://zh.wikipedia.org/wiki/中国移动" title="wikilink">中国移动的</a><a href="../Page/王建宙.md" title="wikilink">王建宙</a>、<a href="../Page/新浪.md" title="wikilink">新浪</a>的<a href="../Page/曹国伟.md" title="wikilink">曹国伟</a>和<a href="../Page/阿里巴巴.md" title="wikilink">阿里巴巴</a>的<a href="../Page/马云.md" title="wikilink">马云</a>。因Facebook在中国受到封锁，所以有中国媒体调侃说，扎克伯格应该这样介绍自己：“你好，我是‘404无法访问’的网站的创始人，马克·扎克伯格。”[50]</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
 <td><p>1月</p></td>
 <td><p>其他</p></td>
-<td><p>中國大陸<a href="../Page/浙江省.md" title="wikilink">浙江省委常委及组织部长蔡奇在微博上称</a>“Facebook是这几年美国硅谷成长最好的社交网络……扎克伯格访华显然表明了对中国互联网市场的兴趣。遗憾的是，Facebook在国内还无法访问。”[51]</p></td>
+<td><p>中國大陸<a href="../Page/浙江省.md" title="wikilink">浙江省</a>委常委及组织部长蔡奇在微博上称“Facebook是这几年美国硅谷成长最好的社交网络……扎克伯格访华显然表明了对中国互联网市场的兴趣。遗憾的是，Facebook在国内还无法访问。”[51]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
@@ -329,7 +329,7 @@
 <td><p>2011年</p></td>
 <td><p>2月8日</p></td>
 <td><p>財務/法律</p></td>
-<td><p>Facebook宣布在<a href="../Page/香港.md" title="wikilink">香港设立广告销售办事处</a>，为香港和<a href="https://zh.wikipedia.org/wiki/台湾" title="wikilink">台湾市场提供服务</a>。这是继2010年在<a href="../Page/新加坡.md" title="wikilink">新加坡设立首个办事处以来</a>，公司在亚洲的第二个销售办事处。香港办事处将为香港及<a href="https://zh.wikipedia.org/wiki/台湾" title="wikilink">台湾的广告公司及市场推广人员提供支持</a>，而新加坡办事处则支持新加坡及<a href="https://zh.wikipedia.org/wiki/东南亚" title="wikilink">东南亚的业务</a>。[53]</p></td>
+<td><p>Facebook宣布在<a href="../Page/香港.md" title="wikilink">香港</a>设立广告销售办事处，为香港和<a href="https://zh.wikipedia.org/wiki/台湾" title="wikilink">台湾市场提供服务</a>。这是继2010年在<a href="../Page/新加坡.md" title="wikilink">新加坡</a>设立首个办事处以来，公司在亚洲的第二个销售办事处。香港办事处将为香港及<a href="https://zh.wikipedia.org/wiki/台湾" title="wikilink">台湾的广告公司及市场推广人员提供支持</a>，而新加坡办事处则支持新加坡及<a href="https://zh.wikipedia.org/wiki/东南亚" title="wikilink">东南亚的业务</a>。[53]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
@@ -341,7 +341,7 @@
 <td><p>2011年</p></td>
 <td><p>2月19日</p></td>
 <td><p>其他</p></td>
-<td><p>当<a href="../Page/茉莉花革命.md" title="wikilink">茉莉花革命席卷阿拉伯世界时</a>，2月19日起既有以「中國茉莉花革命」為名的支持者專頁宣傳关于大陸茉莉花革命最新訊息，号召大陸网友于20日在大陸各大城市举行茉莉花革命，在短時間即有萬人支持。[55]</p></td>
+<td><p>当<a href="../Page/茉莉花革命.md" title="wikilink">茉莉花革命</a>席卷阿拉伯世界时，2月19日起既有以「中國茉莉花革命」為名的支持者專頁宣傳关于大陸茉莉花革命最新訊息，号召大陸网友于20日在大陸各大城市举行茉莉花革命，在短時間即有萬人支持。[55]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
@@ -353,13 +353,13 @@
 <td><p>2012年</p></td>
 <td></td>
 <td><p>用戶</p></td>
-<td><p>在美國，因為Facebook造成<a href="https://zh.wikipedia.org/wiki/疏離" title="wikilink">疏離感及</a><a href="https://zh.wikipedia.org/wiki/隱私" title="wikilink">隱私權爭議</a>，已出現降溫現象，不僅越來越多年輕人拒絕加入，退出者也不在少數。根據「美國顧客滿意度指數」調查顯示，自從推出「動態時報」介面以來，因顯示個人資訊的方式及大量的廣告，臉書使用者滿意度大幅下降，且網站流量已經不如<a href="https://zh.wikipedia.org/wiki/推特" title="wikilink">推特</a>、<a href="https://zh.wikipedia.org/wiki/維基百科" title="wikilink">維基百科</a>、<a href="../Page/Google+.md" title="wikilink">Google+等</a>。[57]</p></td>
+<td><p>在美國，因為Facebook造成<a href="https://zh.wikipedia.org/wiki/疏離" title="wikilink">疏離感及</a><a href="https://zh.wikipedia.org/wiki/隱私" title="wikilink">隱私權爭議</a>，已出現降溫現象，不僅越來越多年輕人拒絕加入，退出者也不在少數。根據「美國顧客滿意度指數」調查顯示，自從推出「動態時報」介面以來，因顯示個人資訊的方式及大量的廣告，臉書使用者滿意度大幅下降，且網站流量已經不如<a href="https://zh.wikipedia.org/wiki/推特" title="wikilink">推特</a>、<a href="https://zh.wikipedia.org/wiki/維基百科" title="wikilink">維基百科</a>、<a href="../Page/Google+.md" title="wikilink">Google+</a>等。[57]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p>2月1日</p></td>
 <td><p>財務/法律</p></td>
-<td><p>Facebook向<a href="https://zh.wikipedia.org/wiki/美國證券交易委員會" title="wikilink">美國證券交易委員會提交集資規模為</a>50億<a href="../Page/美元.md" title="wikilink">美元的</a><a href="https://zh.wikipedia.org/wiki/上市" title="wikilink">上市申請</a>。上市申請文件披露Facebook目前有8.45億活躍用戶，2011年<a href="https://zh.wikipedia.org/wiki/純利" title="wikilink">純利增至</a>10億美元，<a href="https://zh.wikipedia.org/wiki/增長率" title="wikilink">增長率為</a>65%，年<a href="https://zh.wikipedia.org/wiki/營業額" title="wikilink">營業額為</a>37.1億美元。預期2012年<a href="https://zh.wikipedia.org/wiki/資本" title="wikilink">資本支出為</a>16-18億美元。截至2011年底，全職員工共有3200人。</p></td>
+<td><p>Facebook向<a href="https://zh.wikipedia.org/wiki/美國證券交易委員會" title="wikilink">美國證券交易委員會提交集資規模為</a>50億<a href="../Page/美元.md" title="wikilink">美元</a>的<a href="https://zh.wikipedia.org/wiki/上市" title="wikilink">上市申請</a>。上市申請文件披露Facebook目前有8.45億活躍用戶，2011年<a href="https://zh.wikipedia.org/wiki/純利" title="wikilink">純利增至</a>10億美元，<a href="https://zh.wikipedia.org/wiki/增長率" title="wikilink">增長率為</a>65%，年<a href="https://zh.wikipedia.org/wiki/營業額" title="wikilink">營業額為</a>37.1億美元。預期2012年<a href="https://zh.wikipedia.org/wiki/資本" title="wikilink">資本支出為</a>16-18億美元。截至2011年底，全職員工共有3200人。</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
@@ -377,7 +377,7 @@
 <td><p>2012年</p></td>
 <td><p>5月18日</p></td>
 <td><p>財務/法律</p></td>
-<td><p>Facebook通过<a href="https://zh.wikipedia.org/wiki/首次公开募股" title="wikilink">首次公开募股正式在</a><a href="../Page/纳斯达克.md" title="wikilink">纳斯达克上市</a>，以38美元定價，集資184億美元（約1,428億港元），成为美国历史上第三大首次公开募股案例。</p></td>
+<td><p>Facebook通过<a href="https://zh.wikipedia.org/wiki/首次公开募股" title="wikilink">首次公开募股正式在</a><a href="../Page/纳斯达克.md" title="wikilink">纳斯达克</a>上市，以38美元定價，集資184億美元（約1,428億港元），成为美国历史上第三大首次公开募股案例。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
@@ -413,7 +413,7 @@
 <td><p>2013年</p></td>
 <td><p>4月4日</p></td>
 <td><p>產品</p></td>
-<td><p>Facebook發表<a href="../Page/Facebook_Home.md" title="wikilink">Facebook Home</a>，而Facebook會以<a href="https://zh.wikipedia.org/wiki/HTC" title="wikilink">HTC</a> First作為第一隻Facebook Home手機，之後會支援到近期<a href="../Page/Android.md" title="wikilink">Android手機</a>。</p></td>
+<td><p>Facebook發表<a href="../Page/Facebook_Home.md" title="wikilink">Facebook Home</a>，而Facebook會以<a href="https://zh.wikipedia.org/wiki/HTC" title="wikilink">HTC</a> First作為第一隻Facebook Home手機，之後會支援到近期<a href="../Page/Android.md" title="wikilink">Android</a>手機。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
@@ -527,7 +527,7 @@
 <td><p>2017年</p></td>
 <td><p>8月18日</p></td>
 <td><p>其他</p></td>
-<td><p>Facebook Messenger支援<a href="../Page/RTF.md" title="wikilink">RTF</a>，如粗體、斜體等[70]，另亦透過<a href="../Page/KaTeX.md" title="wikilink">KaTeX支援</a><a href="https://zh.wikipedia.org/wiki/LaTeX" title="wikilink">LaTeX格式</a>[71][72][73]。</p></td>
+<td><p>Facebook Messenger支援<a href="../Page/RTF.md" title="wikilink">RTF</a>，如粗體、斜體等[70]，另亦透過<a href="../Page/KaTeX.md" title="wikilink">KaTeX</a>支援<a href="https://zh.wikipedia.org/wiki/LaTeX" title="wikilink">LaTeX格式</a>[71][72][73]。</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>

@@ -2,7 +2,7 @@
 
 ## 誕生於列寧格勒戰役
 
-PPS衝鋒槍誕生於[列寧格勒戰役](https://zh.wikipedia.org/wiki/列寧格勒戰役 "wikilink")，1942年[列寧格勒被](https://zh.wikipedia.org/wiki/列寧格勒 "wikilink")[納粹德軍包圍](https://zh.wikipedia.org/wiki/納粹德軍 "wikilink")，蘇聯守軍正需要一種可立即使用的衝鋒槍，當時在列寧格勒兵工廠裡有一名叫蘇達耶夫的工程師臨時設計出PPS衝鋒槍，設計的重點是盡可能採用工廠可以找到的材料和設備生產，這是一支全金屬製造的衝鋒槍，只有扳機手柄鑲有木頭，捨棄固定[槍托而改用金屬架構成的摺疊槍托](../Page/槍托.md "wikilink")，發射[托卡列夫手槍彈](https://zh.wikipedia.org/wiki/7.62x25毫米托卡列夫手槍彈 "wikilink")，採用35發彈匣，只能全自動射擊，其結構相當的簡單和堅固耐用。當PPS衝鋒槍生產出來後就立刻被蘇軍拿去和德軍火拼，在[德蘇戰爭當中](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")，德軍亦有使用繳獲的PPS衝鋒槍並改名為MP719(r)。
+PPS衝鋒槍誕生於[列寧格勒戰役](https://zh.wikipedia.org/wiki/列寧格勒戰役 "wikilink")，1942年[列寧格勒被](https://zh.wikipedia.org/wiki/列寧格勒 "wikilink")[納粹德軍包圍](https://zh.wikipedia.org/wiki/納粹德軍 "wikilink")，蘇聯守軍正需要一種可立即使用的衝鋒槍，當時在列寧格勒兵工廠裡有一名叫蘇達耶夫的工程師臨時設計出PPS衝鋒槍，設計的重點是盡可能採用工廠可以找到的材料和設備生產，這是一支全金屬製造的衝鋒槍，只有扳機手柄鑲有木頭，捨棄固定[槍托](../Page/槍托.md "wikilink")而改用金屬架構成的摺疊槍托，發射[托卡列夫手槍彈](https://zh.wikipedia.org/wiki/7.62x25毫米托卡列夫手槍彈 "wikilink")，採用35發彈匣，只能全自動射擊，其結構相當的簡單和堅固耐用。當PPS衝鋒槍生產出來後就立刻被蘇軍拿去和德軍火拼，在[德蘇戰爭當中](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")，德軍亦有使用繳獲的PPS衝鋒槍並改名為MP719(r)。
 
 ## 主要型號
 

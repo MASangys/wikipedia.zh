@@ -1,5 +1,5 @@
 《**Evolution
-No.9**》是[日本女子組合](../Page/日本.md "wikilink")[9nine的第](../Page/9nine.md "wikilink")14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年6月12日由[SME
+No.9**》是[日本](../Page/日本.md "wikilink")女子組合[9nine](../Page/9nine.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年6月12日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
@@ -8,7 +8,7 @@ Records發售](../Page/SME_Records.md "wikilink")。
 wanna say love
 U](../Page/夏_wanna_say_love_U.md "wikilink")》七作以來再次收錄三首歌曲，而《Evolution
 No.9》成為了[MBS連續電視劇](../Page/每日放送.md "wikilink")《[TANK-TOP
-FIGHTER](../Page/TANK-TOP_FIGHTER.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。單曲在[Oricon公信榜週榜獲得第六名](../Page/Oricon公信榜.md "wikilink")，是組團以來最高的排名\[2\]。
+FIGHTER](../Page/TANK-TOP_FIGHTER.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。單曲在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜獲得第六名，是組團以來最高的排名\[2\]。
 
 ## 收錄曲
 

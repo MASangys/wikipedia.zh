@@ -1,8 +1,8 @@
-[GLAY的第](../Page/GLAY.md "wikilink")5張A面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+[GLAY](../Page/GLAY.md "wikilink")的第5張A面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 簡介
 
-  - 這張是[GLAY出道](../Page/GLAY.md "wikilink")15週年紀念[精選輯第二彈](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，收錄1994年\~2000年[單曲A面曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")(不過，[MERMAID](https://zh.wikipedia.org/wiki/MERMAID "wikilink")、[Missing
+  - 這張是[GLAY](../Page/GLAY.md "wikilink")出道15週年紀念[精選輯第二彈](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，收錄1994年\~2000年[單曲A面曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")(不過，[MERMAID](https://zh.wikipedia.org/wiki/MERMAID "wikilink")、[Missing
     You收錄在](https://zh.wikipedia.org/wiki/Missing_You "wikilink")[THE
     GREAT VACATION VOL.1 〜SUPER BEST OF
     GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink"))，加上5首改編版歌曲，新歌11首。總共3CD，42首歌曲。全部歌曲重新數位錄製。

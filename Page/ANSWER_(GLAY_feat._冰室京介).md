@@ -1,5 +1,5 @@
 《**ANSWER (GLAY feat.
-冰室京介)**》為[GLAY和](../Page/GLAY.md "wikilink")[冰室京介合作推出的](../Page/冰室京介.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+冰室京介)**》為[GLAY](../Page/GLAY.md "wikilink")和[冰室京介](../Page/冰室京介.md "wikilink")合作推出的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介
 

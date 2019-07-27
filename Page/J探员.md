@@ -2,11 +2,11 @@
 
 ## 生平
 
-J探员原名**詹姆斯·達雷爾·愛德華茲三世**，本是[紐約市警察局的一名](https://zh.wikipedia.org/wiki/紐約市警察局 "wikilink")[警察](../Page/警察.md "wikilink")，在一次事件中得到[K探员引介](../Page/K探员.md "wikilink")，加入了MIB，代號為「J」，與K探员[搭檔](https://zh.wikipedia.org/wiki/搭檔 "wikilink")。
+J探员原名**詹姆斯·達雷爾·愛德華茲三世**，本是[紐約市警察局的一名](https://zh.wikipedia.org/wiki/紐約市警察局 "wikilink")[警察](../Page/警察.md "wikilink")，在一次事件中得到[K探员](../Page/K探员.md "wikilink")引介，加入了MIB，代號為「J」，與K探员[搭檔](https://zh.wikipedia.org/wiki/搭檔 "wikilink")。
 
 ## 反響
 
-在[IGN網站評選出的前](../Page/IGN.md "wikilink")25名[科幻電影英雄角色中](https://zh.wikipedia.org/wiki/科幻電影 "wikilink")，威尔·史密斯飾演的J探员名列第19位\[4\]。
+在[IGN](../Page/IGN.md "wikilink")網站評選出的前25名[科幻電影英雄角色中](https://zh.wikipedia.org/wiki/科幻電影 "wikilink")，威尔·史密斯飾演的J探员名列第19位\[4\]。
 
 ## 另请参阅
 

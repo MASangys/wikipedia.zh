@@ -1,21 +1,21 @@
 **MICOR MD 50**（前稱：Leader
-50）是一枝由[美国](../Page/美国.md "wikilink")[MICOR防務公司所研製及生產的](https://zh.wikipedia.org/wiki/MICOR防務公司 "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")、可拆卸式[彈匣供彈式重型](../Page/彈匣.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50
+50）是一枝由[美国](../Page/美国.md "wikilink")[MICOR防務公司所研製及生產的](https://zh.wikipedia.org/wiki/MICOR防務公司 "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")、可拆卸式[彈匣](../Page/彈匣.md "wikilink")供彈式重型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50
 BMG）制式[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]\[2\]
 
 ## 歷史
 
 MD
-50狙擊步槍（以前稱為領袖50）是由以前著研製和等[突击步枪或](../Page/突击步枪.md "wikilink")[半自動步槍設計的著名輕武器設計的](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[查爾斯·聖喬治](https://zh.wikipedia.org/wiki/查爾斯·聖喬治 "wikilink")（Charles
+50狙擊步槍（以前稱為領袖50）是由以前著研製和等[突击步枪](../Page/突击步枪.md "wikilink")或[半自動步槍設計的著名輕武器設計的](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[查爾斯·聖喬治](https://zh.wikipedia.org/wiki/查爾斯·聖喬治 "wikilink")（Charles
 St George）所研製。MD 50（Leader
-50）是由總部設於[美国的](../Page/美国.md "wikilink")[MICOR防務公司所生產](https://zh.wikipedia.org/wiki/MICOR防務公司 "wikilink")。MD
+50）是由總部設於[美国](../Page/美国.md "wikilink")的[MICOR防務公司所生產](https://zh.wikipedia.org/wiki/MICOR防務公司 "wikilink")。MD
 50狙擊步槍是目前市場上最輕、最緊湊的.50[口徑步槍之一](https://zh.wikipedia.org/wiki/口徑 "wikilink")；而且，如有需要的話，肩射時或多或少較為舒適。
 
 ## 概述
 
 MD
-50狙擊步槍是一枝[犢牛式結構的](../Page/犢牛式_\(槍械\).md "wikilink")[氣動式](../Page/氣動式_\(槍械\).md "wikilink")、[半自動武器](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。其[機匣是由擠壓](https://zh.wikipedia.org/wiki/機匣 "wikilink")[鋁合金製造而成](../Page/鋁合金.md "wikilink")。MD
-50狙擊步槍的氣動系統具有三個位置的氣體調節器和環形短行程導氣活塞，設於[槍管的周圍](../Page/槍管.md "wikilink")。槍機組件是原創和創新的設計。[轉拴式槍栓所具有的三角槍機頭還有三個前方鎖耳](../Page/轉拴式槍栓.md "wikilink")——這是大約三十年以前，由聖喬治在他研製的Leader
-T2步槍當中的一個想法。槍機機框是非常短和輕巧，因而令機匣相對較短和感受到的[後座力較輕](../Page/後座力.md "wikilink")。為了進一步減輕後座力，槍管上還配備了高效能的大型多室式[槍口制退器](../Page/砲口制動器.md "wikilink")。該步槍是由10發容量的可拆卸式[彈匣供彈](../Page/彈匣.md "wikilink")，並且由槍身的右側拋出。瞄準方式是通過[機匣頂部設置了用於瞄準方面的全長度整體式](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以裝有多種的瞄準具——諸如日間望遠式[光學瞄準／狙擊鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[红外线](../Page/红外线.md "wikilink")／[熱成像](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")[夜視儀和](../Page/夜視鏡.md "wikilink")／或後備[機械瞄具](../Page/機械瞄具.md "wikilink")。附件如[兩腳架或握把腳架可以安裝在位於前護木下方的附加導軌](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。
+50狙擊步槍是一枝[犢牛式結構的](../Page/犢牛式_\(槍械\).md "wikilink")[氣動式](../Page/氣動式_\(槍械\).md "wikilink")、[半自動武器](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。其[機匣是由擠壓](https://zh.wikipedia.org/wiki/機匣 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")製造而成。MD
+50狙擊步槍的氣動系統具有三個位置的氣體調節器和環形短行程導氣活塞，設於[槍管](../Page/槍管.md "wikilink")的周圍。槍機組件是原創和創新的設計。[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")所具有的三角槍機頭還有三個前方鎖耳——這是大約三十年以前，由聖喬治在他研製的Leader
+T2步槍當中的一個想法。槍機機框是非常短和輕巧，因而令機匣相對較短和感受到的[後座力](../Page/後座力.md "wikilink")較輕。為了進一步減輕後座力，槍管上還配備了高效能的大型多室式[槍口制退器](../Page/砲口制動器.md "wikilink")。該步槍是由10發容量的可拆卸式[彈匣](../Page/彈匣.md "wikilink")供彈，並且由槍身的右側拋出。瞄準方式是通過[機匣頂部設置了用於瞄準方面的全長度整體式](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以裝有多種的瞄準具——諸如日間望遠式[光學瞄準／狙擊鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[红外线](../Page/红外线.md "wikilink")／[熱成像](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")[夜視儀和](../Page/夜視鏡.md "wikilink")／或後備[機械瞄具](../Page/機械瞄具.md "wikilink")。附件如[兩腳架或握把腳架可以安裝在位於前護木下方的附加導軌](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。
 
 ## 參見
 

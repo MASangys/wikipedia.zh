@@ -1,11 +1,11 @@
 「**Get
-Back**」是[Aice5的第](../Page/Aice5.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年3月11日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
+Back**」是[Aice5](../Page/Aice5.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年3月11日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要
 
 [声優組合](https://zh.wikipedia.org/wiki/声優組合 "wikilink")・Aice5的出道單曲。2006年3月11日舉辦的「[STARCHILD
 DREAM in
-KOBE3rd](https://zh.wikipedia.org/wiki/STARCHILD_DREAM_in_KOBE "wikilink")」中先行發售，約2個月後在[安利美特限定發售](../Page/安利美特.md "wikilink")。沒有[C/W曲收錄](https://zh.wikipedia.org/wiki/AB面 "wikilink")。
+KOBE3rd](https://zh.wikipedia.org/wiki/STARCHILD_DREAM_in_KOBE "wikilink")」中先行發售，約2個月後在[安利美特](../Page/安利美特.md "wikilink")限定發售。沒有[C/W曲收錄](https://zh.wikipedia.org/wiki/AB面 "wikilink")。
 
 ## 收錄曲
 

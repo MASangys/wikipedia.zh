@@ -1,7 +1,7 @@
 《**Still You**》是韓國男子组合[Super
 Junior的子組合](../Page/Super_Junior.md "wikilink")[Super Junior
 Donghae &
-Eunhyuk第二张韓語單曲](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，由[東海親自作词](../Page/東海_\(藝人\).md "wikilink")、作曲，與[銀赫合唱](../Page/銀赫.md "wikilink")。\[1\]
+Eunhyuk第二张韓語單曲](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，由[東海親自作词](../Page/東海_\(藝人\).md "wikilink")、作曲，與[銀赫](../Page/銀赫.md "wikilink")合唱。\[1\]
 
 ## 概要
 

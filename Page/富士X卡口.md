@@ -1,8 +1,8 @@
 [X-mount_on_Fujifilm_X-E1.jpg](https://zh.wikipedia.org/wiki/File:X-mount_on_Fujifilm_X-E1.jpg "fig:X-mount_on_Fujifilm_X-E1.jpg")
 [Fuji_X-E2.jpg](https://zh.wikipedia.org/wiki/File:Fuji_X-E2.jpg "fig:Fuji_X-E2.jpg")
-**富士X接口**是一种由[富士胶片设计并使用在其自己](../Page/富士胶片.md "wikilink")[无反光镜可换镜头相机系统上的接口标准](https://zh.wikipedia.org/wiki/无反光镜可换镜头相机 "wikilink")，具备17.7mm[法兰距](https://zh.wikipedia.org/wiki/法兰距 "wikilink")，采用卡口形式，也被称作**富士X卡口**，或直接称作**X卡口**。
+**富士X接口**是一种由[富士胶片](../Page/富士胶片.md "wikilink")设计并使用在其自己[无反光镜可换镜头相机系统上的接口标准](https://zh.wikipedia.org/wiki/无反光镜可换镜头相机 "wikilink")，具备17.7mm[法兰距](https://zh.wikipedia.org/wiki/法兰距 "wikilink")，采用卡口形式，也被称作**富士X卡口**，或直接称作**X卡口**。
 
-目前除了富士自己的XF和XC镜头外，[蔡司公司的](../Page/蔡司公司.md "wikilink")[Touit镜头和](https://zh.wikipedia.org/wiki/蔡司公司#Touit镜头 "wikilink")[三阳光学也有为X卡口提供兼容镜头](https://zh.wikipedia.org/wiki/三阳光学 "wikilink")。此外，通过转接环，还可以使用[Leica
+目前除了富士自己的XF和XC镜头外，[蔡司公司](../Page/蔡司公司.md "wikilink")的[Touit镜头和](https://zh.wikipedia.org/wiki/蔡司公司#Touit镜头 "wikilink")[三阳光学也有为X卡口提供兼容镜头](https://zh.wikipedia.org/wiki/三阳光学 "wikilink")。此外，通过转接环，还可以使用[Leica
 M
 镜头](https://zh.wikipedia.org/wiki/Leica_M_接口 "wikilink")\[1\]在内的其他接口镜头。
 

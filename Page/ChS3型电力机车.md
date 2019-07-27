@@ -1,4 +1,4 @@
-**ChS3型电力机车**（）是[苏联铁路的干线](../Page/苏联.md "wikilink")[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于供电制式为3千伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由捷克斯柯达公司于1960年代初[设计制造](https://zh.wikipedia.org/wiki/设计 "wikilink")。
+**ChS3型电力机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的干线[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于供电制式为3千伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由捷克斯柯达公司于1960年代初[设计制造](https://zh.wikipedia.org/wiki/设计 "wikilink")。
 
 ## 发展历史
 

@@ -3,12 +3,12 @@
 ## 概要
 
 mixi創辦人笠原健治就讀[東京大學時架起求職網站](https://zh.wikipedia.org/wiki/東京大學 "wikilink")「Find
-Job\!」並成立公司。2004年設立社群網站「mixi」，名稱以「mix（交流）」與「i（人）」組合而成，希望加深同好之間交流；允許用戶採[化名跟卡通](../Page/化名.md "wikilink")[頭像](https://zh.wikipedia.org/wiki/頭像 "wikilink")，非[實名制重視隱私](https://zh.wikipedia.org/wiki/實名制 "wikilink")、個人化掀起熱潮，如上市公司[經營者](https://zh.wikipedia.org/wiki/經營者 "wikilink")、[演藝人員](https://zh.wikipedia.org/wiki/演藝人員 "wikilink")、[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、[政治人物等紛紛利用註冊宣傳](../Page/政治人物.md "wikilink")。此外，擴展海外市場，在中國大陸、美國開設[子公司](../Page/子公司.md "wikilink")，尤其大陸「蜜秀網」上線。
+Job\!」並成立公司。2004年設立社群網站「mixi」，名稱以「mix（交流）」與「i（人）」組合而成，希望加深同好之間交流；允許用戶採[化名](../Page/化名.md "wikilink")跟卡通[頭像](https://zh.wikipedia.org/wiki/頭像 "wikilink")，非[實名制重視隱私](https://zh.wikipedia.org/wiki/實名制 "wikilink")、個人化掀起熱潮，如上市公司[經營者](https://zh.wikipedia.org/wiki/經營者 "wikilink")、[演藝人員](https://zh.wikipedia.org/wiki/演藝人員 "wikilink")、[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、[政治人物](../Page/政治人物.md "wikilink")等紛紛利用註冊宣傳。此外，擴展海外市場，在中國大陸、美國開設[子公司](../Page/子公司.md "wikilink")，尤其大陸「蜜秀網」上線。
 
-但隨著實名制的[Facebook成功打進日本](../Page/Facebook.md "wikilink")，mixi用戶數已落居Facebook及[Twitter之後](../Page/Twitter.md "wikilink")，\[1\]同年6月25日笠原下台、徒留[會長名份](https://zh.wikipedia.org/wiki/會長 "wikilink")、不負經營責任\[2\]，方針也重新調整。
+但隨著實名制的[Facebook](../Page/Facebook.md "wikilink")成功打進日本，mixi用戶數已落居Facebook及[Twitter](../Page/Twitter.md "wikilink")之後，\[1\]同年6月25日笠原下台、徒留[會長名份](https://zh.wikipedia.org/wiki/會長 "wikilink")、不負經營責任\[2\]，方針也重新調整。
 
 [Monster_strike.svg](https://zh.wikipedia.org/wiki/File:Monster_strike.svg "fig:Monster_strike.svg")\]\]
-在Facebook與Twitter雙重夾擊、面臨[倒閉的窘境下](https://zh.wikipedia.org/wiki/倒閉 "wikilink")，mixi開發出[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")《[怪物彈珠](../Page/怪物彈珠.md "wikilink")》放手一搏，沒想到橫掃日本，受歡迎程度遠超想像，推出後沒多久就是日本手遊前3名常客，目前則穩居日本手遊龍頭。靠一遊戲拯救瀕死公司的情節，與[史克威爾非常相似](../Page/史克威爾.md "wikilink")。
+在Facebook與Twitter雙重夾擊、面臨[倒閉的窘境下](https://zh.wikipedia.org/wiki/倒閉 "wikilink")，mixi開發出[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")《[怪物彈珠](../Page/怪物彈珠.md "wikilink")》放手一搏，沒想到橫掃日本，受歡迎程度遠超想像，推出後沒多久就是日本手遊前3名常客，目前則穩居日本手遊龍頭。靠一遊戲拯救瀕死公司的情節，與[史克威爾](../Page/史克威爾.md "wikilink")非常相似。
 
 mixi目前已经被中国大陆屏蔽，具体时间未知。（仅mixi.jp）
 

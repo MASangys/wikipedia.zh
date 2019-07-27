@@ -1,11 +1,11 @@
-**中国冰雪ACG展会**，又称**中国冰雪动漫展**，是在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[黑龙江省](../Page/黑龙江省.md "wikilink")[哈尔滨市和](../Page/哈尔滨市.md "wikilink")[牡丹江市举办的动漫展](../Page/牡丹江市.md "wikilink")，于2011年1月首次在[哈尔滨市举办](../Page/哈尔滨市.md "wikilink")。
+**中国冰雪ACG展会**，又称**中国冰雪动漫展**，是在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[黑龙江省](../Page/黑龙江省.md "wikilink")[哈尔滨市](../Page/哈尔滨市.md "wikilink")和[牡丹江市](../Page/牡丹江市.md "wikilink")举办的动漫展，于2011年1月首次在[哈尔滨市](../Page/哈尔滨市.md "wikilink")举办。
 
 ## 活动概要
 
-中国冰雪动漫展自2011年开始举行，在2011-2014年期间为[中国哈尔滨国际冰雪节的一部分](../Page/中国哈尔滨国际冰雪节.md "wikilink")，每届都有许多组织和个人参与，并吸引了大量动漫同好者、[cosplayer到场参与](https://zh.wikipedia.org/wiki/cosplayer "wikilink")。2015年起改为在[中国东北的巡回式动漫展](https://zh.wikipedia.org/wiki/中国东北 "wikilink")。
+中国冰雪动漫展自2011年开始举行，在2011-2014年期间为[中国哈尔滨国际冰雪节](../Page/中国哈尔滨国际冰雪节.md "wikilink")的一部分，每届都有许多组织和个人参与，并吸引了大量[动漫同好者](https://zh.wikipedia.org/wiki/动漫 "wikilink")、[cosplayer到场参与](https://zh.wikipedia.org/wiki/cosplayer "wikilink")。2015年起改为在[中国东北的巡回式动漫展](https://zh.wikipedia.org/wiki/中国东北 "wikilink")。
 
-  - 主办单位：[中共黑龙江省委宣传部](https://zh.wikipedia.org/wiki/中共黑龙江省委 "wikilink")、黑龙江省文化厅、[中共哈尔滨市委宣传部](https://zh.wikipedia.org/wiki/中共哈尔滨市委 "wikilink")。
-  - 承办单位：[马迭尔集团](https://zh.wikipedia.org/wiki/马迭尔集团 "wikilink")、黑龙江日报报业集团、[深圳广播电影电视集团](../Page/深圳广播电影电视集团.md "wikilink")。
+  - 主办单位：[中共黑龙江省委宣传部](https://zh.wikipedia.org/wiki/中共黑龙江省委 "wikilink")、[黑龙江省文化厅](https://zh.wikipedia.org/wiki/黑龙江省文化厅 "wikilink")、[中共哈尔滨市委宣传部](https://zh.wikipedia.org/wiki/中共哈尔滨市委 "wikilink")。
+  - 承办单位：[马迭尔集团](https://zh.wikipedia.org/wiki/马迭尔集团 "wikilink")、[黑龙江日报报业集团](https://zh.wikipedia.org/wiki/黑龙江日报报业集团 "wikilink")、[深圳广播电影电视集团](../Page/深圳广播电影电视集团.md "wikilink")。
 
 ## 展会資料
 
@@ -74,7 +74,7 @@
 5.  [中国冰雪动漫展开幕
     动漫论坛促南北融合](http://szsb.sznews.com/html/2012-01/10/content_1897406.htm)
     [深圳商报](https://zh.wikipedia.org/wiki/深圳商报 "wikilink") 2012年01月10日
-6.  票价为[冰雪大世界园区票价](../Page/冰雪大世界.md "wikilink")
+6.  票价为[冰雪大世界](../Page/冰雪大世界.md "wikilink")园区票价
 7.  [第三届中国冰雪动漫节1月8日开幕
     知名动漫齐聚冰城](http://heilongjiang.dbw.cn/system/2012/12/27/054477970.shtml)
     [东北网](https://zh.wikipedia.org/wiki/东北网 "wikilink") 2012年12月27日

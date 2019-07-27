@@ -1,5 +1,5 @@
 **ASUS PadFone
-2**是[臺灣電腦公司](../Page/臺灣.md "wikilink")[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2012年9月20日所推出的高階智慧型手機產品。此系列的第二代產品，與第一代最大的不同是手機與平板合體方式有所改變，較為直覺與簡單，但取消第一代所擁有的鍵盤。該機型同步在[米蘭以及](../Page/米蘭.md "wikilink")[台北發表](https://zh.wikipedia.org/wiki/台北 "wikilink")。是台灣第一支內建
+2**是[臺灣](../Page/臺灣.md "wikilink")電腦公司[華碩電腦於](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")2012年9月20日所推出的高階智慧型手機產品。此系列的第二代產品，與第一代最大的不同是手機與平板合體方式有所改變，較為直覺與簡單，但取消第一代所擁有的鍵盤。該機型同步在[米蘭](../Page/米蘭.md "wikilink")以及[台北發表](https://zh.wikipedia.org/wiki/台北 "wikilink")。是台灣第一支內建
 4G LTE 連線能力的智慧型手機。
 
 ## 技術規格
@@ -27,7 +27,7 @@
   - 上網方式：3.5G / HSDPA，3G / WCDMA，4G / LTE，EDGE，GPRS，Wi-Fi / WLAN
   - 鈴聲種類：AAC，AAC+，MP3，WMA
   - 音樂播放器：AAC，AAC+，MP3，WMA，OGG
-  - 傳輸介面：[USB](../Page/USB.md "wikilink")、[藍牙V](../Page/藍牙.md "wikilink")4.0、[HDMI](../Page/HDMI.md "wikilink")、[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")
+  - 傳輸介面：[USB](../Page/USB.md "wikilink")、[藍牙](../Page/藍牙.md "wikilink")V4.0、[HDMI](../Page/HDMI.md "wikilink")、[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")
   - 操作介面：直式 / 橫式螢幕切換，觸控螢幕
   - 機身顏色：白，黑
   - 重量：135g
@@ -52,8 +52,8 @@
 
 1.  **Super Note**：自行開發的之製圖軟體，提供影像編輯、繪製等功能。
 2.  **Watch Calender**：自行開發的行事曆軟體，採圖形化介面。
-3.  **asus@vibe**：提供[華碩自營](../Page/華碩.md "wikilink")[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
-4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩公司所提供的網路伺服器內](../Page/華碩.md "wikilink")。(現為ASUS
+3.  **asus@vibe**：提供[華碩](../Page/華碩.md "wikilink")自營[應用程式的下載](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
+4.  **MyCloud**：雲端儲存空間，可以免費使用有8GB額度，儲存在[華碩](../Page/華碩.md "wikilink")公司所提供的網路伺服器內。(現為ASUS
     WebStorage)
 
 <!-- end list -->

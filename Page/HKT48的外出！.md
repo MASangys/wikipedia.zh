@@ -1,19 +1,19 @@
-《**HKT48的御出掛！**》（；「」（）是日文中「外出」之意）是[日本](../Page/日本.md "wikilink")[TBS電視台在](../Page/TBS電視台.md "wikilink")2013年1月25日（1月26日凌晨）至2017年6月29日（6月30日凌晨）期間所播出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，為以[福岡為主要活動中心的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48的全國播放冠名節目之一](../Page/HKT48.md "wikilink")，於每星期三25時25分（也就是星期四上午1時25分；[JST](../Page/日本標準時間.md "wikilink")）播出\[1\]
-。由HKT48中的資深成員[指原莉乃擔任主持人](../Page/指原莉乃.md "wikilink")，並由[搞笑二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")「[足球時間](../Page/足球時間.md "wikilink")」的成員[後藤輝基擔任見證人](../Page/後藤輝基.md "wikilink")（講評）。
+《**HKT48的御出掛！**》（；「」（）是日文中「外出」之意）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")在2013年1月25日（1月26日凌晨）至2017年6月29日（6月30日凌晨）期間所播出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，為以[福岡為主要活動中心的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")的全國播放冠名節目之一，於每星期三25時25分（也就是星期四上午1時25分；[JST](../Page/日本標準時間.md "wikilink")）播出\[1\]
+。由HKT48中的資深成員[指原莉乃](../Page/指原莉乃.md "wikilink")擔任主持人，並由[搞笑二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")「[足球時間](../Page/足球時間.md "wikilink")」的成員[後藤輝基](../Page/後藤輝基.md "wikilink")擔任見證人（講評）。
 
 ## 簡介
 
-《HKT48的御出掛！》是HKT48暨《[HaKaTa百貨店](../Page/HaKaTa百貨店.md "wikilink")》之後，第二個以[關東廣域圈為主要播放區域](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")、日本全國性的冠名綜藝節目。但與主要以[攝影棚內景方式拍攝的](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")《HaKaTa百貨店》不同的是，《HKT48的御出掛！》片如其名，主打的是由多人數的團體成員踏出[HKT48劇場大門](https://zh.wikipedia.org/wiki/HKT48劇場 "wikilink")、實際到[福岡市內或郊區進行](../Page/福岡市.md "wikilink")[外景採訪](https://zh.wikipedia.org/wiki/外景 "wikilink")，爭取更多歌迷認同，以呼應其「擄獲在地歌迷的綜藝節目」（）之宗旨。
+《HKT48的御出掛！》是HKT48暨《[HaKaTa百貨店](../Page/HaKaTa百貨店.md "wikilink")》之後，第二個以[關東廣域圈為主要播放區域](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")、日本全國性的冠名綜藝節目。但與主要以[攝影棚內景方式拍攝的](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")《HaKaTa百貨店》不同的是，《HKT48的御出掛！》片如其名，主打的是由多人數的團體成員踏出[HKT48劇場大門](https://zh.wikipedia.org/wiki/HKT48劇場 "wikilink")、實際到[福岡市](../Page/福岡市.md "wikilink")內或郊區進行[外景採訪](https://zh.wikipedia.org/wiki/外景 "wikilink")，爭取更多歌迷認同，以呼應其「擄獲在地歌迷的綜藝節目」（）之宗旨。
 
 由於每次外景都是由8至22名HKT48的成員參與、人數眾多，因此會在參與的成員之間指派一位稱為「外出center」的領隊（，簡稱「」（Odesen），意指在外出活動中站在中央位置的成員）。除了負責帶隊、與參訪的店家進行交涉外，每一集的外景都會設定不同特定金額的「外出資金」，保管在外出center脖子上掛著的小[錢包中](https://zh.wikipedia.org/wiki/錢包 "wikilink")，整個外出活動的開銷只能從外出資金中調度。
 
 節目初期的外景大都是在特定地區或地點進行巡遊式的參訪活動，但自第20集起陸續開始推出主題式的外景企畫，例如在野炊，在[健身中心接受體能訓練課程](https://zh.wikipedia.org/wiki/健身中心 "wikilink")，或是在烹飪教室進行廚藝比賽等。
 
-除了主要的外景片段之外，《HKT48的御出掛！》仍然有攝影棚內拍攝的段落。此段落由HKT48的資深成員指原莉乃擔任主持人，並由[吉本興業旗下以吐槽犀利而聞名的搞笑藝人](../Page/吉本興業.md "wikilink")、搞笑二人組「足球時間」的後藤輝基擔任見證人（講評），兩人在東京的攝影棚裡以邊看外景錄影邊對談的方式出現在節目的[子畫面中](https://zh.wikipedia.org/wiki/子畫面 "wikilink")，針對外景影片的內容進行解說或甚至吐槽。後藤並且會以資深前輩的身份，在每一集片尾的講評對談時段，針對成員表現的綜藝度給予HKT48這些演藝圈的後輩綜合意見，替該集的外出center打分數，與選出在該集中表現最佳的外出成員（MVP）。
+除了主要的外景片段之外，《HKT48的御出掛！》仍然有攝影棚內拍攝的段落。此段落由HKT48的資深成員指原莉乃擔任主持人，並由[吉本興業](../Page/吉本興業.md "wikilink")旗下以吐槽犀利而聞名的搞笑藝人、搞笑二人組「足球時間」的後藤輝基擔任見證人（講評），兩人在東京的攝影棚裡以邊看外景錄影邊對談的方式出現在節目的[子畫面中](https://zh.wikipedia.org/wiki/子畫面 "wikilink")，針對外景影片的內容進行解說或甚至吐槽。後藤並且會以資深前輩的身份，在每一集片尾的講評對談時段，針對成員表現的綜藝度給予HKT48這些演藝圈的後輩綜合意見，替該集的外出center打分數，與選出在該集中表現最佳的外出成員（MVP）。
 
 除此之外，因為指原在2013年6月時的[AKB48第五屆總選舉中奪得冠軍名聲大漲](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")，因此自第28集開始甚至在節目的棚內對談時段增闢針對指原的觀眾來信問答單元「國民們想向center指原打聽的事」（）。此單元在2014年下半被「HKT48的樸素疑問問答」（）取代，改由成員們輪流在每週節目中對兩位主持人指原與後藤發問的形式。
 
-《HKT48的御出掛！》是由[日本環球音樂](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")（本身也是HKT48的發片公司）主要贊助。在2014年6月之前，經常和HKT48擁有[廣告與活動企畫合作關係的日本食品大廠](../Page/電視廣告.md "wikilink")[樂天](https://zh.wikipedia.org/wiki/樂天集團 "wikilink")（LOTTE）原本也是主要贊助商之一，並承包了片尾的廣告專題段落。在樂天的廣告贊助結束後，節目改由（，[全家便利商店的上級店鋪與](../Page/全家便利商店.md "wikilink")[網路購物品牌](https://zh.wikipedia.org/wiki/網路購物 "wikilink")）作為共同主要贊助商。
+《HKT48的御出掛！》是由[日本環球音樂](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")（本身也是HKT48的發片公司）主要贊助。在2014年6月之前，經常和HKT48擁有[廣告與活動企畫合作關係的日本食品大廠](../Page/電視廣告.md "wikilink")[樂天](https://zh.wikipedia.org/wiki/樂天集團 "wikilink")（LOTTE）原本也是主要贊助商之一，並承包了片尾的廣告專題段落。在樂天的廣告贊助結束後，節目改由（，[全家便利商店](../Page/全家便利商店.md "wikilink")的上級店鋪與[網路購物品牌](https://zh.wikipedia.org/wiki/網路購物 "wikilink")）作為共同主要贊助商。
 
 ## 演出者
 
@@ -50,11 +50,11 @@
 
   - （第37集）：曾擔任過[九州朝日放送主播的福岡市長](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")。
 
-  - （，第58集）：HKT48成員在推廣新單曲時拜訪的[FM東京廣播節目](../Page/FM東京.md "wikilink")《》（火箭公司）的之一。
+  - （，第58集）：HKT48成員在推廣新單曲時拜訪的[FM東京](../Page/FM東京.md "wikilink")廣播節目《》（火箭公司）的之一。
 
   - （第58集）：同樣擔任《Skyrocket Company》主持人的藝人。
 
-  - [大島涼花](../Page/大島涼花.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[竹內美宥](../Page/竹內美宥.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")（第58集）：[AKB48成員](../Page/AKB48.md "wikilink")，因參與演出AKB48自己的電視節目《[AKB48的你是誰？](../Page/AKB48的你是誰？.md "wikilink")》（）半途，遇到HKT48成員突襲拜訪打歌，而在節目外景中出鏡。
+  - [大島涼花](../Page/大島涼花.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[竹內美宥](../Page/竹內美宥.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")（第58集）：[AKB48](../Page/AKB48.md "wikilink")成員，因參與演出AKB48自己的電視節目《[AKB48的你是誰？](../Page/AKB48的你是誰？.md "wikilink")》（）半途，遇到HKT48成員突襲拜訪打歌，而在節目外景中出鏡。
 
   - （第62、63集）：HKT48成員前往研習表演技巧的Showmanship劇團（）之主持人。
 

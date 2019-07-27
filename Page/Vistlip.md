@@ -1,4 +1,4 @@
-**vistlip**（ヴィストリップ）、[日本的](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。所屬事務所是デルファイサウンド(delfi
+**vistlip**（ヴィストリップ）、[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。所屬事務所是デルファイサウンド(delfi
 SOUND)。
 
 ## 團員
@@ -12,7 +12,7 @@ SOUND)。
 
   - **Yuh**(ユウ)
       - Guitar
-      - 7月28日生、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[巴伐利亚](../Page/巴伐利亚.md "wikilink")[慕尼黑出身](../Page/慕尼黑.md "wikilink")
+      - 7月28日生、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[巴伐利亚](../Page/巴伐利亚.md "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")出身
       - 血液型 - A型
 
 <!-- end list -->
@@ -80,7 +80,7 @@ SOUND)。
       - 04月16日　重新開始樂團活動。
       - 05月7日～ - vistlip oneman live tour\[revelation space\]全5場公演
       - 06月1日 - 第7張單曲「SINDRA」發售\[2\]
-      - 單曲SINDRA首次打進[Oricon公信榜週間前](../Page/Oricon公信榜.md "wikilink")10名。\[3\]
+      - 單曲SINDRA首次打進[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週間前10名。\[3\]
       - 07月7日 - vistlip oneman live tour\[revelation space\]FINAL Zepp
         Tokyo \[4\]
       - 08月1日 - SCUBERDIVE〜渋谷が大変2011〜出演

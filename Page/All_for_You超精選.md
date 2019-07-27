@@ -1,5 +1,5 @@
 《***All for You***
-》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥於](../Page/羅志祥.md "wikilink")2011年1月21日推出的第二張國語[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，收錄了羅志祥在[艾迴音樂時期](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")（2003-2006）所發行的四張專輯的歌曲。這張由艾迴音樂發行的精選輯收錄了36首歌曲，19首音樂錄影帶及1小時*BenQ
+》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")於2011年1月21日推出的第二張國語[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，收錄了羅志祥在[艾迴音樂時期](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")（2003-2006）所發行的四張專輯的歌曲。這張由艾迴音樂發行的精選輯收錄了36首歌曲，19首音樂錄影帶及1小時*BenQ
 羅志祥Speshow 演唱會 Live 精華版*\[1\]
 
 ## 曲目

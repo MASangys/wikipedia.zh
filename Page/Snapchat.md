@@ -1,7 +1,7 @@
 **Snapchat**是一款由[斯坦福大学学生开发的](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[软件应用](../Page/应用程序.md "wikilink")\[1\]\[2\]。利用该应用程序，用户可以拍照、录制影片、撰寫文字和圖畫，并傳送到自己在该应用上的好友列表。这些照片及影片被称为“快照”（"Snaps"）。
 用户在向好友发送“快照”时，可以设定一个限制好友访问“快照”的时间（截止2017年7月，用户可选择的时限是1秒至10秒之间，或無限\[3\]），在这之后，这些“快照”会彻底从好友的设备上和snapchat上的服务器删除。
 
-目前[中国大陆无法访问Snapchat](../Page/中国大陆.md "wikilink")。中国政府没有直接封锁，但由于Snapchat的后台服务器大多由谷歌提供，而[谷歌大多数服务器在中国大陆被封锁](../Page/2014年中国大陆屏蔽谷歌服务事件.md "wikilink")，所以Snapchat受到波及。
+目前[中国大陆](../Page/中国大陆.md "wikilink")无法访问Snapchat。中国政府没有直接封锁，但由于Snapchat的后台服务器大多由谷歌提供，而[谷歌大多数服务器在中国大陆被封锁](../Page/2014年中国大陆屏蔽谷歌服务事件.md "wikilink")，所以Snapchat受到波及。
 
 ## 用户群体
 
@@ -15,7 +15,7 @@ Snapchat是[伊萬·斯皮格和鲍比](https://zh.wikipedia.org/wiki/伊萬·�
 
 在早期，Snapchat创业团队更专注于这款应用的易用性和技术挑战，而不是品牌和设计性\[9\]。Snapchat的吉祥物被称作
 "Ghostface Chillah",
-这个名字来源于前[武当帮乐队成员的艺名](../Page/武当帮.md "wikilink")“鬼脸杀手”（Ghostface
+这个名字来源于前[武当帮](../Page/武当帮.md "wikilink")乐队成员的艺名“鬼脸杀手”（Ghostface
 Killah）。\[10\]
 
 2012年5月，每秒有25张快照从Snapchat上被发出\[11\]。

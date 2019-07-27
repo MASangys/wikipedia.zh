@@ -1,4 +1,4 @@
-《**TRIBAL SOUL**》是[日本演唱團體](../Page/日本.md "wikilink")[第三代J Soul
+《**TRIBAL SOUL**》是[日本](../Page/日本.md "wikilink")演唱團體[第三代J Soul
 Brothers的第](../Page/J_Soul_Brothers.md "wikilink")2張原創專輯。2011年12月7日發行，唱片公司為[rhythm
 zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
@@ -34,7 +34,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 3.  **[FIGHTERS](../Page/FIGHTERS.md "wikilink")**
     （作詞：lil'showy / P-CHO / GS / KUBO-C / Tomogen、作曲・編曲：lil'showy）
       -
-        4th單曲、[日本電視台電視劇](../Page/日本電視台.md "wikilink")《[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")》的主題曲
+        4th單曲、[日本電視台](../Page/日本電視台.md "wikilink")電視劇《[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")》的主題曲
 4.  **DEEP INSIDE**
     （作詞：小竹正人、作曲：高木宏明、編曲：中野雄太）
       -
@@ -42,7 +42,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 5.  **[反覆掙扎](../Page/反覆掙扎.md "wikilink")**（）
     （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：中野雄太）
       -
-        5th單曲、H.I.S.「歐洲編」電視廣告歌曲、[日本電視台節目](../Page/日本電視台.md "wikilink")「スッキリ\!\!」的片尾曲
+        5th單曲、H.I.S.「歐洲編」電視廣告歌曲、[日本電視台](../Page/日本電視台.md "wikilink")節目「スッキリ\!\!」的片尾曲
 6.  **SOUTHSIDE**
     （作詞：ON SMASH\!、作曲：MATS LIE SKARE / ON SMASH\!）
 7.  **雪的蒼穹**（）

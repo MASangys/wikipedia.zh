@@ -1,4 +1,4 @@
-《**彩虹**》（虹）是[日本的](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")34张[单曲](../Page/单曲.md "wikilink")，於2012年10月31日由[avex
+《**彩虹**》（虹）是[日本](../Page/日本.md "wikilink")的[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")34张[单曲](../Page/单曲.md "wikilink")，於2012年10月31日由[avex
 trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。\[1\]
 
 ## 概要

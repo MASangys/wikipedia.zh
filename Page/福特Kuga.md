@@ -56,7 +56,7 @@ AFS(Adaptive Front-lighting System)
 美國福特(Escape)[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[路易維爾](../Page/路易維爾_\(肯塔基州\).md "wikilink"),
 
 中期改款仍採用家族語彙Kinetic Design, 精進部份設計. 唯車室空間利用效率仍未有進步.
-在[中華民國由](../Page/中華民國.md "wikilink")[福特六和汽車生產](../Page/福特六和汽車.md "wikilink")
+在[中華民國](../Page/中華民國.md "wikilink")由[福特六和汽車](../Page/福特六和汽車.md "wikilink")生產
 
 *Petrol*
 

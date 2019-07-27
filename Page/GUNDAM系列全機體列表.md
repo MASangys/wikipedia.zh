@@ -1,4 +1,4 @@
-**GUNDAM系列全機體列表**列出在[日本](../Page/日本.md "wikilink")[动画系列片](../Page/动画.md "wikilink")[机动战士GUNDAM中出现的](../Page/GUNDAM系列作品.md "wikilink")[虚构兵器](https://zh.wikipedia.org/wiki/虚构兵器 "wikilink")。
+**GUNDAM系列全機體列表**列出在[日本](../Page/日本.md "wikilink")[动画](../Page/动画.md "wikilink")系列片[机动战士GUNDAM中出现的](../Page/GUNDAM系列作品.md "wikilink")[虚构兵器](https://zh.wikipedia.org/wiki/虚构兵器 "wikilink")。
 
 要获取更多关于GUNDAM的信息，请参看主题条目：
 

@@ -1,6 +1,6 @@
 ## A16A 其他消化道和代谢药物（Other alimentary tract and metabolism products）
 
-### A16AA [氨基酸及其衍生物](../Page/氨基酸.md "wikilink")（Amino acids and derivatives）
+### A16AA [氨基酸](../Page/氨基酸.md "wikilink")及其衍生物（Amino acids and derivatives）
 
   -
     A16AA01
@@ -17,7 +17,7 @@
     A16AA06 [甜菜碱](../Page/甜菜碱.md "wikilink")（Betaine）
     QA16AA51 左卡尼汀，复方（Levocarnitine, combinations）
 
-### A16AB [酶类](../Page/酶.md "wikilink")（Enzymes）
+### A16AB [酶](../Page/酶.md "wikilink")类（Enzymes）
 
   -
     A16AB01

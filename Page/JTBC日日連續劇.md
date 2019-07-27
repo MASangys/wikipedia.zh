@@ -1,4 +1,4 @@
-**JTBC日日連續劇**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台每逢週一至五晚間播放的](../Page/JTBC.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於2013年2月。
+**JTBC日日連續劇**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")電視台每逢週一至五晚間播放的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於2013年2月。
 
 ## 播出時間變遷
 

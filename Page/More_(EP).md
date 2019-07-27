@@ -1,5 +1,5 @@
 《**More**》為台灣女子團體[Popu
-Lady的第三張音樂寫真](../Page/Popu_Lady.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，睽違一年推出的全新作品，這次此專輯收錄四首夏日戀愛風格的歌曲，同時也附加80頁精美的海島寫真，連同專輯其中一波主打歌曲MV「好好」，是專輯製作小組斥資百萬特別遠赴[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[關島拍攝](../Page/關島.md "wikilink")。
+Lady的第三張音樂寫真](../Page/Popu_Lady.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，睽違一年推出的全新作品，這次此專輯收錄四首夏日戀愛風格的歌曲，同時也附加80頁精美的海島寫真，連同專輯其中一波主打歌曲MV「好好」，是專輯製作小組斥資百萬特別遠赴[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[關島](../Page/關島.md "wikilink")拍攝。
 
 專輯中的輕快主打歌曲**「More」**是首復古舞曲風的新歌，繼上一張專輯的『拍拍舞』後，這次舞蹈全新嘗試，推出帶有擴胸有氧的動作，還有加上韻律操口訣的「3D
 More More

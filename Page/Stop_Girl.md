@@ -1,5 +1,5 @@
 「**Stop
-Girl**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第](../Page/U-KISS.md "wikilink")7枚迷你專輯。於2012年9月20日發行。唱片公司為[NH
+Girl**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第7枚迷你專輯。於2012年9月20日發行。唱片公司為[NH
 Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要

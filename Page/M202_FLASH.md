@@ -5,12 +5,12 @@ Weapon**，**FLASH**）是一款[美製](https://zh.wikipedia.org/wiki/美國 "w
 
 M202A1具有四個發射管，可裝載66毫米口徑[燃燒](https://zh.wikipedia.org/wiki/燃烧武器 "wikilink")[火箭彈](https://zh.wikipedia.org/wiki/火箭彈 "wikilink")。其使用的M74火箭配有M235彈頭，每個彈頭內裝有約0.61千克（1.34英磅）的燃燒劑。與一般認識不同，M235彈頭使用TPA而非凝固汽油作燃燒劑。
 
-TPA即經過[聚異丁烯增稠的](https://zh.wikipedia.org/wiki/聚異丁烯 "wikilink")（TEA）。三乙基鋁是一種[有機金屬化合物](https://zh.wikipedia.org/wiki/有機金屬化合物 "wikilink")，性質極不穩定，具有遇空氣即[自燃的特性](../Page/自燃.md "wikilink")，燃燒溫度可達1,200°C（2,192°F）。三乙基鋁燃燒時發出耀眼白光，放熱遠勝汽油或凝固汽油，無需接觸，僅憑[熱輻射即可燒傷皮膚](https://zh.wikipedia.org/wiki/熱輻射 "wikilink")。
+TPA即經過[聚異丁烯增稠的](https://zh.wikipedia.org/wiki/聚異丁烯 "wikilink")（TEA）。三乙基鋁是一種[有機金屬化合物](https://zh.wikipedia.org/wiki/有機金屬化合物 "wikilink")，性質極不穩定，具有遇空氣即[自燃](../Page/自燃.md "wikilink")的特性，燃燒溫度可達1,200°C（2,192°F）。三乙基鋁燃燒時發出耀眼白光，放熱遠勝汽油或凝固汽油，無需接觸，僅憑[熱輻射即可燒傷皮膚](https://zh.wikipedia.org/wiki/熱輻射 "wikilink")。
 
 M202使用與[M72
 LAW口徑相同的火箭](../Page/M72輕型反裝甲武器.md "wikilink")，因此理論上它也可以用來發射[HEAT反坦克火箭](../Page/高爆反坦克彈.md "wikilink")；實際上XM191就具有此能力。不過，對於M202並沒有開發過相應改裝。
 
-M202設計從右肩發射，發射時可採取站、蹲或臥姿。M202可同時發射四枚火箭。發射後通過[彈匣裝填](../Page/彈匣.md "wikilink")。
+M202設計從右肩發射，發射時可採取站、蹲或臥姿。M202可同時發射四枚火箭。發射後通過[彈匣](../Page/彈匣.md "wikilink")裝填。
 
 若四枚火箭同時發射，M202A1對於下列目標有50%的命中率：
 

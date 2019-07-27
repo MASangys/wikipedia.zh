@@ -1,6 +1,6 @@
 《**ayumi hamasaki ASIA TOUR 2007 A ～Tour of Secret～ "LIVE +
 DOCUMENTARY"**》（濱崎步 2007 亞洲巡迴演唱會 A ～步姬密～
-"演唱會+幕後紀實"）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2007年間在亞洲各國舉行的巡迴演唱會，2008年3月12日發行DVD。
+"演唱會+幕後紀實"）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007年間在亞洲各國舉行的巡迴演唱會，2008年3月12日發行DVD。
 
 ## 說明
 

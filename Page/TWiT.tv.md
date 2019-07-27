@@ -1,5 +1,5 @@
 **TWiT直播网**是**TWiT
-LLC**的商标名，它是由美国[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")[广播人兼](https://zh.wikipedia.org/wiki/广播 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")所主持的一个[播客網](../Page/播客.md "wikilink")。
+LLC**的商标名，它是由美国[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")[广播人兼](https://zh.wikipedia.org/wiki/广播 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")所主持的一个[播客](../Page/播客.md "wikilink")網。
 在2005年4月，直播网开始运行，启动了“本周科技/This Week in Tech”的栏目。 目前栏目有全美联播的广播电台节目The
 Tech Guy，苹果计算机Apple Computer，本周谷歌This Week in Google，关于安卓的一切All About
 Android和当前的科技新闻。
@@ -27,13 +27,13 @@ I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink"),
 Faire](https://zh.wikipedia.org/wiki/Maker_Faire "wikilink"), [Dragon
 Con](https://zh.wikipedia.org/wiki/Dragon_Con "wikilink"),
 [西南偏南](../Page/西南偏南.md "wikilink"), Macworld Expo,
-和[国际消费电子展](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")。他们也报道了诸如[埃里克·施密特卸任](../Page/埃里克·施密特.md "wikilink")[Google的CEO职位](../Page/Google.md "wikilink"),
+和[国际消费电子展](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")。他们也报道了诸如[埃里克·施密特](../Page/埃里克·施密特.md "wikilink")卸任[Google](../Page/Google.md "wikilink")的CEO职位,
 [惠普公司兼并](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")
 [Palm公司](https://zh.wikipedia.org/wiki/Palm公司 "wikilink"), [Steve
 Jobs的辞职和死亡](https://zh.wikipedia.org/wiki/Steve_Jobs "wikilink"),
 以及来自[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，[Apple](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink"),
 [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink"),
-和[Facebook各种媒体和产品发布会的最新消息](../Page/Facebook.md "wikilink")。
+和[Facebook](../Page/Facebook.md "wikilink")各种媒体和产品发布会的最新消息。
 
 ## 现有节目
 

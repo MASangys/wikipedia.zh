@@ -1,4 +1,4 @@
-**Windows语音识别**（）是一个[语音识别应用程序](../Page/语音识别.md "wikilink")，内置在[Windows
+**Windows语音识别**（）是一个[语音识别](../Page/语音识别.md "wikilink")应用程序，内置在[Windows
 Vista](../Page/Windows_Vista.md "wikilink")、[Windows
 7和](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。

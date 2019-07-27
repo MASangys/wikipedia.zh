@@ -1,4 +1,4 @@
-《**Breakout**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關楚耀的第六張專輯](../Page/關楚耀.md "wikilink")，在2013年9月3日推出。專輯第一主打是《手刃情人》，第二主打則為《隻字不提》。
+《**Breakout**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關楚耀](../Page/關楚耀.md "wikilink")的第六張專輯，在2013年9月3日推出。專輯第一主打是《手刃情人》，第二主打則為《隻字不提》。
 
 ## 曲目
 

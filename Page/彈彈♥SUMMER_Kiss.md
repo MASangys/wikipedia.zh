@@ -1,5 +1,5 @@
 《**彈彈♥SUMMER
-Kiss**》（）是[SUPER☆GiRLS的第](../Page/SUPER☆GiRLS.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月4日由[iDOL
+Kiss**》（）是[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月4日由[iDOL
 Street发售](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要

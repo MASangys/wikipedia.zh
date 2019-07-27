@@ -1,4 +1,4 @@
-**大弄蝶屬**（學名：*Megathymus*）是[弄蝶科](../Page/弄蝶科.md "wikilink")[弄蝶亞科中的一個](../Page/弄蝶亞科.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")。物種分佈於北美沙漠地區。幼蟲[寄主為天門冬科](https://zh.wikipedia.org/wiki/寄主 "wikilink")[龍舌蘭屬植物](../Page/龍舌蘭屬.md "wikilink")\[1\]。
+**大弄蝶屬**（學名：*Megathymus*）是[弄蝶科](../Page/弄蝶科.md "wikilink")[弄蝶亞科](../Page/弄蝶亞科.md "wikilink")中的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")。物種分佈於北美沙漠地區。幼蟲[寄主為天門冬科](https://zh.wikipedia.org/wiki/寄主 "wikilink")[龍舌蘭屬](../Page/龍舌蘭屬.md "wikilink")植物\[1\]。
 
 ## 物種
 

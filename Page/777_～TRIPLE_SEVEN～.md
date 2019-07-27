@@ -68,7 +68,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     / 作曲：SHIROSE from SHIROSE JUKU・Shimada from SHIROSE JUKU・KEN
     MATSUOKA from SHIROSE JUKU ）
       -
-        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也](../Page/浦田直也.md "wikilink")・[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")・[與真司郎](../Page/與真司郎.md "wikilink")・[末吉秀太主唱](../Page/末吉秀太.md "wikilink")
+        [西島隆弘](../Page/西島隆弘.md "wikilink")・[浦田直也](../Page/浦田直也.md "wikilink")・[日高光啓](https://zh.wikipedia.org/wiki/日高光啓 "wikilink")・[與真司郎](../Page/與真司郎.md "wikilink")・[末吉秀太](../Page/末吉秀太.md "wikilink")主唱
 6.  **[Lights](https://zh.wikipedia.org/wiki/Charge_▶_Go!_/_Lights "wikilink")**
     （作詞：[Yusuke
     Toriumi](https://zh.wikipedia.org/wiki/Yusuke_Toriumi "wikilink") /
@@ -83,7 +83,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     SHIROSE JUKU / 作曲：SHIROSE from SHIROSE JUKU・NIKKI from SHIROSE
     JUKU・Shimada from SHIROSE JUKU・KEN MATSUOKA from SHIROSE JUKU）
       -
-        [宇野實彩子](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")・[伊藤千晃主唱](../Page/伊藤千晃.md "wikilink")
+        [宇野實彩子](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")・[伊藤千晃](../Page/伊藤千晃.md "wikilink")主唱
 8.  **[I$M](../Page/Still_Love_You.md "wikilink")**（做你自己）
     （作詞：[Goro
     Matsui](https://zh.wikipedia.org/wiki/Goro_Matsui "wikilink")・[Kenn

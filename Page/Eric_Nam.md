@@ -5,7 +5,7 @@ Door》正式出道。
 
 ## 生平
 
-2011年翻唱[2NE1的](../Page/2NE1.md "wikilink")《Lonely》，影片在[YouTube得到了超過](../Page/YouTube.md "wikilink")10萬的點擊率，接著受[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《偉大的誕生》邀請參與試鏡，並成為第二季的參賽者，有著帥氣的外貌、甜美的嗓音、出眾的音樂才能，每次比賽都展現了與眾不同的舞台，最終進入了TOP5。\[1\]
+2011年翻唱[2NE1](../Page/2NE1.md "wikilink")的《Lonely》，影片在[YouTube](../Page/YouTube.md "wikilink")得到了超過10萬的點擊率，接著受[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《偉大的誕生》邀請參與試鏡，並成為第二季的參賽者，有著帥氣的外貌、甜美的嗓音、出眾的音樂才能，每次比賽都展現了與眾不同的舞台，最終進入了TOP5。\[1\]
 
 Eric Nam不僅擁有音樂上的實力，還是波士頓學院國際研究學學士，有著豐富的經營諮詢與企業的知識。在《偉大的誕生》第二季比賽結束後，Eric
 Nam回到美國，經過考慮之後決定回韓國開始歌手活動。

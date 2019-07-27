@@ -13,14 +13,14 @@ Express价格相同。
 ## 特性
 
 Space Designer插件可以模拟各种不同的声学环境，例如尺寸变化的房间，或产生在高山里能听到的回声。Logic
-Pro能够与[MIDI键盘和控制器协同工作](../Page/MIDI.md "wikilink")（输入和输出）。
+Pro能够与[MIDI](../Page/MIDI.md "wikilink")键盘和控制器协同工作（输入和输出）。
 
 Logic Pro与Logic Express共用许多功能和同样的界面。[Logic
 Express仅支持](https://zh.wikipedia.org/wiki/Logic_Express "wikilink")2轨道的立体声，而Logic
 Pro能够处理多轨道的[环绕声它们都可以支持最多](https://zh.wikipedia.org/wiki/环绕声 "wikilink")255个音轨，具体取决于系统性能。
 
 Logic
-Pro以凭借[以太网和](../Page/以太网.md "wikilink")[局域网进行](../Page/局域网.md "wikilink")[分布式处理功能为特色](https://zh.wikipedia.org/wiki/分布式处理 "wikilink")，一台电脑运行Logic
+Pro以凭借[以太网](../Page/以太网.md "wikilink")和[局域网](../Page/局域网.md "wikilink")进行[分布式处理功能为特色](https://zh.wikipedia.org/wiki/分布式处理 "wikilink")，一台电脑运行Logic
 Pro网络中的其他电脑运行Logic
 node。Logic将向网络中其他的机器进行分载和合成处理。如果以太网足够快（[吉比特以太网](../Page/吉比特以太网.md "wikilink")），Logic可以几乎实时的工作，速度则根据缓冲区的设置和CPU负载。Logic的用户可以凭借Logic
 Pro的内建插件以及第三方软件把若干个麦金塔电脑的处理能力结合到一起。比起苹果旗舰的12核心Mac

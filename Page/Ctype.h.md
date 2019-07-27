@@ -12,7 +12,7 @@ functions），用于测试字符是否属于特定的字符类别，如字母�
 #define isdigit(x) (TABLE[x] & 1)
 ```
 
-早期版本的[Linux使用了潜在犯错的方法](../Page/Linux.md "wikilink")，类似于：
+早期版本的[Linux](../Page/Linux.md "wikilink")使用了潜在犯错的方法，类似于：
 
 ``` c
 #define isdigit(x) ((x) >= '0' && (x) <= '9')
@@ -82,7 +82,7 @@ functions），用于测试字符是否属于特定的字符类别，如字母�
 <tr class="even">
 <td><p><a href="http://en.cppreference.com/w/c/string/byte/isblank"><code>isblank</code></a></p></td>
 <td><p><a href="http://en.cppreference.com/w/c/string/wide/iswblank"><code>iswblank</code></a></p></td>
-<td><p>是否为<a href="https://zh.wikipedia.org/wiki/空白字符" title="wikilink">空白字符</a> (<a href="https://zh.wikipedia.org/wiki/C99" title="wikilink">C99</a>/<a href="../Page/C++11.md" title="wikilink">C++11新增</a>)（包括水平制表符）</p></td>
+<td><p>是否为<a href="https://zh.wikipedia.org/wiki/空白字符" title="wikilink">空白字符</a> (<a href="https://zh.wikipedia.org/wiki/C99" title="wikilink">C99</a>/<a href="../Page/C++11.md" title="wikilink">C++11</a>新增)（包括水平制表符）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="http://en.cppreference.com/w/c/string/byte/isprint"><code>isprint</code></a></p></td>

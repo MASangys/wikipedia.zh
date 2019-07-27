@@ -1,4 +1,4 @@
-**U航空**（）是一間創立於2012年4月的[泰國民營航空公司](https://zh.wikipedia.org/wiki/泰國 "wikilink")。起初，U航空僅執飛[包機航線](../Page/包機.md "wikilink")，但該公司將於近期內開闢定期航線。
+**U航空**（）是一間創立於2012年4月的[泰國民營航空公司](https://zh.wikipedia.org/wiki/泰國 "wikilink")。起初，U航空僅執飛[包機](../Page/包機.md "wikilink")航線，但該公司將於近期內開闢定期航線。
 
 ## 目的地\[1\]
 

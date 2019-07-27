@@ -1,7 +1,7 @@
-**Xbox**是[微软创立的](../Page/微软.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")[品牌](../Page/品牌.md "wikilink")。它包括微软开发的从[第六到](https://zh.wikipedia.org/wiki/游戏机历史_\(第六世代\) "wikilink")[第八世代的一系列](https://zh.wikipedia.org/wiki/游戏机历史_\(第八世代\) "wikilink")[电子游戏机](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")，以及[应用](https://zh.wikipedia.org/wiki/应用软件 "wikilink")（游戏）、[流服务](../Page/流媒体.md "wikilink")，以及在线服务[Xbox
+**Xbox**是[微软](../Page/微软.md "wikilink")创立的[电子游戏](../Page/电子游戏.md "wikilink")[品牌](../Page/品牌.md "wikilink")。它包括微软开发的从[第六到](https://zh.wikipedia.org/wiki/游戏机历史_\(第六世代\) "wikilink")[第八世代的一系列](https://zh.wikipedia.org/wiki/游戏机历史_\(第八世代\) "wikilink")[电子游戏机](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")，以及[应用](https://zh.wikipedia.org/wiki/应用软件 "wikilink")（游戏）、[流服务](../Page/流媒体.md "wikilink")，以及在线服务[Xbox
 Live](../Page/Xbox_Live.md "wikilink")。品牌2001年11月15日在美国随着[初代Xbox游戏机的首发而首次推出](https://zh.wikipedia.org/wiki/Xbox_\(主機\) "wikilink")。
 
-初代设备是在1996年[雅达利Jaguar停售后](../Page/雅达利Jaguar.md "wikilink")，首个由[美国公司推出的电子游戏机](../Page/美国.md "wikilink")，截至2006年5月10日在全球售出2400多万台\[1\]。微软第二台主机[Xbox
+初代设备是在1996年[雅达利Jaguar](../Page/雅达利Jaguar.md "wikilink")停售后，首个由[美国](../Page/美国.md "wikilink")公司推出的电子游戏机，截至2006年5月10日在全球售出2400多万台\[1\]。微软第二台主机[Xbox
 360于](../Page/Xbox_360.md "wikilink")2005年发售，截至2014年在全球售出8400万台\[2\]。Xbox
 360的继任机种，也就是當前的机种，是2013年5月21日销售的[Xbox
 One](../Page/Xbox_One.md "wikilink")\[3\]\[4\]。继在英国首发后\[5\]，到2013年11月22日已经
@@ -69,7 +69,7 @@ One的性能升級版主机Xbox One X 正式发售。
 <tr class="even">
 <td><p><a href="../Page/电子游戏销量排行列表.md" title="wikilink">最畅销的游戏</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/光环2" title="wikilink">光环2</a></em>, 八百万套<small>（截至2006年5月9日）</small>[17][18]</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Kinect_大冒险" title="wikilink">Kinect 大冒险</a></em>（<small>与<a href="../Page/Kinect.md" title="wikilink">Kinect捆绑发售</a>）</small>, [19]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kinect_大冒险" title="wikilink">Kinect 大冒险</a></em>（<small>与<a href="../Page/Kinect.md" title="wikilink">Kinect</a>捆绑发售）</small>, [19]</p></td>
 <td><p><em><a href="../Page/俠盜獵車手V.md" title="wikilink">俠盜獵車手V</a></em>, 七百四十万套[20]</p></td>
 <td></td>
 </tr>

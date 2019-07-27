@@ -2,17 +2,17 @@
 other=使用[伺服机构的马达](https://zh.wikipedia.org/wiki/伺服机构 "wikilink")
 | 伺服马达 }}
 
-**Servo**是一個由[Mozilla開發的實驗性](../Page/Mozilla基金會.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")，[三星集團移植到](https://zh.wikipedia.org/wiki/三星集團 "wikilink")[Android系统和](../Page/Android.md "wikilink")[ARM处理器](https://zh.wikipedia.org/wiki/ARM "wikilink")\[1\]。該项目旨在创造一个大規模[平行計算的环境](https://zh.wikipedia.org/wiki/平行計算 "wikilink")，其中的许多组件（如[算繪](../Page/渲染.md "wikilink")、布局、HTML解析、图像[解码等](https://zh.wikipedia.org/wiki/解码 "wikilink")）都是[並行的](https://zh.wikipedia.org/wiki/任務並行 "wikilink")。此项目与[Rust编程语言有共生的关系](../Page/Rust.md "wikilink")，并同样正在开发中。
+**Servo**是一個由[Mozilla開發的實驗性](../Page/Mozilla基金會.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")，[三星集團移植到](https://zh.wikipedia.org/wiki/三星集團 "wikilink")[Android](../Page/Android.md "wikilink")系统和[ARM处理器](https://zh.wikipedia.org/wiki/ARM "wikilink")\[1\]。該项目旨在创造一个大規模[平行計算的环境](https://zh.wikipedia.org/wiki/平行計算 "wikilink")，其中的许多组件（如[算繪](../Page/渲染.md "wikilink")、布局、HTML解析、图像[解码等](https://zh.wikipedia.org/wiki/解码 "wikilink")）都是[並行的](https://zh.wikipedia.org/wiki/任務並行 "wikilink")。此项目与[Rust](../Page/Rust.md "wikilink")编程语言有共生的关系，并同样正在开发中。
 
-Servo使用的两个重要组件基于Mozilla现有的[C++代码](../Page/C++.md "wikilink")。[JavaScript支持由](../Page/JavaScript.md "wikilink")[SpiderMonkey提供](../Page/SpiderMonkey.md "wikilink")，2D图形库用于与[OpenGL和](../Page/OpenGL.md "wikilink")[Direct3D交互](../Page/Direct3D.md "wikilink")。\[2\]
+Servo使用的两个重要组件基于Mozilla现有的[C++](../Page/C++.md "wikilink")代码。[JavaScript](../Page/JavaScript.md "wikilink")支持由[SpiderMonkey](../Page/SpiderMonkey.md "wikilink")提供，2D图形库用于与[OpenGL](../Page/OpenGL.md "wikilink")和[Direct3D](../Page/Direct3D.md "wikilink")交互。\[2\]
 
 Servo是以美國影集《神秘科學戲院3000》（）的機器人Tom Servo命名的\[3\]。
 
 ## 特點
 
-Servo發展尚處於起步階段，然而，它已經可以算繪[維基百科和](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[GitHub](../Page/GitHub.md "wikilink")，並成功通過了[Acid2測試](../Page/Acid2.md "wikilink")。它具有諸如並行排版演算法以及在Rust中實現的自己的CSS3和HTML5解析器等創新功能\[4\]\[5\]。
+Servo發展尚處於起步階段，然而，它已經可以算繪[維基百科和](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[GitHub](../Page/GitHub.md "wikilink")，並成功通過了[Acid2](../Page/Acid2.md "wikilink")測試。它具有諸如並行排版演算法以及在Rust中實現的自己的CSS3和HTML5解析器等創新功能\[4\]\[5\]。
 
-Servo利用[GPU加速技術更快速和流暢地呈現網頁](https://zh.wikipedia.org/wiki/GPU "wikilink")\[6\]\[7\]。截至2014年11月，Servo在某些基準測試中的速度明顯快於[Gecko和其他排版引擎](../Page/Gecko.md "wikilink")\[8\]\[9\]。
+Servo利用[GPU加速技術更快速和流暢地呈現網頁](https://zh.wikipedia.org/wiki/GPU "wikilink")\[6\]\[7\]。截至2014年11月，Servo在某些基準測試中的速度明顯快於[Gecko](../Page/Gecko.md "wikilink")和其他排版引擎\[8\]\[9\]。
 
 ## 歷史
 

@@ -1,4 +1,4 @@
-**HLA-B**是[人類白細胞抗原](../Page/人類白細胞抗原.md "wikilink")（HLA）的一个[基因座位于](../Page/基因座.md "wikilink")[6号染色体上](https://zh.wikipedia.org/wiki/6號染色體_\(人類\) "wikilink")。
+**HLA-B**是[人類白細胞抗原](../Page/人類白細胞抗原.md "wikilink")（HLA）的一个[基因座](../Page/基因座.md "wikilink")位于[6号染色体上](https://zh.wikipedia.org/wiki/6號染色體_\(人類\) "wikilink")。
 
 ## 参考文献
 

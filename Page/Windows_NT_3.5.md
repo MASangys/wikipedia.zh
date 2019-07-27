@@ -1,4 +1,4 @@
-**Windows NT 3.5**，是[微软的](../Page/微软.md "wikilink")[Windows
+**Windows NT 3.5**，是[微软](../Page/微软.md "wikilink")的[Windows
 NT产品线的第二代产品](../Page/Windows_NT.md "wikilink")，于1994年9月21日发布。\[1\]
 
 Windows NT
@@ -13,17 +13,17 @@ Server（高级服务器）版本。\[3\]
 工作站版本只允许10个客户端并发访问文件服务器，不支持Mac客户端。\[4\]
 
 Windows NT
-3.5包括集成的[Winsock和](../Page/Winsock.md "wikilink")[TCP/IP支持](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")。\[5\]（它的前任Windows
+3.5包括集成的[Winsock](../Page/Winsock.md "wikilink")和[TCP/IP支持](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")。\[5\]（它的前任Windows
 NT 3.1，只包括了TCP/IP的一个基于[AT\&T](../Page/AT&T.md "wikilink") [UNIX System
 V的](../Page/UNIX_System_V.md "wikilink")“”应用程序接口的不完整实现。）Windows NT
 3.5中的TCP/IP和IPX/SPX协议栈被改写。\[6\] [NetBIOS over
 TCP/IP](https://zh.wikipedia.org/wiki/NetBIOS_over_TCP/IP "wikilink") (
 NetBT ) （用作对于TCP/IP的[兼容层](../Page/兼容层.md "wikilink")）、Microsoft
 [DHCP客户端与服务器和Microsoft](https://zh.wikipedia.org/wiki/DHCP "wikilink")
-[WINS客户端与服务器也被引入](../Page/WINS.md "wikilink")。\[7\]\[8\]
+[WINS](../Page/WINS.md "wikilink")客户端与服务器也被引入。\[7\]\[8\]
 
 Windows NT
-3.5可以通过LPR分享打印机，通过[FTP分享文件](https://zh.wikipedia.org/wiki/FTP "wikilink")。它可以作为一个[Gopher](https://zh.wikipedia.org/wiki/Gopher "wikilink")，Web或服务器运行\[9\]，并包括远程访问服务，可使远程拨号调制解调器使用[SLIP或](https://zh.wikipedia.org/wiki/SLIP "wikilink")[PPP协议接入局域网服务](../Page/PPP.md "wikilink")。\[10\]
+3.5可以通过LPR分享打印机，通过[FTP分享文件](https://zh.wikipedia.org/wiki/FTP "wikilink")。它可以作为一个[Gopher](https://zh.wikipedia.org/wiki/Gopher "wikilink")，Web或服务器运行\[9\]，并包括远程访问服务，可使远程拨号调制解调器使用[SLIP或](https://zh.wikipedia.org/wiki/SLIP "wikilink")[PPP](../Page/PPP.md "wikilink")协议接入局域网服务。\[10\]
 包括了的首个实现。\[11\]
 
 Windows NT
@@ -31,7 +31,7 @@ Windows NT
 for Workgroups
 3保持一致](https://zh.wikipedia.org/wiki/Windows_3.1x "wikilink")。它在性能上有所提升，并且比[Windows
 NT 3.1所需内存更少](../Page/Windows_NT_3.1.md "wikilink")。\[14\]除此之外，从Windows
-NT 3.5之后，Windows NT不再依赖[MS-DOS使用](../Page/MS-DOS.md "wikilink")。\[15\]
+NT 3.5之后，Windows NT不再依赖[MS-DOS](../Page/MS-DOS.md "wikilink")使用。\[15\]
 
 ## 局限性
 
@@ -45,7 +45,7 @@ NT 3.51解决了这个问题。不过，修改安装光盘上的文件也可使�
 ## 评价
 
 1995年7月，Windows NT 3.5的Service Pack
-3被[美国国家安全局评为符合](../Page/美国国家安全局.md "wikilink")（TCSEC）的C2标准规定。\[19\]
+3被[美国国家安全局](../Page/美国国家安全局.md "wikilink")评为符合（TCSEC）的C2标准规定。\[19\]
 
 ## 参考资料
 

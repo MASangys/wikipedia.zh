@@ -1,9 +1,9 @@
-**Kaede**，一种，起源于自然状态的[石珊瑚目的](../Page/石珊瑚目.md "wikilink")[蜿蜒曲紋珊瑚](https://zh.wikipedia.org/wiki/蜿蜒曲紋珊瑚 "wikilink")（Trachyphyllia
+**Kaede**，一种，起源于自然状态的[石珊瑚目](../Page/石珊瑚目.md "wikilink")的[蜿蜒曲紋珊瑚](https://zh.wikipedia.org/wiki/蜿蜒曲紋珊瑚 "wikilink")（Trachyphyllia
 geoffroyi）。Kaede
 在日语中意为枫叶。当被[紫外光辐照](https://zh.wikipedia.org/wiki/紫外光 "wikilink")（350-400nm）时，kaede会有从[绿色荧光到红色荧光的不可逆光转换](https://zh.wikipedia.org/wiki/绿色荧光 "wikilink")。它是116
 kDa
 的人[四聚物](https://zh.wikipedia.org/wiki/四聚物 "wikilink")[蛋白质](../Page/蛋白质.md "wikilink")。据推断作为其主要结构的四聚物结构仅28
-kDa。这种四聚体化可能导致kaede结合到其他蛋白质时形成[聚合物的可能性较低](../Page/聚合物.md "wikilink")。
+kDa。这种四聚体化可能导致kaede结合到其他蛋白质时形成[聚合物](../Page/聚合物.md "wikilink")的可能性较低。
 
 ## 发现
 
@@ -15,7 +15,7 @@ al.在[美国国家科学院](../Page/美国国家科学院.md "wikilink")<sup>\
 像所有其他荧光蛋白，kaede可作为基因表达的局部光标记物和细胞行为研究的蛋白质标记物<sup>\[2\]</sup>。
 很有用的一种应用是[神经元的视觉呈现](https://zh.wikipedia.org/wiki/神经元 "wikilink")。由于长而薄的突起互相纠缠在一起，单独的神经元轮廓难于刻画出来。
 kaede发现后，用来呈现单个神经元的形态很有用。神经元转染kaede
-[cDNA后](https://zh.wikipedia.org/wiki/cDNA "wikilink")，用紫外光辐照，光转换后的红色荧光态的kaede自由散布于不包括核区的细胞，延伸到[树突和](https://zh.wikipedia.org/wiki/树突 "wikilink")[轴突区域](../Page/轴突.md "wikilink")，这种技术帮助解决了基于高密度培养神经细胞复杂网络的问题<sup>\[3\]</sup>。
+[cDNA后](https://zh.wikipedia.org/wiki/cDNA "wikilink")，用紫外光辐照，光转换后的红色荧光态的kaede自由散布于不包括核区的细胞，延伸到[树突和](https://zh.wikipedia.org/wiki/树突 "wikilink")[轴突](../Page/轴突.md "wikilink")区域，这种技术帮助解决了基于高密度培养神经细胞复杂网络的问题<sup>\[3\]</sup>。
 紫外光引起荧光色改变，即使只有一部分kaede光转换了，标记细胞和亚细胞结构仍有效。
 
 ## 优点

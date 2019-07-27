@@ -1,10 +1,10 @@
-《**真的假的！？TV**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[富士電視台的資訊](../Page/富士電視台.md "wikilink")、綜藝節目。由[明石家秋刀魚和](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")[加藤綾子主持](../Page/加藤綾子.md "wikilink")。
+《**真的假的！？TV**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[富士電視台](../Page/富士電視台.md "wikilink")的資訊、綜藝節目。由[明石家秋刀魚和](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")[加藤綾子](../Page/加藤綾子.md "wikilink")主持。
 
 ## 概要
 
 節目主要傳遞和討論時下最熱門的話題以及不知真假的傳聞，由一眾評論員和專家作出解讀。
 
-一開始是特別節目，由[明石家秋刀魚和](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")[自由](https://zh.wikipedia.org/wiki/自由業 "wikilink")[播報員](https://zh.wikipedia.org/wiki/播報員 "wikilink")[福澤朗主持](https://zh.wikipedia.org/wiki/福澤朗 "wikilink")。2009年10月開始常規化，由明石家秋刀魚和富士電視台播報員[加藤綾子主持](../Page/加藤綾子.md "wikilink")，節目安排在每週一23:00至23:30的深夜檔播放，收視率常保持在10%以上。2010年10月20日開始，播放時段轉為每週三21:00至21:54的黃金檔。
+一開始是特別節目，由[明石家秋刀魚和](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")[自由](https://zh.wikipedia.org/wiki/自由業 "wikilink")[播報員](https://zh.wikipedia.org/wiki/播報員 "wikilink")[福澤朗主持](https://zh.wikipedia.org/wiki/福澤朗 "wikilink")。2009年10月開始常規化，由明石家秋刀魚和富士電視台播報員[加藤綾子](../Page/加藤綾子.md "wikilink")主持，節目安排在每週一23:00至23:30的深夜檔播放，收視率常保持在10%以上。2010年10月20日開始，播放時段轉為每週三21:00至21:54的黃金檔。
 
 2011年1月5日播放的4小時半特別篇，收視率達到節目最高紀錄的19.8%。
 

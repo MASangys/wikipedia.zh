@@ -1,9 +1,9 @@
-《**Milk和Chocolate**》（）是[ChocoLe的首張單曲](../Page/ChocoLe.md "wikilink")，2011年12月28日由[avex
+《**Milk和Chocolate**》（）是[ChocoLe](../Page/ChocoLe.md "wikilink")的首張單曲，2011年12月28日由[avex
 entertainment開始販售](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")。
 
 ## 概要
 
-是[ChocoLe的出道作](../Page/ChocoLe.md "wikilink")，分為CD+DVD盤及通常盤兩種形式。
+是[ChocoLe](../Page/ChocoLe.md "wikilink")的出道作，分為CD+DVD盤及通常盤兩種形式。
 
 《Milk和Chocolate》被[東京電視台系](../Page/東京電視網.md "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")「[SKET
 DANCE](../Page/SKET_DANCE.md "wikilink")」選為片尾曲。\[1\]\[2\]\[3\]\[4\]\[5\][PV部分](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，則收錄在CD+DVD盤的DVD中。
@@ -17,7 +17,7 @@ Girls Live 〜睽違已久的全員集合\!?〜」（Watanabe Girls Live
 
 ### 主要紀錄
 
-2012年1月9日的[Oricon公信榜週間排名獲得第](../Page/Oricon公信榜.md "wikilink")48位，初動銷量約0.1萬，並在2011年12月27日的排名進入第16位。而音樂節目[COUNT
+2012年1月9日的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週間排名獲得第48位，初動銷量約0.1萬，並在2011年12月27日的排名進入第16位。而音樂節目[COUNT
 DOWN TV於](../Page/COUNT_DOWN_TV.md "wikilink")2012年1月7日播出的This Week's
 TOP 100則名列第40位。
 

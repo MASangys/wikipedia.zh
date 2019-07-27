@@ -1,5 +1,5 @@
 《**CRAZY FOR
-YOU**》是[美国出身的女性歌手](../Page/美国.md "wikilink")[Kylee的第](https://zh.wikipedia.org/wiki/Kylee "wikilink")5张单曲。
+YOU**》是[美国](../Page/美国.md "wikilink")出身的女性歌手[Kylee的第](https://zh.wikipedia.org/wiki/Kylee "wikilink")5张单曲。
 
 ## 概要
 

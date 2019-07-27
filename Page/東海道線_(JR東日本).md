@@ -1,5 +1,5 @@
 **東海道線**（）
-此項目是指[日本](../Page/日本.md "wikilink")[東海道本線之內由](../Page/東海道本線.md "wikilink")[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）所轄、由[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[東京站起至](https://zh.wikipedia.org/wiki/東京站 "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市](../Page/熱海市.md "wikilink")[熱海站為止的路段](https://zh.wikipedia.org/wiki/熱海站 "wikilink")，此處主要記述以運行[中距離旅客列車](https://zh.wikipedia.org/wiki/中距離電車 "wikilink")（所謂[湘南電車](https://zh.wikipedia.org/wiki/湘南電車 "wikilink")）為中心的運行系統。
+此項目是指[日本](../Page/日本.md "wikilink")[東海道本線](../Page/東海道本線.md "wikilink")之內由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）所轄、由[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[東京站起至](https://zh.wikipedia.org/wiki/東京站 "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市](../Page/熱海市.md "wikilink")[熱海站為止的路段](https://zh.wikipedia.org/wiki/熱海站 "wikilink")，此處主要記述以運行[中距離旅客列車](https://zh.wikipedia.org/wiki/中距離電車 "wikilink")（所謂[湘南電車](https://zh.wikipedia.org/wiki/湘南電車 "wikilink")）為中心的運行系統。
 
 ## 路線資料
 
@@ -45,7 +45,7 @@
 
   - ：東京站－大船站間
 
-  - IC乘車卡對應路段：全線（[Suica首都圈地域](../Page/Suica.md "wikilink")）\[2\]
+  - IC乘車卡對應路段：全線（[Suica](../Page/Suica.md "wikilink")首都圈地域）\[2\]
 
 {{-}}
 
@@ -108,7 +108,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong> 湘南新宿線：</strong>經<a href="https://zh.wikipedia.org/wiki/新宿站" title="wikilink">新宿站</a>、<a href="../Page/武藏小杉站.md" title="wikilink">武藏小杉站直通至橫濱站</a><br />
+<td><p><strong> 湘南新宿線：</strong>經<a href="https://zh.wikipedia.org/wiki/新宿站" title="wikilink">新宿站</a>、<a href="../Page/武藏小杉站.md" title="wikilink">武藏小杉站</a>直通至橫濱站<br />
 途經高崎線高崎站直通至兩毛線前橋站</p></td>
 <td></td>
 <td></td>

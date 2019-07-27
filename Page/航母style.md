@@ -1,16 +1,16 @@
 [航母style.png](https://zh.wikipedia.org/wiki/File:航母style.png "fig:航母style.png")[舰载机起飞手势](https://zh.wikipedia.org/wiki/舰载机 "wikilink")\]\]
 
-**航母style**（又称“走你”、“走你style”、“起飞style”）指[中華人民共和国第一艘](https://zh.wikipedia.org/wiki/中華人民共和国 "wikilink")[航空母舰](../Page/航空母舰.md "wikilink")[辽宁舰的](https://zh.wikipedia.org/wiki/辽宁号航空母舰 "wikilink")[舰载机](https://zh.wikipedia.org/wiki/舰载机 "wikilink")[歼15於起飞時的指挥](https://zh.wikipedia.org/wiki/歼15 "wikilink")[手势](https://zh.wikipedia.org/wiki/手势 "wikilink")\[1\]，後被被大量[网民模仿](../Page/网民.md "wikilink")，並出現[网络爆红现象的事件](https://zh.wikipedia.org/wiki/网络爆红现象 "wikilink")。此事被《[新闻联播](../Page/新闻联播.md "wikilink")》等媒体报道，客观上体现了中国民众爱国情感、对国家军事实现现代化的成就感和高度的民族认同感\[2\]。
+**航母style**（又称“走你”、“走你style”、“起飞style”）指[中華人民共和国第一艘](https://zh.wikipedia.org/wiki/中華人民共和国 "wikilink")[航空母舰](../Page/航空母舰.md "wikilink")[辽宁舰的](https://zh.wikipedia.org/wiki/辽宁号航空母舰 "wikilink")[舰载机](https://zh.wikipedia.org/wiki/舰载机 "wikilink")[歼15於起飞時的指挥](https://zh.wikipedia.org/wiki/歼15 "wikilink")[手势](https://zh.wikipedia.org/wiki/手势 "wikilink")\[1\]，後被被大量[网民](../Page/网民.md "wikilink")模仿，並出現[网络爆红现象的事件](https://zh.wikipedia.org/wiki/网络爆红现象 "wikilink")。此事被《[新闻联播](../Page/新闻联播.md "wikilink")》等媒体报道，客观上体现了中国民众爱国情感、对国家军事实现现代化的成就感和高度的民族认同感\[2\]。
 
 ## 爆红
 
-2012年12月，在[歼15成功于](https://zh.wikipedia.org/wiki/歼15 "wikilink")[辽宁舰上实现首飞的消息公布之后当日就有不少网民在](https://zh.wikipedia.org/wiki/辽宁舰 "wikilink")[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")、[微博上传庆贺照片](../Page/微博.md "wikilink")。其中有部分网民受到庆贺照片的启发并模仿舰载机起飞指挥员的手势动作，将之拍摄并上传于各大军事论坛以及多家微博\[3\]。由于微博平台的特殊性“航母style”几乎是一夜之间就在网络爆红\[4\]。
+2012年12月，在[歼15成功于](https://zh.wikipedia.org/wiki/歼15 "wikilink")[辽宁舰上实现首飞的消息公布之后当日就有不少网民在](https://zh.wikipedia.org/wiki/辽宁舰 "wikilink")[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")、[微博](../Page/微博.md "wikilink")上传庆贺照片。其中有部分网民受到庆贺照片的启发并模仿舰载机起飞指挥员的手势动作，将之拍摄并上传于各大军事论坛以及多家微博\[3\]。由于微博平台的特殊性“航母style”几乎是一夜之间就在网络爆红\[4\]。
 
 网络爆红后，许多中国网民和中国明星[孙俪](../Page/孙俪.md "wikilink")、[冯远征](../Page/冯远征.md "wikilink")、[马苏](https://zh.wikipedia.org/wiki/马苏 "wikilink")、[冯绍峰](https://zh.wikipedia.org/wiki/冯绍峰 "wikilink")、[文章](../Page/文章_\(演员\).md "wikilink")、[谢楠](https://zh.wikipedia.org/wiki/谢楠 "wikilink")、[朱时茂](../Page/朱时茂.md "wikilink")、[阿娇](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")、[冯喆等人纷纷模仿](../Page/冯喆_\(体操运动员\).md "wikilink")\[5\]。
 
 ## 姿势
 
-下蹲屈伸右臂上扬一套动作，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[海軍及](https://zh.wikipedia.org/wiki/海軍 "wikilink")[空军等同样采取此半蹲式姿势](../Page/空军.md "wikilink")，[俄罗斯为站立式](../Page/俄罗斯.md "wikilink")\[6\]\[7\]。
+下蹲屈伸右臂上扬一套动作，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[海軍及](https://zh.wikipedia.org/wiki/海軍 "wikilink")[空军](../Page/空军.md "wikilink")等同样采取此半蹲式姿势，[俄罗斯](../Page/俄罗斯.md "wikilink")为站立式\[6\]\[7\]。
 
 ## 改进
 

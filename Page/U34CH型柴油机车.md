@@ -1,8 +1,8 @@
-**U34CH型柴油机车**是[美国](../Page/美国.md "wikilink")[通用电气公司于](../Page/通用电气.md "wikilink")1970年代初推出的一款干线客运[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。这款机车是在[U36C型柴油机车的基础上发展而来](../Page/U36C型柴油机车.md "wikilink")，为满足[都市圈](../Page/都市圈.md "wikilink")[通勤铁路的运输需要而制造的客运柴油机车](../Page/通勤铁路.md "wikilink")。
+**U34CH型柴油机车**是[美国](../Page/美国.md "wikilink")[通用电气](../Page/通用电气.md "wikilink")公司于1970年代初推出的一款干线客运[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。这款机车是在[U36C型柴油机车](../Page/U36C型柴油机车.md "wikilink")的基础上发展而来，为满足[都市圈](../Page/都市圈.md "wikilink")[通勤铁路](../Page/通勤铁路.md "wikilink")的运输需要而制造的客运柴油机车。
 
 ## 运用历史
 
-1970年至1978年间，通用电气公司共生产了33台U34CH型柴油机车。其中32台机车是为（NJDOT）制造，于1970年至1973年期间交付及投入[新泽西通勤铁路使用](../Page/新泽西通勤铁路.md "wikilink")，主要用来牵引由制造的。最后一台机车于1978年交付[紐約大都會運輸署](https://zh.wikipedia.org/wiki/紐約大都會運輸署 "wikilink")（MTA）并投入使用，这台机车是利用一台因事故报废的[U30C型柴油机车改造而成](../Page/U30C型柴油机车.md "wikilink")\[1\]。
+1970年至1978年间，通用电气公司共生产了33台U34CH型柴油机车。其中32台机车是为（NJDOT）制造，于1970年至1973年期间交付及投入[新泽西通勤铁路](../Page/新泽西通勤铁路.md "wikilink")使用，主要用来牵引由制造的。最后一台机车于1978年交付[紐約大都會運輸署](https://zh.wikipedia.org/wiki/紐約大都會運輸署 "wikilink")（MTA）并投入使用，这台机车是利用一台因事故报废的[U30C型柴油机车](../Page/U30C型柴油机车.md "wikilink")改造而成\[1\]。
 
 1976年，伊利拉克瓦纳铁路申请破产后被[联合铁路公司兼并](https://zh.wikipedia.org/wiki/联合铁路公司 "wikilink")，U34CH型柴油机车的使用权亦随之转让。1983年，U34CH型柴油机车的运用和检修工作全部转交由[新泽西公共交通公司负责](https://zh.wikipedia.org/wiki/新泽西公共交通公司 "wikilink")。1990年代初，新泽西公共交通公司和紐約大都會運輸署开始计划淘汰日渐老旧的U34CH型柴油机车，随着经过现代化改造的[GP40PH-2](https://zh.wikipedia.org/wiki/GP40PH-2型柴油机车 "wikilink")、[GP40FH-2型柴油机车投入运用](https://zh.wikipedia.org/wiki/GP40FH-2型柴油机车 "wikilink")，U34CH型柴油机车亦逐步停运报废\[2\]。
 

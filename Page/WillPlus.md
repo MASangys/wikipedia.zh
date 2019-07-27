@@ -1,4 +1,4 @@
-**WillPlus**（ウィルプラス）是位於[東京都](../Page/東京都.md "wikilink")[千代田區的](../Page/千代田區.md "wikilink")[日本成人遊戲製作公司](../Page/日本成人遊戲.md "wikilink")。\[1\]WillPlus的前身是Will有限公司（ウィル）位於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市的福岡開發室](../Page/名古屋市.md "wikilink")。2010年8月Will公司解散，原公司成員於10月建立WillPlus並繼續維持品牌的經營，少數由Asgard有限公司繼承。
+**WillPlus**（ウィルプラス）是位於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")製作公司。\[1\]WillPlus的前身是Will有限公司（ウィル）位於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")的福岡開發室。2010年8月Will公司解散，原公司成員於10月建立WillPlus並繼續維持品牌的經營，少數由Asgard有限公司繼承。
 
 ## 歷史
 
@@ -373,7 +373,7 @@
   - 2003年7月18日 - 七巴の剣 くのいち淫の章
   - 2003年8月8日 - Love Sprit 〜5番目の季節〜
   - 2003年9月5日 - 海からくるもの
-  - 2003年12月19日 - [美竹涼子の人妻麻雀](../Page/美竹涼子.md "wikilink")\[5\]
+  - 2003年12月19日 - [美竹涼子](../Page/美竹涼子.md "wikilink")の人妻麻雀\[5\]
 
 <!-- end list -->
 

@@ -1,4 +1,4 @@
-**UHome**是[香港一間已經結業的](../Page/香港.md "wikilink")[網頁寄存公司](https://zh.wikipedia.org/wiki/網頁寄存 "wikilink")，它於1999年8月1日創立，曾經是香港最著名的免費[網頁寄存公司之一](https://zh.wikipedia.org/wiki/網頁寄存 "wikilink")，它的免費會員人數曾多達七萬，部份會員網站直至2003年都是一直在香港十大流量網站之內，uhome於2006年結業。
+**UHome**是[香港](../Page/香港.md "wikilink")一間已經結業的[網頁寄存公司](https://zh.wikipedia.org/wiki/網頁寄存 "wikilink")，它於1999年8月1日創立，曾經是香港最著名的免費[網頁寄存公司之一](https://zh.wikipedia.org/wiki/網頁寄存 "wikilink")，它的免費會員人數曾多達七萬，部份會員網站直至2003年都是一直在香港十大流量網站之內，uhome於2006年結業。
 
 Uhome在2001年建立的進階會員及星級會員制度曾經吸引不少網站加盟，UGameAsia和[AK
 Zone等均曾經是它旗下的網站](https://zh.wikipedia.org/wiki/AK_Zone "wikilink")。之後推出的「smart
@@ -16,14 +16,14 @@ UHome採取一人一戶口政策以防止網頁寄存服務被濫用，每位會
   - [副域名](https://zh.wikipedia.org/wiki/副域名 "wikilink")（yourname.uhome.net）
   - 免費電郵轉寄
   - 可自行設計錯誤頁面
-  - 會員必須為[香港居民](../Page/香港.md "wikilink")
+  - 會員必須為[香港](../Page/香港.md "wikilink")居民
 
 ### 進階會員
 
 普通會員所享有的服務加上：
 
   - 100MB免費[網頁寄存空間](https://zh.wikipedia.org/wiki/網頁寄存 "wikilink")（可放最多8000個檔案）
-  - [MySQL資料庫伺服器支援](../Page/MySQL.md "wikilink")
+  - [MySQL](../Page/MySQL.md "wikilink")資料庫伺服器支援
   - 進階會員共享的專用伺服器
   - 需先獲UHome業務發展總監邀請
 

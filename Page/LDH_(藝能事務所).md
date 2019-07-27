@@ -1,5 +1,5 @@
 **株式會社LDH JAPAN**（*LDH JAPAN
-Inc.*）是[日本的](../Page/日本.md "wikilink")[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀及綜合](../Page/經紀公司.md "wikilink")[娛樂公司](../Page/娛樂.md "wikilink")，於2002年10月17日由[放浪兄弟](../Page/放浪兄弟.md "wikilink")（EXILE）的6名初期成員出資成立。公司名稱是其成立宗旨「**<u>L</u>**ove,
+Inc.*）是[日本](../Page/日本.md "wikilink")的[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀及綜合](../Page/經紀公司.md "wikilink")[娛樂](../Page/娛樂.md "wikilink")公司，於2002年10月17日由[放浪兄弟](../Page/放浪兄弟.md "wikilink")（EXILE）的6名初期成員出資成立。公司名稱是其成立宗旨「**<u>L</u>**ove,
 **<u>D</u>**ream,
 **<u>H</u>**appiness」的縮寫。旗下擁有[放浪一族](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")（EXILE
 TRIBE）、[E.G.family等眾多](https://zh.wikipedia.org/wiki/#E.G.family "wikilink")[歌舞系的藝人及音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
@@ -260,4 +260,4 @@ EUROPE」、及總括所有的「LDH WORLD」\[2\]。
 4.
 5.
 6.  [Takara Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")
-    、[Ciao](../Page/Ciao.md "wikilink")、[Pucchigumi共同合辦](../Page/Pucchigumi.md "wikilink")。
+    、[Ciao](../Page/Ciao.md "wikilink")、[Pucchigumi](../Page/Pucchigumi.md "wikilink")共同合辦。

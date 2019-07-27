@@ -1,5 +1,5 @@
 「**Lotta Love Lotta
-Love**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!的第](../Page/Buono!.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年11月12日發售\[1\]\[2\]\[3\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+Love**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年11月12日發售\[1\]\[2\]\[3\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 

@@ -1,4 +1,4 @@
-《**24karats TRIBE OF GOLD**》為[日本團體](../Page/日本.md "wikilink")[EXILE
+《**24karats TRIBE OF GOLD**》為[日本](../Page/日本.md "wikilink")團體[EXILE
 TRIBE於](../Page/EXILE_TRIBE.md "wikilink")2012年9月5日發行的首張單曲。
 
 ## 簡介
@@ -6,12 +6,12 @@ TRIBE於](../Page/EXILE_TRIBE.md "wikilink")2012年9月5日發行的首張單曲
   - 以EXILE
     TRIBE的名義所發行的首張作品，且與[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[三代目J
     Soul Brothers合作](../Page/J_Soul_Brothers.md "wikilink")。
-  - 標題曲為EXILE成員[AKIRA主演的](../Page/AKIRA.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")・[富士電視台連續劇](../Page/富士電視台.md "wikilink")《[GTO](../Page/GTO_\(2012年电视剧\).md "wikilink")》的主題曲，為〈[24karats](https://zh.wikipedia.org/wiki/時光碎片/24karats_-type_EX- "wikilink")〉〈[24karats
+  - 標題曲為EXILE成員[AKIRA](../Page/AKIRA.md "wikilink")主演的[關西電視台](../Page/關西電視台.md "wikilink")・[富士電視台](../Page/富士電視台.md "wikilink")連續劇《[GTO](../Page/GTO_\(2012年电视剧\).md "wikilink")》的主題曲，為〈[24karats](https://zh.wikipedia.org/wiki/時光碎片/24karats_-type_EX- "wikilink")〉〈[24karats
     STAY GOLD](../Page/FANTASY_\(EXILE單曲\).md "wikilink")〉以來的系列集大成。
   - MC由嘻哈團體[DOBERMAN
     INC擔](https://zh.wikipedia.org/wiki/DOBERMAN_INC "wikilink")。
   - 2012年9月17日的周榜獲得第2名。
-  - 8月21日的[RecoChoku榜的](../Page/RecoChoku.md "wikilink")「全曲下載(R)」「來電答鈴(R)」「音樂影片」「來電影片」「旋律鈴聲」「電視/CM/電影・全曲」這6部門皆獲得冠軍\[1\]。
+  - 8月21日的[RecoChoku](../Page/RecoChoku.md "wikilink")榜的「全曲下載(R)」「來電答鈴(R)」「音樂影片」「來電影片」「旋律鈴聲」「電視/CM/電影・全曲」這6部門皆獲得冠軍\[1\]。
 
 ## 發行版本
 
@@ -48,7 +48,7 @@ TRIBE於](../Page/EXILE_TRIBE.md "wikilink")2012年9月5日發行的首張單曲
         作詞：[STY](https://zh.wikipedia.org/wiki/STY "wikilink"), P-CHO,
         GS, KUBO-C, Tomogen / 作曲：STY
     <!-- end list -->
-      - [關西電視台](../Page/關西電視台.md "wikilink")・[富士電視台連續劇](../Page/富士電視台.md "wikilink")《[GTO](../Page/GTO_\(2012年电视剧\).md "wikilink")》的主題曲。
+      - [關西電視台](../Page/關西電視台.md "wikilink")・[富士電視台](../Page/富士電視台.md "wikilink")連續劇《[GTO](../Page/GTO_\(2012年电视剧\).md "wikilink")》的主題曲。
       - 歌詞中出現了EXILE、二代目J Soul Brothers、三代目J Soul Brothers的歌曲名稱。
           - 「[FREAKOUT\!](../Page/FREAKOUT!.md "wikilink")」（二代目J Soul
             Brothers）

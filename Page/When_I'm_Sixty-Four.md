@@ -15,7 +15,7 @@ Sixty-Four**》是一首[英國樂隊](https://zh.wikipedia.org/wiki/英國 "wik
 
 此歌錄於1966年12月6日，是專輯中最早期錄製的歌曲之一。此歌又運用了多重配音，Paul在12月8日錄音，在12月20日錄音。單簧管樂曲錄於12月21日。
 
-此歌是[降D大調](https://zh.wikipedia.org/wiki/降D大調 "wikilink")，原本錄音時是使用[C大調的](../Page/C大調.md "wikilink")，但Paul堅持要將錄好的歌曲加快及變調。這是因為他希望他的聲音顯得較年輕。
+此歌是[降D大調](https://zh.wikipedia.org/wiki/降D大調 "wikilink")，原本錄音時是使用[C大調](../Page/C大調.md "wikilink")的，但Paul堅持要將錄好的歌曲加快及變調。這是因為他希望他的聲音顯得較年輕。
 
 ## 參與人物
 
@@ -28,7 +28,7 @@ Sixty-Four**》是一首[英國樂隊](https://zh.wikipedia.org/wiki/英國 "wik
 ## 軼事
 
   - Paul的孩子們在[艾比路錄音室中翻唱了此歌以慶祝他的](https://zh.wikipedia.org/wiki/艾比路錄音室 "wikilink")64歲生日，他們亦在生日會中即場為他唱了這歌。可惜的是，不久後他和第二任妻子希瑟·米斯離婚了。
-  - 在2007年的喜劇[永不止步：戴維·寇克斯的故事中](../Page/永不止步：戴維·寇克斯的故事.md "wikilink")，[傑克·布萊克飾演的Paul和](../Page/傑克·布萊克.md "wikilink")[保羅·路德飾演的John吵架](../Page/保羅·路德.md "wikilink")，當中John說：我很好奇64歲時你的歌是否仍然這麼垃圾。
+  - 在2007年的喜劇[永不止步：戴維·寇克斯的故事](../Page/永不止步：戴維·寇克斯的故事.md "wikilink")中，[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")飾演的Paul和[保羅·路德](../Page/保羅·路德.md "wikilink")飾演的John吵架，當中John說：我很好奇64歲時你的歌是否仍然這麼垃圾。
 
 ## 腳註
 

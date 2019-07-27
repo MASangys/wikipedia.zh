@@ -1,4 +1,4 @@
-《**魔王女孩與村民A**》（）是[ゆうきりん撰寫](https://zh.wikipedia.org/wiki/ゆうきりん "wikilink")，[赤人繪製插畫的日本](https://zh.wikipedia.org/wiki/赤人 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")。日文版由[電擊文庫出版發行](../Page/電擊文庫.md "wikilink")，繁體中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")；简体中文版预定由[天闻角川代理發行](../Page/天闻角川.md "wikilink")，[湖南美术出版社出版](../Page/湖南美术出版社.md "wikilink")。
+《**魔王女孩與村民A**》（）是[ゆうきりん撰寫](https://zh.wikipedia.org/wiki/ゆうきりん "wikilink")，[赤人繪製插畫的日本](https://zh.wikipedia.org/wiki/赤人 "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")出版發行，繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理發行；简体中文版预定由[天闻角川](../Page/天闻角川.md "wikilink")代理發行，[湖南美术出版社](../Page/湖南美术出版社.md "wikilink")出版。
 
 ## 故事簡介
 
@@ -29,7 +29,7 @@
   -
     第一卷登場。
     擁有「[死靈法師](https://zh.wikipedia.org/wiki/死靈法師 "wikilink")」個性的女高中生，個性沉穩，「魔王」的好朋友。
-    身為死靈法師卻有個致命缺點，不敢接觸死屍，後因「魔王」的推薦向次郎詢問該如何是好，從對話中領悟平常跟[屍體有關的工作來](../Page/屍體.md "wikilink")[打工](https://zh.wikipedia.org/wiki/打工 "wikilink")，進而到龍之峰集團下的漁店打工。
+    身為死靈法師卻有個致命缺點，不敢接觸死屍，後因「魔王」的推薦向次郎詢問該如何是好，從對話中領悟平常跟[屍體](../Page/屍體.md "wikilink")有關的工作來[打工](https://zh.wikipedia.org/wiki/打工 "wikilink")，進而到龍之峰集團下的漁店打工。
     因某次事件而收養三隻黑貓分別名為「黑、闇、炭」，要把他們培育為「出色的屍體」。
   -
     第二卷登場
@@ -177,7 +177,7 @@
 
 ## 漫畫版
 
-本作於[電擊魔王自](../Page/電擊魔王.md "wikilink")2012年4月號開始連載漫畫\[3\]，由[tsucaco負責作畫](https://zh.wikipedia.org/wiki/tsucaco "wikilink")。單行本全5卷。
+本作於[電擊魔王](../Page/電擊魔王.md "wikilink")自2012年4月號開始連載漫畫\[3\]，由[tsucaco負責作畫](https://zh.wikipedia.org/wiki/tsucaco "wikilink")。單行本全5卷。
 
 <table>
 <thead>

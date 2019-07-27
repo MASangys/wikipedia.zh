@@ -1,10 +1,10 @@
-《**PMAM之慾望俱樂部**》是2015年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台迷你偶像劇](../Page/中天綜合台.md "wikilink")，中國大陸名為《**勁舞青春**》。本劇由[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")，接檔《[美好偵探社](https://zh.wikipedia.org/wiki/美好偵探社 "wikilink")》登入[樂視網](https://zh.wikipedia.org/wiki/樂視網 "wikilink")《樂視午間自製劇場》。由[陳彥銘](../Page/陳彥銘_\(製作人\).md "wikilink")（B2）執導，[謝祖武](../Page/謝祖武.md "wikilink")、[林采缇](https://zh.wikipedia.org/wiki/林采缇 "wikilink")、[梁正群](../Page/梁正群.md "wikilink")、[夏語心](../Page/夏語心.md "wikilink")、[舒子晨](../Page/舒子晨.md "wikilink")、[唐可玄](https://zh.wikipedia.org/wiki/唐可玄 "wikilink")、[小-{杰}-](https://zh.wikipedia.org/wiki/廖允杰 "wikilink")、[Kimi](https://zh.wikipedia.org/wiki/陳郁君 "wikilink")、[張兆志](../Page/張兆志.md "wikilink")、[大飛等主演](https://zh.wikipedia.org/wiki/大飛 "wikilink")。本劇於2015年2月17日在樂視網播出。
+《**PMAM之慾望俱樂部**》是2015年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")迷你偶像劇，中國大陸名為《**勁舞青春**》。本劇由[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")，接檔《[美好偵探社](https://zh.wikipedia.org/wiki/美好偵探社 "wikilink")》登入[樂視網](https://zh.wikipedia.org/wiki/樂視網 "wikilink")《樂視午間自製劇場》。由[陳彥銘](../Page/陳彥銘_\(製作人\).md "wikilink")（B2）執導，[謝祖武](../Page/謝祖武.md "wikilink")、[林采缇](https://zh.wikipedia.org/wiki/林采缇 "wikilink")、[梁正群](../Page/梁正群.md "wikilink")、[夏語心](../Page/夏語心.md "wikilink")、[舒子晨](../Page/舒子晨.md "wikilink")、[唐可玄](https://zh.wikipedia.org/wiki/唐可玄 "wikilink")、[小-{杰}-](https://zh.wikipedia.org/wiki/廖允杰 "wikilink")、[Kimi](https://zh.wikipedia.org/wiki/陳郁君 "wikilink")、[張兆志](../Page/張兆志.md "wikilink")、[大飛等主演](https://zh.wikipedia.org/wiki/大飛 "wikilink")。本劇於2015年2月17日在樂視網播出。
 
-《慾望俱樂部》故事延續[夜店主題](https://zh.wikipedia.org/wiki/夜店 "wikilink")，為[PMAM系列第三季](../Page/PMAM.md "wikilink")，主要是在描速來自三個來自不同生活背景的女孩，為了各自不同的目標而加入了夜店舞蹈團體，成為“Pa
+《慾望俱樂部》故事延續[夜店主題](https://zh.wikipedia.org/wiki/夜店 "wikilink")，為[PMAM](../Page/PMAM.md "wikilink")系列第三季，主要是在描速來自三個來自不同生活背景的女孩，為了各自不同的目標而加入了夜店舞蹈團體，成為“Pa
 Pa
 Girls”的成員之一。當她們在夜店碰到兩個事業有成的[富二代蔣至中和林大樹](https://zh.wikipedia.org/wiki/富二代 "wikilink")，這五個男男女女的相遇，五種不同的慾望相互碰撞，必將有人在慾望中勝利、有人在慾望中犧牲。
 
-《慾望俱樂部》首次採用了[4K解析度拍攝](../Page/4K解析度.md "wikilink")。而為了更真實的演繹舞孃的生活和舞技，導演找來台北最火夜店舞孃團，為三個主演進行一對一的舞蹈培訓，精彩畫面可媲美電影《[舞出我人生](https://zh.wikipedia.org/wiki/舞出我人生 "wikilink")》。
+《慾望俱樂部》首次採用了[4K解析度](../Page/4K解析度.md "wikilink")拍攝。而為了更真實的演繹舞孃的生活和舞技，導演找來台北最火夜店舞孃團，為三個主演進行一對一的舞蹈培訓，精彩畫面可媲美電影《[舞出我人生](https://zh.wikipedia.org/wiki/舞出我人生 "wikilink")》。
 
 ## 播出時間
 

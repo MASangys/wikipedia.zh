@@ -1,14 +1,14 @@
-《**Jumping**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[大國男兒的第五張日語單曲](../Page/大國男兒.md "wikilink")，由作曲，[H.U.B填詞](../Page/H.U.B.md "wikilink")，並在2012年3月28日由[日本索尼音樂娛樂以三個不同版本推出](../Page/日本索尼音樂娛樂.md "wikilink")。
+《**Jumping**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[大國男兒](../Page/大國男兒.md "wikilink")的第五張日語單曲，由作曲，[H.U.B](../Page/H.U.B.md "wikilink")填詞，並在2012年3月28日由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")以三個不同版本推出。
 
 ## 背景
 
-在一系列以「Love」開首的歌曲之後，大國男兒在將發行的《Jumping》踏上了「第二階段」：更成熟的形象與能呈現歌曲感覺的影像。新單曲中，同名主打《Jumping》被視為擁有醇厚、輕搖滾風和舞曲感覺的歌曲。2012年3月7日，《Jumping》率先可以下載為電話鈴聲；至3月21日整張單曲也可以在網路上下載\[1\]。歌曲的音樂錄影帶也在日本索尼音樂娛樂的[YouTube頻道推出](../Page/YouTube.md "wikilink")，但只限日本民眾觀賞\[2\]。
+在一系列以「Love」開首的歌曲之後，大國男兒在將發行的《Jumping》踏上了「第二階段」：更成熟的形象與能呈現歌曲感覺的影像。新單曲中，同名主打《Jumping》被視為擁有醇厚、輕搖滾風和舞曲感覺的歌曲。2012年3月7日，《Jumping》率先可以下載為電話鈴聲；至3月21日整張單曲也可以在網路上下載\[1\]。歌曲的音樂錄影帶也在日本索尼音樂娛樂的[YouTube](../Page/YouTube.md "wikilink")頻道推出，但只限日本民眾觀賞\[2\]。
 
 ### 發行版本
 
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本。
 
-  - 初回生產限定盤A：這版本包括了一片單曲CD、一片收錄《Jumping》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[3\]。
+  - 初回生產限定盤A：這版本包括了一片單曲CD、一片收錄《Jumping》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[3\]。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon榜單</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>榜單<br />
 （2011）</p></th>
 <th><p>最高位置</p></th>
 <th><p>銷售量</p></th>

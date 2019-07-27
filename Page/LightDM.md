@@ -7,11 +7,11 @@ LightDM包含了以下這些特性：
   - 減少外部依賴的代碼庫
   - 符合PAM、ConsoleKit等標準
   - 在顯示伺服器及使用者介面間有良好的定義
-  - 跨桌面環境（可以用任何[部件工具箱編寫](../Page/部件工具箱.md "wikilink")）
+  - 跨桌面環境（可以用任何[部件工具箱](../Page/部件工具箱.md "wikilink")編寫）
   - 可在多種[圖形使用者介面下使用的良好定義](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")
   - 在適當的情況及有適合的外掛的情況下，支援所有的顯示管理器
 
-LightDM提供了至少與[GNOME顯示管理器一樣的功能](https://zh.wikipedia.org/wiki/GNOME顯示管理器 "wikilink")，但它卻有一個更簡單的代碼庫，並且在運行時不需載入任何[GNOME的](../Page/GNOME.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")\[4\]。LightDM是自[Ubuntu](../Page/Ubuntu.md "wikilink")11.10釋出後，[Ubuntu](../Page/Ubuntu.md "wikilink")、[Edubuntu](../Page/Edubuntu.md "wikilink")、[Xubuntu以及](../Page/Xubuntu.md "wikilink")[Mythbuntu的預設顯示管理器](https://zh.wikipedia.org/wiki/Mythbuntu "wikilink")\[5\]\[6\]，而[Lubuntu則是在](../Page/Lubuntu.md "wikilink")12.04釋出後才將LightDM作為預設顯示管理器\[7\]，[Kubuntu則是從](../Page/Kubuntu.md "wikilink")12.10才將LightDM作為預設顯示管理器\[8\]。
+LightDM提供了至少與[GNOME顯示管理器一樣的功能](https://zh.wikipedia.org/wiki/GNOME顯示管理器 "wikilink")，但它卻有一個更簡單的代碼庫，並且在運行時不需載入任何[GNOME](../Page/GNOME.md "wikilink")的[函式庫](../Page/函式庫.md "wikilink")\[4\]。LightDM是自[Ubuntu](../Page/Ubuntu.md "wikilink")11.10釋出後，[Ubuntu](../Page/Ubuntu.md "wikilink")、[Edubuntu](../Page/Edubuntu.md "wikilink")、[Xubuntu](../Page/Xubuntu.md "wikilink")以及[Mythbuntu的預設顯示管理器](https://zh.wikipedia.org/wiki/Mythbuntu "wikilink")\[5\]\[6\]，而[Lubuntu](../Page/Lubuntu.md "wikilink")則是在12.04釋出後才將LightDM作為預設顯示管理器\[7\]，[Kubuntu](../Page/Kubuntu.md "wikilink")則是從12.10才將LightDM作為預設顯示管理器\[8\]。
 
 ### 可用的*Greeters*
 

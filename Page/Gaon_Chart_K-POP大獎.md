@@ -533,8 +533,8 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 | 6  | 2016年 | [水晶男孩](../Page/水晶男孩.md "wikilink")                      | 團體                                       |
 | 4  | 2014年 | [申海澈](../Page/申海澈.md "wikilink")                        | 歌手                                       |
 | 3  | 2013年 | [趙容弼](https://zh.wikipedia.org/wiki/趙容弼 "wikilink")     | 歌手                                       |
-| 2  | 2012年 | 洪勝成                                                     | [Cube娛樂代表](../Page/Cube娛樂.md "wikilink") |
-| 1  | 2011年 | [李秀滿](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")     | [SM娛樂社長](../Page/SM娛樂.md "wikilink")     |
+| 2  | 2012年 | 洪勝成                                                     | [Cube娛樂](../Page/Cube娛樂.md "wikilink")代表 |
+| 1  | 2011年 | [李秀滿](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")     | [SM娛樂](../Page/SM娛樂.md "wikilink")社長     |
 
 ### 韓流特別獎
 
@@ -552,7 +552,7 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 | 4  | 2014年 | [KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")           | K-POP世界韓流明星獎                              |
 | 3  | 2013年 | [2NE1](../Page/2NE1.md "wikilink")                              | K-POP世界韓流明星獎                              |
 | 2  | 2012年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                          | 年度韓流特別獎                                   |
-| 1  | 2011年 | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")           | [Oricon特別獎](../Page/Oricon.md "wikilink") |
+| 1  | 2011年 | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")           | [Oricon](../Page/Oricon.md "wikilink")特別獎 |
 
 ### 流行歌手獎
 

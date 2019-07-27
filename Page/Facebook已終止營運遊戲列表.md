@@ -1,8 +1,8 @@
-**Facebook已終止營運遊戲列表**，是列出[Facebook中已終止營運的遊戲的](../Page/Facebook.md "wikilink")[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")，該等遊戲已不能於Facebook登入、遊玩或使用。
+**Facebook已終止營運遊戲列表**，是列出[Facebook](../Page/Facebook.md "wikilink")中已終止營運的遊戲的[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")，該等遊戲已不能於Facebook登入、遊玩或使用。
 
 ## 列表說明
 
-本表以[英文字母排列以英文作官方名命的遊戲](../Page/英文字母.md "wikilink")，中文作官方名命的遊戲則以中文筆順排列。
+本表以[英文字母](../Page/英文字母.md "wikilink")排列以英文作官方名命的遊戲，中文作官方名命的遊戲則以中文筆順排列。
 
 ## 已終止營運的英文作官方命名的遊戲
 

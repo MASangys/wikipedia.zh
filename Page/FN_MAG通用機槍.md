@@ -1,10 +1,10 @@
 **FN MAG**（\[1\]，意為：通用機槍；經常被稱為FN
-MAG-58）是一挺由[比利时槍械製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）槍械設計師[歐內斯特·費爾菲](https://zh.wikipedia.org/wiki/歐內斯特·費爾菲 "wikilink")（Ernest
-Vervier）於1950年代初期研製及同年代後期生產的一種[彈鏈供彈及](../Page/彈鏈.md "wikilink")[氣動式操作的輕重兩用](../Page/氣動式_\(槍械\).md "wikilink")[中型](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+MAG-58）是一挺由[比利时](../Page/比利时.md "wikilink")槍械製造商[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）槍械設計師[歐內斯特·費爾菲](https://zh.wikipedia.org/wiki/歐內斯特·費爾菲 "wikilink")（Ernest
+Vervier）於1950年代初期研製及同年代後期生產的一種[彈鏈](../Page/彈鏈.md "wikilink")供彈及[氣動式操作的輕重兩用](../Page/氣動式_\(槍械\).md "wikilink")[中型](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-它已經被超過80個國家和地區所採用，其中包括比利時、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[澳大利亚](../Page/澳大利亚.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[美国](../Page/美国.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")；而且有多個國家在取得特許生產證以後合法生產，如[阿根廷](../Page/阿根廷.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[印度](../Page/印度.md "wikilink")、[新加坡和英国](../Page/新加坡.md "wikilink")。\[2\]FN
+它已經被超過80個國家和地區所採用，其中包括比利時、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[澳大利亚](../Page/澳大利亚.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[美国](../Page/美国.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")；而且有多個國家在取得特許生產證以後合法生產，如[阿根廷](../Page/阿根廷.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[印度](../Page/印度.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")和英国。\[2\]FN
 MAG具有三種主要版本可供選擇：標準型，步兵機槍型號**MAG Model
-60-20**，[裝甲戰鬥車輛的](../Page/裝甲戰鬥車輛.md "wikilink")[同軸機槍衍生型號](../Page/同軸武器.md "wikilink")**MAG
+60-20**，[裝甲戰鬥車輛](../Page/裝甲戰鬥車輛.md "wikilink")的[同軸機槍衍生型號](../Page/同軸武器.md "wikilink")**MAG
 Model 60-40**和飛機的航空機槍衍生型號**MAG Model 60-30**。FN
 MAG與[俄罗斯](../Page/俄罗斯.md "wikilink")[PK系列一樣是目前世界上最流行](../Page/PK通用機槍.md "wikilink")​​的通用機槍之一，並於全球各地的武裝衝突中被廣泛使用。
 
@@ -18,15 +18,15 @@ MAG。
 [British_L7A2_Machine_Gun.JPEG](https://zh.wikipedia.org/wiki/File:British_L7A2_Machine_Gun.JPEG "fig:British_L7A2_Machine_Gun.JPEG")使用英國的MAG版本[L7A2射擊](../Page/L7通用機槍.md "wikilink")。\]\]
 [Paris_Air_Show_2007-06-24_n24.jpg](https://zh.wikipedia.org/wiki/File:Paris_Air_Show_2007-06-24_n24.jpg "fig:Paris_Air_Show_2007-06-24_n24.jpg")上舉行的[国际航空航天展上](../Page/巴黎国际航空航天展.md "wikilink")，裝在[直升機上的FN](https://zh.wikipedia.org/wiki/直升機 "wikilink")
 MAG[空用機槍型態](../Page/空用槍械.md "wikilink")。\]\] FN MAG Model
-60-20是一挺全自動、氣冷、[氣動式操作的通用機槍](../Page/氣動式_\(槍械\).md "wikilink")，以[開放式槍栓發射](../Page/開放式槍栓.md "wikilink")[彈鏈供彈的](../Page/彈鏈.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+60-20是一挺全自動、氣冷、[氣動式操作的通用機槍](../Page/氣動式_\(槍械\).md "wikilink")，以[開放式槍栓](../Page/開放式槍栓.md "wikilink")發射[彈鏈](../Page/彈鏈.md "wikilink")供彈的[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ### 操作機構
 
 FN
-MAG的[機匣結構與白朗寧機槍相似](https://zh.wikipedia.org/wiki/機匣 "wikilink")，為長方形沖鉚件機匣，強度較好，而且機匣內部、表面均採用表面鍍鉻處理。一般機匣壽命可達70,000發，保養維護良好的話更可以超過90,000發。機匣前後兩端經過加強，分別容納槍管節套、活塞筒、[槍托和緩衝器](../Page/槍托.md "wikilink")。機匣內側有縱嚮導軌用以支撐及引​​導槍機組件的往復運動。在機匣導軌的限制以下，槍機在復進到位時，閉鎖桿向下擺動，閉鎖支承面位於機匣底部；當閉鎖完成時，閉鎖桿抵在閉鎖支承面上。導槽位於機匣右側，拋殼口位於機匣底部。
+MAG的[機匣結構與白朗寧機槍相似](https://zh.wikipedia.org/wiki/機匣 "wikilink")，為長方形沖鉚件機匣，強度較好，而且機匣內部、表面均採用表面鍍鉻處理。一般機匣壽命可達70,000發，保養維護良好的話更可以超過90,000發。機匣前後兩端經過加強，分別容納槍管節套、活塞筒、[槍托](../Page/槍托.md "wikilink")和緩衝器。機匣內側有縱嚮導軌用以支撐及引​​導槍機組件的往復運動。在機匣導軌的限制以下，槍機在復進到位時，閉鎖桿向下擺動，閉鎖支承面位於機匣底部；當閉鎖完成時，閉鎖桿抵在閉鎖支承面上。導槽位於機匣右側，拋殼口位於機匣底部。
 [Gas_OPR.gif](https://zh.wikipedia.org/wiki/File:Gas_OPR.gif "fig:Gas_OPR.gif")
 FN
-MAG使用點燃的火藥氣體，通過在槍管上的一個氣導孔導流，推動導氣活塞連桿連接到其閉鎖組件（它採用了[長行程活塞傳動系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")）。槍管與垂直傾斜的閉鎖桿起落式閉鎖機構，通過一個鉸接式接頭以連接到槍機機框以實現閉鎖。引導閉鎖桿的閉鎖肩部和凸輪表面，位於機匣的基座上。MAG採用了一系列從其他成功槍械的成熟設計理念，例如閉鎖機構是以美國M1918[白朗寧自動步槍](../Page/白朗寧自動步槍.md "wikilink")（BAR）為藍本，只是閉鎖桿起落式閉鎖機構的閉鎖部位有所改動；而彈鏈供彈機構中的雙程供彈裝置和扳機機構是從二戰時期的德國[MG42通用機槍改進而成](../Page/MG42通用機槍.md "wikilink")。
+MAG使用點燃的火藥氣體，通過在槍管上的一個氣導孔導流，推動導氣活塞連桿連接到其閉鎖組件（它採用了[長行程活塞傳動系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")）。槍管與垂直傾斜的閉鎖桿起落式閉鎖機構，通過一個鉸接式接頭以連接到槍機機框以實現閉鎖。引導閉鎖桿的閉鎖肩部和凸輪表面，位於機匣的基座上。MAG採用了一系列從其他成功槍械的成熟設計理念，例如閉鎖機構是以美國M1918[白朗寧自動步槍](../Page/白朗寧自動步槍.md "wikilink")（BAR）為藍本，只是閉鎖桿起落式閉鎖機構的閉鎖部位有所改動；而彈鏈供彈機構中的雙程供彈裝置和扳機機構是從二戰時期的德國[MG42通用機槍](../Page/MG42通用機槍.md "wikilink")改進而成。
 
 FN MAG採用[開放式槍栓](../Page/開放式槍栓.md "wikilink")（Open
 bolt）射擊。無論是彈簧為動力的和拋殼頂桿都包含在槍機裡。在發射後，發射過的彈殼會從機匣基座上的拋殼口（使用MG42型彈簧定位式拋殼口覆蓋整個拋殼口）拋出槍外。機槍具有[擊針發射機構](../Page/撞針.md "wikilink")（槍機機框充當了擊針，因為它包含了容納擊針的擊針孔，固定於擊鐵上，沒有擊針簧，發射時從槍機的表面上突出），一個沒有半自動模式的純全自動模式扳機組件，和位於上方的交叉螺栓型按鈕式手動保險卡筍。手動保險卡筍的外表是一根橫推式頂桿。把手動保險從槍的左邊推向右邊，保險卡筍的右側露出字母“S（保險）”時，它置於[阻鐵頭下方並將擊發阻鐵機構其鎖上](https://zh.wikipedia.org/wiki/阻鐵 "wikilink")，阻止阻鐵頭下落而不能射擊；所以其保險只能防止阻鐵扳起來。把手動保險從右邊推向左邊，保險卡筍左側露出字母“F（射擊）”時，其缺口面朝上而不會影響阻鐵的運動。
@@ -44,23 +44,23 @@ MAG的[機匣蓋](https://zh.wikipedia.org/wiki/機匣 "wikilink")（供彈器�
 MAG的[機匣蓋](../Page/机匣.md "wikilink")（供彈器蓋），這樣武器就完成射擊準備的操作。以及解開保險便可發射。
 
 FN
-MAG是以[開放式槍栓進行射擊](../Page/開放式槍栓.md "wikilink")，這意味著槍機和相關工作部件向後拉動機柄裝彈以後到在準備開火時都被卡在後方位置並打開槍機部份，直到扣動[扳機後槍機才被放開前進](https://zh.wikipedia.org/wiki/扳機 "wikilink")，將子彈由供彈機內部的彈鏈中推進[膛室內並且將子彈發射出去](../Page/膛室.md "wikilink")。靜止的[撞針會隨著](../Page/撞針.md "wikilink")[槍機而移動並且繞過](https://zh.wikipedia.org/wiki/槍機 "wikilink")[擊錘](https://zh.wikipedia.org/wiki/擊錘 "wikilink")。一塊阻鐵用來控制武器的內部機構，穩定了發射速率的一致性，以確保適當的功能性和[準確性](../Page/準確與精密.md "wikilink")。然而，FN
+MAG是以[開放式槍栓](../Page/開放式槍栓.md "wikilink")進行射擊，這意味著槍機和相關工作部件向後拉動機柄裝彈以後到在準備開火時都被卡在後方位置並打開槍機部份，直到扣動[扳機後槍機才被放開前進](https://zh.wikipedia.org/wiki/扳機 "wikilink")，將子彈由供彈機內部的彈鏈中推進[膛室](../Page/膛室.md "wikilink")內並且將子彈發射出去。靜止的[撞針](../Page/撞針.md "wikilink")會隨著[槍機而移動並且繞過](https://zh.wikipedia.org/wiki/槍機 "wikilink")[擊錘](https://zh.wikipedia.org/wiki/擊錘 "wikilink")。一塊阻鐵用來控制武器的內部機構，穩定了發射速率的一致性，以確保適當的功能性和[準確性](../Page/準確與精密.md "wikilink")。然而，FN
 MAG使用開放式槍栓的缺點是亦有可能由於槍機覆蓋，因而做成了增加其走火的可能性。發生這種情況的時候足以迫使槍機越過阻鐵的控制並且在沒有扣下[扳機以下連續發射而且不能停止](https://zh.wikipedia.org/wiki/扳機 "wikilink")。即使是FN
 MAG所設置的保險裝置亦不能阻止這種情況的發生。
 
 ### 槍管
 
 FN
-MAG採用氣冷式快速更換式槍管，槍管長度為630毫米（24.8英吋），具有裝在槍口、形狀類似於[M14戰鬥步槍的](../Page/M14自动步枪.md "wikilink")以及同時連接到槍管上的[準星座](../Page/照準器.md "wikilink")、提把和氣體調節器，槍管重量為3.05公斤（6.72磅）。\[3\]槍管膛室和內膛均採用表面鍍鉻處理，[槍管標準](../Page/槍管.md "wikilink")[膛線](../Page/膛線.md "wikilink")[纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：12，膛線（與陰膛）4條，右旋。用螺紋固定於槍管上。個別國家為他們的FN
+MAG採用氣冷式快速更換式槍管，槍管長度為630毫米（24.8英吋），具有裝在槍口、形狀類似於[M14戰鬥步槍的](../Page/M14自动步枪.md "wikilink")以及同時連接到槍管上的[準星座](../Page/照準器.md "wikilink")、提把和氣體調節器，槍管重量為3.05公斤（6.72磅）。\[3\]槍管膛室和內膛均採用表面鍍鉻處理，[槍管](../Page/槍管.md "wikilink")標準[膛線](../Page/膛線.md "wikilink")[纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：12，膛線（與陰膛）4條，右旋。用螺紋固定於槍管上。個別國家為他們的FN
 MAG增設一種加厚的重型槍管。
 
 槍管提把的套箍卡在節套凸緣上，轉動提把，即將節套固定於機匣中。轉動提把時，首先應將提把向前推，使槍管鎖扣與節套解脫。射擊時，提把會置於槍身右側以防止影響瞄準。
 
-[槍管與槍管節套是以斷隔螺紋連接的](../Page/槍管.md "wikilink")，節套外表面具有與機匣結合的斷隔螺。槍管固定栓（兼作為槍管釋放按鈕）位於武器機匣左側，其作用是防止槍管節套鬆動。
+[槍管](../Page/槍管.md "wikilink")與槍管節套是以斷隔螺紋連接的，節套外表面具有與機匣結合的斷隔螺。槍管固定栓（兼作為槍管釋放按鈕）位於武器機匣左側，其作用是防止槍管節套鬆動。
 
 拆卸槍管時，首先武器退彈完成，然後將機匣處於直立狀態，用手按壓住其槍管固定栓銷，以後便可把提把從右側向左轉動至中間垂直位置，使槍管鎖扣與機匣節套的凸緣解脫。然後槍管固定栓被釋放以下，利用提把向前推動槍管，最後向上提起槍管從機匣拉出並放置在一旁將其卸下。拆卸槍管時要求射手在擰動氣體調節器的同時以另一隻手護住氣體調節器周圍，以防開口定位卡環彈出丟失。最後還要向後推導氣箍座上的銷釘並將其取出。在裝上新槍管的時候，把新槍管插入機匣內部，同時氣體調節器套筒插入活塞筒口，然後向右轉動提把，鎖定到位。其槍管更換方法比[M60簡單快捷](../Page/M60通用機槍.md "wikilink")。
 
-在長時間的發射以後，必須小心不要讓裸露的皮膚接觸到武器。灼熱的槍管與一般狀態的槍管沒有明顯的變得不同，但卻足以在觸碰時當場造成二度[燒傷](https://zh.wikipedia.org/wiki/燒傷 "wikilink")。這些過熱的槍管在任何人使用任何對[红外线](../Page/红外线.md "wikilink")[辐射敏感的光學裝置類別](../Page/辐射.md "wikilink")（例如[夜視裝置](https://zh.wikipedia.org/wiki/夜視裝置 "wikilink")）及型號，都會發出明顯的光。
+在長時間的發射以後，必須小心不要讓裸露的皮膚接觸到武器。灼熱的槍管與一般狀態的槍管沒有明顯的變得不同，但卻足以在觸碰時當場造成二度[燒傷](https://zh.wikipedia.org/wiki/燒傷 "wikilink")。這些過熱的槍管在任何人使用任何對[红外线](../Page/红外线.md "wikilink")[辐射](../Page/辐射.md "wikilink")敏感的光學裝置類別（例如[夜視裝置](https://zh.wikipedia.org/wiki/夜視裝置 "wikilink")）及型號，都會發出明顯的光。
 
 ### 氣體調節器及改變射速
 
@@ -76,7 +76,7 @@ MAG增設或減少氣體調節器的位置和尺寸，以增加射速選擇或�
 
 ### 其他功能
 
-該機槍在氣動活塞筒的前端整合了[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，[铝製架腿可以轉動和調整高度](../Page/铝.md "wikilink")，使該槍作為[轻机枪使用時能架在高低不平的斜坡上進行射擊](../Page/轻机枪.md "wikilink")。當攜槍搬運或是作為[前護木使用時](https://zh.wikipedia.org/wiki/前護木 "wikilink")，將兩腳架向後折疊，而且利用架腿上各具有的一鉤子分別卡入機匣兩側的凹槽之中，並由滑動的彈簧式限定銷固定。當使用腰射時，保持兩腳架腿展開並且緊握住腳架左腿作為支撐。兩腳架可以從氣動活塞筒上移除，先把氣動活塞筒頭的輥銷拔出，直到它是平齊和兩腳架可以轉動到足以拆卸氣動活塞筒的固定鎖耳。兩腳架的方向射界為50
+該機槍在氣動活塞筒的前端整合了[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，[铝](../Page/铝.md "wikilink")製架腿可以轉動和調整高度，使該槍作為[轻机枪](../Page/轻机枪.md "wikilink")使用時能架在高低不平的斜坡上進行射擊。當攜槍搬運或是作為[前護木使用時](https://zh.wikipedia.org/wiki/前護木 "wikilink")，將兩腳架向後折疊，而且利用架腿上各具有的一鉤子分別卡入機匣兩側的凹槽之中，並由滑動的彈簧式限定銷固定。當使用腰射時，保持兩腳架腿展開並且緊握住腳架左腿作為支撐。兩腳架可以從氣動活塞筒上移除，先把氣動活塞筒頭的輥銷拔出，直到它是平齊和兩腳架可以轉動到足以拆卸氣動活塞筒的固定鎖耳。兩腳架的方向射界為50
 [°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")（8​​80
 [密位](https://zh.wikipedia.org/wiki/密位 "wikilink")）。
 
@@ -105,9 +105,9 @@ MAG。\]\]
 
 | 命名        | 特色描述                                                                                                                                                                                               |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MAG 60-20 | 標準的步兵型，安裝、固定[槍托和](../Page/槍托.md "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，附帶有[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")；有許多其他國家對應的次要衍生型號，包括T3（L7A1）、T6（L7A2）和M240G等。 |
+| MAG 60-20 | 標準的步兵型，安裝、固定[槍托](../Page/槍托.md "wikilink")和[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，附帶有[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")；有許多其他國家對應的次要衍生型號，包括T3（L7A1）、T6（L7A2）和M240G等。 |
 | MAG 60-30 | 固定安裝的[航空機槍型](../Page/航空机关枪.md "wikilink")，使用電磁操縱[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")；能夠，至少在某些次要衍生型號，根據安裝在飛機上或莢艙內的不同位置，從左側供彈或右側供彈。                                                     |
-| MAG 60-40 | [裝甲戰鬥車輛砲塔的](../Page/裝甲戰鬥車輛.md "wikilink")[同軸機槍](../Page/同軸武器.md "wikilink")；有許多其他國家對應的次要衍生型號，包括T3（M240）。                                                                                           |
+| MAG 60-40 | [裝甲戰鬥車輛](../Page/裝甲戰鬥車輛.md "wikilink")砲塔的[同軸機槍](../Page/同軸武器.md "wikilink")；有許多其他國家對應的次要衍生型號，包括T3（M240）。                                                                                           |
 | MAG 10-10 | 裝上短槍管及槍托的叢林型。                                                                                                                                                                                      |
 
 載具使用型MAG衍生型取消了槍托、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、提把、、拋殼口以及光學瞄準鏡接口，視乎武器部署狀況而使用標準手槍握把，延長把手組合或電動扳機。航空型FN
@@ -120,23 +120,23 @@ MAG則不設金屬瞄準具，彈鏈供彈模式可自由選擇左方或右方�
 | 型號    | 源自     | 特色描述                                                                                                                                                                                                                     |
 | ----- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | L7A1  | FN MAG | 與比利時原廠相當的[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑FN](https://zh.wikipedia.org/wiki/口徑 "wikilink") MAG 60-20 T3型機槍。                                    |
-| L7A2  | L7A1   | L7A1衍生型；FN MAG 60-20 T6型機槍；改進供彈系統，使用50發彈鏈箱，塑料[槍托及供光學瞄準器使用的支架](../Page/槍托.md "wikilink")。                                                                                                                                 |
-| L8A1  | L7A1   | L7A1衍生型；安裝於[裝甲戰鬥車輛內部使用的](../Page/裝甲戰鬥車輛.md "wikilink")[同軸機槍](../Page/同軸武器.md "wikilink")。不設槍托。槍管配備了排煙裝置。電磁操縱扳機，但仍保留傳統扳機和折疊式以供緊急使用。                                                                                       |
+| L7A2  | L7A1   | L7A1衍生型；FN MAG 60-20 T6型機槍；改進供彈系統，使用50發彈鏈箱，塑料[槍托](../Page/槍托.md "wikilink")及供光學瞄準器使用的支架。                                                                                                                                 |
+| L8A1  | L7A1   | L7A1衍生型；安裝於[裝甲戰鬥車輛](../Page/裝甲戰鬥車輛.md "wikilink")內部使用的[同軸機槍](../Page/同軸武器.md "wikilink")。不設槍托。槍管配備了排煙裝置。電磁操縱扳機，但仍保留傳統扳機和折疊式以供緊急使用。                                                                                       |
 | L8A2  | L8A1   | L8A1衍生型；改進供彈系統。                                                                                                                                                                                                          |
 | L19A1 | L7A1   | L7A1衍生型；使用額外加重槍管。                                                                                                                                                                                                        |
 | L20A1 | L7A1   | L7A1衍生型；航空機槍，搖控電動操作射擊，給[筴艙和外置式安裝接口使用](https://zh.wikipedia.org/wiki/筴艙 "wikilink")。                                                                                                                                      |
 | L20A2 | L20A1  | L20A1衍生型；改進供彈系統。                                                                                                                                                                                                         |
-| L37A1 | L8A1   | L8A1衍生型；L8A1的和L7A1的[槍管](../Page/槍管.md "wikilink")，安裝於[裝甲戰鬥車輛內部使用的](../Page/裝甲戰鬥車輛.md "wikilink")[同軸機槍](../Page/同軸武器.md "wikilink")。具有傳統型和[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，加裝套件後可將機槍拆卸供外部使用。             |
+| L37A1 | L8A1   | L8A1衍生型；L8A1的和L7A1的[槍管](../Page/槍管.md "wikilink")，安裝於[裝甲戰鬥車輛](../Page/裝甲戰鬥車輛.md "wikilink")內部使用的[同軸機槍](../Page/同軸武器.md "wikilink")。具有傳統型和[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，加裝套件後可將機槍拆卸供外部使用。             |
 | L37A2 | L37A1  | L37A1衍生型；以L8A2為基礎，其他與L37A1相同。                                                                                                                                                                                            |
 | L43A1 | L7A1   | L7A1衍生型；作為[FV101蝎子輕型坦克的](https://zh.wikipedia.org/wiki/FV101蝎子輕型坦克 "wikilink")[測距用](https://zh.wikipedia.org/wiki/測距步槍 "wikilink")[同軸機槍](../Page/同軸武器.md "wikilink")，設有，槍身結構強化以提高持續射擊時的[精度](../Page/準確與精密.md "wikilink") |
-| L44A1 | L20A1  | L20A1衍生型；被[英國皇家海軍所使用](../Page/英國皇家海軍.md "wikilink")                                                                                                                                                                      |
+| L44A1 | L20A1  | L20A1衍生型；被[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")所使用                                                                                                                                                                      |
 
 **L7**通用機槍被英國軍隊所採用。\[4\]L7和相關的L8是FN MAG的特許生產衍生型。英國陸軍的當前版本正式給予編號為L7A2
 GPMG（通用機槍）。
 
 L7在1957年的試驗以後被英軍所採用，作為長期於英軍服役的[維克斯](../Page/維克斯機槍.md "wikilink")[中型機槍](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")（中距離用途）和[布倫](../Page/布倫輕機槍.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（輕型突擊用途）的替代者。
 
-1961年，[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[皇家輕兵器廠](https://zh.wikipedia.org/wiki/皇家輕兵器廠 "wikilink")（即現在的[英國航太](../Page/英國宇航.md "wikilink")）取得MAG海外特許生產牌照，並且生產了一系列機槍型號：L7A2、L8A2、L37A2、L20A1以及L43A1。這些型號全部使用[M13彈鏈供彈](../Page/M13彈鏈.md "wikilink")。
+1961年，[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[皇家輕兵器廠](https://zh.wikipedia.org/wiki/皇家輕兵器廠 "wikilink")（即現在的[英國航太](../Page/英國宇航.md "wikilink")）取得MAG海外特許生產牌照，並且生產了一系列機槍型號：L7A2、L8A2、L37A2、L20A1以及L43A1。這些型號全部使用[M13彈鏈](../Page/M13彈鏈.md "wikilink")供彈。
 
 [KSP_58.jpg](https://zh.wikipedia.org/wiki/File:KSP_58.jpg "fig:KSP_58.jpg")、槍口裝上的Ksp
 58B\]\]
@@ -151,7 +151,7 @@ MAG。
 
 [Type_74_machine_gun.jpg](https://zh.wikipedia.org/wiki/File:Type_74_machine_gun.jpg "fig:Type_74_machine_gun.jpg")。\]\]
 
-**T74排用機槍**是[中華民國陸軍為了接續已經服役多年的](../Page/中華民國陸軍.md "wikilink")57式機槍，由聯勤205兵工廠參考比利時[國營赫斯塔爾生產的FN](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
+**T74排用機槍**是[中華民國陸軍](../Page/中華民國陸軍.md "wikilink")為了接續已經服役多年的57式機槍，由聯勤205兵工廠參考比利時[國營赫斯塔爾生產的FN](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")
 MAG，並考量聯勤自身的工藝能力與戰術思想，再進行修改所自生研發的通用機槍，編號當中的「74」代表是在民國74年（1985年）完成預量產型而定名。T74修改的部分包括一些設計上的小細節，以改進FN
 MAG的缺點並更加適合中華民國軍人的平均體型與用槍習慣。
 
@@ -166,8 +166,8 @@ MAG的缺點並更加適合中華民國軍人的平均體型與用槍習慣。
 **M240**，正式名稱為**M240 7.62毫米通用機槍**（）是[美國軍隊對FN](../Page/美军.md "wikilink")
 MAG槍族的官方編號。
 
-1977年，FN MAG被[美国陆军首次採用](../Page/美国陆军.md "wikilink")，並由原來作為一挺砲塔的MAG
-60.40[同軸機槍型號安裝在](../Page/同軸武器.md "wikilink")[M60「巴頓」和](../Page/M60巴頓戰車.md "wikilink")[M1「艾布蘭」以上](../Page/M1艾布蘭主力戰車.md "wikilink")，並且命名為M240，在1980年代和1990年代之間慢慢地被採用在更多的用途上。最初美軍使用的M240在[比利时生產](../Page/比利时.md "wikilink")。目前的M240系列則是由[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）在[美国的全資](../Page/美国.md "wikilink")[分公司國營赫斯塔爾](https://zh.wikipedia.org/wiki/總部 "wikilink")[生产](https://zh.wikipedia.org/wiki/生产 "wikilink")[有限公司](https://zh.wikipedia.org/wiki/有限責任公司 "wikilink")（）在[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[哥倫比亞市所生產](https://zh.wikipedia.org/wiki/哥伦比亚_\(南卡罗来纳州\) "wikilink")。\[5\]後來，M240和M240E1（其後改進為M240D）被採用在裝上载具上的使用。這樣使它進一步普及至更多單位的用途，特別是陸軍和[海军陆战队](../Page/美国海军陆战队.md "wikilink")[步兵](../Page/步兵.md "wikilink")。與M60相比以下，擁有許多與它的前身，即是FN
+1977年，FN MAG被[美国陆军](../Page/美国陆军.md "wikilink")首次採用，並由原來作為一挺砲塔的MAG
+60.40[同軸機槍型號安裝在](../Page/同軸武器.md "wikilink")[M60「巴頓」和](../Page/M60巴頓戰車.md "wikilink")[M1「艾布蘭」以上](../Page/M1艾布蘭主力戰車.md "wikilink")，並且命名為M240，在1980年代和1990年代之間慢慢地被採用在更多的用途上。最初美軍使用的M240在[比利时](../Page/比利时.md "wikilink")生產。目前的M240系列則是由[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）在[美国](../Page/美国.md "wikilink")的全資[分公司國營赫斯塔爾](https://zh.wikipedia.org/wiki/總部 "wikilink")[生产](https://zh.wikipedia.org/wiki/生产 "wikilink")[有限公司](https://zh.wikipedia.org/wiki/有限責任公司 "wikilink")（）在[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[哥倫比亞市所生產](https://zh.wikipedia.org/wiki/哥伦比亚_\(南卡罗来纳州\) "wikilink")。\[5\]後來，M240和M240E1（其後改進為M240D）被採用在裝上载具上的使用。這樣使它進一步普及至更多單位的用途，特別是陸軍和[海军陆战队](../Page/美国海军陆战队.md "wikilink")[步兵](../Page/步兵.md "wikilink")。與M60相比以下，擁有許多與它的前身，即是FN
 MAG系統相同基本特徵的M240在耐久性及可靠性方面的結果都遠較前者卓越。而事實上，FN
 MAG所裝置的[氣動式系統比M](../Page/氣動式_\(槍械\).md "wikilink")60的更為複雜，以至其生產成本增加以及全槍重量變得更為沉重，但卻給予了FN
 MAG系列更好的可靠性，並且降低了其對維護方面的要求。
@@ -175,27 +175,27 @@ MAG系列更好的可靠性，並且降低了其對維護方面的要求。
 M240亦有多個版本：
 
   - M240：標準[同軸機槍](../Page/同軸武器.md "wikilink")，以比利時原廠的MAG Model
-    60-40為藍本，但是使用不同的槍口上的及導氣箍上的氣體調節器。1977年時[美国陆军採用M](../Page/美国陆军.md "wikilink")240並作為|M60「巴頓」系列坦克的坦克機槍使用，取代了原來的[M73和M219](../Page/M73車載中型機槍.md "wikilink")
+    60-40為藍本，但是使用不同的槍口上的及導氣箍上的氣體調節器。1977年時[美国陆军](../Page/美国陆军.md "wikilink")採用M240並作為|M60「巴頓」系列坦克的坦克機槍使用，取代了原來的[M73和M219](../Page/M73車載中型機槍.md "wikilink")
     7.62毫米[口徑車載](https://zh.wikipedia.org/wiki/口徑 "wikilink")[中型機槍](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")，以及[M85](../Page/M85重機槍.md "wikilink")
-    .50英吋[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")。1980年代，[美国海军陆战队將M](../Page/美国海军陆战队.md "wikilink")240裝上[LAV-25](../Page/LAV-25裝甲車.md "wikilink")[兩棲](../Page/兩棲車輛.md "wikilink")[裝甲偵察車以及](https://zh.wikipedia.org/wiki/装甲车#裝甲偵察車 "wikilink")[M1「艾布蘭」](../Page/M1艾布蘭主力戰車.md "wikilink")[主戰坦克上使用](../Page/坦克.md "wikilink")。它具有電子控制擊發系統和重新裝填槓桿。
-  - M240B：為現代化M240G衍生型，具有連散熱孔（兼作為M240B的[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")），在[機匣蓋上方裝上的整合式](../Page/机匣.md "wikilink")[MIL-STD-1913戰術導軌以便安裝各種型號的白天和夜間](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準設備](https://zh.wikipedia.org/wiki/光學瞄準鏡 "wikilink")，一種新型合成[槍托和新型彈藥的容器](../Page/槍托.md "wikilink")（戰鬥彈藥包）。M240B的重量為12.29公斤（27.1磅），全長1,231.9毫米（48.5英吋），[槍管連槍口消焰器長](../Page/槍管.md "wikilink")551.18毫米（21.7英吋）。[發射速率](https://zh.wikipedia.org/wiki/射速 "wikilink")550—650發／分鐘。\[6\]\[7\]1995年12月1日，M240B的原型M240E4被選為[美國陸军目前的制式標準步兵](https://zh.wikipedia.org/wiki/美國陸军 "wikilink")[中型機槍](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")，取代了在試驗過程中擊敗了的M60E4，以及整個[M60通用機槍系列](../Page/M60通用機槍.md "wikilink")。M240B也取代在[海军陆战队服役的M](../Page/美国海军陆战队.md "wikilink")240G，它同時也在[美国空军](../Page/美国空军.md "wikilink")、[海軍和](../Page/美國海軍.md "wikilink")[海岸警衛隊之中服役](https://zh.wikipedia.org/wiki/美国海岸警衛隊 "wikilink")，是1990年代中開始裝備的M240型號。它配備了於設計時為了地面作戰用途而裝上的槍托和[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，不過它也可以安裝在車輛上、船艦上和小型船艇上使用。它幾乎總是簡稱為“M240
+    .50英吋[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")。1980年代，[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")將M240裝上[LAV-25](../Page/LAV-25裝甲車.md "wikilink")[兩棲](../Page/兩棲車輛.md "wikilink")[裝甲偵察車以及](https://zh.wikipedia.org/wiki/装甲车#裝甲偵察車 "wikilink")[M1「艾布蘭」](../Page/M1艾布蘭主力戰車.md "wikilink")[主戰坦克上使用](../Page/坦克.md "wikilink")。它具有電子控制擊發系統和重新裝填槓桿。
+  - M240B：為現代化M240G衍生型，具有連散熱孔（兼作為M240B的[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")），在[機匣蓋上方裝上的整合式](../Page/机匣.md "wikilink")[MIL-STD-1913戰術導軌以便安裝各種型號的白天和夜間](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準設備](https://zh.wikipedia.org/wiki/光學瞄準鏡 "wikilink")，一種新型合成[槍托](../Page/槍托.md "wikilink")和新型彈藥的容器（戰鬥彈藥包）。M240B的重量為12.29公斤（27.1磅），全長1,231.9毫米（48.5英吋），[槍管](../Page/槍管.md "wikilink")連槍口消焰器長551.18毫米（21.7英吋）。[發射速率](https://zh.wikipedia.org/wiki/射速 "wikilink")550—650發／分鐘。\[6\]\[7\]1995年12月1日，M240B的原型M240E4被選為[美國陸军目前的制式標準步兵](https://zh.wikipedia.org/wiki/美國陸军 "wikilink")[中型機槍](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")，取代了在試驗過程中擊敗了的M60E4，以及整個[M60通用機槍](../Page/M60通用機槍.md "wikilink")系列。M240B也取代在[海军陆战队服役的M](../Page/美国海军陆战队.md "wikilink")240G，它同時也在[美国空军](../Page/美国空军.md "wikilink")、[海軍和](../Page/美國海軍.md "wikilink")[海岸警衛隊之中服役](https://zh.wikipedia.org/wiki/美国海岸警衛隊 "wikilink")，是1990年代中開始裝備的M240型號。它配備了於設計時為了地面作戰用途而裝上的槍托和[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，不過它也可以安裝在車輛上、船艦上和小型船艇上使用。它幾乎總是簡稱為“M240
     [Bravo](https://zh.wikipedia.org/wiki/北約音標字母 "wikilink")”甚至在口頭上只稱為“240”，但是在書面上始終是寫作M240B。
   - M240C：由M240改進而成，彈鏈供彈方向由左側改為右側，裝上[M2及M3布萊德利](../Page/M2布雷德利.md "wikilink")[步兵戰車及輕型裝甲車作為主要武器裝備的](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")[同軸機槍](../Page/同軸武器.md "wikilink")。M240C的重量為10.35公斤（22磅3盎司，22.8125磅），全長1,056.64毫米（41.6英吋），槍管連槍口消焰器長551.18毫米（21.7英吋）。發射速率650—950發／分鐘。\[8\]\[9\]
   - M240D：M240E1的升級型號，主要特徵是在[機匣蓋上方裝上了](../Page/机匣.md "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，以便安裝各種型號的光學瞄準設備。作為M240D的原型的M240E1也取消原有的槍托，並且配備了可以靈活運用的雙鏟型握把、整體式扳機和擊發機構。目前已經可於各種裝甲車輛的頂部槍架、[軍用](https://zh.wikipedia.org/wiki/軍用直升機 "wikilink")[直升機的樞軸安裝槍架上廣泛使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。M240D可以裝上地面套裝（）以便從槍架拆卸下來以後作為自衞武器使用。M240D的重量為10.39公斤（22.9磅），全長1,056.64毫米（41.6英吋），槍管連槍口消焰器長551.18毫米（21.7英吋）。發射速率650—950發／分鐘。\[10\]\[11\]
   - M240E1：在1987年設計，並自那時以來在LAV系列輪式裝甲戰鬥車輛以上使用，取消原有的槍托，並且配備了可以靈活運用的雙鏟型握把、整體式扳機和擊發機構。
-  - M240G：在1990年代早期[美国海軍陸戰隊和](https://zh.wikipedia.org/wiki/美国海軍陸戰隊 "wikilink")[第75游騎兵團購買了M](../Page/第75游騎兵團.md "wikilink")240G以取代M60E3。M240G可安裝在[M122A1三腳架上用作固定防衛用途](https://zh.wikipedia.org/wiki/M122A1三腳架 "wikilink")，也可用於車輛及飛機安裝槍架上。M240G的重量為11.61公斤（25.6磅），全長1,245毫米（英吋）。發射速率650—950發／分鐘。\[12\]
+  - M240G：在1990年代早期[美国海軍陸戰隊和](https://zh.wikipedia.org/wiki/美国海軍陸戰隊 "wikilink")[第75游騎兵團](../Page/第75游騎兵團.md "wikilink")購買了M240G以取代M60E3。M240G可安裝在[M122A1三腳架上用作固定防衛用途](https://zh.wikipedia.org/wiki/M122A1三腳架 "wikilink")，也可用於車輛及飛機安裝槍架上。M240G的重量為11.61公斤（25.6磅），全長1,245毫米（英吋）。發射速率650—950發／分鐘。\[12\]
   - M240H（其前身為M240E5）：改進自M240D，在機匣蓋上方裝上了MIL-STD-1913戰術導軌，以便安裝各種型號的光學瞄準設備，槍口消焰器並得到改進，使用鋁製供彈系統，隨槍附設改裝套件使其可以更迅速地換裝為步兵使用，其餘與M240D相同。M240H總重量為11.94公斤（26.3125磅），全長為1,046.16毫米（41.1875英吋），槍管長度為600.08毫米（23.625英吋）。發射速率550—650發／分鐘。\[13\]
-  - M240L（又稱：M240B重量減輕計劃，，其前身為M240E6）：改進自M240B，由美軍著手研製，減輕現有的M240B重量2.49公斤（5.5磅）。\[14\]為了實現減少18％的重量同時仍能保持強度，M240L使用高[強度低](https://zh.wikipedia.org/wiki/強度 "wikilink")[重量而且不容易](../Page/重量.md "wikilink")[鏽蝕的](https://zh.wikipedia.org/wiki/氧化 "wikilink")[钛](../Page/钛.md "wikilink")[合金金屬物料製造以及改良](../Page/合金.md "wikilink")[機匣等主要部件的生產方式達到減輕槍身的重量](https://zh.wikipedia.org/wiki/機匣 "wikilink")。這種生產模式的改進會降低士兵的作戰負重，同時亦會令使用這武器時的機動性提高、搬運裝卸都變得更容易和基礎保養所需要的次數減少，以及在惡劣作戰環境以下更為可靠。使用12英吋短槍管（仍然可以使用M240B的長槍管）、新型可伸縮調節式管狀槍托（仍然可以使用M240B的固定式槍托；操作方式與[M4卡賓槍相同](../Page/M4卡賓槍.md "wikilink")，射手可以按照自身的體型調整槍托長度）、與[M16](../Page/M16突擊步槍.md "wikilink")／[M4槍族相同的](../Page/M4卡賓槍.md "wikilink")（取代原來M240B的厚實鋼芯手槍握把）、改進型（並且加裝效果更好的隔熱片）、加長型以及在供彈口下方加裝了[尼龙製彈鏈袋固定扣](../Page/尼龙.md "wikilink")。M240L總重量為10.1公斤（22.3磅），使用短槍管時全長為1,130.3毫米（44.5英吋）。發射速率550—650發／分鐘。
+  - M240L（又稱：M240B重量減輕計劃，，其前身為M240E6）：改進自M240B，由美軍著手研製，減輕現有的M240B重量2.49公斤（5.5磅）。\[14\]為了實現減少18％的重量同時仍能保持強度，M240L使用高[強度低](https://zh.wikipedia.org/wiki/強度 "wikilink")[重量](../Page/重量.md "wikilink")而且不容易[鏽蝕的](https://zh.wikipedia.org/wiki/氧化 "wikilink")[钛](../Page/钛.md "wikilink")[合金](../Page/合金.md "wikilink")金屬物料製造以及改良[機匣等主要部件的生產方式達到減輕槍身的重量](https://zh.wikipedia.org/wiki/機匣 "wikilink")。這種生產模式的改進會降低士兵的作戰負重，同時亦會令使用這武器時的機動性提高、搬運裝卸都變得更容易和基礎保養所需要的次數減少，以及在惡劣作戰環境以下更為可靠。使用12英吋短槍管（仍然可以使用M240B的長槍管）、新型可伸縮調節式管狀槍托（仍然可以使用M240B的固定式槍托；操作方式與[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")相同，射手可以按照自身的體型調整槍托長度）、與[M16](../Page/M16突擊步槍.md "wikilink")／[M4槍族相同的](../Page/M4卡賓槍.md "wikilink")（取代原來M240B的厚實鋼芯手槍握把）、改進型（並且加裝效果更好的隔熱片）、加長型以及在供彈口下方加裝了[尼龙](../Page/尼龙.md "wikilink")製彈鏈袋固定扣。M240L總重量為10.1公斤（22.3磅），使用短槍管時全長為1,130.3毫米（44.5英吋）。發射速率550—650發／分鐘。
 
 ### 中華人民共和國的彷製型
 
 **CS/LM1型通用機枪**（前稱：**CQ 7.62毫米通用機槍**；“CQ”为源自「长庆」的拼音（**C**háng
 **Q**ìnɡ）首字母）是FN MAG的仿製型。與FN
-MAG外觀上最大的區別是帶緩衝器的可調節式[鋁合金](../Page/鋁合金.md "wikilink")[槍托以及托底板上的硫化軟橡膠層](../Page/槍托.md "wikilink")。\[15\]\[16\]该枪在2006年正式通过了外贸设计定型，并正式命名为CS/LM1型7.62毫米通用机枪。\[17\]
+MAG外觀上最大的區別是帶緩衝器的可調節式[鋁合金](../Page/鋁合金.md "wikilink")[槍托](../Page/槍托.md "wikilink")以及托底板上的硫化軟橡膠層。\[15\]\[16\]该枪在2006年正式通过了外贸设计定型，并正式命名为CS/LM1型7.62毫米通用机枪。\[17\]
 
 ## 使用國
 
-[Australian_soldier_Borneo.jpg](https://zh.wikipedia.org/wiki/File:Australian_soldier_Borneo.jpg "fig:Australian_soldier_Borneo.jpg")，一名駐守在[婆罗洲英國L](../Page/婆罗洲.md "wikilink")7A1通用機槍陣地的澳大利亞士兵。\]\]
+[Australian_soldier_Borneo.jpg](https://zh.wikipedia.org/wiki/File:Australian_soldier_Borneo.jpg "fig:Australian_soldier_Borneo.jpg")，一名駐守在[婆罗洲](../Page/婆罗洲.md "wikilink")英國L7A1通用機槍陣地的澳大利亞士兵。\]\]
 [M240Bapril2004iraq.jpg](https://zh.wikipedia.org/wiki/File:M240Bapril2004iraq.jpg "fig:M240Bapril2004iraq.jpg")上以其裝上旋轉式槍架的M240B射擊的[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[工程营士兵](https://zh.wikipedia.org/wiki/美国海军工程营 "wikilink")。\]\]
 [Canadian_Soldier_C6_Machine_Gun.jpg](https://zh.wikipedia.org/wiki/File:Canadian_Soldier_C6_Machine_Gun.jpg "fig:Canadian_Soldier_C6_Machine_Gun.jpg")
 [FN_MAG.jpg](https://zh.wikipedia.org/wiki/File:FN_MAG.jpg "fig:FN_MAG.jpg")的FN
@@ -529,7 +529,7 @@ FN MAG</p></th>
 <td><p>1,260</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/槍管.md" title="wikilink">槍管長度</a>，毫米</strong></p></td>
+<td><p><strong><a href="../Page/槍管.md" title="wikilink">槍管</a>長度，毫米</strong></p></td>
 <td><p>487.5毫米（不連消焰器）<br />
 630毫米（連消焰器）</p></td>
 <td><p>524</p></td>
@@ -599,7 +599,7 @@ FN MAG</p></th>
 <td><p><strong>有效射程，<a href="../Page/米_(单位).md" title="wikilink">米</a></strong></p></td>
 <td><p>600公尺（低伸火力）<br />
 800公尺（連<a href="https://zh.wikipedia.org/wiki/兩腳架" title="wikilink">兩腳架</a>、點目標壓制）<br />
-900公尺（<a href="../Page/曳光彈.md" title="wikilink">曳光彈藥劑燃料燒盡</a>）<br />
+900公尺（<a href="../Page/曳光彈.md" title="wikilink">曳光彈</a>藥劑燃料燒盡）<br />
 1,800公尺（連<a href="https://zh.wikipedia.org/wiki/三腳架" title="wikilink">三腳架</a>、面目標壓制）</p></td>
 <td><p>大約800</p></td>
 <td><p>1,500</p></td>
@@ -619,7 +619,7 @@ FN MAG</p></th>
 ## 流行文化
 
 FN
-MAG在許多[电影和](../Page/电影.md "wikilink")[电子游戏中亦有出現](../Page/电子游戏.md "wikilink")，例如：
+MAG在許多[电影](../Page/电影.md "wikilink")和[电子游戏](../Page/电子游戏.md "wikilink")中亦有出現，例如：
 
 ### 電影
 
@@ -638,7 +638,7 @@ MAG在許多[电影和](../Page/电影.md "wikilink")[电子游戏中亦有出�
   - 2012年—《[-{zh-cn:敢死队2; zh-tw:浴血任務2;
     zh-hk:轟天猛將2;}-](https://zh.wikipedia.org/wiki/敢死队2 "wikilink")》（The
     Expendables 2）：被李·聖誕（Lee
-    Christmas，[-{zh-hans:杰森·斯塔森;zh-hk:積遜·斯特咸;zh-tw:傑森·史塔森;}-飾演](../Page/傑森·史塔森.md "wikilink")）在突擊隊的[水上飛機和敵方的快艇追逐期間於飛機機頭上對敵方掃射時所使用](../Page/水上飛機.md "wikilink")。
+    Christmas，[-{zh-hans:杰森·斯塔森;zh-hk:積遜·斯特咸;zh-tw:傑森·史塔森;}-飾演](../Page/傑森·史塔森.md "wikilink")）在突擊隊的[水上飛機](../Page/水上飛機.md "wikilink")和敵方的快艇追逐期間於飛機機頭上對敵方掃射時所使用。
   - 2014年—《[-{zh-cn:敢死队3; zh-tw:浴血任務3;
     zh-hk:轟天猛將3;}-](https://zh.wikipedia.org/wiki/敢死队3 "wikilink")》（The
     Expendables 3）：被浴血幫盟友戰壕（Trench，[-{zh-cn:阿诺德·施瓦辛格; zh-tw:阿諾·史瓦辛格;
@@ -657,14 +657,14 @@ MAG在許多[电影和](../Page/电影.md "wikilink")[电子游戏中亦有出�
 
 ## 參見
 
-  - [MG3](../Page/MG3通用機槍.md "wikilink")，[德国製造的](../Page/德国.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")
+  - [MG3](../Page/MG3通用機槍.md "wikilink")，[德国](../Page/德国.md "wikilink")製造的[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")
   - [MG5](../Page/HK_MG5通用機槍.md "wikilink")（HK121），[德国](../Page/德国.md "wikilink")[黑克勒-科赫設計和生產的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")7.62×51毫米北約口徑通用機槍
   - [M60通用機槍](../Page/M60通用機槍.md "wikilink")，[美國軍隊於](../Page/美军.md "wikilink")1960年代至1990年代的7.62×51毫米北約口徑通用機槍
-  - [住友62式7.62毫米機槍](../Page/住友62式7.62毫米機槍.md "wikilink")，[日本於](../Page/日本.md "wikilink")1960年代至現在的7.62×51毫米北約口徑現役通用機槍
-  - [SS-77通用機槍](../Page/SS-77通用機槍.md "wikilink")，[南非國防軍現役通用機槍](../Page/南非國防軍.md "wikilink")
+  - [住友62式7.62毫米機槍](../Page/住友62式7.62毫米機槍.md "wikilink")，[日本](../Page/日本.md "wikilink")於1960年代至現在的7.62×51毫米北約口徑現役通用機槍
+  - [SS-77通用機槍](../Page/SS-77通用機槍.md "wikilink")，[南非國防軍](../Page/南非國防軍.md "wikilink")現役通用機槍
   - [UKM-2000](../Page/UKM-2000通用機槍.md "wikilink")，[波兰製造的](https://zh.wikipedia.org/wiki/波兰 "wikilink")7.62×51毫米北約口徑通用機槍
   - [M240通用機槍](../Page/M240通用機槍.md "wikilink")，美國軍隊於1990年代至現在的現役[通用](../Page/通用機槍.md "wikilink")[中型機槍](https://zh.wikipedia.org/wiki/中型機槍 "wikilink")，本槍的改進型
-  - [L7](../Page/L7通用機槍.md "wikilink")，[英國軍隊現役通用機槍](../Page/英國軍隊.md "wikilink")，本槍的改進型
+  - [L7](../Page/L7通用機槍.md "wikilink")，[英國軍隊](../Page/英國軍隊.md "wikilink")現役通用機槍，本槍的改進型
   - [Ksp
     58](../Page/Ksp_58通用機槍.md "wikilink")，[瑞典軍隊現役通用機槍](https://zh.wikipedia.org/wiki/瑞典军事 "wikilink")，本槍的改進型
   - [T74排用機槍](../Page/T74排用機槍.md "wikilink")，中華民國陸軍現役通用機槍，本槍的改進型
@@ -674,7 +674,7 @@ MAG在許多[电影和](../Page/电影.md "wikilink")[电子游戏中亦有出�
     Minimi的](../Page/FN_Minimi輕機槍.md "wikilink")7.62×51毫米北約口徑制式步枪子彈通用機槍版本
   - [Mk 48 Mod 0/1](../Page/Mk_48輕量化機槍.md "wikilink")，[M249
     SAW的](../Page/M249班用自動武器.md "wikilink")7.62×51毫米北约口徑制式步枪子彈通用機槍版本
-  - [PK通用機槍](../Page/PK通用機槍.md "wikilink")，[苏联及](../Page/苏联.md "wikilink")[俄羅斯聯邦製造的](../Page/俄罗斯.md "wikilink")[7.62×54毫米俄羅斯口徑通用機槍](../Page/7.62×54mmR.md "wikilink")
+  - [PK通用機槍](../Page/PK通用機槍.md "wikilink")，[苏联](../Page/苏联.md "wikilink")及[俄羅斯聯邦製造的](../Page/俄罗斯.md "wikilink")[7.62×54毫米俄羅斯口徑通用機槍](../Page/7.62×54mmR.md "wikilink")
   - [80式通用機槍](../Page/80式通用機槍.md "wikilink")，[中国製造的](https://zh.wikipedia.org/wiki/中国 "wikilink")[7.62×54毫米俄羅斯口徑通用機槍](../Page/7.62×54mmR.md "wikilink")
   - [QJY-88](../Page/88式通用机枪.md "wikilink")，中国製造的[87式5.8毫米中國口徑机枪弹通用機槍](../Page/5.8×42mm.md "wikilink")
   - [防禦者M151遙控武器站](../Page/防禦者M151遙控武器站.md "wikilink")

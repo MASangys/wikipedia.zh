@@ -1,4 +1,4 @@
-[GLAY的第](../Page/GLAY.md "wikilink")38張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，普通盤有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")
+[GLAY](../Page/GLAY.md "wikilink")的第38張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，普通盤有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")
 
 ## 簡介
 

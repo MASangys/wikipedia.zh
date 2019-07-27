@@ -1,4 +1,4 @@
-是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NTREEV軟體公司開發的](https://zh.wikipedia.org/wiki/NTREEV "wikilink")[2D](../Page/二维计算机图形.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")，以可愛動漫風格為特色，加上一些獨特或原創系統的[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，遊戲中[移動](https://zh.wikipedia.org/wiki/移動 "wikilink")、[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")、[鑽地和許多其他功能主要是透過](https://zh.wikipedia.org/wiki/鑽地 "wikilink")[鼠標控制](https://zh.wikipedia.org/wiki/鼠標 "wikilink")，並利用[鍵盤F](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")1\~F8等作為快捷鍵。各國版本皆為免費暢遊，但也有[現金](https://zh.wikipedia.org/wiki/現金 "wikilink")[商店的功能](../Page/商店.md "wikilink")，又稱為「MyShop」，可以利用現金購買遊戲中的特殊物品。
+是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NTREEV軟體公司開發的](https://zh.wikipedia.org/wiki/NTREEV "wikilink")[2D](../Page/二维计算机图形.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")，以可愛動漫風格為特色，加上一些獨特或原創系統的[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，遊戲中[移動](https://zh.wikipedia.org/wiki/移動 "wikilink")、[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")、[鑽地和許多其他功能主要是透過](https://zh.wikipedia.org/wiki/鑽地 "wikilink")[鼠標控制](https://zh.wikipedia.org/wiki/鼠標 "wikilink")，並利用[鍵盤F](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")1\~F8等作為快捷鍵。各國版本皆為免費暢遊，但也有[現金](https://zh.wikipedia.org/wiki/現金 "wikilink")[商店](../Page/商店.md "wikilink")的功能，又稱為「MyShop」，可以利用現金購買遊戲中的特殊物品。
 
 ## 故事
 
@@ -8,7 +8,7 @@
 
 這座小島就是這個遊​​戲的舞台，而要體驗這個遊戲的人，就都必須真正來到這座島嶼。
 
-然而，在「卡巴拉島」開幕前，發生了一件讓所有人都十分驚訝的事。那就是唐·卡巴利亞先生突然去世了。他的律師說：唐·卡巴利亞先生將生前所有[財產都藏在卡巴拉島上](../Page/財產.md "wikilink")，只要有本事，就能得到唐·卡巴利亞的[遺產](https://zh.wikipedia.org/wiki/遺產 "wikilink")。唯一的規定就是，想要進入卡巴拉島，就必​​須穿上各種具有[動物特徵的裝扮](https://zh.wikipedia.org/wiki/動物 "wikilink")。
+然而，在「卡巴拉島」開幕前，發生了一件讓所有人都十分驚訝的事。那就是唐·卡巴利亞先生突然去世了。他的律師說：唐·卡巴利亞先生將生前所有[財產](../Page/財產.md "wikilink")都藏在卡巴拉島上，只要有本事，就能得到唐·卡巴利亞的[遺產](https://zh.wikipedia.org/wiki/遺產 "wikilink")。唯一的規定就是，想要進入卡巴拉島，就必​​須穿上各種具有[動物特徵的裝扮](https://zh.wikipedia.org/wiki/動物 "wikilink")。
 
 這個新聞轟動了全世界，於是來自世界各地的人，都湧入這個結合幻想與現實的小島上，為了找到傳說中的寶藏。
 
@@ -34,7 +34,7 @@
     職業：[圖書館管理員](https://zh.wikipedia.org/wiki/圖書館 "wikilink")
     性別：女
     類型：魔法型
-    在國立圖書館擔任圖書管理員的工作，具有十分豐富的知識，對館內的圖書瞭若指掌，並有特別的熱情。某一天，一名奇怪的老人還來了一本不在圖書館目錄裡的古書，內容是關於古代[魔法的符咒](../Page/魔法.md "wikilink")。她試著解讀書中的古代文字，學習並掌握書中所記載之魔法能力，原本羞澀、消極的她，慢慢地變得有自信了。這時候傳來了富翁遺產與卡巴拉島的消息，她一直夢想著擁有自己的圖書館，這可是她獲得資金的大好時機。
+    在國立圖書館擔任圖書管理員的工作，具有十分豐富的知識，對館內的圖書瞭若指掌，並有特別的熱情。某一天，一名奇怪的老人還來了一本不在圖書館目錄裡的古書，內容是關於古代[魔法](../Page/魔法.md "wikilink")的符咒。她試著解讀書中的古代文字，學習並掌握書中所記載之魔法能力，原本羞澀、消極的她，慢慢地變得有自信了。這時候傳來了富翁遺產與卡巴拉島的消息，她一直夢想著擁有自己的圖書館，這可是她獲得資金的大好時機。
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@
     職業：[考古學家](https://zh.wikipedia.org/wiki/考古學家 "wikilink")
     性別：女
     類型：感知型
-    她擁有敏銳的[直覺與優秀的](https://zh.wikipedia.org/wiki/直覺 "wikilink")[邏輯能力](https://zh.wikipedia.org/wiki/邏輯 "wikilink")，是一位兼具冷靜判斷與縝密[推理的考古學家](../Page/推理.md "wikilink")。從小她便接受天才教育，是有史以來以年紀最小的考古學博士，透過[遺址](https://zh.wikipedia.org/wiki/遺址 "wikilink")[探險](https://zh.wikipedia.org/wiki/探險 "wikilink")、發掘遺物、考證古史等，獲得考古學界的認可。直到她宣稱所有[文明皆出自於一種文明](../Page/文明.md "wikilink")，主張「地球文明一元論」而在考古學界引起軒然大波，因此被視為[異端](../Page/異端.md "wikilink")。突然，由於地殼變化而在太平洋出現一個島嶼，她一直想親自調查，然而島嶼卻成卡巴利亞的私有地，並拒絕外界接觸。這次，她終於可以前去探索遺跡。
+    她擁有敏銳的[直覺與優秀的](https://zh.wikipedia.org/wiki/直覺 "wikilink")[邏輯能力](https://zh.wikipedia.org/wiki/邏輯 "wikilink")，是一位兼具冷靜判斷與縝密[推理](../Page/推理.md "wikilink")的考古學家。從小她便接受天才教育，是有史以來以年紀最小的考古學博士，透過[遺址](https://zh.wikipedia.org/wiki/遺址 "wikilink")[探險](https://zh.wikipedia.org/wiki/探險 "wikilink")、發掘遺物、考證古史等，獲得考古學界的認可。直到她宣稱所有[文明](../Page/文明.md "wikilink")皆出自於一種文明，主張「地球文明一元論」而在考古學界引起軒然大波，因此被視為[異端](../Page/異端.md "wikilink")。突然，由於地殼變化而在太平洋出現一個島嶼，她一直想親自調查，然而島嶼卻成卡巴利亞的私有地，並拒絕外界接觸。這次，她終於可以前去探索遺跡。
 
 <!-- end list -->
 
@@ -115,13 +115,13 @@
 
 ### 合成系統
 
-只有台版才有的系統，將遊戲內[道具裝備的能力和付費](https://zh.wikipedia.org/wiki/道具 "wikilink")[商品裝備的外形合成的系統](../Page/商品.md "wikilink")。如果擁有一個好的裝備物品，但是卻想要轉換它的外表時，就可以利用或是時間限制物品使用期限結束的付費物品，都可以透過裝備[合成再度重新使用](https://zh.wikipedia.org/wiki/合成 "wikilink")。
+只有台版才有的系統，將遊戲內[道具裝備的能力和付費](https://zh.wikipedia.org/wiki/道具 "wikilink")[商品](../Page/商品.md "wikilink")裝備的外形合成的系統。如果擁有一個好的裝備物品，但是卻想要轉換它的外表時，就可以利用或是時間限制物品使用期限結束的付費物品，都可以透過裝備[合成再度重新使用](https://zh.wikipedia.org/wiki/合成 "wikilink")。
 
-合成之後的新物品會擁有遊戲內道具裝備的能力、屬性與付費商品裝備的絢麗外形。還有只有[盾牌](https://zh.wikipedia.org/wiki/盾牌 "wikilink")、[武器](../Page/武器.md "wikilink")、[槍](../Page/槍.md "wikilink")、[帽子的裝備可以進行合成](../Page/帽子.md "wikilink")，除此之外每種裝備必須配合各種裝備的類型才能互相組合。例如：遊戲內道具的盾牌類裝備+付費商品的盾牌類裝備。
+合成之後的新物品會擁有遊戲內道具裝備的能力、屬性與付費商品裝備的絢麗外形。還有只有[盾牌](https://zh.wikipedia.org/wiki/盾牌 "wikilink")、[武器](../Page/武器.md "wikilink")、[槍](../Page/槍.md "wikilink")、[帽子](../Page/帽子.md "wikilink")的裝備可以進行合成，除此之外每種裝備必須配合各種裝備的類型才能互相組合。例如：遊戲內道具的盾牌類裝備+付費商品的盾牌類裝備。
 
 ### 裝備精煉
 
-精煉是指可以使[武器](../Page/武器.md "wikilink")、[防具等裝備道具提升主要基本屬性的功能](https://zh.wikipedia.org/wiki/防具 "wikilink")。精煉共分為11個等級，[機率不受角色特性影響](https://zh.wikipedia.org/wiki/機率 "wikilink")，關鍵在於精煉的等級。精煉的等級愈高，成功機率便愈低，因此精煉等級高的裝備通常十分稀有與珍貴。精煉裝備需要使用特殊的[材料](../Page/材料.md "wikilink")，可以在[礦山中找到](https://zh.wikipedia.org/wiki/礦山 "wikilink")，分為[礦石材料及](https://zh.wikipedia.org/wiki/礦石 "wikilink")[寶石材料兩種](../Page/寶石.md "wikilink")，分別適用於物理特性的武防及魔法特性的武防。
+精煉是指可以使[武器](../Page/武器.md "wikilink")、[防具等裝備道具提升主要基本屬性的功能](https://zh.wikipedia.org/wiki/防具 "wikilink")。精煉共分為11個等級，[機率不受角色特性影響](https://zh.wikipedia.org/wiki/機率 "wikilink")，關鍵在於精煉的等級。精煉的等級愈高，成功機率便愈低，因此精煉等級高的裝備通常十分稀有與珍貴。精煉裝備需要使用特殊的[材料](../Page/材料.md "wikilink")，可以在[礦山中找到](https://zh.wikipedia.org/wiki/礦山 "wikilink")，分為[礦石材料及](https://zh.wikipedia.org/wiki/礦石 "wikilink")[寶石](../Page/寶石.md "wikilink")材料兩種，分別適用於物理特性的武防及魔法特性的武防。
 
 ### 裝備隨機
 

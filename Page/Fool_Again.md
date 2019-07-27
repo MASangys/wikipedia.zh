@@ -10,8 +10,8 @@ Again**是[西域男孩同名专辑中最后发布的单曲](https://zh.wikipedi
 | [丹麦单曲排行榜](https://zh.wikipedia.org/wiki/丹麦单曲排行榜 "wikilink")   |  5   |
 | [德国单曲排行榜](https://zh.wikipedia.org/wiki/德国单曲排行榜 "wikilink")   |  80  |
 | [爱尔兰单曲排行榜](https://zh.wikipedia.org/wiki/爱尔兰单曲排行榜 "wikilink") |  2   |
-| [荷兰单曲排行榜](../Page/荷兰.md "wikilink")                           |  23  |
-| [瑞典单曲排行榜](../Page/瑞典.md "wikilink")                           |  5   |
+| [荷兰](../Page/荷兰.md "wikilink")单曲排行榜                           |  23  |
+| [瑞典](../Page/瑞典.md "wikilink")单曲排行榜                           |  5   |
 | [瑞士单曲排行榜](https://zh.wikipedia.org/wiki/瑞士 "wikilink")        |  39  |
 | [英国单曲排行榜](https://zh.wikipedia.org/wiki/英国单曲排行榜 "wikilink")   |  1   |
 |                                                               |      |

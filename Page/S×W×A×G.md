@@ -1,4 +1,4 @@
-《**S×W×A×G**》是[板野友美的第](../Page/板野友美.md "wikilink")1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[King
+《**S×W×A×G**》是[板野友美](../Page/板野友美.md "wikilink")的第1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[King
 Records于](https://zh.wikipedia.org/wiki/King_Records "wikilink")2014年7月2日发行\[1\]。
 
 ## 简介

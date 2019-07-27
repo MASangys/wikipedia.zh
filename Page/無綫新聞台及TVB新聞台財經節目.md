@@ -1,4 +1,4 @@
-在港股及美股交易日，[無綫新聞台及](../Page/無綫新聞台.md "wikilink")[TVB新聞台播出的財經新聞節目](../Page/TVB新聞台.md "wikilink")（），由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[新聞及資訊部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，包括《[開市第一擊](https://zh.wikipedia.org/wiki/開市第一擊 "wikilink")》、《[滬港快訊](https://zh.wikipedia.org/wiki/滬港快訊 "wikilink")》、《[滬港一點通](https://zh.wikipedia.org/wiki/滬港一點通 "wikilink")》、《[財經報道](https://zh.wikipedia.org/wiki/財經報道 "wikilink")》、《[滬港點評](https://zh.wikipedia.org/wiki/滬港點評 "wikilink")》及《[財經多國度](https://zh.wikipedia.org/wiki/財經多國度 "wikilink")》，報道財經新聞及股市資訊。
+在港股及美股交易日，[無綫新聞台](../Page/無綫新聞台.md "wikilink")及[TVB新聞台](../Page/TVB新聞台.md "wikilink")播出的財經新聞節目（），由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[新聞及資訊部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，包括《[開市第一擊](https://zh.wikipedia.org/wiki/開市第一擊 "wikilink")》、《[滬港快訊](https://zh.wikipedia.org/wiki/滬港快訊 "wikilink")》、《[滬港一點通](https://zh.wikipedia.org/wiki/滬港一點通 "wikilink")》、《[財經報道](https://zh.wikipedia.org/wiki/財經報道 "wikilink")》、《[滬港點評](https://zh.wikipedia.org/wiki/滬港點評 "wikilink")》及《[財經多國度](https://zh.wikipedia.org/wiki/財經多國度 "wikilink")》，報道財經新聞及股市資訊。
 
 因應高清翡翠台將於2016年2月22日起易名為J5（於2017年8月15日起改名為無綫財經台，再於2018年1月20日起改名為無綫財經·資訊台）啟播，互動新聞台（於2017年8月15日起改名為無綫新聞台）及TVB新聞台於2016年1月起取消播映財經新聞節目（《[開市第一擊](https://zh.wikipedia.org/wiki/開市第一擊 "wikilink")》除外）。
 
@@ -31,11 +31,11 @@
 
 ### 滬港點評
 
-《**滬港點評**》（）於港股交易日16:30-17:00在[TVB新聞台播出](../Page/TVB新聞台.md "wikilink")。
+《**滬港點評**》（）於港股交易日16:30-17:00在[TVB新聞台](../Page/TVB新聞台.md "wikilink")播出。
 
   - 2012年1月3日前，《港股評述》（）在港股交易日16:30-16:45播出。
   - 2012年1月3日開始，改在16:30-17:00只於無綫新聞台（現稱[TVB新聞台](../Page/TVB新聞台.md "wikilink")）播出，並改名《**港股點評**》（），於翌日00:30重播。而[TVB
-    Window於](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")2013年6月13日啟播後開始與[TVB新聞台聯播](../Page/TVB新聞台.md "wikilink")。
+    Window於](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")2013年6月13日啟播後開始與[TVB新聞台](../Page/TVB新聞台.md "wikilink")聯播。
 
 <!-- end list -->
 

@@ -1,4 +1,4 @@
-**龍野西IC**（平假名：たつのにしインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[龍野市的](../Page/龍野市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道同時設置[龍野西SA](https://zh.wikipedia.org/wiki/龍野西SA "wikilink")。
+**龍野西IC**（平假名：たつのにしインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[龍野市](../Page/龍野市.md "wikilink")的[山陽自動車道](../Page/山陽自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。此交流道同時設置[龍野西SA](https://zh.wikipedia.org/wiki/龍野西SA "wikilink")。
 
 ## 連接道路
 
@@ -14,9 +14,9 @@
 ## 歷史
 
   - 1982年3月30日 -
-    [山陽自動車道龍野西IC至](../Page/山陽自動車道.md "wikilink")[備前IC之間開通](https://zh.wikipedia.org/wiki/備前IC_\(山陽自動車道\) "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")龍野西IC至[備前IC之間開通](https://zh.wikipedia.org/wiki/備前IC_\(山陽自動車道\) "wikilink")，此交流道也同時啟用。
   - 1990年7月31日 -
-    山陽自動車道[山陽姬路西IC至龍野西IC之間開通](../Page/山陽姬路西IC.md "wikilink")。
+    山陽自動車道[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink")至龍野西IC之間開通。
   - 2003年3月29日 - 交流道名稱由龍野西（竜野西）改變為龍野西（龍野西）。
 
 ## 收費站設施

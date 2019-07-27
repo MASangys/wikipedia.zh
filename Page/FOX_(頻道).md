@@ -1,4 +1,4 @@
-**FOX頻道**是[福斯娛樂集團旗下](https://zh.wikipedia.org/wiki/福斯娛樂集團 "wikilink")[福斯廣播公司的頻道](../Page/福斯廣播公司.md "wikilink")，也是[福斯傳媒集團的旗下的國際綜合頻道](../Page/福斯傳媒集團.md "wikilink")。
+**FOX頻道**是[福斯娛樂集團旗下](https://zh.wikipedia.org/wiki/福斯娛樂集團 "wikilink")[福斯廣播公司](../Page/福斯廣播公司.md "wikilink")的頻道，也是[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")的旗下的國際綜合頻道。
 
 ## 美國本土版本
 

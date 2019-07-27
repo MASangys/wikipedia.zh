@@ -1,13 +1,13 @@
-**Chromecast**（網路上又簡稱CC）是[Google在](../Page/Google.md "wikilink")2013年推出的一款[數位電視棒](https://zh.wikipedia.org/wiki/高清USB手指 "wikilink")，运行精简版[Chrome
+**Chromecast**（網路上又簡稱CC）是[Google](../Page/Google.md "wikilink")在2013年推出的一款[數位電視棒](https://zh.wikipedia.org/wiki/高清USB手指 "wikilink")，运行精简版[Chrome
 OS操作系统](../Page/Chrome_OS.md "wikilink")。主要功能為將傳統電視、顯示器等升級為[網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")，使其具有播放網路媒體的功能。
 
 ## 功能与配置
 
 Chromecast是一款仅有2英寸（72公厘，5.08厘米）长的小型设备，运行简易版的Google Chrome
-OS。通过连接[WIFI信号并插入](https://zh.wikipedia.org/wiki/WIFI "wikilink")[高畫質電視的](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")[HDMI接口](../Page/HDMI.md "wikilink")，Chromecast可以将其他设备上的内容鏡射到电视屏幕上。支持使用的[操作系统包括](../Page/操作系统.md "wikilink")[Android](../Page/Android.md "wikilink")、Chrome
+OS。通过连接[WIFI信号并插入](https://zh.wikipedia.org/wiki/WIFI "wikilink")[高畫質電視的](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")[HDMI](../Page/HDMI.md "wikilink")接口，Chromecast可以将其他设备上的内容鏡射到电视屏幕上。支持使用的[操作系统](../Page/操作系统.md "wikilink")包括[Android](../Page/Android.md "wikilink")、Chrome
 OS、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[OS
-X等](https://zh.wikipedia.org/wiki/OS_X "wikilink")，[个人电脑](../Page/个人电脑.md "wikilink")、[智能手机和](../Page/智能手机.md "wikilink")[平板电脑透过指定的](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")[APP即可将](https://zh.wikipedia.org/wiki/移动软件应用程序 "wikilink")[影片和音频传输至电视端](../Page/视频.md "wikilink")，[Google
-Play](../Page/Google_Play.md "wikilink")（音乐、电影）、[YouTube](../Page/YouTube.md "wikilink")、[Netflix是官方最早公布的支持Chromecast的应用服务](../Page/Netflix.md "wikilink")。\[1\]
+X等](https://zh.wikipedia.org/wiki/OS_X "wikilink")，[个人电脑](../Page/个人电脑.md "wikilink")、[智能手机](../Page/智能手机.md "wikilink")和[平板电脑透过指定的](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")[APP即可将](https://zh.wikipedia.org/wiki/移动软件应用程序 "wikilink")[影片和音频传输至电视端](../Page/视频.md "wikilink")，[Google
+Play](../Page/Google_Play.md "wikilink")（音乐、电影）、[YouTube](../Page/YouTube.md "wikilink")、[Netflix](../Page/Netflix.md "wikilink")是官方最早公布的支持Chromecast的应用服务。\[1\]
 
 第一代Chromecast发布于2013年7月24日，以35美元的售价在[Google
 Play](../Page/Google_Play.md "wikilink")、[亚马逊和](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[Best

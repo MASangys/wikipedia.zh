@@ -1,4 +1,4 @@
-《**當男人愛上女人Vol.1**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基首張翻唱專輯](../Page/李昇基.md "wikilink")，於2006年9月12日由Hook
+《**當男人愛上女人Vol.1**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[李昇基](../Page/李昇基.md "wikilink")首張翻唱專輯，於2006年9月12日由Hook
 Entertainment製作、Vitamin Entertainment發行，以《千萬》（）、《既愛又恨》（）及《只要再一次》（）作主打歌曲。
 
 首波主打《千萬》在專輯推出後曾獲得[M\!

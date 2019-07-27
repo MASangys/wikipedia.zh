@@ -6,9 +6,9 @@ SCPI于1990与[IEEE
 488.2协议一起面世](https://zh.wikipedia.org/wiki/IEEE_488.2 "wikilink")。这套标准定义了可用于控制一切仪器的语法，命令结构以及数据格式。比如，通用的命令，如配置仪器参数的命令`CONFigure`，测量命令`MEASure`等。这些命令可用于任一仪器，并且同一类的命令属于同一子系统里。SCPI同时也定义了若干仪器的种类。比如，任何可控制的电源都会实现`DCPSUPPLY`基本功能类型。仪器的类别规定了它们会去实现什么样的子系统，当然也包括针对仪器的特定功能。
 
 需要注意的是，SCPI并未定义物理层的传输信道的实现方法。虽然上文指出它最开始是和IEEE
-488.2(即GPIB)面世的，但SCPI控制命令也可用于串口([RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink"))，以太网，[USB接口](../Page/USB.md "wikilink")，[VXIbus等若干硬件总线](https://zh.wikipedia.org/wiki/VXIbus "wikilink")。
+488.2(即GPIB)面世的，但SCPI控制命令也可用于串口([RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink"))，以太网，[USB](../Page/USB.md "wikilink")接口，[VXIbus等若干硬件总线](https://zh.wikipedia.org/wiki/VXIbus "wikilink")。
 
-SCPI命令是[ASCII字符串](../Page/ASCII.md "wikilink")，通过物理传输层传入仪器。命令由一连串的关键字构成，有的还需要包括参数。在协议中，命令规定为如下形式：`CONFigure`。在使用中，即可以写全名，也可以仅写仅包含大写字母的缩写。通常仪器对于查询命令的反馈也为ASCII代码。在传输大量数据时，二进制数据也是可以使用的。
+SCPI命令是[ASCII](../Page/ASCII.md "wikilink")字符串，通过物理传输层传入仪器。命令由一连串的关键字构成，有的还需要包括参数。在协议中，命令规定为如下形式：`CONFigure`。在使用中，即可以写全名，也可以仅写仅包含大写字母的缩写。通常仪器对于查询命令的反馈也为ASCII代码。在传输大量数据时，二进制数据也是可以使用的。
 
 ## 语法
 
@@ -29,11 +29,11 @@ NORMal`。上述命令里`NORMal`即为参数。
 
 ## 缩略命令
 
-可以只发送命令名中的大写字母部分。例如，命令`SYSTem:COMMunicate:SERial:BAUD 2400`将会设置RS-232通讯端口的[比特率为](../Page/比特率.md "wikilink")2400。这个命令可以简写为`SYST:COMM:SER:BAUD 2400`。
+可以只发送命令名中的大写字母部分。例如，命令`SYSTem:COMMunicate:SERial:BAUD 2400`将会设置RS-232通讯端口的[比特率](../Page/比特率.md "wikilink")为2400。这个命令可以简写为`SYST:COMM:SER:BAUD 2400`。
 
 ## 历史
 
-首次发布于1990年\[1\]，SCPI的起源是[IEEE-488的另外一个层](../Page/IEEE-488.md "wikilink")。
+首次发布于1990年\[1\]，SCPI的起源是[IEEE-488](../Page/IEEE-488.md "wikilink")的另外一个层。
 IEEE-488.1指定了物理和电气总线，IEEE488.2指定了协议和数据格式，但是都没有指定仪器的指令。不同的制造商，甚至不同的型号、相同类型的仪器都需要使用不同的命令集。
 SCPI创建了一个标准，可以在所有的制造商和所有型号中通用。它需要使用的IEEE488.2数据格式，但不必非得是-488.1总线\[2\]
 在2002-2003年，SCPI协会投票成为[IVI基金会的一部分](https://zh.wikipedia.org/wiki/IVI基金会 "wikilink")（可互换虚拟仪器）\[3\].

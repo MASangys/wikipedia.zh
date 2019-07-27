@@ -4,7 +4,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
-本[音樂專輯與前作相隔約](../Page/音樂專輯.md "wikilink")1年發行。本作的完全生產限定盤附有T恤一件、初回生產限定盤則包括收錄了MV的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，通常盤的全部4種初回仕樣版則隨機包含了一名成員的Solo寫真貼紙\[1\]。
+本[音樂專輯](../Page/音樂專輯.md "wikilink")與前作相隔約1年發行。本作的完全生產限定盤附有T恤一件、初回生產限定盤則包括收錄了MV的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，通常盤的全部4種初回仕樣版則隨機包含了一名成員的Solo寫真貼紙\[1\]。
 
 ## 收錄曲目
 
@@ -64,7 +64,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 外部連結
 
-  - [索尼音樂娛樂介紹頁](../Page/索尼音樂娛樂.md "wikilink")
+  - [索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")介紹頁
       - [完全生產限定盤](http://www.sonymusic.co.jp/artist/scandal/discography/ESCL-4105)
 
       - [初回生產限定盤](http://www.sonymusic.co.jp/artist/scandal/discography/ESCL-4107)

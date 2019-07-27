@@ -3,11 +3,11 @@ Spolsky）看来，Trello是一个“水平化”应用，即它的使用并不�
 
 2014年7月，Fog Creek Software將Trello相關部門獨立成Trello, Inc公司\[2\]
 
-2017年1月13日，[Atlassian收購了Trello](../Page/Atlassian.md "wikilink")。
+2017年1月13日，[Atlassian](../Page/Atlassian.md "wikilink")收購了Trello。
 
 ## 架构
 
-Trello在[MongoDB](../Page/MongoDB.md "wikilink")、[Node.js和](../Page/Node.js.md "wikilink")[Backbone.js上架构](../Page/Backbone.js.md "wikilink")。\[3\]
+Trello在[MongoDB](../Page/MongoDB.md "wikilink")、[Node.js](../Page/Node.js.md "wikilink")和[Backbone.js](../Page/Backbone.js.md "wikilink")上架构。\[3\]
 
 ## 参见
 

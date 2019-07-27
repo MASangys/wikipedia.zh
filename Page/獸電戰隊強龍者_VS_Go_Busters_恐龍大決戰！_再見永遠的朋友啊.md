@@ -11,7 +11,7 @@ Busters](../Page/特命戰隊Go_Busters.md "wikilink")**》合作作品，也是
 本作的另外一個特色是繼[海賊戰隊豪快者 VS 宇宙刑事卡邦 The
 Movie和](../Page/海賊戰隊豪快者_VS_宇宙刑事卡邦_The_Movie.md "wikilink")[特命戰隊Go
 Busters VS 海賊戰隊豪快者 THE
-MOVIE之後第三度](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")，有戰隊的前輩回鍋出演。連同同樣為恐龍系戰隊的[恐龍戰隊獸連者及](../Page/恐龍戰隊獸連者.md "wikilink")[爆龍戰隊暴連者四大戰隊夢幻共演](../Page/爆龍戰隊暴連者.md "wikilink")。如果不把[199英雄大決戰這部紀念電影算進去](../Page/豪快者_護星者_超級戰隊199英雄大決戰.md "wikilink")，可說是戰隊VS系列及超級戰隊祭中陣容最豪華的一次。
+MOVIE之後第三度](../Page/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE.md "wikilink")，有戰隊的前輩回鍋出演。連同同樣為恐龍系戰隊的[恐龍戰隊獸連者](../Page/恐龍戰隊獸連者.md "wikilink")及[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")四大戰隊夢幻共演。如果不把[199英雄大決戰這部紀念電影算進去](../Page/豪快者_護星者_超級戰隊199英雄大決戰.md "wikilink")，可說是戰隊VS系列及超級戰隊祭中陣容最豪華的一次。
 
 另外本次在劇情設定上，與前作《特命戰隊Go Busters VS 海賊戰隊豪快者 THE
 MOVIE》也所連結\[1\]，而在新戰隊登場畫面，首次將其移至片尾曲之後。

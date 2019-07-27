@@ -24,7 +24,7 @@
     [美布噻嗪](https://zh.wikipedia.org/wiki/美布噻嗪 "wikilink")（Mebutizide）
     QC03AA56 三氯噻嗪（Trichlormethiazide, combinations）
 
-### C03AB 噻嗪类和[钾复方](../Page/钾.md "wikilink")（Thiazides and potassium in combination）
+### C03AB 噻嗪类和[钾](../Page/钾.md "wikilink")复方（Thiazides and potassium in combination）
 
   -
     C03AB01 噻嗪类和钾复方（Bendroflumethiazide and potassium）
@@ -50,7 +50,7 @@
 
 ## C03B 非噻嗪类低限量利尿药（Low-ceiling diuretics, excluding thiazides）
 
-### C03BA [磺胺类](../Page/磺胺.md "wikilink"),单方（Sulfonamides, plain）
+### C03BA [磺胺](../Page/磺胺.md "wikilink")类,单方（Sulfonamides, plain）
 
   -
     C03BA02
@@ -93,7 +93,7 @@
   -
     C03BC01 [汞撒利](../Page/汞撒利.md "wikilink")（Mersalyl）
 
-### C03BD [黄嘌呤衍生物](../Page/黄嘌呤.md "wikilink")（Xanthine derivatives）
+### C03BD [黄嘌呤](../Page/黄嘌呤.md "wikilink")衍生物（Xanthine derivatives）
 
   -
     C03BD01 [可可碱](../Page/可可碱.md "wikilink")（Theobromine）

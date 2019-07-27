@@ -1,7 +1,7 @@
 [S1M0_S2M0_S3M0.png](https://zh.wikipedia.org/wiki/File:S1M0_S2M0_S3M0.png "fig:S1M0_S2M0_S3M0.png")
-在[化學與](../Page/化學.md "wikilink")[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**s軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")0，[磁量子數也為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")0，且每個[殼層裡只有一個s軌域](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")。
+在[化學](../Page/化學.md "wikilink")與[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**s軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")0，[磁量子數也為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")0，且每個[殼層裡只有一個s軌域](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")。
 
-s軌域是最穩定的[軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，s軌道是圍繞[原子核旋轉的](../Page/原子核.md "wikilink")[電子軌道中最靠近](https://zh.wikipedia.org/wiki/電子軌道 "wikilink")[原子核或內殼層的一層](../Page/原子核.md "wikilink")[軌域](../Page/原子轨道.md "wikilink")，包含兩個電子，具有最低的[能量](../Page/能量.md "wikilink")，其[電子出現](https://zh.wikipedia.org/wiki/電子 "wikilink")[密度的](../Page/密度.md "wikilink")[形狀是](../Page/形狀.md "wikilink")[球狀對稱的](https://zh.wikipedia.org/wiki/球狀對稱 "wikilink")，換句話說，s軌域是一個[球形的軌域](https://zh.wikipedia.org/wiki/球形 "wikilink")。
+s軌域是最穩定的[軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，s軌道是圍繞[原子核](../Page/原子核.md "wikilink")旋轉的[電子軌道中最靠近](https://zh.wikipedia.org/wiki/電子軌道 "wikilink")[原子核](../Page/原子核.md "wikilink")或內殼層的一層[軌域](../Page/原子轨道.md "wikilink")，包含兩個電子，具有最低的[能量](../Page/能量.md "wikilink")，其[電子出現](https://zh.wikipedia.org/wiki/電子 "wikilink")[密度](../Page/密度.md "wikilink")的[形狀](../Page/形狀.md "wikilink")是[球狀對稱的](https://zh.wikipedia.org/wiki/球狀對稱 "wikilink")，換句話說，s軌域是一個[球形的軌域](https://zh.wikipedia.org/wiki/球形 "wikilink")。
 
 s軌域間可相互形成[σ軌域](https://zh.wikipedia.org/wiki/σ軌域 "wikilink")，但無法形成[π軌域](https://zh.wikipedia.org/wiki/π軌域 "wikilink")。
 
@@ -15,11 +15,11 @@ s軌域的 s 是指 Sharp ，其為「銳系光譜」之意。
 
 [S_states.jpg](https://zh.wikipedia.org/wiki/File:S_states.jpg "fig:S_states.jpg")
 [S7M0.png](https://zh.wikipedia.org/wiki/File:S7M0.png "fig:S7M0.png")
-1s軌域是球狀對稱，2s、3s軌域亦是球狀對稱，事實上，所有s軌域、每個[能階](https://zh.wikipedia.org/wiki/能階 "wikilink")、[殼層上的s軌域都是球狀對稱的](../Page/殼層.md "wikilink")，因為s軌域只有一種[形狀](../Page/形狀.md "wikilink")。
+1s軌域是球狀對稱，2s、3s軌域亦是球狀對稱，事實上，所有s軌域、每個[能階](https://zh.wikipedia.org/wiki/能階 "wikilink")、[殼層](../Page/殼層.md "wikilink")上的s軌域都是球狀對稱的，因為s軌域只有一種[形狀](../Page/形狀.md "wikilink")。
 
-2s、3s軌域的電子出現[概率函數為](https://zh.wikipedia.org/wiki/概率函數 "wikilink")\(4\pi r^2 \varphi^2_{2s}\)與\(4\pi r^2 \varphi^2_{3s}\)，如圖可以看出s軌域的電子出現概率隨著與[原子核](../Page/原子核.md "wikilink")[距離r的變動情形](https://zh.wikipedia.org/wiki/距離 "wikilink")，以2s軌域為例，2s軌域再靠近[原子核的地方有很高的](../Page/原子核.md "wikilink")[電子出現](https://zh.wikipedia.org/wiki/電子 "wikilink")[概率](../Page/概率.md "wikilink")，然後隨距離增加而減少，到了某個地帶時降至0，隨後隨著距離的增加又增加，然後到離原子核甚遠的地方又為0，這種電子出現概率為0的區域稱為波節或波節面，s軌域的波節呈球形的，且數目隨著[主量子數的增加而增加](../Page/主量子數.md "wikilink")，如：3s軌域有2個波節、4s軌域有3個波節。
+2s、3s軌域的電子出現[概率函數為](https://zh.wikipedia.org/wiki/概率函數 "wikilink")\(4\pi r^2 \varphi^2_{2s}\)與\(4\pi r^2 \varphi^2_{3s}\)，如圖可以看出s軌域的電子出現概率隨著與[原子核](../Page/原子核.md "wikilink")[距離r的變動情形](https://zh.wikipedia.org/wiki/距離 "wikilink")，以2s軌域為例，2s軌域再靠近[原子核](../Page/原子核.md "wikilink")的地方有很高的[電子出現](https://zh.wikipedia.org/wiki/電子 "wikilink")[概率](../Page/概率.md "wikilink")，然後隨距離增加而減少，到了某個地帶時降至0，隨後隨著距離的增加又增加，然後到離原子核甚遠的地方又為0，這種電子出現概率為0的區域稱為波節或波節面，s軌域的波節呈球形的，且數目隨著[主量子數](../Page/主量子數.md "wikilink")的增加而增加，如：3s軌域有2個波節、4s軌域有3個波節。
 
-因此當n增加時，電子分佈的範圍也越大，離[原子核愈遠](../Page/原子核.md "wikilink")，換言之，s軌域的大小會隨著主量子數的增加而增加。
+因此當n增加時，電子分佈的範圍也越大，離[原子核](../Page/原子核.md "wikilink")愈遠，換言之，s軌域的大小會隨著主量子數的增加而增加。
 
 ## 電子波
 
@@ -43,7 +43,7 @@ s軌域具有最低能量，因此電子會先填滿s軌域，因此幾乎所有
 
 s區元素是指這些元素中具有最高能量的電子是填在s軌域上的，[s區元素主要包括元素周期表中](https://zh.wikipedia.org/wiki/s區元素 "wikilink")[IA族元素和](../Page/碱金属.md "wikilink")[IIA族元素](../Page/碱土金属.md "wikilink")，IA族元素包括氫、鋰、鈉、鉀、銣、銫、鍅七種元素，由於鈉和鉀等金屬的氫氧化物是典型的鹼，因此除氫外的這六種元素又稱鹼金屬，IIA族元素包括鈹、鎂、鈣、鍶、鋇、鐳六種元素，由於鈣，鍶，鋇的氧化物之性質介於鹼金屬與稀土元素之間，因此又稱鹼土金屬。
 
-由於[氦的](../Page/氦.md "wikilink")[電子排布為](https://zh.wikipedia.org/wiki/電子排布 "wikilink")1s<sup>2</sup>，故被分為**S区元素**。
+由於[氦](../Page/氦.md "wikilink")的[電子排布為](https://zh.wikipedia.org/wiki/電子排布 "wikilink")1s<sup>2</sup>，故被分為**S区元素**。
 
 ## 混成軌域
 

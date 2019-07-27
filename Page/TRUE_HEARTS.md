@@ -1,5 +1,5 @@
 《**TRUE
-HEARTS**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[蒼井翔太第](../Page/蒼井翔太.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2014年8月6日由[b-green發售](https://zh.wikipedia.org/wiki/b-green "wikilink")，商品番號QECB-90065（初回限定盤A）QECB-90066（初回限定盤B）QECB-65（通常盤）。
+HEARTS**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[蒼井翔太](../Page/蒼井翔太.md "wikilink")第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2014年8月6日由[b-green發售](https://zh.wikipedia.org/wiki/b-green "wikilink")，商品番號QECB-90065（初回限定盤A）QECB-90066（初回限定盤B）QECB-65（通常盤）。
 
 ## 解説
 

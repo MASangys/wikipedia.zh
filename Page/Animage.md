@@ -1,8 +1,8 @@
-為1978年5月26日由[德間書店發行](../Page/德間書店.md "wikilink")、並為[日本第一個專門](../Page/日本.md "wikilink")[動畫雜誌](../Page/動畫雜誌.md "wikilink")。\[1\]多以「AM」或「」來簡稱。
+為1978年5月26日由[德間書店](../Page/德間書店.md "wikilink")發行、並為[日本](../Page/日本.md "wikilink")第一個專門[動畫雜誌](../Page/動畫雜誌.md "wikilink")。\[1\]多以「AM」或「」來簡稱。
 
 ## 概要
 
-《Animage》由當時德間書店雜誌編輯長[尾形英夫提議發行](../Page/尾形英夫.md "wikilink")，創辦的契機來自尾形英夫膝下喜愛觀賞動畫《[宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")》的兒子所影響。\[2\]而《Animage》創刊號所報導的主題即為《宇宙戰艦大和號》。\[3\]
+《Animage》由當時德間書店雜誌編輯長[尾形英夫](../Page/尾形英夫.md "wikilink")提議發行，創辦的契機來自尾形英夫膝下喜愛觀賞動畫《[宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")》的兒子所影響。\[2\]而《Animage》創刊號所報導的主題即為《宇宙戰艦大和號》。\[3\]
 
 《Animage》的名稱來自於尾形英夫將「Animation」（動畫）及「Image」（圖像）兩個[單字所合併的原創字彙](https://zh.wikipedia.org/wiki/單字 "wikilink")。\[4\]封面的名稱自創刊到1998年時期皆以此字彙的日語拼音「」來標示，而1998年6月至2002年6月間曾一度改為英語拼音的「Animage」，後續仍換回日語拼音的「」至2015年5月。
 
@@ -35,14 +35,14 @@
   - [東京物語](../Page/東京物語.md "wikilink")（1987～1992）：[福山慶子著](https://zh.wikipedia.org/wiki/福山慶子 "wikilink")
   - D\[di:\]（1989～1990）：[洞澤由美子著](https://zh.wikipedia.org/wiki/洞澤由美子 "wikilink")
   - [小魔女得意妹](../Page/小魔女得意妹.md "wikilink")（1992～1994）：[SUEZEN](https://zh.wikipedia.org/wiki/SUEZEN "wikilink")（飯田史雄）著
-  - 賽拉弗2億6661萬3336之翼（1994～1995）：[今敏著](../Page/今敏.md "wikilink")（押井守原作，未完結）
+  - 賽拉弗2億6661萬3336之翼（1994～1995）：[今敏](../Page/今敏.md "wikilink")著（押井守原作，未完結）
   - KAZE：[神崎將臣著](https://zh.wikipedia.org/wiki/神崎將臣 "wikilink")
-  - [貓男爵](https://zh.wikipedia.org/wiki/貓的報恩#原作漫畫 "wikilink")：[柊葵著](../Page/柊葵.md "wikilink")
+  - [貓男爵](https://zh.wikipedia.org/wiki/貓的報恩#原作漫畫 "wikilink")：[柊葵](../Page/柊葵.md "wikilink")著
 
 **小說**
 
-  - [海潮之聲](https://zh.wikipedia.org/wiki/海潮之聲#原著小說 "wikilink")（1990～1992）：[冰室冴子著](../Page/冰室冴子.md "wikilink")，插畫：[近藤勝也](../Page/近藤勝也.md "wikilink")
-  - [機動戰士鋼彈Hi-Streamer](https://zh.wikipedia.org/wiki/機動戰士鋼彈Hi-Streamer "wikilink")：[富野由悠季著](../Page/富野由悠季.md "wikilink")，插畫：[星野之宣](../Page/星野之宣.md "wikilink")
+  - [海潮之聲](https://zh.wikipedia.org/wiki/海潮之聲#原著小說 "wikilink")（1990～1992）：[冰室冴子](../Page/冰室冴子.md "wikilink")著，插畫：[近藤勝也](../Page/近藤勝也.md "wikilink")
+  - [機動戰士鋼彈Hi-Streamer](https://zh.wikipedia.org/wiki/機動戰士鋼彈Hi-Streamer "wikilink")：[富野由悠季](../Page/富野由悠季.md "wikilink")著，插畫：[星野之宣](../Page/星野之宣.md "wikilink")
 
 ## 叢書類型
 
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   -
-    內容偏向美少女遊戲、[萌類型動畫刊物](../Page/萌.md "wikilink")，發行時間不定。
+    內容偏向美少女遊戲、[萌](../Page/萌.md "wikilink")類型動畫刊物，發行時間不定。
 
 ## 相關媒體
 
@@ -117,7 +117,7 @@
 <!-- end list -->
 
   -
-    每月播放一次的節目，以介紹《Animage》雜誌、最新動畫消息為主。節目解說由聲優[石田彰及](../Page/石田彰.md "wikilink")[小島幸子擔任](../Page/小島幸子.md "wikilink")。
+    每月播放一次的節目，以介紹《Animage》雜誌、最新動畫消息為主。節目解說由聲優[石田彰](../Page/石田彰.md "wikilink")及[小島幸子](../Page/小島幸子.md "wikilink")擔任。
 
 **廣播**
 
@@ -142,7 +142,7 @@
 <!-- end list -->
 
   -
-    皆由聲優[飯塚雅弓擔任主持的節目](../Page/飯塚雅弓.md "wikilink")，分別在1997～1998年、1998～2001年於[株式會社文化放送播放](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")。
+    皆由聲優[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")擔任主持的節目，分別在1997～1998年、1998～2001年於[株式會社文化放送播放](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")。
 
 <!-- end list -->
 
@@ -166,7 +166,7 @@
 <!-- end list -->
 
   -
-    2004年6月23日由聲優[檜山修之在](../Page/檜山修之.md "wikilink")[音泉上放送](../Page/音泉.md "wikilink")。
+    2004年6月23日由聲優[檜山修之](../Page/檜山修之.md "wikilink")在[音泉](../Page/音泉.md "wikilink")上放送。
 
 ## 參考資料
 

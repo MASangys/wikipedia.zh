@@ -3,7 +3,7 @@
 ## 歷史
 
   - 1986年 -
-    龜山敬司於日本[石川縣影像租賃店並創立KC股份有限公司](../Page/石川縣.md "wikilink")（現[DMM.com
+    龜山敬司於日本[石川縣](../Page/石川縣.md "wikilink")影像租賃店並創立KC股份有限公司（現[DMM.com
     Base](https://zh.wikipedia.org/wiki/DMM.com_Base "wikilink")）作為母公司。
   - 1990年 -
     成立北都集團(現[CA集團](../Page/CA集團.md "wikilink"))開始[成人影像版權業務](https://zh.wikipedia.org/wiki/成人影片 "wikilink")。
@@ -22,7 +22,7 @@
       - 4月 -
         開始[DVD線上租片服務](https://zh.wikipedia.org/wiki/DVD "wikilink")。
       - 7月4日 - 由 Digtal Media
-        Mart開發的線上影音、[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、[電子書網站](../Page/電子書.md "wikilink")「DMM.com」開始營運。
+        Mart開發的線上影音、[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、[電子書](../Page/電子書.md "wikilink")網站「DMM.com」開始營運。
   - 2004年 - 開始月額影片看到飽服務。開始電子書服務。
   - 2005年 - 線上租片服務除了影像外增加音樂[CD](../Page/CD.md "wikilink")、漫畫租借服務。
   - 2007年6月 - BtoB Market Place 公開。
@@ -82,8 +82,8 @@
       - 8月 - 日本地區及數量限定販賣「DMM冰」 。
       - 11月 -
         開始提供[VR影片](https://zh.wikipedia.org/wiki/VR "wikilink")[串流服務](https://zh.wikipedia.org/wiki/串流 "wikilink")。
-      - 11月11日 - 於日本[秋葉原開設](../Page/秋葉原.md "wikilink")「DMM.make
-        AKIBA」，支援各項發明及硬體、[人工智能發等](../Page/人工智能.md "wikilink")。
+      - 11月11日 - 於日本[秋葉原](../Page/秋葉原.md "wikilink")開設「DMM.make
+        AKIBA」，支援各項發明及硬體、[人工智能](../Page/人工智能.md "wikilink")發等。
       - 12月 - DMM mobile 開始營運。
   - 2015年
       - 1月 - DMM.make ROBOTS開始營運。
@@ -109,7 +109,7 @@
       - 5月 - DMM線上演講開始營運。
       - 6月 - DMM Starter服務開始營運。
       - 7月 -
-        由[富士電視台所舉辦的](../Page/富士電視台.md "wikilink")「夢大陸2016」遊樂園區内，由DMM.com、Team
+        由[富士電視台](../Page/富士電視台.md "wikilink")所舉辦的「夢大陸2016」遊樂園區内，由DMM.com、Team
         Labo、富士電視台共同舉辦「DMM.Planet Art by teamLab」視覺藝術展覽。
       - 9月 - 受到人權團體「Human Rights
         Now」的兒童保護法相關報告書內提出指摘，所有於影片製作時未滿18歲的藝人及女優、[寫真女星等所有演出的影像及發佈流通全面停止](https://zh.wikipedia.org/wiki/寫真 "wikilink")。
@@ -124,18 +124,18 @@
       - 1月27日 - DMM.com取得PicApp股份有限公司及Nana Music的全部股權並納入集團內成為子公司。
       - 2月 - DMM.com取得Synapse股份有限公司全部股權並納入集團內成為子公司。
       - 3月 -
-        集團總部由惠比壽搬遷至日本[東京港區](../Page/東京港.md "wikilink")[六本木](../Page/六本木.md "wikilink")「六本木Grand
+        集團總部由惠比壽搬遷至日本[東京港](../Page/東京港.md "wikilink")區[六本木](../Page/六本木.md "wikilink")「六本木Grand
         Tower」。
       - 4月 -
         DMM.com取得於[盧旺達共和國進行軟體開發及營運的HEHE](https://zh.wikipedia.org/wiki/盧旺達 "wikilink")
         LABS股份有限公司全部股權並納入集團內成為子公司。
       - 4月 - DMM.com出資AC GROUP
-        Ltd.於盧旺達共和國提供公共交通非接觸式電子票證系統[智慧卡服務](../Page/智慧卡.md "wikilink")。
+        Ltd.於盧旺達共和國提供公共交通非接觸式電子票證系統[智慧卡](../Page/智慧卡.md "wikilink")服務。
       - 4月26日 - 於PlayStation 4上所提供的影片串流軟體正式對應[PlayStation
         VR](../Page/PlayStation_VR.md "wikilink")。
       - 5月 - DMM集團內各公司管理部門業務由原DMM.com Base股份有限公司交由DMM控股集團（現：DG控股集團）進行管理。
       - 6月 -
-        DMM集團成立足球事業部，並取得有參與營運[比利時足球甲級聯賽的STVV股份有限公司的部份股份](../Page/比利時足球甲級聯賽.md "wikilink")，成為商業夥伴。
+        DMM集團成立足球事業部，並取得有參與營運[比利時足球甲級聯賽](../Page/比利時足球甲級聯賽.md "wikilink")的STVV股份有限公司的部份股份，成為商業夥伴。
       - 7月 - 提供PC遊戲月付定額任玩的「DMM GAMES PREMIUM」上線提供服務。
       - 8月 - DMM集團出資Onokuwa股份有限公司，該公司以開發使用原始加密貨幣的創建者支持服務。
       - 11月 - DMM集團發表新聞稿表示取得比利時足球甲級聯賽經營權。

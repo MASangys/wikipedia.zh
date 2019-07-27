@@ -1,6 +1,6 @@
 **JJ
-Project**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2012年推出的雙人男子團體，成員包括[JB及](../Page/林在範.md "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")（舊藝名為Jr.、Junior）。團名由[朴軫永命名](../Page/朴軫永.md "wikilink")，JJ為團員JB以及Jr.的兩個J，Project意味著兩人出道後能與粉絲一同成長\[1\]，合在一起即為團名JJ
-Project。2014年1月16日，JB與珍榮作為[GOT7成員出道](../Page/GOT7.md "wikilink")。
+Project**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2012年推出的雙人男子團體，成員包括[JB及](../Page/林在範.md "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")（舊藝名為Jr.、Junior）。團名由[朴軫永](../Page/朴軫永.md "wikilink")命名，JJ為團員JB以及Jr.的兩個J，Project意味著兩人出道後能與粉絲一同成長\[1\]，合在一起即為團名JJ
+Project。2014年1月16日，JB與珍榮作為[GOT7](../Page/GOT7.md "wikilink")成員出道。
 
 ## 成員資料
 
@@ -15,7 +15,7 @@ Project。2014年1月16日，JB與珍榮作為[GOT7成員出道](../Page/GOT7.md
 
 ### 出道前
 
-2009年，JB與珍榮通過[JYP娛樂公開甄選](../Page/JYP娛樂.md "wikilink")，勝出共同成為第一名後，成為旗下練習生\[2\]。2012年，兩人一同出演[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Dream
+2009年，JB與珍榮通過[JYP娛樂](../Page/JYP娛樂.md "wikilink")公開甄選，勝出共同成為第一名後，成為旗下練習生\[2\]。2012年，兩人一同出演[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Dream
 High
 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")》率先以演員出道。2月3日，宣布JB與珍榮將正式於2012年下半年出道。\[3\]
 
@@ -27,12 +27,12 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首次演出�
 Na Na〉並在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《MM
 Choice》中演出。\[8\]
 
-2014年1月16日，JB與珍榮作為[GOT7成員出道](../Page/GOT7.md "wikilink")。\[9\]
+2014年1月16日，JB與珍榮作為[GOT7](../Page/GOT7.md "wikilink")成員出道。\[9\]
 
 ### 2017年：回歸
 
 2017年6月26日，時隔5年多沒有回歸的JJ
-Project確定在2017年7月31日回歸\[10\]\[11\]\[12\]。7月15日，在[GOT7官方網站](../Page/GOT7.md "wikilink")、臉書、推特同步公開回歸日程表，並於7月21日陸續公開專輯曲目清單\[13\]。7月31日，正式攜帶迷你專輯《[Verse
+Project確定在2017年7月31日回歸\[10\]\[11\]\[12\]。7月15日，在[GOT7](../Page/GOT7.md "wikilink")官方網站、臉書、推特同步公開回歸日程表，並於7月21日陸續公開專輯曲目清單\[13\]。7月31日，正式攜帶迷你專輯《[Verse
 2](../Page/Verse_2.md "wikilink")》回歸並於當日舉行Showcase，主打歌為〈明天，今天〉，此外也在7月31日至8月6日期間舉行攝影展。\[14\]
 9月8日，《Verse2》銷量在Hanteo榜累計破十萬，Gaon榜截至8月底累計銷量116,404張，至此《Verse2》成為2017年第14張銷量破十萬的專輯，JJ
 Project成為2017年第12組銷量破十萬的藝人，也成為Hanteo榜成立以來第2組擁有十萬銷量的二人組\[15\]。

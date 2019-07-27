@@ -1,5 +1,5 @@
 **VEGAS Pro**
-曾是[索尼推出的一款](../Page/索尼.md "wikilink")[非线性编辑软件](../Page/非線性剪輯.md "wikilink")，現在由MAGIX開發及推出。最初由
+曾是[索尼](../Page/索尼.md "wikilink")推出的一款[非线性编辑软件](../Page/非線性剪輯.md "wikilink")，現在由MAGIX開發及推出。最初由
 [Sonic
 Foundry](../Page/Sonic_Foundry.md "wikilink")（已被索尼收购\[1\]）开发，2003年至2016年間由索尼旗下子公司[Sony
 Creative

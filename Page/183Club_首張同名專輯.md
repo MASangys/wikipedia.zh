@@ -1,4 +1,4 @@
-《**183CLUB首張同名專輯**》是[台灣男子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[183club的首張專輯](../Page/183club.md "wikilink")，唱片共收錄10首歌曲。於2006年8月4日正式發行，亞洲慶功典藏版CD+DVD於2006年9月8日改版發行。DVD內容加贈一把傘、I'm
+《**183CLUB首張同名專輯**》是[台灣男子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[183club](../Page/183club.md "wikilink")的首張專輯，唱片共收錄10首歌曲。於2006年8月4日正式發行，亞洲慶功典藏版CD+DVD於2006年9月8日改版發行。DVD內容加贈一把傘、I'm
 So Hot、再一遍3首完整版MV以及王子私密大公開特輯。
 
 ## 曲目

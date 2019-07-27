@@ -1,4 +1,4 @@
-**Root**是[Android系统的一个术语](../Page/Android.md "wikilink")，它使得用户可以获取[Android](../Page/Android.md "wikilink")[操作系统的](../Page/操作系统.md "wikilink")[超级用户权限](../Page/超级用户.md "wikilink")。Root能夠帮助用户越过手机制造商的限制，得以卸载本身预装的程式，或執行需要系統權限的動作。Android系统的Root與[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS系统的](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱类似](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。
+**Root**是[Android](../Page/Android.md "wikilink")系统的一个术语，它使得用户可以获取[Android](../Page/Android.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的[超级用户](../Page/超级用户.md "wikilink")权限。Root能夠帮助用户越过手机制造商的限制，得以卸载本身预装的程式，或執行需要系統權限的動作。Android系统的Root與[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS系统的](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱类似](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。
 
 ## 原理
 
@@ -27,7 +27,7 @@ shell运行漏洞利用程序。亦有部分工具能直接在Android设备上�
 為避免資安風險，以[Google Pay与三星的](../Page/Google_Pay.md "wikilink")[Samsung
 Pay为首的内核级支付系统](https://zh.wikipedia.org/wiki/三星智付 "wikilink")，不允許Root過的手機執行，
 
-2017年9月，[魅族宣布旗下各机型的](https://zh.wikipedia.org/wiki/魅族 "wikilink")[Flyme系统将停用开放Root功能](../Page/Flyme.md "wikilink")，且以后不再开放\[7\]。但在2018年7月，[魅族时任CEO](https://zh.wikipedia.org/wiki/魅族 "wikilink")[黄章下令Flyme彻底开放Root授权](../Page/黄章.md "wikilink")\[8\]
+2017年9月，[魅族宣布旗下各机型的](https://zh.wikipedia.org/wiki/魅族 "wikilink")[Flyme](../Page/Flyme.md "wikilink")系统将停用开放Root功能，且以后不再开放\[7\]。但在2018年7月，[魅族时任CEO](https://zh.wikipedia.org/wiki/魅族 "wikilink")[黄章](../Page/黄章.md "wikilink")下令Flyme彻底开放Root授权\[8\]
 
 ## 参见
 

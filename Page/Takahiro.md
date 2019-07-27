@@ -1,11 +1,11 @@
-**TAKAHIRO**（），日本男[歌手](../Page/歌手.md "wikilink")，[EXILE主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")。[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[下關市出生](https://zh.wikipedia.org/wiki/下關市 "wikilink")\[1\]，於[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[佐世保市成長](../Page/佐世保市.md "wikilink")。身高180cm。其妻為演員[武井咲](../Page/武井咲.md "wikilink")。
+**TAKAHIRO**（），日本男[歌手](../Page/歌手.md "wikilink")，[EXILE主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")。[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[下關市出生](https://zh.wikipedia.org/wiki/下關市 "wikilink")\[1\]，於[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[佐世保市](../Page/佐世保市.md "wikilink")成長。身高180cm。其妻為演員[武井咲](../Page/武井咲.md "wikilink")。
 
 ## 來歷
 
 沖縄空手道（日本武道館全國大會團體戰出場，獲得第五名）有段者。為了繼承雙親之事業從長崎縣美容専科学校畢業後有在美容室「MINX」實習的時期。也有當雜誌髮型模特兒的經驗。特技有空手道（黑帶-初段）、書道（八段）、喜歡繪畫和演歌，20歲左右開始常常晚上聽著演歌(主要聽前川清、五木宏)。
 
 參加了隨著SHUN的退團而舉辦的徵選「EXILE Vocal Battle Audition 2006〜ASIAN
-DREAM〜」，在2006年9月22日稱霸於[日本武道館舉行的最終審核](../Page/日本武道館.md "wikilink")，以新主唱、第7位成員的身分加入EXILE。
+DREAM〜」，在2006年9月22日稱霸於[日本武道館](../Page/日本武道館.md "wikilink")舉行的最終審核，以新主唱、第7位成員的身分加入EXILE。
 
 2007年3月1日在TAKAHIRO的母校長崎縣立佐世保東翔高等學校的畢業典禮上舉行了驚喜現場演唱。
 
@@ -20,7 +20,7 @@ SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")」(黑桃ACE)。
 2013年6月26日、以**EXILE
 TAKAHIRO**身份發行單曲「[一千零一秒](../Page/一千零一秒.md "wikilink")」作個人出道。
 
-2014年以1月開始的[日本電視台電視連續劇](../Page/日本電視台.md "wikilink")『[戰力外搜查官](../Page/戰力外搜查官.md "wikilink")』演員出道。3月5日，發行以自己有份參加演出『戰力外搜查官』的主題曲、第2張單曲「[Love
+2014年以1月開始的[日本電視台](../Page/日本電視台.md "wikilink")電視連續劇『[戰力外搜查官](../Page/戰力外搜查官.md "wikilink")』演員出道。3月5日，發行以自己有份參加演出『戰力外搜查官』的主題曲、第2張單曲「[Love
 Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始擔任富士電視台系列「[森田一義アワー
 笑っていいとも\!](https://zh.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」的後續新節目『[バイキング](https://zh.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")』星期二的司儀，由他及NAOTO每週交替擔當。
 
@@ -28,10 +28,10 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
   - 專業學生時代時於福岡縣美容技術錦標賽中獲得冠軍\[2\]並獲得賞金100萬日元。這賞金用了作與比賽時當模特的妹妹一起去[夏威夷旅行之用](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")\[3\]。畢業後曾有在美容室「MINX」做過見習，也有擔任過[真鍋香織的洗髮](https://zh.wikipedia.org/wiki/真鍋香織 "wikilink")\[4\]。
   - 拿手的技術是[沖繩空手道](../Page/空手道.md "wikilink")(初段)\[5\]和[書道](https://zh.wikipedia.org/wiki/書道 "wikilink")(八段)。
-  - 於[日本電視台的選抜節目](../Page/日本電視台.md "wikilink")『[歌スタ\!\!](https://zh.wikipedia.org/wiki/歌スタ!! "wikilink")』中合格\[6\]。
+  - 於[日本電視台](../Page/日本電視台.md "wikilink")的選抜節目『[歌スタ\!\!](https://zh.wikipedia.org/wiki/歌スタ!! "wikilink")』中合格\[6\]。
   - 2007年3月1日，為母校[長崎縣立佐世保東翔高級中學的畢業典禮進行驚喜現場演唱](https://zh.wikipedia.org/wiki/長崎縣立佐世保東翔高級中學 "wikilink")\[7\]。
-  - [GLAY的歌迷](../Page/GLAY.md "wikilink")\[8\]。
-  - 2015年因拍攝電視劇《[戦力外捜査官〜SPECIAL](../Page/戰力外搜查官.md "wikilink")》而與[武井咲傳出戀情](../Page/武井咲.md "wikilink")，並數度被週刊報導。2017年9月1日，兩人聯合發布親筆聲明，表示交往兩年半，已於2017年9月1日結婚入籍，妻子武井當時已懷有3個月的身孕\[9\]。
+  - [GLAY](../Page/GLAY.md "wikilink")的歌迷\[8\]。
+  - 2015年因拍攝電視劇《[戦力外捜査官〜SPECIAL](../Page/戰力外搜查官.md "wikilink")》而與[武井咲](../Page/武井咲.md "wikilink")傳出戀情，並數度被週刊報導。2017年9月1日，兩人聯合發布親筆聲明，表示交往兩年半，已於2017年9月1日結婚入籍，妻子武井當時已懷有3個月的身孕\[9\]。
 
 ## 参加團體
 

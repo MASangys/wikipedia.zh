@@ -1,5 +1,5 @@
 《**BAD
-COMMUNICATION**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[1989年](../Page/1989年.md "wikilink")[10月21日由](../Page/10月21日.md "wikilink")[BMG
+COMMUNICATION**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")於[1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")由[BMG
 VICTOR發行的首張迷你專輯](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。本專輯即使在BMG
 ROOMS（現：[VERMILLION
 RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）成立後，發售權亦留在了BMG
@@ -11,7 +11,7 @@ JAPAN。
   - 在榜週數達到了163週(1989年10月30日\~1993年9月20日)，為B'z所有作品在榜週數最長的一張。
   - 初發行時反應並不熱烈（首週僅銷售8700張），B'z逐漸出名後此專輯才受到關注，之後BAD
     COMMUNICATION一曲在舞廳大受歡迎便開始熱賣，一直到1992年3月9日，發行約2年半後銷量突破百萬。
-  - 首週排名12名，為[Oricon所有百萬銷量唱片中](../Page/Oricon.md "wikilink")，唯二首週排名沒有打進前10名的唱片(另外一張為[Mr.Children第](../Page/Mr.Children.md "wikilink")2張專輯[Kind
+  - 首週排名12名，為[Oricon](../Page/Oricon.md "wikilink")所有百萬銷量唱片中，唯二首週排名沒有打進前10名的唱片(另外一張為[Mr.Children](../Page/Mr.Children.md "wikilink")第2張專輯[Kind
     of Love](../Page/Kind_of_Love.md "wikilink"))。
   - 最終銷量約118.2萬張，為日本最暢銷專輯第211名。
 

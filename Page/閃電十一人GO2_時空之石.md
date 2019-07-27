@@ -1,5 +1,5 @@
 《**閃電十一人GO2 時空之石
-熱風/雷鳴**》（）由[LEVEL-5推出閃電十一人GO的第二作](../Page/LEVEL-5.md "wikilink")，並將平台設置在[任天堂3DS遊戲](../Page/任天堂3DS.md "wikilink")。可與《[閃電十一人1.2.3\!\!
+熱風/雷鳴**》（）由[LEVEL-5](../Page/LEVEL-5.md "wikilink")推出閃電十一人GO的第二作，並將平台設置在[任天堂3DS](../Page/任天堂3DS.md "wikilink")遊戲。可與《[閃電十一人1.2.3\!\!
 圓堂守傳說](https://zh.wikipedia.org/wiki/閃電十一人1.2.3!!_圓堂守傳說 "wikilink")》作連動。
 
 ## 角色列表

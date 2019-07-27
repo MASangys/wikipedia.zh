@@ -1,5 +1,5 @@
 是由[任天堂开发第一部和](https://zh.wikipedia.org/wiki/任天堂开发第一部 "wikilink")[Intelligent
-Systems开发](../Page/Intelligent_Systems.md "wikilink")，并由[任天堂在全球](../Page/任天堂.md "wikilink")[Game
+Systems开发](../Page/Intelligent_Systems.md "wikilink")，并由[任天堂](../Page/任天堂.md "wikilink")在全球[Game
 Boy发行的](../Page/Game_Boy.md "wikilink")[打砖块类](https://zh.wikipedia.org/wiki/打砖块 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")\[1\]，游戏也是该平台最早开发及发行的四款游戏之一。游戏首先于1989年在日本发行\[2\]，随后于年末在北美发售，在欧洲则于1990年发行。在2011年，游戏于[任天堂3DS](../Page/任天堂3DS.md "wikilink")
 [Virtual
 Console上重新发布](../Page/Virtual_Console.md "wikilink")，人们可以通过网络下载。
@@ -45,7 +45,7 @@ Console系统的首发游戏再发行](../Page/Virtual_Console.md "wikilink")，
 Boy系统上，虽然原始包装盒和卡带上的图画身着宇航服的飞船驾驶员无法判定；但在国际版发行时图画改为了马里奥，但手册和包装背面都没有表示这个任天堂的吉祥物在游戏中出现\[34\]\[35\]。在《[任天堂力量](../Page/任天堂力量.md "wikilink")》的预告中，除了第一个奖励关卡中砖块的排列为马里奥形状外，再没有其他地方提到马里奥\[36\]。在1990年《[Club
 Nintendo](https://zh.wikipedia.org/wiki/Club_Nintendo "wikilink")》欧洲发行版的预告中，官方才首次确认飞行员为马里奥\[37\]。
 
-游戏是[任天堂研究与开发1部制作的首批游戏](https://zh.wikipedia.org/wiki/任天堂研究与开发1部 "wikilink")，另外还有两款游戏《俄罗斯方块》和《[雷达任务](https://zh.wikipedia.org/wiki/雷达任务 "wikilink")》。翌年，游戏设计师[横井军平重新利用游戏的大部分](https://zh.wikipedia.org/wiki/横井军平 "wikilink")[源码](../Page/源代码.md "wikilink")（如挡板的行为和改编的[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")），和[宫本茂团队合作开发了](../Page/宫本茂.md "wikilink")《[卡比砖块球](https://zh.wikipedia.org/wiki/卡比砖块球 "wikilink")》\[38\]。《Alleyway》为下载至[任天堂动力卡带而再发行](https://zh.wikipedia.org/wiki/任天堂动力_\(卡带\) "wikilink")，其占用了设备的一个储存区\[39\]。
+游戏是[任天堂研究与开发1部制作的首批游戏](https://zh.wikipedia.org/wiki/任天堂研究与开发1部 "wikilink")，另外还有两款游戏《俄罗斯方块》和《[雷达任务](https://zh.wikipedia.org/wiki/雷达任务 "wikilink")》。翌年，游戏设计师[横井军平重新利用游戏的大部分](https://zh.wikipedia.org/wiki/横井军平 "wikilink")[源码](../Page/源代码.md "wikilink")（如挡板的行为和改编的[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")），和[宫本茂](../Page/宫本茂.md "wikilink")团队合作开发了《[卡比砖块球](https://zh.wikipedia.org/wiki/卡比砖块球 "wikilink")》\[38\]。《Alleyway》为下载至[任天堂动力卡带而再发行](https://zh.wikipedia.org/wiki/任天堂动力_\(卡带\) "wikilink")，其占用了设备的一个储存区\[39\]。
 
 任天堂发布了一个作品促销材料，其中包括一段三分之一页的文章\[40\]\[41\]。《Alleyway》的广告收录了上述内容，一起的还有其它Game
 Boy游戏\[42\]\[43\]。在首发一年后，和[Super Game

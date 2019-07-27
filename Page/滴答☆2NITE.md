@@ -1,11 +1,11 @@
-《**滴答☆2NITE**》（）是[日本女子組合](../Page/日本.md "wikilink")[9nine的第](../Page/9nine.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年12月21日由[SME
+《**滴答☆2NITE**》（）是[日本](../Page/日本.md "wikilink")女子組合[9nine](../Page/9nine.md "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年12月21日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
 本作是9nine在2011年第3張單曲，也是9nine在重組後首張A面曲獲電視劇起用作主題曲、以及含有重新混音歌曲的單曲。
 
-本單曲分「通常盤」、「初回生產限定盤A」、「初回生產限定盤B」和「初回生產限定盤C」共四個版本發售，A面曲《滴答☆2NITE》為[日本電視台電視劇](../Page/日本電視台.md "wikilink")《[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》的主題曲，B面曲《Angel
+本單曲分「通常盤」、「初回生產限定盤A」、「初回生產限定盤B」和「初回生產限定盤C」共四個版本發售，A面曲《滴答☆2NITE》為[日本電視台](../Page/日本電視台.md "wikilink")電視劇《[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》的主題曲，B面曲《Angel
 drops》是THE KISS Inc.「THE KISS 十人十色之愛情故事」（）的廣告歌曲\[1\]。
 
 本單曲獲hotexpress評為「色彩鮮豔的旋律，是只有十多歲的少女能夠做到的可愛，但也比前作《[夏 wanna say love

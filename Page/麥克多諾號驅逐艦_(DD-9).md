@@ -1,4 +1,4 @@
-**麥克多諾號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-9）**是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦的九號艦](../Page/班布里奇級驅逐艦.md "wikilink")。她是美軍第一艘以羅倫斯為名的軍艦，以紀念[美法准戰爭及](https://zh.wikipedia.org/wiki/美法准戰爭 "wikilink")[第一次巴巴里戰爭時期的海軍准將](https://zh.wikipedia.org/wiki/第一次巴巴里戰爭 "wikilink")[湯姆士·麥克多諾](https://zh.wikipedia.org/wiki/湯姆士·麥克多諾 "wikilink")（Thomas
+**麥克多諾號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-9）**是一艘隸屬於[美國海軍](../Page/美國海軍.md "wikilink")的[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")的九號艦。她是美軍第一艘以羅倫斯為名的軍艦，以紀念[美法准戰爭及](https://zh.wikipedia.org/wiki/美法准戰爭 "wikilink")[第一次巴巴里戰爭時期的海軍准將](https://zh.wikipedia.org/wiki/第一次巴巴里戰爭 "wikilink")[湯姆士·麥克多諾](https://zh.wikipedia.org/wiki/湯姆士·麥克多諾 "wikilink")（Thomas
 Macdonough）。
 
 麥克多諾號在1899年於[霍河造船廠](https://zh.wikipedia.org/wiki/霍河造船廠 "wikilink")（Harlan

@@ -1,5 +1,5 @@
 **索尼 NEX 系列相机配件列表**是一个关于[索尼 NEX
-系列](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")[数码相机适用配件的列表](../Page/数码相机.md "wikilink")，该列表中不包含镜头，有关该系列相机的适配镜头，请参见[索尼
+系列](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")[数码相机](../Page/数码相机.md "wikilink")适用配件的列表，该列表中不包含镜头，有关该系列相机的适配镜头，请参见[索尼
 E 卡口镜头列表](https://zh.wikipedia.org/wiki/索尼_E_卡口镜头列表 "wikilink")。
 
 ## 原厂配件

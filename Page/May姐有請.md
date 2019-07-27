@@ -1,8 +1,8 @@
-《**May姐有請**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的飲食節目](../Page/電視廣播有限公司.md "wikilink")。
+《**May姐有請**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的飲食節目。
 
-第一輯共22集，由[馮美基](../Page/馮美基.md "wikilink")（May姐）及[曾華倩擔任主持](../Page/曾華倩.md "wikilink")，於2011年11月6日起[香港時間逢星期日](../Page/香港時間.md "wikilink")20:00-21:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。2012年10月開始逢星期六晚上7:00在高清翡翠台重播。
+第一輯共22集，由[馮美基](../Page/馮美基.md "wikilink")（May姐）及[曾華倩](../Page/曾華倩.md "wikilink")擔任主持，於2011年11月6日起[香港時間](../Page/香港時間.md "wikilink")逢星期日20:00-21:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。2012年10月開始逢星期六晚上7:00在高清翡翠台重播。
 
-第二輯共27集，由馮美基、[楊思琦](../Page/楊思琦.md "wikilink")、[沈卓盈及](../Page/沈卓盈.md "wikilink")[胡諾言擔任主持](../Page/胡諾言.md "wikilink")，於2013年4月21日起[香港時間逢星期日](../Page/香港時間.md "wikilink")20:00-21:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。
+第二輯共27集，由馮美基、[楊思琦](../Page/楊思琦.md "wikilink")、[沈卓盈](../Page/沈卓盈.md "wikilink")及[胡諾言](../Page/胡諾言.md "wikilink")擔任主持，於2013年4月21日起[香港時間](../Page/香港時間.md "wikilink")逢星期日20:00-21:00在[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。
 
 ## 每集內容
 
@@ -79,13 +79,13 @@
 
   - 2011年10月12日：下午13:00在[跑馬地](../Page/跑馬地.md "wikilink")[藍塘道](../Page/藍塘道.md "wikilink")69號地下
     Valcucine舉行《May姐有請》外景拍攝探班\[2\]。
-  - 2011年10月21日：下午13:00在[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[麗豪酒店舉行](../Page/麗豪酒店.md "wikilink")《May姐有請》外景探班\[3\]。
+  - 2011年10月21日：下午13:00在[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[麗豪酒店](../Page/麗豪酒店.md "wikilink")舉行《May姐有請》外景探班\[3\]。
   - 2011年11月3日：下午13:30在桃花源([上環](../Page/上環.md "wikilink")[文咸東街](https://zh.wikipedia.org/wiki/文咸東街 "wikilink")84-90號地下A舖)舉行《May姐有請》外景拍攝探班\[4\]。
   - 2011年11月8日：下午13:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")63號iSQUARE
     31樓國福樓舉行《May姐有請》外景拍攝探班\[5\]。
   - 2011年12月7日：上午11:00在[灣仔](../Page/灣仔.md "wikilink")[莊士敦道](../Page/莊士敦道.md "wikilink")34－45號福臨門舉行《May姐有請》外景拍攝探班\[6\]。
-  - 2011年12月28日：下午13:00在[尖沙咀](../Page/尖沙咀.md "wikilink")[金巴利道九龍福臨門魚翅海鮮酒家舉行](../Page/金巴利道.md "wikilink")《May姐有請》外景探班\[7\]。
-  - 2011年12月31日：下午14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道頂好海鮮酒家舉行](../Page/彌敦道.md "wikilink")《May姐有請》外景探班\[8\]。
+  - 2011年12月28日：下午13:00在[尖沙咀](../Page/尖沙咀.md "wikilink")[金巴利道](../Page/金巴利道.md "wikilink")九龍福臨門魚翅海鮮酒家舉行《May姐有請》外景探班\[7\]。
+  - 2011年12月31日：下午14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")頂好海鮮酒家舉行《May姐有請》外景探班\[8\]。
   - 2012年1月8日：由於直播《[2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink")》，本節目暫停播映一次。
   - 2012年3月26日：上午15:00在[灣仔](../Page/灣仔.md "wikilink")[皇后大道東](https://zh.wikipedia.org/wiki/皇后大道東 "wikilink")387－397號麗都酒店舉行《May姐有請》外景拍攝探班\[9\]。
 
@@ -93,11 +93,11 @@
 
   - 2013年2月25日：下午14:30在[銅鑼灣](../Page/銅鑼灣.md "wikilink")[希慎道Gaggenau](https://zh.wikipedia.org/wiki/希慎道 "wikilink")
     Kitchen Infinity Corp. Limited舉行《May姐有請》外景探班\[10\]。
-  - 2013年3月27日：下午12:00在[黃竹坑香葉道](../Page/黃竹坑.md "wikilink")2號 Kitchen
+  - 2013年3月27日：下午12:00在[黃竹坑](../Page/黃竹坑.md "wikilink")香葉道2號 Kitchen
     Infinity舉行《May姐有請》外景探班\[11\]。
-  - 2013年4月8日：下午12:00在[黃竹坑香葉道](../Page/黃竹坑.md "wikilink")2號 Kitchen
+  - 2013年4月8日：下午12:00在[黃竹坑](../Page/黃竹坑.md "wikilink")香葉道2號 Kitchen
     Infinity One Island South 19 樓 Kitchen Infinity舉行《May姐有請》外景探班\[12\]。
-  - 2013年4月20日：下午15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[國際廣場文鼎壹號舉行](../Page/國際廣場.md "wikilink")《May姐有請》記者招待會\[13\]。
+  - 2013年4月20日：下午15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[國際廣場](../Page/國際廣場.md "wikilink")文鼎壹號舉行《May姐有請》記者招待會\[13\]。
   - 2013年9月1日：由於直播《[2013香港小姐競選決賽](../Page/2013年度香港小姐競選.md "wikilink")》導致《[超級無敵獎門人
     終極篇](../Page/超級無敵獎門人_終極篇.md "wikilink")》提早至本節目時段播映，本節目暫停播映一次。
   - 2013年9月22日：本節目提早至19:00-20:00播映。

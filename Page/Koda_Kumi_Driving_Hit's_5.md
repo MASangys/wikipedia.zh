@@ -1,5 +1,5 @@
 《KODA KUMI DRIVING HIT'S
-5》（飆速快感混音極選～5）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2013年3月20日發行的第6張[混音專輯](../Page/混音.md "wikilink")。
+5》（飆速快感混音極選～5）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年3月20日發行的第6張[混音](../Page/混音.md "wikilink")專輯。
 
 ## 解說
 

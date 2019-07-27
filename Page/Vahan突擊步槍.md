@@ -12,7 +12,7 @@ mm口徑並試圖向](../Page/5.45×39mm.md "wikilink")[亞美尼亞軍隊推銷
 ## 設計
 
 Vahan突擊步槍發射[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[5.45×39
-mm小口徑步槍彈](../Page/5.45×39mm.md "wikilink")，並以[AK-74式的](https://zh.wikipedia.org/wiki/AK-74 "wikilink")30發[彈匣供彈](../Page/彈匣.md "wikilink")（也能與[RPK-74的](https://zh.wikipedia.org/wiki/RPK-74 "wikilink")45發長彈匣通用）。該槍也能對應[GP-25／30下掛式榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")、[刺刀和透過位於](../Page/刺刀.md "wikilink")[機匣左側的瞄準鏡座安裝各種瞄準鏡](https://zh.wikipedia.org/wiki/機匣 "wikilink")。該槍的保險裝置為槓桿形式，它位於板機護環内側。與大多數的突擊步槍不同，Vahan採用了比較少見的槓桿延遲反沖原理（具類似設計的還有[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")[FAMAS](https://zh.wikipedia.org/wiki/FAMAS "wikilink")）。這種設計的優點為：簡單，成本低廉，以及能減少[後座力](../Page/後座力.md "wikilink")。然而它卻不比使用[氣動式原理運作的槍械可靠](https://zh.wikipedia.org/wiki/氣動式 "wikilink")，尤其是在惡劣環境之下。
+mm小口徑步槍彈](../Page/5.45×39mm.md "wikilink")，並以[AK-74式的](https://zh.wikipedia.org/wiki/AK-74 "wikilink")30發[彈匣](../Page/彈匣.md "wikilink")供彈（也能與[RPK-74的](https://zh.wikipedia.org/wiki/RPK-74 "wikilink")45發長彈匣通用）。該槍也能對應[GP-25／30下掛式榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")、[刺刀](../Page/刺刀.md "wikilink")和透過位於[機匣左側的瞄準鏡座安裝各種瞄準鏡](https://zh.wikipedia.org/wiki/機匣 "wikilink")。該槍的保險裝置為槓桿形式，它位於板機護環内側。與大多數的突擊步槍不同，Vahan採用了比較少見的槓桿延遲反沖原理（具類似設計的還有[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")[FAMAS](https://zh.wikipedia.org/wiki/FAMAS "wikilink")）。這種設計的優點為：簡單，成本低廉，以及能減少[後座力](../Page/後座力.md "wikilink")。然而它卻不比使用[氣動式原理運作的槍械可靠](https://zh.wikipedia.org/wiki/氣動式 "wikilink")，尤其是在惡劣環境之下。
 
 ## 另見
 

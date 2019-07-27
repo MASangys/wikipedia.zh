@@ -1,13 +1,13 @@
-是[光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")（现为[光榮特庫摩](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")）所發售的，屬於[三國志系列遊戲中的第四作](../Page/三國志系列.md "wikilink")。在[家用遊戲主機版發售後](../Page/電子遊戲機.md "wikilink")，同樣被移植到[Windows版](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
+是[光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")（现为[光榮特庫摩](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")）所發售的，屬於[三國志系列](../Page/三國志系列.md "wikilink")遊戲中的第四作。在[家用遊戲主機版發售後](../Page/電子遊戲機.md "wikilink")，同樣被移植到[Windows版](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
 
-本作的[背景音樂改由](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")作曲，[Windows版支援於](https://zh.wikipedia.org/wiki/Windows "wikilink")9X的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，如[95](https://zh.wikipedia.org/wiki/Windows95 "wikilink")、[98](https://zh.wikipedia.org/wiki/Windows98 "wikilink")、[ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")，不支援[NT核心的作業系統](../Page/Windows_NT.md "wikilink")，如[NT](../Page/Windows_NT.md "wikilink")、[2000](https://zh.wikipedia.org/wiki/Windows2000 "wikilink")、[XP](https://zh.wikipedia.org/wiki/WindowsXP "wikilink")、[Vista](../Page/Windows_Vista.md "wikilink")。[超任版於](../Page/超級任天堂.md "wikilink")2007年2月被移植到[Wii的](../Page/Wii.md "wikilink")[Virtual
+本作的[背景音樂改由](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")作曲，[Windows版支援於](https://zh.wikipedia.org/wiki/Windows "wikilink")9X的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，如[95](https://zh.wikipedia.org/wiki/Windows95 "wikilink")、[98](https://zh.wikipedia.org/wiki/Windows98 "wikilink")、[ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")，不支援[NT核心的作業系統](../Page/Windows_NT.md "wikilink")，如[NT](../Page/Windows_NT.md "wikilink")、[2000](https://zh.wikipedia.org/wiki/Windows2000 "wikilink")、[XP](https://zh.wikipedia.org/wiki/WindowsXP "wikilink")、[Vista](../Page/Windows_Vista.md "wikilink")。[超任版於](../Page/超級任天堂.md "wikilink")2007年2月被移植到[Wii](../Page/Wii.md "wikilink")的[Virtual
 Console](../Page/Virtual_Console.md "wikilink")，2013年7月起，可使用[Wii
 U購買下載遊戲](../Page/Wii_U.md "wikilink")。本作於[Game Boy
-Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[任天堂DS版稱為](../Page/任天堂DS.md "wikilink")，雖然遊戲名不同，但均以本作為基礎設計的。
+Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[任天堂DS](../Page/任天堂DS.md "wikilink")版稱為，雖然遊戲名不同，但均以本作為基礎設計的。
 
 ## 簡介
 
-本作與前作[三國志III相同](../Page/三國志III.md "wikilink")，都是以[中國的](../Page/中國.md "wikilink")[三國時代為背景](https://zh.wikipedia.org/wiki/三國時代 "wikilink")，目標是在當時的中國全土稱霸。
+本作與前作[三國志III](../Page/三國志III.md "wikilink")相同，都是以[中國](../Page/中國.md "wikilink")的[三國時代為背景](https://zh.wikipedia.org/wiki/三國時代 "wikilink")，目標是在當時的中國全土稱霸。
 
 ### 與前作的不同點
 
@@ -16,7 +16,7 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
 3.  取消了前作的武將身分(文官、武官、軍師、將軍)限制。
 4.  本作開始有異民族登場，如[山越](../Page/山越.md "wikilink")、[烏丸](https://zh.wikipedia.org/wiki/烏丸 "wikilink")、[羌](https://zh.wikipedia.org/wiki/羌 "wikilink")、[南蛮](https://zh.wikipedia.org/wiki/南蛮 "wikilink")。異民族會有攻擊中國都市的突發事件。
 5.  [戰鬥面的](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")[野戰與](https://zh.wikipedia.org/wiki/野戰 "wikilink")[攻城戰與前作不同](https://zh.wikipedia.org/wiki/攻城戰 "wikilink")。
-6.  前作中[指揮官的能力值](https://zh.wikipedia.org/wiki/指揮官 "wikilink")、部隊的[訓練度](https://zh.wikipedia.org/wiki/訓練 "wikilink")、[士氣等為決定勝負的重要因素](../Page/士氣.md "wikilink")；而本作改為指揮官有無特殊擅長的[兵科](https://zh.wikipedia.org/wiki/兵科 "wikilink")，與有無[副將參與戰鬥來影響勝負](https://zh.wikipedia.org/wiki/副將 "wikilink")。
+6.  前作中[指揮官的能力值](https://zh.wikipedia.org/wiki/指揮官 "wikilink")、部隊的[訓練度](https://zh.wikipedia.org/wiki/訓練 "wikilink")、[士氣](../Page/士氣.md "wikilink")等為決定勝負的重要因素；而本作改為指揮官有無特殊擅長的[兵科](https://zh.wikipedia.org/wiki/兵科 "wikilink")，與有無[副將參與戰鬥來影響勝負](https://zh.wikipedia.org/wiki/副將 "wikilink")。
 7.  武將[單挑的頻率提高了](https://zh.wikipedia.org/wiki/單挑 "wikilink")，攻城武器[投石車在本作登場](https://zh.wikipedia.org/wiki/投石車 "wikilink")。
 8.  雖然總登場武將數較前作減少，但三國鼎立時代後期登場的武將增加了，解決了前作在後期劇本，玩家面臨屬下武將不夠擔任[太守](https://zh.wikipedia.org/wiki/太守 "wikilink")，導致最終[Game
     Over的問題](https://zh.wikipedia.org/wiki/Game_Over "wikilink")。
@@ -30,7 +30,7 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
   - 太守
     管理[都市的](https://zh.wikipedia.org/wiki/都市 "wikilink")[首長](https://zh.wikipedia.org/wiki/首長 "wikilink")。
   - 軍師
-    能在所在都市的城內畫面提供[軍事面建言](../Page/軍事.md "wikilink")，任命條件是該武將的[智力](../Page/智力.md "wikilink")90與[政治](../Page/政治.md "wikilink")80以上，可以任命[複数以上的軍師](https://zh.wikipedia.org/wiki/複数 "wikilink")，但僅會顯示當中能力值最高的軍師建言。此外，野戰時防守方如果有符合任命軍師條件的武將參戰，可以使用[陷阱](https://zh.wikipedia.org/wiki/陷阱 "wikilink")、[火計等策略](https://zh.wikipedia.org/wiki/火計 "wikilink")。
+    能在所在都市的城內畫面提供[軍事](../Page/軍事.md "wikilink")面建言，任命條件是該武將的[智力](../Page/智力.md "wikilink")90與[政治](../Page/政治.md "wikilink")80以上，可以任命[複数以上的軍師](https://zh.wikipedia.org/wiki/複数 "wikilink")，但僅會顯示當中能力值最高的軍師建言。此外，野戰時防守方如果有符合任命軍師條件的武將參戰，可以使用[陷阱](https://zh.wikipedia.org/wiki/陷阱 "wikilink")、[火計等策略](https://zh.wikipedia.org/wiki/火計 "wikilink")。
   - 侍中
     能在所在都市的城內畫面提供内政面建言，任命條件是該武將的政治85。可以任命[複数以上的侍中](https://zh.wikipedia.org/wiki/複数 "wikilink")。
   - 将軍
@@ -40,7 +40,7 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
 
 ## 特殊能力
 
-本作開始導入武將的特殊技能系統，主要是與內政、計策、軍事有關的能力，全部技能有24個，擁有最多特殊技能的是[諸葛亮的](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")21個。最少的是[夏侯楙的](../Page/夏侯楙.md "wikilink")0個。
+本作開始導入武將的特殊技能系統，主要是與內政、計策、軍事有關的能力，全部技能有24個，擁有最多特殊技能的是[諸葛亮的](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")21個。最少的是[夏侯楙](../Page/夏侯楙.md "wikilink")的0個。
 
   - [外交](../Page/外交.md "wikilink")
     提高外交談判成功的能力。
@@ -123,15 +123,15 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
   - 1　189年12月「[董卓](../Page/董卓.md "wikilink")、都洛陽を制す」（董卓廢少帝，火燒洛陽）
   - 2　194年11月「[飛将軍](https://zh.wikipedia.org/wiki/呂布 "wikilink")、中原に舞う」（群雄爭中原，曹操崛起）
   - 3　201年10月「[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")、[新野に雌伏す](https://zh.wikipedia.org/wiki/新野 "wikilink")」（河北風暴起，春臨荊州）
-  - 4　208年9月「[臥龍](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")、[赤壁に飛翔す](../Page/赤壁.md "wikilink")」（孔明借東風，赤壁鏖兵）
+  - 4　208年9月「[臥龍](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")、[赤壁](../Page/赤壁.md "wikilink")に飛翔す」（孔明借東風，赤壁鏖兵）
   - 5　221年4月「[漢朝滅び三國鼎立す](https://zh.wikipedia.org/wiki/漢朝 "wikilink")」（曹丕廢漢帝，三國鼎立）
   - 6　235年2月「巨星、[五丈原に堕つ](https://zh.wikipedia.org/wiki/五丈原 "wikilink")」（星落五丈原，姜維繼志）
 
 以下是PK版的追加劇本標題：
 
-  - 1　189年6月「奸雄、漢を盗み、天下を統一す」（奸雄篡漢位，君臨天下）：全中國除了3個都市外，全由[曹操支配的假想劇本](../Page/曹操.md "wikilink")，曹操是非玩家角色，不能選擇。
+  - 1　189年6月「奸雄、漢を盗み、天下を統一す」（奸雄篡漢位，君臨天下）：全中國除了3個都市外，全由[曹操](../Page/曹操.md "wikilink")支配的假想劇本，曹操是非玩家角色，不能選擇。
   - 2　190年5月「大陸荒廃し、三雄、ここに立つ」（大陸變荒蕪，三雄不讓）：全中國除了曹操、劉備、[孫堅各支配](https://zh.wikipedia.org/wiki/孫堅 "wikilink")1個都市外，其餘均為空白地的假想劇本。
-  - 3　225年1月「蛮王南北で蜂起し、戦乱起きる」（南北烽火起，戰亂不斷）：時間設定為諸葛亮南征前夕。除了[曹丕](../Page/曹丕.md "wikilink")、[劉禪及](https://zh.wikipedia.org/wiki/劉禪 "wikilink")[孫權外](https://zh.wikipedia.org/wiki/孫權 "wikilink")，亦加入了[孟獲及](../Page/孟獲.md "wikilink")[徹里吉兩個勢力](https://zh.wikipedia.org/wiki/徹里吉 "wikilink")。
+  - 3　225年1月「蛮王南北で蜂起し、戦乱起きる」（南北烽火起，戰亂不斷）：時間設定為諸葛亮南征前夕。除了[曹丕](../Page/曹丕.md "wikilink")、[劉禪及](https://zh.wikipedia.org/wiki/劉禪 "wikilink")[孫權外](https://zh.wikipedia.org/wiki/孫權 "wikilink")，亦加入了[孟獲](../Page/孟獲.md "wikilink")及[徹里吉兩個勢力](https://zh.wikipedia.org/wiki/徹里吉 "wikilink")。
 
 ## 音樂商品
 
@@ -139,7 +139,7 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
 
   - 三國志IV KECH-1057
   - 光栄オリジナルBGM集Vol.12
-    三國志IV/[提督之決斷IIKECH](../Page/提督之決斷II.md "wikilink")-1079（※採用了超級任天堂版的音源）
+    三國志IV/[提督之決斷II](../Page/提督之決斷II.md "wikilink")KECH-1079（※採用了超級任天堂版的音源）
 
 ## 外部連結
 

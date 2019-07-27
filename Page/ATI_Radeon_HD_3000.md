@@ -114,7 +114,7 @@ GPU。DisplayPort 能夠只要一條螢幕連接線即可實現多螢幕操作�
 [D-Sub](../Page/VGA端子.md "wikilink") 也能藉由轉接頭獲得支援\[4\]。其他功能包括支援
 DirectX 10.1，還有第二代 [UVD](../Page/UVD.md "wikilink") 的 AVIVO HD 。另一種衍生版本，
 Radeon HD 3650在2008年1月23日發表。而官方參考設計的背板就搭載兩個 DisplayPort 與一個
-[DVI-D](../Page/DVI.md "wikilink")\[5\]。
+[DVI](../Page/DVI.md "wikilink")-D\[5\]。
 
 另外，中國地區有一種特別版本稱為 Radeon HD 3690，採用與 Radeon HD 3800 系列相同的 RV670
 核心，但顯示記憶體頻寬由256bit降至128bit，可減少記憶體成本。但其後為對抗nVidia

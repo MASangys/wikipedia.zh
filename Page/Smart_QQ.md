@@ -1,4 +1,4 @@
-**WebQQ**是[腾讯于](../Page/腾讯.md "wikilink")2009年9月15日正式推出的一项服务，该服务可以使用户在不安装[QQ软件的情况下使用QQ的部分服务](https://zh.wikipedia.org/wiki/QQ "wikilink")。该功能已于2019年1月1日停止运营\[1\]。
+**WebQQ**是[腾讯](../Page/腾讯.md "wikilink")于2009年9月15日正式推出的一项服务，该服务可以使用户在不安装[QQ软件的情况下使用QQ的部分服务](https://zh.wikipedia.org/wiki/QQ "wikilink")。该功能已于2019年1月1日停止运营\[1\]。
 
 ## 版本
 
@@ -18,7 +18,7 @@ Mini上。2012年，腾讯关闭了此项服务。
 ### WebQQ 2.0
 
 2010年9月14日，腾讯开始对WebQQ
-2.0进行公测。该版本借鉴了[操作系统的UI](../Page/操作系统.md "wikilink")，，致使该版本运行缓慢，所以腾讯于WebQQ
+2.0进行公测。该版本借鉴了[操作系统](../Page/操作系统.md "wikilink")的UI，，致使该版本运行缓慢，所以腾讯于WebQQ
 2.0正式版发布不久后恢复了WebQQ 1.7的入口。
 
 域名改为web2.qq.com
@@ -26,7 +26,7 @@ Mini上。2012年，腾讯关闭了此项服务。
 ### WebQQ 3.0
 
 2011年4月26日，腾讯将WebQQ 1.7的入口引导至WebQQ
-3.0正式版，并且新开启了一个入口。此版本借鉴了[Linux系统的多桌面功能](../Page/Linux.md "wikilink")，增加了语音、视频聊天功能，支持[AIR客户端](https://zh.wikipedia.org/wiki/AIR "wikilink")，并且大幅度优化运行及加载速度。不久后，腾讯将WebQQ
+3.0正式版，并且新开启了一个入口。此版本借鉴了[Linux](../Page/Linux.md "wikilink")系统的多桌面功能，增加了语音、视频聊天功能，支持[AIR客户端](https://zh.wikipedia.org/wiki/AIR "wikilink")，并且大幅度优化运行及加载速度。不久后，腾讯将WebQQ
 2.0的入口也引导至该版本。
 
 ### SmartQQ
@@ -39,11 +39,11 @@ Mini上。2012年，腾讯关闭了此项服务。
 
 2019年1月1日，Smart QQ正式停止服务。\[3\]
 
-## 争议事件
+## 争议
 
 WebQQ
-2.0刚上市时提供登录[Gmail的功能](../Page/Gmail.md "wikilink")。网友发现若使用此功能登录Gmail，Gmail的帐号密码会被发送到腾讯的一个服务器。不到半小时后，WebQQ
-2.0中的Gmail模块已经在[Firefox和](../Page/Firefox.md "wikilink")[Chrome浏览器中被举报为欺诈网站](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")。很快，腾讯就移除了此功能。\[4\]
+2.0刚上市时提供登录[Gmail](../Page/Gmail.md "wikilink")的功能。网友发现若使用此功能登录Gmail，Gmail的帐号密码会被发送到腾讯的一个服务器。不到半小时后，WebQQ
+2.0中的Gmail模块已经在[Firefox](../Page/Firefox.md "wikilink")和[Chrome浏览器中被举报为欺诈网站](https://zh.wikipedia.org/wiki/Chrome浏览器 "wikilink")。很快，腾讯移除了此功能。\[4\]
 
 ## 参考资料
 

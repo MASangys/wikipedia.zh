@@ -1,5 +1,5 @@
 **KDE Plasma
-5**是一套由[KDE所編寫的](../Page/KDE.md "wikilink")[圖形介面殼層](https://zh.wikipedia.org/wiki/殼層#图形用户界面（GUI）殼層 "wikilink")，是[KDE
+5**是一套由[KDE](../Page/KDE.md "wikilink")所編寫的[圖形介面殼層](https://zh.wikipedia.org/wiki/殼層#图形用户界面（GUI）殼層 "wikilink")，是[KDE
 Plasma
 4的繼承者](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")，最初穩定版本於2014年7月15日釋出\[1\]。
 
@@ -17,12 +17,12 @@ ES](../Page/OpenGL_ES.md "wikilink")\[4\]。
 ### 視窗系統
 
 因為KDE Plasma 5使用並建基於[Qt 5及](../Page/Qt.md "wikilink")[KDE Frameworks
-5之上](../Page/KDE_Frameworks_5.md "wikilink")，因此可以調整後端使用多種[視窗系統來顯示](../Page/視窗系統.md "wikilink")，包括了[X11及](https://zh.wikipedia.org/wiki/X11 "wikilink")[Wayland顯示協定](../Page/Wayland.md "wikilink")\[5\]，一直到[Quartz及](../Page/Quartz_Compositor.md "wikilink")[GDI+](../Page/GDI+.md "wikilink")。
+5之上](../Page/KDE_Frameworks_5.md "wikilink")，因此可以調整後端使用多種[視窗系統](../Page/視窗系統.md "wikilink")來顯示，包括了[X11及](https://zh.wikipedia.org/wiki/X11 "wikilink")[Wayland](../Page/Wayland.md "wikilink")顯示協定\[5\]，一直到[Quartz及](../Page/Quartz_Compositor.md "wikilink")[GDI+](../Page/GDI+.md "wikilink")。
 
 Plasma 5完整的將[KDE Plasma
 4遷移到QtQuick](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")。而Qt
 5的QtQuick
-2則使用了具備了硬體加速功能的OpenGL(ES)來合成並渲染螢幕上的圖形。這可以讓圖形渲染的重擔完整的轉移到顯示卡上，讓顯示速度更快且更節能。而因為圖形合成器的內部變更，對於[Wayland的支援預計會在未來的版本中實現](../Page/Wayland.md "wikilink")。
+2則使用了具備了硬體加速功能的OpenGL(ES)來合成並渲染螢幕上的圖形。這可以讓圖形渲染的重擔完整的轉移到顯示卡上，讓顯示速度更快且更節能。而因為圖形合成器的內部變更，對於[Wayland](../Page/Wayland.md "wikilink")的支援預計會在未來的版本中實現。
 
 ### 開發
 

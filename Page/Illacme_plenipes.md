@@ -7,7 +7,7 @@ plenipes***是一種發現於[美國](https://zh.wikipedia.org/wiki/美國 "wiki
 
 儘管沒有已知的[馬陸真的有千條](https://zh.wikipedia.org/wiki/馬陸 "wikilink")[腿的](https://zh.wikipedia.org/wiki/腿 "wikilink")，但因*Illacme
 plenipes*這種馬陸曾有個體被紀錄有750條腿之故，*Illacme
-plenipes*這種[馬陸在這方面已很接近了](https://zh.wikipedia.org/wiki/馬陸 "wikilink")。\[1\]平均而言，這種[馬陸的個體平均有超過](https://zh.wikipedia.org/wiki/馬陸 "wikilink")600條腿，此為馬陸各物種平均的兩倍。儘管這種[馬陸的腿比](https://zh.wikipedia.org/wiki/馬陸 "wikilink")[地球上其他的](../Page/地球.md "wikilink")[動物都還多](https://zh.wikipedia.org/wiki/動物 "wikilink")，牠們事實上是相當小型的[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")，相對其他[種的](https://zh.wikipedia.org/wiki/種 "wikilink")[馬陸](https://zh.wikipedia.org/wiki/馬陸 "wikilink")，其體型也是較小的。這種馬陸的[雌性個體體長僅梢微超過一](https://zh.wikipedia.org/wiki/雌性 "wikilink")[英吋](https://zh.wikipedia.org/wiki/英吋 "wikilink")；其[雄性個體體型較小一些](https://zh.wikipedia.org/wiki/雄性 "wikilink")，且有著較少的腿。
+plenipes*這種[馬陸在這方面已很接近了](https://zh.wikipedia.org/wiki/馬陸 "wikilink")。\[1\]平均而言，這種[馬陸的個體平均有超過](https://zh.wikipedia.org/wiki/馬陸 "wikilink")600條腿，此為馬陸各物種平均的兩倍。儘管這種[馬陸的腿比](https://zh.wikipedia.org/wiki/馬陸 "wikilink")[地球](../Page/地球.md "wikilink")上其他的[動物都還多](https://zh.wikipedia.org/wiki/動物 "wikilink")，牠們事實上是相當小型的[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")，相對其他[種的](https://zh.wikipedia.org/wiki/種 "wikilink")[馬陸](https://zh.wikipedia.org/wiki/馬陸 "wikilink")，其體型也是較小的。這種馬陸的[雌性個體體長僅梢微超過一](https://zh.wikipedia.org/wiki/雌性 "wikilink")[英吋](https://zh.wikipedia.org/wiki/英吋 "wikilink")；其[雄性個體體型較小一些](https://zh.wikipedia.org/wiki/雄性 "wikilink")，且有著較少的腿。
 
 ## 歷史
 

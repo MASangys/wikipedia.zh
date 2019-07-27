@@ -1,4 +1,4 @@
-**Mozilla在地化**是指[Mozilla產品的](../Page/Mozilla.md "wikilink")[在地化版本](https://zh.wikipedia.org/wiki/國際化與在地化 "wikilink")。這通常是指產品的翻譯以及當地特色的加入。
+**Mozilla在地化**是指[Mozilla](../Page/Mozilla.md "wikilink")產品的[在地化版本](https://zh.wikipedia.org/wiki/國際化與在地化 "wikilink")。這通常是指產品的翻譯以及當地特色的加入。
 
 在地化通常是由一群[志工所組成的團體](https://zh.wikipedia.org/wiki/志工 "wikilink")（摩茲志士）所進行。
 

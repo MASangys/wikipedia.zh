@@ -1,16 +1,16 @@
 **凌志RX** (**Lexus
-RX**）是一款由[凌志自](../Page/凌志.md "wikilink")1997年開始設計製造的豪华[运动型多用途车](../Page/运动型多用途车.md "wikilink")。
+RX**）是一款由[凌志](../Page/凌志.md "wikilink")自1997年開始設計製造的豪华[运动型多用途车](../Page/运动型多用途车.md "wikilink")。
 
 ## 概要
 
 [2013_Lexus_RX350_F_Sport_--_2012_NYIAS.JPG](https://zh.wikipedia.org/wiki/File:2013_Lexus_RX350_F_Sport_--_2012_NYIAS.JPG "fig:2013_Lexus_RX350_F_Sport_--_2012_NYIAS.JPG")
 
 **凌志RX**的車名「RX」是指「Radiant
-Crossover（明亮的[跨界休旅車](../Page/跨界休旅車.md "wikilink")）」，意味著**RX**將打開豪華跨界休旅車的道路。一直以來，[SUV由於其源於](https://zh.wikipedia.org/wiki/SUV "wikilink")[皮卡構造的特性使其與高實用性及高越野性能息息相連](../Page/皮卡.md "wikilink")，卻缺乏與高舒適性和高級豪華的關聯性。凌志將SUV的優點和高級[轎車的優點相結合](https://zh.wikipedia.org/wiki/轎車 "wikilink")，創建了豪華都市跨界SUV這一新的車系。
+Crossover（明亮的[跨界休旅車](../Page/跨界休旅車.md "wikilink")）」，意味著**RX**將打開豪華跨界休旅車的道路。一直以來，[SUV由於其源於](https://zh.wikipedia.org/wiki/SUV "wikilink")[皮卡](../Page/皮卡.md "wikilink")構造的特性使其與高實用性及高越野性能息息相連，卻缺乏與高舒適性和高級豪華的關聯性。凌志將SUV的優點和高級[轎車的優點相結合](https://zh.wikipedia.org/wiki/轎車 "wikilink")，創建了豪華都市跨界SUV這一新的車系。
 
-憑藉**凌志RX**優異的極高可靠性，使其一氣成為凌志旗下最暢銷車型。尤其在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")，**凌志RX**的銷量甚至使凌志在日本的工廠製造數量是供不應求，因此凌志從2003年9月開始在[加拿大TMMC工廠同時生產](../Page/加拿大.md "wikilink")**凌志RX**。目前，**凌志RX**也是第一款在日本以外投入生產的凌志車款。2013年，[加拿大](../Page/加拿大.md "wikilink")[政府向凌志TMMC工廠投資](../Page/政府.md "wikilink")3千4百萬美元贊助凌志RX在北美的進一步增產\[1\]。
+憑藉**凌志RX**優異的極高可靠性，使其一氣成為凌志旗下最暢銷車型。尤其在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")，**凌志RX**的銷量甚至使凌志在日本的工廠製造數量是供不應求，因此凌志從2003年9月開始在[加拿大](../Page/加拿大.md "wikilink")TMMC工廠同時生產**凌志RX**。目前，**凌志RX**也是第一款在日本以外投入生產的凌志車款。2013年，[加拿大](../Page/加拿大.md "wikilink")[政府](../Page/政府.md "wikilink")向凌志TMMC工廠投資3千4百萬美元贊助凌志RX在北美的進一步增產\[1\]。
 
-隨著**凌志RX**的成功，[BMW](../Page/BMW.md "wikilink")，[保時捷](https://zh.wikipedia.org/wiki/保時捷 "wikilink")，[奧迪](https://zh.wikipedia.org/wiki/奧迪 "wikilink")，[捷豹](../Page/捷豹.md "wikilink")，[賓利](../Page/賓利.md "wikilink")，[蘭博基尼](https://zh.wikipedia.org/wiki/蘭博基尼 "wikilink")，[瑪莎拉蒂](../Page/瑪莎拉蒂.md "wikilink")，[阿斯頓馬丁等等與高車身車型本來無緣的高級汽車廠商都紛紛推出了或計劃推出自身](https://zh.wikipedia.org/wiki/阿斯頓馬丁 "wikilink")[品牌的豪華](../Page/品牌.md "wikilink")[跨界休旅車款系](../Page/跨界休旅車.md "wikilink")。
+隨著**凌志RX**的成功，[BMW](../Page/BMW.md "wikilink")，[保時捷](https://zh.wikipedia.org/wiki/保時捷 "wikilink")，[奧迪](https://zh.wikipedia.org/wiki/奧迪 "wikilink")，[捷豹](../Page/捷豹.md "wikilink")，[賓利](../Page/賓利.md "wikilink")，[蘭博基尼](https://zh.wikipedia.org/wiki/蘭博基尼 "wikilink")，[瑪莎拉蒂](../Page/瑪莎拉蒂.md "wikilink")，[阿斯頓馬丁等等與高車身車型本來無緣的高級汽車廠商都紛紛推出了或計劃推出自身](https://zh.wikipedia.org/wiki/阿斯頓馬丁 "wikilink")[品牌](../Page/品牌.md "wikilink")的豪華[跨界休旅車](../Page/跨界休旅車.md "wikilink")款系。
 
 ## 第一代
 

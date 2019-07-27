@@ -1,5 +1,5 @@
 《**LOVE FIGHTER
-～戀愛的戰爭～**》（）是[BREAKERZ的第](../Page/BREAKERZ.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年11月4日由[ZAIN
+～戀愛的戰爭～**》（）是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年11月4日由[ZAIN
 RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 收錄曲目
@@ -28,7 +28,7 @@ RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
   - [千葉電視台系](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")《[MUSIC
     FOCUS](https://zh.wikipedia.org/wiki/MUSIC_FOCUS "wikilink")》2009年12月度結尾曲（\#1）
-  - [ytv制作](../Page/讀賣電視台.md "wikilink")、[日本電視台系](../Page/日本電視台.md "wikilink")《[情報ライブ
+  - [ytv制作](../Page/讀賣電視台.md "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")系《[情報ライブ
     ミヤネ屋](https://zh.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")》結尾曲（\#2）
   - [ハウステンボス](https://zh.wikipedia.org/wiki/ハウステンボス "wikilink")「光のまち2009」合作歌曲（\#2）
 

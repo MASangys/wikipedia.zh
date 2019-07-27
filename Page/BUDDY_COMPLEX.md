@@ -1,5 +1,5 @@
 《**BUDDY
-COMPLEX**》（），是[日本的](../Page/日本.md "wikilink")[日昇動畫於](../Page/日昇動畫.md "wikilink")2014年製作的原創機械人動畫。
+COMPLEX**》（），是[日本](../Page/日本.md "wikilink")的[日昇動畫](../Page/日昇動畫.md "wikilink")於2014年製作的原創機械人動畫。
 
 《**BUDDY COMPLEX 完結篇 ―回到那片天空的未來―**》（）將分為前後兩篇，並於同年9月末順序播放。
 
@@ -438,7 +438,7 @@ COMPLEX**》（），是[日本的](../Page/日本.md "wikilink")[日昇動畫�
 ### 國家、組織
 
   -
-    西元2088年把世界一分為二的大國之一。通稱「聯合」。與佐基利亞為敵對關係。成員國大致包括[北美洲國家](../Page/北美洲.md "wikilink")，[北約成員國](https://zh.wikipedia.org/wiki/北約 "wikilink")，[日本](../Page/日本.md "wikilink")，[馬來群島及](https://zh.wikipedia.org/wiki/馬來群島 "wikilink")[大洋洲內的所有國家](../Page/大洋洲.md "wikilink")。
+    西元2088年把世界一分為二的大國之一。通稱「聯合」。與佐基利亞為敵對關係。成員國大致包括[北美洲](../Page/北美洲.md "wikilink")國家，[北約成員國](https://zh.wikipedia.org/wiki/北約 "wikilink")，[日本](../Page/日本.md "wikilink")，[馬來群島及](https://zh.wikipedia.org/wiki/馬來群島 "wikilink")[大洋洲](../Page/大洋洲.md "wikilink")內的所有國家。
     初時是支援佐基利亞對抗大華國與俄聯邦入侵的西方國家，其後因佐基利亞不斷侵略吞併鄰國及其立國而予以反抗，結成了實際上是反佐基利亞聯盟的自由條約聯盟。其後西方國家在聯合國通過了譴責佐基利亞的決議，但及後佐基利亞退出聯合國。其後聯合國對大佐基利亞共和國實施經濟制裁，而佐基利亞則以限制NECTORIBIUM出口來對抗。雙方於2068年開始交戰。
 
 :;
@@ -452,7 +452,7 @@ COMPLEX**》（），是[日本的](../Page/日本.md "wikilink")[日昇動畫�
 
   -
     西元2088年把世界一分為二的大國之一。以歐亞大陸為主體的國家，通稱「佐基利亞」。
-    現時領土大致包括前[蘇聯地區](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，[華沙條約加盟成員國](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")，[中國](../Page/中國.md "wikilink")，[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")，[北韓](https://zh.wikipedia.org/wiki/北韓 "wikilink")，[中南半島所有國家及](../Page/中南半島.md "wikilink")[北歐大部分國家](../Page/北歐.md "wikilink")（除英國及冰島）及[阿拉斯加地區](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")（在第十三話時，要塞炮被聯合軍摧毀的同時被奪去）。
+    現時領土大致包括前[蘇聯地區](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，[華沙條約加盟成員國](https://zh.wikipedia.org/wiki/華沙條約 "wikilink")，[中國](../Page/中國.md "wikilink")，[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")，[北韓](https://zh.wikipedia.org/wiki/北韓 "wikilink")，[中南半島](../Page/中南半島.md "wikilink")所有國家及[北歐](../Page/北歐.md "wikilink")大部分國家（除英國及冰島）及[阿拉斯加地區](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")（在第十三話時，要塞炮被聯合軍摧毀的同時被奪去）。
     原本是在歐亞大陸中的一個國家，在21世紀上半葉發現革命性能源NECTORIBIUM並於2014年開始採掘，但被企圖獨佔資源的大華國與俄聯邦入侵。在擊退兩方軍隊後便始限制NECTORIBIUM的出口，引起一直以來支援的西方各國的強烈反感。其後佐基利亞改變戰略，開始侵略吞併鄰國，更開始大肆入侵大華國與俄聯邦。最後俄聯邦與佐基利亞合併，大佐基利亞共和國建國。
     [武裝部隊分為兩大軍種](../Page/武装力量.md "wikilink")，分別是國防軍和親衛軍，且兩者並不是由同一指揮系統指揮。
     執行任務時會呼喊「」。

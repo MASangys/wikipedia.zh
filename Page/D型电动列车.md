@@ -4,11 +4,11 @@
 
 ## 简介
 
-D型由[地铁车辆机械制造厂在](../Page/地铁车辆机械制造厂.md "wikilink")1955年-1963年生产，包括在1949年生产的М-5及UМ-5型（6辆），共668辆。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。[北京地铁和](../Page/北京地铁.md "wikilink")[平壤地铁的早期车型外观亦是受本车型的外观而影响](https://zh.wikipedia.org/wiki/平壤地铁 "wikilink")。
+D型由[地铁车辆机械制造厂](../Page/地铁车辆机械制造厂.md "wikilink")在1955年-1963年生产，包括在1949年生产的М-5及UМ-5型（6辆），共668辆。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。[北京地铁](../Page/北京地铁.md "wikilink")和[平壤地铁的早期车型外观亦是受本车型的外观而影响](https://zh.wikipedia.org/wiki/平壤地铁 "wikilink")。
 
 ## 历史
 
-本列车主要用于苏联时期的各加盟共和国的地下铁内。在[莫斯科地铁使用至](../Page/莫斯科地铁.md "wikilink")1995年，在[圣彼得堡地铁使用至](../Page/圣彼得堡地铁.md "wikilink")1992年，在[基辅地铁使用至](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")1969年，目前还有少数车厢在[新西伯利亚地铁作为试验车用](https://zh.wikipedia.org/wiki/新西伯利亚地铁 "wikilink")。
+本列车主要用于苏联时期的各加盟共和国的地下铁内。在[莫斯科地铁](../Page/莫斯科地铁.md "wikilink")使用至1995年，在[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")使用至1992年，在[基辅地铁使用至](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")1969年，目前还有少数车厢在[新西伯利亚地铁作为试验车用](https://zh.wikipedia.org/wiki/新西伯利亚地铁 "wikilink")。
 
 ## 编组列表
 

@@ -1,5 +1,5 @@
 **モデルガールズ**（Model
-Girls）是在2012年組成的[日本国民美腿](../Page/日本.md "wikilink")8人組合。
+Girls）是在2012年組成的[日本](../Page/日本.md "wikilink")国民美腿8人組合。
 所屬事務所為[オスカープロモーション](https://zh.wikipedia.org/wiki/オスカープロモーション "wikilink"),而唱片公司則為[デフスターレコーズ](https://zh.wikipedia.org/wiki/デフスターレコーズ "wikilink")。
 
 ## 概要
@@ -11,7 +11,7 @@ Girls）是在2012年組成的[日本国民美腿](../Page/日本.md "wikilink")
 パークタワー東京酒店舉行初次登台記者會](https://zh.wikipedia.org/wiki/ザ・プリンス_パークタワー東京 "wikilink"),發表將會於8月由[講談社發售寫真集](https://zh.wikipedia.org/wiki/講談社 "wikilink"),9月由[ポニーキャニオン發售DVD](https://zh.wikipedia.org/wiki/ポニーキャニオン "wikilink"),10月由[ソニーグループ推出首張CD](https://zh.wikipedia.org/wiki/ソニーグループ "wikilink")。
 
 同事務所前輩及原女子組合[シェイプUPガールズ成員](https://zh.wikipedia.org/wiki/シェイプUPガールズ "wikilink")[中島史恵擔任顧問](https://zh.wikipedia.org/wiki/中島史恵 "wikilink")。
-在タレントデビュー的宣傳記者會上,得到同事務所的[剛力彩芽和](../Page/剛力彩芽.md "wikilink")[武井咲前來支持](../Page/武井咲.md "wikilink"),並收到她們送贈的鮮花。
+在タレントデビュー的宣傳記者會上,得到同事務所的[剛力彩芽](../Page/剛力彩芽.md "wikilink")和[武井咲](../Page/武井咲.md "wikilink")前來支持,並收到她們送贈的鮮花。
 另外,為了紀念在2012年10月24日發售的首張單曲「ROCK STAR」,在組成地表参道舉行了首次現場直播活動。
 
 ## 簡歷

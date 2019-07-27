@@ -150,7 +150,7 @@
 ### 機車
 
   - **蒸氣機車**
-      - C58形（[363号機](https://zh.wikipedia.org/wiki/日本國鐵C58型蒸氣機車#363号機 "wikilink")・[秩父鐵道移籍](../Page/秩父鐵道.md "wikilink")）
+      - C58形（[363号機](https://zh.wikipedia.org/wiki/日本國鐵C58型蒸氣機車#363号機 "wikilink")・[秩父鐵道](../Page/秩父鐵道.md "wikilink")移籍）
   - **電力機車**
       - [EF62形](../Page/日本國鐵EF62型電力機車.md "wikilink")
       - [EF63形](../Page/日本國鐵EF63型電力機車.md "wikilink")

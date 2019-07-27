@@ -1,5 +1,5 @@
 《**The Third Album Part
-1**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K.Will第六張大碟](https://zh.wikipedia.org/wiki/K.Will "wikilink")，第三張[韓語正規專輯的第一部分](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2012年10月11日由[STARSHIP娛樂製作發行](../Page/STARSHIP娛樂.md "wikilink")\[1\]。專輯包括了7首歌，並以歌曲《請不要這樣》（）作主打單曲。
+1**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K.Will第六張大碟](https://zh.wikipedia.org/wiki/K.Will "wikilink")，第三張[韓語正規專輯的第一部分](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2012年10月11日由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")製作發行\[1\]。專輯包括了7首歌，並以歌曲《請不要這樣》（）作主打單曲。
 
 ## 曲目
 

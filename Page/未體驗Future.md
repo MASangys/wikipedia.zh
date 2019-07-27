@@ -1,5 +1,5 @@
 《**未體驗Future**》
-（）是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第十六張單曲](../Page/FTIsland.md "wikilink")（第十三張主流單曲），由作曲、作詞，並在2014年4月2日以四個不同版本推出\[1\]。
+（）是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十六張單曲（第十三張主流單曲），由作曲、作詞，並在2014年4月2日以四個不同版本推出\[1\]。
 
 ## 背景
 
@@ -10,7 +10,7 @@
 此單曲共分為4個發行版本，包括三個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本和不同的隨附卡序列碼。
 
   - 初回限定盤A：這版本包括了一片收錄了《用歌聲許下心願》（）的純音樂版本的單曲CD、一片收錄《ARENA TOUR 2013
-    FREEDOM》音樂會片段及《未體驗Future》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[5\]。
+    FREEDOM》音樂會片段及《未體驗Future》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ----- | ------ | ---- |
 | 單曲日榜                                     | 3    | 14190 | 22197+ | 4星期  |
 | 單曲週榜                                     | 5    | 22197 |        |      |

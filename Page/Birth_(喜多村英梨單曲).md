@@ -1,4 +1,4 @@
-《**Bitch**》是[喜多村英梨的第](../Page/喜多村英梨.md "wikilink")6首單曲，由製作，於2013年8月7日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
+《**Bitch**》是[喜多村英梨](../Page/喜多村英梨.md "wikilink")的第6首單曲，由製作，於2013年8月7日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要
 

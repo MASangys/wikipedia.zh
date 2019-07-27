@@ -1,20 +1,20 @@
 《**Jane
-Doe**》，[日本](../Page/日本.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[AKB48成員](../Page/AKB48.md "wikilink")[高橋南的個人solo出道](../Page/高橋南.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2013年4月3日由[日本環球音樂發售](../Page/環球音樂_\(日本\).md "wikilink")。
+Doe**》，[日本](../Page/日本.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")成員[高橋南](../Page/高橋南.md "wikilink")的個人solo出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2013年4月3日由[日本環球音樂發售](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 作品解説
 
-高橋是繼[板野友美](../Page/板野友美.md "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[河西智美後第](../Page/河西智美.md "wikilink")9個獨唱出道的[AKB48成員](../Page/AKB48.md "wikilink")\[1\]。
+高橋是繼[板野友美](../Page/板野友美.md "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")後第9個獨唱出道的[AKB48](../Page/AKB48.md "wikilink")成員\[1\]。
 
 本單曲以Type-A、B、C、劇場盤4種形式發售\[2\]\[3\]。
 
 表題曲《Jane
-Doe》是與高橋同為[Production尾木所屬的](https://zh.wikipedia.org/wiki/Production尾木 "wikilink")[仲間由紀惠主演的](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")、[富士電視台系](../Page/富士電視台.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")《[沙希](../Page/沙希_\(電視劇\).md "wikilink")》的片頭曲\[4\]\[5\]\[6\]。
+Doe》是與高橋同為[Production尾木所屬的](https://zh.wikipedia.org/wiki/Production尾木 "wikilink")[仲間由紀惠主演的](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")、[富士電視台](../Page/富士電視台.md "wikilink")系[連續劇](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")《[沙希](../Page/沙希_\(電視劇\).md "wikilink")》的片頭曲\[4\]\[5\]\[6\]。
 
 主題曲「Jane
 Doe」這個詞在英語中是指身份不明女性的假名，而在日語中「Jane」是很常用的女用名字，而「doe」在英文中本身有[无名氏的意思](https://zh.wikipedia.org/wiki/无名氏 "wikilink")，所以不知名的女人都可以用Jane
 Doe来称呼，這首歌是指把女性玩弄於手掌中男性的視線的意思。
 
-Type-C收錄的是翻唱[前田敦子的歌曲](../Page/前田敦子.md "wikilink")《[右肩](../Page/你就是我.md "wikilink")》\[7\]。
+Type-C收錄的是翻唱[前田敦子](../Page/前田敦子.md "wikilink")的歌曲《[右肩](../Page/你就是我.md "wikilink")》\[7\]。
 
 ## 活動
 
@@ -27,7 +27,7 @@ Doe』発売記念スペシャルライブ」的抽選。
 本作Type-A/B/C的商品條碼亦可用於参加在2013年4月8日舉行的「Minami Takahashi 22nd Premium
 Birthday Party」抽選。
 
-還有，[Chara-ani發售的劇場盤內含有迷你Live](../Page/Chara-ani.md "wikilink")&握手会的参加券抽選\[8\]。該活動在2013年4月13日[幕張展覽館舉行](../Page/幕張展覽館.md "wikilink")\[9\]。
+還有，[Chara-ani](../Page/Chara-ani.md "wikilink")發售的劇場盤內含有迷你Live&握手会的参加券抽選\[8\]。該活動在2013年4月13日[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行\[9\]。
 
 ## 收錄曲
 

@@ -1,5 +1,5 @@
 《**單色小姐 -The
-Animation-**》，是於2013年10月1日至12月25日於[東京電視台播放的](../Page/東京電視台.md "wikilink")5分钟短[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，电视台播放后亦会在NICONICO
+Animation-**》，是於2013年10月1日至12月25日於[東京電視台](../Page/東京電視台.md "wikilink")播放的5分钟短[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，电视台播放后亦会在NICONICO
 CHANNEL上播放。全13話。电视动画第2季于2015年7月3日由[Tokyo
 MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]。
 
@@ -517,7 +517,7 @@ MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]�
 | 播放地區                               | 播放電視台                                | 播放日期                | 播放時間              | 播放系列                                                    | 備註          |
 | ---------------------------------- | ------------------------------------ | ------------------- | ----------------- | ------------------------------------------------------- | ----------- |
 | 關東廣域圈                              | [東京電視台](../Page/東京電視台.md "wikilink") | 2013年10月1日 - 12月17日 | 星期二 25:35 - 25:40 | [東京電視台系列](https://zh.wikipedia.org/wiki/TXN "wikilink") | **製作委員會參加** |
-| [日本全域](../Page/日本.md "wikilink")   | NICONICO CHANNEL                     | 星期二 25:40 更新        | 網站配信              |                                                         |             |
+| [日本](../Page/日本.md "wikilink")全域   | NICONICO CHANNEL                     | 星期二 25:40 更新        | 網站配信              |                                                         |             |
 | [AT-X](../Page/AT-X.md "wikilink") | 2013年10月8日 - 12月31日                  | 星期二 21:25 - 21:30   | 動畫專門CS放送          | 有重播                                                     |             |
 
 ## 參考資料

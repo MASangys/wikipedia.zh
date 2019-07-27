@@ -1,4 +1,4 @@
-《**CUT**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[炎亞綸](../Page/炎亞綸.md "wikilink")2014迷你專輯2號作品，在2014年6月27日發行，收錄六首[炎亞綸有柔有剛](../Page/炎亞綸.md "wikilink")、有光有暗、有愛有恨、有血有淚的真我樂章
+《**CUT**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[炎亞綸](../Page/炎亞綸.md "wikilink")2014迷你專輯2號作品，在2014年6月27日發行，收錄六首[炎亞綸](../Page/炎亞綸.md "wikilink")有柔有剛、有光有暗、有愛有恨、有血有淚的真我樂章
 
 ## 曲目
 
@@ -17,8 +17,8 @@
 
 | 歌名                    | 執導   | 首播日期       | 附註                                                                                                |
 | --------------------- | ---- | ---------- | ------------------------------------------------------------------------------------------------- |
-| 一刀不剪 No Cut           | 多田卓也 | 2014年6月23日 | 日本女神級的藝人[藤井莉娜跨刀演出](../Page/藤井莉娜.md "wikilink")                                                    |
-| 一刀不剪 No Cut舞蹈版        | 賴偉康  | 2014年8月20日 | [郭雪芙特別演出](../Page/郭雪芙.md "wikilink")                                                              |
+| 一刀不剪 No Cut           | 多田卓也 | 2014年6月23日 | 日本女神級的藝人[藤井莉娜](../Page/藤井莉娜.md "wikilink")跨刀演出                                                    |
+| 一刀不剪 No Cut舞蹈版        | 賴偉康  | 2014年8月20日 | [郭雪芙](../Page/郭雪芙.md "wikilink")特別演出                                                              |
 | 台北沉睡了 Taipei Dreamin' | 黃中平  | 2013年8月12日 | [Popu Lady](../Page/Popu_Lady.md "wikilink")[宇珊特別演出](https://zh.wikipedia.org/wiki/宇珊 "wikilink") |
 
 [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")

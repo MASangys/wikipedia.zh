@@ -1,4 +1,4 @@
-「**T**」為[東方神起在](../Page/東方神起.md "wikilink")2008年1月23日於[日本發行的第](../Page/日本.md "wikilink")3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。分《2CD+2DVD》、《CD+DVD》、《CD
+「**T**」為[東方神起](../Page/東方神起.md "wikilink")在2008年1月23日於[日本](../Page/日本.md "wikilink")發行的第3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。分《2CD+2DVD》、《CD+DVD》、《CD
 ONLY》三種形態發售。
 
 ## 专辑曲目

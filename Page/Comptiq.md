@@ -1,4 +1,4 @@
-《**Comptiq**》（）是[日本](../Page/日本.md "wikilink")[角川書店發行的漫畫](../Page/角川書店.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1983年創刊。
+《**Comptiq**》（）是[日本](../Page/日本.md "wikilink")[角川書店](../Page/角川書店.md "wikilink")發行的漫畫[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1983年創刊。
 
 ## 連載作品
 
@@ -47,7 +47,7 @@
     （原案：CIRCUS / 作画：Cherish\[1\]）
   - [D.C.II 〜ダ・カーポII〜](../Page/初音島II.md "wikilink") （原作：CIRCUS /
     作画：[龍牙翔](../Page/龍牙翔.md "wikilink")）
-  - [伊甸少年](../Page/伊甸少年.md "wikilink")（[天王寺狐](../Page/天王寺狐.md "wikilink")　後に[月刊少年Aceに移動](../Page/月刊少年Ace.md "wikilink")）
+  - [伊甸少年](../Page/伊甸少年.md "wikilink")（[天王寺狐](../Page/天王寺狐.md "wikilink")　後に[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")に移動）
   - [ムーンクエスト](https://zh.wikipedia.org/wiki/ムーンクエスト "wikilink")（[桐嶋たける](https://zh.wikipedia.org/wiki/桐嶋たける "wikilink")　後に[電擊王に移動](https://zh.wikipedia.org/wiki/電擊王 "wikilink")、タイトルは[ムーンヴォイスに変更](https://zh.wikipedia.org/wiki/ムーンヴォイス "wikilink")）
   - [ダンジョンマスター](https://zh.wikipedia.org/wiki/ダンジョンマスター "wikilink")（栗橋伸祐　単行本は[メディアワークスより刊行](https://zh.wikipedia.org/wiki/メディアワークス "wikilink")）
   - [リスティス](https://zh.wikipedia.org/wiki/リスティス "wikilink")（わたぬきほづみ（[うたたねひろゆき](https://zh.wikipedia.org/wiki/うたたねひろゆき "wikilink")）

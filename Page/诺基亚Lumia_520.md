@@ -38,7 +38,7 @@ Lumia 520带有1430 mAh 电池，比[Lumia
 ## 变体
 
 诺基亚Lumia 521，一种特殊变体机型
-，是由美国[T-Mobile所改造](../Page/T-Mobile.md "wikilink")。521
+，是由美国[T-Mobile](../Page/T-Mobile.md "wikilink")所改造。521
 比520稍长于3.1毫米\[9\](vs. 119.9 mm\[10\])，所以520的后壳配件和手机屏幕贴膜不适配与510
 
 | 机型      | RM-913                                                             | RM-914       | RM-915                              | RM-917                                                                                                                             |

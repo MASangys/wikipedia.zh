@@ -3,8 +3,8 @@
 谷歌女性Women@Google, 谷歌音乐家Musicians@Google 以及其它演讲系列。关于技术的演讲，被称作**Google
 Tech Talks** (也被称作EngEDU \[1\]) 。
 
-2006年3月,谷歌宣布这些演讲视频会在[Google视频公布](../Page/Google视频.md "wikilink")。\[2\]\[3\]
-现在这多数视频在[YouTube上播放](../Page/YouTube.md "wikilink")。
+2006年3月,谷歌宣布这些演讲视频会在[Google视频](../Page/Google视频.md "wikilink")公布。\[2\]\[3\]
+现在这多数视频在[YouTube](../Page/YouTube.md "wikilink")上播放。
 
 ## 演讲人
 
@@ -23,7 +23,7 @@ Tech Talks** (也被称作EngEDU \[1\]) 。
   - [Bob
     Woodward](https://zh.wikipedia.org/wiki/Bob_Woodward "wikilink"), 记者
   - [穆罕默德·尤纳斯](../Page/穆罕默德·尤纳斯.md "wikilink"),
-    经济学家和[诺贝尔和平奖获得者](../Page/诺贝尔和平奖.md "wikilink")
+    经济学家和[诺贝尔和平奖](../Page/诺贝尔和平奖.md "wikilink")获得者
   - [Raphael
     Saadiq](https://zh.wikipedia.org/wiki/Raphael_Saadiq "wikilink"),
     音乐家

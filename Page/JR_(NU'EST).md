@@ -1,4 +1,4 @@
-**金鍾炫**\[1\]（，），藝名**JR**（）。為[Pledis娛樂旗下首個男子團體](../Page/Pledis娛樂.md "wikilink")[NU'EST隊長](../Page/NU'EST.md "wikilink")，擔任主Rapper和領舞\[2\]。2017年以本名參加《[PRODUCE
+**金鍾炫**\[1\]（，），藝名**JR**（）。為[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下首個男子團體[NU'EST](../Page/NU'EST.md "wikilink")隊長，擔任主Rapper和領舞\[2\]。2017年以本名參加《[PRODUCE
 101
 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》\[3\]，展示出非凡的領導力，被譽為「國民隊長」，温柔穩重的表現與不凡實力獲得大眾目光\[4\]，雖然最後未能入選[Wanna
 One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")\[5\]，卻仍贏得極高人氣。
@@ -8,11 +8,11 @@ One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")\[5\]，卻仍贏得極�
 ### 出道前
 
 金鍾炫是Pledis娛樂的首位男性練習生。在2009年與[After
-School的](../Page/After_School.md "wikilink")[Raina和](../Page/Raina.md "wikilink")[Lizzy同期進公司](../Page/Lizzy_\(韓國歌手\).md "wikilink")，自14歲就成為練習生\[6\]。單獨一人練習的時間長達一年，實力超群的他更擔任公司內其他練習生的舞蹈老師和饒舌老師。\[7\]
+School的](../Page/After_School.md "wikilink")[Raina](../Page/Raina.md "wikilink")和[Lizzy同期進公司](../Page/Lizzy_\(韓國歌手\).md "wikilink")，自14歲就成為練習生\[6\]。單獨一人練習的時間長達一年，實力超群的他更擔任公司內其他練習生的舞蹈老師和饒舌老師。\[7\]
 
 鍾炫是第一個公開的男性練習生，在Pledis在2011年3月公開徵選After School
 Boys的宣傳海報及影片首次亮相。\[8\]\[9\]
-6月，鍾炫和[姜東昊在節目](../Page/姜東昊.md "wikilink")《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》中亮相3秒，就接連3日佔據娛樂新聞主版面，引起大眾的關心。\[10\]2012年2月，鍾炫在弘大被舞蹈導師邀請上台作出即興B-BOY表演，精采的表現引起觀眾的關注。\[11\]
+6月，鍾炫和[姜東昊](../Page/姜東昊.md "wikilink")在節目《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》中亮相3秒，就接連3日佔據娛樂新聞主版面，引起大眾的關心。\[10\]2012年2月，鍾炫在弘大被舞蹈導師邀請上台作出即興B-BOY表演，精采的表現引起觀眾的關注。\[11\]
 
 鍾炫也參與師姐們多個的音樂作品，他擔任After School〈Someone Is
 You〉的男合音之一，更負責[Uie](../Page/Uie.md "wikilink")〈쏙쏙쏙
@@ -32,7 +32,7 @@ Talking](../Page/Sleep_Talking.md "wikilink")》回歸，主打曲均講述愛�
 
 ### PRODUCE 101 第二季
 
-團體發展不上不下的[NU'EST在](../Page/NU'EST.md "wikilink")2017年2月宣布暫停團體活動，JR以本名金鍾炫與姜東昊、黃旼炫、[崔珉起以Pledis練習生的身份參加](../Page/崔珉起.md "wikilink")[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[PRODUCE
+團體發展不上不下的[NU'EST](../Page/NU'EST.md "wikilink")在2017年2月宣布暫停團體活動，JR以本名金鍾炫與姜東昊、黃旼炫、[崔珉起](../Page/崔珉起.md "wikilink")以Pledis練習生的身份參加[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[PRODUCE
 101
 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》。\[23\]在第四集的分組對抗比賽中，金鐘炫充滿耐性地教導實力不足的組員，帶領全組努力前進。當導師責問態度散漫的組員為何跟不上進度，金鍾炫歸咎於自己身上，溫柔堅定的相信著隊友，被網民封為「國民隊長」、「聖光」和「佛光」。\[24\]
 
@@ -49,7 +49,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 即使沒有入選Wanna One，JR仍保持著極高的人氣。節目後續被選為未來最期待的PRODUCE 101
 (第二季)參加者\[32\]，PRODUCE 101
-(第二季)終演演唱會後突然開始的Vlive直播也獲得熱烈的反應，不足一個小時就吸引22萬人次觀看，愛心數更達到近1400萬\[33\]。同時，JR收到各方的邀約，成為[JTBC綜藝節目](../Page/JTBC.md "wikilink")《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》的固定成員\[34\]。JR與REN共同成為化妝品品牌《LABIOTTE》代言人\[35\]，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[36\]。且受邀擔任[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")[LG雙子對](../Page/LG雙子.md "wikilink")[斗山熊三連戰第三場的開球嘉賓](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")。\[37\]
+(第二季)終演演唱會後突然開始的Vlive直播也獲得熱烈的反應，不足一個小時就吸引22萬人次觀看，愛心數更達到近1400萬\[33\]。同時，JR收到各方的邀約，成為[JTBC](../Page/JTBC.md "wikilink")綜藝節目《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》的固定成員\[34\]。JR與REN共同成為化妝品品牌《LABIOTTE》代言人\[35\]，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[36\]。且受邀擔任[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")[LG雙子](../Page/LG雙子.md "wikilink")對[斗山熊三連戰第三場的開球嘉賓](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")。\[37\]
 
 ## 音樂作品
 
@@ -128,7 +128,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 | 2017年8月6日-2018年3月18日   | JTBC      | 《夜行鬼怪》                                                    | EP2 開始固定主持 | EP2-32 |
 | 2017年9月1日-11月16日       | tvN       | 《[奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")》 | EP8 開始固定主持 | EP8-19 |
 | 2018年4月28日-5月19日       | E Channel | 《出生以來第一次》                                                 |            | EP9-12 |
-| 2018年6月29日-9月14日       | JTBC2     | 《[自討苦吃S](../Page/自討苦吃.md "wikilink")2》                    | S2 固定主持    | EP1-12 |
+| 2018年6月29日-9月14日       | JTBC2     | 《[自討苦吃](../Page/自討苦吃.md "wikilink")S2》                    | S2 固定主持    | EP1-12 |
 | 2018年7月11日-8月29日       | Mnet      | 《[Love Catcher](../Page/Love_Catcher.md "wikilink")》      | 固定主持       | EP1-8  |
 | 2018年7月20日-2019年5月14日  | JTBC      | 《連線LIFE（中譯：網線生活）》                                         | EP3 開始固定主持 | EP3-42 |
 | 2018年12月20日-2019年1月24日 | Mnet      | 《[不是你所認識的我](../Page/不是你所認識的我.md "wikilink")》              | 固定主持       | EP1-6  |

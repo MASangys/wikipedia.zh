@@ -1,5 +1,5 @@
 Acer TravelMate 8481
-是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁開發及生產](../Page/宏碁.md "wikilink")，採用[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")。
+是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發及生產，採用[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")。
 
 ## 系列產品
 
@@ -21,8 +21,8 @@ TravelMate 8481TG，它們之間的差別為獨立顯卡和超長電池使用時
 | [屏幕](../Page/显示器.md "wikilink")                       | 14.1英寸 [TFT](../Page/薄膜電晶體液晶顯示器.md "wikilink")（采用[LED作为背光](https://zh.wikipedia.org/wiki/LED "wikilink")，[显示分辨率](https://zh.wikipedia.org/wiki/显示分辨率 "wikilink")：1366x768                         |
 | [GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")   | [Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") Geforece 520M                                                                                                                           |
 | [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")   | 可选2-8GB PC2-5300 [DDR3 SDRAM](../Page/DDR3_SDRAM.md "wikilink") 1600 MHz [SO-DIMM](../Page/SO-DIMM.md "wikilink")                                                                                 |
-| [输入设备](https://zh.wikipedia.org/wiki/输入设备 "wikilink") | [触摸板](https://zh.wikipedia.org/wiki/触摸板 "wikilink")、[指纹识别](../Page/指纹识别.md "wikilink")、[摄像头以及全尺寸](../Page/摄像头.md "wikilink")[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")                     |
-| [硬盘](../Page/硬盘.md "wikilink")                        | 64[GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink") [固态硬盘和](../Page/固态硬盘.md "wikilink")500GB[機械硬盤雙硬盤系統](https://zh.wikipedia.org/wiki/機械硬盤 "wikilink")                                      |
+| [输入设备](https://zh.wikipedia.org/wiki/输入设备 "wikilink") | [触摸板](https://zh.wikipedia.org/wiki/触摸板 "wikilink")、[指纹识别](../Page/指纹识别.md "wikilink")、[摄像头](../Page/摄像头.md "wikilink")以及全尺寸[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")                     |
+| [硬盘](../Page/硬盘.md "wikilink")                        | 64[GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink") [固态硬盘](../Page/固态硬盘.md "wikilink")和500GB[機械硬盤雙硬盤系統](https://zh.wikipedia.org/wiki/機械硬盤 "wikilink")                                      |
 | [光盘驱动器](../Page/光盘驱动器.md "wikilink")                  | 無                                                                                                                                                                                                 |
 | [个人网](https://zh.wikipedia.org/wiki/个人网 "wikilink")   | [Bluetooth](../Page/藍牙.md "wikilink")3.0                                                                                                                                                          |
 | [局域网](../Page/局域网.md "wikilink")                      | Intel Wireless [WiFi](../Page/Wi-Fi.md "wikilink") Link 4965AGN，支持[802.11a/b/g/draft-n](../Page/IEEE_802.11.md "wikilink")，Intel Pro/1000 [千兆以太網](https://zh.wikipedia.org/wiki/千兆以太網 "wikilink") |

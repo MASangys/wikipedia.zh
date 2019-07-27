@@ -6,14 +6,14 @@ FineReport是一款由Java语言开发、基于B/S架构的报表软件,主要�
 
 FineReport报表软件可以访问的数据源包括有：
 
-  - 储在[数据库系统内的数据](../Page/数据库.md "wikilink")，例如：[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")、[Sybase](../Page/Sybase.md "wikilink")、[IBM
+  - 储在[数据库](../Page/数据库.md "wikilink")系统内的数据，例如：[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")、[Sybase](../Page/Sybase.md "wikilink")、[IBM
     DB2](../Page/IBM_DB2.md "wikilink")、[Microsoft
     Access](../Page/Microsoft_Access.md "wikilink")、[Microsoft SQL
     Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[MySQL](../Page/MySQL.md "wikilink")、[Derby及Postgre等](https://zh.wikipedia.org/wiki/Derby "wikilink")。
   - 储在[试算表内的数据](https://zh.wikipedia.org/wiki/试算表 "wikilink")，例如：[Microsoft
     Excel](../Page/Microsoft_Excel.md "wikilink")
   - 文本文件
-  - [XML文件](../Page/XML.md "wikilink")
+  - [XML](../Page/XML.md "wikilink")文件
   - 程序数据集
   - 内置数据
   - BI多维数据库：Essbase、ssas、sap、hadoop以及[FineBI](http://www.finebi.com/)的cube

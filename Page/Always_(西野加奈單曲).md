@@ -1,4 +1,4 @@
-《**Always**》為[日本歌手](../Page/日本.md "wikilink")[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2012年11月7日發行的第19張單曲。
+《**Always**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2012年11月7日發行的第19張單曲。
 
 ## 解說
 
@@ -6,7 +6,7 @@
     IT\!\!](../Page/GO_FOR_IT!!.md "wikilink")》相隔約5個月的單曲。2012年第4彈單曲。
   - 初回仕様盤封入特別封面及貼紙。
   - 標題曲〈**Always**〉為本人代言的[SONY頭戴式耳機](https://zh.wikipedia.org/wiki/SONY "wikilink")「MDR-1系列」的廣告曲。B面曲〈**Happy
-    Song**〉則為[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")[WalkmanF](../Page/Walkman.md "wikilink")800系列廣告曲。
+    Song**〉則為[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")[Walkman](../Page/Walkman.md "wikilink")F800系列廣告曲。
 
 ## 發行版本
 

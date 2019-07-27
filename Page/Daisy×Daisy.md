@@ -13,9 +13,9 @@ Galactica](https://zh.wikipedia.org/wiki/Office_Galactica "wikilink")。
   - 家人：父親（[近藤信光](https://zh.wikipedia.org/wiki/近藤信光 "wikilink")
     已故）、母親、姊姊[水樹奈奈](../Page/水樹奈奈.md "wikilink")（原名
     近藤奈奈）
-  - [VOCALOID角色リング](../Page/VOCALOID.md "wikilink")・スズネ（Ring Suzune）聲源。
+  - [VOCALOID](../Page/VOCALOID.md "wikilink")角色リング・スズネ（Ring Suzune）聲源。
 
-MiKA時常戴著不同的假髮，髮型在日常生活為黑色短髮，出席活動很多時會戴雙馬尾和假長髮，主要顏色有金、白、黑，有時更加會裝成男生的樣子演出。衣著有著[原宿系的風格打扮](../Page/原宿.md "wikilink")，她很喜歡穿著蕾絲和絲帶的裙子。
+MiKA時常戴著不同的假髮，髮型在日常生活為黑色短髮，出席活動很多時會戴雙馬尾和假長髮，主要顏色有金、白、黑，有時更加會裝成男生的樣子演出。衣著有著[原宿](../Page/原宿.md "wikilink")系的風格打扮，她很喜歡穿著蕾絲和絲帶的裙子。
 
 ## 唱片
 

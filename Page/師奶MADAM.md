@@ -1,4 +1,4 @@
-《**師奶MADAM**》（）（台灣TVBS歡樂台播出的名稱是《**師奶警花**》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝的時裝喜劇](../Page/電視廣播有限公司.md "wikilink")。此劇由[蕭正楠及](../Page/蕭正楠.md "wikilink")[黃翠如領銜主演](../Page/黃翠如.md "wikilink")，並由[黃智雯](../Page/黃智雯.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[簡慕華及](../Page/簡慕華.md "wikilink")[梁嘉琪聯合主演](../Page/梁嘉琪.md "wikilink")，監製[李艷芳](../Page/李艷芳.md "wikilink")。
+《**師奶MADAM**》（）（台灣TVBS歡樂台播出的名稱是《**師奶警花**》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝的時裝喜劇。此劇由[蕭正楠](../Page/蕭正楠.md "wikilink")及[黃翠如](../Page/黃翠如.md "wikilink")領銜主演，並由[黃智雯](../Page/黃智雯.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[簡慕華](../Page/簡慕華.md "wikilink")及[梁嘉琪](../Page/梁嘉琪.md "wikilink")聯合主演，監製[李艷芳](../Page/李艷芳.md "wikilink")。
 
 此劇為第18屆香港國際影視展中無綫電視所推介的19部劇集之一及2014中國國際影視展中無綫電視所推介的25部劇集之一。
 
@@ -404,7 +404,7 @@ Richard之女友<br />
 <tr class="even">
 <td><p><a href="../Page/張漢斌.md" title="wikilink">張漢斌</a></p></td>
 <td><p>叉燒炳<br />
-名字與演員<a href="https://zh.wikipedia.org/wiki/劉丹" title="wikilink">劉丹於劇集</a><a href="../Page/真情.md" title="wikilink">真情中飾演的角色相同</a></p></td>
+名字與演員<a href="https://zh.wikipedia.org/wiki/劉丹" title="wikilink">劉丹於劇集</a><a href="../Page/真情.md" title="wikilink">真情</a>中飾演的角色相同</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -501,7 +501,7 @@ Richard之女友<br />
 
 ## 收視
 
-以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                  |          |          |
 | ------ | ------ | ---------------- | -------- | -------- |
@@ -610,12 +610,12 @@ Richard之女友<br />
 
 ## 軼事
 
-  - 此劇為男女演員[蕭正楠以及](../Page/蕭正楠.md "wikilink")[黃翠如](../Page/黃翠如.md "wikilink")（本劇男女主角的飾演者）的定情劇，二人因拍攝本劇而擦出火花，從而發展成為情侶、於2018年結婚。
-  - 此劇為2015年[無綫月曆之一](../Page/無綫月曆.md "wikilink")。
+  - 此劇為男女演員[蕭正楠](../Page/蕭正楠.md "wikilink")以及[黃翠如](../Page/黃翠如.md "wikilink")（本劇男女主角的飾演者）的定情劇，二人因拍攝本劇而擦出火花，從而發展成為情侶、於2018年結婚。
+  - 此劇為2015年[無綫月曆](../Page/無綫月曆.md "wikilink")之一。
 
 ## 場景
 
-  - 劇中的「順風商場」外觀取景於[秀茂坪商場](../Page/秀茂坪商場.md "wikilink")，室內則是[筲箕灣天悅廣場](../Page/筲箕灣.md "wikilink")。「順風邨」的外景則取景於[秀茂坪邨及](../Page/秀茂坪邨.md "wikilink")[秀茂坪南邨](../Page/秀茂坪南邨.md "wikilink")。
+  - 劇中的「順風商場」外觀取景於[秀茂坪商場](../Page/秀茂坪商場.md "wikilink")，室內則是[筲箕灣](../Page/筲箕灣.md "wikilink")天悅廣場。「順風邨」的外景則取景於[秀茂坪邨](../Page/秀茂坪邨.md "wikilink")及[秀茂坪南邨](../Page/秀茂坪南邨.md "wikilink")。
 
 ## 記事
 
@@ -632,6 +632,8 @@ Richard之女友<br />
 
   - [師奶MADAM - myTV
     SUPER](http://programme.mytvsuper.com/tc/104910/師奶madam/casts)
+  - [師奶MADAM -
+    encoreTVB](https://encoretvb.com/cantonese/series/AXwr8kJK-Madam_Cutie_On_Duty)
 
 ## 電視節目的變遷
 

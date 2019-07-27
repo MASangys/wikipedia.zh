@@ -1,6 +1,6 @@
-**GOT7**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2014年推出的7人男子團體，由四名[韓國成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JB](../Page/林在範.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[有謙](../Page/金有謙.md "wikilink")，及三名外籍成員，分別是[华裔美籍的](https://zh.wikipedia.org/wiki/华裔美籍 "wikilink")[Mark](../Page/段宜恩.md "wikilink")、[香港的](../Page/香港.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")，以及[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[BamBam組成](../Page/BamBam.md "wikilink")，由JB擔任隊長。GOT7為JYP娛樂時隔6年再次推出的[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，是JYP娛樂的首支[嘻哈團體](../Page/嘻哈.md "wikilink")，由多國籍成員組成，擅長表演「」（又名「MAT」）。
+**GOT7**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2014年推出的7人男子團體，由四名[韓國成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JB](../Page/林在範.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[有謙](../Page/金有謙.md "wikilink")，及三名外籍成員，分別是[台裔美籍的](https://zh.wikipedia.org/wiki/台裔美籍 "wikilink")[Mark](../Page/段宜恩.md "wikilink")、[香港](../Page/香港.md "wikilink")的[Jackson](../Page/王嘉爾.md "wikilink")，以及[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[BamBam](../Page/BamBam.md "wikilink")組成，由JB擔任隊長。GOT7為JYP娛樂時隔6年再次推出的[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，是JYP娛樂的首支[嘻哈](../Page/嘻哈.md "wikilink")團體，由多國籍成員組成，擅長表演「」（又名「MAT」）。
 martial arts
-tricking是以含有武術要素的動作為背景的華麗技術，將踢腿和旋轉動作與[B-boy的舞蹈做巧妙結合的表演風格](../Page/B-boy.md "wikilink")。2014年1月16日以《Girls
+tricking是以含有武術要素的動作為背景的華麗技術，將踢腿和旋轉動作與[B-boy](../Page/B-boy.md "wikilink")的舞蹈做巧妙結合的表演風格。2014年1月16日以《Girls
 Girls Girls》正式出道。
 
 2017年3月6日，GOT7迷你三輯《Just
@@ -64,9 +64,9 @@ Project發行首張單曲](../Page/JJ_Project.md "wikilink")《Bounce》，並�
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道單曲專輯主打歌曲〈Bounce〉，為JJ
 Project出道舞台。
 
-2013年12月24日[JYP娛樂表示將推出七人新男團](../Page/JYP娛樂.md "wikilink")，其中兩名成員為[JJ
+2013年12月24日[JYP娛樂](../Page/JYP娛樂.md "wikilink")表示將推出七人新男團，其中兩名成員為[JJ
 Project的](../Page/JJ_Project.md "wikilink")[JB和](../Page/林在範.md "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")\[15\]（JJ
-Project並非隸屬於GOT7的子團），2014年1月1日宣布GOT7出道消息，2014年1月3日公開兩位成員，分別是[Mark和JB](../Page/段宜恩.md "wikilink")\[16\]，2014年1月6日再度公布兩位成員[Jackson和](../Page/王嘉爾.md "wikilink")[有謙](../Page/金有謙.md "wikilink")\[17\]，2014年1月7日公開最後三名成員珍榮、[BamBam和](../Page/BamBam.md "wikilink")[榮宰](../Page/崔榮宰.md "wikilink")\[18\]，其中成員Mark、Jackson、BamBam及有謙，已於2013年底Mnet的生存計畫節目《[WIN](../Page/WIN.md "wikilink")》中作為JYP娛樂的練習生曝光
+Project並非隸屬於GOT7的子團），2014年1月1日宣布GOT7出道消息，2014年1月3日公開兩位成員，分別是[Mark和JB](../Page/段宜恩.md "wikilink")\[16\]，2014年1月6日再度公布兩位成員[Jackson和](../Page/王嘉爾.md "wikilink")[有謙](../Page/金有謙.md "wikilink")\[17\]，2014年1月7日公開最後三名成員珍榮、[BamBam](../Page/BamBam.md "wikilink")和[榮宰](../Page/崔榮宰.md "wikilink")\[18\]，其中成員Mark、Jackson、BamBam及有謙，已於2013年底Mnet的生存計畫節目《[WIN](../Page/WIN.md "wikilink")》中作為JYP娛樂的練習生曝光
 。2014年1月9日和1月13日各釋出一個預告影片\[19\]\[20\]，2014年1月15日透過Showcase展示第一個舞台\[21\]，並且公開出道主打歌曲《Girs
 Girls Girls》的MV\[22\]，MV公開僅兩天，觀看次數就突破100萬，刷新了新人歌手的紀錄。\[23\]
 
@@ -90,14 +90,14 @@ WORLD](https://zh.wikipedia.org/wiki/AROUND_THE_WORLD "wikilink")》，正式在
 
 11月7日JYP娛樂於推特公布GOT7首張正規專輯《[Identify](https://zh.wikipedia.org/wiki/Identify "wikilink")》的預告照，11月17日公開主打歌曲《Stop
 Stop It》的MV，並舉辦回歸Showcase\[33\]。11月20日發行首張韓語正規專輯《Identify》，並透過Mnet《M\!
-Countdown》帶來回歸舞台表演。11月22日在[Facebook上和全球粉絲進行問答互動](../Page/Facebook.md "wikilink")，短短一個小時內留言量超過14萬條，刷新了韓國同類型活動的記錄。\[34\]12月23日宣布將於2015年1月在台北、上海、香港舉行亞洲巡迴Showcase。
+Countdown》帶來回歸舞台表演。11月22日在[Facebook](../Page/Facebook.md "wikilink")上和全球粉絲進行問答互動，短短一個小時內留言量超過14萬條，刷新了韓國同類型活動的記錄。\[34\]12月23日宣布將於2015年1月在台北、上海、香港舉行亞洲巡迴Showcase。
 
 ### 2015年：金唱片及首爾歌謠大賞新人獎、海外拓展，憑《If You Do》獲得出道初一位
 
-1月14日赴北京參加第29屆韓國《[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")》，獲頒最佳新人獎和年度最具愛心獎，但成員BamBam和有謙因簽證問題，未能一同出席頒獎典禮\[35\]。1月19日首次造訪台灣，隔天於台北舉行Showcase，特別演唱[周杰倫與](../Page/周杰倫.md "wikilink")[王力宏的歌曲](../Page/王力宏.md "wikilink")，也全程以[華語對話](https://zh.wikipedia.org/wiki/華語 "wikilink")。\[36\]。1月22日獲頒第24屆《[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")》新人獎，1月27日GOT7與JYP娛樂旗下女演員[宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")、[miss
+1月14日赴北京參加第29屆韓國《[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")》，獲頒最佳新人獎和年度最具愛心獎，但成員BamBam和有謙因簽證問題，未能一同出席頒獎典禮\[35\]。1月19日首次造訪台灣，隔天於台北舉行Showcase，特別演唱[周杰倫](../Page/周杰倫.md "wikilink")與[王力宏](../Page/王力宏.md "wikilink")的歌曲，也全程以[華語對話](https://zh.wikipedia.org/wiki/華語 "wikilink")。\[36\]。1月22日獲頒第24屆《[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")》新人獎，1月27日GOT7與JYP娛樂旗下女演員[宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")、[miss
 A成員](https://zh.wikipedia.org/wiki/miss_A "wikilink")[Min所主演的網路電視劇](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")《Dream
 Knight（玩偶騎士）》通過優酷土豆網以及NAVER TV
-CAST播出首集，JYP娛樂旗下的[朴軫永](../Page/朴軫永.md "wikilink")、[2PM成員](https://zh.wikipedia.org/wiki/2PM "wikilink")[黃燦盛](../Page/黃燦盛.md "wikilink")、[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")、[崔宇植等藝人也在劇中客串演出](../Page/崔宇植.md "wikilink")\[37\]。1月30日在香港舉行拍手會，隔日於香港亞洲博覽館舉辦Showcase。\[38\]
+CAST播出首集，JYP娛樂旗下的[朴軫永](../Page/朴軫永.md "wikilink")、[2PM成員](https://zh.wikipedia.org/wiki/2PM "wikilink")[黃燦盛](../Page/黃燦盛.md "wikilink")、[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")、[崔宇植](../Page/崔宇植.md "wikilink")等藝人也在劇中客串演出\[37\]。1月30日在香港舉行拍手會，隔日於香港亞洲博覽館舉辦Showcase。\[38\]
 3、4月分別在泰國曼谷、馬來西亞和新加坡舉辦首次亞洲粉絲見面會，其中泰國的兩場見面會門票在開賣後5分鐘內便售罄\[39\]。5月首次前往美國洛杉磯參加Korea
 Times音樂節公演，並於舊金山、芝加哥、達拉斯三個城市舉辦美國粉絲見面會\[40\]。5月20日成員Jr.在個人推特上宣布改名為「Junior」，GOT7官方網站也隨即發布改名聲明\[41\]。
 [左](https://zh.wikipedia.org/wiki/File:KCON_2015_Got7_DSC02762_\(20378298525\).jpg "fig:左")表演\]\]
@@ -144,7 +144,7 @@ MTV《THE SHOW》連續再收穫5座冠軍，達成「All-Kill」\[48\]。3月30
 4月29日、30日，GOT7以首爾為起點展開首次世界巡迴演唱會《GOT7 1st
 CONCERT「FLY」》，在首爾SK奧林匹克手球競技場舉行國內首次單獨演唱會《GOT7
 1st CONCERT' FLY IN
-SEOUL'》，共吸引了8000餘名粉絲參與\[52\]，但隊長[JB因腰傷](../Page/林在範.md "wikilink")（[椎间盘異常](../Page/椎间盘.md "wikilink")）接連兩天未能上台演出，在演唱會的最後，JB作為特別嘉賓驚喜現身，除了為缺席演唱會向歌迷表達歉意外，並承諾會好好休養，早日以比現在健康兩倍的身體回歸舞台\[53\]。
+SEOUL'》，共吸引了8000餘名粉絲參與\[52\]，但隊長[JB因腰傷](../Page/林在範.md "wikilink")（[椎间盘](../Page/椎间盘.md "wikilink")異常）接連兩天未能上台演出，在演唱會的最後，JB作為特別嘉賓驚喜現身，除了為缺席演唱會向歌迷表達歉意外，並承諾會好好休養，早日以比現在健康兩倍的身體回歸舞台\[53\]。
 5月24日，GOT7在泰國一場粉絲見面會中和1,972名粉絲一起進行了「摺[紙飛機](../Page/纸飞机.md "wikilink")」活動，此舉打破了「最多人在單一場地同時製造紙飛機」的[吉尼斯世界紀錄](https://zh.wikipedia.org/wiki/吉尼斯世界纪录大全 "wikilink")，使GOT7成為該項紀錄的保持者。6月11日、12日在泰國曼谷成功舉行了演唱會「GOT7
 1st CONCERT FLY IN
 BANGKOK」，共吸引2萬2千名粉絲到場，演唱會相關消息更在當地的推特上獲得第一，成為網络上熱門話題\[54\]。8月16日，成員Junior於個人推特、Instagram上宣布未來將以本名「珍榮」活動，原本的藝名「Junior」將不再使用。
@@ -153,7 +153,7 @@ BANGKOK」，共吸引2萬2千名粉絲到場，演唱會相關消息更在當�
 
 **韓語正規二輯-飛行日誌二部曲《FLIGHT LOG : TURBULENCE》**
 
-在結束橫跨美洲與亞洲共13個城市的世界巡迴演唱會後，GOT7於8月20、21日回到[首爾舉辦FINAL安可演唱會](../Page/首爾.md "wikilink")，並於9月27日帶著第二張正規專輯《[FLIGHT
+在結束橫跨美洲與亞洲共13個城市的世界巡迴演唱會後，GOT7於8月20、21日回到[首爾](../Page/首爾.md "wikilink")舉辦FINAL安可演唱會，並於9月27日帶著第二張正規專輯《[FLIGHT
 LOG :
 TURBULENCE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_TURBULENCE "wikilink")》回歸韓國歌壇，專輯發行隔日即登上[美國iTunes專輯榜第](https://zh.wikipedia.org/wiki/美國 "wikilink")2位及單曲榜第93位，並占據泰國、越南、菲律賓、印尼、馬來西亞、新加坡、芬蘭等多國的iTunes專輯榜冠軍。\[55\]此張專輯共收錄13首歌，其中11首歌由GOT7全體成員參與作曲填詞。
 
@@ -171,7 +171,7 @@ SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》獲得了4座冠軍，
 
 11月11日起，陸續前往加拿大、日本、馬來西亞、新加坡、菲律賓各地展開《FLIGHT LOG:
 TURBULENCE》世界巡迴粉絲見面會，同時於11月16日發行日語迷你一輯《[Hey
-Yah](../Page/Hey_Yah_\(GOT7迷你專輯\).md "wikilink")》，收錄成員[JB](../Page/林在範.md "wikilink")、[金有謙的詞曲創作](../Page/金有謙.md "wikilink")，發行後達到[Oricon公信榜日榜二位](../Page/Oricon.md "wikilink")、周榜第三名的成績。11月26日公布即將在隔年盛大舉行在日本首場的巡迴Showcase"MEET
+Yah](../Page/Hey_Yah_\(GOT7迷你專輯\).md "wikilink")》，收錄成員[JB](../Page/林在範.md "wikilink")、[金有謙](../Page/金有謙.md "wikilink")的詞曲創作，發行後達到[Oricon](../Page/Oricon.md "wikilink")公信榜日榜二位、周榜第三名的成績。11月26日公布即將在隔年盛大舉行在日本首場的巡迴Showcase"MEET
 ME"。
 
 **獲《MTV歐洲音樂大獎》及《MAMA》全球藝人獎、《SBS流行音樂獎》年度最佳男子團體獎**
@@ -179,12 +179,12 @@ ME"。
 10月17日，由GOT7七位成員親自策畫、監製，從導演到演出都由成員負責的真人秀綜藝節目《[GOT7的Hard
 Carry](https://zh.wikipedia.org/wiki/GOT7的Hard_Carry "wikilink")》於「[NAVER](../Page/NAVER.md "wikilink")」V
 LIVE網路頻道及「[Mnet
-TV](../Page/Mnet媒體.md "wikilink")」電視頻道正式播出。由於GOT7在世界各地活躍的成績，11月6日於[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[鹿特丹舉辦的](../Page/鹿特丹.md "wikilink")《[MTV歐洲音樂大獎](../Page/MTV歐洲音樂大獎.md "wikilink")》（MTV
+TV](../Page/Mnet媒體.md "wikilink")」電視頻道正式播出。由於GOT7在世界各地活躍的成績，11月6日於[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[鹿特丹](../Page/鹿特丹.md "wikilink")舉辦的《[MTV歐洲音樂大獎](../Page/MTV歐洲音樂大獎.md "wikilink")》（MTV
 Europe Music Awards，簡稱EMA）獲頒「全球藝人獎（Best Worldwide
 Act）」，成為繼2011年[BIGBANG榮獲該獎項後](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，第二個奪得該獎項的韓國藝人；同時也是歷屆MTV歐洲音樂大獎中，繼BIGBANG（2011，Worldwide
 Act）、[PSY](../Page/PSY.md "wikilink")（2012，Best
 Video）之後第三位獲得獎項的韓國藝人\[57\]。
-12月2日，GOT7於[香港舉行的第](../Page/香港.md "wikilink")18屆《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》（Mnet
+12月2日，GOT7於[香港](../Page/香港.md "wikilink")舉行的第18屆《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》（Mnet
 Asian Music
 Awards，簡稱MAMA）獲得「全球最受歡迎藝人獎」\[58\]，以及[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")《》（SBS
 PopAsia Award）選出的2016年「年度最佳男子團體」\[59\]，證明GOT7身為全球K-POP明星的魅力。
@@ -239,7 +239,7 @@ ARENA SPECIAL 2017 《MY SWAGGER》”特別演唱會。5月24日《MY SWAGGER�
 
 **JJ Project 回歸、Jackson在中國solo出道**
 
-6月份，GOT7前往泰國[呵叻](https://zh.wikipedia.org/wiki/呵叻 "wikilink")、[清邁](../Page/清邁.md "wikilink")、[曼谷與](../Page/曼谷.md "wikilink")[普吉島四大城市舉辦巡迴演唱會](https://zh.wikipedia.org/wiki/普吉島 "wikilink")「NESTIVAL」，他們也是第一組在泰國舉行巡迴演唱會的K-POP團體。6月尾，JYP突然透過媒體宣佈JJ
+6月份，GOT7前往泰國[呵叻](https://zh.wikipedia.org/wiki/呵叻 "wikilink")、[清邁](../Page/清邁.md "wikilink")、[曼谷](../Page/曼谷.md "wikilink")與[普吉島四大城市舉辦巡迴演唱會](https://zh.wikipedia.org/wiki/普吉島 "wikilink")「NESTIVAL」，他們也是第一組在泰國舉行巡迴演唱會的K-POP團體。6月尾，JYP突然透過媒體宣佈JJ
 Project將於下半年回歸和Jackson會在中國solo出道，JJ Project將推出第一張韓語迷你專輯《[Verse
 2](../Page/Verse_2.md "wikilink")》，主打歌為《Tomorrow,
 Today》，這也是時隔五年再度回歸音壇。\[67\]7月15日,在官方網站、臉書、推特同步公開JJ
@@ -252,7 +252,7 @@ LIVE同步直播《VERSE'2》Showcase。8月18日，Jackson在個人Instagram公
 9月5日，JYP娛樂突然在GOT7日本官網宣布Jackson因身體狀況及根據他自己的意願將會停止在日本的活動，往後GOT7的日本行程將以6人體制進行。\[70\]並在同日宣佈將於11月15日發行第二張日語迷你專輯《[Turn
 Up](../Page/Turn_Up_\(GOT7迷你專輯\).md "wikilink")》。\[71\]日本時間10月31日0時公佈迎新曲《TURN
 UP》MV。11月3日，開始巡迴演唱會「GOT7 Japan Tour 2017 "TURN
-UP"」，並於12月21、22兩日，首次登上[日本武道館開唱](../Page/日本武道館.md "wikilink")。
+UP"」，並於12月21、22兩日，首次登上[日本武道館](../Page/日本武道館.md "wikilink")開唱。
 
 **韓語迷你七輯《7 for 7》、獲《MAMA》國際表演者獎**
 
@@ -287,7 +287,7 @@ TOP10」直播，節目開播前愛心已達8億多次，直播結束之前更�
 **韓語迷你8輯《Eyes On You》**
 
 2月23日，公布新迷你專輯《[Eyes On You](../Page/Eyes_On_You.md "wikilink")》曲目表及先行曲《너
-하나만》預告片，宣佈於2月28日公開與歌手[孝琳合作的先行曲](../Page/孝琳.md "wikilink")《너 하나만（One And
+하나만》預告片，宣佈於2月28日公開與歌手[孝琳](../Page/孝琳.md "wikilink")合作的先行曲《너 하나만（One And
 Only
 You）》、3月12日以新曲《LOOK》回歸。3月9日，韓國消防廳委任GOT7擔任消防廳宣傳大使，參與消防廳和消防員攜手燒燙傷專門基金會Bestian基金會為幫助燒傷患者舉行的「S.A.V.E
 Campaign」\[77\]。3月12日下午6時，公開新曲《LOOK》MV和專輯《Eyes On
@@ -313,13 +313,13 @@ ARENA SPECIAL
 
 5月4至6日，GOT7於首爾蠶室室內體育場連續三天舉辦「EYES ON
 YOU」演唱會，總計動員1萬8千名觀眾，揭開第二次世界巡迴演唱會序幕\[85\]。5月11至13日，世巡第二站前往泰國曼谷，連續三天開唱，聚集超過3萬9千名觀眾，引發熱潮為當地帶來商業效益\[86\]。5月14日，主唱榮宰為韓劇《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》演唱的OST《그
-시간에》音源及MV正式公開。6月初完成澳門場之後，GOT7世巡首次前進歐洲，在[莫斯科](../Page/莫斯科.md "wikilink")、[柏林](../Page/柏林.md "wikilink")、[巴黎相繼票房完售](../Page/巴黎.md "wikilink")，動員累計2萬名觀眾，莫斯科場更創下第一組南韓藝人在俄羅斯表演全數售罄的紀錄\[87\]。歐洲場次結束後，6月16日首次在台北舉辦演唱會，吸引超過5千名觀眾入場\[88\]，隔天前往日本同步進行日巡。7月初，前往北美繼續世巡行程，在[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")、洛杉磯、[休斯頓](https://zh.wikipedia.org/wiki/休斯頓 "wikilink")、紐約當地具代表性的大型場館開唱，票房完售累計動員3萬4千名觀眾，成為第一組單獨登上洛杉磯[論壇體育館](../Page/論壇體育館.md "wikilink")（The
+시간에》音源及MV正式公開。6月初完成澳門場之後，GOT7世巡首次前進歐洲，在[莫斯科](../Page/莫斯科.md "wikilink")、[柏林](../Page/柏林.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")相繼票房完售，動員累計2萬名觀眾，莫斯科場更創下第一組南韓藝人在俄羅斯表演全數售罄的紀錄\[87\]。歐洲場次結束後，6月16日首次在台北舉辦演唱會，吸引超過5千名觀眾入場\[88\]，隔天前往日本同步進行日巡。7月初，前往北美繼續世巡行程，在[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")、洛杉磯、[休斯頓](https://zh.wikipedia.org/wiki/休斯頓 "wikilink")、紐約當地具代表性的大型場館開唱，票房完售累計動員3萬4千名觀眾，成為第一組單獨登上洛杉磯[論壇體育館](../Page/論壇體育館.md "wikilink")（The
 Forum）、紐約[巴克萊中心](../Page/巴克萊中心.md "wikilink")（Barclays
 Center）開唱的KPOP團體\[89\]\[90\]；透過社群網站與當地媒體推廣，吸引美國「[J-14雜誌](https://zh.wikipedia.org/wiki/:en:J-14_\(magazine\) "wikilink")」、「[BuzzFeed](../Page/BuzzFeed.md "wikilink")」、「[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")」\[91\]、「[People
 TV](https://zh.wikipedia.org/wiki/時人_\(雜誌\) "wikilink")」、「[Forbes](https://zh.wikipedia.org/wiki/Forbes "wikilink")」\[92\]等知名新聞娛樂媒體採訪，並演出美國紐約「[FOX5頻道](https://zh.wikipedia.org/wiki/:en:WNYW "wikilink")」最大的晨間新聞節目《[Good
 Day New
-York](https://zh.wikipedia.org/wiki/:en:Good_Day_New_York "wikilink")》，展示了全球國際偶像的地位\[93\]。7月中，GOT7首次前進中南美洲，在[墨西哥城](../Page/墨西哥城.md "wikilink")、[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")、[聖地牙哥開唱](../Page/聖地牙哥.md "wikilink")，吸引超過2萬8千名觀眾造成熱潮。總計在美洲巡迴7座城市，動員超過6萬2千名觀眾，為世界巡迴寫下成功的紀錄，再度擴充GOT7的全球影響力\[94\]。8月17日Billboard公布最新季度熱門巡演排行榜，GOT7憑藉7月6日在洛杉磯The
-Forum場次上榜，共吸引9600名觀眾進場，票房粗估為130萬美金，是GOT7第一次登上此排行榜。\[95\]在結束橫跨美洲、歐洲與亞洲的世界巡迴演唱會後，GOT7於8月24日於香港[亞洲國際博覽館舉辦Eyes](../Page/亞洲國際博覽館.md "wikilink")
+York](https://zh.wikipedia.org/wiki/:en:Good_Day_New_York "wikilink")》，展示了全球國際偶像的地位\[93\]。7月中，GOT7首次前進中南美洲，在[墨西哥城](../Page/墨西哥城.md "wikilink")、[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")、[聖地牙哥](../Page/聖地牙哥.md "wikilink")開唱，吸引超過2萬8千名觀眾造成熱潮。總計在美洲巡迴7座城市，動員超過6萬2千名觀眾，為世界巡迴寫下成功的紀錄，再度擴充GOT7的全球影響力\[94\]。8月17日Billboard公布最新季度熱門巡演排行榜，GOT7憑藉7月6日在洛杉磯The
+Forum場次上榜，共吸引9600名觀眾進場，票房粗估為130萬美金，是GOT7第一次登上此排行榜。\[95\]在結束橫跨美洲、歐洲與亞洲的世界巡迴演唱會後，GOT7於8月24日於香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")舉辦Eyes
 On
 You的最後一埸演唱會，總計花費113天、在17個城市舉辦21場公演，動員約18萬名觀眾的世界巡迴演唱會，到此畫下句點，並宣佈將於九月帶韓語第三張正規專輯《[Present:
 YOU](../Page/Present:_YOU.md "wikilink")》回歸韓國歌壇。
@@ -388,7 +388,7 @@ Japan專輯銷售榜等各大榜單第一名，這也是GOT7首次獲得日本Or
 **小分隊JUS2正式出道，舉辦亞洲Showcase巡迴**
 
 第一季除日本行程外，成員大多集中於個別活動，包含珍榮接拍[tvN連續劇](https://zh.wikipedia.org/wiki/tvN "wikilink")《[會讀心術的那小子](../Page/會讀心術的那小子.md "wikilink")》、Jackson與Mark各自海外行程、BamBam三月份於泰國舉辦個人巡迴見面會「BLACK
-FEATHER」。2月13日，官方公開小分隊[JUS2的預告影像及照片](../Page/JUS2.md "wikilink")，由成員JB、有謙兩人組成，以迷你專輯《FOCUS》正式出道，於3月4日公開MV、3月5日釋出專輯並舉辦LIVE
+FEATHER」。2月13日，官方公開小分隊[JUS2](../Page/JUS2.md "wikilink")的預告影像及照片，由成員JB、有謙兩人組成，以迷你專輯《FOCUS》正式出道，於3月4日公開MV、3月5日釋出專輯並舉辦LIVE
 PREMIERE。3月21日凌晨，GOT7韓語迷你二輯的主打歌《A》在Youtube點擊突破一億大關，成為GOT7第四支觀看人次破億的MV\[103\]。4月4日，美國知名音樂雜誌《[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")》公布2019年《[告示牌音樂獎](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")》（Billboard
 Music
 Awards）入圍名單，GOT7首次入圍「[最佳社群媒體藝人獎](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝人 "wikilink")」\[104\]。
@@ -400,11 +400,11 @@ TOUR》前往亞洲7個城市、舉辦11場次巡迴Showcase，分別由Mark（�
 4月26日，官方公開GOT7最新專輯《[SPINNING TOP : BETWEEN SECURITY &
 INSECURITY](../Page/SPINNING_TOP_:_BETWEEN_SECURITY_&_INSECURITY.md "wikilink")》預告影片，宣告5月20日回歸\[105\]，並於6月15、16日連續兩天開唱，為2019年世界巡迴演唱會揭開序幕。5月7日開始釋出專輯預告照片，隔天公布世界巡迴演唱會名稱為「KEEP
 SPINNING」並公開部分場次，巡演時間超過4個月，範圍橫跨亞洲、美洲、澳洲及歐洲。\[106\]5月14日公開專輯曲目，主打歌《ECLIPSE》由隊長[JB及團隊譜曲](../Page/林在範.md "wikilink")，這張專輯也延續之前的慣例，由多名成員參與創作。5月15日釋出MV預告。5月20日韓國時間下午6點，公開專輯音源及主打歌MV，當天晚上9點透過Vlive舉行「COMEBACK
-LIVE TALK」，邀請演員[金相中擔任特別嘉賓](../Page/金相中.md "wikilink")\[107\]。《SPINNING
+LIVE TALK」，邀請演員[金相中](../Page/金相中.md "wikilink")擔任特別嘉賓\[107\]。《SPINNING
 TOP : BETWEEN SECURITY &
 INSECURITY》發行當天便登上[iTunes世界專輯榜冠軍](https://zh.wikipedia.org/wiki/iTunes "wikilink")，是繼《[7
 for 7](../Page/7_for_7_\(GOT7迷你專輯\).md "wikilink")》、《[Eyes On
-You](../Page/Eyes_On_You.md "wikilink")》之後的第三張，讓GOT7成為韓團史上第二個擁有3張iTunes冠軍專輯的團體；此外韓國Hanteo榜首日銷量打破自身紀錄，讓GOT7成為JYPE旗下首個Hanteo榜專輯銷量累計超過200萬張的團體\[108\]。迷你九輯發行一周後登上Hanteo及Gaon專輯周榜冠軍\[109\]，也拿下5月份專輯月榜的雙料冠軍。
+You](../Page/Eyes_On_You.md "wikilink")》之後的第三張，讓GOT7成為韓團史上第二個擁有3張iTunes冠軍專輯的團體；此外韓國Hanteo榜首日銷量打破自身紀錄，讓GOT7成為JYPE旗下首個Hanteo榜專輯銷量累計超過200萬張的團體\[108\]。迷你九輯發行一周後登上Hanteo及Gaon專輯周榜冠軍\[109\]，也拿下5月份專輯月榜的雙料冠軍。7月11日，迷你九輯獲得Gaon專輯榜「[白金唱片](../Page/2019年Gaon專輯冠軍作品列表.md "wikilink")」認證，成為GOT7第三張白金唱片。
 
 ### 2019下半年：第三次世界巡迴演唱會「KEEP SPINNING」
 
@@ -413,9 +413,10 @@ You](../Page/Eyes_On_You.md "wikilink")》之後的第三張，讓GOT7成為韓�
 6月15、16連續兩日，GOT7首度唱進[首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")，為2019年世界巡演「KEEP
 SPINNING」拉開了華麗的序幕。本次演唱會與[Make-A-Wish基金會韓國分部合作啟動](../Page/願望成真基金.md "wikilink")「KEEP
 SPINNING，KEEP DREAMING with
-GOT7」專案，為全世界罕見疾病兒童的夢想應援。GOT7邀請患病兒童和家屬觀賞首爾演唱會，實現海外病童想要見到GOT7的夢想，也爲患病的孩子提供勇氣和力量，具有社會意義\[110\]。6月底，GOT7前往北美繼續世巡行程。6月26日，他們成為第一個登上美國全國電視網「[NBC](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")」知名晨間節目《[Today
+GOT7」專案，為全世界罕見疾病兒童的夢想應援。GOT7邀請患病兒童和家屬觀賞首爾演唱會，實現海外病童想要見到GOT7的夢想，也爲患病的孩子提供勇氣和力量，具有社會意義\[110\]。6月底開始，GOT7前往北美繼續世巡行程，在紐華克、多倫多、達拉斯、洛杉磯、奧克蘭當地容納萬人以上的大型場館開唱，規模比前一年巡演更加盛大。6月26日，他們成為第一個登上美國全國電視網「[NBC](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")」知名晨間節目《[Today
 Show](../Page/今天_\(NBC\).md "wikilink")》的韓國團體，表演特別準備的《ECLIPSE》英文版舞台，同時接受紐約直播節目《BUILD
-Series》專訪，並時隔一年重返紐約「FOX5頻道」晨間新聞節目《Good Day New York》，顯示海外的高人氣\[111\]。
+Series》專訪、時隔一年重返紐約「FOX5頻道」晨間新聞節目《Good Day New
+York》，吸引包含「[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")」、「[ELLE](../Page/ELLE.md "wikilink")」、「[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")」、「[Seventeen](https://zh.wikipedia.org/wiki/17_\(雜誌\) "wikilink")」等美國知名媒體採訪，再度顯示海外的高人氣\[111\]。
 
 **日語迷你四輯LOVE LOOP**
 
@@ -725,7 +726,7 @@ Japan Tour 2019 "Our Loop"》\[112\]。日本時間6月26日0時，公開主打�
 <tr class="even">
 <td><p>7月1日- 現在</p></td>
 <td><p>Vlive、YouTube</p></td>
-<td><p>GOT2day 2019</p></td>
+<td><p>GOT2DAY 2019</p></td>
 <td></td>
 <td></td>
 </tr>

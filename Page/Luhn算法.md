@@ -1,7 +1,7 @@
 **Luhn算法**（Luhn algorithm），也称为“**模10**”（Mod
-10）[算法](../Page/算法.md "wikilink")，是一种简单的[校验和算法](https://zh.wikipedia.org/wiki/校验和 "wikilink")，一般用于验证身份识别码，例如[发卡行识别码](../Page/发卡行识别码.md "wikilink")、[国际移动设备辨识码](https://zh.wikipedia.org/wiki/IMEI "wikilink")（IMEI），美国号码，或是。该算法由[IBM科学家](../Page/IBM.md "wikilink")创造，专利于1954年1月6日申请，1960年8月23日颁证，美国专利号2950048\[1\]。
+10）[算法](../Page/算法.md "wikilink")，是一种简单的[校验和算法](https://zh.wikipedia.org/wiki/校验和 "wikilink")，一般用于验证身份识别码，例如[发卡行识别码](../Page/发卡行识别码.md "wikilink")、[国际移动设备辨识码](https://zh.wikipedia.org/wiki/IMEI "wikilink")（IMEI），美国号码，或是。该算法由[IBM](../Page/IBM.md "wikilink")科学家创造，专利于1954年1月6日申请，1960年8月23日颁证，美国专利号2950048\[1\]。
 
-该算法现已属于[公有领域并得到了广泛的应用](../Page/公有领域.md "wikilink")，例如[ISO/IEC
+该算法现已属于[公有领域](../Page/公有领域.md "wikilink")并得到了广泛的应用，例如[ISO/IEC
 7812](https://zh.wikipedia.org/wiki/ISO/IEC_7812 "wikilink")-1\[2\]。它不是一种安全的加密[哈希函数](https://zh.wikipedia.org/wiki/哈希函数 "wikilink")，设计它的目的只是防止意外出错而不是恶意攻击。
 
 ## 描述

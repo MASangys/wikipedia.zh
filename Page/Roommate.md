@@ -10,20 +10,20 @@ House」（合宿屋）為主題，邀請十多位成員共同住進合宿屋，
 
 7月11日，節目組表示[Bom因禁藥風波影響情緒](../Page/朴春.md "wikilink")，暫停參與拍攝\[1\]，其後於24日正式宣佈退出節目\[2\]，其片段亦被盡可能刪減。
 
-8月20日，節目組表示[李素拉因日程繁忙而決定退出節目](../Page/李素拉.md "wikilink")\[3\]。
+8月20日，節目組表示[李素拉](../Page/李素拉.md "wikilink")因日程繁忙而決定退出節目\[3\]。
 
-27日，朴尚赫導演透露[宋佳妍將專注運動而退出節目](../Page/宋佳妍.md "wikilink")\[4\]。
+27日，朴尚赫導演透露[宋佳妍](../Page/宋佳妍.md "wikilink")將專注運動而退出節目\[4\]。
 
-9月1日，[申成宇透過個人Twitter宣佈退出節目](../Page/申成宇.md "wikilink")\[5\]\[6\]。節目組表示，因有成員陸續退出，第一季將於9月14日播出最後一集，並隨即於21日展開第二季，並加入新成員。
+9月1日，[申成宇](../Page/申成宇.md "wikilink")透過個人Twitter宣佈退出節目\[5\]\[6\]。節目組表示，因有成員陸續退出，第一季將於9月14日播出最後一集，並隨即於21日展開第二季，並加入新成員。
 
-11日，節目組人員透露[洪洙賢將隨著第一季結束退出節目](../Page/洪洙賢.md "wikilink")\[7\]，第二季加入[g.o.d成員](https://zh.wikipedia.org/wiki/g.o.d "wikilink")[朴俊亨](https://zh.wikipedia.org/wiki/朴俊亨 "wikilink")\[8\]、[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Sunny](https://zh.wikipedia.org/wiki/李純揆 "wikilink")\[9\]、及[GOT7成員](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")。
+11日，節目組人員透露[洪洙賢](../Page/洪洙賢.md "wikilink")將隨著第一季結束退出節目\[7\]，第二季加入[g.o.d成員](https://zh.wikipedia.org/wiki/g.o.d "wikilink")[朴俊亨](https://zh.wikipedia.org/wiki/朴俊亨 "wikilink")\[8\]、[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Sunny](https://zh.wikipedia.org/wiki/李純揆 "wikilink")\[9\]、及[GOT7](../Page/GOT7.md "wikilink")成員[Jackson](../Page/王嘉爾.md "wikilink")。
 
-12日，再透露[Chanyeol隨第一季結束退出節目](../Page/Chanyeol.md "wikilink")\[10\]，第二季加入[李國主](../Page/李國主.md "wikilink")、[大谷亮平](../Page/大谷亮平.md "wikilink")\[11\]及[裴宗玉](../Page/裴宗玉.md "wikilink")。
+12日，再透露[Chanyeol](../Page/Chanyeol.md "wikilink")隨第一季結束退出節目\[10\]，第二季加入[李國主](../Page/李國主.md "wikilink")、[大谷亮平](../Page/大谷亮平.md "wikilink")\[11\]及[裴宗玉](../Page/裴宗玉.md "wikilink")。
 
 14日，播出第一季最後一期。因轉播[仁川亞運會](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")[男子足球預選賽](https://zh.wikipedia.org/wiki/2014年亞洲運動會足球比賽#男子足球 "wikilink")，《[星期天真好](../Page/星期天真好.md "wikilink")》時段作出調整，本節目變更至同日19:00-20:00播出，而二部《[Running
 Man](../Page/Running_Man.md "wikilink")》則停播\[12\]。
 
-同日，節目預告中公開最後一名新成員為[Kara成員](../Page/Kara.md "wikilink")[齡智](../Page/許齡智.md "wikilink")，共計7位新成員加入第二季節目。
+同日，節目預告中公開最後一名新成員為[Kara](../Page/Kara.md "wikilink")成員[齡智](../Page/許齡智.md "wikilink")，共計7位新成員加入第二季節目。
 
 21日，第二季正式首播。因轉播仁川亞運會多場賽事實況，《星期天真好》時段提前播出，本節目變更至同日15:20-17:00播出\[13\]。
 
@@ -335,7 +335,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a><br />
 <small>（）</small></p></td>
 <td><p>男演員<br />
-組合<a href="../Page/5urprise.md" title="wikilink">5urprise成員</a></p></td>
+組合<a href="../Page/5urprise.md" title="wikilink">5urprise</a>成員</p></td>
 <td></td>
 <td><p>5號房</p></td>
 <td></td>
@@ -345,7 +345,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a><br />
 <small>（）</small></p></td>
 <td><p>男歌手<br />
-組合<a href="../Page/GOT7.md" title="wikilink">GOT7成員</a></p></td>
+組合<a href="../Page/GOT7.md" title="wikilink">GOT7</a>成員</p></td>
 <td></td>
 <td><p>全26期</p></td>
 <td></td>
@@ -355,7 +355,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p><a href="../Page/許齡智.md" title="wikilink">齡　智</a><br />
 <small>（）</small></p></td>
 <td><p>女歌手<br />
-組合<a href="../Page/Kara.md" title="wikilink">Kara成員</a></p></td>
+組合<a href="../Page/Kara.md" title="wikilink">Kara</a>成員</p></td>
 <td></td>
 <td><p>1號房</p></td>
 <td></td>
@@ -405,43 +405,43 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>24</p></td>
 <td><p>10月19日</p></td>
 <td><p><strong>第24話：請回答昔日所愛<small>（）</small></strong><br />
-朴俊亨、大谷亮平、Sunny與Jackson收割蓮藕；<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d成員</a><a href="../Page/安信源.md" title="wikilink">Danny Ahn</a>、<a href="../Page/蔡妍.md" title="wikilink">蔡妍與</a><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代成員</a><a href="https://zh.wikipedia.org/wiki/林潤娥" title="wikilink">潤娥到訪</a>，蓮藕晚餐，飯後消遣；大谷亮平的便秘事件。</p></td>
+朴俊亨、大谷亮平、Sunny與Jackson收割蓮藕；<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d成員</a><a href="../Page/安信源.md" title="wikilink">Danny Ahn</a>、<a href="../Page/蔡妍.md" title="wikilink">蔡妍</a>與<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代成員</a><a href="https://zh.wikipedia.org/wiki/林潤娥" title="wikilink">潤娥到訪</a>，蓮藕晚餐，飯後消遣；大谷亮平的便秘事件。</p></td>
 </tr>
 <tr class="even">
 <td><p>25</p></td>
 <td><p>10月26日</p></td>
 <td><p><strong>第25話：怎樣親近你的鄰居？<small>（）</small></strong><br />
-裴宗玉、朴俊亨、大谷亮平、Sunny與Jackson拜訪北井村 ；曹世鎬、李國主、NaNa與徐康俊拜訪芬蘭駐韓大使館；佈置房間；魟魚三合晚餐；李國主任<a href="../Page/白智榮.md" title="wikilink">白智榮演唱會表演嘉賓</a>；Roommate夜校「裴宗玉的演技教室」。</p></td>
+裴宗玉、朴俊亨、大谷亮平、Sunny與Jackson拜訪北井村 ；曹世鎬、李國主、NaNa與徐康俊拜訪芬蘭駐韓大使館；佈置房間；魟魚三合晚餐；李國主任<a href="../Page/白智榮.md" title="wikilink">白智榮</a>演唱會表演嘉賓；Roommate夜校「裴宗玉的演技教室」。</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
 <td><p>11月2日</p></td>
 <td><p><strong>第26話：李順載來訪<small>（）</small></strong><br />
-4號房探望<a href="../Page/李順載.md" title="wikilink">李順載並觀賞其參演之話劇</a>《黃金池塘 》；朴俊亨、曹世鎬、Jackson與1號房的<a href="../Page/跆跟.md" title="wikilink">跆跟體驗</a>；邀請李順載作客；分享童年回憶；李國主與齡智在淩晨開始的早餐準備；曹世鎬、朴敏雨與徐康俊前往g.o.d演唱會現場為朴俊亨打氣。</p></td>
+4號房探望<a href="../Page/李順載.md" title="wikilink">李順載</a>並觀賞其參演之話劇《黃金池塘 》；朴俊亨、曹世鎬、Jackson與1號房的<a href="../Page/跆跟.md" title="wikilink">跆跟</a>體驗；邀請李順載作客；分享童年回憶；李國主與齡智在淩晨開始的早餐準備；曹世鎬、朴敏雨與徐康俊前往g.o.d演唱會現場為朴俊亨打氣。</p></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
 <td><p>11月9日</p></td>
 <td><p><strong>第27話：男生時間vs女生時間<small>（）</small></strong><br />
-李國主、Sunny與NaNa的假日約會，<a href="../Page/塔羅牌.md" title="wikilink">塔羅占卜</a>，電話相親；曹世鎬、Jackson與2號房的運動日，滑板遊戲；舞蹈及節奏口技時間；<a href="../Page/朴玄彬.md" title="wikilink">朴玄彬到訪</a>，演歌教室；李棟旭於<a href="../Page/仁川廣域市.md" title="wikilink">仁川拍攝</a><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2劇集</a>《<a href="../Page/鋼鐵人_(電視劇).md" title="wikilink">鋼鐵人</a>》，曹世鎬、李國主與Jackson前往探班，<a href="../Page/申世景.md" title="wikilink">申世景驚喜出演</a>。</p></td>
+李國主、Sunny與NaNa的假日約會，<a href="../Page/塔羅牌.md" title="wikilink">塔羅占卜</a>，電話相親；曹世鎬、Jackson與2號房的運動日，滑板遊戲；舞蹈及節奏口技時間；<a href="../Page/朴玄彬.md" title="wikilink">朴玄彬</a>到訪，演歌教室；李棟旭於<a href="../Page/仁川廣域市.md" title="wikilink">仁川拍攝</a><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2劇集</a>《<a href="../Page/鋼鐵人_(電視劇).md" title="wikilink">鋼鐵人</a>》，曹世鎬、李國主與Jackson前往探班，<a href="../Page/申世景.md" title="wikilink">申世景</a>驚喜出演。</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
 <td><p>11月16日</p></td>
 <td><p><strong>第28話：泡菜戰<small>（）</small></strong><br />
-裴宗玉、朴俊亨、李棟旭、Jackson與齡智前往市場購入食材；腌製白菜泡菜，到訪；晚飯時間，<a href="../Page/洪真英.md" title="wikilink">洪真英到訪</a>；歌唱派對；李國主在<a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS木洞總部飯堂就餐</a>，擔任電台節目《》代班主持，徐康俊到場打氣；齡智給小獵犬「黃瓜」洗澡；「李棟旭的Roommate零點新聞」。</p></td>
+裴宗玉、朴俊亨、李棟旭、Jackson與齡智前往市場購入食材；腌製白菜泡菜，到訪；晚飯時間，<a href="../Page/洪真英.md" title="wikilink">洪真英</a>到訪；歌唱派對；李國主在<a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS木洞總部飯堂就餐</a>，擔任電台節目《》代班主持，徐康俊到場打氣；齡智給小獵犬「黃瓜」洗澡；「李棟旭的Roommate零點新聞」。</p></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>
 <td><p>11月25日</p></td>
 <td><p><strong>第29話：家人在這<small>（）</small></strong><br />
-裴宗玉、李棟旭、朴敏雨、NaNa、Jackson與齡智前往<a href="../Page/江華島.md" title="wikilink">江華島捕抓鰻魚及大眼蟹</a>；李國主、Sunny與2號房的<a href="https://zh.wikipedia.org/wiki/盤索里" title="wikilink">盤索里體驗</a>；李國主親弟到訪；鰻魚燒烤派對，<a href="../Page/Kara.md" title="wikilink">Kara成員</a><a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉到訪</a>。</p></td>
+裴宗玉、李棟旭、朴敏雨、NaNa、Jackson與齡智前往<a href="../Page/江華島.md" title="wikilink">江華島</a>捕抓鰻魚及大眼蟹；李國主、Sunny與2號房的<a href="https://zh.wikipedia.org/wiki/盤索里" title="wikilink">盤索里體驗</a>；李國主親弟到訪；鰻魚燒烤派對，<a href="../Page/Kara.md" title="wikilink">Kara</a>成員<a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉到訪</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
 <td><p>12月2日</p></td>
 <td><p><strong>第30話：我不會停下<small>（）</small></strong><br />
-<a href="../Page/尹賢淑.md" title="wikilink">尹賢淑</a>、<a href="../Page/卞貞秀.md" title="wikilink">卞貞秀到訪</a>；大谷亮平、曹世鎬與Jackson參加<a href="../Page/63大廈.md" title="wikilink">63大廈爬樓梯比賽</a>，李國主、Sunny與NaNa現場打氣；前往北首爾夢之林郊遊；Jackson公演舞台，李國主與徐康俊現場打氣。</p></td>
+<a href="../Page/尹賢淑.md" title="wikilink">尹賢淑</a>、<a href="../Page/卞貞秀.md" title="wikilink">卞貞秀</a>到訪；大谷亮平、曹世鎬與Jackson參加<a href="../Page/63大廈.md" title="wikilink">63大廈</a>爬樓梯比賽，李國主、Sunny與NaNa現場打氣；前往北首爾夢之林郊遊；Jackson公演舞台，李國主與徐康俊現場打氣。</p></td>
 </tr>
 <tr class="even">
 <td><p>31</p></td>
@@ -453,7 +453,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>32</p></td>
 <td><p>12月16日</p></td>
 <td><p><strong>第32話：聖誕會下雪嗎？<small>（）</small></strong><br />
-曹世鎬、Jackson邀請<a href="../Page/朴軫永.md" title="wikilink">朴軫永作客</a>；曹世鎬、李國主、徐康俊、Jackson與朴軫永練習表演；準備聖誕派對，朴軫永、<a href="../Page/白智榮.md" title="wikilink">白智榮</a>、曹世鎬父母、齡智母親及姐姐、李棟旭妹妹及妹夫與鈴木有樹陸續到訪。</p></td>
+曹世鎬、Jackson邀請<a href="../Page/朴軫永.md" title="wikilink">朴軫永</a>作客；曹世鎬、李國主、徐康俊、Jackson與朴軫永練習表演；準備聖誕派對，朴軫永、<a href="../Page/白智榮.md" title="wikilink">白智榮</a>、曹世鎬父母、齡智母親及姐姐、李棟旭妹妹及妹夫與鈴木有樹陸續到訪。</p></td>
 </tr>
 <tr class="even">
 <td><p>33</p></td>
@@ -476,7 +476,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>34</p></td>
 <td><p>1月6日</p></td>
 <td><p><strong>新年特輯 第34話：純白冬日，烏黑冬日<small>（）</small></strong><br />
-曹世鎬邀請作客，NaNa指導曹世鎬、李國主與張叡元練習《2014 <a href="https://zh.wikipedia.org/wiki/SBS演藝大賞" title="wikilink">SBS演藝大賞</a>》表演節目；為北井村居民親自配送蜂窩煤，支援軍<a href="../Page/GOT7.md" title="wikilink">GOT7成員</a>（<a href="../Page/段宜恩.md" title="wikilink">Mark</a>、<a href="../Page/朴珍榮.md" title="wikilink">Junior</a>、<a href="../Page/BamBam.md" title="wikilink">BamBam</a>、<a href="../Page/金有謙.md" title="wikilink">Yugyeom</a>、<a href="../Page/崔榮宰.md" title="wikilink">Youngjae</a>）、<a href="../Page/南昶熙.md" title="wikilink">南昶熙</a>、、<a href="../Page/5urprise.md" title="wikilink">5urprise成員</a>（唯一、孔明）到場協助；李棟旭、曹世鎬、徐康俊與Jackson到公眾澡堂洗漱；朴俊亨、大谷亮平與李棟旭的篝火對話。</p></td>
+曹世鎬邀請作客，NaNa指導曹世鎬、李國主與張叡元練習《2014 <a href="https://zh.wikipedia.org/wiki/SBS演藝大賞" title="wikilink">SBS演藝大賞</a>》表演節目；為北井村居民親自配送蜂窩煤，支援軍<a href="../Page/GOT7.md" title="wikilink">GOT7</a>成員（<a href="../Page/段宜恩.md" title="wikilink">Mark</a>、<a href="../Page/朴珍榮.md" title="wikilink">Junior</a>、<a href="../Page/BamBam.md" title="wikilink">BamBam</a>、<a href="../Page/金有謙.md" title="wikilink">Yugyeom</a>、<a href="../Page/崔榮宰.md" title="wikilink">Youngjae</a>）、<a href="../Page/南昶熙.md" title="wikilink">南昶熙</a>、、<a href="../Page/5urprise.md" title="wikilink">5urprise</a>成員（唯一、孔明）到場協助；李棟旭、曹世鎬、徐康俊與Jackson到公眾澡堂洗漱；朴俊亨、大谷亮平與李棟旭的篝火對話。</p></td>
 </tr>
 <tr class="even">
 <td><p>35</p></td>
@@ -488,7 +488,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>36</p></td>
 <td><p>1月20日</p></td>
 <td><p><strong>第36話：孩子和偶像<small>（）</small></strong><br />
-前<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.成員</a><a href="../Page/Shoo.md" title="wikilink">Shoo與雙胞胎女兒羅希</a>、羅律到訪，Roommate與雙胞胎的親近育兒日記。</p></td>
+前<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.成員</a><a href="../Page/Shoo.md" title="wikilink">Shoo</a>與雙胞胎女兒羅希、羅律到訪，Roommate與雙胞胎的親近育兒日記。</p></td>
 </tr>
 <tr class="even">
 <td><p>37</p></td>
@@ -535,13 +535,13 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>43</p></td>
 <td><p>3月17日</p></td>
 <td><p><strong>第43話：春意降臨<small>（）</small></strong><br />
-Jackson與毛驢Michael的共處時間；曹世鎬、徐康俊與Jackson的內衣-{zh-hans:秀;zh-hans:秀;zh-hk:騷}-；李國主與齡智市場購物行；招待<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>，金賢珠的Roommate縫紉教室；朴俊亨、Jackson、齡智與毛驢Michael外出散步；<a href="../Page/金正蘭.md" title="wikilink">金正蘭到訪</a>；與毛驢Michael的離別。</p></td>
+Jackson與毛驢Michael的共處時間；曹世鎬、徐康俊與Jackson的內衣-{zh-hans:秀;zh-hans:秀;zh-hk:騷}-；李國主與齡智市場購物行；招待<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>，金賢珠的Roommate縫紉教室；朴俊亨、Jackson、齡智與毛驢Michael外出散步；<a href="../Page/金正蘭.md" title="wikilink">金正蘭</a>到訪；與毛驢Michael的離別。</p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
 <td><p>3月24日</p></td>
 <td><p><strong>第44話：罵人精奶奶金守美的美味的飯桌<small>（）</small></strong><br />
-種植辣椒；<a href="../Page/金守美.md" title="wikilink">金守美到訪</a>，製作傳統韓式食物；卞貞秀再次到訪。</p></td>
+種植辣椒；<a href="../Page/金守美.md" title="wikilink">金守美</a>到訪，製作傳統韓式食物；卞貞秀再次到訪。</p></td>
 </tr>
 <tr class="odd">
 <td><p>因試播《<a href="../Page/同床異夢，沒關係沒關係.md" title="wikilink">同床異夢，沒關係沒關係</a>》，節目停播一週。</p></td>

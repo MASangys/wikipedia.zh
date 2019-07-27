@@ -2,7 +2,7 @@
 
 ## 官僚
 
-  - 西方人昔日对中国古代[官僚的称呼](../Page/官僚.md "wikilink")。此詞來自葡萄牙語的mandarim（早期拼寫mandarin），是葡萄牙人借自[馬來語menteri](https://zh.wikipedia.org/wiki/馬來語 "wikilink")。
+  - 西方人昔日对中国古代[官僚](../Page/官僚.md "wikilink")的称呼。此詞來自葡萄牙語的mandarim（早期拼寫mandarin），是葡萄牙人借自[馬來語menteri](https://zh.wikipedia.org/wiki/馬來語 "wikilink")。
 
 ## 语言
 

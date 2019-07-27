@@ -1,5 +1,5 @@
 《**最美的收藏 ～ALL MY
-COVERS～**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[中島美嘉於](../Page/中島美嘉.md "wikilink")2014年3月12日發行的翻唱專輯。
+COVERS～**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[中島美嘉](../Page/中島美嘉.md "wikilink")於2014年3月12日發行的翻唱專輯。
 
 ## 概述
 

@@ -2,18 +2,18 @@
 **LXC**，其名稱來自Linux軟體容器（Linux
 Containers）的縮寫，一種[作業系統層虛擬化](../Page/作業系統層虛擬化.md "wikilink")（Operating
 system–level
-virtualization）技術，為[Linux内核容器功能的一个](../Page/Linux内核.md "wikilink")[用户空间](https://zh.wikipedia.org/wiki/用户空间 "wikilink")[接口](https://zh.wikipedia.org/wiki/接口 "wikilink")。它將應用軟體系統打包成一個軟體容器（Container），內含應用軟體本身的程式碼，以及所需要的作業系統核心和函式庫。透過統一的命名空間和共用[API來分配不同軟體容器的可用硬體資源](https://zh.wikipedia.org/wiki/API "wikilink")，創造出應用程式的獨立[沙箱執行環境](../Page/沙盒_\(電腦安全\).md "wikilink")，使得[Linux用户可以容易的创建和管理系统或应用容器](../Page/Linux.md "wikilink")。\[1\]
+virtualization）技術，為[Linux内核](../Page/Linux内核.md "wikilink")容器功能的一个[用户空间](https://zh.wikipedia.org/wiki/用户空间 "wikilink")[接口](https://zh.wikipedia.org/wiki/接口 "wikilink")。它將應用軟體系統打包成一個軟體容器（Container），內含應用軟體本身的程式碼，以及所需要的作業系統核心和函式庫。透過統一的命名空間和共用[API來分配不同軟體容器的可用硬體資源](https://zh.wikipedia.org/wiki/API "wikilink")，創造出應用程式的獨立[沙箱執行環境](../Page/沙盒_\(電腦安全\).md "wikilink")，使得[Linux](../Page/Linux.md "wikilink")用户可以容易的创建和管理系统或应用容器。\[1\]
 
 在Linux內核中，提供了[cgroups功能](https://zh.wikipedia.org/wiki/cgroups "wikilink")，來達成資源的區隔化。它同時也提供了名稱空間區隔化的功能，使應用程式看到的作業系統環境被區隔成獨立區間，包括行程樹，網路，使用者id，以及掛載的檔案系統。但是cgroups並不一定需要啟動任何虛擬機器。
 
-LXC利用cgroups與名稱空間的功能，提供應用軟體一個獨立的作業系統環境。LXC不需要[Hypervisor這個軟體層](../Page/Hypervisor.md "wikilink")，軟體容器（Container）本身極為輕量化，提升了建立[虛擬機器的速度](../Page/虛擬機器.md "wikilink")。軟體[Docker被用來管理LXC的環境](https://zh.wikipedia.org/wiki/Docker_\(軟體\) "wikilink")。
+LXC利用cgroups與名稱空間的功能，提供應用軟體一個獨立的作業系統環境。LXC不需要[Hypervisor](../Page/Hypervisor.md "wikilink")這個軟體層，軟體容器（Container）本身極為輕量化，提升了建立[虛擬機器](../Page/虛擬機器.md "wikilink")的速度。軟體[Docker被用來管理LXC的環境](https://zh.wikipedia.org/wiki/Docker_\(軟體\) "wikilink")。
 
 ## 特点
 
 目前的LXC使用下列内核功能来控制进程：
 
   - 内核[命名空间](../Page/命名空间.md "wikilink")（[进程间通信](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")、uts、mount、pid、network和user）
-  - [AppArmor和](../Page/AppArmor.md "wikilink")[SELinux配置](https://zh.wikipedia.org/wiki/SELinux "wikilink")
+  - [AppArmor](../Page/AppArmor.md "wikilink")和[SELinux配置](https://zh.wikipedia.org/wiki/SELinux "wikilink")
   - Seccomp策略
   - [chroot](https://zh.wikipedia.org/wiki/chroot "wikilink")（使用pivot_root）
   - [Kernel

@@ -14,7 +14,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 
 <!-- end list -->
 
-  - 本作亦於2012年8月8日發行日語五版本<small>（普通盤為限量盤銷售完畢後發行）</small>。並於8月1日起於日本音源網[RecoChoku發佈](../Page/RecoChoku.md "wikilink")〈ONE
+  - 本作亦於2012年8月8日發行日語五版本<small>（普通盤為限量盤銷售完畢後發行）</small>。並於8月1日起於日本音源網[RecoChoku](../Page/RecoChoku.md "wikilink")發佈〈ONE
     4 U〉日文版音源。
 
 <table>
@@ -42,7 +42,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 <p>（限定盤A / B / C + SPECIAL SHOWCASE DVD）</p></td>
 </tr>
 <tr class="odd">
-<td><p>贈送：⒈A-JAX <a href="../Page/握手會.md" title="wikilink">握手會參加券</a> ⒉A-JAX 成員小卡 (共七款，隨機收入一款)</p></td>
+<td><p>贈送：⒈A-JAX <a href="../Page/握手會.md" title="wikilink">握手會</a>參加券 ⒉A-JAX 成員小卡 (共七款，隨機收入一款)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -148,7 +148,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
       - 日本歌詞修改為少年、少女們，現在站起來，拿出力氣向前進吧充滿力量的歌詞。並把Visual
         pop更加升級，折中音樂影像中的魔幻要素，造型也某種程度變化。用遊戲角色般的形象把它具體化。
 2.  Break Up
-      - 是由替[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[倖田來未等歌手創作出熱門歌曲的作詞家Kenn](../Page/倖田來未.md "wikilink")
+      - 是由替[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")等歌手創作出熱門歌曲的作詞家Kenn
         Kato與製作多部戲劇原聲帶的作曲家Kim Won Hyun和擔任[A
         Pink歌曲BUBIBU編曲的Shim](https://zh.wikipedia.org/wiki/A_Pink "wikilink")
         Man Joo共同製作的曲目。
@@ -343,10 +343,10 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 | 出道ShowCase    |                                                       |
 | 07月11日        | 東京品川Stellar Ball                                      |
 | 預購Event / 攝影會 |                                                       |
-| 08月4日         | [東京國際展示場TFT](../Page/東京國際展示場.md "wikilink") HALL 500  |
+| 08月4日         | [東京國際展示場](../Page/東京國際展示場.md "wikilink")TFT HALL 500  |
 | 08月5日         | 大阪朝日生命HALL                                            |
 | 握手會           |                                                       |
-| 08月8日         | [東京國際展示場TFT](../Page/東京國際展示場.md "wikilink") HALL 1000 |
+| 08月8日         | [東京國際展示場](../Page/東京國際展示場.md "wikilink")TFT HALL 1000 |
 | 08月10日        | 大阪梅田CRYSTAL HALL                                      |
 | 08月11日        | 名古屋愛知NGK Insulators 接待 HALL                           |
 | 08月12日        | ACROS福岡                                               |

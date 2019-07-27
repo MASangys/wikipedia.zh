@@ -1,19 +1,19 @@
 **FN
-SLP**（SLP，全稱：，意為：警用霰彈槍）是一款由[比利时槍械公製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾所研製及生產的警用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（戰術型時則是軍警兩用霰彈槍），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。\[1\]
+SLP**（SLP，全稱：，意為：警用霰彈槍）是一款由[比利时](../Page/比利时.md "wikilink")槍械公製造商[國營赫斯塔爾所研製及生產的警用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（戰術型時則是軍警兩用霰彈槍），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。\[1\]
 
 ## 設計細節
 
 FN
 SLP是一枝[氣動式操作的霰彈槍](../Page/氣動式_\(槍械\).md "wikilink")，國營赫斯塔爾目前生產了五種不同的型號：SLP標準型、SLP
 Mark I型、SLP戰術型、SLP Mark I戰術型和SLP Mark
-I比賽型。\[2\]SLP系列於2008年推出，並且被（）[杂志命名為](../Page/杂志.md "wikilink")“2009年度霰彈槍”。\[3\]
+I比賽型。\[2\]SLP系列於2008年推出，並且被（）[杂志](../Page/杂志.md "wikilink")命名為“2009年度霰彈槍”。\[3\]
 
 FN
 SLP的[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")27.58—32.47[牛頓](../Page/牛頓_\(單位\).md "wikilink")（6.2—7.3[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）。\[4\]國營赫斯塔爾聲稱，SLP“能夠在不到1秒鐘內發射8發霰彈”。\[5\]
 
 ### 槍管組件
 
-鋼製滑膛[槍管表面塗裝成啞光黑色](../Page/槍管.md "wikilink")，[膛室內進行了鍍鉻處理](../Page/膛室.md "wikilink")。槍口安裝有標準型[喉缩](https://zh.wikipedia.org/wiki/喉缩 "wikilink")。槍管前端上方用燕尾槽安裝了紅色[光纖式](../Page/光導纖維.md "wikilink")[準星](../Page/照準器.md "wikilink")，缺口式照門安裝在槍管後部上方的導軌座前端，照門可調節高低及方向。
+鋼製滑膛[槍管](../Page/槍管.md "wikilink")表面塗裝成[黑色](../Page/黑色.md "wikilink")，[膛室](../Page/膛室.md "wikilink")內進行了鍍鉻處理。槍口安裝有標準型[喉缩](https://zh.wikipedia.org/wiki/喉缩 "wikilink")。槍管前端上方用燕尾槽安裝了紅色[光纖式](../Page/光導纖維.md "wikilink")[準星](../Page/照準器.md "wikilink")，缺口式照門安裝在槍管後部上方的導軌座前端，照門可調節高低及方向。
 
 ### 導氣組件
 
@@ -26,7 +26,7 @@ SLP採用活塞導氣式自動方式，導氣組件由活塞、活塞筒組成�
 
 ### 聚合物槍托
 
-聚合物製造的黑色[槍托採用傳統的外形](../Page/槍托.md "wikilink")，槍托握持部分刻有菱形防滑紋。槍托底部設有一個鋼製環，與護手下方的背帶環相配合，用於安裝槍背帶。槍托尾部帶有鏤空設計的橡膠緩衝墊，鏤空設計比起實心的橡膠緩衝墊能吸收更多的後坐能量。橡膠緩衝墊尾端制有橫向防滑紋，抵肩射擊時不易滑脫。
+聚合物製造的黑色[槍托](../Page/槍托.md "wikilink")採用傳統的外形，槍托握持部分刻有菱形防滑紋。槍托底部設有一個鋼製環，與護手下方的背帶環相配合，用於安裝槍背帶。槍托尾部帶有鏤空設計的橡膠緩衝墊，鏤空設計比起實心的橡膠緩衝墊能吸收更多的後坐能量。橡膠緩衝墊尾端制有橫向防滑紋，抵肩射擊時不易滑脫。
 
 ### 瞄準具
 
@@ -43,13 +43,13 @@ I型的瞄準基線則固定在457.2毫米（18英吋）。\[7\]
 ### 民用比賽型
 
 FN SLP主要面向警用領域，為了擴展市場，FN公司也推出了SLP Mark
-I民用比賽型半自動霰彈槍。其槍機組件、托彈板、和活塞都進行了[镍處理](../Page/镍.md "wikilink")，呈銀色；[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、彈倉都塗裝成藍色；護手、槍管、[槍托則塗裝成黑色](../Page/槍托.md "wikilink")。比賽型外觀上由藍色、黑色、銀色三種顏色混搭而成。
+I民用比賽型半自動霰彈槍。其槍機組件、托彈板、和活塞都進行了[镍](../Page/镍.md "wikilink")處理，呈銀色；[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、彈倉都塗裝成藍色；護手、槍管、[槍托](../Page/槍托.md "wikilink")則塗裝成黑色。比賽型外觀上由藍色、黑色、銀色三種顏色混搭而成。
 
 ### 戰術型
 
 針對軍用和特警用半自動霰彈槍市場，FN公司還推出了FN SLP和SLP Mark
 I的戰術型。戰術型的槍管縮短到457.2毫米（18英吋），這樣全槍長相應縮短到990.6毫米（39英吋），全槍更為短小靈活，代價是彈倉容量相應地下降至6
-發。護木前方彈倉部位的左右兩側和下方各安裝一段短導軌，滿足射手安裝戰術附件的需求。聚合物槍托增加了[M4卡賓槍類型](../Page/M4卡賓槍.md "wikilink")，槍托上增加了可互換式，這種設計是霰彈槍上少有的。
+發。護木前方彈倉部位的左右兩側和下方各安裝一段短導軌，滿足射手安裝戰術附件的需求。聚合物槍托增加了[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")類型，槍托上增加了可互換式，這種設計是霰彈槍上少有的。
 
 ## 使用國
 

@@ -33,7 +33,7 @@ CD，Live DVD及BLU-RAY。
 21. 糖不甩
 22. 唇印
 23. 甜蜜蜜(Feat.[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink"))
-24. 甜蜜蜜(Rock)([鄧麗君版](../Page/鄧麗君.md "wikilink"))([黃偉文solo](https://zh.wikipedia.org/wiki/黃偉文 "wikilink"))
+24. 甜蜜蜜(Rock)([鄧麗君](../Page/鄧麗君.md "wikilink")版)([黃偉文solo](https://zh.wikipedia.org/wiki/黃偉文 "wikilink"))
 25. Let Go
 26. 微笑殺人事件
 27. Power Dance Medley:

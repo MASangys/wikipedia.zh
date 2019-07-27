@@ -1,8 +1,8 @@
 **The
 Best**是索尼[PlayStation在日本和亚洲部分地区的廉价类别](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")。类似的廉价类别还有北美的[Greatest
-Hits](../Page/Greatest_Hits.md "wikilink")、[PAL区的](../Page/PAL区.md "wikilink")以及韩国的。
+Hits](../Page/Greatest_Hits.md "wikilink")、[PAL区](../Page/PAL区.md "wikilink")的以及韩国的。
 
-在初代[PlayStation中](../Page/PlayStation.md "wikilink")，当[PSone](https://zh.wikipedia.org/wiki/PSone "wikilink")2000年发行时，Best版为**PSone
+在初代[PlayStation](../Page/PlayStation.md "wikilink")中，当[PSone](https://zh.wikipedia.org/wiki/PSone "wikilink")2000年发行时，Best版为**PSone
 Books**名义。此标签下的游戏皆为廉价再次发行的畅销游戏。以PSone
 Book标签发行的游戏和其他PlayStation游戏不同，使用的是小。游戏说明书通常置于包装盒以外，并和光盘盒封装在包装塑料中。碟中收录的游戏通常为原版零售游戏，但少量作品有修正错误。PSone
 Books一直销售到2006年下半年。
@@ -208,9 +208,9 @@ Collection名义再版\[2\]。
 
   - [波波羅克洛伊斯物語2](../Page/波波羅古洛伊斯物語.md "wikilink")
 
-  - [浪客剑心- 十勇敢阴谋母鸡](../Page/浪客剑心.md "wikilink")
+  - [浪客剑心 十勇敢阴谋母鸡](../Page/浪客剑心.md "wikilink")-
 
-  - [浪客剑心-恢复激斗篇](../Page/浪客剑心.md "wikilink")
+  - [浪客剑心](../Page/浪客剑心.md "wikilink")-恢复激斗篇
 
   -
   - [游戏王怪兽胶囊出血及战](../Page/遊戲王.md "wikilink")
@@ -243,7 +243,7 @@ Collection名义再版\[2\]。
   -
   - [立体忍者活劇 天誅](../Page/天诛系列.md "wikilink")
 
-  - [第4次超級機器人大戰S](../Page/第4次超級機器人大戰.md "wikilink")
+  - [第4次超級機器人大戰](../Page/第4次超級機器人大戰.md "wikilink")S
 
   - [第一神拳 THE FIGHTING\!](../Page/第一神拳.md "wikilink")
 
@@ -266,7 +266,7 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [赤川次郎夜曲](../Page/赤川次郎.md "wikilink")
+  - [赤川次郎](../Page/赤川次郎.md "wikilink")夜曲
 
   -
   - [超人力霸王 Fighting Evolution](../Page/超人力霸王系列.md "wikilink")
@@ -327,7 +327,7 @@ Collection名义再版\[2\]。
 
   - [魔法氣泡SUN](../Page/魔法氣泡系列.md "wikilink")
 
-  - [鲁邦三世卡里奥斯特罗之城 - 重逢 -](../Page/鲁邦三世.md "wikilink")
+  - [鲁邦三世 - 重逢 -](../Page/鲁邦三世.md "wikilink")卡里奥斯特罗之城
 
   -
   -
@@ -415,9 +415,9 @@ Collection名义再版\[2\]。
 
   - [绍罗Q 3](../Page/绍罗Q.md "wikilink")
 
-  - [绍罗Q海洋Q船](../Page/绍罗Q.md "wikilink")
+  - [绍罗Q](../Page/绍罗Q.md "wikilink")海洋Q船
 
-  - [绍罗Q精彩！](../Page/绍罗Q.md "wikilink")
+  - [绍罗Q](../Page/绍罗Q.md "wikilink")精彩！
 
   -
   -
@@ -551,7 +551,7 @@ Collection名义再版\[2\]。
 
   - [妹妹公主](../Page/妹妹公主.md "wikilink")
 
-  - [妹妹公主2](../Page/妹妹公主.md "wikilink")
+  - [妹妹公主](../Page/妹妹公主.md "wikilink")2
 
   - [学校美眉NE★测验后♥](../Page/心跳回忆系列.md "wikilink")
 
@@ -704,17 +704,17 @@ Collection名义再版\[2\]。
   -
   - [绍罗Q 3](../Page/绍罗Q.md "wikilink")
 
-  - [绍罗Q精彩！](../Page/绍罗Q.md "wikilink")
+  - [绍罗Q](../Page/绍罗Q.md "wikilink")精彩！
 
-  - [绍罗Q喷气翅膀彩虹](../Page/绍罗Q.md "wikilink")
+  - [绍罗Q](../Page/绍罗Q.md "wikilink")喷气翅膀彩虹
 
-  - [绍罗Q海洋Q船](../Page/绍罗Q.md "wikilink")
+  - [绍罗Q](../Page/绍罗Q.md "wikilink")海洋Q船
 
   - [网球王子](../Page/网球王子.md "wikilink")
 
-  - [聖石小子〜未完成的石头的秘密〜](../Page/聖石小子.md "wikilink")
+  - [聖石小子](../Page/聖石小子.md "wikilink")〜未完成的石头的秘密〜
 
-  - [聖石小子〜永恒的债券〜](../Page/聖石小子.md "wikilink")
+  - [聖石小子](../Page/聖石小子.md "wikilink")〜永恒的债券〜
 
   -
   -
@@ -735,15 +735,15 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [赤川次郎夜曲](../Page/赤川次郎.md "wikilink")
+  - [赤川次郎](../Page/赤川次郎.md "wikilink")夜曲
 
-  - [赤川次郎夜曲2](../Page/赤川次郎.md "wikilink")
+  - [赤川次郎](../Page/赤川次郎.md "wikilink")夜曲2
 
   - [超級機器人大戰α](../Page/超級機器人大戰α.md "wikilink")
 
   - [超級機器人大戰α外傳](../Page/超級機器人大戰α外傳.md "wikilink")
 
-  - [遊戲王．真．怪獸之決鬥．被封印的記憶](../Page/遊戲王.md "wikilink")
+  - [遊戲王](../Page/遊戲王.md "wikilink")．真．怪獸之決鬥．被封印的記憶
 
   - [闪灵二人组 GetBackers夺还屋](../Page/闪灵二人组.md "wikilink")
 
@@ -1080,7 +1080,7 @@ Collection名义再版\[2\]。
   - [Soul
     Sacrifice](https://zh.wikipedia.org/wiki/Soul_Sacrifice_\(video_game\) "wikilink")
 
-  - [純真傳奇R](../Page/純真傳奇.md "wikilink")
+  - [純真傳奇](../Page/純真傳奇.md "wikilink")R
 
   -
   - [討鬼傳](../Page/討鬼傳.md "wikilink")

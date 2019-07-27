@@ -13,7 +13,7 @@
 
 **2013年**
 
-  - 第八屆[KKBOX數位音樂風雲榜](../Page/KKBOX.md "wikilink")2012「年度百大專輯」《Kimberley》（第二名）
+  - 第八屆[KKBOX](../Page/KKBOX.md "wikilink")數位音樂風雲榜2012「年度百大專輯」《Kimberley》（第二名）
   - 第八屆KKBOX數位音樂風雲榜2012「年度百大單曲」〈愛你〉（第二名）
   - [Neway](../Page/Neway.md "wikilink") K歌榜頒獎典禮 2013「五大熱門海外K歌獎」〈愛你〉
 

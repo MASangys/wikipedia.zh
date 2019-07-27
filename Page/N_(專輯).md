@@ -1,4 +1,4 @@
-**N**是[日本女子偶像樂團](../Page/日本.md "wikilink")[ZONE的第](../Page/ZONE.md "wikilink")3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2004年2月18日發行。
+**N**是[日本](../Page/日本.md "wikilink")女子偶像樂團[ZONE](../Page/ZONE.md "wikilink")的第3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2004年2月18日發行。
 
 ## 收錄曲目
 

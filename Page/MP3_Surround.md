@@ -1,14 +1,14 @@
 [5_1_channels_(surround_sound)_label.svg](https://zh.wikipedia.org/wiki/File:5_1_channels_\(surround_sound\)_label.svg "fig:5_1_channels_(surround_sound)_label.svg")
 **MP3
-Surround**是[MP3的一个包含支持](../Page/MP3.md "wikilink")[5.1环绕立体声的多通道音频扩展](https://zh.wikipedia.org/wiki/环绕立体声 "wikilink")
-。它是由[弗劳恩霍夫IIS与](../Page/弗劳恩霍夫协会.md "wikilink")[汤姆逊和](https://zh.wikipedia.org/wiki/法国汤姆逊集团 "wikilink")[杰尔系统合作开发](../Page/杰尔系统.md "wikilink")，并在2004年12月发布的。\[1\]\[2\]\[3\]
+Surround**是[MP3](../Page/MP3.md "wikilink")的一个包含支持[5.1环绕立体声的多通道音频扩展](https://zh.wikipedia.org/wiki/环绕立体声 "wikilink")
+。它是由[弗劳恩霍夫IIS与](../Page/弗劳恩霍夫协会.md "wikilink")[汤姆逊和](https://zh.wikipedia.org/wiki/法国汤姆逊集团 "wikilink")[杰尔系统](../Page/杰尔系统.md "wikilink")合作开发，并在2004年12月发布的。\[1\]\[2\]\[3\]
 
 ## 概述
 
-MP3 Surround[向下兼容标准MP](../Page/向下兼容.md "wikilink")3。\[4\]\[5\]其数据开销为16
+MP3 Surround[向下兼容](../Page/向下兼容.md "wikilink")标准MP3。\[4\]\[5\]其数据开销为16
 kbit/s，使其文件大小可以近似标准MP3文件的文件大小，文件大小约比一个经典MP3文件大10%。
 目前的评测编码器仅授权为个人和非商业用途。一个MP3
-Surround文件可以以5到6个[WAV音频来创建](../Page/WAV.md "wikilink")。
+Surround文件可以以5到6个[WAV](../Page/WAV.md "wikilink")音频来创建。
 
 ## 厂商支持
 
@@ -28,7 +28,7 @@ Surround的5.1声道音轨。
 SX](https://zh.wikipedia.org/wiki/MP3_SX "wikilink")——可以将标准立体声MP3升级至mp3
 surround文件。
 
-2007年10月10日，Nullsoft的[Winamp在](../Page/Winamp.md "wikilink")5.5版本更新后，开始将MP3
+2007年10月10日，Nullsoft的[Winamp](../Page/Winamp.md "wikilink")在5.5版本更新后，开始将MP3
 Surround格式作为其集成MPEG音频解码器的一部分。
 
 2008年7月2日，[PlayStation

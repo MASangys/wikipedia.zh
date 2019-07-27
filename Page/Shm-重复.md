@@ -32,7 +32,7 @@ Andrew Nevins和Bert Vaux的研究例子
 
 ## 起源和应用
 
-一般认为，这种用法很可能起源自[意地绪语然后再转移到](https://zh.wikipedia.org/wiki/意地绪语 "wikilink")[英语](../Page/英语.md "wikilink")。也有说法认为shm-重复和土耳其语的m-和[东斯拉夫语支的sh](../Page/东斯拉夫语支.md "wikilink")-有关。\[5\]\[6\]
+一般认为，这种用法很可能起源自[意地绪语然后再转移到](https://zh.wikipedia.org/wiki/意地绪语 "wikilink")[英语](../Page/英语.md "wikilink")。也有说法认为shm-重复和土耳其语的m-和[东斯拉夫语支](../Page/东斯拉夫语支.md "wikilink")的sh-有关。\[5\]\[6\]
 
 [牛津英语字典中收录最早的英文出处为](https://zh.wikipedia.org/wiki/牛津英语字典 "wikilink")“I
 know he made Davy go to the Palace to-day with the idea of hastening on
@@ -42,10 +42,10 @@ disparagingly” (Goller 1929:V.ii.215).。\[7\]\[8\]
 1960年美国学术期刊《[美国语言](https://zh.wikipedia.org/wiki/美国语言_\(杂志\) "wikilink")》的论文《On
 Yiddish Shm-.》\[9\]提到，shm-重复已经广泛出现在广告、电影和报纸上。
 
-shm-重复也出现在[现代希伯来语中](https://zh.wikipedia.org/wiki/现代希伯来语 "wikilink")，例如[戴维·本-古里安在](../Page/戴维·本-古里安.md "wikilink")1955年3月29日的一次内阁会议中用""
+shm-重复也出现在[现代希伯来语中](https://zh.wikipedia.org/wiki/现代希伯来语 "wikilink")，例如[戴维·本-古里安](../Page/戴维·本-古里安.md "wikilink")在1955年3月29日的一次内阁会议中用""
 （UN Shm-UN）评价联合国。\[10\]\[11\]
 
-其他语言也有类似的“加辅音+重复”现象，如[卡纳达语中的gi](../Page/卡纳达语.md "wikilink")-重复\[12\]表示与某事物相关的事物。
+其他语言也有类似的“加辅音+重复”现象，如[卡纳达语](../Page/卡纳达语.md "wikilink")中的gi-重复\[12\]表示与某事物相关的事物。
 
 ## 参见
 

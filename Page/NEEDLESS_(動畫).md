@@ -1,4 +1,4 @@
-**[NEEDLESS](https://zh.wikipedia.org/wiki/NEEDLESS "wikilink")**改編成的動畫版，2009年7月起在[東京都會電視台播放](../Page/東京都會電視台.md "wikilink")，[高清制作](../Page/高清制作.md "wikilink")，全24話。故事和漫畫有重大的出入。
+**[NEEDLESS](https://zh.wikipedia.org/wiki/NEEDLESS "wikilink")**改編成的動畫版，2009年7月起在[東京都會電視台](../Page/東京都會電視台.md "wikilink")播放，[高清制作](../Page/高清制作.md "wikilink")，全24話。故事和漫畫有重大的出入。
 
 ## 動畫和原著的差異
 
@@ -10,7 +10,7 @@
   - 沒說明西緬集團是故事中唯一可以合法進入BS的組織，也諱說到加入西緬是needless的唯一正途，BS的人物對西緬的needless僅被當作其打手或殺手般害怕。
   - 鏡頭從未直接拍出BS外的世界，僅在太空拍到鄰近的城市晚上萬家燈火當中的西緬總部，和其包圍的黑暗世界BS。外界人員，包括了普通平民(市民)、政府高層(首相和部分內閣成員)、警方(城市警備隊)、軍方(自衛隊)、外國人等都未在動畫中登場或被介紹。
   - 西緬的學校**聖玫瑰學園**(OVA改稱聖百合學園)並未登場，僅在ED中由古魯斯和失落的環節三人組穿著過校服。
-  - 動畫的旁白是[內海賢二配音的](../Page/內海賢二.md "wikilink")，也是故事中作為動畫的男女主角的貝賴德和夏娃的義父基頓博士，而在原著中博士的真面目卻是故事的元兇[666委員會的首領](../Page/666.md "wikilink")。
+  - 動畫的旁白是[內海賢二](../Page/內海賢二.md "wikilink")配音的，也是故事中作為動畫的男女主角的貝賴德和夏娃的義父基頓博士，而在原著中博士的真面目卻是故事的元兇[666](../Page/666.md "wikilink")委員會的首領。
   - 動畫正片內充滿著古魯斯的獨白，起初像對想像中的姐姐說，後來沒有明確的對象。和基頓(內海賢二)的旁白組合，似乎表示是一種「說故事」「戲說」般的虛擬敘事風格。
   - 雖然在正片中胡桃(十六歲)身穿校服被狙殺，但並未明言是學生和穿著校服。其他人當作只是大企業的員工作的制服，而她們只是單純的打手吧。
   - 動畫中人物裸露較少，僅在正版DVD或BD的附屬特典中，經常可以見到裸體或半裸，而且仍然不露出乳頭和性器的。
@@ -41,9 +41,9 @@
   - 制片人：大胡寬二、川村仁、櫻井優香、二方由紀子
   - 動畫製作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
   - 制作：NEEDLESS制作委員會（[Avex
-    Entertainment](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[博報堂DY
+    Entertainment](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[博報堂
     Media
-    Partners](../Page/博報堂.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")）
+    Partners](../Page/博報堂.md "wikilink")DY、[Lantis](../Page/Lantis.md "wikilink")、[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")）
 
 ## 主題曲
 
@@ -347,7 +347,7 @@ LEE MIN BAE</p></td>
 
 ## 特典
 
-一共有十二集的OVA短片**聖百合學園的秘密**，每集正片長約三分鐘，隨正版BD/DVD後所收錄的。講以[偽娘姿態進入少女部隊的母校聖百合學園的](../Page/偽娘.md "wikilink")**山田撫子**（古魯斯）為主角，和動畫中西緬少女部隊被說成是江湖風格的大企業西緬的[殺手](../Page/殺手.md "wikilink")，或者原著的**聖玫瑰學園編**中正規[情報員](https://zh.wikipedia.org/wiki/情報員 "wikilink")，兩者的印象都完全不同，本編的少女部隊是[偶像組合的故事](https://zh.wikipedia.org/wiki/偶像 "wikilink")。
+一共有十二集的OVA短片**聖百合學園的秘密**，每集正片長約三分鐘，隨正版BD/DVD後所收錄的。講以[偽娘](../Page/偽娘.md "wikilink")姿態進入少女部隊的母校聖百合學園的**山田撫子**（古魯斯）為主角，和動畫中西緬少女部隊被說成是江湖風格的大企業西緬的[殺手](../Page/殺手.md "wikilink")，或者原著的**聖玫瑰學園編**中正規[情報員](https://zh.wikipedia.org/wiki/情報員 "wikilink")，兩者的印象都完全不同，本編的少女部隊是[偶像組合的故事](https://zh.wikipedia.org/wiki/偶像 "wikilink")。
 
 而且在本編中即使原著中和少女部隊敵對的人物也是其成員的。
 
@@ -543,7 +543,7 @@ HAN SUNG HUI</p></td>
 
 ## 參見
 
-  - [NEEDLESS原著](https://zh.wikipedia.org/wiki/NEEDLESS "wikilink")[同人誌和商業連載漫畫](../Page/同人誌.md "wikilink")。
+  - [NEEDLESS原著](https://zh.wikipedia.org/wiki/NEEDLESS "wikilink")[同人誌](../Page/同人誌.md "wikilink")和商業連載漫畫。
   - [NEEDLESS角色列表](../Page/NEEDLESS角色列表.md "wikilink")
   - [NEEDLESS能力列表](https://zh.wikipedia.org/wiki/NEEDLESS能力列表 "wikilink")
 

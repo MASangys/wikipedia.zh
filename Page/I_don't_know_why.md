@@ -1,10 +1,10 @@
 《**I don't know
-why**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE獨立製作的第二張單曲](../Page/CNBLUE.md "wikilink")。這單曲由[鄭容和與](../Page/鄭容和.md "wikilink")[Aramaki作曲](https://zh.wikipedia.org/wiki/Aramaki "wikilink")，容和同時填詞。2010年9月16日發行\[1\]。
+why**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")獨立製作的第二張單曲。這單曲由[鄭容和](../Page/鄭容和.md "wikilink")與[Aramaki作曲](https://zh.wikipedia.org/wiki/Aramaki "wikilink")，容和同時填詞。2010年9月16日發行\[1\]。
 
 ## 單曲內容
 
 《I don't know
-why》由CNBLUE成員[鄭容和創作曲詞](../Page/鄭容和.md "wikilink")、[Aramaki共同作詞](https://zh.wikipedia.org/wiki/Aramaki "wikilink")；B面歌曲《Lie》由CNBLUE另一成員[李宗泫作曲](../Page/李宗泫.md "wikilink")、[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")，CUL作詞\[2\]。
+why》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")創作曲詞、[Aramaki共同作詞](https://zh.wikipedia.org/wiki/Aramaki "wikilink")；B面歌曲《Lie》由CNBLUE另一成員[李宗泫](../Page/李宗泫.md "wikilink")作曲、[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")，CUL作詞\[2\]。
 
 ## 曲目
 
@@ -12,7 +12,7 @@ why》由CNBLUE成員[鄭容和創作曲詞](../Page/鄭容和.md "wikilink")、
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置   | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置   | 總銷量     | 停留時間 |
 | ---------------------------------------- | ------ | ------- | ---- |
 | 單曲日榜                                     | 8\[3\] | 14,530+ | 9週   |
 | 單曲週榜\[4\]                                | 15     |         |      |

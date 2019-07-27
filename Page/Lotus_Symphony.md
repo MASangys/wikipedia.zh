@@ -1,5 +1,5 @@
 **Lotus
-Symphony**是[IBM以](../Page/IBM.md "wikilink")[OpenOffice.org為基礎開發的](../Page/OpenOffice.org.md "wikilink")[辦公室軟體](../Page/辦公室套裝軟體比較.md "wikilink")，是一個跨平台的[免費軟體](../Page/免費軟體.md "wikilink")，支援[开放文档格式](../Page/开放文档格式.md "wikilink")（ODF），同时也兼容Microsoft
+Symphony**是[IBM](../Page/IBM.md "wikilink")以[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")為基礎開發的[辦公室軟體](../Page/辦公室套裝軟體比較.md "wikilink")，是一個跨平台的[免費軟體](../Page/免費軟體.md "wikilink")，支援[开放文档格式](../Page/开放文档格式.md "wikilink")（ODF），同时也兼容Microsoft
 Office的檔案格式。
 
 ## 特色

@@ -2,7 +2,7 @@
 Weekend**是一个基于[美国](../Page/美国.md "wikilink")[华盛顿州](../Page/华盛顿州.md "wikilink")[西雅图的已注册](https://zh.wikipedia.org/wiki/西雅图 "wikilink")[501(c)条款\#501(c)(3)非营利组织](https://zh.wikipedia.org/wiki/501\(c\)#501\(c\)\(3\) "wikilink")。它组织54小时周末活动，期间一组开发者，商业经理，创业爱好者，市场导师，平面艺术家为了创建新的创业公司孕育了很多的提案点子。他们各自围绕着这些点子各组成小组，努力开发使之成为周末晚上的一个模型，模板，或者演示。Startup
 Weekend已发展成为一个全球性组织。在2013年4月，共举办过1068个活动，涉及多于100个国家400多座城市的100,000多名企业家，共诞生了8190个创业。
 \[1\] ,
-[Google和](../Page/Google.md "wikilink")[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+[Google](../Page/Google.md "wikilink")和[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 都是赞助商。
 
 ## 参见

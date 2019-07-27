@@ -1,4 +1,4 @@
-《**TIME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[東方神起的第](../Page/東方神起.md "wikilink")6枚原創日語專輯，於2013年3月6日發行。唱片公司為[avex
+《**TIME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[東方神起](../Page/東方神起.md "wikilink")的第6枚原創日語專輯，於2013年3月6日發行。唱片公司為[avex
 trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
@@ -10,9 +10,9 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
   - 新曲《逢いたくて逢いたくてたまらない》（想見妳想見妳如此的想見妳）是[江崎固力果](../Page/江崎固力果.md "wikilink")「牧場しぼり」的電視廣告歌曲。
   - 新曲《HUMANOIDS》是東方神起第六張正規專輯Repackage《[HUMANOIDS](../Page/CATCH_ME.md "wikilink")》主打歌曲《Humanoids》的日語版本。
   - 新曲《One and Only
-    One》是[TBS電視台節目](../Page/TBS電視台.md "wikilink")「ひるおび\!」3月份的片尾曲。
+    One》是[TBS電視台](../Page/TBS電視台.md "wikilink")節目「ひるおび\!」3月份的片尾曲。
   - 新曲《In Our
-    Time》是[日本電視台節目](../Page/日本電視台.md "wikilink")「スッキリ\!\!」2月份的片尾曲。
+    Time》是[日本電視台](../Page/日本電視台.md "wikilink")節目「スッキリ\!\!」2月份的片尾曲。
   - 本作「TIME」的封面和標題是以歌曲中的「过去（中世纪）」、「現在（现代都市）」和「未来（无机质空间）」為主题。
   - 本作分「CD+DVD A盤」、「CD+DVD B盤」和「CD盤」3種版本。
   - 「CD+DVD A盤」收錄了「Winter Rose」、「Catch Me -If you wanna-」、「I
@@ -20,7 +20,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     LIVE TOUR 2012～TONE～ Documentary Film」，而「CD+DVD B盤」收錄了「a-nation 2012
     studium fes」、「2011.11.3 @ 東京國際論壇」的片段、歌曲「I Know」和「Humanoids」的Off
     Shot片段，以及專輯《TIME》的Making。CD盤追加收錄第33張單曲「Winter Rose」、「Rat Tat Tat」。
-  - 在3月18日於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")1名。
+  - 在3月18日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜取得第1名。
 
 ## 收錄內容
 
@@ -34,7 +34,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     wanna-](../Page/Catch_Me_-If_you_wanna-.md "wikilink")**
       -
         作詞：Yoo,Young Jin ・ 日本語詞：H.U.B.、作曲：Yoo,Young Jin、編曲：Yoo,Young Jin
-        36th單曲、[關西電視台電視劇](../Page/關西電視台.md "wikilink")「[沙希](../Page/沙希_\(電視劇\).md "wikilink")」主題曲
+        36th單曲、[關西電視台](../Page/關西電視台.md "wikilink")電視劇「[沙希](../Page/沙希_\(電視劇\).md "wikilink")」主題曲
         6th正規專輯《[CATCH ME](../Page/CATCH_ME.md "wikilink")》主打曲《Catch
         Me》的日語版本
 3.  **逢いたくて逢いたくてたまらない**（想見妳想見妳如此的想見妳）
@@ -55,7 +55,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
       -
         作詞：井上慎二郎、作曲：T-SK / TESUNG Kim / Andrew Choi
         36th單曲《CATCH ME -If you
-        wanna-》B面曲、[關西電視台節目](../Page/關西電視台.md "wikilink")「キャサリン三世」片尾曲
+        wanna-》B面曲、[關西電視台](../Page/關西電視台.md "wikilink")節目「キャサリン三世」片尾曲
 7.  **Y3K**
       -
         作詞：H.U.B.、作曲：Mattias Lindblom / Anders Wollbeck / Herbie
@@ -81,11 +81,11 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
       -
         作詞：井上慎二郎、作曲：Peter Kvint / Jonas Myrin、編曲：井上慎二郎 / Peter Kvint /
         Jonas Myrin
-        [TBS電視台節目](../Page/TBS電視台.md "wikilink")「ひるおび\!」3月份的片尾曲
+        [TBS電視台](../Page/TBS電視台.md "wikilink")節目「ひるおび\!」3月份的片尾曲
 12. **In Our Time**
       -
         作詞：井上慎二郎、作曲：井上慎二郎、編曲：井上慎二郎
-        [日本電視台節目](../Page/日本電視台.md "wikilink")「スッキリ\!\!」2月份的片尾曲
+        [日本電視台](../Page/日本電視台.md "wikilink")節目「スッキリ\!\!」2月份的片尾曲
 13. **Rat Tat Tat**
       -
         作詞：H.U.B.、作曲：Adam Nierow / Peter Habib / ライアン・マローン /

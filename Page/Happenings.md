@@ -1,4 +1,4 @@
-《**Happenings**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威的第九張大碟](../Page/孫耀威.md "wikilink")，第三張粵語專輯，在1995年12月1日推出，專輯第一主打歌為《不必為我留下》。
+《**Happenings**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威](../Page/孫耀威.md "wikilink")的第九張大碟，第三張粵語專輯，在1995年12月1日推出，專輯第一主打歌為《不必為我留下》。
 
 ## 曲目
 

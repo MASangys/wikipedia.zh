@@ -1,5 +1,5 @@
 **Dry**
-是由[雷頌德和](../Page/雷頌德.md "wikilink")[馮德倫於](../Page/馮德倫.md "wikilink")1996年組成的樂隊。於第三張唱片《Dry
+是由[雷頌德](../Page/雷頌德.md "wikilink")和[馮德倫](../Page/馮德倫.md "wikilink")於1996年組成的樂隊。於第三張唱片《Dry
 Free》推出後解散。
 
 ## 唱片

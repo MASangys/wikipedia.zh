@@ -1,7 +1,7 @@
 **株式会社RecoChoku**（，*RecoChoku Co,
-Ltd.*）是[日本的](../Page/日本.md "wikilink")[IT情報關聯企業](https://zh.wikipedia.org/wiki/IT "wikilink")。**RecoChoku**（）是經營[手機鈴聲](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")、[全曲下載等服務的收費配信網站](https://zh.wikipedia.org/wiki/全曲下載 "wikilink")。
+Ltd.*）是[日本](../Page/日本.md "wikilink")的[IT情報關聯企業](https://zh.wikipedia.org/wiki/IT "wikilink")。**RecoChoku**（）是經營[手機鈴聲](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")、[全曲下載等服務的收費配信網站](https://zh.wikipedia.org/wiki/全曲下載 "wikilink")。
 
-社名來自網站的舊名稱「（唱片公司直營）」的簡稱「（Recochoku）」，為日本主要的[唱片公司共同出資成立的企業](../Page/唱片公司.md "wikilink")。
+社名來自網站的舊名稱「（唱片公司直營）」的簡稱「（Recochoku）」，為日本主要的[唱片公司](../Page/唱片公司.md "wikilink")共同出資成立的企業。
 
 ## 概要
 
@@ -10,7 +10,7 @@ Ltd.*）是[日本的](../Page/日本.md "wikilink")[IT情報關聯企業](https
 ## 沿革
 
   - 2001年7月3日，「」（*LABEL MOBILE INC.*）成立。一開始由avex network（現合併為[avex
-    marketing](https://zh.wikipedia.org/wiki/avex_marketing "wikilink")）、[日本索尼音樂娛樂和](../Page/日本索尼音樂娛樂.md "wikilink")[Victor
+    marketing](https://zh.wikipedia.org/wiki/avex_marketing "wikilink")）、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")和[Victor
     Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")3間公司共同出資。
   - 2002年12月，以「唱片公司直營」名稱開始對[au](https://zh.wikipedia.org/wiki/au "wikilink")（[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](https://zh.wikipedia.org/wiki/沖縄セルラー電話 "wikilink")[連合](https://zh.wikipedia.org/wiki/連合 "wikilink")）經營[手機鈴聲的配信](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")。
   - 2004年11月，以「唱片公司直營全曲」名稱開始對au（KDDI／沖縄セルラー電話連合）提供[全曲下載的配信服務](https://zh.wikipedia.org/wiki/全曲下載 "wikilink")。

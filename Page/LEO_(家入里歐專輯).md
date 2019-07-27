@@ -1,4 +1,4 @@
-「**LEO**」是[家入里歐首張個人專輯](../Page/家入里歐.md "wikilink")。2012年10月24日由Victor
+「**LEO**」是[家入里歐](../Page/家入里歐.md "wikilink")首張個人專輯。2012年10月24日由Victor
 Entertainment發售。2013年3月22日在台灣由台灣環球唱片公司發售。
 
 ## 概要
@@ -6,7 +6,7 @@ Entertainment發售。2013年3月22日在台灣由台灣環球唱片公司發售
 這是家入 レオ從出道以來發行首張的個人專輯，分為通常盤及初回限定盤，初回限定盤附有收錄家入 レオ
 Live活動的DVD，總數54分鐘。其中歌曲Say
 Goodbye在10月17日在Itunes先行配信。
-**LEO**在首日獲得[Oricon公信榜的第一位好評](../Page/Oricon公信榜.md "wikilink")，在首兩週獲得第二位。
+**LEO**在首日獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的第一位好評，在首兩週獲得第二位。
 
 ## 收錄曲
 
@@ -40,7 +40,7 @@ Goodbye在10月17日在Itunes先行配信。
     You](https://zh.wikipedia.org/wiki/Bless_You_\(家入里昂單曲\) "wikilink")**
       -
         收錄於第三張單曲**Bless
-        You**,[TBS音樂節目](../Page/TBS.md "wikilink")「[COUNT DOWN
+        You**,[TBS](../Page/TBS.md "wikilink")音樂節目「[COUNT DOWN
         TV](../Page/COUNT_DOWN_TV.md "wikilink")」2012年9月主題歌.
 9.  **Fake Love**
       -

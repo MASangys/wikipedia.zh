@@ -1,4 +1,4 @@
-**欧文·G·托尔伯格纪念奖**（）是[电影艺术与科学学院颁发的一个专门针对](../Page/电影艺术与科学学院.md "wikilink")“制作出多部高质量电影的制片人”的奖项，以[米高梅公司的著名](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")[欧文·托尔伯格](../Page/欧文·托尔伯格.md "wikilink")（）命名，与电影艺术与科学学院颁奖的[简·赫尔索特人道精神奖](../Page/简·赫尔索特人道精神奖.md "wikilink")（）一样，欧文·G·托尔伯格纪念奖也是不定期颁发的，至今（截止[第85届学院奖](https://zh.wikipedia.org/wiki/第85届学院奖 "wikilink")）为止一共已经颁发了39次。
+**欧文·G·托尔伯格纪念奖**（）是[电影艺术与科学学院](../Page/电影艺术与科学学院.md "wikilink")颁发的一个专门针对“制作出多部高质量电影的制片人”的奖项，以[米高梅公司的著名](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")[欧文·托尔伯格](../Page/欧文·托尔伯格.md "wikilink")（）命名，与电影艺术与科学学院颁奖的[简·赫尔索特人道精神奖](../Page/简·赫尔索特人道精神奖.md "wikilink")（）一样，欧文·G·托尔伯格纪念奖也是不定期颁发的，至今（截止[第85届学院奖](https://zh.wikipedia.org/wiki/第85届学院奖 "wikilink")）为止一共已经颁发了39次。
 
 ## 获奖者名单\[1\]
 

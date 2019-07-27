@@ -2,11 +2,11 @@
 
 **DRS**（[英文全称](https://zh.wikipedia.org/wiki/英文 "wikilink")：**D**rag
 **R**eduction
-**S**ystem）译为**减少空气阻力系统**或者**可变尾翼**，是[2011年世界一级方程式锦标赛引入的一项技术](../Page/2011年世界一级方程式锦标赛.md "wikilink")。该技术旨在通过调节[尾翼的角度以减少](../Page/尾翼.md "wikilink")[空气阻力](https://zh.wikipedia.org/wiki/空气阻力 "wikilink")，从而使赛车获得更快的速度，以达到超车的目的，亦使比赛的观赏性大大增强。\[1\]
+**S**ystem）译为**减少空气阻力系统**或者**可变尾翼**，是[2011年世界一级方程式锦标赛](../Page/2011年世界一级方程式锦标赛.md "wikilink")引入的一项技术。该技术旨在通过调节[尾翼](../Page/尾翼.md "wikilink")的角度以减少[空气阻力](https://zh.wikipedia.org/wiki/空气阻力 "wikilink")，从而使赛车获得更快的速度，以达到超车的目的，亦使比赛的观赏性大大增强。\[1\]
 
 ## 原理
 
-车手可以在赛道规定的区域使用[方向盘上的按钮将赛车尾翼的角度调平](../Page/方向盘.md "wikilink")，使得尾部的下[压力减少](https://zh.wikipedia.org/wiki/压力 "wikilink")，以减少空气阻力，从而使赛车获得更快的速度，因此有机会超越前面的赛车。
+车手可以在赛道规定的区域使用[方向盘](../Page/方向盘.md "wikilink")上的按钮将赛车尾翼的角度调平，使得尾部的下[压力减少](https://zh.wikipedia.org/wiki/压力 "wikilink")，以减少空气阻力，从而使赛车获得更快的速度，因此有机会超越前面的赛车。
 
 根据[国际汽车联盟的估计](https://zh.wikipedia.org/wiki/国际汽车联盟 "wikilink")，开启DRS会使速度增加10-12公里/时\[2\]，DRS关闭可以增加更多的下压力，可以更好的过弯。
 

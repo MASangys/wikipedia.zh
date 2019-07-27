@@ -1,5 +1,5 @@
 《**夏 wanna say love
-U**》是[日本女子組合](../Page/日本.md "wikilink")[9nine的第](../Page/9nine.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年7月20日由[SME
+U**》是[日本](../Page/日本.md "wikilink")女子組合[9nine](../Page/9nine.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年7月20日由[SME
 Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要

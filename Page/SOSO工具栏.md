@@ -1,4 +1,4 @@
-**SOSO工具栏**是[腾讯公司推出的一款](../Page/腾讯.md "wikilink")[IE](https://zh.wikipedia.org/wiki/IE "wikilink")[工具栏软件](../Page/工具栏.md "wikilink")。这个软件和IE浏览器一起工作，提供搜索、应用盒子、QQ业务、实用工具、恶意网址拦截等功能。现已停止维护。
+**SOSO工具栏**是[腾讯](../Page/腾讯.md "wikilink")公司推出的一款[IE](https://zh.wikipedia.org/wiki/IE "wikilink")[工具栏](../Page/工具栏.md "wikilink")软件。这个软件和IE浏览器一起工作，提供搜索、应用盒子、QQ业务、实用工具、恶意网址拦截等功能。现已停止维护。
 
 ## 现状
 
@@ -36,11 +36,11 @@
 
 ### 恶意网址拦截
 
-此功能在检测到用户浏览[钓鱼](../Page/钓鱼.md "wikilink")、[挂马](https://zh.wikipedia.org/wiki/挂马 "wikilink")、[中毒网站时可以自动阻止](../Page/中毒.md "wikilink")，保证用户浏览网站时的安全。
+此功能在检测到用户浏览[钓鱼](../Page/钓鱼.md "wikilink")、[挂马](https://zh.wikipedia.org/wiki/挂马 "wikilink")、[中毒](../Page/中毒.md "wikilink")网站时可以自动阻止，保证用户浏览网站时的安全。
 
 ### 鼠标手势
 
-用户通过[鼠标手势功能可以快速操作网页的功能](https://zh.wikipedia.org/wiki/鼠标手势 "wikilink")。（此功能只支持[IE6或](https://zh.wikipedia.org/wiki/IE6 "wikilink")[IE7](https://zh.wikipedia.org/wiki/IE7 "wikilink")）在浏览网页时，按住[鼠标右键并画出轨迹](../Page/鼠标.md "wikilink")，在SOSO工具栏识别之后即可执行响应操作。[SOSO工具栏手势.gif](https://zh.wikipedia.org/wiki/File:SOSO工具栏手势.gif "fig:SOSO工具栏手势.gif")
+用户通过[鼠标手势功能可以快速操作网页的功能](https://zh.wikipedia.org/wiki/鼠标手势 "wikilink")。（此功能只支持[IE6或](https://zh.wikipedia.org/wiki/IE6 "wikilink")[IE7](https://zh.wikipedia.org/wiki/IE7 "wikilink")）在浏览网页时，按住[鼠标](../Page/鼠标.md "wikilink")右键并画出轨迹，在SOSO工具栏识别之后即可执行响应操作。[SOSO工具栏手势.gif](https://zh.wikipedia.org/wiki/File:SOSO工具栏手势.gif "fig:SOSO工具栏手势.gif")
 
 ### 侧边栏
 
@@ -52,7 +52,7 @@
 
 ### 流媒体独立播放和下载
 
-'**'[流媒体独立播放和下载](../Page/流媒体.md "wikilink")**功能在播放视频时会自动在视频右上角出现一个工具条，在此可以独立播放视频。
+'**'[流媒体](../Page/流媒体.md "wikilink")独立播放和下载**功能在播放视频时会自动在视频右上角出现一个工具条，在此可以独立播放视频。
 
 ### 恢复意外关闭的网页
 

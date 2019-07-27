@@ -1,4 +1,4 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 8.00港劇時段
 
@@ -401,7 +401,7 @@ Highs and Lows</p></td>
 <a href="../Page/吳綺莉.md" title="wikilink">吳綺莉</a>、<a href="../Page/官恩娜.md" title="wikilink">官恩娜</a>、<a href="../Page/黃智賢_(香港).md" title="wikilink">黃智賢</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/林志華.md" title="wikilink">林志華</a></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：雷霆掃毒（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉作曲</a>）<br />
+<td style="text-align: center;"><p>主：雷霆掃毒（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a>作曲）<br />
 插：幼稚完（<a href="https://zh.wikipedia.org/wiki/林峯" title="wikilink">林　峯</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>

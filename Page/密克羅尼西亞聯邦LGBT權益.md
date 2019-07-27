@@ -1,12 +1,12 @@
-**女同性戀、男同性戀、雙性戀與跨性別者**的權益在[密克羅尼西亞聯邦不受到](https://zh.wikipedia.org/wiki/密克羅尼西亞聯邦 "wikilink")[法律保障](../Page/法律.md "wikilink")，無任何法律保障[LGBT的權益](../Page/LGBT.md "wikilink")。雖然同性性行為在密克羅尼西亞聯邦合法，但是無任何法律承認不同[性傾向有相同的法律權益](https://zh.wikipedia.org/wiki/性傾向 "wikilink")\[1\]。
+**女同性戀、男同性戀、雙性戀與跨性別者**的權益在[密克羅尼西亞聯邦不受到](https://zh.wikipedia.org/wiki/密克羅尼西亞聯邦 "wikilink")[法律](../Page/法律.md "wikilink")保障，無任何法律保障[LGBT](../Page/LGBT.md "wikilink")的權益。雖然同性性行為在密克羅尼西亞聯邦合法，但是無任何法律承認不同[性傾向有相同的法律權益](https://zh.wikipedia.org/wiki/性傾向 "wikilink")\[1\]。
 
 ## 同性伴侶關係
 
-密克羅尼西亞聯邦沒有承認[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[民事結合或其它同性伴侶關係的法律](../Page/民事結合.md "wikilink")。由於沒有此類議題的討論，因此無從得知該國國會對同性伴侶關係是否持反對立場，也沒有任何法律宣稱同性婚姻為非法；然而，該國依舊在[實際上不允許同性婚姻](https://zh.wikipedia.org/wiki/De_facto "wikilink")\[2\]。
+密克羅尼西亞聯邦沒有承認[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[民事結合](../Page/民事結合.md "wikilink")或其它同性伴侶關係的法律。由於沒有此類議題的討論，因此無從得知該國國會對同性伴侶關係是否持反對立場，也沒有任何法律宣稱同性婚姻為非法；然而，該國依舊在[實際上不允許同性婚姻](https://zh.wikipedia.org/wiki/De_facto "wikilink")\[2\]。
 
 ## 輿論反應
 
-在密克羅尼西亞，鮮少有同性會牽著手出現在公共場合，因為會引起旁人皺眉。[美國國務院的報告指出](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")：「目前沒有任何情報指出（密克羅尼西亞聯邦）當地是否存在對同性伴侶或[愛滋病感染者的歧視](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")\[3\]。」。而一名來自[救世軍的](../Page/救世軍.md "wikilink")[福音派牧師則譴責](https://zh.wikipedia.org/wiki/福音神學 "wikilink")[恐同症和](https://zh.wikipedia.org/wiki/恐同症 "wikilink")「性傾向轉換療法」，並指出性傾向是不變的\[4\]。
+在密克羅尼西亞，鮮少有同性會牽著手出現在公共場合，因為會引起旁人皺眉。[美國國務院的報告指出](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")：「目前沒有任何情報指出（密克羅尼西亞聯邦）當地是否存在對同性伴侶或[愛滋病感染者的歧視](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")\[3\]。」。而一名來自[救世軍](../Page/救世軍.md "wikilink")的[福音派牧師則譴責](https://zh.wikipedia.org/wiki/福音神學 "wikilink")[恐同症和](https://zh.wikipedia.org/wiki/恐同症 "wikilink")「性傾向轉換療法」，並指出性傾向是不變的\[4\]。
 
 ## 概況
 

@@ -1,4 +1,4 @@
-**星**（；），本名**金高恩**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。曾是JYP創社初期藝人，2012年8月14日宣佈與韓國歌手及藝人[Haha](../Page/Haha.md "wikilink")（本名：河東勳）結婚，於同年10月註冊，並於同年11月30日舉行婚禮。2013年1月25日，宣佈已懷孕三個月。同年7月9日，[Haha於Twitter宣佈喜得一子Dream](../Page/Haha.md "wikilink")，8月28日Star於Twitter宣佈兒子的出生證明中全名登記為河Dream（)。2017年3月22日，次子Soul出生。
+**星**（；），本名**金高恩**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。曾是JYP創社初期藝人，2012年8月14日宣佈與韓國歌手及藝人[Haha](../Page/Haha.md "wikilink")（本名：河東勳）結婚，於同年10月註冊，並於同年11月30日舉行婚禮。2013年1月25日，宣佈已懷孕三個月。同年7月9日，[Haha](../Page/Haha.md "wikilink")於Twitter宣佈喜得一子Dream，8月28日Star於Twitter宣佈兒子的出生證明中全名登記為河Dream（)。2017年3月22日，次子Soul出生。2019年7月15日，長女Song出生。
 
 ## 經歷
 

@@ -1,4 +1,4 @@
-《**Friends**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[倪安東的第三張國語專輯](../Page/倪安東.md "wikilink")。這大碟在2013年9月28日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在10月8日推出，首波主打歌曲是《一切都是因為愛》，第二波主打歌曲則是《我是你的》。
+《**Friends**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[倪安東](../Page/倪安東.md "wikilink")的第三張國語專輯。這大碟在2013年9月28日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在10月8日推出，首波主打歌曲是《一切都是因為愛》，第二波主打歌曲則是《我是你的》。
 
 ## 曲目
 

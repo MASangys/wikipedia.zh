@@ -1,5 +1,5 @@
 《**WORLD OF
-FANTASY**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")12張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2011年5月25日發行。唱片公司為。
+FANTASY**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第12張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2011年5月25日發行。唱片公司為。
 
 ## 概要
 
@@ -13,7 +13,7 @@ FANTASY**》是日本音樂組合[CAPSULE第](../Page/CAPSULE.md "wikilink")12�
   - 初回限定盤附有收錄專輯曲延長混音版本（Extended-Mix）的Bonus Disc。
   - 全曲的[速度皆為](../Page/速度_\(音樂\).md "wikilink")128bpm。
   - 專輯所有歌曲歌詞皆為英文，沒有收錄日語的歌曲。
-  - 這是CAPSULE首次登上[Oricon專輯週榜第三位](../Page/Oricon.md "wikilink")。
+  - 這是CAPSULE首次登上[Oricon](../Page/Oricon.md "wikilink")專輯週榜第三位。
 
 ## 收錄曲
 

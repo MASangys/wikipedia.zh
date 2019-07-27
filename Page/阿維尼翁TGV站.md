@@ -1,4 +1,4 @@
-**阿维尼翁TGV站**（）是一个法国高鐵車站，位于法國东南部[普羅旺斯-阿爾卑斯-藍色海岸大區](https://zh.wikipedia.org/wiki/普羅旺斯-阿爾卑斯-藍色海岸大區 "wikilink")[沃克吕兹省省会](../Page/沃克吕兹省.md "wikilink")[阿维尼翁附近](https://zh.wikipedia.org/wiki/阿维尼翁 "wikilink")，[法國高速鐵路地中海線上](https://zh.wikipedia.org/wiki/法國高速鐵路地中海線 "wikilink")，於2001年开始运行。
+**阿维尼翁TGV站**（）是一个法国高鐵車站，位于法國东南部[普羅旺斯-阿爾卑斯-藍色海岸大區](https://zh.wikipedia.org/wiki/普羅旺斯-阿爾卑斯-藍色海岸大區 "wikilink")[沃克吕兹省](../Page/沃克吕兹省.md "wikilink")省会[阿维尼翁附近](https://zh.wikipedia.org/wiki/阿维尼翁 "wikilink")，[法國高速鐵路地中海線上](https://zh.wikipedia.org/wiki/法國高速鐵路地中海線 "wikilink")，於2001年开始运行。
 
 阿维尼翁TGV站位于由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF）运营。地中海線往西南方向的分支從此站以北開始。
 

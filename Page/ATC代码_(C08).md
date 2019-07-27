@@ -1,4 +1,4 @@
-## C08C 主要对[血管产生影响的选择性](../Page/血管.md "wikilink")[钙通道阻断药](https://zh.wikipedia.org/wiki/钙通道阻断 "wikilink")（Selective calcium channel blockers with mainly vascular effects）
+## C08C 主要对[血管](../Page/血管.md "wikilink")产生影响的选择性[钙通道阻断药](https://zh.wikipedia.org/wiki/钙通道阻断 "wikilink")（Selective calcium channel blockers with mainly vascular effects）
 
 ### C08CA [二氢吡啶衍生物](https://zh.wikipedia.org/wiki/二氢吡啶衍 "wikilink")（Dihydropyridine derivatives）
 

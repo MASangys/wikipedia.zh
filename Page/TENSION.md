@@ -1,4 +1,4 @@
-**Tension**是[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港五個男性組成的團體](../Page/香港.md "wikilink")，1998年10月出道，师承[陶喆](../Page/陶喆.md "wikilink")，優美合聲為其特色，曾入圍[第15屆金曲獎的](https://zh.wikipedia.org/wiki/第15屆金曲獎 "wikilink")[最佳重唱組合獎](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")\[1\]。
+**Tension**是[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")五個男性組成的團體，1998年10月出道，师承[陶喆](../Page/陶喆.md "wikilink")，優美合聲為其特色，曾入圍[第15屆金曲獎的](https://zh.wikipedia.org/wiki/第15屆金曲獎 "wikilink")[最佳重唱組合獎](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")\[1\]。
 
 ## 成員列表
 

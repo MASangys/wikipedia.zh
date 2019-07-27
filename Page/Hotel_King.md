@@ -1,10 +1,10 @@
 《**-{Hotel
-King}-**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2014年4月5日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")，由《-{[神的晚餐](../Page/神的晚餐.md "wikilink")}-》的編劇[趙恩貞執筆](https://zh.wikipedia.org/wiki/趙恩貞 "wikilink")，[李棟旭與](../Page/李棟旭.md "wikilink")[李多海繼](../Page/李多海.md "wikilink")《[My
+King}-**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2014年4月5日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")，由《-{[神的晚餐](../Page/神的晚餐.md "wikilink")}-》的編劇[趙恩貞執筆](https://zh.wikipedia.org/wiki/趙恩貞 "wikilink")，[李棟旭](../Page/李棟旭.md "wikilink")與[李多海](../Page/李多海.md "wikilink")繼《[My
 Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[1\]\[2\]
 
 ## 劇情
 
-講述為了守護陷入危機的CIEL酒店而孤軍奮戰的女繼承人阿莫奈\[3\]（[李多海飾](../Page/李多海.md "wikilink")）和為了她不惜與父親反目的酒店總經理車載完（[李棟旭飾](../Page/李棟旭.md "wikilink")）之間的故事。
+講述為了守護陷入危機的CIEL酒店而孤軍奮戰的女繼承人阿莫奈\[3\]（[李多海](../Page/李多海.md "wikilink")飾）和為了她不惜與父親反目的酒店總經理車載完（[李棟旭](../Page/李棟旭.md "wikilink")飾）之間的故事。
 
 ## 演員陣容
 

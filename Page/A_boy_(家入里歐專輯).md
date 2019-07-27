@@ -1,4 +1,4 @@
-「**a boy**」是[家入里歐首張個人專輯](../Page/家入里歐.md "wikilink")。2014年2月19日由Victor
+「**a boy**」是[家入里歐](../Page/家入里歐.md "wikilink")首張個人專輯。2014年2月19日由Victor
 Entertainment發售。名稱 a boy
 道出「轉大人」的少女心。收錄日劇「確證\~警視廳搜查3課」、「海上的診療所」及[pocky廣告歌等多首歌曲](https://zh.wikipedia.org/wiki/pocky "wikilink")。
 

@@ -1,4 +1,4 @@
-**港鐵Schoma柴油機車及Brush電力機車**，是[港鐵在觀塘綫](../Page/港鐵.md "wikilink")、荃灣綫、港島綫、將軍澳綫、東涌綫、機場快綫、迪士尼綫、東鐵線（僅Schoma一款）及南港島綫所使用的工程機車。
+**港鐵Schoma柴油機車及Brush電力機車**，是[港鐵](../Page/港鐵.md "wikilink")在觀塘綫、荃灣綫、港島綫、將軍澳綫、東涌綫、機場快綫、迪士尼綫、東鐵線（僅Schoma一款）及南港島綫所使用的工程機車。
 
 ## 歷史
 
@@ -6,7 +6,7 @@
 
 在1977年，[地鐵](../Page/香港地鐵.md "wikilink")
 (現稱[港鐵](../Page/港鐵.md "wikilink"))
-為興建[修正早期系統而向德國Schoma公司引進第](../Page/修正早期系統.md "wikilink")1期共9輛的Schoma柴油機車，編號為L11-L19
+為興建[修正早期系統](../Page/修正早期系統.md "wikilink")而向德國Schoma公司引進第1期共9輛的Schoma柴油機車，編號為L11-L19
 。
 
 於1979年，地鐵再向Schoma公司引進第2期共9輛的Schoma柴油機車，編號為L20-L28。並於1983年再引進第3期共8輛的Schoma柴油機車，編號為L31-L38
@@ -18,14 +18,14 @@
 DCL-R**，最高牽引力為100噸，最高時速為每小時45公里，引擎型號為Caterpillar
 Model 3306T。
 
-於2012年至2014年間，港鐵為部分第1及第2期的Schoma柴油機車(黃色塗裝)進行翻新，以應付未來數年落成的[港島綫西延](../Page/港島綫西延.md "wikilink")、[觀塘綫延綫及](https://zh.wikipedia.org/wiki/觀塘綫延綫 "wikilink")[南港島綫的各項興建工程](../Page/南港島綫.md "wikilink")。
+於2012年至2014年間，港鐵為部分第1及第2期的Schoma柴油機車(黃色塗裝)進行翻新，以應付未來數年落成的[港島綫西延](../Page/港島綫西延.md "wikilink")、[觀塘綫延綫及](https://zh.wikipedia.org/wiki/觀塘綫延綫 "wikilink")[南港島綫](../Page/南港島綫.md "wikilink")的各項興建工程。
 
 已知進行翻新的機車編號為：L12、L13、L14、L15、L22、L24、L26，其餘機車去向未明。
 
 部分Schoma柴油機車被運至黃竹坑車廠，以進行南港島綫興建工程。
 
 在1992年，[九鐵向德國Schoma公司引進](../Page/九廣鐵路公司.md "wikilink")1輛的CFL-200
-DCL-R型柴油機車，主要在[何東樓車廠內擔任調車工作](../Page/港鐵何東樓車廠.md "wikilink")，[兩鐵合併後租予港鐵公司使用](../Page/兩鐵合併.md "wikilink")。[1](http://www.thmalex.com/railway/chi/kcrtrain.html)
+DCL-R型柴油機車，主要在[何東樓車廠內擔任調車工作](../Page/港鐵何東樓車廠.md "wikilink")，[兩鐵合併](../Page/兩鐵合併.md "wikilink")後租予港鐵公司使用。[1](http://www.thmalex.com/railway/chi/kcrtrain.html)
 
 | 機車編號                | 狀況 (截至2018年7月) | 運行/停泊地點     |
 | ------------------- | -------------- | ----------- |
@@ -125,7 +125,7 @@ Traction公司製造，可選擇使用架空電纜或車內電池運行。
 
 ## 路軌維修車
 
-為加強對[東鐵線](https://zh.wikipedia.org/wiki/東鐵線 "wikilink")、[西鐵線及](https://zh.wikipedia.org/wiki/西鐵線 "wikilink")[馬鞍山線路軌的維修](https://zh.wikipedia.org/wiki/馬鞍山線 "wikilink")，港鐵於2015年從歐洲購入「路軌銑磨車」、「道岔研磨車」及「道碴搗固車」\[1\]。其中，在[港鐵何東樓車廠](../Page/港鐵何東樓車廠.md "wikilink")（編號為RL0045）及[港鐵八鄉車廠服役的兩列兩卡](../Page/港鐵八鄉車廠.md "wikilink")（[雙機固定重聯](../Page/機車重聯.md "wikilink")）奧地利製銑磨車，在黃色車身上漆上了香港天際線及地標。
+為加強對[東鐵線](https://zh.wikipedia.org/wiki/東鐵線 "wikilink")、[西鐵線及](https://zh.wikipedia.org/wiki/西鐵線 "wikilink")[馬鞍山線路軌的維修](https://zh.wikipedia.org/wiki/馬鞍山線 "wikilink")，港鐵於2015年從歐洲購入「路軌銑磨車」、「道岔研磨車」及「道碴搗固車」\[1\]。其中，在[港鐵何東樓車廠](../Page/港鐵何東樓車廠.md "wikilink")（編號為RL0045）及[港鐵八鄉車廠](../Page/港鐵八鄉車廠.md "wikilink")服役的兩列兩卡（[雙機固定重聯](../Page/機車重聯.md "wikilink")）奧地利製銑磨車，在黃色車身上漆上了香港天際線及地標。
 
 ## 圖片集
 

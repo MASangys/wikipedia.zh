@@ -1,9 +1,9 @@
 **南魚座TW**（**TW Piscis Austrini**），或稱為**北落師門B**（**Fomalhaut
-B**），是一顆位於[南魚座的光譜K型](../Page/南魚座.md "wikilink")[橙矮星](../Page/橙矮星.md "wikilink")，距離太陽約24.9光年。
+B**），是一顆位於[南魚座](../Page/南魚座.md "wikilink")的光譜K型[橙矮星](../Page/橙矮星.md "wikilink")，距離太陽約24.9光年。
 
 ## 概要
 
-南魚座TW這個名稱來自於[變星命名法](../Page/變星命名法.md "wikilink")，是[耀星中的](../Page/耀星.md "wikilink")[天龍座BY型變星](../Page/天龍座BY型變星.md "wikilink")。該恆星的亮度變化量並不高，是以10.3日為週期在6.44到6.49等之間變化。南魚座TW是相對較巨大的耀星，因為大多數的耀星都屬於光譜為M型，體積更小的[紅矮星](../Page/紅矮星.md "wikilink")。
+南魚座TW這個名稱來自於[變星命名法](../Page/變星命名法.md "wikilink")，是[耀星](../Page/耀星.md "wikilink")中的[天龍座BY型變星](../Page/天龍座BY型變星.md "wikilink")。該恆星的亮度變化量並不高，是以10.3日為週期在6.44到6.49等之間變化。南魚座TW是相對較巨大的耀星，因為大多數的耀星都屬於光譜為M型，體積更小的[紅矮星](../Page/紅矮星.md "wikilink")。
 
 南魚座TW和比它明亮得多的恆星[北落師門距離在一光年以內](https://zh.wikipedia.org/wiki/北落師門 "wikilink")\[1\]，並且兩者因為有相同的[自行](../Page/自行.md "wikilink")，可能是一起在銀河系中運動。
 

@@ -1,4 +1,4 @@
-《**Reason**》是[玉置成實的第](../Page/玉置成實.md "wikilink")6张单曲。2004年11月10日由[Sony
+《**Reason**》是[玉置成實](../Page/玉置成實.md "wikilink")的第6张单曲。2004年11月10日由[Sony
 Music Records发售](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要
@@ -51,7 +51,7 @@ Oricon公信榜では初登場2位を獲得。今作で自身の同榜单の最�
 ## 翻唱歌曲
 
   - [李樂兒](https://zh.wikipedia.org/wiki/李樂兒 "wikilink")
-    [匡智屯門晨輝學校唱](../Page/匡智屯門晨輝學校.md "wikilink")[卡啦OK](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")
+    [匡智屯門晨輝學校](../Page/匡智屯門晨輝學校.md "wikilink")唱[卡啦OK](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")
     Reason 2017年12月15日。
 
 ## 注释

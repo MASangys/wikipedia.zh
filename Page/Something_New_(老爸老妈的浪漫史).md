@@ -10,7 +10,7 @@
   - 在马修和通知他的人一段对话中说道了电影[超人中超人父亲](../Page/超人_\(電影\).md "wikilink")[乔-艾尔但还没说完就被对方猜到否决](https://zh.wikipedia.org/wiki/喬艾爾 "wikilink")，这其实是一种全息投影，在本剧之前巴尼也对泰德用过。
   - 莉莉对泰德说看电影只要不是一盏台灯跳到大写字母I上的是指不要看[皮克斯动画](../Page/皮克斯动画工作室.md "wikilink")，这是皮克斯动画的经典开头。
   - 马修将公寓的有线和无线网都断了的行为使得莉莉将公寓比作[草原上的小木屋](https://zh.wikipedia.org/wiki/草原上的小木屋 "wikilink")。
-  - 泰德将自己装修房子的行为比作演员[瑞恩·高斯林在电影](../Page/瑞恩·高斯林.md "wikilink")[恋恋笔记本做的那样](https://zh.wikipedia.org/wiki/恋恋笔记本 "wikilink")。
+  - 泰德将自己装修房子的行为比作演员[瑞恩·高斯林](../Page/瑞恩·高斯林.md "wikilink")在电影[恋恋笔记本做的那样](https://zh.wikipedia.org/wiki/恋恋笔记本 "wikilink")。
   - 一段闪回的罗宾于莉莉的对话中罗宾告诉莉莉自己的祖母当年把吊坠放在屁股里，这一段内容是来自电影[低俗小说](../Page/低俗小说.md "wikilink")。
 
 ## 制作
@@ -32,7 +32,7 @@ Simple Song - The Shins（播放与片中最后一段）
 Donna
 Bowman在[影音俱乐部上给这集A](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")-的评价\[4\]。
 
-Max Nicholson在[IGN上给这集评](../Page/IGN.md "wikilink")7.5分\[5\]。
+Max Nicholson在[IGN](../Page/IGN.md "wikilink")上给这集评7.5分\[5\]。
 
 TV Fanatic给这集评5星，满分为5星\[6\]。
 

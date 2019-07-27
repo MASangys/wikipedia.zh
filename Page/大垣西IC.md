@@ -1,4 +1,4 @@
-**大垣西IC**（平假名：おおがきにしインターチェンジ）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[大垣市的](../Page/大垣市.md "wikilink")[東海環狀自動車道之](../Page/東海環狀自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**大垣西IC**（平假名：おおがきにしインターチェンジ）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[大垣市](../Page/大垣市.md "wikilink")的[東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 年表
 
   - 2012年9月15日 -
-    [東海環狀自動車道大垣西IC至](../Page/東海環狀自動車道.md "wikilink")[養老JCT開通](https://zh.wikipedia.org/wiki/養老JCT "wikilink")，此交流道也同時啟用\[1\]。
+    [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")大垣西IC至[養老JCT開通](https://zh.wikipedia.org/wiki/養老JCT "wikilink")，此交流道也同時啟用\[1\]。
   - 2020年（預計） -
     東海環狀自動車道大垣西IC至[關廣見IC開通](https://zh.wikipedia.org/wiki/關廣見IC "wikilink")\[2\]。
 

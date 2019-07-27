@@ -5,7 +5,7 @@ Bundles**）是一系列在网络上售卖和分发的关于电子游戏、音�
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，以及[Linux](../Page/Linux.md "wikilink")）并提供免[电子版权管理](../Page/数字版权管理.md "wikilink")
-（DRM）的下载。后期收藏包包括一些基于[Android系统开发的游戏](../Page/Android.md "wikilink")，收藏包提供安卓内软件下载，在两份收藏包中，收藏包内游戏都有主流出版商组成。每次的收藏包所筹款按开发者、创作者、Humble
+（DRM）的下载。后期收藏包包括一些基于[Android](../Page/Android.md "wikilink")系统开发的游戏，收藏包提供安卓内软件下载，在两份收藏包中，收藏包内游戏都有主流出版商组成。每次的收藏包所筹款按开发者、创作者、Humble
 Bundle公司、以及一个或多个慈善团体分成，慈善团员一般包括包括儿童游戏、[电子前沿基金会](../Page/电子前哨基金会.md "wikilink")、[charity:
 water和美国红十字会](https://zh.wikipedia.org/wiki/charity:_water "wikilink")，当然，买家能够在付款时设置给每个团体之间的分成比例。
 
@@ -15,7 +15,7 @@ Bundle创造了多项类似于提供“ 想付多少由你来决定 ”的方式
 Royale。
 
 2017年10月14日，Humble
-Bundles宣布被[IGN收购](../Page/IGN.md "wikilink")。\[2\]\[3\]
+Bundles宣布被[IGN](../Page/IGN.md "wikilink")收购。\[2\]\[3\]
 
 ## 理念
 

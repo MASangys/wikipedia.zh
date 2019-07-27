@@ -3,7 +3,7 @@ Axis**是由[Yahoo\!開發的](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")�
 Chrome](../Page/Google_Chrome.md "wikilink")、Mozilla
 [Firefox](../Page/Firefox.md "wikilink")、Microsoft Windows [Internet
 Explorer和Apple](../Page/Internet_Explorer.md "wikilink")
-[Safari等](../Page/Safari.md "wikilink")[網頁瀏覽器的](../Page/网页浏览器.md "wikilink")。於2013年6月28日,Yahoo\!宣布終止開發\[4\]。
+[Safari](../Page/Safari.md "wikilink")等[網頁瀏覽器的](../Page/网页浏览器.md "wikilink")。於2013年6月28日,Yahoo\!宣布終止開發\[4\]。
 
 ## 設計
 
@@ -70,7 +70,7 @@ Axis拿掉了十餘年來以藍色[-{zh-hant:連結;zh-hans:链接;}-為主的�
 7.
 8.
 9.
-10. 以[Android為移动操作系統裝置的Yahoo](../Page/Android.md "wikilink")\!
+10. 以[Android](../Page/Android.md "wikilink")為移动操作系統裝置的Yahoo\!
     Axis移動瀏覽器尚未释出，參見
 
 11.

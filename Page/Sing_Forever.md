@@ -1,9 +1,9 @@
 《**Sing
-Forever**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](../Page/平井堅.md "wikilink")32張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年10月13日發行。
+Forever**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第32張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年10月13日發行。
 
 ## 概要
 
-  - [平井堅出道](../Page/平井堅.md "wikilink")15周年紀念單曲，充滿「愛與I」歌頌人生的歡樂歌曲。
+  - [平井堅](../Page/平井堅.md "wikilink")出道15周年紀念單曲，充滿「愛與I」歌頌人生的歡樂歌曲。
   - 收錄日本梵谷展主題曲《太陽》及放克舞曲《HOTEL VAMPIRE》等五首歌曲。
 
 ## 收錄曲目
@@ -12,7 +12,7 @@ Forever**》，[日本男歌手](../Page/日本.md "wikilink")[平井堅的第](
 
 1.  **Sing Forever**
       - 作詞、作曲：平井堅／編曲：松浦晃久
-      - [日本電視台情報節目](../Page/日本電視台.md "wikilink")《爽快！》2010年10月度片尾曲
+      - [日本電視台](../Page/日本電視台.md "wikilink")情報節目《爽快！》2010年10月度片尾曲
 2.  **太陽**
       - 作詞、作曲：平井堅／編曲：松浦晃久
       - 逝世120年日本梵谷展主題曲

@@ -1,4 +1,4 @@
-在[计算机网络中](../Page/计算机网络.md "wikilink")，**网际协议控制协议**（**IPCP**）是一个[网络控制协议](https://zh.wikipedia.org/wiki/网络控制协议 "wikilink")，用来在[点对点协议连接上建立和配置](../Page/点对点协议.md "wikilink")[网际协议](../Page/网际协议.md "wikilink")。IPCP负责在点对点连接的两端配置、使能和去使能IP协议模块。IPCP使用与[链路控制协议相同的报文交换机制](https://zh.wikipedia.org/wiki/链路控制协议 "wikilink")。IPCP报文在PPP达到网络层协议阶段之前不会进行交互，任何在此阶段前收到的IPCP报文都应静默丢弃。
+在[计算机网络](../Page/计算机网络.md "wikilink")中，**网际协议控制协议**（**IPCP**）是一个[网络控制协议](https://zh.wikipedia.org/wiki/网络控制协议 "wikilink")，用来在[点对点协议](../Page/点对点协议.md "wikilink")连接上建立和配置[网际协议](../Page/网际协议.md "wikilink")。IPCP负责在点对点连接的两端配置、使能和去使能IP协议模块。IPCP使用与[链路控制协议相同的报文交换机制](https://zh.wikipedia.org/wiki/链路控制协议 "wikilink")。IPCP报文在PPP达到网络层协议阶段之前不会进行交互，任何在此阶段前收到的IPCP报文都应静默丢弃。
 
 ## IP帧
 

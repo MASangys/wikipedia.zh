@@ -184,7 +184,7 @@ of Congress.
 
 ## 轉寫梵文
 
-梵文轉寫流行的[IAST相同](../Page/IAST.md "wikilink")。
+梵文轉寫流行的[IAST](../Page/IAST.md "wikilink")相同。
 
 <table>
 <caption>輔音</caption>

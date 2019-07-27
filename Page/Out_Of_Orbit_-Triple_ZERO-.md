@@ -1,5 +1,5 @@
 《**Out Of Orbit 〜Triple
-ZERO〜**》是[T.M.Revolution在](../Page/T.M.Revolution.md "wikilink")2002年2月20日发行的第16张单曲。销售方为Antinous
+ZERO〜**》是[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")在2002年2月20日发行的第16张单曲。销售方为Antinous
 Records。
 
 ## 概要

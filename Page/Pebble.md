@@ -1,5 +1,5 @@
 **Pebble**（全稱：**Pebble Technology
-Corp.**）是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[智能手錶研製企業](https://zh.wikipedia.org/wiki/智能手錶 "wikilink")，成立於2012年4月，於2016年12月7日被[Fitbit併購](../Page/Fitbit.md "wikilink")，現已停止運作，並不再生產任何設備與服務。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]。
+Corp.**）是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[智能手錶研製企業](https://zh.wikipedia.org/wiki/智能手錶 "wikilink")，成立於2012年4月，於2016年12月7日被[Fitbit](../Page/Fitbit.md "wikilink")併購，現已停止運作，並不再生產任何設備與服務。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]。
 
 ## 事件
 

@@ -1,4 +1,4 @@
-**KEIJI**（）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
+**KEIJI**（）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
 THE SECOND的表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul
 Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
@@ -35,9 +35,9 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
 ## 人物
 
   - FULCRUM時代用「KJ」的名字活動。
-  - 持有烹調師執照\[3\]\[4\]。從小的時候開始做飯菜著，過去於[蕎麥屋](https://zh.wikipedia.org/wiki/蕎麥屋 "wikilink")，[居酒屋](../Page/居酒屋.md "wikilink")，[咖啡店等打工](../Page/咖啡店.md "wikilink")\[5\]。
-  - 喜歡[B'z想進入愛好者俱樂部](../Page/B'z.md "wikilink"),不過據說不明白入會方法\[6\]。
-  - [阪神虎的](../Page/阪神虎.md "wikilink")[榎田大樹是高中硬式棒球部的晚輩](https://zh.wikipedia.org/wiki/榎田大樹 "wikilink")。
+  - 持有烹調師執照\[3\]\[4\]。從小的時候開始做飯菜著，過去於[蕎麥屋](https://zh.wikipedia.org/wiki/蕎麥屋 "wikilink")，[居酒屋](../Page/居酒屋.md "wikilink")，[咖啡店](../Page/咖啡店.md "wikilink")等打工\[5\]。
+  - 喜歡[B'z](../Page/B'z.md "wikilink")想進入愛好者俱樂部,不過據說不明白入會方法\[6\]。
+  - [阪神虎](../Page/阪神虎.md "wikilink")的[榎田大樹是高中硬式棒球部的晚輩](https://zh.wikipedia.org/wiki/榎田大樹 "wikilink")。
 
 ## 参加團體
 

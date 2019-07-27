@@ -1,17 +1,17 @@
-，為日本[TBS電視台自](../Page/TBS電視台.md "wikilink")2014年4月14日起至6月止播出的週一晚間八點檔（[月八](../Page/週一懸疑劇院.md "wikilink")）。由[北村一輝主演](../Page/北村一輝.md "wikilink")。
+，為日本[TBS電視台](../Page/TBS電視台.md "wikilink")自2014年4月14日起至6月止播出的週一晚間八點檔（[月八](../Page/週一懸疑劇院.md "wikilink")）。由[北村一輝](../Page/北村一輝.md "wikilink")主演。
 
 ## 登场角色
 
 ### 主要人物
 
   - \[1\]\[2\]<small>（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）</small>
-    搜查官。[巡査](https://zh.wikipedia.org/wiki/巡査 "wikilink")。[東京工業大學畢業後](../Page/東京工業大學.md "wikilink")，在美國大學曾留學的前科學家。
+    搜查官。[巡査](https://zh.wikipedia.org/wiki/巡査 "wikilink")。[東京工業大學](../Page/東京工業大學.md "wikilink")畢業後，在美國大學曾留學的前科學家。
   - \[3\]\[4\]<small>（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）</small>
     搜查官。曾是前王牌。
   - <small>（香港配音：[胡家豪](../Page/胡家豪.md "wikilink")）</small>
     搜查官。負責情報分析。曾所屬。
   - \[5\]<small>（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）</small>
-    搜查官。曾所屬[警視廳公安部](../Page/警視廳公安部.md "wikilink")。擅長人物分析，[罪犯側寫專利調查](../Page/罪犯側寫.md "wikilink")。
+    搜查官。曾所屬[警視廳公安部](../Page/警視廳公安部.md "wikilink")。擅長人物分析，[罪犯側寫](../Page/罪犯側寫.md "wikilink")專利調查。
   - <small>（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）</small>
     班長。[警部補](../Page/警部補.md "wikilink")。非職業。
 
@@ -99,12 +99,12 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 :\* （流浪漢）<small>（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）</small>
 
 :\*
-（[NPO](https://zh.wikipedia.org/wiki/NPO "wikilink")[法人微笑村代表](../Page/法人.md "wikilink")・元龍門會構成員）<small>（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）</small>
+（[NPO](https://zh.wikipedia.org/wiki/NPO "wikilink")[法人](../Page/法人.md "wikilink")微笑村代表・元龍門會構成員）<small>（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）</small>
 
 :\*
 （偽鈔製造和-H38號事件首謀者）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
 
-:\* （[警視廳大森北警察署生活安全課鑑定士](../Page/警視廳.md "wikilink")）
+:\* （[警視廳](../Page/警視廳.md "wikilink")大森北警察署生活安全課鑑定士）
 
 :\* （流浪漢・基督教徒）<small>（香港配音：[陳永信](../Page/陳永信.md "wikilink")）</small>
 
@@ -145,10 +145,10 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
   - 第6話
 
 :\*
-（澪的[雙胞胎妹妹](../Page/雙胞胎.md "wikilink")・[律師](../Page/律師.md "wikilink")）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
+（澪的[雙胞胎](../Page/雙胞胎.md "wikilink")妹妹・[律師](../Page/律師.md "wikilink")）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
 
 :\*
-（自称「[靈能力師](../Page/靈能力.md "wikilink")」・南関東刑務所受刑者）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
+（自称「[靈能力](../Page/靈能力.md "wikilink")師」・南関東刑務所受刑者）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
 
 :\* （佐伯的乾兒子）<small>（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）</small>
 
@@ -164,7 +164,7 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
   - 第7話
 
 :\*
-（[失智症患者](../Page/失智症.md "wikilink")）<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
+（[失智症](../Page/失智症.md "wikilink")患者）<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
 
 :\* （八重子的孫兒）<small>（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）</small>
 
@@ -201,7 +201,7 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 :\*
 （女[侍應](https://zh.wikipedia.org/wiki/侍應 "wikilink")）<small>（香港配音：[何晶晶](../Page/何晶晶.md "wikilink")）</small>
 
-:\* （永倉主導[恐嚇事件的共犯者](../Page/恐嚇.md "wikilink")）\[9\]
+:\* （永倉主導[恐嚇](../Page/恐嚇.md "wikilink")事件的共犯者）\[9\]
 
   - 第9話
 

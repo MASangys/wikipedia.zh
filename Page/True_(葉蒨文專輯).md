@@ -1,4 +1,4 @@
-**《True》**是[葉蒨文第十四張粵語專輯](../Page/葉蒨文.md "wikilink")，於1996年8月由香港[華納唱片發行](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")。
+**《True》**是[葉蒨文](../Page/葉蒨文.md "wikilink")第十四張粵語專輯，於1996年8月由香港[華納唱片發行](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")。
 
 ## 曲目
 

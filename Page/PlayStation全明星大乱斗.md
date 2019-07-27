@@ -73,7 +73,7 @@ Vita双平台上的乱斗类](../Page/PlayStation_Vita.md "wikilink")[格鬥遊�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/捉猴啦#登場人物(小翔方)" title="wikilink">小翔</a></p></td>
-<td><p><a href="../Page/捉猴啦.md" title="wikilink">捉猴啦系列</a></p></td>
+<td><p><a href="../Page/捉猴啦.md" title="wikilink">捉猴啦</a>系列</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/内森·德雷克" title="wikilink">内森·德雷克</a></p></td>

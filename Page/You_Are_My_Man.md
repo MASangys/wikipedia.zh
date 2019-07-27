@@ -1,15 +1,15 @@
 《**You Are My
-Man**》是香港藝人[田蕊妮的首張錄音室專輯](../Page/田蕊妮.md "wikilink")，由[太阳娱乐文化於](https://zh.wikipedia.org/wiki/太阳娱乐文化 "wikilink")2014年4月3日發行。\[1\]
+Man**》是香港藝人[田蕊妮](../Page/田蕊妮.md "wikilink")的首張錄音室專輯，由[太阳娱乐文化於](https://zh.wikipedia.org/wiki/太阳娱乐文化 "wikilink")2014年4月3日發行。\[1\]
 
 ## 簡介
 
-此專輯是田蕊妮首張专辑，由[鮑比達连同](../Page/鮑比達.md "wikilink")[赵增熹制作](https://zh.wikipedia.org/wiki/赵增熹 "wikilink")。全碟发烧音效监控由[劉賢德主理](../Page/劉賢德.md "wikilink")，[美国The](../Page/美国.md "wikilink")
+此專輯是田蕊妮首張专辑，由[鮑比達](../Page/鮑比達.md "wikilink")连同[赵增熹制作](https://zh.wikipedia.org/wiki/赵增熹 "wikilink")。全碟发烧音效监控由[劉賢德](../Page/劉賢德.md "wikilink")主理，[美国](../Page/美国.md "wikilink")The
 Mastering
 Lab制版，首批[Sony压碟](https://zh.wikipedia.org/wiki/Sony "wikilink")。
 
-田蕊妮曾指此專輯命名寓意是感謝丈夫[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")，而專輯封套照片亦是[杜汶澤親自負責拍攝](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")。\[2\]此專輯發行時，正值[杜汶澤因支持](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[太陽花學運與](../Page/太陽花學運.md "wikilink")[大陸網民發生罵戰事件](https://zh.wikipedia.org/wiki/大陸 "wikilink")，有報導指身為其妻的[田蕊妮](../Page/田蕊妮.md "wikilink")，演藝事業亦因此受到影響。\[3\]\[4\]
+田蕊妮曾指此專輯命名寓意是感謝丈夫[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")，而專輯封套照片亦是[杜汶澤親自負責拍攝](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")。\[2\]此專輯發行時，正值[杜汶澤因支持](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[太陽花學運](../Page/太陽花學運.md "wikilink")與[大陸網民發生罵戰事件](https://zh.wikipedia.org/wiki/大陸 "wikilink")，有報導指身為其妻的[田蕊妮](../Page/田蕊妮.md "wikilink")，演藝事業亦因此受到影響。\[3\]\[4\]
 
-而此專輯的第一主打歌《**不傷人**》更成為[田蕊妮繼](../Page/田蕊妮.md "wikilink")《沒那麼簡單》之後又一翻唱代表作，田蕊妮在2014年的多次公開活動中都有演唱此歌。
+而此專輯的第一主打歌《**不傷人**》更成為[田蕊妮](../Page/田蕊妮.md "wikilink")繼《沒那麼簡單》之後又一翻唱代表作，田蕊妮在2014年的多次公開活動中都有演唱此歌。
 
 ## 曲目
 

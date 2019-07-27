@@ -10,7 +10,7 @@ Gauntlet](http://www.thegauntlet.com/article/307/16877/Rammstein-releases-video-
 ## MV
 
 MV由导演，于2009年9月16日发布。MV是乐队成员身穿皮夹克演奏歌曲，当中夹杂着与6段[硬调色情镜头](https://zh.wikipedia.org/wiki/硬调色情 "wikilink")，分别对应了6位成员所扮演的不同角色：Lindemann为花花公子，Christoph为[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")，Paul为牛仔，Oliver为Mr.
-Pain（[BDSM嗜好者](../Page/BDSM.md "wikilink")），Richard为派对男孩，Flake为[双性人](https://zh.wikipedia.org/wiki/双性人 "wikilink")。每个场景都描述了一个乐队成员与一个女人先是相互吸引然后发生性关系，但是利用的是替身\[3\]，MV结尾，乐队成员[射精](../Page/射精.md "wikilink")。
+Pain（[BDSM](../Page/BDSM.md "wikilink")嗜好者），Richard为派对男孩，Flake为[双性人](https://zh.wikipedia.org/wiki/双性人 "wikilink")。每个场景都描述了一个乐队成员与一个女人先是相互吸引然后发生性关系，但是利用的是替身\[3\]，MV结尾，乐队成员[射精](../Page/射精.md "wikilink")。
 
 这首歌的部分歌词为英文，以及一些短语比如"I can't get laid in
 Germany"是关于[Autobahn的](https://zh.wikipedia.org/wiki/Autobahn "wikilink")，还有看似荒谬的"[Reise,

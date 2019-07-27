@@ -1,5 +1,5 @@
 **AKB48 1st演唱會
-「想見你～柱子沒了唷\!～」\[1\]**（）是日本女子偶像組合[AKB48在](../Page/AKB48.md "wikilink")2006年11月3日至4日於[日本青年館舉行的演唱會](../Page/日本青年館.md "wikilink")\[2\]，為AKB48的初次演唱會。
+「想見你～柱子沒了唷\!～」\[1\]**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2006年11月3日至4日於[日本青年館](../Page/日本青年館.md "wikilink")舉行的演唱會\[2\]，為AKB48的初次演唱會。
 
 ## 概要
 
@@ -140,9 +140,9 @@
 Records發行](../Page/DefSTAR_Records.md "wikilink")，分為兩個版本，分別是Normal
 Version（紅色封面）及Shuffle Version（藍色封面）。其中Normal Version收錄了演唱會的第一天公演而Shuffle
 Version則收錄了第二天公演。其中Normal
-Version在[Oricon公信榜的排名為](../Page/Oricon公信榜.md "wikilink")36名
+Version在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的排名為36名
 \[11\]，而Shuffle
-Version的排名則為61名\[12\]。而[藍光光碟版本則在](../Page/藍光光碟.md "wikilink")2007年7月18日發售。
+Version的排名則為61名\[12\]。而[藍光光碟](../Page/藍光光碟.md "wikilink")版本則在2007年7月18日發售。
 
 ## 參考資料
 
@@ -155,7 +155,7 @@ Version的排名則為61名\[12\]。而[藍光光碟版本則在](../Page/藍光
 
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 
-1.  [AKB48劇場有兩根大柱子遮蔽視線](../Page/AKB48劇場.md "wikilink")，此場地原為創團期因租不到較佳場地而租下的表演場所。歌迷會因而稱「柱子會」。
+1.  [AKB48劇場](../Page/AKB48劇場.md "wikilink")有兩根大柱子遮蔽視線，此場地原為創團期因租不到較佳場地而租下的表演場所。歌迷會因而稱「柱子會」。
 
 2.
 

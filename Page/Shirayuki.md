@@ -1,4 +1,4 @@
-《**Shirayuki**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME的第](../Page/MYNAME.md "wikilink")3張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年11月20日由[irving發售](https://zh.wikipedia.org/wiki/irving "wikilink")。
+《**Shirayuki**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第3張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年11月20日由[irving發售](https://zh.wikipedia.org/wiki/irving "wikilink")。
 
 ## 概要
 
@@ -15,7 +15,7 @@
   - 「初回生產限定A盤」收錄了B面曲《Sha la la》、《MIRACLE》；「初回生產限定B盤」收錄了B面曲《Sha la
     la》、《Zoom Zoom》；「WEB盤」只收錄了B面曲收錄了B面曲《Sha la la》、《Baby I'm
     Sorry（Japanese Ver.）》。
-  - 在12月2日於[Oricon公信榜單曲每週排行榜取得第](../Page/Oricon公信榜.md "wikilink")7位。
+  - 在12月2日於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲每週排行榜取得第7位。
 
 ## 收錄內容
 

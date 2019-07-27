@@ -1,5 +1,5 @@
 **The
-Miracle**是英国摇滚乐队[皇后乐队的第十三张专辑](../Page/皇后乐队.md "wikilink")。由[皇后乐队和戴维](../Page/皇后乐队.md "wikilink")·理查兹制作，1989年5月由唱片公司[Parlophone在英国发行](https://zh.wikipedia.org/wiki/Parlophone "wikilink")，由唱片公司[Capitol在美国发行](https://zh.wikipedia.org/wiki/Capitol "wikilink")。\[1\]
+Miracle**是英国摇滚乐队[皇后乐队](../Page/皇后乐队.md "wikilink")的第十三张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")和戴维·理查兹制作，1989年5月由唱片公司[Parlophone在英国发行](https://zh.wikipedia.org/wiki/Parlophone "wikilink")，由唱片公司[Capitol在美国发行](https://zh.wikipedia.org/wiki/Capitol "wikilink")。\[1\]
 
 ## 曲目列表
 

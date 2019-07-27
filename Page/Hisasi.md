@@ -1,4 +1,4 @@
-**Hisasi**（）是[日本的](../Page/日本.md "wikilink")[成人](https://zh.wikipedia.org/wiki/成人漫画 "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")、[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")。[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")「」主筆。目前住在大阪府。
+**Hisasi**（）是[日本](../Page/日本.md "wikilink")的[成人](https://zh.wikipedia.org/wiki/成人漫画 "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")、[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")。[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")「」主筆。目前住在大阪府。
 
 ## 作品列表
 

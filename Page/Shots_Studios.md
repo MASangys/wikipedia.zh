@@ -24,7 +24,7 @@ Noto)意外将一条私密消息错发成公开推文，不小心泄露了该公
 Mindie，计划将其制作音乐录影带的功能运用到未来的功能开发和增强影片拍摄的趣味性等方面。\[6\]
 
 2016年，Shots从手机应用公司转型为影像制作公司。美国网红Rudy
-Mancuso，有美国[Papi酱之称的](../Page/Papi酱.md "wikilink")[Lele
+Mancuso，有美国[Papi酱](../Page/Papi酱.md "wikilink")之称的[Lele
 Pons等均是Shots的艺人](https://zh.wikipedia.org/wiki/麗麗·旁斯 "wikilink")。\[7\]
 
 ## 旗下藝人

@@ -1,6 +1,6 @@
 **ZTE
 Open**是由[中興通訊所推出的](https://zh.wikipedia.org/wiki/中興通訊 "wikilink")[Firefox
-OS](../Page/Firefox_OS.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。此款手機只針對開發者用於開發和測試，於[西班牙率先正式展開銷售](../Page/西班牙.md "wikilink")\[1\]\[2\]。
+OS](../Page/Firefox_OS.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。此款手機只針對開發者用於開發和測試，於[西班牙](../Page/西班牙.md "wikilink")率先正式展開銷售\[1\]\[2\]。
 
 ## 历史
 

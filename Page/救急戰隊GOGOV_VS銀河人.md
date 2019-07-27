@@ -31,9 +31,9 @@ VS系列</p></td>
 |                                                                                  |     |           |                                                     |    |
 | [<font color=white>西岡龍一朗</font>](https://zh.wikipedia.org/wiki/西岡龍一朗 "wikilink") | 巽纏  | GO Red    | [符爽](../Page/符爽.md "wikilink")                      |    |
 |                                                                                  |     |           |                                                     |    |
-| [<font color=white>谷口賢志</font>](https://zh.wikipedia.org/wiki/谷口賢志 "wikilink")   | 巽流水 | GO Blue   |                                                     |    |
+| [<font color=white>谷口賢志</font>](https://zh.wikipedia.org/wiki/谷口賢志 "wikilink")   | 巽流水 | GO Blue   | [于正昌](../Page/于正昌.md "wikilink")                    |    |
 |                                                                                  |     |           |                                                     |    |
-| [<font color=white>原田篤</font>](https://zh.wikipedia.org/wiki/原田篤 "wikilink")     | 巽鐘  | GO Green  |                                                     |    |
+| [<font color=white>原田篤</font>](https://zh.wikipedia.org/wiki/原田篤 "wikilink")     | 巽鐘  | GO Green  | [曹冀魯](../Page/曹冀魯.md "wikilink")                    |    |
 |                                                                                  |     |           |                                                     |    |
 | [<font color=black>柴田賢志</font>](https://zh.wikipedia.org/wiki/柴田賢志 "wikilink")   | 巽大門 | GO Yellow | [李景唐](../Page/李景唐.md "wikilink")                    |    |
 |                                                                                  |     |           |                                                     |    |
@@ -44,7 +44,7 @@ VS系列</p></td>
 | 演員                                                                             | 角色   | 代號                 | 台配                               | 港配 |
 | ------------------------------------------------------------------------------ | ---- | ------------------ | -------------------------------- | -- |
 |                                                                                |      |                    |                                  |    |
-| [<font color=white>前原一輝</font>](https://zh.wikipedia.org/wiki/前原一輝 "wikilink") | 龍馬   | 銀河紅　（Ginga Red）    |                                  |    |
+| [<font color=white>前原一輝</font>](https://zh.wikipedia.org/wiki/前原一輝 "wikilink") | 龍馬   | 銀河紅　（Ginga Red）    | [于正昌](../Page/于正昌.md "wikilink") |    |
 |                                                                                |      |                    |                                  |    |
 | [<font color=white>末吉宏司</font>](https://zh.wikipedia.org/wiki/末吉宏司 "wikilink") | 疾風   | 銀河綠　（Ginga Green）  | [李景唐](../Page/李景唐.md "wikilink") |    |
 |                                                                                |      |                    |                                  |    |

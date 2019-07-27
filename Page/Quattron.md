@@ -2,7 +2,7 @@
 
 此科技被應用於Sharp的Quattron
 [Aquos](https://zh.wikipedia.org/wiki/Sharp_Aquos "wikilink") LCD
-TV產品線，特別是四十吋以上的型號。\[7\]這種科技本身，與產品線分開，曾於發佈時的廣告讓[乔治·武井造過代言人](../Page/乔治·武井.md "wikilink")，被使用了"Oh
+TV產品線，特別是四十吋以上的型號。\[7\]這種科技本身，與產品線分開，曾於發佈時的廣告讓[乔治·武井](../Page/乔治·武井.md "wikilink")造過代言人，被使用了"Oh
 My"這個。\[8\]另一個武井有參與的廣告和2010年電影[壞蛋獎門人中的Minions一起宣傳了此系列的](https://zh.wikipedia.org/wiki/壞蛋獎門人 "wikilink")[3-D
 型號](https://zh.wikipedia.org/wiki/3-D_電視 "wikilink")。\[9\]
 

@@ -1,10 +1,10 @@
 《**OH MY LITTLE
-GIRL**》是[日本](../Page/日本.md "wikilink")[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")[尾崎豐的第](../Page/尾崎豐.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於1994年1月21日經[唱片公司](../Page/唱片公司.md "wikilink")[Sony
+GIRL**》是[日本](../Page/日本.md "wikilink")[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")[尾崎豐](../Page/尾崎豐.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於1994年1月21日經[唱片公司](../Page/唱片公司.md "wikilink")[Sony
 Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 簡介
 
-本曲的原標題為《[水手服和小女孩](../Page/水手服.md "wikilink")》（），在試聽帶完成後再改為《鄰家的小女孩》（），不過最後在監製的建議之下更名為《OH
+本曲的原標題為《[水手服](../Page/水手服.md "wikilink")和小女孩》（），在試聽帶完成後再改為《鄰家的小女孩》（），不過最後在監製的建議之下更名為《OH
 MY LITTLE GIRL》\[1\]。
 
 表題曲《OH MY LITTLE
@@ -16,7 +16,7 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 
 ## 排行榜成績
 
-單曲在發售初週以第二名的成績登上[Oricon公信榜週榜](../Page/Oricon公信榜.md "wikilink")，銷量在第二週再次超越第一週，登上第一名，使[尾崎豐在死後終於首次獲得週榜冠軍](../Page/尾崎豐.md "wikilink")，在此之前的《》和《》最高排名亦只是第2名。在此之後，歌曲銷量繼續上升，最終在1994年末達到1,077,940張\[2\]，獲[日本唱片協會認證為](../Page/日本唱片協會.md "wikilink")\[3\]。此曲是尾崎自身唯一的百萬歌曲，也成為尾崎最受歡迎的歌曲。
+單曲在發售初週以第二名的成績登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜，銷量在第二週再次超越第一週，登上第一名，使[尾崎豐](../Page/尾崎豐.md "wikilink")在死後終於首次獲得週榜冠軍，在此之前的《》和《》最高排名亦只是第2名。在此之後，歌曲銷量繼續上升，最終在1994年末達到1,077,940張\[2\]，獲[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為\[3\]。此曲是尾崎自身唯一的百萬歌曲，也成為尾崎最受歡迎的歌曲。
 
 ## 收錄曲
 
@@ -59,7 +59,7 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 
 ## 媒體合作
 
-  - [富士電視台系列](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《》[主題曲](../Page/主題曲.md "wikilink")（1994年）
+  - [富士電視台](../Page/富士電視台.md "wikilink")系列[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《》[主題曲](../Page/主題曲.md "wikilink")（1994年）
   - 電影《[-{zh-cn:热血之路;zh-hk:HOT ROAD;zh-tw:HOT
     ROAD}-](../Page/Hot_Road_\(電影\).md "wikilink")》主題曲（2014年）
 
@@ -80,7 +80,7 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 
   - 《**OH MY LITTLE GIRL**》
       - 現場表演錄影帶《》（1996年）：收錄了1984年3月15日尾崎在出道公演中的演出。
-      - 現場表演錄影帶《》（1997年）：收錄了1985年1月12日尾崎在[日本青年館公演中的演出](../Page/日本青年館.md "wikilink")。
+      - 現場表演錄影帶《》（1997年）：收錄了1985年1月12日尾崎在[日本青年館](../Page/日本青年館.md "wikilink")公演中的演出。
 
 ## 翻唱版本
 
@@ -90,7 +90,7 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 
   - [河村隆一](../Page/河村隆一.md "wikilink")《》（2006年）
 
-  - [藥師丸博子在電影](../Page/藥師丸博子.md "wikilink")《》內翻唱（2007年）
+  - [藥師丸博子](../Page/藥師丸博子.md "wikilink")在電影《》內翻唱（2007年）
 
   - [伴都美子](../Page/伴都美子.md "wikilink")《》（2008年）
 

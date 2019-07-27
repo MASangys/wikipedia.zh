@@ -12,7 +12,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     Version）》是E-girls第2首翻唱歌曲，原唱者為[Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Follow Me》的Music Video。
   - 在10月15日於公信榜单曲週排行榜取得第2位，是E-girls出道以來銷量排名最高的單曲。
-  - 在[第64回NHK紅白歌合戰以組曲形式演唱](../Page/第64回NHK紅白歌合戰.md "wikilink")（**Follow
+  - 在[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")以組曲形式演唱（**Follow
     Me** + [滿懷歉意的Kissing You](../Page/滿懷歉意的Kissing_You.md "wikilink")）
 
 ## 選拔成員

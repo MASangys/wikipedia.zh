@@ -3,10 +3,10 @@
 [British_soldier_during_Operation_Desert_Shield.jpg](https://zh.wikipedia.org/wiki/File:British_soldier_during_Operation_Desert_Shield.jpg "fig:British_soldier_during_Operation_Desert_Shield.jpg")的英軍士兵帶著覆有沙漠迷彩布套的Mk6頭盔\]\]
 
 **Mk
-6頭盔**（）是[英軍的一款制式](https://zh.wikipedia.org/wiki/英軍 "wikilink")[戰鬥頭盔](https://zh.wikipedia.org/wiki/戰鬥頭盔 "wikilink")，和其自1986年起取代的舊款軍用盔——相比，更便於個人[無線電及](https://zh.wikipedia.org/wiki/無線電 "wikilink")[防毒面具的攜帶](../Page/防毒面具.md "wikilink")、對耳部保護效果亦更佳。此款頭盔由NP宇航公司（）生產\[1\]。
+6頭盔**（）是[英軍的一款制式](https://zh.wikipedia.org/wiki/英軍 "wikilink")[戰鬥頭盔](https://zh.wikipedia.org/wiki/戰鬥頭盔 "wikilink")，和其自1986年起取代的舊款軍用盔——相比，更便於個人[無線電及](https://zh.wikipedia.org/wiki/無線電 "wikilink")[防毒面具](../Page/防毒面具.md "wikilink")的攜帶、對耳部保護效果亦更佳。此款頭盔由NP宇航公司（）生產\[1\]。
 
 Mk
-6頭盔的原始用色為墨綠色，英軍另在外盔加上以進行[軍事偽裝](https://zh.wikipedia.org/wiki/軍事偽裝 "wikilink")，用色包含了綠色系的、叢林、沙漠圖案、用於[極地作戰的純白盔套及](../Page/極地.md "wikilink")[聯合國任務的藍色盔套](https://zh.wikipedia.org/wiki/聯合國 "wikilink")。有時暱稱為[戰鬥圓禮帽](https://zh.wikipedia.org/wiki/圓頂硬禮帽 "wikilink")，而這詞在過去用以形容[二戰時英軍的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[布洛迪鋼盔](https://zh.wikipedia.org/wiki/布洛迪鋼盔 "wikilink")。
+6頭盔的原始用色為墨綠色，英軍另在外盔加上以進行[軍事偽裝](https://zh.wikipedia.org/wiki/軍事偽裝 "wikilink")，用色包含了綠色系的、叢林、沙漠圖案、用於[極地](../Page/極地.md "wikilink")作戰的純白盔套及[聯合國任務的藍色盔套](https://zh.wikipedia.org/wiki/聯合國 "wikilink")。有時暱稱為[戰鬥圓禮帽](https://zh.wikipedia.org/wiki/圓頂硬禮帽 "wikilink")，而這詞在過去用以形容[二戰時英軍的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[布洛迪鋼盔](https://zh.wikipedia.org/wiki/布洛迪鋼盔 "wikilink")。
 
 Mk
 6頭盔通常被誤認為是[功夫龍製成](https://zh.wikipedia.org/wiki/功夫龍 "wikilink")，實際上用料是[尼龍纖維](https://zh.wikipedia.org/wiki/尼龍纖維 "wikilink")\[2\]。

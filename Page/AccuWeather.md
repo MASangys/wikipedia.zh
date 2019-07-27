@@ -6,9 +6,9 @@ author = | editor = | launch_date = | revenue = | alexa =  | ip = |
 current_status = 線上 | location = 385 Science Park Road, State College,
 PA | zip_code = 16803 | telephone_no =  }}
 
-**AccuWeather**是[美国一家媒體公司](../Page/美国.md "wikilink")，提供商業性气象预报服务全球。AccuWeather是一个混成词，由“准确”（accurate）和“天气”（weather）所构成。
+**AccuWeather**是[美国](../Page/美国.md "wikilink")一家媒體公司，提供商業性气象预报服务全球。AccuWeather是一个混成词，由“准确”（accurate）和“天气”（weather）所构成。
 
-这家气象公司成立于1962年，由知名[气象学教授](../Page/气象学.md "wikilink")[乔尔·迈尔斯所创](https://zh.wikipedia.org/wiki/乔尔·迈尔斯 "wikilink")，乔尔·迈尔斯毕业于[宾夕法尼亚州立大学的气象学](../Page/宾夕法尼亚州立大学.md "wikilink")[研究生](../Page/研究生.md "wikilink")。他的第一个客户是一个在宾夕法尼亚州的天然气公司。在经营公司的同时，迈尔斯也成为了宾夕法尼亚州立大学的气象学系的一员。公司于1971年被命名为“AccuWeather”。
+这家气象公司成立于1962年，由知名[气象学](../Page/气象学.md "wikilink")教授[乔尔·迈尔斯所创](https://zh.wikipedia.org/wiki/乔尔·迈尔斯 "wikilink")，乔尔·迈尔斯毕业于[宾夕法尼亚州立大学](../Page/宾夕法尼亚州立大学.md "wikilink")的气象学[研究生](../Page/研究生.md "wikilink")。他的第一个客户是一个在宾夕法尼亚州的天然气公司。在经营公司的同时，迈尔斯也成为了宾夕法尼亚州立大学的气象学系的一员。公司于1971年被命名为“AccuWeather”。
 
 AccuWeather总部设在[纽约市并且在宾夕法尼亚州](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[华盛顿堡的](https://zh.wikipedia.org/wiki/华盛顿堡 "wikilink")[洛克菲勒中心](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")（Rockefeller
 Center）设有销售办事处。2006年，AccuWeather

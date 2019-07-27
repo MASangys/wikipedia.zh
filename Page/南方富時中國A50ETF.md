@@ -2,11 +2,11 @@
 
 這是一支基於RQFII（[合格境外机构投资者](../Page/合格境外机构投资者.md "wikilink")）的基金。於2012年，由[南方東英資產管理有限公司](https://zh.wikipedia.org/wiki/南方東英資產管理有限公司 "wikilink")\[1\]設立，追蹤[富時中國A50指數](https://zh.wikipedia.org/wiki/富時中國A50指數 "wikilink")。
 
-現時持有包括：[平安保險](https://zh.wikipedia.org/wiki/平安保險 "wikilink")、[中国银行](../Page/中国银行.md "wikilink")、[招商銀行](https://zh.wikipedia.org/wiki/招商銀行 "wikilink")、[中國民生銀行](https://zh.wikipedia.org/wiki/中國民生銀行 "wikilink")、[浦發銀行](https://zh.wikipedia.org/wiki/浦發銀行 "wikilink")、[興業銀行](https://zh.wikipedia.org/wiki/興業銀行 "wikilink")、[萬科企業](https://zh.wikipedia.org/wiki/萬科企業 "wikilink")、[交通銀行](../Page/交通銀行.md "wikilink")、[貴州茅台](https://zh.wikipedia.org/wiki/貴州茅台 "wikilink")、[中信證券](../Page/中信證券.md "wikilink")、[保利地產](https://zh.wikipedia.org/wiki/保利地產 "wikilink")、[中國工商銀行](https://zh.wikipedia.org/wiki/中國工商銀行 "wikilink")、[中國農業銀行](https://zh.wikipedia.org/wiki/中國農業銀行 "wikilink")、[海通證券等企業](../Page/海通證券.md "wikilink")。
+現時持有包括：[平安保險](https://zh.wikipedia.org/wiki/平安保險 "wikilink")、[中国银行](../Page/中国银行.md "wikilink")、[招商銀行](https://zh.wikipedia.org/wiki/招商銀行 "wikilink")、[中國民生銀行](https://zh.wikipedia.org/wiki/中國民生銀行 "wikilink")、[浦發銀行](https://zh.wikipedia.org/wiki/浦發銀行 "wikilink")、[興業銀行](https://zh.wikipedia.org/wiki/興業銀行 "wikilink")、[萬科企業](https://zh.wikipedia.org/wiki/萬科企業 "wikilink")、[交通銀行](../Page/交通銀行.md "wikilink")、[貴州茅台](https://zh.wikipedia.org/wiki/貴州茅台 "wikilink")、[中信證券](../Page/中信證券.md "wikilink")、[保利地產](https://zh.wikipedia.org/wiki/保利地產 "wikilink")、[中國工商銀行](https://zh.wikipedia.org/wiki/中國工商銀行 "wikilink")、[中國農業銀行](https://zh.wikipedia.org/wiki/中國農業銀行 "wikilink")、[海通證券](../Page/海通證券.md "wikilink")等企業。
 
 而股份則分別於2012年8月28日（人民幣結算）和2012年11月8日（港元結算，開始以雙幣結算）於[港交所上市](https://zh.wikipedia.org/wiki/港交所 "wikilink")，以每手200個基金單位交易。\[2\]\[3\]\[4\]\[5\]\[6\]
 
-南方富時中國A50ETF發行的日本[存託憑證](https://zh.wikipedia.org/wiki/存託憑證 "wikilink")（）在2013年2月27日在[東京證券交易所上市](../Page/東京證券交易所.md "wikilink")。\[7\]
+南方富時中國A50ETF發行的日本[存託憑證](https://zh.wikipedia.org/wiki/存託憑證 "wikilink")（）在2013年2月27日在[東京證券交易所](../Page/東京證券交易所.md "wikilink")上市。\[7\]
 
 ## 參考
 

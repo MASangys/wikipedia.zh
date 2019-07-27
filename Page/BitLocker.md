@@ -1,9 +1,9 @@
 **BitLocker**（直译为“比特锁”）是内置于[Windows
-Vista及其之后系统的全](../Page/Windows_Vista.md "wikilink")[磁盘加密功能](../Page/磁盘加密.md "wikilink")，透過为整个[卷提供](https://zh.wikipedia.org/wiki/卷_\(计算机\) "wikilink")[加密来保护数据](https://zh.wikipedia.org/wiki/加密 "wikilink")。它默认在[密码块链接](https://zh.wikipedia.org/wiki/分组密码工作模式#密码块链接（CBC） "wikilink")（CBC）或[XTS模式下使用](https://zh.wikipedia.org/wiki/磁盘加密理论 "wikilink")128位或256位[密钥的](../Page/密钥.md "wikilink")[AES加密算法](../Page/高级加密标准.md "wikilink")\[1\]\[2\]\[3\]。其中CBC用于每个单独的[磁盘扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，不在整个磁盘上使用\[4\]。
+Vista及其之后系统的全](../Page/Windows_Vista.md "wikilink")[磁盘加密](../Page/磁盘加密.md "wikilink")功能，透過为整个[卷提供](https://zh.wikipedia.org/wiki/卷_\(计算机\) "wikilink")[加密来保护数据](https://zh.wikipedia.org/wiki/加密 "wikilink")。它默认在[密码块链接](https://zh.wikipedia.org/wiki/分组密码工作模式#密码块链接（CBC） "wikilink")（CBC）或[XTS模式下使用](https://zh.wikipedia.org/wiki/磁盘加密理论 "wikilink")128位或256位[密钥](../Page/密钥.md "wikilink")的[AES加密算法](../Page/高级加密标准.md "wikilink")\[1\]\[2\]\[3\]。其中CBC用于每个单独的[磁盘扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，不在整个磁盘上使用\[4\]。
 
 ## 历史
 
-BitLocker起源于微软2004年的[下一代安全计算基础架构](../Page/下一代安全计算基础.md "wikilink")，其临时代号为“基石”（Cornerstone）\[5\]\[6\]，功能为保护设备上的信息，尤其是在设备丢失或被盗的情况下。另一个特性为“代码完整性根检测”（Code
+BitLocker起源于微软2004年的[下一代安全计算基础](../Page/下一代安全计算基础.md "wikilink")架构，其临时代号为“基石”（Cornerstone）\[5\]\[6\]，功能为保护设备上的信息，尤其是在设备丢失或被盗的情况下。另一个特性为“代码完整性根检测”（Code
 Integrity Rooting），旨在验证Microsoft Windows引导与系统文件的完整性\[7\]。
 
 当与兼容的[可信平台模块](../Page/可信平台模块.md "wikilink")（TPM）结合使用时，BitLocker可以在解密受保护的卷之前验证引导和系统文件的完整性，如果验证失败，会禁止用户访问受保护的系统。\[8\]\[9\]在Windows
@@ -22,14 +22,14 @@ BitLocker内置于以下系统：
     2008](../Page/Windows_Server_2008.md "wikilink")\[14\]及其之后系统\[15\]\[16\]
 
 最初，Windows
-Vista中的BitLocker图形界面只能加密[操作系统卷](../Page/操作系统.md "wikilink")。从Windows
+Vista中的BitLocker图形界面只能加密[操作系统](../Page/操作系统.md "wikilink")卷。从Windows
 Vista Service Pack 1和Windows Server
 2008开始，图形工具可以加密操作系统卷以外的卷。然而，BitLocker的某些功能（例如打开或关闭自动锁定）必须通过名为`manage-bde.wsf`的命令行工具进行管理\[17\]。
 
 新版BitLocker首次包含在Windows 7和Windows Server 2008
 R2中，增加了加密可移动驱动器的功能。在[Windows
 XP或Windows](../Page/Windows_XP.md "wikilink") Vista上，BitLocker To Go
-Reader程序可以实现对使用[FAT16](../Page/FAT.md "wikilink")、[FAT32或](https://zh.wikipedia.org/wiki/FAT32 "wikilink")[exFAT文件系统驱动器的只读访问](https://zh.wikipedia.org/wiki/exFAT "wikilink")\[18\]。另外，新的命令行工具`manage-bde`替换了旧的`manage-bde.wsf`\[19\]。
+Reader程序可以实现对使用[FAT](../Page/FAT.md "wikilink")16、[FAT32或](https://zh.wikipedia.org/wiki/FAT32 "wikilink")[exFAT文件系统驱动器的只读访问](https://zh.wikipedia.org/wiki/exFAT "wikilink")\[18\]。另外，新的命令行工具`manage-bde`替换了旧的`manage-bde.wsf`\[19\]。
 
 从Windows Server 2012和Windows
 8开始，微软通过硬盘加密规范完善了BitLocker，该规范允许将BitLocker的加密操作下放到存储设备的硬件中完成\[20\]\[21\]。此外，BitLocker现在可以通过[Windows
@@ -52,7 +52,7 @@ Standby，译为联网待机）规范\[27\]，需要[固态驱动器](https://zh
 有三种认证机制可以用来构建BitLocker加密\[30\]：
 
   - 透明运行模式：此模式使用TPM 1.2硬件的功能来提供透明的用户体验 -
-    用户正常启动并登录到Windows。用于[磁盘加密的密钥由TPM芯片密封](../Page/磁盘加密.md "wikilink")（加密），且在未检测到有对早期启动组件的修改的情况下被释放到OS加载代码中。因为其允许攻击者[启动已关闭电源的机器](../Page/啟動程式.md "wikilink")，所以这种模式很容易受到[冷启动攻击](../Page/冷启动攻击.md "wikilink")。
+    用户正常启动并登录到Windows。用于[磁盘加密](../Page/磁盘加密.md "wikilink")的密钥由TPM芯片密封（加密），且在未检测到有对早期启动组件的修改的情况下被释放到OS加载代码中。因为其允许攻击者[启动已关闭电源的机器](../Page/啟動程式.md "wikilink")，所以这种模式很容易受到[冷启动攻击](../Page/冷启动攻击.md "wikilink")。
   - 用户认证模式：此模式要求用户以预引导[PIN或密码的形式向预引导环境提供认证](https://zh.wikipedia.org/wiki/PIN "wikilink")。
   - USB密钥模式：用户必须将包含启动密钥的USB设备插入计算机才能启动受保护的操作系统。此模式要求受保护机器上的BIOS支持在操作系统预加载阶段读取USB设备。密钥还可以通过使用[CCID](https://zh.wikipedia.org/wiki/CCID "wikilink")（芯片卡接口设备）读取加密[智能卡获得](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。使用CCID比单纯将密钥文件存储在外部[U盘更安全](https://zh.wikipedia.org/wiki/U盘 "wikilink")，因为CCID协议使用嵌入在智能卡中的加密处理器隐藏私钥，防止密钥因智能卡内容泄露而被简单获取。
 
@@ -69,7 +69,7 @@ Standby，译为联网待机）规范\[27\]，需要[固态驱动器](https://zh
 
 BitLocker是一个[逻辑卷加密系统](https://zh.wikipedia.org/wiki/卷_\(计算机\) "wikilink")。（一个卷的范围可以是[硬盘驱动器的一部分](https://zh.wikipedia.org/wiki/硬盘驱动器 "wikilink")、整个驱动器或多个驱动器。）启用后，TPM和BitLocker可以确保可信引导路径（如BIOS和引导扇区）的完整性，阻止大多数离线物理攻击和引导扇区恶意软件\[37\]。
 
-为使BitLocker加密保存操作系统卷，至少需要两个[NTFS格式的卷](../Page/NTFS.md "wikilink")：一个用于操作系统（通常为C盘），另一个大小至少为100
+为使BitLocker加密保存操作系统卷，至少需要两个[NTFS](../Page/NTFS.md "wikilink")格式的卷：一个用于操作系统（通常为C盘），另一个大小至少为100
 MB，用于操作系统[引导](../Page/啟動程式.md "wikilink")\[38\]。BitLocker需要后者保持未加密状态\[39\]——在Windows
 Vista上，此卷必须分配一个驱动器号，而在Windows
 7上则不需要\[40\]。与以前的Windows版本不同，Vista的“diskpart”命令行工具可以缩小NTFS卷的大小，以便从已分配的空间创建此卷。微软还有一个名为BitLocker驱动器准备工具的软件，可将Windows
@@ -85,20 +85,20 @@ BitLocker使用低级设备驱动程序对所有文件操作进行加密和解�
 
 BitLocker和其他全磁盘加密系统可能被[恶意启动管理器攻击](../Page/Rootkit.md "wikilink")。一旦恶意引导程序获取解密用信息，它就可以解密卷主密钥（Volume
 Master
-Key，VMK），然后解密或修改加密硬盘上的任何信息。通过配置TPM来保护受信任的启动路径，包括[BIOS和](../Page/BIOS.md "wikilink")[引导扇区](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")，BitLocker可以减轻此威胁。
+Key，VMK），然后解密或修改加密硬盘上的任何信息。通过配置TPM来保护受信任的启动路径，包括[BIOS](../Page/BIOS.md "wikilink")和[引导扇区](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")，BitLocker可以减轻此威胁。
 （注意，引导路径的一些非恶意更改可能会导致[平台配置寄存器检查失败](../Page/可信平台模块.md "wikilink")，从而生成错误的警告。）\[48\]
 
 ## 安全问题
 
 据微软透露\[49\]，BitLocker没有刻意设置[后门](https://zh.wikipedia.org/wiki/軟體後門 "wikilink")。没有后门，执法机构就无法从安全通道获取微软提供的用户驱动器上的数据。2006年，[英国内政部担心缺乏后门](../Page/英國內政部.md "wikilink")\[50\]，试图与微软谈判，微软开发人员[尼尔斯·弗格森](https://zh.wikipedia.org/wiki/尼尔斯·弗格森 "wikilink")（Niels
-Ferguson）和其他微软的发言人表示他们不会增加后门\[51\]。微软工程师曾表示，虽然没有正式的书面请求，[联邦调查局特工也在许多会议上向他们施加压力](../Page/联邦调查局.md "wikilink")，要求增加后门。微软的工程师最终向FBI建议，特工应该寻找BitLocker程序建议其用户创建的密钥[硬拷贝](https://zh.wikipedia.org/wiki/硬拷贝 "wikilink")\[52\]。虽然BitLocker使用的AES加密算法属[公有领域](../Page/公有领域.md "wikilink")，但它在BitLocker以及软件的其他组件中的实现都是[专有的](../Page/专有软件.md "wikilink")。该代码可供微软合作伙伴和企业审查，但须遵守[不披露协议](https://zh.wikipedia.org/wiki/不披露协议 "wikilink")。\[53\]\[54\]
+Ferguson）和其他微软的发言人表示他们不会增加后门\[51\]。微软工程师曾表示，虽然没有正式的书面请求，[联邦调查局](../Page/联邦调查局.md "wikilink")特工也在许多会议上向他们施加压力，要求增加后门。微软的工程师最终向FBI建议，特工应该寻找BitLocker程序建议其用户创建的密钥[硬拷贝](https://zh.wikipedia.org/wiki/硬拷贝 "wikilink")\[52\]。虽然BitLocker使用的AES加密算法属[公有领域](../Page/公有领域.md "wikilink")，但它在BitLocker以及软件的其他组件中的实现都是[专有的](../Page/专有软件.md "wikilink")。该代码可供微软合作伙伴和企业审查，但须遵守[不披露协议](https://zh.wikipedia.org/wiki/不披露协议 "wikilink")。\[53\]\[54\]
 
-BitLocker的“透明运行模式”和“用户认证模式”使用TPM硬件检测[BIOS和](../Page/BIOS.md "wikilink")[MBR预加载环境是否有未经授权的改变](../Page/主引导记录.md "wikilink")。如果检测到任何未经授权的更改，BitLocker将在USB设备上请求一个恢复密钥。该加密密钥用于解密卷主密钥，并允许继续运行[引导过程](../Page/啟動程式.md "wikilink")\[55\]。
+BitLocker的“透明运行模式”和“用户认证模式”使用TPM硬件检测[BIOS](../Page/BIOS.md "wikilink")和[MBR预加载环境是否有未经授权的改变](../Page/主引导记录.md "wikilink")。如果检测到任何未经授权的更改，BitLocker将在USB设备上请求一个恢复密钥。该加密密钥用于解密卷主密钥，并允许继续运行[引导过程](../Page/啟動程式.md "wikilink")\[55\]。
 
 2008年2月，一个安全研究小组发布了所谓“[冷启动攻击](../Page/冷启动攻击.md "wikilink")”的详细信息，其通过将机器从可移动介质（如USB驱动器）引导到另一个操作系统，然后[转储预引导内存中的内容来损害诸如BitLocker的全磁盘加密系统](https://zh.wikipedia.org/wiki/核心转储 "wikilink")\[56\]。攻击依赖于这样一个事实：电源关闭后，[DRAM会](https://zh.wikipedia.org/wiki/DRAM "wikilink")[保留长达数分钟的信息](https://zh.wikipedia.org/wiki/数据残留 "wikilink")（冷却后的保留时间更长）。美国专利9,514,789号描述的Bress/
-Menz装置可以完成这种攻击\[57\]。单独使用TPM不会提供任何保护，因为Windows运行时密钥保存在内存中。其他供应商和操作系统（包括[Linux和](../Page/Linux.md "wikilink")[Mac
+Menz装置可以完成这种攻击\[57\]。单独使用TPM不会提供任何保护，因为Windows运行时密钥保存在内存中。其他供应商和操作系统（包括[Linux](../Page/Linux.md "wikilink")和[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）的类似全磁盘加密机制也容易遭受同样的攻击。[普林斯顿大学教授的一篇论文推荐在未取得拥有者物理控制的情况下应将计算机关闭而不是处于](../Page/普林斯顿大学.md "wikilink")[睡眠模式](https://zh.wikipedia.org/wiki/睡眠模式 "wikilink")，并且把加密软件配置为需要密码才能启动机器\[58\]。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）的类似全磁盘加密机制也容易遭受同样的攻击。[普林斯顿大学](../Page/普林斯顿大学.md "wikilink")教授的一篇论文推荐在未取得拥有者物理控制的情况下应将计算机关闭而不是处于[睡眠模式](https://zh.wikipedia.org/wiki/睡眠模式 "wikilink")，并且把加密软件配置为需要密码才能启动机器\[58\]。
 
 一旦受BitLocker保护的机器开始运行，其密钥就会存储在内存中，可能易受能够访问物理内存的进程的攻击，例如通过[1394或](../Page/IEEE_1394.md "wikilink")[Thunderbolt](../Page/Thunderbolt.md "wikilink")
 [DMA通道攻击](../Page/直接記憶體存取.md "wikilink")\[59\]。
@@ -108,7 +108,7 @@ Diffuser），没有声明原因\[60\]。软件工程师丹·罗森多夫（Dan
 Rosendorf）的研究表明，移除大象扩散器对于抵御有针对性攻击的BitLocker加密的安全性具有“不可否认的负面影响”\[61\]。微软随后说明扩散器移除的原因是性能问题以及不遵守[联邦信息处理标准](https://zh.wikipedia.org/wiki/联邦信息处理标准 "wikilink")（FIPS）\[62\]。从Windows
 10版本1511开始，微软向BitLocker添加了新的符合FIPS标准的[XTS-AES加密算法](https://zh.wikipedia.org/wiki/磁盘加密理论#XTS "wikilink")\[63\]。
 
-2015年11月10日，微软发布了一项安全更新，修补BitLocker中的安全漏洞。漏洞使攻击者可以绕过目标计算机上的[Kerberos身份验证](../Page/Kerberos.md "wikilink")，只有在计算机已加入域，目标系统已启用BitLocker且没有[PIN或USB密钥的情况下](https://zh.wikipedia.org/wiki/PIN "wikilink")，才能利用该绕过漏洞\[64\]。
+2015年11月10日，微软发布了一项安全更新，修补BitLocker中的安全漏洞。漏洞使攻击者可以绕过目标计算机上的[Kerberos](../Page/Kerberos.md "wikilink")身份验证，只有在计算机已加入域，目标系统已启用BitLocker且没有[PIN或USB密钥的情况下](https://zh.wikipedia.org/wiki/PIN "wikilink")，才能利用该绕过漏洞\[64\]。
 
 ## manage-bde工具
 

@@ -1,4 +1,4 @@
-《**上海HONEY**》（）是日本乐团[橘子新乐园的第二张单曲](../Page/橘子新乐园.md "wikilink")，2003年7月16日由[Gr8\!records于日本发行](https://zh.wikipedia.org/wiki/Gr8!records "wikilink")。\[1\]
+《**上海HONEY**》（）是日本乐团[橘子新乐园](../Page/橘子新乐园.md "wikilink")的第二张单曲，2003年7月16日由[Gr8\!records于日本发行](https://zh.wikipedia.org/wiki/Gr8!records "wikilink")。\[1\]
 
 ## 曲目
 

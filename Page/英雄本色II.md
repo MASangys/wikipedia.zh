@@ -2,7 +2,7 @@
 
 ## 劇情
 
-警方懷疑宋子豪（[狄龍飾](https://zh.wikipedia.org/wiki/狄龍 "wikilink")）的恩師龍四（[石天飾](../Page/石天.md "wikilink")）利用船廠做掩護，暗中操縱偽鈔集團，派宋子傑（[張國榮飾](../Page/張國榮.md "wikilink")）去做臥底接近龍四的女兒龍曉暉（[簡慧真飾](../Page/簡慧真.md "wikilink")）。宋子豪為了弟弟的安全，不得不假釋出獄，協助警方調查。
+警方懷疑宋子豪（[狄龍飾](https://zh.wikipedia.org/wiki/狄龍 "wikilink")）的恩師龍四（[石天](../Page/石天.md "wikilink")飾）利用船廠做掩護，暗中操縱偽鈔集團，派宋子傑（[張國榮](../Page/張國榮.md "wikilink")飾）去做臥底接近龍四的女兒龍曉暉（[簡慧真](../Page/簡慧真.md "wikilink")飾）。宋子豪為了弟弟的安全，不得不假釋出獄，協助警方調查。
 
 其實龍四對手下犯罪並不知情，他被親信高英培（[關山飾](../Page/關山_\(演員\).md "wikilink")）陷害，不得不逃亡[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。女兒被害，更使他精神失常。在阿Mark的孿生弟弟李亞健（阿Ken，[周潤發飾](https://zh.wikipedia.org/wiki/周潤發 "wikilink")）的幫助和保護下，才漸漸恢復神智。阿Ken放棄經營多年的餐廳，與龍四共同返港。
 

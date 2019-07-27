@@ -1,7 +1,7 @@
 [New_York_Gay_Pride_2011.jpg](https://zh.wikipedia.org/wiki/File:New_York_Gay_Pride_2011.jpg "fig:New_York_Gay_Pride_2011.jpg")
 
 **紐約市LGBT驕傲遊行**（**LGBT Pride March**，常稱作：Pride
-Parade）是一項每年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市舉辦的](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[驕傲遊行活動](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")，遊行從[第五大道開始向南至](../Page/第五大道.md "wikilink")[格林威治村結束](https://zh.wikipedia.org/wiki/格林威治村 "wikilink")。遊行隊伍行經位於[克里斯多弗街的](https://zh.wikipedia.org/wiki/克里斯多弗街 "wikilink")[石牆酒吧](../Page/石牆酒吧.md "wikilink")（Stonewall
+Parade）是一項每年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市舉辦的](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[驕傲遊行活動](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")，遊行從[第五大道](../Page/第五大道.md "wikilink")開始向南至[格林威治村結束](https://zh.wikipedia.org/wiki/格林威治村 "wikilink")。遊行隊伍行經位於[克里斯多弗街的](https://zh.wikipedia.org/wiki/克里斯多弗街 "wikilink")[石牆酒吧](../Page/石牆酒吧.md "wikilink")（Stonewall
 Inn），該處是[1969年警察突襲行動的地點](../Page/石牆暴動.md "wikilink")，也是當代[同志權利運動的重要發祥地](https://zh.wikipedia.org/wiki/同性恋权利 "wikilink")。\[1\]
 
 紐約市驕傲週間（Pride Week）的主要活動包括大遊行、PrideFest（慶典活動），以及在港口邊舉行的派對「Dance on the
@@ -9,9 +9,9 @@ Pier」。（HOP）自1984年起成為紐約市驕傲活動的規劃籌辦單位
 
 ## 歷史
 
-在1969年6月28日星期六的清晨，一群男女同性戀者與跨性別者在警察突襲紐約市同志酒吧[石牆後開始暴動](../Page/石牆酒吧.md "wikilink")。這場延續數個夜晚的抗爭與暴動成為了當代[LGBT權利運動的重要起源](../Page/LGBT.md "wikilink")，也讓LGBT驕傲遊行更加受到公眾的關注。
+在1969年6月28日星期六的清晨，一群男女同性戀者與跨性別者在警察突襲紐約市同志酒吧[石牆後開始暴動](../Page/石牆酒吧.md "wikilink")。這場延續數個夜晚的抗爭與暴動成為了當代[LGBT](../Page/LGBT.md "wikilink")權利運動的重要起源，也讓LGBT驕傲遊行更加受到公眾的關注。
 
-1969年11月2日，在[費城舉行的東岸區同志組織大會](../Page/費城.md "wikilink")（ERCHO）上，（Craig
+1969年11月2日，在[費城](../Page/費城.md "wikilink")舉行的東岸區同志組織大會（ERCHO）上，（Craig
 Rodwell）、弗瑞德·沙間特（Fred Sargeant）、艾倫·布洛伊狄（Ellen Broidy），和琳達·羅德斯（Linda
 Rhodes）提出了第一場在紐約市舉行之[驕傲遊行的計劃](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")。\[3\]
 
@@ -32,7 +32,7 @@ Howard）因為她在籌辦遊行的功勞而被譽為「驕傲遊行之母」�
 A. Martin aka Donny the Punk）和（L. Craig
 Schoonmaker）也讓「驕傲」（Pride，或譯：自豪）一詞被廣泛用來形容類似的活動。\[17\]
 
-1970年6月28日的「克里斯多弗街解放日」是石牆暴動的一週年紀念日，也是美國歷史上第一場的[LGBT驕傲遊行](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")，活動的範圍涵蓋了至[中央公園為止的](../Page/中央公園.md "wikilink")51個街區。由於現場群眾的激動程度，以及參與者對於持著同志標語和看板行走於市區的警戒心，這場遊行僅花了不到預定時間的一半就結束了。雖然遊行的許可證直到開始前的兩個小時才送達，遊行者僅遭遇了來自少數周圍民眾的抗拒阻撓。\[18\]《紐約時報》在隔天頭版刊登了這場遊行的報導，內容指出遊行隊伍橫跨了15個街區。\[19\]《》雜誌也刊登了正面的相關報導，形容遊行是「對一年前石牆酒吧警察突襲事件的的最前線抗拒行動」\[20\]
+1970年6月28日的「克里斯多弗街解放日」是石牆暴動的一週年紀念日，也是美國歷史上第一場的[LGBT驕傲遊行](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")，活動的範圍涵蓋了至[中央公園](../Page/中央公園.md "wikilink")為止的51個街區。由於現場群眾的激動程度，以及參與者對於持著同志標語和看板行走於市區的警戒心，這場遊行僅花了不到預定時間的一半就結束了。雖然遊行的許可證直到開始前的兩個小時才送達，遊行者僅遭遇了來自少數周圍民眾的抗拒阻撓。\[18\]《紐約時報》在隔天頭版刊登了這場遊行的報導，內容指出遊行隊伍橫跨了15個街區。\[19\]《》雜誌也刊登了正面的相關報導，形容遊行是「對一年前石牆酒吧警察突襲事件的的最前線抗拒行動」\[20\]
 
 從1948年起，（HOP）就成為了紐約市驕傲活動的規劃籌辦單位。\[21\]
 

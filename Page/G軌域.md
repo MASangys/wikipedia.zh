@@ -1,5 +1,5 @@
 [G_orbital.png](https://zh.wikipedia.org/wiki/File:G_orbital.png "fig:G_orbital.png")
-在[化學與](../Page/化學.md "wikilink")[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**g軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")4，其[磁量子數可以為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")0、±1、±2、±3、±4，且每個[殼層裡中有](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")9個g軌域，g<sub><sub><big>z</big><sup>4</sup></sub></sub>、g<sub><sub><big>xz</big><sup>3</sup></sub></sub>、g<sub><sub><big>yz</big><sup>3</sup></sub></sub>、g<sub><sub><big>xyz</big><sup>2</sup></sub></sub>、g<sub><sub><big>z</big><sup>2</sup><big>(x</big><sup>2</sup><big>-y</big><sup>2</sup><big>)</big></sub></sub>、g<sub><sub><big>x</big><sup>3</sup><big>z</big></sub></sub>、g<sub><sub><big>y</big><sup>3</sup><big>z</big></sub></sub>、g<sub><sub><big>x</big><sup>4</sup><big>+</big><big>y</big><sup>4</sup></sub></sub>、g<sub><sub><big>xy(x</big><sup>2</sup><big>-</big><big>y</big><sup>2</sup><big>)</big></sub></sub>\[1\]，有三種形狀，且方向不同，每個可以容納2個電子，因此，g軌域共可以容納18個電子。
+在[化學](../Page/化學.md "wikilink")與[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**g軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")4，其[磁量子數可以為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")0、±1、±2、±3、±4，且每個[殼層裡中有](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")9個g軌域，g<sub><sub><big>z</big><sup>4</sup></sub></sub>、g<sub><sub><big>xz</big><sup>3</sup></sub></sub>、g<sub><sub><big>yz</big><sup>3</sup></sub></sub>、g<sub><sub><big>xyz</big><sup>2</sup></sub></sub>、g<sub><sub><big>z</big><sup>2</sup><big>(x</big><sup>2</sup><big>-y</big><sup>2</sup><big>)</big></sub></sub>、g<sub><sub><big>x</big><sup>3</sup><big>z</big></sub></sub>、g<sub><sub><big>y</big><sup>3</sup><big>z</big></sub></sub>、g<sub><sub><big>x</big><sup>4</sup><big>+</big><big>y</big><sup>4</sup></sub></sub>、g<sub><sub><big>xy(x</big><sup>2</sup><big>-</big><big>y</big><sup>2</sup><big>)</big></sub></sub>\[1\]，有三種形狀，且方向不同，每個可以容納2個電子，因此，g軌域共可以容納18個電子。
 
 由於目前尚未發現[第八週期元素](https://zh.wikipedia.org/wiki/第八週期元素 "wikilink")，因此在已知的元素中，g軌域只存在於[激發態的原子中](https://zh.wikipedia.org/wiki/激發態 "wikilink")。
 
@@ -14,7 +14,7 @@ g軌域從主量子數n=5時開始出現，由於主量子數不能小於5，因
 =
 ±1或±4時（g<sub><sub><big>xz</big><sup>3</sup></sub></sub>、g<sub><sub><big>yz</big><sup>3</sup></sub></sub>、g<sub><sub><big>x</big><sup>4</sup><big>+</big><big>y</big><sup>4</sup></sub></sub>、g<sub><sub><big>xy(x</big><sup>2</sup><big>-</big><big>y</big><sup>2</sup><big>)</big></sub></sub>）形狀相同但方向不同為[八片](https://zh.wikipedia.org/wiki/八 "wikilink")[豆子形](https://zh.wikipedia.org/wiki/豆子 "wikilink")；磁量子數m
 =
-±2或±3時（g<sub><sub><big>xyz</big><sup>2</sup></sub></sub>、g<sub><sub><big>z</big><sup>2</sup><big>(x</big><sup>2</sup><big>-y</big><sup>2</sup><big>)</big></sub></sub>、g<sub><sub><big>x</big><sup>3</sup><big>z</big></sub></sub>、g<sub><sub><big>y</big><sup>3</sup><big>z</big></sub></sub>）形狀相同但方向不同為為[十二葉](https://zh.wikipedia.org/wiki/十二 "wikilink")[啞鈴形](../Page/啞鈴.md "wikilink")；而磁量子數m
+±2或±3時（g<sub><sub><big>xyz</big><sup>2</sup></sub></sub>、g<sub><sub><big>z</big><sup>2</sup><big>(x</big><sup>2</sup><big>-y</big><sup>2</sup><big>)</big></sub></sub>、g<sub><sub><big>x</big><sup>3</sup><big>z</big></sub></sub>、g<sub><sub><big>y</big><sup>3</sup><big>z</big></sub></sub>）形狀相同但方向不同為為[十二葉](https://zh.wikipedia.org/wiki/十二 "wikilink")[啞鈴](../Page/啞鈴.md "wikilink")形；而磁量子數m
 =
 0時（g<sub><sub><big>z</big><sup>4</sup></sub></sub>）的形狀較特別，類似於[d<sub><sub><big>z</big><sup>2</sup></sub></sub>軌域](https://zh.wikipedia.org/wiki/d軌域 "wikilink")，但中間的環的上下多了一個類似碗的形狀，其開口朝向上下的啞鈴形。
 
@@ -45,16 +45,16 @@ i軌域從主量子數n=7時開始出現，由於主量子數不能小於7，因
 
 \[v = Z \alpha c \approx \frac{Z c}{137.036}\]
 
-當中*Z*是[原子序](https://zh.wikipedia.org/wiki/原子序 "wikilink")，*α*是描述[電磁力強度的](../Page/電磁力.md "wikilink")[精細結構常數](https://zh.wikipedia.org/wiki/精細結構常數 "wikilink")。\[5\]如此一來，任何原子序高於137的元素的1s軌域電子將會以高於[光速](../Page/光速.md "wikilink")*c*運行，物理上不可能。因此任何不建基於[相對論的理論](https://zh.wikipedia.org/wiki/相對論 "wikilink")（如波爾模型）不足以處理這種計算。
+當中*Z*是[原子序](https://zh.wikipedia.org/wiki/原子序 "wikilink")，*α*是描述[電磁力](../Page/電磁力.md "wikilink")強度的[精細結構常數](https://zh.wikipedia.org/wiki/精細結構常數 "wikilink")。\[5\]如此一來，任何原子序高於137的元素的1s軌域電子將會以高於[光速](../Page/光速.md "wikilink")*c*運行，物理上不可能。因此任何不建基於[相對論的理論](https://zh.wikipedia.org/wiki/相對論 "wikilink")（如波爾模型）不足以處理這種計算。
 
-半[相對論的](https://zh.wikipedia.org/wiki/相對論 "wikilink")[狄拉克方程式在原子序大於Uts時也會發生問題](../Page/狄拉克方程式.md "wikilink")，因爲基態能階為：
+半[相對論的](https://zh.wikipedia.org/wiki/相對論 "wikilink")[狄拉克方程式](../Page/狄拉克方程式.md "wikilink")在原子序大於Uts時也會發生問題，因爲基態能階為：
 
 \[E=m_0 c^2 \sqrt{1-Z^2 \alpha^2}\]
 
 當中*m<sub>0</sub>*是電子的靜質量。而當[原子序大於](https://zh.wikipedia.org/wiki/原子序 "wikilink")[137](../Page/Uts.md "wikilink")，狄拉克基態的波函數是震蕩的，並且正能譜與負能譜之間沒有間隙，正如所言。\[6\][理查德·費曼](../Page/理查德·費曼.md "wikilink")（Richard
 Feynman）指出了這效應。
 
-然而，現實的計算已考慮到了核[電荷分佈的有限延伸](../Page/電荷.md "wikilink")。約等於[173](../Page/Ust.md "wikilink")（Unseptrium）的臨界的*Z*使得非離子原子所屬的元素可能僅限於等於或低於這個結果，因此，電子可能無法填至i軌域，因此i軌域有可能根本不存在。
+然而，現實的計算已考慮到了核[電荷](../Page/電荷.md "wikilink")分佈的有限延伸。約等於[173](../Page/Ust.md "wikilink")（Unseptrium）的臨界的*Z*使得非離子原子所屬的元素可能僅限於等於或低於這個結果，因此，電子可能無法填至i軌域，因此i軌域有可能根本不存在。
 
 ### k軌域
 

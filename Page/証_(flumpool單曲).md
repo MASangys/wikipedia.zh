@@ -1,4 +1,4 @@
-「**証**」是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年9月7日由[A-Sketch發售](../Page/A-Sketch.md "wikilink")。
+「**証**」是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年9月7日由[A-Sketch](../Page/A-Sketch.md "wikilink")發售。
 
 ## 收錄曲
 

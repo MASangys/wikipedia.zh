@@ -1,4 +1,4 @@
-**住友不動產新宿Oak大廈**（）是一棟位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區的一棟摩天大樓](../Page/新宿區.md "wikilink")。
+**住友不動產新宿Oak大廈**（）是一棟位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")的一棟摩天大樓。
 
 ### 圖片集
 

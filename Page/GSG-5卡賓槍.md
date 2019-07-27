@@ -3,9 +3,9 @@
 ## 設計
 
 GSG-5在外型上與[黑克勒-科赫的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[HK
-MP5衝鋒槍極為相似](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")，而且兩槍的部份零件也能夠通用，包括：[槍托](../Page/槍托.md "wikilink")、[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、[撞針和瞄具等](../Page/撞針.md "wikilink")\[1\]。其零件均由德國運動槍有限公司負責生產，當中他們更有自行衍生出附戰術導軌的護木和可等專用零件。較有趣的是，一些來自氣槍版MP5的零件也能夠用在GSG-5上。
+MP5衝鋒槍極為相似](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")，而且兩槍的部份零件也能夠通用，包括：[槍托](../Page/槍托.md "wikilink")、[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、[撞針](../Page/撞針.md "wikilink")和瞄具等\[1\]。其零件均由德國運動槍有限公司負責生產，當中他們更有自行衍生出附戰術導軌的護木和可等專用零件。較有趣的是，一些來自氣槍版MP5的零件也能夠用在GSG-5上。
 
-GSG-5的供彈具包括2、10、15和22發容量的[彈匣和](../Page/彈匣.md "wikilink")110發容量的[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
+GSG-5的供彈具包括2、10、15和22發容量的[彈匣](../Page/彈匣.md "wikilink")和110發容量的[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
 
 在瞄具方面，GSG-5採用了來自MP5的可調式鼓式[機械瞄具](../Page/機械瞄具.md "wikilink")。除此之外，用戶也可透過於其[機匣頂部裝上戰術導軌來對應各種](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。
 
@@ -15,7 +15,7 @@ GSG-5的供彈具包括2、10、15和22發容量的[彈匣和](../Page/彈匣.md
 
 ## 衍生型
 
-  - GSG-5 A：使用230毫米[槍管的版本](../Page/槍管.md "wikilink")。
+  - GSG-5 A：使用230毫米[槍管](../Page/槍管.md "wikilink")的版本。
   - GSG-5 L：使用414毫米槍管的版本，配有假[抑制器](../Page/抑制器.md "wikilink")。
   - GSG-5 SD：類似於GSG-5
     L，具有較大的[前握把和假](../Page/輔助握把.md "wikilink")[抑制器](../Page/抑制器.md "wikilink")，外觀上類似於MP5-SD。

@@ -1,8 +1,8 @@
-**白朗寧Citori**是兩根槍管上下相疊的雙管霰彈槍。它有非常多的型號、風格、號徑來賣給許多土靶射擊和陸生、水生鳥類狩獵的愛好者。Citori是由美國[摩根的](https://zh.wikipedia.org/wiki/摩根_\(猶他州\) "wikilink")[白朗寧武器公司行銷與配送](../Page/白朗寧武器公司.md "wikilink")，並由日本[南國市的Miroku會社負責生產](../Page/南國市.md "wikilink")。
+**白朗寧Citori**是兩根槍管上下相疊的雙管霰彈槍。它有非常多的型號、風格、號徑來賣給許多土靶射擊和陸生、水生鳥類狩獵的愛好者。Citori是由美國[摩根的](https://zh.wikipedia.org/wiki/摩根_\(猶他州\) "wikilink")[白朗寧武器公司](../Page/白朗寧武器公司.md "wikilink")行銷與配送，並由日本[南國市](../Page/南國市.md "wikilink")的Miroku會社負責生產。
 
 ## 起源
 
-白朗寧Citori在1973年以非常成功的[白朗寧疊加霰彈槍的更實惠版本推出](../Page/白朗寧疊加霰彈槍.md "wikilink")。白朗寧疊加霰彈槍在1931年起發售，是有名的輕兵器設計者[約翰.白朗寧設計的最後一把槍](https://zh.wikipedia.org/wiki/約翰.白朗寧 "wikilink")。
+白朗寧Citori在1973年以非常成功的[白朗寧疊加霰彈槍](../Page/白朗寧疊加霰彈槍.md "wikilink")的更實惠版本推出。白朗寧疊加霰彈槍在1931年起發售，是有名的輕兵器設計者[約翰.白朗寧設計的最後一把槍](https://zh.wikipedia.org/wiki/約翰.白朗寧 "wikilink")。
 
 在1977年，白朗寧武器公司被[赫爾斯塔爾國營工廠收購為子公司](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，赫爾斯塔爾國營工廠至今仍持續間度業務。
 

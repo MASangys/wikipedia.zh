@@ -1,4 +1,4 @@
-**羅倫斯號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-8）**是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦的八號艦](../Page/班布里奇級驅逐艦.md "wikilink")。她是美軍第三艘以羅倫斯為名的軍艦，以紀念[1812年戰爭時期的海軍上校](https://zh.wikipedia.org/wiki/1812年戰爭 "wikilink")[詹姆士·羅倫斯](https://zh.wikipedia.org/wiki/詹姆士·羅倫斯 "wikilink")（James
+**羅倫斯號驅逐艦（[舷號DD](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-8）**是一艘隸屬於[美國海軍](../Page/美國海軍.md "wikilink")的[驅逐艦](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，為[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")的八號艦。她是美軍第三艘以羅倫斯為名的軍艦，以紀念[1812年戰爭時期的海軍上校](https://zh.wikipedia.org/wiki/1812年戰爭 "wikilink")[詹姆士·羅倫斯](https://zh.wikipedia.org/wiki/詹姆士·羅倫斯 "wikilink")（James
 Lawrence）。
 
 羅倫斯號在1899年於[霍河造船廠](https://zh.wikipedia.org/wiki/霍河造船廠 "wikilink")（Harlan

@@ -1,5 +1,5 @@
 《**So
-long\!**》是[AKB48的第](../Page/AKB48.md "wikilink")30张\[1\][单曲](../Page/单曲.md "wikilink")\[2\]，于2013年2月20日由[國王唱片](../Page/國王唱片.md "wikilink")（）发售。
+long\!**》是[AKB48](../Page/AKB48.md "wikilink")的第30张\[1\][单曲](../Page/单曲.md "wikilink")\[2\]，于2013年2月20日由[國王唱片](../Page/國王唱片.md "wikilink")（）发售。
 
 ## 概要
 
@@ -14,15 +14,15 @@ long\!》與《GIVE ME FIVE\!》同樣，標題中沒有包含「櫻花」的文
 
 这张单曲分為Type-A、-K、-B以及劇場盤4種發售\[3\]。
 
-《So long\!》是[日本電視台系列](../Page/日本電視台.md "wikilink")3夜連續劇《[So
+《So long\!》是[日本電視台](../Page/日本電視台.md "wikilink")系列3夜連續劇《[So
 long\!](../Page/So_long_!_\(日本電視劇\).md "wikilink")》的主題曲，同样以樱花为主题的《變成櫻花樹》也曾被被同電視台在2011年播放的劇集《[來自櫻花的信
 ～AKB48
-各自的畢業故事～](../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md "wikilink")》启用为主題曲。这首主打曲在2013年1月22日[TBS播放的音樂節目](../Page/TBS電視台.md "wikilink")《[火曜曲！](https://zh.wikipedia.org/wiki/火曜曲！ "wikilink")》上初次披露，也是[渡邊麻友首次擔任主打曲的中心位置](../Page/渡邊麻友.md "wikilink")。
+各自的畢業故事～](../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md "wikilink")》启用为主題曲。这首主打曲在2013年1月22日[TBS播放的音樂節目](../Page/TBS電視台.md "wikilink")《[火曜曲！](https://zh.wikipedia.org/wiki/火曜曲！ "wikilink")》上初次披露，也是[渡邊麻友](../Page/渡邊麻友.md "wikilink")首次擔任主打曲的中心位置。
 
 A面曲「So
 Long\!」[MV的导演是](https://zh.wikipedia.org/wiki/MV "wikilink")[大林宣彦](../Page/大林宣彦.md "wikilink")，此MV长達64分鐘，相当于一部大長編音樂電影，大幅超過之前最长的《GIVE
 ME
-FIVE\!》的34分鐘，也是AKB48史上最長。考慮在音樂節目的播放，也有摘錄了只限於曲子部分的「短版」。演员[高嶋政宏](../Page/高嶋政宏.md "wikilink")、、、、猪俣南、、[茂木健一郎亦有出演](../Page/茂木健一郎.md "wikilink")。MV的取景地在[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")[長岡市](../Page/長岡市.md "wikilink")、、等地。
+FIVE\!》的34分鐘，也是AKB48史上最長。考慮在音樂節目的播放，也有摘錄了只限於曲子部分的「短版」。演员[高嶋政宏](../Page/高嶋政宏.md "wikilink")、、、、猪俣南、、[茂木健一郎](../Page/茂木健一郎.md "wikilink")亦有出演。MV的取景地在[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")[長岡市](../Page/長岡市.md "wikilink")、、等地。
 
 本單曲在由[國際唱片業協會](../Page/國際唱片業協會.md "wikilink")、[香港电台和香港IFPI唱片协会合办的](https://zh.wikipedia.org/wiki/香港电台 "wikilink")「2013年第十二届IFPI香港唱片销量大奖」颁奖礼中獲得了「最畅销日语唱片大奖」\[4\]\[5\]。
 
@@ -153,7 +153,7 @@ long\!》的成員共有16名\[14\]，全是來自AKB48、SKE48、NMB48與HKT48�
   - [HKT48](../Page/HKT48.md "wikilink") Team
     H：[指原莉乃](../Page/指原莉乃.md "wikilink")
       -
-        篠田、板野、柏木、島崎、横山五人继前作《[永远的压力](https://zh.wikipedia.org/wiki/永远的压力 "wikilink")》之后继续进入选拔、北原以外其他人都是前前作《[UZA](../Page/UZA.md "wikilink")》的选拔成员。北原是自《[格子花纹](https://zh.wikipedia.org/wiki/格子花纹 "wikilink")》以来6个月重新进入选拔。《UZA》的選抜成员HKT48的[宮脇咲良本次未能进入选拔](../Page/宮脇咲良.md "wikilink")。
+        篠田、板野、柏木、島崎、横山五人继前作《[永远的压力](https://zh.wikipedia.org/wiki/永远的压力 "wikilink")》之后继续进入选拔、北原以外其他人都是前前作《[UZA](../Page/UZA.md "wikilink")》的选拔成员。北原是自《[格子花纹](https://zh.wikipedia.org/wiki/格子花纹 "wikilink")》以来6个月重新进入选拔。《UZA》的選抜成员HKT48的[宮脇咲良](../Page/宮脇咲良.md "wikilink")本次未能进入选拔。
 
 ### Waiting room
 
@@ -181,7 +181,7 @@ long\!》的成員共有16名\[14\]，全是來自AKB48、SKE48、NMB48與HKT48�
         島田晴与SKE48的菅、古畑、NMB48的矢倉、薮下、HKT48的宮脇、田島是初次入选Under
         Girls。除了島田晴、宮脇以外的5人除了参加有一百余人合唱的《[那一天的风铃](../Page/格子花紋.md "wikilink")》之外、是首次参加AKB48的单曲。須田是《[如此波西米亚](../Page/格子花紋.md "wikilink")》以来、菊地、藤江、多田是《[你的背影](https://zh.wikipedia.org/wiki/风正在吹 "wikilink")》以来、大場是《[不能拥抱你](https://zh.wikipedia.org/wiki/飞翔入手 "wikilink")》以来被选为Under
         Girls的成员。前前作参加Under
-        Girls的岩田華怜、田野優花、武藤十夢、市川美織、竹内美宥与SKE48的[向田茉夏这次未能入选](../Page/向田茉夏.md "wikilink")。
+        Girls的岩田華怜、田野優花、武藤十夢、市川美織、竹内美宥与SKE48的[向田茉夏](../Page/向田茉夏.md "wikilink")这次未能入选。
 
 ### Ruby
 
@@ -263,7 +263,7 @@ long\!》的成員共有16名\[14\]，全是來自AKB48、SKE48、NMB48與HKT48�
 
 1.  以正式出版的單曲為準，其中包含[數位下載單曲](https://zh.wikipedia.org/wiki/數位下載 "wikilink")《[Baby\!
     Baby\!
-    Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》。若包括[獨立製作時期的的兩張作品](../Page/獨立製作.md "wikilink")，則為第32張。但是此統計数字并不包括僅有提供數位下載的慈善樂捐单曲《[为了谁
+    Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》。若包括[獨立製作](../Page/獨立製作.md "wikilink")時期的的兩張作品，則為第32張。但是此統計数字并不包括僅有提供數位下載的慈善樂捐单曲《[为了谁
     -What can I do for
     someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")》在內。
 

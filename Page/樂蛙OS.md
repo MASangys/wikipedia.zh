@@ -1,4 +1,4 @@
-**樂蛙OS**是一個[作業系統套件](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，基於[Android行動平台而開發](../Page/Android.md "wikilink")，主要使用於[智慧型手機裝置上](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。它提供一些在官方Android系統或手機廠商沒有提供的功能，像是：T9智能拨号、流量监控、多功能的日历、云服务等\[1\]。
+**樂蛙OS**是一個[作業系統套件](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，基於[Android](../Page/Android.md "wikilink")行動平台而開發，主要使用於[智慧型手機裝置上](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。它提供一些在官方Android系統或手機廠商沒有提供的功能，像是：T9智能拨号、流量监控、多功能的日历、云服务等\[1\]。
 
 ## 歷史
 
@@ -26,7 +26,7 @@
 
 ## 批評
 
-與其他中國內地的各種[Android的衍生平台相同](../Page/Android.md "wikilink")，在樂蛙OS升級中默認去除了[谷歌服務框架](https://zh.wikipedia.org/wiki/GMS "wikilink")，致使部分用戶無法正常使用谷歌服務等。
+與其他中國內地的各種[Android](../Page/Android.md "wikilink")的衍生平台相同，在樂蛙OS升級中默認去除了[谷歌服務框架](https://zh.wikipedia.org/wiki/GMS "wikilink")，致使部分用戶無法正常使用谷歌服務等。
 
 ## 參考文獻
 

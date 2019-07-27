@@ -1,5 +1,5 @@
 《**After
-School**》是[李卓庭的第三張](../Page/李卓庭.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2009年9月10日推出。
+School**》是[李卓庭](../Page/李卓庭.md "wikilink")的第三張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2009年9月10日推出。
 
 ## 曲目
 

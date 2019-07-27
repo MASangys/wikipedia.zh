@@ -8,7 +8,7 @@ mobile限量銷售。
   - 只在EXILE mobile中銷售，沒有在一般的CD店舖銷售。
   - 「My Place」被使用作為[東京電視台](../Page/東京電視台.md "wikilink")「嘉納杯
     柔道ワールドグランプリ」主題歌。
-  - 「My Place」是[NESMITH初次作詞的歌曲](../Page/NESMITH.md "wikilink")。
+  - 「My Place」是[NESMITH](../Page/NESMITH.md "wikilink")初次作詞的歌曲。
 
 ## 曲目
 
