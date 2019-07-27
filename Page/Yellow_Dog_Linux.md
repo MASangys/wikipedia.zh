@@ -1,7 +1,7 @@
 **Yellow Dog
-Linux**（縮寫為YDL）是一个自由[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，基于[PPC架构](https://zh.wikipedia.org/wiki/PPC "wikilink")。该[linux发行版由Fixstars公司发布](https://zh.wikipedia.org/wiki/linux发行版 "wikilink")。第一个版本发布于1999年。最新版本为7.0，2012年8月发布。Yellow
+Linux**（縮寫為YDL）是一个自由[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，基于[PowerPC](../Page/PowerPC.md "wikilink")架构。该[linux发行版由Fixstars公司发布](https://zh.wikipedia.org/wiki/linux发行版 "wikilink")。第一个版本发布于1999年。最新版本为7.0，2012年8月发布。Yellow
 Dog Linux基于[Red Hat Enterprise
-Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")/[CentOS](../Page/CentOS.md "wikilink")，使用[RPM软件包管理](https://zh.wikipedia.org/wiki/RPM "wikilink")。
+Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")/[CentOS](../Page/CentOS.md "wikilink")，使用[RPM软件包管理](../Page/RPM套件管理員.md "wikilink")。
 
 ## 历史
 

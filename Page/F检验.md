@@ -1,4 +1,4 @@
-**F检验**（），最常用的別名叫做**聯合假設檢驗**（），此外也稱**變異數比率檢驗**、**方差齐性检验**。它是一种在[零假设](../Page/零假设.md "wikilink")（）之下，統計值服从[F-分布的检验](../Page/F-分布.md "wikilink")。其通常是用來分析用了超過一個參數的统计模型，以判斷該模型中的全部或一部分參數是否適合用來估計[母體](https://zh.wikipedia.org/wiki/母體 "wikilink")。
+**F检验**（），最常用的別名叫做**聯合假設檢驗**（），此外也稱**變異數比率檢驗**、**方差齐性检验**。它是一种在[零假设](../Page/零假设.md "wikilink")（）之下，統計值服从[F-分布](../Page/F-分布.md "wikilink")的检验。其通常是用來分析用了超過一個參數的统计模型，以判斷該模型中的全部或一部分參數是否適合用來估計[母體](https://zh.wikipedia.org/wiki/母體 "wikilink")。
 
 **F检验**這名稱是由美國數學家兼統計學家命名，为了纪念英國統計學家兼生物學家[羅納德·費雪](https://zh.wikipedia.org/wiki/羅納德·費雪 "wikilink")（）。Fisher在1920年代發明了這個檢驗和F分配，最初叫做**變異數比率**（）\[1\]。
 
@@ -6,7 +6,7 @@
 
 通常的F检验例子包括：
 
-  - 假设一系列服从[正态分布的母体](../Page/正态分布.md "wikilink")，都有相同的[标准差](https://zh.wikipedia.org/wiki/标准差 "wikilink")。这是最典型的F检验，该检验在[方差分析](../Page/方差分析.md "wikilink")（ANOVA）中也非常重要。
+  - 假设一系列服从[正态分布](../Page/正态分布.md "wikilink")的母体，都有相同的[标准差](https://zh.wikipedia.org/wiki/标准差 "wikilink")。这是最典型的F检验，该检验在[方差分析](../Page/方差分析.md "wikilink")（ANOVA）中也非常重要。
   - 假设一个回归模型很好地符合其[数据集要求](https://zh.wikipedia.org/wiki/数据集 "wikilink")。
 
 ## 注意事项

@@ -1,10 +1,10 @@
 《**love your
-life**》，是[豐崎愛生的第一張](../Page/豐崎愛生.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年10月28日由[Sony
+life**》，是[豐崎愛生](../Page/豐崎愛生.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年10月28日由[Sony
 Music發行](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")。
 
 ## 概要
 
-  - 由於在聲優組合[sphere表現活躍](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")，[豐崎愛生以個人名義出首張單曲](../Page/豐崎愛生.md "wikilink")，收錄了2首歌在單曲內。
+  - 由於在聲優組合[sphere表現活躍](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")，[豐崎愛生](../Page/豐崎愛生.md "wikilink")以個人名義出首張單曲，收錄了2首歌在單曲內。
   - 發行日2009年10月28日是豐崎23歳生日。
   - 分別以初回限定盤和通常盤DVD售出。
 

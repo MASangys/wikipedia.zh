@@ -8,7 +8,7 @@ Commandert](https://zh.wikipedia.org/wiki/Midnight_Commandert "wikilink")（一�
 MOC的client/server架構近似於[MPD和](https://zh.wikipedia.org/wiki/MPD "wikilink")[XMMS2](https://zh.wikipedia.org/wiki/XMMS2 "wikilink")，但不同於這些播放器的是MOC沒有開放API：無法使用圖形介面操作（理論上透過SSH還是可行）。
 
 在套件庫中Music On
-Console套件名被改成了「mocp」，因為名稱與[Qt的一個套件](../Page/Qt.md "wikilink")「moc」相衝。因此要注意欲使用MOC時，應在終端機輸入mocp而不是moc。
+Console套件名被改成了「mocp」，因為名稱與[Qt](../Page/Qt.md "wikilink")的一個套件「moc」相衝。因此要注意欲使用MOC時，應在終端機輸入mocp而不是moc。
 
 ## 參見
 

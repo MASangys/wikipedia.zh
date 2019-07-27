@@ -1,6 +1,6 @@
 **Amazon
-Kindle**是[亚马逊公司设计的一系列](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](https://zh.wikipedia.org/wiki/电子书 "wikilink")、[報紙](../Page/報紙.md "wikilink")、杂志、[部落格及其他](https://zh.wikipedia.org/wiki/部落格 "wikilink")[電子媒體](https://zh.wikipedia.org/wiki/電子媒體 "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](https://zh.wikipedia.org/wiki/Lab126 "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E
-Ink十六級灰度](https://zh.wikipedia.org/wiki/E_Ink "wikilink")[電子紙顯示技術](https://zh.wikipedia.org/wiki/電子紙 "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括Sony、Kobo、BOOX、reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭。
+Kindle**是[亚马逊公司设计的一系列](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](https://zh.wikipedia.org/wiki/电子书 "wikilink")、[報紙](../Page/報紙.md "wikilink")、[杂志](../Page/杂志.md "wikilink")、[部落格及其他](https://zh.wikipedia.org/wiki/部落格 "wikilink")[電子媒體](https://zh.wikipedia.org/wiki/電子媒體 "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](https://zh.wikipedia.org/wiki/Lab126 "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E
+Ink十六級灰度](https://zh.wikipedia.org/wiki/E_Ink "wikilink")[電子紙顯示技術](https://zh.wikipedia.org/wiki/電子紙 "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")、[Kobo](https://zh.wikipedia.org/wiki/Kobo "wikilink")、[BOOX](https://zh.wikipedia.org/wiki/BOOX "wikilink")、[reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭](https://zh.wikipedia.org/wiki/reMarkable "wikilink")。
 
 ## 命名和演变
 
@@ -185,13 +185,13 @@ Oasis豪華禮品組合，僅在中國市場銷售。
 
 ### Kindle Fire
 
-2011年9月28日亞馬遜宣佈推出基於[Android的](../Page/Android.md "wikilink")7英寸平板電腦。Kindle
+2011年9月28日亞馬遜宣佈推出基於[Android](../Page/Android.md "wikilink")的7英寸平板電腦。Kindle
 Fire並沒有使用電子紙屏幕，而改用一般平板電腦常用的IPS TFT屏幕，-{zh-hans:支持;
 zh-tw:支援}--{zh-hans:觸屏;
 zh-tw:觸控螢幕}-操作及彩色顯示。操作系统經由亞馬遜特別訂製，內置了亞馬遜電子商店、媒體電影、在線電視和Kindle系列的在線電子書等服務。
 
 Kindle Fire-{zh-hans:支持;
-zh-tw:支援}-EPUB3規格，配合[微出版在美國掀起的風潮](../Page/微出版.md "wikilink")，以及亞馬遜9.99美金的低價電子書策略，[EHGBooks等微出版陣營迎合Amazon與](https://zh.wikipedia.org/wiki/EHGBooks "wikilink")[E-Ink](https://zh.wikipedia.org/wiki/E-Ink "wikilink")、[Qualcomm發展](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")[mirasol的Kindle](https://zh.wikipedia.org/wiki/mirasol "wikilink")
+zh-tw:支援}-EPUB3規格，配合[微出版](../Page/微出版.md "wikilink")在美國掀起的風潮，以及亞馬遜9.99美金的低價電子書策略，[EHGBooks等微出版陣營迎合Amazon與](https://zh.wikipedia.org/wiki/EHGBooks "wikilink")[E-Ink](https://zh.wikipedia.org/wiki/E-Ink "wikilink")、[Qualcomm發展](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")[mirasol的Kindle](https://zh.wikipedia.org/wiki/mirasol "wikilink")
 Fire電子紙升級計畫，傳統出版商反而先萌生退出亞馬遜網路商城的事件
 [1](http://www.nytimes.com/2012/04/16/business/media/amazons-e-book-pricing-a-constant-thorn-for-publishers.html?pagewanted=all)。
 
@@ -208,13 +208,10 @@ for
 iPhone*的應用程序。這款應用程序可以讓[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
 touch用戶在他們自己的iPhone或iPod](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")
 touch上瀏覽Kindle的內容，目前已经支持[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。除此之外，用户亦可于Amazon网站下载适用于自己设备的Kindle应用程序，目前支持平台有[Android](../Page/Android.md "wikilink")/[Windows
-Phone](../Page/Windows_Phone.md "wikilink")/[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")/[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-XP，7，8/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，和[Windows
-10](../Page/Windows_10.md "wikilink")
+Phone](../Page/Windows_Phone.md "wikilink")/[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")/[Windows
+XP](../Page/Windows_XP.md "wikilink")，[7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，[8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")。
 
 ## 评价
-
-Kindle是一种跨平台，多端同步的电子书阅读器。它可在安卓，苹果，微软Win10,Win7,WinXp等平台运行，拥有大量出版社的授权电子书。每个kindle帐号可在5-6台设备上同步(由出版商决定).
 
 ## 参见
 

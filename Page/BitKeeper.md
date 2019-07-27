@@ -1,4 +1,4 @@
-**BitKeeper**是一套BitMover公司開發的[分佈式版本控制软件](https://zh.wikipedia.org/wiki/分佈式版本控制 "wikilink")，它曾是一款[专有软件](../Page/专有软件.md "wikilink")，其主要競爭对手是[Git和](../Page/Git.md "wikilink")[Mercurial](../Page/Mercurial.md "wikilink")。BitMover公司總部位於美國加州[坎貝爾](https://zh.wikipedia.org/wiki/坎貝爾 "wikilink")\[1\]，總裁[拉里·麥沃伊](https://zh.wikipedia.org/wiki/拉里·麥沃伊 "wikilink")，曾設計[TeamWare](https://zh.wikipedia.org/wiki/TeamWare "wikilink")。
+**BitKeeper**是一套BitMover公司開發的[分佈式版本控制软件](https://zh.wikipedia.org/wiki/分佈式版本控制 "wikilink")，它曾是一款[专有软件](../Page/专有软件.md "wikilink")，其主要競爭对手是[Git](../Page/Git.md "wikilink")和[Mercurial](../Page/Mercurial.md "wikilink")。BitMover公司總部位於美國加州[坎貝爾](https://zh.wikipedia.org/wiki/坎貝爾 "wikilink")\[1\]，總裁[拉里·麥沃伊](https://zh.wikipedia.org/wiki/拉里·麥沃伊 "wikilink")，曾設計[TeamWare](https://zh.wikipedia.org/wiki/TeamWare "wikilink")。
 
 BitKeeper的許多概念取自TeamWare。它的主要賣點是“分佈式”版本控制工具，不同于中心式的[CVS或](../Page/協作版本系統.md "wikilink")[SVN](../Page/Subversion.md "wikilink")。
 
@@ -45,18 +45,9 @@ BitKeeper的許多概念取自TeamWare。它的主要賣點是“分佈式”版
     Stallman](https://zh.wikipedia.org/wiki/Richard_Stallman "wikilink")
     on the Linux/BitKeeper fallout (formerly on NewsForge, currently on
     Linux.com)
-  - [The
-    Age](http://www.theage.com.au/news/Soapbox/Crunch-time-for-Linus/2005/04/14/1113251731624.html)
-    Crunch time for Linus
-  - [BitKeeper at the "Better SCM"
-    Site](https://web.archive.org/web/20060815061854/http://better-scm.berlios.de/bk/)
-    - a collection of articles and essays about BitKeeper and its
-    history.
+  - \[<http://w>
 
-[Category:2000年软件](https://zh.wikipedia.org/wiki/Category:2000年软件 "wikilink")
-[Category:分布式版本控制系统](https://zh.wikipedia.org/wiki/Category:分布式版本控制系统 "wikilink")
-[Category:自由版本控制软件](https://zh.wikipedia.org/wiki/Category:自由版本控制软件 "wikilink")
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
+<!-- end list -->
 
 1.   BitMover company information
 2.

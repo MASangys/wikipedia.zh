@@ -1,8 +1,8 @@
 **YaST**（\[1\]），它是一套以[RPM為基礎的](../Page/RPM套件管理員.md "wikilink")[作業系統安裝與](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[設定工具](https://zh.wikipedia.org/wiki/電腦設定 "wikilink")，也是[openSUSE](../Page/SUSE.md "wikilink")
-[Linux發行版的主要特性之一](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，而且由[Novell衍生出商業發行版本](../Page/Novell.md "wikilink")。它的特性主要在於，可以設定很多系統的各個部分。它也是[United
+[Linux發行版的主要特性之一](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，而且由[Novell](../Page/Novell.md "wikilink")衍生出商業發行版本。它的特性主要在於，可以設定很多系統的各個部分。它也是[United
 Linux公司的一部分](https://zh.wikipedia.org/wiki/United_Linux "wikilink")，不過這家公司目前已停止營業。第一套含有YaST的SuSE發行版於1996年5月發行。
 
-在[GNU通用公共許可證底下](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，YaST已由[Novell製作成一套](../Page/Novell.md "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。\[2\]
+在[GNU通用公共許可證底下](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，YaST已由[Novell](../Page/Novell.md "wikilink")製作成一套[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。\[2\]
 
 YaST2是一套管理與維護工具，用來管理SUSE Linux安裝部分。它允許管理員安裝軟體、設定硬體、安裝網路與伺服器，甚至更多。
 
@@ -11,7 +11,7 @@ YaST的特性在於，它包含了[GUI與](https://zh.wikipedia.org/wiki/圖形�
 YaST的顯示設定模組是由SaX2所呼叫的（在這裡的SaX2是指SUSE Automated X configuration, version
 2）。
 
-OpenSUSE 10.3針對[GNOME使用者重新設計YaST](../Page/GNOME.md "wikilink")。
+OpenSUSE 10.3針對[GNOME](../Page/GNOME.md "wikilink")使用者重新設計YaST。
 
 經由[ZYpp計畫](https://zh.wikipedia.org/wiki/Zypper "wikilink")，YaST提供了套件管理功能。\[3\]第一套可用的ZYpp套件管理工具，YaST應用程式曾有執行上的問題，而且執行開啟的時間過久，但是它在openSUSE
 10.2與10.3發行時已針對這方面進行改良。開啟進行openSUSE 11.0 alpha 3計畫時，ZYpp已整合到SAT

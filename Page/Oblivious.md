@@ -1,4 +1,4 @@
-《**oblivious**》是[Kalafina的第](../Page/Kalafina.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年1月23日由[SME
+《**oblivious**》是[Kalafina](../Page/Kalafina.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年1月23日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》第一章至第三章的片尾主題歌。另外亦發行了本作品的[Remix版本](https://zh.wikipedia.org/wiki/Remix "wikilink")《Re/oblivious》。
 

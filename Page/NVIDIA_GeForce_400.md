@@ -1,8 +1,8 @@
 **GeForce 400系列**\[1\]
-是[NVIDIA的第十二代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce顯示晶片](../Page/GeForce.md "wikilink")。採用[TSMC的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")40nm製程，高階型號將首次採用[GDDR5顯示](../Page/GDDR5.md "wikilink")[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，中低端產品會采用新型SDDR3顯示記憶體。
+是[NVIDIA的第十二代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce](../Page/GeForce.md "wikilink")顯示晶片。採用[TSMC的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")40nm製程，高階型號將首次採用[GDDR5](../Page/GDDR5.md "wikilink")顯示[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，中低端產品會采用新型SDDR3顯示記憶體。
 
 該系列產品在最初準備發表時，人們曾認為將命名為[GeForce
-300系列](https://zh.wikipedia.org/wiki/GeForce_300 "wikilink")，但在2010年2月初，nVIDIA通過在[Twitter和](../Page/Twitter.md "wikilink")[Facebook的官方帳戶發出消息](../Page/Facebook.md "wikilink")，下一代Fermi核心的首發兩款產品將被命名為**GeForce
+300系列](https://zh.wikipedia.org/wiki/GeForce_300 "wikilink")，但在2010年2月初，nVIDIA通過在[Twitter](../Page/Twitter.md "wikilink")和[Facebook](../Page/Facebook.md "wikilink")的官方帳戶發出消息，下一代Fermi核心的首發兩款產品將被命名為**GeForce
 400**系列，分別為GTX 470和GTX 480。而GeForce
 300系列將使用在[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，就像之前的[GeForce
 100系列](https://zh.wikipedia.org/wiki/GeForce_100 "wikilink")。
@@ -15,7 +15,7 @@ Model指令的支持，並沒有針對DirectX 11而優化\[2\]。
 
 頂級產品GTX
 480擁有30億個電晶體，原設計有512個流處理器（CUDA核心），基於良品率的考慮關閉了32個而只有480个CUDA核心被啟用，但數量仍然是GTX
-280的兩倍多，支援[GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")，完整支援DirectX 11標準。GTX
+280的兩倍多，支援[GDDR5](../Page/GDDR5.md "wikilink")顯示記憶體，完整支援DirectX 11標準。GTX
 480擁有NVIDIA稱之為PolyMorph引擎的技術，在單顆GPU上有16個的鑲嵌繪圖引擎，可執行全球首款可擴充的幾何管線。GTX
 480還擁有32倍反鋸齒模式，3D Vision Surround技術，支援三屏3D顯示輸出（GTX
 200系列也同樣支援該技術）\[3\]。
@@ -51,8 +51,8 @@ Direct Compute可以加強圖形特效。例如不同物件的半透明效果，
 
 ### 流处理器
 
-亦即是NVIDIA所稱的[CUDA核心](../Page/CUDA.md "wikilink")。GTX
-480用的[CUDA核心是NVIDIA所標示的第三代版本](../Page/CUDA.md "wikilink")。所有指令都被打散為1D指令。增加[CUDA核心的使用率](../Page/CUDA.md "wikilink")。在浮點處理方面，GTX
+亦即是NVIDIA所稱的[CUDA](../Page/CUDA.md "wikilink")核心。GTX
+480用的[CUDA](../Page/CUDA.md "wikilink")核心是NVIDIA所標示的第三代版本。所有指令都被打散為1D指令。增加[CUDA](../Page/CUDA.md "wikilink")核心的使用率。在浮點處理方面，GTX
 480用的是IEEE754-2008标准。數據只在輸出時四舍五入。以往的做法是每一個步驟都要四舍五入，誤差會累積。整數指令精度方面，支援32位元，而對手AMD則只支援24位元。在執行殊函数运算时，AMD的顯示核心使用流处理器仍計算。而NVIDIA的顯示核心則採用專用的元件。
 
 ### 纹理单元
@@ -65,7 +65,7 @@ Direct Compute可以加強圖形特效。例如不同物件的半透明效果，
 
 ### 通用計算
 
-首次支援[C++和](../Page/C++.md "wikilink")[ECC](https://zh.wikipedia.org/wiki/ECC "wikilink")。
+首次支援[C++](../Page/C++.md "wikilink")和[ECC](https://zh.wikipedia.org/wiki/ECC "wikilink")。
 
 ## 產品介紹
 
@@ -86,7 +86,7 @@ GTX 460\]\]
       - GeForce GT 430\[8\] -
         2010年9月13日推出。採用GF108核心，擁有96個CUDA核心，採用900MHz
         GDDR3或800MHz
-        [GDDR5顯示記憶體](../Page/GDDR5.md "wikilink")，OEM版本最高達到2GB\[9\]。
+        [GDDR5](../Page/GDDR5.md "wikilink")顯示記憶體，OEM版本最高達到2GB\[9\]。
       - GeForce GT 440\[10\] -
         2010年10月17日推出。採用GF106核心，擁有144個CUDA核心，採用高於GTS
         450的192位[GDDR5](../Page/GDDR5.md "wikilink")，顯示記憶體容量有1.5GB與3GB兩種，僅供[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，其競爭對手是AMD的HD
@@ -108,7 +108,7 @@ GTX 460\]\]
       - GeForce GTX 465\[17\] - 2010年6月1日推出。顯示核心與GTX
         470相同，是其“閹割”版本。擁有352個CUDA核心即11個流處理器模組，採用1GB
         256-bit GDDR5顯示記憶體。基於這個特性，部分擁有10片顯示記憶體顆粒的GTX
-        465可以硬刷[BIOS成為GTX](../Page/BIOS.md "wikilink")
+        465可以硬刷[BIOS](../Page/BIOS.md "wikilink")成為GTX
         470，但實際GTX
         465是屏蔽了部分有問題的顯示核心，強制打開被屏蔽的核心可能會出現花屏，死機等現象\[18\]。
       - GeForce GTX 470\[19\] - 2010年3月26日推出。該系列首款产品，GTX

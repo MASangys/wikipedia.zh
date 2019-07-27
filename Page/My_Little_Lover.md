@@ -1,8 +1,8 @@
 **My Little
-Lover**是由主唱akko、鍵盤手[小林武史以及吉他手藤井謙二所組成的](../Page/小林武史.md "wikilink")[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
+Lover**是由主唱akko、鍵盤手[小林武史](../Page/小林武史.md "wikilink")以及吉他手藤井謙二所組成的[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 樂團原名是全英文字母大寫的**MY LITTLE LOVER**，一開始是樂團成員只有akko和藤井謙二兩人。之所以取「MY LITTLE
-LOVER」的名稱據說是[音樂製作人小林武史對熱戀中的女友akko的愛稱](../Page/音樂製作人.md "wikilink")。後來小林加入樂團，使樂團成為人們熟知的三人模式。1996年，小林和akko結婚。2002年藤井脫團單飛；2006年，小林也離開了樂團，但繼續擔任製作人，樂團變成事實上只有akko一人的，akko也將樂團改名為**My
+LOVER」的名稱據說是[音樂製作人](../Page/音樂製作人.md "wikilink")小林武史對熱戀中的女友akko的愛稱。後來小林加入樂團，使樂團成為人們熟知的三人模式。1996年，小林和akko結婚。2002年藤井脫團單飛；2006年，小林也離開了樂團，但繼續擔任製作人，樂團變成事實上只有akko一人的，akko也將樂團改名為**My
 Little Lover**；2008年，小林和akko離婚。
 
 1995年以單曲《[Man & Woman/My

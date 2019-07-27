@@ -1,4 +1,4 @@
-**OMAR地雷博物馆**位于[阿富汗首都](../Page/阿富汗.md "wikilink")[喀布尔](../Page/喀布尔.md "wikilink")，它收藏有近几年来使用在阿富汗的53种[地雷中的](../Page/地雷.md "wikilink")51种。
+**OMAR地雷博物馆**位于[阿富汗](../Page/阿富汗.md "wikilink")首都[喀布尔](../Page/喀布尔.md "wikilink")，它收藏有近几年来使用在阿富汗的53种[地雷](../Page/地雷.md "wikilink")中的51种。
 藏品中包括使用在[2002年美国入侵战斗中的](https://zh.wikipedia.org/wiki/阿富汗战争_\(2001年\) "wikilink")[未爆炸武器](https://zh.wikipedia.org/wiki/未爆炸武器 "wikilink")（unexploded
 ordnance）、[集束炸弹和空投炸弹](https://zh.wikipedia.org/wiki/集束炸弹 "wikilink")。
 

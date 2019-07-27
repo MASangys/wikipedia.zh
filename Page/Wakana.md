@@ -1,10 +1,10 @@
 **大瀧若菜**（），日本女性歌手。出身於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。隸屬於[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")。是已解散的女子組合[Kalafina成員之一](../Page/Kalafina.md "wikilink")。梶浦曾說過Wakana有「女神一般的歌聲」。喜歡的動物是鯊魚，所以有鯊魚姬的稱號。
+CRAFT](../Page/SPACE_CRAFT.md "wikilink")。是已解散的女子組合[Kalafina](../Page/Kalafina.md "wikilink")成員之一。梶浦曾說過Wakana有「女神一般的歌聲」。喜歡的動物是鯊魚，所以有鯊魚姬的稱號。
 
 ## 來歷
 
 自12歲時學習[聲樂](https://zh.wikipedia.org/wiki/聲樂 "wikilink")。自17歲開始參加許多Club
-Event。到東京後，2006年拔擢為[FictionJunction的主唱](../Page/FictionJunction.md "wikilink")。
+Event。到東京後，2006年拔擢為[FictionJunction](../Page/FictionJunction.md "wikilink")的主唱。
 
 ## 主要活動
 

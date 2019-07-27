@@ -1,4 +1,4 @@
-**Triumph巡回演唱会**是[杰克逊五人组的第二次巡回演唱会](https://zh.wikipedia.org/wiki/杰克逊五人组 "wikilink")，1981年7月9日开始，9月26日结束，演出地点覆盖全[美国](../Page/美国.md "wikilink")。此次巡演总收入550万美元，拉破了加利福尼亚州洛杉矶的记录。巡演开始在[田纳西州](../Page/田纳西州.md "wikilink")[孟菲斯的中南](https://zh.wikipedia.org/wiki/孟菲斯 "wikilink")[体育馆](https://zh.wikipedia.org/wiki/体育馆 "wikilink")，结束于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶的](../Page/洛杉矶.md "wikilink")“论坛”体育馆。
+**Triumph巡回演唱会**是[杰克逊五人组的第二次巡回演唱会](https://zh.wikipedia.org/wiki/杰克逊五人组 "wikilink")，1981年7月9日开始，9月26日结束，演出地点覆盖全[美国](../Page/美国.md "wikilink")。此次巡演总收入550万美元，拉破了加利福尼亚州洛杉矶的记录。巡演开始在[田纳西州](../Page/田纳西州.md "wikilink")[孟菲斯的中南](https://zh.wikipedia.org/wiki/孟菲斯 "wikilink")[体育馆](https://zh.wikipedia.org/wiki/体育馆 "wikilink")，结束于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")的“论坛”体育馆。
 
 ## 演唱曲目
 

@@ -5,7 +5,7 @@ Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
 
 ## 历史
 
-[程序员JvA于](../Page/程序员.md "wikilink")2006年12月23日在[SourceForge上发布了X](../Page/SourceForge.md "wikilink")-Ray
+[程序员](../Page/程序员.md "wikilink")JvA于2006年12月23日在[SourceForge](../Page/SourceForge.md "wikilink")上发布了X-Ray
 0.3版。
 
 ## 特点

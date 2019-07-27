@@ -1,4 +1,4 @@
-**Transmission**是一种[BitTorrent客户端](https://zh.wikipedia.org/wiki/BitTorrent客户端 "wikilink")，特点是一个[跨平台的后端和其上的简洁的用户界面](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。Transmission以[MIT許可證和](../Page/MIT許可證.md "wikilink")[GNU通用公共许可证双许可证授权](../Page/GNU通用公共许可证.md "wikilink")，因此是一款[自由软件](../Page/自由软件.md "wikilink")\[1\]。
+**Transmission**是一种[BitTorrent客户端](https://zh.wikipedia.org/wiki/BitTorrent客户端 "wikilink")，特点是一个[跨平台的后端和其上的简洁的用户界面](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。Transmission以[MIT許可證](../Page/MIT許可證.md "wikilink")和[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")双许可证授权，因此是一款[自由软件](../Page/自由软件.md "wikilink")\[1\]。
 
 ## 特性
 

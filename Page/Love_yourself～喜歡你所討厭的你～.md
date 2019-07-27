@@ -1,10 +1,10 @@
 《*' Love
-yourself～喜歡你所討厭的你～*'》為[日本](../Page/日本.md "wikilink")[男性偶像團體](../Page/男性.md "wikilink")[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")11張單曲作品。
+yourself～喜歡你所討厭的你～*'》為[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第11張單曲作品。
 
 ## 概要
 
   - 這是KAT-TUN的第11張單曲作品，主打歌「Love
-    yourself～喜歡你所討厭的你～」，成員說道：「傳達了我們想要表達的訊息」是KAT-TUN新一章的自信作品。此外亦是團員[龜梨和也所主演之](../Page/龜梨和也.md "wikilink")[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[完美小姐進化論](../Page/完美小姐進化論.md "wikilink")》的主題曲。
+    yourself～喜歡你所討厭的你～」，成員說道：「傳達了我們想要表達的訊息」是KAT-TUN新一章的自信作品。此外亦是團員[龜梨和也](../Page/龜梨和也.md "wikilink")所主演之[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[完美小姐進化論](../Page/完美小姐進化論.md "wikilink")》的主題曲。
   - 第2首主打歌「THE D-MOTION」是六人所代言的DX廣告歌曲。
   - 初回限定盤1中收錄了「Love yourself～喜歡你所討厭的你～」的Video
     Cilp，並收錄Making影片，以及附加另一首副歌「因為我愛妳」（龜梨和也的獨唱曲）。

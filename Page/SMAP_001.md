@@ -1,4 +1,4 @@
-『**SMAP 001**』是[SMAP首張專輯](../Page/SMAP.md "wikilink")，於1992年1月1日由[Victor
+『**SMAP 001**』是[SMAP](../Page/SMAP.md "wikilink")首張專輯，於1992年1月1日由[Victor
 Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 簡介

@@ -1,4 +1,4 @@
-《**惡魔城XX**》（）是日本[科樂美集團旗下遊戲部門所開發的](../Page/科樂美.md "wikilink")[惡魔城系列](https://zh.wikipedia.org/wiki/惡魔城 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，這是在[SFC上的第二作](https://zh.wikipedia.org/wiki/SFC "wikilink")；雖然是[惡魔城X
+《**惡魔城XX**》（）是日本[科樂美](../Page/科樂美.md "wikilink")集團旗下遊戲部門所開發的[惡魔城系列](https://zh.wikipedia.org/wiki/惡魔城 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，這是在[SFC上的第二作](https://zh.wikipedia.org/wiki/SFC "wikilink")；雖然是[惡魔城X
 血之輪迴的移植作](../Page/惡魔城X_血之輪迴.md "wikilink")，不過在關卡以及劇情上都做了極大幅度的修改。
 
 ## 劇情

@@ -1,6 +1,6 @@
 **杰西昂·特雷尔·泰勒** （）出生于1979年11月29日，因其艺名**Game**（最初为**The
 Game**）知名，是一名美国[说唱歌手](https://zh.wikipedia.org/wiki/说唱歌手 "wikilink")。他因2005年的首张专辑《The
-Documentary》和两个[格莱美奖提名而一举成名](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")。从那以后，他被认为是带领[西海岸嘻哈融入主流](../Page/西海岸嘻哈.md "wikilink")，并和[东海岸嘻哈向抗衡的驱动力](../Page/东海岸嘻哈.md "wikilink")。\[1\]\[2\]\[3\]
+Documentary》和两个[格莱美奖提名而一举成名](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")。从那以后，他被认为是带领[西海岸嘻哈](../Page/西海岸嘻哈.md "wikilink")融入主流，并和[东海岸嘻哈](../Page/东海岸嘻哈.md "wikilink")向抗衡的驱动力。\[1\]\[2\]\[3\]
 
 除了发布了三张“[公告牌二百强专辑榜](../Page/公告牌二百强专辑榜.md "wikilink")”排行榜冠军专辑外，Game还因和多名说唱歌手不和留下恶名。他的音乐大多属于[黑幫嘻哈的主流](https://zh.wikipedia.org/wiki/黑幫嘻哈 "wikilink")，一种盛行于[康普顿的嘻哈音乐形式](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。
 

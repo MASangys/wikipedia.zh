@@ -1,12 +1,12 @@
 **Bersarin
-Quartett**是[德國的一支](https://zh.wikipedia.org/wiki/德國 "wikilink")[電子音樂樂團](../Page/電子音樂.md "wikilink")，由湯瑪斯·布克（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：****）一人組成。\[1\]\[2\]
+Quartett**是[德國的一支](https://zh.wikipedia.org/wiki/德國 "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")樂團，由湯瑪斯·布克（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：****）一人組成。\[1\]\[2\]
 
 ## 簡介
 
 ### 樂團簡史
 
-湯瑪斯·布克定點於[北萊因-西發里亞](https://zh.wikipedia.org/wiki/北莱茵-威斯特法伦州 "wikilink")[邦](https://zh.wikipedia.org/wiki/邦 "wikilink")[明斯特市](../Page/明斯特.md "wikilink")，並在2006年開始以Bersarin
-Quartett的名義出現於Aerotone[唱片公司發行的Electronica](../Page/唱片公司.md "wikilink")
+湯瑪斯·布克定點於[北萊因-西發里亞](https://zh.wikipedia.org/wiki/北莱茵-威斯特法伦州 "wikilink")[邦](https://zh.wikipedia.org/wiki/邦 "wikilink")[明斯特](../Page/明斯特.md "wikilink")市，並在2006年開始以Bersarin
+Quartett的名義出現於Aerotone[唱片公司](../Page/唱片公司.md "wikilink")發行的Electronica
 Unplugged系列的專輯中。\[3\]\[4\]2008年，Bersarin Quartett推出首張專輯。\[5\]
 
 ## 音樂作品

@@ -1,5 +1,5 @@
 《**Super Noisy
-Nova**》（）是聲優團體[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年7月29日由[Lantis發行](../Page/Lantis.md "wikilink")。
+Nova**》（）是聲優團體[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年7月29日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要
 

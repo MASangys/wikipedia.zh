@@ -1,4 +1,4 @@
-《**HERO**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2009年11月18日起播放的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[李準基](../Page/李準基.md "wikilink")、[尹素怡](../Page/尹素怡.md "wikilink")、[嚴基俊](../Page/嚴基俊.md "wikilink")、[申珠雅主演](../Page/申珠雅.md "wikilink")。
+《**HERO**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2009年11月18日起播放的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[李準基](../Page/李準基.md "wikilink")、[尹素怡](../Page/尹素怡.md "wikilink")、[嚴基俊](../Page/嚴基俊.md "wikilink")、[申珠雅](../Page/申珠雅.md "wikilink")主演。
 
 ## 播出時間
 
@@ -9,17 +9,17 @@
 
 ## 故事大綱
 
-陳道赫（[李準基飾](../Page/李準基.md "wikilink")），十歲時親眼目睹父母的車禍事故。後與姊姊陳道熙（[張美楠飾](https://zh.wikipedia.org/wiki/張美楠 "wikilink")）相依為命。因為受到父親的影響，立志成為一位替弱勢伸張正義的記者。原本在
+陳道赫（[李準基](../Page/李準基.md "wikilink")飾），十歲時親眼目睹父母的車禍事故。後與姊姊陳道熙（[張美楠飾](https://zh.wikipedia.org/wiki/張美楠 "wikilink")）相依為命。因為受到父親的影響，立志成為一位替弱勢伸張正義的記者。原本在
 MONDAY-首爾
-報社擔任記者，因為準備報導15年前入獄的前雙斧幫老大趙龍德（[白潤植飾](../Page/白潤植.md "wikilink")）出獄的消息，其報社社長因某些原因受到國內最大報社-
+報社擔任記者，因為準備報導15年前入獄的前雙斧幫老大趙龍德（[白潤植](../Page/白潤植.md "wikilink")飾）出獄的消息，其報社社長因某些原因受到國內最大報社-
 大世日報社長的威脅而惡性倒閉。道赫與趙龍德經歷一番波折後，終於成立龍德報社，而報社成員就是以前與道赫一同共事的同伴...
 
 大世日報社長- 崔日斗的手下-
 孔七城，正是15年前假造車禍意外害死道赫父母的人，因為怕趙龍德會因而報復，所以告訴道赫假消息，道赫因而相信是趙龍德謀殺他的父母。後誤會冰釋，道赫也確定當年是崔日斗派孔七城去殺了他父母的，因而決定擊垮大世日報，而大世日報社長的準女婿-
-姜海城（[嚴基俊飾](../Page/嚴基俊.md "wikilink")），正是道赫高中時代的同學，但當時為了競選學生會長，姜海城便放出假消息說道赫買票，在道赫心中有極不好的印象...
+姜海城（[嚴基俊](../Page/嚴基俊.md "wikilink")飾），正是道赫高中時代的同學，但當時為了競選學生會長，姜海城便放出假消息說道赫買票，在道赫心中有極不好的印象...
 
 江山警局的重案二組組長-
-朱在仁（[尹素怡飾](../Page/尹素怡.md "wikilink")），原先喜歡姜海城，因而不喜歡道赫，但後來發現自己被姜海城利用，便漸漸相信道赫說的話，進而發現道赫的好，還破例幫道赫尋找突然失蹤的朋友-
+朱在仁（[尹素怡](../Page/尹素怡.md "wikilink")飾），原先喜歡姜海城，因而不喜歡道赫，但後來發現自己被姜海城利用，便漸漸相信道赫說的話，進而發現道赫的好，還破例幫道赫尋找突然失蹤的朋友-
 朴秀晶社長（[崔秀林飾](https://zh.wikipedia.org/wiki/崔秀林 "wikilink")，酒店社長，在道赫眼裡是比親姊姊還要親的人)）...
 
 ## 角色
@@ -109,4 +109,4 @@ MONDAY-首爾
 [Category:新聞行業題材電視節目](https://zh.wikipedia.org/wiki/Category:新聞行業題材電視節目 "wikilink")
 [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
 
-1.  原定由[金玟廷出演](../Page/金玟廷.md "wikilink")，後來因行程無法配合，而改由[尹素怡出演](../Page/尹素怡.md "wikilink")。
+1.  原定由[金玟廷](../Page/金玟廷.md "wikilink")出演，後來因行程無法配合，而改由[尹素怡](../Page/尹素怡.md "wikilink")出演。

@@ -2,7 +2,7 @@
 Blogger](https://zh.wikipedia.org/wiki/Google_Blogger "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Live
 Journal與](https://zh.wikipedia.org/wiki/Live_Journal "wikilink")[Fotki等](https://zh.wikipedia.org/wiki/Fotki "wikilink")[網路服務中所使用的](https://zh.wikipedia.org/wiki/網路服務 "wikilink")[帳號](https://zh.wikipedia.org/wiki/帳號 "wikilink")。在2009年8月6日，有[駭客針對這個帳號對上述各網站發起](https://zh.wikipedia.org/wiki/駭客 "wikilink")[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")，其中Twitter因此斷線數小時，並在之後一段時間連線速度受到影響。
 
-Cyxymu說自己的真實名字是გორკი（高尔基），他是一位[經濟學講師](https://zh.wikipedia.org/wiki/經濟學 "wikilink")，34歲。他表示自己批評[莫斯科對](../Page/莫斯科.md "wikilink")[高加索地區的政策](../Page/高加索.md "wikilink")，這些攻擊是為了希望他停止這些言論。გორკი還表示，他相信這些攻擊是由[КГБ主導](https://zh.wikipedia.org/wiki/克格勃 "wikilink")。
+Cyxymu說自己的真實名字是გორკი（高尔基），他是一位[經濟學講師](https://zh.wikipedia.org/wiki/經濟學 "wikilink")，34歲。他表示自己批評[莫斯科](../Page/莫斯科.md "wikilink")對[高加索](../Page/高加索.md "wikilink")地區的政策，這些攻擊是為了希望他停止這些言論。გორკი還表示，他相信這些攻擊是由[КГБ主導](https://zh.wikipedia.org/wiki/克格勃 "wikilink")。
 
 ## 參考資料
 

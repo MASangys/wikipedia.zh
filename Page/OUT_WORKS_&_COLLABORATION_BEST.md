@@ -1,5 +1,5 @@
 《**OUT WORKS & COLLABORATION
-BEST**》於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未的首張合作精選輯](../Page/倖田來未.md "wikilink")。
+BEST**》於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")的首張合作精選輯。
 
 ## 附註
 

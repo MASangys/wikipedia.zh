@@ -1,16 +1,16 @@
 《**Get
-along**》於1995年5月24日發售，是[林原惠和](../Page/林原惠.md "wikilink")[奧井雅美合唱的](../Page/奧井雅美.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+along**》於1995年5月24日發售，是[林原惠](../Page/林原惠.md "wikilink")和[奧井雅美](../Page/奧井雅美.md "wikilink")合唱的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 由[STAR
 CHILD發行](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")，[King
 Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")（KIDA-107）
 
 ## 概要
 
-  - 為《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》無印的主題曲，在該動畫的原聲帶中，收錄了動畫前段由[莉娜的配音員](../Page/莉娜·因巴斯.md "wikilink")[林原惠所說的口白的專輯版本](../Page/林原惠.md "wikilink")。
+  - 為《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》無印的主題曲，在該動畫的原聲帶中，收錄了動畫前段由[莉娜的配音員](../Page/莉娜·因巴斯.md "wikilink")[林原惠](../Page/林原惠.md "wikilink")所說的口白的專輯版本。
   - 因兩首歌曲皆為合唱，所以皆沒有收錄至對方的原創專輯中，但奧井曾在演唱會獨唱，林原也在2006年發行的單曲《[Meet
     again](../Page/Meet_again.md "wikilink")》中將合唱中奧井的部分重新錄製音源收錄。
-  - 「KUJIKENAIKARA\!」有[下川美娜和](../Page/下川美娜.md "wikilink")[野川櫻一起翻唱過](../Page/野川櫻.md "wikilink")。
-  - [Oricon單曲排行榜有](../Page/Oricon.md "wikilink")8週進榜，最高名次為第36名。
+  - 「KUJIKENAIKARA\!」有[下川美娜](../Page/下川美娜.md "wikilink")和[野川櫻](../Page/野川櫻.md "wikilink")一起翻唱過。
+  - [Oricon](../Page/Oricon.md "wikilink")單曲排行榜有8週進榜，最高名次為第36名。
 
 ## 收錄曲
 

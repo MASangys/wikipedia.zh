@@ -1,5 +1,5 @@
 **The xx**（英文唸法：The
-"ex""ex"）是一個起於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦西南](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[旺茲沃思區並於](../Page/旺茲沃思區.md "wikilink")2005年組成的樂團。\[1\]
+"ex""ex"）是一個起於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦西南](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[旺茲沃思區](../Page/旺茲沃思區.md "wikilink")並於2005年組成的樂團。\[1\]
 
 團體裡原本的四個成員於 [Elliott
 School](https://zh.wikipedia.org/wiki/Elliott_School_\(London\) "wikilink")

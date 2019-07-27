@@ -1,5 +1,5 @@
 **Victory巡回演唱会**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Victory
-Tour**），1984年举行，演出地点包括[美国和](../Page/美国.md "wikilink")[加拿大](../Page/加拿大.md "wikilink")，是[杰克逊五人组最后一次巡回演唱会](https://zh.wikipedia.org/wiki/杰克逊五人组 "wikilink")。1984年7月6日开始，同年12月9日结束，共55场演出和约200万名观众入场观看。该巡演的名称来源于杰克逊五人组新发行的专辑[Victory](https://zh.wikipedia.org/wiki/Victory（专辑） "wikilink")，此专辑的所有歌曲都在此次巡演上表演。此次巡演总收入达17,500,000[美元](../Page/美元.md "wikilink")，破了当时大型巡演的记录
+Tour**），1984年举行，演出地点包括[美国](../Page/美国.md "wikilink")和[加拿大](../Page/加拿大.md "wikilink")，是[杰克逊五人组最后一次巡回演唱会](https://zh.wikipedia.org/wiki/杰克逊五人组 "wikilink")。1984年7月6日开始，同年12月9日结束，共55场演出和约200万名观众入场观看。该巡演的名称来源于杰克逊五人组新发行的专辑[Victory](https://zh.wikipedia.org/wiki/Victory（专辑） "wikilink")，此专辑的所有歌曲都在此次巡演上表演。此次巡演总收入达17,500,000[美元](../Page/美元.md "wikilink")，破了当时大型巡演的记录
 
 巡演结束后，杰克逊五兄弟将500万美元捐赠给慈善机构，包括[TJ
 Martell白血病和癌症研究所基金会](https://zh.wikipedia.org/wiki/TJ_Martell白血病和癌症研究所基金会 "wikilink")、[黑人联合大学基金会和](https://zh.wikipedia.org/wiki/黑人联合大学基金会 "wikilink")[罗纳德·麦当劳美好时光野营](https://zh.wikipedia.org/wiki/罗纳德·麦当劳美好时光野营 "wikilink")（由于当时美国发生了严重的儿童[绑架](https://zh.wikipedia.org/wiki/绑架 "wikilink")[杀害事件](https://zh.wikipedia.org/wiki/杀害 "wikilink")，此次捐款也是为了平息儿童的恐慌）。

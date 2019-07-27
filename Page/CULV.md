@@ -1,4 +1,4 @@
-**CULV**（）是[Intel在](https://zh.wikipedia.org/wiki/Intel "wikilink")2009年推出的[筆記型電腦平台](../Page/筆記型電腦.md "wikilink")\[1\]\[2\]，意為消費型的ULV（Ultra
+**CULV**（）是[Intel在](https://zh.wikipedia.org/wiki/Intel "wikilink")2009年推出的[筆記型電腦](../Page/筆記型電腦.md "wikilink")平台\[1\]\[2\]，意為消費型的ULV（Ultra
 Low
 Voltage，超低電壓）[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，提供更低[電壓](../Page/電壓.md "wikilink")、更省電的功能。
 

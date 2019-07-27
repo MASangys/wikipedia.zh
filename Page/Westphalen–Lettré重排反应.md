@@ -1,6 +1,6 @@
 **Westphalen-Lettré重排反应**（Westphalen-Lettré rearrangement）
 
-[胆甾烷](../Page/胆甾烷.md "wikilink")-3β,5α,6β-三醇二乙酸酯用[乙酸酐和](../Page/乙酸酐.md "wikilink")[硫酸处理时](../Page/硫酸.md "wikilink")，失去一分子水，在
+[胆甾烷](../Page/胆甾烷.md "wikilink")-3β,5α,6β-三醇二乙酸酯用[乙酸酐](../Page/乙酸酐.md "wikilink")和[硫酸](../Page/硫酸.md "wikilink")处理时，失去一分子水，在
 C10-C11 间生成双键，并且 C10 连接的甲基（C19）迁移至 C5。\[1\]\[2\] \[3\]
 
 

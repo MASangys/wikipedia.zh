@@ -1,5 +1,5 @@
 **Apache
-Cassandra**（社区内一般简称为C\*）是一套开源分布式[NoSQL数据库系统](../Page/NoSQL.md "wikilink")。它最初由[Facebook开发](../Page/Facebook.md "wikilink")，用于储存收件箱等简单格式数据，集[Google](../Page/Google.md "wikilink")
+Cassandra**（社区内一般简称为C\*）是一套开源分布式[NoSQL](../Page/NoSQL.md "wikilink")数据库系统。它最初由[Facebook](../Page/Facebook.md "wikilink")开发，用于储存收件箱等简单格式数据，集[Google](../Page/Google.md "wikilink")
 [BigTable的数据模型与](https://zh.wikipedia.org/wiki/BigTable "wikilink")[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")
 [Dynamo的完全分布式架构于一身](https://zh.wikipedia.org/wiki/Dynamo "wikilink")。Facebook于2008将
 Cassandra
@@ -11,12 +11,12 @@ Ranking”中，Cassandra排在第七位，是非关系型数据库中排名第�
 ## 历史
 
 Cassandra
-的名称来源于[希腊神话](../Page/希腊神话.md "wikilink")，是[特洛伊的一位悲剧性的女先知的名字](../Page/特洛伊.md "wikilink")，因此项目的[Logo是一只放光的眼睛](https://zh.wikipedia.org/wiki/Logo "wikilink")。
+的名称来源于[希腊神话](../Page/希腊神话.md "wikilink")，是[特洛伊](../Page/特洛伊.md "wikilink")的一位悲剧性的女先知的名字，因此项目的[Logo是一只放光的眼睛](https://zh.wikipedia.org/wiki/Logo "wikilink")。
 
-这个项目由就职于[Facebook的Avinash](../Page/Facebook.md "wikilink")
+这个项目由就职于[Facebook](../Page/Facebook.md "wikilink")的Avinash
 Lakshman（也是[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink")
 的作者之一）和Prashant
-Malik在为[Facebook的Inbox编写](../Page/Facebook.md "wikilink")。2008年，[Facebook将项目开源](../Page/Facebook.md "wikilink")，Cassandra在2009年成为了[Apache软件基金会的Incubator项目](../Page/Apache软件基金会.md "wikilink")，并在2010年2月走出孵化器，成为正式的基金会项目。目前这个项目主要由专门进行Cassandra商业化运作的[DataStax](http://www.datastax.com/)公司来开发，也有一些来自其他公司或独立的开发者\[9\]。
+Malik在为[Facebook](../Page/Facebook.md "wikilink")的Inbox编写。2008年，[Facebook](../Page/Facebook.md "wikilink")将项目开源，Cassandra在2009年成为了[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的Incubator项目，并在2010年2月走出孵化器，成为正式的基金会项目。目前这个项目主要由专门进行Cassandra商业化运作的[DataStax](http://www.datastax.com/)公司来开发，也有一些来自其他公司或独立的开发者\[9\]。
 
 ### 主要版本和主要改进\[10\]
 

@@ -1,5 +1,5 @@
 **KV-1坦克**
-（），是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰中的主力](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克KV系列第一型](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，以[蘇聯國防人民委員會委員](https://zh.wikipedia.org/wiki/蘇聯國防人民委員會 "wikilink")——[克里门特·伏罗希洛夫](https://zh.wikipedia.org/wiki/克里门特·伏罗希洛夫 "wikilink")[元帥命名](https://zh.wikipedia.org/wiki/元帥 "wikilink")。KV坦克系列以它們的厚重裝甲為名；德國进攻蘇聯時，KV坦克是少數同時能抵擋37和50毫米口徑[反坦克砲的坦克](../Page/反坦克炮.md "wikilink")。在德國的[巴巴羅薩行動以前](../Page/巴巴羅薩行動.md "wikilink")，蘇聯的22000輛坦克中約有500輛KV-1坦克服役。隨著KV-1坦克的成功，蘇聯相繼研發了它的改良版：[KV-2](../Page/KV-2坦克.md "wikilink")、[KV-85和諸多衍生型](../Page/KV-85坦克.md "wikilink")。
+（），是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰中的主力](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克KV系列第一型](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，以[蘇聯國防人民委員會委員](https://zh.wikipedia.org/wiki/蘇聯國防人民委員會 "wikilink")——[克里门特·伏罗希洛夫](https://zh.wikipedia.org/wiki/克里门特·伏罗希洛夫 "wikilink")[元帥命名](https://zh.wikipedia.org/wiki/元帥 "wikilink")。KV坦克系列以它們的厚重裝甲為名；德國进攻蘇聯時，KV坦克是少數同時能抵擋37和50毫米口徑[反坦克砲的坦克](../Page/反坦克炮.md "wikilink")。在德國的[巴巴羅薩行動](../Page/巴巴羅薩行動.md "wikilink")以前，蘇聯的22000輛坦克中約有500輛KV-1坦克服役。隨著KV-1坦克的成功，蘇聯相繼研發了它的改良版：[KV-2](../Page/KV-2坦克.md "wikilink")、[KV-85和諸多衍生型](../Page/KV-85坦克.md "wikilink")。
 
 ## 發展
 
@@ -22,13 +22,11 @@ Yermolaev）於[基洛夫工廠所研製](https://zh.wikipedia.org/wiki/基洛�
 毫米、車身 90
 毫米的厚重裝甲，重要的是，採用寬履帶的KV-1分散了重量，能夠過得了許多原本會被壓壞的木橋。但KV-1的缺點是早期的離合器和傳動器協調性差，換檔時需要先停車，乘員艙又視野狹小、缺乏無線電，影響其作戰能力。
 
-當[蘇德戰爭開始後](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")，KV-1坦克開始與德軍交鋒，到1941年6月時基洛夫工廠已生產了636輛。當時德軍主要使用的[反坦克砲](https://zh.wikipedia.org/wiki/反坦克砲 "wikilink")、[坦克砲都無法擊毀其](https://zh.wikipedia.org/wiki/坦克砲 "wikilink")90毫米厚的炮塔前部裝甲（後期前方裝甲還增加25mm裝甲板至100毫米），對德軍震懾力強，因而開發其他如KV-1S、[SU-152等衍生車](../Page/SU-152.md "wikilink")；相較之下，SMK、T-35等重型多砲塔坦克常因故障而停駛，被視為阻礙道路交通的一大問題，甚至故障數量比被德軍擊毀者還多。
+當[蘇德戰爭開始後](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")，KV-1坦克開始與德軍交鋒，到1941年6月時基洛夫工廠已生產了636輛。當時德軍主要使用的[反坦克砲](https://zh.wikipedia.org/wiki/反坦克砲 "wikilink")、[坦克砲都無法擊毀其](https://zh.wikipedia.org/wiki/坦克砲 "wikilink")90毫米厚的炮塔前部裝甲（後期前方裝甲還增加25mm裝甲板至100毫米），對德軍震懾力強，因而開發其他如KV-1S、[SU-152](../Page/SU-152.md "wikilink")等衍生車；相較之下，SMK、T-35等重型多砲塔坦克常因故障而停駛，被視為阻礙道路交通的一大問題，甚至故障數量比被德軍擊毀者還多。
 
-隨著德軍進逼[列寧格勒](https://zh.wikipedia.org/wiki/列寧格勒 "wikilink")，基洛夫工廠遂進行撤離，而於1941年改由[車里雅賓斯克牽引車廠](https://zh.wikipedia.org/wiki/車里雅賓斯克牽引車廠 "wikilink")（Chelyabinsk
-Tractor
-Factory）接手生產。而撤到車里雅賓斯克的基洛夫工廠和車里雅賓斯克牽引車廠合併，再加上其他撤到該處的工業，組成一生產複合體——「坦克格勒」（Tankograd，戰車城之意），並一度為蘇聯在戰爭時期所剩下的唯一一個製造重戰車及重自走砲的生產機構。
+隨著德軍進逼[列寧格勒](https://zh.wikipedia.org/wiki/列寧格勒 "wikilink")，基洛夫工廠遂進行撤離，而於1941年改由[車里雅賓斯克牽引車廠接手生產](https://zh.wikipedia.org/wiki/車里雅賓斯克牽引車廠 "wikilink")。而撤到車里雅賓斯克的基洛夫工廠和車里雅賓斯克牽引車廠合併，再加上其他撤到該處的工業，組成一生產複合體——「坦克格勒」（Tankograd，戰車城之意），並一度為蘇聯在戰爭時期所剩下的唯一一個製造重戰車及重自走砲的生產機構。
 
-到了後期，由於裝甲的強化，重量也成為KV-1的主要缺點，雖然不斷更換離合器、新型的砲塔、較長的砲管，並將部分裝甲的焊接部份改成鑄造式，它的可靠性還是不如[中坦克](https://zh.wikipedia.org/wiki/中坦克 "wikilink")[T-34](../Page/T-34坦克.md "wikilink")，於是KV-1的生產開始被轉移，KV系列的其他坦克亦如此。同時，也因為不敵[四號坦克的強化型](../Page/四號坦克.md "wikilink")、[虎式坦克](https://zh.wikipedia.org/wiki/虎式坦克 "wikilink")、新型反坦克砲、[豹式坦克](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")，壓縮了KV-1的威脅能力，蘇軍因此開始開發新型的重型坦克——[IS-1坦克](https://zh.wikipedia.org/wiki/IS系列戰車 "wikilink")，用以取代KV系列。
+到了後期，由於裝甲的強化，重量也成為KV-1的主要缺點，雖然不斷更換離合器、新型的砲塔、較長的砲管，並將部分裝甲的焊接部份改成鑄造式，它的可靠性還是不如[中坦克](https://zh.wikipedia.org/wiki/中坦克 "wikilink")[T-34](../Page/T-34坦克.md "wikilink")，於是KV-1的生產開始被轉移，KV系列的其他坦克亦如此。同時，也因為不敵[四號坦克](../Page/四號坦克.md "wikilink")的強化型、[虎式坦克](https://zh.wikipedia.org/wiki/虎式坦克 "wikilink")、新型反坦克砲、[豹式坦克](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")，壓縮了KV-1的威脅能力，蘇軍因此開始開發新型的重型坦克——[IS-1坦克](https://zh.wikipedia.org/wiki/IS系列戰車 "wikilink")，用以取代KV系列。
 
 ## 乘员
 
@@ -391,7 +389,7 @@ V-2-IS</p></td>
 ### KV-1S-85
 
   -
-    直接把85毫米S-31炮装在[KV-1S的炮塔上的方案](https://zh.wikipedia.org/wiki/KV-1S重型战车 "wikilink")。因为性能不如装有IS-1炮塔的[KV-85坦克而停止研发](../Page/KV-85坦克.md "wikilink")，仅一辆原型车\[2\]。
+    直接把85毫米S-31炮装在[KV-1S的炮塔上的方案](https://zh.wikipedia.org/wiki/KV-1S重型战车 "wikilink")。因为性能不如装有IS-1炮塔的[KV-85坦克](../Page/KV-85坦克.md "wikilink")而停止研发，仅一辆原型车\[2\]。
 
 ### KV-122
 

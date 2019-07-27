@@ -1,5 +1,5 @@
 **Bad World
-Tour**（**Bad世界巡回演唱会**），是流行乐天王[麥可·傑克森的第一次世界巡回演唱会](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")。该巡演开始于1987年9月12日，结束于1989年1月27日，演出地点包括[美国](../Page/美国.md "wikilink")、[欧洲](../Page/欧洲.md "wikilink")、[日本和](../Page/日本.md "wikilink")[澳大利亚](../Page/澳大利亚.md "wikilink")，共15个国家，4.4百万歌迷入场观看，总收入高达1.25亿[美元](../Page/美元.md "wikilink")，打破[貓王皮禮士利的紀錄](https://zh.wikipedia.org/wiki/貓王 "wikilink")。\[1\]\[2\]这时杰克逊第一次，也是最成功的一次巡演。
+Tour**（**Bad世界巡回演唱会**），是流行乐天王[麥可·傑克森的第一次世界巡回演唱会](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")。该巡演开始于1987年9月12日，结束于1989年1月27日，演出地点包括[美国](../Page/美国.md "wikilink")、[欧洲](../Page/欧洲.md "wikilink")、[日本](../Page/日本.md "wikilink")和[澳大利亚](../Page/澳大利亚.md "wikilink")，共15个国家，4.4百万歌迷入场观看，总收入高达1.25亿[美元](../Page/美元.md "wikilink")，打破[貓王皮禮士利的紀錄](https://zh.wikipedia.org/wiki/貓王 "wikilink")。\[1\]\[2\]这时杰克逊第一次，也是最成功的一次巡演。
 
 在每一场[演唱会](https://zh.wikipedia.org/wiki/演唱会 "wikilink")，杰克逊为贫困儿童送去了400张门票，这些门票的送达地点包括[孤儿院](https://zh.wikipedia.org/wiki/孤儿院 "wikilink")、[慈善机构和](https://zh.wikipedia.org/wiki/慈善机构 "wikilink")[医院](https://zh.wikipedia.org/wiki/医院 "wikilink")。
 

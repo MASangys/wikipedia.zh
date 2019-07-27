@@ -38,7 +38,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
       - 作詞：古屋真、作曲：KOUTAPAI、編曲：鈴木ヒロト
 14. [こいのうた](../Page/戀之歌.md "wikilink")
       - 作詞、作曲：荒巻修久、編曲：齋藤真也
-      - 動畫《[神曲奏界POLYPHONICA crimsonS](../Page/神曲奏界.md "wikilink")》片尾曲
+      - 動畫《[神曲奏界 crimsonS](../Page/神曲奏界.md "wikilink")POLYPHONICA》片尾曲
 
 ### DVD（初回生産限定盤）
 

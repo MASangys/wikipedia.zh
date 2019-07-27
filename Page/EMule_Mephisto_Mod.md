@@ -9,7 +9,7 @@ Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
 
 ## 历史
 
-[德国](../Page/德国.md "wikilink")[程序员](../Page/程序员.md "wikilink")、ScarAngel、[StulleMule等Mod的开发者Stulle于](https://zh.wikipedia.org/wiki/eMule_StulleMule_Mod "wikilink")2007年10月18日在[SourceForge上发布了Mephisto](../Page/SourceForge.md "wikilink")
+[德国](../Page/德国.md "wikilink")[程序员](../Page/程序员.md "wikilink")、ScarAngel、[StulleMule等Mod的开发者Stulle于](https://zh.wikipedia.org/wiki/eMule_StulleMule_Mod "wikilink")2007年10月18日在[SourceForge](../Page/SourceForge.md "wikilink")上发布了Mephisto
 1.0版。此软件修改自ScarAngel，作者称其为ScarAngel
 Mod的分支，其图标也代表着Xtreme和ScarAngel的“邪恶面”\[2\]。
 

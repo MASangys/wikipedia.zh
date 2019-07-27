@@ -1,5 +1,5 @@
 《**Only You
-只有您**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝愛情](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[李司棋](../Page/李司棋.md "wikilink")、[蒙嘉慧及](../Page/蒙嘉慧.md "wikilink")[鄭嘉穎領銜主演](../Page/鄭嘉穎.md "wikilink")，並由[田蕊妮及](../Page/田蕊妮.md "wikilink")[麥長青聯合主演](../Page/麥長青.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為[2011無綫節目巡禮劇集之一及](../Page/2011無綫節目巡禮.md "wikilink")2011\[愛的季節」呈獻劇集。
+只有您**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝愛情[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[李司棋](../Page/李司棋.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")及[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")領銜主演，並由[田蕊妮](../Page/田蕊妮.md "wikilink")及[麥長青](../Page/麥長青.md "wikilink")聯合主演，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為[2011無綫節目巡禮](../Page/2011無綫節目巡禮.md "wikilink")劇集之一及2011\[愛的季節」呈獻劇集。
 
 ## 演員表
 
@@ -117,7 +117,7 @@ Miki之男友、後來分手</p></td>
 張雪霞之子<br />
 麥一敏之弟<br />
 趙詠鳳之夫<br />
-童年由<a href="../Page/吳諾弘.md" title="wikilink">吳諾弘饰演</a></p></td>
+童年由<a href="../Page/吳諾弘.md" title="wikilink">吳諾弘</a>饰演</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/李亞男" title="wikilink">李亞男</a></strong></p></td>
@@ -145,7 +145,7 @@ Miki之男友、後來分手</p></td>
 <td><p>夏　江</p></td>
 <td><p><strong>Herbert</strong><br />
 商人、社交舞學員（實為騙子）<br />
-<a href="../Page/蘇恩磁.md" title="wikilink">蘇恩磁之夫</a>，後反目<br />
+<a href="../Page/蘇恩磁.md" title="wikilink">蘇恩磁</a>之夫，後反目<br />
 夏天生之父，後反目<br />
 於第19集被警方拘捕</p></td>
 </tr>
@@ -161,7 +161,7 @@ Miki之男友、後來分手</p></td>
 <td><p><strong>夏天生</strong></p></td>
 <td><p><strong>Summer</strong><br />
 「Only You」首席攝影师<br />
-<a href="../Page/蘇恩磁.md" title="wikilink">蘇恩磁之子</a><br />
+<a href="../Page/蘇恩磁.md" title="wikilink">蘇恩磁</a>之子<br />
 夏江之子，後反目<br />
 麥一敏之男友<br />
 韓芷瑤之男友，後分手<br />
@@ -1480,22 +1480,22 @@ Jenny之夫</p></td>
 
 ## 記事
 
-  - 2009年11月2日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠外灰位舉行試造型記者會](../Page/電視廣播城.md "wikilink")。\[3\]
-  - 2009年12月1日：此劇於15:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十三廠舉行開鏡拜神儀式](../Page/電視廣播城.md "wikilink")。\[4\]
-  - 2009年12月11日：此劇於10:00在[土瓜灣北帝街](../Page/土瓜灣.md "wikilink")60-62號東寶大樓12樓天台進行拍攝，參與拍攝藝人包括[田蕊妮](../Page/田蕊妮.md "wikilink")、[黃浩然及](../Page/黃浩然.md "wikilink")[江美儀等](../Page/江美儀.md "wikilink")。\[5\]
-  - 2011年2月20日：此劇於14:30在[屯門黃金海岸酒店地下低層宴會廳舉行](../Page/屯門.md "wikilink")《Only
+  - 2009年11月2日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠外灰位舉行試造型記者會。\[3\]
+  - 2009年12月1日：此劇於15:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")十三廠舉行開鏡拜神儀式。\[4\]
+  - 2009年12月11日：此劇於10:00在[土瓜灣](../Page/土瓜灣.md "wikilink")北帝街60-62號東寶大樓12樓天台進行拍攝，參與拍攝藝人包括[田蕊妮](../Page/田蕊妮.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")及[江美儀](../Page/江美儀.md "wikilink")等。\[5\]
+  - 2011年2月20日：此劇於14:30在[屯門](../Page/屯門.md "wikilink")黃金海岸酒店地下低層宴會廳舉行《Only
     You 只有您》之「I Do 我願意」宣傳活動。
   - 2011年3月4日：由於播映劇集《[魚躍在花見](../Page/魚躍在花見.md "wikilink")》兩小時大結局，此劇暫停播映一次。
-  - 2011年3月14日：此劇於15:30在[尖沙咀金馬倫道](../Page/尖沙咀.md "wikilink")22-24號東麗中心2樓Tandoori
+  - 2011年3月14日：此劇於15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")金馬倫道22-24號東麗中心2樓Tandoori
     Nights舉行《Only You 只有您》之「情定印度婚禮」宣傳活動。
   - 2011年3月18日：由於播映劇集《[依家有喜](../Page/依家有喜.md "wikilink")》一小時大結局，此劇順延至晚上21:00-22:00播映。
-  - 2011年3月25日：此劇於20:00在[屯門黃金海岸酒店地下低層翠篷廳舉行](../Page/屯門.md "wikilink")《Only
+  - 2011年3月25日：此劇於20:00在[屯門](../Page/屯門.md "wikilink")黃金海岸酒店地下低層翠篷廳舉行《Only
     You 只有您》之「Loving You浪漫之夜」宣傳活動。
   - 2011年4月1日：由於播映特備節目《[愛心無國界311燭光晚會](../Page/愛心無國界311燭光晚會.md "wikilink")》，此劇之兩小時大結局順延至4月2日晚上21:30-23:30播映。
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |           |                  |          |          |         |
 | ------ | --------- | ---------------- | -------- | -------- | ------- |

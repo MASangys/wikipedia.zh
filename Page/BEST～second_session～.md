@@ -1,5 +1,5 @@
 《**BEST ～second session～**》（再體驗
-～第二次精選～），2006年3月8日發行，[日本的](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未的第二張精選輯](../Page/倖田來未.md "wikilink")。
+～第二次精選～），2006年3月8日發行，[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")的第二張精選輯。
 
 ## 附註
 
@@ -22,7 +22,7 @@ happiness & love」，CD+2DVD為限定生產盤，並收錄所有附增項目。
 
 ## 音樂錄像帶
 
-  - [12週單曲連發的所有](../Page/12週單曲連發.md "wikilink")12首收錄單曲皆拍攝了音樂錄像帶，而新曲「Love
+  - [12週單曲連發](../Page/12週單曲連發.md "wikilink")的所有12首收錄單曲皆拍攝了音樂錄像帶，而新曲「Love
     goes like...」後來補拍了音樂錄像帶，並收錄於「[KODA KUMI LIVE TOUR 2006-2007 ～second
     session～](../Page/KODA_KUMI_LIVE_TOUR_2006-2007_～second_session～.md "wikilink")」中。
   - 12曲中的4曲「you」、「feel」、「Lies」、「Someday」依此順位拍成連續性故事。「Wish your happiness

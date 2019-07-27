@@ -1,9 +1,9 @@
 **Polonovski反应**（Polonovski reaction），以化学家 Max Polonovski (\*1861 -
 †1939) 的名字命名。\[1\]\[2\]\[3\]
 
-[叔胺](https://zh.wikipedia.org/wiki/叔胺 "wikilink")[氧化物在](../Page/氧化胺.md "wikilink")[醇溶液中用](../Page/醇.md "wikilink")[乙酸酐或](../Page/乙酸酐.md "wikilink")[乙酰氯处理](../Page/乙酰氯.md "wikilink")，一个
+[叔胺](https://zh.wikipedia.org/wiki/叔胺 "wikilink")[氧化物在](../Page/氧化胺.md "wikilink")[醇](../Page/醇.md "wikilink")溶液中用[乙酸酐](../Page/乙酸酐.md "wikilink")或[乙酰氯](../Page/乙酰氯.md "wikilink")处理，一个
 C-N
-键被切断，得到相应的[乙酰胺衍生物和](../Page/乙酰胺.md "wikilink")[醛](../Page/醛.md "wikilink")。
+键被切断，得到相应的[乙酰胺](../Page/乙酰胺.md "wikilink")衍生物和[醛](../Page/醛.md "wikilink")。
 
 ## 反应机理
 

@@ -1,5 +1,5 @@
 **Direct Rambus DRAM** 或稱 **DRDRAM**（有時也稱**Rambus DRAM** 或
-**RDRAM**）是[Rambus公司設計製造的一種同步](../Page/Rambus.md "wikilink")[DRAM](https://zh.wikipedia.org/wiki/Dynamic_Random_Access_Memory "wikilink")。
+**RDRAM**）是[Rambus](../Page/Rambus.md "wikilink")公司設計製造的一種同步[DRAM](https://zh.wikipedia.org/wiki/Dynamic_Random_Access_Memory "wikilink")。
 
 ## 實際應用
 
@@ -11,8 +11,8 @@ RDRAM相容，以400[MHz頻率工作並具有](https://zh.wikipedia.org/wiki/MHz
 資料在時脈訊號的上升(Positive Edge Trigger，PET)與下降(Negative Edge
 Trigger，NET)皆傳輸資料([雙向數據](https://zh.wikipedia.org/wiki/雙向數據 "wikilink"))。由於[銷售需要](https://zh.wikipedia.org/wiki/銷售 "wikilink")，命名方面為時脈頻率的二倍(避免與
 DDR
-記憶體命名方式重複)，400MHz規格的Rumbus被命名為PC800，使用64bit的168針[DIMM插座並提供](../Page/DIMM.md "wikilink")1066MB/s的傳輸速度。這比以前的
-PC-133 [SDRAM速度大幅提高](../Page/SDRAM.md "wikilink")(PC-133工作於133MHz)。
+記憶體命名方式重複)，400MHz規格的Rumbus被命名為PC800，使用64bit的168針[DIMM](../Page/DIMM.md "wikilink")插座並提供1066MB/s的傳輸速度。這比以前的
+PC-133 [SDRAM](../Page/SDRAM.md "wikilink")速度大幅提高(PC-133工作於133MHz)。
 
 [RAMBUS-Memory.jpg](https://zh.wikipedia.org/wiki/File:RAMBUS-Memory.jpg "fig:RAMBUS-Memory.jpg")
 
@@ -92,7 +92,7 @@ RDRAM為了達到800MHz的速度，與擁有64位匯流排的現代SDRAM DIMM不
 。
 
 1999年，使用Intel 840, Intel 820, [Intel
-440BX的基準測試中](https://zh.wikipedia.org/wiki/Intel_440BX "wikilink")，由於使用Rambus晶片組而獲得性能提高的，除了[工作站用途之外](../Page/工作站.md "wikilink")，與440BX晶片組和PC-133
+440BX的基準測試中](https://zh.wikipedia.org/wiki/Intel_440BX "wikilink")，由於使用Rambus晶片組而獲得性能提高的，除了[工作站](../Page/工作站.md "wikilink")用途之外，與440BX晶片組和PC-133
 SDRAM相比，價錢的大幅提高並不正常。[4](http://www.tomshardware.com/1999/12/15/the_rdram_avenger_/)。
 
 後來在2002年，單管道DDR

@@ -1,5 +1,5 @@
 《**Red
-Moon**》是[Kalafina的第](../Page/Kalafina.md "wikilink")2張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2010年3月17日由[SME
+Moon**》是[Kalafina](../Page/Kalafina.md "wikilink")的第2張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2010年3月17日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
 ## 收錄曲

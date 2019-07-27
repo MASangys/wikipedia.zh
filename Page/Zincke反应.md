@@ -1,13 +1,13 @@
 **Zincke反应**（Zincke reaction），以 Theodor Zincke 的名字命名。
 
-[吡啶类与](../Page/吡啶.md "wikilink")[2,4-二硝基氯苯和](https://zh.wikipedia.org/wiki/2,4-二硝基氯苯 "wikilink")[伯胺反应](https://zh.wikipedia.org/wiki/伯胺 "wikilink")，转变为[吡啶盐](https://zh.wikipedia.org/wiki/吡啶盐 "wikilink")。\[1\]\[2\]\[3\]
+[吡啶](../Page/吡啶.md "wikilink")类与[2,4-二硝基氯苯和](https://zh.wikipedia.org/wiki/2,4-二硝基氯苯 "wikilink")[伯胺反应](https://zh.wikipedia.org/wiki/伯胺 "wikilink")，转变为[吡啶盐](https://zh.wikipedia.org/wiki/吡啶盐 "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Zincke_Reaction.svg](https://zh.wikipedia.org/wiki/File:Zincke_Reaction.svg "fig:Zincke_Reaction.svg")
 
 ## 反应机理
 
-反应首步为*N*-2,4-二硝基苯基吡啶盐的生成。这个中间体一般分离出来后通过[重结晶纯化](../Page/重结晶.md "wikilink")。
+反应首步为*N*-2,4-二硝基苯基吡啶盐的生成。这个中间体一般分离出来后通过[重结晶](../Page/重结晶.md "wikilink")纯化。
 
 
 [Zincke_Reaction_Mechanism1.png](https://zh.wikipedia.org/wiki/File:Zincke_Reaction_Mechanism1.png "fig:Zincke_Reaction_Mechanism1.png")
@@ -29,7 +29,7 @@ resin）上\[8\]
 
 
 [ZinckeReactionSolidState.png](https://zh.wikipedia.org/wiki/File:ZinckeReactionSolidState.png "fig:ZinckeReactionSolidState.png")
-2、用于手性[异喹啉盐的合成](../Page/异喹啉.md "wikilink")\[9\]
+2、用于手性[异喹啉](../Page/异喹啉.md "wikilink")盐的合成\[9\]
 
 
 [Zinckereactionchiral.png](https://zh.wikipedia.org/wiki/File:Zinckereactionchiral.png "fig:Zinckereactionchiral.png")

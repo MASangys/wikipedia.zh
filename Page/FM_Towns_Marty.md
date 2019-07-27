@@ -1,9 +1,9 @@
-是[日本](../Page/日本.md "wikilink")[富士通公司在](../Page/富士通.md "wikilink")1993年于日本市场发布的一款游戏机。
+是[日本](../Page/日本.md "wikilink")[富士通](../Page/富士通.md "wikilink")公司在1993年于日本市场发布的一款游戏机。
 
 ## 历史
 
 FM Towns
-Marty是历史上第一台[32位家庭游戏机](https://zh.wikipedia.org/wiki/32位 "wikilink")，内置[CD-ROM和](../Page/CD-ROM.md "wikilink")[软盘驱动器](../Page/软盘.md "wikilink")。它基于之前的1989年[FM
+Marty是历史上第一台[32位家庭游戏机](https://zh.wikipedia.org/wiki/32位 "wikilink")，内置[CD-ROM](../Page/CD-ROM.md "wikilink")和[软盘](../Page/软盘.md "wikilink")驱动器。它基于之前的1989年[FM
 Towns](../Page/FM_Towns.md "wikilink")，并兼容此机器的游戏。
 
 1994年，新版本的*FM Towns Marty
@@ -65,48 +65,10 @@ Sprites:最大1024 sprites,16 x 16 sprite规格
 
 ### Multi-Purpose
 
-  - [PCMCIA](https://zh.wikipedia.org/wiki/PCMCIA "wikilink") type 1 接口
+  - \[\[PCMCIA|PCMCIA\]
 
-Marty的IC Card插口兼容type 1
-PCMCIA卡，包括装有电源的SRAM卡（可从BIOS菜单读取）并将其当作一个小盘来用。富士通也发行过一个PCMCIA
-2400bps[调制解调器](../Page/调制解调器.md "wikilink")(FMM-CM301)。这个调制解调器是一些特别定制的有打印机口的TCMarty的附带品。有人认为IC
-Card插口可以扩充内存，这是不可能的事。
-
-### 手柄
-
-  - 4向方向键，2个发射键，选择，运行
-  - 2个标准手柄插口
-  - 键盘口
-
-手柄插口叫DB9也就是兼容[Atari
-2600的](https://zh.wikipedia.org/wiki/Atari_2600 "wikilink")“Atari
-Type”插口。选择、运行两个键也可以用同时按住上下，或者同时按住左右代替。富士通也曾为[Capcom的](https://zh.wikipedia.org/wiki/Capcom "wikilink")[街头霸王2出过一款](https://zh.wikipedia.org/wiki/街头霸王2 "wikilink")6键手柄。[Capcom也曾为FM](https://zh.wikipedia.org/wiki/Capcom "wikilink")
-Towns/Marty和[Sharp
-X68000出过一款兼容的CPS](https://zh.wikipedia.org/wiki/Sharp_X68000 "wikilink")
-Fighter摇杆转接器。 \[3\]\[4\]
-
-## 参考
-
-## 外部链接
-
-  - [概况及图片](http://members.tripod.com/~faberp/marty.htm)
-  - [Console
-    Database资料](http://www.consoledatabase.com/consoleinfo/fujitsufmtownsmarty/)
-  - [FM Towns Marty
-    Disassembly](https://web.archive.org/web/20070927204426/http://nfggames.com/forum/index.php?showtopic=2130&hl=)
-  - [FM Towns Controller
-    Connector](http://www.gamesx.com/wiki/doku.php?id=controls:fm_towns_controller)
-  - [Xe,一个多机种模拟器](http://xe-emulator.com/)
-  - [Fm Towns
-    Marty游戏数据库](https://web.archive.org/web/20091018102908/http://www.gamescollection.it/special/show/63)
-
-[Category:第五世代遊戲機](https://zh.wikipedia.org/wiki/Category:第五世代遊戲機 "wikilink")
-[Category:FM_Towns](https://zh.wikipedia.org/wiki/Category:FM_Towns "wikilink")
-[Category:1993年面世的產品](https://zh.wikipedia.org/wiki/Category:1993年面世的產品 "wikilink")
+<!-- end list -->
 
 1.
 2.  [FM TOWNS MARTY On
     ultimateconsoledatabase](http://ultimateconsoledatabase.com/golden/fm_towns_marty.htm)
-3.  <http://gamesx.com/wiki/doku.php?id=controls:capcompowerstick>
-4.  [videogame console
-    library的资料](http://www.videogameconsolelibrary.com/pg90-fm_towns.htm)

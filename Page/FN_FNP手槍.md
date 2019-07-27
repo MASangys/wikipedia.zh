@@ -1,17 +1,17 @@
 **FN
-FNP**是一系列由[比利时槍械製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国分公司](../Page/美国.md "wikilink")（FNH
-USA）所設計和生產\[1\]的[半自動手槍](../Page/半自動手槍.md "wikilink")。特別是單／雙動（SA／DA）、純單動（SAO）、純雙動（DAO）操作的[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")、[聚合物製造的](../Page/聚合物.md "wikilink")[底把](../Page/机匣.md "wikilink")，[套筒分別有](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼和聚合物兩種可以選擇](../Page/不鏽鋼.md "wikilink")。這手槍系列於2006年的年初首度亮相，當時主要分成三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別是[發射](https://zh.wikipedia.org/wiki/槍膛 "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40
+FNP**是一系列由[比利时](../Page/比利时.md "wikilink")槍械製造商[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）旗下、位於[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[哥倫比亞的](https://zh.wikipedia.org/wiki/哥倫比亞_\(南卡羅來納州\) "wikilink")[美国](../Page/美国.md "wikilink")分公司（FNH
+USA）所設計和生產\[1\]的[半自動手槍](../Page/半自動手槍.md "wikilink")。特別是單／雙動（SA／DA）、純單動（SAO）、純雙動（DAO）操作的[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")、[聚合物](../Page/聚合物.md "wikilink")製造的[底把](../Page/机匣.md "wikilink")，[套筒分別有](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物兩種可以選擇。這手槍系列於2006年的年初首度亮相，當時主要分成三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別是[發射](https://zh.wikipedia.org/wiki/槍膛 "wikilink")[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")、[.40
 S\&W和](../Page/.40_S&W.md "wikilink")[.45
 ACP](../Page/.45_ACP.md "wikilink")。；到了2008年2月，再加入一種新的口徑，那就是[.357
 SIG的衍生型](../Page/.357_SIG.md "wikilink")。\[2\]\[3\]
 
 ## 歷史
 
-[白朗寧大威力手槍是典型的軍警用](../Page/白朗寧大威力手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，從1935年開始生產，後來雖然有設計上及工藝上的小改進，但都無大的變動。該槍在70多年來一直在許多國家的軍隊、警察和特種部隊服役，歷經各種戰爭考驗，成為可信賴的名槍。毫無疑問，大威力手槍是[國營赫斯塔爾永遠值得驕傲的產品](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，但這並不能帶來永久的經濟效益。想在現代手槍市場有所作為，還需不斷開發新產品。國營赫斯塔爾自2000年開始意識到僅以大威力手槍參與競爭遠遠不夠，於是致力於研製並推出多款新型手槍。
+[白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")是典型的軍警用[半自動手槍](../Page/半自動手槍.md "wikilink")，從1935年開始生產，後來雖然有設計上及工藝上的小改進，但都無大的變動。該槍在70多年來一直在許多國家的軍隊、警察和特種部隊服役，歷經各種戰爭考驗，成為可信賴的名槍。毫無疑問，大威力手槍是[國營赫斯塔爾永遠值得驕傲的產品](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，但這並不能帶來永久的經濟效益。想在現代手槍市場有所作為，還需不斷開發新產品。國營赫斯塔爾自2000年開始意識到僅以大威力手槍參與競爭遠遠不夠，於是致力於研製並推出多款新型手槍。
 
 ## 標準功能
 
-所有的FNP手槍衍生型都具有[能左右手操作操作的待擊解脫](../Page/两手同利.md "wikilink")[桿和一個可反轉的](../Page/杠杆.md "wikilink")[彈匣釋放按鈕](../Page/彈匣.md "wikilink")，以及設有一條整合在[套筒下前方的綜合](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈或是](../Page/戰術燈.md "wikilink")[雷射瞄準器的配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。此外，FNP-45更具有一個能左右手操作操作的套筒釋放裝置。
+所有的FNP手槍衍生型都具有[能左右手操作操作的待擊解脫](../Page/两手同利.md "wikilink")[桿和一個可反轉的](../Page/杠杆.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")釋放按鈕，以及設有一條整合在[套筒下前方的綜合](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[戰術配件導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")或是[雷射瞄準器的配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。此外，FNP-45更具有一個能左右手操作操作的套筒釋放裝置。
 
 根據FNH
 USA所指，FNP手槍是市場上唯一的全聚合物製造[底把的](../Page/机匣.md "wikilink")[自動裝填手槍](../Page/半自動手槍.md "wikilink")（在FNP初次發售時）具有協助完全更換底把的導軌，這樣就算手槍因為多次射擊而零件耗損過後仍能重組，從而延長全槍的壽命。\[4\]（[斯泰爾M系列手槍也有此功能](../Page/斯泰爾M手槍.md "wikilink")，並且先於FNP手槍在1999年推出）。
@@ -22,11 +22,11 @@ FNS將其取代](../Page/FN_FNS手槍.md "wikilink")。
 
 ## 設計及操作
 
-FNP系列手槍是使用發射、利用白朗寧凸輪系統與外部協助射擊的武器系統。[扳機組件和擊錘連接合成為一個主要部件](https://zh.wikipedia.org/wiki/扳機 "wikilink")，並且裝上[聚合物的](../Page/聚合物.md "wikilink")[底把上](../Page/机匣.md "wikilink")。在[扳機護圈後部的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣釋放按鈕裝在一個可被移除的固定銷子上](../Page/彈匣.md "wikilink")，令彈匣釋放按鈕可以反過來裝上在底把右側。FNP-9在單動操作的[扳機扣力固定在大約](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")3—4
+FNP系列手槍是使用發射、利用白朗寧凸輪系統與外部協助射擊的武器系統。[扳機組件和擊錘連接合成為一個主要部件](https://zh.wikipedia.org/wiki/扳機 "wikilink")，並且裝上[聚合物](../Page/聚合物.md "wikilink")的[底把上](../Page/机匣.md "wikilink")。在[扳機護圈後部的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣](../Page/彈匣.md "wikilink")釋放按鈕裝在一個可被移除的固定銷子上，令彈匣釋放按鈕可以反過來裝上在底把右側。FNP-9在單動操作的[扳機扣力固定在大約](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")3—4
 [磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")，而雙動操作則固定在大約8
-[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")。底部的底把是由[高強度](https://zh.wikipedia.org/wiki/高強度 "wikilink")[聚合物製造](../Page/聚合物.md "wikilink")，而[套筒則是由](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼製造](../Page/不鏽鋼.md "wikilink")。加大的[彈匣插槽使FNP系列手槍十分容易完成重新裝填](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")。
+[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")。底部的底把是由[高強度](https://zh.wikipedia.org/wiki/高強度 "wikilink")[聚合物](../Page/聚合物.md "wikilink")製造，而[套筒則是由](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")製造。加大的[彈匣插槽使FNP系列手槍十分容易完成重新裝填](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")。
 
-分解和重新組裝手槍的步驟是比較簡單。拆卸武器時，首先把[套筒在槍的後方鎖緊](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，接著把其彈匣釋放下來。將底把前方的分解桿[順時針向下旋轉](../Page/順時針方向.md "wikilink")，並且將套筒在輕輕地向前推動，使套筒向前移出底把導軌以後將其釋放。套筒從底把拆下來以後，要把[槍管底部的](../Page/槍管.md "wikilink")[復進簧才能將槍管移除](https://zh.wikipedia.org/wiki/復進簧 "wikilink")。而重新組裝武器的過程則是相反，先要裝上槍管再裝上復進簧，接著將套筒裝上底把導軌，並且將底把前方的分解桿[逆時針向上旋轉](../Page/順時針方向.md "wikilink")，直到套筒在槍的後方鎖緊。
+分解和重新組裝手槍的步驟是比較簡單。拆卸武器時，首先把[套筒在槍的後方鎖緊](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，接著把其彈匣釋放下來。將底把前方的分解桿[順時針向下旋轉](../Page/順時針方向.md "wikilink")，並且將套筒在輕輕地向前推動，使套筒向前移出底把導軌以後將其釋放。套筒從底把拆下來以後，要把[槍管](../Page/槍管.md "wikilink")底部的[復進簧才能將槍管移除](https://zh.wikipedia.org/wiki/復進簧 "wikilink")。而重新組裝武器的過程則是相反，先要裝上槍管再裝上復進簧，接著將套筒裝上底把導軌，並且將底把前方的分解桿[逆時針向上旋轉](../Page/順時針方向.md "wikilink")，直到套筒在槍的後方鎖緊。
 
 ## 衍生型
 
@@ -38,21 +38,21 @@ SIG](../Page/.357_SIG.md "wikilink")）、FNP-9（[9毫米子彈](../Page/9×19m
   - [純雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")（DAO）（FNP-357除外）
   - 純單動操作（SAO）（已經停產）
   - 單／雙動操作（SA／DA）
-  - [不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（自然磨砂處理）
-  - 不鏽鋼套筒（啞黑色[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")）
+  - [不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（自然[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")）
+  - 不鏽鋼套筒（啞黑色表面處理）
   - 不鏽鋼套筒（啞黑色表面處理）連沙色底把
   - 夜間用瞄準具
   - 標準型瞄準具
-  - 可於套筒上的兩個安裝孔裝上[紅點鏡／反射式瞄準鏡及於槍口裝上](../Page/紅點鏡.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")（FNP-45戰術型專有）
+  - 可於套筒上的兩個安裝孔裝上[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡及於槍口裝上[消聲器](../Page/抑制器.md "wikilink")（FNP-45戰術型專有）
 
 FNP-9和FNP-40也分別被命名為白朗寧PRO-9和PRO-40。
 
 在2010年的（美國著名槍展）之中，FNH
-USA推出了外表很接近FNP系列的FNX。最主要的改進是採用了新紋理，握把由一條彎線加上粗糙表面改為類似FNP-45的凸出表面，位於後部的手動保險及[彈匣釋放按鈕並有加大](../Page/彈匣.md "wikilink")，[套筒前後並設有防滑紋](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，[照門並得到加大](https://zh.wikipedia.org/wiki/照門 "wikilink")，套筒下前方設有的[MIL-STD-1913戰術導軌並得到加長](../Page/皮卡汀尼導軌.md "wikilink")。\[5\]\[6\]
+USA推出了外表很接近FNP系列的FNX。最主要的改進是採用了新紋理，握把由一條彎線加上粗糙表面改為類似FNP-45的凸出表面，位於後部的手動保險及[彈匣](../Page/彈匣.md "wikilink")釋放按鈕並有加大，[套筒前後並設有防滑紋](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，[照門並得到加大](https://zh.wikipedia.org/wiki/照門 "wikilink")，套筒下前方設有的[MIL-STD-1913戰術導軌並得到加長](../Page/皮卡汀尼導軌.md "wikilink")。\[5\]\[6\]
 
 ## 使用國
 
-  -   - [亨克](https://zh.wikipedia.org/wiki/亨克 "wikilink")[警察部隊](../Page/警察.md "wikilink")：於2005年4月購入了190把FNP-9和FNP-9M手槍。\[7\]
+  -   - [亨克](https://zh.wikipedia.org/wiki/亨克 "wikilink")[警察](../Page/警察.md "wikilink")部隊：於2005年4月購入了190把FNP-9和FNP-9M手槍。\[7\]
 
   -   - ：採用FNP9。
 
@@ -74,7 +74,7 @@ USA推出了外表很接近FNP系列的FNX。最主要的改進是採用了新�
     zh-tw:宅男特務}-](../Page/超市特工.md "wikilink")》（Chuck）：2012年1月13日第5季第10集（總集數為第88集）“-{zh-hans:查克;
     zh-hant:查克; zh-tw:查克; zh-hk:阿七;
     zh-mo:阿七;}-決戰博”（）開始，FNP-45戰術型裝上[Trijicon
-    RMR](https://zh.wikipedia.org/wiki/Trijicon_RMR小型紅點鏡 "wikilink")[紅點鏡和](../Page/紅點鏡.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")（後期）並且被尼古拉斯·奎因（Nicholas
+    RMR](https://zh.wikipedia.org/wiki/Trijicon_RMR小型紅點鏡 "wikilink")[紅點鏡](../Page/紅點鏡.md "wikilink")和[消聲器](../Page/抑制器.md "wikilink")（後期）並且被尼古拉斯·奎因（Nicholas
     Quinn，[安格斯·麥迪恩飾演](https://zh.wikipedia.org/wiki/安格斯·麥迪恩 "wikilink")）作為所使用。
 
 ### [电子游戏](../Page/电子游戏.md "wikilink")
@@ -102,7 +102,7 @@ USA推出了外表很接近FNP系列的FNX。最主要的改進是採用了新�
     III）：重型手槍，命名為「4-five
     .45」，可以在頂部導軌上安裝某些光學[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，被BLUFOR所使用。
   - 2015年—《[-{zh-hans:彩虹六号：圍攻;
-    zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：被[國家憲兵干預組所使用](../Page/國家憲兵干預組.md "wikilink")，命名為「P9」。
+    zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：被[國家憲兵干預組](../Page/國家憲兵干預組.md "wikilink")所使用，命名為「P9」。
 
 ## 參見
 

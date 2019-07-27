@@ -1,5 +1,5 @@
 『**BEST ～BOUNCE & LOVERS～**』（影音雙體驗～媚影 &
-情歌極選～），2007年3月14日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未的首張抒情](../Page/倖田來未.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+情歌極選～），2007年3月14日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")的首張抒情[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 附註
 

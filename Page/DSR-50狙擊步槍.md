@@ -1,13 +1,13 @@
-**DSR-50狙擊步槍**是一枝由[德国DSR](../Page/德国.md "wikilink")-精密公司所研發和製生產的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），在本質上來說的話，該狙擊步槍就是把[DSR-1的](../Page/DSR-1狙擊步槍.md "wikilink")[膛室放大及發射](../Page/膛室.md "wikilink")[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50
-BMG）制式[步枪](../Page/步枪.md "wikilink")[子彈的版本](../Page/子彈.md "wikilink")。
+**DSR-50狙擊步槍**是一枝由[德国](../Page/德国.md "wikilink")DSR-精密公司所研發和製生產的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），在本質上來說的話，該狙擊步槍就是把[DSR-1的](../Page/DSR-1狙擊步槍.md "wikilink")[膛室](../Page/膛室.md "wikilink")放大及發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50
+BMG）制式[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的版本。
 
 ## 概述
 
-生產商DSR-精密公司是以DSR-1作為基礎來設計DSR-50的，包括必須要修改槍械設計以發射火力更強大的.50口徑子彈、內置於[槍托內部的液壓緩衝減震系統的槍托和設計新的槍口附件](../Page/槍托.md "wikilink")。而這種[槍口裝置](https://zh.wikipedia.org/wiki/槍口裝置 "wikilink")，就被廠商稱為“爆風抑制裝置”（），是一種結合了[消聲器和](../Page/抑制器.md "wikilink")[槍口制退器型的槍口裝置](../Page/砲口制動器.md "wikilink")，並且其顯著之處是大大減少[12.7×99毫米北約](../Page/12.7×99mm_NATO.md "wikilink")（.50
+生產商DSR-精密公司是以DSR-1作為基礎來設計DSR-50的，包括必須要修改槍械設計以發射火力更強大的.50口徑子彈、內置於[槍托](../Page/槍托.md "wikilink")內部的液壓緩衝減震系統的槍托和設計新的槍口附件。而這種[槍口裝置](https://zh.wikipedia.org/wiki/槍口裝置 "wikilink")，就被廠商稱為“爆風抑制裝置”（），是一種結合了[消聲器和](../Page/抑制器.md "wikilink")[槍口制退器型的槍口裝置](../Page/砲口制動器.md "wikilink")，並且其顯著之處是大大減少[12.7×99毫米北約](../Page/12.7×99mm_NATO.md "wikilink")（.50
 BMG）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈藥射擊時所產生的](https://zh.wikipedia.org/wiki/彈藥 "wikilink")、噪音和[後座力](../Page/後座力.md "wikilink")，不像當代大口徑步槍的槍口裝置一般僅僅配備槍口制退器的功能。DSR-50的槍口亦可接上簡易[消聲器](../Page/抑制器.md "wikilink")，以减少槍口[噪音和地面揚](https://zh.wikipedia.org/wiki/噪声 "wikilink")[尘](https://zh.wikipedia.org/wiki/灰尘 "wikilink")。
 
-和DSR-1一樣的是，此步槍保留其[无托结构的設計](../Page/犢牛式_\(槍械\).md "wikilink")，把槍機等的主要部件放在的背後，從而縮短了總長度（，簡稱：OAL）而不縮短[槍管長度](../Page/槍管.md "wikilink")。這的確是一種對於發射大口徑[彈藥的DSR](https://zh.wikipedia.org/wiki/彈藥 "wikilink")-50的重要考慮（尤其是[.50
-BMG](../Page/12.7×99mm_NATO.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")），包括如何集中於對武器的槍托部份的平衡，和用作槍口補償裝置的重型附加裝置安裝於槍口上。DSR-50還保留部分來自DSR-1的功能，例如在[護木頂部安裝的](https://zh.wikipedia.org/wiki/護木 "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、槍托底部單腳架、[自由浮動式設計的](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")、完全可調的、槍托和[前握把](../Page/輔助握把.md "wikilink")，和前方的[彈匣插槽](../Page/彈匣.md "wikilink")。
+和DSR-1一樣的是，此步槍保留其[无托结构的設計](../Page/犢牛式_\(槍械\).md "wikilink")，把槍機等的主要部件放在的背後，從而縮短了總長度（，簡稱：OAL）而不縮短[槍管](../Page/槍管.md "wikilink")長度。這的確是一種對於發射大口徑[彈藥的DSR](https://zh.wikipedia.org/wiki/彈藥 "wikilink")-50的重要考慮（尤其是[.50
+BMG](../Page/12.7×99mm_NATO.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")），包括如何集中於對武器的槍托部份的平衡，和用作槍口補償裝置的重型附加裝置安裝於槍口上。DSR-50還保留部分來自DSR-1的功能，例如在[護木頂部安裝的](https://zh.wikipedia.org/wiki/護木 "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、槍托底部單腳架、[自由浮動式設計的](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")、完全可調的、槍托和[前握把](../Page/輔助握把.md "wikilink")，和前方的[彈匣](../Page/彈匣.md "wikilink")插槽。
 
 ## 使用國
 

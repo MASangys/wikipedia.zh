@@ -8,7 +8,7 @@ Ehman）在1977年8月16日檢測到的一個明顯的窄頻[無線電訊號](ht
 
 ## 報表的解讀
 
-圈起來的字母代碼**6EQUJ5**描述信號[變化的](../Page/變化.md "wikilink")[強度](../Page/強度_\(物理\).md "wikilink")，每一個[空格表示介於](../Page/空格.md "wikilink")0至0.999…，數字1-9表是相對應地帶編號的強度（從1.000到9.999…），強度在10.0以上的用字母來表示（A相當於強度在10.0到10.999...，B是11.0至11.999…，依此類推）。因此U的數值在30.0至30.999…，是這架望遠鏡曾經檢測到的最大值。在這種情況下的強度是[無單位的信噪雜訊比](https://zh.wikipedia.org/wiki/無因次量 "wikilink")，是在數分鐘之前這個頻帶上的平均值\[1\]。
+圈起來的字母代碼**6EQUJ5**描述信號[變化](../Page/變化.md "wikilink")的[強度](../Page/強度_\(物理\).md "wikilink")，每一個[空格](../Page/空格.md "wikilink")表示介於0至0.999…，數字1-9表是相對應地帶編號的強度（從1.000到9.999…），強度在10.0以上的用字母來表示（A相當於強度在10.0到10.999...，B是11.0至11.999…，依此類推）。因此U的數值在30.0至30.999…，是這架望遠鏡曾經檢測到的最大值。在這種情況下的強度是[無單位的信噪雜訊比](https://zh.wikipedia.org/wiki/無因次量 "wikilink")，是在數分鐘之前這個頻帶上的平均值\[1\]。
 
 兩個不同的數值的[頻率分別是](https://zh.wikipedia.org/wiki/頻率 "wikilink")：1420.356[MHz](https://zh.wikipedia.org/wiki/赫茲 "wikilink")（J.
 D. Kraus）和1420.456MHz（J. R.
@@ -25,7 +25,7 @@ Ehman），兩者與[氫線](https://zh.wikipedia.org/wiki/氫線 "wikilink")142
   - 19<sup>h</sup>25<sup>m</sup>12<sup>s</sup> ± 5<sup>s</sup>（負號角）
 
 [赤緯則明確的測定為](https://zh.wikipedia.org/wiki/赤緯 "wikilink")
-−27°03′ ± 20′。這些數值都是以[B1950.0](https://zh.wikipedia.org/wiki/B1950.0 "wikilink")[曆元表示的](../Page/曆元.md "wikilink")\[2\]。
+−27°03′ ± 20′。這些數值都是以[B1950.0](https://zh.wikipedia.org/wiki/B1950.0 "wikilink")[曆元](../Page/曆元.md "wikilink")表示的\[2\]。
 
 轉換成J2000.0 [曆元](../Page/曆元.md "wikilink")，相對應的赤經為：
 
@@ -55,7 +55,7 @@ Ehman），兩者與[氫線](https://zh.wikipedia.org/wiki/氫線 "wikilink")142
 也使用比大耳朵更強而有力的[甚大天線陣進行搜尋](https://zh.wikipedia.org/wiki/甚大天線陣 "wikilink")\[7\]。
 
 Gray和Dr. Simon
-Ellingsen之後在1999年使用[塔斯馬尼亞大學性能更好的](../Page/塔斯馬尼亞大學.md "wikilink")[霍伯特](https://zh.wikipedia.org/wiki/霍伯特 "wikilink")[26m
+Ellingsen之後在1999年使用[塔斯馬尼亞大學](../Page/塔斯馬尼亞大學.md "wikilink")性能更好的[霍伯特](https://zh.wikipedia.org/wiki/霍伯特 "wikilink")[26m
 無線電望遠鏡](https://archive.is/20050616061641/http://www-ra.phys.utas.edu.au/physics_telescopes.html)再度搜尋這個訊號\[8\]，在原訊號位置的附近進行了6次14小時的觀測，但依然沒有偵測到任何與Wow\!訊號相似的訊號\[9\]。
 
 ## 可能解釋

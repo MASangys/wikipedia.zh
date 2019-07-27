@@ -51,7 +51,7 @@ Chrome Engine的第一个版本，用于FPS游戏。
 ### Chrome Engine 3
 
 开始支持[DirectX](../Page/DirectX.md "wikilink")
-9.0c/10，实现了[HDR](https://zh.wikipedia.org/wiki/HDR "wikilink")，[着色器和](../Page/着色器.md "wikilink")[凹凸贴图](../Page/凹凸贴图.md "wikilink")。
+9.0c/10，实现了[HDR](https://zh.wikipedia.org/wiki/HDR "wikilink")，[着色器](../Page/着色器.md "wikilink")和[凹凸贴图](../Page/凹凸贴图.md "wikilink")。
 
 使用此引擎的游戏：
 

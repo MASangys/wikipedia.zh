@@ -1,13 +1,13 @@
 **Leimgruber-Batcho吲哚合成**（Leimgruber-Batcho indole synthesis）
 
-从邻[硝基](https://zh.wikipedia.org/wiki/硝基 "wikilink")[甲苯合成](../Page/甲苯.md "wikilink")[吲哚衍生物的方法](../Page/吲哚.md "wikilink")。\[1\]\[2\]\[3\]
+从邻[硝基](https://zh.wikipedia.org/wiki/硝基 "wikilink")[甲苯](../Page/甲苯.md "wikilink")合成[吲哚](../Page/吲哚.md "wikilink")衍生物的方法。\[1\]\[2\]\[3\]
 
-首先邻硝基甲苯与[*N*,*N*-二甲基甲酰胺二甲缩醛和](https://zh.wikipedia.org/wiki/N,N-二甲基甲酰胺二甲缩醛 "wikilink")[吡咯烷反应得到](../Page/吡咯烷.md "wikilink")[烯胺](https://zh.wikipedia.org/wiki/烯胺 "wikilink")
+首先邻硝基甲苯与[*N*,*N*-二甲基甲酰胺二甲缩醛和](https://zh.wikipedia.org/wiki/N,N-二甲基甲酰胺二甲缩醛 "wikilink")[吡咯烷](../Page/吡咯烷.md "wikilink")反应得到[烯胺](https://zh.wikipedia.org/wiki/烯胺 "wikilink")
 (2)，\[4\] 然后烯胺再发生还原环化，得到吲哚衍生物。
 
 [Leimgruber-Batcho_Indole_Scheme.png](https://zh.wikipedia.org/wiki/File:Leimgruber-Batcho_Indole_Scheme.png "fig:Leimgruber-Batcho_Indole_Scheme.png")
 
-除上述提到的[雷尼镍和](../Page/雷尼镍.md "wikilink")[肼外](https://zh.wikipedia.org/wiki/肼 "wikilink")，[钯碳](https://zh.wikipedia.org/wiki/钯碳 "wikilink")[加氢](https://zh.wikipedia.org/wiki/加氢 "wikilink")、[氯化亚锡](https://zh.wikipedia.org/wiki/氯化亚锡 "wikilink")、[连二亚硫酸钠](../Page/连二亚硫酸钠.md "wikilink")\[5\]
+除上述提到的[雷尼镍](../Page/雷尼镍.md "wikilink")和[肼外](https://zh.wikipedia.org/wiki/肼 "wikilink")，[钯碳](https://zh.wikipedia.org/wiki/钯碳 "wikilink")[加氢](https://zh.wikipedia.org/wiki/加氢 "wikilink")、[氯化亚锡](https://zh.wikipedia.org/wiki/氯化亚锡 "wikilink")、[连二亚硫酸钠](../Page/连二亚硫酸钠.md "wikilink")\[5\]
 以及[铁](https://zh.wikipedia.org/wiki/铁 "wikilink")-[乙酸](../Page/乙酸.md "wikilink")\[6\]
 都可用作还原一步的试剂。
 

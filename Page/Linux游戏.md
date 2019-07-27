@@ -1,12 +1,12 @@
 [0ad_spartaner.png](https://zh.wikipedia.org/wiki/File:0ad_spartaner.png "fig:0ad_spartaner.png")是一款[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")、免費且支援Linux的[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")\]\]
 
-**Linux游戏**是在[Linux下运行的游戏](../Page/Linux.md "wikilink")。[GNU/Linux是](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[自由软件](../Page/自由软件.md "wikilink")，也是以[自由](../Page/自由软件.md "wikilink")[开源为旗帜](https://zh.wikipedia.org/wiki/开源 "wikilink")。常用软件，甚至游戏类也多是[开源](../Page/开源软件.md "wikilink")[免费游戏](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。
+**Linux游戏**是在[Linux](../Page/Linux.md "wikilink")下运行的游戏。[GNU/Linux是](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[自由软件](../Page/自由软件.md "wikilink")，也是以[自由](../Page/自由软件.md "wikilink")[开源为旗帜](https://zh.wikipedia.org/wiki/开源 "wikilink")。常用软件，甚至游戏类也多是[开源](../Page/开源软件.md "wikilink")[免费游戏](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。
 
 ## 歷史
 
 [Doom1-ultimate.JPG](https://zh.wikipedia.org/wiki/File:Doom1-ultimate.JPG "fig:Doom1-ultimate.JPG")》是最早在Linux發行的主流商業遊戲之一。\]\]
 
-Linux遊戲的歷史開始於既有的[Unix遊戲](https://zh.wikipedia.org/wiki/Unix "wikilink")，這兩大作業系統有不少類似的遊戲。這些遊戲通常是原創或的[街機類遊戲或文字冒險遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")。一個著名的例子是所謂的「[BSD遊戲集](../Page/BSD.md "wikilink")」（BSD
+Linux遊戲的歷史開始於既有的[Unix遊戲](https://zh.wikipedia.org/wiki/Unix "wikilink")，這兩大作業系統有不少類似的遊戲。這些遊戲通常是原創或的[街機類遊戲或文字冒險遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")。一個著名的例子是所謂的「[BSD](../Page/BSD.md "wikilink")遊戲集」（BSD
 Games），即是一系列[互動小說遊戲](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")。\[1\]
 影響Linux開發甚大的[自由軟體和](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開源作法也影響了最早的免費遊戲](https://zh.wikipedia.org/wiki/開源 "wikilink")。早期著名的遊戲包含*[NetHack](../Page/NetHack.md "wikilink")、[Netrek](https://zh.wikipedia.org/wiki/Netrek "wikilink")、[XBill](https://zh.wikipedia.org/wiki/XBill "wikilink")、[XEvil](../Page/XEvil.md "wikilink")、[xbattle](https://zh.wikipedia.org/wiki/xbattle "wikilink")、[Xconq](https://zh.wikipedia.org/wiki/Xconq "wikilink")*和*[XPilot](https://zh.wikipedia.org/wiki/XPilot "wikilink")*。隨著Linux系統的成長，自由開源的遊戲也隨著增加，並變得更加複雜。
 
@@ -58,7 +58,7 @@ PhysX中間軟體的商業Linux遊戲。
 
 [Gabe_Newell_GDC_2010.jpg](https://zh.wikipedia.org/wiki/File:Gabe_Newell_GDC_2010.jpg "fig:Gabe_Newell_GDC_2010.jpg")稱「Linux和開源是遊戲的未來」。\[28\]\]\]
 
-2012年7月，遊戲開發和發行商[維爾福發佈Linux版的](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[Source引擎](../Page/Source引擎.md "wikilink")，並宣佈他們要把數位發行平台[Steam帶到Linux上](../Page/Steam.md "wikilink")。\[29\]\[30\]\[31\]Linux版的Steam客戶端讓其他開發者開始考慮移植遊戲到Linux上，\[32\]\[33\]\[34\]\[35\]包含[Aspyr
+2012年7月，遊戲開發和發行商[維爾福發佈Linux版的](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[Source引擎](../Page/Source引擎.md "wikilink")，並宣佈他們要把數位發行平台[Steam](../Page/Steam.md "wikilink")帶到Linux上。\[29\]\[30\]\[31\]Linux版的Steam客戶端讓其他開發者開始考慮移植遊戲到Linux上，\[32\]\[33\]\[34\]\[35\]包含[Aspyr
 Media和](../Page/Aspyr_Media.md "wikilink")[Feral
 Interactive這些移植公司原先移植到](../Page/Feral_Interactive.md "wikilink")[Mac
 OS上的遊戲](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。\[36\]
@@ -66,13 +66,13 @@ OS上的遊戲](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。\[36\]
 在2012年11月，[Unity
 Technologies移植第四版的](https://zh.wikipedia.org/wiki/Unity_Technologies "wikilink")[Unity引擎和遊戲開發系統到Linux上](https://zh.wikipedia.org/wiki/Unity引擎 "wikilink")。許多Unity引擎的遊戲自此都可以在Linux上執行。\[37\]
 
-2013年9月，[維爾福公司宣佈他們將會發佈一個基於Linux的作業系統](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[SteamOS](../Page/SteamOS.md "wikilink")，維爾福稱他們體認到「最適合消費者的環境，是一個環繞[Steam打造的作業系統](../Page/Steam.md "wikilink")」。\[38\]\[39\]這套作業系統會應用在該公司的[遊戲主機](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")[Steam
+2013年9月，[維爾福公司宣佈他們將會發佈一個基於Linux的作業系統](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[SteamOS](../Page/SteamOS.md "wikilink")，維爾福稱他們體認到「最適合消費者的環境，是一個環繞[Steam](../Page/Steam.md "wikilink")打造的作業系統」。\[38\]\[39\]這套作業系統會應用在該公司的[遊戲主機](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")[Steam
 Machine上](../Page/Steam_Machine.md "wikilink")。\[40\]
 
-2014年3月，[GOG.com宣佈在他們的無](../Page/GOG.com.md "wikilink")[DRM平台上開始支援Linux](https://zh.wikipedia.org/wiki/數位版權管理 "wikilink")，儘管他們先前稱因為Linux發行版繁多所以不會支援。\[41\]GOG.com2014年7月24日開始發行Linux遊戲，最先發行了50個，其中一些是第一次登上Linux平台。\[42\]
+2014年3月，[GOG.com](../Page/GOG.com.md "wikilink")宣佈在他們的無[DRM平台上開始支援Linux](https://zh.wikipedia.org/wiki/數位版權管理 "wikilink")，儘管他們先前稱因為Linux發行版繁多所以不會支援。\[41\]GOG.com2014年7月24日開始發行Linux遊戲，最先發行了50個，其中一些是第一次登上Linux平台。\[42\]
 
 2014年3月和4月時，兩大主流開發商[Epic
-Games和](../Page/Epic_Games.md "wikilink")[Crytek各自宣佈他們下一代的遊戲引擎](../Page/Crytek.md "wikilink")[Unreal
+Games和](../Page/Epic_Games.md "wikilink")[Crytek](../Page/Crytek.md "wikilink")各自宣佈他們下一代的遊戲引擎[Unreal
 Engine
 4和](https://zh.wikipedia.org/wiki/虛幻引擎 "wikilink")[CryEngine會支援Linux](https://zh.wikipedia.org/wiki/CryEngine "wikilink")。\[43\]\[44\]
 
@@ -114,12 +114,12 @@ Windows執行的遊戲或其他軟體](https://zh.wikipedia.org/wiki/Microsoft_W
     II可模擬](https://zh.wikipedia.org/wiki/Basilisk_II "wikilink")
     [68040](https://zh.wikipedia.org/wiki/Motorola_68040 "wikilink")
     [麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink");
-  - [DOSBox和](../Page/DOSBox.md "wikilink")[DOSEMU可模擬](https://zh.wikipedia.org/wiki/DOSEMU "wikilink")
+  - [DOSBox](../Page/DOSBox.md "wikilink")和[DOSEMU可模擬](https://zh.wikipedia.org/wiki/DOSEMU "wikilink")
     [MS-DOS](../Page/MS-DOS.md "wikilink")/[PC-DOS](../Page/PC-DOS.md "wikilink");
-  - [DeSmuME可模擬](../Page/DeSmuME.md "wikilink")[Nintendo
+  - [DeSmuME](../Page/DeSmuME.md "wikilink")可模擬[Nintendo
     DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink");
   - [Dolphin可模擬](../Page/Dolphin_\(模擬器\).md "wikilink")[Nintendo
-    GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")、[Wii和](../Page/Wii.md "wikilink")[Triforce](../Page/Triforce.md "wikilink");
+    GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")、[Wii](../Page/Wii.md "wikilink")和[Triforce](../Page/Triforce.md "wikilink");
   - [FCE
     Ultra](../Page/FCEUX.md "wikilink")、[Nestopia和](https://zh.wikipedia.org/wiki/Nestopia "wikilink")[TuxNES可模擬](https://zh.wikipedia.org/wiki/TuxNES "wikilink")[任天堂紅白機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink");
   - [Frotz可模擬Z](https://zh.wikipedia.org/wiki/Frotz "wikilink")-Machine文字冒險;
@@ -128,19 +128,19 @@ Windows執行的遊戲或其他軟體](https://zh.wikipedia.org/wiki/Microsoft_W
   - [gnuboy可模擬任天堂](https://zh.wikipedia.org/wiki/gnuboy "wikilink")[Game
     Boy和](../Page/Game_Boy.md "wikilink")[Game Boy
     Color](../Page/Game_Boy_Color.md "wikilink");
-  - [MAME可模擬街機遊戲](../Page/MAME.md "wikilink");
-  - [Mednafen可模擬許多種硬體平台](../Page/Mednafen.md "wikilink")，包含某些上述平台;
+  - [MAME](../Page/MAME.md "wikilink")可模擬街機遊戲;
+  - [Mednafen](../Page/Mednafen.md "wikilink")可模擬許多種硬體平台，包含某些上述平台;
   - [Mupen64Plus和原版的](https://zh.wikipedia.org/wiki/Mupen64Plus "wikilink")[Mupen64](https://zh.wikipedia.org/wiki/Mupen64 "wikilink")（原版已經不再被活躍開發）可模擬[Nintendo
     64](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink");
   - [PCSX-Reloaded](https://zh.wikipedia.org/wiki/PCSX-Reloaded "wikilink")、[pSX和Linux版的](https://zh.wikipedia.org/wiki/pSX_\(模擬器\) "wikilink")[ePSXe可模擬](https://zh.wikipedia.org/wiki/ePSXe "wikilink")[PlayStation](../Page/PlayStation.md "wikilink");
-  - [PCSX2可模擬](../Page/PCSX2.md "wikilink")[PlayStation
+  - [PCSX2](../Page/PCSX2.md "wikilink")可模擬[PlayStation
     2](../Page/PlayStation_2.md "wikilink");
-  - [PPSSPP可模擬](../Page/PPSSPP.md "wikilink")[PlayStation
+  - [PPSSPP](../Page/PPSSPP.md "wikilink")可模擬[PlayStation
     Portable](../Page/PlayStation_Portable.md "wikilink")
-  - [ScummVM可模擬LucasArts和其他許多冒險遊戲](../Page/ScummVM.md "wikilink");
-  - [SheepShaver可模擬](../Page/SheepShaver.md "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")
+  - [ScummVM](../Page/ScummVM.md "wikilink")可模擬LucasArts和其他許多冒險遊戲;
+  - [SheepShaver](../Page/SheepShaver.md "wikilink")可模擬[PowerPC](../Page/PowerPC.md "wikilink")
     [麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink");
-  - [Snes9x](https://zh.wikipedia.org/wiki/Snes9x "wikilink")、[higan和](https://zh.wikipedia.org/wiki/higan "wikilink")[ZSNES可模擬](../Page/ZSNES.md "wikilink")[超級任天堂](../Page/超級任天堂.md "wikilink");
+  - [Snes9x](https://zh.wikipedia.org/wiki/Snes9x "wikilink")、[higan和](https://zh.wikipedia.org/wiki/higan "wikilink")[ZSNES](../Page/ZSNES.md "wikilink")可模擬[超級任天堂](../Page/超級任天堂.md "wikilink");
   - [UAE可模擬](https://zh.wikipedia.org/wiki/UAE "wikilink")[Amiga](../Page/Amiga.md "wikilink");
   - [VICE可模擬](https://zh.wikipedia.org/wiki/VICE "wikilink")[Commodore
     64](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink");

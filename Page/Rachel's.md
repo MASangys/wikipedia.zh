@@ -1,4 +1,4 @@
-**Rachel's**是一支1994年在[美國成立的](https://zh.wikipedia.org/wiki/美國 "wikilink")[古典音樂](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")、[後搖滾樂團](../Page/後搖滾.md "wikilink")。\[1\]
+**Rachel's**是一支1994年在[美國成立的](https://zh.wikipedia.org/wiki/美國 "wikilink")[古典音樂](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")、[後搖滾](../Page/後搖滾.md "wikilink")樂團。\[1\]
 
 ## 樂團成員
 

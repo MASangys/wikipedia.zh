@@ -8,7 +8,7 @@ LLC.發行，是[ELISA的第](../Page/ELISA_\(歌手\).md "wikilink")5張單曲�
   - 分為初回限定盤（GNCA-0149）和通常盤（GNCA-0150）2種類型發售。在初回限定盤《Dear My Friend
     -まだ見ぬ未来へ-》內有[PV收錄在](https://zh.wikipedia.org/wiki/PV "wikilink")[DVD裹](https://zh.wikipedia.org/wiki/DVD "wikilink")。
   - B面裹的SMILE
-    -You\&Me-是[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[歌詞](https://zh.wikipedia.org/wiki/歌詞 "wikilink")，由[大提琴和](../Page/大提琴.md "wikilink")[吉他編成的歌](../Page/吉他.md "wikilink")。演奏大提琴的是ELISA的父親
+    -You\&Me-是[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[歌詞](https://zh.wikipedia.org/wiki/歌詞 "wikilink")，由[大提琴](../Page/大提琴.md "wikilink")和[吉他](../Page/吉他.md "wikilink")編成的歌。演奏大提琴的是ELISA的父親
     。
 
 ## 收錄曲

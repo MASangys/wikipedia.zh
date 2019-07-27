@@ -100,7 +100,7 @@ Unity分为免費的个人版 (Personal)，付費的进阶版 (Plus)、专业版
     Web Player插件支持[Internet
     Explorer](../Page/Internet_Explorer.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Mozilla](../Page/Mozilla.md "wikilink")、[Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera瀏覽器 "wikilink")[Camino](../Page/Camino.md "wikilink")），Mac
     OS
-    X的[Dashboard工具](../Page/Dashboard.md "wikilink")，Wii程序和iPhone应用程序（开发Wii和iPhone需要用户购买额外的授权，在价格上不同）。
+    X的[Dashboard](../Page/Dashboard.md "wikilink")工具，Wii程序和iPhone应用程序（开发Wii和iPhone需要用户购买额外的授权，在价格上不同）。
   - 自动资源导入：项目中的资源会被自动导入，并根据资源的改动自动更新。虽然很多主流的三维建模软件为Unity所支持，不过對於[3ds
     Max](../Page/3ds_Max.md "wikilink")、[Maya](../Page/Maya.md "wikilink")、[Blender](../Page/Blender.md "wikilink")、[Cinema
     4D和](../Page/Cinema_4D.md "wikilink")[Cheetah3D的支持比較好](https://zh.wikipedia.org/wiki/Cheetah3D "wikilink")，并支持一些其他的三维格式。
@@ -113,15 +113,15 @@ Unity分为免費的个人版 (Personal)，付費的进阶版 (Plus)、专业版
     Occlusion](https://zh.wikipedia.org/wiki/Screen_Space_Ambient_Occlusion "wikilink")、动态阴影使用的是[Shadow
     Map技术](https://zh.wikipedia.org/wiki/Shadow_Map "wikilink")，并支持Render-to-texture和全屏Post
     Processing效果。
-  - [Shaders编写使用](../Page/着色器.md "wikilink")语言，同时支持自有工作流中的编程方式或[Cg](../Page/Cg語言.md "wikilink")、[GLSL语言编写的Shader](../Page/GLSL.md "wikilink")。一个Shader可以包含众多变量及一个参数接口，允许Unity去判定参数是否为当前所支持并适配最适合参数，并自己选择相应的Shader类型以获得广大的兼容性。
+  - [Shaders编写使用](../Page/着色器.md "wikilink")语言，同时支持自有工作流中的编程方式或[Cg](../Page/Cg語言.md "wikilink")、[GLSL](../Page/GLSL.md "wikilink")语言编写的Shader。一个Shader可以包含众多变量及一个参数接口，允许Unity去判定参数是否为当前所支持并适配最适合参数，并自己选择相应的Shader类型以获得广大的兼容性。
   - 内置对[Nvidia的](https://zh.wikipedia.org/wiki/Nvidia "wikilink")[PhysX](../Page/PhysX.md "wikilink")[物理引擎支持](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")。
   - 游戏脚本基于[Mono](https://zh.wikipedia.org/wiki/Mono_\(software\) "wikilink")，一个相容於[.NET
     Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
     2.0的跨平台开源套件，因此程序员可用[JavaScript](../Page/JavaScript.md "wikilink")、[C\#或](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink")[Boo加以编写](https://zh.wikipedia.org/wiki/Boo "wikilink")。
   - The Unity Asset Server：一个支持各种游戏和脚本的版本控制方案，使用PostgreSQL作为后端。
-  - 音效系统基于[OpenAL程式库](../Page/OpenAL.md "wikilink")，可以播放[Ogg
+  - 音效系统基于[OpenAL](../Page/OpenAL.md "wikilink")程式库，可以播放[Ogg
     Vorbis的压缩音效](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")。
-  - 视频播放采用[Theora编码](../Page/Theora.md "wikilink")。
+  - 视频播放采用[Theora](../Page/Theora.md "wikilink")编码。
   - 內建地形編輯器，支持树木與植被贴片。
   - 內建[Lightmapping以及](https://zh.wikipedia.org/wiki/Lightmap "wikilink")[Global
     illumination](https://zh.wikipedia.org/wiki/Global_illumination "wikilink")。
@@ -197,7 +197,7 @@ Unity分为免費的个人版 (Personal)，付費的进阶版 (Plus)、专业版
   - 2014年11月26日，Unity 4.6發布，正式導入新的UI系統「UGUI」。\[7\]
   - 2015年3月3日，Unity 5.0於[GDC
     2015發布](../Page/游戏开发者大会.md "wikilink")，開始支援[WebGL](../Page/WebGL.md "wikilink")。\[8\]
-  - 2015年4月13日，Unity宣布支持任天堂的掌机[新任天堂3DS作为引擎运行平台](../Page/新任天堂3DS.md "wikilink")。\[9\]
+  - 2015年4月13日，Unity宣布支持任天堂的掌机[新任天堂3DS](../Page/新任天堂3DS.md "wikilink")作为引擎运行平台。\[9\]
 
 ## 游戏
 

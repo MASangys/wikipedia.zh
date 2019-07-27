@@ -49,7 +49,7 @@
 
 ## 决战610大富翁
 
-这是大宇资讯于2010年4月19日在台港澳版本加开的新服务器\[8\]，虽然在玩法上跟常规服务器没有任何区别，但支持的可用于进行游戏的平台更广（如可使用[Facebook](../Page/Facebook.md "wikilink")，[Yahoo与](https://zh.wikipedia.org/wiki/Yahoo "wikilink")[Google帐号登录](../Page/Google.md "wikilink")）。
+这是大宇资讯于2010年4月19日在台港澳版本加开的新服务器\[8\]，虽然在玩法上跟常规服务器没有任何区别，但支持的可用于进行游戏的平台更广（如可使用[Facebook](../Page/Facebook.md "wikilink")，[Yahoo与](https://zh.wikipedia.org/wiki/Yahoo "wikilink")[Google](../Page/Google.md "wikilink")帐号登录）。
 
 2011年3月31日，大宇发布公告称，该服务器将于2011年5月10日终止营运。\[9\]
 

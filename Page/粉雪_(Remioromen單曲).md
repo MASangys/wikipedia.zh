@@ -1,4 +1,4 @@
-《**粉雪**》，[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Remioromen的第](../Page/Remioromen.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（通算第8張）。2005年11月16日發行。是Remioromen的代表作和迄今為止銷量最高的單曲。
+《**粉雪**》，[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Remioromen](../Page/Remioromen.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（通算第8張）。2005年11月16日發行。是Remioromen的代表作和迄今為止銷量最高的單曲。
 
 ## 概要
 

@@ -1,8 +1,8 @@
 **Microsoft
-DirectCompute**是一个[应用程序接口](../Page/应用程序接口.md "wikilink")（API），允许[微软的](../Page/微软.md "wikilink")[Windows
+DirectCompute**是一个[应用程序接口](../Page/应用程序接口.md "wikilink")（API），允许[微软](../Page/微软.md "wikilink")的[Windows
 Vista](../Page/Windows_Vista.md "wikilink")、[Windows
 7或更新版平台上运行的程序利用](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[图形处理器](https://zh.wikipedia.org/wiki/图形处理器 "wikilink")（GPU）进行[通用计算](https://zh.wikipedia.org/wiki/通用计算 "wikilink")，DirectCompute是[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
-[DirectX的一部分](../Page/DirectX.md "wikilink")。虽然DirectCompute最初在[DirectX
+[DirectX](../Page/DirectX.md "wikilink")的一部分。虽然DirectCompute最初在[DirectX
 11
 API中得以实现](https://zh.wikipedia.org/wiki/DirectX#DirectX_11 "wikilink")，但支持DX10的GPU可以利用此API的一个子集进行通用计算，支持DX11的GPU则可以使用完整的DirectCompute功能。\[1\]
 

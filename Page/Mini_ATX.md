@@ -1,6 +1,6 @@
 Mini-ATX是由建碁[AOpen Inc.](https://zh.wikipedia.org/wiki/AOpen "wikilink")
 所研發之15 x 15 cm (5.9 x
-5.9英吋)的主機板規格。Mini-ATX比[Mini-ITX略小](../Page/Mini-ITX.md "wikilink")。Mini-ATX主機板是經由MoDT
+5.9英吋)的主機板規格。Mini-ATX比[Mini-ITX](../Page/Mini-ITX.md "wikilink")略小。Mini-ATX主機板是經由MoDT
 (Mobile on Desktop
 Technology)技術，搭配筆記型低功耗與低廢熱CPU達成小型化卻又不失效能之目的。因此非常適合家庭戲院電腦(HTPC)之應用以及車用電腦等工業級應用。
 

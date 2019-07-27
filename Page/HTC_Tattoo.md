@@ -4,7 +4,7 @@ Magic还有](../Page/HTC_Magic.md "wikilink")[HTC
 Hero之后的第](../Page/HTC_Hero.md "wikilink")4款采用Android操作系统的智能手机，它是A
 series的一款采用3.5mm标准耳机插口的机型。 **HTC
 Tattoo**是在2009年10月29日于新加坡正式发布的，[Dopod以A](https://zh.wikipedia.org/wiki/Dopod "wikilink")3288的名称在中国大陆销售Htc
-Tattoo。它同时也成为了中国大陆首两款[Android手机之一](../Page/Android.md "wikilink")。(另外一款是Dopod
+Tattoo。它同时也成为了中国大陆首两款[Android](../Page/Android.md "wikilink")手机之一。(另外一款是Dopod
 A6288(即[HTC Hero](../Page/HTC_Hero.md "wikilink"))\[1\]
 [Htc_Tattoo's_back.JPG](https://zh.wikipedia.org/wiki/File:Htc_Tattoo's_back.JPG "fig:Htc_Tattoo's_back.JPG")
 

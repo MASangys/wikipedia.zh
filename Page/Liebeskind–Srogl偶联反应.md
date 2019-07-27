@@ -1,6 +1,6 @@
 **Liebeskind–Srogl偶联反应**（Liebeskind-Srogl coupling）
 
-[硫酯与](../Page/硫酯.md "wikilink")[烷基硼酸在金属催化下发生](https://zh.wikipedia.org/wiki/烷基硼酸 "wikilink")[偶联](https://zh.wikipedia.org/wiki/偶联 "wikilink")。\[1\]
+[硫酯](../Page/硫酯.md "wikilink")与[烷基硼酸在金属催化下发生](https://zh.wikipedia.org/wiki/烷基硼酸 "wikilink")[偶联](https://zh.wikipedia.org/wiki/偶联 "wikilink")。\[1\]
 
 反应以发现者 Jiri Srogl（捷克人）和 Lanny S. Liebeskind（美国人）的名字命名。
 

@@ -1,10 +1,10 @@
 **Meyers合成**（Meyers synthesis），以美国化学家 Albert I. Meyers 的名字命名。
 
-通过[噁嗪水解制取不对称](https://zh.wikipedia.org/wiki/噁嗪 "wikilink")[醛类](../Page/醛.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
+通过[噁嗪水解制取不对称](https://zh.wikipedia.org/wiki/噁嗪 "wikilink")[醛](../Page/醛.md "wikilink")类。\[1\]\[2\]\[3\]\[4\]
 
 
 :[MeyersSynthesis.svg](https://zh.wikipedia.org/wiki/File:MeyersSynthesis.svg "fig:MeyersSynthesis.svg")
-2-取代的二氢-1,3-噁嗪的α-氢被强碱（如[丁基锂](https://zh.wikipedia.org/wiki/丁基锂 "wikilink")）夺取，生成的碳负离子被卤代烃烷化，然后[硼氢化钠将碳氮双键还原](../Page/硼氢化钠.md "wikilink")，最后在[草酸水溶液中水解](../Page/草酸.md "wikilink")，[半缩胺转变为醛](https://zh.wikipedia.org/wiki/半缩胺 "wikilink")。
+2-取代的二氢-1,3-噁嗪的α-氢被强碱（如[丁基锂](https://zh.wikipedia.org/wiki/丁基锂 "wikilink")）夺取，生成的碳负离子被卤代烃烷化，然后[硼氢化钠](../Page/硼氢化钠.md "wikilink")将碳氮双键还原，最后在[草酸](../Page/草酸.md "wikilink")水溶液中水解，[半缩胺转变为醛](https://zh.wikipedia.org/wiki/半缩胺 "wikilink")。
 
 ## 参见
 

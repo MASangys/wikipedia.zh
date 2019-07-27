@@ -1,4 +1,4 @@
-**《再見亦是老婆》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭羚的](../Page/彭羚.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於1994年12月推出，也是電視劇《[再見亦是老婆](../Page/再見亦是老婆.md "wikilink")》原聲大碟，收錄劇中主題曲及插曲，以及兩曲的卡拉OK版本。
+**《再見亦是老婆》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭羚](../Page/彭羚.md "wikilink")的[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於1994年12月推出，也是電視劇《[再見亦是老婆](../Page/再見亦是老婆.md "wikilink")》原聲大碟，收錄劇中主題曲及插曲，以及兩曲的卡拉OK版本。
 
 ## 曲目
 

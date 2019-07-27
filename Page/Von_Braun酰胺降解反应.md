@@ -1,6 +1,6 @@
 **von Braun酰胺降解反应**（von Braun amide degradation）
 
-单取代[酰胺与](../Page/酰胺.md "wikilink")[五氯化磷作用](../Page/五氯化磷.md "wikilink")，生成相应的[腈和](../Page/腈.md "wikilink")[卤代烃](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")。\[1\]\[2\]\[3\]
+单取代[酰胺](../Page/酰胺.md "wikilink")与[五氯化磷](../Page/五氯化磷.md "wikilink")作用，生成相应的[腈](../Page/腈.md "wikilink")和[卤代烃](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Von_Braun_Amide_Degradation_Scheme.png](https://zh.wikipedia.org/wiki/File:Von_Braun_Amide_Degradation_Scheme.png "fig:Von_Braun_Amide_Degradation_Scheme.png")

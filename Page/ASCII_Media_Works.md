@@ -1,7 +1,7 @@
 **ASCII MEDIA
-WORKS**（），為[日本出版社](../Page/日本.md "wikilink")[KADOKAWA旗下的](../Page/KADOKAWA.md "wikilink")[品牌之一](../Page/品牌.md "wikilink")。
+WORKS**（），為[日本](../Page/日本.md "wikilink")出版社[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下的[品牌](../Page/品牌.md "wikilink")之一。
 
-前身為2008年4月1日，作為[次文化系出版社](../Page/次文化.md "wikilink")、[遊戲公司的](https://zh.wikipedia.org/wiki/遊戲公司 "wikilink")[MediaWorks吸收合併作為](../Page/MediaWorks.md "wikilink")[IT系出版社的](https://zh.wikipedia.org/wiki/IT "wikilink")[ASCII後的](../Page/ASCII_\(公司\).md "wikilink")。
+前身為2008年4月1日，作為[次文化](../Page/次文化.md "wikilink")系出版社、[遊戲公司的](https://zh.wikipedia.org/wiki/遊戲公司 "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")吸收合併作為[IT系出版社的](https://zh.wikipedia.org/wiki/IT "wikilink")[ASCII後的](../Page/ASCII_\(公司\).md "wikilink")。
 
 2013年10月1日，KADOKAWA吸收合併、公司法人消滅成為事業品牌。
 
@@ -13,15 +13,15 @@ WORKS**（），為[日本出版社](../Page/日本.md "wikilink")[KADOKAWA旗�
   - 1991年6月24日，設立。
   - 1992年10月15日，原本角川Media
     Office的員工集體離職，在[主婦之友社的幫助下](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")，這些員工成立。
-  - 1999年，MediaWorks與主婦之友社停止合作，同社產品由[角川書店發售](../Page/角川書店.md "wikilink")。
+  - 1999年，MediaWorks與主婦之友社停止合作，同社產品由[角川書店](../Page/角川書店.md "wikilink")發售。
   - 2000年4月1日，ASCII（舊社）將娛樂相關事業讓渡給ASCII Visual
     Entertainment，後者商號變更為「[株式会社enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")」。
-  - 2002年11月18日，AstroArts社名變更為「ASCII」，繼承ASCII舊社的出版事業。ASCII舊社社名變更為「[MediaLeaves](https://zh.wikipedia.org/wiki/MediaLeaves "wikilink")」，[控股公司化](../Page/控股公司.md "wikilink")。
+  - 2002年11月18日，AstroArts社名變更為「ASCII」，繼承ASCII舊社的出版事業。ASCII舊社社名變更為「[MediaLeaves](https://zh.wikipedia.org/wiki/MediaLeaves "wikilink")」，[控股公司](../Page/控股公司.md "wikilink")化。
   - 2004年3月18日，[角川控股收購MediaLeaves股份](../Page/角川集團.md "wikilink")，後者子公司化。
 
 ### 株式会社ASCII MEDIA WORKS
 
-  - 2008年4月1日，MediaWorks吸收合併ASCII，商號變更為。此後，同社出版物的[ISBN出版社代碼變為與](https://zh.wikipedia.org/wiki/ISBN "wikilink")[角川書店相同的](../Page/角川書店.md "wikilink")「04」。
+  - 2008年4月1日，MediaWorks吸收合併ASCII，商號變更為。此後，同社出版物的[ISBN出版社代碼變為與](https://zh.wikipedia.org/wiki/ISBN "wikilink")[角川書店](../Page/角川書店.md "wikilink")相同的「04」。
   - 2008年7月7日，本社從[千代田區](../Page/千代田區.md "wikilink")[神田駿河台](../Page/神田駿河台.md "wikilink")（舊MediaWorks本社）遷移至[新宿區](../Page/新宿區.md "wikilink")[西新宿](../Page/西新宿.md "wikilink")。
   - 2010年3月4日，取得株式会社70%股份，將其子公司化。
   - 2011年1月1日，吸收合併魔法的iLand\[1\]。
@@ -40,7 +40,7 @@ WORKS**（），為[日本出版社](../Page/日本.md "wikilink")[KADOKAWA旗�
 
 ## 出版品
 
-[ASCII與](../Page/ASCII_\(公司\).md "wikilink")[MediaWorks的刊物並存發行](../Page/MediaWorks.md "wikilink")。
+[ASCII與](../Page/ASCII_\(公司\).md "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")的刊物並存發行。
 
 ### 雜誌
 

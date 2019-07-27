@@ -1,11 +1,11 @@
-「**TABOO**」（禁忌）為2008年10月8日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")41st[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**TABOO**」（禁忌）為2008年10月8日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")第41st[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 附註
 
   - 與前作「[MOON](../Page/MOON_\(倖田來未單曲\).md "wikilink")」相隔約4個月的新單曲。B面曲、Remix收錄共全2曲5版本。
   - 「**TABOO（禁忌）**」為music.jp
     電視廣告曲、[日本電視台](../Page/日本電視台.md "wikilink")「女子レスリング世界選手権2008」形象歌曲、「[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")」遊戲『采配のゆくえ』電視廣告曲。
-  - [音樂錄影帶為兩種版本](../Page/音樂錄影帶.md "wikilink")。
+  - [音樂錄影帶](../Page/音樂錄影帶.md "wikilink")為兩種版本。
   - Oricon週間排名為「[FREAKY](../Page/FREAKY.md "wikilink")」以來第5張獲得第1名的單曲。
 
 ## 發行版本

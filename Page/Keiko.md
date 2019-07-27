@@ -1,12 +1,12 @@
 **窪田啓子**（\[1\]），日本女性歌手。出身於[東京都](../Page/東京都.md "wikilink")，血型B型。隸屬於[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina成員之一](../Page/Kalafina.md "wikilink")，2018年4月1日正式退社。
+CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina](../Page/Kalafina.md "wikilink")成員之一，2018年4月1日正式退社。
 
 ## 簡歷
 
   - 2005年9月22日，以[FictionJunction](../Page/FictionJunction.md "wikilink")
     Keiko的名義參加[NHK衛星第2頻道上播放的電視動畫](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》OST《Future
     Soundscape II》（\#9《》）。
-  - 2005年12月21日，在[池袋的](../Page/池袋.md "wikilink")[LIVE INN
+  - 2005年12月21日，在[池袋](../Page/池袋.md "wikilink")的[LIVE INN
     ROSA與](https://zh.wikipedia.org/wiki/LIVE_INN_ROSA "wikilink")[伊藤彩華首次現場演出](https://zh.wikipedia.org/wiki/伊藤彩華 "wikilink")。
   - [2006年2月](../Page/2006年2月.md "wikilink")，得到的「審査員特別賞」。\[2\]
 
@@ -100,7 +100,6 @@ CRAFT](../Page/SPACE_CRAFT.md "wikilink")。為日本音樂團體[Kalafina成員
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
 [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 [Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.
 2.  [AIR GUITAR JAPAN ::

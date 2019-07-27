@@ -1,11 +1,11 @@
 **Sunshine
-Nation**是一個由[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")[AM1470和FM](https://zh.wikipedia.org/wiki/AM1470 "wikilink")96.1主辦；在[温哥華舉行的選美活動](https://zh.wikipedia.org/wiki/温哥華 "wikilink")，其目的是和訓練當地年輕亞裔男女的自信心和發掘其表演慾。其歷史可以追溯到1999年，歴年的参賽者和得獎者有很多都獲得加入[香港或](../Page/香港.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[演藝圈的機會](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")。
+Nation**是一個由[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")[AM1470和FM](https://zh.wikipedia.org/wiki/AM1470 "wikilink")96.1主辦；在[温哥華舉行的選美活動](https://zh.wikipedia.org/wiki/温哥華 "wikilink")，其目的是和訓練當地年輕亞裔男女的自信心和發掘其表演慾。其歷史可以追溯到1999年，歴年的参賽者和得獎者有很多都獲得加入[香港](../Page/香港.md "wikilink")或[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[演藝圈的機會](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")。
 
 ## 主辦機構
 
 ### 1999年－2003年
 
-  - 主辦：[加拿大中文電台AM1470和FM](../Page/加拿大中文電台AM1470.md "wikilink")96.1
+  - 主辦：[加拿大中文電台AM1470](../Page/加拿大中文電台AM1470.md "wikilink")和FM96.1
   - 協辦：[新時代電視](../Page/新時代電視.md "wikilink")、[城市電視](../Page/城市電視.md "wikilink")、[娛樂生活雜誌](https://zh.wikipedia.org/wiki/娛樂生活雜誌 "wikilink")
 
 ### 2006年－目前
@@ -57,7 +57,7 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 <td><p>2002年</p></td>
 <td><p>Sunshine Boyz亞軍</p></td>
 <td><ul>
-<li>後参加2005年度<a href="../Page/新秀歌唱大賽溫哥華選拔賽.md" title="wikilink">新秀歌唱大賽溫哥華選拔賽獲得亞軍</a></li>
+<li>後参加2005年度<a href="../Page/新秀歌唱大賽溫哥華選拔賽.md" title="wikilink">新秀歌唱大賽溫哥華選拔賽</a>獲得亞軍</li>
 <li>已故Hip Hop歌手</li>
 <li>生前是「Am3ition」樂隊成員之一，是當時<a href="https://zh.wikipedia.org/wiki/温哥華" title="wikilink">温哥華華人社區具知名度的藝人</a>。</li>
 </ul></td>
@@ -88,7 +88,7 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 </ul></td>
 <td><ul>
 <li>目前居於<a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></li>
-<li>前為<a href="../Page/飛輪海.md" title="wikilink">飛輪海成員之一</a></li>
+<li>前為<a href="../Page/飛輪海.md" title="wikilink">飛輪海</a>成員之一</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -121,7 +121,7 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 <td><p>Sunshine Boyz冠軍</p></td>
 <td><ul>
 <li>2006年前往<a href="https://zh.wikipedia.org/wiki/北京電影學院" title="wikilink">北京電影學院深造至今</a></li>
-<li>同時成為當地平面<a href="../Page/模特兒.md" title="wikilink">模特兒和</a><a href="../Page/演員.md" title="wikilink">演員</a></li>
+<li>同時成為當地平面<a href="../Page/模特兒.md" title="wikilink">模特兒</a>和<a href="../Page/演員.md" title="wikilink">演員</a></li>
 <li>是<a href="https://zh.wikipedia.org/wiki/饒雪漫" title="wikilink">饒雪漫小說的書模</a>，也在其小說《<a href="../Page/沙漏.md" title="wikilink">沙漏</a>》<a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV版本主角</a></li>
 </ul></td>
 <td><ul>
@@ -133,7 +133,7 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 <td><p>2005年</p></td>
 <td><p>Sunshine Boyz8强</p></td>
 <td><ul>
-<li>2006年開始成為<a href="../Page/新時代電視.md" title="wikilink">新時代電視旗下</a><a href="https://zh.wikipedia.org/wiki/藝員" title="wikilink">藝員和</a><a href="https://zh.wikipedia.org/wiki/AM1470" title="wikilink">FM96.1</a><a href="https://zh.wikipedia.org/wiki/DJ" title="wikilink">DJ</a></li>
+<li>2006年開始成為<a href="../Page/新時代電視.md" title="wikilink">新時代電視</a>旗下<a href="https://zh.wikipedia.org/wiki/藝員" title="wikilink">藝員和</a><a href="https://zh.wikipedia.org/wiki/AM1470" title="wikilink">FM96.1</a><a href="https://zh.wikipedia.org/wiki/DJ" title="wikilink">DJ</a></li>
 <li>曾主持或参與過電視台和電台多個大小節目</li>
 </ul></td>
 <td><ul>
@@ -179,7 +179,7 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 <td><p>最具魅力大獎</p></td>
 <td><ul>
 <li>2011年參加香港小姐選舉獲得第四名而加入香港娛樂圈</li>
-<li>現為<a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台常駐主播及人氣資訊節目</a><a href="../Page/學是學非.md" title="wikilink">學是學非主持之一</a></li>
+<li>現為<a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台</a>常駐主播及人氣資訊節目<a href="../Page/學是學非.md" title="wikilink">學是學非</a>主持之一</li>
 </ul></td>
 <td><ul>
 <li>目前居於<a href="../Page/香港.md" title="wikilink">香港</a></li>

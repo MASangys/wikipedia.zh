@@ -25,7 +25,7 @@ S312擁有200萬像素CMOS感光元件，並內建LED閃光燈，且有連拍模
 
 ### 音樂功能
 
-採用[Walkman播放器](../Page/Walkman.md "wikilink")，但沒有使用XMB媒體介面，支援MP3、AAC等音樂檔案，以及AD2P技術，但是隨機並不附耳機。
+採用[Walkman](../Page/Walkman.md "wikilink")播放器，但沒有使用XMB媒體介面，支援MP3、AAC等音樂檔案，以及AD2P技術，但是隨機並不附耳機。
 且不支援MegaBass，但內建BASS++和TREBLE++等化器。
 
 內建FM收音機，且支援TrackID。

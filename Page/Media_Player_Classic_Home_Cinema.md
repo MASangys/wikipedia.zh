@@ -7,7 +7,7 @@ clsid2 接替更新1.7.13後版本\[2\]。
 
 ## 特性
 
-  - 提供抗[畫面撕裂选项](../Page/畫面撕裂.md "wikilink")
+  - 提供抗[畫面撕裂](../Page/畫面撕裂.md "wikilink")选项
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@ clsid2 接替更新1.7.13後版本\[2\]。
 <!-- end list -->
 
   - 拥有[YV12](https://zh.wikipedia.org/wiki/YUV#YV12 "wikilink")
-    [色度](https://zh.wikipedia.org/wiki/色度_\(色彩学\) "wikilink")[升採樣像素着色器](../Page/升採樣.md "wikilink")
+    [色度](https://zh.wikipedia.org/wiki/色度_\(色彩学\) "wikilink")[升採樣](../Page/升採樣.md "wikilink")像素着色器
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@ clsid2 接替更新1.7.13後版本\[2\]。
 
 <!-- end list -->
 
-  - 借助免费[Android应用软体实现远程控制](../Page/Android.md "wikilink")
+  - 借助免费[Android](../Page/Android.md "wikilink")应用软体实现远程控制
   - 可播放[VCD](../Page/VCD.md "wikilink"),
     [SVCD](../Page/SVCD.md "wikilink"),
     [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink"),

@@ -3,7 +3,7 @@ Enough**（[中文译名](https://zh.wikipedia.org/wiki/中文 "wikilink")：**�
 the
 Wall专辑的第一支单曲](https://zh.wikipedia.org/wiki/Off_the_Wall "wikilink")，这是他首张在[Epic唱片发行的单曲](https://zh.wikipedia.org/wiki/Epic唱片 "wikilink")。
 
-这首歌在[英国排名第](https://zh.wikipedia.org/wiki/英国 "wikilink")3并在单曲榜上停留了12个星期，在[美国单曲榜上也留名](../Page/美国.md "wikilink")21星期，它也是美国[节奏蓝调排行榜的冠军](https://zh.wikipedia.org/wiki/节奏蓝调 "wikilink")（5星期），这支单曲卖出了100多万张（自8年前的单曲[Ben以来](https://zh.wikipedia.org/wiki/Ben（歌曲） "wikilink")，杰克逊的首支白金单曲）并获得[美国唱片业协会的白金唱片奖的认证](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")。这首歌还让杰克逊首次获得[格莱美奖和](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")[全美音乐奖](https://zh.wikipedia.org/wiki/全美音乐奖 "wikilink")。
+这首歌在[英国排名第](https://zh.wikipedia.org/wiki/英国 "wikilink")3并在单曲榜上停留了12个星期，在[美国](../Page/美国.md "wikilink")单曲榜上也留名21星期，它也是美国[节奏蓝调排行榜的冠军](https://zh.wikipedia.org/wiki/节奏蓝调 "wikilink")（5星期），这支单曲卖出了100多万张（自8年前的单曲[Ben以来](https://zh.wikipedia.org/wiki/Ben（歌曲） "wikilink")，杰克逊的首支白金单曲）并获得[美国唱片业协会的白金唱片奖的认证](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")。这首歌还让杰克逊首次获得[格莱美奖和](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")[全美音乐奖](https://zh.wikipedia.org/wiki/全美音乐奖 "wikilink")。
 
 ## 現場演出
 

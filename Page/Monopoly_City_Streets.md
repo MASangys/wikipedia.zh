@@ -1,6 +1,6 @@
 《**Monopoly City
 Streets**》是一款2009年9月9日至12月9日\[1\]運作的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，改編自[图版游戏](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[-{zh-hans:大富翁;zh-tw:地產大享;zh-hk:大富翁}-](https://zh.wikipedia.org/wiki/大富翁 "wikilink")。玩者根據真實世界的地圖去購買街道並發展自己的物業。從而賺取更多金錢購買土地。遊戲地圖使用[Google
-Maps及](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")[OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")\[2\]。由[孩之寶廣告代理商](../Page/孩之寶.md "wikilink")[Tribal
+Maps及](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")[OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")\[2\]。由[孩之寶](../Page/孩之寶.md "wikilink")廣告代理商[Tribal
 DDB開發](https://zh.wikipedia.org/wiki/Tribal_DDB "wikilink")。
 
 ## 目標

@@ -1,5 +1,5 @@
 **Michael Peter
-Balzary**（）是一位出生在[澳大利亚的美国](../Page/澳大利亚.md "wikilink")[贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[小号演奏家及演员](https://zh.wikipedia.org/wiki/小号 "wikilink")，其艺名**Flea**更为人熟知。他作为另类摇滚乐队[Red
+Balzary**（）是一位出生在[澳大利亚](../Page/澳大利亚.md "wikilink")的美国[贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[小号演奏家及演员](https://zh.wikipedia.org/wiki/小号 "wikilink")，其艺名**Flea**更为人熟知。他作为另类摇滚乐队[Red
 Hot Chili
 Peppers的](https://zh.wikipedia.org/wiki/Red_Hot_Chili_Peppers "wikilink")[贝斯手和组建者而出名](https://zh.wikipedia.org/wiki/贝斯 "wikilink")。他在乐队中的表现融合了几种不同的音乐风格，从疾速的Slap到更柔和而旋律化的手法。除了Red
 Hot Chili Peppers,他还与很多艺人合作过，包括Jane's Addiction、The Mars Volta及Alanis
@@ -15,8 +15,8 @@ Peppers的诞生。Flea在演艺界进行了很多次尝试，参演了各种类
 ### 早期经历
 
 Flea
-1962年10月16日生于[澳大利亚的](../Page/澳大利亚.md "wikilink")[墨尔本](../Page/墨尔本.md "wikilink")。他的父亲Mick
-Balzary是一个热情的渔夫，经常带他去捕鱼。Flea五岁那年，为了他父亲的事业全家迁到[纽约的](../Page/纽约.md "wikilink")[拉伊](../Page/拉伊.md "wikilink")。1971年，他的父母离婚，父亲回到澳大利亚。Flea和他的兄弟姐妹们跟着他们的母亲Patricia留了下来，不久她便和一个爵士音乐家再婚。Flea的继父经常邀请音乐家到他家，也就常常有即兴表演。后来全家又迁到加州的洛杉矶，Flea变得对小号非常痴迷。他的老师觉得他是个天才，认为只有同样毕业于Fairfax中学的音乐家Herb
+1962年10月16日生于[澳大利亚](../Page/澳大利亚.md "wikilink")的[墨尔本](../Page/墨尔本.md "wikilink")。他的父亲Mick
+Balzary是一个热情的渔夫，经常带他去捕鱼。Flea五岁那年，为了他父亲的事业全家迁到[纽约](../Page/纽约.md "wikilink")的[拉伊](../Page/拉伊.md "wikilink")。1971年，他的父母离婚，父亲回到澳大利亚。Flea和他的兄弟姐妹们跟着他们的母亲Patricia留了下来，不久她便和一个爵士音乐家再婚。Flea的继父经常邀请音乐家到他家，也就常常有即兴表演。后来全家又迁到加州的洛杉矶，Flea变得对小号非常痴迷。他的老师觉得他是个天才，认为只有同样毕业于Fairfax中学的音乐家Herb
 Alpert能与他匹敌。此外，他那时对摇滚乐毫无兴趣却极其崇拜像Miles Davis、Louis Armstrong和Dizzy
 Gillespie那样的jazz音乐家。
 
@@ -195,10 +195,10 @@ Way》里，大多数贝斯线完全脱离了疯克。Flea觉得Frusciante写的
 
 ### 音乐影响
 
-Flea经常观看继父曾在的一个[咆勃爵士樂](../Page/咆勃爵士樂.md "wikilink")（爵士音乐的一种）乐队的即兴；因此不久就变得痴迷于小号。Flea将他接下来的音乐兴趣归功于爵士演奏家比如[邁爾士·戴維斯](../Page/邁爾士·戴維斯.md "wikilink")、[查利·帕克](../Page/查利·帕克.md "wikilink")、[路易斯·阿姆斯特朗](../Page/路易斯·阿姆斯特朗.md "wikilink")、[約翰·柯川及](../Page/約翰·柯川.md "wikilink")[迪齊·格萊斯彼](../Page/迪齐·吉莱斯皮.md "wikilink")。Kiedis向他介绍朋克和摇滚乐后，Flea变得迷恋像The
-Germs、Styx、[大卫·鲍伊和Defunkt那样的艺人](../Page/大卫·鲍伊.md "wikilink")。《Blood
+Flea经常观看继父曾在的一个[咆勃爵士樂](../Page/咆勃爵士樂.md "wikilink")（爵士音乐的一种）乐队的即兴；因此不久就变得痴迷于小号。Flea将他接下来的音乐兴趣归功于爵士演奏家比如[邁爾士·戴維斯](../Page/邁爾士·戴維斯.md "wikilink")、[查利·帕克](../Page/查利·帕克.md "wikilink")、[路易斯·阿姆斯特朗](../Page/路易斯·阿姆斯特朗.md "wikilink")、[約翰·柯川](../Page/約翰·柯川.md "wikilink")及[迪齊·格萊斯彼](../Page/迪齐·吉莱斯皮.md "wikilink")。Kiedis向他介绍朋克和摇滚乐后，Flea变得迷恋像The
+Germs、Styx、[大卫·鲍伊](../Page/大卫·鲍伊.md "wikilink")和Defunkt那样的艺人。《Blood
 Sugar Sex
-Magik》之前Flea早期主要受疯克艺人的影响，比如、[百樂門-放克瘋](../Page/百樂門-放克瘋.md "wikilink")、[史萊和史東家族合唱團以及The](../Page/史萊和史東家族合唱團.md "wikilink")
+Magik》之前Flea早期主要受疯克艺人的影响，比如、[百樂門-放克瘋](../Page/百樂門-放克瘋.md "wikilink")、[史萊和史東家族合唱團](../Page/史萊和史東家族合唱團.md "wikilink")以及The
 Meters。一直到《Mother's Milk》这些艺人都是影响Red Hot Chili
 Peppers音乐值得注意的方面。起初，Flea深受朋克乐队的影响--弹得越快越狠就越好，但是最终在《Blood
 Sugar Sex
@@ -206,7 +206,7 @@ Magik》时期他抛弃了这种观念："我之前很不成熟（音乐上）\[
 the
 Way》时期，相对于疯克，Flea受电子乐、后朋乐队如[治疗乐队](../Page/治疗乐队.md "wikilink")、[歡樂分隊](../Page/歡樂分隊.md "wikilink")、Siouxsie
 & the Banshees以及新浪潮音乐的影响更深。《Stadium
-Arcadium》专辑时期，他的兴趣又有转变。比起先前两张专辑时他听的那些旋律化音乐，他这时唯独喜欢那些华丽的吉他手如[吉米·亨德里克斯](../Page/吉米·亨德里克斯.md "wikilink")、[埃迪·范·海伦及](../Page/埃迪·范·海伦.md "wikilink")[吉米·佩奇的作品](../Page/吉米·佩奇.md "wikilink")。
+Arcadium》专辑时期，他的兴趣又有转变。比起先前两张专辑时他听的那些旋律化音乐，他这时唯独喜欢那些华丽的吉他手如[吉米·亨德里克斯](../Page/吉米·亨德里克斯.md "wikilink")、[埃迪·范·海伦](../Page/埃迪·范·海伦.md "wikilink")及[吉米·佩奇](../Page/吉米·佩奇.md "wikilink")的作品。
 
 ## 參考書籍
 

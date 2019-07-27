@@ -1,5 +1,5 @@
 《This
-Armor》是日本創作型歌手[鬼束千尋於](../Page/鬼束千尋.md "wikilink")2002年3月6日發行的第二張原創專輯。
+Armor》是日本創作型歌手[鬼束千尋](../Page/鬼束千尋.md "wikilink")於2002年3月6日發行的第二張原創專輯。
 
 ## 說明
 
@@ -23,7 +23,7 @@ Armor》是日本創作型歌手[鬼束千尋於](../Page/鬼束千尋.md "wikil
 ## 收錄曲目
 
 1.  ROLLIN'(顛沛流離)
-      - [朝日電視台深夜劇](../Page/朝日電視台.md "wikilink")「[完売劇場](https://zh.wikipedia.org/wiki/完売劇場 "wikilink")」印象曲
+      - [朝日電視台](../Page/朝日電視台.md "wikilink")深夜劇「[完売劇場](https://zh.wikipedia.org/wiki/完売劇場 "wikilink")」印象曲
     <!-- end list -->
       -
         標題是本人自造的字眼，是「[RPG的現在進行式](https://zh.wikipedia.org/wiki/RPG "wikilink")」的意思，[MV則是收錄了在樂隊伴奏下歌唱的畫面](https://zh.wikipedia.org/wiki/MV "wikilink")。
@@ -32,7 +32,7 @@ Armor》是日本創作型歌手[鬼束千尋於](../Page/鬼束千尋.md "wikil
 4.  everything, in my hands
 5.  Our Song
 6.  [流星群](https://zh.wikipedia.org/wiki/流星群 "wikilink")
-      - [朝日電視台電視劇](../Page/朝日電視台.md "wikilink")「[圈套2](https://zh.wikipedia.org/wiki/圈套2 "wikilink")」的主題曲。
+      - [朝日電視台](../Page/朝日電視台.md "wikilink")電視劇「[圈套2](https://zh.wikipedia.org/wiki/圈套2 "wikilink")」的主題曲。
 7.  LITTLE BEAT RIFLE (album ver.)
       -
         與單曲不同的版本，降了半音，並且只用鋼琴伴奏的慢板。

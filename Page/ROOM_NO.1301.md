@@ -1,5 +1,5 @@
 《**ROOM
-NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.org/wiki/新井輝 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，日文版由[富士見書房發行](../Page/富士見書房.md "wikilink")，全11冊，另有短篇4冊。中文版由[台灣角川發行](../Page/台灣角川.md "wikilink")。此外亦有推出[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")\[1\]
+NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.org/wiki/新井輝 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，日文版由[富士見書房](../Page/富士見書房.md "wikilink")發行，全11冊，另有短篇4冊。中文版由[台灣角川](../Page/台灣角川.md "wikilink")發行。此外亦有推出[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")\[1\]
 和[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[2\] 版本。
 
 ## 故事簡介
@@ -385,7 +385,7 @@ NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.or
 
 ## 廣播劇CD
 
-由[5pb.负责发行](../Page/5pb..md "wikilink")，[NBC環球娛樂负责销售](../Page/NBC環球娛樂.md "wikilink")。2007年2月23日发售第一卷，5月25日发售第二卷，9月21日第三卷分上下卷同时发售。
+由[5pb.](../Page/5pb..md "wikilink")负责发行，[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")负责销售。2007年2月23日发售第一卷，5月25日发售第二卷，9月21日第三卷分上下卷同时发售。
 
 ## 參考資料
 

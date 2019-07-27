@@ -68,7 +68,7 @@
 
 新馬地區 One HD 于星期一至星期四晚间 19:45
 ([GST](https://zh.wikipedia.org/wiki/GST "wikilink")+8)播出（馬來語/華語）配音與字幕版。（該時段亦會播出[SBS週末劇場](https://zh.wikipedia.org/wiki/SBS週末劇場 "wikilink")）。2015年6月起改為星期二至星期五晚间
-19:45([GST](https://zh.wikipedia.org/wiki/GST "wikilink")+8)播出，該時段現今亦會播出配音版（華語和馬來語）的[SBS月火連續劇或](../Page/SBS月火連續劇.md "wikilink")[SBS水木連續劇](../Page/SBS水木連續劇.md "wikilink")。2016年4月25日起改為19:00([UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")+8)。
+19:45([GST](https://zh.wikipedia.org/wiki/GST "wikilink")+8)播出，該時段現今亦會播出配音版（華語和馬來語）的[SBS月火連續劇](../Page/SBS月火連續劇.md "wikilink")或[SBS水木連續劇](../Page/SBS水木連續劇.md "wikilink")。2016年4月25日起改為19:00([UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")+8)。
 
 2016年5月29日至11月13日期間逢星期日15:15-17:45兩集連播，當廢止後，再沒有劇集在此時段播放，但2018年3月24日起，改為逢星期六20:40-23:00一連4集
 

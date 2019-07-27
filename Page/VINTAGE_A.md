@@ -1,4 +1,4 @@
-《**VINTAGE A**》為[林原惠於](../Page/林原惠.md "wikilink")2000年6月21日發行的第二張精選音樂專輯。
+《**VINTAGE A**》為[林原惠](../Page/林原惠.md "wikilink")於2000年6月21日發行的第二張精選音樂專輯。
 
 ## 解說
 
@@ -73,7 +73,7 @@ S》皆重新發行。再發行版全為初回限定版樣式（2枚組CD盒、�
       - 作詞：[及川眠子](../Page/及川眠子.md "wikilink")、作曲・編曲：[大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")
       - 收錄於原創專輯《Iravati》。
     :\*
-    1997年公開的《[新世紀福音戰士劇場版：死與新生](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：死與新生 "wikilink")》主題曲的翻唱。原曲由[高橋洋子演唱](../Page/高橋洋子.md "wikilink")。
+    1997年公開的《[新世紀福音戰士劇場版：死與新生](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：死與新生 "wikilink")》主題曲的翻唱。原曲由[高橋洋子](../Page/高橋洋子.md "wikilink")演唱。
 15. **[FLY ME TO THE
     MOON](../Page/Fly_Me_to_the_Moon.md "wikilink")（AYANAMI Version）**
     \[4:32\]

@@ -18,7 +18,7 @@ mm的冲程。该引擎也搭载了宝马自家研发的“双可变性正时系
 为了轻量化此引擎用上了双泵“濕式油底壳”润滑系统。为使动力得到最大的输出，所以在加速时发电机都处于断开的状态以减少引擎的负担而只有在煞车时才进行充电，此系统称为Brake
 Energy Regeneration。
 
-引擎压铸零件，共晶后的铝硅缸体由宝马于[兰茨胡特的](../Page/兰茨胡特.md "wikilink")[一级方程式赛车铸造厂生产](../Page/一级方程式赛车.md "wikilink")，其[汽缸蓋则是由从](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[奥地利的铝制品提供与制造商Hydro](https://zh.wikipedia.org/wiki/奥地利 "wikilink")-Aluminium生产。除此引擎也用上外层以铁包围的铝制活塞，缸镁合金的连杆，钢锻造的曲轴和8个蝶式多喉直喷节气门。
+引擎压铸零件，共晶后的铝硅缸体由宝马于[兰茨胡特](../Page/兰茨胡特.md "wikilink")的[一级方程式赛车](../Page/一级方程式赛车.md "wikilink")铸造厂生产，其[汽缸蓋则是由从](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[奥地利的铝制品提供与制造商Hydro](https://zh.wikipedia.org/wiki/奥地利 "wikilink")-Aluminium生产。除此引擎也用上外层以铁包围的铝制活塞，缸镁合金的连杆，钢锻造的曲轴和8个蝶式多喉直喷节气门。
 
 升级版西门子MS S65[发动机控制器](../Page/发动机控制器.md "wikilink")（S85
 V10所用)被采用于此引擎并声称此发动机控制器在一秒内能进行超过2亿字节的计算。经过升级后的MS

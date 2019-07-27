@@ -1,4 +1,4 @@
-**微软XML核心服务**（**MSXML**）提供了一组服务，使用户可以使用[JScript](../Page/JScript.md "wikilink")、[VBScript和其它微软的开发工具开发基于](../Page/VBScript.md "wikilink")[XML的本机应用程序](../Page/XML.md "wikilink")。它支持XML
+**微软XML核心服务**（**MSXML**）提供了一组服务，使用户可以使用[JScript](../Page/JScript.md "wikilink")、[VBScript](../Page/VBScript.md "wikilink")和其它微软的开发工具开发基于[XML](../Page/XML.md "wikilink")的本机应用程序。它支持XML
 1.0、[DOM](https://zh.wikipedia.org/wiki/Document_Object_Model "wikilink")、[SAX](https://zh.wikipedia.org/wiki/Simple_API_for_XML "wikilink")、[XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink")
 1.0，并提供了包括[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[XDR在内的](https://zh.wikipedia.org/wiki/XDR_Schema "wikilink")[XML
 schema](https://zh.wikipedia.org/wiki/XML_schema "wikilink")、XMLHttpRequest、XPath、SOM（）等技术。

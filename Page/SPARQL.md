@@ -1,4 +1,4 @@
-**SPARQL**（讀做「sparkle」\[1\]、「史巴–摳」）是一種用於[資源描述框架上的](../Page/資源描述框架.md "wikilink")[查詢語言](https://zh.wikipedia.org/wiki/查詢語言 "wikilink")，它的名字是一個[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")，代表「**S**PARQL
+**SPARQL**（讀做「sparkle」\[1\]、「史巴–摳」）是一種用於[資源描述框架](../Page/資源描述框架.md "wikilink")上的[查詢語言](https://zh.wikipedia.org/wiki/查詢語言 "wikilink")，它的名字是一個[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")，代表「**S**PARQL
 **P**rotocol **a**nd **R**DF **Q**uery
 **L**anguage（SPARQL協定與RDF查詢語言）」。它的標準化為[全球資訊網協會的](https://zh.wikipedia.org/wiki/全球資訊網協會 "wikilink")*RDF資料存取工作小組（DAWG）*所進行，被認為是[語意網科技的一個關鍵](https://zh.wikipedia.org/wiki/語意網 "wikilink")。2008年1月15日，SPARQL正式成為一項[W3C推薦標準](https://zh.wikipedia.org/wiki/W3C推薦標準 "wikilink")\[2\]。
 
@@ -21,7 +21,7 @@ WHERE {
 }
 ```
 
-假設用來描述[人的](../Page/人.md "wikilink")[本體最終統一為](https://zh.wikipedia.org/wiki/本體_\(資訊學\) "wikilink")[FOAF](https://zh.wikipedia.org/wiki/FOAF "wikilink")。注意到所有在SPARQL裡的標示都是[URI都是廣域上不含糊的](https://zh.wikipedia.org/wiki/URI "wikilink")，與[SQL常用的欄位名](../Page/SQL.md "wikilink")「email」或是「e-mail」有所不同。這是此詢問不含糊的根本原因。
+假設用來描述[人](../Page/人.md "wikilink")的[本體最終統一為](https://zh.wikipedia.org/wiki/本體_\(資訊學\) "wikilink")[FOAF](https://zh.wikipedia.org/wiki/FOAF "wikilink")。注意到所有在SPARQL裡的標示都是[URI都是廣域上不含糊的](https://zh.wikipedia.org/wiki/URI "wikilink")，與[SQL](../Page/SQL.md "wikilink")常用的欄位名「email」或是「e-mail」有所不同。這是此詢問不含糊的根本原因。
 
 這個詢問可以被散布到多個SPARQL節點上，被計算之後結果再聚合起來，這個過程被稱作[聯合式搜尋](https://zh.wikipedia.org/wiki/聯合式搜尋 "wikilink")。
 

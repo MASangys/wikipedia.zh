@@ -2,7 +2,7 @@
 
 ## 公司历史
 
-J唱片公司是于2000年由业界资深人士[克莱夫·戴维斯从](https://zh.wikipedia.org/wiki/克莱夫·戴维斯 "wikilink")[贝塔斯曼音乐集团融资了](https://zh.wikipedia.org/wiki/BMG "wikilink")150百万美元而成立的唱片公司；在他从[阿里斯塔唱片公司逐出后的同年](https://zh.wikipedia.org/wiki/阿里斯塔唱片公司 "wikilink")，便着手运作一个独立的通过贝塔斯曼公司发行唱片的公司。[奥利维亚是第一个签约到J唱片公司的艺人](https://zh.wikipedia.org/wiki/奥利维亚 "wikilink")，但后来由于专辑销量不佳而不再来往。2001年，该厂牌由于一张多[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")《[极微之歌](../Page/极微之歌.md "wikilink")》的首发而获得成功，这张[艾莉西亚·凯斯的首张专辑在全球销了超过](../Page/艾莉西亚·凯斯.md "wikilink")1000万张。同年，该厂牌有另外一个成功的白金销量的专辑
+J唱片公司是于2000年由业界资深人士[克莱夫·戴维斯从](https://zh.wikipedia.org/wiki/克莱夫·戴维斯 "wikilink")[贝塔斯曼音乐集团融资了](https://zh.wikipedia.org/wiki/BMG "wikilink")150百万美元而成立的唱片公司；在他从[阿里斯塔唱片公司逐出后的同年](https://zh.wikipedia.org/wiki/阿里斯塔唱片公司 "wikilink")，便着手运作一个独立的通过贝塔斯曼公司发行唱片的公司。[奥利维亚是第一个签约到J唱片公司的艺人](https://zh.wikipedia.org/wiki/奥利维亚 "wikilink")，但后来由于专辑销量不佳而不再来往。2001年，该厂牌由于一张多[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")《[极微之歌](../Page/极微之歌.md "wikilink")》的首发而获得成功，这张[艾莉西亚·凯斯](../Page/艾莉西亚·凯斯.md "wikilink")的首张专辑在全球销了超过1000万张。同年，该厂牌有另外一个成功的白金销量的专辑
 ——[O-Town的首张专辑](https://zh.wikipedia.org/wiki/O-Town "wikilink")。后来，像[狄安吉洛](https://zh.wikipedia.org/wiki/狄安吉洛 "wikilink")、[杰米·福克斯和](https://zh.wikipedia.org/wiki/杰米·福克斯 "wikilink")[莫尼卡这些老牌艺术家也加入了J唱片公司](https://zh.wikipedia.org/wiki/莫尼卡 "wikilink")，后两者在该厂牌继续取得了多白金唱片的成绩。
 
 2002

@@ -1,6 +1,6 @@
 **Umaga**（）\[1\]\[2\] 本名**愛德華·史密斯·"艾奇"·法圖**（**Edward\[3\] Smith
 "Eki"\[4\]
-Fatu**）\[5\]，是美國[職業摔角手](../Page/職業摔角.md "wikilink")，出身自[美屬薩摩亞](../Page/美屬薩摩亞.md "wikilink")，Umaga是他效力於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")(WWE)旗下時使用的擂台名，也是他最廣為人知的擂台名，他在世界摔角娛樂的最高成就是奪得過兩次洲際盃冠軍。
+Fatu**）\[5\]，是美國[職業摔角](../Page/職業摔角.md "wikilink")手，出身自[美屬薩摩亞](../Page/美屬薩摩亞.md "wikilink")，Umaga是他效力於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")(WWE)旗下時使用的擂台名，也是他最廣為人知的擂台名，他在世界摔角娛樂的最高成就是奪得過兩次洲際盃冠軍。
 
 法圖是[Anoa'i家族的一員](https://zh.wikipedia.org/wiki/Anoa'i家族 "wikilink")，在前往世界摔角娛樂發展前，多半與他的表哥[Matt
 Anoa'i組成雙打隊伍進行比賽](https://zh.wikipedia.org/wiki/Matt_Anoa'i "wikilink")，隊伍使用過"島嶼男孩"(The
@@ -74,16 +74,16 @@ Wrestling比賽](https://zh.wikipedia.org/wiki/Hawai'i_Championship_Wrestling "w
 
 [UMAGA.jpg](https://zh.wikipedia.org/wiki/File:UMAGA.jpg "fig:UMAGA.jpg")''的
 [house show上演出](https://zh.wikipedia.org/wiki/house_show "wikilink")\]\]
-2006年4月3日，法圖正式在RAW節目中重新出道，他使用了一個新的擂台名**Umaga**，這個字的意思源自於傳統薩摩亞[刺青程序中的最後一個步驟](../Page/刺青.md "wikilink")——在肚子上刺青。這也是最痛苦的一個步驟，而它的薩摩亞土語發音就是V.
+2006年4月3日，法圖正式在RAW節目中重新出道，他使用了一個新的擂台名**Umaga**，這個字的意思源自於傳統薩摩亞[刺青](../Page/刺青.md "wikilink")程序中的最後一個步驟——在肚子上刺青。這也是最痛苦的一個步驟，而它的薩摩亞土語發音就是V.
 'Umaga ，意思是"終結"\[19\]。他的角色被設定成一位破壞性十足的野蠻人，只聽從他的經紀人[Armando Alejandro
-Estrada的命令](https://zh.wikipedia.org/wiki/Armando_Alejandro_Estrada "wikilink").\[20\]\[21\]。Umaga一出道就跟WWE老將[瑞克·福萊爾槓上](../Page/瑞克·福萊爾.md "wikilink")\[22\]
-，他的經紀人Estrada在福萊爾出場時嘲笑福萊爾已經老了，該退休了，該是讓新的英雄"Umaga"出場的時候了，接著Umaga就痛毆了福萊爾以及來支援福萊爾的選手\[23\]\[24\]。之後Umaga成為了[文斯·麥馬漢的打手](../Page/文斯·麥馬漢.md "wikilink")，並在[爆裂震撼賽事上打敗了](https://zh.wikipedia.org/wiki/爆裂震撼 "wikilink")[Bobby
+Estrada的命令](https://zh.wikipedia.org/wiki/Armando_Alejandro_Estrada "wikilink").\[20\]\[21\]。Umaga一出道就跟WWE老將[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")槓上\[22\]
+，他的經紀人Estrada在福萊爾出場時嘲笑福萊爾已經老了，該退休了，該是讓新的英雄"Umaga"出場的時候了，接著Umaga就痛毆了福萊爾以及來支援福萊爾的選手\[23\]\[24\]。之後Umaga成為了[文斯·麥馬漢](../Page/文斯·麥馬漢.md "wikilink")的打手，並在[爆裂震撼賽事上打敗了](https://zh.wikipedia.org/wiki/爆裂震撼 "wikilink")[Bobby
 Lashley](https://zh.wikipedia.org/wiki/Bobby_Lashley "wikilink")\[25\]。
 
 之後Umaga仍然維持著難以被擊敗的形象，他打敗了WWE的巨星們，像是[Triple
-H](../Page/Triple_H_\(摔角手\).md "wikilink")、[尚恩·麥可](../Page/尚恩·麥可.md "wikilink")、[約翰·希南等等](../Page/約翰·希南.md "wikilink")。之後他捲入了麥馬漢父子與DX之間的抗爭，在2006年的[夏日衝擊賽事上](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")，DX對上了[文斯·麥馬漢與](../Page/文斯·麥馬漢.md "wikilink")[辛恩·麥馬漢](../Page/辛恩·麥馬漢.md "wikilink")，Umaga原本打算亂入幫助麥馬漢父子，但是被[肯恩阻止](../Page/肯恩_\(摔角手\).md "wikilink")\[26\]。兩人因此結下樑子，之後的兩個月Umaga持續的與肯恩對抗，最後兩人打了一場特殊賽事，敗者要離開RAW，Umaga打敗了肯恩並把他趕出了Raw\[27\]。在2006年的[決戰星期天賽事裡](https://zh.wikipedia.org/wiki/決戰星期天 "wikilink")，觀眾票選了肯恩當Umaga的對手，Umaga再次獲勝\[28\]。
+H](../Page/Triple_H_\(摔角手\).md "wikilink")、[尚恩·麥可](../Page/尚恩·麥可.md "wikilink")、[約翰·希南](../Page/約翰·希南.md "wikilink")等等。之後他捲入了麥馬漢父子與DX之間的抗爭，在2006年的[夏日衝擊賽事上](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")，DX對上了[文斯·麥馬漢](../Page/文斯·麥馬漢.md "wikilink")與[辛恩·麥馬漢](../Page/辛恩·麥馬漢.md "wikilink")，Umaga原本打算亂入幫助麥馬漢父子，但是被[肯恩阻止](../Page/肯恩_\(摔角手\).md "wikilink")\[26\]。兩人因此結下樑子，之後的兩個月Umaga持續的與肯恩對抗，最後兩人打了一場特殊賽事，敗者要離開RAW，Umaga打敗了肯恩並把他趕出了Raw\[27\]。在2006年的[決戰星期天賽事裡](https://zh.wikipedia.org/wiki/決戰星期天 "wikilink")，觀眾票選了肯恩當Umaga的對手，Umaga再次獲勝\[28\]。
 
-之後Umaga開始挑戰WWE冠軍腰帶，而當時的腰帶持有者[約翰·希南自然成了Umaga的眼中釘](../Page/約翰·希南.md "wikilink")，兩人在2007年的[重裝革命賽事上交手](https://zh.wikipedia.org/wiki/重裝革命 "wikilink")，結果約翰·希南打敗了Umaga，也正式中止了Umaga重新出道以來34場的不敗記錄\[29\]。在此之前Umaga只有兩場無法取勝的記錄，一次是被取消資格，另一次是雙方同時數秒到10\[30\]。賽後Umaga的經紀人Estrada試圖淡化這場敗北，宣稱約翰·希南只是僥倖獲勝，並不斷的挑釁希南，直到希南答應在[皇家大戰上再跟Umaga打一場Last](../Page/皇家大戰.md "wikilink")
+之後Umaga開始挑戰WWE冠軍腰帶，而當時的腰帶持有者[約翰·希南](../Page/約翰·希南.md "wikilink")自然成了Umaga的眼中釘，兩人在2007年的[重裝革命賽事上交手](https://zh.wikipedia.org/wiki/重裝革命 "wikilink")，結果約翰·希南打敗了Umaga，也正式中止了Umaga重新出道以來34場的不敗記錄\[29\]。在此之前Umaga只有兩場無法取勝的記錄，一次是被取消資格，另一次是雙方同時數秒到10\[30\]。賽後Umaga的經紀人Estrada試圖淡化這場敗北，宣稱約翰·希南只是僥倖獲勝，並不斷的挑釁希南，直到希南答應在[皇家大戰](../Page/皇家大戰.md "wikilink")上再跟Umaga打一場Last
 Man Standing
 match.\[31\]，但是皇家大戰還沒開打，Umaga就先偷襲了希南，導致希南脾臟受傷(劇情上的設定)\[32\]。但是事後希南拒絕接受驗傷，堅持帶著傷在皇家大戰上與Umaga進行Last
 Man Standing比賽，最後仍舊是希南獲勝，他在使出STFU的同時用繩圈勒了Umaga的脖子\[33\]。
@@ -107,19 +107,19 @@ Lashley進行比賽，但這次是無規則的街頭戰，最後Umaga仍被Bobby
 Lashley也贏回ECW冠軍腰帶。
 
 6月時，Umaga再次把焦點轉向洲際盃冠軍腰帶，因此開始與[Santino
-Marella對上](https://zh.wikipedia.org/wiki/Santino_Marella "wikilink")，兩人在[冠軍之夜賽事上爭奪腰帶](../Page/冠軍之夜.md "wikilink")，Umaga整場都把Santino揍的死去活來的，但是最後卻因為無視裁判的犯規讀秒而被判輸掉比賽\[40\]。Umaga對此結果不服，於是在7月2日再度舉行重賽，這次Umaga打敗了Santino並贏得了洲際盃冠軍腰帶\[41\]。之後Umaga短暫的轉為正派，幫助了[約翰·希南對抗](../Page/約翰·希南.md "wikilink")[Carlito與](https://zh.wikipedia.org/wiki/Carlito "wikilink")[藍迪·歐頓](https://zh.wikipedia.org/wiki/藍迪·歐頓 "wikilink")\[42\]\[43\]。2007年的[夏日衝擊大賽上](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")，Umaga成功的在三方威脅戰中擊退了[甘迺迪先生與Carlito](../Page/甘迺迪先生.md "wikilink")，衛冕了洲際盃冠軍\[44\]。但是之後在8月27日的Raw節目上，Umaga再度轉為反派，他亂入了甘迺迪先生與傑夫·哈迪的比賽，他把傑夫痛打一頓並扔在擂台上後揚長而去\[45\]，於是9月3日的Raw上，傑夫得到了復仇戰的資格，結果Umaga敗給傑夫並失去洲際盃冠軍頭銜。當天稍晚Umaga又被安排與Carlito組隊，在讓步賽中對上[Triple
+Marella對上](https://zh.wikipedia.org/wiki/Santino_Marella "wikilink")，兩人在[冠軍之夜](../Page/冠軍之夜.md "wikilink")賽事上爭奪腰帶，Umaga整場都把Santino揍的死去活來的，但是最後卻因為無視裁判的犯規讀秒而被判輸掉比賽\[40\]。Umaga對此結果不服，於是在7月2日再度舉行重賽，這次Umaga打敗了Santino並贏得了洲際盃冠軍腰帶\[41\]。之後Umaga短暫的轉為正派，幫助了[約翰·希南](../Page/約翰·希南.md "wikilink")對抗[Carlito與](https://zh.wikipedia.org/wiki/Carlito "wikilink")[藍迪·歐頓](https://zh.wikipedia.org/wiki/藍迪·歐頓 "wikilink")\[42\]\[43\]。2007年的[夏日衝擊大賽上](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")，Umaga成功的在三方威脅戰中擊退了[甘迺迪先生](../Page/甘迺迪先生.md "wikilink")與Carlito，衛冕了洲際盃冠軍\[44\]。但是之後在8月27日的Raw節目上，Umaga再度轉為反派，他亂入了甘迺迪先生與傑夫·哈迪的比賽，他把傑夫痛打一頓並扔在擂台上後揚長而去\[45\]，於是9月3日的Raw上，傑夫得到了復仇戰的資格，結果Umaga敗給傑夫並失去洲際盃冠軍頭銜。當天稍晚Umaga又被安排與Carlito組隊，在讓步賽中對上[Triple
 H](../Page/Triple_H_\(摔角手\).md "wikilink")，結果他被Triple
 H的大鐵鎚痛毆至受傷(劇情設定)\[46\]，做為補嘗，Umaga得到了在2007年[完全終結大賽上挑戰Triple](https://zh.wikipedia.org/wiki/完全終結 "wikilink")
 H的WWE冠軍腰帶的權力，但是Umaga並未挑戰成功\[47\]。2007年的[強者生存賽事上](https://zh.wikipedia.org/wiki/強者生存 "wikilink")，他與[MVP](https://zh.wikipedia.org/wiki/MVP_\(摔角手\) "wikilink")、甘迺迪先生、[芬利](../Page/芬利.md "wikilink")、Big
 Daddy V組隊，對上由Triple H領軍的4人隊伍，進行了一場*行刑戰*(被壓制3秒者淘汰出擂台)，但是由Triple
-H的隊伍取得勝利\[48\]。第24屆[摔角狂熱上](../Page/摔角狂熱.md "wikilink")，Umaga獲得了出場機會，他與[巴帝斯塔進行比賽](../Page/巴帝斯塔.md "wikilink")，但是Umaga輸給了巴帝斯塔。之後傑夫·哈迪重回WWE，[William
+H的隊伍取得勝利\[48\]。第24屆[摔角狂熱](../Page/摔角狂熱.md "wikilink")上，Umaga獲得了出場機會，他與[巴帝斯塔](../Page/巴帝斯塔.md "wikilink")進行比賽，但是Umaga輸給了巴帝斯塔。之後傑夫·哈迪重回WWE，[William
 Regal重新點燃了Umaga與傑夫的戰火](https://zh.wikipedia.org/wiki/William_Regal "wikilink")，兩人再度開始抗爭，兩人在狂潮再起賽事上進行*Falls
 Count Anywhere*比賽，最後由傑夫獲勝。
 
 #### SmackDown時期與生涯句點(2008–2009)
 
 [RUmaga.jpg](https://zh.wikipedia.org/wiki/File:RUmaga.jpg "fig:RUmaga.jpg")
-2008年6月23日的[WWE樂透](https://zh.wikipedia.org/wiki/WWE樂透 "wikilink")，Umaga從RAW被抽中移籍到SmackDown\[49\]。他開始了與[甘迺迪先生以及](../Page/甘迺迪先生.md "wikilink")[The
+2008年6月23日的[WWE樂透](https://zh.wikipedia.org/wiki/WWE樂透 "wikilink")，Umaga從RAW被抽中移籍到SmackDown\[49\]。他開始了與[甘迺迪先生](../Page/甘迺迪先生.md "wikilink")以及[The
 Big
 Show的對抗劇情](https://zh.wikipedia.org/wiki/The_Big_Show "wikilink")，但是不久後，在8月2日的WWE[田納西州巡迴比賽上](https://zh.wikipedia.org/wiki/田納西州 "wikilink")，Umaga對上[傑夫·哈迪](../Page/傑夫·哈迪.md "wikilink")，在比賽中Umaga的後交叉韌帶受傷。Umaga一直休息到2009年1月30才再度復出，他在復出戰上擊敗了[Jimmy
 Wang

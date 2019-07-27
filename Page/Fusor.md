@@ -1,29 +1,29 @@
 [Homemade_fusion_reactor.JPG](https://zh.wikipedia.org/wiki/File:Homemade_fusion_reactor.JPG "fig:Homemade_fusion_reactor.JPG")
 [Fusor_running.jpg](https://zh.wikipedia.org/wiki/File:Fusor_running.jpg "fig:Fusor_running.jpg")
 
-**Fusor**是一種實驗裝置，它以[電場來加熱](../Page/電場.md "wikilink")[離子](https://zh.wikipedia.org/wiki/離子 "wikilink")，直到產生適合[核聚變的情況](https://zh.wikipedia.org/wiki/核聚變 "wikilink")。這是一種[惯性静电约束裝置](../Page/惯性静电约束.md "wikilink")，主體内部呈[真空状态](https://zh.wikipedia.org/wiki/真空 "wikilink")，當中有兩個帶著[電極的金屬籠子](https://zh.wikipedia.org/wiki/電極 "wikilink")，產生[電壓](../Page/電壓.md "wikilink")。帶著正電的離子進入這個裝置，會被[電場牽引而加速](../Page/電場.md "wikilink")、發熱，並集中在中心位置。當達到適合的溫度，離子在裝置中心的濃度也增加，若發生相互碰撞，且燃料適當（[氘](../Page/氘.md "wikilink")）即會發生[核聚變](https://zh.wikipedia.org/wiki/核聚變 "wikilink")。
+**Fusor**是一種實驗裝置，它以[電場](../Page/電場.md "wikilink")來加熱[離子](https://zh.wikipedia.org/wiki/離子 "wikilink")，直到產生適合[核聚變的情況](https://zh.wikipedia.org/wiki/核聚變 "wikilink")。這是一種[惯性静电约束](../Page/惯性静电约束.md "wikilink")裝置，主體内部呈[真空状态](https://zh.wikipedia.org/wiki/真空 "wikilink")，當中有兩個帶著[電極的金屬籠子](https://zh.wikipedia.org/wiki/電極 "wikilink")，產生[電壓](../Page/電壓.md "wikilink")。帶著正電的離子進入這個裝置，會被[電場](../Page/電場.md "wikilink")牽引而加速、發熱，並集中在中心位置。當達到適合的溫度，離子在裝置中心的濃度也增加，若發生相互碰撞，且燃料適當（[氘](../Page/氘.md "wikilink")）即會發生[核聚變](https://zh.wikipedia.org/wiki/核聚變 "wikilink")。
 
 這種實驗裝置，最常見的類型，是Farnsworth–Hirsch
-fusor。\[1\]這個裝置由[美国发明家](../Page/美国.md "wikilink")[費羅·法恩斯沃斯](../Page/費羅·法恩斯沃斯.md "wikilink")(1964年)和在1967年發明。\[2\]\[3\][洛斯阿拉莫斯国家实验室的William](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")
+fusor。\[1\]這個裝置由[美国](../Page/美国.md "wikilink")发明家[費羅·法恩斯沃斯](../Page/費羅·法恩斯沃斯.md "wikilink")(1964年)和在1967年發明。\[2\]\[3\][洛斯阿拉莫斯国家实验室](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")的William
 Elmore，James L. Tuck與Ken Watson，曾經提出另一個構想，\[4\]但是沒有實际作出來。
 
-目前这种装置的输出[功率远小于输入功率](../Page/功率.md "wikilink")，还不能作为能源，但是可以用作实际的[中子源](https://zh.wikipedia.org/wiki/中子源 "wikilink")。
+目前这种装置的输出[功率](../Page/功率.md "wikilink")远小于输入功率，还不能作为能源，但是可以用作实际的[中子源](https://zh.wikipedia.org/wiki/中子源 "wikilink")。
 
 ## 機制
 
 Fusor這個裝置包含兩個用金屬線作成的籠子，外層的金屬籠子為陽極，而內層的籠子為陰極，這兩個籠子被包覆起來，裝置內形成[真空](https://zh.wikipedia.org/wiki/真空 "wikilink")。當帶著正電的離子進入裝置，會被內層外層電極形成的電場牽引，向內部加速。隨著離子的速度增加，溫度也會隨之增加。電場牽引著離子，使它的速度上升，溫度也上升，一直加熱到可能發生核聚變的狀態。在裝置中心位置，離子濃度會增高，若發生碰撞，可能有幾個離子發生[核聚變](https://zh.wikipedia.org/wiki/核聚變 "wikilink")。
 
-每增加1[伏特的電壓](../Page/伏特.md "wikilink")，可以使離子溫度增加11,604[开尔文](../Page/热力学温标.md "wikilink")。典型的[磁局限融合裝置產生的](https://zh.wikipedia.org/wiki/磁局限融合 "wikilink")[電漿](https://zh.wikipedia.org/wiki/電漿 "wikilink")，約為15
+每增加1[伏特](../Page/伏特.md "wikilink")的電壓，可以使離子溫度增加11,604[开尔文](../Page/热力学温标.md "wikilink")。典型的[磁局限融合裝置產生的](https://zh.wikipedia.org/wiki/磁局限融合 "wikilink")[電漿](https://zh.wikipedia.org/wiki/電漿 "wikilink")，約為15
 keV或是170
 megakelvin。只要有15,000伏特的電壓，就可以使帶著正電的離子加熱到這個程度。但因為這個裝置的[電阻會使能量產生很高的耗損](https://zh.wikipedia.org/wiki/電阻 "wikilink")，因此類似的裝置，輸入功率都會大於輸出功率，通常無法實際產出能量。
 
 ## 歷史
 
-這種核融合裝置的設計概念，最早由[費羅·法恩斯沃斯提出](../Page/費羅·法恩斯沃斯.md "wikilink")，使用[惯性静电约束](../Page/惯性静电约束.md "wikilink")（IEC）的原理。費羅·法恩斯沃斯在自己的實驗室中進行設計，並取得專利。[惯性静电约束這個名稱也是由他選定](../Page/惯性静电约束.md "wikilink")。
+這種核融合裝置的設計概念，最早由[費羅·法恩斯沃斯](../Page/費羅·法恩斯沃斯.md "wikilink")提出，使用[惯性静电约束](../Page/惯性静电约束.md "wikilink")（IEC）的原理。費羅·法恩斯沃斯在自己的實驗室中進行設計，並取得專利。[惯性静电约束](../Page/惯性静电约束.md "wikilink")這個名稱也是由他選定。
 
-1949年，[ITT公司併購了](../Page/ITT公司.md "wikilink")[法恩斯沃斯實驗室](https://zh.wikipedia.org/wiki/法恩斯沃斯實驗室 "wikilink")，核融合計畫被認為無利可圖，因此遭到擱置。
+1949年，[ITT公司](../Page/ITT公司.md "wikilink")併購了[法恩斯沃斯實驗室](https://zh.wikipedia.org/wiki/法恩斯沃斯實驗室 "wikilink")，核融合計畫被認為無利可圖，因此遭到擱置。
 
-1962年，[費羅·法恩斯沃斯提出一項專利](../Page/費羅·法恩斯沃斯.md "wikilink")，以線柵間的電壓差，來牽引離子，使離子加速到發生核融合。
+1962年，[費羅·法恩斯沃斯](../Page/費羅·法恩斯沃斯.md "wikilink")提出一項專利，以線柵間的電壓差，來牽引離子，使離子加速到發生核融合。
 
 1964年至1967年間，提出一個修改過後的設計，並開始實際建造。
 

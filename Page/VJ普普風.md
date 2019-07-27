@@ -1,5 +1,5 @@
 《**VJ普普風**》是[Channel
-\[V](../Page/Channel_V.md "wikilink")\]（台灣）播出的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年1月7日開始播映。該節目原本由[小香](../Page/趙延慶.md "wikilink")、亨利輪流主持，之後就由[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")、[Choc7](../Page/Choc7.md "wikilink")、[模-{范}-三軍輪流主持](../Page/模范三軍.md "wikilink")，後來就由[四妞妞](../Page/黑Girl.md "wikilink")（[丫頭](../Page/詹子晴.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[允菲](https://zh.wikipedia.org/wiki/林允菲 "wikilink")、[斯亞](../Page/陳斯亞.md "wikilink")），該節目是由[美眉普普風改版而成的節目](../Page/美眉普普風.md "wikilink")。
+\[V](../Page/Channel_V.md "wikilink")\]（台灣）播出的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年1月7日開始播映。該節目原本由[小香](../Page/趙延慶.md "wikilink")、亨利輪流主持，之後就由[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")、[Choc7](../Page/Choc7.md "wikilink")、[模-{范}-三軍輪流主持](../Page/模范三軍.md "wikilink")，後來就由[四妞妞](../Page/黑Girl.md "wikilink")（[丫頭](../Page/詹子晴.md "wikilink")、[小薰](../Page/黃瀞怡.md "wikilink")、[允菲](https://zh.wikipedia.org/wiki/林允菲 "wikilink")、[斯亞](../Page/陳斯亞.md "wikilink")），該節目是由[美眉普普風](../Page/美眉普普風.md "wikilink")改版而成的節目。
 
 由於Channel \[V\]不斷推出新節目影響節目時間表，使得節目於2010年5月28日播出最後一集後停播，\[1\]
 
@@ -57,7 +57,7 @@
 <td><p>1983年<br />
 12月31日</p></td>
 <td><p><a href="../Page/超級星光大道_(第三屆).md" title="wikilink">星光三班台灣區百人初選前</a>30名；<br />
-曾參加<a href="../Page/哪裡5打抗.md" title="wikilink">哪裡5打抗特別企劃</a>「模仿王大賽」並勝出；<br />
+曾參加<a href="../Page/哪裡5打抗.md" title="wikilink">哪裡5打抗</a>特別企劃「模仿王大賽」並勝出；<br />
 已當過兵，是節目中第一位退伍軍人</p></td>
 </tr>
 <tr class="odd">

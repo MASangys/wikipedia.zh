@@ -1,12 +1,12 @@
 《**CAN YOU
-CELEBRATE?**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠以个人名義發行的第](../Page/安室奈美惠.md "wikilink")9張[單曲和代表作](https://zh.wikipedia.org/wiki/單曲 "wikilink")。该曲于1997年2月19日發行。该曲是安室奈美惠迄今為止銷量最高的單曲，同时也是日本1997年單曲銷量總冠軍\[1\]，總銷量達229.6萬張，在[Oricon單曲榜史上排行第](../Page/Oricon公信榜.md "wikilink")14，也是至今女歌手發行的單曲中銷量最高的一首。
+CELEBRATE?**》，是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")以个人名義發行的第9張[單曲和代表作](https://zh.wikipedia.org/wiki/單曲 "wikilink")。该曲于1997年2月19日發行。该曲是安室奈美惠迄今為止銷量最高的單曲，同时也是日本1997年單曲銷量總冠軍\[1\]，總銷量達229.6萬張，在[Oricon單曲榜史上排行第](../Page/Oricon公信榜.md "wikilink")14，也是至今女歌手發行的單曲中銷量最高的一首。
 
 《CAN YOU
-CELEBRATE?》也是1997年由[和久井映見和](../Page/和久井映見.md "wikilink")[反町隆史主演的](../Page/反町隆史.md "wikilink")[日本人氣電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[通向婚紗之路](https://zh.wikipedia.org/wiki/處女之路_\(電視劇\) "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。在電視劇片頭中，安室奈美惠扮演一名[修女為正在教堂舉行](https://zh.wikipedia.org/wiki/修女 "wikilink")[婚禮的男女主角唱婚禮進行曲](https://zh.wikipedia.org/wiki/婚禮 "wikilink")——《CAN
+CELEBRATE?》也是1997年由[和久井映見](../Page/和久井映見.md "wikilink")和[反町隆史](../Page/反町隆史.md "wikilink")主演的[日本人氣電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[通向婚紗之路](https://zh.wikipedia.org/wiki/處女之路_\(電視劇\) "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。在電視劇片頭中，安室奈美惠扮演一名[修女為正在教堂舉行](https://zh.wikipedia.org/wiki/修女 "wikilink")[婚禮的男女主角唱婚禮進行曲](https://zh.wikipedia.org/wiki/婚禮 "wikilink")——《CAN
 YOU
-CELEBRATE?》；而此曲的作者[小室哲哉也在片頭現身](../Page/小室哲哉.md "wikilink")，他在教堂內為這婚禮進行曲用[鋼琴伴奏](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。
+CELEBRATE?》；而此曲的作者[小室哲哉](../Page/小室哲哉.md "wikilink")也在片頭現身，他在教堂內為這婚禮進行曲用[鋼琴伴奏](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。
 
-同年12月25日，[小室哲哉為了紀念安室即將結婚](../Page/小室哲哉.md "wikilink")，特意推出祝福盤——12cm的單曲CD《CAN
+同年12月25日，[小室哲哉](../Page/小室哲哉.md "wikilink")為了紀念安室即將結婚，特意推出祝福盤——12cm的單曲CD《CAN
 YOU CELEBRATE? -MAXI-》。
 
 1998年，安室於第49回[NHK紅白歌合戰正式復出並演唱這首歌曲](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，還刷新當年度紅白最高[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")。

@@ -1,16 +1,16 @@
 「**Can't Stop\!\!
--LOVING-**」是[SMAP的出道作品](../Page/SMAP.md "wikilink")，於1991年9月9日由[Victor
+-LOVING-**」是[SMAP](../Page/SMAP.md "wikilink")的出道作品，於1991年9月9日由[Victor
 Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 簡介
 
-  - 1988年，由12人組成的溜冰男子在當紅男子組合[光GENJI後方伴舞](../Page/光GENJI.md "wikilink")，同年4月，當中6人被挑選成為SMAP成員。從此以後，經過3年5個月(即1991年9月9日)以此單曲出道。這天被視為「SMAP出生日」，傳媒每年都會以演唱會的圖像在當天作為新聞報導。
+  - 1988年，由12人組成的溜冰男子在當紅男子組合[光GENJI](../Page/光GENJI.md "wikilink")後方伴舞，同年4月，當中6人被挑選成為SMAP成員。從此以後，經過3年5個月(即1991年9月9日)以此單曲出道。這天被視為「SMAP出生日」，傳媒每年都會以演唱會的圖像在當天作為新聞報導。
   - 「Can't Stop\!\!
     -LOVING-」從1988年4月開始便是[文化放送的廣播節目](https://zh.wikipedia.org/wiki/文化放送 "wikilink")「STOP
     THE SMAP」的開場及結尾歌曲，但所使用的是卡拉OK版本
   - 這是SMAP初次出戰紅白歌合戰的歌曲
   - 相對於後輩[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[KinKi
-    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")、[嵐](../Page/嵐.md "wikilink")、[NEWS](../Page/NEWS.md "wikilink")、[KAT-TUN的出道單曲](../Page/KAT-TUN.md "wikilink")，SMAP的出道單曲成績不是相當好，上述的6個組合的出道單曲都獲得最高銷量紀錄，可是SMAP的出道單曲累積銷量只有15萬張（SMAP
+    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")、[嵐](../Page/嵐.md "wikilink")、[NEWS](../Page/NEWS.md "wikilink")、[KAT-TUN](../Page/KAT-TUN.md "wikilink")的出道單曲，SMAP的出道單曲成績不是相當好，上述的6個組合的出道單曲都獲得最高銷量紀錄，可是SMAP的出道單曲累積銷量只有15萬張（SMAP
     40首單曲中銷量五大最差之一）。2007年4月26日播出的[歌番](../Page/歌番.md "wikilink")（成員中居正廣為主持之一），嘉賓是同事務所的後輩KinKi
     Kids，中居正廣回顧出道當時的情況：「傑尼斯事務所中首次出道單曲沒拿第一位」、「『你們為何賣不出（唱片）』」等抱怨言論。他們從1991年1月便有演唱會活動，成員草彅剛曾說「首次上台便看到會場有空位」。
   - 因後來森且行離隊事件，在電視節目上以6人姿態演唱這歌的機會變得越來越少。另外，作為國民偶像，一般人都不太認識SMAP的出道單曲。但是，在2005年的尾場演唱會中，此歌在以特別安歌的歌曲登場（收錄在演唱會DVD中），對於成員而言有特別的意思。

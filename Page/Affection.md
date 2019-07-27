@@ -1,4 +1,4 @@
-『**affection**』為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未的首張原創專輯](../Page/倖田來未.md "wikilink")，於2002年3月27日發行。
+『**affection**』為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")的首張原創專輯，於2002年3月27日發行。
 
 ## 解說
 

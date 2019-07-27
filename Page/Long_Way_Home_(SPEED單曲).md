@@ -5,9 +5,9 @@ Home**》，是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.w
 Way
 Home》作為她們解散前最後一張專輯，在11月3日發表，而歌曲風格也轉為SPEED以前未有過的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")。
 
-儘管有[嵐的出道單曲](../Page/嵐.md "wikilink")《[A·RA·SHI](../Page/A·RA·SHI.md "wikilink")》和[宇多田光的](../Page/宇多田光.md "wikilink")《[Addicted
+儘管有[嵐](../Page/嵐.md "wikilink")的出道單曲《[A·RA·SHI](../Page/A·RA·SHI.md "wikilink")》和[宇多田光](../Page/宇多田光.md "wikilink")的《[Addicted
 To
-You](../Page/Addicted_To_You.md "wikilink")》的圍堵，但單曲在[Oricon週榜最高排行依然有第](../Page/Oricon.md "wikilink")2位；在榜期間銷量為6.13萬張，獲得[日本唱片業協會的白金唱片認證](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")。
+You](../Page/Addicted_To_You.md "wikilink")》的圍堵，但單曲在[Oricon](../Page/Oricon.md "wikilink")週榜最高排行依然有第2位；在榜期間銷量為6.13萬張，獲得[日本唱片業協會的白金唱片認證](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")。
 
 ## 收錄曲目
 

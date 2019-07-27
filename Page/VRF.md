@@ -1,4 +1,4 @@
-**VRF**是一個[香港四人男子組合](../Page/香港.md "wikilink")，由
+**VRF**是一個[香港](../Page/香港.md "wikilink")四人男子組合，由
 [余啟邦](https://zh.wikipedia.org/wiki/余啟邦 "wikilink")﹝[Ronald](https://zh.wikipedia.org/wiki/Ronald "wikilink")﹞、
 [李安](https://zh.wikipedia.org/wiki/李安（歌手） "wikilink")﹝[Ray](https://zh.wikipedia.org/wiki/Ray "wikilink")﹞、
 [梁世豪](https://zh.wikipedia.org/wiki/梁世豪 "wikilink")﹝[Raul](https://zh.wikipedia.org/wiki/Raul "wikilink")﹞和
@@ -12,7 +12,7 @@ Four**的意思，第二個是V「**R**」「**4**」，因為四位成員的英
 
 ## Real的真名
 
-成員Real在VRF初時用真名*丁浩霖*，之後改名[丁子高](../Page/丁子高.md "wikilink")，與天后[楊千嬅註冊結婚時的英文名為](../Page/楊千嬅.md "wikilink")*Gary*，不是Real\[3\]。
+成員Real在VRF初時用真名*丁浩霖*，之後改名[丁子高](../Page/丁子高.md "wikilink")，與天后[楊千嬅](../Page/楊千嬅.md "wikilink")註冊結婚時的英文名為*Gary*，不是Real\[3\]。
 
 ## 音樂作品
 

@@ -1,5 +1,5 @@
 [R_giggs.jpg](https://zh.wikipedia.org/wiki/File:R_giggs.jpg "fig:R_giggs.jpg")\]\]
-**BBC年度風雲人物**是一個在每年12月於[BBC年度風雲人物頒獎典禮中頒發的獎項](https://zh.wikipedia.org/wiki/BBC "wikilink")。得主是一名被公眾投票選為年度最出色得運動員，而且一定是[英國人或在](https://zh.wikipedia.org/wiki/英國人 "wikilink")[英國參與運動](https://zh.wikipedia.org/wiki/英國 "wikilink")。在每年的11月，一個由30名體育記者組成的小組會定出獎項的最後10強，在12月頭公佈。而2009年的得獎者是[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[足球勁旅](../Page/足球.md "wikilink")[曼聯的副隊長](https://zh.wikipedia.org/wiki/曼聯 "wikilink")[傑斯](../Page/瑞恩·吉格斯.md "wikilink")。
+**BBC年度風雲人物**是一個在每年12月於[BBC年度風雲人物頒獎典禮中頒發的獎項](https://zh.wikipedia.org/wiki/BBC "wikilink")。得主是一名被公眾投票選為年度最出色得運動員，而且一定是[英國人或在](https://zh.wikipedia.org/wiki/英國人 "wikilink")[英國參與運動](https://zh.wikipedia.org/wiki/英國 "wikilink")。在每年的11月，一個由30名體育記者組成的小組會定出獎項的最後10強，在12月頭公佈。而2009年的得獎者是[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[足球](../Page/足球.md "wikilink")勁旅[曼聯的副隊長](https://zh.wikipedia.org/wiki/曼聯 "wikilink")[傑斯](../Page/瑞恩·吉格斯.md "wikilink")。
 
 ## 歷屆得主
 

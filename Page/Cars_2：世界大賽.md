@@ -8,13 +8,13 @@ McQueen）以及拖線（Mater）環遊世界的經歷。\[1\]可是，這部電
 開發出新能源 － 「埃能源」（Allinol）的米路士爵士(Sir Miles
 Axlerod)召開世界格蘭披治大賽，各路好手紛紛雲集，獨缺四屆洲際盃冠軍閃電麥坤。
 
-閃電麥坤（）自從贏得洲際盃之後便成為賽車界的超級巨星，繼續參加各種賽車比賽。這次他拿了第四個洲際盃冠軍，回到打冷鎮見老朋友，本來想要就此放自己一個大假。由于[意大利](../Page/意大利.md "wikilink")[方程式赛车法蘭斯高](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")(Francesco)的挑釁，拖線(Mater)替麥坤報了名，麥坤最终同意参加世界大賽，並帶同車隊好友團隊一同参加在[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")、[意大利摩納港](../Page/意大利.md "wikilink")（虛構）和[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦舉行的各段賽事](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
+閃電麥坤（）自從贏得洲際盃之後便成為賽車界的超級巨星，繼續參加各種賽車比賽。這次他拿了第四個洲際盃冠軍，回到打冷鎮見老朋友，本來想要就此放自己一個大假。由于[意大利](../Page/意大利.md "wikilink")[方程式赛车法蘭斯高](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")(Francesco)的挑釁，拖線(Mater)替麥坤報了名，麥坤最终同意参加世界大賽，並帶同車隊好友團隊一同参加在[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")、[意大利](../Page/意大利.md "wikilink")摩納港（虛構）和[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦舉行的各段賽事](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
 [cars2.jpg](https://zh.wikipedia.org/wiki/File:cars2.jpg "fig:cars2.jpg")
 這次環遊世界的比賽，還帶上從未出國過的拖線一起出門，拖線終於有機會出國旅遊，覺得大開眼界，不過也因此鬧了不少笑話。而在日本站比賽的前一天，拖線偶然結識了[英國秘密情報局特務飛彈麥克](https://zh.wikipedia.org/wiki/英國秘密情報局 "wikilink")(Finn
 McMissile)與郝莉莉(Holley
-Shiftwell)，他们正在追查一個跟[石油](../Page/石油.md "wikilink")[公司密切相關的犯罪集團的行踪](../Page/公司.md "wikilink")。拖線陰差陽錯之下被郝莉莉當作美國来的街頭特務，由此卷入了麻煩之中。在次日的比賽中，麥坤與法蘭斯高競爭激烈，與此同時不斷有賽車意外着火爆缸，拖線則撞见飛彈麥克和神秘組織火拼的場面。
+Shiftwell)，他们正在追查一個跟[石油](../Page/石油.md "wikilink")[公司](../Page/公司.md "wikilink")密切相關的犯罪集團的行踪。拖線陰差陽錯之下被郝莉莉當作美國来的街頭特務，由此卷入了麻煩之中。在次日的比賽中，麥坤與法蘭斯高競爭激烈，與此同時不斷有賽車意外着火爆缸，拖線則撞见飛彈麥克和神秘組織火拼的場面。
 
-這次他們從[美洲到](../Page/美洲.md "wikilink")[亞洲再到](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，橫跨三洲，將行遍天下無敵車，更多精采的賽車實況以及緊張刺激的諜匪情節，將會考驗閃電麥坤的賽車技術與拖線的友情，最终破壞比賽賽車的幕後黑手露出真正面目。
+這次他們從[美洲](../Page/美洲.md "wikilink")到[亞洲再到](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，橫跨三洲，將行遍天下無敵車，更多精采的賽車實況以及緊張刺激的諜匪情節，將會考驗閃電麥坤的賽車技術與拖線的友情，最终破壞比賽賽車的幕後黑手露出真正面目。
 
 ## 角色
 
@@ -301,7 +301,7 @@ Hobbscap）**
 
 《汽車總動員》是[皮克斯動畫製片中](https://zh.wikipedia.org/wiki/皮克斯動畫工作室 "wikilink")，第二部有續集的動畫電影（另一部是《[反斗奇兵](https://zh.wikipedia.org/wiki/反斗奇兵 "wikilink")》）。《反斗車王2》原本定於2012年上映發行的，但皮克斯將其提早了一年。\[2\]
 
-[約翰·拉薩特在世界各地發表推行上一集時](https://zh.wikipedia.org/wiki/約翰·拉薩特 "wikilink")，有了第二集的構想，他曾說過：「我試著想像：『拖線在這種情況下會做些什麼事呢，你知道嗎？』我甚至能想像拖線在[英國的右線行駛](https://zh.wikipedia.org/wiki/英國 "wikilink")、環繞[巴黎巨大的圓環](../Page/巴黎.md "wikilink")、在[德國公路飆車](https://zh.wikipedia.org/wiki/德國 "wikilink")、在[義大利和一群機車溝通以及在](https://zh.wikipedia.org/wiki/義大利 "wikilink")[日本研究交通標誌的意思](../Page/日本.md "wikilink")……等。」\[3\]
+[約翰·拉薩特在世界各地發表推行上一集時](https://zh.wikipedia.org/wiki/約翰·拉薩特 "wikilink")，有了第二集的構想，他曾說過：「我試著想像：『拖線在這種情況下會做些什麼事呢，你知道嗎？』我甚至能想像拖線在[英國的右線行駛](https://zh.wikipedia.org/wiki/英國 "wikilink")、環繞[巴黎](../Page/巴黎.md "wikilink")巨大的圓環、在[德國公路飆車](https://zh.wikipedia.org/wiki/德國 "wikilink")、在[義大利和一群機車溝通以及在](https://zh.wikipedia.org/wiki/義大利 "wikilink")[日本](../Page/日本.md "wikilink")研究交通標誌的意思……等。」\[3\]
 
 ### 製作問題
 
@@ -318,8 +318,8 @@ Hudson）則於2008年9月死於[肺癌](../Page/肺癌.md "wikilink")\[4\]。
 
 ## 片中彩蛋內容
 
-1.  [攬攬熊勞蘇](https://zh.wikipedia.org/wiki/玩具總動員3#.E6.96.B0.E7.8E.A9.E5.85.B7 "wikilink")：演出之[玩具總動員3](../Page/玩具總動員3.md "wikilink")。片中是個叫「熊抱車」的廣告看板，位於東京。先前是在[天外奇蹟中客串](../Page/天外奇蹟.md "wikilink")，是在卡爾爺爺的屋子起飛時，一個女孩的房間，一同出現的有：[頑皮跳跳燈中的皮球](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")。
-2.  古斯特餐廳：演出之[皮克斯電影](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[料理鼠王](../Page/料理鼠王.md "wikilink")。原片[料理鼠王中的主要場景之一](../Page/料理鼠王.md "wikilink")，在本片依然是出現在[巴黎](../Page/巴黎.md "wikilink")，古斯特人招牌已經被改為車（畢竟這是個汽車世界）。
+1.  [攬攬熊勞蘇](https://zh.wikipedia.org/wiki/玩具總動員3#.E6.96.B0.E7.8E.A9.E5.85.B7 "wikilink")：演出之[玩具總動員3](../Page/玩具總動員3.md "wikilink")。片中是個叫「熊抱車」的廣告看板，位於東京。先前是在[天外奇蹟](../Page/天外奇蹟.md "wikilink")中客串，是在卡爾爺爺的屋子起飛時，一個女孩的房間，一同出現的有：[頑皮跳跳燈中的皮球](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")。
+2.  古斯特餐廳：演出之[皮克斯電影](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[料理鼠王](../Page/料理鼠王.md "wikilink")。原片[料理鼠王](../Page/料理鼠王.md "wikilink")中的主要場景之一，在本片依然是出現在[巴黎](../Page/巴黎.md "wikilink")，古斯特人招牌已經被改為車（畢竟這是個汽車世界）。
 3.  比薩星球卡車：演出之[皮克斯電影全部](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")（除反斗奇兵、反斗奇兵續集及反斗奇兵3外皆為[客串](https://zh.wikipedia.org/wiki/客串 "wikilink")），主要電影為[玩具總動員中比薩星球之送貨車](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")，在本片名叫Todd。
 4.  超能先生：演出之[皮克斯電影](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[超人特攻隊](../Page/超人特攻隊_\(電影\).md "wikilink")，在片頭脫線和麥坤去電影院時，螢幕上就是在放映該片。
 5.  [青天白日滿地紅旗](https://zh.wikipedia.org/wiki/青天白日滿地紅旗 "wikilink")：由於皮克斯製作團隊來自[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[動畫特效工程師](../Page/動畫師.md "wikilink")[駱孝先先生要求](https://zh.wikipedia.org/wiki/駱孝先 "wikilink")，雖然最終還是無法讓影片前進台灣拍攝，導演[約翰·拉薩特仍在畫面右側安排一輛賽車迷的紅色轎車在義大利觀眾席中揮舞青天白日滿地紅旗](https://zh.wikipedia.org/wiki/約翰·拉薩特 "wikilink")（約01:00:35，畫面右下方。但根據電影並沒有任何台灣籍賽車）。
@@ -328,13 +328,13 @@ Hudson）則於2008年9月死於[肺癌](../Page/肺癌.md "wikilink")\[4\]。
 8.  「東京拖線」角色：在麥坤抵達東京時，夜晚的街頭上有一台拉風跑車開到士官長前方，麥坤的左車道。其實他就是在Cars之前的番外卡通「[拖線狂想曲](https://zh.wikipedia.org/wiki/拖線狂想曲 "wikilink")」其中一部「東京拖線」中和拖線在東京賽車的車友。（「東京拖線」內容敘述拖線（Mater）和閃電麥坤（Lightning
     McQueen）來到日本東京比賽的故事，劇情則是改編自電影《[玩命關頭3：東京甩尾](../Page/玩命關頭3：東京甩尾.md "wikilink")》。）
 9.  炸彈客：皮克斯《超人特攻隊》電影一開場的那位炸彈怪客，之後到了《料理鼠王》變成背景裡的路人甲，似乎是在路邊騙小孩。而這個橋段在本片巴黎鐵塔附近（約00:50:10)再度出現，受騙的小車依舊是藍色烤漆與紅色烤漆。
-10. 現實中著名人士：如[英國女王](https://zh.wikipedia.org/wiki/英國君主 "wikilink")[伊莉莎白二世](https://zh.wikipedia.org/wiki/伊莉莎白二世 "wikilink")、[威廉王子](https://zh.wikipedia.org/wiki/威廉王子_\(劍橋公爵\) "wikilink")、[教宗](../Page/教宗.md "wikilink")[本篤十六世等](../Page/本篤十六世.md "wikilink")，在片中均化為汽車登場。
+10. 現實中著名人士：如[英國女王](https://zh.wikipedia.org/wiki/英國君主 "wikilink")[伊莉莎白二世](https://zh.wikipedia.org/wiki/伊莉莎白二世 "wikilink")、[威廉王子](https://zh.wikipedia.org/wiki/威廉王子_\(劍橋公爵\) "wikilink")、[教宗](../Page/教宗.md "wikilink")[本篤十六世](../Page/本篤十六世.md "wikilink")等，在片中均化為汽車登場。
 
 ## 原聲帶
 
 配樂由同為《[超人特攻隊](https://zh.wikipedia.org/wiki/超人特攻隊 "wikilink")》、《[料理鼠王](../Page/料理鼠王.md "wikilink")》、《[天外奇蹟](../Page/天外奇蹟.md "wikilink")》配樂的[麥可·吉亞奇諾擔綱](https://zh.wikipedia.org/wiki/麥可·吉亞奇諾 "wikilink")，收錄[威瑟樂團](../Page/威瑟樂團.md "wikilink")“You
 Might
-Think”、[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")“[Polyrhythm](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")”、[羅比·威廉斯及](https://zh.wikipedia.org/wiki/羅比·威廉斯 "wikilink")[布拉德·帕斯利合唱](../Page/布拉德·帕斯利.md "wikilink")“Collision
+Think”、[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")“[Polyrhythm](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")”、[羅比·威廉斯及](https://zh.wikipedia.org/wiki/羅比·威廉斯 "wikilink")[布拉德·帕斯利](../Page/布拉德·帕斯利.md "wikilink")合唱“Collision
 Of Worlds”等26首電影配樂及歌曲。
 2011年7月29日發行。
 

@@ -1,4 +1,4 @@
-***Takk...***(冰島語－謝謝的意思\[1\])，是[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[後搖滾樂團](../Page/後搖滾.md "wikilink")[Sigur
+***Takk...***(冰島語－謝謝的意思\[1\])，是[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[後搖滾](../Page/後搖滾.md "wikilink")樂團[Sigur
 Rós第四張錄音室專輯](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")。第一波單曲"Glósóli"和"Sæglópur"分別在2005年8月15日、8月16日於[美國公佈](https://zh.wikipedia.org/wiki/美國 "wikilink")。另一首單曲"[Hoppípolla](https://zh.wikipedia.org/wiki/Hoppípolla "wikilink")"在2005年11月28日於英國釋出，並且於12月4日進入[singles
 chart第](https://zh.wikipedia.org/wiki/UK_Singles_Chart "wikilink")35名。
 
@@ -63,17 +63,17 @@ Rós的](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")*Takk...*在2006年
 
 另外[弦樂部分在Langholtskirkja錄製](https://zh.wikipedia.org/wiki/弦樂 "wikilink")，由下列樂手演奏:
 
-[大提琴手](../Page/大提琴.md "wikilink"):
+[大提琴](../Page/大提琴.md "wikilink")手:
 
   - Kristín Lárusdóttir
   - Júlía Mogensen
 
-[中提琴手](../Page/中提琴.md "wikilink"):
+[中提琴](../Page/中提琴.md "wikilink")手:
 
   - Stefanía Ólafsdóttir
   - Eyjólfur Bjarni Alfreðsson
 
-[小提琴手](../Page/小提琴.md "wikilink"):
+[小提琴](../Page/小提琴.md "wikilink")手:
 
   - Ingrid Karlsdóttir
   - Gréta Salóme Stefánsdóttir
@@ -82,7 +82,7 @@ Rós的](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")*Takk...*在2006年
 
 [銅管樂器](../Page/銅管樂器.md "wikilink"):
 
-[小號s](../Page/小號.md "wikilink"):
+[小號](../Page/小號.md "wikilink")s:
 
   - Eiríkur Orri Ólafsson
   - Snorri Sigurðarson
@@ -97,10 +97,10 @@ Rós的](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")*Takk...*在2006年
   - Össur Geirsson
 
 "Sé
-lest"曲中[打擊樂的](https://zh.wikipedia.org/wiki/打擊樂 "wikilink")[定音鼓由Frank](../Page/定音鼓.md "wikilink")
+lest"曲中[打擊樂的](https://zh.wikipedia.org/wiki/打擊樂 "wikilink")[定音鼓](../Page/定音鼓.md "wikilink")由Frank
 Aarnink演奏。
 
-"Hoppípolla"一曲的[合唱由](../Page/合唱.md "wikilink")[Álafosskórinn詮釋並由Helgi](https://zh.wikipedia.org/wiki/Álafosskórinn "wikilink")
+"Hoppípolla"一曲的[合唱](../Page/合唱.md "wikilink")由[Álafosskórinn詮釋並由Helgi](https://zh.wikipedia.org/wiki/Álafosskórinn "wikilink")
 R. Einarsson指導。
 
 ## 資料來源

@@ -1,4 +1,4 @@
-本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台的播放日期](../Page/Astro華麗台.md "wikilink")。
+本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 8.00港劇時段
 
@@ -147,7 +147,7 @@ Catch Me Now</p></td>
 <a href="../Page/李天翔.md" title="wikilink">李天翔</a>、<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a>、<a href="../Page/李家聲.md" title="wikilink">李家聲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/莊偉健" title="wikilink">莊偉健</a></p></td>
 <td style="text-align: center;"><p><a href="https://web.archive.org/web/20080712022919/http://tvcity.tvb.com/drama/catchmenow/">網頁</a></p></td>
-<td style="text-align: center;"><p>主題音樂：原來愛上賊（<a href="../Page/葉肇中.md" title="wikilink">葉肇中作曲</a>）</p></td>
+<td style="text-align: center;"><p>主題音樂：原來愛上賊（<a href="../Page/葉肇中.md" title="wikilink">葉肇中</a>作曲）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -192,7 +192,7 @@ Love Exchange</p></td>
 <td style="text-align: center;"><p><a href="../Page/黃偉聲.md" title="wikilink">黃偉聲</a></p></td>
 <td style="text-align: center;"><p><a href="https://web.archive.org/web/20080712132737/http://tvcity.tvb.com/drama/loveexchange/">網頁</a></p></td>
 <td style="text-align: center;"><p>主：距離（<a href="../Page/吳雨霏.md" title="wikilink">吳雨霏</a>）</p></td>
-<td style="text-align: center;"><p>11月19日暫停播映与<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand</a> 同步直播<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶2009</a></p></td>
+<td style="text-align: center;"><p>11月19日暫停播映与<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand</a> 同步直播<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶</a>2009</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2009年26/11-<br />
@@ -277,7 +277,7 @@ Off Pedder</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/曾励珍" title="wikilink">曾励珍</a></p></td>
 <td style="text-align: center;"><p><a href="http://programme.tvb.com/drama/offpedder">網頁</a></p></td>
 <td style="text-align: center;"><p>主題音樂：无人完美(郑欣宜)</p></td>
-<td style="text-align: center;"><p>11月19日暫停播映与<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand</a> 同步直播<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶2009</a><br />
+<td style="text-align: center;"><p>11月19日暫停播映与<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand</a> 同步直播<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶</a>2009<br />
 12月4日暫停播映与Astro On Demand 同步直播<a href="../Page/萬千星輝頒獎典禮2009.md" title="wikilink">萬千星輝頒獎典禮2009</a></p></td>
 </tr>
 <tr class="odd">
@@ -332,7 +332,7 @@ The Ultimate Crime Fighter</p></td>
 <a href="../Page/魏駿傑.md" title="wikilink">魏駿傑</a>、<a href="../Page/梁家仁.md" title="wikilink">梁家仁</a>、<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/王心慰.md" title="wikilink">王心慰</a></p></td>
 <td style="text-align: center;"><p><a href="https://web.archive.org/web/20071011001202/http://tvcity.tvb.com/drama/the_ultimate_crime_fighter/">網頁</a></p></td>
-<td style="text-align: center;"><p>主題音樂：通天幹探（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉及</a><a href="../Page/葉肇中.md" title="wikilink">葉肇中作曲</a>）<br />
+<td style="text-align: center;"><p>主題音樂：通天幹探（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a>及<a href="../Page/葉肇中.md" title="wikilink">葉肇中</a>作曲）<br />
 插：賜我一死（<a href="../Page/陳豪.md" title="wikilink">陳豪</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -458,8 +458,8 @@ Last One Standing</p></td>
 <a href="../Page/呂珊.md" title="wikilink">呂　珊</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<a href="../Page/麥長青.md" title="wikilink">麥長青</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/王心慰.md" title="wikilink">王心慰</a></p></td>
 <td style="text-align: center;"><p><a href="http://tvcity.tvb.com/drama/lastonestanding/">網頁</a></p></td>
-<td style="text-align: center;"><p>主题音樂：與敵同行（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉作曲</a>）</p></td>
-<td style="text-align: center;"><p>11月19日暫停播映与<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand</a> 同步直播<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶2009</a></p></td>
+<td style="text-align: center;"><p>主题音樂：與敵同行（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a>作曲）</p></td>
+<td style="text-align: center;"><p>11月19日暫停播映与<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand</a> 同步直播<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶</a>2009</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2009年<br />
@@ -584,7 +584,7 @@ The Master of Tai Chi</p></td>
 <td style="text-align: center;"><p><a href="../Page/梁家樹.md" title="wikilink">梁家樹</a><br />
 <a href="https://zh.wikipedia.org/wiki/蔡晶盛" title="wikilink">蔡晶盛</a></p></td>
 <td style="text-align: center;"><p><a href="https://web.archive.org/web/20080226032454/http://tvcity.tvb.com/drama/themasteroftaichi/">網頁</a></p></td>
-<td style="text-align: center;"><p>主題音樂：太極（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a>、<a href="../Page/譚天樂.md" title="wikilink">譚天樂作曲</a>）<br />
+<td style="text-align: center;"><p>主題音樂：太極（<a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a>、<a href="../Page/譚天樂.md" title="wikilink">譚天樂</a>作曲）<br />
 插：浮生若水（<a href="https://zh.wikipedia.org/wiki/林峯" title="wikilink">林峯</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>

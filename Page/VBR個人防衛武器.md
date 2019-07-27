@@ -1,11 +1,11 @@
 **VBR
-PDW**（PDW全稱，中文即為[個人防衛武器](../Page/個人防衛武器.md "wikilink")）是一款由[比利时槍械設計師Rik](../Page/比利时.md "wikilink")
+PDW**（PDW全稱，中文即為[個人防衛武器](../Page/個人防衛武器.md "wikilink")）是一款由[比利时](../Page/比利时.md "wikilink")槍械設計師Rik
 Van
 Bruene所設計、槍械製造商[VBR所研制的](https://zh.wikipedia.org/wiki/VBR-比利時 "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")，可以發射全新研發的[7.92×24毫米或是傳統的](https://zh.wikipedia.org/wiki/7.92×24mm "wikilink")[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計和操作
 
-此槍的外型很接近一把[半自動手槍](../Page/半自動手槍.md "wikilink")，但發射的是威力比[9×19毫米魯格彈更強的](../Page/9×19mm魯格彈.md "wikilink")7.92×24毫米以及可以連射。它使用[貝瑞塔92F的](../Page/貝瑞塔92手槍.md "wikilink")[雙動操作扳機和](https://zh.wikipedia.org/wiki/扳機 "wikilink")[格洛克17的可拆卸式雙排](../Page/格洛克17.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。截至2010年，此槍仍然處於原型階段。\[1\]它裝有[寬型前握把以及可](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍托](../Page/槍托.md "wikilink")，有助提高長距離瞄準及射擊時持槍的穩定性和準確性。VBR個人防衛武器的槍口外部螺紋可以讓[槍管安裝](../Page/槍管.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")。\[2\]
+此槍的外型很接近一把[半自動手槍](../Page/半自動手槍.md "wikilink")，但發射的是威力比[9×19毫米魯格彈更強的](../Page/9×19mm魯格彈.md "wikilink")7.92×24毫米以及可以連射。它使用[貝瑞塔92F的](../Page/貝瑞塔92手槍.md "wikilink")[雙動操作扳機和](https://zh.wikipedia.org/wiki/扳機 "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")的可拆卸式雙排[彈匣](../Page/彈匣.md "wikilink")。截至2010年，此槍仍然處於原型階段。\[1\]它裝有[寬型前握把以及可](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍托](../Page/槍托.md "wikilink")，有助提高長距離瞄準及射擊時持槍的穩定性和準確性。VBR個人防衛武器的槍口外部螺紋可以讓[槍管](../Page/槍管.md "wikilink")安裝[消聲器](../Page/抑制器.md "wikilink")。\[2\]
 
 ## 民用版本
 
@@ -26,7 +26,7 @@ Bruene所設計、槍械製造商[VBR所研制的](https://zh.wikipedia.org/wiki
   - 2014年—《[-{zh-cn:使命召唤：高级战争;
     zh-tw:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》（Call
     of Duty: Advanced
-    Warfare）：命名為「PDW」，黑色及沙色槍身，15發（聯機模式可使用改裝：延長彈匣增至22發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為45發（聯機模式），最高攜彈量為75發（故事模式和聯機模式），使用時在第一人稱視角中會緊握[前握把](../Page/輔助握把.md "wikilink")。故事模式之中被反科技恐怖組織KVA所使用；聯機模式時於等級40解鎖，並可以使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[目標增強瞄準鏡](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[自动对焦瞄準鏡](../Page/自动对焦.md "wikilink")、[戰術刀](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[雙持](../Page/雙持.md "wikilink")、[消音器技能](../Page/抑制器.md "wikilink")；動力服生存模式時為專業兵次要起始武器，預設具有延長彈匣。
+    Warfare）：命名為「PDW」，黑色及沙色槍身，15發（聯機模式可使用改裝：延長彈匣增至22發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為45發（聯機模式），最高攜彈量為75發（故事模式和聯機模式），使用時在第一人稱視角中會緊握[前握把](../Page/輔助握把.md "wikilink")。故事模式之中被反科技恐怖組織KVA所使用；聯機模式時於等級40解鎖，並可以使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[目標增強瞄準鏡](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[自动对焦](../Page/自动对焦.md "wikilink")瞄準鏡、[戰術刀](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[雙持](../Page/雙持.md "wikilink")、[消音器技能](../Page/抑制器.md "wikilink")；動力服生存模式時為專業兵次要起始武器，預設具有延長彈匣。
 
 ## 相關條目
 

@@ -1,5 +1,5 @@
 **Maximum The
-Hormone**（，意指**极限荷尔蒙**）是一个来自日本东京[八王子市的新金属](../Page/八王子市.md "wikilink")，金属核乐队。有關队名的由来，原先說法是“想要做出能令人脑内分泌出最大级（maximum）的[荷尔蒙](https://zh.wikipedia.org/wiki/荷尔蒙 "wikilink")（hormone）的音乐”後來又改為是“團員們都很喜歡吃燒肉的內臟（Hormone），之後在前面加上自以為帥氣的冠詞（Maximum）”。
+Hormone**（，意指**极限荷尔蒙**）是一个来自日本东京[八王子市](../Page/八王子市.md "wikilink")的新金属，金属核乐队。有關队名的由来，原先說法是“想要做出能令人脑内分泌出最大级（maximum）的[荷尔蒙](https://zh.wikipedia.org/wiki/荷尔蒙 "wikilink")（hormone）的音乐”後來又改為是“團員們都很喜歡吃燒肉的內臟（Hormone），之後在前面加上自以為帥氣的冠詞（Maximum）”。
 
 ## 历史
 

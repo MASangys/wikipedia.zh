@@ -3,13 +3,13 @@ Epstein，1982年9月14日）\[1\]，[法国歌手](https://zh.wikipedia.org/wik
 
 ## 早年
 
-艾普斯坦出生在[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")，童年在[美国的](../Page/美国.md "wikilink")[洛杉矶与](../Page/洛杉矶.md "wikilink")[纽约度过](../Page/纽约.md "wikilink")。
+艾普斯坦出生在[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")，童年在[美国](../Page/美国.md "wikilink")的[洛杉矶](../Page/洛杉矶.md "wikilink")与[纽约](../Page/纽约.md "wikilink")度过。
 
 ## 音乐生涯
 
-艾普斯坦为[德国的](../Page/德国.md "wikilink")[Monrose乐队写过](../Page/Monrose.md "wikilink")"[Strike
+艾普斯坦为[德国](../Page/德国.md "wikilink")的[Monrose](../Page/Monrose.md "wikilink")乐队写过"[Strike
 the
-Match](https://zh.wikipedia.org/wiki/Strike_the_Match "wikilink")"。为[比利时歌手](../Page/比利时.md "wikilink")[Natalia的双白金唱片](https://zh.wikipedia.org/wiki/Natalia "wikilink")[Everything
+Match](https://zh.wikipedia.org/wiki/Strike_the_Match "wikilink")"。为[比利时](../Page/比利时.md "wikilink")歌手[Natalia的双白金唱片](https://zh.wikipedia.org/wiki/Natalia "wikilink")[Everything
 &
 More写过Appetite](https://zh.wikipedia.org/wiki/Everything_&_More "wikilink")
 For

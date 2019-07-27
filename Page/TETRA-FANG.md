@@ -1,8 +1,8 @@
-**TETRA-FANG**（テトラファング）在2008年結成，是[日本的](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。所屬的公司是[AVEX](https://zh.wikipedia.org/wiki/AVEX "wikilink")。
+**TETRA-FANG**（テトラファング）在2008年結成，是[日本](../Page/日本.md "wikilink")的[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。所屬的公司是[AVEX](https://zh.wikipedia.org/wiki/AVEX "wikilink")。
 
 ## 來歷
 
-2008年，因[朝日電視台拍攝的](../Page/朝日電視台.md "wikilink")『[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")』所組成的期間限定搖滾樂隊，由主演假面騎士KIVA的[瀬戸康史以](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")「KOJI」的名義作為主唱。
+2008年，因[朝日電視台](../Page/朝日電視台.md "wikilink")拍攝的『[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")』所組成的期間限定搖滾樂隊，由主演假面騎士KIVA的[瀬戸康史以](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")「KOJI」的名義作為主唱。
 
 前作『[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")』所組成的『[Double-Action](https://zh.wikipedia.org/wiki/Double-Action "wikilink")』的手法得到好評，因此TETRA-FANG是參照這手法的。前作是由各『假面騎士電王』登場的演員、廣播劇演員演唱歌曲，但這次有所不同，假面騎士KIVA的主題曲及插曲基本由KOJI演唱。
 

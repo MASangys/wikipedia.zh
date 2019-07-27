@@ -1,5 +1,5 @@
 《**劇場版 機動戰士GUNDAM00 -Awakening of the Trailblazer-**》是[機動戰士GUNDAM
-00於](../Page/機動戰士GUNDAM_00.md "wikilink")2009年3月29日在第二季動畫最後一集播畢後發表的劇場版，於2010年9月18日在[日本上映](../Page/日本.md "wikilink")（中文的意思為「先驅者的覺醒」）\[1\]。
+00於](../Page/機動戰士GUNDAM_00.md "wikilink")2009年3月29日在第二季動畫最後一集播畢後發表的劇場版，於2010年9月18日在[日本](../Page/日本.md "wikilink")上映（中文的意思為「先驅者的覺醒」）\[1\]。
 
 ## 劇情架構介紹
 
@@ -105,7 +105,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 
   -
     劇中被[ELS](https://zh.wikipedia.org/wiki/ELS "wikilink")（斯凱·艾克里普斯）侵蝕半身的[高中](https://zh.wikipedia.org/wiki/高中 "wikilink")[女生](https://zh.wikipedia.org/wiki/女生 "wikilink")，擁有覺醒成純種變革者的因子。
-    在ELS大規模出現於[木星時覺醒](../Page/木星.md "wikilink")。
+    在ELS大規模出現於[木星](../Page/木星.md "wikilink")時覺醒。
     50年後的2364年成為外宇宙探查艦「皇」的船員，左半邊有與剎那相同的ELS金屬化特徵。除了剎那外，似乎是被ELS侵蝕後的唯一生還者。
 
 <!-- end list -->
@@ -163,7 +163,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 
   -
     前PMC
-    Trust([埃及](../Page/埃及.md "wikilink"))[女性駕駛員](../Page/女性.md "wikilink")。
+    Trust([埃及](../Page/埃及.md "wikilink"))[女性](../Page/女性.md "wikilink")駕駛員。
     在劇場版被挑選為太陽勇者隊的成員之一，駕駛的座機是與其他成員一樣的GNX-Y903VS 勇者式一般用試驗機。
 
 ## 登場機體
@@ -210,7 +210,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 ## ELS
 
 地球外變異性金屬體，通稱ELS（Extraterrestrial Living-metal
-Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](../Page/外星生命.md "wikilink")。具有與一切事物融合的特性，在侵蝕物體過程內部會呈現銀灰色結晶狀，液態金屬形式能夠[擬態成人類](https://zh.wikipedia.org/wiki/擬態 "wikilink")、MS或者是戰艦\[6\]，由ELS所擬態而成的MS在外觀及機能上並非是完全的模仿，頭部攝影機皆為單眼式，並且於太陽爐外殼及細部等處留有ELS其原有型態的特徵，武器在使用時並非是以手掌進行握持，而是直接由於手臂變形而成\[7\]，而擬態後的MS或戰艦所散發出的GN粒子以及武器的光束顏色為紫色\[8\]，由ELS擬態而成的MS或戰艦，除了GN粒子以及武器的光束可以擬態外，甚至軍隊戰鬥的模式也可以模彷。
+Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命](../Page/外星生命.md "wikilink")體。具有與一切事物融合的特性，在侵蝕物體過程內部會呈現銀灰色結晶狀，液態金屬形式能夠[擬態成人類](https://zh.wikipedia.org/wiki/擬態 "wikilink")、MS或者是戰艦\[6\]，由ELS所擬態而成的MS在外觀及機能上並非是完全的模仿，頭部攝影機皆為單眼式，並且於太陽爐外殼及細部等處留有ELS其原有型態的特徵，武器在使用時並非是以手掌進行握持，而是直接由於手臂變形而成\[7\]，而擬態後的MS或戰艦所散發出的GN粒子以及武器的光束顏色為紫色\[8\]，由ELS擬態而成的MS或戰艦，除了GN粒子以及武器的光束可以擬態外，甚至軍隊戰鬥的模式也可以模彷。
 
   - 機體
 
@@ -297,7 +297,7 @@ Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](..
 ## 上映情况
 
 本剧于2011年7月7日至7月11日
-于中国大陆[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅赛德斯-奔驰文化中心限场次上映](../Page/梅赛德斯-奔驰文化中心.md "wikilink")，此为GUNDAM系列动画在中国大陆的首次公映。
+于中国大陆[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅赛德斯-奔驰文化中心](../Page/梅赛德斯-奔驰文化中心.md "wikilink")限场次上映，此为GUNDAM系列动画在中国大陆的首次公映。
 
 ## 參考資料
 

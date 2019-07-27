@@ -31,7 +31,7 @@ channel_1 = [三立都會台](../Page/三立都會台.md "wikilink") | picture_f
 preceded_by = | followed_by = | related = | website =
 <http://www.ttv.com.tw/drama10/psman/index.htm> | production_website =
 }}
-**《偷心大聖PS男》**（，[新加坡譯為](../Page/新加坡.md "wikilink")****\[1\]，前名《尋找P.S.男》、《愛上P.S.男》）是2010年[三立華人電視劇週日十點檔系列的第二十二部作品](https://zh.wikipedia.org/wiki/三立電視戲劇節目列表#華人電視劇 "wikilink")。全劇共21集。[台灣電視公司](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")、[三立電視公司聯合出品](../Page/三立電視.md "wikilink")。[劉俊傑執導](../Page/劉俊傑.md "wikilink")。2009年7月殺青，2010年2月28日播到7月18日止。接檔《[下一站，幸福](../Page/下一站，幸福.md "wikilink")》。主要演員包括[藍正龍](../Page/藍正龍.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[隋棠](../Page/隋棠.md "wikilink")、[白歆惠](../Page/白歆惠.md "wikilink")、[小小彬](https://zh.wikipedia.org/wiki/小小彬 "wikilink")。
+**《偷心大聖PS男》**（，[新加坡](../Page/新加坡.md "wikilink")譯為****\[1\]，前名《尋找P.S.男》、《愛上P.S.男》）是2010年[三立華人電視劇週日十點檔系列的第二十二部作品](https://zh.wikipedia.org/wiki/三立電視戲劇節目列表#華人電視劇 "wikilink")。全劇共21集。[台灣電視公司](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")、[三立電視](../Page/三立電視.md "wikilink")公司聯合出品。[劉俊傑](../Page/劉俊傑.md "wikilink")執導。2009年7月殺青，2010年2月28日播到7月18日止。接檔《[下一站，幸福](../Page/下一站，幸福.md "wikilink")》。主要演員包括[藍正龍](../Page/藍正龍.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[隋棠](../Page/隋棠.md "wikilink")、[白歆惠](../Page/白歆惠.md "wikilink")、[小小彬](https://zh.wikipedia.org/wiki/小小彬 "wikilink")。
 
 ## 播出時間
 

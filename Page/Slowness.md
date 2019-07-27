@@ -1,4 +1,4 @@
-《**Slowness**》是[香港女歌手](../Page/香港.md "wikilink")[謝安琪於](../Page/謝安琪.md "wikilink")2009年12月21日推出的大碟，是她所推出的第七張專輯。
+《**Slowness**》是[香港](../Page/香港.md "wikilink")女歌手[謝安琪](../Page/謝安琪.md "wikilink")於2009年12月21日推出的大碟，是她所推出的第七張專輯。
 
 ## 專輯簡介
 

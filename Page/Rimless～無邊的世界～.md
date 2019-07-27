@@ -1,4 +1,4 @@
-《**Rimless～無邊的世界～**》（）是[IKU的第](../Page/IKU.md "wikilink")2張單曲。
+《**Rimless～無邊的世界～**》（）是[IKU](../Page/IKU.md "wikilink")的第2張單曲。
 
 ## 收錄曲
 

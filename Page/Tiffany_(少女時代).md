@@ -1,7 +1,7 @@
-**黃美英**（，\[1\]，），藝名**蒂芬妮**（，），[韓裔](https://zh.wikipedia.org/wiki/韓國 "wikilink")[美籍的女](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手及](../Page/歌手.md "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[少女時代的成員之一](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。出生於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，2004年在[洛杉磯被經紀公司](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[SM
+**黃美英**（，\[1\]，），藝名**蒂芬妮**（，），[韓裔](https://zh.wikipedia.org/wiki/韓國 "wikilink")[美籍的女](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手](../Page/歌手.md "wikilink")及[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[少女時代的成員之一](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。出生於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，2004年在[洛杉磯被經紀公司](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[SM
 Entertainment發掘](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，3星期後進入該公司當練習生。2007年8月5日，以女子組合[少女時代出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，在隊內擔任主唱及Rapper。2012年與[太妍](../Page/太妍.md "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代子團](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")。2016年5月11日，以Solo身份出道，發行首張迷你專輯《[I
 Just Wanna
-Dance](../Page/I_Just_Wanna_Dance.md "wikilink")》。2017年10月9日，Tiffany不再與[SM娛樂續約](../Page/SM娛樂.md "wikilink")，正式離開SM娛樂，但不會退出[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2018年9月20日，公佈個人粉絲名為“Young
+Dance](../Page/I_Just_Wanna_Dance.md "wikilink")》。2017年10月9日，Tiffany不再與[SM娛樂](../Page/SM娛樂.md "wikilink")續約，正式離開SM娛樂，但不會退出[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2018年9月20日，公佈個人粉絲名為“Young
 One”，意指“永遠”。2019年3月15日，發行第二張迷你專輯《[Lips On
 Lips](https://zh.wikipedia.org/wiki/Lips_On_Lips "wikilink")》。
 
@@ -23,34 +23,34 @@ Entertainment公司選拔為練習生前](https://zh.wikipedia.org/wiki/SM_Enter
 (加利福尼亞州)就讀當地的South Pointe Middle School和鑽石吧高中(Diamond Bar High
 School)，被選拔為練習生後她前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並且轉學到位於[首爾市當地的](https://zh.wikipedia.org/wiki/首爾市 "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代的前成員兼歌手](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡以及歌手](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")[Jessi](../Page/Jessi.md "wikilink")。
 
-2004年，蒂芬妮參加[SM娛樂在洛杉磯市舉辦的](../Page/SM娛樂.md "wikilink")「Starlight Casting
+2004年，蒂芬妮參加[SM娛樂](../Page/SM娛樂.md "wikilink")在洛杉磯市舉辦的「Starlight Casting
 System」選秀會，獲得CJ/KMTV USA-LA
-Contest第一名，在此次選秀會中蒂芬妮被[SM娛樂發掘](../Page/SM娛樂.md "wikilink")，進入該公司當練習生。16歲時因被診斷有[脊椎側彎](../Page/脊椎側彎.md "wikilink")，而需放棄芭蕾舞訓練。經過三年七個月的密集訓練，終於在2007年8月5日以女子組合[少女時代順利出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
+Contest第一名，在此次選秀會中蒂芬妮被[SM娛樂](../Page/SM娛樂.md "wikilink")發掘，進入該公司當練習生。16歲時因被診斷有[脊椎側彎](../Page/脊椎側彎.md "wikilink")，而需放棄芭蕾舞訓練。經過三年七個月的密集訓練，終於在2007年8月5日以女子組合[少女時代順利出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
 
 ### 生涯發展
 
-2007年11月5日，蒂芬妮跟[金彗星在](../Page/金彗星.md "wikilink")[Mnet電視台共同主持](https://zh.wikipedia.org/wiki/Mnet "wikilink")《少男少女歌謠百首（소년소녀
+2007年11月5日，蒂芬妮跟[金彗星](../Page/金彗星.md "wikilink")在[Mnet電視台共同主持](https://zh.wikipedia.org/wiki/Mnet "wikilink")《少男少女歌謠百首（소년소녀
 가요백서）》節目，一直到2008年6月13日蒂芬妮才正式離開該節目\[4\]。
 
-2008年1月8日，蒂芬妮跟同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon公司的網路線上遊戲](../Page/Nexon.md "wikilink")「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠
+2008年1月8日，蒂芬妮跟同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon](../Page/Nexon.md "wikilink")公司的網路線上遊戲「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠
 나빠 ）》為遊戲的插入曲；另一首《太神奇了（It's Fantastic\!）》則為此遊戲的主題曲\[5\]。
 
 2009年3月26日，蒂芬妮在[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[自鳴鼓](../Page/自鳴鼓.md "wikilink")》中主唱劇中的插入歌《我一個人（By
 Myself）》，此曲為蒂芬妮獨挑大樑首次獨唱一首歌\[6\]\[7\]。3月31日，蒂芬妮跟[K.Will合作男女對唱歌曲](https://zh.wikipedia.org/wiki/K.Will "wikilink")《少女遇見愛（소녀,
 사랑을
 만나다）》，此曲被收錄在[K.Will迷你專輯](https://zh.wikipedia.org/wiki/K.Will "wikilink")「淚眼汪汪」內\[8\]。4月4日，蒂芬妮跟同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[俞利一起主持](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[MBC電視台](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》節目，一直到2010年7月31日蒂芬妮因日趨忙碌於[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[日本出道行程才離開該節目](../Page/日本.md "wikilink")\[9\]\[10\]。5月8日，蒂芬妮與同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[秀英合唱一首歌曲](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")《只感覺到你（너만을
+音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》節目，一直到2010年7月31日蒂芬妮因日趨忙碌於[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[日本](../Page/日本.md "wikilink")出道行程才離開該節目\[9\]\[10\]。5月8日，蒂芬妮與同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[秀英合唱一首歌曲](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")《只感覺到你（너만을
 느끼며）》\[11\]。
 
 2010年5月2日，蒂芬妮與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[潤娥及](https://zh.wikipedia.org/wiki/林潤娥 "wikilink")[徐玄聯同](../Page/徐朱玄.md "wikilink")[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM合唱韓國水上樂園](https://zh.wikipedia.org/wiki/2PM "wikilink")[加勒比海灣的廣告歌曲](https://zh.wikipedia.org/wiki/加勒比海灣 "wikilink")《Cabi》\[12\]
-\[13\]。10月15日，蒂芬妮跟另一團體[東方神起成員](../Page/東方神起.md "wikilink")[鄭允浩](../Page/鄭允浩.md "wikilink")，兩人一起替[韓國旅遊發展局為推廣旅遊業而出資籌拍的電視劇](../Page/韓國觀光公社.md "wikilink")「一天」主唱劇中的插入歌《戒指（반지）》\[14\]。
+\[13\]。10月15日，蒂芬妮跟另一團體[東方神起](../Page/東方神起.md "wikilink")成員[鄭允浩](../Page/鄭允浩.md "wikilink")，兩人一起替[韓國旅遊發展局為推廣旅遊業而出資籌拍的電視劇](../Page/韓國觀光公社.md "wikilink")「一天」主唱劇中的插入歌《戒指（반지）》\[14\]。
 
 2011年8月20日蒂芬妮與同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")、[俞利三人一起在](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[新潟舉行的韓國音樂明星演唱會擔任主持人](../Page/新潟市.md "wikilink")\[15\]。11月25日，蒂芬妮在音樂劇《[名揚四海](https://zh.wikipedia.org/wiki/名揚四海_\(音樂劇\) "wikilink")（Fame）》中擔任劇中的角色卡門·迪亞茲（Carmen
 Diaz），一起參與演出的還有[Super
-Junior的](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、GOD的[孫昊永](../Page/孫昊永.md "wikilink")、[天上智喜的Lina等人](../Page/天上智喜.md "wikilink")。
+Junior的](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、GOD的[孫昊永](../Page/孫昊永.md "wikilink")、[天上智喜](../Page/天上智喜.md "wikilink")的Lina等人。
 
 2012年4月10日，蒂芬妮為[KBS2連續劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[愛情雨](https://zh.wikipedia.org/wiki/愛情雨 "wikilink")》演唱插入曲《因為是你》。5月2日，蒂芬妮與[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代的首個子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")，並推出首張迷你專輯《[Twinkle](../Page/Twinkle.md "wikilink")》。子團體[TaeTiSeo的音樂類型及曲風跟母團體](../Page/少女時代-太蒂徐.md "wikilink")[少女時代有所不同](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。8月29日，蒂芬妮跟同公司的男子組合[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[圭賢為](../Page/圭賢.md "wikilink")[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[致美麗的你](https://zh.wikipedia.org/wiki/致美麗的你 "wikilink")》演唱插入曲《致美麗的你》。
+Junior成員](../Page/Super_Junior.md "wikilink")[圭賢](../Page/圭賢.md "wikilink")為[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[致美麗的你](https://zh.wikipedia.org/wiki/致美麗的你 "wikilink")》演唱插入曲《致美麗的你》。
 
 2013年4月17日，蒂芬妮為[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[我戀愛的一切](../Page/我戀愛的一切.md "wikilink")》演唱插入曲《One
 Step Closer》。
@@ -65,11 +65,11 @@ Santa](../Page/Dear_Santa.md "wikilink")》。
 2016年5月11日正式以SOLO歌手身份出道，並發行首張個人專輯《I Just Wanna
 Dance》\[16\]。6月10日，蒂芬妮在第一次個人演唱會Weekend上發表同名曲目《Weekend》，為本人親自英文填詞及作曲。
 
-2017年10月9日，Tiffany不再與[SM娛樂續約](../Page/SM娛樂.md "wikilink")，正式離開SM娛樂，但不會退出少女時代，目前已返回美國求學及與家人團聚。
+2017年10月9日，Tiffany不再與[SM娛樂](../Page/SM娛樂.md "wikilink")續約，正式離開SM娛樂，但不會退出少女時代，目前已返回美國求學及與家人團聚。
 
 2018年3月14日，以藝名Tiffany Young推出數碼單曲《[Remember
 Me](../Page/請記住我_\(皮克斯歌曲\).md "wikilink")》，翻唱[可可夜總會的歌曲](https://zh.wikipedia.org/wiki/可可夜總會 "wikilink")，在iTunes
-發行。\[17\]並於當日創立了個人的[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[微博及](../Page/微博.md "wikilink")[Youtube頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
+發行。\[17\]並於當日創立了個人的[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[微博](../Page/微博.md "wikilink")及[Youtube頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
 
 2018年6月13日，Tiffany正式簽約[Paradigm Talent
 Agency](https://zh.wikipedia.org/wiki/:en:Paradigm_Talent_Agency "wikilink")，
@@ -415,7 +415,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="even">
 <td><p>2008年8月1日</p></td>
 <td><p>It's Fantastic</p></td>
-<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon網路線上遊戲</a>《<a href="https://zh.wikipedia.org/wiki/瑪奇" title="wikilink">瑪奇</a>》</p></td>
+<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon</a>網路線上遊戲《<a href="https://zh.wikipedia.org/wiki/瑪奇" title="wikilink">瑪奇</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
@@ -445,7 +445,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="odd">
 <td><p>2010年10月15日</p></td>
 <td><p>戒指</p></td>
-<td><p><a href="../Page/韓國觀光公社.md" title="wikilink">韓國觀光公社短劇</a>《一天》</p></td>
+<td><p><a href="../Page/韓國觀光公社.md" title="wikilink">韓國觀光公社</a>短劇《一天》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -505,7 +505,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="odd">
 <td><p>秘密</p></td>
-<td><p><a href="../Page/金烔完.md" title="wikilink">金烔完二輯</a>《The Secret : Between Us》</p></td>
+<td><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a>二輯《The Secret : Between Us》</p></td>
 <td><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a></p></td>
 <td></td>
 </tr>
@@ -590,11 +590,47 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
   - 《[WEEKEND－TIFFANY](../Page/WEEKEND－TIFFANY.md "wikilink")》演唱會
 
-|                |        |               |
-| -------------- | ------ | ------------- |
-| 日期             | 演唱會站次  | 舉行地點          |
-| 2016年6月10日-12日 | 首爾     | SMTOWN THEATR |
-| 2016年6月24日-26日 | 首爾(加場) |               |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年6月10日-12日</p></td>
+<td><p>首爾</p></td>
+<td><p>SMTOWN THEATR</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年6月24日-26日</p></td>
+<td><p>首爾(加場)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 《OPEN HEARTS EVE》演唱會
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月3日</p></td>
+<td><p>首爾</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月17日</p></td>
+<td><p>曼谷</p></td>
+<td><p>Thunder Dome</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 粉絲見面會
 
@@ -1063,7 +1099,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 **註：以母團身分代言的部分詳見[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**
 
   - 2008年
-    《[瑪奇Mabinogi](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")》[Nexon公司網路線上遊戲](../Page/Nexon.md "wikilink")
+    《[瑪奇Mabinogi](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")》[Nexon](../Page/Nexon.md "wikilink")公司網路線上遊戲
   - 2009年 《1682 Collect
     call》[SK](https://zh.wikipedia.org/wiki/SK集團 "wikilink")
     telink
@@ -1107,7 +1143,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 | 10月刊                                            | 《BEAUTY+》                                       | 封面                                          |        |
 | 12月刊                                            | 《Ceci Korea》                                    | 封面                                          |        |
 | 2018年                                           | 8月刊                                             | 《BAZAAR Vietnam》                            | 封面     |
-| 寫真                                              | 《GRAZIA》                                        | 與[H\&M合作](../Page/H&M.md "wikilink")        |        |
+| 寫真                                              | 《GRAZIA》                                        | 與[H\&M](../Page/H&M.md "wikilink")合作        |        |
 | Digital Cover                                   | 《Paper Magazine》                                | 封面                                          |        |
 | 12月刊                                            | 《[ELLE](../Page/ELLE.md "wikilink") HongKong》   | 封面                                          |        |
 | 2019年                                           | 3月刊                                             | 《[ELLE](../Page/ELLE.md "wikilink") Taiwan》 | 封面     |

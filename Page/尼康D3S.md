@@ -1,5 +1,5 @@
 Nikon
-D3S是[尼康公司於](https://zh.wikipedia.org/wiki/尼康公司 "wikilink")2009年10月14日發佈的具有12.1百萬[像素的](../Page/像素.md "wikilink")[全畫幅](https://zh.wikipedia.org/wiki/全畫幅數碼單鏡反光相機 "wikilink")
+D3S是[尼康公司於](https://zh.wikipedia.org/wiki/尼康公司 "wikilink")2009年10月14日發佈的具有12.1百萬[像素](../Page/像素.md "wikilink")的[全畫幅](https://zh.wikipedia.org/wiki/全畫幅數碼單鏡反光相機 "wikilink")
 (35mm) [數碼單鏡反光相機](https://zh.wikipedia.org/wiki/數碼單鏡反光相機 "wikilink")
 ([DSLR](https://zh.wikipedia.org/wiki/DSLR "wikilink"))。D3S與D3X一起成為尼康公司DSLR產品線的頂端產品。D3s是第一部ISO超過十萬(102400)且支援錄影功能的全片幅機種。
 

@@ -17,7 +17,7 @@ supported_platforms =
 [dpkg](https://zh.wikipedia.org/wiki/dpkg "wikilink") /
 [Synaptic](https://zh.wikipedia.org/wiki/Synaptic "wikilink") }}
 
-**gNewSense**是一個基於[Debian的](../Page/Debian.md "wikilink")[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[1\]。它試圖提供一個仅使用自由软件的便于使用的作業系統。[自由软件基金会認為gNewSense是一個完全自由的GNU](../Page/自由软件基金会.md "wikilink")/Linux作業系統\[2\]。
+**gNewSense**是一個基於[Debian](../Page/Debian.md "wikilink")的[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[1\]。它試圖提供一個仅使用自由软件的便于使用的作業系統。[自由软件基金会](../Page/自由软件基金会.md "wikilink")認為gNewSense是一個完全自由的GNU/Linux作業系統\[2\]。
 
 gNewSense對非自由軟件採取了較嚴格的立場。例如，為提供非自由軟件安裝說明的任何文件都被排除在外\[3\]。
 
@@ -26,11 +26,11 @@ O'Malley於2006年發起。2006年10月，0.85版本發佈後，自由软件基�
 
 ## 特色
 
-在默認情況下，gNewSense使用[GNOME](../Page/GNOME.md "wikilink")，[GNU計劃的官方](../Page/GNU計劃.md "wikilink")[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。自2.0版本，[KDE也可以在gNewSense中](../Page/KDE.md "wikilink")。
+在默認情況下，gNewSense使用[GNOME](../Page/GNOME.md "wikilink")，[GNU計劃](../Page/GNU計劃.md "wikilink")的官方[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。自2.0版本，[KDE](../Page/KDE.md "wikilink")也可以在gNewSense中。
 
 Ubiquity installer允許安裝到硬盤內部的Live
-CD環境，而無需重新啟動電腦安裝。除了標準的系統工具和其他小型應用程序外，gNewSense還提供下列軟件，[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")[辦公室軟件](https://zh.wikipedia.org/wiki/辦公室軟件 "wikilink")，[Epiphany](https://zh.wikipedia.org/wiki/Epiphany "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，[Pidgin](../Page/Pidgin.md "wikilink")[即時通訊以及](../Page/即時通訊.md "wikilink")[GIMP影像處理軟件等](../Page/GIMP.md "wikilink")。默認安裝的[軟件開發工具包括](https://zh.wikipedia.org/wiki/軟件開發 "wikilink")
-[GCC及](../Page/GCC.md "wikilink")[Emacs](../Page/Emacs.md "wikilink")[文字編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")。
+CD環境，而無需重新啟動電腦安裝。除了標準的系統工具和其他小型應用程序外，gNewSense還提供下列軟件，[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")[辦公室軟件](https://zh.wikipedia.org/wiki/辦公室軟件 "wikilink")，[Epiphany](https://zh.wikipedia.org/wiki/Epiphany "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，[Pidgin](../Page/Pidgin.md "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")以及[GIMP](../Page/GIMP.md "wikilink")影像處理軟件等。默認安裝的[軟件開發工具包括](https://zh.wikipedia.org/wiki/軟件開發 "wikilink")
+[GCC](../Page/GCC.md "wikilink")及[Emacs](../Page/Emacs.md "wikilink")[文字編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")。
 
 ## 外部連結
 

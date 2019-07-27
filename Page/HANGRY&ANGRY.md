@@ -1,4 +1,4 @@
-是於2008年成立的[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[女性](../Page/女性.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂 "wikilink")，成員為二名前[早安少女組的成員](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")[吉澤瞳](../Page/吉澤瞳.md "wikilink")（Hangry）及[石川梨華](../Page/石川梨華.md "wikilink")（Angry）。組合是和一間同名的[原宿時尚商店HANGRY](../Page/原宿.md "wikilink")\&ANGRY
+是於2008年成立的[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[女性](../Page/女性.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂 "wikilink")，成員為二名前[早安少女組的成員](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")[吉澤瞳](../Page/吉澤瞳.md "wikilink")（Hangry）及[石川梨華](../Page/石川梨華.md "wikilink")（Angry）。組合是和一間同名的[原宿](../Page/原宿.md "wikilink")時尚商店HANGRY\&ANGRY
 Harajuku合作，以有助於銷售商店的各种产品，包括[毛绒玩具](https://zh.wikipedia.org/wiki/毛绒玩具 "wikilink")、文具和衣服等等。\[1\]
 
 ## 概要
@@ -8,7 +8,7 @@ Harajuku合作，以有助於銷售商店的各种产品，包括[毛绒玩具](
     Japan史上最快的100萬瀏覽次數。
   - 2008年11月19日，迷你專輯「Kill Me Kiss
     Me」於[日本](../Page/日本.md "wikilink")、[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[南韓同時發行](https://zh.wikipedia.org/wiki/南韓 "wikilink")。
-  - 不只在[日本國內活動](../Page/日本.md "wikilink")，也在2009年4月[西雅圖舉辦的](../Page/西雅圖.md "wikilink")「Sakura-con」活動中初次於美國亮相，備受矚目。
+  - 不只在[日本](../Page/日本.md "wikilink")國內活動，也在2009年4月[西雅圖](../Page/西雅圖.md "wikilink")舉辦的「Sakura-con」活動中初次於美國亮相，備受矚目。
   - 組合的名稱有二種，於公式網頁及[博客等中被寫成](https://zh.wikipedia.org/wiki/博客 "wikilink")「HANGRY\&ANGRY」，但平時作為組合使用的標誌時則是「hANGRY\&ANGRY」。
 
 ## HANGRY\&ANGRY的原形
@@ -16,8 +16,8 @@ Harajuku合作，以有助於銷售商店的各种产品，包括[毛绒玩具](
 最初當向媒體公佈這個新組合並發佈[音樂專輯](../Page/音樂專輯.md "wikilink")「Sadistic
 Dance」的人物造型時，那時侯"擔任HANGRY\&ANGRY的2人"究竟是誰被認為是一個謎。\[2\]但是，緊接之後有很多歌迷都從2人的姿態和歌聲悟出真身是誰，即便在真身明确之前在两人的活动中也有很多歌迷拿着hANGRY
 ＆
-ANGRY的玩偶前往。因為這個緣故，[石川梨華在講話活動中公開說](../Page/石川梨華.md "wikilink")「HANGRY\&ANGRY兩人是我的朋友。」尽可能作为他人来活动。
-但由兩人的原形被正式發表之前，在日本国外举行的HANGRY\&ANGRY活动却大多从一开始就写明了[吉澤瞳](../Page/吉澤瞳.md "wikilink")、[石川梨華的名字](../Page/石川梨華.md "wikilink")，这个所谓“神秘组合”的设定似乎只在日本有效。
+ANGRY的玩偶前往。因為這個緣故，[石川梨華](../Page/石川梨華.md "wikilink")在講話活動中公開說「HANGRY\&ANGRY兩人是我的朋友。」尽可能作为他人来活动。
+但由兩人的原形被正式發表之前，在日本国外举行的HANGRY\&ANGRY活动却大多从一开始就写明了[吉澤瞳](../Page/吉澤瞳.md "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")的名字，这个所谓“神秘组合”的设定似乎只在日本有效。
 
 ### 專輯
 

@@ -1,6 +1,6 @@
 **Meerwein芳基化反应**（Meerwein arylation），由 Hans Meerwein 在1939年报道。
 
-[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[重氮盐在金属盐类存在下对缺电子](../Page/重氮盐.md "wikilink")[烯烃的加成反应](../Page/烯烃.md "wikilink")。产物为取代芳香族化合物。\[1\]\[2\]
+[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[重氮盐](../Page/重氮盐.md "wikilink")在金属盐类存在下对缺电子[烯烃](../Page/烯烃.md "wikilink")的加成反应。产物为取代芳香族化合物。\[1\]\[2\]
 
 [Meerwein_arylation.png](https://zh.wikipedia.org/wiki/File:Meerwein_arylation.png "fig:Meerwein_arylation.png")
 
@@ -14,11 +14,11 @@
 
 ## 拓展
 
-1、[丙烯酸与芳基重氮盐](../Page/丙烯酸.md "wikilink")、[溴化亚铜和](../Page/溴化亚铜.md "wikilink")[氢溴酸反应生成α](../Page/氢溴酸.md "wikilink")-溴羧酸\[4\]
+1、[丙烯酸](../Page/丙烯酸.md "wikilink")与芳基重氮盐、[溴化亚铜](../Page/溴化亚铜.md "wikilink")和[氢溴酸](../Page/氢溴酸.md "wikilink")反应生成α-溴羧酸\[4\]
 
-2、[丁二烯经过反应首先生成](../Page/丁二烯.md "wikilink")4-氯-2-丁烯，再经消除，可得芳基取代的丁二烯\[5\]
+2、[丁二烯](../Page/丁二烯.md "wikilink")经过反应首先生成4-氯-2-丁烯，再经消除，可得芳基取代的丁二烯\[5\]
 
-3、还原芳基化：[三氯化钛将新生成的双键还原](../Page/三氯化钛.md "wikilink")\[6\]
+3、还原芳基化：[三氯化钛](../Page/三氯化钛.md "wikilink")将新生成的双键还原\[6\]
 
 4、千克级无金属 Meerwein 芳基化\[7\]
 

@@ -64,11 +64,11 @@ Earth精細衛星照片所創造的擬真都市](https://zh.wikipedia.org/wiki/G
 ## 發行版本
 
 2008年7月31日，透過PlayStation
-Store下載版，2009年5月28日發行[藍光光碟版](../Page/藍光光碟.md "wikilink")。
+Store下載版，2009年5月28日發行[藍光光碟](../Page/藍光光碟.md "wikilink")版。
 
 ## 评价
 
-游戏获得较好评价，在[Metacritic的汇总得分为](../Page/Metacritic.md "wikilink")77%。[IGN给游戏打出了](../Page/IGN.md "wikilink")9/10的高分，称游戏“是一款具有挑战性、乐趣和新鲜感的出色作品”\[1\]。
+游戏获得较好评价，在[Metacritic](../Page/Metacritic.md "wikilink")的汇总得分为77%。[IGN](../Page/IGN.md "wikilink")给游戏打出了9/10的高分，称游戏“是一款具有挑战性、乐趣和新鲜感的出色作品”\[1\]。
 
 ## 参考文献
 

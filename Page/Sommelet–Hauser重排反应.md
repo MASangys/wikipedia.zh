@@ -1,7 +1,7 @@
 **Sommelet-Hauser重排反应**（Sommelet-Hauser rearrangement），以 M.
 Sommelet\[1\] 和 Charles R. Hauser\[2\] 的名字命名。
 
-某些[苄基](https://zh.wikipedia.org/wiki/苄基 "wikilink")[季铵盐用](../Page/季铵盐.md "wikilink")[氨基钠或其他](../Page/氨基钠.md "wikilink")[碱金属氨基盐处理](../Page/碱金属.md "wikilink")，发生[重排](https://zh.wikipedia.org/wiki/重排 "wikilink")，一个烃基迁移至芳环上的邻位，得到相应的*N*-二[烃基苄基](https://zh.wikipedia.org/wiki/烃基 "wikilink")[胺类](https://zh.wikipedia.org/wiki/胺 "wikilink")。\[3\]
+某些[苄基](https://zh.wikipedia.org/wiki/苄基 "wikilink")[季铵盐](../Page/季铵盐.md "wikilink")用[氨基钠](../Page/氨基钠.md "wikilink")或其他[碱金属](../Page/碱金属.md "wikilink")氨基盐处理，发生[重排](https://zh.wikipedia.org/wiki/重排 "wikilink")，一个烃基迁移至芳环上的邻位，得到相应的*N*-二[烃基苄基](https://zh.wikipedia.org/wiki/烃基 "wikilink")[胺类](https://zh.wikipedia.org/wiki/胺 "wikilink")。\[3\]
 \[4\]
 
 

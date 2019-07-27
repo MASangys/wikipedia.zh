@@ -18,7 +18,7 @@ Mod一样](https://zh.wikipedia.org/wiki/eMule_VeryCD_Mod "wikilink")，easyMule
 
 ### 功能删减
 
-easyMule自称面向“新手”，相对于官方[eMule删减了文件分类](https://zh.wikipedia.org/wiki/eMule "wikilink")、搜索选项、[IRC与用户消息](../Page/IRC.md "wikilink")、皮肤、[IPFilter选项等一些功能](../Page/IPFilter_\(P2P\).md "wikilink")，因而一些用户称之为“阉割驴”\[4\]。
+easyMule自称面向“新手”，相对于官方[eMule删减了文件分类](https://zh.wikipedia.org/wiki/eMule "wikilink")、搜索选项、[IRC](../Page/IRC.md "wikilink")与用户消息、皮肤、[IPFilter选项等一些功能](../Page/IPFilter_\(P2P\).md "wikilink")，因而一些用户称之为“阉割驴”\[4\]。
 
 ### 无法搜索eD2k与Kad
 
@@ -31,7 +31,7 @@ Mod所创的](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")[DLP（�
 
 ### 带有[后门](https://zh.wikipedia.org/wiki/后门 "wikilink")
 
-[赛门铁克指出](../Page/赛门铁克.md "wikilink")，名为[Hidden
+[赛门铁克](../Page/赛门铁克.md "wikilink")指出，名为[Hidden
 Lynx的中国黑客组织在easyMule中植入了](https://zh.wikipedia.org/wiki/Hidden_Lynx "wikilink")[Moudoor](https://zh.wikipedia.org/wiki/Moudoor "wikilink")，而Moudoor是[Gh0st
 RAT](https://zh.wikipedia.org/wiki/Gh0st_RAT "wikilink")（RAT指远程控制工具）的定制变种。Gh0st
 RAT变种被广泛应用于中国的网络间谍活动中。Moudoor的受害者主要来自中国内地、香港和美国。\[8\] \[9\]

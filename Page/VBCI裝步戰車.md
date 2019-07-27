@@ -8,7 +8,7 @@ Vehicle，MRAV)，法國稱之為步兵戰鬥車輛（Vehicule de Combat
 d'Infanterie，VBCI），而德國則稱之為地面戰鬥車輛（Gepanzertes
 Transport-Kraftfahrzeug，GTK，德國方面最終研製成果為[拳獅裝甲車](../Page/拳獅裝甲車.md "wikilink")）。然而在1999年，法國基於國內政治壓力等因素，退出了此一合作計畫，故VBCI成為一個國產計畫，2000年11月6日，法國宣布將採購700輛VBCI裝甲車。2000年11月，法國國防部與GIAT（目前為Nexter）和雷諾（Renault）兩家公司簽署VBCI的發展合約。隨後這兩家公司合資成立Satory
 Military
-Vehicles公司，專門負責VBCI的研發與生產以及法國陸軍現役[AMX-10RC](https://zh.wikipedia.org/wiki/AMX-10RC "wikilink")、[VAB裝甲車等輪型裝甲車輛的維修](../Page/VAB裝甲車.md "wikilink")。在VBCI研發工作的分攤上
+Vehicles公司，專門負責VBCI的研發與生產以及法國陸軍現役[AMX-10RC](https://zh.wikipedia.org/wiki/AMX-10RC "wikilink")、[VAB裝甲車](../Page/VAB裝甲車.md "wikilink")等輪型裝甲車輛的維修。在VBCI研發工作的分攤上
 ，GIAT負責車體、砲塔、觀測射控系統、武器與系統整合等，Renault負責相關的動力系統，包括駕駛艙、發動機、變速箱、傳動與轉向裝置、懸吊系統
 等。VBCI裝甲車以GIAT在1990年代開發的Vextra系列八輪裝甲車為基礎發展而成，主要有兩種構型：
 裝步戰車(VCI)以及指揮車(VPC) 法國陸軍將

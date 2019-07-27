@@ -1,4 +1,4 @@
-**物理学杂志A：数学物理与理论物理**（），是由[英国物理学会出版发行的一个学术性期刊](https://zh.wikipedia.org/wiki/英国物理学会 "wikilink")，为《[物理学杂志](https://zh.wikipedia.org/wiki/物理学杂志 "wikilink")》系列中的一辑，主要领域为[数学物理及](../Page/数学物理.md "wikilink")[理论物理学](../Page/理论物理学.md "wikilink")。
+**物理学杂志A：数学物理与理论物理**（），是由[英国物理学会出版发行的一个学术性期刊](https://zh.wikipedia.org/wiki/英国物理学会 "wikilink")，为《[物理学杂志](https://zh.wikipedia.org/wiki/物理学杂志 "wikilink")》系列中的一辑，主要领域为[数学物理](../Page/数学物理.md "wikilink")及[理论物理学](../Page/理论物理学.md "wikilink")。
 
 ## 外部链接
 

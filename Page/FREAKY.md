@@ -1,4 +1,4 @@
-『**FREAKY**』（精彩蛻變）為2007年6月27日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")36th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+『**FREAKY**』（精彩蛻變）為2007年6月27日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")第36th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 附註
 
@@ -7,7 +7,7 @@
     原創專輯「[Kingdom
     倖感王國](https://zh.wikipedia.org/wiki/Kingdom_倖感王國 "wikilink")」僅收錄4曲中的標題曲「FREAKY」。
   - 本作共發行2形態4版本。CD的收錄內容隨「初回版」、「通常版」各不同。
-  - 初回盤收錄曲為新曲4曲＋Kaskade、福富幸宏等知名[混音師的](../Page/混音.md "wikilink")4省混音曲所組成。另外，初回版購入者贈送海報。
+  - 初回盤收錄曲為新曲4曲＋Kaskade、福富幸宏等知名[混音](../Page/混音.md "wikilink")師的4省混音曲所組成。另外，初回版購入者贈送海報。
   - 通常盤收錄曲為新曲4曲＋4曲Instrumental。
   - 「**FREAKY
     精彩蛻變**」為[HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")「ZEST
@@ -16,7 +16,7 @@
     815T」電視廣告曲。
   - 「**Run For Your Life**」為[高絲](../Page/高絲.md "wikilink")・VISEE 廣告曲。
   - 「**girls**」為柏青哥公司SANKYO「KODA KUMI FEVER LIVE IN HALL」廣告曲。
-  - 本作為『[悲夢之歌/我倆…](https://zh.wikipedia.org/wiki/悲夢之歌/我倆… "wikilink")』以來第4張獲得[Oricon周間排名第](../Page/Oricon.md "wikilink")1名的單曲。
+  - 本作為『[悲夢之歌/我倆…](https://zh.wikipedia.org/wiki/悲夢之歌/我倆… "wikilink")』以來第4張獲得[Oricon](../Page/Oricon.md "wikilink")周間排名第1名的單曲。
 
 ## 發行版本
 

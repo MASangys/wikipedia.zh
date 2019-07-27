@@ -1,5 +1,5 @@
 **Anime
-Expo**，簡稱**AX**，是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[日本動畫展覽會之一](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，大約在每年[美国独立日的周末於](../Page/美国独立日.md "wikilink")[南加州舉行](https://zh.wikipedia.org/wiki/南加州 "wikilink")，為期四天，主辦者是[非營利組織](../Page/非營利組織.md "wikilink")[日本動畫振興協會](https://zh.wikipedia.org/wiki/日本動畫振興協會 "wikilink")（；Society
+Expo**，簡稱**AX**，是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[日本動畫展覽會之一](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，大約在每年[美国独立日](../Page/美国独立日.md "wikilink")的周末於[南加州舉行](https://zh.wikipedia.org/wiki/南加州 "wikilink")，為期四天，主辦者是[非營利組織](../Page/非營利組織.md "wikilink")[日本動畫振興協會](https://zh.wikipedia.org/wiki/日本動畫振興協會 "wikilink")（；Society
 for the Promotion of Japanese Animation,
 SPJA）。除了南加州之外，SPJA亦分別於2002年和2004年時在[紐約和](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[東京等地舉辦過Anime](https://zh.wikipedia.org/wiki/東京 "wikilink")
 Expo\[1\]。
@@ -7,7 +7,7 @@ Expo\[1\]。
 ## 節目
 
 AX每年吸引大量美國的動漫畫同好參加，當中有不少更是[扮裝而來](../Page/Cosplay.md "wikilink")。現場舉辦的活動包括動漫研討會，專題討論，與及相關精品的販售攤位等。\[2\]
-而當中以化裝舞會、[卡拉OK比賽](../Page/卡拉OK.md "wikilink")、動畫[MV比賽與及名為](../Page/音樂錄影帶.md "wikilink")「AX
+而當中以化裝舞會、[卡拉OK](../Page/卡拉OK.md "wikilink")比賽、動畫[MV比賽與及名為](../Page/音樂錄影帶.md "wikilink")「AX
 Idol」的選美活動最受歡迎。由於Anime Expo為全日活動的關係，主辦單位在晚上會於場地附近的 Westin Bonaventure
 Hotel 提供通宵影視、遊戲和卡拉OK等服務。
 

@@ -1,9 +1,9 @@
 **Belle de Jour**（）是布魯克·馬尼安蒂（Brooke Magnanti）在博客《Belle de Jour: diary of
 a London call
-girl》上的化名，她把當[應召女郎的親身經歷寫在博客上與人分享得以成名](https://zh.wikipedia.org/wiki/應召女郎 "wikilink")，她的博客被英國《[衛報](../Page/衛報.md "wikilink")》評選為2003年度最佳博客\[1\]，這些文章後來結集出版成《》一書；英國電視台[ITV2更拍成劇集](../Page/ITV2.md "wikilink")《[应召女郎的秘密日记](../Page/应召女郎的秘密日记.md "wikilink")》。
+girl》上的化名，她把當[應召女郎的親身經歷寫在博客上與人分享得以成名](https://zh.wikipedia.org/wiki/應召女郎 "wikilink")，她的博客被英國《[衛報](../Page/衛報.md "wikilink")》評選為2003年度最佳博客\[1\]，這些文章後來結集出版成《》一書；英國電視台[ITV2](../Page/ITV2.md "wikilink")更拍成劇集《[应召女郎的秘密日记](../Page/应召女郎的秘密日记.md "wikilink")》。
 
 Belle de
-Jour的真正身份曾引起諸多猜測，直至2009年11月15日《[星期日泰晤士報](../Page/星期日泰晤士報.md "wikilink")》報導她是一位發育神經毒理學和癌症流行病學專家，2003年在[谢菲尔德大学法醫病理學系寫博士研究論文時](../Page/谢菲尔德大学.md "wikilink")，因為經濟困難而開始了當伴遊。\[2\]
+Jour的真正身份曾引起諸多猜測，直至2009年11月15日《[星期日泰晤士報](../Page/星期日泰晤士報.md "wikilink")》報導她是一位發育神經毒理學和癌症流行病學專家，2003年在[谢菲尔德大学](../Page/谢菲尔德大学.md "wikilink")法醫病理學系寫博士研究論文時，因為經濟困難而開始了當伴遊。\[2\]
 
 ## 參考文獻
 

@@ -1,5 +1,5 @@
 ***Live in the UK 2008***
-是[美国](../Page/美国.md "wikilink")[另类摇滚乐队](../Page/另类摇滚.md "wikilink")[帕拉莫尔的一张演唱会专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")。
+是[美国](../Page/美国.md "wikilink")[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔的一张演唱会专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")。
 
 ## 曲目列表
 

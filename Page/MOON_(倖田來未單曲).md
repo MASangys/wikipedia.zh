@@ -1,4 +1,4 @@
-「**MOON**」為2008年6月11日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")40th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**MOON**」為2008年6月11日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")第40th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 附註
 
@@ -8,12 +8,12 @@
 <!-- end list -->
 
   - 「**Moon
-    Crying**」為ABC・[朝日電視台系連續劇](../Page/朝日電視台.md "wikilink")『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
+    Crying**」為ABC・[朝日電視台](../Page/朝日電視台.md "wikilink")系連續劇『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
 
 <!-- end list -->
 
   - 「**That Ain't Cool**」為music.jp
-    電視廣告曲，與[黑眼豆豆的](../Page/黑眼豆豆.md "wikilink")[菲姬的合作曲](../Page/菲姬.md "wikilink")，引起東西方的合作話題\[1\]。
+    電視廣告曲，與[黑眼豆豆](../Page/黑眼豆豆.md "wikilink")的[菲姬](../Page/菲姬.md "wikilink")的合作曲，引起東西方的合作話題\[1\]。
 
 <!-- end list -->
 
@@ -21,11 +21,11 @@
 
 <!-- end list -->
 
-  - 「**Lady GO\!**」為[高絲廣告曲](../Page/高絲.md "wikilink")。
+  - 「**Lady GO\!**」為[高絲](../Page/高絲.md "wikilink")廣告曲。
 
 <!-- end list -->
 
-  - 進入TOP10的本作為第30張作品。女性歌手中達30張作品進入TOP10有[松田聖子](../Page/松田聖子.md "wikilink")、[小泉今日子等](../Page/小泉今日子.md "wikilink")，倖田為史上第5人。
+  - 進入TOP10的本作為第30張作品。女性歌手中達30張作品進入TOP10有[松田聖子](../Page/松田聖子.md "wikilink")、[小泉今日子](../Page/小泉今日子.md "wikilink")等，倖田為史上第5人。
 
 ## 發行版本
 

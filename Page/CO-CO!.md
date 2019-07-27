@@ -1,4 +1,4 @@
-《**CO-CO\!**》是香港出版社[正文社出版的雙週刊](../Page/正文社.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，於1997年2月22日創刊。主要連載[日本和](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[香港漫畫](../Page/香港漫畫.md "wikilink")，亦提供遊戲和玩具的新聞信息。《**CO-CO\!**》更曾創下銷量高達八萬冊之歷史紀錄，至今，雖然面對同業競爭，仍是全港銷量最高及最受歡迎之漫畫雜誌。
+《**CO-CO\!**》是香港出版社[正文社](../Page/正文社.md "wikilink")出版的雙週刊[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，於1997年2月22日創刊。主要連載[日本和](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[香港漫畫](../Page/香港漫畫.md "wikilink")，亦提供遊戲和玩具的新聞信息。《**CO-CO\!**》更曾創下銷量高達八萬冊之歷史紀錄，至今，雖然面對同業競爭，仍是全港銷量最高及最受歡迎之漫畫雜誌。
 
 1998年推出月刊形式的《別冊Co-Co\!》，同樣連載熱門的日本和香港漫畫。後來在1999年首次推出分刊號，名為《[Super
 Co-Co\!](https://zh.wikipedia.org/wiki/Super_Co-Co! "wikilink")》，雙週連載。因此高峰期每週都可買到《**CO-CO\!**》，吸引大量讀者。

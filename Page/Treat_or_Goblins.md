@@ -1,5 +1,5 @@
 《**Treat or
-Goblins**》為[林原惠於](../Page/林原惠.md "wikilink")2002年4月24日發行的第30張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+Goblins**》為[林原惠](../Page/林原惠.md "wikilink")於2002年4月24日發行的第30張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 由[King
 Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販賣（KICM-3030）。

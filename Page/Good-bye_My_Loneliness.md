@@ -1,5 +1,5 @@
 『**Good-bye My Loneliness**』
-[ZARD出道單曲](../Page/ZARD.md "wikilink")，於1991年2月10日發行。前唱片公司b-gram時代CD編號為PODH-1029、POSH-1029。B-Gram
+[ZARD](../Page/ZARD.md "wikilink")出道單曲，於1991年2月10日發行。前唱片公司b-gram時代CD編號為PODH-1029、POSH-1029。B-Gram
 RECORDS時代CD編號則為BGDH-1010。
 
 ## 概要

@@ -2,7 +2,7 @@
 
 參加同人活動（[A-one等](https://zh.wikipedia.org/wiki/A-one "wikilink")）時使用**Shihori**的名義，其他場合則使用****的名義。本名****\[3\]。
 
-在2007年同時以[瀨名](https://zh.wikipedia.org/wiki/瀨名 "wikilink")（）的藝名在[Lantis作為主要登場](../Page/Lantis.md "wikilink")，同時繼續使用**Shihori**的名義活動。2011年以瀨名名義的活動結束，統一使用**Shihori**作為音樂活動的藝名。
+在2007年同時以[瀨名](https://zh.wikipedia.org/wiki/瀨名 "wikilink")（）的藝名在[Lantis](../Page/Lantis.md "wikilink")作為主要登場，同時繼續使用**Shihori**的名義活動。2011年以瀨名名義的活動結束，統一使用**Shihori**作為音樂活動的藝名。
 
 ## 簡歷
 
@@ -10,7 +10,7 @@
   - 小一時，已經開始埋頭於歌唱及歌曲創作之中。
   - 七歲時，說「我要成為歌手！」，第一次進行作詞、作曲。
   - 小學時喜愛[貝多芬的音樂](https://zh.wikipedia.org/wiki/貝多芬 "wikilink")，中學、高校時每日也喜歡唱[讚美詩和](https://zh.wikipedia.org/wiki/讚美詩 "wikilink")[福音歌等歌曲](https://zh.wikipedia.org/wiki/福音音樂 "wikilink")，受當中的「祈念」「母性」等因素影響，奠定以後的音樂風格。
-  - [青春期時](../Page/青春期.md "wikilink")，熱衷於[心理學和](https://zh.wikipedia.org/wiki/心理學 "wikilink")[哲學等領域之上](https://zh.wikipedia.org/wiki/哲學 "wikilink")。
+  - [青春期](../Page/青春期.md "wikilink")時，熱衷於[心理學和](https://zh.wikipedia.org/wiki/心理學 "wikilink")[哲學等領域之上](https://zh.wikipedia.org/wiki/哲學 "wikilink")。
   - 高中時期曾經想努力要成為[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")，加入學校內的演劇部，後來從演劇部上退出，並真正開始作曲\[4\]。
   - 十七歲時，「為了將愛的訊息傳到世界每一個角落」（），立志成為歌手。
   - 高中畢業後，獨自前往[札幌市](../Page/札幌市.md "wikilink")，加入錄音公司，但由於經驗、實力不足的關係，最後決定返回名古屋市\[5\]。
@@ -20,11 +20,11 @@
   - 2002年至2003年期間，以《パパパパーンの歌》等廣告歌曲，展現了豐富的表現力與歌唱力，引起廣大話題。
   - 2006年9月2日，與[佐佐木俊之結婚](https://zh.wikipedia.org/wiki/佐佐木俊之 "wikilink")\[8\]。
   - 2007年在網上電影《クレイドル～眠れぬ夜の子守唄～》擔任主題曲歌唱、作詞和作曲，標誌著女演員上的出道；而同年在由[SOUND
-    HOLIC的推出](../Page/SOUND_HOLIC.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[](http://www.sound-holic.com/_c73.html)》中，擔任角色配音，也標誌著[聲優上的出道](../Page/聲優.md "wikilink")。
-  - 2007年同時以瀨名(日文：瀬名)的藝名在[Lantis作為主要登場](../Page/Lantis.md "wikilink")，同時繼續使用Shihori的名義活動。
+    HOLIC的推出](../Page/SOUND_HOLIC.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[](http://www.sound-holic.com/_c73.html)》中，擔任角色配音，也標誌著[聲優](../Page/聲優.md "wikilink")上的出道。
+  - 2007年同時以瀨名(日文：瀬名)的藝名在[Lantis](../Page/Lantis.md "wikilink")作為主要登場，同時繼續使用Shihori的名義活動。
   - 2010年時，為紀念歌手出道10周年，於2月9日在[涉谷o](https://zh.wikipedia.org/wiki/涉谷 "wikilink")-west舉行[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「[](https://archive.is/20130427215306/http://shihori.com/o-west/)」。
   - 2011年以瀨名名義的活動結束，統一使用Shihori作為音樂活動的藝名。
-  - 喜歡的音樂家有：[路德維希·凡·貝多芬](https://zh.wikipedia.org/wiki/路德維希·凡·貝多芬 "wikilink")、[蘿拉·尼羅](https://zh.wikipedia.org/wiki/蘿拉·尼羅 "wikilink")、[吉田美奈子](https://zh.wikipedia.org/wiki/吉田美奈子 "wikilink")、[菅野洋子等](../Page/菅野洋子.md "wikilink")\[9\]。
+  - 喜歡的音樂家有：[路德維希·凡·貝多芬](https://zh.wikipedia.org/wiki/路德維希·凡·貝多芬 "wikilink")、[蘿拉·尼羅](https://zh.wikipedia.org/wiki/蘿拉·尼羅 "wikilink")、[吉田美奈子](https://zh.wikipedia.org/wiki/吉田美奈子 "wikilink")、[菅野洋子](../Page/菅野洋子.md "wikilink")等\[9\]。
 
 ### 同人活動
 

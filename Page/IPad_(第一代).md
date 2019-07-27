@@ -1,5 +1,5 @@
 **iPad**（技术上称为**第一代iPad**，而**iPad
-1**为俗称）是[蘋果公司執行長](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·乔布斯於](../Page/史蒂夫·乔布斯.md "wikilink")2010年1月27日首次發表的[平板電腦](../Page/平板電腦.md "wikilink")，是蘋果[iPad系列的第一代產品](https://zh.wikipedia.org/wiki/iPad "wikilink")，提供瀏覽[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")、收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、觀看[電子書](../Page/電子書.md "wikilink")、播放[音訊或](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊](https://zh.wikipedia.org/wiki/視訊 "wikilink")、玩[遊戲等功能](https://zh.wikipedia.org/wiki/遊戲 "wikilink")\[1\]。
+1**为俗称）是[蘋果公司執行長](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")於2010年1月27日首次發表的[平板電腦](../Page/平板電腦.md "wikilink")，是蘋果[iPad系列的第一代產品](https://zh.wikipedia.org/wiki/iPad "wikilink")，提供瀏覽[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")、收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、觀看[電子書](../Page/電子書.md "wikilink")、播放[音訊或](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊](https://zh.wikipedia.org/wiki/視訊 "wikilink")、玩[遊戲等功能](https://zh.wikipedia.org/wiki/遊戲 "wikilink")\[1\]。
 
 最初发布的iPad，只有黑色型號，無相機鏡頭。2011年3月，蘋果公司发布命名為“[iPad
 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")”的机型，用以取代最初的iPad。
@@ -8,7 +8,7 @@
 
 蘋果公司在2010年1月27日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歐巴布也那藝術中心](https://zh.wikipedia.org/wiki/歐巴布也那藝術中心 "wikilink")（Yerba
 Buena Center for the
-Arts）所舉行的發表會上，由[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·乔布斯親自發表](../Page/史蒂夫·乔布斯.md "wikilink")。\[2\]
+Arts）所舉行的發表會上，由[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")親自發表。\[2\]
 
 ## 規格
 
@@ -97,7 +97,7 @@ A4](../Page/Apple_A4.md "wikilink")
 ## 上市前傳言
 
 [IPad_in_Black_Case.jpg](https://zh.wikipedia.org/wiki/File:IPad_in_Black_Case.jpg "fig:IPad_in_Black_Case.jpg")
-蘋果公司自[NEWTON](../Page/Apple_Newton.md "wikilink")[平板電腦的營銷計劃失敗告終後](../Page/平板電腦.md "wikilink")，在2003年起至2010年於[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史提夫·喬布斯監督下](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")，一直致力研發新版的平版電腦，但研發過程並不順利，平版電腦的雛型設計多次被史提夫否決。直至2010年，[史提夫·喬布斯終於認為蘋果新的平版電腦設計上和市場已經成熟](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")，社會普遍預計蘋果公司計劃於1月27日的媒體發佈會發佈iSlate。分析人士預測，[蘋果即將推出的](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[平板電腦很可能被命名為](../Page/平板電腦.md "wikilink")「iSlate」。
+蘋果公司自[NEWTON](../Page/Apple_Newton.md "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")的營銷計劃失敗告終後，在2003年起至2010年於[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史提夫·喬布斯監督下](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")，一直致力研發新版的平版電腦，但研發過程並不順利，平版電腦的雛型設計多次被史提夫否決。直至2010年，[史提夫·喬布斯終於認為蘋果新的平版電腦設計上和市場已經成熟](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")，社會普遍預計蘋果公司計劃於1月27日的媒體發佈會發佈iSlate。分析人士預測，[蘋果即將推出的](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")很可能被命名為「iSlate」。
 
 蘋果公司的平版電腦傳聞中的產品名稱為iSlate，iPad，iTablet，Mactablet等等，多不勝數。
 
@@ -109,18 +109,18 @@ A4](../Page/Apple_A4.md "wikilink")
 
 [IPad_First_Gen.jpg](https://zh.wikipedia.org/wiki/File:IPad_First_Gen.jpg "fig:IPad_First_Gen.jpg")
 [台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2010年11月30日正式上市，首批到貨僅不到五千部，舖貨點僅限在[Studio
-A](https://zh.wikipedia.org/wiki/Studio_A "wikilink")、[德誼數位](https://zh.wikipedia.org/wiki/德誼數位 "wikilink")、[法雅客以及](https://zh.wikipedia.org/wiki/法雅客 "wikilink")[燦坤部份門市](../Page/燦坤.md "wikilink")，當日隨即銷售一空，12月中後才陸續提高來貨量。\[7\]
+A](https://zh.wikipedia.org/wiki/Studio_A "wikilink")、[德誼數位](https://zh.wikipedia.org/wiki/德誼數位 "wikilink")、[法雅客以及](https://zh.wikipedia.org/wiki/法雅客 "wikilink")[燦坤](../Page/燦坤.md "wikilink")部份門市，當日隨即銷售一空，12月中後才陸續提高來貨量。\[7\]
 
 ## 评价
 
-iPad一發表就遭受不少批評。[網路上流傳著不少](https://zh.wikipedia.org/wiki/網路 "wikilink")[合成照片與搞笑](https://zh.wikipedia.org/wiki/合成照片 "wikilink")[影片嘲諷iPad](https://zh.wikipedia.org/wiki/影片 "wikilink")，例如：有合成照片把喬布斯手上的iPad改成以「田」字形排列的四隻iPhone，諷刺[史提夫·喬布斯拿iPhone拼湊成iPad](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")；有搞笑影片早在iPad上市前就發表以iPad為名的[衛生棉](../Page/衛生棉.md "wikilink")；有[網友認為iPad根本就是浪費大家](../Page/網友.md "wikilink")[時間的東西](https://zh.wikipedia.org/wiki/時間 "wikilink")，而把iPad改名為「iLame」（i爛）\[8\]。早在iPad上市前，[加拿大](../Page/加拿大.md "wikilink")[內衣廠商](https://zh.wikipedia.org/wiki/內衣 "wikilink")[Coconut
+iPad一發表就遭受不少批評。[網路上流傳著不少](https://zh.wikipedia.org/wiki/網路 "wikilink")[合成照片與搞笑](https://zh.wikipedia.org/wiki/合成照片 "wikilink")[影片嘲諷iPad](https://zh.wikipedia.org/wiki/影片 "wikilink")，例如：有合成照片把喬布斯手上的iPad改成以「田」字形排列的四隻iPhone，諷刺[史提夫·喬布斯拿iPhone拼湊成iPad](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")；有搞笑影片早在iPad上市前就發表以iPad為名的[衛生棉](../Page/衛生棉.md "wikilink")；有[網友](../Page/網友.md "wikilink")認為iPad根本就是浪費大家[時間的東西](https://zh.wikipedia.org/wiki/時間 "wikilink")，而把iPad改名為「iLame」（i爛）\[8\]。早在iPad上市前，[加拿大](../Page/加拿大.md "wikilink")[內衣廠商](https://zh.wikipedia.org/wiki/內衣 "wikilink")[Coconut
 Grove
-Intimates已販售以iPad為名的胸墊](https://zh.wikipedia.org/wiki/Coconut_Grove_Intimates "wikilink")，[意法半導體的iPad平板電腦已在](../Page/意法半導體.md "wikilink")[歐洲註冊商標](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[日本](../Page/日本.md "wikilink")[富士通在](../Page/富士通.md "wikilink")2002年銷售「iPAD」\[9\]（請注意[字母大小寫不同](../Page/字母.md "wikilink")）手持式[銷售時點情報系統](../Page/銷售時點情報系統.md "wikilink")（POS）裝置，富士通宣稱2003年就已在美國註冊「iPAD」商標\[10\]。[中國](../Page/中國.md "wikilink")[深圳的](https://zh.wikipedia.org/wiki/深圳 "wikilink")[巨龍兄弟實業宣稱早在](https://zh.wikipedia.org/wiki/巨龍兄弟實業 "wikilink")2009年8月就已推出長得像放大版iPhone的[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")「P88」，還曾在[柏林國際電子消費品展覽會](https://zh.wikipedia.org/wiki/柏林國際電子消費品展覽會 "wikilink")（IFA）發表過\[11\]。《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》財經專欄作家[麥可·希爾奇克](https://zh.wikipedia.org/wiki/麥可·希爾奇克 "wikilink")（Michael
+Intimates已販售以iPad為名的胸墊](https://zh.wikipedia.org/wiki/Coconut_Grove_Intimates "wikilink")，[意法半導體](../Page/意法半導體.md "wikilink")的iPad平板電腦已在[歐洲註冊商標](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[日本](../Page/日本.md "wikilink")[富士通](../Page/富士通.md "wikilink")在2002年銷售「iPAD」\[9\]（請注意[字母](../Page/字母.md "wikilink")大小寫不同）手持式[銷售時點情報系統](../Page/銷售時點情報系統.md "wikilink")（POS）裝置，富士通宣稱2003年就已在美國註冊「iPAD」商標\[10\]。[中國](../Page/中國.md "wikilink")[深圳的](https://zh.wikipedia.org/wiki/深圳 "wikilink")[巨龍兄弟實業宣稱早在](https://zh.wikipedia.org/wiki/巨龍兄弟實業 "wikilink")2009年8月就已推出長得像放大版iPhone的[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")「P88」，還曾在[柏林國際電子消費品展覽會](https://zh.wikipedia.org/wiki/柏林國際電子消費品展覽會 "wikilink")（IFA）發表過\[11\]。《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》財經專欄作家[麥可·希爾奇克](https://zh.wikipedia.org/wiki/麥可·希爾奇克 "wikilink")（Michael
 Hiltzik）認為，iPad欠缺革命性，和市場期待有不小差距，對[Amazon
 Kindle無致命威脅](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")\[12\]。
 
 縱然在推出初期受到了不少批評，但其实在2010年，iPad已在全球掀起一股热潮，而且還開拓出一個新的平板電腦市場，更促使微軟和谷歌各自發表[Windows
-8和](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Android系統來對抗蘋果](../Page/Android.md "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。目前大多數廠商均使用[Android系統來對抗](../Page/Android.md "wikilink")[iOS系統](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+8和](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Android](../Page/Android.md "wikilink")系統來對抗蘋果[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。目前大多數廠商均使用[Android](../Page/Android.md "wikilink")系統來對抗[iOS系統](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 相关连结
 

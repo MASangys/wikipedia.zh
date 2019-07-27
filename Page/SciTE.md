@@ -17,8 +17,8 @@ IDE等](https://zh.wikipedia.org/wiki/SciTE_LaTeX_IDE "wikilink")。
 ## 特色功能
 
   - 支持Lua脚本
-  - [正则表达式查找替换](../Page/正则表达式.md "wikilink")
-  - [转义字符查找替换](../Page/转义字符.md "wikilink")
+  - [正则表达式](../Page/正则表达式.md "wikilink")查找替换
+  - [转义字符](../Page/转义字符.md "wikilink")查找替换
   - [语法折叠](https://zh.wikipedia.org/wiki/语法折叠 "wikilink")
   - 多文件搜索
   - [API文件支持](https://zh.wikipedia.org/wiki/API "wikilink")

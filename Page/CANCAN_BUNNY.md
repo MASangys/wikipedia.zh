@@ -3,7 +3,7 @@ Soft首次發表的](../Page/Cocktail_Soft.md "wikilink")[約會模擬遊戲](ht
 Can Bunny Premiere》（）女主角 Swaty / Swatty
 （）的人氣非常高，造成有時候狹義上指的是該角色。第4回作品《Can
 Can Bunny
-Premiere》（）於1996年4月5日被[KID正式移植到](../Page/KID.md "wikilink")[SEGA
+Premiere》（）於1996年4月5日被[KID](../Page/KID.md "wikilink")正式移植到[SEGA
 Saturn家用遊戲主機](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")。
 
 ## 遊戲

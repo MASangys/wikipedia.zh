@@ -1,9 +1,9 @@
 《**魔法少女奈葉 The MOVIE
-1st**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列的第一部](../Page/魔法少女奈葉系列.md "wikilink")[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，根據系列的[電視動畫第一作](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》改編，于2010年1月23日公映。
+1st**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的第一部[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，根據系列的[電視動畫第一作](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》改編，于2010年1月23日公映。
 
 ## 概要
 
-此劇場版是根據2004年[魔法少女奈葉系列的第一期電視動畫](../Page/魔法少女奈葉系列.md "wikilink")《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》（全13話）改編，以原有的故事情節，構筑新的腳本，添加新的設定而成的新製作。2008年7月在《[Megami
+此劇場版是根據2004年[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的第一期電視動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》（全13話）改編，以原有的故事情節，構筑新的腳本，添加新的設定而成的新製作。2008年7月在《[Megami
 MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》第100號的紀念號上公布劇場版的製作決定\[1\]，原本計劃在2009年公映，但其後推遲到2010年1月。
 
 根據此劇場版所作的漫畫《魔法少女奈葉 The MOVIE 1st THE COMICS》從《[Megami

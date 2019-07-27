@@ -1,11 +1,11 @@
-**V8**是一個由[Google開發的](../Page/Google.md "wikilink")[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，用於[Google
-Chrome及](../Page/Google_Chrome.md "wikilink")[Chromium中](../Page/Chromium.md "wikilink")\[1\]。[Lars
-Bak是這個項目的組長](https://zh.wikipedia.org/wiki/Lars_Bak "wikilink")，以[V8发动机为其命名](../Page/V8发动机.md "wikilink")\[2\]。
+**V8**是一個由[Google](../Page/Google.md "wikilink")開發的[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，用於[Google
+Chrome及](../Page/Google_Chrome.md "wikilink")[Chromium](../Page/Chromium.md "wikilink")中\[1\]。[Lars
+Bak是這個項目的組長](https://zh.wikipedia.org/wiki/Lars_Bak "wikilink")，以[V8发动机](../Page/V8发动机.md "wikilink")为其命名\[2\]。
 
 ## 運作方式
 
 V8在執行之前將[JavaScript](../Page/JavaScript.md "wikilink")[編譯成了](https://zh.wikipedia.org/wiki/編譯 "wikilink")[機器碼](https://zh.wikipedia.org/wiki/機器碼 "wikilink")，而非[位元組碼或是](https://zh.wikipedia.org/wiki/位元組碼 "wikilink")[解释执行它](https://zh.wikipedia.org/wiki/解释器 "wikilink")，以此提升效能。更進一步，使用了如[內聯緩存](https://zh.wikipedia.org/wiki/內聯緩存 "wikilink")（inline
-caching）等方法來提高性能。有了這些功能，[JavaScript程序與V](../Page/JavaScript.md "wikilink")8引擎的速度媲美二進制編譯。\[3\]
+caching）等方法來提高性能。有了這些功能，[JavaScript](../Page/JavaScript.md "wikilink")程序與V8引擎的速度媲美二進制編譯。\[3\]
 
 传统的Javascript是动态语言，又可稱之為Prototype-based
 Language，JavaScript繼承方法是使用prototype，透過指定prototype屬性，便可以指定要繼承的目標。属性可以在运行时添加到或从对象中删除，引擎會为執行中的物件建立一個属性字典，新的属性都要透過字典查找属性在内存中的位置。V8為object新增属性的时候，就以上次的hidden
@@ -25,28 +25,9 @@ accurate的垃圾回收器\[4\]。在执行回收之时会暫時中断程序的�
     client-side C++ classes to JavaScript.
   - [v8cgi](http://code.google.com/p/v8cgi/) is a v8-based framework for
     serving web application written in JavaScript.
-  - [node.js](http://nodejs.org/)[1](http://simonwillison.net/2009/Nov/23/node/)
-    is a toolkit for writing performant non-blocking event-driven
-    network servers in JavaScript.
-  - [Inside V8 - A Javascript Virtual
-    Machine](http://channel9.msdn.com/shows/Going+Deep/Expert-to-Expert-Erik-Meijer-and-Lars-Bak-Inside-V8-A-Javascript-Virtual-Machine/)
+  - \[<http://nodejs.or>
 
-## 參見
-
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink")
-  - [Chromium
-    (浏览器)](https://zh.wikipedia.org/wiki/Chromium_\(浏览器\) "wikilink")
-  - [JavaScriptCore](https://zh.wikipedia.org/wiki/WebKit#JavaScriptCore "wikilink")
-  - [Dart](../Page/Dart.md "wikilink")
-  - [SpiderMonkey](../Page/SpiderMonkey.md "wikilink")
-  - [即时编译](https://zh.wikipedia.org/wiki/即时编译 "wikilink")
-
-{{-}}
-
-[Category:JavaScript引擎](https://zh.wikipedia.org/wiki/Category:JavaScript引擎 "wikilink")
-[Category:虛擬機器](https://zh.wikipedia.org/wiki/Category:虛擬機器 "wikilink")
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
-[Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
+<!-- end list -->
 
 1.
 2.

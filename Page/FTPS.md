@@ -1,17 +1,17 @@
 **FTPS**是一种对常用的[文件传输协议](../Page/文件传输协议.md "wikilink")（FTP）添加[传输层安全](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")（TLS）和安全套接层（SSL）加密协议支持的扩展协议。
 
-FTPS不應與基於[SSH的](../Page/Secure_Shell.md "wikilink")[SSH文件传输协议或是](../Page/SSH文件传输协议.md "wikilink")[Secure
+FTPS不應與基於[SSH的](../Page/Secure_Shell.md "wikilink")[SSH文件传输协议](../Page/SSH文件传输协议.md "wikilink")或是[Secure
 FTP协议相混淆](https://zh.wikipedia.org/wiki/Secure_FTP "wikilink")。
 
 ## 背景
 
 在1971年的[FTP草案用於科學與研究網路](https://zh.wikipedia.org/wiki/FTP "wikilink")[ARPANET](../Page/ARPANET.md "wikilink")。\[1\]最初只有一小部分軍事用地和大學裡的少數人使用，可以使用網路的人，任何人都可以操作存取，無視於用戶的數據安全和隱私要求。
 
-隨著ARPANET逐漸被所取代，以及之後隨著[Internet的普及](https://zh.wikipedia.org/wiki/Internet "wikilink")，上網人口越來越多。用戶端到伺服器端經過的路徑越來越長，未經授權的第三方[竊聽數據傳輸的機會也因此增加](../Page/竊聽.md "wikilink")。
+隨著ARPANET逐漸被所取代，以及之後隨著[Internet的普及](https://zh.wikipedia.org/wiki/Internet "wikilink")，上網人口越來越多。用戶端到伺服器端經過的路徑越來越長，未經授權的第三方[竊聽](../Page/竊聽.md "wikilink")數據傳輸的機會也因此增加。
 
-1994年，瀏覽器公司[網景開發與發布](../Page/網景.md "wikilink")[安全套接层](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")（SSL）的[应用层封裝](https://zh.wikipedia.org/wiki/应用层 "wikilink")\[2\]，該協議使應用程序在進行跨網路通信使用私人和安全的方式，防止竊聽、篡改、偽造消息。它可以增加安全性，使用[TCP連接](https://zh.wikipedia.org/wiki/TCP "wikilink")，使[HTTP經由SSL形成更安全的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")。
+1994年，瀏覽器公司[網景](../Page/網景.md "wikilink")開發與發布[安全套接层](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")（SSL）的[应用层封裝](https://zh.wikipedia.org/wiki/应用层 "wikilink")\[2\]，該協議使應用程序在進行跨網路通信使用私人和安全的方式，防止竊聽、篡改、偽造消息。它可以增加安全性，使用[TCP連接](https://zh.wikipedia.org/wiki/TCP "wikilink")，使[HTTP經由SSL形成更安全的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")。
 
-SSL最終被應用到FTP，[RFC草案發表在](../Page/RFC.md "wikilink")1996年底。\[3\]不久之後，官方[IANA進行Port埠號註冊](https://zh.wikipedia.org/wiki/IANA "wikilink")。然而，RFC卻沒有定案，直到2005年。\[4\]
+SSL最終被應用到FTP，[RFC](../Page/RFC.md "wikilink")草案發表在1996年底。\[3\]不久之後，官方[IANA進行Port埠號註冊](https://zh.wikipedia.org/wiki/IANA "wikilink")。然而，RFC卻沒有定案，直到2005年。\[4\]
 
 已知的Linux客户端有[curl](https://zh.wikipedia.org/wiki/curl "wikilink")、lftp、[wget](https://zh.wikipedia.org/wiki/wget "wikilink")（版本1.16以上）等。
 

@@ -11,14 +11,14 @@ Ltd.**。初期亦有生產私家車車身，1967年，Northern Counties收購�
 Ltd.。
 
 1975年，Northern
-Counties與Foden合作推出一款後置引擎雙層巴士，名為Foden-NC，藉此與[利蘭競爭](../Page/利蘭.md "wikilink")。而利蘭則與其對手[丹拿合併](../Page/丹拿_\(英國\).md "wikilink")，但面臨生產上的技術困難。事件中Northern
+Counties與Foden合作推出一款後置引擎雙層巴士，名為Foden-NC，藉此與[利蘭](../Page/利蘭.md "wikilink")競爭。而利蘭則與其對手[丹拿合併](../Page/丹拿_\(英國\).md "wikilink")，但面臨生產上的技術困難。事件中Northern
 Counties只生產了七輛Foden-NC巴士。
 
 1980至1990年代初，英國政府終止了對購置新巴士的資助，加上1986年公營交通服務私有化，新巴士的需求大減，但憑著Northern
 Counties公司的良好聲譽和先進技術，於90年代的經營困難時期亦不至於需要結營。到了1995年，它始終難逃被收購的命運。擁有[Plaxton的Henlys集團收購了Northern](https://zh.wikipedia.org/wiki/Plaxton "wikilink")
 Counties，並於1999年以Plaxton完全取代Northern Counties。
 [Arriva_bus_7419_Volvo_Olympian_Northern_Counties_Palatine_II_P419_CCU_in_Newcastle_9_May_2009.jpg](https://zh.wikipedia.org/wiki/File:Arriva_bus_7419_Volvo_Olympian_Northern_Counties_Palatine_II_P419_CCU_in_Newcastle_9_May_2009.jpg "fig:Arriva_bus_7419_Volvo_Olympian_Northern_Counties_Palatine_II_P419_CCU_in_Newcastle_9_May_2009.jpg")行走於[紐卡素](https://zh.wikipedia.org/wiki/紐卡素 "wikilink")\]\]
-2001年，Henlys集團與擁有[丹尼士車廠和亞歷山大車身公司的Mayflower](../Page/丹尼士車廠.md "wikilink")
+2001年，Henlys集團與擁有[丹尼士車廠](../Page/丹尼士車廠.md "wikilink")和亞歷山大車身公司的Mayflower
 Corporation合組為[Transbus
 International](https://zh.wikipedia.org/wiki/Transbus_International "wikilink")，Plaxton亦被Transbus所取代。2004年，Transbus
 International又被收購，並改稱為[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")。

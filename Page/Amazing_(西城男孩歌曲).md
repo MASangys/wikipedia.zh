@@ -1,4 +1,4 @@
-〈**Amazing**〉是[西城男孩在專輯](../Page/西城男孩.md "wikilink")[Face to
+〈**Amazing**〉是[西城男孩](../Page/西城男孩.md "wikilink")在專輯[Face to
 Face的第三支單曲](https://zh.wikipedia.org/wiki/Face_to_Face_\(Westlife_album\) "wikilink")。這支單曲是西城男孩最低銷量的單曲。
 
 單曲在英國單曲排行榜最高排行第四。

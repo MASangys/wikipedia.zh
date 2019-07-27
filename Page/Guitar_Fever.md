@@ -1,12 +1,12 @@
-**Guitar Fever**是香港歌手[古巨基於](../Page/古巨基.md "wikilink")2008年9月推出的個人專輯。
+**Guitar Fever**是香港歌手[古巨基](../Page/古巨基.md "wikilink")於2008年9月推出的個人專輯。
 
 ## 簡介
 
 以嶄新的音樂概念，古巨基在2008年的EP，發燒四部曲的首部《Guitar
-Fever》帶來由世界一流的大師級樂手精湛演繹的樂曲，古巨基精彩地演唱全新的歌曲及配樂各五首，為歌迷們帶來了全新的感受，全碟繼續由[林夕填詞](../Page/林夕.md "wikilink")，[雷頌德監製](../Page/雷頌德.md "wikilink")。
+Fever》帶來由世界一流的大師級樂手精湛演繹的樂曲，古巨基精彩地演唱全新的歌曲及配樂各五首，為歌迷們帶來了全新的感受，全碟繼續由[林夕](../Page/林夕.md "wikilink")填詞，[雷頌德](../Page/雷頌德.md "wikilink")監製。
 
-主打歌《下次再見》由國際級的古典結他手[楊雪霏伴奏](../Page/楊雪霏.md "wikilink")，令這首情歌溫婉動聽。[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[林夕合作的](../Page/林夕.md "wikilink")《花不痛》與[林建華的](https://zh.wikipedia.org/wiki/林建華 "wikilink")《眼晴不能沒眼淚》也很扣人心弦。碟內還有[鄧建明](../Page/鄧建明.md "wikilink")、[Barry
-Chung](https://zh.wikipedia.org/wiki/Barry_Chung "wikilink")、[雷頌德等結他樂手助陣](../Page/雷頌德.md "wikilink")，彈奏出一流的奏樂。以高水準的錄音和後期製作，把流行音樂與靚聲發燒錄音結合，《Guitar
+主打歌《下次再見》由國際級的古典結他手[楊雪霏](../Page/楊雪霏.md "wikilink")伴奏，令這首情歌溫婉動聽。[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[林夕](../Page/林夕.md "wikilink")合作的《花不痛》與[林建華的](https://zh.wikipedia.org/wiki/林建華 "wikilink")《眼晴不能沒眼淚》也很扣人心弦。碟內還有[鄧建明](../Page/鄧建明.md "wikilink")、[Barry
+Chung](https://zh.wikipedia.org/wiki/Barry_Chung "wikilink")、[雷頌德](../Page/雷頌德.md "wikilink")等結他樂手助陣，彈奏出一流的奏樂。以高水準的錄音和後期製作，把流行音樂與靚聲發燒錄音結合，《Guitar
 Fever》便是一個最佳實證。
 
 ## 曲目

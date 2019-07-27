@@ -1,4 +1,4 @@
-[Unicode中的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[拉丁字母和变体](../Page/拉丁字母.md "wikilink")：
+[Unicode中的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")和变体：
 
 | 图例：                                                                      |
 | ------------------------------------------------------------------------ |
@@ -10,7 +10,7 @@
 | [Unicode 3.1](https://zh.wikipedia.org/wiki/Unicode#Standard "wikilink") |
 | [Unicode 3.2](https://zh.wikipedia.org/wiki/Unicode#Standard "wikilink") |
 
-  - **Basic Latin** 0000–007F: 與[ASCII等同](../Page/ASCII.md "wikilink")
+  - **Basic Latin** 0000–007F: 與[ASCII](../Page/ASCII.md "wikilink")等同
     (0000–001F, 007F 為控制字符，0020–003F 為標點符號和阿拉伯數字)
   - **Latin-1 Supplement** 0080–00FF: 與[ISO/IEC
     8859-1等同](https://zh.wikipedia.org/wiki/ISO/IEC_8859-1 "wikilink")

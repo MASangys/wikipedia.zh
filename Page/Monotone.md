@@ -1,6 +1,6 @@
-**Monotone**是一個開放源碼的分散式版本控制軟件工具。設計原則是大量使用加密基元來跟蹤文件的修改（通過[SHA-1安全雜湊](../Page/SHA-1.md "wikilink"),
+**Monotone**是一個開放源碼的分散式版本控制軟件工具。設計原則是大量使用加密基元來跟蹤文件的修改（通過[SHA-1](../Page/SHA-1.md "wikilink")安全雜湊,
 secure
-hash），並驗證用戶的行動（通過RSA的加密），支持历史版本的合併。[Git最早是根據Monotone改寫](../Page/Git.md "wikilink")\[1\]。
+hash），並驗證用戶的行動（通過RSA的加密），支持历史版本的合併。[Git](../Page/Git.md "wikilink")最早是根據Monotone改寫\[1\]。
 
 ## 特色
 
@@ -8,7 +8,7 @@ hash），並驗證用戶的行動（通過RSA的加密），支持历史版本�
 [Subversion](../Page/Subversion.md "wikilink"), Monotone
 是透過分散式的手段來進行版本控制。Monotone 還使用SHA-1
 hashes來定義檔案系統, 有如 [Git](../Page/Git.md "wikilink") 以及
-[Mercurial的作法一樣](../Page/Mercurial.md "wikilink").
+[Mercurial](../Page/Mercurial.md "wikilink")的作法一樣.
 
 Monotone的其他特色如下：
 

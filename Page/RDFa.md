@@ -1,4 +1,4 @@
-**RDFa**是一個[W3C推薦標準](https://zh.wikipedia.org/wiki/W3C推薦標準 "wikilink")。它擴充了[XHTML的幾個屬性](../Page/XHTML.md "wikilink")，網頁製作者可以利用這些屬性在網頁中添加可供机器读取的[後設資料](https://zh.wikipedia.org/wiki/後設資料 "wikilink")。與[RDF資料模型的對應關係使得RDFa可以將RDF的](https://zh.wikipedia.org/wiki/RDF "wikilink")[三元组嵌入在XHTML文档中](https://zh.wikipedia.org/wiki/三元组 "wikilink")，它也使得符合標準的使用端可以從RDFa文件中提取出這些RDF三元组來。
+**RDFa**是一個[W3C推薦標準](https://zh.wikipedia.org/wiki/W3C推薦標準 "wikilink")。它擴充了[XHTML](../Page/XHTML.md "wikilink")的幾個屬性，網頁製作者可以利用這些屬性在網頁中添加可供机器读取的[後設資料](https://zh.wikipedia.org/wiki/後設資料 "wikilink")。與[RDF資料模型的對應關係使得RDFa可以將RDF的](https://zh.wikipedia.org/wiki/RDF "wikilink")[三元组嵌入在XHTML文档中](https://zh.wikipedia.org/wiki/三元组 "wikilink")，它也使得符合標準的使用端可以從RDFa文件中提取出這些RDF三元组來。
 
 W3C的「XHTML內的RDF」小組也在討論如何在非XML的HTML下實作RDFa\[1\]。主要的問題是在非XML的HTML裡無法使用[XML名稱空間](https://zh.wikipedia.org/wiki/XML名稱空間 "wikilink")。
 
@@ -46,13 +46,13 @@ RDFa達成了五個「可交互利用的後設資料的條件」。\[12\]
   - 重複使用資料 – 資料不會被複製成兩份。對於同樣的內容，不需要有非別的XML跟HTML的部份。
   - 自我包含 – HTML與RDF是分開的
   - 文法模組化 – 那些屬性可以被重複使用
-  - 可演化性 – 可以加更多的屬性，且[XSLT可以從一個XHTML檔裡萃取出資料](../Page/XSLT.md "wikilink")
+  - 可演化性 – 可以加更多的屬性，且[XSLT](../Page/XSLT.md "wikilink")可以從一個XHTML檔裡萃取出資料
 
 另外RDFa可以增進一個網頁的[網頁親和力](../Page/網頁親和力.md "wikilink")，畢竟[輔助科技軟體可以使用更多的機械可讀資料](https://zh.wikipedia.org/wiki/輔助科技 "wikilink")。\[13\]
 
 ## 例子
 
-以下是一個加入[都柏林核心後設資料的XHTML的檔案](../Page/都柏林核心.md "wikilink")。都柏林核心的字彙都是那些跟書或是文章有關的（標題、作者、主題等等）。
+以下是一個加入[都柏林核心](../Page/都柏林核心.md "wikilink")後設資料的XHTML的檔案。都柏林核心的字彙都是那些跟書或是文章有關的（標題、作者、主題等等）。
 
 ``` xml
 <div xmlns:dc="http://purl.org/dc/elements/1.1/"

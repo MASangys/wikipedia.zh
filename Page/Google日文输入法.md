@@ -1,8 +1,8 @@
-**Google日文输入法**（），是[Google于](../Page/Google.md "wikilink")2009年12月3日发布的支持Windows和Mac[操作系统的日文输入法](../Page/操作系统.md "wikilink")。其[开放源代码的版本为Mozc](../Page/开放源代码.md "wikilink")。2009年12月3日发布beta版（32位）\[1\]，2010年12月16日发布正式版\[2\]。
+**Google日文输入法**（），是[Google](../Page/Google.md "wikilink")于2009年12月3日发布的支持Windows和Mac[操作系统](../Page/操作系统.md "wikilink")的日文输入法。其[开放源代码](../Page/开放源代码.md "wikilink")的版本为Mozc。2009年12月3日发布beta版（32位）\[1\]，2010年12月16日发布正式版\[2\]。
 
 ## 概要
 
-Google日文输入法使用的[辞典是在](https://zh.wikipedia.org/wiki/辞典 "wikilink")[互联网上自动收集词汇而生成](../Page/互联网.md "wikilink")，从专业用语和知名人士（包括娱乐圈、政治家乃至[ACG中的人物](../Page/ACG.md "wikilink")），到兴衰极快的[网络语言](https://zh.wikipedia.org/wiki/网络语言 "wikilink")，都可精准转换，固有名词的转换率远高于其他[日文输入法](https://zh.wikipedia.org/wiki/日文输入法 "wikilink")\[3\]，因而成为网上一大热点\[4\]。
+Google日文输入法使用的[辞典是在](https://zh.wikipedia.org/wiki/辞典 "wikilink")[互联网](../Page/互联网.md "wikilink")上自动收集词汇而生成，从专业用语和知名人士（包括娱乐圈、政治家乃至[ACG](../Page/ACG.md "wikilink")中的人物），到兴衰极快的[网络语言](https://zh.wikipedia.org/wiki/网络语言 "wikilink")，都可精准转换，固有名词的转换率远高于其他[日文输入法](https://zh.wikipedia.org/wiki/日文输入法 "wikilink")\[3\]，因而成为网上一大热点\[4\]。
 
 2010年2月17日开始，为了测试新功能并尽早发现bug，Google日语输入法开发团队发布了开发版（alpha版）；但开发团队表示从安全性的角度考虑，推荐大家日常使用正式版\[5\]。
 
@@ -11,7 +11,7 @@ OS中所必要的程序核心部分以](https://zh.wikipedia.org/wiki/Google_Chr
 
 2011年12月15日，开发小组发布针对Android平台的Beta版\[7\]。2013年4月4日，Android系统的谷歌日文输入法正式版发布\[8\]。
 
-Google日文输入法在输入专有名词和人名时比较方便。\[9\]另外，也可以用来把[十进制的数字转换成](../Page/十进制.md "wikilink")[二进制数字](https://zh.wikipedia.org/wiki/二进制 "wikilink")。\[10\]
+Google日文输入法在输入专有名词和人名时比较方便。\[9\]另外，也可以用来把[十进制](../Page/十进制.md "wikilink")的数字转换成[二进制数字](https://zh.wikipedia.org/wiki/二进制 "wikilink")。\[10\]
 
 ## 开发经过
 

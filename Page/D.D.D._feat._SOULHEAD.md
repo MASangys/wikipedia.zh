@@ -1,9 +1,9 @@
 『**D.D.D. feat.
-SOULHEAD**』為2005年12月21日發行的日本歌手[倖田來未第](../Page/倖田來未.md "wikilink")21st[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+SOULHEAD**』為2005年12月21日發行的日本歌手[倖田來未](../Page/倖田來未.md "wikilink")第21st[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
-  - [12週單曲連發的第](../Page/12週單曲連發.md "wikilink")3彈・5萬張完全限定生產作品。單曲封面主題為[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）。
+  - [12週單曲連發](../Page/12週單曲連發.md "wikilink")的第3彈・5萬張完全限定生產作品。單曲封面主題為[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）。
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@ SOULHEAD**』為2005年12月21日發行的日本歌手[倖田來未第](../Page/
 
 <!-- end list -->
 
-  - 隔年的2006年3月「スペースシャワーTV」所舉辦[音樂錄影帶的大獎](../Page/音樂錄影帶.md "wikilink")「SPACE
+  - 隔年的2006年3月「スペースシャワーTV」所舉辦[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")的大獎「SPACE
     SHOWER Music Video Awards|SPACE SHOWER MVA 06」中獲得了「BEST
     COLLABORATION VIDEO」的獎項。倖田來未與SOULHEAD一同上台共同領取此獎項。
 

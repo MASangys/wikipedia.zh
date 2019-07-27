@@ -1,10 +1,10 @@
-**ORIGA**（，\[1\]\[2\]\[3\]）是在日本活動的[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[創作歌手所使用的藝名](../Page/創作歌手.md "wikilink")，本名為**奥莉加·维塔莉耶芙娜·雅克夫列娃**（）。
+**ORIGA**（，\[1\]\[2\]\[3\]）是在日本活動的[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")所使用的藝名，本名為**奥莉加·维塔莉耶芙娜·雅克夫列娃**（）。
 
 ## 概要
 
-1970年出生於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[新西伯利亞郊外的](https://zh.wikipedia.org/wiki/新西伯利亞 "wikilink")[農村](https://zh.wikipedia.org/wiki/農村 "wikilink")。1991年以[交換學生身份到](https://zh.wikipedia.org/wiki/交換學生 "wikilink")[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")，並以[創作歌手身份發跡](../Page/創作歌手.md "wikilink")。
+1970年出生於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[新西伯利亞郊外的](https://zh.wikipedia.org/wiki/新西伯利亞 "wikilink")[農村](https://zh.wikipedia.org/wiki/農村 "wikilink")。1991年以[交換學生身份到](https://zh.wikipedia.org/wiki/交換學生 "wikilink")[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")，並以[創作歌手](../Page/創作歌手.md "wikilink")身份發跡。
 
-2015年1月17日在[神奈川縣醫院去世](../Page/神奈川縣.md "wikilink")，年僅44歲\[4\]。訃聞僅提死因心臟衰竭，與其交好同是俄國人的聲優Jenya於[Twitter指明肺癌](../Page/Twitter.md "wikilink")\[5\]。
+2015年1月17日在[神奈川縣](../Page/神奈川縣.md "wikilink")醫院去世，年僅44歲\[4\]。訃聞僅提死因心臟衰竭，與其交好同是俄國人的聲優Jenya於[Twitter](../Page/Twitter.md "wikilink")指明肺癌\[5\]。
 
 ## 作品
 

@@ -1,8 +1,8 @@
 **Where We Are
-巡迴演唱**是由[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[男子樂隊](https://zh.wikipedia.org/wiki/男子樂隊 "wikilink")[西城男孩為支持他們第十張錄音室專輯](../Page/西城男孩.md "wikilink")[Where
+巡迴演唱**是由[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[男子樂隊](https://zh.wikipedia.org/wiki/男子樂隊 "wikilink")[西城男孩](../Page/西城男孩.md "wikilink")為支持他們第十張錄音室專輯[Where
 We
 Are在歐洲的巡迴演唱](https://zh.wikipedia.org/wiki/Where_We_Are "wikilink")。[Westlife分別會在](https://zh.wikipedia.org/wiki/Westlife "wikilink")[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[愛爾蘭演出](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")。巡迴演唱會將會在2010年歐洲舉行。他們最近也確認了樂隊會在更多的場地演出。
-樂隊曾在[瑞典及](../Page/瑞典.md "wikilink")[德國進行了巡迴宣傳](https://zh.wikipedia.org/wiki/德國 "wikilink")。
+樂隊曾在[瑞典](../Page/瑞典.md "wikilink")及[德國進行了巡迴宣傳](https://zh.wikipedia.org/wiki/德國 "wikilink")。
 
 ## 表演嘉賓
 
@@ -46,7 +46,7 @@ Albert也會在開場表演中亮相](https://zh.wikipedia.org/wiki/Jodi_Albert 
 
   - [I Gotta
     Feeling](https://zh.wikipedia.org/wiki/I_Gotta_Feeling "wikilink")
-    <small>([黑眼豆豆歌曲](../Page/黑眼豆豆.md "wikilink"))</small>
+    <small>([黑眼豆豆](../Page/黑眼豆豆.md "wikilink")歌曲)</small>
   - [Halo](https://zh.wikipedia.org/wiki/Halo_\(碧昂絲·諾利斯歌曲\) "wikilink")
     <small>([碧昂絲·諾利斯歌曲](https://zh.wikipedia.org/wiki/碧昂絲·諾利斯 "wikilink"))</small>
     (與How To Break A Heart混合)
@@ -161,7 +161,7 @@ Albert也會在開場表演中亮相](https://zh.wikipedia.org/wiki/Jodi_Albert 
 <tr class="odd">
 <td><p>5月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡迪夫" title="wikilink">卡迪夫</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/威爾斯" title="wikilink">威爾斯</a></p></td>
+<td><p><a href="../Page/威爾斯.md" title="wikilink">威爾斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡地夫國際競技場" title="wikilink">卡地夫國際競技場</a><br />
 （）</p></td>
 </tr>
@@ -294,7 +294,7 @@ Albert也會在開場表演中亮相](https://zh.wikipedia.org/wiki/Jodi_Albert 
 <tr class="odd">
 <td><p>8月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/圭內斯郡" title="wikilink">圭內斯郡</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/威爾斯" title="wikilink">威爾斯</a></p></td>
+<td><p><a href="../Page/威爾斯.md" title="wikilink">威爾斯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

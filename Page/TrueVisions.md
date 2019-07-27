@@ -1,4 +1,4 @@
-**Truevisions**（）是[泰国的有线电视和卫星电视运营商](../Page/泰国.md "wikilink")。该公司前身为**联合广播公司**（United
+**Truevisions**（）是[泰国](../Page/泰国.md "wikilink")的有线电视和卫星电视运营商。该公司前身为**联合广播公司**（United
 Broadcasting Corporation；简称: UBC），在2007年2月更名Truevisions。
 
 ## 历史

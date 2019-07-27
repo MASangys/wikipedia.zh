@@ -1,15 +1,15 @@
 \[1\] }}
 
-**WASP-18b**是一颗以公转周期很短，小于1个地球日而聞名的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，其質量大約為10倍[木星質量](https://zh.wikipedia.org/wiki/木星質量 "wikilink")\[2\]，刚好低于[行星和](../Page/行星.md "wikilink")[棕矮星的](../Page/棕矮星.md "wikilink")13倍木星質量分界线。因為[潮汐減速](https://zh.wikipedia.org/wiki/潮汐加速#潮汐減速 "wikilink")，一般認為該恆星在之後一百萬年內會以螺線軌跡逐漸接近母恆星，最終被母恆星[WASP-18吞噬](../Page/WASP-18.md "wikilink")\[3\]。WASP-18b距離母恆星約310萬公里，距離地球約410光年。該行星由英格蘭[基爾大學的天文學家科埃](../Page/基爾大學_\(英國\).md "wikilink")·赫利尔（Coel
+**WASP-18b**是一颗以公转周期很短，小于1个地球日而聞名的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，其質量大約為10倍[木星質量](https://zh.wikipedia.org/wiki/木星質量 "wikilink")\[2\]，刚好低于[行星](../Page/行星.md "wikilink")和[棕矮星](../Page/棕矮星.md "wikilink")的13倍木星質量分界线。因為[潮汐減速](https://zh.wikipedia.org/wiki/潮汐加速#潮汐減速 "wikilink")，一般認為該恆星在之後一百萬年內會以螺線軌跡逐漸接近母恆星，最終被母恆星[WASP-18](../Page/WASP-18.md "wikilink")吞噬\[3\]。WASP-18b距離母恆星約310萬公里，距離地球約410光年。該行星由英格蘭[基爾大學的天文學家科埃](../Page/基爾大學_\(英國\).md "wikilink")·赫利尔（Coel
 Hellier）為首的團隊發現\[4\]。
 
 ## 概要
 
-基爾大學和美國[馬里蘭大學學院市分校的天文學家正在努力了解這顆行星是否在預期被摧毀時間前不久](../Page/馬里蘭大學學院市分校.md "wikilink")（低於其預期壽命0.1%）偶然被發現；或者WASP-18b的潮汐消散其實比天文學家預期的低得多\[5\]\[6\]。接下來十年內對WASP-18b的觀測可以讓天文學家計算其軌道衰減率\[7\]。
+基爾大學和美國[馬里蘭大學學院市分校](../Page/馬里蘭大學學院市分校.md "wikilink")的天文學家正在努力了解這顆行星是否在預期被摧毀時間前不久（低於其預期壽命0.1%）偶然被發現；或者WASP-18b的潮汐消散其實比天文學家預期的低得多\[5\]\[6\]。接下來十年內對WASP-18b的觀測可以讓天文學家計算其軌道衰減率\[7\]。
 
-[太陽系中與WASP](https://zh.wikipedia.org/wiki/太陽系 "wikilink")-18b狀況最類似的例子是[火星的衛星](../Page/火星.md "wikilink")[火卫一](../Page/火卫一.md "wikilink")。火卫一的軌道半徑只有約9000公里，相當於地球和月球距離的四十分之一\[8\]，天文學家預期火衛一大約在1100萬年後被潮汐力摧毀\[9\]。
+[太陽系中與WASP](https://zh.wikipedia.org/wiki/太陽系 "wikilink")-18b狀況最類似的例子是[火星](../Page/火星.md "wikilink")的衛星[火卫一](../Page/火卫一.md "wikilink")。火卫一的軌道半徑只有約9000公里，相當於地球和月球距離的四十分之一\[8\]，天文學家預期火衛一大約在1100萬年後被潮汐力摧毀\[9\]。
 
-[PIA22087-Exoplanet-Wasp18b-COinStratosphere-20171129.jpg](https://zh.wikipedia.org/wiki/File:PIA22087-Exoplanet-Wasp18b-COinStratosphere-20171129.jpg "fig:PIA22087-Exoplanet-Wasp18b-COinStratosphere-20171129.jpg")中發現大量[一氧化碳示意圖](../Page/一氧化碳.md "wikilink")\[10\]。
+[PIA22087-Exoplanet-Wasp18b-COinStratosphere-20171129.jpg](https://zh.wikipedia.org/wiki/File:PIA22087-Exoplanet-Wasp18b-COinStratosphere-20171129.jpg "fig:PIA22087-Exoplanet-Wasp18b-COinStratosphere-20171129.jpg")中發現大量[一氧化碳](../Page/一氧化碳.md "wikilink")示意圖\[10\]。
 
 </center>
 

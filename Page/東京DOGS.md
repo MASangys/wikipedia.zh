@@ -1,8 +1,8 @@
-《**東京DOGS**》是一部於2009年10月19日起，由[日本](../Page/日本.md "wikilink")[富士電視台於逢星期一](../Page/富士電視台.md "wikilink")21:00-21:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[小栗旬主演](../Page/小栗旬.md "wikilink")。首回加長15分鐘至22:09。此劇是[小栗旬的月九初主演](../Page/小栗旬.md "wikilink")，也是[水嶋宏的月九初出演](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")。
+《**東京DOGS**》是一部於2009年10月19日起，由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於逢星期一21:00-21:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[小栗旬](../Page/小栗旬.md "wikilink")主演。首回加長15分鐘至22:09。此劇是[小栗旬](../Page/小栗旬.md "wikilink")的月九初主演，也是[水嶋宏的月九初出演](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")。
 
 ## 概要
 
-富士台月9劇自1988年《猛龍笑將》以來21年首個刑事連續劇。[紐約歸來的精英刑事高倉奏與熱血](https://zh.wikipedia.org/wiki/紐約 "wikilink")[暴走族刑事工藤丸尾組成拍檔](../Page/暴走族.md "wikilink")，共同偵破各個案件。
+富士台月9劇自1988年《猛龍笑將》以來21年首個刑事連續劇。[紐約歸來的精英刑事高倉奏與熱血](https://zh.wikipedia.org/wiki/紐約 "wikilink")[暴走族](../Page/暴走族.md "wikilink")刑事工藤丸尾組成拍檔，共同偵破各個案件。
 
 ## 演員
 
@@ -12,12 +12,12 @@
     [小栗旬](../Page/小栗旬.md "wikilink")、[澁谷武尊](https://zh.wikipedia.org/wiki/澁谷武尊 "wikilink")（少年時期）**-
     [黃啟昌配音](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
   - **工藤丸尾（25） - [水嶋宏](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")**-
-    [李致林配音](../Page/李致林.md "wikilink")
+    [李致林](../Page/李致林.md "wikilink")配音
   - **松永由岐（23） -
     、[文屋愛海](https://zh.wikipedia.org/wiki/文屋愛海 "wikilink")（少年時期）**-
     [黃紫嫻配音](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")
   - **堀川經一（23） -
-    [勝地涼](../Page/勝地涼.md "wikilink")**[關令翹配音](../Page/關令翹.md "wikilink")
+    [勝地涼](../Page/勝地涼.md "wikilink")**[關令翹](../Page/關令翹.md "wikilink")配音
   - **益子禮二（40） - [東幹久](https://zh.wikipedia.org/wiki/東幹久 "wikilink")**
   - **鈴江光男（59） -
     [志賀廣太郎](https://zh.wikipedia.org/wiki/志賀廣太郎 "wikilink")**
@@ -26,13 +26,13 @@
   - **甲斐崎廣人（27） -
     [水上剣星](https://zh.wikipedia.org/wiki/水上剣星 "wikilink")**
   - **神野京介（40） - [仲村亨](../Page/仲村亨.md "wikilink")**-
-    [陳廷軒配音](../Page/陳廷軒.md "wikilink")
+    [陳廷軒](../Page/陳廷軒.md "wikilink")配音
   - **蒲田茂夫（22） - [矢崎広](https://zh.wikipedia.org/wiki/矢崎広 "wikilink")**
   - **高倉花梨（17） - [川口春奈](../Page/川口春奈.md "wikilink")**-
-    [楊善諭配音](../Page/楊善諭.md "wikilink")
+    [楊善諭](../Page/楊善諭.md "wikilink")配音
   - **中谷祥太（17） - [吉村卓也](https://zh.wikipedia.org/wiki/吉村卓也 "wikilink")**
   - **高倉京子（53） - [田中好子](../Page/田中好子.md "wikilink")（特別出演）**-
-    [沈小蘭配音](../Page/沈小蘭.md "wikilink")
+    [沈小蘭](../Page/沈小蘭.md "wikilink")配音
   - **舞島美紗（38） - [大塚寧寧](../Page/大塚寧寧.md "wikilink")**
   - **大友幸三（57） - [三浦友和](https://zh.wikipedia.org/wiki/三浦友和 "wikilink")**
 

@@ -6,7 +6,7 @@
 
 编辑方针以美少女角色为中心，内容与2006年-2008年作为《[Comptiq](../Page/Comptiq.md "wikilink")》增刊发行的《》基本属于同一类型。
 
-[魔法少女奈葉系列第](../Page/魔法少女奈葉系列.md "wikilink")4期計劃一部分的漫画[魔法戰記奈葉Force目前在本杂志上进行连载](../Page/魔法戰記奈葉Force.md "wikilink")。
+[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")第4期計劃一部分的漫画[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")目前在本杂志上进行连载。
 
 创刊号于第2期（2009年7月30日发售）是季刊。第2期以后改为双月刊发行（发售日为隔月的30日）。同年12月7日宣布自2010年3月起月刊化。
 
@@ -36,13 +36,13 @@
 | Vol.12        | 宫藤芳佳&坂本美绪（[Strike Witches](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")）                                                                                                                                                        |
 | Vol.13        | [御坂美琴](../Page/御坂美琴.md "wikilink")（[魔法禁书目录II](https://zh.wikipedia.org/wiki/魔法禁书目录 "wikilink")）                                                                                                                                             |
 | Vol.14        | 高町奈叶&菲特·泰斯塔罗莎（魔法少女奈叶 The MOVIE 1st）                                                                                                                                                                                                         |
-| Vol.15        | 寧芙（[天降之物f](../Page/天降之物.md "wikilink")）                                                                                                                                                                                                     |
+| Vol.15        | 寧芙（[天降之物](../Page/天降之物.md "wikilink")f）                                                                                                                                                                                                     |
 | Vol.16        | 春奈（[这样算是僵尸吗？](https://zh.wikipedia.org/wiki/这样算是僵尸吗？ "wikilink")）                                                                                                                                                                           |
 | Vol.17        | [鹿目圆](https://zh.wikipedia.org/wiki/鹿目圆 "wikilink")&[晓美焰](../Page/晓美焰.md "wikilink")（[魔法少女小圆](https://zh.wikipedia.org/wiki/魔法少女小圆 "wikilink")）                                                                                             |
 | 2011年5月号      | 高町奈叶&菲特·泰斯塔罗莎（[魔法少女奈叶StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈叶StrikerS "wikilink")）                                                                                                                                                    |
 | 2011年6月号      | 米露茜欧莱·F·比斯科帝&莱奥米雪莉·迦雷特·达·罗瓦（[DOG DAYS](../Page/DOG_DAYS.md "wikilink")）                                                                                                                                                                     |
 | 2011年7月号      | 牧濑红莉栖&椎名真由里（[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")）                                                                                                                                                            |
-| 2011年8月号      | 伊卡洛斯（[天降之物剧场版](../Page/天降之物.md "wikilink")）                                                                                                                                                                                                 |
+| 2011年8月号      | 伊卡洛斯（[天降之物](../Page/天降之物.md "wikilink")剧场版）                                                                                                                                                                                                 |
 | 2011年9月号      | 米露茜欧莱·F·比斯科帝（DOG DAYS）                                                                                                                                                                                                                      |
 | 2011年10月号     | [菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")&莉莉·修特羅傑克 ([魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink"))                                                                                                                                      |
 | 2011年11月号     | 高町奈叶&艾希丝·伊古雷特（[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")）                                                                                                                                                                             |
@@ -57,7 +57,7 @@
 | 2012年8月号      | 伊卡洛斯（天降之物剧场版）                                                                                                                                                                                                                               |
 | 2012年9月号      | 高町奈叶&八神疾风（魔法少女奈叶 The MOVIE 2nd A's）                                                                                                                                                                                                         |
 | 2012年10月号     | 菲特·泰斯塔罗莎&莉莉·修特罗杰克（魔法戰記奈葉Force）                                                                                                                                                                                                              |
-| 2012年11月号     | 梦梦·贝莉雅·戴比路克&金色之暗（[出包王女DARKNESS](../Page/出包王女.md "wikilink")）                                                                                                                                                                                |
+| 2012年11月号     | 梦梦·贝莉雅·戴比路克&金色之暗（[出包王女](../Page/出包王女.md "wikilink")DARKNESS）                                                                                                                                                                                |
 | 2012年12月号     | 西住美穗&冷泉麻子（[少女&坦克](https://zh.wikipedia.org/wiki/少女&坦克 "wikilink")）                                                                                                                                                                          |
 | 2013年1月号      | 亚丝娜&莉法（[刀剑神域](https://zh.wikipedia.org/wiki/刀剑神域 "wikilink")）                                                                                                                                                                               |
 | 2013年2月号      | 小鸟游六花（[中二病也要谈恋爱](https://zh.wikipedia.org/wiki/中二病也要谈恋爱 "wikilink")）                                                                                                                                                                        |

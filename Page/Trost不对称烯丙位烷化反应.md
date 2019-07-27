@@ -2,7 +2,7 @@
 Trost](https://zh.wikipedia.org/wiki/Barry_Trost "wikilink")
 报道。\[1\]\[2\]\[3\]\[4\]
 
-[烯丙位带有](https://zh.wikipedia.org/wiki/烯丙位 "wikilink")[离去基团的底物在](https://zh.wikipedia.org/wiki/离去基团 "wikilink")[钯和手性配体](../Page/钯.md "wikilink")（[Trost配体](../Page/Trost配体.md "wikilink")）作用下，与[亲核试剂](https://zh.wikipedia.org/wiki/亲核试剂 "wikilink")（如[醇](../Page/醇.md "wikilink")、[酚](../Page/酚.md "wikilink")、[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[酞酰亚胺](https://zh.wikipedia.org/wiki/酞酰亚胺 "wikilink")、水、[烯胺](https://zh.wikipedia.org/wiki/烯胺 "wikilink")\[5\]）反应[对映选择性](https://zh.wikipedia.org/wiki/对映选择性 "wikilink")（[构型翻转](https://zh.wikipedia.org/wiki/构型翻转 "wikilink")）地生成相应的烯丙位取代产物。
+[烯丙位带有](https://zh.wikipedia.org/wiki/烯丙位 "wikilink")[离去基团的底物在](https://zh.wikipedia.org/wiki/离去基团 "wikilink")[钯](../Page/钯.md "wikilink")和手性配体（[Trost配体](../Page/Trost配体.md "wikilink")）作用下，与[亲核试剂](https://zh.wikipedia.org/wiki/亲核试剂 "wikilink")（如[醇](../Page/醇.md "wikilink")、[酚](../Page/酚.md "wikilink")、[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[酞酰亚胺](https://zh.wikipedia.org/wiki/酞酰亚胺 "wikilink")、水、[烯胺](https://zh.wikipedia.org/wiki/烯胺 "wikilink")\[5\]）反应[对映选择性](https://zh.wikipedia.org/wiki/对映选择性 "wikilink")（[构型翻转](https://zh.wikipedia.org/wiki/构型翻转 "wikilink")）地生成相应的烯丙位取代产物。
 
 
 [Trost-Inversion.png](https://zh.wikipedia.org/wiki/File:Trost-Inversion.png "fig:Trost-Inversion.png")

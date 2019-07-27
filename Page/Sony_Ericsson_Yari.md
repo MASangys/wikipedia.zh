@@ -21,7 +21,7 @@ Yari的中文官方名称为**雅锐**。
   - 重量：115 克
   - 屏幕：2.4寸 240x320像素 26万色(TFT)
   - 外型：滑盖[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")
-  - 电池：1000mAh[锂离子电池BST](../Page/锂离子电池.md "wikilink")-43
+  - 电池：1000mAh[锂离子电池](../Page/锂离子电池.md "wikilink")BST-43
   - 颜色：[极致黑](https://zh.wikipedia.org/wiki/黑 "wikilink")、玫瑰金、红莓白
 
 ### 系统

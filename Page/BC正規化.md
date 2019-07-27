@@ -1,4 +1,4 @@
-**Boyce-Codd范式**（，缩写），是[数据库规范化的一种](../Page/数据库规范化.md "wikilink")[正规形式](https://zh.wikipedia.org/wiki/数据库规范化#范式 "wikilink")。是在[第三范式的基础上加上稍微更严格约束](https://zh.wikipedia.org/wiki/第三范式 "wikilink")，每个BCNF关系都满足[第三范式](https://zh.wikipedia.org/wiki/第三范式 "wikilink")。BCNF去除了属性间的不必要的函数依赖。
+**Boyce-Codd范式**（，缩写），是[数据库规范化](../Page/数据库规范化.md "wikilink")的一种[正规形式](https://zh.wikipedia.org/wiki/数据库规范化#范式 "wikilink")。是在[第三范式的基础上加上稍微更严格约束](https://zh.wikipedia.org/wiki/第三范式 "wikilink")，每个BCNF关系都满足[第三范式](https://zh.wikipedia.org/wiki/第三范式 "wikilink")。BCNF去除了属性间的不必要的函数依赖。
 
 BCNF的定义是：
 

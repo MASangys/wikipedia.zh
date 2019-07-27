@@ -1,6 +1,6 @@
 **Perkow反应**（Perkow reaction）
 
-[亚磷酸三烷基酯与](https://zh.wikipedia.org/wiki/亚磷酸酯 "wikilink")[卤代酮反应生成](../Page/卤代酮.md "wikilink")[烯基二](https://zh.wikipedia.org/wiki/烯基 "wikilink")[烷基](../Page/烷基.md "wikilink")[磷酸酯和](https://zh.wikipedia.org/wiki/磷酸酯 "wikilink")[卤代烃](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")。\[1\]
+[亚磷酸三烷基酯与](https://zh.wikipedia.org/wiki/亚磷酸酯 "wikilink")[卤代酮](../Page/卤代酮.md "wikilink")反应生成[烯基二](https://zh.wikipedia.org/wiki/烯基 "wikilink")[烷基](../Page/烷基.md "wikilink")[磷酸酯和](https://zh.wikipedia.org/wiki/磷酸酯 "wikilink")[卤代烃](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")。\[1\]
 
 
 [Perkow_reaction.png](https://zh.wikipedia.org/wiki/File:Perkow_reaction.png "fig:Perkow_reaction.png")
@@ -20,7 +20,7 @@
 
 ## 应用
 
-1、[六氯丙酮与](https://zh.wikipedia.org/wiki/六氯丙酮 "wikilink")[亚磷酸三乙酯的](../Page/亚磷酸三乙酯.md "wikilink")
+1、[六氯丙酮与](https://zh.wikipedia.org/wiki/六氯丙酮 "wikilink")[亚磷酸三乙酯](../Page/亚磷酸三乙酯.md "wikilink")的
 Perkow
 产物，再用[2,2,2-三氟乙醇钠处理得到的两性离子](https://zh.wikipedia.org/wiki/2,2,2-三氟乙醇 "wikilink")，与呋喃发生\[4+3\]环加成，用于新颖的驱虫剂之合成\[2\]
 

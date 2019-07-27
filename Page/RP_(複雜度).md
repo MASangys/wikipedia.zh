@@ -1,4 +1,4 @@
-在[複雜度理論內](../Page/計算複雜性理論.md "wikilink")，**RP**（"隨機多項式時間"）是一個有關[機率圖靈機的](../Page/機率圖靈機.md "wikilink")[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")，並且存在以下特性：
+在[複雜度理論內](../Page/計算複雜性理論.md "wikilink")，**RP**（"隨機多項式時間"）是一個有關[機率圖靈機](../Page/機率圖靈機.md "wikilink")的[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")，並且存在以下特性：
 
 <table>
 <thead>

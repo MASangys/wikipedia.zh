@@ -18,7 +18,7 @@
   - [初音岛](https://zh.wikipedia.org/wiki/初音岛 "wikilink")（2003年）
   - [愛情泡泡糖](https://zh.wikipedia.org/wiki/愛情泡泡糖 "wikilink")（2004年）
   - [喜欢所以喜欢](https://zh.wikipedia.org/wiki/喜欢所以喜欢 "wikilink")（2005年）
-  - [Canvas2～彩虹色的图画～](../Page/Canvas2.md "wikilink")（2005年）
+  - [Canvas2](../Page/Canvas2.md "wikilink")～彩虹色的图画～（2005年）
   - [魔法人力派遣公司](../Page/魔法人力派遣公司.md "wikilink")（2007年）
   - [H<sub>2</sub>O -FOOTPRINTS IN THE
     SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")（2008年）

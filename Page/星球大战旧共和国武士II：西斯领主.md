@@ -1,10 +1,10 @@
-《**星球大战旧共和国武士II：西斯领主**》（，缩写为）是由[黑曜石娱乐开发](../Page/黑曜石娱乐.md "wikilink")、[LucasArts发行的](../Page/LucasArts.md "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是颇受好评的前作《[星球大战：旧共和国武士](https://zh.wikipedia.org/wiki/星球大战：旧共和国武士 "wikilink")》（）的后续作品，其[Xbox版先於](../Page/Xbox.md "wikilink")2004年12月6日发行，而后[Windows版本则在](https://zh.wikipedia.org/wiki/Windows "wikilink")2005年2月8日发行。本作亦是[黑岛工作室解散后](https://zh.wikipedia.org/wiki/黑岛工作室 "wikilink")，其成员组成黑曜石娱乐公司之后的处女作。
+《**星球大战旧共和国武士II：西斯领主**》（，缩写为）是由[黑曜石娱乐](../Page/黑曜石娱乐.md "wikilink")开发、[LucasArts](../Page/LucasArts.md "wikilink")发行的[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。本作是颇受好评的前作《[星球大战：旧共和国武士](https://zh.wikipedia.org/wiki/星球大战：旧共和国武士 "wikilink")》（）的后续作品，其[Xbox](../Page/Xbox.md "wikilink")版先於2004年12月6日发行，而后[Windows版本则在](https://zh.wikipedia.org/wiki/Windows "wikilink")2005年2月8日发行。本作亦是[黑岛工作室解散后](https://zh.wikipedia.org/wiki/黑岛工作室 "wikilink")，其成员组成黑曜石娱乐公司之后的处女作。
 
-2011年底，[LucasArts與](../Page/LucasArts.md "wikilink")[美商藝電聯合發佈了由](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[BioWare開發的續作](../Page/BioWare.md "wikilink")《[星際大戰：舊共和國](../Page/星際大戰：舊共和國.md "wikilink")》，採用[MMORPG的形式](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。
+2011年底，[LucasArts](../Page/LucasArts.md "wikilink")與[美商藝電聯合發佈了由](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[BioWare](../Page/BioWare.md "wikilink")開發的續作《[星際大戰：舊共和國](../Page/星際大戰：舊共和國.md "wikilink")》，採用[MMORPG的形式](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。
 
 ## 开发
 
-《星球大战旧共和国武士II：西斯领主》（以下简称《西斯领主》）同[Bioware於](https://zh.wikipedia.org/wiki/Bioware "wikilink")2003年开发并被[GameSpy等评为年度最佳游戏的](../Page/GameSpy.md "wikilink")《星球大战：旧共和国武士》属于同一系列。更换开发小组的原因来自Bioware，他们由于忙于开发《[翡翠帝国](../Page/翡翠帝国.md "wikilink")》并集中精力在[知识产权问题上而无暇顾及其他](../Page/知识产权.md "wikilink")\[1\]，并出于对黑曜石小组人员过去工作的熟悉而推荐他们来完成这项工作\[2\]。《西斯领主》的开发起始日和《星球大战：旧共和国武士》的Xbox版发售日为同一天\[3\]。
+《星球大战旧共和国武士II：西斯领主》（以下简称《西斯领主》）同[Bioware於](https://zh.wikipedia.org/wiki/Bioware "wikilink")2003年开发并被[GameSpy](../Page/GameSpy.md "wikilink")等评为年度最佳游戏的《星球大战：旧共和国武士》属于同一系列。更换开发小组的原因来自Bioware，他们由于忙于开发《[翡翠帝国](../Page/翡翠帝国.md "wikilink")》并集中精力在[知识产权](../Page/知识产权.md "wikilink")问题上而无暇顾及其他\[1\]，并出于对黑曜石小组人员过去工作的熟悉而推荐他们来完成这项工作\[2\]。《西斯领主》的开发起始日和《星球大战：旧共和国武士》的Xbox版发售日为同一天\[3\]。
 
 黑曜石从Bioware那里取得了前作采用并作出了一定升级的[奥德赛引擎](https://zh.wikipedia.org/wiki/奥德赛引擎 "wikilink")\[4\]，因而《西斯领主》沿用了相同的游戏引擎。而Bioware的技术人员也向黑曜石的开发者提供了一定技术支持\[5\]，本作新开发的技术包括一些新的战斗动作以及界面缩放\[6\]
 。
@@ -16,7 +16,7 @@
 ## 剧情
 
 《西斯领主》的剧情设定在[雅汶战役近四千年前的](../Page/雅汶四号卫星.md "wikilink")[旧共和国时代](https://zh.wikipedia.org/wiki/银河共和国 "wikilink")，前作《星球大战：旧共和国武士》发生的五年后\[8\]。此时的旧共和国风雨飘摇，[绝地武士几乎已被](https://zh.wikipedia.org/wiki/绝地武士 "wikilink")[西斯残杀殆尽](https://zh.wikipedia.org/wiki/西斯 "wikilink")。玩家操作的角色是一名被绝地组织驱逐流放的前绝地武士，在游戏中经常被称作“流亡者”，但正典中姓名為[咪拉·蘇瑞克](../Page/咪拉·蘇瑞克.md "wikilink")（Meetra
-Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力的联系](../Page/原力.md "wikilink")，并在其他[非玩家角色的帮助下与西斯进行战斗](../Page/非玩家角色.md "wikilink")。玩家可以在游戏过程中作出选择，使蘇瑞克的立场趋向原力的光明面或堕入原力的黑暗面，通过在六个不同的星球间的航行，帮助或阻挠共和国为实现和平和秩序所进行的努力。
+Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力](../Page/原力.md "wikilink")的联系，并在其他[非玩家角色](../Page/非玩家角色.md "wikilink")的帮助下与西斯进行战斗。玩家可以在游戏过程中作出选择，使蘇瑞克的立场趋向原力的光明面或堕入原力的黑暗面，通过在六个不同的星球间的航行，帮助或阻挠共和国为实现和平和秩序所进行的努力。
 
 ### 游戏角色
 
@@ -76,12 +76,12 @@ Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力的联系](../P
 <!-- end list -->
 
   - 杭哈（Hanharr）
-    在纳·沙达上遇到的乌奇族赏金猎人，仅当蘇瑞克在那时的属性为黑暗时才会加入。杭哈起初被雇佣杀掉米拉，但在过程中反而被米拉救了一命，从而不得不对米拉许下乌奇族特有的“生命之债”（类似于[丘巴卡之于韩](../Page/丘巴卡.md "wikilink")·索罗）。但由于他对人类极度仇恨，总是试图寻找机会杀掉米拉而结束自己的束缚。
+    在纳·沙达上遇到的乌奇族赏金猎人，仅当蘇瑞克在那时的属性为黑暗时才会加入。杭哈起初被雇佣杀掉米拉，但在过程中反而被米拉救了一命，从而不得不对米拉许下乌奇族特有的“生命之债”（类似于[丘巴卡](../Page/丘巴卡.md "wikilink")之于韩·索罗）。但由于他对人类极度仇恨，总是试图寻找机会杀掉米拉而结束自己的束缚。
 
 <!-- end list -->
 
   - [HK-47](https://zh.wikipedia.org/wiki/HK-47 "wikilink")
-    前作中登场的杀手机器人，与T3-M4的搭档类似于[C-3PO和R](../Page/C-3PO.md "wikilink")2-D2；但除词汇丰富并懂多种语言外，他爱好杀戮并缺乏感情，与C-3PO没有其他相似之处。本作中起初作为一个坏掉的机器人出现在乌木鹰号上，只有当流亡者收集齐三个重要零件后才能被修复。在本作中一直追杀主角的HK-50型量产机器人是HK-47的新型号。
+    前作中登场的杀手机器人，与T3-M4的搭档类似于[C-3PO](../Page/C-3PO.md "wikilink")和R2-D2；但除词汇丰富并懂多种语言外，他爱好杀戮并缺乏感情，与C-3PO没有其他相似之处。本作中起初作为一个坏掉的机器人出现在乌木鹰号上，只有当流亡者收集齐三个重要零件后才能被修复。在本作中一直追杀主角的HK-50型量产机器人是HK-47的新型号。
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@ Surik）\[9\]。在游戏中，蘇瑞克逐渐找回了与[原力的联系](../P
 《西斯领主》在玩家和评论界那里都获得了相当高的评价，几家游戏网站的评分分别为：[GameSpot](../Page/GameSpot.md "wikilink")
 8.5/10，[GameSpy](../Page/GameSpy.md "wikilink")
 4.5/5，[IGN](../Page/IGN.md "wikilink")
-9.3/10。[Metacritic根据](../Page/Metacritic.md "wikilink")30个专家评论给出的得分为85/100\[13\]，这要略低于前作《星球大战：旧共和国武士》得到的93/100\[14\]。GameSpy还将本作中的柯瑞亚评为“2005年度最佳游戏角色”\[15\]。
+9.3/10。[Metacritic](../Page/Metacritic.md "wikilink")根据30个专家评论给出的得分为85/100\[13\]，这要略低于前作《星球大战：旧共和国武士》得到的93/100\[14\]。GameSpy还将本作中的柯瑞亚评为“2005年度最佳游戏角色”\[15\]。
 
 尽管如此，游戏本身的不完整性及诸多bug仍然被诸多玩家所诟病，一般认为这些问题都归咎于LucasArts给黑曜石带来的工作压力：LucasArts催促黑曜石的工作人员在2004年圣诞假期来临之前完成制作，为的是赶上假期的销售\[16\]。
 

@@ -1,4 +1,4 @@
-**toe**是一支2000年在[日本](../Page/日本.md "wikilink")[東京成立的](https://zh.wikipedia.org/wiki/東京 "wikilink")[數學搖滾](../Page/數學搖滾.md "wikilink")，[後搖滾樂隊](../Page/後搖滾.md "wikilink")。\[1\]\[2\]
+**toe**是一支2000年在[日本](../Page/日本.md "wikilink")[東京成立的](https://zh.wikipedia.org/wiki/東京 "wikilink")[數學搖滾](../Page/數學搖滾.md "wikilink")，[後搖滾](../Page/後搖滾.md "wikilink")樂隊。\[1\]\[2\]
 
 ## 樂團成員
 

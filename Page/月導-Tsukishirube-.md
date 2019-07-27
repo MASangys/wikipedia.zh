@@ -1,4 +1,4 @@
-《**月導-Tsukishirube-**》是[南里侑香的第](../Page/南里侑香.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年2月24日由[flying
+《**月導-Tsukishirube-**》是[南里侑香](../Page/南里侑香.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年2月24日由[flying
 DOG發行](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")。\[1\]
 
 ## 收錄曲

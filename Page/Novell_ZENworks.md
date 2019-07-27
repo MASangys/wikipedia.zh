@@ -1,4 +1,4 @@
-**Novell_ZENworks**是由[美国](../Page/美国.md "wikilink")[Novell公司出品的一套软件](../Page/Novell.md "wikilink")，主要用于在组织内跨资源自动化IT管理和业务流程。
+**Novell_ZENworks**是由[美国](../Page/美国.md "wikilink")[Novell](../Page/Novell.md "wikilink")公司出品的一套软件，主要用于在组织内跨资源自动化IT管理和业务流程。
 
 ## 支持的平台及系统需求
 

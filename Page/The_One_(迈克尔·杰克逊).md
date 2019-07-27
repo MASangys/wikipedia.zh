@@ -13,7 +13,7 @@ Me](https://zh.wikipedia.org/wiki/Another_Part_of_Me "wikilink")"，"[One
 More
 Chance](https://zh.wikipedia.org/wiki/One_More_Chance "wikilink")"和"[You
 Rock My
-World](https://zh.wikipedia.org/wiki/You_Rock_My_World "wikilink")"等。据证实，该影碟在[美国销售](../Page/美国.md "wikilink")5个月后，出货量高达5万张，并获得了[RIAA的](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")**黄金认证**，同时RIAA也正式为杰克逊生产影碟。
+World](https://zh.wikipedia.org/wiki/You_Rock_My_World "wikilink")"等。据证实，该影碟在[美国](../Page/美国.md "wikilink")销售5个月后，出货量高达5万张，并获得了[RIAA的](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")**黄金认证**，同时RIAA也正式为杰克逊生产影碟。
 
 ## 曲目列表
 

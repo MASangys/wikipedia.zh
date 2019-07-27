@@ -1,4 +1,4 @@
-《**masterpiece**》（）是[川田真美的第](../Page/川田真美.md "wikilink")7張單曲。於2009年2月4日由Geneon
+《**masterpiece**》（）是[川田真美](../Page/川田真美.md "wikilink")的第7張單曲。於2009年2月4日由Geneon
 Universal Entertainment Japan, LLC.發行。
 
 ## 收錄曲
@@ -6,7 +6,7 @@ Universal Entertainment Japan, LLC.發行。
 1.  **masterpiece**（4:34）
       -
         作詞：[川田真美](../Page/川田真美.md "wikilink")／作曲・編曲：井内舞子
-        [AT-X和](../Page/AT-X.md "wikilink")[全國獨立UHF放送協議會的](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[魔法禁書目錄](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》後期[主題曲](../Page/主題曲.md "wikilink")
+        [AT-X](../Page/AT-X.md "wikilink")和[全國獨立UHF放送協議會的](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[魔法禁書目錄](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》後期[主題曲](../Page/主題曲.md "wikilink")
 2.  **jellyfish**（4:23）
       -
         作詞：川田まみ／作曲：中澤伴行／編曲：中澤伴行、尾崎武士

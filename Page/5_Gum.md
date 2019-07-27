@@ -1,6 +1,6 @@
 [5_gum_packages.JPG](https://zh.wikipedia.org/wiki/File:5_gum_packages.JPG "fig:5_gum_packages.JPG")
 **5 Gum**
-為一款[箭牌出產之無糖](../Page/箭牌.md "wikilink")[香口膠品牌](https://zh.wikipedia.org/wiki/香口膠 "wikilink")，主要以年輕人為銷售對象。此品牌香口膠於[2007年3月於](../Page/2007年3月.md "wikilink")[美國首度推出](https://zh.wikipedia.org/wiki/美國 "wikilink")，而於[2010年2月起於](../Page/2010年2月.md "wikilink")[中國大陸及](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[香港市場發售](../Page/香港.md "wikilink")。其香港宣傳標語為「觸動·快感」（英文原文為
+為一款[箭牌](../Page/箭牌.md "wikilink")出產之無糖[香口膠品牌](https://zh.wikipedia.org/wiki/香口膠 "wikilink")，主要以年輕人為銷售對象。此品牌香口膠於[2007年3月](../Page/2007年3月.md "wikilink")於[美國首度推出](https://zh.wikipedia.org/wiki/美國 "wikilink")，而於[2010年2月](../Page/2010年2月.md "wikilink")起於[中國大陸及](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[香港](../Page/香港.md "wikilink")市場發售。其香港宣傳標語為「觸動·快感」（英文原文為
 Stimulate your senses）。
 
 ## 口味

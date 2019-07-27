@@ -1,7 +1,7 @@
 **Kowalski酯增碳反应**（Kowalski ester homologation），以美国化学家 Conrad J. Kowalski
 的名字命名。
 
-[酯用](../Page/酯.md "wikilink")[锂化合物与](../Page/锂.md "wikilink")[二溴甲烷](../Page/二溴甲烷.md "wikilink")[同系化为多一个碳的酯](https://zh.wikipedia.org/wiki/同系化 "wikilink")。\[1\]\[2\]
+[酯](../Page/酯.md "wikilink")用[锂](../Page/锂.md "wikilink")化合物与[二溴甲烷](../Page/二溴甲烷.md "wikilink")[同系化为多一个碳的酯](https://zh.wikipedia.org/wiki/同系化 "wikilink")。\[1\]\[2\]
 
 [Kowalski_Ester_Homologation_Scheme.png](https://zh.wikipedia.org/wiki/File:Kowalski_Ester_Homologation_Scheme.png "fig:Kowalski_Ester_Homologation_Scheme.png")
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - 改变反应第二步试剂，用于[炔醇](https://zh.wikipedia.org/wiki/炔醇 "wikilink")[硅醚合成](../Page/硅醚.md "wikilink")：\[4\]
+  - 改变反应第二步试剂，用于[炔醇](https://zh.wikipedia.org/wiki/炔醇 "wikilink")[硅醚](../Page/硅醚.md "wikilink")合成：\[4\]
 
 <!-- end list -->
 

@@ -94,7 +94,7 @@ KUMI 2009 TAIWAN LIVE（倖田來未2009台北演唱會）」的演唱會版本�
 
   - 精選輯CD收錄16曲。
   - 原創專輯鈴聲下載不含Bonus Track，共14曲。
-  - 發行後加贈特典，於發行招待會演唱[歐陽菲菲的](../Page/歐陽菲菲.md "wikilink")「ラブ・イズ・オーヴァー（Love
+  - 發行後加贈特典，於發行招待會演唱[歐陽菲菲](../Page/歐陽菲菲.md "wikilink")的「ラブ・イズ・オーヴァー（Love
     is over）」現場版的歌曲下載。
 
 ### CD+手機下載（シダックス盤）\[2\]
@@ -103,7 +103,7 @@ KUMI 2009 TAIWAN LIVE（倖田來未2009台北演唱會）」的演唱會版本�
 
   - 精選輯CD收錄16曲。
   - 原創專輯鈴聲下載不含Bonus
-    Track，共14曲，但有「[愛之歌](../Page/愛之歌.md "wikilink")」附有歌詞的[音樂錄影帶下載](../Page/音樂錄影帶.md "wikilink")。
+    Track，共14曲，但有「[愛之歌](../Page/愛之歌.md "wikilink")」附有歌詞的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")下載。
   - 本版本與「CD+手機下載」共通。
 
 ### CD ONLY
@@ -123,7 +123,7 @@ KUMI 2009 TAIWAN LIVE（倖田來未2009台北演唱會）」的演唱會版本�
 
 1.  [戀愛花蕾](../Page/戀愛花蕾.md "wikilink")
       -
-        [富士電視台連續劇](../Page/富士電視台.md "wikilink")「愛上恐龍妹」的主題歌。
+        [富士電視台](../Page/富士電視台.md "wikilink")連續劇「愛上恐龍妹」的主題歌。
 2.  [I'll be there](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")
       -
         [資生堂](../Page/資生堂.md "wikilink") 2006 SEABREEZE 電視廣告曲。
@@ -138,7 +138,7 @@ KUMI 2009 TAIWAN LIVE（倖田來未2009台北演唱會）」的演唱會版本�
         日本職業棒球2006」形象歌曲。
 5.  [悲夢之歌](https://zh.wikipedia.org/wiki/悲夢之歌/我倆... "wikilink")
       -
-        [朝日電視台連續劇](../Page/朝日電視台.md "wikilink")「だめんず・うぉ〜か〜」主題歌／ドワンゴ
+        [朝日電視台](../Page/朝日電視台.md "wikilink")連續劇「だめんず・うぉ〜か〜」主題歌／ドワンゴ
         電視廣告曲。
 6.  [BUT](https://zh.wikipedia.org/wiki/BUT/愛的證明 "wikilink")
       -
@@ -163,7 +163,7 @@ KUMI 2009 TAIWAN LIVE（倖田來未2009台北演唱會）」的演唱會版本�
         麒麟啤酒廣告曲、music.jp電視廣告曲。
 12. [Moon Crying](../Page/MOON_\(倖田來未單曲\).md "wikilink")
       -
-        ABC・[朝日電視台系連續劇](../Page/朝日電視台.md "wikilink")『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
+        ABC・[朝日電視台](../Page/朝日電視台.md "wikilink")系連續劇『[Puzzle](../Page/謎_\(電視劇\).md "wikilink")』的主題曲。
 13. [That Ain’t Cool 這可不酷](../Page/MOON_\(倖田來未單曲\).md "wikilink")
       -
         為music.jp 電視廣告曲。

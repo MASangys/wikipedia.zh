@@ -1,5 +1,5 @@
 **Blood on the Dance Floor: History in the
-Mix**是[迈克尔·杰克逊的第六张专辑](../Page/迈克尔·杰克逊.md "wikilink")，亦是一张[混音专辑](https://zh.wikipedia.org/wiki/混音专辑 "wikilink")。专辑由5首新歌和杰克逊的[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")《[HIStory](https://zh.wikipedia.org/wiki/HIStory：过去，现在和未来第一册 "wikilink")》里的8首老歌组成。专辑的新单曲中含有[反毒品](https://zh.wikipedia.org/wiki/反毒品 "wikilink")、捍卫[婦女權利的主题](../Page/婦女權利.md "wikilink")。目前全球销量超過1100萬张，是有史以来销量最高的混音专辑\[1\]。
+Mix**是[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的第六张专辑，亦是一张[混音专辑](https://zh.wikipedia.org/wiki/混音专辑 "wikilink")。专辑由5首新歌和杰克逊的[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")《[HIStory](https://zh.wikipedia.org/wiki/HIStory：过去，现在和未来第一册 "wikilink")》里的8首老歌组成。专辑的新单曲中含有[反毒品](https://zh.wikipedia.org/wiki/反毒品 "wikilink")、捍卫[婦女權利](../Page/婦女權利.md "wikilink")的主题。目前全球销量超過1100萬张，是有史以来销量最高的混音专辑\[1\]。
 
 ## 曲目
 

@@ -1,17 +1,17 @@
-（[中国大陆官方译名](../Page/中国大陆.md "wikilink")：-{zh-hans:**谷歌浏览器内嵌框架**;
-zh-hant:**谷歌瀏覽器內嵌框架**}-，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港官方译名](../Page/香港.md "wikilink")：-{**Google
+（[中国大陆](../Page/中国大陆.md "wikilink")官方译名：-{zh-hans:**谷歌浏览器内嵌框架**;
+zh-hant:**谷歌瀏覽器內嵌框架**}-，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")官方译名：-{**Google
 Chrome內嵌框架**}-）是專為[Internet
-Explorer設計的一個插件](../Page/Internet_Explorer.md "wikilink")。相應的開源計劃為[Chromium的一部分](../Page/Chromium.md "wikilink")，其採用[BSD許可證授權並](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")[開放源代碼](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")，可運行於[Windows
+Explorer設計的一個插件](../Page/Internet_Explorer.md "wikilink")。相應的開源計劃為[Chromium](../Page/Chromium.md "wikilink")的一部分，其採用[BSD許可證授權並](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")[開放源代碼](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")，可運行於[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Vista](../Page/Windows_Vista.md "wikilink")、[XP
 SP2或更高版本作業系統中的](../Page/Windows_XP.md "wikilink")[Internet Explorer
 6](../Page/Internet_Explorer_6.md "wikilink")、[7](../Page/Internet_Explorer_7.md "wikilink")、[8](../Page/Internet_Explorer_8.md "wikilink")、[9](../Page/Internet_Explorer_9.md "wikilink")，使Internet
 Explorer可以基於[Google
 Chrome中的](../Page/Google_Chrome.md "wikilink")[Webkit引擎及](https://zh.wikipedia.org/wiki/Webkit "wikilink")[V8引擎進行排版及運算](../Page/V8_\(JavaScript引擎\).md "wikilink")，即能獲得比原有Internet
 Explorer更快、更安全網頁瀏覽體驗\[1\]，並且令[Internet Explorer
-6](../Page/Internet_Explorer_6.md "wikilink")、[7](../Page/Internet_Explorer_7.md "wikilink")、[8支持](../Page/Internet_Explorer_8.md "wikilink")[HTML5代碼](../Page/HTML5.md "wikilink")。
+6](../Page/Internet_Explorer_6.md "wikilink")、[7](../Page/Internet_Explorer_7.md "wikilink")、[8支持](../Page/Internet_Explorer_8.md "wikilink")[HTML5](../Page/HTML5.md "wikilink")代碼。
 
 如果浏览支持**Chrome
-Frame**的Google服務會自動使用Chrome内核，如[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Google文件](../Page/Google文件.md "wikilink")、[Orkut等已經開啟了對Chrome](../Page/Orkut.md "wikilink")
+Frame**的Google服務會自動使用Chrome内核，如[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Google文件](../Page/Google文件.md "wikilink")、[Orkut](../Page/Orkut.md "wikilink")等已經開啟了對Chrome
 Frame的支持，開發原意是使不支援HTML5的Internet Explorer也能瀏覽[Google
 Wave及其它使用了HTML](https://zh.wikipedia.org/wiki/Google_Wave "wikilink")5代碼的Google服務\[2\]。
 

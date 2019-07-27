@@ -1,5 +1,5 @@
 **Showgirl: The Greatest Hits Tour**
-是[澳大利亚歌手](../Page/澳大利亚.md "wikilink")[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛举办的巡回演唱会](../Page/凯莉·米洛.md "wikilink")。凯莉原先计划将巡演带到澳大利亚和[亚洲](../Page/亚洲.md "wikilink")
+是[澳大利亚](../Page/澳大利亚.md "wikilink")歌手[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")举办的巡回演唱会。凯莉原先计划将巡演带到澳大利亚和[亚洲](../Page/亚洲.md "wikilink")
 ，但被诊断处罹患[乳腺癌后](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")，她被迫取消了演出计划。\[1\]
 2006年11月11日，她在[悉尼娱乐中心举办名为](https://zh.wikipedia.org/wiki/悉尼娱乐中心 "wikilink")[Showgirl:
 The Homecoming
@@ -148,7 +148,7 @@ Tour巡演在曲目表和演出服装上做了一些变更](../Page/Showgirl:_Th
 
 ## 播映
 
-凯莉于2005年5月6日在[英格兰](../Page/英格兰.md "wikilink")[伦敦的演出被录制作为DVD发行](../Page/伦敦.md "wikilink")。演唱会在2005年11月28日以DVD和[UMD为载体发行](https://zh.wikipedia.org/wiki/通用媒体光碟 "wikilink")。DVD囊括了幕后制作花絮，一部小型[纪录片](https://zh.wikipedia.org/wiki/纪录片 "wikilink")，[屏幕保护程序以及独家](https://zh.wikipedia.org/wiki/屏幕保护程序 "wikilink")[写真辑](../Page/相片.md "wikilink")。\[4\]
+凯莉于2005年5月6日在[英格兰](../Page/英格兰.md "wikilink")[伦敦](../Page/伦敦.md "wikilink")的演出被录制作为DVD发行。演唱会在2005年11月28日以DVD和[UMD为载体发行](https://zh.wikipedia.org/wiki/通用媒体光碟 "wikilink")。DVD囊括了幕后制作花絮，一部小型[纪录片](https://zh.wikipedia.org/wiki/纪录片 "wikilink")，[屏幕保护程序以及独家](https://zh.wikipedia.org/wiki/屏幕保护程序 "wikilink")[写真辑](../Page/相片.md "wikilink")。\[4\]
 
 DVD在2005年澳大利亚的年终音乐DVD排行榜排名26。\[5\]
 在英国于2005年获得铂金唱片认证，2006年在澳大利亚获得4次铂金唱片认证。\[6\]\[7\]
@@ -168,7 +168,7 @@ Tour"在伦敦现场演唱歌曲的[EP](https://zh.wikipedia.org/wiki/EP "wikili
   - 编舞: Michael Rooney 和 Raphael Bonachella
   - 服装设计: [John
     Galliano](https://zh.wikipedia.org/wiki/John_Galliano "wikilink"),
-    [卡尔·拉格斐设计](https://zh.wikipedia.org/wiki/卡尔·拉格斐 "wikilink")[香奈儿晚装](../Page/香奈儿.md "wikilink"),
+    [卡尔·拉格斐设计](https://zh.wikipedia.org/wiki/卡尔·拉格斐 "wikilink")[香奈儿](../Page/香奈儿.md "wikilink")晚装,
     [Julien
     MacDonald](https://zh.wikipedia.org/wiki/Julien_MacDonald "wikilink"),
     Ed Meadham以及[Gareth

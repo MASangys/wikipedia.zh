@@ -1,4 +1,4 @@
-《**情人眼裏高一D**\[1\]》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝愛情](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[阮小儀及](../Page/阮小儀.md "wikilink")[徐子珊領銜主演](../Page/徐子珊.md "wikilink")，全劇共8集，編審[黃洋達](../Page/黃洋達.md "wikilink")、[潘漫紅](../Page/潘漫紅.md "wikilink")，監製[黃偉聲](../Page/黃偉聲.md "wikilink")。此劇為
+《**情人眼裏高一D**\[1\]》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝愛情[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")及[徐子珊](../Page/徐子珊.md "wikilink")領銜主演，全劇共8集，編審[黃洋達](../Page/黃洋達.md "wikilink")、[潘漫紅](../Page/潘漫紅.md "wikilink")，監製[黃偉聲](../Page/黃偉聲.md "wikilink")。此劇為
 2010「愛的季節」呈獻劇集。
 
 ## 演員表
@@ -300,8 +300,8 @@
 
 ## 記事
 
-  - 2009年12月10日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠外灰位舉行試造型記者會](../Page/電視廣播城.md "wikilink")。
-  - 2010年1月4日：此劇於15:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十六廠舉行開鏡拜神](../Page/電視廣播城.md "wikilink")。
+  - 2009年12月10日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠外灰位舉行試造型記者會。
+  - 2010年1月4日：此劇於15:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")十六廠舉行開鏡拜神。
   - 2010年2月15日：本劇於當日晚上20:35-21:30進行1小時首播。
   - 2010年2月20日：本劇於當日晚上20:30-21:30播映1小時大結局。
 
@@ -316,7 +316,7 @@
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |             |          |
 | ------ | ----------- | -------- |

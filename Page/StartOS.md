@@ -2,7 +2,7 @@
 
 ## 版本概要
 
-2009年12月24日Ylmf公司发布基於[Ubuntu定制](../Page/Ubuntu.md "wikilink")、集成[OpenOffice3.1办公软件](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")、高仿[Windows
+2009年12月24日Ylmf公司发布基於[Ubuntu](../Page/Ubuntu.md "wikilink")定制、集成[OpenOffice3.1办公软件](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")、高仿[Windows
 XP的](../Page/Windows_XP.md "wikilink")[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")\[1\]\[2\]\[3\]，并命名为Ylmf
 OS。其後推出全英文版本，内置视频播放器[Totem](https://zh.wikipedia.org/wiki/Totem "wikilink")，移除了对[WebQQ和](https://zh.wikipedia.org/wiki/QQ "wikilink")[WebMSN的支持](../Page/MSN.md "wikilink")，采用了[Pidgin](../Page/Pidgin.md "wikilink")。
 

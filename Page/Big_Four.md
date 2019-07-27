@@ -1,5 +1,5 @@
 The **Big Four**
-是由[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康及](../Page/蘇永康.md "wikilink")[梁漢文組成的](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")[香港樂壇組合及音樂計劃](../Page/香港.md "wikilink")，名字源於[英格蘭超級足球聯賽的](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英超四大豪門](../Page/英超四大豪門.md "wikilink")。\[1\]
+是由[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")及[梁漢文組成的](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")[香港](../Page/香港.md "wikilink")樂壇組合及音樂計劃，名字源於[英格蘭超級足球聯賽的](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英超四大豪門](../Page/英超四大豪門.md "wikilink")。\[1\]
 
 2009年年尾推出第一首歌曲〈Big Four〉，並打入香港各大流行音樂榜。\[2\]
 
@@ -178,7 +178,7 @@ The **Big Four**
 </tr>
 <tr class="even">
 <td><p>3月19日</p></td>
-<td><p><a href="../Page/肥媽.md" title="wikilink">肥媽友誼長存</a>30週年演唱會</p></td>
+<td><p><a href="../Page/肥媽.md" title="wikilink">肥媽</a>友誼長存30週年演唱會</p></td>
 <td><p><a href="../Page/香港體育館.md" title="wikilink">紅磡體育館</a></p></td>
 <td></td>
 <td><p>尾場嘉賓</p></td>
@@ -199,7 +199,7 @@ The **Big Four**
 </tr>
 <tr class="odd">
 <td><p>5月1日</p></td>
-<td><p><a href="../Page/許志安.md" title="wikilink">許志安Come</a> On演唱會2015</p></td>
+<td><p><a href="../Page/許志安.md" title="wikilink">許志安</a>Come On演唱會2015</p></td>
 <td><p>紅磡體育館</p></td>
 <td></td>
 <td><p>四人各自獻唱及最後合唱《愛莫能助》</p></td>

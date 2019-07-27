@@ -1,5 +1,5 @@
 「**Jewelry
-day**」（閃亮的日子）為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2007年7月4日發行之5th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+day**」（閃亮的日子）為[日本](../Page/日本.md "wikilink")歌手[絢香](../Page/絢香.md "wikilink")於2007年7月4日發行之5th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 

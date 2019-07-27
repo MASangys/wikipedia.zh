@@ -1,5 +1,5 @@
 [Canon_EOS.svg](https://zh.wikipedia.org/wiki/File:Canon_EOS.svg "fig:Canon_EOS.svg")
-**佳能EOS系列**是[佳能公司於](../Page/佳能.md "wikilink")1987年開始推出的一系列[單眼相機及其配套系统](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")。EOS在英文的全稱是“”，也就是**電子光學系統**\[1\]。
+**佳能EOS系列**是[佳能](../Page/佳能.md "wikilink")公司於1987年開始推出的一系列[單眼相機及其配套系统](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")。EOS在英文的全稱是“”，也就是**電子光學系統**\[1\]。
 
 第一款EOS是在佳能成立的五十周年当天（1987年3月1日）所推出的EOS
 650\[2\]。后来，數位單眼相機逐步取代了底片單眼相機。2000年，佳能推出的EOS
@@ -29,7 +29,7 @@ CS 3。2000年，佳能第一款独立设计和制造的数码单镜反光相机
 
 高端的EOS相机（如[佳能 EOS-1D X和](../Page/佳能_EOS-1D_X.md "wikilink")[佳能 EOS 5D
 Mark
-III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对焦点](../Page/自动对焦.md "wikilink")\[6\]，在同类相机里优于高端的[尼康相机](../Page/尼康.md "wikilink")（拥有51个自动对焦点）\[7\]。这样就增加了捕捉到高速运动物体的机会，例如体育摄影、鸟类摄影等。目前，自动对焦系统的性能仍在继续提升。
+III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对焦](../Page/自动对焦.md "wikilink")点\[6\]，在同类相机里优于高端的[尼康](../Page/尼康.md "wikilink")相机（拥有51个自动对焦点）\[7\]。这样就增加了捕捉到高速运动物体的机会，例如体育摄影、鸟类摄影等。目前，自动对焦系统的性能仍在继续提升。
 
 有时，过多的自动对焦点会影响使用者对于被摄主体的对焦。因此，EOS相机允许使用者选择其中的一个来对焦。
 

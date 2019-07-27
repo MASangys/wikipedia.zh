@@ -1,13 +1,13 @@
 **2AM**（）為韓國男子偶像團體，隸屬於韓國著名經紀公司[JYP
-Entertainment](https://zh.wikipedia.org/wiki/JYP_Entertainment "wikilink")，團體成員有[昶旻](../Page/李昶旻.md "wikilink")、[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權及](../Page/趙權.md "wikilink")[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")。音樂風格如同名稱一般，在這樣的深夜裡，能感受到最寧靜的時刻。2AM歌迷的官方名稱為「I
+Entertainment](https://zh.wikipedia.org/wiki/JYP_Entertainment "wikilink")，團體成員有[昶旻](../Page/李昶旻.md "wikilink")、[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權](../Page/趙權.md "wikilink")及[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")。音樂風格如同名稱一般，在這樣的深夜裡，能感受到最寧靜的時刻。2AM歌迷的官方名稱為「I
 AM」，應援顏色為銀灰色。與兄弟團體[2PM一起活動時稱為](https://zh.wikipedia.org/wiki/2PM "wikilink")[One
 Day](../Page/One_Day_\(偶像组合\).md "wikilink")。
 
-2AM為JYP娛樂下的團體，2008年，以《這首歌》出道時，2AM是由[Cube娛樂負責經營管理](../Page/Cube娛樂.md "wikilink")，2009年，轉回JYP娛樂管理，2010年開始，由BigHit娛樂負責綜合性業務（個人行程、團體行程）之經營管理，而此階段性的合作合約已於2014年4月結束。2014年4月，開始團體及成員[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權](../Page/趙權.md "wikilink")、[珍雲的綜合性業務經紀管理皆轉回JYP娛樂](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")，而成員[昶旻因仍有個人活動進行中](../Page/李昶旻.md "wikilink")，故個人經紀活動合約將不會有轉移計畫。所以2AM仍同屬兩家經紀公司之旗下藝人，只是經紀業務上有所更動。
+2AM為JYP娛樂下的團體，2008年，以《這首歌》出道時，2AM是由[Cube娛樂](../Page/Cube娛樂.md "wikilink")負責經營管理，2009年，轉回JYP娛樂管理，2010年開始，由BigHit娛樂負責綜合性業務（個人行程、團體行程）之經營管理，而此階段性的合作合約已於2014年4月結束。2014年4月，開始團體及成員[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權](../Page/趙權.md "wikilink")、[珍雲的綜合性業務經紀管理皆轉回JYP娛樂](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")，而成員[昶旻因仍有個人活動進行中](../Page/李昶旻.md "wikilink")，故個人經紀活動合約將不會有轉移計畫。所以2AM仍同屬兩家經紀公司之旗下藝人，只是經紀業務上有所更動。
 
 2015年，2AM與東家JYP娛樂合約到期，除了趙權續約留在JYP娛樂之外，任瑟雍和鄭珍雲為力求轉型分別加入Sidus
 HQ和MYSTIC娛樂，李昶旻則簽約Big
-Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐表示2AM并不会解散，只要4人有意向隨時都可以重組，並不會引入其他新成員。2017年，趙權合約期滿並另與[Cube娛樂簽約](../Page/Cube娛樂.md "wikilink")。
+Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐表示2AM并不会解散，只要4人有意向隨時都可以重組，並不會引入其他新成員。2017年，趙權合約期滿並另與[Cube娛樂](../Page/Cube娛樂.md "wikilink")簽約。
 
 ## 歷史發展
 
@@ -25,7 +25,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
   - 2011年11月17日，成員[珍雲發行第二張SOLO單曲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")《如果不是現在》。
   - 2012年1月11日，正式在日本發行單曲，以《死也不能放開你》日文版在日本出道。
   - 2012年3月12日，第二張迷你專輯《F.Scott Fitzgerald's Way Of Love》發行。
-  - 2012年6月25日，成員[趙權發行個人首張SOLO正規專輯](../Page/趙權.md "wikilink")《I'm Da
+  - 2012年6月25日，成員[趙權](../Page/趙權.md "wikilink")發行個人首張SOLO正規專輯《I'm Da
     One》。
   - 2013年1月9日，在日本發行《Voice》日文正規專輯。
   - 2013年3月5日，第二張正規專輯《One Spring Day 》發行。

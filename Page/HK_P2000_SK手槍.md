@@ -1,10 +1,10 @@
 **HK P2000
-SK**（SK，，意為：非常緊湊型）是2001年年底[德国槍械製造商](../Page/德国.md "wikilink")[黑克勒-科赫所研製和生產的](../Page/黑克勒&科赫.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是[HK
+SK**（SK，，意為：非常緊湊型）是2001年年底[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒-科赫所研製和生產的](../Page/黑克勒&科赫.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是[HK
 P2000的袖珍型](../Page/HK_P2000手槍.md "wikilink")（）版本，並主要用於[執法機關](../Page/警察.md "wikilink")、[準軍事和民用市場](../Page/準軍事部隊.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
 S\&W和](../Page/.40_S&W.md "wikilink")[.357
 SIG這三種](../Page/.357_SIG.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-它是以使用在[緊湊型USP](../Page/HK_USP手槍.md "wikilink")[手枪的各種技術作為基礎所加以研製出來的](../Page/手枪.md "wikilink")。P2000
+它是以使用在[緊湊型USP](../Page/HK_USP手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")的各種技術作為基礎所加以研製出來的。P2000
 SK並有使用獨特的改進設計，更符合[人體工程學的特點](../Page/人因工程学.md "wikilink")；它所具有的特點是，減少了操作時所造成的壓力，並同時增加使用者操作和射擊的時侯的舒適度。
 
 ## 設計細節
@@ -14,8 +14,8 @@ SK是一把[短後座行程作用操作](../Page/後座作用.md "wikilink")、[
 SK相對於P2000而言小巧得多，而且仍然具備了P2000的一切設計優點和可使用其彈匣供彈。為了使射擊時比較穩定，P2000
 SK亦在握把上有手指凹槽。此槍適合便衣探員和[特工所使用](../Page/秘密警察.md "wikilink")。
 
-在[美国出售的版本是可以使用所有](../Page/美国.md "wikilink")[USP和P](../Page/HK_USP手槍.md "wikilink")2000的各種[彈匣](../Page/彈匣.md "wikilink")，包括彈容量較高的彈匣。但使用彈容量較高的彈匣，會破壞此槍原來緊湊的尺寸，因為這些更長的彈匣會使底部向下伸出了大約一半的長度。容量較低的10
-發彈匣的大小和USP緊湊型的[彈匣相若](../Page/彈匣.md "wikilink")。
+在[美国](../Page/美国.md "wikilink")出售的版本是可以使用所有[USP和P](../Page/HK_USP手槍.md "wikilink")2000的各種[彈匣](../Page/彈匣.md "wikilink")，包括彈容量較高的彈匣。但使用彈容量較高的彈匣，會破壞此槍原來緊湊的尺寸，因為這些更長的彈匣會使底部向下伸出了大約一半的長度。容量較低的10
+發彈匣的大小和USP緊湊型的[彈匣](../Page/彈匣.md "wikilink")相若。
 
 P2000 SK亦有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
 S\&W和](../Page/.40_S&W.md "wikilink")[.357

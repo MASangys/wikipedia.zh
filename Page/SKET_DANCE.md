@@ -1,7 +1,7 @@
 《**SKET
-DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[篠原健太所創作的校園](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[喜劇漫畫](../Page/喜劇.md "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）於2007年33號開始連載。本作的單行本、[廣播劇CD與](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[輕小說都已在日本發售](../Page/輕小說.md "wikilink")。2010年1月21日，本作獲得第55屆[小學館漫畫賞少年向部門賞](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
+DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[篠原健太所創作的校園](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[喜劇](../Page/喜劇.md "wikilink")漫畫，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）於2007年33號開始連載。本作的單行本、[廣播劇CD與](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[輕小說](../Page/輕小說.md "wikilink")都已在日本發售。2010年1月21日，本作獲得第55屆[小學館漫畫賞少年向部門賞](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
 
-2011年4月7日，TV動畫版於[東京電視台開始播放](../Page/東京電視台.md "wikilink")；在台灣Animax於2012年9月20日開始每週一到週五19:30首播，於2012年11月29日播放至第一季結束，共五十一集；香港Animax自2013年6月5日開始每週一到週五晚上10時播放動畫版第二季；台灣Animax則自2013年7月13日開始至2013年8月7日每週一到週五晚上8點半播放動畫版第二季動畫（第五十二集至七十七集）。
+2011年4月7日，TV動畫版於[東京電視台](../Page/東京電視台.md "wikilink")開始播放；在台灣Animax於2012年9月20日開始每週一到週五19:30首播，於2012年11月29日播放至第一季結束，共五十一集；香港Animax自2013年6月5日開始每週一到週五晚上10時播放動畫版第二季；台灣Animax則自2013年7月13日開始至2013年8月7日每週一到週五晚上8點半播放動畫版第二季動畫（第五十二集至七十七集）。
 
 ## 設計
 
@@ -15,7 +15,7 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wik
 
 社團由無所事事的團長藤崎佑助（Bossun）、曾經是不良少女的鬼塚一愛（姬子）以及情報高手笛吹和義（Switch）三人組成。每回都會接受不同的委託，並且因而接觸幫助了更多人，故事就此展開下去。
 
-因為故事和JUMP上的《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》相近，而作者[篠原健太曾擔任](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[空知英秋](../Page/空知英秋.md "wikilink")（《銀魂》作者）的助手，常被戲稱為「校園版《銀魂》」，《銀魂》動畫第26集[神樂稱其為](../Page/神樂.md "wikilink")"劣質版的《銀魂》"。
+因為故事和JUMP上的《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》相近，而作者[篠原健太曾擔任](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[空知英秋](../Page/空知英秋.md "wikilink")（《銀魂》作者）的助手，常被戲稱為「校園版《銀魂》」，《銀魂》動畫第26集[神樂](../Page/神樂.md "wikilink")稱其為"劣質版的《銀魂》"。
 
 ### 長篇
 
@@ -127,7 +127,7 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wik
   -
     惡搞。Switch推薦給姬子的減肥DVD，內容完全不予剪輯，顯得異常荒誕，譬如不經彩排，便以說話含糊、身形孱弱的日本男性比尼（聲優：）為主角，發覺他不適後，才中途替換為健碩的黑人男性安德烈（聲優：[小杉十郎太](../Page/小杉十郎太.md "wikilink")），其健身動作加上趣味的聯想，十分引人發噱。其中一位白人女性喬安娜（聲優：）亦為傑奈西斯選手。
   -
-    據說是黃老師教的KUSO遊戲之四，類似[歌留多的紙牌遊戲](../Page/歌留多.md "wikilink")，術語全來自德語。玩家始先戴上假鬍子伯特，並彼此讚美15秒後，一邊聽著「六・三・四・五・四・五」的詠調，一邊找尋符合歌詞意境的牌，若正確則詠唱者會以「JA」示意。
+    據說是黃老師教的KUSO遊戲之四，類似[歌留多](../Page/歌留多.md "wikilink")的紙牌遊戲，術語全來自德語。玩家始先戴上假鬍子伯特，並彼此讚美15秒後，一邊聽著「六・三・四・五・四・五」的詠調，一邊找尋符合歌詞意境的牌，若正確則詠唱者會以「JA」示意。
     一旦沉迷而使出手愈快，便可能練成絕技「火陀螺」，最終Bossun練得此技，卻燒毀了部室。
 
 ## 讀切版本
@@ -661,7 +661,7 @@ Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 
 ### 電視動畫
 
-2011年4月7日下午6點於[東京電視台播放](../Page/東京電視台.md "wikilink")。\[3\]
+2011年4月7日下午6點於[東京電視台](../Page/東京電視台.md "wikilink")播放。\[3\]
 
 #### 製作人員
 

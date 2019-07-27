@@ -1,6 +1,6 @@
-**iJab**是基于[Ajax技术开发的支持](../Page/AJAX.md "wikilink")[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")/[Jabber协议的Web](https://zh.wikipedia.org/wiki/Jabber "wikilink")[即时通讯客户端](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。iJab是[开源软件](../Page/开源软件.md "wikilink")，任何人都可以基于iJab建立支持[XMPP协议的](https://zh.wikipedia.org/wiki/XMPP "wikilink")[即时通讯系统](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。iJab使用[Javascript和](https://zh.wikipedia.org/wiki/Javascript "wikilink")[HTML开发](../Page/HTML.md "wikilink")，基于[浏览器运行](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，客户端无需下载其他程序。
+**iJab**是基于[Ajax技术开发的支持](../Page/AJAX.md "wikilink")[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")/[Jabber协议的Web](https://zh.wikipedia.org/wiki/Jabber "wikilink")[即时通讯客户端](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。iJab是[开源软件](../Page/开源软件.md "wikilink")，任何人都可以基于iJab建立支持[XMPP协议的](https://zh.wikipedia.org/wiki/XMPP "wikilink")[即时通讯系统](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。iJab使用[Javascript和](https://zh.wikipedia.org/wiki/Javascript "wikilink")[HTML](../Page/HTML.md "wikilink")开发，基于[浏览器运行](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，客户端无需下载其他程序。
 
-iJab同时还开发了类似于[Facebook聊天风格的Web](../Page/Facebook.md "wikilink")[即时通讯客户端](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")--[iJabBar](https://web.archive.org/web/20090923181302/http://samespace.anzsoft.com/webim/iJabBar/index.html)。
+iJab同时还开发了类似于[Facebook](../Page/Facebook.md "wikilink")聊天风格的Web[即时通讯客户端](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")--[iJabBar](https://web.archive.org/web/20090923181302/http://samespace.anzsoft.com/webim/iJabBar/index.html)。
 
 ## 功能
 

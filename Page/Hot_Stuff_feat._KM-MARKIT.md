@@ -1,5 +1,5 @@
 「**Hot Stuff
-feat.KM-MARKIT**」為日本歌手[倖田來未於](../Page/倖田來未.md "wikilink")2005年4月13日發行的15th單曲。
+feat.KM-MARKIT**」為日本歌手[倖田來未](../Page/倖田來未.md "wikilink")於2005年4月13日發行的15th單曲。
 
 ## 解說
 
@@ -8,7 +8,7 @@ feat.KM-MARKIT**」為日本歌手[倖田來未於](../Page/倖田來未.md "wik
 
 <!-- end list -->
 
-  - DVD收錄的[音樂錄影帶收錄有不同於](../Page/音樂錄影帶.md "wikilink")｢[secret](https://zh.wikipedia.org/wiki/倖感機密 "wikilink")｣的不同版本以及LIVE版。
+  - DVD收錄的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")收錄有不同於｢[secret](https://zh.wikipedia.org/wiki/倖感機密 "wikilink")｣的不同版本以及LIVE版。
 
 Holå
 
@@ -24,7 +24,7 @@ Holå
       -
         作詞:倖田來未/KM-MARKIT 作曲･編曲:今井大介
         [東京電視台](../Page/東京電視台.md "wikilink")「流派-R」片尾曲。
-        與[嘻哈歌手KM](../Page/嘻哈.md "wikilink")-MARKIT合作曲。
+        與[嘻哈](../Page/嘻哈.md "wikilink")歌手KM-MARKIT合作曲。
 2.  **Hot Stuff〜確変無想転生remix feat．UZI\&KM-MARKIT〜**
       -
         UZI參加的[混音](../Page/混音.md "wikilink")。

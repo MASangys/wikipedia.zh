@@ -1,6 +1,6 @@
 **MEG**（メグ
-），1980年10月3日出生，出身於[日本](../Page/日本.md "wikilink")[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")，是一位日本女歌手，也是[模特兒及設計師](../Page/模特兒.md "wikilink")。所屬唱片公司為KING
-RECORDS旗下的STARCHILD。音樂類型多為[電子音樂及流行樂](../Page/電子音樂.md "wikilink")，有日本電音小天后之名。唱腔及造型以性感中卻帶甜美可愛的風格著稱。
+），1980年10月3日出生，出身於[日本](../Page/日本.md "wikilink")[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")，是一位日本女歌手，也是[模特兒](../Page/模特兒.md "wikilink")及設計師。所屬唱片公司為KING
+RECORDS旗下的STARCHILD。音樂類型多為[電子音樂](../Page/電子音樂.md "wikilink")及流行樂，有日本電音小天后之名。唱腔及造型以性感中卻帶甜美可愛的風格著稱。
 
 ## 經歷
 
@@ -9,14 +9,14 @@ RECORDS旗下的STARCHILD。音樂類型多為[電子音樂及流行樂](../Page
 2002年7月，以跟岡村靖幸合作的作品「スキャンティブルース」作主流出道。經過第二張單曲翻唱岡村靖幸的「イケナイコトカイ」，2003年翻唱フリッパーズ・ギター的「GROOVE
 TUBE」等，推出專輯「room girl」。之後，在歐洲推出了混音專輯「mgrmx」。
 
-2004年，在[原宿開設自己的二手衣服舖](../Page/原宿.md "wikilink")「klein-mart
+2004年，在[原宿](../Page/原宿.md "wikilink")開設自己的二手衣服舖「klein-mart
 TOKYO」。同時開始親自設計的時裝品牌「cheryl」。
 
-2006年，推出專輯「Dithyrambos」，i-dep製作的專輯「aquaberry」。接著，推出與其後一直合作的音樂監製[中田康貴製作的限量](../Page/中田康貴.md "wikilink")3000張單曲「甘い贅沢」。
+2006年，推出專輯「Dithyrambos」，i-dep製作的專輯「aquaberry」。接著，推出與其後一直合作的音樂監製[中田康貴](../Page/中田康貴.md "wikilink")製作的限量3000張單曲「甘い贅沢」。
 
-在單曲「OK」發售的時候，在[原宿張貼的海報被大量盜去](../Page/原宿.md "wikilink")，成為了一時的話題。
+在單曲「OK」發售的時候，在[原宿](../Page/原宿.md "wikilink")張貼的海報被大量盜去，成為了一時的話題。
 
-其後，跟[中田康貴合作的專輯](../Page/中田康貴.md "wikilink")「BEAM」和「STEP」(2007年)在外資唱片店舖銷售榜獲得第1位，並首次打入Oricon榜5名以內。單曲「FREAK」是跟[英國樂隊Hadouken](https://zh.wikipedia.org/wiki/英國 "wikilink")！合作的作品，而專輯「Journey」的製作人則是在[紐約居住的](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
+其後，跟[中田康貴](../Page/中田康貴.md "wikilink")合作的專輯「BEAM」和「STEP」(2007年)在外資唱片店舖銷售榜獲得第1位，並首次打入Oricon榜5名以內。單曲「FREAK」是跟[英國樂隊Hadouken](https://zh.wikipedia.org/wiki/英國 "wikilink")！合作的作品，而專輯「Journey」的製作人則是在[紐約居住的](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 
 於2008，2009兩年連續在大型音樂節SUMMER
 SONIC作表演嘉賓。同年，在[法國進行的博覽會Japan](https://zh.wikipedia.org/wiki/法國 "wikilink")

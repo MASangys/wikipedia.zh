@@ -5,16 +5,16 @@
 拥有最多功能的CoreAVC解码器售价约为10美元。\[2\]
 
 CoreAVC是CorePlayer Multimedia
-Framework的一部分，也曾被用于[Joost使用的一个已停止开发的客户端](../Page/Joost.md "wikilink")。\[3\]
+Framework的一部分，也曾被用于[Joost](../Page/Joost.md "wikilink")使用的一个已停止开发的客户端。\[3\]
 
 ## 对CoreAVC-For-Linux的控告
 
 在[Google
-Code上的一个名为CoreAVC](https://zh.wikipedia.org/wiki/Google_Code "wikilink")-For-Linux的[开源项目可以对开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")[MPlayer的载入代码部分打一个补丁](../Page/MPlayer.md "wikilink")，从而使MPlayer可在[自由软件环境下使用原本仅供Windows使用的CoreAVC](../Page/自由软件.md "wikilink")
+Code上的一个名为CoreAVC](https://zh.wikipedia.org/wiki/Google_Code "wikilink")-For-Linux的[开源项目可以对开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")[MPlayer](../Page/MPlayer.md "wikilink")的载入代码部分打一个补丁，从而使MPlayer可在[自由软件](../Page/自由软件.md "wikilink")环境下使用原本仅供Windows使用的CoreAVC
 [DirectShow](../Page/DirectShow.md "wikilink")
-filter。它不包含CoreAVC，而只是简单地使MPlayer能利用CoreAVC。该项目也包含功能相同的、对[MythTV和](../Page/MythTV.md "wikilink")[Xine的补丁](https://zh.wikipedia.org/wiki/Xine "wikilink")。
+filter。它不包含CoreAVC，而只是简单地使MPlayer能利用CoreAVC。该项目也包含功能相同的、对[MythTV](../Page/MythTV.md "wikilink")和[Xine的补丁](https://zh.wikipedia.org/wiki/Xine "wikilink")。
 
-2008年5月，CoreAVC-For-Linux因一次根据[-{zh-hans:数字千年版权法;zh-hant:數位千禧年著作權法}-的控告而被](https://zh.wikipedia.org/wiki/数字千年版权法 "wikilink")[Google撤下](../Page/Google.md "wikilink")。\[4\]这次控告值得思考，因为该项目作为一种包装方法，并没有使用任何有版权的内容，但也许是[逆向工程被使用却未能得到事先许可](../Page/逆向工程.md "wikilink")，这使CoreCodec公司认为该行为违反了-{zh-hans:数字千禧年版权法案;zh-hant:數位千禧年著作權法案}-。\[5\]CoreCodec公司之后申明-{zh-hans:数字千禧年版权法案;zh-hant:數位千禧年著作權法案}-并未禁止逆向工程\[6\]
+2008年5月，CoreAVC-For-Linux因一次根据[-{zh-hans:数字千年版权法;zh-hant:數位千禧年著作權法}-的控告而被](https://zh.wikipedia.org/wiki/数字千年版权法 "wikilink")[Google](../Page/Google.md "wikilink")撤下。\[4\]这次控告值得思考，因为该项目作为一种包装方法，并没有使用任何有版权的内容，但也许是[逆向工程](../Page/逆向工程.md "wikilink")被使用却未能得到事先许可，这使CoreCodec公司认为该行为违反了-{zh-hans:数字千禧年版权法案;zh-hant:數位千禧年著作權法案}-。\[5\]CoreCodec公司之后申明-{zh-hans:数字千禧年版权法案;zh-hant:數位千禧年著作權法案}-并未禁止逆向工程\[6\]
 并为此向开源社区道歉。\[7\]该项目现在仍在运作，且被CoreCodec认可。
 
 ## 多平台支持
@@ -30,7 +30,7 @@ Monahan，（有限的）Qualcomm QTv都被支持，且申明即将到来的版�
 ## Nvidia CUDA支持
 
 2009年2月10日，CoreCodec发布CoreAVC的升级版\[8\]它实现了对[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink")
-[CUDA技术的支持](../Page/CUDA.md "wikilink")。通过利用CUDA技术，可让特定的Nvidia显卡协助视频解码运算。
+[CUDA](../Page/CUDA.md "wikilink")技术的支持。通过利用CUDA技术，可让特定的Nvidia显卡协助视频解码运算。
 
 ## 参考文献
 

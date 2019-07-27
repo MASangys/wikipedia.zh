@@ -1,4 +1,4 @@
-「**Butterfly**」為日本[歌手](../Page/歌手.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2005年6月22日發行的16th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**Butterfly**」為日本[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")於2005年6月22日發行的16th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -6,7 +6,7 @@
 
 <!-- end list -->
 
-  - [Oricon初登場第](../Page/Oricon.md "wikilink")2名，更新自身獲得的最高名次。
+  - [Oricon](../Page/Oricon.md "wikilink")初登場第2名，更新自身獲得的最高名次。
 
 ## 發行版本
 
@@ -19,7 +19,7 @@
 
 1.  **Butterfly**
       -
-        [TBS電視台連續劇愛の劇場](../Page/TBS電視台.md "wikilink")「コスメの魔法2」主題歌（本人也擔任特別來賓）。
+        [TBS電視台](../Page/TBS電視台.md "wikilink")連續劇愛の劇場「コスメの魔法2」主題歌（本人也擔任特別來賓）。
         第47回日本唱片大賞的金賞。另外以此曲在[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[紅白歌合戰初登場](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
 2.  **Your Sunshine**
       -

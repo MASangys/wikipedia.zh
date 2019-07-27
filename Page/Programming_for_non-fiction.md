@@ -1,5 +1,5 @@
 《'''Programming for non-fiction
-'''》是[麻生夏子的第](../Page/麻生夏子.md "wikilink")2張單曲。於2009年7月23日由[MellowHead公司發行](https://zh.wikipedia.org/wiki/MellowHead "wikilink")。
+'''》是[麻生夏子](../Page/麻生夏子.md "wikilink")的第2張單曲。於2009年7月23日由[MellowHead公司發行](https://zh.wikipedia.org/wiki/MellowHead "wikilink")。
 
 ## 收錄曲
 

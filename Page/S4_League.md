@@ -1,4 +1,4 @@
-是一个由[Pentavision制作的第三人称射击类的网络游戏](../Page/Pentavision.md "wikilink")。在欧洲，由Alaplaya代理\[1\]，在韩国则由Pmang\[2\]
+是一个由[Pentavision](../Page/Pentavision.md "wikilink")制作的第三人称射击类的网络游戏。在欧洲，由Alaplaya代理\[1\]，在韩国则由Pmang\[2\]
 
 *S4*这个名字来自Stylish(流行)、eSper(超能力者)、Shooting(射击)和Sports(运动)。
 

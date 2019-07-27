@@ -1,9 +1,9 @@
 **TopStyle**，一款[Microsoft
-Windows平台下的网页编辑器](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，支持[CSS](../Page/层叠样式表.md "wikilink")/[XHTML](../Page/XHTML.md "wikilink")/[HTML等格式](../Page/HTML.md "wikilink")，由Nick
+Windows平台下的网页编辑器](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，支持[CSS](../Page/层叠样式表.md "wikilink")/[XHTML](../Page/XHTML.md "wikilink")/[HTML](../Page/HTML.md "wikilink")等格式，由Nick
 Bradbury开发，曾经为NewsGator Technologies所有，后转让给Stefan van
-As。在功能上侧重于代码编辑，而非[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")，内置多[排版引擎效果预览](../Page/排版引擎.md "wikilink")，如[Mozilla](../Page/Mozilla.md "wikilink")，[Gecko](https://zh.wikipedia.org/wiki/Gecko_\(layout_engine\) "wikilink")
+As。在功能上侧重于代码编辑，而非[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")，内置多[排版引擎](../Page/排版引擎.md "wikilink")效果预览，如[Mozilla](../Page/Mozilla.md "wikilink")，[Gecko](https://zh.wikipedia.org/wiki/Gecko_\(layout_engine\) "wikilink")
 or [Internet Explorer](../Page/Internet_Explorer.md "wikilink")
-[Trident](../Page/Trident_\(排版引擎\).md "wikilink")。此款软件属于商业软件，有免费试用期，也提供免费的简装版（3.0.12）。在2006年，曾声明没有计划推出[Linux与](../Page/Linux.md "wikilink")[Mac
+[Trident](../Page/Trident_\(排版引擎\).md "wikilink")。此款软件属于商业软件，有免费试用期，也提供免费的简装版（3.0.12）。在2006年，曾声明没有计划推出[Linux](../Page/Linux.md "wikilink")与[Mac
 OS版本](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。\[1\]
 
 ## 历史

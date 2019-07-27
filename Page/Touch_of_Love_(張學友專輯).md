@@ -1,5 +1,5 @@
 《**Touch of
-Love**》，是[香港歌手](../Page/香港.md "wikilink")[张学友發行第一张英文专辑](../Page/张学友.md "wikilink")，此專輯當時受到廣泛觀眾的歡迎。
+Love**》，是[香港](../Page/香港.md "wikilink")歌手[张学友](../Page/张学友.md "wikilink")發行第一张英文专辑，此專輯當時受到廣泛觀眾的歡迎。
 
 ## 介绍
 

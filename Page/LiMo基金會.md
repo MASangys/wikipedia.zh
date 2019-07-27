@@ -1,4 +1,4 @@
-**LiMo基金會**（，名稱來自的縮寫），又稱Linux手機發展基金會，是一個以開發[Linux作業系統](../Page/Linux.md "wikilink")[智慧型手機為目標的組織](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。它們所發布的[Linux作業系統平台](../Page/Linux.md "wikilink")，也被稱為[LiMo](https://zh.wikipedia.org/wiki/LiMo "wikilink")，可以用在手機和其他手持設備之上。創始會員包括[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[NTT
+**LiMo基金會**（，名稱來自的縮寫），又稱Linux手機發展基金會，是一個以開發[Linux](../Page/Linux.md "wikilink")作業系統[智慧型手機為目標的組織](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。它們所發布的[Linux](../Page/Linux.md "wikilink")作業系統平台，也被稱為[LiMo](https://zh.wikipedia.org/wiki/LiMo "wikilink")，可以用在手機和其他手持設備之上。創始會員包括[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[NTT
 DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")、[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")、[三星和](../Page/三星電子.md "wikilink")[Vodafone](https://zh.wikipedia.org/wiki/Vodafone "wikilink")。
 
 2012年1月1日，LiMo基金會更名為Tizen協會\[1\]。
@@ -129,7 +129,7 @@ LiMo基金會的會員有：
 
 ## LiMo基金會和Tizen
 
-2011年9月，[Linux基金會宣布將開發](../Page/Linux基金會.md "wikilink")[Tizen專案](../Page/Tizen.md "wikilink")，用以取代先前的[MeeGo](../Page/MeeGo.md "wikilink")，並在2012年第一季釋出第一版。這個專案的主要推動者為[英特爾與](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[三星電子](../Page/三星電子.md "wikilink")，他們將LiMo基金會整合進入[Tizen專案之中](../Page/Tizen.md "wikilink")\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。截至2012年10月，LiMo基金會官方網站被重定向到tizen.org。
+2011年9月，[Linux基金會](../Page/Linux基金會.md "wikilink")宣布將開發[Tizen](../Page/Tizen.md "wikilink")專案，用以取代先前的[MeeGo](../Page/MeeGo.md "wikilink")，並在2012年第一季釋出第一版。這個專案的主要推動者為[英特爾與](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[三星電子](../Page/三星電子.md "wikilink")，他們將LiMo基金會整合進入[Tizen](../Page/Tizen.md "wikilink")專案之中\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。截至2012年10月，LiMo基金會官方網站被重定向到tizen.org。
 
 ## 相關條目
 

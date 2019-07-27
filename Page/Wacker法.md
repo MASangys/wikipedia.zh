@@ -1,9 +1,9 @@
 **瓦克法**（Wacker
-process），又称**Hoechst-Wacker法**，最早是指[乙烯在含有](../Page/乙烯.md "wikilink")[四氯钯酸盐](https://zh.wikipedia.org/wiki/四氯钯酸盐 "wikilink")[催化剂的水中](../Page/催化剂.md "wikilink")，被空气中的氧气[氧化为](https://zh.wikipedia.org/wiki/氧化 "wikilink")[乙醛的反应](../Page/乙醛.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+process），又称**Hoechst-Wacker法**，最早是指[乙烯](../Page/乙烯.md "wikilink")在含有[四氯钯酸盐](https://zh.wikipedia.org/wiki/四氯钯酸盐 "wikilink")[催化剂](../Page/催化剂.md "wikilink")的水中，被空气中的氧气[氧化为](https://zh.wikipedia.org/wiki/氧化 "wikilink")[乙醛](../Page/乙醛.md "wikilink")的反应。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-这是第一个工业化的[有机金属](https://zh.wikipedia.org/wiki/有机金属 "wikilink")（[有机钯](https://zh.wikipedia.org/wiki/有机钯 "wikilink")）反应，亦是[均相催化和](https://zh.wikipedia.org/wiki/均相催化 "wikilink")[配位催化中很重要的一个反应](https://zh.wikipedia.org/wiki/配位催化 "wikilink")，在1960年代后发展很快，在石油化工发达的国家已大幅取代了[乙炔水合法](https://zh.wikipedia.org/wiki/乙炔水合法 "wikilink")，用于从[烯烃制取](../Page/烯烃.md "wikilink")[醛](../Page/醛.md "wikilink")、[酮类](../Page/酮.md "wikilink")。反应中的钯配合物与[烯烃配合物](https://zh.wikipedia.org/wiki/烯烃配合物 "wikilink")[蔡氏盐类似](https://zh.wikipedia.org/wiki/蔡氏盐 "wikilink")，不过后者是一个[异相催化剂](https://zh.wikipedia.org/wiki/异相催化 "wikilink")。
+这是第一个工业化的[有机金属](https://zh.wikipedia.org/wiki/有机金属 "wikilink")（[有机钯](https://zh.wikipedia.org/wiki/有机钯 "wikilink")）反应，亦是[均相催化和](https://zh.wikipedia.org/wiki/均相催化 "wikilink")[配位催化中很重要的一个反应](https://zh.wikipedia.org/wiki/配位催化 "wikilink")，在1960年代后发展很快，在石油化工发达的国家已大幅取代了[乙炔水合法](https://zh.wikipedia.org/wiki/乙炔水合法 "wikilink")，用于从[烯烃](../Page/烯烃.md "wikilink")制取[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")类。反应中的钯配合物与[烯烃配合物](https://zh.wikipedia.org/wiki/烯烃配合物 "wikilink")[蔡氏盐类似](https://zh.wikipedia.org/wiki/蔡氏盐 "wikilink")，不过后者是一个[异相催化剂](https://zh.wikipedia.org/wiki/异相催化 "wikilink")。
 
-此反应形式上与[氢甲酰化反应类似](../Page/氢甲酰化反应.md "wikilink")，都是工业上用于醛类的反应。但两者不同的是，氢甲酰化所用的是[铑基催化剂](../Page/铑.md "wikilink")，而且氢甲酰化是一个增碳过程。
+此反应形式上与[氢甲酰化反应](../Page/氢甲酰化反应.md "wikilink")类似，都是工业上用于醛类的反应。但两者不同的是，氢甲酰化所用的是[铑](../Page/铑.md "wikilink")基催化剂，而且氢甲酰化是一个增碳过程。
 
 ## 反应机理
 
@@ -11,7 +11,7 @@ process），又称**Hoechst-Wacker法**，最早是指[乙烯在含有](../Page
 
 
 [WackerMechWiki3.gif](https://zh.wikipedia.org/wiki/File:WackerMechWiki3.gif "fig:WackerMechWiki3.gif")
-这一反应很容易发生，将乙烯和空气通入含有铜盐的[氯化钯](../Page/氯化钯.md "wikilink")(Ⅱ)-[盐酸水中](../Page/盐酸.md "wikilink")，乙烯几乎全部转化为乙醛。而氯化钯则被还原为钯，在[氯化铜的作用下得到再生](../Page/氯化铜.md "wikilink")。氯化铜被还原生成的[氯化亚铜又可被空气](../Page/氯化亚铜.md "wikilink")、纯氧或其他氧化剂再氧化为二价铜。这一过程形式上可以表示为：
+这一反应很容易发生，将乙烯和空气通入含有铜盐的[氯化钯](../Page/氯化钯.md "wikilink")(Ⅱ)-[盐酸](../Page/盐酸.md "wikilink")水中，乙烯几乎全部转化为乙醛。而氯化钯则被还原为钯，在[氯化铜](../Page/氯化铜.md "wikilink")的作用下得到再生。氯化铜被还原生成的[氯化亚铜](../Page/氯化亚铜.md "wikilink")又可被空气、纯氧或其他氧化剂再氧化为二价铜。这一过程形式上可以表示为：
 
 \[\mathrm{[PdCl_4]^{2-} + C_2H_4 + H_2O \rightarrow CH_3CHO + Pd + 2HCl +2Cl^-}\]
 

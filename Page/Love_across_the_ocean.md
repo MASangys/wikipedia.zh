@@ -1,5 +1,5 @@
 「**love across the
-ocean**」為2002年7月24日發行之[日本歌手](../Page/日本.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")5th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+ocean**」為2002年7月24日發行之[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")5th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 

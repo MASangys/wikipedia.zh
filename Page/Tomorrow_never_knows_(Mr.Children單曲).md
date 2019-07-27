@@ -1,5 +1,5 @@
 《**Tomorrow never
-knows**》，是日本樂團[Mr.Children的第](../Page/Mr.Children.md "wikilink")6張單曲，1994年11月10日发行。此曲是日本1990年代[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")[主題曲的代表性歌曲](../Page/主題曲.md "wikilink")，也是Mr.Children迄今為止銷量最高的單曲，是[Oricon單曲榜史上銷量第](../Page/Oricon.md "wikilink")7的單曲。\[1\]
+knows**》，是日本樂團[Mr.Children](../Page/Mr.Children.md "wikilink")的第6張單曲，1994年11月10日发行。此曲是日本1990年代[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")[主題曲](../Page/主題曲.md "wikilink")的代表性歌曲，也是Mr.Children迄今為止銷量最高的單曲，是[Oricon](../Page/Oricon.md "wikilink")單曲榜史上銷量第7的單曲。\[1\]
 同時對當時的日本社會有著深刻的意義。
 
 《Tomorrow never

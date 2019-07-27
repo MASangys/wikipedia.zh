@@ -1,4 +1,4 @@
-**MeeGo**是一個基於[Linux的](../Page/Linux.md "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")\[1\]，它於2010年2月的[世界移动通信大會中宣佈](https://zh.wikipedia.org/wiki/世界移动通信大會 "wikilink")\[2\]，主要推動者為[諾基亞與](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。它結合了[諾基亞的](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Maemo及](../Page/Maemo.md "wikilink")[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Moblin](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")。\[3\]並由[Linux基金會主導](../Page/Linux基金會.md "wikilink")。\[4\]
+**MeeGo**是一個基於[Linux](../Page/Linux.md "wikilink")的[行動作業系統](../Page/行動作業系統.md "wikilink")\[1\]，它於2010年2月的[世界移动通信大會中宣佈](https://zh.wikipedia.org/wiki/世界移动通信大會 "wikilink")\[2\]，主要推動者為[諾基亞與](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。它結合了[諾基亞的](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Maemo](../Page/Maemo.md "wikilink")及[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Moblin](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")。\[3\]並由[Linux基金會](../Page/Linux基金會.md "wikilink")主導。\[4\]
 
 MeeGo是一個由Linux基金會於1999年註冊的域名。\[5\]
 
@@ -10,7 +10,7 @@ MeeGo的目標是執行在多種硬體平台，包括手機、車用資通訊娛
 
 [The_history_of_Meego_&_Tizen.png](https://zh.wikipedia.org/wiki/File:The_history_of_Meego_&_Tizen.png "fig:The_history_of_Meego_&_Tizen.png")
 
-2005年，诺基亚发布[Maemo操作系统](../Page/Maemo.md "wikilink")。Maemo基于[Debian
+2005年，诺基亚发布[Maemo](../Page/Maemo.md "wikilink")操作系统。Maemo基于[Debian
 Linux](https://zh.wikipedia.org/wiki/Debian_Linux "wikilink")，采用自由软件许可。
 
 2009年9月，诺基亚在诺基亚大会上发布了第一款基于Maemo平台的智能手机——[诺基亚N900](../Page/诺基亚N900.md "wikilink")。
@@ -26,7 +26,7 @@ Phone](../Page/Windows_Phone.md "wikilink")。
 
 2011年9月28日，繼諾基亞CEO宣布放棄MeeGo系統並轉向使用[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
 Phone
-7之後](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")\[7\]\[8\]，MeeGo的另一個主要合作者英特爾也宣布放棄MeeGo，\[9\]，同時，Linux基金會也正式決定將MeeGo與另一個[Linux行動作業系統](../Page/Linux.md "wikilink")[LiMo合併](https://zh.wikipedia.org/wiki/LiMo "wikilink")，合併之後的新系統被命名為[Tizen](../Page/Tizen.md "wikilink")。\[10\]
+7之後](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")\[7\]\[8\]，MeeGo的另一個主要合作者英特爾也宣布放棄MeeGo，\[9\]，同時，Linux基金會也正式決定將MeeGo與另一個[Linux](../Page/Linux.md "wikilink")行動作業系統[LiMo合併](https://zh.wikipedia.org/wiki/LiMo "wikilink")，合併之後的新系統被命名為[Tizen](../Page/Tizen.md "wikilink")。\[10\]
 
 在此之后，曾經支持MeeGo專案的諾基亞公司則將獨立發展另一個後繼專案[Meltemi](https://zh.wikipedia.org/wiki/Meltemi "wikilink")，目標將專注於[功能手機](https://zh.wikipedia.org/wiki/功能手機 "wikilink")。并且诺基亚承诺将继续提供Meego设备（诺基亚N9）的更新。这意味着诺基亚此时还未完全放弃
 Meego。
@@ -40,7 +40,7 @@ Meego。
 
 ### Mer
 
-在Linux基金會、Intel、Nokia與三星等，放棄繼續發展MeeGo計劃時，社群開發者由MeeGo中分支出[Mer專案](../Page/Mer.md "wikilink")。尚不清楚是否將被允許繼續使用MeeGo的商標。\[12\]\[13\]\[14\]
+在Linux基金會、Intel、Nokia與三星等，放棄繼續發展MeeGo計劃時，社群開發者由MeeGo中分支出[Mer](../Page/Mer.md "wikilink")專案。尚不清楚是否將被允許繼續使用MeeGo的商標。\[12\]\[13\]\[14\]
 
 ### Tizen
 
@@ -59,7 +59,7 @@ Jolla公司由Mer專案中，分支出[Sailfish OS](../Page/Sailfish_OS.md "wiki
 [meego-handset-launcher.png](https://zh.wikipedia.org/wiki/File:meego-handset-launcher.png "fig:meego-handset-launcher.png")
 [MeeGo_Tablet_Computex_2010.png](https://zh.wikipedia.org/wiki/File:MeeGo_Tablet_Computex_2010.png "fig:MeeGo_Tablet_Computex_2010.png")
 [Meego-ivi-1.1-home.png](https://zh.wikipedia.org/wiki/File:Meego-ivi-1.1-home.png "fig:Meego-ivi-1.1-home.png")
-MeeGo同時支援[ARM和](https://zh.wikipedia.org/wiki/ARM "wikilink")[x86處理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，支持[SSSE3指令集](../Page/SSSE3.md "wikilink")\[17\]。並且使用[btrfs作為預設的](https://zh.wikipedia.org/wiki/btrfs "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。\[18\]
+MeeGo同時支援[ARM和](https://zh.wikipedia.org/wiki/ARM "wikilink")[x86處理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，支持[SSSE3](../Page/SSSE3.md "wikilink")指令集\[17\]。並且使用[btrfs作為預設的](https://zh.wikipedia.org/wiki/btrfs "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。\[18\]
 
 ## 使用者界面
 
@@ -95,7 +95,7 @@ MeeGo核心作業系統是一個Linux發行版，借鑒諾基亞基於Debian的M
 
 ### 軟體開發
 
-MeeGo應用程式使用[Qt開發框架和](../Page/Qt.md "wikilink")[Qt
+MeeGo應用程式使用[Qt](../Page/Qt.md "wikilink")開發框架和[Qt
 Creator作為開發環境](../Page/Qt_Creator.md "wikilink")。
 
 [openSUSE的](https://zh.wikipedia.org/wiki/openSUSE "wikilink")[Build
@@ -105,7 +105,7 @@ Service可用來編譯應用程式](https://zh.wikipedia.org/wiki/openSUSE_Build
 
 Intel Developer Forum
 2010中宣佈，MeeGo以六個月作為發佈周期。2010年5月26日開始提供Netbook版本的下載。
-2010年5月27日，MeeGO官方正式发布v1.0[上网本体验版和N](../Page/上网本.md "wikilink")900版MeeGo
+2010年5月27日，MeeGO官方正式发布v1.0[上网本](../Page/上网本.md "wikilink")体验版和N900版MeeGo
 v1.0 Core Software平台。
 
 |        | 版本             | [內核版本](https://zh.wikipedia.org/wiki/Linux內核 "wikilink") | 發佈日期                                                                                                                            | 備註                                            | 支援 (Netbooks)                                                                                                                                                                                                                             | 支援（Handsets）                                                                    |
@@ -113,7 +113,7 @@ v1.0 Core Software平台。
 | MeeGo  | 1.0            | 2.6.33\[27\]                                             | 2010年5月26日\[28\]                                                                                                                | 最初只發佈Netbook版本;只有一個code drop發佈給手機（Nokia N900） | Asus EeePC 901, 1000H, 1001P, 1005HA, 1005PE, 1008HA, Eeetop ET1602, Dell mini10v, Inspiron Mini 1012, Acer Aspire One D250, AO532-21S, Revo GN40, Aspire 5740-6025, Lenovo S10, MSI U100, U130, AE1900, HP mini 210-1044, Toshiba NB302. | [Nokia N900](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")（沒有handset UX） |
 | 1.01   | 2.6.33.5\[29\] | 2010年7月\[30\]                                            | 更新MeeGo 1.0;內核更新至2.6.33.5,改進USB設備加載時間，改進3D性能，增強瀏覽器，解決多個電子郵件客戶端的問題，增強netbook窗口管理器，改進視覺效果，完整地支援GNOME代理 配置的媒體播放器，更多DNS設置的控制權\[31\] | 所有支援MeeGo 1.0的Netbooks;同上                     | 沒有                                                                                                                                                                                                                                        |                                                                                 |
 | 1.02   | 2.6.33.5\[32\] | 2010年8月9日\[33\]                                          | 更新MeeGo 1.0;更新X-Server ,連接管理器, [軟件包管理管理器UI](https://zh.wikipedia.org/wiki/軟件包管理系統 "wikilink"), Perl及更多\[34\]                    | 所有支援MeeGo 1.0的Netbooks;同上                     | 沒有                                                                                                                                                                                                                                        |                                                                                 |
-| 1.03   | 2.6.33.5\[35\] | 2010年9月10日\[36\]                                         | 更新MeeGo 1.0;一些更新，如[Chromium瀏覽器及連接管理器](../Page/Chromium.md "wikilink")\[37\]                                                     | 所有支援MeeGo 1.0的Netbooks;同上                     | 沒有                                                                                                                                                                                                                                        |                                                                                 |
+| 1.03   | 2.6.33.5\[35\] | 2010年9月10日\[36\]                                         | 更新MeeGo 1.0;一些更新，如[Chromium](../Page/Chromium.md "wikilink")瀏覽器及連接管理器\[37\]                                                     | 所有支援MeeGo 1.0的Netbooks;同上                     | 沒有                                                                                                                                                                                                                                        |                                                                                 |
 | 1.04   | 2.6.33.5\[38\] | 2010年10月12日\[39\]                                        | 更新MeeGo 1.0;一些安全更新, ...\[40\]                                                                                                   | 所有支援MeeGo 1.0的Netbooks;同上                     | 沒有                                                                                                                                                                                                                                        |                                                                                 |
 | 1.05   | 未知\[41\]       | 2010年11月28日\[42\]                                        | 更新MeeGo 1.0;一些安全更新, ...\[43\]                                                                                                   | 所有支援MeeGo 1.0的Netbooks;同上                     | 沒有                                                                                                                                                                                                                                        |                                                                                 |
 | 1.06   | 未知\[44\]       | 2011年1月4日\[45\]                                          | 更新MeeGo 1.0;一些安全更新, ...\[46\]                                                                                                   | 所有支援MeeGo 1.0的Netbooks;同上                     | 沒有                                                                                                                                                                                                                                        |                                                                                 |

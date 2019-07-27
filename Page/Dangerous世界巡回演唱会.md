@@ -1,9 +1,9 @@
 **Dangerous世界巡回演唱会**（[英文原文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Dangerous
 World Tour**，简称**Dangerous
-WT**），是已故流行乐天王[迈克尔·杰克逊的第二次](../Page/迈克尔·杰克逊.md "wikilink")[世界巡回演唱会](https://zh.wikipedia.org/wiki/世界巡回演唱会 "wikilink")，开始于1992年6月27日，结束于1993年11月11日，共69场表演，横跨[非洲](../Page/非洲.md "wikilink")、[欧洲](../Page/欧洲.md "wikilink")、[亚洲](../Page/亚洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")，入场歌迷共计390万人。美国著名导演[肯尼·奥尔特加在此次巡演中担任分级设计制作的职务](https://zh.wikipedia.org/wiki/肯尼·奥尔特加 "wikilink")。该演唱会全程由[百事可乐公司赞助](https://zh.wikipedia.org/wiki/百事可乐公司 "wikilink")。该巡演的总收入高达1亿[美元](../Page/美元.md "wikilink")，杰克逊将它全部捐献给了包括[治愈世界基金会在内的杰克逊成立的各种慈善基金会](../Page/治愈世界基金会.md "wikilink")。
+WT**），是已故流行乐天王[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的第二次[世界巡回演唱会](https://zh.wikipedia.org/wiki/世界巡回演唱会 "wikilink")，开始于1992年6月27日，结束于1993年11月11日，共69场表演，横跨[非洲](../Page/非洲.md "wikilink")、[欧洲](../Page/欧洲.md "wikilink")、[亚洲](../Page/亚洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")，入场歌迷共计390万人。美国著名导演[肯尼·奥尔特加在此次巡演中担任分级设计制作的职务](https://zh.wikipedia.org/wiki/肯尼·奥尔特加 "wikilink")。该演唱会全程由[百事可乐公司赞助](https://zh.wikipedia.org/wiki/百事可乐公司 "wikilink")。该巡演的总收入高达1亿[美元](../Page/美元.md "wikilink")，杰克逊将它全部捐献给了包括[治愈世界基金会](../Page/治愈世界基金会.md "wikilink")在内的杰克逊成立的各种慈善基金会。
 
 在巡演的第二阶段
-(1993年)，杰克逊决定结束巡演，宣布因依赖[止痛药](https://zh.wikipedia.org/wiki/止痛药 "wikilink")、[脱水](../Page/脱水.md "wikilink")、[偏头痛](https://zh.wikipedia.org/wiki/偏头痛 "wikilink")、[背痛和频繁的](../Page/背痛.md "wikilink")[脚踝受伤](https://zh.wikipedia.org/wiki/脚踝 "wikilink")，将入院接受治疗。
+(1993年)，杰克逊决定结束巡演，宣布因依赖[止痛药](https://zh.wikipedia.org/wiki/止痛药 "wikilink")、[脱水](../Page/脱水.md "wikilink")、[偏头痛](https://zh.wikipedia.org/wiki/偏头痛 "wikilink")、[背痛](../Page/背痛.md "wikilink")和频繁的[脚踝受伤](https://zh.wikipedia.org/wiki/脚踝 "wikilink")，将入院接受治疗。
 
 ## 表演曲目
 
@@ -24,7 +24,7 @@ WT**），是已故流行乐天王[迈克尔·杰克逊的第二次](../Page/迈
 | 13 | "[Dangerous](https://zh.wikipedia.org/wiki/Dangerous_\(迈克尔·杰克逊歌曲\) "wikilink")"                                                                                                                                                                                                            |      | 13   |
 | 14 | "Someone Put Your Hand Out" (工具)                                                                                                                                                                                                                                                           | 14   | 11   |
 | 15 | "[Will You Be There](https://zh.wikipedia.org/wiki/Will_You_Be_There "wikilink")"                                                                                                                                                                                                          | 15   | 12   |
-| 16 | "[The Way You Make Me Feel](../Page/The_Way_You_Make_Me_Feel.md "wikilink")" (在前八场演唱会演唱，后删除出表演曲目单。在[日本的前四场演唱会也表演](../Page/日本.md "wikilink")。)                                                                                                                                              | 16   |      |
+| 16 | "[The Way You Make Me Feel](../Page/The_Way_You_Make_Me_Feel.md "wikilink")" (在前八场演唱会演唱，后删除出表演曲目单。在[日本](../Page/日本.md "wikilink")的前四场演唱会也表演。)                                                                                                                                              | 16   |      |
 | 17 | "[Bad](https://zh.wikipedia.org/wiki/Bad_\(迈克尔·杰克逊歌曲\) "wikilink")" (在前八场演唱会演唱，后删除出表演曲目单。在日本的前四场演唱会也表演。)                                                                                                                                                                                   | 17   | 12   |
 | 18 | "[Black or White](../Page/Black_or_White.md "wikilink")"                                                                                                                                                                                                                                   | 18   | 15   |
 | 19 | "[We Are the World](https://zh.wikipedia.org/wiki/We_Are_the_World "wikilink")" (影片插曲)                                                                                                                                                                                                     | 19   | 16   |
@@ -692,14 +692,14 @@ WT**），是已故流行乐天王[迈克尔·杰克逊的第二次](../Page/迈
   - 1992年9月6日，[德国](../Page/德国.md "wikilink")[盖尔森基兴](../Page/盖尔森基兴.md "wikilink")，取消。
   - 1992年9月11日，[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[巴塞尔](../Page/巴塞尔.md "wikilink")，取消。
   - 1992年10月2日，[土耳其](../Page/土耳其.md "wikilink")[伊兹密尔](../Page/伊兹密尔.md "wikilink")
-    ([亚洲部分](../Page/亚洲.md "wikilink"))，取消。
+    ([亚洲](../Page/亚洲.md "wikilink")部分)，取消。
   - 1992年10月4日，土耳其[伊斯坦布尔](https://zh.wikipedia.org/wiki/伊斯坦布尔 "wikilink")
-    ([欧洲部分](../Page/欧洲.md "wikilink"))，推迟至1993年9月23日。
+    ([欧洲](../Page/欧洲.md "wikilink")部分)，推迟至1993年9月23日。
   - 1992年10月8日，[希腊](../Page/希腊.md "wikilink")[雅典](../Page/雅典.md "wikilink")，取消。
   - 1993年8月15日，[香港](../Page/香港.md "wikilink")[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")，取消。(因馬季而無法改期)
   - 1993年8月16日，[香港](../Page/香港.md "wikilink")[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")，取消。(因馬季而無法改期)
   - 1993年8月25日，[泰国](../Page/泰国.md "wikilink")[曼谷](../Page/曼谷.md "wikilink")，推迟至8月26日。
-  - 1993年8月26日，泰国曼谷，取消。 (因为杰克逊[脱水尚未痊愈](../Page/脱水.md "wikilink")。)
+  - 1993年8月26日，泰国曼谷，取消。 (因为杰克逊[脱水](../Page/脱水.md "wikilink")尚未痊愈。)
   - 1993年8月30日，[新加坡](../Page/新加坡.md "wikilink")，取消。 (因为演出之前杰克逊偏头痛。)
   - 1993年10月21日，[智力](../Page/智力.md "wikilink")[圣地亚哥](https://zh.wikipedia.org/wiki/圣地亚哥 "wikilink")，取消。
     (因为杰克逊背部疼痛。)
@@ -717,9 +717,9 @@ WT**），是已故流行乐天王[迈克尔·杰克逊的第二次](../Page/迈
 
 ## 巡演记录
 
-所有演出都是由[夜曲制作公司专业](https://zh.wikipedia.org/wiki/夜曲制作公司 "wikilink")[拍摄的](https://zh.wikipedia.org/wiki/拍摄 "wikilink")，这些拍摄的内容都是杰克逊的私人档案。只有一场演唱会给[电视转播](../Page/电视.md "wikilink")，那就是1992年10月1日的[布加勒斯特站的演出](../Page/布加勒斯特.md "wikilink")。该场演唱会的直播权杰克逊以1200万[英镑](../Page/英镑.md "wikilink")
+所有演出都是由[夜曲制作公司专业](https://zh.wikipedia.org/wiki/夜曲制作公司 "wikilink")[拍摄的](https://zh.wikipedia.org/wiki/拍摄 "wikilink")，这些拍摄的内容都是杰克逊的私人档案。只有一场演唱会给[电视](../Page/电视.md "wikilink")转播，那就是1992年10月1日的[布加勒斯特](../Page/布加勒斯特.md "wikilink")站的演出。该场演唱会的直播权杰克逊以1200万[英镑](../Page/英镑.md "wikilink")
 (现约合[人民币](../Page/人民币.md "wikilink")1.3亿元)的价格卖给了[HBO](../Page/HBO.md "wikilink")[电视台](../Page/电视台.md "wikilink")，创下了现场演唱会直播费的最高记录，这场演唱会的特辑也为HBO创下了[有线电视网史上最高收视记录](https://zh.wikipedia.org/wiki/有线电视网 "wikilink")：21.4%的收视率，34%户率。杰克逊因此获得“[有线电视杰出奖](https://zh.wikipedia.org/wiki/有线电视杰出奖 "wikilink")”。\[3\]由于电视播出后收视率极高，而且场面十分壮观，晕倒人数极多，所以在2005年，官方发行了该演唱会的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")：[布加勒斯特现场：危险之旅巡回演唱会](../Page/布加勒斯特现场：危险之旅巡回演唱会.md "wikilink")
-(*[布加勒斯特现场：危险之旅巡回演唱会](../Page/布加勒斯特现场：危险之旅巡回演唱会.md "wikilink")*)。近期，在[阿根廷](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯站的演出视频被泄漏](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")，让人们看到了当晚高畫質的[蒙太奇的影片画面](../Page/蒙太奇.md "wikilink")。
+(*[布加勒斯特现场：危险之旅巡回演唱会](../Page/布加勒斯特现场：危险之旅巡回演唱会.md "wikilink")*)。近期，在[阿根廷](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯站的演出视频被泄漏](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")，让人们看到了当晚高畫質的[蒙太奇](../Page/蒙太奇.md "wikilink")的影片画面。
 
 ## 参见
 

@@ -4,7 +4,7 @@
 
   - 未下載完成或損壞的AVI檔案（跳過損壞的幀）
   - [HTTP串流](https://zh.wikipedia.org/wiki/HTTP串流 "wikilink")（ASF/OGG/MP3/AVI）
-  - [DirectShow播放](../Page/DirectShow.md "wikilink")（[AVI](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")，[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")，[Matroska](../Page/Matroska.md "wikilink")，[QuickTime](../Page/QuickTime.md "wikilink")，[MP4](../Page/MP4.md "wikilink")，[3GP](https://zh.wikipedia.org/wiki/3GP "wikilink")，[Google
+  - [DirectShow](../Page/DirectShow.md "wikilink")播放（[AVI](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")，[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")，[Matroska](../Page/Matroska.md "wikilink")，[QuickTime](../Page/QuickTime.md "wikilink")，[MP4](../Page/MP4.md "wikilink")，[3GP](https://zh.wikipedia.org/wiki/3GP "wikilink")，[Google
     Video](https://zh.wikipedia.org/wiki/Google_Video "wikilink")，[Flash
     Video](../Page/Flash_Video.md "wikilink")，[VOB](https://zh.wikipedia.org/wiki/VOB "wikilink")，[Ogg](../Page/Ogg.md "wikilink")，[OGM](https://zh.wikipedia.org/wiki/OGM "wikilink")，[RMVB](../Page/RMVB.md "wikilink")，[MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")）
   - RealMedia檔案（需要[Real
@@ -21,7 +21,7 @@
 ## 音/视频格式
 
   - 视频格式：[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-4 Part
-    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")、[H.263(+)](../Page/H.263.md "wikilink")、[H.264
+    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")、[H.263](../Page/H.263.md "wikilink")(+)、[H.264
     (MPEG-4
     AVC)](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")、[MSVIDC](https://zh.wikipedia.org/wiki/Video1 "wikilink")、[MS
     MPEG4

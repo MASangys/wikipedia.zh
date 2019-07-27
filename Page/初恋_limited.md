@@ -3,7 +3,7 @@ limited**》（はつこいリミテッド）是[marble的第](https://zh.wikipe
 
 ## 概要
 
-  - 是marble第一次在[Lantis發行的唱片](../Page/Lantis.md "wikilink")。
+  - 是marble第一次在[Lantis](../Page/Lantis.md "wikilink")發行的唱片。
 
 ## 收錄曲
 

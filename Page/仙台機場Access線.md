@@ -1,6 +1,6 @@
-**仙台機場Access線**（），或又直譯為**仙台機場聯絡線**，是一條連結[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉區的](../Page/青葉區_\(仙台市\).md "wikilink")[仙台站與同縣](https://zh.wikipedia.org/wiki/仙台站 "wikilink")[名取市的](https://zh.wikipedia.org/wiki/名取市 "wikilink")[仙台機場站的鐵道路線](../Page/仙台機場站.md "wikilink")（運行系統）愛稱。[大眾媒體與沿線開發的](../Page/大眾媒體.md "wikilink")[電視廣告則以](../Page/電視廣告.md "wikilink")「仙台機場Access鐵道」（）顯示。
+**仙台機場Access線**（），或又直譯為**仙台機場聯絡線**，是一條連結[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉區的](../Page/青葉區_\(仙台市\).md "wikilink")[仙台站與同縣](https://zh.wikipedia.org/wiki/仙台站 "wikilink")[名取市的](https://zh.wikipedia.org/wiki/名取市 "wikilink")[仙台機場站](../Page/仙台機場站.md "wikilink")的鐵道路線（運行系統）愛稱。[大眾媒體](../Page/大眾媒體.md "wikilink")與沿線開發的[電視廣告](../Page/電視廣告.md "wikilink")則以「仙台機場Access鐵道」（）顯示。
 
-此是將與[仙台機場以最短](../Page/仙台機場.md "wikilink")17分鐘連結的鐵道路線，由以下兩條路線組成。
+此是將與[仙台機場](../Page/仙台機場.md "wikilink")以最短17分鐘連結的鐵道路線，由以下兩條路線組成。
 
   - 仙台站－[名取站](https://zh.wikipedia.org/wiki/名取站 "wikilink")：[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）[東北本線](../Page/東北本線.md "wikilink")
   - 名取站－仙台機場站：[仙台機場鐵道](../Page/仙台機場鐵道.md "wikilink")[仙台機場線](../Page/仙台機場線.md "wikilink")
@@ -18,7 +18,7 @@ JR東日本與仙台機場鐵道在仙台站－仙台機場站間運行各自的
       - 快速…●的車站停靠，｜的車站通過
   - 軌道 …
     ∥：複線路段（東北本線內），∨：此起往下為單線，◇、｜：單線路段（◇可進行[列車交會](https://zh.wikipedia.org/wiki/列車交會 "wikilink")），∧：終點（可進行列車交會）
-  - 所有車站都位於[宮城縣內](../Page/宮城縣.md "wikilink")
+  - 所有車站都位於[宮城縣](../Page/宮城縣.md "wikilink")內
 
 <table>
 <thead>

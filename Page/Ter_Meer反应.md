@@ -13,7 +13,7 @@ Hawthorne (1956)
 
 ## 拓展
 
-同样的底物用[氢氧化钾处理时](../Page/氢氧化钾.md "wikilink")，发生两分子偶联，得邻二硝基烷。\[3\]
+同样的底物用[氢氧化钾](../Page/氢氧化钾.md "wikilink")处理时，发生两分子偶联，得邻二硝基烷。\[3\]
 
 
 [Ter_meer_like_reaction.png](https://zh.wikipedia.org/wiki/File:Ter_meer_like_reaction.png "fig:Ter_meer_like_reaction.png")

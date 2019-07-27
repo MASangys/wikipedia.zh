@@ -1,6 +1,6 @@
 [2009-02-22_Hooters_in_Morrisville.jpg](https://zh.wikipedia.org/wiki/File:2009-02-22_Hooters_in_Morrisville.jpg "fig:2009-02-22_Hooters_in_Morrisville.jpg")
 [Hooters_in_Hong_Kong.jpg](https://zh.wikipedia.org/wiki/File:Hooters_in_Hong_Kong.jpg "fig:Hooters_in_Hong_Kong.jpg")
-**Hooters**，是一家連鎖[波霸餐廳](../Page/波霸餐廳.md "wikilink")，1983年创立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，現時全球分店415間。猫头鹰餐厅售賣一般快餐食品，如[三文治及](https://zh.wikipedia.org/wiki/三文治 "wikilink")[漢堡包外](../Page/漢堡包.md "wikilink")。不过此店以性感的女[侍應作为特色招徠](https://zh.wikipedia.org/wiki/侍應 "wikilink")，女侍應都是以爆乳小背心及熱褲為制服。因此亦造就了不少年輕女服务员進軍演藝界，例如曾在《[曼哈頓奇緣](../Page/曼哈頓奇緣.md "wikilink")》中當主角的[艾美·亞當斯](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")\[1\]。猫头鹰餐厅更會將女侍應的照片印刷成[月曆](https://zh.wikipedia.org/wiki/月曆 "wikilink")、[撲克及](../Page/撲克.md "wikilink")[襯衫等周邊產品](https://zh.wikipedia.org/wiki/襯衫 "wikilink")，以增加收入。
+**Hooters**，是一家連鎖[波霸餐廳](../Page/波霸餐廳.md "wikilink")，1983年创立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，現時全球分店415間。猫头鹰餐厅售賣一般快餐食品，如[三文治及](https://zh.wikipedia.org/wiki/三文治 "wikilink")[漢堡包](../Page/漢堡包.md "wikilink")外。不过此店以性感的女[侍應作为特色招徠](https://zh.wikipedia.org/wiki/侍應 "wikilink")，女侍應都是以爆乳小背心及熱褲為制服。因此亦造就了不少年輕女服务员進軍演藝界，例如曾在《[曼哈頓奇緣](../Page/曼哈頓奇緣.md "wikilink")》中當主角的[艾美·亞當斯](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")\[1\]。猫头鹰餐厅更會將女侍應的照片印刷成[月曆](https://zh.wikipedia.org/wiki/月曆 "wikilink")、[撲克](../Page/撲克.md "wikilink")及[襯衫等周邊產品](https://zh.wikipedia.org/wiki/襯衫 "wikilink")，以增加收入。
 
 [Hooters_Calendar_Girl_Melissa_Poe.jpg](https://zh.wikipedia.org/wiki/File:Hooters_Calendar_Girl_Melissa_Poe.jpg "fig:Hooters_Calendar_Girl_Melissa_Poe.jpg")
 
@@ -9,7 +9,7 @@
 ### 香港招聘廣告用簡體字極有可能違反《性別歧視條例》
 
 2016年4月，Hooters Hong
-Kong在他們的[Facebook專頁發佈招聘](../Page/Facebook.md "wikilink")[廣告](../Page/廣告.md "wikilink")，而招募類別中的[酒吧](https://zh.wikipedia.org/wiki/酒吧 "wikilink")[櫃檯](https://zh.wikipedia.org/wiki/櫃檯 "wikilink")[服务员及](https://zh.wikipedia.org/wiki/服务员 "wikilink")[餐廳值班](https://zh.wikipedia.org/wiki/餐廳 "wikilink")[主管](https://zh.wikipedia.org/wiki/主管 "wikilink")，都列明是「只限女性」，極有可能違反《[性別歧視條例](https://zh.wikipedia.org/wiki/性別歧視條例 "wikilink")》。
+Kong在他們的[Facebook](../Page/Facebook.md "wikilink")專頁發佈招聘[廣告](../Page/廣告.md "wikilink")，而招募類別中的[酒吧](https://zh.wikipedia.org/wiki/酒吧 "wikilink")[櫃檯](https://zh.wikipedia.org/wiki/櫃檯 "wikilink")[服务员及](https://zh.wikipedia.org/wiki/服务员 "wikilink")[餐廳值班](https://zh.wikipedia.org/wiki/餐廳 "wikilink")[主管](https://zh.wikipedia.org/wiki/主管 "wikilink")，都列明是「只限女性」，極有可能違反《[性別歧視條例](https://zh.wikipedia.org/wiki/性別歧視條例 "wikilink")》。
 在招聘廣告中，Hooters Hong
 Kong使用的文字卻只有[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")，似乎對香港不甚了解，\[2\]被指不尊重[港人文化](../Page/香港文化.md "wikilink")。經《[熱血時報](../Page/熱血時報.md "wikilink")》4月9日早上報道了有關新聞之後，不少網民都去到Hooters
 Hong Kong的Facebook專頁留言表達不滿，更有網民表明杯葛。

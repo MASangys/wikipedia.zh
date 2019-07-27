@@ -176,4 +176,4 @@
 [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
 
 1.  球员必需正式退役满五年才有资格入选[美国篮球名人堂](https://zh.wikipedia.org/wiki/美国篮球名人堂 "wikilink").
-2.  在[2007-08賽季中途](../Page/2007-08_NBA赛季.md "wikilink")[沙奎尔·奥尼尔被交換至菲尼克斯太阳](../Page/沙奎尔·奥尼尔.md "wikilink").
+2.  在[2007-08賽季中途](../Page/2007-08_NBA赛季.md "wikilink")[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")被交換至菲尼克斯太阳.

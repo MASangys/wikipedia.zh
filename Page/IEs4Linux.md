@@ -1,4 +1,4 @@
-**IEs4Linux**是一個自由及[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[腳本](../Page/脚本语言.md "wikilink")，它允許用戶透過[Wine運行](../Page/Wine.md "wikilink")[Internet
+**IEs4Linux**是一個自由及[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[腳本](../Page/脚本语言.md "wikilink")，它允許用戶透過[Wine](../Page/Wine.md "wikilink")運行[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")。它可以安裝Internet
 Explorer版本[5](../Page/Internet_Explorer_5.md "wikilink")、[5.5和](../Page/Internet_Explorer_5.md "wikilink")[6](../Page/Internet_Explorer_6.md "wikilink")，而[Internet
 Explorer

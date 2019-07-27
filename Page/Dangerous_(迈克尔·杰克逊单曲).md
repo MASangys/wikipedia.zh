@@ -1,4 +1,4 @@
-**Dangerous**（[中文译名](https://zh.wikipedia.org/wiki/中文 "wikilink")：**危险**）是流行乐天王[迈克尔·杰克逊的第](../Page/迈克尔·杰克逊.md "wikilink")8张[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")[Dangerous里的同名单曲](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink")，发布于1993年12月29日，这是Dangerous专辑最后一首单曲，也是杰克逊第一首长度超过7分钟的歌曲。
+**Dangerous**（[中文译名](https://zh.wikipedia.org/wiki/中文 "wikilink")：**危险**）是流行乐天王[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的第8张[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")[Dangerous里的同名单曲](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink")，发布于1993年12月29日，这是Dangerous专辑最后一首单曲，也是杰克逊第一首长度超过7分钟的歌曲。
 
 这首歌是由杰克逊、[比尔·波特尔和](https://zh.wikipedia.org/wiki/比尔·波特尔 "wikilink")[泰迪·莱利共同谱写的](https://zh.wikipedia.org/wiki/泰迪·莱利 "wikilink")，这首歌被规划为Dangerous专辑的第十支单曲，这些计划取消后，在1993年8月，杰克逊的[娈童案爆发](https://zh.wikipedia.org/wiki/1993年对迈克尔·杰克逊儿童性虐待的指控 "wikilink")。
 

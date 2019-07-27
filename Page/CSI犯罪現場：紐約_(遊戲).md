@@ -1,6 +1,6 @@
 《**CSI犯罪現場：紐約**》（*CSI:
 NY*）是一套基於電視劇《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。該遊戲由[369
-Interactive開發](https://zh.wikipedia.org/wiki/369_Interactive "wikilink")，[育碧软件發行](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")，[PC平台](../Page/PC.md "wikilink")，2003年發表，並由[Aspyr於](https://zh.wikipedia.org/wiki/Aspyr "wikilink")[Mac上發行](https://zh.wikipedia.org/wiki/Mac "wikilink")。
+Interactive開發](https://zh.wikipedia.org/wiki/369_Interactive "wikilink")，[育碧软件發行](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")，[PC](../Page/PC.md "wikilink")平台，2003年發表，並由[Aspyr於](https://zh.wikipedia.org/wiki/Aspyr "wikilink")[Mac上發行](https://zh.wikipedia.org/wiki/Mac "wikilink")。
 
 这款遊戲與《[CSI犯罪現場：黑暗動機](../Page/CSI犯罪現場：黑暗動機.md "wikilink")》、《[CSI犯罪現場：謀殺的三維](../Page/CSI犯罪現場：謀殺的三維.md "wikilink")》及《[CSI犯罪現場：邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場：邁阿密\(遊戲\) "wikilink")》一樣，跟隨五個佈局截然不同的案件，然後在第五個案件中連接之前的四個案件。
 
@@ -27,7 +27,7 @@ Interactive開發](https://zh.wikipedia.org/wiki/369_Interactive "wikilink")，[
 ## 外部連結
 
   -
-  - [GameSpot上](../Page/GameSpot.md "wikilink")[CSI犯罪現場的評論](http://www.gamespot.com/pc/adventure/csicrimesceneinvestigation/index.html?q=csi)
+  - [GameSpot](../Page/GameSpot.md "wikilink")上[CSI犯罪現場的評論](http://www.gamespot.com/pc/adventure/csicrimesceneinvestigation/index.html?q=csi)
 
 [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
 [Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink")

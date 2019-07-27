@@ -3,7 +3,7 @@ Modelling）是一款采用[广义线性模型计算方法的统计软件](https
 Algorithms
 Group发布了最后的版本](https://zh.wikipedia.org/wiki/:en:Numerical_Algorithms_Group "wikilink")（GLIM4）\[3\]\[4\]。
 
-GLIM被认为是第一个使用[广义线性模型计算方法的统计软件](https://zh.wikipedia.org/wiki/广义线性模型 "wikilink")，并加入了互动，[迭代方法等统计模型](../Page/迭代.md "wikilink")\[5\]。GLIM使用命令行界面，允许用户定义自己的[宏模块](https://zh.wikipedia.org/wiki/宏 "wikilink")。
+GLIM被认为是第一个使用[广义线性模型计算方法的统计软件](https://zh.wikipedia.org/wiki/广义线性模型 "wikilink")，并加入了互动，[迭代](../Page/迭代.md "wikilink")方法等统计模型\[5\]。GLIM使用命令行界面，允许用户定义自己的[宏模块](https://zh.wikipedia.org/wiki/宏 "wikilink")。
 
 GLIM已经不再更新版本。在一些学术研究机构，可能还可以找到装有GLIM的计算机。
 

@@ -1,7 +1,7 @@
 **Fixedsys**，全名為"Fixed
 System"，是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")（Microsoft）於1980年代所創造的一套[固定字元寬度的](https://zh.wikipedia.org/wiki/固定字元寬度 "wikilink")[無襯線](https://zh.wikipedia.org/wiki/無襯線 "wikilink")[字型](../Page/字型.md "wikilink")。Fixedsys是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統中最古老的字型之一](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並且是[Windows
 1.0和](../Page/Windows_1.0.md "wikilink")[2.0時代的系統字型](../Page/Windows_2.0.md "wikilink")。雖然[Windows
-3.0以後的系統字型改變為](https://zh.wikipedia.org/wiki/Windows_3.0 "wikilink")[System](https://zh.wikipedia.org/wiki/System_\(字型\) "wikilink")，但Fixedsys仍被部份[程式採用為預設字型](https://zh.wikipedia.org/wiki/程式 "wikilink")，例如[記事本程式直到](../Page/記事本.md "wikilink")[Windows
+3.0以後的系統字型改變為](https://zh.wikipedia.org/wiki/Windows_3.0 "wikilink")[System](https://zh.wikipedia.org/wiki/System_\(字型\) "wikilink")，但Fixedsys仍被部份[程式採用為預設字型](https://zh.wikipedia.org/wiki/程式 "wikilink")，例如[記事本](../Page/記事本.md "wikilink")程式直到[Windows
 Me的版本皆預設使用Fixedsys顯示](../Page/Windows_Me.md "wikilink")。
 
 Fixedsys是[點陣字型](https://zh.wikipedia.org/wiki/点阵字体 "wikilink")，只有12點的大小，這意謂Fixedsys不像一般字型一樣可以自由縮小或放大且保持良好的[可讀性](https://zh.wikipedia.org/wiki/可讀性 "wikilink")（不過鋸齒狀邊緣也成為其特色）。Fixedsys並非在所有程式中皆能正常顯示。

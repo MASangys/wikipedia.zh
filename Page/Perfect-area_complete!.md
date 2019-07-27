@@ -1,5 +1,5 @@
 《'''Perfect-area complete\!
-'''》是[麻生夏子的第](../Page/麻生夏子.md "wikilink")3張單曲。於2010年1月27日由[Lantis公司發行](../Page/Lantis.md "wikilink")。
+'''》是[麻生夏子](../Page/麻生夏子.md "wikilink")的第3張單曲。於2010年1月27日由[Lantis](../Page/Lantis.md "wikilink")公司發行。
 
 ## 收錄曲
 

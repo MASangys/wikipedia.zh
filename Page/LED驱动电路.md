@@ -21,7 +21,7 @@ LED工作於[直流電](../Page/直流電.md "wikilink")，其順向偏壓與電
 
 [LED
 極性\[1\]](https://zh.wikipedia.org/wiki/File:+-_of_LED.svg "fig:LED 極性")
-由於LED工作於直流電，連接線路時必須確保[極性方向正確才能正常工作](https://zh.wikipedia.org/wiki/極性 "wikilink")。與[二極管一樣](../Page/二極管.md "wikilink")，LED的接腳分[正極](https://zh.wikipedia.org/wiki/正極 "wikilink")（陽極、+）及[負極](https://zh.wikipedia.org/wiki/負極 "wikilink")（陰極、-），電流必须由正極流向負極，LED才能[發光](https://zh.wikipedia.org/wiki/發光 "wikilink")。
+由於LED工作於直流電，連接線路時必須確保[極性方向正確才能正常工作](https://zh.wikipedia.org/wiki/極性 "wikilink")。與[二極管](../Page/二極管.md "wikilink")一樣，LED的接腳分[正極](https://zh.wikipedia.org/wiki/正極 "wikilink")（陽極、+）及[負極](https://zh.wikipedia.org/wiki/負極 "wikilink")（陰極、-），電流必须由正極流向負極，LED才能[發光](https://zh.wikipedia.org/wiki/發光 "wikilink")。
 
 LED接腳的極性一般可以由其[封裝上看出](https://zh.wikipedia.org/wiki/封裝 "wikilink")，但不同封裝其標示方式也不同。除封裝外，也有其他途徑得知LED的極性，以下列出常見的標示方法：
 
@@ -100,7 +100,7 @@ LED接腳的極性一般可以由其[封裝上看出](https://zh.wikipedia.org/w
 [LEDCircuit.PNG](https://zh.wikipedia.org/wiki/File:LEDCircuit.PNG "fig:LEDCircuit.PNG")
 [LEDx2Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx2Circuit.PNG "fig:LEDx2Circuit.PNG")
 [LEDx4Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx4Circuit.PNG "fig:LEDx4Circuit.PNG")
-要推動LED就要控制流過LED的電流，基本推動方法就是將LED跟電阻串聯，以電阻限制電流在一定的範圍內。這個方法好處是簡單、成本低，但缺點是不少[能量在電阻轉化為](../Page/能量.md "wikilink")[熱能而浪費掉](https://zh.wikipedia.org/wiki/熱能 "wikilink")，而且LED的光度也隨著溫度、電壓、LED生產時的特性差異而有比較大的變化。
+要推動LED就要控制流過LED的電流，基本推動方法就是將LED跟電阻串聯，以電阻限制電流在一定的範圍內。這個方法好處是簡單、成本低，但缺點是不少[能量](../Page/能量.md "wikilink")在電阻轉化為[熱能而浪費掉](https://zh.wikipedia.org/wiki/熱能 "wikilink")，而且LED的光度也隨著溫度、電壓、LED生產時的特性差異而有比較大的變化。
 
 以電阻控制LED電流時，其電阻計算方法如下：
 

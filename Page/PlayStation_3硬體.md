@@ -3,13 +3,13 @@
 3的](../Page/PlayStation_3.md "wikilink")[硬件](https://zh.wikipedia.org/wiki/电脑硬件 "wikilink")**包括本体内部硬件系统及各种外围设备，例如
 DUALSHOCK 3 控制器。
 除非另有说明，以下规格是基于索尼在2005年[E3会议上发布的新闻稿](https://zh.wikipedia.org/wiki/E3 "wikilink")，\[1\]
-以及2006年[游戏开发者大会上索尼公布的幻灯片](../Page/游戏开发者大会.md "wikilink")。\[2\]
+以及2006年[游戏开发者大会](../Page/游戏开发者大会.md "wikilink")上索尼公布的幻灯片。\[2\]
 
 ## 中央处理器
 
 PS3使用 [Cell微处理器](https://zh.wikipedia.org/wiki/Cell "wikilink")（Cell
 Broad Engine）,它是由一个3.2 GHz
-基于[PowerPC处理器架构的](../Page/PowerPC.md "wikilink")64位“[Power处理单元](https://zh.wikipedia.org/wiki/Cell "wikilink")”（[PPE](https://zh.wikipedia.org/wiki/PPE "wikilink")）控制核心和8个完全一样的[向量协处理单元](https://zh.wikipedia.org/wiki/Cell "wikilink")（[SPE](https://zh.wikipedia.org/wiki/SPE "wikilink")）运算核心。8个SPE核心中的第7个用于操作系统和安全方面，第8个是备用核心，用以提高工作效率。PlayStation
+基于[PowerPC](../Page/PowerPC.md "wikilink")处理器架构的64位“[Power处理单元](https://zh.wikipedia.org/wiki/Cell "wikilink")”（[PPE](https://zh.wikipedia.org/wiki/PPE "wikilink")）控制核心和8个完全一样的[向量协处理单元](https://zh.wikipedia.org/wiki/Cell "wikilink")（[SPE](https://zh.wikipedia.org/wiki/SPE "wikilink")）运算核心。8个SPE核心中的第7个用于操作系统和安全方面，第8个是备用核心，用以提高工作效率。PlayStation
 3游戏机的Cell处理器[单精度](https://zh.wikipedia.org/wiki/单精度 "wikilink")[浮点运算达到](https://zh.wikipedia.org/wiki/浮点运算 "wikilink")204
 G[FLOPS](../Page/浮点数.md "wikilink")，[双精度浮点运算达到](https://zh.wikipedia.org/wiki/双精度 "wikilink")15
 GFLOPS。
@@ -375,8 +375,8 @@ PS3支持多种分辨率的的普清电视和高清电视（从[480i](https://zh
 TrueHD](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")、[DTS-HD
 Master
 Audio等等](../Page/DTS-HD_Master_Audio.md "wikilink")；音频输出方面或许超过RCA立体声及光纤数字。在光盘驱动器方面，PS3支持相当多种类的DVD和CD格式，当然还包括蓝光光盘。而PS3本身还预装一块2.5英寸[SATA
-150](https://zh.wikipedia.org/wiki/Serial_ATA "wikilink")[硬盘](../Page/硬盘.md "wikilink")，硬盘有20、40、60、80、120、160、250、320、500GB等不同容量规格。早期60G和80G版本上更自带读卡器，可以直读[MS卡](https://zh.wikipedia.org/wiki/MS "wikilink")、[CF卡和](https://zh.wikipedia.org/wiki/CF "wikilink")[SD](https://zh.wikipedia.org/wiki/SD "wikilink")、[MMC卡](https://zh.wikipedia.org/wiki/MMC "wikilink")。PS3支持几乎所有的USB存储设备，包括[数码相机](../Page/数码相机.md "wikilink")、[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、闪存驱动器及外置硬盘等存储设备都可以被PS3自动识别，但是这些存储设备的系统文件格式必须是[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")—PS3不支持[NTFS格式系统文件](../Page/NTFS.md "wikilink")。\[23\]
-USB接口[打印机也可以被PS](../Page/打印机.md "wikilink")3识别并使用。而关于通讯，20和60GB型号以及NTSC80GB型号在前面板上提供4个[USB
+150](https://zh.wikipedia.org/wiki/Serial_ATA "wikilink")[硬盘](../Page/硬盘.md "wikilink")，硬盘有20、40、60、80、120、160、250、320、500GB等不同容量规格。早期60G和80G版本上更自带读卡器，可以直读[MS卡](https://zh.wikipedia.org/wiki/MS "wikilink")、[CF卡和](https://zh.wikipedia.org/wiki/CF "wikilink")[SD](https://zh.wikipedia.org/wiki/SD "wikilink")、[MMC卡](https://zh.wikipedia.org/wiki/MMC "wikilink")。PS3支持几乎所有的USB存储设备，包括[数码相机](../Page/数码相机.md "wikilink")、[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、闪存驱动器及外置硬盘等存储设备都可以被PS3自动识别，但是这些存储设备的系统文件格式必须是[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")—PS3不支持[NTFS](../Page/NTFS.md "wikilink")格式系统文件。\[23\]
+USB接口[打印机](../Page/打印机.md "wikilink")也可以被PS3识别并使用。而关于通讯，20和60GB型号以及NTSC80GB型号在前面板上提供4个[USB
 2.0接口](https://zh.wikipedia.org/wiki/Universal_Serial_Bus "wikilink")，
 但40GB和80GB PAL
 型号仅有2个USB接口。2008年8月之后发行的所有型号均减少2个USB接口以及取消CF卡、SD卡及MS卡读卡器。所有40、60、80、120、160及250GB型号主机均提供一个[千兆以太网接口](../Page/吉比特以太网.md "wikilink"),
@@ -403,7 +403,7 @@ RSX，因此功耗降低至90-120W。 而PS3 Slim由于使用了45 nm Cell，�
 | ---------------------------------------------------------- |
 |                                                            |
 | 待机                                                         |
-| [XMB画面](../Page/XMB.md "wikilink")                         |
+| [XMB](../Page/XMB.md "wikilink")画面                         |
 | 游戏中（[FF13](https://zh.wikipedia.org/wiki/FF13 "wikilink")） |
 | BD电影播放                                                     |
 
@@ -458,7 +458,7 @@ type allowing the use of:
 
 ### CD
 
-[CD光驱为](../Page/CD.md "wikilink")24倍速, region coded type allowing the
+[CD](../Page/CD.md "wikilink")光驱为24倍速, region coded type allowing the
 use of:
 
   - [PlayStation 2](../Page/PlayStation_2.md "wikilink") CD-ROM\[44\]
@@ -483,12 +483,12 @@ use of:
 
 PlayStation
 3[Sixaxis](https://zh.wikipedia.org/wiki/PlayStation_3_配件#SIXAXIS "wikilink")\[51\]
-是PS3的专用控制器，它的外观酷似其前辈[DualShock和](../Page/DualShock.md "wikilink")[DualShock
+是PS3的专用控制器，它的外观酷似其前辈[DualShock](../Page/DualShock.md "wikilink")和[DualShock
 2](https://zh.wikipedia.org/wiki/DualShock#DualShock_2 "wikilink")。SIXAXIS有着更灵敏的模拟感应性能；重新设计的R2和L2键；手柄正中的“PS”按钮；一个迷你USB接口用于手柄内置电池充电及连接主机（PS3或PC）作有线控制。The
 SIXAXIS features finer analog
 sensitivity;\[52\]PS3最大可以同时连接7个蓝牙设备。但是与PS2的DualShock
 2 不一样的是，Sixaxis并不带震动功能。
-在2007年[东京电玩展发布会上](../Page/东京电玩展.md "wikilink")，索尼发布了[DualShock
+在2007年[东京电玩展](../Page/东京电玩展.md "wikilink")发布会上，索尼发布了[DualShock
 3](https://zh.wikipedia.org/wiki/DualShock_3 "wikilink")（商标为DUALSHOCK
 3）作为Sixaxis加入震动功能的替代升级版。
 
@@ -499,7 +499,7 @@ Japan, the device was available starting December 7, 2006.
 PS3仅接收其控制器发出的蓝牙通信信号，而没有通常的红外信号接收器，这防止了系统被通用遥控器所操作和干扰。
 
 2007年4月25日，SONY正式对外发布[PlayStation
-Eye](https://zh.wikipedia.org/wiki/PlayStation_Eye "wikilink")。这是PS2[EyeToy的PS](../Page/EyeToy.md "wikilink")3升级版。
+Eye](https://zh.wikipedia.org/wiki/PlayStation_Eye "wikilink")。这是PS2[EyeToy](../Page/EyeToy.md "wikilink")的PS3升级版。
 官方PlayStation 3游戏机的HDMI和色差线也可用于零售。
 
 ## 向下兼容

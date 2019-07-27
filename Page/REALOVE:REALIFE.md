@@ -1,4 +1,4 @@
-《**REALOVE:REALIFE**》（）是聲優團體[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2010年4月21日由[Lantis發行](../Page/Lantis.md "wikilink")。\[1\]
+《**REALOVE:REALIFE**》（）是聲優團體[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2010年4月21日由[Lantis](../Page/Lantis.md "wikilink")發行。\[1\]
 
 ## 概要
 

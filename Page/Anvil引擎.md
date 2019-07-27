@@ -48,15 +48,15 @@ One](../Page/Xbox_One.md "wikilink"), 和 [PlayStation
 [Claude
 Langlais](https://zh.wikipedia.org/wiki/Claude_Langlais "wikilink")（[育碧蒙特婁的技術總監](https://zh.wikipedia.org/wiki/育碧蒙特婁 "wikilink")）表示Anvil引擎中的環境場景利用
 [3ds Max來建模](../Page/3ds_Max.md "wikilink")，而角色則是利用
-[ZBrush來建模](../Page/ZBrush.md "wikilink")。\[5\] 本引擎在執行時使用
-[Autodesk的](../Page/Autodesk.md "wikilink")
+[ZBrush](../Page/ZBrush.md "wikilink")來建模。\[5\] 本引擎在執行時使用
+[Autodesk](../Page/Autodesk.md "wikilink")的
 [HumanIK中介軟體使角色在攀登與奔跑時手與腳能在正確的位置](https://zh.wikipedia.org/wiki/HumanIK "wikilink")
 。\[6\]在《刺客教條2》時Anvil被做出多項的改良，加強內容包括增加日夜循環、增強景深距離，加入被使用於[Far Cry
 2的場景植被技術](https://zh.wikipedia.org/wiki/Far_Cry_2 "wikilink")，增強光影、反射與特殊效果，新的服裝系統、新的AI與NPC行進導航系統。
 \[7\]由Hybride Technologies（被育碧收購的前製特效工作室）與Ubisoft Digital
 Arts製作的短片*Assassin's Creed: Lineage*
 也使用Anvil中的場景素材來再製，以供真人演員拍攝\[8\]。[刺客教條III将采用新一代名叫](https://zh.wikipedia.org/wiki/刺客教條III "wikilink")“AnvilNext”的引擎开发。据《刺客信条》研发主管Tommy
-Francois称，“AnvilNext”引擎可以让屏幕上同时出现2000个人物，实现动态天气系统并且对动画系统进行革命性的创新。“AnvilNext”是[刺客教條2](https://zh.wikipedia.org/wiki/刺客教條2 "wikilink")、[刺客教條：兄弟會和](../Page/刺客教條：兄弟會.md "wikilink")[刺客教條：啟示錄所采用的](../Page/刺客教條：啟示錄.md "wikilink")“Anvil”引擎的升级版，"Anvil"引擎本身也是[刺客教條所采用的](../Page/刺客教條_\(遊戲\).md "wikilink")“Scimitar”引擎的升级版。
+Francois称，“AnvilNext”引擎可以让屏幕上同时出现2000个人物，实现动态天气系统并且对动画系统进行革命性的创新。“AnvilNext”是[刺客教條2](https://zh.wikipedia.org/wiki/刺客教條2 "wikilink")、[刺客教條：兄弟會](../Page/刺客教條：兄弟會.md "wikilink")和[刺客教條：啟示錄](../Page/刺客教條：啟示錄.md "wikilink")所采用的“Anvil”引擎的升级版，"Anvil"引擎本身也是[刺客教條所采用的](../Page/刺客教條_\(遊戲\).md "wikilink")“Scimitar”引擎的升级版。
 
 ## 參考資料
 

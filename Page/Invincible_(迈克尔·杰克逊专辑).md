@@ -1,4 +1,4 @@
-《**Invincible**》（[中国大陆](../Page/中国大陆.md "wikilink")[译名](../Page/翻译.md "wikilink")：**无敌**或**天下无敌**，[台湾译名](https://zh.wikipedia.org/wiki/台湾 "wikilink")：**万夫莫敌**）是美國歌手[迈克尔·杰克逊發行第七张英語專輯](../Page/迈克尔·杰克逊.md "wikilink")，也是最后一张个人专辑。
+《**Invincible**》（[中国大陆](../Page/中国大陆.md "wikilink")[译名](../Page/翻译.md "wikilink")：**无敌**或**天下无敌**，[台湾译名](https://zh.wikipedia.org/wiki/台湾 "wikilink")：**万夫莫敌**）是美國歌手[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")發行第七张英語專輯，也是最后一张个人专辑。
 
 ## 專輯介紹
 

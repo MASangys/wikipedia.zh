@@ -1,9 +1,9 @@
 《**No
-Regret**》為2006年1月25日發行的[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未第](../Page/倖田來未.md "wikilink")26th單曲。
+Regret**》為2006年1月25日發行的[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")第26th單曲。
 
 ## 解說
 
-  - [12週單曲連發的第](../Page/12週單曲連發.md "wikilink")8彈。單曲封面主題為[印度](../Page/印度.md "wikilink")。
+  - [12週單曲連發](../Page/12週單曲連發.md "wikilink")的第8彈。單曲封面主題為[印度](../Page/印度.md "wikilink")。
   - 第1彈《[you](https://zh.wikipedia.org/wiki/you "wikilink")》以來的非限定生產單曲。
   - 《No
     Regret》的音樂錄影帶有《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》中的峰不二子的圖像。

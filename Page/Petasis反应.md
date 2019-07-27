@@ -1,5 +1,5 @@
 **Petasis反应**（Petasis
-reaction），是[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[醛与](../Page/醛.md "wikilink")[烯基](https://zh.wikipedia.org/wiki/烯基 "wikilink")／[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[硼酸反应生成](../Page/硼酸.md "wikilink")[取代胺类的反应](../Page/取代基.md "wikilink")。\[1\]\[2\]\[3\]
+reaction），是[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[醛](../Page/醛.md "wikilink")与[烯基](https://zh.wikipedia.org/wiki/烯基 "wikilink")／[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[硼酸](../Page/硼酸.md "wikilink")反应生成[取代胺类的反应](../Page/取代基.md "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Petasis_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Petasis_Reaction_Scheme.png "fig:Petasis_Reaction_Scheme.png")

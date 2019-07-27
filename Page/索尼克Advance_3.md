@@ -1,6 +1,6 @@
 《**索尼克Advance 3**》（*Sonic Advance 3*）是以任天堂掌机[Game Boy
 Advance为平台的](../Page/Game_Boy_Advance.md "wikilink")[索尼克进化系列的最后一作](https://zh.wikipedia.org/wiki/索尼克进化系列 "wikilink")，由[Sonic
-Team和](../Page/Sonic_Team.md "wikilink")[Dimps开发](../Page/Dimps.md "wikilink")，[世嘉和](../Page/世嘉.md "wikilink")[THQ发行](https://zh.wikipedia.org/wiki/THQ "wikilink")。本游戏最初在2004年6月7日发行美版，随后在同年6月10日发行日版，同年6月24日发行欧版。本作相对于前两作《[索尼克进化](https://zh.wikipedia.org/wiki/索尼克进化 "wikilink")》和《[索尼克进化2](https://zh.wikipedia.org/wiki/索尼克进化2 "wikilink")》在可玩性和耐玩性方面性有了很大的提高，而且制作的无论是图像还是背景音乐都较以前有很大进步。
+Team和](../Page/Sonic_Team.md "wikilink")[Dimps](../Page/Dimps.md "wikilink")开发，[世嘉](../Page/世嘉.md "wikilink")和[THQ发行](https://zh.wikipedia.org/wiki/THQ "wikilink")。本游戏最初在2004年6月7日发行美版，随后在同年6月10日发行日版，同年6月24日发行欧版。本作相对于前两作《[索尼克进化](https://zh.wikipedia.org/wiki/索尼克进化 "wikilink")》和《[索尼克进化2](https://zh.wikipedia.org/wiki/索尼克进化2 "wikilink")》在可玩性和耐玩性方面性有了很大的提高，而且制作的无论是图像还是背景音乐都较以前有很大进步。
 
 ## 游戏要素
 

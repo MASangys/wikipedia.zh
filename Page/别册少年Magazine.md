@@ -264,7 +264,7 @@
 
   - スズナリ〜あやなし甚吉奇聞録〜（大峰ショウコ）2009年11月號～2010年3月號
 
-  - [×××HOLiC·笼](../Page/×××HOLiC.md "wikilink") 增刊6號～2011年3月號 ※从
+  - [×××HOLiC](../Page/×××HOLiC.md "wikilink")·笼 增刊6號～2011年3月號 ※从
     [週刊Young Magazine移籍](../Page/週刊Young_Magazine.md "wikilink")
 
   - [殼中少女](https://zh.wikipedia.org/wiki/殼中少女 "wikilink")（原作：[冲方丁](../Page/冲方丁.md "wikilink")、漫画：[大今良時](../Page/大今良時.md "wikilink")）2009年11月號～2012年6月號
@@ -292,7 +292,7 @@
     ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
   - [即使如此我還是喜歡妳](../Page/馬子們！寫給曾經被我愛過傷害過的你們.md "wikilink")（原作：[徐譽庭](../Page/徐譽庭.md "wikilink")、漫畫：繪本奈央）2014年8月號～2016年4月號
-    ※從 [週刊少年Magazine移籍](../Page/週刊少年Magazine.md "wikilink")
+    ※從 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")移籍
 
   - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")（若林稔弥）2014年9月號～2015年4月號 ※移籍至
     [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
@@ -302,7 +302,7 @@
   - [迷え！七つの大罪学園！](../Page/七大罪_\(漫畫\).md "wikilink")（原作：鈴木央、漫畫：球木拾壹）2014年9月號～2016年11月號
 
   - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（[ヒロユキ](https://zh.wikipedia.org/wiki/自稱清純派 "wikilink")）2015年7月號～2018年1月號
-    ※從 [週刊少年Magazine移籍](../Page/週刊少年Magazine.md "wikilink")
+    ※從 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")移籍
 
   - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink") 2015年8月號～2017年7月號 ※移籍至
     [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")

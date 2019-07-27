@@ -1,9 +1,9 @@
-**SDN48**是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，由[秋元康於](../Page/秋元康.md "wikilink")2009年創立，為[AKB48的姊妹團體](../Page/AKB48.md "wikilink")，但與AKB48不同的是以[性感路線為特色](../Page/性感.md "wikilink")、成員的整體年齡也較大。原則上每週六晩上8時30分開始，於平時由AKB48使用的[秋葉原](../Page/秋葉原.md "wikilink")[AKB48劇場進行公演](../Page/AKB48劇場.md "wikilink")\[1\]。2012年3月31日所有成員[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，團體的活動事實上已完全終止。
+**SDN48**是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，由[秋元康](../Page/秋元康.md "wikilink")於2009年創立，為[AKB48](../Page/AKB48.md "wikilink")的姊妹團體，但與AKB48不同的是以[性感](../Page/性感.md "wikilink")路線為特色、成員的整體年齡也較大。原則上每週六晩上8時30分開始，於平時由AKB48使用的[秋葉原](../Page/秋葉原.md "wikilink")[AKB48劇場](../Page/AKB48劇場.md "wikilink")進行公演\[1\]。2012年3月31日所有成員[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，團體的活動事實上已完全終止。
 
 ## 簡介
 
-  - 與AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48等姐妹團體相同](../Page/NMB48.md "wikilink")，所有歌曲填詞皆由[AKB48集團總製作人秋元康一手包辦](../Page/AKB48集團.md "wikilink")。團體的經營與AKB48同樣由[AKS負責](../Page/AKS.md "wikilink")。
-  - 固定於[星期六晚上進行公演](../Page/星期六.md "wikilink")，因此取其中的三個英文字
+  - 與AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")等姐妹團體相同，所有歌曲填詞皆由[AKB48集團](../Page/AKB48集團.md "wikilink")總製作人秋元康一手包辦。團體的經營與AKB48同樣由[AKS](../Page/AKS.md "wikilink")負責。
+  - 固定於[星期六](../Page/星期六.md "wikilink")晚上進行公演，因此取其中的三個英文字
     **S**atur**D**ay **N**ight 而成為團體名字。
   - 由於當初公演為下午8時30分開演（最初規劃為下午10時），公演結束時間將會超過下午10時，與青少年保護育成條例牴觸，加上公演內容不適合青少年觀賞，因此未滿18歲及所有高中生，不得觀賞公演。不過自2009年12月起，19時開演的公演，滿18歲的高中生將准許觀賞。出道之後也會在星期六日間、假日等其他時間舉行公演。
   - 2012年3月31日在[NHK音樂廳舉行](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")
@@ -59,7 +59,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Production尾木" title="wikilink">Production尾木</a></p></td>
 <td><p>原AKB48 Team A（初代）<br />
 原AKB48 Team B（初代）<br />
-现<a href="../Page/走廊奔跑隊7.md" title="wikilink">走廊奔跑隊7暂定成员</a></p></td>
+现<a href="../Page/走廊奔跑隊7.md" title="wikilink">走廊奔跑隊7</a>暂定成员</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大河內美紗.md" title="wikilink">大河內美紗</a></p></td>
@@ -147,7 +147,7 @@
 <td></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>原<a href="../Page/SKE48.md" title="wikilink">SKE48Team</a> KII<br />
+<td><p>原<a href="../Page/SKE48.md" title="wikilink">SKE48</a>Team KII<br />
 舊藝名：原田櫻怜、前田榮子</p></td>
 </tr>
 <tr class="even">
@@ -1029,7 +1029,7 @@ PROD-1001</p></td>
 ## 出道歌曲選拔成員結果
 
 SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music LLC發行。
-而本單曲將選出12名選拔成員，而選拔方式則在[朝日電視台節目すっぽんの女たち內進行](../Page/朝日電視台.md "wikilink")。而選拔準則則有3點。
+而本單曲將選出12名選拔成員，而選拔方式則在[朝日電視台](../Page/朝日電視台.md "wikilink")節目すっぽんの女たち內進行。而選拔準則則有3點。
 
   - 各成員**Blog的瀏覽數**
   - 節目中官方網站的**投票數**
@@ -1163,7 +1163,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 | 樂曲              | 音樂合作                                                                                               | 收錄作品                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | **MIN・MIN・MIN** | CM:[常盤薬品工業](https://zh.wikipedia.org/wiki/常盤薬品工業 "wikilink")『眠眠打破×SDN48』                           | 3rd單曲「[MIN·MIN·MIN](../Page/MIN·MIN·MIN.md "wikilink")」               |
-| **おねだりシャンパン**   | [富士電視台系](../Page/富士電視台.md "wikilink")『[志村軒](https://zh.wikipedia.org/wiki/志村軒 "wikilink")』8・9月度片尾曲 |                                                                       |
+| **おねだりシャンパン**   | [富士電視台](../Page/富士電視台.md "wikilink")系『[志村軒](https://zh.wikipedia.org/wiki/志村軒 "wikilink")』8・9月度片尾曲 |                                                                       |
 | **クリクリ**        | 富士電視台系『志村軒』2012年3月度片尾曲                                                                             | 5th單曲「[毫不認輸Congratulation](../Page/毫不認輸Congratulation.md "wikilink")」 |
 |                 |                                                                                                    |                                                                       |
 

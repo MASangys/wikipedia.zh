@@ -20,7 +20,7 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
 
   -
     名字取自法語「」（紅心Ace），口頭禪是「」。粉紅色短髮的ES
-    Member見習生，活潑可愛的少女。擁有短距離[瞬間移動的能力](../Page/瞬間移動.md "wikilink")「Push
+    Member見習生，活潑可愛的少女。擁有短距離[瞬間移動](../Page/瞬間移動.md "wikilink")的能力「Push
     Pull」，能力C級。武器是[櫛劍](https://zh.wikipedia.org/wiki/櫛 "wikilink")。平時在GTO所屬咖啡室當服務生。很喜歡[南瓜](../Page/南瓜.md "wikilink")[布丁](../Page/布丁.md "wikilink")。實際上，擁有[瞬間移動](../Page/瞬間移動.md "wikilink")、干涉[空間的能力](https://zh.wikipedia.org/wiki/空間 "wikilink")。本為的妹妹。在死後獲得其能力，是眾多ES
     Member中最強的一個。
 
@@ -33,7 +33,7 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
   -
     名字取自法語「Quatre
     Feuille」（[四葉草](../Page/四葉草.md "wikilink")）。[靛色長髮的ES](https://zh.wikipedia.org/wiki/靛 "wikilink")
-    Member見習生，面冷心熱、像好學生一樣細心的少女。擁有[預知事物的能力](../Page/預知.md "wikilink")「Parfum」（法語：[香水](../Page/香水.md "wikilink")），能力C級。武器是特製巧克力球。平時在GTO所屬咖啡室當服務生。實際上，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")。
+    Member見習生，面冷心熱、像好學生一樣細心的少女。擁有[預知](../Page/預知.md "wikilink")事物的能力「Parfum」（法語：[香水](../Page/香水.md "wikilink")），能力C級。武器是特製巧克力球。平時在GTO所屬咖啡室當服務生。實際上，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")。
 
 ****（Di-air）　聲：[高橋夢波](https://zh.wikipedia.org/wiki/高橋夢波 "wikilink")
 
@@ -134,13 +134,13 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 
   -
     Shadow
-    Worker，職業殺手出身，使用冰凍能力「Frigidity」，可以藉此製造[超導體](../Page/超導體.md "wikilink")。[京都腔](../Page/京都.md "wikilink")。愛慕****。
+    Worker，職業殺手出身，使用冰凍能力「Frigidity」，可以藉此製造[超導體](../Page/超導體.md "wikilink")。[京都](../Page/京都.md "wikilink")腔。愛慕****。
 
 ****（Rubis）　聲：[齋藤楓子](../Page/齋藤楓子.md "wikilink")
 
   -
     Shadow
-    Worker，職業殺手出身，擁有半[獸人能力](../Page/獸人.md "wikilink")「Zoanthrope」，變身後以野獸般的利爪、敏捷及速度戰鬥。個性好戰，亦有幾分同情之心。只忠於自己心中的感覺，對於ガクトエル的行為有所不滿，轉而幫助ディア、ク・フィーユ救回アスクール。
+    Worker，職業殺手出身，擁有半[獸人](../Page/獸人.md "wikilink")能力「Zoanthrope」，變身後以野獸般的利爪、敏捷及速度戰鬥。個性好戰，亦有幾分同情之心。只忠於自己心中的感覺，對於ガクトエル的行為有所不滿，轉而幫助ディア、ク・フィーユ救回アスクール。
 
 ****（Shade）　聲：[飛田展男](../Page/飛田展男.md "wikilink")
 

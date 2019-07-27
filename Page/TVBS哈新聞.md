@@ -20,7 +20,7 @@ NEWS）為[TVBS的晚間娛樂新聞節目](https://zh.wikipedia.org/wiki/TVBS "
 
 ## 同類節目
 
-  - [中天娛樂台的](../Page/中天娛樂台.md "wikilink")《[娛樂山寨姬](../Page/娛樂山寨姬.md "wikilink")》
+  - [中天娛樂台](../Page/中天娛樂台.md "wikilink")的《[娛樂山寨姬](../Page/娛樂山寨姬.md "wikilink")》
 
 ## 參考資料
 

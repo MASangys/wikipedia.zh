@@ -1,4 +1,4 @@
-**K函数**是[hyper阶乘函数在](https://zh.wikipedia.org/wiki/階乘#hyper阶乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")，如同[Γ函数是](../Page/Γ函数.md "wikilink")[阶乘函数在复数上的扩展](https://zh.wikipedia.org/wiki/阶乘 "wikilink")。
+**K函数**是[hyper阶乘函数在](https://zh.wikipedia.org/wiki/階乘#hyper阶乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")，如同[Γ函数](../Page/Γ函数.md "wikilink")是[阶乘函数在复数上的扩展](https://zh.wikipedia.org/wiki/阶乘 "wikilink")。
 K函数的定义为：
 
 \[K(z)=(2\pi)^{(-z-1)/2} \exp\left[\begin{pmatrix} z\\ 2\end{pmatrix}+\int_0^{z-1} \ln(t!)\,dt\right].\]
@@ -7,11 +7,11 @@ K函数的定义为：
 
 \[K(z)=\exp\left[\zeta^\prime(-1,z)-\zeta^\prime(-1)\right].\]
 
-其中，\(\zeta^\prime(z)\)表示[黎曼ζ函數的](../Page/黎曼ζ函數.md "wikilink")[导函数](https://zh.wikipedia.org/wiki/导函数 "wikilink")，而\(\zeta^\prime(a,z)\)则表示[赫维茨ζ函数的导函数](https://zh.wikipedia.org/wiki/赫维茨ζ函数 "wikilink")，即
+其中，\(\zeta^\prime(z)\)表示[黎曼ζ函數](../Page/黎曼ζ函數.md "wikilink")的[导函数](https://zh.wikipedia.org/wiki/导函数 "wikilink")，而\(\zeta^\prime(a,z)\)则表示[赫维茨ζ函数的导函数](https://zh.wikipedia.org/wiki/赫维茨ζ函数 "wikilink")，即
 
 \[\zeta^\prime(a,z)\ \stackrel{\mathrm{def}}{=}\ \left[\frac{d\zeta(s,z)}{ds}\right]_{s=a}.\]
 
-另一种使用[多伽玛函数的表示形式是](../Page/多伽玛函数.md "wikilink")：\[1\]
+另一种使用[多伽玛函数](../Page/多伽玛函数.md "wikilink")的表示形式是：\[1\]
 
 \[K(z)=\exp\left(\psi^{(-2)}(z)+\frac{z^2-z}{2}-\frac z2 \ln (2\pi)\right).\]
 
@@ -21,7 +21,7 @@ K函数的定义为：
 其中A表示[格莱舍常数](https://zh.wikipedia.org/wiki/格莱舍常数 "wikilink")（Glaisher
 constant）。
 
-K函数与[Γ函数和](../Page/Γ函数.md "wikilink")[巴尼斯G函数关系密切](../Page/巴尼斯G函数.md "wikilink")。对于自然数n，我们有：
+K函数与[Γ函数](../Page/Γ函数.md "wikilink")和[巴尼斯G函数](../Page/巴尼斯G函数.md "wikilink")关系密切。对于自然数n，我们有：
 
 \[K(n)=\frac{(\Gamma(n))^{n-1}}{G(n)}.\]
 

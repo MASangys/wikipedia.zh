@@ -1,5 +1,5 @@
-**Kenyu Office**是[日本一家聲優事務所](../Page/日本.md "wikilink")，由原屬[Production
-baobab的](../Page/Production_baobab.md "wikilink")[聲優](../Page/聲優.md "wikilink")[堀內賢雄於](../Page/堀內賢雄.md "wikilink")2002年4月4日創辦。旗下設有培訓學校[talk
+**Kenyu Office**是[日本](../Page/日本.md "wikilink")一家聲優事務所，由原屬[Production
+baobab的](../Page/Production_baobab.md "wikilink")[聲優](../Page/聲優.md "wikilink")[堀內賢雄](../Page/堀內賢雄.md "wikilink")於2002年4月4日創辦。旗下設有培訓學校[talk
 back](https://zh.wikipedia.org/wiki/talk_back "wikilink")。
 
 ## 所屬聲優

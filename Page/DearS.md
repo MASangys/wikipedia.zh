@@ -1,10 +1,10 @@
-《**DearS**》（，中文：親愛一族）是由雙人團體[PEACH-PIT所著的](../Page/PEACH-PIT.md "wikilink")[愛情喜劇](https://zh.wikipedia.org/wiki/愛情喜劇 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，為PEACH-PIT首次長篇連載作品。於[MediaWorks的](../Page/MediaWorks.md "wikilink")《電擊Comic
-GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page/東立出版社.md "wikilink")。其作品還有原作改編的[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[PlayStation
+《**DearS**》（，中文：親愛一族）是由雙人團體[PEACH-PIT](../Page/PEACH-PIT.md "wikilink")所著的[愛情喜劇](https://zh.wikipedia.org/wiki/愛情喜劇 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，為PEACH-PIT首次長篇連載作品。於[MediaWorks](../Page/MediaWorks.md "wikilink")的《電擊Comic
+GAO！》上連載，共8卷。在台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理出版。其作品還有原作改編的[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[PlayStation
 2](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
 
 ## 故事介紹
 
-來自[宇宙的](../Page/宇宙.md "wikilink")[UFO突然墜落到了](https://zh.wikipedia.org/wiki/UFO "wikilink")[東京灣內](../Page/東京灣.md "wikilink")。無法回到遙遠故鄉的宇宙人們，被[日本政府稱作](https://zh.wikipedia.org/wiki/日本政府 "wikilink")「DearS」（意思是「親愛一族」），並接受他們、給予他們[人權](https://zh.wikipedia.org/wiki/人權 "wikilink")，採用「借宿」到學校[留學的方式讓他們學習](https://zh.wikipedia.org/wiki/留學 "wikilink")[日本文化](../Page/日本文化.md "wikilink")。故事即是發生在此背景底下，一位平凡高中生「幾原武哉」與DearS美少女「零」的主僕(?)關係的生活。
+來自[宇宙](../Page/宇宙.md "wikilink")的[UFO突然墜落到了](https://zh.wikipedia.org/wiki/UFO "wikilink")[東京灣](../Page/東京灣.md "wikilink")內。無法回到遙遠故鄉的宇宙人們，被[日本政府稱作](https://zh.wikipedia.org/wiki/日本政府 "wikilink")「DearS」（意思是「親愛一族」），並接受他們、給予他們[人權](https://zh.wikipedia.org/wiki/人權 "wikilink")，採用「借宿」到學校[留學的方式讓他們學習](https://zh.wikipedia.org/wiki/留學 "wikilink")[日本文化](../Page/日本文化.md "wikilink")。故事即是發生在此背景底下，一位平凡高中生「幾原武哉」與DearS美少女「零」的主僕(?)關係的生活。
 
 ## 登場人物
 
@@ -416,7 +416,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
   - 《DearS×DearS》（ディアーズ・ディアーズ）
     主講[radio
     personality的](https://zh.wikipedia.org/wiki/radio_personality "wikilink")[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")（飾演零）、[中原麻衣](../Page/中原麻衣.md "wikilink")（飾演繆）、[谷山紀章](../Page/谷山紀章.md "wikilink")（飾演武哉）。
-    於[廣播大阪](../Page/大阪放送.md "wikilink")、[TBS廣播](../Page/TBS廣播.md "wikilink")、[信越放送三家電視台的](../Page/信越放送.md "wikilink")「[ゴクラク\!もえもえステーション](https://zh.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」頻道放映。
+    於[廣播大阪](../Page/大阪放送.md "wikilink")、[TBS廣播](../Page/TBS廣播.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")三家電視台的「[ゴクラク\!もえもえステーション](https://zh.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」頻道放映。
     2004年4月3日到12月25日期間播放（信越放送隔日播映）。全39回。
     2005年1月於網路廣播再行放送、 每月更新1回、同年3月全3回播出完畢。
 
@@ -467,7 +467,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 使用[PlayStation
 2平台](../Page/PlayStation_2.md "wikilink")，由[MediaWorks](../Page/MediaWorks.md "wikilink")2004年6月24日發售。分級為[CERO](../Page/電腦娛樂分級機構.md "wikilink")15歲以上。
 
-Cina（チナ）役由[桃井晴子飾演](../Page/桃井晴子.md "wikilink")。
+Cina（チナ）役由[桃井晴子](../Page/桃井晴子.md "wikilink")飾演。
 
 ## 其他作品合作企劃
 

@@ -12,10 +12,10 @@ Michael Simpson
 **Creative
 Assembly**是一个[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[游戏开发商](../Page/游戏开发者.md "wikilink")，由Tim
 Ansell于1987年创立。 The Creative
-Assembly的总部位于[西萨塞克斯](https://zh.wikipedia.org/wiki/西萨塞克斯 "wikilink")[霍舍姆](../Page/霍舍姆.md "wikilink")，在澳大利亚[昆士兰](https://zh.wikipedia.org/wiki/昆士兰 "wikilink")[毅力谷设有分部](https://zh.wikipedia.org/wiki/毅力谷 "wikilink")。该公司早期的作品是将[Amiga和](../Page/Amiga.md "wikilink")[Sinclair
+Assembly的总部位于[西萨塞克斯](https://zh.wikipedia.org/wiki/西萨塞克斯 "wikilink")[霍舍姆](../Page/霍舍姆.md "wikilink")，在澳大利亚[昆士兰](https://zh.wikipedia.org/wiki/昆士兰 "wikilink")[毅力谷设有分部](https://zh.wikipedia.org/wiki/毅力谷 "wikilink")。该公司早期的作品是将[Amiga](../Page/Amiga.md "wikilink")和[Sinclair
 ZX
 Spectrum平台上的游戏](https://zh.wikipedia.org/wiki/Sinclair_ZX_Spectrum "wikilink")[移植到](https://zh.wikipedia.org/wiki/游戏移植 "wikilink")[DOS](../Page/DOS.md "wikilink")，后来与[美国艺电合作](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")，以EA
-Sports的品牌生产不同的游戏。1999年，该公司有足够的资源来探索新的原创项目，进行开发战略游戏《[幕府将军：全面战争](../Page/幕府将军：全面战争.md "wikilink")》，上市後取得高度評價并成为了战略游戏的基准之一。建立在《幕府将军：全面战争》成功基础上的[全面战争系列后续作品](../Page/全面战争系列.md "wikilink")，增加着公司的关键的商业成功。
+Sports的品牌生产不同的游戏。1999年，该公司有足够的资源来探索新的原创项目，进行开发战略游戏《[幕府将军：全面战争](../Page/幕府将军：全面战争.md "wikilink")》，上市後取得高度評價并成为了战略游戏的基准之一。建立在《幕府将军：全面战争》成功基础上的[全面战争系列](../Page/全面战争系列.md "wikilink")后续作品，增加着公司的关键的商业成功。
 
 2005年3月，The Creative
 Assembly被[日本](../Page/日本.md "wikilink")[世嘉公司收购成为其欧洲](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")[子公司](../Page/子公司.md "wikilink")。在世嘉旗下，全面战争题材得到进一步发展，The
@@ -28,11 +28,11 @@ Assembly凭借[动作冒险游戏如](https://zh.wikipedia.org/wiki/动作冒险
 ### 成立
 
 成立于1987年8月 18日的The Creative Assembly是一个有限责任公司。创办人Tim
-Ansell，在1985年就开始从事[程序设计专业](../Page/程序设计.md "wikilink")，为[Amstrad
+Ansell，在1985年就开始从事[程序设计](../Page/程序设计.md "wikilink")专业，为[Amstrad
 CPC](https://zh.wikipedia.org/wiki/Amstrad_CPC "wikilink")，[Commodore
 64和](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")[Atari
 800设计游戏题材](https://zh.wikipedia.org/wiki/Atari_800 "wikilink")。最初，Ansell维持了一个小规模的公司，以便让他能独自进行计算机编程。\[2\]该公司的早期作品，往往出自Ansell之手，涉及把
-[Amiga和](../Page/Amiga.md "wikilink")[Sinclair ZX
+[Amiga](../Page/Amiga.md "wikilink")和[Sinclair ZX
 Spectrum平台上的游戏](https://zh.wikipedia.org/wiki/Sinclair_ZX_Spectrum "wikilink")[移植到](https://zh.wikipedia.org/wiki/游戏移植 "wikilink")[DOS](../Page/DOS.md "wikilink")，如1989年的作品[Geoff
 Crammond的](https://zh.wikipedia.org/wiki/Geoff_Crammond "wikilink")《[Stunt
 Car
@@ -46,7 +46,7 @@ Sports，The Creative
 Assembly能够生产得到官方联赛认可的低开发风险的产品。该公司的产品包括1995年和2001年的官方《[世界杯橄榄球赛](https://zh.wikipedia.org/wiki/世界杯橄榄球赛 "wikilink")》，官方的《[1999
 Cricket World
 Cup](https://zh.wikipedia.org/wiki/1999_Cricket_World_Cup "wikilink")》，1998年和1999年的《[澳大利亚澳式足球联盟](https://zh.wikipedia.org/wiki/澳大利亚澳式足球联盟 "wikilink")》，其中“澳式足球联盟98”主题，在澳大利亚市场取得特别的成功。\[5\]当时显而易见的是，公司需要进一步扩大，1996年Ansell聘用Michael
-Simpson为工作室主任。Simpson原是[集成电路设计师](../Page/集成电路.md "wikilink")，转为电子游戏设计师，后来成为了全面战争系列的创新设计的动力。\[6\]
+Simpson为工作室主任。Simpson原是[集成电路](../Page/集成电路.md "wikilink")设计师，转为电子游戏设计师，后来成为了全面战争系列的创新设计的动力。\[6\]
 
 ### 早期全面战争主题
 
@@ -78,14 +78,14 @@ Assembly，将其作为像以往的成功开发者一样纳入自己出版商的
 Creative
 Assembly签订了收购交易，\[19\]购买该公司所有已发行的[股票](../Page/股票.md "wikilink")。\[20\]世嘉解释说，此次收购是加强世嘉欧洲公司在欧洲和北美游戏市场的存在。\[21\]一个全面战争系列的[游戏机独占](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")《[斯巴达人：最强武士](https://zh.wikipedia.org/wiki/斯巴达人：最强武士 "wikilink")》的适时发布，确定了世嘉对the
 Creative Assembly的迅速影响。 \[22\]《斯巴达人：最强武士》是the Creative
-Assembly的第一款游戏机主题；之前所有全面战争系列的主题都完全是[电脑游戏](../Page/电脑游戏.md "wikilink")。2005年7月，世嘉已经从美国动视获得了《罗马：全面战争》的版权\[23\]而且该游戏有两个资料片：发布于2005年9月的《[蛮族入侵](https://zh.wikipedia.org/wiki/罗马：全面战争之蛮族入侵 "wikilink")》，展示了[罗马帝国的衰亡](https://zh.wikipedia.org/wiki/罗马帝国的衰亡 "wikilink")，而2006年9月发布的《[亚历山大](https://zh.wikipedia.org/wiki/罗马：全面战争之亚历山大 "wikilink")》着眼于[亚历山大大帝的功绩](../Page/亚历山大大帝.md "wikilink")。《斯巴达人：最强武士》于2005年10月发行，包括[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
+Assembly的第一款游戏机主题；之前所有全面战争系列的主题都完全是[电脑游戏](../Page/电脑游戏.md "wikilink")。2005年7月，世嘉已经从美国动视获得了《罗马：全面战争》的版权\[23\]而且该游戏有两个资料片：发布于2005年9月的《[蛮族入侵](https://zh.wikipedia.org/wiki/罗马：全面战争之蛮族入侵 "wikilink")》，展示了[罗马帝国的衰亡](https://zh.wikipedia.org/wiki/罗马帝国的衰亡 "wikilink")，而2006年9月发布的《[亚历山大](https://zh.wikipedia.org/wiki/罗马：全面战争之亚历山大 "wikilink")》着眼于[亚历山大大帝](../Page/亚历山大大帝.md "wikilink")的功绩。《斯巴达人：最强武士》于2005年10月发行，包括[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
 2和](../Page/PlayStation_2.md "wikilink")[GameCube版本](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")，受到了好评。\[24\]\[25\]\[26\]
 
 第四个全面战争宣布在2006年1月发行。\[27\]新主题《[中世纪II：全面战争](https://zh.wikipedia.org/wiki/中世纪II：全面战争 "wikilink")》是《中世纪：全面战争》使用《罗马：全面战争》之后的新资产和技术的复刻版。游戏发行于2006年11月，虽然不如《罗马：全面战争》成功，\[28\]《中世纪II:
-全面战争》仍然是商业上关键的一步，在2006年11月登上英国游戏排行榜，\[29\]在美国排行榜保持到2007年1月底。\[30\]2007年3月发布了资料片《[王国](../Page/中世纪II：全面战争之王国.md "wikilink")》。战役聚焦于四个地区：[圣地的](https://zh.wikipedia.org/wiki/圣地 "wikilink")[十字军东征](https://zh.wikipedia.org/wiki/十字军东征 "wikilink")、[条顿骑士团与](../Page/条顿骑士团.md "wikilink")[北方十字军入侵](../Page/北方十字军入侵.md "wikilink")、[新西班牙总督辖区的征服和](https://zh.wikipedia.org/wiki/新西班牙总督辖区 "wikilink")[不列颠群岛的中世纪战争](https://zh.wikipedia.org/wiki/不列颠群岛 "wikilink")。\[31\]资料片在2007年8月发行之前吸收了积极的建议。\[32\]
+全面战争》仍然是商业上关键的一步，在2006年11月登上英国游戏排行榜，\[29\]在美国排行榜保持到2007年1月底。\[30\]2007年3月发布了资料片《[王国](../Page/中世纪II：全面战争之王国.md "wikilink")》。战役聚焦于四个地区：[圣地的](https://zh.wikipedia.org/wiki/圣地 "wikilink")[十字军东征](https://zh.wikipedia.org/wiki/十字军东征 "wikilink")、[条顿骑士团](../Page/条顿骑士团.md "wikilink")与[北方十字军入侵](../Page/北方十字军入侵.md "wikilink")、[新西班牙总督辖区的征服和](https://zh.wikipedia.org/wiki/新西班牙总督辖区 "wikilink")[不列颠群岛的中世纪战争](https://zh.wikipedia.org/wiki/不列颠群岛 "wikilink")。\[31\]资料片在2007年8月发行之前吸收了积极的建议。\[32\]
 
 在
-2007年8月[德国](../Page/德国.md "wikilink")[莱比锡的](../Page/莱比锡.md "wikilink")[Games
+2007年8月[德国](../Page/德国.md "wikilink")[莱比锡](../Page/莱比锡.md "wikilink")的[Games
 Convention](https://zh.wikipedia.org/wiki/Games_Convention "wikilink")，the
 Creative
 Assembly一次发布了多个新主题。第一个是《[维京人：神域之战](https://zh.wikipedia.org/wiki/维京人：神域之战 "wikilink")》，又一个游戏机独占的主题，风格类似于《斯巴达人：最强武士》，只不过内容来自[北欧神话](../Page/北欧神话.md "wikilink")。\[33\]游戏发行于2008年3月，但行业反响平平。\[34\]\[35\]第二个是全面战争的第五个作品，《[帝国：全面战争](../Page/帝国：全面战争.md "wikilink")》，背景是18世纪到19世纪初的[近代史](../Page/近代史.md "wikilink")。\[36\]与当时《罗马:

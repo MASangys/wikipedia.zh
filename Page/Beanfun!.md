@@ -1,5 +1,5 @@
 [Beanfun\!.png](https://zh.wikipedia.org/wiki/File:Beanfun!.png "fig:Beanfun!.png")正式版[標誌於](https://zh.wikipedia.org/wiki/標誌 "wikilink")2010年4月13日啟用\]\]
-**bean-{}-fun\!**是台灣數位內容代理、製造商[遊戲橘子提供的全方位數位娛樂平台](../Page/遊戲橘子.md "wikilink")，並藉此整合遊戲帳號管理。
+**bean-{}-fun\!**是台灣數位內容代理、製造商[遊戲橘子](../Page/遊戲橘子.md "wikilink")提供的全方位數位娛樂平台，並藉此整合遊戲帳號管理。
 
 beanfun\!目前服務地區包括[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")(中文名稱為「**樂豆**」)、[港](https://zh.wikipedia.org/wiki/港 "wikilink")[澳](https://zh.wikipedia.org/wiki/澳 "wikilink")、[中国大陆](../Page/中国大陆.md "wikilink")(中文名稱為「**繽放**」)
 、[美國以及歐盟體系的](https://zh.wikipedia.org/wiki/美國 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國與](https://zh.wikipedia.org/wiki/法國 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")。beanfun\!設有網頁版本beanfun\!和桌面應用程式(港澳、中國、美國運行中)，[台灣已於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2010年起停止桌面應用程式的服務。
@@ -58,48 +58,4 @@ beanfun\!目前服務地區包括[台灣](https://zh.wikipedia.org/wiki/台灣 "
 **啟動遊戲**
 
   - beanfun\!(舊版)樂豆平台中，更新時會連同ActiveX控制項元件一併更新，所以玩家有時會因為修改[Internet
-    Explorer相關設定](../Page/Internet_Explorer.md "wikilink")，可能導致無法正確更新及安裝ActiveX控制項元件，而無法啟動遊戲，因此需要重新下載beanfun\!安裝包才可正常使用。
-  - New
-    beanfun\!樂豆平台中，需要安裝新版遊戲啟動器後，才可以正常的啟動遊戲，當會員啟動遊戲時會執行遊戲啟動器，此時電腦上的防毒軟體會跳出警告是否要允許或是封鎖，容易造成玩家點選封鎖導致無法正確啟動遊戲。
-  - 升級至New beanfun\!的玩家，需要安裝新版遊戲啟動器(安裝路徑在於C:\\Program Files
-    (x86)\\beanfun\!\\beanfun\!
-    Plugin\\新版遊戲啟動器沒有[反安裝程序且會在使用者資料夾建立](https://zh.wikipedia.org/wiki/反安裝程序 "wikilink")＂beanfun\!
-    Plugin＂與＂beanfun\! TW＂暫存資料夾，遇到無法啟動遊戲的問題請移除暫存資料夾)後，才可以正常啟動遊戲。
-  - W7作業系統因為WindowsUpdate的因素導致[Internet Explorer
-    8瀏覽器版本被升級](../Page/Internet_Explorer_8.md "wikilink")（10或11版本以上與64位元）導致無法正常登入遊戲必須使用＂相容性檢視＂才能正常登入遊戲。
-  - W7作業系統Internet Explorer
-    11(64位元)無法使用[Playsafecard數位安全卡登入](https://zh.wikipedia.org/wiki/Playsafe數位安全卡 "wikilink")（目前解決辦法只有將Internet
-    Explorer 11降級與使用其他瀏覽器搭配[IE Tab](../Page/IE_Tab.md "wikilink")）。
-
-**其他**
-
-  - 2009年推出beanfun\!樂豆時，並不支援所有瀏覽器導致使用非Internet
-    Explorer及FireFox以外的瀏覽器時常無法正常運作，於2012/06/25推出New
-    beanfun\!樂豆平台幾乎支援所有玩家常使用的瀏覽器，大幅改善前述問題。
-  - beanfun\!樂豆能夠支援在64位元電腦上使用預設Internet Explorer
-    9(32位元)來登入會員與啟動遊戲，如果手動執行Internet
-    Explorer 9(64位元)則會無法登入會員、進而無法啟動遊戲（W7作業系統64位元隨著Internet Explorer
-    8瀏覽器版本更新10或11系統已經移除32位元捷徑了）。
-
-### 中國
-
-  - 啟動遊戲會出現301 Time Out，問題仍存在，疑似玩家網速過慢造成。
-  - 網頁登入或點選桌面繽放遊戲大廳會因為無法正確呼叫繽放而無法啟動遊戲並出現初始化失敗，玩家重新安裝繽放安裝包即可解決。
-
-### 美國
-
-  - 2011年5月，beanfun\!發生初始化失敗及讀取過久的問題，beanfun\!官網有提供一隻新的更新程式檔以解決該問題，不過仍有玩家反應依舊有上述問題發生。
-
-### 香港
-
-  - 初始化失敗問題發生，官方建議玩家重裝下載並安裝beanfun\!安裝包即可解決。
-
-## 參考
-
-<references />
-
-## 外部連結
-
-  - [beanfun\! 遊戲](http://tw.beanfun.com/)
-
-[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
+    Explorer相關設定](../Page/Internet_Explorer.md "wikilink")，可能導

@@ -2,7 +2,7 @@
 synthesis），由德国化学家[路德维希·克诺尔](https://zh.wikipedia.org/wiki/路德维希·克诺尔 "wikilink")（Ludwig
 Knorr，1859－1921）在1886年首先报道。\[1\]
 
-[酰基](../Page/酰基.md "wikilink")[乙酰苯胺在](https://zh.wikipedia.org/wiki/乙酰苯胺 "wikilink")[硫酸作用下](../Page/硫酸.md "wikilink")，发生分子内环化生成[2-羟基喹啉](https://zh.wikipedia.org/wiki/2-羟基喹啉 "wikilink")。
+[酰基](../Page/酰基.md "wikilink")[乙酰苯胺在](https://zh.wikipedia.org/wiki/乙酰苯胺 "wikilink")[硫酸](../Page/硫酸.md "wikilink")作用下，发生分子内环化生成[2-羟基喹啉](https://zh.wikipedia.org/wiki/2-羟基喹啉 "wikilink")。
 
 
 [KnorrCyclization.svg](https://zh.wikipedia.org/wiki/File:KnorrCyclization.svg "fig:KnorrCyclization.svg")
@@ -18,7 +18,7 @@ Knorr，1859－1921）在1886年首先报道。\[1\]
 2007年 Klumpp
 等利用理论计算和[核磁共振谱结果](https://zh.wikipedia.org/wiki/核磁共振谱 "wikilink")，提出[超亲电性的](https://zh.wikipedia.org/wiki/超亲电性 "wikilink")
 *O*,*O*-二正离子中间体在反应条件下比
-*N*,*O*-二正离子更容易生成。而且他们还发现质子酸性的[三氟甲磺酸是此反应最有效的酸催化剂](../Page/三氟甲磺酸.md "wikilink")。\[3\]
+*N*,*O*-二正离子更容易生成。而且他们还发现质子酸性的[三氟甲磺酸](../Page/三氟甲磺酸.md "wikilink")是此反应最有效的酸催化剂。\[3\]
 
 
 [KnorrCyclization2007.svg](https://zh.wikipedia.org/wiki/File:KnorrCyclization2007.svg "fig:KnorrCyclization2007.svg")

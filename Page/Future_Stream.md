@@ -1,5 +1,5 @@
 《**Future
-Stream**》（）是聲優團體[sphere的第一張](https://zh.wikipedia.org/wiki/sphere "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年4月22日由[Lantis發行](../Page/Lantis.md "wikilink")。
+Stream**》（）是聲優團體[sphere的第一張](https://zh.wikipedia.org/wiki/sphere "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年4月22日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要
 

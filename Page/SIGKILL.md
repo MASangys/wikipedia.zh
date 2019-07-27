@@ -14,7 +14,7 @@
 
 当SIGKILL被发送给一个程序时，它使程序立即终止。与[SIGTERM和](https://zh.wikipedia.org/wiki/SIGTERM "wikilink")[SIGINT相比](https://zh.wikipedia.org/wiki/SIGINT_\(POSIX\) "wikilink")，这个信号不能被捕获或忽略，同时接收这个信号的进程在收到这个信号时不能执行任何清理。
 
-  - [僵尸进程不能被杀死](../Page/僵尸进程.md "wikilink")，因为它们已经死亡，只等待它们的父进程回收 它们。
+  - [僵尸进程](../Page/僵尸进程.md "wikilink")不能被杀死，因为它们已经死亡，只等待它们的父进程回收 它们。
 
 <!-- end list -->
 

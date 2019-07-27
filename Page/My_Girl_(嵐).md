@@ -1,4 +1,4 @@
-《**My Girl**》是[嵐的第](../Page/嵐.md "wikilink")28枚單曲。於2009年11月11日發行。唱片公司為[J
+《**My Girl**》是[嵐](../Page/嵐.md "wikilink")的第28枚單曲。於2009年11月11日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
@@ -6,10 +6,10 @@ Storm](../Page/J_Storm.md "wikilink")。
   - 與前作《[Everything](https://zh.wikipedia.org/wiki/Everything_\(嵐\) "wikilink")》相距約4個月。作為2009年第4張的單曲，接續去年，1年內發表4張單曲。
   - 與前作一樣，分初回限定盤、通常盤2種形態發售。每種版本除收入「My Girl」、「發條鐘的傘」2曲外，初回限定盤附贈「My
     Girl」的PV及幕後製作花絮，通常盤再加上c/w曲「Super Fresh」及3曲的Original Karaoke一共6曲。
-  - 主打歌是成員[相葉雅紀主演](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[朝日電視台週五深夜劇場](../Page/朝日電視台.md "wikilink")《[我的乖乖女
+  - 主打歌是成員[相葉雅紀主演](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")週五深夜劇場《[我的乖乖女
     \~My
     Girl\~](../Page/我的乖乖女.md "wikilink")》的主題曲。以嵐名義\[1\]接手朝日台的連續劇主題歌的，是自「[眼中的銀河](https://zh.wikipedia.org/wiki/眼中的銀河/Hero "wikilink")」以來。
-  - c/w曲「發條鐘的傘」是成員[大野智擔任主角的](../Page/大野智.md "wikilink")[富士電視台劇集](../Page/富士電視台.md "wikilink")《》的主題曲。上一次演唱富士台的劇集主題曲已是「[朝著明天吶喊](../Page/A·RA·SHI.md "wikilink")」即10年前的事了。而曲中亦包含成員[櫻井翔的Rap](../Page/櫻井翔.md "wikilink")，於c/w而言是自「[Still...](../Page/Happiness_\(嵐\).md "wikilink")」以來。这首歌自随「My
+  - c/w曲「發條鐘的傘」是成員[大野智](../Page/大野智.md "wikilink")擔任主角的[富士電視台](../Page/富士電視台.md "wikilink")劇集《》的主題曲。上一次演唱富士台的劇集主題曲已是「[朝著明天吶喊](../Page/A·RA·SHI.md "wikilink")」即10年前的事了。而曲中亦包含成員[櫻井翔](../Page/櫻井翔.md "wikilink")的Rap，於c/w而言是自「[Still...](../Page/Happiness_\(嵐\).md "wikilink")」以來。这首歌自随「My
     Girl」发行后一直没有现场演出，直到2012年12月26日发行的《ARASHI AraFes NATIONAL STADIUM
     2012》演唱会DVD中，才收录了该曲在2012年9月霞丘陆上竞技场的现场表演。
   - 「My
@@ -38,7 +38,7 @@ Storm](../Page/J_Storm.md "wikilink")。
         <span style="font-size:smaller">作詞：Wonderland</span>
         <span style="font-size:smaller">作曲：多田慎也</span>
         <span style="font-size:smaller">編曲：Naoki-T</span>
-        [朝日電視台系劇集](../Page/朝日電視台.md "wikilink")《我的乖乖女 \~My Girl\~》主題曲
+        [朝日電視台](../Page/朝日電視台.md "wikilink")系劇集《我的乖乖女 \~My Girl\~》主題曲
 2.  **發條鐘的傘**<span style="font-size:smaller">（</span>）
       -
         <span style="font-size:smaller">作詞：Sean-D</span>
@@ -47,7 +47,7 @@ Storm](../Page/J_Storm.md "wikilink")。
         Fredriksson、Mattias Larsson</span>
         <span style="font-size:smaller">編曲：Hisashi Nawata、Fredrik
         Hult、Robin Fredriksson、Mattias Larsson</span>
-        [富士電視台系劇集](../Page/富士電視台.md "wikilink")[0號室的客人主題曲](https://zh.wikipedia.org/wiki/0號室的客人 "wikilink")
+        [富士電視台](../Page/富士電視台.md "wikilink")系劇集[0號室的客人主題曲](https://zh.wikipedia.org/wiki/0號室的客人 "wikilink")
 3.  **Super Fresh**<span style="font-size:smaller">（）</span>
       -
         <span style="font-size:smaller">作詞：Shigeo、Shun</span>

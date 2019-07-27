@@ -1,4 +1,4 @@
-**YAHOO\!搜尋人氣大獎2009**，（又稱**第7屆Yahoo！搜尋人氣大獎**），於2009年12月14日假[香港展覽中心舉行](../Page/香港展覽中心.md "wikilink")，主題為「搜尋最愛，繼續喝采。人氣獎項，由你主宰」，當晚共頒發60個項目，當中15項為音樂獎項，11項為電視及電影獎項，17項為社會焦點獎項，更設3項至尊獎項，另外由今屆起新增[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，綜合[港](../Page/香港.md "wikilink")、[台](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓三地全年的搜尋次數](https://zh.wikipedia.org/wiki/韓國 "wikilink")，及三地網民在11月至12月初以公投支持其[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")，共頒發14項[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。以下為當晚的得獎名單：
+**YAHOO\!搜尋人氣大獎2009**，（又稱**第7屆Yahoo！搜尋人氣大獎**），於2009年12月14日假[香港展覽中心](../Page/香港展覽中心.md "wikilink")舉行，主題為「搜尋最愛，繼續喝采。人氣獎項，由你主宰」，當晚共頒發60個項目，當中15項為音樂獎項，11項為電視及電影獎項，17項為社會焦點獎項，更設3項至尊獎項，另外由今屆起新增[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，綜合[港](../Page/香港.md "wikilink")、[台](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓三地全年的搜尋次數](https://zh.wikipedia.org/wiki/韓國 "wikilink")，及三地網民在11月至12月初以公投支持其[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")，共頒發14項[亞洲區獎項](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。以下為當晚的得獎名單：
 
 ## 得獎名單
 

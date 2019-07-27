@@ -2,7 +2,7 @@
 
 UFW 全称为 **Uncomplicated Firewall**\[1\]，是
 [Ubuntu](../Page/Ubuntu.md "wikilink")
-系统上默认的[防火墙组件](../Page/防火墙.md "wikilink"),
+系统上默认的[防火墙](../Page/防火墙.md "wikilink")组件,
 为了轻量化配置 iptables 而开发的一款工具。UFW
 提供一个非常友好的界面用于创建基于[IPV4](https://zh.wikipedia.org/wiki/IPV4 "wikilink")，[IPV6的防火墙规则](https://zh.wikipedia.org/wiki/IPV6 "wikilink")。
 

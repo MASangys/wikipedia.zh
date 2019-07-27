@@ -1,12 +1,12 @@
-**小贝诺·C·施密特**（，），现任[纽约市立大学](../Page/纽约市立大学.md "wikilink")(CUNY)董事会主席，[耶鲁大学第](../Page/耶鲁大学.md "wikilink")20任校长（1986年—1992年）。在耶鲁任职前，他曾任[哥伦比亚大学法学院](../Page/哥伦比亚法学院.md "wikilink")[院长](https://zh.wikipedia.org/wiki/学院院长 "wikilink")，并是该学院[Harlan
+**小贝诺·C·施密特**（，），现任[纽约市立大学](../Page/纽约市立大学.md "wikilink")(CUNY)董事会主席，[耶鲁大学](../Page/耶鲁大学.md "wikilink")第20任校长（1986年—1992年）。在耶鲁任职前，他曾任[哥伦比亚大学法学院](../Page/哥伦比亚法学院.md "wikilink")[院长](https://zh.wikipedia.org/wiki/学院院长 "wikilink")，并是该学院[Harlan
 Fiske
-Stone](https://zh.wikipedia.org/wiki/Harlan_Fiske_Stone "wikilink")[宪法教授](../Page/宪法.md "wikilink")。他在[美国宪法第一修正案研究上](../Page/美国宪法第一修正案.md "wikilink")，[美国最高法院历史研究](../Page/美国最高法院.md "wikilink")，和美国法律种族关系问题研究上是著名的学者。施密特曾任[美国联邦最高法院](../Page/美国最高法院.md "wikilink")[大法官](https://zh.wikipedia.org/wiki/美国最高法院大法官 "wikilink")[厄尔·沃伦的书记](../Page/厄尔·沃伦.md "wikilink")。
+Stone](https://zh.wikipedia.org/wiki/Harlan_Fiske_Stone "wikilink")[宪法](../Page/宪法.md "wikilink")教授。他在[美国宪法第一修正案](../Page/美国宪法第一修正案.md "wikilink")研究上，[美国最高法院](../Page/美国最高法院.md "wikilink")历史研究，和美国法律种族关系问题研究上是著名的学者。施密特曾任[美国联邦最高法院](../Page/美国最高法院.md "wikilink")[大法官](https://zh.wikipedia.org/wiki/美国最高法院大法官 "wikilink")[厄尔·沃伦](../Page/厄尔·沃伦.md "wikilink")的书记。
 
 ## 早期生涯和职业
 
-小施密特出生于纽约，他的父亲[老贝诺·C·施密特是](https://zh.wikipedia.org/wiki/Benno_C._Schmidt,_Sr. "wikilink")[约翰·黑·惠特尼的老朋友和同事](https://zh.wikipedia.org/wiki/:en:John_Hay_Whitney "wikilink")。1946年，惠特尼和老施密特合伙成立了美国有史以来第一个[风险投资基金](../Page/风险投资.md "wikilink")——[J.H.惠特尼基金](https://zh.wikipedia.org/wiki/J.H._Whitney_&_Co. "wikilink")。
+小施密特出生于纽约，他的父亲[老贝诺·C·施密特是](https://zh.wikipedia.org/wiki/Benno_C._Schmidt,_Sr. "wikilink")[约翰·黑·惠特尼的老朋友和同事](https://zh.wikipedia.org/wiki/:en:John_Hay_Whitney "wikilink")。1946年，惠特尼和老施密特合伙成立了美国有史以来第一个[风险投资](../Page/风险投资.md "wikilink")基金——[J.H.惠特尼基金](https://zh.wikipedia.org/wiki/J.H._Whitney_&_Co. "wikilink")。
 
-施密特从[耶鲁大学获得学士学位](../Page/耶鲁大学.md "wikilink")。毕业后，他进入[耶鲁法学院学习](../Page/耶鲁法学院.md "wikilink")。从[法学院毕业后](https://zh.wikipedia.org/wiki/法学院 "wikilink")，施密特任[联邦大法官](https://zh.wikipedia.org/wiki/联邦大法官 "wikilink")[厄尔·沃伦的书记](../Page/厄尔·沃伦.md "wikilink")。此后，他又为[美国司法部两年后在到](../Page/美国司法部.md "wikilink")[哥伦比亚大学法学院任教](../Page/哥伦比亚法学院.md "wikilink")。作为一名法学家，他最关注研究的方面包括[美国宪法第一修正案](../Page/美国宪法第一修正案.md "wikilink")，美国[种族关系法律史](https://zh.wikipedia.org/wiki/种族关系 "wikilink")，及[美国最高法院历史](../Page/美国最高法院.md "wikilink")。
+施密特从[耶鲁大学](../Page/耶鲁大学.md "wikilink")获得学士学位。毕业后，他进入[耶鲁法学院](../Page/耶鲁法学院.md "wikilink")学习。从[法学院毕业后](https://zh.wikipedia.org/wiki/法学院 "wikilink")，施密特任[联邦大法官](https://zh.wikipedia.org/wiki/联邦大法官 "wikilink")[厄尔·沃伦](../Page/厄尔·沃伦.md "wikilink")的书记。此后，他又为[美国司法部](../Page/美国司法部.md "wikilink")两年后在到[哥伦比亚大学法学院任教](../Page/哥伦比亚法学院.md "wikilink")。作为一名法学家，他最关注研究的方面包括[美国宪法第一修正案](../Page/美国宪法第一修正案.md "wikilink")，美国[种族关系法律史](https://zh.wikipedia.org/wiki/种族关系 "wikilink")，及[美国最高法院](../Page/美国最高法院.md "wikilink")历史。
 
 施密特在1973年获得哥伦比亚大学法学院的满期正式聘任。他在1982年被授予[Harlan Fiske
 Stone](https://zh.wikipedia.org/wiki/Harlan_Fiske_Stone "wikilink")[宪法教授之衔时](../Page/美国宪法.md "wikilink")，已经是法学院的院长。他在1986年从法学院离职，到耶鲁大学担任校长。
@@ -17,17 +17,17 @@ Stone](https://zh.wikipedia.org/wiki/Harlan_Fiske_Stone "wikilink")[宪法教授
 
 施密特还相当注重耶鲁大学的楼宇修缮和现代教育科技的应用。Schmidt questioned the existence of certain
 academic programs at Yale, causing further
-controversy。他削减教职员工人数百分之十一的提议也并未得到支持。施密特为耶鲁教育基金筹得超过10亿美元捐款，在他经营下，耶鲁大学教育基金增长速度超过同期世界上所有大学。可是，校内领导层中多人指责施密特为了陪伴妻子[海伦惠特妮](https://zh.wikipedia.org/wiki/:en:Helen_Whitney "wikilink")（[美国广播公司著名](../Page/美国广播公司.md "wikilink")[纪录片制作人](https://zh.wikipedia.org/wiki/纪录片 "wikilink")），在与学校合同中增加特殊条款指定纽约市作为其任内主居住地，而没有把主要时间花在校园内。
+controversy。他削减教职员工人数百分之十一的提议也并未得到支持。施密特为耶鲁教育基金筹得超过10亿美元捐款，在他经营下，耶鲁大学教育基金增长速度超过同期世界上所有大学。可是，校内领导层中多人指责施密特为了陪伴妻子[海伦惠特妮](https://zh.wikipedia.org/wiki/:en:Helen_Whitney "wikilink")（[美国广播公司](../Page/美国广播公司.md "wikilink")著名[纪录片制作人](https://zh.wikipedia.org/wiki/纪录片 "wikilink")），在与学校合同中增加特殊条款指定纽约市作为其任内主居住地，而没有把主要时间花在校园内。
 
 施密特的接班人，[瑞科列万主持了大规模的校舍翻新](https://zh.wikipedia.org/wiki/:en:Rick_Levin "wikilink")。实际上施密特本人才是耶鲁大学内提出及强调这方面问题的人。
 
 ## 纽约市立大学
 
-施密特是[纽约市立大学](../Page/纽约市立大学.md "wikilink")(CUNY)的现任董事会主席。施密特曾任前[纽约市市长](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[魯迪·朱利安尼组建的纽约市立大学改组委员会主席](../Page/魯迪·朱利安尼.md "wikilink")。1999年，他对市立大学调查后提交了对纽约市立大学改组的报告和建议获得议会审核批准，为纽约市立大学未来的方向作出了详细的规划。
+施密特是[纽约市立大学](../Page/纽约市立大学.md "wikilink")(CUNY)的现任董事会主席。施密特曾任前[纽约市市长](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[魯迪·朱利安尼](../Page/魯迪·朱利安尼.md "wikilink")组建的纽约市立大学改组委员会主席。1999年，他对市立大学调查后提交了对纽约市立大学改组的报告和建议获得议会审核批准，为纽约市立大学未来的方向作出了详细的规划。
 
 ## 电影
 
-施密特曾在[伍迪·艾伦导演的两部电影中友情客串](../Page/伍迪·艾伦.md "wikilink")。在《[丈夫，太太與情人](https://zh.wikipedia.org/wiki/丈夫，太太與情人 "wikilink")》(1992)中，他扮演了[米亚·法罗所饰角色的第一任丈夫](https://zh.wikipedia.org/wiki/米亚·法罗 "wikilink")；在《[汉娜姐妹](../Page/汉娜姐妹.md "wikilink")》(1986)中，他饰演了史密斯博士。
+施密特曾在[伍迪·艾伦](../Page/伍迪·艾伦.md "wikilink")导演的两部电影中友情客串。在《[丈夫，太太與情人](https://zh.wikipedia.org/wiki/丈夫，太太與情人 "wikilink")》(1992)中，他扮演了[米亚·法罗所饰角色的第一任丈夫](https://zh.wikipedia.org/wiki/米亚·法罗 "wikilink")；在《[汉娜姐妹](../Page/汉娜姐妹.md "wikilink")》(1986)中，他饰演了史密斯博士。
 
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:美国法学家](https://zh.wikipedia.org/wiki/Category:美国法学家 "wikilink")

@@ -1,4 +1,4 @@
-**Lift**是一個为[Scala语言设计的](../Page/Scala.md "wikilink")[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")。它是由于David
+**Lift**是一個为[Scala](../Page/Scala.md "wikilink")语言设计的[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")。它是由于David
 Pollak不满意[Ruby on
 Rails的某些功能而创立](../Page/Ruby_on_Rails.md "wikilink")。\[1\]
 Lift

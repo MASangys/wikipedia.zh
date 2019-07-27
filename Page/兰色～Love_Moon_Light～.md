@@ -5,7 +5,7 @@ Light～**是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[藏族](.
 
   - 2010年4月16日，《兰色～Love Moon Light～》在alan 4月访港之旅期间在香港率先发行。\[1\]
   - 2010年4月26日，《兰色～Love Moon
-    Light～》在[中国内地发行](../Page/中国内地.md "wikilink")。
+    Light～》在[中国内地](../Page/中国内地.md "wikilink")发行。
   - 初回限定版附赠歌词写真、兰色明信片和折合海报。\[2\]
   - 《有ME就好》是《[加油！你有ME！](https://zh.wikipedia.org/wiki/加油！你有ME！ "wikilink")》的续集，作为[爱普生新一季的广告歌](https://zh.wikipedia.org/wiki/爱普生 "wikilink")。\[3\]
   - 《炫影～Sharp

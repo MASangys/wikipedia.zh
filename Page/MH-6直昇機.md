@@ -1,6 +1,6 @@
 [MH-6_Little_Bird.jpg](https://zh.wikipedia.org/wiki/File:MH-6_Little_Bird.jpg "fig:MH-6_Little_Bird.jpg")
 **MH-6「小鸟式」**（MH-6 "Little Bird"，又常被暱稱為「Killer
-Egg」（殺手蛋））直昇機和它的攻击型版本**AH-6**，是[美国陆军用于](../Page/美国陆军.md "wikilink")[特種作戰的单引擎轻型](https://zh.wikipedia.org/wiki/特種作戰 "wikilink")[直昇機](https://zh.wikipedia.org/wiki/直昇機 "wikilink")。它最初是以[OH-6A](https://zh.wikipedia.org/wiki/OH-6A "wikilink")「小馬式」偵察直昇機為基礎改良而來，後期的版本則是以民用的[MD
+Egg」（殺手蛋））直昇機和它的攻击型版本**AH-6**，是[美国陆军](../Page/美国陆军.md "wikilink")用于[特種作戰的单引擎轻型](https://zh.wikipedia.org/wiki/特種作戰 "wikilink")[直昇機](https://zh.wikipedia.org/wiki/直昇機 "wikilink")。它最初是以[OH-6A](https://zh.wikipedia.org/wiki/OH-6A "wikilink")「小馬式」偵察直昇機為基礎改良而來，後期的版本則是以民用的[MD
 500E為發展藍本](https://zh.wikipedia.org/wiki/MD_500系列直昇機 "wikilink")，拥有一个5叶片的[主旋翼](https://zh.wikipedia.org/wiki/主旋翼 "wikilink")。至於家族中的最新版本**MH-6M**則是以MD
 530F為基礎，拥有一个6叶片的主旋翼和4叶片的尾桨。
 

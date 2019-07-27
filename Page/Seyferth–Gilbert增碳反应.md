@@ -1,7 +1,7 @@
 **Seyferth–Gilbert增碳反应**（Seyferth-Gilbert
 homologation），又称**Seyferth-Gilbert同系化反应**
 
-[芳](https://zh.wikipedia.org/wiki/芳香化合物 "wikilink")[酮](../Page/酮.md "wikilink")（或[醛](../Page/醛.md "wikilink")）与[重氮甲基膦酸二甲酯](https://zh.wikipedia.org/wiki/重氮甲基膦酸二甲酯 "wikilink")（Seyferth-Gilbert试剂）在[叔丁醇钾存在下反应生成取代](../Page/叔丁醇钾.md "wikilink")[炔烃](../Page/炔烃.md "wikilink")。\[1\]\[2\]\[3\]
+[芳](https://zh.wikipedia.org/wiki/芳香化合物 "wikilink")[酮](../Page/酮.md "wikilink")（或[醛](../Page/醛.md "wikilink")）与[重氮甲基膦酸二甲酯](https://zh.wikipedia.org/wiki/重氮甲基膦酸二甲酯 "wikilink")（Seyferth-Gilbert试剂）在[叔丁醇钾](../Page/叔丁醇钾.md "wikilink")存在下反应生成取代[炔烃](../Page/炔烃.md "wikilink")。\[1\]\[2\]\[3\]
 
 [Seyferth-Gilbert_Homologation_Scheme.png](https://zh.wikipedia.org/wiki/File:Seyferth-Gilbert_Homologation_Scheme.png "fig:Seyferth-Gilbert_Homologation_Scheme.png")
 

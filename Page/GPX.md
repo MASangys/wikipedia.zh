@@ -7,7 +7,7 @@ Format**，GPS交换格式）是一个XML格式，为应用软件设计的通用
 
 [Wayroutrackp.png](https://zh.wikipedia.org/wiki/File:Wayroutrackp.png "fig:Wayroutrackp.png")
 GPX檔案格式（GPS Exchange
-Format）是[XML格式的一種](../Page/XML.md "wikilink")，專門用來儲存地理資訊。
+Format）是[XML](../Page/XML.md "wikilink")格式的一種，專門用來儲存地理資訊。
 一個GPX檔案當中可能包含一些**路點**（waypoint）及一些**軌跡點**（trackpoint）。
 以[全球定位系统](../Page/全球定位系统.md "wikilink")（GPS裝置）所產生的GPX檔為例，
 路點可能是各自獨立互不相干的重要標記點， 例如照相的地點或使用者手動標記的休息站或路口等等；至於GPS裝置自動定時記錄的則是軌跡點。
@@ -71,7 +71,6 @@ GPX文件內的點，至少要包含经纬度座标兩項資訊；其它欄位�
 
 ## 参考
 
+\[\[Cate
+
 [Category:GIS文件格式](https://zh.wikipedia.org/wiki/Category:GIS文件格式 "wikilink")
-[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
-[Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink")
-[Category:全球定位系统](https://zh.wikipedia.org/wiki/Category:全球定位系统 "wikilink")

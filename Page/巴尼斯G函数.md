@@ -1,4 +1,4 @@
-**巴尼斯G函数**是[超级阶乘函数在](https://zh.wikipedia.org/wiki/階乘#超級階乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")。它与[Γ函数](../Page/Γ函数.md "wikilink")、[K函数以及](../Page/K函数.md "wikilink")[格莱舍常数](https://zh.wikipedia.org/wiki/格莱舍常数 "wikilink")（Glaisher
+**巴尼斯G函数**是[超级阶乘函数在](https://zh.wikipedia.org/wiki/階乘#超級階乘 "wikilink")[复数上的扩展](../Page/复数_\(数学\).md "wikilink")。它与[Γ函数](../Page/Γ函数.md "wikilink")、[K函数](../Page/K函数.md "wikilink")以及[格莱舍常数](https://zh.wikipedia.org/wiki/格莱舍常数 "wikilink")（Glaisher
 constant）有关。以[数学家](../Page/数学家.md "wikilink")[欧尼斯特·巴尼斯](https://zh.wikipedia.org/wiki/欧尼斯特·巴尼斯 "wikilink")（Ernest
 William Barnes）的名字命名。\[1\]
 
@@ -42,7 +42,7 @@ n^{\frac{5}{12}}\cdot(2\pi)^{(n-1)/2}\,=\,
 
 其中\(\zeta^\prime\)表示[黎曼ζ函数的](https://zh.wikipedia.org/wiki/黎曼ζ函数 "wikilink")[导函数](https://zh.wikipedia.org/wiki/导函数 "wikilink")，\(A\)则表示为格莱舍常数。
 
-\(\log \,G(z+1 )\)可[渐近展开为](../Page/渐近展开.md "wikilink")（由巴尼斯提出）：
+\(\log \,G(z+1 )\)可[渐近展开](../Page/渐近展开.md "wikilink")为（由巴尼斯提出）：
 
 \[\log G(z+1)=\frac{1}{12} - \log A + \frac{z}{2}\log 2\pi +\left(\frac{z^2}{2} -\frac{1}{12}\right)\log z -\frac{3z^2}{4}+
 \sum_{k=1}^{N}\frac{B_{2k+2}}{4k\left(k+1\right)z^{2k}} + O\left(\frac{1}{z^{2N+2}}\right).\]

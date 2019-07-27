@@ -1,12 +1,12 @@
 **Google
-Buzz**是由[Google开发的](../Page/Google.md "wikilink")[社交及通訊工具](../Page/社交網路服務.md "wikilink")，-{zh:整合;zh-tw:整合;zh-cn:集成}-于该公司的邮件服务[Gmail中](../Page/Gmail.md "wikilink")。\[1\]\[2\]朋友分享的-{A|zh:連結;zh-tw:連結;zh-cn:链接}-与信息会显示在Gmail界面中。\[3\]Buzz中融合了照片、视频、链接等多种元素，形成了Gmail会话的重要组成部分。
+Buzz**是由[Google](../Page/Google.md "wikilink")开发的[社交及通訊工具](../Page/社交網路服務.md "wikilink")，-{zh:整合;zh-tw:整合;zh-cn:集成}-于该公司的邮件服务[Gmail](../Page/Gmail.md "wikilink")中。\[1\]\[2\]朋友分享的-{A|zh:連結;zh-tw:連結;zh-cn:链接}-与信息会显示在Gmail界面中。\[3\]Buzz中融合了照片、视频、链接等多种元素，形成了Gmail会话的重要组成部分。
 
 用户在发布Buzz时可以选择将其分享给全世界或是有限人群。\[4\]目前Buzz已支持[Picasa](../Page/Picasa.md "wikilink")、[Flickr](../Page/Flickr.md "wikilink")、[Google
-Reader](https://zh.wikipedia.org/wiki/Google_Reader "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Blogger和](../Page/Blogger.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")。Buzz的建立被认为是Google对如[Facebook之类的](../Page/Facebook.md "wikilink")[社交網路服務的一种尝试](../Page/社交網路服務.md "wikilink")\[5\]。Buzz也借用了[FriendFeed等网站的界面元素](../Page/FriendFeed.md "wikilink")，例如对一则消息可以表示“喜好”。
+Reader](https://zh.wikipedia.org/wiki/Google_Reader "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Blogger](../Page/Blogger.md "wikilink")和[Twitter](../Page/Twitter.md "wikilink")。Buzz的建立被认为是Google对如[Facebook](../Page/Facebook.md "wikilink")之类的[社交網路服務](../Page/社交網路服務.md "wikilink")的一种尝试\[5\]。Buzz也借用了[FriendFeed](../Page/FriendFeed.md "wikilink")等网站的界面元素，例如对一则消息可以表示“喜好”。
 
-Google的[谢尔盖·布林表示](../Page/谢尔盖·布林.md "wikilink")，借助Buzz，人们可以在工作和休闲之间建立桥梁，拉近距离。\[6\]
+Google的[谢尔盖·布林](../Page/谢尔盖·布林.md "wikilink")表示，借助Buzz，人们可以在工作和休闲之间建立桥梁，拉近距离。\[6\]
 
-[Google+全面開放之後](../Page/Google+.md "wikilink")，Google公司於2011年底停止Google
+[Google+](../Page/Google+.md "wikilink")全面開放之後，Google公司於2011年底停止Google
 Buzz服務\[7\]。
 
 ## 移动版

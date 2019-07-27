@@ -1,7 +1,7 @@
 **MY
-Astro至尊流行榜颁奖典礼**（），是一年一度的[马来西亚华人大型中文音乐颁奖典礼](../Page/马来西亚.md "wikilink")，由[MY
+Astro至尊流行榜颁奖典礼**（），是一年一度的[马来西亚](../Page/马来西亚.md "wikilink")华人大型中文音乐颁奖典礼，由[MY
 FM电台与](https://zh.wikipedia.org/wiki/MY_FM "wikilink")[Astro电视台于](https://zh.wikipedia.org/wiki/Astro "wikilink")2009年创办。来自中、台、港、马、新、泰的歌手在颁奖典礼上角逐各个奖项，包括25首至尊金曲奖。此节目会在[Astro
-AEC和](../Page/Astro_AEC.md "wikilink")[Astro全佳HD电视頻道上现场直播](../Page/Astro全佳HD.md "wikilink")，並在MY
+AEC和](../Page/Astro_AEC.md "wikilink")[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")电视頻道上现场直播，並在MY
 FM电台现场转播，让全马来西亚观众们可以目睹或收听直播的颁奖典礼。
 
 ## 大会司仪

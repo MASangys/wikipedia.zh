@@ -2,7 +2,7 @@
 
 ## 特点
 
-opentracker的速度比其他的伺服软件快很多，占用内存也更少，就连在[嵌入式系统中都运行自如](../Page/嵌入式系统.md "wikilink")。程序的实例可以在[集群中同时运行](https://zh.wikipedia.org/wiki/集群 "wikilink")，因为不同实例间可以相互同步。opentracker同时支持[HTTP协议和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[UDP协议](https://zh.wikipedia.org/wiki/UDP "wikilink")，后者的负载仅为前者的一半\[1\]。同时，opentracker还支持[IPv6](../Page/IPv6.md "wikilink")\[2\]、[gzip压缩和黑名单](https://zh.wikipedia.org/wiki/gzip "wikilink")\[3\]。因为曾有人的[IP地址暴露在伺服列表中而以侵害](../Page/IP地址.md "wikilink")[版权被起诉](https://zh.wikipedia.org/wiki/版权 "wikilink")\[4\]，opentracker可以生成随机IP地址而避免以上情况。
+opentracker的速度比其他的伺服软件快很多，占用内存也更少，就连在[嵌入式系统](../Page/嵌入式系统.md "wikilink")中都运行自如。程序的实例可以在[集群中同时运行](https://zh.wikipedia.org/wiki/集群 "wikilink")，因为不同实例间可以相互同步。opentracker同时支持[HTTP协议和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[UDP协议](https://zh.wikipedia.org/wiki/UDP "wikilink")，后者的负载仅为前者的一半\[1\]。同时，opentracker还支持[IPv6](../Page/IPv6.md "wikilink")\[2\]、[gzip压缩和黑名单](https://zh.wikipedia.org/wiki/gzip "wikilink")\[3\]。因为曾有人的[IP地址](../Page/IP地址.md "wikilink")暴露在伺服列表中而以侵害[版权被起诉](https://zh.wikipedia.org/wiki/版权 "wikilink")\[4\]，opentracker可以生成随机IP地址而避免以上情况。
 
 ## 所用技术
 

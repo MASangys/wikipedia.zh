@@ -84,9 +84,9 @@ Office 365方案，當中包括香港、印尼、日本、馬來西亞、菲律�
 
 ### 支持SOPA法案遭抵制
 
-2011年12月22日，在美國社交新聞網站[Reddit上展開一項抗議活動](../Page/Reddit.md "wikilink")\[37\]，探討美國[《網絡反盜版法案》](https://zh.wikipedia.org/wiki/Stop_Online_Piracy_Act "wikilink")
+2011年12月22日，在美國社交新聞網站[Reddit](../Page/Reddit.md "wikilink")上展開一項抗議活動\[37\]，探討美國[《網絡反盜版法案》](https://zh.wikipedia.org/wiki/Stop_Online_Piracy_Act "wikilink")
 （SOPA）的支持者身份，當中包括GoDaddy。其後，GoDaddy更發表了支持該法案的聲明，引發網民大表不滿，更發起抵制並將域名移離GoDaddy的行動。該項建議旋即傳遍網上，大獲支持，Reddit甚至倡議將2011年12月29日定為「抵制GoDaddy日」\[38\]。大力支持該項行動的其中一人是[Cheezburger行政總裁](https://zh.wikipedia.org/wiki/Cheezburger "wikilink")，他表明一旦GoDaddy繼續支持SOPA，Cheezburger便會把至少1,000個域名移走\[39\]。
-維基百科創辦人[吉米·威爾斯亦宣布無法認同GoDaddy在SOPA法案的立場](../Page/吉米·威爾斯.md "wikilink")，認為「不能接受」，會把維基旗下所有域名從GoDaddy移除\[40\]。經過在Reddit上展開的一項短期抗議行動後，圖片分享網站[imgur負責人Alan](https://zh.wikipedia.org/wiki/imgur "wikilink")
+維基百科創辦人[吉米·威爾斯](../Page/吉米·威爾斯.md "wikilink")亦宣布無法認同GoDaddy在SOPA法案的立場，認為「不能接受」，會把維基旗下所有域名從GoDaddy移除\[40\]。經過在Reddit上展開的一項短期抗議行動後，圖片分享網站[imgur負責人Alan](https://zh.wikipedia.org/wiki/imgur "wikilink")
 Schaaf亦把其域名移離GoDaddy\[41\]。
 
 GoDaddy於12月23日宣布不再支持SOPA，並發表了一份聲明，指出「GoDaddy將於互聯網社群支持該法案時，才予以支持。」\[42\]\[43\]同日較後時間，當被問及GoDaddy會否向國會表明會改變立場時，時任行政總裁Warren

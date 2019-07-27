@@ -1,7 +1,7 @@
 **Markó-Lam去氧反应**（Markó-Lam deoxygenation），又作**Marko-Lam去氧反应**，以比利时化学家
 Istvan Markó 和 Kevin Lam 的名字命名。\[1\]
 
-有机物中的[羟基](../Page/羟基.md "wikilink")[官能团转化为](../Page/官能团.md "wikilink")[氢原子的一种方法](../Page/氢.md "wikilink")。\[2\]
+有机物中的[羟基](../Page/羟基.md "wikilink")[官能团](../Page/官能团.md "wikilink")转化为[氢](../Page/氢.md "wikilink")原子的一种方法。\[2\]
 
 此反应是 [Bouveault–Blanc
 还原反应的变体](https://zh.wikipedia.org/wiki/Bouveault–Blanc还原反应 "wikilink")，\[3\]

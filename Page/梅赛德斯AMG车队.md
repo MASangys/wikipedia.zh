@@ -1,8 +1,8 @@
-**-{zh-hk:平治;zh-tw:賓士;zh-cn:梅赛德斯}-AMG馬石油車隊**（）是一個2009年時成立的[一级方程式车队](https://zh.wikipedia.org/wiki/一级方程式 "wikilink")，其前身為车队领队[罗斯·布朗創立並參加](../Page/罗斯·布朗.md "wikilink")[2009年世界一級方程式錦標賽的](https://zh.wikipedia.org/wiki/2009年世界一級方程式錦標賽 "wikilink")[布朗车队](https://zh.wikipedia.org/wiki/布朗车队 "wikilink")（）\[1\]。
+**-{zh-hk:平治;zh-tw:賓士;zh-cn:梅赛德斯}-AMG馬石油車隊**（）是一個2009年時成立的[一级方程式车队](https://zh.wikipedia.org/wiki/一级方程式 "wikilink")，其前身為车队领队[罗斯·布朗](../Page/罗斯·布朗.md "wikilink")創立並參加[2009年世界一級方程式錦標賽的](https://zh.wikipedia.org/wiki/2009年世界一級方程式錦標賽 "wikilink")[布朗车队](https://zh.wikipedia.org/wiki/布朗车队 "wikilink")（）\[1\]。
 
 ## 起源
 
-梅赛德斯大奖赛车队的前身是由[罗斯·布朗领导的](../Page/罗斯·布朗.md "wikilink")[布朗GP车队](https://zh.wikipedia.org/wiki/布朗车队 "wikilink")。布朗车队于2009年3月6日成立，前身是[本田车队](../Page/本田车队.md "wikilink")（）。布朗车队在参赛的第一年便获得车手、车队双料冠军。2009年11月17日，由[德国汽车制造商](../Page/德国.md "wikilink")[梅赛德斯-奔驰宣布收购布朗车队](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")75.1%的股份，将车队更名为“梅赛德斯大奖赛车队”（）。
+梅赛德斯大奖赛车队的前身是由[罗斯·布朗](../Page/罗斯·布朗.md "wikilink")领导的[布朗GP车队](https://zh.wikipedia.org/wiki/布朗车队 "wikilink")。布朗车队于2009年3月6日成立，前身是[本田车队](../Page/本田车队.md "wikilink")（）。布朗车队在参赛的第一年便获得车手、车队双料冠军。2009年11月17日，由[德国](../Page/德国.md "wikilink")汽车制造商[梅赛德斯-奔驰宣布收购布朗车队](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")75.1%的股份，将车队更名为“梅赛德斯大奖赛车队”（）。
 
 ### 更名
 
@@ -223,7 +223,7 @@
 77.</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/路易斯·漢米爾頓" title="wikilink">路易斯·漢米爾頓</a></strong><br />
  <a href="https://zh.wikipedia.org/wiki/維爾特利·鮑達斯" title="wikilink">維爾特利·鮑達斯</a></p></td>
-<td><p>173*</p></td>
+<td><p>363*</p></td>
 <td><p>第一*</p></td>
 </tr>
 <tr class="even">

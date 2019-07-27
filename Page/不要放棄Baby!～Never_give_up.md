@@ -1,5 +1,5 @@
 「**不要放棄Baby\!～Never give
-up**」（）是[SMAP的第](../Page/SMAP.md "wikilink")4張單曲，於1992年7月8日由[Victor
+up**」（）是[SMAP](../Page/SMAP.md "wikilink")的第4張單曲，於1992年7月8日由[Victor
 Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 簡介
@@ -19,7 +19,7 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
       - 作詞:福島優子‧森浩美 / 作曲:[筒美京平](../Page/筒美京平.md "wikilink") / 編曲:土方隆行
       - 曾在[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[大家的歌曲上播放](https://zh.wikipedia.org/wiki/大家的歌曲 "wikilink")
       - 描寫友情的歌曲，在NHK播放時是給母親的歌，與收錄在CD的歌詞不同。
-      - 當成員[森且行離隊](../Page/森且行.md "wikilink")、[稻垣吾郎復歸時](../Page/稻垣吾郎.md "wikilink")，在節目[SMAP×SMAP上曾共同演唱過](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")
+      - 當成員[森且行](../Page/森且行.md "wikilink")離隊、[稻垣吾郎](../Page/稻垣吾郎.md "wikilink")復歸時，在節目[SMAP×SMAP上曾共同演唱過](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")
       - 2013年4月8日播放的「[SMAP×SMAP](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")」特別篇上，五人在卡啦OK唱這曲時，中居、草彅感動流淚
 3.  不要放棄Baby\!～Never give up (Original Karaoke)
 4.  BEST FRIEND (Original Karaoke)

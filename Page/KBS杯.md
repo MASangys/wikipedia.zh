@@ -1,4 +1,4 @@
-**KBS杯围棋王战**，由[韩国棋院主办的](https://zh.wikipedia.org/wiki/韩国棋院 "wikilink")[围棋快棋赛](../Page/围棋.md "wikilink")，冠亚军获得[亚洲电视快棋赛的参赛资格](https://zh.wikipedia.org/wiki/亚洲电视快棋赛 "wikilink")。冠軍2千萬韓元，亞軍6百萬韓元。
+**KBS杯围棋王战**，由[韩国棋院主办的](https://zh.wikipedia.org/wiki/韩国棋院 "wikilink")[围棋](../Page/围棋.md "wikilink")快棋赛，冠亚军获得[亚洲电视快棋赛的参赛资格](https://zh.wikipedia.org/wiki/亚洲电视快棋赛 "wikilink")。冠軍2千萬韓元，亞軍6百萬韓元。
 
 ## 历届冠亚军
 

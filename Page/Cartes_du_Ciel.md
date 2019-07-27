@@ -1,7 +1,7 @@
 **Cartes du
-Ciel**是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[天象儀程式](../Page/天象儀.md "wikilink")，可以在[Linux](../Page/Linux.md "wikilink")、[Mac
+Ciel**是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[天象儀](../Page/天象儀.md "wikilink")程式，可以在[Linux](../Page/Linux.md "wikilink")、[Mac
 OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-[微軟的平台上執行](https://zh.wikipedia.org/wiki/微軟 "wikilink")，目前已經發行到第三版，並且加入了Linux做為目標平台，使用授權也已從[免費軟體成為](../Page/免費軟體.md "wikilink")[GPL](https://zh.wikipedia.org/wiki/GNU_通用公眾授權條款 "wikilink")，並且專案移到新的網站。
+[微軟的平台上執行](https://zh.wikipedia.org/wiki/微軟 "wikilink")，目前已經發行到第三版，並且加入了Linux做為目標平台，使用授權也已從[免費軟體](../Page/免費軟體.md "wikilink")成為[GPL](https://zh.wikipedia.org/wiki/GNU_通用公眾授權條款 "wikilink")，並且專案移到新的網站。
 
 這個軟體為所有的星座、行星和大多數用望遠鏡能看見的天體都製做了標籤。
 

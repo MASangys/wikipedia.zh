@@ -1,7 +1,7 @@
 **MPEG2-TS 傳輸串流**（MPEG-2 Transport
-Stream；又称MPEG-TS、MTS、TS）是一種傳輸和儲存包含視訊、音訊與通訊協定各種資料的標準格式，用於數位電視廣播系統，如[DVB](../Page/DVB.md "wikilink")、[ATSC](../Page/ATSC.md "wikilink")、[ISDB](../Page/ISDB.md "wikilink")、[IPTV等等](../Page/IPTV.md "wikilink")。
+Stream；又称MPEG-TS、MTS、TS）是一種傳輸和儲存包含視訊、音訊與通訊協定各種資料的標準格式，用於數位電視廣播系統，如[DVB](../Page/DVB.md "wikilink")、[ATSC](../Page/ATSC.md "wikilink")、[ISDB](../Page/ISDB.md "wikilink")、[IPTV](../Page/IPTV.md "wikilink")等等。
 
-MPEG2-TS定義於[MPEG-2第一部份](../Page/MPEG-2.md "wikilink")：系統（即[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC標準](https://zh.wikipedia.org/wiki/IEC "wikilink")13818-1或[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink")
+MPEG2-TS定義於[MPEG-2](../Page/MPEG-2.md "wikilink")第一部份：系統（即[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC標準](https://zh.wikipedia.org/wiki/IEC "wikilink")13818-1或[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink")
 Rec. H.222.0）。
 
 MPEG2-TS面向的传输介质是[地面和](https://zh.wikipedia.org/wiki/地面电视 "wikilink")[卫星等](../Page/卫星电视.md "wikilink")[可靠性较低的传输介质](https://zh.wikipedia.org/wiki/可靠性_\(计算机网络\) "wikilink")，这一点与面向较可靠介质如[DVD等的](https://zh.wikipedia.org/wiki/DVD "wikilink")不同。
@@ -9,14 +9,14 @@ MPEG2-TS面向的传输介质是[地面和](https://zh.wikipedia.org/wiki/地面
 ## 传输协议
 
 [MPEG_Transport_Stream_HL.svg](https://zh.wikipedia.org/wiki/File:MPEG_Transport_Stream_HL.svg "fig:MPEG_Transport_Stream_HL.svg")功能的电视机）接收射频信号并解码后进行播放\]\]
-1个TS承载多个子TS，通常子TS是（）；分组化基本流上承载（），或者非MPEG的编码流，例如[AC-3](https://zh.wikipedia.org/wiki/杜比数字#杜比數位 "wikilink")、[DTS音频流](../Page/DTS.md "wikilink")，[MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")、[JPEG
+1个TS承载多个子TS，通常子TS是（）；分组化基本流上承载（），或者非MPEG的编码流，例如[AC-3](https://zh.wikipedia.org/wiki/杜比数字#杜比數位 "wikilink")、[DTS](../Page/DTS.md "wikilink")音频流，[MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")、[JPEG
 2000视频流](../Page/JPEG_2000.md "wikilink")、字幕所需要的文本和图像、用于定义基本流的表、乃至电视台定义的[电子节目表](https://zh.wikipedia.org/wiki/电子节目表 "wikilink")（EPG）等。
 
 一些相互独立的流可以被[复用在一个TS里](../Page/多路复用.md "wikilink")，例如几个不同的电视频道或者同一个电影的多个拍摄角度。
 
 TS分组（TS
 Packet）大小最大为188字节，它是多路复用的基本单位。多个不同的ES的内容会分别被封装到TSP中通过同一个TS传输。由于封包（分组）尺寸较小，复用对各个ES造成的时延也较低，对传输误码的耐受性也强于那些将一帧画面封装到一整个包里的容器格式，如MPEG
-PS和[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")、[MOV](https://zh.wikipedia.org/wiki/QuickTime文件格式 "wikilink")/[MP4](../Page/MP4.md "wikilink")、[MKV等](../Page/Matroska.md "wikilink")。这对于[视频会议等对实时性要求高的场景特别有意义](../Page/视频会议.md "wikilink")：单个分组损坏不会造成很大的语音延迟。
+PS和[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")、[MOV](https://zh.wikipedia.org/wiki/QuickTime文件格式 "wikilink")/[MP4](../Page/MP4.md "wikilink")、[MKV等](../Page/Matroska.md "wikilink")。这对于[视频会议](../Page/视频会议.md "wikilink")等对实时性要求高的场景特别有意义：单个分组损坏不会造成很大的语音延迟。
 
 TS通常以[固定码率传输](https://zh.wikipedia.org/wiki/固定码率 "wikilink")。固定码率传输时，如果上层待传输内容不足，会发送[空分组](https://zh.wikipedia.org/wiki/#空分组 "wikilink")以占位。[蓝光光碟中使用的MPEG-2
 TS也使用了固定码率](https://zh.wikipedia.org/wiki/#蓝光 "wikilink")。
@@ -65,7 +65,7 @@ packet）是TS的基本传输单位。在TS范围以外并不存在描述一个T
 
 每个TS分组以固定的起始，这个同步字节的值为0x47，它也是TS分组头的一部分。TS分组的必选头长度为4字节，其后为可选部分，为[载荷或](../Page/负载_\(计算机\).md "wikilink")[适配域](https://zh.wikipedia.org/wiki/#适配域 "wikilink")。TS分组的头部固定以[大端序读写](https://zh.wikipedia.org/wiki/字节序#大端序 "wikilink")。TS分组长度为188字节。
 
-如同所有的传输协议一样，虽然TS分组本身长度为188字节，其底层传输机制可以为每个TS分组附加一些信息以便传输，例如[前向纠错用的校验部分](https://zh.wikipedia.org/wiki/前向纠错 "wikilink")。[DVB和](../Page/DVB.md "wikilink")[ISDB数字电视制式的前向纠错信息有](../Page/ISDB.md "wikilink")16个字节，而[ATSC制式有](../Page/ATSC.md "wikilink")20个字节。
+如同所有的传输协议一样，虽然TS分组本身长度为188字节，其底层传输机制可以为每个TS分组附加一些信息以便传输，例如[前向纠错用的校验部分](https://zh.wikipedia.org/wiki/前向纠错 "wikilink")。[DVB](../Page/DVB.md "wikilink")和[ISDB](../Page/ISDB.md "wikilink")数字电视制式的前向纠错信息有16个字节，而[ATSC](../Page/ATSC.md "wikilink")制式有20个字节。
 
 ### TS分组格式
 
@@ -119,7 +119,7 @@ TS分组包括头部和载荷两部分。头部包括固定长度部分和可选
 <td><p>传输加扰控制</p></td>
 <td><p>Transport Scrambling control (TSC)</p></td>
 <td><p>2</p></td>
-<td><p>值为'00'时表示载荷未加密。其余值由具体系统定义。以<a href="../Page/DVB.md" title="wikilink">DVB的</a>和<a href="../Page/ATSC.md" title="wikilink">ATSC的</a><a href="https://zh.wikipedia.org/wiki/数据加密标准" title="wikilink">DCS为例</a>：</p>
+<td><p>值为'00'时表示载荷未加密。其余值由具体系统定义。以<a href="../Page/DVB.md" title="wikilink">DVB</a>的和<a href="../Page/ATSC.md" title="wikilink">ATSC</a>的<a href="https://zh.wikipedia.org/wiki/数据加密标准" title="wikilink">DCS为例</a>：</p>
 <ul>
 <li>'01' = 保留 (供未來使用),</li>
 <li>'10' = 以奇数密钥加密</li>
@@ -320,13 +320,13 @@ MPEG-2
 TS原本的设计用途是数字电视广播，不过后来用在数码摄像机、录像机、播放机上。用于非广播类用途时，其TS分组格式有所不同：在分组上增加了4个字节长的时间码（Time
 Code），使分组长度变为192字节。时间码使得播放系统可以在允许[随机读取的存储介质中快速找到特定时间点的视频内容](https://zh.wikipedia.org/wiki/隨機存取 "wikilink")。借助时间码也可以用来同步多个摄像机拍摄的内容。
 
-[JVC在基于](../Page/JVC.md "wikilink")[硬盘存储的](../Page/硬盘.md "wikilink")产品中将这种流称为。
+[JVC](../Page/JVC.md "wikilink")在基于[硬盘](../Page/硬盘.md "wikilink")存储的产品中将这种流称为。
 
 ### 蓝光
 
 以前述格式构成的流被[蓝光光碟联盟称为](https://zh.wikipedia.org/wiki/蓝光光碟联盟 "wikilink")“[BDAV
 MPEG-2 transport
-stream](../Page/M2TS.md "wikilink")”（字面意思为BDAV版本的MPEG2-TS），其文件扩展名为.m2ts，俗称[M2TS流](../Page/M2TS.md "wikilink")。蓝光的影碟以BDAV（Blu-ray
+stream](../Page/M2TS.md "wikilink")”（字面意思为BDAV版本的MPEG2-TS），其文件扩展名为.m2ts，俗称[M2TS](../Page/M2TS.md "wikilink")流。蓝光的影碟以BDAV（Blu-ray
 Disc Movie）格式的BDMV容器存储音频、视频以及其他内容，用于BD-R和BD-RE等格式的录制中。由于蓝光的M2TS和标准的MPEG
 TS格式基本相同，其设备能够以非常小的延迟转录数字电视内容。由于MPEG-2
 TS原本就是面向实时播放的格式，使得蓝光的内容可以简单地从流中截取任意一段，降低了视频剪辑的处理成本。此外，这种流格式也使得存储介质的物理损坏对内容的影响降到最小。

@@ -1,6 +1,6 @@
 **von Richter反应**（von Richter reaction），以 Victor von Richter 的名字命名。
 
-[芳香](https://zh.wikipedia.org/wiki/芳香化合物 "wikilink")[硝基化合物与](../Page/硝基化合物.md "wikilink")[氰化钾反应](../Page/氰化钾.md "wikilink")，硝基转变为邻位的羧基，得相应的芳香[羧酸](../Page/羧酸.md "wikilink")。\[1\]\[2\]\[3\]
+[芳香](https://zh.wikipedia.org/wiki/芳香化合物 "wikilink")[硝基化合物](../Page/硝基化合物.md "wikilink")与[氰化钾](../Page/氰化钾.md "wikilink")反应，硝基转变为邻位的羧基，得相应的芳香[羧酸](../Page/羧酸.md "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Von-Richter-Reaktion_Ü_V1.svg](https://zh.wikipedia.org/wiki/File:Von-Richter-Reaktion_Ü_V1.svg "fig:Von-Richter-Reaktion_Ü_V1.svg")

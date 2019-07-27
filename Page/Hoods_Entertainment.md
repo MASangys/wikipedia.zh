@@ -1,8 +1,8 @@
-**株式会社Hoods**（；），是以[动画企画](../Page/动画.md "wikilink")、制作为主营业务的[日本](../Page/日本.md "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")。
+**株式会社Hoods**（；），是以[动画](../Page/动画.md "wikilink")企画、制作为主营业务的[日本](../Page/日本.md "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")。
 
 ## 公司概要
 
-[GONZO的制作人永井理及一部分参与了](../Page/GONZO.md "wikilink")「[武装机甲](https://zh.wikipedia.org/wiki/武装机甲 "wikilink")」、「[BLASSREITER](https://zh.wikipedia.org/wiki/BLASSREITER "wikilink")」等片制作的工作人员\[1\]，于2009年2月成立的动画制作公司。
+[GONZO](../Page/GONZO.md "wikilink")的制作人永井理及一部分参与了「[武装机甲](https://zh.wikipedia.org/wiki/武装机甲 "wikilink")」、「[BLASSREITER](https://zh.wikipedia.org/wiki/BLASSREITER "wikilink")」等片制作的工作人员\[1\]，于2009年2月成立的动画制作公司。
 
 成立最初的目的是原创动画的制作，及包括作画在内的[外包业务](https://zh.wikipedia.org/wiki/外包 "wikilink")。但目前的作品皆是改編自漫畫作品，並因內容挑戰一般向動畫尺度而引起動漫迷注意。
 
@@ -11,7 +11,7 @@
 ### 電視動畫
 
   - [聖痕鍊金士](../Page/聖痕鍊金士.md "wikilink")（，2010年）
-  - [聖痕鍊金士Ⅱ](../Page/聖痕鍊金士.md "wikilink")（，2011年）
+  - [聖痕鍊金士](../Page/聖痕鍊金士.md "wikilink")Ⅱ（，2011年）
   - [魔乳秘劍帖](../Page/魔乳秘劍帖.md "wikilink")（，2011年）
   - [謎樣女友X](../Page/謎樣女友X.md "wikilink")（，2012年）
   - [Fantasista

@@ -1,4 +1,4 @@
-**TCPDF**是一个流行的用于生成[PDF文档的](https://zh.wikipedia.org/wiki/PDF "wikilink")[PHP类](../Page/PHP.md "wikilink")。TCPDF是当前唯一完整支持[UTF-8以及从右至左书写的语言包括双向文稿的PHP库](../Page/UTF-8.md "wikilink")。
+**TCPDF**是一个流行的用于生成[PDF文档的](https://zh.wikipedia.org/wiki/PDF "wikilink")[PHP](../Page/PHP.md "wikilink")类。TCPDF是当前唯一完整支持[UTF-8](../Page/UTF-8.md "wikilink")以及从右至左书写的语言包括双向文稿的PHP库。
 
 TCPDF是[SourceForge](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")\[1\]
 上最活跃的项目之一。
@@ -19,75 +19,8 @@ CMS](http://elxis.org/)\[8\],
 [SugarCRM](../Page/SugarCRM.md "wikilink")\[11\],
 [Symfony](../Page/Symfony.md "wikilink")\[12\],
 [TYPO3](../Page/TYPO3.md "wikilink")\[13\],
-[Vtiger](https://zh.wikipedia.org/wiki/Vtiger "wikilink") CRM\[14\],
-[Yii
-Framework](https://zh.wikipedia.org/wiki/Yii_Framework "wikilink")\[15\],
-[CMS Made Simple](http://www.cmsmadesimple.org)\[16\]等。
-
-TCPDF 类是源自于 [公有领域](../Page/公有领域.md "wikilink") 的
-[FPDF](https://zh.wikipedia.org/wiki/FPDF "wikilink")。[FPDF](https://zh.wikipedia.org/wiki/FPDF "wikilink")
-的开发者是 Olivier Plathey，但 TCPDF 已经几乎被重写，并且添加了数百个新的特性。\[17\].
-
-## 特性
-
-基本功能无需额外的库
-
-  - 支持所有的 [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink") 页面格式;
-  - 支持自定义页面格式，边距和计量单位;
-  - 支持 [UTF-8](../Page/UTF-8.md "wikilink")
-    [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
-    和从右至左书写的语言;
-  - 支持
-    [TrueTypeUnicode](https://zh.wikipedia.org/wiki/TrueTypeUnicode "wikilink"),
-    [OpenTypeUnicode](https://zh.wikipedia.org/wiki/OpenTypeUnicode "wikilink"),
-    [TrueType](../Page/TrueType.md "wikilink"),
-    [OpenType](../Page/OpenType.md "wikilink"),
-    [Type1](https://zh.wikipedia.org/wiki/Type1 "wikilink") 和
-    [CID-0](https://zh.wikipedia.org/wiki/CID-0 "wikilink") 字体;
-  - 支持文档加密;
-  - 支持 [XHTML](../Page/XHTML.md "wikilink") 代码转换;
-  - 支持几何绘图和图形变换;
-  - 支持 [JavaScript](../Page/JavaScript.md "wikilink") 和表单;
-  - 支持打印各种 [barcode](https://zh.wikipedia.org/wiki/barcode "wikilink")
-    格式:CODE 39, ANSI MH10.8M-1983, USD-3, 3 of 9, CODE 93, USS-93,
-    Standard 2 of 5, Interleaved 2 of 5, CODE 128 A/B/C, 2 和 5 Digits
-    UPC-Based Extension, EAN 8, EAN 13, UPC-A, UPC-E, MSI, POSTNET,
-    PLANET, RMS4CC (Royal Mail 4-state Customer Code), CBC (Customer Bar
-    Code), KIX (Klant index - Customer index), [Intelligent Mail
-    Barcode](https://zh.wikipedia.org/wiki/Intelligent_Mail_Barcode "wikilink"),
-    OneCode, USPS-B-3200, CODABAR, CODE 11, PHARMACODE, PHARMACODE
-    TWO-TRACKS;
-  - 支持设置书签和目录;
-  - 支持页面移动;
-  - 支持页眉和页脚管理;
-  - 支持自动分页;
-  - 支持页面自动编号和页面分组;
-  - 支持自动断行和文本调整
-  - 原生支持 [JPEG](../Page/JPEG.md "wikilink") 和
-    [PNG](https://zh.wikipedia.org/wiki/Portable_Network_Graphics "wikilink")
-    图片，另外可通过
-    [GD](https://zh.wikipedia.org/wiki/GD_Graphics_Library "wikilink") 和
-    [ImageMagick](../Page/ImageMagick.md "wikilink") 支持其所支持的所有图片格式
-  - 支持所有文本呈现方式（full, stroke, clipping）
-  - 支持水印;
-  - 支持
-    [灰度图像](../Page/灰度图像.md "wikilink")，[三原色光模式](../Page/三原色光模式.md "wikilink")，[印刷四分色模式](../Page/印刷四分色模式.md "wikilink"),[专色和透明](https://zh.wikipedia.org/wiki/专色 "wikilink");
-  - 支持几种标注模式，包括链接，文本和文件附件;
-  - 支持页本压缩 (需要 [zlib](https://zh.wikipedia.org/wiki/zlib "wikilink")
-    扩展);
-  - 支持文本断字
-  - 支持事务以执行 UNDO 命令
-  - 支持 [数字签名](https://zh.wikipedia.org/wiki/数字签名 "wikilink")
-
-## 参考
-
-## 外部链接
-
-  - <http://www.tcpdf.org/>
-  - [TCPDF Project at
-    Sourceforge](http://sourceforge.net/projects/tcpdf/)
-
-[Category:免费PDF软件](https://zh.wikipedia.org/wiki/Category:免费PDF软件 "wikilink")
+[Vtiger](https://zh.wikipedia.org/wiki/Vtiger "wikilink")
+CRM<ref>\[<http://trac.vtiger.com/cgi-bin/trac.cgi/browser/vtigercrm/branches/5.0.4/inc>
 
 1.  [Update: 2009-03-31 Edition - Statistics and Top
     Projects](http://sourceforge.net/apps/wordpress/sourceforge/2009/04/01/sourceforgenet-update-2009-03-31-edition/%7CSourceForge.net)
@@ -117,12 +50,3 @@ TCPDF 类是源自于 [公有领域](../Page/公有领域.md "wikilink") 的
     symfony](http://www.symfony-project.org/plugins/sfTCPDFPlugin)
 13. [TCPDF module for
     TYPO3](http://typo3.org/documentation/document-library/extension-manuals/tcpdf/current/?cHash=29a8e4f992&no_cache=1&sword_list)
-
-14. [TCPDF module on
-    vtiger](http://trac.vtiger.com/cgi-bin/trac.cgi/browser/vtigercrm/branches/5.0.4/include/tcpdf?rev=11812)
-15. [TCPDF extesion for
-    Yii](http://www.yiiframework.com/extension/tcpdf/)
-16. [Announcing CMS Made Simple 1.4 “Jamaica” with
-    TCPDF](http://blog.cmsmadesimple.org/2008/08/03/announcing-cms-made-simple-14-jamaica/)
-
-17. [TCPDF official Website](http://www.tcpdf.org)

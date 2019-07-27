@@ -1,6 +1,6 @@
-**Synergy**是一款[开放源代码软件](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")，能让用户通过网络在视线范围内使用一套[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")[鼠标控制多台电脑](../Page/鼠标.md "wikilink")。因为Synergy不能传输视频，所以每台电脑都需要连接[显示器](../Page/显示器.md "wikilink")。除了在多台计算机间共享键盘鼠标，Synergy还能共享[剪贴板](../Page/剪贴板.md "wikilink")。
+**Synergy**是一款[开放源代码软件](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")，能让用户通过网络在视线范围内使用一套[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")[鼠标](../Page/鼠标.md "wikilink")控制多台电脑。因为Synergy不能传输视频，所以每台电脑都需要连接[显示器](../Page/显示器.md "wikilink")。除了在多台计算机间共享键盘鼠标，Synergy还能共享[剪贴板](../Page/剪贴板.md "wikilink")。
 
-Synergy是[跨平台的软件](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Linux和](../Page/Linux.md "wikilink")[Mac
+Synergy是[跨平台的软件](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")和[Mac
 OS
 X之间共享键盘和滑鼠](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，将来还可能支持[Windows
 Mobile和](../Page/Windows_Mobile.md "wikilink")[iPhone平台](https://zh.wikipedia.org/wiki/iPhone "wikilink")，也容易[移植到更多平台](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")。但是会存在一些技术上的限制，使得软件只能作为客户端或者服务器使用。
@@ -13,7 +13,7 @@ Synergy的前身是1996年由Richard Lee和Adam Feder在Cosmo
 Software（[SGI的](https://zh.wikipedia.org/wiki/SGI "wikilink")[子公司](../Page/子公司.md "wikilink")）编写的**CosmoSynergy**，Chris
 Schoeneman为解决一些恼人的问题，如在[桌面上总有一个窗口](https://zh.wikipedia.org/wiki/桌面 "wikilink")，而加入开发团队。CosmoSynergy的开发已经相当完善，但Cosmo
 Software公司之后[倒闭了](https://zh.wikipedia.org/wiki/倒闭 "wikilink")，于是Chris
-Schoeneman公布了[源代码将其发展成Synergy项目](../Page/源代码.md "wikilink")。\[1\]该项目在2001年\[2\]至2006年期间运作，在2006年4月发布1.3.1版本后一直没有新的进展（截止2009年底）。\[3\]长期不更新的Synergy对2006年之后的操作系统，如[Windows
+Schoeneman公布了[源代码](../Page/源代码.md "wikilink")将其发展成Synergy项目。\[1\]该项目在2001年\[2\]至2006年期间运作，在2006年4月发布1.3.1版本后一直没有新的进展（截止2009年底）。\[3\]长期不更新的Synergy对2006年之后的操作系统，如[Windows
 Vista](../Page/Windows_Vista.md "wikilink")，兼容性较差。
 2009年2月，出现了Synergy+的第一个版本：1.3.2，承接Synergy的版本号。Synergy+的作者表示希望与Synergy的作者Chris
 Schoeneman取得联系，将目前的多个类似项目合而为一。\[4\]Chris Schoeneman在公开的讨论中说自己正在开发Synergy
@@ -41,7 +41,7 @@ left of pc2,pc2 is right of pc1，最后开始。
 
 #### 客户端
 
-输入服务器的[IP地址或使用](../Page/IP地址.md "wikilink")
+输入服务器的[IP地址](../Page/IP地址.md "wikilink")或使用
 [尋找伺服器](https://zh.wikipedia.org/wiki/尋找伺服器 "wikilink").點擊[連線](https://zh.wikipedia.org/wiki/連線 "wikilink")
 ，并开始。
 

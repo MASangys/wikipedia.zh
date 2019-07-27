@@ -19,8 +19,8 @@ Auto，並將此型彈藥命名為[.40 S\&W](../Page/.40_S&W.md "wikilink")。
 
 ## 使用
 
-普遍使用於[狩獵運動中和自衛](../Page/狩獵.md "wikilink")；在美國，10mm
-Auto也是少數合法用於獵殺[白尾鹿的半自動手槍子彈](../Page/白尾鹿.md "wikilink")。
+普遍使用於[狩獵](../Page/狩獵.md "wikilink")運動中和自衛；在美國，10mm
+Auto也是少數合法用於獵殺[白尾鹿](../Page/白尾鹿.md "wikilink")的半自動手槍子彈。
 
 儘管F.B.I.最後選擇[.40
 S\&W手槍子彈](../Page/.40_S&W.md "wikilink")，但部分執法單位仍有使用10mm

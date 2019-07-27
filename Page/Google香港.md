@@ -1,6 +1,6 @@
 **Google香港**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Google
 Hong
-Kong**）是[谷歌在](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[香港開設的分公司及分網站](../Page/香港.md "wikilink")，於2003年1月正式啟用\[1\]，為香港網絡用家提供[本土化的搜尋服務](../Page/本土化.md "wikilink")。由2010年3月23日起，由於[谷歌中國終止過濾審查的搜尋服務](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")，Google香港亦肩負起服務[中國網絡用家的角色](../Page/中國.md "wikilink")。
+Kong**）是[谷歌在](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[香港](../Page/香港.md "wikilink")開設的分公司及分網站，於2003年1月正式啟用\[1\]，為香港網絡用家提供[本土化](../Page/本土化.md "wikilink")的搜尋服務。由2010年3月23日起，由於[谷歌中國終止過濾審查的搜尋服務](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")，Google香港亦肩負起服務[中國](../Page/中國.md "wikilink")網絡用家的角色。
 
 Google香港的辦事處設於香港[銅鑼灣](../Page/銅鑼灣.md "wikilink")[時代廣場二座](../Page/時代廣場_\(香港\).md "wikilink")25樓2501室；而21樓及26樓則為辦公室。
 
@@ -24,26 +24,10 @@ Suggest）的[香港粵語拼音搜尋服務](https://zh.wikipedia.org/wiki/香�
 
 ## 數據中心
 
-2011年9月28日，Google宣布在[將軍澳購入](../Page/將軍澳.md "wikilink")2.7公頃土地，將耗費一億美元興建一座[數據中心](https://zh.wikipedia.org/wiki/數據中心 "wikilink")，\[4\]
-長遠投資達三億美元。\[5\]
-2013年，Google放棄有關工程\[6\]並先後啟用了新加坡資料中心與[台灣資料中心](../Page/Google台灣資料中心.md "wikilink")。
-
-## 參考文獻
-
-## 參見
-
-  - [Google](../Page/Google.md "wikilink")
-  - [谷歌中國](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")
-
-## 外部連結
-
-  - [Google香港](https://www.google.com.hk/)
-
-[Category:中文網站](https://zh.wikipedia.org/wiki/Category:中文網站 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:香港網站](https://zh.wikipedia.org/wiki/Category:香港網站 "wikilink")
-[Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+2011年9月28日，Google宣布在[將軍澳](../Page/將軍澳.md "wikilink")購入2.7公頃土地，將耗費一億美元興建一座[數據中心](https://zh.wikipedia.org/wiki/數據中心 "wikilink")，\[4\]
+長遠投資達三億美元。\[5\] 2013年，Google放棄有關工程<ref>{{Cite web|url =
+[http://orientaldaily.on.cc/cnt/finance/20131211/00202_001.html|title](http://orientaldaily.on.cc/cnt/finance/20131211/00202_001.html%7Ctitle)
+= Google棄建 港數據中心|author =
 
 1.  [Archive.org - google.com.hk -
     Jan 29, 2003](https://web.archive.org/web/20030129024746/http://www.google.com.hk/index.html)
@@ -55,4 +39,3 @@ Suggest）的[香港粵語拼音搜尋服務](https://zh.wikipedia.org/wiki/香�
 4.
 5.  [Hong Kong . Google Data
     Centers](http://www.google.com/about/datacenters/locations/hong-kong/)
-6.

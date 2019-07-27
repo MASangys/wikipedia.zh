@@ -1,4 +1,4 @@
-**JRuby**，一個採用纯[Java實現的](../Page/Java.md "wikilink")[Ruby解释器](../Page/Ruby.md "wikilink")，由JRuby團隊開發。它是一個自由軟體，在[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")/[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")/[LGPL三种许可协议下发布](https://zh.wikipedia.org/wiki/LGPL "wikilink")。主要开发者有Charles
+**JRuby**，一個採用纯[Java](../Page/Java.md "wikilink")實現的[Ruby](../Page/Ruby.md "wikilink")解释器，由JRuby團隊開發。它是一個自由軟體，在[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")/[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")/[LGPL三种许可协议下发布](https://zh.wikipedia.org/wiki/LGPL "wikilink")。主要开发者有Charles
 Nutter、Thomas Enebo、Ola Bini、Nick Sieger等。最新发布版为9.2.0.0（2018-05-24）。
 
 ## 历史
@@ -32,7 +32,7 @@ Nutter、Thomas Enebo、Ola Bini、Nick Sieger等。最新发布版为9.2.0.0（
 <td><p>1.2.0</p></td>
 <td><p>2009-03-16</p></td>
 <td><p>提供对Ruby 1.9几乎完全支持 (包含JIT编译器)<br />
-初步的<a href="../Page/Android.md" title="wikilink">Android支持</a></p></td>
+初步的<a href="../Page/Android.md" title="wikilink">Android</a>支持</p></td>
 </tr>
 <tr class="odd">
 <td><p>1.3.0</p></td>

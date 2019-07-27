@@ -1,4 +1,4 @@
-**gbrainy**是一个为[GNOME设计的](../Page/GNOME.md "wikilink")[智力游戏](https://zh.wikipedia.org/wiki/智力游戏 "wikilink")，属于[教育软件](https://zh.wikipedia.org/wiki/教育软件 "wikilink")，旨在激发大脑潜力，授权协议是[GNU
+**gbrainy**是一个为[GNOME](../Page/GNOME.md "wikilink")设计的[智力游戏](https://zh.wikipedia.org/wiki/智力游戏 "wikilink")，属于[教育软件](https://zh.wikipedia.org/wiki/教育软件 "wikilink")，旨在激发大脑潜力，授权协议是[GNU
 GPL](../Page/GNU通用公共许可证.md "wikilink")。使用[C\#编写](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，基于[Mono](../Page/Mono.md "wikilink")\[1\]并移植到[Sugar图形环境](../Page/Sugar_\(用戶界面\).md "wikilink")\[2\]以及[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 

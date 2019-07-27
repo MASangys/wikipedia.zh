@@ -9,14 +9,20 @@ IDE（取而代之的是其他集成开发IDE：[lazarus](https://zh.wikipedia.o
 第二版NOI Linux由Ubuntu
 10.10进行少量再开发而成，也没有开放源代码，但稳定性、安装步骤、兼容性和可用性都有所提高。但依然受到不少NOI参赛选手和教练的诟病，也受到开源社区的质疑。目前最新版为第三版。
 
+目前，**NOI Linux**已经成为NOI系列比赛的评测环境与比赛环境。\[1\]\[2\]
+
 ## 參見
 
   - [NOI](https://zh.wikipedia.org/wiki/NOI "wikilink")
   - [Noi
-    Linux下载](https://web.archive.org/web/20110707050714/http://www.noi.cn/noi-linux)
+    Linux下载](http://www.noi.cn/newsview.html?id=267&hash=BDBDBE&type=11)
+    [历史版本](http://history.noi.cn/noi-linux)
 
 ## 参考资料
 
 <references/>
 
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
+
+1.
+2.

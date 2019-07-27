@@ -1,13 +1,13 @@
 《**PHANTOM
-MINDS**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈第](../Page/水樹奈奈.md "wikilink")21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2010年1月13日由[King
+MINDS**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2010年1月13日由[King
 Records
 MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番號KICM-1299。
 
 ## 解説
 
   - 水樹首次的兩月連續單曲發行，本作為第一彈。本作是水树在跨入30岁以前最后一张单曲。
-  - [Trickster之后](../Page/Trickster.md "wikilink")，首张英语标题的单曲。
-  - 继续同前作[梦幻](https://zh.wikipedia.org/wiki/梦幻_\(单曲\) "wikilink")，收录曲全部为[商業搭配曲](../Page/商業搭配.md "wikilink")。
+  - [Trickster](../Page/Trickster.md "wikilink")之后，首张英语标题的单曲。
+  - 继续同前作[梦幻](https://zh.wikipedia.org/wiki/梦幻_\(单曲\) "wikilink")，收录曲全部为[商業搭配](../Page/商業搭配.md "wikilink")曲。
   - 與前作[夢幻](https://zh.wikipedia.org/wiki/夢幻_\(單曲\) "wikilink")、次作[Silent
     Bible同時製作](../Page/Silent_Bible.md "wikilink")。3张单曲收录了新曲12首，已经接近一张专辑的容量\[1\]。
   - 與前作的發行時間間隔為水樹目前以來最短（77天），但在下張單曲決定發行之後，本紀錄被刷新。
@@ -15,7 +15,7 @@ MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番�
     JAPAN 新世紀AniSong
     SP.2](https://zh.wikipedia.org/wiki/MUSIC_JAPAN#MUSIC_JAPAN_新世紀AniSong_SP "wikilink")」中，水树本人參演，「PHANTOM
     MINDS」首次正式披露。
-  - 1月12日的[ORICON單曲榜單日榜為繼](https://zh.wikipedia.org/wiki/ORICON "wikilink")[深愛後再度獲得日间排名第](../Page/深愛.md "wikilink")1位，登榜之后7日内，连续日间排名第1位\[2\]，至1月25日的Oricon週榜更以初动銷量五萬四千張首次奪冠，成為水樹首張周冠軍單曲，同时这也是首张声优单曲获得Oricon周榜第1位。是自上张专辑[ULTIMATE
+  - 1月12日的[ORICON單曲榜單日榜為繼](https://zh.wikipedia.org/wiki/ORICON "wikilink")[深愛](../Page/深愛.md "wikilink")後再度獲得日间排名第1位，登榜之后7日内，连续日间排名第1位\[2\]，至1月25日的Oricon週榜更以初动銷量五萬四千張首次奪冠，成為水樹首張周冠軍單曲，同时这也是首张声优单曲获得Oricon周榜第1位。是自上张专辑[ULTIMATE
     DIAMOND获得专辑周榜第](../Page/ULTIMATE_DIAMOND.md "wikilink")1位之后的第二次\[3\]。
   - 這首也是在第61回[NHK紅白歌合戰中](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，水樹演唱的曲目。
 

@@ -1,5 +1,5 @@
 **KAT-TUN之前輩請教教我\!大人的守則100\!** 為日本綜藝節目「KAT-TUNの先輩教えて下さい\!大人のオキテ100」，
-由日本偶像組合[KAT-TUN及日本團體](../Page/KAT-TUN.md "wikilink")[くりぃむしちゅー主持](https://zh.wikipedia.org/wiki/くりぃむしちゅー "wikilink")。於2008年1月12日開始，約每隔一年不定期在[日本電視台播放](../Page/日本電視台.md "wikilink")。
+由日本偶像組合[KAT-TUN](../Page/KAT-TUN.md "wikilink")及日本團體[くりぃむしちゅー主持](https://zh.wikipedia.org/wiki/くりぃむしちゅー "wikilink")。於2008年1月12日開始，約每隔一年不定期在[日本電視台](../Page/日本電視台.md "wikilink")播放。
 
 ## 演出者
 
@@ -16,7 +16,7 @@
 
 ### 演出方向
 
-以主持人[KAT-TUN的成員分別與日本藝人外景演出](../Page/KAT-TUN.md "wikilink")，
+以主持人[KAT-TUN](../Page/KAT-TUN.md "wikilink")的成員分別與日本藝人外景演出，
 外景藝人以資深藝人為主，嘗試在不同領域之不同規則給予主持人教學守則，棚內演出由短劇形式表現守則的範本。
 
 ### 未公開放送
@@ -51,7 +51,7 @@ KAT-TUN的節目中放送](../Page/Cartoon_KAT-TUN.md "wikilink")
 中丸：所喬治・<a href="https://zh.wikipedia.org/wiki/尼可拉斯·凱吉" title="wikilink">尼可拉斯·凱吉</a></p></td>
 <td><p>向前輩請教規則：反省篇<br />
 前輩教學：不經意地提高自己好感度的方法(生日驚喜篇)</p></td>
-<td><p>Mini Stage：<a href="../Page/LIPS.md" title="wikilink">LIPS螢幕初演</a></p></td>
+<td><p>Mini Stage：<a href="../Page/LIPS.md" title="wikilink">LIPS</a>螢幕初演</p></td>
 <td><p>12.5%</p></td>
 </tr>
 <tr class="even">

@@ -1,5 +1,5 @@
 **格特魯德·B·埃利恩**（，\[1\])
-，是一名已逝世的[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[生化學家和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")。1988年，她与[喬治·H·希欽斯和](../Page/喬治·H·希欽斯.md "wikilink")[詹姆士·W·布拉克共同獲頒](../Page/詹姆士·W·布拉克.md "wikilink")[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")。埃利恩开发了许多新的[药物](https://zh.wikipedia.org/wiki/藥物治療 "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")[齐多夫定的发展](../Page/齐多夫定.md "wikilink")。\[2\]
+，是一名已逝世的[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[生化學家和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")。1988年，她与[喬治·H·希欽斯](../Page/喬治·H·希欽斯.md "wikilink")和[詹姆士·W·布拉克](../Page/詹姆士·W·布拉克.md "wikilink")共同獲頒[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")。埃利恩开发了许多新的[药物](https://zh.wikipedia.org/wiki/藥物治療 "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")[齐多夫定](../Page/齐多夫定.md "wikilink")的发展。\[2\]
 
 ## 主要成就
 
@@ -13,7 +13,7 @@
 
   - [乙胺嘧啶](../Page/乙胺嘧啶.md "wikilink")（Pyrimethamine）用于[疟疾](../Page/疟疾.md "wikilink")。
 
-  - [甲氧苄啶](../Page/甲氧苄啶.md "wikilink")（Trimethoprim）用于[脑膜炎](../Page/脑膜炎.md "wikilink")，[敗血症和](../Page/敗血症.md "wikilink")[病原菌引起的](https://zh.wikipedia.org/wiki/病原菌 "wikilink")[泌尿系統和](../Page/泌尿系統.md "wikilink")[呼吸道感染](../Page/呼吸道.md "wikilink")。
+  - [甲氧苄啶](../Page/甲氧苄啶.md "wikilink")（Trimethoprim）用于[脑膜炎](../Page/脑膜炎.md "wikilink")，[敗血症](../Page/敗血症.md "wikilink")和[病原菌引起的](https://zh.wikipedia.org/wiki/病原菌 "wikilink")[泌尿系統](../Page/泌尿系統.md "wikilink")和[呼吸道](../Page/呼吸道.md "wikilink")感染。
 
   - [阿昔洛韦](../Page/阿昔洛韦.md "wikilink")（Aciclovir），用于病毒性[单纯疱疹](../Page/单纯疱疹.md "wikilink")。
 
@@ -21,11 +21,11 @@
 
 ### 奖项
 
-1988年埃利恩与[喬治·H·希欽斯和](../Page/喬治·H·希欽斯.md "wikilink")[詹姆士·W·布拉克共享](../Page/詹姆士·W·布拉克.md "wikilink")[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")，其他奖项包括1991年获得的[美国国家科学奖章](../Page/美国国家科学奖章.md "wikilink")\[4\]和1997年获得的Lemelson-MIT终身成就奖。1991年，她成为了第一位入选的女性。\[5\]
+1988年埃利恩与[喬治·H·希欽斯](../Page/喬治·H·希欽斯.md "wikilink")和[詹姆士·W·布拉克](../Page/詹姆士·W·布拉克.md "wikilink")共享[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")，其他奖项包括1991年获得的[美国国家科学奖章](../Page/美国国家科学奖章.md "wikilink")\[4\]和1997年获得的Lemelson-MIT终身成就奖。1991年，她成为了第一位入选的女性。\[5\]
 
 ## 经历
 
-1970年后的一个时期埃利恩曾在[杜克大学担任研究教授](../Page/杜克大学.md "wikilink")。她还曾任职于[美国国家癌症研究所](../Page/美国国家癌症研究所.md "wikilink")、美国癌症研究中心和[世界卫生组织](../Page/世界卫生组织.md "wikilink")。1967年到1983年，她是[葛蘭素史克实验疗法部的主管](../Page/葛蘭素史克.md "wikilink")。她终身未婚。1999年埃利恩在北卡罗来纳州去世，享寿81岁。
+1970年后的一个时期埃利恩曾在[杜克大学](../Page/杜克大学.md "wikilink")担任研究教授。她还曾任职于[美国国家癌症研究所](../Page/美国国家癌症研究所.md "wikilink")、美国癌症研究中心和[世界卫生组织](../Page/世界卫生组织.md "wikilink")。1967年到1983年，她是[葛蘭素史克](../Page/葛蘭素史克.md "wikilink")实验疗法部的主管。她终身未婚。1999年埃利恩在北卡罗来纳州去世，享寿81岁。
 
 ## 参见
 

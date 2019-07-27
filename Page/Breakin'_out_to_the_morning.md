@@ -11,7 +11,7 @@ YOU](https://zh.wikipedia.org/wiki/EVERYDAY,_BE_WITH_YOU "wikilink")》是以[Er
 with
 Crunch名義發表的](https://zh.wikipedia.org/wiki/Eriko_with_Crunch "wikilink")。
 
-在[Oricon週榜最高排行第](../Page/Oricon.md "wikilink")2位；在榜期間銷量為58.2萬張，是2000年解散前SPEED單曲銷量中最不理想的。但仍獲得[日本唱片業協會的白金唱片認證](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")。
+在[Oricon](../Page/Oricon.md "wikilink")週榜最高排行第2位；在榜期間銷量為58.2萬張，是2000年解散前SPEED單曲銷量中最不理想的。但仍獲得[日本唱片業協會的白金唱片認證](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")。
 
 ## 收錄曲目
 

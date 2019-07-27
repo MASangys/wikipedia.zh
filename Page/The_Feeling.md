@@ -1,7 +1,7 @@
 **The
-Feeling**是[英國的一個](https://zh.wikipedia.org/wiki/英國 "wikilink")[流行搖滾樂隊](../Page/流行搖滾.md "wikilink")，他們曾五次獲得[全英音樂獎的提名](../Page/全英音樂獎.md "wikilink")。樂隊的成員來自[薩塞克斯郡和](https://zh.wikipedia.org/wiki/薩塞克斯郡 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。他們的首張專輯Twelve
+Feeling**是[英國的一個](https://zh.wikipedia.org/wiki/英國 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")樂隊，他們曾五次獲得[全英音樂獎](../Page/全英音樂獎.md "wikilink")的提名。樂隊的成員來自[薩塞克斯郡和](https://zh.wikipedia.org/wiki/薩塞克斯郡 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。他們的首張專輯Twelve
 Stops and Home在2006年6月5日于英國發行。第二張專輯Join With
-Us在2008年發行，這張專輯登上了[英國專輯排行榜的首位](../Page/英國專輯排行榜.md "wikilink")。現在他們正在制作自己的第三張專輯，預計將在2010年發行。
+Us在2008年發行，這張專輯登上了[英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")的首位。現在他們正在制作自己的第三張專輯，預計將在2010年發行。
 
 ## 外部連結
 

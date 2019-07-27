@@ -1,4 +1,4 @@
-《**center color**》為[林原惠的第](../Page/林原惠.md "wikilink")11張原創音樂專輯（錄音室專輯）。
+《**center color**》為[林原惠](../Page/林原惠.md "wikilink")的第11張原創音樂專輯（錄音室專輯）。
 
 於2004年1月7日由[King
 Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
@@ -10,7 +10,7 @@ lights](../Page/Northern_lights.md "wikilink")」、「[Treat or
 Goblins](../Page/Treat_or_Goblins.md "wikilink")」等。因此，本作與前作「feel
 well」相同，整體構成上與精選輯無異。雖然只有單曲「」未收錄其中，但「[KOIBUMI](../Page/KOIBUMI.md "wikilink")」也未以原始音源（オリジナル音源）收錄。
 
-附有收錄了「KOIBUMI」「」兩首歌的[音樂錄影帶DVD](../Page/音樂錄影帶.md "wikilink")。
+附有收錄了「KOIBUMI」「」兩首歌的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")DVD。
 
 如專輯標題，主題為「顏色」，CD包裝設計也使用了紅（＝other color）、藍（＝our color）、綠（＝your
 color）3色進行構成。
@@ -35,7 +35,7 @@ color）3色進行構成。
       - 作詞：李醒獅、English Words by
         Mamie.D.Lee、作曲・編曲：[光宗信吉](../Page/光宗信吉.md "wikilink")
       - 於2001年與[上谷麻紀](https://zh.wikipedia.org/wiki/上谷麻紀 "wikilink")、[Nat's合作](https://zh.wikipedia.org/wiki/Nat's "wikilink")，以[P.P.S.名義發行的樂曲](https://zh.wikipedia.org/wiki/P.P.S. "wikilink")，此為重新錄製的版本。
-      - 單曲為電視動畫《[飛天小女警](../Page/飛天小女警.md "wikilink")》（[東京電視台播放版](../Page/東京電視台.md "wikilink")）片頭曲
+      - 單曲為電視動畫《[飛天小女警](../Page/飛天小女警.md "wikilink")》（[東京電視台](../Page/東京電視台.md "wikilink")播放版）片頭曲
 6.  **你的心**（）
       - 作詞：[中山千夏](https://zh.wikipedia.org/wiki/中山千夏 "wikilink")、作曲：[都倉俊一](https://zh.wikipedia.org/wiki/都倉俊一 "wikilink")、再現：鷺巢詩郎
       - 雙A面單曲《Treat or Goblins》B面曲

@@ -1,9 +1,9 @@
-**Q型流感**或**羊流感**（或），又稱**Q熱**或**寇熱**，是指一种在[荷兰爆发的新](../Page/荷兰.md "wikilink")[流感](https://zh.wikipedia.org/wiki/流感 "wikilink")。这种流感由[贝纳氏立克次体](https://zh.wikipedia.org/wiki/贝纳氏立克次体 "wikilink")（學名：*Coxiella
-burnetii*）[细菌引起](../Page/细菌.md "wikilink")\[1\] 。
+**Q型流感**或**羊流感**（或），又稱**Q熱**或**寇熱**，是指一种在[荷兰](../Page/荷兰.md "wikilink")爆发的新[流感](https://zh.wikipedia.org/wiki/流感 "wikilink")。这种流感由[贝纳氏立克次体](https://zh.wikipedia.org/wiki/贝纳氏立克次体 "wikilink")（學名：*Coxiella
+burnetii*）[细菌](../Page/细菌.md "wikilink")引起\[1\] 。
 
 ## 宿主
 
-这种流感能够通过[羊群传染给](../Page/羊.md "wikilink")[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")。貓與狗也可能感染Q型流感。人類可能因接觸動物的奶汁，尿液，糞便，陰道粘液，精液而感染。這種疾病很少經由[蜱傳播](https://zh.wikipedia.org/wiki/蜱 "wikilink")\[2\]。Q型流感潛伏期為9-40天。人類對於Q型流感抵抗力不強\[3\]
+这种流感能够通过[羊](../Page/羊.md "wikilink")群传染给[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")。貓與狗也可能感染Q型流感。人類可能因接觸動物的奶汁，尿液，糞便，陰道粘液，精液而感染。這種疾病很少經由[蜱傳播](https://zh.wikipedia.org/wiki/蜱 "wikilink")\[2\]。Q型流感潛伏期為9-40天。人類對於Q型流感抵抗力不強\[3\]
 。
 
 ## 症状
@@ -20,7 +20,7 @@ burnetii*）[细菌引起](../Page/细菌.md "wikilink")\[1\] 。
 
 ## 种类
 
-Q型流感可分为急性和慢性。急性流感的症状会持续两个星期，而慢性流感甚至可能须时长达两[年之久方能痊愈](../Page/年.md "wikilink")。
+Q型流感可分为急性和慢性。急性流感的症状会持续两个星期，而慢性流感甚至可能须时长达两[年](../Page/年.md "wikilink")之久方能痊愈。
 
 ## 导致结果
 

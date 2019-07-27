@@ -4,15 +4,15 @@ dienes），是[吡啶盐与两分子仲胺发生作用然后水解得到的产�
 反应类似](../Page/Zincke反应.md "wikilink")，不过仲胺的使用令吡啶发生开环，而且端位的亚胺离子基团被水解为醛，最终得到非环取代氨基烯醛。
 
 使用二硝基苯基以活化吡啶环的技术最早是由 Theodor Zincke 报道的。\[1\]\[2\]\[3\]
-以[溴化氰活化吡啶环的方法则是由](../Page/溴化氰.md "wikilink")
-W. König 分别报道。\[4\]
+以[溴化氰](../Page/溴化氰.md "wikilink")活化吡啶环的方法则是由 W. König
+分别报道。\[4\]
 
 
 [Zincke-Aldehyde.svg](https://zh.wikipedia.org/wiki/File:Zincke-Aldehyde.svg "fig:Zincke-Aldehyde.svg")
 相关综述：\[5\]\[6\]\[7\]
 
 [Zincke 反应的一个变体最近](../Page/Zincke反应.md "wikilink")（Vanderwal
-2006）被用于新颖[吲哚衍生物的合成](../Page/吲哚.md "wikilink")。其中以溴化氰作为吡啶环的活化试剂。\[8\]
+2006）被用于新颖[吲哚](../Page/吲哚.md "wikilink")衍生物的合成。其中以溴化氰作为吡啶环的活化试剂。\[8\]
 
 
 [ZinckeAldehydeIndoleApplication.svg](https://zh.wikipedia.org/wiki/File:ZinckeAldehydeIndoleApplication.svg "fig:ZinckeAldehydeIndoleApplication.svg")
@@ -32,7 +32,7 @@ Zincke 醛可在加热的条件下，以较高的立体选择性重排为相应�
 
 [Stannyldienal_synthesis.gif](https://zh.wikipedia.org/wiki/File:Stannyldienal_synthesis.gif "fig:Stannyldienal_synthesis.gif")
 2009年，[Vanderwal
-等](http://chem.ps.uci.edu/~cdv/Site/Welcome.html)报道了由[色胺衍生出的](../Page/色胺.md "wikilink")
+等](http://chem.ps.uci.edu/~cdv/Site/Welcome.html)报道了由[色胺](../Page/色胺.md "wikilink")衍生出的
 Zincke
 醛，在以强碱处理时重排为环合[烯醛的反应](https://zh.wikipedia.org/wiki/烯醛 "wikilink")(表环加成)。此反应被用于[马钱子生物碱](https://zh.wikipedia.org/wiki/马钱子生物碱 "wikilink")
 *norfluorocurarine* 的全合成中。\[12\]

@@ -2,7 +2,7 @@
 Infoset**）是[W3C规范（specification）](../Page/W3C推荐标准.md "wikilink")，该规范使用一套信息项（information
 item）来描述XML文档的一个抽象的数据模型。\[1\] XML信息集这个规范意图用于其他规范中以引用中的信息。
 
-一个XML文档，只要是良构的并且满足[XML命名空间的约束](../Page/XML命名空间.md "wikilink")，就存在有信息集。一个XML文档存在信息集并不需要该XML文档有效。
+一个XML文档，只要是良构的并且满足[XML命名空间](../Page/XML命名空间.md "wikilink")的约束，就存在有信息集。一个XML文档存在信息集并不需要该XML文档有效。
 
 信息集可以包含的总共11种不同类型的信息项。
 

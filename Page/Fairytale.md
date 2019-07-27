@@ -1,4 +1,4 @@
-《**fairytale**》是[Kalafina的第](../Page/Kalafina.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年12月24日由[SME
+《**fairytale**》是[Kalafina](../Page/Kalafina.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年12月24日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
 ## 收錄曲

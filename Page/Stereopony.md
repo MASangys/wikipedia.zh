@@ -1,16 +1,16 @@
-**stereopony**（）是[日本的](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，原屬於[gr8\!records](https://zh.wikipedia.org/wiki/gr8!records "wikilink")，後屬於[Sony
+**stereopony**（）是[日本](../Page/日本.md "wikilink")的[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，原屬於[gr8\!records](https://zh.wikipedia.org/wiki/gr8!records "wikilink")，後屬於[Sony
 Records](https://zh.wikipedia.org/wiki/Sony_Records "wikilink")。在日本簡稱為「」或「」。現已被解散。
 
 ## 成員
 
   - AIMI（1990年9月4日）[歌手](../Page/歌手.md "wikilink")、[吉他](../Page/吉他.md "wikilink")
-    [沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市出身](../Page/那霸市.md "wikilink")，血型A型，身高148公分。
+    [沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市](../Page/那霸市.md "wikilink")出身，血型A型，身高148公分。
     有[低血壓](../Page/低血壓.md "wikilink")。
   - NOHANA（1989年9月16日）[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
-    [長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[島原市出身](../Page/島原市.md "wikilink")。血型A型，身高158公分。
+    [長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[島原市](../Page/島原市.md "wikilink")出身。血型A型，身高158公分。
     三人中最年長的成員。
   - SHIHO（1990年10月18日）[爵士鼓](../Page/爵士鼓.md "wikilink")
-    [沖繩縣](../Page/沖繩縣.md "wikilink")[名護市出身](../Page/名護市.md "wikilink")。血型A型。身高158cm。
+    [沖繩縣](../Page/沖繩縣.md "wikilink")[名護市](../Page/名護市.md "wikilink")出身。血型A型。身高158cm。
     曾經擔任[YUI專輯](https://zh.wikipedia.org/wiki/YUI_\(藝人\) "wikilink")《again》中的[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")。
 
 ## 媒體演出
@@ -110,10 +110,10 @@ SRCL-7257（通常盤）</p></td>
 <td><p>2010年12月8日</p></td>
 <td><p>小さな魔法</p></td>
 <td><p>CD+DVD（初回生産限定盤）<br />
-12cmCD（通常盤、<a href="../Page/信蜂.md" title="wikilink">信蜂盤</a>/期間生産限定盤）</p></td>
+12cmCD（通常盤、<a href="../Page/信蜂.md" title="wikilink">信蜂</a>盤/期間生産限定盤）</p></td>
 <td><p>SRCL-7430～SRCL-7431（初回生産限定盤）<br />
 SRCL-7432（通常盤）<br />
-SRCL-7433（<a href="../Page/信蜂.md" title="wikilink">信蜂盤</a>/期間生産限定盤）</p></td>
+SRCL-7433（<a href="../Page/信蜂.md" title="wikilink">信蜂</a>盤/期間生産限定盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>

@@ -1,9 +1,9 @@
-「**anytime**」為2008年1月23日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")39th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")
+「**anytime**」為2008年1月23日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")第39th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")
 
 ## 附註
 
   - 本作為2008年1月30日發行的專輯『[Kingdom](https://zh.wikipedia.org/wiki/Kingdom_倖感王國 "wikilink")』的先行單曲。採完全限定生產模式發行。
-  - 「**anytime**」為[麒麟啤酒廣告曲](../Page/麒麟啤酒.md "wikilink")、music.jp電視廣告曲，描寫戀愛中的女性心情的歌曲。
+  - 「**anytime**」為[麒麟啤酒](../Page/麒麟啤酒.md "wikilink")廣告曲、music.jp電視廣告曲，描寫戀愛中的女性心情的歌曲。
   - B面曲的「**Bounce**」為舞曲，未收錄於專輯中。
 
 ## 發行版本
@@ -35,7 +35,7 @@
 2.  **anytime（MAKING VIDEO）**
 3.  **Kingdom VJ MIX**
       -
-        專輯「Kingdom」收錄的[音樂錄影帶集錦](../Page/音樂錄影帶.md "wikilink")。
+        專輯「Kingdom」收錄的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")集錦。
 
 ## 資料來源
 

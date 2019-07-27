@@ -1,8 +1,8 @@
 **Object
-Pascal**是[Pascal编程语言的](../Page/Pascal_\(程式語言\).md "wikilink")[面向对象的衍生分支](../Page/面向对象程序设计.md "wikilink")，是[Delphi支持的主要](../Page/Delphi.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。Pascal编译器，包括那些Object
+Pascal**是[Pascal编程语言的](../Page/Pascal_\(程式語言\).md "wikilink")[面向对象的衍生分支](../Page/面向对象程序设计.md "wikilink")，是[Delphi](../Page/Delphi.md "wikilink")支持的主要[编程语言](../Page/编程语言.md "wikilink")。Pascal编译器，包括那些Object
 Pascal编译器，在生成高[优化代码同时](https://zh.wikipedia.org/wiki/优化 "wikilink")，一般运行非常快。
 
-  - [Borland将第一版Delphi的编程语言命名为](../Page/Borland.md "wikilink")*Object
+  - [Borland](../Page/Borland.md "wikilink")将第一版Delphi的编程语言命名为*Object
     Pascal*，但是后来将其重命名为*Delphi编程语言*。然而，宣称兼容Object
     Pascal的[编译器通常试图兼容Delphi源代码](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
 
@@ -19,7 +19,7 @@ Pascal编译器，在生成高[优化代码同时](https://zh.wikipedia.org/wiki
 
 <!-- end list -->
 
-  - [Lazarus是类似](../Page/Lazarus.md "wikilink")[Delphi的Object](../Page/Delphi.md "wikilink")
+  - [Lazarus](../Page/Lazarus.md "wikilink")是类似[Delphi](../Page/Delphi.md "wikilink")的Object
     Pascal语言集成开发环境，使用[Free
     Pascal编译器](../Page/Free_Pascal.md "wikilink")，是一款开放源代码的自由软件。
 
@@ -75,7 +75,7 @@ Pascal**现在笼统地用来指有面向对象编程扩展的Pascal语言的不
 
 Object
 Pascal是对[Pascal语言的扩展](https://zh.wikipedia.org/wiki/Pascal "wikilink")，它是[Apple
-Computer的一个由](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink")[拉里·泰斯勒领导](https://zh.wikipedia.org/wiki/拉里·泰斯勒 "wikilink")，Pascal的发明者[尼克劳斯·维尔特提供咨询的小组开发的](../Page/尼克劳斯·维尔特.md "wikilink")。它继承自一个用于[Lisa计算机的称作](../Page/Apple_Lisa.md "wikilink")[Clascal的Pascal的面向对象的早期版本](https://zh.wikipedia.org/wiki/Clascal "wikilink")。
+Computer的一个由](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink")[拉里·泰斯勒领导](https://zh.wikipedia.org/wiki/拉里·泰斯勒 "wikilink")，Pascal的发明者[尼克劳斯·维尔特](../Page/尼克劳斯·维尔特.md "wikilink")提供咨询的小组开发的。它继承自一个用于[Lisa计算机的称作](../Page/Apple_Lisa.md "wikilink")[Clascal的Pascal的面向对象的早期版本](https://zh.wikipedia.org/wiki/Clascal "wikilink")。
 
 为了支持一个现在叫做类库的可扩展Macintosh应用框架[MacApp](https://zh.wikipedia.org/wiki/MacApp "wikilink")，Object
 Pascal是必要的。Object Pascal扩展和MacApp本身是由Barry Haynes，Ken Doyle和Larry
@@ -90,12 +90,12 @@ Pascal，而不是MacApp，因为它提供了工具的紧密集成。在4.01之�
 
 ## Borland和CodeGear的年代
 
-在1986年，[Borland将也称作Object](../Page/Borland.md "wikilink")
+在1986年，[Borland](../Page/Borland.md "wikilink")将也称作Object
 Pascal的类似扩展引进到Macintosh的[Turbo
 Pascal产品里](../Page/Turbo_Pascal.md "wikilink")；在1989年，引进到DOS的Turbo
 Pascal 5.5。
 
-当Borland在1994年将重点从[MS-DOS调整到](../Page/MS-DOS.md "wikilink")[Windows时](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，它们创造了Turbo
+当Borland在1994年将重点从[MS-DOS](../Page/MS-DOS.md "wikilink")调整到[Windows时](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，它们创造了Turbo
 Pascal的一个叫做[Delphi的继任者](https://zh.wikipedia.org/wiki/CodeGear_Delphi "wikilink")，并引进了创建现在称作Delphi语言的一系列新的扩展。
 
 Delphi的开发开始于1993年，1995年2月14日在美国官方发布了Delphi 1.0。那时，使用Turbo
@@ -109,7 +109,7 @@ Delphi语言在遍及支持诸如[64位整数和](https://zh.wikipedia.org/wiki/
 现在有许多[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，绝大多数兼容Delphi的Object
 Pascal语言。许多是为了让Object Pascal在不同平台上和各种许可下编译而创建的。
 
-  - [Delphi可能是最知名的编译器了](../Page/Delphi.md "wikilink")。它针对[Win16](https://zh.wikipedia.org/wiki/Windows_API#Versions "wikilink")（Delphi
+  - [Delphi](../Page/Delphi.md "wikilink")可能是最知名的编译器了。它针对[Win16](https://zh.wikipedia.org/wiki/Windows_API#Versions "wikilink")（Delphi
     1），[Win32](https://zh.wikipedia.org/wiki/Windows_API#Versions "wikilink")（Delphi
     2+）和[.NET 1.x,
     2.0](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")（Delphi
@@ -119,12 +119,12 @@ Pascal语言。许多是为了让Object Pascal在不同平台上和各种许可�
     32位Linux。它不再更新了。现代分发通常不运行于其箱体外。
   - [Free Pascal是一个命令行编译器](../Page/Free_Pascal.md "wikilink")，目标是与Turbo
     Pascal和Delphi方言的核心特性集的源兼容性。现在的版本，2.2是高兼容Delphi 6或7。
-    FPC为各种操作系统下的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")，[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，[PowerPC](../Page/PowerPC.md "wikilink")，[SPARC和](../Page/SPARC.md "wikilink")[ARM处理器生成代码](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")，这些操作系统包括[Win32](https://zh.wikipedia.org/wiki/Windows_API#Versions "wikilink")，[Win64](https://zh.wikipedia.org/wiki/Windows_API#Versions "wikilink")，[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")，[Mac
+    FPC为各种操作系统下的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")，[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，[PowerPC](../Page/PowerPC.md "wikilink")，[SPARC](../Page/SPARC.md "wikilink")和[ARM处理器生成代码](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")，这些操作系统包括[Win32](https://zh.wikipedia.org/wiki/Windows_API#Versions "wikilink")，[Win64](https://zh.wikipedia.org/wiki/Windows_API#Versions "wikilink")，[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")，[Mac
     OS和](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Mac OS
-    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（包括[Xcode集成工具](../Page/Xcode.md "wikilink")）。除了命令行用法，几个开发环境可用于Free
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（包括[Xcode](../Page/Xcode.md "wikilink")集成工具）。除了命令行用法，几个开发环境可用于Free
     Pascal，尤其是[Lazarus](../Page/Lazarus.md "wikilink") IDE。
   - [GNU
-    Pascal](https://zh.wikipedia.org/wiki/GNU_Pascal "wikilink")（[GCC的一个分离分发部分](../Page/GCC.md "wikilink")）在正式地不针对Pascal的CodeGear方言的同时，它包含一个Borland
+    Pascal](https://zh.wikipedia.org/wiki/GNU_Pascal "wikilink")（[GCC](../Page/GCC.md "wikilink")的一个分离分发部分）在正式地不针对Pascal的CodeGear方言的同时，它包含一个Borland
     Pascal兼容模式，非常慢地纳入一些Delphi语言的特性。它不适于直接重编译Delphi代码的巨大的体，值得注意地是为操作系统和硬件架构提供了丰富的支持。
   - [Virtual
     Pascal是一个兼容x](https://zh.wikipedia.org/wiki/Virtual_Pascal "wikilink")86

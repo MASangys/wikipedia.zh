@@ -1,5 +1,5 @@
-在[計算複雜度理論裡面](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink")，**BPP**是在[多項式時間內以](../Page/多項式時間.md "wikilink")[概率圖靈機解出的](https://zh.wikipedia.org/wiki/概率圖靈機 "wikilink")[問題的集合](https://zh.wikipedia.org/wiki/問題 "wikilink"),
-並且對所有的輸入，輸出結果有錯誤的[概率在](../Page/概率.md "wikilink")1/3之內。**BPP**這個簡寫代表"**B**ounded-error"(有限錯誤)，"**P**robabilistic"(機率的)，"**P**olynomial
+在[計算複雜度理論裡面](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink")，**BPP**是在[多項式時間](../Page/多項式時間.md "wikilink")內以[概率圖靈機解出的](https://zh.wikipedia.org/wiki/概率圖靈機 "wikilink")[問題的集合](https://zh.wikipedia.org/wiki/問題 "wikilink"),
+並且對所有的輸入，輸出結果有錯誤的[概率](../Page/概率.md "wikilink")在1/3之內。**BPP**這個簡寫代表"**B**ounded-error"(有限錯誤)，"**P**robabilistic"(機率的)，"**P**olynomial
 time"(多項式時間)。
 
 <table>
@@ -73,7 +73,7 @@ time"(多項式時間)。
 ## 與其他複雜度類別的關係
 
 已知 **BPP** 在取補集之下有封閉性; 換句話說, **BPP**=**Co-BPP**。
-**BPP**是否是**[NP](../Page/NP_\(複雜度\).md "wikilink")**的[子集仍舊是一個公開的問題](../Page/子集.md "wikilink")。
+**BPP**是否是**[NP](../Page/NP_\(複雜度\).md "wikilink")**的[子集](../Page/子集.md "wikilink")仍舊是一個公開的問題。
 另外**NP**是否是**BPP**的子集也是個公開的問題;
 如果是的話，則**NP**=**RP**並且**[PH](../Page/PH_\(複雜度\).md "wikilink")**
 \(\subseteq\)

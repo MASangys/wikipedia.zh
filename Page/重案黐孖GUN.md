@@ -1,4 +1,4 @@
-是一部於2004年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[林超賢擔任執導](../Page/林超賢.md "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[鄭希怡等主演](../Page/鄭希怡.md "wikilink")。
+是一部於2004年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[林超賢](../Page/林超賢.md "wikilink")擔任執導，以及由[郭富城](../Page/郭富城.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[鄭希怡](../Page/鄭希怡.md "wikilink")等主演。
 
 ## 劇情內容
 

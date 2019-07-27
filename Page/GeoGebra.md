@@ -1,12 +1,12 @@
 **GeoGebra**是一个在[GPL协议下发布的](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")[动态數學(几何)软件](https://zh.wikipedia.org/wiki/动态數學\(几何\)软件 "wikilink")。
 该项目于2001年由Markus Hohenwarter\[1\]在奧地利
-[萨尔茨堡大学创建](../Page/萨尔茨堡大学.md "wikilink").
+[萨尔茨堡大学](../Page/萨尔茨堡大学.md "wikilink")创建.
 
 ## 简介
 
 GeoGebra是一款[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[动态几何软件](https://zh.wikipedia.org/wiki/动态几何软件 "wikilink")。其绘图的基本元素包括点，直线，线段，多边形，向量，圆锥曲线和函数。
 GeoGebra 3.2及以后的版本还加入了电子表格和正在不断完善的数据处理功能.  GeoGebra 可以完成大量初高等数学中的绘图工作,
-比如直接绘制圆锥曲线，对函数求导数，积分，对多项式函数求极值和[拐点等](../Page/拐点.md "wikilink")，这些极大的方便了教师们制作教学材料。
+比如直接绘制圆锥曲线，对函数求导数，积分，对多项式函数求极值和[拐点](../Page/拐点.md "wikilink")等，这些极大的方便了教师们制作教学材料。
 
 GeoGebra 這幾年逐漸形成風潮, 最大的原因在, 它允許使用者自己下指令擴充功能. 使用者也可以加入翻譯或是開發志工協助開發推展,
 這是很多付費軟體做不到的事. 它有自己的程式語法 GeoGebraScript , 也可以用

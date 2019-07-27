@@ -25,7 +25,7 @@
 11. [時の華](https://zh.wikipedia.org/wiki/violet "wikilink")
 12. それだけ
 13. 新しい世界
-      - [任天堂DS遊戲](../Page/任天堂DS.md "wikilink")『[向陽素描](../Page/向陽素描.md "wikilink")
+      - [任天堂DS](../Page/任天堂DS.md "wikilink")遊戲『[向陽素描](../Page/向陽素描.md "wikilink")
         どこでもすごろく×365』片尾曲
       - 作詞・作曲：micco / 編曲：菊池達也
 14. [流星レコード](https://zh.wikipedia.org/wiki/流星レコード "wikilink")

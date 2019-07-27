@@ -44,7 +44,7 @@ C++](../Page/Borland_C++.md "wikilink")),
 当前稳定版本为4.2.2；计划中的新版本5.0来源于4.9.x，当前为Allegro 4.9.13。
 
 硬件加速3D/2D应用于Linux、Mac OS
-X、DOS采用多种方式，包括AllegroGL和OpenLayer。它们是两个附件add-on库，通过[OpenGL实现](../Page/OpenGL.md "wikilink")。结合[Glide和](https://zh.wikipedia.org/wiki/Glide_API "wikilink")[MesaFX](../Page/Mesa_3D.md "wikilink")
+X、DOS采用多种方式，包括AllegroGL和OpenLayer。它们是两个附件add-on库，通过[OpenGL](../Page/OpenGL.md "wikilink")实现。结合[Glide和](https://zh.wikipedia.org/wiki/Glide_API "wikilink")[MesaFX](../Page/Mesa_3D.md "wikilink")
 ([3dfx](https://zh.wikipedia.org/wiki/3dfx "wikilink"))，AllegroGL是少数对应DOS的开源3D硬件加速方案。\[5\]
 
 ## 功能

@@ -1,5 +1,5 @@
 [微軟視窗操作系统是以](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[事件驅動做為程式設計的基礎](../Page/事件驅動程式設計.md "wikilink")。程式的執行緒会从作業系統获取訊息。應用程式會不斷循环呼叫GetMessage函式（或是PeekMessage函式）來接收這些訊息，這個循环稱之為“**事件迴圈**”。基本上事件迴圈的程式碼如下所示（[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")
-/ [C++程式語言](../Page/C++.md "wikilink")）：
+/ [C++](../Page/C++.md "wikilink")程式語言）：
 
 ``` cpp
 MSG msg; //用于存储一条消息
@@ -51,7 +51,7 @@ Interface）和User函数时，操作系统才会将其看成是一个UI线程�
 
 窗体过程（Window Procedure）是一个函数，每个窗体有一个窗体过程，负责处理该窗体的所有消息。
 
-UI[控件也是独立的](../Page/控件.md "wikilink")“Window”，拥有自己的“窗体过程”。
+UI[控件](../Page/控件.md "wikilink")也是独立的“Window”，拥有自己的“窗体过程”。
 
 ### 消息队列
 
@@ -124,7 +124,7 @@ queue)。在发生输入事件之后，Windows操作系统的输入设备驱动�
           - WM_SYSCHAR：按下后再按下别的键的WM_SYSKEYDOWN消息被翻译，
           - WM_CHAR：WM_KEYDOWN消息被翻译为WM_CHAR消息。
           - WM_DEADCHAR：`TranslateMessage`函数处理“[死键](https://zh.wikipedia.org/wiki/死键 "wikilink")”（dead
-            key）的WM_KEYUP消息，向具有输入焦点的窗口投寄（post）出WM_DEADCHAR消息。死键是产生[附加符号的按键](../Page/附加符号.md "wikilink")。例如在德语键盘，[锐音符被按下](https://zh.wikipedia.org/wiki/锐音符 "wikilink")、释放后，再按下，将获得字母á的WM_CHAR。如果在死键之后跟有不能带此附件符号的字母（例如[锐音符后跟](https://zh.wikipedia.org/wiki/锐音符 "wikilink")「s」），那么将接收到两条WM_CHAR消息：前一个消息的wParam等于附加符号本身的ASCII码（与传递到WM_DEADCHAR消息的wParam值相同），第二个消息的wParam等于字母的ASCII代码。
+            key）的WM_KEYUP消息，向具有输入焦点的窗口投寄（post）出WM_DEADCHAR消息。死键是产生[附加符号](../Page/附加符号.md "wikilink")的按键。例如在德语键盘，[锐音符被按下](https://zh.wikipedia.org/wiki/锐音符 "wikilink")、释放后，再按下，将获得字母á的WM_CHAR。如果在死键之后跟有不能带此附件符号的字母（例如[锐音符后跟](https://zh.wikipedia.org/wiki/锐音符 "wikilink")「s」），那么将接收到两条WM_CHAR消息：前一个消息的wParam等于附加符号本身的ASCII码（与传递到WM_DEADCHAR消息的wParam值相同），第二个消息的wParam等于字母的ASCII代码。
           - WM_SYSDEADCHAR：按下时又按下了“死键”的WM_SYSKEYUP消息。
   - 鼠标消息：
       - 客户区鼠标消息：WM_MOUSEMOVE及鼠标按键的DOWN、UP、DBLCLK消息。双击事件的处理只有窗口类定义接收（CS_DBLCLKS）时，才起作用，这时接收到的鼠标消息顺序为：DOWN、UP、DBLCLK、UP。鼠标消息发送给被单击的窗口或鼠标经过的窗口，即使该窗口处于非活动或不带输入焦点；例外情况有“捕获鼠标”时或模式对话框处于活动状态时。消息参数wParam(指出那个鼠标按钮、Shift键、Ctrl键被按下；lParam的低位表示x坐标，高位表示y坐标的鼠标位置。
@@ -133,7 +133,7 @@ queue)。在发生输入事件之后，Windows操作系统的输入设备驱动�
       - WM_MOUSEWHEEL发送给具有焦点的窗口（注意不一定是鼠标下面的窗口）
   - 定时器消息
   - 控件消息
-  - 跨进程发送数据的消息：WM_SETTEXT、WM_GETTEXT、WM_COPYDATA，系统自动分配使用可在进程间共享的[内存映射文件来传递数据](../Page/内存映射文件.md "wikilink")。
+  - 跨进程发送数据的消息：WM_SETTEXT、WM_GETTEXT、WM_COPYDATA，系统自动分配使用可在进程间共享的[内存映射文件](../Page/内存映射文件.md "wikilink")来传递数据。
 
 键盘输入时需要明确插入符位置，相关API函数为：CreateCaret、SetCaretPos、ShowCaret、HideCaret、DestroyCaret、GetCaretPos、GetCaretBlinkTime、SetCaretBlinkTime。
 

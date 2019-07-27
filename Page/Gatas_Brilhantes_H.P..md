@@ -11,7 +11,7 @@
 | {{Football kit                       |
 
 **Gatas Brilhantes H.P.(ガッタス ブリリャンチス
-H.P.)**是由[日本](../Page/日本.md "wikilink")[早安家族成员组成的女子](../Page/早安家族.md "wikilink")[室内足球队](https://zh.wikipedia.org/wiki/室内足球 "wikilink")。现在参加日本女艺人室内足球赛。
+H.P.)**是由[日本](../Page/日本.md "wikilink")[早安家族](../Page/早安家族.md "wikilink")成员组成的女子[室内足球队](https://zh.wikipedia.org/wiki/室内足球 "wikilink")。现在参加日本女艺人室内足球赛。
 
 ## 历史
 
@@ -56,10 +56,10 @@ H.P.)**是由[日本](../Page/日本.md "wikilink")[早安家族成员组成的�
 ### 2007年
 
   - 1月26日，斋藤美海和木村麻美退队。
-  - 4月23日，[清水佐纪](../Page/清水佐纪.md "wikilink")、[矢岛舞美](https://zh.wikipedia.org/wiki/矢岛舞美 "wikilink")、[须藤茉麻](https://zh.wikipedia.org/wiki/须藤茉麻 "wikilink")、[铃木爱理](https://zh.wikipedia.org/wiki/铃木爱理 "wikilink")、[中岛早贵](https://zh.wikipedia.org/wiki/中岛早贵 "wikilink")、[夏烧雅](https://zh.wikipedia.org/wiki/夏烧雅 "wikilink")、[梅田绘理香](https://zh.wikipedia.org/wiki/梅田绘理香 "wikilink")、[德永千奈美和](../Page/德永千奈美.md "wikilink")[武藤水华加盟球队](https://zh.wikipedia.org/wiki/武藤水华 "wikilink")。
+  - 4月23日，[清水佐纪](../Page/清水佐纪.md "wikilink")、[矢岛舞美](https://zh.wikipedia.org/wiki/矢岛舞美 "wikilink")、[须藤茉麻](https://zh.wikipedia.org/wiki/须藤茉麻 "wikilink")、[铃木爱理](https://zh.wikipedia.org/wiki/铃木爱理 "wikilink")、[中岛早贵](https://zh.wikipedia.org/wiki/中岛早贵 "wikilink")、[夏烧雅](https://zh.wikipedia.org/wiki/夏烧雅 "wikilink")、[梅田绘理香](https://zh.wikipedia.org/wiki/梅田绘理香 "wikilink")、[德永千奈美](../Page/德永千奈美.md "wikilink")和[武藤水华加盟球队](https://zh.wikipedia.org/wiki/武藤水华 "wikilink")。
   - 6月19日，[能登有沙](../Page/能登有沙.md "wikilink")、[真野惠里菜](../Page/真野惠里菜.md "wikilink")、[仙石南和](https://zh.wikipedia.org/wiki/仙石南 "wikilink")[泽田由梨加入球队](https://zh.wikipedia.org/wiki/泽田由梨 "wikilink")。绀野朝美重新入队。
   - 8月31日，[藤咲由美](https://zh.wikipedia.org/wiki/藤咲由美 "wikilink")、[永井沙纪](https://zh.wikipedia.org/wiki/永井沙纪 "wikilink")、[菅原佳奈枝和](https://zh.wikipedia.org/wiki/菅原佳奈枝 "wikilink")[深谷爱加入球队](https://zh.wikipedia.org/wiki/深谷爱 "wikilink")。
-  - 12月27日，[萩原舞和](../Page/萩原舞_\(歌手\).md "wikilink")[有原栞菜加盟](../Page/有原栞菜.md "wikilink")。
+  - 12月27日，[萩原舞和](../Page/萩原舞_\(歌手\).md "wikilink")[有原栞菜](../Page/有原栞菜.md "wikilink")加盟。
 
 ### 2008年
 

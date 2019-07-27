@@ -1,5 +1,5 @@
 《**Sugar
-High**》為日本創作歌手[鬼束千尋所發行的第三張原創專輯](../Page/鬼束千尋.md "wikilink")，於2002年12月11日透過[東芝EMI發行](https://zh.wikipedia.org/wiki/東芝EMI "wikilink")，為其本人於東芝EMI發行的最後一張原創專輯。
+High**》為日本創作歌手[鬼束千尋](../Page/鬼束千尋.md "wikilink")所發行的第三張原創專輯，於2002年12月11日透過[東芝EMI發行](https://zh.wikipedia.org/wiki/東芝EMI "wikilink")，為其本人於東芝EMI發行的最後一張原創專輯。
 
 ## 說明
 

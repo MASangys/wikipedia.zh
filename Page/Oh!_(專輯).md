@@ -20,7 +20,7 @@ SM Entertainment
 
 ### 球衣編號
 
-[少女時代所屬社](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[SM娛樂公司該月](../Page/SM娛樂.md "wikilink")27日在Mydaily的採訪中，解釋球衣編號說：「這是根據少女時代成員們各自喜歡的數字設定的。」
+[少女時代所屬社](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")公司該月27日在Mydaily的採訪中，解釋球衣編號說：「這是根據少女時代成員們各自喜歡的數字設定的。」
 
   - [太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")(9號):因為少女時代有九名成員。
   - [潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")(22號):因為2010年就要22歲了。

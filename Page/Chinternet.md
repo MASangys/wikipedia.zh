@@ -2,7 +2,7 @@
 
 《[华尔街日报](../Page/华尔街日报.md "wikilink")》引述[柏克萊加州大學](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")[中國網絡計畫](https://zh.wikipedia.org/wiki/中國網絡計畫 "wikilink")（China
 Internet
-Project）负责人[萧强的說法](https://zh.wikipedia.org/wiki/萧强 "wikilink")，指「[谷歌中国](../Page/谷歌中国.md "wikilink")」的关闭可能会被视为是“中国特色的互联网”的开始\[1\]；[法新社指媒體暨廣告網站](../Page/法新社.md "wikilink")「單位網」創辦人金玉米（Jeremy
+Project）负责人[萧强的說法](https://zh.wikipedia.org/wiki/萧强 "wikilink")，指「[谷歌中国](../Page/谷歌中国.md "wikilink")」的关闭可能会被视为是“中国特色的互联网”的开始\[1\]；[法新社](../Page/法新社.md "wikilink")指媒體暨廣告網站「單位網」創辦人金玉米（Jeremy
 Goldkorn）說：「這更接近了一個名詞——Chinternet……\[2\]」
 
 ## 參見

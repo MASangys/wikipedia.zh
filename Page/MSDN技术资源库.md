@@ -1,4 +1,4 @@
-**MSDN技术资源库**是[微软公司为软件和网站开发人员提供的技术资源库](../Page/微软.md "wikilink")，名字中的[MSDN意味着微软开发者网络](https://zh.wikipedia.org/wiki/MSDN "wikilink")。
+**MSDN技术资源库**是[微软](../Page/微软.md "wikilink")公司为软件和网站开发人员提供的技术资源库，名字中的[MSDN意味着微软开发者网络](https://zh.wikipedia.org/wiki/MSDN "wikilink")。
 
 ## 内容
 

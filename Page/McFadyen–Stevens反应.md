@@ -1,6 +1,6 @@
 **McFadyen-Stevens反应**（McFadyen-Stevens reaction）
 
-碱催化下，[酰基](../Page/酰基.md "wikilink")[磺酰肼发生热分解](https://zh.wikipedia.org/wiki/磺酰肼 "wikilink")，生成相应的[醛类](../Page/醛.md "wikilink")。\[1\]\[2\]
+碱催化下，[酰基](../Page/酰基.md "wikilink")[磺酰肼发生热分解](https://zh.wikipedia.org/wiki/磺酰肼 "wikilink")，生成相应的[醛](../Page/醛.md "wikilink")类。\[1\]\[2\]
 
 
 [McFadyen-Stevens_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:McFadyen-Stevens_Reaction_Scheme.png "fig:McFadyen-Stevens_Reaction_Scheme.png")
@@ -13,7 +13,7 @@ Dudman 等发展了一种不同的酰肼试剂。\[3\]
 
 
 [McFadyen-Stevens_Reaction_Mechanism.png](https://zh.wikipedia.org/wiki/File:McFadyen-Stevens_Reaction_Mechanism.png "fig:McFadyen-Stevens_Reaction_Mechanism.png")
-也有认为反应是经过酰基[氮烯中间体进行](../Page/氮烯.md "wikilink")。\[6\]
+也有认为反应是经过酰基[氮烯](../Page/氮烯.md "wikilink")中间体进行。\[6\]
 
 ## 参见
 

@@ -3,8 +3,8 @@ Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https:/
 
 ## 解説
 
-  - 本團體首次在[Oricon公信榜上獲得第](../Page/Oricon公信榜.md "wikilink")1位之作品。出貨速度達成。
-  - 截至1997年在[Oricon總計的累計總銷售量為](../Page/Oricon公信榜.md "wikilink")66.5萬張，最終累計總銷售量突破100萬張\[1\]，獲得[日本唱片協會百萬銷售認證](../Page/日本唱片協會.md "wikilink")。
+  - 本團體首次在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上獲得第1位之作品。出貨速度達成。
+  - 截至1997年在[Oricon總計的累計總銷售量為](../Page/Oricon公信榜.md "wikilink")66.5萬張，最終累計總銷售量突破100萬張\[1\]，獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")百萬銷售認證。
 
 ## 收錄曲目
 
@@ -14,7 +14,7 @@ Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https:/
 
       -
         [PV是在](https://zh.wikipedia.org/wiki/PV "wikilink")[紐約與](https://zh.wikipedia.org/wiki/紐約 "wikilink")[邁阿密拍攝](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")。導演為。
-        [B'z的](../Page/B'z.md "wikilink")[松本孝弘相當喜歡本曲](../Page/松本孝弘.md "wikilink")，當意識到時是在作曲之際親口訴道。喜歡程度最終引用為1997年的[SHOWCASE](https://zh.wikipedia.org/wiki/LIVE-GYM#SHOWCASE "wikilink")（秘密演唱會）標題。
+        [B'z](../Page/B'z.md "wikilink")的[松本孝弘](../Page/松本孝弘.md "wikilink")相當喜歡本曲，當意識到時是在作曲之際親口訴道。喜歡程度最終引用為1997年的[SHOWCASE](https://zh.wikipedia.org/wiki/LIVE-GYM#SHOWCASE "wikilink")（秘密演唱會）標題。
         此外，2個月後發行的首張專輯「Starling Over」中所收錄的專輯版本，淡出處有所不同，並收錄了延續的部分。
 
 2.

@@ -1,14 +1,14 @@
-**SHA-2**，名稱來自於**安全散列演算法2**（）的縮寫，一種[密碼雜湊函數演算法標準](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，由[美國國家安全局研發](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")\[1\]，由[美國國家標準與技術研究院](https://zh.wikipedia.org/wiki/美國國家標準與技術研究院 "wikilink")（NIST）在2001年發布。屬於[SHA演算法之一](../Page/SHA家族.md "wikilink")，是[SHA-1的後繼者](../Page/SHA-1.md "wikilink")。其下又可再分為六個不同的演算法標準，包括了：SHA-224、SHA-256、SHA-384、SHA-512、SHA-512/224、SHA-512/256。
+**SHA-2**，名稱來自於**安全散列演算法2**（）的縮寫，一種[密碼雜湊函數演算法標準](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，由[美國國家安全局研發](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")\[1\]，由[美國國家標準與技術研究院](https://zh.wikipedia.org/wiki/美國國家標準與技術研究院 "wikilink")（NIST）在2001年發布。屬於[SHA演算法之一](../Page/SHA家族.md "wikilink")，是[SHA-1](../Page/SHA-1.md "wikilink")的後繼者。其下又可再分為六個不同的演算法標準，包括了：SHA-224、SHA-256、SHA-384、SHA-512、SHA-512/224、SHA-512/256。
 
 ## 开发
 
 [SHA-2.svg](https://zh.wikipedia.org/wiki/File:SHA-2.svg "fig:SHA-2.svg")
 
-NIST發佈了三個額外的SHA變體，這三個函數都將訊息對應到更長的訊息摘要。以它們的摘要長度（以[位元計算](../Page/位元.md "wikilink")）加在原名後面來命名：SHA-256，SHA-384和SHA-512。它們發佈於2001年的FIPS
+NIST發佈了三個額外的SHA變體，這三個函數都將訊息對應到更長的訊息摘要。以它們的摘要長度（以[位元](../Page/位元.md "wikilink")計算）加在原名後面來命名：SHA-256，SHA-384和SHA-512。它們發佈於2001年的FIPS
 PUB 180-2草稿中，隨即通過審查和評論。包含SHA-1的FIPS PUB
 180-2，於2002年以官方標準發佈。2004年2月，發佈了一次FIPS
 PUB
-180-2的變更通知，加入了一個額外的變種SHA-224，這是為了符合雙金鑰[3DES所需的金鑰長度而定義](../Page/3DES.md "wikilink")\[2\]。
+180-2的變更通知，加入了一個額外的變種SHA-224，這是為了符合雙金鑰[3DES](../Page/3DES.md "wikilink")所需的金鑰長度而定義\[2\]。
 
 SHA-256和SHA-512是很新的雜湊函數，前者以定義一個word為32位元，後者則定義一個word為64位元。它們分別使用了不同的偏移量，或用不同的常數，然而，實際上二者結構是相同的，只在迴圈執行的次數上有所差異。SHA-224以及SHA-384則是前述二種雜湊函數的截短版，利用不同的初始值做計算。
 

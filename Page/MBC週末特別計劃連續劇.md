@@ -1,5 +1,5 @@
 **MBC週末特別計畫連續劇**（），又稱**MBC六日劇**，是韓國[MBC](../Page/文化廣播公司.md "wikilink")（MBC
-TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的電視劇](https://zh.wikipedia.org/wiki/星期天 "wikilink")。
+TV）於[星期六](../Page/星期六.md "wikilink")和[星期天晚間播出的電視劇](https://zh.wikipedia.org/wiki/星期天 "wikilink")。
 
 ## 播出時間更動表
 
@@ -1027,7 +1027,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年5月4日－<br />
-2019年7月</p></td>
+2019年7月13日</p></td>
 <td style="text-align: center;"><p><a href="../Page/異夢.md" title="wikilink">異夢</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
@@ -1037,8 +1037,8 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年7月－<br />
-2019年</p></td>
+<td style="text-align: center;"><p>2019年7月20日－<br />
+2019年9月21日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃金庭院" title="wikilink">黃金庭院</a><br />
 </p></td>
 <td style="text-align: center;"></td>
@@ -1048,7 +1048,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年－<br />
+<td style="text-align: center;"><p>2019年9月－<br />
 2019年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沒有第二次" title="wikilink">沒有第二次</a><br />
 </p></td>

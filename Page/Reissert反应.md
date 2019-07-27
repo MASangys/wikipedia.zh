@@ -1,10 +1,10 @@
 **Reissert反应**（Reissert reaction）\[1\]\[2\]
 
-通过一系列反应而将[喹啉转化为](../Page/喹啉.md "wikilink")[喹啉-2-羧酸](https://zh.wikipedia.org/wiki/喹啉-2-羧酸 "wikilink")。先用喹啉类与[酰氯和](../Page/酰氯.md "wikilink")[氰化钾反应生成](../Page/氰化钾.md "wikilink")1-酰基-2-氰基-1,2-二氢喹啉衍生物（即Reissert化合物），然后再进行水解，制得喹啉-2-羧酸。
+通过一系列反应而将[喹啉](../Page/喹啉.md "wikilink")转化为[喹啉-2-羧酸](https://zh.wikipedia.org/wiki/喹啉-2-羧酸 "wikilink")。先用喹啉类与[酰氯](../Page/酰氯.md "wikilink")和[氰化钾](../Page/氰化钾.md "wikilink")反应生成1-酰基-2-氰基-1,2-二氢喹啉衍生物（即Reissert化合物），然后再进行水解，制得喹啉-2-羧酸。
 
 
 [Reissert_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Reissert_Reaction_Scheme.png "fig:Reissert_Reaction_Scheme.png")
-亦可用[异喹啉类](../Page/异喹啉.md "wikilink")\[3\]\[4\]和多数[吡啶类化合物作为此反应的底物](../Page/吡啶.md "wikilink")。
+亦可用[异喹啉](../Page/异喹啉.md "wikilink")类\[3\]\[4\]和多数[吡啶](../Page/吡啶.md "wikilink")类化合物作为此反应的底物。
 
 反应综述：\[5\]\[6\]
 

@@ -1,4 +1,4 @@
-**alt屬性**是一個用於網頁語言[HTML和](../Page/HTML.md "wikilink")[XHTML](../Page/XHTML.md "wikilink")、為輸出純文字的參數屬性。它的作用是當[HTML元素本身的物件無法被](../Page/HTML元素.md "wikilink")[渲染時](../Page/渲染.md "wikilink")，就顯示alt（替代）文字作為一種補救措施。這也常被螢幕閱讀軟體所使用，
+**alt屬性**是一個用於網頁語言[HTML](../Page/HTML.md "wikilink")和[XHTML](../Page/XHTML.md "wikilink")、為輸出純文字的參數屬性。它的作用是當[HTML元素](../Page/HTML元素.md "wikilink")本身的物件無法被[渲染](../Page/渲染.md "wikilink")時，就顯示alt（替代）文字作為一種補救措施。這也常被螢幕閱讀軟體所使用，
 使聽著網頁內容的人(例如視障者)可以與之互動。在HTML 4.01中，
 **alt屬性被規定在`img`與`area`兩個元素中必須被指定，即使是空的**(否則螢幕閱讀軟體可能會讀出不必要的裝飾性元素名稱)，alt屬性的語法如下：
 
@@ -19,7 +19,7 @@
          src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dannebrog.jpg/180px-Dannebrog.jpg"
          width="180" height="135" />
 
-視力受損的讀者如果使用[螢幕閱讀器如](../Page/螢幕閱讀器.md "wikilink")或，這些應用程序會將圖像中提供的alt文字讀出，讓他們以聆聽理解圖像內容。純文字網頁瀏覽器如[Lynx或允許使用者手動會禁止下載圖像的瀏覽器會顯示alt文字以取代圖像](../Page/Lynx.md "wikilink")；一般能正常顯示圖像的網頁瀏覽器的讀者则需要開啟圖像屬性或頁面原始檔才能得知alt屬性內容。
+視力受損的讀者如果使用[螢幕閱讀器](../Page/螢幕閱讀器.md "wikilink")如或，這些應用程序會將圖像中提供的alt文字讀出，讓他們以聆聽理解圖像內容。純文字網頁瀏覽器如[Lynx](../Page/Lynx.md "wikilink")或允許使用者手動會禁止下載圖像的瀏覽器會顯示alt文字以取代圖像；一般能正常顯示圖像的網頁瀏覽器的讀者则需要開啟圖像屬性或頁面原始檔才能得知alt屬性內容。
 
 ## 常見誤解
 

@@ -1,4 +1,4 @@
-「**LOVE\&HONEY**」為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2004年5月26日發行的11st[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**LOVE\&HONEY**」為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")於2004年5月26日發行的11st[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -7,7 +7,7 @@
     mind](https://zh.wikipedia.org/wiki/feel_my_mind "wikilink")」的初回限定盤中收錄的「[甜心戰士](../Page/甜心戰士.md "wikilink")」再次收錄到本單曲中另加上新錄曲3曲。
   - 另外，首次以「CD ONLY」「CD＋DVD」2形態形式發行。
   - 本單曲繼2003年發行之7th單曲「[real
-    Emotion/千言萬語](https://zh.wikipedia.org/wiki/real_Emotion/千言萬語 "wikilink")」之後第2次再進[Oricon單曲榜](../Page/Oricon.md "wikilink")10名內。
+    Emotion/千言萬語](https://zh.wikipedia.org/wiki/real_Emotion/千言萬語 "wikilink")」之後第2次再進[Oricon](../Page/Oricon.md "wikilink")單曲榜10名內。
   - 在音樂節目中穿著暴露度較高的衣服引起話題，奠定其「エロかっこいい（性感帥氣）」的路線。
   - 倖田來未本人也參加電影「[甜心戰士](../Page/甜心戰士.md "wikilink")」的角色，並演唱其主題曲。
   - 「CD+DVD」與「CD ONLY」版中的CD曲目「The theme of Sister

@@ -1,4 +1,4 @@
-**B航艦**（）是[納粹德國海軍一艘從未完工下水的](../Page/納粹德國海軍.md "wikilink")[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，是當時德國海軍制訂的[Z計畫的一部份](https://zh.wikipedia.org/wiki/Z計畫 "wikilink")，與[齊柏林伯爵級航空母艦的二號艦](https://zh.wikipedia.org/wiki/齊柏林伯爵級航空母艦 "wikilink")。其姊妹艦為[齊柏林伯爵號](../Page/齊柏林伯爵號航空母艦.md "wikilink")。
+**B航艦**（）是[納粹德國海軍](../Page/納粹德國海軍.md "wikilink")一艘從未完工下水的[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，是當時德國海軍制訂的[Z計畫的一部份](https://zh.wikipedia.org/wiki/Z計畫 "wikilink")，與[齊柏林伯爵級航空母艦的二號艦](https://zh.wikipedia.org/wiki/齊柏林伯爵級航空母艦 "wikilink")。其姊妹艦為[齊柏林伯爵號](../Page/齊柏林伯爵號航空母艦.md "wikilink")。
 
 建造該艦的合同於1938年被授予，在[基爾](https://zh.wikipedia.org/wiki/基爾 "wikilink")[德意志造船廠起造](https://zh.wikipedia.org/wiki/德意志造船廠 "wikilink")，計劃中的下水日期為1940年7月1日。但該艦在1939年9月19日停止建造，並從沒有實際下水。半完成的艦體在1940年2月28日開始進行拆毀工作，工程進行了4個月完成。
 

@@ -1,7 +1,7 @@
-**WASP-18**，是一颗位于[凤凰座的恒星](../Page/凤凰座.md "wikilink")，[视星等为](../Page/视星等.md "wikilink")9.29\[1\]
+**WASP-18**，是一颗位于[凤凰座](../Page/凤凰座.md "wikilink")的恒星，[视星等](../Page/视星等.md "wikilink")为9.29\[1\]
 ，[裸眼无法看到它](../Page/肉眼.md "wikilink")。
 
-它的质量是[太阳的](../Page/太阳.md "wikilink")1.25倍\[2\]。2009年8月，大角度行星搜寻计划(SuperWASP,Wide
+它的质量是[太阳](../Page/太阳.md "wikilink")的1.25倍\[2\]。2009年8月，大角度行星搜寻计划(SuperWASP,Wide
 Angle Search for
 Planets)在它附近发现一颗[太阳系外行星](https://zh.wikipedia.org/wiki/太阳系外行星 "wikilink")[WASP-18b](../Page/WASP-18b.md "wikilink")。
 

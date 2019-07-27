@@ -4,7 +4,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，使用戶
 ## 特點
 
 Microsoft
-Mathematics包含的功能，旨在幫助教育用戶解決數學、科學和技術相關的問題。工具包括[圖形計算器及單位換算](https://zh.wikipedia.org/wiki/圖形計算器 "wikilink")。它還包括一個[三角形求解器和一個](../Page/三角形.md "wikilink")[方程求解器](../Page/方程.md "wikilink")，提供一步一步的解決方案，有利於對學生企圖學習解決問題的技能。
+Mathematics包含的功能，旨在幫助教育用戶解決數學、科學和技術相關的問題。工具包括[圖形計算器及單位換算](https://zh.wikipedia.org/wiki/圖形計算器 "wikilink")。它還包括一個[三角形](../Page/三角形.md "wikilink")求解器和一個[方程](../Page/方程.md "wikilink")求解器，提供一步一步的解決方案，有利於對學生企圖學習解決問題的技能。
 
 獨立版本的Microsoft Mathematics
 4.0還支持手寫識別及[微积分](https://zh.wikipedia.org/wiki/微积分 "wikilink")，從而使用戶能夠通過手寫出問題，讓他們通过微軟數學認識數學。
@@ -17,7 +17,7 @@ Mathematics包含的功能，旨在幫助教育用戶解決數學、科學和技
     2008部分。全功能版本完整支援微积分、手寫識別功能及一個投影機的特殊顯示模式。全功能版本是第一個要求進行產品激活的Microsoft
     Math版本。
   - Microsoft Mathematics 4.0 -
-    这个版本的软件微软在2011年1月发布。它可以免费下载。在这个版本中，软件使用了[Ribbon界面](../Page/Ribbon.md "wikilink")。
+    这个版本的软件微软在2011年1月发布。它可以免费下载。在这个版本中，软件使用了[Ribbon](../Page/Ribbon.md "wikilink")界面。
 
 ## 外部連結
 

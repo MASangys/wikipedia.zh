@@ -1,8 +1,8 @@
-『**Get It On**』為2006年3月1日配信限定的[倖田來未歌曲](../Page/倖田來未.md "wikilink")。
+『**Get It On**』為2006年3月1日配信限定的[倖田來未](../Page/倖田來未.md "wikilink")歌曲。
 
 ## 解說
 
-  - 本曲為[12週單曲連發第](../Page/12週單曲連發.md "wikilink")"00"週的單曲，於2006年3月1日在[ミュゥモ（mu-mo）](http://mu-mo.net)以及倖田來未Fan
+  - 本曲為[12週單曲連發](../Page/12週單曲連發.md "wikilink")第"00"週的單曲，於2006年3月1日在[ミュゥモ（mu-mo）](http://mu-mo.net)以及倖田來未Fan
     Club「playroom」進行配信下載。
 
 <!-- end list -->

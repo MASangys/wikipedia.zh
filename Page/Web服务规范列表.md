@@ -1,4 +1,4 @@
-有许多与[Web服务相关的规范](../Page/Web服务.md "wikilink")。这些规范成熟的程度不同，由不同的标准组织或机构来维护和支持。不同的标准或互相补充，或有所重叠，或互相竞争。Web服务规范有时统称为"WS-\*"，虽然既不存在一个具有清晰范围的规范集，这些规范也没有公认的统一所属机构。使用术语"WS-\*"更多的是因为许多规范的名称是以“WS-”开头的。本列表包括许多可能被看作“WS-\*”的规范。
+有许多与[Web服务](../Page/Web服务.md "wikilink")相关的规范。这些规范成熟的程度不同，由不同的标准组织或机构来维护和支持。不同的标准或互相补充，或有所重叠，或互相竞争。Web服务规范有时统称为"WS-\*"，虽然既不存在一个具有清晰范围的规范集，这些规范也没有公认的统一所属机构。使用术语"WS-\*"更多的是因为许多规范的名称是以“WS-”开头的。本列表包括许多可能被看作“WS-\*”的规范。
 
 ## XML规范
 
@@ -127,64 +127,7 @@
   - [WS-Management
     Catalog](https://zh.wikipedia.org/wiki/WS-Management_Catalog "wikilink")
   - [WS-ResourceTransfer](https://zh.wikipedia.org/wiki/WS-ResourceTransfer "wikilink")
-  - [WSDM](https://zh.wikipedia.org/wiki/Web_Services_Distributed_Management "wikilink")
 
-## 面向展示的规范
-
-  - [Web Services for Remote
-    Portlets](https://zh.wikipedia.org/wiki/Web_Services_for_Remote_Portlets "wikilink")
-
-## 草案规范
-
-  - [WS-Provisioning描述了用于不同的配置系统](https://zh.wikipedia.org/wiki/WS-Provisioning "wikilink")（provisioning
-    system）间以一致的使用Web服务的方式来实现互操作性。
-
-## 其他
-
-  - [Devices Profile for Web Services
-    (DPWS)](https://zh.wikipedia.org/wiki/Devices_Profile_for_Web_Services "wikilink")
-  - [ebXML](https://zh.wikipedia.org/wiki/ebXML "wikilink")
-
-## 标准化
-
-  - ISO/IEC 19784-2:2007 信息技术.生物统计应用设计接口.生物统计存储功能提供方接口
-  - ISO 19133:2005 地理信息.基于位置的跟踪与导航服务
-  - ISO/IEC 20000-1:2005 信息技术.服务管理.第一部分：规范
-  - ISO/IEC 20000-2:2005 信息技术.服务管理.第二部分：实践守则
-  - [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/IEC 24824-2:2006
-    信息技术.ASN.1的一般应用：快速网络服务
-  - ISO/IEC 25437:2006 信息技术.系统间远程通信和信息交换.WS会话.应用会话服务的Web服务
-
-## Web服务规范清单
-
-以下网站包含或链接了不同[Web服务规范的文档](../Page/Web服务.md "wikilink")。
-
-  - [IBM
-    developerWork：标准和Web服务](http://www-128.ibm.com/developerworks/webservices/standards/)
-  - [innoQ的WS-规范概览](http://www.innoq.com/resources/ws-standards-poster/)
-    ()
-  - [MSDN
-    .NET开发者中心：Web服务规范索引页](http://msdn.microsoft.com/en-us/library/ms951274.aspx)
-  - [OASIS规范和其他批准的成果](http://www.oasis-open.org/specs/index.php)
-  - [开放网格论坛最终文档](http://www.ogf.org/gf/docs/?final)
-  - [XML CoverPage](http://xml.coverpages.org/)
-  - [万维网联盟有关Web服务的活动](http://www.w3.org/2002/ws/)
-
-## 参见
-
-  - [Web服务](../Page/Web服务.md "wikilink")
-      - [Web服务标记语言列表](https://zh.wikipedia.org/wiki/Web服务标记语言列表 "wikilink")
-      - [Web服务框架列表](https://zh.wikipedia.org/wiki/Web服务框架列表 "wikilink")
-      - [Web服务协议列表](https://zh.wikipedia.org/wiki/Web服务协议列表 "wikilink")
-  - [XML标记语言列表](https://zh.wikipedia.org/wiki/XML标记语言列表 "wikilink")
-      - [XML
-        Schema列表](https://zh.wikipedia.org/wiki/XML_Schema列表 "wikilink")
-
-## 参考文献
-
-<references/>
-
-[分类:Web服务](https://zh.wikipedia.org/wiki/分类:Web服务 "wikilink")
-[Web服务规范](https://zh.wikipedia.org/wiki/分类:Web服务规范 "wikilink")
+<!-- end list -->
 
 1.  <http://docs.oasis-open.org/ws-dd/soapoverudp/1.1/os/wsdd-soapoverudp-1.1-spec-os.html>

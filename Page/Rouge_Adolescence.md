@@ -14,7 +14,7 @@ Japan, LLC.發行，是[ELISA的第](../Page/ELISA_\(歌手\).md "wikilink")2張
       - 作曲・編曲：川井憲次
 2.  [Wonder Wind](../Page/Wonder_Wind.md "wikilink")
       - 作詞：六ツ見純代、作曲：田代智一、編曲：前口渉
-      - 電視動畫「[旋風管家\!\!](../Page/旋風管家.md "wikilink")」主題曲
+      - 電視動畫「[旋風管家](../Page/旋風管家.md "wikilink")\!\!」主題曲
 3.  [Real Force](../Page/Real_Force.md "wikilink")
       - 作詞：六ツ見純代、作曲・編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
         Garden](../Page/Elements_Garden.md "wikilink")）

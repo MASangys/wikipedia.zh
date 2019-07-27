@@ -1,5 +1,5 @@
 《**Silent
-Bible**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[歌手](../Page/歌手.md "wikilink")[水樹奈奈第](../Page/水樹奈奈.md "wikilink")22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2010年2月10日由[King
+Bible**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2010年2月10日由[King
 Records
 MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番號KICM-1301。
 

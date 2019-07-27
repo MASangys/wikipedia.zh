@@ -1,6 +1,6 @@
 [Linux_kernel_interfaces.svg](https://zh.wikipedia.org/wiki/File:Linux_kernel_interfaces.svg "fig:Linux_kernel_interfaces.svg")
 **Linux标准规范**（，縮寫為
-LSB）是一個在[Linux基金會結構下對](../Page/Linux基金會.md "wikilink")[Linux發行版的聯合項目](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，其目標使[Linux](../Page/Linux.md "wikilink")[作業系統符合軟件系統架構](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，或文件系統架構標準的規範及標準。LSB基於[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")，[統一UNIX規範及其他開放標準](https://zh.wikipedia.org/wiki/統一UNIX規範 "wikilink")，在某些領域擴展它們。
+LSB）是一個在[Linux基金會](../Page/Linux基金會.md "wikilink")結構下對[Linux發行版的聯合項目](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，其目標使[Linux](../Page/Linux.md "wikilink")[作業系統符合軟件系統架構](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，或文件系統架構標準的規範及標準。LSB基於[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")，[統一UNIX規範及其他開放標準](https://zh.wikipedia.org/wiki/統一UNIX規範 "wikilink")，在某些領域擴展它們。
 
   -
     *The goal of the LSB is to develop and promote a set of open
@@ -13,7 +13,7 @@ LSB）是一個在[Linux基金會結構下對](../Page/Linux基金會.md "wikili
 The LSB compliance may be certified for a product by a certification
 procedure.\[1\]
 
-LSB規範的例子:標準[函式庫](../Page/函式庫.md "wikilink"),一系列的命令和工具以擴大POSIX的標準,文件系統架構的layout,[運行級別](https://zh.wikipedia.org/wiki/運行級別 "wikilink"),打印系統,[假脱机如](../Page/假脱机.md "wikilink")[CUPS及幾個](../Page/CUPS.md "wikilink")[X
+LSB規範的例子:標準[函式庫](../Page/函式庫.md "wikilink"),一系列的命令和工具以擴大POSIX的標準,文件系統架構的layout,[運行級別](https://zh.wikipedia.org/wiki/運行級別 "wikilink"),打印系統,[假脱机](../Page/假脱机.md "wikilink")如[CUPS](../Page/CUPS.md "wikilink")及幾個[X
 Window系统的擴展](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")。
 
 ## 發佈歷史
@@ -48,7 +48,7 @@ Window系统的擴展](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")�
       - [glibc](https://zh.wikipedia.org/wiki/glibc "wikilink") 2.4
       - 二進制兼容LSB 3.x
       - 更容易使用[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")
-      - 支援新版本的[GTK及](../Page/GTK.md "wikilink")[Cairo圖形函式庫](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")
+      - 支援新版本的[GTK](../Page/GTK.md "wikilink")及[Cairo圖形函式庫](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")
       - [Java](../Page/Java.md "wikilink")（可選組件）
       - 更簡單的方法建立符合LSB-compliant RPMp packages
       - 加密 API (通過 Network Secure Sockets library)

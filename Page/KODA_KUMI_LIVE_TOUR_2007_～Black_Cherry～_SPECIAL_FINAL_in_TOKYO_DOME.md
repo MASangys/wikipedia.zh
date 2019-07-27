@@ -1,10 +1,10 @@
 「**KODA KUMI LIVE TOUR 2007 〜Black Cherry〜 SPECIAL FINAL in TOKYO
 DOME**」（倖田來未 巡迴演唱會 2007 〜黑色櫻桃〜
-東京巨蛋最終場）為[倖田來未於](../Page/倖田來未.md "wikilink")2008年3月31日發行之演唱會DVD。[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")2片裝。
+東京巨蛋最終場）為[倖田來未](../Page/倖田來未.md "wikilink")於2008年3月31日發行之演唱會DVD。[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")2片裝。
 
 ## 解說
 
-  - 收錄全國18萬人動員的首次巨蛋巡迴演唱會中的[東京巨蛋最終公演](../Page/東京巨蛋.md "wikilink")「KODA
+  - 收錄全國18萬人動員的首次巨蛋巡迴演唱會中的[東京巨蛋](../Page/東京巨蛋.md "wikilink")最終公演「KODA
     KODA KUMI LIVE TOUR 2007 〜Black Cherry〜 SPECIAL FINAL in TOKYO
     DOME」。
   - 此巡迴演唱會DVD為倖田來未第4張連續奪冠的巡迴演唱會DVD。

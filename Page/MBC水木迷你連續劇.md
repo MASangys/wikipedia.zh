@@ -2260,10 +2260,10 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月17日－<br />
-2019年9月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/新進史官具海玲" title="wikilink">新進史官具海玲</a><br />
+2019年9月19日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/新入史官丘海昤" title="wikilink">新入史官丘海昤</a><br />
 </p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/申世景.md" title="wikilink">申世景</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優</a>、<a href="../Page/朴基雄.md" title="wikilink">朴基雄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/姜一洙" title="wikilink">姜一洙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金浩秀" title="wikilink">金浩秀</a></p></td>

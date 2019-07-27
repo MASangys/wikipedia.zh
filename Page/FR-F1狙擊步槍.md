@@ -8,7 +8,7 @@ FR
 F1由MAS（法國政府所擁有的其中一間武器工廠，圣-艾蒂安公司（）的[縮寫](../Page/縮寫.md "wikilink")）所生產。它可以配備一個瞄準鏡，法國軍隊發配的標準瞄準鏡為APX
 L806，[放大倍率為](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")6
 倍；它亦配有後備機械照門。它的實際有效射程是600—800 公尺（656.17—874.89
-[码](https://zh.wikipedia.org/wiki/码 "wikilink")）。由於其[质量](../Page/质量.md "wikilink")、[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管和有效的加上](../Page/槍管.md "wikilink")[槍口制退器和穩定裝置](../Page/砲口制動器.md "wikilink")，因此槍管振動大大減少。FR
+[码](https://zh.wikipedia.org/wiki/码 "wikilink")）。由於其[质量](../Page/质量.md "wikilink")、[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")和有效的加上[槍口制退器和穩定裝置](../Page/砲口制動器.md "wikilink")，因此槍管振動大大減少。FR
 F1採用與舊式的[MAS-36步槍相同的槍機設計](https://zh.wikipedia.org/wiki/MAS-36步槍 "wikilink")。
 
 ## 衍生型
@@ -19,7 +19,7 @@ F1採用與舊式的[MAS-36步槍相同的槍機設計](https://zh.wikipedia.org
 
 ## 使用國
 
-  -   - [国家宪兵干預组](https://zh.wikipedia.org/wiki/国家宪兵干預组 "wikilink")（在1976年曾於[吉布提使用](../Page/吉布提.md "wikilink")，拯救了被FLCS佔據[巴士裡的](../Page/公共汽車.md "wikilink")30名兒童；\[1\]現在已經被[FR-F2和其他狙擊步槍所取代](../Page/FR-F2狙擊步槍.md "wikilink")）\[2\]
+  -   - [国家宪兵干預组](https://zh.wikipedia.org/wiki/国家宪兵干預组 "wikilink")（在1976年曾於[吉布提](../Page/吉布提.md "wikilink")使用，拯救了被FLCS佔據[巴士裡的](../Page/公共汽車.md "wikilink")30名兒童；\[1\]現在已經被[FR-F2和其他狙擊步槍所取代](../Page/FR-F2狙擊步槍.md "wikilink")）\[2\]
 
   -
   - \[3\]

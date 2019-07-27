@@ -1,6 +1,6 @@
 **Nierenstein反应**（Nierenstein reaction）
 
-用[重氮甲烷将](../Page/重氮甲烷.md "wikilink")[酰氯转化为](../Page/酰氯.md "wikilink")[卤代酮](../Page/卤代酮.md "wikilink")。\[1\]\[2\]
+用[重氮甲烷](../Page/重氮甲烷.md "wikilink")将[酰氯](../Page/酰氯.md "wikilink")转化为[卤代酮](../Page/卤代酮.md "wikilink")。\[1\]\[2\]
 
 
 [NierensteinReaction.png](https://zh.wikipedia.org/wiki/File:NierensteinReaction.png "fig:NierensteinReaction.png")

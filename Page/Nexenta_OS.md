@@ -1,6 +1,6 @@
 **Nexenta
-OS**是一個基於[Ubuntu及](../Page/Ubuntu.md "wikilink")[Solaris給](../Page/Solaris.md "wikilink")[IA-32及](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[x86-64的](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。它產生於2005年秋季,在2005年6月[Sun
-Microsystems啟動](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[OpenSolaris項目之後](../Page/OpenSolaris.md "wikilink")\[1\]。Nexenta
+OS**是一個基於[Ubuntu](../Page/Ubuntu.md "wikilink")及[Solaris](../Page/Solaris.md "wikilink")給[IA-32及](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[x86-64的](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。它產生於2005年秋季,在2005年6月[Sun
+Microsystems啟動](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[OpenSolaris](../Page/OpenSolaris.md "wikilink")項目之後\[1\]。Nexenta
 OS是第一個用OpenSolaris核心配搭[OpenSolaris C
 函式庫及](https://zh.wikipedia.org/wiki/OpenSolaris_C_函式庫 "wikilink")[GNU](../Page/GNU.md "wikilink")[用戶態的發行版](https://zh.wikipedia.org/wiki/用戶態 "wikilink")。
 

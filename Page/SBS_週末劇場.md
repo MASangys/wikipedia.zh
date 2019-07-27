@@ -1,8 +1,8 @@
 **SBS
 週末劇場**（）是逢星期六、日晚上8時50分在[SBS電視台播映的](../Page/SBS_\(韓國\).md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。
 2014年，因此檔期自2013年播出的《[Wonderful
-Mama](../Page/完美媽媽.md "wikilink")》開始，收視陷入低迷，與同時段對打的[MBC週末連續劇收視相差甚遠](../Page/MBC週末連續劇.md "wikilink")，於是SBS決定將原本預定50集的長篇家庭劇自《[Modern
-Farmer](../Page/現代農夫.md "wikilink")》起改為20集的中篇電視劇，但收視卻不升反降，仍無法挽救長達2年的低迷收視，遂於2015年宣布在《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》下檔後，取消週末劇場的製作。但由於同期播出的[SBS週末特別計劃劇收視一樣低迷](../Page/SBS週末特別計劃劇.md "wikilink")，SBS決定由《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》取代被腰斬的《[我的心一閃一閃](../Page/我的心一閃一閃.md "wikilink")》，變相提早取消週末劇場。
+Mama](../Page/完美媽媽.md "wikilink")》開始，收視陷入低迷，與同時段對打的[MBC週末連續劇](../Page/MBC週末連續劇.md "wikilink")收視相差甚遠，於是SBS決定將原本預定50集的長篇家庭劇自《[Modern
+Farmer](../Page/現代農夫.md "wikilink")》起改為20集的中篇電視劇，但收視卻不升反降，仍無法挽救長達2年的低迷收視，遂於2015年宣布在《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》下檔後，取消週末劇場的製作。但由於同期播出的[SBS週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")收視一樣低迷，SBS決定由《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》取代被腰斬的《[我的心一閃一閃](../Page/我的心一閃一閃.md "wikilink")》，變相提早取消週末劇場。
 
 ## 海外相关播出
 

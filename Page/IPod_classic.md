@@ -7,7 +7,7 @@ video"，在第六代以後才加上"classic"以與其他iPod區別。第一代�
 现在共有6個世代的iPod存在，分別為：1G（一代）、2G（二代）、3G（三代）、4G（四代）、5G（五代，又稱iPod
 video）和6G（六代，至此之後都稱為iPod classic）。
 
-在任一代iPod中，以硬盘容量的不同来区分不同型号，在市场上则反应为不同的售价。如在第三代中，同时存在三种不同容量的iPod，在[美国的价格分别是](../Page/美国.md "wikilink")$299、$399和$499。最後銷售的第六代iPod
+在任一代iPod中，以硬盘容量的不同来区分不同型号，在市场上则反应为不同的售价。如在第三代中，同时存在三种不同容量的iPod，在[美国](../Page/美国.md "wikilink")的价格分别是$299、$399和$499。最後銷售的第六代iPod
 classic改良二版：使用160GB硬碟，售價249[美元](../Page/美元.md "wikilink")\[1\]。注意：苹果电脑所声称1GB的储存容量能放250首4分钟的歌曲，是在使用iTunes软件把歌曲编码为128Kb/s的[AAC文件的情况下](https://zh.wikipedia.org/wiki/AAC "wikilink")。编码歌曲时使用更高的速率将使用更多的硬碟空间。在此比率测试下，当前30GB的iPod在苹果电脑的定义下能储存大约7500首歌曲。
 
 2014年9月，苹果公司将iPod classic从其官方网站在线商店下架，但并未发表任何声明。iPod
@@ -20,7 +20,7 @@ classic自此退出市场。\[2\]\[3\]
 [Lightmatter_ipod_1G.jpg](https://zh.wikipedia.org/wiki/File:Lightmatter_ipod_1G.jpg "fig:Lightmatter_ipod_1G.jpg")
 
 2001年10月23日首次發表的iPod，搭載了5[GB容量的硬碟](https://zh.wikipedia.org/wiki/GB "wikilink")（可存放約1000首歌曲），定價為399[美元](../Page/美元.md "wikilink")\[4\]。當時評論家認為其價格過高，但是iPod卻在市場上很快的造成流行。操控方面採用了「Scroll
-Wheel」機械式轉盤控制，是由[Synaptics公司開發](../Page/Synaptics.md "wikilink")。
+Wheel」機械式轉盤控制，是由[Synaptics](../Page/Synaptics.md "wikilink")公司開發。
 
 在2002年3月又发表了10GB（約2000首歌曲）的版本，定價為499[美金](../Page/美元.md "wikilink")。5GB機型的背面沒有標示出容量，到了10GB版本推出後才有容量的識別。
 {{-}}
@@ -35,7 +35,7 @@ Jukebox"。 {{-}}
 ### 第三代
 
 [3G_ipod_in_dock.jpg](https://zh.wikipedia.org/wiki/File:3G_ipod_in_dock.jpg "fig:3G_ipod_in_dock.jpg")
-在2003年4月28日，蘋果電腦的首席执行官[史蒂夫·乔布斯發表一款](../Page/史蒂夫·乔布斯.md "wikilink")「極薄」的iPod。容量分別為10GB（約2000首歌）、15GB（約3700首歌）、30GB（約7500首歌）。在2003年9月時，又將15GB的機型升級為20GB（約5000首歌）、30GB的升級為40GB（約10000首歌），而價格則沒有改變。
+在2003年4月28日，蘋果電腦的首席执行官[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")發表一款「極薄」的iPod。容量分別為10GB（約2000首歌）、15GB（約3700首歌）、30GB（約7500首歌）。在2003年9月時，又將15GB的機型升級為20GB（約5000首歌）、30GB的升級為40GB（約10000首歌），而價格則沒有改變。
 
 從三代開始，iPod改為可同時支援Mac和Windows，不再區分包裝。所有iPod出貨時皆格式化為Mac格式，但在隨附的光碟片中包括了Windows版本的軟體，可以將iPod重新格式化為Windows格式。
 
@@ -72,7 +72,7 @@ zh-hant:韌體;}-，讓一代至三代的iPod能夠使用新的-{zh-hans:菜单;
 
 苹果在2004年10月28日推出[iPod
 photo](https://zh.wikipedia.org/wiki/iPod_photo "wikilink")（原名**iPod
-Photo**，在销售一个月后，把大写的P'改为符合iPod系列命名规则的小写字母p）。它使用了65536色，220x176点的彩色屏幕，并具有储存和显示[JPEG](../Page/JPEG.md "wikilink")、[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")、[GIF](../Page/GIF.md "wikilink")、[TIFF和](../Page/TIFF.md "wikilink")[PNG图片的能力](../Page/PNG.md "wikilink")。它比标准的第四代iPod厚了1毫米，iPod
+Photo**，在销售一个月后，把大写的P'改为符合iPod系列命名规则的小写字母p）。它使用了65536色，220x176点的彩色屏幕，并具有储存和显示[JPEG](../Page/JPEG.md "wikilink")、[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")、[GIF](../Page/GIF.md "wikilink")、[TIFF](../Page/TIFF.md "wikilink")和[PNG](../Page/PNG.md "wikilink")图片的能力。它比标准的第四代iPod厚了1毫米，iPod
 photo可以在每次充电后播放15小时的音乐。iPod photo起始包括40GB和60GB版本，分别售$499和$599。
 
 在2005年2月23日，Apple停止销售包括火线、USB和底座的40GB型号，推出了低价的30GB型号，并调低了60GB型号的价格。但与一代photo不同的是，降价后的60GB和新30GB版本缺少底座、火线线缆、便携外壳和AV线缆（配件价值大约$120）。
@@ -80,7 +80,7 @@ photo可以在每次充电后播放15小时的音乐。iPod photo起始包括40G
 苹果于2005年6月28日更新产品线，将iPod和iPod photo的产品线合二为一，将所有黑白屏幕型号都升级为彩色屏幕。20GB
 iPod现着具有iPod photo的所有功能，售$299，与前一代的黑白型号相同。60GB
 iPod的价格从$399降到$299，同时取消了30GB（售$349）的型号。苹果电脑将此系列改名為
-iPod。随着新产品诞生，苹果电脑更新[iTunes为](https://zh.wikipedia.org/wiki/iTunes "wikilink")4.9版，并添加了[播客功能](../Page/播客.md "wikilink")。
+iPod。随着新产品诞生，苹果电脑更新[iTunes为](https://zh.wikipedia.org/wiki/iTunes "wikilink")4.9版，并添加了[播客](../Page/播客.md "wikilink")功能。
 
 要管理iPod
 photo图片库，Macintosh用户使用[iPhoto](https://zh.wikipedia.org/wiki/iPhoto "wikilink")，而Windows用户使用[Adobe
@@ -105,7 +105,7 @@ iPod U2于2005年6月28日升级为彩色屏幕。\[5\] {{-}}
 
 #### 哈利·波特iPod
 
-2005年9月7日，苹果发布了限定版的[哈利·波特四代iPod](../Page/哈利·波特.md "wikilink")，在背面用激光蚀刻[霍格华兹标志](https://zh.wikipedia.org/wiki/霍格华兹 "wikilink")。\[6\]
+2005年9月7日，苹果发布了限定版的[哈利·波特](../Page/哈利·波特.md "wikilink")四代iPod，在背面用激光蚀刻[霍格华兹标志](https://zh.wikipedia.org/wiki/霍格华兹 "wikilink")。\[6\]
 与这款iPod发布的同时，在[iTunes Music
 Store上销售哈利](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")·波特的[有声读物](https://zh.wikipedia.org/wiki/有声读物 "wikilink")。唯一能买到哈利·波特iPod的方式是从网上，以$548的价格与哈利·波特有声读物一起购买（10月12日数据）。
 {{-}}

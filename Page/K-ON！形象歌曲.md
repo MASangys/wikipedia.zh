@@ -8,7 +8,7 @@
 
 内容是人物歌3曲和各自樂曲的樂器曲共6首。第1首歌是人物作中用頭歌是人物作品中擔任的樂器的樂曲，第2首歌是印象歌，第3首歌是『K-ON\!』WEB廣播『らじおん\!』內已練習的樂曲「『ﾚｯﾂｺﾞｰ』\[1\]」的[獨奏](https://zh.wikipedia.org/wiki/獨奏 "wikilink")。
 
-光碟外盒是『K-ON\!』總作画監督[堀口悠紀子親自畫的設計](../Page/堀口悠紀子.md "wikilink")，CD外盒上也同樣的圖畫印刷。
+光碟外盒是『K-ON\!』總作画監督[堀口悠紀子](../Page/堀口悠紀子.md "wikilink")親自畫的設計，CD外盒上也同樣的圖畫印刷。
 
 [ORICON集計在](https://zh.wikipedia.org/wiki/ORICON "wikilink")6月17日發售「平澤唯」和「秋山澪」2張作品，主題歌「[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")」和「[Don't
 say

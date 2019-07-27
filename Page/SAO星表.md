@@ -1,5 +1,5 @@
 **SAO星表**（**The Smithsonian Astrophysical Observatory Star Catalog** /
-**史密松天体物理台星表**）是一个天体测量[星表](../Page/星表.md "wikilink")，在1966年由[史密松天体物理台出版](https://zh.wikipedia.org/wiki/史密松天体物理台 "wikilink")，共包含258,997颗恒星。\[1\]<sup></sup>\[2\]<sup></sup>\[3\]该星表由之前的一些星表编纂而成，但仅收录9.0等以上且已经精确测量过[自行的恒星](../Page/自行.md "wikilink")。SAO星表里的星名由字母SAO开头接着数字序号表示，恒星以[赤纬分区](../Page/赤纬.md "wikilink")，每10度为一区，共分为18区，在每一区中的恒星依照[赤经位置来排序](../Page/赤经.md "wikilink")。SAO星表较大的变动是增加了一些[HD星表没有的资料](../Page/HD星表.md "wikilink")：恒星的自行，因为这是很有用的资料；与[HD星表和](../Page/HD星表.md "wikilink")[巡天星表序号的交互参照](https://zh.wikipedia.org/wiki/巡天星表 "wikilink")，在最后的一版中仍然被保留着。
+**史密松天体物理台星表**）是一个天体测量[星表](../Page/星表.md "wikilink")，在1966年由[史密松天体物理台出版](https://zh.wikipedia.org/wiki/史密松天体物理台 "wikilink")，共包含258,997颗恒星。\[1\]<sup></sup>\[2\]<sup></sup>\[3\]该星表由之前的一些星表编纂而成，但仅收录9.0等以上且已经精确测量过[自行](../Page/自行.md "wikilink")的恒星。SAO星表里的星名由字母SAO开头接着数字序号表示，恒星以[赤纬](../Page/赤纬.md "wikilink")分区，每10度为一区，共分为18区，在每一区中的恒星依照[赤经](../Page/赤经.md "wikilink")位置来排序。SAO星表较大的变动是增加了一些[HD星表](../Page/HD星表.md "wikilink")没有的资料：恒星的自行，因为这是很有用的资料；与[HD星表](../Page/HD星表.md "wikilink")和[巡天星表序号的交互参照](https://zh.wikipedia.org/wiki/巡天星表 "wikilink")，在最后的一版中仍然被保留着。
 
 ## SAO星表条目实例
 

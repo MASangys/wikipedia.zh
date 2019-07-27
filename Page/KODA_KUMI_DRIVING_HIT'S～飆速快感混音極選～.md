@@ -1,5 +1,5 @@
 「**KODA KUMI DRIVING
-HIT'S**」（飆速快感混音極選～）於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未的首張](../Page/倖田來未.md "wikilink")[混音](../Page/混音.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
+HIT'S**」（飆速快感混音極選～）於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未](../Page/倖田來未.md "wikilink")的首張[混音](../Page/混音.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 ## 附註
 
@@ -22,7 +22,7 @@ HIT'S**」（飆速快感混音極選～）於2009年3月25日發行之[日本](
       -
         5th專輯『[Black
         Cherry](https://zh.wikipedia.org/wiki/黑色櫻桃 "wikilink")』收錄。
-        [音樂錄影帶則收錄於](../Page/音樂錄影帶.md "wikilink")『[BEST 〜BOUNCE &
+        [音樂錄影帶](../Page/音樂錄影帶.md "wikilink")則收錄於『[BEST 〜BOUNCE &
         LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜影音雙體驗～媚影_&_情歌極選～ "wikilink")』。
 8.  **Butterfly (Prog5 Mirrorball Remix)**
 9.  **キューティーハニー（甜心戰士） (HOUSE NATION Sunset In Ibiza Remix)**

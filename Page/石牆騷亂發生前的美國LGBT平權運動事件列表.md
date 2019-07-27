@@ -1,7 +1,7 @@
-[Barbara_Gittings_1965.jpg](https://zh.wikipedia.org/wiki/File:Barbara_Gittings_1965.jpg "fig:Barbara_Gittings_1965.jpg")[白宮前的遊行示威者](../Page/白宮.md "wikilink")\]\]
-下表记录了**石牆騷亂發生前的美國LGBT平權運動事件**。儘管1969年的[石牆騷亂普遍被視為](https://zh.wikipedia.org/wiki/石牆騷亂 "wikilink")[同性戀平權運動的開始](../Page/同性戀.md "wikilink")，但早在石牆騷亂發生前就已有同性戀者自發或由同性戀團體組織的示威遊行。這些行動的目的在於反同性戀歧視，例如抗議[美軍對同性戀者的排斥與](https://zh.wikipedia.org/wiki/美國軍事 "wikilink")[古巴對待同性戀者的政策等](../Page/古巴.md "wikilink")。這些早期的示威活動成功凝結[同性戀社群的共同意識](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")，並在1969年石牆騷亂時爆發，使其成為[美國乃至於全球各地同性戀權利運動的開端](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+[Barbara_Gittings_1965.jpg](https://zh.wikipedia.org/wiki/File:Barbara_Gittings_1965.jpg "fig:Barbara_Gittings_1965.jpg")[白宮](../Page/白宮.md "wikilink")前的遊行示威者\]\]
+下表记录了**石牆騷亂發生前的美國LGBT平權運動事件**。儘管1969年的[石牆騷亂普遍被視為](https://zh.wikipedia.org/wiki/石牆騷亂 "wikilink")[同性戀](../Page/同性戀.md "wikilink")平權運動的開始，但早在石牆騷亂發生前就已有同性戀者自發或由同性戀團體組織的示威遊行。這些行動的目的在於反同性戀歧視，例如抗議[美軍對同性戀者的排斥與](https://zh.wikipedia.org/wiki/美國軍事 "wikilink")[古巴](../Page/古巴.md "wikilink")對待同性戀者的政策等。這些早期的示威活動成功凝結[同性戀社群的共同意識](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")，並在1969年石牆騷亂時爆發，使其成為[美國乃至於全球各地同性戀權利運動的開端](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
-早期的平權運動常採取的抗議手段包括設置路障阻擋抗議對象的人員進出等。美國東部的LGBT組織如、[女同性戀組織](../Page/女同性戀.md "wikilink")與等組織在[華盛頓](../Page/华盛顿哥伦比亚特区.md "wikilink")、[紐約或](https://zh.wikipedia.org/wiki/紐約 "wikilink")[費城的總部或分會則組成東岸同志之友組織](../Page/費城.md "wikilink")（，ECHO）以協調與組織示威遊行。由於人口稠密的大城市有相對較多的LGBT人群，ECHO常在這些城市組織遊行活動，同時他們也會對參加者的著裝作出規定，例如男性必須繫上[領帶](https://zh.wikipedia.org/wiki/領帶 "wikilink")、穿上夾克等；女性必須穿上裙子等。這些要求是由馬太辛協會創辦人所提出的，他意圖向人們展示，同性戀者是「體面且適宜僱用的」，並無與異性戀者有何異同。許多早期的示威者都繼續投入後來的同性戀解放運動。
+早期的平權運動常採取的抗議手段包括設置路障阻擋抗議對象的人員進出等。美國東部的LGBT組織如、[女同性戀](../Page/女同性戀.md "wikilink")組織與等組織在[華盛頓](../Page/华盛顿哥伦比亚特区.md "wikilink")、[紐約或](https://zh.wikipedia.org/wiki/紐約 "wikilink")[費城](../Page/費城.md "wikilink")的總部或分會則組成東岸同志之友組織（，ECHO）以協調與組織示威遊行。由於人口稠密的大城市有相對較多的LGBT人群，ECHO常在這些城市組織遊行活動，同時他們也會對參加者的著裝作出規定，例如男性必須繫上[領帶](https://zh.wikipedia.org/wiki/領帶 "wikilink")、穿上夾克等；女性必須穿上裙子等。這些要求是由馬太辛協會創辦人所提出的，他意圖向人們展示，同性戀者是「體面且適宜僱用的」，並無與異性戀者有何異同。許多早期的示威者都繼續投入後來的同性戀解放運動。
 {{-}}
 
 ## 事件
@@ -20,7 +20,7 @@
 <td></td>
 <td></td>
 <td><p>抗議警方的騷擾</p></td>
-<td><p><a href="../Page/LGBT.md" title="wikilink">LGBT人士因</a><a href="https://zh.wikipedia.org/wiki/洛杉矶警察局" title="wikilink">警方的骚扰而與其在常有</a><a href="https://zh.wikipedia.org/wiki/異裝皇后" title="wikilink">異裝皇后與</a><a href="../Page/男妓.md" title="wikilink">男妓聚集的</a>「庫珀的甜甜圈」（Cooper's Donuts）發生衝突。在警方逮捕三個人之後（其中包括作家<a href="../Page/約翰·里奇.md" title="wikilink">約翰·里奇</a>），其他示威者開始向警方丟擲<a href="../Page/甜甜圈.md" title="wikilink">甜甜圈與咖啡杯</a>。洛杉磯市警立刻呼叫支援並展開更大規模的逮捕行動，但約翰·里奇與其他被拘捕的兩人卻趁亂逃脫。</p></td>
+<td><p><a href="../Page/LGBT.md" title="wikilink">LGBT</a>人士因<a href="https://zh.wikipedia.org/wiki/洛杉矶警察局" title="wikilink">警方的骚扰而與其在常有</a><a href="https://zh.wikipedia.org/wiki/異裝皇后" title="wikilink">異裝皇后與</a><a href="../Page/男妓.md" title="wikilink">男妓</a>聚集的「庫珀的甜甜圈」（Cooper's Donuts）發生衝突。在警方逮捕三個人之後（其中包括作家<a href="../Page/約翰·里奇.md" title="wikilink">約翰·里奇</a>），其他示威者開始向警方丟擲<a href="../Page/甜甜圈.md" title="wikilink">甜甜圈</a>與咖啡杯。洛杉磯市警立刻呼叫支援並展開更大規模的逮捕行動，但約翰·里奇與其他被拘捕的兩人卻趁亂逃脫。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -38,7 +38,7 @@
 <td></td>
 <td></td>
 <td><p>抗議美國與古巴的同性戀政策</p></td>
-<td><p>同性戀者在1965年4月17日與4月18日時分別到<a href="../Page/白宮.md" title="wikilink">白宮與</a><a href="https://zh.wikipedia.org/wiki/聯合國總部" title="wikilink">聯合國總部</a>抗議<a href="../Page/古巴.md" title="wikilink">古巴政府將國內的同性戀者關進</a><a href="../Page/勞改營.md" title="wikilink">勞改營</a>。</p></td>
+<td><p>同性戀者在1965年4月17日與4月18日時分別到<a href="../Page/白宮.md" title="wikilink">白宮</a>與<a href="https://zh.wikipedia.org/wiki/聯合國總部" title="wikilink">聯合國總部</a>抗議<a href="../Page/古巴.md" title="wikilink">古巴</a>政府將國內的同性戀者關進<a href="../Page/勞改營.md" title="wikilink">勞改營</a>。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -92,7 +92,7 @@
 <td></td>
 <td></td>
 <td><p>抗議騷擾行為</p></td>
-<td><p>同性戀者與跨性別者顧客發起<a href="../Page/康普頓餐廳暴動.md" title="wikilink">康普頓餐廳暴動以抗議警方的持續騷擾</a>，餐廳與附近地區都受到程度不一的破壞。第二晚更多來自<a href="https://zh.wikipedia.org/wiki/同性戀社區" title="wikilink">同性戀社區的示威者加入暴動的行列</a>，甚至還越過警戒線砸毀餐廳的玻璃。</p></td>
+<td><p>同性戀者與跨性別者顧客發起<a href="../Page/康普頓餐廳暴動.md" title="wikilink">康普頓餐廳暴動</a>以抗議警方的持續騷擾，餐廳與附近地區都受到程度不一的破壞。第二晚更多來自<a href="https://zh.wikipedia.org/wiki/同性戀社區" title="wikilink">同性戀社區的示威者加入暴動的行列</a>，甚至還越過警戒線砸毀餐廳的玻璃。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -104,19 +104,19 @@
 <td></td>
 <td></td>
 <td><p>抗議市警突襲同志酒吧</p></td>
-<td><p>洛杉磯市警在<a href="../Page/除夕.md" title="wikilink">除夕夜時突襲同志酒吧</a>「黑貓」（Black Cat Tavern）與「新人」（New Faces），造成黑貓酒吧的酒保與數名顧客受傷送醫。此舉立刻引來數百名群眾聚集在<a href="../Page/日落大道.md" title="wikilink">日落大道上與黑貓酒吧外抗議</a>。</p></td>
+<td><p>洛杉磯市警在<a href="../Page/除夕.md" title="wikilink">除夕</a>夜時突襲同志酒吧「黑貓」（Black Cat Tavern）與「新人」（New Faces），造成黑貓酒吧的酒保與數名顧客受傷送醫。此舉立刻引來數百名群眾聚集在<a href="../Page/日落大道.md" title="wikilink">日落大道</a>上與黑貓酒吧外抗議。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>聲援城市中其他的少數族群</p></td>
-<td><p>在同志酒吧「潘朵拉的盒子」（Pandora's Box）老闆的組織下，約200名LGBT人士、40多名<a href="https://zh.wikipedia.org/wiki/嬉皮" title="wikilink">嬉皮與其它經常遭受警方騷擾的</a><a href="../Page/次文化.md" title="wikilink">次文化團體聚集在稍早發生過突襲事件的黑貓酒吧示威抗議</a>。</p></td>
+<td><p>在同志酒吧「潘朵拉的盒子」（Pandora's Box）老闆的組織下，約200名LGBT人士、40多名<a href="https://zh.wikipedia.org/wiki/嬉皮" title="wikilink">嬉皮與其它經常遭受警方騷擾的</a><a href="../Page/次文化.md" title="wikilink">次文化</a>團體聚集在稍早發生過突襲事件的黑貓酒吧示威抗議。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>抗議市警的誘捕與騷擾行為</p></td>
-<td><p>兩名<a href="https://zh.wikipedia.org/wiki/異裝皇后" title="wikilink">異裝皇后</a>「公主」與「公爵夫人」在時常有警方前來騷擾與驅逐LGBT人士的<a href="../Page/格里斐斯公園.md" title="wikilink">格里斐斯公園舉辦</a><a href="https://zh.wikipedia.org/wiki/聖派屈克節" title="wikilink">聖派屈克節的慶祝派對</a>，約有200名<a href="../Page/男同性戀.md" title="wikilink">男同性戀者參與</a>。</p></td>
+<td><p>兩名<a href="https://zh.wikipedia.org/wiki/異裝皇后" title="wikilink">異裝皇后</a>「公主」與「公爵夫人」在時常有警方前來騷擾與驅逐LGBT人士的<a href="../Page/格里斐斯公園.md" title="wikilink">格里斐斯公園</a>舉辦<a href="https://zh.wikipedia.org/wiki/聖派屈克節" title="wikilink">聖派屈克節的慶祝派對</a>，約有200名<a href="../Page/男同性戀.md" title="wikilink">男同性戀</a>者參與。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -134,19 +134,19 @@
 <td></td>
 <td></td>
 <td><p>抗議市警對同志酒吧的突襲行動</p></td>
-<td><p>在兩名顧客被逮捕後，酒吧老闆李·格雷斯（Lee Glaze）帶領其他顧客到警局<a href="../Page/保釋.md" title="wikilink">保釋這兩名遭逮捕的顧客</a>，並在警局周圍圍滿在附近花店買來的鮮花。</p></td>
+<td><p>在兩名顧客被逮捕後，酒吧老闆李·格雷斯（Lee Glaze）帶領其他顧客到警局<a href="../Page/保釋.md" title="wikilink">保釋</a>這兩名遭逮捕的顧客，並在警局周圍圍滿在附近花店買來的鮮花。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>對解僱同性戀平權運動者的公司進行抗議</p></td>
-<td><p>在新聞工作者吉爾·惠廷頓（Gale Whittington）因<a href="../Page/出櫃.md" title="wikilink">出櫃而導致他被國家船舶公司</a>（States Steamship Company）解僱後，一群同性戀平權運動者組成「同性戀解放組織」（Committee for Homosexual Freedom，CHF），並連續幾週在每個上班日的中午12:00－13:00對該公司的舊金山分公司進行示威抗議，並設置路障阻擋人員進出。</p></td>
+<td><p>在新聞工作者吉爾·惠廷頓（Gale Whittington）因<a href="../Page/出櫃.md" title="wikilink">出櫃</a>而導致他被國家船舶公司（States Steamship Company）解僱後，一群同性戀平權運動者組成「同性戀解放組織」（Committee for Homosexual Freedom，CHF），並連續幾週在每個上班日的中午12:00－13:00對該公司的舊金山分公司進行示威抗議，並設置路障阻擋人員進出。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>抗議解僱同性戀員工的企業</p></td>
-<td><p>在<a href="../Page/淘兒唱片.md" title="wikilink">淘兒唱片解僱同性戀員工法蘭克</a>·德納羅（Frank Denaro）後，CHF立刻對該公司進行為時數週的示威抗議，直到法蘭克·德納羅復職為止。此外他們也在<a href="https://zh.wikipedia.org/wiki/喜互惠公司" title="wikilink">喜互惠公司</a>、<a href="https://zh.wikipedia.org/wiki/梅西百貨" title="wikilink">梅西百貨與</a>前進行示威遊行。</p></td>
+<td><p>在<a href="../Page/淘兒唱片.md" title="wikilink">淘兒唱片</a>解僱同性戀員工法蘭克·德納羅（Frank Denaro）後，CHF立刻對該公司進行為時數週的示威抗議，直到法蘭克·德納羅復職為止。此外他們也在<a href="https://zh.wikipedia.org/wiki/喜互惠公司" title="wikilink">喜互惠公司</a>、<a href="https://zh.wikipedia.org/wiki/梅西百貨" title="wikilink">梅西百貨與</a>前進行示威遊行。</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,9 +1,9 @@
 **VBR
-CQBW**（，意為：近接戰鬥武器）是一款[比利时槍械製造商](../Page/比利时.md "wikilink")[VBR所研制的](https://zh.wikipedia.org/wiki/VBR-比利時 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。
+CQBW**（，意為：近接戰鬥武器）是一款[比利时](../Page/比利时.md "wikilink")槍械製造商[VBR所研制的](https://zh.wikipedia.org/wiki/VBR-比利時 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 概述
 
-CQBW的外型很接近一把[半自動手槍](../Page/半自動手槍.md "wikilink")，正符合「近接戰鬥武器」之意。CQBW除了發射全新開研發的[7.92×24毫米](https://zh.wikipedia.org/wiki/7.92×24mm "wikilink")[子彈以外](../Page/子彈.md "wikilink")，亦可以透過轉換[口徑的零件以轉換為](https://zh.wikipedia.org/wiki/口徑 "wikilink")[5.7×28毫米以及](../Page/5.7×28mm.md "wikilink")[4.6×30毫米這兩種子彈](../Page/4.6×30mm.md "wikilink")。該槍裝有可[槍托](../Page/槍托.md "wikilink")、\[1\]分別裝在[機匣頂部和底部用以裝上光學](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡和](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")[戰術燈的](../Page/戰術燈.md "wikilink")[MIL-STD-1913戰術導軌和可在](../Page/皮卡汀尼導軌.md "wikilink")[槍管外裝上的](../Page/槍管.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")。
+CQBW的外型很接近一把[半自動手槍](../Page/半自動手槍.md "wikilink")，正符合「近接戰鬥武器」之意。CQBW除了發射全新開研發的[7.92×24毫米](https://zh.wikipedia.org/wiki/7.92×24mm "wikilink")[子彈](../Page/子彈.md "wikilink")以外，亦可以透過轉換[口徑的零件以轉換為](https://zh.wikipedia.org/wiki/口徑 "wikilink")[5.7×28毫米以及](../Page/5.7×28mm.md "wikilink")[4.6×30毫米這兩種子彈](../Page/4.6×30mm.md "wikilink")。該槍裝有可[槍托](../Page/槍托.md "wikilink")、\[1\]分別裝在[機匣頂部和底部用以裝上光學](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡和](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")的[MIL-STD-1913戰術導軌和可在](../Page/皮卡汀尼導軌.md "wikilink")[槍管](../Page/槍管.md "wikilink")外裝上的[消聲器](../Page/抑制器.md "wikilink")。
 
 ## 相關條目
 

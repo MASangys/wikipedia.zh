@@ -1,7 +1,7 @@
 **OpenCL**（**Open** **C**omputing
-**L**anguage，开放计算语言）是一个为异构平台编写程序的框架，此异构平台可由[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")、[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink")、[FPGA或其他类型的处理器與硬體加速器所组成](https://zh.wikipedia.org/wiki/FPGA "wikilink")。OpenCL由一门用于编写kernels（在OpenCL设备上运行的函数）的语言（基于[C99](https://zh.wikipedia.org/wiki/C99 "wikilink")）和一组用于定义并控制平台的API组成。OpenCL提供了基于任务分割和数据分割的[并行计算机制](../Page/并行计算.md "wikilink")。
+**L**anguage，开放计算语言）是一个为异构平台编写程序的框架，此异构平台可由[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")、[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink")、[FPGA或其他类型的处理器與硬體加速器所组成](https://zh.wikipedia.org/wiki/FPGA "wikilink")。OpenCL由一门用于编写kernels（在OpenCL设备上运行的函数）的语言（基于[C99](https://zh.wikipedia.org/wiki/C99 "wikilink")）和一组用于定义并控制平台的API组成。OpenCL提供了基于任务分割和数据分割的[并行计算](../Page/并行计算.md "wikilink")机制。
 
-OpenCL类似于另外两个开放的工业标准[OpenGL和](../Page/OpenGL.md "wikilink")[OpenAL](../Page/OpenAL.md "wikilink")，这两个标准分别用于三维图形和计算机音频方面。OpenCL擴充了GPU圖形生成之外的能力。OpenCL由非盈利性技术组织[Khronos
+OpenCL类似于另外两个开放的工业标准[OpenGL](../Page/OpenGL.md "wikilink")和[OpenAL](../Page/OpenAL.md "wikilink")，这两个标准分别用于三维图形和计算机音频方面。OpenCL擴充了GPU圖形生成之外的能力。OpenCL由非盈利性技术组织[Khronos
 Group掌管](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink")。
 
 ## 历史
@@ -246,7 +246,7 @@ if __name__ == '__main__':
   - [CUDA](../Page/CUDA.md "wikilink")
   - [DirectCompute](../Page/DirectCompute.md "wikilink")
   - [C++ AMP](../Page/C++_AMP.md "wikilink")
-  - [比特币的挖礦](../Page/比特币.md "wikilink")
+  - [比特币](../Page/比特币.md "wikilink")的挖礦
 
 {{-}}
 

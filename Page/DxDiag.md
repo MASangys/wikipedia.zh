@@ -10,7 +10,7 @@ DxDiag只可顯示資訊，不可用於測試硬件和部份DirectX元件。\[2\
 
 ## 功能
 
-系統分頁會顯示[DirectX的版本](../Page/DirectX.md "wikilink")，該電腦的名稱，作業系統版本，BIOS的資訊和其他資料顯示分頁中，會顯示有關目前顯示的設定，還會有顯示卡的相關資料。如果該電腦有多於一個的顯示器，DxDiag會把它們的資料各自以獨立的分頁顯示。在這些分頁中，[DirectDraw](https://zh.wikipedia.org/wiki/DirectDraw "wikilink")，[Direct3D和](../Page/Direct3D.md "wikilink")[AGP可以分別停用](../Page/AGP.md "wikilink")，方便分析問題。在64位元系統中，系統會提供32位元和64位元的版本DxDiag供使用者選擇
+系統分頁會顯示[DirectX](../Page/DirectX.md "wikilink")的版本，該電腦的名稱，作業系統版本，BIOS的資訊和其他資料顯示分頁中，會顯示有關目前顯示的設定，還會有顯示卡的相關資料。如果該電腦有多於一個的顯示器，DxDiag會把它們的資料各自以獨立的分頁顯示。在這些分頁中，[DirectDraw](https://zh.wikipedia.org/wiki/DirectDraw "wikilink")，[Direct3D](../Page/Direct3D.md "wikilink")和[AGP](../Page/AGP.md "wikilink")可以分別停用，方便分析問題。在64位元系統中，系統會提供32位元和64位元的版本DxDiag供使用者選擇
 
 ## 外部連結
 

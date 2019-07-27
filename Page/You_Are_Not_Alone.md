@@ -1,5 +1,5 @@
 "**You Are Not Alone**",
-发行于1995年8月，是[迈克尔·杰克逊的专辑](../Page/迈克尔·杰克逊.md "wikilink")*[HIStory](../Page/HIStory:_Past,_Present_and_Future,_Book_I.md "wikilink")*中的第二首单曲。这首[R\&B](https://zh.wikipedia.org/wiki/R&B_#现代节奏布鲁斯 "wikilink")
+发行于1995年8月，是[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的专辑*[HIStory](../Page/HIStory:_Past,_Present_and_Future,_Book_I.md "wikilink")*中的第二首单曲。这首[R\&B](https://zh.wikipedia.org/wiki/R&B_#现代节奏布鲁斯 "wikilink")
 情歌是[R. Kelly](https://zh.wikipedia.org/wiki/R._Kelly "wikilink")
 所作，反映他个人生活中的困难时期。他后来把样带给杰克逊，后者喜欢这首歌，并决定与R.Kelly一起制作它。杰克逊对这首歌的兴趣也与当时他个人生活中最近发生的事有关。
 

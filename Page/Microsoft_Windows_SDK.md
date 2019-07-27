@@ -1,5 +1,5 @@
 **Microsoft Windows SDK**（简称Windows
-SDK或者SDK）是由[微软公司出品的一个](../Page/微软.md "wikilink")[软件开发包](https://zh.wikipedia.org/wiki/软件开发包 "wikilink")，向在微软的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统和](../Page/操作系统.md "wikilink")[.NET框架上开发软件和网站的程序员提供](../Page/.NET框架.md "wikilink")[头文件](../Page/头文件.md "wikilink")、[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")、示例代码、开发文档和开发工具\[1\]。
+SDK或者SDK）是由[微软](../Page/微软.md "wikilink")公司出品的一个[软件开发包](https://zh.wikipedia.org/wiki/软件开发包 "wikilink")，向在微软的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")和[.NET框架](../Page/.NET框架.md "wikilink")上开发软件和网站的程序员提供[头文件](../Page/头文件.md "wikilink")、[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")、示例代码、开发文档和开发工具\[1\]。
 
 ## 历史
 
@@ -19,7 +19,7 @@ Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
 
 ## 版本
 
-[MSDN技术资源库的在线版网站包含Windows](../Page/MSDN技术资源库.md "wikilink") SDK的在线版本。
+[MSDN技术资源库](../Page/MSDN技术资源库.md "wikilink")的在线版网站包含Windows SDK的在线版本。
 
 Microsoft SDK for Windows 3.0是最后一个收费版本的Windows SDK\[4\]。之后的Windows
 SDK电子版均为免费，但是购买[CD](../Page/CD.md "wikilink")、[DVD等基于物理介质的版本时仍需运费和处理费用](https://zh.wikipedia.org/wiki/DVD "wikilink")\[5\]。

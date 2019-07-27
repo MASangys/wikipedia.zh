@@ -1,5 +1,5 @@
 《**Seventh
-Heaven**》是[Kalafina的第](../Page/Kalafina.md "wikilink")1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2009年3月4日由[SME
+Heaven**》是[Kalafina](../Page/Kalafina.md "wikilink")的第1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2009年3月4日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》全七章的片尾主題歌。同時發行附有特典的初回生産限定盤。她們的第4張單曲《[Lacrimosa](../Page/Lacrimosa_\(單曲\).md "wikilink")》也是於同日發行\[2\]。
 

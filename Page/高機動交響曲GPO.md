@@ -1,4 +1,4 @@
-《**高機動交響曲GPO**》是由[SCE所發售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation2遊戲](https://zh.wikipedia.org/wiki/PlayStation2 "wikilink")。主要由《白之章》、《綠之章》、《青之章》三個編章構成。是2000年發售的[PlayStation遊戲](../Page/PlayStation.md "wikilink")—**[高機動幻想](https://zh.wikipedia.org/wiki/高機動幻想 "wikilink")**的續篇。原案、人物設定都是芝村裕吏。
+《**高機動交響曲GPO**》是由[SCE所發售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation2遊戲](https://zh.wikipedia.org/wiki/PlayStation2 "wikilink")。主要由《白之章》、《綠之章》、《青之章》三個編章構成。是2000年發售的[PlayStation](../Page/PlayStation.md "wikilink")遊戲—**[高機動幻想](https://zh.wikipedia.org/wiki/高機動幻想 "wikilink")**的續篇。原案、人物設定都是芝村裕吏。
 
 動畫版於2005年10月播放。全24話。
 

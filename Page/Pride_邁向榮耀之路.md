@@ -1,5 +1,5 @@
 《**Pride
-邁向榮耀之路**》（，），由[一-{条}-由香莉創作的](../Page/一条由香莉.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，自2002年12月起在月刊《》（[集英社](../Page/集英社.md "wikilink")）連載，2007年本作榮獲第11屆日本[文化廳媒體藝術祭漫畫部門優秀賞](../Page/文化廳媒體藝術祭.md "wikilink")\[1\]。
+邁向榮耀之路**》（，），由[一-{条}-由香莉創作的](../Page/一条由香莉.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，自2002年12月起在月刊《》（[集英社](../Page/集英社.md "wikilink")）連載，2007年本作榮獲第11屆日本[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門優秀賞\[1\]。
 
 ## 概說
 

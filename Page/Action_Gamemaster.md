@@ -9,7 +9,7 @@ Electronics Show）上宣称即将量产贩售Action Gamemaster。
 
 计划中的Action Gamemaster是一种类似任天堂[Game
 Boy及](../Page/Game_Boy.md "wikilink")[Atari
-Lynx的掌机系统](https://zh.wikipedia.org/wiki/Atari_Lynx "wikilink")，但有更大的野心。通过另售的转接器，它预计可以支持FC、Genesis及超任卡匣游戏及[CD-ROM游戏](../Page/CD-ROM.md "wikilink")。另外也有为Action
+Lynx的掌机系统](https://zh.wikipedia.org/wiki/Atari_Lynx "wikilink")，但有更大的野心。通过另售的转接器，它预计可以支持FC、Genesis及超任卡匣游戏及[CD-ROM](../Page/CD-ROM.md "wikilink")游戏。另外也有为Action
 Gamemaster专门设计的游戏。其中一款－《[猎豹人III](https://zh.wikipedia.org/wiki/猎豹人III "wikilink")》－曾在CES会上被提出，但不论是该游戏或Action
 Gamemaster皆未有实体展出。其它功能包括3.2英寸彩色[LCD显示屏](https://zh.wikipedia.org/wiki/LCD "wikilink")、电视天线、内置电池充电器及车用点烟器电源转接器。
 

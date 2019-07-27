@@ -1,4 +1,4 @@
-是[日本](../Page/日本.md "wikilink")[富士電視台在](../Page/富士電視台.md "wikilink")2009年4月16日至6月25日之間，於[每週四](https://zh.wikipedia.org/wiki/禮拜四 "wikilink")22:00至22:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）間播出的[警匪題材](https://zh.wikipedia.org/wiki/警匪片 "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，但第一集與最終集各加長15分。2011年4月14日至6月30日追加播出第二季，同樣也是每週四播出一小時，並於第一集與最後一集延長播出15分鐘。
+是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")在2009年4月16日至6月25日之間，於[每週四](https://zh.wikipedia.org/wiki/禮拜四 "wikilink")22:00至22:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）間播出的[警匪題材](https://zh.wikipedia.org/wiki/警匪片 "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，但第一集與最終集各加長15分。2011年4月14日至6月30日追加播出第二季，同樣也是每週四播出一小時，並於第一集與最後一集延長播出15分鐘。
 
 ## 主要登場人物
 
@@ -407,7 +407,7 @@
 
 ## 海外播放
 
-《BOSS女王》在[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港等日本國外市場也有播放](../Page/香港.md "wikilink")。其中台灣的[緯來日本台是在日本播放後約半年左右的](../Page/緯來日本台.md "wikilink")2009年12月24日進行首播，並將中譯片名命名為「**-{BOSS女王}-**」。2011年4月14日時，配合第二季的播出，又將第一季重播了一次。
+《BOSS女王》在[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")等日本國外市場也有播放。其中台灣的[緯來日本台](../Page/緯來日本台.md "wikilink")是在日本播放後約半年左右的2009年12月24日進行首播，並將中譯片名命名為「**-{BOSS女王}-**」。2011年4月14日時，配合第二季的播出，又將第一季重播了一次。
 
 香港[無綫電視在播放本劇時採用了中文配音方式播出](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，其主要角色的配音員名單概述如下：
 

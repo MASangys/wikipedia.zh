@@ -1,23 +1,23 @@
-**臺北最HIGH新年城**（），是[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[信義商圈的一系列](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")[跨年活動的總稱](../Page/跨年日.md "wikilink")，以每年12月31日下午7時至[元旦上午](../Page/元旦.md "wikilink")1時於[市民廣場前的](https://zh.wikipedia.org/wiki/市民廣場_\(臺北市\) "wikilink")[跨年晚會為主軸](../Page/跨年日.md "wikilink")，再結合[台北101跨年煙火表演迎接新的一年](../Page/台北101跨年煙火表演.md "wikilink")，是[臺北市政府自](../Page/臺北市政府.md "wikilink")2003年跨2004年起所沿用至今的[跨年活動名稱](https://zh.wikipedia.org/wiki/跨年活動 "wikilink")。
+**臺北最HIGH新年城**（），是[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[信義商圈的一系列](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")[跨年活動的總稱](../Page/跨年日.md "wikilink")，以每年12月31日下午7時至[元旦](../Page/元旦.md "wikilink")上午1時於[市民廣場前的](https://zh.wikipedia.org/wiki/市民廣場_\(臺北市\) "wikilink")[跨年晚會為主軸](../Page/跨年日.md "wikilink")，再結合[台北101跨年煙火表演](../Page/台北101跨年煙火表演.md "wikilink")迎接新的一年，是[臺北市政府](../Page/臺北市政府.md "wikilink")自2003年跨2004年起所沿用至今的[跨年活動名稱](https://zh.wikipedia.org/wiki/跨年活動 "wikilink")。
 
 ## 活動介紹
 
-臺北市政府以打造臺北成為「新年城」的概念做為活動的創意主軸，於2003年特別取「**台北最HIGH新年城**」為活動名稱，2004年末開始再結合[台北101的](../Page/台北101.md "wikilink")[煙火秀](https://zh.wikipedia.org/wiki/煙火 "wikilink")，多樣而豐富的活動、超長的時程、廣闊的空間、獨特的儀式，迎接新年的到來，每年均吸引數十萬人於[信義商圈現場參與](../Page/信義計畫區.md "wikilink")，[臺北市政府也邀請了當紅的](../Page/臺北市政府.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[偶像歌手一起在市府前廣場跨年晚會表演](https://zh.wikipedia.org/wiki/偶像 "wikilink")，成為國際及[臺灣最知名的跨年活動之一](../Page/臺灣.md "wikilink")。
+臺北市政府以打造臺北成為「新年城」的概念做為活動的創意主軸，於2003年特別取「**台北最HIGH新年城**」為活動名稱，2004年末開始再結合[台北101](../Page/台北101.md "wikilink")的[煙火秀](https://zh.wikipedia.org/wiki/煙火 "wikilink")，多樣而豐富的活動、超長的時程、廣闊的空間、獨特的儀式，迎接新年的到來，每年均吸引數十萬人於[信義商圈現場參與](../Page/信義計畫區.md "wikilink")，[臺北市政府](../Page/臺北市政府.md "wikilink")也邀請了當紅的[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[偶像歌手一起在市府前廣場跨年晚會表演](https://zh.wikipedia.org/wiki/偶像 "wikilink")，成為國際及[臺灣](../Page/臺灣.md "wikilink")最知名的跨年活動之一。
 
-同時藉由一個最具魅力的[跨年晚會](../Page/跨年日.md "wikilink")，讓[臺北站上世界的舞台](../Page/臺北市.md "wikilink")，贏得國際的掌聲。此外在跨年活動當天，[信義商圈內許多大型百貨公司](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")，包括[台北101購物中心](../Page/台北101.md "wikilink")、[ATT
+同時藉由一個最具魅力的[跨年晚會](../Page/跨年日.md "wikilink")，讓[臺北站上世界的舞台](../Page/臺北市.md "wikilink")，贏得國際的掌聲。此外在跨年活動當天，[信義商圈內許多大型百貨公司](https://zh.wikipedia.org/wiki/信義商圈 "wikilink")，包括[台北101](../Page/台北101.md "wikilink")購物中心、[ATT
 4
 FUN](../Page/ATT_4_FUN.md "wikilink")、[威秀影城](../Page/威秀影城.md "wikilink")、[新光三越信義新天地](../Page/新光三越百貨.md "wikilink")、[Neo19](https://zh.wikipedia.org/wiki/Neo19 "wikilink")、[誠品信義旗艦店](https://zh.wikipedia.org/wiki/誠品 "wikilink")、[寶麗廣塲](../Page/寶麗廣塲.md "wikilink")、[微風松高](../Page/微風廣場.md "wikilink")、[微風信義](../Page/微風廣場.md "wikilink")、[微風信義南山廣場](../Page/微風廣場.md "wikilink")、[統一時代百貨以及](../Page/統一時代百貨台北店.md "wikilink")[CITYLINK
 松山店](../Page/CITYLINK_\(購物中心\).md "wikilink")、[五分埔商圈](https://zh.wikipedia.org/wiki/五分埔商圈 "wikilink")、饒河街夜市以及[京華城購物中心](../Page/京華城購物中心.md "wikilink")，都延長營業時間至凌晨。
 
 2015年末增加新北市市民廣場（[板橋車站後方](https://zh.wikipedia.org/wiki/板橋車站_\(臺灣\) "wikilink")）大螢幕同步直播臺北最HIGH新年城跨年晚會，[新板特區週邊內許多大型百貨公司](https://zh.wikipedia.org/wiki/新板特區 "wikilink")，包括[Mega
 City
-板橋大遠百](../Page/遠東百貨.md "wikilink")、[遠東百貨新概念店板橋店以及板橋](../Page/遠東百貨.md "wikilink")[環球購物中心和](../Page/環球購物中心.md "wikilink")[威秀影城](../Page/威秀影城.md "wikilink")、[誠品生活新板店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[誠品生活板橋店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[麗寶百貨廣場及](../Page/麗寶百貨廣場.md "wikilink")[秀泰影城以及湳雅夜市](../Page/秀泰影城.md "wikilink")，都延長營業時間至凌晨。
+板橋大遠百](../Page/遠東百貨.md "wikilink")、[遠東百貨](../Page/遠東百貨.md "wikilink")新概念店板橋店以及板橋[環球購物中心](../Page/環球購物中心.md "wikilink")和[威秀影城](../Page/威秀影城.md "wikilink")、[誠品生活新板店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[誠品生活板橋店](https://zh.wikipedia.org/wiki/誠品商場 "wikilink")、[麗寶百貨廣場](../Page/麗寶百貨廣場.md "wikilink")及[秀泰影城](../Page/秀泰影城.md "wikilink")以及湳雅夜市，都延長營業時間至凌晨。
 
 ## 交通狀況
 
-因每年表演當日人數、車流量眾多，[臺北市政府為避免當地](../Page/臺北市政府.md "wikilink")[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[臺北市政府交通局](https://zh.wikipedia.org/wiki/臺北市政府交通局 "wikilink")、[臺北市政府警察局等單位於](https://zh.wikipedia.org/wiki/臺北市政府警察局 "wikilink")[信義計畫區與](../Page/信義計畫區.md "wikilink")[台北101附近進行](../Page/台北101.md "wikilink")[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")，另外臺北市政府也會向民眾宣導建議使用[大眾運輸工具到達管制區附近或離開](../Page/公共交通.md "wikilink")，如[臺北捷運](../Page/臺北捷運.md "wikilink")、[公車以及](../Page/公共汽車.md "wikilink")[台鐵等](https://zh.wikipedia.org/wiki/台鐵 "wikilink")，而早期最鄰近跨年晚會活動現場的捷運站為[板南線的](../Page/板南線.md "wikilink")[市政府站](https://zh.wikipedia.org/wiki/市政府站_\(臺北市\) "wikilink")，在2013年11月24日隨著捷運[信義線通車後](../Page/信義線.md "wikilink")，[台北101/世貿站也成為跨年晚會最鄰近的捷運站之一](https://zh.wikipedia.org/wiki/台北101/世貿站 "wikilink")，但由於表演結束後有數量眾多的遊客在同一時間進該兩站離開，所以[臺北市政府捷運工程局](https://zh.wikipedia.org/wiki/臺北市政府捷運工程局 "wikilink")、[臺北捷運公司都會宣導民眾盡量搭上述兩站前後一站的捷運站離開](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")，同時也會調整全線所有捷運列車營運時間從當日（12月31日）早上6點至隔日（1月1日）深夜12點長達42小時不收班，以及調度部分捷運班次列車不停靠市政府站和台北101/世貿站等措施。
+因每年表演當日人數、車流量眾多，[臺北市政府](../Page/臺北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[臺北市政府交通局](https://zh.wikipedia.org/wiki/臺北市政府交通局 "wikilink")、[臺北市政府警察局等單位於](https://zh.wikipedia.org/wiki/臺北市政府警察局 "wikilink")[信義計畫區](../Page/信義計畫區.md "wikilink")與[台北101](../Page/台北101.md "wikilink")附近進行[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")，另外臺北市政府也會向民眾宣導建議使用[大眾運輸工具到達管制區附近或離開](../Page/公共交通.md "wikilink")，如[臺北捷運](../Page/臺北捷運.md "wikilink")、[公車以及](../Page/公共汽車.md "wikilink")[台鐵等](https://zh.wikipedia.org/wiki/台鐵 "wikilink")，而早期最鄰近跨年晚會活動現場的捷運站為[板南線](../Page/板南線.md "wikilink")的[市政府站](https://zh.wikipedia.org/wiki/市政府站_\(臺北市\) "wikilink")，在2013年11月24日隨著捷運[信義線](../Page/信義線.md "wikilink")通車後，[台北101/世貿站也成為跨年晚會最鄰近的捷運站之一](https://zh.wikipedia.org/wiki/台北101/世貿站 "wikilink")，但由於表演結束後有數量眾多的遊客在同一時間進該兩站離開，所以[臺北市政府捷運工程局](https://zh.wikipedia.org/wiki/臺北市政府捷運工程局 "wikilink")、[臺北捷運公司都會宣導民眾盡量搭上述兩站前後一站的捷運站離開](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")，同時也會調整全線所有捷運列車營運時間從當日（12月31日）早上6點至隔日（1月1日）深夜12點長達42小時不收班，以及調度部分捷運班次列車不停靠市政府站和台北101/世貿站等措施。
 
-2015年末跨年增加[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋區](https://zh.wikipedia.org/wiki/板橋區 "wikilink")[新板特區和](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[新北市政府市民廣場大螢幕同步直播](../Page/新北市政府.md "wikilink")，以紓解信義商圈週邊人潮。[新北市政府為避免當地](../Page/新北市政府.md "wikilink")[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[新北市政府交通局](../Page/新北市政府交通局.md "wikilink")、[新北市政府警察局等單位於](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")[新板特區與新北市政府附近進行](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](../Page/新北市公共自行車租賃系統.md "wikilink")，另外新北市政府也會向民眾宣導建議使用[大眾運輸工具到達新板特區或離開](../Page/公共交通.md "wikilink")。另外在[板橋公車站周邊](https://zh.wikipedia.org/wiki/板橋公車站 "wikilink")、[文化路](https://zh.wikipedia.org/wiki/文化路_\(新北市\) "wikilink")、[新府路交界的站前廣場公園](https://zh.wikipedia.org/wiki/新府路 "wikilink")，而夜間的燈海步道則會在公園的河岸小橋與市民廣場周邊設置。
+2015年末跨年增加[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋區](https://zh.wikipedia.org/wiki/板橋區 "wikilink")[新板特區和](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[新北市政府](../Page/新北市政府.md "wikilink")市民廣場大螢幕同步直播，以紓解信義商圈週邊人潮。[新北市政府](../Page/新北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[新北市政府交通局](../Page/新北市政府交通局.md "wikilink")、[新北市政府警察局等單位於](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")[新板特區與新北市政府附近進行](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](../Page/新北市公共自行車租賃系統.md "wikilink")，另外新北市政府也會向民眾宣導建議使用[大眾運輸工具到達新板特區或離開](../Page/公共交通.md "wikilink")。另外在[板橋公車站周邊](https://zh.wikipedia.org/wiki/板橋公車站 "wikilink")、[文化路](https://zh.wikipedia.org/wiki/文化路_\(新北市\) "wikilink")、[新府路交界的站前廣場公園](https://zh.wikipedia.org/wiki/新府路 "wikilink")，而夜間的燈海步道則會在公園的河岸小橋與市民廣場周邊設置。
 
 ### 通往臺北市政府市民廣場
 
@@ -55,7 +55,9 @@ City
 
 #### [臺北捷運公司](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")
 
-  - ：[板橋站](https://zh.wikipedia.org/wiki/板橋車站 "wikilink")、[新埔站](https://zh.wikipedia.org/wiki/新埔站_\(新北市\) "wikilink")、[府中站](https://zh.wikipedia.org/wiki/府中站 "wikilink")。
+  - ：[板橋站](https://zh.wikipedia.org/wiki/板橋車站_\(台灣\) "wikilink")、[新埔站](https://zh.wikipedia.org/wiki/新埔站_\(新北市\) "wikilink")、[府中站](https://zh.wikipedia.org/wiki/府中站 "wikilink")。
+
+  - ：[板橋站](https://zh.wikipedia.org/wiki/板橋車站_\(台灣\) "wikilink")、[板新站](https://zh.wikipedia.org/wiki/板新站 "wikilink")、[新埔民生站](https://zh.wikipedia.org/wiki/新埔民生站 "wikilink")
 
 ## 跨年人數紀錄
 
@@ -78,7 +80,7 @@ City
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時有136.6萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到16萬人。</p>
 <ul>
-<li>2004跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線和</a><a href="../Page/文山線.md" title="wikilink">文山線以及台鐵</a><a href="https://zh.wikipedia.org/wiki/松山車站_(台灣)" title="wikilink">松山站首次加入跨年疏散營運</a>。</li>
+<li>2004跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>和<a href="../Page/文山線.md" title="wikilink">文山線</a>以及台鐵<a href="https://zh.wikipedia.org/wiki/松山車站_(台灣)" title="wikilink">松山站首次加入跨年疏散營運</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -96,7 +98,7 @@ City
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時有157.6萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到50萬人。</p>
 <ul>
-<li>2007跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線延伸</a><a href="../Page/土城線.md" title="wikilink">土城線首次加入跨年疏散營運</a>。</li>
+<li>2007跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>延伸<a href="../Page/土城線.md" title="wikilink">土城線</a>首次加入跨年疏散營運。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -114,7 +116,7 @@ City
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時達216.8萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到75萬人。</p>
 <ul>
-<li>2010<a href="../Page/跨年日.md" title="wikilink">跨年</a><a href="../Page/臺北捷運.md" title="wikilink">臺北捷運</a><a href="../Page/板南線.md" title="wikilink">板南線</a>135秒1班以及<a href="../Page/內湖線.md" title="wikilink">內湖線首次加入跨年疏散營運</a>。</li>
+<li>2010<a href="../Page/跨年日.md" title="wikilink">跨年</a><a href="../Page/臺北捷運.md" title="wikilink">臺北捷運</a><a href="../Page/板南線.md" title="wikilink">板南線</a>135秒1班以及<a href="../Page/內湖線.md" title="wikilink">內湖線</a>首次加入跨年疏散營運。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -122,7 +124,7 @@ City
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時達250萬餘人次搭乘捷運，創下歷年新高。臺北市政府統計，市府跨年活動人數達到82萬人。</p>
 <ul>
-<li>2011跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線轉乘</a><a href="../Page/蘆洲線.md" title="wikilink">蘆洲線首次加入跨年疏散營運</a>。</li>
+<li>2011跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>轉乘<a href="../Page/蘆洲線.md" title="wikilink">蘆洲線</a>首次加入跨年疏散營運。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -138,7 +140,7 @@ City
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時達206.5萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到85萬人。</p>
 <ul>
-<li>2013跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線轉乘</a><a href="../Page/中和新蘆線.md" title="wikilink">中和新蘆線</a><a href="https://zh.wikipedia.org/wiki/東門站_(台北市)" title="wikilink">東門站首次加入跨年疏散營運</a>。</li>
+<li>2013跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>轉乘<a href="../Page/中和新蘆線.md" title="wikilink">中和新蘆線</a><a href="https://zh.wikipedia.org/wiki/東門站_(台北市)" title="wikilink">東門站首次加入跨年疏散營運</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -146,7 +148,7 @@ City
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時達275.2萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到116萬人，市府首次突破百萬人紀錄。</p>
 <ul>
-<li>2014跨年臺北捷運<a href="../Page/信義線.md" title="wikilink">信義線首次加入跨年疏散營運</a>。</li>
+<li>2014跨年臺北捷運<a href="../Page/信義線.md" title="wikilink">信義線</a>首次加入跨年疏散營運。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -154,7 +156,7 @@ City
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時達296萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到118萬人，突破紀錄。</p>
 <ul>
-<li>2015跨年臺北捷運<a href="../Page/松山線.md" title="wikilink">松山線首次加入跨年疏散營運</a>。</li>
+<li>2015跨年臺北捷運<a href="../Page/松山線.md" title="wikilink">松山線</a>首次加入跨年疏散營運。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -179,6 +181,11 @@ City
 <td><p>2018年至2019年</p></td>
 <td><p>據臺北市政府捷運工程局統計</p></td>
 <td><p>跨年時達250萬人次搭乘捷運，比前一年少9.4萬。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年至2020年</p></td>
+<td><p>據臺北市政府捷運工程局統計</p></td>
+<td><p>跨年時達萬人次搭乘捷運</p></td>
 </tr>
 </tbody>
 </table>
@@ -207,7 +214,7 @@ City
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a><br />
-<a href="../Page/臺北市政府.md" title="wikilink">臺北市政府前</a><a href="https://zh.wikipedia.org/wiki/市民廣場_(臺北市)" title="wikilink">市民廣場</a></p></td>
+<a href="../Page/臺北市政府.md" title="wikilink">臺北市政府</a>前<a href="https://zh.wikipedia.org/wiki/市民廣場_(臺北市)" title="wikilink">市民廣場</a></p></td>
 <td><p>《2004臺北最HIGH新年城》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曹啟泰" title="wikilink">曹啟泰</a><br />
 <a href="../Page/崔麗心.md" title="wikilink">崔麗心</a><br />
@@ -217,16 +224,19 @@ City
 <td><p><a href="../Page/東森超視.md" title="wikilink">超级电视台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超級電視台" title="wikilink">超視</a><br />
 <a href="https://zh.wikipedia.org/wiki/JET日本台" title="wikilink">JET日本台</a><br />
-<a href="../Page/國興衛視.md" title="wikilink">國興衛視</a></p></td>
+<a href="../Page/國興衛視.md" title="wikilink">國興衛視</a><br />
+<a href="../Page/好事聯播網.md" title="wikilink">好事989電台</a><br />
+<a href="https://zh.wikipedia.org/wiki/seednet" title="wikilink">seednet</a></p></td>
 <td><p>2003年12月31日18:30～2004年1月1日01:00</p></td>
 </tr>
 <tr class="even">
-<td><p>《2005臺北最HIGH新年城Wifly迎向無線無線未來》</p></td>
+<td><p>《2005臺北最HIGH新年城・Wifly迎向無線無線未來》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/聶雲.md" title="wikilink">聶雲</a><br />
 <a href="../Page/柳翰雅.md" title="wikilink">柳翰雅</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a><br />
+<a href="https://zh.wikipedia.org/wiki/飛碟聯播網" title="wikilink">飛碟聯播網</a></p></td>
 <td><p>2004年12月31日19:00～2005年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -238,22 +248,24 @@ City
 <a href="../Page/小嫻.md" title="wikilink">小嫻</a><br />
 <a href="https://zh.wikipedia.org/wiki/艾莉絲" title="wikilink">艾莉絲</a></p></td>
 <td><p><a href="../Page/中天電視.md" title="wikilink">中天电视股份有限公司</a></p></td>
-<td><p><a href="../Page/中天娛樂台.md" title="wikilink">中天娛樂台</a></p></td>
+<td><p><a href="../Page/中天娛樂台.md" title="wikilink">中天娛樂台</a><br />
+<a href="https://zh.wikipedia.org/wiki/飛碟聯播網" title="wikilink">飛碟聯播網</a></p></td>
 <td><p>2005年12月31日19:00～2006年1月1日01:00</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《2007臺北最HIGH新年城煙火遊行嘉年華》</p></td>
+<td><p>《2007臺北最HIGH新年城・煙火遊行嘉年華》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/徐乃麟.md" title="wikilink">徐乃麟</a><br />
 <a href="../Page/黑Girl.md" title="wikilink">黑澀會美眉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a><br />
+<a href="../Page/中國廣播公司.md" title="wikilink">中國廣播公司</a></p></td>
 <td><p>2006年12月31日19:00～2007年1月1日01:00</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《2008臺北最HIGH新年城最好是南山》</p></td>
+<td><p>《2008臺北最HIGH新年城・最好是南山》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/何篤霖.md" title="wikilink">何篤霖</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
@@ -262,7 +274,7 @@ City
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《2009臺北最HIGH新年城旅行台灣年》</p></td>
+<td><p>《2009臺北最HIGH新年城・旅行台灣年》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/胡瓜.md" title="wikilink">胡瓜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a><br />
@@ -275,14 +287,17 @@ City
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《2010臺北最HIGH新年城精彩生活一整年》</p></td>
+<td><p>《2010臺北最HIGH新年城・精彩生活一整年》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/胡瓜.md" title="wikilink">胡瓜</a><br />
 <a href="../Page/鍾欣愉.md" title="wikilink">莎莎</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a><br />
 <a href="../Page/2moro.md" title="wikilink">2moro</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
-<td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a></p></td>
+<td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a><br />
+<a href="https://zh.wikipedia.org/wiki/HitFM聯播網" title="wikilink">HitFM聯播網</a><br />
+<a href="https://zh.wikipedia.org/wiki/HiNET_hichannel" title="wikilink">HiNET hichannel</a><br />
+<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台FM</a>93.1都會資訊頻道</p></td>
 <td><p>2009年12月31日19:00～2010年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -299,7 +314,7 @@ City
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《2012臺北最HIGH新年城 Taipei Beats. Let's party!》</p></td>
+<td><p>《2012臺北最HIGH新年城・Taipei Beats. Let's party!》</p></td>
 <td><p><a href="../Page/侯佩岑.md" title="wikilink">侯佩岑</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
@@ -314,7 +329,7 @@ City
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《2013臺北最HIGH新年城 Amazing Moment. Amazing Taipei.》</p></td>
+<td><p>《2013臺北最HIGH新年城・Amazing Moment. Amazing Taipei.》</p></td>
 <td><p><a href="../Page/侯佩岑.md" title="wikilink">侯佩岑</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
@@ -328,7 +343,7 @@ City
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《2014臺北最HIGH新年城 happy Taipei City》</p></td>
+<td><p>《2014臺北最HIGH新年城・happy Taipei City》</p></td>
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a><br />
 <a href="../Page/謝怡芬.md" title="wikilink">Janet</a></p></td>
@@ -351,12 +366,12 @@ City
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《2015臺北最HIGH新年城 好運台北》</p></td>
+<td><p>《2015臺北最HIGH新年城・好運台北》</p></td>
 <td><p><a href="../Page/浩角翔起.md" title="wikilink">浩角翔起</a><br />
 <a href="../Page/任家萱.md" title="wikilink">Selina</a><br />
 <a href="../Page/陳嘉樺.md" title="wikilink">Ella</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">聯利媒體股份有限公司</a></p></td>
-<td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台HD</a><br />
+<td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a>HD<br />
 <a href="../Page/TVBS-Asia.md" title="wikilink">TVBS-Asia</a><br />
 <a href="../Page/TVB8_(台灣版).md" title="wikilink">TVB8</a><br />
 <a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a><br />
@@ -373,12 +388,12 @@ Bestv百視通<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《2016臺北最HIGH新年城台北動起來 一起來跨年》</p></td>
+<td><p>《2016臺北最HIGH新年城・台北動起來 一起來跨年》</p></td>
 <td><p><a href="../Page/吳宗憲.md" title="wikilink">吳宗憲</a><br />
 <a href="https://zh.wikipedia.org/wiki/林郁智" title="wikilink">納豆</a><br />
 <a href="https://zh.wikipedia.org/wiki/Lulu" title="wikilink">Lulu</a></p></td>
-<td><p><a href="../Page/三立電視.md" title="wikilink">三立電視股份有限公司</a></p></td>
-<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台HD</a><br />
+<td><p><a href="../Page/三立電視.md" title="wikilink">三立電視</a>股份有限公司</p></td>
+<td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a>HD<br />
 <a href="../Page/三立國際台.md" title="wikilink">三立國際台</a><br />
 <a href="https://zh.wikipedia.org/wiki/astro集團" title="wikilink">astro</a><br />
 <a href="https://zh.wikipedia.org/wiki/StarHub" title="wikilink">StarHub</a><br />
@@ -397,7 +412,7 @@ viki</p></td>
 <td><p>《2017臺北最HIGH新年城》</p></td>
 <td><p><a href="../Page/曾國城.md" title="wikilink">曾國城</a><br />
 <a href="../Page/曾寶儀.md" title="wikilink">曾寶儀</a></p></td>
-<td><p><a href="../Page/三立電視.md" title="wikilink">三立電視股份有限公司</a></p></td>
+<td><p><a href="../Page/三立電視.md" title="wikilink">三立電視</a>股份有限公司</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a><br />
 <a href="../Page/公視主頻.md" title="wikilink">公視主頻</a><br />
 <a href="../Page/三立國際台.md" title="wikilink">三立國際台</a><br />
@@ -416,7 +431,7 @@ viki</p></td>
 <td><p>《2018臺北最HIGH新年城》</p></td>
 <td><p><a href="../Page/曾寶儀.md" title="wikilink">曾寶儀</a><br />
 <a href="../Page/KID.md" title="wikilink">KID</a></p></td>
-<td><p><a href="../Page/三立電視.md" title="wikilink">三立電視股份有限公司</a></p></td>
+<td><p><a href="../Page/三立電視.md" title="wikilink">三立電視</a>股份有限公司</p></td>
 <td><p><a href="../Page/三立都會台.md" title="wikilink">三立都會台</a><br />
 <a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
 <a href="../Page/三立國際台.md" title="wikilink">三立國際台</a><br />
@@ -432,7 +447,7 @@ viki</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《2019臺北最HIGH新年城・<strong>狂放電</strong>》</p></td>
+<td><p>《2019臺北最HIGH新年城・狂放電》</p></td>
 <td><p><a href="../Page/陳建州.md" title="wikilink">陳建州</a><br />
 <a href="../Page/天心_(藝人).md" title="wikilink">天心</a><br />
 <a href="../Page/海裕芬.md" title="wikilink">海裕芬</a></p></td>
@@ -446,19 +461,22 @@ viki</p></td>
 <a href="https://zh.wikipedia.org/wiki/Twitch_(網站)" title="wikilink">Twitch</a><br />
 <a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a><br />
 LINE TODAY<br />
-Dailymotion<br />
-Singtel 佳樂台 (延後)<br />
-<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a><a href="../Page/J2.md" title="wikilink">J2</a> (娛樂新聞報導：除夕星級倒數派對內)</p></td>
+Dailymotion</p></td>
 <td><p>2018年12月31日19:00～2019年1月1日01:00（公視主頻19:58起播出）<br />
 臺北最HIGH新年城15週年</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>《2020臺北最HIGH新年城・这里我们混大的》</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a><br />
+<a href="https://zh.wikipedia.org/wiki/必應創造股份有限公司" title="wikilink">必應創造股份有限公司</a></p></td>
+<td><p><a href="../Page/華視主頻.md" title="wikilink">華視主頻</a></p></td>
+<td><p>2019年12月31日19:00～2020年1月1日01:00</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
-
-## 轉播冠名
-
-## 歷年表演曲目
 
 ## 參考來源
 
