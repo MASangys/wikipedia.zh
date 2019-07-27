@@ -1,12 +1,12 @@
 m0n0wall 是基于 [FreeBSD](../Page/FreeBSD.md "wikilink")
-的嵌入式[防火墙发行版](../Page/防火墙.md "wikilink")，是
+的嵌入式[防火墙](../Page/防火墙.md "wikilink")发行版，是
 [BSD](../Page/BSD.md "wikilink")
-[操作系统的后代之一](../Page/操作系统.md "wikilink")。它提供了一个小镜像，可以放在小型[闪存卡上](../Page/闪存.md "wikilink")，也可以放在
+[操作系统](../Page/操作系统.md "wikilink")的后代之一。它提供了一个小镜像，可以放在小型[闪存](../Page/闪存.md "wikilink")卡上，也可以放在
 [CD-ROM](../Page/CD-ROM.md "wikilink")
-和[硬盘上](../Page/硬盘.md "wikilink")。它可以在许多嵌入式平台和通用 PC
+和[硬盘](../Page/硬盘.md "wikilink")上。它可以在许多嵌入式平台和通用 PC
 上运行。PC 版本可以只使用一张 [Live CD](../Page/Live_CD.md "wikilink")
-和一张[软盘来存储配置数据](../Page/软盘.md "wikilink")，也可以在一张小型闪存卡上运行（附带
-IDE 适配器）。这就消除了对硬盘驱动器的需求，从而降低了噪音和热量水平。
+和一张[软盘](../Page/软盘.md "wikilink")来存储配置数据，也可以在一张小型闪存卡上运行（附带 IDE
+适配器）。这就消除了对硬盘驱动器的需求，从而降低了噪音和热量水平。
 
 2015 年 2 月 15 日，Manuel Kasper 宣布“m0n0wall
 项目正式结束”。不会再做任何开发，也不会有更新的版本，“鼓励”所有当前的
@@ -73,35 +73,9 @@ m0n0wall 安装在一些公司设计制造的嵌入式硬件上。
   - AskoziaPBX：嵌入式电话系统。
   - XigmaNAS：基于 FreeBSD 的 NAS
     [网络附加存储发行版](https://zh.wikipedia.org/wiki/网络附加存储 "wikilink")，使用了
-    m0n0wall web [GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")
-    的部分内容。以前是NAS4Free。
+    m0n0wall web
 
-## 另请参阅
-
-  - Comparison of firewalls
-  - List of router or firewall distributions
-
-## 参考文献
-
-<references group="" responsive="">
-
-</references>
-
-## 外部链接
-
-  - [官方网站](https://m0n0.ch/wall/index.php)
-  - [SourceForge.net上的](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")[M0n0wall中央管理接口项目](https://zh.wikipedia.org/wiki/sourceforge:projects/m0n0wall-cmi/ "wikilink")
-
-[Category:路由器](https://zh.wikipedia.org/wiki/Category:路由器 "wikilink")
-[Category:2003年面世的產品](https://zh.wikipedia.org/wiki/Category:2003年面世的產品 "wikilink")
-[Category:FreeBSD](https://zh.wikipedia.org/wiki/Category:FreeBSD "wikilink")
-[Category:自由路由軟體](https://zh.wikipedia.org/wiki/Category:自由路由軟體 "wikilink")
-[Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")
-[Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
-[Category:BSD软件](https://zh.wikipedia.org/wiki/Category:BSD软件 "wikilink")
-[Category:2003年软件](https://zh.wikipedia.org/wiki/Category:2003年软件 "wikilink")
-[Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+<!-- end list -->
 
 1.
 2.

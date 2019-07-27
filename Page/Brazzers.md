@@ -6,22 +6,10 @@ Brazzers於2005年由一群[蒙特婁投資者創立](https://zh.wikipedia.org/w
 Inc.\[3\]\[4\]。2012年12月，泰曼因涉嫌逃稅而被從[比利時引渡回](https://zh.wikipedia.org/wiki/比利時 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")\[5\]。
 
 2013年10月，泰曼將Manwin的資產（包括Brazzers）出售給內部管理集團[MindGeek](../Page/MindGeek.md "wikilink")\[6\]。
-Brazzers於2014年在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[時報廣場刊出了一個慶祝成立](../Page/時報廣場.md "wikilink")10週年的廣告牌\[7\]，同時宣導著[安全性行為](../Page/安全性行為.md "wikilink")\[8\]。
-
-2016年9月，Brazzers數據庫遭受洩露的消息外流，該網站於2013年4月曾遭駭客攻擊而使近100萬名用戶的個資外洩\[9\]。
-
-## 參考文獻
-
-## 外部連結
-
-  -
-  -
-[Category:MindGeek](https://zh.wikipedia.org/wiki/Category:MindGeek "wikilink")
-[Category:蒙特利尔公司](https://zh.wikipedia.org/wiki/Category:蒙特利尔公司 "wikilink")
-[Category:加拿大電影製作公司](https://zh.wikipedia.org/wiki/Category:加拿大電影製作公司 "wikilink")
-[Category:加拿大色情片商](https://zh.wikipedia.org/wiki/Category:加拿大色情片商 "wikilink")
-[Category:情色與色情網站](https://zh.wikipedia.org/wiki/Category:情色與色情網站 "wikilink")
-[Category:2005年建立的网站](https://zh.wikipedia.org/wiki/Category:2005年建立的网站 "wikilink")
+Brazzers於2014年在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[時報廣場](../Page/時報廣場.md "wikilink")刊出了一個慶祝成立10週年的廣告牌\[7\]，同時宣導著[安全性行為](../Page/安全性行為.md "wikilink")<ref name=2010Billboard>{{cite
+web|last1=Javors|first1=Steve|title=Brazzers Unveils Massive New York
+City
+Billboard|url=[http://business.avn.com/articles/technology/Brazzers-Unveils-Massive-New-York-City-Billboard-415672.html|website](http://business.avn.com/articles/technology/Brazzers-Unveils-Massive-New-York-City-Billboard-415672.html%7Cwebsite)
 
 1.
 2.
@@ -30,5 +18,3 @@ Brazzers於2014年在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 5.
 6.
 7.
-8.
-9.

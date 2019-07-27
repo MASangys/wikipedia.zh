@@ -8,7 +8,7 @@ Experience](../Page/Samsung_Experience.md "wikilink")
 display，19.5:9比例，Galaxy A8s 採用[高通驍龍](../Page/高通驍龍.md "wikilink")
 710晶片，6GB
 [RAM](../Page/随机存取存储器.md "wikilink")，和128GB內部儲存空間，亦支援最高512GB的[Micro
-SD擴充](../Page/MicroSD.md "wikilink")。[电池](../Page/电池.md "wikilink")3700mAh，支援[USB
+SD擴充](../Page/MicroSD.md "wikilink")。[电池](../Page/电池.md "wikilink")3400mAh，支援[USB
 Type
 C快速充電](../Page/USB_Type-C.md "wikilink")。A8s取消了[3.5mm耳機孔](https://zh.wikipedia.org/wiki/3.5mm "wikilink")。同時也取消了[Always
 on

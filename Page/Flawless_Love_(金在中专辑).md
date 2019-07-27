@@ -1,5 +1,5 @@
 《**Flawless
-Love**》是韓國歌手[金在中在日本的第一張個人日語專輯](../Page/金在中.md "wikilink")。專輯於2019年4月10日正式發行。
+Love**》是韓國歌手[金在中](../Page/金在中.md "wikilink")在日本的第一張個人日語專輯。專輯於2019年4月10日正式發行。
 
 ## 概述
 
@@ -150,41 +150,4 @@ Love”意味著“完美的愛情”，是一張充滿愛情信息的專輯。�
         作詞：坂詰美紗子 / 作曲：坂詰美紗子 / 編曲：清水信之
 6.  DADADANCIN'
       -
-        作詞：阿久津健太郎 / 作曲：阿久津健太郎 / 編曲：佐久間誠
-7.  君だけになる前に
-      -
-        作詞：矢作綾加 / 作曲：DANNY KIRSCH / JOE KILLLINGTON / GEORGIE KELLER /
-        編曲：DANNY KIRSCH
-8.  LAVENDER
-      -
-        作詞：FAST LANE / 作曲：FAST LANE / MATS LIE SKARE / 編曲：MATS LIE SKARE
-9.  Sign
-      -
-        作詞：矢作綾加 / 作曲：YUMA / 編曲：YUMA
-10. Defiance
-      -
-        作詞：森若香織 / 作曲：成海カズト / 編曲：佐久間誠
-11. One
-      -
-        作詞：ans / 作曲：NINA OSSOFF / KATHY SOMMER / 編曲：KATHY SOMMER / MATT
-        ANTHONY and KYLE KELSO
-12. Good Morning Night
-      -
-        作詞：金在中 / 譯詞：SHIKATA / 作曲：金在中 / KIM TAE WAN / LEE OH WON
-13. Run Away
-      -
-        作詞：金在中 / 譯詞：Shoko / 作曲：金在中 / ATHALE NEIL / LEY JAMES EDEN
-14. 化粧　
-      -
-        作詞：中島みゆき / 作曲：中島みゆき
-15. 守ってあげる
-      -
-        作詞：金在中 / 譯詞：SHIKATA / 作曲：CHOI KYU SUNG
-
-## 参考资料
-
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
-[Category:金在中专辑](https://zh.wikipedia.org/wiki/Category:金在中专辑 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:2019年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:2019年Oricon專輯合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯合算週榜冠軍作品 "wikilink")
+        作詞：阿久津

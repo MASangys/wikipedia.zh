@@ -5,7 +5,7 @@ Junior成員](../Page/Super_Junior.md "wikilink")[金厲旭的第二張個人迷
 ## 發行與宣傳
 
 2018年11月27日，[Label
-SJ宣布](../Page/Label_SJ.md "wikilink")[厲旭將於](../Page/厲旭.md "wikilink")12月10日發行個人第二張迷你專輯《**Drunk
+SJ宣布](../Page/Label_SJ.md "wikilink")[厲旭](../Page/厲旭.md "wikilink")將於12月10日發行個人第二張迷你專輯《**Drunk
 on love**》\[1\]，並同時公開先行曲《One and Only》歌曲試聽；11月28日公開《One and
 Only》的Special
 Video\[2\]；12月4日，官方表示因行程問題，專輯將延後一天（12月11日）發行；12月6日公開主打曲《I'm
@@ -27,16 +27,12 @@ Good》，擁有印象深刻的機巧歌詞的《Sugar》及在軍隊的時候�
 
 ## 曲目
 
-## 參考資料
+{{tracklist | font_size = 90% | collapsed = | headline = |
+extra_column = 韓語曲名 | total_length = 27:03
 
-## 外部連結
+| music_credits = yes | lyrics_credits = yes | arranger_credits = yes
 
-  - – 韓國官方網站（[S.M. Entertainment](../Page/SM娛樂.md "wikilink")）
-
-  - – 韓國官方網站（[S.M. Entertainment](../Page/SM娛樂.md "wikilink")）
-
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
+|title1 = **I’m not over you** |not
 
 1.
 2.

@@ -32,7 +32,7 @@
   - [SWFObject](https://zh.wikipedia.org/wiki/SWFObject "wikilink")
   - [Teechart](https://zh.wikipedia.org/wiki/Teechart "wikilink")
   - [Three.js](../Page/Three.js.md "wikilink")
-  - [Velocity.js](../Page/Velocity.md "wikilink")
+  - [Velocity](../Page/Velocity.md "wikilink").js
   - [Verge3D](../Page/Verge3D.md "wikilink")
   - [WhitestormJS](https://zh.wikipedia.org/wiki/WhitestormJS "wikilink")
 

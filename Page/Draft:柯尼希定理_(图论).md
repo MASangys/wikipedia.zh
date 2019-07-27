@@ -1,9 +1,9 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Koenigs-theorem-graph.svg "fig:缩略图")的最大[匹配](../Page/匹配_\(图论\).md "wikilink")（蓝）和最小覆盖（红）的基数都等于6.\]\]
-在[图论中](../Page/图论.md "wikilink")，**柯尼希定理（英：Kőnig's Theorem）**，由提出：
+在[图论](../Page/图论.md "wikilink")中，**柯尼希定理（英：Kőnig's Theorem）**，由提出：
 
 > [二部图G中](https://zh.wikipedia.org/wiki/二部图 "wikilink")[最大匹配的基数等于最小](../Page/匹配_\(图论\).md "wikilink")[覆盖的基数](../Page/覆盖_\(图论\).md "wikilink")。\[1\]
 
-柯尼希定理相当于[赫尔婚姻定理和Dilworth定理](../Page/赫尔婚姻定理.md "wikilink")。既然二分图匹配就是[最大流的特烈](../Page/最大流问题.md "wikilink")，这定理也是[最大流量分割理的特烈](https://zh.wikipedia.org/wiki/最大流最小割定理 "wikilink")。
+柯尼希定理相当于[赫尔婚姻定理](../Page/赫尔婚姻定理.md "wikilink")和Dilworth定理。既然二分图匹配就是[最大流的特烈](../Page/最大流问题.md "wikilink")，这定理也是[最大流量分割理的特烈](https://zh.wikipedia.org/wiki/最大流最小割定理 "wikilink")。
 
 ## 证明
 
@@ -36,23 +36,10 @@
 
   - 中。
 
-  - 中。
+  - {{Citation|last=Kőnig|first=Dénes|author-link=Dénes
+    Kőnig|journal=Matematikai é
 
-  - 中。
-
-  - 中。
-
-  - 中。
-
-  - 中。
-
-[Category:包含证明的条目](https://zh.wikipedia.org/wiki/Category:包含证明的条目 "wikilink")
-[Category:图论](https://zh.wikipedia.org/wiki/Category:图论 "wikilink")
-[Category:匹配](https://zh.wikipedia.org/wiki/Category:匹配 "wikilink")
-[Category:二部图](https://zh.wikipedia.org/wiki/Category:二部图 "wikilink")
-[Category:二分图](https://zh.wikipedia.org/wiki/Category:二分图 "wikilink")
-[Category:图论定理](https://zh.wikipedia.org/wiki/Category:图论定理 "wikilink")
-[Category:完美图](https://zh.wikipedia.org/wiki/Category:完美图 "wikilink")
+<!-- end list -->
 
 1.
 

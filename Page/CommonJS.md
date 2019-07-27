@@ -1,13 +1,13 @@
-**CommonJS**是一个项目，其目标是为[JavaScript在](../Page/JavaScript.md "wikilink")[网页浏览器之外建立](../Page/网页浏览器.md "wikilink")[模块约定](../Page/子程序.md "wikilink")。创建这个项目的主要原因是当时缺乏普遍可接受形式的JavaScript脚本模块单元，模块在与运行JavaScript脚本的常规网页浏览器所提供的不同的环境下可以重复使用。
+**CommonJS**是一个项目，其目标是为[JavaScript](../Page/JavaScript.md "wikilink")在[网页浏览器](../Page/网页浏览器.md "wikilink")之外建立[模块约定](../Page/子程序.md "wikilink")。创建这个项目的主要原因是当时缺乏普遍可接受形式的JavaScript脚本模块单元，模块在与运行JavaScript脚本的常规网页浏览器所提供的不同的环境下可以重复使用。
 
 ## 历史
 
-这个项目由[Mozilla工程师Kevin](../Page/Mozilla.md "wikilink")
+这个项目由[Mozilla](../Page/Mozilla.md "wikilink")工程师Kevin
 Dangoor于2009年1月发起，最初名为**ServerJS**\[1\]。在2009年8月，这个项目被改名为“CommonJS”来展示其[API的广泛的应用性](https://zh.wikipedia.org/wiki/API "wikilink")\[2\]。有关规定在一个开放进程中被建立和认可，一个规定只有在已经被多个实现完成之后才被认为是最终的\[3\]。
-CommonJS不隶属于致力于[ECMAScript的](../Page/ECMAScript.md "wikilink")[Ecma国际的工作组](../Page/Ecma国际.md "wikilink")
+CommonJS不隶属于致力于[ECMAScript](../Page/ECMAScript.md "wikilink")的[Ecma国际](../Page/Ecma国际.md "wikilink")的工作组
 TC39，但是TC39的一些成员参与了这个项目\[4\]。
 
-在2013年5月，[Node.js包管理器](../Page/Node.js.md "wikilink")[npm的作者Isaac](https://zh.wikipedia.org/wiki/npm "wikilink")
+在2013年5月，[Node.js](../Page/Node.js.md "wikilink")包管理器[npm的作者Isaac](https://zh.wikipedia.org/wiki/npm "wikilink")
 Z. Schlueter，声称Node.js已经废弃了CommonJS，Node.js核心开发者应避免使用它\[5\]。
 
 ## 规定
@@ -59,21 +59,13 @@ require是一个函数，require函数接受一个模块标识符，require返�
 
 ## 实现
 
-## 参见
+{{columns-list|colwidth=22em|
 
-  - [服务器端JavaScript实现列表](https://zh.wikipedia.org/wiki/服务器端JavaScript实现列表 "wikilink")
-  - [文档对象模型](../Page/文档对象模型.md "wikilink")
-    (DOM)，[网页浏览器客户端](../Page/网页浏览器.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")
-    (API)，通常以JavaScript获得
-  - [JSGI](https://zh.wikipedia.org/wiki/JSGI "wikilink")
+  - Akshell\[9\]
+  - Common Node<ref>\[<https://olegp.github.com/common-node/>
+    olegp/common
 
-## 引用
-
-## 外部链接
-
-  -
-  -
-[Category:JavaScript](https://zh.wikipedia.org/wiki/Category:JavaScript "wikilink")
+<!-- end list -->
 
 1.  [What Server Side JavaScript needs - Blue Sky On
     Mars](http://www.blueskyonmars.com/2009/01/29/what-server-side-javascript-needs/)
@@ -87,3 +79,5 @@ require是一个函数，require函数接受一个模块标识符，require返�
 6.
 7.  [Modules/1.0](http://wiki.commonjs.org/wiki/Modules/1.0).
 8.  [Modules/1.1.1](http://wiki.commonjs.org/wiki/Modules/1.1.1).
+9.  [Server-side JavaScript development and hosting -
+    Akshell](http://www.akshell.com)

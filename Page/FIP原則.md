@@ -1,4 +1,4 @@
-**FIP原則**（）也稱為**公平資訊慣例**，是美國[聯邦貿易委員會有關](../Page/聯邦貿易委員會.md "wikilink")[電子商務中廣為接受的資訊慣例的指南](https://zh.wikipedia.org/wiki/電子商務 "wikilink")\[1\]
+**FIP原則**（）也稱為**公平資訊慣例**，是美國[聯邦貿易委員會](../Page/聯邦貿易委員會.md "wikilink")有關[電子商務中廣為接受的資訊慣例的指南](https://zh.wikipedia.org/wiki/電子商務 "wikilink")\[1\]
 
 ## 相關條目
 

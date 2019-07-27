@@ -46,19 +46,4 @@
 
 ## 參考資料
 
-許家齊 2019-03-27
-[均一教育平台獲Google.org挹注100萬美元](https://flipedu.parenting.com.tw/article/5293)
-陳映璇 2018-08-13
-[拋下高薪、高學歷，均一平台團隊用科技翻轉台灣教育](https://www.bnext.com.tw/article/50204/junyiacademy-use-technology-to-change-taiwan-education)
-
-[均一故事](https://official.junyiacademy.org/about/our-story/)^ 均一平台教育基金會
-呂冠緯 2019-04-01 [均一 2.0
-讓老師更省力地帶更多孩子](https://medium.com/@raylu/%E5%9D%87%E4%B8%80-2-0-%E8%AE%93%E8%80%81%E5%B8%AB%E6%9B%B4%E7%9C%81%E5%8A%9B%E5%9C%B0%E5%B8%B6%E6%9B%B4%E5%A4%9A%E5%AD%A9%E5%AD%90-a5897b963ae2?fbclid=IwAR3JWFpQvlqxwUkOEsM7MM1pCpM8V1Grfjsp94pCvQ1u2wtbyUBXE0yVZME)
-
-## 外部連結
-
-[均一平台教育基金會](https://official.junyiacademy.org/)
-
-[ShareClass](https://www.shareclass.org/)
-
-[均一平台教育基金會 FB](https://www.facebook.com/JunyiAcademy/)
+許家齊 2019-03-27 \[<https://flipedu.p>

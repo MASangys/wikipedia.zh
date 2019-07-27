@@ -6,11 +6,8 @@
 
 Roobee由联合创始人Artem Popov于2017年创立。\[9\]\[10\] 2018年8月2日，在种子轮融资期间，一位匿名投资者,
 被彭博标記为200M_trader，向Roobee投资了450万美元。\[11\]\[12\]
-在测试期间，Roobee已被超过5,000人用于向**<small>[以太坊](../Page/以太坊.md "wikilink")</small>**（ETH）投资超过1500万美元的资金，投机和区块链项目。\[13\]\[14\]
-
-## 參考鏈結
-
-[Category:金融公司](https://zh.wikipedia.org/wiki/Category:金融公司 "wikilink")
+在测试期间，Roobee已被超过5,000人用于向**<small>[以太坊](../Page/以太坊.md "wikilink")</small>**（ETH）投资超过1500万美元的资金，投机和区块链项目。<ref>{{cite
+news|ti
 
 1.
 2.
@@ -24,5 +21,3 @@ Roobee由联合创始人Artem Popov于2017年创立。\[9\]\[10\] 2018年8月2�
 10.
 11.
 12.
-13.
-14.

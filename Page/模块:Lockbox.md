@@ -118,9 +118,3 @@ function export.lock(frame)
 `           end`
 `           ret = ret .. table.concat(warnings, '\n') .. '\n\n'`
 `       end`
-`       return ret .. table.concat(transclusion_list, '\n')`
-`   end`
-
-end
-
-return export

@@ -1,4 +1,4 @@
-在 [图论中](../Page/图论.md "wikilink")，如果[连通图](../Page/连通图.md "wikilink")*G*
+在 [图论](../Page/图论.md "wikilink")中，如果[连通图](../Page/连通图.md "wikilink")*G*
 有多于k[顶点](https://zh.wikipedia.org/wiki/顶点 "wikilink")，并且只要移除少于k个顶点，它就保持连通，则G是***k*-顶点连通**的。
 
 最大的 k 是 G 的**顶点连通性**或简单地说**连通性**。

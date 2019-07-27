@@ -1,4 +1,4 @@
-**Delrina**是一家[加拿大软件公司](../Page/加拿大.md "wikilink")，成立于1988年，并在1995年被[美国软件公司](../Page/美国.md "wikilink")[赛门铁克收购](../Page/赛门铁克.md "wikilink")。公司的主要销售电子表格软件，包括[Perform和](https://zh.wikipedia.org/wiki/Perform "wikilink")[FormFlow](https://zh.wikipedia.org/wiki/FormFlow "wikilink")，但最出名的要数[WinFax软件包](https://zh.wikipedia.org/wiki/WinFax "wikilink")，可以让装有传真解调器的计算机把文件传输到外设的[传真机或者其他装有类似产品的计算机上](https://zh.wikipedia.org/wiki/傳真機 "wikilink")。
+**Delrina**是一家[加拿大](../Page/加拿大.md "wikilink")软件公司，成立于1988年，并在1995年被[美国](../Page/美国.md "wikilink")软件公司[赛门铁克](../Page/赛门铁克.md "wikilink")收购。公司的主要销售电子表格软件，包括[Perform和](https://zh.wikipedia.org/wiki/Perform "wikilink")[FormFlow](https://zh.wikipedia.org/wiki/FormFlow "wikilink")，但最出名的要数[WinFax软件包](https://zh.wikipedia.org/wiki/WinFax "wikilink")，可以让装有传真解调器的计算机把文件传输到外设的[传真机或者其他装有类似产品的计算机上](https://zh.wikipedia.org/wiki/傳真機 "wikilink")。
 
 ## 參考文獻
 

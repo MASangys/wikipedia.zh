@@ -1,8 +1,8 @@
-******是[新蛛亞目](../Page/新蛛亞目.md "wikilink")[蠅虎科之下一個](../Page/蠅虎科.md "wikilink")[蜘蛛的](../Page/蜘蛛.md "wikilink")[属](https://zh.wikipedia.org/wiki/属 "wikilink")。其物種部分舊屬[蟻蛛屬](https://zh.wikipedia.org/wiki/蟻蛛屬 "wikilink")。
+******是[新蛛亞目](../Page/新蛛亞目.md "wikilink")[蠅虎科](../Page/蠅虎科.md "wikilink")之下一個[蜘蛛](../Page/蜘蛛.md "wikilink")的[属](https://zh.wikipedia.org/wiki/属 "wikilink")。其物種部分舊屬[蟻蛛屬](https://zh.wikipedia.org/wiki/蟻蛛屬 "wikilink")。
 
 ## 分佈
 
-本屬物種分佈於[亚洲及](../Page/亚洲.md "wikilink")[非洲](../Page/非洲.md "wikilink")。
+本屬物種分佈於[亚洲](../Page/亚洲.md "wikilink")及[非洲](../Page/非洲.md "wikilink")。
 
 ## 物種
 

@@ -1,5 +1,5 @@
 《**Reality Co.
-Ltd**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[吳浩康的第](../Page/吳浩康.md "wikilink")7張個人音樂專輯，於2008年2月19日推出。
+Ltd**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[吳浩康](../Page/吳浩康.md "wikilink")的第7張個人音樂專輯，於2008年2月19日推出。
 
 ## 曲目列表
 

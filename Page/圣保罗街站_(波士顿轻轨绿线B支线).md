@@ -3,7 +3,7 @@
 ## 合并
 
 [Platform_wall_construction_for_new_BU_West_station,_December_2018.JPG](https://zh.wikipedia.org/wiki/File:Platform_wall_construction_for_new_BU_West_station,_December_2018.JPG "fig:Platform_wall_construction_for_new_BU_West_station,_December_2018.JPG")
-2014年10月，马萨诸塞湾交通局主持会议商讨将[波士顿大学](https://zh.wikipedia.org/wiki/波士顿大学 "wikilink")的波士顿大学西站、[圣保罗街站](../Page/圣保罗街站_\(波士顿轻轨绿线B支线\).md "wikilink")、[普莱森特街站和](../Page/普莱森特街站.md "wikilink")[巴布科克街站这四座非无障碍车站进行合并](../Page/巴布科克街站.md "wikilink")，变为两座无障碍车站。\[1\]
+2014年10月，马萨诸塞湾交通局主持会议商讨将[波士顿大学](https://zh.wikipedia.org/wiki/波士顿大学 "wikilink")的波士顿大学西站、[圣保罗街站](../Page/圣保罗街站_\(波士顿轻轨绿线B支线\).md "wikilink")、[普莱森特街站](../Page/普莱森特街站.md "wikilink")和[巴布科克街站](../Page/巴布科克街站.md "wikilink")这四座非无障碍车站进行合并，变为两座无障碍车站。\[1\]
 波士顿大学西站和圣保罗街站将合并，新的车站设在艾默里街和圣保罗街中间。\[2\]
 
 由于联邦大道路段施工工程延误，合并工作也被延迟。麻州交通部预计在2017年改换车站施工承包商。\[3\]
@@ -12,14 +12,9 @@
 
 ## 外部链接
 
-  - [MBTA - Saint Paul Street](https://mbta.com/stops/place-stplb)
-  - [Green Line B Branch
-    Consolidation](https://www.mbta.com/projects/green-line-b-branch-consolidation)
-  - [Station from Google Maps Street
-    View](https://www.google.com/maps/@42.3511198,-71.1158036,3a,90y,278.86h,94.9t/data=!3m6!1e1!3m4!1sXbyKyf3LNu6RJ8JrTDFsjQ!2e0!7i13312!8i6656)
+  - \[ht
 
-[Category:波士顿轻轨绿线车站](https://zh.wikipedia.org/wiki/Category:波士顿轻轨绿线车站 "wikilink")
-[Category:波士顿地铁车站](https://zh.wikipedia.org/wiki/Category:波士顿地铁车站 "wikilink")
+<!-- end list -->
 
 1.
 2.

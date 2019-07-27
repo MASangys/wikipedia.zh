@@ -1,4 +1,4 @@
-**Repl.it** 是提供在线[集成开发环境服务的公司](../Page/集成开发环境.md "wikilink")，由Amjad
+**Repl.it** 是提供在线[集成开发环境](../Page/集成开发环境.md "wikilink")服务的公司，由Amjad
 Masad与Hata Odeh于2016年共同创立\[1\]。
 
 2018年3月，Repl.it在其网站上推出1.0版，正式开始提供服务。\[2\]

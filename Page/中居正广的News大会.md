@@ -13,7 +13,7 @@ network = [朝日电视网](../Page/全日本新聞網.md "wikilink") | first_ai
 每周六12:00－13:00<small>（[日本标准时](https://zh.wikipedia.org/wiki/日本标准时 "wikilink")）</small>
 | website = <https://www.tv-asahi.co.jp/nakai_news/> }}
 
-**中居正广的News大会**（）是[日本一档计划从](../Page/日本.md "wikilink")2019年4月27日每周六12:00到13:00（[日本标准时](https://zh.wikipedia.org/wiki/日本标准时 "wikilink")）播出的生活资讯与[新闻节目](https://zh.wikipedia.org/wiki/新闻节目 "wikilink")。节目的制作方为[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")，播出机构为[朝日电视网](../Page/全日本新聞網.md "wikilink")。节目由[中居正广主持](https://zh.wikipedia.org/wiki/中居正广 "wikilink")，并且是他的。\[1\]\[2\]\[3\]
+**中居正广的News大会**（）是[日本](../Page/日本.md "wikilink")一档计划从2019年4月27日每周六12:00到13:00（[日本标准时](https://zh.wikipedia.org/wiki/日本标准时 "wikilink")）播出的生活资讯与[新闻节目](https://zh.wikipedia.org/wiki/新闻节目 "wikilink")。节目的制作方为[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")，播出机构为[朝日电视网](../Page/全日本新聞網.md "wikilink")。节目由[中居正广主持](https://zh.wikipedia.org/wiki/中居正广 "wikilink")，并且是他的。\[1\]\[2\]\[3\]
 
 ## 节目简介
 
@@ -104,17 +104,7 @@ network = [朝日电视网](../Page/全日本新聞網.md "wikilink") | first_ai
 </tbody>
 </table>
 
-## 相关条目
-
-  -
-## 参考资料
-
-## 外部链接
-
-  -
-[Category:中居正广所主持电视节目](https://zh.wikipedia.org/wiki/Category:中居正广所主持电视节目 "wikilink")
-[Category:2019年日本電視節目](https://zh.wikipedia.org/wiki/Category:2019年日本電視節目 "wikilink")
-[Category:朝日電視台新聞節目](https://zh.wikipedia.org/wiki/Category:朝日電視台新聞節目 "wikilink")
+\== 相关条目 =
 
 1.
 2.

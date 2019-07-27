@@ -3,7 +3,7 @@ Music**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音
 
 ## 背景及回歸日程
 
-2018年8月16日，經紀公司[Woollim娛樂在官咖中宣布Lovelyz即将在](../Page/Woollim娛樂.md "wikilink")9月10日发行樂器伴奏專輯，以感谢粉丝一路以来的支持，而此次未进行任何宣传活动。
+2018年8月16日，經紀公司[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")在官咖中宣布Lovelyz即将在9月10日发行樂器伴奏專輯，以感谢粉丝一路以来的支持，而此次未进行任何宣传活动。
 
 8月19日，释出专辑预览图。
 
@@ -21,45 +21,10 @@ Music**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音
 
 ## 曲目
 
-## 相关视频
-
-| 年份   | 發佈日期  | 版本                                                                                                 |
-| ---- | ----- | -------------------------------------------------------------------------------------------------- |
-| 2018 | 9月10日 | [Lovelyz Instrumental Album 《Muse on Music》 Unboxing](https://www.youtube.com/watch?v=NtLNPueUdGk) |
-|      |       |                                                                                                    |
-
-## 成績
-
-### 榜單成績
-
-| 地區  | 榜單                                                           | 類型      | 停留時間 | 最高位置            | 銷量    | 參考資料 |
-| --- | ------------------------------------------------------------ | ------- | ---- | --------------- | ----- | ---- |
-| 韓國  | [Gaon榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") | 专辑榜     | 週榜   | 2018年9月9日－9月15日 | \#9   |      |
-| 專輯榜 | 月榜                                                           | 2018年9月 | \#24 | 6,714           | \[4\] |      |
-|     |                                                              |         |      |                 |       |      |
-
-## 發行歷史
-
-|  |
-|  |
-|  |
-|  |
-|  |
-
-## 銷售及認證
-
-| 排行榜        | 銷量     |
-| ---------- | ------ |
-| Gaon Chart | 2018   |
-| 總共         | 6,714+ |
-
-## 參考資料
-
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink")
-[Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink")
+{{Track listing | full_width = yes | collapsed = no | headline =
+DAY（白天）版本 | total_length = 36:38 | music_credits = yes |
+arranger_credits = y
 
 1.
 2.
 3.
-4.

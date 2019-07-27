@@ -1,4 +1,4 @@
-**YAHOO搜尋人氣大獎2018**（）是[YAHOO\!搜尋人氣大獎的第](../Page/YAHOO!搜尋人氣大獎.md "wikilink")14屆，於2018年12月12日晚上8時在[香港](../Page/香港.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行頒獎典禮](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")\[1\]。頒獎典禮的精華版在[加拿大的](../Page/加拿大.md "wikilink")[加拿大中文電台和](../Page/加拿大中文電台.md "wikilink")[新時代電視播放](../Page/新時代電視.md "wikilink")。今屆有4個獎項（人氣票王、人氣票-{后}-、人氣票選組合、亞洲人氣票王/票-{后}-/票選組合）由網民投票選出\[2\]。
+**YAHOO搜尋人氣大獎2018**（）是[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")的第14屆，於2018年12月12日晚上8時在[香港](../Page/香港.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行頒獎典禮](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")\[1\]。頒獎典禮的精華版在[加拿大](../Page/加拿大.md "wikilink")的[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")和[新時代電視](../Page/新時代電視.md "wikilink")播放。今屆有4個獎項（人氣票王、人氣票-{后}-、人氣票選組合、亞洲人氣票王/票-{后}-/票選組合）由網民投票選出\[2\]。
 
 ## 得獎名單
 
@@ -85,44 +85,9 @@
       - [林淑敏](../Page/林淑敏.md "wikilink")
   - 電視男藝人
       - [陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")
-  - 電視女藝人
-      - [李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")
+  - 電視女
 
-### 亞洲區獎項
-
-  - 年度熱搜韓國新演員
-      - [車銀優](../Page/車銀優.md "wikilink")
-  - 亞洲人氣演員
-      - [古天樂](../Page/古天樂.md "wikilink")
-  - 亞洲人氣票王
-      - [華晨宇](https://zh.wikipedia.org/wiki/華晨宇 "wikilink")
-
-### 票選獎項
-
-  - 人氣票王
-      - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
-  - 人氣票-{后}-
-      - [余詩曼](https://zh.wikipedia.org/wiki/余詩曼 "wikilink")
-  - 人氣票選組合
-      - [Boy'z](../Page/Boy'z.md "wikilink")
-
-### 至尊獎項
-
-  - 圖片搜尋次數最多的香港男藝人
-      - [姜濤](../Page/姜濤.md "wikilink")
-  - 圖片搜尋次數最多的香港女藝人
-      - [馮盈盈](../Page/馮盈盈.md "wikilink")
-  - 最具號召力香港男藝人
-      - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
-  - 最具號召力香港女藝人
-      - [周勵淇](../Page/周勵淇.md "wikilink")
-  - 熱搜藝人
-      - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
-
-## 參考資料
-
-[Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink")
-[Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
+<!-- end list -->
 
 1.
 2.

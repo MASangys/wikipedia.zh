@@ -3,7 +3,7 @@
 MRTT的衍生型\]\]
 
 **空中客车A330
-MRTT**（）是基于民用版[空中客车A330的](../Page/空中客车A330.md "wikilink")[空中加油机](../Page/空中加油.md "wikilink")。改款飞机订购方包括[澳大利亚皇家空军](https://zh.wikipedia.org/wiki/澳大利亚皇家空军 "wikilink")、[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")、[沙特阿拉伯皇家空军](../Page/沙特阿拉伯皇家空军.md "wikilink")、[法国空军](../Page/法国空军.md "wikilink")、、[新加坡共和国空军](../Page/新加坡共和国空军.md "wikilink")。\[1\]
+MRTT**（）是基于民用版[空中客车A330](../Page/空中客车A330.md "wikilink")的[空中加油](../Page/空中加油.md "wikilink")机。改款飞机订购方包括[澳大利亚皇家空军](https://zh.wikipedia.org/wiki/澳大利亚皇家空军 "wikilink")、[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")、[沙特阿拉伯皇家空军](../Page/沙特阿拉伯皇家空军.md "wikilink")、[法国空军](../Page/法国空军.md "wikilink")、、[新加坡共和国空军](../Page/新加坡共和国空军.md "wikilink")。\[1\]
 MRTT型空客A330是基于A300-200系列飞机研制的。在AirTanker集团竞标英国的”未来战略加油机（FATA）”计划过程中，A330-200飞机于2004年1月被选中，但截至2007年1月尚未签订任何正式合同，原因在于发杂的私人融资倡议合同谈判。最初服役时间是2008年，但现在仍无定论。
 
 澳大利亚与2004年4月选中A330，并于同年12月签定购买合同，交付时间预计在2009年-2011年间，以取代逐渐高龄的[波音707](../Page/波音707.md "wikilink")。

@@ -1,4 +1,4 @@
-（），[日本女性](../Page/日本.md "wikilink")\[1\][漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。[香川縣出身](https://zh.wikipedia.org/wiki/香川縣 "wikilink")。代表作為《[烏菈菈迷路帖](../Page/烏菈菈迷路帖.md "wikilink")》。
+（），[日本](../Page/日本.md "wikilink")女性\[1\][漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。[香川縣出身](https://zh.wikipedia.org/wiki/香川縣 "wikilink")。代表作為《[烏菈菈迷路帖](../Page/烏菈菈迷路帖.md "wikilink")》。
 
 ## 經歷
 

@@ -15,8 +15,4 @@ libraries）的核心價值，也是他們最重要的資產。二字結合傳�
 
 ## 外部鏈接
 
-  - [PDF —— HathiTrust数字图书馆:
-    发展简介和远景展望](http://www.nlc.cn/newgjgx/wxgxhyzxdt/201211/W020130107498796530364.pdf)
-
-[Category:美國圖書館](https://zh.wikipedia.org/wiki/Category:美國圖書館 "wikilink")
-[Category:数字图书馆](https://zh.wikipedia.org/wiki/Category:数字图书馆 "wikilink")
+  - \[<http://www.nlc.cn/newgjgx/wxgxhyzxdt/201211/W020130107498796530364.pdf>

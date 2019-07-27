@@ -1,6 +1,6 @@
-**匿獅Lion**是[香港特區政府](https://zh.wikipedia.org/wiki/香港特區政府 "wikilink")[衞生署為](../Page/衞生署_\(香港\).md "wikilink")2018開展的「健康香港2025｜郁一郁．健康啲」宣傳運動而設計的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。他於2018年10月22日開設[Facebook專頁和](../Page/Facebook.md "wikilink")[Instagram](../Page/Instagram.md "wikilink")，從此亦以此日為「匿獅Lion生日」。
+**匿獅Lion**是[香港特區政府](https://zh.wikipedia.org/wiki/香港特區政府 "wikilink")[衞生署為](../Page/衞生署_\(香港\).md "wikilink")2018開展的「健康香港2025｜郁一郁．健康啲」宣傳運動而設計的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。他於2018年10月22日開設[Facebook](../Page/Facebook.md "wikilink")專頁和[Instagram](../Page/Instagram.md "wikilink")，從此亦以此日為「匿獅Lion生日」。
 
-匿獅Lion於2018年12月8日的「健康香港2025｜郁一郁．健康啲」啟動禮隆重登場，並於同日在大氣電波中首次亮相。在半分鐘的電視宣傳廣告內，匿獅Lion反映香港人的生活習慣，例如一回家即躺在[沙發上](../Page/沙發.md "wikilink")、玩[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")、乘搭[電梯不走](https://zh.wikipedia.org/wiki/電梯 "wikilink")[樓梯](https://zh.wikipedia.org/wiki/樓梯 "wikilink")，直接道出港人缺乏體能活動的情況。
+匿獅Lion於2018年12月8日的「健康香港2025｜郁一郁．健康啲」啟動禮隆重登場，並於同日在大氣電波中首次亮相。在半分鐘的電視宣傳廣告內，匿獅Lion反映香港人的生活習慣，例如一回家即躺在[沙發](../Page/沙發.md "wikilink")上、玩[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")、乘搭[電梯不走](https://zh.wikipedia.org/wiki/電梯 "wikilink")[樓梯](https://zh.wikipedia.org/wiki/樓梯 "wikilink")，直接道出港人缺乏體能活動的情況。
 
 ## 背景
 
@@ -49,11 +49,4 @@
 
   - [匿獅Lion Facebook專頁](https://www.facebook.com/lazylionhk/)
   - [匿獅Lion Instagram](https://www.instagram.com/lazylionhk/)
-  - [邁向2025｜香港非傳染病防控策略及行動計劃](https://www.change4health.gov.hk/tc/saptowards2025/)
-
-## 參考資料
-
-  - [邁向2025｜香港非傳染病防控策略及行動計劃](https://www.change4health.gov.hk/tc/saptowards2025/)
-  - [匿獅Lion小檔案](https://www.change4health.gov.hk/tc/saptowards2025/news/lazylioncprofile.html)
-
-[分类:吉祥物](https://zh.wikipedia.org/wiki/分类:吉祥物 "wikilink")
+  - \[<https://www.change4health.gov.hk/tc/sap>

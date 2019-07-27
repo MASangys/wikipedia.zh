@@ -1,4 +1,4 @@
-《**佐菲奥特曼剧场版：奥特战士VS大怪兽军团**》是[日本](../Page/日本.md "wikilink")[圓谷制作株式會社](../Page/圓谷製作.md "wikilink")[1984年製作的一部](../Page/1984年.md "wikilink")[奧特曼總集編](../Page/超人力霸王.md "wikilink")[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
+《**佐菲奥特曼剧场版：奥特战士VS大怪兽军团**》是[日本](../Page/日本.md "wikilink")[圓谷制作株式會社](../Page/圓谷製作.md "wikilink")[1984年](../Page/1984年.md "wikilink")製作的一部[奧特曼總集編](../Page/超人力霸王.md "wikilink")[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
 [Category:特攝跨界作品](https://zh.wikipedia.org/wiki/Category:特攝跨界作品 "wikilink")
 [Category:超人力霸王系列電影作品](https://zh.wikipedia.org/wiki/Category:超人力霸王系列電影作品 "wikilink")

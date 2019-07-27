@@ -1,4 +1,4 @@
-OGAS（，，全国自动化系统）是一项[苏联的全国性网络工程](../Page/苏联.md "wikilink")。项目开始于1962年，在1970年被认定没有继续资助的必要。苏联为了建立类似互联网的全国性网络，做出了一系列尝试，OGAS是其中之一，但这些项目最终均遭失败。
+OGAS（，，全国自动化系统）是一项[苏联](../Page/苏联.md "wikilink")的全国性网络工程。项目开始于1962年，在1970年被认定没有继续资助的必要。苏联为了建立类似互联网的全国性网络，做出了一系列尝试，OGAS是其中之一，但这些项目最终均遭失败。
 
 OGAS的主要设计师是[格卢什科夫](../Page/维克托·米哈伊洛维奇·格卢什科夫.md "wikilink")。早在1959年，基托夫（Anatolii
 Kitov）就已经提出了用于改善经济计划制定的全国计算机网络，经济自动化管理系统（Economic Automated Management
@@ -19,4 +19,6 @@ Fedorenko）在1964年提出用于经济计划制定的信息网络SOFE，这一
 
 [Category:苏联经济](https://zh.wikipedia.org/wiki/Category:苏联经济 "wikilink")
 [Category:控制论](https://zh.wikipedia.org/wiki/Category:控制论 "wikilink")
-[Category:互联网历史](https://zh.wikipedia.org/wiki/Category:互联网历史 "wikilink")
+[Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
+[Category:苏联科技](https://zh.wikipedia.org/wiki/Category:苏联科技 "wikilink")
+[Category:电脑网络](https://zh.wikipedia.org/wiki/Category:电脑网络 "wikilink")

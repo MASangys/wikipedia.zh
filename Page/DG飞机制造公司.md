@@ -1,4 +1,4 @@
-[布鲁赫萨尔的](../Page/布鲁赫萨尔.md "wikilink")**DG飞机制造有限责任公司**及其前身自1973年以来一直参与[飞机特别是](https://zh.wikipedia.org/wiki/固定翼飛機 "wikilink")[滑翔机的制造和销售](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")。
+[布鲁赫萨尔](../Page/布鲁赫萨尔.md "wikilink")的**DG飞机制造有限责任公司**及其前身自1973年以来一直参与[飞机特别是](https://zh.wikipedia.org/wiki/固定翼飛機 "wikilink")[滑翔机的制造和销售](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")。
 该公司起源于[Glaser-Dirks飞机制造有限责任公司](https://zh.wikipedia.org/wiki/Glaser-Dirks飞机制造公司 "wikilink")，由[格哈特·格拉泽尔和](https://zh.wikipedia.org/wiki/格哈特·格拉泽尔 "wikilink")[威廉·迪尔克斯创立](https://zh.wikipedia.org/wiki/威廉·迪尔克斯 "wikilink")。
 公司所在地是布鲁赫萨尔。 现任董事总经理卡尔·弗雷德里希·韦伯和霍尔格·巴克。
 该公司[股份由卡尔](https://zh.wikipedia.org/wiki/股份 "wikilink")·弗雷德里希·韦伯和埃娃玛丽·韦伯持有。
@@ -41,7 +41,7 @@ DG-500和DG-1000以及[18米级的DG](../Page/滑翔竞赛分级.md "wikilink")-
 同年，新开发的DG-1000S首飞，随后于2004年推出带助推发动机型号。 2010年4月，首次推出双座DG-1001M自主起飞型号。
 
 2003年，DG 飞机制造公司接管了陷入财务困境的[Rolladen
-Schneider飞机制造公司](https://zh.wikipedia.org/wiki/Rolladen_Schneider飞机制造公司 "wikilink")，并关闭了其在[埃格尔斯巴赫的工厂](../Page/埃格尔斯巴赫.md "wikilink")。
+Schneider飞机制造公司](https://zh.wikipedia.org/wiki/Rolladen_Schneider飞机制造公司 "wikilink")，并关闭了其在[埃格尔斯巴赫](../Page/埃格尔斯巴赫.md "wikilink")的工厂。
 不久，Rolladen Schneider破产。 此后DG
 飞机制造公司继续生产非常成功的[标准级滑翔机](../Page/滑翔竞赛分级.md "wikilink")
 LS8 ，并对其进一步开发。 同时继续研发LS系列的最后型号LS10，并投入量产。 此外，DG飞机制造公司还获得了已停产的LS1 ，
@@ -49,43 +49,6 @@ LS3和LS9型的后续支持服务业务。 LS4和LS6及其生产设备被斯洛�
 然而，AMS公司在2009年放弃滑翔机生产之前，只制造了少量LS4，而LS6更是一架都没生产。
 这两种型号的售后支持服务最终再次由DG接管。 同时，两家公司之间延续26年的合作也告结束。
 
-2009年冬天，卡尔·弗雷德里希·韦伯宣布，为了延续老式DG和LS滑翔机的售后支持服务，机主必须同意与DG飞机制造公司签订收费的保养*合同*
-，因为之前的售后服务是亏本的。 由于要增加费用，这个行动遭到了航空运动员和俱乐部的抵制。
-
-### 公司的未来
-
-2003年，卡尔·弗雷德里希·韦伯成立了**DG-塑料技术有限责任公司**，旨在将其在飞机制造领域的技术应用于其他工业领域。
-这个新业务领域的众多项目为公司的销售做出了重大贡献。
-同时，与飞机行业结合，塑料技术确保DG飞机未来的生存能力。
-
-复合材料和工程领域的产品包括：
-
-  - 风力涡轮机
-  - 轮船螺旋桨
-  - Medwalls（空中救护和直升机的医疗设备运输工具）
-  - 高精度电动机护套
-  - 墙面材料
-  - Volocopter的复合材料零件\[2\]
-
-自2014年初该公司拥有了[数控铣床](../Page/数控机床.md "wikilink") ，以便能够降低原形设计模型加工成本。
-
-## 链接
-
-  - [www.dg-flugzeugbau.de](http://www.dg-flugzeugbau.de/) - 官方制造商DG
-    Flugzeugbau
-  - Gerhard Marzinzik： [两个品牌 -
-    一个制造商](https://web.archive.org/web/20110823021612/http://www.dg-flugzeugbau.de/zwei-marken-d.html)
-    ，Aerokurier 9/2006
-
-## 参考
-
-<references />
-
-[Category:1973年建立](https://zh.wikipedia.org/wiki/Category:1973年建立 "wikilink")
-[Category:飞机制造商](https://zh.wikipedia.org/wiki/Category:飞机制造商 "wikilink")
-[Category:滑翔机制造商](https://zh.wikipedia.org/wiki/Category:滑翔机制造商 "wikilink")
-[Category:德国公司](https://zh.wikipedia.org/wiki/Category:德国公司 "wikilink")
-[Category:德國飛機製造商](https://zh.wikipedia.org/wiki/Category:德國飛機製造商 "wikilink")
+2009年冬天，卡尔·弗雷德里希·韦伯宣布，为了延续老式DG和LS滑翔机的售后支持服务，机主必须同意与DG飞机制造公司签订收费的保养''
 
 1.
-2.  <http://www.dg-flugzeugbau.de/index.php?id=volocopter.html>

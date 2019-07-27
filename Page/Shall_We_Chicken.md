@@ -1,5 +1,5 @@
 《**Shall We
-Chicken**》（），為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出的綜藝節目\[1\]，由、[李奎翰](../Page/李奎翰.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人\[2\]共同主持，節目主軸為以雞肉為食材，尋找創新美味做法並製作新的雞肉料理的綜藝節目\[3\]\[4\]。
+Chicken**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，由、[李奎翰](../Page/李奎翰.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人\[2\]共同主持，節目主軸為以雞肉為食材，尋找創新美味做法並製作新的雞肉料理的綜藝節目\[3\]\[4\]。
 
 ## 各集內容
 
@@ -38,9 +38,54 @@ Chicken**》（），為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2019/5/12</p></td>
-<td><p>%</p></td>
+<td><p>0.3%</p></td>
 </tr>
 <tr class="even">
+<td><p>2</p></td>
+<td><p>2019/5/19</p></td>
+<td><p>0.4%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2019/5/26</p></td>
+<td><p>0.3%</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2019/6/2</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2019/6/9</p></td>
+<td><p>0.2%</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2019/6/16</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>2019/6/23</p></td>
+<td><p>0.3%</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2019/6/30</p></td>
+<td><p>0.2%</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2019/7/7</p></td>
+<td><p>0.3%</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2019/7/14</p></td>
+<td><p>0.3%</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -48,19 +93,7 @@ Chicken**》（），為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019
 </tbody>
 </table>
 
-## 註釋與參考資料
-
-### 註釋
-
-### 參考資料
-
-## 外部連結
-
-  - \[ 官方網站\]
-
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+\== 註釋與參考資料 =
 
 1.
 2.

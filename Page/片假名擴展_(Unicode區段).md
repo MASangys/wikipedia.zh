@@ -1,4 +1,4 @@
-**片假名擴展**\[1\]是位於基本多文種平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，內有[阿伊努語使用到的](../Page/阿伊努語.md "wikilink")[片假名](https://zh.wikipedia.org/wiki/阿伊努片假名 "wikilink")。
+**片假名擴展**\[1\]是位於基本多文種平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，內有[阿伊努語](../Page/阿伊努語.md "wikilink")使用到的[片假名](https://zh.wikipedia.org/wiki/阿伊努片假名 "wikilink")。
 
 ## 历史
 

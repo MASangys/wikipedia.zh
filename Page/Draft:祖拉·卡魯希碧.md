@@ -48,30 +48,7 @@ would unleash evil spirits and the wrath of God upon
 themselves.\[13\]\[14\] She emphasised her warnings by jangling her
 bracelet-laden arms and threatening that if any refugees were killed
 inside her house then the murderers would be "digging their own
-graves".\[15\] The militia attempted to bribe Karuhimbi to allow them
-access to her home but she refused.\[16\] All those that sheltered with
-Karuhimbi survived the genocide.\[17\]
-
-## 晚期生活
-
-[Campaign_Medal_Against_Genocide_(Rwanda)_-_ribbon_bar.png](https://zh.wikipedia.org/wiki/File:Campaign_Medal_Against_Genocide_\(Rwanda\)_-_ribbon_bar.png "fig:Campaign_Medal_Against_Genocide_(Rwanda)_-_ribbon_bar.png")
-在大屠殺之後，卡魯希碧聲明她是一名基督徒，她的巫術活動只不過是一種阻擋攻擊的手段。 In 2006 she was awarded
-Rwanda's [Campaign Against Genocide
-Medal](https://zh.wikipedia.org/wiki/Campaign_Against_Genocide_Medal "wikilink")
-by President Paul Kagame. Karuhimbi subsequently wore the medal at all
-times, placing it beneath her pillow whilst she slept. In her later
-years she continued to live in the same house she had used to shelter
-refugees despite it crumbling with age. Poverty-stricken, she was cared
-for by a niece. Karuhimbi died at her home on 17 December 2018.\[18\]
-
-## 參考文獻
-
-[Category:1920s_births](https://zh.wikipedia.org/wiki/Category:1920s_births "wikilink")
-[Category:2018_deaths](https://zh.wikipedia.org/wiki/Category:2018_deaths "wikilink")
-[Category:Healers](https://zh.wikipedia.org/wiki/Category:Healers "wikilink")
-[Category:People_from_Ruhango_District](https://zh.wikipedia.org/wiki/Category:People_from_Ruhango_District "wikilink")
-[Category:People_of_the_Rwandan_genocide](https://zh.wikipedia.org/wiki/Category:People_of_the_Rwandan_genocide "wikilink")
-[Category:Rwandan_women](https://zh.wikipedia.org/wiki/Category:Rwandan_women "wikilink")
+graves".\[15\] The militia attempted to br
 
 1.
 2.
@@ -91,6 +68,3 @@ for by a niece. Karuhimbi died at her home on 17 December 2018.\[18\]
 13.
 14.
 15.
-16.
-17.
-18.

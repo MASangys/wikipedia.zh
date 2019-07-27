@@ -2,7 +2,7 @@
 
 ## 歷史
 
-Pinkfong於2010年6月在其首爾總部成立，專屬YouTube頻道於2011年12月13日推出\[5\]，以狐狸作為形象是受[安托万·德圣埃克絮佩里的著名童書](../Page/安托万·德圣埃克絮佩里.md "wikilink")《[小王子](../Page/小王子.md "wikilink")》所啟發\[6\]。目前Pinkfong在[首爾](../Page/首爾.md "wikilink")、[上海和](https://zh.wikipedia.org/wiki/上海 "wikilink")[洛杉磯皆有辦公室](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，擁有超過200名員工。
+Pinkfong於2010年6月在其首爾總部成立，專屬YouTube頻道於2011年12月13日推出\[5\]，以狐狸作為形象是受[安托万·德圣埃克絮佩里](../Page/安托万·德圣埃克絮佩里.md "wikilink")的著名童書《[小王子](../Page/小王子.md "wikilink")》所啟發\[6\]。目前Pinkfong在[首爾](../Page/首爾.md "wikilink")、[上海和](https://zh.wikipedia.org/wiki/上海 "wikilink")[洛杉磯皆有辦公室](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，擁有超過200名員工。
 
 ## “Baby Shark”
 

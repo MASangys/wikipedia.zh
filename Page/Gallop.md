@@ -6,9 +6,9 @@ Gallop通常圍繞這個結構形成：
 `B- o-ooo-ooo-ooo-oo|`
 
 這種節奏模式可能使用於手掌[強力和弦悶音](https://zh.wikipedia.org/wiki/強力和弦 "wikilink")，作節奏吉他[伴奏的](https://zh.wikipedia.org/wiki/伴奏 "wikilink")[固定音型](https://zh.wikipedia.org/wiki/固定音型 "wikilink")(\[1\]），\[2\]\[3\]
-。這可以在不同作品聽到。例如[深紫的](../Page/深紫.md "wikilink")“ Highway Star ”的前奏，\[4\]
-以及他們的“ Hard Lovin'Man ”，[萬聖節樂團的](../Page/萬聖節樂團.md "wikilink")“
-Halloween ”，以及[黑色安息日的](../Page/黑色安息日.md "wikilink") "Children of the
+。這可以在不同作品聽到。例如[深紫](../Page/深紫.md "wikilink")的“ Highway Star ”的前奏，\[4\]
+以及他們的“ Hard Lovin'Man ”，[萬聖節樂團](../Page/萬聖節樂團.md "wikilink")的“
+Halloween ”，以及[黑色安息日](../Page/黑色安息日.md "wikilink")的 "Children of the
 Grave" 和 "Air Dance"，\[5\]
 也是[Metallica的](https://zh.wikipedia.org/wiki/Metallica "wikilink")"
 Motorbreath "，" Battery "，" Hardwired "，更著名的是"The Four

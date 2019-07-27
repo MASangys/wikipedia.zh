@@ -1,4 +1,4 @@
-《**快盜戰隊魯邦連者VS警察戰隊巡邏連者VS宇宙戰隊九連者**》（），是即將推出的跨界V-Cinema版本，其中包括快盜戰隊魯邦連者VS警察戰隊巡邏連者和宇宙戰隊九連者的演員陣容。它將於2019年5月3日在日本影院上映，並於2019年8月21日在DVD和Blu-ray上發行。
+《**魯邦連者VS巡邏連者VS九連者**》（），是即將推出的跨界V-Cinext版本，其中包括快盜戰隊魯邦連者VS警察戰隊巡邏連者和宇宙戰隊九連者的演員陣容。它將於2019年5月3日在日本影院上映，並於2019年8月21日在DVD和Blu-ray上發行。
 
 ## 故事
 
@@ -50,13 +50,4 @@ Matter的隱藏寶藏，讓Don Armage成為他宇宙的統治者。
   - 蕭・龍波 / 天龍司令 - [神谷浩史](../Page/神谷浩史.md "wikilink")
   - 最佳前鋒（Gooty） - [三矢雄二](../Page/三矢雄二.md "wikilink")
   - Jim Carter - [釘宮理惠](../Page/釘宮理惠.md "wikilink")
-  - Don・Armage - [谷昌樹](https://zh.wikipedia.org/wiki/谷昌樹 "wikilink")
-
-## 註釋
-
-## 外部連結
-
-[ja:ルパンレンジャーVSパトレンジャーVSキュウレンジャー](https://zh.wikipedia.org/wiki/ja:ルパンレンジャーVSパトレンジャーVSキュウレンジャー "wikilink")
-
-[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
+  - Don・Armage - \[\[谷昌

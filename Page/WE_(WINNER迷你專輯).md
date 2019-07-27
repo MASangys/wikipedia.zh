@@ -1,4 +1,4 @@
-《**WE**》是韓國四人男子團體[WINNER時隔](../Page/WINNER.md "wikilink")5個月的新作品。\[1\]
+《**WE**》是韓國四人男子團體[WINNER](../Page/WINNER.md "wikilink")時隔5個月的新作品。\[1\]
 
 ## 曲目
 

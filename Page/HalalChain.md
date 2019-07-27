@@ -1,4 +1,4 @@
-**HalalChain（缩写：HLC）**是一条专注服务[穆斯林国家及地区的公有链](../Page/穆斯林.md "wikilink")，应用于[伊斯兰金融产品及服务](https://zh.wikipedia.org/wiki/伊斯兰金融产品 "wikilink")、清真产品溯源、[天课捐赠](https://zh.wikipedia.org/wiki/天课 "wikilink")、产权与遗产登记、文化教育等领域。基于新型分布式账本DAG（[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")）为底层技术，试图在保证安全性和去中心化的前提下实现高频并发交易（未完成）。DAG技术与应用场景相结合，以构建一个跨穆斯林国家的多层支付系统（未完成）\[1\]。
+**HalalChain（缩写：HLC）**是一条专注服务[穆斯林](../Page/穆斯林.md "wikilink")国家及地区的公有链，应用于[伊斯兰金融产品及服务](https://zh.wikipedia.org/wiki/伊斯兰金融产品 "wikilink")、清真产品溯源、[天课捐赠](https://zh.wikipedia.org/wiki/天课 "wikilink")、产权与遗产登记、文化教育等领域。基于新型分布式账本DAG（[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")）为底层技术，试图在保证安全性和去中心化的前提下实现高频并发交易（未完成）。DAG技术与应用场景相结合，以构建一个跨穆斯林国家的多层支付系统（未完成）\[1\]。
 
 ## 项目背景
 
@@ -21,11 +21,9 @@ HalalChain的代币称为HLC，代码为HLC，可在许多加密货币的外汇�
 
 ## 参考文献
 
-\[5\] \[6\] \[7\] \[8\] \[9\] \[10\] \[11\] \[12\] \[13\] \[14\]
-
-## 外部連結
-
-[官方网站](https://hlc.com/)
+\[5\] \[6\] \[7\] \[8\] \[9\] \[10\] \[11\] <ref>{{cite news
+|title=HalalChain Might Help in Your Quest For Authentic Halal Food
+|url=<https://blockpublisher.com/halalchain-migh>
 
 [Category:支付系统](https://zh.wikipedia.org/wiki/Category:支付系统 "wikilink")
 
@@ -40,6 +38,3 @@ HalalChain的代币称为HLC，代码为HLC，可在许多加密货币的外汇�
 9.
 10.
 11.
-12.
-13.
-14.

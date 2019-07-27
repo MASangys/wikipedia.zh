@@ -53,81 +53,10 @@ River和Probelatte。
 
 ## 最後一年
 
-隨著1876年楚格尼尼的死亡, Fanny聲稱自己是 "最後一個 塔斯馬尼亞".塔斯馬尼亞殖民地的政府 認可這個聲稱在1889 然後授予她
-的土地 和增加她年金 £50. 她變成一個 [Methodist](../Page/循道宗.md "wikilink")
-然後給他一快地需要建造一個 Methodist教堂 在1901年打開的 Nicholls Rivulet。\[4\]
-
-在1905年2月24號Cochrane Smith 死於 [pneumonia](../Page/肺炎.md "wikilink") 和
-[pleurisy](https://zh.wikipedia.org/wiki/胸膜炎 "wikilink") 在 ,  .
-那裡有一些爭議在死亡無論她或楚格尼尼是最後一個塔斯馬尼亞原住民.
-但是官方藉由政府認可在身為一個塔斯馬尼亞原住民關於楚格尼尼去世後30年.\[5\]
-
-在1898年,  出版一個文章在 ** 在Smith's 宣稱成為 一個 "全血" 塔斯馬尼亞原住民。她沒有檢驗她自己,但是
-比較鎖她的早期塔斯馬尼亞樣品然後製造一個比較她和楚格尼尼 Roth concluded that
-Smith was actually mixed-race, as she had "Europeanised" facial
-characteristics, much lighter skin than Truganini, and hair that was
-"wavy" rather than "".\[6\]
-
-\==
-
-遺產==
-[Fanny_Cochrane_Smith.oga](https://zh.wikipedia.org/wiki/File:Fanny_Cochrane_Smith.oga "fig:Fanny_Cochrane_Smith.oga")
-<font color="#000000">史密斯有名在於她1903年所出版的</font>
-[圓筒唱片是唯一一首運用](https://zh.wikipedia.org/wiki/圓筒唱片 "wikilink")
-[塔斯馬尼亞方言來錄製的](https://zh.wikipedia.org/wiki/塔斯馬尼亞方言 "wikilink")[原住民歌曲](https://zh.wikipedia.org/wiki/澳大利亞土著音樂 "wikilink")。\[7\]
-Five cylinders were cut, however by 1949 only four remained as "A fifth
-cylinder, on which was recorded the translation of the songs, was broken
-some time ago".\[8\] Upon hearing her own performance, Smith had cried
-"My poor race. What have I done",\[9\] she believed the voice to be that
-of her mother.\[10\]
-
-The recording of Smith's songs was the subject of a 1998 song by
-Australian folk singer , *The Man and the Woman and the *. Watson is the
-great grandson of Horace Watson, who recorded Fanny in 1903.\[11\]\[12\]
-
-A photograph of Fanny Cochrane Smith and Horace Watson is displayed in
-the collection of the [National Museum of
-Australia](https://zh.wikipedia.org/wiki/澳大利亞國立博物館 "wikilink").
-
-## References
-
-## External links
-
-  - Listen to Fanny Cochrane Smith's recording and read more about the
-    first and last recordings of Tasmanian Aboriginal songs and language
-    on [australianscreen
-    online](http://aso.gov.au/titles/music/fanny-cochrane-smith-songs/)
-  - 'Fanny Cochrane Smith's Tasmanian Aboriginal Songs' has been added
-    to the [National Film and Sound
-    Archive](https://zh.wikipedia.org/wiki/澳大利亞國立影片與聲音檔案館 "wikilink")'s
-    .
-  - [State Library of Tasmania
-    Images](http://catalogue.statelibrary.tas.gov.au/find/?subject=Smith%2c+Fanny+Cochrane+-+1834%3f-1905+-+Portraits)
-    Photos of Smith, Fanny Cochrane
-
-[Category:Indigenous_Tasmanian_people](https://zh.wikipedia.org/wiki/Category:Indigenous_Tasmanian_people "wikilink")
-[Category:1905年逝世](https://zh.wikipedia.org/wiki/Category:1905年逝世 "wikilink")
-[Category:1834年出生](https://zh.wikipedia.org/wiki/Category:1834年出生 "wikilink")
-[Category:死于肺炎的人](https://zh.wikipedia.org/wiki/Category:死于肺炎的人 "wikilink")
-[Category:Last_known_speakers_of_an_Australian_Aboriginal_language](https://zh.wikipedia.org/wiki/Category:Last_known_speakers_of_an_Australian_Aboriginal_language "wikilink")
-[Category:Australian_Methodists](https://zh.wikipedia.org/wiki/Category:Australian_Methodists "wikilink")
+隨著1876年楚格尼尼的死亡, F
 
 1.
 
 2.  FM p. 893
 
 3.
-4.
-
-5.
-6.
-
-7.
-8.
-
-9.
-10.
-11. [Musicological Society of
-    Australia](http://www.msa.org.au/MSA_Newsletter63.htm)
-
-12.

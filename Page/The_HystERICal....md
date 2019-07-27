@@ -1,5 +1,5 @@
 《**the
-HystERICal...**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威的個人迷你音樂專輯](../Page/孫耀威.md "wikilink")，於2018年11月16日推出。
+HystERICal...**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威](../Page/孫耀威.md "wikilink")的個人迷你音樂專輯，於2018年11月16日推出。
 
 ## 曲目列表
 

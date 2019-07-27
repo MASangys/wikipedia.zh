@@ -3,7 +3,7 @@ Studio**，是一家位于[北京的建筑事务所](https://zh.wikipedia.org/wi
 
 ## 历史
 
-2004年由[马岩松](../Page/马岩松.md "wikilink")，[早野洋介和](https://zh.wikipedia.org/wiki/早野洋介 "wikilink")[党群创建](https://zh.wikipedia.org/wiki/党群 "wikilink")，在[洛杉矶和](../Page/洛杉矶.md "wikilink")[纽约分别设有办公室](../Page/纽约.md "wikilink")。\[1\]
+2004年由[马岩松](../Page/马岩松.md "wikilink")，[早野洋介和](https://zh.wikipedia.org/wiki/早野洋介 "wikilink")[党群创建](https://zh.wikipedia.org/wiki/党群 "wikilink")，在[洛杉矶](../Page/洛杉矶.md "wikilink")和[纽约](../Page/纽约.md "wikilink")分别设有办公室。\[1\]
 
 ## 作品
 

@@ -1,10 +1,10 @@
-**Fiddler**是一个用于[HTTP调试的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器应用程序](../Page/代理服务器.md "wikilink")，最初由[微软](../Page/微软.md "wikilink")[Internet
+**Fiddler**是一个用于[HTTP调试的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")应用程序，最初由[微软](../Page/微软.md "wikilink")[Internet
 Explorer开发团队的前程序经理Eric](../Page/Internet_Explorer.md "wikilink")
 Lawrence编写。
 
 ## 特性
 
-Fiddler能捕获[HTTP和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS流量](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，并将其记录下来供用户查看。它通过使用[自签名证书实现](https://zh.wikipedia.org/wiki/自签名证书 "wikilink")[中间人攻击来进行日志记录](../Page/中间人攻击.md "wikilink")。\[1\]
+Fiddler能捕获[HTTP和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS流量](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，并将其记录下来供用户查看。它通过使用[自签名证书实现](https://zh.wikipedia.org/wiki/自签名证书 "wikilink")[中间人攻击](../Page/中间人攻击.md "wikilink")来进行日志记录。\[1\]
 
 ## 历史
 

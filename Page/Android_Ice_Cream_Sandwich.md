@@ -4,7 +4,7 @@ Sandwich**是-{zh-hans:[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")
 Honeycomb做了重大改变，旨在为智能手机和平板电脑两者间创建统一平台。
 
 Android
-4.0专注于引入新的简化的、现代化的人机界面交互体验。作为这些努力的一部分，它引入了[代号为](https://zh.wikipedia.org/wiki/代号 "wikilink")“Holo”的新视觉外观，该界面引入了更简洁设计，以及一个名为[Roboto的新默认](../Page/Roboto.md "wikilink")[字体](../Page/字体.md "wikilink")。它还引入了许多其他新功能，包括更新的主屏幕，[近场通信](../Page/近場通訊.md "wikilink")（NFC）支持以及使用该技术将内容“发送”给其他用户的能力（Android
+4.0专注于引入新的简化的、现代化的人机界面交互体验。作为这些努力的一部分，它引入了[代号为](https://zh.wikipedia.org/wiki/代号 "wikilink")“Holo”的新视觉外观，该界面引入了更简洁设计，以及一个名为[Roboto](../Page/Roboto.md "wikilink")的新默认[字体](../Page/字体.md "wikilink")。它还引入了许多其他新功能，包括更新的主屏幕，[近场通信](../Page/近場通訊.md "wikilink")（NFC）支持以及使用该技术将内容“发送”给其他用户的能力（Android
 Beam），全新的Web浏览器，新的社交网络联系人管理器，从锁定屏幕启动相机和控制音乐播放的能力，可视语音邮件的支持，设备的[面部识别解锁功能](../Page/臉部辨識系統.md "wikilink")，监控和限制移动[数据使用](../Page/带宽_\(计算机\).md "wikilink")，以及其他内部改进。
 
 Android
@@ -21,26 +21,8 @@ Sandwich。\[1\]
 4.0的Android设备。\[2\]Android
 4.0.3于2011年12月16日发布，提供了错误修复，新的社交流API和其他细节改进。\[3\]同一天，Google开始向Galaxy
 Nexus的前身[Nexus S推送Android](../Page/Nexus_S.md "wikilink") Ice Cream
-Sandwich。但是在2011年12月20日，Nexus S的推送被停止，公司以此可以“听取与更新相关的反馈”。\[4\]\[5\]
-
-2011年MIPS和[北京君正聯合發布首款低於](../Page/北京君正.md "wikilink")100美金的Ice Cream
-Sandwich平板電腦，採用君正JZ4770行動應用處理器，內建時脈速度1GHz搶攻低價市場。\[6\]
-
-2012年3月29日，Android 4.0.4发布，改善了相机和屏幕旋转功能的性能，带来了其他错误修复。\[7\][Google
-Play服务对于Android](../Page/Google_Play服務.md "wikilink")
-4.0的支持已于2019年2月结束。\[8\]
-
-## 參見
-
-  - [Android歷史版本](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")
-
-## 参考资料
-
-[Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink")
-[Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink")
-[Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink")
-[Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink")
-[Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+Sandwich。但是在2011年12月20日，Nexus S的推送被停止，公司以此可以“听取与更新相关的反馈”。\[4\]\<ref
+name="cne
 
 1.   Android
     Developers|accessdate=2018-07-01|work=developer.android.com}}
@@ -50,11 +32,3 @@ Play服务对于Android](../Page/Google_Play服務.md "wikilink")
     Android Developers Blog. December 16, 2011. Retrieved January 4,
     2012.
 4.
-5.
-6.  [MIPS與君正集成電路共同發表](https://www.digitimes.com.tw/iot/article.asp?cat=130&cat1=50&cat2=15&id=0000262811_psa7jqt72z4rc20lb0573)
-7.  ["Google announces
-    Android 4.0.4"](http://www.theinquirer.net/inquirer/news/2164732/google-announces-android-404-gsm-nexus-galaxy-nexus-phones).
-    *[The
-    Inquirer](https://zh.wikipedia.org/wiki/The_Inquirer "wikilink")*.
-    March 29, 2012. Retrieved March 31, 2012.
-8.

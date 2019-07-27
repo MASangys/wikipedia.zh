@@ -1,5 +1,5 @@
 **DJ
-Okawari**出生于[日本](../Page/日本.md "wikilink")[静冈县](https://zh.wikipedia.org/wiki/静冈县 "wikilink")，是日本的[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[唱片制作人和](https://zh.wikipedia.org/wiki/唱片制作人 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")\[1\]\[2\]。其曲风主要为[爵士嘻哈](https://zh.wikipedia.org/wiki/爵士嘻哈 "wikilink")，[钢琴则是其音乐中的一个重要元素](../Page/钢琴.md "wikilink")\[3\]。截至2019年一共发行了七张专辑：2008年的”*Diorama*“，2009年的”*Mirror*“，2011年的”*Kaleidoscope*“，2017年的”*Compass*“，与Emily
+Okawari**出生于[日本](../Page/日本.md "wikilink")[静冈县](https://zh.wikipedia.org/wiki/静冈县 "wikilink")，是日本的[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[唱片制作人和](https://zh.wikipedia.org/wiki/唱片制作人 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")\[1\]\[2\]。其曲风主要为[爵士嘻哈](https://zh.wikipedia.org/wiki/爵士嘻哈 "wikilink")，[钢琴](../Page/钢琴.md "wikilink")则是其音乐中的一个重要元素\[3\]。截至2019年一共发行了七张专辑：2008年的”*Diorama*“，2009年的”*Mirror*“，2011年的”*Kaleidoscope*“，2017年的”*Compass*“，与Emily
 Styler合作的”*Restore*“，2018年的”*Perfect Blue*“，以及2019年与Celeina
 Ann合作的“Nightfall”.
 
@@ -18,23 +18,15 @@ Letter（由TSUKINOSORA作曲）。\[4\]\[5\]在YouTube上，他的很多音乐�
 
 ***Diorama (2008)***\[7\]
 
-***Mirror (2009)***
-
-***Kaleidoscope (2011)***
-
-***Compass (2017)***
-
-***Restore (2018) <small>\[collaboration with Emily Styler\]</small>***
-
-***Perfect Blue (2018)***
-
-## 参考文献
-
-<references group="" responsive="">
-
-</references>
-
-[Category:日本音樂人物](https://zh.wikipedia.org/wiki/Category:日本音樂人物 "wikilink")
+{{Track listing | title1 = Evening Comes | length1 = 4:17 | title2 =
+Chocolate | note2 = featuring Agehah | length2 = 4:22 | title3 =
+Bluebird Story | note3 = featuring Jumelles | length3 = 3:19 | title4 =
+Ring | length4 = 3:20 | title5 = Colors of Life | length5 = 3:27 |
+title6 = Synchronize | length6 = 3:42 | title7 = One for U | length7 =
+4:01 | title8 = Aurora | note8 = featuring Eri Kamiya | length8 = 5:05 |
+title9 = Coffee Break | length9 = 1:46 | title10 = Crescent Moon |
+length10 = 4:13 | title11 = Tayutau | length11 = 3:54 | title12 = Silent
+Night | length12 = 3:53 | title13 = Animal Forest |
 
 1.   DJ OKAWARI OFFICIAI
     SITE|accessdate=2016-01-14|work=www.djokawari.com|archive-url=[https://web.archive.org/web/20160110134137/http://www.djokawari.com/profile.html|archive-date=2016-01-10|dead-url=yes](https://web.archive.org/web/20160110134137/http://www.djokawari.com/profile.html%7Carchive-date=2016-01-10%7Cdead-url=yes)}}

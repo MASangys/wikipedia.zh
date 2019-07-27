@@ -53,43 +53,12 @@
     dog](../Page/Under_dog.md "wikilink")、[Blast及](https://zh.wikipedia.org/wiki/Blast "wikilink")[hi5的成員](https://zh.wikipedia.org/wiki/hi5 "wikilink")。
   - Doha曾為[Under
     dog及](../Page/Under_dog.md "wikilink")[hi5的成員](https://zh.wikipedia.org/wiki/hi5 "wikilink")。
-  - Soohyun曾為[LUCENTE的預備成員](../Page/LUCENTE.md "wikilink")。
-  - Sihoo曾為[防彈少年團的伴舞員](../Page/防彈少年團.md "wikilink")。
+  - Soohyun曾為[LUCENTE](../Page/LUCENTE.md "wikilink")的預備成員。
+  - Sihoo曾為[防彈少年團](../Page/防彈少年團.md "wikilink")的伴舞員。
 
 ## 新聞事件
 
-2019年4月21日，凌晨約3時40分，團體完成在[大邱廣域市演出後](../Page/大邱廣域市.md "wikilink")，乘坐保姆車前往首爾奧林匹克大道蠶室方向時，在首爾橋和汝矣島橋交界撞向道路旁邊的護欄，36歲司機兼經理人受重傷，被送往梨大木洞醫院搶救，惟最終宣告不治。另外成員Soohyun\[1\]受重傷，而3位成員和1名工作人員則受輕傷，眾人分別送往3間醫院接受治療；而其餘3名成員則在事故前已經下車\[2\]\[3\]\[4\]\[5\]\[6\]，報道指出由於經紀人需長期處於工作狀態，缺乏休息，導致車禍發生\[7\]。
-
-
-\==參考文獻==
-
-## 外部連結
-
-  - [MustB的twitter帳戶](https://twitter.com/MustB_mustment)
-  - [MustB的Facebook專頁](https://www.facebook.com/mustbalight/)
-  - [MustB的 YouTube
-    Channel](https://www.youtube.com/channel/UCQvo7444Fi0zD8Wu8NkBmbg?view_as=subscriber)
-  - [MustB](http://cafe.daum.net/mustb) 在Daum cafe的頁面
-  - [MustB韓國官方網站](http://www.mustm.net/)
-  - [MustB的Instagram帳戶](https://www.instagram.com/mustb_official/)
-  - [Taegeon的Instagram帳戶](https://www.instagram.com/mustb_taegeon/)
-  - [Hawoon的Instagram帳戶](https://www.instagram.com/mustb_hawoon/)
-  - [Sangwoo的Instagram帳戶](https://www.instagram.com/mustb_sangwoo/)
-  - [Wooyeon的Instagram帳戶](https://www.instagram.com/mustb_wooyeon/)
-  - [Doha的Instagram帳戶](https://www.instagram.com/mustb_doha/)
-  - [Soohyun的Instagram帳戶](https://www.instagram.com/mustb_soohyun/)
-  - [Sihoo的Instagram帳戶](https://www.instagram.com/mustb_sihoo/)
-
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
-[Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
+2019年4月21日，凌晨約3時40分，團體完成在[大邱廣域市](../Page/大邱廣域市.md "wikilink")演出後，乘坐保姆車前往首爾奧林匹克大道蠶室方向時，在首爾橋和汝矣島橋交界撞向道路旁邊的護欄，36歲司機兼經理人受重傷，被送往梨大木洞醫院搶救，惟最終宣告不治。另外成員Soohyun\[1\]受重傷，而3位成員和1名工作人員則受輕傷，眾人分別送往3間醫院接受治療；而其餘3名成員則在事故前已經下車<ref>{{cite
+web |title=韓國新晉男團MustB遭遇嚴重車禍　司機兼經理人證實死亡|url=http
 
 1.
-2.
-3.
-4.
-5.
-6.
-7.

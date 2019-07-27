@@ -1,9 +1,9 @@
 **GNU
-cflow**是[GNU計劃中的一款](../Page/GNU計劃.md "wikilink")，其读取一系列[C语言源文件并生成外部引用的流程图](https://zh.wikipedia.org/wiki/C语言 "wikilink")。此软件仅需读取源码而无需运行代码编译后的软件。
+cflow**是[GNU計劃](../Page/GNU計劃.md "wikilink")中的一款，其读取一系列[C语言源文件并生成外部引用的流程图](https://zh.wikipedia.org/wiki/C语言 "wikilink")。此软件仅需读取源码而无需运行代码编译后的软件。
 
 ## 历史
 
-其起初为[UNIX实用工具cflow的实现](../Page/UNIX.md "wikilink")。
+其起初为[UNIX](../Page/UNIX.md "wikilink")实用工具cflow的实现。
 
 ## cflow（UNIX实用工具）
 

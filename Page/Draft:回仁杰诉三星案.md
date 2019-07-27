@@ -1,6 +1,6 @@
-**回仁杰诉三星案**又被称为三星炸机案，是指[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[公民回仁杰对](../Page/公民.md "wikilink")[三星集团发起的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[民事诉讼](https://zh.wikipedia.org/wiki/民事诉讼 "wikilink")。在该案中，三星集团被控在2016年三星[Galaxy
+**回仁杰诉三星案**又被称为三星炸机案，是指[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[公民](../Page/公民.md "wikilink")回仁杰对[三星集团发起的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[民事诉讼](https://zh.wikipedia.org/wiki/民事诉讼 "wikilink")。在该案中，三星集团被控在2016年三星[Galaxy
 Note
-7手机爆炸门事件中](https://zh.wikipedia.org/wiki/Galaxy_Note_7 "wikilink")，在明知手机[电池存在隐患的情形下仍然继续发售](../Page/电池.md "wikilink")，并在对中国各地所发生的多起爆炸事件进行调查之前，就对外发布了Galaxy
+7手机爆炸门事件中](https://zh.wikipedia.org/wiki/Galaxy_Note_7 "wikilink")，在明知手机[电池](../Page/电池.md "wikilink")存在隐患的情形下仍然继续发售，并在对中国各地所发生的多起爆炸事件进行调查之前，就对外发布了Galaxy
 Note 7可以安全使用的公告，存在[欺诈行为](https://zh.wikipedia.org/wiki/欺诈 "wikilink")。
 
 ## 案件背景
@@ -42,7 +42,7 @@ Note
 
 ## 参考资料
 
-[:Category:用条目向导创建的草稿](https://zh.wikipedia.org/wiki/Category:用条目向导创建的草稿 "wikilink")
+\<\!--- 參見 <https:/>
 
 1.
 2.

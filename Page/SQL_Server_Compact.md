@@ -40,35 +40,11 @@ Server Compact。\[14\]
 
 ## 文件格式
 
-SQL CE数据库存于一个单独的***.sdf***文件("Sqlce Database File") ，\[15\]，最大为4
-[GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")。\[16\]
-*.sdf*文件可用128位加密。\[17\] SQL CE
-runtime负责调控多用户同步访问一个*.sdf*文件。*.sdf*文件可直接复制到部署目标系统上，也可以通过[ClickOnce部署](../Page/ClickOnce.md "wikilink")。SQL
-CE runtime支持**DataDirectories**。\[18\]
-
-[Visual
-Studio可以处理SQL](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
-Server CE 数据库文件。\[19\]
-
-## 参见
-
-  - [SQLite](../Page/SQLite.md "wikilink")
-  - [SQL Server Express](../Page/SQL_Server_Express.md "wikilink")
-  - [MSDE](https://zh.wikipedia.org/wiki/MSDE "wikilink")
-
-## 参考文献
-
-## 外部链接
-
-  - [SQL Server
-    Compact 3.5](http://www.microsoft.com/sqlserver/2008/en/us/compact.aspx)
-  - [SQL Server Compact Release
-    Versions](http://blogs.msdn.com/sqlservercompact/archive/2008/02/08/sql-server-compact-release-versions.aspx)
-  - [Microsoft's Embedded Database - SQL Server Compact - Team
-    Blog](http://blogs.msdn.com/b/sqlservercompact)
-
-[Category:Microsoft_software](https://zh.wikipedia.org/wiki/Category:Microsoft_software "wikilink")
-[Category:Windows_Mobile](https://zh.wikipedia.org/wiki/Category:Windows_Mobile "wikilink")
+{{Infobox file format | name = SQL Server Compact | extension = `.sdf` |
+mime = | owner =
+[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") |
+creatorcode = | genre = [关系数据库](../Page/关系数据库.md "wikilink") |
+containerfor = | containedby =
 
 1.
 2.
@@ -92,10 +68,3 @@ Server CE 数据库文件。\[19\]
 13.
 
 14.
-
-15.
-
-16.
-17.
-18.
-19.

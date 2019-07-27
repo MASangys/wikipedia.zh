@@ -4,7 +4,7 @@ Kang Hyung Ho (강형호)、Cho Min Gyu (조민규)及Ko Woo Rim (고우림)。
 
 ## 活動經歷
 
-Forestella是[JTBC選秀節目](../Page/JTBC.md "wikilink")《Phantom
+Forestella是[JTBC](../Page/JTBC.md "wikilink")選秀節目《Phantom
 Singer（第二季）》的優勝者\[2\]。
 
 ## 參考文獻

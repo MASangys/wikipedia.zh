@@ -1,7 +1,7 @@
 ## 简介：
 
 Gofair是Global Online
-Fair的缩写，是[美国一个全球在线展会](../Page/美国.md "wikilink")，\[1\]总部位于美国加州[硅谷](../Page/硅谷.md "wikilink")[圣何塞市](../Page/圣何塞.md "wikilink")。
+Fair的缩写，是[美国](../Page/美国.md "wikilink")一个全球在线展会，\[1\]总部位于美国加州[硅谷](../Page/硅谷.md "wikilink")[圣何塞](../Page/圣何塞.md "wikilink")市。
 
 ## 概况：
 

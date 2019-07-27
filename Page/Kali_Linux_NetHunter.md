@@ -1,5 +1,5 @@
 Kali Linux
-NetHunter版是由[Debian派生出的](../Page/Debian.md "wikilink")[ARM架构](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，用于[数字取证和](https://zh.wikipedia.org/wiki/数字取证 "wikilink")[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。该系统由Offensive
+NetHunter版是由[Debian](../Page/Debian.md "wikilink")派生出的[ARM架构](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，用于[数字取证和](https://zh.wikipedia.org/wiki/数字取证 "wikilink")[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。该系统由Offensive
 Security有限公司负责维护和提供资金。Mati Aharoni、Devon Kearns和Raphaël Hertzog是核心开发者。
 
 ## 发展
@@ -36,7 +36,7 @@ Kali Linux有一个专门的项目，叫做Kali Linux NetHunter，用于兼容�
 ## 外部链接
 
   - [官方网站](https://www.kali.org/)
-  - [DistroWatch上的](../Page/DistroWatch.md "wikilink")[Kali
+  - [DistroWatch](../Page/DistroWatch.md "wikilink")上的[Kali
     Linux](https://distrowatch.com/table.php?distribution=kali)
 
 [Category:可从只读媒体启动的操作系统发行版](https://zh.wikipedia.org/wiki/Category:可从只读媒体启动的操作系统发行版 "wikilink")

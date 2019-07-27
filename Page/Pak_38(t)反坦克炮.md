@@ -45,19 +45,9 @@ cm PaK (t)或 PaK 38(t)的名称使用。 爾後德国继续生产并將PaK
     1973.  (soft cover)
   - Gander, Terry and Chamberlain, Peter. *Weapons of the Third Reich:
     An Encyclopedic Survey of All Small Arms, Artillery and Special
-    Weapons of the German Land Forces 1939-1945*. New York: Doubleday,
-    1979
-  - Hogg, Ian.*Twentieth-Century Artillery*, Barnes & Noble Books, 2000.
+    Weapons of the German Land Forces 1939-1945*. New
 
-  - Janoušek, Jiří. *Československé dělostřelectvo 1918-1939*, Corona,
-    2007.
-  - Jentz, Thomas L. *Panzerjaeger (3.7 cm Tak to Pz.Sfl.Ic):
-    Development and Employment from 1927 to 1941 (Panzer Tracts No.
-    7-1)* Boyds, MD: Panzer Tracts, 2004.
-
-[Category:第二次世界大戰德國](https://zh.wikipedia.org/wiki/Category:第二次世界大戰德國 "wikilink")
-[Category:德國火炮](https://zh.wikipedia.org/wiki/Category:德國火炮 "wikilink")
-[Category:捷克斯洛伐克军事](https://zh.wikipedia.org/wiki/Category:捷克斯洛伐克军事 "wikilink")
+<!-- end list -->
 
 1.  詹茨，第62-63页
 2.

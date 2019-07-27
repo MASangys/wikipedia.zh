@@ -1,5 +1,5 @@
 [右](https://zh.wikipedia.org/wiki/File:Petersen1_tiny.svg "fig:右")是最小的妖怪\]\]
-在[图论中](../Page/图论.md "wikilink")，妖怪（snark）是[简单的](../Page/图_\(数学\).md "wikilink")、[连通的](../Page/连通图.md "wikilink")、无4流的、[无桥的](../Page/桥_\(图论\).md "wikilink")[立方图](../Page/立方图.md "wikilink")。【link
+在[图论](../Page/图论.md "wikilink")中，妖怪（snark）是[简单的](../Page/图_\(数学\).md "wikilink")、[连通的](../Page/连通图.md "wikilink")、无4流的、[无桥的](../Page/桥_\(图论\).md "wikilink")[立方图](../Page/立方图.md "wikilink")。【link
 to nowhere-zero flows】
 
 根据[Vizing定理](../Page/Vizing定理.md "wikilink")，[边色数等于](../Page/图着色问题.md "wikilink")3或4。

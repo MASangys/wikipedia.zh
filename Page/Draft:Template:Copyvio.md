@@ -58,9 +58,4 @@ Wikipedia:頁面存廢討論/疑似侵權\]</span>內容的部分加上：
 
   - [版权常见问题解答](https://zh.wikipedia.org/wiki/Wikipedia:版权常见问题解答 "wikilink")
     · [何為侵犯著作權](https://zh.wikipedia.org/wiki/維基百科:侵犯著作權 "wikilink")
-  - 七日之后未通过验证的页面将会被删除，若那时存在无版权问题的临时页面，则会用其[替代本页面](https://zh.wikipedia.org/wiki/WP:移动 "wikilink")。
-
-{{\#if:|提出版权验证的[维基人是](https://zh.wikipedia.org/wiki/Wikipedia:维基百科人 "wikilink")：
-{{\!)}}|{{\!)}}
-提出版权验证的[维基人是](https://zh.wikipedia.org/wiki/Wikipedia:维基百科人 "wikilink")：}}}}<noinclude>
-</noinclude>
+  - 七日之后未通过验证的页面将会被删除，若那时存在无版权问题的临时页面，则会用其\[\[WP:

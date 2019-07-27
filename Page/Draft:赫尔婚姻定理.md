@@ -1,4 +1,4 @@
-在[图论和](../Page/图论.md "wikilink")[计算机科学中](../Page/计算机科学.md "wikilink")**，赫尔婚姻定理（英：Hall's
+在[图论](../Page/图论.md "wikilink")和[计算机科学](../Page/计算机科学.md "wikilink")中**，赫尔婚姻定理（英：Hall's
 marriage theorem）**，由提出：
 
 > [二部图G包含饱和A的匹配](../Page/二分图.md "wikilink")[当且仅当](../Page/当且仅当.md "wikilink")，对所有的S
@@ -12,7 +12,7 @@ N(S) 是S的邻点。关于以上定理Diestel说：\[2\]
 
 ## 一般图
 
-[图特定理是婚姻定理的推广](../Page/图特定理.md "wikilink")，从二分图到一般图。
+[图特定理](../Page/图特定理.md "wikilink")是婚姻定理的推广，从二分图到一般图。
 
 赫尔定理也是[柯尼希定理的特烈](../Page/柯尼希定理_\(图论\).md "wikilink")。
 

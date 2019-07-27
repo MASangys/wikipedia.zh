@@ -1,5 +1,5 @@
 **SQL Server Management
-Studio**（SSMS）是[微软的一個與其](../Page/微软.md "wikilink")[數據庫產品](https://zh.wikipedia.org/wiki/數據庫 "wikilink")[Microsoft
+Studio**（SSMS）是[微软](../Page/微软.md "wikilink")的一個與其[數據庫產品](https://zh.wikipedia.org/wiki/數據庫 "wikilink")[Microsoft
 SQL
 Server配合使用的產品](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，以便於設定、配置及管理其元件。原為SQL
 Server 2000的管理工具，名為「SQL Server Enterprise

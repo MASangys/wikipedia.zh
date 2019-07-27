@@ -1,4 +1,4 @@
-《**DOOR**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂的第](../Page/可苦可樂.md "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年5月12日發行。\[1\]
+《**DOOR**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂](../Page/可苦可樂.md "wikilink")的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年5月12日發行。\[1\]
 
 ## 簡介
 

@@ -2,7 +2,7 @@
 
 ## 制备
 
-将[三氯化锫和过量的](https://zh.wikipedia.org/wiki/三氯化锫 "wikilink")[吡啶-2,6-二甲酸在](https://zh.wikipedia.org/wiki/吡啶-2,6-二甲酸 "wikilink")1:1[乙醇水溶液中于](../Page/乙醇.md "wikilink")150°C进行水热反应，可以得到吡啶-2,6-二甲酸氢锫(III)的晶体。\[2\]
+将[三氯化锫和过量的](https://zh.wikipedia.org/wiki/三氯化锫 "wikilink")[吡啶-2,6-二甲酸在](https://zh.wikipedia.org/wiki/吡啶-2,6-二甲酸 "wikilink")1:1[乙醇](../Page/乙醇.md "wikilink")水溶液中于150°C进行水热反应，可以得到吡啶-2,6-二甲酸氢锫(III)的晶体。\[2\]
 
 ## 参考文献
 

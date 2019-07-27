@@ -1,5 +1,5 @@
 Burp 或 Burp Suite 是一个用于测试 Web
-应用程序安全性的图形化工具。该工具使用[Java编写](../Page/Java.md "wikilink")，由PortSwigger
+应用程序安全性的图形化工具。该工具使用[Java](../Page/Java.md "wikilink")编写，由PortSwigger
 Web Security开发。
 [缩略图](https://zh.wikipedia.org/wiki/File:Burp_Decoder_-_Free_Edition.png "fig:缩略图")
 该工具有三个版本。可以免费下载的社区版、专业版和试用后可以购买的企业版。社区版大大减少了功能。它是为Web应用程序安全检查提供全面解决方案而开发的。除了[代理服务器](../Page/代理服务器.md "wikilink")、Scanner
@@ -32,11 +32,14 @@ PortSwigger由Web安全领域的领先专家Dafydd Stuttard于2004年创建。\[
 ## 另请参阅
 
   - [渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")
-  - [Web应用程序安全扫描器](https://zh.wikipedia.org/wiki/Web_Application_Security_Scanner "wikilink")
-  - [Fiddler（软件）](https://zh.wikipedia.org/wiki/Fiddler_\(software\) "wikilink")
-  - [代理服务器](../Page/代理服务器.md "wikilink")
-  - [OWASP ZAP](https://zh.wikipedia.org/wiki/OWASP_ZAP "wikilink")
 
+  - [Web应用程序安全扫描器](../Page/Web应用程序攻击和检查框架.md "wikilink")
+
+  - [Fiddler](../Page/Fiddler.md "wikilink")（软件）
+
+  - [代理服务器](../Page/代理服务器.md "wikilink")
+
+  -
 ## 参考文献
 
 <references group="" responsive="">

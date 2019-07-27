@@ -48,32 +48,7 @@ conventional frequency analysis\[7\].
 Wavelet Transform, a typical time-frequency domain method, can extract
 and represent properties from transient biological signals.
 Specifically, through wavelet decomposition of the EEG records,
-transient features can be accurately captured and localized in both time
-and frequency context\[8\]. Thus Wavelet transform is like a
-mathematical microscope that can analyze different scales of neural
-rhythms and investigate small-scale oscillations of the brain signals
-while ignoring the contribution of other scales\[9\]\[10\]. Apart from
-Wavelet Transform, there is another prominent time-frequency method
-called Hilbert-Huang Transform, which can decompose EEG signals into a
-set of oscillatory components called Intrinsic Mode Function(IMF) in
-order to capture instantaneous frequency data\[11\]\[12\].
-
-### Nonlinear methods
-
-Many phenomena in nature are nonlinear and  non-stationary, and so are
-EEG signals. This attribute adds more complexity to the interpretation
-of EEG signals, rendering linear methods(methods mentioned above)
-limited.  Since 1985 when two pioneers in nonlinear EEG analysis, Rapp
-and Bobloyantz, published their first results, the theory of nonlinear
-dynamic systems, also called 'chaos theory', has been broadly applied to
-the field of EEG analysis\[8\]. To conduct nonlinear EEG analysis,
-researchers have adopted many useful nonlinear parameters such as
-Lyapunov Exponent, Correlation Dimension, and entropies like Approximate
-Entropy and Sample Entropy\[13\]\[14\].
-
-## 参考资料
-
-[Category:用条目向导创建的草稿](https://zh.wikipedia.org/wiki/Category:用条目向导创建的草稿 "wikilink")
+transient features can
 
 1.
 
@@ -86,13 +61,3 @@ Entropy and Sample Entropy\[13\]\[14\].
 6.
 
 7.
-8.
-
-9.
-10.
-
-11.
-12.
-
-13.
-14.

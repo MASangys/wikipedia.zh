@@ -1,4 +1,4 @@
-《**SCOOP\!**》（日語：スクープ），是一部由[東寶和](../Page/東寶.md "wikilink")[朝日電視台製作的電影](../Page/朝日電視台.md "wikilink")，2016年10月1日於日本上映。本片改編自1985年由[原田真人電影](../Page/原田真人.md "wikilink")《盜寫1/250秒》，由[福山雅治主演](../Page/福山雅治.md "wikilink")。
+《**SCOOP\!**》（日語：スクープ），是一部由[東寶](../Page/東寶.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")製作的電影，2016年10月1日於日本上映。本片改編自1985年由[原田真人](../Page/原田真人.md "wikilink")電影《盜寫1/250秒》，由[福山雅治](../Page/福山雅治.md "wikilink")主演。
 
 ## 登場角色
 
@@ -219,88 +219,7 @@
 <!-- end list -->
 
   -
-    應召女郎。
 
 <!-- end list -->
 
-  - 連環殺手M：遊星慎太郎
-
-  - [泉理香](https://zh.wikipedia.org/wiki/泉理香 "wikilink")
-
-  - [友田彩也香](../Page/友田彩也香.md "wikilink")
-
-  - [東凜](https://zh.wikipedia.org/wiki/東凜 "wikilink")
-
-  - [卯水咲流](../Page/卯水咲流.md "wikilink")
-
-  -
-  -
-  - [菜乃花](../Page/菜乃花.md "wikilink")
-
-  - [藤浦惠](../Page/藤浦惠.md "wikilink")
-
-  -
-## 幕後人員
-
-  - 導演、劇本：[大根仁](../Page/大根仁.md "wikilink")
-  - 原作：[原田真人](../Page/原田真人.md "wikilink")《盜寫 1/250秒》
-  - 製作統括：平城隆司、畠中達郎
-  - 共同製作：市川南、長坂信人、中川雅也
-  - 執行製作人：林雄一郎、原田知明
-  - 製作人：川北桃子、政岡保宏、市山龍次
-  - 音樂：川邊ヒロシ
-  - 主題曲：TOKYO NO.1 SOUL SET feat. [福山雅治](../Page/福山雅治.md "wikilink") on
-    guitar 「無情の海に」\[2\]（[日本環球音樂](../Page/環球音樂_\(日本\).md "wikilink")）
-  - 攝影：小林元
-  - 照明：堀直之
-  - 錄音：渡邊真司
-  - 音響效果：北田雅也
-  - 美術：平井小渡
-  - 助理導演：二宮孝平
-  - 製作擔當：田邊正樹
-  - 編輯：大關泰幸
-  - 記錄：井坂尚子
-  - 裝飾：小林宙央
-  - 造型：伊賀大介
-  - 視覺特效：菅原悦史
-  - 共同製作：山内章弘、高野涉、滑川親吾
-  - 音樂制作：北原京子
-  - 宣傳制作：鎌田亮介
-  - 發行： [東寶](../Page/東寶.md "wikilink")
-  - 製作幹事：[朝日電視台](../Page/朝日電視台.md "wikilink")・[Amuse](../Page/Amuse.md "wikilink")
-  - 製作：電影《SCOOP\!》製作委員會
-
-## 得獎
-
-  - [第40屆日本電影學院獎](../Page/第40屆日本電影學院獎.md "wikilink")：助演男演員（[中川雅也](../Page/中川雅也.md "wikilink")）
-  - 第59屆[藍絲帶獎](../Page/藍絲帶獎_\(電影\).md "wikilink")：助演男演員（[中川雅也](../Page/中川雅也.md "wikilink")）
-
-## 相關產品
-
-  - 雜誌
-
-:;
-《**週刊SCOOP》（**2016年9月30日、[扶桑社](https://zh.wikipedia.org/wiki/扶桑社 "wikilink")）
-
-  -
-
-      -
-        大根仁監修，由《SPA\!》編輯部製作的雜誌\[3\]。
-
-## 參考資料
-
-## 外部連結
-
-  -
-  -
-  -
-  -
-[Category:大根仁執導電影](https://zh.wikipedia.org/wiki/Category:大根仁執導電影 "wikilink")
-[Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink")
-[Category:朝日電視台製作的電影](https://zh.wikipedia.org/wiki/Category:朝日電視台製作的電影 "wikilink")
-[Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink")
-[Category:2016年電影](https://zh.wikipedia.org/wiki/Category:2016年電影 "wikilink")
-
 1.
-2.
-3.

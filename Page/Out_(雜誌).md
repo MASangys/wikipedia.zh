@@ -1,5 +1,5 @@
 《**Out**》
-（）是美國的一份[LGBT時尚](../Page/LGBT.md "wikilink")、娛樂與[生活型態雜誌](https://zh.wikipedia.org/wiki/生活型態 "wikilink")，亦為當地發行量最大的LGBT月刊。《Out》最初由其投資人羅伯特·哈德曼持有。2000年，雜誌被哈德曼出售給了，並在之後由取得。2008年，PlanetOut公司將雜誌出售給了旗下的摄政娛樂傳媒公司。\[1\]\[2\]\[3\]
+（）是美國的一份[LGBT](../Page/LGBT.md "wikilink")時尚、娛樂與[生活型態雜誌](https://zh.wikipedia.org/wiki/生活型態 "wikilink")，亦為當地發行量最大的LGBT月刊。《Out》最初由其投資人羅伯特·哈德曼持有。2000年，雜誌被哈德曼出售給了，並在之後由取得。2008年，PlanetOut公司將雜誌出售給了旗下的摄政娛樂傳媒公司。\[1\]\[2\]\[3\]
 
 ## 參考來源
 

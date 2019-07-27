@@ -15,9 +15,9 @@ Terminal支持在[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x64和](
 
 ## 外部链接
 
-  - [GitHub上的](../Page/GitHub.md "wikilink")[Terminal](https://github.com/microsoft/Terminal)
+  - [GitHub](../Page/GitHub.md "wikilink")上的[Terminal](https://github.com/microsoft/Terminal)
   - [Microsotf应用商店的](https://zh.wikipedia.org/wiki/Windows应用商店 "wikilink")[购买页面](https://www.microsoft.com/zh-cn/p/windows-terminal-preview/9n0dx20hk701)
-  - [Bilibili上的](../Page/Bilibili.md "wikilink")[编译安装教程](https://www.bilibili.com/video/av51726432/)
+  - [Bilibili](../Page/Bilibili.md "wikilink")上的[编译安装教程](https://www.bilibili.com/video/av51726432/)
 
 [Category:Windows_10](https://zh.wikipedia.org/wiki/Category:Windows_10 "wikilink")
 [Category:微软](https://zh.wikipedia.org/wiki/Category:微软 "wikilink")

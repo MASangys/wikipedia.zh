@@ -1,7 +1,7 @@
-《**Everlasting**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第十一張](../Page/FTIsland.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2019年3月27日以四個版本：通常盤、初回限定盤A、初回限定盤B及Primadonna盤推出\[1\]。打入Oricon單曲週榜前十名的單曲：《[Pretty
+《**Everlasting**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十一張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2019年3月27日以四個版本：通常盤、初回限定盤A、初回限定盤B及Primadonna盤推出\[1\]。打入Oricon單曲週榜前十名的單曲：《[Pretty
 Girl](https://zh.wikipedia.org/wiki/Pretty_Girl_\(FTIsland單曲\) "wikilink")》在專輯推出前預先發行。
 
-由於成員[崔鍾訓在專輯推出前已因](../Page/崔鍾訓.md "wikilink")[Burning
+由於成員[崔鍾訓](../Page/崔鍾訓.md "wikilink")在專輯推出前已因[Burning
 Sun-勝利門事件退團](../Page/Burning_Sun-勝利門事件.md "wikilink")\[2\]，故此專輯也是他們五人體制下最後一張作品。
 
 ## 背景
@@ -10,36 +10,50 @@ Sun-勝利門事件退團](../Page/Burning_Sun-勝利門事件.md "wikilink")\[2
 
 ## 曲目
 
-## 銷售榜單成績
+{{Track listing | total_length = 38:37 | headline = 所有版本\[5\]
 
-### Oricon公信榜
+| music_credits = yes | lyrics_credits = yes | arranger_credits = yes
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置    | 銷售量    | 總銷量     | 停留時間 |
-| ---------------------------------------- | ------- | ------ | ------- | ---- |
-| 專輯日榜                                     | 2\[5\]  | 16,973 | 22,824+ | 2星期  |
-| 專輯週榜                                     | 3\[6\]  | 22,114 |         |      |
-| 專輯月榜                                     | 18\[7\] | 22,824 |         |      |
+| title1 = God Bless You | music1 = [崔鍾訓](../Page/崔鍾訓.md "wikilink") |
+lyrics1 = [FTIsland](../Page/FTIsland.md "wikilink") | arranger1 =
+TIENOWA | length1 = 3:39
 
-## 發行歷史
+| title2 = Remember | music2 = [李洪基](../Page/李洪基.md "wikilink")
+il | lyrics2 = 李洪基
+il
+柴山慧 | arranger2 = TIENOWA
+il | length2 = 3:39
 
-| 地區                             | 日期         | 格式                                                                         | 廠牌                                     |
-| ------------------------------ | ---------- | -------------------------------------------------------------------------- | -------------------------------------- |
-| [日本](../Page/日本.md "wikilink") | 2019年3月27日 | [CD](../Page/CD.md "wikilink")、CD+DVD、[數位下載](../Page/數位音樂下載.md "wikilink") | [日本華納音樂](../Page/日本華納音樂.md "wikilink") |
+| title3 = IF U WANT | music3 =
+[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")
+李洪基
+Chris Meyer
+Kristoffer Thell | lyrics3 = 李在真
+井上大介 | arranger3 = Chris Meyer
+Kristoffer Thell
+TIENOWA
+高橋孝介 | length3 = 3:35
 
-## 參考資料
+| title4 = [Pretty
+Girl](https://zh.wikipedia.org/wiki/Pretty_Girl_\(FTIsland單曲\) "wikilink")
+| music4 = 李洪基
+Simon Janlöv
+Carlos Okabe | lyrics4 = 李洪基 | arranger4 = Simon Janlöv
+TIENOWA | length4 = 4:06
 
-## 外部連結
+| title5 = Fire | music5 = 崔鍾訓
+鄭真旭（） | lyrics5 = 崔鍾訓
+KAY-I | arranger5 = 鄭真旭 | length5 = 3:35
 
-  - [《Everlasting》專輯特設網站](https://sp.wmg.jp/ftisland/everlasting/)
-
-[Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
-[Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+| title6 = Story of glory | music6 =
+[宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
-6.
-7.
