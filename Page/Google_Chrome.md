@@ -1,13 +1,13 @@
-是由[Google開發的](../Page/Google.md "wikilink")[免費](../Page/免費軟體.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]。Chrome是[化學元素](../Page/化學元素.md "wikilink")「[鉻](https://zh.wikipedia.org/wiki/鉻 "wikilink")」的英文名稱，過去也用Chrome稱呼瀏覽器的外框\[2\]\[3\]\[4\]\[5\]。Chrome相应的[開放原始碼計劃名為](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[Chromium](https://zh.wikipedia.org/wiki/Chromium_\(瀏覽器\) "wikilink")\[6\]\[7\]，而Google
+是由[Google](../Page/Google.md "wikilink")開發的[免費](../Page/免費軟體.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]。Chrome是[化學元素](../Page/化學元素.md "wikilink")「[鉻](https://zh.wikipedia.org/wiki/鉻 "wikilink")」的英文名稱，過去也用Chrome稱呼瀏覽器的外框\[2\]\[3\]\[4\]\[5\]。Chrome相应的[開放原始碼計劃名為](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[Chromium](https://zh.wikipedia.org/wiki/Chromium_\(瀏覽器\) "wikilink")\[6\]\[7\]，而Google
 Chrome本身是[非自由軟體](https://zh.wikipedia.org/wiki/非自由軟體 "wikilink")，未開放全部[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")\[8\]\[9\]。
 
 Chrome程式碼是基於其他開放原始碼軟體所撰寫，包括[Apple
 WebKit和](https://zh.wikipedia.org/wiki/Apple_WebKit "wikilink")[Mozilla
 Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，並開發出稱為「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」的高效能[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")\[10\]。Google
-Chrome的整體發展目標是提升穩定性、速度和安全性，並創造出簡單且有效率的使用介面\[11\]。[CNET旗下的](../Page/CNET.md "wikilink")[Download.com網站評出的](../Page/Download.com.md "wikilink")2008年6月最佳Windows應用程序，其中Google
+Chrome的整體發展目標是提升穩定性、速度和安全性，並創造出簡單且有效率的使用介面\[11\]。[CNET](../Page/CNET.md "wikilink")旗下的[Download.com](../Page/Download.com.md "wikilink")網站評出的2008年6月最佳Windows應用程序，其中Google
 Chrome排名首位\[12\]。
 
-據[StatCounter統計](../Page/StatCounter.md "wikilink")，截至2018年第一季度，Google
+據[StatCounter](../Page/StatCounter.md "wikilink")統計，截至2018年第一季度，Google
 Chrome在全球桌面瀏覽器的[網頁瀏覽器的使用分布為](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分布 "wikilink")66%
 \[13\]。
 
@@ -33,7 +33,7 @@ SP2以上版本](../Page/Windows_XP.md "wikilink")\[25\]。
 Chrome迅速獲得約1%的使用率\[26\]\[27\]\[28\]\[29\]。在最初的激增之後，使用率下降，直到2008年10月達到0.69%的低點。然後再次開始上漲，到了2008年12月，Chrome再次超過了1%的門檻。
 
 2009年6月4日，正式發布首個在[Mac OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux作業系統的開發者預覽版本](../Page/Linux.md "wikilink")，官方部落格聲稱由於遺漏許多功能，只作為早期反饋用途而非日常使用\[30\]，同年12月，發布第一個同時支援Windows，Mac
+X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")作業系統的開發者預覽版本，官方部落格聲稱由於遺漏許多功能，只作為早期反饋用途而非日常使用\[30\]，同年12月，發布第一個同時支援Windows，Mac
 OS
 X和Linux作業系統的測試版\[31\]\[32\]。2010年5月25日，發布的5.0版是第一個同時支持該三個作業系統的穩定版本\[33\]。
 
@@ -83,7 +83,7 @@ Chrome在瀏覽器市場佔有率為6.16％（取各大機構平均值），超�
 Chrome的[市場佔有率達](https://zh.wikipedia.org/wiki/市場佔有率 "wikilink")10.70％，僅次於[Internet
 Explorer和](../Page/Internet_Explorer.md "wikilink")[Mozilla
 Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，排名第3，較2010年12月上升了0.72個百分點。除2010年7月曾下跌0.08％外，Google
-Chrome在每月統計的[市場佔有率未曾下跌](https://zh.wikipedia.org/wiki/市場佔有率 "wikilink")。2011年7月11日，Chrome在英國的市場份額達到22.12%，而[Firefox仅占](../Page/Firefox.md "wikilink")21.65%，這是Chrome首次在地區的統計中超越[Firefox](../Page/Firefox.md "wikilink")。\[40\]2012年5月21日，Chrome在全球范围内占有率達到33%，超越IE位居首位\[41\]，而此紀錄持續時間至今，仍然一直上升，紀錄不斷，2018年7月下旬Google
+Chrome在每月統計的[市場佔有率未曾下跌](https://zh.wikipedia.org/wiki/市場佔有率 "wikilink")。2011年7月11日，Chrome在英國的市場份額達到22.12%，而[Firefox](../Page/Firefox.md "wikilink")仅占21.65%，這是Chrome首次在地區的統計中超越[Firefox](../Page/Firefox.md "wikilink")。\[40\]2012年5月21日，Chrome在全球范围内占有率達到33%，超越IE位居首位\[41\]，而此紀錄持續時間至今，仍然一直上升，紀錄不斷，2018年7月下旬Google
 Chrome的市場占有率達到67.6%。\[42\]
 
 ### 版本歷史
@@ -179,13 +179,13 @@ Chrome的市場占有率達到67.6%。\[42\]
 ## 性能
 
   - JavaScript
-    利用內置獨立的[JavaScript](../Page/JavaScript.md "wikilink")[虛擬機](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」來提高運行[JavaScript的速度](../Page/JavaScript.md "wikilink")。（通过[即時編譯](../Page/即時編譯.md "wikilink")\[51\][JavaScript代碼为機器碼](../Page/JavaScript.md "wikilink")，内联，类型转换，垃圾收集等特性\[52\]。）
+    利用內置獨立的[JavaScript](../Page/JavaScript.md "wikilink")[虛擬機](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」來提高運行[JavaScript](../Page/JavaScript.md "wikilink")的速度。（通过[即時編譯](../Page/即時編譯.md "wikilink")\[51\][JavaScript](../Page/JavaScript.md "wikilink")代碼为機器碼，内联，类型转换，垃圾收集等特性\[52\]。）
 
 <!-- end list -->
 
   - HTML排版引擎
-    在[Android團隊的建議下](../Page/Android.md "wikilink")，「Google
-    Chrome」使用[WebKit引擎](../Page/WebKit.md "wikilink")。[WebKit簡易小巧](../Page/WebKit.md "wikilink")，並能有效率的運用記憶體，符合[Google理念](../Page/Google.md "wikilink")，並且對新開發者來說相當容易上手。\[53\]但從28.0起，Google以Webkit引擎為基礎，為Chrome開發全新的**[Blink](../Page/Blink.md "wikilink")**引擎，將比現行的Webkit引擎更簡化程式源始碼，並對多進程有更好的支援。Opera瀏覽器也宣佈將支援Blink引擎。
+    在[Android](../Page/Android.md "wikilink")團隊的建議下，「Google
+    Chrome」使用[WebKit](../Page/WebKit.md "wikilink")引擎。[WebKit](../Page/WebKit.md "wikilink")簡易小巧，並能有效率的運用記憶體，符合[Google](../Page/Google.md "wikilink")理念，並且對新開發者來說相當容易上手。\[53\]但從28.0起，Google以Webkit引擎為基礎，為Chrome開發全新的**[Blink](../Page/Blink.md "wikilink")**引擎，將比現行的Webkit引擎更簡化程式源始碼，並對多進程有更好的支援。Opera瀏覽器也宣佈將支援Blink引擎。
 
 <!-- end list -->
 
@@ -303,8 +303,8 @@ Chrome的市場占有率達到67.6%。\[42\]
   - Gears（已停止開發）
     Chrome包含了[Gears](../Page/Gears.md "wikilink")，研發者可利用這項功能製作[網頁應用程式](https://zh.wikipedia.org/wiki/網頁應用程式 "wikilink")（web
     applications，包含離線支援）\[61\]。
-    由於大部份[Gears的功能HTML](../Page/Gears.md "wikilink")
-    5都支援，[Google已停止開發Gears的新功能](../Page/Google.md "wikilink")。
+    由於大部份[Gears](../Page/Gears.md "wikilink")的功能HTML
+    5都支援，[Google](../Page/Google.md "wikilink")已停止開發Gears的新功能。
 
 <!-- end list -->
 
@@ -338,16 +338,16 @@ Chrome的市場占有率達到67.6%。\[42\]
     2009年12月9日，官方「Google Chrome擴充功能中心」（測試版）已有超過300款擴充功能\[63\]。
     隨著4.0穩定版本發佈，官方「Google
     Chrome擴充功能中心」\[64\]在2010年1月25日正式上線，並擁有超過1500款擴充套件\[65\]。
-    2010年5月19日，[Google在](../Page/Google.md "wikilink")[Google
+    2010年5月19日，[Google](../Page/Google.md "wikilink")在[Google
     I/O宣布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")「Chrome
     Web Store」。
     截至2010年6月22日，官方擴充功能中心已有超過5000款擴充功能\[66\]，其中25款為Google官方開發的擴充功能\[67\]。
-    2010年8月19日，[Google宣布官方](../Page/Google.md "wikilink")「Google
+    2010年8月19日，[Google](../Page/Google.md "wikilink")宣布官方「Google
     Chrome擴充功能中心」向開發者註冊費用為一次性收取5美元。開發者在發布擴充功能、主題，以及未來的Web
     Apps之前必須繳納這筆費用。不過如果你在太平洋時間8月19日11:00前已經註冊了開發者帳號的話，可以不用繳交這US$5，不但之前上傳的擴充功能可以繼續維護，新上傳的也是沒有問題的。另外，「Google
-    Chrome擴充功能中心」加入**域名驗證系統**（類似[Twitter官方驗證帳號](../Page/Twitter.md "wikilink")），在新上傳的擴充功能開發者須將他們的作品與[Webmaster
+    Chrome擴充功能中心」加入**域名驗證系統**（類似[Twitter](../Page/Twitter.md "wikilink")官方驗證帳號），在新上傳的擴充功能開發者須將他們的作品與[Webmaster
     Tools中的域名關聯](https://zh.wikipedia.org/wiki/Google網站管理員 "wikilink")\[68\]。
-    2010年8月19日，[Google宣布官方](../Page/Google.md "wikilink")「Google
+    2010年8月19日，[Google](../Page/Google.md "wikilink")宣布官方「Google
     Chrome擴充功能中心」將被「[Chrome Web
     Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")」取代，而中心內的擴充功能將連同官方主題庫內的主題移到「Chrome
     Web Store」\[69\]。
@@ -369,7 +369,7 @@ Chrome的市場占有率達到67.6%。\[42\]
 :;同步功能
 
 ::從4.1版本起，「Google
-Chrome」加入同步功能，將瀏覽器內的資料透過[Google帳戶同步到](https://zh.wikipedia.org/wiki/Google帳戶 "wikilink")[Google文件內](../Page/Google文件.md "wikilink")。
+Chrome」加入同步功能，將瀏覽器內的資料透過[Google帳戶同步到](https://zh.wikipedia.org/wiki/Google帳戶 "wikilink")[Google文件](../Page/Google文件.md "wikilink")內。
 
 ::現時可選擇同步的資料型有：
 
@@ -426,9 +426,9 @@ Chrome」（除正式版本外）加入研究室功能，將未完成或未完�
 [Chromium-3.0.192.0-19918.png](https://zh.wikipedia.org/wiki/File:Chromium-3.0.192.0-19918.png "fig:Chromium-3.0.192.0-19918.png")
 
   - 2008年9月3日發佈的「Google
-    Chrome」第一個測試版已順利通過[Acid1及](../Page/Acid1.md "wikilink")[Acid2測試](../Page/Acid2.md "wikilink")。同時在[Acid3中取得](../Page/Acid3.md "wikilink")78分\[73\]。其後在Google
+    Chrome」第一個測試版已順利通過[Acid1](../Page/Acid1.md "wikilink")及[Acid2](../Page/Acid2.md "wikilink")測試。同時在[Acid3](../Page/Acid3.md "wikilink")中取得78分\[73\]。其後在Google
     Chrome
-    3.0正式版通過[Acid3測試取得滿分](../Page/Acid3.md "wikilink")100分。（2011年9月版本）\[74\]。
+    3.0正式版通過[Acid3](../Page/Acid3.md "wikilink")測試取得滿分100分。（2011年9月版本）\[74\]。
   - 完全通過「[CSS3 Selectors
     Test](http://tools.css3.info/selectors-test/test.html)（2010/06/30版本）」中574項測試\[75\]。
   - 在「[The CSS3

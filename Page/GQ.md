@@ -14,7 +14,7 @@ Magazine
 Award](https://zh.wikipedia.org/wiki/:en:National_Magazine_Award "wikilink")）提名。在尼爾森的任期中，《GQ》的定位變得更傾向年輕讀者與偏愛較為休閒的風格的人。
 
 《GQ》曾經和[都會美型男](https://zh.wikipedia.org/wiki/都會美型男 "wikilink")（metrosexuality）的概念有緊密的關聯。作家馬克·辛普森（[Mark
-Simpson](https://zh.wikipedia.org/wiki/:en:Mark_Simpson_\(journalist\) "wikilink")）在英國的[獨立報上提到他參觀](../Page/獨立報.md "wikilink")《GQ》在倫敦的展覽時，創造了「都會美型」這個字眼：「都會美型風格是由諸如《The
+Simpson](https://zh.wikipedia.org/wiki/:en:Mark_Simpson_\(journalist\) "wikilink")）在英國的[獨立報](../Page/獨立報.md "wikilink")上提到他參觀《GQ》在倫敦的展覽時，創造了「都會美型」這個字眼：「都會美型風格是由諸如《The
 Face》、《GQ》、《时尚先生》、《Arena》、《[FHM](../Page/男人装.md "wikilink")》等雜誌所提倡的，它們是從80年代開始成長的新媒體，而且還在繼續成長中……這些雜誌充滿炫耀著流行服飾的自戀年輕男人形象。它們還說服其他年輕男人帶著既嫉妒又渴望的心情加以效法。」\[3\]
 
 ## 參考資料

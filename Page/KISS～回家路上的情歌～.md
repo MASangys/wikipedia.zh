@@ -1,4 +1,4 @@
-《**KISS～回家路上的情歌～**》為日本音樂組合－[手越增田的第](../Page/手越增田.md "wikilink")2張單曲。在日本、[台灣發售](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+《**KISS～回家路上的情歌～**》為日本音樂組合－[手越增田](../Page/手越增田.md "wikilink")的第2張單曲。在日本、[台灣發售](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@ Web於2007年5月2日～6月3日期間進行了名為「Tego+Masu=☆」的連�
       - 作詞: [zopp](https://zh.wikipedia.org/wiki/zopp "wikilink")、作曲:
         森元康介、編曲:
         [h-wonder](https://zh.wikipedia.org/wiki/h-wonder "wikilink")
-      - 電視動畫《[戀愛情結](../Page/戀愛情結.md "wikilink")》（[TBS](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")）片尾曲、《[RECOMMEN\!](https://zh.wikipedia.org/wiki/RECOMMEN! "wikilink")》（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）2007年5月度片尾曲。以學生的戀愛、初吻等作為主題的愛情敘事曲，歌詞內容也讓人回憶起青春\[1\]\[2\]。歌曲標題也考慮到主題，為追求可愛的語感使用了「Kissu」（）而非「Kiss」（）\[3\]。[錄音時](https://zh.wikipedia.org/wiki/錄音 "wikilink")[手越祐也為以呈現給想像中的女性最有印象的歌詞的情緒](../Page/手越祐也.md "wikilink")，[増田貴久則是以守護眼前的情侶](https://zh.wikipedia.org/wiki/増田貴久 "wikilink")，各自想像情境來演唱這首歌\[4\]。特典DVD收錄的PV是由擔任導演。
+      - 電視動畫《[戀愛情結](../Page/戀愛情結.md "wikilink")》（[TBS](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")）片尾曲、《[RECOMMEN\!](https://zh.wikipedia.org/wiki/RECOMMEN! "wikilink")》（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）2007年5月度片尾曲。以學生的戀愛、初吻等作為主題的愛情敘事曲，歌詞內容也讓人回憶起青春\[1\]\[2\]。歌曲標題也考慮到主題，為追求可愛的語感使用了「Kissu」（）而非「Kiss」（）\[3\]。[錄音時](https://zh.wikipedia.org/wiki/錄音 "wikilink")[手越祐也](../Page/手越祐也.md "wikilink")為以呈現給想像中的女性最有印象的歌詞的情緒，[増田貴久則是以守護眼前的情侶](https://zh.wikipedia.org/wiki/増田貴久 "wikilink")，各自想像情境來演唱這首歌\[4\]。特典DVD收錄的PV是由擔任導演。
 2.  妳＋我＝LOVE？
       - 作詞: zopp、作曲: 飯田建彦、編曲:
         [CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")
@@ -28,7 +28,7 @@ Web於2007年5月2日～6月3日期間進行了名為「Tego+Masu=☆」的連�
       - 作詞: , [Mark
         Davis](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")、作曲:
         [馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")、編曲: 長岡成貢
-      - 《日本全國高中排球選拔優勝大會－第38屆春季高中排球全國大會》（[富士電視台](../Page/富士電視台.md "wikilink")）印象曲、《[世界排球聯賽2007](https://zh.wikipedia.org/wiki/世界排球聯賽 "wikilink")》（富士電視台）片尾曲。為唱出和人繫絆的歌曲\[7\]，使用圓球的競技[排球和歌曲標題相連結](../Page/排球.md "wikilink")，也因適合替高中生們加油而被選為主題曲\[8\]。同大會的抽籤會場及開募時以[無伴奏合唱方式演唱](../Page/無伴奏合唱.md "wikilink")。原本為替小傑尼斯（）作的曲，在決定CD發售以前就已經在演唱會或電視節目上被演唱過。為擔任作曲的馬飼野首次作詞的作品。
+      - 《日本全國高中排球選拔優勝大會－第38屆春季高中排球全國大會》（[富士電視台](../Page/富士電視台.md "wikilink")）印象曲、《[世界排球聯賽2007](https://zh.wikipedia.org/wiki/世界排球聯賽 "wikilink")》（富士電視台）片尾曲。為唱出和人繫絆的歌曲\[7\]，使用圓球的競技[排球](../Page/排球.md "wikilink")和歌曲標題相連結，也因適合替高中生們加油而被選為主題曲\[8\]。同大會的抽籤會場及開募時以[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")方式演唱。原本為替小傑尼斯（）作的曲，在決定CD發售以前就已經在演唱會或電視節目上被演唱過。為擔任作曲的馬飼野首次作詞的作品。
 
 ''' DVD '''
 

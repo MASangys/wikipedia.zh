@@ -1,5 +1,5 @@
 **Adobe
-Contribute**是一種網站內容管理的軟件，目的是促進合作編輯網站。它提供了版本控制和工作流程管理的功能。[Adobe公司宣稱](../Page/Adobe.md "wikilink")，該軟件使用戶能夠編輯網頁但完全不需要具備[HTML的知識](../Page/HTML.md "wikilink")，並且可以很容易地嵌入應用多媒體元件（multimedia
+Contribute**是一種網站內容管理的軟件，目的是促進合作編輯網站。它提供了版本控制和工作流程管理的功能。[Adobe](../Page/Adobe.md "wikilink")公司宣稱，該軟件使用戶能夠編輯網頁但完全不需要具備[HTML](../Page/HTML.md "wikilink")的知識，並且可以很容易地嵌入應用多媒體元件（multimedia
 components）。由於此軟件降低了設計網站所需的技術要求，讓組織中各種人都可以更新網頁。该软件从CS5.5版本开始从来没有开发过了。
 
 ## 語言

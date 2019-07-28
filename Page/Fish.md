@@ -7,10 +7,10 @@ Shell](../Page/C_Shell.md "wikilink")，故被分类为一种“外来”shell�
 
 fish能根据用户的输入历史与当前所在的目录提供实时的[自动完成](../Page/自动完成.md "wikilink")。与[bash的类似功能](https://zh.wikipedia.org/wiki/bash "wikilink")历史搜索相比，这种不必频繁切换模式还可以用方向键选择建议项的做法使用户能更流畅地进行输入。
 
-fish也拥有功能丰富的Tab补全功能。fish能够自动补全文件路径、变量与不少命令的参数，且支持路径[通配符与C](../Page/通配符.md "wikilink")
+fish也拥有功能丰富的Tab补全功能。fish能够自动补全文件路径、变量与不少命令的参数，且支持路径[通配符](../Page/通配符.md "wikilink")与C
 shell的花括号展开。fish某种意义上会通过分析命令的man文档生成与之相关的补全。
 
-fish倾向于使用命令来代替语法结构。由于命令相比语法结构能更方便地在shell内查到帮助内容，fish的功能很容易在使用过程中被用户自行发现。fish允许[子程序提供对自己的说明](../Page/子程序.md "wikilink")，进一步免去了来回查找帮助的麻烦。fish还允许用户在拥有[图形用户界面的](../Page/图形用户界面.md "wikilink")[浏览器内查看帮助](../Page/网页浏览器.md "wikilink")。
+fish倾向于使用命令来代替语法结构。由于命令相比语法结构能更方便地在shell内查到帮助内容，fish的功能很容易在使用过程中被用户自行发现。fish允许[子程序](../Page/子程序.md "wikilink")提供对自己的说明，进一步免去了来回查找帮助的麻烦。fish还允许用户在拥有[图形用户界面](../Page/图形用户界面.md "wikilink")的[浏览器内查看帮助](../Page/网页浏览器.md "wikilink")。
 
 ## 语法
 
@@ -81,7 +81,7 @@ bar
 
 ### 没有子shell
 
-其他shell的部分语法结构，例如[管道](../Page/管道_\(Unix\).md "wikilink")、[子程序与](../Page/子程序.md "wikilink")[循环](../Page/迴圈.md "wikilink")，是使用一种称为子shell的方式实现的。所谓子shell即临时执行一个用完即退出的新的子进程。在子shell中执行的修改通常不符合一般人的直觉地，不会反映到真正的shell上（即没有[函数副作用](../Page/函数副作用.md "wikilink")）。fish不依赖于子shell实现其语法结构，故所有内置命令在任何语境下都是会正常运作的。
+其他shell的部分语法结构，例如[管道](../Page/管道_\(Unix\).md "wikilink")、[子程序](../Page/子程序.md "wikilink")与[循环](../Page/迴圈.md "wikilink")，是使用一种称为子shell的方式实现的。所谓子shell即临时执行一个用完即退出的新的子进程。在子shell中执行的修改通常不符合一般人的直觉地，不会反映到真正的shell上（即没有[函数副作用](../Page/函数副作用.md "wikilink")）。fish不依赖于子shell实现其语法结构，故所有内置命令在任何语境下都是会正常运作的。
 
 ``` fish
 # 相当多的shell会将read在单独的子shell中执行，所以如下语句在他们中无法按预期工作。
@@ -195,11 +195,11 @@ Fish有一个名为通用变量的功能。通过利用通用变量，用户可�
 
   - [项目主页](http://fishshell.org)
 
-  - [GitHub上的](../Page/GitHub.md "wikilink")[fish](https://github.com/fish-shell/fish-shell)仓库
+  - [GitHub](../Page/GitHub.md "wikilink")上的[fish](https://github.com/fish-shell/fish-shell)仓库
 
   - 上的[fish](https://web.archive.org/web/20110726104750/http://gitorious.org/fish-shell/)仓库（不再使用）
 
-  - [SourceForge上的](../Page/SourceForge.md "wikilink")[fish](http://sourceforge.net/projects/fish/)仓库（不再使用）
+  - [SourceForge](../Page/SourceForge.md "wikilink")上的[fish](http://sourceforge.net/projects/fish/)仓库（不再使用）
 
   - [Fish-users](https://lists.sourceforge.net/lists/listinfo/fish-users)
     - fish用户的综合讨论列表

@@ -1,11 +1,11 @@
 [Windows
 7基於](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows
-Vista核心上](../Page/Windows_Vista.md "wikilink")，仍包含了許多的新功能。並且改進了觸控的方便性、[語音辨識和手寫輸入](https://zh.wikipedia.org/wiki/語音識別 "wikilink")、支持虚拟硬盘、更多的[檔案格式並且提高](../Page/檔案格式.md "wikilink")[多核心](https://zh.wikipedia.org/wiki/多核心 "wikilink")[中央處理器的效能](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")\[1\]、加快[启动速度以及核心上改进](https://zh.wikipedia.org/wiki/開機 "wikilink")。
+Vista核心上](../Page/Windows_Vista.md "wikilink")，仍包含了許多的新功能。並且改進了觸控的方便性、[語音辨識和手寫輸入](https://zh.wikipedia.org/wiki/語音識別 "wikilink")、支持虚拟硬盘、更多的[檔案格式](../Page/檔案格式.md "wikilink")並且提高[多核心](https://zh.wikipedia.org/wiki/多核心 "wikilink")[中央處理器的效能](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")\[1\]、加快[启动速度以及核心上改进](https://zh.wikipedia.org/wiki/開機 "wikilink")。
 
 ## 使用者介面
 
 Windows 7仍保留了在Windows Vista中首次引入的[Windows
-Aero](../Page/Windows_Aero.md "wikilink")[用户界面以及視覺樣式](../Page/用户界面.md "wikilink")，但是有許多地方都得到改進。
+Aero](../Page/Windows_Aero.md "wikilink")[用户界面](../Page/用户界面.md "wikilink")以及視覺樣式，但是有許多地方都得到改進。
 
 ### 桌面
 
@@ -15,7 +15,7 @@ Aero](../Page/Windows_Aero.md "wikilink")[用户界面以及視覺樣式](../Pag
 
 Windows 7增進了對佈景主題的支援。除了可以設定視窗的颜色、螢幕保護程式、桌面背景、桌面圖示、音效設定、滑鼠指標以外，Windows
 7的佈景主題還包括了桌面投影片設定。所有的設定可以從新的「个性化」控制界面進行控制，同时也可以从微软网站上下載並安裝更多的佈景主题。佈景主題主要是副檔名為`.themepack`的壓縮文件，`.themepack`內可以包含音效、桌面圖示和滑鼠指標文件。\[2\]在Windows
-7中打開這種類型的文件時，會自動更換佈景主題，同時播放該佈景主題的Windows登入音效。另外也可以從[RSS訂閱中取得桌面背景的更新](../Page/RSS.md "wikilink")。
+7中打開這種類型的文件時，會自動更換佈景主題，同時播放該佈景主題的Windows登入音效。另外也可以從[RSS](../Page/RSS.md "wikilink")訂閱中取得桌面背景的更新。
 
 系統預設主題的名稱為「Windows 7」，由一张藍色為基調，並以Windows標誌为主题的桌面背景「Harmony」和与Windows
 Vista相同的系統音效配置。並有6個Aero主題：建築、動漫人物、風景、自然、場景，和一個在安裝作業系統時所選擇區域的地區性佈景主題，某些區域的佈景主題是包含在該國語言套件內的，這些地區性的佈景主題會以當地的特色風景作為桌面背景；如中國有[萬里長城的桌面背景](https://zh.wikipedia.org/wiki/萬里長城 "wikilink")、台灣有[太魯閣等風景](https://zh.wikipedia.org/wiki/太魯閣 "wikilink")、日本則有[櫻花的桌面背景](https://zh.wikipedia.org/wiki/櫻花 "wikilink")。選擇這些佈景主題時，也會搭配地區性風格設置音效，分別是：三角形、热带大草原、下午、反覆無常、拉伽音樂、群花争艳、都市风景、奏鳴曲、風景、特色、书法、节日、遺跡。
@@ -55,7 +55,7 @@ Windows
 搜尋是一個在Windows Vista已有大量改進的功能，現在Windows
 7又做出更多的改進。建議搜尋是一個使用者會最先發現到的功能，這個功能在於使用者點下檔案總管中的搜尋方塊時，搜尋方塊下方會跳出一個選單，顯示最近存取的檔案；或是當輸入關鍵字到一半時，就會跳出使用者最近存取且可能想要的檔案名稱。例如要輸入「Windows」，-{只}-要輸入到「Win」，選單就會跳出完整的「Windows」關鍵字，這時候-{只}-要點選一下就可以了，不需要將完整的關鍵字輸入完畢。結果還會以強調醒目的色彩來標示輸入的關鍵字在檔案名稱或內容中的何處。
 
-檔案總管還支援以多種方式來搜尋所需要的項目，可以從開始功能表搜尋常用的檔案及程式，也可以搜尋媒體櫃的內容，甚至能用篩選的方式或是將搜尋的範圍擴展至特定的媒體櫃或資料夾，或是建立一個[YouTube](../Page/YouTube.md "wikilink")、[Bing或是](../Page/Bing.md "wikilink")[Flickr的搜尋連接器將範圍延伸至](../Page/Flickr.md "wikilink")[網際網路上](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
+檔案總管還支援以多種方式來搜尋所需要的項目，可以從開始功能表搜尋常用的檔案及程式，也可以搜尋媒體櫃的內容，甚至能用篩選的方式或是將搜尋的範圍擴展至特定的媒體櫃或資料夾，或是建立一個[YouTube](../Page/YouTube.md "wikilink")、[Bing](../Page/Bing.md "wikilink")或是[Flickr](../Page/Flickr.md "wikilink")的搜尋連接器將範圍延伸至[網際網路上](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
 
 要使用媒體櫃以及搜尋的這些功能以前，這些項目都應該確切的加入Windows
 7索引服務中。檔案總管會自動幫本機的媒體櫃項目加入索引，遠端主機的資料夾則可能需要手動處理。若是索引服務關閉，搜尋的速度會大大降低，且搜尋篩選器以及媒體櫃的依檔案屬性排列將無法使用。
@@ -205,7 +205,7 @@ Windows Vista時遭到批評仍然沿襲[Windows
   - 裝置舞台
 
 [Windows_7_-_Device_Stage_(Sansa_e250).png](https://zh.wikipedia.org/wiki/File:Windows_7_-_Device_Stage_\(Sansa_e250\).png "fig:Windows_7_-_Device_Stage_(Sansa_e250).png")的裝置舞台選項。\]\]
-裝置舞台是一個提供使用者集中管理外接多功能裝置的地方，假如插入了一個[可攜式媒體播放器並連接到系統](../Page/可攜式媒體播放器.md "wikilink")，馬上就會顯示裝置的圖示在工作列上，當然Windows檔案總管內也會出現。
+裝置舞台是一個提供使用者集中管理外接多功能裝置的地方，假如插入了一個[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")並連接到系統，馬上就會顯示裝置的圖示在工作列上，當然Windows檔案總管內也會出現。
 
 Windows
 7還提供受歡迎的裝置的高解析度圖示，而且當它們無法被辨識時，仍支援從[網際網路上取得這些裝置的圖片](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。點下這些圖示後，會開啟一個視窗提供裝置的相關功能。當連接一個[微軟建議的相容於裝置舞台的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")，就能夠提供雙向同步的選項，像是設定鈴聲、複製圖片及視訊、或是在[Windows
@@ -233,7 +233,7 @@ SmartScreen篩選及防範網路釣魚攻擊、線上詐欺和詐騙網站；InP
 
 [小畫家等編輯類程式現已採如同](https://zh.wikipedia.org/wiki/小畫家 "wikilink")[Microsoft
 Office
-2007般的](../Page/Microsoft_Office_2007.md "wikilink")[Ribbon使用者介面](../Page/Ribbon.md "wikilink")，以及提供了更多的筆刷、還有簡單幾何圖形可供繪製。
+2007般的](../Page/Microsoft_Office_2007.md "wikilink")[Ribbon](../Page/Ribbon.md "wikilink")使用者介面，以及提供了更多的筆刷、還有簡單幾何圖形可供繪製。
 
   - WordPad
 
@@ -302,7 +302,7 @@ Direct3D
 
 ### 桌面視窗管理員
 
-在Windows Vista中首次使用的的[桌面視窗管理員在Windows](../Page/桌面視窗管理員.md "wikilink")
+在Windows Vista中首次使用的的[桌面視窗管理員](../Page/桌面視窗管理員.md "wikilink")在Windows
 7中被升级至使用Direct3D 10.1的應用程式介面，同時它的效能明顯增強了許多。
 
 但是桌面視窗管理員仍需要至少相容於Direct3D 9的显卡，它可以使用低規格無法顯示Windows Vista的Aero
@@ -334,7 +334,7 @@ Windows
   - [網路驅動程式介面規範](https://zh.wikipedia.org/wiki/網路驅動程式介面規範 "wikilink")6.20
   - 支援無線[廣域網](https://zh.wikipedia.org/wiki/廣域網 "wikilink")，如同預設[WiFi在Windows](https://zh.wikipedia.org/wiki/WiFi "wikilink")
     Vista中。
-  - 支援[AVCHD攝影機以及通用視訊類別](../Page/AVCHD.md "wikilink")1.1
+  - 支援[AVCHD](../Page/AVCHD.md "wikilink")攝影機以及通用視訊類別1.1
   - 受保護的電視卡廣播驅動架構
   - 支援最多256個邏輯處理器\[24\]
   - 較少的硬體鎖以及更大的並行
@@ -347,9 +347,9 @@ Windows
 
   - 多功能裝置以及裝置容器：在Windows
     7之前，連線到作業系統的每個裝置只會被當成單一功能的用戶端來看待，即是「一個裝置節點」，他有一整套功能以及「狀態」。假如這是一個有著個別單功能的裝置（例如鍵盤與掃描器）時，它無法精確的被表示為像多功能印表機、傳真機、掃描器等多功能裝置，或是一個內建麥克風的網路攝影機。在Windows
-    7中，多功能裝置的驅動程式以及狀態資訊可以被整合在同一個「裝置容器」，它會為在「裝置及印表機」控制台顯示為單一個單位。這項功能是藉由新的[隨插即用特徵來達成](../Page/隨插即用.md "wikilink")：`ContainerID`，它是一個全域唯一識別碼，每種裝置都會有不同的全域唯一識別碼，這個容器辨識碼可能是被製造商置入在裝置自身中，或是由Windows在裝置第一次連接到電腦時建立，接續連結到每一個裝置節點。為了保證容器辨識碼的獨一無二，Windows會嘗試使用裝置獨特的資訊，例如[MAC地址或者是USB編號](../Page/MAC地址.md "wikilink")。所以，當裝置通過USB（直接連結或是通過USB集線器）、[IEEE
+    7中，多功能裝置的驅動程式以及狀態資訊可以被整合在同一個「裝置容器」，它會為在「裝置及印表機」控制台顯示為單一個單位。這項功能是藉由新的[隨插即用](../Page/隨插即用.md "wikilink")特徵來達成：`ContainerID`，它是一個全域唯一識別碼，每種裝置都會有不同的全域唯一識別碼，這個容器辨識碼可能是被製造商置入在裝置自身中，或是由Windows在裝置第一次連接到電腦時建立，接續連結到每一個裝置節點。為了保證容器辨識碼的獨一無二，Windows會嘗試使用裝置獨特的資訊，例如[MAC地址](../Page/MAC地址.md "wikilink")或者是USB編號。所以，當裝置通過USB（直接連結或是通過USB集線器）、[IEEE
     1394火線](../Page/IEEE_1394.md "wikilink")、[eSATA](https://zh.wikipedia.org/wiki/eSATA "wikilink")、[PCI
-    Express](../Page/PCI_Express.md "wikilink")、[藍牙或是Windows](../Page/藍牙.md "wikilink")
+    Express](../Page/PCI_Express.md "wikilink")、[藍牙](../Page/藍牙.md "wikilink")或是Windows
     Rally技術連接到電腦，都可以使用裝置容器。\[26\]
 
 <!-- end list -->
@@ -452,7 +452,7 @@ kbit/s位元傳輸率的低複雜立體聲的ACC文件。
 舊版中的[資訊安全中心已經移除](https://zh.wikipedia.org/wiki/Windows資訊安全中心 "wikilink")，且新增了一個名為行動作業中心的功能（在早些的組建裡稱為Windows
 Health Center及Windows Solution
 Center），能顯示並處理電腦系統安全及維護相關訊息。它是所有计算机重大问题解决和维护的行动中心，是一个查看警报和执行操作的中心位置，帮助保持系統稳定地运行。它包括“安全性”、“维护”两大板块。
-用户可以通过點選位於通知區域的图标或者在[开始菜单](https://zh.wikipedia.org/wiki/开始菜单 "wikilink")、[控制面板搜索进入操作中心](../Page/控制面板.md "wikilink")。在行動作業中心裡，重要的紧急事件将会用红色、黄色列出。用户可以非常方便的解决包括安全和计算机维护的问题。比如恶意软件清除、安全软件安装和更新等信息。当计算机出现问题，所有的提醒事件會在通知區域的圖示上顯示。
+用户可以通过點選位於通知區域的图标或者在[开始菜单](https://zh.wikipedia.org/wiki/开始菜单 "wikilink")、[控制面板](../Page/控制面板.md "wikilink")搜索进入操作中心。在行動作業中心裡，重要的紧急事件将会用红色、黄色列出。用户可以非常方便的解决包括安全和计算机维护的问题。比如恶意软件清除、安全软件安装和更新等信息。当计算机出现问题，所有的提醒事件會在通知區域的圖示上顯示。
 
 ### 用户账户控制
 
@@ -486,7 +486,7 @@ R2提供對於[DNS安全性擴充](https://zh.wikipedia.org/wiki/DNS安全性擴
 [File-PowerShell_ISE_on_Windows_7.png](https://zh.wikipedia.org/wiki/File:File-PowerShell_ISE_on_Windows_7.png "fig:File-PowerShell_ISE_on_Windows_7.png")整合式指令碼環境（ISE）\]\]
 根據Computerworld的文章，新的Windows 7管理系統功能包含\[48\]：
 
-  - [DirectAccess](../Page/DirectAccess.md "wikilink")：一項建立在[IPv6以及](../Page/IPv6.md "wikilink")[IPsec上的](../Page/IPsec.md "wikilink")[VPN通道技術](https://zh.wikipedia.org/wiki/VPN "wikilink")，此功能能使外部網路的使用者不必再建立VPN連線，安全的從網際網路直接存取內部網路中的資源。DirectAccess需要具備IPv6的連線能力、已經加入網域的機器、以及一台或多台執行Windows
+  - [DirectAccess](../Page/DirectAccess.md "wikilink")：一項建立在[IPv6](../Page/IPv6.md "wikilink")以及[IPsec](../Page/IPsec.md "wikilink")上的[VPN通道技術](https://zh.wikipedia.org/wiki/VPN "wikilink")，此功能能使外部網路的使用者不必再建立VPN連線，安全的從網際網路直接存取內部網路中的資源。DirectAccess需要具備IPv6的連線能力、已經加入網域的機器、以及一台或多台執行Windows
     Server 2008 R2的DirectAccess伺服器，且至少需要一台執行Windows Server 2008
     R2的網域控制器有PKI提供憑證。\[49\]
   - [BranchCache](https://zh.wikipedia.org/wiki/BranchCache "wikilink")：Windows
@@ -507,11 +507,11 @@ R2提供對於[DNS安全性擴充](https://zh.wikipedia.org/wiki/DNS安全性擴
 
 <!-- end list -->
 
-  - 現在有很多新的項目被加入了[控制面板的傳統圖示檢視](../Page/控制面板.md "wikilink")：[ClearType文字調整工具](../Page/ClearType.md "wikilink")、桌面小工具、系統還原、疑難排解、位置和其他感應器、認證管理員、生物識別裝置、系統圖示、行動作業中心以及顯示。\[51\]
+  - 現在有很多新的項目被加入了[控制面板](../Page/控制面板.md "wikilink")的傳統圖示檢視：[ClearType](../Page/ClearType.md "wikilink")文字調整工具、桌面小工具、系統還原、疑難排解、位置和其他感應器、認證管理員、生物識別裝置、系統圖示、行動作業中心以及顯示。\[51\]
 
 <!-- end list -->
 
-  - [資源監視器有了數種新功能](../Page/資源監視器.md "wikilink")，包含改善的記憶體使用量顯示、[TCP/IP接聽埠的顯示](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")、過濾具有網路活動的處理程序、過濾具有磁碟活動的處理程序，以及接聽或搜尋處理程序句柄。
+  - [資源監視器](../Page/資源監視器.md "wikilink")有了數種新功能，包含改善的記憶體使用量顯示、[TCP/IP接聽埠的顯示](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")、過濾具有網路活動的處理程序、過濾具有磁碟活動的處理程序，以及接聽或搜尋處理程序句柄。
 
 <!-- end list -->
 
@@ -526,7 +526,7 @@ R2提供對於[DNS安全性擴充](https://zh.wikipedia.org/wiki/DNS安全性擴
 
 <!-- end list -->
 
-  - 新增「Gabriola」字型。\[55\]同時在[WordPad支援](../Page/WordPad.md "wikilink")[Office
+  - 新增「Gabriola」字型。\[55\]同時在[WordPad](../Page/WordPad.md "wikilink")支援[Office
     Open
     XML以及](../Page/Office_Open_XML.md "wikilink")[ODF](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")。\[56\]
 

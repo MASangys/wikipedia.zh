@@ -7,9 +7,9 @@
 2007年6月7日正式出道，首張專輯《Cheerful
 Sensibility》在2007年6月8日發行，為當年韓國銷量排行第六的專輯，以新人之姿橫掃韓國10項音樂大獎。
 
-2009年1月，成員[吳元斌退出](../Page/吳元斌.md "wikilink")，隨後加入新成員[宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")。
+2009年1月，成員[吳元斌](../Page/吳元斌.md "wikilink")退出，隨後加入新成員[宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")。
 
-2009年正式成立子團體FT.triple，由團員[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[崔敏煥所組成](../Page/崔敏煥.md "wikilink")。
+2009年正式成立子團體FT.triple，由團員[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[崔敏煥](../Page/崔敏煥.md "wikilink")所組成。
 
 2009年榮任「首爾東海奉仕團」宣傳大使，並榮獲「韓流觀光之夜 韓國觀光公社」功勞獎。
 
@@ -654,6 +654,12 @@ LineData =
 | 2019年5月4日  | 兵庫站       | ワールド記念ホール（神戸ポートアイランドホール） |
 | 2019年5月5日  | 兵庫站       | ワールド記念ホール（神戸ポートアイランドホール） |
 |            |           |                          |
+
+  - 2019 FTISLAND LIVE \[II\]
+
+| 日期            | 演唱會站次 | 舉行地點       |
+| ------------- | ----- | ---------- |
+| 2019年6月29、30日 | 首爾場   | 高麗大學 化汀體育館 |
 
   - 2019 FTISLAND JAPAN ENCORE LIVE -ARIGATO-
 

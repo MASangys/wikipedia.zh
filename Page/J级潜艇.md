@@ -3,7 +3,7 @@ Class，另“茱莉叶级”、“朱莉叶级”）**是苏联研制的第一�
 
 ## 历史
 
-1940年代后期，1950年代，[冷战逐步升级](../Page/冷战.md "wikilink")，[苏联面对](../Page/苏联.md "wikilink")[英](https://zh.wikipedia.org/wiki/英国 "wikilink")[美的强大海军](../Page/美国.md "wikilink")，尤其是西方强大的水面舰艇部队显然有非常大的差距。当时的苏联海军以及苏共相关高层为了弥补海上的巨大差距提出了将[导弹技术与](../Page/导弹.md "wikilink")[潜艇结合](https://zh.wikipedia.org/wiki/潜艇 "wikilink")，以[巡航导弹](../Page/巡航导弹.md "wikilink")[饱和攻击对抗西方的水面舰艇优势](https://zh.wikipedia.org/wiki/饱和攻击 "wikilink")。由于制导打击移动物体是当时无论东西方都并不成熟的技术，更何况当时英美海军的高速战船能达到25\~30[节的速度](https://zh.wikipedia.org/wiki/节 "wikilink")。这个理论在当时就因不成熟而仅仅作为尝试，并未成为当时苏联的正式战略。但后来由于苏联[核弹的成功试爆以及苏联核导弹的成功研制](https://zh.wikipedia.org/wiki/核弹 "wikilink")，将这个理论又搬上了台面。尤其是核弹的强大威力和广阔的覆盖面，可以弥补制导打击高速移动物体技术的缺失。
+1940年代后期，1950年代，[冷战](../Page/冷战.md "wikilink")逐步升级，[苏联](../Page/苏联.md "wikilink")面对[英](https://zh.wikipedia.org/wiki/英国 "wikilink")[美的强大海军](../Page/美国.md "wikilink")，尤其是西方强大的水面舰艇部队显然有非常大的差距。当时的苏联海军以及苏共相关高层为了弥补海上的巨大差距提出了将[导弹](../Page/导弹.md "wikilink")技术与[潜艇结合](https://zh.wikipedia.org/wiki/潜艇 "wikilink")，以[巡航导弹](../Page/巡航导弹.md "wikilink")[饱和攻击对抗西方的水面舰艇优势](https://zh.wikipedia.org/wiki/饱和攻击 "wikilink")。由于制导打击移动物体是当时无论东西方都并不成熟的技术，更何况当时英美海军的高速战船能达到25\~30[节的速度](https://zh.wikipedia.org/wiki/节 "wikilink")。这个理论在当时就因不成熟而仅仅作为尝试，并未成为当时苏联的正式战略。但后来由于苏联[核弹的成功试爆以及苏联核导弹的成功研制](https://zh.wikipedia.org/wiki/核弹 "wikilink")，将这个理论又搬上了台面。尤其是核弹的强大威力和广阔的覆盖面，可以弥补制导打击高速移动物体技术的缺失。
 
 1957年，苏联海军将一部分[W级潜艇改装作为巡航导弹发射型号](https://zh.wikipedia.org/wiki/W级潜艇 "wikilink")，并获得了预期的成功。后苏联高层最终决定发展[巡航导弹潜艇](../Page/巡航导弹潜艇.md "wikilink")（或称飞航导弹潜艇）。J级就是基于这个历史背景而研制的第一级巡航导弹潜艇。
 

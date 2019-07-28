@@ -57,6 +57,6 @@
 ## 車輛
 
   - [Duple
-    Metsec](https://zh.wikipedia.org/wiki/Duple_Metsec "wikilink")，[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[公共汽車車身廠商的簡寫](../Page/公共汽車.md "wikilink")
+    Metsec](https://zh.wikipedia.org/wiki/Duple_Metsec "wikilink")，[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[公共汽車](../Page/公共汽車.md "wikilink")車身廠商的簡寫
   - [香港](../Page/香港.md "wikilink")[九龙巴士车队之中的](https://zh.wikipedia.org/wiki/九龙巴士 "wikilink")[丹尼士統治者型号巴士的车队编号](https://zh.wikipedia.org/wiki/丹尼士統治者 "wikilink")
   - [香港](../Page/香港.md "wikilink")[中華巴士车队之中的](https://zh.wikipedia.org/wiki/中華巴士 "wikilink")[丹尼士禿鷹巴士](https://zh.wikipedia.org/wiki/丹尼士禿鷹 "wikilink")(11米版本，1990年出廠)的车队编号

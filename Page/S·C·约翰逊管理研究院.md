@@ -13,7 +13,7 @@ fund对冲基金），并且学校有90个企业伙伴。
 
 约翰逊管理研究生学院现有2个EMBA项目。建于1999年的康奈尔EMBA项目是一个坐落在纽约市以北25公里的Palisades区（IBM总部）的高管MBA硕士项目，这个项目的教室就是IBM现在使用的高管培训中心。2005年新创立的Cornell-Queen's
 Executive MBA program
-康奈尔皇后大学合作EMBA项目，是和[加拿大排名第一的皇后大学联合创立的创新跨国跨区EMBA项目](../Page/加拿大.md "wikilink")。此新项目由6-8人组成的团队跨地区协作进行。此外，学院还有博士生项目。
+康奈尔皇后大学合作EMBA项目，是和[加拿大](../Page/加拿大.md "wikilink")排名第一的皇后大学联合创立的创新跨国跨区EMBA项目。此新项目由6-8人组成的团队跨地区协作进行。此外，学院还有博士生项目。
 
 ### 双学位项目
 
@@ -45,7 +45,7 @@ Executive MBA program
 
   - [Robert J.
     Swieringa](https://zh.wikipedia.org/wiki/Robert_J._Swieringa "wikilink")
-    - 学院前任院长、[通用电气董事会成员](../Page/通用电气.md "wikilink")
+    - 学院前任院长、[通用电气](../Page/通用电气.md "wikilink")董事会成员
   - [Robert H.
     Frank](https://zh.wikipedia.org/wiki/Robert_H._Frank "wikilink") -
     必修课经济学教授。畅销书"Winner Take All Society"的作者，纽约时报NY
@@ -75,23 +75,23 @@ Executive MBA program
     [艾默生](https://zh.wikipedia.org/wiki/艾默生 "wikilink") 亚洲董事会主席
     (已退休)
   - Barbara Novick,
-    EMBA，BA经济学学士，世界最大资产管理公司“[貝萊德BlackRock](../Page/貝萊德.md "wikilink")”创始人之一，副总裁co-founder
+    EMBA，BA经济学学士，世界最大资产管理公司“[貝萊德](../Page/貝萊德.md "wikilink")BlackRock”创始人之一，副总裁co-founder
     and vice-chairman
   - [David
     Duffield](https://zh.wikipedia.org/wiki/David_Duffield "wikilink"),
     MBA '62 -
     [PeopleSoft创始人](https://zh.wikipedia.org/wiki/PeopleSoft "wikilink")
   - James C. Morgan, MBA '63 -
-    [应用材料公司董事会主席](../Page/应用材料.md "wikilink");
+    [应用材料](../Page/应用材料.md "wikilink")公司董事会主席;
     曾任CEO，自1977到2003.
   - Corazon de la Paz, MBA’65 – 菲律宾社会安全系统 (SSS)总裁.
   - Warren Staley, MBA '67 -
     美国最大私人公司[Cargill总裁](https://zh.wikipedia.org/wiki/Cargill "wikilink");
     小布什总统班子出口委员会成员
   - Robert Sullivan '68 -
-    [聖地牙哥加利福尼亞大學商学院院长](../Page/聖地牙哥加利福尼亞大學.md "wikilink")\[1\]
+    [聖地牙哥加利福尼亞大學](../Page/聖地牙哥加利福尼亞大學.md "wikilink")商学院院长\[1\]
   - Thomas A. Russo, MBA '69 -
-    [雷曼兄弟首席法律总管和董事会副主席](../Page/雷曼兄弟.md "wikilink")
+    [雷曼兄弟](../Page/雷曼兄弟.md "wikilink")首席法律总管和董事会副主席
   - Jeffrey Parker (B.S. 1965, M ENG '66, MBA '70) - FirstCall
     Corporation创始人 ; [Thomson
     Financial汤普逊财经首席执行官](https://zh.wikipedia.org/wiki/Thomson_Financial汤普逊财经 "wikilink")
@@ -117,7 +117,7 @@ Executive MBA program
   - Jeff Berg, ORIE '79, '80, MBA '81 - COO (retired),
     [PRTM首席运营官](https://zh.wikipedia.org/wiki/PRTM "wikilink")
   - Jonathan E. Beyman, MBA '81 -
-    [雷曼兄弟副总裁](../Page/雷曼兄弟.md "wikilink")、首席情报官
+    [雷曼兄弟](../Page/雷曼兄弟.md "wikilink")副总裁、首席情报官
   - Byron Grote, MS '76, PhD '81 -
     [英国石油财务总监](https://zh.wikipedia.org/wiki/BP_plc "wikilink")
   - Andrew Baer, MBA '82 -

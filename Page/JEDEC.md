@@ -6,9 +6,9 @@ Solid State Technology Association）。
 ## 起源
 
 JEDEC在20世纪初曾经是联合电子管工程委员会（Joint Electron Tube Engineering
-Council），它为[电子管制定标准](../Page/真空管.md "wikilink")，编码并统一型号。随着[晶体管的发明](../Page/晶体管.md "wikilink")，半导体工业界需要一个统一的标准制定和管理者，1958年，[电子工业联盟](https://zh.wikipedia.org/wiki/电子工业联盟 "wikilink")（EIA）和[美國電氣製造商協會](../Page/美國電氣製造商協會.md "wikilink")（NEMA）联合成立了JEDEC来开发半导体器件标准（NEMA于1979年退出）。
+Council），它为[电子管制定标准](../Page/真空管.md "wikilink")，编码并统一型号。随着[晶体管](../Page/晶体管.md "wikilink")的发明，半导体工业界需要一个统一的标准制定和管理者，1958年，[电子工业联盟](https://zh.wikipedia.org/wiki/电子工业联盟 "wikilink")（EIA）和[美國電氣製造商協會](../Page/美國電氣製造商協會.md "wikilink")（NEMA）联合成立了JEDEC来开发半导体器件标准（NEMA于1979年退出）。
 
-JEDEC早期的工作是制定半导体器件编码，保证厂商之间产品的互换性。很多[二极管和](https://zh.wikipedia.org/wiki/二极管 "wikilink")[三极管至今仍在使用JEDEC的编号](https://zh.wikipedia.org/wiki/双极性晶体管 "wikilink")。JEDEC也曾经制定了[集成电路的编码系统](../Page/集成电路.md "wikilink")，但是没有能够被厂商广泛接受。
+JEDEC早期的工作是制定半导体器件编码，保证厂商之间产品的互换性。很多[二极管和](https://zh.wikipedia.org/wiki/二极管 "wikilink")[三极管至今仍在使用JEDEC的编号](https://zh.wikipedia.org/wiki/双极性晶体管 "wikilink")。JEDEC也曾经制定了[集成电路](../Page/集成电路.md "wikilink")的编码系统，但是没有能够被厂商广泛接受。
 
 ## JEDEC文檔
 

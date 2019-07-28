@@ -1,13 +1,13 @@
 [Taipei_West_Bus_Station_Terminal_A_inside_2.jpg](https://zh.wikipedia.org/wiki/File:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg "fig:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg")
 **臺北西站A棟**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：Taipei
 West Bus Station Terminal
-A）另有一誤用的名字**交六轉運站**\[1\]、**臺北西A站**或**臺北Ａ站**\[2\]），位於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")、[臺北車站特定專用區交通六號用地東南角](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[臺北市主要的](../Page/臺北市.md "wikilink")[公路長途客運](../Page/臺灣汽車客運.md "wikilink")（國道客運）車站之一，其前身為臺北東站、臺北北站及國道客運臺北總站。為了配合[臺北市政府的](../Page/臺北市政府.md "wikilink")[西區門戶計畫](http://tpstation.com.tw/)，在2016年10月30日停止使用、並將予以拆除\[3\]\[4\]。
+A，另有一誤用的名字**交六轉運站**\[1\]、**臺北西A站**或**臺北Ａ站**\[2\]），位於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")、[臺北車站特定專用區交通六號用地東南角](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[臺北市](../Page/臺北市.md "wikilink")主要的[公路長途客運](../Page/臺灣汽車客運.md "wikilink")（國道客運）車站之一，其前身為臺北東站、臺北北站及國道客運臺北總站。為了配合[臺北市政府](../Page/臺北市政府.md "wikilink")的[西區門戶計畫](http://tpstation.com.tw/)，在2016年10月30日停止使用、並將予以拆除\[3\]\[4\]。
 
 ## 概要
 
 ### 臺北東站時期
 
-原址位於天成大飯店後方、今[臺鐵](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")[臺北車站行李房一帶](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[公路局](https://zh.wikipedia.org/wiki/交通部公路總局 "wikilink")、[臺汽客運之臺北東站](https://zh.wikipedia.org/wiki/臺汽客運 "wikilink")，於[臺北市區鐵路地下化時搬至原為第三代](../Page/臺北鐵路地下化專案.md "wikilink")[臺北車站前方噴水池的現址並改為臺北西站](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")（今[臺北西站B棟](../Page/臺北西站B棟.md "wikilink")）下轄，並伴隨[臺汽客運民營化改為](https://zh.wikipedia.org/wiki/臺汽客運 "wikilink")[國光客運臺北東站](../Page/國光客運.md "wikilink")。2009年10月27日起封閉改建，原由此站發車的路線暫時改由[國光客運臺北西站發車](../Page/國光客運.md "wikilink")。
+原址位於天成大飯店後方、今[臺鐵](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")[臺北車站行李房一帶](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[公路局](https://zh.wikipedia.org/wiki/交通部公路總局 "wikilink")、[臺汽客運之臺北東站](https://zh.wikipedia.org/wiki/臺汽客運 "wikilink")，於[臺北市區鐵路地下化時搬至原為第三代](../Page/臺北鐵路地下化專案.md "wikilink")[臺北車站前方噴水池的現址並改為臺北西站](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")（今[臺北西站B棟](../Page/臺北西站B棟.md "wikilink")）下轄，並伴隨[臺汽客運民營化改為](https://zh.wikipedia.org/wiki/臺汽客運 "wikilink")[國光客運](../Page/國光客運.md "wikilink")臺北東站。2009年10月27日起封閉改建，原由此站發車的路線暫時改由[國光客運](../Page/國光客運.md "wikilink")臺北西站發車。
 
 ### 臺北西站A棟時期
 
@@ -24,11 +24,11 @@ R5：[重慶北路](https://zh.wikipedia.org/wiki/重慶北路_\(臺北市\) "wi
 R6：[延平北路](../Page/延平北路.md "wikilink")
 R7：[館前路](../Page/館前路.md "wikilink")\]\]
 
-原[國光客運臺北東站原地改建](../Page/國光客運.md "wikilink")，並且將包含部分原臺北北站路線、未移至[臺北轉運站的臺北總站末期路線全數遷入](https://zh.wikipedia.org/wiki/臺北轉運站 "wikilink")，成為多家業者共用的車站，2010年1月20日啟用。
+原[國光客運](../Page/國光客運.md "wikilink")臺北東站原地改建，並且將包含部分原臺北北站路線、未移至[臺北轉運站的臺北總站末期路線全數遷入](https://zh.wikipedia.org/wiki/臺北轉運站 "wikilink")，成為多家業者共用的車站，2010年1月20日啟用。
 
 ## 停靠路線
 
-※標示[EasyCard_Color_Sample.svg](https://zh.wikipedia.org/wiki/File:EasyCard_Color_Sample.svg "fig:EasyCard_Color_Sample.svg")記號者為[悠遊卡路線](../Page/悠遊卡.md "wikilink")。
+※標示[EasyCard_Color_Sample.svg](https://zh.wikipedia.org/wiki/File:EasyCard_Color_Sample.svg "fig:EasyCard_Color_Sample.svg")記號者為[悠遊卡](../Page/悠遊卡.md "wikilink")路線。
 
 <table>
 <thead>

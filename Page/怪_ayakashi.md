@@ -1,5 +1,5 @@
 《**怪
-～ayakashi～**》（）為[日本的](../Page/日本.md "wikilink")[恐怖](https://zh.wikipedia.org/wiki/恐怖 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[富士電視台系列](../Page/富士電視台.md "wikilink")「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的第三部作品。從2006年1月12日到3月23日期間播放，全11話。
+～ayakashi～**》（）為[日本](../Page/日本.md "wikilink")的[恐怖](https://zh.wikipedia.org/wiki/恐怖 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[富士電視台](../Page/富士電視台.md "wikilink")系列「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的第三部作品。從2006年1月12日到3月23日期間播放，全11話。
 
 本作為noitaminA改變以《[蜂蜜幸運草](https://zh.wikipedia.org/wiki/蜂蜜幸運草 "wikilink")》等少女漫畫為原作的動畫路線、將日本從古至今以來的三篇鬼故事「[四谷怪談](../Page/四谷怪談.md "wikilink")」、「[天守物語](https://zh.wikipedia.org/wiki/天守物語 "wikilink")」、「[化貓](https://zh.wikipedia.org/wiki/化貓 "wikilink")」做為基礎、加入創作者們對原作的獨特解釋和以現在的觀點來創作新的故事，來替故事加入更多的味道、讓讀過原作的人也能以新鮮的感覺觀賞這部強烈前衛風格的異色之作。
 
@@ -16,11 +16,11 @@
 
 ### 天守物語
 
-雖然使用原作天守物語的名稱，但故事與設定卻有許多的變更點，大體上成為另一個原創故事。原作以「白鷺城」為舞台，這也是[姬路城的別名](../Page/姬路城.md "wikilink")。這部的風格在三作中算最平常的一個。
+雖然使用原作天守物語的名稱，但故事與設定卻有許多的變更點，大體上成為另一個原創故事。原作以「白鷺城」為舞台，這也是[姬路城](../Page/姬路城.md "wikilink")的別名。這部的風格在三作中算最平常的一個。
 
 ### 化貓
 
-上述二作品都有原作，而《化貓》的故事則是完全的原創。表演手法也是大異奇趣，大多使用著[3DCG並且用上](https://zh.wikipedia.org/wiki/三維模型 "wikilink")[浮世繪風的顏色](../Page/浮世繪.md "wikilink")。全篇背景則使用[和紙風的設定](../Page/和紙.md "wikilink")。
+上述二作品都有原作，而《化貓》的故事則是完全的原創。表演手法也是大異奇趣，大多使用著[3DCG並且用上](https://zh.wikipedia.org/wiki/三維模型 "wikilink")[浮世繪](../Page/浮世繪.md "wikilink")風的顏色。全篇背景則使用[和紙](../Page/和紙.md "wikilink")風的設定。
 
 因為受到好評，以同樣賣藥的主角的作品《[物怪](../Page/物怪.md "wikilink")》也在2007年7月12日放映到9月27日（全12集）。
 
@@ -387,7 +387,7 @@
 </tbody>
 </table>
 
-※[Animax以](../Page/Animax.md "wikilink")「四谷怪談」、「化貓」、「天守物語」為順序來播放。
+※[Animax](../Page/Animax.md "wikilink")以「四谷怪談」、「化貓」、「天守物語」為順序來播放。
 
 ## 播放電視台
 

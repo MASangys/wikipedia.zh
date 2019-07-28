@@ -1,5 +1,5 @@
 **KylieX2008**（或被稱為
-X2008），是[澳大利亚](../Page/澳大利亚.md "wikilink")[流行歌手](https://zh.wikipedia.org/wiki/流行 "wikilink")[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛的第十次巡演](../Page/凯莉·米洛.md "wikilink")，以宣传她2007年年底发行的专辑《X》。最初宣布僅於歐洲巡迴的演唱會，在澳洲，亚洲和美洲舉辦巡演的傳聞便於各國際媒體間出現。在[欧洲巡迴演出結束後](../Page/欧洲.md "wikilink")，凯莉宣布將繼續在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[亞洲以及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[南美洲展開巡迴](../Page/南美洲.md "wikilink")。2009年，凯莉在一些音乐节表演则将这场巡演继续下去。
+X2008），是[澳大利亚](../Page/澳大利亚.md "wikilink")[流行歌手](https://zh.wikipedia.org/wiki/流行 "wikilink")[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")的第十次巡演，以宣传她2007年年底发行的专辑《X》。最初宣布僅於歐洲巡迴的演唱會，在澳洲，亚洲和美洲舉辦巡演的傳聞便於各國際媒體間出現。在[欧洲](../Page/欧洲.md "wikilink")巡迴演出結束後，凯莉宣布將繼續在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[亞洲以及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[南美洲](../Page/南美洲.md "wikilink")展開巡迴。2009年，凯莉在一些音乐节表演则将这场巡演继续下去。
 
 在官方網站宣布[For You, For
 Me巡演的同时](https://zh.wikipedia.org/wiki/For_You,_For_Me "wikilink")，也宣布了X2008在票箱收入約賺進了7千萬美元。
@@ -25,7 +25,7 @@ Show](https://zh.wikipedia.org/wiki/The_Kylie_Show "wikilink")”时透露：“
 
 演出场地由三部分组成，左右各一个小型迷你舞台，供乐队和背景歌手表演。主舞台设计简约，装有LED地板，后方则放置了可移动的巨型LED屏幕。在体育场、露天场地以及小型剧场举办的演唱会，由于场地和技术限制，LED地板，连同一些作为点睛之笔的道具，如紫色“蜘蛛网”，巨型骷髅头等被移除。
 
-凯莉将演出形容为“戏中戏”，因为每场表演都各不相同。她说她的灵感来源于[皇后乐队主唱](../Page/皇后乐队.md "wikilink")[佛莱迪·摩克瑞](https://zh.wikipedia.org/wiki/佛莱迪·摩克瑞 "wikilink")。\[4\]
+凯莉将演出形容为“戏中戏”，因为每场表演都各不相同。她说她的灵感来源于[皇后乐队](../Page/皇后乐队.md "wikilink")主唱[佛莱迪·摩克瑞](https://zh.wikipedia.org/wiki/佛莱迪·摩克瑞 "wikilink")。\[4\]
 
 表演第一部分，***Xlectro
 Static***（“电子干扰”），以一个充满未来感的视频开场，视频以霓虹灯显像方式展现了凯莉的面部轮廓。巨型LED屏幕向两侧滑开，随后凯莉站在巨型“蛛网”上着“蜘蛛女”晚装出场（在南美巡演中，“蜘蛛女”晚装被替换为黑底金色束腰装）。
@@ -42,7 +42,7 @@ Beat
 Rock"、"[Wow](https://zh.wikipedia.org/wiki/Wow_\(Kylie_Minogue_song\) "wikilink")"和"[Shocked](https://zh.wikipedia.org/wiki/Shocked "wikilink")"。“[Shocked](https://zh.wikipedia.org/wiki/Shocked "wikilink")”在随后的一些巡演中被缩为舞蹈表演，作为中场休息。第二部分是整场巡演中凯莉最喜欢的部分。
 
 ***Beach Party***（“沙滩派对”）是表演第三部分，以"Love
-Boat"开场，之后凯莉翻唱[巴瑞·曼尼洛名曲](../Page/巴瑞·曼尼洛.md "wikilink")"Copacabana"。在巴黎首演上，凯莉还演唱了"That's
+Boat"开场，之后凯莉翻唱[巴瑞·曼尼洛](../Page/巴瑞·曼尼洛.md "wikilink")名曲"Copacabana"。在巴黎首演上，凯莉还演唱了"That's
 Why They Write Love
 Songs"，以此向上世纪40、50年代的许多爱情剧主题曲致敬，之后的巡演凯莉没有再演唱这首歌。第三部分以名曲"Spinning
 Around"结束。
@@ -94,7 +94,7 @@ Know](https://zh.wikipedia.org/wiki/Better_The_Devil_You_Know "wikilink")''也�
 
 巡演在英国和欧洲大陆得到了许多评论家积极的认可。许多评论家认为这次巡演好过她前几次的巡演。\[5\] \[6\].
 KylieX2008的巡演在欧洲非常卖座，并被看成是一个巨大的成功。\[7\]
-由于歌迷的需求，从宣布巡演日程后，数场加场演出又不断被加入日程。原本只在英国举办8场巡演，但是门票在开卖30分钟内即告售罄，凯莉不得不在[英格兰](../Page/英格兰.md "wikilink")，[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")，[北爱尔兰增演](../Page/北爱尔兰.md "wikilink")25场。英国站巡演票房达26,000,000
+由于歌迷的需求，从宣布巡演日程后，数场加场演出又不断被加入日程。原本只在英国举办8场巡演，但是门票在开卖30分钟内即告售罄，凯莉不得不在[英格兰](../Page/英格兰.md "wikilink")，[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")，[北爱尔兰](../Page/北爱尔兰.md "wikilink")增演25场。英国站巡演票房达26,000,000
 <small>美元</small> (即 14,000,000<small>英镑</small>),
 300,000人观看了英国站的巡演\[8\]
 

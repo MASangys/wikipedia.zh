@@ -2,9 +2,9 @@
 Destiny）是一款由[台灣國人自製的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[西方](https://zh.wikipedia.org/wiki/西方 "wikilink")[中古世紀](https://zh.wikipedia.org/wiki/中古世紀 "wikilink")[輕奇幻](https://zh.wikipedia.org/wiki/輕奇幻 "wikilink")（Light
 Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線上角色扮演遊戲 "wikilink")，遊戲以全[3D方式呈現](https://zh.wikipedia.org/wiki/3D "wikilink")。
 
-遊戲中有獨特的「神鑰系統」，透過神鑰的養成及不同神鑰的搭配使用，同一種族[職業也會走出完全不同的路線](../Page/職業.md "wikilink")，並有很大量的任務及[怪物鑰匙收集等系統](../Page/怪物.md "wikilink")，玩法多樣化。[台灣是最後一個營運地區並已於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2013年10月14日結束服務。
+遊戲中有獨特的「神鑰系統」，透過神鑰的養成及不同神鑰的搭配使用，同一種族[職業](../Page/職業.md "wikilink")也會走出完全不同的路線，並有很大量的任務及[怪物](../Page/怪物.md "wikilink")鑰匙收集等系統，玩法多樣化。[台灣是最後一個營運地區並已於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2013年10月14日結束服務。
 
-[華義國際於](../Page/華義國際.md "wikilink")2016年下旬宣佈將可能於2017年末或2018年重推81keys，並加入AR/[VR元素](https://zh.wikipedia.org/wiki/VR "wikilink")。
+[華義國際](../Page/華義國際.md "wikilink")於2016年下旬宣佈將可能於2017年末或2018年重推81keys，並加入AR/[VR元素](https://zh.wikipedia.org/wiki/VR "wikilink")。
 
 ## 故事背景
 
@@ -14,15 +14,15 @@ Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線�
 
 ### 人類
 
-[男性](../Page/男性.md "wikilink")[身高約](https://zh.wikipedia.org/wiki/身高 "wikilink")170～180公分，平均[年齡](https://zh.wikipedia.org/wiki/年齡 "wikilink")70歲；[女性約](../Page/女性.md "wikilink")160～170公分，平均年齡80歲。
+[男性](../Page/男性.md "wikilink")[身高約](https://zh.wikipedia.org/wiki/身高 "wikilink")170～180公分，平均[年齡](https://zh.wikipedia.org/wiki/年齡 "wikilink")70歲；[女性](../Page/女性.md "wikilink")約160～170公分，平均年齡80歲。
 
-[人類是三個種族中適應力最強且最具野心的種族](../Page/人類.md "wikilink")。在[戰爭需求的刺激下](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，使得人類的金屬工藝技術大幅提升。人類以迅捷靈巧的戰法著稱，與生俱來的創造力也優於他種族，而其心思也最細膩複雜，難以預測。
+[人類](../Page/人類.md "wikilink")是三個種族中適應力最強且最具野心的種族。在[戰爭需求的刺激下](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，使得人類的金屬工藝技術大幅提升。人類以迅捷靈巧的戰法著稱，與生俱來的創造力也優於他種族，而其心思也最細膩複雜，難以預測。
 
 ### 瓦塔
 
 男性身高約210～220公分，平均年齡100歲；女性約180～190公分，平均年齡110歲。
 
-瓦塔的[膚色以](../Page/膚色.md "wikilink")[小麥色居多](https://zh.wikipedia.org/wiki/小麥色 "wikilink")；瓦塔族會在身體和臉上[刺青](../Page/刺青.md "wikilink")，刺上動物的圖形，如[牛](../Page/牛.md "wikilink")、[隼](../Page/隼.md "wikilink")、[熊](https://zh.wikipedia.org/wiki/熊 "wikilink")，甚至是[龍等生物符紋](https://zh.wikipedia.org/wiki/龍 "wikilink")，希望牠們的魂魄能憑依在身上，增加自己的力量。
+瓦塔的[膚色](../Page/膚色.md "wikilink")以[小麥色居多](https://zh.wikipedia.org/wiki/小麥色 "wikilink")；瓦塔族會在身體和臉上[刺青](../Page/刺青.md "wikilink")，刺上動物的圖形，如[牛](../Page/牛.md "wikilink")、[隼](../Page/隼.md "wikilink")、[熊](https://zh.wikipedia.org/wiki/熊 "wikilink")，甚至是[龍等生物符紋](https://zh.wikipedia.org/wiki/龍 "wikilink")，希望牠們的魂魄能憑依在身上，增加自己的力量。
 
 ### 露露安塔
 
@@ -30,7 +30,7 @@ Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線�
 
 露露安塔身材矮小，乍看下就像人類[孩童](https://zh.wikipedia.org/wiki/孩童 "wikilink")，但男性的露露安塔並不像人類男性會因年齡增加而長出大量[鬍子](https://zh.wikipedia.org/wiki/鬍子 "wikilink")。
 
-儘管手腳短小，但對於調配藥劑與施展[魔法意外的靈巧](../Page/魔法.md "wikilink")。
+儘管手腳短小，但對於調配藥劑與施展[魔法](../Page/魔法.md "wikilink")意外的靈巧。
 
 ### 詠夜
 
@@ -42,7 +42,7 @@ Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線�
 
 其實是指海洋族群中的多爾芬一族，還有特朵族、鯊克族和塔可族三族，其中多爾芬一族的文化發展最高，所以一般所指的海族即為多爾芬一族為代表。海族在外表上最大的特徵是藍色的皮膚、尖尖的耳朵以及如魚般的[尾鰭](https://zh.wikipedia.org/wiki/尾鰭 "wikilink")，是與一般的種族外型較不同的。男性身高約160公分、女性150公分。平均年齡大約70\~80歲之間。
 
-海族的人民多活動於海上，長年與浪淘洶湧的大海進行搏鬥，也因為在驚濤駭浪中求生存他們被訓練出靈巧的身手與超人的反應，擅長近身刺殺與精準的遠距離射擊。在大海的世界中，唯有勝利才能得到生存的權利，所以海族行事往往給人不擇手段的感覺，他們就在外界不了解的狀況下，被冠以海盜之名。[職業發展可分為](../Page/職業.md "wikilink")[刺客和](https://zh.wikipedia.org/wiki/刺客 "wikilink")[弩箭手](https://zh.wikipedia.org/wiki/弩箭手 "wikilink")，其中最為人所知的就是隱匿身行與毒藥調配的能力。
+海族的人民多活動於海上，長年與浪淘洶湧的大海進行搏鬥，也因為在驚濤駭浪中求生存他們被訓練出靈巧的身手與超人的反應，擅長近身刺殺與精準的遠距離射擊。在大海的世界中，唯有勝利才能得到生存的權利，所以海族行事往往給人不擇手段的感覺，他們就在外界不了解的狀況下，被冠以海盜之名。[職業](../Page/職業.md "wikilink")發展可分為[刺客和](https://zh.wikipedia.org/wiki/刺客 "wikilink")[弩箭手](https://zh.wikipedia.org/wiki/弩箭手 "wikilink")，其中最為人所知的就是隱匿身行與毒藥調配的能力。
 
 ## 職業
 
@@ -62,7 +62,7 @@ Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線�
   - 聖殿騎士：聖殿[騎士具有聖潔的信仰及熟練的作戰技能](https://zh.wikipedia.org/wiki/騎士 "wikilink")，他們一方面以堅強的盾阻擋魔法攻擊，再以利劍刺向任何阻擋在前方的敵人。在全部職業中，聖殿騎士可說是具有最好的魔法抗性，他們堅貞勇敢，誓死保衛同伴，可以用自身生命抵擋敵人對於隊友的攻擊，並可以利用堅定的信仰為同伴祈禱，讓同伴回復部分的生命力，再面對邪惡敵人的魔法攻擊時，聖殿騎士絕對是隊伍中的不可或缺的角色。
   - 舞劍士：舞[劍士是力與美結合的職業](https://zh.wikipedia.org/wiki/劍士 "wikilink")，他們手持雙劍斬向敵人，在雙手連擊的效果讓舞劍士發揮出比劍士更高的攻擊力，他們還可以在隊伍中展開獨特的「劍舞」技能，在劍舞發動下，隊伍中的伙伴都會感受到一股充滿鬥氣的暖流，使伙伴戰無不勝，攻無不克！
   - 龍騎士：龍[騎士馴服遠古聖獸](https://zh.wikipedia.org/wiki/騎士 "wikilink")「龍」，並以[龍為坐騎](https://zh.wikipedia.org/wiki/龍為 "wikilink")，他們與龍訂下生命的誓約，讓這種桀傲不屈的生物為他們所用，在龍的幫助下，龍騎士們發揮出強大的攻擊力及機動力，馳騁沙場，所向無敵。也由於騎龍攻擊是龍騎士最大的特色，所以他們的部分技能必須在龍背上才能有所發揮。
-  - 魔鎧戰將：魔鎧戰將們與自然界的元素精靈定下契約，讓元素的[精靈在他們身上形成魔法鎧甲](../Page/精靈.md "wikilink")，不同元素的魔法鎧甲各有不同的發揮特性，地鎧甲強化防禦力高，水鎧甲會散發凍氣傷害周遭敵人，火鎧甲燃燒著烈焰灼燒來犯敵人，風鎧甲會以旋風之力保護其主人，有著具有元素之力的魔法鎧甲保護，讓魔鎧戰將攻守俱佳，絕對不容小覬。
+  - 魔鎧戰將：魔鎧戰將們與自然界的元素精靈定下契約，讓元素的[精靈](../Page/精靈.md "wikilink")在他們身上形成魔法鎧甲，不同元素的魔法鎧甲各有不同的發揮特性，地鎧甲強化防禦力高，水鎧甲會散發凍氣傷害周遭敵人，火鎧甲燃燒著烈焰灼燒來犯敵人，風鎧甲會以旋風之力保護其主人，有著具有元素之力的魔法鎧甲保護，讓魔鎧戰將攻守俱佳，絕對不容小覬。
 
 ### 瓦塔
 
@@ -138,7 +138,7 @@ Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線�
 ### 香港
 
 「GameCyber Technology
-Limited」於宣佈2009年4月宣佈取得《81Keys》[香港及](../Page/香港.md "wikilink")[澳門的獨家營運權](../Page/澳門.md "wikilink")。經兩年的短暫時光後，「GameCyber
+Limited」於宣佈2009年4月宣佈取得《81Keys》[香港](../Page/香港.md "wikilink")及[澳門](../Page/澳門.md "wikilink")的獨家營運權。經兩年的短暫時光後，「GameCyber
 Technology Limited」於2011年6月宣佈終止營運並已於2011年7月29日關閉伺服器及官方網站。
 
 ### 中國大陸

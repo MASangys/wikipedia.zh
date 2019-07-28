@@ -1,4 +1,4 @@
-**Netlog**（前身为**Facebox**和**Redbox**）这个锁定欧洲年轻人的[社交网络](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，于2004年创建于[比利时的](../Page/比利时.md "wikilink")[根特](../Page/根特.md "wikilink")。创始人为[Lorenz
+**Netlog**（前身为**Facebox**和**Redbox**）这个锁定欧洲年轻人的[社交网络](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，于2004年创建于[比利时](../Page/比利时.md "wikilink")的[根特](../Page/根特.md "wikilink")。创始人为[Lorenz
 Bogaert和Toon](https://zh.wikipedia.org/wiki/:en:Lorenz_Bogaert "wikilink")
 Coppens。 截至2009年上半年，已拥有4900万的注册用户，覆盖20个语种\[1\]。
 
@@ -10,7 +10,7 @@ Netlog主要功能有
 ## 本土化
 
 Netlog
-的[本土化技术](../Page/本土化.md "wikilink")，用以确保所有成员的个人档案的个性化、符合区域特性。这使得作为一名成员可进行地区化的搜索，获得社群概况和成员信息，并且只显示其限定的某年龄范围和地区内的成员。
+的[本土化](../Page/本土化.md "wikilink")技术，用以确保所有成员的个人档案的个性化、符合区域特性。这使得作为一名成员可进行地区化的搜索，获得社群概况和成员信息，并且只显示其限定的某年龄范围和地区内的成员。
 
 Netlog设有中文站点，在中国大陆可以直接访问。Netlog是少有的几个可以在中国大陆直接访问的境外社交网站。
 

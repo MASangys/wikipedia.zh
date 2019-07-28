@@ -1,5 +1,5 @@
 **Socket
-AM3**是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座和處理器管腳陣列](../Page/CPU插座.md "wikilink")，於2009年2月9日發表，取代上一代的[Socket
+AM3**是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")和處理器管腳陣列，於2009年2月9日發表，取代上一代的[Socket
 AM2+](../Page/Socket_AM2+.md "wikilink")。而採用AM3的CPU有[Phenom
 II](https://zh.wikipedia.org/wiki/Phenom_II "wikilink")、[Athlon
 II](https://zh.wikipedia.org/wiki/Athlon_II "wikilink")、[Sempron
@@ -29,7 +29,7 @@ Socket
 AM3的處理器，除了安裝於AM3主機板上，還能[向下相容安裝於Socket](https://zh.wikipedia.org/wiki/向下相容 "wikilink")
 AM2+上，但匯流排速率會降至HyperTransport 2.0規格，而且需要主機板BIOS識別支援；在[Socket
 AM3+推出以後](../Page/Socket_AM3+.md "wikilink")，也能安裝於AM3+的主機板上。除此以外，支援140W[熱設計功耗的](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")[Socket
-AM2主機板](../Page/Socket_AM2.md "wikilink")，在獲得[主機板廠商推出的新版](https://zh.wikipedia.org/wiki/主機板 "wikilink")[BIOS後](../Page/BIOS.md "wikilink")，也能安裝Socket
+AM2主機板](../Page/Socket_AM2.md "wikilink")，在獲得[主機板廠商推出的新版](https://zh.wikipedia.org/wiki/主機板 "wikilink")[BIOS](../Page/BIOS.md "wikilink")後，也能安裝Socket
 AM3的處理器，但AMD並沒有明確說明AM2的主機板能支援AM3的處理器。\[5\]
 
 AM3

@@ -1,7 +1,7 @@
-**Enlightenment**（亦常简称为E），0.17以前版本属于[X窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")，0.17版已经接近完整的桌面环境。而從0.19版開始，同時也是[Wayland的合成管理器](../Page/Wayland.md "wikilink")\[1\]
+**Enlightenment**（亦常简称为E），0.17以前版本属于[X窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")，0.17版已经接近完整的桌面环境。而從0.19版開始，同時也是[Wayland](../Page/Wayland.md "wikilink")的合成管理器\[1\]
 。
 
-曾为[GNOME默认窗口管理器](../Page/GNOME.md "wikilink")。
+曾为[GNOME](../Page/GNOME.md "wikilink")默认窗口管理器。
 
 ## 版本
 

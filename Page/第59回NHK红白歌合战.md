@@ -3,9 +3,9 @@
 ## 特别审查员
 
   - [本木雅弘](../Page/本木雅弘.md "wikilink")（演员）
-  - [吉田沙保里](../Page/吉田沙保里.md "wikilink")（[摔跤运动员](../Page/摔跤.md "wikilink")）：[北京奥运会女子自由式](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")[摔跤](../Page/摔跤.md "wikilink")55公斤级金牌获得者
-  - [太田雄贵](../Page/太田雄贵.md "wikilink")（[击剑运动员](../Page/击剑.md "wikilink")）：[北京奥运会男子](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")[花剑银牌获得者](../Page/花剑.md "wikilink")
-  - [高桥尚子](https://zh.wikipedia.org/wiki/高桥尚子 "wikilink")（[马拉松运动员](../Page/马拉松.md "wikilink")）：[悉尼奥运会女子](https://zh.wikipedia.org/wiki/悉尼奥运会 "wikilink")[马拉松金牌获得者](../Page/马拉松.md "wikilink")，于2008年宣布引退
+  - [吉田沙保里](../Page/吉田沙保里.md "wikilink")（[摔跤](../Page/摔跤.md "wikilink")运动员）：[北京奥运会女子自由式](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")[摔跤](../Page/摔跤.md "wikilink")55公斤级金牌获得者
+  - [太田雄贵](../Page/太田雄贵.md "wikilink")（[击剑](../Page/击剑.md "wikilink")运动员）：[北京奥运会男子](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")[花剑](../Page/花剑.md "wikilink")银牌获得者
+  - [高桥尚子](https://zh.wikipedia.org/wiki/高桥尚子 "wikilink")（[马拉松](../Page/马拉松.md "wikilink")运动员）：[悉尼奥运会女子](https://zh.wikipedia.org/wiki/悉尼奥运会 "wikilink")[马拉松](../Page/马拉松.md "wikilink")金牌获得者，于2008年宣布引退
   - [松本幸四郎](https://zh.wikipedia.org/wiki/松本幸四郎 "wikilink")（歌舞伎演员）
   - [松坂庆子](https://zh.wikipedia.org/wiki/松坂庆子 "wikilink")（演员）
   - [姜尚中](https://zh.wikipedia.org/wiki/姜尚中 "wikilink")（政治学者）
@@ -23,8 +23,8 @@
 
   - 红白拉拉队：关根麻里（团长）、泰利·伊藤、泽村一树
   - [IKKO](https://zh.wikipedia.org/wiki/IKKO "wikilink")、[春菜爱](https://zh.wikipedia.org/wiki/春菜爱 "wikilink")：为[美川宪一介绍曲目以及伴舞](https://zh.wikipedia.org/wiki/美川宪一 "wikilink")
-  - [髭男爵](https://zh.wikipedia.org/wiki/髭男爵 "wikilink")：为[伍代夏子介绍曲目](../Page/伍代夏子.md "wikilink")
-  - 三倉茉奈、佳奈：为[伍代夏子伴舞](../Page/伍代夏子.md "wikilink")
+  - [髭男爵](https://zh.wikipedia.org/wiki/髭男爵 "wikilink")：为[伍代夏子](../Page/伍代夏子.md "wikilink")介绍曲目
+  - 三倉茉奈、佳奈：为[伍代夏子](../Page/伍代夏子.md "wikilink")伴舞
   - [蓝人乐团](https://zh.wikipedia.org/wiki/蓝人乐团 "wikilink")：在[藤冈藤卷与](https://zh.wikipedia.org/wiki/藤冈藤卷 "wikilink")[大桥望美和](https://zh.wikipedia.org/wiki/大桥望美 "wikilink")[东方神起之间特别表演](https://zh.wikipedia.org/wiki/东方神起 "wikilink")
   - [早乙女太一](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")、[桥大五郎](https://zh.wikipedia.org/wiki/桥大五郎 "wikilink")：为藤彩子伴舞
   - 渡边钟：为WaT介绍曲目

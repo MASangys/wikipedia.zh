@@ -1,5 +1,5 @@
 **Lump of
-Sugar**是一間[日本十八禁](../Page/日本.md "wikilink")[美少女遊戲製作公司](../Page/美少女遊戲.md "wikilink")，於[2005年4月開始活動](../Page/2005年4月.md "wikilink")。Lump
+Sugar**是一間[日本](../Page/日本.md "wikilink")十八禁[美少女遊戲](../Page/美少女遊戲.md "wikilink")製作公司，於[2005年4月](../Page/2005年4月.md "wikilink")開始活動。Lump
 of
 Sugar的意思是角砂糖（即[方糖](https://zh.wikipedia.org/wiki/方糖 "wikilink")），所以Lump
 of
@@ -249,10 +249,10 @@ Sugar作品內的人物登場的[射擊遊戲和對打式](https://zh.wikipedia.
 ## 廣播節目
 
 「Lump of Sugar 放送部」是Lump of
-Sugar於[音泉廣播的節目](../Page/音泉.md "wikilink")，於2007年9月13日起隔週星期五播放（最初是隔週星期四），每集約長50分鐘。主持是為Lump
+Sugar於[音泉](../Page/音泉.md "wikilink")廣播的節目，於2007年9月13日起隔週星期五播放（最初是隔週星期四），每集約長50分鐘。主持是為Lump
 of Sugar作品配音的和CG畫家。
 
-另外在2009年3月9日至7月13日期間，於音泉隔週星期一廣播「」，一共10回。主持是[力丸乃梨子和](../Page/力丸乃梨子.md "wikilink")[下田麻美](../Page/下田麻美.md "wikilink")，即「遊魂
+另外在2009年3月9日至7月13日期間，於音泉隔週星期一廣播「」，一共10回。主持是[力丸乃梨子](../Page/力丸乃梨子.md "wikilink")和[下田麻美](../Page/下田麻美.md "wikilink")，即「遊魂
 -Kiss on my Deity-」動畫版中泉戶真白和河合亞芽里的聲優。
 
 ## 參考文獻

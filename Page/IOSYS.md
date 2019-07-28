@@ -1,8 +1,8 @@
-**IOSYS**（）是設立在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市的](../Page/札幌市.md "wikilink")[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。除此之外，也有登錄[法人注冊成為](../Page/法人.md "wikilink")[有限公司](../Page/有限公司.md "wikilink")。
+**IOSYS**（）是設立在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")的[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。除此之外，也有登錄[法人](../Page/法人.md "wikilink")注冊成為[有限公司](../Page/有限公司.md "wikilink")。
 
 ## 概要
 
-在1998年設立。在[同人活動方面](https://zh.wikipedia.org/wiki/同人 "wikilink")，主要是參與制作[同人音樂](../Page/同人音樂.md "wikilink")（多為[東方Project相關](https://zh.wikipedia.org/wiki/東方Project "wikilink")[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")，除此之外亦有[紅白機的遊戲音樂編曲及原創音樂](https://zh.wikipedia.org/wiki/紅白機 "wikilink")），以及原創[網絡廣播等](https://zh.wikipedia.org/wiki/網絡電台 "wikilink")。關於坊間對IOSYS的認識，由於IOSYS活躍於參與東方Project的二次同人創作，所以一般都將兩者聯想在一起。在音樂創作的方式方面，除了將作品收錄在[CD發售外](../Page/CD.md "wikilink")，還會在網頁上公開音樂的[Flash動畫供人欣賞](https://zh.wikipedia.org/wiki/Flash "wikilink")。在作品發售方面，除了可以在名為「IOSYS
+在1998年設立。在[同人活動方面](https://zh.wikipedia.org/wiki/同人 "wikilink")，主要是參與制作[同人音樂](../Page/同人音樂.md "wikilink")（多為[東方Project相關](https://zh.wikipedia.org/wiki/東方Project "wikilink")[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")，除此之外亦有[紅白機的遊戲音樂編曲及原創音樂](https://zh.wikipedia.org/wiki/紅白機 "wikilink")），以及原創[網絡廣播等](https://zh.wikipedia.org/wiki/網絡電台 "wikilink")。關於坊間對IOSYS的認識，由於IOSYS活躍於參與東方Project的二次同人創作，所以一般都將兩者聯想在一起。在音樂創作的方式方面，除了將作品收錄在[CD](../Page/CD.md "wikilink")發售外，還會在網頁上公開音樂的[Flash動畫供人欣賞](https://zh.wikipedia.org/wiki/Flash "wikilink")。在作品發售方面，除了可以在名為「IOSYS
 SHOP（）」的網頁訂購外，還可以從全日本的[同人商店購入](https://zh.wikipedia.org/wiki/同人商店 "wikilink")。
 
 ## 歷史

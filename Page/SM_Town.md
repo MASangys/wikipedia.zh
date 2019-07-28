@@ -1,5 +1,5 @@
 **SM
-Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂假日合辑的计划名](../Page/SM娛樂.md "wikilink")，亦是家族演唱會的名稱，包括当前SM娛樂旗下所有艺人。
+Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")假日合辑的计划名，亦是家族演唱會的名稱，包括当前SM娛樂旗下所有艺人。
 
 ## 音樂作品
 
@@ -79,7 +79,7 @@ Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "
 
 | 日期         | 城市                                                | 舉行地點                                                    |
 | ---------- | ------------------------------------------------- | ------------------------------------------------------- |
-| 2008年8月15日 | [首爾](../Page/首爾.md "wikilink")                    | [首爾綜合運動場主體育場](../Page/首爾綜合運動場.md "wikilink")            |
+| 2008年8月15日 | [首爾](../Page/首爾.md "wikilink")                    | [首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink")主體育場            |
 | 2008年9月13日 | [上海](https://zh.wikipedia.org/wiki/上海 "wikilink") | [上海體育館](https://zh.wikipedia.org/wiki/上海體育館 "wikilink") |
 | 2009年2月7日  | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink") | [拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")              |
 
@@ -97,7 +97,7 @@ Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "
 <tr class="odd">
 <td><p>2010年8月21日</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
-<td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場主體育場</a></p></td>
+<td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場</a>主體育場</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年9月4日</p></td>

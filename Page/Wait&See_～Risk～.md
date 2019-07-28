@@ -1,7 +1,7 @@
-是[宇多田光的第五張日語單曲](../Page/宇多田光.md "wikilink")，於2000年4月19日發行，初動80萬張，累計銷量166萬張。
-也是日本史上銷量第二高的無商業搭配單曲，僅次於[Mr.Children的](../Page/Mr.Children.md "wikilink")《[See-Saw
+是[宇多田光](../Page/宇多田光.md "wikilink")的第五張日語單曲，於2000年4月19日發行，初動80萬張，累計銷量166萬張。
+也是日本史上銷量第二高的無商業搭配單曲，僅次於[Mr.Children](../Page/Mr.Children.md "wikilink")的《[See-Saw
 Game
-～勇敢的戀曲～](../Page/See-Saw_Game_～勇敢的戀曲～.md "wikilink")》，高於[SPITZ的](../Page/SPITZ.md "wikilink")《[Cherry](../Page/Cherry_\(單曲\).md "wikilink")》。
+～勇敢的戀曲～](../Page/See-Saw_Game_～勇敢的戀曲～.md "wikilink")》，高於[SPITZ](../Page/SPITZ.md "wikilink")的《[Cherry](../Page/Cherry_\(單曲\).md "wikilink")》。
 
 ## 曲目
 

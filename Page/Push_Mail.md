@@ -34,7 +34,7 @@ Server](https://zh.wikipedia.org/wiki/Exchange_Server "wikilink")。另外，也
 
 ### Palm OS
 
-[Palm的掌上型智慧設備](../Page/Palm.md "wikilink")，如在[Treo有空閒的](../Page/Treo.md "wikilink")[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")，就可以通過使用第三方軟件[ChatterEmail使用push](https://zh.wikipedia.org/wiki/ChatterEmail "wikilink")
+[Palm](../Page/Palm.md "wikilink")的掌上型智慧設備，如在[Treo](../Page/Treo.md "wikilink")有空閒的[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")，就可以通過使用第三方軟件[ChatterEmail使用push](https://zh.wikipedia.org/wiki/ChatterEmail "wikilink")
 mail。所以，早在2004年，就已經沒有額外的[伺服器軟件的需要](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。
 
 ### iPhone
@@ -46,8 +46,8 @@ ActiveSync的平台](https://zh.wikipedia.org/wiki/Exchange_ActiveSync "wikilink
 Exchange
 Server或可以安裝](../Page/Microsoft_Exchange_Server.md "wikilink")[Kerio郵件伺服器](https://zh.wikipedia.org/wiki/Kerio "wikilink")。該軟件更新時增加了其他功能，如常見於企業的移動設備。
 
-此外，在蘋果的2008年全球開發者會議，介紹了[MobileMe作為一個基於訂閱的服務](../Page/MobileMe.md "wikilink")，商店的電子郵件，聯繫人和日曆上一個安全的在線伺服器或“雲”和推動這一信息的各種客戶，包括在[iPod
-touch和](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[PC等](../Page/PC.md "wikilink")。
+此外，在蘋果的2008年全球開發者會議，介紹了[MobileMe](../Page/MobileMe.md "wikilink")作為一個基於訂閱的服務，商店的電子郵件，聯繫人和日曆上一個安全的在線伺服器或“雲”和推動這一信息的各種客戶，包括在[iPod
+touch和](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[PC](../Page/PC.md "wikilink")等。
 
 ### Windows Mobile
 
@@ -60,8 +60,8 @@ Mobile
 
 ### Android
 
-载有Gmail程序的[Android设备可以通过Google](../Page/Android.md "wikilink")
-Sync获得来自[Gmail的邮件推送](../Page/Gmail.md "wikilink")。
+载有Gmail程序的[Android](../Page/Android.md "wikilink")设备可以通过Google
+Sync获得来自[Gmail](../Page/Gmail.md "wikilink")的邮件推送。
 
 Android原生支持Exchange ActiveSync，可以获得来自[Microsoft Exchange
 Server的邮件推送](../Page/Microsoft_Exchange_Server.md "wikilink")。

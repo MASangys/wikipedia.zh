@@ -73,7 +73,7 @@ iPhone3.3（CDMA）</p></td>
 <td><p>iOS 4.2.1</p></td>
 <td><p>iOS 6.1.6</p></td>
 <td><p>iOS 7.1.2</p></td>
-<td><p>iOS 9.3.5</p></td>
+<td><p>iOS 9.3.6</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>4.顯示設備</strong></p></td>
@@ -145,7 +145,7 @@ Wi-Fi （<a href="https://zh.wikipedia.org/wiki/802.11n" title="wikilink">802.11
 <tr class="odd">
 <td><p><strong>10.相機</strong></p></td>
 <td><p>2.0：<a href="../Page/像素.md" title="wikilink">百萬像素</a>，携帶地理標記功能</p></td>
-<td><p>3 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="https://zh.wikipedia.org/wiki/VGA" title="wikilink">VGA</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、地理標記、自動對焦、<a href="https://zh.wikipedia.org/wiki/白平衡" title="wikilink">白平衡與</a><a href="../Page/色彩平衡.md" title="wikilink">色彩平衡功能</a></p></td>
+<td><p>3 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="https://zh.wikipedia.org/wiki/VGA" title="wikilink">VGA</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、地理標記、自動對焦、<a href="https://zh.wikipedia.org/wiki/白平衡" title="wikilink">白平衡與</a><a href="../Page/色彩平衡.md" title="wikilink">色彩平衡</a>功能</p></td>
 <td><p>5 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/720p.md" title="wikilink">720p HD</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、LED 閃光燈、前置摄像头拍摄 VGA 質量的圖片與每秒 30 幀的視頻功能</p></td>
 <td><p>8 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/1080p.md" title="wikilink">1080p HD</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、LED 閃光燈、前置摄像头拍摄 VGA 質量的圖片與每秒 30 幀的視頻功能、<a href="https://zh.wikipedia.org/wiki/影像穩定器" title="wikilink">影像穩定器</a>、<a href="https://zh.wikipedia.org/wiki/臉部偵測" title="wikilink">臉部偵測</a></p></td>
 <td></td>
@@ -293,8 +293,8 @@ iPhone6.2</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>3.支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
-<td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.2</p></td>
+<td><p>iOS 10.3.4</p></td>
+<td><p>iOS 12.4</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -494,7 +494,7 @@ WiFi網頁瀏覽：12<br />
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
-<td><p>12.2</p></td>
+<td><p>12.4</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -815,7 +815,7 @@ FaceTime</p></td>
 <td><p>背部(主摄像头)：<a href="https://zh.wikipedia.org/wiki/CMOS图像传感器" title="wikilink">CMOS图像传感器带有</a><a href="https://zh.wikipedia.org/wiki/摄影机" title="wikilink">摄像功能</a>(<a href="../Page/720p.md" title="wikilink">720p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
 前部：VGA级别的图像拍摄和每秒最高30<a href="../Page/帧.md" title="wikilink">fps影片拍摄功能</a></p></td>
 <td><p>背部(主摄像头)：500万像素 <a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight摄像头</a>，<a href="https://zh.wikipedia.org/wiki/摄影机" title="wikilink">摄像功能</a>(<a href="../Page/1080p.md" title="wikilink">1080p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
-前部：可拍摄120万像素画质照片和每秒最高30<a href="../Page/帧.md" title="wikilink">帧的</a><a href="../Page/720p.md" title="wikilink">720p HD视频</a></p>
+前部：可拍摄120万像素画质照片和每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>的<a href="../Page/720p.md" title="wikilink">720p HD视频</a></p>
 <ul>
 <li>16GB版本無主攝影鏡頭</li>
 </ul></td>
@@ -921,7 +921,7 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>顯示設備</strong></p></td>
@@ -951,7 +951,7 @@ FaceTime</p></td>
 <tr class="odd">
 <td><p><strong>相機</strong></p></td>
 <td><p>背部(主相機)：800萬畫素 <a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight鏡頭</a>，<a href="https://zh.wikipedia.org/wiki/摄影机" title="wikilink">攝像功能</a>(<a href="../Page/1080p.md" title="wikilink">1080p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
-前部：可拍攝120萬像素畫質照片和每秒最高30<a href="../Page/帧.md" title="wikilink">帧的</a><a href="../Page/720p.md" title="wikilink">720p HD視頻</a></p></td>
+前部：可拍攝120萬像素畫質照片和每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>的<a href="../Page/720p.md" title="wikilink">720p HD視頻</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>音频解碼器</strong></p></td>
@@ -1044,10 +1044,10 @@ FaceTime</p></td>
 <tr class="odd">
 <td><p>|支持的最新操作系統</p></td>
 <td><p>iOS 5.1.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.5</a></p></td>
-<td><p>iOS 10.3.3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.0</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.6</a></p></td>
+<td><p>iOS 10.3.4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.4</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1071,9 +1071,9 @@ FaceTime</p></td>
 <td><p>1.08GHz 雙核 <a href="../Page/Apple_A5.md" title="wikilink">A5</a> 專門設計的高性能低功耗系統級芯片</p></td>
 <td><p>雙核<a href="../Page/Apple_A5X.md" title="wikilink">A5X</a></p></td>
 <td><p>A6X</p></td>
-<td><p><a href="../Page/Apple_A9.md" title="wikilink">Apple A9</a> <a href="../Page/64位元.md" title="wikilink">64位元架構與</a><br />
+<td><p><a href="../Page/Apple_A9.md" title="wikilink">Apple A9</a> <a href="../Page/64位元.md" title="wikilink">64位元</a>架構與<br />
  <a href="../Page/輔助處理器.md" title="wikilink">輔助處理器</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10" title="wikilink">Apple A10</a> <a href="../Page/64位元.md" title="wikilink">64位元架構與</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10" title="wikilink">Apple A10</a> <a href="../Page/64位元.md" title="wikilink">64位元</a>架構與<br />
  <a href="../Page/輔助處理器.md" title="wikilink">輔助處理器</a></p></td>
 </tr>
 <tr class="even">

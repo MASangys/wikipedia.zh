@@ -4,10 +4,10 @@ Search的公测版，并于同年9月11日让其取-{}-代了MSN
 Search，该引擎开始使用搜索选项卡；次年3月，微软将其与[Windows
 Live分开并更名Live](../Page/Windows_Live.md "wikilink")
 Search，在此期间，其子服务曾经多次重组、关闭。到了2009年6月3日，微软将Live
-Search改造成了今天的Bing并正式发布。[微软认为](../Page/微软.md "wikilink")-{zh-cn:Bing;zh-tw:Bing;zh-hk:Bing}-一词简单明了、易于拼写，容易被人记住；但由于-{zh-cn:Bing;zh-tw:Bing;zh-hk:Bing}-一词可能带有「病」的负面意思，微软为其设定了一个[简体中文名](https://zh.wikipedia.org/wiki/简体中文 "wikilink")——「必-{}-应」，它源自[成语](../Page/成语.md "wikilink")「有求必-{}-应」。微软声称，此款搜索引擎将以全新的姿态面世並带来革命。Bing的内测代号为Kumo，其后才被命名为。
+Search改造成了今天的Bing并正式发布。[微软](../Page/微软.md "wikilink")认为-{zh-cn:Bing;zh-tw:Bing;zh-hk:Bing}-一词简单明了、易于拼写，容易被人记住；但由于-{zh-cn:Bing;zh-tw:Bing;zh-hk:Bing}-一词可能带有「病」的负面意思，微软为其设定了一个[简体中文名](https://zh.wikipedia.org/wiki/简体中文 "wikilink")——「必-{}-应」，它源自[成语](../Page/成语.md "wikilink")「有求必-{}-应」。微软声称，此款搜索引擎将以全新的姿态面世並带来革命。Bing的内测代号为Kumo，其后才被命名为。
 
-[微軟斥資](https://zh.wikipedia.org/wiki/微軟 "wikilink")8000萬至1億[美元在](../Page/美元.md "wikilink")[美国透過](../Page/美国.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[報紙](../Page/報紙.md "wikilink")、[互聯網和戶外媒體廣告宣傳](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，这相對於[Google](../Page/Google.md "wikilink")
-2008年全年廣告支出的2500萬[美元高出許多](../Page/美元.md "wikilink")。据《iThome》报道称，的搜尋成功率已比開始時大幅提升，甚至與[Google類似](../Page/Google.md "wikilink")\[1\]；但与此同时，也有一些人对Bing的搜索能力并不满意\[2\]\[3\]。此外，Bing也遭到了一些争议和批评。
+[微軟斥資](https://zh.wikipedia.org/wiki/微軟 "wikilink")8000萬至1億[美元](../Page/美元.md "wikilink")在[美国](../Page/美国.md "wikilink")透過[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[報紙](../Page/報紙.md "wikilink")、[互聯網和戶外媒體廣告宣傳](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，这相對於[Google](../Page/Google.md "wikilink")
+2008年全年廣告支出的2500萬[美元](../Page/美元.md "wikilink")高出許多。据《iThome》报道称，的搜尋成功率已比開始時大幅提升，甚至與[Google](../Page/Google.md "wikilink")類似\[1\]；但与此同时，也有一些人对Bing的搜索能力并不满意\[2\]\[3\]。此外，Bing也遭到了一些争议和批评。
 
 ## 历史
 
@@ -19,7 +19,7 @@ MSN Search与Google几乎同时诞生。微软于1998年的第三个季度创立
 Search还只是一个非正式的项目，由来自Office部门的Rohit
 Wad启动了这个想法。\[5\]。有趣的是，[bzip2的发明人](https://zh.wikipedia.org/wiki/bzip2 "wikilink")，也是MSN
 Search非常早期的技术骨干之一。 1999年初，MSN
-Search推出了新版，该版本混合了和Inktomi的搜索结果。此后除了1999年时很短的一段时间内它使用了[AltaVista的搜索结果](../Page/AltaVista.md "wikilink")，MSN
+Search推出了新版，该版本混合了和Inktomi的搜索结果。此后除了1999年时很短的一段时间内它使用了[AltaVista](../Page/AltaVista.md "wikilink")的搜索结果，MSN
 Search一直按此原理进行搜索。2003年，微软续签了与Inktomi的技术服务协议，但是在此之前，Yahoo已经宣布它即将买下Inktomi，只是交易尚未完成。接着，AltaVista也被Yahoo收购了。从某时起，微软开始自建爬虫和索引，而不是像以前那样只是做结果修饰和整合。该更新从2004年11月开始对外测试，次年2005年2月测试结束。但是，在那个时刻MSN
 Search的图片搜索仍由第三方搜索引擎[Picsearch提供支持](https://zh.wikipedia.org/wiki/Picsearch "wikilink")。MSN
 Search还开始向其他搜索引擎门户提供其搜索结果以便于更好地在市场上竞争。\[6\]
@@ -39,7 +39,7 @@ Search的更替中，微软不再使用Picsearch作为其图像搜索服务的�
 [缩略图](https://zh.wikipedia.org/wiki/File:Live_Search_New.png "fig:缩略图")
 2007年3月21日，微软宣布将其搜索服务与[Windows
 Live分开](../Page/Windows_Live.md "wikilink")，并更名为Live Search。Live
-Search被整合到了由[薩蒂亞·納德拉管理的Live](../Page/薩蒂亞·納德拉.md "wikilink") Search and
+Search被整合到了由[薩蒂亞·納德拉](../Page/薩蒂亞·納德拉.md "wikilink")管理的Live Search and
 Ad Platform。此外，也与Live Search合并。\[8\]
 
 微软搜索服务的一系列重组和整合都是在Live
@@ -59,7 +59,7 @@ Search于2009年6月3日被Bing取代。\[11\]\[12\]
 Search更名为Bing。Bang一词最终没能成为微软搜索服务的新名称，因为在互联网搜索时的上下文中它不能被正确地用作动词。韦伯斯特曾经做出过这样的评价：“哦，‘我撞了它’（I
 banged it）和‘我咬了它’（I binged it）有很大的不同。”\[16\]
 
-[微软副总裁](../Page/微软.md "wikilink")[尤瑟夫·梅赫迪在一封信中称](https://zh.wikipedia.org/wiki/尤瑟夫·梅赫迪 "wikilink")，在给确定中文名稱时，已经知道直接翻译时，有「病」的负面意思。因此在请教了汉语学家后，为其设置一个簡體中文名——「必-{}-应」。「必-{}-应」来源于[成语](../Page/成语.md "wikilink")「有求必-{}-应」，与搜索引擎的目的十分相符。\[17\]\[18\]
+[微软](../Page/微软.md "wikilink")副总裁[尤瑟夫·梅赫迪在一封信中称](https://zh.wikipedia.org/wiki/尤瑟夫·梅赫迪 "wikilink")，在给确定中文名稱时，已经知道直接翻译时，有「病」的负面意思。因此在请教了汉语学家后，为其设置一个簡體中文名——「必-{}-应」。「必-{}-应」来源于[成语](../Page/成语.md "wikilink")「有求必-{}-应」，与搜索引擎的目的十分相符。\[17\]\[18\]
 
 微软在国际版开放了Chat with Bing，使用者可以与他展开文字交流。目前，该功能暂时只支持英语，并且不对“国内版”开放。
 
@@ -69,9 +69,9 @@ banged it）和‘我咬了它’（I binged it）有很大的不同。”\[16\]
 
 2008年2月，微软试图收购雅虎以扩展其互联网业务。但收购最终并未成功。谈判途中，雅虎签订了一个和Google的搜索业务合作协议，为期十年。
 
-2008年底，微软宣布雅虎掌管搜索业务的高管[陸奇即将跳槽加入微软](../Page/陸奇.md "wikilink")。
+2008年底，微软宣布雅虎掌管搜索业务的高管[陸奇](../Page/陸奇.md "wikilink")即将跳槽加入微软。
 
-2009年7月29日，在陸奇等人的努力下，[微软与](../Page/微软.md "wikilink")[雅虎宣布签署一份为期十年的搜索合作协议](../Page/雅虎.md "wikilink")，[雅虎被授权使用](../Page/雅虎.md "wikilink")[搜索的核心技术](https://zh.wikipedia.org/wiki/搜索 "wikilink")，而两家公司共享广告业务带来的利润\[19\]\[20\]。该协议具有排他性。在该协议中，雅虎将其全部的搜索技术提供给微软，并转而使用微软的搜索和搜索广告结果。雅虎从此在搜索业务上只专注于销售，以及保留一个非常小的技术团队与微软对接。双方约定该协议在5年后根据一定条件可以重新修订。
+2009年7月29日，在陸奇等人的努力下，[微软](../Page/微软.md "wikilink")与[雅虎](../Page/雅虎.md "wikilink")宣布签署一份为期十年的搜索合作协议，[雅虎](../Page/雅虎.md "wikilink")被授权使用[搜索的核心技术](https://zh.wikipedia.org/wiki/搜索 "wikilink")，而两家公司共享广告业务带来的利润\[19\]\[20\]。该协议具有排他性。在该协议中，雅虎将其全部的搜索技术提供给微软，并转而使用微软的搜索和搜索广告结果。雅虎从此在搜索业务上只专注于销售，以及保留一个非常小的技术团队与微软对接。双方约定该协议在5年后根据一定条件可以重新修订。
 
 2015年，微软与雅虎的搜索合作协议遭到修订。雅虎被允许使用自己的搜索技术，以及与微软以外的搜索服务商在一定程度上进行商业合作。
 
@@ -79,7 +79,7 @@ banged it）和‘我咬了它’（I binged it）有很大的不同。”\[16\]
 
 除了主域名bing.com外，[Whois查詢结果顯示](https://zh.wikipedia.org/wiki/Whois "wikilink")，[微軟為一些](https://zh.wikipedia.org/wiki/微軟 "wikilink")[國家和地區提供了专属](https://zh.wikipedia.org/wiki/國家 "wikilink")[域名](../Page/域名.md "wikilink")，例如[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")（bing.com.au）、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")（bing.co.nz）、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")（bing.co.uk）、[加拿大](../Page/加拿大.md "wikilink")（bing.ca）、[新加坡](../Page/新加坡.md "wikilink")（bing.sg）、[中國](../Page/中國.md "wikilink")（cn.bing.com）、[香港](../Page/香港.md "wikilink")（bing.com.hk）、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")（bing.tw）、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（bing.de）和[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")（bing.fr）。
 
-的[中國網站也有以下對應其譯名](../Page/中國.md "wikilink")“必應（）”的域名——biying.com、biying.com.cn和biying.cn。
+的[中國](../Page/中國.md "wikilink")網站也有以下對應其譯名“必應（）”的域名——biying.com、biying.com.cn和biying.cn。
 
 ## 功能与App
 
@@ -89,7 +89,7 @@ Maps](../Page/Bing_Maps.md "wikilink")。其中很多程序都提供了不同平
 
 其中，必应工具栏是一个替代MSN工具栏的浏览器扩展工具栏。在工具栏的帮助下，用户提供了从他们的Web浏览器中的Bing和MSN内容的链接，而不需要离开他们已经在的网页。用户可以自定义Bing
 Bar的主题和配色方案，也可以在用户界面中选择性的显示那些MSN相关内容的按钮。\[22\]Bing
-Bar还可以链接到[Outlook.com](../Page/Outlook.com.md "wikilink")、[Skype和](../Page/Skype.md "wikilink")[Facebook](../Page/Facebook.md "wikilink")。\[23\]
+Bar还可以链接到[Outlook.com](../Page/Outlook.com.md "wikilink")、[Skype](../Page/Skype.md "wikilink")和[Facebook](../Page/Facebook.md "wikilink")。\[23\]
 
 ## 争议
 
@@ -103,20 +103,20 @@ Generation的产品，其简称为BING。该公司也以类似的理由发起诉
 
 ### 网络审查
 
-微软为了满足[中国政府的审查要求](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")，在[中国大陆的用户使用](../Page/中国大陆.md "wikilink")[简体中文进行搜索时](https://zh.wikipedia.org/wiki/简体中文 "wikilink")，其内容均会受到审查。\[27\][Google退出中国后](https://zh.wikipedia.org/wiki/Google退出中国事件 "wikilink")，微软也没有停止对简体中文实行审查的意愿。\[28\]无论用户身在何处，只要他们使用简体中文搜索，其结果都会遭到审查。\[29\]
+微软为了满足[中国政府的审查要求](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")，在[中国大陆](../Page/中国大陆.md "wikilink")的用户使用[简体中文进行搜索时](https://zh.wikipedia.org/wiki/简体中文 "wikilink")，其内容均会受到审查。\[27\][Google退出中国后](https://zh.wikipedia.org/wiki/Google退出中国事件 "wikilink")，微软也没有停止对简体中文实行审查的意愿。\[28\]无论用户身在何处，只要他们使用简体中文搜索，其结果都会遭到审查。\[29\]
 
 的中國版（cn.bing.com）服务器设在中國境內，搜索结果会进行内容审查。但在中國大陆使用国际版（bing.com）也无法避开中國政府的审查，输入[简体敏感词时也存在内容过滤的问题](https://zh.wikipedia.org/wiki/简体字 "wikilink")。自2014年8月21日起，中国用户使用国际版时會被强制重定向至中国版（cn.bing.com），使用加密的国际版时会显示[Error404](../Page/HTTP_404.md "wikilink")。對此事，微软未有任何回应。\[30\]
 
 2017年上旬开始，中国大陆用户访问全球版必应global.bing.com时被强制重定向至接受中国政府审查的cn.bing.com，cn.bing.com的首页也删除了相关链接。但下半旬，Bing再次改动了中国版的首页，它在搜索栏顶上附上了“国际版”和“国内版”的切换链接。不过，这个“国际版”仍然在中国cn.bing.com下运行，受到审查，英语搜索结果排名亦受到操控，会着重显示来自中国官媒—如新华网、中国日报等的内容。\[31\]中国大陆以外的用户访问cn.bing.com会被重定向到www.bing.com，搜索结果不受中国政府的审查。
 
 [东八区时间](https://zh.wikipedia.org/wiki/东八区 "wikilink")2019年1月23日下午，据报中国大陆用户无法直接访问必应，部分网民登入需使用[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")，怀疑受到[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")\[32\]。但其子域名及备用域名暂未受影响。
-同日，[上海报业集团旗下的](../Page/上海报业集团.md "wikilink")[-{界面}-新聞报道稱](https://zh.wikipedia.org/wiki/界面新聞 "wikilink")：其“得到必应相关人员证实，由于百度流量冲向必应，必应浏览器暂时无法使用，目前还未恢复。必应已经组织人员修复。”但随后不久就自其网站删除了这一则消息。\[33\]东八区时间24日上午，英媒[金融時報及其中文网称](../Page/金融時報.md "wikilink")“-{消息}-人士”证实必应被屏蔽是[政府的命令](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")\[34\]。[北京时间](../Page/北京时间.md "wikilink")2019年1月24日晚9时，必应在中国大陆大部分地区恢复正常访问\[35\]\[36\]。
+同日，[上海报业集团](../Page/上海报业集团.md "wikilink")旗下的[-{界面}-新聞报道稱](https://zh.wikipedia.org/wiki/界面新聞 "wikilink")：其“得到必应相关人员证实，由于百度流量冲向必应，必应浏览器暂时无法使用，目前还未恢复。必应已经组织人员修复。”但随后不久就自其网站删除了这一则消息。\[33\]东八区时间24日上午，英媒[金融時報](../Page/金融時報.md "wikilink")及其中文网称“-{消息}-人士”证实必应被屏蔽是[政府的命令](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")\[34\]。[北京时间](../Page/北京时间.md "wikilink")2019年1月24日晚9时，必应在中国大陆大部分地区恢复正常访问\[35\]\[36\]。
 
 ### 雙胞案
 
-[台灣版Bing搜尋共有兩處](https://zh.wikipedia.org/wiki/台灣 "wikilink")，一為台灣[微軟所架設的繽](https://zh.wikipedia.org/wiki/微軟 "wikilink")-{}-紛搜尋；另則是全球微軟在推的台灣版。前者延續[MSN的花俏華麗介面](../Page/MSN.md "wikilink")，且除了[搜尋框之外](https://zh.wikipedia.org/wiki/搜尋 "wikilink")，更有各式的分類索引與導覽，類似一個入口網站；後者則仿效[Google的簡潔介面](../Page/Google.md "wikilink")。
+[台灣版Bing搜尋共有兩處](https://zh.wikipedia.org/wiki/台灣 "wikilink")，一為台灣[微軟所架設的繽](https://zh.wikipedia.org/wiki/微軟 "wikilink")-{}-紛搜尋；另則是全球微軟在推的台灣版。前者延續[MSN](../Page/MSN.md "wikilink")的花俏華麗介面，且除了[搜尋框之外](https://zh.wikipedia.org/wiki/搜尋 "wikilink")，更有各式的分類索引與導覽，類似一個入口網站；後者則仿效[Google](../Page/Google.md "wikilink")的簡潔介面。
 
-根據台灣微軟的說法，Bing「繽-{}-紛搜尋」是台灣微軟投入大量資源進行在地化開發的成果，智慧分類介面讓使用者更容易找到所需要的資訊。這項新功能讓繽-{}-紛搜尋與其他競爭對手（[Google及](../Page/Google.md "wikilink")[Yahoo等](https://zh.wikipedia.org/wiki/Yahoo "wikilink")）有很大的不同，這樣的設計使繽-{}-紛搜尋可以達到讓使用者獲得「五彩繽-{}-紛」又便利的搜尋結果。\[37\]針對雙胞案對用戶可能造成的不便，當時台灣微軟也承諾未來將進一步予以整合，但必須等到官方版功能到位後，再視市場需求決定整合方案。\[38\]
+根據台灣微軟的說法，Bing「繽-{}-紛搜尋」是台灣微軟投入大量資源進行在地化開發的成果，智慧分類介面讓使用者更容易找到所需要的資訊。這項新功能讓繽-{}-紛搜尋與其他競爭對手（[Google](../Page/Google.md "wikilink")及[Yahoo等](https://zh.wikipedia.org/wiki/Yahoo "wikilink")）有很大的不同，這樣的設計使繽-{}-紛搜尋可以達到讓使用者獲得「五彩繽-{}-紛」又便利的搜尋結果。\[37\]針對雙胞案對用戶可能造成的不便，當時台灣微軟也承諾未來將進一步予以整合，但必須等到官方版功能到位後，再視市場需求決定整合方案。\[38\]
 
 現今，[台灣使用的Bing搜尋](https://zh.wikipedia.org/wiki/台灣 "wikilink")，已經整合，網站為-{Bing.com}-。
 

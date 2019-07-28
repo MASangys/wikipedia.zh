@@ -1,10 +1,10 @@
 **Skyfire**是一款執行於[Windows
-Mobile](../Page/Windows_Mobile.md "wikilink")、[Android及](../Page/Android.md "wikilink")[iOS平台上的手機](https://zh.wikipedia.org/wiki/iOS "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
+Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wikilink")及[iOS平台上的手機](https://zh.wikipedia.org/wiki/iOS "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
 
 ## 工作原理
 
 旧版Skyfire
-1.x的工作原理是通过[代理服务器完成网页解析后将图片传输至客户端显示](../Page/代理服务器.md "wikilink")。因此，Skyfire可以正常打开排版复杂的网页，也可以正常播放网页中的[Flash动画](https://zh.wikipedia.org/wiki/Flash动画 "wikilink")。2.0版及之后的Skyfire放弃了全局中转模式，改为使用服务端处理和本地解析相结合的方式，以获得更好的浏览体验。新版Skyfire可以在服务器端将Flash视频播放控件转换为使用[HTML5的视频播放控件](../Page/HTML5.md "wikilink")，使用户能在没有Flash支持的[iOS设备或](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android上观看互联网上的Flash视频](../Page/Android.md "wikilink")。
+1.x的工作原理是通过[代理服务器](../Page/代理服务器.md "wikilink")完成网页解析后将图片传输至客户端显示。因此，Skyfire可以正常打开排版复杂的网页，也可以正常播放网页中的[Flash动画](https://zh.wikipedia.org/wiki/Flash动画 "wikilink")。2.0版及之后的Skyfire放弃了全局中转模式，改为使用服务端处理和本地解析相结合的方式，以获得更好的浏览体验。新版Skyfire可以在服务器端将Flash视频播放控件转换为使用[HTML5](../Page/HTML5.md "wikilink")的视频播放控件，使用户能在没有Flash支持的[iOS设备或](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")上观看互联网上的Flash视频。
 
 ## 工作条件
 
@@ -20,7 +20,7 @@ Skyfire
 Store](https://zh.wikipedia.org/wiki/Ovi_\(诺基亚\)#Ovi.E5.95.86.E5.BA.97 "wikilink")，[Android
 Market](https://zh.wikipedia.org/wiki/Android_Market "wikilink")，[App
 Store下载](https://zh.wikipedia.org/wiki/App_Store "wikilink")。官方网站上也提供了Skyfire对应的[QR
-code](https://zh.wikipedia.org/wiki/QR_code "wikilink")，可以用[Android平台的手机直接扫描并下载](../Page/Android.md "wikilink")。对于来自中国等地的访问，官方网站已经停止了对[Windows
+code](https://zh.wikipedia.org/wiki/QR_code "wikilink")，可以用[Android](../Page/Android.md "wikilink")平台的手机直接扫描并下载。对于来自中国等地的访问，官方网站已经停止了对[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")、Symbian
 [S60平台的](https://zh.wikipedia.org/wiki/S60 "wikilink")1.x版本的下载。
 

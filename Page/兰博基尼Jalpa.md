@@ -1,5 +1,5 @@
 **兰博基尼Jalpa**（意大利語：**Lamborghini
-Jalpa**），是[意大利跑車製造商](../Page/意大利.md "wikilink")[兰博基尼生產的跑車](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")，製造於1981-1988年間，使用V8/3485C.C.引擎255匹馬力。其名字來自著名品種的鬥牛。1988年，因是項車型銷售下降，新股東[克萊斯勒決定結束Jalpa生產](https://zh.wikipedia.org/wiki/克萊斯勒 "wikilink")。
+Jalpa**），是[意大利](../Page/意大利.md "wikilink")跑車製造商[兰博基尼生產的跑車](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")，製造於1981-1988年間，使用V8/3485C.C.引擎255匹馬力。其名字來自著名品種的鬥牛。1988年，因是項車型銷售下降，新股東[克萊斯勒決定結束Jalpa生產](https://zh.wikipedia.org/wiki/克萊斯勒 "wikilink")。
 
 製造商[兰博基尼聲稱](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")，是項車型的最高時速為234KM/H。
 

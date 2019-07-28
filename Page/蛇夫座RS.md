@@ -1,5 +1,5 @@
 **蛇夫座RS**（*RS
-Oph*）是在[蛇夫座距離地球大約](../Page/蛇夫座.md "wikilink")5,000光年的一顆[新星](../Page/新星.md "wikilink")，它在寧靜階段的[視星等大約](https://zh.wikipedia.org/wiki/視星等 "wikilink")12.5等，曾在1898年、1933年、1958年、1967年、1985、2006年爆發，平均亮度達到5等。大約每20年，從紅巨星吸積在白矮星的材料就足以在表面產生[熱核爆炸](https://zh.wikipedia.org/wiki/熱核爆炸 "wikilink")。白矮星在紅巨星擴張的大氣層內循著軌道運行，以[吸積盤集聚紅巨星的大氣至白矮星](https://zh.wikipedia.org/wiki/吸積盤 "wikilink")。
+Oph*）是在[蛇夫座](../Page/蛇夫座.md "wikilink")距離地球大約5,000光年的一顆[新星](../Page/新星.md "wikilink")，它在寧靜階段的[視星等大約](https://zh.wikipedia.org/wiki/視星等 "wikilink")12.5等，曾在1898年、1933年、1958年、1967年、1985、2006年爆發，平均亮度達到5等。大約每20年，從紅巨星吸積在白矮星的材料就足以在表面產生[熱核爆炸](https://zh.wikipedia.org/wiki/熱核爆炸 "wikilink")。白矮星在紅巨星擴張的大氣層內循著軌道運行，以[吸積盤集聚紅巨星的大氣至白矮星](https://zh.wikipedia.org/wiki/吸積盤 "wikilink")。
 
 ## 新星
 
@@ -10,7 +10,7 @@ Oph*）是在[蛇夫座距離地球大約](../Page/蛇夫座.md "wikilink")5,000
 ### 1933年
 
 1933年的爆發是在[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[波洛尼亞的](https://zh.wikipedia.org/wiki/波洛尼亞 "wikilink")[Eppe
-Loreta最先發現的](https://zh.wikipedia.org/wiki/Eppe_Loreta "wikilink")。Loreta在觀察[蛇夫座Y時](../Page/蛇夫座Y.md "wikilink")，注意到在蛇夫座Y西南50弧分有一顆亮星，對這個亮星的光度偵測，得到了蛇夫座RS第二次爆發的紀錄。幾天之後，[Leslie
+Loreta最先發現的](https://zh.wikipedia.org/wiki/Eppe_Loreta "wikilink")。Loreta在觀察[蛇夫座Y](../Page/蛇夫座Y.md "wikilink")時，注意到在蛇夫座Y西南50弧分有一顆亮星，對這個亮星的光度偵測，得到了蛇夫座RS第二次爆發的紀錄。幾天之後，[Leslie
 Peltier](https://zh.wikipedia.org/wiki/Leslie_Peltier "wikilink")（P）在對變星做例行的檢查時也獨立的發現這顆新星。
 
 ### 1958年

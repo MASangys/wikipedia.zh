@@ -26,7 +26,7 @@ TAPI
 3.x則整合至COM object架構。
 
 TAPI 3.x與TAPI 2.x在功能上並不完全相同，3.x版加強了整合多媒體控制（media
-control）的部份。支援標準的[H.323會議和IP多點傳送](../Page/H.323.md "wikilink")（IP
+control）的部份。支援標準的[H.323](../Page/H.323.md "wikilink")會議和IP多點傳送（IP
 Multicast）會議，H.323可當作[RTP使用](https://zh.wikipedia.org/wiki/RTP "wikilink")。但TAPI
 3.x無法包含所有的TAPI 2.x功能，例如在支援Phone class方面。
 

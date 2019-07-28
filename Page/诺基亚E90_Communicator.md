@@ -1,5 +1,5 @@
 **诺基亚 E90
-Communicator**，是[诺基亚出品的一款高端商务](../Page/诺基亚.md "wikilink")[3G](../Page/3G.md "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")。
+Communicator**，是[诺基亚](../Page/诺基亚.md "wikilink")出品的一款高端商务[3G](../Page/3G.md "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")。
 
 ## 技术细节
 

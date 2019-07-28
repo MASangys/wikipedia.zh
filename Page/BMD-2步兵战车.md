@@ -1,5 +1,5 @@
 **BMD-2伞兵战车** (俄语：Боевая Машина Десантная－2
-简称БМД—2）是前[苏联于](../Page/苏联.md "wikilink")1985年代研发，1988年正式装备前苏联[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第二款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和[BMD-1完全一样](../Page/BMD-1步兵戰車.md "wikilink")。
+简称БМД—2）是前[苏联](../Page/苏联.md "wikilink")于1985年代研发，1988年正式装备前苏联[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第二款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和[BMD-1完全一样](../Page/BMD-1步兵戰車.md "wikilink")。
 但是装备了与BMP-2步兵战车一样的炮塔。因此被戏称为“BMD-2等于BMD-1的底盘加上BMP-2的炮塔”。
 
 ## 研发和装备背景
@@ -14,7 +14,7 @@
 
 ## 武器系统
 
-主要武器为一门[2A42型](../Page/希普諾夫2A42機炮.md "wikilink")30毫米[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")，双向稳定（可行进间开火）高平两用，可360度旋转，高低射界为－5～＋75度。可选择200，300，500发每分的射速。主炮上方装有一具[AT-4](https://zh.wikipedia.org/wiki/AT-4 "wikilink")（后期型号装备[AT-5](https://zh.wikipedia.org/wiki/AT-5 "wikilink")）[反坦克导弹发射器](../Page/反坦克导弹.md "wikilink")。
+主要武器为一门[2A42型](../Page/希普諾夫2A42機炮.md "wikilink")30毫米[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")，双向稳定（可行进间开火）高平两用，可360度旋转，高低射界为－5～＋75度。可选择200，300，500发每分的射速。主炮上方装有一具[AT-4](https://zh.wikipedia.org/wiki/AT-4 "wikilink")（后期型号装备[AT-5](https://zh.wikipedia.org/wiki/AT-5 "wikilink")）[反坦克导弹](../Page/反坦克导弹.md "wikilink")发射器。
 射程500～4000m。
 
 辅助武器为1挺7.62mm[并列机枪](https://zh.wikipedia.org/wiki/并列机枪 "wikilink")，备弹2980发。1挺7.62mm[航向机枪](https://zh.wikipedia.org/wiki/航向机枪 "wikilink")，备弹2980发。载员舱侧面开有射击孔，载员可在车内向外以轻武器射击。
@@ -27,7 +27,7 @@
 
 ## 空投技术
 
-和BMD-1完全相同，以[安-12运输机可运](https://zh.wikipedia.org/wiki/安-12 "wikilink")2辆，[伊尔-76可运](../Page/伊尔-76.md "wikilink")3辆，[安-22可运](https://zh.wikipedia.org/wiki/安-22 "wikilink")4辆，[米-6直升机可吊挂](https://zh.wikipedia.org/wiki/米-6 "wikilink")1辆。
+和BMD-1完全相同，以[安-12运输机可运](https://zh.wikipedia.org/wiki/安-12 "wikilink")2辆，[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆，[安-22可运](https://zh.wikipedia.org/wiki/安-22 "wikilink")4辆，[米-6直升机可吊挂](https://zh.wikipedia.org/wiki/米-6 "wikilink")1辆。
 
 利用辅助喷气式伞降系统实施空降。 空降过程如下：
 
@@ -50,7 +50,7 @@
 
 ## 装甲/防御
 
-为钢装甲全[焊接结构](../Page/焊接.md "wikilink")，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。
+为钢装甲全[焊接](../Page/焊接.md "wikilink")结构，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。
 
 但有资料称为[铝合金装甲全焊接结构](https://zh.wikipedia.org/wiki/铝合金 "wikilink")。有三防装置。
 

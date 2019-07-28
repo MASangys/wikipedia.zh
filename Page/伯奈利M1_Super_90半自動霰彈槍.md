@@ -1,11 +1,11 @@
 **伯奈利M1（Super
-90）**（）是一枝由[意大利槍械製造商](../Page/意大利.md "wikilink")[伯奈利所設計及生產的](../Page/伯奈利.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+90）**（）是一枝由[意大利](../Page/意大利.md "wikilink")槍械製造商[伯奈利](../Page/伯奈利.md "wikilink")所設計及生產的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 簡介
 
-伯奈利M1是可得軍方、執法單位、民用三方所接受的霰彈槍，其最大特徵是伯奈利[专利的](../Page/专利.md "wikilink")[後座作用系統](../Page/後座作用.md "wikilink")—慣性後坐，有著高度可靠性和容易的維護的優點，惟其慣性後坐系統的設計問題，伯奈利M1需要大量高壓火藥燃氣以確保其循環正常。
+伯奈利M1是可得軍方、執法單位、民用三方所接受的霰彈槍，其最大特徵是伯奈利[专利](../Page/专利.md "wikilink")的[後座作用](../Page/後座作用.md "wikilink")系統—慣性後坐，有著高度可靠性和容易的維護的優點，惟其慣性後坐系統的設計問題，伯奈利M1需要大量高壓火藥燃氣以確保其循環正常。
 
-標準型伯奈利M1的特徵是使用了[鋁合金製造](../Page/鋁合金.md "wikilink")、[管式彈倉和可轉換標準](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[手握式槍托或](https://zh.wikipedia.org/wiki/手握式槍托 "wikilink")[槍托](../Page/槍托.md "wikilink")。伯奈利M1適合使用傳統的缺口式機械照門或[鬼環式照門](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")，另外亦可安裝[雷射瞄準器或](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈等戰術配件](../Page/戰術燈.md "wikilink")。
+標準型伯奈利M1的特徵是使用了[鋁合金](../Page/鋁合金.md "wikilink")製造、[管式彈倉和可轉換標準](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[手握式槍托或](https://zh.wikipedia.org/wiki/手握式槍托 "wikilink")[槍托](../Page/槍托.md "wikilink")。伯奈利M1適合使用傳統的缺口式機械照門或[鬼環式照門](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")，另外亦可安裝[雷射瞄準器或](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")等戰術配件。
 
 ## 流行文化
 
@@ -26,18 +26,18 @@
 
   - ：被[國家憲兵干預隊和RAID所採用](https://zh.wikipedia.org/wiki/國家憲兵干預隊 "wikilink")。\[1\]
 
-  - ：被[警務處](../Page/香港警務處.md "wikilink")[機場特警組和](../Page/機場特警組.md "wikilink")[特別任務連所採用](../Page/特別任務連.md "wikilink")。
+  - ：被[警務處](../Page/香港警務處.md "wikilink")[機場特警組](../Page/機場特警組.md "wikilink")和[特別任務連](../Page/特別任務連.md "wikilink")所採用。
 
   -
   -
   -
-  - ：被[維安特勤隊和要員保鏢單位所採用](../Page/維安特勤隊.md "wikilink")。\[2\]
+  - ：被[維安特勤隊](../Page/維安特勤隊.md "wikilink")和要員保鏢單位所採用。\[2\]
 
   -
   -
   -
   -
-  - ：被各個警察局的[特種武器和戰術部隊所採用](../Page/特種武器和戰術部隊.md "wikilink")。
+  - ：被各個警察局的[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")所採用。
 
 ## 參見
 

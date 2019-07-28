@@ -1,4 +1,4 @@
-《**Dancing Blade 任性桃天使！**》（）為[科樂美發售之互動式動畫](../Page/科樂美.md "wikilink")。
+《**Dancing Blade 任性桃天使！**》（）為[科樂美](../Page/科樂美.md "wikilink")發售之互動式動畫。
 
 遊戲一輪需要30分鐘左右，利用動畫中特定時機出現的選項使故事產生分歧，是一款多重結局[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [廣播劇CD](../Page/廣播劇.md "wikilink")
+  - [廣播劇](../Page/廣播劇.md "wikilink")CD
 
 <!-- end list -->
 
@@ -112,7 +112,7 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
 
     有一天，桃姬得知了自己是從桃子出生，於是為了尋找自己出生的秘密踏上旅途。
 
-    在插畫及電話卡等圖片上，是作品中最多[殺必死圖片的角色](../Page/殺必死.md "wikilink")。
+    在插畫及電話卡等圖片上，是作品中最多[殺必死](../Page/殺必死.md "wikilink")圖片的角色。
 
   -
     桃姬因神祕的聲音指引而覺醒後的模樣，白桃丸的外型也會跟著改變。
@@ -232,7 +232,7 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
   - 特效監督：[北之原孝將](https://zh.wikipedia.org/wiki/北之原孝將 "wikilink")
   - 動畫：京都動畫大阪工作室、
   - 色彩設定：[石井祥子](https://zh.wikipedia.org/wiki/石井祥子 "wikilink")
-  - 數位製作：[京都動畫數位開發部](../Page/京都動畫.md "wikilink")、[山本寬](../Page/山本寬.md "wikilink")
+  - 數位製作：[京都動畫](../Page/京都動畫.md "wikilink")數位開發部、[山本寬](../Page/山本寬.md "wikilink")
   - 美術設定：[森川篤](https://zh.wikipedia.org/wiki/森川篤 "wikilink")
   - 美術監督：[鵜之口穰二](https://zh.wikipedia.org/wiki/鵜之口穰二 "wikilink")
   - 制作製作人：[八田陽子](https://zh.wikipedia.org/wiki/八田陽子 "wikilink")

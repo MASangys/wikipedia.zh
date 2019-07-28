@@ -139,7 +139,7 @@ PlotData =
   - 同年7月，發行第三張原創日語單曲《[Dear My
     Friend](../Page/Dear_My_Friend_\(U-KISS單曲\).md "wikilink")》，並宣佈8月會出席[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")「music
     week - Asia Progress M」和「statium fes.」
-  - 同年9月，成員AJ將會暫時離隊，以便專心學業。而9月的[日本武道館演唱會和第七張迷你專輯](../Page/日本武道館.md "wikilink")《[Stop
+  - 同年9月，成員AJ將會暫時離隊，以便專心學業。而9月的[日本武道館](../Page/日本武道館.md "wikilink")演唱會和第七張迷你專輯《[Stop
     Girl](../Page/Stop_Girl.md "wikilink")》的回歸，他亦不會參與。第四張原創日語單曲《[One of
     You](../Page/One_of_You.md "wikilink")》為AJ於2012年最後參與的作品
   - U-KISS於12月，發行第五張原創日語單曲《[Distance...](../Page/Distance....md "wikilink")》
@@ -215,7 +215,7 @@ PlotData =
 
   - 2018年1月尾，U-KISS的官方網站宣布將在3月21日發行第二張個人Solo與分隊的專輯《[Link](../Page/Link_\(U-KISS專輯\).md "wikilink")》，代表將U-KISS和歌迷「KISSme」連接起來。這也是U-KISS隊長秀鉉服兵役後組合第一次以四人體制發行的作品。
   - 2018年2月11日，在選秀節目《The
-    Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB出道](../Page/UNB.md "wikilink")，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
+    Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB](../Page/UNB.md "wikilink")出道，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
   - 2018年3月8日，U-KISS發表《Link》中主打歌《No
     Regret》的MV，《Link》亦於3月21日開賣，於日本公信榜周榜獲得第四。
   - 2018年5月2日，U-KISS的日本官方網站宣布基燮與Hoon組成小組，將在7月4日發行日語合作單曲《Train/Milk

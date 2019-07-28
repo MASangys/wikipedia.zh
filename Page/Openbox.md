@@ -1,17 +1,17 @@
 **Openbox**是一种用于X
-Window系統的[窗口管理器](../Page/X_Window系統.md "wikilink")，它可运行于[UNIX以及](../Page/UNIX.md "wikilink")[Linux](../Page/Linux.md "wikilink")、[FreeBSD等](../Page/FreeBSD.md "wikilink")[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系统上](../Page/操作系统.md "wikilink")，采用[GPL協議进行授权](https://zh.wikipedia.org/wiki/GPL "wikilink")。
+Window系統的[窗口管理器](../Page/X_Window系統.md "wikilink")，它可运行于[UNIX](../Page/UNIX.md "wikilink")以及[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")等[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")上，采用[GPL協議进行授权](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
-Openbox被設計成一個輕量級，可高度定制且包含广泛标准支持的窗口管理器，它也是[LXDE桌面環境的默認窗口管理器](../Page/LXDE.md "wikilink")\[1\]，并且被[CrunchBang](https://zh.wikipedia.org/wiki/CrunchBang_Linux "wikilink")、[Lubuntu](../Page/Lubuntu.md "wikilink")、[ArchBang](../Page/ArchBang.md "wikilink")、等作为默认窗口管理器。
+Openbox被設計成一個輕量級，可高度定制且包含广泛标准支持的窗口管理器，它也是[LXDE](../Page/LXDE.md "wikilink")桌面環境的默認窗口管理器\[1\]，并且被[CrunchBang](https://zh.wikipedia.org/wiki/CrunchBang_Linux "wikilink")、[Lubuntu](../Page/Lubuntu.md "wikilink")、[ArchBang](../Page/ArchBang.md "wikilink")、等作为默认窗口管理器。
 
 ## 特性
 
 Openbox的選單系統可以運用動態選單。這通過接受腳本輸出的原始碼構建選單。每次用戶的游標指向子選單時，腳本就會再次運行，並重新生成選單。該功能使用者和軟體開發者相比在其他檔案管理器找到的標準靜態選單，有更大的靈活性。
 
-例如，兩位開發者用[Python編寫了一個腳本](../Page/Python.md "wikilink")，以在一個子選單中列出使用者的[Gmail新訊息](../Page/Gmail.md "wikilink")。
+例如，兩位開發者用[Python](../Page/Python.md "wikilink")編寫了一個腳本，以在一個子選單中列出使用者的[Gmail](../Page/Gmail.md "wikilink")新訊息。
 
 ## 使用Openbox
 
-Openbox允許右鍵（或綁定其他按鍵）桌面調用“根目錄”，允許用戶圖形化的管理方式。通常用其他[任務欄和](https://zh.wikipedia.org/wiki/任務欄 "wikilink")[啟動程式配合Openbox使用](../Page/啟動程式.md "wikilink")。Openbox可以在[GNOME或](../Page/GNOME.md "wikilink")[KDE桌面環境中使用](../Page/KDE.md "wikilink")，代替[Metacity或](../Page/Metacity.md "wikilink")[KWin](../Page/KWin.md "wikilink")。
+Openbox允許右鍵（或綁定其他按鍵）桌面調用“根目錄”，允許用戶圖形化的管理方式。通常用其他[任務欄和](https://zh.wikipedia.org/wiki/任務欄 "wikilink")[啟動程式](../Page/啟動程式.md "wikilink")配合Openbox使用。Openbox可以在[GNOME](../Page/GNOME.md "wikilink")或[KDE](../Page/KDE.md "wikilink")桌面環境中使用，代替[Metacity](../Page/Metacity.md "wikilink")或[KWin](../Page/KWin.md "wikilink")。
 
 ## 設置
 

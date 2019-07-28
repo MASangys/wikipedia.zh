@@ -2,16 +2,16 @@
 
 ## 概要
 
-  - 由1992年10月退休的[角川書店副社長](../Page/角川書店.md "wikilink")[角川歷彥](../Page/角川歷彥.md "wikilink")，和歷彥曾擔任過社長的角川書店子公司「角川Media
-    Office」的職員為中心所成立。以[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")、[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[輕小說等以年輕人取向的書籍為出版主力](../Page/輕小說.md "wikilink")。另外雖然事業主軸是出版，也有開發販售使用自家角色等的[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
-  - [關西電視台的關係企業裡也有相同名字的公司](../Page/關西電視台.md "wikilink")，但兩者毫無關聯。
+  - 由1992年10月退休的[角川書店](../Page/角川書店.md "wikilink")副社長[角川歷彥](../Page/角川歷彥.md "wikilink")，和歷彥曾擔任過社長的角川書店子公司「角川Media
+    Office」的職員為中心所成立。以[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")、[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[輕小說](../Page/輕小說.md "wikilink")等以年輕人取向的書籍為出版主力。另外雖然事業主軸是出版，也有開發販售使用自家角色等的[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
+  - [關西電視台](../Page/關西電視台.md "wikilink")的關係企業裡也有相同名字的公司，但兩者毫無關聯。
   - 2002年10月，和角川書店交換持股。
   - 自2008年4月1日起與同為角川旗下出版[IT相關書籍雜誌的](https://zh.wikipedia.org/wiki/IT "wikilink")[ASCII合併](../Page/ASCII_\(公司\).md "wikilink")，成為[ASCII
     MediaWorks](https://zh.wikipedia.org/wiki/ASCII_MediaWorks "wikilink")。
 
 ## 成立過程
 
-1992年，當時的角川書店社長[角川春樹投入電影事業](../Page/角川春樹.md "wikilink")、副社長為社長的弟弟角川歷彥負責《[The
+1992年，當時的角川書店社長[角川春樹](../Page/角川春樹.md "wikilink")投入電影事業、副社長為社長的弟弟角川歷彥負責《[The
 Television](https://zh.wikipedia.org/wiki/The_Television "wikilink")》與《[東京Walker](https://zh.wikipedia.org/wiki/東京Walker "wikilink")》等雜誌部門來提升收益。歷彥也同時兼任角川書店子公司的角川Media
 Office社長職務，同社出版有《[Comptiq](../Page/Comptiq.md "wikilink")》、《》、《[月刊Comic
 Comp](https://zh.wikipedia.org/wiki/月刊Comic_Comp "wikilink")》等遊戲、漫畫雜誌，向以ACG愛好者為對象的複合式媒體邁進。但在經營方向的問題上春樹和歷彥兩人對立，歷彥辭去角川書店副社長和角川Media
@@ -111,7 +111,7 @@ Works的出版物也自然地將目標集中在遊戲和漫畫、動畫方面上
 
 ## 雜記
 
-和發行美少女遊戲雜誌的[Enterbrain與](../Page/Enterbrain.md "wikilink")[Coremagazine](https://zh.wikipedia.org/wiki/Coremagazine "wikilink")，曾聯手共同開發與提攜《》（人物設定：）。
+和發行美少女遊戲雜誌的[Enterbrain](../Page/Enterbrain.md "wikilink")與[Coremagazine](https://zh.wikipedia.org/wiki/Coremagazine "wikilink")，曾聯手共同開發與提攜《》（人物設定：）。
 
 ## 註釋
 

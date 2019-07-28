@@ -3,7 +3,7 @@
 ## 軟體列表
 
   - [KFileReplace](https://zh.wikipedia.org/wiki/KFileReplace "wikilink")：搜索和替換檔案的程式
-  - [KImageMapEditor](https://zh.wikipedia.org/wiki/KImageMapEditor "wikilink")：[HTML圖片地圖編輯軟件](../Page/HTML.md "wikilink")。一個地圖映射的定義只需框選指定的圖片區域並填寫連結目標就可以完成。
+  - [KImageMapEditor](https://zh.wikipedia.org/wiki/KImageMapEditor "wikilink")：[HTML](../Page/HTML.md "wikilink")圖片地圖編輯軟件。一個地圖映射的定義只需框選指定的圖片區域並填寫連結目標就可以完成。
   - [KLinkStatus](https://zh.wikipedia.org/wiki/KLinkStatus "wikilink")：鏈接檢查器。对相应
     URL 目录树下的所有牵涉到的鏈接進行完整性檢驗
   - [Kommander](https://zh.wikipedia.org/wiki/Kommander "wikilink")：對話框編輯器，它是一个

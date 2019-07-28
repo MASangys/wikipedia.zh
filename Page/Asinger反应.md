@@ -1,6 +1,6 @@
 **Asinger反应**（Asinger reaction）
 
-α-[卤代羰基化合物与](https://zh.wikipedia.org/wiki/卤代羰基化合物 "wikilink")[硫氢化钠在](../Page/硫氢化钠.md "wikilink")[原位反应产生的](https://zh.wikipedia.org/wiki/原位 "wikilink")[硫醇直接与另一](../Page/硫醇.md "wikilink")[羰基化合物组分和](https://zh.wikipedia.org/wiki/羰基化合物 "wikilink")[氨反应生成](../Page/氨.md "wikilink")[噻唑啉环](https://zh.wikipedia.org/wiki/噻唑啉 "wikilink")。
+α-[卤代羰基化合物与](https://zh.wikipedia.org/wiki/卤代羰基化合物 "wikilink")[硫氢化钠](../Page/硫氢化钠.md "wikilink")在[原位反应产生的](https://zh.wikipedia.org/wiki/原位 "wikilink")[硫醇](../Page/硫醇.md "wikilink")直接与另一[羰基化合物组分和](https://zh.wikipedia.org/wiki/羰基化合物 "wikilink")[氨](../Page/氨.md "wikilink")反应生成[噻唑啉环](https://zh.wikipedia.org/wiki/噻唑啉 "wikilink")。
 1956年由德国化学家 Friedrich Asinger 在苏联发现，\[1\] 后被 Degussa 改进。\[2\]
 
 

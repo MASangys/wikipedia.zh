@@ -1,7 +1,7 @@
 是即時戰略遊戲《[魔獸爭霸：獸人與人類](https://zh.wikipedia.org/wiki/魔獸爭霸：獸人與人類 "wikilink")》的續作。該作發行於1995年12月，是由暴雪娛樂開發的。玩家將再次操控獸人或人類，在一個擁有劍與魔法的幻想的世界中進行遊戲。
 
 該遊戲最初是為MS-DOS版本，還有一個Mac
-OS版本的遊戲。[暴雪娛樂還發布了一個資料片](../Page/暴雪娛樂.md "wikilink")－《[魔兽争霸II：黑暗之门](../Page/魔兽争霸II：黑暗之门.md "wikilink")》。在1996年4月30日，暴雪發布《魔獸爭霸2：黑暗浪潮》的Microsoft
+OS版本的遊戲。[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")還發布了一個資料片－《[魔兽争霸II：黑暗之门](../Page/魔兽争霸II：黑暗之门.md "wikilink")》。在1996年4月30日，暴雪發布《魔獸爭霸2：黑暗浪潮》的Microsoft
 Windows版本。
 
 ## 故事背景
@@ -24,7 +24,7 @@ Windows版本。
 
 ## Battle.net版
 
-[GameSpot认为虽然电脑AI的行为预见但却是很高效的系统](../Page/GameSpot.md "wikilink")，而且经过了4年更新，也比它在1999年刚发布时该款[RTS更好玩](https://zh.wikipedia.org/wiki/RTS "wikilink")。经过了[暗黑和](https://zh.wikipedia.org/wiki/暗黑 "wikilink")[星际争霸](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")、[魔兽争霸IIBattle.net版也更加可靠](https://zh.wikipedia.org/wiki/战网 "wikilink")，而且由于战网的免费的，能吸引更多的新老玩家。虽然游戏引擎是1995年的，不过在1999年玩起来也仍然很不错。\[1\]
+[GameSpot](../Page/GameSpot.md "wikilink")认为虽然电脑AI的行为预见但却是很高效的系统，而且经过了4年更新，也比它在1999年刚发布时该款[RTS更好玩](https://zh.wikipedia.org/wiki/RTS "wikilink")。经过了[暗黑和](https://zh.wikipedia.org/wiki/暗黑 "wikilink")[星际争霸](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")、[魔兽争霸IIBattle.net版也更加可靠](https://zh.wikipedia.org/wiki/战网 "wikilink")，而且由于战网的免费的，能吸引更多的新老玩家。虽然游戏引擎是1995年的，不过在1999年玩起来也仍然很不错。\[1\]
 
 ## 参考资料
 

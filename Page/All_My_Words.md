@@ -1,5 +1,5 @@
 《**All My
-Words**》是[中国大陆演员](../Page/中国大陆.md "wikilink")[刘亦菲的首张](../Page/刘亦菲.md "wikilink")[日语专辑](../Page/日语.md "wikilink")，于2006年9月6日在[日本发行](../Page/日本.md "wikilink")，署名为“”（“**Yifei**”的[片假名音译](../Page/片假名.md "wikilink")）。本专辑在日本销量不佳，[Oricon公信榜未上榜](../Page/Oricon公信榜.md "wikilink")。
+Words**》是[中国大陆](../Page/中国大陆.md "wikilink")演员[刘亦菲](../Page/刘亦菲.md "wikilink")的首张[日语](../Page/日语.md "wikilink")专辑，于2006年9月6日在[日本](../Page/日本.md "wikilink")发行，署名为“”（“**Yifei**”的[片假名](../Page/片假名.md "wikilink")音译）。本专辑在日本销量不佳，[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")未上榜。
 
 ## 概要
 

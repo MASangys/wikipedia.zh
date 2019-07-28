@@ -7,9 +7,9 @@ X的](https://zh.wikipedia.org/wiki/macOS "wikilink")「UTAU-Synth」。2010年1
 
 UTAU的正式名稱為「歌聲合成工具UTAU」，是在「人力[VOCALOID](../Page/VOCALOID.md "wikilink")」（透過剪輯人声來達成接近vocaloid的效果）下誕生的產物。軟體開發者為飴屋／菖蒲氏，於[niconico動畫上被稱為飴屋P](https://zh.wikipedia.org/wiki/niconico "wikilink")。
 
-UTAU最大的特徵，是使用自己或者他人錄製的[50音](https://zh.wikipedia.org/wiki/50音 "wikilink")[WAVE數據](../Page/WAV.md "wikilink")-{}-資料，在該軟體[資料庫登錄之後](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，便可用該聲音合成歌曲。
+UTAU最大的特徵，是使用自己或者他人錄製的[50音](https://zh.wikipedia.org/wiki/50音 "wikilink")[WAV](../Page/WAV.md "wikilink")E數據-{}-資料，在該軟體[資料庫登錄之後](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，便可用該聲音合成歌曲。
 
-聲音數據之[WAVE格式應為](../Page/WAV.md "wikilink")：單聲道（Mono），44100Hz，16bit。
+聲音數據之[WAV](../Page/WAV.md "wikilink")E格式應為：單聲道（Mono），44100Hz，16bit。
 
 ## 參見
 

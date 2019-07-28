@@ -1,5 +1,5 @@
 **Moblin**，'mobile
-Linux'的簡稱，是一個開源的、基於[Linux的作業系統](../Page/Linux.md "wikilink")，用於移動互聯網設備（[MID](https://zh.wikipedia.org/wiki/MID "wikilink")）、嵌入式裝置，與其他新的類別的設備，如[netbook與](https://zh.wikipedia.org/wiki/netbook "wikilink")[nettop](https://zh.wikipedia.org/wiki/nettop "wikilink")
+Linux'的簡稱，是一個開源的、基於[Linux](../Page/Linux.md "wikilink")的作業系統，用於移動互聯網設備（[MID](https://zh.wikipedia.org/wiki/MID "wikilink")）、嵌入式裝置，與其他新的類別的設備，如[netbook與](https://zh.wikipedia.org/wiki/netbook "wikilink")[nettop](https://zh.wikipedia.org/wiki/nettop "wikilink")
 。
 
 ## 歷史
@@ -9,7 +9,7 @@ Linux'的簡稱，是一個開源的、基於[Linux的作業系統](../Page/Linu
 
 在2009年4月，英特爾將Moblin移交給[Linux基金會](../Page/Linux基金會.md "wikilink")，以擴大開源社群的參與。
 
-2010年2月的[全球移動通訊大會中](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink")，英特爾宣布Moblin將與Nokia推動的[Maemo合作](../Page/Maemo.md "wikilink")，推出[MeeGo平台](../Page/MeeGo.md "wikilink")。
+2010年2月的[全球移動通訊大會中](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink")，英特爾宣布Moblin將與Nokia推動的[Maemo](../Page/Maemo.md "wikilink")合作，推出[MeeGo](../Page/MeeGo.md "wikilink")平台。
 
 ## 性能
 

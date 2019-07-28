@@ -7,7 +7,7 @@ status = 活跃 | latest_release_version = 4.0.3 | latest_release_date =
 22 September 2013 | operating_system = | size = | programming_language
 = | genre = [库](https://zh.wikipedia.org/wiki/库 "wikilink") | license =
 | website = <http://www.remotesensing.org/libtiff/> }} **Libtiff**
-是一个用来读写[标签图像文件格式](https://zh.wikipedia.org/wiki/标签图像文件格式 "wikilink")（简写为TIFF）的[库](https://zh.wikipedia.org/wiki/库 "wikilink")。这个库还包含一些[命令行工具用来处理TIFF文件](https://zh.wikipedia.org/wiki/命令行工具 "wikilink")。它以[源代码方式分发](../Page/源代码.md "wikilink")，并且可以在多种平台上以[二进制构建的方式出现](https://zh.wikipedia.org/wiki/二进制构建 "wikilink")。
+是一个用来读写[标签图像文件格式](https://zh.wikipedia.org/wiki/标签图像文件格式 "wikilink")（简写为TIFF）的[库](https://zh.wikipedia.org/wiki/库 "wikilink")。这个库还包含一些[命令行工具用来处理TIFF文件](https://zh.wikipedia.org/wiki/命令行工具 "wikilink")。它以[源代码](../Page/源代码.md "wikilink")方式分发，并且可以在多种平台上以[二进制构建的方式出现](https://zh.wikipedia.org/wiki/二进制构建 "wikilink")。
 
 libtiff软件由[Sam
 Leffler在](https://zh.wikipedia.org/wiki/Sam_Leffler "wikilink")[Silicon

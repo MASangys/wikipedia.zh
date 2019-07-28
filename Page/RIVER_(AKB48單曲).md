@@ -1,4 +1,4 @@
-《**RIVER**》是[AKB48的第](../Page/AKB48.md "wikilink")14张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be
+《**RIVER**》是[AKB48](../Page/AKB48.md "wikilink")的第14张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be
 Cool\!/KING
 RECORDS与NEW](https://zh.wikipedia.org/wiki/King_Records "wikilink")
 KING RECORDS在2009年10月21日发售。中心成員由高橋南、前田敦子擔當。
@@ -8,8 +8,8 @@ KING RECORDS在2009年10月21日发售。中心成員由高橋南、前田敦子
 在于2009年9月13日进行的[AKB48
 夏之猴大婶祭](https://zh.wikipedia.org/wiki/AKB48_夏之猴大婶祭 "wikilink")（地点为[富士急高原乐园Sound](https://zh.wikipedia.org/wiki/富士急高原乐园 "wikilink")
 Conifer
-229）中首次对外披露。全体均为前作的选拔组成员。由于本作的选拔组由前作的21人减为16人，故前作选拔组中佐藤亜美菜、佐藤由加理、浦野一美、多田愛佳与倉持明日香落选。但除了兼任[SDN48成员的浦野与佐藤由加理之外的](../Page/SDN48.md "wikilink")3人均被选入了Under
-Girls。除兼任[SDN48成员的](../Page/SDN48.md "wikilink")[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[小原春香以及](../Page/小原春香.md "wikilink")8期、9期研究生之外的全体AKB48成员均参加了CD的录制。
+229）中首次对外披露。全体均为前作的选拔组成员。由于本作的选拔组由前作的21人减为16人，故前作选拔组中佐藤亜美菜、佐藤由加理、浦野一美、多田愛佳与倉持明日香落选。但除了兼任[SDN48](../Page/SDN48.md "wikilink")成员的浦野与佐藤由加理之外的3人均被选入了Under
+Girls。除兼任[SDN48](../Page/SDN48.md "wikilink")成员的[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[小原春香](../Page/小原春香.md "wikilink")以及8期、9期研究生之外的全体AKB48成员均参加了CD的录制。
 
 單曲分為通常盤・劇場盤。继前作《[Maybe是借口](https://zh.wikipedia.org/wiki/Maybe是借口 "wikilink")》之后，再次结成“**Under
 Girls**”，演唱B面单曲《因为喜欢你》（）。同时，新结成“**Theater Girls**”，演唱《飞机云》（）。
@@ -17,7 +17,7 @@ Girls**”，演唱B面单曲《因为喜欢你》（）。同时，新结成“
 在CD发售之前，自2009年10月7日起由来电铃声进行了先行音樂下載。自2009年10月14日21时起在[King
 Records官方网站上进行了](https://zh.wikipedia.org/wiki/King_Records "wikilink")[PV的](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")24小时限时先行音樂下載。
 
-PV的导演继《[大声钻石](../Page/大声钻石.md "wikilink")》、《[10年樱](https://zh.wikipedia.org/wiki/10年樱 "wikilink")》、《[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")》及《[Maybe是借口](https://zh.wikipedia.org/wiki/Maybe是借口 "wikilink")》之后，继续由[高橋榮樹担任](../Page/高橋榮樹.md "wikilink")。外景拍摄是在[航空自卫队入间基地](https://zh.wikipedia.org/wiki/航空自卫队 "wikilink")
+PV的导演继《[大声钻石](../Page/大声钻石.md "wikilink")》、《[10年樱](https://zh.wikipedia.org/wiki/10年樱 "wikilink")》、《[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")》及《[Maybe是借口](https://zh.wikipedia.org/wiki/Maybe是借口 "wikilink")》之后，继续由[高橋榮樹](../Page/高橋榮樹.md "wikilink")担任。外景拍摄是在[航空自卫队入间基地](https://zh.wikipedia.org/wiki/航空自卫队 "wikilink")
 入间直升机空中运输队的协助下，利用该队的仓库以及直升机等进行的。
 
 通常盘中，除附带了全国握手会参加券之外，还附带了用于2010年1月21日 - 1月24日举行的“[AKB48 重温时间 最佳曲目100

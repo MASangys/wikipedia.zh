@@ -1,4 +1,4 @@
-**A-Lin**（[阿美語](../Page/阿美語.md "wikilink")：，[漢語](https://zh.wikipedia.org/wiki/漢語 "wikilink")：，1983年9月20日－），[臺灣](../Page/臺灣.md "wikilink")[華語流行音樂著名女歌手](../Page/華語流行音樂.md "wikilink")，出生於[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[苓雅的](https://zh.wikipedia.org/wiki/苓雅 "wikilink")[臺東](../Page/臺東縣.md "wikilink")[阿美族](../Page/阿美族.md "wikilink")，曾數次入圍臺灣[金曲獎](../Page/金曲獎.md "wikilink")，並多次受邀在重要頒獎典禮上獻唱。
+**A-Lin**（[阿美語](../Page/阿美語.md "wikilink")：，[漢語](https://zh.wikipedia.org/wiki/漢語 "wikilink")：，1983年9月20日－），[臺灣](../Page/臺灣.md "wikilink")[華語流行音樂](../Page/華語流行音樂.md "wikilink")著名女歌手，出生於[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[苓雅的](https://zh.wikipedia.org/wiki/苓雅 "wikilink")[臺東](../Page/臺東縣.md "wikilink")[阿美族](../Page/阿美族.md "wikilink")，曾數次入圍臺灣[金曲獎](../Page/金曲獎.md "wikilink")，並多次受邀在重要頒獎典禮上獻唱。
 
 ## 演藝事業
 
@@ -7,7 +7,7 @@
 1999年，A-Lin在[南投教](../Page/南投縣.md "wikilink")[921地震受災兒童吟唱聖詩](https://zh.wikipedia.org/wiki/921地震 "wikilink")《[Amazing
 Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前經紀人Jason發掘\[1\]；4年後，雙方再次在A-Lin的駐唱酒吧「EZ5」碰面，並於2005年4月15日正式簽約，合約內容為十年九張音樂作品。\[2\]
 
-2006年2月10日，她發行個人首張專輯《[失戀無罪](../Page/失戀無罪.md "wikilink")》\[3\]，並獲得「天生歌姬」稱號\[4\]。同年，她在[張惠妹主動邀約下參與其製作的](../Page/張惠妹.md "wikilink")《愛上卡門》[音樂劇](../Page/音樂劇.md "wikilink")，飾演第二女主角，彩排半年後於年末在[臺北小巨蛋演出兩場](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")\[5\]。
+2006年2月10日，她發行個人首張專輯《[失戀無罪](../Page/失戀無罪.md "wikilink")》\[3\]，並獲得「天生歌姬」稱號\[4\]。同年，她在[張惠妹](../Page/張惠妹.md "wikilink")主動邀約下參與其製作的《愛上卡門》[音樂劇](../Page/音樂劇.md "wikilink")，飾演第二女主角，彩排半年後於年末在[臺北小巨蛋演出兩場](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")\[5\]。
 
 ### 結婚生子
 
@@ -23,7 +23,7 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 
 2010年12月24日，她在[聖誕節前夕發行第四張個人專輯](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")《[寂寞不痛](../Page/寂寞不痛.md "wikilink")》\[11\]。
 
-2011年5月，A-Lin憑借《寂寞不痛》專輯二度入圍[第22屆金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")[最佳國語女歌手獎](../Page/最佳國語女歌手獎_\(金曲獎\).md "wikilink")\[12\]，並受邀於典禮上演出「最佳男歌手入圍者組曲」，改編演唱包含[周杰倫](../Page/周杰倫.md "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[齊秦等五位歌手的歌曲](../Page/齊秦.md "wikilink")。同年底，她又推出個人第五張全新專輯《[我們會更好的](../Page/我們會更好的.md "wikilink")》\[13\]。
+2011年5月，A-Lin憑借《寂寞不痛》專輯二度入圍[第22屆金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")[最佳國語女歌手獎](../Page/最佳國語女歌手獎_\(金曲獎\).md "wikilink")\[12\]，並受邀於典禮上演出「最佳男歌手入圍者組曲」，改編演唱包含[周杰倫](../Page/周杰倫.md "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[齊秦](../Page/齊秦.md "wikilink")等五位歌手的歌曲。同年底，她又推出個人第五張全新專輯《[我們會更好的](../Page/我們會更好的.md "wikilink")》\[13\]。
 
 ### 穩步上揚
 
@@ -33,15 +33,15 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 2013年3月和6月，A-Lin分別在臺北小巨蛋和[香港紅磡體育館舉行了兩場](https://zh.wikipedia.org/wiki/香港紅磡體育館 "wikilink")[巡迴演唱會](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")，並創下小巨蛋單場人數最多紀錄\[16\]\[17\]。同年9月，因愛貝克思將裁撤其華語部門，A-Lin自10月起不得不另覓[經紀公司](../Page/經紀公司.md "wikilink")\[18\]。
 同年11月，她因故推辭多場跨年和[尾牙表演](https://zh.wikipedia.org/wiki/尾牙 "wikilink")，但仍出席非音樂類活動和[代言](https://zh.wikipedia.org/wiki/代言人 "wikilink")。
 
-2014年2月22日，A-Lin於臺北小巨蛋第9屆[KKBOX數位音樂風雲榜頒獎典禮上獲得](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")2014「年度十大風雲歌手」獎項，這是她連續第四次獲得該獎項\[19\]。同年5月15日，她正式加盟[台灣索尼音樂](../Page/台灣索尼音樂娛樂.md "wikilink")\[20\]。同年6月28日，她再度受邀於[第25屆金曲獎頒獎典禮以](https://zh.wikipedia.org/wiki/第25屆金曲獎 "wikilink")[搖滾形式獻唱](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[江蕙的](../Page/江蕙.md "wikilink")[台語歌曲](https://zh.wikipedia.org/wiki/台語歌曲 "wikilink")\[21\]。同年12月30日，她發行第七張個人專輯《[罪惡感](https://zh.wikipedia.org/wiki/罪惡感 "wikilink")》\[22\]。
+2014年2月22日，A-Lin於臺北小巨蛋第9屆[KKBOX數位音樂風雲榜頒獎典禮上獲得](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")2014「年度十大風雲歌手」獎項，這是她連續第四次獲得該獎項\[19\]。同年5月15日，她正式加盟[台灣索尼音樂](../Page/台灣索尼音樂娛樂.md "wikilink")\[20\]。同年6月28日，她再度受邀於[第25屆金曲獎頒獎典禮以](https://zh.wikipedia.org/wiki/第25屆金曲獎 "wikilink")[搖滾形式獻唱](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[江蕙](../Page/江蕙.md "wikilink")的[台語歌曲](https://zh.wikipedia.org/wiki/台語歌曲 "wikilink")\[21\]。同年12月30日，她發行第七張個人專輯《[罪惡感](https://zh.wikipedia.org/wiki/罪惡感 "wikilink")》\[22\]。
 
 [缩略图](https://zh.wikipedia.org/wiki/File:A-Lin2.JPG "fig:缩略图")
 
 ### 登上巔峰
 
-2015年1月，A-Lin加盟第三季《[我是歌手](../Page/我是歌手_\(第三季\).md "wikilink")》，為首發歌手\[23\]；第三季中只有A-Lin和[韓紅](https://zh.wikipedia.org/wiki/韓紅 "wikilink")、[孫楠三位首發歌手順利晉升決賽](https://zh.wikipedia.org/wiki/孫楠 "wikilink")，且雖然A-Lin最終未能奪得歌王寶座，但該節目使她廣受[華人認識](https://zh.wikipedia.org/wiki/華人 "wikilink")，在[兩岸三地人氣和](../Page/兩岸三地.md "wikilink")[粉絲人數爆增](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，奠定了A-Lin在[華語流行樂壇天后地位](../Page/華語流行音樂.md "wikilink")。同年2月9日，她獲得第10屆KKBOX數位音樂風雲榜2015「年度十大風雲歌手」獎項，為她連續第五次獲得該獎項\[24\]同年3月16日，她於臺北[西門町專輯簽唱會上宣布將舉辦名為](../Page/西門町.md "wikilink")《Sonar聲吶》的世界巡迴演唱會，這是她首次以世界為範疇而舉行的巡迴演唱會\[25\]，並以[臺北為首站出發](../Page/臺北市.md "wikilink")。同年5月，她以《罪惡感》專輯第四度入圍金曲獎最佳國語女歌手獎。同年8月29及30日，A-Lin二度登上臺北小巨蛋舉行兩場《聲吶》世界巡演。截至2015年底，A-Lin一共舉行了11場《聲吶》世界巡迴演唱會，巡演地點多達十個城市，包括臺北、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")、[武漢](https://zh.wikipedia.org/wiki/武漢 "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[重慶以及](https://zh.wikipedia.org/wiki/重慶 "wikilink")[新加坡和](../Page/新加坡.md "wikilink")[莎阿南等地](../Page/莎阿南.md "wikilink")。同年12月18日，她參加於[湖南衛視第](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")7集《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》。
+2015年1月，A-Lin加盟第三季《[我是歌手](../Page/我是歌手_\(第三季\).md "wikilink")》，為首發歌手\[23\]；第三季中只有A-Lin和[韓紅](https://zh.wikipedia.org/wiki/韓紅 "wikilink")、[孫楠三位首發歌手順利晉升決賽](https://zh.wikipedia.org/wiki/孫楠 "wikilink")，且雖然A-Lin最終未能奪得歌王寶座，但該節目使她廣受[華人認識](https://zh.wikipedia.org/wiki/華人 "wikilink")，在[兩岸三地](../Page/兩岸三地.md "wikilink")人氣和[粉絲人數爆增](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，奠定了A-Lin在[華語流行樂壇天后地位](../Page/華語流行音樂.md "wikilink")。同年2月9日，她獲得第10屆KKBOX數位音樂風雲榜2015「年度十大風雲歌手」獎項，為她連續第五次獲得該獎項\[24\]同年3月16日，她於臺北[西門町](../Page/西門町.md "wikilink")專輯簽唱會上宣布將舉辦名為《Sonar聲吶》的世界巡迴演唱會，這是她首次以世界為範疇而舉行的巡迴演唱會\[25\]，並以[臺北為首站出發](../Page/臺北市.md "wikilink")。同年5月，她以《罪惡感》專輯第四度入圍金曲獎最佳國語女歌手獎。同年8月29及30日，A-Lin二度登上臺北小巨蛋舉行兩場《聲吶》世界巡演。截至2015年底，A-Lin一共舉行了11場《聲吶》世界巡迴演唱會，巡演地點多達十個城市，包括臺北、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")、[武漢](https://zh.wikipedia.org/wiki/武漢 "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[重慶以及](https://zh.wikipedia.org/wiki/重慶 "wikilink")[新加坡](../Page/新加坡.md "wikilink")和[莎阿南](../Page/莎阿南.md "wikilink")等地。同年12月18日，她參加於[湖南衛視第](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")7集《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》。
 
-2016年1月9日，她再次登上[台視大型除夕特別節目](https://zh.wikipedia.org/wiki/台視 "wikilink")《2016[超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")》演出；有別於第一次僅60[秒的演出](../Page/秒.md "wikilink")，她率領編制多達38人的[管弦樂團連續演唱四首歌曲](../Page/管弦樂團.md "wikilink")\[26\]。同年1月24日，第11屆KKBOX數位音樂風雲榜頒獎典禮於臺北小巨蛋舉行，A-Lin獲得2016「年度十大風雲歌手」獎項，為連續第六次獲得該獎項\[27\]。同年3月，A-Lin-2016《聲吶》世界巡演繼續啟動。同年3月12、13日，A-Lin第二度站上香港紅磡體育館舉辦《聲吶》世界巡演，並且創下個人於香港首次因門票迅速銷售一空而連開兩場大型演唱會的紀錄。同年3月19日，她首次站上[高雄巨蛋舉辦個人演唱會](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。同年8月，A-Lin再度登上臺北小巨蛋，並於24小時內完成兩場《聲吶》世界巡演（回聲限定場）\[28\]。
+2016年1月9日，她再次登上[台視大型除夕特別節目](https://zh.wikipedia.org/wiki/台視 "wikilink")《2016[超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")》演出；有別於第一次僅60[秒](../Page/秒.md "wikilink")的演出，她率領編制多達38人的[管弦樂團](../Page/管弦樂團.md "wikilink")連續演唱四首歌曲\[26\]。同年1月24日，第11屆KKBOX數位音樂風雲榜頒獎典禮於臺北小巨蛋舉行，A-Lin獲得2016「年度十大風雲歌手」獎項，為連續第六次獲得該獎項\[27\]。同年3月，A-Lin-2016《聲吶》世界巡演繼續啟動。同年3月12、13日，A-Lin第二度站上香港紅磡體育館舉辦《聲吶》世界巡演，並且創下個人於香港首次因門票迅速銷售一空而連開兩場大型演唱會的紀錄。同年3月19日，她首次站上[高雄巨蛋舉辦個人演唱會](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。同年8月，A-Lin再度登上臺北小巨蛋，並於24小時內完成兩場《聲吶》世界巡演（回聲限定場）\[28\]。
 
 2017年4月，A-Lin參與[江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink")《[金曲捞](../Page/金曲捞.md "wikilink")》節目錄製，並於第二、七、九期擔任喚醒歌手，分別演唱《[永遠有多遠](https://zh.wikipedia.org/wiki/永遠有多遠 "wikilink")》、《[愛的可能](https://zh.wikipedia.org/wiki/愛的可能 "wikilink")》、《[空窗](https://zh.wikipedia.org/wiki/空窗 "wikilink")》等多首經典歌曲。同年6月4日，她於[山東衛視](https://zh.wikipedia.org/wiki/山東衛視 "wikilink")《[超強音浪](https://zh.wikipedia.org/wiki/超強音浪 "wikilink")》第二季第十期節目擔任[嘉賓](https://zh.wikipedia.org/wiki/嘉賓 "wikilink")。
 
@@ -78,7 +78,7 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>3</p></td>
-<td style="text-align: center;"><p><strong><a href="../Page/以前_以後.md" title="wikilink">以前 以後</a></strong></p></td>
+<td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/以前以後" title="wikilink">以前以後</a></strong></p></td>
 <td style="text-align: center;"><p>2009-12-28</p></td>
 <td style="text-align: center;"><p><a href="../Page/愛貝克思_(台灣).md" title="wikilink">愛克貝思</a></p></td>
 <td style="text-align: center;"></td>
@@ -120,8 +120,8 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>9</p></td>
-<td style="text-align: center;"><p><strong>（籌備中）</strong></p></td>
-<td style="text-align: center;"><p>2019</p></td>
+<td style="text-align: center;"><p><strong>悲傷過後</strong></p></td>
+<td style="text-align: center;"><p>預計2020</p></td>
 <td style="text-align: center;"><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -340,14 +340,14 @@ BASSETT、DAVE</p></td>
 <td><p>2018-11-19</p></td>
 <td><p>林喬、劉恩汛</p></td>
 <td><p>田昌燁（JCY）、趙南郁</p></td>
-<td><p>電視劇《<a href="../Page/守護神之保險調查.md" title="wikilink">守護神之保險調查</a>》國語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂代理發行</a>）</p></td>
+<td><p>電視劇《<a href="../Page/守護神之保險調查.md" title="wikilink">守護神之保險調查</a>》國語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂</a>代理發行）</p></td>
 </tr>
 <tr class="even">
 <td><p>世世</p></td>
 <td><p>2018-11-26</p></td>
 <td><p><a href="../Page/陳心遙.md" title="wikilink">陳心遙</a></p></td>
 <td><p>田昌燁（JCY）、趙南郁</p></td>
-<td><p>電視劇《<a href="../Page/守護神之保險調查.md" title="wikilink">守護神之保險調查</a>》粵語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂代理發行</a>）</p></td>
+<td><p>電視劇《<a href="../Page/守護神之保險調查.md" title="wikilink">守護神之保險調查</a>》粵語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂</a>代理發行）</p></td>
 </tr>
 <tr class="odd">
 <td><p>未完的眷戀</p></td>
@@ -573,7 +573,7 @@ Rap詞：J.Sheon</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
 <td><p>2015天生歌姬A-Lin紐約之YEAH!演唱會</p></td>
-<td><p><a href="../Page/皇后學院.md" title="wikilink">皇后學院Colden</a> Auditorium</p></td>
+<td><p><a href="../Page/皇后學院.md" title="wikilink">皇后學院</a>Colden Auditorium</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宋念宇" title="wikilink">宋念宇</a></p></td>
 <td></td>
 </tr>

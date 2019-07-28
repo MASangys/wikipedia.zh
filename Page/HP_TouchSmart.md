@@ -1,5 +1,5 @@
 **HP
-TouchSmart**系列由[惠普公司設計](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")[一體化電腦及](https://zh.wikipedia.org/wiki/一體化電腦 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink"),當中的電腦都包括帶來[多點觸控功能的屏幕](../Page/多點觸控.md "wikilink")。它使用[AMD或](../Page/AMD處理器列表.md "wikilink")[英特爾的處理器並運行](https://zh.wikipedia.org/wiki/英特爾微處理器列表 "wikilink")[Windows
+TouchSmart**系列由[惠普公司設計](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")[一體化電腦及](https://zh.wikipedia.org/wiki/一體化電腦 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink"),當中的電腦都包括帶來[多點觸控](../Page/多點觸控.md "wikilink")功能的屏幕。它使用[AMD或](../Page/AMD處理器列表.md "wikilink")[英特爾的處理器並運行](https://zh.wikipedia.org/wiki/英特爾微處理器列表 "wikilink")[Windows
 Vista或](../Page/Windows_Vista.md "wikilink")[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
@@ -17,7 +17,7 @@ media
 reader。另外,包含了很多的[接口](https://zh.wikipedia.org/wiki/接口 "wikilink"),[以太網](https://zh.wikipedia.org/wiki/以太網 "wikilink"),2個[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink"),6個[USB](../Page/USB.md "wikilink")2.0,1個HP打印機電源連接器,5.1+數字音頻輸出,[IR
 out](https://zh.wikipedia.org/wiki/IR_out "wikilink"),[mini-VGA](https://zh.wikipedia.org/wiki/mini-VGA "wikilink"),[FM
 coax](https://zh.wikipedia.org/wiki/FM_coax "wikilink"),[TV
-coax](https://zh.wikipedia.org/wiki/TV_coax "wikilink"),[ATSC及](../Page/ATSC.md "wikilink")2個[S-Video](https://zh.wikipedia.org/wiki/S-Video "wikilink")。
+coax](https://zh.wikipedia.org/wiki/TV_coax "wikilink"),[ATSC](../Page/ATSC.md "wikilink")及2個[S-Video](https://zh.wikipedia.org/wiki/S-Video "wikilink")。
 
 ## HP Touchsmart 2
 
@@ -36,7 +36,7 @@ Duo處理器,[藍光光驅](../Page/藍光光碟.md "wikilink")/雙層燒錄機�
 ## Touchsmart tx2z
 
 於2008年12發佈的Touchsmart
-tx2z被吹捧為第一個帶有[多點觸控功能的觸摸屏的低費筆記本電腦](../Page/多點觸控.md "wikilink")。TouchSmart
+tx2z被吹捧為第一個帶有[多點觸控](../Page/多點觸控.md "wikilink")功能的觸摸屏的低費筆記本電腦。TouchSmart
 tx2取代了舊的[HP
 Pavilion](https://zh.wikipedia.org/wiki/HP_Pavilion "wikilink")
 tx2500z。\[6\]

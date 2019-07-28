@@ -1,5 +1,5 @@
 **HTC Quartz**，原廠型號**HTC Max 4G（HTC Touch
-Max）**，是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電公司與](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[WiMAX](../Page/WiMAX.md "wikilink")（[4G](../Page/4G.md "wikilink")）行動通訊電業者[Scartel](https://zh.wikipedia.org/wiki/Scartel "wikilink")（品牌名為[Yota](../Page/Yota.md "wikilink")）共同推出的全球第一支[GSM](../Page/GSM.md "wikilink")／[WiMAX整合式雙模手機](../Page/WiMAX.md "wikilink")，搭載微軟
+Max）**，是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電公司與](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[WiMAX](../Page/WiMAX.md "wikilink")（[4G](../Page/4G.md "wikilink")）行動通訊電業者[Scartel](https://zh.wikipedia.org/wiki/Scartel "wikilink")（品牌名為[Yota](../Page/Yota.md "wikilink")）共同推出的全球第一支[GSM](../Page/GSM.md "wikilink")／[WiMAX](../Page/WiMAX.md "wikilink")整合式雙模手機，搭載微軟
 [Windows Mobile](../Page/Windows_Mobile.md "wikilink")
 6.1，該手機由Scartel的WiMAX
 Yota網路支援多元化的4G服務，是[Blackstone的](../Page/HTC_Touch_HD.md "wikilink")4G版本，專為俄羅斯市場打造。於2008年11月12日發表，11月26日在俄羅斯正式銷售。

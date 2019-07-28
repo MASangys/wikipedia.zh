@@ -1,6 +1,6 @@
 [SCJP_logo.gif](https://zh.wikipedia.org/wiki/File:SCJP_logo.gif "fig:SCJP_logo.gif")
  **昇陽認證 Java
-程式員**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[Java的基礎認證](../Page/Java.md "wikilink")，以Java程式語言與基礎類別庫使用為考試的方向，並且作為[SCJD與平台認證集的前置需求](https://zh.wikipedia.org/wiki/SCJD "wikilink")，此認證是目前昇陽認證體系中人數最多的，SCJP自Java
+程式員**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[Java](../Page/Java.md "wikilink")的基礎認證，以Java程式語言與基礎類別庫使用為考試的方向，並且作為[SCJD與平台認證集的前置需求](https://zh.wikipedia.org/wiki/SCJD "wikilink")，此認證是目前昇陽認證體系中人數最多的，SCJP自Java
 JDK 1.2版開始，目前最新的版本為Java SE 6.0。
 
 SCJP只要考過一科考試即可，同時也沒有任何前置需求。

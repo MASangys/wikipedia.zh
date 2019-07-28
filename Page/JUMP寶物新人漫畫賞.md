@@ -1,4 +1,4 @@
-**JUMP寶物新人漫畫賞**是自2007年7月開始，由[集英社的](../Page/集英社.md "wikilink")[週刊少年Jump雜誌每月所主辦的漫畫新人獎](../Page/週刊少年Jump.md "wikilink")。
+**JUMP寶物新人漫畫賞**是自2007年7月開始，由[集英社](../Page/集英社.md "wikilink")的[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")雜誌每月所主辦的漫畫新人獎。
 
 ## 歷屆得獎者
 

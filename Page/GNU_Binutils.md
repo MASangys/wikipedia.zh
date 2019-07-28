@@ -19,7 +19,7 @@ binutils包含底下這些指令：
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [`as`](https://zh.wikipedia.org/wiki/GNU_Assembler "wikilink")         | [組譯器](https://zh.wikipedia.org/wiki/組譯器 "wikilink")                                                                    |
 | [`ld`](https://zh.wikipedia.org/wiki/GNU_linker "wikilink")            | [連結器](https://zh.wikipedia.org/wiki/連結器 "wikilink")                                                                    |
-| `gprof`                                                                | [性能分析工具程式](../Page/性能分析.md "wikilink")                                                                                 |
+| `gprof`                                                                | [性能分析](../Page/性能分析.md "wikilink")工具程式                                                                                 |
 | [`addr2line`](https://zh.wikipedia.org/wiki/addr2line "wikilink")      | 從目的檔的虛擬位址取得檔案的行號或符號                                                                                                    |
 | [`ar`](https://zh.wikipedia.org/wiki/ar_\(Unix\) "wikilink")           | 可以對[靜態函式庫做建立](https://zh.wikipedia.org/wiki/archive_file "wikilink")、修改和取出的操作。                                         |
 | `c++filt`                                                              | [解码](https://zh.wikipedia.org/wiki/name_mangling#Name_mangling_in_C++ "wikilink") [C++](../Page/C++.md "wikilink") 的符号 |

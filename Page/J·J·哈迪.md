@@ -1,7 +1,7 @@
 **J·J·哈迪**（**James Jerry "J.J."
-Hardy**，1982年8月19日出生於[亞利桑那州](../Page/亞利桑那州.md "wikilink")[土桑](https://zh.wikipedia.org/wiki/土桑 "wikilink")）是[美國職棒大聯盟](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")[巴爾的摩金鶯隊](https://zh.wikipedia.org/wiki/巴爾的摩金鶯 "wikilink")[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")。父親是職業網球選手，母親則是職業高爾夫選手。他高中時就讀於[亞利桑那州的](../Page/亞利桑那州.md "wikilink")
+Hardy**，1982年8月19日出生於[亞利桑那州](../Page/亞利桑那州.md "wikilink")[土桑](https://zh.wikipedia.org/wiki/土桑 "wikilink")）是[美國職棒大聯盟](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")[巴爾的摩金鶯隊](https://zh.wikipedia.org/wiki/巴爾的摩金鶯 "wikilink")[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")。父親是職業網球選手，母親則是職業高爾夫選手。他高中時就讀於[亞利桑那州](../Page/亞利桑那州.md "wikilink")的
 Sabino High
-School，並且是「Sabercats」棒球隊隊長。哈迪入選1999年到2001年的全州明星隊，及2001年的全美明星隊。他也是2001年的美國青年國家代表隊的一員，在加拿大[艾德蒙頓拿下銀牌](https://zh.wikipedia.org/wiki/艾德蒙頓 "wikilink")。同年，哈迪在第二輪被[密爾瓦基釀酒人選中](../Page/密爾瓦基釀酒人.md "wikilink")。2003年，他加入爭取奧運資格的美國代表隊。2008年的薪資是2,650,000美元。
+School，並且是「Sabercats」棒球隊隊長。哈迪入選1999年到2001年的全州明星隊，及2001年的全美明星隊。他也是2001年的美國青年國家代表隊的一員，在加拿大[艾德蒙頓拿下銀牌](https://zh.wikipedia.org/wiki/艾德蒙頓 "wikilink")。同年，哈迪在第二輪被[密爾瓦基釀酒人](../Page/密爾瓦基釀酒人.md "wikilink")選中。2003年，他加入爭取奧運資格的美國代表隊。2008年的薪資是2,650,000美元。
 
 ## 棒球生涯
 
@@ -19,7 +19,7 @@ Factor](https://zh.wikipedia.org/wiki/:en:Range_Factor "wikilink")
 
 ### 2006
 
-2006年5月16日，哈迪為了取分而滑向本壘，但在[費城費城人隊](../Page/費城費城人.md "wikilink")[捕手](../Page/捕手.md "wikilink")
+2006年5月16日，哈迪為了取分而滑向本壘，但在[費城費城人](../Page/費城費城人.md "wikilink")隊[捕手](../Page/捕手.md "wikilink")
 [Sal Fasano](https://zh.wikipedia.org/wiki/Sal_Fasano "wikilink")
 的防守下，造成哈迪腳踝受傷。X光顯示哈迪的腳踝嚴重扭傷，球隊因此將他放入15天[傷兵名單](https://zh.wikipedia.org/wiki/傷兵名單 "wikilink")。雖然傷勢復原，但哈迪的腳踝依然不斷有問題發生。7月18日，球隊宣佈哈迪提前結束該球季，將由隊醫
 William Raasch 負責他的腳踝手術。\[3\] 哈迪該季成績為打擊率.242，5發全壘打及14分打點。
@@ -32,7 +32,7 @@ William Raasch 負責他的腳踝手術。\[3\] 哈迪該季成績為打擊率.2
 
 ### 2008
 
-J·J·哈迪在2008年球季繳出打擊率.283、2次盜壘、24發全壘打、74分打點的成績單。他在季中曾連續16場擊出安打，但在7月5日，為了幫助球隊擊敗[匹茲堡海盜而選擇](../Page/匹茲堡海盜.md "wikilink")[犧牲觸擊](https://zh.wikipedia.org/wiki/犧牲觸擊 "wikilink")，中斷紀錄。7月7日，他被選為國聯當週最佳球員。釀酒人在這年打進季後賽，但在第四場遭到[費城費城人淘汰](../Page/費城費城人.md "wikilink")。
+J·J·哈迪在2008年球季繳出打擊率.283、2次盜壘、24發全壘打、74分打點的成績單。他在季中曾連續16場擊出安打，但在7月5日，為了幫助球隊擊敗[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")而選擇[犧牲觸擊](https://zh.wikipedia.org/wiki/犧牲觸擊 "wikilink")，中斷紀錄。7月7日，他被選為國聯當週最佳球員。釀酒人在這年打進季後賽，但在第四場遭到[費城費城人](../Page/費城費城人.md "wikilink")淘汰。
 \[4\]
 
 ## 注釋

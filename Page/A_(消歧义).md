@@ -1,5 +1,5 @@
-[A, a](../Page/A.md "wikilink")
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")1个[字母](../Page/字母.md "wikilink")。
+[A a](../Page/A.md "wikilink"),
+是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第1个[字母](../Page/字母.md "wikilink")。
 
 除此之外，A还可以指代：
 
@@ -7,7 +7,7 @@
 
 ### 数学
 
-  - A，[十六进制中表示](../Page/十六进制.md "wikilink")10的数字
+  - A，[十六进制](../Page/十六进制.md "wikilink")中表示10的数字
   - \(\mathbb{A}\)，表示[代数数](https://zh.wikipedia.org/wiki/代数数 "wikilink")
   - A，表示[面积](../Page/面积.md "wikilink")
   - [Å](../Page/Å.md "wikilink")，[埃格斯特朗](https://zh.wikipedia.org/wiki/埃格斯特朗_\(单位\) "wikilink")，表示10<sup>-10</sup>[米](https://zh.wikipedia.org/wiki/米 "wikilink")，合0.1[纳米](../Page/纳米.md "wikilink")
@@ -26,7 +26,7 @@
   - A，[吸光度](https://zh.wikipedia.org/wiki/吸光度 "wikilink")
   - A，表示[亥姆霍兹自由能](../Page/亥姆霍兹自由能.md "wikilink")
   - A<sub>H</sub>，[霍尔效应](https://zh.wikipedia.org/wiki/霍尔效应 "wikilink")
-  - A，[安培](../Page/安培.md "wikilink")，[电流单位](../Page/电流.md "wikilink")
+  - A，[安培](../Page/安培.md "wikilink")，[电流](../Page/电流.md "wikilink")单位
   - A，[增益](../Page/增益.md "wikilink")
   - A，[电子自旋共振的一个参数](https://zh.wikipedia.org/wiki/电子自旋共振 "wikilink")
   - A，[热电子发射中的理查德森常数](https://zh.wikipedia.org/wiki/热电子发射 "wikilink")
@@ -42,7 +42,7 @@
 
 ### 天文学
 
-  - A，[恒星光谱中白色恒星的光谱](../Page/恒星光谱.md "wikilink")
+  - A，[恒星光谱](../Page/恒星光谱.md "wikilink")中白色恒星的光谱
   - A，用于指定1月1日至1月15日期间发现的[彗星或其他](https://zh.wikipedia.org/wiki/彗星 "wikilink")[天体的临时编号](https://zh.wikipedia.org/wiki/天体 "wikilink")，如[C/1760
     A1](https://zh.wikipedia.org/wiki/C/1760_A1 "wikilink")
   - A，[彗星编号前缀](https://zh.wikipedia.org/wiki/彗星 "wikilink")，用于起初被错误认定为彗星，实则为一颗[小行星的天体](https://zh.wikipedia.org/wiki/小行星 "wikilink")，如A/2005
@@ -51,7 +51,7 @@
 
 ### 化学
 
-  - A，表示[原子的](../Page/原子.md "wikilink")[质量数](https://zh.wikipedia.org/wiki/质量数 "wikilink")
+  - A，表示[原子](../Page/原子.md "wikilink")的[质量数](https://zh.wikipedia.org/wiki/质量数 "wikilink")
   - A，表示[相对原子质量](../Page/原子量.md "wikilink")
   - A，[化学亲合势](https://zh.wikipedia.org/wiki/化学亲合势 "wikilink")
   - A，[阿伦尼乌斯公式中的](https://zh.wikipedia.org/wiki/阿伦尼乌斯公式 "wikilink")[指前因子](https://zh.wikipedia.org/wiki/指前因子 "wikilink")
@@ -63,8 +63,8 @@
   - [单倍群 A](https://zh.wikipedia.org/wiki/单倍群_A "wikilink")
   - A+ A-，人类[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")
   - [维生素A](https://zh.wikipedia.org/wiki/维生素A "wikilink")，一种人类必备的营养物质
-  - A，[腺嘌呤](../Page/腺嘌呤.md "wikilink")，[嘌呤的一种](../Page/嘌呤.md "wikilink")
-  - A，[丙氨酸](../Page/丙氨酸.md "wikilink")，[氨基酸的一种](../Page/氨基酸.md "wikilink")
+  - A，[腺嘌呤](../Page/腺嘌呤.md "wikilink")，[嘌呤](../Page/嘌呤.md "wikilink")的一种
+  - A，[丙氨酸](../Page/丙氨酸.md "wikilink")，[氨基酸](../Page/氨基酸.md "wikilink")的一种
 
 ### 电子学
 
@@ -73,7 +73,7 @@
 
 ### 计算机科学
 
-  - A:，[MS-DOS及](../Page/MS-DOS.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统中默认表示](../Page/操作系统.md "wikilink")[软盘的盘符](../Page/软盘.md "wikilink")
+  - A:，[MS-DOS](../Page/MS-DOS.md "wikilink")及[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")中默认表示[软盘](../Page/软盘.md "wikilink")的盘符
   - [A\*搜寻算法](https://zh.wikipedia.org/wiki/A*搜寻算法 "wikilink")，一种[寻径算法](https://zh.wikipedia.org/wiki/寻径算法 "wikilink")
   - [A-0系统](https://zh.wikipedia.org/wiki/A-0系统 "wikilink")，早期的计算机[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
   - [A+](https://zh.wikipedia.org/wiki/A+ "wikilink")，一种编程语言
@@ -87,7 +87,7 @@
 
 ### 音乐
 
-  - [A音](https://zh.wikipedia.org/wiki/A音 "wikilink")，[音阶中的第六音](../Page/音阶.md "wikilink")
+  - [A音](https://zh.wikipedia.org/wiki/A音 "wikilink")，[音阶](../Page/音阶.md "wikilink")中的第六音
   - [A大调](https://zh.wikipedia.org/wiki/A大调 "wikilink")，[A小调](https://zh.wikipedia.org/wiki/A小调 "wikilink")
   - [A (Jethro
     Tull专辑)](https://zh.wikipedia.org/wiki/A_\(Jethro_Tull专辑\) "wikilink")，[前卫摇滚乐队](https://zh.wikipedia.org/wiki/前卫摇滚 "wikilink")[Jethro
@@ -122,31 +122,31 @@
     (电影)](https://zh.wikipedia.org/wiki/A_\(电影\) "wikilink")，一部1965年的电影
   - A，印度[Central Board of Film
     Certification的一个评级](https://zh.wikipedia.org/wiki/Central_Board_of_Film_Certification "wikilink")
-  - [A证书](https://zh.wikipedia.org/wiki/A证书 "wikilink")，一个[加拿大电影评级](../Page/加拿大.md "wikilink")
+  - [A证书](https://zh.wikipedia.org/wiki/A证书 "wikilink")，一个[加拿大](../Page/加拿大.md "wikilink")电影评级
   - 作为[阿凡达](../Page/阿凡达.md "wikilink")（Avatar）的简称
 
 ## 语言学
 
-  - A或an，[英语中的](../Page/英语.md "wikilink")[不定冠词](https://zh.wikipedia.org/wiki/不定冠词 "wikilink")
+  - A或an，[英语](../Page/英语.md "wikilink")中的[不定冠词](https://zh.wikipedia.org/wiki/不定冠词 "wikilink")
   - [А](../Page/А.md "wikilink")，[西里尔字母](../Page/西里尔字母.md "wikilink")
   - [Α](https://zh.wikipedia.org/wiki/Α "wikilink")，[希腊字母](../Page/希腊字母.md "wikilink")
-  - a，[日语](../Page/日语.md "wikilink")[假名](https://zh.wikipedia.org/wiki/假名 "wikilink")[あ的](../Page/あ.md "wikilink")[罗马字](https://zh.wikipedia.org/wiki/罗马字 "wikilink")
+  - a，[日语](../Page/日语.md "wikilink")[假名](https://zh.wikipedia.org/wiki/假名 "wikilink")[あ](../Page/あ.md "wikilink")的[罗马字](https://zh.wikipedia.org/wiki/罗马字 "wikilink")
   - a，[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[開前不圓唇元音](../Page/開前不圓唇元音.md "wikilink")
   - ɑ，[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[開後不圓唇元音](../Page/開後不圓唇元音.md "wikilink")
 
 ## 其他
 
-  - A，Annum，[拉丁语中表示](../Page/拉丁语.md "wikilink")“[年](../Page/年.md "wikilink")”
-  - A，[Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116的另一个名字](../Page/Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116.md "wikilink")
-  - "The A's"，[奧克蘭運動家的昵称](../Page/奧克蘭運動家.md "wikilink")
-  - A，[纽约证券交易所中](../Page/纽约证券交易所.md "wikilink")[安捷伦科技有限公司的代码](https://zh.wikipedia.org/wiki/安捷伦科技有限公司 "wikilink")
-  - [Anarchy-symbol.svg](https://zh.wikipedia.org/wiki/File:Anarchy-symbol.svg "fig:Anarchy-symbol.svg")，[无政府主义的符号](../Page/无政府主义.md "wikilink")
+  - A，Annum，[拉丁语](../Page/拉丁语.md "wikilink")中表示“[年](../Page/年.md "wikilink")”
+  - A，[Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116](../Page/Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116.md "wikilink")的另一个名字
+  - "The A's"，[奧克蘭運動家](../Page/奧克蘭運動家.md "wikilink")的昵称
+  - A，[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")中[安捷伦科技有限公司的代码](https://zh.wikipedia.org/wiki/安捷伦科技有限公司 "wikilink")
+  - [Anarchy-symbol.svg](https://zh.wikipedia.org/wiki/File:Anarchy-symbol.svg "fig:Anarchy-symbol.svg")，[无政府主义](../Page/无政府主义.md "wikilink")的符号
   - A，[Alton
     Railroad](https://zh.wikipedia.org/wiki/Alton_Railroad "wikilink")
   - [紐約地鐵A線](../Page/紐約地鐵A線.md "wikilink")
   - [A
     (S-train)](https://zh.wikipedia.org/wiki/A_\(S-train\) "wikilink")，一条[哥本哈根地铁线路](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
-  - A，[扑克牌中的一张牌](../Page/扑克牌.md "wikilink")
+  - A，[扑克牌](../Page/扑克牌.md "wikilink")中的一张牌
   - A系列，[ISO 216定义的一系列纸张大小](../Page/ISO_216.md "wikilink")
   - [A股](https://zh.wikipedia.org/wiki/A股 "wikilink")
   - a，[十二小时制中](https://zh.wikipedia.org/wiki/十二小时制 "wikilink")[上午](https://zh.wikipedia.org/wiki/上午 "wikilink")（am）的简称

@@ -3,7 +3,7 @@
 
 ## 歷史
 
-[一战后签订的](https://zh.wikipedia.org/wiki/一战 "wikilink")[凡尔赛条约要求德国槍械的口径不得超过](../Page/凡尔赛条约.md "wikilink")8毫米，因此瓦爾特公司开发了一种全新的手枪，被称为警用手枪（**P**olizei**p**istole）。1930年，为了满足高级军官、特工、刑事侦探人员的需求，瓦尔特公司研制了缩小了的警用刑事手枪（**P**olizei**p**istole
+[一战后签订的](https://zh.wikipedia.org/wiki/一战 "wikilink")[凡尔赛条约](../Page/凡尔赛条约.md "wikilink")要求德国槍械的口径不得超过8毫米，因此瓦爾特公司开发了一种全新的手枪，被称为警用手枪（**P**olizei**p**istole）。1930年，为了满足高级军官、特工、刑事侦探人员的需求，瓦尔特公司研制了缩小了的警用刑事手枪（**P**olizei**p**istole
 **K**riminalbeamte）\[1\]。
 
 ## 设计及生產
@@ -11,9 +11,9 @@
 瓦爾特PP和PPK手枪使用外露式[击锤](../Page/击锤.md "wikilink")，[單](https://zh.wikipedia.org/wiki/:en:Trigger_\(firearms\)#Single-action "wikilink")/[雙動扳機](https://zh.wikipedia.org/wiki/:en:Trigger_\(firearms\)#Double-action "wikilink")\[2\]，兩側都有保險鈕，彈匣底部有一塑膠延伸體以便於射手抓握。
 
 在瓦爾特公司被迫停止生產PP及PPK手槍後，便允許進行仿製。[法國的Manurhin](https://zh.wikipedia.org/wiki/法國 "wikilink")、[美國的Ranger](https://zh.wikipedia.org/wiki/美國 "wikilink")
-Manufacturing、Interarms、[史密斯威森](https://zh.wikipedia.org/wiki/史密斯威森 "wikilink")、[東德](../Page/東德.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[羅馬尼亞及](../Page/羅馬尼亞.md "wikilink")[土耳其都曾獲授權生產或私自仿製瓦爾特PP](../Page/土耳其.md "wikilink")/PPK手槍，其中部分國家及一些小廠的生產至今仍然進行中。
+Manufacturing、Interarms、[史密斯威森](https://zh.wikipedia.org/wiki/史密斯威森 "wikilink")、[東德](../Page/東德.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")及[土耳其](../Page/土耳其.md "wikilink")都曾獲授權生產或私自仿製瓦爾特PP/PPK手槍，其中部分國家及一些小廠的生產至今仍然進行中。
 
-[苏联的](../Page/苏联.md "wikilink")[马卡洛夫PM手槍](https://zh.wikipedia.org/wiki/马卡洛夫PM手槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[64式手枪](../Page/64式手枪.md "wikilink")、[匈牙利的](../Page/匈牙利.md "wikilink")[FEG
+[苏联](../Page/苏联.md "wikilink")的[马卡洛夫PM手槍](https://zh.wikipedia.org/wiki/马卡洛夫PM手槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[64式手枪](../Page/64式手枪.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")的[FEG
 PA-63手槍](../Page/FEG_PA-63手槍.md "wikilink")、[捷克斯洛伐克的CA](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")50在设计过程中都受到PP的影响\[3\]，而部份[第三世界國家至今仍採用PP或PPK型作為警察用的佩枪](https://zh.wikipedia.org/wiki/第三世界國家 "wikilink")。
 
 ## 流行文化
@@ -61,24 +61,24 @@ zh-hk:新鐵金剛：智破天凶城;}-](https://zh.wikipedia.org/wiki/007：空
   -   - 使用仿製型
 
   -
-  -   - [警察部門](../Page/警察.md "wikilink")（使用授權生產型）
+  -   - [警察](../Page/警察.md "wikilink")部門（使用授權生產型）
 
   -   - [德意志聯邦國防軍](https://zh.wikipedia.org/wiki/德意志聯邦國防軍 "wikilink")（PPK；以「P21」的名義使用，裝備[憲兵和情報人員](https://zh.wikipedia.org/wiki/憲兵 "wikilink")）
-      - [警察部門](../Page/警察.md "wikilink")
+      - [警察](../Page/警察.md "wikilink")部門
 
   -
   -   - 使用仿製型
 
   -   - [特種部隊](../Page/特種部隊.md "wikilink")
 
-  -   - [警察部門](../Page/警察.md "wikilink")（槍上刻上[波斯文](https://zh.wikipedia.org/wiki/波斯文 "wikilink")）
+  -   - [警察](../Page/警察.md "wikilink")部門（槍上刻上[波斯文](https://zh.wikipedia.org/wiki/波斯文 "wikilink")）
 
   -   - [愛爾蘭陸軍遊騎兵](https://zh.wikipedia.org/wiki/愛爾蘭陸軍遊騎兵 "wikilink")
 
   -
   -   - \[5\]（PPK）
 
-  -   - [警視廳警備部警備科](../Page/警視廳.md "wikilink")（PPK；已被[SIG
+  -   - [警視廳](../Page/警視廳.md "wikilink")警備部警備科（PPK；已被[SIG
         P230手槍所取代](../Page/SIG_P230手槍.md "wikilink")）
 
   -
@@ -87,7 +87,7 @@ zh-hk:新鐵金剛：智破天凶城;}-](https://zh.wikipedia.org/wiki/007：空
   -
   -
   -   - [德意志國防軍](../Page/德意志國防軍.md "wikilink")（為[軍官](../Page/軍官.md "wikilink")、車組人員、空軍和海軍人員的個人防衛武器）
-      - [警察部門](../Page/警察.md "wikilink")
+      - [警察](../Page/警察.md "wikilink")部門
 
   -
   -
@@ -101,7 +101,7 @@ zh-hk:新鐵金剛：智破天凶城;}-](https://zh.wikipedia.org/wiki/007：空
   -   - 外交人員
       - 被列為獎勵武器
 
-  -   - [警察部門](../Page/警察.md "wikilink")（PP；已退役）
+  -   - [警察](../Page/警察.md "wikilink")部門（PP；已退役）
 
   -
   -
@@ -113,12 +113,12 @@ zh-hk:新鐵金剛：智破天凶城;}-](https://zh.wikipedia.org/wiki/007：空
       - [英國軍隊](../Page/英國軍隊.md "wikilink")（以「L66A1」及「L47A1」的名義使用，作個人防衛武器之用，至今仍裝備[英國空軍](https://zh.wikipedia.org/wiki/英國空軍 "wikilink")）
       - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")
 
-  -   - [警察部門](../Page/警察.md "wikilink")（使用授權生產型）
+  -   - [警察](../Page/警察.md "wikilink")部門（使用授權生產型）
       - [美國海軍](../Page/美國海軍.md "wikilink")[海豹部隊](../Page/海豹部隊.md "wikilink")
 
   -
   -
-  -   - [警察部門](../Page/警察.md "wikilink")
+  -   - [警察](../Page/警察.md "wikilink")部門
 
 ## 參考交獻
 

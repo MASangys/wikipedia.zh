@@ -66,7 +66,7 @@ Eunhyuk的的官方MV列表](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink
 <tr class="odd">
 <td><p>7月6日</p></td>
 <td><p>Wonder Boy</p></td>
-<td><p>《<a href="../Page/花美男连锁恐怖事件.md" title="wikilink">花美男连锁恐怖事件原声带</a>》</p></td>
+<td><p>《<a href="../Page/花美男连锁恐怖事件.md" title="wikilink">花美男连锁恐怖事件</a>原声带》</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -1,7 +1,7 @@
 **OPhone**，也稱OMS (Open Mobile
-System)，是一個[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，基於[Android的基礎上改造](../Page/Android.md "wikilink")，為[Android的衍生平台](../Page/Android.md "wikilink")。該平台於2007年啟動研發，於2009年8月31日正式發佈。后由[中國移動的OPhone軟件開發網絡修改](https://zh.wikipedia.org/wiki/中國移動 "wikilink")，並進入其中國市場。
+System)，是一個[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，基於[Android](../Page/Android.md "wikilink")的基礎上改造，為[Android](../Page/Android.md "wikilink")的衍生平台。該平台於2007年啟動研發，於2009年8月31日正式發佈。后由[中國移動的OPhone軟件開發網絡修改](https://zh.wikipedia.org/wiki/中國移動 "wikilink")，並進入其中國市場。
 
-OPhone雖然能提供廉價、低價格比的入門級智能手機，但只能使用[中國移動当时的](https://zh.wikipedia.org/wiki/中國移動 "wikilink")[TD-SCDMA網路和](https://zh.wikipedia.org/wiki/TD-SCDMA "wikilink")[GSM網絡](../Page/GSM.md "wikilink")。同时相比原生Android，Ophone在易用性和用户界面上有着更多的不足。
+OPhone雖然能提供廉價、低價格比的入門級智能手機，但只能使用[中國移動当时的](https://zh.wikipedia.org/wiki/中國移動 "wikilink")[TD-SCDMA網路和](https://zh.wikipedia.org/wiki/TD-SCDMA "wikilink")[GSM](../Page/GSM.md "wikilink")網絡。同时相比原生Android，Ophone在易用性和用户界面上有着更多的不足。
 
 ## 版本歷史
 
@@ -20,7 +20,7 @@ OPhone曾經研發過3.0，但最后没有發布。
 
 ## 旗舰产品
 
-  - 以下所有手機都沒有內置[Google的服務](../Page/Google.md "wikilink")，而且已經停產和停止銷售，但仍可通過[淘寶網和](https://zh.wikipedia.org/wiki/淘寶網 "wikilink")[百度貼吧等購買二手機](https://zh.wikipedia.org/wiki/百度貼吧 "wikilink")。
+  - 以下所有手機都沒有內置[Google](../Page/Google.md "wikilink")的服務，而且已經停產和停止銷售，但仍可通過[淘寶網和](https://zh.wikipedia.org/wiki/淘寶網 "wikilink")[百度貼吧等購買二手機](https://zh.wikipedia.org/wiki/百度貼吧 "wikilink")。
 
 ### [摩托羅拉MT](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")710
 
@@ -33,7 +33,7 @@ OPhone曾經研發過3.0，但最后没有發布。
     2.5)，OPhone內置了中國移動的服務菜單、音樂隨身聽、手機導航、號簿管家、139郵箱、飛信、快訊、股票金融、GPS和移動夢網等的中國移動G3手機業務，Ram為512MB，CPU為1.0
     GHz Samsung Exynos 3110。
 
-### [聯想O](../Page/聯想.md "wikilink")1
+### [聯想](../Page/聯想.md "wikilink")O1
 
   - 支援中國移動通訊的3G網路(TD-SCDMA)，搭載了OPhone 2.0(可升級至
     2.5)，是聯想的第一款OPhone手機，O1支援TD-SCDMA，GSM以及WIFI，有3.5寸HVGA全觸控高畫質電容式螢幕，624MHz的CPU，標配8G的記憶體，500萬像素和30萬像素雙網路攝影機的設計，CMMB的手機電視。

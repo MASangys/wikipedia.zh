@@ -22,7 +22,7 @@ Sohne公司合作，以便應付未來可能的大宗手槍訂單。
 
 ## 採用
 
-[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")、[日本皆曾採用P](../Page/日本.md "wikilink")220作為軍隊制式手槍，[日本並獲得授權生產P](../Page/日本.md "wikilink")220，命名為[美蓓亞P9](../Page/美蓓亞P9手槍.md "wikilink")。
+[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")、[日本](../Page/日本.md "wikilink")皆曾採用P220作為軍隊制式手槍，[日本](../Page/日本.md "wikilink")並獲得授權生產P220，命名為[美蓓亞P9](../Page/美蓓亞P9手槍.md "wikilink")。
 
 多國軍警曾裝備過P220，但大多已被其他大容量彈匣手槍取代。
 

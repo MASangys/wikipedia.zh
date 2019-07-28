@@ -1,5 +1,5 @@
 **Pure
-Data**（或稱作**PD**）是在90年代为创造交互的计算机音乐和多媒体作品而开发的[视觉化程式设计语言](https://zh.wikipedia.org/wiki/视觉化程式设计语言 "wikilink")。虽然帕克特是Pd的主要作者，但是它是一个多数开发者为起开发新扩展的[开放源代码项目](../Page/开放源代码.md "wikilink")。它以一个类似于
+Data**（或稱作**PD**）是在90年代为创造交互的计算机音乐和多媒体作品而开发的[视觉化程式设计语言](https://zh.wikipedia.org/wiki/视觉化程式设计语言 "wikilink")。虽然帕克特是Pd的主要作者，但是它是一个多数开发者为起开发新扩展的[开放源代码](../Page/开放源代码.md "wikilink")项目。它以一个类似于
 [BSD许可证](../Page/BSD许可证.md "wikilink") 类似许可证下发行，可运行在GNU/Linux、Mac OS
 X、iOS、Android和Windows。
 

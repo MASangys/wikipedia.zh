@@ -1,5 +1,5 @@
 **IDEA**（又名**IDEA Games**），全稱**Independent Developers
-Association**，是一開放[獨立遊戲](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[開發者聯盟](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")。該聯盟由位於[捷克的三家獨立電子遊戲開發商](../Page/捷克.md "wikilink")：[波希米亞互動工作室](../Page/波希米亞互動工作室.md "wikilink")（Bohemia
+Association**，是一開放[獨立遊戲](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[開發者聯盟](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")。該聯盟由位於[捷克](../Page/捷克.md "wikilink")的三家獨立電子遊戲開發商：[波希米亞互動工作室](../Page/波希米亞互動工作室.md "wikilink")（Bohemia
 Interactive Studio）、[Altar
 Games以及](../Page/ALTAR_games.md "wikilink")[Black Element
 Software於](https://zh.wikipedia.org/wiki/Black_Element_Software "wikilink")2005年11月聯合成立。\[1\]
@@ -9,7 +9,7 @@ IDEA提供了多方面的遊戲開發及出版的服務，例如有公關與市�
 ## IDEA品牌遊戲
 
   - **波希米亞互動：**
-      - [武装突袭系列](../Page/武装突袭.md "wikilink")
+      - [武装突袭](../Page/武装突袭.md "wikilink")系列
   - **ALTAR Games：**
       - [UFO:
         Afterlight](https://zh.wikipedia.org/wiki/UFO:_Afterlight "wikilink")

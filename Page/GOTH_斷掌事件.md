@@ -1,5 +1,5 @@
 《**GOTH
-斷掌事件**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一的](../Page/乙一.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。獲得第3屆「本格MYSTERY大賞」。之後改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
+斷掌事件**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。獲得第3屆「本格MYSTERY大賞」。之後改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 出版資訊
 
@@ -55,7 +55,7 @@
 
 ## 電影
 
-2007年7月27日攝影開始，8月18日結束（撮影期21日）。攝影結束後，前製片人[山田俊輔被證明用虛偽報告從](https://zh.wikipedia.org/wiki/山田俊輔 "wikilink")[角川映畫詐取電影版權後逃跑](../Page/角川映畫.md "wikilink")，製作中斷。2008年5月23日在前製片人失蹤狀態下完成製作。2008年12月20日在日本上映。
+2007年7月27日攝影開始，8月18日結束（撮影期21日）。攝影結束後，前製片人[山田俊輔被證明用虛偽報告從](https://zh.wikipedia.org/wiki/山田俊輔 "wikilink")[角川映畫](../Page/角川映畫.md "wikilink")詐取電影版權後逃跑，製作中斷。2008年5月23日在前製片人失蹤狀態下完成製作。2008年12月20日在日本上映。
 
 ### 演員
 

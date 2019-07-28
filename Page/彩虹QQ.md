@@ -1,11 +1,11 @@
-**彩虹QQ**，基于[腾讯QQ的增强软件](../Page/腾讯QQ.md "wikilink")，具有显示好友[IP地址及是否为隐身状态的功能](https://zh.wikipedia.org/wiki/IP "wikilink")。以[外挂的形式存在](https://zh.wikipedia.org/wiki/外挂 "wikilink")，安装彩虹QQ需要先安装正版[腾讯QQ](../Page/腾讯QQ.md "wikilink")。
+**彩虹QQ**，基于[腾讯QQ](../Page/腾讯QQ.md "wikilink")的增强软件，具有显示好友[IP地址及是否为隐身状态的功能](https://zh.wikipedia.org/wiki/IP "wikilink")。以[外挂的形式存在](https://zh.wikipedia.org/wiki/外挂 "wikilink")，安装彩虹QQ需要先安装正版[腾讯QQ](../Page/腾讯QQ.md "wikilink")。
 [qq_rainbow.jpg](https://zh.wikipedia.org/wiki/File:qq_rainbow.jpg "fig:qq_rainbow.jpg")
 
 ## 软件功能
 
   - 显示聊天好友的IP地址
   - 探测隐身好友并蓝名提示
-  - 支持[火星文输入](../Page/火星文.md "wikilink")
+  - 支持[火星文](../Page/火星文.md "wikilink")输入
 
 ## 争议
 

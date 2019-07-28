@@ -10,7 +10,7 @@ Windows Live Call提供了三種方式的通話：
   - **電話通話** - 和世界各地的市話及行動電話進行語音通話。（付費支援）
 
 而和電話通話的服務是利用Windows Live
-Messenger以及[VoIP的技術](../Page/VoIP.md "wikilink")，讓使用者可以透過電腦，以較低的通話費進行國內和國際通話。\[1\]
+Messenger以及[VoIP](../Page/VoIP.md "wikilink")的技術，讓使用者可以透過電腦，以較低的通話費進行國內和國際通話。\[1\]
 
 微軟同時也販售Windows Live Messenger Phone，這是Windows Live
 Messenger的附屬產品之一，他讓電腦使用者用類似一般電話的方式和其他人進行通話。微软网站上关于windows

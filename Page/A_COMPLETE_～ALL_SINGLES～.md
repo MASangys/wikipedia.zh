@@ -1,5 +1,5 @@
 《**A COMPLETE ～ALL SINGLES～**》（A
-單曲紀10極精選）是日本歌手[濱崎步於](../Page/濱崎步.md "wikilink")2008年9月10日發行的單曲選集，用以紀念2008年濱崎步出道十周年。發行後首週以54萬張銷售量奪下日本[公信榜專輯榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，也是濱崎步的第14張冠軍專輯。在台灣也奪下[g-music風雲榜東洋榜冠軍](https://zh.wikipedia.org/wiki/g-music "wikilink")。
+單曲紀10極精選）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2008年9月10日發行的單曲選集，用以紀念2008年濱崎步出道十周年。發行後首週以54萬張銷售量奪下日本[公信榜專輯榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，也是濱崎步的第14張冠軍專輯。在台灣也奪下[g-music風雲榜東洋榜冠軍](https://zh.wikipedia.org/wiki/g-music "wikilink")。
 
 ## 說明
 

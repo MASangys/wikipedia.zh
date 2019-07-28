@@ -4,7 +4,7 @@
 《无双大蛇Z》是[真·三国无双系列和](https://zh.wikipedia.org/wiki/真·三国无双系列 "wikilink")[战国无双系列的融合作品](https://zh.wikipedia.org/wiki/战国无双系列 "wikilink")——[无双大蛇系列的第三作](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")，将《[无双大蛇](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")》和《[无双大蛇：魔王再临](https://zh.wikipedia.org/wiki/无双大蛇：魔王再临 "wikilink")》的所有内容合并移植到最新的游戏及平台上，并添加了新的角色和关卡。得益於次世代游戏机的强大机能，该游戏在當時为无双系列中同屏幕人数最多的一款\[3\]。
 
 該作的PlayStation
-3日文版於2009年3月12日在[日本和](../Page/日本.md "wikilink")[台湾地区发售](https://zh.wikipedia.org/wiki/台湾 "wikilink")\[4\]，而PlayStation
+3日文版於2009年3月12日在[日本](../Page/日本.md "wikilink")和[台湾地区发售](https://zh.wikipedia.org/wiki/台湾 "wikilink")\[4\]，而PlayStation
 3中文版则於2009年7月30日由台湾光荣推出\[5\]，Windows中文版則於2009年12月24日開始發售。
 
 ## 游戏内容
@@ -51,7 +51,7 @@ PC版游戏画面较前一代有较大改观，且支持宽屏幕模式画面，
 以下新增的角色：
 
   -
-    [辨庆是日本](https://zh.wikipedia.org/wiki/武藏坊辨庆 "wikilink")[平安时代末期的](../Page/平安时代.md "wikilink")[僧兵](../Page/僧兵.md "wikilink")，
+    [辨庆是日本](https://zh.wikipedia.org/wiki/武藏坊辨庆 "wikilink")[平安时代](../Page/平安时代.md "wikilink")末期的[僧兵](../Page/僧兵.md "wikilink")，
     以其对[源义经的忠诚和喜欢搜集武器的癖好而著称](https://zh.wikipedia.org/wiki/源义经 "wikilink")。武器为含有各种机关的巨型手，属於“力量型”角色。
 
 <!-- end list -->
@@ -62,12 +62,12 @@ PC版游戏画面较前一代有较大改观，且支持宽屏幕模式画面，
 可在故事模式和剧情模式中使用的以下角色：
 
   -
-    名稱來自[日本的妖怪](../Page/日本.md "wikilink")[百百目鬼](https://zh.wikipedia.org/wiki/百目妖 "wikilink")，遠呂智軍的獨眼妖魔，協助[妲己至五行山釋放遠呂智的妖魔之一](../Page/妲己.md "wikilink")，属於“速度型”角色。
+    名稱來自[日本](../Page/日本.md "wikilink")的妖怪[百百目鬼](https://zh.wikipedia.org/wiki/百目妖 "wikilink")，遠呂智軍的獨眼妖魔，協助[妲己](../Page/妲己.md "wikilink")至五行山釋放遠呂智的妖魔之一，属於“速度型”角色。
 
 <!-- end list -->
 
   -
-    名稱來自[日本的妖怪](../Page/日本.md "wikilink")[牛鬼](https://zh.wikipedia.org/wiki/牛鬼 "wikilink")，遠呂智軍的巨漢妖魔，協助[妲己至五行山釋放遠呂智的妖魔之一](../Page/妲己.md "wikilink")，属於“力量型”角色。
+    名稱來自[日本](../Page/日本.md "wikilink")的妖怪[牛鬼](https://zh.wikipedia.org/wiki/牛鬼 "wikilink")，遠呂智軍的巨漢妖魔，協助[妲己](../Page/妲己.md "wikilink")至五行山釋放遠呂智的妖魔之一，属於“力量型”角色。
 
 加上这四位新增角色，在《无双大蛇Z》中共有96名角色登场，成为当时登场人数最多的无双系列游戏。\[9\]
 

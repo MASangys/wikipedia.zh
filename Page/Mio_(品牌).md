@@ -1,4 +1,4 @@
-**Mio**為[神達電腦旗下的手持式](../Page/神達電腦.md "wikilink")[行動通訊裝置](https://zh.wikipedia.org/wiki/行動通訊 "wikilink")[自有品牌](https://zh.wikipedia.org/wiki/自有品牌 "wikilink")，2002年5月成立，以[消費者需求為出發](https://zh.wikipedia.org/wiki/消費者 "wikilink")，推廣手持式行動通訊裝置，包括車用[導航系統](https://zh.wikipedia.org/wiki/導航系統 "wikilink")、導航[PDA](../Page/个人数码助理.md "wikilink")、導航PDA[手機等](https://zh.wikipedia.org/wiki/手機 "wikilink")，並於2009年開始發展[行動聯網裝置](../Page/行動聯網裝置.md "wikilink")。
+**Mio**為[神達電腦](../Page/神達電腦.md "wikilink")旗下的手持式[行動通訊裝置](https://zh.wikipedia.org/wiki/行動通訊 "wikilink")[自有品牌](https://zh.wikipedia.org/wiki/自有品牌 "wikilink")，2002年5月成立，以[消費者需求為出發](https://zh.wikipedia.org/wiki/消費者 "wikilink")，推廣手持式行動通訊裝置，包括車用[導航系統](https://zh.wikipedia.org/wiki/導航系統 "wikilink")、導航[PDA](../Page/个人数码助理.md "wikilink")、導航PDA[手機等](https://zh.wikipedia.org/wiki/手機 "wikilink")，並於2009年開始發展[行動聯網裝置](../Page/行動聯網裝置.md "wikilink")。
 
 ## 历史 
 
@@ -6,7 +6,7 @@
 Technology Corp.），Mio為其自有品牌。
 
 2003年，Mio發表了內建GPS的PDA「Mio DigiWalker
-168」。2004年，Mio將版圖往歐洲、澳洲、日本、中東、非洲及美國等地發展，並成為南韓與台灣的領導品牌。2006年，Mio已成為全球第三大GPS領導品牌。2008年，Mio與[Navman品牌正式合併](../Page/Navman.md "wikilink")，以Mio為存續品牌。
+168」。2004年，Mio將版圖往歐洲、澳洲、日本、中東、非洲及美國等地發展，並成為南韓與台灣的領導品牌。2006年，Mio已成為全球第三大GPS領導品牌。2008年，Mio與[Navman](../Page/Navman.md "wikilink")品牌正式合併，以Mio為存續品牌。
 
 [MiTAC_Digital_Technology_booth_20190601.jpg](https://zh.wikipedia.org/wiki/File:MiTAC_Digital_Technology_booth_20190601.jpg "fig:MiTAC_Digital_Technology_booth_20190601.jpg")，神達數位攤位\]\]
 2018年1月1日，神達電腦行動通訊產品事業體獨立為「神達數位股份有限公司」（MiTAC Digital Technology

@@ -1,4 +1,4 @@
-**angela**為[日本的二人樂隊組合](../Page/日本.md "wikilink")，由atsuko和KATSU組成。隸屬於music
+**angela**為[日本](../Page/日本.md "wikilink")的二人樂隊組合，由atsuko和KATSU組成。隸屬於music
 wonder circus、[KING records](../Page/國王唱片.md "wikilink")（[STAR
 CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫歌曲知名。
 
@@ -74,10 +74,10 @@ CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫
   - 2000年：從經紀公司獨立，改成現在的名稱（將ANGELA改成小寫）。重新以地下樂團身分出發。
   - 2003年：以單曲「明日へのbrilliant
     road」再度正式出道。這首歌獲頒第8回アニメーション神戸、AM神戸（Radio關西）主題曲獎。
-  - 2004年：單曲「Shangri-La」在[Oricon初登場就獲得第](../Page/Oricon.md "wikilink")12名。接著專輯「I/O」初登場則拿到第16名，這一年還獲頒King
+  - 2004年：單曲「Shangri-La」在[Oricon](../Page/Oricon.md "wikilink")初登場就獲得第12名。接著專輯「I/O」初登場則拿到第16名，這一年還獲頒King
     Record-Best HIt獎。
       - 在美國舉辦的「OTAKON」活動中演出。專輯「ソラノコエ」在全美發售。
-  - 2005年：在[SHIBUYA-AX進行全曲演唱會](../Page/SHIBUYA-AX.md "wikilink")。
+  - 2005年：在[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")進行全曲演唱會。
       - 在活動「SAKURA-CON」或「CANADIAN NATIONAL EXPO」中演出。
       - 專輯「I/O」也在全美發售。
       - 在[愛·地球博的](https://zh.wikipedia.org/wiki/2005年日本國際博覽會 "wikilink")「東海Radio
@@ -113,7 +113,7 @@ CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>周榜<br />
 最高位</p></th>
 </tr>
 </thead>
@@ -339,7 +339,7 @@ KICM-1854（動畫盤）</p></td>
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
 <th><p>收錄內容</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>周榜<br />
 最高位</p></th>
 </tr>
 </thead>
@@ -532,7 +532,7 @@ KICM-1854（動畫盤）</p></td>
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
 <th><p>規格編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>周榜<br />
 最高位</p></th>
 </tr>
 </thead>

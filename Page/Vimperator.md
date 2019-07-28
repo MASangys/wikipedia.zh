@@ -1,5 +1,5 @@
 **Vimperator**是[Mozilla
-Firefox的一个](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[扩展](../Page/Firefox扩展列表.md "wikilink")，它为喜欢使用键盘的用户提供了类似于[Vim的用户界面](../Page/Vim.md "wikilink")。它和Vim一样，有着较陡的[学习曲线](https://zh.wikipedia.org/wiki/学习曲线 "wikilink")。
+Firefox的一个](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[扩展](../Page/Firefox扩展列表.md "wikilink")，它为喜欢使用键盘的用户提供了类似于[Vim](../Page/Vim.md "wikilink")的用户界面。它和Vim一样，有着较陡的[学习曲线](https://zh.wikipedia.org/wiki/学习曲线 "wikilink")。
 
 ## 特點
 
@@ -14,14 +14,14 @@ Vimperator的hints允許使用者做出通常需滑鼠來完成的動作。在�
 
 ### 命令列
 
-Vimperator的大多數功能通過視窗底部類似[Vim的](../Page/Vim.md "wikilink")[命令列來完成](https://zh.wikipedia.org/wiki/命令列 "wikilink")。像在Vim中一樣，所有的命令以「:」開始。當使用者輸入「:」，Vimperator就進入「[命令列模式](https://zh.wikipedia.org/wiki/命令列模式 "wikilink")」。常用的命令如下：
+Vimperator的大多數功能通過視窗底部類似[Vim](../Page/Vim.md "wikilink")的[命令列來完成](https://zh.wikipedia.org/wiki/命令列 "wikilink")。像在Vim中一樣，所有的命令以「:」開始。當使用者輸入「:」，Vimperator就進入「[命令列模式](https://zh.wikipedia.org/wiki/命令列模式 "wikilink")」。常用的命令如下：
 
   - `:help [主題]` – 提供與`[主題]`相關的說明
   - `:open [位址]` – 在當前標籤打開`[位址]`，位址可以是文件、書籤的關鍵字、或者用搜索引擎搜索。
   - `:back` 和 `:forward` – 根據歷史記錄後退和前進。
   - `:bmark [位址]` – 創建書籤。
   - `:echo [表達式]` –
-    以[JavaScript的形式運算](../Page/JavaScript.md "wikilink")`[表達式]`並顯示結果。
+    以[JavaScript](../Page/JavaScript.md "wikilink")的形式運算`[表達式]`並顯示結果。
   - `:set[!] ...` – 顯示或修改Vimperator和Firefox的設置。
   - `:map` – 創建、修改鍵盤快捷鍵。
   - `:highlight` – 改变Vimperator的外观，详见帮助文档第18章：Styling the GUI and web
@@ -73,7 +73,7 @@ Vimperator提供命令的自動補齊功能。比如在按了快捷鍵「b」後
 
 ### 套件系統
 
-Vimperator有自己的套件系統，套件可以使用[JavaScript和Vim腳本編寫](../Page/JavaScript.md "wikilink")，以.vimp為副檔名放在
+Vimperator有自己的套件系統，套件可以使用[JavaScript](../Page/JavaScript.md "wikilink")和Vim腳本編寫，以.vimp為副檔名放在
 `~/.vimperator/plugin`
 目錄（[Windows中是](https://zh.wikipedia.org/wiki/Windows "wikilink")
 `%HOME%\vimperator\plugin`
@@ -82,9 +82,9 @@ Vimperator有自己的套件系統，套件可以使用[JavaScript和Vim腳本�
 
 ## 参见
 
-  - [Vim编辑器](../Page/Vim.md "wikilink")
+  - [Vim](../Page/Vim.md "wikilink")编辑器
   - [Conkeror](https://zh.wikipedia.org/wiki/Conkeror "wikilink") –
-    一个类似[Emacs的浏览器](../Page/Emacs.md "wikilink")
+    一个类似[Emacs](../Page/Emacs.md "wikilink")的浏览器
   - [Firefox扩展列表](../Page/Firefox扩展列表.md "wikilink")
 
 ## 参考资料

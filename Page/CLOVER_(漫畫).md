@@ -1,4 +1,4 @@
-《**CLOVER**》（）是[CLAMP的漫畫作品](../Page/CLAMP.md "wikilink")。
+《**CLOVER**》（）是[CLAMP](../Page/CLAMP.md "wikilink")的漫畫作品。
 
 ## 內容
 

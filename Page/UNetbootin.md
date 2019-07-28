@@ -16,9 +16,9 @@ USB](https://zh.wikipedia.org/wiki/Live_USB "wikilink") 。
     [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")、[CentOS](../Page/CentOS.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Linux
     Mint](../Page/Linux_Mint.md "wikilink")、[Arch
     Linux](../Page/Arch_Linux.md "wikilink")、[Mandriva](../Page/Mandriva_Linux.md "wikilink")、[Puppy
-    Linux](../Page/Puppy_Linux.md "wikilink")、[Slackware和](../Page/Slackware.md "wikilink")[FreeDOS](../Page/FreeDOS.md "wikilink")，[FreeBSD以及](../Page/FreeBSD.md "wikilink")[NetBSD](../Page/NetBSD.md "wikilink")。
+    Linux](../Page/Puppy_Linux.md "wikilink")、[Slackware](../Page/Slackware.md "wikilink")和[FreeDOS](../Page/FreeDOS.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")以及[NetBSD](../Page/NetBSD.md "wikilink")。
   - 可以載入各種系統工具，包含但不只限於，[Ophcrack](../Page/Ophcrack.md "wikilink")、[BackTrack](../Page/BackTrack.md "wikilink")。
-  - 其他作業系統可以被載入，透過預先下載[ISO映像檔或自定義的](../Page/ISO映像.md "wikilink")[内核](../Page/内核.md "wikilink")、[initrd](https://zh.wikipedia.org/wiki/initrd "wikilink")
+  - 其他作業系統可以被載入，透過預先下載[ISO映像](../Page/ISO映像.md "wikilink")檔或自定義的[内核](../Page/内核.md "wikilink")、[initrd](https://zh.wikipedia.org/wiki/initrd "wikilink")
     和軟碟／硬碟機[磁碟映像檔](https://zh.wikipedia.org/wiki/磁碟映像 "wikilink")。
   - 自動偵測所有可移除裝置。
 

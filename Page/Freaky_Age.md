@@ -1,5 +1,5 @@
 **Freaky
-Age**是[比利时](../Page/比利时.md "wikilink")[特尔纳特的一支](https://zh.wikipedia.org/wiki/特尔纳特 "wikilink")[独立摇滚乐队](../Page/独立摇滚.md "wikilink")，成立于2003年底。现今成员包括莱尼·克拉贝（Lenny
+Age**是[比利时](../Page/比利时.md "wikilink")[特尔纳特的一支](https://zh.wikipedia.org/wiki/特尔纳特 "wikilink")[独立摇滚](../Page/独立摇滚.md "wikilink")乐队，成立于2003年底。现今成员包括莱尼·克拉贝（Lenny
 Crabbe）、马蒂亚斯·德克莱尔（Mathias Declercq）、迪特尔·亨德里克斯（Dieter
 Henderickx）和约纳斯·保尔韦斯（Jonas Pauwels）。
 
@@ -12,7 +12,7 @@ Belgique舞台表演。
 
 在那时，乐队仅有三人（两个[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，一个[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")），比赛结束六个月后一位新的[贝斯手加入了乐队](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")。
 
-2007年初，法国的一个代理公司通过[MySpace发现了他们](https://zh.wikipedia.org/wiki/MySpace "wikilink")，促成了他们2007年4月在法国的首次表演，配合[Superbus乐队演出](../Page/Superbus.md "wikilink")。
+2007年初，法国的一个代理公司通过[MySpace发现了他们](https://zh.wikipedia.org/wiki/MySpace "wikilink")，促成了他们2007年4月在法国的首次表演，配合[Superbus](../Page/Superbus.md "wikilink")乐队演出。
 
 ## 唱片分类目录
 

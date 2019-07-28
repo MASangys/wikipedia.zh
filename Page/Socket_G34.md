@@ -15,9 +15,9 @@ G34採用平面網格陣列封裝（LGA），處理器基板上有1,944個觸點
 UDIMM/RDIMM/LRDIMM內存模塊；[TDP最高達](https://zh.wikipedia.org/wiki/TDP "wikilink")150W，支援雙路/四路工作方式。\[9\]\[10\]
 
 這些Socket
-G34的處理器中還有採用[多晶片模組技術](../Page/多晶片模組.md "wikilink")（MCM）製造的處理器，將兩顆相同規格的處理器晶粒封裝於1,944個觸點的處理器基板上，因此，在技術上以一個處理器晶粒為一個處理器實體的角度看的，一顆這種多晶片模組封裝的處理器實際上包含了兩顆處理器，以HyperTransport匯流排連接，也因此，安裝了四顆Opteron處理器的平台，有可能實際上是八處理器平台。\[11\]\[12\]此前的Socket
+G34的處理器中還有採用[多晶片模組](../Page/多晶片模組.md "wikilink")技術（MCM）製造的處理器，將兩顆相同規格的處理器晶粒封裝於1,944個觸點的處理器基板上，因此，在技術上以一個處理器晶粒為一個處理器實體的角度看的，一顆這種多晶片模組封裝的處理器實際上包含了兩顆處理器，以HyperTransport匯流排連接，也因此，安裝了四顆Opteron處理器的平台，有可能實際上是八處理器平台。\[11\]\[12\]此前的Socket
 F/F+平台，最高支援八顆處理器安裝於一塊主機板上，而每個插座上安裝的CPU，只會有一顆處理器晶粒。因此總的來說，最高規格的四處理器Socket
-G34平台，相當於形制上將八處理器平台壓縮為四處理器平台規格，而處理器內部的協調運作還是八處理器的操作方式，[作業系統會識別出八個實體處理器](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（節點）。\[13\]而AMD的多處理器平臺均支援[NUMA](https://zh.wikipedia.org/wiki/NUMA "wikilink")，并且可以在主機板的[BIOS中](../Page/BIOS.md "wikilink")，根據伺服器或工作站的用途手動開啓或關閉。\[14\]
+G34平台，相當於形制上將八處理器平台壓縮為四處理器平台規格，而處理器內部的協調運作還是八處理器的操作方式，[作業系統會識別出八個實體處理器](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（節點）。\[13\]而AMD的多處理器平臺均支援[NUMA](https://zh.wikipedia.org/wiki/NUMA "wikilink")，并且可以在主機板的[BIOS](../Page/BIOS.md "wikilink")中，根據伺服器或工作站的用途手動開啓或關閉。\[14\]
 
 對於純雙處理器工作站/伺服器平台，AMD也推出了同樣是LGA封裝的[Socket
 C32對應](../Page/Socket_C32.md "wikilink")，單塊[主機板上安裝的處理器的核心總數](https://zh.wikipedia.org/wiki/主機板 "wikilink")，最多僅為Socket
@@ -33,7 +33,7 @@ Socket G34於2010年3月29日推出，用於取代Socket F/F+，原來也用於�
 F/[F+的](https://zh.wikipedia.org/wiki/Socket_F+ "wikilink")[Socket
 G3和相應的](https://zh.wikipedia.org/wiki/Socket_G3 "wikilink")[記憶體擴充晶片](https://zh.wikipedia.org/wiki/記憶體 "wikilink")[G3MX被完全取消](https://zh.wikipedia.org/wiki/Socket_G3_記憶體擴展器 "wikilink")。\[17\]
 
-最初，AMD雙處理器及四處理器平台[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")/[工作站用的](../Page/工作站.md "wikilink")[Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")，包括代號為「Shanghai」4核心處理器、「Istanbul」6核心處理器等45奈米版本K10微架構的處理器，都在Socket
+最初，AMD雙處理器及四處理器平台[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")/[工作站](../Page/工作站.md "wikilink")用的[Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")，包括代號為「Shanghai」4核心處理器、「Istanbul」6核心處理器等45奈米版本K10微架構的處理器，都在Socket
 G3取消以後，計劃使用此種管腳排列。然而後來，普通雙處理器平臺使用Socket
 C32，用於單處理器平臺的則使用和普通桌上型電腦一樣的[Socket
 AM3](../Page/Socket_AM3.md "wikilink")/[AM3+](../Page/Socket_AM3+.md "wikilink")，僅高階的雙處理器/四處理器平臺以及支援雙/四路工作方式的處理器，方會使用Socket

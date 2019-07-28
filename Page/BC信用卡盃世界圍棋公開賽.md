@@ -70,7 +70,7 @@
 <td><p><strong><a href="../Page/古力.md" title="wikilink">古力</a></strong> 九段</p></td>
 <td><p>3-1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/赵汉乘" title="wikilink">赵汉乘</a> 九段</p></td>
-<td><p><a href="../Page/曹薰铉.md" title="wikilink">曹薰铉九段</a>、<a href="../Page/李世乭.md" title="wikilink">李世乭九段</a></p></td>
+<td><p><a href="../Page/曹薰铉.md" title="wikilink">曹薰铉</a>九段、<a href="../Page/李世乭.md" title="wikilink">李世乭</a>九段</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -78,7 +78,7 @@
 <td><p><strong>李世乭</strong> 九段</p></td>
 <td><p>3-0</p></td>
 <td><p><a href="../Page/常昊.md" title="wikilink">常昊</a> 九段</p></td>
-<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓七段</a>、<a href="https://zh.wikipedia.org/wiki/金起用" title="wikilink">金起用五段</a></p></td>
+<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓</a>七段、<a href="https://zh.wikipedia.org/wiki/金起用" title="wikilink">金起用五段</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -94,7 +94,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/白洪淅" title="wikilink">白洪淅</a></strong> 九段</p></td>
 <td><p>3-1</p></td>
 <td><p><a href="../Page/党毅飞.md" title="wikilink">党毅飞</a> 四段</p></td>
-<td><p><a href="../Page/朴文垚.md" title="wikilink">朴文垚九段</a>、<a href="../Page/胡耀宇.md" title="wikilink">胡耀宇八段</a></p></td>
+<td><p><a href="../Page/朴文垚.md" title="wikilink">朴文垚</a>九段、<a href="../Page/胡耀宇.md" title="wikilink">胡耀宇</a>八段</p></td>
 </tr>
 </tbody>
 </table>

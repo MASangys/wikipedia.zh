@@ -1,4 +1,4 @@
-**Burgerkill**是印度尼西亞來自[萬隆的獨立樂團](../Page/萬隆.md "wikilink")，音樂風格包含[金屬蕊](../Page/金屬蕊.md "wikilink")(Metalcore)、[鞭擊金屬](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink")(Thrash
+**Burgerkill**是印度尼西亞來自[萬隆](../Page/萬隆.md "wikilink")的獨立樂團，音樂風格包含[金屬蕊](../Page/金屬蕊.md "wikilink")(Metalcore)、[鞭擊金屬](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink")(Thrash
 Metal)、[死亡金屬](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")(Death
 Metal)、[輾核](../Page/輾核.md "wikilink")(Grindcore)等。
 

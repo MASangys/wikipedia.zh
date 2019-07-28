@@ -1,8 +1,8 @@
-《**Redefine**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇的第](../Page/周勵淇.md "wikilink")4張音樂專輯，於2009年1月20日推出。由於第一版火速售罄，因此唱片公司加印了第二版，並於2月13日推出，歌曲與第一版無異，但唱片封套及相集卻更換了，另外多送一張明信片。
+《**Redefine**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇](../Page/周勵淇.md "wikilink")的第4張音樂專輯，於2009年1月20日推出。由於第一版火速售罄，因此唱片公司加印了第二版，並於2月13日推出，歌曲與第一版無異，但唱片封套及相集卻更換了，另外多送一張明信片。
 
 ## 簡介
 
-[周勵淇繼](../Page/周勵淇.md "wikilink")2006年單曲《[Nikikaka](../Page/Nikikaka.md "wikilink")》後，主攻電視圈的發展；而闊別樂壇兩年多的
+[周勵淇](../Page/周勵淇.md "wikilink")繼2006年單曲《[Nikikaka](../Page/Nikikaka.md "wikilink")》後，主攻電視圈的發展；而闊別樂壇兩年多的
 Niki
 終於在2009年全新的時尚造型形象，在新專輯《**Redefine**》與歌迷們分享她的成長和戀愛經歷。新碟中請來了[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink")、[陳輝陽](../Page/陳輝陽.md "wikilink")、[林夕](../Page/林夕.md "wikilink")、陳台證和[楊鎮邦](../Page/楊鎮邦.md "wikilink")、[夏至等音樂人合作](https://zh.wikipedia.org/wiki/haji "wikilink")，每首歌有著不同的戀愛感覺。在第三張大碟中《**Redefine**》，無論在造型及歌路上，
 走成熟路線的 Niki 予人一份的新鮮感。

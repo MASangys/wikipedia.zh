@@ -1,11 +1,11 @@
-本條目是[KDE應用軟件的一個列表](../Page/KDE.md "wikilink")，分類排序。
+本條目是[KDE](../Page/KDE.md "wikilink")應用軟件的一個列表，分類排序。
 
 ## 教育\[1\]
 
   - [Blinken](https://zh.wikipedia.org/wiki/Blinken "wikilink") -
     提高记忆力的游戏
   - [Cantor](https://zh.wikipedia.org/wiki/Cantor "wikilink") -
-    [KDE的前端数学软件](../Page/KDE.md "wikilink")
+    [KDE](../Page/KDE.md "wikilink")的前端数学软件
   - [KAlgebra](https://zh.wikipedia.org/wiki/KAlgebra "wikilink") -
     [图形计算器](../Page/图形计算器.md "wikilink")
   - [Kalzium](https://zh.wikipedia.org/wiki/Kalzium "wikilink") -
@@ -20,7 +20,7 @@
   - [Kig](https://zh.wikipedia.org/wiki/Kig "wikilink") -
     交互式[几何](https://zh.wikipedia.org/wiki/几何 "wikilink")
   - [Kiten](https://zh.wikipedia.org/wiki/Kiten "wikilink") -
-    [日语参考](../Page/日语.md "wikilink")/学习工具
+    [日语](../Page/日语.md "wikilink")参考/学习工具
   - [KLettres](https://zh.wikipedia.org/wiki/KLettres "wikilink") -
     学习[字母表](https://zh.wikipedia.org/wiki/字母表 "wikilink")
   - [KmPlot](https://zh.wikipedia.org/wiki/KmPlot "wikilink") -
@@ -78,7 +78,7 @@
   - [KNode](https://zh.wikipedia.org/wiki/KNode "wikilink") -
     [Usenet客戶端](https://zh.wikipedia.org/wiki/Usenet客戶端 "wikilink")
   - [Konversation](../Page/Konversation.md "wikilink") -
-    專用[IRC客戶端](../Page/IRC.md "wikilink")
+    專用[IRC](../Page/IRC.md "wikilink")客戶端
   - [Konqueror](../Page/Konqueror.md "wikilink") -
     [文件管理器](https://zh.wikipedia.org/wiki/文件管理器 "wikilink")、[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")
   - [Kopete](../Page/Kopete.md "wikilink") -
@@ -90,7 +90,7 @@
   - [KFTPGrabber](https://zh.wikipedia.org/wiki/KFTPGrabber "wikilink")
     - 圖形界面的[FTP客戶端](https://zh.wikipedia.org/wiki/FTP "wikilink")
   - [Akregator](../Page/Akregator.md "wikilink") -
-    [RSS閱讀器](../Page/RSS.md "wikilink")
+    [RSS](../Page/RSS.md "wikilink")閱讀器
 
 ## 多媒體
 
@@ -103,10 +103,9 @@
     - CD音軛抓取及編碼
   - [Kdenlive](../Page/Kdenlive.md "wikilink") - 影片編輯器
   - [KMid](https://zh.wikipedia.org/wiki/KMid "wikilink") -
-    播放[MIDI格式](../Page/MIDI.md "wikilink")、karaoke格式(\*.kar)
-    \[2\]
+    播放[MIDI](../Page/MIDI.md "wikilink")格式、karaoke格式(\*.kar) \[2\]
   - [KMPlayer](../Page/KMPlayer.md "wikilink") -
-    影音播放器，或作為[Konqueror的插件](../Page/Konqueror.md "wikilink")
+    影音播放器，或作為[Konqueror](../Page/Konqueror.md "wikilink")的插件
   - [KPlayer](https://zh.wikipedia.org/wiki/KPlayer "wikilink") - 多媒體播放器
   - [K9Copy](../Page/K9Copy.md "wikilink") - 類似[DVD
     Shrink的](../Page/DVD_Shrink.md "wikilink")[DVD認証軟件](https://zh.wikipedia.org/wiki/DVD認証 "wikilink")
@@ -145,23 +144,23 @@
   - [Cervisia](https://zh.wikipedia.org/wiki/Cervisia "wikilink") -
     [CVS前端](https://zh.wikipedia.org/wiki/CVS "wikilink")
   - [KAppTemplate](https://zh.wikipedia.org/wiki/KAppTemplate "wikilink")
-    - [KDE的模板生成器](../Page/KDE.md "wikilink")
+    - [KDE](../Page/KDE.md "wikilink")的模板生成器
   - [KCachegrind](https://zh.wikipedia.org/wiki/KCachegrind "wikilink")
     - 分析器
   - [KDevelop](../Page/KDevelop.md "wikilink") -
     [集成开发环境](../Page/集成开发环境.md "wikilink")
   - [KDiff3](https://zh.wikipedia.org/wiki/KDiff3 "wikilink") - 差异/补丁 前端
   - [KImageMapEditor](https://zh.wikipedia.org/wiki/KImageMapEditor "wikilink")
-    - [HTML映射图像编辑器](../Page/HTML.md "wikilink")
+    - [HTML](../Page/HTML.md "wikilink")映射图像编辑器
   - [KLinkStatus](https://zh.wikipedia.org/wiki/KLinkStatus "wikilink")
     - 链接检查器
   - [Kommander](https://zh.wikipedia.org/wiki/Kommander "wikilink") -
     动态对话框编辑器
   - [Kompare](../Page/Kompare.md "wikilink") - 差异/补丁 前端
   - [KUIViewer](https://zh.wikipedia.org/wiki/KUIViewer "wikilink") -
-    [Qt设计师的UI文件查看器](../Page/Qt.md "wikilink")
+    [Qt](../Page/Qt.md "wikilink")设计师的UI文件查看器
   - [KXSLDbg](https://zh.wikipedia.org/wiki/KXSLDbg "wikilink") -
-    [XSLT调试程序](../Page/XSLT.md "wikilink")
+    [XSLT](../Page/XSLT.md "wikilink")调试程序
   - [Lokalize](https://zh.wikipedia.org/wiki/Lokalize "wikilink") -
     计算机辅助翻译系统
   - [Umbrello](../Page/Umbrello.md "wikilink") -
@@ -217,7 +216,7 @@
   - [KWrite](../Page/KWrite.md "wikilink") -
     [文本編輯器](https://zh.wikipedia.org/wiki/文本編輯器 "wikilink")
   - [Smb4k](https://zh.wikipedia.org/wiki/Smb4k "wikilink") -
-    查看[Samba共享](../Page/Samba.md "wikilink")
+    查看[Samba](../Page/Samba.md "wikilink")共享
   - [Tellico](https://zh.wikipedia.org/wiki/Tellico "wikilink")
   - [SuperKaramba](https://zh.wikipedia.org/wiki/SuperKaramba "wikilink")
     - 桌面小工具程式
@@ -268,7 +267,7 @@
   - [KControl](https://zh.wikipedia.org/wiki/KControl "wikilink") -
     KDE系統配置集中於此
   - [KlamAV](https://zh.wikipedia.org/wiki/KlamAV "wikilink") -
-    KDE版的[ClamAV殺毒軟件](../Page/ClamAV.md "wikilink")
+    KDE版的[ClamAV](../Page/ClamAV.md "wikilink")殺毒軟件
   - [KWorldClock](https://zh.wikipedia.org/wiki/KWorldClock "wikilink")
     - 顯示地球上任意地區的時間
   - [Kodo](https://zh.wikipedia.org/wiki/Kodo_\(KDE\) "wikilink") -
@@ -283,13 +282,13 @@
   - [KBarcode](https://zh.wikipedia.org/wiki/KBarcode "wikilink") -
     打印條形碼和標簽
   - [KXML Editor](https://zh.wikipedia.org/wiki/KXML_Editor "wikilink")
-    - [XML編輯器](../Page/XML.md "wikilink")
+    - [XML](../Page/XML.md "wikilink")編輯器
   - [KDict](https://zh.wikipedia.org/wiki/KDict "wikilink") -
     使用[DICT協議的詞典軟件](https://zh.wikipedia.org/wiki/DICT "wikilink")
   - [KNetStats](https://zh.wikipedia.org/wiki/KNetStats "wikilink") -
     監測網絡設備
   - [KLogWatch](https://zh.wikipedia.org/wiki/KLogWatch "wikilink") -
-    監測[Netfilter的日誌](../Page/Netfilter.md "wikilink")
+    監測[Netfilter](../Page/Netfilter.md "wikilink")的日誌
   - [Knmap](https://zh.wikipedia.org/wiki/Knmap "wikilink") -
     圖形化的[nmap](https://zh.wikipedia.org/wiki/nmap "wikilink")。
   - [Kedit](https://zh.wikipedia.org/wiki/Kedit "wikilink") -

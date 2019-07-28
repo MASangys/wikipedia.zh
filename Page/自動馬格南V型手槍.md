@@ -1,4 +1,4 @@
-**AMT自動馬格南V型**（；AutoMag，，意為：「自動馬格南」；V，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[5](../Page/5.md "wikilink")）是一款由[美国槍械設計師](../Page/美国.md "wikilink")[哈利·桑福德](https://zh.wikipedia.org/wiki/哈利·桑福德 "wikilink")（）所研製、槍械製造商（，簡稱：AMT）所生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[.50
+**AMT自動馬格南V型**（；AutoMag，，意為：「自動馬格南」；V，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[5](../Page/5.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械設計師[哈利·桑福德](https://zh.wikipedia.org/wiki/哈利·桑福德 "wikilink")（）所研製、槍械製造商（，簡稱：AMT）所生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[.50
 AE](../Page/.50_AE.md "wikilink")（.50 Action
 Express）[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
@@ -6,11 +6,11 @@ Express）[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wiki
 
 自動馬格南V型是由哈利·桑福德所研發，他亦是最初的[.44自動馬格南手槍研發者](../Page/自動麥林手槍.md "wikilink")。它也是一種較少數使用.50[口徑子彈](https://zh.wikipedia.org/wiki/口徑 "wikilink")（尤其是[.50
 AE](../Page/.50_AE.md "wikilink")[子彈](../Page/子彈.md "wikilink")）的半自動手槍。而據說設計一把發射[.50
-AE](../Page/.50_AE.md "wikilink")[子彈的手槍是為了](../Page/子彈.md "wikilink")“成為所有發射.50
+AE](../Page/.50_AE.md "wikilink")[子彈](../Page/子彈.md "wikilink")的手槍是為了“成為所有發射.50
 AE的半自動手槍之中最輕巧和最符合[人體工效程度的一把](../Page/人因工程学.md "wikilink")”\[1\]。
 
-其內置的[槍口補償裝置](../Page/砲口制動器.md "wikilink")（）其實是在[槍管頂部兩旁各開兩個孔](../Page/槍管.md "wikilink")，以利用射擊時所排出的高壓火藥燃氣來抑制槍口方向。儘管如此，對於經驗豐富的射手來說，發射彈藥所產生的巨大[後座力和槍口補償裝置所導致的剌耳](../Page/後座力.md "wikilink")[噪音仍然是令人驚訝](https://zh.wikipedia.org/wiki/噪声 "wikilink")。自動麥格農V型使用5、7
-發可拆卸式[彈匣](../Page/彈匣.md "wikilink")（如果計算[膛室的](../Page/膛室.md "wikilink")1發就總共5、7+1發）作為其供彈方式。和其他AMT生產的自動馬格南手槍一樣，是以所有的先進[材料技術所製造的半自動麥格農手槍](../Page/材料.md "wikilink")，主要是以[不鏽鋼鑄造其零件](../Page/不鏽鋼.md "wikilink")。
+其內置的[槍口補償裝置](../Page/砲口制動器.md "wikilink")（）其實是在[槍管](../Page/槍管.md "wikilink")頂部兩旁各開兩個孔，以利用射擊時所排出的高壓火藥燃氣來抑制槍口方向。儘管如此，對於經驗豐富的射手來說，發射彈藥所產生的巨大[後座力](../Page/後座力.md "wikilink")和槍口補償裝置所導致的剌耳[噪音仍然是令人驚訝](https://zh.wikipedia.org/wiki/噪声 "wikilink")。自動麥格農V型使用5、7
+發可拆卸式[彈匣](../Page/彈匣.md "wikilink")（如果計算[膛室](../Page/膛室.md "wikilink")的1發就總共5、7+1發）作為其供彈方式。和其他AMT生產的自動馬格南手槍一樣，是以所有的先進[材料](../Page/材料.md "wikilink")技術所製造的半自動麥格農手槍，主要是以[不鏽鋼](../Page/不鏽鋼.md "wikilink")鑄造其零件。
 
 自動馬格南V型的生產量應該是3,000把，因為編號為0001-3000至3000-3000。然而，這一個目標卻是從來沒有達到過。MK
 V採用與MK IV相同的[底把](../Page/机匣.md "wikilink")，而MK V的底把可以搭配MK
@@ -21,7 +21,7 @@ IV的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，反之亦
 <File:AutomagV>
 2.jpg|一把AMT自動麥林V型手槍及其原廠製造的5發可拆卸式[彈匣](../Page/彈匣.md "wikilink")
 <File:AutomagV>
-3.jpg|[槍管頂部四個](../Page/槍管.md "wikilink")[馬格那孔和](https://zh.wikipedia.org/wiki/馬格那孔 "wikilink")[套筒前端](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[橢圓形開孔所組成的](../Page/椭圆.md "wikilink")[槍口補償裝置的特寫鏡頭](../Page/砲口制動器.md "wikilink")
+3.jpg|[槍管](../Page/槍管.md "wikilink")頂部四個[馬格那孔和](https://zh.wikipedia.org/wiki/馬格那孔 "wikilink")[套筒前端](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[橢圓形開孔所組成的](../Page/椭圆.md "wikilink")[槍口補償裝置的特寫鏡頭](../Page/砲口制動器.md "wikilink")
 <File:AutomagV>
 4.jpg|[空槍掛機的AMT](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")
 自動麥林V型手槍，露出槍管上的槍口補償裝置

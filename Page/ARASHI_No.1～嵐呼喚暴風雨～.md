@@ -1,5 +1,5 @@
 《**ARASHI
-No.1～嵐呼喚暴風雨～**》（）是[嵐的第](../Page/嵐.md "wikilink")1枚專輯，第1枚原創專輯。於2001年1月24日發行。唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+No.1～嵐呼喚暴風雨～**》（）是[嵐](../Page/嵐.md "wikilink")的第1枚專輯，第1枚原創專輯。於2001年1月24日發行。唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說
 
@@ -17,7 +17,7 @@ No.1～嵐呼喚暴風雨～**》（）是[嵐的第](../Page/嵐.md "wikilink")
     （作詞：J\&T　作曲・編曲：馬飼野康二）
       -
         1st單曲
-        [富士電視台排球節目](../Page/富士電視台.md "wikilink")《FIVB World Cup》印象曲
+        [富士電視台](../Page/富士電視台.md "wikilink")排球節目《FIVB World Cup》印象曲
 3.  **DANGAN-LINER** (4:07)
     （作詞：TAKESHI　作曲：谷本新　編曲：CHOKKAKU）
 4.  **[SUNRISE日本](https://zh.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")**

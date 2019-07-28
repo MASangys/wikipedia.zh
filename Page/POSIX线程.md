@@ -1,4 +1,4 @@
-**POSIX线程**（，常被縮寫為）是[POSIX的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[线程标准](../Page/线程.md "wikilink")，定义了创建和操纵线程的一套[API](https://zh.wikipedia.org/wiki/Application_programming_interface "wikilink")。
+**POSIX线程**（，常被縮寫為）是[POSIX的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[线程](../Page/线程.md "wikilink")标准，定义了创建和操纵线程的一套[API](https://zh.wikipedia.org/wiki/Application_programming_interface "wikilink")。
 
 实现POSIX
 线程标准的库常被称作**Pthreads**，一般用于[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
@@ -109,7 +109,7 @@ API可以和Pthreads协同工作，但这并不是Pthreads的标准。因而这�
   - `pthread_once()`：
     某些需要仅执行一次的函数。其中第一个参数为pthread_once_t类型，是内部实现的互斥锁，保证在程序全局仅执行一次。
 
-[信号量函数](../Page/信号量.md "wikilink")，包含在`semaphore.h`中：
+[信号量](../Page/信号量.md "wikilink")函数，包含在`semaphore.h`中：
 
   - sem_open：创建或者打开已有的命名信号量。可分为二值信号量与计数信号量。命名信号量可以在进程间共享使用。
   - sem_close：关闭一个信号灯，但没有将它从系统中删除。命名信号灯是随内核持续的，即使当前没有进程打开着某个信号灯，它的值仍然保持。

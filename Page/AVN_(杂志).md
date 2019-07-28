@@ -1,7 +1,7 @@
 **成人影帶新聞雜誌**（**A**dult **V**ideo **N**ews
-Magazine，簡稱AVN雜誌），是[美國專門報導](https://zh.wikipedia.org/wiki/美國 "wikilink")[色情片產業的](../Page/色情片.md "wikilink")[商業雜誌](https://zh.wikipedia.org/wiki/商業雜誌 "wikilink")。
+Magazine，簡稱AVN雜誌），是[美國專門報導](https://zh.wikipedia.org/wiki/美國 "wikilink")[色情片](../Page/色情片.md "wikilink")產業的[商業雜誌](https://zh.wikipedia.org/wiki/商業雜誌 "wikilink")。
 
-[紐約時報將AVN之於](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")[色情片的關係比做如](../Page/色情片.md "wikilink")[告示牌雜誌之於唱片的關係](../Page/告示牌_\(雜誌\).md "wikilink")。
+[紐約時報將AVN之於](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")[色情片](../Page/色情片.md "wikilink")的關係比做如[告示牌雜誌之於唱片的關係](../Page/告示牌_\(雜誌\).md "wikilink")。
 
 創立了[成人影片新聞獎以表彰每年的傑出](https://zh.wikipedia.org/wiki/成人影片新聞獎 "wikilink")[色情片](../Page/色情片.md "wikilink")，並冠名贊助了在每年1月於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")[成人娛樂博覽會](https://zh.wikipedia.org/wiki/AVN成人娛樂博覽會 "wikilink")。
 

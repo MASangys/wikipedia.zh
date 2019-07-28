@@ -1,19 +1,19 @@
-**CHUNSOFT**（）是[日本电子](../Page/日本.md "wikilink")[游戏软件制作公司](https://zh.wikipedia.org/wiki/游戏软件 "wikilink")，位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[新宿区](https://zh.wikipedia.org/wiki/新宿区 "wikilink")[新宿](../Page/新宿.md "wikilink")。
+**CHUNSOFT**（）是[日本](../Page/日本.md "wikilink")电子[游戏软件制作公司](https://zh.wikipedia.org/wiki/游戏软件 "wikilink")，位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[新宿区](https://zh.wikipedia.org/wiki/新宿区 "wikilink")[新宿](../Page/新宿.md "wikilink")。
 
 ## 概要
 
-CHUNSOFT由[游戏制作人](https://zh.wikipedia.org/wiki/游戏制作人 "wikilink")[中村光一於](../Page/中村光一.md "wikilink")1984年（即中村光一19岁时）创立。CHUNSOFT的名字来源于中村光一名字的第一个字，“中”字在[日本麻将中读作](https://zh.wikipedia.org/wiki/日本麻将 "wikilink")“”（chun）。
+CHUNSOFT由[游戏制作人](https://zh.wikipedia.org/wiki/游戏制作人 "wikilink")[中村光一](../Page/中村光一.md "wikilink")於1984年（即中村光一19岁时）创立。CHUNSOFT的名字来源于中村光一名字的第一个字，“中”字在[日本麻将中读作](https://zh.wikipedia.org/wiki/日本麻将 "wikilink")“”（chun）。
 
-CHUNSOFT受《[勇者鬥惡龍系列](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")》的创造者[堀井雄二的委托](../Page/堀井雄二.md "wikilink")，到《[勇者鬥惡龍5](https://zh.wikipedia.org/wiki/勇者斗恶龙5 "wikilink")》为止，一直为该系列负责[程序开发的工作](https://zh.wikipedia.org/wiki/程序开发 "wikilink")，发售工作则由[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）担任。之後也创造了《[弟切草](../Page/弟切草.md "wikilink")》等自己的游戏品牌。
+CHUNSOFT受《[勇者鬥惡龍系列](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")》的创造者[堀井雄二](../Page/堀井雄二.md "wikilink")的委托，到《[勇者鬥惡龍5](https://zh.wikipedia.org/wiki/勇者斗恶龙5 "wikilink")》为止，一直为该系列负责[程序开发的工作](https://zh.wikipedia.org/wiki/程序开发 "wikilink")，发售工作则由[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）担任。之後也创造了《[弟切草](../Page/弟切草.md "wikilink")》等自己的游戏品牌。
 
-2006年起，CHUNSOFT与[世嘉合作](../Page/世嘉.md "wikilink")，开始“[SEGA×CHUNSOFT
+2006年起，CHUNSOFT与[世嘉](../Page/世嘉.md "wikilink")合作，开始“[SEGA×CHUNSOFT
 Project](https://zh.wikipedia.org/wiki/SEGA×CHUNSOFT_Project "wikilink")”的软件合作项目。在此项目下，诞生了被《[Fami通](../Page/Fami通.md "wikilink")》评为满分的游戏《[428：被封锁的澁谷](https://zh.wikipedia.org/wiki/428：被封锁的澁谷 "wikilink")》等作品。
 
 2012年4月1日，CHUNSOFT和[Spike合并為](../Page/Spike_\(公司\).md "wikilink")[Spike
-Chunsoft公司](../Page/Spike_Chunsoft.md "wikilink")\[1\]，為日本IT企业[多玩國全額投資的旗下子公司](../Page/多玩國.md "wikilink")。日本官方權版聲明為「©Spike
+Chunsoft公司](../Page/Spike_Chunsoft.md "wikilink")\[1\]，為日本IT企业[多玩國](../Page/多玩國.md "wikilink")全額投資的旗下子公司。日本官方權版聲明為「©Spike
 Chunsoft/Project CANAAN」。
 
-Chunsoft公司社長[中村光一出任Spike](../Page/中村光一.md "wikilink")
+Chunsoft公司社長[中村光一](../Page/中村光一.md "wikilink")出任Spike
 Chunsoft公司執行長，慶祝合併活動，2012年4月1日於TOKYO
 MX買時段重播動畫以及發行BD-BOX紀念版。合併後Spike
 Chunsoft公司於2012年12月7日發佈企劃《槍彈辯駁 希望學園與絕望高中生 The

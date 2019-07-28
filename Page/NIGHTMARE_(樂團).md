@@ -1,7 +1,7 @@
 **NIGHTMARE**
 （），日本[視覺系](../Page/視覺系.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")（Visual
 Rock）。2000年於仙台組成，簡稱メア。
-另一個樂隊[仙台貨物即是ナイトメア組成](../Page/仙台貨物.md "wikilink")，但成員皆不承認。現屬[艾迴音樂旗下藝人](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")。
+另一個樂隊[仙台貨物](../Page/仙台貨物.md "wikilink")即是ナイトメア組成，但成員皆不承認。現屬[艾迴音樂旗下藝人](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")。
 
 ## 成員
 
@@ -41,7 +41,7 @@ Rock）。2000年於仙台組成，簡稱メア。
   - 跳槽唱片公司之後隨即發行單曲「the
     WORLD/アルミナ」，成為**[日本電視系動畫](../Page/日本電視台.md "wikilink")**「**DEATH
     NOTE(死亡筆記本)**」的主題曲，單曲發售前，鼓手RUKA就已經接受「DEATH
-    NOTE(死亡筆記本)」的連載周刊「[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")」（[集英社刊](../Page/集英社.md "wikilink")）的訪談。這首歌首次登場就奪下日本公信榜第五名的好成績，也是Nightmare第一次打進前10名。而後也在富士電視台的音樂節目「[HEY\!HEY\!HEY\!MUSIC
+    NOTE(死亡筆記本)」的連載周刊「[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")」（[集英社](../Page/集英社.md "wikilink")刊）的訪談。這首歌首次登場就奪下日本公信榜第五名的好成績，也是Nightmare第一次打進前10名。而後也在富士電視台的音樂節目「[HEY\!HEY\!HEY\!MUSIC
     CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")」上演出。
   - 隔年發行包含這首單曲的專輯「the WORLD
     Ruler」，在公信榜上一登場就獲得第6名的紀錄，之後的單曲「レゾンデートル」也成為同系列動畫『[CLAYMORE](https://zh.wikipedia.org/wiki/CLAYMORE "wikilink")』的主題曲，在公信榜上一登場就獲得第3名，是Nightmare首次打入前3名。樂團的人氣有持續上升的趨勢。
@@ -574,7 +574,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 <!-- end list -->
 
   -
-    2007年9月23日LIVE@[日本武道館音源收錄](../Page/日本武道館.md "wikilink")
+    2007年9月23日LIVE@[日本武道館](../Page/日本武道館.md "wikilink")音源收錄
 
 <!-- end list -->
 

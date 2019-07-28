@@ -135,7 +135,7 @@ IIc之后](../Page/Apple_IIc.md "wikilink")。
 此外，Apple IIc
 Plus亦没有国际版本，因此其键盘只有美式英文字母，切换开关只能切换[QWERTY或](https://zh.wikipedia.org/wiki/QWERTY "wikilink")[德沃夏克键盘布局](https://zh.wikipedia.org/wiki/德沃夏克键盘 "wikilink")。因此，Apple
 IIc
-Plus只在[美国贩售](../Page/美国.md "wikilink")，即使是[加拿大的经销商亦未被授权贩售Apple](../Page/加拿大.md "wikilink")
+Plus只在[美国](../Page/美国.md "wikilink")贩售，即使是[加拿大](../Page/加拿大.md "wikilink")的经销商亦未被授权贩售Apple
 IIc Plus。
 
 ## 终结

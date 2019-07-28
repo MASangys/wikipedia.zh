@@ -3,7 +3,7 @@
 
 ## 故事背景
 
-[U.C.](../Page/宇宙世紀.md "wikilink")0122年，2年前在火星戰役中毀滅的[火星獨立自護軍再次在](https://zh.wikipedia.org/wiki/火星獨立自護軍 "wikilink")1年前重新整備武裝戰力，以亡靈姿態返回地球圈。[地球聯邦軍收到消息後立即編成反地球聯邦組織掃蕩部隊](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，命令掃討殘黨和在各[宇宙殖民地調查](../Page/宇宙殖民地.md "wikilink")。當中第13反地球連邦組織討伐艦隊從運送中接收到高達F90後執行掃蕩殘黨的任務，從[SIDE
+[U.C.](../Page/宇宙世紀.md "wikilink")0122年，2年前在火星戰役中毀滅的[火星獨立自護軍再次在](https://zh.wikipedia.org/wiki/火星獨立自護軍 "wikilink")1年前重新整備武裝戰力，以亡靈姿態返回地球圈。[地球聯邦軍收到消息後立即編成反地球聯邦組織掃蕩部隊](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，命令掃討殘黨和在各[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")調查。當中第13反地球連邦組織討伐艦隊從運送中接收到高達F90後執行掃蕩殘黨的任務，從[SIDE
 4出發](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")。
 
 ## 作品解說
@@ -14,10 +14,10 @@ F91](../Page/機動戰士GUNDAM_F91.md "wikilink")》之間的故事，把[U.C.]
 V型都同時登場，並作為[機動戰士GUNDAM
 F91的前半段故事色彩的內容配合](../Page/機動戰士GUNDAM_F91.md "wikilink")。
 
-[GUNDAM系列作品中首次以原創遊戲故事作品也即是本作品](../Page/GUNDAM系列作品.md "wikilink")，以機械設定是[大河原邦男負責](../Page/大河原邦男.md "wikilink")，人物設定由[機動戰士GUNDAM0083
+[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")中首次以原創遊戲故事作品也即是本作品，以機械設定是[大河原邦男](../Page/大河原邦男.md "wikilink")負責，人物設定由[機動戰士GUNDAM0083
 STARDUST
 MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")、[機動戰士GUNDAM
-第08MS小隊的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")[川元利浩擔任](../Page/川元利浩.md "wikilink")，背景音樂由[富樫則彦擔當](https://zh.wikipedia.org/wiki/富樫則彦 "wikilink")。
+第08MS小隊的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")[川元利浩](../Page/川元利浩.md "wikilink")擔任，背景音樂由[富樫則彦擔當](https://zh.wikipedia.org/wiki/富樫則彦 "wikilink")。
 
 同時，遊戲的發售期間在講談社的「高達雜誌」連載。
 
@@ -42,7 +42,7 @@ D型的2種選擇，但去到ACT.06會追加高達F90 V型，ACT.09追加選擇�
 
   - 玩家機體漂流
 
-玩家機體在戰鬥中移動會消費橙色的燃料，燃料到達0時就代表行動不能成為漂流，當返回戰艦燃料與血量都會修復同補給燃料和補充彈藥。在ACT.03中在[宇宙殖民地內部戰鬥](../Page/宇宙殖民地.md "wikilink")，但內部被敵軍打破一個洞，當燃料到達0時會被吸走也會當漂流處理。
+玩家機體在戰鬥中移動會消費橙色的燃料，燃料到達0時就代表行動不能成為漂流，當返回戰艦燃料與血量都會修復同補給燃料和補充彈藥。在ACT.03中在[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")內部戰鬥，但內部被敵軍打破一個洞，當燃料到達0時會被吸走也會當漂流處理。
 
   - 同伴機體全滅
 
@@ -130,7 +130,7 @@ H型，2006年收錄在高達雜誌名作集中，另一本漫畫版作者[井�
 F90和](../Page/機動戰士GUNDAM_F90.md "wikilink")[機動戰士GUNDAM
 F91同當初開發是](../Page/機動戰士GUNDAM_F91.md "wikilink")「formula（フォーミュラ）」還是「formula—（フォーミュラー）」有一定曖昧的問題。
 
-本遊戲廣告旁白是由[機動戰士GUNDAM中角色](../Page/機動戰士GUNDAM.md "wikilink")[夏亞·阿茲納布爾的聲優](../Page/夏亞·阿茲納布爾.md "wikilink")[池田秀一擔任](../Page/池田秀一.md "wikilink")。
+本遊戲廣告旁白是由[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")中角色[夏亞·阿茲納布爾](../Page/夏亞·阿茲納布爾.md "wikilink")的聲優[池田秀一](../Page/池田秀一.md "wikilink")擔任。
 
 ## 相關作品
 

@@ -1,6 +1,6 @@
 **Gewald反应**（Gewald reaction）
 
-[醛或](../Page/醛.md "wikilink")[酮与α](../Page/酮.md "wikilink")-[氰基](https://zh.wikipedia.org/wiki/氰基 "wikilink")[酯在](../Page/酯.md "wikilink")[硫磺和](https://zh.wikipedia.org/wiki/硫磺 "wikilink")[碱存在下](../Page/碱.md "wikilink")[缩合](https://zh.wikipedia.org/wiki/缩合 "wikilink")，生成多取代的2-[氨基](https://zh.wikipedia.org/wiki/氨基 "wikilink")[噻吩](../Page/噻吩.md "wikilink")。\[1\]\[2\]
+[醛](../Page/醛.md "wikilink")或[酮](../Page/酮.md "wikilink")与α-[氰基](https://zh.wikipedia.org/wiki/氰基 "wikilink")[酯](../Page/酯.md "wikilink")在[硫磺和](https://zh.wikipedia.org/wiki/硫磺 "wikilink")[碱](../Page/碱.md "wikilink")存在下[缩合](https://zh.wikipedia.org/wiki/缩合 "wikilink")，生成多取代的2-[氨基](https://zh.wikipedia.org/wiki/氨基 "wikilink")[噻吩](../Page/噻吩.md "wikilink")。\[1\]\[2\]
 
 
 [Gewald_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Gewald_Reaction_Scheme.png "fig:Gewald_Reaction_Scheme.png")
@@ -19,7 +19,7 @@
 
 ## 变体
 
-从[1,4-二噻烷](https://zh.wikipedia.org/wiki/1,4-二噻烷 "wikilink")（硫与[丙酮的加成物](../Page/丙酮.md "wikilink")）与不稳定的[氰丙酮钠盐合成](https://zh.wikipedia.org/wiki/氰丙酮 "wikilink")3-乙酰基-2-氨基-4-甲基噻吩：\[5\]
+从[1,4-二噻烷](https://zh.wikipedia.org/wiki/1,4-二噻烷 "wikilink")（硫与[丙酮](../Page/丙酮.md "wikilink")的加成物）与不稳定的[氰丙酮钠盐合成](https://zh.wikipedia.org/wiki/氰丙酮 "wikilink")3-乙酰基-2-氨基-4-甲基噻吩：\[5\]
 
 
 [Gewald_Type_Reaction_V.1.svg](https://zh.wikipedia.org/wiki/File:Gewald_Type_Reaction_V.1.svg "fig:Gewald_Type_Reaction_V.1.svg")

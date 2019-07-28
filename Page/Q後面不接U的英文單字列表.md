@@ -1,6 +1,6 @@
 [QWERTY_keyboard.jpg](https://zh.wikipedia.org/wiki/File:QWERTY_keyboard.jpg "fig:QWERTY_keyboard.jpg")是少數幾個土生土長的當代英文字中，**q**的後面沒有接上**u**的單字，來自標準[鍵盤配置中的頭六個字母](https://zh.wikipedia.org/wiki/鍵盤配置 "wikilink")。\]\]
 
-在[英語中](https://zh.wikipedia.org/wiki/英語 "wikilink")，字母**[Q](../Page/Q.md "wikilink")**的後面經常會接上字母**[U](https://zh.wikipedia.org/wiki/U "wikilink")**，但仍有些单词例外。这个列表中的71個單字中有67個是名詞，大多數被認為是外來語\[1\]，比如[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")、[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[希伯來語](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")、[因纽特语](https://zh.wikipedia.org/wiki/因纽特语 "wikilink")、[烏爾都語等不使用](https://zh.wikipedia.org/wiki/烏爾都語 "wikilink")[英文字母的語言](../Page/英文字母.md "wikilink")。屬於非外來語的現代英文單字只有**qiana**、**qwerty**和**tranq**。
+在[英語中](https://zh.wikipedia.org/wiki/英語 "wikilink")，字母**[Q](../Page/Q.md "wikilink")**的後面經常會接上字母**[U](https://zh.wikipedia.org/wiki/U "wikilink")**，但仍有些单词例外。这个列表中的71個單字中有67個是名詞，大多數被認為是外來語\[1\]，比如[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")、[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[希伯來語](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")、[因纽特语](https://zh.wikipedia.org/wiki/因纽特语 "wikilink")、[烏爾都語等不使用](https://zh.wikipedia.org/wiki/烏爾都語 "wikilink")[英文字母](../Page/英文字母.md "wikilink")的語言。屬於非外來語的現代英文單字只有**qiana**、**qwerty**和**tranq**。
 
 在外来语罗马化的过程中，有时使用Q來表示一些英語中沒有的發音，从而导致Q后面不接U的单词。比如，[漢語拼音用Q來表記](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")的發音，其英語的相近發音為。標準[阿拉伯語中](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")，Q代表（[清小舌塞音](../Page/清小舌塞音.md "wikilink")），比如qat（[巧茶](../Page/巧茶.md "wikilink")）、faqir（伊斯蘭教苦行僧），但拼写时也有时会使用k來取代q。同时，在傳統[羅馬化的阿拉伯語中](https://zh.wikipedia.org/wiki/羅馬化#阿拉伯語 "wikilink")，字母[ق羅馬化為Q](https://zh.wikipedia.org/wiki/ق "wikilink")，而字母[ك羅馬化為K](https://zh.wikipedia.org/wiki/ك "wikilink")。例如，قلب
 /qalb/的意思是「心」，而 كلب
@@ -10,7 +10,7 @@
 
 [MoroccoMarrakech_souq.jpg](https://zh.wikipedia.org/wiki/File:MoroccoMarrakech_souq.jpg "fig:MoroccoMarrakech_souq.jpg")[馬拉喀什的一個](https://zh.wikipedia.org/wiki/馬拉喀什 "wikilink")（Souq）是[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")，而列表中71個q後面不接u的英文單字中，就有32個是來自阿拉伯語。\]\]
 
-本列表**不收錄專有名詞**，其中的地名大多數來自於北非、中東和中國。其中最為人所知的是[伊拉克](../Page/伊拉克.md "wikilink")（Iraq）與[卡塔尔](../Page/卡塔尔.md "wikilink")（Qatar），及其衍生字如Iraqi、Qatari等。北美洲也有[加拿大](../Page/加拿大.md "wikilink")[努纳武特地区首府](../Page/努納武特地區.md "wikilink")[伊魁特](../Page/伊魁特.md "wikilink")（Iqaluit），而[格陵蘭的](https://zh.wikipedia.org/wiki/格陵蘭 "wikilink")[卡科爾托克](https://zh.wikipedia.org/wiki/卡科尔托克 "wikilink")（Qaqortoq）又以三個不接上u的q而聞名。\[2\]也有其他机构的名字或者常用缩写中Q不接U，比如Compaq（[康柏電腦](../Page/康柏.md "wikilink")）\[3\]、Nasdaq（[那斯達克](../Page/纳斯达克.md "wikilink")）\[4\]以及QANTAS（[澳洲航空](../Page/澳洲航空.md "wikilink")）\[5\]。还有一些專有名詞如Zaqqum（攢楛樹，古蘭經中提到的一棵樹）\[6\]以及Saqqara（[薩卡拉](https://zh.wikipedia.org/wiki/薩卡拉 "wikilink")，古埃及巨型墓地）\[7\]使用了連續的兩個Q。
+本列表**不收錄專有名詞**，其中的地名大多數來自於北非、中東和中國。其中最為人所知的是[伊拉克](../Page/伊拉克.md "wikilink")（Iraq）與[卡塔尔](../Page/卡塔尔.md "wikilink")（Qatar），及其衍生字如Iraqi、Qatari等。北美洲也有[加拿大](../Page/加拿大.md "wikilink")[努纳武特地区首府](../Page/努納武特地區.md "wikilink")[伊魁特](../Page/伊魁特.md "wikilink")（Iqaluit），而[格陵蘭的](https://zh.wikipedia.org/wiki/格陵蘭 "wikilink")[卡科爾托克](https://zh.wikipedia.org/wiki/卡科尔托克 "wikilink")（Qaqortoq）又以三個不接上u的q而聞名。\[2\]也有其他机构的名字或者常用缩写中Q不接U，比如Compaq（[康柏](../Page/康柏.md "wikilink")電腦）\[3\]、Nasdaq（[那斯達克](../Page/纳斯达克.md "wikilink")）\[4\]以及QANTAS（[澳洲航空](../Page/澳洲航空.md "wikilink")）\[5\]。还有一些專有名詞如Zaqqum（攢楛樹，古蘭經中提到的一棵樹）\[6\]以及Saqqara（[薩卡拉](https://zh.wikipedia.org/wiki/薩卡拉 "wikilink")，古埃及巨型墓地）\[7\]使用了連續的兩個Q。
 
 ## 單字
 
@@ -49,7 +49,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>burqa</strong></p></td>
-<td><p><a href="../Page/波卡_(服飾).md" title="wikilink">波卡 (服飾)</a>、或稱罩袍，<a href="../Page/穆斯林.md" title="wikilink">穆斯林婦女所著</a>，罩住全身的服飾。</p></td>
+<td><p><a href="../Page/波卡_(服飾).md" title="wikilink">波卡 (服飾)</a>、或稱罩袍，<a href="../Page/穆斯林.md" title="wikilink">穆斯林</a>婦女所著，罩住全身的服飾。</p></td>
 <td><p><small>[ODE][LC][C][AHC][OED]</small></p></td>
 <td><p>又作<strong>burka</strong>、<strong>burkha</strong>、或<strong>burqua</strong>。</p></td>
 <td><p>來自於<a href="https://zh.wikipedia.org/wiki/烏爾都語" title="wikilink">烏爾都語和</a><a href="https://zh.wikipedia.org/wiki/波斯語" title="wikilink">波斯語的burqa</a>，其又源自於<a href="https://zh.wikipedia.org/wiki/阿拉伯語" title="wikilink">阿拉伯語的burqu</a>`。</p></td>
@@ -79,12 +79,12 @@
 </table>
 
 </includeonly></onlyinclude> |-valign="top" |**faqih**
-|[法基赫](../Page/法基赫.md "wikilink")，[穆斯林的法學家](../Page/穆斯林.md "wikilink")。
+|[法基赫](../Page/法基赫.md "wikilink")，[穆斯林](../Page/穆斯林.md "wikilink")的法學家。
 |<small>\[RHW\]</small> |複數形**faqihs**或**fuqaha**
 <small>\[RHU\]</small>。
 |[阿拉伯語的](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")
 فقيه。 |-valign="top" |**faqir**
-|[法吉爾](https://zh.wikipedia.org/wiki/法吉爾 "wikilink")，[穆斯林的苦行僧](../Page/穆斯林.md "wikilink")。
+|[法吉爾](https://zh.wikipedia.org/wiki/法吉爾 "wikilink")，[穆斯林](../Page/穆斯林.md "wikilink")的苦行僧。
 |<small>\[L\]</small> |更常寫作**fakir**。
 |[阿拉伯語的](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")
 فقير，指「貧困的」。 |-valign="top" |**fiqh**
@@ -92,7 +92,7 @@
 |<small>\[ODE\]</small> |
 |[阿拉伯語的](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")
 فقه，指「理解」。 |-valign="top" |**inqilab**
-|[印度或](../Page/印度.md "wikilink")[巴基斯坦的革命](../Page/巴基斯坦.md "wikilink")。
+|[印度](../Page/印度.md "wikilink")或[巴基斯坦](../Page/巴基斯坦.md "wikilink")的革命。
 |<small>\[C\]</small> |
 |[阿拉伯語的](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")
 إنقلاب 。 |-valign="top" |**mbaqanga**
@@ -114,7 +114,7 @@
 <small>\[OED\]</small>。
 |[波斯語的](https://zh.wikipedia.org/wiki/波斯語 "wikilink")
 نستعليق，來自naskh + ta\`liq。 |-valign="top" |**niqab**
-|一些[穆斯林婦女所著](../Page/穆斯林.md "wikilink")，遮住臉的下半部之面罩。
+|一些[穆斯林](../Page/穆斯林.md "wikilink")婦女所著，遮住臉的下半部之面罩。
 |<small>\[ODE\]</small> |又作**niqaab**。
 |[阿拉伯語的](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink") نِقاب。
 |-valign="top" |**pontacq**
@@ -138,7 +138,7 @@
 |[卡迪什](https://zh.wikipedia.org/wiki/卡迪什 "wikilink")，猶太教中的祝禱文。
 |<small>\[C\]</small> |更常寫作**Kaddish**。
 |[希伯來語的](https://zh.wikipedia.org/wiki/希伯來語 "wikilink") קדיש。
-|-valign="top" |**qadi** |[穆斯林的審判官](../Page/穆斯林.md "wikilink")。
+|-valign="top" |**qadi** |[穆斯林](../Page/穆斯林.md "wikilink")的審判官。
 |<small>\[L\]\[C\]\[W\]\[OED\]\[AOX\]</small> |又作**qadhi**
 <small>\[OED\]</small>、**qaadi**、**kadi**、**kazi**、**qaadee**、或**qazi**
 <small>\[OED\]</small>。
@@ -160,10 +160,9 @@
 |又作**kaymakam**、**kaimakam**、**caimacam**、或**qaim makam**。
 |來自[阿拉伯語的](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink") قائم，「站立」+
 مقام，「位置」，意指「站在原地」。 |-valign="top" |**qalamdan**
-|[波斯的文具盒](../Page/波斯.md "wikilink")。
-|<small>\[C\]</small> |
-|[波斯語的](https://zh.wikipedia.org/wiki/波斯語 "wikilink")
-قلمدان。 |-valign="top" |**qalandar**
+|[波斯](../Page/波斯.md "wikilink")的文具盒。 |<small>\[C\]</small> |
+|[波斯語的](https://zh.wikipedia.org/wiki/波斯語 "wikilink") قلمدان。
+|-valign="top" |**qalandar**
 |[德爾維希托缽僧修道會的成員](https://zh.wikipedia.org/wiki/德爾維希 "wikilink")。
 |<small>\[RHU\]</small> |又作**calender**，或首字母大寫。 | |-valign="top"
 |**qanat**
@@ -192,9 +191,9 @@
 |<small>\[AH\]</small> |
 |[亞塞拜然語的qəpik](https://zh.wikipedia.org/wiki/亞塞拜然語 "wikilink")。
 |-valign="top" |**qere**
-|[希伯來聖經中寫在本文旁空白處的註釋](../Page/希伯來聖經.md "wikilink")。
+|[希伯來聖經](../Page/希伯來聖經.md "wikilink")中寫在本文旁空白處的註釋。
 |<small>\[OED\]\[WI\]</small> |又作**qeri** <small>\[WI\]</small>或**qre**
-<small>\[WI\]</small>。 |[亞拉姆語的](../Page/亞拉姆語.md "wikilink") קְרֵי，指「閱讀」。
+<small>\[WI\]</small>。 |[亞拉姆語](../Page/亞拉姆語.md "wikilink")的 קְרֵי，指「閱讀」。
 |-valign="top" |**qhat** |what的古字。 |<small>\[OED\]</small> | |
 |-valign="top" |**qheche** |which的古字。 |<small>\[OED\]</small> | |
 |-valign="top" |**qhom** |whom的古字。 |<small>\[OED\]</small> | |
@@ -206,9 +205,9 @@
 |[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")「氣」。
 |-valign="top" |**qiana**
 |一種[尼龍](https://zh.wikipedia.org/wiki/尼龍 "wikilink")。
-|<small>\[OED\]</small> | |原屬[杜邦公司的商標](../Page/杜邦.md "wikilink")，現為通用名詞。
+|<small>\[OED\]</small> | |原屬[杜邦](../Page/杜邦.md "wikilink")公司的商標，現為通用名詞。
 |-valign="top" |**qibla**
-|[朝向](https://zh.wikipedia.org/wiki/朝向 "wikilink")，[穆斯林的禮拜方向](../Page/穆斯林.md "wikilink")。
+|[朝向](https://zh.wikipedia.org/wiki/朝向 "wikilink")，[穆斯林](../Page/穆斯林.md "wikilink")的禮拜方向。
 |<small>\[ODE\]\[COD\]\[C\]\[OED\]\[AOX\]</small> |又作**qiblah**
 <small>\[OED\]</small>、**kiblah**、**qiblih**、**kibla**或**qib'lah**
 <small>\[RHU\]</small>，有時候首字母大寫。
@@ -246,7 +245,7 @@ kung**。 |[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")「氣功
 |[沙烏地阿拉伯的貨幣單位名](https://zh.wikipedia.org/wiki/沙烏地阿拉伯 "wikilink")，曾經使用於其他許多國家。
 |<small>\[RHU\]</small>
 |又作**qurush**、**qursh**、**gursh**、**girsh**、**ghirsh**。 |
-|-valign="top" |**qiviut** |[麝牛毛的毛線](../Page/麝牛.md "wikilink")。
+|-valign="top" |**qiviut** |[麝牛](../Page/麝牛.md "wikilink")毛的毛線。
 |<small>\[OED\]</small> |
 |[因努伊特語的ᕿᕕᐅᖅ](https://zh.wikipedia.org/wiki/因努伊特語 "wikilink")。
 |-valign="top" |**qiyas**
@@ -269,10 +268,10 @@ kung**。 |[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")「氣功
 |<small>\[OED\]</small> |
 |[阿拉伯語的سنبوك](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")。
 |-valign="top" |**sheqel**
-|[謝克爾](https://zh.wikipedia.org/wiki/謝克爾 "wikilink")，原為[美索不達米亞文明的重量單位](https://zh.wikipedia.org/wiki/美索不達米亞 "wikilink")。現為[以色列的貨幣](../Page/以色列.md "wikilink")，一[新謝克爾等於一百](https://zh.wikipedia.org/wiki/新謝克爾 "wikilink")[阿高洛](https://zh.wikipedia.org/wiki/阿高洛 "wikilink")（agorot）。
+|[謝克爾](https://zh.wikipedia.org/wiki/謝克爾 "wikilink")，原為[美索不達米亞文明的重量單位](https://zh.wikipedia.org/wiki/美索不達米亞 "wikilink")。現為[以色列](../Page/以色列.md "wikilink")的貨幣，一[新謝克爾等於一百](https://zh.wikipedia.org/wiki/新謝克爾 "wikilink")[阿高洛](https://zh.wikipedia.org/wiki/阿高洛 "wikilink")（agorot）。
 |<small>\[MW\]</small> |複數形**sheqels**或**sheqalim**。更常寫作**shekel**。
 |[希伯來語的](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")
-שקל，[意第緒語的](../Page/意第緒語.md "wikilink") ניי-שקל。
+שקל，[意第緒語](../Page/意第緒語.md "wikilink")的 ניי-שקל。
 |-valign="top" |**souq** |阿拉伯露天市場。
 |<small>\[ODE\]\[C\]\[OED\]\[AOX\]</small>
 |又作**soq**、**souk**、**esouk**、**suk**、**sooq**、**souq**或**suq**。
@@ -322,7 +321,7 @@ kung**。 |[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")「氣功
 |-valign="top" |**yaqona**
 |[卡瓦酒](https://zh.wikipedia.org/wiki/卡瓦酒 "wikilink")（kava），一種[斐濟的非酒精但會使人醉的飲料](https://zh.wikipedia.org/wiki/斐濟 "wikilink")。
 |<small>\[C\]\[OED\]</small> |
-|[斐濟語的yaqona](../Page/斐濟語.md "wikilink")，其中q發\[ŋg\]的音。
+|[斐濟語](../Page/斐濟語.md "wikilink")的yaqona，其中q發\[ŋg\]的音。
 |}
 
 ### 书目
@@ -342,7 +341,7 @@ kung**。 |[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")「氣功
   - \[ODE\]：[牛津英語詞典](../Page/牛津英語詞典.md "wikilink")（）第二版，2003年（ISBN
     0-19-861347-4）
   - \[OED\]：牛津英語詞典（），2003年
-  - \[OSPD4\]：[Scrabble玩家公式詞典](../Page/Scrabble.md "wikilink")（），2005年（ISBN
+  - \[OSPD4\]：[Scrabble](../Page/Scrabble.md "wikilink")玩家公式詞典（），2005年（ISBN
     0-87779-929-6）
   - \[RHU\]：[蘭登書屋完整版詞典](https://zh.wikipedia.org/wiki/蘭登書屋 "wikilink")（），1997年
   - \[RHW\]：蘭登韋氏完整版詞典（），2005年（ISBN 0-375-42599-3）
@@ -352,7 +351,7 @@ kung**。 |[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")「氣功
 
 ## 使用狀況
 
-在[Scrabble等文字遊戲中](../Page/Scrabble.md "wikilink")，玩家必須用某一組固定的字母來拼出既有的單字。因此在玩家必須使用Q，但手上沒有U的時候，拼出本列表中的單字是很有幫助的。根據，[北美洲Scrabble中被認可的單字只有qi](../Page/北美洲.md "wikilink")、qat、qaid、qadi、qoph、qanat、tranq、faqir、sheqel、qabala、qabalah、qindar、qintar、qindarka、mbaqanga、qwerty以及它們的複數形式如qats、sheqalim等。列表中的其他單字suq、qiviut等也是被認可的，但因為當中也含有個U，所以並不顯得那麼有用。\[8\]
+在[Scrabble](../Page/Scrabble.md "wikilink")等文字遊戲中，玩家必須用某一組固定的字母來拼出既有的單字。因此在玩家必須使用Q，但手上沒有U的時候，拼出本列表中的單字是很有幫助的。根據，[北美洲](../Page/北美洲.md "wikilink")Scrabble中被認可的單字只有qi、qat、qaid、qadi、qoph、qanat、tranq、faqir、sheqel、qabala、qabalah、qindar、qintar、qindarka、mbaqanga、qwerty以及它們的複數形式如qats、sheqalim等。列表中的其他單字suq、qiviut等也是被認可的，但因為當中也含有個U，所以並不顯得那麼有用。\[8\]
 
 ## 參考文獻
 

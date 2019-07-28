@@ -35,12 +35,12 @@ Being），200年前（22世紀初）由科學家——伊歐利亞·修罕貝�
 表面上的建造理由是為了建造地球環境中無法製造的特殊材料，而建造者是天人的一名華裔探員。
 
 <span style="font-size:smaller;">英文原名「Krung
-Thep」，是[泰國城市](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷的全名開頭兩字](../Page/曼谷.md "wikilink")，意為「天使之城」。</span>
+Thep」，是[泰國城市](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")的全名開頭兩字，意為「天使之城」。</span>
 
 ## 太陽能與自由國家聯合
 
 太陽能與自由國家聯合（Union of Solar Energy and Free
-Nations，又稱「世界經濟聯合」，簡稱「聯合」、「Union」），以[美國為主導的](https://zh.wikipedia.org/wiki/美國 "wikilink")[自由民主國家群](../Page/民主.md "wikilink")，參加國單[南美洲及](../Page/南美洲.md "wikilink")[大洋洲為中心就超過](../Page/大洋洲.md "wikilink")50個，[日本也作為經濟特區加入其中](../Page/日本.md "wikilink")。
+Nations，又稱「世界經濟聯合」，簡稱「聯合」、「Union」），以[美國為主導的](https://zh.wikipedia.org/wiki/美國 "wikilink")[自由民主國家群](../Page/民主.md "wikilink")，參加國單[南美洲](../Page/南美洲.md "wikilink")及[大洋洲](../Page/大洋洲.md "wikilink")為中心就超過50個，[日本](../Page/日本.md "wikilink")也作為經濟特區加入其中。
 
 經濟、軍事力量凌駕於人革聯、AEU，因此軌道電梯也最早完成，領導Union的美國甚至以「世界警察」自居並介入其他國家的紛爭。
 
@@ -66,7 +66,7 @@ Japan），在Union下發展的[經濟特區](https://zh.wikipedia.org/wiki/經�
 ### 塔利比亞共和國
 
 塔利比亞共和國（The Republic of
-Taribia），位於[南美洲北部且隸屬於Union的國家](../Page/南美洲.md "wikilink")（現實中的位置接近於[委內瑞拉](../Page/委內瑞拉.md "wikilink")），Union的天梯在其附近，國內反美情緒強烈。
+Taribia），位於[南美洲](../Page/南美洲.md "wikilink")北部且隸屬於Union的國家（現實中的位置接近於[委內瑞拉](../Page/委內瑞拉.md "wikilink")），Union的天梯在其附近，國內反美情緒強烈。
 
 主力MS為Union的「維度式」。
 
@@ -109,7 +109,7 @@ Company），位於聯合的[美國](https://zh.wikipedia.org/wiki/美國 "wikil
 ## 人類革新聯盟
 
 人類革新聯盟（Human Reform
-League，簡稱「人革聯」），西元2297年創立，是以亞洲的國家群為中心組成的組織，國內實行[全民皆兵制度](https://zh.wikipedia.org/wiki/國民經濟軍事化 "wikilink")。國家包括有[中國](../Page/中國.md "wikilink")、[俄羅斯等舊](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[共產國家](https://zh.wikipedia.org/wiki/共產 "wikilink")、[孟加拉](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")、[印度](../Page/印度.md "wikilink")、[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")、[不丹](../Page/不丹.md "wikilink")、部分[中亞國家](https://zh.wikipedia.org/wiki/中亞 "wikilink")（除了[阿富汗和](../Page/阿富汗.md "wikilink")[巴基斯坦](../Page/巴基斯坦.md "wikilink")）、[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")、[東南亞國協成員國](https://zh.wikipedia.org/wiki/東南亞國協 "wikilink")、[東帝汶](https://zh.wikipedia.org/wiki/東帝汶 "wikilink")、[巴布亞新幾內亞](https://zh.wikipedia.org/wiki/巴布亞新幾內亞 "wikilink")、[朝鮮半島](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")、[台澎金马等地區](https://zh.wikipedia.org/wiki/台澎金马 "wikilink")。\[2\]
+League，簡稱「人革聯」），西元2297年創立，是以亞洲的國家群為中心組成的組織，國內實行[全民皆兵制度](https://zh.wikipedia.org/wiki/國民經濟軍事化 "wikilink")。國家包括有[中國](../Page/中國.md "wikilink")、[俄羅斯等舊](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[共產國家](https://zh.wikipedia.org/wiki/共產 "wikilink")、[孟加拉](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")、[印度](../Page/印度.md "wikilink")、[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")、[不丹](../Page/不丹.md "wikilink")、部分[中亞國家](https://zh.wikipedia.org/wiki/中亞 "wikilink")（除了[阿富汗](../Page/阿富汗.md "wikilink")和[巴基斯坦](../Page/巴基斯坦.md "wikilink")）、[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")、[東南亞國協成員國](https://zh.wikipedia.org/wiki/東南亞國協 "wikilink")、[東帝汶](https://zh.wikipedia.org/wiki/東帝汶 "wikilink")、[巴布亞新幾內亞](https://zh.wikipedia.org/wiki/巴布亞新幾內亞 "wikilink")、[朝鮮半島](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")、[台澎金马等地區](https://zh.wikipedia.org/wiki/台澎金马 "wikilink")。\[2\]
 
 組織是以建設軌道電梯為目的而組成，軌道電梯完成的時間較Union略晚，但太陽能也在十年前開始供應地面需求（第一季第一話於靜止軌道的慶祝會即為慶祝天梯正式發電十週年）。
 
@@ -146,7 +146,7 @@ Union，簡稱「AEU」），是以[歐盟為母體](https://zh.wikipedia.org/wi
 
 與[中央集權的Union總統](https://zh.wikipedia.org/wiki/中央集權 "wikilink")、人革聯[國家主席相比](https://zh.wikipedia.org/wiki/國家主席 "wikilink")，AEU是採用五大國（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")）聯合，發言權等同的議會制度。
 
-AEU的軌道電梯建立在[非洲的](../Page/非洲.md "wikilink")[維多利亞湖西方](../Page/維多利亞湖.md "wikilink")，但是尚未完工，因此在政治、經濟等影響力皆劣於Union及人革聯。
+AEU的軌道電梯建立在[非洲](../Page/非洲.md "wikilink")的[維多利亞湖](../Page/維多利亞湖.md "wikilink")西方，但是尚未完工，因此在政治、經濟等影響力皆劣於Union及人革聯。
 
 由於AEU的軍事力量劣於Union與人革聯，因此積極發展軍備以稱霸全世界；AEU當局甚至不惜違反國際條約，在軌道電梯附近駐守超過條約規定的軍力，並且使用「亞格利莎」這一類具有高度毀滅性的違反條約兵器。
 
@@ -179,15 +179,15 @@ Nations），20世紀成立的組織聯合國目前依然存在，但已經無�
 [地球聯邦](../Page/地球聯邦.md "wikilink")（Earth Sphere
 Federation），於動畫第二季開始前所成立的新組織，為聯合、人革聯與AEU三個敵對陣營因天上人的武力介入所統合之單一國際性組織，全世界除了中東幾個國家外皆已加入地球聯邦。
 
-但獨立維持治安部隊A-Laws成立後，地球聯邦軍被真空化，而其軍階與A-Laws的軍階是截然不同的，在地球聯邦軍的斯米诺夫上校被A-Laws的艾伯·林特少校[掌摑可以反映地球聯邦軍不受重視](../Page/掌摑.md "wikilink")。
+但獨立維持治安部隊A-Laws成立後，地球聯邦軍被真空化，而其軍階與A-Laws的軍階是截然不同的，在地球聯邦軍的斯米诺夫上校被A-Laws的艾伯·林特少校[掌摑](../Page/掌摑.md "wikilink")可以反映地球聯邦軍不受重視。
 
 其後地球聯邦軍部分軍人曾經策劃政變，但可惜失敗（可參考動畫16—17集），其後地球聯邦大總統宣佈將地球聯邦軍的控制權全交給A-Laws（可參考動畫18集）。在動畫22集，前A-Laws的卡蒂·馬涅欽上校穿著地球聯邦軍的軍服指揮政變派起義，利用天上人對抗A-Laws和變革者。
 
 在獨立維持治安部隊A-Laws被收回軍權後，地球聯邦軍重新建立，停止以高壓政策打擊反聯邦勢力，並以融和政策作為管治方針。
 
-在其後對ELS之戰時，地球聯邦軍投入所有可以調動的軍力在宇宙設置【絕對防衛線】阻止ELS入侵，【絕對防衛線】指揮官是地球聯邦軍是卡蒂·馬涅欽准將。並且和天上人共同合作保衞[地球與](../Page/地球.md "wikilink")[人類的宇宙最終戰爭](../Page/人類.md "wikilink")，對抗企圖霸佔地球與毀滅人類的未知物體－[ELS](https://zh.wikipedia.org/wiki/ELS "wikilink")（Extraterrestrial
+在其後對ELS之戰時，地球聯邦軍投入所有可以調動的軍力在宇宙設置【絕對防衛線】阻止ELS入侵，【絕對防衛線】指揮官是地球聯邦軍是卡蒂·馬涅欽准將。並且和天上人共同合作保衞[地球](../Page/地球.md "wikilink")與[人類](../Page/人類.md "wikilink")的宇宙最終戰爭，對抗企圖霸佔地球與毀滅人類的未知物體－[ELS](https://zh.wikipedia.org/wiki/ELS "wikilink")（Extraterrestrial
 Livingmetal
-Shapeshifter）。但由於地球聯邦軍數目上不及ELS，其後在抗戰末期，【絕對防衛線】面臨崩潰之際（地球聯邦軍已損失大約75％的戰力），天上人鋼彈尖兵剎那·F·塞耶成功與ELS進行對話，ELS停止入侵，並且ELS變成一朵[花狀物體](../Page/花.md "wikilink")，ELS戰爭結束，地球的危機解除。
+Shapeshifter）。但由於地球聯邦軍數目上不及ELS，其後在抗戰末期，【絕對防衛線】面臨崩潰之際（地球聯邦軍已損失大約75％的戰力），天上人鋼彈尖兵剎那·F·塞耶成功與ELS進行對話，ELS停止入侵，並且ELS變成一朵[花](../Page/花.md "wikilink")狀物體，ELS戰爭結束，地球的危機解除。
 
 在2364年，在地球聯邦政府的領導下，全世界的變革者已經佔了全世界人口的40％（可參考劇場版），另外三條軌道電梯己不存在，在片段中顯示了由一條主軸線由地球連接月球再由月球連接前ELS主星，似乎是地球聯邦新的技術。並且同時派遣外宇宙探查艦「皇號」出外宇宙探索，艦長是克勞斯·葛拉德。地球聯邦軍當時似乎成功掌握了量產原裝太陽爐的技術，並在宇宙探查用MS前兆式開始使用。
 
@@ -209,7 +209,7 @@ Squadron）是地球聯邦軍的特務部隊，隊長為Union的葛拉漢·耶�
 
 表面上其活動是為了世界和平並統一世界，實際上是以高壓政策打擊反聯邦勢力，其行為也附上了一些不好的傳聞（例如在製造衛星武器「死兆砲」，並且向中東和非洲塔的低軌道太空站發炮，以致無辜平民死亡，從而鞏固A-Laws的地位。也有傳指A-Laws使用自動機械人對反聯邦勢力進行毀滅行動。）
 
-地球聯邦軍的軍階與A-Laws的軍階是截然不同的，在地球聯邦軍的斯米诺夫上校被A-Laws的林特少校[掌摑可以反映地球聯邦軍不受重視](../Page/掌摑.md "wikilink")。
+地球聯邦軍的軍階與A-Laws的軍階是截然不同的，在地球聯邦軍的斯米诺夫上校被A-Laws的林特少校[掌摑](../Page/掌摑.md "wikilink")可以反映地球聯邦軍不受重視。
 
 在第二季的最後，遭到天上人、政變軍、純源聯合擊敗，軍隊控制權也被地球聯邦收回。
 
@@ -255,7 +255,7 @@ Katharon與天上人的第一個交集就是**萊爾·狄蘭迪**（洛克昂的
 阿札迪斯坦王國（Kingdom of
 Azadistan），是2301年吸收鄰國庫爾吉斯共和國，統合而成的中東新興國家（現實中的位置接近[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，名稱來自19世紀波斯自由運動時期建立的短暫政權「Azadistan」，波斯語意為「自由之地」。）
 
-以前中東各國藉由[石油輸出取得了龐大的利益](../Page/石油.md "wikilink")，隨著軌道電梯的興建，石油能源被取代，整個地區的經濟形勢嚴重惡化。阿札迪斯坦王國不僅受這種風潮影響，且由於以前沒有參與軌道電梯建造計劃，因此沒有取得太陽能的供給權。為了解決經濟危機與能源枯竭，以國民推崇的第一公主瑪莉娜·伊士麥為代表，以重建國家為首要目標。
+以前中東各國藉由[石油](../Page/石油.md "wikilink")輸出取得了龐大的利益，隨著軌道電梯的興建，石油能源被取代，整個地區的經濟形勢嚴重惡化。阿札迪斯坦王國不僅受這種風潮影響，且由於以前沒有參與軌道電梯建造計劃，因此沒有取得太陽能的供給權。為了解決經濟危機與能源枯竭，以國民推崇的第一公主瑪莉娜·伊士麥為代表，以重建國家為首要目標。
 
 國家內分為「[保守派](https://zh.wikipedia.org/wiki/保守派 "wikilink")」和「[改革派](https://zh.wikipedia.org/wiki/改革派 "wikilink")」兩大派系，由於意見不合而經常發生紛爭，使整個國家瀕臨解體。
 
@@ -281,7 +281,7 @@ Azadistan），是2301年吸收鄰國庫爾吉斯共和國，統合而成的中�
 
 軍事技術比阿札迪斯坦較佳，主力MS為被AEU改修過的「制定式蘇伊爾王宮護衞型」。
 
-2312年時，正當純源派出瑪哈爾支部長為代表，在王宮與蘇伊爾國王會談，想結合蘇伊爾的資訊與純源的傳輸管道，將地球聯邦對中東的血腥屠殺公諸於世的時候，A-Laws的亞瑟·古德曼卻下令使用衛星兵器「死兆砲」，瞬間毀滅了蘇伊爾王宮與[首都圈全域](../Page/首都圈.md "wikilink")。
+2312年時，正當純源派出瑪哈爾支部長為代表，在王宮與蘇伊爾國王會談，想結合蘇伊爾的資訊與純源的傳輸管道，將地球聯邦對中東的血腥屠殺公諸於世的時候，A-Laws的亞瑟·古德曼卻下令使用衛星兵器「死兆砲」，瞬間毀滅了蘇伊爾王宮與[首都圈](../Page/首都圈.md "wikilink")全域。
 
 ### 里切拉王國
 
@@ -323,7 +323,7 @@ KPSA，由阿里·亞爾·沙瑟斯創立，成員大多來自戰亂中的國家
 
 剎那·F·塞耶以前是KPSA的游擊隊成員之一。
 
-KPSA在許多地區策動恐怖攻擊事件，例如在[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[都柏林的大規模自殺炸彈攻擊](../Page/都柏林.md "wikilink")，這次事件死傷人數破千，洛克昂·史特拉托斯的家人也在此事件中喪生。
+KPSA在許多地區策動恐怖攻擊事件，例如在[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[都柏林](../Page/都柏林.md "wikilink")的大規模自殺炸彈攻擊，這次事件死傷人數破千，洛克昂·史特拉托斯的家人也在此事件中喪生。
 
 在庫爾吉斯滅國後，KPSA解散。
 

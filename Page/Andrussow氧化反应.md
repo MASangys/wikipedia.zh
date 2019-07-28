@@ -1,6 +1,6 @@
 **Andrussow氧化反应**（Andrussow oxidation）
 
-[甲烷与](../Page/甲烷.md "wikilink")[氨和](../Page/氨.md "wikilink")[氧气在](../Page/氧气.md "wikilink")[铂](../Page/铂.md "wikilink")[催化下发生反应](../Page/催化.md "wikilink")，生成[氰化氢和](../Page/氰化氢.md "wikilink")[水](../Page/水.md "wikilink")。\[1\]\[2\]
+[甲烷](../Page/甲烷.md "wikilink")与[氨](../Page/氨.md "wikilink")和[氧气](../Page/氧气.md "wikilink")在[铂](../Page/铂.md "wikilink")[催化](../Page/催化.md "wikilink")下发生反应，生成[氰化氢](../Page/氰化氢.md "wikilink")和[水](../Page/水.md "wikilink")。\[1\]\[2\]
 
 \[\rm \ CH_4 + NH_3 + \tfrac{3}{2}O_2 \rightarrow HCN + 3H_2O\]
 

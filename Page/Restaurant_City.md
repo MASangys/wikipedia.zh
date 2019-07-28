@@ -1,5 +1,5 @@
 **Restaurant
-City**（非官方譯名：**餐廳城市**，簡稱**餐城**），是一款由英國[Playfish開發的](../Page/Playfish.md "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，運行於[Facebook平台](../Page/Facebook.md "wikilink")，其為相當受歡迎及較有長期使用者的Facebook遊戲之一，但Playfish於2012年5月宣佈，Restaurant
+City**（非官方譯名：**餐廳城市**，簡稱**餐城**），是一款由英國[Playfish](../Page/Playfish.md "wikilink")開發的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，運行於[Facebook](../Page/Facebook.md "wikilink")平台，其為相當受歡迎及較有長期使用者的Facebook遊戲之一，但Playfish於2012年5月宣佈，Restaurant
 City會於6月29日停止營運\[1\]。
 
 遊戲主要以模擬經營餐廳為主，玩家可請Facebook上的朋友為餐廳員工，作為廚師、侍應、酒保或清潔工。玩家可以到街上（Street）拜訪Facebook上好友們的餐廳，並可幫忙為田地澆水、撿拾店內垃圾、或解決店內的問題，也可在隨意街（Random
@@ -33,7 +33,7 @@ Quiz，若玩家答對了Food Quiz，亦獲得隨機食材一件。
 加了鎖的食材不用計算等級，只要雙方的食材都有上鎖，那麼只要完成一般交換的程序然後等待對方接獲通知就可以了，此時對方有權決定同意或是拒絕你的邀請。
 
 食材市場（Ingredient
-Market）每天會隨機販售三款不同的食材，讓玩家自由購買，有些網站專門分析每日食材的價格，由歷史資料來分析價格區間，並給予玩家購買上的建議。像是facebook上的[遊戲基地頁面](../Page/遊戲基地.md "wikilink")。
+Market）每天會隨機販售三款不同的食材，讓玩家自由購買，有些網站專門分析每日食材的價格，由歷史資料來分析價格區間，並給予玩家購買上的建議。像是facebook上的[遊戲基地](../Page/遊戲基地.md "wikilink")頁面。
 
 餐廳旁亦有田地種植食材。由第6級開始，會有一塊田，每升二級，可以多一塊，到32級會有九塊田。另外花二千塊可以買種子種植食材，種植下去的種子種類為隨機性，無法由玩家選擇。
 

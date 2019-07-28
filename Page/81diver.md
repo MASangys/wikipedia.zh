@@ -1,11 +1,11 @@
-《**81diver**》（****）是[日本漫畫家](../Page/日本.md "wikilink")[柴田ヨクサル一部以](https://zh.wikipedia.org/wiki/柴田ヨクサル "wikilink")[日本將棋為主題的](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，並且於2008年改編為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+《**81diver**》（****）是[日本](../Page/日本.md "wikilink")漫畫家[柴田ヨクサル一部以](https://zh.wikipedia.org/wiki/柴田ヨクサル "wikilink")[日本將棋為主題的](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，並且於2008年改編為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 ## 概要
 
 這部作品是[集英社](../Page/集英社.md "wikilink")《[週刊Young
-Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，內容以[將棋為主](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。原[獎勵會青年菅田](https://zh.wikipedia.org/wiki/新進棋士獎勵會 "wikilink")，受到[秋葉原防禦師所引導](../Page/秋葉原.md "wikilink")，參與的[真劍師之間的戰爭](https://zh.wikipedia.org/wiki/真劍師 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
+Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，內容以[將棋為主](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。原[獎勵會青年菅田](https://zh.wikipedia.org/wiki/新進棋士獎勵會 "wikilink")，受到[秋葉原](../Page/秋葉原.md "wikilink")防禦師所引導，參與的[真劍師之間的戰爭](https://zh.wikipedia.org/wiki/真劍師 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
 
-[單行本到](https://zh.wikipedia.org/wiki/單行本 "wikilink")[2012年2月為止](../Page/2012年2月.md "wikilink")，在日本已出版23集，目前繼續連載中。
+[單行本到](https://zh.wikipedia.org/wiki/單行本 "wikilink")[2012年2月](../Page/2012年2月.md "wikilink")為止，在日本已出版23集，目前繼續連載中。
 
 ## 劇情綱要
 
@@ -16,7 +16,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
   - 菅田健太郎（）
     主角。自小學習將棋二十年，在從四段升為職業棋士時失敗，從此斷了職業的道路，獎勵會退會後以真劍賭博過日子，而在與「秋葉原防禦師」一戰中失敗後，開始朝真劍師的道路前進。在與真劍師マムシ一戰中，回憶起師父以前所說的潛入棋盤裡的一番話，而實際地「潛入了（將棋的）棋盤中」。之後，只要集中精神並且喊出「****」（Diver），就會潛入棋盤中，並且以****（81Driver，由於棋盤的格數是9×9＝81格，隱指為潛入了將棋盤中）自稱。潛入時的意識是在棋盤，棋盤是像液體一樣。常說的一句話是「我愛將棋」。與對於將棋有同樣執著的中靜楚夜，也他有好感，常常以掃除女撲的樣子出現在菅田的住宅裡。
   - 中靜楚夜（なかしず そよ）
-    被稱為「秋葉原防禦師」的女真劍師，19歳，具有[巨乳的體型](../Page/巨乳.md "wikilink")。是「秋葉原女僕掃除俱樂部」的掃除[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")，以「牛奶」自稱。為了消滅鬼將會而訓練菅田。
+    被稱為「秋葉原防禦師」的女真劍師，19歳，具有[巨乳](../Page/巨乳.md "wikilink")的體型。是「秋葉原女僕掃除俱樂部」的掃除[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")，以「牛奶」自稱。為了消滅鬼將會而訓練菅田。
   - 神野神太郎（じんの しんたろう）
     [流浪漢的真劍師](https://zh.wikipedia.org/wiki/流浪漢 "wikilink")。名字裡有兩個「神」，所以被稱為「**二こ神**（にこがみ）」。
     專長是以雁木陣入玉。
@@ -41,7 +41,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 ## 電視劇
 
-從2008年5月3日開始播放，至7月19日為止，在富士電視台的週六電視劇中，毎週的23:10～23:55（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放。[溝端淳平是首次擔任主角](../Page/溝端淳平.md "wikilink")。
+從2008年5月3日開始播放，至7月19日為止，在富士電視台的週六電視劇中，毎週的23:10～23:55（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放。[溝端淳平](../Page/溝端淳平.md "wikilink")是首次擔任主角。
 
 ### 演員
 
@@ -133,7 +133,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
   -
     鬼將會的大將、楚夜的父親。「關原對局」勝利之後被警察逮捕，出獄後成立了鬼將會。
-    擅長的戰術是以[千里眼看透棋局的發展](../Page/千里眼.md "wikilink")。
+    擅長的戰術是以[千里眼](../Page/千里眼.md "wikilink")看透棋局的發展。
 
 <!-- end list -->
 

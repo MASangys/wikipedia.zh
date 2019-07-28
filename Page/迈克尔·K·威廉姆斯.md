@@ -1,4 +1,4 @@
-**迈克尔·肯尼斯·威廉姆斯**（，），[美国演员](../Page/美国.md "wikilink")。他最著名的演出是在[HBO電視劇](../Page/HBO.md "wikilink")《[火线](https://zh.wikipedia.org/wiki/火线_\(电视剧\) "wikilink")》中饰演的\[1\]\[2\]\[3\]和《[酒私風雲](../Page/酒私風雲.md "wikilink")》中飾演的Albert
+**迈克尔·肯尼斯·威廉姆斯**（，），[美国](../Page/美国.md "wikilink")演员。他最著名的演出是在[HBO](../Page/HBO.md "wikilink")電視劇《[火线](https://zh.wikipedia.org/wiki/火线_\(电视剧\) "wikilink")》中饰演的\[1\]\[2\]\[3\]和《[酒私風雲](../Page/酒私風雲.md "wikilink")》中飾演的Albert
 "Chalky"
 White。他也在HBO的[電視電影](../Page/電視電影.md "wikilink")[傳記片](https://zh.wikipedia.org/wiki/傳記片 "wikilink")《**》中飾演[貝西·史密斯的丈夫Jack](https://zh.wikipedia.org/wiki/貝西·史密斯 "wikilink")
 Gee而受到讚揚。他曾在多部電影和電視劇中擔任配角，包括《[末路浩劫](../Page/末路浩劫.md "wikilink")》、《[性本惡](https://zh.wikipedia.org/wiki/性本惡 "wikilink")》、《[紐約殺人夜](https://zh.wikipedia.org/wiki/紐約殺人夜 "wikilink")》、《》和《[被奪走的12年](https://zh.wikipedia.org/wiki/被奪走的12年 "wikilink")》。
@@ -23,12 +23,12 @@ Nation
 
 ### 《火线》
 
-威廉姆斯最为知名的角色就是2002年开拍的[HBO电视剧](../Page/HBO.md "wikilink")《[火线](https://zh.wikipedia.org/wiki/火线_\(电视剧\) "wikilink")》中的奥马·利特（Omar
+威廉姆斯最为知名的角色就是2002年开拍的[HBO](../Page/HBO.md "wikilink")电视剧《[火线](https://zh.wikipedia.org/wiki/火线_\(电视剧\) "wikilink")》中的奥马·利特（Omar
 Little）。威廉姆斯仅一次试镜就得到了该角。\[10\]威廉姆斯被告知该角色在第一季中预计会有7集的戏份，这使得他很担心在季终之前他饰演的角色就会被杀。\[11\]但是主创[大卫·西蒙表示](../Page/大卫·西蒙_\(作家\).md "wikilink")，他早就计划好，只要该剧获得预定，该角色就会一直作为该剧的一部分。\[12\]
 威廉姆斯表示，他之所以接下该角，主要是因为他对角色矛盾的性格感兴趣。\[13\]由于饰演奥马，《[今日美国](https://zh.wikipedia.org/wiki/今日美国 "wikilink")》曾将威廉姆斯列为他们仍旧喜欢电视的十大原因之一。这个角色因为威廉姆斯睿智且不失幽默感的表演，在老套的罪案电视剧中独树一帜。\[14\]奥马被称为是第一季中人物形象最饱满的角色之一，就仿佛[巴尔的摩西部贫民区的](https://zh.wikipedia.org/wiki/巴尔的摩 "wikilink")[罗宾汉](../Page/罗宾汉.md "wikilink")，尽管有人质疑他的矛盾性格有点奇怪。\[15\]《巴尔的摩城市报》（Baltimore
 City Paper）将他评为十大不能取消《火线》的原因之一，并称“可以认为这是该剧最大的单项成就”。\[16\]
 
-威廉姆斯曾说，他觉得这个角色之所以受到喜爱，是因为他诚实，不慕名利，个性十足且恪守自我准则。\[17\]他觉得就提高自身知名度并得到更多出演机会而言，这个角色是他的一大突破。\[18\]觀眾評價对该角色的[同性恋倾向有褒有贬](https://zh.wikipedia.org/wiki/同性恋 "wikilink")。\[19\]
+威廉姆斯曾说，他觉得这个角色之所以受到喜爱，是因为他诚实，不慕名利，个性十足且恪守自我准则。\[17\]他觉得就提高自身知名度并得到更多出演机会而言，这个角色是他的一大突破。\[18\]觀眾評價对利特的[同性恋倾向有褒有贬](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，但他認為该角色能引起黑人社群反思對同性戀的既定印象。\[19\]
 
 ## 影视作品
 

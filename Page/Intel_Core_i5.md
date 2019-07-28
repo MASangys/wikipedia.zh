@@ -26,7 +26,7 @@ i5，但桌上版Core i5四核四執行緒為主。第二代Core i5接口亦更�
 Graphics版(在Ivy Bridge中为 U=低电压版 M=标准版）。
 
 標準的桌面版Core i5基於4核心設計，較Core i7不支援超執行緒技術。行動版Core
-i5長期為2核心並採用[超執行緒技術](../Page/超執行緒.md "wikilink")，但自第6代Core
+i5長期為2核心並採用[超執行緒](../Page/超執行緒.md "wikilink")技術，但自第6代Core
 i5開始，Intel亦推出4核心的行動版Core i5處理器。從第8世代Intel Core開始，Intel又推出6核6執行緒設計的Core
 i5。
 

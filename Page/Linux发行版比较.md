@@ -1,4 +1,4 @@
-从技术方面来说，[Linux发行版的不同之处在于支持的硬件设备和系统或者软件包配置不同](../Page/Linux发行版.md "wikilink")。由于历史原因，不同的组织也会导致不同的发行版。其他的原因有安全性方面的，如安全更新的频率；软件包管理的易用性；可用软件包的数量。
+从技术方面来说，[Linux发行版](../Page/Linux发行版.md "wikilink")的不同之处在于支持的硬件设备和系统或者软件包配置不同。由于历史原因，不同的组织也会导致不同的发行版。其他的原因有安全性方面的，如安全更新的频率；软件包管理的易用性；可用软件包的数量。
 
 这些表格根据客观的准则比较了一些值得注意的发行版的最新稳定版。不包含操作系统的主观评价，标记为不稳定或测试版的分支以及Linux发行版与其他操作系统的比较。
 
@@ -982,7 +982,7 @@ Linux
 Enterprise](https://zh.wikipedia.org/wiki/SUSE_Linux_distributions "wikilink").\[11\]
 
 请注意這裡谈论的是"自由软件"（free
-software），"free"这个词通常指软件的自由使用，而非免费：对于这个不同的解释，参见[自由软件定义](../Page/自由软件.md "wikilink")。
+software），"free"这个词通常指软件的自由使用，而非免费：对于这个不同的解释，参见[自由软件](../Page/自由软件.md "wikilink")定义。
 
 ## 技术
 
@@ -995,7 +995,7 @@ software），"free"这个词通常指软件的自由使用，而非免费：对
 <th><p><a href="../Page/Linux内核.md" title="wikilink">Linux内核</a></p></th>
 <th><p>C<a href="https://zh.wikipedia.org/wiki/编译器" title="wikilink">编译器</a></p></th>
 <th><p>默认<a href="../Page/文件系统.md" title="wikilink">文件系统</a></p></th>
-<th><p>通常选用的<a href="../Page/桌面环境.md" title="wikilink">桌面环境或</a><a href="https://zh.wikipedia.org/wiki/X窗口管理器" title="wikilink">X窗口管理器</a></p></th>
+<th><p>通常选用的<a href="../Page/桌面环境.md" title="wikilink">桌面环境</a>或<a href="https://zh.wikipedia.org/wiki/X窗口管理器" title="wikilink">X窗口管理器</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1123,7 +1123,7 @@ software），"free"这个词通常指软件的自由使用，而非免费：对
 <td><p>3.2.41</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GNU_Compiler_Collection" title="wikilink">GCC</a> 4.7.2、4.4.5、4.3.2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
-<td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a>、<a href="../Page/KDE.md" title="wikilink">KDE</a>、<a href="../Page/LXDE.md" title="wikilink">LXDE或</a><a href="../Page/Xfce.md" title="wikilink">Xfce</a>（依照安裝媒體而定）</p></td>
+<td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a>、<a href="../Page/KDE.md" title="wikilink">KDE</a>、<a href="../Page/LXDE.md" title="wikilink">LXDE</a>或<a href="../Page/Xfce.md" title="wikilink">Xfce</a>（依照安裝媒體而定）</p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="https://zh.wikipedia.org/wiki/DeLi_Linux" title="wikilink">DeLi Linux</a></p></td>
@@ -1270,7 +1270,7 @@ software），"free"这个词通常指软件的自由使用，而非免费：对
 <td><p>2.6.27</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GNU_Compiler_Collection" title="wikilink">GCC</a> 4.1.2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
-<td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a>、<a href="../Page/KDE.md" title="wikilink">KDE或</a><a href="../Page/Xfce.md" title="wikilink">Xfce</a>（依版本而定）</p></td>
+<td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a>、<a href="../Page/KDE.md" title="wikilink">KDE</a>或<a href="../Page/Xfce.md" title="wikilink">Xfce</a>（依版本而定）</p></td>
 </tr>
 <tr class="even">
 <td><p>| <a href="https://zh.wikipedia.org/wiki/Lunar_Linux" title="wikilink">Lunar Linux</a></p></td>
@@ -1551,7 +1551,7 @@ software），"free"这个词通常指软件的自由使用，而非免费：对
 <td><p><a href="../Page/Linux内核.md" title="wikilink">Linux内核</a></p></td>
 <td><p>C<a href="https://zh.wikipedia.org/wiki/编译器" title="wikilink">编译器</a></p></td>
 <td><p>默认<a href="../Page/文件系统.md" title="wikilink">文件系统</a></p></td>
-<td><p>通常选用的<a href="../Page/桌面环境.md" title="wikilink">桌面环境或</a><a href="https://zh.wikipedia.org/wiki/X窗口管理器" title="wikilink">X窗口管理器</a></p></td>
+<td><p>通常选用的<a href="../Page/桌面环境.md" title="wikilink">桌面环境</a>或<a href="https://zh.wikipedia.org/wiki/X窗口管理器" title="wikilink">X窗口管理器</a></p></td>
 </tr>
 </tbody>
 </table>

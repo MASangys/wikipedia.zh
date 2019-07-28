@@ -8,7 +8,7 @@
 
 由於系統已知乘客要前往的樓層，故機箱內均一律不設任何樓層按鈕，只有開關門按鈕（但亦設有供消防員使用的樓層選擇器，平日上鎖）。
 
-而在改進型號-PORT系統中，樓層選擇器改為輕觸式屏幕，亦可透過迅達開發的手機應用程式召喚升降機。在專為[騰訊濱海大廈設計的PORT系統中](../Page/騰訊濱海大廈.md "wikilink")，由於樓層選擇系統已整合至認可[微信賬戶](../Page/微信.md "wikilink")，因此機外的樓層選擇器亦被取消。
+而在改進型號-PORT系統中，樓層選擇器改為輕觸式屏幕，亦可透過迅達開發的手機應用程式召喚升降機。在專為[騰訊濱海大廈](../Page/騰訊濱海大廈.md "wikilink")設計的PORT系統中，由於樓層選擇系統已整合至認可[微信](../Page/微信.md "wikilink")賬戶，因此機外的樓層選擇器亦被取消。
 
 ## 優點
 
@@ -31,6 +31,11 @@
   - [三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")
   - [聯聚中雍大廈](../Page/聯聚中雍大廈.md "wikilink")
 
+### [新加坡](../Page/新加坡.md "wikilink")
+
+  - [濱海灣金融中心](../Page/濱海灣金融中心.md "wikilink")
+  - [萊佛士碼頭一號](https://zh.wikipedia.org/wiki/萊佛士碼頭一號 "wikilink")
+
 ### [香港](../Page/香港.md "wikilink")
 
 #### 辦公大樓
@@ -40,9 +45,9 @@
       - [林肯大廈](https://zh.wikipedia.org/wiki/林肯大廈 "wikilink")
       - [康橋大廈](https://zh.wikipedia.org/wiki/康橋大廈 "wikilink")
       - [港島東中心](../Page/港島東中心.md "wikilink")
-  - [朗豪坊辦公大樓](../Page/朗豪坊.md "wikilink")
-  - [太古廣場二座高層寫字樓](../Page/太古廣場.md "wikilink")，及三座
-  - [交易廣場三期](../Page/交易廣場.md "wikilink")
+  - [朗豪坊](../Page/朗豪坊.md "wikilink")辦公大樓
+  - [太古廣場](../Page/太古廣場.md "wikilink")二座高層寫字樓，及三座
+  - [交易廣場](../Page/交易廣場.md "wikilink")三期
   - [數碼港](../Page/數碼港.md "wikilink")
   - [環球貿易廣場](../Page/環球貿易廣場.md "wikilink")（採用PORT系統）
   - [友邦廣場](../Page/友邦廣場.md "wikilink")
@@ -60,7 +65,7 @@
 
 #### 住宅
 
-香港目前只有部分由[信和集團發展的住宅項目有使用此系統](../Page/信和集團.md "wikilink")。
+香港目前只有部分由[信和集團](../Page/信和集團.md "wikilink")發展的住宅項目有使用此系統。
 
   - [藍灣半島](../Page/藍灣半島.md "wikilink")（香港首個住宅安裝地點）
   - [海典軒](../Page/海典軒.md "wikilink")

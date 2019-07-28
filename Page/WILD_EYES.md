@@ -1,5 +1,5 @@
 《**WILD
-EYES**》是[水樹奈奈的第](../Page/水樹奈奈.md "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[KING
+EYES**》是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[KING
 RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2005年5月18日發售\[1\]。
 
 ## 解説

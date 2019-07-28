@@ -1,5 +1,5 @@
 **COLOR
-BAND**，[臺灣](../Page/臺灣.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，暱稱為「**COLOR**」，亦有「**CoLoR**」的用法。團體約成軍於2006年（或2005年），於2008年八月份發行首張單曲〈勇敢飛象〉，2009年和[趙又廷合唱](../Page/趙又廷.md "wikilink")《[痞子英雄](../Page/痞子英雄.md "wikilink")》的主題曲〈無賴正義〉，首張專輯於同年8月21日正式發行。
+BAND**，[臺灣](../Page/臺灣.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，暱稱為「**COLOR**」，亦有「**CoLoR**」的用法。團體約成軍於2006年（或2005年），於2008年八月份發行首張單曲〈勇敢飛象〉，2009年和[趙又廷](../Page/趙又廷.md "wikilink")合唱《[痞子英雄](../Page/痞子英雄.md "wikilink")》的主題曲〈無賴正義〉，首張專輯於同年8月21日正式發行。
 由「小剛」[王維皓](../Page/王維皓.md "wikilink")、「可樂」[陳彥瑋兩人組成](https://zh.wikipedia.org/wiki/陳彥瑋 "wikilink")。被唱片公司定義為「**玩樂系創作搖滾團體**」。2013年起官網、所有社群網頁皆停止使用，實質宣告解散。
 
 ## 成員簡介
@@ -18,7 +18,7 @@ BAND**，[臺灣](../Page/臺灣.md "wikilink")[搖滾](https://zh.wikipedia.org
 <li>英文名：Robot</li>
 <li>暱稱：小剛</li>
 <li>生日：1984年9月29日（歲）</li>
-<li>學歷：<a href="../Page/臺中市立大業國民中學.md" title="wikilink">臺中市立大業國民中學</a>、<a href="https://zh.wikipedia.org/wiki/國立臺中文華高級中學" title="wikilink">國立臺中文華高級中學</a>、<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學不動產與城鄉環境學系</a></li>
+<li>學歷：<a href="../Page/臺中市立大業國民中學.md" title="wikilink">臺中市立大業國民中學</a>、<a href="https://zh.wikipedia.org/wiki/國立臺中文華高級中學" title="wikilink">國立臺中文華高級中學</a>、<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學</a>不動產與城鄉環境學系</li>
 <li>語言：國語、英文</li>
 <li>配偶：</li>
 </ul></td>
@@ -74,7 +74,7 @@ MAN）**》，由[索尼音樂娛樂於](../Page/台灣索尼音樂娛樂.md "wi
         電玩「快打Online」代言人
   - 2009年
       -
-        [苗栗縣志工召募大使](../Page/苗栗縣.md "wikilink")
+        [苗栗縣](../Page/苗栗縣.md "wikilink")志工召募大使
         全省[得恩堂連鎖眼鏡公司](https://zh.wikipedia.org/wiki/得恩堂連鎖眼鏡公司 "wikilink")2009年年度代言人
         2009年世界和平會反毒大使。
 

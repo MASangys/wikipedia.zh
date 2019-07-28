@@ -1,6 +1,6 @@
 **梁笑棠**，綽號「**Laughing哥**」、「**Laughing**」、「**Laughing Gor**」、「**Laughing
 Sir**」，是
-2009年香港[無綫電視連續劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》及2011年連續劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》內的角色，由[香港](../Page/香港.md "wikilink")[男演員](../Page/演員.md "wikilink")[謝天華飾演](../Page/謝天華.md "wikilink")\[1\]。他在劇中的真實身份為[警方](https://zh.wikipedia.org/wiki/香港警察 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")（警隊編號：**SSGT66715**），在《[學警狙擊](../Page/學警狙擊.md "wikilink")》中受命潛伏入[黑社會](../Page/黑社會.md "wikilink")[社團](https://zh.wikipedia.org/wiki/社會團體 "wikilink")「進興」的高階層\[2\]，並在2011年香港[無綫電視連續劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》中受命潛伏入黑社會社團「義豐」的高階層。
+2009年香港[無綫電視連續劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》及2011年連續劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》內的角色，由[香港](../Page/香港.md "wikilink")[男演員](../Page/演員.md "wikilink")[謝天華](../Page/謝天華.md "wikilink")飾演\[1\]。他在劇中的真實身份為[警方](https://zh.wikipedia.org/wiki/香港警察 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")（警隊編號：**SSGT66715**），在《[學警狙擊](../Page/學警狙擊.md "wikilink")》中受命潛伏入[黑社會](../Page/黑社會.md "wikilink")[社團](https://zh.wikipedia.org/wiki/社會團體 "wikilink")「進興」的高階層\[2\]，並在2011年香港[無綫電視連續劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》中受命潛伏入黑社會社團「義豐」的高階層。
 
 《[學警狙擊](../Page/學警狙擊.md "wikilink")》於香港播放期間，“Laughing哥”的角色廣受關注。2009年3月18日，該角色於劇中[殉職](../Page/殉職.md "wikilink")，使之成為熱門話題\[3\]。由於其角色大受歡迎，無綫電視決定開拍以其為主角的電視劇及電影，包括2009年電影《[Laughing
 Gor之變節](../Page/Laughing_Gor之變節.md "wikilink")》、2011年電視劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》及2011年電影《[Laughing
@@ -10,7 +10,7 @@ Gor之潛罪犯](../Page/Laughing_Gor之潛罪犯.md "wikilink")》。
 
 ### Laughing Gor之變節
 
-梁笑棠在一次運送毒品時失手，從此被潘文基高級督察追捕。其實，梁笑棠本為黎天一的得力助手，黎天一為保障自己，委派梁笑棠潛入警隊當臥底，不料[有組織罪案及三合會調查科也要求梁笑棠當](../Page/有組織罪案及三合會調查科.md "wikilink")[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")，潛入「正興」（表面上梁笑棠未完成警校訓練和警校畢業便被其警校教官司徒超革除，參見[學警狙擊](../Page/學警狙擊.md "wikilink")），自此梁笑棠成為多重臥底，天一只好派他對付正興社的另一個頭目座頭，此時，他與正興社大哥兼黎天一死對頭蕭卓孝之妹，蕭凱倫相戀，一方面受盡蕭卓孝壓迫反對，一方面「正興」被警方搗破時，梁笑棠面臨抉擇：繼續當任[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")，還是當回[警察](../Page/警察.md "wikilink")。最後，他決定繼續當任[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")，嘗試接近黑社會社團「進興」的杜亦天和江世孝。
+梁笑棠在一次運送毒品時失手，從此被潘文基高級督察追捕。其實，梁笑棠本為黎天一的得力助手，黎天一為保障自己，委派梁笑棠潛入警隊當臥底，不料[有組織罪案及三合會調查科](../Page/有組織罪案及三合會調查科.md "wikilink")也要求梁笑棠當[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")，潛入「正興」（表面上梁笑棠未完成警校訓練和警校畢業便被其警校教官司徒超革除，參見[學警狙擊](../Page/學警狙擊.md "wikilink")），自此梁笑棠成為多重臥底，天一只好派他對付正興社的另一個頭目座頭，此時，他與正興社大哥兼黎天一死對頭蕭卓孝之妹，蕭凱倫相戀，一方面受盡蕭卓孝壓迫反對，一方面「正興」被警方搗破時，梁笑棠面臨抉擇：繼續當任[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")，還是當回[警察](../Page/警察.md "wikilink")。最後，他決定繼續當任[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")，嘗試接近黑社會社團「進興」的杜亦天和江世孝。
 
 ### 學警狙擊
 
@@ -18,28 +18,28 @@ Gor之潛罪犯](../Page/Laughing_Gor之潛罪犯.md "wikilink")》。
 
 ### 潛行狙擊
 
-梁笑棠在[東莞潛伏兩年](https://zh.wikipedia.org/wiki/東莞 "wikilink")，協助警方搗破粵港犯罪集團，因而獲擢升為[警署警長](../Page/警署警長.md "wikilink")。梁笑棠應鞏家培之邀請加入[刑事情報科當臥底訓練教官](../Page/刑事情報科.md "wikilink")，成為周望晴[高級督察的下屬](../Page/高級督察.md "wikilink")，並逐漸與周望晴相戀。其後梁笑棠與下屬楊立青一起以臥底身份潛入黑社會社團「義豐」，與[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[線人蘇星柏合作](https://zh.wikipedia.org/wiki/線人 "wikilink")，但蘇星柏卻有意接掌社團，二人因而反目。「義豐」被搗破後，周望晴被蘇星柏射傷，由高處墮下身亡。梁笑棠一怒之下槍殺蘇星柏，[謀殺罪名成立](../Page/謀殺.md "wikilink")，被判處終身監禁，但實際上是故意進入監獄進行[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[任務](https://zh.wikipedia.org/wiki/任務 "wikilink")，蘇星柏並非梁笑棠槍殺。
+梁笑棠在[東莞潛伏兩年](https://zh.wikipedia.org/wiki/東莞 "wikilink")，協助警方搗破粵港犯罪集團，因而獲擢升為[警署警長](../Page/警署警長.md "wikilink")。梁笑棠應鞏家培之邀請加入[刑事情報科](../Page/刑事情報科.md "wikilink")當臥底訓練教官，成為周望晴[高級督察](../Page/高級督察.md "wikilink")的下屬，並逐漸與周望晴相戀。其後梁笑棠與下屬楊立青一起以臥底身份潛入黑社會社團「義豐」，與[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[線人蘇星柏合作](https://zh.wikipedia.org/wiki/線人 "wikilink")，但蘇星柏卻有意接掌社團，二人因而反目。「義豐」被搗破後，周望晴被蘇星柏射傷，由高處墮下身亡。梁笑棠一怒之下槍殺蘇星柏，[謀殺](../Page/謀殺.md "wikilink")罪名成立，被判處終身監禁，但實際上是故意進入監獄進行[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[任務](https://zh.wikipedia.org/wiki/任務 "wikilink")，蘇星柏並非梁笑棠槍殺。
 
 ### Laughing Gor之潛罪犯
 
-梁笑棠在獄中繼續進行[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[任務](https://zh.wikipedia.org/wiki/任務 "wikilink")，接近目標人物：前[毒品調查科](../Page/毒品調查科.md "wikilink")[警署警長劉忠切](../Page/警署警長.md "wikilink")，怎料劉忠切竟患有精神錯亂，梁笑棠只好向[犯罪心理學教授霍天任求教](../Page/犯罪心理學.md "wikilink")，正當劉忠切的病情慢慢好轉，其卻把自己的腎臟挖出並交給梁笑棠。梁笑棠覺得事有可疑，便叫[保安局](../Page/保安局.md "wikilink")[副局長黎Sir讓他出獄](https://zh.wikipedia.org/wiki/副局長 "wikilink")，怎料黎Sir突然死亡。梁笑棠在別無他選的情況下被逼逃獄，並受到[金三角](../Page/金三角.md "wikilink")[毒販沙普邱的幫助](../Page/毒販.md "wikilink")，梁笑棠發現沙普邱竟是霍天任的一伙，霍天任與蘇星柏的關係亦非比尋常，梁笑棠犯下謀殺罪之迷終於揭開。候任[助理處長卓景全亦受兩人幫助](../Page/警務處助理處長.md "wikilink")，憑將[毒品循環再用而一直上位](../Page/毒品.md "wikilink")。梁笑棠的聯絡員亦於意外中死亡，梁笑棠自此孤軍作戰，以一人之力對抗全港警察……
+梁笑棠在獄中繼續進行[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[任務](https://zh.wikipedia.org/wiki/任務 "wikilink")，接近目標人物：前[毒品調查科](../Page/毒品調查科.md "wikilink")[警署警長](../Page/警署警長.md "wikilink")劉忠切，怎料劉忠切竟患有精神錯亂，梁笑棠只好向[犯罪心理學](../Page/犯罪心理學.md "wikilink")教授霍天任求教，正當劉忠切的病情慢慢好轉，其卻把自己的腎臟挖出並交給梁笑棠。梁笑棠覺得事有可疑，便叫[保安局](../Page/保安局.md "wikilink")[副局長黎Sir讓他出獄](https://zh.wikipedia.org/wiki/副局長 "wikilink")，怎料黎Sir突然死亡。梁笑棠在別無他選的情況下被逼逃獄，並受到[金三角](../Page/金三角.md "wikilink")[毒販](../Page/毒販.md "wikilink")沙普邱的幫助，梁笑棠發現沙普邱竟是霍天任的一伙，霍天任與蘇星柏的關係亦非比尋常，梁笑棠犯下謀殺罪之迷終於揭開。候任[助理處長卓景全亦受兩人幫助](../Page/警務處助理處長.md "wikilink")，憑將[毒品](../Page/毒品.md "wikilink")循環再用而一直上位。梁笑棠的聯絡員亦於意外中死亡，梁笑棠自此孤軍作戰，以一人之力對抗全港警察……
 
 ## 熱潮
 
-「Laughing哥」這個[角色在](../Page/角色.md "wikilink")[香港受到非常大的關注](../Page/香港.md "wikilink")\[4\]\[5\]\[6\]，在該角色死亡之後，「Laughing哥」一詞高踞[雅虎香港搜尋人氣榜第一位](../Page/雅虎.md "wikilink")\[7\]，更有超過十萬[網民在](https://zh.wikipedia.org/wiki/網民 "wikilink")[互聯網悼念他的](https://zh.wikipedia.org/wiki/互聯網 "wikilink")「[殉職](../Page/殉職.md "wikilink")」\[8\]\[9\]\[10\]\[11\]，佔全港網民近半成；在[社交網絡服務網站](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink")[Facebook的](../Page/Facebook.md "wikilink")「Laughing哥」群組更有超過15萬名成員\[12\]\[13\]。
+「Laughing哥」這個[角色](../Page/角色.md "wikilink")在[香港](../Page/香港.md "wikilink")受到非常大的關注\[4\]\[5\]\[6\]，在該角色死亡之後，「Laughing哥」一詞高踞[雅虎](../Page/雅虎.md "wikilink")香港搜尋人氣榜第一位\[7\]，更有超過十萬[網民在](https://zh.wikipedia.org/wiki/網民 "wikilink")[互聯網悼念他的](https://zh.wikipedia.org/wiki/互聯網 "wikilink")「[殉職](../Page/殉職.md "wikilink")」\[8\]\[9\]\[10\]\[11\]，佔全港網民近半成；在[社交網絡服務網站](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink")[Facebook](../Page/Facebook.md "wikilink")的「Laughing哥」群組更有超過15萬名成員\[12\]\[13\]。
 
 ### 復活要求
 
-[無綫電視為了因應](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[觀眾及](https://zh.wikipedia.org/wiki/觀眾 "wikilink")[網友的要求](../Page/網友.md "wikilink")，在2009年3月24日對該劇的[大結局進行補拍](https://zh.wikipedia.org/wiki/大結局 "wikilink")\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]\[23\]\[24\]\[25\]，為《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》第四輯鋪後路。而劇中演員之一的[陳鍵鋒亦證實了](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")「Laughing哥」最終死而復生\[26\]。補拍的片段已於2009年3月27日晚上10點30分在[香港](../Page/香港.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，而[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro
+[無綫電視為了因應](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[觀眾及](https://zh.wikipedia.org/wiki/觀眾 "wikilink")[網友](../Page/網友.md "wikilink")的要求，在2009年3月24日對該劇的[大結局進行補拍](https://zh.wikipedia.org/wiki/大結局 "wikilink")\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]\[23\]\[24\]\[25\]，為《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》第四輯鋪後路。而劇中演員之一的[陳鍵鋒亦證實了](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")「Laughing哥」最終死而復生\[26\]。補拍的片段已於2009年3月27日晚上10點30分在[香港](../Page/香港.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，而[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro
 On
 Demand亦率先在同一天的晚上](https://zh.wikipedia.org/wiki/Astro_On_Demand "wikilink")10點播出，片段不足一分鐘，顯示「Laughing哥」穿回警察[制服](../Page/制服.md "wikilink")，把一個1997年主權移交特別版的[五元硬幣放進胸前口袋後](../Page/香港五元硬幣.md "wikilink")，便對着鏡頭說：「無論Laughing係生係死，Laughing都會喺度，一日警察，一世警察。着得起呢套制服，咁多夥計撐，驚乜呀？記住我個名，Laughing
 Sir呀 ！
 」（無論Laughing生還是死，Laughing都會在這裡，一天警察，一輩子都是警察。穿得起這套制服，這么多同事支持，怕什麽啊？記著這名字，Laughing
-Sir啊！）然而，這個新結局被一些觀眾形容為很爛。\[27\]\[28\]\[29\]\[30\]\[31\]\[32\]\[33\]。[電視劇監製](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[黃偉聲表示](../Page/黃偉聲.md "wikilink")，《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》原以本輯作結，但因「Laughing哥」的熱潮，最快於2009年底或2010年初開拍第四輯\[34\]\[35\]\[36\]\[37\]\[38\]\[39\]\[40\]，並會交代一切細節。
+Sir啊！）然而，這個新結局被一些觀眾形容為很爛。\[27\]\[28\]\[29\]\[30\]\[31\]\[32\]\[33\]。[電視劇監製](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[黃偉聲](../Page/黃偉聲.md "wikilink")表示，《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》原以本輯作結，但因「Laughing哥」的熱潮，最快於2009年底或2010年初開拍第四輯\[34\]\[35\]\[36\]\[37\]\[38\]\[39\]\[40\]，並會交代一切細節。
 
 ### 衍生作品
 
-2009年4月1日，[無綫電視電視廣播業務總經理](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[陳志雲在](../Page/陳志雲.md "wikilink")《[志雲飯局](../Page/志雲飯局.md "wikilink")》節目錄影之後宣佈，無綫電視將與[邵氏兄弟合作開拍](../Page/邵氏兄弟.md "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》的前傳，並即場向謝天華送上電影合約。\[41\]\[42\]電影於同年8月13日上映，累積票房約一千五百萬港元。2011年，無綫電視決定開拍以Laughing哥為主角的電視劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》，內容圍繞Laughing哥當臥底的故事。電視劇於同年8月1日首播，內容講述《[學警狙擊](../Page/學警狙擊.md "wikilink")》兩年後的臥底任務。可是由於該劇以Laughing哥犯下謀殺罪被判終身監禁作為大結局，與他在《[學警狙擊](../Page/學警狙擊.md "wikilink")》期間英勇殉職獲安葬[浩園的反差很大](../Page/浩園.md "wikilink")，引起了不少觀眾的不滿，並寧願Laughing哥當初沒有復活。2011年9月9日，即電視劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》大結局當晚，劇集工作人員在劇集網站透露將會開拍一套電影，名為《[Laughing
+2009年4月1日，[無綫電視電視廣播業務總經理](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[陳志雲](../Page/陳志雲.md "wikilink")在《[志雲飯局](../Page/志雲飯局.md "wikilink")》節目錄影之後宣佈，無綫電視將與[邵氏兄弟](../Page/邵氏兄弟.md "wikilink")合作開拍《[學警狙擊](../Page/學警狙擊.md "wikilink")》的前傳，並即場向謝天華送上電影合約。\[41\]\[42\]電影於同年8月13日上映，累積票房約一千五百萬港元。2011年，無綫電視決定開拍以Laughing哥為主角的電視劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》，內容圍繞Laughing哥當臥底的故事。電視劇於同年8月1日首播，內容講述《[學警狙擊](../Page/學警狙擊.md "wikilink")》兩年後的臥底任務。可是由於該劇以Laughing哥犯下謀殺罪被判終身監禁作為大結局，與他在《[學警狙擊](../Page/學警狙擊.md "wikilink")》期間英勇殉職獲安葬[浩園](../Page/浩園.md "wikilink")的反差很大，引起了不少觀眾的不滿，並寧願Laughing哥當初沒有復活。2011年9月9日，即電視劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》大結局當晚，劇集工作人員在劇集網站透露將會開拍一套電影，名為《[Laughing
 Gor之潛罪犯](../Page/Laughing_Gor之潛罪犯.md "wikilink")》，電影於同年12月29日上映。2012年8月上映外傳《[神獸巴打](https://zh.wikipedia.org/wiki/神獸巴打 "wikilink")》。
 
 ### 1997年五元硬幣炒賣潮

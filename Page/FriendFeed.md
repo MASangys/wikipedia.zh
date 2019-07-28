@@ -1,13 +1,13 @@
-**FriendFeed**是一个聚合个人信息的网站，可整合网络[社区媒体](https://zh.wikipedia.org/wiki/社会媒体 "wikilink")、[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")、书签网站、[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")、[微博客的更新](https://zh.wikipedia.org/wiki/微博客 "wikilink")，及其他[RSS](../Page/RSS.md "wikilink")/[Atom信源](../Page/Atom_\(標準\).md "wikilink")。用户可将此类信息流量整合到[Feed与好友共享](../Page/消息來源.md "wikilink")、评论。\[1\]据官网自述，FriendFeed目标旨在以工具的形式通过现有社交网络发现信息的妙趣，以及实现Web内容的更好相关程度与实用性质。在网站中可以个人、公司或者团体组织的身份成为注册用户。有博客文章提到，一般较之于其他社区媒体的服务之仅仅跟踪用户于自身网站的动态，FriendFeed可令好友在更广范围（比方说[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")、[Twitter和](../Page/Twitter.md "wikilink")[Flickr](../Page/Flickr.md "wikilink")）的动态受到反映\[2\]。部分博客作者关心浏览者在FriendFeed中对所著文章的评论，更甚于在其博客页面之评论\[3\]。
+**FriendFeed**是一个聚合个人信息的网站，可整合网络[社区媒体](https://zh.wikipedia.org/wiki/社会媒体 "wikilink")、[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")、书签网站、[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")、[微博客的更新](https://zh.wikipedia.org/wiki/微博客 "wikilink")，及其他[RSS](../Page/RSS.md "wikilink")/[Atom信源](../Page/Atom_\(標準\).md "wikilink")。用户可将此类信息流量整合到[Feed与好友共享](../Page/消息來源.md "wikilink")、评论。\[1\]据官网自述，FriendFeed目标旨在以工具的形式通过现有社交网络发现信息的妙趣，以及实现Web内容的更好相关程度与实用性质。在网站中可以个人、公司或者团体组织的身份成为注册用户。有博客文章提到，一般较之于其他社区媒体的服务之仅仅跟踪用户于自身网站的动态，FriendFeed可令好友在更广范围（比方说[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Flickr](../Page/Flickr.md "wikilink")）的动态受到反映\[2\]。部分博客作者关心浏览者在FriendFeed中对所著文章的评论，更甚于在其博客页面之评论\[3\]。
 
 FriendFeed的创始人曾经全部就职于[Google](../Page/Google.md "wikilink")，并参与了[Gmail](../Page/Gmail.md "wikilink")、[Google
 Maps等等服务的创立](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")。
 
 FriendFeed的公司位于[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[芒廷维尤](https://zh.wikipedia.org/wiki/芒廷维尤_\(加利福尼亚州\) "wikilink")。
 
-自2009年7月13日开始，FriendFeed被中国大陆[防火长城封锁](../Page/防火长城.md "wikilink")。目前还处在封锁当中。（2016年7月14日状态）
+自2009年7月13日开始，FriendFeed被中国大陆[防火长城](../Page/防火长城.md "wikilink")封锁。目前还处在封锁当中。（2016年7月14日状态）
 
-2009年8月10日，官方博客宣布其接受[Facebook收购请求](../Page/Facebook.md "wikilink")，正式成为Facebook的一部分。
+2009年8月10日，官方博客宣布其接受[Facebook](../Page/Facebook.md "wikilink")收购请求，正式成为Facebook的一部分。
 
 2015年4月9日，FriendFeed正式关闭。
 

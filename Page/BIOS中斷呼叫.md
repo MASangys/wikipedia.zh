@@ -1,10 +1,10 @@
-**BIOS[中断调用](https://zh.wikipedia.org/wiki/中断 "wikilink")**（）是一組功能，为[DOS程式與一些软件提供使用](../Page/DOS.md "wikilink")[IBM
-PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BIOS.md "wikilink")。一些[操作系统在](../Page/操作系统.md "wikilink")[系统引导時也使用BIOS以检测并初始化硬件資源](https://zh.wikipedia.org/wiki/系统引导 "wikilink")。
+**BIOS[中断调用](https://zh.wikipedia.org/wiki/中断 "wikilink")**（）是一組功能，为[DOS](../Page/DOS.md "wikilink")程式與一些软件提供使用[IBM
+PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS](../Page/BIOS.md "wikilink")的功能。一些[操作系统](../Page/操作系统.md "wikilink")在[系统引导時也使用BIOS以检测并初始化硬件資源](https://zh.wikipedia.org/wiki/系统引导 "wikilink")。
 
 ## 中断调用
 
-若要调用中断，可以使用[X86](../Page/X86.md "wikilink")[汇编语言的](../Page/汇编语言.md "wikilink")[INT指令](https://zh.wikipedia.org/wiki/INT_\(x86指令\) "wikilink")。
-例如，如下的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[汇编语言指令可以使用BIOS的](../Page/汇编语言.md "wikilink")0x10中断向屏幕打印一个字符。
+若要调用中断，可以使用[X86](../Page/X86.md "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")的[INT指令](https://zh.wikipedia.org/wiki/INT_\(x86指令\) "wikilink")。
+例如，如下的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")指令可以使用BIOS的0x10中断向屏幕打印一个字符。
 
 <code language="x86">
 
@@ -86,7 +86,7 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 </tr>
 <tr class="odd">
 <td><p>INT 0Eh</p></td>
-<td><p>IRQ6：需要時由<a href="../Page/軟碟控制器.md" title="wikilink">軟碟控制器呼叫</a>。</p></td>
+<td><p>IRQ6：需要時由<a href="../Page/軟碟控制器.md" title="wikilink">軟碟控制器</a>呼叫。</p></td>
 </tr>
 <tr class="even">
 <td><p>INT 0Fh</p></td>

@@ -1,4 +1,4 @@
-**China**（**中國合唱團**）是來自[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[硬式搖滾樂團](../Page/硬式搖滾.md "wikilink")，成立於1980年代，初始成員包括鼓手John
+**China**（**中國合唱團**）是來自[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[硬式搖滾](../Page/硬式搖滾.md "wikilink")樂團，成立於1980年代，初始成員包括鼓手John
 Dommen、兩位吉他手Claudio Matteo & Freddy Laurence、貝斯手Marc Lynn以及主唱Math
 Shiverow。
 

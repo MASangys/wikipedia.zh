@@ -1,12 +1,12 @@
 **VDPAU** (**Video Decode and Presentation API for
 Unix**)是一个最初由[NVIDIA开发的针对其GeForce](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
 8系列以及更高系列的[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")\[1\]\[2\]
-，在[UNIX和](../Page/UNIX.md "wikilink")[类UNIX系统](https://zh.wikipedia.org/wiki/类UNIX "wikilink")（包括
-[Linux](../Page/Linux.md "wikilink")、[FreeBSD和](../Page/FreeBSD.md "wikilink")[Solaris](../Page/Solaris.md "wikilink")）下基于[X
+，在[UNIX](../Page/UNIX.md "wikilink")和[类UNIX系统](https://zh.wikipedia.org/wiki/类UNIX "wikilink")（包括
+[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")和[Solaris](../Page/Solaris.md "wikilink")）下基于[X
 Window系统下的开源库](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")(libvdpau)和[API](https://zh.wikipedia.org/wiki/API "wikilink")。
 VDPAU的API可以让[视频播放器把一部分的视频解码和视频图像补偿交给](https://zh.wikipedia.org/wiki/视频播放器 "wikilink")[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")\[3\]\[4\]\[5\]。
 目前VDPAU有能力处理一部分的[运动补偿](../Page/运动补偿.md "wikilink")、[离散余弦变换](../Page/离散余弦变换.md "wikilink")、和对使用[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4
-AVC](https://zh.wikipedia.org/wiki/MPEG-4_AVC "wikilink")([H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink"))、[VC-1和](../Page/VC-1.md "wikilink")[WMV3](https://zh.wikipedia.org/wiki/WMV3 "wikilink")/[WMV9格式编码的视频进行](https://zh.wikipedia.org/wiki/WMV9 "wikilink")[环内去块滤波](https://zh.wikipedia.org/wiki/环内去块滤波 "wikilink")
+AVC](https://zh.wikipedia.org/wiki/MPEG-4_AVC "wikilink")([H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink"))、[VC-1](../Page/VC-1.md "wikilink")和[WMV3](https://zh.wikipedia.org/wiki/WMV3 "wikilink")/[WMV9格式编码的视频进行](https://zh.wikipedia.org/wiki/WMV9 "wikilink")[环内去块滤波](https://zh.wikipedia.org/wiki/环内去块滤波 "wikilink")
 。当中有一些特定的格式能否于GPU来负担取决于GPU的版本，特别是MPEG-4 ASP (MPEG-4 Part 2), Xvid /
 OpenDivX (DivX 4)和DivX 5格式，这些格式必须使用GeForce 200M (2xxM)系列的GPU\[6\]。
 VDPAU被认为在[X
@@ -67,7 +67,7 @@ Intel 和 AMD 的开源显卡驱动。\[12\]
 像素,并且所有编码目前限制在最大8192个[宏区块](https://zh.wikipedia.org/wiki/宏区块 "wikilink")
 (对于VC-1/WMV是8190个). 部分加速意味着
 (图像)的解码在CPU执行,当[GPU执行](https://zh.wikipedia.org/wiki/GPU "wikilink")[离散余弦变换](../Page/离散余弦变换.md "wikilink")
-和[运动补偿时](../Page/运动补偿.md "wikilink")。完全加速意味着GPU执行全部的[运动补偿](../Page/运动补偿.md "wikilink")、[离散余弦变换](../Page/离散余弦变换.md "wikilink")、
+和[运动补偿](../Page/运动补偿.md "wikilink")时。完全加速意味着GPU执行全部的[运动补偿](../Page/运动补偿.md "wikilink")、[离散余弦变换](../Page/离散余弦变换.md "wikilink")、
 
   - 功能集 A
     对[H.264的完全加速](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")。
@@ -81,7 +81,7 @@ Intel 和 AMD 的开源显卡驱动。\[12\]
   - 功能集 C
     对 MPEG-1, MPEG-2, [MPEG-4 Part 2 (也叫作 MPEG-4
     ASP)](../Page/MPEG-4.md "wikilink"), VC-1/WMV9 和 H.264的完全加速。
-    对于MPEG-4 Part 2不支持[运动补偿和数据分块](../Page/运动补偿.md "wikilink")。
+    对于MPEG-4 Part 2不支持[运动补偿](../Page/运动补偿.md "wikilink")和数据分块。
 
 ## 支持的软件
 

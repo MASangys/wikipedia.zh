@@ -1,4 +1,4 @@
-**Windows網際網路名稱服務**（，縮寫**WINS**），是由[微軟公司所發展出來的一種](../Page/微软.md "wikilink")[網路名稱轉換服務](https://zh.wikipedia.org/wiki/網路 "wikilink")，與[DNS類似](../Page/域名系统.md "wikilink")，WINS可以將[NetBIOS電腦名稱轉換為對應的](../Page/NetBIOS.md "wikilink")[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。
+**Windows網際網路名稱服務**（，縮寫**WINS**），是由[微軟公司所發展出來的一種](../Page/微软.md "wikilink")[網路名稱轉換服務](https://zh.wikipedia.org/wiki/網路 "wikilink")，與[DNS類似](../Page/域名系统.md "wikilink")，WINS可以將[NetBIOS](../Page/NetBIOS.md "wikilink")電腦名稱轉換為對應的[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。
 
 ## 概述
 
@@ -11,7 +11,7 @@ WINS的主要功能如下：
   - WINS
     主要是一種動態的複寫[資料庫服務](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，在主機上所使用的
     NetBIOS 名稱並解析成網路上使用的 IP 位址
-  - 其目的用來解決在[路由環境中解析](../Page/路由.md "wikilink") NetBIOS 名稱的問題，WINS 是
+  - 其目的用來解決在[路由](../Page/路由.md "wikilink")環境中解析 NetBIOS 名稱的問題，WINS 是
     NetBIOS 名稱解析最好的解決方式。
   - WINS 在 Microsoft [Windows
     Server](../Page/Windows_Server.md "wikilink") 系列中提供這項元件服務的安裝來實行。

@@ -4,7 +4,7 @@ Entertainment研製的線上單人](https://zh.wikipedia.org/wiki/:en:Artix_Ente
 ## 歷史
 
 **AdventureQuest**是[Artix
-Entertainment的第一個遊戲](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")。這個遊戲越來越流行，[註冊人數不斷急升](https://zh.wikipedia.org/wiki/註冊 "wikilink")，並于[2004年7月註冊人數突破一百萬大關](../Page/2004年7月.md "wikilink")。亦在2005年7月用戶人數更突破五百萬。此驚人的增長使[Artix
+Entertainment的第一個遊戲](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")。這個遊戲越來越流行，[註冊人數不斷急升](https://zh.wikipedia.org/wiki/註冊 "wikilink")，並于[2004年7月](../Page/2004年7月.md "wikilink")註冊人數突破一百萬大關。亦在2005年7月用戶人數更突破五百萬。此驚人的增長使[Artix
 Entertainment加入一些需要付費才能玩的情節及](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")**Z-Tokens**（一種在遊戲中的虛擬貨幣）。
 
 ## 核心員工
@@ -61,22 +61,22 @@ Modifier，即「對不同屬性的抵抗力」）的數值，以百分數表示
 技能指數分別有四種，分別是：
 
   - HP（Health Point）:
-    中文為生命值，[生命值會被怪獸攻擊而減少](../Page/生命值.md "wikilink")。除了可以喝補**HP**藥水補充生命值，還可以使用某些較高級的[武器可以令自己的](../Page/武器.md "wikilink")[生命值增加](../Page/生命值.md "wikilink")。在遊戲中的顏色為[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
+    中文為生命值，[生命值](../Page/生命值.md "wikilink")會被怪獸攻擊而減少。除了可以喝補**HP**藥水補充生命值，還可以使用某些較高級的[武器](../Page/武器.md "wikilink")可以令自己的[生命值](../Page/生命值.md "wikilink")增加。在遊戲中的顏色為[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
 
 <!-- end list -->
 
   - MP（Mana Point）
-    當玩家使用[魔法](../Page/魔法.md "wikilink")、特殊攻擊等較特別的攻擊時會使用到。除了可以喝補**MP**藥水補充**MP**，還可以使用某些較高級的[武器可以令自己的](../Page/武器.md "wikilink")**MP**增加。在遊戲中的[顏色為](https://zh.wikipedia.org/wiki/顏色 "wikilink")[藍色](../Page/藍色.md "wikilink")。
+    當玩家使用[魔法](../Page/魔法.md "wikilink")、特殊攻擊等較特別的攻擊時會使用到。除了可以喝補**MP**藥水補充**MP**，還可以使用某些較高級的[武器](../Page/武器.md "wikilink")可以令自己的**MP**增加。在遊戲中的[顏色為](https://zh.wikipedia.org/wiki/顏色 "wikilink")[藍色](../Page/藍色.md "wikilink")。
 
 <!-- end list -->
 
   - SP（Skill Point）
-    當玩家想在中途離開戰鬥或喝補HP/MP藥水時會被花費**SP**。每一位[玩家一開始時會有](../Page/玩家.md "wikilink")50點**SP**，然後每進一級（Level）時會增加5點。每一回合會自動增加**SP**，增加的量隨等級而不同。如果一位玩家被怪物戰勝，玩家的**SP**便會重新算起。在遊戲中的顏色為[綠色](../Page/綠色.md "wikilink")。\[2\]
+    當玩家想在中途離開戰鬥或喝補HP/MP藥水時會被花費**SP**。每一位[玩家](../Page/玩家.md "wikilink")一開始時會有50點**SP**，然後每進一級（Level）時會增加5點。每一回合會自動增加**SP**，增加的量隨等級而不同。如果一位玩家被怪物戰勝，玩家的**SP**便會重新算起。在遊戲中的顏色為[綠色](../Page/綠色.md "wikilink")。\[2\]
 
 <!-- end list -->
 
   - EXP（Experience Point）
-    中文為經驗值，每玩家打贏了一隻怪物就會增加[經驗值](https://zh.wikipedia.org/wiki/經驗值 "wikilink")（跟[怪物的難度有關係](../Page/怪物.md "wikilink")）。在遊戲中的顏色為[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")。當玩家擁有一定的經驗值時就會升級，這時[經驗值會被重新點算](https://zh.wikipedia.org/wiki/經驗值 "wikilink")。
+    中文為經驗值，每玩家打贏了一隻怪物就會增加[經驗值](https://zh.wikipedia.org/wiki/經驗值 "wikilink")（跟[怪物](../Page/怪物.md "wikilink")的難度有關係）。在遊戲中的顏色為[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")。當玩家擁有一定的經驗值時就會升級，這時[經驗值會被重新點算](https://zh.wikipedia.org/wiki/經驗值 "wikilink")。
 
 ## 參考資料或註釋
 

@@ -1,4 +1,4 @@
-**Pucca的登場人物**，為韓國動畫[Pucca的登場角色說明](../Page/Pucca.md "wikilink")。
+**Pucca的登場人物**，為韓國動畫[Pucca](../Page/Pucca.md "wikilink")的登場角色說明。
 
 ## 主要角色
 

@@ -1,22 +1,23 @@
-**G力**（G-Force）原為一[航空專有名詞](../Page/航空.md "wikilink")，現在廣泛做為移動或改變[切線](https://zh.wikipedia.org/wiki/切線 "wikilink")，或是加速度與減速度時承受力道的單位。
+**G力**（gravitational force equivalent or G-force），也可稱「重力｣；
+原為一[航空](../Page/航空.md "wikilink")專有名詞，現在廣泛做為移動或改變[切線](https://zh.wikipedia.org/wiki/切線 "wikilink")，或是加速度與減速度時承受力道的單位。
 
 ## 定義
 
-G即為一個地球表面的[重力加速度](../Page/重力加速度.md "wikilink")，在航空中1G定義為航空機在海平面飛行時的升力和受到地球引力而往下吸引的力量相平衡時；而當[飛行器改變](https://zh.wikipedia.org/wiki/飛行器 "wikilink")[慣性](../Page/慣性.md "wikilink")，如加減速或是進行非直線動作時即會產生[正或](../Page/正.md "wikilink")[負的G力](https://zh.wikipedia.org/wiki/負 "wikilink")。
+「G｣：地球表面的[重力加速度](../Page/重力加速度.md "wikilink")；飛行器加上載重和駕駛員之重量，且飛行器處於平飛時，這種狀態定義為「1G｣。而當[飛行器改變](https://zh.wikipedia.org/wiki/飛行器 "wikilink")[慣性](../Page/慣性.md "wikilink")，如加減速或是進行非直線動作時即會產生[正](../Page/正.md "wikilink")或[負的重力](https://zh.wikipedia.org/wiki/負 "wikilink")（G）。
 
-當飛行器加速或攀升，而導致[重力由上往下](https://zh.wikipedia.org/wiki/重力 "wikilink")，或進行非直線的動作的[離心力](https://zh.wikipedia.org/wiki/離心力 "wikilink")，就會產生[正G力](../Page/正.md "wikilink")，產生G力與地面位置無直接關係而與飛行器原有位置及方向有關，例如飛行器上下顛倒並往地面接近時，即使地面是在下方亦會產生正G力。
+當飛行器加速或攀升，而導致[重力由上往下](https://zh.wikipedia.org/wiki/重力 "wikilink")，或進行非直線的動作的[離心力](https://zh.wikipedia.org/wiki/離心力 "wikilink")，就會產生[正](../Page/正.md "wikilink")G力，產生G力與地面位置無直接關係而與飛行器原有位置及方向有關，例如飛行器上下顛倒並往地面接近時，即使地面是在下方亦會產生正G力。
 
 相對的當飛行器減速或下降而使重力由下往上時，就會產生[負G力](https://zh.wikipedia.org/wiki/負 "wikilink")，此時的上下亦與地面位置無直接關係。
 
-當前航空科技已發展出[向量噴嘴及新操控方式和組件](../Page/向量噴嘴.md "wikilink")，能使飛行器的行進方向與機身方向不同，此時機鼻方向的改變也會造成G力。
+當前航空科技已發展出[向量噴嘴](../Page/向量噴嘴.md "wikilink")及新操控方式和組件，能使飛行器的行進方向與機身方向不同，此時機鼻方向的改變也會造成G力。
 
 ## 影響
 
-其實在生活中隨時都會產生額外G力，但是多半因為過於微小因此往往被忽略，若要明顯體驗則可利用高速的器材或交通工具，例如[雲霄飛車或](../Page/雲霄飛車.md "wikilink")[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，但此類方式所產生的G力仍舊在一般人體的可承受範圍之內，而對於隨時在進行超高速動作飛行器上的[飛行員而言](../Page/飛行員.md "wikilink")，G力卻是不可忽視的一個重要關鍵，且往往決定生死。
+其實在生活中隨時都會產生額外G力，但是多半因為過於微小因此往往被忽略，若要明顯體驗則可利用高速的器材或交通工具，例如[雲霄飛車](../Page/雲霄飛車.md "wikilink")或[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，但此類方式所產生的G力仍舊在一般人體的可承受範圍之內，而對於隨時在進行超高速動作飛行器上的[飛行員](../Page/飛行員.md "wikilink")而言，G力卻是不可忽視的一個重要關鍵，且往往決定生死。
 
 首先是飛行器的組件，包括蒙皮及剛性結構、接合點…皆有可能因為高或長期的G力之影響，而產生材質疲勞或劣化，極有可能會造成損壞而導致嚴重後果，甚至是支撐不住而空中解體。
 
-一般而言，正常狀態下的人體所能承受的最大極限為正9G到負3G之間，而當正G力越大時，血液會因壓力而從頭部流向腿部而使腦部血液量銳減，此時[二氧化碳濃度會急遽增加](../Page/二氧化碳.md "wikilink")，並因缺血[缺氧而影響視覺器官造成所謂的](../Page/缺氧.md "wikilink")「黑視症」（Blackout）。
+一般而言，正常狀態下的人體所能承受的最大極限為正9G到負3G之間，而當正G力越大時，血液會因壓力而從頭部流向腿部而使腦部血液量銳減，此時[二氧化碳](../Page/二氧化碳.md "wikilink")濃度會急遽增加，並因缺血[缺氧](../Page/缺氧.md "wikilink")而影響視覺器官造成所謂的「黑視症」（Blackout）。
 
 反之，當負G力過大時，身體的血液會反向的由下往腦部集中，造成腦部充血危及[微血管](https://zh.wikipedia.org/wiki/微血管 "wikilink")，同時眼球也因過度充血而使得進入的光線都呈現血液色，稱為「紅視症」（Redout）。
 

@@ -1,5 +1,5 @@
 **cpio**
-是[UNIX作業系統的一個檔案](../Page/UNIX.md "wikilink")[備份程式及](https://zh.wikipedia.org/wiki/備份 "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")。這項工具最初出現於[PWB/UNIX](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")，係用於備份[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")，後來也被引進到[UNIX
+是[UNIX](../Page/UNIX.md "wikilink")作業系統的一個檔案[備份程式及](https://zh.wikipedia.org/wiki/備份 "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")。這項工具最初出現於[PWB/UNIX](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")，係用於備份[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")，後來也被引進到[UNIX
 System
 III及](https://zh.wikipedia.org/wiki/UNIX_System_III "wikilink")[System
 V](https://zh.wikipedia.org/wiki/System_V "wikilink")，並流行開來。

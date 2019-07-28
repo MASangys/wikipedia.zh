@@ -1,5 +1,5 @@
 ***Wonderful
-Hearts***（）此一詞在2006年的演唱會開始被使用，之後由[早安家族藝人的路線分成兩部分](../Page/早安家族.md "wikilink")，另一為
+Hearts***（）此一詞在2006年的演唱會開始被使用，之後由[早安家族](../Page/早安家族.md "wikilink")藝人的路線分成兩部分，另一為
 **[Elder Club](../Page/Elder_Club.md "wikilink")**（）。
 
 ## 所屬團員
@@ -11,12 +11,12 @@ Hearts***（）此一詞在2006年的演唱會開始被使用，之後由[早安
   - 個人
       - [真野惠里菜](../Page/真野惠里菜.md "wikilink")
 
-※ [美勇傳於](../Page/美勇傳.md "wikilink") 2008年 1月 移藉到 **[Elder
+※ [美勇傳](../Page/美勇傳.md "wikilink")於 2008年 1月 移藉到 **[Elder
 Club](../Page/Elder_Club.md "wikilink")**（）。
 
-2007年6月[早安家族官方網站的更新](../Page/早安家族.md "wikilink")，揭載[早安家族所屬的團體或個人的個人檔案被分為](../Page/早安家族.md "wikilink")[「ワンダフルハーツ」和](https://zh.wikipedia.org/wiki/「ワンダフルハーツ」 "wikilink")[「エルダークラブ」](https://zh.wikipedia.org/wiki/「エルダークラブ」 "wikilink")。
+2007年6月[早安家族](../Page/早安家族.md "wikilink")官方網站的更新，揭載[早安家族](../Page/早安家族.md "wikilink")所屬的團體或個人的個人檔案被分為[「ワンダフルハーツ」和](https://zh.wikipedia.org/wiki/「ワンダフルハーツ」 "wikilink")[「エルダークラブ」](https://zh.wikipedia.org/wiki/「エルダークラブ」 "wikilink")。
 
-[エルダークラブ所屬成員中](https://zh.wikipedia.org/wiki/エルダークラブ "wikilink")，有過去為[ワンダフルハーツ的成員](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")。在[辻希美藝能活動休業前](../Page/辻希美.md "wikilink")，W
+[エルダークラブ所屬成員中](https://zh.wikipedia.org/wiki/エルダークラブ "wikilink")，有過去為[ワンダフルハーツ的成員](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")。在[辻希美](../Page/辻希美.md "wikilink")藝能活動休業前，W
 和 solo
 是以[ワンダフルハーツ成員的身份在演唱會中演出](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")，[美勇傳](../Page/美勇傳.md "wikilink")（2008年6月解散）到2007年12月前也是以[ワンダフルハーツ成員的身份在演唱會中演出](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")。
 

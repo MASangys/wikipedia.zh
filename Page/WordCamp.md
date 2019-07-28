@@ -5,7 +5,7 @@
 用户自发组织的[非盈利性质大会](https://zh.wikipedia.org/wiki/非盈利 "wikilink")，具有个性化、随意化以及地域化的特点，WordCamp
 号召全球使用 WordPress 的爱好者与开发者聚集在一起共同讨论一些热门话题，在互联网上已具有一定的影响，其举办地分布在全球许多国家和地区。
 
-2007 年 7 月美国[旧金山举行了第一届](../Page/旧金山.md "wikilink") WordCamp，同年 9
+2007 年 7 月美国[旧金山](../Page/旧金山.md "wikilink")举行了第一届 WordCamp，同年 9
 月在中国北京举行了第一届海外 WordCamp，被称为 [WordCamp Beijing
 2007](https://zh.wikipedia.org/wiki/WordCamp_Beijing_2007 "wikilink")。
 

@@ -46,8 +46,8 @@
 
 ## 地域
 
-  - EN，[爱沙尼亚的FIPS](../Page/爱沙尼亚.md "wikilink") 10-4代码
-  - EN，[爱沙尼亚过去的NATO国家代码](../Page/爱沙尼亚.md "wikilink")（现为EST）
+  - EN，[爱沙尼亚](../Page/爱沙尼亚.md "wikilink")的FIPS 10-4代码
+  - EN，[爱沙尼亚](../Page/爱沙尼亚.md "wikilink")过去的NATO国家代码（现为EST）
 
 ## 文化
 
@@ -66,7 +66,7 @@
 
 ## 公司
 
-  - EN，[多洛米蒂航空的IATA代码](../Page/多洛米蒂航空.md "wikilink")
+  - EN，[多洛米蒂航空](../Page/多洛米蒂航空.md "wikilink")的IATA代码
   - [Euronews](https://zh.wikipedia.org/wiki/Euronews "wikilink")，电视新闻频道
 
 ## 其他

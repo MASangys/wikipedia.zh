@@ -7,7 +7,7 @@ S00-S09 头部损伤
 
   - S00 头部浅表损伤
   - S01 头部开放性伤口
-  - S02 [颅骨和面骨骨折](../Page/颅骨.md "wikilink")
+  - S02 [颅骨](../Page/颅骨.md "wikilink")和面骨骨折
   - S03 头部的关节和韧带脱位、扭伤和劳损
   - S04 [颅神经损伤](https://zh.wikipedia.org/wiki/颅神经 "wikilink")
   - S05
@@ -26,7 +26,7 @@ S10-S19 [颈部损伤](https://zh.wikipedia.org/wiki/颈部 "wikilink")
   - S12 颈部骨折
   - S13 颈部水平的关节和韧带脱位、扭伤和劳损
   - S14
-    颈部水平的[神经和](../Page/神经.md "wikilink")[脊髓损伤](../Page/脊髓.md "wikilink")
+    颈部水平的[神经](../Page/神经.md "wikilink")和[脊髓](../Page/脊髓.md "wikilink")损伤
   - S15 颈部水平的血管损伤
   - S16 颈部水平的肌肉和肌腱损伤
   - S17 颈部挤压伤
@@ -51,7 +51,7 @@ S20-S29 [胸部损伤](https://zh.wikipedia.org/wiki/胸部 "wikilink")
 ## S30-S39 腹部、背、腰椎和骨盆损伤
 
 S30-S39
-[腹部](https://zh.wikipedia.org/wiki/腹部 "wikilink")、[背](../Page/背.md "wikilink")、[腰椎和骨盆损伤](../Page/腰椎.md "wikilink")
+[腹部](https://zh.wikipedia.org/wiki/腹部 "wikilink")、[背](../Page/背.md "wikilink")、[腰椎](../Page/腰椎.md "wikilink")和骨盆损伤
 
   - S30 腹部、背和骨盆浅表损伤
   - S31 腹部、背和骨盆开放性伤口
@@ -98,7 +98,7 @@ S50-S59
 ## S60-S69 腕和手损伤
 
 S60-S69
-[腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手损伤](../Page/手.md "wikilink")
+[腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手](../Page/手.md "wikilink")损伤
 
   - S60 腕和手浅表损伤
   - S61 腕和手开放性伤口
@@ -206,7 +206,7 @@ T20-T32 [烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/烧伤 "wikilink")
   - T22
     [肩和](https://zh.wikipedia.org/wiki/肩 "wikilink")[上肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/上肢 "wikilink")，除外腕和手
   - T23
-    [腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手烧伤和腐蚀伤](../Page/手.md "wikilink")
+    [腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手](../Page/手.md "wikilink")烧伤和腐蚀伤
   - T24
     [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[下肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/下肢 "wikilink")，除外踝和足
   - T25

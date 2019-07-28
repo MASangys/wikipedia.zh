@@ -10,7 +10,7 @@ Express 5](../Page/Outlook_Express.md "wikilink")。目前最新的版本是Ento
 2008，是於2008年1月15日發佈的[Microsoft Office 2008 for
 Mac的一部份](../Page/Microsoft_Office_2008_for_Mac.md "wikilink")。
 
-[微软于](../Page/微软.md "wikilink")2010年10月26日发售[Microsoft Office 2011 for
+[微软](../Page/微软.md "wikilink")于2010年10月26日发售[Microsoft Office 2011 for
 Mac](../Page/Microsoft_Office_2011_for_Mac.md "wikilink")，并用[Microsoft
 Outlook取代了](../Page/Microsoft_Outlook.md "wikilink")**Entourage**\[1\]。
 

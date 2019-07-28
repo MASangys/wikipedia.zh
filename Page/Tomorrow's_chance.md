@@ -1,5 +1,5 @@
 《**Tomorrow's
-chance**》為[茅原實里歌手活動再度展開後的第](../Page/茅原實里.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[Lantis／GloryHeaven製作](../Page/Lantis.md "wikilink")、發行，[Sony
+chance**》為[茅原實里](../Page/茅原實里.md "wikilink")歌手活動再度展開後的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[Lantis](../Page/Lantis.md "wikilink")／GloryHeaven製作、發行，[Sony
 Music
 Distribution發售](https://zh.wikipedia.org/wiki/Sony_Music_Distribution "wikilink")。
 

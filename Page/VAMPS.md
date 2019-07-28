@@ -7,7 +7,7 @@ ADDICT》。
 2008」，8月1日從[日本](../Page/日本.md "wikilink")「Zepp
 SENDAI」出發，在、、[福岡](../Page/福冈.md "wikilink")、、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[東京等六個城市各停留長達一周](../Page/东京.md "wikilink")，挑戰前所未有的連續46場現場演唱，並於10月28日在「Zepp
 TOKYO」公演終場之後舉辦兩天的萬聖節特別活動「NIGHTMARE OF HALLOWEEN」，邀請[Tommy
-heavenly6](../Page/川瀨智子.md "wikilink")、、、[BREAKERZ](../Page/BREAKERZ.md "wikilink")、[土屋安娜等搖滾明星以萬聖節特別裝扮參與演出](../Page/土屋安娜.md "wikilink")，活動的最後還出現神秘嘉賓——以軍裝之姿登場的[Gackt](../Page/GACKT.md "wikilink")，他與打扮成浴血新娘的HYDE共演在當時蔚為話題。
+heavenly6](../Page/川瀨智子.md "wikilink")、、、[BREAKERZ](../Page/BREAKERZ.md "wikilink")、[土屋安娜](../Page/土屋安娜.md "wikilink")等搖滾明星以萬聖節特別裝扮參與演出，活動的最後還出現神秘嘉賓——以軍裝之姿登場的[Gackt](../Page/GACKT.md "wikilink")，他與打扮成浴血新娘的HYDE共演在當時蔚為話題。
 
 2009年被HYDE稱為「VAMPS YEAR」，VAMPS除了推出單曲《I GOTTA KICK START
 NOW》、《EVANESCENT》及首張專輯《VAMPS》之外，也自5月起展開新的巡迴演唱「VAMPS LIVE

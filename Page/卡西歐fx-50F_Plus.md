@@ -8,12 +8,12 @@ Plus**是一款由[Casio於](https://zh.wikipedia.org/wiki/Casio "wikilink")2006
 fx-71F**。其外型與[fx-3650P相似](https://zh.wikipedia.org/wiki/Casio_fx-3650P "wikilink")，有一個可顯示兩行文字的[液晶螢幕](https://zh.wikipedia.org/wiki/液晶螢幕 "wikilink")。
 
 fx-50F
-Plus因不獲批准列入2007年及以後的[香港考試及評核局准用計算機名單](../Page/香港考試及評核局.md "wikilink")（List
+Plus因不獲批准列入2007年及以後的[香港考試及評核局](../Page/香港考試及評核局.md "wikilink")准用計算機名單（List
 of Approved Calculators），並未在香港推出。香港考評局的解釋是因為fx-50F
 Plus可以在螢幕上顯示內置的數學及科學公式，故不能批准用來參加考試。但在中國大陸的大型書店（例如[深圳書城](https://zh.wikipedia.org/wiki/深圳書城中心城 "wikilink")）可買到。為此Casio特地推出香港版fx-50FH。
 
 2013年，Casio推出新版的**fx-50F
-II**（日本稱為**fx-72F**），差別主要在於外型上的改變，以及改了隱乘的計算順序，同時自動產生括號減少錯誤的機會。例如，計算[6÷2(1+2)時](../Page/6÷2\(1+2\).md "wikilink")，計算機會將算式自動變為6÷(2(1+2))，並計出1；而舊版fx-50F
+II**（日本稱為**fx-72F**），差別主要在於外型上的改變，以及改了隱乘的計算順序，同時自動產生括號減少錯誤的機會。例如，計算[6÷2(1+2)](../Page/6÷2\(1+2\).md "wikilink")時，計算機會將算式自動變為6÷(2(1+2))，並計出1；而舊版fx-50F
 Plus上則會計出9。另外，fx-50F II的自我檢測程序和REG
 mode中總體標準差和樣本標準差的符號都有所更改。\[1\]此外，fx-50F
 II的運算速度也有所提升。香港版也提出了fx-50FH II，是fx-50F II的香港版。
@@ -32,7 +32,7 @@ II僅差別在無法顯示內置公式。
 ## 對象
 
 卡西歐fx-50F
-Plus主要供[中學生](https://zh.wikipedia.org/wiki/中學生 "wikilink")、[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、[物理研究生](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學研究生](../Page/化學.md "wikilink")、[生物學研究生](https://zh.wikipedia.org/wiki/生物學 "wikilink")、[會計](https://zh.wikipedia.org/wiki/會計 "wikilink")、[土木工程師等使用](https://zh.wikipedia.org/wiki/土木工程學 "wikilink")。
+Plus主要供[中學生](https://zh.wikipedia.org/wiki/中學生 "wikilink")、[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、[物理研究生](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")研究生、[生物學研究生](https://zh.wikipedia.org/wiki/生物學 "wikilink")、[會計](https://zh.wikipedia.org/wiki/會計 "wikilink")、[土木工程師等使用](https://zh.wikipedia.org/wiki/土木工程學 "wikilink")。
 
 ## 電源
 

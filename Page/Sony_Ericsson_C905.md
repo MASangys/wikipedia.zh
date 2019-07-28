@@ -17,11 +17,11 @@
     音樂播放、音樂編輯器／[MIDI](../Page/MIDI.md "wikilink")（音樂DJ）功能
   - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：160 MB
   - 記憶卡插槽：M2卡（可擴充記憶至8GB）
-  - 內置[FM收音機](../Page/FM.md "wikilink")
+  - 內置[FM](../Page/FM.md "wikilink")收音機
 
 ### 傳輸功能
 
-  - [藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")、[USB傳輸](../Page/USB.md "wikilink")
+  - [藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")、[USB](../Page/USB.md "wikilink")傳輸
   - 上網功能：GPRS Class 10（WAP
     2.0）、EDGE、WCDMA、HSDPA、Wi-Fi（因应中国大陆法律规定，大陆型号C905c无WCDMA和Wi-fi功能）、RSS
   - 多媒體訊息：MMS、EMS、SMS

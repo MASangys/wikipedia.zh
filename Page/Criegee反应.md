@@ -1,6 +1,6 @@
 **Criegee反应**（Criegee reaction）\[1\]
 
-[邻二醇被](https://zh.wikipedia.org/wiki/邻二醇 "wikilink")[四乙酸铅](../Page/四乙酸铅.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")，经过环状[酯中间体](../Page/酯.md "wikilink")，邻二醇的碳－碳键断裂，[醇](../Page/醇.md "wikilink")[羟基转化为相应的](../Page/羟基.md "wikilink")[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")。反应是定量的，通常在[乙酸或](../Page/乙酸.md "wikilink")[苯溶液中进行](../Page/苯.md "wikilink")，可用于邻二醇的定量分析。
+[邻二醇被](https://zh.wikipedia.org/wiki/邻二醇 "wikilink")[四乙酸铅](../Page/四乙酸铅.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")，经过环状[酯](../Page/酯.md "wikilink")中间体，邻二醇的碳－碳键断裂，[醇](../Page/醇.md "wikilink")[羟基](../Page/羟基.md "wikilink")转化为相应的[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")。反应是定量的，通常在[乙酸](../Page/乙酸.md "wikilink")或[苯](../Page/苯.md "wikilink")溶液中进行，可用于邻二醇的定量分析。
 
 反应综述：\[2\]\[3\]\[4\]\[5\]
 
@@ -8,7 +8,7 @@
 
 ## 参见
 
-  - [Malaprade反应](https://zh.wikipedia.org/wiki/Malaprade反应 "wikilink")（[高碘酸氧化](../Page/高碘酸.md "wikilink")）
+  - [Malaprade反应](https://zh.wikipedia.org/wiki/Malaprade反应 "wikilink")（[高碘酸](../Page/高碘酸.md "wikilink")氧化）
   - [Criegee重排反应](https://zh.wikipedia.org/wiki/Criegee重排反应 "wikilink")、[Criegee机理](https://zh.wikipedia.org/wiki/Criegee机理 "wikilink")、[Criegee中间体](https://zh.wikipedia.org/wiki/Criegee中间体 "wikilink")
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
 

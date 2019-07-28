@@ -1,6 +1,6 @@
 [Soyuz_TMA-5_launch.jpg](https://zh.wikipedia.org/wiki/File:Soyuz_TMA-5_launch.jpg "fig:Soyuz_TMA-5_launch.jpg")
 **联盟TMA-5**（)
-是[俄罗斯发射](../Page/俄罗斯.md "wikilink")[联盟号宇宙飞船](../Page/联盟号宇宙飞船.md "wikilink")，于2004年10月14日3:06点火升空，前往[国际太空站](https://zh.wikipedia.org/wiki/国际太空站 "wikilink")。
+是[俄罗斯](../Page/俄罗斯.md "wikilink")发射[联盟号宇宙飞船](../Page/联盟号宇宙飞船.md "wikilink")，于2004年10月14日3:06点火升空，前往[国际太空站](https://zh.wikipedia.org/wiki/国际太空站 "wikilink")。
 
 ## 任务成员
 
@@ -21,9 +21,9 @@
 
 ## 任务亮点
 
-联盟TMA-5于2004年10月14日在[拜科努尔航天发射场升空](../Page/拜科努尔航天发射场.md "wikilink")，原定于10月9日发射。在发射前的测试中，一个火焰结构件发生松动而推迟。隐患在正式发射前排除。
+联盟TMA-5于2004年10月14日在[拜科努尔航天发射场](../Page/拜科努尔航天发射场.md "wikilink")升空，原定于10月9日发射。在发射前的测试中，一个火焰结构件发生松动而推迟。隐患在正式发射前排除。
 
-国际空间站第10长期考察组成员[萨力江·沙里波夫和](https://zh.wikipedia.org/wiki/萨力江·沙里波夫 "wikilink")[焦立中前往国际空间站替换第](../Page/焦立中.md "wikilink")9期长期考察组成员[根纳季·帕达尔卡](https://zh.wikipedia.org/wiki/根纳季·帕达尔卡 "wikilink")（Gennady
+国际空间站第10长期考察组成员[萨力江·沙里波夫和](https://zh.wikipedia.org/wiki/萨力江·沙里波夫 "wikilink")[焦立中](../Page/焦立中.md "wikilink")前往国际空间站替换第9期长期考察组成员[根纳季·帕达尔卡](https://zh.wikipedia.org/wiki/根纳季·帕达尔卡 "wikilink")（Gennady
 Padalka）和[迈克尔·芬克](https://zh.wikipedia.org/wiki/迈克尔·芬克 "wikilink")（Michael
 Fincke）。
 

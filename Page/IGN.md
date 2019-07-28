@@ -20,7 +20,7 @@ Murdoch的多媒體交易大企業[新聞集團收購](https://zh.wikipedia.org/
 
 IGN於2008年1月12日慶祝10周年\[2\]。
 
-2016年5月，IGN宣布收购早前已关站的老牌游戏网站[GameTrailers的全部内容和商标](../Page/GameTrailers.md "wikilink")\[3\]。
+2016年5月，IGN宣布收购早前已关站的老牌游戏网站[GameTrailers](../Page/GameTrailers.md "wikilink")的全部内容和商标\[3\]。
 
 2017年2月，IGN上线了针对中国大陆的IGN中国版，由北京岸基恩娱乐科技有限公司负责运营\[4\]。这是IGN继IGN东南亚（IGN
 SEA）之后再次推出中文服务。
@@ -145,7 +145,7 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 
   - [官方网站](http://www.ign.com/?setccpref=US)
   - [IGN中国版](http://www.ign.xn--fiqs8s/)
-  - 在[YouTube上的](../Page/YouTube.md "wikilink")[IGN
+  - 在[YouTube](../Page/YouTube.md "wikilink")上的[IGN
     Channel](http://www.youtube.com/user/IGNentertainment)
   - [Origins: The History of
     IGN](http://retro.ign.com/articles/845/845097p1.html)

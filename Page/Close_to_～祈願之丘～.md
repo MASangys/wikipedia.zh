@@ -1,13 +1,13 @@
 《**Close to
-～祈願之丘～**》（）是[日本](../Page/日本.md "wikilink")[KID在](../Page/KID.md "wikilink")[Dreamcast平台發售的](../Page/Dreamcast.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。
+～祈願之丘～**》（）是[日本](../Page/日本.md "wikilink")[KID](../Page/KID.md "wikilink")在[Dreamcast](../Page/Dreamcast.md "wikilink")平台發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。
 
 ## 概要
 
 《**Close to
-〜祈願之丘〜**》於2001年4月19日發售[Dreamcast版](../Page/Dreamcast.md "wikilink")。\[1\]而[KID在](../Page/KID.md "wikilink")2003年7月24日在[PlayStation
+〜祈願之丘〜**》於2001年4月19日發售[Dreamcast](../Page/Dreamcast.md "wikilink")版。\[1\]而[KID](../Page/KID.md "wikilink")在2003年7月24日在[PlayStation
 2平台](../Page/PlayStation_2.md "wikilink")，以《**-{zh:思念的碎片;zh-cn:思念的碎片;zh-tw:思念百分百}-
 -Close
-to-**》（）的標題發行\[2\]，主要新增劇情以及修正圖片。繁體中文版由[英特衛多媒體代理](../Page/英特衛多媒體.md "wikilink")，以[Microsoft
+to-**》（）的標題發行\[2\]，主要新增劇情以及修正圖片。繁體中文版由[英特衛多媒體](../Page/英特衛多媒體.md "wikilink")代理，以[Microsoft
 Windows為平台於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2008年10月10日發售\[3\]。简体中文版由[北京娱乐通代理](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")，使用[Mullen游戏引擎](https://zh.wikipedia.org/wiki/Mullen游戏引擎 "wikilink")，定名《**思念的碎片：Close
 to**》。
 

@@ -1,5 +1,5 @@
 **This Is
-It**是已故流行音乐歌手[迈克尔·杰克逊的一张预定于](../Page/迈克尔·杰克逊.md "wikilink")2009年10月26日全球发行的遗作[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，其中除近期发行的“[This
+It**是已故流行音乐歌手[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的一张预定于2009年10月26日全球发行的遗作[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，其中除近期发行的“[This
 Is
 It](../Page/This_Is_It_\(迈克尔·杰克逊单曲\).md "wikilink")”单曲以外都是杰克逊已发行的著名歌曲。专辑与杰克逊预定在伦敦举办但因逝世而取消的《[This
 Is

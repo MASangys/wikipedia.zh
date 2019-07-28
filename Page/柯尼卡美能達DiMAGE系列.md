@@ -1,9 +1,9 @@
 [Komidimagea2.jpg](https://zh.wikipedia.org/wiki/File:Komidimagea2.jpg "fig:Komidimagea2.jpg")
 
-**柯尼卡美能达DiMAGE**是[柯尼卡美能达公司旗下的小型](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")[数码相机系列](../Page/数码相机.md "wikilink")、胶片扫描仪与相应软件品牌。
+**柯尼卡美能达DiMAGE**是[柯尼卡美能达公司旗下的小型](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")[数码相机](../Page/数码相机.md "wikilink")系列、胶片扫描仪与相应软件品牌。
 
 DiMAGE品牌原属[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，自1996年美能达推出第一款数码相机「DiMAGE
-V」起，美能达的小型数码相机便使用DiMAGE标识。直到[2003年8月](../Page/2003年8月.md "wikilink")，美能达与在胶卷与感光技术方面闻名的[柯尼卡合并](../Page/柯尼卡.md "wikilink")，DiMAGE品牌也成为新公司[柯尼卡美能达所生产的小型数码相机的牌子](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")。
+V」起，美能达的小型数码相机便使用DiMAGE标识。直到[2003年8月](../Page/2003年8月.md "wikilink")，美能达与在胶卷与感光技术方面闻名的[柯尼卡](../Page/柯尼卡.md "wikilink")合并，DiMAGE品牌也成为新公司[柯尼卡美能达所生产的小型数码相机的牌子](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")。
 
 2006年1月19日，柯尼卡美能达正式宣布退出照相机及摄影事业，DiMAGE品牌数码相机寿终正寝，市面上的DiMAGE相机技术与维修移交给[索尼](../Page/索尼.md "wikilink")。
 
@@ -101,7 +101,7 @@ Dimage品牌被用在数码相机、扫描仪和软件三类产品。
   - [美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")／[柯尼卡美能达](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")
       - [Minolta
         AF美能达自己的](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")135可换镜头单反系统
-      - [美能达Vectis美能达的APS相机系列](../Page/美能达Vectis.md "wikilink")
+      - [美能达Vectis](../Page/美能达Vectis.md "wikilink")美能达的APS相机系列
       - **DiMAGE**
   - [数码相机](../Page/数码相机.md "wikilink")
 

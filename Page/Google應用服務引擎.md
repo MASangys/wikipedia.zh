@@ -1,10 +1,10 @@
 **Google App
-Engine**是一个开发、托管[网络应用程序的平台](../Page/网络应用程序.md "wikilink")，使用[Google管理的数据中心](../Page/Google.md "wikilink")。它在2008年4月发布了第一个[beta版本](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")。
+Engine**是一个开发、托管[网络应用程序](../Page/网络应用程序.md "wikilink")的平台，使用[Google](../Page/Google.md "wikilink")管理的数据中心。它在2008年4月发布了第一个[beta版本](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")。
 
 Google App
 Engine使用了[云计算技术](https://zh.wikipedia.org/wiki/云计算 "wikilink")。它跨越多个服务器和数据中心来虚拟化应用程序。\[1\]
 其他基于云的平台还有[Amazon Web
-Services和](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[微软的](../Page/微软.md "wikilink")[Azure服务平台等](https://zh.wikipedia.org/wiki/Azure服务平台 "wikilink")。
+Services和](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[微软](../Page/微软.md "wikilink")的[Azure服务平台等](https://zh.wikipedia.org/wiki/Azure服务平台 "wikilink")。
 
 Google App
 Engine在用户使用一定的资源时是免费的。支付额外的费用可以获得应用程序所需的更多的存储空间、带宽或是CPU负载。\[2\]
@@ -12,7 +12,7 @@ Engine在用户使用一定的资源时是免费的。支付额外的费用可�
 ## 支持的编程语言和框架
 
 当前，Google App
-Engine支持的[编程语言是](../Page/编程语言.md "wikilink")[Python](../Page/Python.md "wikilink")、[Java](../Page/Java.md "wikilink")、[PHP和](../Page/PHP.md "wikilink")[Go](../Page/Go.md "wikilink")（通过扩展，可以支持其他[JVM语言](https://zh.wikipedia.org/wiki/JVM语言 "wikilink")，诸如[Groovy](../Page/Groovy.md "wikilink")、[JRuby](../Page/JRuby.md "wikilink")、[Scala和](../Page/Scala.md "wikilink")[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")）。支持[Django](../Page/Django.md "wikilink")、[WebOb](https://zh.wikipedia.org/wiki/WebOb "wikilink")、[PyYAML的有限版本](https://zh.wikipedia.org/wiki/PyYAML "wikilink")。Google说它准备在未来支持更多的语言，Google
+Engine支持的[编程语言](../Page/编程语言.md "wikilink")是[Python](../Page/Python.md "wikilink")、[Java](../Page/Java.md "wikilink")、[PHP](../Page/PHP.md "wikilink")和[Go](../Page/Go.md "wikilink")（通过扩展，可以支持其他[JVM语言](https://zh.wikipedia.org/wiki/JVM语言 "wikilink")，诸如[Groovy](../Page/Groovy.md "wikilink")、[JRuby](../Page/JRuby.md "wikilink")、[Scala](../Page/Scala.md "wikilink")和[Clojure](../Page/Clojure.md "wikilink")）。支持[Django](../Page/Django.md "wikilink")、[WebOb](https://zh.wikipedia.org/wiki/WebOb "wikilink")、[PyYAML的有限版本](https://zh.wikipedia.org/wiki/PyYAML "wikilink")。Google说它准备在未来支持更多的语言，Google
 App
 Engine也将会独立于某种语言。任何支持[WSGI的使用CGI的Python框架可以使用](https://zh.wikipedia.org/wiki/WSGI "wikilink")。框架可以与开发出的应用程序一同上传，也可以上传使用Python编写的第三方库。\[3\]\[4\]
 
@@ -25,7 +25,7 @@ App
 Engine的基础服務省卻了许多系统管理的操作，以便将规模扩大到数以百万计的访问。Google负责处理一组代码，可以监测、容错，在必要的时候还会开发一些应用实例。
 
 有些应用程序托管服务让用户安装、配置几乎所有[\*NIX兼容的软件](https://zh.wikipedia.org/wiki/*NIX "wikilink")，而App
-Engine則要求开发者使用[Python或](../Page/Python.md "wikilink")[Java语言來编程](../Page/Java.md "wikilink")，而且只能使用一套限定的[API](https://zh.wikipedia.org/wiki/API "wikilink")。当前的API允许程序於一个[BigTable非关系数据库上存储和检索数据](https://zh.wikipedia.org/wiki/BigTable "wikilink")、提出HTTP请求、发送E-mail、处理图像、还有[缓存](../Page/缓存.md "wikilink")。大多数现存的Web应用程序，若未经修改，均不能直接在App
+Engine則要求开发者使用[Python](../Page/Python.md "wikilink")或[Java](../Page/Java.md "wikilink")语言來编程，而且只能使用一套限定的[API](https://zh.wikipedia.org/wiki/API "wikilink")。当前的API允许程序於一个[BigTable非关系数据库上存储和检索数据](https://zh.wikipedia.org/wiki/BigTable "wikilink")、提出HTTP请求、发送E-mail、处理图像、还有[缓存](../Page/缓存.md "wikilink")。大多数现存的Web应用程序，若未经修改，均不能直接在App
 Engine上运行，因为它们需要使用[关系数据库](../Page/关系数据库.md "wikilink")。
 
 带宽和CPU的使用、送达请求的数量、并发请求的数量、以及调用各种API的次数，皆設有每天和每分钟的限额。个别的请求，如果需時超过30秒或返回超过10MB的数据，都会被终止。
@@ -36,7 +36,7 @@ Google App
 Engine的Datastore使用一个与SQL类似的语言，叫做“GQL”。在GQL中，[SELECT语句仅可以用于一个表](https://zh.wikipedia.org/wiki/SELECT "wikilink")。因为要跨越不只一台机器，
 GQL不支持效率很低的[JOIN语句](https://zh.wikipedia.org/wiki/JOIN "wikilink")\[5\]。欲建立一对多和多对多的关系，可使用ReferenceProperty()\[6\]。採用这种无共享的方式，即使磁盘坏了，系统也不致瘫痪\[7\]。
 
-在GQL中，[SELECT语句中的](https://zh.wikipedia.org/wiki/SELECT "wikilink")[WHERE从句只容許对仅仅一列进行](https://zh.wikipedia.org/wiki/WHERE "wikilink")\>、\>=、\<或\<=比較。所以，仅仅可以构造简单的WHERE从句。在数据建模时，要从[关系数据库转换到Datastore](../Page/关系数据库.md "wikilink")，开发者需要转变观念。
+在GQL中，[SELECT语句中的](https://zh.wikipedia.org/wiki/SELECT "wikilink")[WHERE从句只容許对仅仅一列进行](https://zh.wikipedia.org/wiki/WHERE "wikilink")\>、\>=、\<或\<=比較。所以，仅仅可以构造简单的WHERE从句。在数据建模时，要从[关系数据库](../Page/关系数据库.md "wikilink")转换到Datastore，开发者需要转变观念。
 
 App
 Engine限制每次Datastore请求最多返回1000行数据。大多数Web应用程序，都不會受此影响，因为它們通常并不会在一张页面上列出超過1000条记录（可以用分页和缓存机制），只要按顺序返回结果就可以了。若有应用程序需要在一次操作中返回更多的记录，則需自行使用客户端软件或者[Ajax页面](https://zh.wikipedia.org/wiki/Ajax "wikilink")，按查询顺序提取更多條記錄。
@@ -99,14 +99,14 @@ Services](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")（一个
 Masnick写到](https://zh.wikipedia.org/wiki/Mike_Masnick "wikilink")，“Google终于了解到它需要覇佔网络平台這個地位。我們可以期待，开发及落實易於扩展的网络应用程式會變得越來越容易，而应用程式也會越來越具创意。”\[17\]
 
 此外，[红帽公司的](https://zh.wikipedia.org/wiki/红帽公司 "wikilink")
-[openshift](https://zh.wikipedia.org/wiki/openshift "wikilink")、[微软的](../Page/微软.md "wikilink")[Azure服务平台以及](https://zh.wikipedia.org/wiki/Windows_Azure "wikilink")
+[openshift](https://zh.wikipedia.org/wiki/openshift "wikilink")、[微软](../Page/微软.md "wikilink")的[Azure服务平台以及](https://zh.wikipedia.org/wiki/Windows_Azure "wikilink")
 [Koding](https://zh.wikipedia.org/wiki/Koding "wikilink") 也是Google App
 Engine的競爭對手。
 
 ## 中華人民共和国封锁
 
 由于Google App
-Engine允许用户托管网络应用程序，且服务器不在[中華人民共和国境内](https://zh.wikipedia.org/wiki/中華人民共和国 "wikilink")，故有部分用户利用其搭建代理（如[GoAgent](../Page/GoAgent.md "wikilink")）用于突破[防火长城的](../Page/防火长城.md "wikilink")[审查](https://zh.wikipedia.org/wiki/破网 "wikilink")\[18\]，故Google
+Engine允许用户托管网络应用程序，且服务器不在[中華人民共和国境内](https://zh.wikipedia.org/wiki/中華人民共和国 "wikilink")，故有部分用户利用其搭建代理（如[GoAgent](../Page/GoAgent.md "wikilink")）用于突破[防火长城](../Page/防火长城.md "wikilink")的[审查](https://zh.wikipedia.org/wiki/破网 "wikilink")\[18\]，故Google
 App Engine的域名 \*.appspot.com
 的[SSL加密连接长期遭到防火长城的封锁](https://zh.wikipedia.org/wiki/SSL "wikilink")。
 
@@ -114,11 +114,11 @@ App Engine的域名 \*.appspot.com
     遭到防火长城的关键词过滤封锁。由于先前Google App
     Engine的[SSL连接已经被封](https://zh.wikipedia.org/wiki/SSL "wikilink")，故中華人民共和国境内的用户无法正常连接与使用。此次Google
     App
-    Engine被封锁适逢[2010年诺贝尔和平奖颁奖典礼](../Page/2010年诺贝尔和平奖.md "wikilink")。appspot.com非加密连接於2010年12月23日解封。
+    Engine被封锁适逢[2010年诺贝尔和平奖](../Page/2010年诺贝尔和平奖.md "wikilink")颁奖典礼。appspot.com非加密连接於2010年12月23日解封。
 
 <!-- end list -->
 
-  - 2011年3月[两会召开前夕](../Page/两会.md "wikilink")，appspot.com
+  - 2011年3月[两会](../Page/两会.md "wikilink")召开前夕，appspot.com
     再次遭到防火长城的关键词过滤封锁及[域名污染](https://zh.wikipedia.org/wiki/域名污染 "wikilink")，同时部分服务器的IP地址亦遭到彻底屏蔽，甚至两会结束后至今亦没有解封。
 
 <!-- end list -->

@@ -1,5 +1,5 @@
 **Windows Server 2008
-R2**是[微软的一个](../Page/微软.md "wikilink")[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。在2009年10月22日发布，2009年9月14日发售。所使用的内核为[Windows
+R2**是[微软](../Page/微软.md "wikilink")的一个[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。在2009年10月22日发布，2009年9月14日发售。所使用的内核为[Windows
 NT](../Page/Windows_NT.md "wikilink") 6.1，使用同样内核的还有[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。这是微软第一个**仅支援64位元的操作系统**，也是該公司最後一款支援[Itanium的作業系統](https://zh.wikipedia.org/wiki/Itanium "wikilink")。
 

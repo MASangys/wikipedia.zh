@@ -1,4 +1,4 @@
-**Windows通訊基礎**（）是由微軟發展的一組資料通訊的應用程式開發介面，它是[.NET框架的一部分](../Page/.NET框架.md "wikilink")，由.NET
+**Windows通訊基礎**（）是由微軟發展的一組資料通訊的應用程式開發介面，它是[.NET框架](../Page/.NET框架.md "wikilink")的一部分，由.NET
 Framework 3.0开始引入，與[Windows Presentation
 Foundation及](../Page/Windows_Presentation_Foundation.md "wikilink")
 [Windows Workflow

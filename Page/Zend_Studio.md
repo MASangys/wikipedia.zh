@@ -1,15 +1,15 @@
 **Zend Studio**是[Zend
-Technologies开发的](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")[PHP语言集成开发环境](../Page/PHP.md "wikilink")（Integrated
+Technologies开发的](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")[PHP](../Page/PHP.md "wikilink")语言集成开发环境（Integrated
 Development
 Environment　[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink"))。也支持HTML和js标签，但只对PHP语言提供调试支持。因为是同一个公司的产品，所以提供的[Zend
 Framework方面的支持比其他软件好](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink")。**Zend
-Studio**5.5系列后，官方推出利用了[Eclipse平台](../Page/Eclipse.md "wikilink")，基于PDT的**Zend
+Studio**5.5系列后，官方推出利用了[Eclipse](../Page/Eclipse.md "wikilink")平台，基于PDT的**Zend
 Studio for Eclipse
 6.0**，之后的版本也都构建于[Eclipse](../Page/Eclipse.md "wikilink")。
 
 ## 功能特点
 
-**Zend Studio**包含所有PHP开发部件，整合了[PHP开发过程中所有工具](../Page/PHP.md "wikilink")。
+**Zend Studio**包含所有PHP开发部件，整合了[PHP](../Page/PHP.md "wikilink")开发过程中所有工具。
 
 ### 编辑开发
 
@@ -32,7 +32,7 @@ Studio for Eclipse
 ## 发行及反响
 
 **Zend Studio**通常会发布标准版，企业版和专业版，个人用户通常会选择专业版。 毫无疑问，**Zend
-Studio**是目前市面上最优秀的[PHP语言](../Page/PHP.md "wikilink")[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，**Zend
+Studio**是目前市面上最优秀的[PHP](../Page/PHP.md "wikilink")语言[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，**Zend
 Studio 4.0**开始被应用于一些重大项目（如NASA的工程）\[1\]，**Zend Studio
 5.0**发布后，下载量很快突破100000。在国内，**Zend Studio
 5.5**系列和**Zend Studio for Eclipse
@@ -65,7 +65,7 @@ Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原�
 | **7.0**    | 7.0.1            | 2009年5月26日                                                      | 支持PHP5.3                                                                                                                                                                                                                                 |
 | 7.1.0      | 2009年11月26日      | 支持PHP5.3                                                        |                                                                                                                                                                                                                                          |
 | **8.0**    | 8.0              | 2010年7月                                                         | 支持[Javascript和一些JS框架](https://zh.wikipedia.org/wiki/Javascript "wikilink")                                                                                                                                                               |
-| **9.0**    | 9.0              | 2011年11月                                                        | 支持[Git和](../Page/Git.md "wikilink")[GitHub](../Page/GitHub.md "wikilink")，云部署                                                                                                                                                            |
+| **9.0**    | 9.0              | 2011年11月                                                        | 支持[Git](../Page/Git.md "wikilink")和[GitHub](../Page/GitHub.md "wikilink")，云部署                                                                                                                                                            |
 | 9.0.1      | 2011年12月         | Zend Framework Tool                                             |                                                                                                                                                                                                                                          |
 | 9.0.2      | 2012年3月          | 支持PHP5.4                                                        |                                                                                                                                                                                                                                          |
 | 9.0.3      | 2012年7月          | 云开发环境改进                                                         |                                                                                                                                                                                                                                          |

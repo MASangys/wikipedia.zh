@@ -1,12 +1,12 @@
 《**Tick\!
-Tack\!**》是由[Navel在](../Page/Navel.md "wikilink")2005年9月16日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的第一部衍生作品，後來改編成漫畫和小說。Logo图是从[怀表正中发射出的二个箭头](../Page/怀表.md "wikilink")，分别写着Tick和Tack，暗示着本作是跟时间有关。
+Tack\!**》是由[Navel](../Page/Navel.md "wikilink")在2005年9月16日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的第一部衍生作品，後來改編成漫畫和小說。Logo图是从[怀表](../Page/怀表.md "wikilink")正中发射出的二个箭头，分别写着Tick和Tack，暗示着本作是跟时间有关。
 
 ## 概要
 
 原本是要做成[Fan
 disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，但由于內容膨大到和獨立企劃作品相當而變成以独立作品的形式上市。製作上继承了SHUFFLE\!的架構，並追加了新的登场人物。
 
-故事舞台是聶琳涅结局一年后，一行人穿越时空到達的20年前魔界，內容揭露了魔王弗貝西的妻子和家族成员的故事。因『SHUFFLE\!』的另一位腳色設計兼原画的[西又葵沒有參與製作](../Page/西又葵.md "wikilink")，故本作以[鈴平裕笔下的人物为中心](../Page/鈴平裕.md "wikilink")，登场人物比SHUFFLE\!要少。
+故事舞台是聶琳涅结局一年后，一行人穿越时空到達的20年前魔界，內容揭露了魔王弗貝西的妻子和家族成员的故事。因『SHUFFLE\!』的另一位腳色設計兼原画的[西又葵](../Page/西又葵.md "wikilink")沒有參與製作，故本作以[鈴平裕](../Page/鈴平裕.md "wikilink")笔下的人物为中心，登场人物比SHUFFLE\!要少。
 2005年9月16日发售了Limited Edition版\[1\]，10月21日发售了Standard
 Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個版本的遊戲內容均相同。
 
@@ -25,7 +25,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 
 ## 登场人物
 
-本作也採用和『SHUFFLE\!』同样的手法，以[植物和](../Page/植物.md "wikilink")[花的](../Page/花.md "wikilink")[花语作为名字和性格的设定](../Page/花语.md "wikilink")。
+本作也採用和『SHUFFLE\!』同样的手法，以[植物](../Page/植物.md "wikilink")和[花](../Page/花.md "wikilink")的[花语](../Page/花语.md "wikilink")作为名字和性格的设定。
 
 ### 主要人物
 
@@ -96,7 +96,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
   - 制造合作：[Lantis](../Page/Lantis.md "wikilink")
   - 导演：まさ
   - 营业·宣传：AlAi、みずのまみ
-  - 特别感謝：FlyingShine、[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(公司\) "wikilink")、[MOONSTONE等等](../Page/MOONSTONE.md "wikilink")
+  - 特别感謝：FlyingShine、[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(公司\) "wikilink")、[MOONSTONE](../Page/MOONSTONE.md "wikilink")等等
 
 ## 相关商品
 
@@ -143,7 +143,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 <!-- end list -->
 
   -
-    [角川書店刊](../Page/角川書店.md "wikilink") \<ISBN 4-04-707215-X\>
+    [角川書店](../Page/角川書店.md "wikilink")刊 \<ISBN 4-04-707215-X\>
     著作：工藤治 封面挿畫：鈴平裕 挿畫：日下皓
     故事壓縮在一本完結，對聶琳涅的變化描寫不多，並刪減了賽涅琳雅的戲份。
 
@@ -154,7 +154,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 <!-- end list -->
 
   -
-    [MediaWorks刊](../Page/MediaWorks.md "wikilink") \<ISBN
+    [MediaWorks](../Page/MediaWorks.md "wikilink")刊 \<ISBN
     4-8402-3474-4\>
 
 ## 評價

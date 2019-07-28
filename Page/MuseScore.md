@@ -1,5 +1,5 @@
-**MuseScore**（中文有时译作：**繆斯樂譜**或**謬斯樂譜**）是一個用於[Linux](../Page/Linux.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[macOS的乐谱编辑软件](https://zh.wikipedia.org/wiki/macOS "wikilink")。MuseScore是一個所見即所得的編輯器，完全支持樂譜播放和导入或导出[MusicXML和标准的](../Page/MusicXML.md "wikilink")[MIDI文件](../Page/MIDI.md "wikilink")。打擊樂符號支持，是直接從程序印出。Linux
-版本用[Kubuntu為發展平台](../Page/Kubuntu.md "wikilink")。
+**MuseScore**（中文有时译作：**繆斯樂譜**或**謬斯樂譜**）是一個用於[Linux](../Page/Linux.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[macOS的乐谱编辑软件](https://zh.wikipedia.org/wiki/macOS "wikilink")。MuseScore是一個所見即所得的編輯器，完全支持樂譜播放和导入或导出[MusicXML](../Page/MusicXML.md "wikilink")和标准的[MIDI](../Page/MIDI.md "wikilink")文件。打擊樂符號支持，是直接從程序印出。Linux
+版本用[Kubuntu](../Page/Kubuntu.md "wikilink")為發展平台。
 
 該程序有一個乾淨的用戶界面，快速專注於編輯輸入類似step-time note entry。
 
@@ -221,13 +221,6 @@
     March 24th, 2008](http://linux.about.com/b/2008/03/24/write-beautiful-music-scores-with-musescore.htm)
   - [Dave Phillips: Music Notation Programs: Recent Releases,
     Feb 25th, 2008](http://www.linuxjournal.com/content/music-notation-programs-recent-releases)
-
-### 參與中文翻譯
-
-  - [MuseScore
-    翻譯計劃首頁](https://web.archive.org/web/20140303154602/https://www.transifex.com/projects/p/musescore/language/zh_TW/)→MuseScore
-    官方使用 [Transifex](../Page/Transifex.md "wikilink")
-    翻譯平台（[相關說明](http://chakra-zh.blogspot.tw/2012/11/chakra.html)）
 
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")

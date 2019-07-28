@@ -85,7 +85,7 @@ Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「
 
 ## 媒體播放
 
-於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣網上直播及重溫](https://zh.wikipedia.org/wiki/台灣 "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣網上直播及重溫](https://zh.wikipedia.org/wiki/台灣 "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")內。
 
 ## 外部連結
 

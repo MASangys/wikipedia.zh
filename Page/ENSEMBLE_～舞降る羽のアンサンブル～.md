@@ -24,7 +24,7 @@ FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.
   -
     淳的同級生。
   -
-    若葉的同級生，之後轉校到[北海道](../Page/北海道.md "wikilink")。多少有些[同性戀的嗜好](../Page/同性戀.md "wikilink")。
+    若葉的同級生，之後轉校到[北海道](../Page/北海道.md "wikilink")。多少有些[同性戀](../Page/同性戀.md "wikilink")的嗜好。
   -
     一家[旅店的女店主](https://zh.wikipedia.org/wiki/旅店 "wikilink")。淳和文緒先在那兒打工過。
   -

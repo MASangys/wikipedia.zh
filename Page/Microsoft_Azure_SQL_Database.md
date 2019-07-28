@@ -70,7 +70,7 @@ Azure 的帳戶都可以建立一台 SQL Database Server，就像在本地的 SQ
     Server 可以有多個使用者資料庫。
 
 用戶端只要可以支援 TDS (Tabular Data Stream) over SSL，即可連線與存取 SQL Database Server
-的資料庫資源，這表示像[ODBC](../Page/ODBC.md "wikilink")、[ADO.NET或](../Page/ADO.NET.md "wikilink")[JDBC的](https://zh.wikipedia.org/wiki/JDBC "wikilink")
+的資料庫資源，這表示像[ODBC](../Page/ODBC.md "wikilink")、[ADO.NET](../Page/ADO.NET.md "wikilink")或[JDBC的](https://zh.wikipedia.org/wiki/JDBC "wikilink")
 SQL Server 最新版驅動程式或SQL Native Client Library都可以連接到SQL Database Server。
 
 ## Transact-SQL的支援
@@ -156,7 +156,7 @@ Server的帳戶與安全控制會有下列限制\[6\]：
   - 只要是登入伺服器，一律以master為預設資料庫，US-English為預設的登入語系。
   - 若要執行`CREATE/ALTER/DROP LOGIN`或`CREATE/DROP
     DATABASE`，必須要先連至master資料庫。
-  - 當要在[ADO.NET執行前述指令時](../Page/ADO.NET.md "wikilink")，不可以使用參數化命令，而且前述命令於每個SQL批次也只能有一個（且是唯一的一個）。
+  - 當要在[ADO.NET](../Page/ADO.NET.md "wikilink")執行前述指令時，不可以使用參數化命令，而且前述命令於每個SQL批次也只能有一個（且是唯一的一個）。
   - 當要執行`CREATE USER`配合`FOR/FROM LOGIN`選項時，它也必須是SQL批次中唯一的一個。
   - 當要執行`ALTER USER`配合`WITH LOGIN`選項時，它也必須是SQL批次中唯一的一個。
   - 只有伺服器級主帳戶以及被賦與`dbmanager`角色的成員才有執行`CREATE DATABASE`與`DROP

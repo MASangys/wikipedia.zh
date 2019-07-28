@@ -2,13 +2,13 @@
 rearrangement），以 Paul Ernst Moritz Fritsch (1859–1913), Wilhelm Paul
 Buttenberg, Heinrich G. Wiechell 的名字命名。
 
-1,1-二[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")-2-[溴代](https://zh.wikipedia.org/wiki/溴代 "wikilink")[烯烃在](../Page/烯烃.md "wikilink")[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[醇盐](../Page/醇盐.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")1,2-二芳基[炔](https://zh.wikipedia.org/wiki/炔 "wikilink")。\[1\]\[2\]\[3\]
+1,1-二[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")-2-[溴代](https://zh.wikipedia.org/wiki/溴代 "wikilink")[烯烃](../Page/烯烃.md "wikilink")在[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[醇盐](../Page/醇盐.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")1,2-二芳基[炔](https://zh.wikipedia.org/wiki/炔 "wikilink")。\[1\]\[2\]\[3\]
 \[4\]
 
 
 [Fritsch-Buttenberg-Wiechell_Rearrangement_Scheme.svg](https://zh.wikipedia.org/wiki/File:Fritsch-Buttenberg-Wiechell_Rearrangement_Scheme.svg "fig:Fritsch-Buttenberg-Wiechell_Rearrangement_Scheme.svg")
 
-某些[烷基取代的烯烃也可发生重排](../Page/烷基.md "wikilink")。\[5\]
+某些[烷基](../Page/烷基.md "wikilink")取代的烯烃也可发生重排。\[5\]
 
 ## 反应机理
 
@@ -16,7 +16,7 @@ Buttenberg, Heinrich G. Wiechell 的名字命名。
 
 ## 应用
 
-利用此反应合成[多炔](https://zh.wikipedia.org/wiki/多炔 "wikilink")：\[6\]（[炔化物中间体被](https://zh.wikipedia.org/wiki/炔化物 "wikilink")[亲电试剂](https://zh.wikipedia.org/wiki/亲电试剂 "wikilink")[碘甲烷捕获](../Page/碘甲烷.md "wikilink")。产物为[鬼针草中存在的天然产物](../Page/鬼针草.md "wikilink")）
+利用此反应合成[多炔](https://zh.wikipedia.org/wiki/多炔 "wikilink")：\[6\]（[炔化物中间体被](https://zh.wikipedia.org/wiki/炔化物 "wikilink")[亲电试剂](https://zh.wikipedia.org/wiki/亲电试剂 "wikilink")[碘甲烷](../Page/碘甲烷.md "wikilink")捕获。产物为[鬼针草](../Page/鬼针草.md "wikilink")中存在的天然产物）
 
 
 [Fritsch-Buttenberg-WiechellrearrangementApplication.svg](https://zh.wikipedia.org/wiki/File:Fritsch-Buttenberg-WiechellrearrangementApplication.svg "fig:Fritsch-Buttenberg-WiechellrearrangementApplication.svg")

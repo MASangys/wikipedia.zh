@@ -1,4 +1,4 @@
-**MusicXML**（，**音乐扩展标记语言**）是一个开放的基于[XML的记录西式](../Page/XML.md "wikilink")[乐谱的](https://zh.wikipedia.org/wiki/乐谱 "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。该格式是完全自由、开放记录的，并依据W3C社区的许可协议自由使用。\[1\]\[2\]
+**MusicXML**（，**音乐扩展标记语言**）是一个开放的基于[XML](../Page/XML.md "wikilink")的记录西式[乐谱的](https://zh.wikipedia.org/wiki/乐谱 "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。该格式是完全自由、开放记录的，并依据W3C社区的许可协议自由使用。\[1\]\[2\]
 
 ## 历史
 
@@ -25,7 +25,7 @@ Community Final Specification Agreement自由发布。\[10\]
     Performer和](https://zh.wikipedia.org/wiki/Digital_Performer "wikilink")[SONAR](https://zh.wikipedia.org/wiki/Cakewalk_Sonar "wikilink")。
 
 此外，还可以通过使用[HTML5](../Page/HTML5.md "wikilink")
-[canvas元素和](https://zh.wikipedia.org/wiki/canvas元素 "wikilink")[JavaScript在](../Page/JavaScript.md "wikilink")[网页浏览器中产生合理的乐曲](../Page/网页浏览器.md "wikilink")。\[13\]
+[canvas元素和](https://zh.wikipedia.org/wiki/canvas元素 "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")在[网页浏览器](../Page/网页浏览器.md "wikilink")中产生合理的乐曲。\[13\]
 
 功能包括[调号](../Page/调号.md "wikilink")、[拍号](https://zh.wikipedia.org/wiki/拍号 "wikilink")、[谱号](https://zh.wikipedia.org/wiki/谱号 "wikilink")、符杠信息、[符杆的方向](https://zh.wikipedia.org/wiki/符杆 "wikilink")、[圆滑线](https://zh.wikipedia.org/wiki/圆滑线 "wikilink")、[装饰音](https://zh.wikipedia.org/wiki/装饰音 "wikilink")、[小节和书写上的重复](https://zh.wikipedia.org/wiki/小节 "wikilink")。\[14\]
 
@@ -77,7 +77,7 @@ MusicXML像所有基于XML的格式一样，用于简单的由自动化工具[�
 ```
 
 以上的文字演示是繁杂的，MusicXML
-v2.0通过[压缩成](../Page/数据压缩.md "wikilink")[ZIP格式并加上](../Page/ZIP格式.md "wikilink")`.mxl`后缀的处理使文件体积减小到20分之一。\[16\]
+v2.0通过[压缩成](../Page/数据压缩.md "wikilink")[ZIP格式](../Page/ZIP格式.md "wikilink")并加上`.mxl`后缀的处理使文件体积减小到20分之一。\[16\]
 
 ## 参考资料
 

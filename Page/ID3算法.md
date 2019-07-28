@@ -1,7 +1,7 @@
 **ID3**算法（Iterative Dichotomiser 3 迭代二叉树3代）是一个由[Ross
-Quinlan发明的用于](https://zh.wikipedia.org/wiki/Ross_Quinlan "wikilink")[决策树的](../Page/决策树.md "wikilink")[算法](../Page/算法.md "wikilink")。
+Quinlan发明的用于](https://zh.wikipedia.org/wiki/Ross_Quinlan "wikilink")[决策树](../Page/决策树.md "wikilink")的[算法](../Page/算法.md "wikilink")。
 
-这个算法是建立在[奥卡姆剃刀的基础上](../Page/奥卡姆剃刀.md "wikilink")：越是小型的决策树越优于大的决策树（简单理论）。尽管如此，该算法也不是总是生成最小的树形结构。而是一个[启发式算法](https://zh.wikipedia.org/wiki/启发式算法 "wikilink")。奥卡姆剃刀阐述了一个[信息熵的概念](https://zh.wikipedia.org/wiki/信息熵 "wikilink")：
+这个算法是建立在[奥卡姆剃刀](../Page/奥卡姆剃刀.md "wikilink")的基础上：越是小型的决策树越优于大的决策树（简单理论）。尽管如此，该算法也不是总是生成最小的树形结构。而是一个[启发式算法](https://zh.wikipedia.org/wiki/启发式算法 "wikilink")。奥卡姆剃刀阐述了一个[信息熵的概念](https://zh.wikipedia.org/wiki/信息熵 "wikilink")：
 
 \[I_{E}(i) = - \sum^{m}_{j=1}  f (i,j) \log_{2} f (i, j).\]
 

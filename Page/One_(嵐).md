@@ -1,4 +1,4 @@
-《**One**》是[嵐的第](../Page/嵐.md "wikilink")7枚專輯，第5枚原創專輯。於2005年8月3日發行。唱片公司為[J
+《**One**》是[嵐](../Page/嵐.md "wikilink")的第7枚專輯，第5枚原創專輯。於2005年8月3日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

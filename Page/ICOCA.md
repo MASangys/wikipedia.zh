@@ -1,19 +1,19 @@
 [ICOCA_IC-CARD_front.jpg](https://zh.wikipedia.org/wiki/File:ICOCA_IC-CARD_front.jpg "fig:ICOCA_IC-CARD_front.jpg")
 [ICOCA_IC-CARD_back.jpg](https://zh.wikipedia.org/wiki/File:ICOCA_IC-CARD_back.jpg "fig:ICOCA_IC-CARD_back.jpg")
-**ICOCA**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是一種由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）發行的可再充值、非接觸式的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")（IC卡）形式[車票](../Page/車票.md "wikilink")，適用於該公司所屬的部分鐵路路線或部分區段。與[Suica功能相同](../Page/Suica.md "wikilink")，兼具儲值車票及電子錢包的功能。截自2014年11月，JR西日本官方宣布已發行突破1000萬張。卡片採用[索尼的](../Page/索尼.md "wikilink")[FeliCa技術](../Page/FeliCa.md "wikilink")。
+**ICOCA**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是一種由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）發行的可再充值、非接觸式的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")（IC卡）形式[車票](../Page/車票.md "wikilink")，適用於該公司所屬的部分鐵路路線或部分區段。與[Suica](../Page/Suica.md "wikilink")功能相同，兼具儲值車票及電子錢包的功能。截自2014年11月，JR西日本官方宣布已發行突破1000萬張。卡片採用[索尼](../Page/索尼.md "wikilink")的[FeliCa](../Page/FeliCa.md "wikilink")技術。
 
 「ICOCA」也是JR西日本的[註冊商標](https://zh.wikipedia.org/wiki/註冊商標 "wikilink")。
 
 ## 簡介
 
 [Iccard.gif](https://zh.wikipedia.org/wiki/File:Iccard.gif "fig:Iccard.gif")
-ICOCA在2003年11月1日開始使用，目前適用範圍包括[近畿地方及](../Page/近畿地方.md "wikilink")[岡山](../Page/岡山市.md "wikilink")、[廣島地区](../Page/廣島市.md "wikilink")。
+ICOCA在2003年11月1日開始使用，目前適用範圍包括[近畿地方](../Page/近畿地方.md "wikilink")及[岡山](../Page/岡山市.md "wikilink")、[廣島地区](../Page/廣島市.md "wikilink")。
 
 ICOCA的名稱源於IC Operating
 CArd的簡稱，音近日語中的[近畿方言](../Page/近畿方言.md "wikilink")“”（对应标准语中“”，意为“走吧”），語意隱含旅行之意，讓人備感親切。另外，在卡片背面的右下角有著由“JW”英文為開頭的15位數字，這個“JW”是由JR西日本“JR
 West”的英文名稱縮寫而來。吉祥物是名為「」的[鴨嘴獸](https://zh.wikipedia.org/wiki/鴨嘴獸 "wikilink")，由插畫家[夏野向日葵](https://zh.wikipedia.org/wiki/夏野向日葵 "wikilink")（）設計。
 
-2014年3月14日與[臺灣的](../Page/臺灣.md "wikilink")[一卡通簽署合作備忘錄](https://zh.wikipedia.org/wiki/一卡通_\(台灣\) "wikilink")，期許兩種票卡能於臺灣及日本互通使用。\[1\]
+2014年3月14日與[臺灣](../Page/臺灣.md "wikilink")的[一卡通簽署合作備忘錄](https://zh.wikipedia.org/wiki/一卡通_\(台灣\) "wikilink")，期許兩種票卡能於臺灣及日本互通使用。\[1\]
 
 ## 與私鐵、地下鐵、公共汽車整合
 

@@ -45,7 +45,7 @@ Java SE 來開發應用程式，並且提交回昇陽，然後報名與完成論
 而下列 API 則是被禁用的：
 
   - [Enterprise JavaBeans](../Page/EJB.md "wikilink")。
-  - [Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink")、[JSP技術](../Page/JSP.md "wikilink")、或任何其他web導向API。
+  - [Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink")、[JSP](../Page/JSP.md "wikilink")技術、或任何其他web導向API。
   - java.nio 類別庫。
   - Java DataBase
     Connectivity（[JDBC](https://zh.wikipedia.org/wiki/JDBC "wikilink")）及[SQL](../Page/SQL.md "wikilink")。

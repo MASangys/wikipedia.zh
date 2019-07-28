@@ -74,7 +74,7 @@ Swiftweasel做的改变包括：
 
 ## Swiftdove
 
-Swiftweasel工程同样也编译了为32和64位优化过和[Thunderbird邮件客户端](../Page/Mozilla_Thunderbird.md "wikilink")。Swiftdove默认包含了[Lightning日历插件](../Page/Lightning.md "wikilink")。
+Swiftweasel工程同样也编译了为32和64位优化过和[Thunderbird邮件客户端](../Page/Mozilla_Thunderbird.md "wikilink")。Swiftdove默认包含了[Lightning](../Page/Lightning.md "wikilink")日历插件。
 
 ## 参阅
 

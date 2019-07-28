@@ -14,7 +14,7 @@ Club](https://zh.wikipedia.org/wiki/Apple_I_Owners_Club "wikilink")。\[1\]
 Briel Computers贩卖两种型式的Replica
 1，一种是已经组合好的，另一种是需要自己动手组装的。稍早前的一个修改版本附了一个序列I/O卡，可使任何在Replica
 1上编写的程序或Replica
-1使用的程序存储于任何[个人电脑的硬盘上](../Page/个人电脑.md "wikilink")。由于录音机(原版Apple
+1使用的程序存储于任何[个人电脑](../Page/个人电脑.md "wikilink")的硬盘上。由于录音机(原版Apple
 I使用的存储装置)的短缺，这对于存储程序是必须的。该I/O卡亦可安装于原版Apple I上。
 
 最新的Replica 1——Replica

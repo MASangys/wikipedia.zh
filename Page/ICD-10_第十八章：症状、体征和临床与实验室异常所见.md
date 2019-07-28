@@ -15,7 +15,7 @@ R00-R09 涉及循环和[呼吸系统的症状和体征](https://zh.wikipedia.org
 
 ## R10-R19 涉及消化系统和腹部的症状和体征
 
-R10-R19 涉及[消化系统和腹部的症状和体征](../Page/消化系统.md "wikilink")
+R10-R19 涉及[消化系统](../Page/消化系统.md "wikilink")和腹部的症状和体征
 
   - R10 腹部和[盆腔痛](https://zh.wikipedia.org/wiki/盆腔痛 "wikilink")
   - R11
@@ -41,7 +41,7 @@ R20-R23 涉及皮肤和皮下组织的症状和体征
 
 ## R25-R29 涉及神经和肌肉骨骼系统的症状和体征
 
-R25-R29 涉及[神经和肌肉骨骼系统的症状和体征](../Page/神经.md "wikilink")
+R25-R29 涉及[神经](../Page/神经.md "wikilink")和肌肉骨骼系统的症状和体征
 
   - R25 异常的不随意运动
   - R26 步态和运动的异常
@@ -71,7 +71,7 @@ R40-R46 涉及认知、感觉、情绪状态和行为的症状和体征
     涉及[认知功能和意识的其他症状和体征](https://zh.wikipedia.org/wiki/认知功能 "wikilink")
   - R42
     [头晕和](https://zh.wikipedia.org/wiki/头晕 "wikilink")[眩晕](../Page/眩暈_\(醫學\).md "wikilink")
-  - R43 [嗅觉和](../Page/嗅觉.md "wikilink")[味觉障碍](../Page/味觉.md "wikilink")
+  - R43 [嗅觉](../Page/嗅觉.md "wikilink")和[味觉](../Page/味觉.md "wikilink")障碍
   - R44 涉及一般感觉和知觉的其他症状和体征
   - R45 涉及情绪状态的症状和体征
   - R46 涉及外貌与行为的症状和体征
@@ -125,7 +125,7 @@ R70-R79 血液检查的异常所见，无诊断者
 
 ## R80-R82 尿检查的异常所见，无诊断者
 
-R80-R82 [尿检查的异常所见](../Page/尿.md "wikilink")，无诊断者
+R80-R82 [尿](../Page/尿.md "wikilink")检查的异常所见，无诊断者
 
   - R80 [孤立性蛋白尿](https://zh.wikipedia.org/wiki/孤立性蛋白尿 "wikilink")
   - R81 [葡萄糖尿](https://zh.wikipedia.org/wiki/葡萄糖尿 "wikilink")

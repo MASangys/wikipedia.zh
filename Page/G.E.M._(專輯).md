@@ -2,7 +2,7 @@
 
 ## 專輯簡介
 
-《G.E.M.》遊走於[節奏藍調和](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")的風格，共收錄五首歌曲，包括3首廣東歌以及2首國語歌。第一首主打歌為G.E.M.親自填詞，以及[雷頌德編曲的](../Page/雷頌德.md "wikilink")《等一個他》。
+《G.E.M.》遊走於[節奏藍調和](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")的風格，共收錄五首歌曲，包括3首廣東歌以及2首國語歌。第一首主打歌為G.E.M.親自填詞，以及[雷頌德](../Page/雷頌德.md "wikilink")編曲的《等一個他》。
 
 金獎加印版（即第二版）在2009年1月23日推出，內裡的曲目和第一版一樣。另外附送以下項目：
 
@@ -82,12 +82,12 @@ Remix\[1\]。
 
 ## 銷售情況
 
-《G.E.M.》在2008年10月中發行三星期後，首推的5000隻EP存貨售罄\[2\]，其唱片公司[蜂鳥音樂宣佈需要另行加印](../Page/蜂鳥音樂.md "wikilink")\[3\]。及至2009年1月初，[鄧紫棋獲得各大頒獎禮的新人獎後](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")，其第一版EP更全城斷市，市面以及網上同樣出現炒賣情況，而等一個他、Where
+《G.E.M.》在2008年10月中發行三星期後，首推的5000隻EP存貨售罄\[2\]，其唱片公司[蜂鳥音樂](../Page/蜂鳥音樂.md "wikilink")宣佈需要另行加印\[3\]。及至2009年1月初，[鄧紫棋獲得各大頒獎禮的新人獎後](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")，其第一版EP更全城斷市，市面以及網上同樣出現炒賣情況，而等一個他、Where
 Did U Go、睡公主、回憶的沙漏的派台版CD（俗稱白板碟），亦相繼在拍賣網站上高價沽售。
 
-2009年1月尾，《G.E.M.》第二版推出。由於附送遊戲光碟的版本僅限量發售1000隻，加上有樂迷誤以為在農曆新年假後加推的普通版並不包括MV下載，在推出首日旋即賣光，[蜂鳥音樂即時再加印](../Page/蜂鳥音樂.md "wikilink")3000張亦供不應求\[4\]，市面及網上再次出現高價炒賣第二版EP的情況。\[5\]\[6\]其後唱片公司第二度加印，並在2月5日上市。\[7\]由於樂迷反應持續熱烈，市場流通量不足300張，蜂鳥音樂決定2月尾再補貨5000張推出市面，\[8\]到3月8日，G.E.M.舉行G.E.M.《Get
+2009年1月尾，《G.E.M.》第二版推出。由於附送遊戲光碟的版本僅限量發售1000隻，加上有樂迷誤以為在農曆新年假後加推的普通版並不包括MV下載，在推出首日旋即賣光，[蜂鳥音樂](../Page/蜂鳥音樂.md "wikilink")即時再加印3000張亦供不應求\[4\]，市面及網上再次出現高價炒賣第二版EP的情況。\[5\]\[6\]其後唱片公司第二度加印，並在2月5日上市。\[7\]由於樂迷反應持續熱烈，市場流通量不足300張，蜂鳥音樂決定2月尾再補貨5000張推出市面，\[8\]到3月8日，G.E.M.舉行G.E.M.《Get
 Everyone
-Moving》簽名會\[9\]，宣佈EP加印至第三版及有[金唱片銷量](../Page/金唱片.md "wikilink")。\[10\]\[11\]
+Moving》簽名會\[9\]，宣佈EP加印至第三版及有[金唱片](../Page/金唱片.md "wikilink")銷量。\[10\]\[11\]
 
 ### 銷量榜
 
@@ -103,12 +103,12 @@ Moving》簽名會\[9\]，宣佈EP加印至第三版及有[金唱片銷量](../P
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV國粵語音樂排行榜</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV</a>國粵語音樂排行榜</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>4</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV整體排行榜</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV</a>整體排行榜</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -129,7 +129,7 @@ Moving》簽名會\[9\]，宣佈EP加印至第三版及有[金唱片銷量](../P
   - [2009
     CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2009_CASH金帆音樂獎 "wikilink")
     <small>－最佳女歌手演繹（提名）－《等一個他》</small>
-  - 2009年[勁歌金曲優秀選第一回](../Page/勁歌金曲.md "wikilink") <small>—得獎歌曲 －《Where
+  - 2009年[勁歌金曲](../Page/勁歌金曲.md "wikilink")優秀選第一回 <small>—得獎歌曲 －《Where
     Did You Go?》</small>
 
 ## 參考資料

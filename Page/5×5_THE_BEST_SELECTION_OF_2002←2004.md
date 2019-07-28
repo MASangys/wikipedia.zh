@@ -1,5 +1,5 @@
 《**5×5 THE BEST SELECTION OF
-2002←2004**》是[嵐的第](../Page/嵐.md "wikilink")6枚專輯，第2枚精選專輯。於2004年11月10日發行。唱片公司為[J
+2002←2004**》是[嵐](../Page/嵐.md "wikilink")的第6枚專輯，第2枚精選專輯。於2004年11月10日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

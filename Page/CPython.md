@@ -1,4 +1,4 @@
-**CPython**是用[C语言实现的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Python解释器](../Page/Python.md "wikilink")。作为官方实现，它是最广泛使用的Python解释器。除了CPython以外，还有用[Java实现的](../Page/Java.md "wikilink")[Jython](../Page/Jython.md "wikilink")，用[.NET实现的](https://zh.wikipedia.org/wiki/.NET "wikilink")[IronPython](../Page/IronPython.md "wikilink")，使[Python方便地和](../Page/Python.md "wikilink")[Java程序](../Page/Java.md "wikilink")、[.NET程序](https://zh.wikipedia.org/wiki/.NET "wikilink")[集成](https://zh.wikipedia.org/wiki/集成 "wikilink")。另外还有一些实验性的Python解释器比如[PyPy](../Page/PyPy.md "wikilink")。
+**CPython**是用[C语言实现的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Python](../Page/Python.md "wikilink")解释器。作为官方实现，它是最广泛使用的Python解释器。除了CPython以外，还有用[Java](../Page/Java.md "wikilink")实现的[Jython](../Page/Jython.md "wikilink")，用[.NET实现的](https://zh.wikipedia.org/wiki/.NET "wikilink")[IronPython](../Page/IronPython.md "wikilink")，使[Python](../Page/Python.md "wikilink")方便地和[Java](../Page/Java.md "wikilink")程序、[.NET程序](https://zh.wikipedia.org/wiki/.NET "wikilink")[集成](https://zh.wikipedia.org/wiki/集成 "wikilink")。另外还有一些实验性的Python解释器比如[PyPy](../Page/PyPy.md "wikilink")。
 
 CPython是使用[字节码的](https://zh.wikipedia.org/wiki/字节码 "wikilink")[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，任何程序源代码在执行之前先要[编译成字节码](https://zh.wikipedia.org/wiki/编译 "wikilink")。它还有和几种其它语言（包括C语言）交互的[外部函数接口](https://zh.wikipedia.org/wiki/外部函数接口 "wikilink")。
 
@@ -83,7 +83,7 @@ CPython是使用[字节码的](https://zh.wikipedia.org/wiki/字节码 "wikilink
     [1](http://www.monkeyhouse.eclipse.co.uk/amiga/python/)
   - [AS/400](https://zh.wikipedia.org/wiki/AS/400 "wikilink")
     [2](http://www.iseriespython.com/)
-  - [DOS平台使用的](../Page/DOS.md "wikilink")[DJGPP](https://zh.wikipedia.org/wiki/DJGPP "wikilink")
+  - [DOS](../Page/DOS.md "wikilink")平台使用的[DJGPP](https://zh.wikipedia.org/wiki/DJGPP "wikilink")
     [3](http://www.caddit.net/pythond/)
   - [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")
     [4](https://web.archive.org/web/20090210233518/http://python-psp.net/trac/)

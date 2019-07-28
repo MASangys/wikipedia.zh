@@ -1,6 +1,6 @@
 **尼克希菲特**（[德语](../Page/德语.md "wikilink")：****，[1977年](../Page/1977年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")[门兴格拉德巴赫](../Page/门兴格拉德巴赫.md "wikilink")
 -
-），[德国](../Page/德国.md "wikilink")[一级方程式赛车車手](../Page/一级方程式赛车.md "wikilink")，綽號**Quick
+），[德国](../Page/德国.md "wikilink")[一级方程式赛车](../Page/一级方程式赛车.md "wikilink")車手，綽號**Quick
 Nick**\[1\]
 ，目前效力于[宝马索伯车队](../Page/宝马索伯车队.md "wikilink")。他是所有没有获得过分站冠军的F1车手中获得积分最多的人。
 
@@ -20,11 +20,11 @@ Nick**\[1\]
 
 ### [乔丹车队](../Page/乔丹车队.md "wikilink")：2004年
 
-海费尔德似乎就要退出车坛，但由于在试车中有不错表现，[乔丹车队给了他一个正式车手席位](../Page/乔丹车队.md "wikilink")。队友是新手[乔吉奥·潘塔诺](../Page/乔吉奥·潘塔诺.md "wikilink")。2004赛季共获得3个积分排名第18位。
+海费尔德似乎就要退出车坛，但由于在试车中有不错表现，[乔丹车队](../Page/乔丹车队.md "wikilink")给了他一个正式车手席位。队友是新手[乔吉奥·潘塔诺](../Page/乔吉奥·潘塔诺.md "wikilink")。2004赛季共获得3个积分排名第18位。
 
 ### [威廉姆斯车队](../Page/威廉姆斯车队.md "wikilink")：2005年
 
-2005年初，经过与[安东尼奥·皮佐尼亚的激烈争夺](../Page/安东尼奥·皮佐尼亚.md "wikilink")，海费尔德在威廉姆斯车队获得了一个正式车手席位。他在[2005年欧洲大奖赛上首次获得](../Page/2005年欧洲大奖赛.md "wikilink")[杆位](https://zh.wikipedia.org/wiki/杆位 "wikilink")，正式比赛列第二位。
+2005年初，经过与[安东尼奥·皮佐尼亚](../Page/安东尼奥·皮佐尼亚.md "wikilink")的激烈争夺，海费尔德在威廉姆斯车队获得了一个正式车手席位。他在[2005年欧洲大奖赛](../Page/2005年欧洲大奖赛.md "wikilink")上首次获得[杆位](https://zh.wikipedia.org/wiki/杆位 "wikilink")，正式比赛列第二位。
 
 由于试车时受伤，海费尔德错过了[意大利站和](../Page/2005年意大利大奖赛.md "wikilink")[比利时站的比赛](../Page/2005年比利时大奖赛.md "wikilink")。他本来想在[巴西站重新上场比赛](../Page/2005年巴西大奖赛.md "wikilink")，却又在外出骑[自行车时被](https://zh.wikipedia.org/wiki/自行车 "wikilink")[摩托车撞上](https://zh.wikipedia.org/wiki/摩托车 "wikilink")。因此该年度的后5站比赛他均未参加。全年积28分排名第11位。
 

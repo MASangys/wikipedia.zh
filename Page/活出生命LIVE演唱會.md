@@ -1,9 +1,9 @@
 **活出生命LIVE演唱會**（**Live The
-Life**）是[香港歌手](../Page/香港.md "wikilink")[張學友于](https://zh.wikipedia.org/wiki/張學友 "wikilink")2004年10月5日于[香港會議展覽中心新翼所舉行的一場慈善演唱會](../Page/香港會議展覽中心.md "wikilink")，演唱會只公演一場，全場爆滿，所得收入全部捐獻于[慈善事業](https://zh.wikipedia.org/wiki/慈善事業 "wikilink")。被譽為[大中華地區樂壇巨星和實力派歌手代表之一的張學友在演唱會中分別翻唱了來自](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[香港的](../Page/香港.md "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，而在加唱部分才回歸到演唱自己原唱的歌曲，從而使整場演唱會備受矚目。
+Life**）是[香港](../Page/香港.md "wikilink")歌手[張學友于](https://zh.wikipedia.org/wiki/張學友 "wikilink")2004年10月5日于[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")新翼所舉行的一場慈善演唱會，演唱會只公演一場，全場爆滿，所得收入全部捐獻于[慈善事業](https://zh.wikipedia.org/wiki/慈善事業 "wikilink")。被譽為[大中華地區樂壇巨星和實力派歌手代表之一的張學友在演唱會中分別翻唱了來自](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[香港](../Page/香港.md "wikilink")的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，而在加唱部分才回歸到演唱自己原唱的歌曲，從而使整場演唱會備受矚目。
 
 ## 簡介
 
-此次演唱會張學友共翻唱了來自二十位歌手（樂隊）的經典名曲，包括已故台灣著名歌手[鄧麗君的](../Page/鄧麗君.md "wikilink")[但愿人長久以及好友](https://zh.wikipedia.org/wiki/但愿人長久 "wikilink")[張國榮的](../Page/張國榮.md "wikilink")《追》，[陳百強的名曲](../Page/陳百強.md "wikilink")《等》，亦出現了當時（2004年）的新歌，包括香港歌手[古巨基的](../Page/古巨基.md "wikilink")《傷追人》，以及[楊千嬅的](../Page/楊千嬅.md "wikilink")《[小城大事](../Page/小城大事.md "wikilink")》。他亦用不同的風格演唱了台灣歌手[周杰倫的](../Page/周杰倫.md "wikilink")《星晴》，[陶喆的](../Page/陶喆.md "wikilink")《愛很簡單》以及[張震岳的](https://zh.wikipedia.org/wiki/張震岳 "wikilink")《愛我別走》等歌曲，令人有耳目一新的感覺。
+此次演唱會張學友共翻唱了來自二十位歌手（樂隊）的經典名曲，包括已故台灣著名歌手[鄧麗君](../Page/鄧麗君.md "wikilink")的[但愿人長久以及好友](https://zh.wikipedia.org/wiki/但愿人長久 "wikilink")[張國榮](../Page/張國榮.md "wikilink")的《追》，[陳百強](../Page/陳百強.md "wikilink")的名曲《等》，亦出現了當時（2004年）的新歌，包括香港歌手[古巨基](../Page/古巨基.md "wikilink")的《傷追人》，以及[楊千嬅](../Page/楊千嬅.md "wikilink")的《[小城大事](../Page/小城大事.md "wikilink")》。他亦用不同的風格演唱了台灣歌手[周杰倫](../Page/周杰倫.md "wikilink")的《星晴》，[陶喆](../Page/陶喆.md "wikilink")的《愛很簡單》以及[張震岳的](https://zh.wikipedia.org/wiki/張震岳 "wikilink")《愛我別走》等歌曲，令人有耳目一新的感覺。
 
 演唱會中張學友以一種另類的髮型從暴露給觀眾的後臺出場，透過一層玻璃，觀眾自前排觀眾席中可以清晰的看到[區丁玉等後臺工作人員忙碌的場景](https://zh.wikipedia.org/wiki/區丁玉 "wikilink")。而張學友則手拿一個蘋果坐在一張酒吧椅上面開始了他的演唱，并不時的在演唱過程當中吃[蘋果](https://zh.wikipedia.org/wiki/蘋果 "wikilink")，據他所述是因為現場錄音的關係，拿著一個蘋果顯得健康，從而消除緊張，而且蘋果可以潤喉，對演唱錄音有所幫助。從而，此次演唱會給樂迷了一個貼近自然，樸實的感覺，獲得媒體以及樂迷的贊揚。
 
@@ -61,10 +61,11 @@ Life**）是[香港歌手](../Page/香港.md "wikilink")[張學友于](https://z
 
 演唱會的CD及後來發行的[DVD在香港](https://zh.wikipedia.org/wiki/DVD "wikilink")，台灣以及[中國大陸均獲得了很好的銷量](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，甚至於十一年後的2014年，這張唱片仍舊高居[京東商城的唱片銷量榜的前十名](https://zh.wikipedia.org/wiki/京東商城 "wikilink")。\[1\]廣受歡迎的唱片更加在2004年年尾獲得[IFPI國際唱片協會銷量統計的大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2005 "wikilink")，\[2\]而此前已經完全淡出香港音樂頒獎典禮的張學友更是破天荒的出席了當晚的頒獎典禮，親身領獎。
 
-值得一提的是，[陳慧嫻復出後亦於](../Page/陳慧嫻.md "wikilink")2008年2月8至9日舉行《活出生命II》慈善演唱會，同樣不少歌曲均不是陳慧嫻本人原唱。
+值得一提的是，[陳慧嫻](../Page/陳慧嫻.md "wikilink")復出後亦於2008年2月8至9日舉行《活出生命II》慈善演唱會，同樣不少歌曲均不是陳慧嫻本人原唱。
 
 ## 參考資料
 
+[Category:張學友演唱會](https://zh.wikipedia.org/wiki/Category:張學友演唱會 "wikilink")
 [Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink")
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

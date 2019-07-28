@@ -1,6 +1,6 @@
 [Autoconf-automake-process.svg](https://zh.wikipedia.org/wiki/File:Autoconf-automake-process.svg "fig:Autoconf-automake-process.svg")的工作流程图。请注意"configure.ac"在Autoconf早期版本中名为"configure.in"
 \]\] **GNU Autoconf**是一个在[Bourne
-shell下制作供编译](../Page/Bourne_shell.md "wikilink")、安装和打包软件的的工具\[1\]。Autoconf并不受程式语言限制，常用于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Erlang和](../Page/Erlang.md "wikilink")[Objective-C](../Page/Objective-C.md "wikilink")。配置脚本控制了一个软件包在特定系统上的安装。在进行一系列测试后，配置脚本从模板中生成[makefile与](https://zh.wikipedia.org/wiki/makefile "wikilink")[头文件进而调整软件包](../Page/头文件.md "wikilink")，使之适应某一种系统。Autoconf与[Automake](../Page/Automake.md "wikilink")、[Libtool等软件组成了](../Page/Libtool.md "wikilink")[GNU构建系统](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")\[2\]。Autoconf由于1991年夏天编写用于支持他在[自由软件基金会的编程工作](../Page/自由软件基金会.md "wikilink")\[3\]。此后，Autoconf包含了多人编写的改进代码并成为了使用最广泛的自由编译配置软件。\[4\]\[5\]
+shell下制作供编译](../Page/Bourne_shell.md "wikilink")、安装和打包软件的的工具\[1\]。Autoconf并不受程式语言限制，常用于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Erlang](../Page/Erlang.md "wikilink")和[Objective-C](../Page/Objective-C.md "wikilink")。配置脚本控制了一个软件包在特定系统上的安装。在进行一系列测试后，配置脚本从模板中生成[makefile与](https://zh.wikipedia.org/wiki/makefile "wikilink")[头文件](../Page/头文件.md "wikilink")进而调整软件包，使之适应某一种系统。Autoconf与[Automake](../Page/Automake.md "wikilink")、[Libtool](../Page/Libtool.md "wikilink")等软件组成了[GNU构建系统](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")\[2\]。Autoconf由于1991年夏天编写用于支持他在[自由软件基金会](../Page/自由软件基金会.md "wikilink")的编程工作\[3\]。此后，Autoconf包含了多人编写的改进代码并成为了使用最广泛的自由编译配置软件。\[4\]\[5\]
 
 ## 使用概要
 
@@ -45,11 +45,11 @@ C的编译器。因此配置脚本可以在未知的或者较新的系统中得�
 
 ## 批评
 
-autoconf是一个古老和成熟的产品，如果使用得当，可以使用一个非常简单的接口进行复杂的交叉编译。但是有一些批评指出autoconf使用了过时的技术，因而遗留了很多限制。autoconf无法为[Xcode与](../Page/Xcode.md "wikilink")[Visual
+autoconf是一个古老和成熟的产品，如果使用得当，可以使用一个非常简单的接口进行复杂的交叉编译。但是有一些批评指出autoconf使用了过时的技术，因而遗留了很多限制。autoconf无法为[Xcode](../Page/Xcode.md "wikilink")与[Visual
 Studio制作项目文件](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")，其脚本通常大且复杂，因此增加了Debug的难度。Autoconf所使用的M4对于一些开发者来说是陌生的，因此他们需要专门学习\[6\]。一些开发者并不遵循配置脚本的一些习惯约定\[7\]。
 
-因此一些自由软件开发者开始使用其他软件代替autoconf，[KDE于KDE](../Page/KDE.md "wikilink")
-4起开始使用[CMake](../Page/CMake.md "wikilink")\[8\]，[Scribus同样开始使用CMake](../Page/Scribus.md "wikilink")\[9\]。
+因此一些自由软件开发者开始使用其他软件代替autoconf，[KDE](../Page/KDE.md "wikilink")于KDE
+4起开始使用[CMake](../Page/CMake.md "wikilink")\[8\]，[Scribus](../Page/Scribus.md "wikilink")同样开始使用CMake\[9\]。
 
 ## 参见
 

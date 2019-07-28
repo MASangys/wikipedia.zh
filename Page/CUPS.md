@@ -1,6 +1,6 @@
 **CUPS**（）是一個[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系統的組合式印刷系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，允許一台電腦作為打印服务器。CUPS接受一個客戶端的電腦進程，並送到相應的[打印機](https://zh.wikipedia.org/wiki/打印機 "wikilink")。
 
-CUPS是[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，使用[GNU通用公共许可证和](../Page/GNU通用公共许可证.md "wikilink")[GNU宽通用公共许可证的第](../Page/GNU宽通用公共许可证.md "wikilink")2版。
+CUPS是[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")和[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")的第2版。
 
 ## 歷史
 
@@ -40,7 +40,7 @@ KDEPrint 第一出現在 KDE 2.2。
 KDEPrint 支持多種不同的印刷平台，與CUPS一個最好的支持。它取代了 KDE 以前的列印支持版本，*qtcups*和向後兼容這個 KDE
 的模塊。截至2009 *kprinter*，一個對話盒程式，作為主要的工具發送工作到打印設備，它也可以由命令行啟動。KDEPrint
 包括一個預先過濾任何工作的系統，才交給CUPS ，或處理自己所有的工作，例如將檔案轉換為 PDF。這些篩選器是由一對
-Desktop/[XML文件描述](../Page/XML.md "wikilink")。
+Desktop/[XML](../Page/XML.md "wikilink")文件描述。
 
 KDEPrint 主要組成部分包括：
 

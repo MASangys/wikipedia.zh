@@ -1,6 +1,6 @@
 **Feist–Bénary合成**（Feist–Bénary synthesis）
 
-α-[卤代](https://zh.wikipedia.org/wiki/卤代 "wikilink")[酮与β](../Page/酮.md "wikilink")-[二羰基化合物在](https://zh.wikipedia.org/wiki/二羰基化合物 "wikilink")[氨或](../Page/氨.md "wikilink")[吡啶](../Page/吡啶.md "wikilink")[催化下进行反应](../Page/催化.md "wikilink")，生成取代[呋喃](../Page/呋喃.md "wikilink")。\[1\]\[2\]
+α-[卤代](https://zh.wikipedia.org/wiki/卤代 "wikilink")[酮](../Page/酮.md "wikilink")与β-[二羰基化合物在](https://zh.wikipedia.org/wiki/二羰基化合物 "wikilink")[氨](../Page/氨.md "wikilink")或[吡啶](../Page/吡啶.md "wikilink")[催化](../Page/催化.md "wikilink")下进行反应，生成取代[呋喃](../Page/呋喃.md "wikilink")。\[1\]\[2\]
 
 
 [FeistBenarysynthesis.gif](https://zh.wikipedia.org/wiki/File:FeistBenarysynthesis.gif "fig:FeistBenarysynthesis.gif")

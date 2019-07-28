@@ -1,6 +1,6 @@
 **LAPACK**，其名為**L**inear **A**lgebra
 **PACK**age的縮寫，是一以[Fortran](../Page/Fortran.md "wikilink")[程式語言寫的](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，用於[數值計算的](https://zh.wikipedia.org/wiki/數值計算 "wikilink")[函式集](https://zh.wikipedia.org/wiki/函式集 "wikilink")。
-LAPACK提供了豐富的[工具函式](https://zh.wikipedia.org/wiki/工具函式 "wikilink")，可用於諸如解多元[線性方程式](https://zh.wikipedia.org/wiki/線性方程式 "wikilink")、[線性系統方程組的](../Page/線性系統.md "wikilink")[最小平方解](../Page/最小二乘法.md "wikilink")、計算[特徵向量](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")、用於計算[矩陣](https://zh.wikipedia.org/wiki/矩陣 "wikilink")[QR分解的](../Page/QR分解.md "wikilink")[Householder轉換](https://zh.wikipedia.org/wiki/豪斯霍德变换 "wikilink")、以及[奇異值分解等問題](https://zh.wikipedia.org/wiki/奇異值 "wikilink")。
+LAPACK提供了豐富的[工具函式](https://zh.wikipedia.org/wiki/工具函式 "wikilink")，可用於諸如解多元[線性方程式](https://zh.wikipedia.org/wiki/線性方程式 "wikilink")、[線性系統](../Page/線性系統.md "wikilink")方程組的[最小平方解](../Page/最小二乘法.md "wikilink")、計算[特徵向量](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")、用於計算[矩陣](https://zh.wikipedia.org/wiki/矩陣 "wikilink")[QR分解](../Page/QR分解.md "wikilink")的[Householder轉換](https://zh.wikipedia.org/wiki/豪斯霍德变换 "wikilink")、以及[奇異值分解等問題](https://zh.wikipedia.org/wiki/奇異值 "wikilink")。
 在[NetLib](http://www.netlib.org/lapack95/)亦提供了[API經簡化的](https://zh.wikipedia.org/wiki/API "wikilink")[Fortran](../Page/Fortran.md "wikilink")
 95版本的LAPACK95。LAPACK以[BSD授權的方法釋出](../Page/BSD许可证.md "wikilink")。
 

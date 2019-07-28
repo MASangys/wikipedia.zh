@@ -1,6 +1,6 @@
 **Corey–Fuchs反应**，又称**Ramirez–Corey–Fuchs反应**
 
-[醛与](../Page/醛.md "wikilink")[四溴化碳和](../Page/四溴化碳.md "wikilink")[三苯基膦反应](../Page/三苯基膦.md "wikilink")，发生一碳[同系化生成二](https://zh.wikipedia.org/wiki/同系化 "wikilink")[溴](../Page/溴.md "wikilink")[烯烃](../Page/烯烃.md "wikilink")，然后再用[正丁基锂处理而得到末端](../Page/正丁基锂.md "wikilink")[炔烃](../Page/炔烃.md "wikilink")。\[1\]\[2\]\[3\]
+[醛](../Page/醛.md "wikilink")与[四溴化碳](../Page/四溴化碳.md "wikilink")和[三苯基膦](../Page/三苯基膦.md "wikilink")反应，发生一碳[同系化生成二](https://zh.wikipedia.org/wiki/同系化 "wikilink")[溴](../Page/溴.md "wikilink")[烯烃](../Page/烯烃.md "wikilink")，然后再用[正丁基锂](../Page/正丁基锂.md "wikilink")处理而得到末端[炔烃](../Page/炔烃.md "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Corey-Fuchs_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Corey-Fuchs_Reaction_Scheme.png "fig:Corey-Fuchs_Reaction_Scheme.png")
@@ -8,16 +8,16 @@
 反应由美国化学家 [E. J.
 Corey](https://zh.wikipedia.org/wiki/E._J._Corey "wikilink") 和 Philip L.
 Fuchs 的名字命名。与早期 Desai 等\[4\]
-制取二溴烯烃的方法相比，[锌粉的加入促进了](../Page/锌.md "wikilink")[叶立德中间体的生成](https://zh.wikipedia.org/wiki/叶立德 "wikilink")，从而减少了三苯基膦的用量，分离更易，产率更高。对于敏感的底物，需用[三乙胺代替锌才能取得较好的效果](../Page/三乙胺.md "wikilink")。\[5\]
+制取二溴烯烃的方法相比，[锌](../Page/锌.md "wikilink")粉的加入促进了[叶立德中间体的生成](https://zh.wikipedia.org/wiki/叶立德 "wikilink")，从而减少了三苯基膦的用量，分离更易，产率更高。对于敏感的底物，需用[三乙胺](../Page/三乙胺.md "wikilink")代替锌才能取得较好的效果。\[5\]
 
 选用适宜的碱，可使反应也可停在1-[溴代炔一步](https://zh.wikipedia.org/wiki/溴代炔 "wikilink")。溴代炔和末端炔烃是有机合成中很有用的官能团。\[6\]
 
-近来工业界发展了[三氯乙酸的等价合成方法](../Page/三氯乙酸.md "wikilink")，解决了大量合成中副产物[三苯基氧膦的难处理问题](https://zh.wikipedia.org/wiki/三苯基氧膦 "wikilink")，使反应用于大规模的制备。\[7\]
+近来工业界发展了[三氯乙酸](../Page/三氯乙酸.md "wikilink")的等价合成方法，解决了大量合成中副产物[三苯基氧膦的难处理问题](https://zh.wikipedia.org/wiki/三苯基氧膦 "wikilink")，使反应用于大规模的制备。\[7\]
 
 ## 反应机理
 
-目前普遍接受的机理为，首先三苯基膦[亲核进攻四溴化碳夺取一个溴离子](https://zh.wikipedia.org/wiki/亲核 "wikilink")，生成[鏻离子](../Page/鏻.md "wikilink")，它受到同时生成的[溴仿负离子的亲核取代](https://zh.wikipedia.org/wiki/溴仿 "wikilink")，形成二溴亚甲基[磷叶立德](https://zh.wikipedia.org/wiki/磷叶立德 "wikilink")。之后与
-[Wittig反应类似](https://zh.wikipedia.org/wiki/Wittig反应 "wikilink")，二溴亚甲基碳与醛[羰基进行](../Page/羰基.md "wikilink")[亲核加成](https://zh.wikipedia.org/wiki/亲核加成 "wikilink")，形成的两性中间体环化为氧磷杂环丁烷，进一步消除为[三苯基氧膦和二溴烯烃](https://zh.wikipedia.org/wiki/三苯基氧膦 "wikilink")。
+目前普遍接受的机理为，首先三苯基膦[亲核进攻四溴化碳夺取一个溴离子](https://zh.wikipedia.org/wiki/亲核 "wikilink")，生成[鏻](../Page/鏻.md "wikilink")离子，它受到同时生成的[溴仿负离子的亲核取代](https://zh.wikipedia.org/wiki/溴仿 "wikilink")，形成二溴亚甲基[磷叶立德](https://zh.wikipedia.org/wiki/磷叶立德 "wikilink")。之后与
+[Wittig反应类似](https://zh.wikipedia.org/wiki/Wittig反应 "wikilink")，二溴亚甲基碳与醛[羰基](../Page/羰基.md "wikilink")进行[亲核加成](https://zh.wikipedia.org/wiki/亲核加成 "wikilink")，形成的两性中间体环化为氧磷杂环丁烷，进一步消除为[三苯基氧膦和二溴烯烃](https://zh.wikipedia.org/wiki/三苯基氧膦 "wikilink")。
 
 
 [CoreyFuchs1.png](https://zh.wikipedia.org/wiki/File:CoreyFuchs1.png "fig:CoreyFuchs1.png")

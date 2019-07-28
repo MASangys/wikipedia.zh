@@ -1,9 +1,9 @@
 **RPG Maker
-2000**（遊戲製作大師RPG篇）（又稱RM2K）是[RPG製作大師系列中第二個運行於](../Page/RPG製作大師.md "wikilink")[Microsoft
-Windows作業系統上之RPG製作軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。由[日本](../Page/日本.md "wikilink")[Enterbrain發行](../Page/Enterbrain.md "wikilink")。
+2000**（遊戲製作大師RPG篇）（又稱RM2K）是[RPG製作大師](../Page/RPG製作大師.md "wikilink")系列中第二個運行於[Microsoft
+Windows作業系統上之RPG製作軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。由[日本](../Page/日本.md "wikilink")[Enterbrain](../Page/Enterbrain.md "wikilink")發行。
 
 RPG Maker
-2000在2000年8月首次發行於[日本](../Page/日本.md "wikilink")。之後[Enterbrain發行了較便宜的](../Page/Enterbrain.md "wikilink")[RPG
+2000在2000年8月首次發行於[日本](../Page/日本.md "wikilink")。之後[Enterbrain](../Page/Enterbrain.md "wikilink")發行了較便宜的[RPG
 Maker 2000
 Value\!](https://zh.wikipedia.org/wiki/RPG_Maker_2000_Value! "wikilink")，並包含主要的更新，例如使用更多的編號處理圖片檔案。
 
@@ -23,11 +23,11 @@ RPG Maker
 ### 音樂
 
 RPG Maker
-2000內建的音樂包含許多的[MIDI集](../Page/MIDI.md "wikilink")，以及少量的[WAV檔案](../Page/WAV.md "wikilink")。有非官方的強化程式可以讓遊戲中使用[MP3檔案](../Page/MP3.md "wikilink")，但可靠的消息指出這類的程式通常存在著一些問題。
+2000內建的音樂包含許多的[MIDI](../Page/MIDI.md "wikilink")集，以及少量的[WAV](../Page/WAV.md "wikilink")檔案。有非官方的強化程式可以讓遊戲中使用[MP3](../Page/MP3.md "wikilink")檔案，但可靠的消息指出這類的程式通常存在著一些問題。
 
 ### Runtime Package
 
-RPG Maker 2000是[RPG製作大師系列中首次使用Runtime](../Page/RPG製作大師.md "wikilink")
+RPG Maker 2000是[RPG製作大師](../Page/RPG製作大師.md "wikilink")系列中首次使用Runtime
 Package的版本，Runtime Package又稱RTP，在之後的PC版本中均有使用。
 
 RTP是一個官方素材集，包含RPG Maker 2000中內建供使用的圖片檔案、音樂檔案以及音效檔案。

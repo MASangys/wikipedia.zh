@@ -1,4 +1,4 @@
-《**光速大冒險PIPOPA**》（）為[日本](../Page/日本.md "wikilink")[東京電視台於](../Page/東京電視台.md "wikilink")2008年推出的動畫作品，並於同年推出漫畫，次年推出了[Nintendo
+《**光速大冒險PIPOPA**》（）為[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2008年推出的動畫作品，並於同年推出漫畫，次年推出了[Nintendo
 DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
 ## 故事大綱
@@ -17,7 +17,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
     配音員：日：[佐藤利奈](../Page/佐藤利奈.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
     本劇主角，是個11歲的小五生，個性懦弱、膽小卻十分善良。
     於第18話提及他和**進藤守**一様是[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
-    對電腦十分不在行且對其心生恐懼，但他對[天文學有濃厚的興趣](../Page/天文學.md "wikilink")。
+    對電腦十分不在行且對其心生恐懼，但他對[天文學](../Page/天文學.md "wikilink")有濃厚的興趣。
     某日，他開啟手機的時候，被吸進了手機內的虛擬實境，遇見了三隻在虛擬世界的精靈：小霹、小波與小帕，並與它們展開了一場奇幻旅程。
     第49集被相澤讓軟禁在未來夢想公司，並且被他沒收手機，直到被朋友們救才拿回手機。
 
@@ -69,7 +69,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
   -
     配音員：日：[新井-{里}-美](../Page/新井里美.md "wikilink")／台：[許淑嬪](../Page/許淑嬪.md "wikilink")／香港：[羅杏芝](../Page/羅杏芝.md "wikilink")
-    全身黃色的精靈，食量極大且力大無窮，容易跟其他人打成一片，具有[天然呆性格](../Page/天然呆.md "wikilink")。
+    全身黃色的精靈，食量極大且力大無窮，容易跟其他人打成一片，具有[天然呆](../Page/天然呆.md "wikilink")性格。
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
     配音員：日：三戶崇史／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[袁淑珍](../Page/袁淑珍.md "wikilink")、[黃鳳英](../Page/黃鳳英.md "wikilink")（第7-8集）
     勇太的同班同學，身材壯碩，雖然有時會以蠻力欺負他人，但其實也有善良跟講義氣的一面。
     對小光和沙也加皆有好感，將跟她們兩個十分親近的勇太視為勁敵。
-    自家經營[和菓子屋](../Page/和菓子.md "wikilink")。
+    自家經營[和菓子](../Page/和菓子.md "wikilink")屋。
     名字源自於日本棒球選手[長島茂雄之子長島一茂](https://zh.wikipedia.org/wiki/長島茂雄 "wikilink")。
     於第19話聽到祖父江光與秋川勇太在閒聊，於是前去查看，結果便看到秋川勇太與祖父江光在準備網絡潛水，於是便抓住秋川勇太，就這樣開始了江之島一茂的第一次網絡潛水。
     第49集被相澤讓軟禁在未來夢想公司，並且被他沒收手機，直到被朋友們救才拿回手機。

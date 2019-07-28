@@ -1,5 +1,5 @@
 **BlackBerry OS**，是由[Research In
-Motion](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")（现为BlackBerry）為其[智能手機產品](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[BlackBerry開發的專用](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。這一作業系統具有[多任務處理能力](https://zh.wikipedia.org/wiki/多任務處理 "wikilink")，並支持特定的輸入裝置，如[滾輪](https://zh.wikipedia.org/wiki/滾輪 "wikilink")、[軌跡球](https://zh.wikipedia.org/wiki/軌跡球 "wikilink")、[觸控板以及](https://zh.wikipedia.org/wiki/觸控板 "wikilink")[觸控式螢幕等](../Page/觸控式螢幕.md "wikilink")。BlackBerry平台最著名的莫過於它處理郵件的能力。該平台通過[MIDP](https://zh.wikipedia.org/wiki/MIDP "wikilink")
+Motion](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")（现为BlackBerry）為其[智能手機產品](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[BlackBerry開發的專用](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。這一作業系統具有[多任務處理能力](https://zh.wikipedia.org/wiki/多任務處理 "wikilink")，並支持特定的輸入裝置，如[滾輪](https://zh.wikipedia.org/wiki/滾輪 "wikilink")、[軌跡球](https://zh.wikipedia.org/wiki/軌跡球 "wikilink")、[觸控板以及](https://zh.wikipedia.org/wiki/觸控板 "wikilink")[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")等。BlackBerry平台最著名的莫過於它處理郵件的能力。該平台通過[MIDP](https://zh.wikipedia.org/wiki/MIDP "wikilink")
 1.0以及MIDP 2.0的子集，在與[BlackBerry Enterprise
 Server連接時](https://zh.wikipedia.org/wiki/BlackBerry_Enterprise_Server "wikilink")，以無線的方式激活並與[Microsoft
 Exchange](https://zh.wikipedia.org/wiki/Microsoft_Exchange "wikilink")，[Lotus
@@ -8,7 +8,7 @@ GroupWise同步郵件](https://zh.wikipedia.org/wiki/Novell_GroupWise "wikilink"
 1.2。
 
 2010年末數據顯示，BlackBerry
-OS在市場佔有率上已經超越稱霸逾十年的[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，僅次於[Google作業系統](../Page/Google.md "wikilink")[Android及](../Page/Android.md "wikilink")[蘋果公司作業系統](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，成為全球第三大智慧型手機作業系統。
+OS在市場佔有率上已經超越稱霸逾十年的[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，僅次於[Google](../Page/Google.md "wikilink")作業系統[Android](../Page/Android.md "wikilink")及[蘋果公司作業系統](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，成為全球第三大智慧型手機作業系統。
 
 2013年，黑莓宣布，将使用[BlackBerry
 10取代現有的BlackBerry](../Page/BlackBerry_10.md "wikilink")

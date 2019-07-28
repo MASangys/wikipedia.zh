@@ -1,6 +1,6 @@
 **Choc7**（中文名稱**超克7**），前稱**模范七棒**，出道前稱**棒棒堂二軍**，網友、傳媒、官方及支持者等常簡稱為**二軍**或**七棒**。這是一組經過2008年整個上旬的選戰，3月22日的Mini
-Concert、雜誌封面拍攝及網上選舉、7月推出的《冒險世界》[EP及其後的各場簽唱會表現及支持票選才產生的男子藝人團體](https://zh.wikipedia.org/wiki/EP "wikilink")，是繼[Lollipop棒棒堂之後的](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[模范棒棒堂第二隊出道組合](../Page/模范棒棒堂.md "wikilink")，雖然如此，但各成員本身在人氣上有不小的落差，不過經紀公司[Channel
-V](../Page/Channel_V.md "wikilink")（台灣）頻道總監[張世明相信人氣能後天努力](../Page/張世明.md "wikilink")，因為選出各成員都是因為他們都擁有不同的才能和同一顆心，向「成功的藝人」的目標出發。
+Concert、雜誌封面拍攝及網上選舉、7月推出的《冒險世界》[EP及其後的各場簽唱會表現及支持票選才產生的男子藝人團體](https://zh.wikipedia.org/wiki/EP "wikilink")，是繼[Lollipop棒棒堂之後的](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")第二隊出道組合，雖然如此，但各成員本身在人氣上有不小的落差，不過經紀公司[Channel
+V](../Page/Channel_V.md "wikilink")（台灣）頻道總監[張世明](../Page/張世明.md "wikilink")相信人氣能後天努力，因為選出各成員都是因為他們都擁有不同的才能和同一顆心，向「成功的藝人」的目標出發。
 
 於2008年8月13日模范棒棒堂錄影節目時吸引了廣大媒體採訪及即時報道，而部分媒體就報道了入選成員包括[李銓](../Page/李銓.md "wikilink")、[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")、[小馬](../Page/簡翔棋.md "wikilink")、[野獸](../Page/韋佳宏.md "wikilink")、[阿本](../Page/翁瑞迪.md "wikilink")、[小祿及](../Page/劉祿存.md "wikilink")[鮪魚](../Page/吳俊諺.md "wikilink")，而[牙膏及](../Page/謝東裕.md "wikilink")[翰獎因為表現或人條度不足而被淘汰](../Page/王勇翰.md "wikilink")，變回模范棒棒堂普通成員；[Terry亦因擁有超過團體的表現](../Page/江振愷.md "wikilink")，相當有單飛潛力，故亦不獲入選。
 
@@ -25,18 +25,18 @@ V](../Page/Channel_V.md "wikilink")（台灣）頻道總監[張世明相信人�
 
 在2009年3月7日，七棒經紀人兼Channel V總監張世明在官方討論區中，預告「模范七棒」將會有新團名。 同時在五月初起，[Channel
 V開始在廣告時段播放電視台新節目](../Page/Channel_V.md "wikilink")[極上生徒會的預告片](https://zh.wikipedia.org/wiki/極上生徒會 "wikilink")，在預告片的右下角則出現了Choc7（超克7）的字樣\[2\]，有人指這可能將會是七棒的新團名。而於2009年5月7日已由[Channel
-V總監](../Page/Channel_V.md "wikilink")[張世明確認消息](../Page/張世明.md "wikilink")。亦於同年5月18日6時起，Channel
+V總監](../Page/Channel_V.md "wikilink")[張世明](../Page/張世明.md "wikilink")確認消息。亦於同年5月18日6時起，Channel
 V開始播放有關七棒新團名的廣告，進一步證實了消息。
 
 ### 團長爭議
 
-另外，在團名正式易名之後，所有的宣傳通告，幾乎也是由[毛弟來介紹團名等](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")。由於這些工作在師兄[Lollipop棒棒堂還有師姐](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[黑Girl都是由團長來做](../Page/黑Girl.md "wikilink")，所以令人產生錯覺─[毛弟才是CHOC](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")7的真團長。
+另外，在團名正式易名之後，所有的宣傳通告，幾乎也是由[毛弟來介紹團名等](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")。由於這些工作在師兄[Lollipop棒棒堂還有師姐](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[黑Girl](../Page/黑Girl.md "wikilink")都是由團長來做，所以令人產生錯覺─[毛弟才是CHOC](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")7的真團長。
 
-而在2009年5月28日播映的[康熙來了中](../Page/康熙來了.md "wikilink")，主持人[小S查問CHOC](../Page/徐熙娣.md "wikilink")7的團長是誰，然後各成員皆指出[毛弟是團長](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")，這個消息一出，在官方討論區引起了一場激烈的討論
+而在2009年5月28日播映的[康熙來了](../Page/康熙來了.md "wikilink")中，主持人[小S查問CHOC](../Page/徐熙娣.md "wikilink")7的團長是誰，然後各成員皆指出[毛弟是團長](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")，這個消息一出，在官方討論區引起了一場激烈的討論
 。
 
 最後，經[Channel
-V總監](../Page/Channel_V.md "wikilink")[張世明於](../Page/張世明.md "wikilink")5月29日凌晨在網上解釋後，確認了CHOC7的真正的團長是[阿本](../Page/翁瑞迪.md "wikilink")，從而平息了支持者的疑慮。
+V總監](../Page/Channel_V.md "wikilink")[張世明](../Page/張世明.md "wikilink")於5月29日凌晨在網上解釋後，確認了CHOC7的真正的團長是[阿本](../Page/翁瑞迪.md "wikilink")，從而平息了支持者的疑慮。
 
 ## 已離開成員詳細資料
 
@@ -68,7 +68,7 @@ Chris</p></td>
 <td><p><a href="../Page/邱勝翊.md" title="wikilink">王子的親弟弟</a>；<br />
 Choc7（超克7）人氣王；<br />
 真名曾被誤為「邱翊澄」<br />
-以<a href="../Page/羅志祥.md" title="wikilink">羅志祥作為舞蹈上的目標</a>；<br />
+以<a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>作為舞蹈上的目標；<br />
 外貌曾被指與顏正國相似，<br />
 最近則被指酷似<a href="../Page/張芸京.md" title="wikilink">張芸京</a><br />
 後改藝名為邱宇辰<br />
@@ -146,11 +146,11 @@ SET王、公主本</p></td>
 <td><p>第四代</p></td>
 <td><p>小綿羊、吞食獸、肥貓、<br />
 <a href="https://zh.wikipedia.org/wiki/林志傑" title="wikilink">林志傑</a>、小獸獸</p></td>
-<td><p>第三屆棒棒堂開堂前因患上<a href="../Page/肺炎.md" title="wikilink">肺炎而一直未能在節目登場</a><br />
+<td><p>第三屆棒棒堂開堂前因患上<a href="../Page/肺炎.md" title="wikilink">肺炎</a>而一直未能在節目登場<br />
 第一及三屆節目中唯一會「雷鬼」舞蹈的男孩；<br />
 最會吃便當也是最胖的底迪，<br />
 在<a href="https://zh.wikipedia.org/wiki/華納唱片_(台灣)" title="wikilink">唱片公司的嚴謹要求下正在減肥</a>；<br />
-被堂主<a href="../Page/范瑋琪.md" title="wikilink">范瑋琪鼓勵向唱歌方面發展</a>；<br />
+被堂主<a href="../Page/范瑋琪.md" title="wikilink">范瑋琪</a>鼓勵向唱歌方面發展；<br />
 外貌曾被指酷似林志傑<br />
 現為日出工作室旗下藝人</p></td>
 <td><p><a href="https://www.facebook.com/pages/韋佳宏-野獸/168807226091">Facebook</a><br />
@@ -166,7 +166,7 @@ SET王、公主本</p></td>
 傻銓、銓兒、<br />
 鼓王、大腳怪仙、<br />
 大腳哈利、Peter銓</p></td>
-<td><p>分別有四分之一<a href="../Page/阿美族.md" title="wikilink">阿美族血統及</a><a href="https://zh.wikipedia.org/wiki/荷蘭" title="wikilink">荷蘭血統</a>；<br />
+<td><p>分別有四分之一<a href="../Page/阿美族.md" title="wikilink">阿美族</a>血統及<a href="https://zh.wikipedia.org/wiki/荷蘭" title="wikilink">荷蘭血統</a>；<br />
 在第一屆節目中，因與<a href="https://zh.wikipedia.org/wiki/廖亦崟" title="wikilink">威廉同被人誤解是</a>「阿達性情」，<br />
 而被威廉稱為「徒弟」，<br />
 擅長爵士鼓及國標舞；<br />
@@ -251,7 +251,7 @@ Simon、金絲眼鏡</p></td>
 <td><p>台灣：<a href="https://zh.wikipedia.org/wiki/民視" title="wikilink">民視無線台</a><br />
 香港：<a href="https://zh.wikipedia.org/wiki/無綫電視" title="wikilink">無綫電視</a><a href="https://zh.wikipedia.org/wiki/J2台" title="wikilink">J2台</a></p></td>
 <td><p><a href="../Page/黑糖瑪奇朵.md" title="wikilink">黑糖瑪奇朵</a></p></td>
-<td><p><a href="../Page/李銓.md" title="wikilink">李銓飾演同名角色</a><br />
+<td><p><a href="../Page/李銓.md" title="wikilink">李銓</a>飾演同名角色<br />
 <a href="https://zh.wikipedia.org/wiki/小馬" title="wikilink">小馬飾演同名角色</a></p></td>
 <td><p>客串三集</p></td>
 </tr>
@@ -275,7 +275,7 @@ Simon、金絲眼鏡</p></td>
 <td><p>2007年</p></td>
 <td><p>此為網絡短劇</p></td>
 <td><p><a href="../Page/黑糖來了.md" title="wikilink">黑糖來了</a></p></td>
-<td><p><a href="../Page/李銓.md" title="wikilink">李銓飾演同名角色</a><br />
+<td><p><a href="../Page/李銓.md" title="wikilink">李銓</a>飾演同名角色<br />
 <a href="https://zh.wikipedia.org/wiki/小馬" title="wikilink">小馬飾演同名角色</a></p></td>
 <td><p>男主角</p></td>
 </tr>
@@ -474,7 +474,7 @@ Simon、金絲眼鏡</p></td>
   - 2008年1月26日 - 棒棒堂夢想出發‧閃耀小巨蛋演唱會（表演嘉賓）（「十四棒」時代）共同演出
   - 2008年3月22日 - 模范棒棒堂二軍選拔PK戰－15分鐘Mini
     Concert表演（台北[新光三越A](https://zh.wikipedia.org/wiki/新光三越 "wikilink")8館戶外廣場舉行、「十四棒」時代）
-  - 2008年10月31日 - 第四十三屆電視[金鐘獎頒獎典禮](../Page/金鐘獎.md "wikilink") 表演嘉賓
+  - 2008年10月31日 - 第四十三屆電視[金鐘獎](../Page/金鐘獎.md "wikilink")頒獎典禮 表演嘉賓
       - 與黑Girl表演〈哆啦Ａ夢〉、〈綠野仙蹤〉、〈科學小飛俠〉、〈無敵鐵金剛〉及〈小甜甜〉等5首經典卡通歌。
   - 2008年11月29日 - 2008 V POWER演唱會 表演嘉賓
   - 2009年7月4日至7月5日 -
@@ -488,13 +488,13 @@ Simon、金絲眼鏡</p></td>
 
   - 2008年 - 毛弟 -
     《[九降風](../Page/九降風_\(電影\).md "wikilink")》，是第32屆香港國際電影節參展電影
-  - 2009年2月26日《[愛到底](../Page/愛到底.md "wikilink")》為一四段式電影，Choc7六位成員(除野獸)都有於[黃子佼執導之](../Page/黃子佼.md "wikilink")《第六號瀏海》演出。
-  - 2009年 - 李銓 - [董氏基金會公益宣導短片](../Page/董氏基金會.md "wikilink")《黑潮》
+  - 2009年2月26日《[愛到底](../Page/愛到底.md "wikilink")》為一四段式電影，Choc7六位成員(除野獸)都有於[黃子佼](../Page/黃子佼.md "wikilink")執導之《第六號瀏海》演出。
+  - 2009年 - 李銓 - [董氏基金會](../Page/董氏基金會.md "wikilink")公益宣導短片《黑潮》
 
 ### 台灣以外活動
 
   - 2007年11月1日 - 香港 - 阿本、小馬、毛弟、李銓；MINI CLUBMAN發佈會
-  - 2007年11月25日 - 香港 - 阿本；[大埔超級城聖誕亮燈儀式](../Page/大埔超級城.md "wikilink")
+  - 2007年11月25日 - 香港 - 阿本；[大埔超級城](../Page/大埔超級城.md "wikilink")聖誕亮燈儀式
   - 2007年12月7日及12月8日 -
     香港[觀塘](../Page/觀塘.md "wikilink")[aPM](https://zh.wikipedia.org/wiki/aPM "wikilink")
     - 阿本；《18禁不禁》宣傳活動

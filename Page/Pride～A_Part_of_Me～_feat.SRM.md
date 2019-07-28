@@ -31,7 +31,7 @@ Records发售。
       - 作詞：Stephanie &
         [mavie](https://zh.wikipedia.org/wiki/mavie "wikilink")
         作曲/編曲：Joe Rinoie
-      - 第五张单曲「[Changin'](https://zh.wikipedia.org/wiki/Changin' "wikilink")」的2台[钢琴进行伴奏的](../Page/钢琴.md "wikilink")[Remix版本](https://zh.wikipedia.org/wiki/Remix "wikilink")。
+      - 第五张单曲「[Changin'](https://zh.wikipedia.org/wiki/Changin' "wikilink")」的2台[钢琴](../Page/钢琴.md "wikilink")进行伴奏的[Remix版本](https://zh.wikipedia.org/wiki/Remix "wikilink")。
 
 [Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink")
 [Category:电影主题曲](https://zh.wikipedia.org/wiki/Category:电影主题曲 "wikilink")

@@ -1,9 +1,9 @@
 **BMD-1伞兵战车**（俄语：Боевая Машина Десантная－1
-简称БМД—1）是前[苏联于](../Page/苏联.md "wikilink")1960年代研发，1973年正式装备前苏联[俄罗斯空降军的一款](https://zh.wikipedia.org/wiki/空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第一款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。至今仍在[俄罗斯](../Page/俄罗斯.md "wikilink")，前苏联各加盟共和国和一些第三世界国家的军队中服役。
+简称БМД—1）是前[苏联](../Page/苏联.md "wikilink")于1960年代研发，1973年正式装备前苏联[俄罗斯空降军的一款](https://zh.wikipedia.org/wiki/空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第一款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。至今仍在[俄罗斯](../Page/俄罗斯.md "wikilink")，前苏联各加盟共和国和一些第三世界国家的军队中服役。
 
 ## 研发和装备背景
 
-在[二战后直到](../Page/第二次世界大战.md "wikilink")60年代初，苏联空降军仅装备[ASU-57和](../Page/ASU-57空降自走炮.md "wikilink")[ASU-85空降自走炮](../Page/ASU-85空降自走炮.md "wikilink")，属于[火力支援兵器](https://zh.wikipedia.org/wiki/火力支援 "wikilink")，前苏联空降军急需研制一种可空降的[突击作战兵器](https://zh.wikipedia.org/wiki/突击作战 "wikilink")。在此背景下，BMD-1的研制被提上日程。在[BMP-1](https://zh.wikipedia.org/wiki/BMP-1 "wikilink")[步兵战车的基础上](../Page/步兵战车.md "wikilink")，苏联研发部门将其缩小尺寸，降低重量，并且应用上空投技术，
+在[二战后直到](../Page/第二次世界大战.md "wikilink")60年代初，苏联空降军仅装备[ASU-57和](../Page/ASU-57空降自走炮.md "wikilink")[ASU-85空降自走炮](../Page/ASU-85空降自走炮.md "wikilink")，属于[火力支援兵器](https://zh.wikipedia.org/wiki/火力支援 "wikilink")，前苏联空降军急需研制一种可空降的[突击作战兵器](https://zh.wikipedia.org/wiki/突击作战 "wikilink")。在此背景下，BMD-1的研制被提上日程。在[BMP-1](https://zh.wikipedia.org/wiki/BMP-1 "wikilink")[步兵战车](../Page/步兵战车.md "wikilink")的基础上，苏联研发部门将其缩小尺寸，降低重量，并且应用上空投技术，
 研制出了BMD-1伞兵战车。 这也是BMD系列伞兵战车的特点，和BMP系列步兵战车一一对应。可视为后者的“空降变形车”。
 
 BMD-1步兵战车在1973年11月7日的莫斯科红场阅兵式上正式亮相。随后大批装备前苏联空降军。并有部分出口到其他国家。
@@ -12,7 +12,7 @@ BMD-1步兵战车在1973年11月7日的莫斯科红场阅兵式上正式亮相�
 
 车体前部为驾驶室，驾驶员位于车体中央。中部为战斗室，
 [炮塔位于车体中部靠前](https://zh.wikipedia.org/wiki/炮塔 "wikilink")，为单人炮塔。后部为载员室，再后是动力舱。
-因此BMD-1不设后门，载员只能从载员室的上方出入。与BMP-1不同，出于伞兵战车的特殊考虑，BMD-1为[发动机后置](../Page/发动机.md "wikilink")。
+因此BMD-1不设后门，载员只能从载员室的上方出入。与BMP-1不同，出于伞兵战车的特殊考虑，BMD-1为[发动机](../Page/发动机.md "wikilink")后置。
 
 ## 武器系统
 
@@ -24,7 +24,7 @@ BMD-1步兵战车在1973年11月7日的莫斯科红场阅兵式上正式亮相�
 
 ## 空投技术
 
-以[安-12运输机可运](https://zh.wikipedia.org/wiki/安-12 "wikilink")2辆，[伊尔-76可运](../Page/伊尔-76.md "wikilink")3辆，[安-22可运](../Page/安托諾夫An-22.md "wikilink")4辆，[Mi-6直升机可吊挂](https://zh.wikipedia.org/wiki/Mi-6 "wikilink")1辆。
+以[安-12运输机可运](https://zh.wikipedia.org/wiki/安-12 "wikilink")2辆，[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆，[安-22可运](../Page/安托諾夫An-22.md "wikilink")4辆，[Mi-6直升机可吊挂](https://zh.wikipedia.org/wiki/Mi-6 "wikilink")1辆。
 
 利用辅助喷气式伞降系统实施空降。 空降过程如下：
 
@@ -45,7 +45,7 @@ BMD-1步兵战车在1973年11月7日的莫斯科红场阅兵式上正式亮相�
 
 ## 装甲/防御
 
-为钢装甲全[焊接结构](../Page/焊接.md "wikilink")，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。有三防装置。
+为钢装甲全[焊接](../Page/焊接.md "wikilink")结构，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。有三防装置。
 
 ## 观瞄设备
 

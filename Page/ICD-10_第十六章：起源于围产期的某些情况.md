@@ -1,7 +1,7 @@
 ## P00-P04 胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响
 
 P00-P04
-[胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[新生儿受母体因素及](https://zh.wikipedia.org/wiki/新生儿 "wikilink")[妊娠](../Page/妊娠.md "wikilink")、[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩并发症的影响](../Page/分娩.md "wikilink")
+[胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[新生儿受母体因素及](https://zh.wikipedia.org/wiki/新生儿 "wikilink")[妊娠](../Page/妊娠.md "wikilink")、[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩](../Page/分娩.md "wikilink")并发症的影响
 
   - P00 胎儿和新生儿受母体情况影响，这些情况可能与本次妊娠无关
   - P01 胎儿和新生儿受母体妊娠并发症的影响
@@ -11,7 +11,7 @@ P00-P04
 
 ## P05-P08 与妊娠期长短和胎儿生长有关的疾患
 
-P05-P08 与[妊娠期长短和胎儿生长有关的疾患](../Page/妊娠期.md "wikilink")
+P05-P08 与[妊娠期](../Page/妊娠期.md "wikilink")长短和胎儿生长有关的疾患
 
   - P05 胎儿生长缓慢和胎儿营养不良
   - P07 与孕期短和低出生体重有关的疾患，不可归类在他处者

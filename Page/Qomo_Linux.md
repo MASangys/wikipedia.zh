@@ -1,5 +1,5 @@
 **Qomo
-Linux**是由Linux人社区开发的一种社区版本[Linux](../Page/Linux.md "wikilink")。实际上，Qomo是由[红旗Linux赞助的社区](https://zh.wikipedia.org/wiki/红旗Linux "wikilink")[Linux](../Page/Linux.md "wikilink")。其关系类似于[RedHat与](https://zh.wikipedia.org/wiki/RedHat "wikilink")[Fedora的关系](../Page/Fedora.md "wikilink")。在红旗Linux的安装程序中提到了“社区版本Qomo”，而且在[红旗Linux发行版本](https://zh.wikipedia.org/wiki/红旗Linux "wikilink")6.0中也发现了一些有Qomo
+Linux**是由Linux人社区开发的一种社区版本[Linux](../Page/Linux.md "wikilink")。实际上，Qomo是由[红旗Linux赞助的社区](https://zh.wikipedia.org/wiki/红旗Linux "wikilink")[Linux](../Page/Linux.md "wikilink")。其关系类似于[RedHat与](https://zh.wikipedia.org/wiki/RedHat "wikilink")[Fedora](../Page/Fedora.md "wikilink")的关系。在红旗Linux的安装程序中提到了“社区版本Qomo”，而且在[红旗Linux发行版本](https://zh.wikipedia.org/wiki/红旗Linux "wikilink")6.0中也发现了一些有Qomo
 Logo的程序。
 
 原名為**Everest Linux**，2009年7月更名为Qomo
@@ -9,7 +9,7 @@ Linux。Qomo来源于藏语的“Qomolangma”（[珠穆朗玛](https://zh.wikip
 
 ## 特点
 
-使用了基于[RPM套件管理員的](../Page/RPM套件管理員.md "wikilink")[yum自動下載安裝管理器](https://zh.wikipedia.org/wiki/yum "wikilink")，可一次安裝所有關連的軟體包。具有较好的中文支持，以及較活跃的社区支持。
+使用了基于[RPM套件管理員](../Page/RPM套件管理員.md "wikilink")的[yum自動下載安裝管理器](https://zh.wikipedia.org/wiki/yum "wikilink")，可一次安裝所有關連的軟體包。具有较好的中文支持，以及較活跃的社区支持。
 
 ## 版本发布
 

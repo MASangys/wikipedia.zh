@@ -8,7 +8,7 @@ Soft，）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，�
   - 1989年4月 - 設立成人遊戲廠牌**ALICESOFT**。
   - 1989年7月 -
     發行處女作**Intruder**、****與**[Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")**。
-  - 1990年10月 - 成立[玩家俱樂部](../Page/玩家.md "wikilink")。
+  - 1990年10月 - 成立[玩家](../Page/玩家.md "wikilink")俱樂部。
   - 1995年4月 - 總部搬移至大阪市北區天滿3丁目12番3號「Hani Building」（）。
   - 2003年4月15日－發表「自由散佈宣言」（）。
   - 2006年春 - 於[東京設置分公司](https://zh.wikipedia.org/wiki/東京 "wikilink")。
@@ -16,7 +16,7 @@ Soft，）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，�
 
 ## 概述
 
-冠軍軟體在成立初期主要制作於[PC-88和](https://zh.wikipedia.org/wiki/NEC_PC-8801 "wikilink")[PC-98平台上的遊戲](https://zh.wikipedia.org/wiki/NEC_PC-9801 "wikilink")。隨著年號由[昭和變更為](../Page/昭和.md "wikilink")[平成](../Page/平成.md "wikilink")，冠軍軟體於1989年成立ALICESOFT，並發行了**Intruder**、****與**[Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")**兩款遊戲。之後，冠軍軟體開始著手製作[硬碟遊戲](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，並將平台轉向[Microsoft
+冠軍軟體在成立初期主要制作於[PC-88和](https://zh.wikipedia.org/wiki/NEC_PC-8801 "wikilink")[PC-98平台上的遊戲](https://zh.wikipedia.org/wiki/NEC_PC-9801 "wikilink")。隨著年號由[昭和](../Page/昭和.md "wikilink")變更為[平成](../Page/平成.md "wikilink")，冠軍軟體於1989年成立ALICESOFT，並發行了**Intruder**、****與**[Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")**兩款遊戲。之後，冠軍軟體開始著手製作[硬碟遊戲](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，並將平台轉向[Microsoft
 Windows發展](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。在1990年代曾與[élf齊名](https://zh.wikipedia.org/wiki/ELF_\(公司\) "wikilink")，並稱為「東有élf，西有Alice」。
 
 九十年代中期曾一度面临业绩不佳将要倒闭的困境。然而由于孤注一掷的作品**鬼畜王兰斯**的巨大成功，扭转局面。
@@ -32,7 +32,7 @@ Blue**，專門發行[BL遊戲](https://zh.wikipedia.org/wiki/BL "wikilink")，�
 
 ### 遊戲系統
 
-ALICESOFT本身利用[中間語言自行撰寫了一套公司專屬的遊戲系統程式](../Page/中間語言.md "wikilink")。
+ALICESOFT本身利用[中間語言](../Page/中間語言.md "wikilink")自行撰寫了一套公司專屬的遊戲系統程式。
 
 ### 公司風格
 
@@ -40,7 +40,7 @@ ALICESOFT本身利用[中間語言自行撰寫了一套公司專屬的遊戲系�
 
 由於公司的經營方針為「以長期的觀點做考量，合理並踏實的經營」與「將成人遊戲視為一件嚴肅的事情，並以製作成人遊戲為榮」，ALICESOFT所發行的大多數遊戲即使將成人要素剔除，其遊戲性仍舊不減，不過同時也會使得劇情或設定會無法正常進行，因此ALICESOFT所發行的遊戲中，鮮有改為一般向並移植到家用遊戲主機上的作品，例如《[Only
 You
--リ・クルス-](../Page/Only_you_\(遊戲\).md "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")）與《鬥神都市》（[3DS](https://zh.wikipedia.org/wiki/3DS "wikilink")）。也因為如此的經營方針，該公司發售至今的遊戲改編動畫只有15禁OVA或是[成人動畫作品](../Page/成人動畫.md "wikilink")，並無改編成電視動畫作品。
+-リ・クルス-](../Page/Only_you_\(遊戲\).md "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")）與《鬥神都市》（[3DS](https://zh.wikipedia.org/wiki/3DS "wikilink")）。也因為如此的經營方針，該公司發售至今的遊戲改編動畫只有15禁OVA或是[成人動畫](../Page/成人動畫.md "wikilink")作品，並無改編成電視動畫作品。
 
 基於長期的觀點之考量，公司注重與玩家之間的信任關係，並會發行低價格的遊戲或是將既有的遊戲發行廉價版，以及將附屬在產品內的促銷附件於官網上開放下載（如作為促銷的遊戲「」）。除此之外，ALICESOFT更提出了「自由散佈宣言」（詳細後述）。
 

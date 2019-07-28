@@ -16,7 +16,7 @@ GREEN”。
 
   - 『報導時間』
     『ONE PIECE總集編 2ND LOG
-    "SANJI"』揭載。敘述[香吉士加入草帽海賊團前](https://zh.wikipedia.org/wiki/香吉士 "wikilink")，[魯夫](../Page/蒙其·D·魯夫.md "wikilink")·[索隆](../Page/羅羅亞·索隆.md "wikilink")·[娜美](../Page/娜美.md "wikilink")·[騙人布的飲食生活](../Page/騙人布.md "wikilink")。
+    "SANJI"』揭載。敘述[香吉士加入草帽海賊團前](https://zh.wikipedia.org/wiki/香吉士 "wikilink")，[魯夫](../Page/蒙其·D·魯夫.md "wikilink")·[索隆](../Page/羅羅亞·索隆.md "wikilink")·[娜美](../Page/娜美.md "wikilink")·[騙人布](../Page/騙人布.md "wikilink")的飲食生活。
   - 『大嬸時間』
     『ONE PIECE總集編 3RD LOG "NAMI"』揭載。草帽海賊團全員（佛朗基、布魯克除外）以大嬸姿態登場。
   - 『無仁義時間』
@@ -56,7 +56,7 @@ GREEN”。
     為了做生魚片把廚房和醬油瓶都切成兩半的大嬸。
 
   - 喬巴森
-    帶著白飯來到[百貨公司試吃專櫃吃飯的麻煩的馴鹿](../Page/百貨公司.md "wikilink")。
+    帶著白飯來到[百貨公司](../Page/百貨公司.md "wikilink")試吃專櫃吃飯的麻煩的馴鹿。
 
   - 香吉田
     喜歡亂摸女性身體的好色大嬸。
@@ -207,7 +207,7 @@ GREEN”。
   - 雷電香衛門
     江戶的橫綱。
   - 妮可佩利
-    sullivan合眾國海軍艦隊司令官，外型參考自[黑船來航事件中美國海軍將領](../Page/黑船來航.md "wikilink")[馬修·培理](https://zh.wikipedia.org/wiki/馬修·培理 "wikilink")。
+    sullivan合眾國海軍艦隊司令官，外型參考自[黑船來航](../Page/黑船來航.md "wikilink")事件中美國海軍將領[馬修·培理](https://zh.wikipedia.org/wiki/馬修·培理 "wikilink")。
   - 喬部半藏
     忍者。
   - 索隆作
@@ -226,7 +226,7 @@ GREEN”。
   - 中村·半索郎
     試刀劍客，最喜歡隨便砍半夜走夜路的人。
   - 羅比＆喬萊德
-    強盜殺人犯的雙人組，自稱殺了14個人，並且表示是因為社會這玩意太讓他們不爽了，必殺技是用[槍托海扁人](../Page/槍托.md "wikilink")。
+    強盜殺人犯的雙人組，自稱殺了14個人，並且表示是因為社會這玩意太讓他們不爽了，必殺技是用[槍托](../Page/槍托.md "wikilink")海扁人。
   - 骷髏·香吉士煙
     殺手，自稱殺了30個人，但本身有執業操守，錢都是跟僱主要。
   - 分屍佛朗基
@@ -300,4 +300,4 @@ GREEN”。
 
 ## 相關項目
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
+[Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink")

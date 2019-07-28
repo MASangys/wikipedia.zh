@@ -1,4 +1,4 @@
-**Hi-Vision**是[日本放送協会](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）商標所有，[日本的高解析度](../Page/日本.md "wikilink")[電視放送](https://zh.wikipedia.org/wiki/電視 "wikilink")（**High
+**Hi-Vision**是[日本放送協会](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）商標所有，[日本](../Page/日本.md "wikilink")的高解析度[電視放送](https://zh.wikipedia.org/wiki/電視 "wikilink")（**High
 Definition television**/**HDTV**）的暱稱。
 
 ## 概要

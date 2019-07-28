@@ -1,9 +1,9 @@
 **KParts**是[KDE](../Page/KDE.md "wikilink")
 桌面環境的使用者介面元件嵌入技術的名稱。個別元件被稱為**KPart**。KParts
-類似於在Microsoft的[組件對象模型的](https://zh.wikipedia.org/wiki/組件對象模型 "wikilink")[ActiveX控件](../Page/ActiveX.md "wikilink")。举例来说，[Konsole可作為KPart使用在應用軟件](../Page/Konsole.md "wikilink")，如[Konqueror和](../Page/Konqueror.md "wikilink")[Kate](../Page/Kate.md "wikilink")。
+類似於在Microsoft的[組件對象模型的](https://zh.wikipedia.org/wiki/組件對象模型 "wikilink")[ActiveX](../Page/ActiveX.md "wikilink")控件。举例来说，[Konsole](../Page/Konsole.md "wikilink")可作為KPart使用在應用軟件，如[Konqueror](../Page/Konqueror.md "wikilink")和[Kate](../Page/Kate.md "wikilink")。
 KPart 以共享程式庫為基礎，這讓元件直接以 [C++](../Page/C++.md "wikilink")
 物件的形式存在。共享程式庫也相當容易去觸發或卸載。
-原本KDE 使用 [CORBA來實現元件框架](../Page/CORBA.md "wikilink")，但是 CORBA
+原本KDE 使用 [CORBA](../Page/CORBA.md "wikilink")來實現元件框架，但是 CORBA
 過於笨重，且必須使用[IDL語言進行物件封裝](https://zh.wikipedia.org/wiki/IDL "wikilink")，難以符合KDE團隊希望簡單撰寫與使用的使用者介面元件。於是他們開始撰寫一個輕量級而有效的元件技術--
 KPart 來取代 CORBA。
 KDE採用兩層結構來實現元件框架：KParts 和

@@ -1,4 +1,4 @@
-**雷福尔马茨基反应**（**Reformatsky反应**、**Reformatskii反应**）是[醛或](../Page/醛.md "wikilink")[酮与α](../Page/酮.md "wikilink")-卤代酸[酯和](../Page/酯.md "wikilink")[锌在惰性溶剂中作用](../Page/锌.md "wikilink")，发生[缩合得到β](https://zh.wikipedia.org/wiki/缩合 "wikilink")-[羟基酸酯的反应](../Page/羟基.md "wikilink")\[1\]\[2\]。
+**雷福尔马茨基反应**（**Reformatsky反应**、**Reformatskii反应**）是[醛](../Page/醛.md "wikilink")或[酮](../Page/酮.md "wikilink")与α-卤代酸[酯](../Page/酯.md "wikilink")和[锌](../Page/锌.md "wikilink")在惰性溶剂中作用，发生[缩合得到β](https://zh.wikipedia.org/wiki/缩合 "wikilink")-[羟基](../Page/羟基.md "wikilink")酸酯的反应\[1\]\[2\]。
 它首先由俄国化学家[雷福尔马茨基发现](https://zh.wikipedia.org/wiki/雷福尔马茨基 "wikilink")。
 
 [Reformatsky_Reaktion_Übersicht1.svg](https://zh.wikipedia.org/wiki/File:Reformatsky_Reaktion_Übersicht1.svg "fig:Reformatsky_Reaktion_Übersicht1.svg")
@@ -7,9 +7,9 @@
 
 [ReformatskyReactionMechanism.svg](https://zh.wikipedia.org/wiki/File:ReformatskyReactionMechanism.svg "fig:ReformatskyReactionMechanism.svg")
 
-溴代酸酯与锌反应得到[有机锌试剂中间体](https://zh.wikipedia.org/wiki/有机锌试剂 "wikilink")，也称“雷福尔马茨基烯醇盐”。然后它与[羰基加成](../Page/羰基.md "wikilink")，水解，得到产物。溴代酸酯的α-碳上有[烷基或](../Page/烷基.md "wikilink")[芳基均可反应](https://zh.wikipedia.org/wiki/芳基 "wikilink")，[芳香醛酮也可反应](https://zh.wikipedia.org/wiki/芳香 "wikilink")，唯有空间位阻大的底物不反应。有机锌中间体活泼性不强，因此不与酯羰基发生[亲核加成](https://zh.wikipedia.org/wiki/亲核加成 "wikilink")，酯基得以保留。
+溴代酸酯与锌反应得到[有机锌试剂中间体](https://zh.wikipedia.org/wiki/有机锌试剂 "wikilink")，也称“雷福尔马茨基烯醇盐”。然后它与[羰基](../Page/羰基.md "wikilink")加成，水解，得到产物。溴代酸酯的α-碳上有[烷基](../Page/烷基.md "wikilink")或[芳基均可反应](https://zh.wikipedia.org/wiki/芳基 "wikilink")，[芳香醛酮也可反应](https://zh.wikipedia.org/wiki/芳香 "wikilink")，唯有空间位阻大的底物不反应。有机锌中间体活泼性不强，因此不与酯羰基发生[亲核加成](https://zh.wikipedia.org/wiki/亲核加成 "wikilink")，酯基得以保留。
 
-以下是雷福尔马茨基反应的一个例子（碘代[内酯与](../Page/内酯.md "wikilink")[醛和](../Page/醛.md "wikilink")[三乙基硼在](https://zh.wikipedia.org/wiki/三乙基硼 "wikilink")[甲苯中于](../Page/甲苯.md "wikilink")-78°C反应缩合）：\[3\]
+以下是雷福尔马茨基反应的一个例子（碘代[内酯](../Page/内酯.md "wikilink")与[醛](../Page/醛.md "wikilink")和[三乙基硼在](https://zh.wikipedia.org/wiki/三乙基硼 "wikilink")[甲苯](../Page/甲苯.md "wikilink")中于-78°C反应缩合）：\[3\]
 
 [Reformatskii_Danishefsky_2006.png](https://zh.wikipedia.org/wiki/File:Reformatskii_Danishefsky_2006.png "fig:Reformatskii_Danishefsky_2006.png")
 

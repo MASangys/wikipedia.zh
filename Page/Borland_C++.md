@@ -1,5 +1,5 @@
 **Borland
-C++**是[C++程式的開發環境](../Page/C++.md "wikilink")（可稱之[-{zh-cn:集成开发环境;
+C++**是[C++](../Page/C++.md "wikilink")程式的開發環境（可稱之[-{zh-cn:集成开发环境;
 zh-sg:整合开发环境;
 zh-hant:整合開發環境;}-](../Page/集成开发环境.md "wikilink")，Integrated
 Development Environment,

@@ -11,7 +11,7 @@
 −1分支，则记为*W*<sub>−1</sub>(*x*)，从*W*<sub>−1</sub>(−1/*e*)
 = −1递减为*W*<sub>−1</sub>(0<sup>−</sup>) = −∞。
 
-朗伯*W*函数不能用[初等函数来表示](../Page/初等函数.md "wikilink")。它在[组合数学中有许多用途](../Page/组合数学.md "wikilink")，例如[树的计算](../Page/树_\(图论\).md "wikilink")。它可以用来解许多含有指数的方程，也出现在某些[微分方程的解中](../Page/微分方程.md "wikilink")，例如*y*'(*t*)
+朗伯*W*函数不能用[初等函数](../Page/初等函数.md "wikilink")来表示。它在[组合数学](../Page/组合数学.md "wikilink")中有许多用途，例如[树的计算](../Page/树_\(图论\).md "wikilink")。它可以用来解许多含有指数的方程，也出现在某些[微分方程](../Page/微分方程.md "wikilink")的解中，例如*y*'(*t*)
 = *a* *y*(*t* − 1)。
 
   -
@@ -50,7 +50,7 @@
 若 \(x>\frac{1}{e}\)
 ，上式还可化为\(W_0(x)=1+\left(\ln x-1\right)e^{-\frac{1}{\pi}\int_0^\infty\arctan\frac{\pi}{t-\ln t+\ln x}\cdot\frac{\rm{d}t}{t+1}}\)
 
-由[隐函数的求导法则](../Page/隐函数.md "wikilink")，朗伯\(W\,\)函数满足以下的[微分方程](../Page/微分方程.md "wikilink")：
+由[隐函数](../Page/隐函数.md "wikilink")的求导法则，朗伯\(W\,\)函数满足以下的[微分方程](../Page/微分方程.md "wikilink")：
 
 \[z\left[1+W(z)\right]\frac{{\rm{d}}}{{\rm{d}}z}W(z)=W(z)\]，\(z\neq -\frac{1}{e}\,,\)
 
@@ -79,7 +79,7 @@
 
 \[W_0 (x) = \sum_{n=1}^\infty \frac{(-n)^{n-1}}{n!}\ x^n = x - x^2 + \frac{3}{2}x^3 - \frac{8}{3}x^4 + \frac{125}{24}x^5 - \cdots\]
 
-[收敛半径为](../Page/收敛半径.md "wikilink") \(\frac{1}{e}\,\) 。
+[收敛半径](../Page/收敛半径.md "wikilink")为 \(\frac{1}{e}\,\) 。
 
 ## 加法定理
 
@@ -362,7 +362,7 @@
 
 Lambert W 函數之一般化\[1\]\[2\]\[3\] 包括:
 
-  - 一項在低維空間內[廣義相對論與](../Page/廣義相對論.md "wikilink")[量子力學的應用](https://zh.wikipedia.org/wiki/量子力學 "wikilink")（[量子引力](../Page/量子引力.md "wikilink")），實際上一種以前未知的
+  - 一項在低維空間內[廣義相對論](../Page/廣義相對論.md "wikilink")與[量子力學的應用](https://zh.wikipedia.org/wiki/量子力學 "wikilink")（[量子引力](../Page/量子引力.md "wikilink")），實際上一種以前未知的
     連結 於此二區域中，如 “Journal of Classical and Quantum Gravity”\[4\] 所示其 (1)
     的右邊式現為二維多項式 x：
 
@@ -375,7 +375,7 @@ Lambert W 函數之一般化\[1\]\[2\]\[3\] 包括:
     *r*<sub>2</sub>，(2)的兩方可分解為 (1) 因此其解簡化為標準 W 函數。(2)式代表著
     “dilaton”（[軸子](../Page/軸子.md "wikilink")）場的方程，可據此推導線性，雙體重力問題
     1+1
-    維（一空間維與一時間維）當兩不等（靜止）質量，以及，量子力學的特徵能[Delta位勢阱給不等電位於一維空間](../Page/Delta位勢阱.md "wikilink")。
+    維（一空間維與一時間維）當兩不等（靜止）質量，以及，量子力學的特徵能[Delta位勢阱](../Page/Delta位勢阱.md "wikilink")給不等電位於一維空間。
 
 <!-- end list -->
 
@@ -431,8 +431,9 @@ Image:LambertWAll.png
     vol. 48, no. 2, (June 2014), pp. 42-56
 4.  P.S. Farrugia, R.B. Mann, and T.C. Scott, *N-body Gravity and the
     Schrödinger Equation*, Class. Quantum Grav. vol. 24, (2007), pp.
-    4647-4659, [3](http://www.iop.org/EJ/toc/0264-9381/24/18); Arxiv
-    [4](http://arxiv.org/abs/gr-qc/0611144v2)
+    4647-4659,
+    [3](https://iopscience.iop.org/article/10.1088/0264-9381/24/18/006);
+    Arxiv [4](http://arxiv.org/abs/gr-qc/0611144v2)
 5.  T.C. Scott, M. Aubert-Frécon and J. Grotendorst, *New Approach for
     the Electronic Energies of the Hydrogen Molecular Ion*, Chem. Phys.
     vol. 324, (2006), pp. 323-338,
@@ -443,4 +444,4 @@ Image:LambertWAll.png
 7.  T.C. Scott, A. Lüchow, D. Bressanini and J.D. Morgan III, *The Nodal
     Surfaces of Helium Atom Eigenfunctions*, Phys. Rev. A 75, (2007), p.
     060101,
-    [7](http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PLRAAN000075000006060101000001&idtype=cvips&gifs=yes)
+    [7](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.75.060101)

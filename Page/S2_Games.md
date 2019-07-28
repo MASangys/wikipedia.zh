@@ -1,5 +1,5 @@
 **S2
-Games**是一个专注开发[电脑游戏的](../Page/电脑游戏.md "wikilink")[游戏开发机构](../Page/游戏开发者.md "wikilink")，由Marc
+Games**是一个专注开发[电脑游戏](../Page/电脑游戏.md "wikilink")的[游戏开发机构](../Page/游戏开发者.md "wikilink")，由Marc
 "Maliken"
 DeForest投资，设在[加利福尼亚的](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[Rohnert
 Park](https://zh.wikipedia.org/wiki/Rohnert_Park "wikilink")。他们的第一作*[Savage:
@@ -8,7 +8,7 @@ Newerth](https://zh.wikipedia.org/wiki/Savage:_The_Battle_for_Newerth "wikilink"
 *[Savage 2: A Tortured
 Soul](https://zh.wikipedia.org/wiki/Savage_2:_A_Tortured_Soul "wikilink")*，2008年1月16日首先放出Windows版本。最新作品[Heroes
 of
-Newerth是一个仿照](https://zh.wikipedia.org/wiki/Heroes_of_Newerth "wikilink")[魔兽争霸III著名场景](https://zh.wikipedia.org/wiki/魔兽争霸III "wikilink")[DotA制作的游戏](../Page/DotA.md "wikilink")。
+Newerth是一个仿照](https://zh.wikipedia.org/wiki/Heroes_of_Newerth "wikilink")[魔兽争霸III著名场景](https://zh.wikipedia.org/wiki/魔兽争霸III "wikilink")[DotA](../Page/DotA.md "wikilink")制作的游戏。
 
 ## 作品
 

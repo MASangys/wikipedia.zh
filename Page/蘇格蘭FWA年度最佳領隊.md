@@ -137,7 +137,7 @@ Association，簡稱SFWA）頒發給上年度在[蘇格蘭足球頂級聯賽](..
 <td><p><a href="https://zh.wikipedia.org/wiki/1994–95_in_Scottish_football" title="wikilink">1994/95年</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉米·尼科尔" title="wikilink">-{zh-hans:吉米·尼科尔; zh-hk:占美·尼高;}-</a>（Jimmy Nicholl）</p></td>
 <td><p><a href="../Page/拉夫流浪足球會.md" title="wikilink">拉夫流浪</a></p></td>
-<td><p><small>首位非<a href="../Page/蘇格蘭.md" title="wikilink">蘇格蘭獲獎人</a></small></p></td>
+<td><p><small>首位非<a href="../Page/蘇格蘭.md" title="wikilink">蘇格蘭</a>獲獎人</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1993–94_in_Scottish_football" title="wikilink">1993/94年</a></p></td>

@@ -1,4 +1,4 @@
-是[竹岡葉月撰寫](https://zh.wikipedia.org/wiki/竹岡葉月 "wikilink")、負責插畫的[輕小說作品](../Page/輕小說.md "wikilink")。角川集團旗下的[富士見Fantasia文庫出版](../Page/富士見Fantasia文庫.md "wikilink")，繁體中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")。本作品已經漫畫化，由[ういらあくる作畫並在](https://zh.wikipedia.org/wiki/ういらあくる "wikilink")[角川書店](../Page/角川書店.md "wikilink")《[月刊Comp
+是[竹岡葉月撰寫](https://zh.wikipedia.org/wiki/竹岡葉月 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")作品。角川集團旗下的[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")出版，繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理。本作品已經漫畫化，由[ういらあくる作畫並在](https://zh.wikipedia.org/wiki/ういらあくる "wikilink")[角川書店](../Page/角川書店.md "wikilink")《[月刊Comp
 Ace](../Page/月刊Comp_Ace.md "wikilink")》連載。
 
 ## 故事簡介
@@ -21,7 +21,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》連載。
     雪國的雙胞胎姐姐，擔任青美女學院的學生會長。通稱「若光之君」(台譯「清亮麗人」)。個性冷淡，第一人稱為「[ボク](https://zh.wikipedia.org/wiki/僕娘 "wikilink")」。
     假扮成雪國到空舟第五中學就讀，很快就成為學校女孩子的目光焦點。在文化祭會議時發言指出原本的活動一點都不有趣，將活動改成和青美女學院合辦。擔任SEC（空舟Enjoy委員會）的名譽大哥。雖然自己也是女性，但口頭禪是「女孩子真的很麻煩」。
     雪國稱呼她小舞。
-    根據後記所言，兩人名稱的由來是[川端康成的雪國與](../Page/川端康成.md "wikilink")[森鷗外的舞姬](../Page/森鷗外.md "wikilink")。
+    根據後記所言，兩人名稱的由來是[川端康成](../Page/川端康成.md "wikilink")的雪國與[森鷗外](../Page/森鷗外.md "wikilink")的舞姬。
 
 ### 青美女學院
 

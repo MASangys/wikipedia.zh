@@ -39,7 +39,7 @@ All](https://zh.wikipedia.org/wiki/Greatest_Love_of_All "wikilink")》兩首冠�
 
 #### 1990
 
-R\&B組合[新版本合唱團的各成員包括BBD](../Page/新版本合唱團.md "wikilink")，[巴比·布朗](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")，[Johnny
+R\&B組合[新版本合唱團](../Page/新版本合唱團.md "wikilink")的各成員包括BBD，[巴比·布朗](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")，[Johnny
 Gill及Rizz聚首](https://zh.wikipedia.org/wiki/Johnny_Gill "wikilink")，並表演一連串歌舞。當晚的表演高潮則是[瑪丹娜打扮成](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")18世紀的法國艷后瑪麗·安托瓦內特(M
 arie Antoinette)，以宮廷版本呈現她最新冠軍單曲《
 [Vogue](https://zh.wikipedia.org/wiki/Vogue_\(歌曲\) "wikilink") 》。
@@ -76,7 +76,7 @@ Jackson Video Vanguard Award）。
 
 20年前[瑪丹娜在首屆VMA的頒獎典禮上](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")，以一曲《[Like
 A
-Virgin](https://zh.wikipedia.org/wiki/Like_a_Virgin_\(歌曲\) "wikilink")》成為VMA的經典時刻，20年後瑪丹娜、[小甜甜布蘭妮](https://zh.wikipedia.org/wiki/小甜甜布蘭妮 "wikilink")、[克莉絲汀·阿奎萊拉和嘻哈教母](../Page/克莉絲汀·阿奎萊拉.md "wikilink")
+Virgin](https://zh.wikipedia.org/wiki/Like_a_Virgin_\(歌曲\) "wikilink")》成為VMA的經典時刻，20年後瑪丹娜、[小甜甜布蘭妮](https://zh.wikipedia.org/wiki/小甜甜布蘭妮 "wikilink")、[克莉絲汀·阿奎萊拉](../Page/克莉絲汀·阿奎萊拉.md "wikilink")和嘻哈教母
 Missy Elliot 攜手以《Like A Virgin / Hollywood》再現這位流行天后當年的風采。
 
 #### 2004
@@ -93,7 +93,7 @@ Missy Elliot 攜手以《Like A Virgin / Hollywood》再現這位流行天后當
 
 在颁奖典礼上，創作歌手[泰勒絲以](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")《[You
 Belong with
-Me](https://zh.wikipedia.org/wiki/与我同在 "wikilink")》获得最佳女歌手录影带奖。当她正在发表获奖感言时，饒舌歌手[肯伊·威斯特上台抢走话筒](../Page/肯伊·威斯特.md "wikilink")，对泰勒絲说：“小泰，（你获奖了）我确实为你感到高兴，我会让你把话说完的。但是（我想先说一句）[碧昂絲才是最棒的](../Page/碧昂絲.md "wikilink")，她一直都是。”\[7\]\[8\]
+Me](https://zh.wikipedia.org/wiki/与我同在 "wikilink")》获得最佳女歌手录影带奖。当她正在发表获奖感言时，饒舌歌手[肯伊·威斯特](../Page/肯伊·威斯特.md "wikilink")上台抢走话筒，对泰勒絲说：“小泰，（你获奖了）我确实为你感到高兴，我会让你把话说完的。但是（我想先说一句）[碧昂絲](../Page/碧昂絲.md "wikilink")才是最棒的，她一直都是。”\[7\]\[8\]
 碧昂絲穿着15厘米的高跟鞋和二十多个舞者一起表演了《[Single Ladies (Put a Ring on
 It)](https://zh.wikipedia.org/wiki/Single_Ladies_\(Put_a_Ring_on_It\) "wikilink")》
 \[9\]
@@ -112,7 +112,7 @@ Way](https://zh.wikipedia.org/wiki/Born_This_Way_\(专辑\) "wikilink")》公诸
 
 #### 2011
 
-[碧昂絲在表演結束後大方公開懷孕喜訊](../Page/碧昂絲.md "wikilink")，搶盡得獎者風采。
+[碧昂絲](../Page/碧昂絲.md "wikilink")在表演結束後大方公開懷孕喜訊，搶盡得獎者風采。
 
 而[女神卡卡則依舊不改其特立獨行的穿著個性](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")，化名為[Jo
 Calderone並打扮男裝成為全場焦點](https://zh.wikipedia.org/wiki/Jo_Calderone "wikilink")，同時也演唱了新專輯[Born
@@ -356,7 +356,7 @@ and I](https://zh.wikipedia.org/wiki/You_and_I "wikilink")。
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/嗆辣紅椒.md" title="wikilink">嗆辣紅椒合唱團</a></p></td>
+<td><p><a href="../Page/嗆辣紅椒.md" title="wikilink">嗆辣紅椒</a>合唱團</p></td>
 <td></td>
 </tr>
 <tr class="even">

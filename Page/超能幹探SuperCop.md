@@ -1,8 +1,8 @@
-《**超能幹探SuperCop**》（）是香港電視廣播有限公司的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，監製[梁家樹](../Page/梁家樹.md "wikilink")，由[劉錫明](../Page/劉錫明.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[林穎嫻](https://zh.wikipedia.org/wiki/林穎嫻 "wikilink")、[彭家麗](../Page/彭家麗.md "wikilink")、[朱江](../Page/朱江.md "wikilink")、[陳嘉輝](../Page/陳嘉輝.md "wikilink")、[谷峰](../Page/谷峰.md "wikilink")、[王龍威](https://zh.wikipedia.org/wiki/王龍威 "wikilink")、[蘇杏璇等主演](../Page/蘇杏璇.md "wikilink")，此劇曾於1995年於[翡翠台](../Page/翡翠台.md "wikilink")、2013年5月20日至6月14日在[TVB星河頻道重播及由](../Page/TVB星河頻道.md "wikilink")2018年5月31日起逢星期一至五於[TVB經典台重播](../Page/TVB經典台.md "wikilink")。
+《**超能幹探SuperCop**》（）是香港電視廣播有限公司的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，監製[梁家樹](../Page/梁家樹.md "wikilink")，由[劉錫明](../Page/劉錫明.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[林穎嫻](https://zh.wikipedia.org/wiki/林穎嫻 "wikilink")、[彭家麗](../Page/彭家麗.md "wikilink")、[朱江](../Page/朱江.md "wikilink")、[陳嘉輝](../Page/陳嘉輝.md "wikilink")、[谷峰](../Page/谷峰.md "wikilink")、[王龍威](https://zh.wikipedia.org/wiki/王龍威 "wikilink")、[蘇杏璇](../Page/蘇杏璇.md "wikilink")等主演，此劇曾於1995年於[翡翠台](../Page/翡翠台.md "wikilink")、2013年5月20日至6月14日在[TVB星河頻道](../Page/TVB星河頻道.md "wikilink")重播及由2018年5月31日起逢星期一至五於[TVB經典台](../Page/TVB經典台.md "wikilink")重播。
 
 ## 故事簡介
 
-方志強（[劉錫明飾](../Page/劉錫明.md "wikilink")）和陳一賢（[郭晉安飾](../Page/郭晉安.md "wikilink")）在公屋一起長大，玩到大的朋友，因為方志強擁有[超能力](../Page/超能力.md "wikilink")，而惹起陳一賢羨慕又妒忌，
+方志強（[劉錫明](../Page/劉錫明.md "wikilink")飾）和陳一賢（[郭晉安](../Page/郭晉安.md "wikilink")飾）在公屋一起長大，玩到大的朋友，因為方志強擁有[超能力](../Page/超能力.md "wikilink")，而惹起陳一賢羨慕又妒忌，
 
 阮雯（[林穎嫻飾](https://zh.wikipedia.org/wiki/林穎嫻 "wikilink")）卻在周旋他們的關係中，長大後他們一起投考警察，一次晉升的機會，他們各自入了不同的部門幹事，
 
@@ -39,7 +39,7 @@
 <tr class="even">
 <td><p><a href="../Page/劉錫明.md" title="wikilink">劉錫明</a></p></td>
 <td><p>方-{志}-強</p></td>
-<td><p>阿　強，<a href="../Page/香港.md" title="wikilink">香港警察</a><br />
+<td><p>阿　強，<a href="../Page/香港.md" title="wikilink">香港</a>警察<br />
 有超能力（超心波效應）<br />
 阮雯男友<br />
 馬鳳兒單戀對象<br />
@@ -80,7 +80,7 @@
 <tr class="even">
 <td><p><a href="../Page/郭晉安.md" title="wikilink">郭晉安</a></p></td>
 <td><p>陳一賢</p></td>
-<td><p>阿　賢，<a href="../Page/香港.md" title="wikilink">香港警察</a><br />
+<td><p>阿　賢，<a href="../Page/香港.md" title="wikilink">香港</a>警察<br />
 有超能力（超體能力）<br />
 阮雯前男友<br />
 馬鳳兒前男友<br />
@@ -108,7 +108,7 @@
 <tr class="even">
 <td><p><a href="../Page/朱江.md" title="wikilink">朱　江</a></p></td>
 <td><p>梁　中</p></td>
-<td><p>師　傅，<a href="../Page/香港.md" title="wikilink">香港警察</a><br />
+<td><p>師　傅，<a href="../Page/香港.md" title="wikilink">香港</a>警察<br />
 能力很強<br />
 方-{志}-強師傅<br />
 因公殉職</p></td>

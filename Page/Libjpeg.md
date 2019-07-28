@@ -1,11 +1,11 @@
-**libjpeg**是一个完全用[C语言编写的处理](https://zh.wikipedia.org/wiki/C语言 "wikilink")[JPEG图像数据格式的自由](../Page/JPEG.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。它包含一个JPEG[编解码器的算法实现](../Page/编解码器.md "wikilink")，以及用于处理JPEG数据的多种实用程序。
+**libjpeg**是一个完全用[C语言编写的处理](https://zh.wikipedia.org/wiki/C语言 "wikilink")[JPEG](../Page/JPEG.md "wikilink")图像数据格式的自由[函式庫](../Page/函式庫.md "wikilink")。它包含一个JPEG[编解码器](../Page/编解码器.md "wikilink")的算法实现，以及用于处理JPEG数据的多种实用程序。
 
-该套软件采用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并分发为附有[源代码的](../Page/源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，采用自定义的[宽松](../Page/寬鬆自由軟體授權條款.md "wikilink")（[类BSD](../Page/BSD许可证.md "wikilink")）自由软件许可证，权利要求为。
+该套软件采用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并分发为附有[源代码](../Page/源代码.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")，采用自定义的[宽松](../Page/寬鬆自由軟體授權條款.md "wikilink")（[类BSD](../Page/BSD许可证.md "wikilink")）自由软件许可证，权利要求为。
 
 原始变体由独立JPEG工作组（IJG）维护和发布。此外，也有数个提供额外特性的[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。
 
 JPEG
-[JFIF图像在](../Page/JPEG文件交换格式.md "wikilink")[万维网上被广泛使用](../Page/万维网.md "wikilink")。它可以调整压缩量级以实现文件大小与视觉质量之间的期望与权衡。\[1\]
+[JFIF图像在](../Page/JPEG文件交换格式.md "wikilink")[万维网](../Page/万维网.md "wikilink")上被广泛使用。它可以调整压缩量级以实现文件大小与视觉质量之间的期望与权衡。\[1\]
 
 ## 实用程序
 
@@ -24,7 +24,7 @@ jpegtran提供了幾種功能，用於重新格式化和重新編碼DCT係數的
 
   - 優化JPEG文件的[霍夫曼編碼層以增加壓縮](https://zh.wikipedia.org/wiki/霍夫曼編碼 "wikilink")。
   - 漸進和順序JPEG格式之間的轉換。
-  - 霍夫曼和[算术编码在](../Page/算术编码.md "wikilink")[熵編碼法層之間的轉換](../Page/熵編碼法.md "wikilink")。\[2\]\[3\]\[4\]
+  - 霍夫曼和[算术编码](../Page/算术编码.md "wikilink")在[熵編碼法](../Page/熵編碼法.md "wikilink")層之間的轉換。\[2\]\[3\]\[4\]
 
 這些轉變都是完全無損且可逆的。 對圖像數據的轉換包括：
 
@@ -40,7 +40,7 @@ jpegtran提供了幾種功能，用於重新格式化和重新編碼DCT係數的
 
 這些是[非破壞性資料壓縮並且對於保留的圖像數據是可逆的](../Page/无损数据压缩.md "wikilink")。重複轉檔時不重新壓縮現有資料解決重複編碼(修改)對資料進行二次壓縮導致多次的問題
 
-有一个相关的Windows应用程序[Jpegcrop](http://sylvana.net/jpegcrop/)为“jpegtran”提供了一个用户界面。对于[Linux等](../Page/Linux.md "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")，自由的[CropGUI](http://emergent.unpythonic.net/01248401946)能提供类似功能。
+有一个相关的Windows应用程序[Jpegcrop](http://sylvana.net/jpegcrop/)为“jpegtran”提供了一个用户界面。对于[Linux](../Page/Linux.md "wikilink")等[类Unix系统](../Page/类Unix系统.md "wikilink")，自由的[CropGUI](http://emergent.unpythonic.net/01248401946)能提供类似功能。
 许多程序基于IJG的代码支持JPEG无损转换功能，部分名单见[Lossless Applications
 List](http://jpegclub.org/losslessapps.html)。
 
@@ -192,14 +192,14 @@ increment:1 start:2007 \# rough scale PlotData =
 
 ### libjpeg-turbo
 
-libjpeg-turbo是libjpeg的一个[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")，它采用[单指令流多数据流](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")（SIMD）[指令来加速JPEG编码和解码基础效率](../Page/指令集架構.md "wikilink")。许多项目现在使用libjpeg-turbo而不是libjpeg，包括流行的GNU/Linux发行版（[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Mageia](../Page/Mageia.md "wikilink")、[OpenSUSE等](../Page/OpenSUSE.md "wikilink")）、[Mozilla和](../Page/Mozilla.md "wikilink")[Chrome](../Page/Google_Chrome.md "wikilink")。\[22\]\[23\]\[24\]除了性能方面，部分项目也因它允许向后保留与旧的libjpeg
+libjpeg-turbo是libjpeg的一个[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")，它采用[单指令流多数据流](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")（SIMD）[指令来加速JPEG编码和解码基础效率](../Page/指令集架構.md "wikilink")。许多项目现在使用libjpeg-turbo而不是libjpeg，包括流行的GNU/Linux发行版（[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Mageia](../Page/Mageia.md "wikilink")、[OpenSUSE](../Page/OpenSUSE.md "wikilink")等）、[Mozilla](../Page/Mozilla.md "wikilink")和[Chrome](../Page/Google_Chrome.md "wikilink")。\[22\]\[23\]\[24\]除了性能方面，部分项目也因它允许向后保留与旧的libjpeg
 v6b版本的[ABI兼容性而选择使用libjpeg](../Page/应用二进制接口.md "wikilink")-turbo。\[25\]libjpeg
 v7、v8和v9已打破与早期版本的ABI兼容性。\[26\]
 
 libjpeg-turbo可以配置为与libjpeg v7或v8
 ABI兼容，但，但它并没有实现IJG近期发布的完整的功能集，包括SmartScale格式的扩展名。\[27\]libjpeg-turbo项目已选择不支持SmartScale，
 citing concerns regarding the fact that it is not an
-[國際電信聯盟電信標準化部門标准和](../Page/國際電信聯盟電信標準化部門.md "wikilink")，并引用自己的研究质疑功能的实用性。By
+[國際電信聯盟電信標準化部門](../Page/國際電信聯盟電信標準化部門.md "wikilink")标准和，并引用自己的研究质疑功能的实用性。By
 extension, since the only major new feature in libjpeg v9 is specific to
 the SmartScale format, the libjpeg-turbo Project has chosen to forgo
 emulating libjpeg v9.\[28\]因此，通过libjpeg
@@ -210,12 +210,12 @@ v8和之后版本创建的SmartScale文件将不能被libjpeg-turbo正确解压�
 mozjpeg是由Josh Aas和其他Mozilla
 Research人员完成的libjpeg-turbo的一个复刻。它旨在通过减少文件大小（约10%）来加快网页的加载时间，以及在不改变图像质量的前提下提高编码效率。为达到此目的，它在编码（不对称）方面使用更多处理能力，同时保持与JPEG标准的完全兼容性，不需要在解码器侧做任何改变。
 
-它实际通过优化[霍夫曼编码树完成](../Page/霍夫曼编码.md "wikilink")，using progressive coding
+它实际通过优化[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")树完成，using progressive coding
 with optimised splitting of the spectrum of DCT coefficients into
 separate scans and through the use of . Additionally, the presets are
 aggressively tuned towards the minimisation of file sizes.
 除了libjpeg-turbo，mozjpeg版本也建立在jpegcrush之上，这是Loren
-Merritt编写的一个[Perl脚本](../Page/Perl.md "wikilink")。\[29\]\[30\]
+Merritt编写的一个[Perl](../Page/Perl.md "wikilink")脚本。\[29\]\[30\]
 
 ## 参见
 

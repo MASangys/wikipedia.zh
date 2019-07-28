@@ -8,7 +8,7 @@ Firefox或](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Camino](..
 ## 历史
 
 OmniWeb原由Omni Group开发并由Lighthouse
-Design在1995年3月17日针对[NeXTSTEP平台发行](../Page/NeXTSTEP.md "wikilink")\[2\]。后来当NeXTSTEP演化成[OpenStep然后变成Mac](../Page/OpenStep.md "wikilink")
+Design在1995年3月17日针对[NeXTSTEP](../Page/NeXTSTEP.md "wikilink")平台发行\[2\]。后来当NeXTSTEP演化成[OpenStep](../Page/OpenStep.md "wikilink")然后变成Mac
 OS X，OmniWeb也随之更新以运行在这些平台之上。通过[Yellow
 Box或the](../Page/Cocoa.md "wikilink") OpenStep
 frameworks，OmniWeb也曾在简短的一个时期内在[Microsoft
@@ -23,13 +23,13 @@ UI的用户界面](../Page/Aqua_\(GUI\).md "wikilink")，配有例如“抽屉�
 
 OmniWeb最初使用它专有的[HTML](../Page/HTML.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")\[3\]，但这个排版引擎不能胜任最新的[網頁標準](../Page/網頁標準.md "wikilink")，例如[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")。在OmniWeb
 4.5版，Omni
-Group採納了[苹果的基于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[KHTML的](../Page/KHTML.md "wikilink")[WebCore排版引擎](../Page/WebKit.md "wikilink")\[4\]\[5\]\[6\]，它是苹果公司为了开发自己的[Safari浏览器而开发的](../Page/Safari.md "wikilink")。
+Group採納了[苹果的基于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[KHTML](../Page/KHTML.md "wikilink")的[WebCore排版引擎](../Page/WebKit.md "wikilink")\[4\]\[5\]\[6\]，它是苹果公司为了开发自己的[Safari](../Page/Safari.md "wikilink")浏览器而开发的。
 
 2004年8月11日，Omni Group发布了OmniWeb
 5.0，包含了数个新功能。最显著的变化是一个不同寻常的[分頁式瀏覽](../Page/分頁_\(GUI\).md "wikilink")，各分頁（带有可选的缩略图功能）在視窗一侧的的“抽屉”里竖直排列\[7\]。尽管有批评认为“分頁抽屉”带来的正面好处没有比传统的“看起来像分頁”分頁带来的好处多，但这个功能一直保留到了最新版本。
 
 2006年9月6日，OmniWeb 5.5发布，OmniWeb
-5.5使用了一个自定义的[WebKit排版引擎替代WebCore](../Page/WebKit.md "wikilink")\[8\]，[通用二进制的支持](../Page/通用二进制.md "wikilink")，保存到Web歸檔，支持自定义的[样式表](https://zh.wikipedia.org/wiki/样式表_\(网页开发\) "wikilink")，“选择下一个链接”功能，[FTP文件夹浏览](https://zh.wikipedia.org/wiki/FTP "wikilink")，阻挡广告，更新[本地化资源](https://zh.wikipedia.org/wiki/本地化 "wikilink")，以及更多的小改进和修补漏洞\[9\]。
+5.5使用了一个自定义的[WebKit](../Page/WebKit.md "wikilink")排版引擎替代WebCore\[8\]，[通用二进制](../Page/通用二进制.md "wikilink")的支持，保存到Web歸檔，支持自定义的[样式表](https://zh.wikipedia.org/wiki/样式表_\(网页开发\) "wikilink")，“选择下一个链接”功能，[FTP文件夹浏览](https://zh.wikipedia.org/wiki/FTP "wikilink")，阻挡广告，更新[本地化资源](https://zh.wikipedia.org/wiki/本地化 "wikilink")，以及更多的小改进和修补漏洞\[9\]。
 
 ## 功能
 

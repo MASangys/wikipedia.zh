@@ -1,8 +1,8 @@
-**Xenomai**是一个[Linux内核的实时](../Page/Linux内核.md "wikilink")[开发框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")。它希望通过无缝地集成到[Linux环境中来给](../Page/Linux.md "wikilink")[用户空间](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[应用程序提供全面的](../Page/应用程序.md "wikilink")，与接口无关的硬实时性能。
+**Xenomai**是一个[Linux内核](../Page/Linux内核.md "wikilink")的实时[开发框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")。它希望通过无缝地集成到[Linux](../Page/Linux.md "wikilink")环境中来给[用户空间](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[应用程序](../Page/应用程序.md "wikilink")提供全面的，与接口无关的硬实时性能。
 
-Xenomai项目始于2001年8月。2003年它和[RTAI项目合并推出了RTAI](https://zh.wikipedia.org/wiki/RTAI "wikilink")/fusion。RTAI/fusion是[Linux平台上的具有工业生产级别的实时](../Page/Linux.md "wikilink")[自由软件开发平台](../Page/自由软件.md "wikilink")，它基于Xenomai的抽象[实时操作系统内核](../Page/实时操作系统.md "wikilink")。2005年的时候RTAI/fusion项目又从[RTAI中独立出来作为Xenomai项目](https://zh.wikipedia.org/wiki/RTAI "wikilink")。
+Xenomai项目始于2001年8月。2003年它和[RTAI项目合并推出了RTAI](https://zh.wikipedia.org/wiki/RTAI "wikilink")/fusion。RTAI/fusion是[Linux](../Page/Linux.md "wikilink")平台上的具有工业生产级别的实时[自由软件](../Page/自由软件.md "wikilink")开发平台，它基于Xenomai的抽象[实时操作系统](../Page/实时操作系统.md "wikilink")内核。2005年的时候RTAI/fusion项目又从[RTAI中独立出来作为Xenomai项目](https://zh.wikipedia.org/wiki/RTAI "wikilink")。
 
-Xenomai基于一个抽象的[实时操作系统核心](../Page/实时操作系统.md "wikilink")，它可以被用来在一个有通用[实时操作系统调用的核心上构建任意的实时接口](https://zh.wikipedia.org/wiki/实时操作系统调 "wikilink")。用来给用户程序提供接口的任意多个（可以是不同的）[实时操作系统的接口被构建在同一个核心上](../Page/实时操作系统.md "wikilink")。所有通用的系统调用都是由这个核心来实现的。这些用户接口又被称作“皮肤”。
+Xenomai基于一个抽象的[实时操作系统](../Page/实时操作系统.md "wikilink")核心，它可以被用来在一个有通用[实时操作系统调用的核心上构建任意的实时接口](https://zh.wikipedia.org/wiki/实时操作系统调 "wikilink")。用来给用户程序提供接口的任意多个（可以是不同的）[实时操作系统](../Page/实时操作系统.md "wikilink")的接口被构建在同一个核心上。所有通用的系统调用都是由这个核心来实现的。这些用户接口又被称作“皮肤”。
 
 ## Xenomai vs. RTAI
 

@@ -1,12 +1,12 @@
-****（），[日本樂團](../Page/日本.md "wikilink")[BREAKERZ主唱](../Page/BREAKERZ.md "wikilink")、[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")。原名**內藤大湖**，亦是第74代[內閣總理大臣](https://zh.wikipedia.org/wiki/內閣總理大臣_\(日本\) "wikilink")[竹下登之外孫](../Page/竹下登.md "wikilink")，出生於[東京都](../Page/東京都.md "wikilink")。妻子為[日本](../Page/日本.md "wikilink")[演員](../Page/演員.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")\[1\]。
+****（），[日本](../Page/日本.md "wikilink")樂團[BREAKERZ](../Page/BREAKERZ.md "wikilink")主唱、[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")。原名**內藤大湖**，亦是第74代[內閣總理大臣](https://zh.wikipedia.org/wiki/內閣總理大臣_\(日本\) "wikilink")[竹下登](../Page/竹下登.md "wikilink")之外孫，出生於[東京都](../Page/東京都.md "wikilink")。妻子為[日本](../Page/日本.md "wikilink")[演員](../Page/演員.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")\[1\]。
 
 ## 簡歷
 
-1978年，[東京都誕生](../Page/東京都.md "wikilink")。3歲到小學3年級的夏天為止在[千葉縣](../Page/千葉縣.md "wikilink")[市川市長大](../Page/市川市.md "wikilink")，外公就任[總理大臣時跟著再次搬回東京都](https://zh.wikipedia.org/wiki/總理大臣 "wikilink")\[2\]。中學3年級時、聽到哥哥持有的[BOØWY的](https://zh.wikipedia.org/wiki/BOØWY "wikilink")[CD以後開始對音樂感到興趣](../Page/CD.md "wikilink")\[3\]。跟朋友一起去唱歌時，是唱的最好的，於是開始朝著成為主唱的目標邁進。除此之外也深受為現在所屬的[唱片公司](../Page/唱片公司.md "wikilink")・[Being的前輩](https://zh.wikipedia.org/wiki/Being "wikilink")[B'z的影響](../Page/B'z.md "wikilink")\[4\]。在正式出道前在[SIAM
+1978年，[東京都](../Page/東京都.md "wikilink")誕生。3歲到小學3年級的夏天為止在[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")長大，外公就任[總理大臣時跟著再次搬回東京都](https://zh.wikipedia.org/wiki/總理大臣 "wikilink")\[2\]。中學3年級時、聽到哥哥持有的[BOØWY的](https://zh.wikipedia.org/wiki/BOØWY "wikilink")[CD](../Page/CD.md "wikilink")以後開始對音樂感到興趣\[3\]。跟朋友一起去唱歌時，是唱的最好的，於是開始朝著成為主唱的目標邁進。除此之外也深受為現在所屬的[唱片公司](../Page/唱片公司.md "wikilink")・[Being的前輩](https://zh.wikipedia.org/wiki/Being "wikilink")[B'z](../Page/B'z.md "wikilink")的影響\[4\]。在正式出道前在[SIAM
 SHADE的後輩樂團](https://zh.wikipedia.org/wiki/SIAM_SHADE "wikilink")[JZEIL裡擔任主唱](https://zh.wikipedia.org/wiki/JZEIL "wikilink")。在各式各樣的[視覺系樂團活動中](https://zh.wikipedia.org/wiki/視覺系樂團 "wikilink")，金髮、艷麗的化妝及性感的裝束便是他當時的標記。當時亦曾與前Due'le
-quartz的雅（現為[雅-miyavi-](../Page/雅-miyavi-.md "wikilink")）及前DAS:VASSER的響兵等等音樂人在音樂上有過交流。在此以後，亦繼續地下音樂活動，於偶然間音樂影像有幸被[冰室京介看到](../Page/冰室京介.md "wikilink")，後來冰室京介便向Daigo提出為Daigo製作出道歌曲《MARIA》。在2003年7月21日，當時25歳的Daigo便以「DAIGO☆STARDUST」的名義正式出道。
+quartz的雅（現為[雅-miyavi-](../Page/雅-miyavi-.md "wikilink")）及前DAS:VASSER的響兵等等音樂人在音樂上有過交流。在此以後，亦繼續地下音樂活動，於偶然間音樂影像有幸被[冰室京介](../Page/冰室京介.md "wikilink")看到，後來冰室京介便向Daigo提出為Daigo製作出道歌曲《MARIA》。在2003年7月21日，當時25歳的Daigo便以「DAIGO☆STARDUST」的名義正式出道。
 
-2013年4月，[BREAKERZ成員單飛活動開始](../Page/BREAKERZ.md "wikilink")。7月12日以DAIGO☆STARDUST的名義舉辦睽違10年的復活演唱會。原本預定只是一夜限定的復活演唱會，但因為反應非常熱烈，所以在7月26日於[涉谷公會堂舉辦追加公演](https://zh.wikipedia.org/wiki/涉谷公會堂 "wikilink")，並在復活演唱會上宣布DAIGO☆STARDUST和DAIGO合體。以DAIGO的名義在2013年7月31日發行第一張單曲（Oricon排行榜首周第8名）。
+2013年4月，[BREAKERZ](../Page/BREAKERZ.md "wikilink")成員單飛活動開始。7月12日以DAIGO☆STARDUST的名義舉辦睽違10年的復活演唱會。原本預定只是一夜限定的復活演唱會，但因為反應非常熱烈，所以在7月26日於[涉谷公會堂舉辦追加公演](https://zh.wikipedia.org/wiki/涉谷公會堂 "wikilink")，並在復活演唱會上宣布DAIGO☆STARDUST和DAIGO合體。以DAIGO的名義在2013年7月31日發行第一張單曲（Oricon排行榜首周第8名）。
 
 ## 人物
 
@@ -16,16 +16,16 @@ quartz的雅（現為[雅-miyavi-](../Page/雅-miyavi-.md "wikilink")）及前DA
 Shuffle](../Page/Love_Shuffle.md "wikilink")》中擔任重要角色，亦參與《[名偵探柯南
 漆黑的追跡者](https://zh.wikipedia.org/wiki/名偵探柯南_漆黑的追跡者 "wikilink")》電影配音。
 
-2011年，客串[北川景子主演的連續劇](../Page/北川景子.md "wikilink")《[LADY](../Page/LADY_\(电视剧\).md "wikilink")》，飾演「國木田」一角，並因此而和北川相識，其後兩人成為夫婦。
+2011年，客串[北川景子](../Page/北川景子.md "wikilink")主演的連續劇《[LADY](../Page/LADY_\(电视剧\).md "wikilink")》，飾演「國木田」一角，並因此而和北川相識，其後兩人成為夫婦。
 
 ## 家族・親族
 
   - 外祖父是已故第七十四屆[日本首相](https://zh.wikipedia.org/wiki/日本首相 "wikilink")[竹下登](../Page/竹下登.md "wikilink")。
-  - 父親是[內藤武宣](https://zh.wikipedia.org/wiki/內藤武宣 "wikilink")，曾為[毎日新聞政治部記者](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink")，後擔任[竹下登的秘書而開始政治生涯](../Page/竹下登.md "wikilink")。
-  - 母親是內藤まる子（娘家姓：竹下），是[竹下登的二女](../Page/竹下登.md "wikilink")。
+  - 父親是[內藤武宣](https://zh.wikipedia.org/wiki/內藤武宣 "wikilink")，曾為[毎日新聞政治部記者](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink")，後擔任[竹下登](../Page/竹下登.md "wikilink")的秘書而開始政治生涯。
+  - 母親是內藤まる子（娘家姓：竹下），是[竹下登](../Page/竹下登.md "wikilink")的二女。
   - 有一位姊姊及一位哥哥，大七歲的姊姊是日本著名女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[影木榮貴](../Page/影木榮貴.md "wikilink")，大五歲的哥哥為一般上班族。
   - 叔公是日本眾議院議員-{[竹下亘](../Page/竹下亘.md "wikilink")}-。(竹下亘是竹下登同父異母之弟)
-  - 2016年1月11日，DAIGO在個人部落格發表聲明，表示已和[北川景子提交結婚申請](../Page/北川景子.md "wikilink")。\[5\]\[6\]
+  - 2016年1月11日，DAIGO在個人部落格發表聲明，表示已和[北川景子](../Page/北川景子.md "wikilink")提交結婚申請。\[5\]\[6\]
 
 ## 唱片
 

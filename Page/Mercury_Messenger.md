@@ -1,5 +1,5 @@
 **Mercury
-Messenger**或簡稱"MM",是一個利用[Java開發的](../Page/Java.md "wikilink")[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。它包含[Windows
+Messenger**或簡稱"MM",是一個利用[Java](../Page/Java.md "wikilink")開發的[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。它包含[Windows
 Live
 Messenger的所有功能](../Page/Windows_Live_Messenger.md "wikilink"),並支援[Mac
 OS

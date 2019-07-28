@@ -1,5 +1,5 @@
 **SOUND
-HOLIC**是[日本的一個音樂](../Page/日本.md "wikilink")[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。愛稱「サンホリ」（Sanhori）。
+HOLIC**是[日本](../Page/日本.md "wikilink")的一個音樂[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。愛稱「サンホリ」（Sanhori）。
 
 ## 概要
 
@@ -229,7 +229,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    與「[月見堂](https://zh.wikipedia.org/wiki/月見堂 "wikilink")」合作、以東方Project為題材的[同人動畫](https://zh.wikipedia.org/wiki/同人動畫 "wikilink")，故事主要圍繞[月球人侵略](../Page/月球.md "wikilink")[幻想鄉](../Page/幻想鄉.md "wikilink")，永遠亭眾人與月球人首領對抗的情節。起用[植田佳奈](../Page/植田佳奈.md "wikilink")、[榊原由依等人配音](../Page/榊原由依.md "wikilink")，片頭曲、片尾曲分別由[Nana
+    與「[月見堂](https://zh.wikipedia.org/wiki/月見堂 "wikilink")」合作、以東方Project為題材的[同人動畫](https://zh.wikipedia.org/wiki/同人動畫 "wikilink")，故事主要圍繞[月球](../Page/月球.md "wikilink")人侵略[幻想鄉](../Page/幻想鄉.md "wikilink")，永遠亭眾人與月球人首領對抗的情節。起用[植田佳奈](../Page/植田佳奈.md "wikilink")、[榊原由依](../Page/榊原由依.md "wikilink")等人配音，片頭曲、片尾曲分別由[Nana
     Takahashi及榊原由依演唱](https://zh.wikipedia.org/wiki/高橋菜菜 "wikilink")。是最早的東方[二創動畫](../Page/二次創作.md "wikilink")\[4\]。
 
 <!-- end list -->
@@ -377,7 +377,7 @@ HOLIC的人參加。
     42」開始便轉為在另一組織「A-One」活動。
     在2002年至2004年期間曾與另一[鋼琴家](https://zh.wikipedia.org/wiki/鋼琴家 "wikilink")[松本あすか組成名為](https://zh.wikipedia.org/wiki/松本あすか "wikilink")「しほりとあすか」的團體。2006年時架設官方網站"[Shihori
     OFFICIAL
-    WEBSITE](https://web.archive.org/web/20090814174055/http://shihori.com/index.html)"，定期發表[CM歌曲及音樂專輯](../Page/電視廣告.md "wikilink")，亦曾為收錄於[水樹奈奈的專輯](../Page/水樹奈奈.md "wikilink")[ULTIMATE
+    WEBSITE](https://web.archive.org/web/20090814174055/http://shihori.com/index.html)"，定期發表[CM歌曲及音樂專輯](../Page/電視廣告.md "wikilink")，亦曾為收錄於[水樹奈奈](../Page/水樹奈奈.md "wikilink")的專輯[ULTIMATE
     DIAMOND的歌曲](../Page/ULTIMATE_DIAMOND.md "wikilink")「」作詞、作曲。
     聲優方面，曾經在SOUND HOLIC的同人動畫「星之記憶」中出演藤原妹紅。
 
@@ -684,7 +684,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    主要使用[小提琴伴奏](../Page/小提琴.md "wikilink")。
+    主要使用[小提琴](../Page/小提琴.md "wikilink")伴奏。
 
 <!-- end list -->
 

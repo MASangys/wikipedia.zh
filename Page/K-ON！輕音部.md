@@ -1,12 +1,12 @@
 《**K-ON！輕音部**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**-{K-ON\!}-**，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[kakifly创作的](https://zh.wikipedia.org/wiki/kakifly "wikilink")[四格漫画作品](https://zh.wikipedia.org/wiki/四格漫画 "wikilink")，後來被改編成為同名[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
-標題取日文“[輕音樂](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")”（）一詞的前面四個[平假名](../Page/平假名.md "wikilink")。漫畫自2007年5月開始在[芳文社四格漫畫月刊](../Page/芳文社.md "wikilink")《[Manga
+標題取日文“[輕音樂](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")”（）一詞的前面四個[平假名](../Page/平假名.md "wikilink")。漫畫自2007年5月開始在[芳文社](../Page/芳文社.md "wikilink")四格漫畫月刊《[Manga
 Time
 Kirara](../Page/Manga_Time_Kirara.md "wikilink")》上連載，並自2008年10月開始在芳文社雜誌《[Manga
 Time Kirara
 Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上隔月連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
 
-由[京都動畫製作的同名](../Page/京都動畫.md "wikilink")[電視動畫日本於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月播出，引起巨大的熱潮和經濟效應；[Animax在香港](../Page/Animax.md "wikilink")、台灣則分別於2010年3月9日、3月24日播出；台灣方面由樂團[旺福擔任](../Page/旺福.md "wikilink")[代言人](https://zh.wikipedia.org/wiki/代言人 "wikilink")。動畫第2季於2010年4月6日開始播出，標題改為《**-{K-ON\!\!}-**》（）。根據雜誌《[Manga
+由[京都動畫](../Page/京都動畫.md "wikilink")製作的同名[電視動畫日本於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月播出，引起巨大的熱潮和經濟效應；[Animax](../Page/Animax.md "wikilink")在香港、台灣則分別於2010年3月9日、3月24日播出；台灣方面由樂團[旺福](../Page/旺福.md "wikilink")擔任[代言人](https://zh.wikipedia.org/wiki/代言人 "wikilink")。動畫第2季於2010年4月6日開始播出，標題改為《**-{K-ON\!\!}-**》（）。根據雜誌《[Manga
 Time
 Kirara](../Page/Manga_Time_Kirara.md "wikilink")》消息，單行本第四卷為漫畫最終卷，於2010年9月27日發售，漫畫與動畫一併完結。2010年9月29日在第2季播畢後發佈製作[劇場版的消息](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
@@ -19,12 +19,12 @@ Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手�
 
 ## 劇情簡介
 
-新學年開始，樱丘高中輕音部（輕音樂社）因原有部員全部畢業離校而無法達到部員4人的最低人數。輕音部新成員只有秋山澪和田井中律。溫柔可愛的千金大小姐琴吹紬因覺得田井中律及秋山澪的互動很有趣而入社；平澤唯在陰差陽錯的情況下把「輕音」當作“輕鬆的音樂”，又想起小時候玩[響板得到老師表揚](../Page/響板.md "wikilink")，所以申請入部。於是，便有了[貝斯手秋山澪](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[吉他手平澤唯](../Page/吉他.md "wikilink")、[鼓手田井中律及](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[鍵盤手琴吹紬](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")。後來新成員中野梓加入輕音部，成為第二名吉他手。
+新學年開始，樱丘高中輕音部（輕音樂社）因原有部員全部畢業離校而無法達到部員4人的最低人數。輕音部新成員只有秋山澪和田井中律。溫柔可愛的千金大小姐琴吹紬因覺得田井中律及秋山澪的互動很有趣而入社；平澤唯在陰差陽錯的情況下把「輕音」當作“輕鬆的音樂”，又想起小時候玩[響板](../Page/響板.md "wikilink")得到老師表揚，所以申請入部。於是，便有了[貝斯手秋山澪](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[吉他](../Page/吉他.md "wikilink")手平澤唯、[鼓手田井中律及](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[鍵盤手琴吹紬](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")。後來新成員中野梓加入輕音部，成為第二名吉他手。
 
 ## 舞台
 
 [Toyosato_Elementary_School_old_building._May,_2015.A.JPG](https://zh.wikipedia.org/wiki/File:Toyosato_Elementary_School_old_building._May,_2015.A.JPG "fig:Toyosato_Elementary_School_old_building._May,_2015.A.JPG")
-原作並無特別設定場景，在確定動畫化後，負責製作之京都動畫雖然將生活圈設定於[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")，但將許多[京都地區景色包含其中](https://zh.wikipedia.org/wiki/京都府 "wikilink")：琴吹紬平日通學時搭乘[電車與候車月台參考自](../Page/電車.md "wikilink")[京都市內營運的](../Page/京都市.md "wikilink")[叡山電鐵本線](https://zh.wikipedia.org/wiki/叡山電鐵叡山本線 "wikilink")[出町柳站與](https://zh.wikipedia.org/wiki/出町柳站 "wikilink")[修學院站](https://zh.wikipedia.org/wiki/修學院站 "wikilink")，主角們上下課的沿路和快餐店則參考[京都市](../Page/京都市.md "wikilink")[左京區](../Page/左京區.md "wikilink")[北山通和](https://zh.wikipedia.org/wiki/北山通 "wikilink")[白川通一帶](../Page/白川通.md "wikilink")，而樂器店和[商店街即參考自京都市](https://zh.wikipedia.org/wiki/商店街 "wikilink")[四條河原町一帶的](../Page/四條河原町.md "wikilink")[商業區](https://zh.wikipedia.org/wiki/商業區 "wikilink")\[2\]；三年級學生[修學旅行當中所出現知名歷史文化建築](https://zh.wikipedia.org/wiki/修學旅行 "wikilink")，如[金閣寺](../Page/鹿苑寺.md "wikilink")、[北野天滿宮](../Page/北野天滿宮.md "wikilink")、等\[3\]。主角們就讀的櫻丘高中，動畫版稱為櫻丘女子高中（），以[滋賀縣](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")[犬上郡](https://zh.wikipedia.org/wiki/犬上郡 "wikilink")[豐鄉町豐鄉小學校舊校舍為藍本](https://zh.wikipedia.org/wiki/豐鄉町 "wikilink")；此地因動畫播出，成為許多動漫迷[聖地巡禮地點之一](https://zh.wikipedia.org/wiki/聖地巡禮 "wikilink")\[4\]。
+原作並無特別設定場景，在確定動畫化後，負責製作之京都動畫雖然將生活圈設定於[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")，但將許多[京都地區景色包含其中](https://zh.wikipedia.org/wiki/京都府 "wikilink")：琴吹紬平日通學時搭乘[電車](../Page/電車.md "wikilink")與候車月台參考自[京都市](../Page/京都市.md "wikilink")內營運的[叡山電鐵本線](https://zh.wikipedia.org/wiki/叡山電鐵叡山本線 "wikilink")[出町柳站與](https://zh.wikipedia.org/wiki/出町柳站 "wikilink")[修學院站](https://zh.wikipedia.org/wiki/修學院站 "wikilink")，主角們上下課的沿路和快餐店則參考[京都市](../Page/京都市.md "wikilink")[左京區](../Page/左京區.md "wikilink")[北山通和](https://zh.wikipedia.org/wiki/北山通 "wikilink")[白川通](../Page/白川通.md "wikilink")一帶，而樂器店和[商店街即參考自京都市](https://zh.wikipedia.org/wiki/商店街 "wikilink")[四條河原町](../Page/四條河原町.md "wikilink")一帶的[商業區](https://zh.wikipedia.org/wiki/商業區 "wikilink")\[2\]；三年級學生[修學旅行當中所出現知名歷史文化建築](https://zh.wikipedia.org/wiki/修學旅行 "wikilink")，如[金閣寺](../Page/鹿苑寺.md "wikilink")、[北野天滿宮](../Page/北野天滿宮.md "wikilink")、等\[3\]。主角們就讀的櫻丘高中，動畫版稱為櫻丘女子高中（），以[滋賀縣](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")[犬上郡](https://zh.wikipedia.org/wiki/犬上郡 "wikilink")[豐鄉町豐鄉小學校舊校舍為藍本](https://zh.wikipedia.org/wiki/豐鄉町 "wikilink")；此地因動畫播出，成為許多動漫迷[聖地巡禮地點之一](https://zh.wikipedia.org/wiki/聖地巡禮 "wikilink")\[4\]。
 
 ## 登場人物
 
@@ -33,15 +33,15 @@ Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手�
   -
     生日：11月27日（[射手座](https://zh.wikipedia.org/wiki/射手宫 "wikilink")）、身高156cm、體重45kg、血型：O型
     學籍：1年3班→2年2班→3年2班
-    迷迷糊糊、有點[天然呆的女孩](../Page/天然呆.md "wikilink")。輕音部的主音吉他手同时也是主唱。因為錯把輕音樂當成「輕鬆、簡易的音樂」而加入輕音部。念書和運動都不擅長，樂器演奏也是完全的初學者，但是卻意外發揮出眾的才能，可以玩[響板](../Page/響板.md "wikilink")，具[絕對音感](https://zh.wikipedia.org/wiki/絕對音感 "wikilink")，可以不靠調音器調弦。她把自己的吉他稱為「吉太」。
-    和妹妹姓氏取自日本樂團[P-MODEL的](../Page/P-MODEL.md "wikilink")[平澤進及其兄平澤裕一](../Page/平澤進.md "wikilink")。
+    迷迷糊糊、有點[天然呆](../Page/天然呆.md "wikilink")的女孩。輕音部的主音吉他手同时也是主唱。因為錯把輕音樂當成「輕鬆、簡易的音樂」而加入輕音部。念書和運動都不擅長，樂器演奏也是完全的初學者，但是卻意外發揮出眾的才能，可以玩[響板](../Page/響板.md "wikilink")，具[絕對音感](https://zh.wikipedia.org/wiki/絕對音感 "wikilink")，可以不靠調音器調弦。她把自己的吉他稱為「吉太」。
+    和妹妹姓氏取自日本樂團[P-MODEL](../Page/P-MODEL.md "wikilink")的[平澤進](../Page/平澤進.md "wikilink")及其兄平澤裕一。
 
 <!-- end list -->
 
   -
     生日：1月15日（[摩羯座](https://zh.wikipedia.org/wiki/摩羯宫 "wikilink")）、身高160cm、體重50kg、血型：A型
     學籍：1年2班→2年1班→3年2班
-    特徵是蓄及腰的黑髮，人氣極高的女生，因為在學園祭登台那次出糗而有了後援會。輕音部的[電貝斯手](../Page/電貝斯.md "wikilink")，有时候会代替小唯当主唱。本來想加入文藝部，但被小律強迫拉入輕音部。表面上很成熟，功課也不錯，但性格很內向，而且容易發飆，很怕恐怖的故事或話題。擔任作詞。是一個[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")。[貝斯被小唯取名](https://zh.wikipedia.org/wiki/貝斯 "wikilink")「伊麗莎白」，本人剛開始不認可，但是之後認同了。她是隊中樂理最好的技巧型樂手。
+    特徵是蓄及腰的黑髮，人氣極高的女生，因為在學園祭登台那次出糗而有了後援會。輕音部的[電貝斯](../Page/電貝斯.md "wikilink")手，有时候会代替小唯当主唱。本來想加入文藝部，但被小律強迫拉入輕音部。表面上很成熟，功課也不錯，但性格很內向，而且容易發飆，很怕恐怖的故事或話題。擔任作詞。是一個[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")。[貝斯被小唯取名](https://zh.wikipedia.org/wiki/貝斯 "wikilink")「伊麗莎白」，本人剛開始不認可，但是之後認同了。她是隊中樂理最好的技巧型樂手。
     姓氏取自P-MODEL的。
 
 <!-- end list -->
@@ -87,7 +87,7 @@ Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手�
   -
     生日：12月26日（[摩羯座](https://zh.wikipedia.org/wiki/摩羯宫 "wikilink")）、身高158cm、體重47kg、血型：A型
     學籍：1年3班→2年1班→3年2班
-    和小唯自小就認識的玩伴，推薦小唯參加社團活動的人。有著深紅棕色的短髮，配戴著紅色的無頂框眼鏡。頭腦清晰，是[學生會幹部](../Page/學生會.md "wikilink")，3年級時就任學生會長。因著唯的關係和輕音部成員成為好友。另外，也是澪後援會的主辦人（在曾我部學姐畢業後接任）。
+    和小唯自小就認識的玩伴，推薦小唯參加社團活動的人。有著深紅棕色的短髮，配戴著紅色的無頂框眼鏡。頭腦清晰，是[學生會](../Page/學生會.md "wikilink")幹部，3年級時就任學生會長。因著唯的關係和輕音部成員成為好友。另外，也是澪後援會的主辦人（在曾我部學姐畢業後接任）。
     姓氏取自The Pillows的。
 
 <!-- end list -->
@@ -155,7 +155,7 @@ Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手�
 
 ### 替換用封面
 
-日語版販售時會依照販售店家的不同，另外會附贈替換用封面當作贈品。在[Melonbooks限定版封面](../Page/Melonbooks.md "wikilink")，第一冊為平澤憂、第二冊為中野梓\[5\]、第三冊為秋山澪\[6\]\[7\]、以及第四冊為琴吹紬\[8\]\[9\]，皆為穿著[泳衣的身姿](../Page/泳衣.md "wikilink")；而在第四冊販售時，第一冊到第三冊的替換用封面再版印刷\[10\]。在[Gamers限定版封面](https://zh.wikipedia.org/wiki/Gamers "wikilink")，第三冊與《》一起購買的限定版替換用封面為平澤唯與中野梓的限定替換用封面\[11\]，僅購買第三冊的限定版替換用封面是秋山澪穿著[和服的身姿](../Page/和服.md "wikilink")\[12\]，第四冊限定版封面是秋山澪的穿著[體操服的身姿](https://zh.wikipedia.org/wiki/體操服 "wikilink")\[13\]。在[Animate附贈的第四冊限定版封面是中野梓在吉他旁邊橫臥的身姿](https://zh.wikipedia.org/wiki/Animate "wikilink")\[14\]。而在《[Manga
+日語版販售時會依照販售店家的不同，另外會附贈替換用封面當作贈品。在[Melonbooks](../Page/Melonbooks.md "wikilink")限定版封面，第一冊為平澤憂、第二冊為中野梓\[5\]、第三冊為秋山澪\[6\]\[7\]、以及第四冊為琴吹紬\[8\]\[9\]，皆為穿著[泳衣](../Page/泳衣.md "wikilink")的身姿；而在第四冊販售時，第一冊到第三冊的替換用封面再版印刷\[10\]。在[Gamers限定版封面](https://zh.wikipedia.org/wiki/Gamers "wikilink")，第三冊與《》一起購買的限定版替換用封面為平澤唯與中野梓的限定替換用封面\[11\]，僅購買第三冊的限定版替換用封面是秋山澪穿著[和服](../Page/和服.md "wikilink")的身姿\[12\]，第四冊限定版封面是秋山澪的穿著[體操服的身姿](https://zh.wikipedia.org/wiki/體操服 "wikilink")\[13\]。在[Animate附贈的第四冊限定版封面是中野梓在吉他旁邊橫臥的身姿](https://zh.wikipedia.org/wiki/Animate "wikilink")\[14\]。而在《[Manga
 Time Kirara
 Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-ON！輕音部裡》的連續附錄第三回贈送中野梓的限定替換用封面（粉紅色）\[15\]。
 
@@ -163,9 +163,9 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 
 第1季於2009年1月開始製作。其後自2009年4月2日起在[TBS系部分電視台播放](https://zh.wikipedia.org/wiki/JNN "wikilink")，由京都動畫制作，本篇12話，另有1話番外篇緊隨播放。另1話番外篇則收錄在2010年1月20日發售的DVD/BD第7卷中。全14話。
 
-第2季於2009年12月30日官方[聲優活動中的動畫制作决定](../Page/聲優.md "wikilink")[PV公佈](https://zh.wikipedia.org/wiki/PV "wikilink")，官方網頁亦以海報形式發佈消息。動畫沿用舊有製作團隊，已經於2010年4月6日起在[TBS系全部電視台播放](https://zh.wikipedia.org/wiki/JNN "wikilink")，標題亦改為《**-{K-ON\!\!}-**》\[16\]。1話番外篇收錄在2011年3月16日發售的DVD/BD第9卷中。全27話。電視播放最後一話後宣佈劇場版製作的消息。
+第2季於2009年12月30日官方[聲優](../Page/聲優.md "wikilink")活動中的動畫制作决定[PV公佈](https://zh.wikipedia.org/wiki/PV "wikilink")，官方網頁亦以海報形式發佈消息。動畫沿用舊有製作團隊，已經於2010年4月6日起在[TBS系全部電視台播放](https://zh.wikipedia.org/wiki/JNN "wikilink")，標題亦改為《**-{K-ON\!\!}-**》\[16\]。1話番外篇收錄在2011年3月16日發售的DVD/BD第9卷中。全27話。電視播放最後一話後宣佈劇場版製作的消息。
 
-[台灣動畫代理發行方面](https://zh.wikipedia.org/wiki/台灣 "wikilink")，全部由[普威爾國際代理發行](../Page/普威爾國際.md "wikilink")。
+[台灣動畫代理發行方面](https://zh.wikipedia.org/wiki/台灣 "wikilink")，全部由[普威爾國際](../Page/普威爾國際.md "wikilink")代理發行。
 
 ### 制作人员
 
@@ -1396,7 +1396,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tr>
 <tr class="even">
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax香港</a></p></td>
+<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a>香港</p></td>
 <td><p>2010年3月9日 - 4月21日</p></td>
 <td><p>星期二 22時00分 - 23時00分</p></td>
 <td><p>兩話連續播放</p></td>
@@ -1404,7 +1404,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/菲律賓" title="wikilink">菲律賓</a></p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax菲律賓</a></p></td>
+<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a>菲律賓</p></td>
 <td><p>2010年3月21日 -</p></td>
 <td><p>星期日 8時30分 - 9時30分</p></td>
 <td></td>
@@ -1412,7 +1412,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/東南亞" title="wikilink">東南亞</a></p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax東南亞</a></p></td>
+<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a>東南亞</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1420,7 +1420,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/印度.md" title="wikilink">印度</a></p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax印度</a></p></td>
+<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a>印度</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1428,7 +1428,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax台灣</a></p></td>
+<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a>台灣</p></td>
 <td><p>2010年3月24日 - 4月12日</p></td>
 <td><p>星期一至五 20時30分 - 21時00分</p></td>
 <td></td>
@@ -1460,7 +1460,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tr>
 <tr class="even">
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax香港</a></p></td>
+<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a>香港</p></td>
 <td><p>2010年10月19日 - 2011年4月5日</p></td>
 <td><p>星期二 22時30分 - 23時00分</p></td>
 <td></td>
@@ -1479,7 +1479,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax台灣</a></p></td>
+<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a>台灣</p></td>
 <td><p>2010年10月24日 - 2011年4月3日</p></td>
 <td><p>星期日 20時30分 - 21時00分</p></td>
 <td></td>
@@ -1762,7 +1762,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
   - [東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")2010
     第9回[東京動畫賞優秀賞電視節目部門](https://zh.wikipedia.org/wiki/東京動畫賞 "wikilink")
   - 第24回日本金唱片大賞特別賞
-  - [電影旬報社](../Page/電影旬報.md "wikilink")「DVD of the Year
+  - [電影旬報](../Page/電影旬報.md "wikilink")社「DVD of the Year
     2009」最優秀TV動畫、OVA賞
   - 第4回（2009年度）[声優賞歌唱賞](https://zh.wikipedia.org/wiki/声優賞 "wikilink") -
     放學後TEA
@@ -1776,7 +1776,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 ## 劇場版
 
 2010年9月28日，製作方面於電視播放最後一話後宣佈劇場版製作的消息。翌年2月20日於Come with Me
-LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田尚子.md "wikilink")2011年12月3日日本戲院上映。據山田尚子表示，劇場版將不會是總集篇的重新剪接版，而是全新創作的延續篇。故事的大綱為輕音部的五個人將會去倫敦旅行。
+LIVE活動中，由導演[山田尚子](../Page/山田尚子.md "wikilink")親自宣佈劇場版於2011年12月3日日本戲院上映。據山田尚子表示，劇場版將不會是總集篇的重新剪接版，而是全新創作的延續篇。故事的大綱為輕音部的五個人將會去倫敦旅行。
 
 ## 網路廣播
 
@@ -1807,7 +1807,7 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 ## 其他
 
   - 2009年11月27日，因為正值平澤唯生日（另外，《K-ON\! Comic
-    Anthology》第一卷也於同一天發售），日本的[2ch網友自行發動大規模及各式各樣的慶祝活動](https://zh.wikipedia.org/wiki/2ch "wikilink")；甚至同一天有網友出錢贊助[高知賽馬場舉辦](https://zh.wikipedia.org/wiki/高知賽馬場 "wikilink")[賽馬比賽](../Page/賽馬.md "wikilink")【櫻丘高校輕音部協贊
+    Anthology》第一卷也於同一天發售），日本的[2ch網友自行發動大規模及各式各樣的慶祝活動](https://zh.wikipedia.org/wiki/2ch "wikilink")；甚至同一天有網友出錢贊助[高知賽馬場舉辦](https://zh.wikipedia.org/wiki/高知賽馬場 "wikilink")[賽馬](../Page/賽馬.md "wikilink")比賽【櫻丘高校輕音部協贊
     小唯的誕生日特別賽馬】（另有一說，是芳文社出錢舉辦），足可見此部漫畫在日本的風靡程度。
 
 ## 歌曲CD
@@ -1832,12 +1832,12 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <td><p>《<a href="../Page/Cagayake!GIRLS.md" title="wikilink">Cagayake!GIRLS</a>》</p></td>
 <td><p>櫻高輕音部</p></td>
 <td><p>2009年4月22日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間</a><a href="https://zh.wikipedia.org/wiki/單曲" title="wikilink">單曲榜初上榜第</a>4位<br />
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間<a href="https://zh.wikipedia.org/wiki/單曲" title="wikilink">單曲榜初上榜第</a>4位<br />
 2009年上半年動畫單曲銷量第2位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Don&#39;t_say_“lazy”" title="wikilink">Don't say “lazy”</a>》</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間</a><a href="https://zh.wikipedia.org/wiki/單曲" title="wikilink">單曲榜初上榜第</a>2位<br />
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間<a href="https://zh.wikipedia.org/wiki/單曲" title="wikilink">單曲榜初上榜第</a>2位<br />
 2009年上半年動畫單曲銷量第1位</p></td>
 <td></td>
 <td></td>
@@ -1846,13 +1846,13 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <td><p>《<a href="../Page/GO!_GO!_MANIAC.md" title="wikilink">GO! GO! MANIAC</a>》</p></td>
 <td><p>放學後TEA TIME</p></td>
 <td><p>2010年4月28日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>1位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第1位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《[[Listen</p></td>
 <td><p>|Listen</p></td>
 <td><p>]]》</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>2位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第2位</p></td>
 </tr>
 <tr class="even">
 <td><p>《[[Utauyo</p></td>
@@ -1862,7 +1862,7 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 </tr>
 <tr class="odd">
 <td><p>《<a href="../Page/NO,Thank_You!.md" title="wikilink">NO,Thank You!</a>》</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>2位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第2位</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1876,39 +1876,39 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <td><p>《》</p></td>
 <td><p>櫻高輕音部</p></td>
 <td><p>2009年5月20日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>3名<br />
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第3名<br />
 2009年上半年動畫單曲統計第4位</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="../Page/Maddy_Candy.md" title="wikilink">Maddy Candy</a>》</p></td>
 <td><p>DEATH DEVIL</p></td>
 <td><p>2009年8月12日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>9位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第9位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《》</p></td>
 <td><p>放學後TEA TIME</p></td>
 <td><p>2009年7月22日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間專輯榜初上榜第</a>1位<br />
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間專輯榜初上榜第1位<br />
 日本史上首張勇奪冠軍的動畫角色專輯</p></td>
 </tr>
 <tr class="even">
 <td><p>《》</p></td>
 <td><p>放學後TEA TIME</p></td>
 <td><p>2010年6月2日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>4位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第4位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《》</p></td>
 <td><p>DEATH DEVIL</p></td>
 <td><p>2010年6月23日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>7位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第7位</p></td>
 </tr>
 <tr class="even">
 <td><p>《》</p></td>
 <td><p>放學後TEA TIME</p></td>
 <td><p>2010年9月8日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>3位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第3位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《》</p></td>
@@ -1926,11 +1926,11 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <td><p>《<a href="../Page/Unmei♪wa♪Endless!.md" title="wikilink">Unmei♪wa♪Endless!</a>》</p></td>
 <td><p>放學後TEA TIME</p></td>
 <td><p>2011年12月7日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>5位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第5位</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="../Page/Singing!.md" title="wikilink">Singing!</a>》</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>4位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第4位</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1951,7 +1951,7 @@ DEATH DEVIL</p></td>
 <td><p>《<a href="../Page/K-ON!_ORIGINAL_SOUND_TRACK.md" title="wikilink">K-ON! ORIGINAL SOUND TRACK</a>》</p></td>
 <td><p>動畫背景音樂等</p></td>
 <td><p>2009年6月3日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間專輯榜初上榜第</a>15位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間專輯榜初上榜第15位</p></td>
 </tr>
 <tr class="even">
 <td><p>《[[K-ON!_Official_Band_Score集</p></td>
@@ -2004,7 +2004,7 @@ DEATH DEVIL</p></td>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!_ORIGINAL_SOUND_TRACK#K-ON!_MOVIE_ORIGINAL_SOUND_TRACK" title="wikilink">K-ON! MOVIE ORIGINAL SOUND TRACK</a>》</p></td>
 <td><p>2011年12月21日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>20位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第20位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2023,42 +2023,42 @@ DEATH DEVIL</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!印象歌曲#平澤唯" title="wikilink">「K-ON!」角色印象歌曲 平澤唯</a>》</p></td>
 <td><p>平澤唯（声：豐崎愛生）</p></td>
 <td><p>2009年6月17日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>3位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第3位</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!印象歌曲#秋山澪" title="wikilink">「K-ON!」角色印象歌曲 秋山澪</a>》</p></td>
 <td><p>秋山澪（声：日笠陽子）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>2位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第2位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!印象歌曲#田井中律" title="wikilink">「K-ON!」角色印象歌曲 田井中律</a>》</p></td>
 <td><p>田井中律（声：佐藤聰美）</p></td>
 <td><p>2009年8月26日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>5位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第5位</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!印象歌曲#琴吹紬" title="wikilink">「K-ON!」角色印象歌曲 琴吹紬</a>》</p></td>
 <td><p>琴吹紬（声：寿美菜子）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>6位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第6位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!印象歌曲#中野梓" title="wikilink">「K-ON!」角色印象歌曲 中野梓</a>》</p></td>
 <td><p>中野梓（声：竹達彩奈）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>3位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第3位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!印象歌曲#平澤憂" title="wikilink">「K-ON!」角色印象歌曲 平澤憂</a>》</p></td>
 <td><p>平澤憂（声：米澤圓）</p></td>
 <td><p>2009年10月21日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>8位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第8位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!印象歌曲#真鍋和" title="wikilink">「K-ON!」角色印象歌曲 真鍋和</a>》</p></td>
 <td><p>真鍋和（声：藤東知夏）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>9位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第9位</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2071,7 +2071,7 @@ DEATH DEVIL</p></td>
 <td><p>《[[K-ON!印象歌曲#秋山澪（第2期）|「K-ON</p></td>
 <td><p>」角色印象歌曲 秋山澪]]》</p></td>
 <td><p>秋山澪（声：日笠陽子）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>4位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第4位</p></td>
 </tr>
 <tr class="even">
 <td><p>《[[K-ON!印象歌曲#田井中律（第2期）|「K-ON</p></td>
@@ -2083,13 +2083,13 @@ DEATH DEVIL</p></td>
 <td><p>《[[K-ON!印象歌曲#琴吹紬（第2期）|「K-ON</p></td>
 <td><p>」角色印象歌曲 琴吹紬]]》</p></td>
 <td><p>琴吹紬（声：寿美菜子）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>11位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第11位</p></td>
 </tr>
 <tr class="even">
 <td><p>《[[K-ON!印象歌曲#中野梓（第2期）|「K-ON</p></td>
 <td><p>」角色印象歌曲 中野梓]]》</p></td>
 <td><p>中野梓（声：竹達彩奈）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>9位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第9位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《[[K-ON!印象歌曲#平澤憂（第2期）|「K-ON</p></td>
@@ -2101,13 +2101,13 @@ DEATH DEVIL</p></td>
 <td><p>《[[K-ON!印象歌曲#真鍋和（第2期）|「K-ON</p></td>
 <td><p>」角色印象歌曲 真鍋和]]》</p></td>
 <td><p>真鍋和（声：藤東知夏）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>9位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第9位</p></td>
 </tr>
 <tr class="odd">
 <td><p>《[[K-ON!印象歌曲#鈴木純（第2期）|「K-ON</p></td>
 <td><p>」角色印象歌曲 鈴木純]]》</p></td>
 <td><p>鈴木純（声：永田依子）</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>8位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第8位</p></td>
 </tr>
 <tr class="even">
 <td><p>廣播劇CD</p></td>
@@ -2119,12 +2119,12 @@ DEATH DEVIL</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/「RADI-ON!」特別版!#Vol.1" title="wikilink">「RADI-ON!」特別版!</a>》</p></td>
 <td><p>廣播劇CD</p></td>
 <td><p>2010年2月24日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>43位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第43位</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/「RADI-ON!」特別版!#Vol.2" title="wikilink">「RADI-ON!」特別版!</a>》</p></td>
 <td><p>2010年3月17日</p></td>
-<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>44位</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon</a>週間單曲榜初上榜第44位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2178,7 +2178,7 @@ DEATH DEVIL</p></td>
 <!-- end list -->
 
   -
-    2009年12月30日在[橫濱體育館舉辦了](../Page/橫濱體育館.md "wikilink")『K-ON\!』LIVE活動\[30\]。擔當主要角色的8個聲優，本作品樂曲的作曲家帶來的背景樂隊演出。而且一部份樂曲（「わたしの恋はホッチキス」、「ふわふわ時間」）是由聲優現場演奏。2010年6月30日發售了DVD和Blu-ray
+    2009年12月30日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦了『K-ON\!』LIVE活動\[30\]。擔當主要角色的8個聲優，本作品樂曲的作曲家帶來的背景樂隊演出。而且一部份樂曲（「わたしの恋はホッチキス」、「ふわふわ時間」）是由聲優現場演奏。2010年6月30日發售了DVD和Blu-ray
     Disc。
 
 <!-- end list -->
@@ -2193,7 +2193,7 @@ DEATH DEVIL</p></td>
 <!-- end list -->
 
   -
-    2011年2月20日在[埼玉超級競技場召開的活動](../Page/埼玉超級競技場.md "wikilink")\[33\]，出演的聲優共為十人。而一部份樂曲（「ぴゅあぴゅあはーと」、「ふわふわ時間」）是由聲優現場演奏，ENCORE曲則是（「Utauyo\!\!MIRACLE」、「NO,Thank
+    2011年2月20日在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")召開的活動\[33\]，出演的聲優共為十人。而一部份樂曲（「ぴゅあぴゅあはーと」、「ふわふわ時間」）是由聲優現場演奏，ENCORE曲則是（「Utauyo\!\!MIRACLE」、「NO,Thank
     You\!」）DOUBLE ENCORE曲（「Cagayake\!GIRLS」、「Don't say
     "lazy"」）。於2011年8月3日發售DVD和Blu-ray Disc。
 
@@ -2272,7 +2272,7 @@ DEATH DEVIL</p></td>
 
 17. 中野梓（CV：竹達彩奈）是自第9话起加入演出的。
 
-18. 動畫內的記法。部分歌詞是直接取自kakifly的原作漫畫；而實際的作曲和編曲為[前澤寬之負責](../Page/前澤寬之.md "wikilink")。
+18. 動畫內的記法。部分歌詞是直接取自kakifly的原作漫畫；而實際的作曲和編曲為[前澤寬之](../Page/前澤寬之.md "wikilink")負責。
 
 19. 動畫內的記法。實際的作詞為、作曲為[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")、編曲則由[白石元負責](https://zh.wikipedia.org/wiki/白石元 "wikilink")。（記載於[波麗佳音網頁內](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
     [有關CD的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001336&DSP_SKHKETSEQ=001)

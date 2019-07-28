@@ -1,6 +1,6 @@
-以下是使用[GTK+或](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Clutter控件項編寫的程式](https://zh.wikipedia.org/wiki/Clutter "wikilink")。這些程式和基於[GTK+的桌面環境](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，例如[GNOME](../Page/GNOME.md "wikilink")、[Cinnamon](../Page/Cinnamon.md "wikilink")、[LXDE](../Page/LXDE.md "wikilink")、[MATE](../Page/MATE.md "wikilink")、[Pantheon](https://zh.wikipedia.org/wiki/elementary_\(作業系統\) "wikilink")、[Sugar](https://zh.wikipedia.org/wiki/Sugar_\(用戶介面\) "wikilink")、[Xfce或](../Page/Xfce.md "wikilink")互相融合。
+以下是使用[GTK+或](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Clutter控件項編寫的程式](https://zh.wikipedia.org/wiki/Clutter "wikilink")。這些程式和基於[GTK+的桌面環境](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，例如[GNOME](../Page/GNOME.md "wikilink")、[Cinnamon](../Page/Cinnamon.md "wikilink")、[LXDE](../Page/LXDE.md "wikilink")、[MATE](../Page/MATE.md "wikilink")、[Pantheon](https://zh.wikipedia.org/wiki/elementary_\(作業系統\) "wikilink")、[Sugar](https://zh.wikipedia.org/wiki/Sugar_\(用戶介面\) "wikilink")、[Xfce](../Page/Xfce.md "wikilink")或互相融合。
 
-與[Qt不同](../Page/Qt.md "wikilink")，GTK+依賴其它軟件庫，例如[GLib](../Page/GLib.md "wikilink")、[Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")、[Pango或](../Page/Pango.md "wikilink")[GStreamer](../Page/GStreamer.md "wikilink")。
+與[Qt](../Page/Qt.md "wikilink")不同，GTK+依賴其它軟件庫，例如[GLib](../Page/GLib.md "wikilink")、[Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")、[Pango](../Page/Pango.md "wikilink")或[GStreamer](../Page/GStreamer.md "wikilink")。
 
 ## 官方GNOME程式
 
@@ -102,12 +102,12 @@
 
   - – VNC遠端操作軟件
 
-  - – [VNC伺服器](../Page/VNC.md "wikilink")
+  - – [VNC](../Page/VNC.md "wikilink")伺服器
 
 ## 遊戲
 
   - [GNOME遊戲](https://zh.wikipedia.org/wiki/GNOME遊戲 "wikilink") –
-    一系列用[Vala和C寫成的遊戲](../Page/Vala.md "wikilink")
+    一系列用[Vala](../Page/Vala.md "wikilink")和C寫成的遊戲
 
 ### [抽象策略遊戲](../Page/抽象策略遊戲.md "wikilink")
 
@@ -199,7 +199,7 @@
 
   - [Liferea](https://zh.wikipedia.org/wiki/Liferea "wikilink") – RSS閱讀器
 
-  - – [Usenet新聞閱讀器](../Page/Usenet.md "wikilink")
+  - – [Usenet](../Page/Usenet.md "wikilink")新聞閱讀器
 
 ## 辦公室軟件
 

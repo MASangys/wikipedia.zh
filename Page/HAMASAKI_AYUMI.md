@@ -1,16 +1,16 @@
 《**HAMASAKI
-AYUMI**》是日本歌手[濱崎步發行的首張DVD版本影像作品](../Page/濱崎步.md "wikilink")，2000年3月29日於日本發售。本作僅發行[DVD版本](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+AYUMI**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的首張DVD版本影像作品，2000年3月29日於日本發售。本作僅發行[DVD版本](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 說明
 
   - 本作收錄範圍為以首張原創專輯《[A Film for
-    ××](https://zh.wikipedia.org/wiki/A_Film_for_×× "wikilink")》及第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》為中心的[音樂錄影帶與廣告](../Page/音樂錄影帶.md "wikilink")。
-  - 本作收錄了前兩作[VHS影像作品](../Page/VHS.md "wikilink")《[A Film for
+    ××](https://zh.wikipedia.org/wiki/A_Film_for_×× "wikilink")》及第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》為中心的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與廣告。
+  - 本作收錄了前兩作[VHS](../Page/VHS.md "wikilink")影像作品《[A Film for
     ××](https://zh.wikipedia.org/wiki/A_Film_for_×× "wikilink")》及《[A
     clips](../Page/A_clips.md "wikilink")》，更額外收錄了數首未收錄於前兩作的廣告。
-      - 未收錄於前兩作[VHS影像作品的廣告有](../Page/VHS.md "wikilink")：前兩張原創專輯收錄範圍內單曲的廣告、首張原創專輯《[A
+      - 未收錄於前兩作[VHS](../Page/VHS.md "wikilink")影像作品的廣告有：前兩張原創專輯收錄範圍內單曲的廣告、首張原創專輯《[A
         Song for ××](../Page/A_Song_for_××.md "wikilink")》的5 Singles
-        version廣告、第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》的廣告、兩作[VHS影像作品](../Page/VHS.md "wikilink")《[A
+        version廣告、第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》的廣告、兩作[VHS](../Page/VHS.md "wikilink")影像作品《[A
         Film for
         ××](https://zh.wikipedia.org/wiki/A_Film_for_×× "wikilink")》及《[A
         clips](../Page/A_clips.md "wikilink")》的廣告。

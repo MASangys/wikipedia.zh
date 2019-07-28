@@ -1,5 +1,5 @@
 **78violet**，以前曾用艺名“**Aly &
-AJ**”（又译“阿莉和阿J”），[美国一](../Page/美国.md "wikilink")[双人](https://zh.wikipedia.org/wiki/双人乐团 "wikilink")[流行摇滚](https://zh.wikipedia.org/wiki/流行摇滚 "wikilink")[乐团](https://zh.wikipedia.org/wiki/乐团 "wikilink")，由姐妹俩[艾莉·蜜雪卡](../Page/艾莉·蜜雪卡.md "wikilink")（Alyson
+AJ**”（又译“阿莉和阿J”），[美国](../Page/美国.md "wikilink")一[双人](https://zh.wikipedia.org/wiki/双人乐团 "wikilink")[流行摇滚](https://zh.wikipedia.org/wiki/流行摇滚 "wikilink")[乐团](https://zh.wikipedia.org/wiki/乐团 "wikilink")，由姐妹俩[艾莉·蜜雪卡](../Page/艾莉·蜜雪卡.md "wikilink")（Alyson
 Renae "Aly" Michalka）与[AJ·蜜雪卡](../Page/AJ·蜜雪卡.md "wikilink")（Amanda Joy
 "AJ"
 Michalka）组成，其中艾莉森是姐姐，两人相差两岁，而且都是创作型歌手、吉他手和演员。她们均在[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[托伦斯出生](https://zh.wikipedia.org/wiki/托倫斯_\(加利福尼亞州\) "wikilink")，童年曾在[华盛顿州](../Page/华盛顿州.md "wikilink")[西雅图度过](https://zh.wikipedia.org/wiki/西雅图 "wikilink")。2004年成立乐团，与[好莱坞唱片签约](https://zh.wikipedia.org/wiki/好莱坞唱片 "wikilink")。2005年发行首张专辑

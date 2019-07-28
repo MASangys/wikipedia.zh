@@ -1,14 +1,14 @@
 **[有限公司](../Page/有限公司.md "wikilink") Holy
-Peak**（****）是[日本的](../Page/日本.md "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。主要經辦歌手或[聲優的管理事務](../Page/聲優.md "wikilink")。
+Peak**（****）是[日本](../Page/日本.md "wikilink")的[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。主要經辦歌手或[聲優](../Page/聲優.md "wikilink")的管理事務。
 
 ## 概要
 
-[執行董事為前](https://zh.wikipedia.org/wiki/執行董事 "wikilink")[寶麗金音樂製作人的堀尾裕樹](../Page/寶麗金.md "wikilink")。堀尾在2001年時，和當時深交的[緒方惠美](../Page/緒方惠美.md "wikilink")、[大澤千秋等人一起移籍到](../Page/大澤千秋.md "wikilink")[SPACE
-CRAFT公司](../Page/SPACE_CRAFT.md "wikilink")，因參與製作[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")、[長谷川靜香的聲優出道作](../Page/長谷川靜香.md "wikilink")『[天使的尾巴](../Page/天使的尾巴.md "wikilink")』，進而深入發展SPACE
+[執行董事為前](https://zh.wikipedia.org/wiki/執行董事 "wikilink")[寶麗金](../Page/寶麗金.md "wikilink")音樂製作人的堀尾裕樹。堀尾在2001年時，和當時深交的[緒方惠美](../Page/緒方惠美.md "wikilink")、[大澤千秋](../Page/大澤千秋.md "wikilink")等人一起移籍到[SPACE
+CRAFT公司](../Page/SPACE_CRAFT.md "wikilink")，因參與製作[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")、[長谷川靜香](../Page/長谷川靜香.md "wikilink")的聲優出道作『[天使的尾巴](../Page/天使的尾巴.md "wikilink")』，進而深入發展SPACE
 CRAFT的聲優事業後，在2002年5月獨立並設立了Holy
 Peak（[參考](http://blog.livedoor.jp/horio_h/archives/25115094.html)）。
 
-據[小林優在廣播裡的發言](../Page/小林優.md "wikilink")，公司裡的椅子似乎不夠，曾經有過在公司裡無法坐下的情形。
+據[小林優](../Page/小林優.md "wikilink")在廣播裡的發言，公司裡的椅子似乎不夠，曾經有過在公司裡無法坐下的情形。
 
 ## 所属藝人・聲優
 

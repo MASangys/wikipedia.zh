@@ -1,4 +1,4 @@
-**Spring**计划力求创造一个超越[横扫千军的](../Page/横扫千军.md "wikilink")[即时战略](https://zh.wikipedia.org/wiki/即时战略 "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。代码授权为[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，继承大量横扫千军的特性，地图数据结构相近、使用[lua建立界面](https://zh.wikipedia.org/wiki/lua "wikilink")。
+**Spring**计划力求创造一个超越[横扫千军](../Page/横扫千军.md "wikilink")的[即时战略](https://zh.wikipedia.org/wiki/即时战略 "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。代码授权为[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，继承大量横扫千军的特性，地图数据结构相近、使用[lua建立界面](https://zh.wikipedia.org/wiki/lua "wikilink")。
 
 ## 特性
 
@@ -9,7 +9,7 @@
 
 ## 游戏
 
-基于Spring的游戏，尽管其中多数使用或者基于[横扫千军及其](../Page/横扫千军.md "wikilink")[Mod的数据文件](https://zh.wikipedia.org/wiki/Mod "wikilink")，有法律问题。
+基于Spring的游戏，尽管其中多数使用或者基于[横扫千军](../Page/横扫千军.md "wikilink")及其[Mod的数据文件](https://zh.wikipedia.org/wiki/Mod "wikilink")，有法律问题。
 
 [KernelPanic.jpg](https://zh.wikipedia.org/wiki/File:KernelPanic.jpg "fig:KernelPanic.jpg")
 
@@ -25,7 +25,7 @@ Zero-K是一个用1个指挥官机器人外加11种选1免费工厂/工程单位
 GPL代码，CC-SA-NC-BY
 
   - [Kernel Panic（KP）](http://springrts.com/phpbb/viewforum.php?f=43)
-    计算机世界的游戏。主要部分在[公共领域授权下发布](../Page/公共领域.md "wikilink")（仅包含两张地图），多数地图未知。
+    计算机世界的游戏。主要部分在[公共领域](../Page/公共领域.md "wikilink")授权下发布（仅包含两张地图），多数地图未知。
 
 <!-- end list -->
 

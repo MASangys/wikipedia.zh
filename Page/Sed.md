@@ -1,8 +1,8 @@
 **sed**（意为**流编辑器**，源自[英语](../Page/英语.md "wikilink")“”的缩写）是一个使用简单紧凑的编程语言来解析和转换文本[Unix实用程序](../Page/UNIX.md "wikilink")。
 
-sed由[贝尔实验室的Lee](../Page/贝尔实验室.md "wikilink") E. McMahon于1973年至1974年开发，
+sed由[贝尔实验室](../Page/贝尔实验室.md "wikilink")的Lee E. McMahon于1973年至1974年开发，
 \[1\] 并且现在大多数操作系统都可以使用。 \[2\] sed基于交互式编辑器ed（“editor”，1971）和早期qed（“quick
-editor”，1965-66）的脚本功能。sed是最早支持[正则表达式的工具之一](../Page/正则表达式.md "wikilink")，至今仍然用于文本处理，特别是用于替换命令。用于纯文本字符串操作和“流编辑”的常用工具还有[AWK和](../Page/AWK.md "wikilink")[Perl](../Page/Perl.md "wikilink")
+editor”，1965-66）的脚本功能。sed是最早支持[正则表达式](../Page/正则表达式.md "wikilink")的工具之一，至今仍然用于文本处理，特别是用于替换命令。用于纯文本字符串操作和“流编辑”的常用工具还有[AWK](../Page/AWK.md "wikilink")和[Perl](../Page/Perl.md "wikilink")
 。
 
 ## 历史
@@ -12,11 +12,11 @@ sed是为命令行处理数据文件而构建的早期Unix命令之一，首次�
 最初的动机与grep（g/re/p）的替换类似，因此称为“g/re/s”。\[4\]
 考虑到这样的话还会出现针对每个命令的专用程序，例如g/re/d，McMahon编写了一个通用的面向行的流编辑器，该编辑器后来成为了sed。\[5\]
 sed的语法，特别是把`/`用于模式匹配，把`s///`用于替换，起源于sed的前身ed（当时ed很常用）\[6\]
-而且正则表达式语法影响了其他一些语言，特别是[ECMAScript和](../Page/ECMAScript.md "wikilink")[Perl](../Page/Perl.md "wikilink")。后来，更强大的语言[AWK问世](../Page/AWK.md "wikilink")，这些工具相互补充，让通过shell脚本完成强大的文本处理成为可能。sed和AWK常被认为Perl的祖先和灵感来源，并且影响了Perl的语法和语义，尤其影响了匹配和替换运算符。
+而且正则表达式语法影响了其他一些语言，特别是[ECMAScript](../Page/ECMAScript.md "wikilink")和[Perl](../Page/Perl.md "wikilink")。后来，更强大的语言[AWK](../Page/AWK.md "wikilink")问世，这些工具相互补充，让通过shell脚本完成强大的文本处理成为可能。sed和AWK常被认为Perl的祖先和灵感来源，并且影响了Perl的语法和语义，尤其影响了匹配和替换运算符。
 
 [GNU](../Page/GNU.md "wikilink") sed添加了一些新功能，包括文件的就地编辑 。*Super-sed*
-是sed的扩展版本，包含与[Perl兼容的正则表达式](../Page/Perl.md "wikilink")。sed的另一变体*minised*
-，最初[埃里克·雷蒙把](../Page/埃里克·雷蒙.md "wikilink")4.1BSD sed通过逆向工程写成，目前由René
+是sed的扩展版本，包含与[Perl](../Page/Perl.md "wikilink")兼容的正则表达式。sed的另一变体*minised*
+，最初[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")把4.1BSD sed通过逆向工程写成，目前由René
 Rebe维护。在GNU计划基于新的GNU正则表达式库编写了新版本的sed之前，GNU计划一直使用minised。当前minised包含一些BSD
 sed的扩展，但不像GNU sed那样功能丰富。它的优点是速度快，占用的内存少。它用于嵌入式系统，是Minix提供的sed版本。
 
@@ -28,7 +28,7 @@ sed是一个面向行的文本处理实用程序：它从输入流或文件中�
 。对于每个输入行，在运行脚本之后，sed通常输出模式空间（由脚本修改的行），然后从下一行再次开始循环。其他脚本结束行为可通过sed选项和脚本命令获得，例如`d`删除模式空间，`q`退出，`N`立即将下一行添加到模式空间，等等。因此，sed脚本对应于循环体，循环体遍历流的行，其中循环本身和循环变量（当前行号）是隐式的并由sed维护。
 
 可以在命令行上指定sed脚本（ `-e`选项），也可以从单独的文件中读取（
-`-f`选项）。sed脚本中的命令可以采用行号或[正则表达式的作为](../Page/正则表达式.md "wikilink")*地址*
+`-f`选项）。sed脚本中的命令可以采用行号或[正则表达式](../Page/正则表达式.md "wikilink")的作为*地址*
 。该地址确定决定命令何时运行。例如，`2d`将仅在第二个输入行上运行`d`（删除）命令（打印除第二个输入行之外的所有行），而`/^
 /d`将删除以空格开头的所有行。一些单独的特殊缓冲区，即*保持空间*，可以由几个sed命令使用，用于在循环之间保持和累积文本。sed的命令语言只有两个变量（“保持空间”和“模式空间”）和类似GOTO的分支功能；然而，这种语言是图灵完备的，\[7\]\[8\]
 用深奥sed脚本甚至写得出[推箱子](../Page/倉庫番.md "wikilink")、[打砖块](../Page/快打磚塊.md "wikilink")\[9\]、[国际象棋](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")\[10\]和[俄罗斯方块](../Page/俄羅斯方塊.md "wikilink")\[11\]等游戏。
@@ -65,7 +65,7 @@ sed 's/regexp/replacement/g' inputFileName > outputFileName
 sed '/^ *$/d' inputFileName
 ```
 
-本例使用了下列[正则表达式元字符](../Page/正则表达式.md "wikilink")（sed支持所有正则表达式）：
+本例使用了下列[正则表达式](../Page/正则表达式.md "wikilink")元字符（sed支持所有正则表达式）：
 
   - 脱字符（ `^` ）匹配行首。
   - 美元符号（ `$` ）匹配行尾。
@@ -222,7 +222,7 @@ sed "s/firstword//g; s/secondword//g" inputFileName
 
 ## 限制和替代方案
 
-虽然sed具有简单性和局限性，但对于大量用途而言，它的功能已经足够强大。对于更复杂的处理，可以使用更强大的语言，如[AWK或](../Page/AWK.md "wikilink")[Perl](../Page/Perl.md "wikilink")
+虽然sed具有简单性和局限性，但对于大量用途而言，它的功能已经足够强大。对于更复杂的处理，可以使用更强大的语言，如[AWK](../Page/AWK.md "wikilink")或[Perl](../Page/Perl.md "wikilink")
 。虽然使用保持缓冲区理论上可以进行任意复杂的转换，但如果转换行的方式比正则表达式提取和模板替换更复杂，则使用一般会使用上面提到的更强大的语言。
 
 相反，对于更简单的操作，[grep](../Page/Grep.md "wikilink")

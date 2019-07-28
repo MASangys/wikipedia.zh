@@ -38,7 +38,7 @@ TinyMCE包含了各种类型的插件\[6\]，雖然TinyMCE是一个用户端的�
   - [iManager](https://web.archive.org/web/20090205053403/http://www.j-cons.com/news/more.php?id=159_0_1_0_C)（2005后不再升级）
   - [IMCE](http://drupal.org/project/imce/) - 用图片和文件的上传和浏览
 
-TinyMCE也提供了一个可选的压缩元件，这個外掛程式能有效减少脚本下载时间，加快脚本执行的速度。压缩元件支持[PHP](../Page/PHP.md "wikilink")、[ASPX](https://zh.wikipedia.org/wiki/ASPX "wikilink")、[JSP和CFM](../Page/JSP.md "wikilink")。对于[Ruby
+TinyMCE也提供了一个可选的压缩元件，这個外掛程式能有效减少脚本下载时间，加快脚本执行的速度。压缩元件支持[PHP](../Page/PHP.md "wikilink")、[ASPX](https://zh.wikipedia.org/wiki/ASPX "wikilink")、[JSP](../Page/JSP.md "wikilink")和CFM。对于[Ruby
 on Rails也有第三方提供了一个压缩元件](../Page/Ruby_on_Rails.md "wikilink")。\[7\]
 
 ## 操作介面

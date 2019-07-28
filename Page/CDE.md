@@ -1,7 +1,7 @@
 ****，通用桌面環境（**** ****
-****）的缩写。是一种运行于和[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")，基於[Motif](../Page/Motif.md "wikilink")[部件工具箱開發的商業](../Page/部件工具箱.md "wikilink")[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。商用Unix[工作站长期采用CDE作為標準的桌面環境](../Page/工作站.md "wikilink")。
+****）的缩写。是一种运行于和[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")，基於[Motif](../Page/Motif.md "wikilink")[部件工具箱](../Page/部件工具箱.md "wikilink")開發的商業[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。商用Unix[工作站](../Page/工作站.md "wikilink")长期采用CDE作為標準的桌面環境。
 
-2012年8月，CDE宣布開放原始碼，採LGPL授權\[1\]，此后CDE被移植到[Linux和](../Page/Linux.md "wikilink")[BSD派生系统上](../Page/BSD.md "wikilink")。
+2012年8月，CDE宣布開放原始碼，採LGPL授權\[1\]，此后CDE被移植到[Linux](../Page/Linux.md "wikilink")和[BSD](../Page/BSD.md "wikilink")派生系统上。
 
 ## 采用CDE的操作系統
 

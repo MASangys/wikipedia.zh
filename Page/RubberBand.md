@@ -1,19 +1,19 @@
-**RubberBand**是一支[香港樂隊](../Page/香港.md "wikilink")，於2004年成立。2007年與唱片公司[金牌大風簽約](../Page/金牌大風.md "wikilink")，2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。
+**RubberBand**是一支[香港](../Page/香港.md "wikilink")樂隊，於2004年成立。2007年與唱片公司[金牌大風](../Page/金牌大風.md "wikilink")簽約，2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。
 
 ## 簡介
 
 [USCA2012_RubberBand.JPG](https://zh.wikipedia.org/wiki/File:USCA2012_RubberBand.JPG "fig:USCA2012_RubberBand.JPG")
 樂隊成立前，五位成員都在不同的獨立樂隊玩音樂\[3\]
-。主音6號（繆浩昌）在2002年畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[新聞及傳播學系後](https://zh.wikipedia.org/wiki/新聞 "wikilink")，加入了[香港電台電視部當助導](../Page/香港電台.md "wikilink")\[4\]，直至2003年五位成員相遇後，於2004年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](https://zh.wikipedia.org/wiki/物理及材料科學系 "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院
+。主音6號（繆浩昌）在2002年畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[新聞及傳播學系後](https://zh.wikipedia.org/wiki/新聞 "wikilink")，加入了[香港電台](../Page/香港電台.md "wikilink")電視部當助導\[4\]，直至2003年五位成員相遇後，於2004年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](https://zh.wikipedia.org/wiki/物理及材料科學系 "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院
 (Berklee College of Music)主修電影配樂。
 
-2007年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德賞識](../Page/雷頌德.md "wikilink")，簽進[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")\[5\]
+2007年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德](../Page/雷頌德.md "wikilink")賞識，簽進[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")\[5\]
 （現稱金牌大風娛樂有限公司）。RubberBand在組團時已定下一個傳統：除了精選碟及EP外，悉數以字母順序來命名唱片。
 
 2008年9月26日，RubberBand推出首張唱片《Apollo
 18》，收錄《一早地下鐵》、《遊車河》、《小涼伴》及《Tears》等歌曲。RubberBand於[2008年度叱吒樂壇流行榜頒獎典禮獲得](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮 "wikilink")[叱吒樂壇生力軍組合金獎](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")。同時於頒獎禮上由商台DJ[林海峰擔任該獎項的頒獎嘉賓](https://zh.wikipedia.org/wiki/林海峰 "wikilink")，因為成員泥鯭的模樣與林海峰猶如孖生兄弟。之後兩人出現在EPS廣告，以及RubberBand與林海峰合作歌曲《夾硬泥》。
 
-2009年7月24日，RubberBand推出第二張專輯《Beaming》，收錄歌曲有《天台飛人》、《阿波羅》、《夏令時間》、《夾硬泥》及《衝》等。11月23日，RubberBand在[九龍灣國際展貿中心舉行了他們首個演唱會](../Page/九龍灣國際展貿中心.md "wikilink")－《[RubberBand
+2009年7月24日，RubberBand推出第二張專輯《Beaming》，收錄歌曲有《天台飛人》、《阿波羅》、《夏令時間》、《夾硬泥》及《衝》等。11月23日，RubberBand在[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉行了他們首個演唱會－《[RubberBand
 Concert\#1](https://zh.wikipedia.org/wiki/RubberBand_Concert#1 "wikilink")》。RubberBand於2009年樂壇頒獎禮中奪得多個大獎，包括「新城勁爆樂隊」和「叱吒樂壇組合金獎」，他們為人所知的作品《阿波羅》及《發現號》等均成為大熱歌曲。
 
 2010年6月，[南非世界杯前夕](https://zh.wikipedia.org/wiki/南非世界杯 "wikilink")，RubberBand推出單曲《細街盃》，歌曲是為了非洲居港移民而寫的\[6\]。
@@ -28,7 +28,7 @@ Concert\#1](https://zh.wikipedia.org/wiki/RubberBand_Concert#1 "wikilink")》。
 
 2018年，適逢出道10年，RubberBand在形象指導張蚊的協助下拍攝時裝照\[9\]。同年9月26-27日，於九龍灣國際展貿中心舉行兩場
 RUBBERBAND HOURS
-演唱會。而歌曲《未來見》更大獲好評，成為不少樂評人的年度歌曲，更令RubberBand首次入圍叱咤樂壇我最喜愛的歌曲最後五強，而歌曲《未來見》亦成為至尊歌曲大獎的得獎大熱，可惜𨦫殺而歸，只獲叱咤十大第三位。而當晚亦獲得叱咤樂壇組合金獎，追平[Beyond的紀錄](../Page/Beyond.md "wikilink")。
+演唱會。而歌曲《未來見》更大獲好評，成為不少樂評人的年度歌曲，更令RubberBand首次入圍叱咤樂壇我最喜愛的歌曲最後五強，而歌曲《未來見》亦成為至尊歌曲大獎的得獎大熱，可惜𨦫殺而歸，只獲叱咤十大第三位。而當晚亦獲得叱咤樂壇組合金獎，追平[Beyond](../Page/Beyond.md "wikilink")的紀錄。
 
 在同年，RubberBand為電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》配樂並獻唱主題曲《逆流之歌》，令RubberBand榮獲[第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink")「最佳原創電影音樂」以及「最佳原創電影歌曲」。
 
@@ -561,27 +561,27 @@ flat”，最先見於其首張大碟《[Apollo
 <td><p>2010</p></td>
 <td><p>Color My World</p></td>
 <td><p>太陽計劃2010主題曲<br />
-與<a href="../Page/Mr..md" title="wikilink">Mr.合唱</a></p></td>
+與<a href="../Page/Mr..md" title="wikilink">Mr.</a>合唱</p></td>
 <td><p>Love 10情歌集壓軸篇</p></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
 <td><p>To Haters</p></td>
-<td><p><a href="../Page/方皓玟.md" title="wikilink">方皓玟主唱</a><br />
+<td><p><a href="../Page/方皓玟.md" title="wikilink">方皓玟</a>主唱<br />
 featuring 偉＠RubberBand on double bass</p></td>
 <td><p>Dun U Dare</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p>今晚跟你拗餐飽</p></td>
-<td><p><a href="../Page/曹震豪.md" title="wikilink">曹震豪主唱</a><br />
+<td><p><a href="../Page/曹震豪.md" title="wikilink">曹震豪</a>主唱<br />
 featuring 6號＠RubberBand</p></td>
 <td><p>Musicologist</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>終於好天氣</p></td>
-<td><p>與<a href="../Page/方皓玟.md" title="wikilink">方皓玟合唱</a></p></td>
+<td><p>與<a href="../Page/方皓玟.md" title="wikilink">方皓玟</a>合唱</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/My_Spiritual_Life" title="wikilink">My Spiritual Life</a></p></td>
 </tr>
 <tr class="odd">
@@ -594,7 +594,7 @@ featuring 6號＠RubberBand</p></td>
 <tr class="even">
 <td><p>2018</p></td>
 <td><p>風塵三俠</p></td>
-<td><p>與<a href="../Page/小肥.md" title="wikilink">小肥及</a><a href="../Page/側田.md" title="wikilink">側田合唱</a></p></td>
+<td><p>與<a href="../Page/小肥.md" title="wikilink">小肥</a>及<a href="../Page/側田.md" title="wikilink">側田</a>合唱</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/睡前服" title="wikilink">睡前服</a></p></td>
 </tr>
 </tbody>
@@ -1119,7 +1119,7 @@ featuring 6號＠RubberBand</p></td>
 
   - MOOV Live[吳雨霏](../Page/吳雨霏.md "wikilink")（featuring RubberBand）
   - 3月27日：[Nokia我系音樂會](https://zh.wikipedia.org/wiki/Nokia "wikilink")
-  - 7月25日：[森美移動第一次音樂大戰](../Page/森美移動.md "wikilink")
+  - 7月25日：[森美移動](../Page/森美移動.md "wikilink")第一次音樂大戰
 
 2009年
 
@@ -1144,7 +1144,7 @@ featuring 6號＠RubberBand</p></td>
     Show音樂會](https://zh.wikipedia.org/wiki/Parkland_Band_Show "wikilink")
   - 7月31日：Ricky Music Factory School Show
   - 8月6日：[新城iDO](../Page/新城電台.md "wikilink") HD 靚聲音樂會（featuring
-    [張智霖](../Page/張智霖.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[曹格及](../Page/曹格.md "wikilink")[蘇永康](../Page/蘇永康.md "wikilink")）
+    [張智霖](../Page/張智霖.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[曹格](../Page/曹格.md "wikilink")及[蘇永康](../Page/蘇永康.md "wikilink")）
   - 8月14日：元朗圍村文化節閉幕禮
   - 8月20日：[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") Music
     Battle
@@ -1153,15 +1153,15 @@ featuring 6號＠RubberBand</p></td>
   - 10月1日：香港同胞慶祝中華人民共和國成立62週年文藝晚會
   - 10月25日：SPORT b. Plugged Asian Music Festival 2011 – Live Concert in
     Hong Kong（featuring
-    [糖兄妹及](../Page/糖兄妹.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")）
-  - 11月8日－9日：[蘇永康給那誰的演唱會](../Page/蘇永康.md "wikilink")2011（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
-  - 12月24日：[荃新天地Amazing](../Page/荃新天地.md "wikilink") Circus平安夜倒數派對
+    [糖兄妹](../Page/糖兄妹.md "wikilink")及[周國賢](../Page/周國賢.md "wikilink")）
+  - 11月8日－9日：[蘇永康](../Page/蘇永康.md "wikilink")給那誰的演唱會2011（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
+  - 12月24日：[荃新天地](../Page/荃新天地.md "wikilink")Amazing Circus平安夜倒數派對
   - 12月31日：Rock'n Over狂熱搖滾除夕倒數演唱會2012（featuring
-    [太極樂隊](../Page/太極樂隊.md "wikilink")、[Mr.及](../Page/Mr..md "wikilink")[Kolor](../Page/Kolor.md "wikilink")）
+    [太極樂隊](../Page/太極樂隊.md "wikilink")、[Mr.](../Page/Mr..md "wikilink")及[Kolor](../Page/Kolor.md "wikilink")）
 
 2012年
 
-  - 1月13日－14日：[謝安琪你們的幸福演唱會](../Page/謝安琪.md "wikilink")
+  - 1月13日－14日：[謝安琪](../Page/謝安琪.md "wikilink")你們的幸福演唱會
   - 3月31日：RubberBand MOOV LIVE 2012
   - 4月1日：903拉闊理想音樂會（featuring [Dear
     Jane](../Page/Dear_Jane.md "wikilink")、[Mr.](../Page/Mr..md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Peri
@@ -1170,14 +1170,14 @@ featuring 6號＠RubberBand</p></td>
     Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")）
   - 5月4日：[太極Band](../Page/太極樂隊.md "wikilink") of the Town香港演唱會2012 Part
     2
-  - 5月16日：[小肥的黃昏音樂會](../Page/小肥.md "wikilink")
-  - 5月21日－25日：[黃貫中Paul](../Page/黃貫中.md "wikilink") Wong
+  - 5月16日：[小肥](../Page/小肥.md "wikilink")的黃昏音樂會
+  - 5月21日－25日：[黃貫中](../Page/黃貫中.md "wikilink")Paul Wong
     Rockestra演唱會2012（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 6月28日：青苗學界進步獎嘉許禮暨打氣音樂會
   - 7月20日－22日：[衛蘭](../Page/衛蘭.md "wikilink")3000 Day & Night
     演唱會（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 9月1日：「良心話事。守護孩子」公民教育開學禮大集會音樂晚會
-  - 10月1日：[嘉士伯Chill](../Page/嘉士伯.md "wikilink") X Rubberband Live
+  - 10月1日：[嘉士伯](../Page/嘉士伯.md "wikilink")Chill X Rubberband Live
   - 10月26日：[Mikiki](../Page/Mikiki.md "wikilink") X RubberBand【Easy】簽唱會
   - 12月9日： RubberBand Easy Concert 演唱會 2012
 
@@ -1378,7 +1378,7 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     Live](https://zh.wikipedia.org/wiki/Winter_Jackets_Live "wikilink")（硬照）\[14\]
   - 2011年：[JobMarket求職廣場](https://zh.wikipedia.org/wiki/JobMarket求職廣場 "wikilink")（硬照）\[15\]
   - 2011年：[家居寬頻電視廣告](../Page/3.md "wikilink")（出任代言人）\[16\]
-  - 2011年：[香港電腦通訊節2011](../Page/香港電腦通訊節.md "wikilink")（出任電腦大使）\[17\]
+  - 2011年：[香港電腦通訊節](../Page/香港電腦通訊節.md "wikilink")2011（出任電腦大使）\[17\]
   - 2011年：[香港癌症基金會](../Page/香港癌症基金會.md "wikilink")《患癌不是大結局》（出任活動大使）\[18\]
   - 2011年：[Ellesse
     Time](https://zh.wikipedia.org/wiki/:en:Ellesse "wikilink") X
@@ -1388,7 +1388,7 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     Thinsulate冬日Live輕。薄。暖（出任代言人)
   - 2012年：T-TECH by TUMI（出任代言人）\[20\]
   - 2012年：[Carlsberg Chill](../Page/嘉士伯.md "wikilink")（出任代言人）\[21\]
-  - 2012年：[強制性公積金僱員自選安排](../Page/強制性公積金.md "wikilink")（[泥鯭出任代言人](../Page/黎萬宏.md "wikilink")）\[22\]
+  - 2012年：[強制性公積金](../Page/強制性公積金.md "wikilink")僱員自選安排（[泥鯭出任代言人](../Page/黎萬宏.md "wikilink")）\[22\]
 
 ## 獎項及榮耀
 
@@ -1533,16 +1533,16 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊 銅獎
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆編曲《芝士》
   - [2016年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
+    - 專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟](../Page/方皓玟.md "wikilink")合唱）
   - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") -
     全年最佳樂隊/組合獎 銅獎
-  - 香港樂評選2016 年度編曲《堅彌地城》（與[王雙駿合編](../Page/王雙駿.md "wikilink")）
+  - 香港樂評選2016 年度編曲《堅彌地城》（與[王雙駿](../Page/王雙駿.md "wikilink")合編）
   - 香港樂評選2016 十樂推薦 NO.6 《堅彌地城》（feat. Charatay）
 
 ### 2017年度
 
   - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    勁爆合唱歌曲《黑膠》（6號與[李克勤合唱](../Page/李克勤.md "wikilink")）
+    勁爆合唱歌曲《黑膠》（6號與[李克勤](../Page/李克勤.md "wikilink")合唱）
   - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊
   - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱咤樂壇組合 銀獎
@@ -1564,9 +1564,9 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - 香港樂評選2018 年度旋律《未來見》
   - Cool Music Forum會員共和榜 2018年度我最喜愛的歌曲第三季季選 - 第一位《未來見》
   - Cool Music Forum會員共和榜 2018年度第一季季選歌曲 -
-    季選推介歌曲《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥合唱](../Page/小肥.md "wikilink")）
+    季選推介歌曲《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥](../Page/小肥.md "wikilink")合唱）
   - Cool Music Forum會員共和榜 共和2018 共和十大
-    第九位《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥合唱](../Page/小肥.md "wikilink")）
+    第九位《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥](../Page/小肥.md "wikilink")合唱）
   - Cool Music Forum會員共和榜 共和2018 共和十大 至尊歌曲《未來見》
   - Cool Music Forum會員共和榜 共和2018 共和幕後大獎 作曲人
   - Cool Music Forum會員共和榜 共和2018 共和幕後大獎 編曲人

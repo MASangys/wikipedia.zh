@@ -1,5 +1,5 @@
 《**NEOPHILIA**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")5張單曲。
-由[Lantis於](../Page/Lantis.md "wikilink")2007年11月7日發行。
+由[Lantis](../Page/Lantis.md "wikilink")於2007年11月7日發行。
 
 ## 概要
 

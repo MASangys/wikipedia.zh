@@ -1,4 +1,4 @@
-《**倩女幽魂Online**》是一套由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[网易公司自行开发并运营的](../Page/网易.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，于2011年9月23日正式开始公测。倩女幽魂Online以著名的[小说](../Page/小说.md "wikilink")[聊斋志异中](https://zh.wikipedia.org/wiki/聊斋志异 "wikilink")[聂小倩故事为游戏基本背景](https://zh.wikipedia.org/wiki/聂小倩 "wikilink")\[1\]。
+《**倩女幽魂Online**》是一套由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[网易](../Page/网易.md "wikilink")公司自行开发并运营的[网络游戏](../Page/网络游戏.md "wikilink")，于2011年9月23日正式开始公测。倩女幽魂Online以著名的[小说](../Page/小说.md "wikilink")[聊斋志异中](https://zh.wikipedia.org/wiki/聊斋志异 "wikilink")[聂小倩故事为游戏基本背景](https://zh.wikipedia.org/wiki/聂小倩 "wikilink")\[1\]。
 
 ## 门派
 
@@ -55,7 +55,7 @@
 
 ### 天气系统
 
-倩女幽魂Online中的虚拟世界会有[天气变化](../Page/天气.md "wikilink")，游戏过程中系统会随机产生不同的天气，例如雨、雪、风等，不同的天气会对不同属性的技能产生正面影响。例如在雨天使用电属性攻击会得到效果加成，而晴天则对火属性攻击有加成\[5\]。
+倩女幽魂Online中的虚拟世界会有[天气](../Page/天气.md "wikilink")变化，游戏过程中系统会随机产生不同的天气，例如雨、雪、风等，不同的天气会对不同属性的技能产生正面影响。例如在雨天使用电属性攻击会得到效果加成，而晴天则对火属性攻击有加成\[5\]。
 
 | 天气 | 属性加成     |
 | -- | -------- |

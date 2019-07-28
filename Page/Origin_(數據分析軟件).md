@@ -1,5 +1,5 @@
 **Origin**是由[OriginLab公司开发的一个科学绘图](https://zh.wikipedia.org/wiki/OriginLab "wikilink")、数据分析软件，支持在Microsoft
-Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的[曲线拟合是采用基于](https://zh.wikipedia.org/wiki/曲线拟合 "wikilink")[Levernberg-Marquardt算法](https://zh.wikipedia.org/wiki/Levernberg-Marquardt算法 "wikilink")（LMA）的非线性[最小二乘法拟合](../Page/最小二乘法.md "wikilink")。Origin强大的数据导入功能，支持多种格式的数据，包括[ASCII](../Page/ASCII.md "wikilink")、[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、NI
+Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的[曲线拟合是采用基于](https://zh.wikipedia.org/wiki/曲线拟合 "wikilink")[Levernberg-Marquardt算法](https://zh.wikipedia.org/wiki/Levernberg-Marquardt算法 "wikilink")（LMA）的非线性[最小二乘法](../Page/最小二乘法.md "wikilink")拟合。Origin强大的数据导入功能，支持多种格式的数据，包括[ASCII](../Page/ASCII.md "wikilink")、[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、NI
 TDM、DIADem、[NetCDF](../Page/NetCDF.md "wikilink")、SPC等等。图形输出格式多样，例如JPEG，GIF，EPS，TIFF等。内置的查询工具可通过ADO访问数据库数据。
 
 ## 界面
@@ -8,11 +8,11 @@ TDM、DIADem、[NetCDF](../Page/NetCDF.md "wikilink")、SPC等等。图形输出
 
 Origin是一个具有[电子数据表前端的](https://zh.wikipedia.org/wiki/电子试算表 "wikilink")[图形化用户界面软件](../Page/图形用户界面.md "wikilink")。与常用的电子制表软件不同，如[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")。Origin的工作表是以列为对象的，每一列具有相应的属性，例如名称，数量单位，以及其他用户自定义标识。Origin以列计算式取代数据单元计算式进行计算。Origin可使用自身的[脚本语言](../Page/脚本语言.md "wikilink")（[LabTalk](http://wiki.originlab.com/~originla/wiki/index.php?title=Category:LabTalk)）去控制软件，该语言可使用Origin
 C进行扩展。Origin
-C是内置的基于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++的编译语言](../Page/C++.md "wikilink")。
+C是内置的基于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")的编译语言。
 
 值得注意的是，Origin可以作为一个[COM服务器](https://zh.wikipedia.org/wiki/COM "wikilink")，通过[VB.NET](../Page/Visual_Basic_.NET.md "wikilink"),
 [C\#](../Page/C♯.md "wikilink"),
-[LabVIEW等程序进行调用](../Page/LabVIEW.md "wikilink")。
+[LabVIEW](../Page/LabVIEW.md "wikilink")等程序进行调用。
 
 ## OriginPro
 

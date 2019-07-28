@@ -1,16 +1,16 @@
 **Adobe Shockwave**（前为Macromedia
 Shockwave）是Macromedia在[Flash之前最成功的](../Page/Adobe_Flash.md "wikilink")[多媒体播放器](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。它能将[Adobe
-Director制作的](../Page/Adobe_Director.md "wikilink")[应用程序发布到](../Page/应用程序.md "wikilink")[互联网上](../Page/互联网.md "wikilink")，被安装有Shockwave[插件的](../Page/插件.md "wikilink")[浏览器浏览](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。
+Director制作的](../Page/Adobe_Director.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")发布到[互联网](../Page/互联网.md "wikilink")上，被安装有Shockwave[插件](../Page/插件.md "wikilink")的[浏览器浏览](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。
 
 ## 描述
 
 Shockwave一般由[Adobe](../Page/Adobe.md "wikilink")
 [Director制作](../Page/Adobe_Director.md "wikilink")。虽然Shockwave也提供对[Flash的支持](https://zh.wikipedia.org/wiki/Flash "wikilink")，但是开發者偏向使用Director，因为它更强大。Adobe
-Shockwave相对于Flash的强大主要体现在更快的渲染引擎，包括3D硬件加速和对包括[IRC在内的多种网络协议的支持](../Page/IRC.md "wikilink")。而且Shockwave的功能可以通过[Xtra进行扩展](https://zh.wikipedia.org/wiki/Xtra "wikilink")。
+Shockwave相对于Flash的强大主要体现在更快的渲染引擎，包括3D硬件加速和对包括[IRC](../Page/IRC.md "wikilink")在内的多种网络协议的支持。而且Shockwave的功能可以通过[Xtra进行扩展](https://zh.wikipedia.org/wiki/Xtra "wikilink")。
 
 ### 支持的平台
 
-与Flash不同，Shockwave浏览器插件不适用于[Linux和](../Page/Linux.md "wikilink")[Solaris平台](../Page/Solaris.md "wikilink")。然而，Shockwave可以通过[CrossOver安装在Linux下](../Page/CrossOver.md "wikilink")，或在[Wine下运行被支持的浏览器来运行](../Page/Wine.md "wikilink")。
+与Flash不同，Shockwave浏览器插件不适用于[Linux](../Page/Linux.md "wikilink")和[Solaris](../Page/Solaris.md "wikilink")平台。然而，Shockwave可以通过[CrossOver](../Page/CrossOver.md "wikilink")安装在Linux下，或在[Wine](../Page/Wine.md "wikilink")下运行被支持的浏览器来运行。
 
 历史上，Shockwave插件一般可以运行在[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
 OS下](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，除了在2006年1月（[苹果公司转向基于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[英特尔](../Page/英特尔.md "wikilink")[Core
@@ -20,7 +20,7 @@ Duo处理器的平台时](https://zh.wikipedia.org/wiki/Core_2_Duo "wikilink")�
 
 ## 应用
 
-虽然Shockwave预期的定位是各种在线[电影和](../Page/电影.md "wikilink")[动画](../Page/动画.md "wikilink")，但事实上它更多地被用于[游戏开发领域](../Page/游戏.md "wikilink")。它经常被使用在需要使用大量[图像资源的在线应用环境上](https://zh.wikipedia.org/wiki/图像 "wikilink")。在线学习工具涉及到物理的模拟、图表和计算，所以Shockwave也被大量应用。
+虽然Shockwave预期的定位是各种在线[电影](../Page/电影.md "wikilink")和[动画](../Page/动画.md "wikilink")，但事实上它更多地被用于[游戏](../Page/游戏.md "wikilink")开发领域。它经常被使用在需要使用大量[图像资源的在线应用环境上](https://zh.wikipedia.org/wiki/图像 "wikilink")。在线学习工具涉及到物理的模拟、图表和计算，所以Shockwave也被大量应用。
 
 ## 历史
 
@@ -63,7 +63,7 @@ Afterburner作为一个Xtra被集成到了Director 5.0中。
 
 ## 商标與名稱的混淆
 
-在1990年代末，[Macromedia为了提升Shockwave的知名度](../Page/Macromedia.md "wikilink")，将其名下的所有多媒体播放器都冠以了“Shockwave”的前缀。虽然此举達到了预期的效果，但Shockwave和[Flash变得越来越难区分](../Page/Adobe_Flash.md "wikilink")。在2005年，Macromedia发布了三款浏览器插件：[Macromedia
+在1990年代末，[Macromedia](../Page/Macromedia.md "wikilink")为了提升Shockwave的知名度，将其名下的所有多媒体播放器都冠以了“Shockwave”的前缀。虽然此举達到了预期的效果，但Shockwave和[Flash变得越来越难区分](../Page/Adobe_Flash.md "wikilink")。在2005年，Macromedia发布了三款浏览器插件：[Macromedia
 Authorware](https://zh.wikipedia.org/wiki/Macromedia_Authorware "wikilink")、Macromedia
 Shockwave和[Macromedia
 Flash](https://zh.wikipedia.org/wiki/Macromedia_Flash "wikilink")。
@@ -72,7 +72,7 @@ Macromedia还发布了一款在线查看[Macromedia
 FreeHand的插件名叫Macromedia](https://zh.wikipedia.org/wiki/Macromedia_FreeHand "wikilink")
 Shockwave for FreeHand。 \[1\]
 
-[Adobe收购Macromedia后](../Page/Adobe.md "wikilink")，Adobe开始缓慢地为与Shockwave相关的[多媒体播放器重新命名](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。
+[Adobe](../Page/Adobe.md "wikilink")收购Macromedia后，Adobe开始缓慢地为与Shockwave相关的[多媒体播放器重新命名](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。
 
 ## 市场占有率
 

@@ -7,7 +7,7 @@ Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")）於2009年7月
   - CD封面的插圖使用了涼宮春日的圖像\[1\]。
   - 在Oricon的日排行榜獲得第2名\[2\]\[3\]。
   - PV可以說是對於約40年前播放的丸善石油的廣告「」（由演出）致敬。
-  - 在[科樂美數位娛樂推出的音樂遊戲](../Page/科樂美數位娛樂.md "wikilink")《[勁爆熱舞X](../Page/勁爆熱舞.md "wikilink")2》中收錄了此曲的PV。
+  - 在[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")推出的音樂遊戲《[勁爆熱舞](../Page/勁爆熱舞.md "wikilink")X2》中收錄了此曲的PV。
 
 ## 收錄曲
 

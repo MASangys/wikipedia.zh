@@ -1,8 +1,8 @@
-**NCsoft**是[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[网络游戏公司](../Page/网络游戏.md "wikilink")，成立于1997年3月11日，主要发展方向为[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。总部设在[首爾](../Page/首爾.md "wikilink")，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[亞洲多國皆有子公司與合資企業](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[1\]。同時擁有[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[NC恐龍](../Page/NC恐龍.md "wikilink")。
+**NCsoft**是[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")公司，成立于1997年3月11日，主要发展方向为[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。总部设在[首爾](../Page/首爾.md "wikilink")，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[亞洲多國皆有子公司與合資企業](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[1\]。同時擁有[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[NC恐龍](../Page/NC恐龍.md "wikilink")。
 
 ## 子公司
 
-NCsoft在[臺灣與](../Page/臺灣.md "wikilink")[遊戲橘子合資成立分公司為](../Page/遊戲橘子.md "wikilink")[吉恩立](../Page/吉恩立.md "wikilink")（NC
+NCsoft在[臺灣](../Page/臺灣.md "wikilink")與[遊戲橘子](../Page/遊戲橘子.md "wikilink")合資成立分公司為[吉恩立](../Page/吉恩立.md "wikilink")（NC
 Taiwan Co.,Ltd.、NC
 Taiwan、NCT），負責營運的遊戲有[天堂2](https://zh.wikipedia.org/wiki/天堂2 "wikilink")（LineageⅡ）、[永恆紀元](../Page/永恆紀元.md "wikilink")（Aion）、[劍靈](https://zh.wikipedia.org/wiki/劍靈 "wikilink")（Blade
 & Soul）。
@@ -64,9 +64,8 @@ NCsoftJapan與NCsoftEU/NA為NCsoft亞洲與歐美地區非下轄代理官方網�
 
   - [NCsoft官方网站](http://www.ncsoft.com/global/)
   - [吉恩立（NCTaiwan）](http://www.plaync.com.tw)
-
-[剑灵欧服美服官网
-](http://www.bladeandsoul.com/uk/)
+  - [剑灵欧服美服官网
+    ](http://www.bladeandsoul.com/uk/)
 
 [Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
 [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink")

@@ -52,7 +52,7 @@ L40-L45 丘疹鳞屑性疾患
 ## L50-L54 荨麻疹和红斑
 
 L50-L54
-[荨麻疹和](../Page/荨麻疹.md "wikilink")[红斑](https://zh.wikipedia.org/wiki/红斑 "wikilink")
+[荨麻疹](../Page/荨麻疹.md "wikilink")和[红斑](https://zh.wikipedia.org/wiki/红斑 "wikilink")
 
   - L50 [荨麻疹](../Page/荨麻疹.md "wikilink")
   - L51 多形红斑
@@ -62,10 +62,10 @@ L50-L54
 
 ## L55-L59 与辐射有关的皮肤和皮下组织疾患
 
-L55-L59 与[辐射有关的皮肤和皮下组织疾患](../Page/辐射.md "wikilink")
+L55-L59 与[辐射](../Page/辐射.md "wikilink")有关的皮肤和皮下组织疾患
 
   - L55 [晒伤](https://zh.wikipedia.org/wiki/晒伤 "wikilink")
-  - L56 由于[紫外线辐射引起的其他急性皮肤炎](../Page/紫外线.md "wikilink")
+  - L56 由于[紫外线](../Page/紫外线.md "wikilink")辐射引起的其他急性皮肤炎
   - L57 由于慢性暴露于非电离辐射下引起的皮肤炎
   - L58 [放射性皮炎](https://zh.wikipedia.org/wiki/放射性皮炎 "wikilink")
   - L59 与辐射有关的皮肤和皮下组织其他疾患

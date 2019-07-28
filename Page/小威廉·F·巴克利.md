@@ -1,11 +1,11 @@
 [William_F._Buckley,_Jr._1985.jpg](https://zh.wikipedia.org/wiki/File:William_F._Buckley,_Jr._1985.jpg "fig:William_F._Buckley,_Jr._1985.jpg")
 **小威廉·法蘭克·巴克利**（**William Frank Buckley
 Jr.**，），美國媒體人、作家、[保守主義政治評論家](https://zh.wikipedia.org/wiki/保守主義 "wikilink")，政論雜誌《[國家評論](https://zh.wikipedia.org/wiki/國家評論 "wikilink")》（*National
-Review*）創辦人。他一生的政治活動主要在於努力把傳統的政治保守派、[自由放任經濟思想及](../Page/自由放任.md "wikilink")[反共主義統合起來](../Page/反共主義.md "wikilink")，替以[高華德和](https://zh.wikipedia.org/wiki/高華德 "wikilink")[雷根為代表的現代](https://zh.wikipedia.org/wiki/雷根 "wikilink")[美國保守主義奠定了基礎](../Page/美國保守主義.md "wikilink")。
+Review*）創辦人。他一生的政治活動主要在於努力把傳統的政治保守派、[自由放任](../Page/自由放任.md "wikilink")經濟思想及[反共主義](../Page/反共主義.md "wikilink")統合起來，替以[高華德和](https://zh.wikipedia.org/wiki/高華德 "wikilink")[雷根為代表的現代](https://zh.wikipedia.org/wiki/雷根 "wikilink")[美國保守主義](../Page/美國保守主義.md "wikilink")奠定了基礎。
 
 ## 生平
 
-巴克利生於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，父親是[石油大亨](../Page/石油.md "wikilink")，童年在[墨西哥](../Page/墨西哥.md "wikilink")、[康乃狄克州](../Page/康乃狄克州.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[倫敦等地度過](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。他是虔誠的[天主教徒](https://zh.wikipedia.org/wiki/天主教徒 "wikilink")。[第二次世界大戰時他曾短暫從軍](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，1945年－1950年就讀[耶魯大學](https://zh.wikipedia.org/wiki/耶魯大學 "wikilink")，學習[政治學](https://zh.wikipedia.org/wiki/政治學 "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")、[經濟學等](https://zh.wikipedia.org/wiki/經濟學 "wikilink")。在校期間他加入[骷髏會](https://zh.wikipedia.org/wiki/骷髏會 "wikilink")\[1\]\[2\]，同時還積極參加[耶魯政治聯盟](https://zh.wikipedia.org/wiki/耶魯政治聯盟 "wikilink")、兼任校園報《[耶魯每日新聞](https://zh.wikipedia.org/wiki/耶魯每日新聞 "wikilink")》（*Yale
+巴克利生於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，父親是[石油](../Page/石油.md "wikilink")大亨，童年在[墨西哥](../Page/墨西哥.md "wikilink")、[康乃狄克州](../Page/康乃狄克州.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[倫敦等地度過](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。他是虔誠的[天主教徒](https://zh.wikipedia.org/wiki/天主教徒 "wikilink")。[第二次世界大戰時他曾短暫從軍](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，1945年－1950年就讀[耶魯大學](https://zh.wikipedia.org/wiki/耶魯大學 "wikilink")，學習[政治學](https://zh.wikipedia.org/wiki/政治學 "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")、[經濟學等](https://zh.wikipedia.org/wiki/經濟學 "wikilink")。在校期間他加入[骷髏會](https://zh.wikipedia.org/wiki/骷髏會 "wikilink")\[1\]\[2\]，同時還積極參加[耶魯政治聯盟](https://zh.wikipedia.org/wiki/耶魯政治聯盟 "wikilink")、兼任校園報《[耶魯每日新聞](https://zh.wikipedia.org/wiki/耶魯每日新聞 "wikilink")》（*Yale
 Daily News*）社長。
 
 1951年巴克利進入[美國中央情報局工作](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")，派駐墨西哥，但第二年就辭職。1951年他還出版了第一本書《耶魯的上帝與人》（*God
@@ -37,7 +37,7 @@ Line*）達三十餘年，共主持了1429集\[8\]。這使他在美國更加家
 晚年，巴克利對[喬治·W·布希政府有很大不滿](https://zh.wikipedia.org/wiki/喬治·W·布希 "wikilink")。他曾說：「如果有個歐洲的總理遭遇到我們遭遇到的事情，可以預期他會退休或辭職。」\[9\]關於[伊拉克戰爭](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")，Jeffrey
 Hart在巴克利死後的回憶文章中說：巴克利「把那看成是災難，並且認為他一手創立的保守主義運動會因為無法對布希政權保持批判態度而導致智識上的自殺……在他臨終時，巴克利相信他建立的運動將因為支持伊拉克戰爭而自我毀滅。」\[10\]
 
-巴克利愛好音樂，擅長彈奏[大鍵琴](../Page/大鍵琴.md "wikilink")\[11\]，也曾在廣播節目中表演[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")\[12\]，偏好[巴哈作品](https://zh.wikipedia.org/wiki/巴哈 "wikilink")\[13\]。一生著作超過五十部，內容除了政論外，還包括歷史、隨筆、[帆船駕駛](../Page/帆船.md "wikilink")、小說等，其中十一冊以[CIA特工Blackford](https://zh.wikipedia.org/wiki/CIA "wikilink")
+巴克利愛好音樂，擅長彈奏[大鍵琴](../Page/大鍵琴.md "wikilink")\[11\]，也曾在廣播節目中表演[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")\[12\]，偏好[巴哈作品](https://zh.wikipedia.org/wiki/巴哈 "wikilink")\[13\]。一生著作超過五十部，內容除了政論外，還包括歷史、隨筆、[帆船](../Page/帆船.md "wikilink")駕駛、小說等，其中十一冊以[CIA特工Blackford](https://zh.wikipedia.org/wiki/CIA "wikilink")
 Oakes為主角的[間諜小說有一定名氣](https://zh.wikipedia.org/wiki/間諜小說 "wikilink")。
 
 ## 評價

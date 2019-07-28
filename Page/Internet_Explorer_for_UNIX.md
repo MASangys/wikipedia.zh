@@ -1,6 +1,6 @@
 **Internet Explorer for
 UNIX**是一款[專有的](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，是[微軟公司專門為](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[X
-Windows的](https://zh.wikipedia.org/wiki/X_Windows "wikilink")[Solaris和](../Page/Solaris.md "wikilink")[HP-UX而開發的](../Page/HP-UX.md "wikilink")。微軟在2001年的[Internet
+Windows的](https://zh.wikipedia.org/wiki/X_Windows "wikilink")[Solaris](../Page/Solaris.md "wikilink")和[HP-UX](../Page/HP-UX.md "wikilink")而開發的。微軟在2001年的[Internet
 Explorer 5一個版本後停止對Internet](../Page/Internet_Explorer_5.md "wikilink")
 Explorer for UNIX的開發，隨後於2002年結束對Internet Explorer for UNIX的支持\[1\]。
 

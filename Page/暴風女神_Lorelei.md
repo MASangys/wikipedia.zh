@@ -1,6 +1,6 @@
 《**暴風女神
-Lorelei**》是香港歌手[譚詠麟發行第十張粵語專輯](../Page/譚詠麟.md "wikilink")\[1\]，有鑑於上一張專輯《[愛情陷阱](../Page/愛情陷阱.md "wikilink")》中，式的快歌取得空前的成功，[寶麗金再次邀請他為新專輯作曲](../Page/寶麗金.md "wikilink")，其作品更佔了整唱片11首歌曲中的6首。當中《暴風女神
-Lorelei》、《午夜騎士》和《朋友》是當年譚詠麟與[成龍合演的電影](../Page/成龍.md "wikilink")《[龍兄虎弟](../Page/龍兄虎弟_\(1987年電影\).md "wikilink")》的主題曲及插曲。另外《世外情》和《你要等我》亦走強烈的「日本風」。此外譚詠麟亦改編韓國殿堂級創作歌手[趙容弼的作品](https://zh.wikipedia.org/wiki/趙容弼 "wikilink")，是為《編織》和《冬之寒號》，其中他更為《冬之寒號》填詞。最後專輯只剩下3首本地原創歌曲——[蔡國權包辦曲](https://zh.wikipedia.org/wiki/蔡國權 "wikilink")、詞的《問》、[顧嘉煇作曲](../Page/顧嘉煇.md "wikilink")，[無線電視電視劇](https://zh.wikipedia.org/wiki/無線電視 "wikilink")『[楚河漢界](https://zh.wikipedia.org/wiki/楚河漢界 "wikilink")』主題曲《楚河漢界》及[林敏怡作曲的](../Page/林敏怡.md "wikilink")《吻別》。
+Lorelei**》是香港歌手[譚詠麟](../Page/譚詠麟.md "wikilink")發行第十張粵語專輯\[1\]，有鑑於上一張專輯《[愛情陷阱](../Page/愛情陷阱.md "wikilink")》中，式的快歌取得空前的成功，[寶麗金](../Page/寶麗金.md "wikilink")再次邀請他為新專輯作曲，其作品更佔了整唱片11首歌曲中的6首。當中《暴風女神
+Lorelei》、《午夜騎士》和《朋友》是當年譚詠麟與[成龍](../Page/成龍.md "wikilink")合演的電影《[龍兄虎弟](../Page/龍兄虎弟_\(1987年電影\).md "wikilink")》的主題曲及插曲。另外《世外情》和《你要等我》亦走強烈的「日本風」。此外譚詠麟亦改編韓國殿堂級創作歌手[趙容弼的作品](https://zh.wikipedia.org/wiki/趙容弼 "wikilink")，是為《編織》和《冬之寒號》，其中他更為《冬之寒號》填詞。最後專輯只剩下3首本地原創歌曲——[蔡國權包辦曲](https://zh.wikipedia.org/wiki/蔡國權 "wikilink")、詞的《問》、[顧嘉煇](../Page/顧嘉煇.md "wikilink")作曲，[無線電視電視劇](https://zh.wikipedia.org/wiki/無線電視 "wikilink")『[楚河漢界](https://zh.wikipedia.org/wiki/楚河漢界 "wikilink")』主題曲《楚河漢界》及[林敏怡](../Page/林敏怡.md "wikilink")作曲的《吻別》。
 
 在譚詠麟憑《[霧之戀](../Page/霧之戀.md "wikilink")》、《[愛的根源](../Page/愛的根源.md "wikilink")》、《[愛情陷阱](../Page/愛情陷阱.md "wikilink")》三張專輯大获好评的背景下，這專輯在當時難免令人失望，太過倚重芹澤廣明之下，以致在曲風上沒有突破。加上要配合《龍兄虎弟》，歌詞無可避免要遷就電影，銷量上亦比不上上一張專輯《[愛情陷阱](../Page/愛情陷阱.md "wikilink")》，但仍達六白金。\[2\]
 

@@ -1,13 +1,13 @@
-**有限会社feel.**是以[動畫的企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、制作為主要營業項目的[日本企業](../Page/日本.md "wikilink")。
+**有限会社feel.**是以[動畫的企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、制作為主要營業項目的[日本](../Page/日本.md "wikilink")企業。
 
 ## 概要
 
 **Feel.**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。由[Studio
-Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧ヶ崎誠和上坂陽一郎等人，於2002年12月在[東京都](../Page/東京都.md "wikilink")[武藏野市正式創立](../Page/武藏野市.md "wikilink")。
+Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧ヶ崎誠和上坂陽一郎等人，於2002年12月在[東京都](../Page/東京都.md "wikilink")[武藏野市](../Page/武藏野市.md "wikilink")正式創立。
 
-2003年初，由[名和宗則等製作人員](../Page/名和宗則.md "wikilink")[統包演出](../Page/統包.md "wikilink")、作畫監督和上色之業務製作的首部電視動畫《[初音島](../Page/初音島.md "wikilink")》。
+2003年初，由[名和宗則](../Page/名和宗則.md "wikilink")等製作人員[統包](../Page/統包.md "wikilink")演出、作畫監督和上色之業務製作的首部電視動畫《[初音島](../Page/初音島.md "wikilink")》。
 
-2005年開始以統包方式製作《[人機系列](../Page/人機系列.md "wikilink")》。之後主要以統包動畫公司的動畫作品之事業為中心。2007年左右搬遷至東京都[小金井市至今](../Page/小金井市.md "wikilink")。
+2005年開始以統包方式製作《[人機系列](../Page/人機系列.md "wikilink")》。之後主要以統包動畫公司的動畫作品之事業為中心。2007年左右搬遷至東京都[小金井市](../Page/小金井市.md "wikilink")至今。
 
 ## 作品履歷
 
@@ -45,7 +45,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
   - [普通女高中生要做當地偶像](https://zh.wikipedia.org/wiki/普通女高中生要做當地偶像 "wikilink")（）（2014年）
   - [人生諮詢電視動畫「人生」](https://zh.wikipedia.org/wiki/人生_\(輕小說\) "wikilink")（）（2014年）
   - [尋找失去的未來](../Page/尋找失去的未來.md "wikilink")（）（2014年）
-  - [果然我的青春戀愛喜劇搞錯了。續](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（）（2015年）
+  - [果然我的青春戀愛喜劇搞錯了。](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")續（）（2015年）
   - [洲崎西 THE ANIMATION](../Page/洲崎西.md "wikilink")（2015年）
 
 <table>
@@ -131,12 +131,12 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 
   - [雙戀
     Alternative](../Page/雙戀_Alternative.md "wikilink")（）（與[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、共同製作，2005年）
-  - [屍姬系列](../Page/屍姬.md "wikilink")（與[GAINAX共同製作](../Page/GAINAX.md "wikilink")）
+  - [屍姬](../Page/屍姬.md "wikilink")系列（與[GAINAX](../Page/GAINAX.md "wikilink")共同製作）
       - 屍姫 赫（2008年）
       - 屍姫 玄（2009年）
   - [FORTUNE ARTERIAL
-    -赤之約束-](../Page/FORTUNE_ARTERIAL.md "wikilink")（）（與[ZEXCS共同製作](../Page/ZEXCS.md "wikilink")，2010年）
-  - [血型小將ABO系列](../Page/血型小將ABO.md "wikilink")（）
+    -赤之約束-](../Page/FORTUNE_ARTERIAL.md "wikilink")（）（與[ZEXCS](../Page/ZEXCS.md "wikilink")共同製作，2010年）
+  - [血型小將ABO](../Page/血型小將ABO.md "wikilink")系列（）
       - 第1季（與Assez Finaund Fabric.共同製作，2013年）
       - 第2季（與Assez Finaund Fabric.共同製作，2015年）
       - 第3季（與ZEXCS共同製作，2015年）
@@ -153,7 +153,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
   - [南家三姐妹
     夏日假期](https://zh.wikipedia.org/wiki/南家三姐妹 "wikilink")（）（2013年）
   - [水母食堂](https://zh.wikipedia.org/wiki/水母食堂 "wikilink")（2016年）
-  - [果然我的青春戀愛喜劇搞錯了。續](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（2016年）
+  - [果然我的青春戀愛喜劇搞錯了。](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")續（2016年）
 
 ### 網絡動畫
 
@@ -167,7 +167,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 
   - [初音島](../Page/初音島.md "wikilink")（）（總承包商：ZEXCS，協力製作，2003年）
 
-  - [Canvas2～茜色的調色盤～](../Page/Canvas2.md "wikilink")（）（總承包商：ZEXCS，各話協力製作，2005年－2006年）
+  - [Canvas2](../Page/Canvas2.md "wikilink")～茜色的調色盤～（）（總承包商：ZEXCS，各話協力製作，2005年－2006年）
 
   - [校園迷糊大王 二學期](../Page/校園迷糊大王.md "wikilink")（）（總承包商：[STUDIO
     COMET](../Page/STUDIO_COMET.md "wikilink")，2006年）
@@ -176,9 +176,9 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 
   - [七色★星露](../Page/七色★星露.md "wikilink")（）（總承包商：[stbarcelona](https://zh.wikipedia.org/wiki/diomedéa "wikilink")，各話協力製作，2007年）
 
-  - [乃木坂春香的秘密Purezza♪](../Page/乃木坂春香的秘密.md "wikilink")（）（總承包商：[diomedéa](https://zh.wikipedia.org/wiki/diomedéa "wikilink")，各話協力製作，2009年）
+  - [乃木坂春香的秘密](../Page/乃木坂春香的秘密.md "wikilink")Purezza♪（）（總承包商：[diomedéa](https://zh.wikipedia.org/wiki/diomedéa "wikilink")，各話協力製作，2009年）
 
-  - [鶺鴒女神〜Pure Engagement〜](../Page/鶺鴒女神.md "wikilink")（）（總承包商：[Seven
+  - [鶺鴒女神 Engagement〜](../Page/鶺鴒女神.md "wikilink")〜Pure（）（總承包商：[Seven
     Arcs](../Page/Seven_Arcs.md "wikilink")，各話協力製作，2010年）
 
   - [惡之華](../Page/惡之華_\(2009年漫畫\).md "wikilink")（）（總承包商：ZEXCS，各話協力製作，2013年）

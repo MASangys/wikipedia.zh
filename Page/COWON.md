@@ -11,7 +11,7 @@
 | telephone_no = 82-2-6900-0000 | homepage = [Cowon
 Global](http://www.cowonglobal.com/) }} **Cowon Systems, Inc.**
 (簡稱：**COWON**)是[大韓民國的一家電子公司](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，在1995年所建立
-，原先專注在軟體的研發，2000年時COWON以[iAUDIO這個子品牌打入](https://zh.wikipedia.org/wiki/iAUDIO "wikilink")[數位音訊播放器市場](../Page/數位音訊播放器.md "wikilink")，在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[日本](../Page/日本.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[中國](../Page/中國.md "wikilink")、[印尼皆設有據點](https://zh.wikipedia.org/wiki/印尼 "wikilink")，主要產品有[jetAudio](https://zh.wikipedia.org/wiki/jetAudio "wikilink")、[PMP及iAUDIO的數位音訊播放器](../Page/可攜式媒體播放器.md "wikilink")，部分產品在[台灣地區由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[恆隆行代理](https://zh.wikipedia.org/wiki/恆隆行 "wikilink")。
+，原先專注在軟體的研發，2000年時COWON以[iAUDIO這個子品牌打入](https://zh.wikipedia.org/wiki/iAUDIO "wikilink")[數位音訊播放器](../Page/數位音訊播放器.md "wikilink")市場，在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[日本](../Page/日本.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[中國](../Page/中國.md "wikilink")、[印尼皆設有據點](https://zh.wikipedia.org/wiki/印尼 "wikilink")，主要產品有[jetAudio](https://zh.wikipedia.org/wiki/jetAudio "wikilink")、[PMP及iAUDIO的數位音訊播放器](../Page/可攜式媒體播放器.md "wikilink")，部分產品在[台灣地區由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[恆隆行代理](https://zh.wikipedia.org/wiki/恆隆行 "wikilink")。
 
 ## 產品
 

@@ -6,7 +6,7 @@
 
 《最终幻想XIV：重生之境》于2013年8月在日本和欧美Windows与[PlayStation
 3上运营](../Page/PlayStation_3.md "wikilink")，2014年4月发行[PlayStation
-4版](../Page/PlayStation_4.md "wikilink")。中国大陆由[盛大网络代理](../Page/盛大网络.md "wikilink")，于2014年8月25日公开测试。
+4版](../Page/PlayStation_4.md "wikilink")。中国大陆由[盛大网络](../Page/盛大网络.md "wikilink")代理，于2014年8月25日公开测试。
 
 ## 玩法
 
@@ -32,7 +32,7 @@
 
 ### 设定
 
-《最终幻想XIV》使用标准[电子角色扮演游戏的探索机制](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，各地区地理从雪山到葱郁森林不盡相同。地区又繼續划分为供玩家探索的子區域。子区域類型包括怪物不会入侵的安全区城市，充滿與怪物戰鬥的世界地图和迷宫，以及小组玩家团队击败特定怪兽并取得成就的[副本区域](https://zh.wikipedia.org/wiki/副本_\(电子游戏\) "wikilink")。虽然大多数地区和区域以步而行，但游戏还有各种带来移动便利的交通工具，包括从最终幻想经典的[陆行鸟和](../Page/陆行鸟.md "wikilink")[飞空艇](https://zh.wikipedia.org/wiki/飞空艇 "wikilink")，到经过传送水晶节点的传送器。
+《最终幻想XIV》使用标准[电子角色扮演游戏的探索机制](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，各地区地理从雪山到葱郁森林不盡相同。地区又繼續划分为供玩家探索的子區域。子区域類型包括怪物不会入侵的安全区城市，充滿與怪物戰鬥的世界地图和迷宫，以及小组玩家团队击败特定怪兽并取得成就的[副本区域](https://zh.wikipedia.org/wiki/副本_\(电子游戏\) "wikilink")。虽然大多数地区和区域以步而行，但游戏还有各种带来移动便利的交通工具，包括从最终幻想经典的[陆行鸟](../Page/陆行鸟.md "wikilink")和[飞空艇](https://zh.wikipedia.org/wiki/飞空艇 "wikilink")，到经过传送水晶节点的传送器。
 
 游戏设定的世界叫海德林，在星历时期繁荣，在灵灾时期出现灾难，两个时期相互交替。第一版《最终幻想XIV》发生于星历时期，《重生之境》发生于因月亮之卫星达拉加布坠落而引发的新灵灾时期。
 
@@ -75,18 +75,18 @@
 
 ### 初版发行
 
-《最終幻想XIV》早先[代號為](https://zh.wikipedia.org/wiki/代號 "wikilink")\[14\]，在2005年8月史克威爾艾尼克斯宣布他們開始製作一款新[MMORPG時首次提出](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，但他們當時對這是否為《[最終幻想XI](https://zh.wikipedia.org/wiki/最終幻想XI "wikilink")》續作或[最終幻想相關作品既不確認也不否認](https://zh.wikipedia.org/wiki/最終幻想 "wikilink")\[15\]。2009年6月2日，官方在索尼E3發布會上透過預告片正式宣布了《最終幻想XIV》的消息，該預告片由預渲染CGI和用[水晶工具製作的實際遊戲場面結合而成](../Page/水晶工具.md "wikilink")\[16\]\[17\]。
+《最終幻想XIV》早先[代號為](https://zh.wikipedia.org/wiki/代號 "wikilink")\[14\]，在2005年8月史克威爾艾尼克斯宣布他們開始製作一款新[MMORPG時首次提出](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，但他們當時對這是否為《[最終幻想XI](https://zh.wikipedia.org/wiki/最終幻想XI "wikilink")》續作或[最終幻想相關作品既不確認也不否認](https://zh.wikipedia.org/wiki/最終幻想 "wikilink")\[15\]。2009年6月2日，官方在索尼E3發布會上透過預告片正式宣布了《最終幻想XIV》的消息，該預告片由預渲染CGI和用[水晶工具](../Page/水晶工具.md "wikilink")製作的實際遊戲場面結合而成\[16\]\[17\]。
 
-在2006年至2008年間，史克威爾艾尼克斯發布了數條關於遊戲開發平台的矛盾聲明。2006年4月，《最終幻想XI》製作人[田中弘道稱](../Page/田中弘道.md "wikilink")，正在開發的Rapture會在為全球PlayStation
+在2006年至2008年間，史克威爾艾尼克斯發布了數條關於遊戲開發平台的矛盾聲明。2006年4月，《最終幻想XI》製作人[田中弘道](../Page/田中弘道.md "wikilink")稱，正在開發的Rapture會在為全球PlayStation
 3和Windows平台發行\[18\]，但之後2007年2月的聲明又稱，遊戲正為[Xbox
 360和Windows平台開發](../Page/Xbox_360.md "wikilink")，並「可能」在之後某階段製作PlayStation
-3版\[19\]。2008年史克威爾艾尼克斯宣布，遊戲定位於前述全部系統，並暗示[Mac和](https://zh.wikipedia.org/wiki/Mac "wikilink")[Linux用戶端將並非毫無可能](../Page/Linux.md "wikilink")\[20\]。
+3版\[19\]。2008年史克威爾艾尼克斯宣布，遊戲定位於前述全部系統，並暗示[Mac和](https://zh.wikipedia.org/wiki/Mac "wikilink")[Linux](../Page/Linux.md "wikilink")用戶端將並非毫無可能\[20\]。
 但2009年6月隨著遊戲官方聲明，史克威爾艾尼克斯稱，遊戲只為PlayStation 3和Windows系統開發。Xbox
 360版本宣布取消，田中後來透漏，[Xbox
 Live系統和微軟的](../Page/Xbox_Live.md "wikilink")「不同觀點」被證明與他和史克威爾艾尼克斯自己的不相容，這暗示微軟要求一個和單獨於最終PlayStation
 3版伺服器的版本\[21\]\[22\]。
 
-遊戲由河本信昭擔任總監，田中弘道擔任製作人，史克威爾之前創作《最終幻想XI》的團隊開發\[23\]\[24\]。[吉田明彥擔任藝術總監](https://zh.wikipedia.org/wiki/吉田明彥 "wikilink")，[植松伸夫為遊戲配樂](../Page/植松伸夫.md "wikilink")，標誌著他在《[最終幻想X](https://zh.wikipedia.org/wiki/最終幻想X "wikilink")》後離開史克威爾艾尼克斯起再度為系列遊戲配樂。遊戲未使用[PlayOnline系統](../Page/PlayOnline.md "wikilink")，而是和史克威爾艾尼克斯帳戶关联。《最终幻想XI》也部分过渡到此服务，账户因而可以一處管理两个游戏。
+遊戲由河本信昭擔任總監，田中弘道擔任製作人，史克威爾之前創作《最終幻想XI》的團隊開發\[23\]\[24\]。[吉田明彥擔任藝術總監](https://zh.wikipedia.org/wiki/吉田明彥 "wikilink")，[植松伸夫](../Page/植松伸夫.md "wikilink")為遊戲配樂，標誌著他在《[最終幻想X](https://zh.wikipedia.org/wiki/最終幻想X "wikilink")》後離開史克威爾艾尼克斯起再度為系列遊戲配樂。遊戲未使用[PlayOnline](../Page/PlayOnline.md "wikilink")系統，而是和史克威爾艾尼克斯帳戶关联。《最终幻想XI》也部分过渡到此服务，账户因而可以一處管理两个游戏。
 
 《最终幻想XIV》在2010年4月进入alpha测试阶段，测试在11周后的6月19日结束。史克威尔艾尼克斯称在alpha和beta阶段有大约10%的游戏可玩。封闭beta测试分為数个阶段，从2010年7月10日開始到8月25日结束。使用分发给申请人的邀请，以及[PlayStation
 3版](../Page/PlayStation_3.md "wikilink")《[最终幻想XIII](../Page/最终幻想XIII.md "wikilink")》附帶的序列号就有机会进入beta测试\[25\]。开放beta测试从2010年9月1日开始，9月19日结束\[26\]。PlayStation
@@ -94,7 +94,7 @@ Live系統和微軟的](../Page/Xbox_Live.md "wikilink")「不同觀點」被證
 
 ### 初版的變更
 
-因游戏主要获得消极评价，史克威尔艾尼克斯时任总裁[和田洋一宣布](../Page/和田洋一.md "wikilink")，开发团队在2010年12月会有大变动，田中宣布他辞去制作人一职并离开公司\[29\]。[吉田直树成为总监兼制作人](../Page/吉田直树.md "wikilink")，其他职位也都大多变动。PlayStation
+因游戏主要获得消极评价，史克威尔艾尼克斯时任总裁[和田洋一](../Page/和田洋一.md "wikilink")宣布，开发团队在2010年12月会有大变动，田中宣布他辞去制作人一职并离开公司\[29\]。[吉田直树](../Page/吉田直树.md "wikilink")成为总监兼制作人，其他职位也都大多变动。PlayStation
 3版原定2011年3月发行，但为容纳预定變更而推迟，吉田称他希望提供游戏修正後的PlayStation 3版\[30\]。
 最初30天的免费测试先延长至2个月，后又改为不限期，此舉是為讓玩家在提交遊戲前體驗到開發團隊的更新\[31\]。游戏直到2012年1月6日才开始计费，此時游戏已推出一年多。
 
@@ -119,11 +119,11 @@ Live系統和微軟的](../Page/Xbox_Live.md "wikilink")「不同觀點」被證
 在逐渐转向《重生之境》的几个月中，会定期的补充第七灵灾的故事，作为对未来变更的背景故事补充。游戏区域彻底变化则由达拉加布——被召唤坠向星球的巨大陨石——的影响解释。自重新运营《重生之境》以来不再能获得的额外任务、装备、活动和成就也都追加了。延期已久的PlayStation
 3版游戏最终决定于PC版《重生之境》一同于2013年8月27日发售\[40\]。
 
-[盛大网络于](../Page/盛大网络.md "wikilink")2010年宣布在中国大陆代理《最终幻想XIV》\[41\]。中国大陆服务器从2014年4月到8月间间断举行两场[封闭测试](https://zh.wikipedia.org/wiki/封闭测试 "wikilink")\[42\]\[43\][公开测试于](https://zh.wikipedia.org/wiki/公开测试 "wikilink")8月25日开始\[44\]。
+[盛大网络](../Page/盛大网络.md "wikilink")于2010年宣布在中国大陆代理《最终幻想XIV》\[41\]。中国大陆服务器从2014年4月到8月间间断举行两场[封闭测试](https://zh.wikipedia.org/wiki/封闭测试 "wikilink")\[42\]\[43\][公开测试于](https://zh.wikipedia.org/wiki/公开测试 "wikilink")8月25日开始\[44\]。
 
 ## 音乐
 
-《最终幻想XIV》发售初版的原声由[植松伸夫谱曲](../Page/植松伸夫.md "wikilink")，这是自《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》以来，首个发售时由[植松伸夫完全配乐的](../Page/植松伸夫.md "wikilink")[最终幻想游戏](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")。从初版发售其，到重新运营的《重生之境》为止，又有[水田直志](../Page/水田直志.md "wikilink")、山崎良、[关户刚和](https://zh.wikipedia.org/wiki/关户刚 "wikilink")[祖坚正庆参与游戏配乐](../Page/祖坚正庆.md "wikilink")\[45\]。《最终幻想XIV》主题曲《Answers》由苏珊·卡罗威演唱。
+《最终幻想XIV》发售初版的原声由[植松伸夫](../Page/植松伸夫.md "wikilink")谱曲，这是自《[最终幻想IX](../Page/最终幻想IX.md "wikilink")》以来，首个发售时由[植松伸夫](../Page/植松伸夫.md "wikilink")完全配乐的[最终幻想游戏](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")。从初版发售其，到重新运营的《重生之境》为止，又有[水田直志](../Page/水田直志.md "wikilink")、山崎良、[关户刚和](https://zh.wikipedia.org/wiki/关户刚 "wikilink")[祖坚正庆](../Page/祖坚正庆.md "wikilink")参与游戏配乐\[45\]。《最终幻想XIV》主题曲《Answers》由苏珊·卡罗威演唱。
 
 最初发售时有两张专辑发行，皆只收录了一小部分游戏原版音乐（分别是8首和9首曲目）：《最终幻想XIV/场景曲目》（）收录了场景、背景主题曲以及前奏曲；《最终幻想XIV/战斗曲目》（）收录了战役和战斗主题曲，以及最终幻想主题曲（又称“序曲”）。
 
@@ -137,14 +137,14 @@ New Beginning》预告片和Daulmund宠畜的下载代码。
 
 ## 评价
 
-PC初版《最终幻想XIV》获得消极评价。批评内容从基本不完整的结构到大量漏洞与小故障，得出了游戏未完成，实际上几乎无法游玩的一致结论。游戏在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic上的汇总得分皆为](../Page/Metacritic.md "wikilink")49%\[47\]\[48\]，是系列得分最低的正传。[GameSpot的凯文](../Page/GameSpot.md "wikilink")·万奥德以游戏糟糕的界面、设限的任务、糟糕的玩家与NPC组织，以及发行时大量其他错误为证，称游戏是“对此类游戏的退步”\[49\]。[1UP.com称](../Page/1UP.com.md "wikilink")《最终幻想XIV》本性上“是一款深度和潜力可观的游戏，但在正式推出准备好之前还另需6到9个月”，他们还称“就其现状是不可能推荐给任何人的”\[50\]。《[PC
-Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》评论员汤姆·西尼尔写道，“对这款最终幻想MMO最仁慈的说法是，他的开场影片令人满意”。[GameTrailers称其](../Page/GameTrailers.md "wikilink")“处处是失败”且“不值得争论”，并称无法接受这个“不完整的大杂烩”投放上市。网站在2010年12月的“年度游戏奖”将其列为“年度最失望游戏”，还将游戏列入“十大最糟续作”。Cheat
+PC初版《最终幻想XIV》获得消极评价。批评内容从基本不完整的结构到大量漏洞与小故障，得出了游戏未完成，实际上几乎无法游玩的一致结论。游戏在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")上的汇总得分皆为49%\[47\]\[48\]，是系列得分最低的正传。[GameSpot](../Page/GameSpot.md "wikilink")的凯文·万奥德以游戏糟糕的界面、设限的任务、糟糕的玩家与NPC组织，以及发行时大量其他错误为证，称游戏是“对此类游戏的退步”\[49\]。[1UP.com](../Page/1UP.com.md "wikilink")称《最终幻想XIV》本性上“是一款深度和潜力可观的游戏，但在正式推出准备好之前还另需6到9个月”，他们还称“就其现状是不可能推荐给任何人的”\[50\]。《[PC
+Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》评论员汤姆·西尼尔写道，“对这款最终幻想MMO最仁慈的说法是，他的开场影片令人满意”。[GameTrailers](../Page/GameTrailers.md "wikilink")称其“处处是失败”且“不值得争论”，并称无法接受这个“不完整的大杂烩”投放上市。网站在2010年12月的“年度游戏奖”将其列为“年度最失望游戏”，还将游戏列入“十大最糟续作”。Cheat
 Code
 Central的评价较为赞许，但依然先指出他们“不推荐在有诸多缺陷《FFXIV》的作品上花费$50，以及头30天后的$12.99”\[51\]。这句话后来从评论中删除\[52\]。
 
 截至2010年11月4日，第一版《最终幻想XIV》在日本出货19万，北美21万，欧洲23万\[53\]。
 
-史克威尔至少给客户发送了两封道歉信，承认游戏的低质量并请客户耐心，并宣布延长免费测试期和重建开发团队。开发团队的变化最终导致《重生之境》版本诞生。史克威尔艾尼克斯CEO[和田洋一在](../Page/和田洋一.md "wikilink")2011年9月的新闻发布会上承认，游戏的缺点“让最终幻想品牌极大受损”\[54\]\[55\]。
+史克威尔至少给客户发送了两封道歉信，承认游戏的低质量并请客户耐心，并宣布延长免费测试期和重建开发团队。开发团队的变化最终导致《重生之境》版本诞生。史克威尔艾尼克斯CEO[和田洋一](../Page/和田洋一.md "wikilink")在2011年9月的新闻发布会上承认，游戏的缺点“让最终幻想品牌极大受损”\[54\]\[55\]。
 {{-}}
 
 ## 参考文献

@@ -7,7 +7,7 @@ Mods较多、较完善。\[1\]
 ## 历史
 
 eMule NeoMule
-Mod的作者是[德国](../Page/德国.md "wikilink")[程序员David](../Page/程序员.md "wikilink")
+Mod的作者是[德国](../Page/德国.md "wikilink")[程序员](../Page/程序员.md "wikilink")David
 Xanatos。
 
 ## 功能

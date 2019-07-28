@@ -1,12 +1,12 @@
-《**Happiness**》是[嵐的第](../Page/嵐.md "wikilink")20枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2007年9月5日發行。唱片公司為[J
+《**Happiness**》是[嵐](../Page/嵐.md "wikilink")的第20枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2007年9月5日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。收錄於原創專輯《[Dream "A"
 live](../Page/Dream_"A"_live.md "wikilink")》及精選專輯《[1999-2009
 完全精選\!](https://zh.wikipedia.org/wiki/1999-2009_完全精選! "wikilink")》。
 
 ## 解說
 
-  - 主打歌為成員[二宮和也](../Page/二宮和也.md "wikilink")、[櫻井翔出演的](../Page/櫻井翔.md "wikilink")[TBS系劇集](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")《[貧窮貴公子](https://zh.wikipedia.org/wiki/貧窮貴公子#電視版（日本） "wikilink")》的主題曲。
-  - 連續第9張、合計第16張自身的[Oricon冠軍單曲](../Page/Oricon.md "wikilink")。
+  - 主打歌為成員[二宮和也](../Page/二宮和也.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")出演的[TBS系劇集](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")《[貧窮貴公子](https://zh.wikipedia.org/wiki/貧窮貴公子#電視版（日本） "wikilink")》的主題曲。
+  - 連續第9張、合計第16張自身的[Oricon](../Page/Oricon.md "wikilink")冠軍單曲。
   - 繼2月的《[Love so sweet](../Page/Love_so_sweet.md "wikilink")》、5月的《[We
     can make
     it\!](../Page/We_can_make_it!.md "wikilink")》，2007年度發行的全3張單曲均為週間冠軍單曲。另外，3首均為成員主演劇集的主題曲。對於嵐而言，同一年內取得3張冠軍單曲，是自2002年《[a
@@ -27,11 +27,11 @@ live](../Page/Dream_"A"_live.md "wikilink")》及精選專輯《[1999-2009
 1.  **Happiness**
     （作詞：Wonderland　作曲：岡田實音　編曲：北川吟）
       -
-        [東京廣播公司連續劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")「[山田太郎物語](https://zh.wikipedia.org/wiki/貧窮貴公子#電視劇-日本版 "wikilink")」主題曲（[二宮和也](../Page/二宮和也.md "wikilink")、[櫻井翔主演](../Page/櫻井翔.md "wikilink")）
+        [東京廣播公司連續劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")「[山田太郎物語](https://zh.wikipedia.org/wiki/貧窮貴公子#電視劇-日本版 "wikilink")」主題曲（[二宮和也](../Page/二宮和也.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")主演）
 2.  **Still...**
     （作詞、作曲：多田慎也　Rap詞：[櫻井翔](../Page/櫻井翔.md "wikilink")　編曲：NAOKI-T）
       -
-        [富士電視台節目](../Page/富士電視台.md "wikilink")「mago mago嵐」結尾曲
+        [富士電視台](../Page/富士電視台.md "wikilink")節目「mago mago嵐」結尾曲
 3.  **Snowflake**
     （作詞：小川貴史　作曲、編曲：HYDRANT）
 

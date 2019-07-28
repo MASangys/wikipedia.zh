@@ -1,7 +1,7 @@
 [Websphere_logo.png](https://zh.wikipedia.org/wiki/File:Websphere_logo.png "fig:Websphere_logo.png")
 **IBM WebSphere Application
-Server**（**WAS**）是由[IBM遵照开放标准](../Page/IBM.md "wikilink")，例如[Java
-EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")、[XML及](../Page/XML.md "wikilink")[Web
+Server**（**WAS**）是由[IBM](../Page/IBM.md "wikilink")遵照开放标准，例如[Java
+EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")、[XML](../Page/XML.md "wikilink")及[Web
 Services](https://zh.wikipedia.org/wiki/Web_Services "wikilink")，开发并发行的一种[应用服务器](https://zh.wikipedia.org/wiki/应用服务器 "wikilink")。与其兼容的[Web服务器包括](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")[Apache
 HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")、Netscape
 Enterprise Server、[微软](../Page/微软.md "wikilink")[Internet Information
@@ -19,7 +19,7 @@ Servlet引擎](../Page/Java_Servlet.md "wikilink")。
 
 ### 版本2
 
-IBM增加了对JavaBean，[CORBA以及](../Page/CORBA.md "wikilink")[Linux的支持](../Page/Linux.md "wikilink")。分为标准版(SE)和高级版(AE)。
+IBM增加了对JavaBean，[CORBA](../Page/CORBA.md "wikilink")以及[Linux](../Page/Linux.md "wikilink")的支持。分为标准版(SE)和高级版(AE)。
 
 ### 版本3
 

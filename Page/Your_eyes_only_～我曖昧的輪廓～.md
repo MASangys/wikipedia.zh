@@ -1,5 +1,5 @@
 《**Your eyes
-only〜我曖昧的輪廓〜**》（）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年9月27日於日本發行。[Oricon最高排行第](../Page/Oricon.md "wikilink")4、初動銷量3.4萬張、累計25.0萬張。
+only〜我曖昧的輪廓〜**》（）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年9月27日於日本發行。[Oricon](../Page/Oricon.md "wikilink")最高排行第4、初動銷量3.4萬張、累計25.0萬張。
 
 ## 解說
 
@@ -23,7 +23,7 @@ CD
       - 作詞：Kenn Kato / 作曲・編曲：Face 2 fAKE
     <!-- end list -->
       -
-        [富士電視台系](../Page/富士電視台.md "wikilink")[月9日劇](https://zh.wikipedia.org/wiki/月9 "wikilink")《[奉子成婚](https://zh.wikipedia.org/wiki/奉子成婚_\(日本電視劇\) "wikilink")》的插入曲
+        [富士電視台](../Page/富士電視台.md "wikilink")系[月9日劇](https://zh.wikipedia.org/wiki/月9 "wikilink")《[奉子成婚](https://zh.wikipedia.org/wiki/奉子成婚_\(日本電視劇\) "wikilink")》的插入曲
 2.  **Your eyes only〜我曖昧的輪廓〜** (Instrumental)
 
 ## 備註

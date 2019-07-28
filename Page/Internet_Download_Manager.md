@@ -1,17 +1,17 @@
 **Internet Download
-Manager**（简称**IDM**）是一个用于[Windows系统的](https://zh.wikipedia.org/wiki/Windows "wikilink")[下载管理器](https://zh.wikipedia.org/wiki/下载管理程序 "wikilink")。
+Manager**（簡稱**IDM**）是一個用於[Windows繫統的](https://zh.wikipedia.org/wiki/Windows "wikilink")[下載管理器](https://zh.wikipedia.org/wiki/下載管理程序 "wikilink")。
 
-IDM可以让用户自动下载某些类型的文件，它可将文件划分为多个下载点以更快下载，并列出最近的下载，方便存取文件。相对于其它下载管理器，它具有独特的动态档案分割技术。
+IDM可以讓用戶自動下載某些類型的文件，可將文件劃分為多個下載點以更快下載，並列出最近的下載，方便存取文件。相對於其他下載管理器，具有獨特的動態檔案分割技術。
 
-它的出色之处在于，能分析下载地址中的实际地址，但若地址无效时则跳换成失效网页，当地址重新有效而无法恢复成原来的地址。
+其優點在於，能分析下載地址中的實際地址，但若地址無效時則跳換成失效網頁，當地址重新有效而無法恢復成原來的地址。
 
-它的不足之处在于，必须设置分段的临时文件存放的磁盘位置，下载完成后再自动合并成一个完整的文件，同时删除临时文件（这种做法不同于其他下载软件预先分配一整块磁盘空间）。所以，下载的如果是机密文件，就容易被数据恢复软件恢复，造成安全隐患。
+而缺點在於，必須設置分段的臨時文件存放的磁盤位置，下載完成後再自動合併成一個完整的文件，同時刪除臨時文件（這種做法不同於其他下載軟件預先分配一整塊磁盤空間）。所以，下載的如果是機密文件，就容易被數據恢復軟件恢復，造成安全隱患。
 
-IDM可被调用于[Internet
+IDM可被調用於[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Google
 Chrome](../Page/Google_Chrome.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Netscape
 Navigator以及](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（火狐）浏览器中。\[1\]
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（火狐）瀏覽器中。\[1\]
 
 ## 功能
 

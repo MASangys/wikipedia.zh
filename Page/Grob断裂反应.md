@@ -13,7 +13,7 @@ ion）、[酰基正离子](https://zh.wikipedia.org/wiki/酰基正离子 "wikili
 b-c
 部分如[烯](https://zh.wikipedia.org/wiki/烯 "wikilink")、[炔](https://zh.wikipedia.org/wiki/炔 "wikilink")、[亚胺](../Page/亚胺.md "wikilink")。
 N
-如[对甲苯磺酸根离子](https://zh.wikipedia.org/wiki/对甲苯磺酸根 "wikilink")、[氢氧根离子](../Page/氢氧根.md "wikilink")。
+如[对甲苯磺酸根离子](https://zh.wikipedia.org/wiki/对甲苯磺酸根 "wikilink")、[氢氧根](../Page/氢氧根.md "wikilink")离子。
 
 
 [Grobfragmentation.png](https://zh.wikipedia.org/wiki/File:Grobfragmentation.png "fig:Grobfragmentation.png")
@@ -28,11 +28,11 @@ N
 从[Wieland-Miescher酮](https://zh.wikipedia.org/wiki/Wieland-Miescher酮 "wikilink")
 (1)合成[毒胡萝卜素](https://zh.wikipedia.org/wiki/毒胡萝卜素 "wikilink")（Thapsigargin）。\[4\]
 
-反应过程：[硼氢化钠将](../Page/硼氢化钠.md "wikilink")
+反应过程：[硼氢化钠](../Page/硼氢化钠.md "wikilink")将
 (1)还原为[醇](../Page/醇.md "wikilink")
-(2)；与[甲磺酰氯在](https://zh.wikipedia.org/wiki/甲磺酰氯 "wikilink")[吡啶中取代为](../Page/吡啶.md "wikilink")[甲磺酸酯](../Page/甲磺酸酯.md "wikilink")
-(3)；用[三叔丁氧基氢化铝锂在](https://zh.wikipedia.org/wiki/三叔丁氧基氢化铝锂 "wikilink")[四氢呋喃中将不饱和酮部分还原为](../Page/四氢呋喃.md "wikilink")[烯丙醇](../Page/烯丙醇.md "wikilink")
-(4)；与[硼烷在](../Page/硼烷.md "wikilink")[THF中发生](https://zh.wikipedia.org/wiki/THF "wikilink")[硼氢化生成三烃基硼](https://zh.wikipedia.org/wiki/硼氢化 "wikilink")
+(2)；与[甲磺酰氯在](https://zh.wikipedia.org/wiki/甲磺酰氯 "wikilink")[吡啶](../Page/吡啶.md "wikilink")中取代为[甲磺酸酯](../Page/甲磺酸酯.md "wikilink")
+(3)；用[三叔丁氧基氢化铝锂在](https://zh.wikipedia.org/wiki/三叔丁氧基氢化铝锂 "wikilink")[四氢呋喃](../Page/四氢呋喃.md "wikilink")中将不饱和酮部分还原为[烯丙醇](../Page/烯丙醇.md "wikilink")
+(4)；与[硼烷](../Page/硼烷.md "wikilink")在[THF中发生](https://zh.wikipedia.org/wiki/THF "wikilink")[硼氢化生成三烃基硼](https://zh.wikipedia.org/wiki/硼氢化 "wikilink")
 (5)；最后用[甲醇钠](../Page/甲醇钠.md "wikilink")[回流处理](https://zh.wikipedia.org/wiki/回流 "wikilink")，甲氧基负离子加到硼上，接着四配位的硼作离电体，甲磺酰氧基作离核体，经过两者的一推一拉作用发生断裂，生成毒胡萝卜素
 (7)。
 

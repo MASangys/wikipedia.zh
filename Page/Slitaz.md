@@ -10,11 +10,11 @@ Tazpkg }}
 
 **Slitaz**
 是一个免费的[GNU](../Page/GNU.md "wikilink")/[Linux发行版](../Page/Linux发行版.md "wikilink")，它基于[Busybox](https://zh.wikipedia.org/wiki/Busybox "wikilink")、Linux内核和GNU[自由软件](../Page/自由软件.md "wikilink")。
-它可以从[光盘或](https://zh.wikipedia.org/wiki/光盘 "wikilink")[USB设备加载](../Page/USB.md "wikilink")，完整地在内存中运行，也可以安装到硬盘中。Slitaz以LiveCD的形式发布，你可以把它刻录到光盘，并从光盘启动。系统运行时，你可以弹出CD，用[CD-ROM来进行其他工作](../Page/CD-ROM.md "wikilink")。LiveCD提供一个特色十足的、图形界面的发行版，可以保存你的数据和个人设置到其他设备中。这个系统可以通过Tazpkg软件包管理器添加软件来增加各种各样的功能，也可以用它升级系统来保持系统最新版本。
+它可以从[光盘或](https://zh.wikipedia.org/wiki/光盘 "wikilink")[USB](../Page/USB.md "wikilink")设备加载，完整地在内存中运行，也可以安装到硬盘中。Slitaz以LiveCD的形式发布，你可以把它刻录到光盘，并从光盘启动。系统运行时，你可以弹出CD，用[CD-ROM](../Page/CD-ROM.md "wikilink")来进行其他工作。LiveCD提供一个特色十足的、图形界面的发行版，可以保存你的数据和个人设置到其他设备中。这个系统可以通过Tazpkg软件包管理器添加软件来增加各种各样的功能，也可以用它升级系统来保持系统最新版本。
 
 ## 介紹
 
-Slitaz是制作一个完全运行在内存上、可安装在[硬盘上的](../Page/硬盘.md "wikilink")、并对法语提供支持的发行版。
+Slitaz是制作一个完全运行在内存上、可安装在[硬盘](../Page/硬盘.md "wikilink")上的、并对法语提供支持的发行版。
 
 其包含大量软件，包括200多个Linux命令，LightTPD， [SQLite](../Page/SQLite.md "wikilink")
 数据库， 急救工具，[IRC](../Page/IRC.md "wikilink")

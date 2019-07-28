@@ -1,4 +1,4 @@
-**贾斯廷·雷·吉登斯**（，），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[篮球运动员](../Page/篮球.md "wikilink")，曾效力于[NBA联盟](../Page/NBA.md "wikilink")，身高6尺5寸，体重215磅，司职位置[後衛](https://zh.wikipedia.org/wiki/後衛 "wikilink")。吉登斯在[2008年NBA選秀中排名正数第](../Page/2008年NBA選秀.md "wikilink")30名，最终被衛冕冠軍[波士頓塞爾提克選中](https://zh.wikipedia.org/wiki/波士頓塞爾提克 "wikilink")，是波士頓在2008年選秀大會中選中的唯一的新秀。
+**贾斯廷·雷·吉登斯**（，），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[篮球](../Page/篮球.md "wikilink")运动员，曾效力于[NBA](../Page/NBA.md "wikilink")联盟，身高6尺5寸，体重215磅，司职位置[後衛](https://zh.wikipedia.org/wiki/後衛 "wikilink")。吉登斯在[2008年NBA選秀](../Page/2008年NBA選秀.md "wikilink")中排名正数第30名，最终被衛冕冠軍[波士頓塞爾提克選中](https://zh.wikipedia.org/wiki/波士頓塞爾提克 "wikilink")，是波士頓在2008年選秀大會中選中的唯一的新秀。
 
 吉登斯球風詭异，但由于選秀順位較低，故一直沒有足夠的上場時間。
 

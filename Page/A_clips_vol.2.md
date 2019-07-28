@@ -1,11 +1,11 @@
 《**A clips
-vol.2**》（A片vol.2）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步發行的影像作品](../Page/濱崎步.md "wikilink")，為《[A
+vol.2**》（A片vol.2）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的影像作品，為《[A
 clips](../Page/A_clips.md "wikilink")》系列的第二作。本作在2002年3月13日於日本發行，也是第五張同時發行VHS與DVD版本的影音作品。。
 
 ## 說明
 
   - 本作收錄範圍為以第三張原創專輯《[Duty](../Page/Duty.md "wikilink")》與第四張原創專輯《[I
-    am...](../Page/I_am....md "wikilink")》為中心的[音樂錄影帶與廣告](../Page/音樂錄影帶.md "wikilink")。
+    am...](../Page/I_am....md "wikilink")》為中心的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與廣告。
 
 ## 收錄內容
 

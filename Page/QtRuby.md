@@ -7,12 +7,12 @@ language = [Ruby](../Page/Ruby.md "wikilink") | genre = | license =
 | website =
 [QtRuby主頁](https://archive.is/20120628224903/http://rubyforge.org/projects/korundum/)
 }}
-**QtRuby**是[跨平台的应用程序框架](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Qt的](../Page/Qt.md "wikilink")[Ruby綁定版本](../Page/Ruby.md "wikilink")，包含Qt4和Qt3支持。也是[Korundum](https://zh.wikipedia.org/wiki/Korundum "wikilink")（[KDE](../Page/KDE.md "wikilink")
+**QtRuby**是[跨平台的应用程序框架](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Qt](../Page/Qt.md "wikilink")的[Ruby](../Page/Ruby.md "wikilink")綁定版本，包含Qt4和Qt3支持。也是[Korundum](https://zh.wikipedia.org/wiki/Korundum "wikilink")（[KDE](../Page/KDE.md "wikilink")
 API的Ruby綁定）的基礎。
 
 QtRuby使用[SMOKE提供语言綁定基礎](https://zh.wikipedia.org/wiki/SMOKE "wikilink")
 
-除了[Linux和](../Page/Linux.md "wikilink")[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")，QtRuby也支持[Mac
+除了[Linux](../Page/Linux.md "wikilink")和[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")，QtRuby也支持[Mac
 OS
 X操作系統和微軟](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 

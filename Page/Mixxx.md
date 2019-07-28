@@ -11,7 +11,7 @@ OSX Universal binary（所以它可以運行在10.4和上PPC和Intel的CPU)。
 
 ## 音頻和硬件支持
 
-Mixxx支持Windows上的[ASIO和](../Page/ASIO.md "wikilink")[DirectSound](../Page/DirectSound.md "wikilink")，Linux上的JACK、OSS、ALSA，Mac
+Mixxx支持Windows上的[ASIO](../Page/ASIO.md "wikilink")和[DirectSound](../Page/DirectSound.md "wikilink")，Linux上的JACK、OSS、ALSA，Mac
 OS
 X的[CoreAudio](https://zh.wikipedia.org/wiki/CoreAudio "wikilink")。Mixxx還可以讀取最流行的音頻格式，包括MP3、Ogg
 Vorbis、Wave、Aiff和FLAC。對於外部硬件控制，Mixxx支持MIDI和標準輸入設備，如操縱桿和鼠標。
@@ -21,16 +21,6 @@ Vorbis、Wave、Aiff和FLAC。對於外部硬件控制，Mixxx支持MIDI和標�
   - [The Mixxx Homepage](http://www.mixxx.org/)
   - [The Mixxx wiki, including HOWTOs and
     tutorials](http://www.mixxx.org/wiki/doku.php/start)
-  - [An older Mixxx
-    Tutorial](http://threadbox.net/2005/8/11/mixxx-tutorial)
-  - [DidJiX](http://easy.open.and.free.fr/didjix/) (en)
-
-### 參與中文翻譯
-
-  - [Mixxx
-    翻譯計劃首頁](https://web.archive.org/web/20140303153950/https://www.transifex.com/projects/p/mixxxdj/language/zh_TW/)→Mixxx
-    官方使用 [Transifex](../Page/Transifex.md "wikilink")
-    翻譯平台（[相關說明](http://chakra-zh.blogspot.tw/2012/11/chakra.html)）
 
 [Category:自由音訊軟體](https://zh.wikipedia.org/wiki/Category:自由音訊軟體 "wikilink")
 [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")

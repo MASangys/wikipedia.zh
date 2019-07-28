@@ -1,6 +1,6 @@
 **Bartoli吲哚合成**（Bartoli indole synthesis），又称“Bartoli反应”
 
-从邻取代的[芳香](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[硝基化合物与](https://zh.wikipedia.org/wiki/硝基 "wikilink")[乙烯基](https://zh.wikipedia.org/wiki/乙烯基 "wikilink")[格氏试剂制备取代](../Page/格氏试剂.md "wikilink")[吲哚](../Page/吲哚.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
+从邻取代的[芳香](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[硝基化合物与](https://zh.wikipedia.org/wiki/硝基 "wikilink")[乙烯基](https://zh.wikipedia.org/wiki/乙烯基 "wikilink")[格氏试剂](../Page/格氏试剂.md "wikilink")制备取代[吲哚](../Page/吲哚.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
 
 [Bartoli_Indole_Synthesis_Scheme.png](https://zh.wikipedia.org/wiki/File:Bartoli_Indole_Synthesis_Scheme.png "fig:Bartoli_Indole_Synthesis_Scheme.png")
 
@@ -41,7 +41,7 @@ Bartoli 吲哚合成的优点在于这个反应可以在碳环和杂环上都引
 ### Dobbs改进法
 
 Adrian Dobbs
-用邻位的溴作定位基成环，反应后再用[偶氮二异丁腈和](../Page/偶氮二异丁腈.md "wikilink")[三丁基锡烷将溴除去](https://zh.wikipedia.org/wiki/三丁基锡烷 "wikilink")，生成
+用邻位的溴作定位基成环，反应后再用[偶氮二异丁腈](../Page/偶氮二异丁腈.md "wikilink")和[三丁基锡烷将溴除去](https://zh.wikipedia.org/wiki/三丁基锡烷 "wikilink")，生成
 7-位无取代基的吲哚。\[8\]
 
 [Bartoli_Indole_Synthesis_Dobbs_Modification.png](https://zh.wikipedia.org/wiki/File:Bartoli_Indole_Synthesis_Dobbs_Modification.png "fig:Bartoli_Indole_Synthesis_Dobbs_Modification.png")

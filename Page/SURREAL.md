@@ -1,4 +1,4 @@
-《**SURREAL**》（超現實）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilink")17張單曲，作為數量限定的單曲，與收錄本單曲的專輯《[Duty](../Page/Duty.md "wikilink")》同時於2000年9月27日於日本發售。
+《**SURREAL**》（超現實）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第17張單曲，作為數量限定的單曲，與收錄本單曲的專輯《[Duty](../Page/Duty.md "wikilink")》同時於2000年9月27日於日本發售。
 
 《SURREAL》、《[Duty](../Page/Duty.md "wikilink")》、《ayumi hamasaki concert
 tour 2000 A

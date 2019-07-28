@@ -1,7 +1,7 @@
 **FerrierⅡ型重排反应**（Ferrier II reaction），又称**Ferrier成碳环反应**（Ferrier
 carbocyclization），1979年首先由[糖化学家](https://zh.wikipedia.org/wiki/糖化学 "wikilink")[罗伯特·费里尔](https://zh.wikipedia.org/wiki/罗伯特·费里尔 "wikilink")（Robert
 J. Ferrier）报道。\[1\]\[2\]
-它是[金属介导的](../Page/金属.md "wikilink")[吡喃](../Page/吡喃.md "wikilink")[烯醇醚到](https://zh.wikipedia.org/wiki/烯醇醚 "wikilink")[环己酮衍生物的](../Page/环己酮.md "wikilink")[重排反应](../Page/重排反应.md "wikilink")，一般是以[汞盐如](../Page/汞.md "wikilink")[氯化汞或](../Page/氯化汞.md "wikilink")[三氟乙酸汞催化](https://zh.wikipedia.org/wiki/三氟乙酸汞 "wikilink")。烯碳上带有取代基，如连有
+它是[金属](../Page/金属.md "wikilink")介导的[吡喃](../Page/吡喃.md "wikilink")[烯醇醚到](https://zh.wikipedia.org/wiki/烯醇醚 "wikilink")[环己酮](../Page/环己酮.md "wikilink")衍生物的[重排反应](../Page/重排反应.md "wikilink")，一般是以[汞](../Page/汞.md "wikilink")盐如[氯化汞](../Page/氯化汞.md "wikilink")或[三氟乙酸汞催化](https://zh.wikipedia.org/wiki/三氟乙酸汞 "wikilink")。烯碳上带有取代基，如连有
 [-OAc](https://zh.wikipedia.org/wiki/乙酰氧基 "wikilink") 基时，反应也可发生。
 
 [Ferrier_carbocyclization.svg](https://zh.wikipedia.org/wiki/File:Ferrier_carbocyclization.svg "fig:Ferrier_carbocyclization.svg")
@@ -23,14 +23,14 @@ Ferrier 提出如下机理：
 α- 和 β-[异头物的混合物](https://zh.wikipedia.org/wiki/异头物 "wikilink")。
 
 Ferrier 还发现产物
-(5)与[乙酸酐和](../Page/乙酸酐.md "wikilink")[吡啶作用时](../Page/吡啶.md "wikilink")，可转化为环状不饱和酮
+(5)与[乙酸酐](../Page/乙酸酐.md "wikilink")和[吡啶](../Page/吡啶.md "wikilink")作用时，可转化为环状不饱和酮
 (6)，见图：
 
 [Ferrier_carbocyclization_2.svg](https://zh.wikipedia.org/wiki/File:Ferrier_carbocyclization_2.svg "fig:Ferrier_carbocyclization_2.svg")
 
 ## 改进法
 
-1997年，Sinaÿ 等报道了一种不涉及异头碳上[糖苷键断裂的反应改进法](../Page/糖苷键.md "wikilink")。\[5\]
+1997年，Sinaÿ 等报道了一种不涉及异头碳上[糖苷键](../Page/糖苷键.md "wikilink")断裂的反应改进法。\[5\]
 反应后主要得到异头碳构型保持产物。
 
 
@@ -56,7 +56,7 @@ Sinaÿ 提出反应经过如下过渡态：
 
 此反应广泛用于含碳环的天然产物合成中。一些例子有：
 
-  - [对映纯](https://zh.wikipedia.org/wiki/对映 "wikilink")*myo*-[肌醇衍生物的合成](../Page/肌醇.md "wikilink")（Bender等，1991）\[8\]；
+  - [对映纯](https://zh.wikipedia.org/wiki/对映 "wikilink")*myo*-[肌醇](../Page/肌醇.md "wikilink")衍生物的合成（Bender等，1991）\[8\]；
   - 氨基[环多醇的合成](https://zh.wikipedia.org/wiki/环多醇 "wikilink")（Barton等，1989）\[9\]；
   - 利用 Ferrier 重排反应制得含有环己烯酮结构的 FR65814 合成前体（Amano等，1998）\[10\]。
 

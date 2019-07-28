@@ -1,4 +1,4 @@
-**Square**是由[趙俊承](https://zh.wikipedia.org/wiki/趙俊承 "wikilink")、[何尚謙](https://zh.wikipedia.org/wiki/何尚謙 "wikilink")、[李柏煥](https://zh.wikipedia.org/wiki/李柏煥 "wikilink")、[何浚尉組成的四人男子組合](https://zh.wikipedia.org/wiki/何浚尉 "wikilink")，2008年[香港出道](../Page/香港.md "wikilink")。
+**Square**是由[趙俊承](https://zh.wikipedia.org/wiki/趙俊承 "wikilink")、[何尚謙](https://zh.wikipedia.org/wiki/何尚謙 "wikilink")、[李柏煥](https://zh.wikipedia.org/wiki/李柏煥 "wikilink")、[何浚尉組成的四人男子組合](https://zh.wikipedia.org/wiki/何浚尉 "wikilink")，2008年[香港](../Page/香港.md "wikilink")出道。
 
 2011年，Square宣佈解散，各成員亦有不同發展。
 
@@ -19,7 +19,7 @@ Models做模特兒工作](https://zh.wikipedia.org/wiki/Elite_Models "wikilink")
 
   - 趙俊承
 
-生於1986年9月11日，[香港出生](../Page/香港.md "wikilink")，曾任職模特兒。畢業於[廖寶珊紀念書院](https://zh.wikipedia.org/wiki/廖寶珊紀念書院 "wikilink")。
+生於1986年9月11日，[香港](../Page/香港.md "wikilink")出生，曾任職模特兒。畢業於[廖寶珊紀念書院](https://zh.wikipedia.org/wiki/廖寶珊紀念書院 "wikilink")。
 
 曾演出電影：
 
@@ -121,7 +121,7 @@ DVD
 #### 2009年
 
   - [IFPI](https://zh.wikipedia.org/wiki/IFPI "wikilink")
-    [香港唱片銷量大獎](../Page/香港.md "wikilink")『最暢銷本地新人組合』
+    [香港](../Page/香港.md "wikilink")唱片銷量大獎『最暢銷本地新人組合』
   - Yes\! IDOL 2009 全港偶像總選『最HOT爆組合』
   - PM 2009年度型格人氣組合
   - 新城勁爆頒獎禮2009『勁爆跳唱組合』

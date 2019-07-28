@@ -1,10 +1,10 @@
 [InternetSocketBasicDiagram_zhtw.png](https://zh.wikipedia.org/wiki/File:InternetSocketBasicDiagram_zhtw.png "fig:InternetSocketBasicDiagram_zhtw.png")
 **伯克利套接字**（） ，又稱為**BSD
 套接字**()是一種[应用程序接口](../Page/应用程序接口.md "wikilink")（API），用於[网络套接字](https://zh.wikipedia.org/wiki/网络套接字 "wikilink")（
-socket）與[Unix域套接字](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")，包括了一个用[C语言写成的应用程序开发库](https://zh.wikipedia.org/wiki/C语言 "wikilink")，主要用于实现[进程间通讯](https://zh.wikipedia.org/wiki/进程间通讯 "wikilink")，在[计算机网络通讯方面被广泛使用](../Page/计算机网络.md "wikilink")。
+socket）與[Unix域套接字](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")，包括了一个用[C语言写成的应用程序开发库](https://zh.wikipedia.org/wiki/C语言 "wikilink")，主要用于实现[进程间通讯](https://zh.wikipedia.org/wiki/进程间通讯 "wikilink")，在[计算机网络](../Page/计算机网络.md "wikilink")通讯方面被广泛使用。
 
 Berkeley套接字（也作BSD套接字应用程序接口）刚开始是4.2BSD
-Unix操作系统（于1983发布）的一套应用程序接口。然而，由于[AT\&T的专利保护着](../Page/AT&T.md "wikilink")[UNIX](https://zh.wikipedia.org/wiki/UNIX操作系统 "wikilink")，所以只有在1989年[伯克利大学才能自由地发布自己的](https://zh.wikipedia.org/wiki/伯克利大学 "wikilink")[操作系统和网络库](../Page/操作系统.md "wikilink")。
+Unix操作系统（于1983发布）的一套应用程序接口。然而，由于[AT\&T](../Page/AT&T.md "wikilink")的专利保护着[UNIX](https://zh.wikipedia.org/wiki/UNIX操作系统 "wikilink")，所以只有在1989年[伯克利大学才能自由地发布自己的](https://zh.wikipedia.org/wiki/伯克利大学 "wikilink")[操作系统](../Page/操作系统.md "wikilink")和网络库。
 
 Berkeley套接字应用程序接口形成了事实上的网络套接字的标准精髓。 大多数其他的编程语言使用与这套用C语言写成的应用程序接口\[1\]
 类似的接口。
@@ -111,7 +111,7 @@ Berkeley套接字接口的定义在几个头文件中。这些文件的名字和
 socket() 有三个参数：
 
   - <var>domain</var> 为创建的套接字指定协议集（或称做地址族 address family)。 例如：
-      - `AF_INET` 表示[IPv4网络协议](../Page/IPv4.md "wikilink")
+      - `AF_INET` 表示[IPv4](../Page/IPv4.md "wikilink")网络协议
       - `AF_INET6` 表示[IPv6](../Page/IPv6.md "wikilink")
       - `AF_UNIX` 表示本地套接字（使用一个文件）
   - <var>type</var>（socket类型）如下：
@@ -383,7 +383,7 @@ struct in_addr
   - 调用socket函数建立套接字，应当使用的参数参见例程。
   - 调用bind函数把套接字绑定到一个监听端口上。注意bind函数需要接受一个sockaddr_in结构体作为参数，因此在调用bind函数之前,
     程序要先声明一个
-    sockaddr_in结构体,用memset函数将其清零，然后将其中的sin_family设置为AF_INET，接下来，程序需要设置其sin_port成员变量，即监听端口。需要说明的是，sin_port中的端口号需要以网络[字节序存储](../Page/字节序.md "wikilink")，因此需要调用htons函数对端口号进行转换（函数名是"host
+    sockaddr_in结构体,用memset函数将其清零，然后将其中的sin_family设置为AF_INET，接下来，程序需要设置其sin_port成员变量，即监听端口。需要说明的是，sin_port中的端口号需要以网络[字节序](../Page/字节序.md "wikilink")存储，因此需要调用htons函数对端口号进行转换（函数名是"host
     to network short"的缩写）。
   - 调用listen函数，使该套接字成为一个处在监听状态的套接字。
   - 接下来，服务器可以通过accept函数接受客户端的连接请求。若没有收到连接请求，accept函数将不会返回并阻塞程序的执行。接收到连接请求后，accept函数会为该连接返回一个套接字描述符。accept函数可以被多次调用来接受不同客户端的连接请求，而且之前的连接仍处于监听状态——直到其被关闭为止。

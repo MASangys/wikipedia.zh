@@ -1,5 +1,5 @@
 《**Beautiful
-days**》是[嵐的第](../Page/嵐.md "wikilink")24枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年11月5日發行。唱片公司為[J
+days**》是[嵐](../Page/嵐.md "wikilink")的第24枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年11月5日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。收錄於精選專輯《[1999-2009
 完全精選\!](https://zh.wikipedia.org/wiki/1999-2009_完全精選! "wikilink")》。
 
@@ -9,7 +9,7 @@ Storm](../Page/J_Storm.md "wikilink")。收錄於精選專輯《[1999-2009
   - 以初回限定版、通常版2種形態發售。初回限定版中是《Beautiful
     days》的PV，通常盤中收錄c/w曲《難以忘懷》及各種的Original
     Karaoke，合計6曲。
-  - 主打歌是成員[二宮和也主演的](../Page/二宮和也.md "wikilink")[TBS系列金曜劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")《[流星之絆](https://zh.wikipedia.org/wiki/流星之絆#日本電視劇 "wikilink")》主題曲。繼[大野智主演的](../Page/大野智.md "wikilink")《魔王》主題曲「[truth](https://zh.wikipedia.org/wiki/truth/前往風的彼方 "wikilink")」，連續2作、2季都是金曜連續劇的主題曲。
+  - 主打歌是成員[二宮和也](../Page/二宮和也.md "wikilink")主演的[TBS系列金曜劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")《[流星之絆](https://zh.wikipedia.org/wiki/流星之絆#日本電視劇 "wikilink")》主題曲。繼[大野智](../Page/大野智.md "wikilink")主演的《魔王》主題曲「[truth](https://zh.wikipedia.org/wiki/truth/前往風的彼方 "wikilink")」，連續2作、2季都是金曜連續劇的主題曲。
   - PV裡，成員在唱歌的時候，以手繪風的白色單線描繪出淚珠、翼等CG。而且這曲在嵐的單曲中是罕有的只是在空間中活動而沒有舞蹈，而且solo部分亦極少。
   - 初回限定版、通常版皆有收錄的《我是我的所有》是[KDDI](../Page/KDDI.md "wikilink")／沖繩流動電話（[au
     by KDDI](https://zh.wikipedia.org/wiki/au_\(流動電話\) "wikilink")）『au
@@ -23,7 +23,7 @@ Storm](../Page/J_Storm.md "wikilink")。收錄於精選專輯《[1999-2009
 1.  **Beautiful days**
     （作詞、作曲：Takuya Harada　編曲：ha-j）
       -
-        [TBS連續劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")《[流星之絆](../Page/流星之絆.md "wikilink")》主題曲（[二宮和也主演](../Page/二宮和也.md "wikilink")）
+        [TBS連續劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")《[流星之絆](../Page/流星之絆.md "wikilink")》主題曲（[二宮和也](../Page/二宮和也.md "wikilink")主演）
 2.  **我就是我的一切**
     （作詞：100+　作曲、編曲：加藤裕介）
       -

@@ -58,7 +58,7 @@ Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wi
 
 Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere，則是希望4人的歌聲能互相調和，像球體一般完美的意思\[4\]。
 
-也因為Sphere有「天體」的意思，所以團體的標誌採用[土星的外型](../Page/土星.md "wikilink")，而中央的4個光點則代表4位成員。另外，除了各成員有自己的代表顏色外，團體採用[藍色作為代表顏色](../Page/藍色.md "wikilink")\[5\]。
+也因為Sphere有「天體」的意思，所以團體的標誌採用[土星](../Page/土星.md "wikilink")的外型，而中央的4個光點則代表4位成員。另外，除了各成員有自己的代表顏色外，團體採用[藍色](../Page/藍色.md "wikilink")作為代表顏色\[5\]。
 
 ## 簡歷
 
@@ -75,7 +75,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
   - 7月29日 - 單曲《[Super Noisy
     Nova](../Page/Super_Noisy_Nova.md "wikilink")》發售。
   - 8月30日 - live演唱會《Shake X Sphere 〜夏之夜的夢〜》正式舉辦。
-  - 9月27日 - 參加在[富士急高原樂園舉行的夏日祭](../Page/富士急高原樂園.md "wikilink")。
+  - 9月27日 - 參加在[富士急高原樂園](../Page/富士急高原樂園.md "wikilink")舉行的夏日祭。
   - 10月13日 - 手機版官方網站《》正式開張。
   - 11月25日 - 單曲《[收集群風/Brave my
     heart](https://zh.wikipedia.org/wiki/收集群風/Brave_my_heart "wikilink")》發售。
@@ -95,7 +95,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
     單曲《[REALOVE:REALIFE](../Page/REALOVE:REALIFE.md "wikilink")》發售。
   - 7月28日 - 單曲《[Now
     loading...SKY\!\!](../Page/Now_loading...SKY!!.md "wikilink")》發售。
-  - 8月28日 - 參加[埼玉超級競技場舉行的](../Page/埼玉超級競技場.md "wikilink")《[Animelo
+  - 8月28日 - 參加[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的《[Animelo
     Summer Live 2010
     -evolution-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2010年 "wikilink")》。
   - 10月20日 - 單曲《Moon Signal》發售。
@@ -468,7 +468,7 @@ LASM-34178/79（Type B）</p></td>
 <tr class="odd">
 <td><p><strong>Future Stream</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a>《<a href="../Page/初恋限定。.md" title="wikilink">初恋限定。</a>》片頭曲<br />
-<a href="../Page/埼玉電視台.md" title="wikilink">埼玉電視台他</a>《》2009年4月、5月度片尾曲</p></td>
+<a href="../Page/埼玉電視台.md" title="wikilink">埼玉電視台</a>他《》2009年4月、5月度片尾曲</p></td>
 <td><p>1st Single「Future Stream」</p></td>
 </tr>
 <tr class="even">
@@ -685,7 +685,7 @@ LASM-34178/79（Type B）</p></td>
 <p>全6埸</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>4月18日 <a href="../Page/東京國際論壇.md" title="wikilink">東京國際論壇大樓A</a>（東京都）<br />
+<p>4月18日 <a href="../Page/東京國際論壇.md" title="wikilink">東京國際論壇</a>大樓A（東京都）<br />
 4月25日 <a href="https://zh.wikipedia.org/wiki/德島市立文化中心" title="wikilink">德島市立文化中心</a>（<a href="https://zh.wikipedia.org/wiki/德島縣" title="wikilink">德島縣</a>）<br />
 5月16日 <a href="https://zh.wikipedia.org/wiki/福岡國際會議場" title="wikilink">福岡國際會議場</a>（<a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a>）<br />
 5月23日 <a href="https://zh.wikipedia.org/wiki/愛知縣藝術劇場" title="wikilink">愛知縣藝術劇場</a>（<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a>）<br />
@@ -751,7 +751,7 @@ LASM-34178/79（Type B）</p></td>
     春のチョコまつり』での発言及び、『[鷲崎健の超ラジ\!](https://zh.wikipedia.org/wiki/鷲崎健の超ラジ! "wikilink")』第111回放送より。
 
 5.  各成員在網路電台節目「Pl@net
-    Sphere」第19回時談到舉辦活動時參與者使用的[螢光棒的顏色](../Page/螢光棒.md "wikilink")，同時決定自己和團體的代表顏色。此後，於2009年8月30日舉行的活動『Shake
+    Sphere」第19回時談到舉辦活動時參與者使用的[螢光棒](../Page/螢光棒.md "wikilink")的顏色，同時決定自己和團體的代表顏色。此後，於2009年8月30日舉行的活動『Shake
     X Sphere（シェイクスフィア）〜夏の夜の夢〜』中，開始使用這些代表顏色。
 
 6.

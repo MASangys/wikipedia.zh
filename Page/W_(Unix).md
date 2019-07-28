@@ -1,4 +1,4 @@
-命令**w**是许多[类Unix](../Page/类Unix系统.md "wikilink")[操作系统提供的快速列出当前已登录用户信息的计算机命令](../Page/操作系统.md "wikilink")。\[1\]该命令可以列出用户的当前动作，以及当前计算机的[负载情况](../Page/负载_\(计算机\).md "wikilink")。该命令实际是下列多个Unix命令的组合：[`who`](https://zh.wikipedia.org/wiki/who_\(Unix\) "wikilink")，[`uptime`](https://zh.wikipedia.org/wiki/uptime "wikilink")和[`ps``
+命令**w**是许多[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")提供的快速列出当前已登录用户信息的计算机命令。\[1\]该命令可以列出用户的当前动作，以及当前计算机的[负载情况](../Page/负载_\(计算机\).md "wikilink")。该命令实际是下列多个Unix命令的组合：[`who`](https://zh.wikipedia.org/wiki/who_\(Unix\) "wikilink")，[`uptime`](https://zh.wikipedia.org/wiki/uptime "wikilink")和[`ps``
  ``-a`](https://zh.wikipedia.org/wiki/ps_\(Unix\) "wikilink")。
 
 ## 示例

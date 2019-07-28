@@ -1,6 +1,6 @@
 [FTTX-zh.png](https://zh.wikipedia.org/wiki/File:FTTX-zh.png "fig:FTTX-zh.png")
 **FTTx**是「Fiber To The
-x」的[縮寫](../Page/縮寫.md "wikilink")，意謂「[光纖到x](https://zh.wikipedia.org/wiki/光纖 "wikilink")」，為各種[光纖通訊網路的總稱](../Page/光纖通訊.md "wikilink")，其中x代表光纖線路的目的地。
+x」的[縮寫](../Page/縮寫.md "wikilink")，意謂「[光纖到x](https://zh.wikipedia.org/wiki/光纖 "wikilink")」，為各種[光纖通訊](../Page/光纖通訊.md "wikilink")網路的總稱，其中x代表光纖線路的目的地。
 
 依目的地的不同，常見的FTTx有以下數類：
 

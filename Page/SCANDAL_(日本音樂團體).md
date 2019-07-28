@@ -1,13 +1,13 @@
-\-{zh:**SCANDAL**（）;zh-tw:**史坎朵**（**SCANDAL**，）;zh-hk:**SCANDAL**（，台譯**史坎朵**）;zh-cn:**SCANDAL**（，台译**史坎朵**）;}-是一支[日本女子](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，在2006年8月於[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演。SCANDAL於正式出道前曾於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[香港等日本海外地方演出](../Page/香港.md "wikilink")。2008年3月她們跟[Kitty
+\-{zh:**SCANDAL**（）;zh-tw:**史坎朵**（**SCANDAL**，）;zh-hk:**SCANDAL**（，台譯**史坎朵**）;zh-cn:**SCANDAL**（，台译**史坎朵**）;}-是一支[日本](../Page/日本.md "wikilink")女子[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，在2006年8月於[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演。SCANDAL於正式出道前曾於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[香港](../Page/香港.md "wikilink")等日本海外地方演出。2008年3月她們跟[Kitty
 Records和](../Page/Kitty_film.md "wikilink")[Tower
 Records簽約](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。2008年10月，SCANDAL以單曲《[DOLL](../Page/DOLL.md "wikilink")》正式出道。2010年，SCANDAL的一些歌曲被起用為動畫歌曲，例如《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》和《[鋼之鍊金術師
 FULLMETAL
-ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》等等，令樂團人氣急速上升。2012年3月28日，SCANDAL成功在[日本武道館開辦個人演唱會](../Page/日本武道館.md "wikilink")，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團。2015年1月SCANDAL舉辦了
+ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》等等，令樂團人氣急速上升。2012年3月28日，SCANDAL成功在[日本武道館](../Page/日本武道館.md "wikilink")開辦個人演唱會，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團。2015年1月SCANDAL舉辦了
 SCANDAL WORLD TOUR 2015「HELLO
 WORLD」世界巡回演唱會，除了日本多個地區公演外，亦去了美國，英國，德國，法國，墨西哥，新加坡，台灣和香港等地方巡迴演出。2016年是SCANDAL樂團組成的第十週年，在同年4月也開始舉辦了
 SCANDAL TOUR 2016「YELLOW」世界巡回演唱會。
 
-此外樂團出道至今的八張原創專輯及三張精選專輯都打進[Oricon公信榜專輯周榜首五名](../Page/Oricon公信榜.md "wikilink")，為該榜史上首隊女子樂團達成此紀錄。
+此外樂團出道至今的八張原創專輯及三張精選專輯都打進[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯周榜首五名，為該榜史上首隊女子樂團達成此紀錄。
 
 ## 成員
 
@@ -103,7 +103,7 @@ SCANDAL在樂團組成之前她們都會經常去一間位於日本大阪市都�
 
 ### 組成樂團
 
-2006年8月，SCANDAL於[大阪成立](https://zh.wikipedia.org/wiki/大阪 "wikilink")，成員包括主唱HARUNA，[吉他手MAMI](../Page/吉他.md "wikilink")、[貝斯手TOMOMI和鼓手RINA](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。TOMOMI和RINA來自一所聲樂及舞蹈學校的大阪分校，HARUNA和MAMI則來自[名古屋分校](https://zh.wikipedia.org/wiki/名古屋 "wikilink")\[2\]。成員當中只有MAMI曾於高中時擔任樂團鼓手\[3\]，其他成員均不懂得演奏樂器\[4\]。樂團成立一周後便有一場現場表演，她們為此每天在錄音室練習12小時\[5\]。在8月下旬，她們將樂團命名為「-{SCANDAL}-」\[6\]。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演，亦時會到[關西的一些場地表演](../Page/近畿地方.md "wikilink")\[7\]\[8\]。由於她們當時表演的地方跟大型表演場地[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（）相當接近，所以她們自組成以來一直希望在那裏開演唱會\[9\]。2007年8月，她們獲邀到[澀谷Club](../Page/澀谷.md "wikilink")
+2006年8月，SCANDAL於[大阪成立](https://zh.wikipedia.org/wiki/大阪 "wikilink")，成員包括主唱HARUNA，[吉他](../Page/吉他.md "wikilink")手MAMI、[貝斯手TOMOMI和鼓手RINA](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。TOMOMI和RINA來自一所聲樂及舞蹈學校的大阪分校，HARUNA和MAMI則來自[名古屋分校](https://zh.wikipedia.org/wiki/名古屋 "wikilink")\[2\]。成員當中只有MAMI曾於高中時擔任樂團鼓手\[3\]，其他成員均不懂得演奏樂器\[4\]。樂團成立一周後便有一場現場表演，她們為此每天在錄音室練習12小時\[5\]。在8月下旬，她們將樂團命名為「-{SCANDAL}-」\[6\]。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演，亦時會到[關西的一些場地表演](../Page/近畿地方.md "wikilink")\[7\]\[8\]。由於她們當時表演的地方跟大型表演場地[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（）相當接近，所以她們自組成以來一直希望在那裏開演唱會\[9\]。2007年8月，她們獲邀到[澀谷](../Page/澀谷.md "wikilink")Club
 asia的一個活動上表演，這是樂團首次離開關西，並在[東京演出](https://zh.wikipedia.org/wiki/東京 "wikilink")\[10\]\[11\]。據SCANDAL所講，由於場上有來自唱片公司的人，所以該次表演對她們出道的影響十分重大\[12\]。她們幾個月後跟[Kitty
 Records和](../Page/Kitty_film.md "wikilink")[Tower
 Records簽約](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。
@@ -118,7 +118,7 @@ HELLO SCANDAL](../Page/YAH!YAH!YAH!_HELLO_SCANDAL.md "wikilink")》\[15\]。
 
 另外，SCANDAL亦開始到日本海外表演。在發行第1張單曲後的3月下旬，她們到了[美國參與了](https://zh.wikipedia.org/wiki/美國 "wikilink")「Japan
 Nite US tour
-2008」的演出\[16\]，然後於美國[西雅圖的日本文化及動畫展](../Page/西雅圖.md "wikilink")「[Sakura-Con](https://zh.wikipedia.org/wiki/Sakura-Con "wikilink")」演出\[17\]\[18\]。同年7月，她們參演了於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎舉辦的](../Page/巴黎.md "wikilink")[日本博覽會](../Page/日本博覽會.md "wikilink")\[19\]。8月1日和2日，她們於[香港](../Page/香港.md "wikilink")[動漫電玩節演出](../Page/香港動漫電玩節.md "wikilink")\[20\]。其後，她們於8月18日至29日期間舉辦了其首次全國巡迴演出「SCANDAL
+2008」的演出\[16\]，然後於美國[西雅圖](../Page/西雅圖.md "wikilink")的日本文化及動畫展「[Sakura-Con](https://zh.wikipedia.org/wiki/Sakura-Con "wikilink")」演出\[17\]\[18\]。同年7月，她們參演了於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")舉辦的[日本博覽會](../Page/日本博覽會.md "wikilink")\[19\]。8月1日和2日，她們於[香港](../Page/香港.md "wikilink")[動漫電玩節演出](../Page/香港動漫電玩節.md "wikilink")\[20\]。其後，她們於8月18日至29日期間舉辦了其首次全國巡迴演出「SCANDAL
 - Give me P.P. Tour 2008 -」\[21\]。
 
 ### 正式出道
@@ -126,12 +126,12 @@ Nite US tour
   - 2008年－2009年
 
 2008年10月，SCANDAL正式出道，經[Epic Records
-Japan發行其出道作](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")《[DOLL](../Page/DOLL.md "wikilink")》。這張單曲於[Oricon公信榜上得第](../Page/Oricon公信榜.md "wikilink")26名\[22\]，於[Japan
+Japan發行其出道作](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")《[DOLL](../Page/DOLL.md "wikilink")》。這張單曲於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上得第26名\[22\]，於[Japan
 Hot
 100取得第](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")5名\[23\]。她們自此得以出現在主流媒體，例如出席音樂節目《[MUSIC
-STATION](../Page/MUSIC_STATION.md "wikilink")》等等\[24\]。2009年3月，SCANDAL發行第2張單曲，名為《[SAKURA再見](../Page/SAKURA再見.md "wikilink")》，以紀念TOMOMI和MAMI兩名成員的高中畢業\[25\]。4月，她們的《[少女S](../Page/少女S.md "wikilink")》被採用為[動畫](../Page/日本電視動畫.md "wikilink")《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十首主題曲\[26\]。這首歌於兩個月後作為她們的第3張單曲發行，於Oricon公信榜單曲周榜上取得第6名\[27\]。這是她們當時取得過的最高排名，也是她們首次打進周榜頭十名\[28\]。10月，在第4張單曲《[夢想的翅膀](../Page/夢想的翅膀.md "wikilink")》發行一週後\[29\]，她們發行了其首張專輯《[BEST★SCANDAL](../Page/BEST★SCANDAL.md "wikilink")》，並取得Oricon公信榜專輯周榜第5名，為該排行榜7年半來再次有女子樂團的首張專輯取得5名以內（上一張是[ZONE的](../Page/ZONE.md "wikilink")《[Z](https://zh.wikipedia.org/wiki/Z_\(專輯\) "wikilink")》，第2位）\[30\]。12月，SCANDAL舉辦了正式出道以來首次全國巡迴演出「（First
+STATION](../Page/MUSIC_STATION.md "wikilink")》等等\[24\]。2009年3月，SCANDAL發行第2張單曲，名為《[SAKURA再見](../Page/SAKURA再見.md "wikilink")》，以紀念TOMOMI和MAMI兩名成員的高中畢業\[25\]。4月，她們的《[少女S](../Page/少女S.md "wikilink")》被採用為[動畫](../Page/日本電視動畫.md "wikilink")《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十首主題曲\[26\]。這首歌於兩個月後作為她們的第3張單曲發行，於Oricon公信榜單曲周榜上取得第6名\[27\]。這是她們當時取得過的最高排名，也是她們首次打進周榜頭十名\[28\]。10月，在第4張單曲《[夢想的翅膀](../Page/夢想的翅膀.md "wikilink")》發行一週後\[29\]，她們發行了其首張專輯《[BEST★SCANDAL](../Page/BEST★SCANDAL.md "wikilink")》，並取得Oricon公信榜專輯周榜第5名，為該排行榜7年半來再次有女子樂團的首張專輯取得5名以內（上一張是[ZONE](../Page/ZONE.md "wikilink")的《[Z](https://zh.wikipedia.org/wiki/Z_\(專輯\) "wikilink")》，第2位）\[30\]。12月，SCANDAL舉辦了正式出道以來首次全國巡迴演出「（First
 One-man Live
-Tour）」\[31\]。12月30日，她們獲得第51屆[日本唱片大獎新人獎](../Page/日本唱片大獎.md "wikilink")\[32\]。
+Tour）」\[31\]。12月30日，她們獲得第51屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")新人獎\[32\]。
 
   - 2010年
 
@@ -146,11 +146,11 @@ BOX](../Page/TEMPTATION_BOX.md "wikilink")》於全球42個國家發行\[38\]。
 ROCK\!](../Page/R-GIRL's_ROCK!.md "wikilink")》，翻唱多首女歌手的歌曲\[42\]。
 
 [SCANDAL_band_at_AFA-X_2010_Singapore.jpg](https://zh.wikipedia.org/wiki/File:SCANDAL_band_at_AFA-X_2010_Singapore.jpg "fig:SCANDAL_band_at_AFA-X_2010_Singapore.jpg")。\]\]
-除了音樂作品外，樂團首個音樂節目《》（[TBS](../Page/TBS電視台.md "wikilink")）於同年7月2日開始播映，共有13集\[43\]。她們亦於同年7月31日連續第3年到[香港動漫電玩節表演](../Page/香港動漫電玩節.md "wikilink")，並於翌日8月1日於[香港會議展覽中心舉辦個人演唱會](../Page/香港會議展覽中心.md "wikilink")\[44\]。11月3日，她們參演了由[Animax舉行的](../Page/Animax.md "wikilink")「ANIMAX
+除了音樂作品外，樂團首個音樂節目《》（[TBS](../Page/TBS電視台.md "wikilink")）於同年7月2日開始播映，共有13集\[43\]。她們亦於同年7月31日連續第3年到[香港動漫電玩節](../Page/香港動漫電玩節.md "wikilink")表演，並於翌日8月1日於[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉辦個人演唱會\[44\]。11月3日，她們參演了由[Animax](../Page/Animax.md "wikilink")舉行的「ANIMAX
 MUSIX FALL
-2010」演唱會，演唱了多首歌曲，亦跟歌手[中川翔子合唱了](../Page/中川翔子.md "wikilink")《[Don't
+2010」演唱會，演唱了多首歌曲，亦跟歌手[中川翔子](../Page/中川翔子.md "wikilink")合唱了《[Don't
 say
-"lazy"](../Page/Don't_say_"lazy".md "wikilink")》一曲\[45\]。11月14日，她們到了於[新加坡舉辦的大型動漫活動](../Page/新加坡.md "wikilink")[亞洲動漫節](https://zh.wikipedia.org/wiki/亞洲動漫節 "wikilink")（AFA）演出\[46\]。
+"lazy"](../Page/Don't_say_"lazy".md "wikilink")》一曲\[45\]。11月14日，她們到了於[新加坡](../Page/新加坡.md "wikilink")舉辦的大型動漫活動[亞洲動漫節](https://zh.wikipedia.org/wiki/亞洲動漫節 "wikilink")（AFA）演出\[46\]。
 
   - 2011年
 
@@ -167,8 +167,8 @@ Tour「SCANDAL VIRGIN HALL TOUR 2011『BABY ACTION』」\[50\]。
 2012年2月，SCANDAL的第12張單曲《[HARUKAZE](../Page/HARUKAZE.md "wikilink")》發行。《HARUKAZE》一曲被採用為《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十五首主題曲，為樂團第二次為該動畫提供歌曲\[51\]。接下來的3月，她們發行了其首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《[SCANDAL
 SHOW](../Page/SCANDAL_SHOW.md "wikilink")》；其中收錄了經常在演唱會上表演，但從未發行過的歌曲《SCANDAL的主題曲》（）\[52\]。第13張單曲《[太陽Scandalous](../Page/太陽Scandalous.md "wikilink")》則於7月發行，得公信榜第2名\[53\]，為她們至今最高的單曲周榜名次。同年9月，她們的第四張專輯《》發行，並取得Oricon公信榜第4名。截至當時為止的4張原創專輯都獲得公信榜5名以內，為該榜史上首隊女子樂團達成此紀錄\[54\]。9月，她們2012年最後一張單曲《[高跟鞋踩浪](../Page/高跟鞋踩浪.md "wikilink")》發行\[55\]。
 
-同年3月28日，SCANDAL成功在[日本武道館開辦個人演唱會](../Page/日本武道館.md "wikilink")「SCANDAL vs
-BUDOKAN」。門票於開始發售15分鐘後售罄\[56\]。此時她們組成樂團已約5年7個月。以組成樂團的時間計算，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團\[57\]。8月26日，她們於舊日經常作街頭表演的[大阪城公園作現場演出](../Page/大阪城公園.md "wikilink")，共有3000名歌迷到場。SCANDAL當時宣佈了將於來年3月於大阪城公園中的[大阪城大廳開演唱會](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")，一償多年來的心願\[58\]。12月1日，SCANDAL首次到[馬來西亞舉辦個唱](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，現場共有1600名觀眾\[59\]。
+同年3月28日，SCANDAL成功在[日本武道館](../Page/日本武道館.md "wikilink")開辦個人演唱會「SCANDAL vs
+BUDOKAN」。門票於開始發售15分鐘後售罄\[56\]。此時她們組成樂團已約5年7個月。以組成樂團的時間計算，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團\[57\]。8月26日，她們於舊日經常作街頭表演的[大阪城公園](../Page/大阪城公園.md "wikilink")作現場演出，共有3000名歌迷到場。SCANDAL當時宣佈了將於來年3月於大阪城公園中的[大阪城大廳開演唱會](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")，一償多年來的心願\[58\]。12月1日，SCANDAL首次到[馬來西亞舉辦個唱](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，現場共有1600名觀眾\[59\]。
 
 SCANDAL的《Satisfaction》（）於同年10月被採用為[Windows
 8的廣告歌曲](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，為首次有日本人的歌曲用於[Microsoft
@@ -185,7 +185,7 @@ SHOW》一樣取得Oricon公信榜第3名\[64\]。
 
 3月3日SCANDAL終於一償多年來的心願，在大阪城公園中的[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（）舉辦了
 SCANDAL OSAKA-JO HALL 2013「Wonderful
-Tonight」演唱會，實現了當初在[大阪城公園開始街頭表演時一直以來的夢想](../Page/大阪城公園.md "wikilink")。演唱會當晚大約有10000
+Tonight」演唱會，實現了當初在[大阪城公園](../Page/大阪城公園.md "wikilink")開始街頭表演時一直以來的夢想。演唱會當晚大約有10000
 名粉絲到場支持，這也是截至當時為止樂團有史以來最大規模的個別演唱會。
 
 同年5月22日發行了第15張的單曲《[應該不會再見了、要保重喔](../Page/應該不會再見了、要保重喔.md "wikilink")》。8月14日亦發行了第16張的單曲《[下弦之月](../Page/下弦之月_\(SCANDAL單曲\).md "wikilink")》，該單曲中的B面曲《キミと未来と完全同期》為
@@ -193,13 +193,13 @@ Tonight」演唱會，實現了當初在[大阪城公園開始街頭表演時一
 
 9月18日發行了第17張的單曲《[OVER
 DRIVE](https://zh.wikipedia.org/wiki/OVER_DRIVE "wikilink")》其中歌曲《OVER
-DRIVE》由[中田康貴作詞](../Page/中田康貴.md "wikilink"),作曲及編曲。同年10月2日發行了第五張創作專輯《[STANDARD](../Page/STANDARD.md "wikilink")》，並取得了Oricon公信榜第3名。
+DRIVE》由[中田康貴](../Page/中田康貴.md "wikilink")作詞,作曲及編曲。同年10月2日發行了第五張創作專輯《[STANDARD](../Page/STANDARD.md "wikilink")》，並取得了Oricon公信榜第3名。
 
 ### 風格改變
 
   - 2014年
 
-2月12日SCANDAL與[T.M.Revolution一同發行了](../Page/T.M.Revolution.md "wikilink")《Count
+2月12日SCANDAL與[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")一同發行了《Count
 ZERO | Runners high ～戦国BASARA4 EP～》\[66\]。
 
 4月23日，SCANDAL發行了第18張單曲《[Departure](../Page/Departure_\(SCANDAL單曲\).md "wikilink")》，該曲的歌曲風格與以往的截然不同，由結他手MAMI擔任作曲填詞。該曲也是在同年3月3日，以限定一天的形式，突然出現在YouTube上的歌曲，當日樂迷的反應十分熱烈，也感到很驚喜，因為2014年初主音HARUNA一直都集中在舞台劇『銀河英雄傳說
@@ -228,7 +228,7 @@ WORLD](../Page/HELLO_WORLD_\(SCANDAL專輯\).md "wikilink")》，該專輯亦跟
 WORLD」**』電影，內容主要是SCANDAL在2015年初舉辦的HELLO WORLD
 世界巡回演唱會中，在日本以外的8個國家演出了合共10場公演的紀錄片段\[69\]\[70\]。
 
-12月9日公佈了會於來年1月12日及13日在[日本武道館舉辦](../Page/日本武道館.md "wikilink")『SCANDAL
+12月9日公佈了會於來年1月12日及13日在[日本武道館](../Page/日本武道館.md "wikilink")舉辦『SCANDAL
 ARENA TOUR 2015-2016 「PERFECT WORLD」』演唱會。
 
 ### 成軍十年
@@ -236,7 +236,7 @@ ARENA TOUR 2015-2016 「PERFECT WORLD」』演唱會。
   - 2016年
 
 2016年為SCANDAL
-樂團成軍十週年的一年。1月12日及13日SCANDAL在[日本武道館一連兩天舉辦了](../Page/日本武道館.md "wikilink")『SCANDAL
+樂團成軍十週年的一年。1月12日及13日SCANDAL在[日本武道館](../Page/日本武道館.md "wikilink")一連兩天舉辦了『SCANDAL
 ARENA TOUR 2015-2016 「PERFECT
 WORLD」』演唱會，以答謝支持了她們十年的樂迷，主音HARUNA表示這是一個幸福的時刻\[71\]。
 
@@ -259,7 +259,7 @@ No.7》，止專輯亦是首張所有作品皆由SCANDAL團員全權負責創作
 
 「[校服](https://zh.wikipedia.org/wiki/日本學生服 "wikilink")」是SCANDAL甫出道時的一個重大特色。雖然如此，她們並非為打造一支「校服樂團」而這樣做。據她們所講，組成樂團時全部成員都還是學生，經常穿著校服練習，因此於正式演出時仍穿上校服，減輕自己的緊張\[76\]。由於服裝上予人相當強烈的[偶像形象](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，剛開始的技術也不夠，所以曾引來「是否真的在演奏」等的質疑\[77\]\[78\]。現時樂團的服裝不再以校服為主調。她們由第9張單曲《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》（2011年2月）起開始不留黑長直髮\[79\]。她們表示不希望人們只看見校服的部分，故不在意因此流失一些歌迷\[80\]。
 
-SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.org/wiki/美國 "wikilink")，包括[嗆辣紅椒和](../Page/嗆辣紅椒.md "wikilink")[超脫樂團等等](https://zh.wikipedia.org/wiki/超脫樂團 "wikilink")\[81\]。在2008年一次訪問中，當她們被問及受到哪些藝人影響時，HARUNA舉出[YUI](../Page/YUI.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")、[麥莉·希拉等女歌手](../Page/麥莉·希拉.md "wikilink")，RINA舉出[Maximum
+SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.org/wiki/美國 "wikilink")，包括[嗆辣紅椒](../Page/嗆辣紅椒.md "wikilink")和[超脫樂團等等](https://zh.wikipedia.org/wiki/超脫樂團 "wikilink")\[81\]。在2008年一次訪問中，當她們被問及受到哪些藝人影響時，HARUNA舉出[YUI](../Page/YUI.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")、[麥莉·希拉](../Page/麥莉·希拉.md "wikilink")等女歌手，RINA舉出[Maximum
 The Hormone的鼓手](../Page/Maximum_The_Hormone.md "wikilink")和美國音樂人[Steve
 Gadd](https://zh.wikipedia.org/wiki/Steve_Gadd "wikilink")，TOMOMI則舉出[討伐體制樂團](../Page/討伐體制樂團.md "wikilink")\[82\]。
 

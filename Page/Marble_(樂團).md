@@ -1,9 +1,9 @@
-**marble**（），[日本雙人音樂團體](../Page/日本.md "wikilink")。成立於1999年，由**micco**和**菊池達也**兩人組成。
+**marble**（），[日本](../Page/日本.md "wikilink")雙人音樂團體。成立於1999年，由**micco**和**菊池達也**兩人組成。
 
 micco和菊池達也是音樂學院的同學。1999年，他們組成「**The
 Student's**」樂團，並且和[華納音樂簽約](../Page/華納音樂集團.md "wikilink")，不過大多都工作都是為其它歌手或者樂團作曲，自己本身演出的機會很少。2003年，他們將樂團改名為「marble」；2005年，兩人脫離樂團，但是仍然經常以[二人組的形式演出](https://zh.wikipedia.org/wiki/二人組 "wikilink")。
 
-2007年，他們在[Lantis麾下獲得成功](../Page/Lantis.md "wikilink")，開始備受矚目，並且在2008年發行他們第一張[音樂專輯](../Page/音樂專輯.md "wikilink")。他們的歌曲大多是[電視動畫的主題曲](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
+2007年，他們在[Lantis](../Page/Lantis.md "wikilink")麾下獲得成功，開始備受矚目，並且在2008年發行他們第一張[音樂專輯](../Page/音樂專輯.md "wikilink")。他們的歌曲大多是[電視動畫的主題曲](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 marble的音樂風格多為柔和、沉靜、爽快，帶有哀愁感卻使人感到寬慰。他們主要使用的樂器就是[木吉他](https://zh.wikipedia.org/wiki/木吉他 "wikilink")，一般很少使用過多復雜的樂器編曲。
 
@@ -58,7 +58,7 @@ marble的音樂風格多為柔和、沉靜、爽快，帶有哀愁感卻使人�
 <td></td>
 <td><p>2008年8月6日</p></td>
 <td><p>LACM-4512</p></td>
-<td><p>電視動畫《<a href="../Page/向陽素描.md" title="wikilink">向陽素描×365</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="../Page/向陽素描.md" title="wikilink">向陽素描</a>×365》片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
@@ -79,7 +79,7 @@ marble的音樂風格多為柔和、沉靜、爽快，帶有哀愁感卻使人�
 <td></td>
 <td><p>2010年2月10日</p></td>
 <td><p>LASM-4045</p></td>
-<td><p>電視動畫《<a href="../Page/向陽素描.md" title="wikilink">向陽素描×☆☆☆</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="../Page/向陽素描.md" title="wikilink">向陽素描</a>×☆☆☆》片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>8th</strong></p></td>

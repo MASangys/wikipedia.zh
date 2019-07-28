@@ -4,7 +4,7 @@ S.A.）旗下的SolidWorks公司开发的，运行在[微软Windows平台下的]
 ## 歷史
 
 SolidWorks公司成立於1993年12月，其總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[麻州](https://zh.wikipedia.org/wiki/麻州 "wikilink")[康克爾郡](https://zh.wikipedia.org/wiki/康克爾郡 "wikilink")，西元1995年發表其第一款產品**SolidWorks
-95**，1997年被[达索系统併購](../Page/达索系统.md "wikilink")，SolidWorks公司現在是达索系统的子公司。
+95**，1997年被[达索系统](../Page/达索系统.md "wikilink")併購，SolidWorks公司現在是达索系统的子公司。
 
 ## 市場
 
@@ -208,7 +208,7 @@ SolidWorks的合作夥伴與具有黃金夥伴稱號的應用程式都是經由S
 
 ## 競爭對手
 
-  - [CATIA達索系統公司](../Page/CATIA.md "wikilink")
+  - [CATIA](../Page/CATIA.md "wikilink")達索系統公司
   - [UGS
     NX西門子公司](https://zh.wikipedia.org/wiki/UGS_NX "wikilink")（原屬於UGS公司）
   - [Creo

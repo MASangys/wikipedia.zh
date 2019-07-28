@@ -1,5 +1,5 @@
 《**Fly
-high**》（高飛）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilink")13張單曲，2000年2月9日於日本發售。
+high**》（高飛）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第13張單曲，2000年2月9日於日本發售。
 
 ## 說明
 
@@ -9,7 +9,7 @@ high**》（高飛）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilin
   - 本作除重發自去年11月10日發行第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》外的單曲版本未收錄於之後的精選輯之中。
   - 本作收錄的混音歌曲除了《Fly
     high》外，尚有第11張單曲《[appears](https://zh.wikipedia.org/wiki/appears "wikilink")》及第12張單曲《[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")》的混音版本。
-  - 本作拍攝[音樂錄影帶收錄的是第一音軌的單曲版本](../Page/音樂錄影帶.md "wikilink")。
+  - 本作拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")收錄的是第一音軌的單曲版本。
 
 ## 收錄歌曲
 

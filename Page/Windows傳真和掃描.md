@@ -1,6 +1,6 @@
 **Windows
 傳真和掃描**是一個[微軟所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")，內建於[Microsoft
-Windows中用來](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[傳真以及](../Page/傳真.md "wikilink")[掃描文件的元件](../Page/影像掃描器.md "wikilink")。它僅出現在部分[Windows
+Windows中用來](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[傳真](../Page/傳真.md "wikilink")以及[掃描文件的元件](../Page/影像掃描器.md "wikilink")。它僅出現在部分[Windows
 Vista版本的](../Page/Windows_Vista.md "wikilink")[作業系統中](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。[Windows
 XP中相同功能的程式則是](../Page/Windows_XP.md "wikilink")「傳真服務」，且並非內建，使用者可能需要透過Windows
 XP的安裝光碟來安裝。\[1\]使用者能夠在擁有適當所需裝置的情況下在電腦上利用這個程式收發[傳真](../Page/傳真.md "wikilink")、使用[電子郵件或傳真來發送掃描的文件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、或使用如同電子郵件的方式轉寄傳真。Windows

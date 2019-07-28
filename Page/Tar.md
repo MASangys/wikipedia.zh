@@ -16,12 +16,12 @@ Yes }}
 
 ## 概览
 
-[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统上的压缩打包工具](../Page/类Unix系统.md "wikilink")，可以将多个[文件合并为一个文件](https://zh.wikipedia.org/wiki/文件 "wikilink")，打包后的[文件名亦为](https://zh.wikipedia.org/wiki/文件名 "wikilink")“tar”。目前，tar文件格式已经成为[POSIX标准](https://zh.wikipedia.org/wiki/POSIX "wikilink")，最初是POSIX.1-1988，目前是POSIX.1-2001。本程序最初的设计目的是将文件备份到[磁带上](../Page/磁带.md "wikilink")（**t**ape
+[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")上的压缩打包工具，可以将多个[文件合并为一个文件](https://zh.wikipedia.org/wiki/文件 "wikilink")，打包后的[文件名亦为](https://zh.wikipedia.org/wiki/文件名 "wikilink")“tar”。目前，tar文件格式已经成为[POSIX标准](https://zh.wikipedia.org/wiki/POSIX "wikilink")，最初是POSIX.1-1988，目前是POSIX.1-2001。本程序最初的设计目的是将文件备份到[磁带](../Page/磁带.md "wikilink")上（**t**ape
 **ar**chive），因而得名tar。
 
 ## 版本
 
-常用的tar是[自由软件基金会开发的](../Page/自由软件基金会.md "wikilink")[GNU版](../Page/GNU.md "wikilink")，目前的稳定版本是1.28，发布于
+常用的tar是[自由软件基金会](../Page/自由软件基金会.md "wikilink")开发的[GNU](../Page/GNU.md "wikilink")版，目前的稳定版本是1.28，发布于
 
 同时，它有多个压缩率不同的版本，如tar.xz和tar.gz，前者的压缩率更高，但可能有兼容性问题。
 

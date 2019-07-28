@@ -5,7 +5,7 @@ Mobilinux是基於開放源代碼和開放標準技術，設計給可擴展性�
 
 Mobilinux 是基於[Linux
 kernel](https://zh.wikipedia.org/wiki/Linux_kernel "wikilink")2.6。它具有不到1秒快速啟動時間。其[DevRocket](https://zh.wikipedia.org/wiki/DevRocket "wikilink")[圖形用戶界面是基於](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")[EclipseIt](https://zh.wikipedia.org/wiki/EclipseIt "wikilink")。還包括先進的Linux
-[ALSA聲音架構驅動程序支持給](../Page/ALSA.md "wikilink")[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。
+[ALSA](../Page/ALSA.md "wikilink")聲音架構驅動程序支持給[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。
 
 ## 外部連結
 

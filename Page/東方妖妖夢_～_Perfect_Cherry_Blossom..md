@@ -1,5 +1,5 @@
 [Perfect_Cherry_Blossom.jpg](https://zh.wikipedia.org/wiki/File:Perfect_Cherry_Blossom.jpg "fig:Perfect_Cherry_Blossom.jpg")
-是[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團制作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")7作，也是在[Windows平台上的第二作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作於2002年12月30日的[Comic
+是[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")制作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")7作，也是在[Windows平台上的第二作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作於2002年12月30日的[Comic
 Market](../Page/Comic_Market.md "wikilink")
 63中發佈含[WAV類型音樂檔的體驗版plus](https://zh.wikipedia.org/wiki/.wav "wikilink")，並在2003年1月26日在網上公開體驗版，最終於2003年8月17日發佈正式版，於9月7日開始[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。
 
@@ -18,7 +18,7 @@ Ending並解鎖Extra關卡。除Extra關卡之外，本作還有一個Phantasm�
 
 ## 遊戲劇情
 
-故事發生在5月份，雖然已經進入春季，可是[幻想鄉的雪仍未融化](../Page/幻想鄉.md "wikilink")，並且並未看到任何春季到來的跡象。博麗神社的[巫女](../Page/巫女.md "wikilink")——博麗靈夢害怕寒冷，而且神社滿佈積雪，內外皆冷，於是和以往一樣也是靠著直覺而出發了；普通的[魔法使](https://zh.wikipedia.org/wiki/魔法使 "wikilink")——霧雨魔理沙發現吹來的雪中混有了[櫻花的](https://zh.wikipedia.org/wiki/櫻花 "wikilink")[花瓣](https://zh.wikipedia.org/wiki/花瓣 "wikilink")，為了找尋那些花瓣的來處，於是又出發了；而紅魔館的[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")——十六夜咲夜當時正在溫暖的屋子裏享用[紅茶](https://zh.wikipedia.org/wiki/紅茶 "wikilink")，發現在入冬前已準備好的燃料因為意想不到的長冬快要耗光，於是在紅魔館主人蕾米莉亞的許可之下出發了。\[1\]
+故事發生在5月份，雖然已經進入春季，可是[幻想鄉](../Page/幻想鄉.md "wikilink")的雪仍未融化，並且並未看到任何春季到來的跡象。博麗神社的[巫女](../Page/巫女.md "wikilink")——博麗靈夢害怕寒冷，而且神社滿佈積雪，內外皆冷，於是和以往一樣也是靠著直覺而出發了；普通的[魔法使](https://zh.wikipedia.org/wiki/魔法使 "wikilink")——霧雨魔理沙發現吹來的雪中混有了[櫻花的](https://zh.wikipedia.org/wiki/櫻花 "wikilink")[花瓣](https://zh.wikipedia.org/wiki/花瓣 "wikilink")，為了找尋那些花瓣的來處，於是又出發了；而紅魔館的[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")——十六夜咲夜當時正在溫暖的屋子裏享用[紅茶](https://zh.wikipedia.org/wiki/紅茶 "wikilink")，發現在入冬前已準備好的燃料因為意想不到的長冬快要耗光，於是在紅魔館主人蕾米莉亞的許可之下出發了。\[1\]
 
 主角們最初對異變源頭毫無頭緒，翻過山峰之後因迷路來到迷途之家，而後又遇到了魔法使愛麗絲·瑪格特洛伊德。愛麗絲被主角打敗，然後指引主角前往天空。主角穿過雲層，到達了冥界的入口處。經過冥界白玉樓的階梯時，主角見到了負責守衛的庭師魂魄妖夢。她告訴主角，自己正按照大小姐的指示收集幻想鄉的春度。而後，主角擊退了魂魄妖夢，最終與異變的元兇——西行寺幽幽子見面。幽幽子表示自己之所以要收集春度，是因為想要讓冥界中從未盛開的櫻花樹——西行妖綻放\[2\]。經過一番戰鬥，最後幽幽子被打敗，主角解決了這場春雪異變，幻想鄉也恢復了春季的樣子。
 

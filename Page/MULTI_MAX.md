@@ -1,5 +1,5 @@
 Multi
-Max是[恰克與飛鳥的成員](../Page/恰克與飛鳥.md "wikilink")[恰克在](../Page/恰克.md "wikilink")1989年與村上啟介、淺井ひろみ所組成的日本流行樂團。代表歌曲有「SOME
+Max是[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")的成員[恰克](../Page/恰克.md "wikilink")在1989年與村上啟介、淺井ひろみ所組成的日本流行樂團。代表歌曲有「SOME
 DAY」、「WINDY ROAD」、「Mr. Liverpool」。
 
 ## 樂團成員
@@ -11,7 +11,7 @@ Multi Max的團長；詳情請參閱[恰克](../Page/恰克.md "wikilink")。
 **村上啟介**：
 
 擅長多種樂器、負責Multi Max全部專輯編曲的樂手，Multi
-Max裡的歌曲多數由他與恰克倆人完成。他本身也參與[恰克與飛鳥於](../Page/恰克與飛鳥.md "wikilink")90年代多首歌曲的製作，並且在1996年陪同恰克與飛鳥參加英國的[MTV
+Max裡的歌曲多數由他與恰克倆人完成。他本身也參與[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")於90年代多首歌曲的製作，並且在1996年陪同恰克與飛鳥參加英國的[MTV
 UNPLUGGED演唱會](https://zh.wikipedia.org/wiki/MTV_UNPLUGGED "wikilink")。
 
 **淺井ひろみ**：

@@ -1,14 +1,14 @@
 **Linux兼容内核（Linux Unified Kernel，亦称
-Longene）**，是一个[二进制兼容](https://zh.wikipedia.org/wiki/二进制 "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux应用软件和设备驱动程序的](../Page/Linux.md "wikilink")[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。它试图在Linux内核的基础上利用Linux内核材料构建MS
+Longene）**，是一个[二进制兼容](https://zh.wikipedia.org/wiki/二进制 "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")应用软件和设备驱动程序的[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。它试图在Linux内核的基础上利用Linux内核材料构建MS
 Windows内核功能模块从而扩充Linux内核的支持能力使之同时支持Linux和Windows的应用程序和设备驱动。
 
-兼容内核主要以[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，以[GNU通用公共许可证授权使用](../Page/GNU.md "wikilink")。虽然兼容内核还处在初期开发阶段，但许多Windows程序已经可以在其上运行。與其相反但類似概念的是
+兼容内核主要以[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，以[GNU](../Page/GNU.md "wikilink")通用公共许可证授权使用。虽然兼容内核还处在初期开发阶段，但许多Windows程序已经可以在其上运行。與其相反但類似概念的是
 [coLinux](https://zh.wikipedia.org/wiki/:Cooperative_Linux "wikilink")。[coLinux](https://zh.wikipedia.org/wiki/:Cooperative_Linux "wikilink")
-是在[Windows上運行](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux应用软件](../Page/Linux.md "wikilink")。
+是在[Windows上運行](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")应用软件。
 
 ## 特性
 
-兼容内核项目在Linux内核的基础上利用Linux内核材料构建一个Windows内核环境（包括[进程管理](https://zh.wikipedia.org/wiki/进程管理 "wikilink")、[线程管理](https://zh.wikipedia.org/wiki/线程管理 "wikilink")、对象管理、[虚拟内存管理](../Page/虚拟内存.md "wikilink")、同步、系统调用、系统注册机制和设备驱动程序框架等Windows系统内核机制），形成一个新的内核，使Linux和Windows应用程序和设备驱动程序能够直接在其上运行。
+兼容内核项目在Linux内核的基础上利用Linux内核材料构建一个Windows内核环境（包括[进程管理](https://zh.wikipedia.org/wiki/进程管理 "wikilink")、[线程管理](https://zh.wikipedia.org/wiki/线程管理 "wikilink")、对象管理、[虚拟内存](../Page/虚拟内存.md "wikilink")管理、同步、系统调用、系统注册机制和设备驱动程序框架等Windows系统内核机制），形成一个新的内核，使Linux和Windows应用程序和设备驱动程序能够直接在其上运行。
 
 兼容内核不是Linux内核和Windows内核的简单堆砌。为了防止兼容内核变得臃肿，如果一个功能可以用利用[ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")（Windows的开源仿制品）代码实现，也可以利用Linux内核函数通过编程实现（ReactOS、Wine、NDISwrapper代码作为参考），兼容内核倾向采用后一种实现方法。
 
@@ -16,7 +16,7 @@ Windows内核功能模块从而扩充Linux内核的支持能力使之同时支�
 table）：一套为Windows系统调用，另一套为Linux系统调用。Windows应用程序通过软中断“int
 0x2e”访问系统调用表进行Windows系统调用。Linux应用软件则通过软中断“int 0x80”访问系统调用表进行Linux系统调用。
 
-兼容内核项目不计划开发Windows和Linux的在用户空间运行的[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")（.dll和.so文件）。这些库文件由[Wine项目](../Page/Wine.md "wikilink")（或MS
+兼容内核项目不计划开发Windows和Linux的在用户空间运行的[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")（.dll和.so文件）。这些库文件由[Wine](../Page/Wine.md "wikilink")项目（或MS
 Windows/ReactOS项目）和Linux项目提供。
 
 ## 在Linux核内空间实现Windows内核机制方案的优点
@@ -140,7 +140,7 @@ Windows/ReactOS项目）和Linux项目提供。
 <td><p>0.2.3</p></td>
 <td><p>2009年2月12日</p></td>
 <td><ul>
-<li>移植<a href="../Page/Wine.md" title="wikilink">Wine的註冊表管理機制</a></li>
+<li>移植<a href="../Page/Wine.md" title="wikilink">Wine</a>的註冊表管理機制</li>
 </ul></td>
 </tr>
 <tr class="odd">

@@ -1,5 +1,5 @@
 **Theatre
-Echo**（）是[日本的](../Page/日本.md "wikilink")[劇團和](https://zh.wikipedia.org/wiki/劇團 "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。座落於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")。法人商號為「**[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")**」。
+Echo**（）是[日本](../Page/日本.md "wikilink")的[劇團和](https://zh.wikipedia.org/wiki/劇團 "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。座落於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")。法人商號為「**[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")**」。
 
 ## 概要
 
@@ -142,7 +142,7 @@ recording現在積極地也過去著。
     Out](https://zh.wikipedia.org/wiki/Knock_Out "wikilink"))
   - [翠準子](https://zh.wikipedia.org/wiki/翠準子 "wikilink")(現所屬PRODUCTION
     baobab)
-  - [宮嵨泰子](https://zh.wikipedia.org/wiki/宮嵨泰子 "wikilink")(現所屬[朝日電視台播音員](../Page/朝日電視台.md "wikilink"))
+  - [宮嵨泰子](https://zh.wikipedia.org/wiki/宮嵨泰子 "wikilink")(現所屬[朝日電視台](../Page/朝日電視台.md "wikilink")播音員)
   - [武籐禮子](https://zh.wikipedia.org/wiki/武籐禮子 "wikilink")(故人)
   - [和田良子](https://zh.wikipedia.org/wiki/和田良子 "wikilink")
 
@@ -158,12 +158,12 @@ recording現在積極地也過去著。
 
 ### 特攝
 
-  - [東映作品](../Page/東映.md "wikilink")
+  - [東映](../Page/東映.md "wikilink")作品
 
 <!-- end list -->
 
   -
-    [假面騎士系列](../Page/假面騎士.md "wikilink")（1號至ZX）
+    [假面騎士](../Page/假面騎士.md "wikilink")系列（1號至ZX）
     [變身忍者 嵐](https://zh.wikipedia.org/wiki/變身忍者_嵐 "wikilink")
     [ザ・カゲスター](https://zh.wikipedia.org/wiki/ザ・カゲスター "wikilink")
     [兄弟拳バイクロッサー](https://zh.wikipedia.org/wiki/兄弟拳バイクロッサー "wikilink")
@@ -185,14 +185,14 @@ recording現在積極地也過去著。
 ### 動畫
 
   - [いなかっぺ大将](https://zh.wikipedia.org/wiki/いなかっぺ大将 "wikilink")
-  - [宇宙戰艦大和號系列](../Page/宇宙戰艦大和號.md "wikilink")(1\~3)
+  - [宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")系列(1\~3)
   - [海底小遊俠](../Page/海底小遊俠.md "wikilink")
   - [激走\!ルーベンカイザー](https://zh.wikipedia.org/wiki/激走!ルーベンカイザー "wikilink")
   - [原始少年リュウ](https://zh.wikipedia.org/wiki/原始少年リュウ "wikilink")
   - [正義を愛する者月光仮面](https://zh.wikipedia.org/wiki/月光仮面 "wikilink")
   - [小さなバイキングビッケ](https://zh.wikipedia.org/wiki/小さなバイキングビッケ "wikilink")
-  - [多拉A夢](https://zh.wikipedia.org/wiki/多拉A夢 "wikilink")([日本電視台版](../Page/日本電視台.md "wikilink"))
-  - [熊貓小熊貓系列](../Page/熊貓小熊貓.md "wikilink")
+  - [多拉A夢](https://zh.wikipedia.org/wiki/多拉A夢 "wikilink")([日本電視台](../Page/日本電視台.md "wikilink")版)
+  - [熊貓小熊貓](../Page/熊貓小熊貓.md "wikilink")系列
   - [甜蜜小天使](../Page/甜蜜小天使.md "wikilink")（1969年版）
   - [ふしぎなメルモ](https://zh.wikipedia.org/wiki/ふしぎなメルモ "wikilink")（1971年版）
   - [魔法のマコちゃん](https://zh.wikipedia.org/wiki/魔法のマコちゃん "wikilink")
@@ -204,7 +204,7 @@ recording現在積極地也過去著。
 
   - [忍風カムイ外伝](https://zh.wikipedia.org/wiki/忍風カムイ外伝 "wikilink")
   - [宇宙鉄人キョーダイン](https://zh.wikipedia.org/wiki/宇宙鉄人キョーダイン "wikilink")
-  - [超人力霸王系列](../Page/超人力霸王.md "wikilink")（1960年代～1970年代的系列）
+  - [超人力霸王](../Page/超人力霸王.md "wikilink")系列（1960年代～1970年代的系列）
   - [星艦奇航記：動畫版](https://zh.wikipedia.org/wiki/星艦奇航記：動畫版 "wikilink")
 
 ### 其他

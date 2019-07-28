@@ -1,4 +1,4 @@
-《**Voice～亡者之聲～**》（）是一部於2009年1月12日起，由[日本](../Page/日本.md "wikilink")[富士電視台於逢星期一](../Page/富士電視台.md "wikilink")21:00-21:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[瑛太主演](../Page/瑛太.md "wikilink")。首回和最終回加長至22:09。
+《**Voice～亡者之聲～**》（）是一部於2009年1月12日起，由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於逢星期一21:00-21:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[瑛太](../Page/瑛太.md "wikilink")主演。首回和最終回加長至22:09。
 
 ## 故事
 
@@ -578,4 +578,4 @@
 
 1.  為日本關東地區，由[Video Research社調查](../Page/Video_Research.md "wikilink")。
 2.  朝日電視台在該時段播放[第二屆世界棒球經典賽預賽](../Page/2009年世界棒球經典賽.md "wikilink")，收視率為33.6%。2月23日和3月2日在相同時段的收視率分別為17.6%和15.2%。
-3.  10.2%是該時段最低收視與[東京灣景並列](../Page/東京灣景.md "wikilink")。
+3.  10.2%是該時段最低收視與[東京灣景](../Page/東京灣景.md "wikilink")並列。

@@ -1,7 +1,7 @@
 [Valid_XHTML_1.0.svg](https://zh.wikipedia.org/wiki/File:Valid_XHTML_1.0.svg "fig:Valid_XHTML_1.0.svg")
 [Valid_CSS.svg](https://zh.wikipedia.org/wiki/File:Valid_CSS.svg "fig:Valid_CSS.svg")
 
-由**[万维网联盟](../Page/万维网联盟.md "wikilink")（W3C）提供的驗證服務**可以為[互聯網用戶檢查](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[HTML文件是否符合](../Page/HTML.md "wikilink")[HTML或](../Page/HTML.md "wikilink")[XHTML標準](../Page/XHTML.md "wikilink")。這可以向網頁設計師提供快速檢查網頁錯誤的方法。\[1\]
+由**[万维网联盟](../Page/万维网联盟.md "wikilink")（W3C）提供的驗證服務**可以為[互聯網用戶檢查](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[HTML](../Page/HTML.md "wikilink")文件是否符合[HTML](../Page/HTML.md "wikilink")或[XHTML](../Page/XHTML.md "wikilink")標準。這可以向網頁設計師提供快速檢查網頁錯誤的方法。\[1\]
 
 ## 历史
 
@@ -18,7 +18,7 @@ HTML Validator*以他的作品為基礎發布。\[4\]
 
 ## 瀏覽器相容
 
-大部分主流的[瀏覽器都會容許某些的錯誤](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，並可以成功顯示出網頁，即使網頁的結構是不正確的。某些的[XML文件亦可以參照內嵌或外部的](../Page/XML.md "wikilink")[DTD驗證](https://zh.wikipedia.org/wiki/文件類型描述 "wikilink")。W3C亦提供HTML/XHTML以外的網絡技術如[MathML或](https://zh.wikipedia.org/wiki/MathML "wikilink")[CSS的驗證工具](https://zh.wikipedia.org/wiki/CSS "wikilink")。
+大部分主流的[瀏覽器都會容許某些的錯誤](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，並可以成功顯示出網頁，即使網頁的結構是不正確的。某些的[XML](../Page/XML.md "wikilink")文件亦可以參照內嵌或外部的[DTD驗證](https://zh.wikipedia.org/wiki/文件類型描述 "wikilink")。W3C亦提供HTML/XHTML以外的網絡技術如[MathML或](https://zh.wikipedia.org/wiki/MathML "wikilink")[CSS的驗證工具](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 ## CSS驗證
 

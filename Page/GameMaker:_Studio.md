@@ -1,5 +1,5 @@
 **Game
-Maker**是一款由以[Delphi製作的](../Page/Delphi.md "wikilink")[电子游戏制作](../Page/电子游戏.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。最新版本命名為**Game
+Maker**是一款由以[Delphi](../Page/Delphi.md "wikilink")製作的[电子游戏](../Page/电子游戏.md "wikilink")制作[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。最新版本命名為**Game
 Maker: Studio**。
 
 ## 概論
@@ -14,11 +14,11 @@ Maker: Studio**。
 
 以下為 Game Maker Studio 與前作不同之處：
 
-  - 支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Tizen等平台輸出](../Page/Tizen.md "wikilink")，亦可於[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PSVita以及](https://zh.wikipedia.org/wiki/PSVita "wikilink")[Xbox等主機發布](../Page/Xbox.md "wikilink")。
+  - 支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Tizen](../Page/Tizen.md "wikilink")等平台輸出，亦可於[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PSVita以及](https://zh.wikipedia.org/wiki/PSVita "wikilink")[Xbox](../Page/Xbox.md "wikilink")等主機發布。
   - 新增YoYo Compiler，大幅提高游戏运行效率。
   - [開發界面优化](../Page/集成开发环境.md "wikilink")，图像（Sprite）编辑器、場景（Room）编辑器改良。
   - 新增[著色器](https://zh.wikipedia.org/wiki/著色器 "wikilink")。
-  - 支持導入Spine，[Swf動畫](../Page/Swf.md "wikilink")。
+  - 支持導入Spine，[Swf](../Page/Swf.md "wikilink")動畫。
   - 新增物理引擎 Box2D。
   - 新音效引擎，支援[3D音效輸出](../Page/立體聲.md "wikilink")。
   - 支援[Unicode编码](https://zh.wikipedia.org/wiki/Unicode "wikilink")，能夠輸入包含中文的多國文字。

@@ -1,25 +1,25 @@
-**MAC-10**（，意為：**軍事裝備公司10型**，正式稱呼：**M-10**）是一系列由於1964年為[特種部隊而設計](../Page/特種部隊.md "wikilink")，[開放式槍栓及](../Page/開放式槍栓.md "wikilink")[反沖作用操作的輕型](../Page/反沖作用_\(槍械\).md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[.45
+**MAC-10**（，意為：**軍事裝備公司10型**，正式稱呼：**M-10**）是一系列由於1964年為[特種部隊](../Page/特種部隊.md "wikilink")而設計，[開放式槍栓](../Page/開放式槍栓.md "wikilink")及[反沖作用操作的輕型](../Page/反沖作用_\(槍械\).md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[.45
 ACP或](../Page/.45_ACP.md "wikilink")[9×19毫米兩種](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這是一種款簡單、低成本的設計、幾乎沒有可轉換零件的槍械，因此亦很容易製造和維修。MAC-10冲锋枪（衝鋒手槍）槍族，例如其衍生型：[MAC-11](../Page/MAC-11衝鋒槍.md "wikilink")（M-11A1），MAC-10的版本；MAC-11/9（M-11/9），是由[SWD](https://zh.wikipedia.org/wiki/SWD "wikilink")（[英文](../Page/英语.md "wikilink")：Sylvia
 and Wayne
 Daniel）和[Leinad所生產的一種長射程和短側面的小型](https://zh.wikipedia.org/wiki/Leinad "wikilink")9毫米版本。
 
-為了使用者能夠對抗大量敵人，MAC-10亦有著小巧和高射速的設計（MAC-10的每分鐘能發射1,090—1,145發子彈，MAC-11和MAC-11A1則是1,200發或以上）。但同樣地，其小巧的設計亦令其在[全自動射擊時難以緊握](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，高射速令其控制變得困難。這些問題因素都令其無法成功地大規模在軍隊中裝備。不過，美軍[特種部隊曾經在](../Page/特種部隊.md "wikilink")[越战之中少量裝備](../Page/越南战争.md "wikilink")。
+為了使用者能夠對抗大量敵人，MAC-10亦有著小巧和高射速的設計（MAC-10的每分鐘能發射1,090—1,145發子彈，MAC-11和MAC-11A1則是1,200發或以上）。但同樣地，其小巧的設計亦令其在[全自動射擊時難以緊握](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，高射速令其控制變得困難。這些問題因素都令其無法成功地大規模在軍隊中裝備。不過，美軍[特種部隊](../Page/特種部隊.md "wikilink")曾經在[越战之中少量裝備](../Page/越南战争.md "wikilink")。
 
 ## 設計細節
 
-MAC-10設計時，全槍的零部件幾乎完全採用薄[钢板以](../Page/钢.md "wikilink")[衝壓成型的方式加工製造](../Page/衝壓.md "wikilink")，而槍機則是採用精密鑄造技術生產，整體製造工藝比較簡單。
+MAC-10設計時，全槍的零部件幾乎完全採用薄[钢](../Page/钢.md "wikilink")板以[衝壓](../Page/衝壓.md "wikilink")成型的方式加工製造，而槍機則是採用精密鑄造技術生產，整體製造工藝比較簡單。
 
 M10式冲锋枪所有版本都适用了自由枪机工作结构。机匣被分为上下两部分，枪机和枪管位于上方，下机匣包含有发射机、保险机构和快慢机。包络结构可以使得枪管大部分伸入机匣内来减少枪械的长度，更方便携带。拉机柄设计在顶部，上面有作为瞄准的开槽。当枪机位于前方，拉机柄钮旋转90°可以将枪机锁在前方。快慢机在机匣左侧扳机前方，向前推为单发，向后拉为连发。保险位于扳机右前方，使用非常方便，向前扳为射击，向后扳为保险，可通过扣扳机的手指就实现保险。在枪械前部有一个帆布质地的把手，可以在持续射击时用来控制枪口上挑。
 
-由於設計者的關係所以使用鋸齒狀的處理、槍機轉動90度就會閉鎖和有指示器指示武器不能射擊的兩個保險裝置，這能有效杜絕武器射擊系統因為墜下或者開放式槍栓先天缺陷所導致的走火。由于結構簡單的關係，很少發生操作上的問題，亦證明了MAC-10的設計堅固。\[1\]MAC-10採用了矩形結構[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，“Ｌ”型[包絡式槍機](../Page/包絡式槍機.md "wikilink")（），把[槍管的大部份包裹槍機內部](../Page/槍管.md "wikilink")，並且把[彈匣位置改為在](../Page/彈匣.md "wikilink")內部以縮短總長度和平衡其重量分佈，而使得這槍這設計得這麼小。在該槍的機匣左側安裝有旋鈕式[快慢機](../Page/擊發調變槍械.md "wikilink")，可在半自動和全自動兩個位置之間切換。保險裝置則設置在板機護環裡面，具有“保險”和“開火”兩個選擇。
+由於設計者的關係所以使用鋸齒狀的處理、槍機轉動90度就會閉鎖和有指示器指示武器不能射擊的兩個保險裝置，這能有效杜絕武器射擊系統因為墜下或者開放式槍栓先天缺陷所導致的走火。由于結構簡單的關係，很少發生操作上的問題，亦證明了MAC-10的設計堅固。\[1\]MAC-10採用了矩形結構[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，“Ｌ”型[包絡式槍機](../Page/包絡式槍機.md "wikilink")（），把[槍管](../Page/槍管.md "wikilink")的大部份包裹槍機內部，並且把[彈匣](../Page/彈匣.md "wikilink")位置改為在內部以縮短總長度和平衡其重量分佈，而使得這槍這設計得這麼小。在該槍的機匣左側安裝有旋鈕式[快慢機](../Page/擊發調變槍械.md "wikilink")，可在半自動和全自動兩個位置之間切換。保險裝置則設置在板機護環裡面，具有“保險”和“開火”兩個選擇。
 
 MAC-10採用了[開放式槍栓](../Page/開放式槍栓.md "wikilink")（），較輕便的開放式槍栓令其有著較高的射速。但由於其[機匣過於狹小](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機後座距離較短，射速過高，容易引起卡彈等故障。
 
-槍管前端的螺旋紋可用來安裝專用的[抑制器以減低發射時的聲音](../Page/抑制器.md "wikilink")，而其設計特色是在沒有減低子彈的[初速下達到消聲效果](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，而且作為平衡重心點（這種類似的衝鋒槍用消聲器的設計概念還有[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[QCW-05](../Page/05式微声冲锋枪.md "wikilink")）。為了節省設計新[彈匣的](../Page/彈匣.md "wikilink")[成本](../Page/成本.md "wikilink")，[.45](../Page/.45_ACP.md "wikilink")[口徑採用來自](https://zh.wikipedia.org/wiki/口徑 "wikilink")[M3衝鋒槍的](../Page/M3衝鋒槍.md "wikilink").45口徑彈匣。
+槍管前端的螺旋紋可用來安裝專用的[抑制器](../Page/抑制器.md "wikilink")以減低發射時的聲音，而其設計特色是在沒有減低子彈的[初速下達到消聲效果](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，而且作為平衡重心點（這種類似的衝鋒槍用消聲器的設計概念還有[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[QCW-05](../Page/05式微声冲锋枪.md "wikilink")）。為了節省設計新[彈匣](../Page/彈匣.md "wikilink")的[成本](../Page/成本.md "wikilink")，[.45](../Page/.45_ACP.md "wikilink")[口徑採用來自](https://zh.wikipedia.org/wiki/口徑 "wikilink")[M3衝鋒槍](../Page/M3衝鋒槍.md "wikilink")的.45口徑彈匣。
 
-英格拉姆在[美軍少量裝備MAC](../Page/美国陆军.md "wikilink")-10期間得到建議，亦增加一個小型的可伸縮[槍托和在槍口裝上](../Page/槍托.md "wikilink")環以控制[全自動射擊時的](https://zh.wikipedia.org/wiki/自動火器 "wikilink")[後座力](../Page/後座力.md "wikilink")。但在推出初期而言，就被認為是理想的近戰武器。\[2\]
+英格拉姆在[美軍少量裝備MAC](../Page/美国陆军.md "wikilink")-10期間得到建議，亦增加一個小型的可伸縮[槍托](../Page/槍托.md "wikilink")和在槍口裝上環以控制[全自動射擊時的](https://zh.wikipedia.org/wiki/自動火器 "wikilink")[後座力](../Page/後座力.md "wikilink")。但在推出初期而言，就被認為是理想的近戰武器。\[2\]
 
 ### 消聲型
 
@@ -31,7 +31,7 @@ MAC-10採用了[開放式槍栓](../Page/開放式槍栓.md "wikilink")（），
 
 ## 1994年攻擊性武器禁令
 
-可能是由於其來勢洶洶的外觀和自1982年[開放式槍栓武器禁令以前在聚集的開放式槍栓之間的信譽](../Page/開放式槍栓.md "wikilink")，與對應它的軍用型版本操作不同的半自動民用型MAC-10，成為了1994年[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款的目標。這項禁令頒布定義為一款攻擊武器的各種要求。不僅直接地將MAC-10列入於禁令上，\[5\]它也違反了該法案的兩個要求：首先，一款半自動版本的自動武器；其次，手槍在空槍時，製造重量為50盎司（1.42公斤，3.12磅）或以上時。\[6\]尤其是後者，施加的重量限制為50盎司，而MAC-10的重量已經超過100.16盎司（2.84公斤）。更重要的是，涉及兩個基本問題：這款武器具有一根螺紋[槍管](../Page/槍管.md "wikilink")，增加了裝上[抑制器的能力](../Page/抑制器.md "wikilink")，以及彈匣容量為32發，遠遠超過了該禁令的限制。對此，韋恩·丹尼爾根據1994年聯邦突擊武器禁制法案的規定對該武器重新設計，不能再裝上消聲器，並研製了一個只能使用10發彈匣的新型[彈匣釋放按鈕](../Page/彈匣.md "wikilink")。新的武器被命名為PM11/9。
+可能是由於其來勢洶洶的外觀和自1982年[開放式槍栓](../Page/開放式槍栓.md "wikilink")武器禁令以前在聚集的開放式槍栓之間的信譽，與對應它的軍用型版本操作不同的半自動民用型MAC-10，成為了1994年[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款的目標。這項禁令頒布定義為一款攻擊武器的各種要求。不僅直接地將MAC-10列入於禁令上，\[5\]它也違反了該法案的兩個要求：首先，一款半自動版本的自動武器；其次，手槍在空槍時，製造重量為50盎司（1.42公斤，3.12磅）或以上時。\[6\]尤其是後者，施加的重量限制為50盎司，而MAC-10的重量已經超過100.16盎司（2.84公斤）。更重要的是，涉及兩個基本問題：這款武器具有一根螺紋[槍管](../Page/槍管.md "wikilink")，增加了裝上[抑制器](../Page/抑制器.md "wikilink")的能力，以及彈匣容量為32發，遠遠超過了該禁令的限制。對此，韋恩·丹尼爾根據1994年聯邦突擊武器禁制法案的規定對該武器重新設計，不能再裝上消聲器，並研製了一個只能使用10發彈匣的新型[彈匣](../Page/彈匣.md "wikilink")釋放按鈕。新的武器被命名為PM11/9。
 
 ## 衍生型
 
@@ -40,17 +40,17 @@ MAC-10採用了[開放式槍栓](../Page/開放式槍栓.md "wikilink")（），
 ### 口徑、半自動手槍和卡賓槍型
 
 MAC-10亦有其卡賓槍版本，同樣發射[.45
-ACP彈](../Page/.45_ACP.md "wikilink")。在美國，全自動的MAC-10是受到（簡稱：NFA）條例所管制的武器，亦是所有全自動武器之中較便宜的一種（在2009年第一季的價錢大約是3,600[美元左右](../Page/美元.md "wikilink")）。\[7\]在1986年的[槍械擁有者保護法](https://zh.wikipedia.org/wiki/槍械擁有者保護法 "wikilink")（，簡稱：FOPA）前，這個價錢幾乎是持續的，並令MAC-10在向民間發售方面產生了一個價格上的問題。
+ACP彈](../Page/.45_ACP.md "wikilink")。在美國，全自動的MAC-10是受到（簡稱：NFA）條例所管制的武器，亦是所有全自動武器之中較便宜的一種（在2009年第一季的價錢大約是3,600[美元](../Page/美元.md "wikilink")左右）。\[7\]在1986年的[槍械擁有者保護法](https://zh.wikipedia.org/wiki/槍械擁有者保護法 "wikilink")（，簡稱：FOPA）前，這個價錢幾乎是持續的，並令MAC-10在向民間發售方面產生了一個價格上的問題。
 
 另外還有幾千枝半自動手槍和卡賓槍是按原來的MAC-10設計而成。原本這些都是[開放式槍栓](../Page/開放式槍栓.md "wikilink")，後來改為設計，這是針對[美国](../Page/美国.md "wikilink")[菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")（，簡稱：ATF）的規則在1980年代初開始，禁止半自動開放式槍栓設計的條例改變。
 
 名著武器（）所生產的半自動MAC-10衍生型被命名為MPA-10。\[8\]它不同於原來的MAC-10，其槍機種類為閉鎖式槍栓，而非原來的MAC-10的開放式槍栓。這樣可使其比採用開放式槍栓射擊更為[準確](../Page/準確與精密.md "wikilink")，而且半自動槍械並不多需要開放式槍栓射擊時的額外冷卻。
 
-MPA-10可以分為以下幾種版本。裝上[槍托的型號有](../Page/槍托.md "wikilink")152.4毫米（6英吋）的[槍管](../Page/槍管.md "wikilink")（外表上和原來的MAC-10相似），修改以後就把改為側面，頂部就改為[戰術導軌以安裝瞄準鏡](https://zh.wikipedia.org/wiki/戰術導軌 "wikilink")。其中一款型號有254毫米（10英吋）的槍管和類似[AR-15系列風格的前](../Page/AR-15自動步槍.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+MPA-10可以分為以下幾種版本。裝上[槍托](../Page/槍托.md "wikilink")的型號有152.4毫米（6英吋）的[槍管](../Page/槍管.md "wikilink")（外表上和原來的MAC-10相似），修改以後就把改為側面，頂部就改為[戰術導軌以安裝瞄準鏡](https://zh.wikipedia.org/wiki/戰術導軌 "wikilink")。其中一款型號有254毫米（10英吋）的槍管和類似[AR-15系列風格的前](../Page/AR-15自動步槍.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
 
 名著武器還生產了其「步槍」版本，例如有406.4毫米（16英吋）的槍管、肩射用的槍托、以及類似AR-15系列風格的前護木，就很像10英吋槍管的版本。這更像是一枝卡賓槍，而不是一支手槍，但設計上仍然是建基於MAC-10。
 
-另一種衍生型，是一種越來越流行的根據[國家槍械法案](https://zh.wikipedia.org/wiki/國家槍械法案 "wikilink")（，簡稱：NFA）的槍械登記的方式，就像拉赫公司（）生產的低射速型MAC-10的上[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，被稱為“MAX”上[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。該公司的總部設在[亞利桑那州的](../Page/亞利桑那州.md "wikilink")[錢德勒](../Page/钱德勒_\(亚利桑那州\).md "wikilink")。“MAX”上機匣可以將射速由原來的1,145發／分鐘（.45
+另一種衍生型，是一種越來越流行的根據[國家槍械法案](https://zh.wikipedia.org/wiki/國家槍械法案 "wikilink")（，簡稱：NFA）的槍械登記的方式，就像拉赫公司（）生產的低射速型MAC-10的上[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，被稱為“MAX”上[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。該公司的總部設在[亞利桑那州](../Page/亞利桑那州.md "wikilink")的[錢德勒](../Page/钱德勒_\(亚利桑那州\).md "wikilink")。“MAX”上機匣可以將射速由原來的1,145發／分鐘（.45
 ACP）和1,090發／分鐘（9毫米鲁格弹）減低至大約600發／分鐘（.45
 ACP）和700發／分鐘（9毫米鲁格弹）。上機匣頂部增加了[MIL-STD-1913戰術導軌以便裝上瞄準裝置](../Page/皮卡汀尼導軌.md "wikilink")，[護木並增加了導軌以便裝上](https://zh.wikipedia.org/wiki/護木 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[前握把](../Page/輔助握把.md "wikilink")，而由頂部改為右側。拉赫公司和實用解決公司（）\[9\]在目前市場上推出了[.22
 LR衍生型](../Page/.22_LR.md "wikilink")，它使用了經過修改的上機匣、.22
@@ -59,7 +59,7 @@ LR[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍管](../Page/槍�
 實用解決方案公司（）目前則是銷售轉換了上[機匣以將](https://zh.wikipedia.org/wiki/機匣 "wikilink")[口徑縮小至](https://zh.wikipedia.org/wiki/口徑 "wikilink")[.22
 LR口徑的衍生型](../Page/.22_LR.md "wikilink")，包括裝上.22 LR的槍管、槍機和彈匣。
 
-阿萊恩斯裝備公司（）目前是銷售另一種上[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，可以在無需修改以下使用[索米M1931冲锋枪的](../Page/索米M1931冲锋枪.md "wikilink")36
+阿萊恩斯裝備公司（）目前是銷售另一種上[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，可以在無需修改以下使用[索米M1931冲锋枪](../Page/索米M1931冲锋枪.md "wikilink")的36
 發可拆卸式[彈匣](../Page/彈匣.md "wikilink")、50 發四排彈匣和71
 發[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。他們也產生一個與[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[PPSh-41相容的口徑轉換用途上機匣](../Page/PPSh-41冲锋枪.md "wikilink")，這時發射的子彈具有低成本和高威力的優點，應該會變得很受歡迎，尤其是在[衝鋒槍競賽](https://zh.wikipedia.org/wiki/衝鋒槍競賽 "wikilink")（）之中。
 
@@ -79,11 +79,11 @@ BXP是一枝由[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[米切�
 
 #### 眼鏡蛇衝鋒槍
 
-眼鏡蛇土地保衛手槍（）是一枝起源於[羅德西亞](../Page/羅德西亞.md "wikilink")[布什戰爭年代所生產的半自動連](https://zh.wikipedia.org/wiki/布什戰爭_\(羅德西亞\) "wikilink")[槍托手槍](../Page/槍托.md "wikilink")，作為白人[農民的一枝](https://zh.wikipedia.org/wiki/鄉民 "wikilink")“土地保衛手槍”，發射[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")。這枝衝鋒槍有一部份設計是以烏茲衝鋒槍為基礎。
+眼鏡蛇土地保衛手槍（）是一枝起源於[羅德西亞](../Page/羅德西亞.md "wikilink")[布什戰爭年代所生產的半自動連](https://zh.wikipedia.org/wiki/布什戰爭_\(羅德西亞\) "wikilink")[槍托](../Page/槍托.md "wikilink")手槍，作為白人[農民的一枝](https://zh.wikipedia.org/wiki/鄉民 "wikilink")“土地保衛手槍”，發射[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")。這枝衝鋒槍有一部份設計是以烏茲衝鋒槍為基礎。
 
 #### 帕特里亞衝鋒槍
 
-帕特里亞衝鋒槍（；Pistola，意為：槍械；Ametralladora，意為：機槍；Patria，意為：祖國）是一枝英格拉姆MAC-10封閉仿製版本的衝鋒槍，並且配有類似南非[BXP衝鋒槍的](../Page/BXP衝鋒槍.md "wikilink")和延伸槍管。\[16\]這枝衝鋒槍是由[阿根廷空軍](../Page/阿根廷空軍.md "wikilink")[路易斯·里卡多·達維拉](https://zh.wikipedia.org/wiki/路易斯·里卡多·達維拉 "wikilink")[少校研製](../Page/少校.md "wikilink")，並在1980年8月20日得到國家專利n°
+帕特里亞衝鋒槍（；Pistola，意為：槍械；Ametralladora，意為：機槍；Patria，意為：祖國）是一枝英格拉姆MAC-10封閉仿製版本的衝鋒槍，並且配有類似南非[BXP衝鋒槍](../Page/BXP衝鋒槍.md "wikilink")的和延伸槍管。\[16\]這枝衝鋒槍是由[阿根廷空軍](../Page/阿根廷空軍.md "wikilink")[路易斯·里卡多·達維拉](https://zh.wikipedia.org/wiki/路易斯·里卡多·達維拉 "wikilink")[少校](../Page/少校.md "wikilink")研製，並在1980年8月20日得到國家專利n°
 220494/5/6/7。它發射[9毫米鲁格弹](../Page/9×19mm魯格彈.md "wikilink")，以便運輸，並可以在左右兩手操作。
 
 #### Enarm衝鋒槍
@@ -270,7 +270,7 @@ T77衝鋒槍是[中華民國](../Page/中華民國.md "wikilink")[聯勤](https:
 
 ## 流行文化
 
-MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[荷里活電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")）、[电视剧](../Page/电视剧.md "wikilink")、[电脑游戏和](../Page/电脑游戏.md "wikilink")[动画裡](../Page/动画.md "wikilink")，例如：
+MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[荷里活電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")）、[电视剧](../Page/电视剧.md "wikilink")、[电脑游戏](../Page/电脑游戏.md "wikilink")和[动画](../Page/动画.md "wikilink")裡，例如：
 
 ### 电影
 
@@ -278,21 +278,21 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     zh-mo:鐵金剛勇破黑魔黨;}-](../Page/鐵金剛勇破黑魔黨.md "wikilink")》（Live
     and Let Die）：被坎南迦的手下所使用。
   - 1979年—《[-{zh-cn:铁金刚勇破太空城; zh-tw:太空城;
-    zh-hk:鐵金剛勇破太空城;}-](../Page/鐵金剛勇破太空城.md "wikilink")》（Moonraker）：裝上廷長槍管並且被大鋼牙（Jaws，[李察·基路飾演](../Page/李察·基路.md "wikilink")）所使用。
+    zh-hk:鐵金剛勇破太空城;}-](../Page/鐵金剛勇破太空城.md "wikilink")》（Moonraker）：裝上廷長槍管並且被大鋼牙（Jaws，[李察·基路](../Page/李察·基路.md "wikilink")飾演）所使用。
   - 1981年—《[-{zh-tw:紐約大逃亡; zh-cn:纽约大逃亡;
     zh-hk:逃出紐約;}-](../Page/纽约大逃亡.md "wikilink")》（Escape
     from New
-    York）：裝上[抑制器及瞄準鏡](../Page/抑制器.md "wikilink")，被[S.D.巴布·「大蛇」·普利斯金](../Page/大蛇·普利斯金.md "wikilink")（S.D.
-    Bob「Snake」Plissken，[寇特·羅素飾演](../Page/寇特·羅素.md "wikilink")）所使用。
-  - 1985年—《[突擊隊員](../Page/突击队员_\(电影\).md "wikilink")》（Commando）：被庫克（Cooke，[比爾·杜克飾演](../Page/比爾·杜克.md "wikilink")）和迪亞茲（Diaz，[加里·塞萬提斯飾演](https://zh.wikipedia.org/wiki/加里·塞萬提斯 "wikilink")）所使用。
+    York）：裝上[抑制器](../Page/抑制器.md "wikilink")及瞄準鏡，被[S.D.巴布·「大蛇」·普利斯金](../Page/大蛇·普利斯金.md "wikilink")（S.D.
+    Bob「Snake」Plissken，[寇特·羅素](../Page/寇特·羅素.md "wikilink")飾演）所使用。
+  - 1985年—《[突擊隊員](../Page/突击队员_\(电影\).md "wikilink")》（Commando）：被庫克（Cooke，[比爾·杜克](../Page/比爾·杜克.md "wikilink")飾演）和迪亞茲（Diaz，[加里·塞萬提斯飾演](https://zh.wikipedia.org/wiki/加里·塞萬提斯 "wikilink")）所使用。
   - 1985年—《》（Rambo: First Blood Part II）：一支裝上消聲器的MAC-10被Co
     Bao潛入敵軍陣地營救藍波時所使用。
   - 1986年—《[邊緣戰士](../Page/边缘战士_\(电影\).md "wikilink")》（Raw
     Deal）：被帕托維塔的士兵在最後的賭場大戰時所使用。
   - 1986年—《[英雄本色](../Page/英雄本色_\(1986年電影\).md "wikilink")》（A Better
-    Tomorrow）：被譚成（[李子雄飾演](../Page/李子雄.md "wikilink")）所使用。
+    Tomorrow）：被譚成（[李子雄](../Page/李子雄.md "wikilink")飾演）所使用。
   - 1987年—《[-{zh:機器戰警; zh-hans:机械战警; zh-tw:機器戰警;
-    zh-hk:鐵甲威龍;}-](https://zh.wikipedia.org/wiki/機器戰警 "wikilink")》（RoboCop）：裝上改裝[槍托及](../Page/槍托.md "wikilink")[槍口制退器](../Page/砲口制動器.md "wikilink")。
+    zh-hk:鐵甲威龍;}-](https://zh.wikipedia.org/wiki/機器戰警 "wikilink")》（RoboCop）：裝上改裝[槍托](../Page/槍托.md "wikilink")及[槍口制退器](../Page/砲口制動器.md "wikilink")。
   - 1988年—《[-{zh-hans:諜影重重; zh-hk:叛諜追擊;
     zh-tw:神鬼認證;}-](../Page/神鬼認證_\(1988年電影\).md "wikilink")》（The
     Bourne
@@ -305,8 +305,8 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     Abyss）：裝上廷長槍管並且被海勒姆·科菲（Hiram
     Coffey，[米高·比恩飾演](https://zh.wikipedia.org/wiki/米高·比恩 "wikilink")）所使用。
   - 1989年—《[黑雨](https://zh.wikipedia.org/wiki/黑雨_\(美國電影\) "wikilink")》（Black
-    Rain）：裝上[抑制器並且被佐藤浩史](../Page/抑制器.md "wikilink")（松田優作飾演）所使用。
-  - 1989年—《[哥吉拉vs碧奧蘭蒂](../Page/哥吉拉vs碧奧蘭蒂.md "wikilink")》（ゴジラvsビオランテ）：在[東京採集](https://zh.wikipedia.org/wiki/東京 "wikilink")[哥吉拉細胞的](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")[美国生化中隊所持有的武器](../Page/美国.md "wikilink")。
+    Rain）：裝上[抑制器](../Page/抑制器.md "wikilink")並且被佐藤浩史（松田優作飾演）所使用。
+  - 1989年—《[哥吉拉vs碧奧蘭蒂](../Page/哥吉拉vs碧奧蘭蒂.md "wikilink")》（ゴジラvsビオランテ）：在[東京採集](https://zh.wikipedia.org/wiki/東京 "wikilink")[哥吉拉細胞的](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")[美国](../Page/美国.md "wikilink")生化中隊所持有的武器。
   - 1991年—《[-{zh-hans:终结者2：审判日; zh-tw:魔鬼終結者2;
     zh-hk:未來戰士續集;}-](../Page/终结者2：审判日.md "wikilink")》（Terminator
     2: Judgment Day）：在軍火庫一幕之中出現。
@@ -316,8 +316,8 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
   - 1994年—《[-{zh-hans:真实的谎言; zh-tw:魔鬼大帝：真實謊言;
     zh-hk:真實謊言;}-](../Page/真实的谎言.md "wikilink")》（True
     Lies）：被海伦·塔斯克（Helen
-    Tasker，[潔美·李·寇蒂斯飾演](../Page/潔美·李·寇蒂斯.md "wikilink")）及哈里·塔斯克（Harry
-    Tasker，[阿诺·施瓦辛格飾演](../Page/阿诺·施瓦辛格.md "wikilink")，[雙持](../Page/雙持.md "wikilink")）所使用。
+    Tasker，[潔美·李·寇蒂斯](../Page/潔美·李·寇蒂斯.md "wikilink")飾演）及哈里·塔斯克（Harry
+    Tasker，[阿诺·施瓦辛格](../Page/阿诺·施瓦辛格.md "wikilink")飾演，[雙持](../Page/雙持.md "wikilink")）所使用。
   - 1994年—《[-{zh-hans:低俗小说; zh-tw:黑色追緝令;
     zh-hk:危險人物;}-](../Page/低俗小说.md "wikilink")》（Pulp
     Fiction）
@@ -336,7 +336,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     zh-tw:詹姆士·龐德; zh-hk:占士·邦;}-](../Page/占士邦.md "wikilink")（James
     Bond，[-{zh-hans:皮尔斯·布鲁斯南;zh-hk:皮雅斯·布士南;zh-tw:皮爾斯·布洛斯南;}-飾演](https://zh.wikipedia.org/wiki/皮尔斯·布鲁斯南 "wikilink")）所使用。
   - 2003年—《[致命摇篮](../Page/致命摇篮.md "wikilink")》（Cradle 2 the
-    Grave）：被蘇娜（[胡凯莉飾演](../Page/胡凯莉.md "wikilink")）所使用。
+    Grave）：被蘇娜（[胡凯莉](../Page/胡凯莉.md "wikilink")飾演）所使用。
   - 2003年—《[反恐特警组](https://zh.wikipedia.org/wiki/反恐特警组_\(2003年影片\) "wikilink")》（S.W.A.T.）
   - 2006年—《[-{zh:無間道風雲; zh-hans:无间道风云; zh-tw:神鬼無間;
     zh-hk:無間道風雲;}-](https://zh.wikipedia.org/wiki/神鬼無間 "wikilink")》（The
@@ -351,10 +351,10 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     High Voltage）：在脫衣舞台槍戰中被一名黑幫成員所使用。
   - 2010年—《[-{zh-cn:弯刀;
     zh-tw:怒火狂飆;}-](../Page/弯刀_\(电影\).md "wikilink")》（Machete）：被護士蒙娜（Mona，[伊萊克特拉·艾維倫飾演](https://zh.wikipedia.org/wiki/伊萊克特拉·艾維倫 "wikilink")）、護士麗莎（Lisa，[埃莉斯·艾維倫飾演](https://zh.wikipedia.org/wiki/埃莉斯·艾維倫 "wikilink")）和布斯（April
-    Booth，[琳賽·蘿涵飾演](../Page/琳賽·蘿涵.md "wikilink")；裝上[抑制器](../Page/抑制器.md "wikilink")）所使用。
+    Booth，[琳賽·蘿涵](../Page/琳賽·蘿涵.md "wikilink")飾演；裝上[抑制器](../Page/抑制器.md "wikilink")）所使用。
   - 2010年—《[-{zh-cn:城中大盗; zh-tw:竊盜城;
     zh-hk:狂盜之城;}-](../Page/城中大盗.md "wikilink")》（The
-    Town）：移除[槍托並且被德斯蒙德](../Page/槍托.md "wikilink")·“費爾南德斯”埃爾登（Desmond
+    Town）：移除[槍托](../Page/槍托.md "wikilink")並且被德斯蒙德·“費爾南德斯”埃爾登（Desmond
     "Dez"
     Elden，[歐文·伯克飾演](https://zh.wikipedia.org/wiki/歐文·伯克 "wikilink")）所使用。
   - 2012年—《》（Safe）：型號為MAC-10，被[中國](../Page/中國.md "wikilink")[有組織犯罪集團用來在飯店一樓與](https://zh.wikipedia.org/wiki/有組織犯罪集團 "wikilink")[紐約市警察局警員槍戰](https://zh.wikipedia.org/wiki/紐約市警察局 "wikilink")。
@@ -437,7 +437,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
   - 2010年—《[-{zh-cn:合金装备：和平行者;
     zh-tw:潛龍諜影：和平先驅;}-](https://zh.wikipedia.org/wiki/潛龍諜影：和平先驅 "wikilink")》（Metal
     Gear Solid: Peace
-    Walker）：命名為「M10」，可裝上[抑制器或延長槍管](../Page/抑制器.md "wikilink")。
+    Walker）：命名為「M10」，可裝上[抑制器](../Page/抑制器.md "wikilink")或延長槍管。
   - 2007年—《[-{zh-cn:古墓丽影：重返禁地; zh-tw:古墓奇兵：重返禁地;
     zh-hk:盜墓者羅拉：重返禁地;}-](../Page/古墓奇兵：重返禁地.md "wikilink")》（Lara
     Croft Tomb Raider: Anniversary）：命名為「迷你衝鋒槍」，雙持。
@@ -453,7 +453,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
   - 2009年—《[-{zh-cn:求生之路2;
     zh-tw:惡靈勢力2;}-](../Page/求生之路2.md "wikilink")》（Left
     4 Dead
-    2）：命名為「消聲衝鋒槍」，50發[彈匣](../Page/彈匣.md "wikilink")，裝上[手電筒及](../Page/手電筒.md "wikilink")[抑制器](../Page/抑制器.md "wikilink")。
+    2）：命名為「消聲衝鋒槍」，50發[彈匣](../Page/彈匣.md "wikilink")，裝上[手電筒](../Page/手電筒.md "wikilink")及[抑制器](../Page/抑制器.md "wikilink")。
   - 2010年—《[-{zh-cn:战地：叛逆连队2：越南;
     zh-tw:戰地風雲：惡名昭彰2：再戰越南;}-](https://zh.wikipedia.org/wiki/战地：叛逆连队2#資料片 "wikilink")》（Battlefield:
     Bad Company 2:
@@ -490,7 +490,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     ACP子彈](../Page/.45_ACP.md "wikilink")，15+1發彈匣（可使用改裝：延長彈匣增至30+1發），最高攜彈量為64+16發（可使用改裝：延長彈匣增至105+21發；故事模式），劇情模式當中則能夠被主角尼古拉斯·門多薩所使用，也普遍地被罪犯和「理想結果」（Preferred
     Outcomes）的隊員所使用。聯機模式中被兩方專業人士（Professional）所使用，於完成小任務「第2級專業人士」（Professional
     Assignment
-    2，以狙擊步槍射殺25人和獲得5枚鏡頭代幣）時才能解鎖，預設配備[抑制器和](../Page/抑制器.md "wikilink")[槍托](../Page/槍托.md "wikilink")。可加裝各種進階[照準器](../Page/照準器.md "wikilink")（迷你、德爾塔）、附加配件（[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、槍托、延長彈匣（增至20+1發））及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
+    2，以狙擊步槍射殺25人和獲得5枚鏡頭代幣）時才能解鎖，預設配備[抑制器](../Page/抑制器.md "wikilink")和[槍托](../Page/槍托.md "wikilink")。可加裝各種進階[照準器](../Page/照準器.md "wikilink")（迷你、德爾塔）、附加配件（[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、槍托、延長彈匣（增至20+1發））及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
   - 2016年—《[-{zh-hans:使命召唤：现代战争; zh-hk:決勝時刻：現代戰爭;
     zh-tw:決勝時刻：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call
     of Duty: Modern Warfare
@@ -707,7 +707,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     S.L. ISBN 84-8463-013-7.
 
 29.
-30. 有一批數量不詳的9毫米[口徑MAC](https://zh.wikipedia.org/wiki/口徑 "wikilink")-10是由*[第五部門火器](https://zh.wikipedia.org/wiki/第五部門火器 "wikilink")*（）有限公司所生產的，第五部門火器有限公司所製造的MAC-10採用和烏茲衝鋒槍一樣外型的握把和[彈匣釋放按鈕](../Page/彈匣.md "wikilink")）
+30. 有一批數量不詳的9毫米[口徑MAC](https://zh.wikipedia.org/wiki/口徑 "wikilink")-10是由*[第五部門火器](https://zh.wikipedia.org/wiki/第五部門火器 "wikilink")*（）有限公司所生產的，第五部門火器有限公司所製造的MAC-10採用和烏茲衝鋒槍一樣外型的握把和[彈匣](../Page/彈匣.md "wikilink")釋放按鈕）
 
 31.
 32.

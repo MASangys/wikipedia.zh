@@ -6,7 +6,7 @@ year_of_creation = 2000年 | derived_from = | replaced_by = | website
 =  }}
 [HONDA_ASIMO.jpg](https://zh.wikipedia.org/wiki/File:HONDA_ASIMO.jpg "fig:HONDA_ASIMO.jpg")上的ASIMO\]\]
 
-**ASIMO**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：**アシモ**）是[日本](../Page/日本.md "wikilink")[本田技研工業所開發的](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")[類人型機器人](../Page/類人型機器人.md "wikilink")，站立時約130[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")，重54[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。ASIMO外型酷似一位背著背包的[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")，而且可以時速6[公里的速度前進](../Page/公里.md "wikilink")。ASIMO是從一系列的所發展出來的。
+**ASIMO**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：**アシモ**）是[日本](../Page/日本.md "wikilink")[本田技研工業所開發的](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")[類人型機器人](../Page/類人型機器人.md "wikilink")，站立時約130[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")，重54[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。ASIMO外型酷似一位背著背包的[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")，而且可以時速6[公里](../Page/公里.md "wikilink")的速度前進。ASIMO是從一系列的所發展出來的。
 
 ## 現況
 
@@ -138,7 +138,7 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 
   - [Atlas机器人](../Page/Atlas机器人.md "wikilink")
 
-  - [人形機器人(Android}](../Page/人形機器人.md "wikilink")
+  - [人形機器人](../Page/人形機器人.md "wikilink")(Android}
 
   - [NAO (机器人)](https://zh.wikipedia.org/wiki/NAO_\(机器人\) "wikilink")
 

@@ -1,5 +1,5 @@
 **to
-Heart**，又名**至死不渝的戀**，是1999年7月2日～1999年9月17日每週五晚上九點由[TBS播放的一部](../Page/TBS.md "wikilink")[电视剧](../Page/日本电视剧.md "wikilink")。由[堂本刚和](https://zh.wikipedia.org/wiki/堂本刚 "wikilink")[深田恭子主演](../Page/深田恭子.md "wikilink")。全12集。
+Heart**，又名**至死不渝的戀**，是1999年7月2日～1999年9月17日每週五晚上九點由[TBS](../Page/TBS.md "wikilink")播放的一部[电视剧](../Page/日本电视剧.md "wikilink")。由[堂本刚和](https://zh.wikipedia.org/wiki/堂本刚 "wikilink")[深田恭子](../Page/深田恭子.md "wikilink")主演。全12集。
 
 ## 登場人物
 

@@ -10,7 +10,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 2009年2月13日官方網站設立時僅僅告知了雜誌名和預定創刊日期，未明確透露細節。但是在2月21日發售的POWERED
 4月號以及2月26日發售的WING4月號宣布了兩刊休刊和部分在兩刊連載的作品將轉移到JOKER的相關消息，還有JOKER也公布了嶄新的連載陣容。
 
-此外JOKER將延續POWERED的後期路線，把氣力投放在原作為[同人遊戲的漫畫作品上](../Page/同人遊戲.md "wikilink")。
+此外JOKER將延續POWERED的後期路線，把氣力投放在原作為[同人遊戲](../Page/同人遊戲.md "wikilink")的漫畫作品上。
 
 ## 連載作品
 
@@ -51,7 +51,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 </tr>
 <tr class="odd">
 <td><p>02</p></td>
-<td><p><a href="../Page/屍體派對.md" title="wikilink">屍體派對BloodCovered</a></p></td>
+<td><p><a href="../Page/屍體派對.md" title="wikilink">屍體派對</a>BloodCovered</p></td>
 <td><p>（作畫）</p></td>
 <td><p>祁答院慎（原作、監修）</p></td>
 <td><p>2009.05</p></td>
@@ -115,7 +115,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 </tr>
 <tr class="even">
 <td><p>09</p></td>
-<td><p><a href="../Page/文學少女.md" title="wikilink">文學少女與渴望死亡的小丑</a></p></td>
+<td><p><a href="../Page/文學少女.md" title="wikilink">文學少女</a>與渴望死亡的小丑</p></td>
 <td><p>（作畫）</p></td>
 <td><p><a href="../Page/野村美月.md" title="wikilink">野村美月</a>（原作）<br />
 <a href="https://zh.wikipedia.org/wiki/竹岡美穗" title="wikilink">竹岡美穗</a>（角色原案）</p></td>
@@ -361,7 +361,7 @@ Avra（原作、劇本）</p></td>
 </tr>
 <tr class="odd">
 <td><p>34</p></td>
-<td><p><a href="../Page/文學少女.md" title="wikilink">文學少女與渴求真愛的幽靈</a></p></td>
+<td><p><a href="../Page/文學少女.md" title="wikilink">文學少女</a>與渴求真愛的幽靈</p></td>
 <td><p>（作畫）</p></td>
 <td><p><a href="../Page/野村美月.md" title="wikilink">野村美月</a>（原作）<br />
 <a href="https://zh.wikipedia.org/wiki/竹岡美穂" title="wikilink">竹岡美穂</a>（角色原案）</p></td>

@@ -1,8 +1,8 @@
 [Autoconf-automake-process.svg](https://zh.wikipedia.org/wiki/File:Autoconf-automake-process.svg "fig:Autoconf-automake-process.svg")
 **GNU
-Automake**是一種編程工具，可以產生供[make程式使用的Makefile](https://zh.wikipedia.org/wiki/make "wikilink")，用來編譯程式。它是[自由軟體基金會發起的](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")[GNU計劃的其中一項](../Page/GNU計劃.md "wikilink")，作為[GNU構建系統的一部分](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")。automake所產生的Makefile符合GNU編程標準。
+Automake**是一種編程工具，可以產生供[make程式使用的Makefile](https://zh.wikipedia.org/wiki/make "wikilink")，用來編譯程式。它是[自由軟體基金會發起的](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")[GNU計劃](../Page/GNU計劃.md "wikilink")的其中一項，作為[GNU構建系統的一部分](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")。automake所產生的Makefile符合GNU編程標準。
 
-automake是由[Perl語言所寫的](../Page/Perl.md "wikilink")，必須和[GNU
+automake是由[Perl](../Page/Perl.md "wikilink")語言所寫的，必須和[GNU
 autoconf一併使用](https://zh.wikipedia.org/wiki/autoconf "wikilink")。automake包含了以下命令：
 
   - *aclocal*
@@ -18,7 +18,7 @@ Collection使用](../Page/GCC.md "wikilink")*aclocal*，即使Makefile是手寫�
 Automake目標是讓使用者透過高階語言來寫makefile，而不是透過純手工的方式來寫整個makefile。在簡單的情況下，它能提供：
 
   - source檔案的列表;
-  - 傳給[編譯器的command](../Page/編譯器.md "wikilink")-line選項列表（比如標頭檔置於哪個路徑）;
+  - 傳給[編譯器](../Page/編譯器.md "wikilink")的command-line選項列表（比如標頭檔置於哪個路徑）;
   - 傳給[連結器的command](https://zh.wikipedia.org/wiki/連結器 "wikilink")-line選項列表（程式需要哪些程式庫以及它們的路徑）。
 
 經由這些資訊，Automake產生makefile能夠讓使用者：
@@ -41,7 +41,7 @@ include指令在[C語言的source文件](https://zh.wikipedia.org/wiki/C語言 "
 
 ### Libtool
 
-Automake还可用来辅助库的编译，它可以自动生成调用[Libtool的Makefile文件](../Page/Libtool.md "wikilink")，从而使程序员避免了直接调用Libtool,而项目也可以从此可移植的库生成工具获益。
+Automake还可用来辅助库的编译，它可以自动生成调用[Libtool](../Page/Libtool.md "wikilink")的Makefile文件，从而使程序员避免了直接调用Libtool,而项目也可以从此可移植的库生成工具获益。
 
 ## 參見
 

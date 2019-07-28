@@ -2,14 +2,14 @@
 ENIX所发行的](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。
 于2004年12月3日起，[GANGAN
 YG正式更名为YOUNG](https://zh.wikipedia.org/wiki/GANGAN_YG "wikilink")
-GANGAN创刊，每月第一、第三个星期五销售。当时姐妹杂志[月刊少年GANGAN和](../Page/月刊少年GANGAN.md "wikilink")[月刊GFantasy还未出版](../Page/月刊GFantasy.md "wikilink")，现在也登载了很多专为该杂志作画的漫画家的作品。
+GANGAN创刊，每月第一、第三个星期五销售。当时姐妹杂志[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")和[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")还未出版，现在也登载了很多专为该杂志作画的漫画家的作品。
 
 创刊初期，以[ドラゴンクエスト列伝 ロトの紋章
 ～紋章を継ぐ者達へ～和](https://zh.wikipedia.org/wiki/ドラゴンクエスト列伝_ロトの紋章_～紋章を継ぐ者達へ～ "wikilink")[FINAL
 FANTASY XI～THE OUT OF
-ORDERS～为卖点](https://zh.wikipedia.org/wiki/FINAL_FANTASY_XI～THE_OUT_OF_ORDERS～ "wikilink")，而后者仅刊登了三期就停载了。在那之后，前者和[地上最强新娘](https://zh.wikipedia.org/wiki/地上最强新娘 "wikilink")、[黑神等等](../Page/黑神.md "wikilink")，转变为了幻想系列以及喜剧系列的专门杂志。与其他竞争对手相比，其动画化作品比起电视剧化的作品来说要更加多，是其一大特点。
+ORDERS～为卖点](https://zh.wikipedia.org/wiki/FINAL_FANTASY_XI～THE_OUT_OF_ORDERS～ "wikilink")，而后者仅刊登了三期就停载了。在那之后，前者和[地上最强新娘](https://zh.wikipedia.org/wiki/地上最强新娘 "wikilink")、[黑神](../Page/黑神.md "wikilink")等等，转变为了幻想系列以及喜剧系列的专门杂志。与其他竞争对手相比，其动画化作品比起电视剧化的作品来说要更加多，是其一大特点。
 
-2005年从第8期开始，便开始模仿已有的少年·青年向[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")，也开始在杂志上刊载新人[寫真偶像的相片](../Page/寫真偶像.md "wikilink")，封面从连载漫画的登场人物渐渐变成[水着寫真偶像](https://zh.wikipedia.org/wiki/水着 "wikilink")。此外，2006年起与渡边娱乐共同举办了新人电视明星考试[B-GIRL
+2005年从第8期开始，便开始模仿已有的少年·青年向[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")，也开始在杂志上刊载新人[寫真偶像](../Page/寫真偶像.md "wikilink")的相片，封面从连载漫画的登场人物渐渐变成[水着寫真偶像](https://zh.wikipedia.org/wiki/水着 "wikilink")。此外，2006年起与渡边娱乐共同举办了新人电视明星考试[B-GIRL
 Audition](https://zh.wikipedia.org/wiki/B-GIRL_Audition "wikilink")。
 
 于2007年6月，作为增刊号的[増刊YOUNG
@@ -63,7 +63,7 @@ GANGAN發行](../Page/月刊BIG_GANGAN.md "wikilink")。
   - Let's BIBBLE\!（梁慶一 原作：尹仁完）
   - [迷糊餐廳](../Page/迷糊餐廳.md "wikilink")（[高津カリノ](https://zh.wikipedia.org/wiki/高津カリノ "wikilink")）
   - んぐるわ会報（高尾じんぐ）
-  - [緋彈的亞莉亞AA](../Page/緋彈的亞莉亞.md "wikilink")（原作：[赤松中學](https://zh.wikipedia.org/wiki/赤松中學 "wikilink")
+  - [緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")AA（原作：[赤松中學](https://zh.wikipedia.org/wiki/赤松中學 "wikilink")
     漫画：[橘書画子](https://zh.wikipedia.org/wiki/橘書画子 "wikilink")
     角色原案：[こぶいち](https://zh.wikipedia.org/wiki/こぶいち "wikilink")、2010年22號-）
   - [+tic模型姊姊](../Page/+tic模型姊姊.md "wikilink")（栗井茶，不定期連載）

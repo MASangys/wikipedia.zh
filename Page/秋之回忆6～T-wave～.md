@@ -1,4 +1,4 @@
-**秋之回忆6～T-wave～**是[5pb.在](../Page/5pb..md "wikilink")2008年8月21日发售的[PS2用](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋愛冒险游戏](https://zh.wikipedia.org/wiki/恋愛冒险游戏 "wikilink")。[CERO的评级为适合](https://zh.wikipedia.org/wiki/CERO "wikilink")12岁以上玩家。本作是[秋之回忆系列的第](https://zh.wikipedia.org/wiki/秋之回忆系列 "wikilink")6作。副标题是“无可取代的爱情……就在身边”。
+**秋之回忆6～T-wave～**是[5pb.](../Page/5pb..md "wikilink")在2008年8月21日发售的[PS2用](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋愛冒险游戏](https://zh.wikipedia.org/wiki/恋愛冒险游戏 "wikilink")。[CERO的评级为适合](https://zh.wikipedia.org/wiki/CERO "wikilink")12岁以上玩家。本作是[秋之回忆系列的第](https://zh.wikipedia.org/wiki/秋之回忆系列 "wikilink")6作。副标题是“无可取代的爱情……就在身边”。
 
 故事发生在前作「[中断的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")」的1年之后\[1\]，发生的地点和系列第一作相同，都是澄空学園。和前作的“中斷的影片”一样，当达成2个女主人公（りりす和智紗）的Good
 End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之前的故事。
@@ -74,7 +74,7 @@ End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之
 
 ### CD
 
-[5pb.发售](../Page/5pb..md "wikilink")。
+[5pb.](../Page/5pb..md "wikilink")发售。
 
   - Memories Off6 \~T-wave\~　PERSONAL COLLECTION
 

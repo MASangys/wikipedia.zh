@@ -1,5 +1,5 @@
 《**阿衰on
-line**》是一部由[中国大陆漫画家](../Page/中国大陆.md "wikilink")[猫小乐](https://zh.wikipedia.org/wiki/猫小乐 "wikilink")（本名**陈乐**）编绘的[校园漫画](https://zh.wikipedia.org/wiki/校园漫画 "wikilink")，从2001年起在[云南出版集团公司旗下的](../Page/云南出版集团公司.md "wikilink")[云南教育出版社主办的月刊漫画杂志](../Page/云南教育出版社.md "wikilink")《[漫画派对](https://zh.wikipedia.org/wiki/漫画party "wikilink")》上连载。
+line**》是一部由[中国大陆](../Page/中国大陆.md "wikilink")漫画家[猫小乐](https://zh.wikipedia.org/wiki/猫小乐 "wikilink")（本名**陈乐**）编绘的[校园漫画](https://zh.wikipedia.org/wiki/校园漫画 "wikilink")，从2001年起在[云南出版集团公司](../Page/云南出版集团公司.md "wikilink")旗下的[云南教育出版社](../Page/云南教育出版社.md "wikilink")主办的月刊漫画杂志《[漫画派对](https://zh.wikipedia.org/wiki/漫画party "wikilink")》上连载。
 
 该漫画描述了[初中生阿衰和他的同学](https://zh.wikipedia.org/wiki/初中 "wikilink")、老师、家长之间发生的一桩桩生活、学习中的故事。故事剧情相对紧贴时事、滑稽爆笑，受到一些9学生的欢迎。
 
@@ -12,7 +12,7 @@ line**》是一部由[中国大陆漫画家](../Page/中国大陆.md "wikilink")
 ## 人物介绍
 
   - 阿衰
-    “怕踢中学”初中二年级学生，长相不帅，身材不高。普普通通并不优秀，生活环境一般，爱吃臭豆腐，超级喜欢F4的[朱孝天性格时而自卑时而自大](../Page/朱孝天.md "wikilink")，对一切新鲜事物都感兴趣，喜欢上网冲浪，暗恋隔壁班花。有多年[便秘史和](../Page/便秘.md "wikilink")[痔疮史](https://zh.wikipedia.org/wiki/痔疮 "wikilink")，放[屁很多](../Page/屁.md "wikilink")，令全班同学很苦恼。为人张扬轻浮，缺少稳重。好胡思乱想、不切实际、异想天开、总奢望天上掉馅饼。好吃懒做，不成熟。上课时少不了睡觉。
+    “怕踢中学”初中二年级学生，长相不帅，身材不高。普普通通并不优秀，生活环境一般，爱吃臭豆腐，超级喜欢F4的[朱孝天](../Page/朱孝天.md "wikilink")性格时而自卑时而自大，对一切新鲜事物都感兴趣，喜欢上网冲浪，暗恋隔壁班花。有多年[便秘](../Page/便秘.md "wikilink")史和[痔疮史](https://zh.wikipedia.org/wiki/痔疮 "wikilink")，放[屁](../Page/屁.md "wikilink")很多，令全班同学很苦恼。为人张扬轻浮，缺少稳重。好胡思乱想、不切实际、异想天开、总奢望天上掉馅饼。好吃懒做，不成熟。上课时少不了睡觉。
 
 <!-- end list -->
 

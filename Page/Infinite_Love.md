@@ -5,7 +5,7 @@ Love**』是2006年7月26日[ランティス發售的](https://zh.wikipedia.org/
 
   - 是[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")『[戀愛天使安琪莉可](https://zh.wikipedia.org/wiki/戀愛天使安琪莉可 "wikilink")』的片頭主題曲。
   - 這首Infinite
-    Love的主唱-[谷山紀章因為這首曲子在第](../Page/谷山紀章.md "wikilink")1回聲優歌唱獎（2007年）被提名過。
+    Love的主唱-[谷山紀章](../Page/谷山紀章.md "wikilink")因為這首曲子在第1回聲優歌唱獎（2007年）被提名過。
 
 ## 收錄曲
 

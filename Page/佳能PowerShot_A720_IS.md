@@ -1,7 +1,7 @@
 [Canon_A720_IS.jpg](https://zh.wikipedia.org/wiki/File:Canon_A720_IS.jpg "fig:Canon_A720_IS.jpg")
 
 **佳能 PowerShot A720
-IS**是一款[佳能](../Page/佳能.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")，于[2007年8月与](../Page/2007年8月.md "wikilink")[A570
+IS**是一款[佳能](../Page/佳能.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")，于[2007年8月](../Page/2007年8月.md "wikilink")与[A570
 IS及](https://zh.wikipedia.org/wiki/Canon_PowerShot_A570_IS "wikilink")[SX100
 IS一起推出](https://zh.wikipedia.org/wiki/Canon_PowerShot_SX100_IS "wikilink")。
 

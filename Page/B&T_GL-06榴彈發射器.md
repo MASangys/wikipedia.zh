@@ -3,7 +3,7 @@ GL-06**（）是一具由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wi
 
 ## 歷史
 
-在最近數年，隨著一些領先的[欧洲國家對騷亂控制和公共秩序維持能力提升的需求](../Page/欧洲.md "wikilink")，其[執法機關部隊對能發射](../Page/警察.md "wikilink")[非致命性彈藥的特殊防暴榴彈武器系統的要求也更高](../Page/非致命性武器.md "wikilink")，新一代榴彈系統正朝輕型化、大口徑且能發射各種[非致命性彈藥](../Page/非致命性武器.md "wikilink")（包括[閃光彈](https://zh.wikipedia.org/wiki/閃光彈 "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[催淚彈等](../Page/催淚彈.md "wikilink")）的方向發展。同時還應具有較高[精度](../Page/準確與精密.md "wikilink")，特別是在[對峙期間可以輕易](../Page/對峙.md "wikilink")、準確地針對人體弱點瞄準及射擊（這種情況通常是超出40公尺），對他倆只造成輕微的影響。於是，在[图恩](../Page/图恩.md "wikilink")（，，）的（簡稱：B\&T或B+T）公司在2008年為其客戶生產及提供了一種新武器和特殊彈藥，一種同時兼容於發射致命性彈藥的40毫米低速榴彈和非致命性彈藥的40毫米非致命性彈藥。
+在最近數年，隨著一些領先的[欧洲](../Page/欧洲.md "wikilink")國家對騷亂控制和公共秩序維持能力提升的需求，其[執法機關部隊對能發射](../Page/警察.md "wikilink")[非致命性彈藥的特殊防暴榴彈武器系統的要求也更高](../Page/非致命性武器.md "wikilink")，新一代榴彈系統正朝輕型化、大口徑且能發射各種[非致命性彈藥](../Page/非致命性武器.md "wikilink")（包括[閃光彈](https://zh.wikipedia.org/wiki/閃光彈 "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")等）的方向發展。同時還應具有較高[精度](../Page/準確與精密.md "wikilink")，特別是在[對峙](../Page/對峙.md "wikilink")期間可以輕易、準確地針對人體弱點瞄準及射擊（這種情況通常是超出40公尺），對他倆只造成輕微的影響。於是，在[图恩](../Page/图恩.md "wikilink")（，，）的（簡稱：B\&T或B+T）公司在2008年為其客戶生產及提供了一種新武器和特殊彈藥，一種同時兼容於發射致命性彈藥的40毫米低速榴彈和非致命性彈藥的40毫米非致命性彈藥。
 
 GL-06是一種專門給[軍隊和](../Page/武装力量.md "wikilink")[執法機關使用的獨立肩射型榴弹发射器](../Page/警察.md "wikilink")。
 
@@ -11,9 +11,9 @@ GL-06是一種專門給[軍隊和](../Page/武装力量.md "wikilink")[執法機
 
 ### 基本功能
 
-GL-06榴彈發射器是一具能夠執行多重戰術任務的獨立使用型第三代40毫米榴彈發射器系統。當使用非致命性彈藥時，它能有效地完成騷亂人群控制和治安任務；而當裝填高爆彈藥時，它是一款可靠的地面戰術支援武器。第三代40毫米榴彈系統的主要特點是採用新型材料，以大量[聚合物替代早期的](../Page/聚合物.md "wikilink")[鋼鐵和](../Page/钢.md "wikilink")[鋁合金材料](../Page/鋁合金.md "wikilink")，並且重新設計了[膛室和](../Page/膛室.md "wikilink")[槍管](../Page/槍管.md "wikilink")，採用上擺式或側擺式裝填方式，對[彈藥的最大長度不再有嚴格限制](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，而且可加裝光學瞄準鏡。
+GL-06榴彈發射器是一具能夠執行多重戰術任務的獨立使用型第三代40毫米榴彈發射器系統。當使用非致命性彈藥時，它能有效地完成騷亂人群控制和治安任務；而當裝填高爆彈藥時，它是一款可靠的地面戰術支援武器。第三代40毫米榴彈系統的主要特點是採用新型材料，以大量[聚合物](../Page/聚合物.md "wikilink")替代早期的[鋼鐵和](../Page/钢.md "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")材料，並且重新設計了[膛室](../Page/膛室.md "wikilink")和[槍管](../Page/槍管.md "wikilink")，採用上擺式或側擺式裝填方式，對[彈藥的最大長度不再有嚴格限制](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，而且可加裝光學瞄準鏡。
 
-[槍管與](../Page/槍管.md "wikilink")[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢材所製成](../Page/钢.md "wikilink")，而[槍托](../Page/槍托.md "wikilink")、等多個部件則是以[聚合物製成](../Page/聚合物.md "wikilink")，後者以包著機匣的方式裝在機匣上面。
+[槍管](../Page/槍管.md "wikilink")與[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢](../Page/钢.md "wikilink")材所製成，而[槍托](../Page/槍托.md "wikilink")、等多個部件則是以[聚合物](../Page/聚合物.md "wikilink")製成，後者以包著機匣的方式裝在機匣上面。
 
 ### 設計定位
 
@@ -26,33 +26,33 @@ GL-06的所有操作部件均可左右手通用，就連掛載戰術的圓孔也
 
 ### 保險
 
-與其他許多40毫米榴彈系統一樣，GL-06採用了扳機力較大的純雙動發射機構。對於爆炸威力巨大的榴彈而言，雙動發射機構其實兼具一種保險功能，即可以避免因扳機被意外輕觸而引起的偶然發火事故。在[扳機護圈前端有](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[槍管鎖定桿](../Page/槍管.md "wikilink")，向前推動鎖定桿即可打開槍管，完成裝彈或退殼等動作。其扳機護圈的空間較大，即使戴著厚[手套也能自如地進行操作](../Page/手套.md "wikilink")。[機匣後端設有橫閂式保險](https://zh.wikipedia.org/wiki/機匣 "wikilink")，將橫閂式保險推向右側時為保險狀態，保險將限制擊鎚的運動；將橫閂式保險推向左側時為解除保險狀態，此時保險左端的紅圈露出。
+與其他許多40毫米榴彈系統一樣，GL-06採用了扳機力較大的純雙動發射機構。對於爆炸威力巨大的榴彈而言，雙動發射機構其實兼具一種保險功能，即可以避免因扳機被意外輕觸而引起的偶然發火事故。在[扳機護圈前端有](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[槍管](../Page/槍管.md "wikilink")鎖定桿，向前推動鎖定桿即可打開槍管，完成裝彈或退殼等動作。其扳機護圈的空間較大，即使戴著厚[手套](../Page/手套.md "wikilink")也能自如地進行操作。[機匣後端設有橫閂式保險](https://zh.wikipedia.org/wiki/機匣 "wikilink")，將橫閂式保險推向右側時為保險狀態，保險將限制擊鎚的運動；將橫閂式保險推向左側時為解除保險狀態，此時保險左端的紅圈露出。
 
 ### 發射操作
 
-GL-06的發射操作簡單。裝填彈藥時，要以[槍管前端為](../Page/槍管.md "wikilink")[軸心](https://zh.wikipedia.org/wiki/軸心 "wikilink")，並且把槍管向上抬起，以向槍管膛室內裝填彈藥。然後下壓槍管後端使槍管閉合，此時底部卡座上的兩塊突筍卡在[機匣的卡口上](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍管就被牢牢鎖定。機匣內部裝上的[擊鎚具有自動回到待擊模式功能](https://zh.wikipedia.org/wiki/擊鎚 "wikilink")，只要扣動[雙動操作扳機以釋放其](https://zh.wikipedia.org/wiki/扳機 "wikilink")[內置式擊鎚](https://zh.wikipedia.org/wiki/內置式擊鎚 "wikilink")，向前撞擊[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[底火擊發榴彈](https://zh.wikipedia.org/wiki/底火 "wikilink")，榴彈就會在發射藥燃氣的作用下射出。
+GL-06的發射操作簡單。裝填彈藥時，要以[槍管](../Page/槍管.md "wikilink")前端為[軸心](https://zh.wikipedia.org/wiki/軸心 "wikilink")，並且把槍管向上抬起，以向槍管膛室內裝填彈藥。然後下壓槍管後端使槍管閉合，此時底部卡座上的兩塊突筍卡在[機匣的卡口上](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍管就被牢牢鎖定。機匣內部裝上的[擊鎚具有自動回到待擊模式功能](https://zh.wikipedia.org/wiki/擊鎚 "wikilink")，只要扣動[雙動操作扳機以釋放其](https://zh.wikipedia.org/wiki/扳機 "wikilink")[內置式擊鎚](https://zh.wikipedia.org/wiki/內置式擊鎚 "wikilink")，向前撞擊[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[底火擊發榴彈](https://zh.wikipedia.org/wiki/底火 "wikilink")，榴彈就會在發射藥燃氣的作用下射出。
 
 ### 彈藥
 
-GL-06可使用多種彈藥，基本上只要符合[40×46毫米規格的彈藥均可使用](../Page/40毫米榴彈.md "wikilink")。其採用與M79類似的[中折式裝填結構](../Page/中折式.md "wikilink")，而非[泵動式結構](https://zh.wikipedia.org/wiki/泵動式 "wikilink")（前推裝填），很大程度上是出於對彈藥兼容性的考慮。近年來40毫米榴彈家族呈現出繁榮的景象，各種新型彈藥層出不窮。既有集成攝像頭和數據傳輸功能的40毫米偵察榴彈，也有著有效射程達800[公尺](../Page/米_\(单位\).md "wikilink")（874.89[码](https://zh.wikipedia.org/wiki/码 "wikilink")，2,624.67[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）的中速榴彈，還有其他不同類型的40×46毫米防暴榴彈。而泵動式榴彈發射器不能裝填長度超過槍管前後移動距離的榴彈。因此，對需要使用各型非致命性彈藥的GL-06而言，中折式裝填結構較為適合。
+GL-06可使用多種彈藥，基本上只要符合[40×46毫米規格的彈藥均可使用](../Page/40毫米榴彈.md "wikilink")。其採用與M79類似的[中折式](../Page/中折式.md "wikilink")裝填結構，而非[泵動式結構](https://zh.wikipedia.org/wiki/泵動式 "wikilink")（前推裝填），很大程度上是出於對彈藥兼容性的考慮。近年來40毫米榴彈家族呈現出繁榮的景象，各種新型彈藥層出不窮。既有集成攝像頭和數據傳輸功能的40毫米偵察榴彈，也有著有效射程達800[公尺](../Page/米_\(单位\).md "wikilink")（874.89[码](https://zh.wikipedia.org/wiki/码 "wikilink")，2,624.67[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）的中速榴彈，還有其他不同類型的40×46毫米防暴榴彈。而泵動式榴彈發射器不能裝填長度超過槍管前後移動距離的榴彈。因此，對需要使用各型非致命性彈藥的GL-06而言，中折式裝填結構較為適合。
 
 另外，GL-06採用的是上擺式槍管結構。不採用[側擺式槍管結構是因為這種結構多用於下掛式榴彈發射器](https://zh.wikipedia.org/wiki/側擺式槍管 "wikilink")。為方便裝填彈藥，其槍管尾端還設有半圓開口，這一設計極具人性化。
 
 ### 瞄準具
 
-GL-06的[機械瞄具為](../Page/機械瞄具.md "wikilink")[鬼環式](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")[照門和帶護翼片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星的組合](../Page/照準器.md "wikilink")。作為預設、應急和備用瞄準具，鬼環式[照門既能確保較高的射擊](https://zh.wikipedia.org/wiki/照門 "wikilink")[精度](../Page/準確與精密.md "wikilink")，也能為使用者在各種光線條件下提供快速捕捉目標的能力。在使用標準40毫米彈藥時，機械瞄具的零刻度默認射程為25米，為確保發射精度，隨武器附送的使用指南中還列出了不同距離的瞄準點調整參數。射手經過簡單的練習，即可熟練地根據目標調整機械瞄具。
+GL-06的[機械瞄具](../Page/機械瞄具.md "wikilink")為[鬼環式](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")[照門和帶護翼片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星的組合](../Page/照準器.md "wikilink")。作為預設、應急和備用瞄準具，鬼環式[照門既能確保較高的射擊](https://zh.wikipedia.org/wiki/照門 "wikilink")[精度](../Page/準確與精密.md "wikilink")，也能為使用者在各種光線條件下提供快速捕捉目標的能力。在使用標準40毫米彈藥時，機械瞄具的零刻度默認射程為25米，為確保發射精度，隨武器附送的使用指南中還列出了不同距離的瞄準點調整參數。射手經過簡單的練習，即可熟練地根據目標調整機械瞄具。
 
-GL-06的槍管上方設有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以用以安裝[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪等配件](../Page/热成像仪.md "wikilink")。
+GL-06的槍管上方設有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以用以安裝[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")或[热成像仪](../Page/热成像仪.md "wikilink")等配件。
 
 ### 附件
 
-GL-06在槍管頂部以及[機匣前端左](https://zh.wikipedia.org/wiki/機匣 "wikilink")、右、下側安裝有合共4條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，讓使用者能夠根據需要加裝諸如光學瞄準具、[前握把及](../Page/輔助握把.md "wikilink")／或[戰術燈等多種附件](../Page/戰術燈.md "wikilink")。
+GL-06在槍管頂部以及[機匣前端左](https://zh.wikipedia.org/wiki/機匣 "wikilink")、右、下側安裝有合共4條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，讓使用者能夠根據需要加裝諸如光學瞄準具、[前握把及](../Page/輔助握把.md "wikilink")／或[戰術燈](../Page/戰術燈.md "wikilink")等多種附件。
 
-公司也為GL-06提供了多樣化的[槍托選擇](../Page/槍托.md "wikilink")，包括框架式槍托、桿式槍托以及塗裝不同色彩的款式等。由於GL-06主要使用[聚合物材料](../Page/聚合物.md "wikilink")，在沙漠或寒區等極端氣溫條件下操作時，使用者不必再像使用舊型號榴榴彈發射器系統那樣擔心手會被其所燙傷或凍傷。
+公司也為GL-06提供了多樣化的[槍托](../Page/槍托.md "wikilink")選擇，包括框架式槍托、桿式槍托以及塗裝不同色彩的款式等。由於GL-06主要使用[聚合物](../Page/聚合物.md "wikilink")材料，在沙漠或寒區等極端氣溫條件下操作時，使用者不必再像使用舊型號榴榴彈發射器系統那樣擔心手會被其所燙傷或凍傷。
 
 ## 衍生型
 
-另外，亦有一種特別設計用於非致命性版本的GL-06，命名為**LL-06**。雖然LL-06是GL-06的其中一種衍生型，但是最主要的分別就是槍身的部份[颜色變為](../Page/颜色.md "wikilink")[黄色](../Page/黄色.md "wikilink")，而且此武器完全能夠發射所有低膛壓的非致命性[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。由於槍身的部份颜色變為顯眼的黄色，在緊急使用亦能夠讓別人知道不是戰鬥用途。
+另外，亦有一種特別設計用於非致命性版本的GL-06，命名為**LL-06**。雖然LL-06是GL-06的其中一種衍生型，但是最主要的分別就是槍身的部份[颜色](../Page/颜色.md "wikilink")變為[黄色](../Page/黄色.md "wikilink")，而且此武器完全能夠發射所有低膛壓的非致命性[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。由於槍身的部份颜色變為顯眼的黄色，在緊急使用亦能夠讓別人知道不是戰鬥用途。
 
 ## 使用國
 
@@ -61,13 +61,14 @@ GL-06在槍管頂部以及[機匣前端左](https://zh.wikipedia.org/wiki/機匣
 
   -
   -   -
+  -   -
   -   - 警察單位
 
   -   -
 ## 流行文化
 
 B\&T
-GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")、[电子游戏和](../Page/电子游戏.md "wikilink")[动畫裡](https://zh.wikipedia.org/wiki/动畫 "wikilink")，例如：
+GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")和[动畫裡](https://zh.wikipedia.org/wiki/动畫 "wikilink")，例如：
 
 ### 电影
 
@@ -77,7 +78,7 @@ GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")�
   - 2013年—《[-{zh:柏林; zh-tw:柏林諜變; zh-hk:柏林諜變;
     zh-cn:柏林;}-](../Page/柏林_\(電影\).md "wikilink")》（The
     Berlin
-    File，）：裝上瞄準鏡和前握把，被[大韓民國國家情報院特工鄭志信](../Page/大韓民國國家情報院.md "wikilink")（[韓石圭飾演](../Page/韓石圭.md "wikilink")）所使用。
+    File，）：裝上瞄準鏡和前握把，被[大韓民國國家情報院](../Page/大韓民國國家情報院.md "wikilink")特工鄭志信（[韓石圭](../Page/韓石圭.md "wikilink")飾演）所使用。
 
 ### 电子游戏
 
@@ -100,7 +101,7 @@ GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")�
 ### 動畫
 
   - 2014年—《[寄生獸 生命的準則](../Page/寄生兽.md "wikilink")》（Parasyte -the
-    maxim-）：對抗寄生生物的東福山市政廳攻防戰中，被[陸上自衛隊中校山岸](../Page/陸上自衛隊.md "wikilink")（やまぎし，聲：[小山力也](../Page/小山力也.md "wikilink")）所使用。
+    maxim-）：對抗寄生生物的東福山市政廳攻防戰中，被[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")中校山岸（やまぎし，聲：[小山力也](../Page/小山力也.md "wikilink")）所使用。
 
 ## 參見
 

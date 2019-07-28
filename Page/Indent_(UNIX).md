@@ -1,4 +1,4 @@
-**indent**是一個自[Unix時代就已經存在的](https://zh.wikipedia.org/wiki/Unix "wikilink")[工具程式](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")，可依使用者自行定義的[程式設計風格重新縮排成](https://zh.wikipedia.org/wiki/程序风格 "wikilink")[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++程式碼的樣式](../Page/C++.md "wikilink")。至於對C++的支援則被認為是實驗性的。
+**indent**是一個自[Unix時代就已經存在的](https://zh.wikipedia.org/wiki/Unix "wikilink")[工具程式](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")，可依使用者自行定義的[程式設計風格重新縮排成](https://zh.wikipedia.org/wiki/程序风格 "wikilink")[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++](../Page/C++.md "wikilink")程式碼的樣式。至於對C++的支援則被認為是實驗性的。
 
 ## 使用範例
 

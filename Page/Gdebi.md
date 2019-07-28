@@ -1,6 +1,6 @@
 **Gdebi**
 是一个安装[.deb软件包的工具](https://zh.wikipedia.org/wiki/.deb "wikilink")。它提供了图形化的使用界面，但也有命令行选项。
-在[Ubuntu中会默认安装Gdebi](../Page/Ubuntu.md "wikilink")。
+在[Ubuntu](../Page/Ubuntu.md "wikilink")中会默认安装Gdebi。
 
 ## 技术
 

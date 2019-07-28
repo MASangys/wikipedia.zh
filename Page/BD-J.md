@@ -5,7 +5,7 @@ Blu-ray Disc Association 所開發。在藍光光碟中，使用 BD-J 的附加�
 中的更加洗練，可登入[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")（下載最新預告、觀賞幕後花絮等）及使用子母畫面與讀取[輔助儲存裝置](../Page/儲存裝置.md "wikilink")。支援播放藍光光碟影片的藍光光碟播放機都有支援
 BD-J 的義務，但初期的播放機並不支援登入網絡及讀取輔助儲存裝置與使用子母畫面的功能，（除了登入網絡之外）這些功能都稱作 "Bonus
 View" ，包含登入網絡在內的功能則稱作 "BD Live" 。2007年10月31日之後發售的藍光光碟播放機都有加裝 "Bonus
-View" 的義務，不過依不同機種，有些機種必須更新[韌體才可使用](../Page/韌體.md "wikilink")\[1\]。"BD
+View" 的義務，不過依不同機種，有些機種必須更新[韌體](../Page/韌體.md "wikilink")才可使用\[1\]。"BD
 Live" 現在則為附加功能。
 
 ## 技術
@@ -29,8 +29,8 @@ Application Platform（ACAP）。GEM 為
 [Eclipse](../Page/Eclipse.md "wikilink")
 的[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")，或是不使用程式語言的圖像式開發環境（如
 Macromedia Director 之類的軟體），另外也有使用解讀 HTML/XML/SVG
-等檔案格式之[排版引擎的方法](../Page/排版引擎.md "wikilink")。若將[程式語言開發環境整體加裝到藍光光碟播放機上](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，將實現可編寫出前所未有的先進內容之可能性。此種情況不限於標準的
-BD-J 介面，也可使用 Java 現有的[函式庫及應用服務架構](../Page/函式庫.md "wikilink")（BD-J 以 Java
+等檔案格式之[排版引擎](../Page/排版引擎.md "wikilink")的方法。若將[程式語言開發環境整體加裝到藍光光碟播放機上](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，將實現可編寫出前所未有的先進內容之可能性。此種情況不限於標準的
+BD-J 介面，也可使用 Java 現有的[函式庫](../Page/函式庫.md "wikilink")及應用服務架構（BD-J 以 Java
 1.3 版為基準）。
 
 ## 範例碼

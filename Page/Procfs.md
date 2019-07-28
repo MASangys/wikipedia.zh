@@ -1,7 +1,7 @@
 在许多类 [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 计算机系统中，
 **procfs** 是 [进程](https://zh.wikipedia.org/wiki/进程 "wikilink")
 [文件系统](../Page/文件系统.md "wikilink") (file system)
-的缩写，包含一个伪文件系统（启动时动态生成的文件系统），用于通过[内核访问进程信息](../Page/内核.md "wikilink")。这个文件系统通常被挂载到
+的缩写，包含一个伪文件系统（启动时动态生成的文件系统），用于通过[内核](../Page/内核.md "wikilink")访问进程信息。这个文件系统通常被挂载到
 `/proc` [目录](../Page/目录_\(文件系统\).md "wikilink")。由于 `/proc`
 不是一个真正的文件系统，它也就不占用存储空间，只是占用有限的内存。
 
@@ -59,7 +59,7 @@ Solaris 2.6 的 `/proc`（完成于 1996）也克隆了九號計畫.
 
 ### Linux
 
-[Linux中的](../Page/Linux.md "wikilink") `/proc`实现也克隆了
+[Linux](../Page/Linux.md "wikilink")中的 `/proc`实现也克隆了
 [九號計畫](../Page/貝爾實驗室九號計畫.md "wikilink") 中对应的部分。
 
 每个正在运行的进程对应于`/proc`下的一个目录，目录名就是进程的PID，每个目录包含:
@@ -74,9 +74,9 @@ Solaris 2.6 的 `/proc`（完成于 1996）也克隆了九號計畫.
   - , 最初的[可执行文件的符号链接](https://zh.wikipedia.org/wiki/可执行文件 "wikilink"),
     如果它还存在的话。
 
-  - , 一个目录，包含每个打开的[文件描述符的符号链接](../Page/文件描述符.md "wikilink").
+  - , 一个目录，包含每个打开的[文件描述符](../Page/文件描述符.md "wikilink")的符号链接.
 
-  - , 一个目录，包含每个打开的[文件描述符的位置和标记](../Page/文件描述符.md "wikilink")
+  - , 一个目录，包含每个打开的[文件描述符](../Page/文件描述符.md "wikilink")的位置和标记
 
   - , 一个文本文件包含文件与块的信息。
 
@@ -164,9 +164,9 @@ package是指单独封装的一颗CPU。这可以区分[超线程与双核](http
   - , 一个设备号、尺寸与名的列表，内核用于辨别已存在的[硬盘分区](../Page/硬盘分区.md "wikilink")
 
   - ,
-    给出任何通过[SCSI或](https://zh.wikipedia.org/wiki/SCSI "wikilink")[RAID控制器挂接的设备的信息](../Page/RAID.md "wikilink")
+    给出任何通过[SCSI或](https://zh.wikipedia.org/wiki/SCSI "wikilink")[RAID](../Page/RAID.md "wikilink")控制器挂接的设备的信息
 
-  - (即其中[进程ID是当前进程的](../Page/进程ID.md "wikilink")) 为当前进程的符号链接
+  - (即其中[进程ID](../Page/进程ID.md "wikilink")是当前进程的) 为当前进程的符号链接
 
   - , Linux内核频繁使用的对象的统计信息
 

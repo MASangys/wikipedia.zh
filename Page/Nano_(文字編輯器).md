@@ -8,14 +8,14 @@ operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink
 [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =
 <http://nano-editor.org/> }}
 
-**nano**是[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统中的一个文本编辑器](https://zh.wikipedia.org/wiki/类Unix "wikilink")，是[Pico的複製品](../Page/Pico.md "wikilink")（[clone](https://zh.wikipedia.org/wiki/clone "wikilink")）。nano的目标是类似Pico的全功能但又易于使用的编辑器。nano是遵守[GNU通用公共许可证的](../Page/GNU通用公共许可证.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，自从2.0.7版发布，许可证从[GPLv2升级到](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")[GPLv3](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")。
+**nano**是[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统中的一个文本编辑器](https://zh.wikipedia.org/wiki/类Unix "wikilink")，是[Pico](../Page/Pico.md "wikilink")的複製品（[clone](https://zh.wikipedia.org/wiki/clone "wikilink")）。nano的目标是类似Pico的全功能但又易于使用的编辑器。nano是遵守[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")，自从2.0.7版发布，许可证从[GPLv2升级到](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")[GPLv3](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")。
 
 ## 历史
 
 nano最早在1999年由发布，名字叫*TIP*（*TIP isn't
 Pico*，TIP不是Pico）。因为Pico和Pine都不是自由软件，他想要做一个自由软件来代替Pico。2000年1月10日，此软件正式改名为nano，目的是为了不和Unix的命令混淆。nano这个名字来自于[国际单位制词头](../Page/国际单位制词头.md "wikilink")*[nano](https://zh.wikipedia.org/wiki/奈 "wikilink")*（10<sup>-9</sup>，大陆翻译为“纳”，台湾翻译为“奈”，如“-{纳米}-”或“-{奈米}-”），意思是nano是[pico](https://zh.wikipedia.org/wiki/皮可 "wikilink")（pico也是国际单位制的词头，是10<sup>-12</sup>，翻译为“皮”，如“皮米”）的一千倍。2001年2月，nano成为[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")。
 
-后来，nano增加了一些Pico所没有的功能，比如支持彩色的文本（语法高亮）、[正则表达式搜索和替换](../Page/正则表达式.md "wikilink")、平滑滚动、支持多个缓冲区。
+后来，nano增加了一些Pico所没有的功能，比如支持彩色的文本（语法高亮）、[正则表达式](../Page/正则表达式.md "wikilink")搜索和替换、平滑滚动、支持多个缓冲区。
 
 2003年8月11日Chris Allegretta将nano的开发版的维护工作交给了。\[1\]2007年12月20日，David
 Lawrence Ramsey正式从维护者行列退休。\[2\]

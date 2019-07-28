@@ -3,8 +3,8 @@
 
 动画角色 “Miss Workrave” 在屏幕上四处游走，做伸展运动\[1\]\[2\]\[3\]
 
-本软件使用[GTK+图像](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[部件工具箱（widget
-toolkit）](../Page/部件工具箱.md "wikilink")，以及其他[GNOME库](../Page/GNOME.md "wikilink")。\[4\]
+本软件使用[GTK+图像](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[部件工具箱
+toolkit）](../Page/部件工具箱.md "wikilink")（widget，以及其他[GNOME](../Page/GNOME.md "wikilink")库。\[4\]
 
 ## 其他
 

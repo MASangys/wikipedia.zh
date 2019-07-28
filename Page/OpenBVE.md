@@ -2,7 +2,7 @@
 [BVE Trainsim](../Page/BVE_Trainsim.md "wikilink")，即“开放的
 BVE”。支持車内外視角自由觀察、立體駕駛室等。openBVE 使用
 [OpenGL](../Page/OpenGL.md "wikilink") 和
-[OpenAL作為](../Page/OpenAL.md "wikilink")
+[OpenAL](../Page/OpenAL.md "wikilink")作為
 [應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。本项目起源于作者的一个想法，应该有一个[跨平台並且](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[列车模拟器](../Page/列车模拟器.md "wikilink")，而且要比现存的所有此类软件都真实，並注重在駕駛室內驾驶。\[1\]此程式並沒有使用上的限制，发布最新二进制包，同时独立发布其最新[C\#源码](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")。
 
 開發者在2011年5月11日宣布當openBVE進入第二版本的階段，程式會重命名為**Train Simulation
@@ -36,7 +36,7 @@ openBVE 功能大致上與 [BVE Trainsim](../Page/BVE_Trainsim.md "wikilink")
     X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 平台上使用）
   - 使用 [OpenAL](../Page/OpenAL.md "wikilink")
     將[三維場景的音效立體化](https://zh.wikipedia.org/wiki/三維空間 "wikilink")
-  - 加入[人工智能駕駛](../Page/人工智能.md "wikilink")，能夠自動駕駛自己的列車
+  - 加入[人工智能](../Page/人工智能.md "wikilink")駕駛，能夠自動駕駛自己的列車
   - 自動控制上一班及更多列車的運作
   - 加入遊戲模式，對玩家駕駛列車技巧作評分
   - 提供動態物件格式，能讓物件變得可以活動，例如列車車門、時鐘、路面的汽車
@@ -58,7 +58,7 @@ openBVE 可以完全地模擬出列車的每一個車箱，包括所有的電阻
 ##### 動態物件
 
 openBVE
-可以讓物件移動、旋轉或將[材質貼圖移位](https://zh.wikipedia.org/wiki/材質貼圖 "wikilink")，並以數學函數配合內置[變數來控制](../Page/變數.md "wikilink")。\[6\]
+可以讓物件移動、旋轉或將[材質貼圖移位](https://zh.wikipedia.org/wiki/材質貼圖 "wikilink")，並以數學函數配合內置[變數](../Page/變數.md "wikilink")來控制。\[6\]
 
 簡單例子有：
 

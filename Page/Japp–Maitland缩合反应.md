@@ -3,7 +3,7 @@
 
 一种[羟醛加成](https://zh.wikipedia.org/wiki/羟醛加成 "wikilink")-[缩合](https://zh.wikipedia.org/wiki/缩合反应 "wikilink")[串联反应](../Page/串联反应.md "wikilink")。
 
-例如，以[2-戊酮和](../Page/2-戊酮.md "wikilink")[苯甲醛为原料在碱催化下进行反应时](../Page/苯甲醛.md "wikilink")，首先生成双羟醛加成物，然后该加成物的两个[羟基发生缩合](../Page/羟基.md "wikilink")，环化为对氧代[四氢吡喃衍生物](../Page/四氢吡喃.md "wikilink")。
+例如，以[2-戊酮](../Page/2-戊酮.md "wikilink")和[苯甲醛](../Page/苯甲醛.md "wikilink")为原料在碱催化下进行反应时，首先生成双羟醛加成物，然后该加成物的两个[羟基](../Page/羟基.md "wikilink")发生缩合，环化为对氧代[四氢吡喃](../Page/四氢吡喃.md "wikilink")衍生物。
 
 
 :[Japp-Maitland缩合](https://zh.wikipedia.org/wiki/File:Maitland-Japp.svg "fig:Japp-Maitland缩合")

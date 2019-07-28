@@ -20,7 +20,7 @@ supported_platforms =
 
 **Maemo**是一個基於[Debian
 GNU/Linux的](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由諾基亞公司為了[智慧型手機及](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[Internet
-Tablet所開發](https://zh.wikipedia.org/wiki/Internet_Tablet "wikilink")。它已經被應用在諾基亞[N770](https://zh.wikipedia.org/wiki/諾基亞770網絡終端 "wikilink")、[N800](https://zh.wikipedia.org/wiki/諾基亞N800 "wikilink")、[N810和](https://zh.wikipedia.org/wiki/Nokia_N810 "wikilink")[N900上](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")。[Nokia與很多開源軟件項目](https://zh.wikipedia.org/wiki/Nokia "wikilink")（如[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，[Debian](../Page/Debian.md "wikilink")，[GNOME](../Page/GNOME.md "wikilink")）合作，共同開發Maemo平台。Maemo本身基於[Debian因此具有很多Debian特性](../Page/Debian.md "wikilink")。
+Tablet所開發](https://zh.wikipedia.org/wiki/Internet_Tablet "wikilink")。它已經被應用在諾基亞[N770](https://zh.wikipedia.org/wiki/諾基亞770網絡終端 "wikilink")、[N800](https://zh.wikipedia.org/wiki/諾基亞N800 "wikilink")、[N810和](https://zh.wikipedia.org/wiki/Nokia_N810 "wikilink")[N900上](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")。[Nokia與很多開源軟件項目](https://zh.wikipedia.org/wiki/Nokia "wikilink")（如[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，[Debian](../Page/Debian.md "wikilink")，[GNOME](../Page/GNOME.md "wikilink")）合作，共同開發Maemo平台。Maemo本身基於[Debian](../Page/Debian.md "wikilink")因此具有很多Debian特性。
 
 很多應用軟件來自ARM架構的Debian，大多數是第三方軟件。
 
@@ -44,7 +44,7 @@ Nokia在2010年2月宣佈將Maemo與Intel的[Moblin計畫結合](https://zh.wiki
 | OS2007                               | 3.0         | Bora                                                      | 2.2006.51-6  | N800   |                                     |
 | 3.1                                  | 3.2007.10-7 |                                                           |              |        |                                     |
 | 3.2                                  | 4.2007.26-8 |                                                           |              |        |                                     |
-| 4.2007.38-2                          |             | [SDHC記憶卡修復](../Page/SDHC.md "wikilink")                   |              |        |                                     |
+| 4.2007.38-2                          |             | [SDHC](../Page/SDHC.md "wikilink")記憶卡修復                   |              |        |                                     |
 | OS2008                               | 4.0         | Chinook                                                   | 1.2007.42-18 | N810   | 只支援N810                             |
 | 1.2007.42-19                         |             | 內核更新（只支援N810）                                             |              |        |                                     |
 | 1.2007.44-4                          |             | Beta版本發佈（只支援N810）                                         |              |        |                                     |

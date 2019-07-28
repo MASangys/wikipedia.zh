@@ -1,7 +1,7 @@
 《**BLOODY
-MONDAY**》是[龍門諒原作](https://zh.wikipedia.org/wiki/亞樹直 "wikilink")、[惠廣史作畫的](../Page/惠廣史.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。第一部於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2007年17號開始連載，2009年19號結束，第二部「絕望之匣」（台港版另譯為「潘朵拉-{}-之盒」，新加坡版則是直譯）於2009年秋開始連載。中文版代理部分，台港由[東立出版社在](../Page/東立出版社.md "wikilink")《[新少年快報](../Page/新少年快報.md "wikilink")》連載，新加坡則是[創藝出版社發行](../Page/創藝出版社.md "wikilink")。第三部「最終時刻」於2011年7月開始連載。
+MONDAY**》是[龍門諒原作](https://zh.wikipedia.org/wiki/亞樹直 "wikilink")、[惠廣史](../Page/惠廣史.md "wikilink")作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。第一部於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2007年17號開始連載，2009年19號結束，第二部「絕望之匣」（台港版另譯為「潘朵拉-{}-之盒」，新加坡版則是直譯）於2009年秋開始連載。中文版代理部分，台港由[東立出版社](../Page/東立出版社.md "wikilink")在《[新少年快報](../Page/新少年快報.md "wikilink")》連載，新加坡則是[創藝出版社](../Page/創藝出版社.md "wikilink")發行。第三部「最終時刻」於2011年7月開始連載。
 
-2008年10月由[TBS電視台改編為](../Page/TBS電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台播出](../Page/緯來日本台.md "wikilink")，並譯為《**天才駭客F**》。2010年1月播出第二部《**天才駭客F
+2008年10月由[TBS電視台](../Page/TBS電視台.md "wikilink")改編為[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")播出，並譯為《**天才駭客F**》。2010年1月播出第二部《**天才駭客F
 2**》。
 
 ## BLOODY MONDAY
@@ -52,7 +52,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 
 #### THIRD-i
 
-屬[公安調查廳](https://zh.wikipedia.org/wiki/公安調查廳 "wikilink")，主要為防止[恐怖主义及國家](../Page/恐怖主义.md "wikilink")[政變](../Page/政變.md "wikilink")，集結傑出人才的治安維持組織「調查第一部第三課」的通稱。根據龍之介的說法，THIRD-i內部也有間諜。
+屬[公安調查廳](https://zh.wikipedia.org/wiki/公安調查廳 "wikilink")，主要為防止[恐怖主义](../Page/恐怖主义.md "wikilink")及國家[政變](../Page/政變.md "wikilink")，集結傑出人才的治安維持組織「調查第一部第三課」的通稱。根據龍之介的說法，THIRD-i內部也有間諜。
 
   -
     THIRD-i副長、藤丸的父親。以監視的名義讓藤丸在他身邊工作。因為殺害沖田的嫌疑而被通緝，之後被迫在暗中調查案件。
@@ -123,7 +123,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   -
     從警視廳派遣的搜查官。與傑克、城田合謀射殺船木刑事，並嫁禍給龍之介。
   -
-    英的繼母。[菲律宾的](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[马尼拉出生](../Page/马尼拉.md "wikilink")。膚色較深。暗地裡和K連絡。
+    英的繼母。[菲律宾的](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[马尼拉](../Page/马尼拉.md "wikilink")出生。膚色較深。暗地裡和K連絡。
   -
     立川自來水公司的職員。瑪莉亞的弟弟，稱英的父親為「義兄」。
     和姐姐一樣是恐怖組織的一員。在神島紫門被監禁的拘留所作為工事作業員進出。
@@ -166,7 +166,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   -
     被麻耶殺死的俄羅斯諜報員的數據文件名稱。其中有個俄羅斯教堂的錄影，錄影中最後所有人吐血身亡。
   - BLOODY-X
-    本篇中登場的殺人病毒，由舊[苏联利用](../Page/苏联.md "wikilink")[天花和](https://zh.wikipedia.org/wiki/天花 "wikilink")[埃博拉病毒製作出來的](https://zh.wikipedia.org/wiki/埃博拉病毒 "wikilink")。症狀從嘔吐和發熱開始，然後開始皮膚潰爛和全身黏膜出血。發病後生存率為零的可怕病毒。
+    本篇中登場的殺人病毒，由舊[苏联](../Page/苏联.md "wikilink")利用[天花和](https://zh.wikipedia.org/wiki/天花 "wikilink")[埃博拉病毒製作出來的](https://zh.wikipedia.org/wiki/埃博拉病毒 "wikilink")。症狀從嘔吐和發熱開始，然後開始皮膚潰爛和全身黏膜出血。發病後生存率為零的可怕病毒。
     感染後3小時內發病，主要由飛沫和接觸傳染。經由人體感染發病後活性化，活性化前在空氣的感染力沒有那麼強。攝氏60度死滅。
 
 ## BLOODY MONDAY Season2～潘朵拉之盒～
@@ -885,7 +885,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 
   - THIRD-i所屬的正式名稱由「公安調查廳調查第一部第三課」改成「[警察廳警備局公安特殊三課](https://zh.wikipedia.org/wiki/警察廳 "wikilink")」。
   - 傑克·戴蒙等組織成員的名字改成日本風的名字。
-  - BLOODY-X的實驗場所從[西伯利亞鐵路改成俄羅斯](../Page/西伯利亞鐵路.md "wikilink")·雅斯裡蘇克。
+  - BLOODY-X的實驗場所從[西伯利亞鐵路](../Page/西伯利亞鐵路.md "wikilink")改成俄羅斯·雅斯裡蘇克。
   - 麻耶和寶生的頭髮長度不同（麻耶從長髮變短髮，寶生從短髮變長髮）。
   - 九條音彌和安齋真子與藤丸同學年。
   - 彌代學院改成彌代學園。

@@ -1,5 +1,5 @@
 Nikon
-D3X是[尼康公司于](https://zh.wikipedia.org/wiki/尼康公司 "wikilink")2008年12月1日发布的具有24.5百万[像素的](../Page/像素.md "wikilink")[全画幅](https://zh.wikipedia.org/wiki/全画幅数码单镜反光相机 "wikilink")
+D3X是[尼康公司于](https://zh.wikipedia.org/wiki/尼康公司 "wikilink")2008年12月1日发布的具有24.5百万[像素](../Page/像素.md "wikilink")的[全画幅](https://zh.wikipedia.org/wiki/全画幅数码单镜反光相机 "wikilink")
 (35mm) [数码单镜反光相机](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")
 ([DSLR](https://zh.wikipedia.org/wiki/DSLR "wikilink"))。D3X与D3一起成为尼康公司DSLR产品线的顶端产品。
 

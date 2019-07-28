@@ -1,6 +1,6 @@
-**Bh**（[小寫為bh](https://zh.wikipedia.org/wiki/小寫字母 "wikilink")）是[印度-雅利安语支和](../Page/印度-雅利安语支.md "wikilink")[臺語等之語言的](https://zh.wikipedia.org/wiki/臺語通用拼音 "wikilink")[二合字母](../Page/二合字母.md "wikilink")。
+**Bh**（[小寫為bh](https://zh.wikipedia.org/wiki/小寫字母 "wikilink")）是[印度-雅利安语支](../Page/印度-雅利安语支.md "wikilink")和[臺語等之語言的](https://zh.wikipedia.org/wiki/臺語通用拼音 "wikilink")[二合字母](../Page/二合字母.md "wikilink")。
 
-  - ‹**bh**›用在[印度-雅利安语支的](../Page/印度-雅利安语支.md "wikilink")[語音字母](../Page/語音.md "wikilink")[轉寫上](https://zh.wikipedia.org/wiki/轉寫 "wikilink")，表示[呼氣音](https://zh.wikipedia.org/wiki/呼氣音 "wikilink")（Breathy
+  - ‹**bh**›用在[印度-雅利安语支](../Page/印度-雅利安语支.md "wikilink")的[語音](../Page/語音.md "wikilink")字母[轉寫上](https://zh.wikipedia.org/wiki/轉寫 "wikilink")，表示[呼氣音](https://zh.wikipedia.org/wiki/呼氣音 "wikilink")（Breathy
     voice）之[濁雙唇塞音](https://zh.wikipedia.org/wiki/濁雙唇塞音 "wikilink")（）\[1\]。
   - 於[愛爾蘭語正寫法](https://zh.wikipedia.org/wiki/愛爾蘭語正寫法 "wikilink")（Irish
     orthography）中，‹bh›表示[音位](../Page/音位.md "wikilink")以及，范例如： （'my

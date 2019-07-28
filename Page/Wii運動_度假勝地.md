@@ -1,6 +1,6 @@
 《**Wii運動 度假勝地**》（Wii Sports
-Resort），是[任天堂繼](../Page/任天堂.md "wikilink")[Wii
-Sports後推出的新運動遊戲](../Page/Wii_Sports.md "wikilink")，發行於[Wii平台](../Page/Wii.md "wikilink")，搭配新週邊[Wii動感強化器來做出更精準的動作感應](https://zh.wikipedia.org/wiki/Wii動感強化器 "wikilink")，遊戲內包括有[射箭](../Page/射箭.md "wikilink")、[快艇](https://zh.wikipedia.org/wiki/快艇 "wikilink")、[飛盤](../Page/飛盤.md "wikilink")、[劍道](../Page/劍道.md "wikilink")、[桌球](https://zh.wikipedia.org/wiki/桌球 "wikilink")、[水上摩托車](https://zh.wikipedia.org/wiki/水上摩托車 "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[高爾夫球等項目](../Page/高爾夫球.md "wikilink")。遊戲內容大致上承繼著Wii
+Resort），是[任天堂](../Page/任天堂.md "wikilink")繼[Wii
+Sports後推出的新運動遊戲](../Page/Wii_Sports.md "wikilink")，發行於[Wii](../Page/Wii.md "wikilink")平台，搭配新週邊[Wii動感強化器來做出更精準的動作感應](https://zh.wikipedia.org/wiki/Wii動感強化器 "wikilink")，遊戲內包括有[射箭](../Page/射箭.md "wikilink")、[快艇](https://zh.wikipedia.org/wiki/快艇 "wikilink")、[飛盤](../Page/飛盤.md "wikilink")、[劍道](../Page/劍道.md "wikilink")、[桌球](https://zh.wikipedia.org/wiki/桌球 "wikilink")、[水上摩托車](https://zh.wikipedia.org/wiki/水上摩托車 "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[高爾夫球](../Page/高爾夫球.md "wikilink")等項目。遊戲內容大致上承繼著Wii
 Sports，但[棒球](../Page/棒球.md "wikilink")、[拳擊和](https://zh.wikipedia.org/wiki/拳擊 "wikilink")[網球這三種舊版遊戲在Wii](https://zh.wikipedia.org/wiki/網球 "wikilink")
 Sports Resort沒有出現。
 
@@ -46,7 +46,7 @@ Sports Resort沒有出現。
 
 #### 飛盤高爾夫
 
-玩家將飛盤擲出到目標，計分與[高爾夫球計桿數一樣](../Page/高爾夫球.md "wikilink")。
+玩家將飛盤擲出到目標，計分與[高爾夫球](../Page/高爾夫球.md "wikilink")計桿數一樣。
 
 ### [射箭](../Page/射箭.md "wikilink")
 
@@ -54,7 +54,7 @@ Sports Resort沒有出現。
 
 ### [籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")
 
-#### [三分球競賽](../Page/三分球.md "wikilink")
+#### [三分球](../Page/三分球.md "wikilink")競賽
 
 玩家須於六十秒內射最多的[三分球](../Page/三分球.md "wikilink")。一般籃球有一分，而彩色籃球則有兩分，最高分為30分。
 
@@ -70,7 +70,7 @@ Sports Resort沒有出現。
 
 #### 連續擊球
 
-一開始對手會逐球逐球(打一下就發一球)的方式打球，對手有時發旋轉球或令玩家扣殺的球。須連續打[乒乓球以繼續](../Page/乒乓球.md "wikilink")，失一球(如兩跳、失誤等)即輸。每打進一顆就加一分，而打10球以上有汽水罐出現，用乒乓球撃中汽水罐可以得到3分。
+一開始對手會逐球逐球(打一下就發一球)的方式打球，對手有時發旋轉球或令玩家扣殺的球。須連續打[乒乓球](../Page/乒乓球.md "wikilink")以繼續，失一球(如兩跳、失誤等)即輸。每打進一顆就加一分，而打10球以上有汽水罐出現，用乒乓球撃中汽水罐可以得到3分。
 
 ### [高爾夫球](../Page/高爾夫球.md "wikilink")
 
@@ -80,7 +80,7 @@ Sports Resort沒有出現。
 
 #### 標準賽
 
-同現實中[保齡球的玩法一樣](../Page/保齡球.md "wikilink")
+同現實中[保齡球](../Page/保齡球.md "wikilink")的玩法一樣
 
 #### 100瓶賽
 

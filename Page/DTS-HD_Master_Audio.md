@@ -1,5 +1,5 @@
 **DTS-HD Master Audio**，简称**DTS-HD
-MA**，是[DTS公司針對](../Page/DTS.md "wikilink")[蓝光光盘（Blu-ray）所研發的无损](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[音频格式](https://zh.wikipedia.org/wiki/音频 "wikilink")，其竞争对手为[杜比实验室所开发的](https://zh.wikipedia.org/wiki/杜比实验室 "wikilink")格式
+MA**，是[DTS](../Page/DTS.md "wikilink")公司針對[蓝光光盘（Blu-ray）所研發的无损](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[音频格式](https://zh.wikipedia.org/wiki/音频 "wikilink")，其竞争对手为[杜比实验室所开发的](https://zh.wikipedia.org/wiki/杜比实验室 "wikilink")格式
 
 ## 历史
 

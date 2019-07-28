@@ -1,11 +1,11 @@
-《**AUDIENCE**》（觀眾）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilink")18張單曲，2000年11月1日於日本發售。
+《**AUDIENCE**》（觀眾）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第18張單曲，2000年11月1日於日本發售。
 
 ## 說明
 
   - 本作為第三張原創專輯《[Duty](../Page/Duty.md "wikilink")》（以聲作責）的重發單曲。為完全限定生產30萬張的作品。本作收錄的單曲版和專輯版不同。
   - 本作最後一音軌《SEASONS "Vocal Track"》乃為廣為募集混音作品之目的所收錄。
-  - 本作是濱崎步發行的重發單曲中，沒有拍攝[音樂錄影帶的其中一首](../Page/音樂錄影帶.md "wikilink")。（另一首為《[Terminal](../Page/Terminal_\(濱崎步單曲\).md "wikilink")》）
-  - 本作於[公信榜首週銷售居第二名](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。（第一名為[MISIA的](../Page/MISIA.md "wikilink")《[Everything](../Page/Everything_\(MISIA單曲\).md "wikilink")》發售第二週蟬聯冠軍）
+  - 本作是濱崎步發行的重發單曲中，沒有拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")的其中一首。（另一首為《[Terminal](../Page/Terminal_\(濱崎步單曲\).md "wikilink")》）
+  - 本作於[公信榜首週銷售居第二名](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。（第一名為[MISIA](../Page/MISIA.md "wikilink")的《[Everything](../Page/Everything_\(MISIA單曲\).md "wikilink")》發售第二週蟬聯冠軍）
   - 本作未收錄於精選輯《[A BEST](../Page/A_BEST.md "wikilink")》之中。2008年發售的單曲精選輯《[A
     COMPLETE \~ALL
     SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》當中收錄的是單曲版本。

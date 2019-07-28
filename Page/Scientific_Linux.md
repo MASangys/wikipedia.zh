@@ -23,7 +23,7 @@ updatemodel =
 **Scientific
 Linux**是一款由[費米國家加速器實驗室](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")（Fermilab）與[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN）合作開發的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。
 開發上是以[Red Hat Enterprise
-Linux作為基礎](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，並且期望「盡其所能地接近商業發行版的作業系統」\[1\]。2019年4月，開發團隊宣佈其將不會再繼續開發新版本，但對6.X與7.X版的維護仍將持續到它們的生命週期結束。此後[費米國家加速器實驗室將會使用](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")[CentOS進行](../Page/CentOS.md "wikilink")8.0的部署\[2\]。
+Linux作為基礎](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，並且期望「盡其所能地接近商業發行版的作業系統」\[1\]。2019年4月，開發團隊宣佈其將不會再繼續開發新版本，但對6.X與7.X版的維護仍將持續到它們的生命週期結束。此後[費米國家加速器實驗室將會使用](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")[CentOS](../Page/CentOS.md "wikilink")進行8.0的部署\[2\]。
 
 ## 版本歷史
 

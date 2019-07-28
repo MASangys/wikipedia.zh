@@ -1,14 +1,14 @@
 **Nginx**（发音同engine
-x）是异步框架的[網頁伺服器](../Page/網頁伺服器.md "wikilink")，也可以用作[反向代理](../Page/反向代理.md "wikilink")、[负载平衡器和](../Page/负载均衡.md "wikilink")[HTTP缓存](https://zh.wikipedia.org/wiki/HTTP缓存 "wikilink")。该软件由[伊戈爾·賽索耶夫创建并于](../Page/伊戈爾·賽索耶夫.md "wikilink")2004年首次公开发布。\[1\]
+x）是异步框架的[網頁伺服器](../Page/網頁伺服器.md "wikilink")，也可以用作[反向代理](../Page/反向代理.md "wikilink")、[负载平衡器和](../Page/负载均衡.md "wikilink")[HTTP缓存](https://zh.wikipedia.org/wiki/HTTP缓存 "wikilink")。该软件由[伊戈爾·賽索耶夫](../Page/伊戈爾·賽索耶夫.md "wikilink")创建并于2004年首次公开发布。\[1\]
 2011年成立同名公司以提供支持。\[2\]2019年3月11日，Nginx公司被以6.7億美元收购\[3\]。
 
-Nginx是免费的[开源软件](../Page/开源软件.md "wikilink")，根据类[BSD许可证的条款发布](../Page/BSD许可证.md "wikilink")。一大部分Web服务器使用Nginx，\[4\]
-通常作为[负载均衡器](../Page/负载均衡.md "wikilink")。\[5\]
+Nginx是免费的[开源软件](../Page/开源软件.md "wikilink")，根据类[BSD许可证](../Page/BSD许可证.md "wikilink")的条款发布。一大部分Web服务器使用Nginx，\[4\]
+通常作为[负载均衡](../Page/负载均衡.md "wikilink")器。\[5\]
 
 ## 特点
 
-Nginx可以部署在网络上使用[FastCGI脚本](../Page/FastCGI.md "wikilink")、[SCGI处理程序](../Page/简单通用网关接口.md "wikilink")、[WSGI应用服务器或](../Page/Web服务器网关接口.md "wikilink")[Phusion
-Passenger模块的动态](https://zh.wikipedia.org/wiki/Phusion_Passenger "wikilink")[HTTP内容](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并可作为软件[负载均衡器](../Page/负载均衡.md "wikilink")。\[6\]
+Nginx可以部署在网络上使用[FastCGI](../Page/FastCGI.md "wikilink")脚本、[SCGI处理程序](../Page/简单通用网关接口.md "wikilink")、[WSGI应用服务器或](../Page/Web服务器网关接口.md "wikilink")[Phusion
+Passenger模块的动态](https://zh.wikipedia.org/wiki/Phusion_Passenger "wikilink")[HTTP内容](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并可作为软件[负载均衡](../Page/负载均衡.md "wikilink")器。\[6\]
 
 Nginx使用异步事件驱动的方法来处理请求。Nginx的模块化事件驱动架构\[7\]可以在高负载下提供更可预测的性能。\[8\]
 

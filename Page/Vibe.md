@@ -1,4 +1,4 @@
-**Vibe**（韩文名：），[南韓歌唱組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")。原本由[尹敏洙](../Page/尹敏洙.md "wikilink")、及[劉承奎共同組成](https://zh.wikipedia.org/wiki/劉承奎 "wikilink")，並於2002年以《[Afterglow](https://zh.wikipedia.org/wiki/Afterglow "wikilink")》專輯出道。其後2005年[劉承奎離開並以](https://zh.wikipedia.org/wiki/劉承奎 "wikilink")[Noblesse名義作個人發展](https://zh.wikipedia.org/wiki/Noblesse "wikilink")，**Vibe**自始便成爲二人組合，繼續發展。**Vibe**裏面的歌曲大部分由作曲，[尹敏洙主唱](../Page/尹敏洙.md "wikilink")。
+**Vibe**（韩文名：），[南韓歌唱組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")。原本由[尹敏洙](../Page/尹敏洙.md "wikilink")、及[劉承奎共同組成](https://zh.wikipedia.org/wiki/劉承奎 "wikilink")，並於2002年以《[Afterglow](https://zh.wikipedia.org/wiki/Afterglow "wikilink")》專輯出道。其後2005年[劉承奎離開並以](https://zh.wikipedia.org/wiki/劉承奎 "wikilink")[Noblesse名義作個人發展](https://zh.wikipedia.org/wiki/Noblesse "wikilink")，**Vibe**自始便成爲二人組合，繼續發展。**Vibe**裏面的歌曲大部分由作曲，[尹敏洙](../Page/尹敏洙.md "wikilink")主唱。
 
 ## 专辑
 

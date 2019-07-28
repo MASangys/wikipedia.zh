@@ -1,8 +1,8 @@
-**诺基亚E系列**是[诺基亚的商务手机家族的一个系列](../Page/诺基亚.md "wikilink")，它以强大的手机信号和[电子邮件推送服务为卖点](../Page/电子邮件.md "wikilink")。
+**诺基亚E系列**是[诺基亚](../Page/诺基亚.md "wikilink")的商务手机家族的一个系列，它以强大的手机信号和[电子邮件](../Page/电子邮件.md "wikilink")推送服务为卖点。
 
 ## 历史
 
-  - 2005年10月12日，[诺基亚于手机制造商](../Page/诺基亚.md "wikilink")[记者招待会上宣布了E系列](https://zh.wikipedia.org/wiki/记者招待会 "wikilink")，并发布了3款该系列的手机[E60](https://zh.wikipedia.org/wiki/诺基亚_E60 "wikilink")，[E61和](https://zh.wikipedia.org/wiki/诺基亚_E61 "wikilink")[E70](https://zh.wikipedia.org/wiki/诺基亚_E70 "wikilink")。\[1\]
+  - 2005年10月12日，[诺基亚](../Page/诺基亚.md "wikilink")于手机制造商[记者招待会上宣布了E系列](https://zh.wikipedia.org/wiki/记者招待会 "wikilink")，并发布了3款该系列的手机[E60](https://zh.wikipedia.org/wiki/诺基亚_E60 "wikilink")，[E61和](https://zh.wikipedia.org/wiki/诺基亚_E61 "wikilink")[E70](https://zh.wikipedia.org/wiki/诺基亚_E70 "wikilink")。\[1\]
 
 <!-- end list -->
 

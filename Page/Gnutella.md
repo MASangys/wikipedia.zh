@@ -1,18 +1,18 @@
-**Gnutella**（，单词中的*g*不发音，或者发音为）是一种[文件共享网络](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。2005年6月，gnutella约有181万台用户（计算机）\[1\]，而2006年1月增加到超过300万个节点\[2\]。截至2007年底，它是[互联网上最流行的文件共享网络](../Page/互联网.md "wikilink")，估计市场份额超过40%。\[3\]\[4\]
+**Gnutella**（，单词中的*g*不发音，或者发音为）是一种[文件共享网络](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。2005年6月，gnutella约有181万台用户（计算机）\[1\]，而2006年1月增加到超过300万个节点\[2\]。截至2007年底，它是[互联网](../Page/互联网.md "wikilink")上最流行的文件共享网络，估计市场份额超过40%。\[3\]\[4\]
 
 ## 历史
 
 Gnutella网络的第一个客户端由[Nullsoft公司的](https://zh.wikipedia.org/wiki/Nullsoft "wikilink")[贾斯汀·法兰科](https://zh.wikipedia.org/wiki/贾斯汀·法兰科 "wikilink")（Justin
 Frankel）与[汤姆·帕勃](https://zh.wikipedia.org/wiki/汤姆·帕勃 "wikilink")（Tom
-Pepper）于2000年早期最先开发。同年3月14日，该程序被放在Nullsoft的服务器上并允许公众下载。该程序的[源代码原计划稍后在](../Page/源代码.md "wikilink")[GNU通用公共许可证下被发布](../Page/GNU通用公共许可证.md "wikilink")。
+Pepper）于2000年早期最先开发。同年3月14日，该程序被放在Nullsoft的服务器上并允许公众下载。该程序的[源代码](../Page/源代码.md "wikilink")原计划稍后在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下被发布。
 
-与半集中式网络如[FastTrack](https://zh.wikipedia.org/wiki/FastTrack "wikilink")（[KaZaA](https://zh.wikipedia.org/wiki/KaZaA "wikilink")）以及[Napster不同](../Page/Napster.md "wikilink")，Gnutella网络是完全分布式的。其最初的流行是源于2001年早期Napster由于法律纠纷而被关闭的威胁。不断增长的用户也使得该协议的最初版本暴露了不少缺陷。2001年早期，各种不同版本的协议（最初以[专有](../Page/专有软件.md "wikilink")[闭源客户软件形式实现](https://zh.wikipedia.org/wiki/闭源软件 "wikilink")）使得Gnutella的扩展性得到了增强。与先前的协议将每一个用户节点都当作用户以及服务器不同，改进过的协议将某些用户当作"超节点"（ultrapeer），其为与之连接的所有用户路由搜索请求及回应。
+与半集中式网络如[FastTrack](https://zh.wikipedia.org/wiki/FastTrack "wikilink")（[KaZaA](https://zh.wikipedia.org/wiki/KaZaA "wikilink")）以及[Napster](../Page/Napster.md "wikilink")不同，Gnutella网络是完全分布式的。其最初的流行是源于2001年早期Napster由于法律纠纷而被关闭的威胁。不断增长的用户也使得该协议的最初版本暴露了不少缺陷。2001年早期，各种不同版本的协议（最初以[专有](../Page/专有软件.md "wikilink")[闭源客户软件形式实现](https://zh.wikipedia.org/wiki/闭源软件 "wikilink")）使得Gnutella的扩展性得到了增强。与先前的协议将每一个用户节点都当作用户以及服务器不同，改进过的协议将某些用户当作"超节点"（ultrapeer），其为与之连接的所有用户路由搜索请求及回应。
 
-这些发展使得Gnutella网络进一步吸引了更多用户。2001年晚期，一种Gnutella客户端软件[LimeWire成为免费开源软件](../Page/LimeWire.md "wikilink")。2002年2月，[Morpheus](https://zh.wikipedia.org/wiki/Morpheus_\(computer_program\) "wikilink")，一个商业文件共享开发群，放弃了原先的基于[FastTrack的端到端软件](https://zh.wikipedia.org/wiki/FastTrack "wikilink")，并发行了新的基于免费开源Gnutella客户端软件[Gnucleus的新客户端软件](https://zh.wikipedia.org/wiki/Gnucleus "wikilink")。
+这些发展使得Gnutella网络进一步吸引了更多用户。2001年晚期，一种Gnutella客户端软件[LimeWire](../Page/LimeWire.md "wikilink")成为免费开源软件。2002年2月，[Morpheus](https://zh.wikipedia.org/wiki/Morpheus_\(computer_program\) "wikilink")，一个商业文件共享开发群，放弃了原先的基于[FastTrack的端到端软件](https://zh.wikipedia.org/wiki/FastTrack "wikilink")，并发行了新的基于免费开源Gnutella客户端软件[Gnucleus的新客户端软件](https://zh.wikipedia.org/wiki/Gnucleus "wikilink")。
 
 "Gnutella"这个词语现在被来指作被不同的客户端软件使用的一种开放网络协议，而不用来指作任何一个单独的项目或者某一个软件。由于许多不同的组织都在开发新的客户端软件，而且该协议本身也将不断演变，Gnutella这个词语的意义在将来或许也会变化。
 
-Gnutella这个名字是*[GNU](../Page/GNU.md "wikilink")*与*[Nutella](https://zh.wikipedia.org/wiki/Nutella "wikilink")*的[混成词](https://zh.wikipedia.org/wiki/混成词 "wikilink")：人们普遍认定法兰科与帕勃在开发Gnutella项目的时候吃了许多的[Nutella](https://zh.wikipedia.org/wiki/Nutella "wikilink")，并且希望在GNU通用公共许可证下完成项目。Gnutella并未与任何[GNU项目相关联](../Page/GNU.md "wikilink")；\[5\]关于Gnutella在GNU中的相关项目，可以参见[GNUnet](https://zh.wikipedia.org/wiki/GNUnet "wikilink")。
+Gnutella这个名字是*[GNU](../Page/GNU.md "wikilink")*与*[Nutella](https://zh.wikipedia.org/wiki/Nutella "wikilink")*的[混成词](https://zh.wikipedia.org/wiki/混成词 "wikilink")：人们普遍认定法兰科与帕勃在开发Gnutella项目的时候吃了许多的[Nutella](https://zh.wikipedia.org/wiki/Nutella "wikilink")，并且希望在GNU通用公共许可证下完成项目。Gnutella并未与任何[GNU](../Page/GNU.md "wikilink")项目相关联；\[5\]关于Gnutella在GNU中的相关项目，可以参见[GNUnet](https://zh.wikipedia.org/wiki/GNUnet "wikilink")。
 
 ## 工作原理
 
@@ -43,15 +43,14 @@ Gnutella曾经是一种纯粹的基于洪泛式请求（query flooding）协议�
 以上不同消息包的定义主要是为了处理Gnutella网络中的搜索功能。文件传输功能是由[HTTP协议实现的](https://zh.wikipedia.org/wiki/HTTP "wikilink")。
 
 Gnutella协议的开发目前由[GDF](https://zh.wikipedia.org/wiki/Gnutella_Developers_Forum "wikilink")（Gnutella开发者论坛）所领导。许多扩展协议已经或正在由不同的软件商以及GDF的自由开发人员开发。这些扩展包括智能查询路由（intelligent
-query routing）、[SHA-1校验码](../Page/SHA-1.md "wikilink")、query hit
+query routing）、[SHA-1](../Page/SHA-1.md "wikilink")校验码、query hit
 transmission via
 [UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")、基于UDP的查询（querying
 via
 UDP）、基于[TCP的动态查询](https://zh.wikipedia.org/wiki/TCP "wikilink")（dynamic
 queries via TCP）、基于UDP的文件传输（file transfers via
-UDP）、[XML元数据](../Page/XML.md "wikilink")、source
-exchange（也被称为"the download mesh）以及parallel downloading in
-slices（swarming）。
+UDP）、[XML](../Page/XML.md "wikilink")元数据、source exchange（也被称为"the
+download mesh）以及parallel downloading in slices（swarming）。
 
 在Gnutella开发网站上有试图在Gnutella
 0.6版中将这些协议扩展规范完成的相关努力。由于所有的协议扩展还只是作为提议而存在于规范中，因此尽管已经过时，Gnutella

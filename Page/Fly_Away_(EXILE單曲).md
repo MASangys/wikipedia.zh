@@ -1,5 +1,5 @@
 「**Fly
-Away**」（遠走高飛）為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年2月20日於日本發行。Oricon最高排行第18、初動銷量2.2萬張、累計銷量3.2萬張
+Away**」（遠走高飛）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年2月20日於日本發行。Oricon最高排行第18、初動銷量2.2萬張、累計銷量3.2萬張
 
 ## 解說
 
@@ -9,7 +9,7 @@ Away**」（遠走高飛）為[日本音樂團體](../Page/日本.md "wikilink")
     style](https://zh.wikipedia.org/wiki/our_style "wikilink")』的先行單曲。
   - 於「[EXILE CATCHY
     BEST](../Page/EXILE_CATCHY_BEST.md "wikilink")」中再次錄音。ATSUSHI的演唱方式比起當時有相當的變化。
-  - 被選為2008年[東京電視台系](../Page/東京電視台.md "wikilink")[北京奧運實況轉播的主題歌](https://zh.wikipedia.org/wiki/2008年夏季奧林匹克運動會 "wikilink")。
+  - 被選為2008年[東京電視台](../Page/東京電視台.md "wikilink")系[北京奧運實況轉播的主題歌](https://zh.wikipedia.org/wiki/2008年夏季奧林匹克運動會 "wikilink")。
   - EXILE與[高橋ヒロシ](https://zh.wikipedia.org/wiki/高橋ヒロシ "wikilink")、[山口陽史的漫畫](https://zh.wikipedia.org/wiki/山口陽史 "wikilink")「[エグザムライ戦国](https://zh.wikipedia.org/wiki/エグザムライ戦国 "wikilink")」的第三卷封底的插圖以這個單曲的封面為藍本。
   - 日本職棒[福岡軟體銀行鷹的](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")[松中信彥進入打擊區時的進場曲](https://zh.wikipedia.org/wiki/松中信彥 "wikilink")。
 
@@ -23,9 +23,9 @@ CD
       - 作詞・作曲：SASA / 編曲：原田憲）
     <!-- end list -->
       -
-        [東京電視台系](../Page/東京電視台.md "wikilink")「ASAYAN」片尾曲
+        [東京電視台](../Page/東京電視台.md "wikilink")系「ASAYAN」片尾曲
     <!-- end list -->
-      - 2008年、[東京電視台系](../Page/東京電視台.md "wikilink")[北京奥運直播主題曲](https://zh.wikipedia.org/wiki/北京奥運 "wikilink")。
+      - 2008年、[東京電視台](../Page/東京電視台.md "wikilink")系[北京奥運直播主題曲](https://zh.wikipedia.org/wiki/北京奥運 "wikilink")。
 2.  Fly Away (Jonathan Peters' Club Mix)\[7:41\]
       - 作詞・作曲：SASA / 編曲：原田憲）
 3.  Style (Dub's Compact Club Mix)\[6:36\]

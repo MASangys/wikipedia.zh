@@ -9,9 +9,9 @@ J. Ferrier）首先报道。\[1\]
 
 ## 反应机理
 
-首先在[路易斯酸](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")（如[氯化铟或](../Page/氯化铟.md "wikilink")[三氟化硼](../Page/三氟化硼.md "wikilink")）作用下，乙酸根离子离去，产生离域的氧杂烯丙基碳正离子
+首先在[路易斯酸](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")（如[氯化铟](../Page/氯化铟.md "wikilink")或[三氟化硼](../Page/三氟化硼.md "wikilink")）作用下，乙酸根离子离去，产生离域的氧杂烯丙基碳正离子
 (2)。 接下来
-(2)原位与[醇作用](../Page/醇.md "wikilink")，生成2-[糖苷的](../Page/糖苷.md "wikilink")
+(2)原位与[醇](../Page/醇.md "wikilink")作用，生成2-[糖苷](../Page/糖苷.md "wikilink")的
 α- (3) 和 β- (4)
 [异头物](https://zh.wikipedia.org/wiki/异头物 "wikilink")，同时双键迁移至
 3,4- 位。\[2\]
@@ -20,11 +20,11 @@ J. Ferrier）首先报道。\[1\]
 
 | 路易斯酸                                                                                                               | 醇                                                   | 条件                                          | 结果                             |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------- | ------------------------------ |
-| [InCl<sub>3</sub>](https://zh.wikipedia.org/wiki/三氯化铟 "wikilink")                                                  | [甲醇](../Page/甲醇.md "wikilink")                      | [二氯甲烷溶剂](../Page/二氯甲烷.md "wikilink")        | α:β = 7:1\[3\]                 |
+| [InCl<sub>3</sub>](https://zh.wikipedia.org/wiki/三氯化铟 "wikilink")                                                  | [甲醇](../Page/甲醇.md "wikilink")                      | [二氯甲烷](../Page/二氯甲烷.md "wikilink")溶剂        | α:β = 7:1\[3\]                 |
 | [二噁烷](https://zh.wikipedia.org/wiki/二噁烷 "wikilink")                                                                | [水](../Page/水.md "wikilink")                        | 加热                                          | 75%产率\[4\]                     |
 | [SnCl<sub>4</sub>](https://zh.wikipedia.org/wiki/四氯化锡 "wikilink")                                                  | 甲醇                                                  | 二氯甲烷溶剂，–78 °C，10分钟                          | 83%产率，α:β = 86:14\[5\]         |
 | [BF<sub>3</sub>](../Page/三氟化硼.md "wikilink")·[O(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>](../Page/乙醚.md "wikilink") | [异丙醇](https://zh.wikipedia.org/wiki/异丙醇 "wikilink") | 二氯甲烷溶剂，室温，24小时                              | 95%产率\[6\]\[7\]                |
-| [ZnCl<sub>2</sub>](../Page/氯化锌.md "wikilink")                                                                      | [乙醇](../Page/乙醇.md "wikilink")                      | [甲苯溶剂](../Page/甲苯.md "wikilink")，室温，30–60分钟 | 65–95%产率，α:β = 89:11\[8\]\[9\] |
+| [ZnCl<sub>2</sub>](../Page/氯化锌.md "wikilink")                                                                      | [乙醇](../Page/乙醇.md "wikilink")                      | [甲苯](../Page/甲苯.md "wikilink")溶剂，室温，30–60分钟 | 65–95%产率，α:β = 89:11\[8\]\[9\] |
 | BF<sub>3</sub>·O(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>                                                           | [苄醇](https://zh.wikipedia.org/wiki/苄醇 "wikilink")   | 二氯甲烷溶剂，–20 °C至室温，1小时                        | 98%产率\[10\]                    |
 
 ## 改进法

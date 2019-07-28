@@ -1,4 +1,4 @@
-**橘U子**（）是一名[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，舊藝名**合志真理**，經營二十一世紀霍士劇團，[血型為B型](https://zh.wikipedia.org/wiki/血型 "wikilink")，隸屬[Kenyu
+**橘U子**（）是一名[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")，舊藝名**合志真理**，經營二十一世紀霍士劇團，[血型為B型](https://zh.wikipedia.org/wiki/血型 "wikilink")，隸屬[Kenyu
 Office](../Page/Kenyu_Office.md "wikilink")。
 
 ## 出演作品
@@ -31,7 +31,7 @@ Office](../Page/Kenyu_Office.md "wikilink")。
 
 **2003年**
 
-  - [驚爆危機？校園篇](../Page/驚爆危機.md "wikilink")（阿姨、女孩A）
+  - [驚爆危機](../Page/驚爆危機.md "wikilink")？校園篇（阿姨、女孩A）
 
 **2004年**
 

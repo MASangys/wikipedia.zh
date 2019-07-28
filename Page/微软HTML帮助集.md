@@ -22,7 +22,7 @@
 
 ## 檔案格式
 
-CHM是一種用[LZX算法壓縮的HTML文件集](../Page/LZX.md "wikilink")，除了文件本身外，也有索引資料檔以及影像檔等，在撰寫完成後，使用HTML幫助集
+CHM是一種用[LZX](../Page/LZX.md "wikilink")算法壓縮的HTML文件集，除了文件本身外，也有索引資料檔以及影像檔等，在撰寫完成後，使用HTML幫助集
 Compiler（內含於[HTML幫助集
 Workshop](http://www.microsoft.com/downloads/details.aspx?FamilyID=00535334-c8a6-452f-9aa0-d597d16580cc&DisplayLang=en)中），編譯為一個CHM的格式檔案（此格式也可以被反編譯成原始檔案），並且跟隨應用程式或是獨立散布，應用程式可以利用內含於`shdocvw.dll`函式庫中的HTML幫助集
 API來呼叫使用，目前此格式也被微軟用來散布一些獨立的開發文件（例如Silverlight 2.0 SDK中的說明檔就是CHM格式）。

@@ -3,7 +3,7 @@
 
 ## 簡介
 
-本篇外傳時間點，是在[赤壁之戰前](../Page/赤壁.md "wikilink")、[曹操軍剛剛統治荊州](../Page/曹操.md "wikilink")，以[劉備的養子](https://zh.wikipedia.org/wiki/劉備 "wikilink")[劉封等十二位](../Page/劉封.md "wikilink")**未於正傳登場角色**為主的短編故事，以補完多名未能在正式故事中推出的角色及劇情。
+本篇外傳時間點，是在[赤壁](../Page/赤壁.md "wikilink")之戰前、[曹操](../Page/曹操.md "wikilink")軍剛剛統治荊州，以[劉備的養子](https://zh.wikipedia.org/wiki/劉備 "wikilink")[劉封](../Page/劉封.md "wikilink")等十二位**未於正傳登場角色**為主的短編故事，以補完多名未能在正式故事中推出的角色及劇情。
 
 本作商品化方面，除項羽為原型設計外，其餘十二名角色均以昔日武者系列模型，追加新零件裝飾而成。除了三國志人物，本屬[秦末楚漢時期的名將](https://zh.wikipedia.org/wiki/秦 "wikilink")[項羽](https://zh.wikipedia.org/wiki/項羽 "wikilink")，亦會於本編登場，為本作最矚目之處。
 
@@ -15,7 +15,7 @@
 
 ### 小龍隊
 
-由[關平](../Page/關平.md "wikilink")、[張苞](https://zh.wikipedia.org/wiki/張苞 "wikilink")、[劉封組成](../Page/劉封.md "wikilink")「小龍隊」。[劉封為小龍隊首領](../Page/劉封.md "wikilink")。
+由[關平](../Page/關平.md "wikilink")、[張苞](https://zh.wikipedia.org/wiki/張苞 "wikilink")、[劉封](../Page/劉封.md "wikilink")組成「小龍隊」。[劉封](../Page/劉封.md "wikilink")為小龍隊首領。
 
 **[劉封](../Page/劉封.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB143
 輝龍頑駄無）
@@ -40,7 +40,7 @@ Gundam）
 <!-- end list -->
 
   -
-    轟國[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧受黑暗香爐的煙薰影響](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，變成邪惡武將，並率領強襲水軍侵略翔國。期間得到未受控制的[太史慈救助](../Page/太史慈.md "wikilink")，從他口中得知[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[陸遜等人被闇之力封印而石化](../Page/陸遜.md "wikilink")，轟國正受到闇之力支配，因而發動侵略。為解除香爐影響，[關平與](../Page/關平.md "wikilink")[太史慈合作](../Page/太史慈.md "wikilink")，並成功打破之。然而[關平及](../Page/關平.md "wikilink")[太史慈兩人均被石化](../Page/太史慈.md "wikilink")。最後關平憑著龍輝寶（詳見正傳故事）的力量將危機逆轉。
+    轟國[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧受黑暗香爐的煙薰影響](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，變成邪惡武將，並率領強襲水軍侵略翔國。期間得到未受控制的[太史慈](../Page/太史慈.md "wikilink")救助，從他口中得知[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[陸遜](../Page/陸遜.md "wikilink")等人被闇之力封印而石化，轟國正受到闇之力支配，因而發動侵略。為解除香爐影響，[關平](../Page/關平.md "wikilink")與[太史慈](../Page/太史慈.md "wikilink")合作，並成功打破之。然而[關平](../Page/關平.md "wikilink")及[太史慈](../Page/太史慈.md "wikilink")兩人均被石化。最後關平憑著龍輝寶（詳見正傳故事）的力量將危機逆轉。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@ Gundam）
 武零斗頑駄無）
 
   -
-    [張飛之子](https://zh.wikipedia.org/wiki/張飛 "wikilink")，與[劉封](../Page/劉封.md "wikilink")、[關平組成](../Page/關平.md "wikilink")「小龍隊」。
+    [張飛之子](https://zh.wikipedia.org/wiki/張飛 "wikilink")，與[劉封](../Page/劉封.md "wikilink")、[關平](../Page/關平.md "wikilink")組成「小龍隊」。
 
 <!-- end list -->
 
@@ -80,12 +80,12 @@ Gundam）
 
 ## 曹操軍/機駕
 
-以「官軍最後的鬥將」[曹操為中心](../Page/曹操.md "wikilink")，以舊日三璃紗政治中心為基礎。郿城會戰後，吸納[呂布隊成員而建立的軍團](https://zh.wikipedia.org/wiki/呂布 "wikilink")。官渡之戰後吞併冀州軍，勢力更一躍而上，成為三璃紗中，領土最遼闊、物資民眾最多最廣的強國。
+以「官軍最後的鬥將」[曹操](../Page/曹操.md "wikilink")為中心，以舊日三璃紗政治中心為基礎。郿城會戰後，吸納[呂布隊成員而建立的軍團](https://zh.wikipedia.org/wiki/呂布 "wikilink")。官渡之戰後吞併冀州軍，勢力更一躍而上，成為三璃紗中，領土最遼闊、物資民眾最多最廣的強國。
 
 **[荀彧](../Page/荀彧.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB77 武神頑駄無）
 
   -
-    [曹操手下的軍師](../Page/曹操.md "wikilink")、文官、政治家。在曹操東征西討期間，負責鎮守後方，以安定人心的政策管治，為機駕成為三國之首，打好穩健基礎。此外，荀彧亦以發明家的身分活躍於[曹操軍中](../Page/曹操.md "wikilink")，致力為各武將研發各類組合複雜但威力強大的專用武器，包括由其所指揮士兵使用的強力武器「鳳激炮」，與及為[張郃設計的格鬥兵裝](../Page/張郃.md "wikilink")「狼牙．雙重戟」，還有按照[徐晃昔日所用大斧為藍本](../Page/徐晃.md "wikilink")，重新製作的「鋏刃鐵」等都是其代表作。
+    [曹操](../Page/曹操.md "wikilink")手下的軍師、文官、政治家。在曹操東征西討期間，負責鎮守後方，以安定人心的政策管治，為機駕成為三國之首，打好穩健基礎。此外，荀彧亦以發明家的身分活躍於[曹操](../Page/曹操.md "wikilink")軍中，致力為各武將研發各類組合複雜但威力強大的專用武器，包括由其所指揮士兵使用的強力武器「鳳激炮」，與及為[張郃](../Page/張郃.md "wikilink")設計的格鬥兵裝「狼牙．雙重戟」，還有按照[徐晃](../Page/徐晃.md "wikilink")昔日所用大斧為藍本，重新製作的「鋏刃鐵」等都是其代表作。
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@ Gundam）
 <!-- end list -->
 
   -
-    在外傳故事中，荀彧帶兵與荊州神秘武將[項羽對壘](https://zh.wikipedia.org/wiki/項羽 "wikilink")，項羽來勢洶洶。形勢危急下，[荀彧正要發動鳳激炮時](../Page/荀彧.md "wikilink")，[許褚突然擋住企圖突襲的](https://zh.wikipedia.org/wiki/許褚 "wikilink")[項羽](https://zh.wikipedia.org/wiki/項羽 "wikilink")。兩人展開三日三夜的單挑，最後[許褚不敵](https://zh.wikipedia.org/wiki/許褚 "wikilink")。[荀彧要求](../Page/荀彧.md "wikilink")[項羽報上名來](https://zh.wikipedia.org/wiki/項羽 "wikilink")，得知其身分後大驚，同時亦令[項羽對被打敗的](https://zh.wikipedia.org/wiki/項羽 "wikilink")[許褚失去興趣](https://zh.wikipedia.org/wiki/許褚 "wikilink")，而放其一馬。
+    在外傳故事中，荀彧帶兵與荊州神秘武將[項羽對壘](https://zh.wikipedia.org/wiki/項羽 "wikilink")，項羽來勢洶洶。形勢危急下，[荀彧](../Page/荀彧.md "wikilink")正要發動鳳激炮時，[許褚突然擋住企圖突襲的](https://zh.wikipedia.org/wiki/許褚 "wikilink")[項羽](https://zh.wikipedia.org/wiki/項羽 "wikilink")。兩人展開三日三夜的單挑，最後[許褚不敵](https://zh.wikipedia.org/wiki/許褚 "wikilink")。[荀彧](../Page/荀彧.md "wikilink")要求[項羽報上名來](https://zh.wikipedia.org/wiki/項羽 "wikilink")，得知其身分後大驚，同時亦令[項羽對被打敗的](https://zh.wikipedia.org/wiki/項羽 "wikilink")[許褚失去興趣](https://zh.wikipedia.org/wiki/許褚 "wikilink")，而放其一馬。
 
 <!-- end list -->
 
@@ -108,8 +108,8 @@ Gundam）
 火威獸丸）
 
   -
-    [曹操軍親衛隊的首領](../Page/曹操.md "wikilink")，以天生神力聞名於三璃紗。善於使用投擲型的鐵球，即使最堅硬的鎧甲也能一擊粉碎。
-    年少時為了保衝故鄉小村而與盜賊不斷周旋，直至與誤會為黃巾賊的[典韋交手](https://zh.wikipedia.org/wiki/典韋 "wikilink")，結果兩人不相伯仲，[典韋對](https://zh.wikipedia.org/wiki/典韋 "wikilink")[許褚的高強武藝嘆為觀止](https://zh.wikipedia.org/wiki/許褚 "wikilink")，更將其推薦予[曹操](../Page/曹操.md "wikilink")，成為[曹操軍親衛隊成員](../Page/曹操.md "wikilink")，自此兩人建立惺惺相惜的友情。虎牢城會戰期間，[典韋戰死](https://zh.wikipedia.org/wiki/典韋 "wikilink")，[許褚亦繼承親衛隊領袖地位](https://zh.wikipedia.org/wiki/許褚 "wikilink")，而曹操對其非常信任，以至每夜就寢，都要許褚在帳外守護。
+    [曹操](../Page/曹操.md "wikilink")軍親衛隊的首領，以天生神力聞名於三璃紗。善於使用投擲型的鐵球，即使最堅硬的鎧甲也能一擊粉碎。
+    年少時為了保衝故鄉小村而與盜賊不斷周旋，直至與誤會為黃巾賊的[典韋交手](https://zh.wikipedia.org/wiki/典韋 "wikilink")，結果兩人不相伯仲，[典韋對](https://zh.wikipedia.org/wiki/典韋 "wikilink")[許褚的高強武藝嘆為觀止](https://zh.wikipedia.org/wiki/許褚 "wikilink")，更將其推薦予[曹操](../Page/曹操.md "wikilink")，成為[曹操](../Page/曹操.md "wikilink")軍親衛隊成員，自此兩人建立惺惺相惜的友情。虎牢城會戰期間，[典韋戰死](https://zh.wikipedia.org/wiki/典韋 "wikilink")，[許褚亦繼承親衛隊領袖地位](https://zh.wikipedia.org/wiki/許褚 "wikilink")，而曹操對其非常信任，以至每夜就寢，都要許褚在帳外守護。
 
 <!-- end list -->
 
@@ -127,7 +127,7 @@ Gundam）
 **[樂進](../Page/樂進.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB247 破牙丸）
 
   -
-    於[曹操軍擔任衝鋒隊長](../Page/曹操.md "wikilink")，個子矮小，但在每次戰事中擔任開路先鋒，果敢地衝入敵陣完成任務。本身只是軍中的記錄管員，因為被曹操所欣賞而轉任軍職，成為機駕衛將騎團的主力武將之一。於外傳故事中獨挑項羽，其必殺技誘發出項羽的驚人力量。
+    於[曹操](../Page/曹操.md "wikilink")軍擔任衝鋒隊長，個子矮小，但在每次戰事中擔任開路先鋒，果敢地衝入敵陣完成任務。本身只是軍中的記錄管員，因為被曹操所欣賞而轉任軍職，成為機駕衛將騎團的主力武將之一。於外傳故事中獨挑項羽，其必殺技誘發出項羽的驚人力量。
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@ Gundam）
 獸破頑馱無）
 
   -
-    從[董卓之亂時就投身](../Page/董卓.md "wikilink")[曹操軍團的機駕宿將](../Page/曹操.md "wikilink")。赤壁之戰時，與[樂進一起作為曹軍衛將騎團的一員](../Page/樂進.md "wikilink")。有著相當重視規律、穩重的個性，曾經負責追擊袁紹軍別部隊，火燒敵陣十餘，徹底地擊破敵人，為曹操軍帶來勝利作出極大貢獻。
+    從[董卓](../Page/董卓.md "wikilink")之亂時就投身[曹操](../Page/曹操.md "wikilink")軍團的機駕宿將。赤壁之戰時，與[樂進](../Page/樂進.md "wikilink")一起作為曹軍衛將騎團的一員。有著相當重視規律、穩重的個性，曾經負責追擊袁紹軍別部隊，火燒敵陣十餘，徹底地擊破敵人，為曹操軍帶來勝利作出極大貢獻。
 
 <!-- end list -->
 
@@ -190,7 +190,7 @@ Gundam）
 武者高達MK-IV）
 
   -
-    仕奉[孫權的參謀](https://zh.wikipedia.org/wiki/孫權 "wikilink")，與父親[凌操同樣仕於長沙軍](https://zh.wikipedia.org/wiki/凌操 "wikilink")，也是孫家的宿將。後來[凌操與當時](https://zh.wikipedia.org/wiki/凌操 "wikilink")、仍為荊州強襲水軍將領[黃祖手下的](../Page/黃祖.md "wikilink")[甘寧交戰](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，結果戰死，令[凌統對](../Page/凌統.md "wikilink")[甘寧懷有深仇大恨](https://zh.wikipedia.org/wiki/甘寧 "wikilink")。因此在[甘寧離開](https://zh.wikipedia.org/wiki/甘寧 "wikilink")[黃祖](../Page/黃祖.md "wikilink")，改投長沙軍時，[凌統相當痛恨](../Page/凌統.md "wikilink")，甚至在他面前屢出惡言。雖然如此，當[凌統在戰場遭遇危難時](../Page/凌統.md "wikilink")，[甘寧不單沒有記仇](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，反而毅然出手相救，化解了是次危機，亦為[凌統與](../Page/凌統.md "wikilink")[甘寧關係轉變的契機](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，兩人自此以後開始放下仇怨，更成為彼此惺惺相惜的戰友及摯友。
+    仕奉[孫權的參謀](https://zh.wikipedia.org/wiki/孫權 "wikilink")，與父親[凌操同樣仕於長沙軍](https://zh.wikipedia.org/wiki/凌操 "wikilink")，也是孫家的宿將。後來[凌操與當時](https://zh.wikipedia.org/wiki/凌操 "wikilink")、仍為荊州強襲水軍將領[黃祖](../Page/黃祖.md "wikilink")手下的[甘寧交戰](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，結果戰死，令[凌統](../Page/凌統.md "wikilink")對[甘寧懷有深仇大恨](https://zh.wikipedia.org/wiki/甘寧 "wikilink")。因此在[甘寧離開](https://zh.wikipedia.org/wiki/甘寧 "wikilink")[黃祖](../Page/黃祖.md "wikilink")，改投長沙軍時，[凌統](../Page/凌統.md "wikilink")相當痛恨，甚至在他面前屢出惡言。雖然如此，當[凌統](../Page/凌統.md "wikilink")在戰場遭遇危難時，[甘寧不單沒有記仇](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，反而毅然出手相救，化解了是次危機，亦為[凌統](../Page/凌統.md "wikilink")與[甘寧關係轉變的契機](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，兩人自此以後開始放下仇怨，更成為彼此惺惺相惜的戰友及摯友。
 
 <!-- end list -->
 
@@ -212,7 +212,7 @@ Gundam）
 <!-- end list -->
 
   -
-    為了阻止[曹操軍以武力統一天下的野心](../Page/曹操.md "wikilink")，獨自南下，嘗試暗殺[曹操](../Page/曹操.md "wikilink")，中途得到[項羽幫助](https://zh.wikipedia.org/wiki/項羽 "wikilink")，但在[荀彧與](../Page/荀彧.md "wikilink")[許褚面前被逼撤退](https://zh.wikipedia.org/wiki/許褚 "wikilink")。事後在[項羽鼓勵下](https://zh.wikipedia.org/wiki/項羽 "wikilink")，決定再次返回西涼。赤壁之戰後，機駕立國，[曹丕便以此事為理由進攻西涼](../Page/曹丕.md "wikilink")。
+    為了阻止[曹操](../Page/曹操.md "wikilink")軍以武力統一天下的野心，獨自南下，嘗試暗殺[曹操](../Page/曹操.md "wikilink")，中途得到[項羽幫助](https://zh.wikipedia.org/wiki/項羽 "wikilink")，但在[荀彧](../Page/荀彧.md "wikilink")與[許褚面前被逼撤退](https://zh.wikipedia.org/wiki/許褚 "wikilink")。事後在[項羽鼓勵下](https://zh.wikipedia.org/wiki/項羽 "wikilink")，決定再次返回西涼。赤壁之戰後，機駕立國，[曹丕](../Page/曹丕.md "wikilink")便以此事為理由進攻西涼。
 
 <!-- end list -->
 
@@ -230,8 +230,8 @@ Gundam）
 Turn X）
 
   -
-    在三國傳外傳·武勇激鬥錄裡登場的最矚目之處，與傳說中的神秘英雄[項羽同名](https://zh.wikipedia.org/wiki/項羽 "wikilink")，與[劉封為好友](../Page/劉封.md "wikilink")。有著震懾千萬馬的氣勢，武藝極高，猛將[周泰](../Page/周泰.md "wikilink")、[許褚與之交手亦陷於苦戰](https://zh.wikipedia.org/wiki/許褚 "wikilink")，一邊哼着歌（楚之歌）一邊走遍著三璃紗。
-    在[馬謖的協助下](https://zh.wikipedia.org/wiki/馬謖 "wikilink")，在故鄉[荊州建立第四勢力](https://zh.wikipedia.org/wiki/荊州 "wikilink")[楚國](https://zh.wikipedia.org/wiki/楚 "wikilink")，被其餘三國大軍包圍中。在絕境之中，強令[馬謖離開](https://zh.wikipedia.org/wiki/馬謖 "wikilink")，獨自面對幾近絕路的困境。最後在戰場中重遇已經成為[劉備養子的](https://zh.wikipedia.org/wiki/劉備 "wikilink")[劉封](../Page/劉封.md "wikilink")([寇封](https://zh.wikipedia.org/wiki/寇封 "wikilink"))，感慨四百年前敗於劉姓武將([劉邦](https://zh.wikipedia.org/wiki/劉邦 "wikilink")?)的宿命，如今亦無法改變，便讓[劉封處死自己](../Page/劉封.md "wikilink")，只留下虞美人贈予的花朵，在戰場上開花，楚國就此滅亡。
+    在三國傳外傳·武勇激鬥錄裡登場的最矚目之處，與傳說中的神秘英雄[項羽同名](https://zh.wikipedia.org/wiki/項羽 "wikilink")，與[劉封](../Page/劉封.md "wikilink")為好友。有著震懾千萬馬的氣勢，武藝極高，猛將[周泰](../Page/周泰.md "wikilink")、[許褚與之交手亦陷於苦戰](https://zh.wikipedia.org/wiki/許褚 "wikilink")，一邊哼着歌（楚之歌）一邊走遍著三璃紗。
+    在[馬謖的協助下](https://zh.wikipedia.org/wiki/馬謖 "wikilink")，在故鄉[荊州建立第四勢力](https://zh.wikipedia.org/wiki/荊州 "wikilink")[楚國](https://zh.wikipedia.org/wiki/楚 "wikilink")，被其餘三國大軍包圍中。在絕境之中，強令[馬謖離開](https://zh.wikipedia.org/wiki/馬謖 "wikilink")，獨自面對幾近絕路的困境。最後在戰場中重遇已經成為[劉備養子的](https://zh.wikipedia.org/wiki/劉備 "wikilink")[劉封](../Page/劉封.md "wikilink")([寇封](https://zh.wikipedia.org/wiki/寇封 "wikilink"))，感慨四百年前敗於劉姓武將([劉邦](https://zh.wikipedia.org/wiki/劉邦 "wikilink")?)的宿命，如今亦無法改變，便讓[劉封](../Page/劉封.md "wikilink")處死自己，只留下虞美人贈予的花朵，在戰場上開花，楚國就此滅亡。
     2010年，以[NDS遊戲](https://zh.wikipedia.org/wiki/NDS "wikilink")[SD高達三國傳
     BraveBattleWarriors真三璃紗大戰附送的限定版模型方式推出](https://zh.wikipedia.org/wiki/SD高達三國傳_BraveBattleWarriors真三璃紗大戰 "wikilink")，同時在遊戲中亦新增以項羽為主角的特別篇章「項羽之亂」。
 

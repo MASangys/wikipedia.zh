@@ -1,6 +1,6 @@
 **Pucca**（中國娃娃）是一部由南韓Vooz公司授權於美國[華特迪士尼公司製作的動畫](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")。故事描述Suga村巨龍飯店的經營者Pucca（布卡）對一名忍者男孩Garu（加魯）陷入熱戀，並藉著恐怖的怪力在不經意中成功擄獲Garu的故事。
 
-隨著電視動畫於[迪士尼頻道上映](../Page/迪士尼頻道.md "wikilink")，造成歐美亞洲各地一片熱潮。僅有部分國家販售[DVD-Video版本](../Page/DVD-Video.md "wikilink")，而英國也發展了一系列的Pucca[童書](https://zh.wikipedia.org/wiki/童書 "wikilink")，文具用品系列亦進駐歐美量販賣場。在以色列也推出了獨立廠牌點心。
+隨著電視動畫於[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")上映，造成歐美亞洲各地一片熱潮。僅有部分國家販售[DVD-Video](../Page/DVD-Video.md "wikilink")版本，而英國也發展了一系列的Pucca[童書](https://zh.wikipedia.org/wiki/童書 "wikilink")，文具用品系列亦進駐歐美量販賣場。在以色列也推出了獨立廠牌點心。
 
 在韓國本地仍有漫畫系列發售，被翻譯為西班牙、德文與中文等版本，以Pucca環遊世界為中心的獨立故事。跟隨在他們身邊的同伴還有Abyo、Ching、Ssoso與寵物Mio、Yani、小雞Won（阿萬）等。其中Ching對Abyo有好感，而家貓Mio則喜歡生性風流的Yani。
 

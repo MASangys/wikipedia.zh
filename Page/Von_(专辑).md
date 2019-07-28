@@ -1,5 +1,5 @@
 ***Von***
-(*Hope*)是[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[後搖滾樂團](../Page/後搖滾.md "wikilink")[Sigur
+(*Hope*)是[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[後搖滾](../Page/後搖滾.md "wikilink")樂團[Sigur
 Rós的第一張專輯](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")。
 
 Sigur

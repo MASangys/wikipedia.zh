@@ -1,7 +1,7 @@
 **GeForce
 100系列**是[NVIDIA的第九代GeForce顯示晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，皆為[GeForce
 9系列重新更名而成](https://zh.wikipedia.org/wiki/GeForce_9 "wikilink")\[1\]，規格基本與對應的GeForce
-9系列產品相同，全系列僅提供於預先建置（[OEM](https://zh.wikipedia.org/wiki/OEM "wikilink")）系統中，而不會在[零售市場出現](../Page/零售.md "wikilink")。
+9系列產品相同，全系列僅提供於預先建置（[OEM](https://zh.wikipedia.org/wiki/OEM "wikilink")）系統中，而不會在[零售](../Page/零售.md "wikilink")市場出現。
 
 ## 產品型號
 
@@ -18,7 +18,7 @@
       - GeForce GT140 - GeForce 9600
         GT的更名產品，G94核心。有64個流處理器。但顯示核心頻率是600MHz，顯示記憶體頻率是1800MHz，頻寬是256位，採用512MB
         GDDR3。GT
-        140僅預裝於德國[Medion](https://zh.wikipedia.org/wiki/Medion "wikilink")（麥迪龍）公司出品的桌上型整機中，顯示卡由[微星科技製造](../Page/微星科技.md "wikilink")。
+        140僅預裝於德國[Medion](https://zh.wikipedia.org/wiki/Medion "wikilink")（麥迪龍）公司出品的桌上型整機中，顯示卡由[微星科技](../Page/微星科技.md "wikilink")製造。
       - GeForce GTS150 - GeForce 9800
         GTX+的更名產品，採用55nm的G92核心。後期走入零售市場，並更名為[GeForce
         GTS
@@ -26,7 +26,7 @@
         ID）皆為0615，所以在後期的驅動程式中GTS 150會顯示為GTS
         250。它有128個流處理器。標準版本的顯示核心頻率是738MHz，顯示記憶體頻率是2000MHz，頻寬是256位，採用1GB
         GDDR3。GTS
-        150預裝於[戴爾](../Page/戴爾.md "wikilink")、[宏碁等品牌的桌上型整機中](../Page/宏碁.md "wikilink")，顯示卡由[柏能科技製造](https://zh.wikipedia.org/wiki/柏能科技 "wikilink")。
+        150預裝於[戴爾](../Page/戴爾.md "wikilink")、[宏碁](../Page/宏碁.md "wikilink")等品牌的桌上型整機中，顯示卡由[柏能科技製造](https://zh.wikipedia.org/wiki/柏能科技 "wikilink")。
 
 <!-- end list -->
 

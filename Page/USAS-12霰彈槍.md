@@ -11,11 +11,11 @@ Explosives，簡稱：ATF）卻迅速宣布，它「並不適合運動的用途�
 至到今天，此槍仍然由韓國大宇精密工業公司生產及向軍隊及執法機關銷售。但是最近，美國槍械製造商，位於[斯科茨代爾的](https://zh.wikipedia.org/wiki/斯科茨代爾_\(美國\) "wikilink")[Ameetec武器公司](https://zh.wikipedia.org/wiki/Ameetec武器公司 "wikilink")，宣佈已開始生產USAS-12的半自動仿製型，稱為WM-12。它和USAS-12的主要差異在於移除了USAS-12上方的固定金屬機械[照門和提把](https://zh.wikipedia.org/wiki/照門 "wikilink")，取而代之的是[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")。根據製造商所指，WM-12不是「毀滅性武器」，因此可以向平民出售。\[1\]
 但是事實上，到了2008年1月，WM-12已經不能再在Ameetec武器公司的網上購物清單上發現，所以這有可能是因為他倆決定停止生產。實際上，只有極少數的WM-12都是採用USAS-12霰彈槍的設計。
 
-類似設計概念的[Saiga-12半自動霰彈槍都是由](../Page/Saiga-12半自動霰彈槍.md "wikilink")[彈匣供彈](../Page/彈匣.md "wikilink")。然而，目前的Saiga-12可以通過多個經銷商出售，而且沒有被當局歸類為「毀滅性武器」。\[2\]
+類似設計概念的[Saiga-12半自動霰彈槍](../Page/Saiga-12半自動霰彈槍.md "wikilink")都是由[彈匣](../Page/彈匣.md "wikilink")供彈。然而，目前的Saiga-12可以通過多個經銷商出售，而且沒有被當局歸類為「毀滅性武器」。\[2\]
 
 ## 設計
 
-USAS-12是一種採用氣動式設計，可以選擇半自動或[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，外型與[M16系列相似](../Page/M16突擊步槍.md "wikilink")，其設計目的是提供持續而且強大火力的[全自動霰彈槍](https://zh.wikipedia.org/wiki/自動霰彈槍 "wikilink")，同時無論左撇子或右撇子皆可按照習慣改變進彈拉柄及拋殼方向。它可以因應情況而使用10發可拆式盒型[彈匣或](../Page/彈匣.md "wikilink")20發可拆式[彈鼓其中一種供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，這兩種類型供彈具都是由塑膠[聚合物製成](../Page/聚合物.md "wikilink")，而彈鼓背板由半透明聚合物製成以以便於射手快速觀看霰彈剩餘量。其有效距離為40-{zh-hans:米;zh-hant:米;zh-tw:公尺}-。專供軍用的USAS-12在握柄上方有一射擊模式切換桿，可旋轉切換桿決定半自動操作或全自動操作，在全自動操作時會以360發每分鐘的速度射擊。除了使用一般12鉛徑霰彈之外，USAS-12也可使用單發彈丸的連續射擊。[鹿彈有效射程約在](https://zh.wikipedia.org/wiki/霰彈彈丸 "wikilink")12\~25公尺，而單發彈丸有效射程約在50公尺左右。
+USAS-12是一種採用氣動式設計，可以選擇半自動或[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，外型與[M16系列相似](../Page/M16突擊步槍.md "wikilink")，其設計目的是提供持續而且強大火力的[全自動霰彈槍](https://zh.wikipedia.org/wiki/自動霰彈槍 "wikilink")，同時無論左撇子或右撇子皆可按照習慣改變進彈拉柄及拋殼方向。它可以因應情況而使用10發可拆式盒型[彈匣](../Page/彈匣.md "wikilink")或20發可拆式[彈鼓其中一種供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，這兩種類型供彈具都是由塑膠[聚合物](../Page/聚合物.md "wikilink")製成，而彈鼓背板由半透明聚合物製成以以便於射手快速觀看霰彈剩餘量。其有效距離為40-{zh-hans:米;zh-hant:米;zh-tw:公尺}-。專供軍用的USAS-12在握柄上方有一射擊模式切換桿，可旋轉切換桿決定半自動操作或全自動操作，在全自動操作時會以360發每分鐘的速度射擊。除了使用一般12鉛徑霰彈之外，USAS-12也可使用單發彈丸的連續射擊。[鹿彈有效射程約在](https://zh.wikipedia.org/wiki/霰彈彈丸 "wikilink")12\~25公尺，而單發彈丸有效射程約在50公尺左右。
 
 ## 美國禁售USAS-12
 
@@ -47,7 +47,7 @@ USAS-12是一種採用氣動式設計，可以選擇半自動或[全自動射擊
     zh-tw:絕對武力;}-Online](../Page/絕對武力Online.md "wikilink")》（Counter-Strike
     Online）：命名為“USAS12”，為隨遊戲登場武器，設定為[恐怖份子專用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，以20發[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，造型上取消了[機械瞄具](../Page/機械瞄具.md "wikilink")，奇怪地在每次射擊後會自動閉上。此外並有一種迷彩塗裝的改良型和反殭屍版本—Skull-11和CROW-11。
       - Skull-11的改進之處包括：造型上添加了[機械瞄具](../Page/機械瞄具.md "wikilink")、改以更大容量的28發彈鼓供彈、分別於提把和[護木上安裝了不可用的Aimpoint](https://zh.wikipedia.org/wiki/護木 "wikilink")
-        Comp[紅點鏡和](../Page/紅點鏡.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")，並能使用「散彈模式」和「[鹿彈模式](https://zh.wikipedia.org/wiki/霰彈彈丸 "wikilink")」兩種攻擊模式。
+        Comp[紅點鏡](../Page/紅點鏡.md "wikilink")和[戰術燈](../Page/戰術燈.md "wikilink")，並能使用「散彈模式」和「[鹿彈模式](https://zh.wikipedia.org/wiki/霰彈彈丸 "wikilink")」兩種攻擊模式。
   - 2008年—《[-{zh-cn:孤岛惊魂;
     zh-tw:極地戰嚎;}-2](../Page/極地戰嚎2.md "wikilink")》（Far
     Cry 2）
@@ -63,7 +63,7 @@ USAS-12是一種採用氣動式設計，可以選擇半自動或[全自動射擊
   - 2011年—《[-{zh-cn:使命召唤：现代战争3;
     zh-tw:決勝時刻：現代戰爭3;}-](../Page/決勝時刻：現代戰爭3.md "wikilink")》（Call
     of Duty: Modern Warfare 3）：命名為“USAS
-    12”，只在聯機模式及生存模式出現，造型上使用10發[彈匣供彈卻只可裝彈](../Page/彈匣.md "wikilink")6發，（聯機模式時可使用改裝：延長彈匣增至9發），最高攜彈量為56發（聯機模式），可以[全自動射擊但射速不可思議的慢](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。聯機模式時於等級4解鎖，並可以使用[前握把](../Page/輔助握把.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（英語：EOTech）、延長彈匣（9發）；生存模式時於等級6解鎖，價格為$2,000。
+    12”，只在聯機模式及生存模式出現，造型上使用10發[彈匣](../Page/彈匣.md "wikilink")供彈卻只可裝彈6發，（聯機模式時可使用改裝：延長彈匣增至9發），最高攜彈量為56發（聯機模式），可以[全自動射擊但射速不可思議的慢](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。聯機模式時於等級4解鎖，並可以使用[前握把](../Page/輔助握把.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（英語：EOTech）、延長彈匣（9發）；生存模式時於等級6解鎖，價格為$2,000。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名为“USAS-12”，使用20发[弹鼓供弹](https://zh.wikipedia.org/wiki/弹鼓 "wikilink")，于上提把前方加装一小段战术导轨用于安装瞄准镜。为医疗兵专用武器，拥有韩国国旗涂装版本，两者均可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、霰弹枪消音器、[霰弹枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[霰弹枪刺刀](../Page/刺刀.md "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、[Aimpoint
     Comp
@@ -112,6 +112,6 @@ USAS-12是一種採用氣動式設計，可以選擇半自動或[全自動射擊
 1.  [Ameetec Arms
     WM-12.](http://www.ameetecarms.com/store/index.php?main_page=product_info&products_id=62&zenid=9707e028c5708f02f8f7253d802255db)
      Retrieved on December 28, 2007.
-2.  Saiga-12鉛徑霰彈半自動霰彈槍可從centerfiresystems.com上發現。這是因為一些不受到[國家槍械法所管制的槍械交易商位於](https://zh.wikipedia.org/wiki/國家槍械法 "wikilink")[肯塔基州的](../Page/肯塔基州.md "wikilink")[凡爾賽](https://zh.wikipedia.org/wiki/凡爾賽_\(肯塔基州\) "wikilink")。
+2.  Saiga-12鉛徑霰彈半自動霰彈槍可從centerfiresystems.com上發現。這是因為一些不受到[國家槍械法所管制的槍械交易商位於](https://zh.wikipedia.org/wiki/國家槍械法 "wikilink")[肯塔基州](../Page/肯塔基州.md "wikilink")的[凡爾賽](https://zh.wikipedia.org/wiki/凡爾賽_\(肯塔基州\) "wikilink")。
 3.  <https://sites.google.com/site/worldinventory/wiw_sa_colombia>
 4.  <https://sites.google.com/site/worldinventory/wiw_as_koreasouth>

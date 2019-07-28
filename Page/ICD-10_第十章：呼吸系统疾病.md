@@ -8,13 +8,13 @@
   - J02 急性[咽炎](../Page/咽炎.md "wikilink")
   - J03 急性[扁桃体炎](https://zh.wikipedia.org/wiki/扁桃体炎 "wikilink")
   - J04
-    急性[喉炎和](../Page/喉炎.md "wikilink")[气管炎](../Page/气管炎.md "wikilink")
+    急性[喉炎](../Page/喉炎.md "wikilink")和[气管炎](../Page/气管炎.md "wikilink")
   - J05 急性梗阻性喉炎(哮吼)和[会厌炎](https://zh.wikipedia.org/wiki/会厌炎 "wikilink")
   - J06 多发性和未特指部位的急性上呼吸道感染
 
 ## 流行性感冒和肺炎（J09-J18）
 
-[流行性感冒和](../Page/流行性感冒.md "wikilink")[肺炎](../Page/肺炎.md "wikilink")（J09-J18）
+[流行性感冒](../Page/流行性感冒.md "wikilink")和[肺炎](../Page/肺炎.md "wikilink")（J09-J18）
 
   - J09 Influenza due to identified avian influenza virus
   - J10 由于被标明的流行性感冒病毒引起的[流行性感冒](../Page/流行性感冒.md "wikilink")
@@ -27,7 +27,7 @@
   - J15 [细菌性肺炎](../Page/细菌性肺炎.md "wikilink")，不可归类在他处者
   - J16 由于其他传染性病原体引起的[肺炎](../Page/肺炎.md "wikilink")，不可归类在他处者
   - J17 分类于他处的疾病引起的肺炎
-  - J18 [病原体未特指的肺炎](../Page/病原体.md "wikilink")
+  - J18 [病原体](../Page/病原体.md "wikilink")未特指的肺炎
 
 ## 其他急性下呼吸道感染（J20-J22）
 
@@ -50,7 +50,7 @@
   - J35 [扁桃体和腺样体慢性疾病](https://zh.wikipedia.org/wiki/扁桃体 "wikilink")
   - J36 [扁桃体周围脓肿](https://zh.wikipedia.org/wiki/扁桃体 "wikilink")
   - J37
-    慢性[喉炎和](../Page/喉炎.md "wikilink")[喉气管炎](https://zh.wikipedia.org/wiki/喉气管炎 "wikilink")
+    慢性[喉炎](../Page/喉炎.md "wikilink")和[喉气管炎](https://zh.wikipedia.org/wiki/喉气管炎 "wikilink")
   - J38 声带和喉疾病，不可归类在他处者
   - J39 上呼吸道的其他疾病
   - J40 鼻中隔偏曲
@@ -74,7 +74,7 @@
 
   - J60 [煤炭工尘肺](https://zh.wikipedia.org/wiki/煤炭工尘肺 "wikilink")
   - J61
-    由于[石棉和其他矿物纤维引起的](../Page/石棉.md "wikilink")[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
+    由于[石棉](../Page/石棉.md "wikilink")和其他矿物纤维引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
   - J62
     由于含[硅](../Page/硅.md "wikilink")(矽)粉尘引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
   - J63 由于其他无机粉尘引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
@@ -104,7 +104,7 @@
 
 ## 胸膜的其他疾病（J90-J94）
 
-[胸膜的其他疾病](../Page/胸膜.md "wikilink")（J90-J94）
+[胸膜](../Page/胸膜.md "wikilink")的其他疾病（J90-J94）
 
   - J90 胸膜渗出，不可归类在他处者
   - J91 分类于他处的情况引起的胸膜渗漏

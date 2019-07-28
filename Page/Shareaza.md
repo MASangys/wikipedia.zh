@@ -1,6 +1,6 @@
 **Shareaza**（昵称：）是一个[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享](https://zh.wikipedia.org/wiki/文件共享 "wikilink")[软件](../Page/软件.md "wikilink")，支持[Gnutella](../Page/Gnutella.md "wikilink")、[Gnutella2](https://zh.wikipedia.org/wiki/Gnutella2 "wikilink")（由Shareaza开发者为其原创）、[eDonkey](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")、[BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[HTTP网络协议](https://zh.wikipedia.org/wiki/HTTP "wikilink")，可使用[Magnet链接](https://zh.wikipedia.org/wiki/Magnet链接 "wikilink")、[eD2k链接](https://zh.wikipedia.org/wiki/eD2k链接 "wikilink")、[Piolet链接以及现在不再建议使用的Gnutella链接](https://zh.wikipedia.org/wiki/Piolet "wikilink")\[1\]。另外，Shareaza还支持30种语言界面。
 
-Shareaza最初由迈克尔·斯托克斯（）开发\[2\]。2004年6月1日，Shareaza2.0与其源代码一同发布。Shareaza遵循[GNU通用公共许可证协议](../Page/GNU通用公共许可证.md "wikilink")，因而是一款[自由软件](../Page/自由软件.md "wikilink")。现在Shareaza由一群程序员志愿者开发维护。
+Shareaza最初由迈克尔·斯托克斯（）开发\[2\]。2004年6月1日，Shareaza2.0与其源代码一同发布。Shareaza遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")协议，因而是一款[自由软件](../Page/自由软件.md "wikilink")。现在Shareaza由一群程序员志愿者开发维护。
 
 ## 功能
 
@@ -14,15 +14,15 @@ Shareaza主要功能有：
   - 自定义皮肤外观样式，以及3个用户模式。
   - 30种语言支持。
   - 可使用插件模组扩充其功能。
-  - [IRC聊天](../Page/IRC.md "wikilink")、傳送訊息。
+  - [IRC](../Page/IRC.md "wikilink")聊天、傳送訊息。
   - 安全性黑名單，可過濾惡意[IP與客戶端](https://zh.wikipedia.org/wiki/IP "wikilink")。
 
 ## 历史
 
 [Shareaza.png](https://zh.wikipedia.org/wiki/File:Shareaza.png "fig:Shareaza.png")
-在2002年年中，迈克尔·斯托克斯发布了一个新版[Gnutella客户端](../Page/Gnutella.md "wikilink")，他将之命名为Shareaza。在后来的两年内，斯托克斯又为Shareaza增加了一些网络的支持，包括：[eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")、[BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，此外还有一个斯托克斯基于Gnutella重写的协议，他称之为[Gnutella2](https://zh.wikipedia.org/wiki/Gnutella2 "wikilink")。
+在2002年年中，迈克尔·斯托克斯发布了一个新版[Gnutella](../Page/Gnutella.md "wikilink")客户端，他将之命名为Shareaza。在后来的两年内，斯托克斯又为Shareaza增加了一些网络的支持，包括：[eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")、[BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，此外还有一个斯托克斯基于Gnutella重写的协议，他称之为[Gnutella2](https://zh.wikipedia.org/wiki/Gnutella2 "wikilink")。
 
-2004年6月1日斯托克斯发布了Shareaza第2版的源代码，并声明遵循[GNU通用公共许可证（GPL）协议](../Page/GNU通用公共许可证.md "wikilink")，从而使之成为了一款[开源](../Page/开放源代码.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。GPL协议将对所有Shareaza第2版生效。
+2004年6月1日斯托克斯发布了Shareaza第2版的源代码，并声明遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL）协议，从而使之成为了一款[开源](../Page/开放源代码.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。GPL协议将对所有Shareaza第2版生效。
 
 从一开始，Shareaza就声称“完全免费，无[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")，无[间谍软件](../Page/间谍软件.md "wikilink")，不会引导你升级到商业版本”，之后其一直使用相同或类似的标语\[3\]。
 
@@ -31,9 +31,9 @@ Shareaza主要功能有：
 ### 域名丢失
 
 2007年12月19日，Shareaza原官方网站域名shareaza.com被重定向到了一个与真正官方Shareaza不相关的网站，该网站自称官方Shareaza，提供了一个名为“Shareaza
-V4”的客户端下载\[5\]（目前为6.1），该客户端是在[iMesh基础上仅修改了少许图形界面而成的](https://zh.wikipedia.org/wiki/iMesh "wikilink")，它无法连接到任何开放的P2P网络，而且对分享的内容有着有很大的限制，它也向用户提供有[数字版权管理保护的音乐](../Page/数字版权管理.md "wikilink")。由于官方Shareaza开发团队无法获得此shareaza.com域名，只得将真正官方主页建立在了[SourceForge上](../Page/SourceForge.md "wikilink")。
+V4”的客户端下载\[5\]（目前为6.1），该客户端是在[iMesh基础上仅修改了少许图形界面而成的](https://zh.wikipedia.org/wiki/iMesh "wikilink")，它无法连接到任何开放的P2P网络，而且对分享的内容有着有很大的限制，它也向用户提供有[数字版权管理](../Page/数字版权管理.md "wikilink")保护的音乐。由于官方Shareaza开发团队无法获得此shareaza.com域名，只得将真正官方主页建立在了[SourceForge](../Page/SourceForge.md "wikilink")上。
 
-从2008年1月1日开始，该域名的持有者、与[美國唱片業協會（RIAA）关系密切的一家](../Page/美國唱片業協會.md "wikilink")[塞浦路斯公司](https://zh.wikipedia.org/wiki/塞浦路斯 "wikilink")，Discordia有限公司利用了官方原版Shareaza
+从2008年1月1日开始，该域名的持有者、与[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")（RIAA）关系密切的一家[塞浦路斯公司](https://zh.wikipedia.org/wiki/塞浦路斯 "wikilink")，Discordia有限公司利用了官方原版Shareaza
 2.3.1.0以前版本的缺陷。公司建议用户从开源的官方Shareaza“更新”至公司的Shareaza V4。官方Shareaza
 2.3.1.0修复了问题\[6\]。2008年1月3日发布的2.3.1.0也是最后一个支持[Windows
 9x的Shareaza官方版本](../Page/Windows_9x.md "wikilink")\[7\]。
@@ -52,7 +52,7 @@ Trust](https://zh.wikipedia.org/wiki/Web_of_Trust "wikilink")（）也将shareaz
 
 ## Shareaza与Linux
 
-正在开发当中的[Sharelin基于Shareaza制作](https://zh.wikipedia.org/wiki/Sharelin "wikilink")，可在[Linux上运行](../Page/Linux.md "wikilink")。Sharelin是由Shareaza的一名开发者制作的，在SourceForge上有项目页。
+正在开发当中的[Sharelin基于Shareaza制作](https://zh.wikipedia.org/wiki/Sharelin "wikilink")，可在[Linux](../Page/Linux.md "wikilink")上运行。Sharelin是由Shareaza的一名开发者制作的，在SourceForge上有项目页。
 
 也可通过Wine来运行Shareaza。但是媒体播放器将无法正常运行，上传下载功能也可能会有缺陷。\[14\]
 

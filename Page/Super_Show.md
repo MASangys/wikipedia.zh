@@ -3,7 +3,7 @@ Junior](../Page/Super_Junior.md "wikilink")2008～2009年在亚洲举办的巡�
 Don](../Page/Don't_Don.md "wikilink")》发行5个月后开始的。\[1\]演唱会演出了团体的前两张专辑的大部分曲目，包括他们的热门单曲[U](https://zh.wikipedia.org/wiki/U_\(Super_Junior\) "wikilink")，也包括子团体[Super
 Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super
 Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super
-Junior-M的主打曲目](../Page/Super_Junior-M.md "wikilink")。演唱会以在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的三站拉开序幕](https://zh.wikipedia.org/wiki/首尔 "wikilink")，然后改变路线至[泰国以及](../Page/泰国.md "wikilink")[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")。
+Junior-M的主打曲目](../Page/Super_Junior-M.md "wikilink")。演唱会以在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的三站拉开序幕](https://zh.wikipedia.org/wiki/首尔 "wikilink")，然后改变路线至[泰国](../Page/泰国.md "wikilink")以及[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")。
 
 ## 历史
 
@@ -32,7 +32,7 @@ Super Show现场演唱会专辑CD于2008年5月19日在韩国发行。DVD在2008
 
 [张力尹是最后一场Super](https://zh.wikipedia.org/wiki/张力尹 "wikilink")
 Show（2009年3月7日成都场）的开场表演嘉宾，演唱了《星愿》和《幸福的左岸》。[TRAX的金政模也是最后一场Super](https://zh.wikipedia.org/wiki/TRAX "wikilink")
-Show的特邀嘉宾，在[希澈的表演](../Page/希澈.md "wikilink")“crazy”中为其吉他伴奏。Super
+Show的特邀嘉宾，在[希澈](../Page/希澈.md "wikilink")的表演“crazy”中为其吉他伴奏。Super
 Junior-M的成员[Henry在每场演唱会都表演了](https://zh.wikipedia.org/wiki/刘宪华 "wikilink")《Don't
 Don》的小提琴版，并与
 [周觅一起参加了中国站的演出](https://zh.wikipedia.org/wiki/周觅 "wikilink")。
@@ -94,7 +94,7 @@ Don》的小提琴版，并与
   - "The First Feeling" - [圭賢](../Page/圭賢.md "wikilink")
     ([厉旭钢琴伴奏](https://zh.wikipedia.org/wiki/厉旭 "wikilink"))
   - "A Doll" -
-    [利特与](../Page/利特.md "wikilink")[艺声合唱](https://zh.wikipedia.org/wiki/艺声 "wikilink")
+    [利特](../Page/利特.md "wikilink")与[艺声合唱](https://zh.wikipedia.org/wiki/艺声 "wikilink")
   - "Pink Spider" - [希澈](../Page/希澈.md "wikilink")
     ([晟敏](../Page/晟敏.md "wikilink")（[电吉他](../Page/电吉他.md "wikilink")）、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")（架子鼓）伴奏)
   - "Crazy" - 希澈
@@ -187,7 +187,7 @@ Don》的小提琴版，并与
 <tr class="even">
 <td><p>2009年3月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a><a href="https://zh.wikipedia.org/wiki/成都" title="wikilink">成都</a></p></td>
-<td><p><a href="../Page/四川大学.md" title="wikilink">四川大学龙泉校区龙泉阳光体育馆</a></p></td>
+<td><p><a href="../Page/四川大学.md" title="wikilink">四川大学</a>龙泉校区龙泉阳光体育馆</p></td>
 <td></td>
 </tr>
 </tbody>

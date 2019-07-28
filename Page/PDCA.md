@@ -1,6 +1,6 @@
 [PDCA_Cycle.svg](https://zh.wikipedia.org/wiki/File:PDCA_Cycle.svg "fig:PDCA_Cycle.svg")
 [PDCA_Process.png](https://zh.wikipedia.org/wiki/File:PDCA_Process.png "fig:PDCA_Process.png")
-**PDCA**（Plan-Do-Check-Act的簡稱）循環式[品質](https://zh.wikipedia.org/wiki/品質 "wikilink")[管理](https://zh.wikipedia.org/wiki/管理 "wikilink")，針對品質工作按規劃、執行、查核與行動來進行活動，以確保可靠度目標之達成，並進而促使品質持續改善。由美國學者[愛德華茲·戴明提出](../Page/愛德華茲·戴明.md "wikilink")，因此也称**戴明环**。这个四步的循环一般用来提高產品品質和改善产品生产过程。这个过程循环也被人熟知为：Plan-Do-Study-Act（PDSA），戴明圆环（Deming
+**PDCA**（Plan-Do-Check-Act的簡稱）循環式[品質](https://zh.wikipedia.org/wiki/品質 "wikilink")[管理](https://zh.wikipedia.org/wiki/管理 "wikilink")，針對品質工作按規劃、執行、查核與行動來進行活動，以確保可靠度目標之達成，並進而促使品質持續改善。由美國學者[愛德華茲·戴明](../Page/愛德華茲·戴明.md "wikilink")提出，因此也称**戴明环**。这个四步的循环一般用来提高產品品質和改善产品生产过程。这个过程循环也被人熟知为：Plan-Do-Study-Act（PDSA），戴明圆环（Deming
 cicle/cycle/wheel）或者哈特利圆环。另一个不同的版本是OPDCA，加入了O（observation观察），有些说法认为是获得当前的状况的意思。
 
 ## PDCA的含义
@@ -25,7 +25,7 @@ cicle/cycle/wheel）或者哈特利圆环。另一个不同的版本是OPDCA，�
 
 ## 关于PDCA
 
-PDCA是由于[愛德華茲·戴明博士而出名的](../Page/愛德華茲·戴明.md "wikilink")。很多人认为戴明博士是现代產品品質控制的始祖。但是他在著作里总是把这个循环称为“休哈特(W.A.Shewhart)循环”。晚些时候，戴明修改了PDCA，他把这个循环修改成了PDSA用study（研究、学习）替代了检查（check），他认为这样更好表达第三步是来研究而不是检查。PDCA这个概念最初是在一个科学基础上建立的，从培根的学说中延伸出来的。（《Novum
+PDCA是由于[愛德華茲·戴明](../Page/愛德華茲·戴明.md "wikilink")博士而出名的。很多人认为戴明博士是现代產品品質控制的始祖。但是他在著作里总是把这个循环称为“休哈特(W.A.Shewhart)循环”。晚些时候，戴明修改了PDCA，他把这个循环修改成了PDSA用study（研究、学习）替代了检查（check），他认为这样更好表达第三步是来研究而不是检查。PDCA这个概念最初是在一个科学基础上建立的，从培根的学说中延伸出来的。（《Novum
 Organum》1620）科学的过程大概可以总结为《假说－实践－进步》（hypothesis－experiment－evaluation）。休哈特形容制造业是：控制下的－数据控制下的一个三步骤的过程来规范制造业。休哈特认为一切可以收集到的数据都要拿来为货物的生产需要服务。这些数据可以用来减少人为误差从而提高生产的质量。显然这个过程是一个基于实践和进步的行动。戴明在上世纪50年代在日本的演说中强调日本使用的精简版的PDCA可以扩展为今天的PDSA；尤其是study研究这一步最重要；而且使用这个词更比休哈特使用check检查的意思更接近解。
 
 [PDCA-Multi-Loop.png](https://zh.wikipedia.org/wiki/File:PDCA-Multi-Loop.png "fig:PDCA-Multi-Loop.png")
@@ -40,7 +40,7 @@ PDCA文化。西格玛6项目中使用“制定－测量－分析－提高－控
 
 日本暢銷書《鬼速PDCA》出版商Cross
 Media出版社編輯長谷川諒回憶，這個冷冰冰的管理學的暴紅，「故事，大概要從2016年的4月開始說起……。」\[1\]
-當時，一本以日本[軟銀董事長](../Page/軟銀.md "wikilink")[孫正義為主角的新書](../Page/孫正義.md "wikilink")《孫正義十倍速達標學》出版，其第六章就是「高速PDCA」。長谷川諒表示，「大家忽然發現，原來這個企管課本裡的學問，竟然可以用來加強個人競爭力。」，到5月時，一向標榜用PDCA強化品管的[豐田汽車](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，公布了史上新高的獲利數字，讓討論熱度持續延燒。
+當時，一本以日本[軟銀](../Page/軟銀.md "wikilink")董事長[孫正義](../Page/孫正義.md "wikilink")為主角的新書《孫正義十倍速達標學》出版，其第六章就是「高速PDCA」。長谷川諒表示，「大家忽然發現，原來這個企管課本裡的學問，竟然可以用來加強個人競爭力。」，到5月時，一向標榜用PDCA強化品管的[豐田汽車](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，公布了史上新高的獲利數字，讓討論熱度持續延燒。
 2017年2月，《解決孫社長所有難題的超厲害PDCA》在日本出版，曾任孫正義貼身祕書多年的作者三木雄信指出，孫正義就是靠PDCA戰勝所有困難，包括如何做到「超乎常人的目標執行力」、「為達目的無所不用其極」、「追蹤數據進而縝密驗證」以及「沒有最好、只有更好」等，而這些正是PDCA的精髓。
 說穿了，PDCA就是一趟修煉，讓人們能夠在一次一次的設定目標與執行過程中，練就凡事精確到位、按部就班的功夫。日本年輕人正在視它為個人進化的新解方，而台灣各大企業也逐漸將其視為員工必備要件。
 

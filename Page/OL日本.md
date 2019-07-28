@@ -1,11 +1,11 @@
 **OL日本**（OLにっぽん）是2008年10月8日开始毎周三的22:00 - 22:54 (JST)
-在[日本电视台放送的](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")。又名《日本[女白领](../Page/办公室女职员.md "wikilink")》或《日本[女职员](../Page/办公室女职员.md "wikilink")》。2009年6月5日[緯來日本台以](../Page/緯來日本台.md "wikilink")**《OL生存戰》**首播。
+在[日本电视台放送的](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")。又名《日本[女白领](../Page/办公室女职员.md "wikilink")》或《日本[女职员](../Page/办公室女职员.md "wikilink")》。2009年6月5日[緯來日本台](../Page/緯來日本台.md "wikilink")以**《OL生存戰》**首播。
 
 ## 概要
 
-[編劇是同时段电视剧](../Page/編劇.md "wikilink")「[派遣员的品格](https://zh.wikipedia.org/wiki/派遣员的品格 "wikilink")」（2007年1月期）的主刀[中園美保](../Page/中園美保.md "wikilink")。[觀月亞里莎主演](../Page/觀月亞里莎.md "wikilink")，她也參與同時段電視劇「[齊藤太太](../Page/齊藤太太.md "wikilink")」（2008年1月期）的演出。
+[編劇](../Page/編劇.md "wikilink")是同时段电视剧「[派遣员的品格](https://zh.wikipedia.org/wiki/派遣员的品格 "wikilink")」（2007年1月期）的主刀[中園美保](../Page/中園美保.md "wikilink")。[觀月亞里莎](../Page/觀月亞里莎.md "wikilink")主演，她也參與同時段電視劇「[齊藤太太](../Page/齊藤太太.md "wikilink")」（2008年1月期）的演出。
 
-该电视剧是描写关于活跃于「[外判](../Page/外判.md "wikilink")」（工作外包）[办公室女职员们的悲喜剧](../Page/办公室女职员.md "wikilink")。
+该电视剧是描写关于活跃于「[外判](../Page/外判.md "wikilink")」（工作外包）[办公室女职员](../Page/办公室女职员.md "wikilink")们的悲喜剧。
 
 ## 剧情
 
@@ -172,12 +172,12 @@
 </tbody>
 </table>
 
-  - 由於[讀賣巨人對](../Page/讀賣巨人.md "wikilink")[阪神虎的棒球延長比賽](../Page/阪神虎.md "wikilink")，第一集延後至22:15
+  - 由於[讀賣巨人](../Page/讀賣巨人.md "wikilink")對[阪神虎](../Page/阪神虎.md "wikilink")的棒球延長比賽，第一集延後至22:15
     - 23:24播出
 
 ## 爭議
 
-雖然此劇對[中國人有較為正面的描寫](../Page/中國人.md "wikilink")，但還是引起部份中國網友的不滿，認為該劇還是有對中國人的一些刻板印象。
+雖然此劇對[中國人](../Page/中國人.md "wikilink")有較為正面的描寫，但還是引起部份中國網友的不滿，認為該劇還是有對中國人的一些刻板印象。
 
 ## 外部連結
 

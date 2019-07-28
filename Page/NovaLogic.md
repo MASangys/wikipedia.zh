@@ -7,7 +7,7 @@ Hills，目前公司的執行長是John A. Garcia。
   - 2004年Novalogic開發了联合进攻：飓风来袭（Joint Operations: Typhoon
     Rising），於多人遊戲模式中允許150個玩家進行對戰，為當時最大的非捐款FPS比賽。
   - 2005年Novalogic開發了三角洲部隊：黑鷹計劃（Delta Force: Black Hawk
-    Down）[Xbox版本](../Page/Xbox.md "wikilink")，於多人遊戲模式中允許50個玩家進行對戰，打破當時的紀錄。
+    Down）[Xbox](../Page/Xbox.md "wikilink")版本，於多人遊戲模式中允許50個玩家進行對戰，打破當時的紀錄。
   - 2016年10月31日，[THQ
     Nordic已完成對Novalogic的收購](../Page/THQ_Nordic.md "wikilink")，並取得Novalogic旗下全系列遊戲品牌特許經營權。\[1\]
 

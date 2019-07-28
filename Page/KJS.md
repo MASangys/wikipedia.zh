@@ -1,4 +1,4 @@
-**KJS**是[KDE的](../Page/KDE.md "wikilink")[ECMAScript](../Page/ECMAScript.md "wikilink")、[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，最初是由在2000年為KDE項目的[Konqueror瀏覽器開發](../Page/Konqueror.md "wikilink")。
+**KJS**是[KDE](../Page/KDE.md "wikilink")的[ECMAScript](../Page/ECMAScript.md "wikilink")、[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，最初是由在2000年為KDE項目的[Konqueror](../Page/Konqueror.md "wikilink")瀏覽器開發。
 
 在2002年6月13日，在郵寄清單宣布，[Apple釋出](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink")[JavaScriptCore](../Page/WebKit.md "wikilink")，一個基於KJS
 \[1\]的用於[macOS的框架](https://zh.wikipedia.org/wiki/macOS "wikilink")。通過WebKit項目，JavaScriptCore已經演變成SquirrelFish

@@ -1,5 +1,5 @@
 《**-{zh-hans:BLEACH;zh-hant:BLEACH;zh-tw:BLEACH死神;zh-hk:BLEACH漂靈;zh-mo:BLEACH漂靈;}-**》是以漫畫《[BLEACH](../Page/BLEACH.md "wikilink")》為原作，[Studio
-Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動畫2004年10月5日起在日本[東京電視台聯播網播放](../Page/東京電視台.md "wikilink")。台灣[八大綜合台自](../Page/八大綜合台.md "wikilink")2006年6月3日、[Animax自](../Page/Animax_Asia.md "wikilink")2009年12月16日、[中視自](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2012年4月30日、[衛視電影台自](../Page/衛視電影台.md "wikilink")2012年8月20日播放。香港[J2電視台自](../Page/J2.md "wikilink")2008年4月30日、Animax自2010年1月4日播放。
+Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動畫2004年10月5日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放。台灣[八大綜合台](../Page/八大綜合台.md "wikilink")自2006年6月3日、[Animax自](../Page/Animax_Asia.md "wikilink")2009年12月16日、[中視自](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2012年4月30日、[衛視電影台](../Page/衛視電影台.md "wikilink")自2012年8月20日播放。香港[J2](../Page/J2.md "wikilink")電視台自2008年4月30日、Animax自2010年1月4日播放。
 
 ## 概要
 
@@ -11,7 +11,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 
 ## 故事内容
 
-在現世，死神[朽木露琪亞突然闖進了從小就有強大靈力的少年](../Page/朽木露琪亞.md "wikilink")—[黑崎一護的卧室](../Page/黑崎一護.md "wikilink")，緊接着一只名为虚的怪物攻擊了一護的家人，一護和露琪亞一起投入了消滅虚的戰鬥中。露琪亞在戰鬥中受傷並無法行動，所以她只得把斬魄刀插進一護的身體裡，藉此把死神的靈力给一護，讓他變成一位死神。從此，擁有了**「為了守護」**所需力量的少年，他的生活，發生了翻天覆地的變化……
+在現世，死神[朽木露琪亞](../Page/朽木露琪亞.md "wikilink")突然闖進了從小就有強大靈力的少年—[黑崎一護](../Page/黑崎一護.md "wikilink")的卧室，緊接着一只名为虚的怪物攻擊了一護的家人，一護和露琪亞一起投入了消滅虚的戰鬥中。露琪亞在戰鬥中受傷並無法行動，所以她只得把斬魄刀插進一護的身體裡，藉此把死神的靈力给一護，讓他變成一位死神。從此，擁有了**「為了守護」**所需力量的少年，他的生活，發生了翻天覆地的變化……
 
 ## 各話標題
 

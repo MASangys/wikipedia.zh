@@ -1,8 +1,8 @@
-**MetaPost**是一个[程序语言和它的](https://zh.wikipedia.org/wiki/程序语言 "wikilink")[编译器的名字](https://zh.wikipedia.org/wiki/编译器 "wikilink")，衍生于[高德纳的](../Page/高德纳.md "wikilink")[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。MetaPost擅长通过数学描述制作矢量图，生成的图片为[PostScript格式](../Page/PostScript.md "wikilink")。它的语法来自[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。
+**MetaPost**是一个[程序语言和它的](https://zh.wikipedia.org/wiki/程序语言 "wikilink")[编译器的名字](https://zh.wikipedia.org/wiki/编译器 "wikilink")，衍生于[高德纳](../Page/高德纳.md "wikilink")的[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。MetaPost擅长通过数学描述制作矢量图，生成的图片为[PostScript](../Page/PostScript.md "wikilink")格式。它的语法来自[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。
 
 ## 实例
 
-这个文件`example.mp`通过MetaPost的编译器编译（在[Linux系统中使用](../Page/Linux.md "wikilink")`mpost`命令）之后产生了3个[EPS文件](https://zh.wikipedia.org/wiki/EPS文件 "wikilink")：
+这个文件`example.mp`通过MetaPost的编译器编译（在[Linux](../Page/Linux.md "wikilink")系统中使用`mpost`命令）之后产生了3个[EPS文件](https://zh.wikipedia.org/wiki/EPS文件 "wikilink")：
 `example.1`, `example.2`, `example.3`。这三个文件就是右边的三张图
 [Metapost_ex.svg](https://zh.wikipedia.org/wiki/File:Metapost_ex.svg "fig:Metapost_ex.svg")
 
@@ -60,7 +60,7 @@
  bye
 ```
 
-产生的3个eps文件可以直接用在[TeX中](../Page/TeX.md "wikilink")（通过[LaTeX的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")`\includegraphics`命令、[ConTeXt的](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")`\externalfigure`命令、Plain
+产生的3个eps文件可以直接用在[TeX](../Page/TeX.md "wikilink")中（通过[LaTeX的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")`\includegraphics`命令、[ConTeXt的](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")`\externalfigure`命令、Plain
 TeX的`\epsfbox`命令，或者Plain
 pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印这三张图片，这些引用是必须的，因为TeX的字体([Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink"))并不包含在MetaPost产生的eps文件中。
 
@@ -74,7 +74,7 @@ pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印�
     [1](http://wiki.contextgarden.net/MetaFun)
   - [Donald
     Knuth](https://zh.wikipedia.org/wiki/Donald_Knuth "wikilink"): *The
-    [METAFONTbook](../Page/METAFONT.md "wikilink")*, ([Computers and
+    [METAFONT](../Page/METAFONT.md "wikilink")book*, ([Computers and
     Typesetting](https://zh.wikipedia.org/wiki/Computers_and_Typesetting "wikilink")
     Volume C)
     [Addison-Wesley](https://zh.wikipedia.org/wiki/Addison-Wesley "wikilink")

@@ -1,5 +1,5 @@
 《**Pure
-Niki**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇的第](../Page/周勵淇.md "wikilink")1張個人音樂專輯，於2005年8月25日推出。
+Niki**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇](../Page/周勵淇.md "wikilink")的第1張個人音樂專輯，於2005年8月25日推出。
 
 ## 簡介
 

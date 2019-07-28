@@ -1,8 +1,8 @@
-[Apple_store_fifth_avenue.jpg](https://zh.wikipedia.org/wiki/File:Apple_store_fifth_avenue.jpg "fig:Apple_store_fifth_avenue.jpg")[第五大道的Apple](../Page/第五大道.md "wikilink")
+[Apple_store_fifth_avenue.jpg](https://zh.wikipedia.org/wiki/File:Apple_store_fifth_avenue.jpg "fig:Apple_store_fifth_avenue.jpg")[第五大道](../Page/第五大道.md "wikilink")的Apple
 Store入口，是一座玻璃建築，內部裝設有電梯和旋轉樓梯通往位於地下室的商店。（目前关闭翻新中）\]\] **Apple
 Store**，或称**苹果零售店**（英文：**Apple Store**，為與非直營的授權店區分，苹果直營店又稱**Apple
 Retail
-Store**）是指一間由[蘋果公司及各地分支机构直接經營的連鎖](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[零售商店](../Page/零售.md "wikilink")，主要业务包括販賣電腦、消費性電子產品、周边配件及软件和苹果产品的售后服务、教育訓練以及商务支持。截至2019年6月，蘋果已經在全世界25个国家和地区開設506家零售店。\[1\]
+Store**）是指一間由[蘋果公司及各地分支机构直接經營的連鎖](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[零售](../Page/零售.md "wikilink")商店，主要业务包括販賣電腦、消費性電子產品、周边配件及软件和苹果产品的售后服务、教育訓練以及商务支持。截至2019年6月，蘋果已經在全世界25个国家和地区開設506家零售店。\[1\]
 
 ## 歷史
 
@@ -58,7 +58,7 @@ zh-hant:雪梨;}-店及](../Page/悉尼.md "wikilink")[北京大悦城店開幕�
 
 Apple也会在公司发布会宣传零售店的开幕信息，同时在零售店开幕前夕也会邀请本地媒体或当地国家媒体行预览零售店。
 
-  - 2008年10月，[史蒂夫·乔布斯邀请时任首席运营官](../Page/史蒂夫·乔布斯.md "wikilink")[提姆·库克介绍](https://zh.wikipedia.org/wiki/提姆·库克 "wikilink")[麦金塔电脑销售成功的原因](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")，他将零售店作为第6个理由并介绍了[2008年奥运会前夕在北京](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")[三里屯开幕的首家中国零售店](https://zh.wikipedia.org/wiki/三里屯 "wikilink")。
+  - 2008年10月，[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")邀请时任首席运营官[提姆·库克介绍](https://zh.wikipedia.org/wiki/提姆·库克 "wikilink")[麦金塔电脑销售成功的原因](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")，他将零售店作为第6个理由并介绍了[2008年奥运会前夕在北京](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")[三里屯开幕的首家中国零售店](https://zh.wikipedia.org/wiki/三里屯 "wikilink")。
   - 2010年9月，史蒂夫·乔布斯介绍了全新开幕的[Apple
     浦东](https://zh.wikipedia.org/wiki/Apple_浦东 "wikilink")，位于上海。同时还介绍了Apple
     Covent
@@ -74,22 +74,22 @@ Apple也会在公司发布会宣传零售店的开幕信息，同时在零售店
 ## 地點
 
 最初的兩間Apple
-Store在2001年於[美國開幕](https://zh.wikipedia.org/wiki/美國 "wikilink")。到了2003年，蘋果在[日本開設了第一間美國本土以外的Apple](../Page/日本.md "wikilink")
-Store。接著蘋果陸續在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[澳大利亚等國展店](../Page/澳大利亚.md "wikilink")。\[10\]蘋果預計在更多國家開設直營商店，包括[东京](../Page/东京.md "wikilink")、[曼谷等地](../Page/曼谷.md "wikilink")。2017年9月新品发布会上，零售店SVP[安吉拉·阿伦茨提到了苹果将在](../Page/安吉拉·阿伦茨.md "wikilink")2018年晚些时候重新开幕经过翻新的Apple
-第五大道，并将在法国巴黎[香榭丽舍](https://zh.wikipedia.org/wiki/香榭丽舍 "wikilink")、美国华盛顿[卡内基图书馆](https://zh.wikipedia.org/wiki/卡内基图书馆 "wikilink")、意大利米兰自由广场开幕新零售店。根据官方公布的招聘信息和安吉拉发布的推文，还可得知未来将在[日本](../Page/日本.md "wikilink")[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")、[新加坡等地开幕新零售店](../Page/新加坡.md "wikilink")。
+Store在2001年於[美國開幕](https://zh.wikipedia.org/wiki/美國 "wikilink")。到了2003年，蘋果在[日本](../Page/日本.md "wikilink")開設了第一間美國本土以外的Apple
+Store。接著蘋果陸續在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[澳大利亚](../Page/澳大利亚.md "wikilink")等國展店。\[10\]蘋果預計在更多國家開設直營商店，包括[东京](../Page/东京.md "wikilink")、[曼谷](../Page/曼谷.md "wikilink")等地。2017年9月新品发布会上，零售店SVP[安吉拉·阿伦茨](../Page/安吉拉·阿伦茨.md "wikilink")提到了苹果将在2018年晚些时候重新开幕经过翻新的Apple
+第五大道，并将在法国巴黎[香榭丽舍](https://zh.wikipedia.org/wiki/香榭丽舍 "wikilink")、美国华盛顿[卡内基图书馆](https://zh.wikipedia.org/wiki/卡内基图书馆 "wikilink")、意大利米兰自由广场开幕新零售店。根据官方公布的招聘信息和安吉拉发布的推文，还可得知未来将在[日本](../Page/日本.md "wikilink")[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")等地开幕新零售店。
 
 2008年7月，苹果公司于[北京奧運会开幕前在](../Page/2008年夏季奧林匹克運動會開幕式.md "wikilink")[北京三里屯开设中国大陆首间直營Apple](https://zh.wikipedia.org/wiki/北京 "wikilink")
 Store。\[11\][蘋果公司在香港的首間直營Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
-Store在2011年9月24日上午九時於[國際金融中心二期正式開幕](https://zh.wikipedia.org/wiki/國際金融中心 "wikilink")。\[12\]2014年南美首家直營店在巴西開舖。2015年10月29日后，苹果公司在[阿拉伯联合酋长国的](../Page/阿拉伯联合酋长国.md "wikilink")[迪拜分别开设两家Apple](https://zh.wikipedia.org/wiki/迪拜 "wikilink")
-Store和[阿布扎比一家](../Page/阿布扎比.md "wikilink")，成为[土耳其之外的](../Page/土耳其.md "wikilink")[中东地区首间直營Apple](https://zh.wikipedia.org/wiki/中东地区 "wikilink")
+Store在2011年9月24日上午九時於[國際金融中心二期正式開幕](https://zh.wikipedia.org/wiki/國際金融中心 "wikilink")。\[12\]2014年南美首家直營店在巴西開舖。2015年10月29日后，苹果公司在[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")的[迪拜分别开设两家Apple](https://zh.wikipedia.org/wiki/迪拜 "wikilink")
+Store和[阿布扎比](../Page/阿布扎比.md "wikilink")一家，成为[土耳其](../Page/土耳其.md "wikilink")之外的[中东地区首间直營Apple](https://zh.wikipedia.org/wiki/中东地区 "wikilink")
 Store。\[13\]\[14\]苹果公司在于2016年6月开设[澳门的首间直營Apple](https://zh.wikipedia.org/wiki/澳门 "wikilink")
-Store。\[15\]2016年9月24日蘋果在[墨西哥墨西哥城Centro](../Page/墨西哥.md "wikilink")
+Store。\[15\]2016年9月24日蘋果在[墨西哥](../Page/墨西哥.md "wikilink")墨西哥城Centro
 Santa Fe購物中心開設了第一間Apple
 Store。2017年5月27日蘋果在[新加坡](../Page/新加坡.md "wikilink")270
 Orchard Road開設了第一間Apple
 Store，这也是[东南亚地区首间Apple](https://zh.wikipedia.org/wiki/东南亚 "wikilink")
-Store。2017年7月1日，[中華民國第一家Apple](../Page/中華民國.md "wikilink")
-Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義區_\(臺北市\).md "wikilink")[台北101開幕](../Page/台北101.md "wikilink")。\[16\]2018年1月27日，[韩国首家零售店在林荫道开幕](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。\[17\]2018年2月24日，[奥地利首家零售店在](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[维也纳开幕](https://zh.wikipedia.org/wiki/维也纳 "wikilink")。\[18\]2018年11月10日，[泰国首家零售店在](../Page/泰国.md "wikilink")[曼谷暹罗天地开幕](../Page/曼谷.md "wikilink")\[19\]
+Store。2017年7月1日，[中華民國](../Page/中華民國.md "wikilink")第一家Apple
+Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義區_\(臺北市\).md "wikilink")[台北101](../Page/台北101.md "wikilink")開幕。\[16\]2018年1月27日，[韩国首家零售店在林荫道开幕](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。\[17\]2018年2月24日，[奥地利首家零售店在](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[维也纳开幕](https://zh.wikipedia.org/wiki/维也纳 "wikilink")。\[18\]2018年11月10日，[泰国](../Page/泰国.md "wikilink")首家零售店在[曼谷](../Page/曼谷.md "wikilink")暹罗天地开幕\[19\]
 
 <table>
 <caption>各地區店舖統計</caption>
@@ -212,25 +212,25 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>2017年7月1日</p></td>
+<td><p>2017年5月27日</p></td>
 <td><p>2</p></td>
 <td><p>[40]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>2015年9月19日</p></td>
-<td><p>1</p></td>
-<td><p>[41][42]</p></td>
+<td><p>2017年7月1日</p></td>
+<td><p>2</p></td>
+<td><p>[41]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>2016年9月24日</p></td>
+<td><p>2015年9月19日</p></td>
 <td><p>1</p></td>
-<td><p>[43]</p></td>
+<td><p>[42][43]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>2017年5月27日</p></td>
+<td><p>2016年9月24日</p></td>
 <td><p>1</p></td>
 <td><p>[44]</p></td>
 </tr>
@@ -301,37 +301,37 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/xidanjoycity/">Apple 西單大悅城</a></p></td>
-<td><p><a href="../Page/北京市.md" title="wikilink">北京市</a><a href="../Page/西城区.md" title="wikilink">西城区西單北大街</a> 131 號（大悅城）</p></td>
+<td><p><a href="../Page/北京市.md" title="wikilink">北京市</a><a href="../Page/西城区.md" title="wikilink">西城区</a>西單北大街 131 號（大悅城）</p></td>
 <td><p>2010年9月25日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/qibao/">Apple 七寶</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/闵行区.md" title="wikilink">闵行区漕寶路</a> 3366 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/闵行区.md" title="wikilink">闵行区</a>漕寶路 3366 號</p></td>
 <td><p>2016年12月10日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/shanghaiiapm/">Apple 上海環貿 iapm</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/徐汇区.md" title="wikilink">徐汇区淮海中路</a> 999 號（環貿 iapm 商場）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/徐汇区.md" title="wikilink">徐汇区</a>淮海中路 999 號（環貿 iapm 商場）</p></td>
 <td><p>2013年10月26日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/wujiaochang/">Apple 五角場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/杨浦区.md" title="wikilink">杨浦区翔殷路</a> 1099 號（上海合生匯）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/杨浦区.md" title="wikilink">杨浦区</a>翔殷路 1099 號（上海合生匯）</p></td>
 <td><p>2016年6月18日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/nanjingeast/">Apple 南京東路</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/黄浦区.md" title="wikilink">黄浦区南京東路</a> 300 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/黄浦区.md" title="wikilink">黄浦区</a>南京東路 300 號</p></td>
 <td><p>2011年9月23日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/pudong/">Apple 浦東</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/浦东新区.md" title="wikilink">浦东新区陸家嘴世紀大道</a> 8 號（上海國金中心）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/浦东新区.md" title="wikilink">浦东新区</a>陸家嘴世紀大道 8 號（上海國金中心）</p></td>
 <td><p>2010年7月10日</p></td>
 <td></td>
 </tr>
@@ -343,7 +343,7 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/hongkongplaza/">Apple 香港廣場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/黄浦区.md" title="wikilink">黄浦区淮海中路</a> 282 號（香港廣場北座）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="../Page/黄浦区.md" title="wikilink">黄浦区</a>淮海中路 282 號（香港廣場北座）</p></td>
 <td><p>2012年11月3日</p></td>
 <td></td>
 </tr>
@@ -355,7 +355,7 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/tianjinjoycity/">Apple 天津大悅城</a></p></td>
-<td><p><a href="../Page/天津市.md" title="wikilink">天津市</a><a href="../Page/南开区.md" title="wikilink">南开区南門外大街</a> 2 號</p></td>
+<td><p><a href="../Page/天津市.md" title="wikilink">天津市</a><a href="../Page/南开区.md" title="wikilink">南开区</a>南門外大街 2 號</p></td>
 <td><p>2015年2月7日</p></td>
 <td></td>
 </tr>
@@ -368,12 +368,12 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/jiefangbei/">Apple 解放碑</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/重慶市" title="wikilink">重慶市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/重慶市" title="wikilink">重慶市</a><a href="../Page/渝中区.md" title="wikilink">渝中区鄒容路</a> 108 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/重慶市" title="wikilink">重慶市</a><a href="../Page/渝中区.md" title="wikilink">渝中区</a>鄒容路 108 號</p></td>
 <td><p>2015年1月31日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/mixcchongqing/">Apple 重慶萬象城</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/重慶市" title="wikilink">重慶市</a><a href="../Page/九龙坡区.md" title="wikilink">九龙坡区謝家灣正街</a> 55 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/重慶市" title="wikilink">重慶市</a><a href="../Page/九龙坡区.md" title="wikilink">九龙坡区</a>謝家灣正街 55 號</p></td>
 <td><p>2015年3月7日</p></td>
 <td></td>
 </tr>
@@ -410,25 +410,25 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/parc66jinan/">Apple 濟南恆隆廣場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山東省" title="wikilink">山東省</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山東省" title="wikilink">山東省</a><a href="https://zh.wikipedia.org/wiki/濟南市" title="wikilink">濟南市</a><a href="../Page/历下区.md" title="wikilink">历下区泉城路</a> 188 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山東省" title="wikilink">山東省</a><a href="https://zh.wikipedia.org/wiki/濟南市" title="wikilink">濟南市</a><a href="../Page/历下区.md" title="wikilink">历下区</a>泉城路 188 號</p></td>
 <td><p>2016年5月21日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/mixcqingdao/">Apple 青島萬象城</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山東省" title="wikilink">山東省</a><a href="https://zh.wikipedia.org/wiki/青島市" title="wikilink">青島市</a><a href="../Page/市南区.md" title="wikilink">市南区山東路</a> 6A 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山東省" title="wikilink">山東省</a><a href="https://zh.wikipedia.org/wiki/青島市" title="wikilink">青島市</a><a href="../Page/市南区.md" title="wikilink">市南区</a>山東路 6A 號</p></td>
 <td><p>2016年1月30日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/mixczhengzhou/">Apple 鄭州萬象城</a></p></td>
 <td><p><a href="../Page/河南省.md" title="wikilink">河南省</a></p></td>
-<td><p><a href="../Page/河南省.md" title="wikilink">河南省</a><a href="https://zh.wikipedia.org/wiki/鄭州市" title="wikilink">鄭州市</a><a href="../Page/二七区.md" title="wikilink">二七区民主路</a> 10 號</p></td>
+<td><p><a href="../Page/河南省.md" title="wikilink">河南省</a><a href="https://zh.wikipedia.org/wiki/鄭州市" title="wikilink">鄭州市</a><a href="../Page/二七区.md" title="wikilink">二七区</a>民主路 10 號</p></td>
 <td><p>2015年1月10日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/nanjingist/">Apple 南京艾尚天地</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/南京市" title="wikilink">南京市</a><a href="../Page/玄武区.md" title="wikilink">玄武区中山路</a> 100 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/南京市" title="wikilink">南京市</a><a href="../Page/玄武区.md" title="wikilink">玄武区</a>中山路 100 號</p></td>
 <td><p>2016年1月16日</p></td>
 </tr>
 <tr class="odd">
@@ -439,61 +439,61 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/wondercity/">Apple 虹悅城</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/南京市" title="wikilink">南京市</a><a href="../Page/雨花台区.md" title="wikilink">雨花台区應天大街</a> 619 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/南京市" title="wikilink">南京市</a><a href="../Page/雨花台区.md" title="wikilink">雨花台区</a>應天大街 619 號</p></td>
 <td><p>2015年9月19日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/center66wuxi/">Apple 無錫恆隆廣場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/無錫市" title="wikilink">無錫市</a><a href="../Page/梁溪区.md" title="wikilink">梁溪区人民中路</a> 139 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/無錫市" title="wikilink">無錫市</a><a href="../Page/梁溪区.md" title="wikilink">梁溪区</a>人民中路 139 號</p></td>
 <td><p>2014年8月2日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/suzhou/">Apple 蘇州</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/蘇州市" title="wikilink">蘇州市</a><a href="../Page/苏州工业园区.md" title="wikilink">苏州工业园区蘇州中心商場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江蘇省" title="wikilink">江蘇省</a><a href="https://zh.wikipedia.org/wiki/蘇州市" title="wikilink">蘇州市</a><a href="../Page/苏州工业园区.md" title="wikilink">苏州工业园区</a>蘇州中心商場</p></td>
 <td><p>2018年9月21日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/tianyisquare/">Apple 天一廣場</a></p></td>
 <td><p><a href="../Page/浙江省.md" title="wikilink">浙江省</a></p></td>
-<td><p><a href="../Page/浙江省.md" title="wikilink">浙江省</a><a href="https://zh.wikipedia.org/wiki/寧波市" title="wikilink">寧波市</a><a href="../Page/海曙区.md" title="wikilink">海曙区碶閘街</a> 155 號（天一廣場）</p></td>
+<td><p><a href="../Page/浙江省.md" title="wikilink">浙江省</a><a href="https://zh.wikipedia.org/wiki/寧波市" title="wikilink">寧波市</a><a href="../Page/海曙区.md" title="wikilink">海曙区</a>碶閘街 155 號（天一廣場）</p></td>
 <td><p>2017年9月16日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/mixchangzhou/">Apple 杭州萬象城</a></p></td>
-<td><p><a href="../Page/浙江省.md" title="wikilink">浙江省</a><a href="../Page/杭州市.md" title="wikilink">杭州市</a><a href="../Page/江干区.md" title="wikilink">江干区富春路</a> 701 號</p></td>
+<td><p><a href="../Page/浙江省.md" title="wikilink">浙江省</a><a href="../Page/杭州市.md" title="wikilink">杭州市</a><a href="../Page/江干区.md" title="wikilink">江干区</a>富春路 701 號</p></td>
 <td><p>2015年4月24日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/westlake/">Apple 西湖</a></p></td>
-<td><p><a href="../Page/浙江省.md" title="wikilink">浙江省</a><a href="../Page/杭州市.md" title="wikilink">杭州市</a><a href="../Page/上城区.md" title="wikilink">上城区平海路</a> 100 號</p></td>
+<td><p><a href="../Page/浙江省.md" title="wikilink">浙江省</a><a href="../Page/杭州市.md" title="wikilink">杭州市</a><a href="../Page/上城区.md" title="wikilink">上城区</a>平海路 100 號</p></td>
 <td><p>2015年1月24日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/xiamenlifestylecenter/">Apple 廈門新生活廣場</a></p></td>
 <td><p><a href="../Page/福建省.md" title="wikilink">福建省</a></p></td>
-<td><p><a href="../Page/福建省.md" title="wikilink">福建省</a><a href="https://zh.wikipedia.org/wiki/廈門市" title="wikilink">廈門市</a><a href="../Page/思明区.md" title="wikilink">思明区嘉禾路</a> 399 號（SM 新生活廣場）</p></td>
+<td><p><a href="../Page/福建省.md" title="wikilink">福建省</a><a href="https://zh.wikipedia.org/wiki/廈門市" title="wikilink">廈門市</a><a href="../Page/思明区.md" title="wikilink">思明区</a>嘉禾路 399 號（SM 新生活廣場）</p></td>
 <td><p>2016年1月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/thaihotplaza/">Apple 泰禾廣場</a></p></td>
-<td><p><a href="../Page/福建省.md" title="wikilink">福建省</a><a href="../Page/福州市.md" title="wikilink">福州市</a><a href="../Page/晋安区.md" title="wikilink">晋安区竹嶼路</a> 6 號（東二環泰禾城市廣場）</p></td>
+<td><p><a href="../Page/福建省.md" title="wikilink">福建省</a><a href="../Page/福州市.md" title="wikilink">福州市</a><a href="../Page/晋安区.md" title="wikilink">晋安区</a>竹嶼路 6 號（東二環泰禾城市廣場）</p></td>
 <td><p>2016年8月2日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/cn/retail/parccentral/">Apple 天環廣場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣東省" title="wikilink">廣東省</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣東省" title="wikilink">廣東省</a><a href="https://zh.wikipedia.org/wiki/廣州市" title="wikilink">廣州市</a><a href="../Page/天河区.md" title="wikilink">天河区天河路</a> 218 號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣東省" title="wikilink">廣東省</a><a href="https://zh.wikipedia.org/wiki/廣州市" title="wikilink">廣州市</a><a href="../Page/天河区.md" title="wikilink">天河区</a>天河路 218 號</p></td>
 <td><p>2016年1月28日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/zhujiangnewtown/">Apple 珠江新城</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣東省" title="wikilink">廣東省</a><a href="https://zh.wikipedia.org/wiki/廣州市" title="wikilink">廣州市</a><a href="../Page/天河区.md" title="wikilink">天河区</a><a href="../Page/珠江新城.md" title="wikilink">珠江新城興民路</a> 222 號（天匯廣場 1 層）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣東省" title="wikilink">廣東省</a><a href="https://zh.wikipedia.org/wiki/廣州市" title="wikilink">廣州市</a><a href="../Page/天河区.md" title="wikilink">天河区</a><a href="../Page/珠江新城.md" title="wikilink">珠江新城</a>興民路 222 號（天匯廣場 1 層）</p></td>
 <td><p>2016年12月1日</p></td>
 <td></td>
 </tr>
@@ -517,7 +517,7 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/cn/retail/taikoolichengdu/">Apple 成都太古里</a></p></td>
-<td><p><a href="../Page/四川省.md" title="wikilink">四川省</a><a href="../Page/成都市.md" title="wikilink">成都市</a><a href="../Page/锦江区.md" title="wikilink">锦江区中紗帽街</a> 8 號</p></td>
+<td><p><a href="../Page/四川省.md" title="wikilink">四川省</a><a href="../Page/成都市.md" title="wikilink">成都市</a><a href="../Page/锦江区.md" title="wikilink">锦江区</a>中紗帽街 8 號</p></td>
 <td><p>2015年11月21日</p></td>
 <td></td>
 </tr>
@@ -534,12 +534,12 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 
 | 店名                                                                    | 行政區                                               | 地址                                                                       | 開店日         |
 | --------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------ | ----------- |
-| [Apple ifc mall](https://www.apple.com/hk/retail/ifcmall/)            | [中環](../Page/中環.md "wikilink")                    | [中環金融街](../Page/中環.md "wikilink") 8 號（國際金融中心商場）                          | 2011年9月24日  |
-| [Apple Festival Walk](https://www.apple.com/hk/retail/festivalwalk/)  | [九龍塘](../Page/九龍塘.md "wikilink")                  | [九龍塘達之路](../Page/九龍塘.md "wikilink") 80 號（又一城）                            | 2012年9月29日  |
-| [Apple Canton Road](https://www.apple.com/hk/retail/cantonroad/)      | [尖沙咀](../Page/尖沙咀.md "wikilink")                  | [尖沙咀廣東道](../Page/尖沙咀.md "wikilink") 100 號                                | 2015年7月30日  |
+| [Apple ifc mall](https://www.apple.com/hk/retail/ifcmall/)            | [中環](../Page/中環.md "wikilink")                    | [中環](../Page/中環.md "wikilink")金融街 8 號（國際金融中心商場）                          | 2011年9月24日  |
+| [Apple Festival Walk](https://www.apple.com/hk/retail/festivalwalk/)  | [九龍塘](../Page/九龍塘.md "wikilink")                  | [九龍塘](../Page/九龍塘.md "wikilink")達之路 80 號（又一城）                            | 2012年9月29日  |
+| [Apple Canton Road](https://www.apple.com/hk/retail/cantonroad/)      | [尖沙咀](../Page/尖沙咀.md "wikilink")                  | [尖沙咀](../Page/尖沙咀.md "wikilink")廣東道 100 號                                | 2015年7月30日  |
 | [Apple New Town Plaza](https://www.apple.com/hk/retail/newtownplaza/) | [沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink") | [沙田沙田正街](https://zh.wikipedia.org/wiki/沙田 "wikilink") 18 號（新城市廣場 1 期 L4） | 2016年6月30日  |
-| [Apple apm Hong Kong](https://www.apple.com/hk/retail/apmhongkong/)   | [觀塘](../Page/觀塘.md "wikilink")                    | [觀塘觀塘道](../Page/觀塘.md "wikilink") 418 號                                  | 2016年9月22日  |
-| [Apple Causeway Bay](https://www.apple.com/hk/retail/causewaybay/)    | [銅鑼灣](../Page/銅鑼灣.md "wikilink")                  | [銅鑼灣軒尼詩道](../Page/銅鑼灣.md "wikilink") 500 號（希慎廣場）                         | 2012年12月15日 |
+| [Apple apm Hong Kong](https://www.apple.com/hk/retail/apmhongkong/)   | [觀塘](../Page/觀塘.md "wikilink")                    | [觀塘](../Page/觀塘.md "wikilink")觀塘道 418 號                                  | 2016年9月22日  |
+| [Apple Causeway Bay](https://www.apple.com/hk/retail/causewaybay/)    | [銅鑼灣](../Page/銅鑼灣.md "wikilink")                  | [銅鑼灣](../Page/銅鑼灣.md "wikilink")軒尼詩道 500 號（希慎廣場）                         | 2012年12月15日 |
 
 店舖一覽表
 
@@ -547,8 +547,8 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 
 | 店名                                                          | 行政區                                  | 地址                                       | 開店日        |
 | ----------------------------------------------------------- | ------------------------------------ | ---------------------------------------- | ---------- |
-| [Apple 澳門銀河](https://www.apple.com/mo/retail/galaxymacau/)  | [路氹城](../Page/路氹城.md "wikilink")     | [路氹城澳門銀河](../Page/路氹城.md "wikilink")™時尚匯 | 2016年6月25日 |
-| [Apple 金沙廣場](https://www.apple.com/mo/retail/cotaicentral/) | [路氹城金沙廣場](../Page/路氹城.md "wikilink") | 2018年6月29日                               |            |
+| [Apple 澳門銀河](https://www.apple.com/mo/retail/galaxymacau/)  | [路氹城](../Page/路氹城.md "wikilink")     | [路氹城](../Page/路氹城.md "wikilink")澳門銀河™時尚匯 | 2016年6月25日 |
+| [Apple 金沙廣場](https://www.apple.com/mo/retail/cotaicentral/) | [路氹城](../Page/路氹城.md "wikilink")金沙廣場 | 2018年6月29日                               |            |
 
 店舖一覽表
 
@@ -563,7 +563,7 @@ Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義�
 
 ## 公司店
 
-位于[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[库比提诺的](https://zh.wikipedia.org/wiki/库比提诺 "wikilink")[苹果公司总部也设有一家Apple](../Page/苹果公司总部.md "wikilink")
+位于[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[库比提诺的](https://zh.wikipedia.org/wiki/库比提诺 "wikilink")[苹果公司总部](../Page/苹果公司总部.md "wikilink")也设有一家Apple
 Store零售店，並且有對外營業。在2015年前这家Apple
 Store仅出售[苹果公司官方制作的周边纪念品](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，如T恤、帽子、水杯、文具等。但在2015年9月19日的重新开张后，该Apple
 Store开始出售全系列的Apple产品（不包括Apple Watch
@@ -614,7 +614,7 @@ Store有以下新特性：
 Apple Union Square 等较为重要的Apple
 Store还包含24小时开放广场，周末会在邀请音乐人在广场外表演。[旧金山](../Page/旧金山.md "wikilink")[联合广场的Apple](https://zh.wikipedia.org/wiki/联合广场_\(旧金山\) "wikilink")
 Union Sqaure和部分在店内有生态植物的零售店还特别设置了Genius Grove天才园，将传统Genius
-Bar维修改到树下，让顾客更加自然的与Genius交流。位于[芝加哥的](../Page/芝加哥.md "wikilink")[Apple
+Bar维修改到树下，让顾客更加自然的与Genius交流。位于[芝加哥](../Page/芝加哥.md "wikilink")的[Apple
 Michigan
 Avenue则是专门设置了开放的讲座和活动区域](https://zh.wikipedia.org/wiki/Apple_Michigan_Avenue "wikilink")，同时也把Genius
 Bar改为Genius Gallery。
@@ -733,11 +733,11 @@ Apple现在已经有超过100家新设计零售店。同时Apple也在将非新�
     Listesi](https://www.apple.com/tr/retail/storelist/)
 39.
 40.
-41. [Apple Store (Belgique) - Liste des
+41.
+42. [Apple Store (Belgique) - Liste des
     Magasins](http://www.apple.com/befr/retail/storelist/)
-42. [Apple Store (België) - Lijst van
+43. [Apple Store (België) - Lijst van
     Stores](https://www.apple.com/benl/retail/storelist/)
-43.
 44.
 45.
 46.

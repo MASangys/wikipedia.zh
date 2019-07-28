@@ -52,7 +52,7 @@ Entertainment是產品銷售伙伴](https://zh.wikipedia.org/wiki/Geneon_Enterta
 
 ### 廣播節目
 
-  - [Kanon〜水瀬さんち](../Page/Kanon.md "wikilink")
+  - [Kanon](../Page/Kanon.md "wikilink")〜水瀬さんち
 
 ### 廣播劇CD
 

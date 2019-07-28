@@ -5,25 +5,25 @@ Monkeys（スーパーモンキーズ）其他成員所組成。「MAX」名稱�
 ## 經歷
 
 原本是在Super
-Monkeys（スーパーモンキーズ）和[安室奈美惠屬於同一個團體中的成員](../Page/安室奈美惠.md "wikilink")，不過**MAX**當時在Super
+Monkeys（スーパーモンキーズ）和[安室奈美惠](../Page/安室奈美惠.md "wikilink")屬於同一個團體中的成員，不過**MAX**當時在Super
 Monkeys（スーパーモンキーズ）並未演唱，而是擔任伴舞的角色，在1995年以「愛情VELFARRE DANCE～Saturday
 night～」單曲出道，而在1996年12月11號發行了第一張專輯「MAXIMUM」，全部都是輕快的歌曲。
 
 1997年首次的原創曲子「Give me a
-Shake」的這張單曲獲得了[Oricon排行榜初登場第一名](../Page/Oricon.md "wikilink")，這張單曲曲也在[NHK紅白歌唱大賽首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
+Shake」的這張單曲獲得了[Oricon](../Page/Oricon.md "wikilink")排行榜初登場第一名，這張單曲曲也在[NHK紅白歌唱大賽首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
 
-而在[歌手以外的活動也相當活躍](../Page/歌手.md "wikilink")，**MAX**也主演了1996年的電影「麗霆子（レディース）MAX」和1997年的電影「Give
+而在[歌手](../Page/歌手.md "wikilink")以外的活動也相當活躍，**MAX**也主演了1996年的電影「麗霆子（レディース）MAX」和1997年的電影「Give
 me a Shake
-レディースMAX」，1998年[朝日電視台的甜密的惡魔](../Page/朝日電視台.md "wikilink")（暫譯，原名スウィートデビル），其他還有[富士電視台的](../Page/富士電視台.md "wikilink")「daiba:ba」或[日本電視台的](../Page/日本電視台.md "wikilink")「Girls×2」的主持等。
+レディースMAX」，1998年[朝日電視台](../Page/朝日電視台.md "wikilink")的甜密的惡魔（暫譯，原名スウィートデビル），其他還有[富士電視台](../Page/富士電視台.md "wikilink")的「daiba:ba」或[日本電視台](../Page/日本電視台.md "wikilink")的「Girls×2」的主持等。
 
 2002年主唱之一的Mina因為懷孕的關係，同年的三月開始產休。為了彌補這個缺，在同年七月加入了新成員Aki，歌迷也開始有了正負兩端的爭議。之後所屬的經紀公司和成員等人都再也沒有Mina歸隊的消息。
 
 到第27張單曲「Be With You」之前都是由艾迴公司所發行的，第28張單曲「ニライカナイ」開始由SONIC GROOVE
-發行（一樣屬[艾迴公司](https://zh.wikipedia.org/wiki/艾迴 "wikilink")），在[2006年2月發行了睽違](../Page/2006年2月.md "wikilink")4年的專輯。
+發行（一樣屬[艾迴公司](https://zh.wikipedia.org/wiki/艾迴 "wikilink")），在[2006年2月](../Page/2006年2月.md "wikilink")發行了睽違4年的專輯。
 
 2006年以日本人的身份在北京成功進出。
 
-[2008年8月](../Page/2008年8月.md "wikilink")12日，Aki在8月底退出的消息被宣佈出來，在10月28日中發表替換的成員是在睽違六年半歸隊的Mina。10月30號在[富士電視台的](../Page/富士電視台.md "wikilink")「情報プレゼンター
+[2008年8月](../Page/2008年8月.md "wikilink")12日，Aki在8月底退出的消息被宣佈出來，在10月28日中發表替換的成員是在睽違六年半歸隊的Mina。10月30號在[富士電視台](../Page/富士電視台.md "wikilink")的「情報プレゼンター
 とくダネ！」內的「朝のヒットスタジオ」內一起唱了「Give me a shake」，讓原本的成員正式的重新出發。
 
 ## 成員

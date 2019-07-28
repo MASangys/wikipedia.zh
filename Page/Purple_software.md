@@ -2,12 +2,12 @@
 
 ## 概要
 
-1998年[JAST設立了Purple品牌](../Page/JAST.md "wikilink")，2001年讓渡給，變更為現在的品牌名直到現在。從《天使們的午後
+1998年[JAST](../Page/JAST.md "wikilink")設立了Purple品牌，2001年讓渡給，變更為現在的品牌名直到現在。從《天使們的午後
 SEASON 2001》到《奏 〜Kanade〜》的企畫、製作由有限公司執行。
 
 品牌名的「Purple」出自《[源氏物語](../Page/源氏物語.md "wikilink")》的[紫之上](../Page/紫之上.md "wikilink")\[1\]。
 
-此外，作為姐妹品牌的，與**Adel**（、[BL品牌](https://zh.wikipedia.org/wiki/BL "wikilink")），JEWELRY轉移到有限公司，Adel獨立、設立了有限公司。販售彩牙股份有限公司的品牌[ALcot的](../Page/ALcot.md "wikilink")《ENGAGE
+此外，作為姐妹品牌的，與**Adel**（、[BL品牌](https://zh.wikipedia.org/wiki/BL "wikilink")），JEWELRY轉移到有限公司，Adel獨立、設立了有限公司。販售彩牙股份有限公司的品牌[ALcot](../Page/ALcot.md "wikilink")的《ENGAGE
 LINKS》。
 
 ## 作品一覧
@@ -304,7 +304,7 @@ LINKS》。
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p>2019年3月29日預定</p></td>
+<td><p>2019年3月29日</p></td>
 <td><p><a href="http://www.purplesoftware.jp/products/realive/index.html">リアライブ</a></p></td>
 <td><p>克、むちゃ</p></td>
 <td><p>なかひろ</p></td>
@@ -451,7 +451,7 @@ LINKS》。
 ## 網路廣播
 
   -
-    2007年3月開始與一起在[音泉放送](../Page/音泉.md "wikilink")。標題的**PP**取自兩社的開頭字母。
+    2007年3月開始與一起在[音泉](../Page/音泉.md "wikilink")放送。標題的**PP**取自兩社的開頭字母。
 
 ## 工作人員
 
@@ -529,7 +529,7 @@ LINKS》。
 
   - [Purple software（有年齡確認）](http://www.purplesoftware.jp/)
 
-  - [WHITESOFT](http://white-soft.jp/)
+  - [WHITESOFT](https://web.archive.org/web/20140624125254/http://white-soft.jp/)
 
   - [ボンボンカンパニー](http://bonbon-company.com/)
 

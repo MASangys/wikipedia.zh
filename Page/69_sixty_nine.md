@@ -1,11 +1,11 @@
 《**69 sixty
-nine**》，[日本作家](../Page/日本.md "wikilink")[村上龍的自傳小說](https://zh.wikipedia.org/wiki/村上龍 "wikilink")。1987年8月由[集英社出版](../Page/集英社.md "wikilink")，累積銷售超過一百萬本。
+nine**》，[日本](../Page/日本.md "wikilink")作家[村上龍的自傳小說](https://zh.wikipedia.org/wiki/村上龍 "wikilink")。1987年8月由[集英社](../Page/集英社.md "wikilink")出版，累積銷售超過一百萬本。
 
-2004年改編為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，獲得第47回[藍絲帶賞日本十佳電影](https://zh.wikipedia.org/wiki/藍絲帶賞_\(電影\) "wikilink")，并赴[釜山國際電影節](../Page/釜山國際電影節.md "wikilink")、鹿特丹影展參展。2006年在[台北電影節首映即獲得極大好評](../Page/台北電影節.md "wikilink")，是觀眾好評必看的最佳青春電影。於2007年6月1日－6月14日[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")「69青春影展」再次放映。
+2004年改編為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，獲得第47回[藍絲帶賞日本十佳電影](https://zh.wikipedia.org/wiki/藍絲帶賞_\(電影\) "wikilink")，并赴[釜山國際電影節](../Page/釜山國際電影節.md "wikilink")、鹿特丹影展參展。2006年在[台北電影節](../Page/台北電影節.md "wikilink")首映即獲得極大好評，是觀眾好評必看的最佳青春電影。於2007年6月1日－6月14日[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")「69青春影展」再次放映。
 
 ## 故事大綱
 
-[越南戰爭和](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")[學生運動不斷的](../Page/學生運動.md "wikilink")1969年，[長崎高中的高三學生矢崎劍介](https://zh.wikipedia.org/wiki/長崎 "wikilink")（Ken）為了和老師作對以及吸引同班女生松井和子，計劃舉辦一場集搖滾演唱會、電影和演劇為一體的[嘉年華](https://zh.wikipedia.org/wiki/嘉年華 "wikilink")。為此Ken集合一群好友半夜大鬧學校，引起記者報道和警察出面調查……
+[越南戰爭和](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")[學生運動](../Page/學生運動.md "wikilink")不斷的1969年，[長崎高中的高三學生矢崎劍介](https://zh.wikipedia.org/wiki/長崎 "wikilink")（Ken）為了和老師作對以及吸引同班女生松井和子，計劃舉辦一場集搖滾演唱會、電影和演劇為一體的[嘉年華](https://zh.wikipedia.org/wiki/嘉年華 "wikilink")。為此Ken集合一群好友半夜大鬧學校，引起記者報道和警察出面調查……
 
 ## 電影
 

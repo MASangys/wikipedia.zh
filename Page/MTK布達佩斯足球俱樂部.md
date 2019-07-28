@@ -1,5 +1,5 @@
 **MTK布達佩斯足球俱樂部**（**MTK Budapest
-FC**）是一間位於[匈牙利](../Page/匈牙利.md "wikilink")[布达佩斯的](../Page/布达佩斯.md "wikilink")[足球俱樂部](https://zh.wikipedia.org/wiki/足球俱樂部 "wikilink")，現時是[匈牙利足球甲級聯賽球隊之一](https://zh.wikipedia.org/wiki/匈牙利足球甲級聯賽 "wikilink")，球會主色為藍色及白色。MTK布达佩斯是匈牙利最成功的球會之一，曾經23次奪得[匈牙利足球甲級聯賽冠軍及](https://zh.wikipedia.org/wiki/匈牙利足球甲級聯賽 "wikilink")12次[匈牙利盃冠軍](../Page/匈牙利盃.md "wikilink")。
+FC**）是一間位於[匈牙利](../Page/匈牙利.md "wikilink")[布达佩斯](../Page/布达佩斯.md "wikilink")的[足球俱樂部](https://zh.wikipedia.org/wiki/足球俱樂部 "wikilink")，現時是[匈牙利足球甲級聯賽球隊之一](https://zh.wikipedia.org/wiki/匈牙利足球甲級聯賽 "wikilink")，球會主色為藍色及白色。MTK布达佩斯是匈牙利最成功的球會之一，曾經23次奪得[匈牙利足球甲級聯賽冠軍及](https://zh.wikipedia.org/wiki/匈牙利足球甲級聯賽 "wikilink")12次[匈牙利盃](../Page/匈牙利盃.md "wikilink")冠軍。
 
 1955年以沃罗斯罗伯哥（Vörös Lobogó
 SE）的身份成為首支匈牙利球會參加[歐洲冠軍球會盃](https://zh.wikipedia.org/wiki/1955–56年歐洲冠軍盃 "wikilink")，1964年[歐洲盃賽冠軍盃MTK布达佩斯殺入決賽](https://zh.wikipedia.org/wiki/歐洲盃賽冠軍盃 "wikilink")，最終不敵[士砵亭獲得亞軍](https://zh.wikipedia.org/wiki/士砵亭 "wikilink")。

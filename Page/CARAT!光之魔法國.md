@@ -1,4 +1,4 @@
-《**CARAT\!光之魔法國**》（）是[渡邊祥智的](../Page/渡邊祥智.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
+《**CARAT\!光之魔法國**》（）是[渡邊祥智](../Page/渡邊祥智.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 原本在《Comic Blade ZEBEL》連載，在此雜誌停刊後，於2007年9月轉移到《月刊Comic Blade
 Avarus》連載至2009年10月，單行本全2卷。
 

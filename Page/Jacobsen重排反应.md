@@ -1,6 +1,6 @@
 **Jacobsen重排反应**（Jacobsen rearrangement）
 
-多[烷基](../Page/烷基.md "wikilink")[苯](../Page/苯.md "wikilink")、[卤代多烷基苯或多卤代苯在](https://zh.wikipedia.org/wiki/卤代 "wikilink")[硫酸中烷基或卤原子的移位作用](../Page/硫酸.md "wikilink")。
+多[烷基](../Page/烷基.md "wikilink")[苯](../Page/苯.md "wikilink")、[卤代多烷基苯或多卤代苯在](https://zh.wikipedia.org/wiki/卤代 "wikilink")[硫酸](../Page/硫酸.md "wikilink")中烷基或卤原子的移位作用。
 
 
 [Jacobsen.png](https://zh.wikipedia.org/wiki/File:Jacobsen.png "fig:Jacobsen.png")

@@ -1,7 +1,7 @@
 是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏时[勇者斗恶龙系列的第四部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。游戏最早于1990年2月11日发行于日本[FC游戏机平台](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，北美版本由艾尼克斯北美公司本地化，并于1992年10月以“Dragon
 Warrior
-IV”为名发行。游戏由[Heartbeat重制于](https://zh.wikipedia.org/wiki/Heartbeat_\(游戏公司\) "wikilink")[PlayStation平台](../Page/PlayStation.md "wikilink")，同时该版本还作为PS的[Ultimate
-Hit作品发行](https://zh.wikipedia.org/wiki/Ultimate_Hit "wikilink")。之后游戏又由[ArtePiazza重制于](../Page/ArtePiazza.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")，游戏于2007年11月22日在日本发行，2008年9月11日和12日在澳大利亚和欧洲以“Dragon
+IV”为名发行。游戏由[Heartbeat重制于](https://zh.wikipedia.org/wiki/Heartbeat_\(游戏公司\) "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")平台，同时该版本还作为PS的[Ultimate
+Hit作品发行](https://zh.wikipedia.org/wiki/Ultimate_Hit "wikilink")。之后游戏又由[ArtePiazza](../Page/ArtePiazza.md "wikilink")重制于[任天堂DS](../Page/任天堂DS.md "wikilink")平台，游戏于2007年11月22日在日本发行，2008年9月11日和12日在澳大利亚和欧洲以“Dragon
 Quest: Chapters of the Chosen”为名发行\[1\]，2008年9月16日在北美以“Dragon Quest IV:
 Chapters of the Chosen”为名发行。智能手機版于2014年在日本发行\[2\]。
 
@@ -13,7 +13,7 @@ Chapters of the Chosen”为名发行。智能手機版于2014年在日本发行
 
 《勇者斗恶龙IV》引入了一些前三作没有的新功能，同时也继承了许多前作既有的要素\[4\]。相似的功能包括昼夜系统，通过船和飞行工具（本作为热气球）旅行，以及有盗贼钥匙、魔法钥匙和最终钥匙这三种等级的钥匙。游戏同样使用了可以传送队员到世界地图远方的旅之门。和《[勇者斗恶龙III](https://zh.wikipedia.org/wiki/勇者斗恶龙III "wikilink")》的勇者不同，马车的出现使勇者不必始终呆在队伍成员之中。虽然如此，勇者再度成为了可以使用强力的回复和攻击咒文的角色。许多咒文、武器、防具和商店的功能与前作相同。
 
-除了新的章节制情节模式，被称为“战术”的[人工智能系统可让玩家给队员下战斗方式指令](../Page/人工智能.md "wikilink")，勇者则由玩家完全控制。《[勇者斗恶龙V
+除了新的章节制情节模式，被称为“战术”的[人工智能](../Page/人工智能.md "wikilink")系统可让玩家给队员下战斗方式指令，勇者则由玩家完全控制。《[勇者斗恶龙V
 天空的新娘](../Page/勇者斗恶龙V_天空的新娘.md "wikilink")》、《[勇者斗恶龙VI
 幻之大地](../Page/勇者斗恶龙VI_幻之大地.md "wikilink")》和《IV》的重制版可以让玩家给各角色下不同指令，而不必全队使用一种战斗指令，此外游戏还加入了可手动操控角色的“听我命令”指令\[5\]。战术系统成为后来《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》“Gambits”系统的前身\[6\]。可以选择参战角色的马车在本作中首次引入，并在后来的《勇者斗恶龙V》和《勇者斗恶龙VI》中出现。在《勇者斗恶龙III》出现怪兽竞技场后，本作中首次出现的赌场可以让玩家玩一些小游戏（[老虎机](https://zh.wikipedia.org/wiki/老虎机 "wikilink")、[扑克](https://zh.wikipedia.org/wiki/扑克 "wikilink")），并通过代币换得一些特殊道具。游戏首次允许玩家调查抽屉或罐子，并可从中找到道具。游戏新引入了小奖章系统，玩家可用找到的小奖章和金属王交换一些特有道具。
 
@@ -34,17 +34,17 @@ Chapters of the Chosen”为名发行。智能手機版于2014年在日本发行
 
 ## 开发
 
-据[堀井雄二称](../Page/堀井雄二.md "wikilink")，他想让玩家有如同勇者斗恶龙前作的纹章和宝珠那样，有可供四处收集的东西。然而他不想再次重复集齐一定数目物品才能通关的设定；因此小金币不会对游戏通关产生任何影响\[8\]。
+据[堀井雄二](../Page/堀井雄二.md "wikilink")称，他想让玩家有如同勇者斗恶龙前作的纹章和宝珠那样，有可供四处收集的东西。然而他不想再次重复集齐一定数目物品才能通关的设定；因此小金币不会对游戏通关产生任何影响\[8\]。
 
 ### PlayStation重制版
 
 《勇者斗恶龙IV》的[PlayStation](../Page/PlayStation.md "wikilink")[重制版于](https://zh.wikipedia.org/wiki/强化重制版 "wikilink")2001年11月22日在日本发行。游戏由[Heartbeat开发](https://zh.wikipedia.org/wiki/Heartbeat_\(公司\) "wikilink")，艾尼克斯发行。重制版使用《[勇者斗恶龙VII](https://zh.wikipedia.org/wiki/勇者斗恶龙VII "wikilink")》的3D图形引擎，但保持了《勇者斗恶龙IV》的故事和世界。角色、城镇、世界地图、声音、战斗与敌人都进行了更新。角色[子图形依照攻略本和插图重新绘制](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")，以对应原版的插图设计。重制版加入了数项新功能。游戏增加了第六章，即皮萨罗可以成为玩家角色，同时还增加了简短的序章；引入了和《勇者斗恶龙VII》类似的队内伙伴对话命令；允许玩家停用战斗人工智能，直接手动控制角色攻击（临时队员除外）。游戏在2001年中出货超过百万\[9\]。
 
-[艾尼克斯美国最初计划](../Page/艾尼克斯.md "wikilink")2002年在北美发行重制版，甚至在北美《勇者斗恶龙VII》说明书的封底打上了游戏即将发行的广告。然而由于Heartbeat在本地化和翻译即将完成前，结束了电子游戏开发运营，游戏最终取消\[10\]\[11\]。随后的解释称，由另一公司完成翻译所投资的财力和时间使得艾尼克斯不可能将游戏转给其它开发者，因为Heartbeat对它自己的设计最熟悉的\[12\]。
+[艾尼克斯](../Page/艾尼克斯.md "wikilink")美国最初计划2002年在北美发行重制版，甚至在北美《勇者斗恶龙VII》说明书的封底打上了游戏即将发行的广告。然而由于Heartbeat在本地化和翻译即将完成前，结束了电子游戏开发运营，游戏最终取消\[10\]\[11\]。随后的解释称，由另一公司完成翻译所投资的财力和时间使得艾尼克斯不可能将游戏转给其它开发者，因为Heartbeat对它自己的设计最熟悉的\[12\]。
 
 ### 任天堂DS重制版
 
-《勇者斗恶龙IV》[任天堂DS重制版于](../Page/任天堂DS.md "wikilink")2007年11月在日本发行。游戏为和PlayStation版相似的3D重制版\[13\]。该重制版保留了PlayStation版的改进，如稍有修改的移民城镇，但进一步增强了图像流畅度并改进了声音。该版本还允许玩家在最后两章手动控制全部队员\[14\]。
+《勇者斗恶龙IV》[任天堂DS](../Page/任天堂DS.md "wikilink")重制版于2007年11月在日本发行。游戏为和PlayStation版相似的3D重制版\[13\]。该重制版保留了PlayStation版的改进，如稍有修改的移民城镇，但进一步增强了图像流畅度并改进了声音。该版本还允许玩家在最后两章手动控制全部队员\[14\]。
 
 在日版发行不久后，有人编辑了日版ROM文件，发现日版游戏中隐藏了几近全部翻译的英语、西班牙语、法语、德语和意大利语译文\[15\]。许多爱好者称这意味这游戏的美版和欧版即将发售。2008年4月9日，史克威尔艾尼克斯申请了商标“被选中的篇章”（Chapters
 of the Chosen），人们推测这是《勇者斗恶龙IV》在北美的新副标题\[16\]。
@@ -60,7 +60,7 @@ Chosen*），如同欧洲版《[勇者斗恶龙VIII](https://zh.wikipedia.org/wi
 
 ## 跨媒体
 
-游戏有相关的[漫画发行](../Page/日本漫画.md "wikilink")，并被[小说化和](../Page/小说.md "wikilink")[剧场CD化](https://zh.wikipedia.org/wiki/Drama_CD "wikilink")。
+游戏有相关的[漫画发行](../Page/日本漫画.md "wikilink")，并被[小说](../Page/小说.md "wikilink")化和[剧场CD化](https://zh.wikipedia.org/wiki/Drama_CD "wikilink")。
 
 ### 漫画
 
@@ -72,7 +72,7 @@ Woman等几个新角色，加入了北极和鬼屋等新地点。情节以亞莉
 
 ### 原声音乐
 
-如同全部勇者斗恶龙本传，[椙山浩一谱写音乐并指挥全部衍生产品](../Page/椙山浩一.md "wikilink")。游戏不同情况下会播放不同的配乐。比如，城镇始终播放特定的乐曲，山洞或迷宫会播放某些乐曲，队员乘坐热气球时又播放另一首乐曲。而在世界地图上，前四章有其自己的主题曲，而在主角登场的第五章，播放主题曲取决于队伍中领头的角色。
+如同全部勇者斗恶龙本传，[椙山浩一](../Page/椙山浩一.md "wikilink")谱写音乐并指挥全部衍生产品。游戏不同情况下会播放不同的配乐。比如，城镇始终播放特定的乐曲，山洞或迷宫会播放某些乐曲，队员乘坐热气球时又播放另一首乐曲。而在世界地图上，前四章有其自己的主题曲，而在主角登场的第五章，播放主题曲取决于队伍中领头的角色。
 
 原版《勇者斗恶龙IV》是仅有在战斗乐曲中使用[声音渐强的游戏](https://zh.wikipedia.org/wiki/声音渐强 "wikilink")，这种技术在FC游戏上几乎未有所闻。即使PlayStation版的《勇者斗恶龙IV》也未使用此音乐理念。
 

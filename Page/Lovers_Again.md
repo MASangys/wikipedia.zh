@@ -1,12 +1,12 @@
 《**Lovers
-Again**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年1月17日於日本發行。Oricon最高排行第2、初動銷量13.3萬張、累計銷量25.9萬張
+Again**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年1月17日於日本發行。Oricon最高排行第2、初動銷量13.3萬張、累計銷量25.9萬張
 
 ## 概要
 
 新主唱TAKAHIRO、表演者AKIRA加入的EXILE**第二章**第二張單曲。
 連續3個月發行單曲的第2彈。第一次出現是在發行約1個月前於2006年12月16日舉辦的現場演唱會「Rhythm
 Nation」。 單曲以「[CD](../Page/CD.md "wikilink")
-only」和「CD+[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")」兩種形式發售，封面也有所不同。初回盤附有以附加曲方式收錄了於9月22日在[日本武道館演出的最終選拔的](../Page/日本武道館.md "wikilink")6人（順序為TAKA、WARNER、田﨑敬浩、前田雄一郎、施鐘泰、Nesmith）所演唱的「Lovers
+only」和「CD+[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")」兩種形式發售，封面也有所不同。初回盤附有以附加曲方式收錄了於9月22日在[日本武道館](../Page/日本武道館.md "wikilink")演出的最終選拔的6人（順序為TAKA、WARNER、田﨑敬浩、前田雄一郎、施鐘泰、Nesmith）所演唱的「Lovers
 Again」的現場版。此曲的影像收錄在第5張專輯《[EXILE
 EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")》的完全限定盤的DVD裡。
 
@@ -34,7 +34,7 @@ Again」的同製作人。因此歌詞及曲調十分相似。另外[紅白歌�
 Again紅白版，前半部分有重新編曲。
 
 「Lovers
-Again」是EXILE第一次由音樂製作人松尾潔製作的作品，也是由松尾潔作詞。擔任出道前的ATSUSHI和Nesmith在2001年參加，不過結果決定選出[化學超男子的](../Page/化學超男子.md "wikilink")《ASAYAN》男子主唱徵選節目製作的人正是松尾潔。
+Again」是EXILE第一次由音樂製作人松尾潔製作的作品，也是由松尾潔作詞。擔任出道前的ATSUSHI和Nesmith在2001年參加，不過結果決定選出[化學超男子](../Page/化學超男子.md "wikilink")的《ASAYAN》男子主唱徵選節目製作的人正是松尾潔。
 
 TAKAHIRO在電視節目等常說「當初錄音的時候，因為是徵選時常唱的歌曲，所以歌詞和旋律也記得很熟，以為錄音很快就可以結束。不過因為和其他決賽的參賽者還有ATSUSHI的唱法有所重複，唱不出自己的特色而難以照自己所想的進行，所以花了相當大的工夫」。不只TAKAHIRO，對其他成員來說也是一首非常深情的歌。
 

@@ -2,7 +2,7 @@
 [HK_Lippo_Centre_n_Pret_A_Manger_n_Pacific_Coffee_Co.JPG](https://zh.wikipedia.org/wiki/File:HK_Lippo_Centre_n_Pret_A_Manger_n_Pacific_Coffee_Co.JPG "fig:HK_Lippo_Centre_n_Pret_A_Manger_n_Pacific_Coffee_Co.JPG")
 
 **Pret A
-Manger餐廳**是一家成立於[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，由（）和朱利安·梅特卡夫（）於1986年在[倫敦創立](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，業務遍佈英美和[香港](../Page/香港.md "wikilink")。2001年，[美式快餐店](../Page/快餐店.md "wikilink")[麦当劳曾經入股](../Page/麦当劳.md "wikilink")[投資其美國的分店](https://zh.wikipedia.org/wiki/投資 "wikilink")，並於2008年賣掉該批股份。此[快餐店的](../Page/快餐店.md "wikilink")[顧客對象為](../Page/顧客.md "wikilink")[白領人士](../Page/白領.md "wikilink")，在香港其同行對手包括[太平洋咖啡](../Page/太平洋咖啡.md "wikilink")、[星巴克和](https://zh.wikipedia.org/wiki/星巴克 "wikilink")[Caffee
+Manger餐廳**是一家成立於[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，由（）和朱利安·梅特卡夫（）於1986年在[倫敦創立](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，業務遍佈英美和[香港](../Page/香港.md "wikilink")。2001年，[美式快餐店](../Page/快餐店.md "wikilink")[麦当劳](../Page/麦当劳.md "wikilink")曾經入股[投資其美國的分店](https://zh.wikipedia.org/wiki/投資 "wikilink")，並於2008年賣掉該批股份。此[快餐店](../Page/快餐店.md "wikilink")的[顧客](../Page/顧客.md "wikilink")對象為[白領](../Page/白領.md "wikilink")人士，在香港其同行對手包括[太平洋咖啡](../Page/太平洋咖啡.md "wikilink")、[星巴克和](https://zh.wikipedia.org/wiki/星巴克 "wikilink")[Caffee
 Habitu](https://web.archive.org/web/20120511035455/http://www.caffehabitu.com/)。Pret
 A Manger現有[職員幾千人](https://zh.wikipedia.org/wiki/職員 "wikilink")。
 

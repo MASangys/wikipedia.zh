@@ -24,13 +24,13 @@ Everyone Concert 01》\[3\]。
 
 2010年7月30日，與[G.E.M.舉行](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")《[拉闊音樂擂台](https://zh.wikipedia.org/wiki/拉闊音樂擂台 "wikilink")》音樂會\[4\]。
 
-2010年10月20日，與[譚詠麟合作推出國粵語專輯](../Page/譚詠麟.md "wikilink")《Rolling Power》。
+2010年10月20日，與[譚詠麟](../Page/譚詠麟.md "wikilink")合作推出國粵語專輯《Rolling Power》。
 
 2011年5月16日，推出大碟《People Sing For People》。
 
 2011年7月3日至4日，在紅磡體育館舉行一連兩場《Mr. Everyone Concert 02》
 
-2012年1月7日，於[十大中文金曲頒獎音樂會榮獲CASH最佳創作歌手大獎](../Page/十大中文金曲頒獎音樂會.md "wikilink")，成績備受肯定。
+2012年1月7日，於[十大中文金曲頒獎音樂會](../Page/十大中文金曲頒獎音樂會.md "wikilink")榮獲CASH最佳創作歌手大獎，成績備受肯定。
 
 2012年3月16日，推出EP《Misterdays》。
 
@@ -40,7 +40,7 @@ Everyone Concert 01》\[3\]。
 
 2015年10月5日，[環球唱片和Mr](https://zh.wikipedia.org/wiki/環球唱片 "wikilink").發出聯合聲明表示跟Mr.將會在2016年中約滿，而約滿後雙方會暫停合作。\[5\]
 
-2018年5月18日，宣佈在8月24日及8月25日將分別與[觸執毛及](../Page/觸執毛.md "wikilink")[Kolor](../Page/Kolor.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、Yellow於[九龍灣國際展貿中心舉辦起哄音樂節](../Page/九龍灣國際展貿中心.md "wikilink")「SHOUT
+2018年5月18日，宣佈在8月24日及8月25日將分別與[觸執毛](../Page/觸執毛.md "wikilink")及[Kolor](../Page/Kolor.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、Yellow於[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉辦起哄音樂節「SHOUT
 IT OUT」。
 
 2019年休息了一段日子的Mr.，年初以獨立樂隊身份發布新歌，早前更宣布五月於紅館舉行"Everyone Concert
@@ -53,7 +53,7 @@ IT OUT」。
 ### 布志綸
 
 **布志綸**
-（，主音，曾任職[環球唱片國際部](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")（負責與電台接觸），被認為聲音與[陳奕迅相近](../Page/陳奕迅.md "wikilink")。中學就讀[聖保羅書院](../Page/聖保羅書院.md "wikilink")，後到[加拿大](../Page/加拿大.md "wikilink")[麥馬士達大學修讀經濟系畢業](../Page/麥馬士達大學.md "wikilink")。出道前是獨立樂隊White
+（，主音，曾任職[環球唱片國際部](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")（負責與電台接觸），被認為聲音與[陳奕迅](../Page/陳奕迅.md "wikilink")相近。中學就讀[聖保羅書院](../Page/聖保羅書院.md "wikilink")，後到[加拿大](../Page/加拿大.md "wikilink")[麥馬士達大學](../Page/麥馬士達大學.md "wikilink")修讀經濟系畢業。出道前是獨立樂隊White
 Noise\[7\]的成員。2016年中Mr.與環球唱片約滿。2017年布志綸以個人身份簽約[耀榮文化](../Page/耀榮文化.md "wikilink")，同年8月發表第一首個人單曲《人在野》，2018年4月發表第二首個人單曲《經得起變化》。首張個人專輯將在2019推出。
 
 ### 黎澤恩
@@ -63,15 +63,15 @@ Noise\[8\]。因為曾祖父是[美國人](../Page/美國人.md "wikilink")，�
 
 ### 譚傑明
 
-**譚傑明**（，1981年1月10日－，歲），主音結他手。Mr.的大部分作品均由譚傑明或[譚健文填詞](https://zh.wikipedia.org/wiki/譚健文 "wikilink")，他偶爾也會和[布志綸一起作曲](../Page/布志綸.md "wikilink")。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White
+**譚傑明**（，1981年1月10日－，歲），主音結他手。Mr.的大部分作品均由譚傑明或[譚健文填詞](https://zh.wikipedia.org/wiki/譚健文 "wikilink")，他偶爾也會和[布志綸](../Page/布志綸.md "wikilink")一起作曲。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White
 Noise。
 
-譚傑明10歲時到[加拿大升學](../Page/加拿大.md "wikilink")\[10\]，畢業於。在Mr.其他成員口中，他是五人中最愛美的一個，愛畫眼線。2009年至2010年間，他曾與[卓韻芝拍拖](../Page/卓韻芝.md "wikilink")。他愛作punk友打扮。
+譚傑明10歲時到[加拿大](../Page/加拿大.md "wikilink")升學\[10\]，畢業於。在Mr.其他成員口中，他是五人中最愛美的一個，愛畫眼線。2009年至2010年間，他曾與[卓韻芝](../Page/卓韻芝.md "wikilink")拍拖。他愛作punk友打扮。
 
 ### 譚健文
 
 **譚健文**（，1981年1月6日－，歲）
-貝斯手，是**Mr.**的主要發言人，並讓Mr.結識[譚詠麟及與唱片公司簽約](../Page/譚詠麟.md "wikilink")\[11\]。中學就讀於[香港教師會李興貴中學及佛教善德英文中學](https://zh.wikipedia.org/wiki/香港教師會李興貴中學 "wikilink")，畢業於[理工大學](https://zh.wikipedia.org/wiki/理工大學 "wikilink")[物流管理系](https://zh.wikipedia.org/wiki/物流管理 "wikilink")。曾於唱片業工作，有一位孿生弟弟譚健榮。
+貝斯手，是**Mr.**的主要發言人，並讓Mr.結識[譚詠麟](../Page/譚詠麟.md "wikilink")及與唱片公司簽約\[11\]。中學就讀於[香港教師會李興貴中學及佛教善德英文中學](https://zh.wikipedia.org/wiki/香港教師會李興貴中學 "wikilink")，畢業於[理工大學](https://zh.wikipedia.org/wiki/理工大學 "wikilink")[物流管理系](https://zh.wikipedia.org/wiki/物流管理 "wikilink")。曾於唱片業工作，有一位孿生弟弟譚健榮。
 
 Mr.的大部分作品均由譚健文或[譚傑明填詞](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")，並由譚健文和唱。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚傑明以及暱稱](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")「阿永」的鼓手組成獨立樂隊White
 Noise\[12\]。
@@ -84,7 +84,7 @@ Noise\[12\]。
 Spirit樂隊的成員，與White
 Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，但不足三個月後便決定回港，正式加入Mr.\[14\]。在Mr.初出道時，杜志烜仍有兼職送[魚生](https://zh.wikipedia.org/wiki/魚生 "wikilink")，但不久後便辭職，全面投入樂隊工作。
 
-2011年9月9日，杜志烜宣佈與模特兒[何思諺結婚](../Page/何思諺.md "wikilink")。而且女友已懷孕。\[15\]
+2011年9月9日，杜志烜宣佈與模特兒[何思諺](../Page/何思諺.md "wikilink")結婚。而且女友已懷孕。\[15\]
 ，兩人於10月14日舉行婚禮\[16\] 。現育有一子（杜卓霖）。
 
 ## 音樂
@@ -674,9 +674,9 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
     《如果我是陳奕迅》
   - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") -
     全年最高銷量歌手大獎組合
-  - 2009年度[加拿大至HiT中文歌曲排行榜](../Page/加拿大.md "wikilink") -
+  - 2009年度[加拿大](../Page/加拿大.md "wikilink")至HiT中文歌曲排行榜 -
     全國推崇十大歌曲（粵語）《如果我是陳奕迅》
-  - 2009年度[加拿大至HiT中文歌曲排行榜](../Page/加拿大.md "wikilink") - 全國推崇組合（粵語）
+  - 2009年度[加拿大](../Page/加拿大.md "wikilink")至HiT中文歌曲排行榜 - 全國推崇組合（粵語）
 
 <!-- end list -->
 

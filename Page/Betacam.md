@@ -59,7 +59,7 @@ Betacam SX錄影帶外殼為淺黃色。
 ### MPEG IMX
 
 **MPEG IMX**是2001年版本的Digital
-Betacam格式。使用[MPEG壓縮系統](../Page/MPEG.md "wikilink")，但比Betacam
+Betacam格式。使用[MPEG](../Page/MPEG.md "wikilink")壓縮系統，但比Betacam
 SX有更高位元率。IMX格式容許記錄[CCIR
 601規格視訊](https://zh.wikipedia.org/wiki/CCIR_601 "wikilink")，八聲道音訊及時間碼軌。它缺乏了Digital
 Betacam作尾段提不用的一條模擬音軌，但會看作第七聲道播放。
@@ -70,7 +70,7 @@ Mbit/s（3.3:1壓縮比），容許了不同的品質／儲存效率比例。視
 Level壓縮記錄。
 
 MPEG
-IMX錄影帶是柔綠色外殼，但是新的[XDCAM格式容許在](../Page/XDCAM.md "wikilink")[Professional
+IMX錄影帶是柔綠色外殼，但是新的[XDCAM](../Page/XDCAM.md "wikilink")格式容許在[Professional
 Disc等無影帶媒體記錄MPEG](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")
 IMX格式。
 

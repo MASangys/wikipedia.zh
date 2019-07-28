@@ -24,7 +24,7 @@ Client，Object Context 以及
 [SQL](../Page/SQL.md "wikilink")
 指令，因此在資訊業中有很多人都在研究如何將程式設計模型和資料庫整合在一起，[物件關聯對應](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")
 (Object-Relational Mapping)
-的技術就是由此而生，像[Hibernate或](../Page/Hibernate.md "wikilink")[NHibernate都是這個技術下的產物](../Page/NHibernate.md "wikilink")，而微軟雖然有了[ADO.NET這個資料存取的利器](../Page/ADO.NET.md "wikilink")，但卻沒有像NHibernate這樣的物件對應工具，因此微軟在.NET
+的技術就是由此而生，像[Hibernate](../Page/Hibernate.md "wikilink")或[NHibernate](../Page/NHibernate.md "wikilink")都是這個技術下的產物，而微軟雖然有了[ADO.NET](../Page/ADO.NET.md "wikilink")這個資料存取的利器，但卻沒有像NHibernate這樣的物件對應工具，因此微軟在.NET
 Framework
 2.0發展時期，就提出了一個ObjectSpace的概念，ObjectSpace可以讓應用程式可以用完全物件化的方法連接與存取資料庫，其技術概念與NHibernate相當類似，然而ObjectSpace工程相當大，在.NET
 Framework 2.0完成時仍無法全部完成，因此微軟將ObjectSpace納入下一版本的.NET

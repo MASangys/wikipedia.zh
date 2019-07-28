@@ -1019,9 +1019,9 @@
 
 1.  主要[翻译](http://emulefans.com/comparison-of-edonkey-software/)
     自英文维基百科条目（[贡献者](http://en.wikipedia.org/w/index.php?title=Comparison_of_eDonkey_software&action=history)）
-2.  aMule在[Windows上运行时](https://zh.wikipedia.org/wiki/Windows "wikilink")，Windows对其的支持不完整，无法使用所有[Linux版本的功能](../Page/Linux.md "wikilink")，比如对[UPnP的支持](../Page/UPnP.md "wikilink")。大多数aMule的帮助文档都假定用户使用的是Linux，这些文档有时无法给予Windows用户正确的信息。
-3.  该客户端可以通过[Wine在](../Page/Wine.md "wikilink")[Linux上运行](../Page/Linux.md "wikilink")（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。
-4.  该客户端可以通过[Wine在](../Page/Wine.md "wikilink")[Linux上运行](../Page/Linux.md "wikilink")（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。
+2.  aMule在[Windows上运行时](https://zh.wikipedia.org/wiki/Windows "wikilink")，Windows对其的支持不完整，无法使用所有[Linux](../Page/Linux.md "wikilink")版本的功能，比如对[UPnP](../Page/UPnP.md "wikilink")的支持。大多数aMule的帮助文档都假定用户使用的是Linux，这些文档有时无法给予Windows用户正确的信息。
+3.  该客户端可以通过[Wine](../Page/Wine.md "wikilink")在[Linux](../Page/Linux.md "wikilink")上运行（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。
+4.  该客户端可以通过[Wine](../Page/Wine.md "wikilink")在[Linux](../Page/Linux.md "wikilink")上运行（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。
 5.  IP2C：IP to
     Country，IP地区对应，http://wiki.emule-web.de/index.php/Ip2country
 6.  <http://wiki.emule-web.de/index.php/Powershare>
@@ -1031,7 +1031,7 @@
 9.  <http://wiki.emule-web.de/index.php/Push_small_files>
 10. zz ratio：ZZ比率，http://wiki.emule-web.de/index.php/ZZratio
 11.
-12. 官方aMule无反[吸血](../Page/吸血驴.md "wikilink")。一些用户发布了非官方的带[动态反吸血驴保护的非官方aMule](../Page/动态反吸血驴保护.md "wikilink")（[参见](http://code.google.com/p/amule-dlp/)）
+12. 官方aMule无反[吸血](../Page/吸血驴.md "wikilink")。一些用户发布了非官方的带[动态反吸血驴保护](../Page/动态反吸血驴保护.md "wikilink")的非官方aMule（[参见](http://code.google.com/p/amule-dlp/)）
 13. USS：Upload Speed Sense，上传速度感知，http://wiki.emule-web.de/index.php/USS
 14. 官方eMule没有非常精确或者可及时更新的反吸血功能，但有IP地址过滤（[IPFilter](../Page/IPFilter.md "wikilink")）、垃圾信息和攻击型客户端侦测过滤和一些内置的侦测等[基本保护措施](https://zh.wikipedia.org/wiki/吸血驴#eMule官方 "wikilink")。
 15. 客户端分析系统，
@@ -1051,7 +1051,7 @@
     Endgame，http://wiki.emule-web.de/index.php/English:Faster_Endgame
 24.
 25. L2HAC：LowID to HighID Automatic Callback，LowID to HighID自动回馈机制。
-26. 自动配置[端口映射](https://zh.wikipedia.org/wiki/端口映射 "wikilink")（需要支持[UPnP的](../Page/UPnP.md "wikilink")[路由](../Page/路由.md "wikilink")）。
+26. 自动配置[端口映射](https://zh.wikipedia.org/wiki/端口映射 "wikilink")（需要支持[UPnP](../Page/UPnP.md "wikilink")的[路由](../Page/路由.md "wikilink")）。
 27. <http://wiki.emule-web.de/index.php/Lancast>
 28. HideOS：Hide OverShared，隐藏过度分享文件段。
 29. SotN：Share only the Need，仅分享所需。

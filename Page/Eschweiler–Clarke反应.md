@@ -1,7 +1,7 @@
 **Eschweiler–Clarke反应**（Eschweiler-Clarke
 reaction），又称**Eschweiler–Clarke甲基化反应**
 
-[伯胺或](https://zh.wikipedia.org/wiki/伯胺 "wikilink")[仲胺用过量](https://zh.wikipedia.org/wiki/仲胺 "wikilink")[甲酸和](../Page/甲酸.md "wikilink")[甲醛处理](../Page/甲醛.md "wikilink")，得到*N*-[甲基化产物](../Page/甲基化.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
+[伯胺或](https://zh.wikipedia.org/wiki/伯胺 "wikilink")[仲胺用过量](https://zh.wikipedia.org/wiki/仲胺 "wikilink")[甲酸](../Page/甲酸.md "wikilink")和[甲醛](../Page/甲醛.md "wikilink")处理，得到*N*-[甲基化](../Page/甲基化.md "wikilink")产物。\[1\]\[2\]\[3\]\[4\]
 
 此反应是一种[还原胺化反应](https://zh.wikipedia.org/wiki/还原胺化反应 "wikilink")。
 反应到叔胺停止，不再生成[季铵盐](../Page/季铵盐.md "wikilink")。

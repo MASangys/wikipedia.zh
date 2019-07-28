@@ -1,5 +1,5 @@
 **''Voice of
-Earth**''（地球之声）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛以](../Page/阿兰·达瓦卓玛.md "wikilink")**alan**之名在[日本发行的首张](../Page/日本.md "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，其中包括了alan自2007年11月21日出道以来发行过的8张单曲集合，和全新创作的六首歌曲。专辑的封面**alan**的双眸倒映着[地球的影像](../Page/地球.md "wikilink")，暗合了本专辑以“[地球](../Page/地球.md "wikilink")”为主题的初衷。
+Earth**''（地球之声）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的首张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，其中包括了alan自2007年11月21日出道以来发行过的8张单曲集合，和全新创作的六首歌曲。专辑的封面**alan**的双眸倒映着[地球](../Page/地球.md "wikilink")的影像，暗合了本专辑以“[地球](../Page/地球.md "wikilink")”为主题的初衷。
 
 ## 概况
 

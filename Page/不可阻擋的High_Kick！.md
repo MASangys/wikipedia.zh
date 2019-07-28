@@ -1,5 +1,5 @@
 《**不可阻擋的High
-Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[MBC出品的长篇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[家庭情景喜剧](https://zh.wikipedia.org/wiki/家庭情景喜剧 "wikilink")。该剧采用全新的喜剧模式，利用了[夸张](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式来诠释了](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、[间谍](../Page/间谍.md "wikilink")、[失业](https://zh.wikipedia.org/wiki/失业 "wikilink")、[同学关系](https://zh.wikipedia.org/wiki/同学关系 "wikilink")、[婆媳关系等等看似复杂的一切](https://zh.wikipedia.org/wiki/婆媳关系 "wikilink")，同时该剧的作为MBC继《[大長今](https://zh.wikipedia.org/wiki/大长今_\(電視劇\) "wikilink")》、《[男生女生向前走](../Page/男生女生向前走.md "wikilink")》之后在2006－2007年的又一大力作，不仅有老一代[李顺載](https://zh.wikipedia.org/wiki/李顺載 "wikilink")、[羅文姬等演员的参与](../Page/羅文姬.md "wikilink")，还使得[丁一宇](../Page/丁一宇.md "wikilink")、-{[金汎](../Page/金汎.md "wikilink")}-、[朴敏英等的新秀走红](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")，并开始走上明星演员的道路。
+Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[MBC出品的长篇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[家庭情景喜剧](https://zh.wikipedia.org/wiki/家庭情景喜剧 "wikilink")。该剧采用全新的喜剧模式，利用了[夸张](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式来诠释了](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、[间谍](../Page/间谍.md "wikilink")、[失业](https://zh.wikipedia.org/wiki/失业 "wikilink")、[同学关系](https://zh.wikipedia.org/wiki/同学关系 "wikilink")、[婆媳关系等等看似复杂的一切](https://zh.wikipedia.org/wiki/婆媳关系 "wikilink")，同时该剧的作为MBC继《[大長今](https://zh.wikipedia.org/wiki/大长今_\(電視劇\) "wikilink")》、《[男生女生向前走](../Page/男生女生向前走.md "wikilink")》之后在2006－2007年的又一大力作，不仅有老一代[李顺載](https://zh.wikipedia.org/wiki/李顺載 "wikilink")、[羅文姬](../Page/羅文姬.md "wikilink")等演员的参与，还使得[丁一宇](../Page/丁一宇.md "wikilink")、-{[金汎](../Page/金汎.md "wikilink")}-、[朴敏英等的新秀走红](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")，并开始走上明星演员的道路。
 
 ## 剧名含义及译名
 
@@ -7,21 +7,21 @@ Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[M
 
 ### 搞笑一家人
 
-《搞笑一家人》是中国大陆电视台使用的劇名，也是中国大陆官方劇名，是该剧2007年曾被[中国大陆引进时配音制作的用名](../Page/中国大陆.md "wikilink")。该剧也曾在各个地方电视台播出，如[吉林教育电视台](https://zh.wikipedia.org/wiki/吉林教育电视台 "wikilink")\[1\]等。
+《搞笑一家人》是中国大陆电视台使用的劇名，也是中国大陆官方劇名，是该剧2007年曾被[中国大陆](../Page/中国大陆.md "wikilink")引进时配音制作的用名。该剧也曾在各个地方电视台播出，如[吉林教育电视台](https://zh.wikipedia.org/wiki/吉林教育电视台 "wikilink")\[1\]等。
 
 ### 不可阻挡的一家人
 
-该剧在[中国大陆播出后反响强烈](../Page/中国大陆.md "wikilink")，网络论坛对该剧进行翻译、制作时使用的名字和官方译名有所不同。《不可阻挡的一家人》是[中国大陆韩剧热线论坛制作时的名字](../Page/中国大陆.md "wikilink")\[2\]，《勇往直前的一家人》是[中国大陆新韩娱论坛制作时的名字](../Page/中国大陆.md "wikilink")\[3\]。这些名字并没有受版权保护。
+该剧在[中国大陆](../Page/中国大陆.md "wikilink")播出后反响强烈，网络论坛对该剧进行翻译、制作时使用的名字和官方译名有所不同。《不可阻挡的一家人》是[中国大陆](../Page/中国大陆.md "wikilink")韩剧热线论坛制作时的名字\[2\]，《勇往直前的一家人》是[中国大陆](../Page/中国大陆.md "wikilink")新韩娱论坛制作时的名字\[3\]。这些名字并没有受版权保护。
 
 ### 其他劇名
 
-该剧的其他劇名还有《瞧这一家人》，这在[中国大陆非法盗版光盘中可见](../Page/中国大陆.md "wikilink")；《不可阻挡的一家人》通常是媒体的报导译名\[4\]。
+该剧的其他劇名还有《瞧这一家人》，这在[中国大陆](../Page/中国大陆.md "wikilink")非法盗版光盘中可见；《不可阻挡的一家人》通常是媒体的报导译名\[4\]。
 
 ## 剧情简介
 
 ### 剧情背景
 
-故事发生在[韩国首都](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的](https://zh.wikipedia.org/wiki/首尔 "wikilink")[黑石洞](https://zh.wikipedia.org/wiki/黑石洞 "wikilink")，民永和申智正式[离婚](https://zh.wikipedia.org/wiki/离婚 "wikilink")，申智留下孩子前往[俄罗斯进修](../Page/俄罗斯.md "wikilink")，将房子租给同学敏静，民永因此在父母家过起偷居过程，后因申智在俄罗斯遭[小偷变得身无分文无奈回国](https://zh.wikipedia.org/wiki/小偷 "wikilink")，并与敏静一同生活；文姬再次成了照顾孩子的[保姆](https://zh.wikipedia.org/wiki/保姆 "wikilink")，并同时忍受顺才和海美；充满[神秘的由美一家搬到了黑石洞附近](https://zh.wikipedia.org/wiki/神秘 "wikilink")，被由美打动的敏浩开起了自己的初恋之门；民永因无法忍受嫂子侵犯自己的隐私权经常与其展开不可阻挡的家庭搞笑战争；新老师敏静渐渐爱上了好友的前夫民永，允浩则愛上了自己的老师敏静……
+故事发生在[韩国首都](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的](https://zh.wikipedia.org/wiki/首尔 "wikilink")[黑石洞](https://zh.wikipedia.org/wiki/黑石洞 "wikilink")，民永和申智正式[离婚](https://zh.wikipedia.org/wiki/离婚 "wikilink")，申智留下孩子前往[俄罗斯](../Page/俄罗斯.md "wikilink")进修，将房子租给同学敏静，民永因此在父母家过起偷居过程，后因申智在俄罗斯遭[小偷变得身无分文无奈回国](https://zh.wikipedia.org/wiki/小偷 "wikilink")，并与敏静一同生活；文姬再次成了照顾孩子的[保姆](https://zh.wikipedia.org/wiki/保姆 "wikilink")，并同时忍受顺才和海美；充满[神秘的由美一家搬到了黑石洞附近](https://zh.wikipedia.org/wiki/神秘 "wikilink")，被由美打动的敏浩开起了自己的初恋之门；民永因无法忍受嫂子侵犯自己的隐私权经常与其展开不可阻挡的家庭搞笑战争；新老师敏静渐渐爱上了好友的前夫民永，允浩则愛上了自己的老师敏静……
 
 ### 李家世系图
 
@@ -140,7 +140,7 @@ Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[M
 <td><p><a href="https://zh.wikipedia.org/wiki/潘慕嫻" title="wikilink">潘慕嫻</a></p></td>
 <td><p>纪元</p></td>
 <td><p>17岁</p></td>
-<td><p>实际年龄20岁，敏浩的女友，母亲是海美的同学好友。搬家後與敏浩家成了鄰居，非常漂亮，,一開始對允浩一見鍾情,哥哥敏浩對她一见钟情，看似温和，却有着<a href="../Page/间谍.md" title="wikilink">间谍身份和非常凶的个性</a>，擅长跑步，却经常装作无知、不懂英语，身份充满神秘。</p></td>
+<td><p>实际年龄20岁，敏浩的女友，母亲是海美的同学好友。搬家後與敏浩家成了鄰居，非常漂亮，,一開始對允浩一見鍾情,哥哥敏浩對她一见钟情，看似温和，却有着<a href="../Page/间谍.md" title="wikilink">间谍</a>身份和非常凶的个性，擅长跑步，却经常装作无知、不懂英语，身份充满神秘。</p></td>
 </tr>
 <tr class="even">
 <td><center>

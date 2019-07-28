@@ -52,7 +52,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 <!-- end list -->
 
   -
-    馬克現在是半[退休狀態](../Page/退休.md "wikilink")，他隸屬於行星警察機構（簡稱天工會），也就是水電工組織，他在調查進化人的陰謀時離奇失蹤。
+    馬克現在是半[退休](../Page/退休.md "wikilink")狀態，他隸屬於行星警察機構（簡稱天工會），也就是水電工組織，他在調查進化人的陰謀時離奇失蹤。
     第6集中，為了阻止進化人的陰謀，使用虛無零界投射器拔掉投射器後將發射器的按鈕按下與進化人同歸於盡，但在之後的故事中(第21集)發現田馬克沒死，他被炸彈炸到虛無零界，而留在那裡幫助救援者對抗零界王（堇悟博士）。第二季最後回歸，並在第三季負責訓練新人。
     「榔頭」是田馬克在虛無零界中使用的名稱後來帶領新水電工對抗進化人。
 
@@ -123,7 +123,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 <!-- end list -->
 
   -
-    自稱宇宙中最早出現的物種，進化人相信自己是外星人中血統最純正的一族，就像王族與王族交配之後所生之後代血統才純正的觀念，所以導致[近親交配](https://zh.wikipedia.org/wiki/近親交配 "wikilink")，使本身物種失去對於疾病的抵抗能力，因而瀕臨絕種，目標是消滅[銀河系所有的低等生物](https://zh.wikipedia.org/wiki/銀河系 "wikilink")（在他們眼裡，除了自己的種族外，一律為低等生物，他們稱之為「[雜種](https://zh.wikipedia.org/wiki/雜種 "wikilink")」），他們來到[地球要徹底終結](../Page/地球.md "wikilink")[人類](../Page/人類.md "wikilink")，最後改變此想法,此外在戰爭結束後，有些進化人在宇宙做其它工作。
+    自稱宇宙中最早出現的物種，進化人相信自己是外星人中血統最純正的一族，就像王族與王族交配之後所生之後代血統才純正的觀念，所以導致[近親交配](https://zh.wikipedia.org/wiki/近親交配 "wikilink")，使本身物種失去對於疾病的抵抗能力，因而瀕臨絕種，目標是消滅[銀河系所有的低等生物](https://zh.wikipedia.org/wiki/銀河系 "wikilink")（在他們眼裡，除了自己的種族外，一律為低等生物，他們稱之為「[雜種](https://zh.wikipedia.org/wiki/雜種 "wikilink")」），他們來到[地球](../Page/地球.md "wikilink")要徹底終結[人類](../Page/人類.md "wikilink")，最後改變此想法,此外在戰爭結束後，有些進化人在宇宙做其它工作。
 
 <!-- end list -->
 
@@ -200,7 +200,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 <!-- end list -->
 
   -
-    在[少年駭客中亦有登場](../Page/少年駭客.md "wikilink")。第三季初期重新登場，企圖奪取[Omnitrix並征服地球](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")。征服失敗以後仍不放棄奪取[Omnitrix](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")，還進攻普萊摩斯，結果再次被小班變成的超巨人丟到太空。結局時與阿貝多合作奪得小班的[Omnitrix](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")，但很快被小班自己毀掉。最後在太空船墜入海中時與小班決戰，因太空船爆炸而戰敗。雖然在外無惡不作，卻非常重視出生星球的同胞。
+    在[少年駭客](../Page/少年駭客.md "wikilink")中亦有登場。第三季初期重新登場，企圖奪取[Omnitrix並征服地球](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")。征服失敗以後仍不放棄奪取[Omnitrix](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")，還進攻普萊摩斯，結果再次被小班變成的超巨人丟到太空。結局時與阿貝多合作奪得小班的[Omnitrix](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")，但很快被小班自己毀掉。最後在太空船墜入海中時與小班決戰，因太空船爆炸而戰敗。雖然在外無惡不作，卻非常重視出生星球的同胞。
 
 <!-- end list -->
 

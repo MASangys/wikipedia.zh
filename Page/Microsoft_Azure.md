@@ -138,8 +138,8 @@ ECMP)](../Page/等價多路徑路由.md "wikilink")，用來減少因網路擴�
   - 交換器抽象介面 (Switch Abstraction Interface,
     SAI)，定義了交換器作業系統的功能規格，目前已被()協會接受。
   - Azure Cloud
-    Switch，一種具備[網路交換器能力的網路作業系統](../Page/網路交換器.md "wikilink")，基於交換器抽象介面所設計，使用微軟自製的[Linux作業系統](../Page/Linux.md "wikilink")\[6\]。
-  - 網路管理[微服務化](../Page/微服務.md "wikilink")，以及[軟體定義網路的基礎建設](../Page/軟體定義網路.md "wikilink")。
+    Switch，一種具備[網路交換器](../Page/網路交換器.md "wikilink")能力的網路作業系統，基於交換器抽象介面所設計，使用微軟自製的[Linux](../Page/Linux.md "wikilink")作業系統\[6\]。
+  - 網路管理[微服務](../Page/微服務.md "wikilink")化，以及[軟體定義網路](../Page/軟體定義網路.md "wikilink")的基礎建設。
 
 ## 服務位置
 
@@ -176,7 +176,7 @@ Azure 服務區域有分為三種：
 | 北美洲                                               | 美國中西部                                               | West Central US      | Azure Cloud (Region 1) | (未公布)                                                                                               |                                 |
 | 北美洲                                               | 美國西部                                                | West US              | Azure Cloud (Region 1) | [加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")                                           |                                 |
 | 北美洲                                               | 美國西部2                                               | West US 2            | Azure Cloud (Region 1) | (未公布)                                                                                               |                                 |
-| 北美洲                                               | [加拿大中部](../Page/加拿大.md "wikilink")                  | Central Canada       | Azure Cloud (Region 1) | [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")                                                 |                                 |
+| 北美洲                                               | [加拿大](../Page/加拿大.md "wikilink")中部                  | Central Canada       | Azure Cloud (Region 1) | [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")                                                 |                                 |
 | 北美洲                                               | 加拿大東部                                               | East Canada          | Azure Cloud (Region 1) | [魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")                                                 |                                 |
 | [歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink") | 北歐                                                  | North Europe         | Azure Cloud (Region 1) | [愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")                                                 |                                 |
 | 歐洲                                                | 西歐                                                  | West Europe          | Azure Cloud (Region 1) | [荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")                                                   |                                 |
@@ -188,12 +188,12 @@ Azure 服務區域有分為三種：
 | 歐洲                                                | 法國南部                                                | France South         | Azure Cloud (Region 1) | (尚未宣佈)                                                                                              | (興建中)                           |
 | [亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink") | 東亞                                                  | East Asia            | Azure Cloud (Region 2) | [香港](https://zh.wikipedia.org/wiki/香港特別行政區 "wikilink")                                              |                                 |
 | 亞洲                                                | 東南亞                                                 | Southeast Asia       | Azure Cloud (Region 2) | [新加坡](../Page/新加坡.md "wikilink")                                                                    |                                 |
-| 亞洲                                                | [日本東部](../Page/日本.md "wikilink")                    | Japan East           | Azure Cloud (Region 2) | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，[埼玉](https://zh.wikipedia.org/wiki/埼玉 "wikilink") |                                 |
+| 亞洲                                                | [日本](../Page/日本.md "wikilink")東部                    | Japan East           | Azure Cloud (Region 2) | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，[埼玉](https://zh.wikipedia.org/wiki/埼玉 "wikilink") |                                 |
 | 亞洲                                                | 日本西部                                                | Japan West           | Azure Cloud (Region 2) | [大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")                                                   |                                 |
-| 亞洲                                                | [印度中部](../Page/印度.md "wikilink")                    | Central India        | Azure Cloud (Region 2) | [浦那](../Page/浦那.md "wikilink")                                                                      |                                 |
+| 亞洲                                                | [印度](../Page/印度.md "wikilink")中部                    | Central India        | Azure Cloud (Region 2) | [浦那](../Page/浦那.md "wikilink")                                                                      |                                 |
 | 亞洲                                                | 印度西部                                                | South India          | Azure Cloud (Region 2) | [孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")                                                   |                                 |
 | 亞洲                                                | 印度南部                                                | West India           | Azure Cloud (Region 2) | [清奈](https://zh.wikipedia.org/wiki/清奈 "wikilink")                                                   |                                 |
-| 亞洲                                                | [中國東部](../Page/中國.md "wikilink")                    | China East           | Azure China            | [上海](https://zh.wikipedia.org/wiki/上海 "wikilink")                                                   | 由世紀互聯 (21Vianet) 代理營運           |
+| 亞洲                                                | [中國](../Page/中國.md "wikilink")東部                    | China East           | Azure China            | [上海](https://zh.wikipedia.org/wiki/上海 "wikilink")                                                   | 由世紀互聯 (21Vianet) 代理營運           |
 | 亞洲                                                | 中國北部                                                | China North          | Azure China            | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")                                                   | 由世紀互聯 (21Vianet) 代理營運           |
 | 亞洲                                                | [韓國中部](https://zh.wikipedia.org/wiki/韓國 "wikilink") | Central Korea        | Azure Cloud (Region 2) | [首爾](../Page/首爾.md "wikilink")                                                                      |                                 |
 | 亞洲                                                | 韓國南部                                                | South Korea          | Azure Cloud (Region 2) | [釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")                                                   |                                 |
@@ -234,11 +234,11 @@ Azure Quickstart Template \[9\]供入門的系統管理人員使用。
 ## 服務
 
 Microsoft Azure 現已包含 30
-餘種服務，以及數百項功能，針對雲端以及[物聯網與](https://zh.wikipedia.org/wiki/物聯網 "wikilink")[大數據等所需要的各類型服務提供](../Page/大數據.md "wikilink")。
+餘種服務，以及數百項功能，針對雲端以及[物聯網與](https://zh.wikipedia.org/wiki/物聯網 "wikilink")[大數據](../Page/大數據.md "wikilink")等所需要的各類型服務提供。
 
 ### 運算服務
 
-運算服務是以 Azure 內的伺服器群經過[虛擬化後形成的大量虛擬機器](../Page/虛擬化.md "wikilink") (Virtual
+運算服務是以 Azure 內的伺服器群經過[虛擬化](../Page/虛擬化.md "wikilink")後形成的大量虛擬機器 (Virtual
 Machine) 所組成的服務群，其主要功能是提供 CPU、記憶體等具有運算能力的資源。在 Azure 中的運算資源分成 IaaS 與 PaaS
 兩種：
 

@@ -8,9 +8,9 @@ SODMY](https://zh.wikipedia.org/wiki/NEW_SODMY "wikilink")、[Versailles的主�
     MIZER](../Page/MALICE_MIZER.md "wikilink")（[惡意與悲劇](https://zh.wikipedia.org/wiki/惡意與悲劇 "wikilink")）的[roadies](https://zh.wikipedia.org/wiki/roadies "wikilink")，與同為[MALICE
     MIZER的](../Page/MALICE_MIZER.md "wikilink")[roadies的](https://zh.wikipedia.org/wiki/roadies "wikilink")[MAYU相遇](https://zh.wikipedia.org/wiki/MAYU "wikilink")，結成[LAREINE](https://zh.wikipedia.org/wiki/LAREINE "wikilink")（当時LALIENE）。
   - 1998年8月1日 全國oneman tour「TOUR "Freur" 1998 ～白鳥と追想～」，首站札幌。
-  - 1998年9月27日 於[日本青年館舉行tour](../Page/日本青年館.md "wikilink") final「TOUR
+  - 1998年9月27日 於[日本青年館](../Page/日本青年館.md "wikilink")舉行tour final「TOUR
     "Fleur" 1998 ～湖底に眠る永遠の花園～」。
-  - 1999年3月26日 於[澀谷公會堂舉行oneman](../Page/澀谷公會堂.md "wikilink") live「tour
+  - 1999年3月26日 於[澀谷公會堂](../Page/澀谷公會堂.md "wikilink")舉行oneman live「tour
     "Métamorphose"」final。
   - 1999年5月26日
     [LAREINE發表major](https://zh.wikipedia.org/wiki/LAREINE "wikilink")
@@ -19,7 +19,7 @@ SODMY](https://zh.wikipedia.org/wiki/NEW_SODMY "wikilink")、[Versailles的主�
     Records正式major](../Page/SME_Records.md "wikilink") debut，晉身主流樂團。
   - 1999年8月22日 於中野sun plaza舉行2DAYS live。
   - 2000年2月9日 major後4th
-    single翻唱了經典動畫片「[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")」主題歌「[薔薇は美しく散る](https://zh.wikipedia.org/wiki/薔薇は美しく散る "wikilink")」。原作者[池田理代子繪製了該CD封套上的樂團成員肖像畫](../Page/池田理代子.md "wikilink")。
+    single翻唱了經典動畫片「[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")」主題歌「[薔薇は美しく散る](https://zh.wikipedia.org/wiki/薔薇は美しく散る "wikilink")」。原作者[池田理代子](../Page/池田理代子.md "wikilink")繪製了該CD封套上的樂團成員肖像畫。
   - 2000年8月
     KAMIJO以外的樂團成員正式退出[LAREINE](https://zh.wikipedia.org/wiki/LAREINE "wikilink")。之後KAMIJO獨自一人以[LAREINE身份繼續活動](https://zh.wikipedia.org/wiki/LAREINE "wikilink")，並設立自己的音樂厰牌[APPLAUSE
     RECORDS](https://zh.wikipedia.org/wiki/APPLAUSE_RECORDS "wikilink")。
@@ -69,7 +69,7 @@ SODMY](https://zh.wikipedia.org/wiki/NEW_SODMY "wikilink")、[Versailles的主�
     Artist
     Society兩個音樂厰牌的代表社長](https://zh.wikipedia.org/wiki/Sherow_Artist_Society "wikilink")。同時也為其它樂隊做音樂監製。
   - 經常參與CD、DVD、海報的設計，並且精通錄音和影像編輯。
-  - 喜歡的音樂家有[保羅·莫裏哀](https://zh.wikipedia.org/wiki/保羅·莫裏哀 "wikilink")、[理查德·克莱德曼等等](../Page/理查德·克莱德曼.md "wikilink")。live會場上經常播放[保羅·莫裏哀的曲子](https://zh.wikipedia.org/wiki/保羅·莫裏哀 "wikilink")。
+  - 喜歡的音樂家有[保羅·莫裏哀](https://zh.wikipedia.org/wiki/保羅·莫裏哀 "wikilink")、[理查德·克莱德曼](../Page/理查德·克莱德曼.md "wikilink")等等。live會場上經常播放[保羅·莫裏哀的曲子](https://zh.wikipedia.org/wiki/保羅·莫裏哀 "wikilink")。
   - 1995年LALIENE時期配布demo tape中的收錄歌曲「[Dir en
     Gray](https://zh.wikipedia.org/wiki/Dir_en_Gray "wikilink")」，据考是著名視覺系樂團[Dir
     en Grey團名的由來](https://zh.wikipedia.org/wiki/Dir_en_Grey "wikilink")。

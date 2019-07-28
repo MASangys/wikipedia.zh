@@ -1,4 +1,4 @@
-**F签证**是[美国签发给进行美国高等教育全日制学习的他国](../Page/美国.md "wikilink")[留学生的](https://zh.wikipedia.org/wiki/留学生 "wikilink")[签证](https://zh.wikipedia.org/wiki/签证 "wikilink")，属于非移民签证。F-1签证必须由美国驻外大使馆和领事馆颁发。想要赴美就读的学生必须向要就读的学校申请，获得[I-20表后方能申请F](../Page/I-20_\(表格\).md "wikilink")-1签证。F-2簽證則是簽發給持有F-1簽證的國際學生的配偶或21嵗以下的子女入境的簽證。
+**F签证**是[美国](../Page/美国.md "wikilink")签发给进行美国高等教育全日制学习的他国[留学生的](https://zh.wikipedia.org/wiki/留学生 "wikilink")[签证](https://zh.wikipedia.org/wiki/签证 "wikilink")，属于非移民签证。F-1签证必须由美国驻外大使馆和领事馆颁发。想要赴美就读的学生必须向要就读的学校申请，获得[I-20表后方能申请F](../Page/I-20_\(表格\).md "wikilink")-1签证。F-2簽證則是簽發給持有F-1簽證的國際學生的配偶或21嵗以下的子女入境的簽證。
 
 ## 描述
 
@@ -8,7 +8,7 @@
 
 ### F-2簽證
 
-[美国的](../Page/美国.md "wikilink")**F-2签证**是签发给持有[美国学生签证](https://zh.wikipedia.org/wiki/美国学生签证 "wikilink")（F-1）的国际学生的[配偶或](https://zh.wikipedia.org/wiki/配偶 "wikilink")21嵗以下的子女入境的[签证](https://zh.wikipedia.org/wiki/签证 "wikilink")，属于非移民签证，但兄弟姊妹和父母不能申請F-2簽證。中國大陸的申請者有效期一年，可多次入境；其他地方多和F-1簽證的期限相同。F-2签证持有者不可以在美国工作。持有F-2簽證的未成年（21岁下）子女可以以本地居民的身份去公立学校就读到12年級，但不能以F-2簽證就讀大專院校\[1\]。[大中华地区的申請者均可获得有效期最多为五年的年签证](https://zh.wikipedia.org/wiki/大中华地区 "wikilink")。
+[美国](../Page/美国.md "wikilink")的**F-2签证**是签发给持有[美国学生签证](https://zh.wikipedia.org/wiki/美国学生签证 "wikilink")（F-1）的国际学生的[配偶或](https://zh.wikipedia.org/wiki/配偶 "wikilink")21嵗以下的子女入境的[签证](https://zh.wikipedia.org/wiki/签证 "wikilink")，属于非移民签证，但兄弟姊妹和父母不能申請F-2簽證。中國大陸的申請者有效期一年，可多次入境；其他地方多和F-1簽證的期限相同。F-2签证持有者不可以在美国工作。持有F-2簽證的未成年（21岁下）子女可以以本地居民的身份去公立学校就读到12年級，但不能以F-2簽證就讀大專院校\[1\]。[大中华地区的申請者均可获得有效期最多为五年的年签证](https://zh.wikipedia.org/wiki/大中华地区 "wikilink")。
 
 ## 工作
 

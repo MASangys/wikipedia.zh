@@ -9,10 +9,10 @@ PSP:2011年10月26日 | genre = [清版动作游戏](../Page/清版动作游戏.
 [单人游戏](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")/[多人游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")
 | platforms = [街機](https://zh.wikipedia.org/wiki/街機 "wikilink") }}
 
-，是1992年由[卡普空推出的](../Page/卡普空.md "wikilink")[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，和前作《[吞食天地](https://zh.wikipedia.org/wiki/吞食天地_\(街機\) "wikilink")》一樣，本作亦以[本宫宏志的](../Page/本宫宏志.md "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》漫畫《》（）為遊戲腳本，由玩家操作[蜀國的武將們進行戰鬥](https://zh.wikipedia.org/wiki/蜀國 "wikilink")，遊戲流程仍為橫向捲軸式的關卡設計。本作品後來於1996年時移殖到[PlayStation與](../Page/PlayStation.md "wikilink")[Sega
+，是1992年由[卡普空](../Page/卡普空.md "wikilink")推出的[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，和前作《[吞食天地](https://zh.wikipedia.org/wiki/吞食天地_\(街機\) "wikilink")》一樣，本作亦以[本宫宏志](../Page/本宫宏志.md "wikilink")的《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》漫畫《》（）為遊戲腳本，由玩家操作[蜀國的武將們進行戰鬥](https://zh.wikipedia.org/wiki/蜀國 "wikilink")，遊戲流程仍為橫向捲軸式的關卡設計。本作品後來於1996年時移殖到[PlayStation](../Page/PlayStation.md "wikilink")與[Sega
 Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移殖為[手機遊戲](https://zh.wikipedia.org/wiki/手機 "wikilink")，在日本NTT手機移殖版中有一些新增的遊戲要素。2011年底移植到[PSP遊戲的下載商店中](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
-本作的故事由[博望坡之戰開始到](../Page/博望坡之戰.md "wikilink")[赤壁之戰為止](../Page/赤壁之戰.md "wikilink")，并再现了原著的“华容道捉放曹”情节。玩家可以選擇的角色較前作多一個，可以3人同時遊戏（後來的移植版只能2人同時遊戏）。
+本作的故事由[博望坡之戰](../Page/博望坡之戰.md "wikilink")開始到[赤壁之戰](../Page/赤壁之戰.md "wikilink")為止，并再现了原著的“华容道捉放曹”情节。玩家可以選擇的角色較前作多一個，可以3人同時遊戏（後來的移植版只能2人同時遊戏）。
 
 ## 玩家角色
 
@@ -30,7 +30,7 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
 <!-- end list -->
 
   -
-    力量型角色，技巧性最强。步行時沒有拿兵器，以徒手戰鬥，有數種類似[職業摔角的動作](../Page/職業摔角.md "wikilink")，會咬人及旋風大摔，抓人距离全員最廣，絕技為粉碎拳。騎馬時執[丈八蛇矛](https://zh.wikipedia.org/wiki/丈八蛇矛 "wikilink")。
+    力量型角色，技巧性最强。步行時沒有拿兵器，以徒手戰鬥，有數種類似[職業摔角](../Page/職業摔角.md "wikilink")的動作，會咬人及旋風大摔，抓人距离全員最廣，絕技為粉碎拳。騎馬時執[丈八蛇矛](https://zh.wikipedia.org/wiki/丈八蛇矛 "wikilink")。
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
   -
     第3關與第4關之間出現的角色。善於扔飛刀和輕快的[足技](https://zh.wikipedia.org/wiki/足技 "wikilink")。最後打倒美美會得到更多Round
     Clear Bonus。
-    第8關之後以不同顏色和名稱的雜兵身份出現。如果能一命破關的情況下，會得到三人讚美。這角色是由[安田朗進行設計的](../Page/安田朗.md "wikilink")。
+    第8關之後以不同顏色和名稱的雜兵身份出現。如果能一命破關的情況下，會得到三人讚美。這角色是由[安田朗](../Page/安田朗.md "wikilink")進行設計的。
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
 ## 世界版
 
 原版的“吞食天地2”仅在日本本土发行，华语圈进口的机台多是日本原版。考虑到西方世界用户对三国故事背景不熟悉，发行商决定以“Warriors of
-Fate”（命运战士）之名在欧美发行这款游戏，内容和关卡与原版基本无异，只是我方和敌方角色的名字，被更换成了西方玩家熟悉的历史角色，比如五虎将以“[亚瑟王和他的勇士](../Page/亚瑟王.md "wikilink")”命名，敌将被冠以“成吉思汗”、“匈奴王[阿提拉](../Page/阿提拉.md "wikilink")”之类，整个故事情节被描绘成“历史英雄人物超越时空的大会战”，颇有“[关公战秦琼](../Page/关公战秦琼.md "wikilink")”的意味。这种设定的反响并不讨好，使西方的玩家多感到不知所云，按日本的说法就是充满“违和感”。
+Fate”（命运战士）之名在欧美发行这款游戏，内容和关卡与原版基本无异，只是我方和敌方角色的名字，被更换成了西方玩家熟悉的历史角色，比如五虎将以“[亚瑟王](../Page/亚瑟王.md "wikilink")和他的勇士”命名，敌将被冠以“成吉思汗”、“匈奴王[阿提拉](../Page/阿提拉.md "wikilink")”之类，整个故事情节被描绘成“历史英雄人物超越时空的大会战”，颇有“[关公战秦琼](../Page/关公战秦琼.md "wikilink")”的意味。这种设定的反响并不讨好，使西方的玩家多感到不知所云，按日本的说法就是充满“违和感”。
 
 同样的游戏，在日文和华语圈广受欢迎，但在西方的知名度和反响就非常一般，很可能是海外市场销量最低的[CPS
 1.5作品](../Page/CP_System.md "wikilink")\[1\]，远没有情节“西化”的《[快打旋风](https://zh.wikipedia.org/wiki/快打旋风 "wikilink")》、《[名将](../Page/上尉密令.md "wikilink")》成功。

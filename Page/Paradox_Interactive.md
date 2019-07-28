@@ -28,7 +28,7 @@ Interactive與[AGEOD分離](https://zh.wikipedia.org/wiki/:en:AGEod "wikilink")�
 2015年10月29日，Paradox Interactive收購[White
 Wolf](../Page/White_Wolf.md "wikilink")。\[5\]
 
-2016年5月27日，[腾讯以](../Page/腾讯.md "wikilink")1.38亿入手Paradox Interactive
+2016年5月27日，[腾讯](../Page/腾讯.md "wikilink")以1.38亿入手Paradox Interactive
 5%股份。\[6\]
 
 2017年6月30日，Paradox Interactive收購[Triumph

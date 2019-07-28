@@ -14,17 +14,17 @@ Front是一般市民的主要收容所。建有轨道列车为出入之工具。
 
 ### NERV第1支部
 
-**NERV第1支部**（**NERV-01**）是NERV在[美国的支部](../Page/美国.md "wikilink")，位于[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")。第1支部拥有[MAGI的](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#MAGI系统 "wikilink")3号机。
+**NERV第1支部**（**NERV-01**）是NERV在[美国](../Page/美国.md "wikilink")的支部，位于[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")。第1支部拥有[MAGI的](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#MAGI系统 "wikilink")3号机。
 
 ### NERV第2支部
 
-**NERV第2支部**（**NERV-02**）是NERV的[北美支部](https://zh.wikipedia.org/wiki/北美 "wikilink")，位于[内华达沙漠内某处](https://zh.wikipedia.org/wiki/内华达 "wikilink")。（但在《[新剧场版：破](../Page/福音戰士新劇場版：破.md "wikilink")》中，所在的位置并不像在内华达州，而是在[纽约州附近](../Page/纽约州.md "wikilink")。）
+**NERV第2支部**（**NERV-02**）是NERV的[北美支部](https://zh.wikipedia.org/wiki/北美 "wikilink")，位于[内华达沙漠内某处](https://zh.wikipedia.org/wiki/内华达 "wikilink")。（但在《[新剧场版：破](../Page/福音戰士新劇場版：破.md "wikilink")》中，所在的位置并不像在内华达州，而是在[纽约州](../Page/纽约州.md "wikilink")附近。）
 
 在TV版第17话中，4号机在S²搭载实验时将之连同方圆89公里范围内的一切物体摧毁。
 
 ### NERV第3支部
 
-**NERV第3支部**（**NERV-03**）位于[德国](../Page/德国.md "wikilink")，简称“德国NERV”。德国在[柏林和](../Page/柏林.md "wikilink")[汉堡都有NERV机构](../Page/汉堡.md "wikilink")，分别掌管MAGI的3号机和5号机，至于第3支部到底位于何处则不明。
+**NERV第3支部**（**NERV-03**）位于[德国](../Page/德国.md "wikilink")，简称“德国NERV”。德国在[柏林](../Page/柏林.md "wikilink")和[汉堡](../Page/汉堡.md "wikilink")都有NERV机构，分别掌管MAGI的3号机和5号机，至于第3支部到底位于何处则不明。
 
 EVA二号机建造于第3支部。在联合国海军护卫下被运送到位于第三新东京市的NERV总部前，明日香显然和二号机在此接受过一段时间的训练。
 
@@ -32,7 +32,7 @@ EVA二号机建造于第3支部。在联合国海军护卫下被运送到位于�
 
 ### 其他支部
 
-在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦也有NERV机构](../Page/伦敦.md "wikilink")。
+在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")也有NERV机构。
 
 [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京也有NERV支部](https://zh.wikipedia.org/wiki/北京 "wikilink")，掌管MAGI的6号机。中国[上海设有NERV的情报中心](https://zh.wikipedia.org/wiki/上海 "wikilink")。
 
@@ -46,15 +46,15 @@ EVA二号机建造于第3支部。在联合国海军护卫下被运送到位于�
 
 ## 职权
 
-NERV是[SEELE的执行机构](https://zh.wikipedia.org/wiki/SEELE "wikilink")，最重要的就是按SEELE的指示执行“[人类补完计划](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#人类补完计划 "wikilink")”，歼灭所有[使徒](https://zh.wikipedia.org/wiki/使徒 "wikilink")，完成人类[补完](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#人类补完计划 "wikilink")。NERV活动内容一般向媒体公开，但绝大部分仍是最高机密。非常事态时，对[联合国军拥有绝对的指挥权](../Page/联合国军.md "wikilink")（最优先各种军事设施、武器装备，但核武器除外），届时，各支部最高责任者所持的权限将超越联合国成员国所有的行政、司法机关。
+NERV是[SEELE的执行机构](https://zh.wikipedia.org/wiki/SEELE "wikilink")，最重要的就是按SEELE的指示执行“[人类补完计划](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#人类补完计划 "wikilink")”，歼灭所有[使徒](https://zh.wikipedia.org/wiki/使徒 "wikilink")，完成人类[补完](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#人类补完计划 "wikilink")。NERV活动内容一般向媒体公开，但绝大部分仍是最高机密。非常事态时，对[联合国军](../Page/联合国军.md "wikilink")拥有绝对的指挥权（最优先各种军事设施、武器装备，但核武器除外），届时，各支部最高责任者所持的权限将超越联合国成员国所有的行政、司法机关。
 
 ## 武器
 
-由于使徒均拥有强大的[绝对领域](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#绝对领域 "wikilink")，能抵御人类普通武器打击乃至[核打击和](../Page/核武器.md "wikilink")[N²武器打击](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#N²武器 "wikilink")，所以配备EVA以对付使徒成为必要。NERV保有[终极泛用人型决战兵器EVANGELION](https://zh.wikipedia.org/wiki/EVA_\(戰鬥機械人\) "wikilink")，但NERV一直处于兵器补给以及建设经费的短缺状态。NERV本部保有零号机、初号机、2号机，第3支部保有3号机。美国的NERV第2支部保有4号机，但4号机与支部在S2机关搭载实验中一同消失。新剧场版中，[俄罗斯伯大尼基地保有](../Page/俄罗斯.md "wikilink")5号机，但在歼灭第3使徒时与使徒一同被毁，由此使欧盟和俄罗斯与日本的关系一度变得紧张。NERV还拥有Mark.06、Mark.09、第13号机等机体。
+由于使徒均拥有强大的[绝对领域](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#绝对领域 "wikilink")，能抵御人类普通武器打击乃至[核打击和](../Page/核武器.md "wikilink")[N²武器打击](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#N²武器 "wikilink")，所以配备EVA以对付使徒成为必要。NERV保有[终极泛用人型决战兵器EVANGELION](https://zh.wikipedia.org/wiki/EVA_\(戰鬥機械人\) "wikilink")，但NERV一直处于兵器补给以及建设经费的短缺状态。NERV本部保有零号机、初号机、2号机，第3支部保有3号机。美国的NERV第2支部保有4号机，但4号机与支部在S2机关搭载实验中一同消失。新剧场版中，[俄罗斯](../Page/俄罗斯.md "wikilink")伯大尼基地保有5号机，但在歼灭第3使徒时与使徒一同被毁，由此使欧盟和俄罗斯与日本的关系一度变得紧张。NERV还拥有Mark.06、Mark.09、第13号机等机体。
 
 ## NERV与各国政府的关系
 
-NERV与所在国政府的关系一向比较紧张，NERV本部与[日本政府](../Page/日本.md "wikilink")、[战自的关系尤为如此](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#日本战略自卫队 "wikilink")。
+NERV与所在国政府的关系一向比较紧张，NERV本部与[日本](../Page/日本.md "wikilink")政府、[战自的关系尤为如此](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#日本战略自卫队 "wikilink")。
 
 日本政府对于建立在其本国国土之上的拥有战时[特权的联合国武装组织NERV深感威胁](https://zh.wikipedia.org/wiki/特权 "wikilink")，除NERV的存在占用大量的社会资源、给当地造成极大的经济负担外，各国花巨资建造的EVA机体，名义上所有权归属投资建造国，但机体的实际管理及指挥使用权却是属于当地辖区的NERV支部，更加深了各国政府尤其日本政府对联合国的不信任与不满。
 
@@ -66,18 +66,18 @@ TV版中，在[碇源堂和](https://zh.wikipedia.org/wiki/碇源堂 "wikilink")
 
 SEELE指派组织成员碇源堂担任NERV的最高负责人，以施行“[人类补完计划](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#人类补完计划 "wikilink")”，但碇源堂与冬月违背SEELE设定的剧本，故发生了向委员会隐瞒第11使徒入侵、把[朗基努斯之枪故意遗留在月球轨道](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#朗基努斯之枪 "wikilink")、实行“[亚当计划](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#E计划 "wikilink")”等背叛SEELE的行为。SEELE对碇源堂的背叛行为早已察觉，并-{}-产生不满，认为「NERV已经成为了某人的私人机关」。
 
-TV版中，從SEELE在**人类补完委员会**的会议上质问碇源堂、绑架冬月、把第五适格者[渚薰送至NERV本部](../Page/渚薰.md "wikilink")、煽动日本政府出动战略自卫队攻击NERV本部等事件，可以看出NERV与SEELE之间渐渐明显化的紧张关系。
+TV版中，從SEELE在**人类补完委员会**的会议上质问碇源堂、绑架冬月、把第五适格者[渚薰](../Page/渚薰.md "wikilink")送至NERV本部、煽动日本政府出动战略自卫队攻击NERV本部等事件，可以看出NERV与SEELE之间渐渐明显化的紧张关系。
 
 ## 其他
 
 ### 对人防御
 
-NERV的成員會接受有關[槍械使用的訓練](https://zh.wikipedia.org/wiki/槍械 "wikilink")，並會在工作時候把手槍鎖在抽屜中，以備不時之需。NERV的制式槍械為[奧地利製的](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[格洛克17連一個備用彈匣](../Page/格洛克17.md "wikilink")，而保安員就會配備一支[斯泰爾MPi
+NERV的成員會接受有關[槍械使用的訓練](https://zh.wikipedia.org/wiki/槍械 "wikilink")，並會在工作時候把手槍鎖在抽屜中，以備不時之需。NERV的制式槍械為[奧地利製的](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")連一個備用彈匣，而保安員就會配備一支[斯泰爾MPi
 69衝鋒槍](../Page/斯泰爾MPi_69衝鋒槍.md "wikilink")。
 
 ### NERV Logo
 
-半片[无花果树叶](https://zh.wikipedia.org/wiki/无花果 "wikilink")（在[創世記中](../Page/創世記.md "wikilink")，[亞當和](../Page/亞當.md "wikilink")[夏娃吃了](https://zh.wikipedia.org/wiki/夏娃 "wikilink")[智慧樹的果實後以自己一絲不掛為恥](https://zh.wikipedia.org/wiki/知善惡樹 "wikilink")，於是用無花果樹葉蓋著自己的[生殖器](../Page/生殖器.md "wikilink")）和NERV字母的组合，半边围绕着
+半片[无花果树叶](https://zh.wikipedia.org/wiki/无花果 "wikilink")（在[創世記](../Page/創世記.md "wikilink")中，[亞當](../Page/亞當.md "wikilink")和[夏娃吃了](https://zh.wikipedia.org/wiki/夏娃 "wikilink")[智慧樹的果實後以自己一絲不掛為恥](https://zh.wikipedia.org/wiki/知善惡樹 "wikilink")，於是用無花果樹葉蓋著自己的[生殖器](../Page/生殖器.md "wikilink")）和NERV字母的组合，半边围绕着
 "God's in his heaven, All's right with the world." 的字样。
 
 新劇場版中logo更改為無花果樹葉與蘋果的圖案。

@@ -1,11 +1,11 @@
-是[魔法少女奈葉系列第](../Page/魔法少女奈葉系列.md "wikilink")4期計畫的一部分，與《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[藤真拓哉](../Page/藤真拓哉.md "wikilink")，2009年起在《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》上連載。[台灣角川於](../Page/台灣角川.md "wikilink")2013年1月22日公告取得授權發行中文版\[1\]。
+是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")第4期計畫的一部分，與《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[藤真拓哉](../Page/藤真拓哉.md "wikilink")，2009年起在《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》上連載。[台灣角川](../Page/台灣角川.md "wikilink")於2013年1月22日公告取得授權發行中文版\[1\]。
 
 作品的時間軸位於《[魔法少女奈葉StrikerS Sound
 StageX](https://zh.wikipedia.org/wiki/魔法少女奈葉_Sound_Stage#StrikerS_Sound_StageX "wikilink")》以及《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》之間，相當於《Force》的2年前。于2014年8月15日宣布[电视动画化](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，随后官网开启。
 
 ## 故事簡介
 
-與[魔法少女奈葉系列的其它作品以](../Page/魔法少女奈葉系列.md "wikilink")[高町奈葉為主角不同](../Page/高町奈葉.md "wikilink")，本作以[StrikerS中的奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")[收養的女孩](../Page/收養.md "wikilink")**高町薇薇歐**為主角。故事發生在[JS事件的](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")4年之後的米德切爾達\[2\]，剛上魔法學校初等科4年级的薇薇歐已經掌握了魔法基本知識，收到了奈葉和[菲特·T·哈洛溫送的專用法器](https://zh.wikipedia.org/wiki/菲特·T·哈洛溫 "wikilink")「神聖之心」。
+與[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的其它作品以[高町奈葉](../Page/高町奈葉.md "wikilink")為主角不同，本作以[StrikerS中的奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")[收養](../Page/收養.md "wikilink")的女孩**高町薇薇歐**為主角。故事發生在[JS事件的](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")4年之後的米德切爾達\[2\]，剛上魔法學校初等科4年级的薇薇歐已經掌握了魔法基本知識，收到了奈葉和[菲特·T·哈洛溫送的專用法器](https://zh.wikipedia.org/wiki/菲特·T·哈洛溫 "wikilink")「神聖之心」。
 
 另一方面，自稱「**霸王 英格瓦爾特**」的謎樣人物正在掀起波瀾……
 
@@ -233,7 +233,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日
 
   - 原作：[都築真紀](../Page/都築真紀.md "wikilink")
   - 漫畫：[藤真拓哉](../Page/藤真拓哉.md "wikilink")（月刊「[CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")」連載／KADOKAWA
-    [角川書店刊](../Page/角川書店.md "wikilink")）
+    [角川書店](../Page/角川書店.md "wikilink")刊）
   - 監督：伊藤祐毅
   - 劇本：小林成朗
   - 人物設計：山野雅明

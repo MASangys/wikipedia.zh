@@ -1,5 +1,5 @@
 **NHK
-杯电视围棋淘汰赛**（），是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）电视台举办的[日本](../Page/日本.md "wikilink")[围棋快棋赛](../Page/围棋.md "wikilink")，每方10分钟保留时间，随后30秒一步。该项比赛冠军奖金500万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")，前两名可以获得[亚洲杯电视围棋快棋赛的参赛资格](../Page/亚洲杯电视围棋快棋赛.md "wikilink")。
+杯电视围棋淘汰赛**（），是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）电视台举办的[日本](../Page/日本.md "wikilink")[围棋](../Page/围棋.md "wikilink")快棋赛，每方10分钟保留时间，随后30秒一步。该项比赛冠军奖金500万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")，前两名可以获得[亚洲杯电视围棋快棋赛](../Page/亚洲杯电视围棋快棋赛.md "wikilink")的参赛资格。
 
 ## 历届 NHK 杯冠亚军
 
@@ -32,7 +32,7 @@
 <td><p>3[2]</p></td>
 <td><p>1956</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/桥本宇太郎" title="wikilink">桥本宇太郎九段</a></p></td>
-<td><p><a href="../Page/坂田荣男.md" title="wikilink">坂田荣男九段</a></p></td>
+<td><p><a href="../Page/坂田荣男.md" title="wikilink">坂田荣男</a>九段</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -44,7 +44,7 @@
 <td><p>5</p></td>
 <td><p>1958</p></td>
 <td><p>坂田荣男九段</p></td>
-<td><p><a href="../Page/木谷实.md" title="wikilink">木谷实九段</a></p></td>
+<td><p><a href="../Page/木谷实.md" title="wikilink">木谷实</a>九段</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -74,7 +74,7 @@
 <td><p>10</p></td>
 <td><p>1963</p></td>
 <td><p>桥本宇太郎九段</p></td>
-<td><p><a href="../Page/藤泽秀行.md" title="wikilink">藤泽秀行八段</a></p></td>
+<td><p><a href="../Page/藤泽秀行.md" title="wikilink">藤泽秀行</a>八段</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -103,7 +103,7 @@
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>1968</p></td>
-<td><p><a href="../Page/大竹英雄.md" title="wikilink">大竹英雄八段</a></p></td>
+<td><p><a href="../Page/大竹英雄.md" title="wikilink">大竹英雄</a>八段</p></td>
 <td><p>桥本昌二九段</p></td>
 </tr>
 <tr class="even">
@@ -122,7 +122,7 @@
 <td><p>18</p></td>
 <td><p>1971</p></td>
 <td><p>大竹英雄九段</p></td>
-<td><p><a href="../Page/石田芳夫.md" title="wikilink">石田芳夫七段</a></p></td>
+<td><p><a href="../Page/石田芳夫.md" title="wikilink">石田芳夫</a>七段</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -176,7 +176,7 @@
 <td><p>27</p></td>
 <td><p>1980</p></td>
 <td><p>桥本昌二九段</p></td>
-<td><p><a href="../Page/趙治勳.md" title="wikilink">趙治勳八段</a></p></td>
+<td><p><a href="../Page/趙治勳.md" title="wikilink">趙治勳</a>八段</p></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
@@ -188,7 +188,7 @@
 <td><p>29</p></td>
 <td><p>1982</p></td>
 <td><p>坂田荣男九段</p></td>
-<td><p><a href="../Page/杉内雅男.md" title="wikilink">杉内雅男九段</a></p></td>
+<td><p><a href="../Page/杉内雅男.md" title="wikilink">杉内雅男</a>九段</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
@@ -211,7 +211,7 @@
 <tr class="odd">
 <td><p>31</p></td>
 <td><p>1984</p></td>
-<td><p><a href="../Page/本田邦久.md" title="wikilink">本田邦久九段</a></p></td>
+<td><p><a href="../Page/本田邦久.md" title="wikilink">本田邦久</a>九段</p></td>
 <td><p>武宫正树九段</p></td>
 </tr>
 <tr class="even">
@@ -223,7 +223,7 @@
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>1986</p></td>
-<td><p><a href="../Page/小林光一.md" title="wikilink">小林光一九段</a></p></td>
+<td><p><a href="../Page/小林光一.md" title="wikilink">小林光一</a>九段</p></td>
 <td><p>武宫正树九段</p></td>
 </tr>
 <tr class="even">
@@ -236,7 +236,7 @@
 <td><p>35</p></td>
 <td><p>1988</p></td>
 <td><p>加藤正夫九段</p></td>
-<td><p><a href="../Page/王立诚.md" title="wikilink">王立诚八段</a></p></td>
+<td><p><a href="../Page/王立诚.md" title="wikilink">王立诚</a>八段</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
@@ -253,7 +253,7 @@
 <tr class="even">
 <td><p>38</p></td>
 <td><p>1991</p></td>
-<td><p><a href="../Page/依田纪基.md" title="wikilink">依田纪基八段</a></p></td>
+<td><p><a href="../Page/依田纪基.md" title="wikilink">依田纪基</a>八段</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/王铭琬" title="wikilink">王铭琬八段</a></p></td>
 </tr>
 <tr class="odd">
@@ -320,7 +320,7 @@
 <td><p>49</p></td>
 <td><p>2002</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/张栩" title="wikilink">张栩七段</a></p></td>
-<td><p><a href="../Page/羽根直树.md" title="wikilink">羽根直树八段</a></p></td>
+<td><p><a href="../Page/羽根直树.md" title="wikilink">羽根直树</a>八段</p></td>
 </tr>
 <tr class="even">
 <td><p>50</p></td>
@@ -350,7 +350,7 @@
 <td><p>54</p></td>
 <td><p>2007</p></td>
 <td><p>赵治勋九段</p></td>
-<td><p><a href="../Page/结城聪.md" title="wikilink">结城聪九段</a></p></td>
+<td><p><a href="../Page/结城聪.md" title="wikilink">结城聪</a>九段</p></td>
 </tr>
 <tr class="odd">
 <td><p>55</p></td>
@@ -368,7 +368,7 @@
 <td><p>57</p></td>
 <td><p>2010</p></td>
 <td><p>結城聰九段</p></td>
-<td><p><a href="../Page/井山裕太.md" title="wikilink">井山裕太九段</a></p></td>
+<td><p><a href="../Page/井山裕太.md" title="wikilink">井山裕太</a>九段</p></td>
 </tr>
 <tr class="even">
 <td><p>58</p></td>
@@ -415,7 +415,7 @@
 <tr class="odd">
 <td><p>63</p></td>
 <td><p>2016</p></td>
-<td><p><a href="../Page/張栩.md" title="wikilink">張栩九段</a></p></td>
+<td><p><a href="../Page/張栩.md" title="wikilink">張栩</a>九段</p></td>
 <td><p>寺山-{怜}-四段</p></td>
 </tr>
 <tr class="even">

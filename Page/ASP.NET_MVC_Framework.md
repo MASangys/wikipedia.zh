@@ -1,9 +1,9 @@
 **ASP.NET MVC
-Framework**是微軟在[ASP.NET中所添加的一組類別庫](../Page/ASP.NET.md "wikilink")，這組類別庫可以使用[Model-View-Controller的](../Page/MVC.md "wikilink")[設計模式來開發ASP](https://zh.wikipedia.org/wiki/软件设计模式 "wikilink").NET的應用程式。它與現有的ASP.NET應用程式並沒有衝突，所以兩者是可以並行的。ASP.NET
+Framework**是微軟在[ASP.NET](../Page/ASP.NET.md "wikilink")中所添加的一組類別庫，這組類別庫可以使用[Model-View-Controller的](../Page/MVC.md "wikilink")[設計模式來開發ASP](https://zh.wikipedia.org/wiki/软件设计模式 "wikilink").NET的應用程式。它與現有的ASP.NET應用程式並沒有衝突，所以兩者是可以並行的。ASP.NET
 MVC Framework被包裝在System.Web.Mvc.dll中，並利用[ASP.NET
 Routing來支援動作流以及](https://zh.wikipedia.org/wiki/ASP.NET_Routing "wikilink")[URL
 Rewriting的能力](https://zh.wikipedia.org/wiki/URL_Rewriting "wikilink")，讓它可以更貼近Web的發展以及Web
-2.0的特性。對於多數有[ASP開發經驗的開發人員來說看起來比較不陌生](https://zh.wikipedia.org/wiki/ASP "wikilink")，但對於沒有接觸過像ASP、[PHP](../Page/PHP.md "wikilink")、[JSP](../Page/JSP.md "wikilink")、[Perl這些Web開發工具的開發人員來說](../Page/Perl.md "wikilink")，相對的不容易入門。ASP.NET
+2.0的特性。對於多數有[ASP開發經驗的開發人員來說看起來比較不陌生](https://zh.wikipedia.org/wiki/ASP "wikilink")，但對於沒有接觸過像ASP、[PHP](../Page/PHP.md "wikilink")、[JSP](../Page/JSP.md "wikilink")、[Perl](../Page/Perl.md "wikilink")這些Web開發工具的開發人員來說，相對的不容易入門。ASP.NET
 MVC 的第一個版本於2009年3月17日釋出RTM版本，最新的ASP.NET MVC 5.2則是於2014年12月24日正式發行。
 
 微軟於 ASP.NET Core 中提出下一代的 MVC 框架，稱為 [ASP.NET Core
@@ -25,7 +25,7 @@ Factory](https://zh.wikipedia.org/wiki/Controller_Factory "wikilink")，以`ICon
 Controller 或 Controller Factory 來實作自己的控制器邏輯功能。
 
 **Model**物件則是為ASP.NET MVC提供資料，不過它沒有基礎類別，而是使用.NET
-Framework一般性的資料結構或是現在的[ADO.NET資料物件](../Page/ADO.NET.md "wikilink")，像是List、Dictionary、DataTable、DataReader與DataSet等等，當然也可以是自己開發的商業物件，這些資料會透過ASP.NET
+Framework一般性的資料結構或是現在的[ADO.NET](../Page/ADO.NET.md "wikilink")資料物件，像是List、Dictionary、DataTable、DataReader與DataSet等等，當然也可以是自己開發的商業物件，這些資料會透過ASP.NET
 MVC的**ModelBinder**工具類別來與Controller整合，ModelBinder本身是支援泛型(Generic)的，因為各種型別的資料它都可以使用。在ASP.NET
 MVC中提供了一個**DefaultModelBinder**物件，可支援大多數的.NET
 Framework資料型別，以及[陣列和已實作像是IList](https://zh.wikipedia.org/wiki/陣列 "wikilink")、IDictionary以及ICollection等介面的物件\[2\]。
@@ -108,7 +108,7 @@ End Class
 
 **View**物件以`IView`與`IViewDataContainer`等介面為主，並且以ASP.NET的各式前端介面為主要輸出工具，基於MVC的View彈性化設計考量，以往在ASP.NET
 Web
-Form的程式碼與[HTML分離模式將不再存在](../Page/HTML.md "wikilink")，而是將程式碼與HTML混合的方式設計，讓開發人員可以更精確的對View進行控制，而目前
+Form的程式碼與[HTML](../Page/HTML.md "wikilink")分離模式將不再存在，而是將程式碼與HTML混合的方式設計，讓開發人員可以更精確的對View進行控制，而目前
 ASP.NET MVC 支援的 View 有下列幾種\[3\]：
 
   - .aspx網頁，由**ViewPage**來支援。
@@ -405,8 +405,8 @@ Framework支援的ActionResult有下列幾種：
   - `ContentResult`物件，裝載由使用者自訂的 Content-Type 以及資料。
   - `EmptyResult`物件，表示不回傳任何東西。
   - `HttpUnauthorizedReuslt`物件，表示動作沒有被授權（即 HTTP 401）的錯誤訊息。
-  - `JavaScriptResult`物件，表示回傳的是[JavaScript指令碼](../Page/JavaScript.md "wikilink")。
-  - `JsonResult`物件，表示回傳的是[JSON資料](../Page/JSON.md "wikilink")。
+  - `JavaScriptResult`物件，表示回傳的是[JavaScript](../Page/JavaScript.md "wikilink")指令碼。
+  - `JsonResult`物件，表示回傳的是[JSON](../Page/JSON.md "wikilink")資料。
   - `FileResult`物件，表示回傳的是一個檔案資料。
   - `RedirectResult`物件，表示回傳的是一個重導向 (HTTP Redirect) 指令。
   - `RedirectToRouteResult`物件，與 RedirectResult 類似，但是它是重導向給一個 Route 的路徑。

@@ -1,7 +1,7 @@
 **R1**（后来被称为**XCON**，e**X**pert
 **CON**figurer的所写，意为**专家设置**）程序是基于生产规则的系统，由[卡内基梅隆大学的John](https://zh.wikipedia.org/wiki/卡内基梅隆大学 "wikilink")
 P.
-McDermott在1978年用开发。其目的是按照用户的需求，帮助[DEC为](../Page/迪吉多.md "wikilink")[VAX型计算机系统自动选择组件](../Page/VAX.md "wikilink")。XCON的开发继承了两个之前用[FORTRAN语言和](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")[BASIC语言未成功的尝试完成了一个](../Page/BASIC.md "wikilink")[专家系统](../Page/专家系统.md "wikilink")。
+McDermott在1978年用开发。其目的是按照用户的需求，帮助[DEC为](../Page/迪吉多.md "wikilink")[VAX](../Page/VAX.md "wikilink")型计算机系统自动选择组件。XCON的开发继承了两个之前用[FORTRAN语言和](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")[BASIC](../Page/BASIC.md "wikilink")语言未成功的尝试完成了一个[专家系统](../Page/专家系统.md "wikilink")。
 
 在1980年，XCON最初被用于DEC位于新罕布什尔州萨利姆的工厂。最终它有了大约2500条规则。截止至1986年，它一共处理了80,000条指令，准确率达到95-98%。据估计，通过减少当技师出错时送给客户的组件、加速组装流程、和增加客户满意度，它每年为DEC节省了两千五百万美元。
 

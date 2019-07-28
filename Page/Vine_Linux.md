@@ -22,16 +22,16 @@ Linux](../Page/Red_Hat_Linux.md "wikilink")，转向独立开发。
 ### 年表
 
   - 1998年 - 以Project-JE(PJE)的成员为主导，基于[Red Hat
-    Linux的](../Page/Red_Hat_Linux.md "wikilink")[Linux发行版开始进行开发](../Page/Linux发行版.md "wikilink")。
+    Linux的](../Page/Red_Hat_Linux.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")开始进行开发。
   - 1999年3月28日 - Vine Linux 1.0 发布
   - 1999年6月4日 - Vine Linux 1.1 发布
   - 2000年4月14日 - Vine Linux 2.0 发布
   - 2000年7月3日 - Vine Linux 2.0 for PowerMac
-    发布：对应[PowerPC的版本](../Page/PowerPC.md "wikilink")。
+    发布：对应[PowerPC](../Page/PowerPC.md "wikilink")的版本。
   - 2000年11月4日 - Vine Linux 2.1
     发布：对应PowerPC、[SPARC](../Page/SPARC.md "wikilink")、[Alpha的版本](../Page/DEC_Alpha.md "wikilink")。
   - 2001年3月24日 - Vine Linux 2.1.5
-    发布：最后一个对应[SPARC的版本](../Page/SPARC.md "wikilink")。
+    发布：最后一个对应[SPARC](../Page/SPARC.md "wikilink")的版本。
   - 2002年4月15日 - Vine Linux 2.5 发布
   - 2002年10月25日 - Vine Linux 2.6 发布
   - 2002年10月28日 - Vine Linux 2.6r1

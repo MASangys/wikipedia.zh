@@ -15,22 +15,22 @@ Producer = 作詞、作曲：石川智晶
   - 上榜11次（Oricon）
 
 | Last single = \[\[½_(石川智晶單曲)|
-《**Prototype**》（）是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[石川智晶的第](../Page/石川智晶.md "wikilink")5張（總計第6張）單曲。2008年12月3日由[Flying
+《**Prototype**》（）是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[石川智晶](../Page/石川智晶.md "wikilink")的第5張（總計第6張）單曲。2008年12月3日由[Flying
 DOG](../Page/Flying_DOG.md "wikilink")（[JVC
 Entertainment](../Page/勝利娛樂.md "wikilink")）發行。
 
 ## 解說
 
-《Prototype》是自從石川的上一張單曲《[{{Sfrac](../Page/½_\(石川智晶單曲\).md "wikilink")》以來，相隔1年發行的最新單曲。而且是石川從[See-Saw時期](../Page/See-Saw.md "wikilink")（與[梶浦由記](../Page/梶浦由記.md "wikilink")2人一起組成）出的單曲「」（2003年）「」（2005年）之後，第3首被[鋼彈系列作品選用的片尾主題曲](../Page/GUNDAM系列作品.md "wikilink")。
+《Prototype》是自從石川的上一張單曲《[{{Sfrac](../Page/½_\(石川智晶單曲\).md "wikilink")》以來，相隔1年發行的最新單曲。而且是石川從[See-Saw](../Page/See-Saw.md "wikilink")時期（與[梶浦由記](../Page/梶浦由記.md "wikilink")2人一起組成）出的單曲「」（2003年）「」（2005年）之後，第3首被[鋼彈系列作品選用的片尾主題曲](../Page/GUNDAM系列作品.md "wikilink")。
 
 另外，本單曲在初次亮相之後，於[Oricon創下週榜第](../Page/Oricon公信榜.md "wikilink")3名的最高排名成績。同時是石川單飛之後第一次擠進前10名、及See-Saw時期最高排名的單曲。
 
 還有，本單曲在電視廣告進行宣傳時，旁白是由《[機動戰士鋼彈00 2nd
-Season](../Page/機動戰士GUNDAM_00.md "wikilink")》角色[阿雷路亞·帕普提茲姆的配音員](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00角色列表#阿雷路亞·帕普提茲姆 "wikilink")[吉野裕行擔任](../Page/吉野裕行.md "wikilink")。
+Season](../Page/機動戰士GUNDAM_00.md "wikilink")》角色[阿雷路亞·帕普提茲姆的配音員](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00角色列表#阿雷路亞·帕普提茲姆 "wikilink")[吉野裕行](../Page/吉野裕行.md "wikilink")擔任。
 
 ## 收錄歌曲
 
-所有歌曲由[石川智晶作詞](../Page/石川智晶.md "wikilink")、作曲，編曲。
+所有歌曲由[石川智晶](../Page/石川智晶.md "wikilink")作詞、作曲，編曲。
 
 1.  **Prototype** \[5:43\]
       - 電視動畫《[機動戰士鋼彈00 2nd

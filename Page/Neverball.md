@@ -2,7 +2,7 @@
 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 2000/XP、[Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Sega
-Dreamcast以及](https://zh.wikipedia.org/wiki/Sega_Dreamcast "wikilink")[iPhone都可以看到它的影子](https://zh.wikipedia.org/wiki/iPhone "wikilink")。《Neverball》是[自由软件授权协议为](../Page/自由软件.md "wikilink")[GNU
+Dreamcast以及](https://zh.wikipedia.org/wiki/Sega_Dreamcast "wikilink")[iPhone都可以看到它的影子](https://zh.wikipedia.org/wiki/iPhone "wikilink")。《Neverball》是[自由软件](../Page/自由软件.md "wikilink")授权协议为[GNU
 General Public
 License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 
@@ -23,7 +23,7 @@ License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 
 ### 关卡设置
 
-《Neverball》可以用[GtkRadiant创建关卡](../Page/GtkRadiant.md "wikilink")，就像[雷神之锤系列游戏一样](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。
+《Neverball》可以用[GtkRadiant](../Page/GtkRadiant.md "wikilink")创建关卡，就像[雷神之锤系列游戏一样](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。
 1.5.0版本中有6套关卡，还有额外关卡下载[Neverforum](http://www.nevercorner.net/forum/)。
 《Neverball》也可以进行时间挑战之类的额外游戏方式。
 

@@ -1,5 +1,5 @@
 **BIND**（**B**erkeley **I**nternet **N**ame
-**D**omain）是现今[互联网上最常使用的](../Page/互联网.md "wikilink")[DNS软件](../Page/域名系统.md "wikilink")\[1\]，使用BIND作为服务器软件的DNS服务器约占所有DNS服务器的九成\[2\]。BIND现在由[互联网系统协会](https://zh.wikipedia.org/wiki/互联网系统协会 "wikilink")（Internet
+**D**omain）是现今[互联网](../Page/互联网.md "wikilink")上最常使用的[DNS软件](../Page/域名系统.md "wikilink")\[1\]，使用BIND作为服务器软件的DNS服务器约占所有DNS服务器的九成\[2\]。BIND现在由[互联网系统协会](https://zh.wikipedia.org/wiki/互联网系统协会 "wikilink")（Internet
 Systems Consortium）负责开发与维护\[3\]。
 
 ## 历史

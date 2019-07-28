@@ -1,4 +1,4 @@
-《**unsteady**》為[林原惠的第](../Page/林原惠.md "wikilink")25張單曲，於2000年10月25日發行。
+《**unsteady**》為[林原惠](../Page/林原惠.md "wikilink")的第25張單曲，於2000年10月25日發行。
 
 由[King
 Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販賣（KIDA-204）。

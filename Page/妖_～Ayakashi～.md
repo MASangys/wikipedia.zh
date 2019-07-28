@@ -1,5 +1,5 @@
 《**妖
-～Ayakashi～**》為[堂本光一的第二張單曲](../Page/堂本光一.md "wikilink")（若包含以米壽司名義發行的《[No
+～Ayakashi～**》為[堂本光一](../Page/堂本光一.md "wikilink")的第二張單曲（若包含以米壽司名義發行的《[No
 more](../Page/No_more.md "wikilink")》則為第三張）。
 
 ## 解說

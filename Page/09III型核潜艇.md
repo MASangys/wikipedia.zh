@@ -1,6 +1,6 @@
-**09III型核潜艇**（[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：**商级**，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：*Shang-class*）是[中国人民解放军海军研制的一种攻击型](../Page/中国人民解放军海军.md "wikilink")[核潜艇](https://zh.wikipedia.org/wiki/核潜艇 "wikilink")，由位于中国[辽宁](https://zh.wikipedia.org/wiki/辽宁 "wikilink")[葫芦岛的](https://zh.wikipedia.org/wiki/葫芦岛 "wikilink")[渤海造船重工业公司船坞负责建造](https://zh.wikipedia.org/wiki/渤海造船厂 "wikilink")，用来代替老旧的[09I型核潜艇](../Page/09I型核潜艇.md "wikilink")。第一艘09III型核潜艇于1998年12月开工建造，2003年12月建成下水。该型艇可能配备有六个鱼雷发射管，携带多种型号的[鱼雷](https://zh.wikipedia.org/wiki/鱼雷 "wikilink")、[水雷和潜射](../Page/水雷.md "wikilink")[反舰导弹](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")，其改进型号09IIIB型装备YJ-18B型潜舰导弹。
+**09III型核潜艇**（[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：**商级**，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：*Shang-class*）是[中国人民解放军海军](../Page/中国人民解放军海军.md "wikilink")研制的一种攻击型[核潜艇](https://zh.wikipedia.org/wiki/核潜艇 "wikilink")，由位于中国[辽宁](https://zh.wikipedia.org/wiki/辽宁 "wikilink")[葫芦岛的](https://zh.wikipedia.org/wiki/葫芦岛 "wikilink")[渤海造船重工业公司船坞负责建造](https://zh.wikipedia.org/wiki/渤海造船厂 "wikilink")，用来代替老旧的[09I型核潜艇](../Page/09I型核潜艇.md "wikilink")。第一艘09III型核潜艇于1998年12月开工建造，2003年12月建成下水。该型艇可能配备有六个鱼雷发射管，携带多种型号的[鱼雷](https://zh.wikipedia.org/wiki/鱼雷 "wikilink")、[水雷](../Page/水雷.md "wikilink")和潜射[反舰导弹](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")，其改进型号09IIIB型装备YJ-18B型潜舰导弹。
 
-2007年7月下旬，09III型核潜艇的模型在中国人民解放军建军80周年展览上展出。随后，[中国中央电视台播出了中央军委主席](../Page/中国中央电视台.md "wikilink")[胡锦涛为新型核潜艇入役授军旗仪式的画面](../Page/胡锦涛.md "wikilink")，证明09III型核潜艇首艇已正式服役并形成战斗力\[1\]。《现代舰船》杂志于2007年8月号刊登了该型艇的首张清晰照片。2009年5月18日，[新华社正式发表文章宣布中国第](../Page/新华社.md "wikilink")2代核潜艇已进入中国海军服役\[2\]。2015年4月26日中國海軍09III型核潜艇在[亞丁灣巡航](https://zh.wikipedia.org/wiki/亞丁灣 "wikilink")，並與中國海軍的護航艦艇組成編隊航行，任務持續時間長達2個多月\[3\]。
+2007年7月下旬，09III型核潜艇的模型在中国人民解放军建军80周年展览上展出。随后，[中国中央电视台](../Page/中国中央电视台.md "wikilink")播出了中央军委主席[胡锦涛](../Page/胡锦涛.md "wikilink")为新型核潜艇入役授军旗仪式的画面，证明09III型核潜艇首艇已正式服役并形成战斗力\[1\]。《现代舰船》杂志于2007年8月号刊登了该型艇的首张清晰照片。2009年5月18日，[新华社](../Page/新华社.md "wikilink")正式发表文章宣布中国第2代核潜艇已进入中国海军服役\[2\]。2015年4月26日中國海軍09III型核潜艇在[亞丁灣巡航](https://zh.wikipedia.org/wiki/亞丁灣 "wikilink")，並與中國海軍的護航艦艇組成編隊航行，任務持續時間長達2個多月\[3\]。
 
 2016年6月23日英国《简氏防务周刊》报道，中国的网络论坛公布的一张照片显示，新型093型核动力攻击潜艇改进了指挥台围壳和其他部分，旨在降低牵引和噪音。报道称，尚不清楚这艘潜艇在解放军海军商级潜艇计划中的确切地位。几个月前，美国五角大楼向国会递交的2016年度《中国军事与安全发展态势报告》称，这个
 东亚国家在继续增强其核动力攻击潜艇力量，在已经服役的两艘商级核动力攻击潜艇基础上，最终还将有四艘同级别核潜艇加入\[4\]。
@@ -12,9 +12,9 @@ TV报道，解放军南海舰队潜舰编队当天通过马六甲海峡。编队
 
 ## 建造历史
 
-中国的第二代核潜艇计划开始于1980年代初期，用以代替第一代09I型核潜艇（北约代号：汉级）。该型艇的代号“09III”于1983年左右确定，但是由于面临大量的技术难题，研制工作进展缓慢。考虑到其技术指标不足以对抗西方和前[苏联的核动力潜艇](../Page/苏联.md "wikilink")，该项目一度被搁置。直到1990年代中期，[俄罗斯](../Page/俄罗斯.md "wikilink")[圣彼得堡的](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[红宝石设计局参与到中国核潜艇项目中](../Page/红宝石设计局.md "wikilink")，才使得研制工作取得突破性进展。09III型核潜艇的原始设计在经过大范围修改后，于1998年12月开工建造。红宝石设计局提供了多少帮助还不得而知，有可能包括潜艇的关键部位，如船壳、推进系统、静音设计、战斗系统、武器系统和反侦察设备等。
+中国的第二代核潜艇计划开始于1980年代初期，用以代替第一代09I型核潜艇（北约代号：汉级）。该型艇的代号“09III”于1983年左右确定，但是由于面临大量的技术难题，研制工作进展缓慢。考虑到其技术指标不足以对抗西方和前[苏联](../Page/苏联.md "wikilink")的核动力潜艇，该项目一度被搁置。直到1990年代中期，[俄罗斯](../Page/俄罗斯.md "wikilink")[圣彼得堡的](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[红宝石设计局](../Page/红宝石设计局.md "wikilink")参与到中国核潜艇项目中，才使得研制工作取得突破性进展。09III型核潜艇的原始设计在经过大范围修改后，于1998年12月开工建造。红宝石设计局提供了多少帮助还不得而知，有可能包括潜艇的关键部位，如船壳、推进系统、静音设计、战斗系统、武器系统和反侦察设备等。
 
-在得到俄罗斯技术的帮助之后，09III型核潜艇的性能据信达到了苏联1970年代中期建造的[維克托III型核潜艇或其電子設備达到美国](https://zh.wikipedia.org/wiki/671型核潛艇 "wikilink")[洛杉矶级核动力攻击潜艇中期型号的水准](https://zh.wikipedia.org/wiki/洛杉矶级 "wikilink")，甚至和早期型号的[971型核潛艇或](https://zh.wikipedia.org/wiki/971型核潛艇 "wikilink")[維吉尼亞級核潛艇持平](https://zh.wikipedia.org/wiki/維吉尼亞級核潛艇 "wikilink")。但是该型艇的最新照片表明它与維克托III型核潜艇并无太多相似之处，在2001年中俄关系经历了仿制[苏-27歼击机的波折后](https://zh.wikipedia.org/wiki/苏-27 "wikilink")，中国放弃了俄方的帮助，重新自行设计。[美国海军和](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[五角大楼估计](../Page/五角大楼.md "wikilink")，该型艇在2010年之前将建成3-4艘，最终将建成6-8艘。自2003年起，该型艇开始在葫芦岛潜艇基地进行海试，以获得更多的数据。已经完工的09III型核潜艇都部署在[北海舰队](https://zh.wikipedia.org/wiki/北海舰队 "wikilink")。
+在得到俄罗斯技术的帮助之后，09III型核潜艇的性能据信达到了苏联1970年代中期建造的[維克托III型核潜艇或其電子設備达到美国](https://zh.wikipedia.org/wiki/671型核潛艇 "wikilink")[洛杉矶级核动力攻击潜艇中期型号的水准](https://zh.wikipedia.org/wiki/洛杉矶级 "wikilink")，甚至和早期型号的[971型核潛艇或](https://zh.wikipedia.org/wiki/971型核潛艇 "wikilink")[維吉尼亞級核潛艇持平](https://zh.wikipedia.org/wiki/維吉尼亞級核潛艇 "wikilink")。但是该型艇的最新照片表明它与維克托III型核潜艇并无太多相似之处，在2001年中俄关系经历了仿制[苏-27歼击机的波折后](https://zh.wikipedia.org/wiki/苏-27 "wikilink")，中国放弃了俄方的帮助，重新自行设计。[美国海军和](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[五角大楼](../Page/五角大楼.md "wikilink")估计，该型艇在2010年之前将建成3-4艘，最终将建成6-8艘。自2003年起，该型艇开始在葫芦岛潜艇基地进行海试，以获得更多的数据。已经完工的09III型核潜艇都部署在[北海舰队](https://zh.wikipedia.org/wiki/北海舰队 "wikilink")。
 
 2014年3月5日，游人在海南三亚军港拍到照片显示，一艘09III型攻击核潜艇，与另外三艘09IV型战略弹道导弹核潜艇同时停泊在军港码头\[10\]。
 
@@ -34,7 +34,7 @@ TV报道，解放军南海舰队潜舰编队当天通过马六甲海峡。编队
 
 该型艇装备H/SQG-207型舷侧[声纳阵列](https://zh.wikipedia.org/wiki/声纳 "wikilink")，该型声纳由715所的[李启虎主持研制](https://zh.wikipedia.org/wiki/李启虎 "wikilink")。
 
-2015年2月[全球防衛雜誌報導](../Page/全球防衛雜誌.md "wikilink")093G型改良潛艦已經服役，多加了一個艙段安放新武器，[央視環球視線節目數天後間接證實](https://zh.wikipedia.org/wiki/央視 "wikilink")「093改」存在並大幅改裝動力和消聲，並加裝反航母飛彈，可說是[航母殺手](https://zh.wikipedia.org/wiki/航母殺手 "wikilink")\[18\]。
+2015年2月[全球防衛雜誌](../Page/全球防衛雜誌.md "wikilink")報導093G型改良潛艦已經服役，多加了一個艙段安放新武器，[央視環球視線節目數天後間接證實](https://zh.wikipedia.org/wiki/央視 "wikilink")「093改」存在並大幅改裝動力和消聲，並加裝反航母飛彈，可說是[航母殺手](https://zh.wikipedia.org/wiki/航母殺手 "wikilink")\[18\]。
 
 2015年2月，中国造船厂疑似已经完成了三艘093G攻击型核动力潜艇的建造工作，开始服役。图片显示的093G核潜艇安装了垂直发射系统，可实现全向攻击\[19\]。
 

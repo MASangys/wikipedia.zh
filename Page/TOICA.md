@@ -1,12 +1,12 @@
 [TOICA_-_obverse.jpg](https://zh.wikipedia.org/wiki/File:TOICA_-_obverse.jpg "fig:TOICA_-_obverse.jpg")
 [TOICA_-_reverse.jpg](https://zh.wikipedia.org/wiki/File:TOICA_-_reverse.jpg "fig:TOICA_-_reverse.jpg")
-**TOICA**（）是一種由[日本](../Page/日本.md "wikilink")[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）發行的可再充值、非接觸式的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")（IC卡）形式的乘車票證。此智能卡於2006年11月25日正式發卡。直到2012年3月底已發行約132萬張。採用[索尼公司](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")（Sony）的[FeliCa技術](../Page/FeliCa.md "wikilink")。
+**TOICA**（）是一種由[日本](../Page/日本.md "wikilink")[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）發行的可再充值、非接觸式的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")（IC卡）形式的乘車票證。此智能卡於2006年11月25日正式發卡。直到2012年3月底已發行約132萬張。採用[索尼公司](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")（Sony）的[FeliCa](../Page/FeliCa.md "wikilink")技術。
 
 「TOICA」也是JR東海的註冊商標。
 
 ## 簡介
 
-TOICA為[RFID規範之非接觸式票卡](https://zh.wikipedia.org/wiki/射頻識別 "wikilink")，在2006年11月25日開始使用，目前適用於[中京圈及](../Page/中京圈.md "wikilink")[名古屋市範圍內的車站](../Page/名古屋市.md "wikilink")。票卡背面右下角的卡號開頭為「JC」，代表JR東海的英文「JR
+TOICA為[RFID規範之非接觸式票卡](https://zh.wikipedia.org/wiki/射頻識別 "wikilink")，在2006年11月25日開始使用，目前適用於[中京圈](../Page/中京圈.md "wikilink")及[名古屋市](../Page/名古屋市.md "wikilink")範圍內的車站。票卡背面右下角的卡號開頭為「JC」，代表JR東海的英文「JR
 Central」。
 
 [Iccard.gif](https://zh.wikipedia.org/wiki/File:Iccard.gif "fig:Iccard.gif")
@@ -48,8 +48,8 @@ Central」。
   - **[ICOCA](../Page/ICOCA.md "wikilink")**（[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本））
       - [西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪近郊區間](https://zh.wikipedia.org/wiki/大都市近郊區間#大阪近郊區間 "wikilink")（除了一部分區間之外）及岡山廣島區域内所使用的IC卡**[ICOCA](../Page/ICOCA.md "wikilink")**，在2008年3月29日開始，彼此間可以互相通用。
   - **[SUGOCA](../Page/SUGOCA.md "wikilink")**（[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")（JR九州））（預定自2011年3月起互通）\[1\]。
-  - **[manaca](https://zh.wikipedia.org/wiki/manaca "wikilink")**（[名古屋鐵道及](../Page/名古屋鐵道.md "wikilink")[名古屋市營地下鐵](../Page/名古屋市營地下鐵.md "wikilink")（JR九州））（預定自2012年起互通）
-      - [名古屋鐵道及](../Page/名古屋鐵道.md "wikilink")[名古屋市營地下鐵預定自](../Page/名古屋市營地下鐵.md "wikilink")2011年2月11日發行manaca取代原有的[Tranpass卡系統](https://zh.wikipedia.org/wiki/Tranpass "wikilink")。
+  - **[manaca](https://zh.wikipedia.org/wiki/manaca "wikilink")**（[名古屋鐵道](../Page/名古屋鐵道.md "wikilink")及[名古屋市營地下鐵](../Page/名古屋市營地下鐵.md "wikilink")（JR九州））（預定自2012年起互通）
+      - [名古屋鐵道](../Page/名古屋鐵道.md "wikilink")及[名古屋市營地下鐵](../Page/名古屋市營地下鐵.md "wikilink")預定自2011年2月11日發行manaca取代原有的[Tranpass卡系統](https://zh.wikipedia.org/wiki/Tranpass "wikilink")。
 
 ## 非交通用途的應用
 

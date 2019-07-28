@@ -26,7 +26,7 @@
   - G11 遗传性[共济失调](../Page/共济失调.md "wikilink")
       - G11. [小腦萎縮症](../Page/小腦萎縮症.md "wikilink")
   - G12
-    [脊髓性](../Page/脊髓.md "wikilink")[肌肉萎缩及相关综合征](https://zh.wikipedia.org/wiki/肌肉萎缩 "wikilink")
+    [脊髓](../Page/脊髓.md "wikilink")性[肌肉萎缩及相关综合征](https://zh.wikipedia.org/wiki/肌肉萎缩 "wikilink")
   - G13 分类于其他疾病所引起的、主要影响中枢神经系统的全身性萎缩
 
 ## 锥体外束和运动疾患（G20-G26）
@@ -45,11 +45,11 @@
 
 ## 神经系统的其他变性性疾病（G30-G32）
 
-[神经系统的其他变性性疾病](../Page/神经系统.md "wikilink")（G30-G32）
+[神经系统](../Page/神经系统.md "wikilink")的其他变性性疾病（G30-G32）
 
   - G30 [阿尔茨海默病](https://zh.wikipedia.org/wiki/阿尔茨海默病 "wikilink")
   - G31 神经系统的其他变性性疾病，不可归类在他处者
-  - G32 分类于他处的疾病引起的[神经系统的其他变性性疾患](../Page/神经系统.md "wikilink")
+  - G32 分类于他处的疾病引起的[神经系统](../Page/神经系统.md "wikilink")的其他变性性疾患
 
 ## 中枢神经系统的脱髓鞘疾病（G35-G37）
 
@@ -78,7 +78,7 @@
 
 神经、神经根和神经丛疾患（G50-G59）
 
-  - G50 [三叉神经疾患](../Page/三叉神经.md "wikilink")
+  - G50 [三叉神经](../Page/三叉神经.md "wikilink")疾患
   - G51 [面神经疾患](https://zh.wikipedia.org/wiki/面神经 "wikilink")
   - G52 其他[颅神经疾患](https://zh.wikipedia.org/wiki/颅神经 "wikilink")
   - G53 分类于他处的疾病引起的[颅神经疾患](https://zh.wikipedia.org/wiki/颅神经 "wikilink")
@@ -97,11 +97,11 @@
   - G61 炎性[多神经病](https://zh.wikipedia.org/wiki/多神经 "wikilink")
   - G62 其他[多神经病](https://zh.wikipedia.org/wiki/多神经 "wikilink")
   - G63 分类于他处的疾病引起的多神经病
-  - G64 [周围神经系统的其他疾患](../Page/周围神经系统.md "wikilink")
+  - G64 [周围神经系统](../Page/周围神经系统.md "wikilink")的其他疾患
 
 ## 肌神经接点和肌肉疾病（G70-G73）
 
-[肌神经接点和](https://zh.wikipedia.org/wiki/肌神经接点 "wikilink")[肌肉疾病](../Page/肌肉.md "wikilink")（G70-G73）
+[肌神经接点和](https://zh.wikipedia.org/wiki/肌神经接点 "wikilink")[肌肉](../Page/肌肉.md "wikilink")疾病（G70-G73）
 
   - G70 重症肌无力和其他肌神经疾患
   - G71 肌肉的原发性疾患
@@ -122,14 +122,14 @@
 
 ## 神经系统的其他疾患（G90-G99）
 
-[神经系统的其他疾患](../Page/神经系统.md "wikilink")（G90-G99）
+[神经系统](../Page/神经系统.md "wikilink")的其他疾患（G90-G99）
 
   - G90 [自主神经系统的疾患](https://zh.wikipedia.org/wiki/自主神经系统 "wikilink")
   - G91 [脑积水](../Page/脑积水.md "wikilink")
   - G92 [中毒性脑病](https://zh.wikipedia.org/wiki/中毒性脑病 "wikilink")
-  - G93 [脑的其他疾患](../Page/脑.md "wikilink")
+  - G93 [脑](../Page/脑.md "wikilink")的其他疾患
   - G94 分类于他处的疾病引起的脑的其他疾患
-  - G95 [脊髓的其他疾病](../Page/脊髓.md "wikilink")
+  - G95 [脊髓](../Page/脊髓.md "wikilink")的其他疾病
   - G96 [中枢神经系统的其他疾患](https://zh.wikipedia.org/wiki/中枢神经系统 "wikilink")
   - G97 神经系统的操作后疾患，不可归类在他处者
   - G98 神经系统的其他疾患，不可归类在他处者

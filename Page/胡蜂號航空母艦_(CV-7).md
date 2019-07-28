@@ -1,5 +1,5 @@
 **胡蜂號航空母艦
-(CV-7)**是[胡蜂級航空母艦的一號艦](https://zh.wikipedia.org/wiki/胡蜂級航空母艦 "wikilink")（亦是唯一一艘），也是美國第八艘以胡蜂命名的艦隻。受[華盛頓海軍條約的限制](https://zh.wikipedia.org/wiki/華盛頓海軍條約 "wikilink")，胡蜂號被迫多次降低噸位，使之看上去是[約克鎮級航空母艦的縮小版本](https://zh.wikipedia.org/wiki/約克鎮級航空母艦 "wikilink")。在美國加入[二次大戰後](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")，胡蜂號先後參與了歐洲與太平洋海戰，於1942年被日軍[潛艇擊沉](../Page/潛艇.md "wikilink")。
+(CV-7)**是[胡蜂級航空母艦的一號艦](https://zh.wikipedia.org/wiki/胡蜂級航空母艦 "wikilink")（亦是唯一一艘），也是美國第八艘以胡蜂命名的艦隻。受[華盛頓海軍條約的限制](https://zh.wikipedia.org/wiki/華盛頓海軍條約 "wikilink")，胡蜂號被迫多次降低噸位，使之看上去是[約克鎮級航空母艦的縮小版本](https://zh.wikipedia.org/wiki/約克鎮級航空母艦 "wikilink")。在美國加入[二次大戰後](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")，胡蜂號先後參與了歐洲與太平洋海戰，於1942年被日軍[潛艇](../Page/潛艇.md "wikilink")擊沉。
 
 ## 建造與配置
 
@@ -37,7 +37,7 @@ Hatteras）對開，拯救了一艘因風暴失事的船隻。乘客送返岸後
 8月的胡蜂號除了進行飛行演練外，亦曾出海進行軍事任務。由於情報指[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[希佩爾海軍上將號重巡洋艦將在西大西洋攻擊商船](https://zh.wikipedia.org/wiki/希佩爾海軍上將號重巡洋艦 "wikilink")，而消息亦被英國戰艦[羅德尼號確認](../Page/羅德尼號戰艦.md "wikilink")：她在8月30日曾一度在20哩外發現該艦。胡蜂號以中立巡航身份協助追蹤，並嚴格遵守「避免接觸」原則，以免引起外交風波。不過，美國進一步傾向英國、與德國交惡，卻是不爭事實，稍後一艘美國驅逐艦更幾乎被[U潜艇攻擊](https://zh.wikipedia.org/wiki/U潜艇 "wikilink")。\[5\]胡蜂號在8月至9月間，主要往來冰島－[紐芬蘭](https://zh.wikipedia.org/wiki/紐芬蘭 "wikilink")－[百慕達進行護航及運輸](https://zh.wikipedia.org/wiki/百慕達 "wikilink")，期間[海軍軍令部](https://zh.wikipedia.org/wiki/海軍軍令部 "wikilink")（Naval
 Operations）下達了攻擊命令：「擊沉所有發現到的德國及意大利戰艦！」\[6\]事實上，在10月17日、28日與30日，就分別有三艘美國驅逐艦在大西洋被「未知」敵艦雷擊，其中勞本·詹姆斯號（Reuben
 James,
-DD-245）更被擊沉\[7\]。不足兩個月後[珍珠港事件發生](../Page/珍珠港事件.md "wikilink")，美國於12月11日正式向[軸心國宣戰](https://zh.wikipedia.org/wiki/軸心國 "wikilink")。
+DD-245）更被擊沉\[7\]。不足兩個月後[珍珠港事件](../Page/珍珠港事件.md "wikilink")發生，美國於12月11日正式向[軸心國宣戰](https://zh.wikipedia.org/wiki/軸心國 "wikilink")。
 
 ### 二次大戰
 
@@ -53,12 +53,12 @@ Wilcox）指揮的第三十九機動艦隊，前往歐洲增援英國艦隊。�
 
 #### 地中海
 
-大部份增援的美國艦艇都被派往護航商船（尤其是往來[蘇聯與英國之間](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")），但胡蜂號卻被派往[地中海的](../Page/地中海.md "wikilink")[馬爾他](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")。當地每日都受[德國空軍轟炸](https://zh.wikipedia.org/wiki/德國空軍 "wikilink")，且缺乏戰機抵抗，胡蜂號再被派往運送戰機。由美國本土帶來的魚雷與[俯衝轟炸機都被卸下](https://zh.wikipedia.org/wiki/俯衝轟炸機 "wikilink")，換上了47架[噴火式戰鬥機MK
+大部份增援的美國艦艇都被派往護航商船（尤其是往來[蘇聯與英國之間](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")），但胡蜂號卻被派往[地中海](../Page/地中海.md "wikilink")的[馬爾他](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")。當地每日都受[德國空軍轟炸](https://zh.wikipedia.org/wiki/德國空軍 "wikilink")，且缺乏戰機抵抗，胡蜂號再被派往運送戰機。由美國本土帶來的魚雷與[俯衝轟炸機都被卸下](https://zh.wikipedia.org/wiki/俯衝轟炸機 "wikilink")，換上了47架[噴火式戰鬥機MK
 V](https://zh.wikipedia.org/wiki/噴火戰鬥機#MK_Vc "wikilink")，但保留了本身的11架[F4F](https://zh.wikipedia.org/wiki/F4F "wikilink")。\[9\]
 
-4月14日，胡蜂號加入了以[名望號戰列巡洋艦為首的W艦隊](https://zh.wikipedia.org/wiki/名望號戰列巡洋艦 "wikilink")，前往地中海。4月19日凌晨，胡蜂號摸黑通過[直布羅陀海峽](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，以免被軸心國甚至[西班牙軍發現](../Page/西班牙.md "wikilink")。次日早上4時，F4F首先起飛警備，緊接是飛往馬爾他的噴火戰鬥機，胡蜂號則即時調頭返回英國。不幸的是，噴火機隊中途被德國空軍發現並且伏擊，大半都被擊落。
+4月14日，胡蜂號加入了以[名望號戰列巡洋艦為首的W艦隊](https://zh.wikipedia.org/wiki/名望號戰列巡洋艦 "wikilink")，前往地中海。4月19日凌晨，胡蜂號摸黑通過[直布羅陀海峽](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，以免被軸心國甚至[西班牙](../Page/西班牙.md "wikilink")軍發現。次日早上4時，F4F首先起飛警備，緊接是飛往馬爾他的噴火戰鬥機，胡蜂號則即時調頭返回英國。不幸的是，噴火機隊中途被德國空軍發現並且伏擊，大半都被擊落。
 
-由於增援失敗，馬爾他形勢繼續惡化。英國首相[邱吉爾只好請求](https://zh.wikipedia.org/wiki/邱吉爾 "wikilink")[羅斯福派胡蜂號](https://zh.wikipedia.org/wiki/富蘭克林·德拉諾·羅斯福 "wikilink")「再試一次」。這次[鷹號航空母艦亦參與其中](../Page/鷹號航空母艦.md "wikilink")，
+由於增援失敗，馬爾他形勢繼續惡化。英國首相[邱吉爾只好請求](https://zh.wikipedia.org/wiki/邱吉爾 "wikilink")[羅斯福派胡蜂號](https://zh.wikipedia.org/wiki/富蘭克林·德拉諾·羅斯福 "wikilink")「再試一次」。這次[鷹號航空母艦](../Page/鷹號航空母艦.md "wikilink")亦參與其中，
 5月3日，艦隊再次出發。5月9日早上6時30分，艦隊抵達起飛點。與上次相同，11架F4F又先起飛警備，然而這次任務又再發生意外：第一架起飛的噴火在剛飛離甲板便失速墮海，機師喪生。當所有帶著無奈的英國機師起飛後，艦隊隨即全速返航。此時，一個機師錯誤地在2,000呎低空投下了輔助油缸。顯然，飛機不但無法前往馬爾他，更未必有足夠燃油返回艦隊。胡蜂號只好再次調頭。7時43分，缺油的噴火戰鬥機勉強地降落（只差15呎便滑離跑道），艦隊終於可以返回英國。諷刺的是，德國電台就在此時突然宣佈擊沉了「地中海的一艘美國航母」。雖然盟軍都知道消息虛假，邱吉爾還是幽默地向胡蜂號發了感謝信息：「誰說胡蜂只能螫一次？」（Who
 said a Wasp couldn't sting twice?）\[10\]
 
@@ -72,7 +72,7 @@ said a Wasp couldn't sting twice?）\[10\]
 
 7月4日，日軍登陸[瓜達爾卡納爾](https://zh.wikipedia.org/wiki/瓜達爾卡納爾 "wikilink")。由於瓜島為戰略要地，美軍決定先在此進行反攻。胡蜂號、薩拉托加號與企業號都加入了[弗萊徹的支援艦隊](../Page/法蘭克·傑克·弗萊徹.md "wikilink")，準備提供空中支援。8月6日，胡蜂號與兩艘[重巡洋艦抵達](https://zh.wikipedia.org/wiki/重巡洋艦 "wikilink")，並於早上5時放出機隊。由於當日雲層極厚，日軍偵察機沒有發現美軍，登陸大致順利，艦上的[F4F](https://zh.wikipedia.org/wiki/F4F "wikilink")、[TBF與](https://zh.wikipedia.org/wiki/TBF "wikilink")[SBD摧毀了數個電台](../Page/SBD無畏式俯衝轟炸機.md "wikilink")，以及機庫等地面目標。除了一架F4F因用盡燃油而逼降在企業號，其他飛機都安全返回胡蜂號。7時胡蜂號第二批機隊出發，並摧毀了殘存的登陸障礙及碉堡。
 
-8月8日，胡蜂號改為登陸部隊進行空中掩護。當日，大批日本戰機反擊，三艘航空母艦倉促派出戰機與日本戰機正面交鋒。由於雙方不相上下，而據弗萊徹在傍晚的報告，他只有78架戰機在手，而三艘航母的飛行燃料已將用盡。故此他下令三艘航母撤離。就在當日半夜，[薩沃島海戰爆發](../Page/薩沃島海戰.md "wikilink")。缺乏空中支援與及有效指揮的美軍艦隊大敗，不過卻無損登陸進程。
+8月8日，胡蜂號改為登陸部隊進行空中掩護。當日，大批日本戰機反擊，三艘航空母艦倉促派出戰機與日本戰機正面交鋒。由於雙方不相上下，而據弗萊徹在傍晚的報告，他只有78架戰機在手，而三艘航母的飛行燃料已將用盡。故此他下令三艘航母撤離。就在當日半夜，[薩沃島海戰](../Page/薩沃島海戰.md "wikilink")爆發。缺乏空中支援與及有效指揮的美軍艦隊大敗，不過卻無損登陸進程。
 
 8月23日，正當艦隊面對日軍三艘航母：[翔鶴號](https://zh.wikipedia.org/wiki/翔鶴號航空母艦 "wikilink")、[瑞鶴號及](../Page/瑞鶴號航空母艦.md "wikilink")[龍驤號之際](../Page/龍驤號航空母艦.md "wikilink")，胡蜂號因缺油而調離戰場，沒有參與東所羅門海戰。海戰後，企業號與薩拉托加號都受損而退下火線，進行維修，太平洋上可作戰的大型航母就只剩下胡蜂號與大黃蜂號。然而，胡蜂號卻未能在未來戰役作更多貢獻。
 
@@ -80,7 +80,7 @@ said a Wasp couldn't sting twice?）\[10\]
 
 [USS_Wasp_(CV-7)_brennt.jpg](https://zh.wikipedia.org/wiki/File:USS_Wasp_\(CV-7\)_brennt.jpg "fig:USS_Wasp_(CV-7)_brennt.jpg")
 [USS_O'Brien_(DD-415)_being_torpedoed_on_15_September_1942_(80-G-457818).jpg](https://zh.wikipedia.org/wiki/File:USS_O'Brien_\(DD-415\)_being_torpedoed_on_15_September_1942_\(80-G-457818\).jpg "fig:USS_O'Brien_(DD-415)_being_torpedoed_on_15_September_1942_(80-G-457818).jpg")
-9月15日，胡蜂號與大黃蜂號的艦隊在瓜島東南巡邏。當日中午，胡蜂號的機隊完成例行偵察，並降落補油。2時44分，瞭望台突然發出[魚雷警報](../Page/魚雷.md "wikilink")：三支魚雷正高速衝向右弦。事實上，日軍的[伊-19號潛艇共發射了六枚魚雷](https://zh.wikipedia.org/wiki/伊號第十九潛艦 "wikilink")。胡蜂號即時加速向右閃避，然而三支魚雷仍直接命中艦側，並引爆了艦上油庫，艦體隨即起火。未被發現的第四支魚雷則插在艦側，未有引爆。\[12\]
+9月15日，胡蜂號與大黃蜂號的艦隊在瓜島東南巡邏。當日中午，胡蜂號的機隊完成例行偵察，並降落補油。2時44分，瞭望台突然發出[魚雷](../Page/魚雷.md "wikilink")警報：三支魚雷正高速衝向右弦。事實上，日軍的[伊-19號潛艇共發射了六枚魚雷](https://zh.wikipedia.org/wiki/伊號第十九潛艦 "wikilink")。胡蜂號即時加速向右閃避，然而三支魚雷仍直接命中艦側，並引爆了艦上油庫，艦體隨即起火。未被發現的第四支魚雷則插在艦側，未有引爆。\[12\]
 
 由於美軍通訊不佳，而大黃蜂號又剛好阻礙了視角，其他艦隻無從得知胡蜂號有何意外，只看到胡蜂號濃煙密佈、漸漸失速傾側、水兵忙於將起火的飛機拋到海中。數分鐘後[蘭斯當號驅逐艦](https://zh.wikipedia.org/wiki/蘭斯當號驅逐艦 "wikilink")（Lansdowne,
 DD-486）也曾發出不完整的魚雷警告。直到51分，[奧拜恩號驅逐艦](https://zh.wikipedia.org/wiki/奧拜恩號驅逐艦 "wikilink")（O'Brien,

@@ -1,4 +1,4 @@
-[H.264和](https://zh.wikipedia.org/wiki/H.264 "wikilink")[VC-1是二種最受歡迎的影像壓縮工具](../Page/VC-1.md "wikilink")。
+[H.264和](https://zh.wikipedia.org/wiki/H.264 "wikilink")[VC-1](../Page/VC-1.md "wikilink")是二種最受歡迎的影像壓縮工具。
 
 ## 全覽
 

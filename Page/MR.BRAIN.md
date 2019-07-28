@@ -1,4 +1,4 @@
-《**腦科學先生**》（，）是在2009年5月23日至7月11日，於[日本](../Page/日本.md "wikilink")[TBS電視台每週六](../Page/TBS電視台.md "wikilink")19:56-20:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[木村拓哉主演](../Page/木村拓哉.md "wikilink")，共八回。
+《**腦科學先生**》（，）是在2009年5月23日至7月11日，於[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")每週六19:56-20:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[木村拓哉](../Page/木村拓哉.md "wikilink")主演，共八回。
 
 ## 故事概要
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   - 由里和音 -
-    （[綾瀨遙飾](../Page/綾瀨遙.md "wikilink")）（粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+    （[綾瀨遙](../Page/綾瀨遙.md "wikilink")飾）（粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
 
 <!-- end list -->
 
@@ -123,12 +123,12 @@
 <!-- end list -->
 
   - 清潔人員 -
-    （[木下優樹菜飾](../Page/木下優樹菜.md "wikilink")）（粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+    （[木下優樹菜](../Page/木下優樹菜.md "wikilink")飾）（粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
 
 <!-- end list -->
 
   - 佐佐未春 -
-    （[大地真央飾](../Page/大地真央.md "wikilink")）（粵語配音：[許盈](../Page/許盈.md "wikilink")）
+    （[大地真央](../Page/大地真央.md "wikilink")飾）（粵語配音：[許盈](../Page/許盈.md "wikilink")）
 
 <!-- end list -->
 
@@ -157,7 +157,7 @@
 <!-- end list -->
 
   - 丹原朋實 -
-    （[香川照之飾](../Page/香川照之.md "wikilink")）（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+    （[香川照之](../Page/香川照之.md "wikilink")飾）（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -178,7 +178,7 @@
 <!-- end list -->
 
   - 小島秀樹 -
-    （[杉本哲太飾](../Page/杉本哲太.md "wikilink")）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+    （[杉本哲太](../Page/杉本哲太.md "wikilink")飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
   - 刑事1 - （飾）
   - 鑑識課員1 - （飾）
   - 警視廳管理官 - （飾）（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）

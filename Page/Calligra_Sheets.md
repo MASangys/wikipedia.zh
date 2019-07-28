@@ -4,7 +4,7 @@ Suite辦公軟體套裝的一部份](https://zh.wikipedia.org/wiki/Calligra_Suit
 
 Calligra
 Sheets的特色是多張工作表的文件，各種格式的可能性，支持超過100個內置數學函數、模板、圖表、拼寫檢查、超文本鏈接、數據分類和[Python](../Page/Python.md "wikilink"),
-[Ruby和](../Page/Ruby.md "wikilink")
+[Ruby](../Page/Ruby.md "wikilink")和
 [Javascript腳本支援](https://zh.wikipedia.org/wiki/Javascript "wikilink")。
 
 Calligra Sheets支援多種電子表格格式，包括[Microsoft

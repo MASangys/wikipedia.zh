@@ -1,5 +1,5 @@
 **e2fsprogs**（又稱為**e2fs
-programs**）是用以維護[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")，[ext3和](https://zh.wikipedia.org/wiki/ext3 "wikilink")[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")[檔案系統的工具程序集](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。由於ext2/3/4是绝大多数[Linux发行版默认的文件系统](../Page/Linux发行版.md "wikilink")，所以這套工具集也包含在众多Linux发行版内。
+programs**）是用以維護[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")，[ext3和](https://zh.wikipedia.org/wiki/ext3 "wikilink")[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")[檔案系統的工具程序集](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。由於ext2/3/4是绝大多数[Linux发行版](../Page/Linux发行版.md "wikilink")默认的文件系统，所以這套工具集也包含在众多Linux发行版内。
 
 e2fsprogs包含以下獨立的程式：
 

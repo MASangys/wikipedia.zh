@@ -3,7 +3,7 @@ Cars〉的歌詞內。
 
 主唱[波諾曾說](https://zh.wikipedia.org/wiki/波諾 "wikilink")：「我們等了25年做這張專輯，這是我們第一張的搖滾專輯。」\[1\]\[2\]雖然這張專輯沒有特定主題，但是不論愛情親情、戰爭和平、生離死別都是這張專輯有傳達的概念。
 
-《如何拆除原子彈》在大眾與評論界皆獲得成功，全球銷售量突破9百萬張\[3\]，入圍8項[葛萊美獎通通獲獎](../Page/葛萊美獎.md "wikilink")。專輯收錄〈Vertigo〉、〈Sometimes
+《如何拆除原子彈》在大眾與評論界皆獲得成功，全球銷售量突破9百萬張\[3\]，入圍8項[葛萊美獎](../Page/葛萊美獎.md "wikilink")通通獲獎。專輯收錄〈Vertigo〉、〈Sometimes
 You Can't Make It on Your Own〉和〈City of Blinding Lights〉，同樣是相當暢銷的單曲。
 
 ## 歷程
@@ -14,7 +14,7 @@ Son〉融合成為〈Vertigo〉。
 2004年7月，樂團在法國發生了「示範帶失竊事件」，失竊的示範帶包括幾首尚未完成的歌曲。樂團聲明如果有任何歌曲在網路上流傳，他們會立即發行唱片。幾個月後，
 網路上確實開始流傳著專輯曲目，不過並非失竊的版本，而是另一套未完成的版本。
 
-貝斯手[亞當·克雷頓形容這張專輯是](../Page/亞當·克雷頓.md "wikilink")「吉他專輯」，說道：「舉凡〈Vertigo〉、〈Love
+貝斯手[亞當·克雷頓](../Page/亞當·克雷頓.md "wikilink")形容這張專輯是「吉他專輯」，說道：「舉凡〈Vertigo〉、〈Love
 & Peace or Else〉、〈City of Blinding Lights〉、〈All Because of
 You〉都是搖滾歌曲，有很多歌曲是對我們早期曲風的回溯。\[4\]」
 
@@ -49,7 +49,7 @@ from Under the Brooklyn Bridge》。
 Tour*）。
 
 英國地區發行的第二首單曲〈Sometimes You Can't Make It On Your
-Own〉發行於，是波諾反省與死去父親的冷戰關係的歌曲。發行後登上[英國單曲排行榜榜首](../Page/英國單曲排行榜.md "wikilink")，之後在美國地區也有進入告示牌百大、現代搖滾等排行榜。
+Own〉發行於，是波諾反省與死去父親的冷戰關係的歌曲。發行後登上[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")榜首，之後在美國地區也有進入告示牌百大、現代搖滾等排行榜。
 
 〈City of Blinding
 Lights〉是英國地區發行的第三首單曲，發行後則排行第二，並且持續了九週的時間。在美國地區也有進入成人音樂40大排行榜。
@@ -65,7 +65,7 @@ You〉是美國地區發行的第二首單曲，在告示牌主流搖滾、現�
 
 ### 獎項
 
-與[麥可·傑克森的專輯](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")《[Thriller](https://zh.wikipedia.org/wiki/Thriller "wikilink")》一樣，這張專輯在2005年、2006年[葛萊美獎提名八項通通獲獎](../Page/葛萊美獎.md "wikilink")。專輯本身獲得2006年葛萊美「最佳專輯」、「最佳搖滾專輯」；單曲〈Sometimes
+與[麥可·傑克森的專輯](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")《[Thriller](https://zh.wikipedia.org/wiki/Thriller "wikilink")》一樣，這張專輯在2005年、2006年[葛萊美獎](../Page/葛萊美獎.md "wikilink")提名八項通通獲獎。專輯本身獲得2006年葛萊美「最佳專輯」、「最佳搖滾專輯」；單曲〈Sometimes
 You Can't Make It On Your Own〉則獲得「最佳歌曲」、「最佳搖滾團體」；〈City of Blinding
 Lights〉獲得「最佳搖滾歌曲」；〈Vertigo〉則獲得2005年葛萊美「最佳搖滾歌曲」、「最佳搖滾團體」以及「最佳短篇音樂錄影帶」。
 

@@ -1,25 +1,25 @@
 **伯奈利M4（Super
-90）**（）是一系列由[意大利槍械製造商](../Page/意大利.md "wikilink")[伯奈利公司所設計和生產的](../Page/伯奈利.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（[戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")）。目前在數十個國家的軍隊、警隊和[特種部隊中服役](../Page/特種部隊.md "wikilink")，除了研發的本國意大利的[軍隊以外](../Page/意大利军事.md "wikilink")，在美軍服役的伯奈利M4霰彈槍的命名為**M1014戰鬥霰彈槍**。發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+90）**（）是一系列由[意大利](../Page/意大利.md "wikilink")槍械製造商[伯奈利](../Page/伯奈利.md "wikilink")公司所設計和生產的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（[戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")）。目前在數十個國家的軍隊、警隊和[特種部隊](../Page/特種部隊.md "wikilink")中服役，除了研發的本國意大利的[軍隊以外](../Page/意大利军事.md "wikilink")，在美軍服役的伯奈利M4霰彈槍的命名為**M1014戰鬥霰彈槍**。發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 [M-1014_Benelli.jpg](https://zh.wikipedia.org/wiki/File:M-1014_Benelli.jpg "fig:M-1014_Benelli.jpg")
 
 ## 歷史
 
-1998年5月4日，[美国陆军軍備研究](../Page/美国陆军.md "wikilink")、開發及工程中心（，簡稱：ARDEC）在[新泽西州的](../Page/新泽西州.md "wikilink")正式發動\#DAAE30-98-R-0401的招標，該招標要求一款能夠滿足[美國三軍](../Page/美军.md "wikilink")（海、陸、空軍）作戰，並且可以發射2和3英吋麥格農兩種[12鉛徑霰彈藥筒的新式半自動戰鬥](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")。參與了這次競標的[伯奈利於是設計和生產了伯奈利M](../Page/伯奈利.md "wikilink")4超級90戰鬥霰彈槍。1998年8月4日，伯奈利帶著5款M4霰彈槍樣本運送到[马里兰州](../Page/马里兰州.md "wikilink")[阿伯丁试验场進行測試](../Page/阿伯丁试验场.md "wikilink")。經過一連串測試以後，證明伯奈利M4的性能優秀，符合競標要求。1999年初，美軍軍備研究、開發及工程中心把其命名為M1014三軍聯合戰術霰彈槍，並以[合約的方式由](https://zh.wikipedia.org/wiki/合約 "wikilink")[黑克勒-科赫美國分公司作為承包商並輸入伯奈利M](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")4超級90戰鬥霰彈槍。第一批（總數為20,000枝）在1999年已經運送到[美国海军陆战队手中](../Page/美国海军陆战队.md "wikilink")。最初，該槍的原型命名為XM1014，而在測試完成過後，「X」字就被移除並改稱為M1014。
+1998年5月4日，[美国陆军](../Page/美国陆军.md "wikilink")軍備研究、開發及工程中心（，簡稱：ARDEC）在[新泽西州](../Page/新泽西州.md "wikilink")的正式發動\#DAAE30-98-R-0401的招標，該招標要求一款能夠滿足[美國三軍](../Page/美军.md "wikilink")（海、陸、空軍）作戰，並且可以發射2和3英吋麥格農兩種[12鉛徑霰彈藥筒的新式半自動戰鬥](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")。參與了這次競標的[伯奈利](../Page/伯奈利.md "wikilink")於是設計和生產了伯奈利M4超級90戰鬥霰彈槍。1998年8月4日，伯奈利帶著5款M4霰彈槍樣本運送到[马里兰州](../Page/马里兰州.md "wikilink")[阿伯丁试验场](../Page/阿伯丁试验场.md "wikilink")進行測試。經過一連串測試以後，證明伯奈利M4的性能優秀，符合競標要求。1999年初，美軍軍備研究、開發及工程中心把其命名為M1014三軍聯合戰術霰彈槍，並以[合約的方式由](https://zh.wikipedia.org/wiki/合約 "wikilink")[黑克勒-科赫美國分公司作為承包商並輸入伯奈利M](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")4超級90戰鬥霰彈槍。第一批（總數為20,000枝）在1999年已經運送到[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")手中。最初，該槍的原型命名為XM1014，而在測試完成過後，「X」字就被移除並改稱為M1014。
 
 ## 設計細節
 
-伯奈利M4是第一枝由[伯奈利公司生產的](../Page/伯奈利.md "wikilink")[氣動式及](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓戰鬥霰彈槍](../Page/轉拴式槍栓.md "wikilink")。該槍採用的全新設計功能是被稱為「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）的槍機操作系統，這是一種[短行程活塞傳動設計的衍生型](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")，只是把氣動部件分成四個部分。
+伯奈利M4是第一枝由[伯奈利](../Page/伯奈利.md "wikilink")公司生產的[氣動式及](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")戰鬥霰彈槍。該槍採用的全新設計功能是被稱為「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）的槍機操作系統，這是一種[短行程活塞傳動設計的衍生型](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")，只是把氣動部件分成四個部分。
 
-它的設計包括兩個對稱的護罩包覆的兩個小型[不鏽鋼製氣動](../Page/不鏽鋼.md "wikilink")[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")。該兩個會自行清潔的不鏽鋼製活塞安裝於[護木前端](https://zh.wikipedia.org/wiki/護木 "wikilink")，以協助轉拴式槍機能夠正常的運作，其好處是不需要重新設計及採用一些更複雜的氣動式自動結構。伯奈利就是通過這樣簡單的機構讓伯奈利M4達到極為高度的可靠性，並最大限度地減少故障的發生。後來，自動調節氣動式操作系統亦被同一間公司的[R1](https://zh.wikipedia.org/wiki/伯奈利R1 "wikilink")[步枪所使用](../Page/步枪.md "wikilink")。
+它的設計包括兩個對稱的護罩包覆的兩個小型[不鏽鋼](../Page/不鏽鋼.md "wikilink")製氣動[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")。該兩個會自行清潔的不鏽鋼製活塞安裝於[護木前端](https://zh.wikipedia.org/wiki/護木 "wikilink")，以協助轉拴式槍機能夠正常的運作，其好處是不需要重新設計及採用一些更複雜的氣動式自動結構。伯奈利就是通過這樣簡單的機構讓伯奈利M4達到極為高度的可靠性，並最大限度地減少故障的發生。後來，自動調節氣動式操作系統亦被同一間公司的[R1](https://zh.wikipedia.org/wiki/伯奈利R1 "wikilink")[步枪](../Page/步枪.md "wikilink")所使用。
 
-其[轉拴式槍栓閉鎖機構是在槍機前端左右兩側各設有一個鎖耳](../Page/轉拴式槍栓.md "wikilink")（），這種雙閉鎖鎖耳式設計使其具有更高的可靠性，使之能夠與槍管嚙合或分離以實現閉鎖或開鎖。
+其[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")閉鎖機構是在槍機前端左右兩側各設有一個鎖耳（），這種雙閉鎖鎖耳式設計使其具有更高的可靠性，使之能夠與槍管嚙合或分離以實現閉鎖或開鎖。
 
-這同時備有自我調節霰彈藥筒的不同長度和威力的能力。它可以使用及發射不同威力水平及任何組合的2和3英寸麥格農[12鉛徑霰彈藥筒而且不需要經過任何在技術上的調整](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。但很像[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[橡膠子彈和](../Page/橡膠子彈.md "wikilink")[催淚彈的那些](../Page/催淚彈.md "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，就必須要利用[機匣右手的](https://zh.wikipedia.org/wiki/機匣 "wikilink")作手動式操作。
+這同時備有自我調節霰彈藥筒的不同長度和威力的能力。它可以使用及發射不同威力水平及任何組合的2和3英寸麥格農[12鉛徑霰彈藥筒而且不需要經過任何在技術上的調整](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。但很像[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[橡膠子彈](../Page/橡膠子彈.md "wikilink")和[催淚彈](../Page/催淚彈.md "wikilink")的那些[非致命性彈藥](../Page/非致命性武器.md "wikilink")，就必須要利用[機匣右手的](https://zh.wikipedia.org/wiki/機匣 "wikilink")作手動式操作。
 
 [Shotgun_in_training_US_military.jpg](https://zh.wikipedia.org/wiki/File:Shotgun_in_training_US_military.jpg "fig:Shotgun_in_training_US_military.jpg")
 [US_Navy_031106-N-1693W-002_Marines_fire_shotguns_during_weapons_familiarization_training.jpg](https://zh.wikipedia.org/wiki/File:US_Navy_031106-N-1693W-002_Marines_fire_shotguns_during_weapons_familiarization_training.jpg "fig:US_Navy_031106-N-1693W-002_Marines_fire_shotguns_during_weapons_familiarization_training.jpg")士兵。\]\]
-[Irish_Army_Using_Benelli_M4.jpg](https://zh.wikipedia.org/wiki/File:Irish_Army_Using_Benelli_M4.jpg "fig:Irish_Army_Using_Benelli_M4.jpg")（裝上[寬型前握把](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")）和[反射式瞄準鏡的伯奈利M](../Page/紅點鏡.md "wikilink")4戰術型戰鬥霰彈槍的[愛爾蘭國防軍士兵](../Page/愛爾蘭國防軍.md "wikilink")。\]\]
+[Irish_Army_Using_Benelli_M4.jpg](https://zh.wikipedia.org/wiki/File:Irish_Army_Using_Benelli_M4.jpg "fig:Irish_Army_Using_Benelli_M4.jpg")（裝上[寬型前握把](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")）和[反射式瞄準鏡的伯奈利M](../Page/紅點鏡.md "wikilink")4戰術型戰鬥霰彈槍的[愛爾蘭國防軍](../Page/愛爾蘭國防軍.md "wikilink")士兵。\]\]
 
 ### 可維護性
 
@@ -27,7 +27,7 @@
 
 ### 耐久性
 
-初步測試的伯奈利M4將其可靠性的規模作為至上。它至少可以發射25,000多發而且無需更換任何的主要部件。\[1\]鋼鐵製成的武器部件具有啞光黑[磷化耐腐蝕的](../Page/磷酸鹽.md "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，亦有部分是磨砂硬陽極氧化鋁處理。這些增強耐久性設計提高抗[生銹及](https://zh.wikipedia.org/wiki/生銹 "wikilink")[腐蚀](../Page/腐蚀.md "wikilink")（尤其是[海洋等](https://zh.wikipedia.org/wiki/海洋 "wikilink")[环境的](https://zh.wikipedia.org/wiki/环境 "wikilink")[盐腐蚀](https://zh.wikipedia.org/wiki/盐 "wikilink")）、減輕全槍[质量](../Page/质量.md "wikilink")，亦減少了使用該武器在夜間行動時被敵方發現的機會。
+初步測試的伯奈利M4將其可靠性的規模作為至上。它至少可以發射25,000多發而且無需更換任何的主要部件。\[1\]鋼鐵製成的武器部件具有[黑色](../Page/黑色.md "wikilink")[磷化耐腐蝕的](../Page/磷酸鹽.md "wikilink")[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，亦有部分是啞光硬陽極氧化鋁處理。這些增強耐久性設計提高抗[生銹及](https://zh.wikipedia.org/wiki/生銹 "wikilink")[腐蚀](../Page/腐蚀.md "wikilink")（尤其是[海洋等](https://zh.wikipedia.org/wiki/海洋 "wikilink")[环境的](https://zh.wikipedia.org/wiki/环境 "wikilink")[盐腐蚀](https://zh.wikipedia.org/wiki/盐 "wikilink")）、減輕全槍[质量](../Page/质量.md "wikilink")，亦減少了使用該武器在夜間行動時被敵方發現的機會。
 
 大部份武器只有很少甚至根本沒有所有氣候和天氣條件都可以維修和正常操作的要求。
 
@@ -39,20 +39,20 @@
 
 ### 瞄準具
 
-伯奈利M4的[機械瞄具的型式為](../Page/機械瞄具.md "wikilink")[機匣後端具有軍用風格和可調整的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[鬼環式](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，可以令霰彈更準確命中目標。
+伯奈利M4的[機械瞄具](../Page/機械瞄具.md "wikilink")的型式為[機匣後端具有軍用風格和可調整的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[鬼環式](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，可以令霰彈更準確命中目標。
 
-機匣頂部亦設有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可安裝[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀等瞄準用配件](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")，同時亦可保留原來的瞄準具。
+機匣頂部亦設有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可安裝[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")和／或[熱成像儀等瞄準用配件](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")，同時亦可保留原來的瞄準具。
 
 ### 導軌接口系統
 
-導軌接口系統（，簡稱：RIS）或[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，裝置在伯奈利M4[機匣頂部的位置](https://zh.wikipedia.org/wiki/機匣 "wikilink")，可以裝上對應導軌的[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[热成像仪](../Page/热成像仪.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")。目前最先進的軍用槍支型號也有類似的裝置。使用者亦可使用全導軌接口系統[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+導軌接口系統（，簡稱：RIS）或[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，裝置在伯奈利M4[機匣頂部的位置](https://zh.wikipedia.org/wiki/機匣 "wikilink")，可以裝上對應導軌的[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")／反射式瞄準鏡、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[热成像仪](../Page/热成像仪.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")。目前最先進的軍用槍支型號也有類似的裝置。使用者亦可使用全導軌接口系統[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。
 
 ### 伯奈利戰術和M4
 
 伯奈利戰術（[英文](../Page/英语.md "wikilink")：Benelli
 Tactical）是[貝瑞塔](../Page/貝瑞塔.md "wikilink")[執法機關](../Page/警察.md "wikilink")（英文：Beretta's
 Law
-Enforcement）以下的一個部門。伯奈利戰術管理所有的伯奈利戰術霰彈槍銷售到執法機關，[政府機構和武裝力量](../Page/政府.md "wikilink")。伯奈利M4有三種配置方式可供出售：
+Enforcement）以下的一個部門。伯奈利戰術管理所有的伯奈利戰術霰彈槍銷售到執法機關，[政府](../Page/政府.md "wikilink")機構和武裝力量。伯奈利M4有三種配置方式可供出售：
 
   - M4 Entry：配備355.6毫米（14英吋）的[槍管](../Page/槍管.md "wikilink")
   - M4：配備470毫米（18.5英吋）的[槍管](../Page/槍管.md "wikilink")
@@ -107,7 +107,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
 
   -   - [意大利武裝部隊](../Page/意大利军事.md "wikilink")
 
-  -   - [以色列國防軍特種部隊單位](../Page/以色列國防軍.md "wikilink")\[6\]
+  -   - [以色列國防軍](../Page/以色列國防軍.md "wikilink")特種部隊單位\[6\]
 
   -   -
   -   -
@@ -176,7 +176,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
 ## 流行文化
 
 伯奈利M4 Super
-90亦同時出現在[电影和多隻](../Page/电影.md "wikilink")[电脑游戏裡](../Page/电脑游戏.md "wikilink")，例如：
+90亦同時出現在[电影](../Page/电影.md "wikilink")和多隻[电脑游戏](../Page/电脑游戏.md "wikilink")裡，例如：
 
 ### 电影
 
@@ -187,13 +187,13 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
     zh-tw:全民超人;}-](../Page/全民超人.md "wikilink")》（Hancock）：被罪犯到醫院向約翰·漢考克／街頭超人（John
     Hancock）復仇時所使用。
   - 2009年—《[-{zh-cn:僵尸之地;
-    zh-tw:屍樂園;}-](../Page/屍樂園.md "wikilink")》（Zombieland）：裝上並且被拉赫西（Tallahassee，[伍迪·哈里森飾演](../Page/伍迪·哈里森.md "wikilink")）所使用。
+    zh-tw:屍樂園;}-](../Page/屍樂園.md "wikilink")》（Zombieland）：裝上並且被拉赫西（Tallahassee，[伍迪·哈里森](../Page/伍迪·哈里森.md "wikilink")飾演）所使用。
   - 2011年—《[-{zh-cn:机械师; zh-tw:極速秒殺}-](../Page/極速秒殺.md "wikilink")》（The
     Mechanic）
   - 2011年—《[-{zh-cn:致命黑兰; zh-tw:黑蘭煞;
     zh-hk:魅影殺機;}-](../Page/黑蘭煞.md "wikilink")》（Colombiana）：被唐路易的手下在最後的槍戰中所使用。
   - 2011年—《》（Forces
-    spéciales）：被法國海軍突擊隊隊員於[科索沃行動期間所使用](../Page/科索沃.md "wikilink")。
+    spéciales）：被法國海軍突擊隊隊員於[科索沃](../Page/科索沃.md "wikilink")行動期間所使用。
   - 2012年—《[-{zh-cn:敢死队2; zh-tw:浴血任務2;
     zh-hk:轟天猛將2;}-](https://zh.wikipedia.org/wiki/敢死队2 "wikilink")》（The
     Expendables 2）：被凱撒（Hale Caesar，[-{zh-cn:泰瑞·克鲁斯; zh-tw:泰瑞·克魯;
@@ -207,14 +207,14 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
     zh-hk:索女‧重炮‧神經刀;}-](https://zh.wikipedia.org/wiki/彎刀殺戮 "wikilink")》（Machete
     Kills）：被美軍士兵所使用。
   - 2013年—《[家園防線](https://zh.wikipedia.org/wiki/家園防線 "wikilink")》（Homefront）：被費爾·布羅克（Phil
-    Broker，[傑森·史塔森飾演](../Page/傑森·史塔森.md "wikilink")）從武器藏匿處取出後使用。
+    Broker，[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）從武器藏匿處取出後使用。
   - 2015年—《[-{zh-cn:终结者：创世纪; zh-tw:魔鬼終結者：創世契機;
     zh-hk:未來戰士：創世智能;}-](https://zh.wikipedia.org/wiki/终结者：创世纪 "wikilink")》：裝上，2017年時被[魔鬼終結者／-{守護者}-T-800](../Page/魔鬼終結者_\(電影角色\).md "wikilink")（The
     Terminator／Guardian
-    T-800，[阿诺·施瓦辛格飾演](../Page/阿诺·施瓦辛格.md "wikilink")）所使用。
+    T-800，[阿诺·施瓦辛格](../Page/阿诺·施瓦辛格.md "wikilink")飾演）所使用。
   - 2017年—《[-{zh-cn:疾速特攻; zh-tw:捍衛任務2：殺神回歸; zh-hk:殺神John Wick
     2;}-](https://zh.wikipedia.org/wiki/捍衛任務2：殺神回歸 "wikilink")》：為固定槍托型，被強納森·「約翰」·維克（[基努·李維飾演](https://zh.wikipedia.org/wiki/基努·李維 "wikilink")）於[羅馬行動期間所使用](https://zh.wikipedia.org/wiki/羅馬 "wikilink")。
-  - 2016年—《[會計師](../Page/會計師_\(2016年電影\).md "wikilink")》：型號為M1014，被[私人軍事服務公司的隊員使用](../Page/私人軍事服務公司.md "wikilink")。
+  - 2016年—《[會計師](../Page/會計師_\(2016年電影\).md "wikilink")》：型號為M1014，被[私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")的隊員使用。
 
 ### 電子遊戲
 
@@ -253,7 +253,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
     zh-cn:使命召唤4：现代战争; zh-tw:決勝時刻4：現代戰爭; zh-hk:使命召喚4：現代戰爭;
     zh-mo:使命召喚4：現代戰爭;}-](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call
     of Duty 4: Modern
-    Warfare）：為伸縮槍托型，命名為「M1014」，7發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")（聯機模式時為4發），最高攜彈量為70發（故事模式）和40發（聯機模式），奇怪地裝填子彈後不用上膛就能發射。故事模式之中被[英國陸軍空降特勤隊及](https://zh.wikipedia.org/wiki/特种空勤團 "wikilink")[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[極端民族主義武裝勢力所使用](../Page/沙文主义.md "wikilink")，聯機模式時於等級31解鎖，並可以使用[紅點鏡及](../Page/紅點鏡.md "wikilink")[前握把](../Page/輔助握把.md "wikilink")。
+    Warfare）：為伸縮槍托型，命名為「M1014」，7發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")（聯機模式時為4發），最高攜彈量為70發（故事模式）和40發（聯機模式），奇怪地裝填子彈後不用上膛就能發射。故事模式之中被[英國陸軍空降特勤隊及](https://zh.wikipedia.org/wiki/特种空勤團 "wikilink")[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[極端民族主義武裝勢力所使用](../Page/沙文主义.md "wikilink")，聯機模式時於等級31解鎖，並可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")及[前握把](../Page/輔助握把.md "wikilink")。
   - 2007年—《[-{zh-hans:反恐精英;
     zh-hant:絕對武力;}-Online](../Page/絕對武力Online.md "wikilink")》（Counter
     Strike
@@ -308,7 +308,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
     2）：伸縮槍托型，命名為「馬歇爾」，10發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，奇怪地被改為[泵動式](https://zh.wikipedia.org/wiki/泵動式 "wikilink")。
   - 2011年—《[-{zh-cn:战地3;
     zh-tw:戰地風雲3;}-](../Page/戰地風雲3.md "wikilink")》（Battlefield
-    3）：為伸縮槍托型，命名為「M1014」，5發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")（聯機模式時可使用改裝：延長彈匣增至7發），發射[12鉛徑3英吋麥格農霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，初始攜彈量為30發（聯機模式時使用改裝：擴充彈匣減至28發），最高攜彈量為50發（聯機模式時使用改裝：擴充彈匣減至49發）。故事模式之中被[美国海军陆战队第一侦察营](../Page/美国海军陆战队.md "wikilink")“盲流1-3”（Misfit
+    3）：為伸縮槍托型，命名為「M1014」，5發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")（聯機模式時可使用改裝：延長彈匣增至7發），發射[12鉛徑3英吋麥格農霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，初始攜彈量為30發（聯機模式時使用改裝：擴充彈匣減至28發），最高攜彈量為50發（聯機模式時使用改裝：擴充彈匣減至49發）。故事模式之中被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")第一侦察营“盲流1-3”（Misfit
     1-3）五人战术小队成員亨利·布莱克本上士（SSgt. Henry "Black"
     Blackburn）、[俄羅斯聯邦武裝部隊總參謀部情報局](https://zh.wikipedia.org/wiki/格魯烏 "wikilink")（GRU）[特務迪米特里](https://zh.wikipedia.org/wiki/特務 "wikilink")·“帝瑪”·馬雅柯夫斯基（Dimitri
     “Dima” Mayakovsky）和敵軍人民解放抵抗组织（People's Liberation and
@@ -353,7 +353,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
   - 2013年—《[-{zh-hans:战地4;
     zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為固定槍托型（實際上為[伯奈利M1 Super
-    90霰彈槍](https://zh.wikipedia.org/wiki/伯奈利M1_Super_90霰彈槍 "wikilink")），命名為「M1014」（中文版則命名為「M1014霰彈槍」），預設發射[12G](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[鹿彈](../Page/散彈彈丸.md "wikilink")，7+1發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，最高攜彈量為15發（故事模式）。單人模式之中於「突破重圍」（Tashgar）戰役達到銀牌時解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+    90霰彈槍](https://zh.wikipedia.org/wiki/伯奈利M1_Super_90霰彈槍 "wikilink")），命名為「M1014」（中文版則命名為「M1014霰彈槍」），預設發射[12G](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[鹿彈](../Page/散彈彈丸.md "wikilink")，7+1發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，最高攜彈量為15發（故事模式）。單人模式之中於「突破重圍」（Tashgar）戰役達到銀牌時解鎖並且可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
     Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到11,000點霰彈槍得分時才能解鎖，被歸類為[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，並可以使用鴨嘴防火帽、[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[寛型握把](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")、、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[12G重彈頭](https://zh.wikipedia.org/wiki/霰彈塊 "wikilink")、、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、、[12G鏢彈](https://zh.wikipedia.org/wiki/飛鏢彈 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[舒適握把](../Page/輔助握把.md "wikilink")、[手電筒](../Page/手電筒.md "wikilink")、[12G破片彈以及七件戰鬥包附件](../Page/破片杀伤.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、[制動器](../Page/砲口制動器.md "wikilink")、土狼、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）。
   - 2013年—《[劫薪日2](../Page/劫薪日2.md "wikilink")》（Payday 2）：命名為“M1014”。
   - 2014年—《[幽靈行動：魅影](../Page/幽靈行動：魅影.md "wikilink")》（Tom Clancy's Ghost
@@ -370,7 +370,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
     、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、戰術燈、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、12鉛徑金屬彈頭、破門彈）及槍口零件（全收束器、改良型收束器）。
   - 2015年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》（Killing
     Floor
-    2）：隨遊戲登場武器，預設裝上[戰術燈和小型](../Page/戰術燈.md "wikilink")[眼鏡蛇](../Page/紅點鏡.md "wikilink")，6發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，可被支援專家（Support
+    2）：隨遊戲登場武器，預設裝上[戰術燈](../Page/戰術燈.md "wikilink")和小型[眼鏡蛇](../Page/紅點鏡.md "wikilink")，6發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，可被支援專家（Support
     specialist）職業所使用。
   - 2015年—《[-{zh-cn:彩虹六号：围攻;zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：被[FBI
     SWAT所使用](../Page/聯邦調查局特種武器和戰術部隊.md "wikilink")，命名為「M1014」，奇怪地使用了民用型4發彈倉卻可裝填8發。

@@ -1,5 +1,5 @@
 《**ROSSO E
-AZZURRO**》為[堂本剛個人出道](../Page/堂本剛.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2002年8月7日由[傑尼斯娛樂發行](../Page/傑尼斯娛樂.md "wikilink")。
+AZZURRO**》為[堂本剛](../Page/堂本剛.md "wikilink")個人出道[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2002年8月7日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")發行。
 
 ## 解說
 
@@ -10,7 +10,7 @@ Kids的堂本剛初次正式地向](https://zh.wikipedia.org/wiki/KinKi_Kids "wi
 Kids名義進行的音楽活動中，幾乎每個作品都是自己作曲，而面對從那其中誕生的音樂的態度、形成的世界觀構成了這個作品。本作除了初回版的追加曲以外，皆由堂本剛本人擔綱作詞、作曲。
 
 專輯名稱“ROSSO E
-AZZURRO”在[義大利語中為](https://zh.wikipedia.org/wiki/義大利語 "wikilink")“[紅與](https://zh.wikipedia.org/wiki/紅 "wikilink")[藍](https://zh.wikipedia.org/wiki/藍 "wikilink")”。如同其名，CD封面的名稱標示的“ROSSO”使用紅色、“AZZURRO”使用藍色呈現。繼先行單曲「[城市／溺愛論](../Page/城市／溺愛論.md "wikilink")」之後，獲得[Oricon專輯排行榜第](../Page/Oricon.md "wikilink")1名。
+AZZURRO”在[義大利語中為](https://zh.wikipedia.org/wiki/義大利語 "wikilink")“[紅與](https://zh.wikipedia.org/wiki/紅 "wikilink")[藍](https://zh.wikipedia.org/wiki/藍 "wikilink")”。如同其名，CD封面的名稱標示的“ROSSO”使用紅色、“AZZURRO”使用藍色呈現。繼先行單曲「[城市／溺愛論](../Page/城市／溺愛論.md "wikilink")」之後，獲得[Oricon](../Page/Oricon.md "wikilink")專輯排行榜第1名。
 
 初回版附有做成CD封面尺寸的本人親筆插圖寵物照片。並且收錄的追加曲為2001年KinKi
 Kids第13張單曲「[Hey\!大家好嗎?](../Page/Hey!大家好嗎?.md "wikilink")」。而當然這裡收錄的是剛的個人版本。普通版雖然CD封面不同，除了追加曲以外內容並無相異。

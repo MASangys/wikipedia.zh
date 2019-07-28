@@ -1,6 +1,6 @@
 Urban
 Terror（简写为UrT或者UT）是一个[雷神之锤III](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")（Quake
-3）的[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")，2000年[quakecon发布第一个beta版本](https://zh.wikipedia.org/wiki/quakecon "wikilink")，2001年发布第一版，2007年之后可以依赖[开放源代码的](../Page/开放源代码.md "wikilink")[ioquake3独立运行](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")，尽管自身并非开源，所以理论上在[ioquake3支持的平台上都可以运行](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")。现在开发由Frozen
+3）的[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")，2000年[quakecon发布第一个beta版本](https://zh.wikipedia.org/wiki/quakecon "wikilink")，2001年发布第一版，2007年之后可以依赖[开放源代码](../Page/开放源代码.md "wikilink")的[ioquake3独立运行](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")，尽管自身并非开源，所以理论上在[ioquake3支持的平台上都可以运行](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")。现在开发由Frozen
 Sand
 LLC（进行，并从玩家制作内容中不断补充。属于当代背景的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。官方口号是：好莱坞式的技巧型射击游戏，或许基于现实，不过乐趣超越现实（"a
 Hollywood tactical shooter; somewhat realism based, but the motto is
@@ -9,7 +9,7 @@ Hollywood tactical shooter; somewhat realism based, but the motto is
 ## 开发历史
 
 Urban Terror本是id
-Software作品[雷神之锤III竞技场的一个MOD](../Page/雷神之锤III竞技场.md "wikilink")，它汲取了Action
+Software作品[雷神之锤III竞技场](../Page/雷神之锤III竞技场.md "wikilink")的一个MOD，它汲取了Action
 Quake2的游戏成分，加上一些其他游戏元素，促成了自己的风格。Quake3的引擎源代码由[id
 Software以](https://zh.wikipedia.org/wiki/id_Software "wikilink")[GPL协议放出后](https://zh.wikipedia.org/wiki/GPL "wikilink")，[ioquake3项目启动](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")，于是2007年的4.0版本开始，Urban
 Terror采用ioquake3而成为了独立运行的游戏。同时失去了镶入Quake3的反作弊程序。将要发布的4.2中会包含Virtual Dark
@@ -50,7 +50,7 @@ Urban Terror特有的角色系统，导致独特的游戏风格。
 90](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")
 
 [HK
-69榴弹炮连同各式](https://zh.wikipedia.org/wiki/HK_69榴彈發射器 "wikilink")[步枪和](../Page/步枪.md "wikilink")[IMI
+69榴弹炮连同各式](https://zh.wikipedia.org/wiki/HK_69榴彈發射器 "wikilink")[步枪](../Page/步枪.md "wikilink")和[IMI
 Negev机枪只能作为主要武器](../Page/內蓋夫輕機槍.md "wikilink")。装备了[IMI机枪后无法携带副武器](../Page/內蓋夫輕機槍.md "wikilink")。
 
 武器是开始的时候随意选择，双方武器和装备种类一样。

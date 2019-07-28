@@ -1,9 +1,9 @@
 《**無頭騎士異聞錄
-DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[成田良悟撰寫](../Page/成田良悟.md "wikilink")、[ヤスダスズヒト](https://zh.wikipedia.org/wiki/ヤスダスズヒト "wikilink")（安田典生／安田鈴人\[1\]）繪製插畫的[輕小說系列](../Page/輕小說.md "wikilink")。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")（[ASCII
+DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[成田良悟](../Page/成田良悟.md "wikilink")撰寫、[ヤスダスズヒト](https://zh.wikipedia.org/wiki/ヤスダスズヒト "wikilink")（安田典生／安田鈴人\[1\]）繪製插畫的[輕小說](../Page/輕小說.md "wikilink")系列。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")（[ASCII
 MEDIA
-WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")）出版；繁體中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")；簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
+WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")）出版；繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理；簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
 
-本作以[池袋為舞台](../Page/池袋.md "wikilink")，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄
+本作以[池袋](../Page/池袋.md "wikilink")為舞台，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄
 DuRaRaRa\!\!SH**》（）。
 
 改編[漫畫版於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）2009年5月號起連載，[茶鳥木明代作畫](https://zh.wikipedia.org/wiki/茶鳥木明代 "wikilink")。
@@ -80,7 +80,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 #### 無頭騎士
 
   -
-    [凱爾特傳說的妖精](https://zh.wikipedia.org/wiki/凱爾特 "wikilink")，與[報喪女妖為世界知名的鬼怪](../Page/報喪女妖.md "wikilink")，塞尔提就是一个无头骑士。本作中无头骑士只有女性，且头有着美丽到不能言状、让人类一见倾心的面容。传说是由滞留在人间的[女武神所化](../Page/女武神.md "wikilink")。
+    [凱爾特傳說的妖精](https://zh.wikipedia.org/wiki/凱爾特 "wikilink")，與[報喪女妖](../Page/報喪女妖.md "wikilink")為世界知名的鬼怪，塞尔提就是一个无头骑士。本作中无头骑士只有女性，且头有着美丽到不能言状、让人类一见倾心的面容。传说是由滞留在人间的[女武神](../Page/女武神.md "wikilink")所化。
 
 ### 暴走族、幫派
 
@@ -92,7 +92,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 #### To羅丸
 
   -
-    [埼玉的](https://zh.wikipedia.org/wiki/埼玉 "wikilink")[暴走族聯合](../Page/暴走族.md "wikilink")，創立者和領導人是六條千景。
+    [埼玉的](https://zh.wikipedia.org/wiki/埼玉 "wikilink")[暴走族](../Page/暴走族.md "wikilink")聯合，創立者和領導人是六條千景。
 
 ### 其他勢力
 
@@ -1534,7 +1534,7 @@ Heo Gidong</p></td>
 <td><p>日本全國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>衛星電視</p></td>
-<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
+<td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>節目</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2090,7 +2090,7 @@ Heo Gidong</p></td>
     發行商[ASCII MEDIA
     WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")，販售商。
     2011年8月25日，包含追加要素的發售。
-    2011年11月17日，[Android版](../Page/Android.md "wikilink")開始提供服務。
+    2011年11月17日，[Android](../Page/Android.md "wikilink")版開始提供服務。
 
 <!-- end list -->
 
@@ -2104,7 +2104,7 @@ Heo Gidong</p></td>
   - [電擊文庫 FIGHTING CLIMAX](../Page/電擊文庫_FIGHTING_CLIMAX.md "wikilink")
     2014年3月18日發行的[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")。類型為[2D對戰格鬥](../Page/格鬥遊戲.md "wikilink")。
     由和開發，發行商為[世嘉](../Page/世嘉.md "wikilink")。
-    [電擊文庫作品角色登場的格闘遊戲](../Page/電擊文庫.md "wikilink")。遊戲中登場的可控角色包括平和島靜雄，支援型角色包括塞爾堤･史特路爾森、折原臨也（家庭用）。
+    [電擊文庫](../Page/電擊文庫.md "wikilink")作品角色登場的格闘遊戲。遊戲中登場的可控角色包括平和島靜雄，支援型角色包括塞爾堤･史特路爾森、折原臨也（家庭用）。
 
 ## 影響
 
@@ -2163,10 +2163,10 @@ Heo Gidong</p></td>
 8.  番外篇OVA2，於2015年11月14日在劇場先行上映
 9.  番外篇OVA3，於2016年5月21日在劇場先行上映
 10. [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153451223607121/?type=3&theater)，2017/1/10閱覽。
-11. 配合與日同步播放[雙星之陰陽師的重播時段](../Page/雙星之陰陽師.md "wikilink")。
+11. 配合與日同步播放[雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")的重播時段。
 12. [台灣Animax臉書
     HD部分](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153522174867121/?type=3&theater)，2017/1/10閱覽。
 13. [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153452516367121/?type=3&theater)，2017/1/10閱覽。
-14. 配合與日同步播放[雙星之陰陽師的重播時段](../Page/雙星之陰陽師.md "wikilink")。
+14. 配合與日同步播放[雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")的重播時段。
 15. [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153261991262121/?type=3&theater)，2017/1/10閱覽。
 16.

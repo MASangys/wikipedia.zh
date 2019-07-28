@@ -1,9 +1,9 @@
 《**Yellow Paul
-Wong**》是香港歌手[黃貫中發行第一张粵語专辑](../Page/黃貫中.md "wikilink")。於2001年1月10日發行。
+Wong**》是香港歌手[黃貫中](../Page/黃貫中.md "wikilink")發行第一张粵語专辑。於2001年1月10日發行。
 
 ## 背景
 
-當[Beyond在](../Page/Beyond.md "wikilink")1999年宣布三位成員投入各自的個人發展，黃貫中便是三人之中最先發表個人專輯的成員。
+當[Beyond](../Page/Beyond.md "wikilink")在1999年宣布三位成員投入各自的個人發展，黃貫中便是三人之中最先發表個人專輯的成員。
 唱片裡除了新組成的樂隊[汗之外](https://zh.wikipedia.org/wiki/汗 "wikilink")，亦邀講了[LMF](../Page/LMF.md "wikilink")、[張亞東](https://zh.wikipedia.org/wiki/張亞東 "wikilink")、[Mick
 Karn](https://zh.wikipedia.org/wiki/Mick_Karn "wikilink")、[Sugizo](https://zh.wikipedia.org/wiki/Sugizo "wikilink")、[Funky未吉覺等中外樂人參與製作](https://zh.wikipedia.org/wiki/Funky未吉覺 "wikilink").
 

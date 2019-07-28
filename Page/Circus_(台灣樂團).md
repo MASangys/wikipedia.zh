@@ -1,20 +1,19 @@
 **CIRCUS**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[花蓮縣](../Page/花蓮縣.md "wikilink")4位[大學生所組成的團體](https://zh.wikipedia.org/wiki/大學生 "wikilink")／樂團，成員有[廖人帥](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")（LEO）、[黃尹宣](../Page/黃尹宣.md "wikilink")（EASON）、[林柏昇](../Page/林柏昇.md "wikilink")（KID）、[林家緯](../Page/林家緯.md "wikilink")（小馬）。團體以創作及拍攝的搞怪等單元之影片而為人所熟悉。
 
 CIRCUS四人在2004年在「Channel V」 节目《CIRCUS ACTION》正式出道，團體並於2008年轉型為樂團。
-於2011年[林家緯](../Page/林家緯.md "wikilink")（小馬）為追尋導演理想而退團，而CIRCUS
-亦於2014年正式解散，期後各成員均獨立發展。
+於2011年[林家緯](../Page/林家緯.md "wikilink")（小馬）為追尋導演理想而退團，而亦於2014年正式解散，期後各成員均獨立發展。
 
 ## 背景
 
 CIRCUS
-四位成員均是一群拥有热血怀有梦想的少年们，敢把很多疯狂的想法通通付诸行动。因林柏昇（KID）於2003年9月4日一次的挑戰喝[啤酒中輸掉而在](../Page/啤酒.md "wikilink")[花蓮中正橋上](https://zh.wikipedia.org/wiki/花蓮中正橋 "wikilink")[裸奔](../Page/裸奔.md "wikilink")，後來將自己拍的影片放在網路上供人欣賞，之後幸運地被Channel
+四位成員均是一群拥有热血怀有梦想的少年们，敢把很多疯狂的想法通通付诸行动。因林柏昇（KID）於2003年9月4日一次的挑戰喝[啤酒](../Page/啤酒.md "wikilink")中輸掉而在[花蓮中正橋上](https://zh.wikipedia.org/wiki/花蓮中正橋 "wikilink")[裸奔](../Page/裸奔.md "wikilink")，後來將自己拍的影片放在網路上供人欣賞，之後幸運地被Channel
 V發現，得以在電視上播出。後四人於2004年更以CIRCUS 名義正式出道，成為Channel
 V及[傳奇星旗下之藝人](https://zh.wikipedia.org/wiki/傳奇星 "wikilink")。
 
-其中四人均就讀花蓮縣花崗國中，但只有Leo和小馬是國中就認識的同班同學。國中畢業後EASON、KID、小馬高中均唸[國立花蓮高級中學](../Page/國立花蓮高級中學.md "wikilink")（LEO則念[花蓮縣私立海星高級中學](../Page/花蓮縣私立海星高級中學.md "wikilink")），小馬和KID為同班同學而熟識，KID再從學校BBS上認識EASON。一次暑假的最後一天小馬約了另外三人到[七星潭出遊](../Page/七星潭.md "wikilink")，成為四人相識的契機。
+其中四人均就讀花蓮縣花崗國中，但只有Leo和小馬是國中就認識的同班同學。國中畢業後EASON、KID、小馬高中均唸[國立花蓮高級中學](../Page/國立花蓮高級中學.md "wikilink")（LEO則念[花蓮縣私立海星高級中學](../Page/花蓮縣私立海星高級中學.md "wikilink")），小馬和KID為同班同學而熟識，KID再從學校BBS上認識EASON。一次暑假的最後一天小馬約了另外三人到[七星潭](../Page/七星潭.md "wikilink")出遊，成為四人相識的契機。
 
 由於團中4人敢玩敢想敢做的個性，在[Channel
-V簽約五年以來都得到頻道總監](../Page/Channel_V.md "wikilink")[張世明給予不少機會拍攝節目](../Page/張世明.md "wikilink")，更在拍攝《CIRCUS狗仔隊》後得到更多人認識及欣賞；另外，他們在娛樂圈中與不少藝人都關係良好，如[五月天](../Page/五月天.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[簡愷樂](../Page/簡愷樂.md "wikilink")、[Lollipop
+V簽約五年以來都得到頻道總監](../Page/Channel_V.md "wikilink")[張世明](../Page/張世明.md "wikilink")給予不少機會拍攝節目，更在拍攝《CIRCUS狗仔隊》後得到更多人認識及欣賞；另外，他們在娛樂圈中與不少藝人都關係良好，如[五月天](../Page/五月天.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[簡愷樂](../Page/簡愷樂.md "wikilink")、[Lollipop
 F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[張芳奕](https://zh.wikipedia.org/wiki/張芳奕 "wikilink")、[蘇打綠](../Page/蘇打綠.md "wikilink")、[JPM](../Page/JPM.md "wikilink")、[黑Girl](../Page/黑Girl.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")、[八三夭](../Page/八三夭.md "wikilink")。
 
 於2008年，CIRCUS進一步成為搖滾樂團（詳情請見[CIRCUS ACTION
@@ -76,10 +75,10 @@ F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[張芳奕](https://zh
 
 以前又經常到Eason家過夜，現時他們是室友，在台北共租一家房子，和領養一隻狗。
 
-以[裸奔著稱](../Page/裸奔.md "wikilink")。於2003年9月4日一次的挑戰喝啤酒中輸掉而在花蓮中正橋上裸奔，影片放上網路之後，被媒體報導稱為裸奔少年，並且被學校記了兩小過，但影片也促成了CIRCUS跟CHANNEL
+以[裸奔](../Page/裸奔.md "wikilink")著稱。於2003年9月4日一次的挑戰喝啤酒中輸掉而在花蓮中正橋上裸奔，影片放上網路之後，被媒體報導稱為裸奔少年，並且被學校記了兩小過，但影片也促成了CIRCUS跟CHANNEL
 V簽約的契機。在Circus轉型成為樂團之後，擔任樂團中的貝斯手。他也是綜藝和遊戲節目的常客。因為在《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》的百分百遊戲王第一集的《撈冰大作戰》擊敗[羅志祥](../Page/羅志祥.md "wikilink")，讓[蝴蝶隊奪得最後勝利](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")，所以把小[乃哥的稱號從他奪去](../Page/徐乃麟.md "wikilink")。
 
-KID因為敢玩、敢衝、認真、自然率真的個性深受綜藝天王[吳宗憲賞識](../Page/吳宗憲.md "wikilink")，憲哥在《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》節目中特別給KID一個「**瘋面子
+KID因為敢玩、敢衝、認真、自然率真的個性深受綜藝天王[吳宗憲](../Page/吳宗憲.md "wikilink")賞識，憲哥在《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》節目中特別給KID一個「**瘋面子
 CRAZY FACE**」的封號，KID更以此封號而知名度大增。
 
 ### 小馬（[林家纬](https://zh.wikipedia.org/wiki/林家纬 "wikilink")）
@@ -93,7 +92,7 @@ CRAZY FACE**」的封號，KID更以此封號而知名度大增。
 
 2007-2009年这段期间，林家纬担任导演及制片人为“耐克/NBA中国巡回赛”摄制并发行了一部纪录片“100BASKETBALL(百分百篮球)”。
 
-2011年，林家纬为了他的梦想从而决定退居幕后，並退出CIRCUS，开始专注于导演这份毕生的职业。其曾為有亚洲流行巨星[范玮琪及台湾摇滚乐队的](https://zh.wikipedia.org/wiki/范玮琪 "wikilink")[Matzka的MV執導](../Page/Matzka.md "wikilink")，也有为中国最大的国有企业中粮集团摄制的微电影“褪色”等等。其現為杭州视通文化传播有限公司作影音工作室的创意总监
+2011年，林家纬为了他的梦想从而决定退居幕后，並退出CIRCUS，开始专注于导演这份毕生的职业。其曾為有亚洲流行巨星[范玮琪及台湾摇滚乐队的](https://zh.wikipedia.org/wiki/范玮琪 "wikilink")[Matzka](../Page/Matzka.md "wikilink")的MV執導，也有为中国最大的国有企业中粮集团摄制的微电影“褪色”等等。其現為杭州视通文化传播有限公司作影音工作室的创意总监
 
 ## 發展歷程
 
@@ -303,7 +302,7 @@ Circus的CD中出現的野蠻遊戲特別篇
 ### 校園4賤客
 
   -
-    [校園4賤客是一由CIRCUS主持的綜藝節目](../Page/校園4賤客.md "wikilink")，由2009年11月23日在[CHANNEL
+    [校園4賤客](../Page/校園4賤客.md "wikilink")是一由CIRCUS主持的綜藝節目，由2009年11月23日在[CHANNEL
     V
     娛樂台逢星期一至星期三晚上](../Page/Channel_V.md "wikilink")11時播放。後更改播放時間為每週六日晚上10時播出，在2010年2月20日開始再更改播放時間為每週六日晚上7時首播，目前節目已停播。
       - 節目列表:[校園4賤客](../Page/校園4賤客.md "wikilink")
@@ -360,7 +359,7 @@ Circus的CD中出現的野蠻遊戲特別篇
 ## 廣告代言
 
   - 寶島眼鏡
-    (與[黑Girl的](../Page/黑Girl.md "wikilink")[甯兒合作](../Page/張甯兒.md "wikilink"))
+    (與[黑Girl](../Page/黑Girl.md "wikilink")的[甯兒合作](../Page/張甯兒.md "wikilink"))
   - 2008 味丹心茶道
   - 2010【乖乖】給我乾脆點！
 
@@ -380,7 +379,7 @@ Circus的CD中出現的野蠻遊戲特別篇
     三首歌分別為：
     1.  「我知道你們都在笑我」(是團員林家緯(小馬)首次的創作)
     2.  「有你陪我」(由[CIRCUS創作的歌曲](https://zh.wikipedia.org/wiki/CIRCUS "wikilink"))
-    3.  「[舞孃](../Page/舞孃_\(歌曲\).md "wikilink")（搖滾不娘版）」(改編自[蔡依林原唱的版本](../Page/蔡依林.md "wikilink")，但他們一改原唱的風格，改編成搖滾味十足的版本。
+    3.  「[舞孃](../Page/舞孃_\(歌曲\).md "wikilink")（搖滾不娘版）」(改編自[蔡依林](../Page/蔡依林.md "wikilink")原唱的版本，但他們一改原唱的風格，改編成搖滾味十足的版本。
 
 <!-- end list -->
 

@@ -1,5 +1,5 @@
 **Windows [IoT](../Page/物联网.md "wikilink")**, 曾经叫做**Windows
-Embedded**，是[微软的嵌入式系列产品家族](../Page/微软.md "wikilink")，微软在开始发行Windows
+Embedded**，是[微软](../Page/微软.md "wikilink")的嵌入式系列产品家族，微软在开始发行Windows
 10嵌入式版本时将"Windows Embedded"更名为"Windows IoT"，包括四大系列：
 
 ## [Windows Embedded Standard](https://zh.wikipedia.org/wiki/Windows_Embedded_Standard "wikilink")
@@ -28,7 +28,7 @@ Embedded Systems等。
 ## [Windows Embedded POSReady](https://zh.wikipedia.org/wiki/Windows_Embedded_POSReady "wikilink")
 
 是微软专为开发[POS](https://zh.wikipedia.org/wiki/POS "wikilink")（[Point of
-Service](https://zh.wikipedia.org/wiki/Point_of_Service "wikilink")）解决方案的[OEM厂商以及使用](https://zh.wikipedia.org/wiki/OEM "wikilink")[POS设备的](https://zh.wikipedia.org/wiki/POS "wikilink")[企业提供的一款](../Page/企业.md "wikilink")[嵌入式操作系统](https://zh.wikipedia.org/wiki/嵌入式操作系统 "wikilink")。
+Service](https://zh.wikipedia.org/wiki/Point_of_Service "wikilink")）解决方案的[OEM厂商以及使用](https://zh.wikipedia.org/wiki/OEM "wikilink")[POS设备的](https://zh.wikipedia.org/wiki/POS "wikilink")[企业](../Page/企业.md "wikilink")提供的一款[嵌入式操作系统](https://zh.wikipedia.org/wiki/嵌入式操作系统 "wikilink")。
 
 ## 相关条目
 

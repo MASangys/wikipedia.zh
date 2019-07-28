@@ -8,7 +8,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 
 ### 與原作的區別
 
-1.  原作中的[薇薇和跑得快並未在本劇場版中出場](https://zh.wikipedia.org/wiki/薇薇 "wikilink")，取而代之的是[妮可·羅賓和](../Page/妮可·羅賓.md "wikilink")[佛朗基](../Page/佛朗基.md "wikilink")。
+1.  原作中的[薇薇和跑得快並未在本劇場版中出場](https://zh.wikipedia.org/wiki/薇薇 "wikilink")，取而代之的是[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")和[佛朗基](../Page/佛朗基.md "wikilink")。
 2.  草帽海賊團的船在原作中是[前進梅利號](../Page/前進梅利號.md "wikilink")，劇場版則改為[千陽號](../Page/千陽號.md "wikilink")。
 3.  原作中薇薇的戲份則主要由羅賓取代。
 4.  瓦波爾一方增加了原創角色「姆修鲁」。

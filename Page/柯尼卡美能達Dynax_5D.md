@@ -1,7 +1,7 @@
 **Konica Minolta Dynax 5D** 是一部[Konica
-Minolta公司于](https://zh.wikipedia.org/wiki/Konica_Minolta "wikilink")2005年出品的一款600万[像素](../Page/像素.md "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")。（此为[欧洲及](../Page/欧洲.md "wikilink")[香港市场名称](../Page/香港.md "wikilink")，[中国市场称作](https://zh.wikipedia.org/wiki/中国 "wikilink")**α-5
+Minolta公司于](https://zh.wikipedia.org/wiki/Konica_Minolta "wikilink")2005年出品的一款600万[像素](../Page/像素.md "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")。（此为[欧洲](../Page/欧洲.md "wikilink")及[香港](../Page/香港.md "wikilink")市场名称，[中国市场称作](https://zh.wikipedia.org/wiki/中国 "wikilink")**α-5
 Digital**，[北美市场名称为](https://zh.wikipedia.org/wiki/北美 "wikilink")**Konica
-Minolta Maxxum 5D**[日本市场名称为](../Page/日本.md "wikilink")**Alpha Sweet
+Minolta Maxxum 5D**[日本](../Page/日本.md "wikilink")市场名称为**Alpha Sweet
 Digital**）\[1\]
 
 **Dynax 5D**是在前作，定位于中端机型的[Dynax
@@ -38,7 +38,7 @@ AF卡口镜头](https://zh.wikipedia.org/wiki/Minolta_AF卡口 "wikilink")，也
 
   - 在开启降噪的情况下，夜景长时间曝光出现白点
 
-随着2006年，柯尼卡美能达公司宣布退出摄影器材行业且[索尼公司全面接管柯美的相机部门](../Page/索尼.md "wikilink")，Dynax
+随着2006年，柯尼卡美能达公司宣布退出摄影器材行业且[索尼](../Page/索尼.md "wikilink")公司全面接管柯美的相机部门，Dynax
 5D的维修责任也转移到索尼公司。
 
 ## 参见

@@ -1,5 +1,5 @@
 **General
-MIDI**，簡稱**GM**，是[MIDI的統一規格](../Page/MIDI.md "wikilink")。雖然MIDI自己本身提供了使不同儀器能夠在基礎水平上互用的協定，但General
+MIDI**，簡稱**GM**，是[MIDI](../Page/MIDI.md "wikilink")的統一規格。雖然MIDI自己本身提供了使不同儀器能夠在基礎水平上互用的協定，但General
 MIDI提供了更進一步的規範：它要求所有的GM相容儀器達到一些共同的特點，像是能夠同時演奏至少24個音符（複音），而且它包含了許多未在MIDI中規範，關於參數和控制訊息的解釋，像是定義儀器可以擁有128個發聲數。
 
 General
@@ -68,12 +68,12 @@ GM儀器必須遵循以下關於樂器音色（program）以及控制事件（co
 <tr class="even">
 <td><p>5</p></td>
 <td><p>Electric Piano 1</p></td>
-<td><p><a href="../Page/電鋼琴.md" title="wikilink">電鋼琴1</a></p></td>
+<td><p><a href="../Page/電鋼琴.md" title="wikilink">電鋼琴</a>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>Electric Piano 2</p></td>
-<td><p><a href="../Page/電鋼琴.md" title="wikilink">電鋼琴2</a></p></td>
+<td><p><a href="../Page/電鋼琴.md" title="wikilink">電鋼琴</a>2</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
@@ -173,7 +173,7 @@ GM儀器必須遵循以下關於樂器音色（program）以及控制事件（co
 <tr class="odd">
 <td><p>24</p></td>
 <td><p>Tango Accordion</p></td>
-<td><p><a href="../Page/探戈.md" title="wikilink">探戈手風琴</a></p></td>
+<td><p><a href="../Page/探戈.md" title="wikilink">探戈</a>手風琴</p></td>
 </tr>
 <tr class="even">
 <td><p>Guitar（吉他）</p></td>
@@ -233,12 +233,12 @@ GM儀器必須遵循以下關於樂器音色（program）以及控制事件（co
 <tr class="odd">
 <td><p>34</p></td>
 <td><p>Electric Bass(finger)</p></td>
-<td><p><a href="../Page/電貝斯.md" title="wikilink">電貝斯（指奏）</a></p></td>
+<td><p><a href="../Page/電貝斯.md" title="wikilink">電貝斯</a>（指奏）</p></td>
 </tr>
 <tr class="even">
 <td><p>35</p></td>
 <td><p>Electric Bass(pick)</p></td>
-<td><p><a href="../Page/電貝斯.md" title="wikilink">電貝斯（撥奏）</a></p></td>
+<td><p><a href="../Page/電貝斯.md" title="wikilink">電貝斯</a>（撥奏）</p></td>
 </tr>
 <tr class="odd">
 <td><p>36</p></td>
@@ -383,7 +383,7 @@ GM儀器必須遵循以下關於樂器音色（program）以及控制事件（co
 <tr class="odd">
 <td><p>61</p></td>
 <td><p>French horn</p></td>
-<td><p><a href="../Page/法國號.md" title="wikilink">法國號（圓號）</a></p></td>
+<td><p><a href="../Page/法國號.md" title="wikilink">法國號</a>（圓號）</p></td>
 </tr>
 <tr class="even">
 <td><p>62</p></td>
@@ -438,7 +438,7 @@ GM儀器必須遵循以下關於樂器音色（program）以及控制事件（co
 <tr class="even">
 <td><p>71</p></td>
 <td><p>Bassoon</p></td>
-<td><p><a href="../Page/低音管.md" title="wikilink">低音管（巴頌管）</a></p></td>
+<td><p><a href="../Page/低音管.md" title="wikilink">低音管</a>（巴頌管）</p></td>
 </tr>
 <tr class="odd">
 <td><p>72</p></td>

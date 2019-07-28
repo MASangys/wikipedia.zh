@@ -2,7 +2,7 @@
 
 ## 簡略歷史
 
-WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·文策尔.md "wikilink")、[汉斯·克喇末和](../Page/汉斯·克喇末.md "wikilink")[萊昂·布里淵姓氏字首命名](../Page/萊昂·布里淵.md "wikilink")。於1926年，他們成功地將這方法發展和應用於量子力學。不過早在1923年，數學家[哈罗德·杰弗里斯就已經發展出二階線性微分方程式的一般的近似法](../Page/哈罗德·杰弗里斯.md "wikilink")。薛丁格方程式也是一個二階微分方程式。可是，薛丁格方程式的出現稍微晚了兩年。三位物理學家各自獨立地在做WKB近似的研究時，似乎並不知道這個更早的研究。所以物理界提到這近似方法時，常常會忽略了杰弗里斯所做的貢獻。這方法在[荷蘭稱為](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")**KWB近似**，在[法國稱為](https://zh.wikipedia.org/wiki/法國 "wikilink")**BWK近似**，只有在[英國稱為](https://zh.wikipedia.org/wiki/英國 "wikilink")**JWKB近似**\[1\]。
+WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·文策尔.md "wikilink")、[汉斯·克喇末](../Page/汉斯·克喇末.md "wikilink")和[萊昂·布里淵](../Page/萊昂·布里淵.md "wikilink")姓氏字首命名。於1926年，他們成功地將這方法發展和應用於量子力學。不過早在1923年，數學家[哈罗德·杰弗里斯](../Page/哈罗德·杰弗里斯.md "wikilink")就已經發展出二階線性微分方程式的一般的近似法。薛丁格方程式也是一個二階微分方程式。可是，薛丁格方程式的出現稍微晚了兩年。三位物理學家各自獨立地在做WKB近似的研究時，似乎並不知道這個更早的研究。所以物理界提到這近似方法時，常常會忽略了杰弗里斯所做的貢獻。這方法在[荷蘭稱為](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")**KWB近似**，在[法國稱為](https://zh.wikipedia.org/wiki/法國 "wikilink")**BWK近似**，只有在[英國稱為](https://zh.wikipedia.org/wiki/英國 "wikilink")**JWKB近似**\[1\]。
 
 ## 數學概念
 
@@ -14,7 +14,7 @@ WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·�
 
 \[y(x) \sim \exp\left[\frac{1}{\delta}\sum_{n=0}^{\infty}\delta^nS_n(x)\right]\,\!\]。
 
-將這[擬設代入微分方程式](../Page/擬設.md "wikilink")。然後约去相同指數函數因子。又取\(\delta \rightarrow 0\,\!\)的極限。這樣，就可以從\(S_0(x)\,\!\)開始，一個一個的解析這漸近級數的每一個項目\(S_n(x)\,\!\)。
+將這[擬設](../Page/擬設.md "wikilink")代入微分方程式。然後约去相同指數函數因子。又取\(\delta \rightarrow 0\,\!\)的極限。這樣，就可以從\(S_0(x)\,\!\)開始，一個一個的解析這漸近級數的每一個項目\(S_n(x)\,\!\)。
 
 通常\(y(x)\,\!\)的漸近級數會[發散](https://zh.wikipedia.org/wiki/發散 "wikilink")。當\(n\,\!\)大於某值後，一般項目\(\delta ^n S_n(x)\,\!\)會開始增加。因此WKB近似法造成的最小誤差，約是最後包括項目的數量級。
 
@@ -84,7 +84,7 @@ WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·�
 
 \[\hbar^2\frac{\mathrm{d}^2}{\mathrm{d}x^2} \psi(x) =2m \left( V(x) - E \right) \psi(x)\,\!\]。<span style="position:absolute;right:15%">(1)</span>
 
-假設波函數的形式為另外一個函數\(\phi\,\!\)的指數（函數\(\phi\,\!\)與[作用量有很親密的關係](../Page/作用量.md "wikilink")）：
+假設波函數的形式為另外一個函數\(\phi\,\!\)的指數（函數\(\phi\,\!\)與[作用量](../Page/作用量.md "wikilink")有很親密的關係）：
 
 \[\psi(x) = e^{\phi(x)/\hbar} \,\!\]。
 
@@ -230,7 +230,7 @@ WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·�
 
 ### 範例
 
-考慮一個[量子諧振子系統](../Page/量子諧振子.md "wikilink")，一個質量為\(m\,\!\)的粒子，運動於諧振位勢\(V(x)=\frac{1}{2}m\omega^2 x^2\,\!\)；其中，\(\omega\,\!\)是角頻率。求算其[本徵能級](https://zh.wikipedia.org/wiki/本徵值 "wikilink")\(E_n\,\!\)？
+考慮一個[量子諧振子](../Page/量子諧振子.md "wikilink")系統，一個質量為\(m\,\!\)的粒子，運動於諧振位勢\(V(x)=\frac{1}{2}m\omega^2 x^2\,\!\)；其中，\(\omega\,\!\)是角頻率。求算其[本徵能級](https://zh.wikipedia.org/wiki/本徵值 "wikilink")\(E_n\,\!\)？
 
 能量為\(E\,\!\)的粒子，其運動的古典轉向點\(x_t\,\!\)為
 

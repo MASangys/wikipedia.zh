@@ -2,11 +2,11 @@
 **SJ-M**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Super
 Junior的第三個官方子團體](../Page/Super_Junior.md "wikilink")。它是華語音樂圈中第一個成員中包含有華人、韓國人的國際音樂團體，也是韓國的CT（文化技术，Culture
 Technology）組織成立的第一個團體。
-[韓庚因合約關係於在](../Page/韓庚.md "wikilink")2009年12月21日宣告單飛，並在2010年6月22日獲得勝訴而退出組合\[1\]
+[韓庚](../Page/韓庚.md "wikilink")因合約關係於在2009年12月21日宣告單飛，並在2010年6月22日獲得勝訴而退出組合\[1\]
 。2018年4月30日，[Henry約滿離隊](../Page/劉憲華.md "wikilink")\[2\]。
 
 Super
-Junior-M目前成員包括[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[厲旭及](../Page/厲旭.md "wikilink")[圭賢](../Page/圭賢.md "wikilink")。
+Junior-M目前成員包括[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[厲旭](../Page/厲旭.md "wikilink")及[圭賢](../Page/圭賢.md "wikilink")。
 
 ## 簡介
 
@@ -30,10 +30,10 @@ Junior的成员[韩庚和SM的加拿大籍華裔练习生](https://zh.wikipedia.
 Junior成员[始源在新闻中被提到将成为團體中第三位成员](https://zh.wikipedia.org/wiki/始源 "wikilink")。\[4\]
 但是最终名单直到4月才公布。
 
-从2008年4月4日到4月7日，七位成員被媒体接連在一連串預告片中告知。[韓庚是在](../Page/韓庚.md "wikilink")4月4日第一位被告知的成员。
+从2008年4月4日到4月7日，七位成員被媒体接連在一連串預告片中告知。[韓庚](../Page/韓庚.md "wikilink")是在4月4日第一位被告知的成员。
 \[5\]
 4月5日，第二、三位成员[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[东海被告知](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")。\[6\]
-4月6日，第四位成员[圭賢被告知](../Page/圭賢.md "wikilink")，接着是[Henry](../Page/劉憲華.md "wikilink")。\[7\]
+4月6日，第四位成员[圭賢](../Page/圭賢.md "wikilink")被告知，接着是[Henry](../Page/劉憲華.md "wikilink")。\[7\]
 [厉旭是第六位被告知的](https://zh.wikipedia.org/wiki/厉旭 "wikilink")，新生[周觅是最后一位被告知的](https://zh.wikipedia.org/wiki/周觅 "wikilink")。\[8\]
 在他们的出道日2008年4月8日，七人的预告片发布。Super
 Junior-M的预告片4天内被点阅了140万次，其中有中國和韓國雙方的觀眾。\[9\]
@@ -52,7 +52,7 @@ Girl](../Page/Super_Girl_\(迷你專輯\).md "wikilink")》，並在隔年入圍
 ### 2011年：陣容變化、《太完美》
 
 在2011年2月25日，[Super
-Junior的兩位成員](../Page/Super_Junior.md "wikilink")[晟敏和](../Page/晟敏.md "wikilink")[銀赫加入Super](../Page/銀赫.md "wikilink")
+Junior的兩位成員](../Page/Super_Junior.md "wikilink")[晟敏](../Page/晟敏.md "wikilink")和[銀赫](../Page/銀赫.md "wikilink")加入Super
 Junior-M，並发行第二张迷你专辑《[太完美](../Page/太完美.md "wikilink")》。\[10\]
 
 ### 2013年：《Break Down》
@@ -68,11 +68,13 @@ take的方式拍成。此外，《Swing》在中国音乐网站连续两周夺�
 
 ### 2015年至今：部分成員入伍服役、預告2019年全員歸隊回歸
 
-2015年3月31日，晟敏入伍服役，在京畿道富川第17使團新兵教育大隊接受新兵基礎訓練後以現役身份服役，成員SJ-M第一位入伍成員，隨後SJ-M團體活動暫停；10月13日，銀赫入伍，隔兩日；15日東海以警察廳身份入伍；11月19日，始源入伍。2016年10月11日，成員厲旭入伍；同年12月30日，晟敏退伍。2017年5月25日，成員圭賢入伍，為SJ-M最後一個入伍的團員，同年7月12日，銀赫退伍，7月14日東海退伍，8月18日，始源退伍。
+2015年3月31日，晟敏入伍服役，在京畿道富川第17使團新兵教育大隊接受新兵基礎訓練後以現役身份服役，成員SJ-M第一位入伍成員，隨後SJ-M團體活動暫停；10月13日，銀赫入伍，隔兩日；15日東海以警察廳身份入伍；11月19日，始源入伍。2016年10月11日，成員厲旭入伍；同年12月30日，晟敏退伍。2017年5月25日，成員圭賢入伍，為SJ-M最後一個入伍的團員，2017年6月因晟敏因之前入伍前結婚事情沒處理跟粉絲事情，所以目前暫停演藝事業，同年7月12日，銀赫退伍，7月14日東海退伍，8月18日，始源退伍。
 
 2018年3月31日，SJ-M母團Super Junior於台北舉行第七次世界巡演[Super Show
 7](../Page/Super_Show_7.md "wikilink")，成員東海則提及Super
 Junior-M計畫在2019年全員歸隊後，發行新專輯回歸。4月29日，成員Henry與SM的專屬合約結束，離開SM經紀公司\[14\]。7月10日，厲旭退伍。
+
+2019年5月7日，圭賢退伍。
 
 ## 成員資料
 
@@ -230,7 +232,7 @@ Junior-M計畫在2019年全員歸隊後，發行新專輯回歸。4月29日，�
 | 2012年                                                       | [Channel A](../Page/Channel_A.md "wikilink")          | [熊猫小姐和刺猬](https://zh.wikipedia.org/wiki/熊猫小姐和刺猬 "wikilink")       | 東海                                 | 高勝志     | 第一男主角 | 全集   |
 | SBS                                                         | [電視劇帝王](../Page/電視劇帝王.md "wikilink")                  | 始源                                                                | 姜賢珉                                | 第二男主角   |       |      |
 | [八大電視](../Page/八大電視.md "wikilink")                          | [愛情闖進門](../Page/愛情闖進門.md "wikilink")                  | 周覓                                                                | 黎尚林                                | 第二男主角   |       |      |
-| 2014年                                                       | OCN                                                   | [神的測驗4](../Page/神的測驗.md "wikilink")                               | 東海                                 | 韓詩宇     |       |      |
+| 2014年                                                       | OCN                                                   | [神的測驗](../Page/神的測驗.md "wikilink")4                               | 東海                                 | 韓詩宇     |       |      |
 | 2014年                                                       | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | 轉身說愛你                                                             | 始源                                 | 宋晨曦     | 第一男主角 | 全集   |
 | 2014年                                                       |                                                       | 甜蜜都市                                                              | [Henry](../Page/劉憲華.md "wikilink") | 彭博宇     |       |      |
 | 2014年                                                       |                                                       | 亿万继承人                                                             | 始源                                 | 杨喜旺；岳喜旺 |       |      |

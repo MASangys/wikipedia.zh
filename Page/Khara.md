@@ -1,14 +1,14 @@
-**株式会社khara**（，，中文名：凯乐）是一家以[動畫的開發和制作為主要經營項目的](../Page/动画.md "wikilink")[日本企業](../Page/日本.md "wikilink")。
+**株式会社khara**（，，中文名：凯乐）是一家以[動畫的開發和制作為主要經營項目的](../Page/动画.md "wikilink")[日本](../Page/日本.md "wikilink")企業。
 
 ## 概要
 
-khara成立於2006年5月，其[執行董事是](https://zh.wikipedia.org/wiki/執行董事 "wikilink")[GAINAX的動畫企劃](../Page/GAINAX.md "wikilink")[庵野秀明](../Page/庵野秀明.md "wikilink")。主要經營業務是[動畫作品的企劃](../Page/动画.md "wikilink")、原作、脚本、設計等開發工作以及動畫作品的制作。\[1\]
+khara成立於2006年5月，其[執行董事是](https://zh.wikipedia.org/wiki/執行董事 "wikilink")[GAINAX](../Page/GAINAX.md "wikilink")的動畫企劃[庵野秀明](../Page/庵野秀明.md "wikilink")。主要經營業務是[動畫作品的企劃](../Page/动画.md "wikilink")、原作、脚本、設計等開發工作以及動畫作品的制作。\[1\]
 
 自2006年成立開始，khara便開始《[福音战士新剧场版](https://zh.wikipedia.org/wiki/福音战士新剧场版 "wikilink")》的制作工作。庵野秀明是GAINAX的創始人之一，離開GAINAX繼而創建khara之際，在一份《福音戰士新劇場版》的公開聲明中寫道\[2\]：
 
 ## 名称
 
-khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与英文单词「color」（色彩，彩色）的假名相同，因此khara的意思常被认为是彩色。但实际上khara来自，意为高兴、欢笑\[3\]，對外常使用製作部門名義。此外，公司的[标志也是由安野梦洋子设计的](../Page/标志.md "wikilink")。
+khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与英文单词「color」（色彩，彩色）的假名相同，因此khara的意思常被认为是彩色。但实际上khara来自，意为高兴、欢笑\[3\]，對外常使用製作部門名義。此外，公司的[标志](../Page/标志.md "wikilink")也是由安野梦洋子设计的。
 
 ## 作品
 

@@ -1,5 +1,5 @@
 __NOTOC__  **Adobe Photoshop Elements**是[Adobe
-Photoshop](../Page/Adobe_Photoshop.md "wikilink")[光栅图编辑产品的消费版本](https://zh.wikipedia.org/wiki/光栅图 "wikilink")，售价为专业版产品的一小部分（大概六分之一）或者与相关硬件捆绑，如[打印机和](../Page/打印机.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")。它包含了专业版的大多数特性，但是只有少量的简化选项。这个程序允许用户在同一产品中创建、编辑、组织和共享图像。
+Photoshop](../Page/Adobe_Photoshop.md "wikilink")[光栅图编辑产品的消费版本](https://zh.wikipedia.org/wiki/光栅图 "wikilink")，售价为专业版产品的一小部分（大概六分之一）或者与相关硬件捆绑，如[打印机](../Page/打印机.md "wikilink")和[数码相机](../Page/数码相机.md "wikilink")。它包含了专业版的大多数特性，但是只有少量的简化选项。这个程序允许用户在同一产品中创建、编辑、组织和共享图像。
 
 最初Photoshop Elements与 [Photoshop](../Page/Adobe_Photoshop.md "wikilink")
 7一起发行，面向摄影爱好者，因此缺少许多对于专业出版环境有用的特性。例如，Photoshop

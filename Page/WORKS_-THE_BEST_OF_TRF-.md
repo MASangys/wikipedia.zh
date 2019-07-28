@@ -1,9 +1,9 @@
 《**WORKS -THE BEST OF
-TRF-**》是日本音乐组合[TRF的第一张精选专辑](../Page/TRF.md "wikilink")。
+TRF-**》是日本音乐组合[TRF](../Page/TRF.md "wikilink")的第一张精选专辑。
 
 ## 内容
 
-  - 网罗[小室哲哉作曲时代的作品](../Page/小室哲哉.md "wikilink")，2张CD，22首曲目。
+  - 网罗[小室哲哉](../Page/小室哲哉.md "wikilink")作曲时代的作品，2张CD，22首曲目。
   - 此后TRF与小室不再有合作关系，因此这张专辑是TRF的小室时代的一个总结。
   - 2004年1月28日曾发行DVD音频版。
 

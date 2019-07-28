@@ -19,10 +19,10 @@ Synfig 是个强大，工业级别的矢量2D动画软件包，其设计的初�
 [1](http://webarchive.loc.gov/all/20090218034439/http://synfig.org//About)
 本软件使用的动画技术淘汰这种手工做过渡帧的工作，产生平滑，流畅的运动，而无需动画者逐帧绘制。
 
-可以进行软件渲染，使用[梯度表现](../Page/梯度.md "wikilink")，可以让绘制者脱离[逐帧描绘](https://zh.wikipedia.org/wiki/逐帧 "wikilink")[阴影](https://zh.wikipedia.org/wiki/阴影 "wikilink")（即[浓淡处理](../Page/浓淡处理.md "wikilink")）的困扰。
+可以进行软件渲染，使用[梯度](../Page/梯度.md "wikilink")表现，可以让绘制者脱离[逐帧描绘](https://zh.wikipedia.org/wiki/逐帧 "wikilink")[阴影](https://zh.wikipedia.org/wiki/阴影 "wikilink")（即[浓淡处理](../Page/浓淡处理.md "wikilink")）的困扰。
 同時有大量的即時特效可套用於圖層或圖層群組，如輻射狀模糊效果、顏色調整等，都可以獨立於解析度套用。
 其他功能包含能以線條控制點控制並動畫化線條寬度及物件間連結有關的資料。
-Synfig能够运用[高动态范围成像技术](../Page/高动态范围成像.md "wikilink")
+Synfig能够运用[高动态范围成像](../Page/高动态范围成像.md "wikilink")技术
 
 这样，就可以在少量人力的情况下制作高质量的作品。
 
@@ -30,16 +30,16 @@ Synfig能够运用[高动态范围成像技术](../Page/高动态范围成像.md
 
 ## 格式支持
 
-Synfig使用用不标准的[xml类格式](https://zh.wikipedia.org/wiki/xml "wikilink")，涵盖矢量和额外的[位图处理工具](../Page/位图.md "wikilink")。
+Synfig使用用不标准的[xml类格式](https://zh.wikipedia.org/wiki/xml "wikilink")，涵盖矢量和额外的[位图](../Page/位图.md "wikilink")处理工具。
 [Digital
 Video](https://zh.wikipedia.org/wiki/Digital_Video "wikilink")，[Avi](https://zh.wikipedia.org/wiki/Avi "wikilink")，[Theora](../Page/Theora.md "wikilink")
-和 [MPEG是常见的输出格式](../Page/MPEG.md "wikilink")。
-**Synfig**把动态图像保存为[MNG和](https://zh.wikipedia.org/wiki/MNG "wikilink")[GIF](../Page/GIF.md "wikilink")；为保证质量也可以使用[PNG](../Page/PNG.md "wikilink")，[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")，[PPM和](https://zh.wikipedia.org/wiki/Netpbm_format "wikilink")[OpenEXR等格式](../Page/OpenEXR.md "wikilink")。
+和 [MPEG](../Page/MPEG.md "wikilink")是常见的输出格式。
+**Synfig**把动态图像保存为[MNG和](https://zh.wikipedia.org/wiki/MNG "wikilink")[GIF](../Page/GIF.md "wikilink")；为保证质量也可以使用[PNG](../Page/PNG.md "wikilink")，[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")，[PPM和](https://zh.wikipedia.org/wiki/Netpbm_format "wikilink")[OpenEXR](../Page/OpenEXR.md "wikilink")等格式。
 另外，用其他软件可以转化成Synfig格式。
 
 ## 代码
 
-用[C++编写](../Page/C++.md "wikilink")，依赖于 GTK+ 库。
+用[C++](../Page/C++.md "wikilink")编写，依赖于 GTK+ 库。
 
 ## 标志
 

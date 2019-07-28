@@ -7,7 +7,7 @@ OfficeJet）是一個軟件用來在Linux操作系統下連行惠普的打印機
 ## 工具
 
   - 自動安裝，安裝後支援多種不同的Linux發行版([SUSE
-    Linux](https://zh.wikipedia.org/wiki/SUSE_Linux "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu及](../Page/Ubuntu.md "wikilink")[Debian](../Page/Debian.md "wikilink"))
+    Linux](https://zh.wikipedia.org/wiki/SUSE_Linux "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")及[Debian](../Page/Debian.md "wikilink"))
   - 包括一个[QT图形界面工具](https://zh.wikipedia.org/wiki/QT "wikilink")，可以用来执行打印、扫描、传真等任务，还可以管理设备配置。
   - 包含一些命令行工具来添加或配置设备，亦可进行扫描和打印。
 

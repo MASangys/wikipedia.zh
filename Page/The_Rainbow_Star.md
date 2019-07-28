@@ -1,6 +1,6 @@
-《**The Rainbow Star**》是[堂本剛以個人制作名義](../Page/堂本剛.md "wikilink")(Solo Work
+《**The Rainbow Star**》是[堂本剛](../Page/堂本剛.md "wikilink")以個人制作名義(Solo Work
 Produce
-Name)[ENDLICHERI☆ENDLICHERI發表的第二首](https://zh.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2006年6月28日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。值得注意的是，所收錄作品的作曲與作詞皆由他個人一手包辦。
+Name)[ENDLICHERI☆ENDLICHERI發表的第二首](https://zh.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2006年6月28日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。值得注意的是，所收錄作品的作曲與作詞皆由他個人一手包辦。
 
 ## 解說
 

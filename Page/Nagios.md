@@ -3,7 +3,7 @@
 
 Nagios原名**NetSaint**，由Ethan Galstad开发并维护至今。NAGIOS是簡稱，全写「Nagios Ain't
 Gonna Insist On Sainthood」，Sainthood 意思是「圣者」，而「Agios」是「saint」的希腊文。Nagios
-在[Linux運作](../Page/Linux.md "wikilink")，但也能用於[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")。
+在[Linux](../Page/Linux.md "wikilink")運作，但也能用於[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")。
 
 ## 主要功能
 

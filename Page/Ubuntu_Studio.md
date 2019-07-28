@@ -73,7 +73,7 @@ Studio也可以透過APT從[網路安裝](https://zh.wikipedia.org/wiki/網路 "
 ## 參見
 
   - [64 Studio](https://zh.wikipedia.org/wiki/64_Studio "wikilink") -
-    一個基於[Debian的](../Page/Debian.md "wikilink")、多媒體製作導向的發行版本
+    一個基於[Debian](../Page/Debian.md "wikilink")的、多媒體製作導向的發行版本
 
 ## 參考資料
 

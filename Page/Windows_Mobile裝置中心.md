@@ -43,7 +43,7 @@ Office Outlook中的資料。當一個Windows
 Mobile的裝置連接到電腦上時，該程式就會跳出一個視窗，並給予如同步音樂等有關管理該裝置的選項。
 
 使用Windows
-Mobile裝置中心來檢視裝置可以透過[藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")、[USB以及](../Page/USB.md "wikilink")[串列埠等方式](https://zh.wikipedia.org/wiki/串列埠 "wikilink")。但是，使用串列埠來連結裝置的功能預設並不開啟，並需要使用者透過更改[登錄檔才能開啟](https://zh.wikipedia.org/wiki/登錄 "wikilink")。\[8\]
+Mobile裝置中心來檢視裝置可以透過[藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")、[USB](../Page/USB.md "wikilink")以及[串列埠等方式](https://zh.wikipedia.org/wiki/串列埠 "wikilink")。但是，使用串列埠來連結裝置的功能預設並不開啟，並需要使用者透過更改[登錄檔才能開啟](https://zh.wikipedia.org/wiki/登錄 "wikilink")。\[8\]
 
 Windows Mobile裝置中心能夠同步以下資料：
 

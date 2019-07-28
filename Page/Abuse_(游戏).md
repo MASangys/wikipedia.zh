@@ -11,7 +11,7 @@ Arts在](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")1996年发行�
 
 ## 发行方式和后来的开发
 
-Abuse最初为[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。Abuse的共享软件版本支持[MS-DOS和](../Page/MS-DOS.md "wikilink")[Linux](../Page/Linux.md "wikilink")。Abuse现在正在很多GNU／Linux发行版中传播。
+Abuse最初为[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。Abuse的共享软件版本支持[MS-DOS](../Page/MS-DOS.md "wikilink")和[Linux](../Page/Linux.md "wikilink")。Abuse现在正在很多GNU／Linux发行版中传播。
 
 Abuse由Crack dot Com的[Oliver
 Yu移植到](https://zh.wikipedia.org/wiki/Oliver_Yu "wikilink")[Mac

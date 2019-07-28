@@ -1,5 +1,5 @@
 《**神勇CID**》(Siblings of Vice and
-Virtue)是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")1986年拍攝的電視連續劇，全劇共20集，監製[伍潤泉](https://zh.wikipedia.org/wiki/伍潤泉 "wikilink")。主要演員有[張兆輝](../Page/張兆輝.md "wikilink")、[陳敏兒](../Page/陳敏兒.md "wikilink")、[狄波拉](../Page/狄波拉.md "wikilink")、[何美婷](../Page/何美婷.md "wikilink")、[唐麗球](../Page/唐麗球.md "wikilink")、[韓馬利](../Page/韓馬利.md "wikilink")、[曾江](../Page/曾江.md "wikilink")、[李國麟](../Page/李國麟_\(演員\).md "wikilink")、[戴志偉等](../Page/戴志偉.md "wikilink")，本劇是[張兆輝首部擔任第一男主角的電視劇](../Page/張兆輝.md "wikilink")。
+Virtue)是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")1986年拍攝的電視連續劇，全劇共20集，監製[伍潤泉](https://zh.wikipedia.org/wiki/伍潤泉 "wikilink")。主要演員有[張兆輝](../Page/張兆輝.md "wikilink")、[陳敏兒](../Page/陳敏兒.md "wikilink")、[狄波拉](../Page/狄波拉.md "wikilink")、[何美婷](../Page/何美婷.md "wikilink")、[唐麗球](../Page/唐麗球.md "wikilink")、[韓馬利](../Page/韓馬利.md "wikilink")、[曾江](../Page/曾江.md "wikilink")、[李國麟](../Page/李國麟_\(演員\).md "wikilink")、[戴志偉](../Page/戴志偉.md "wikilink")等，本劇是[張兆輝](../Page/張兆輝.md "wikilink")首部擔任第一男主角的電視劇。
 
 ## 故事大綱
 

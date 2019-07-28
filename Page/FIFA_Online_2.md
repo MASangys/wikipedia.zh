@@ -1,4 +1,4 @@
-是一款以[足球为主题的](../Page/足球.md "wikilink")[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")。此游戏由[EA新加坡和](https://zh.wikipedia.org/wiki/EA新加坡 "wikilink")[Neowiz开发](../Page/Neowiz.md "wikilink")，并由[美国艺电发行至亚洲通过各地经销商进行本地化运营](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")。2006年在韩国最初发行的版本是以[FIFA
+是一款以[足球](../Page/足球.md "wikilink")为主题的[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")。此游戏由[EA新加坡和](https://zh.wikipedia.org/wiki/EA新加坡 "wikilink")[Neowiz](../Page/Neowiz.md "wikilink")开发，并由[美国艺电发行至亚洲通过各地经销商进行本地化运营](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")。2006年在韩国最初发行的版本是以[FIFA
 06的游戏引擎为基础的](../Page/FIFA系列.md "wikilink")，随后此游戏的引擎被改为[FIFA
 07](../Page/FIFA系列.md "wikilink")。《FIFA Online
 2》是一款免费网游，但同时也通过销售虚拟货币以在游戏中购买物品获利。
@@ -6,7 +6,7 @@
 ## 比赛环境
 
 比赛的操作模式和《FIFA 07》基本一致。在《FIFA Online
-2》中，玩家可以和电脑进行联赛或杯赛的整季对抗，或是选择与在线玩家进行较量。进行任何比赛都将获得一定数量的LP。游戏默认的按键方式是与[FIFA系列游戏一致的](../Page/FIFA系列.md "wikilink")，部分运营商考虑到了有些玩家习惯于《[实况足球](https://zh.wikipedia.org/wiki/实况足球 "wikilink")》模式的按键方式，在游戏中提供了修改按键的选项。\[1\]
+2》中，玩家可以和电脑进行联赛或杯赛的整季对抗，或是选择与在线玩家进行较量。进行任何比赛都将获得一定数量的LP。游戏默认的按键方式是与[FIFA系列](../Page/FIFA系列.md "wikilink")游戏一致的，部分运营商考虑到了有些玩家习惯于《[实况足球](https://zh.wikipedia.org/wiki/实况足球 "wikilink")》模式的按键方式，在游戏中提供了修改按键的选项。\[1\]
 
 ## 游戏货币
 

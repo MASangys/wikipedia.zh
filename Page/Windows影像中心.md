@@ -12,14 +12,14 @@ Premium及Ultimate才能夠搭配使用影像中心。
 您也可以直接上傳圖片至[Windows Live
 Spaces及](../Page/Windows_Live_Spaces.md "wikilink")[Flickr](../Page/Flickr.md "wikilink")。微軟宣稱，他可以兼容各種協議，讓用戶也可以上載到其它圖片共享網站上。\[1\]
 Windows Live影像中心 也可以從[Windows Live
-Spaces下載圖片](../Page/Windows_Live_Spaces.md "wikilink")。它可以發佈至[MSN肥皂盒](../Page/MSN.md "wikilink")。\[2\]
+Spaces下載圖片](../Page/Windows_Live_Spaces.md "wikilink")。它可以發佈至[MSN](../Page/MSN.md "wikilink")肥皂盒。\[2\]
 
 先來比較一下Windows Live影像中心和Windows
 Vista內建[Windows相片圖庫](https://zh.wikipedia.org/wiki/Windows相片圖庫 "wikilink")，以及新的功能包括：
 
   - 可以使用導出工具導出影片或者圖片，可以用來查看、選擇和對對圖片標籤。也可以按照時間自動分組。\[3\]
   - 查看圖片的彩色[柱狀統計圖帶有按陰影強調](https://zh.wikipedia.org/wiki/柱狀統計圖 "wikilink")，或者改變圖片的[銳度](https://zh.wikipedia.org/wiki/銳度 "wikilink")。\[4\]
-  - 使用[微軟研究院研發的圖片拼接功能](../Page/微軟研究院.md "wikilink")。\[5\]
+  - 使用[微軟研究院](../Page/微軟研究院.md "wikilink")研發的圖片拼接功能。\[5\]
   - 重新調整圖片的大小，\[6\]和輪換的影片。
   - 支援觀看QuickTime的影片（需安裝[QuickTime
     7才能使用](../Page/QuickTime.md "wikilink")）。

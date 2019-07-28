@@ -2,13 +2,13 @@
 
 **smart自动售卖机**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**smart
 vendor**）是[smart
-fortwo的一种宣传方式](https://zh.wikipedia.org/wiki/司麦特_\(汽车\) "wikilink")，在[日本及](../Page/日本.md "wikilink")[中国都有巡展](https://zh.wikipedia.org/wiki/中国 "wikilink")，用[自动售卖机的形式展示smart](https://zh.wikipedia.org/wiki/自动售卖机 "wikilink")
+fortwo的一种宣传方式](https://zh.wikipedia.org/wiki/司麦特_\(汽车\) "wikilink")，在[日本](../Page/日本.md "wikilink")及[中国都有巡展](https://zh.wikipedia.org/wiki/中国 "wikilink")，用[自动售卖机的形式展示smart](https://zh.wikipedia.org/wiki/自动售卖机 "wikilink")
 fortwo，并且付费发放相关介绍资料。
 
 ## 日本
 
 [smart_vending_machine_in_tokyo.jpg](https://zh.wikipedia.org/wiki/File:smart_vending_machine_in_tokyo.jpg "fig:smart_vending_machine_in_tokyo.jpg")
-2008年6月smart自动售卖机在[日本进行巡展](../Page/日本.md "wikilink")。
+2008年6月smart自动售卖机在[日本](../Page/日本.md "wikilink")进行巡展。
 在日本的smart自动售卖机，投入硬币后，消费者会得到一个“纸筒类”的宣传资料，里面包括smart
 fortwo的介绍和贴纸。 \[1\]
 

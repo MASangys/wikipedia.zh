@@ -1,5 +1,5 @@
 《**Northern
-lights**》為2002年3月27日發售、[林原惠的第](../Page/林原惠.md "wikilink")29張單曲。
+lights**》為2002年3月27日發售、[林原惠](../Page/林原惠.md "wikilink")的第29張單曲。
 
 由[King
 Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販賣（KICM-3027）。
@@ -18,10 +18,10 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販賣�
 
 1.  **Northern lights** \[3:31\]
       - 作詞：[MEGUMI](../Page/林原惠.md "wikilink")、作曲・編曲：[高橋剛](../Page/高橋剛.md "wikilink")
-      - [東京電視台系列](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[通靈王](../Page/通靈王.md "wikilink")》後期片頭曲
+      - [東京電視台](../Page/東京電視台.md "wikilink")系列[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[通靈王](../Page/通靈王.md "wikilink")》後期片頭曲
 2.  **影像** \[3:44\]（原文：，漢字為面影。）
       - 作詞：MEGUMI、作曲・編曲：高橋剛
-      - [東京電視台系列](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『通靈王』後期片尾曲
+      - [東京電視台](../Page/東京電視台.md "wikilink")系列[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『通靈王』後期片尾曲
 3.  Northern lights（instrumental）
 4.  影像（instrumental）
 

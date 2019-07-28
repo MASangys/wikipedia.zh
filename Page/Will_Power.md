@@ -1,5 +1,5 @@
 《**Will Power**》是08樂壇新人[陳偉霆](../Page/陳偉霆.md "wikilink")（前[Sun
-Boy'z成員](https://zh.wikipedia.org/wiki/Sun_Boy'z "wikilink")）的首張個人大碟，亦是[陳偉霆離開](../Page/陳偉霆.md "wikilink")[Sun
+Boy'z成員](https://zh.wikipedia.org/wiki/Sun_Boy'z "wikilink")）的首張個人大碟，亦是[陳偉霆](../Page/陳偉霆.md "wikilink")離開[Sun
 Boy'z後首張個人](https://zh.wikipedia.org/wiki/Sun_Boy'z "wikilink")[專輯](../Page/音樂專輯.md "wikilink")，於2008年9月5日以雙封面公開發售，隨碟附送3首Music
 Video和手帶一對。
 

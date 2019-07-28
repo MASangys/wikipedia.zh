@@ -1,4 +1,4 @@
-是[角川書店發行的](../Page/角川書店.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1993年創刊，2011年休刊，目標為年輕成年男性。曾連載多本人氣輕小說，包括[涼宮春日](../Page/涼宮春日系列.md "wikilink")、[聖魔之血及](../Page/聖魔之血.md "wikilink")[Code
+是[角川書店](../Page/角川書店.md "wikilink")發行的[輕小說](../Page/輕小說.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1993年創刊，2011年休刊，目標為年輕成年男性。曾連載多本人氣輕小說，包括[涼宮春日](../Page/涼宮春日系列.md "wikilink")、[聖魔之血](../Page/聖魔之血.md "wikilink")及[Code
 Geass
 反叛的魯路修系列](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")。
 

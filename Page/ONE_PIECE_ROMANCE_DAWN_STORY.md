@@ -23,7 +23,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》也足以令其揚名立萬。
 
 ## 角色
 
-| 角色名稱                                                        | [日本配音員](../Page/日本.md "wikilink")                         |
+| 角色名稱                                                        | [日本](../Page/日本.md "wikilink")配音員                         |
 | ----------------------------------------------------------- | --------------------------------------------------------- |
 | '''[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")                 | [田中真弓](../Page/田中真弓.md "wikilink")                        |
 | '''[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")                   | [中井和哉](../Page/中井和哉.md "wikilink")                        |
@@ -43,7 +43,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》也足以令其揚名立萬。
     《ROMANCE DAWN》的女主角，住在小鎮上的少女。有著一頭美麗的金髮、綁著馬尾的少女。
     原本是個被海賊遺棄的小孩，後來被鎮上的人收養，相當珍惜鎮上的人，並把他們和小鎮視為自己的寶物，願意冒著生命危險去保衛它。她明白，並非所有的海賊都是壞人，會對像魯夫這樣的海賊表現出同理心。
     是《[ONE
-    PIECE](../Page/ONE_PIECE.md "wikilink")》中[娜美的原型](../Page/娜美.md "wikilink")，在本作OVA動畫版中與原作版的形象略有不同。
+    PIECE](../Page/ONE_PIECE.md "wikilink")》中[娜美](../Page/娜美.md "wikilink")的原型，在本作OVA動畫版中與原作版的形象略有不同。
   -
     聲優：[小山力也](../Page/小山力也.md "wikilink")（日本）
     海賊，懸賞金500萬貝里。在本作被魯夫輕鬆擊敗兩次。
@@ -76,4 +76,4 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》也足以令其揚名立萬。
 
   - [ジャンプスーパーアニメツアー公式サイト](http://www.jumpfesta.com/anime/)
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
+[Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink")

@@ -1,8 +1,8 @@
-**Yellow-Zebra**（）是設立於[福岡的一個](https://zh.wikipedia.org/wiki/福岡 "wikilink")[日本個人](../Page/日本.md "wikilink")[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。
+**Yellow-Zebra**（）是設立於[福岡的一個](https://zh.wikipedia.org/wiki/福岡 "wikilink")[日本](../Page/日本.md "wikilink")個人[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。
 
 ## 概要
 
-組織主要由**芳葉**（，）及**らんてぃ**（）兩名男性營運，主要以製作[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")[音樂專輯及](../Page/音樂專輯.md "wikilink")[廣播劇CD為主](../Page/廣播劇.md "wikilink")。在2007年，Yellow-Zebra因推出[漫才廣播劇](../Page/漫才.md "wikilink")『第2回東方M-1漫才大獎賽』（）而一舉成為知名的同人組織之一。
+組織主要由**芳葉**（，）及**らんてぃ**（）兩名男性營運，主要以製作[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")及[廣播劇](../Page/廣播劇.md "wikilink")CD為主。在2007年，Yellow-Zebra因推出[漫才](../Page/漫才.md "wikilink")廣播劇『第2回東方M-1漫才大獎賽』（）而一舉成為知名的同人組織之一。
 
 音樂專輯主要是收錄一些由[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[背景音樂改編](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")，再由歌手演唱的歌曲，另外還會收錄製作員之間的對談內容。
 
@@ -52,7 +52,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    2月18日－宣佈協助[世嘉於](../Page/世嘉.md "wikilink")3月5日推出的遊戲『[第七龙神](../Page/第七龙神.md "wikilink")』的宣傳活動\[3\]。
+    2月18日－宣佈協助[世嘉](../Page/世嘉.md "wikilink")於3月5日推出的遊戲『[第七龙神](../Page/第七龙神.md "wikilink")』的宣傳活動\[3\]。
     6月16日－宣佈建立新的姊妹組織「False\&Trues」\[4\]。
 
 ## 主要作品一覽
@@ -93,16 +93,25 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
 ### 東方M-1漫才大獎賽系列
 
-**東方M-1漫才大獎賽**（）是以[東方Project的角色為題材的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[漫才廣播劇CD及](../Page/漫才.md "wikilink")[DVD系列](https://zh.wikipedia.org/wiki/DVD "wikilink")。第一集的名稱是『東方M-1漫才大獎賽』，但多數人都稱之為『第1回東方M-1漫才大獎賽』與其他的集數作區分。
+**東方M-1漫才大獎賽**（）是以[東方Project的角色為題材的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[漫才](../Page/漫才.md "wikilink")廣播劇CD及[DVD系列](https://zh.wikipedia.org/wiki/DVD "wikilink")。第一集的名稱是『東方M-1漫才大獎賽』，但多數人都稱之為『第1回東方M-1漫才大獎賽』與其他的集數作區分。
 
   - [東方M-1漫才大獎賽](https://web.archive.org/web/20100322230026/http://yellow-zebra.com/cd/yzcd0003.php)（2007年5月20日，例大祭4）
   - [第2回東方M‐1漫才大獎賽](https://web.archive.org/web/20100323074302/http://yellow-zebra.com/cd/yzcd0006.php)（2007年12月31日，C73）
   - [第3回東方M‐1漫才大獎賽](https://web.archive.org/web/20100322231726/http://www.yellow-zebra.com/cd/yzdvd0001.php)（2008年12月31日，C75）
   - [第4回東方M‐1漫才大獎賽](https://web.archive.org/web/20100218153349/http://yellow-zebra.com/cd/yzdvd0002.php)（2009年12月30日，C77）
+  - 第5回東方M‐1漫才大獎賽（2010年12月30日，C79）
+  - 第6回東方M‐1漫才大獎賽（2011年12月30日，C81）
 
-第5回東方M‐1漫才大獎賽（2010年12月30日，C79） 第6回東方M‐1漫才大獎賽（2011年12月30日，C81）
-至此，Yellow-Zebra正式解散。以下为R-note创作的： 第7回東方M‐1漫才大獎賽（2012年12月30日，C83）
-第8回東方M‐1漫才大獎賽（2013年12月30日，C85）
+至此，Yellow-Zebra正式解散。以下为R-note创作的：
+
+  - 第7回東方M‐1漫才大獎賽（2012年12月30日，C83）
+  - 第8回東方M‐1漫才大獎賽（2013年12月30日，C85）
+  - 第9回東方M‐1漫才大獎賽（2014年12月29日，C87）
+  - 第10回東方M‐1漫才大獎賽（2015年12月30日，C89）
+  - 第11回東方M‐1漫才大獎賽（2016年12月29日，C91）
+  - 第12回東方M‐1漫才大獎賽（2017年12月29日，C93）
+  - 東方M-1漫才大獎賽EX 博麗神社漫才夏祭（2017年8月10日，C94）
+  - 第13回東方M‐1漫才大獎賽（2018年12月30日，C95）
 
 ### 其他有參與的作品
 
@@ -119,7 +128,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
   -
     男性。在Yellow
     Zebra內主要擔任音樂[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作](https://zh.wikipedia.org/wiki/作曲 "wikilink")/[編曲及](https://zh.wikipedia.org/wiki/編曲 "wikilink")[樂器演奏](https://zh.wikipedia.org/wiki/樂器演奏 "wikilink")\[5\]。在東方M-1漫才大獎賽系列擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。
-    自12歲就已經作為一名[結他手參加過不同的組合](https://zh.wikipedia.org/wiki/結他 "wikilink")，並且因為興趣而接觸過更多的樂器\[6\]。現在本人在一個原創樂隊中擔任歌手、結他手、作詞、作曲以及[鼓手等等](../Page/鼓.md "wikilink")，還作為一名作詞家為其他個人樂曲或團體作詞\[7\]。
+    自12歲就已經作為一名[結他手參加過不同的組合](https://zh.wikipedia.org/wiki/結他 "wikilink")，並且因為興趣而接觸過更多的樂器\[6\]。現在本人在一個原創樂隊中擔任歌手、結他手、作詞、作曲以及[鼓](../Page/鼓.md "wikilink")手等等，還作為一名作詞家為其他個人樂曲或團體作詞\[7\]。
 
 <!-- end list -->
 
@@ -139,8 +148,8 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    女性。Yellow-Zebra看板[歌手之一](../Page/歌手.md "wikilink")。出演『第1回東方M-1漫才大獎賽』時使用「」的名義，而往後出演『東方M‐1漫才大獎賽系列』以及歌唱時則使用「」的名義。在東方M-1漫才大獎賽系列主要演出**愛莉絲·瑪嘉托洛伊德**、**八雲藍**等角色。
-    歌唱上較擅長高音，其高音甚至被其他成員稱為「藤宮高音」，うっちー也說她自己發不出那麼高的聲音，因此由季所唱的歌大多都對聲線之高有很大的要求。她的同學和朋友都說她的聲音很有特徵，連芳葉和らんてぃ也同意，不過由季的母親則說「明明聲音沒有甚麼特徵為甚麼還能擔當到[聲優呢](../Page/聲優.md "wikilink")？」（），本人也自問「有特徵嗎？」（），似乎對自己聲線沒有甚麼自覺。
+    女性。Yellow-Zebra看板[歌手](../Page/歌手.md "wikilink")之一。出演『第1回東方M-1漫才大獎賽』時使用「」的名義，而往後出演『東方M‐1漫才大獎賽系列』以及歌唱時則使用「」的名義。在東方M-1漫才大獎賽系列主要演出**愛莉絲·瑪嘉托洛伊德**、**八雲藍**等角色。
+    歌唱上較擅長高音，其高音甚至被其他成員稱為「藤宮高音」，うっちー也說她自己發不出那麼高的聲音，因此由季所唱的歌大多都對聲線之高有很大的要求。她的同學和朋友都說她的聲音很有特徵，連芳葉和らんてぃ也同意，不過由季的母親則說「明明聲音沒有甚麼特徵為甚麼還能擔當到[聲優](../Page/聲優.md "wikilink")呢？」（），本人也自問「有特徵嗎？」（），似乎對自己聲線沒有甚麼自覺。
     因為在製作者對談中經常都很活躍發言，所以芳葉和らんてぃ說她是「說很多話的歌手」（）。當對談中有人問「藤宮由季是怎樣的人啊？」（）時，Yellow
     Zebra同組織所屬的ねね就形容她是「喜歡掛上紅眼鏡的小貓的人」（）「經常散發粉紅之氣的人」（）「如其聲所示之人」（）等等。
     此外，由季本人居住在首都圈之中，只有錄音的時候才會前往Yellow Zebra所在的福岡。

@@ -1,5 +1,5 @@
-**ALIVE\&KICKING**是[日本女](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈第](../Page/水樹奈奈.md "wikilink")4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2004年12月8日由[King
-Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。本作是[矢吹俊郎第三張為水樹奈奈監製的專輯](../Page/矢吹俊郎.md "wikilink")。
+**ALIVE\&KICKING**是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2004年12月8日由[King
+Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。本作是[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")第三張為水樹奈奈監製的專輯。
 
 ## 收錄曲
 
@@ -20,7 +20,7 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。本作�
 5.  Tears' Night
 
       - 作詞：[ゆうまお](https://zh.wikipedia.org/wiki/ゆうまお "wikilink")；作曲、編曲：[上松範康](../Page/上松範康.md "wikilink")
-      - [上松範康的出現](../Page/上松範康.md "wikilink")，主導了2005年之後水樹的本格樂風
+      - [上松範康](../Page/上松範康.md "wikilink")的出現，主導了2005年之後水樹的本格樂風
 
 6.    - 作詞：矢吹俊郎；作曲、編曲：大平勉
 

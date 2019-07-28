@@ -1,6 +1,6 @@
 **Kcalc**是一個[計算器程式](https://zh.wikipedia.org/wiki/計算器 "wikilink")。在預設情況下它提供基本的計算功能。
 
-額外的按鈕用於科學和工程計算（如三角函數和對數函數），統計數據和邏輯功能可以根據需要啟用。有6個額外的按鈕可被預設為[數學常數和](https://zh.wikipedia.org/wiki/數學常數 "wikilink")[物理常數或自定值](../Page/物理常數.md "wikilink")。
+額外的按鈕用於科學和工程計算（如三角函數和對數函數），統計數據和邏輯功能可以根據需要啟用。有6個額外的按鈕可被預設為[數學常數和](https://zh.wikipedia.org/wiki/數學常數 "wikilink")[物理常數](../Page/物理常數.md "wikilink")或自定值。
 
 ## 功能
 

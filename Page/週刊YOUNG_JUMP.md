@@ -1,5 +1,5 @@
 《**週刊YOUNG JUMP**》（《WEEKLY YOUNG
-JUMP》）是由[日本](../Page/日本.md "wikilink")[集英社发行的](../Page/集英社.md "wikilink")[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。
+JUMP》）是由[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")发行的[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。
 于1979年5月半月刊《YOUNG JUMP》创刊、1981年随着週刊化杂志名也变更为《週刊YOUNG
 JUMP》。逢星期四发售。简称为《YOUNG
 J》或《YJ》。也是日本歷史上目前刊行最久的週刊青年漫畫雜誌。
@@ -299,13 +299,13 @@ JUMP（）](http://tonarinoyj.jp/)。
 
   - [孔雀王](../Page/孔雀王.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
 
-  - [孔雀王-退魔圣传](../Page/孔雀王.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
+  - [孔雀王](../Page/孔雀王.md "wikilink")-退魔圣传（[荻野真](../Page/荻野真.md "wikilink")）
 
   - [电脑启示录](https://zh.wikipedia.org/wiki/电脑启示录 "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
 
   - [變異體少女](https://zh.wikipedia.org/wiki/變異體少女 "wikilink")（[冈本伦](https://zh.wikipedia.org/wiki/冈本伦 "wikilink")）
 
-  - [我太太是高中生](../Page/我太太是高中生.md "wikilink")（こばやしひよこ）
+  - [我太太是高中生](../Page/我太太是高中生.md "wikilink")（[小林雛](../Page/小林雛.md "wikilink")）
 
   - [酷哥辣妹搜查网](https://zh.wikipedia.org/wiki/酷哥辣妹搜查网 "wikilink")（[小手川瑜亚](https://zh.wikipedia.org/wiki/小手川瑜亚 "wikilink")）
 

@@ -1,5 +1,5 @@
 **The
-Pillows**是一个于1989年组成的日本的[摇滚乐队](../Page/摇滚.md "wikilink")。目前由山中泽男、真鍋吉明、佐藤信一郎等三人組成。
+Pillows**是一个于1989年组成的日本的[摇滚](../Page/摇滚.md "wikilink")乐队。目前由山中泽男、真鍋吉明、佐藤信一郎等三人組成。
 
 ## 成员资料
 
@@ -69,7 +69,7 @@ Pillows**是一个于1989年组成的日本的[摇滚乐队](../Page/摇滚.md "
 
 The
 Pillows于1989年9月16日在北海道组成，成员有上田健二、山中泽男、真锅吉明和佐藤信一郎。1993年队长上田离队。1999年，The
-Pillows为日本动画制作公司[GAINAX的动画](../Page/GAINAX.md "wikilink")**[FLCL](../Page/FLCL.md "wikilink")**配乐，这使The
+Pillows为日本动画制作公司[GAINAX](../Page/GAINAX.md "wikilink")的动画**[FLCL](../Page/FLCL.md "wikilink")**配乐，这使The
 Pillows在欧美及其他国家造成了很大的影响。
 
 ## 简介

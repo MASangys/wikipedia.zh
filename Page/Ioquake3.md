@@ -12,7 +12,7 @@ Guns开发组正在向此引擎迈进](../Page/Smokin'_Guns.md "wikilink")。
 
   - 支持[IPV6和](https://zh.wikipedia.org/wiki/IPV6 "wikilink")[VoIP](../Page/VoIP.md "wikilink")
   - [Ogg Vorbis支持](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")
-  - [OpenAL音频渲染](../Page/OpenAL.md "wikilink")，支持5.1/7.1声道，改进音效
+  - [OpenAL](../Page/OpenAL.md "wikilink")音频渲染，支持5.1/7.1声道，改进音效
   - 通过[cURL实现](https://zh.wikipedia.org/wiki/cURL "wikilink")[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[FTP下载数据包](https://zh.wikipedia.org/wiki/FTP "wikilink")
   - [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink") 的后台支持
   - [x86 64支持](https://zh.wikipedia.org/wiki/x86_64 "wikilink")

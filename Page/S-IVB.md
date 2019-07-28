@@ -32,7 +32,7 @@
 </tbody>
 </table>
 
-**S-IVB**（读作"S-four-B"）是由[道格拉斯飞行器公司制造的火箭级](../Page/道格拉斯飞行器公司.md "wikilink")，使用一台J-2发动机，用作[土星五号第三级和](https://zh.wikipedia.org/wiki/土星五号 "wikilink")[土星一号B的第二级](https://zh.wikipedia.org/wiki/土星一号B "wikilink")。登月时S-IVB点火两次，一次使飞船[入轨](../Page/近地轨道.md "wikilink")，第二次进行。
+**S-IVB**（读作"S-four-B"）是由[道格拉斯飞行器公司](../Page/道格拉斯飞行器公司.md "wikilink")制造的火箭级，使用一台J-2发动机，用作[土星五号第三级和](https://zh.wikipedia.org/wiki/土星五号 "wikilink")[土星一号B的第二级](https://zh.wikipedia.org/wiki/土星一号B "wikilink")。登月时S-IVB点火两次，一次使飞船[入轨](../Page/近地轨道.md "wikilink")，第二次进行。
 
 ## 历史
 
@@ -40,7 +40,7 @@ S-IVB是从[土星一号的上面级](https://zh.wikipedia.org/wiki/土星一号
 
 在1960年2月29日招标截止日期前，共有11家公司递交了意向书。4月19日，NASA主席[基思·格莱南](https://zh.wikipedia.org/wiki/基思·格莱南 "wikilink")（T.
 Keith
-Glennan）宣布由道格拉斯负责制造，本来[康维尔公司](../Page/康维尔.md "wikilink")（Convair）的标书仅在道格拉斯之下，但康维尔已经获得了[半人马座上面级的订单](https://zh.wikipedia.org/wiki/半人马座上面级 "wikilink")，格莱南不希望康维尔一家垄断液氢火箭市场。
+Glennan）宣布由道格拉斯负责制造，本来[康维尔](../Page/康维尔.md "wikilink")公司（Convair）的标书仅在道格拉斯之下，但康维尔已经获得了[半人马座上面级的订单](https://zh.wikipedia.org/wiki/半人马座上面级 "wikilink")，格莱南不希望康维尔一家垄断液氢火箭市场。
 
 后来，[马歇尔航天飞行中心决定在三级火箭C](https://zh.wikipedia.org/wiki/马歇尔航天飞行中心 "wikilink")-5（即土星五号的前称）的第三级使用增强型S-IV，即S-IVB，只使用一台J-2，而不需要发动机群。由于它和S-IV的相似性，这次生产合同还是交给道格拉斯。同时，另有计划研发使用S-IVB作第二级的C-IB火箭（土星一号B）来将阿波罗飞船发射到地球轨道进行测试。
 
@@ -52,11 +52,11 @@ S-IVB可携带73,280升（19,359 U.S.加仑）液氧，共重87,200 kg（192,243
 252,750升（66,770 U.S.加仑）液氢，共重18,000 Kg（39,683
 lbs）[1](http://history.nasa.gov/SP-4206/ch6.htm)
 
-一节未使用的S-IVB级被改造为[美国第一座太空站](../Page/美国.md "wikilink")[天空实验室](https://zh.wikipedia.org/wiki/天空实验室 "wikilink")。
+一节未使用的S-IVB级被改造为[美国](../Page/美国.md "wikilink")第一座太空站[天空实验室](https://zh.wikipedia.org/wiki/天空实验室 "wikilink")。
 [As7-3-1545.jpg](https://zh.wikipedia.org/wiki/File:As7-3-1545.jpg "fig:As7-3-1545.jpg")
-[阿波罗13号](../Page/阿波罗13号.md "wikilink")、[阿波罗14号](../Page/阿波罗14号.md "wikilink")、[阿波罗15号](../Page/阿波罗15号.md "wikilink")、[阿波罗16号和](../Page/阿波罗16号.md "wikilink")[阿波罗17号任务期间](../Page/阿波罗17号.md "wikilink")，S-IVB级都坠毁在月球，通过人造“月震”来研究月球内部结构。
+[阿波罗13号](../Page/阿波罗13号.md "wikilink")、[阿波罗14号](../Page/阿波罗14号.md "wikilink")、[阿波罗15号](../Page/阿波罗15号.md "wikilink")、[阿波罗16号](../Page/阿波罗16号.md "wikilink")和[阿波罗17号](../Page/阿波罗17号.md "wikilink")任务期间，S-IVB级都坠毁在月球，通过人造“月震”来研究月球内部结构。
 
-研发中的[地球出发级和](../Page/地球出发级.md "wikilink")[战神一号的第二级都将继承S](https://zh.wikipedia.org/wiki/战神一号 "wikilink")-IVB的一些技术，都将采用一台J-2的升级版J-2X发动机，地球出发级的功能也与500系列相似，一次点火使载荷入轨，二次点火进入地月转移轨道。
+研发中的[地球出发级](../Page/地球出发级.md "wikilink")和[战神一号的第二级都将继承S](https://zh.wikipedia.org/wiki/战神一号 "wikilink")-IVB的一些技术，都将采用一台J-2的升级版J-2X发动机，地球出发级的功能也与500系列相似，一次点火使载荷入轨，二次点火进入地月转移轨道。
 
 <center>
 

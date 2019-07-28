@@ -2,7 +2,7 @@
 TMS-环戊烯成环反应**（Danheiser TMS-Cyclopentene
 annulation）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-α,β-[不饱和](https://zh.wikipedia.org/wiki/不饱和 "wikilink")[酮与三](../Page/酮.md "wikilink")[烃基](https://zh.wikipedia.org/wiki/烃基 "wikilink")[硅基](https://zh.wikipedia.org/wiki/硅基 "wikilink")（如[三甲基硅基](../Page/三甲基硅基.md "wikilink")、[三异丙基硅基](https://zh.wikipedia.org/wiki/三异丙基硅基 "wikilink")）[丙二烯在](../Page/丙二烯.md "wikilink")[路易斯酸存在下发生反应](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")，生成三烃基硅基[环戊烯](../Page/环戊烯.md "wikilink")。
+α,β-[不饱和](https://zh.wikipedia.org/wiki/不饱和 "wikilink")[酮](../Page/酮.md "wikilink")与三[烃基](https://zh.wikipedia.org/wiki/烃基 "wikilink")[硅基](https://zh.wikipedia.org/wiki/硅基 "wikilink")（如[三甲基硅基](../Page/三甲基硅基.md "wikilink")、[三异丙基硅基](https://zh.wikipedia.org/wiki/三异丙基硅基 "wikilink")）[丙二烯](../Page/丙二烯.md "wikilink")在[路易斯酸存在下发生反应](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")，生成三烃基硅基[环戊烯](../Page/环戊烯.md "wikilink")。
 
 
 [DanheiserAnnulation03.png](https://zh.wikipedia.org/wiki/File:DanheiserAnnulation03.png "fig:DanheiserAnnulation03.png")

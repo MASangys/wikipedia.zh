@@ -1,6 +1,6 @@
 是過去曾經存在的[遊戲軟體製作](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[公司](../Page/公司.md "wikilink")，2001年[破產](../Page/破產.md "wikilink")。
 
-1985年（昭和60年）設立，在[成人遊戲界具有相當的的歷史](../Page/日本成人遊戲.md "wikilink")，名字由來是因「JAST」等的成人遊戲[品牌設立而來](../Page/品牌.md "wikilink")。代表作《[天使們的午後](../Page/天使們的午後.md "wikilink")》系列被稱作十八禁冒險遊戲始祖。
+1985年（昭和60年）設立，在[成人遊戲界具有相當的的歷史](../Page/日本成人遊戲.md "wikilink")，名字由來是因「JAST」等的成人遊戲[品牌](../Page/品牌.md "wikilink")設立而來。代表作《[天使們的午後](../Page/天使們的午後.md "wikilink")》系列被稱作十八禁冒險遊戲始祖。
 
 1987年股份有限公司（當時為有限公司）、1996年有限公司獨立。「Purple」在2001年讓給了股份有限公司，名稱變更為[Purple
 software](../Page/Purple_software.md "wikilink")。
@@ -24,7 +24,7 @@ software](../Page/Purple_software.md "wikilink")。
 
 <!-- end list -->
 
-  - 1985年7月〜1998年5月29日 [天使們的午後系列](../Page/天使們的午後.md "wikilink")
+  - 1985年7月〜1998年5月29日 [天使們的午後](../Page/天使們的午後.md "wikilink")系列
   - 1986年 -
   - 1986年7月 -
   - 1987年7月 -  〜STAR TRAP〜

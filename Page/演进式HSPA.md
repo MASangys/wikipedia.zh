@@ -2,9 +2,9 @@
 HSPA，常简称为**HSPA+**），定義於[3GPP](../Page/3GPP.md "wikilink")
 release 7。
 
-在使用[MIMO技術以及更高速的](../Page/MIMO.md "wikilink")[調變技術下](../Page/調變.md "wikilink")，HSPA+提供HSPA的數據傳輸率達到下行42Mbit/s以及上行23Mbit/s,這種技術現在被稱為DC-HSPA+。
+在使用[MIMO](../Page/MIMO.md "wikilink")技術以及更高速的[調變](../Page/調變.md "wikilink")技術下，HSPA+提供HSPA的數據傳輸率達到下行42Mbit/s以及上行23Mbit/s,這種技術現在被稱為DC-HSPA+。
 
-2008年下半季，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[集成电路设计公司](../Page/集成电路设计.md "wikilink")[高通宣布完成全球第一個使用HSPA](../Page/高通.md "wikilink")+的數據呼叫（Data
+2008年下半季，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[集成电路设计](../Page/集成电路设计.md "wikilink")公司[高通](../Page/高通.md "wikilink")宣布完成全球第一個使用HSPA+的數據呼叫（Data
 Call）技術。這項技術將得以在带宽为5MHz的信道上，提供超過20Mbps的数据傳輸速率\[1\]。
 
 ## 注釋

@@ -1,8 +1,8 @@
-**草薙車站**\[1\]（）是一由[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[靜岡市](../Page/靜岡市.md "wikilink")[清水區](../Page/清水區_\(日本\).md "wikilink")[草薙](https://zh.wikipedia.org/wiki/草薙 "wikilink")。草薙車站是JR東海所屬的[東海道本線沿線的車站之一](../Page/東海道本線.md "wikilink")，是個設有[綠窗口的JR東海](../Page/綠窗口.md "wikilink")[直營車站](https://zh.wikipedia.org/wiki/直營車站 "wikilink")。
+**草薙車站**\[1\]（）是一由[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[靜岡市](../Page/靜岡市.md "wikilink")[清水區](../Page/清水區_\(日本\).md "wikilink")[草薙](https://zh.wikipedia.org/wiki/草薙 "wikilink")。草薙車站是JR東海所屬的[東海道本線](../Page/東海道本線.md "wikilink")沿線的車站之一，是個設有[綠窗口](../Page/綠窗口.md "wikilink")的JR東海[直營車站](https://zh.wikipedia.org/wiki/直營車站 "wikilink")。
 
-草薙車站所在的靜岡市草薙地區，相傳是與日本上古神話中[三神器之一的](../Page/三神器.md "wikilink")「[草薙劍](https://zh.wikipedia.org/wiki/草薙劍 "wikilink")」（又名「天叢雲劍」）有關之地。在車站附近不遠處也可看到傳說曾祭奉過神劍的[草薙神社](https://zh.wikipedia.org/wiki/草薙神社 "wikilink")。
+草薙車站所在的靜岡市草薙地區，相傳是與日本上古神話中[三神器](../Page/三神器.md "wikilink")之一的「[草薙劍](https://zh.wikipedia.org/wiki/草薙劍 "wikilink")」（又名「天叢雲劍」）有關之地。在車站附近不遠處也可看到傳說曾祭奉過神劍的[草薙神社](https://zh.wikipedia.org/wiki/草薙神社 "wikilink")。
 
-在距離JR東海草薙車站約3分鐘步行距離處，可以見到[靜岡鐵道](https://zh.wikipedia.org/wiki/靜岡鐵道 "wikilink")[靜岡清水線沿線的](../Page/靜岡清水線.md "wikilink")[同名車站](https://zh.wikipedia.org/wiki/草薙車站_\(靜岡鐵道\) "wikilink")，是兩系統之間的主要轉車點之一。
+在距離JR東海草薙車站約3分鐘步行距離處，可以見到[靜岡鐵道](https://zh.wikipedia.org/wiki/靜岡鐵道 "wikilink")[靜岡清水線](../Page/靜岡清水線.md "wikilink")沿線的[同名車站](https://zh.wikipedia.org/wiki/草薙車站_\(靜岡鐵道\) "wikilink")，是兩系統之間的主要轉車點之一。
 
 ## 車站結構
 

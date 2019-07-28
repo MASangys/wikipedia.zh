@@ -7,7 +7,7 @@ Betacam](../Page/Betacam.md "wikilink")，使用8位元[DCT](https://zh.wikipedi
 PsF模式。HDCAM編解碼器使用非正方形像素及在播放1440×1080錄影內容時上升取樣至1920×1080格式播放。錄影位元率為144
 Mbit/s，音訊近乎一樣，以4聲道AES/EBU 20-bit/48 kHz數碼音訊收錄。
 
-如[Betacam一樣](../Page/Betacam.md "wikilink")，HDCAM影帶有小型及大型兩款，外型如Betamax一樣。
+如[Betacam](../Page/Betacam.md "wikilink")一樣，HDCAM影帶有小型及大型兩款，外型如Betamax一樣。
 
 HDCAM的主要競爭對手為[Panasonic的DVCPRO](https://zh.wikipedia.org/wiki/Panasonic "wikilink")
 HD格式，它使用相似的壓縮系統，位元率則視乎影格速率，由40至100 Mbit/s不等。
@@ -26,7 +26,7 @@ Profile規格壓縮\[4\]，及擴展音訊聲道至十二條，同樣以48 kHz/2
 
 HDCAM SR常用在高清電視製作。至2007年，很多黃金時間電視節目都用HDCAM SR作母帶格式。
 
-有些HDCAM SR錄影機可播放舊的[Betacam各種格式錄影帶](../Page/Betacam.md "wikilink")，例如Sony
+有些HDCAM SR錄影機可播放舊的[Betacam](../Page/Betacam.md "wikilink")各種格式錄影帶，例如Sony
 SRW-5500 HDCAM SR錄影機，可播放及錄影HDCAM及HDCAM SR錄影帶，加上附加元件可播放及增線Digital
 Betacam錄影帶至高清格式。和Digital
 Betacam一樣，小型影帶長度至40分鐘，大型影帶則124分鐘，在24p模式時更可分別增加至50及155分鐘。

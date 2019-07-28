@@ -31,7 +31,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
     原居住於奧布的太空殖民地「海利歐波里斯」，之後因為札夫特發動攻擊使得海利歐波里斯淪陷而被迫捲入戰火。
 
-    其雙胞姐姐為出身自歐普的[卡佳里·尤拉·阿斯哈](https://zh.wikipedia.org/wiki/卡佳里·尤拉·阿斯哈 "wikilink")；第一季後期與[拉克絲·克萊因發展為戀人關係](../Page/拉克絲·克萊因.md "wikilink")。
+    其雙胞姐姐為出身自歐普的[卡佳里·尤拉·阿斯哈](https://zh.wikipedia.org/wiki/卡佳里·尤拉·阿斯哈 "wikilink")；第一季後期與[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")發展為戀人關係。
 
     生父響博士將他當作「人造子宮」的實驗體，卻得到前所未有的成功，而成為他口中所謂的「最完美的調整者」。
 
@@ -55,7 +55,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
     他也是PLANT最高評議會成員（後升任為議長）派屈克·薩拉的獨生子，其母於地球軍發動的「血腥情人節」事件中喪生。
 
-    原為[拉克絲·克萊因的婚約人](../Page/拉克絲·克萊因.md "wikilink")（實際上為政治聯姻），之後因為派屈克認為[拉克絲·克萊因背叛PLANT而中止](../Page/拉克絲·克萊因.md "wikilink")，[拉克絲·克萊因後來與煌發展成戀人關係](../Page/拉克絲·克萊因.md "wikilink")。
+    原為[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")的婚約人（實際上為政治聯姻），之後因為派屈克認為[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")背叛PLANT而中止，[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")後來與煌發展成戀人關係。
 
     第一季後期與[卡佳里·尤拉·阿斯哈發展成戀人關係](https://zh.wikipedia.org/wiki/卡佳里·尤拉·阿斯哈 "wikilink")。
 
@@ -129,13 +129,13 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
   -
     拉烏·魯·克魯澤是[Z.A.F.T.克魯澤小隊的指揮官](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，為了隱藏素顏，平常總是戴著假面示人，而被稱呼為「假面之男」。故事開端即率領[阿斯蘭·薩拉等人於中立國](../Page/阿斯兰·萨拉.md "wikilink")[歐普的資源](https://zh.wikipedia.org/wiki/歐普 "wikilink")[衛星](../Page/衛星.md "wikilink")[殖民地](../Page/殖民地.md "wikilink")「海利歐波里斯」成功強奪[大西洋聯邦開發的](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")[G兵器五機中的四機](https://zh.wikipedia.org/wiki/G兵器 "wikilink")，此後執拗地追擊[攻擊鋼彈與新造艦](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")[大天使號](../Page/LCAM-01XA_Archangel.md "wikilink")。
-    其假面下的真面目為[穆·拉·福拉卡之父](https://zh.wikipedia.org/wiki/穆·拉·弗拉加 "wikilink")‧[亞爾·達·福拉卡的](https://zh.wikipedia.org/wiki/亞爾·達·福拉卡 "wikilink")[複製人](../Page/克隆人.md "wikilink")，此事須追溯至[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")46年，[悠連·響博士研究人工](https://zh.wikipedia.org/wiki/悠連·響 "wikilink")[子宮不順利](https://zh.wikipedia.org/wiki/子宮 "wikilink")，研究資金困難；亞爾便找上響博士表達願提供援助，交換條件是響博士必須為他製作自己的[複製人](../Page/克隆人.md "wikilink")。由於亞爾認為獨生子的穆不足以成為福拉卡家族的繼承人，故希望能複製出最優秀的自己，完成長生不死的夢。儘管複製、創造人類的行為是違法的，響博士最初面露難色，但在亞爾的威脅利誘以及對[超級調整者的渴望下](https://zh.wikipedia.org/wiki/超級調整者 "wikilink")，結果仍接受其條件。然而，由於複製技術的不成熟，響博士仍無法解決技術上[染色體端粒](https://zh.wikipedia.org/wiki/染色體 "wikilink")[基因縮短的問題](../Page/基因.md "wikilink")，身體會迅速老化是[體細胞複製的宿命](https://zh.wikipedia.org/wiki/體細胞 "wikilink")。[複製人年紀輕輕就得面對提早死亡的恐懼以及自己這張布滿皺紋的老臉](../Page/克隆人.md "wikilink")，只能長期服用抗老化藥物來延緩，沒有夢想也沒有未來。因此拉烏認為自己有制裁全人類的權力，即[白老鼠的復仇](https://zh.wikipedia.org/wiki/白老鼠 "wikilink")。拉烏作為「失敗品」被帶回福拉卡家，與穆成為兄弟面對面生活一段時間，期間名字不詳。然而，亞爾對於這個「失敗品」十分失望，拉烏亦憎恨亞爾拋棄了自己這個誕生於不幸的身體，無法抑制自己的憎惡之心，於後年縱火燒毀福拉卡邸，福拉卡夫婦死亡。之後拉烏便以拉烏·魯·克魯澤之名活著並前往[P.L.A.N.T](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")。
-    雖有缺陷，拉烏仍繼承福拉卡家族遺傳的才能，擁有異於常人的直覺和強大的[空間認識能力](https://zh.wikipedia.org/wiki/空間認識能力 "wikilink")，較穆更接近亞爾。除了天份，或許還有復仇的執念，拉烏以優秀的駕駛員資質存活下來。[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")68年，適逢[P.L.A.N.T在](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")[Z.A.F.T.建軍時入伍](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，於駕駛員養成課程中以優秀成績終業並獲得了菁英證明的赤服（[Z.A.F.T.紅衣](https://zh.wikipedia.org/wiki/ZAFT "wikilink")），拉烏很快地就在[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年爆發的[血腥情人節戰爭中出陣](https://zh.wikipedia.org/wiki/血腥情人節戰爭 "wikilink")，且作為毫不遜於[調整者的王牌駕駛員嶄露頭角](https://zh.wikipedia.org/wiki/调整者_\(GUNDAM\) "wikilink")。與此同時，他遇見了後來就任[P.L.A.N.T最高評議會議長的](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")[基因工程學者](../Page/基因.md "wikilink")[吉伯特·杜蘭朵](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")，杜蘭朵供應拉烏其特製的抗老化藥物。不過，兩人之所以關係密切，似乎是因為拉烏是唯一願意傾聽杜蘭朵發表高論的人；儘管兩人理念完全相反，仍時常針對「[世界](../Page/世界.md "wikilink")」、「[人類](../Page/人類.md "wikilink")」等主題進行對話。同時期，拉烏將與自己同樣作為[亞爾·達·福拉卡複製人的](https://zh.wikipedia.org/wiki/亞爾·達·福拉卡 "wikilink")[雷·札·巴雷爾接回來保護著](https://zh.wikipedia.org/wiki/尼爾·乍·巴里路 "wikilink")。另外，時間點不明，拉烏發現可謂是[超級調整者](https://zh.wikipedia.org/wiki/超級調整者 "wikilink")[煌·大和的原型](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")[卡納德·帕爾斯](https://zh.wikipedia.org/wiki/卡納德·帕爾斯 "wikilink")，增加他對煌的敵意。
+    其假面下的真面目為[穆·拉·福拉卡之父](https://zh.wikipedia.org/wiki/穆·拉·弗拉加 "wikilink")‧[亞爾·達·福拉卡的](https://zh.wikipedia.org/wiki/亞爾·達·福拉卡 "wikilink")[複製人](../Page/克隆人.md "wikilink")，此事須追溯至[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")46年，[悠連·響博士研究人工](https://zh.wikipedia.org/wiki/悠連·響 "wikilink")[子宮不順利](https://zh.wikipedia.org/wiki/子宮 "wikilink")，研究資金困難；亞爾便找上響博士表達願提供援助，交換條件是響博士必須為他製作自己的[複製人](../Page/克隆人.md "wikilink")。由於亞爾認為獨生子的穆不足以成為福拉卡家族的繼承人，故希望能複製出最優秀的自己，完成長生不死的夢。儘管複製、創造人類的行為是違法的，響博士最初面露難色，但在亞爾的威脅利誘以及對[超級調整者的渴望下](https://zh.wikipedia.org/wiki/超級調整者 "wikilink")，結果仍接受其條件。然而，由於複製技術的不成熟，響博士仍無法解決技術上[染色體端粒](https://zh.wikipedia.org/wiki/染色體 "wikilink")[基因](../Page/基因.md "wikilink")縮短的問題，身體會迅速老化是[體細胞複製的宿命](https://zh.wikipedia.org/wiki/體細胞 "wikilink")。[複製人年紀輕輕就得面對提早死亡的恐懼以及自己這張布滿皺紋的老臉](../Page/克隆人.md "wikilink")，只能長期服用抗老化藥物來延緩，沒有夢想也沒有未來。因此拉烏認為自己有制裁全人類的權力，即[白老鼠的復仇](https://zh.wikipedia.org/wiki/白老鼠 "wikilink")。拉烏作為「失敗品」被帶回福拉卡家，與穆成為兄弟面對面生活一段時間，期間名字不詳。然而，亞爾對於這個「失敗品」十分失望，拉烏亦憎恨亞爾拋棄了自己這個誕生於不幸的身體，無法抑制自己的憎惡之心，於後年縱火燒毀福拉卡邸，福拉卡夫婦死亡。之後拉烏便以拉烏·魯·克魯澤之名活著並前往[P.L.A.N.T](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")。
+    雖有缺陷，拉烏仍繼承福拉卡家族遺傳的才能，擁有異於常人的直覺和強大的[空間認識能力](https://zh.wikipedia.org/wiki/空間認識能力 "wikilink")，較穆更接近亞爾。除了天份，或許還有復仇的執念，拉烏以優秀的駕駛員資質存活下來。[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")68年，適逢[P.L.A.N.T在](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")[Z.A.F.T.建軍時入伍](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，於駕駛員養成課程中以優秀成績終業並獲得了菁英證明的赤服（[Z.A.F.T.紅衣](https://zh.wikipedia.org/wiki/ZAFT "wikilink")），拉烏很快地就在[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年爆發的[血腥情人節戰爭中出陣](https://zh.wikipedia.org/wiki/血腥情人節戰爭 "wikilink")，且作為毫不遜於[調整者的王牌駕駛員嶄露頭角](https://zh.wikipedia.org/wiki/调整者_\(GUNDAM\) "wikilink")。與此同時，他遇見了後來就任[P.L.A.N.T最高評議會議長的](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")[基因](../Page/基因.md "wikilink")工程學者[吉伯特·杜蘭朵](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")，杜蘭朵供應拉烏其特製的抗老化藥物。不過，兩人之所以關係密切，似乎是因為拉烏是唯一願意傾聽杜蘭朵發表高論的人；儘管兩人理念完全相反，仍時常針對「[世界](../Page/世界.md "wikilink")」、「[人類](../Page/人類.md "wikilink")」等主題進行對話。同時期，拉烏將與自己同樣作為[亞爾·達·福拉卡複製人的](https://zh.wikipedia.org/wiki/亞爾·達·福拉卡 "wikilink")[雷·札·巴雷爾接回來保護著](https://zh.wikipedia.org/wiki/尼爾·乍·巴里路 "wikilink")。另外，時間點不明，拉烏發現可謂是[超級調整者](https://zh.wikipedia.org/wiki/超級調整者 "wikilink")[煌·大和的原型](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")[卡納德·帕爾斯](https://zh.wikipedia.org/wiki/卡納德·帕爾斯 "wikilink")，增加他對煌的敵意。
     [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年2月22日的[世界樹攻防戰](https://zh.wikipedia.org/wiki/世界樹 "wikilink")，以[MS擊破](https://zh.wikipedia.org/wiki/MS "wikilink")[MA](https://zh.wikipedia.org/wiki/MA "wikilink")
-    37機、戰艦6艘，如此驚人的戰績被授與相稱的星雲勳章。另外，此時期的拉烏因為[染色體端粒](https://zh.wikipedia.org/wiki/染色體 "wikilink")[基因過短之故](../Page/基因.md "wikilink")，開始將素顏隱藏在假面裏面對自己的老去。接著同年6月2日，搭乘[基恩高機動型的量產型一號機於](https://zh.wikipedia.org/wiki/ZGMF-1017M_Ginn_Type_High-Maneuver "wikilink")[格里馬爾迪戰線摧毀](https://zh.wikipedia.org/wiki/格里馬爾迪戰線 "wikilink")[地球聯合軍第三艦隊](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")，作為頂尖之槍（Top
+    37機、戰艦6艘，如此驚人的戰績被授與相稱的星雲勳章。另外，此時期的拉烏因為[染色體端粒](https://zh.wikipedia.org/wiki/染色體 "wikilink")[基因](../Page/基因.md "wikilink")過短之故，開始將素顏隱藏在假面裏面對自己的老去。接著同年6月2日，搭乘[基恩高機動型的量產型一號機於](https://zh.wikipedia.org/wiki/ZGMF-1017M_Ginn_Type_High-Maneuver "wikilink")[格里馬爾迪戰線摧毀](https://zh.wikipedia.org/wiki/格里馬爾迪戰線 "wikilink")[地球聯合軍第三艦隊](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")，作為頂尖之槍（Top
     Gun）勇往直前的活躍被注意到。這場戰鬥中，拉烏與[穆·拉·福拉卡所屬的](https://zh.wikipedia.org/wiki/穆·拉·弗拉加 "wikilink")[梅比烏斯零式部隊交戰](https://zh.wikipedia.org/wiki/TS-MA2mod.00_Möbius_Zero "wikilink")，此後雙方的因緣存在很長一段時間。這份令人驚異的優秀，周圍的[Z.A.F.T.兵士對他的實力和功績抱持強烈嫉妒的人也不少](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，但沒有人注意到他其實是[自然人](https://zh.wikipedia.org/wiki/自然人 "wikilink")；此事僅有杜蘭朵與雷知曉。
-    [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年，為了向創造自己的世界報復，拉烏利用[地球聯合對](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")[P.L.A.N.T的戰爭](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，追求著升級為全面戰爭乃至於雙方共倒，期望全[人類相互屠殺至滅絕為止](../Page/人類.md "wikilink")。為此拉烏多次努力工作，保持戰局的均衡，以免形成對單方面有利。1月25日，拉烏率領克魯澤小隊侵攻「海利歐波里斯」，奪取[地球聯合軍最新型機動兵器](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")「[G兵器](https://zh.wikipedia.org/wiki/G兵器 "wikilink")」五機中的四機；為[Z.A.F.T.取得](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[PS裝甲與光束兵器小型化的技術](https://zh.wikipedia.org/wiki/PS "wikilink")。接著將「Operation
-    Spitbreak」作戰的標的地是[地球聯合軍統合最高司令部的約書亞](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")（JOSH-A）基地一事洩漏給身為敵方的聯合軍，招致5月8日[Z.A.F.T.部隊在](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[阿拉斯加幾近毀滅的事態](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")。又秘密地入手[Z.A.F.T.最新銳](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")——[正義鋼彈與](https://zh.wikipedia.org/wiki/ZGMF-X09A_Justice "wikilink")[自由鋼彈搭載的中子干擾消除器的資料](../Page/ZGMF-X10A_Freedom.md "wikilink")，再透過俘虜[芙蕾·阿斯達之手將此機密送給](https://zh.wikipedia.org/wiki/芙蕾·阿斯達 "wikilink")[藍色宇宙盟主穆達](https://zh.wikipedia.org/wiki/藍色宇宙 "wikilink")·阿茲萊爾，讓[地球聯合軍重拾核攻擊能力](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")，並在接下來9月23日的波亞茲攻略戰以核彈迅速攻陷[P.L.A.N.T的宇宙要塞波亞茲](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，引發[P.L.A.N.T全體的憤慨](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")。接著聯合軍於9月26至27日的[第二次雅金·杜威攻防戰再次對](https://zh.wikipedia.org/wiki/第二次雅金·杜威攻防戰 "wikilink")[P.L.A.N.T本國發射核彈](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，如此一來便輕易地引導[阿斯蘭·薩拉之父](../Page/阿斯兰·萨拉.md "wikilink")[派屈克·薩拉為報復而下令向聯合軍與](https://zh.wikipedia.org/wiki/派屈克·薩拉 "wikilink")[地球發射伽瑪線](../Page/地球.md "wikilink")[雷射兵器](https://zh.wikipedia.org/wiki/雷射 "wikilink")[創世紀](https://zh.wikipedia.org/wiki/創世_\(鋼彈\) "wikilink")，每一步都是為了報復[人類陷入更恐怖的相互憎恨與屠殺的漩渦中](../Page/人類.md "wikilink")。[第二次雅金·杜威攻防戰的最後](https://zh.wikipedia.org/wiki/第二次雅金·杜威攻防戰 "wikilink")，拉烏親自駕駛[天帝鋼彈出擊](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")，首次實戰操作[龍騎兵系統即展現壓倒的戰鬥能力擊墜多數敵機](https://zh.wikipedia.org/wiki/龍騎兵系統 "wikilink")，並大破[穆的](https://zh.wikipedia.org/wiki/穆·拉·弗拉加 "wikilink")[攻擊鋼彈和](../Page/GAT-X105_突擊高達.md "wikilink")[迪安卡·艾斯曼的](https://zh.wikipedia.org/wiki/迪亞哥·艾爾斯曼 "wikilink")[暴風鋼彈](https://zh.wikipedia.org/wiki/GAT-X103暴風高達 "wikilink")。在與[煌·大和的](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")[自由鋼彈勢均力敵的對決中](../Page/ZGMF-X10A_Freedom.md "wikilink")，擊毀[芙蕾的救生艙](https://zh.wikipedia.org/wiki/芙蕾·阿爾斯達 "wikilink")，芙蕾之死令煌陷入悔恨和痛苦之中。最終與煌死鬥的結果，座機[天帝鋼彈的駕駛艙被](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")[自由鋼彈的光束軍刀刺穿](../Page/ZGMF-X10A_Freedom.md "wikilink")，隨後捲入[創世紀爆炸的風暴中被消滅](https://zh.wikipedia.org/wiki/創世紀 "wikilink")，拉烏戰死。
+    [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年，為了向創造自己的世界報復，拉烏利用[地球聯合對](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")[P.L.A.N.T的戰爭](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，追求著升級為全面戰爭乃至於雙方共倒，期望全[人類](../Page/人類.md "wikilink")相互屠殺至滅絕為止。為此拉烏多次努力工作，保持戰局的均衡，以免形成對單方面有利。1月25日，拉烏率領克魯澤小隊侵攻「海利歐波里斯」，奪取[地球聯合軍最新型機動兵器](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")「[G兵器](https://zh.wikipedia.org/wiki/G兵器 "wikilink")」五機中的四機；為[Z.A.F.T.取得](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[PS裝甲與光束兵器小型化的技術](https://zh.wikipedia.org/wiki/PS "wikilink")。接著將「Operation
+    Spitbreak」作戰的標的地是[地球聯合軍統合最高司令部的約書亞](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")（JOSH-A）基地一事洩漏給身為敵方的聯合軍，招致5月8日[Z.A.F.T.部隊在](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[阿拉斯加幾近毀滅的事態](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")。又秘密地入手[Z.A.F.T.最新銳](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")——[正義鋼彈與](https://zh.wikipedia.org/wiki/ZGMF-X09A_Justice "wikilink")[自由鋼彈搭載的中子干擾消除器的資料](../Page/ZGMF-X10A_Freedom.md "wikilink")，再透過俘虜[芙蕾·阿斯達之手將此機密送給](https://zh.wikipedia.org/wiki/芙蕾·阿斯達 "wikilink")[藍色宇宙盟主穆達](https://zh.wikipedia.org/wiki/藍色宇宙 "wikilink")·阿茲萊爾，讓[地球聯合軍重拾核攻擊能力](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")，並在接下來9月23日的波亞茲攻略戰以核彈迅速攻陷[P.L.A.N.T的宇宙要塞波亞茲](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，引發[P.L.A.N.T全體的憤慨](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")。接著聯合軍於9月26至27日的[第二次雅金·杜威攻防戰再次對](https://zh.wikipedia.org/wiki/第二次雅金·杜威攻防戰 "wikilink")[P.L.A.N.T本國發射核彈](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，如此一來便輕易地引導[阿斯蘭·薩拉之父](../Page/阿斯兰·萨拉.md "wikilink")[派屈克·薩拉為報復而下令向聯合軍與](https://zh.wikipedia.org/wiki/派屈克·薩拉 "wikilink")[地球](../Page/地球.md "wikilink")發射伽瑪線[雷射兵器](https://zh.wikipedia.org/wiki/雷射 "wikilink")[創世紀](https://zh.wikipedia.org/wiki/創世_\(鋼彈\) "wikilink")，每一步都是為了報復[人類](../Page/人類.md "wikilink")陷入更恐怖的相互憎恨與屠殺的漩渦中。[第二次雅金·杜威攻防戰的最後](https://zh.wikipedia.org/wiki/第二次雅金·杜威攻防戰 "wikilink")，拉烏親自駕駛[天帝鋼彈出擊](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")，首次實戰操作[龍騎兵系統即展現壓倒的戰鬥能力擊墜多數敵機](https://zh.wikipedia.org/wiki/龍騎兵系統 "wikilink")，並大破[穆的](https://zh.wikipedia.org/wiki/穆·拉·弗拉加 "wikilink")[攻擊鋼彈和](../Page/GAT-X105_突擊高達.md "wikilink")[迪安卡·艾斯曼的](https://zh.wikipedia.org/wiki/迪亞哥·艾爾斯曼 "wikilink")[暴風鋼彈](https://zh.wikipedia.org/wiki/GAT-X103暴風高達 "wikilink")。在與[煌·大和的](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")[自由鋼彈勢均力敵的對決中](../Page/ZGMF-X10A_Freedom.md "wikilink")，擊毀[芙蕾的救生艙](https://zh.wikipedia.org/wiki/芙蕾·阿爾斯達 "wikilink")，芙蕾之死令煌陷入悔恨和痛苦之中。最終與煌死鬥的結果，座機[天帝鋼彈的駕駛艙被](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")[自由鋼彈的光束軍刀刺穿](../Page/ZGMF-X10A_Freedom.md "wikilink")，隨後捲入[創世紀爆炸的風暴中被消滅](https://zh.wikipedia.org/wiki/創世紀 "wikilink")，拉烏戰死。
     戰後，基於尤尼烏斯條約的安排，[地球聯合與](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")[P.L.A.N.T兩陣營召開](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")[國際法庭審判每個戰犯](https://zh.wikipedia.org/wiki/國際法庭 "wikilink")。此時拉烏在仍是嫌疑人死亡的狀況下被認定為[P.L.A.N.T側的戰爭罪人](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，具體罪狀尚未明瞭。
     在SEED愛好者中，擁有不同於一般反派腳色，憎恨世界的思想與邏輯非常鮮明的克魯澤是一個廣受支持者愛戴的角色。克魯澤在許多場景的台詞都深刻的點出了身為一個複製人的孤悲:且被製造者唾棄、受詛咒般的短暫的生命因而對世界憎恨，發人深省的思考面讓基因複製人的話題擁有更多的解讀。然而在被煌擊破的那一瞬間，克魯澤帶著笑容而逝的畫面，說明了對他來說自己的死亡才是比起毀滅世界更為完美的結局。
     在Seed Destiny
@@ -262,14 +262,14 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
   -
     「ZGMF-X88S蓋亞鋼彈」與「GFAS-X1破滅鋼彈」的駕駛員。
-    十分害怕聽到「死」這個字而導致她情緒失控，但是[真·飛鳥對她許下了](../Page/真·飛鳥.md "wikilink")「我會好好保護妳」的承諾，連帶會使情緒穩定下來。
+    十分害怕聽到「死」這個字而導致她情緒失控，但是[真·飛鳥](../Page/真·飛鳥.md "wikilink")對她許下了「我會好好保護妳」的承諾，連帶會使情緒穩定下來。
     地球聯合軍第81號獨立機動群「幻痛」所屬MS機師，曾接受藥物改造手術的[生物CPU](https://zh.wikipedia.org/wiki/生物CPU "wikilink")，擁有與調整者匹敵的戰鬥力。平常性格沉靜，戰鬥時則變得狂暴。
-    第一話時與男主角[真·飛鳥在街道相遇](../Page/真·飛鳥.md "wikilink")，當時-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-因玻璃窗映照出自己婀娜的樣子而起舞，所以沒注意到從轉角走出的真，兩人意外的撞上，但後來二人並沒有記得此次相遇。與史汀格、奧爾一同闖入ZAFT軍械庫搶奪三架新型MS，並駕駛其中一部機體[蓋亞-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-](../Page/ZGMF-X88S_Gaia.md "wikilink")，其間多次以地球連合軍駕駛員的身份駕駛蓋亞-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-與ZAFT軍戰鬥。
+    第一話時與男主角[真·飛鳥](../Page/真·飛鳥.md "wikilink")在街道相遇，當時-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-因玻璃窗映照出自己婀娜的樣子而起舞，所以沒注意到從轉角走出的真，兩人意外的撞上，但後來二人並沒有記得此次相遇。與史汀格、奧爾一同闖入ZAFT軍械庫搶奪三架新型MS，並駕駛其中一部機體[蓋亞-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-](../Page/ZGMF-X88S_Gaia.md "wikilink")，其間多次以地球連合軍駕駛員的身份駕駛蓋亞-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-與ZAFT軍戰鬥。
     二十一話-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-與真再次遇上，當-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-在崖邊唱歌跳舞時失足跌入海裡，真把-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-從海中救出，然而在真尋問原因時卻誤觸-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-的**BLOCK
     WORD**（**ブロックワード**）：「**死**」而使-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-失控，混亂間真為了使-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-冷靜下來而說出會保護她的話。二人在崖底等待救援時在附近的洞穴中點起柴火，-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-將拾到的貝殼分了一半給真，分別前二人立下了會再見面的約定。
     二十五話-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-獨自駕駛著蓋亞-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-被真所擊墜後重傷，被真送到智慧女神的醫務室。然而定期需要特殊藥劑的體質使-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-陷入瀕死的邊緣。得知此時的真為了救回-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-的性命而決定將-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-送回地球軍。[-{zh-hans:尼奥·洛諾克;zh-hk:尼奧．羅洛古;zh-tw:尼歐·羅安那克;}-與真約定不再讓](https://zh.wikipedia.org/wiki/尼歐·羅阿諾克 "wikilink")-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-上戰場。
     可是-{zh-hans:尼奥·洛諾克;zh-hk:尼奧·羅洛古;zh-tw:尼歐·羅安那克;}-卻未能遵守承諾，當回到聯合軍復原後不久便成為駕駛破滅-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-的生物CPU，隨即被派遣往柏林進行破壞行動並造成極大的傷亡。後來與前來制止的真對峙，真當時並不知駕駛者就是-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-；對峙期間因-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-與真發現了雙方的存在而暫時中斷了戰鬥，但-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-由於駕駛[自由-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-的](../Page/ZGMF-X10A_Freedom.md "wikilink")[煌·大和刺激下而失控](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")，在發出光束砲之前被自由-{zh-hans:高達;zh-hk:高達;zh-tw:鋼彈;}-所擊破，最後-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-在真的懷中死去，真為了使-{zh-hans:史黛拉;zh-hk:史汀娜;zh-tw:史黛菈;}-安息而將其遺體沉落湖底。
-    彌賽亞攻防戰後，進入[真·飛鳥被阿斯蘭打敗而陷入迷惘的精神世界](../Page/真·飛鳥.md "wikilink")，並鼓勵他迎向明天。
+    彌賽亞攻防戰後，進入[真·飛鳥](../Page/真·飛鳥.md "wikilink")被阿斯蘭打敗而陷入迷惘的精神世界，並鼓勵他迎向明天。
     史黛菈·路歇在劇中的表現，曾壓倒同劇另一位女角[露娜瑪利亞·霍克成為最受歡迎女角](https://zh.wikipedia.org/wiki/露娜瑪利亞·霍克 "wikilink")。後來即使史黛拉中途戰死，人氣仍然不減，更在2006年日本動畫GP選舉中成為最受歡迎女角第三位。
 
 <!-- end list -->
@@ -290,8 +290,8 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 <!-- end list -->
 
   -
-    [真·飛鳥的得力戰友之一](../Page/真·飛鳥.md "wikilink")，在[真·飛鳥改駕駛命運鋼彈後駕駛](../Page/真·飛鳥.md "wikilink")「ZGMF-X56S冲击鋼彈」。
-    [札夫特軍新型艦](https://zh.wikipedia.org/wiki/札夫特軍 "wikilink")[智慧女神號](https://zh.wikipedia.org/wiki/智慧女神號 "wikilink")（Minerva）的乘員，個性活潑大方，與[真·飛鳥以及](../Page/真·飛鳥.md "wikilink")[雷·札·巴雷爾同期的紅衣](https://zh.wikipedia.org/wiki/雷·札·巴雷爾 "wikilink")(Elite
+    [真·飛鳥](../Page/真·飛鳥.md "wikilink")的得力戰友之一，在[真·飛鳥](../Page/真·飛鳥.md "wikilink")改駕駛命運鋼彈後駕駛「ZGMF-X56S冲击鋼彈」。
+    [札夫特軍新型艦](https://zh.wikipedia.org/wiki/札夫特軍 "wikilink")[智慧女神號](https://zh.wikipedia.org/wiki/智慧女神號 "wikilink")（Minerva）的乘員，個性活潑大方，與[真·飛鳥](../Page/真·飛鳥.md "wikilink")以及[雷·札·巴雷爾同期的紅衣](https://zh.wikipedia.org/wiki/雷·札·巴雷爾 "wikilink")(Elite
     pilot)。其妹[美玲·霍克是智慧女神號的MS通信管制員](https://zh.wikipedia.org/wiki/美玲·霍克 "wikilink")。暱稱露娜。和其他不同的是頭上有[呆毛](https://zh.wikipedia.org/wiki/呆毛 "wikilink")。
     駕駛紅色的薩克戰士（Zaku
     Warrior），在智慧女神號曾參戰的大小戰役中相當活躍。在真·飛鳥改乘命運鋼彈之後成為[冲击鋼彈的駕駛員](../Page/ZGMF-X56S_Impulse.md "wikilink")。
@@ -301,7 +301,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
     對[P.L.A.N.T議長](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")[吉伯特·杜蘭朵的作為抱著懷疑的阿斯蘭](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")，駕駛著[ZGMF-2000
     Gouf
     Ignited和美玲一同逃走而遭到真和雷的攻擊](https://zh.wikipedia.org/wiki/ZGMF-2000_Gouf_Ignited "wikilink")，之後被擊墜。得知此事的露娜，因為同時失去妹妹和仰慕之人（其實兩人都沒事）而大受打擊，認為是[理法造成的這一切](https://zh.wikipedia.org/wiki/理法 "wikilink")。於是一邊傾力替Z.A.F.T.討伐[理法](https://zh.wikipedia.org/wiki/理法 "wikilink")，一邊向真尋求心靈上的支持。
-    最後的決戰中，露娜介入阿斯蘭與真的決鬥。在即將被極度混亂、狂怒的真擊墜之前，被發動SEED的阿斯蘭以毫釐之差所救。和真兩人在被擊落的命運鋼彈和脈衝鋼彈旁邊看著要塞[彌賽亞壞滅](../Page/彌賽亞.md "wikilink")。
+    最後的決戰中，露娜介入阿斯蘭與真的決鬥。在即將被極度混亂、狂怒的真擊墜之前，被發動SEED的阿斯蘭以毫釐之差所救。和真兩人在被擊落的命運鋼彈和脈衝鋼彈旁邊看著要塞[彌賽亞](../Page/彌賽亞.md "wikilink")壞滅。
     戰後，與阿斯蘭和妹妹美鈴和解。
 
 <!-- end list -->
@@ -345,7 +345,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
     杜蘭朵議長在擊潰[理法後向全球提倡](https://zh.wikipedia.org/wiki/理法 "wikilink")「命運計劃」，但遭到歐普聯合首長國反對，杜蘭朵遂向其宣戰。在ZAFT軍機動要塞彌塞亞附近一戰中，雷與攻擊自由鋼彈的駕駛者[煌‧大和進行對決](https://zh.wikipedia.org/wiki/煌‧大和 "wikilink")．雷在戰鬥中遭到煌言語動搖而露出一絲破綻被煌的「攻擊自由鋼彈」擊倒，傳說鋼彈被重創，雷則逃到札夫特宇宙要塞「彌賽亞」中。彌賽亞遭到煌入侵。最後因為希望可以有煌所說的明天而殺了他最敬愛的杜蘭朵，與杜蘭朵，妲莉亞如同一家人般死在嚴重崩毀的「彌賽亞」內部。
     其實雷·扎·巴雷爾與[拉烏·魯·克魯澤一樣均是由亞爾](https://zh.wikipedia.org/wiki/拉烏·魯·克魯澤 "wikilink")·達·弗拉卡([穆·拉·弗拉卡父親](https://zh.wikipedia.org/wiki/穆·拉·弗拉卡 "wikilink"))的基因所複製出來，在Destiny
     第3話中，雷與穆·拉·弗拉卡能互相感應對方存在，正如Seed中克魯澤與弗拉卡能互相感應一樣。複製人的染色體過短，衰老速度比正常人還要快；故此雷在Destiny
-    48話中向[真·飛鳥講述自己的背景由來](../Page/真·飛鳥.md "wikilink")，並表明自己時日無多。
+    48話中向[真·飛鳥](../Page/真·飛鳥.md "wikilink")講述自己的背景由來，並表明自己時日無多。
 
 ## 地球聯合軍（TVB初譯：地球聯邦軍）
 
@@ -503,7 +503,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
     在知道軍本部將包括大天使在內的殘存部隊當棄子後走向了雙方陣營之外的第三條路，在與煌會合後到達歐普參與對抗地聯的入侵的作戰。
 
-    為了留下小小的和平燈火，在烏茲米[自爆後上宇宙與卡嘉莉](../Page/自爆.md "wikilink")（座艦草薙）、拉克絲（座艦永恆）領導勢力組成[三艦同盟](https://zh.wikipedia.org/wiki/三艦同盟 "wikilink")，為了阻止自然人跟調整者的繼續互相殘殺而奮戰著。
+    為了留下小小的和平燈火，在烏茲米[自爆](../Page/自爆.md "wikilink")後上宇宙與卡嘉莉（座艦草薙）、拉克絲（座艦永恆）領導勢力組成[三艦同盟](https://zh.wikipedia.org/wiki/三艦同盟 "wikilink")，為了阻止自然人跟調整者的繼續互相殘殺而奮戰著。
 
     與[地球聯合軍的王牌駕駛員](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")[穆·拉·布拉加發展成戀人關係](https://zh.wikipedia.org/wiki/穆·拉·布拉加 "wikilink")。
 
@@ -513,7 +513,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
     直到第二季中後期將[尼歐·羅安那克救起後](https://zh.wikipedia.org/wiki/尼歐·羅安那克 "wikilink")，[瑪琉·雷明斯從](https://zh.wikipedia.org/wiki/瑪琉·雷明斯 "wikilink")[尼歐·羅安那克的身上看見](https://zh.wikipedia.org/wiki/尼歐·羅安那克 "wikilink")[穆·拉·福拉卡的影子](https://zh.wikipedia.org/wiki/穆·拉·福拉卡 "wikilink")；第二季後期，由於[尼歐·羅安那克駕駛的曉鋼彈成功擋下了](https://zh.wikipedia.org/wiki/尼歐·羅安那克 "wikilink")[智慧女神號的](https://zh.wikipedia.org/wiki/智慧女神號 "wikilink")「唐懷瑟」砲火，令其記憶恢復，[瑪琉·雷明斯才肯定](https://zh.wikipedia.org/wiki/瑪琉·雷明斯 "wikilink")[尼歐·羅安那克的真實身份就是](https://zh.wikipedia.org/wiki/尼歐·羅安那克 "wikilink")[穆·拉·福拉卡](https://zh.wikipedia.org/wiki/穆·拉·福拉卡 "wikilink")。
 
-    角色名稱源自於[湯姆·克蘭西的小說](../Page/湯姆·克蘭西.md "wikilink")《[獵殺紅色十月](https://zh.wikipedia.org/wiki/獵殺紅色十月 "wikilink")》的主角馬克·雷明斯（Marko
+    角色名稱源自於[湯姆·克蘭西](../Page/湯姆·克蘭西.md "wikilink")的小說《[獵殺紅色十月](https://zh.wikipedia.org/wiki/獵殺紅色十月 "wikilink")》的主角馬克·雷明斯（Marko
     Ramius）。
 
     被稱為「鋼彈之父」的[富野由悠季](../Page/富野由悠季.md "wikilink")，曾經評價「不可能會有好像瑪琉一樣有大胸部的美人當艦長」（あんなおっぱい大きな美人なネーちゃんが艦長なんてありえない）。
@@ -563,7 +563,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 <!-- end list -->
 
   -
-    穆·拉·福拉卡隸屬[地球聯合軍第七機動艦隊](https://zh.wikipedia.org/wiki/地球聯合軍 "wikilink")，[軍階為](https://zh.wikipedia.org/wiki/軍階 "wikilink")[上尉](../Page/上尉.md "wikilink")。曾在[月球的](../Page/月球.md "wikilink")-{zh-hk:英狄;zh-hans:安迪;zh-tw:安迪;}-米翁[隕石坑駕駛](https://zh.wikipedia.org/wiki/隕石坑 "wikilink")[梅比烏斯零式擊落五台](https://zh.wikipedia.org/wiki/TS-MA2mod.00_Mebius_Zero "wikilink")[ZGMF-1017
+    穆·拉·福拉卡隸屬[地球聯合軍第七機動艦隊](https://zh.wikipedia.org/wiki/地球聯合軍 "wikilink")，[軍階為](https://zh.wikipedia.org/wiki/軍階 "wikilink")[上尉](../Page/上尉.md "wikilink")。曾在[月球](../Page/月球.md "wikilink")的-{zh-hk:英狄;zh-hans:安迪;zh-tw:安迪;}-米翁[隕石坑駕駛](https://zh.wikipedia.org/wiki/隕石坑 "wikilink")[梅比烏斯零式擊落五台](https://zh.wikipedia.org/wiki/TS-MA2mod.00_Mebius_Zero "wikilink")[ZGMF-1017
     GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")，而被稱為「-{zh-hk:英狄;
     zh-hans:安迪;
     zh-tw:安迪;}-米翁之鷹」，是聯合軍屈指可數的能以MA對抗MS的王牌駕駛員，由於天生擁有強大「空間認識能力」，也是軍中少數能單人靈活操作「有線式砲筒」的駕駛員。與[扎夫特軍中的王牌](https://zh.wikipedia.org/wiki/扎夫特軍 "wikilink")[拉烏·魯·克魯澤](https://zh.wikipedia.org/wiki/拉烏·魯·克魯澤 "wikilink")（**穆·拉·福拉卡**的父親的複製人）是多次在戰場交手的死對頭。名言是：**「我果然是化不可能為可能的人。」**
@@ -981,7 +981,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
     巴库”、「TMF/A-803拉寇」、「MVF-M11C村雨」與「ZGMF-X88S蓋亞鋼彈」。
     一心擁護拉克絲祈求世界和平的理念，並十分看重煌的潛力。
     曾因為與煌交戰而導致左眼失明，並失去左手與左腳（之後有裝上義肢）以及和自己一同併肩作戰的愛人；最後坐鎮於「永恆號」上頭並成為拉克絲所信賴的左右手。
-    札夫特軍駐北非司令官，別名「沙漠之虎」的ACE級機師。有著開朗的性格、以及比一般軍人之上的厚度人品，對藍宇宙深痛惡絕，毫無寬恕餘地，同時處事冷靜、思想清晰透徹。被愛人愛莎暱稱為「安迪」(アンディ，即「安迪」的國語讀法，與愛莎聲優為台灣著名藝人[徐若瑄有關](../Page/徐若瑄.md "wikilink")。)
+    札夫特軍駐北非司令官，別名「沙漠之虎」的ACE級機師。有著開朗的性格、以及比一般軍人之上的厚度人品，對藍宇宙深痛惡絕，毫無寬恕餘地，同時處事冷靜、思想清晰透徹。被愛人愛莎暱稱為「安迪」(アンディ，即「安迪」的國語讀法，與愛莎聲優為台灣著名藝人[徐若瑄](../Page/徐若瑄.md "wikilink")有關。)
     不單作為指揮官，即使身為機師亦有著超一流技術，在札多軍為無人不知的英雄(但安德魯在一般平民間名聲顯赫，據說亦與透過廣告代理在背後推波助瀾、大肆宣傳「沙漠之虎」威名有關)。
     安德烈在參軍之前，既是一位廣告心理學家，同時又是共振工學的權威，在札夫特內部亦擁有機械設備工業。從初次在戰場上與煌相遇時，關於人類愛恨與戰爭關係作出獨到提問上可以反映出來。
     另一方面，安德烈在衣著上亦口味獨特，愛好圖案古怪的襯衫，戰鬥服更是按照自己喜好特別訂造。飲食方面，最大喜好是混合新口味咖啡。「SEED」當中曾經要求煌試飲，又曾經被部下馬秦以咖啡氣味傳遍軍艦不太恰當為由勸阻。「Destiny」中又曾經講瑪琉試飲，結果被評價為味道不夠芳香。此外，他亦愛好酸奶調味汁。
@@ -992,12 +992,12 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
     LaGOWE出擊](https://zh.wikipedia.org/wiki/TMF/A-803_LaGOWE "wikilink")，在與[攻擊鋼彈激烈的戰鬥後](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")，最終被發動SEED的煌擊破，**安德烈**雖大難不死，但失去左手、左眼、和左腿，而戀人[愛莎在此役中死亡](https://zh.wikipedia.org/wiki/愛莎 "wikilink")。漫畫「X-Astray」中，則交代羅．裴爾(LOWE)將重傷的安德魯送返宇宙，並為其製作義肢。同時亦從他手中，獲得勇士扛但(Dreadnought
     Gundam)的龍騎兵系統設計圖，其後於「天之御柱」中將它完成。
     雖然已成為殘廢，但作為大難不死的英雄，安德烈仍得[-{zh-hans:帕特里克·萨拉;
-    zh-hk:柏德·察拉;zh-tw:派屈克·薩拉;}-的重用](https://zh.wikipedia.org/wiki/派屈克·薩拉 "wikilink")，並委任為[永恆號的艦長](https://zh.wikipedia.org/wiki/永恆號 "wikilink")。但安德烈此時認為札夫特軍的戰鬥意義，自己並不贊成這思想。后在副官馬秦·達哥斯塔的引荐下加入克萊茵派\[10\]，與[拉克絲·克萊因駕駛永恆號離開](../Page/拉克絲·克萊因.md "wikilink")[P.L.A.N.T](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，並與大天使號、草薙號合流。至最終決戰時，安德烈以永恆號的艦長身份投入戰鬥。
+    zh-hk:柏德·察拉;zh-tw:派屈克·薩拉;}-的重用](https://zh.wikipedia.org/wiki/派屈克·薩拉 "wikilink")，並委任為[永恆號的艦長](https://zh.wikipedia.org/wiki/永恆號 "wikilink")。但安德烈此時認為札夫特軍的戰鬥意義，自己並不贊成這思想。后在副官馬秦·達哥斯塔的引荐下加入克萊茵派\[10\]，與[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")駕駛永恆號離開[P.L.A.N.T](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，並與大天使號、草薙號合流。至最終決戰時，安德烈以永恆號的艦長身份投入戰鬥。
 
 <!-- end list -->
 
   -
-    第二次[雅金·杜威攻防戰後](https://zh.wikipedia.org/wiki/雅金·杜威攻防戰 "wikilink")，定居[歐普](https://zh.wikipedia.org/wiki/歐普 "wikilink")。一邊留意著時刻變化著的世界狀況，一邊過著深深地喜愛[咖啡的隱遁日子](../Page/咖啡.md "wikilink")，於札夫特軍特殊部隊暗殺拉克絲事件後，令「沙漠之虎」復活。義手義腿並沒有什麼特別，不過左手裡面準備著槍。
+    第二次[雅金·杜威攻防戰後](https://zh.wikipedia.org/wiki/雅金·杜威攻防戰 "wikilink")，定居[歐普](https://zh.wikipedia.org/wiki/歐普 "wikilink")。一邊留意著時刻變化著的世界狀況，一邊過著深深地喜愛[咖啡](../Page/咖啡.md "wikilink")的隱遁日子，於札夫特軍特殊部隊暗殺拉克絲事件後，令「沙漠之虎」復活。義手義腿並沒有什麼特別，不過左手裡面準備著槍。
 
 <!-- end list -->
 
@@ -1073,10 +1073,10 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 <!-- end list -->
 
   -
-    在[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年中47歲，該動畫女主角[拉克絲·克萊因的父親](../Page/拉克絲·克萊因.md "wikilink")。[P.L.A.N.T.最高評議會議長及十二委員之一](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")，並且為[P.L.A.N.T.的獨立開國功臣之一](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")，主張和平，有很強的民意基礎，反對強硬政策。
+    在[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年中47歲，該動畫女主角[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")的父親。[P.L.A.N.T.最高評議會議長及十二委員之一](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")，並且為[P.L.A.N.T.的獨立開國功臣之一](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")，主張和平，有很強的民意基礎，反對強硬政策。
     其後其女拉克絲盜取[ZGMF-X10A
     Freedom被監視系統察覺](../Page/ZGMF-X10A_Freedom.md "wikilink")，被新任議長[派屈克·薩拉以叛國罪指控](https://zh.wikipedia.org/wiki/派屈克·薩拉 "wikilink")，在追捕下被亂槍射殺。
-    後來[P.L.A.N.T.多位政客](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")，包括其女[拉克絲·克萊因及](../Page/拉克絲·克萊因.md "wikilink")[吉伯特·杜蘭朵皆自稱為克萊因派以爭取人望](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")。
+    後來[P.L.A.N.T.多位政客](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")，包括其女[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")及[吉伯特·杜蘭朵皆自稱為克萊因派以爭取人望](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")。
 
 <!-- end list -->
 
@@ -1156,7 +1156,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 <!-- end list -->
 
   -
-    札夫特最高評議會代表，在派屈克遇刺身亡後，發動[政變逮捕派屈克的黨羽](../Page/政變.md "wikilink")，並與地球軍簽訂和平協定《尤尼烏斯條約》。為該角色配音的聲優是[進藤尚美](../Page/進藤尚美.md "wikilink")，香港[周文瑛](../Page/周文瑛.md "wikilink")。
+    札夫特最高評議會代表，在派屈克遇刺身亡後，發動[政變](../Page/政變.md "wikilink")逮捕派屈克的黨羽，並與地球軍簽訂和平協定《尤尼烏斯條約》。為該角色配音的聲優是[進藤尚美](../Page/進藤尚美.md "wikilink")，香港[周文瑛](../Page/周文瑛.md "wikilink")。
 
     [P.L.A.N.T最高評議會議員](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")。在眾議員之中為最年輕的一位。她是主和派之一，亦是[-{zh-hans:希捷尔;zh-tw:西蓋爾;zh-hk:史基路;}-最信任的人](https://zh.wikipedia.org/wiki/西蓋爾·克莱因 "wikilink")。在[自由鋼彈搶奪事件後](https://zh.wikipedia.org/wiki/自由鋼彈 "wikilink")，被[-{zh-hans:帕特里克·萨拉;zh-hk:柏德·察拉;zh-tw:派屈克·薩拉;}-認為是](https://zh.wikipedia.org/wiki/派屈克·薩拉 "wikilink")[-{zh-hans:拉克丝·克莱因;zh-hk:莉古絲·古蘭爾;zh-tw:拉克絲·克萊恩;}-的叛國行為](../Page/拉克絲·克萊因.md "wikilink")，故將艾琳等一眾-{zh-hans:克莱因;zh-hk:古蘭爾;zh-tw:克萊因;}-派的議員拘捕。直到最終決戰時被-{zh-hans:克莱因;zh-hk:古蘭爾;zh-tw:克萊因;}-派的-{zh-hans:扎夫特;zh-hk:扎多;zh-tw:札夫特;}-士兵救出，並到[P.L.A.N.T指揮中心控制大局](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")。阻止創世紀發射後更發表停戰宣言，成功結束戰爭。被推舉為臨時議長。CE72年與地球聯合簽定條約後，把議長之位交託給當選為新任議長的[-{zh-hans:吉伯特·杜兰朵;zh-hk:基巴度·戴蘭達;zh-tw:吉伯特·杜蘭朵;}-](https://zh.wikipedia.org/wiki/基巴度·戴蘭達 "wikilink")。
 
@@ -1197,7 +1197,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 <!-- end list -->
 
   -
-    札夫特海軍高階軍官，曾参加卡奔塔利亚压制作战，在[珊瑚海击退地球联合军的太平洋舰队](../Page/珊瑚海.md "wikilink")\[13\]。亲驾迪恩并带领迪恩和古恩部隊在[亚丁湾拦截大天使號](../Page/亚丁湾.md "wikilink")，战败。随后在[印度洋的交战中他所操纵的MS](../Page/印度洋.md "wikilink")「佐諾」被煌摧毀，陣亡。
+    札夫特海軍高階軍官，曾参加卡奔塔利亚压制作战，在[珊瑚海](../Page/珊瑚海.md "wikilink")击退地球联合军的太平洋舰队\[13\]。亲驾迪恩并带领迪恩和古恩部隊在[亚丁湾](../Page/亚丁湾.md "wikilink")拦截大天使號，战败。随后在[印度洋](../Page/印度洋.md "wikilink")的交战中他所操纵的MS「佐諾」被煌摧毀，陣亡。
 
 <!-- end list -->
 
@@ -1254,7 +1254,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
     在第37話中，更被指有高度電腦技術（如第36話中像[駭客一樣在自己房間電腦干擾](https://zh.wikipedia.org/wiki/駭客 "wikilink")[直布羅陀基地的保安系統](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，亦同時盜取了有關[命運鋼彈和](../Page/ZGMF-X42S_Destiny.md "wikilink")[傳說鋼彈的資料](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")），連[吉伯特·杜蘭朵也不禁讚歎](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")。在阿斯蘭被追擊的時候，和阿斯蘭一同搭乘[ZGMF-2000
     Gouf
-    Ignited逃亡的時候](https://zh.wikipedia.org/wiki/ZGMF-2000_Gouf_Ignited "wikilink")，被真駕駛的命運鋼彈擊墜於大海中。兩人被奇薩卡救出，之後與阿斯蘭、[大天使號共同行動](https://zh.wikipedia.org/wiki/大天使號 "wikilink")。在[大天使號飛往](https://zh.wikipedia.org/wiki/大天使號 "wikilink")[宇宙與](../Page/宇宙.md "wikilink")[永恆號會合時](https://zh.wikipedia.org/wiki/永恆號 "wikilink")，擔任永恆號的通訊管制員。
+    Ignited逃亡的時候](https://zh.wikipedia.org/wiki/ZGMF-2000_Gouf_Ignited "wikilink")，被真駕駛的命運鋼彈擊墜於大海中。兩人被奇薩卡救出，之後與阿斯蘭、[大天使號共同行動](https://zh.wikipedia.org/wiki/大天使號 "wikilink")。在[大天使號飛往](https://zh.wikipedia.org/wiki/大天使號 "wikilink")[宇宙](../Page/宇宙.md "wikilink")與[永恆號會合時](https://zh.wikipedia.org/wiki/永恆號 "wikilink")，擔任永恆號的通訊管制員。
 
   -
 
@@ -1280,8 +1280,8 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 <!-- end list -->
 
   -
-    [P.L.A.N.T.中繼](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")[艾琳·卡納巴之後的最高評議會議長](https://zh.wikipedia.org/wiki/艾琳·卡納巴 "wikilink")。身為[基因解析專家](../Page/基因.md "wikilink")，與[拉烏·魯·克魯澤是好友](https://zh.wikipedia.org/wiki/劳·鲁·克鲁泽 "wikilink")，[雷·札·巴雷爾是其養子](https://zh.wikipedia.org/wiki/尼爾·乍·巴里路 "wikilink")。智慧女神號艦長[妲莉雅·古拉迪斯是他的前女友](https://zh.wikipedia.org/wiki/妲莉雅·古拉迪斯 "wikilink")，因兩人基因不合而不適合生小孩，迫於[P.L.A.N.T的規定而無法結婚](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，為了成全塔里雅想要有小孩的心願主動退出這段感情。
-    故事初期因為前次大戰受到重創的PLANT在克萊茵派的帶領下迅速重建，杜蘭朵以克萊茵派成員的身分被推舉為PLANT議長，實際上暗中擁有私人的政治勢力，以懷柔政策收容了無家可歸的歐普調整者，在前次大戰無法平息下來的政局，也在杜蘭朵利用克萊茵派的控制下平定，政治手段相當高明。看破了真·飛鳥的高度潛能而下命其為脈衝鋼彈正式駕駛員。杜蘭朵身為議長卻事先將渾沌、深淵、蓋亞三機的資料洩漏給藍色宇宙，另外隱瞞脈衝的信息，引來幻痛部隊的奪取行動，即為一號軍械库事件，此等行為足可構成杜蘭朵犯[叛國罪之認定](../Page/叛國.md "wikilink")。另外事先邀請歐普代表參觀，刻意造成從一號軍械库事件到尤尼烏斯七號墜落事件的這段期間，PLANT一方其實是受害者的假象。
+    [P.L.A.N.T.中繼](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")[艾琳·卡納巴之後的最高評議會議長](https://zh.wikipedia.org/wiki/艾琳·卡納巴 "wikilink")。身為[基因](../Page/基因.md "wikilink")解析專家，與[拉烏·魯·克魯澤是好友](https://zh.wikipedia.org/wiki/劳·鲁·克鲁泽 "wikilink")，[雷·札·巴雷爾是其養子](https://zh.wikipedia.org/wiki/尼爾·乍·巴里路 "wikilink")。智慧女神號艦長[妲莉雅·古拉迪斯是他的前女友](https://zh.wikipedia.org/wiki/妲莉雅·古拉迪斯 "wikilink")，因兩人基因不合而不適合生小孩，迫於[P.L.A.N.T的規定而無法結婚](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")，為了成全塔里雅想要有小孩的心願主動退出這段感情。
+    故事初期因為前次大戰受到重創的PLANT在克萊茵派的帶領下迅速重建，杜蘭朵以克萊茵派成員的身分被推舉為PLANT議長，實際上暗中擁有私人的政治勢力，以懷柔政策收容了無家可歸的歐普調整者，在前次大戰無法平息下來的政局，也在杜蘭朵利用克萊茵派的控制下平定，政治手段相當高明。看破了真·飛鳥的高度潛能而下命其為脈衝鋼彈正式駕駛員。杜蘭朵身為議長卻事先將渾沌、深淵、蓋亞三機的資料洩漏給藍色宇宙，另外隱瞞脈衝的信息，引來幻痛部隊的奪取行動，即為一號軍械库事件，此等行為足可構成杜蘭朵犯[叛國](../Page/叛國.md "wikilink")罪之認定。另外事先邀請歐普代表參觀，刻意造成從一號軍械库事件到尤尼烏斯七號墜落事件的這段期間，PLANT一方其實是受害者的假象。
     在尤尼烏斯七號墜落事件雖然採取行動阻止悲劇，因此獲得到阿斯蘭的信賴，卻讓地球無可避免遭受過大的災害，而杜蘭朵事實上卻早已獲悉舊薩拉派意圖造成尤尼烏斯七號墜落的計畫，並且在事後將相關資料洩漏給藍色宇宙而造成後來更大的戰爭。
     事先獲知PLANT中有人意圖暗殺拉克絲·克萊茵，杜蘭朵對此事保持放任的態度。對外宣稱採取防守策略，事實上卻強行侵略並佔領原地球聯合所屬的歐洲各大城市，同時隱瞞關於破滅鋼彈以及鎮魂曲的情報，引來破滅鋼彈對歐洲三大城進行無差別攻擊，造成大量無辜死傷，然後再出現解救歐洲人民，卻因為真·飛鳥阻礙，差點造成整個計畫的失敗，幸賴自由鋼彈阻止破滅鋼彈，ZAFT部隊得以保全，事後ZAFT為了獨占解救民眾的功績，消除自由鋼彈的戰鬥影像，此舉動引來少數人的不滿，但成功欺騙更多民眾。
     因為煌·大和一行人可能阻礙杜蘭朵未來的計畫，議長下令進行反大天使計畫，派智慧女神部隊前去討伐被大量ZAFT部隊圍攻後的自由鋼彈和大天使號，此行為被阿斯蘭·薩拉質疑。
@@ -1289,7 +1289,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
     故事後期，杜蘭朵議長決定討伐戰爭的根源理法（LOGOS），並以此為藉口引發了歐普攻略戰。杜蘭朵在歐普攻略戰開始前不斷聲明只要交出該戰犯即可免於一戰，但聖蘭家當政的歐普卻直接否認窩藏布吉列，杜蘭朵在最後通牒結束便開始攻擊歐普。
     戰況對歐普極為不利，尤那·.洛馬與吉布列打算潛逃宇宙，但在歐普軍潰敗時，大天使號一行人即時支援歐普，並推翻聖蘭家的統治，杜蘭朵下令追擊以升空逃亡的吉布列，但仍讓洛德吉布列再次成功逃逸到月球，情勢演變至此已無法確實獲得吉布列身在歐普的證據，杜蘭朵同時解決吉布列與歐普的一石二鳥之計失敗，為了規避質疑而推出假拉克絲進行輿論戰，卻遭到真拉克絲出面澄清而陷入更不利境地。吉布列到達月球後啓動安魂曲擊落三座殖民地，而安魂曲得以完成卻是依賴杜蘭朵長期隱瞞其情報所致。杜蘭朵再次出兵攻擊吉布列，成功後以安魂曲與彌賽亞為後盾，杜蘭朵向世界宣佈進行命運計畫。
     但此計畫卻遭到歐普、大西洋聯邦、斯堪地納維亞聯邦的反對，杜蘭朵無預警以安魂曲摧毀月面基地-亞爾薩赫，甚至造成大西洋聯邦總統死亡，因此造成歐普、大西洋聯邦、斯堪地納維亞聯邦等國攻擊安魂曲，杜蘭朵也率領所有部隊前往月球，雙方在月球交戰，最後安魂曲與彌賽亞遭到破壞，命運計畫化為泡影，而杜蘭朵也被其養子雷手刃，死前坦然接受雷的想法，與其一起在彌賽亞中消散。
-    [命運計劃是杜蘭朵對世界的理想](https://zh.wikipedia.org/wiki/命運計劃 "wikilink")。他認為世人對世界的不滿，皆由在世上找不到適合自己的位置而來。基於對[基因所擁有的知識](../Page/基因.md "wikilink")，他倡導經過基因解析後安排職業的[命運計畫](https://zh.wikipedia.org/wiki/命運計畫 "wikilink")。之前他由基因解析得知[真·飛鳥擁有非凡力量](../Page/真·飛鳥.md "wikilink")（SEED），於是讓他去駕駛Z.A.F.T的[最新銳機](../Page/ZGMF-X42S_Destiny.md "wikilink")。
+    [命運計劃是杜蘭朵對世界的理想](https://zh.wikipedia.org/wiki/命運計劃 "wikilink")。他認為世人對世界的不滿，皆由在世上找不到適合自己的位置而來。基於對[基因](../Page/基因.md "wikilink")所擁有的知識，他倡導經過基因解析後安排職業的[命運計畫](https://zh.wikipedia.org/wiki/命運計畫 "wikilink")。之前他由基因解析得知[真·飛鳥](../Page/真·飛鳥.md "wikilink")擁有非凡力量（SEED），於是讓他去駕駛Z.A.F.T的[最新銳機](../Page/ZGMF-X42S_Destiny.md "wikilink")。
 
 <!-- end list -->
 
@@ -1312,7 +1312,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
     智慧女神號艦長，曾與杜蘭朵有一段戀情，最後由於基因配對結果，證明兩人無法生育致令無疾而終；兩人分手後與某男性結婚，並有一子。然而私下與杜蘭朵仍然藕斷絲連。
     很照顧智慧女神號成員，對真等人也是嚴柔並施，也積極的培育亞瑟能成為獨當一面的艦長。
     最後智慧女神號全毀，她逃到宇宙要塞「彌賽亞」；之後「彌賽亞」開始嚴重崩毀，与杜兰朵、雷一同身亡。
-    聲優[小山茉美](../Page/小山茉美.md "wikilink")，曾於[機動戰士鋼彈中聲演](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")「[薩比家\#基西莉亞·薩比](https://zh.wikipedia.org/wiki/基西莉亞·薩比 "wikilink")」。基西莉亞最後被一心向薩比家復仇的[夏亞·阿茲納布爾射殺](../Page/夏亞·阿茲納布爾.md "wikilink")。飾演夏亞的聲優[池田秀一](../Page/池田秀一.md "wikilink")，本作中演出杜蘭朵。
+    聲優[小山茉美](../Page/小山茉美.md "wikilink")，曾於[機動戰士鋼彈中聲演](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")「[薩比家\#基西莉亞·薩比](https://zh.wikipedia.org/wiki/基西莉亞·薩比 "wikilink")」。基西莉亞最後被一心向薩比家復仇的[夏亞·阿茲納布爾](../Page/夏亞·阿茲納布爾.md "wikilink")射殺。飾演夏亞的聲優[池田秀一](../Page/池田秀一.md "wikilink")，本作中演出杜蘭朵。
 
 <!-- end list -->
 
@@ -1335,12 +1335,12 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
     是拉克絲的超級歌迷，聲音和拉克絲非常相似，因此被杜蘭朵議長看中，本來想透過假扮拉克絲宣傳和平，但不知不覺成為杜蘭朵議長的宣傳工具。
     喜歡阿斯蘭，但只是無回報的愛。
     曾在杜蘭朵的安排下，與一名札夫特特務到達月球殖民地「哥白尼」與拉克絲會面並刺殺真正的拉克絲；最後為了保護她心目中的拉克絲·克萊因，挺身為她檔子彈，傷重而死。
-    蜜雅·坎貝爾是一位[拉克絲·克萊因的歌迷](../Page/拉克絲·克萊因.md "wikilink")，她的聲線與拉克絲十分相似。
+    蜜雅·坎貝爾是一位[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")的歌迷，她的聲線與拉克絲十分相似。
     [吉伯特·杜蘭朵與蜜雅接觸](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")，雇佣她去冒充拉克絲，從而提高他在政治上的地位。尤尼烏斯7墜落地球的意外發生後，蜜雅開始安撫[P.L.A.N.T上的人民](https://zh.wikipedia.org/wiki/P.L.A.N.T "wikilink")。當她接受了這份工作後，蜜雅做了整形手術，面容看來跟拉克絲一模一樣。蜜雅本來一點也不像拉克絲，她临死前交給拉克絲的照片显示，她的头发是灰色的，脸上有雀斑，并且乳房更为丰满。并且，儘管很多歌迷也相信她是拉克絲，整形手術之后的首演中就有观众惊讶拉克絲的曲风大为改变。
     蜜雅被訓練成與拉克絲一樣的動作，不過，蜜雅更把拉克絲當成名歌星：唱一些輕快的歌曲、多一點跳舞、穿上性感的衣著，等等。
     意識到拉克絲有比他更大的政治影響力，吉伯特利用蜜雅當成他的政治傀儡，使他的政策獲得支持。當自己被受到尊敬時，蜜雅被說服扮演拉克絲，每一個人都會很愛她，又可以幫助推持和平。當大部分人也說不出蜜雅的和拉克絲的差異時，[阿斯蘭·薩拉](https://zh.wikipedia.org/wiki/阿斯蘭·薩拉 "wikilink")、[煌·大和](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")、其他在[歐普的主要角色](https://zh.wikipedia.org/wiki/歐普 "wikilink")，都知道她並不是真正的拉克絲，因為拉克絲已經跟大部分歐普總部的高級成員住在[大天使號上](https://zh.wikipedia.org/wiki/大天使號 "wikilink")。吉伯特·杜蘭朵向阿斯蘭承認蜜雅是一個冒充者。
     雖然拉克絲最初十分天真，但相比之下，蜜雅的個性更加活潑和愚笨；她有點開朗和天真，特別在阿斯蘭面前。然而，當知道阿斯蘭被陷害成一個背叛者時，她反應迅速地向阿斯蘭作出警告。
-    無論如何，扮演拉克絲的角色或許能夠變成拉克絲、但也使她的精神陷入混亂。當她第一次遇到阿斯蘭的時候，她立刻介妱她自己是蜜雅·坎貝爾，和承認她不是拉克絲·克萊因。當阿斯蘭企圖說服她跟自己一起逃離[直布羅陀的時候](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，她拒絕了，聲稱自己就是拉克絲和寧願變成拉克絲（這個也可能是[精神分裂症的早期徵兆](../Page/精神分裂症.md "wikilink")，或者很可能是人格分裂）。接下來的劇情，蜜雅向阿斯蘭和拉克絲堅稱自己就是拉克絲。
+    無論如何，扮演拉克絲的角色或許能夠變成拉克絲、但也使她的精神陷入混亂。當她第一次遇到阿斯蘭的時候，她立刻介妱她自己是蜜雅·坎貝爾，和承認她不是拉克絲·克萊因。當阿斯蘭企圖說服她跟自己一起逃離[直布羅陀的時候](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，她拒絕了，聲稱自己就是拉克絲和寧願變成拉克絲（這個也可能是[精神分裂症](../Page/精神分裂症.md "wikilink")的早期徵兆，或者很可能是人格分裂）。接下來的劇情，蜜雅向阿斯蘭和拉克絲堅稱自己就是拉克絲。
     因為自己扮演的角色是阿斯蘭的未婚妻，或許自身對阿斯蘭抱有興趣，所以對阿斯蘭經常做出大膽的行為：當阿斯蘭睡著的時候，偷偷地溜進他的睡房與他睡在一起。阿斯蘭試圖與她保持距離，並告訴她真正的拉克絲並不會好像她這樣做的。
     即使阿斯蘭從不鼓勵她，蜜雅也繼續嘗試去接近他；另一方面，儘管對她沒有浪漫的感覺，阿斯蘭並不在乎，並把蜜雅當成朋友：他嘗試說服蜜雅跟他一起逃跑、當蜜雅死去的時候，可見他感到十分難過。
 
@@ -1348,12 +1348,12 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
   -
     蜜雅在一次演說中，被拉克絲向公眾展現了她的詐欺，事件發生後，吉伯特送蜜雅與她的保鏢莎拉到月面都市上一個閒置的城市──哥白尼。諷刺的是，大天使號被選派為歐普第二太空艦隊，同樣跟拉克絲一起降落在月面都市哥白尼。莎拉通知蜜雅大天使號的出現，並告訴她拉克絲可能和大天使號一起。莎拉提議蜜雅（寫信給拉克絲的人）去做一些事情，精神上不穩固的的蜜雅接受了。
-    當基拉、亞斯蘭、美玲·霍克購物的時候，蜜雅的紅色[Haro帶來了一張便條給拉克絲](../Page/Haro.md "wikilink")，內容是「拉克絲小姐，請你救救我！我將會被殺！」。阿斯蘭和美玲·霍克相信這是一個陷阱，但拉克絲無論如何也決定要去，她認為蜜雅請求自己的幫助。其餘三人陪同拉克絲去見蜜雅。
+    當基拉、亞斯蘭、美玲·霍克購物的時候，蜜雅的紅色[Haro](../Page/Haro.md "wikilink")帶來了一張便條給拉克絲，內容是「拉克絲小姐，請你救救我！我將會被殺！」。阿斯蘭和美玲·霍克相信這是一個陷阱，但拉克絲無論如何也決定要去，她認為蜜雅請求自己的幫助。其餘三人陪同拉克絲去見蜜雅。
 
 <!-- end list -->
 
   -
-    蜜雅在空的圓形露天劇場會見拉克絲等人，[莎拉帶領的暗殺部隊圍繞著等待伏擊](../Page/莎拉.md "wikilink")。蜜雅威脅著要開槍射傷拉克絲，但被阿斯蘭阻止了，射飛了蜜雅手上的槍。蜜雅堅持自己就是拉克絲·克萊因，拉克絲嘗試使蜜雅冷靜下來，告訴她即使現在樣子和聲音很像拉克絲，但蜜雅和拉克絲仍然是兩個不同的人，任何人也無法代替對方，自己的夢想是屬於自己的。
+    蜜雅在空的圓形露天劇場會見拉克絲等人，[莎拉](../Page/莎拉.md "wikilink")帶領的暗殺部隊圍繞著等待伏擊。蜜雅威脅著要開槍射傷拉克絲，但被阿斯蘭阻止了，射飛了蜜雅手上的槍。蜜雅堅持自己就是拉克絲·克萊因，拉克絲嘗試使蜜雅冷靜下來，告訴她即使現在樣子和聲音很像拉克絲，但蜜雅和拉克絲仍然是兩個不同的人，任何人也無法代替對方，自己的夢想是屬於自己的。
     拉克絲不知情地進入了莎拉的視線，但煌的機械鳥提醒阿斯蘭注意莎拉，交火接著發生，當阿斯蘭幹掉大部分暗殺部隊人員的時候，莎拉投擲了一個手榴彈出來，但被煌和美玲·霍克將之射回給莎拉，莎拉重傷倒下。
     當所有交火撤空後，[穆·拉·弗拉卡駕駛](https://zh.wikipedia.org/wiki/穆·拉·弗拉卡 "wikilink")[曉(不知火裝備)到逹了](https://zh.wikipedia.org/wiki/ORB-01_Akatsuki "wikilink")，當拉克絲登上曉的手上時，基拉邀請蜜雅跟他們一起逃跑，米婭接受了。不過，瀕死的莎拉開槍射向拉克絲，發現這的蜜雅設法推開拉克絲，但被子彈擊中了。阿斯蘭馬上開槍射殺莎拉。最後被憧憬的拉克絲，和寄予感情的阿斯蘭，二人一邊看護，安靜地一邊斷氣。
     感到極度痛苦的蜜雅，給了拉克絲一張自己接受整形手術前的照片，並向拉克絲道歉，懇求她不要忘記她的歌曲和生命，熱淚湧上蜜雅的眼眶，她就這樣死在拉克絲的手臂上。阿斯蘭感到既憤怒又難過，抱著蜜雅的屍體回到大天使號，在那裡為她舉行了一個簡短而嚴肅的葬禮。
@@ -1368,8 +1368,8 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 <!-- end list -->
 
   -
-    她的名字（Meer），在[荷蘭語是表示](../Page/荷蘭語.md "wikilink")「[湖](https://zh.wikipedia.org/wiki/湖 "wikilink")」。然而在動畫裡，她的名字發音是錯誤的，聽起來好像荷蘭語的「[螞蟻](https://zh.wikipedia.org/wiki/螞蟻 "wikilink")」（mier）。這個呼應著拉克絲的名字（Lacus），在拉丁語中也有「湖」的意思。Meer同時在[德語中也有](https://zh.wikipedia.org/wiki/德語 "wikilink")「[海洋](https://zh.wikipedia.org/wiki/海洋 "wikilink")」的意思。
-    蜜雅用[英語寫給拉克絲的信](https://zh.wikipedia.org/wiki/英語 "wikilink")，[文法上有相當大的錯誤](../Page/文法.md "wikilink")（「Help\!
+    她的名字（Meer），在[荷蘭語](../Page/荷蘭語.md "wikilink")是表示「[湖](https://zh.wikipedia.org/wiki/湖 "wikilink")」。然而在動畫裡，她的名字發音是錯誤的，聽起來好像荷蘭語的「[螞蟻](https://zh.wikipedia.org/wiki/螞蟻 "wikilink")」（mier）。這個呼應著拉克絲的名字（Lacus），在拉丁語中也有「湖」的意思。Meer同時在[德語中也有](https://zh.wikipedia.org/wiki/德語 "wikilink")「[海洋](https://zh.wikipedia.org/wiki/海洋 "wikilink")」的意思。
+    蜜雅用[英語寫給拉克絲的信](https://zh.wikipedia.org/wiki/英語 "wikilink")，[文法](../Page/文法.md "wikilink")上有相當大的錯誤（「Help\!
     I'm going to killed, Ms. Lacus\!」），或許這是一個對[機動戰士Z
     GUNDAM的致敬](../Page/機動戰士Z_GUNDAM.md "wikilink")，在機動戰士Z
     GUNDAM中有一個角色──丹尼，寫了一封文法同樣錯了的信給德仔，內容是「[克瓦特羅](https://zh.wikipedia.org/wiki/克瓦特羅 "wikilink")（Quattro
@@ -1979,7 +1979,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
   -
     真的妹妹，在地球軍攻打歐普期間與父母一同死於戰火。
     真夕·飛鳥為[機動戰士鋼彈SEED
-    Destiny的主人公](https://zh.wikipedia.org/wiki/機動戰士高達SEED_Destiny "wikilink")[真·飛鳥的妹妹](../Page/真·飛鳥.md "wikilink")。「只要遵守法律和理念，即使是[調整者也可以在此居住](https://zh.wikipedia.org/wiki/調整者_\(GUNDAM\) "wikilink")。」因為這點，真夕和[真以及父母一家四口在中立國](../Page/真·飛鳥.md "wikilink")[奧布過著和平的生活](https://zh.wikipedia.org/wiki/奧布 "wikilink")，兄妹兩人感情很好。
+    Destiny的主人公](https://zh.wikipedia.org/wiki/機動戰士高達SEED_Destiny "wikilink")[真·飛鳥](../Page/真·飛鳥.md "wikilink")的妹妹。「只要遵守法律和理念，即使是[調整者也可以在此居住](https://zh.wikipedia.org/wiki/調整者_\(GUNDAM\) "wikilink")。」因為這點，真夕和[真以及父母一家四口在中立國](../Page/真·飛鳥.md "wikilink")[奧布過著和平的生活](https://zh.wikipedia.org/wiki/奧布 "wikilink")，兄妹兩人感情很好。
     在[地球聯合軍針對](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")[奧布的攻擊行動中](https://zh.wikipedia.org/wiki/奧布 "wikilink")(前作[機動戰士GUNDAM
     SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink"))，真夕和父母三人遭到流彈波及而死。為了替妹妹撿手機而僥倖活下來的[真](../Page/真·飛鳥.md "wikilink")，眼前所見只有父母的屍體和妹妹的一隻手。「你好，我是真夕\~不過很抱歉，我現在沒辦法接電話……」（這段留言，在SEED
     Destiny第四話中出現。）家裡剩下能讓[真回憶的](../Page/真·飛鳥.md "wikilink")，就只有真夕的手機。

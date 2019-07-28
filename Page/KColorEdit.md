@@ -1,4 +1,4 @@
-**KColorEdit**是一種調色板檔案編輯器。它可用於編輯調色板和顏色的選擇和命名。支持[KDE的調色板文件](../Page/KDE.md "wikilink")。
+**KColorEdit**是一種調色板檔案編輯器。它可用於編輯調色板和顏色的選擇和命名。支持[KDE](../Page/KDE.md "wikilink")的調色板文件。
 
 ## 功能
 

@@ -1,9 +1,9 @@
 《**Summer Romance
-87**》是[香港歌手](../Page/香港.md "wikilink")[張國榮的第十一張](../Page/張國榮.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第八張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1987年8月21日由[新藝寶唱片發行](../Page/新藝寶唱片.md "wikilink")。\[1\]
+87**》是[香港](../Page/香港.md "wikilink")歌手[張國榮](../Page/張國榮.md "wikilink")的第十一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第八張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1987年8月21日由[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")發行。\[1\]
 
 ## 專輯介紹
 
-代表當時[香港樂壇最高的製作水準](../Page/香港.md "wikilink")，專輯裡加入五首翻唱作品，因為香港音樂人的精心雕琢加上張國榮本人聲線的獨特魅力，與另五首原創作品完美地融合一起，營造出一張精緻的浪漫專輯，張國榮成為當時天王巨星，對香港樂壇有重要地位。
+代表當時[香港](../Page/香港.md "wikilink")樂壇最高的製作水準，專輯裡加入五首翻唱作品，因為香港音樂人的精心雕琢加上張國榮本人聲線的獨特魅力，與另五首原創作品完美地融合一起，營造出一張精緻的浪漫專輯，張國榮成為當時天王巨星，對香港樂壇有重要地位。
 
 ## 曲目
 

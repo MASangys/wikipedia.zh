@@ -1,9 +1,9 @@
-[微軟公司在](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")2005年11月推出遊戲主機**[Xbox360](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")**後，眾多用戶曾向微軟方面投訴遊戲主機經常出現不同程度的[故障](https://zh.wikipedia.org/wiki/故障 "wikilink")，而且[概率偏高](../Page/概率.md "wikilink")。有調查顯示，早期版本Xbox360返修率高達68%\[1\]
+[微軟公司在](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")2005年11月推出遊戲主機**[Xbox360](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")**後，眾多用戶曾向微軟方面投訴遊戲主機經常出現不同程度的[故障](https://zh.wikipedia.org/wiki/故障 "wikilink")，而且[概率](../Page/概率.md "wikilink")偏高。有調查顯示，早期版本Xbox360返修率高達68%\[1\]
 ，而2007年7月的報告指出故障機率還是有33%\[2\]。
 
 微軟隨後將遊戲主機三紅故障部份保修期由一年延長至三年，但其他故障問題仍維持在一年保修。微軟聲稱將於新推出的版本主機改進製造工藝。\[3\]
 
-2009年9月，[SquareTrade統計數據最新報告指出](https://zh.wikipedia.org/wiki/SquareTrade "wikilink")，即使完全忽略三紅問題只計算其他故障，Xbox360的故障率仍然遠超過[Wii與](../Page/Wii.md "wikilink")[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")。
+2009年9月，[SquareTrade統計數據最新報告指出](https://zh.wikipedia.org/wiki/SquareTrade "wikilink")，即使完全忽略三紅問題只計算其他故障，Xbox360的故障率仍然遠超過[Wii](../Page/Wii.md "wikilink")與[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")。
 
 ## 三紅燈警告
 
@@ -11,7 +11,7 @@
 [Xbox_360_Error_codes_lang_zh.svg](https://zh.wikipedia.org/wiki/File:Xbox_360_Error_codes_lang_zh.svg "fig:Xbox_360_Error_codes_lang_zh.svg")
 三紅燈警告[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[歐洲用戶稱之為RROD](https://zh.wikipedia.org/wiki/歐洲 "wikilink")「The
 Red Ring of Death」（死亡的紅色光環） ,
-[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港以及](../Page/香港.md "wikilink")[台灣地區玩家稱之為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「三紅」或「死亡紅環」，是指在Xbox360發生異常情況時圍繞[電源按鈕的四盞指示燈其中三盞閃爍紅燈](https://zh.wikipedia.org/wiki/電源 "wikilink")，機器無法運行，只能送還微軟進行維修。
+[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")以及[台灣地區玩家稱之為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「三紅」或「死亡紅環」，是指在Xbox360發生異常情況時圍繞[電源按鈕的四盞指示燈其中三盞閃爍紅燈](https://zh.wikipedia.org/wiki/電源 "wikilink")，機器無法運行，只能送還微軟進行維修。
 
 ### 故障原因
 
@@ -22,14 +22,14 @@ Red Ring of Death」（死亡的紅色光環） ,
 過熱是遊戲配件產品製造商Nyko認為Xbox360主機發生三紅燈警告的主要原因，也有人指出因為Xbox 360機能不足所以長期開機超頻引致過熱。
 
 此問題出現全系列Xbox
-360遊戲主機中。當主機運行時，主機內部[圖形處理器發出大量熱量](../Page/圖形處理器.md "wikilink")，
+360遊戲主機中。當主機運行時，主機內部[圖形處理器](../Page/圖形處理器.md "wikilink")發出大量熱量，
 而散熱風扇的速度已經無法把全部熱空氣抽離，導致主機板暴露在高溫情況下所的膨脹變形，一旦主板發生變形，[CPU處理器和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU圖形處理器與主板的銲接處脫離](https://zh.wikipedia.org/wiki/GPU "wikilink")，引起主機工作異常，從而導致三紅燈警告的出現\[5\]。
 
 也有人認為，造成圖形處理器與主板銲接處脫離，原因在於在製造時，處理器銲接存在縫隙，導致大量氣體流入縫隙中，使焊點熔點下降，使處理器脫焊\[6\]。高溫也會帶來金屬疲勞裂紋，以及散熱風扇長期處於全速狀態帶來的巨大噪音。
 
 #### 劣質浪湧保護插座
 
-微軟員工私下對三紅燈警告的解釋原因歸咎於玩家在使用Xbox360主機時使用劣質的[浪湧保護插座](https://zh.wikipedia.org/wiki/浪湧保護插座 "wikilink")，因為Xbox360各部分元件對電流的改變十分敏感，而使Xbox360中的散熱風扇、[光碟機等工作能力減弱](https://zh.wikipedia.org/wiki/光碟機 "wikilink")，導致三紅等現象出現。而大部分人士對微軟此說法產生質疑，一般浪湧保護插座中，限流[二極管會對所流經插座的電流進行限制](../Page/二極管.md "wikilink")，一般會將其限制在安全的範圍內，而不會控制Xbox360主機工作電流的大小，若Xbox360的[變壓器缺陷而無法處理電流的浮動](https://zh.wikipedia.org/wiki/變壓器 "wikilink")，便有可能出現三紅燈現象問題\[7\]。
+微軟員工私下對三紅燈警告的解釋原因歸咎於玩家在使用Xbox360主機時使用劣質的[浪湧保護插座](https://zh.wikipedia.org/wiki/浪湧保護插座 "wikilink")，因為Xbox360各部分元件對電流的改變十分敏感，而使Xbox360中的散熱風扇、[光碟機等工作能力減弱](https://zh.wikipedia.org/wiki/光碟機 "wikilink")，導致三紅等現象出現。而大部分人士對微軟此說法產生質疑，一般浪湧保護插座中，限流[二極管](../Page/二極管.md "wikilink")會對所流經插座的電流進行限制，一般會將其限制在安全的範圍內，而不會控制Xbox360主機工作電流的大小，若Xbox360的[變壓器缺陷而無法處理電流的浮動](https://zh.wikipedia.org/wiki/變壓器 "wikilink")，便有可能出現三紅燈現象問題\[7\]。
 
 #### 變壓器工作異常/電流異常
 
@@ -46,31 +46,31 @@ Red Ring of Death」（死亡的紅色光環） ,
 ### 劃傷遊戲光碟
 
 2005年底，即Xbox
-360發售開始不久，大量用戶向微軟方面反映，當主機在運作中稍有移動，或散熱[風扇](https://zh.wikipedia.org/wiki/風扇 "wikilink")[速度過快產生](../Page/速度.md "wikilink")[震動](https://zh.wikipedia.org/wiki/震動 "wikilink")，光碟機將對光碟造成不同程度損壞，嚴重者會造成主機無法讀取光碟中遊戲文件資料\[9\]，而遊戲光碟刮傷是不包括在保修之中。有報導稱，根據對微軟方面有關刮碟現象的訴訟文件中指，在2005年9月至10月，微軟在開發Xbox360時已發現此問題，最後微軟僅在遊戲說明書以及光碟機托盤中加入警示標語：「當進行光碟遊戲時，請勿移動主機」\[10\]。另有訴訟文件中稱，Xbox360主機在運作時，光碟機轉動速率達每分鐘7500轉，所產生的回轉力有機會損壞光碟\[11\]。但微軟方面自稱Xbox360刮碟機率不到1%\[12\]。
+360發售開始不久，大量用戶向微軟方面反映，當主機在運作中稍有移動，或散熱[風扇](https://zh.wikipedia.org/wiki/風扇 "wikilink")[速度](../Page/速度.md "wikilink")過快產生[震動](https://zh.wikipedia.org/wiki/震動 "wikilink")，光碟機將對光碟造成不同程度損壞，嚴重者會造成主機無法讀取光碟中遊戲文件資料\[9\]，而遊戲光碟刮傷是不包括在保修之中。有報導稱，根據對微軟方面有關刮碟現象的訴訟文件中指，在2005年9月至10月，微軟在開發Xbox360時已發現此問題，最後微軟僅在遊戲說明書以及光碟機托盤中加入警示標語：「當進行光碟遊戲時，請勿移動主機」\[10\]。另有訴訟文件中稱，Xbox360主機在運作時，光碟機轉動速率達每分鐘7500轉，所產生的回轉力有機會損壞光碟\[11\]。但微軟方面自稱Xbox360刮碟機率不到1%\[12\]。
 
 ### E代碼故障
 
-E代碼故障是指在Xbox360主機中出現故障的代碼，一般以E（Error）和兩位數字形式顯示，其中[E74故障較為嚴重](https://zh.wikipedia.org/wiki/E74 "wikilink")。一般出現在2007年推出的帶[HDMI端子的Xbox](../Page/HDMI.md "wikilink")360系列主機中，當故障發生時，遊戲視頻輸出畫面發生異常，產生[噪聲或條紋](https://zh.wikipedia.org/wiki/雪花 "wikilink")，而主機環繞電源按鈕的四盞指示燈其中閃爍一盞紅燈，而系統屏幕顯示「E74
+E代碼故障是指在Xbox360主機中出現故障的代碼，一般以E（Error）和兩位數字形式顯示，其中[E74故障較為嚴重](https://zh.wikipedia.org/wiki/E74 "wikilink")。一般出現在2007年推出的帶[HDMI](../Page/HDMI.md "wikilink")端子的Xbox360系列主機中，當故障發生時，遊戲視頻輸出畫面發生異常，產生[噪聲或條紋](https://zh.wikipedia.org/wiki/雪花 "wikilink")，而主機環繞電源按鈕的四盞指示燈其中閃爍一盞紅燈，而系統屏幕顯示「E74
 系統錯誤，請聯繫Xbox客戶支持」\[13\]。有消息稱E74故障的產生是三紅燈警告故障顯示的另一種形式。而微軟方面指，出現E74故障的成因，是因為在2008年11月19日的系統更新中，加入Xbox
 Experience的新界面設計，而加大負責HDMI信號輸出的ANA/HANA芯片工作負荷，而產生E74故障。隨後微軟被迫將[E74故障也跟](https://zh.wikipedia.org/wiki/E74 "wikilink")[三紅列入三年保固條例中](https://zh.wikipedia.org/wiki/三紅 "wikilink")\[14\]。
 
 ### 風扇噪音
 
 Xbox
-360因為[風扇長期處於全速狀態](https://zh.wikipedia.org/wiki/風扇 "wikilink")，相比起競爭對手[Wii與](../Page/Wii.md "wikilink")[PlayStation
+360因為[風扇長期處於全速狀態](https://zh.wikipedia.org/wiki/風扇 "wikilink")，相比起競爭對手[Wii](../Page/Wii.md "wikilink")與[PlayStation
 3](../Page/PlayStation_3.md "wikilink")，Xbox
-360的風扇的[聲音非常巨大](https://zh.wikipedia.org/wiki/聲音 "wikilink")，有用戶更認為此[噪音像](../Page/噪音.md "wikilink")[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")[起飛一樣](https://zh.wikipedia.org/wiki/起飛 "wikilink")。\[15\]
+360的風扇的[聲音非常巨大](https://zh.wikipedia.org/wiki/聲音 "wikilink")，有用戶更認為此[噪音](../Page/噪音.md "wikilink")像[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")[起飛一樣](https://zh.wikipedia.org/wiki/起飛 "wikilink")。\[15\]
 
 ### 主機識別號封鎖
 
-在Xbox360推出市場後，有[黑客曾通過篡改主機光驅](../Page/黑客.md "wikilink")[固件和安裝直讀芯片等方法](https://zh.wikipedia.org/wiki/固件 "wikilink")，繞過Xbox360主機正版驗證機制而讀取盜版光盤\[16\]。部分玩家甚至使用此類主機登陸[Xbox
+在Xbox360推出市場後，有[黑客](../Page/黑客.md "wikilink")曾通過篡改主機光驅[固件和安裝直讀芯片等方法](https://zh.wikipedia.org/wiki/固件 "wikilink")，繞過Xbox360主機正版驗證機制而讀取盜版光盤\[16\]。部分玩家甚至使用此類主機登陸[Xbox
 Live伺服器](../Page/Xbox_Live.md "wikilink")。2007年5月17日，微軟開始大量封鎖所有曾經對Xbox360作出改裝的用戶Xbox
 Live服務，封鎖其機身識別號使其無法登陸Xbox
 Live（即俗稱「Ban機」或「鎖機」）\[17\]。而被封鎖主機識別號的用戶將不能享受Xbox360的質保服務。而經過2009年11月更新後，微軟開始擴大封鎖範圍，被封鎖後的主機均不能使用硬盤啟動遊戲，但在12月被黑客破解封鎖。然而部分盜版玩家仍未被封鎖，有人認為微軟盜版監察機制上存在漏洞\[18\]。
 
 ## 訴訟
 
-有媒體報導稱，早在Xbox360主機發售前，微軟方面已經獲悉主機圖型處理器散熱方面設計有缺陷，但仍然推出市場。2005年12月，一名[芝加哥男子對微軟提出訴訟](../Page/芝加哥.md "wikilink")，指Xbox360主機存在設計缺陷，可能導致系統過熱而無法使用，要求微軟對此作出賠償、支付訴訟支出以及更換或回收Xbox360主機。2007年7月，微軟方面宣佈，自購買之日起算，所有Xbox360主機在3年內發生三紅燈警告故障，將提供品質保固服務\[19\]。
+有媒體報導稱，早在Xbox360主機發售前，微軟方面已經獲悉主機圖型處理器散熱方面設計有缺陷，但仍然推出市場。2005年12月，一名[芝加哥](../Page/芝加哥.md "wikilink")男子對微軟提出訴訟，指Xbox360主機存在設計缺陷，可能導致系統過熱而無法使用，要求微軟對此作出賠償、支付訴訟支出以及更換或回收Xbox360主機。2007年7月，微軟方面宣佈，自購買之日起算，所有Xbox360主機在3年內發生三紅燈警告故障，將提供品質保固服務\[19\]。
 
 ## 批評
 

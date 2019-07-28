@@ -99,7 +99,7 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV亞洲大碟榜</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV</a>亞洲大碟榜</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p>7</p></td>
 </tr>

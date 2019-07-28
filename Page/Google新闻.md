@@ -1,4 +1,4 @@
-**Google新闻**是[Google开发的一款](../Page/Google.md "wikilink")[Web新闻聚合器](https://zh.wikipedia.org/wiki/Web "wikilink")，由Google首席工程師[克里希纳·巴拉特](https://zh.wikipedia.org/wiki/克里希纳·巴拉特 "wikilink")（Krishna
+**Google新闻**是[Google](../Page/Google.md "wikilink")开发的一款[Web新闻聚合器](https://zh.wikipedia.org/wiki/Web "wikilink")，由Google首席工程師[克里希纳·巴拉特](https://zh.wikipedia.org/wiki/克里希纳·巴拉特 "wikilink")（Krishna
 Bharat）創造與領導開發。
 
 ## 歷史
@@ -9,7 +9,7 @@ Bharat）創造與領導開發。
 
 2006年1月，中国版Google新闻改名为“Google资讯”，而香港和台灣版的名稱則維持不變。
 
-2010年3月23日，Google宣布关闭[谷歌中国Google](../Page/谷歌中国.md "wikilink").cn的搜索、新闻等服务，中国版Google资讯域名news.google.cn被重定向至news.google.com.hk；8月，中国版Google资讯被重新更名为“Google新闻”。
+2010年3月23日，Google宣布关闭[谷歌中国](../Page/谷歌中国.md "wikilink")Google.cn的搜索、新闻等服务，中国版Google资讯域名news.google.cn被重定向至news.google.com.hk；8月，中国版Google资讯被重新更名为“Google新闻”。
 
 2015年4月6日，Google宣布成立Google台灣新聞、同時宣佈新聞總編由日前臉書知名作家張志國暫時接任。
 

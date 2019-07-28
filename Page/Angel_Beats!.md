@@ -1,4 +1,4 @@
-是一部由遊戲製作公司[Key與](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[Aniplex聯合製作的](../Page/Aniplex.md "wikilink")[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，除了共13話[電視動畫外還有相關企畫案](../Page/日本電視動畫.md "wikilink")。作品由曾寫過數款遊戲劇本的作家[麻枝准發想](../Page/麻枝准.md "wikilink")，分別由負責動畫音樂部分，以及[Na-Ga負責人物角色的原畫製作](../Page/Na-Ga.md "wikilink")。其中音樂和原畫皆是由Key公司負責，而負責原作創作的麻枝准與人物設計的Na-Ga亦都是Key公司的員工。這次企畫案為Key首次嘗試直接進行動畫創作，在這之前Key主要推出原創的電腦遊戲、再授權其他動畫公司來製作系列動畫，這包括有先前的《[Kanon](../Page/Kanon.md "wikilink")》、《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》以及《[CLANNAD](../Page/CLANNAD.md "wikilink")》等著名的[視覺小說作品](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。
+是一部由遊戲製作公司[Key與](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")聯合製作的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，除了共13話[電視動畫外還有相關企畫案](../Page/日本電視動畫.md "wikilink")。作品由曾寫過數款遊戲劇本的作家[麻枝准](../Page/麻枝准.md "wikilink")發想，分別由負責動畫音樂部分，以及[Na-Ga](../Page/Na-Ga.md "wikilink")負責人物角色的原畫製作。其中音樂和原畫皆是由Key公司負責，而負責原作創作的麻枝准與人物設計的Na-Ga亦都是Key公司的員工。這次企畫案為Key首次嘗試直接進行動畫創作，在這之前Key主要推出原創的電腦遊戲、再授權其他動畫公司來製作系列動畫，這包括有先前的《[Kanon](../Page/Kanon.md "wikilink")》、《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》以及《[CLANNAD](../Page/CLANNAD.md "wikilink")》等著名的[視覺小說作品](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。
 
 動畫在2010年4月2日到6月25日期間首次播出，該動畫[OVA版本則在同年](../Page/原創動畫錄影帶.md "wikilink")12月22日發佈。Key推出動畫的同時，也聯合[ASCII
 Media Works以及](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's
@@ -21,9 +21,9 @@ Beats\!》故事發生在一所位於只有亡者與[NPC世界的大型高級中
 
 對此主要角色仲村百合認為這裡是一個由神掌管的「死後世界」，並且她與其他成員一同創立「[死後世界戰線](https://zh.wikipedia.org/wiki/死後世界戰線 "wikilink")」，其目的便是向給予自己人生殘酷命運的「神」做出反抗。另外在故事中，死後世界戰線轄下有兩個部門負責協助作戰。一個是由4名少女組成的「Girls
 Dead
-Monster」樂團。這隻樂團表面上看起來像是普通的，但是其目的是在死後世界戰線從事其他任務活動時，轉移普通學生、教師以及「天使」的注意力。另外一個團體叫做「公會」，這個部門主要工作是爲死後世界戰線提供與「天使」作戰時所需的武器。其中公會成員可以用收集而來的「土塊」，藉着生前的記憶[大量生產武器裝備](../Page/大量生產.md "wikilink")。
+Monster」樂團。這隻樂團表面上看起來像是普通的，但是其目的是在死後世界戰線從事其他任務活動時，轉移普通學生、教師以及「天使」的注意力。另外一個團體叫做「公會」，這個部門主要工作是爲死後世界戰線提供與「天使」作戰時所需的武器。其中公會成員可以用收集而來的「土塊」，藉着生前的記憶[大量生產](../Page/大量生產.md "wikilink")武器裝備。
 
-故事主要以音無結弦的視點進行，當他於學校路上甦醒後發現自己來到一個不同的世界，卻也留意到自己疑似[喪失過去記憶](https://zh.wikipedia.org/wiki/逆行性失憶症 "wikilink")。此時遇見一名正蹲著拿著狙擊步槍、名叫仲村百合的少女，她一開口就邀請音無加入「死後世界戰線」，並且表示他們敵人即為擔任學生會會長的「天使」。在一次行動成功後讓「天使」失去會長位置，同時也得知「天使」真實姓名為立華奏。接任會長的前副會長直井文人一上任便對死後世界戰線展開大規模的搜捕行動，甚至利用[催眠的方式控制NPC角色發動攻勢](../Page/催眠.md "wikilink")。最終音無成功阻止衝突並表示承認直井存在，之後直井加入死後世界戰線。在直井催眠協助下音無恢復自己的記憶，想起自己過去的人生以及最後死亡的細節，決定與奏合作以幫助其他死後世界戰線成員滿足生前遺願。在奏重新恢復學生會會長職位後，音無和奏合作幫助成員實現願望。
+故事主要以音無結弦的視點進行，當他於學校路上甦醒後發現自己來到一個不同的世界，卻也留意到自己疑似[喪失過去記憶](https://zh.wikipedia.org/wiki/逆行性失憶症 "wikilink")。此時遇見一名正蹲著拿著狙擊步槍、名叫仲村百合的少女，她一開口就邀請音無加入「死後世界戰線」，並且表示他們敵人即為擔任學生會會長的「天使」。在一次行動成功後讓「天使」失去會長位置，同時也得知「天使」真實姓名為立華奏。接任會長的前副會長直井文人一上任便對死後世界戰線展開大規模的搜捕行動，甚至利用[催眠](../Page/催眠.md "wikilink")的方式控制NPC角色發動攻勢。最終音無成功阻止衝突並表示承認直井存在，之後直井加入死後世界戰線。在直井催眠協助下音無恢復自己的記憶，想起自己過去的人生以及最後死亡的細節，決定與奏合作以幫助其他死後世界戰線成員滿足生前遺願。在奏重新恢復學生會會長職位後，音無和奏合作幫助成員實現願望。
 
 途中，出現系統bug，造成大量NPC“影化”，這更加堅定音無幫大家離開死後世界的決心。
 
@@ -44,7 +44,7 @@ Monster」樂團。這隻樂團表面上看起來像是普通的，但是其目�
     Beats\!》小說和漫畫的女主角。有時候會被稱作「小百合」（），為死後世界戰線的領導人。她有著極為堅定的性格，但是暗地裡非常敏感且照顧他人\[6\]。一開始便邀請音無參加由她所創立的死後世界戰線，一同對「神」做出反抗\[7\]。在許多時候會展現出明智的判斷能力，並能依照局勢果斷下達指令\[8\]\[9\]。平常會隨身攜帶一把銀色[貝瑞塔92FS
     Inox手槍](../Page/貝瑞塔92手槍.md "wikilink")，在作戰中也會使用[KRISS
     Vector衝鋒槍](../Page/KRISS_Vector衝鋒槍.md "wikilink")、[CheyTac
-    M200干預型狙擊步槍以及](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")[CQBR等槍械](../Page/CQBR.md "wikilink")。除了熟練槍支的操作外，在「天使」突襲地下基地時也能以戰鬥刀應戰，表示其對於近身肉搏方面也十分擅長\[10\]。在生前3個年幼的弟妹遭到搶匪殺害，使得百合無法原諒沒能救出弟妹的自己，而在死後亦發誓要對「神」展開反抗\[11\]。她同時也是一個優秀的領導者，但自己一直並不這麼覺得\[12\]。一直到故事最後她才真正注意到，她對於死後世界戰線成員的關心就像對待自己另一個家庭弟妹一般。在消失前她也對於與奏發生的衝突感到遺憾，因為她認為兩人其實能成為一對不錯的好友\[13\]。在與奏擁抱諒解並向音無、日向兩人告別後，最後消失在畢業典禮上\[14\]。
+    M200干預型狙擊步槍以及](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")[CQBR](../Page/CQBR.md "wikilink")等槍械。除了熟練槍支的操作外，在「天使」突襲地下基地時也能以戰鬥刀應戰，表示其對於近身肉搏方面也十分擅長\[10\]。在生前3個年幼的弟妹遭到搶匪殺害，使得百合無法原諒沒能救出弟妹的自己，而在死後亦發誓要對「神」展開反抗\[11\]。她同時也是一個優秀的領導者，但自己一直並不這麼覺得\[12\]。一直到故事最後她才真正注意到，她對於死後世界戰線成員的關心就像對待自己另一個家庭弟妹一般。在消失前她也對於與奏發生的衝突感到遺憾，因為她認為兩人其實能成為一對不錯的好友\[13\]。在與奏擁抱諒解並向音無、日向兩人告別後，最後消失在畢業典禮上\[14\]。
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@ Monster」樂團。這隻樂團表面上看起來像是普通的，但是其目�
     Beats\!》小說和漫畫的男主角。日向是一名開朗且可靠的男子，同時也是音無最親密的好友\[21\]。他總是以伙伴的利益為考量的第一優先，是死後世界戰線最老的成員同時也是團隊中可靠的力量之一\[22\]。
     他和由依每天都不斷打鬧，但在內心深處仍然十分關心由依的存在；當他幫助由依實現她的願望之時，他告訴由依他會選擇娶她，不管她以前曾發生了什麼事情\[23\]。
     在最終話畢業典禮之後，與音無互認為摯友之後消失。他與百合共同組建了死後世界戰線，然而他常以「小百合」稱呼；因為他覺得叫出「百合」這個名字讓他感覺不舒服，原因是這跟自己的母親名字一樣\[24\]。
-    平时以作為自衛武器，戰鬥時使用過[RPK-74輕機槍以及](../Page/RPK-74輕機槍.md "wikilink")[M14-DMR狙擊步槍](../Page/美國海軍陸戰隊精確射手步槍.md "wikilink")\[25\]
+    平时以作為自衛武器，戰鬥時使用過[RPK-74輕機槍](../Page/RPK-74輕機槍.md "wikilink")以及[M14-DMR狙擊步槍](../Page/美國海軍陸戰隊精確射手步槍.md "wikilink")\[25\]
     。
     日向生前是一名棒球選手，自己的隊伍在地區大賽中因為日向沒能接殺最後一顆高飛球而落敗沒能晉級全國大賽。本人在自責與隊友的冷嘲熱諷中身陷絕望，為尋求解脫而沾染上毒品\[26\]。在漫畫中則告知，最後他被一輛卡車撞上而死亡。喜歡由依，並在由依消失前答應她想結婚的夢想。
 
@@ -70,9 +70,9 @@ Monster」樂團。這隻樂團表面上看起來像是普通的，但是其目�
 ### 創作概念
 
 《Angel
-Beats\!》原創者、同樣隸屬[Key的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[麻枝准與](../Page/麻枝准.md "wikilink")[Na-Ga](../Page/Na-Ga.md "wikilink")，在《[電擊G's
+Beats\!》原創者、同樣隸屬[Key的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[麻枝准](../Page/麻枝准.md "wikilink")與[Na-Ga](../Page/Na-Ga.md "wikilink")，在《[電擊G's
 magazine](../Page/電擊G's_magazine.md "wikilink")》雜誌2009年7月號上的訪談首次提到相關內容。當時Key已經完成其第六款[視覺小說遊戲](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")《[Little
-Busters\!](../Page/Little_Busters!.md "wikilink")》且正式發售，同年10月於[Aniplex工作](../Page/Aniplex.md "wikilink")、本身也是[Key作品粉絲的](../Page/Key開發遊戲列表.md "wikilink")[鳥羽洋典提出合作案](https://zh.wikipedia.org/wiki/鳥羽洋典 "wikilink")，期望兩家公司共同製做一款原創的動畫系列作品。麻枝准開始每個月定時與鳥羽以及Aniplex製作團隊團隊會晤，新的故事基礎上也逐漸成形。Aniplex原本期望聘請麻枝准寫出完善的劇本以製作動畫，最好是像「過去Key作品一樣帶有歡笑和淚水的感人時刻」之全新作品；但麻枝准發現自己遲遲無法寫出比《Little
+Busters\!](../Page/Little_Busters!.md "wikilink")》且正式發售，同年10月於[Aniplex](../Page/Aniplex.md "wikilink")工作、本身也是[Key作品粉絲的](../Page/Key開發遊戲列表.md "wikilink")[鳥羽洋典提出合作案](https://zh.wikipedia.org/wiki/鳥羽洋典 "wikilink")，期望兩家公司共同製做一款原創的動畫系列作品。麻枝准開始每個月定時與鳥羽以及Aniplex製作團隊團隊會晤，新的故事基礎上也逐漸成形。Aniplex原本期望聘請麻枝准寫出完善的劇本以製作動畫，最好是像「過去Key作品一樣帶有歡笑和淚水的感人時刻」之全新作品；但麻枝准發現自己遲遲無法寫出比《Little
 Busters\!》更有趣的故事，認為《Little
 Busters\!》已經是「Key風格作品」的極限，這使得創作進度一度陷入停頓。然而有一天麻枝准突然想到創作有關死後世界的故事並讓他印象深刻，這也成為了《Angel
 Beats\!》最初的發想概念。由於在故事設定中每個已經死去，麻枝准認為角色便能在沒有對死亡恐懼的情況下，全力以赴的展現華麗戰鬥技巧。麻枝准表示《Angel
@@ -86,38 +86,38 @@ Monster成員[久子](https://zh.wikipedia.org/wiki/Angel_Beats!角色列表#久
 
 ### 動畫製作
 
-麻枝准剛開始編寫劇本時，一方面因必須在[大阪市和](../Page/大阪市.md "wikilink")[東京都之間來回開會](../Page/東京都.md "wikilink")，使得他感到十分疲累；另一方面這是他首次擔任作品唯一的編劇，在這之前麻枝准主要是與Key公司其他員工共同創作遊戲劇本，首次獨自創作劇情使得他遲遲無法發想出來。而在選擇《Angel
+麻枝准剛開始編寫劇本時，一方面因必須在[大阪市](../Page/大阪市.md "wikilink")和[東京都](../Page/東京都.md "wikilink")之間來回開會，使得他感到十分疲累；另一方面這是他首次擔任作品唯一的編劇，在這之前麻枝准主要是與Key公司其他員工共同創作遊戲劇本，首次獨自創作劇情使得他遲遲無法發想出來。而在選擇《Angel
 Beats\!》動畫製作團隊時，鳥羽洋典於Aniplex公司提出的資料中注意到[P.A.
 Works這所動畫工作室](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。在這之前P.A.
 Works便曾在2003年至2004年推出《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")》、以及在2007年推出《[DARKER
 THAN
 BLACK](https://zh.wikipedia.org/wiki/DARKER_THAN_BLACK "wikilink")》等系列動畫，而Aniplex當時便協助P.A.
 Works製作與銷售。鳥羽在看過P.A. Works於2008年製作的《[真實之淚 true
-tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》前3話後，便為作品的高品質感到震驚。他並立刻前往位在[富山縣P](../Page/富山縣.md "wikilink").A.
+tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》前3話後，便為作品的高品質感到震驚。他並立刻前往位在[富山縣](../Page/富山縣.md "wikilink")P.A.
 Works工作室和製作人員會面，希望之後其能夠與Aniplex共同合作。大約過了一個禮拜後，麻枝准正式尋找負責製作《Angel
 Beats\!》的動畫公司時，曾看過《真實之淚 true tears》的麻枝准對於P.A.
 Works的作品水準感到興趣。不久之後，鳥羽便正式向P.A.
 Works提出動畫製作計畫\[30\]。
 
 由於麻枝准特別將「搞笑」情節視為《Angel
-Beats\!》重要一部分，為此鳥羽前往拜託[岸誠二擔任](../Page/岸誠二.md "wikilink")《Angel
+Beats\!》重要一部分，為此鳥羽前往拜託[岸誠二](../Page/岸誠二.md "wikilink")擔任《Angel
 Beats\!》導演。一方面岸誠二在動畫製作上有著許多經驗，另一方面P.A. Works許多年輕工作人員對其十分尊崇，P.A.
 Works一些作品中也有受岸誠二的作品影響\[31\]\[32\]。P.A.
-Works董事代表[堀川憲司一開始只向岸誠二提到作品為](../Page/堀川憲司.md "wikilink")「遊戲故事劇作家所寫的校園喜劇」、並希望由他擔任導演，而後者在得知編劇是麻枝准感到十分震驚。岸誠二認為這部作品並非只是普通的校園喜劇，而是包含華麗動作場面、實況音樂表演以及感的劇情呈現等許多元素。岸誠二表示通常他很難將所有要素完全塞入一部作品中，但由於麻枝准始終對劇本不願做出讓步，這使得他只能盡可能將所有元素加以呈現\[33\]。例如為了能在故事中加入不同且有趣的元素，麻枝准強硬要求加入女子樂團Girls
+Works董事代表[堀川憲司](../Page/堀川憲司.md "wikilink")一開始只向岸誠二提到作品為「遊戲故事劇作家所寫的校園喜劇」、並希望由他擔任導演，而後者在得知編劇是麻枝准感到十分震驚。岸誠二認為這部作品並非只是普通的校園喜劇，而是包含華麗動作場面、實況音樂表演以及感的劇情呈現等許多元素。岸誠二表示通常他很難將所有要素完全塞入一部作品中，但由於麻枝准始終對劇本不願做出讓步，這使得他只能盡可能將所有元素加以呈現\[33\]。例如為了能在故事中加入不同且有趣的元素，麻枝准強硬要求加入女子樂團Girls
 Dead
-Monster內容\[34\]。另外麻枝准也參與動畫角色聲優的遴選，例如負責為[立華奏配音的聲優](https://zh.wikipedia.org/wiki/立華奏 "wikilink")[花澤香菜便是其强烈要求下錄取](../Page/花澤香菜.md "wikilink")，在之後訪問中他則提到：「天使的聲音只能是這樣，並沒有別的選擇。\[35\]」
+Monster內容\[34\]。另外麻枝准也參與動畫角色聲優的遴選，例如負責為[立華奏配音的聲優](https://zh.wikipedia.org/wiki/立華奏 "wikilink")[花澤香菜](../Page/花澤香菜.md "wikilink")便是其强烈要求下錄取，在之後訪問中他則提到：「天使的聲音只能是這樣，並沒有別的選擇。\[35\]」
 
 相較於故事劇本所面臨的困難，麻枝准在劇本完成後則十分喜歡從事動畫音樂的創作。他總共為Girls Dead
 Monster創作出15首歌曲，平均兩天便創作出1首動畫歌曲。由於麻枝准認為Girls Dead
 Monster是由高中女生所組成的樂團，因此無論是旋律還是歌詞都參考這層背景。但也因此同樣是由麻枝准所創作的《Angel
 Beats\!》片頭曲與片尾曲，和Girls Dead
-Monster的歌曲相比在風格上有許多不同處\[36\]。導演岸誠二也會給音樂監督下達一些背景音樂和主題音樂指示，而飯田-{里}-樹亦會協助麻枝准製作時負責音樂[校對工作](../Page/校對.md "wikilink")\[37\]。2010年4月飯田-{里}-樹接受《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》記者採訪時，表示麻枝准以及成員同意其提出的整部動畫使用的[背景音樂以](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")[簡約音樂風格為主](../Page/簡約音樂.md "wikilink")，對此飯田坦承這[音樂風格過去的確較少使用在動畫作品中](https://zh.wikipedia.org/wiki/音樂風格 "wikilink")\[38\]。
+Monster的歌曲相比在風格上有許多不同處\[36\]。導演岸誠二也會給音樂監督下達一些背景音樂和主題音樂指示，而飯田-{里}-樹亦會協助麻枝准製作時負責音樂[校對](../Page/校對.md "wikilink")工作\[37\]。2010年4月飯田-{里}-樹接受《[電擊G's
+magazine](../Page/電擊G's_magazine.md "wikilink")》記者採訪時，表示麻枝准以及成員同意其提出的整部動畫使用的[背景音樂以](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")[簡約音樂](../Page/簡約音樂.md "wikilink")風格為主，對此飯田坦承這[音樂風格過去的確較少使用在動畫作品中](https://zh.wikipedia.org/wiki/音樂風格 "wikilink")\[38\]。
 
 不過為了能找到真正適合這部動畫的音樂作品，飯田-{里}-樹、麻枝准以及ANANT-GARDE
 EYES經歷多次[嘗試與失敗後才找出](https://zh.wikipedia.org/wiki/試錯 "wikilink")。其中麻枝准以及ANANT-GARDE
 EYES一開始便是期望創作出具個人風格的優秀音樂曲目，相對地然飯田則是希望能夠找到能陪襯動畫的理想背景音樂；這使得雙方在音樂創作中出現一些問題，其中飯田認為將這些優秀的音樂與視覺效果能相互結合，給觀眾建立出一種兩者同步呈現之感受極為重要\[39\]。另外鳥羽還找到已經在2008年《[強襲魔女](../Page/強襲魔女.md "wikilink")》中擔任首席動畫師的[平田雄三](../Page/平田雄三.md "wikilink")，負責《Angel
-Beats\!》動畫的[人物設計以及](../Page/人物設計.md "wikilink")[作畫監督工作](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")。其中早在2007年時，鳥羽便於《[天元突破
+Beats\!》動畫的[人物設計](../Page/人物設計.md "wikilink")以及[作畫監督工作](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")。其中早在2007年時，鳥羽便於《[天元突破
 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")》中注意到平田的才能；鳥與認為儘管平田繪製速度十分迅速，但如同藝術家般對於細節部分十分講究。儘管此時平田已有其他企畫，但鳥羽仍十分希望他能成為《Angel
 Beats\!》工作人員，而麻枝准也贊成將平田拉入製作團隊的想法\[40\]。
 
@@ -130,7 +130,7 @@ Beats\!》工作人員，而麻枝准也贊成將平田拉入製作團隊的想�
 :;「[My Soul, Your
 Beats\!](https://zh.wikipedia.org/wiki/My_Soul,_Your_Beats! "wikilink")」（第2\~3話、第5\~9話、第11話）
 
-::歌：[Lia作詞](../Page/Lia.md "wikilink")、作曲：[麻枝准](../Page/麻枝准.md "wikilink")，編曲：[ANANT-GARDE
+::歌：[Lia](../Page/Lia.md "wikilink")作詞、作曲：[麻枝准](../Page/麻枝准.md "wikilink")，編曲：[ANANT-GARDE
 EYES](https://zh.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
 
 :;「[My Soul, Your
@@ -152,7 +152,7 @@ Song](https://zh.wikipedia.org/wiki/Brave_Song "wikilink")」（第1\~9話、第
   -
 
       -
-        歌：[多田葵作詞](../Page/多田葵.md "wikilink")、作曲：[麻枝准](../Page/麻枝准.md "wikilink")，編曲：[ANANT-GARDE
+        歌：[多田葵](../Page/多田葵.md "wikilink")作詞、作曲：[麻枝准](../Page/麻枝准.md "wikilink")，編曲：[ANANT-GARDE
         EYES](https://zh.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
 
   - 插曲:
@@ -207,11 +207,11 @@ magazine》採訪時表示，麻枝准在製作前曾提到一部共13話、每�
 Beats\!》所有世界觀以及故事內容；因此受時間限制而刪除的劇情，便會藉由圖文並茂的短篇小說以及[日本漫畫等媒體呈現](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。鳥羽希望那些喜歡《Angel
 Beats\!》系列作品的粉絲，能夠充分享受探索各式各樣媒體類型作品的樂趣\[42\]。
 
-由[岸誠二擔任導演](../Page/岸誠二.md "wikilink")、[P.A.
-Works與](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")[Aniplex一同合作製做的](../Page/Aniplex.md "wikilink")《Angel
-Beats\!》一共推出13話的電視動畫\[43\]\[44\]，該系列自2010年4月3日到6月26日期間於[中部日本放送在日本播出](../Page/中部日本放送.md "wikilink")\[45\]\[46\]\[47\]。不過早在2010年3月22日，Aniplex便藉由抽獎的方式選出部分人選，並邀請他們提早觀看《Angel
-Beats\!》動畫第1話的內容\[48\]。在最初計畫之中由[麻枝准負責系列劇本的編寫](../Page/麻枝准.md "wikilink")、由[平田雄三負責動畫的創作以及由](../Page/平田雄三.md "wikilink")[Na-Ga負責動畫角色的原始設計](../Page/Na-Ga.md "wikilink")，另外還邀請[飯田里樹負責動畫音樂與音效的製做](https://zh.wikipedia.org/wiki/飯田里樹 "wikilink")\[49\]\[50\]。《Angel
-Beats\!》的[過場動畫則是在純白色的背景之下](https://zh.wikipedia.org/wiki/過場 "wikilink")，以一個[音符長短的](../Page/音符.md "wikilink")[A440鋼琴聲音帶出](https://zh.wikipedia.org/wiki/A440 "wikilink")《Angel
+由[岸誠二](../Page/岸誠二.md "wikilink")擔任導演、[P.A.
+Works與](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")一同合作製做的《Angel
+Beats\!》一共推出13話的電視動畫\[43\]\[44\]，該系列自2010年4月3日到6月26日期間於[中部日本放送](../Page/中部日本放送.md "wikilink")在日本播出\[45\]\[46\]\[47\]。不過早在2010年3月22日，Aniplex便藉由抽獎的方式選出部分人選，並邀請他們提早觀看《Angel
+Beats\!》動畫第1話的內容\[48\]。在最初計畫之中由[麻枝准](../Page/麻枝准.md "wikilink")負責系列劇本的編寫、由[平田雄三](../Page/平田雄三.md "wikilink")負責動畫的創作以及由[Na-Ga](../Page/Na-Ga.md "wikilink")負責動畫角色的原始設計，另外還邀請[飯田里樹負責動畫音樂與音效的製做](https://zh.wikipedia.org/wiki/飯田里樹 "wikilink")\[49\]\[50\]。《Angel
+Beats\!》的[過場動畫則是在純白色的背景之下](https://zh.wikipedia.org/wiki/過場 "wikilink")，以一個[音符](../Page/音符.md "wikilink")長短的[A440鋼琴聲音帶出](https://zh.wikipedia.org/wiki/A440 "wikilink")《Angel
 Beats\!》的標誌。
 
 2010年6月23日，首次發布了《Angel
@@ -230,14 +230,14 @@ Entertainment負責代理](https://zh.wikipedia.org/wiki/Manga_Entertainment "wi
 《Angel Beats\!》動畫中所使用的音樂是由麻枝准以及ANANT-GARDE
 EYES共同製作，其中後者還負責動畫音樂的[編曲與修飾](https://zh.wikipedia.org/wiki/編曲 "wikilink")，而[Key旗下的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")[Key
 Sounds Label則負責音樂的公開與販售](../Page/Key_Sounds_Label.md "wikilink")。在《Angel
-Beats\!》動畫之中片頭的主題曲為[Lia所唱的](../Page/Lia.md "wikilink")《My Soul，Your
-Beats\!》，而結束時播放的主題曲則為[多田葵所唱的](../Page/多田葵.md "wikilink")《Brave
+Beats\!》動畫之中片頭的主題曲為[Lia](../Page/Lia.md "wikilink")所唱的《My Soul，Your
+Beats\!》，而結束時播放的主題曲則為[多田葵](../Page/多田葵.md "wikilink")所唱的《Brave
 Song》。2010年5月26日，Key Sounds Label將這兩首歌曲的不同音樂版本收錄於《[My Soul, Your
 Beats\!/Brave
 Song](https://zh.wikipedia.org/wiki/My_Soul,_Your_Beats!/Brave_Song "wikilink")》，並分別推出限量版（CD+DVD光碟）和通常版（僅有CD光碟）兩種版本，其中限量版的DVD光碟之中收錄了動畫中沒有使用的開頭和結束影片\[65\]。
 
 另外Key Sounds Label也為在故事劇情中出現的5人樂團「Girls Dead
-Monster」推出音樂光碟，而現實生活中演唱出這些歌曲的歌手為[LiSA以及](../Page/LiSA.md "wikilink")[Marina](../Page/Marina.md "wikilink")\[66\]。在2010年4月23日推出了第一支單曲《[Crow
+Monster」推出音樂光碟，而現實生活中演唱出這些歌曲的歌手為[LiSA](../Page/LiSA.md "wikilink")以及[Marina](../Page/Marina.md "wikilink")\[66\]。在2010年4月23日推出了第一支單曲《[Crow
 Song](../Page/Crow_Song.md "wikilink")》，之後陸續於2010年5月12日以及6月9日推出第二支單曲以及第三支單曲《[Thousand
 Enemies](../Page/Thousand_Enemies.md "wikilink")》與《[Little
 Braver](../Page/Little_Braver.md "wikilink")》\[67\]。2010年12月8日時，則一次推出由Marina所唱的第四支單曲《[Last
@@ -344,14 +344,14 @@ Operation」則是在2010年12月27日於[東京國際論壇大樓舉辦](https:
 ### 網路電台
 
 為了推廣《Angel
-Beats\!》的知名度，在2009年5月30日到2010年3月31日期間總共有4個[網路電台的節目陸續在](https://zh.wikipedia.org/wiki/網路電台 "wikilink")《[麻枝准的殺伐RADIO](https://zh.wikipedia.org/wiki/麻枝准的殺伐RADIO "wikilink")》（）進行宣傳。這個頻道的主持人即為[麻枝准本人](../Page/麻枝准.md "wikilink")，同時也會邀請到包括[田中宏紀以及](https://zh.wikipedia.org/wiki/田中宏紀 "wikilink")[Na-Ga等](../Page/Na-Ga.md "wikilink")《Angel
+Beats\!》的知名度，在2009年5月30日到2010年3月31日期間總共有4個[網路電台的節目陸續在](https://zh.wikipedia.org/wiki/網路電台 "wikilink")《[麻枝准的殺伐RADIO](https://zh.wikipedia.org/wiki/麻枝准的殺伐RADIO "wikilink")》（）進行宣傳。這個頻道的主持人即為[麻枝准](../Page/麻枝准.md "wikilink")本人，同時也會邀請到包括[田中宏紀以及](https://zh.wikipedia.org/wiki/田中宏紀 "wikilink")[Na-Ga](../Page/Na-Ga.md "wikilink")等《Angel
 Beats\!》的製作者接受訪問。在這段時間中每個月會定期有一次節目的播出，此外也會不定時在其他時段穿插額外的廣播內容，其中後者又被稱作《戰後處理》（）\[76\]。另一個促進《Angel
 Beats\!》系列作品的網路電台節目《Angel Beats\! SSS
 RADIO》在2010年3月18日首次播出，之後在2010年4月1日起到2011年3月31日為止每週定期廣播\[77\]。電台節目的主持人由三位主要女性角色的聲優擔任，分別為[櫻井浩美](../Page/櫻井浩美.md "wikilink")（為動畫中的仲村百合配音）、[花澤香菜](../Page/花澤香菜.md "wikilink")（為動畫中的天使配音）以及[喜多村英梨](../Page/喜多村英梨.md "wikilink")（為動畫中的由依配音）三人，而花澤香菜和喜多村英梨為每週輪流主持\[78\]。第一片商業化CD光碟收錄了前4回廣播內容以及廣播時使用的音樂媒材，並在2010年6月23日銷售\[79\]。而第二片CD光碟則先是以限量版本的方式於2010年8月所舉辦的[Comiket78販售](https://zh.wikipedia.org/wiki/Comiket "wikilink")，之後在2010年9月22日推出一般版本\[80\]。而在2010年10月27日到2011年7月29日期間，則推出包含有第3回到第7回內容的一般版本的CD光碟進行銷售\[81\]\[82\]。
 
 ### 書籍刊物
 
-作為《Angel Beats\!》系列的一部分，[麻枝准一共推出了](../Page/麻枝准.md "wikilink")7話命名為《Angel
+作為《Angel Beats\!》系列的一部分，[麻枝准](../Page/麻枝准.md "wikilink")一共推出了7話命名為《Angel
 Beats\! -Track
 ZERO-》的短篇小說，其中故事圖片說明的部分則由[Goto-P](https://zh.wikipedia.org/wiki/Goto-P "wikilink")（）繪製\[83\]。小說內容自2009年11月號到2010年5月號期間陸續刊載在[ASCII
 Media Works發行的](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's
@@ -396,7 +396,7 @@ Beats\!》的遊戲版本將會在2012年4月10日於《電撃G's
 magazine》上提供更多情報\[102\]。在2013年9月30日發售的《電撃G's
 magazine》11月號雜誌上公布遊戲化決定的消息，共有六卷，遊戲將可能以模擬遊戲或RPG冒險遊戲型態出現。2015年6月26日推出PC平台，標題為《Angel
 Beats\! 1st
-beat》。\[103\]\[104\]\[105\]\[106\]整個作品的[遊戲設計由](https://zh.wikipedia.org/wiki/遊戲設計師 "wikilink")[麻枝准擔任](../Page/麻枝准.md "wikilink")；[麻枝准](../Page/麻枝准.md "wikilink")、[魁](../Page/魁.md "wikilink")、[樫田Reo擔任劇本作家](../Page/樫田Reo.md "wikilink")；[Na-Ga擔任](../Page/Na-Ga.md "wikilink")[人物設計](../Page/人物設計.md "wikilink")。\[107\]
+beat》。\[103\]\[104\]\[105\]\[106\]整個作品的[遊戲設計由](https://zh.wikipedia.org/wiki/遊戲設計師 "wikilink")[麻枝准](../Page/麻枝准.md "wikilink")擔任；[麻枝准](../Page/麻枝准.md "wikilink")、[魁](../Page/魁.md "wikilink")、[樫田Reo](../Page/樫田Reo.md "wikilink")擔任劇本作家；[Na-Ga](../Page/Na-Ga.md "wikilink")擔任[人物設計](../Page/人物設計.md "wikilink")。\[107\]
 
   - 遊戲剛發售時，有不少玩家向Key社反應遊戲出現了劇情卡在「永無止盡的第三日」的BUG；在官方發布其解決方法是「放入正版光碟進行認證後方能繼續遊戲」、意味著此BUG實為防盜版機制。\[108\]
 
@@ -410,7 +410,7 @@ Works被許多評論家認為在《Angel
 Beats\!》作品中呈現極高的製作水準，特別是遊戲中出現的槍支武器都有一定程度上的講究。然而批評者認為整部動畫最重大的缺陷為集數過短，以至於讓許多角色並不能完整述說各自的背景故事（Back-story）。《Angel
 Beats\!》在2010年度[的第14屆文化廳媒體藝術祭之中](../Page/文化廳媒體藝術祭.md "wikilink")，被推舉為[日本文化廳媒體藝術祭動畫部門](https://zh.wikipedia.org/wiki/日本文化廳媒體藝術祭動畫部門 "wikilink")（）其文化委員之推薦動畫作品之一\[109\]。
 
-[動畫新聞網的評論家塞隆](../Page/動畫新聞網.md "wikilink")·馬丁（Theron
+[動畫新聞網](../Page/動畫新聞網.md "wikilink")的評論家塞隆·馬丁（Theron
 Martin）称赞了这部作品，因为整个系列成功地将各个不同的元素整合在一起，这包括有“Girls
 Dead
 Monster”的音乐表演、以幽默为主的场面，以及动作表演\[110\]。马丁认为在超自然作品中，灵魂因为对过去生活感到不满而有怨念是常见的主题，但是《Angel
@@ -427,18 +427,18 @@ Høgset”则因作品的动作场面而夸奖了PA Works，而马丁也在评�
 
 在实质的收视成绩方面，《Angel Beats\!》于2010年5月8日在日本每日放送的[Anime
 Shower](https://zh.wikipedia.org/wiki/Anime_Shower "wikilink")（）播放第6话时收视率达到4.9％，这打破了该深夜节目在过去3年、11部系列作品的播放纪录\[117\]。另外在2010年時，《Angel
-Beats\!》獲得該年度[文化廳媒體藝術祭的文化委員推薦動畫作品的榮譽](../Page/文化廳媒體藝術祭.md "wikilink")\[118\]。
+Beats\!》獲得該年度[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")的文化委員推薦動畫作品的榮譽\[118\]。
 
 ### 商品銷售
 
 《Angel
-Beats\!》每話的[藍光光碟在一推出銷售之後](../Page/藍光光碟.md "wikilink")，便能於日本[Oricon每周藍光光碟銷售排行榜之中平均排名第三名之譜](../Page/Oricon.md "wikilink")。其中第1話與第4話為當周第一名\[119\]\[120\]\[121\]、第5話和第6話為當周第二名\[122\]\[123\]，而第5話、第6話以及第7話則排名當周第三名\[124\]\[125\]\[126\]。但是與藍光光碟的優秀成績相比，《Angel
+Beats\!》每話的[藍光光碟](../Page/藍光光碟.md "wikilink")在一推出銷售之後，便能於日本[Oricon](../Page/Oricon.md "wikilink")每周藍光光碟銷售排行榜之中平均排名第三名之譜。其中第1話與第4話為當周第一名\[119\]\[120\]\[121\]、第5話和第6話為當周第二名\[122\]\[123\]，而第5話、第6話以及第7話則排名當周第三名\[124\]\[125\]\[126\]。但是與藍光光碟的優秀成績相比，《Angel
 Beats\!》DVD版本在Oricon的排名便差了一點。其中銷售排名分別為第1話排名第五名\[127\]、第2話排名第十名\[128\]、第3話排名第十三名\[129\]、第4話排名第十一名\[130\]、第5話排名第八名\[131\]、第6話排名第十二名而第7話排名第十五名\[132\]\[133\]。
 
 在音樂部分，作為片頭曲以及片尾曲的單曲《My Soul, Your Beats\!/Brave
 Song》在推出後立即在日本Oricon的每周單曲排行榜上排名第三名，在正式銷售的第一周便賣出80,000多份\[134\]。而光是在2010年5月份這段期間，《My
 Soul, Your Beats\!/Brave
-Song》便以其超過100,000多片的銷售量獲得[日本唱片協會的金獎認證](../Page/日本唱片協會.md "wikilink")\[135\]。而作為「Girls
+Song》便以其超過100,000多片的銷售量獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")的金獎認證\[135\]。而作為「Girls
 Dead Monster」表演的曲子《Crow
 Song》，則是在推出之後在Oricon的單曲排行榜上排名第七名\[136\]，並在銷售第4天之後便賣出16,400份左右\[137\]。而在推出銷售3個禮拜後，《Crow
 Song》已賣出超過25,000份專輯\[138\]\[139\]\[140\]。2011年11月，已賣出超過100,000張專輯的《Crow

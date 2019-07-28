@@ -6,7 +6,7 @@ PC及相容電腦上的磁碟](../Page/IBM_PC.md "wikilink")[作業系統](https
 ## 電腦網路類
 
   - [阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")（Denial of
-    Service，DoS），一种常用來使[服务器瘫痪的網路攻擊手段](../Page/服务器.md "wikilink")。
+    Service，DoS），一种常用來使[服务器](../Page/服务器.md "wikilink")瘫痪的網路攻擊手段。
 
 ## 電腦系統類
 
@@ -74,14 +74,14 @@ Operating System）的縮寫。
       - [MSX-DOS](https://zh.wikipedia.org/wiki/MSX-DOS "wikilink")
 
       -   - Real-time Disk Operating System，1972年推出，用於Data
-            General的Nova與[Eclipse上的作業系統](../Page/Eclipse.md "wikilink")
+            General的Nova與[Eclipse](../Page/Eclipse.md "wikilink")上的作業系統
           - Leif Ekblad，為i386嵌入式平台所作的開放原始碼作業系統
 
       - [TRS-DOS](https://zh.wikipedia.org/wiki/TRS-DOS "wikilink")
 
 ## 語言類
 
-  - dos是[西班牙语中的](../Page/西班牙语.md "wikilink")[2](../Page/2.md "wikilink")，見[西班牙语\#西班牙语数字](https://zh.wikipedia.org/wiki/西班牙语#西班牙语数字 "wikilink")
+  - dos是[西班牙语](../Page/西班牙语.md "wikilink")中的[2](../Page/2.md "wikilink")，見[西班牙语\#西班牙语数字](https://zh.wikipedia.org/wiki/西班牙语#西班牙语数字 "wikilink")
   - dos 或 do's 是 do（名詞）的複數
 
 ## 組織類
@@ -92,5 +92,5 @@ Operating System）的縮寫。
   -
 ## 科學類
 
-  - [狀態密度](https://zh.wikipedia.org/wiki/狀態密度 "wikilink")（，DOS），一個[量子力学中的名詞](../Page/量子力学.md "wikilink")。
-  - [禮炮計劃中的轨道空间站](../Page/禮炮計劃.md "wikilink")（DOS）
+  - [狀態密度](https://zh.wikipedia.org/wiki/狀態密度 "wikilink")（，DOS），一個[量子力学](../Page/量子力学.md "wikilink")中的名詞。
+  - [禮炮計劃](../Page/禮炮計劃.md "wikilink")中的轨道空间站（DOS）

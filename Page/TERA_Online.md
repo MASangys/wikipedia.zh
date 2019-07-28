@@ -46,7 +46,7 @@ Games發行](https://zh.wikipedia.org/wiki/NHN_Games "wikilink")，最初於2009
 
 ## 爭議
 
-《TERA》研發團隊原為[NCsoft的](../Page/NCsoft.md "wikilink")《[天堂3](https://zh.wikipedia.org/wiki/天堂3 "wikilink")》研發團隊，在研發團隊離開NCsoft加入新遊戲公司[Bluehole並展開新遊戲計畫](https://zh.wikipedia.org/wiki/Bluehole "wikilink")《Project
+《TERA》研發團隊原為[NCsoft](../Page/NCsoft.md "wikilink")的《[天堂3](https://zh.wikipedia.org/wiki/天堂3 "wikilink")》研發團隊，在研發團隊離開NCsoft加入新遊戲公司[Bluehole並展開新遊戲計畫](https://zh.wikipedia.org/wiki/Bluehole "wikilink")《Project
 S1》，在遊戲曝光後，被NCsoft指稱遊戲研發技術與相關資料，與《天堂3》非常類似，因此提出[訴訟](../Page/訴訟.md "wikilink")。
 
 ## 參照

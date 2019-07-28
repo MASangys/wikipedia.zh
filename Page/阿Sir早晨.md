@@ -1,11 +1,11 @@
-《**阿Sir早晨**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），（中國大陸譯名：**老師早上好**；前名：**春風化雨**；原名：**阿Sir早安**）是[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，1994年首播，由[黎明](../Page/黎明.md "wikilink")、[李綺虹](https://zh.wikipedia.org/wiki/李綺虹 "wikilink")、[宣萱](../Page/宣萱.md "wikilink")、[李影](https://zh.wikipedia.org/wiki/李影 "wikilink")、[黃霑](../Page/黃霑.md "wikilink")、[羅家英](../Page/羅家英.md "wikilink")、[古天樂](../Page/古天樂.md "wikilink")、[伍文生](../Page/伍文生.md "wikilink")、[蔣克](../Page/蔣克.md "wikilink")、[吳家樂主演](../Page/吳家樂.md "wikilink")。以一個個感人小故事為基礎，慢慢演變出廣大的劇情，劇情感人。[主題曲和](../Page/主題曲.md "wikilink")[插曲皆是由](https://zh.wikipedia.org/wiki/插曲 "wikilink")[黎明主唱](../Page/黎明.md "wikilink")。
+《**阿Sir早晨**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），（中國大陸譯名：**老師早上好**；前名：**春風化雨**；原名：**阿Sir早安**）是[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，1994年首播，由[黎明](../Page/黎明.md "wikilink")、[李綺虹](https://zh.wikipedia.org/wiki/李綺虹 "wikilink")、[宣萱](../Page/宣萱.md "wikilink")、[李影](https://zh.wikipedia.org/wiki/李影 "wikilink")、[黃霑](../Page/黃霑.md "wikilink")、[羅家英](../Page/羅家英.md "wikilink")、[古天樂](../Page/古天樂.md "wikilink")、[伍文生](../Page/伍文生.md "wikilink")、[蔣克](../Page/蔣克.md "wikilink")、[吳家樂](../Page/吳家樂.md "wikilink")主演。以一個個感人小故事為基礎，慢慢演變出廣大的劇情，劇情感人。[主題曲](../Page/主題曲.md "wikilink")和[插曲皆是由](https://zh.wikipedia.org/wiki/插曲 "wikilink")[黎明](../Page/黎明.md "wikilink")主唱。
 
 此劇為黎明在TVB所拍的最後一套電視劇。
-此劇於2009年10月在[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")[經典台我們的](https://zh.wikipedia.org/wiki/無綫經典台 "wikilink")...[黎明每周六至日連續播映四集](../Page/黎明.md "wikilink")。
+此劇於2009年10月在[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")[經典台我們的](https://zh.wikipedia.org/wiki/無綫經典台 "wikilink")...[黎明](../Page/黎明.md "wikilink")每周六至日連續播映四集。
 
 ## 劇情
 
-祝大保本為廣告界達人，被人陷害被迫從[廣告公司離職後成為](../Page/廣告.md "wikilink")[學校春風化雨的代課](https://zh.wikipedia.org/wiki/學校 "wikilink")[教師](https://zh.wikipedia.org/wiki/教師 "wikilink")，幸好有家人的支持。女友唐寶珊為了貪幕虛榮離開他，最後去拍三級片成為大明星。在學校方面也改變很多同學從被同學討厭到被接受最後喜歡來上課，和方同心產生感情，也發現被[青梅竹馬的章心怡暗戀](../Page/青梅竹馬.md "wikilink")，最後是和方同心在一起。
+祝大保本為廣告界達人，被人陷害被迫從[廣告](../Page/廣告.md "wikilink")公司離職後成為[學校春風化雨的代課](https://zh.wikipedia.org/wiki/學校 "wikilink")[教師](https://zh.wikipedia.org/wiki/教師 "wikilink")，幸好有家人的支持。女友唐寶珊為了貪幕虛榮離開他，最後去拍三級片成為大明星。在學校方面也改變很多同學從被同學討厭到被接受最後喜歡來上課，和方同心產生感情，也發現被[青梅竹馬](../Page/青梅竹馬.md "wikilink")的章心怡暗戀，最後是和方同心在一起。
 
 祝大保本可回廣告界繼續大展拳腳，最後卻捨不得離開選擇繼續留在學校。
 
@@ -122,7 +122,7 @@
   - [許實賢](https://zh.wikipedia.org/wiki/許實賢 "wikilink") 飾 職員甲（第18集）
   - [張百賢](https://zh.wikipedia.org/wiki/張百賢 "wikilink") 飾 職員乙（第18集）
   - [林家棟](../Page/林家棟.md "wikilink") 飾
-    湯志偉（第19集：[冷笑話高手](../Page/冷笑話.md "wikilink")）
+    湯志偉（第19集：[冷笑話](../Page/冷笑話.md "wikilink")高手）
 
 #### 華年
 

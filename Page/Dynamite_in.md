@@ -1,5 +1,5 @@
 《**Dynamite in**》（，*Dynamite
-in*）是[東京事變的第二張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2005年7月13日發行。總計銷售額5.2萬張。初回限定為本秀康所繪製的「Dynamite
+in*）是[東京事變](../Page/東京事變.md "wikilink")的第二張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2005年7月13日發行。總計銷售額5.2萬張。初回限定為本秀康所繪製的「Dynamite
 in 漫畫小冊（上）」，漫畫小冊（下）則預定收錄在八月發行的演唱會DVD《[Dynamite
 out](../Page/Dynamite_out.md "wikilink")》中。
 

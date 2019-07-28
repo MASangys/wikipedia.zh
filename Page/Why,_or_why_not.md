@@ -1,6 +1,6 @@
 《**why, or why
-not**》是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[片霧烈火的一首單曲](../Page/片霧烈火.md "wikilink")，于2006年6月28日由[Frontier
-Works發行](../Page/Frontier_Works.md "wikilink")。商品番號為FCCM-136。在[Oricon周公信榜上最高排行第](../Page/Oricon.md "wikilink")30位。這首單曲是同年電視動畫《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》的片尾曲，歌詞全為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")。
+not**》是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[片霧烈火](../Page/片霧烈火.md "wikilink")的一首單曲，于2006年6月28日由[Frontier
+Works發行](../Page/Frontier_Works.md "wikilink")。商品番號為FCCM-136。在[Oricon](../Page/Oricon.md "wikilink")周公信榜上最高排行第30位。這首單曲是同年電視動畫《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》的片尾曲，歌詞全為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")。
 
 ## 收錄曲
 

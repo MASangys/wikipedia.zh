@@ -3,7 +3,7 @@
 [W_Hotel_Hong_Kong_Bar.jpg](https://zh.wikipedia.org/wiki/File:W_Hotel_Hong_Kong_Bar.jpg "fig:W_Hotel_Hong_Kong_Bar.jpg")
 
 **香港W酒店**（**W Hong
-Kong**），是一所位於[香港](../Page/香港.md "wikilink")[九龍站的一間酒店](https://zh.wikipedia.org/wiki/九龍站 "wikilink")，於2008年1月末試業，於2008年8月8日正式開業。酒店位於[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")1號[天璽](../Page/天璽_\(香港\).md "wikilink")1至38樓，是[新鴻基地產的物業](../Page/新鴻基地產.md "wikilink")，酒店的建築為一座[摩天大樓](../Page/摩天大樓.md "wikilink")，合共設有393間客房，部份客房可觀賞海景。W酒店[總統套房位於](https://zh.wikipedia.org/wiki/總統套房 "wikilink")38樓高層（E-WOW），佔地2,152方呎，報稱日租4萬多港元。
+Kong**），是一所位於[香港](../Page/香港.md "wikilink")[九龍站的一間酒店](https://zh.wikipedia.org/wiki/九龍站 "wikilink")，於2008年1月末試業，於2008年8月8日正式開業。酒店位於[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")1號[天璽](../Page/天璽_\(香港\).md "wikilink")1至38樓，是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的物業，酒店的建築為一座[摩天大樓](../Page/摩天大樓.md "wikilink")，合共設有393間客房，部份客房可觀賞海景。W酒店[總統套房位於](https://zh.wikipedia.org/wiki/總統套房 "wikilink")38樓高層（E-WOW），佔地2,152方呎，報稱日租4萬多港元。
 
 ## 設計
 

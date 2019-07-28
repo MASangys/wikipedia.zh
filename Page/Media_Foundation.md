@@ -1,11 +1,11 @@
 **Media
 Foundation**是微軟在Windows上推出的下一代多媒體開發庫，目的是為Windows平台提供統一的多媒體影音解決方案，開發者可以透過Media
 Foundation播放影片和聲音文件、進行影音編碼或者多媒體文件轉碼等等工作。Media
-Foundation是[DirectShow為主的舊式多媒體](../Page/DirectShow.md "wikilink")[應用程序接口的替代者與繼承者](https://zh.wikipedia.org/wiki/應用程序接口 "wikilink")，在微軟的計畫下將逐步汰換[DirectShow技術](../Page/DirectShow.md "wikilink")。Media
-Foundation要求Windows Vista或更高版本，不支援較早期的Windows版本如Windows XP。
+Foundation是[DirectShow](../Page/DirectShow.md "wikilink")為主的舊式多媒體[應用程序接口的替代者與繼承者](https://zh.wikipedia.org/wiki/應用程序接口 "wikilink")，在微軟的計畫下將逐步汰換[DirectShow](../Page/DirectShow.md "wikilink")技術。Media
+Foundation僅支援Windows Vista或更新的系統。
 
 Media
-Foundation長於高品質的音訊和視訊播放，高清內容（如[HDTV](https://zh.wikipedia.org/wiki/HDTV "wikilink"),高清電視）和數位版權管理（DRM）訪問控制。Media
+Foundation擅長高品質的音訊和視訊播放，高清內容（如[HDTV](https://zh.wikipedia.org/wiki/HDTV "wikilink"),高清電視）和數位版權管理（DRM）訪問控制。Media
 Foundation在不同的Windows版本上能力不同，在Windows Vista上僅支持WMV格式，但到了Windows
 7後添加了H264編碼支持。Windows 8上則多了數種更高品質的設定。
 
@@ -48,7 +48,7 @@ streams），第一流是一個參考流（reference stream）。
 
 ## 與DirectShow比較
 
-MF提供了以下好處：
+MF有以下好處：
 
   - 可擴展的高清晰度內容和數位版權管理保護（[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")-protected）的內容。
   - 允許DirectX視訊加速用於之外DirectShow的基礎設施。支持DXVA 2.0。

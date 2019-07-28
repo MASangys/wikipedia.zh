@@ -4,7 +4,7 @@ Window系統中的一個](../Page/X_Window系統.md "wikilink")[窗口管理器]
 Compilation的一部分](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")
 ，雖然它可以單獨使用或用於其他的桌面環境。
 
-KWin可由基于[ECMAScript的](../Page/ECMAScript.md "wikilink")[脚本](../Page/脚本语言.md "wikilink")（如[QML](../Page/QML.md "wikilink")、[QtScript](../Page/QtScript.md "wikilink")）来进行配置。\[1\]
+KWin可由基于[ECMAScript](../Page/ECMAScript.md "wikilink")的[脚本](../Page/脚本语言.md "wikilink")（如[QML](../Page/QML.md "wikilink")、[QtScript](../Page/QtScript.md "wikilink")）来进行配置。\[1\]
 
 ## 歷史
 

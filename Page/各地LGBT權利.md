@@ -1,21 +1,21 @@
-世界各國**女同性戀者、男同性戀者、雙性戀者與跨性別者**（[LGBT](../Page/LGBT.md "wikilink")）的[法律處境](../Page/法律.md "wikilink")，光譜廣泛而差異極大。部分國家承認[同性婚姻或其他形式的](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[同性結合](https://zh.wikipedia.org/wiki/同性結合 "wikilink")，視LGBT為人類群體多樣性的一部分；亦有國家視[同性性行為或](../Page/同性戀.md "wikilink")[性別認同為非法行為](../Page/性別認同.md "wikilink")，以[監禁甚至](https://zh.wikipedia.org/wiki/監禁 "wikilink")[死刑等刑罰對該群體加以](../Page/死刑.md "wikilink")[迫害](https://zh.wikipedia.org/wiki/迫害 "wikilink")。
+世界各國**女同性戀者、男同性戀者、雙性戀者與跨性別者**（[LGBT](../Page/LGBT.md "wikilink")）的[法律](../Page/法律.md "wikilink")處境，光譜廣泛而差異極大。部分國家承認[同性婚姻或其他形式的](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[同性結合](https://zh.wikipedia.org/wiki/同性結合 "wikilink")，視LGBT為人類群體多樣性的一部分；亦有國家視[同性性行為或](../Page/同性戀.md "wikilink")[性別認同](../Page/性別認同.md "wikilink")為非法行為，以[監禁甚至](https://zh.wikipedia.org/wiki/監禁 "wikilink")[死刑](../Page/死刑.md "wikilink")等刑罰對該群體加以[迫害](https://zh.wikipedia.org/wiki/迫害 "wikilink")。
 
 ## 歷史
 
-LGBT權利的[人權論述在](https://zh.wikipedia.org/wiki/人權 "wikilink")1990年代左右展開，由[國際LGBTI聯合會](../Page/國際LGBTI聯合會.md "wikilink")、、[國際特赦組織以及](../Page/國際特赦組織.md "wikilink")[人權觀察等](https://zh.wikipedia.org/wiki/人權觀察 "wikilink")[非政府組織提倡](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")，並逐漸為[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[美國的司法實體和](https://zh.wikipedia.org/wiki/美國 "wikilink")[聯合國吸納運用](https://zh.wikipedia.org/wiki/聯合國 "wikilink")\[1\]\[2\]。
+LGBT權利的[人權論述在](https://zh.wikipedia.org/wiki/人權 "wikilink")1990年代左右展開，由[國際LGBTI聯合會](../Page/國際LGBTI聯合會.md "wikilink")、、[國際特赦組織](../Page/國際特赦組織.md "wikilink")以及[人權觀察等](https://zh.wikipedia.org/wiki/人權觀察 "wikilink")[非政府組織提倡](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")，並逐漸為[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[美國的司法實體和](https://zh.wikipedia.org/wiki/美國 "wikilink")[聯合國吸納運用](https://zh.wikipedia.org/wiki/聯合國 "wikilink")\[1\]\[2\]。
 
-[LGBT權利的立法範疇包括](../Page/LGBT.md "wikilink")：
+[LGBT](../Page/LGBT.md "wikilink")權利的立法範疇包括：
 
   - 政府承認同性關係（[同性婚姻或](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事结合的形式](https://zh.wikipedia.org/wiki/民事结合 "wikilink")）
-  - 政府承认[LGBT抚养的親屬關係](../Page/LGBT抚养.md "wikilink")
+  - 政府承认[LGBT抚养](../Page/LGBT抚养.md "wikilink")的親屬關係
   - 允许[LGBT收養](../Page/LGBT收養.md "wikilink")
   - 平等取用[人工生殖技術](https://zh.wikipedia.org/wiki/人工生殖 "wikilink")
 
 <!-- end list -->
 
-  - 增强对LGBT群體[仇恨犯罪的刑事处罚](../Page/仇恨犯罪.md "wikilink")，明令禁止[LGBT迫害](../Page/LGBT迫害.md "wikilink")
+  - 增强对LGBT群體[仇恨犯罪](../Page/仇恨犯罪.md "wikilink")的刑事处罚，明令禁止[LGBT迫害](../Page/LGBT迫害.md "wikilink")
 
-  - 反[霸凌立法措施](../Page/霸凌.md "wikilink")，保護LGBT孩童或學生
+  - 反[霸凌](../Page/霸凌.md "wikilink")立法措施，保護LGBT孩童或學生
 
   - 工作就業和房屋租賃方面的反歧视措施
 
@@ -31,26 +31,26 @@ LGBT權利的[人權論述在](https://zh.wikipedia.org/wiki/人權 "wikilink")1
 
 <!-- end list -->
 
-  - 跨性別者可施行[性別重置手術和](../Page/性別重置手術.md "wikilink")[激素替代療法](../Page/激素替代療法.md "wikilink")
+  - 跨性別者可施行[性別重置手術](../Page/性別重置手術.md "wikilink")和[激素替代療法](../Page/激素替代療法.md "wikilink")
   - 政府允許性別變更登記（承認其性別身份）
 
-[反對LGBT權益的法律包括](../Page/反對LGBT權益.md "wikilink")[性悖軌法](../Page/性悖軌法.md "wikilink")（sodomy
-law）的制定：處罰合意的同性性行為，為同性性行為制定較高的性交[同意年齡](https://zh.wikipedia.org/wiki/最低合法性交年齡 "wikilink")，LGBT相關的[言論自由以及](../Page/言論自由.md "wikilink")[集會自由](../Page/集會自由.md "wikilink")、[結社自由受到法律限制等等](../Page/結社自由.md "wikilink")。
+[反對LGBT權益](../Page/反對LGBT權益.md "wikilink")的法律包括[性悖軌法](../Page/性悖軌法.md "wikilink")（sodomy
+law）的制定：處罰合意的同性性行為，為同性性行為制定較高的性交[同意年齡](https://zh.wikipedia.org/wiki/最低合法性交年齡 "wikilink")，LGBT相關的[言論自由](../Page/言論自由.md "wikilink")以及[集會自由](../Page/集會自由.md "wikilink")、[結社自由](../Page/結社自由.md "wikilink")受到法律限制等等。
 
 2011年，[聯合國通過首份承認LGBT權利的決議案](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，隨後並提出侵犯LGBT權利的報告，具體調查世界各國境內仇恨罪、同性性行為之刑事定罪以及相關歧視等行為。\[3\]\[4\]
 
-截至2019年2月，有24個國家承认同性婚姻并赋予其LGBT公民上述列表的全部或大多数权利，2個[聯邦制國家](https://zh.wikipedia.org/wiki/聯邦制 "wikilink")則是部份[政治實體承認](https://zh.wikipedia.org/wiki/政治實體 "wikilink")，其中大多数国家位于[美洲和](../Page/美洲.md "wikilink")[西欧](../Page/西欧.md "wikilink")\[5\]。
+截至2019年2月，有24個國家承认同性婚姻并赋予其LGBT公民上述列表的全部或大多数权利，2個[聯邦制國家](https://zh.wikipedia.org/wiki/聯邦制 "wikilink")則是部份[政治實體承認](https://zh.wikipedia.org/wiki/政治實體 "wikilink")，其中大多数国家位于[美洲](../Page/美洲.md "wikilink")和[西欧](../Page/西欧.md "wikilink")\[5\]。
 
-69个国家和4个地方實體的司法机构有对同性性行為處罰的法律，其中大部分国家位于[亚洲和](../Page/亚洲.md "wikilink")[非洲](../Page/非洲.md "wikilink")\[6\]。[立陶宛](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[伊拉克和](../Page/伊拉克.md "wikilink")等國制定了限制LGBT言論自由的法案\[7\]。
+69个国家和4个地方實體的司法机构有对同性性行為處罰的法律，其中大部分国家位于[亚洲](../Page/亚洲.md "wikilink")和[非洲](../Page/非洲.md "wikilink")\[6\]。[立陶宛](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")和等國制定了限制LGBT言論自由的法案\[7\]。
 
 ## 歷史上的同性戀法律
 
-根據學者們的推測，最早有關於[亞伯拉罕諸教法律中可能](../Page/亞伯拉罕諸教.md "wikilink")*反對*同性性行為的紀錄，是出於西元前550年時[巴比倫囚虜中的](https://zh.wikipedia.org/wiki/巴比倫囚虜 "wikilink")[猶太人](https://zh.wikipedia.org/wiki/猶太人 "wikilink")，在他們的經典[利未記中紀載](../Page/利未記.md "wikilink")（雖然一些保守的學者認為年代要更早於利未記），規定男男之間的同性性交處以死刑。而在同一個時代，在許多的其他宗教信仰中同性關係是被包容的。
+根據學者們的推測，最早有關於[亞伯拉罕諸教](../Page/亞伯拉罕諸教.md "wikilink")法律中可能*反對*同性性行為的紀錄，是出於西元前550年時[巴比倫囚虜中的](https://zh.wikipedia.org/wiki/巴比倫囚虜 "wikilink")[猶太人](https://zh.wikipedia.org/wiki/猶太人 "wikilink")，在他們的經典[利未記](../Page/利未記.md "wikilink")中紀載（雖然一些保守的學者認為年代要更早於利未記），規定男男之間的同性性交處以死刑。而在同一個時代，在許多的其他宗教信仰中同性關係是被包容的。
 
 一些人們因此相信亞伯拉罕諸教信仰是法律處罰同性性行為的源頭，不過類似的情形也在[印歐語系民族的文化中可以發現](https://zh.wikipedia.org/wiki/印歐語系 "wikilink")，比如[古羅馬律法](https://zh.wikipedia.org/wiki/古羅馬 "wikilink")*Lex
 Scantinia*以及原始日耳曼民族的神話*nith*，或者是西元前1075年的[亞述法律紀錄](https://zh.wikipedia.org/wiki/亞述 "wikilink")。\[8\].
 
-透過傳統[猶太教](https://zh.wikipedia.org/wiki/猶太教 "wikilink")、[基督教和](../Page/基督教.md "wikilink")[伊斯蘭教的闡釋](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")，懲罰同志的法律持續地在歷史上延續。隨著[殖民主義的到來](https://zh.wikipedia.org/wiki/殖民主義 "wikilink")，那些亞伯拉罕諸教信仰的國家，將這種價值觀伴隨著[帝國主義的政治控制擴張到世界各地](https://zh.wikipedia.org/wiki/帝國主義 "wikilink")。
+透過傳統[猶太教](https://zh.wikipedia.org/wiki/猶太教 "wikilink")、[基督教](../Page/基督教.md "wikilink")和[伊斯蘭教的闡釋](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")，懲罰同志的法律持續地在歷史上延續。隨著[殖民主義的到來](https://zh.wikipedia.org/wiki/殖民主義 "wikilink")，那些亞伯拉罕諸教信仰的國家，將這種價值觀伴隨著[帝國主義的政治控制擴張到世界各地](https://zh.wikipedia.org/wiki/帝國主義 "wikilink")。
 中國傳統理念中對於同性戀情並沒有明確地指責，甚至在部分地區存在有「[契兄弟](https://zh.wikipedia.org/wiki/契兄弟 "wikilink")」相稱的同性情侶\[9\]，《[聊齋誌異](https://zh.wikipedia.org/wiki/聊齋誌異 "wikilink")》等名著中也多有描寫。近代以來，由於殖民統治時期傳入的亞伯拉罕宗教思想及民間傳統觀念對於生育的認知，同性戀成為了一種「罪惡」與不潔的道德。中華人民共和國建立後，曾一度將同性性行為列入流氓罪進行處罰，直到1997年才除罪化。\[10\]
 通常法律反對同性性行為和主要支持者時，亞伯拉罕諸教信仰是主要因素。但是事实上中国的流氓罪定義籠統，且法律本身並不針對同性戀群體。又由于文化大革命時期执法的随意性，这给予了世俗中的反对非婚性行为者惩罚違背傳統生育理念以及同性性行为者的借口，而且實際案例也相对较少。法律界对此是否能将1997年将流氓罪具体化视为對同性性行為的非罪化與去污名化，以及是否存在同性性行為法定有罪的情况目前有争议。\[11\]
 
@@ -64,7 +64,7 @@ Scantinia*以及原始日耳曼民族的神話*nith*，或者是西元前1075年
 
 |                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [MSM_Blood_Donation_Map.svg](https://zh.wikipedia.org/wiki/File:MSM_Blood_Donation_Map.svg "fig:MSM_Blood_Donation_Map.svg")的[献血政策](../Page/献血.md "wikilink")     <sup>1</sup>如果最後的男男性接触行为是1977年以前，在以色列和美利坚合众国没有限制\]\] |
+| [MSM_Blood_Donation_Map.svg](https://zh.wikipedia.org/wiki/File:MSM_Blood_Donation_Map.svg "fig:MSM_Blood_Donation_Map.svg")的[献血](../Page/献血.md "wikilink")政策     <sup>1</sup>如果最後的男男性接触行为是1977年以前，在以色列和美利坚合众国没有限制\]\] |
 
 ## GILRHO
 

@@ -1,5 +1,5 @@
 《**My Name Is
-邦**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的電視節目](../Page/電視廣播有限公司.md "wikilink")，由[崔建邦主持](../Page/崔建邦.md "wikilink")。2009年6月29日至2009年12月4日逢星期一至五21:00-21:30於[J2播映](../Page/J2.md "wikilink")，2009年12月14日起為了配合J2黃金時段節目編排改動，延後至23:30播出。訪問人物範圍包括歌手、藝人、武打影星、動漫界、車手及模特兒界。
+邦**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的電視節目，由[崔建邦](../Page/崔建邦.md "wikilink")主持。2009年6月29日至2009年12月4日逢星期一至五21:00-21:30於[J2](../Page/J2.md "wikilink")播映，2009年12月14日起為了配合J2黃金時段節目編排改動，延後至23:30播出。訪問人物範圍包括歌手、藝人、武打影星、動漫界、車手及模特兒界。
 
 ## 每集嘉賓
 
@@ -221,7 +221,7 @@
 <td><p>035</p></td>
 <td><p>8月14日</p></td>
 <td><p><a href="../Page/謝天華.md" title="wikilink">謝天華</a></p></td>
-<td><p><a href="../Page/Laughing哥.md" title="wikilink">Laughing哥風暴</a></p></td>
+<td><p><a href="../Page/Laughing哥.md" title="wikilink">Laughing哥</a>風暴</p></td>
 </tr>
 <tr class="odd">
 <td><p>036</p></td>
@@ -766,7 +766,7 @@
 <tr class="even">
 <td><p>120</p></td>
 <td><p>12月18日</p></td>
-<td><p><a href="../Page/林以諾.md" title="wikilink">林以諾牧師</a>、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/侯嘉明.md" title="wikilink">侯嘉明</a></p></td>
+<td><p><a href="../Page/林以諾.md" title="wikilink">林以諾</a>牧師、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/侯嘉明.md" title="wikilink">侯嘉明</a></p></td>
 <td><p>基督教徒</p></td>
 </tr>
 <tr class="odd">

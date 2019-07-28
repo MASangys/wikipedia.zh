@@ -3,7 +3,7 @@ V](../Page/Channel_V.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台
 
 ## 簡介
 
-《Love Love Love》由[金星娛樂製作](../Page/金星娛樂.md "wikilink")、Channel
+《Love Love Love》由[金星娛樂](../Page/金星娛樂.md "wikilink")製作、Channel
 V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一半或朋友。
 
 ## 節目列表

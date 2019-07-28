@@ -1,12 +1,12 @@
-**yozuca\***，[熊本縣出身](../Page/熊本縣.md "wikilink")，[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")，演唱[遊戲及](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[動畫歌曲為主](../Page/動畫歌曲.md "wikilink")。所屬事務所為Peak
+**yozuca\***，[熊本縣](../Page/熊本縣.md "wikilink")出身，[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")，演唱[遊戲及](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[動畫歌曲](../Page/動畫歌曲.md "wikilink")為主。所屬事務所為Peak
 A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 
 ## 概要
 
-  - 多次參與CIRCUS的作品[初音島及](../Page/初音島.md "wikilink")[水夏系列的主題歌](../Page/水夏.md "wikilink")。
+  - 多次參與CIRCUS的作品[初音島](../Page/初音島.md "wikilink")及[水夏](../Page/水夏.md "wikilink")系列的主題歌。
   - 在初音島系列本編的主題曲歌名皆冠以『』。
       - 動畫版主題曲歌名則冠以『』。
-  - 與[CooRie的rino的合作相當多](../Page/CooRie.md "wikilink")，曾以yozurino\*的名義合作。
+  - 與[CooRie](../Page/CooRie.md "wikilink")的rino的合作相當多，曾以yozurino\*的名義合作。
 
 ## 作品
 

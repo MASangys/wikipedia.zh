@@ -1,5 +1,5 @@
 《**HEY\!HEY\!HEY\! MUSIC
-CHAMP**》是日本[富士電視台系列自](../Page/富士電視台.md "wikilink")1994年10月17日開始播出，由搞笑二人組[DOWN
+CHAMP**》是日本[富士電視台](../Page/富士電視台.md "wikilink")系列自1994年10月17日開始播出，由搞笑二人組[DOWN
 TOWN所主持的音樂節目](../Page/DOWN_TOWN.md "wikilink")。原播出時間為毎週一的20:00 -
 20:54（JST），立體聲播出。簡稱《**HEY\!HEY\!HEY\!**》或《**HEY\!³**》。
 
@@ -20,7 +20,7 @@ TOWN所主持的音樂節目](../Page/DOWN_TOWN.md "wikilink")。原播出時間
   - 企劃（料理、秘藏VTR、占卜等）
   - ゆかりトーク
   - RANK-IN
-      - 發表最新的[Oricon單曲排名及專輯排名前](../Page/Oricon.md "wikilink")10位。
+      - 發表最新的[Oricon](../Page/Oricon.md "wikilink")單曲排名及專輯排名前10位。
   - SUISEN-IN
   - VOCALIST
       - 2007年10月開始的新單元。由藝人選擇榜單中想翻唱的作品。

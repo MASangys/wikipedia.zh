@@ -7,7 +7,7 @@ F+接口用於](https://zh.wikipedia.org/wiki/Socket_F+ "wikilink")[Quad
 FX平台](../Page/AMD_Quad_FX平台.md "wikilink")\[2\]。Phenom II
 X4核心代號為Deneb，並由之前的Shanghai核心修改而來\[3\]。因為使用45nm製程除了時脈可以再提高外，Phenom
 II
-的[TDP也更低](https://zh.wikipedia.org/wiki/TDP "wikilink")，同時有很大的[超頻空間](../Page/超頻.md "wikilink")。
+的[TDP也更低](https://zh.wikipedia.org/wiki/TDP "wikilink")，同時有很大的[超頻](../Page/超頻.md "wikilink")空間。
 
 Phenom II是AMD的Dragon平台構成部分之一，該平台包括[AMD 700
 晶片組系列和](https://zh.wikipedia.org/wiki/AMD_700_晶片組系列 "wikilink")[Radeon
@@ -18,10 +18,10 @@ HD
 
 Phenom II的L3快取記憶體的容量是上一代的三倍，由Phenom的2MB提升至6MB，\[4\]
 此改進令到處理器在標準檢查程式中的成績提升了30%。\[5\]
-另一個改變是[Cool'n'Quiet技術是同時間應用在整個處理器上](../Page/Cool'n'Quiet.md "wikilink")，而不是上一代Phenom般，是應用在個別核心上。這一個轉變是針對著[Windows
+另一個改變是[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")技術是同時間應用在整個處理器上，而不是上一代Phenom般，是應用在個別核心上。這一個轉變是針對著[Windows
 Vista而來](../Page/Windows_Vista.md "wikilink")。由於Vista對於程式線程的錯誤管理，只支援單執行緒的程式會運行在頻率只有半速的核心上。\[6\]
 
-透過主機板的[BIOS升級](../Page/BIOS.md "wikilink")，[Socket
+透過主機板的[BIOS](../Page/BIOS.md "wikilink")升級，[Socket
 AM3版本的Phenom](../Page/Socket_AM3.md "wikilink") II是可以向後兼容[Socket
 AM2+](../Page/Socket_AM2+.md "wikilink")。Phenom
 II的針腳相容性，使到AM3的記憶體控制器可以支援[DDR2和](https://zh.wikipedia.org/wiki/DDR2 "wikilink")[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")(最高支援DDR3-1333)，現有的AM2+主板使用者可以直接升級使用Phenom
@@ -46,7 +46,7 @@ II開始，基於同一款晶片的三個產品系列會同時發售。第一個
 ## 超頻
 
 Phenom II是AMD第一個修正“cold bug”問題的處理器系列。“cold
-bug”是一個物理現象，當溫度低於某個程度時，處理器會停止運作。這樣會令到使用[乾冰或者](../Page/乾冰.md "wikilink")[液氮等](../Page/液氮.md "wikilink")“極端”冷卻方法失效。如果“cold
+bug”是一個物理現象，當溫度低於某個程度時，處理器會停止運作。這樣會令到使用[乾冰](../Page/乾冰.md "wikilink")或者[液氮](../Page/液氮.md "wikilink")等“極端”冷卻方法失效。如果“cold
 bug”的影響能夠減低，此處理器可以超頻至更高程度。\[9\]\[10\]
 
 ## 核心
@@ -145,7 +145,7 @@ bug”的影響能夠減低，此處理器可以超頻至更高程度。\[9\]\[1
     [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - [Socket AM2+](../Page/Socket_AM2+.md "wikilink")， [Socket
     AM3](../Page/Socket_AM3.md "wikilink")
-  - [HyperTransport頻率從](../Page/HyperTransport.md "wikilink") 1800至2000
+  - [HyperTransport](../Page/HyperTransport.md "wikilink")頻率從 1800至2000
     MHz
   - 核心面積: 258 mm²
   - 功耗
@@ -182,7 +182,7 @@ bug”的影響能夠減低，此處理器可以超頻至更高程度。\[9\]\[1
     bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")，
     [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - [Socket AM3](../Page/Socket_AM3.md "wikilink")
-  - [HyperTransport頻率](../Page/HyperTransport.md "wikilink")2000 MHz
+  - [HyperTransport](../Page/HyperTransport.md "wikilink")頻率2000 MHz
   - 功耗
     ([TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink")):
     95 W
@@ -216,7 +216,7 @@ bug”的影響能夠減低，此處理器可以超頻至更高程度。\[9\]\[1
     [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
     bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")，[AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - [Socket AM3](../Page/Socket_AM3.md "wikilink")
-  - [HyperTransport頻率](../Page/HyperTransport.md "wikilink")2000 MHz
+  - [HyperTransport](../Page/HyperTransport.md "wikilink")頻率2000 MHz
   - 功耗
     ([TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink")):
     80 W

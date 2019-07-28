@@ -1,4 +1,4 @@
-**KDE Plasma 4**是[KDE專案提供的所有圖形環境總稱](../Page/KDE.md "wikilink")。
+**KDE Plasma 4**是[KDE](../Page/KDE.md "wikilink")專案提供的所有圖形環境總稱。
 
 目前有三個Plasma子專案：*Plasma
 Desktop*用於傳統的[桌面電腦和](https://zh.wikipedia.org/wiki/台式电脑 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")、*Plasma
@@ -26,7 +26,7 @@ Software Compilation
 ### Plasma Active
 
 **Plasma Active**
-本身不是工作空間。它是一項建構在Plasma框架上的服務，能夠只用[QML創造完整的工作空間](../Page/QML.md "wikilink")，而不需要使用[C++](../Page/C++.md "wikilink")。
+本身不是工作空間。它是一項建構在Plasma框架上的服務，能夠只用[QML](../Page/QML.md "wikilink")創造完整的工作空間，而不需要使用[C++](../Page/C++.md "wikilink")。
 
 Plasma Active 作為觸控相容的工作空間的基礎。相容 Active 的
 [Kontact](../Page/Kontact.md "wikilink") 預覽版本和基於 [Calligra
@@ -46,7 +46,7 @@ Suite](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")
 Mobile* during “[Tokamak 4](../Page/KDE.md "wikilink")”.
 <File:Plasma-mobile> demo (2010-03-21).ogv|Technology preview of *Plasma
 Mobile* on video. <File:KOffice> viewer on Maemo5.jpg|KOffice document
-viewer under [Maemo 5](../Page/Maemo.md "wikilink") <File:Kmail-mobile>
+viewer under [Maemo](../Page/Maemo.md "wikilink") 5 <File:Kmail-mobile>
 tech-preview.png|Early development version of
 *[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink") Mobile*.
 
@@ -73,7 +73,7 @@ Plasma分離出組件部分"數據引擎"和他們對應的visualization。這�
 
 這是一個plasma目前的發行版本支持的widgets列表。請注意，並非所有的Widgets在所有的Linux版本默認情況下都支持；有些可能需要安裝不同的套件，甚至是重新編譯plasma。
 
-  - 原生Plasmoids（[C++](../Page/C++.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Ruby或](../Page/Ruby.md "wikilink")[Python](../Page/Python.md "wikilink")。注意，在許多Linux版本，Ruby和Python綁定，必須下載單獨的軟件包）
+  - 原生Plasmoids（[C++](../Page/C++.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")或[Python](../Page/Python.md "wikilink")。注意，在許多Linux版本，Ruby和Python綁定，必須下載單獨的軟件包）
 
   - [Google桌面](../Page/Google桌面.md "wikilink")
 

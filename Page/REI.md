@@ -1,8 +1,8 @@
-**REI**（）是居住在[台灣的女性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[人物設計師](../Page/人物設計.md "wikilink")。
+**REI**（）是居住在[台灣的女性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[人物設計](../Page/人物設計.md "wikilink")師。
 
 ## 人物
 
-  - 在[萌方面擁有相當高人氣的台灣插畫家](../Page/萌.md "wikilink")。
+  - 在[萌](../Page/萌.md "wikilink")方面擁有相當高人氣的台灣插畫家。
   - 在[台灣著手於吉祥物設計](../Page/中華民國.md "wikilink")（[台灣郵政等](https://zh.wikipedia.org/wiki/台灣郵政 "wikilink")）、動漫畫雜誌封面、小說封面等繪製的工作。
   - 在同人活動中表現得相當積極活躍，除台灣外亦有參加日本及香港的同人活動販售會。
   - 擔任18禁遊戲《[魔女騎士](https://zh.wikipedia.org/wiki/魔女騎士 "wikilink")》的原畫及人物設定。
@@ -34,7 +34,7 @@
   - すいーとブラッド（三原みつき）（[MF文庫J](../Page/MF文庫J.md "wikilink")）
   - 怪物美眉系列(鮮鮮文化)
   - [桃樂絲遊戲](https://zh.wikipedia.org/wiki/桃樂絲遊戲 "wikilink")1\~2（[久本治著](https://zh.wikipedia.org/wiki/久本治 "wikilink")）（[天使出版社](https://zh.wikipedia.org/wiki/天使出版社 "wikilink")）
-  - [謝謝你\!壞運系列](https://zh.wikipedia.org/wiki/謝謝你!壞運 "wikilink")（[B.L.著](../Page/B.L..md "wikilink")）（[台灣角川書店](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")）
+  - [謝謝你\!壞運系列](https://zh.wikipedia.org/wiki/謝謝你!壞運 "wikilink")（[B.L.](../Page/B.L..md "wikilink")著）（[台灣角川書店](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")）
   - 終身保固的女僕與容易崩壞的我（值言著）（[台灣角川書店](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")）
 
 <!-- end list -->

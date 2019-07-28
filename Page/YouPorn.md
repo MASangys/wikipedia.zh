@@ -8,16 +8,14 @@ YouPorn允許使用者以Flash格式(.[flv](https://zh.wikipedia.org/wiki/flv "w
 
 這種[Web2.0](https://zh.wikipedia.org/wiki/Web2.0 "wikilink")(或稱[Porn2.0](https://zh.wikipedia.org/wiki/Porn2.0 "wikilink"))的網站不同於其他色情網站，是完全免費且置入廣告的；在2007年五月營運一個月的廣告營收達到一百二十萬美金\[2\]。
 
-
-
 ## 所有人
 
-YouPorn這個[域名在](../Page/域名.md "wikilink")2005年十二月被一間公司給註冊下來，有記者猜測背後的公司來自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")\[3\]
+YouPorn這個[域名](../Page/域名.md "wikilink")在2005年十二月被一間公司給註冊下來，有記者猜測背後的公司來自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")\[3\]
 。而該網站的架設地點則由其服務條款所提到其主機位在德州，而服務條款則明確提到加州法律。
 
 ## 隱私政策
 
-YouPorn使用[Yahoo\!](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")、[Google以及](../Page/Google.md "wikilink")[Quantcast的資源並允許追蹤潛在可識別的](https://zh.wikipedia.org/wiki/Quantcast "wikilink")[個人資料連結](https://zh.wikipedia.org/wiki/個人資料 "wikilink")。
+YouPorn使用[Yahoo\!](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")、[Google](../Page/Google.md "wikilink")以及[Quantcast的資源並允許追蹤潛在可識別的](https://zh.wikipedia.org/wiki/Quantcast "wikilink")[個人資料連結](https://zh.wikipedia.org/wiki/個人資料 "wikilink")。
 
 ## 競爭對手
 
@@ -31,7 +29,7 @@ YouPorn的知名度曾超越早它一個月成立同類網站[PornoTube](../Page
 當這些[Porn2.0的網站在創立後受到各界的廣大歡迎時也受到不少批評](https://zh.wikipedia.org/wiki/Porn2.0 "wikilink")，這些批評包括了智慧財產權、隱私權以及使用者自己上傳影片所大量產生的法律問題。
 YouPorn每天使用超過三兆位元祖([Terabyte](https://zh.wikipedia.org/wiki/Terabyte "wikilink")-TB)的流量，龐大的用戶以及大量的影片使得網站被迫關閉幾次。而2006年十一月德國的一個網路電子報在報導了YouPorn之後，來自歐洲的流量暴增使得網站當機數次，大量使用者要求YouPorn在歐洲設置主機\[10\]。
 
-相關的問題如無法確定影片中人物的年齡、上傳影片的[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")、以及未獲影片當事人同意而上傳的影片等問題\[11\]。在2007年[生動娛樂集團對YouPorn採取法律行動](../Page/生動娛樂集團.md "wikilink")，聲稱該網站播放未經生動娛樂集團授權的影片損害到其獲利\[12\]。
+相關的問題如無法確定影片中人物的年齡、上傳影片的[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")、以及未獲影片當事人同意而上傳的影片等問題\[11\]。在2007年[生動娛樂集團](../Page/生動娛樂集團.md "wikilink")對YouPorn採取法律行動，聲稱該網站播放未經生動娛樂集團授權的影片損害到其獲利\[12\]。
 
 YouPorn也被稱作「性幼稚中的模範生」（a good role model for the sexually
 naive），相對於商業色情片中的虛幻劇情，其中許多自拍影片更顯現出平常夫妻情侶中平凡普通的性行為\[13\]。
@@ -40,22 +38,22 @@ naive），相對於商業色情片中的虛幻劇情，其中許多自拍影片
 
 ### 德國
 
-德國法律禁止色情資訊缺乏有效的年齡驗證系統，而[德國聯邦青年媒體部也將YouPorn放在其禁止名單上](https://zh.wikipedia.org/wiki/德國聯邦青年媒體部 "wikilink")。也因此在2007年四月，德國的[Google搜尋引擎](../Page/Google.md "wikilink")(google.de)也將YouPorn列為色情影片網站之一\[14\]，另外也將Youporn的連結取代並連結至線上法律保護基金會([寒蝉效应
+德國法律禁止色情資訊缺乏有效的年齡驗證系統，而[德國聯邦青年媒體部也將YouPorn放在其禁止名單上](https://zh.wikipedia.org/wiki/德國聯邦青年媒體部 "wikilink")。也因此在2007年四月，德國的[Google](../Page/Google.md "wikilink")搜尋引擎(google.de)也將YouPorn列為色情影片網站之一\[14\]，另外也將Youporn的連結取代並連結至線上法律保護基金會([寒蝉效应
 (组织)](https://zh.wikipedia.org/wiki/寒蝉效应_\(组织\) "wikilink"))，聲稱「德國監管機構回報非法資訊」\[15\]。
 
-而另一個爭議點是，德國的電信公司[Arcor疑似遭到YouPorn的競爭對手所要求](https://zh.wikipedia.org/wiki/Arcor "wikilink")，在2007年九月將YouPorn以及少數色情影片網站列為禁止進入網站\[16\]，而此舉影響到超過兩百萬人，而[德國海盜黨迅速開啟了](../Page/德國海盜黨.md "wikilink")[代理伺服器](https://zh.wikipedia.org/wiki/代理伺服器 "wikilink")，讓Arcor的使用者能夠藉此進入YouPorn。
+而另一個爭議點是，德國的電信公司[Arcor疑似遭到YouPorn的競爭對手所要求](https://zh.wikipedia.org/wiki/Arcor "wikilink")，在2007年九月將YouPorn以及少數色情影片網站列為禁止進入網站\[16\]，而此舉影響到超過兩百萬人，而[德國海盜黨](../Page/德國海盜黨.md "wikilink")迅速開啟了[代理伺服器](https://zh.wikipedia.org/wiki/代理伺服器 "wikilink")，讓Arcor的使用者能夠藉此進入YouPorn。
 
-Arcor在稍後的九月十七日也將此阻擋規定取消，因為其以[IP地址作為阻擋基礎的過濾器也影響到其他網站](../Page/IP地址.md "wikilink")\[17\]。一名叫基奇貝格(Kirchberg)的人便控告Arcor公司藉由不公平的資助來對抗YouPorn，之後在十月十九日得到一個臨時禁令要求Arcor恢復對YouPorn的使用限制\[18\]\[19\]。在十月二十三日Arcor公司又再度限制使用者進入YouPorn，而這次則使用[DNS禁止的方法](https://zh.wikipedia.org/wiki/DNS "wikilink")，較容易規避相關問題\[20\]，並對臨時禁令提出上訴\[21\]。
+Arcor在稍後的九月十七日也將此阻擋規定取消，因為其以[IP地址](../Page/IP地址.md "wikilink")作為阻擋基礎的過濾器也影響到其他網站\[17\]。一名叫基奇貝格(Kirchberg)的人便控告Arcor公司藉由不公平的資助來對抗YouPorn，之後在十月十九日得到一個臨時禁令要求Arcor恢復對YouPorn的使用限制\[18\]\[19\]。在十月二十三日Arcor公司又再度限制使用者進入YouPorn，而這次則使用[DNS禁止的方法](https://zh.wikipedia.org/wiki/DNS "wikilink")，較容易規避相關問題\[20\]，並對臨時禁令提出上訴\[21\]。
 
 基奇貝格也以臨時禁令通知德國境內的19家[ISP供應商](https://zh.wikipedia.org/wiki/ISP "wikilink")，要求保證其對使用者進入YouPorn的限制，但是都沒得到回應\[22\]，他所作的努力也宣告失敗\[23\]\[24\]。
 
 ### 新加坡
 
-据报道，2008年5月，[新加坡已封锁YouPorn和](../Page/新加坡.md "wikilink")[RedTube](../Page/RedTube.md "wikilink")，政府官员称其为“一个象征的声明”。\[25\]
+据报道，2008年5月，[新加坡](../Page/新加坡.md "wikilink")已封锁YouPorn和[RedTube](../Page/RedTube.md "wikilink")，政府官员称其为“一个象征的声明”。\[25\]
 
 ### 斯里兰卡
 
-2009年7月，[斯里兰卡封锁了](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")12家色情网站，包括YouPorn、[RedTube](../Page/RedTube.md "wikilink")、[XVideos和](../Page/XVideos.md "wikilink")[Xhamster](https://zh.wikipedia.org/wiki/Xhamster "wikilink")。25日，斯里兰卡总裁判官Nishantha
+2009年7月，[斯里兰卡封锁了](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")12家色情网站，包括YouPorn、[RedTube](../Page/RedTube.md "wikilink")、[XVideos](../Page/XVideos.md "wikilink")和[Xhamster](https://zh.wikipedia.org/wiki/Xhamster "wikilink")。25日，斯里兰卡总裁判官Nishantha
 Hapuarachchi下令电信监管委员会在所有当地的互联网服务提供商完全封锁这12家网站。\[26\]\[27\]
 
 ### 中国大陆

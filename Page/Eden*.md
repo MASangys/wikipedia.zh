@@ -4,7 +4,7 @@
 
 作品是[minori的第](https://zh.wikipedia.org/wiki/minori "wikilink")6部作品，也是在繼取得成功的《[ef
 - a fairy tale of the
-two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》之後的作品。在本作中，原作和[腳本完全由](https://zh.wikipedia.org/wiki/腳本 "wikilink")[鏡遊負責](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")；而在前作中和鏡遊一起負責原作和腳本的[御影則負責監督](https://zh.wikipedia.org/wiki/御影 "wikilink")。在minori多部作品中負責人物設定和原畫的[七尾奈留則沒有參與製作](../Page/七尾奈留.md "wikilink")，改由、負責。\[2\]
+two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》之後的作品。在本作中，原作和[腳本完全由](https://zh.wikipedia.org/wiki/腳本 "wikilink")[鏡遊負責](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")；而在前作中和鏡遊一起負責原作和腳本的[御影則負責監督](https://zh.wikipedia.org/wiki/御影 "wikilink")。在minori多部作品中負責人物設定和原畫的[七尾奈留](../Page/七尾奈留.md "wikilink")則沒有參與製作，改由、負責。\[2\]
 
 作品以流水式的敘事為主，帶有比較緊張的戰鬥情節。作品首次採取1024×640的寬屏畫面，以加強遊戲的表現效果，務求使玩家感覺猶如觀賞[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
@@ -12,7 +12,7 @@ two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》
 
 ## 故事情節
 
-在[地球遙遠的未來](../Page/地球.md "wikilink")，由於[火星附近出現巨大的能量體](../Page/火星.md "wikilink")，使地球發生了各種變異，引發全球性的[戰爭和](https://zh.wikipedia.org/wiki/戰爭 "wikilink")[恐怖主義](https://zh.wikipedia.org/wiki/恐怖主義 "wikilink")，地球在毀滅性的打擊下離滅亡只剩下100年。
+在[地球](../Page/地球.md "wikilink")遙遠的未來，由於[火星](../Page/火星.md "wikilink")附近出現巨大的能量體，使地球發生了各種變異，引發全球性的[戰爭和](https://zh.wikipedia.org/wiki/戰爭 "wikilink")[恐怖主義](https://zh.wikipedia.org/wiki/恐怖主義 "wikilink")，地球在毀滅性的打擊下離滅亡只剩下100年。
 
 為了趕在100年內離開地球，人類制定「地球脫出計劃」。為了實現這個計劃，建立「地球統一政府」以打壓異己和集中一切可利用資源；另一方面，為了解決人類智慧和肉體的局限性以保證計劃的延續性，又制定「地球脫出計劃」的核心「Felix計劃」——通過基因改造，獲得高智能的長生不老的生命體，即「Felix」。本作的女主角**紫苑**（一作sion）（）即為其中一名Felix。
 
@@ -77,7 +77,7 @@ two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》
 
 ## 漫畫
 
-改編自此遊戲的同名[漫畫由](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[守姬武士作畫](https://zh.wikipedia.org/wiki/守姬武士 "wikilink")，在遊戲發行前在[一迅社旗下的雜誌](../Page/一迅社.md "wikilink")《[Comic
+改編自此遊戲的同名[漫畫由](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[守姬武士作畫](https://zh.wikipedia.org/wiki/守姬武士 "wikilink")，在遊戲發行前在[一迅社](../Page/一迅社.md "wikilink")旗下的雜誌《[Comic
 REX](https://zh.wikipedia.org/wiki/Comic_REX "wikilink")》2009年8月號\[6\]至2010年3月號連載。該漫畫的第一本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2010年3月9日發售。\[7\]
 
 ## 參考資料

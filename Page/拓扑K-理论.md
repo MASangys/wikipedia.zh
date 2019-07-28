@@ -1,12 +1,12 @@
-[数学中](../Page/数学.md "wikilink")，**拓扑
-K-理论**（）是[代数拓扑的一个分支](../Page/代数拓扑.md "wikilink")。它是研究一般[拓扑空间上](../Page/拓扑空间.md "wikilink")[向量丛时发现的](../Page/向量丛.md "wikilink")，所用的是由[亚历山大·格罗滕迪克引入的现在称为](../Page/亚历山大·格罗滕迪克.md "wikilink")（一般）[K-理论的想法](../Page/K-理论.md "wikilink")。早期拓扑
-K-理论的工作归于[迈克尔·阿蒂亚与](../Page/迈克尔·阿蒂亚.md "wikilink")[弗里德里希·希策布鲁赫](../Page/弗里德里希·希策布鲁赫.md "wikilink")（[Friedrich
+[数学](../Page/数学.md "wikilink")中，**拓扑
+K-理论**（）是[代数拓扑](../Page/代数拓扑.md "wikilink")的一个分支。它是研究一般[拓扑空间](../Page/拓扑空间.md "wikilink")上[向量丛](../Page/向量丛.md "wikilink")时发现的，所用的是由[亚历山大·格罗滕迪克](../Page/亚历山大·格罗滕迪克.md "wikilink")引入的现在称为（一般）[K-理论](../Page/K-理论.md "wikilink")的想法。早期拓扑
+K-理论的工作归于[迈克尔·阿蒂亚](../Page/迈克尔·阿蒂亚.md "wikilink")与[弗里德里希·希策布鲁赫](../Page/弗里德里希·希策布鲁赫.md "wikilink")（[Friedrich
 Hirzebruch](https://zh.wikipedia.org/wiki/:en:Friedrich_Hirzebruch "wikilink")）。
 
 ## 定义
 
 拓扑
-K-理论是[紧](../Page/紧空间.md "wikilink")[豪斯多夫空间](../Page/豪斯多夫空间.md "wikilink")[范畴的一种广义](https://zh.wikipedia.org/wiki/范畴_\(数学\) "wikilink")[上同调理论](https://zh.wikipedia.org/wiki/上同调理论 "wikilink")，将一个空间上的[向量丛按](../Page/向量丛.md "wikilink")[稳定等价分类](https://zh.wikipedia.org/wiki/稳定等价 "wikilink")（向量丛称为稳定等价的当且仅当[同构的向量丛由向量丛与平凡向量丛的](../Page/同构.md "wikilink")[惠特尼和生成](https://zh.wikipedia.org/wiki/惠特尼和 "wikilink")\[1\]）。设
+K-理论是[紧](../Page/紧空间.md "wikilink")[豪斯多夫空间](../Page/豪斯多夫空间.md "wikilink")[范畴的一种广义](https://zh.wikipedia.org/wiki/范畴_\(数学\) "wikilink")[上同调理论](https://zh.wikipedia.org/wiki/上同调理论 "wikilink")，将一个空间上的[向量丛](../Page/向量丛.md "wikilink")按[稳定等价分类](https://zh.wikipedia.org/wiki/稳定等价 "wikilink")（向量丛称为稳定等价的当且仅当[同构](../Page/同构.md "wikilink")的向量丛由向量丛与平凡向量丛的[惠特尼和生成](https://zh.wikipedia.org/wiki/惠特尼和 "wikilink")\[1\]）。设
 *X* 是一个紧豪斯多夫空间而 \(k=\mathbb{R}\) 或 \(k=\mathbb{C}\)。则 \(K_{k}(X)\) 是 *X*
 上有限维 \(k\)-向量丛的[同构类在运算](https://zh.wikipedia.org/wiki/同构类 "wikilink")
 
@@ -45,13 +45,13 @@ x<sub>0</sub>，则约化
 \(X\to\{x_0\}\) 是常映射）。
 
 当 *X*
-是[连通空间是](../Page/连通空间.md "wikilink")，\(\tilde K(X)\cong\operatorname{Ker}(K(X)\to\check{H}^0(X,\mathbb{Z})=\mathbb{Z})\)。
+是[连通空间](../Page/连通空间.md "wikilink")是，\(\tilde K(X)\cong\operatorname{Ker}(K(X)\to\check{H}^0(X,\mathbb{Z})=\mathbb{Z})\)。
 
 函子 *K*
-的定义扩张成[紧空间的](../Page/紧空间.md "wikilink")[范畴偶](https://zh.wikipedia.org/wiki/范畴_\(数学\) "wikilink")（一个对象是一个偶
+的定义扩张成[紧空间](../Page/紧空间.md "wikilink")的[范畴偶](https://zh.wikipedia.org/wiki/范畴_\(数学\) "wikilink")（一个对象是一个偶
 \((X,Y)\)，\(X\) 紧而 \(Y\subset X\) 闭，\((X,Y)\) 与 \((X',Y')\)
-间的[态射是一个连续映射](../Page/态射.md "wikilink")
-\(f:X\to X'\) 使得 \(f(Y)\subset Y'\)）。
+间的[态射](../Page/态射.md "wikilink")是一个连续映射 \(f:X\to X'\) 使得
+\(f(Y)\subset Y'\)）。
 
 \[K(X,Y):=\tilde{K}(X/Y)\]
 
@@ -80,16 +80,16 @@ suspension](https://zh.wikipedia.org/wiki/:en:reduced_suspension "wikilink")）�
     character](https://zh.wikipedia.org/wiki/:en:Chern_character "wikilink")），使得
     \(K^*(X)\otimes\mathbb{Q}\to H^{2*}(X,\mathbb{Q})\) 是一个同构。
   - 拓扑 K-理论可推广为
-    [C\*-代数上一个函子](../Page/C*-代数.md "wikilink")，参见[算子K-理论与](https://zh.wikipedia.org/wiki/算子K-理论 "wikilink")
+    [C\*-代数](../Page/C*-代数.md "wikilink")上一个函子，参见[算子K-理论与](https://zh.wikipedia.org/wiki/算子K-理论 "wikilink")
     [KK-理论](https://zh.wikipedia.org/wiki/KK-理论 "wikilink")。
 
 ## 博特周期性
 
-[周期性现象冠以](https://zh.wikipedia.org/wiki/周期性 "wikilink")[拉乌尔·博特之名](../Page/拉乌尔·博特.md "wikilink")（参见[博特周期性定理](https://zh.wikipedia.org/wiki/博特周期性定理 "wikilink")），可作如下表述：
+[周期性现象冠以](https://zh.wikipedia.org/wiki/周期性 "wikilink")[拉乌尔·博特](../Page/拉乌尔·博特.md "wikilink")之名（参见[博特周期性定理](https://zh.wikipedia.org/wiki/博特周期性定理 "wikilink")），可作如下表述：
 
   - \(K(X\times S^2)=K(X)\otimes K(S^2),\) and
     \(K(S^2)=\mathbb Z[H]/(H-1)^2;\) 这里 \(H\) 是 \(S^2=\mathbb CP^1\)
-    上的[重言丛类](https://zh.wikipedia.org/wiki/重言丛 "wikilink")，即[黎曼球面作为](../Page/黎曼球面.md "wikilink")[复射影直线](https://zh.wikipedia.org/wiki/复射影直线 "wikilink")。
+    上的[重言丛类](https://zh.wikipedia.org/wiki/重言丛 "wikilink")，即[黎曼球面](../Page/黎曼球面.md "wikilink")作为[复射影直线](https://zh.wikipedia.org/wiki/复射影直线 "wikilink")。
   - \(\tilde K^{n+2}(X)=\tilde K^n(X).\)
   - \(\Omega^2\mathrm{BU}\simeq\mathrm{BU}\times\mathbf Z.\)
 

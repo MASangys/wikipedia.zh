@@ -1,6 +1,6 @@
 《**Oolite**》是3D空间模拟游戏，完全仿照[Elite设计](https://zh.wikipedia.org/wiki/Elite "wikilink")。名称来自Object
 Oriented
-Elite。用[Objective-C写成](../Page/Objective-C.md "wikilink")。源代码授权为[GNU
+Elite。用[Objective-C](../Page/Objective-C.md "wikilink")写成。源代码授权为[GNU
 GPL version
 2](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")，图像音乐数据授权[CC-BY-NC-SA-3.0
 license](https://zh.wikipedia.org/wiki/Creative_Commons "wikilink")\[1\]
@@ -9,7 +9,7 @@ license](https://zh.wikipedia.org/wiki/Creative_Commons "wikilink")\[1\]
 
 ### 基本
 
-是个3D[第一人称](https://zh.wikipedia.org/wiki/第一人称 "wikilink")，[开放](https://zh.wikipedia.org/wiki/开放 "wikilink")，[单人](https://zh.wikipedia.org/wiki/单人 "wikilink")[空间战斗模拟器](https://zh.wikipedia.org/wiki/空间战斗模拟器 "wikilink")。作为飞行员，用[虫洞在周围星系穿梭](../Page/虫洞.md "wikilink")。每个系统都只有一个星球，还有一个[空间站](https://zh.wikipedia.org/wiki/空间站 "wikilink")：玩家选择目的地系统就依靠星球名称。尽管玩家可以在任何地方制造虫洞燃料限制着移动，穿越后的能量可能无法支持到达行星。*Oolite*基本武器是[激光和](../Page/激光.md "wikilink")[导弹](../Page/导弹.md "wikilink")。大多战斗是[缠斗](https://zh.wikipedia.org/wiki/缠斗 "wikilink")
+是个3D[第一人称](https://zh.wikipedia.org/wiki/第一人称 "wikilink")，[开放](https://zh.wikipedia.org/wiki/开放 "wikilink")，[单人](https://zh.wikipedia.org/wiki/单人 "wikilink")[空间战斗模拟器](https://zh.wikipedia.org/wiki/空间战斗模拟器 "wikilink")。作为飞行员，用[虫洞](../Page/虫洞.md "wikilink")在周围星系穿梭。每个系统都只有一个星球，还有一个[空间站](https://zh.wikipedia.org/wiki/空间站 "wikilink")：玩家选择目的地系统就依靠星球名称。尽管玩家可以在任何地方制造虫洞燃料限制着移动，穿越后的能量可能无法支持到达行星。*Oolite*基本武器是[激光](../Page/激光.md "wikilink")和[导弹](../Page/导弹.md "wikilink")。大多战斗是[缠斗](https://zh.wikipedia.org/wiki/缠斗 "wikilink")
 ，既非[牛顿运动定律](../Page/牛顿运动定律.md "wikilink")，也不受[惯性和](https://zh.wikipedia.org/wiki/惯性 "wikilink")[重力影响](https://zh.wikipedia.org/wiki/重力 "wikilink")。
 
 ### 目的
@@ -51,13 +51,13 @@ Williams针对](https://zh.wikipedia.org/wiki/Giles_Williams "wikilink")[Mac
 OS
 X开始了Oolite](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，并在2004年7月放出第一个版本。2005年9月，Mac
 *Oolite*
-v1.52放出，并且有了[Linux移植版](../Page/Linux.md "wikilink")。[Windows使用](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[GNUstep的移植在](../Page/GNUstep.md "wikilink")2006年3月放出。[SGI](https://zh.wikipedia.org/wiki/SGI "wikilink")
+v1.52放出，并且有了[Linux](../Page/Linux.md "wikilink")移植版。[Windows使用](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[GNUstep](../Page/GNUstep.md "wikilink")的移植在2006年3月放出。[SGI](https://zh.wikipedia.org/wiki/SGI "wikilink")
 [IRIX](../Page/IRIX.md "wikilink") 和
 [FreeBSD](../Page/FreeBSD.md "wikilink")（Intel构架）也陆续移植。但只有Mac OS X拥有全部特性
 (主要是镶入 iTunes, Spotlight和Growl)\[4\]
 
 2006年10月，1.65版本后，Williams宣布在 *Oolite*
-购架具备[OpenGL](../Page/OpenGL.md "wikilink")[着色器延伸能力后退出开发](../Page/着色器.md "wikilink")。项目继续，并在2007年2月27日重新定义授权，改为[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")，由社区继续开发之后添加了Java脚本制作任务和[shader支持](https://zh.wikipedia.org/wiki/shader "wikilink")。并有几个测试版本放出。
+购架具备[OpenGL](../Page/OpenGL.md "wikilink")[着色器](../Page/着色器.md "wikilink")延伸能力后退出开发。项目继续，并在2007年2月27日重新定义授权，改为[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")，由社区继续开发之后添加了Java脚本制作任务和[shader支持](https://zh.wikipedia.org/wiki/shader "wikilink")。并有几个测试版本放出。
 
 ## 奖项
 

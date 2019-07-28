@@ -1,5 +1,5 @@
 **HK
-SL6**是一枝由[德国槍械製造商](../Page/德国.md "wikilink")[黑克勒-科赫公司所设计及生產](../Page/黑克勒&科赫.md "wikilink")，以[滾輪延遲反衝式槍機操作的運動用](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")[半自动步枪](../Page/半自动步枪.md "wikilink")。發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+SL6**是一枝由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒-科赫公司所设计及生產](../Page/黑克勒&科赫.md "wikilink")，以[滾輪延遲反衝式槍機操作的運動用](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")[半自动步枪](../Page/半自动步枪.md "wikilink")。發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 
@@ -8,9 +8,9 @@ SL6最初的設計是類似於[HK
 
 SL6具有與使用在[HK
 G3戰鬥步槍相同的](../Page/HK_G3自動步槍.md "wikilink")[滾輪延遲反衝式槍機閉鎖系統](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")，是[黑克勒-科赫在推出](../Page/黑克勒&科赫.md "wikilink")[HK
-G36以前的](../Page/HK_G36突擊步槍.md "wikilink")[輕武器的標誌性特色](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")。只是把改為位於槍身右邊並改為向前摺疊式，和把[手動保險設置在槍身左側](https://zh.wikipedia.org/wiki/手動保險 "wikilink")、位於[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")[護圈和](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣之間的上方](../Page/彈匣.md "wikilink")。彈匣卡箏位於扳機護圈內側、扳機前方，向前推即可將彈匣拆卸下來。4條[膛線組成的](../Page/膛線.md "wikilink")膛線的[膛線纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：10.6
-英吋右旋。[膛室內部表面刻有](../Page/膛室.md "wikilink")12
-條向後延伸的縱向凹槽。這些凹槽能夠使[裝藥燃燒以後的高壓火藥燃氣繞流的情況下充當協助減輕提取彈殼時的壓力的](../Page/裝藥.md "wikilink")[潤滑劑](https://zh.wikipedia.org/wiki/潤滑劑 "wikilink")。SL6具有由旋轉屈光式鼓狀後照門及冠頂狀前[準星所組成的](../Page/照準器.md "wikilink")[機械瞄具系統](../Page/機械瞄具.md "wikilink")，並且把前準星轉移至使[瞄準基線的長度延長為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")655
+G36以前的](../Page/HK_G36突擊步槍.md "wikilink")[輕武器的標誌性特色](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")。只是把改為位於槍身右邊並改為向前摺疊式，和把[手動保險設置在槍身左側](https://zh.wikipedia.org/wiki/手動保險 "wikilink")、位於[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")[護圈和](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣](../Page/彈匣.md "wikilink")之間的上方。彈匣卡箏位於扳機護圈內側、扳機前方，向前推即可將彈匣拆卸下來。4條[膛線](../Page/膛線.md "wikilink")組成的膛線的[膛線纏距為](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")1：10.6
+英吋右旋。[膛室](../Page/膛室.md "wikilink")內部表面刻有12
+條向後延伸的縱向凹槽。這些凹槽能夠使[裝藥](../Page/裝藥.md "wikilink")燃燒以後的高壓火藥燃氣繞流的情況下充當協助減輕提取彈殼時的壓力的[潤滑劑](https://zh.wikipedia.org/wiki/潤滑劑 "wikilink")。SL6具有由旋轉屈光式鼓狀後照門及冠頂狀前[準星所組成的](../Page/照準器.md "wikilink")[機械瞄具](../Page/機械瞄具.md "wikilink")系統，並且把前準星轉移至使[瞄準基線的長度延長為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")655
 毫米（25.79 英吋）。它並可以採用黑克勒-科赫公司專有的HK
 05式爪型瞄準鏡安裝座。[機匣頂部已經整合了兩個長方形的凹槽以便安裝這個瞄準鏡座](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
 

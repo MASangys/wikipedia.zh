@@ -1,6 +1,6 @@
 **UCenter
 Home**是一款互联网论坛软件提供商康盛创想旗下的一款[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")（SNS）软件。UCenter
-Home基于[PHP和](../Page/PHP.md "wikilink")[Mysql](https://zh.wikipedia.org/wiki/Mysql "wikilink")。当前最新版本为2.0。据康盛创想的数据，目前使用UCenter
+Home基于[PHP](../Page/PHP.md "wikilink")和[Mysql](https://zh.wikipedia.org/wiki/Mysql "wikilink")。当前最新版本为2.0。据康盛创想的数据，目前使用UCenter
 Home构建的网站超过12万家。
 
 ## 版本

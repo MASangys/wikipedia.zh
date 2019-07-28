@@ -2,14 +2,14 @@
 (2) 使
 α,β-[环氧](https://zh.wikipedia.org/wiki/环氧 "wikilink")[酮](../Page/酮.md "wikilink")
 (1) 断裂生成含[炔基](https://zh.wikipedia.org/wiki/炔 "wikilink") (3)
-和[酮基](../Page/酮.md "wikilink") (4) 化合物的反应。\[1\]\[2\]\[3\]\[4\]
+和[酮](../Page/酮.md "wikilink")基 (4) 化合物的反应。\[1\]\[2\]\[3\]\[4\]
 也译为碎片化反应、碎裂反应。反应以瑞士化学家[埃尔伯特·埃申莫瑟](https://zh.wikipedia.org/wiki/埃尔伯特·埃申莫瑟 "wikilink")（Albert
 Eschenmoser）的名字命名。
 
 [Eschemoser_Fragmentation_Scheme.png](https://zh.wikipedia.org/wiki/File:Eschemoser_Fragmentation_Scheme.png "fig:Eschemoser_Fragmentation_Scheme.png")
 
 原料 α,β-环氧酮可通过
-[α,β-不饱和羰基化合物与](https://zh.wikipedia.org/wiki/α,β-不饱和羰基化合物 "wikilink")[过氧化氢在碱性条件下反应得到](../Page/过氧化氢.md "wikilink")。
+[α,β-不饱和羰基化合物与](https://zh.wikipedia.org/wiki/α,β-不饱和羰基化合物 "wikilink")[过氧化氢](../Page/过氧化氢.md "wikilink")在碱性条件下反应得到。
 
 ## 反应机理
 
@@ -23,7 +23,7 @@ Eschenmoser）的名字命名。
 
 [Eschemoser_Fragmentation_Mechanism.png](https://zh.wikipedia.org/wiki/File:Eschemoser_Fragmentation_Mechanism.png "fig:Eschemoser_Fragmentation_Mechanism.png")
 3 到 4
-的质子转移一步可以被[吡啶](../Page/吡啶.md "wikilink")、[碳酸氢钠](../Page/碳酸氢钠.md "wikilink")、[碳酸钠或](../Page/碳酸钠.md "wikilink")[硅胶催化](../Page/硅胶.md "wikilink")。
+的质子转移一步可以被[吡啶](../Page/吡啶.md "wikilink")、[碳酸氢钠](../Page/碳酸氢钠.md "wikilink")、[碳酸钠](../Page/碳酸钠.md "wikilink")或[硅胶](../Page/硅胶.md "wikilink")催化。
 
 ## 实例
 

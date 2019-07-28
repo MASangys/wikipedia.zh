@@ -6,14 +6,14 @@ reverse)是*[NetHack](../Page/NetHack.md "wikilink")*和*[Slash'EM](https://zh.w
   - 45度2D视角
   - 真3D视角
 
-[OpenGL的应用](../Page/OpenGL.md "wikilink")：所有模式下都可以进行转动。
+[OpenGL](../Page/OpenGL.md "wikilink")的应用：所有模式下都可以进行转动。
 
 ## 特殊
 
 2004年 *noegnud*
-酝酿了一场针对[伊拉克战争的抗议](../Page/伊拉克战争.md "wikilink")——改变了软件[授权协议](https://zh.wikipedia.org/wiki/授权 "wikilink")，让这个项目的授权直接对抗[美国法律](../Page/美国.md "wikilink")，从而不能让任何美国商人获益\[1\]。
+酝酿了一场针对[伊拉克战争](../Page/伊拉克战争.md "wikilink")的抗议——改变了软件[授权协议](https://zh.wikipedia.org/wiki/授权 "wikilink")，让这个项目的授权直接对抗[美国](../Page/美国.md "wikilink")法律，从而不能让任何美国商人获益\[1\]。
 [Sourceforge](https://zh.wikipedia.org/wiki/Sourceforge "wikilink")，但这样协议有悖
-[自由软件](../Page/自由软件.md "wikilink")，[开源软件的定义](../Page/开源软件.md "wikilink")。
+[自由软件](../Page/自由软件.md "wikilink")，[开源软件](../Page/开源软件.md "wikilink")的定义。
 
 ## 参考
 

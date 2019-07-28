@@ -1,6 +1,6 @@
 [DVD-Video_bottom-side.jpg](https://zh.wikipedia.org/wiki/File:DVD-Video_bottom-side.jpg "fig:DVD-Video_bottom-side.jpg")
-**DVD-Video**是消費類視頻格式，用於將數位視頻存儲在[DVD光碟上](https://zh.wikipedia.org/wiki/DVD "wikilink")，最早于1996年11月在[日本推出](../Page/日本.md "wikilink")。至2003年止，DVD-Video格式已在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[澳大利亞佔有統治地位](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。\[1\]使用DVD-Video規範的光碟需要帶有MPEG-2解碼器的DVD磁碟機才可播放（如[DVD播放機或帶有DVD](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")[播放軟體的電腦DVD磁碟機](https://zh.wikipedia.org/wiki/播放軟體 "wikilink")）。商用DVD電影常使用MPEG-2壓縮視頻編碼以及不同格式的音訊編碼（通常為如下所述的多通道格式）。通常來講，DVD電影的資訊速率從3
-Mbit/s到9.5 Mbit/s不等，而[比特率為自我調整速率](../Page/比特率.md "wikilink")。
+**DVD-Video**是消費類視頻格式，用於將數位視頻存儲在[DVD光碟上](https://zh.wikipedia.org/wiki/DVD "wikilink")，最早于1996年11月在[日本](../Page/日本.md "wikilink")推出。至2003年止，DVD-Video格式已在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[澳大利亞佔有統治地位](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。\[1\]使用DVD-Video規範的光碟需要帶有MPEG-2解碼器的DVD磁碟機才可播放（如[DVD播放機或帶有DVD](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")[播放軟體的電腦DVD磁碟機](https://zh.wikipedia.org/wiki/播放軟體 "wikilink")）。商用DVD電影常使用MPEG-2壓縮視頻編碼以及不同格式的音訊編碼（通常為如下所述的多通道格式）。通常來講，DVD電影的資訊速率從3
+Mbit/s到9.5 Mbit/s不等，而[比特率](../Page/比特率.md "wikilink")為自我調整速率。
 
 DVD-Video規範由[DVD論壇創建](https://zh.wikipedia.org/wiki/DVD論壇 "wikilink")，可以5,000美元的費用从DVD格式/徽標授權公司（DVD
 Format/Logo Licensing
@@ -10,12 +10,12 @@ Book中的某些資訊为專有機密資訊。
 ## 视频数据
 
 DVD-Video使用[H.262](../Page/H.262.md "wikilink")（[MPEG-2](../Page/MPEG-2.md "wikilink")）壓縮標準（最高碼率為9.8
-Mibit/s）或[MPEG-1壓縮標準](../Page/MPEG-1.md "wikilink")（最高碼率為1.856
-Mibit/s）以錄製移動圖像。DVD-Video支援[色彩深度為每色](../Page/色彩深度.md "wikilink")8位[YCbCr與](../Page/YCbCr.md "wikilink")4:2:0[色度抽樣的視頻](https://zh.wikipedia.org/wiki/色度抽樣 "wikilink")。\[4\]\[5\]
+Mibit/s）或[MPEG-1](../Page/MPEG-1.md "wikilink")壓縮標準（最高碼率為1.856
+Mibit/s）以錄製移動圖像。DVD-Video支援[色彩深度](../Page/色彩深度.md "wikilink")為每色8位[YCbCr](../Page/YCbCr.md "wikilink")與4:2:0[色度抽樣的視頻](https://zh.wikipedia.org/wiki/色度抽樣 "wikilink")。\[4\]\[5\]
 
 以下為H.262標準所支持的格式：
 
-  - [帧率為](../Page/帧率.md "wikilink")25fps、[隔行掃描](https://zh.wikipedia.org/wiki/隔行掃描 "wikilink")（常見於以[PAL制式](../Page/PAL制式.md "wikilink")（576i）為標準的地區）：
+  - [帧率](../Page/帧率.md "wikilink")為25fps、[隔行掃描](https://zh.wikipedia.org/wiki/隔行掃描 "wikilink")（常見於以[PAL制式](../Page/PAL制式.md "wikilink")（576i）為標準的地區）：
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@ Mibit/s）以錄製移動圖像。DVD-Video支援[色彩深度為每色](../Page
 
 <!-- end list -->
 
-  - [帧率為](../Page/帧率.md "wikilink")29.97fps或23.976fps、隔行掃描（常見於以[NTSC制式](../Page/NTSC制式.md "wikilink")（480i）為標準的地區）：
+  - [帧率](../Page/帧率.md "wikilink")為29.97fps或23.976fps、隔行掃描（常見於以[NTSC制式](../Page/NTSC制式.md "wikilink")（480i）為標準的地區）：
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@ Mibit/s）以錄製移動圖像。DVD-Video支援[色彩深度為每色](../Page
 
 以下為MPEG-1標準所支持的格式：
 
-  - [帧率為](../Page/帧率.md "wikilink")25fps、[逐行掃描](https://zh.wikipedia.org/wiki/逐行掃描 "wikilink")：
+  - [帧率](../Page/帧率.md "wikilink")為25fps、[逐行掃描](https://zh.wikipedia.org/wiki/逐行掃描 "wikilink")：
   - 352 × 288像素
   - 352 × 240像素
 

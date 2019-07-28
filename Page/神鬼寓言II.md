@@ -3,7 +3,7 @@ Studios於](../Page/Lionhead_Studios.md "wikilink")2008年製作完成的一款[
 360上的](https://zh.wikipedia.org/wiki/XBOX_360 "wikilink")[单机游戏](../Page/单机游戏.md "wikilink")。這個遊戲是屬於[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。這個遊戲是接續前兩個遊戲—－**[神鬼寓言](../Page/神鬼寓言.md "wikilink")**（Fable）和**[神鬼寓言：失落之章](https://zh.wikipedia.org/wiki/神鬼寓言：失落之章 "wikilink")**（Fable:
 The Lost Chapters）的一個續集。這個遊戲於2008年10月21日首度發行，屬於**神鬼寓言系列**中的一個遊戲。
 
-神鬼寓言Ⅱ運行在一個虛擬的世界「**阿爾比恩**」中。這個遊戲和之前兩集的地點場景相同，但是其時代卻是在前兩集的大約五百年以後。其時間場景有點類似[啟蒙時代](../Page/啟蒙時代.md "wikilink")，也就是[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[攔路強盜盛行的時期](https://zh.wikipedia.org/wiki/攔路強盜 "wikilink")。那時的[槍已經被發明](../Page/槍.md "wikilink")，但是非常的粗糙且古老。許多大[城市和](../Page/城市.md "wikilink")[城堡在當時都已經被開發](../Page/城堡.md "wikilink")。這個遊戲和前兩集較不同的是，玩家在開始遊戲的時候可以選擇自己要成為男性還是女性的角色。
+神鬼寓言Ⅱ運行在一個虛擬的世界「**阿爾比恩**」中。這個遊戲和之前兩集的地點場景相同，但是其時代卻是在前兩集的大約五百年以後。其時間場景有點類似[啟蒙時代](../Page/啟蒙時代.md "wikilink")，也就是[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[攔路強盜盛行的時期](https://zh.wikipedia.org/wiki/攔路強盜 "wikilink")。那時的[槍](../Page/槍.md "wikilink")已經被發明，但是非常的粗糙且古老。許多大[城市](../Page/城市.md "wikilink")和[城堡](../Page/城堡.md "wikilink")在當時都已經被開發。這個遊戲和前兩集較不同的是，玩家在開始遊戲的時候可以選擇自己要成為男性還是女性的角色。
 
 ## 遊戲玩法
 
@@ -17,7 +17,7 @@ The Lost Chapters）的一個續集。這個遊戲於2008年10月21日首度發�
 
 ### 家庭關係
 
-在神鬼寓言Ⅱ中，玩家可以和遊戲中其他角色[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")（包括[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")）或擁有小孩（前兩集只能結婚，而不能擁有小孩）。玩家可以擁有[外遇或以](../Page/外遇.md "wikilink")[多配偶制來控制婚姻](https://zh.wikipedia.org/wiki/多配偶制 "wikilink")，玩家亦可以選擇和配偶[離婚](https://zh.wikipedia.org/wiki/離婚 "wikilink")，並且決定權不一定在玩家手上，其配偶也可以選擇和玩家離婚。就像真實世界中的家庭一般，遊戲中主角和家人的相處時間或互動愈多，他們彼此的聯繫就更深刻，並減少他們離開主角的可能性。
+在神鬼寓言Ⅱ中，玩家可以和遊戲中其他角色[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")（包括[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")）或擁有小孩（前兩集只能結婚，而不能擁有小孩）。玩家可以擁有[外遇](../Page/外遇.md "wikilink")或以[多配偶制來控制婚姻](https://zh.wikipedia.org/wiki/多配偶制 "wikilink")，玩家亦可以選擇和配偶[離婚](https://zh.wikipedia.org/wiki/離婚 "wikilink")，並且決定權不一定在玩家手上，其配偶也可以選擇和玩家離婚。就像真實世界中的家庭一般，遊戲中主角和家人的相處時間或互動愈多，他們彼此的聯繫就更深刻，並減少他們離開主角的可能性。
 
 在原作神鬼寓言中，玩家可以透過送禮物、展現技能等方式來吸引異性。如果展現對方喜歡的技能，或贈送對方喜歡的禮物，對方就會比較容易被吸引。達到一定的愛情程度後，對方可能會邀請玩家發生[性行為](https://zh.wikipedia.org/wiki/性行為 "wikilink")。在沒有保險措施下的性行為可能會導致對方[懷孕或得到](https://zh.wikipedia.org/wiki/懷孕 "wikilink")[性病](https://zh.wikipedia.org/wiki/性病 "wikilink")，而若（男性）玩家擁有[保險套](https://zh.wikipedia.org/wiki/保險套 "wikilink")，則可以避免導致懷孕的性行為。
 

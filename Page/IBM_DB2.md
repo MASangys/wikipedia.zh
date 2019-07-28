@@ -9,7 +9,7 @@
 | license = proprietary
 [EULA](https://zh.wikipedia.org/wiki/EULA "wikilink") | website = }}
 **IBM
-DB2**企業伺服器版本，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[IBM公司發展的一套](../Page/IBM.md "wikilink")[关系型数据库管理系统](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")。它主要的執行環境為[UNIX](../Page/UNIX.md "wikilink")（包括IBM自家的[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")）、[Linux](../Page/Linux.md "wikilink")、（舊稱）、，以及[Windows伺服器版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。DB2也提供性能強大的各稱IBM
+DB2**企業伺服器版本，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[IBM](../Page/IBM.md "wikilink")公司發展的一套[关系型数据库管理系统](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")。它主要的執行環境為[UNIX](../Page/UNIX.md "wikilink")（包括IBM自家的[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")）、[Linux](../Page/Linux.md "wikilink")、（舊稱）、，以及[Windows伺服器版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。DB2也提供性能強大的各稱IBM
 InfoSphere Warehouse版本。和DB2同級的还有另外一个关系型数据库管理系统：，它在2001年被IBM收购。
 
 ## 历史
@@ -67,7 +67,7 @@ Express的价格自4，874美元／处理器或者165美元／用户（至少5�
 
 DB2有众多的版本，或者是许可证。为了弱化“版本”的概念增强可选择性，IBM允许客户不购买他们不需要的特性。示例版本包括Express、Workgroup和Enterprise版本。基于Linux/UNIX/Windows的最复杂的版本是DB2
 Data Warehouse Enterprise Edition，缩写为DB2
-DWE。这个版本的偏重于混合工作负荷（[线上交易处理和](https://zh.wikipedia.org/wiki/线上交易处理 "wikilink")[数据仓库](https://zh.wikipedia.org/wiki/数据仓库 "wikilink")）和[商业智能的实现](../Page/商业智能.md "wikilink")。DB2
+DWE。这个版本的偏重于混合工作负荷（[线上交易处理和](https://zh.wikipedia.org/wiki/线上交易处理 "wikilink")[数据仓库](https://zh.wikipedia.org/wiki/数据仓库 "wikilink")）和[商业智能](../Page/商业智能.md "wikilink")的实现。DB2
 DWE包括一些商务智能的特性例如[ETL](https://zh.wikipedia.org/wiki/ETL "wikilink")、[数据发掘](https://zh.wikipedia.org/wiki/数据发掘 "wikilink")、[OLAP加速以及in](https://zh.wikipedia.org/wiki/OLAP "wikilink")-line
 analytics。
 
@@ -94,7 +94,7 @@ support
 systems）（例如[数据仓库](https://zh.wikipedia.org/wiki/数据仓库 "wikilink")）。但是，在较小的市场中也有其他的竞争者，包括[Microsoft
 SQL
 Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")（只能被应用于Microsoft
-Windows），[開源軟體产品例如](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")、[PostgreSQL和](../Page/PostgreSQL.md "wikilink")[MySQL](../Page/MySQL.md "wikilink")，以及针对特殊用户群的产品如[Sybase和](../Page/Sybase.md "wikilink")[MaxDB](../Page/MaxDB.md "wikilink")。
+Windows），[開源軟體产品例如](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")和[MySQL](../Page/MySQL.md "wikilink")，以及针对特殊用户群的产品如[Sybase](../Page/Sybase.md "wikilink")和[MaxDB](../Page/MaxDB.md "wikilink")。
 
 在数据库管理软件竞争市场，数据库可以成兆兆字节的增长，IBM的数据库分区特性（Database Partitioning Feature,
 DPF）通常被用来和Oracle的Real Application
@@ -108,7 +108,7 @@ AG的ADABAS也在基于z/OS的关系型数据库上进行竞争，而且也有�
 SQL、NOMAD等）。Oracle拥有可用于z/OS的31位RDBMS。非关系型数据库竞争产品包括IMS、CA-IDMS等。
 
 在Transaction Processing Performance Council的网站上，IBM和DB2常常居于TPC-C and
-TPC-H行业水准的首位。 2006年[IBM通过发布一系列整合了DB](../Page/IBM.md "wikilink")2
+TPC-H行业水准的首位。 2006年[IBM](../Page/IBM.md "wikilink")通过发布一系列整合了DB2
 Warehouse Edition和IBM system p (AIX)或者IBM system x
 (Linux)服务器的预架构软硬件系统的产品线来应对在日渐显现的数据仓库应用上的竞争。这个"warehouse
 appliance-like"系统系列产品被命名为IBM Balanced Configuration
@@ -141,7 +141,7 @@ DIAGNOSTICS语句执行所检索。
 
 ## 培训及认证
 
-目前，[IBM提供多种培训和认证](../Page/IBM.md "wikilink")，在其官方网站上都有提供。
+目前，[IBM](../Page/IBM.md "wikilink")提供多种培训和认证，在其官方网站上都有提供。
 
 ## 用户组
 

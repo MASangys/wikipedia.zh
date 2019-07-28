@@ -1,9 +1,9 @@
 **Oracle Database**，又名**Oracle
-RDBMS**，或簡稱**Oracle**。是[甲骨文公司的一款](../Page/甲骨文公司.md "wikilink")[关系数据库管理系统](../Page/关系数据库.md "wikilink")。到目前仍在数据库市场上占有主要份额。\[1\]
+RDBMS**，或簡稱**Oracle**。是[甲骨文公司](../Page/甲骨文公司.md "wikilink")的一款[关系数据库](../Page/关系数据库.md "wikilink")管理系统。到目前仍在数据库市场上占有主要份额。\[1\]
 
 [劳伦斯·埃里森和他的朋友](https://zh.wikipedia.org/wiki/劳伦斯·埃里森 "wikilink")，之前的同事和在1977年建立了软件开发实验室咨询公司（SDL，Software
 Development
-Laboratories）。SDL开发了Oracle软件的最初版本。*Oracle*的名称来自于埃里森在[Ampex工作时参加的一个由](../Page/Ampex.md "wikilink")[中央情报局创建的项目的代码名称](https://zh.wikipedia.org/wiki/CIA "wikilink")。\[2\]
+Laboratories）。SDL开发了Oracle软件的最初版本。*Oracle*的名称来自于埃里森在[Ampex](../Page/Ampex.md "wikilink")工作时参加的一个由[中央情报局创建的项目的代码名称](https://zh.wikipedia.org/wiki/CIA "wikilink")。\[2\]
 
 ## 實體和邏輯結構
 
@@ -12,17 +12,17 @@ ID）來做唯一性的區別\[3\]—包含了至少一個應用程式的[實例
 process monitor程序監看器）和SMON（the system monitor系統監看器）。
 
 Oracle資料庫的用户設計到了SGA（System Global
-Area系统全局领域）服务器端内存结构。SGA保存了[缓存信息比如数据缓冲区](../Page/缓存.md "wikilink")，[SQL命令](../Page/SQL.md "wikilink")，和用户信息。在存储之外，数据库由保存了数据变更历史的在线恢复日志。进程可以把在线的恢复日志转换成存档的日志（离线恢复日志），给数据回复和再生提供了基础。
+Area系统全局领域）服务器端内存结构。SGA保存了[缓存](../Page/缓存.md "wikilink")信息比如数据缓冲区，[SQL](../Page/SQL.md "wikilink")命令，和用户信息。在存储之外，数据库由保存了数据变更历史的在线恢复日志。进程可以把在线的恢复日志转换成存档的日志（离线恢复日志），给数据回复和再生提供了基础。
 
 如果Oracle数据库管理员实现了Oracle
 [RAC](https://zh.wikipedia.org/wiki/RAC "wikilink")（Real Application
-Clusters真正应用集群），那么在不同的服务器上的多个实例，隶属于一个中央[磁盘阵列](https://zh.wikipedia.org/wiki/磁盘阵列 "wikilink")。这个方案提供了一些优点，比如更高的效率、扩展性和冗余。然而，这样会导致系统更复杂，因此许多站点并不使用RAC。在10g版本中，[网格计算引进了共享资源](../Page/网格计算.md "wikilink")，这样一个实例可以使用（例如）网格中另一个节点的[CPU资源](https://zh.wikipedia.org/wiki/CPU "wikilink")。
+Clusters真正应用集群），那么在不同的服务器上的多个实例，隶属于一个中央[磁盘阵列](https://zh.wikipedia.org/wiki/磁盘阵列 "wikilink")。这个方案提供了一些优点，比如更高的效率、扩展性和冗余。然而，这样会导致系统更复杂，因此许多站点并不使用RAC。在10g版本中，[网格计算](../Page/网格计算.md "wikilink")引进了共享资源，这样一个实例可以使用（例如）网格中另一个节点的[CPU资源](https://zh.wikipedia.org/wiki/CPU "wikilink")。
 
-Oracle数据库管理系统可以保存并运行自己的[存储程序和函数](../Page/存储程序.md "wikilink")。[PL-SQL](../Page/PL-SQL.md "wikilink")（Oracle公司的专有的SQL扩展语言），或面向对象语言[Java可以调用那些代码对象或者编写这些代码](../Page/Java.md "wikilink")。
+Oracle数据库管理系统可以保存并运行自己的[存储程序](../Page/存储程序.md "wikilink")和函数。[PL-SQL](../Page/PL-SQL.md "wikilink")（Oracle公司的专有的SQL扩展语言），或面向对象语言[Java](../Page/Java.md "wikilink")可以调用那些代码对象或者编写这些代码。
 
 ### 存储
 
-Oracle关系型数据库管理系统从逻辑上把数据保存在[表空间内](../Page/表空间.md "wikilink")，在物理上以数据文件的形式存储。表空间可以包含多种类型的[内存区段](https://zh.wikipedia.org/wiki/内存区段 "wikilink")，例如数据区段（Data
+Oracle关系型数据库管理系统从逻辑上把数据保存在[表空间](../Page/表空间.md "wikilink")内，在物理上以数据文件的形式存储。表空间可以包含多种类型的[内存区段](https://zh.wikipedia.org/wiki/内存区段 "wikilink")，例如数据区段（Data
 Segment）、索引区段（Index
 Segment）等等。区段相应的由一个或多个扩展（extent）组成。扩展由相连的数据区块组成。数据区块是数据存储的基本单元。
 

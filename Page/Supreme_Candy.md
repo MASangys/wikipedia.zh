@@ -1,7 +1,7 @@
 《**Supreme
 Candy**》（，意譯：最高糖果～王道之所以為王道！～）是2008年9月26日由遊戲品牌[枕發售的](../Page/枕_\(遊戲品牌\).md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]
 
-2008年4月21日在枕的官方網站以及[Enterbrain的遊戲雜誌](../Page/Enterbrain.md "wikilink")「[TECH
+2008年4月21日在枕的官方網站以及[Enterbrain](../Page/Enterbrain.md "wikilink")的遊戲雜誌「[TECH
 GIAN](../Page/TECH_GIAN.md "wikilink")」6月號上首次公開情報。為繼《[H2O -FOOTPRINTS IN
 THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》《[√after
 and
@@ -12,7 +12,7 @@ GIAN」「[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")」兩雜�
 
 ## 概要
 
-登場角色中有多位稱得上是[御宅族的人物](../Page/御宅族.md "wikilink")，作中可以見到多處有關[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[藝人的](https://zh.wikipedia.org/wiki/藝人 "wikilink")[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。
+登場角色中有多位稱得上是[御宅族](../Page/御宅族.md "wikilink")的人物，作中可以見到多處有關[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[藝人的](https://zh.wikipedia.org/wiki/藝人 "wikilink")[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。
 
 另外也有《[H2O -FOOTPRINTS IN THE
 SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫相關題材，像是「」（魔法少女音羽）。
@@ -44,7 +44,7 @@ SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫�
     暱稱為雅可（）。本身是有著詛咒鐮刀之名的兵器，由未來派來的暗殺者。因為優喜歡大胸部而開始喝牛乳。
     雖然名字很特別，但依照雅可的說法，這是可能的條件下最棒的名字了。 因為是來自未來的兵器，缺乏一般常識，有時會做出驚人之舉。
     恐怖的鐮刀搭配魔法使一般的服裝，外表乍看下會令人聯想到萬聖節，不過沒有魔力的存在無法看到她所以並沒有影響。因為隨身帶著鐮刀移動，經常感到肩膀酸疼。和鐮刀的感觸相連結，如果有人碰觸會有感覺。不需要食物也能生存，但卻有愛吃與倔強的一面。偶爾會奇妙地將話反過來講（像是「」變成「」）。
-    原本是名為的女神（[摩伊赖之一](../Page/摩伊赖.md "wikilink")）。
+    原本是名為的女神（[摩伊赖](../Page/摩伊赖.md "wikilink")之一）。
   -
     優潛入女子學校時一見鍾情的少女。也是優年幼時所認識的魔法使少女。
     童年時期坐著吸塵器飛上天空（魔法世界一般似乎都坐吸塵器），飛得不穩定飄搖的時候遇到了優，優建議出能夠安定搭坐的位置，從此兩人變得親睦。羽依以為優是「魔法使的前輩」而不斷提問，而優只能含糊帶過。但是因為某件事情，優並非魔法使的事情被識破，優就不再出現在羽依面前。羽依追著銷聲匿跡的優，以「調査人類世界」的名義從魔法世界來找尋。但因為優吃了糖果變身，一開始並沒有察覺。在和優初次相遇的回憶場所——「河邊」，期盼再次見面而住在橋下。

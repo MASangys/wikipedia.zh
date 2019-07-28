@@ -1,5 +1,5 @@
 **BMD-4伞兵战车** (俄语：Боевая Машина Десантная－4
-简称БМД—4）是前[苏联解体前研发](../Page/苏联.md "wikilink")，1990年代初正式装备俄罗斯[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第四款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-3完全相同，而采用了BMP-3步兵战车的炮塔。（类似的例子有BMD-1和BMD-2）。
+简称БМД—4）是前[苏联](../Page/苏联.md "wikilink")解体前研发，1990年代初正式装备俄罗斯[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第四款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-3完全相同，而采用了BMP-3步兵战车的炮塔。（类似的例子有BMD-1和BMD-2）。
 
 ## 研发和装备背景
 
@@ -31,7 +31,7 @@ Serdyukov中將表示，俄國空降旅在2020年時將會接收超過300輛BMD-
 
 ## 空投技术
 
-和BMD-3相同，[伊尔-76可运](../Page/伊尔-76.md "wikilink")3辆。可所有成员于车内共同空投，而BMD-1/2僅能讓驾驶员和车长在車內一同空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。
+和BMD-3相同，[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆。可所有成员于车内共同空投，而BMD-1/2僅能讓驾驶员和车长在車內一同空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。
 空降技术和过程不详。
 
 ## 成员/载员
@@ -45,7 +45,7 @@ Serdyukov中將表示，俄國空降旅在2020年時將會接收超過300輛BMD-
 
 ## 装甲/防御
 
-为钢装甲全[焊接结构](../Page/焊接.md "wikilink")，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。有三防装置，并且安装了车内自动灭火装置。
+为钢装甲全[焊接](../Page/焊接.md "wikilink")结构，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。有三防装置，并且安装了车内自动灭火装置。
 
 ## 观瞄设备
 

@@ -1,4 +1,4 @@
-，是以2004年在[日本全國](../Page/日本.md "wikilink")8城市公演的[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")「**MIDSUMMER
+，是以2004年在[日本](../Page/日本.md "wikilink")全國8城市公演的[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")「**MIDSUMMER
 CAROL
 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
@@ -62,7 +62,7 @@ CAROL
 <!-- end list -->
 
   -
-    入院患者。喜歡[翁倩玉的異性裝飾嗜好者](../Page/翁倩玉.md "wikilink")。已經痊愈，為了釣賠賞金而延長住院。
+    入院患者。喜歡[翁倩玉](../Page/翁倩玉.md "wikilink")的異性裝飾嗜好者。已經痊愈，為了釣賠賞金而延長住院。
 
 <!-- end list -->
 

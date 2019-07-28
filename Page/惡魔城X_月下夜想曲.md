@@ -1,6 +1,6 @@
-是由[科樂美开发的](../Page/科樂美.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation平台发售](../Page/PlayStation.md "wikilink")，后又推出了[Sega
+是由[科樂美](../Page/科樂美.md "wikilink")开发的[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation](../Page/PlayStation.md "wikilink")平台发售，后又推出了[Sega
 Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为《[惡魔城X
-血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏的基本风格](../Page/类银河战士恶魔城游戏.md "wikilink")。作品一改以往风格，大量增加養成與隱藏要素，為當時[橫向捲軸遊戲之創舉](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
+血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏](../Page/类银河战士恶魔城游戏.md "wikilink")的基本风格。作品一改以往风格，大量增加養成與隱藏要素，為當時[橫向捲軸遊戲之創舉](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
 
 ## 角色介绍
 

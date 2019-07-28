@@ -23,7 +23,7 @@ project。2008年终于回到了sourceforge.net。
 *Egoboo*有4人"开发团队"，但是还有很多其他人自行开发新[模块](https://zh.wikipedia.org/wiki/模块 "wikilink")，如物品，怪物，角色（职业）。
 
 *Egoboo*修改异常简便，所以新武器，怪物之类的不用修改下层源代码就可添加。*Egoboo*
-使用自己的[脚本语言改动所有](../Page/脚本语言.md "wikilink")[对象](https://zh.wikipedia.org/wiki/对象 "wikilink")（包括角色，物品，
+使用自己的[脚本语言](../Page/脚本语言.md "wikilink")改动所有[对象](https://zh.wikipedia.org/wiki/对象 "wikilink")（包括角色，物品，
 怪兽，家具之类）控件的[3D建模使用](https://zh.wikipedia.org/wiki/3D模型 "wikilink") .md2
 格式，[纹理映射则是](https://zh.wikipedia.org/wiki/纹理映射 "wikilink") .bmp 格式
 

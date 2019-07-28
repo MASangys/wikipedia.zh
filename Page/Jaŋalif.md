@@ -1,12 +1,12 @@
 或 （[塔塔尔语](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")：
-\[\]；[西里尔字母](../Page/西里尔字母.md "wikilink")：Я；“新字母”）曾是[苏联](../Page/苏联.md "wikilink")1930年代用於[塔塔尔语的拉丁字母](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")。它取代了1928年基于[阿拉伯字母的](../Page/阿拉伯字母.md "wikilink")
+\[\]；[西里尔字母](../Page/西里尔字母.md "wikilink")：Я；“新字母”）曾是[苏联](../Page/苏联.md "wikilink")1930年代用於[塔塔尔语的拉丁字母](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")。它取代了1928年基于[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")的
 [Yaña imlâ](https://zh.wikipedia.org/wiki/Yaña_imlâ "wikilink") (Яңа
 имля)。而  在1939年被西里尔字母取代了。
 
 共有33个字母，其中9个属于[元音](../Page/元音.md "wikilink")。[引号用来作为](https://zh.wikipedia.org/wiki/引号 "wikilink")[喉塞音](https://zh.wikipedia.org/wiki/喉塞音 "wikilink")
 () ，有时按照普通字母来排序。其他字母也会用作书写外语词。小写字母 B 写成类似 （以避免与  混）、大写字母  写成类似
 [У](../Page/У.md "wikilink")。字母  有一个下缘钩（descender），就像西里尔字母中的
-[Щ](../Page/Щ.md "wikilink")、[Җ和](https://zh.wikipedia.org/wiki/Җ "wikilink")[Ң](../Page/Ң.md "wikilink")。第33个字母（与[壮语的](../Page/壮语.md "wikilink")
+[Щ](../Page/Щ.md "wikilink")、[Җ和](https://zh.wikipedia.org/wiki/Җ "wikilink")[Ң](../Page/Ң.md "wikilink")。第33个字母（与[壮语](../Page/壮语.md "wikilink")的
  类似）就像西里尔的软音符号 [Ь](../Page/Ь.md "wikilink")，但未收进 Unicode。大写  在一些字体则很像俄语的
 [Э](../Page/Э.md "wikilink")。
 
@@ -54,7 +54,7 @@ Jaŋalif (1928–1940)
 
 ### 在  报章所用的  字母
 
-| 排序 | 字母                                                   | 修订版   | 现代[鞑靼语拉丁字母和巴什基尔语](../Page/鞑靼语.md "wikilink")[拉丁化](https://zh.wikipedia.org/wiki/拉丁化 "wikilink") | 现代鞑靼语西里尔字母+巴什基尔语西里尔字母 | 注释                    |
+| 排序 | 字母                                                   | 修订版   | 现代[鞑靼语](../Page/鞑靼语.md "wikilink")拉丁字母和巴什基尔语[拉丁化](https://zh.wikipedia.org/wiki/拉丁化 "wikilink") | 现代鞑靼语西里尔字母+巴什基尔语西里尔字母 | 注释                    |
 | -- | ---------------------------------------------------- | ----- | ----------------------------------------------------------------------------------------------- | --------------------- | --------------------- |
 | 1  | [A a](../Page/A.md "wikilink")                       | A a   | A a                                                                                             | А а                   |                       |
 | 2  | [B b](../Page/B.md "wikilink")                       | B ʙ   | B b                                                                                             | Б б                   | 如同现代字母                |
@@ -95,7 +95,7 @@ Jaŋalif (1928–1940)
 
 ### 本来使用锐音号的 Jaŋalif 字母
 
-| 排序 | 字母                                                               | Jaŋalif 字母 | 对应阿拉伯字母 | 现代[鞑靼语拉丁字母和巴什基尔语](../Page/鞑靼语.md "wikilink")[拉丁化](https://zh.wikipedia.org/wiki/拉丁化 "wikilink") | 现代鞑靼语西里尔字母+巴什基尔语西里尔字母 | 注释                                            |
+| 排序 | 字母                                                               | Jaŋalif 字母 | 对应阿拉伯字母 | 现代[鞑靼语](../Page/鞑靼语.md "wikilink")拉丁字母和巴什基尔语[拉丁化](https://zh.wikipedia.org/wiki/拉丁化 "wikilink") | 现代鞑靼语西里尔字母+巴什基尔语西里尔字母 | 注释                                            |
 | -- | ---------------------------------------------------------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------- |
 | 1  | [A a](../Page/A.md "wikilink")                                   | A a        | ﯪ       | A a                                                                                             | А а                   |                                               |
 | 2  | [B b](../Page/B.md "wikilink")                                   | B ʙ        | ﺏ       | B b                                                                                             | Б б                   | 如同现代字母                                        |
@@ -132,7 +132,7 @@ Jaŋalif (1928–1940)
 
 ## 衰落
 
-在1939年，[斯大林主义政府禁止了](../Page/斯大林主义.md "wikilink") Jaŋalif，然而 Jaŋalif
+在1939年，[斯大林主义](../Page/斯大林主义.md "wikilink")政府禁止了 Jaŋalif，然而 Jaŋalif
 用至1940年1月。Jaŋalif
 还用在[纳粹对战俘的公报](../Page/纳粹主义.md "wikilink")，直至二次大战结束。但由于课本是战前印刷的关系，这些字母实际用至1950年代。一些塔塔尔后裔在苏联以外也使用
 Jaŋalif ，例如 Radio Free Europe 的塔塔尔当局。
@@ -547,7 +547,7 @@ alphabet</p></th>
 </div>
 
 在1955年、58年、59年和1989年，有些人尝试开展西里尔字母改革，例如加入字母
-[Қ](https://zh.wikipedia.org/wiki/Қ "wikilink")、[Ғ和](../Page/Ғ.md "wikilink")[Ў](../Page/Ў.md "wikilink")，去作为发音
+[Қ](https://zh.wikipedia.org/wiki/Қ "wikilink")、[Ғ](../Page/Ғ.md "wikilink")和[Ў](../Page/Ў.md "wikilink")，去作为发音
 \[q\]，\[\] (ğ) 和 \[w\] ，以使塔塔尔语拼写法与读音一致。有些人提出以 V 代替
 Ў。在1990年代，这些尝试都告失败，因为那时很多[塔塔尔斯坦政治家都想重新引入](../Page/鞑靼斯坦共和国.md "wikilink")
 Jaŋalif。

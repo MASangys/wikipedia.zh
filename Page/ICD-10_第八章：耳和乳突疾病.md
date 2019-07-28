@@ -1,5 +1,5 @@
 **ICD-10
-第八章：耳和乳突疾病**，为[世界卫生组织创建的](../Page/世界卫生组织.md "wikilink")[ICD-10中涉及](../Page/ICD-10.md "wikilink")[耳与](../Page/耳.md "wikilink")[乳突的疾病分类](https://zh.wikipedia.org/wiki/乳突 "wikilink")。
+第八章：耳和乳突疾病**，为[世界卫生组织](../Page/世界卫生组织.md "wikilink")创建的[ICD-10](../Page/ICD-10.md "wikilink")中涉及[耳](../Page/耳.md "wikilink")与[乳突的疾病分类](https://zh.wikipedia.org/wiki/乳突 "wikilink")。
 
 ## 受控词表
 
@@ -24,7 +24,7 @@
   - () [乳突炎和有关情况](https://zh.wikipedia.org/wiki/乳突炎 "wikilink")
   - () [中耳胆脂瘤](https://zh.wikipedia.org/wiki/中耳胆脂瘤 "wikilink")
   - () [鼓膜穿孔](https://zh.wikipedia.org/wiki/鼓膜穿孔 "wikilink")
-  - () [鼓膜的其他疾患](../Page/鼓膜.md "wikilink")
+  - () [鼓膜](../Page/鼓膜.md "wikilink")的其他疾患
   - ()
     [中耳和](https://zh.wikipedia.org/wiki/中耳 "wikilink")[乳突的其他疾患](https://zh.wikipedia.org/wiki/乳突 "wikilink")
   - () 分类于他处的疾病引起的中耳和乳突的其他疾患

@@ -1,8 +1,8 @@
-**九龍巴士HK3線**是[香港的一條巴士路線](../Page/香港.md "wikilink")，由粉嶺鐵路站（粉嶺車站路）往來[粉嶺奧運馬術比賽場地（雙魚河）](https://zh.wikipedia.org/wiki/香港奧運馬術場 "wikilink")。
+**九龍巴士HK3線**是[香港](../Page/香港.md "wikilink")的一條巴士路線，由粉嶺鐵路站（粉嶺車站路）往來[粉嶺奧運馬術比賽場地（雙魚河）](https://zh.wikipedia.org/wiki/香港奧運馬術場 "wikilink")。
 
 ## 歷史及簡介
 
-為方便市民及遊客到[香港觀賞](../Page/香港.md "wikilink")[2008年夏季奧林匹克運動會馬術比賽](https://zh.wikipedia.org/wiki/2008年夏季奧林匹克運動會馬術比賽 "wikilink")，以及方便市民到達[粉嶺奧運馬術比賽場地（雙魚河）參與有關團體之活動](https://zh.wikipedia.org/wiki/香港奧運馬術場 "wikilink")，[九龍巴士特此開辦](../Page/九龍巴士.md "wikilink")**HK3線**。本線首班車於2008年8月8日13:45於粉嶺鐵路站（粉嶺車站路）及14:05於粉嶺奧運馬術比賽場地（雙魚河）開出。
+為方便市民及遊客到[香港](../Page/香港.md "wikilink")觀賞[2008年夏季奧林匹克運動會馬術比賽](https://zh.wikipedia.org/wiki/2008年夏季奧林匹克運動會馬術比賽 "wikilink")，以及方便市民到達[粉嶺奧運馬術比賽場地（雙魚河）參與有關團體之活動](https://zh.wikipedia.org/wiki/香港奧運馬術場 "wikilink")，[九龍巴士](../Page/九龍巴士.md "wikilink")特此開辦**HK3線**。本線首班車於2008年8月8日13:45於粉嶺鐵路站（粉嶺車站路）及14:05於粉嶺奧運馬術比賽場地（雙魚河）開出。
 
 ## 服務時間
 

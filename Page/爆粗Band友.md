@@ -1,8 +1,8 @@
-《**重金搖滾雙面人**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[若杉公德所繪的](https://zh.wikipedia.org/wiki/若杉公德 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，以[死亡金屬音樂為主題](../Page/死亡金屬音樂.md "wikilink")，標題源自於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")[KISS的名曲](../Page/Kiss合唱團.md "wikilink")《Detroit
-Rock City》。於[白泉社所發行的漫畫雜誌](../Page/白泉社.md "wikilink")《[Young
+《**重金搖滾雙面人**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[若杉公德所繪的](https://zh.wikipedia.org/wiki/若杉公德 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，以[死亡金屬音樂](../Page/死亡金屬音樂.md "wikilink")為主題，標題源自於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")[KISS的名曲](../Page/Kiss合唱團.md "wikilink")《Detroit
+Rock City》。於[白泉社](../Page/白泉社.md "wikilink")所發行的漫畫雜誌《[Young
 Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連載連載。
 
-改編真人[電影於](https://zh.wikipedia.org/wiki/電影 "wikilink")2008年8月23日在[日本上映](../Page/日本.md "wikilink")。2009年由[STUDIO
+改編真人[電影於](https://zh.wikipedia.org/wiki/電影 "wikilink")2008年8月23日在[日本](../Page/日本.md "wikilink")上映。2009年由[STUDIO
 4℃改編成](../Page/STUDIO_4℃.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全12話。
 
 ## 劇情簡介
@@ -18,7 +18,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
     Pop，打算成為Kahimi Karie風格的歌手，但畢業後卻簽約Death
     Records，成為最受歡迎的[死亡金屬樂隊](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")（Detroit
     Metal
-    City，DMC）的主唱。往往在誤會下被DMC的歌迷締造了很多傳說，如小時候把父母先殺後姦，殺條子四十八招等，在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中演唱「fuckingham宮殿」並與傑克在曲中比賽一口氣連唱「Fuck」，最後以2個字母之差打敗了JACK，演唱會後JACK將傳說吉他贈與根岸，成為傳說吉他的第三代主人雖然根岸在[死亡金屬音樂方面有出色表現](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")，但根岸仍討厭這種音樂，更為DMC的形象感到羞恥，因此一直在親友及夢中情人面前隱瞞身份。在看到夢中情人相川和別的男性較為親密或接觸金屬音樂和被取笑時就會把克勞薩二世的嫉妒性格顯露出來，繼而做出失控的事。特技是用牙齒彈吉他和能在一秒間唱10次「rape」，後來在第18回「PROMISE」中成功做出一秒間唱11次「rape」(在動畫中雖然成功在一秒間唱11次「rape」不過卻因此咬到舌頭)，在第68回「LOSER」中以傳說結他保管人的身份和北原元氣對決時顯露了一直封了的絕技「八弦吉他」（用截斷的筷子用鼻孔和下唇撐著做多兩條弦），可惜不敵對方的「十三弦吉他」（以7條鼻毛做多7條弦），被奪走傳說吉他，第一次嘗到落敗的滋味。後來他再與元氣決戰，結果於1秒內唱出12.5個「強暴」（最後一個以[指交形式唱出](../Page/指交.md "wikilink")），打敗元氣的12個強暴。事後元氣被揭發他於口中放置彈簧。
+    City，DMC）的主唱。往往在誤會下被DMC的歌迷締造了很多傳說，如小時候把父母先殺後姦，殺條子四十八招等，在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中演唱「fuckingham宮殿」並與傑克在曲中比賽一口氣連唱「Fuck」，最後以2個字母之差打敗了JACK，演唱會後JACK將傳說吉他贈與根岸，成為傳說吉他的第三代主人雖然根岸在[死亡金屬音樂方面有出色表現](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")，但根岸仍討厭這種音樂，更為DMC的形象感到羞恥，因此一直在親友及夢中情人面前隱瞞身份。在看到夢中情人相川和別的男性較為親密或接觸金屬音樂和被取笑時就會把克勞薩二世的嫉妒性格顯露出來，繼而做出失控的事。特技是用牙齒彈吉他和能在一秒間唱10次「rape」，後來在第18回「PROMISE」中成功做出一秒間唱11次「rape」(在動畫中雖然成功在一秒間唱11次「rape」不過卻因此咬到舌頭)，在第68回「LOSER」中以傳說結他保管人的身份和北原元氣對決時顯露了一直封了的絕技「八弦吉他」（用截斷的筷子用鼻孔和下唇撐著做多兩條弦），可惜不敵對方的「十三弦吉他」（以7條鼻毛做多7條弦），被奪走傳說吉他，第一次嘗到落敗的滋味。後來他再與元氣決戰，結果於1秒內唱出12.5個「強暴」（最後一個以[指交](../Page/指交.md "wikilink")形式唱出），打敗元氣的12個強暴。事後元氣被揭發他於口中放置彈簧。
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    DMC的鼓手，平常沉默寡言，一旦說話無一不及色情及淫穢字眼，平常的打扮是十足的[御宅族形象](../Page/御宅族.md "wikilink")。喜愛「陷進去戰隊小運動褲」，常常以色情字句對女生們說話，被[秋葉原的其中一間常到的遊戲機中心列為黑名單](../Page/秋葉原.md "wikilink")，打起鼓來非常凶狠，打鼓時亦是滿腦子色情字眼。在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中拿了JACK的重金屬眼鏡蛇當作鼓棍用，Track
+    DMC的鼓手，平常沉默寡言，一旦說話無一不及色情及淫穢字眼，平常的打扮是十足的[御宅族](../Page/御宅族.md "wikilink")形象。喜愛「陷進去戰隊小運動褲」，常常以色情字句對女生們說話，被[秋葉原](../Page/秋葉原.md "wikilink")的其中一間常到的遊戲機中心列為黑名單，打起鼓來非常凶狠，打鼓時亦是滿腦子色情字眼。在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中拿了JACK的重金屬眼鏡蛇當作鼓棍用，Track
     15（第15回）「PUNK
     2」中，在被意外引起大火的舞台上，不管火勢，繼續打鼓。當消防隊員滅火以後，發現其還在繼續打鼓，這一行為造就DMC另一個傳奇。
 
@@ -56,7 +56,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    DMC所屬事務所的女社長。本名不詳。身長165cm。金髮，生性冷血兇殘，經常針對根岸，[情緒商數極低](../Page/情緒商數.md "wikilink")，凡事以武力解決。穿著超短皮裙，煙不離手，說話方式奇怪，不時混雜粗話，日語及英語。對重金屬樂非常著迷，是整個樂隊的幕後製作人，連克勞薩二世也不放在眼裡。曾經到根岸的公寓住所進行私生活改造，就連根岸的房東也因此成了DMC歌迷。非常了解根岸的內心與才華，所以知道根岸遲早會稱霸重金屬界。
+    DMC所屬事務所的女社長。本名不詳。身長165cm。金髮，生性冷血兇殘，經常針對根岸，[情緒商數](../Page/情緒商數.md "wikilink")極低，凡事以武力解決。穿著超短皮裙，煙不離手，說話方式奇怪，不時混雜粗話，日語及英語。對重金屬樂非常著迷，是整個樂隊的幕後製作人，連克勞薩二世也不放在眼裡。曾經到根岸的公寓住所進行私生活改造，就連根岸的房東也因此成了DMC歌迷。非常了解根岸的內心與才華，所以知道根岸遲早會稱霸重金屬界。
 
 <!-- end list -->
 
@@ -337,7 +337,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 由[STUDIO
 4℃所製作的](../Page/STUDIO_4℃.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。2008年8月8日正式發售DVD。全12話、24集構成。PG-12指定。
 
-隔年2009年2月6日到3月14日於[WOWOW上每週](../Page/WOWOW.md "wikilink")2本進行放送。2010年由[関西電視台從](https://zh.wikipedia.org/wiki/関西電視台 "wikilink")1月12日開始到同年2月2日於「笑撃エピソード集」節目上播放8話傑作選、[ANIMAX](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")（CS放送）從2月9日起全12話進行放送。
+隔年2009年2月6日到3月14日於[WOWOW](../Page/WOWOW.md "wikilink")上每週2本進行放送。2010年由[関西電視台從](https://zh.wikipedia.org/wiki/関西電視台 "wikilink")1月12日開始到同年2月2日於「笑撃エピソード集」節目上播放8話傑作選、[ANIMAX](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")（CS放送）從2月9日起全12話進行放送。
 
 ### 製作團隊
 
@@ -394,7 +394,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
   - 佐治秀紀：[高橋一生](../Page/高橋一生.md "wikilink")
   - DMC樂迷：、[岡田義徳](https://zh.wikipedia.org/wiki/岡田義徳 "wikilink")
   - Jack ill
-    Dark：[吉恩·西蒙斯](../Page/吉恩·西蒙斯.md "wikilink")（[Kiss合唱團貝斯手](../Page/Kiss合唱團.md "wikilink")）
+    Dark：[吉恩·西蒙斯](../Page/吉恩·西蒙斯.md "wikilink")（[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")貝斯手）
   - Death Records社長：[松雪泰子](../Page/松雪泰子.md "wikilink")
 
 ### 工作人員

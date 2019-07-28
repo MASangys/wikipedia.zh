@@ -1,6 +1,6 @@
 **CIS 40 GL**（現稱：**STK 40
-GL**）是一具由[新加坡國防企業新加坡特許工業公司](../Page/新加坡.md "wikilink")（，簡稱：CIS）{{\#tag:ref|現已改稱為（，簡稱：ST
-Kinetics）}}在1980年代後期自主研製和生產的中折單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加[槍托配件改裝成一個獨立的](../Page/槍托.md "wikilink")[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
+GL**）是一具由[新加坡](../Page/新加坡.md "wikilink")國防企業新加坡特許工業公司（，簡稱：CIS）{{\#tag:ref|現已改稱為（，簡稱：ST
+Kinetics）}}在1980年代後期自主研製和生產的中折單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 歷史
 
@@ -10,10 +10,10 @@ GL主要是受到[新加坡共和国武装部队和其他幾個國家的警察�
 ## 概述
 
 CIS 40
-GL是一具多用途的單發式榴彈發射器，既可以單獨使用，也可以通過轉接零件以下掛於大多數的突擊步槍。它採用模塊化結構設計，主要由[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[槍管](../Page/槍管.md "wikilink")、[機械瞄具](../Page/機械瞄具.md "wikilink")（瞄準用的立式[標尺](https://zh.wikipedia.org/wiki/標尺 "wikilink")）和[槍托](../Page/槍托.md "wikilink")，共四個部份所組成。槍托在榴彈發射器單獨使用時才會裝上。作為槍掛榴彈發射器的時候則無需安裝槍托，而是安裝步槍轉接零件。[槍管為](../Page/槍管.md "wikilink")[钢所製成](../Page/钢.md "wikilink")，而機匣及槍托均為減少重量而[鋁合金製成](../Page/鋁合金.md "wikilink")。槍管壽命為1,000發，壽終後可以更新。\[2\]
+GL是一具多用途的單發式榴彈發射器，既可以單獨使用，也可以通過轉接零件以下掛於大多數的突擊步槍。它採用模塊化結構設計，主要由[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[槍管](../Page/槍管.md "wikilink")、[機械瞄具](../Page/機械瞄具.md "wikilink")（瞄準用的立式[標尺](https://zh.wikipedia.org/wiki/標尺 "wikilink")）和[槍托](../Page/槍托.md "wikilink")，共四個部份所組成。槍托在榴彈發射器單獨使用時才會裝上。作為槍掛榴彈發射器的時候則無需安裝槍托，而是安裝步槍轉接零件。[槍管](../Page/槍管.md "wikilink")為[钢](../Page/钢.md "wikilink")所製成，而機匣及槍托均為減少重量而[鋁合金](../Page/鋁合金.md "wikilink")製成。槍管壽命為1,000發，壽終後可以更新。\[2\]
 
 CIS 40
-GL設計上是武器，操作簡便，先壓下槍機容納處左側的一個兼作槍管閉合器的擊發桿，然後以[鉸鍵為基點](https://zh.wikipedia.org/wiki/鉸鍵 "wikilink")，把[槍管向左面拉開](../Page/槍管.md "wikilink")，即可進行裝彈。之後讓槍管與槍機容納部互相閉合，接著只要將保險設定設在F（射擊模式），瞄準並扣下板機，即完成一次的射擊。
+GL設計上是武器，操作簡便，先壓下槍機容納處左側的一個兼作槍管閉合器的擊發桿，然後以[鉸鍵為基點](https://zh.wikipedia.org/wiki/鉸鍵 "wikilink")，把[槍管](../Page/槍管.md "wikilink")向左面拉開，即可進行裝彈。之後讓槍管與槍機容納部互相閉合，接著只要將保險設定設在F（射擊模式），瞄準並扣下板機，即完成一次的射擊。
 
 CIS 40 GL也有一種槍管較短的衍生型，可以裝在[SAR
 21突擊步槍的](../Page/SAR_21突擊步槍.md "wikilink")[護木以下](https://zh.wikipedia.org/wiki/護木 "wikilink")。
@@ -28,7 +28,7 @@ CIS 40 GL也有一種槍管較短的衍生型，可以裝在[SAR
 
   - ：[路易吉·弗蘭基取得其特許生產的授權亦命名為](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")**[弗蘭基GLF-40](https://zh.wikipedia.org/wiki/弗蘭基GLF-40榴彈發射器 "wikilink")**\[3\]。
 
-  - ：被[新加坡武裝部隊所採用](../Page/新加坡武裝部隊.md "wikilink")。
+  - ：被[新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")所採用。
 
   -
   -

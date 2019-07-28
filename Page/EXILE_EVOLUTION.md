@@ -7,10 +7,10 @@ EVOLUTION**』（官方中譯：放浪進化論）是[EXILE第](https://zh.wikip
     only」等共計3種型態發售。
   - 封面各有不同，完全初回限定盤為「炎」、「CD+DVD」為「雷」、「CD only」為「雨」。
   - EXILE第二章的第一章專輯。2006年12月第二章正式開始活動後僅3個月就發行了專輯。
-  - CD收錄了3個月連續發售的3張單曲內的曲目。另外包含與[倖田來未合作而成為話題的](../Page/倖田來未.md "wikilink")「[WON'T
+  - CD收錄了3個月連續發售的3張單曲內的曲目。另外包含與[倖田來未](../Page/倖田來未.md "wikilink")合作而成為話題的「[WON'T
     BE
     LONG](https://zh.wikipedia.org/wiki/WON'T_BE_LONG#EXILE&倖田來未 "wikilink")」的新版本共15首（初回盤追加了附加曲，共16首）。
-  - DVD為[音樂錄影帶集](../Page/音樂錄影帶.md "wikilink")，初回盤則追加收錄了後製影片。
+  - DVD為[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")集，初回盤則追加收錄了後製影片。
   - 「CD+2DVD」的完全初回限定盤附贈「EXILE Vocal Battle Audition 2006 ～ASIAN
     DREAM～」的現場影像及記錄影片的2張DVD。
   - 10月因「OKAXILE」播出而使得Oricon排行爆增。
@@ -48,7 +48,7 @@ EVOLUTION**』（官方中譯：放浪進化論）是[EXILE第](https://zh.wikip
     LAND](https://zh.wikipedia.org/wiki/NEVER_LAND_\(HIPHOP\) "wikilink")**(5:31)
       -
         （作詞・作曲：Bro.KORN）
-        [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")&[倖田來未名義發行的](../Page/倖田來未.md "wikilink")『[WON'T
+        [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")&[倖田來未](../Page/倖田來未.md "wikilink")名義發行的『[WON'T
         BE LONG](../Page/WON'T_BE_LONG.md "wikilink")』專輯版。翻唱自Bubble
         gum・Brothers的歌曲。編曲沒有太大的變更，由TAKAHIRO與ATSUSHI合唱。另外歌曲的多處加上 [NEVER
         LAND成員唱的](https://zh.wikipedia.org/wiki/NEVER_LAND_\(HIPHOP\) "wikilink")[RAP](../Page/饒舌.md "wikilink")。因此間奏較[單曲版長](https://zh.wikipedia.org/wiki/單曲 "wikilink")。

@@ -1,14 +1,14 @@
-**1seg**（）是在[日本主要以](../Page/日本.md "wikilink")[行動電話等](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[移動電子產品為接收對象的](https://zh.wikipedia.org/wiki/移動電子產品 "wikilink")[數位電視服務](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。正式名稱是**面向手机及各种移动终端的服务**\[1\]（）。1seg的名字由来是它使用的频片（segment）数量：数字电视的每个频道里有13个频片，而该服务只使用其中的1个。其余12个提供给高清节目，也相对地称为12seg或full-seg。
+**1seg**（）是在[日本](../Page/日本.md "wikilink")主要以[行動電話等](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[移動電子產品為接收對象的](https://zh.wikipedia.org/wiki/移動電子產品 "wikilink")[數位電視服務](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。正式名稱是**面向手机及各种移动终端的服务**\[1\]（）。1seg的名字由来是它使用的频片（segment）数量：数字电视的每个频道里有13个频片，而该服务只使用其中的1个。其余12个提供给高清节目，也相对地称为12seg或full-seg。
 
-2006年4月1日11時（[日本標準時間](../Page/日本標準時間.md "wikilink")）開始於[東京都](../Page/東京都.md "wikilink")、[名古屋市](../Page/名古屋市.md "wikilink")、[大阪市等大都市在內的](../Page/大阪市.md "wikilink")29都府縣放送，同年12月1日提供高畫質節目的同時也將服務範圍推展到43個縣的中心區域，而今2007年幾乎所有的放送局都有提供此服務。
+2006年4月1日11時（[日本標準時間](../Page/日本標準時間.md "wikilink")）開始於[東京都](../Page/東京都.md "wikilink")、[名古屋市](../Page/名古屋市.md "wikilink")、[大阪市](../Page/大阪市.md "wikilink")等大都市在內的29都府縣放送，同年12月1日提供高畫質節目的同時也將服務範圍推展到43個縣的中心區域，而今2007年幾乎所有的放送局都有提供此服務。
 
-到2008年3月底由於有同步播放的規定，規定放送局必須播放與[地面電視相同的頻道](../Page/地面電視.md "wikilink")，所以1seg上看播放節目與12频片（Segment）即高清地面数字电视節目相同。但2008年4月1日《放送法》修正施行後解除了同步播放的規定、所以有些放送局会在特定时间在1seg安排不同節目。\[2\]\[3\]
+到2008年3月底由於有同步播放的規定，規定放送局必須播放與[地面電視](../Page/地面電視.md "wikilink")相同的頻道，所以1seg上看播放節目與12频片（Segment）即高清地面数字电视節目相同。但2008年4月1日《放送法》修正施行後解除了同步播放的規定、所以有些放送局会在特定时间在1seg安排不同節目。\[2\]\[3\]
 
 ## 概要
 
 [PSP_Japan_1SEG.JPG](https://zh.wikipedia.org/wiki/File:PSP_Japan_1SEG.JPG "fig:PSP_Japan_1SEG.JPG")（附加外接设备）播放的1Seg电视内容\]\]
-日本的地上數位電視放送[ISDB-T将](../Page/ISDB.md "wikilink")470[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")-710MHz間的[UHF频段划分为](https://zh.wikipedia.org/wiki/UHF "wikilink")13-52频道，共40個頻道。1个频道又[频分為](https://zh.wikipedia.org/wiki/频分多址 "wikilink")13個频片（segment），12个频片用于播放[高清節目](../Page/高清电视.md "wikilink")，余下1个频片用于播放面向移动终端（例如手提电话）的低[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")（[QVGA](https://zh.wikipedia.org/wiki/QVGA "wikilink")
-320×240/320×180）节目。此高清节目也简称12seg或full-seg，移动终端用的低清晰度节目也叫做1seg。移動終端使用低解析度节目，是因为移动设备的画面小、处理能力弱，而且便携设备本身的移动会导致无线电信号质量较差，需要使用较抗干扰的低带宽调制方式。\[4\]1seg的聲音部分仅支援[立體聲雙聲道](../Page/立體聲.md "wikilink")，不支援[5.1聲道環繞音效](../Page/5.1聲道.md "wikilink")。
+日本的地上數位電視放送[ISDB](../Page/ISDB.md "wikilink")-T将470[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")-710MHz間的[UHF频段划分为](https://zh.wikipedia.org/wiki/UHF "wikilink")13-52频道，共40個頻道。1个频道又[频分為](https://zh.wikipedia.org/wiki/频分多址 "wikilink")13個频片（segment），12个频片用于播放[高清節目](../Page/高清电视.md "wikilink")，余下1个频片用于播放面向移动终端（例如手提电话）的低[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")（[QVGA](https://zh.wikipedia.org/wiki/QVGA "wikilink")
+320×240/320×180）节目。此高清节目也简称12seg或full-seg，移动终端用的低清晰度节目也叫做1seg。移動終端使用低解析度节目，是因为移动设备的画面小、处理能力弱，而且便携设备本身的移动会导致无线电信号质量较差，需要使用较抗干扰的低带宽调制方式。\[4\]1seg的聲音部分仅支援[立體聲](../Page/立體聲.md "wikilink")雙聲道，不支援[5.1聲道](../Page/5.1聲道.md "wikilink")環繞音效。
 
 使用[手提電話進行收視時](https://zh.wikipedia.org/wiki/手提電話 "wikilink")，也必須遵守。但由于手提电话是通信设备而非播放设备，故而不必支付收视费用。播放时可能需要通过互联网下载电视节目详细信息，此时可能会消耗手机的数据流量，所以携带电话会提示用户是否进行播放（默认设置，可变更）。
 
@@ -20,9 +20,9 @@
 
 ### 獨立节目编组
 
-在早期，限于法律的规定，1seg不能独立于高清节目（12seg）做节目编组，必须播放相同内容。不过，作为实验也有播放不同节目的事例，这种情况下，收视者无法同时收看1seg节目和普通节目（模拟电视、数字电视的节目）。例如[日本電視台在關東區於晚上](../Page/日本電視台.md "wikilink")9點開始以特別節目進行放送的夜間職業野球转播。
+在早期，限于法律的规定，1seg不能独立于高清节目（12seg）做节目编组，必须播放相同内容。不过，作为实验也有播放不同节目的事例，这种情况下，收视者无法同时收看1seg节目和普通节目（模拟电视、数字电视的节目）。例如[日本電視台](../Page/日本電視台.md "wikilink")在關東區於晚上9點開始以特別節目進行放送的夜間職業野球转播。
 
-最早的大规模的独立节目编组是2008年12月21日[M-1大賽的敗部復活戰](../Page/M-1大賽.md "wikilink")。[朝日電視台](../Page/朝日電視台.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[北海道電視台](../Page/北海道電視台.md "wikilink")、[名古屋電視台與](../Page/名古屋電視台.md "wikilink")[九州朝日放送等](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")5家放送局，以1seg节目编组进行了。
+最早的大规模的独立节目编组是2008年12月21日[M-1大賽](../Page/M-1大賽.md "wikilink")的敗部復活戰。[朝日電視台](../Page/朝日電視台.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[北海道電視台](../Page/北海道電視台.md "wikilink")、[名古屋電視台](../Page/名古屋電視台.md "wikilink")與[九州朝日放送等](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")5家放送局，以1seg节目编组进行了。
 
 NHK在法律限制解除以后，自2009年起开始1seg放送，并从2010年起在[教育频道开始](https://zh.wikipedia.org/wiki/NHK教育频道 "wikilink")1seg独立节目编组。\[5\]
 
@@ -43,7 +43,7 @@ MX）宣告1seg的多重編組實驗成功\[6\]，並於2008年6月23日開始�
 
 2006年12月1日，隨著各[都道府縣的](https://zh.wikipedia.org/wiki/都道府縣 "wikilink")[NHK和](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")[民放所有發送局開始發送地面数字电视信号](https://zh.wikipedia.org/wiki/民放 "wikilink")，1seg的放送范围也扩展到了全国。但是[放送大学並不播送](https://zh.wikipedia.org/wiki/放送大学学園 "wikilink")1seg节目。
 
-是针对遊樂場、博物館、大學等特定區域提供的广播服务。在[羽田机场等处的实验后](https://zh.wikipedia.org/wiki/羽田机场 "wikilink")，2011年4月，日本政府指定了“[白频段特区](https://zh.wikipedia.org/wiki/白频段 "wikilink")”，\[9\]允许在特定区域内进行1seg的研究开发和测试验证。\[10\]此后2012年4月区域放送制度化，开始发行的执照。区域放送也同时允许12seg的高清信号广播，例如[六本木新城的区域放送和](../Page/六本木新城.md "wikilink")。
+是针对遊樂場、博物館、大學等特定區域提供的广播服务。在[羽田机场等处的实验后](https://zh.wikipedia.org/wiki/羽田机场 "wikilink")，2011年4月，日本政府指定了“[白频段特区](https://zh.wikipedia.org/wiki/白频段 "wikilink")”，\[9\]允许在特定区域内进行1seg的研究开发和测试验证。\[10\]此后2012年4月区域放送制度化，开始发行的执照。区域放送也同时允许12seg的高清信号广播，例如[六本木新城](../Page/六本木新城.md "wikilink")的区域放送和。
 
 ## 数据广播
 
@@ -120,7 +120,7 @@ Profile基础上，增加了一些功能，从而能够实现「放送與通信�
 
 ## NHK收视費用
 
-因為1seg接收端是能接收NHK電視放送的收訊設備，因此NHK主張1seg終端必須支付NHK收訊費用。\[14\]但是若家中已經安装有付過電視費用的話，比照同家中的其他電視不必再付錢的情形，使用1seg是不需再付費用的。[NHK綜合頻道的数字播放开始時會出現下列聲明](../Page/NHK綜合頻道.md "wikilink")：
+因為1seg接收端是能接收NHK電視放送的收訊設備，因此NHK主張1seg終端必須支付NHK收訊費用。\[14\]但是若家中已經安装有付過電視費用的話，比照同家中的其他電視不必再付錢的情形，使用1seg是不需再付費用的。[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")的数字播放开始時會出現下列聲明：
 
 不过，实际的审判结果却不一致。2016年8月26日，[埼玉县](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")[朝霞市的市议员大桥昌信向法院要求确认仅仅拥有具备](https://zh.wikipedia.org/wiki/朝霞市 "wikilink")1seg功能的移动电话，而未安装电视机的话，是否需要向NHK支付费用。法院给出的结果是，根据定义多媒体广播的《放送法》第2条第14号，认为“设置”与“携带”的定义不同，NHK的“1seg播放机器的设置”是于理不通的，故而判决“携带具备1seg播放功能的移动电话不需支付NHK收视费用”。\[15\]然而，2017年5月水户地方法院对于同样案件的审判结果是“应该支付NHK收视费用”。\[16\]
 
@@ -129,7 +129,7 @@ Profile基础上，增加了一些功能，从而能够实现「放送與通信�
 截至2017年，于日本国内发售的Android手机和非智能手机具备1seg播放功能，iPhone手机仍然不具备播放1seg的能力。
 
 <File:W33sa>
-2.JPG|日本第一支支援1seg的行動電話：[三洋電機研發製造的W](../Page/三洋電機.md "wikilink")33SA
+2.JPG|日本第一支支援1seg的行動電話：[三洋電機](../Page/三洋電機.md "wikilink")研發製造的W33SA
 Image:HIY01-2.JPG|Mobile Hi-Vision CAM Wooo（HIY01 ・ au（KDDI／沖繩行動電話））
 Image:WILLCOM 03 WS020SH.jpg|WS020SH（WILLCOM） Image:Nintendo DS
 television tuner (body-opened).jpg|DS TV（外接接收器，任天堂DS系列用）

@@ -1,9 +1,9 @@
 **时钟座ι星b**，也被称为**HR
-810b**，是一颗位于[时钟座](../Page/时钟座.md "wikilink")、距离地球约50光年的系外行星。最初的天体测量结果显示该行星的质量约为木星质量的24倍，这使其可能成为一颗[褐矮星](https://zh.wikipedia.org/wiki/褐矮星 "wikilink")，后来经过修正的数据显示其质量下限为2.26[*M*<sub>*J*</sub>](https://zh.wikipedia.org/wiki/木星质量 "wikilink")。时钟座ι星b是发现的首颗处于[适居带内的系外行星](https://zh.wikipedia.org/wiki/适居带 "wikilink")，同时它也是[日射量接近](https://zh.wikipedia.org/wiki/日射量 "wikilink")[水星的](../Page/水星.md "wikilink")[类木行星的原型](https://zh.wikipedia.org/wiki/类木行星 "wikilink")。
+810b**，是一颗位于[时钟座](../Page/时钟座.md "wikilink")、距离地球约50光年的系外行星。最初的天体测量结果显示该行星的质量约为木星质量的24倍，这使其可能成为一颗[褐矮星](https://zh.wikipedia.org/wiki/褐矮星 "wikilink")，后来经过修正的数据显示其质量下限为2.26[*M*<sub>*J*</sub>](https://zh.wikipedia.org/wiki/木星质量 "wikilink")。时钟座ι星b是发现的首颗处于[适居带内的系外行星](https://zh.wikipedia.org/wiki/适居带 "wikilink")，同时它也是[日射量接近](https://zh.wikipedia.org/wiki/日射量 "wikilink")[水星](../Page/水星.md "wikilink")的[类木行星的原型](https://zh.wikipedia.org/wiki/类木行星 "wikilink")。
 
 ## 观测与发现
 
-时钟座ι星b的发现是对四十颗[太阳相似体进行的长期观测得出的结果](https://zh.wikipedia.org/wiki/太阳相似体 "wikilink")，该观测活动始于1992年11月。该行星是[欧洲南方天文台的设备发现的首颗系外行星](https://zh.wikipedia.org/wiki/欧洲南方天文台 "wikilink")，其观测数据来自于[智利的](../Page/智利.md "wikilink")[拉西利亚天文台](https://zh.wikipedia.org/wiki/拉西利亚天文台 "wikilink")。
+时钟座ι星b的发现是对四十颗[太阳相似体进行的长期观测得出的结果](https://zh.wikipedia.org/wiki/太阳相似体 "wikilink")，该观测活动始于1992年11月。该行星是[欧洲南方天文台的设备发现的首颗系外行星](https://zh.wikipedia.org/wiki/欧洲南方天文台 "wikilink")，其观测数据来自于[智利](../Page/智利.md "wikilink")的[拉西利亚天文台](https://zh.wikipedia.org/wiki/拉西利亚天文台 "wikilink")。
 
 依据[开普勒光谱学](https://zh.wikipedia.org/wiki/开普勒光谱学 "wikilink")，科学家测得该行星的轨道周期为320.1地球日，这表明其质量下限为2.26[*M*<sub>*J*</sub>](https://zh.wikipedia.org/wiki/木星质量 "wikilink")。“该行星的轨道离心率为0.161，半长轴为0.925天文单位，它是迄今为止轨道最接近地球轨道的系外行星。”\[1\]时钟座ι星b于1998年夏为马丁·柯斯特所领导的团队发现，它是该团队发现的第一颗系外行星。\[2\]
 

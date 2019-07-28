@@ -1,16 +1,16 @@
 《**Be My
-Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光的第](../Page/宇多田光.md "wikilink")14張日語單曲，於2005年9月28日發行，初動8萬張，累計銷售15萬張。
+Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光](../Page/宇多田光.md "wikilink")的第14張日語單曲，於2005年9月28日發行，初動8萬張，累計銷售15萬張。
 
 ## 簡介
 
   - 與前作《[如願以償](../Page/如願以償.md "wikilink")》相隔約1年5個月的新作，在完成《[EXODUS](../Page/EXODUS.md "wikilink")》的製作前便已經開始創作本曲。
   - 分CD跟CD+DVD兩版本發售，為她首張作品以此方式發售。
-  - 本曲為2005年10月上映的電影[春之雪主題曲](../Page/春之雪.md "wikilink")，《如願以償》後連續第二首電影主題曲。
-  - 本曲封面與PV都是在[捷克的](../Page/捷克.md "wikilink")[布拉格拍攝](../Page/布拉格.md "wikilink")，封面左方的黑色城堡就是有名的世界最大古堡[布拉格城堡](../Page/布拉格城堡.md "wikilink")。
+  - 本曲為2005年10月上映的電影[春之雪](../Page/春之雪.md "wikilink")主題曲，《如願以償》後連續第二首電影主題曲。
+  - 本曲封面與PV都是在[捷克](../Page/捷克.md "wikilink")的[布拉格](../Page/布拉格.md "wikilink")拍攝，封面左方的黑色城堡就是有名的世界最大古堡[布拉格城堡](../Page/布拉格城堡.md "wikilink")。
   - 於2005年11月11日播放的「[Music
     Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」，只使用大提琴伴奏演唱了本曲。其後於「[UTADA
     UNITED 2006](../Page/UTADA_UNITED_2006.md "wikilink")」演唱會中同樣演唱此版本。
-  - 伴奏只使用一支[吉他的簡單樂曲](../Page/吉他.md "wikilink")\[1\]，其唯一一首沒有使用鍵盤作編曲的歌曲。
+  - 伴奏只使用一支[吉他](../Page/吉他.md "wikilink")的簡單樂曲\[1\]，其唯一一首沒有使用鍵盤作編曲的歌曲。
 
 ## 曲目
 

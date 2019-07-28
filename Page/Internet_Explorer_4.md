@@ -1,7 +1,7 @@
 **Microsoft Internet Explorer
 4**（简称**IE4**）是[微軟所開發的一套使用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，它是[Internet
 Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個軟體於1997年10月首次發行適用於[Windows的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")。但之後也有發行過適用於[Mac
-OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[HP-UX等作業系統的版本](../Page/HP-UX.md "wikilink")。
+OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")等作業系統的版本。
 
 该版本是第一次[瀏覽器大戰中很重要的一個指標](https://zh.wikipedia.org/wiki/瀏覽器大戰 "wikilink")。在這個版本中，[Internet
 Explorer首次使用了](../Page/Internet_Explorer.md "wikilink")[Trident的](../Page/Trident_\(排版引擎\).md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。而其市場佔有率就在1999年3月的時候超越了60%，同月也被[Internet
@@ -24,8 +24,8 @@ Mac OS：
 | 主要版本                                    | 次要版本                                    | 發佈日期                                         | 重大更新                                                                                                             | 包含在 |
 | --------------------------------------- | --------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --- |
 | 4                                       | style="white-space: nowrap;| 4.0 Beta 1 | 1997年4月                                      | 改進對[CSS和微軟的](https://zh.wikipedia.org/wiki/CSS "wikilink")[DOM的支持](https://zh.wikipedia.org/wiki/DOM "wikilink") |     |
-| style="white-space: nowrap;| 4.0 Beta 2 | 1997年7月                                 | 改進對[HTML和CSS的支持](../Page/HTML.md "wikilink") |                                                                                                                  |     |
-| style="white-space: nowrap;| 4.0        | 1997年9月                                 | 改進對[HTML和CSS的支持](../Page/HTML.md "wikilink") | [Windows 95 OSR 2.5](../Page/Windows_95.md "wikilink")                                                           |     |
+| style="white-space: nowrap;| 4.0 Beta 2 | 1997年7月                                 | 改進對[HTML](../Page/HTML.md "wikilink")和CSS的支持 |                                                                                                                  |     |
+| style="white-space: nowrap;| 4.0        | 1997年9月                                 | 改進對[HTML](../Page/HTML.md "wikilink")和CSS的支持 | [Windows 95 OSR 2.5](../Page/Windows_95.md "wikilink")                                                           |     |
 | style="white-space: nowrap; | 4.01      | 1997年11月18日                             | 修復錯誤釋放                                       | [Windows 98](../Page/Windows_98.md "wikilink")                                                                   |     |
 |                                         |                                         |                                              |                                                                                                                  |     |
 

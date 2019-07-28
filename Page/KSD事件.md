@@ -1,4 +1,4 @@
-**KSD事件**（），是指[日本的](../Page/日本.md "wikilink")[財團法人中小企業經營者福利事業團](https://zh.wikipedia.org/wiki/財團法人 "wikilink")（**KSD**，現為「中小企業災害補償福利財團」）的創立者[古關忠男向多名](https://zh.wikipedia.org/wiki/古關忠男 "wikilink")[自由民主黨](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")[國會議員](https://zh.wikipedia.org/wiki/國會議員 "wikilink")1996年提供非法[政治獻金以獲取利益的腐敗](https://zh.wikipedia.org/wiki/政治獻金 "wikilink")[丑聞事件](https://zh.wikipedia.org/wiki/丑聞 "wikilink")。此事件對[森喜朗政府造成沉重的打擊](../Page/森喜朗.md "wikilink")。
+**KSD事件**（），是指[日本](../Page/日本.md "wikilink")的[財團法人中小企業經營者福利事業團](https://zh.wikipedia.org/wiki/財團法人 "wikilink")（**KSD**，現為「中小企業災害補償福利財團」）的創立者[古關忠男向多名](https://zh.wikipedia.org/wiki/古關忠男 "wikilink")[自由民主黨](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")[國會議員](https://zh.wikipedia.org/wiki/國會議員 "wikilink")1996年提供非法[政治獻金以獲取利益的腐敗](https://zh.wikipedia.org/wiki/政治獻金 "wikilink")[丑聞事件](https://zh.wikipedia.org/wiki/丑聞 "wikilink")。此事件對[森喜朗](../Page/森喜朗.md "wikilink")政府造成沉重的打擊。
 [缩略图](https://zh.wikipedia.org/wiki/File:Yoshiro_mori_2.jpg "fig:缩略图")
 
 ## 概況
@@ -7,13 +7,13 @@
 
 <!-- end list -->
 
-  - [村上正邦](../Page/村上正邦.md "wikilink")：原[勞動大臣](https://zh.wikipedia.org/wiki/勞動大臣 "wikilink")、參議院議員（[江藤·龜井派](https://zh.wikipedia.org/wiki/志帥會 "wikilink")）。谷關在兼任KSD下屬財團「中小企業國際人才培育事業團」期間，醞釀建設[製造技術大學](https://zh.wikipedia.org/wiki/製造技術大學 "wikilink")，為了解決財務赤字問題，以總額2,000萬[日圓賄賂當時任參議院勞動委員會委員的村上](../Page/日圓.md "wikilink")。村上因此以議員身份活動，幫助KSD籌集政府的巨額補貼，他還在1996年1月25日的參議院大會上進行有利於KSD的咨詢，向[勞動省施壓](../Page/勞動省.md "wikilink")。\[1\]
+  - [村上正邦](../Page/村上正邦.md "wikilink")：原[勞動大臣](https://zh.wikipedia.org/wiki/勞動大臣 "wikilink")、參議院議員（[江藤·龜井派](https://zh.wikipedia.org/wiki/志帥會 "wikilink")）。谷關在兼任KSD下屬財團「中小企業國際人才培育事業團」期間，醞釀建設[製造技術大學](https://zh.wikipedia.org/wiki/製造技術大學 "wikilink")，為了解決財務赤字問題，以總額2,000萬[日圓](../Page/日圓.md "wikilink")賄賂當時任參議院勞動委員會委員的村上。村上因此以議員身份活動，幫助KSD籌集政府的巨額補貼，他還在1996年1月25日的參議院大會上進行有利於KSD的咨詢，向[勞動省](../Page/勞動省.md "wikilink")施壓。\[1\]
   - [小山孝雄](https://zh.wikipedia.org/wiki/小山孝雄 "wikilink")：參議院議員（江藤·龜井派），村上的原秘書。以參議院勞動委員會成員身份協助KSD的咨詢，收受賄賂2,000萬日圓。小山兩次在國會討論外國工人在日工作問題時，也都就KSD的請求將外國工人在日工作年限由2年延長至3年。
-  - [額賀福志郎](../Page/額賀福志郎.md "wikilink")：[森喜朗內閣的](https://zh.wikipedia.org/wiki/第二次森內閣改組內閣 "wikilink")[經濟財政擔當大臣](https://zh.wikipedia.org/wiki/經濟財政擔當大臣 "wikilink")（[橋本派](../Page/平成研究會.md "wikilink")），在[橋本龍太郎時期擔任內閣官房副長官](../Page/橋本龍太郎.md "wikilink")。當時KSD向他提供1,500萬日圓的獻金，由其秘書收受，雖然他後來感覺不妥已經全部退還獻金，但是他在國會質詢時無法解釋清楚事情。在在野黨的猛烈攻勢下，他最終引咎辭職。
+  - [額賀福志郎](../Page/額賀福志郎.md "wikilink")：[森喜朗內閣的](https://zh.wikipedia.org/wiki/第二次森內閣改組內閣 "wikilink")[經濟財政擔當大臣](https://zh.wikipedia.org/wiki/經濟財政擔當大臣 "wikilink")（[橋本派](../Page/平成研究會.md "wikilink")），在[橋本龍太郎](../Page/橋本龍太郎.md "wikilink")時期擔任內閣官房副長官。當時KSD向他提供1,500萬日圓的獻金，由其秘書收受，雖然他後來感覺不妥已經全部退還獻金，但是他在國會質詢時無法解釋清楚事情。在在野黨的猛烈攻勢下，他最終引咎辭職。
 
-後來據調查，古關忠男和KSD和政界的關係十分密切，KSD總共向自民黨提供超過20億日圓的獻金支持自民黨的選舉。而KSD和勞動省的關係更是千絲萬縷，許多勞動省的高級官員[退休後就到KSD任職領取高額薪水](../Page/退休.md "wikilink")，而這批退休官員又以特殊身份為KSD謀取利益。
+後來據調查，古關忠男和KSD和政界的關係十分密切，KSD總共向自民黨提供超過20億日圓的獻金支持自民黨的選舉。而KSD和勞動省的關係更是千絲萬縷，許多勞動省的高級官員[退休](../Page/退休.md "wikilink")後就到KSD任職領取高額薪水，而這批退休官員又以特殊身份為KSD謀取利益。
 
-此外，還揭發出KSD曾經[青木幹雄](../Page/青木幹雄.md "wikilink")、[中曾根弘文等自民黨重要高層提供歌舞券和招待會入場券等](../Page/中曾根弘文.md "wikilink")。\[2\]
+此外，還揭發出KSD曾經[青木幹雄](../Page/青木幹雄.md "wikilink")、[中曾根弘文](../Page/中曾根弘文.md "wikilink")等自民黨重要高層提供歌舞券和招待會入場券等。\[2\]
 
 2000年11月，[東京地方檢察廳特別搜查部逮捕古關忠男](https://zh.wikipedia.org/wiki/東京地方檢察廳特別搜查部 "wikilink")；2001年1月，村上正邦、小山孝雄都被逮捕，他們也因此辭去議員職務。
 

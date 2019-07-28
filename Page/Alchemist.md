@@ -1,21 +1,21 @@
-是[日本一家從事開發角色商品及](../Page/日本.md "wikilink")[電子遊戲的企劃](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、販售的企業，總部位於[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")（登記上位於[札幌市](../Page/札幌市.md "wikilink")[豐平區](../Page/豐平區.md "wikilink")），1991年成立，2016年4月1日宣布[破產](../Page/破產.md "wikilink")。
+是[日本](../Page/日本.md "wikilink")一家從事開發角色商品及[電子遊戲的企劃](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、販售的企業，總部位於[東京都](../Page/東京都.md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")（登記上位於[札幌市](../Page/札幌市.md "wikilink")[豐平區](../Page/豐平區.md "wikilink")），1991年成立，2016年4月1日宣布[破產](../Page/破產.md "wikilink")。
 
 ## 業務内容
 
 [遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[角色周邊商品的企畫](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")、販售為主。印有角色的「ふにふに[抱枕](https://zh.wikipedia.org/wiki/抱枕 "wikilink")」受到了注目。不是其他公司的角色，以自創的角色「[備長炭](../Page/備長炭_\(漫畫\).md "wikilink")」擴張商品。
 
 [漫畫喫茶](https://zh.wikipedia.org/wiki/漫畫喫茶 "wikilink")「Smile
-Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedia.org/wiki/愚人節 "wikilink")[Irem製作虛假網站](../Page/Irem.md "wikilink")，也是眾所皆知的事。
+Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedia.org/wiki/愚人節 "wikilink")[Irem](../Page/Irem.md "wikilink")製作虛假網站，也是眾所皆知的事。
 
 ### 沿革
 
   - 1991年 -株式会社在札幌市成立。
 
-當初是在[北海道](../Page/北海道.md "wikilink")、[青森縣擴張同名遊戲軟體經銷商](../Page/青森縣.md "wikilink")（現已退出）。
+當初是在[北海道](../Page/北海道.md "wikilink")、[青森縣](../Page/青森縣.md "wikilink")擴張同名遊戲軟體經銷商（現已退出）。
 後來，漫畫喫茶「Smile Time」的經營及角色商品的開發、販售和擴張業務。
 
   - 2000年 -
-    更名為“Alchemist株式会社”，在[千葉縣](../Page/千葉縣.md "wikilink")[浦安市設立總部](../Page/浦安市.md "wikilink")。
+    更名為“Alchemist株式会社”，在[千葉縣](../Page/千葉縣.md "wikilink")[浦安市](../Page/浦安市.md "wikilink")設立總部。
   - 2002年 -
     參與《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》的[DC版](../Page/Dreamcast.md "wikilink")[遊戲軟體的移植](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")、販賣。
   - 2004年 -
@@ -96,7 +96,7 @@ Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedi
 <!-- end list -->
 
   - [暮蟬悲鳴時 祭](../Page/暮蟬悲鳴時.md "wikilink")（[07th
-    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時解](../Page/暮蟬悲鳴時.md "wikilink")》系列）
+    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")解》系列）
 
   - 青空下的約定― 〜melody of the sun and
     sea〜（戲畫《[青空下的約定](../Page/青空下的約定.md "wikilink")》）
@@ -106,7 +106,7 @@ Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedi
     "REVELLION"](../Page/機甲戰線.md "wikilink")》）
 
   - （[07th
-    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時解](../Page/暮蟬悲鳴時.md "wikilink")》系列）
+    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")解》系列）
 
 <!-- end list -->
 
@@ -114,8 +114,8 @@ Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedi
 
 <!-- end list -->
 
-  - [暮蟬悲鳴時絆](../Page/暮蟬悲鳴時.md "wikilink")　第一卷・崇（[07th
-    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時解](../Page/暮蟬悲鳴時.md "wikilink")》系列）
+  - [暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")絆　第一卷・崇（[07th
+    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")解》系列）
   - [ARIA The ORIGINATION
     ～藍色行星的天空～](https://zh.wikipedia.org/wiki/水星領航員#《ARIA_The_ORIGINATION_～藍色行星的天空～》 "wikilink")
   - [Sugar+Spice\!
@@ -124,7 +124,7 @@ Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedi
   - 戀愛少女與守護之盾 -The shield of
     AIGIS-([AXL](https://zh.wikipedia.org/wiki/AXL_\(ブランド\) "wikilink")《[戀愛少女與守護之盾](../Page/戀愛少女與守護之盾.md "wikilink")》）
   - 暮蟬悲鳴時絆　第二卷・想（[07th
-    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時解](../Page/暮蟬悲鳴時.md "wikilink")》系列）
+    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")解》系列）
   - 寒蟬黎明 攜帶版（[07th
     Expansion](../Page/07th_Expansion.md "wikilink")、[黃昏邊境](../Page/黃昏邊境.md "wikilink")《[寒蟬黎明](../Page/寒蟬黎明.md "wikilink")》）
 
@@ -138,7 +138,7 @@ Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedi
     EXELICA](https://zh.wikipedia.org/wiki/TriggerHeart_EXELICA "wikilink")》）
 
   - 暮蟬悲鳴時絆　第三卷・螺（[07th
-    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時解](../Page/暮蟬悲鳴時.md "wikilink")》系列）
+    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")解》系列）
 
   - 赤い糸 destiny DS
 
@@ -155,7 +155,7 @@ Time」也正在營運中。此外，每年[愚人節跟著](https://zh.wikipedi
 
   - 暮蟬悲鳴時絆　第四卷・絆（[07th
     Expansion](../Page/07th_Expansion.md "wikilink")（[07th
-    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時解](../Page/暮蟬悲鳴時.md "wikilink")》系列）
+    Expansion](../Page/07th_Expansion.md "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")解》系列）
   - スズノネセブン\! 〜Rebirth knot〜（クロシェット『スズノネセブン\!』）
   - のーふぇいと\! 〜only the power of will〜（與サクセス的共同開發作品）
   - [咲 -Saki-

@@ -1,4 +1,4 @@
-****（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。主要擔當[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[美少女遊戲的](../Page/美少女遊戲.md "wikilink")[原畫和](https://zh.wikipedia.org/wiki/原畫 "wikilink")[人物設計等工作](../Page/人物設計.md "wikilink")。[岐阜縣出身](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")，現在住在[愛知縣](../Page/愛知縣.md "wikilink")。
+****（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。主要擔當[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")的[原畫和](https://zh.wikipedia.org/wiki/原畫 "wikilink")[人物設計](../Page/人物設計.md "wikilink")等工作。[岐阜縣出身](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")，現在住在[愛知縣](../Page/愛知縣.md "wikilink")。
 
 ## 作品列表
 
@@ -21,6 +21,8 @@
   - [Summer
     Pockets](../Page/Summer_Pockets.md "wikilink")（）（[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、2018年6月29日）
 
+  - （Palette、2019年4月26日）
+
 <!-- end list -->
 
   - 動畫插畫
@@ -32,7 +34,7 @@
   - [要聽爸爸的話第](https://zh.wikipedia.org/wiki/要聽爸爸的話 "wikilink")10話片尾插畫
   - [我的妹妹哪有這麼可愛。第2季第](../Page/我的妹妹哪有這麼可愛！_\(動畫\).md "wikilink")9話片尾插畫
   - [翠星上的加爾岡緹亞第](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")12話片尾插畫
-  - [銃皇無盡的法夫納第](../Page/銃皇無盡的法夫納.md "wikilink")10話片尾插畫
+  - [銃皇無盡的法夫納](../Page/銃皇無盡的法夫納.md "wikilink")第10話片尾插畫
 
 <!-- end list -->
 

@@ -4,7 +4,7 @@ __NOINDEX__
 [The_Hennessy_Podium_Garden_2013.jpg](https://zh.wikipedia.org/wiki/File:The_Hennessy_Podium_Garden_2013.jpg "fig:The_Hennessy_Podium_Garden_2013.jpg")
 
 **The
-Hennessy**前稱**TwoFiveSix**，為[香港的一座商業大廈](../Page/香港.md "wikilink")，位於[灣仔](../Page/灣仔.md "wikilink")[軒尼詩道](../Page/軒尼詩道.md "wikilink")256號，樓高31層，廈內包括餐飲、零售及寫字樓部份，由[信和集團發展](../Page/信和集團.md "wikilink")，於2008年11月落成。
+Hennessy**前稱**TwoFiveSix**，為[香港](../Page/香港.md "wikilink")的一座商業大廈，位於[灣仔](../Page/灣仔.md "wikilink")[軒尼詩道](../Page/軒尼詩道.md "wikilink")256號，樓高31層，廈內包括餐飲、零售及寫字樓部份，由[信和集團](../Page/信和集團.md "wikilink")發展，於2008年11月落成。
 
 ## 設計
 

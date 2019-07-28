@@ -1,5 +1,5 @@
 **DW運動場**（**DW Stadium**），前名**JJB球場**（**JJB
-Stadium**），是一個於[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[大曼徹斯特](https://zh.wikipedia.org/wiki/大曼徹斯特 "wikilink")[威根羅賓公園的球場](https://zh.wikipedia.org/wiki/威根 "wikilink")，是[足球隊](../Page/足球.md "wikilink")[韋根足球會和](https://zh.wikipedia.org/wiki/韋根足球會 "wikilink")[欖球隊](https://zh.wikipedia.org/wiki/聯合式橄欖球 "wikilink")（Wigan
+Stadium**），是一個於[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[大曼徹斯特](https://zh.wikipedia.org/wiki/大曼徹斯特 "wikilink")[威根羅賓公園的球場](https://zh.wikipedia.org/wiki/威根 "wikilink")，是[足球](../Page/足球.md "wikilink")隊[韋根足球會和](https://zh.wikipedia.org/wiki/韋根足球會 "wikilink")[欖球隊](https://zh.wikipedia.org/wiki/聯合式橄欖球 "wikilink")（Wigan
 Warriors）的主場。球場在1999年8月啟用，造價高達3,000萬英鎊，最初球場名稱源自[韋根足球會的主贊助商](https://zh.wikipedia.org/wiki/韋根足球會 "wikilink")。
 
 球場採用鋼鐵懸臂式結構屋頂，是一個全座席球場，可容納25,135名球迷。通常作客球迷都安排至北看台。球場草地由天然[草](https://zh.wikipedia.org/wiki/草 "wikilink")（98%）及人造纖維（2%）混合組成，比賽場地面積110x68米，有自動灌溉及地底發熱系統。球員更衣室位於西看台地下，主隊更衣室配備花灑、浴缸、醫療室、縫針室、按摩室及藥品化驗室。並設有球員酒廊供賽後娛賓。附設警崗及小囚房。

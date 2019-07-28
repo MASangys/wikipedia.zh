@@ -1,6 +1,6 @@
-**蕭敬騰同名專輯**是[蕭敬騰首張國語專輯](../Page/蕭敬騰.md "wikilink")，由華納音樂發行。專輯由當今歌壇一線音樂人共同打造，包括了五月天的[阿信](../Page/五月天.md "wikilink")、FIR的[阿沁](https://zh.wikipedia.org/wiki/F.I.R. "wikilink")、蘇打綠的[青峰](../Page/蘇打綠.md "wikilink")、[曹格](../Page/曹格.md "wikilink")、宋念宇（小宇），名製作人[李偉菘](../Page/李偉菘.md "wikilink")
+**蕭敬騰同名專輯**是[蕭敬騰](../Page/蕭敬騰.md "wikilink")首張國語專輯，由華納音樂發行。專輯由當今歌壇一線音樂人共同打造，包括了五月天的[阿信](../Page/五月天.md "wikilink")、FIR的[阿沁](https://zh.wikipedia.org/wiki/F.I.R. "wikilink")、蘇打綠的[青峰](../Page/蘇打綠.md "wikilink")、[曹格](../Page/曹格.md "wikilink")、宋念宇（小宇），名製作人[李偉菘](../Page/李偉菘.md "wikilink")
 、[李偲菘](../Page/李偲菘.md "wikilink")、陳偉、馬毓芬等，蕭敬騰也在新專輯中創作了「海芋戀」和「一輩子存在」。2008年8月1日發行的**First
-Live影音限定版**則同步收錄了蕭敬騰於2008年7月6日台北[淡水漁人碼頭舉辦的](../Page/淡水漁人碼頭.md "wikilink")【同名專輯新歌發表會】戶外萬人演唱會的Live版CD以及實況影音DVD。
+Live影音限定版**則同步收錄了蕭敬騰於2008年7月6日台北[淡水漁人碼頭](../Page/淡水漁人碼頭.md "wikilink")舉辦的【同名專輯新歌發表會】戶外萬人演唱會的Live版CD以及實況影音DVD。
 
 ## 曲目
 

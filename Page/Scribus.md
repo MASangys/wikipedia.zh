@@ -12,14 +12,14 @@ Scribus
 ## 特性
 
 Scribus
-支持大多數主要的圖像格式。專業的字型／圖像設置功能包括[CMYK顏色和ICC色彩管理](https://zh.wikipedia.org/wiki/CMYK "wikilink")。以[C++寫編的](../Page/C++.md "wikilink")，使用[Python為內置腳本](../Page/Python.md "wikilink")。同時也有超過24種語言的[國際化支援](https://zh.wikipedia.org/wiki/國際化 "wikilink")。
+支持大多數主要的圖像格式。專業的字型／圖像設置功能包括[CMYK顏色和ICC色彩管理](https://zh.wikipedia.org/wiki/CMYK "wikilink")。以[C++](../Page/C++.md "wikilink")寫編的，使用[Python](../Page/Python.md "wikilink")為內置腳本。同時也有超過24種語言的[國際化支援](https://zh.wikipedia.org/wiki/國際化 "wikilink")。
 
-印刷實現是由其自身內部的第3級[PostScript驅動程序](../Page/PostScript.md "wikilink")，包括支持字體嵌入和[TrueType的sub](../Page/TrueType.md "wikilink")-setting、Type
-1和[OpenType字體](../Page/OpenType.md "wikilink")。內部驅動程序完整支持2級的PostScript結構和一個大的3級結構的subset。
+印刷實現是由其自身內部的第3級[PostScript](../Page/PostScript.md "wikilink")驅動程序，包括支持字體嵌入和[TrueType](../Page/TrueType.md "wikilink")的sub-setting、Type
+1和[OpenType](../Page/OpenType.md "wikilink")字體。內部驅動程序完整支持2級的PostScript結構和一個大的3級結構的subset。
 
 文档格式，称 SLA，为 XML 衍生的纯文本。
 
-不准备对其他同类软件的格式提供支持；[彩通色彩对应系统不被支持](../Page/彩通.md "wikilink")。
+不准备对其他同类软件的格式提供支持；[彩通](../Page/彩通.md "wikilink")色彩对应系统不被支持。
 
 无法导入PDF内容。
 
@@ -36,7 +36,7 @@ Scribus
 
 ### 文章
 
-  - [自由軟體鑄造場電子報刊載的文章](../Page/自由軟體鑄造場.md "wikilink")
+  - [自由軟體鑄造場](../Page/自由軟體鑄造場.md "wikilink")電子報刊載的文章
       - [開放源碼桌面排版軟體
         Scribus（1）](http://www.openfoundry.org/tw/foss-programs/2139)
       - [開放源碼桌面排版軟體 Scribus

@@ -1,5 +1,5 @@
 ***Brand New Eyes***
-是美国[另类摇滚乐队](../Page/另类摇滚.md "wikilink")[帕拉莫尔发行的第三张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2009年9月29日在美国和加拿大发行。
+是美国[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔发行的第三张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2009年9月29日在美国和加拿大发行。
 
 ## 曲目列表
 

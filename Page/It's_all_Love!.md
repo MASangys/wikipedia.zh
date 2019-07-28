@@ -1,7 +1,7 @@
 《**It's all
-Love\!**》是[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../Page/倖田來未.md "wikilink")43rd單曲，也是[倖田來未和其妹](../Page/倖田來未.md "wikilink")[日本歌手](../Page/日本.md "wikilink")[misono以](https://zh.wikipedia.org/wiki/misono "wikilink")「倖田來未×misono」名義推出的單曲。收錄、二人合唱的「It's
+Love\!**》是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第43rd單曲，也是[倖田來未](../Page/倖田來未.md "wikilink")和其妹[日本](../Page/日本.md "wikilink")歌手[misono以](https://zh.wikipedia.org/wiki/misono "wikilink")「倖田來未×misono」名義推出的單曲。收錄、二人合唱的「It's
 all
-Love\!」以及各自獨唱的[日本電影](../Page/日本.md "wikilink")《[舞吧！昴](https://zh.wikipedia.org/wiki/舞吧！昴 "wikilink")（[昴-スバル-](https://zh.wikipedia.org/wiki/昴-スバル- "wikilink")）》主題曲「faraway」、「天秤～強がりな私×弱がりな君～（天秤～逞強的我x軟弱的你～）》。
+Love\!」以及各自獨唱的[日本](../Page/日本.md "wikilink")電影《[舞吧！昴](https://zh.wikipedia.org/wiki/舞吧！昴 "wikilink")（[昴-スバル-](https://zh.wikipedia.org/wiki/昴-スバル- "wikilink")）》主題曲「faraway」、「天秤～強がりな私×弱がりな君～（天秤～逞強的我x軟弱的你～）》。
 
 ## 附註
 

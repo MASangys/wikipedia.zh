@@ -1,11 +1,11 @@
 **Phonon** 是 KDE 桌面平台提供的多媒体 API，它是处理KDE软件中多媒体流的标准抽象，也被几个Qt应用程序使用。
 
 Phonon 最初是为了让 KDE/Qt
-软件能够独立于任何单一的多媒体框架（如[GStreamer或](../Page/GStreamer.md "wikilink")[xine](https://zh.wikipedia.org/wiki/xine "wikilink")），从而为其提供了在主要版本的生命周期内稳定的多媒体API。通过提供一个简单的
+软件能够独立于任何单一的多媒体框架（如[GStreamer](../Page/GStreamer.md "wikilink")或[xine](https://zh.wikipedia.org/wiki/xine "wikilink")），从而为其提供了在主要版本的生命周期内稳定的多媒体API。通过提供一个简单的
 KDE/Qt 风格的多媒体API，能够更好地支持 Windows 和 macOS 上的本地多媒体框架，并解决框架变得无法维护或 API/ABI
 不稳定的问题。
 
-使用了phonon，用四行[C++程式碼就能播放檔案](../Page/C++.md "wikilink")\[1\]
+使用了phonon，用四行[C++](../Page/C++.md "wikilink")程式碼就能播放檔案\[1\]
 ，而舊聲音框架（)則需要用到30行\[2\]：
 
 ``` cpp
@@ -29,7 +29,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - 支援 [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
     系統下的後端GStreamer与VLC。<ref>
 
-</ref>需要注意的是，[xine与](https://zh.wikipedia.org/wiki/xine "wikilink")[MPlayer的后端在](../Page/MPlayer.md "wikilink")
+</ref>需要注意的是，[xine与](https://zh.wikipedia.org/wiki/xine "wikilink")[MPlayer](../Page/MPlayer.md "wikilink")的后端在
 Linux 中已经过时并不再提供开发。\[5\]
 
   - 支援 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 下的後端

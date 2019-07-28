@@ -1,6 +1,6 @@
-**PhishTank**是基于社区的反[钓鱼式攻击服务](../Page/钓鱼式攻击.md "wikilink")。
+**PhishTank**是基于社区的反[钓鱼式攻击](../Page/钓鱼式攻击.md "wikilink")服务。
 
-PhishTank于2006年10月2日作为[OpenDNS的子公司建立](../Page/OpenDNS.md "wikilink")\[1\]，用户可以从世界各地向其汇报钓鱼网站，经其他用户以投票的形式认证后，即通过公开的[API](https://zh.wikipedia.org/wiki/API "wikilink")\[2\]共享给所有使用PhishTank服务的机构和个人。
+PhishTank于2006年10月2日作为[OpenDNS](../Page/OpenDNS.md "wikilink")的子公司建立\[1\]，用户可以从世界各地向其汇报钓鱼网站，经其他用户以投票的形式认证后，即通过公开的[API](https://zh.wikipedia.org/wiki/API "wikilink")\[2\]共享给所有使用PhishTank服务的机构和个人。
 
 2006年12月18日发布的[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
 9.10首次内置了反钓鱼功能，其黑名单即是来源于PhishTank.com\[3\]，此先[Mozilla

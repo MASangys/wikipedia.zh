@@ -1,8 +1,8 @@
-《**絕對**》是[新傳媒私人有限公司製作的](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")[新加坡電視歌唱選秀節目](../Page/新加坡.md "wikilink")，從[2005年6月開始播出](../Page/2005年6月.md "wikilink")。每一屆（季）各與不同的[唱片公司合作](../Page/唱片公司.md "wikilink")，每屆比賽的時間長度約四個月。每屆冠軍可以得到一張[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")[合約](https://zh.wikipedia.org/wiki/合約 "wikilink")。
+《**絕對**》是[新傳媒私人有限公司製作的](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")[新加坡](../Page/新加坡.md "wikilink")電視歌唱選秀節目，從[2005年6月](../Page/2005年6月.md "wikilink")開始播出。每一屆（季）各與不同的[唱片公司](../Page/唱片公司.md "wikilink")合作，每屆比賽的時間長度約四個月。每屆冠軍可以得到一張[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")[合約](https://zh.wikipedia.org/wiki/合約 "wikilink")。
 
 第一屆在2005年9月1日結束，第二屆在2007年2月4日結束。
 
-評審方式，以專業評審作號召。主持人為[權怡鳳](https://zh.wikipedia.org/wiki/權怡鳳 "wikilink")、[王建-{復}-](../Page/王建復.md "wikilink")，另設有五席評審，擔任常任評審的有[葉佩芬](https://zh.wikipedia.org/wiki/葉佩芬 "wikilink")、[黎沸揮](https://zh.wikipedia.org/wiki/:en:Li_Feihui "wikilink")、[許環良](https://zh.wikipedia.org/wiki/許環良 "wikilink")、[方鐘樺](https://zh.wikipedia.org/wiki/方鐘樺 "wikilink")、[李偉菘等知名音樂人与唱片製作人](../Page/李偉菘.md "wikilink")。
+評審方式，以專業評審作號召。主持人為[權怡鳳](https://zh.wikipedia.org/wiki/權怡鳳 "wikilink")、[王建-{復}-](../Page/王建復.md "wikilink")，另設有五席評審，擔任常任評審的有[葉佩芬](https://zh.wikipedia.org/wiki/葉佩芬 "wikilink")、[黎沸揮](https://zh.wikipedia.org/wiki/:en:Li_Feihui "wikilink")、[許環良](https://zh.wikipedia.org/wiki/許環良 "wikilink")、[方鐘樺](https://zh.wikipedia.org/wiki/方鐘樺 "wikilink")、[李偉菘](../Page/李偉菘.md "wikilink")等知名音樂人与唱片製作人。
 
 除了大決賽，其餘集數都是預錄。週三晚上播男子組比賽，週四晚上播女子組比賽。
 

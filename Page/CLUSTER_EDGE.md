@@ -1,5 +1,5 @@
 《**CLUSTER
-EDGE**》，是一部[日本的](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[日昇動畫公司發行](../Page/日昇動畫.md "wikilink")。
+EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[日昇動畫](../Page/日昇動畫.md "wikilink")公司發行。
 
 ## 故事簡介
 
@@ -20,7 +20,7 @@ EDGE**》，是一部[日本的](../Page/日本.md "wikilink")[動畫作品](htt
 ## 主要人物
 
   - 阿加特·弗洛萊特〔Agate
-    Fluorite﹏アゲート・フローライト---[聲優cv](../Page/聲優.md "wikilink")：[下野紘](../Page/下野紘.md "wikilink")〕
+    Fluorite﹏アゲート・フローライト---[聲優](../Page/聲優.md "wikilink")cv：[下野紘](../Page/下野紘.md "wikilink")〕
     本作主人公。15歲，性格開朗直率、品性善良單純的少年，以不可思議的力量引發許多奇蹟。但這神奇力量源來自毀滅之神的力量，阿加特是教團以天使的殘骸制造出來的神，因為卡魯斯變成不完整的人類，視卡魯斯為哥哥，卡魯斯死後代替他照顧卡魯塞的嬤嬤。“阿加特”這名字是卡魯塞替他起的。
 
 <!-- end list -->

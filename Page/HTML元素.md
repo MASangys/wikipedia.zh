@@ -1,4 +1,4 @@
-[HTML中](../Page/HTML.md "wikilink")，一个**HTML元素**是[HTML文件的一个基本组成单元](../Page/HTML.md "wikilink")。HTML文件采用采用树形结构安排HTML元素。更进一步的说，一个HTML元素是一个满足一项或多项DTD要求的元素。HTML元素可以拥有*属性*和*内容*，可以是标题、段落、链接、列表、嵌入媒体或者其他的任何符合DTD要求的格式。
+[HTML](../Page/HTML.md "wikilink")中，一个**HTML元素**是[HTML](../Page/HTML.md "wikilink")文件的一个基本组成单元。HTML文件采用采用树形结构安排HTML元素。更进一步的说，一个HTML元素是一个满足一项或多项DTD要求的元素。HTML元素可以拥有*属性*和*内容*，可以是标题、段落、链接、列表、嵌入媒体或者其他的任何符合DTD要求的格式。
 
 ## 概述
 
@@ -25,7 +25,7 @@ HTML元素可以是*容器*或者为*空*。 **容器元素** 结构如下：
   - 一个*结束标记*，使用和起始标记完全相同的元素名但前面附加一个斜线字符
     </tag>。并非所有的元素都要求结束标记，有些元素的结束表示是可有可无的（如*p*），有些是一定不可以有的（如*input*）。
 
-**空元素**指仅包含一个标记，该标记既是开始标记同时也是结束标记。空元素可以有任意数量的属性`<标记名 />`。在[XHTML规范中](../Page/XHTML.md "wikilink")，标记中的斜线符号是*必须*的\[1\]。要求使用一個單獨標籤開啟與關閉元素。若要指定其為一個空元素，符號"/"包含於標記之**結尾**（不能與位於結束標記中的**開始**的符號"/"混淆）。例如：
+**空元素**指仅包含一个标记，该标记既是开始标记同时也是结束标记。空元素可以有任意数量的属性`<标记名 />`。在[XHTML](../Page/XHTML.md "wikilink")规范中，标记中的斜线符号是*必须*的\[1\]。要求使用一個單獨標籤開啟與關閉元素。若要指定其為一個空元素，符號"/"包含於標記之**結尾**（不能與位於結束標記中的**開始**的符號"/"混淆）。例如：
 
 ``` html5
 <p>P. Sherman<br/>42 Wallaby Way<br/>Sydney</p>
@@ -64,7 +64,7 @@ HTML元素是在自1995年以來發布的一系列免費開放標準中定義的
 
 1990年代的[瀏覽器大戰期間](https://zh.wikipedia.org/wiki/瀏覽器大戰 "wikilink")，[網頁瀏覽器的软件商开始不断的添加自定义的元素](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，有些被后来的标准吸收。并非所有的软件商都支持这些非标准的元素，一般对于非标准的元素，或者是忽略，或者是导致显示不正确。
 
-1998年，[XML](../Page/XML.md "wikilink")（一种简化的SGML）引入一种方法，允许任何人开发自己的元素并融合到[XHTML文件中](../Page/XHTML.md "wikilink")，使用支持XML的浏览器（[用户代理](../Page/用户代理.md "wikilink")）可以浏览任意元素。\[3\]
+1998年，[XML](../Page/XML.md "wikilink")（一种简化的SGML）引入一种方法，允许任何人开发自己的元素并融合到[XHTML](../Page/XHTML.md "wikilink")文件中，使用支持XML的浏览器（[用户代理](../Page/用户代理.md "wikilink")）可以浏览任意元素。\[3\]
 
 而后采用XML兼容的办法，重新制订了HTML 4.01标准，[XHTML
 1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink")（*扩展的HTML*）。二者的元素相同，绝大多数情况下，XHTML
@@ -169,7 +169,7 @@ agent也可以根据作者所提供的stylesheet在不同的介质（显示器�
     指定連結到其他文件，如*previous*和*next*連結，或替代版本。\[5\]常見的用途是連結至外部的[CSS樣式表](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")，使用形式：
       -
         <link rel="stylesheet" type="text/css" href="''url''" title="''description_of_style''">\[6\]
-    較少見但重要之用途是透過使用[微格式持續性支援導覽提示](../Page/微格式.md "wikilink")。若干常見之關係已被定義，可能透過瀏覽器介面傳達給使用者，而非直接於網頁中。
+    較少見但重要之用途是透過使用[微格式](../Page/微格式.md "wikilink")持續性支援導覽提示。若干常見之關係已被定義，可能透過瀏覽器介面傳達給使用者，而非直接於網頁中。
       -
         <link rel="next" href="''url''">
     文件之`head`元素可能包含任何數量之`link`元素。該`link` 元素擁有，但無內容。
@@ -187,7 +187,7 @@ pairs](https://zh.wikipedia.org/wiki/關聯數組 "wikilink")。一般情況之�
 meta''元素之特定目的是由其屬性來定義。
 
   -
-    在一種形式中，`meta`元素可指定應經由實際內容之前的[網頁伺服器寄送之](../Page/網頁伺服器.md "wikilink")[HTTP標頭](https://zh.wikipedia.org/wiki/HTTP "wikilink")，例如：
+    在一種形式中，`meta`元素可指定應經由實際內容之前的[網頁伺服器](../Page/網頁伺服器.md "wikilink")寄送之[HTTP標頭](https://zh.wikipedia.org/wiki/HTTP "wikilink")，例如：
       -
         <code>
         <meta http-equiv="foo" content="bar">
@@ -241,7 +241,7 @@ meta''元素之特定目的是由其屬性來定義。
 <!-- end list -->
 
   -
-    定義文件標題。在每個[HTML及](../Page/HTML.md "wikilink")[XHTML文件中為需求的](../Page/XHTML.md "wikilink")。使用者代理可以不同方式使用標題，例如：
+    定義文件標題。在每個[HTML](../Page/HTML.md "wikilink")及[XHTML](../Page/XHTML.md "wikilink")文件中為需求的。使用者代理可以不同方式使用標題，例如：
       - 網頁瀏覽器通常將之顯示在[標題列中](https://zh.wikipedia.org/wiki/標題列 "wikilink")，當視窗開啟時，或者（在適用的情況）顯示在[工作列中](https://zh.wikipedia.org/wiki/工作列 "wikilink")，當視窗最小化時。
       - 當儲存該頁面時可為預設檔案名稱。
       - [搜尋引擎之](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")[網路編目程式可能會特別注意在標題中使用的文字](https://zh.wikipedia.org/wiki/網路蜘蛛 "wikilink")。

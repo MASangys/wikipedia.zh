@@ -1,5 +1,5 @@
 《**PIKA★★NCHI
-DOUBLE**》是[嵐的第](../Page/嵐.md "wikilink")12枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年2月18日發行。唱片公司為[J
+DOUBLE**》是[嵐](../Page/嵐.md "wikilink")的第12枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年2月18日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

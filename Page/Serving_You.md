@@ -1,17 +1,17 @@
 **《Serving
-You》**為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭第四張個人大碟](../Page/衛蘭.md "wikilink")，於2008年11月27日推出，對比於上一張大碟足足相隔了兩年時間\[1\]。
+You》**為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")第四張個人大碟，於2008年11月27日推出，對比於上一張大碟足足相隔了兩年時間\[1\]。
 
 ## 簡介
 
-[衛蘭於這張大碟中花了整整兩年時間錄制歌曲](../Page/衛蘭.md "wikilink")，最後決定收錄共14首歌曲。大碟由於選曲及印刷問題幾度延遲了推出日期，間接令衛蘭此碟未能角逐任何年尾頒獎典禮獎項。雖然如此，此碟推出後外間反應不錯，未出碟前已達到白金訂單銷量（3萬訂單），被香港報章形容為市道不景氣中的逆市奇葩。大碟推出後未夠一個月，全亞洲銷量已達5白金（15萬），成績斐然。
+[衛蘭](../Page/衛蘭.md "wikilink")於這張大碟中花了整整兩年時間錄制歌曲，最後決定收錄共14首歌曲。大碟由於選曲及印刷問題幾度延遲了推出日期，間接令衛蘭此碟未能角逐任何年尾頒獎典禮獎項。雖然如此，此碟推出後外間反應不錯，未出碟前已達到白金訂單銷量（3萬訂單），被香港報章形容為市道不景氣中的逆市奇葩。大碟推出後未夠一個月，全亞洲銷量已達5白金（15萬），成績斐然。
 
 《陰天假期》一曲乃改編自道恩·湯馬斯（Dawn Thomas）的《If I'm Not in Love With
 You》，曾多次被外國歌手凱西·特羅克利（Kathy
 Troccoli）、喬蒂·華特利（Jody Watley）、「布萊恩·瓊斯城大屠殺」樂團（[Brian
 Jonestown
 Massacre](https://zh.wikipedia.org/wiki/Brian_Jonestown_Massacre "wikilink")）、[菲絲·希爾](https://zh.wikipedia.org/wiki/菲絲·希爾 "wikilink")（Faith
-Hill）翻唱，而日本歌手[伊藤由奈亦翻唱此曲](../Page/伊藤由奈.md "wikilink")（名為《Endless
-Story》），台灣歌手[張惠春翻唱此曲為](../Page/張惠春.md "wikilink")《想念你的歌》。
+Hill）翻唱，而日本歌手[伊藤由奈](../Page/伊藤由奈.md "wikilink")亦翻唱此曲（名為《Endless
+Story》），台灣歌手[張惠春](../Page/張惠春.md "wikilink")翻唱此曲為《想念你的歌》。
 
 ## 收錄歌曲
 
@@ -113,7 +113,7 @@ Cookie Can》、《愛深過做人》。
 
   - [2007年度新城勁爆頒獎禮](../Page/2007年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲 -
     《無所謂》
-  - 2009[勁歌金曲優秀選第一回](../Page/勁歌金曲.md "wikilink") - 歌曲獎 - 《就算世界無童話》
+  - 2009[勁歌金曲](../Page/勁歌金曲.md "wikilink")優秀選第一回 - 歌曲獎 - 《就算世界無童話》
   - [2009年度新城勁爆頒獎禮](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆卡拉OK歌曲 - 《就算世界無童話》
   - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲 -

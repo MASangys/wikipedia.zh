@@ -1,8 +1,8 @@
-**第四代擴充套件檔案系統**（，縮寫為**ext4**）是[Linux系統下的](../Page/Linux.md "wikilink")[日誌檔案系統](https://zh.wikipedia.org/wiki/日誌檔案系統 "wikilink")，是[ext3檔案系統的后继版本](https://zh.wikipedia.org/wiki/ext3 "wikilink")。
+**第四代擴充套件檔案系統**（，縮寫為**ext4**）是[Linux](../Page/Linux.md "wikilink")系統下的[日誌檔案系統](https://zh.wikipedia.org/wiki/日誌檔案系統 "wikilink")，是[ext3檔案系統的后继版本](https://zh.wikipedia.org/wiki/ext3 "wikilink")。
 
 ## 歷史
 
-ext4原始的開發目標是一系列的[向下兼容ext](../Page/向下兼容.md "wikilink")3、移除其64位元限制與提升其效能的延伸套件\[1\]。然而，某些[Linux開發者因穩定性原因而拒絕將這些延伸套件應用在ext](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")3上\[2\]，並要求其作為ext3的[分支](https://zh.wikipedia.org/wiki/分支_\(軟體開發\) "wikilink")，改名為ext4並另行開發，以免影響到目前的ext3使用者。該要求被接受以後，ext3維護者[曹子德](../Page/曹子德.md "wikilink")（Theodore
+ext4原始的開發目標是一系列的[向下兼容](../Page/向下兼容.md "wikilink")ext3、移除其64位元限制與提升其效能的延伸套件\[1\]。然而，某些[Linux開發者因穩定性原因而拒絕將這些延伸套件應用在ext](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")3上\[2\]，並要求其作為ext3的[分支](https://zh.wikipedia.org/wiki/分支_\(軟體開發\) "wikilink")，改名為ext4並另行開發，以免影響到目前的ext3使用者。該要求被接受以後，ext3維護者[曹子德](../Page/曹子德.md "wikilink")（Theodore
 Ts'o）在2006年6月28日公開了ext4的開發計畫\[3\]。
 
 在Linux核心2.6.19版中，首次導入ext4的一個先期開發版本\[4\]。在2008年10月11日，ext4被當成穩定版本，加入Linux
@@ -38,7 +38,7 @@ Ts'o）在2006年6月28日公開了ext4的開發計畫\[3\]。
 <!-- end list -->
 
   - 預留空間
-    ext4允許對一檔案預先保留磁碟空間。目前大多數檔案系統做到這點的方式是直接產生一個填滿0的檔案；ext4和[XFS可以使用Linux核心中的一個新的](../Page/XFS.md "wikilink")-{系統呼叫|zh-hant:系統呼叫;zh-cn:系统调用}-「fallocate()」取得足夠的預留空間。
+    ext4允許對一檔案預先保留磁碟空間。目前大多數檔案系統做到這點的方式是直接產生一個填滿0的檔案；ext4和[XFS](../Page/XFS.md "wikilink")可以使用Linux核心中的一個新的-{系統呼叫|zh-hant:系統呼叫;zh-cn:系统调用}-「fallocate()」取得足夠的預留空間。
 
 <!-- end list -->
 
@@ -60,12 +60,12 @@ Ts'o）在2006年6月28日公開了ext4的開發計畫\[3\]。
 <!-- end list -->
 
   - 在线磁盘整理
-    对于在线[磁盘整理工具有许多草案](https://zh.wikipedia.org/wiki/磁盘整理 "wikilink")，但是这些草案都没有被包含在主流的[内核当中](../Page/内核.md "wikilink")。即使Ext4包含有许多避免[磁盘碎片的技术](../Page/磁盘碎片.md "wikilink")，但是磁盘碎片还是难免会在一个长时间使用过的[文件系统中存在](../Page/文件系统.md "wikilink")。Ext4将会有一个具有磁盘整理功能的工具\[9\]。
+    对于在线[磁盘整理工具有许多草案](https://zh.wikipedia.org/wiki/磁盘整理 "wikilink")，但是这些草案都没有被包含在主流的[内核](../Page/内核.md "wikilink")当中。即使Ext4包含有许多避免[磁盘碎片](../Page/磁盘碎片.md "wikilink")的技术，但是磁盘碎片还是难免会在一个长时间使用过的[文件系统](../Page/文件系统.md "wikilink")中存在。Ext4将会有一个具有磁盘整理功能的工具\[9\]。
 
 <!-- end list -->
 
   - 快速文件系统检查
-    Ext4将未使用的区块标记在inode当中，这样可以使诸如e2fsck之类的工具在磁盘检查时将这些区块完全跳过，而节约大量的文件系统检查的时间。这个特性已经在2.6.24版本的[Linux](../Page/Linux.md "wikilink")[内核中实现](../Page/内核.md "wikilink")。
+    Ext4将未使用的区块标记在inode当中，这样可以使诸如e2fsck之类的工具在磁盘检查时将这些区块完全跳过，而节约大量的文件系统检查的时间。这个特性已经在2.6.24版本的[Linux](../Page/Linux.md "wikilink")[内核](../Page/内核.md "wikilink")中实现。
 
 ## 参见
 

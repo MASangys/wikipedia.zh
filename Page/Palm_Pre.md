@@ -1,7 +1,7 @@
 **Palm Pre**（称为**palm
 prē**），是一款由[Palm公司設計的新一代多媒體](https://zh.wikipedia.org/wiki/Palm公司 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，設有可[多点触控的屏幕及可滑出的全鍵盤](https://zh.wikipedia.org/wiki/多点触控 "wikilink")。该手机于2009年6月6日发售，是第一款采用基于[Linux](../Page/Linux.md "wikilink")\[1\]的[webOS系统的手机](https://zh.wikipedia.org/wiki/webOS "wikilink")。功能上除作為拍照手機、便攜式媒體播放器、GPS导航仪以外，更可以作为互聯網客戶端（包括[SMS](https://zh.wikipedia.org/wiki/SMS "wikilink")、[即時通訊](../Page/即時通訊.md "wikilink")、電子郵件、網頁瀏覽等）。\[2\]
 
-Palm Pre获得了许多评论者正面的评价，赢得了[CNET的Best](../Page/CNET.md "wikilink") in
+Palm Pre获得了许多评论者正面的评价，赢得了[CNET](../Page/CNET.md "wikilink")的Best in
 Show, Best in Category: Cell Phones & Smartphones奖项\[3\]和2009年的People's
 Voice奖\[4\]。
 
@@ -17,11 +17,11 @@ PDA和电话常用的触摸笔。在触摸屏下面有所谓的“手势区域�
 
 ### 传感器
 
-Pre有三个[传感器使它能了解到周围的环境](../Page/传感器.md "wikilink")。一个加速传感器，当用户在手中转动手机时，可以使一些应用程序自动改变方向。一个光线传感器使得Pre能够自动调节屏幕的亮度。一个接近传感器允许Pre在贴近脸进行通话时避免触摸输入。
+Pre有三个[传感器](../Page/传感器.md "wikilink")使它能了解到周围的环境。一个加速传感器，当用户在手中转动手机时，可以使一些应用程序自动改变方向。一个光线传感器使得Pre能够自动调节屏幕的亮度。一个接近传感器允许Pre在贴近脸进行通话时避免触摸输入。
 
 ### 相机
 
-相比原来的[Treo手机](../Page/Treo.md "wikilink")，Pre的相机有了不小的进步。Pre拥有一个320万像素的相机，并带有[LED](https://zh.wikipedia.org/wiki/LED "wikilink")[闪光灯](../Page/闪光灯.md "wikilink")，支持[扩展景深技术但不支持AF自动对焦](https://zh.wikipedia.org/wiki/扩展景深技术 "wikilink")。\[5\]\[6\]系统版本升级到1.4.0后，可以支持[摄像](https://zh.wikipedia.org/wiki/摄像 "wikilink")。
+相比原来的[Treo](../Page/Treo.md "wikilink")手机，Pre的相机有了不小的进步。Pre拥有一个320万像素的相机，并带有[LED](https://zh.wikipedia.org/wiki/LED "wikilink")[闪光灯](../Page/闪光灯.md "wikilink")，支持[扩展景深技术但不支持AF自动对焦](https://zh.wikipedia.org/wiki/扩展景深技术 "wikilink")。\[5\]\[6\]系统版本升级到1.4.0后，可以支持[摄像](https://zh.wikipedia.org/wiki/摄像 "wikilink")。
 
 ### 内部存储容量
 
@@ -31,7 +31,7 @@ Pre拥有8.0 [GB内部](https://zh.wikipedia.org/wiki/GB "wikilink")[闪存](..
 
 ### 充电
 
-Pre是第一个使用[无线充电技术的智能手机](https://zh.wikipedia.org/wiki/无线充电技术 "wikilink")，可以使用[电磁感应通过一个可选的无线充电基座](../Page/电磁感应.md "wikilink")（称为“Touchstone”，一般译为“点金石”）和一个可以单独出售的特殊的背板进行充电。\[8\]用户同时仍然可以使用手机提供的[MicroUSB线为手机充电](https://zh.wikipedia.org/wiki/MicroUSB "wikilink")。
+Pre是第一个使用[无线充电技术的智能手机](https://zh.wikipedia.org/wiki/无线充电技术 "wikilink")，可以使用[电磁感应](../Page/电磁感应.md "wikilink")通过一个可选的无线充电基座（称为“Touchstone”，一般译为“点金石”）和一个可以单独出售的特殊的背板进行充电。\[8\]用户同时仍然可以使用手机提供的[MicroUSB线为手机充电](https://zh.wikipedia.org/wiki/MicroUSB "wikilink")。
 
 ## 软件
 
@@ -48,13 +48,13 @@ webOS也支持[多点触控](https://zh.wikipedia.org/wiki/多点触控 "wikilin
 
 ### Synergy
 
-webOS拥有一个叫做Synergy的功能，可以从很多来源整合信息。webOS允许用户登录[Gmail](../Page/Gmail.md "wikilink")、[Facebook和](../Page/Facebook.md "wikilink")[Microsoft
+webOS拥有一个叫做Synergy的功能，可以从很多来源整合信息。webOS允许用户登录[Gmail](../Page/Gmail.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")和[Microsoft
 Outlook](../Page/Microsoft_Outlook.md "wikilink")（通过[Exchange
 ActiveSync](https://zh.wikipedia.org/wiki/Exchange_ActiveSync "wikilink")）的帐号。所有来源的联系人将显示在一个列表中。来自多个来源的日历可以显示在一起或单独查看。对于信息，Synergy整合了所有对话，集中到一个聊天式的窗口中。比如说，[即时通信和](https://zh.wikipedia.org/wiki/即时通信 "wikilink")[短信将被显示在一起](https://zh.wikipedia.org/wiki/短信 "wikilink")。\[9\]
 
 ### 网页浏览器
 
-webOS的网页浏览器基于[WebKit](../Page/WebKit.md "wikilink")，所以，页面可以像其他其他基于WebKit的浏览器（比如[Safari](../Page/Safari.md "wikilink")、[iPhone浏览器](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[谷歌浏览器](https://zh.wikipedia.org/wiki/谷歌浏览器 "wikilink")、以及[诺基亚](../Page/诺基亚.md "wikilink")[S60的浏览器](https://zh.wikipedia.org/wiki/S60 "wikilink")）一样显示。浏览器可以通过转动手机切换横向或者纵向显示。另外，2009年2月16日，[Adobe宣布要为](../Page/Adobe.md "wikilink")[webOS开发一个](https://zh.wikipedia.org/wiki/webOS "wikilink")[Adobe
+webOS的网页浏览器基于[WebKit](../Page/WebKit.md "wikilink")，所以，页面可以像其他其他基于WebKit的浏览器（比如[Safari](../Page/Safari.md "wikilink")、[iPhone浏览器](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[谷歌浏览器](https://zh.wikipedia.org/wiki/谷歌浏览器 "wikilink")、以及[诺基亚](../Page/诺基亚.md "wikilink")[S60的浏览器](https://zh.wikipedia.org/wiki/S60 "wikilink")）一样显示。浏览器可以通过转动手机切换横向或者纵向显示。另外，2009年2月16日，[Adobe](../Page/Adobe.md "wikilink")宣布要为[webOS开发一个](https://zh.wikipedia.org/wiki/webOS "wikilink")[Adobe
 Flash Player](../Page/Adobe_Flash_Player.md "wikilink")\[10\]。
 
 ### 同步

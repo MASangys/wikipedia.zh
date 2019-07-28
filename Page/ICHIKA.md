@@ -1,11 +1,11 @@
-**ICHIKA**，[日本的](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")。出生於[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")。Sunrise
+**ICHIKA**，[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")。出生於[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")。Sunrise
 Agency旗下AV女優。
 
 興趣、特技：羽毛球、電子琴
 
 ## 經歷
 
-  - 2006年9月 - 於[MOODYZ以專屬女優身分發表](../Page/MOODYZ.md "wikilink")『新星』一作出道。
+  - 2006年9月 - 於[MOODYZ](../Page/MOODYZ.md "wikilink")以專屬女優身分發表『新星』一作出道。
   - 2007年10月 -
     於[MBS](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")[廣播電台月一時段擔任常態主持人](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。
 

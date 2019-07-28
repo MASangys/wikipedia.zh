@@ -1,4 +1,4 @@
-《**Yelling**》是[香港女歌手](../Page/香港.md "wikilink")[謝安琪於](../Page/謝安琪.md "wikilink")2009年3月19日推出的廣東大碟，是她第六張專輯。
+《**Yelling**》是[香港](../Page/香港.md "wikilink")女歌手[謝安琪](../Page/謝安琪.md "wikilink")於2009年3月19日推出的廣東大碟，是她第六張專輯。
 
 ## 曲目
 

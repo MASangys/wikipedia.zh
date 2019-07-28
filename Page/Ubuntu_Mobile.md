@@ -7,7 +7,7 @@ Atom處理器為主的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[手持
 [Hildon](https://zh.wikipedia.org/wiki/Hildon "wikilink")
 為基礎，作為它的圖形用戶界面。
 
-設備生產商將能夠定制自己的發行版，包括選擇[Flash](https://zh.wikipedia.org/wiki/Flash "wikilink")，[Java或自定義界面](../Page/Java.md "wikilink")。
+設備生產商將能夠定制自己的發行版，包括選擇[Flash](https://zh.wikipedia.org/wiki/Flash "wikilink")，[Java](../Page/Java.md "wikilink")或自定義界面。
 
 ## Ubuntu Netbook Edition
 

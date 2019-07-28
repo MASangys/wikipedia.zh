@@ -1,6 +1,6 @@
-**GCompris**是一个教育软件包，针对2到10岁的孩子\[1\]。是[GNU组成部分](../Page/GNU.md "wikilink")。由[自由软件基金会和](../Page/自由软件基金会.md "wikilink")[联合国教科文组织维护](https://zh.wikipedia.org/wiki/联合国教科文组织 "wikilink")。\[2\]
+**GCompris**是一个教育软件包，针对2到10岁的孩子\[1\]。是[GNU](../Page/GNU.md "wikilink")组成部分。由[自由软件基金会](../Page/自由软件基金会.md "wikilink")和[联合国教科文组织维护](https://zh.wikipedia.org/wiki/联合国教科文组织 "wikilink")。\[2\]
 
-支持[i18n](https://zh.wikipedia.org/wiki/i18n "wikilink")，被翻译成50种语言，并且有由用户提供的语音，目前已有中文版本。为了宣传自由软件，[Linux完整版本免费使用](../Page/Linux.md "wikilink")，但对于Microsoft
+支持[i18n](https://zh.wikipedia.org/wiki/i18n "wikilink")，被翻译成50种语言，并且有由用户提供的语音，目前已有中文版本。为了宣传自由软件，[Linux](../Page/Linux.md "wikilink")完整版本免费使用，但对于Microsoft
 Windows用户采用[残废软件的形式发布](https://zh.wikipedia.org/wiki/残废软件 "wikilink")，版本落后，功能缺失，需要一定费用来得到完整版本。
 
 ## 特性
@@ -20,7 +20,7 @@ GCompris 有超过 100 种小游戏，例如：
 ## 历史
 
 第一个版本在2000年，由法国软件工程师Bruno
-Coudoin开发。这之后，此软件在[互联网上传播受到](../Page/互联网.md "wikilink")[GNU通用公共许可证保护](../Page/GNU通用公共许可证.md "wikilink")。Linux的教育软件中坚就是众人参与的动力。图像和游戏种类都有很大变化。
+Coudoin开发。这之后，此软件在[互联网](../Page/互联网.md "wikilink")上传播受到[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")保护。Linux的教育软件中坚就是众人参与的动力。图像和游戏种类都有很大变化。
 
 [法语](../Page/法语.md "wikilink")"J'ai compris"是此软件名的来源：意思是"I have
 understood-我理解了".\[3\]

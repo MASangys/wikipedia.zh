@@ -1,14 +1,14 @@
 **Paint.NET**是使用[.NET
-Framework開發](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，適用於[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[點陣圖形編輯](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。Paint.NET最初是一個[華盛頓州立大學的學生專案](../Page/華盛頓州立大學.md "wikilink")，而Paint.NET則發展成支援[圖層](https://zh.wikipedia.org/wiki/圖層 "wikilink")、顏色渲染、透明度及擴充元件的[小畫家替代品](https://zh.wikipedia.org/wiki/小畫家 "wikilink")。而現在Paint.NET則已經被視為[Adobe
+Framework開發](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，適用於[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[點陣圖形編輯](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。Paint.NET最初是一個[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")的學生專案，而Paint.NET則發展成支援[圖層](https://zh.wikipedia.org/wiki/圖層 "wikilink")、顏色渲染、透明度及擴充元件的[小畫家替代品](https://zh.wikipedia.org/wiki/小畫家 "wikilink")。而現在Paint.NET則已經被視為[Adobe
 Photoshop的免費替代品](../Page/Adobe_Photoshop.md "wikilink")。
 
 ## 概要
 
-Paint.NET主要使用[C\#編寫](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，部份安裝檔案及整合[Windows功能則以](https://zh.wikipedia.org/wiki/Windows "wikilink")[C++編寫](../Page/C++.md "wikilink")。Paint.NET原生圖像格式為.PDN，一種已[壓縮](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")，表達軟件內部[物件的格式](https://zh.wikipedia.org/wiki/物件_\(電腦科學\) "wikilink")，用以儲存圖層及其他資料。\[1\]Paint.NET除安裝程式、程式所用文字及圖像外皆以[MIT許可證發佈](../Page/MIT許可證.md "wikilink")。
+Paint.NET主要使用[C\#編寫](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，部份安裝檔案及整合[Windows功能則以](https://zh.wikipedia.org/wiki/Windows "wikilink")[C++](../Page/C++.md "wikilink")編寫。Paint.NET原生圖像格式為.PDN，一種已[壓縮](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")，表達軟件內部[物件的格式](https://zh.wikipedia.org/wiki/物件_\(電腦科學\) "wikilink")，用以儲存圖層及其他資料。\[1\]Paint.NET除安裝程式、程式所用文字及圖像外皆以[MIT許可證](../Page/MIT許可證.md "wikilink")發佈。
 
 ## 歷史
 
-Paint.NET原本是[華盛頓州立大學於](../Page/華盛頓州立大學.md "wikilink")2004年的一個資訊科學系大學四年級生的設計專案。1.0版本用了36,000行代碼，使用了15星期寫成。\[2\]對比起來，3.35版本約有162,000行代碼。隨後Paint.NET專案亦於同的夏季繼續，而1.1及2.0版則於2004年的下學期發佈。當時Paint.NET的開發人員是[華盛頓州立大學的](../Page/華盛頓州立大學.md "wikilink")2位學生，目前二人則於[微軟工作](https://zh.wikipedia.org/wiki/微軟 "wikilink")。
+Paint.NET原本是[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")於2004年的一個資訊科學系大學四年級生的設計專案。1.0版本用了36,000行代碼，使用了15星期寫成。\[2\]對比起來，3.35版本約有162,000行代碼。隨後Paint.NET專案亦於同的夏季繼續，而1.1及2.0版則於2004年的下學期發佈。當時Paint.NET的開發人員是[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")的2位學生，目前二人則於[微軟工作](https://zh.wikipedia.org/wiki/微軟 "wikilink")。
 
 直至[2006年5月](../Page/2006年5月.md "wikilink")，Paint.NET已被下載超過200萬次。\[3\]平均每個月180,000次。\[4\]
 
@@ -176,7 +176,7 @@ Ashton製作）及Ink Sketch及Soften Portrait效果（由David Issel製作）�
 而很多不同的擴充元件則由不同人士開發，例如Shape3D。有些的擴充元件則是擴充Paint.NET原先功能，例如Curves+及Sharpen+分別擴充了於內建於Paint.NET的曲線和銳利化工具。
 
 而檔案格式支援元件可以令Paint.NET支援更多的檔案格式，例如動畫滑鼠游標、[Adobe
-Photoshop的](../Page/Adobe_Photoshop.md "wikilink")[PSD格式等](https://zh.wikipedia.org/wiki/PSD "wikilink")。很多檔案格式支援元件都是以現有的[開源軟件作為基礎](https://zh.wikipedia.org/wiki/開源 "wikilink")，例如[RAW格式支援使用](../Page/RAW.md "wikilink")[dcraw](https://zh.wikipedia.org/wiki/dcraw "wikilink")，而PNG支援則使用[OptiPNG](https://zh.wikipedia.org/wiki/OptiPNG "wikilink")。
+Photoshop的](../Page/Adobe_Photoshop.md "wikilink")[PSD格式等](https://zh.wikipedia.org/wiki/PSD "wikilink")。很多檔案格式支援元件都是以現有的[開源軟件作為基礎](https://zh.wikipedia.org/wiki/開源 "wikilink")，例如[RAW](../Page/RAW.md "wikilink")格式支援使用[dcraw](https://zh.wikipedia.org/wiki/dcraw "wikilink")，而PNG支援則使用[OptiPNG](https://zh.wikipedia.org/wiki/OptiPNG "wikilink")。
 
 ## 線上討論區
 
@@ -188,7 +188,7 @@ Paint.NET是為[Windows設計](https://zh.wikipedia.org/wiki/Windows "wikilink")
 XP以前的Windows系統支援已經停止](../Page/Windows_XP.md "wikilink")，同時亦加入對[Windows
 Vista的支援](../Page/Windows_Vista.md "wikilink")。該軟體開源的特性促使替代版本的出現，如[Miguel
 de
-Icaza以Paint](https://zh.wikipedia.org/wiki/Miguel_de_Icaza "wikilink").NET為基礎撰寫使用[公共語言運行庫](https://zh.wikipedia.org/wiki/公共語言運行庫 "wikilink")[Mono的](../Page/Mono.md "wikilink")[Paint-Mono](https://zh.wikipedia.org/wiki/Paint-Mono "wikilink")，使[Linux及其他](../Page/Linux.md "wikilink")[Mono支援的系統得以執行Paint](../Page/Mono.md "wikilink").NET。Icaza於2007年5月宣布正式開始[Paint-Mono](https://web.archive.org/web/20070820095351/http://code.google.com/p/paint-mono/)專案。
+Icaza以Paint](https://zh.wikipedia.org/wiki/Miguel_de_Icaza "wikilink").NET為基礎撰寫使用[公共語言運行庫](https://zh.wikipedia.org/wiki/公共語言運行庫 "wikilink")[Mono](../Page/Mono.md "wikilink")的[Paint-Mono](https://zh.wikipedia.org/wiki/Paint-Mono "wikilink")，使[Linux](../Page/Linux.md "wikilink")及其他[Mono](../Page/Mono.md "wikilink")支援的系統得以執行Paint.NET。Icaza於2007年5月宣布正式開始[Paint-Mono](https://web.archive.org/web/20070820095351/http://code.google.com/p/paint-mono/)專案。
 
 ## 參見
 

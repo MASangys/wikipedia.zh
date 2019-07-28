@@ -1,9 +1,9 @@
 《**Fly Me to the Moon**》通常被譯為“帶我飛向月球”，原名《In Other
-Words》（换句话说），原是由写于1954年的一首[华尔兹舞曲](https://zh.wikipedia.org/wiki/华尔兹 "wikilink")\[1\]。在1954年第一次录制了这首歌曲。从那时起，它开始成为一首多次被翻唱的。[法蘭·仙納杜拉的](../Page/法蘭·仙納杜拉.md "wikilink")1964年录制版本与[阿波罗登月计划密切相关](https://zh.wikipedia.org/wiki/阿波罗登月计划 "wikilink")。
+Words》（换句话说），原是由写于1954年的一首[华尔兹舞曲](https://zh.wikipedia.org/wiki/华尔兹 "wikilink")\[1\]。在1954年第一次录制了这首歌曲。从那时起，它开始成为一首多次被翻唱的。[法蘭·仙納杜拉](../Page/法蘭·仙納杜拉.md "wikilink")的1964年录制版本与[阿波罗登月计划密切相关](https://zh.wikipedia.org/wiki/阿波罗登月计划 "wikilink")。
 
 ## 歌曲的创作和早期公演
 
-1954年创作这首后来以《带我飞向月球》之名而著称的歌曲时，巴特·霍华德已经投身音乐创作超过20年\[2\]。他为[卡巴萊歌手弹钢琴伴奏](../Page/卡巴萊.md "wikilink")，也同他的偶像[科尔·波特](../Page/科尔·波特.md "wikilink")一起写歌\[3\]。应发行商的发行单曲的要求\[4\]，巴特·霍华德以华尔兹曲调写了首卡巴萊民谣\[5\]名为《In
+1954年创作这首后来以《带我飞向月球》之名而著称的歌曲时，巴特·霍华德已经投身音乐创作超过20年\[2\]。他为[卡巴萊](../Page/卡巴萊.md "wikilink")歌手弹钢琴伴奏，也同他的偶像[科尔·波特](../Page/科尔·波特.md "wikilink")一起写歌\[3\]。应发行商的发行单曲的要求\[4\]，巴特·霍华德以华尔兹曲调写了首卡巴萊民谣\[5\]名为《In
 Other Words》。发行商试图让他将歌词由“fly me to the moon”改成“take me to the
 moon”，但霍华德拒绝了\[6\]。 Many years later Howard commented that
 “... it took me 20 years to find out how to write a song in 20
@@ -12,19 +12,19 @@ Words」之名推出。後來Portia Nelson也翻唱了這首歌，而「Fly Me t
 Moon」這個名字則是Johnny Mathis在1956年推出專輯之時出現的\[8\]。
 
 現在最為人所知的版本是1964年由Quincy
-Jones編曲，由[法蘭·仙納杜拉演唱並收錄於](../Page/法蘭·仙納杜拉.md "wikilink")《It
+Jones編曲，由[法蘭·仙納杜拉](../Page/法蘭·仙納杜拉.md "wikilink")演唱並收錄於《It
 Might as Well Be
 Swing》這張專輯中的版本。此時美國正推行[阿波羅10號的登月計畫](https://zh.wikipedia.org/wiki/阿波羅10號 "wikilink")，故這首歌推出之後大受歡迎，甚至成為此年代的代表曲。其受歡迎程度之甚，1969年[阿波羅11號登陸月球時艙中也播放著本曲](https://zh.wikipedia.org/wiki/阿波羅11號 "wikilink")。
 
 ## 《In Other Words》早期的录音
 
 《In Other
-Words》的第一支商业发售的录音\[9\]，这张唱片1954年4月由迪卡发布\[10\]。2010年在[YouTube上被上传的一段凯](../Page/YouTube.md "wikilink")·巴拉德录制《In
+Words》的第一支商业发售的录音\[9\]，这张唱片1954年4月由迪卡发布\[10\]。2010年在[YouTube](../Page/YouTube.md "wikilink")上被上传的一段凯·巴拉德录制《In
 Other
 Words》的影片有超过80,000的点击量\[11\]。1954年5月8日《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》上刊登的一则简单介绍讲道《In
 Other Words》是“一首唱出了巴拉德小姐的感觉的情歌”\[12\]。
 
-在接下来的几年里，许多的[爵士乐和](../Page/爵士乐.md "wikilink")[卡巴萊歌手陆续以](../Page/卡巴萊.md "wikilink")[EP或者](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")[LP录音](../Page/密紋唱片.md "wikilink")[专辑的形式发布了](../Page/音樂專輯.md "wikilink")《In
+在接下来的几年里，许多的[爵士乐](../Page/爵士乐.md "wikilink")和[卡巴萊](../Page/卡巴萊.md "wikilink")歌手陆续以[EP或者](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")[LP录音](../Page/密紋唱片.md "wikilink")[专辑的形式发布了](../Page/音樂專輯.md "wikilink")《In
 Other
 Words》这首歌的[翻唱版本](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，这其中包括了\[13\]、\[14\]、[Portia
 Nelson](https://zh.wikipedia.org/wiki/Portia_Nelson "wikilink")\[15\]以及[南希·威尔森](../Page/南希·威尔森.md "wikilink")\[16\]等。1958年在她的专辑《Eydie
@@ -36,14 +36,14 @@ Love》中翻唱了这首歌曲\[17\]，并获得了[Cashbox专辑排行榜第](
 
 1960年录制了这首歌\[20\]，而当在《》上当众表演后，则让这首歌一炮而红\[21\]。当歌曲的知名度上升后，这首歌被更多地传称为《Fly
 Me To The Moon》\[22\]。而在1963年，佩吉·李说服巴特·霍华德正式将歌名改为《Fly Me To The
-Moon》\[23\]。在20世纪60年代早期，这首歌以新歌名被许多歌手所传唱，如[納·京·高爾](../Page/納·京·高爾.md "wikilink")\[24\]、[莎拉·沃恩](../Page/莎拉·沃恩.md "wikilink")\[25\]和\[26\]。于1963年发行了这首歌的两支非英语版本：[意大利语版的](../Page/意大利语.md "wikilink")《Portami
-Con Te》\[27\]和[西班牙语版的](../Page/西班牙语.md "wikilink")《Llévame A La
+Moon》\[23\]。在20世纪60年代早期，这首歌以新歌名被许多歌手所传唱，如[納·京·高爾](../Page/納·京·高爾.md "wikilink")\[24\]、[莎拉·沃恩](../Page/莎拉·沃恩.md "wikilink")\[25\]和\[26\]。于1963年发行了这首歌的两支非英语版本：[意大利语](../Page/意大利语.md "wikilink")版的《Portami
+Con Te》\[27\]和[西班牙语](../Page/西班牙语.md "wikilink")版的《Llévame A La
 Luna》\[28\]。
 
 1962年[Joe
-Harnell改编并录制的](https://zh.wikipedia.org/wiki/Joe_Harnell "wikilink")[巴薩諾瓦风格的器乐版本并于当年年底作为单曲发行](../Page/巴薩諾瓦.md "wikilink")\[29\]。这首歌1963年在[告示牌百强单曲榜排名第](../Page/告示牌百强单曲榜.md "wikilink")14位\[30\]并帮助获得格莱美奖\[31\]。Harnell录制的版本同时也收录于他的专辑《Fly
+Harnell改编并录制的](https://zh.wikipedia.org/wiki/Joe_Harnell "wikilink")[巴薩諾瓦](../Page/巴薩諾瓦.md "wikilink")风格的器乐版本并于当年年底作为单曲发行\[29\]。这首歌1963年在[告示牌百强单曲榜](../Page/告示牌百强单曲榜.md "wikilink")排名第14位\[30\]并帮助获得格莱美奖\[31\]。Harnell录制的版本同时也收录于他的专辑《Fly
 Me To The Moon And The Bossa Nova
-Pops》中于1963年初发行\[32\]并在[公告牌二百强专辑榜上排名第](../Page/公告牌二百强专辑榜.md "wikilink")3位\[33\]。20世纪60年代，许多歌手，如\[34\]、[Al
+Pops》中于1963年初发行\[32\]并在[公告牌二百强专辑榜](../Page/公告牌二百强专辑榜.md "wikilink")上排名第3位\[33\]。20世纪60年代，许多歌手，如\[34\]、[Al
 Hirt](https://zh.wikipedia.org/wiki/Al_Hirt "wikilink")\[35\]和\[36\]等都曾翻唱过这首歌。
 
 ## 被确认为"标志性歌曲"
@@ -59,7 +59,7 @@ Hirt](https://zh.wikipedia.org/wiki/Al_Hirt "wikilink")\[35\]和\[36\]等都曾�
 
   -
     本作在每一集會使用不同的版本，真正由演唱的版本只用在第一至四、十六、十八和十九話。
-    福音戰士新劇場版：《[序](../Page/福音戰士新劇場版：序.md "wikilink")》及《[破](../Page/福音戰士新劇場版：破.md "wikilink")》預告片中使用的版本均由[宇多田光翻唱](../Page/宇多田光.md "wikilink")。\[39\]\[40\]
+    福音戰士新劇場版：《[序](../Page/福音戰士新劇場版：序.md "wikilink")》及《[破](../Page/福音戰士新劇場版：破.md "wikilink")》預告片中使用的版本均由[宇多田光](../Page/宇多田光.md "wikilink")翻唱。\[39\]\[40\]
 
 <!-- end list -->
 

@@ -17,7 +17,7 @@
 
 ### 已離開成員
 
-  - 《[蘋果姐姐-彭薇霖](../Page/蘋果姐姐.md "wikilink")》
+  - 《[蘋果姐姐](../Page/蘋果姐姐.md "wikilink")-彭薇霖》
   - 《[糖糖姐姐-張雲喬](https://zh.wikipedia.org/wiki/張雲喬 "wikilink")》
   - 《[布丁姐姐-陳櫻文](../Page/陳櫻文.md "wikilink")》
   - 《[果凍姐姐-楊晨熙](../Page/楊晨熙.md "wikilink")》
@@ -29,7 +29,7 @@
   - 《[花生哥哥-蘇靖鈞](https://zh.wikipedia.org/wiki/蘇靖鈞 "wikilink")》
   - 《[香草姐姐-林青儀](https://zh.wikipedia.org/wiki/林青儀 "wikilink")》（第一代）
   - 《[小紅莓姐姐-陳乔儿](https://zh.wikipedia.org/wiki/陳喬兒 "wikilink")》（第一代）
-  - 《[泡芙姐姐-施達伶](../Page/泡芙姐姐.md "wikilink")》
+  - 《[泡芙姐姐](../Page/泡芙姐姐.md "wikilink")-施達伶》
   - 《[糖果姐姐-張雅淇](../Page/洪淇.md "wikilink")》（第一代）
   - 《[藍莓姐姐-李牧寰](https://zh.wikipedia.org/wiki/李牧寰 "wikilink")》（第一代）
   - 《[優格姐姐-林姵君](../Page/林姵君.md "wikilink")》
@@ -52,7 +52,7 @@
 | 《》                                                                                                             |
 | 《[奇天烈大百科](../Page/奇天烈大百科.md "wikilink")》（第二季）                                                                  |
 | 《[爆丸](../Page/爆丸.md "wikilink")》（第一季，第二季起改由其他頻道播出） (加拿大、日本合作)                                                  |
-| 《[Tsubasa翼](https://zh.wikipedia.org/wiki/Tsubasa翼 "wikilink")》（第一季，前[緯來兒童台播出作品](../Page/緯來兒童台.md "wikilink")） |
+| 《[Tsubasa翼](https://zh.wikipedia.org/wiki/Tsubasa翼 "wikilink")》（第一季，前[緯來兒童台](../Page/緯來兒童台.md "wikilink")播出作品） |
 | 《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》（第一、二季）※雙語播出                                        |
 | 《[花漾明星KIRARIN](https://zh.wikipedia.org/wiki/偶像宣言 "wikilink")》（全三季播出）                                          |
 | 《[閃電霹靂車](../Page/閃電霹靂車.md "wikilink")》                                                                         |
@@ -192,7 +192,7 @@
 
 | 動畫名稱                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| 《[喜羊羊與灰太狼系列](../Page/喜羊羊與灰太狼.md "wikilink")》                                                                                    |
+| 《[喜羊羊與灰太狼](../Page/喜羊羊與灰太狼.md "wikilink")系列》                                                                                    |
 | 《[神獸金剛](../Page/神獸金剛.md "wikilink")》                                                                                            |
 | 《[豬豬俠](https://zh.wikipedia.org/wiki/豬豬俠 "wikilink")》                                                                           |
 | 《[火力少年王3](https://zh.wikipedia.org/wiki/火力少年王3 "wikilink")》                                                                     |
@@ -220,7 +220,7 @@
 
 | 動畫名稱                                                                                                     |
 | -------------------------------------------------------------------------------------------------------- |
-| 《[Bibi極光島](https://zh.wikipedia.org/wiki/Bibi極光島 "wikilink")》（前[緯來兒童台播出作品](../Page/緯來兒童台.md "wikilink")） |
+| 《[Bibi極光島](https://zh.wikipedia.org/wiki/Bibi極光島 "wikilink")》（前[緯來兒童台](../Page/緯來兒童台.md "wikilink")播出作品） |
 | 《[Mumu Hug](../Page/姆姆抱抱.md "wikilink")》                                                                 |
 | 《[魔蹤傳奇](../Page/魔蹤傳奇.md "wikilink")》                                                                     |
 | 《[超毛星](https://zh.wikipedia.org/wiki/超毛星 "wikilink")》                                                    |

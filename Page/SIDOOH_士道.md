@@ -1,13 +1,13 @@
 《**SIDOOH
-士道**》是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[高橋努在](../Page/高橋努.md "wikilink")《[週刊Young
-Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》上連載的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。描繪在[江戶時代動亂的](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")[幕末掙扎求存的少年武士們](../Page/幕末.md "wikilink")。
+士道**》是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[高橋努](../Page/高橋努.md "wikilink")在《[週刊Young
+Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》上連載的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。描繪在[江戶時代動亂的](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")[幕末](../Page/幕末.md "wikilink")掙扎求存的少年武士們。
 
 ## 登場人物
 
 ### 白連隊
 
   -
-    初登場時是[上總国生活的十四歳少年](https://zh.wikipedia.org/wiki/上總国 "wikilink")。愛称是「翔（しょう）」。遵照因[霍亂去世的母親的](../Page/霍亂.md "wikilink")「磨練本領」的遺言、帶著父親的劍、為了變強與弟弟一起向江戶出發。途中遇到清藏，與源太郎一起被賣到白心鄉作為供品，為了求生而打敗執行者朝路而被瑠儀認可。之後作為白心鄉的童連進行劍術的修行。二年後、作為白心鄉的刺客集團（白連隊）襲擊了黒船。撃沉黒船後，因瑠儀背叛、清藏遭到處刑、成為白連隊的隊長。之後一年間、為了討伐瑠儀分別在[江戶](../Page/江戶.md "wikilink")、[会津修行](../Page/会津.md "wikilink")。溫柔和善的性格，重視作為武士的禮儀。與百舌完婚，最後如願殺了瑠儀，但也身受重傷，死在返回會津的路上。
+    初登場時是[上總国生活的十四歳少年](https://zh.wikipedia.org/wiki/上總国 "wikilink")。愛称是「翔（しょう）」。遵照因[霍亂](../Page/霍亂.md "wikilink")去世的母親的「磨練本領」的遺言、帶著父親的劍、為了變強與弟弟一起向江戶出發。途中遇到清藏，與源太郎一起被賣到白心鄉作為供品，為了求生而打敗執行者朝路而被瑠儀認可。之後作為白心鄉的童連進行劍術的修行。二年後、作為白心鄉的刺客集團（白連隊）襲擊了黒船。撃沉黒船後，因瑠儀背叛、清藏遭到處刑、成為白連隊的隊長。之後一年間、為了討伐瑠儀分別在[江戶](../Page/江戶.md "wikilink")、[会津](../Page/会津.md "wikilink")修行。溫柔和善的性格，重視作為武士的禮儀。與百舌完婚，最後如願殺了瑠儀，但也身受重傷，死在返回會津的路上。
 
 <!-- end list -->
 

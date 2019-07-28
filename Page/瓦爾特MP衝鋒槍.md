@@ -2,11 +2,11 @@
 
 ## 設計
 
-唯一的區別MPL和MPK的方法就是[槍管長度](../Page/槍管.md "wikilink")。它利用一個特殊的「Ｌ」狀槍機和[反沖作用進行射擊](../Page/反沖作用_\(槍械\).md "wikilink")。槍機是[包絡式設計](../Page/包絡式槍機.md "wikilink")，因為槍機比槍管較高及大，令其[機匣縮短以縮短全槍長度](https://zh.wikipedia.org/wiki/機匣 "wikilink")。槍機導桿同時作為復進簧導桿以穿過槍機上部的通孔的方式固定於機匣中，使槍機重心放在槍機彈底窩上方。槍機和復進簧套在導桿上作往復運動時，質心只會在槍管軸線上方移動，減小槍口跳動，保持點射散佈精度。[護木具有大量散熱孔以便降低全槍溫度](https://zh.wikipedia.org/wiki/護木 "wikilink")。槍機兩側開有縱槽，容納灰塵和油泥，保證槍機能夠正常操作。[快慢機在機匣兩方](../Page/擊發調變槍械.md "wikilink")、扳機後方，以便雙手的[大拇指能夠直接操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。\[2\]而環在機匣左方、快慢機後方和護木前端。
+唯一的區別MPL和MPK的方法就是[槍管](../Page/槍管.md "wikilink")長度。它利用一個特殊的「Ｌ」狀槍機和[反沖作用進行射擊](../Page/反沖作用_\(槍械\).md "wikilink")。槍機是[包絡式設計](../Page/包絡式槍機.md "wikilink")，因為槍機比槍管較高及大，令其[機匣縮短以縮短全槍長度](https://zh.wikipedia.org/wiki/機匣 "wikilink")。槍機導桿同時作為復進簧導桿以穿過槍機上部的通孔的方式固定於機匣中，使槍機重心放在槍機彈底窩上方。槍機和復進簧套在導桿上作往復運動時，質心只會在槍管軸線上方移動，減小槍口跳動，保持點射散佈精度。[護木具有大量散熱孔以便降低全槍溫度](https://zh.wikipedia.org/wiki/護木 "wikilink")。槍機兩側開有縱槽，容納灰塵和油泥，保證槍機能夠正常操作。[快慢機在機匣兩方](../Page/擊發調變槍械.md "wikilink")、扳機後方，以便雙手的[大拇指能夠直接操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。\[2\]而環在機匣左方、快慢機後方和護木前端。
 
 MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")。下方的是覘孔式照門及柱狀準星，上方的是缺口式照門及簡易準星。下方的用於100[公尺以內](../Page/米_\(单位\).md "wikilink")，上方的用於200[公尺以內](../Page/米_\(单位\).md "wikilink")。\[3\]
 
-另外，所有瓦爾特MP的[槍托由幼](../Page/槍托.md "wikilink")[钢管製成](../Page/钢.md "wikilink")，可以向右縮折後充當[前握把](../Page/輔助握把.md "wikilink")。
+另外，所有瓦爾特MP的[槍托](../Page/槍托.md "wikilink")由幼[钢](../Page/钢.md "wikilink")管製成，可以向右縮折後充當[前握把](../Page/輔助握把.md "wikilink")。
 
 ## 衍生型
 
@@ -20,9 +20,9 @@ MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "
 ## 採用
 
 [Portuguese_Navy_Walther_MPL.JPEG](https://zh.wikipedia.org/wiki/File:Portuguese_Navy_Walther_MPL.JPEG "fig:Portuguese_Navy_Walther_MPL.JPEG")
-瓦爾特MPL和MPK衝鋒槍結構簡單，輕巧便攜，點射散佈精度良好，動作可靠，在當時確是很優秀的衝鋒槍。投產後，由於當時的西德陸軍裝備的制式衝鋒槍是[以色列](../Page/以色列.md "wikilink")[烏茲衝鋒槍合法生產型的MP](../Page/烏茲衝鋒槍.md "wikilink")2，所以MPL和MPK衝鋒槍主要是被西德警方廣泛裝備。同一時間HK公司也研製了HK54，但直到1966年才定型為MP5，在時間上已經失了先機，所以在西德國內只被少數採用。
+瓦爾特MPL和MPK衝鋒槍結構簡單，輕巧便攜，點射散佈精度良好，動作可靠，在當時確是很優秀的衝鋒槍。投產後，由於當時的西德陸軍裝備的制式衝鋒槍是[以色列](../Page/以色列.md "wikilink")[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")合法生產型的MP2，所以MPL和MPK衝鋒槍主要是被西德警方廣泛裝備。同一時間HK公司也研製了HK54，但直到1966年才定型為MP5，在時間上已經失了先機，所以在西德國內只被少數採用。
 
-此外，瓦爾特MPL和MPK衝鋒槍還出口到其他國家，例如被墨西哥海軍和葡萄牙海軍採用為製式裝備，[巴西](../Page/巴西.md "wikilink")、[哥倫比亞和](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")[委內瑞拉也購買了相當多的數量](../Page/委內瑞拉.md "wikilink")，美國海軍海豹突擊隊在越南也使用過。此時的MP5由於結構複雜、價格昂貴還沒有為人所熟悉，這種情況直到“[慕尼黑事件](https://zh.wikipedia.org/wiki/慕尼黑事件 "wikilink")”後才開始改變。
+此外，瓦爾特MPL和MPK衝鋒槍還出口到其他國家，例如被墨西哥海軍和葡萄牙海軍採用為製式裝備，[巴西](../Page/巴西.md "wikilink")、[哥倫比亞和](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")[委內瑞拉](../Page/委內瑞拉.md "wikilink")也購買了相當多的數量，美國海軍海豹突擊隊在越南也使用過。此時的MP5由於結構複雜、價格昂貴還沒有為人所熟悉，這種情況直到“[慕尼黑事件](https://zh.wikipedia.org/wiki/慕尼黑事件 "wikilink")”後才開始改變。
 
 1972年7月，西德慕尼黑奧運會上發生了巴勒斯坦“黑九月”組織劫持[以色列](../Page/以色列.md "wikilink")[運動員的恐怖事件](https://zh.wikipedia.org/wiki/運動員 "wikilink")，西德警察營救失敗導致人質全部喪生，舉世震驚。世界各國都掀起組建專門反恐部隊的熱潮，這些新組建的部隊都需要採購合適的武器。
 
@@ -124,7 +124,7 @@ MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "
   - 2009年—《[-{zh-hans:钢之炼金术师 FULLMETAL ALCHEMIST; zh-hant:鋼之鍊金術師
     FULLMETAL ALCHEMIST; zh-tw:鋼之鍊金術師 BROTHERHOOD; zh-hk:鋼之鍊金術師
     BROTHERHOOD; zh-mo:鋼之鍊金術師
-    BROTHERHOOD;}-](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》：型號為MPL，移除[槍托版被亞美斯特利斯軍士兵所使用](../Page/槍托.md "wikilink")。
+    BROTHERHOOD;}-](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》：型號為MPL，移除[槍托](../Page/槍托.md "wikilink")版被亞美斯特利斯軍士兵所使用。
 
 ## 參見
 

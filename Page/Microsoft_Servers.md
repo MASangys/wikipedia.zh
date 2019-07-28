@@ -205,7 +205,7 @@ Portal Server，在Office 2007時又加入了許多服務與伺服器，作為�
   - Forms Server：為微軟InfoPath表單的伺服器版本。
   - Groove Server：微軟的協同服務。
   - Office Communication Server：前身為Live Communication
-    Server，作為企業內部[即時通訊的伺服器](../Page/即時通訊.md "wikilink")。
+    Server，作為企業內部[即時通訊](../Page/即時通訊.md "wikilink")的伺服器。
   - SharePoint Server：入口網站級伺服器，前身為SharePoint Portal Server。
   - Search Server：專門處理企業搜尋的伺服器。
   - Project Server：與Microsoft Project協同的專案管理服務。

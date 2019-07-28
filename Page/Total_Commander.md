@@ -6,7 +6,7 @@
 。
 
 它拥有文件快速预览、快速搜索、多标签、文件比较、批量重命名、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")
-客户端等诸多实用的功能，并可通过大量的[插件进行个性化配置](../Page/插件.md "wikilink")。
+客户端等诸多实用的功能，并可通过大量的[插件](../Page/插件.md "wikilink")进行个性化配置。
 
 ## 历史发展
 
@@ -17,7 +17,7 @@ Pascal](../Page/Turbo_Pascal.md "wikilink") 写了一个小程序作为自用，
 [Delphi](../Page/Delphi.md "wikilink")。1993 年，他发布了首个公开版本 v1.00d。\[2\]
 
 从 1993 年一直到 2002 年，这 9 年中，Total Commander 使用的名称均为 Windows Commander；2002
-年夏天，[微软公司的一封来信指出](../Page/微软.md "wikilink")：“Windows
+年夏天，[微软](../Page/微软.md "wikilink")公司的一封来信指出：“Windows
 这个单词，已经被微软公司注册为[商标](../Page/商标.md "wikilink")。”为了避免不必要的法律[纠纷和](https://zh.wikipedia.org/wiki/纠纷 "wikilink")[诉讼](https://zh.wikipedia.org/wiki/诉讼 "wikilink")，软件作者于
 2002 年 10 月 23 日开始着手进行软件更名工作，并于 2002 年 10 月 29 日更名完成，且在当日发布了采用新的软件名称的
 Total Commander 5.50 正式版。同时，作者对 Total Commander 这一名称进行了商标注册保护工作。\[3\]
@@ -91,7 +91,7 @@ Total Commander 主要功能包括：
   - **压缩包支持**：压缩包可按文件夹处理，操作更方便。
   - **文件查看器**：可方便快捷地查看任意大小、多种类型的文件内容。既可以采用常规的按键，打开一个单独的查看窗口进行查看；也可以通过按键直接在
     Total Commander 窗口内进行快速查看。
-  - **快速文件注释**：支持[Descript.ion风格的文件注释](../Page/Descript.ion.md "wikilink")，兼容[ACDSee](../Page/ACDSee.md "wikilink")、[7-Zip等软件](../Page/7-Zip.md "wikilink")。
+  - **快速文件注释**：支持[Descript.ion](../Page/Descript.ion.md "wikilink")风格的文件注释，兼容[ACDSee](../Page/ACDSee.md "wikilink")、[7-Zip](../Page/7-Zip.md "wikilink")等软件。
   - **文件夹标签**：使用标签能够在多个文件夹间快速切换，左右窗口各个标签设置独立。
   - **增强的文件搜索**：可跨驱动器快速搜索文件及内容，支持多条件、通配符及正则表达式。
   - **同步及比较**：可多条件同步不同文件夹内的文件，比较并编辑不同文件间内容差异。
@@ -107,7 +107,7 @@ Total Commander 主要功能包括：
 
 <!-- end list -->
 
-  - [Total_Commander_Multi_Rename_Sample.png](https://zh.wikipedia.org/wiki/File:Total_Commander_Multi_Rename_Sample.png "fig:Total_Commander_Multi_Rename_Sample.png")**批量重命名工具**：支持多种命名方式及规则、实时预览效果，支持[通配符及](../Page/通配符.md "wikilink")[正则表达式](../Page/正则表达式.md "wikilink")。右图为
+  - [Total_Commander_Multi_Rename_Sample.png](https://zh.wikipedia.org/wiki/File:Total_Commander_Multi_Rename_Sample.png "fig:Total_Commander_Multi_Rename_Sample.png")**批量重命名工具**：支持多种命名方式及规则、实时预览效果，支持[通配符](../Page/通配符.md "wikilink")及[正则表达式](../Page/正则表达式.md "wikilink")。右图为
     Total Commander
     在尚未启用正则表达式的情况下，仅凭对话框中的选项，跨目录、多文件、一次性将一批需要整理文件名并归类的视频，进行批量重命名的实例。
 
@@ -151,8 +151,7 @@ channels\]声道-\[=mediainfo.duration.m\]分\[=mediainfo.duration.s\]秒-\[=tc.
     表示读取该文件的大小作为重命名参数，且最大显示以 [MB](../Page/Mebibyte.md "wikilink") 为单位，不足
     1MB 则自动以 [KB](https://zh.wikipedia.org/wiki/KB "wikilink")
     作为计量和显示单位，不足 1KB
-    则自动以[字节为计量和显示单位](../Page/字节.md "wikilink")，此处的
-    bkM
+    则自动以[字节](../Page/字节.md "wikilink")为计量和显示单位，此处的 bkM
     分别代表：[Byte](https://zh.wikipedia.org/wiki/Byte "wikilink")，KB，MB，由于示例图中的文件均大于
     1M 且小于 1G，故此处 \[=tc.大小.bkM\] 显示的数字效果与 \[=tc.大小.MB\] 基本一致。
 
@@ -209,7 +208,7 @@ channels\]声道-\[=mediainfo.duration.m\]分\[=mediainfo.duration.s\]秒-\[=tc.
     Office](https://zh.wikipedia.org/wiki/Open_Office "wikilink")
     各类文档、不同格式
     [Email](https://zh.wikipedia.org/wiki/Email "wikilink")
-    文档、若干格式[数据库文档](../Page/数据库.md "wikilink")、[AutoCAD](../Page/AutoCAD.md "wikilink")
+    文档、若干格式[数据库](../Page/数据库.md "wikilink")文档、[AutoCAD](../Page/AutoCAD.md "wikilink")
     文档、[CorelDRAW](../Page/CorelDRAW.md "wikilink") 文档等。\[20\]
   - VisualDirsize：用于查看文件夹内文件和/或子文件夹数量、大小等信息，并可生成报表。\[21\]
   - HtmlView：用于快速查看 htm/mht 等网页类文件，IEView的升级版，增加了一个工具栏，打开网页更快。\[22\]
@@ -217,7 +216,7 @@ channels\]声道-\[=mediainfo.duration.m\]分\[=mediainfo.duration.s\]秒-\[=tc.
     文件。\[23\]
   - FileInfo：用于查看文件（主要为[可执行文件和](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[动态链接库](../Page/动态链接库.md "wikilink")）版本、映像文件头部、DLL
     依赖等信息。\[24\]
-  - xBaseView：用于查看各种格式的[数据库文件](../Page/数据库.md "wikilink")。\[25\]
+  - xBaseView：用于查看各种格式的[数据库](../Page/数据库.md "wikilink")文件。\[25\]
 
 <!-- end list -->
 
@@ -379,10 +378,10 @@ Return
 
 ### 國際情况
 
-2005 年，[捷克语的](../Page/捷克语.md "wikilink")《Total Commander: kompletní
+2005 年，[捷克语](../Page/捷克语.md "wikilink")的《Total Commander: kompletní
 uživatelská příručka》（中文意译：《Total Commander：完整用户指南》）出版发行，全书 114
 页（部分版本显示为 120 页），用来演示所使用的版本为 Total Commander 6.01
-版。\[39\]该书也在使用相近语系的[斯洛伐克地区销售](../Page/斯洛伐克.md "wikilink")。
+版。\[39\]该书也在使用相近语系的[斯洛伐克](../Page/斯洛伐克.md "wikilink")地区销售。
 
 2009 年 4 月，[俄语版的](https://zh.wikipedia.org/wiki/俄语 "wikilink")《Total
 Commander: эффективная работа с файлами и архивами》（中文意译：《Total

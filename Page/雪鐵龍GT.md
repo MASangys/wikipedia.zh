@@ -1,6 +1,6 @@
 [CitroenGTbyCitroeninterior.JPG](https://zh.wikipedia.org/wiki/File:CitroenGTbyCitroeninterior.JPG "fig:CitroenGTbyCitroeninterior.JPG")
 [CitroenGTbyCitroen.JPG](https://zh.wikipedia.org/wiki/File:CitroenGTbyCitroen.JPG "fig:CitroenGTbyCitroen.JPG")
-**雪鐵龍GT**是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[雪鐵龍於](https://zh.wikipedia.org/wiki/雪鐵龍 "wikilink")2008年8月2日[巴黎車展發佈的](../Page/巴黎車展.md "wikilink")[概念車](../Page/概念車.md "wikilink")，採用[燃料電池技術驅動](https://zh.wikipedia.org/wiki/燃料電池 "wikilink")，本車也是雪鐵龍和日本遊戲廠商[Polyphony
+**雪鐵龍GT**是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[雪鐵龍於](https://zh.wikipedia.org/wiki/雪鐵龍 "wikilink")2008年8月2日[巴黎車展](../Page/巴黎車展.md "wikilink")發佈的[概念車](../Page/概念車.md "wikilink")，採用[燃料電池技術驅動](https://zh.wikipedia.org/wiki/燃料電池 "wikilink")，本車也是雪鐵龍和日本遊戲廠商[Polyphony
 Digital合作的產物](../Page/Polyphony_Digital.md "wikilink")，本車原本預計採極少量[量產全世界只有](https://zh.wikipedia.org/wiki/量產 "wikilink")6台，但量產計劃已取消。
 
 ## 設計
@@ -16,7 +16,7 @@ Digital的遊戲設計總監並主導了跑車浪漫旅系列的開發\[2\]，�
 Ploué小組的能力所以直接去巴黎雪鐵龍總公司提出要求實體化本車輛，並且全車一開始的設計點就是要完全重現遊戲中的車輛\[4\]。
 
 自從1998年以來Polyphony Digital模擬賽車遊戲已經累計賣出5千萬套\[5\]
-該公司也和相當多一級車廠合作，尤其是2002一月後開始和[日產汽車結盟](../Page/日產汽車.md "wikilink")，相當多車交由PD設計外觀和部件：
+該公司也和相當多一級車廠合作，尤其是2002一月後開始和[日產汽車](../Page/日產汽車.md "wikilink")結盟，相當多車交由PD設計外觀和部件：
 
   - [Nismo Fairlady Z
     s-tune](https://zh.wikipedia.org/wiki/Nissan_350Z "wikilink") (2002)

@@ -1,13 +1,13 @@
-是2003年12月13日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[哥斯拉系列電影的第](../Page/哥斯拉系列電影.md "wikilink")27集。日本票房收入約13億日圓，觀賞人次110萬人。
+是2003年12月13日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[哥斯拉系列電影](../Page/哥斯拉系列電影.md "wikilink")的第27集。日本票房收入約13億日圓，觀賞人次110萬人。
 
-本片是「千禧年系列」中唯一的續集，直接延續前作《[哥斯拉×機械哥斯拉](https://zh.wikipedia.org/wiki/哥斯拉×機械哥斯拉 "wikilink")》，但前作的主角[釋由美子僅短暫登場](../Page/釋由美子.md "wikilink")，本片的主角是[金子昇](https://zh.wikipedia.org/wiki/金子昇 "wikilink")，飾演「機龍」的維修士官。
+本片是「千禧年系列」中唯一的續集，直接延續前作《[哥斯拉×機械哥斯拉](https://zh.wikipedia.org/wiki/哥斯拉×機械哥斯拉 "wikilink")》，但前作的主角[釋由美子](../Page/釋由美子.md "wikilink")僅短暫登場，本片的主角是[金子昇](https://zh.wikipedia.org/wiki/金子昇 "wikilink")，飾演「機龍」的維修士官。
 
-本片劇情也延續1961年上映的《[魔斯拉](https://zh.wikipedia.org/wiki/魔斯拉_\(1961\) "wikilink")》，特別找來參與過1961年電影演出的[小泉博飾演同一角色](https://zh.wikipedia.org/wiki/小泉博 "wikilink")（中條信一）。這是唯一一部[魔斯拉和](https://zh.wikipedia.org/wiki/魔斯拉 "wikilink")[機械哥斯拉同時登場的哥吉拉電影](https://zh.wikipedia.org/wiki/機械哥斯拉 "wikilink")，魔斯拉在本片中以卵、幼虫、成虫的型態登場（但沒有結繭）、魔斯拉精靈（[小美人](../Page/小美人.md "wikilink")）也再度登場，由同屆「東寶灰姑娘」出身的[大塚千弘及](../Page/大塚千弘.md "wikilink")[長澤雅美演出](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")。
+本片劇情也延續1961年上映的《[魔斯拉](https://zh.wikipedia.org/wiki/魔斯拉_\(1961\) "wikilink")》，特別找來參與過1961年電影演出的[小泉博飾演同一角色](https://zh.wikipedia.org/wiki/小泉博 "wikilink")（中條信一）。這是唯一一部[魔斯拉和](https://zh.wikipedia.org/wiki/魔斯拉 "wikilink")[機械哥斯拉同時登場的哥吉拉電影](https://zh.wikipedia.org/wiki/機械哥斯拉 "wikilink")，魔斯拉在本片中以卵、幼虫、成虫的型態登場（但沒有結繭）、魔斯拉精靈（[小美人](../Page/小美人.md "wikilink")）也再度登場，由同屆「東寶灰姑娘」出身的[大塚千弘](../Page/大塚千弘.md "wikilink")及[長澤雅美演出](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")。
 
 ## 劇情概要
 
-一年前與[哥斯拉作戰](../Page/哥斯拉.md "wikilink")，機龍損失慘重，失去了右手和絕對零度砲。
-維修基地的人員中條義人一次在他叔叔信一的別墅度假時，嬰兒島的小美人來給他一個忠告：人類用[哥斯拉的骨骸製造機龍其實是個嚴重的錯誤](../Page/哥斯拉.md "wikilink")，若出動機龍，[魔斯拉就會與人類為敵](https://zh.wikipedia.org/wiki/魔斯拉 "wikilink")。於是信一想辦法說服老友也是首相的五十嵐，希望能中止機龍的計畫，但此時[哥斯拉又在太平洋出現](../Page/哥斯拉.md "wikilink")......
+一年前與[哥斯拉](../Page/哥斯拉.md "wikilink")作戰，機龍損失慘重，失去了右手和絕對零度砲。
+維修基地的人員中條義人一次在他叔叔信一的別墅度假時，嬰兒島的小美人來給他一個忠告：人類用[哥斯拉](../Page/哥斯拉.md "wikilink")的骨骸製造機龍其實是個嚴重的錯誤，若出動機龍，[魔斯拉就會與人類為敵](https://zh.wikipedia.org/wiki/魔斯拉 "wikilink")。於是信一想辦法說服老友也是首相的五十嵐，希望能中止機龍的計畫，但此時[哥斯拉](../Page/哥斯拉.md "wikilink")又在太平洋出現......
 
 ## 登場怪獸
 

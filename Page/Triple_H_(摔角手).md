@@ -10,13 +10,13 @@ TripleH在1993年於[世界冠軍摔角](../Page/世界冠軍摔角.md "wikilink
 Lévesque**\[3\]。他於1995年加入世界摔角娛樂（WWE），使用的擂台名為Hunter Hearst
 Helmsley\[4\]。隨後他將擂台名縮寫為TripleH，並且加入了世界摔角娛樂史上最成功的組合——[D-Generation
 X](../Page/D-Generation_X.md "wikilink") （DX）。在D-Generation
-X解散後，他被捧上了主要角色的地位，贏得了數次個人冠軍腰帶\[5\]。隨著節目劇情發展，TripleH娶了總裁[文斯·麥馬漢的女兒](../Page/文斯·麥馬漢.md "wikilink")[史蒂芬妮·麥馬漢](../Page/史蒂芬妮·麥馬漢.md "wikilink")，但之後在現實生活中真的娶了她。
+X解散後，他被捧上了主要角色的地位，贏得了數次個人冠軍腰帶\[5\]。隨著節目劇情發展，TripleH娶了總裁[文斯·麥馬漢](../Page/文斯·麥馬漢.md "wikilink")的女兒[史蒂芬妮·麥馬漢](../Page/史蒂芬妮·麥馬漢.md "wikilink")，但之後在現實生活中真的娶了她。
 
 2003年，TripleH成立了名為[進化論的隊伍](../Page/進化論_\(摔角\).md "wikilink")\[6\]。2006年及2009年與[尚恩·麥可](../Page/尚恩·麥可.md "wikilink")（Shawn
 Michaels）重組了D-Generation X，2010年隨著尚恩·麥可退休，該團體也正式宣告解散\[7\]。
 
 除了在摔角上的演出以外，TripleH也參與過多部電影與有線電視節目的演出。 在2016年的[Royal
-Rumble傷後回歸](https://zh.wikipedia.org/wiki/Royal_Rumble "wikilink")，成功淘汰[羅曼·瑞恩斯並拿下](../Page/羅曼·瑞恩斯.md "wikilink")[WWE世界重量級冠軍](https://zh.wikipedia.org/wiki/WWE世界重量級冠軍 "wikilink")，成為個人第9次的世界重量級冠軍王者，但在[摔角狂熱上輸給了羅曼](../Page/摔角狂熱.md "wikilink")·瑞恩斯讓出了冠軍腰帶。
+Rumble傷後回歸](https://zh.wikipedia.org/wiki/Royal_Rumble "wikilink")，成功淘汰[羅曼·瑞恩斯](../Page/羅曼·瑞恩斯.md "wikilink")並拿下[WWE世界重量級冠軍](https://zh.wikipedia.org/wiki/WWE世界重量級冠軍 "wikilink")，成為個人第9次的世界重量級冠軍王者，但在[摔角狂熱](../Page/摔角狂熱.md "wikilink")上輸給了羅曼·瑞恩斯讓出了冠軍腰帶。
 
 ## 職業生涯
 
@@ -34,7 +34,7 @@ Ryzing的擂台名出道，半年後就獲得該聯盟的重量級冠軍\[15\]�
 
 ### 世界冠軍摔角聯盟時期
 
-1994年初，李維斯克與[世界冠軍摔角簽了一紙一年的短約](../Page/世界冠軍摔角.md "wikilink")\[16\]\[17\]，他第一次於電視表現賽出賽時，扮演了反派的角色，並且擊敗了[Brian
+1994年初，李維斯克與[世界冠軍摔角](../Page/世界冠軍摔角.md "wikilink")簽了一紙一年的短約\[16\]\[17\]，他第一次於電視表現賽出賽時，扮演了反派的角色，並且擊敗了[Brian
 Armstrong](https://zh.wikipedia.org/wiki/Brian_Armstrong "wikilink")。從這個時期起，他開始使用他的招牌終結技*Pedigree*。
 
 此時他仍延用IWF時期的擂台名Terra Ryzing直到1994年中，才改名為Jean-Paul
@@ -58,7 +58,7 @@ Helmsley這個擂台名，角色設定成一名溫文儒雅的[康乃狄克州](
 因為1993年時[Hulk
 Hogan帶著大批摔角名星轉投WCW](https://zh.wikipedia.org/wiki/Hulk_Hogan "wikilink")，使得原氣大傷的WWF迫切的需要提拔新生代明星，WWF總裁文斯·麥馬漢決定大膽的採用新人，Triple
 H就在這種情況下與[尚恩·麥可](../Page/尚恩·麥可.md "wikilink")、[Stone Cold Steve
-Austin](https://zh.wikipedia.org/wiki/Stone_Cold_Steve_Austin "wikilink")、[巨石強森等人一起被力捧](../Page/巨石強森.md "wikilink")。僅管如此，他的角色在出道戰後並不受到觀眾喜愛，他當時與扮演阿拉巴馬州養豬農家的Henry
+Austin](https://zh.wikipedia.org/wiki/Stone_Cold_Steve_Austin "wikilink")、[巨石強森](../Page/巨石強森.md "wikilink")等人一起被力捧。僅管如此，他的角色在出道戰後並不受到觀眾喜愛，他當時與扮演阿拉巴馬州養豬農家的Henry
 O
 Godwin展開抗爭劇情。甚至演出在比賽中還被潑豬飼料、在會場內設置的豬圈裡進行比賽等完全無法與現在的身分做聯想的表演。在當年的皇家大戰中他雖然也有出場，但是也輕易的就被淘汰了\[29\]\[30\]。
 
@@ -137,8 +137,8 @@ H隨後也拿下了挑戰這個冠軍頭銜的權利。兩人在1999年1月25日
 H被迫投降輸掉比賽，因為在場邊的Chyna被[肯恩以終結技](../Page/肯恩_\(摔角手\).md "wikilink")*喉掄落*舉起，如果Triple
 H不投降，Chyna就會被終結\[56\]。但是賽後Chyna背叛了Triple H，攻擊了他並且退出DX，加入公司幫\[57\]。
 
-接著在第15屆的[摔角狂熱上](../Page/摔角狂熱.md "wikilink")，Triple
-H藉由Chyna的幫助打敗了肯恩，表面上看起來好像Chyna又加入了DX\[58\]，但是當天稍晚當[辛恩·麥馬漢對上](../Page/辛恩·麥馬漢.md "wikilink")[X-Pac時](https://zh.wikipedia.org/wiki/X-Pac "wikilink")，Triple
+接著在第15屆的[摔角狂熱](../Page/摔角狂熱.md "wikilink")上，Triple
+H藉由Chyna的幫助打敗了肯恩，表面上看起來好像Chyna又加入了DX\[58\]，但是當天稍晚當[辛恩·麥馬漢](../Page/辛恩·麥馬漢.md "wikilink")對上[X-Pac時](https://zh.wikipedia.org/wiki/X-Pac "wikilink")，Triple
 H卻偷襲了X-Pac讓辛恩保住了歐洲冠軍腰帶，隨後Triple H宣佈加入公司幫\[59\]。Triple
 H轉為反派後，造型也有了改變，他換了新的摔角短褲，頭髮也剪短了\[60\]。之後他嘗試爭奪冠軍頭銜，在1999年的[夏日衝擊上](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")，Triple
 H、[Mankind](https://zh.wikipedia.org/wiki/Mankind "wikilink")、跟當時的WWF冠軍[Stone
@@ -168,19 +168,19 @@ H強娶了史蒂芬妮（現實生活中兩人於2003年10月25日才正式結�
 Ross也給了他一個綽號](https://zh.wikipedia.org/wiki/Jim_Ross "wikilink")「聰敏的暗殺者」（Cerebral
 Assassin）。同時他與史蒂芬妮也開始控制WWF長達17個月\[64\]。
 
-早在1999年[Mankind](https://zh.wikipedia.org/wiki/Mankind "wikilink")（[米克·佛利的擂台角色之一](../Page/米克·佛利.md "wikilink")）在夏日衝擊大賽中奪得WWF冠軍腰帶，卻在第二天被Triple
+早在1999年[Mankind](https://zh.wikipedia.org/wiki/Mankind "wikilink")（[米克·佛利](../Page/米克·佛利.md "wikilink")的擂台角色之一）在夏日衝擊大賽中奪得WWF冠軍腰帶，卻在第二天被Triple
 H搶走起，兩人就開始了長期抗爭的劇情，Mankind甚至化身成擁有更暴力人格的[仙人掌傑克來對抗Triple](https://zh.wikipedia.org/wiki/仙人掌傑克 "wikilink")
 H。2000年皇家大賽上，Triple
 H與仙人掌傑克打了一場*街頭格鬥*（硬蕊賽），仙人掌傑克使用纏繞著有刺鐵絲網木棒、[圖釘](https://zh.wikipedia.org/wiki/圖釘 "wikilink")、襪子等武器攻擊Triple
 H，兩人進行了十分慘烈的比賽，最後Triple
 H在灑滿圖釘的地面上對仙人掌傑克使出終結技*Pedigree*才獲得勝利，但米克·佛利不服，再度提出挑戰並揚言如果輸了就退休。於是2000年2月，他與化身成仙人掌傑克的米克·佛利在[無路可逃大賽上又進行了一場](https://zh.wikipedia.org/wiki/無路可逃 "wikilink")*地獄鐵籠戰*，最後Triple
 H獲勝，並依照賽前的約定逼迫米克退休，米克因此引退了4年\[65\]。Triple
-H在2000年[摔角狂熱的壓軸戰中](../Page/摔角狂熱.md "wikilink")，一口氣擊退The
+H在2000年[摔角狂熱](../Page/摔角狂熱.md "wikilink")的壓軸戰中，一口氣擊退The
 Rock、米克·佛利（退休狀態，但臨時被史蒂芬妮找來當打手）、Big
 Show與當上WWF女子冠軍的史蒂芬妮等四名對手，成功防衛冠軍\[66\]，之後也與The
 Rock、老婆的『偷情對象』Kurt
 Angle展開圍繞著WWF冠軍的激烈抗爭，在2000年的[爆裂震撼大賽上他敗給了The](https://zh.wikipedia.org/wiki/爆裂震撼 "wikilink")
-Rock\[67\]，三週後他在[末日審判賽事上進行](https://zh.wikipedia.org/wiki/末日審判_\(摔角\) "wikilink")*鐵人戰*，再度贏得頭銜\[68\]，卻又在2000年的[擂台之王大賽上再次輸給The](../Page/擂台之王.md "wikilink")
+Rock\[67\]，三週後他在[末日審判賽事上進行](https://zh.wikipedia.org/wiki/末日審判_\(摔角\) "wikilink")*鐵人戰*，再度贏得頭銜\[68\]，卻又在2000年的[擂台之王](../Page/擂台之王.md "wikilink")大賽上再次輸給The
 Rock\[69\]。之後Triple H開始另一段與[Chris
 Jericho的抗爭](https://zh.wikipedia.org/wiki/Chris_Jericho "wikilink")，兩人在2000年的[Fully
 Loaded大賽上打了一場](https://zh.wikipedia.org/wiki/Fully_Loaded "wikilink")*Last
@@ -196,7 +196,7 @@ H連車帶人舉到10呎的高度再重重摔下，這段抗爭一直延伸到20
 Stages of Hell才停止。
 
 2000年時因為Triple H楊言：「WWF
-中還沒有我不能擊敗的人」，引發[送葬者的挑戰](../Page/送葬者_\(摔角手\).md "wikilink")，兩人在2001年的[摔角狂熱上對決](../Page/摔角狂熱.md "wikilink")，Triple
+中還沒有我不能擊敗的人」，引發[送葬者的挑戰](../Page/送葬者_\(摔角手\).md "wikilink")，兩人在2001年的[摔角狂熱](../Page/摔角狂熱.md "wikilink")上對決，Triple
 H被送葬者擊敗\[71\]。之後他與舊敵Steve Austin組成*The Power
 Trip*的雙打搭擋，成功的拿下了WWF雙打冠軍以及兩次歐洲冠軍\[72\]。
 
@@ -212,7 +212,7 @@ H完全錯過了WWF與[WCW兩大聯盟對抗的劇情](https://zh.wikipedia.org/
 #### 傷癒復出 (2002)
 
 2002年1月7日，WWE在[麥迪遜廣場花園舉辦](https://zh.wikipedia.org/wiki/麥迪遜廣場花園 "wikilink")[皇家大戰](../Page/皇家大戰.md "wikilink")，同時也讓Triple
-H在該賽事中復出\[77\]。他被安排贏得皇家大戰的冠軍，以獲取在第18屆[摔角狂熱上挑戰WWF無庸置疑冠軍頭銜的權利](../Page/摔角狂熱.md "wikilink")\[78\]。2月時因為劇情走向，Triple
+H在該賽事中復出\[77\]。他被安排贏得皇家大戰的冠軍，以獲取在第18屆[摔角狂熱](../Page/摔角狂熱.md "wikilink")上挑戰WWF無庸置疑冠軍頭銜的權利\[78\]。2月時因為劇情走向，Triple
 H與史蒂芬妮·麥馬漢的婚姻關係逐漸緊張，因此史蒂芬妮假裝[懷孕以騙取Triple](https://zh.wikipedia.org/wiki/懷孕 "wikilink")
 H的關愛\[79\]，原本預定兩人在*Raw*節目中要重新宣示愛的宣言，但是在宣誓前Triple
 H發現史蒂芬妮並未懷孕，於是愛宣誓典禮上當眾拋棄了史蒂芬妮\[80\]。因此在第18屆摔角狂熱大賽上，他面對的是現任冠軍[Chris
@@ -222,11 +222,11 @@ Hogan](https://zh.wikipedia.org/wiki/Hulk_Hogan "wikilink")\[85\]，同時WWE因
 H經由樂透抽選至SmackDown\!。在移籍SmackDown\!他仍繼續對抗Chris
 Jericho，最後兩人在2002年[末日審判賽事上進行](https://zh.wikipedia.org/wiki/末日審判_\(摔角\) "wikilink")*地獄鐵籠戰*，Triple
 H贏得勝利。之後Triple H打敗了Hulk
-Hogan取得在2002年[擂台之王大賽上挑戰](../Page/擂台之王.md "wikilink")[送葬者的資格](../Page/送葬者_\(摔角手\).md "wikilink")，但是最後挑戰失敗，送葬者成功防衛冠軍。
+Hogan取得在2002年[擂台之王](../Page/擂台之王.md "wikilink")大賽上挑戰[送葬者的資格](../Page/送葬者_\(摔角手\).md "wikilink")，但是最後挑戰失敗，送葬者成功防衛冠軍。
 
 [HHH_after_winning_the_WWE_Undisputed_Championship.jpg](https://zh.wikipedia.org/wiki/File:HHH_after_winning_the_WWE_Undisputed_Championship.jpg "fig:HHH_after_winning_the_WWE_Undisputed_Championship.jpg")
 
-此時，傷癒復出的[尚恩·麥可加入了](../Page/尚恩·麥可.md "wikilink")[New World
+此時，傷癒復出的[尚恩·麥可](../Page/尚恩·麥可.md "wikilink")加入了[New World
 Order](https://zh.wikipedia.org/wiki/New_World_Order "wikilink")
 (nWo)，尚恩·麥可與[Kevin
 Nash想拉攏Triple](https://zh.wikipedia.org/wiki/Kevin_Nash "wikilink")
@@ -245,7 +245,7 @@ H成功防衛這條腰帶直到2002年強者生存大賽，他在*行刑房大�
 
 [Triple_H-WorldHeavyweight-Champ@Commons.jpg](https://zh.wikipedia.org/wiki/File:Triple_H-WorldHeavyweight-Champ@Commons.jpg "fig:Triple_H-WorldHeavyweight-Champ@Commons.jpg")
 2003年1月，Triple
-H與[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")、[蘭迪·歐頓](../Page/蘭迪·歐頓.md "wikilink")、[巴帝斯塔組成了反派團體](../Page/巴帝斯塔.md "wikilink")[進化論](../Page/進化論_\(摔角\).md "wikilink")。這個團隊活躍於2003年及2004年，全盛時期為2003年的[世界末日大賽](https://zh.wikipedia.org/wiki/世界末日_\(摔角\) "wikilink")，當時所有的進化論成員都擁有一個冠軍腰帶頭銜\[90\]。但新人巴帝斯塔、蘭迪·歐頓相繼受傷長期缺賽，很快地該團體就只剩Triple
+H與[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")、[蘭迪·歐頓](../Page/蘭迪·歐頓.md "wikilink")、[巴帝斯塔](../Page/巴帝斯塔.md "wikilink")組成了反派團體[進化論](../Page/進化論_\(摔角\).md "wikilink")。這個團隊活躍於2003年及2004年，全盛時期為2003年的[世界末日大賽](https://zh.wikipedia.org/wiki/世界末日_\(摔角\) "wikilink")，當時所有的進化論成員都擁有一個冠軍腰帶頭銜\[90\]。但新人巴帝斯塔、蘭迪·歐頓相繼受傷長期缺賽，很快地該團體就只剩Triple
 H和瑞克·福萊爾兩人活躍。雖說Triple H在這時期算是Raw重要的存在，但就整體來說是他聲勢下滑的時期。他的對手也大多是[Scott
 Steiner](https://zh.wikipedia.org/wiki/Scott_Steiner "wikilink")、[Booker
 T](https://zh.wikipedia.org/wiki/Booker_T "wikilink")、[Kevin
@@ -255,10 +255,10 @@ H的技術再怎麼好也無法打出名勝負。
 Triple
 H維持了幾乎一整年的重量級冠軍頭銜，直到2003年的殺無赦大賽暫時被Goldberg奪下。但在巴帝斯塔、蘭迪·歐頓傷癒歸隊後，他便在2003年的[世界末日大賽Triple](https://zh.wikipedia.org/wiki/世界末日_\(摔角\) "wikilink")
 Threat
-Match中再度君臨世界重量級王座。2004年他和技巧派選手尚恩·麥可久違兩年的戰爭再度引爆，兩人在2004年[皇家大戰中打了一場Last](../Page/皇家大戰.md "wikilink")
+Match中再度君臨世界重量級王座。2004年他和技巧派選手尚恩·麥可久違兩年的戰爭再度引爆，兩人在2004年[皇家大戰](../Page/皇家大戰.md "wikilink")中打了一場Last
 Man Standing，但結果是兩人同時數秒至10，Triple H保住了他的冠軍腰帶\[91\]。
 
-在第二十屆[摔角狂熱上](../Page/摔角狂熱.md "wikilink")，他被[克里斯·班瓦擊敗](https://zh.wikipedia.org/wiki/克里斯·班瓦 "wikilink")，失去了冠軍腰帶\[92\]。並且在之後的數次冠軍腰帶挑戰賽中，Triple
+在第二十屆[摔角狂熱](../Page/摔角狂熱.md "wikilink")上，他被[克里斯·班瓦擊敗](https://zh.wikipedia.org/wiki/克里斯·班瓦 "wikilink")，失去了冠軍腰帶\[92\]。並且在之後的數次冠軍腰帶挑戰賽中，Triple
 H都不能擊敗克里斯·班瓦奪回腰帶\[93\]。Triple
 H在奪回王座前與尚恩·麥可產生抗爭，在2004年[邪惡基因賽事上與尚恩](https://zh.wikipedia.org/wiki/邪惡基因 "wikilink")·麥可進行*地獄鐵籠戰*並獲得勝利\[94\]。之後他將重心轉往欺負[Eugene上](https://zh.wikipedia.org/wiki/Eugene "wikilink")，並在2004年夏日衝擊大賽中痛擊Eugene，結果此時王座落入同屬進化論團隊，擊敗克里斯·班瓦的蘭迪·歐頓手中\[95\]。Triple
 H因這件事對蘭迪·歐頓懷恨在心，便把他踢出進化論團隊。Raw的主線劇情之後便發展成進化論團隊槓上蘭迪·歐頓、克里斯·班瓦、克里斯·傑利可等正派巨星軍團的抗爭。之後在2004年的殺無赦大賽上，Triple
@@ -281,7 +281,7 @@ H贏得比賽並結束了這段鬥爭\[105\]。
 雖然Triple
 H在2006年的皇家大戰中落敗，但是他在*通往摔角狂熱之路*的系列賽中獲勝，因此得到了在第22屆摔角狂熱上挑戰WWE冠軍頭銜的機會。在摔角狂熱賽事上，他與John
 Cena在主賽事中對戰，爭奪WWE冠軍，但最後落敗於John
-Cena的*STF*\[106\]。在之後舉辦的2006年爆裂震撼賽事上，他再度與Edge及[約翰·希南舉行三人合戰](../Page/約翰·希南.md "wikilink")，挑戰WWE冠軍，卻依舊失敗。一連串的敗給新生代選手讓Triple
+Cena的*STF*\[106\]。在之後舉辦的2006年爆裂震撼賽事上，他再度與Edge及[約翰·希南](../Page/約翰·希南.md "wikilink")舉行三人合戰，挑戰WWE冠軍，卻依舊失敗。一連串的敗給新生代選手讓Triple
 H心有不-{干}-，他拿出他的大鐵鎚痛歐了Edge及約翰·希南，並做出了DX那招牌動作"Suck
 It\!"\[107\]。在多次挑戰冠軍腰帶失敗後，Triple H將問題矛頭指向Vince
 McMahon，導致兩人之間開始鬥爭。
@@ -318,7 +318,7 @@ Man Standing賽事，最後蘭迪在撥報台上對Triple H使出*RKO*贏得比�
 H在完全終結賽事上只維持了很短暫的冠軍頭銜，以時間來說，是WWE史上第4短的\[120\]。在2008年的無路可逃大賽裡的*行刑房大戰*中，Triple
 H打敗了其他五名選手，取得了在第24屆摔角狂熱上挑戰WWE冠軍腰帶的權利\[121\]。在第24屆摔角狂熱進行3人合戰時，Triple
 H對約翰·希南使出*Pedigree*後，被蘭迪·歐頓給偷襲，接著蘭迪壓制了約翰·希南，成功防衛了冠軍腰帶\[122\]。但在一個月後的爆裂震撼賽事上，Triple
-H在4人合戰中打敗了蘭迪·歐頓、約翰·希南跟[JBL再次奪下WWE冠軍頭銜](../Page/JBL.md "wikilink")\[123\]。之後在2008年的末日審判大賽上，與同年的狂潮再起大賽中，Triple
+H在4人合戰中打敗了蘭迪·歐頓、約翰·希南跟[JBL](../Page/JBL.md "wikilink")再次奪下WWE冠軍頭銜\[123\]。之後在2008年的末日審判大賽上，與同年的狂潮再起大賽中，Triple
 H持續的接受了蘭迪的挑戰，也都成功防衛\[124\]\[125\]。但是在狂潮再起大賽中蘭迪·歐頓的鎖骨受傷，這段抗爭因而就此斷然結束\[126\]。
 
 #### 移籍SmackDown (2008–2009)
@@ -327,7 +327,7 @@ H持續的接受了蘭迪的挑戰，也都成功防衛\[124\]\[125\]。但是�
 2008年6月23日，Raw舉辦2008年WWE樂透，Triple
 H被抽選到SmackDown\!，同時也帶著WWE冠軍腰帶到SmackDown\!\[127\]。之後他成功的防衛了Edge、[The
 Great
-Khali跟](https://zh.wikipedia.org/wiki/The_Great_Khali "wikilink")[傑夫·哈迪等人的挑戰](../Page/傑夫·哈迪.md "wikilink")，此時新出道的[Vladimir
+Khali跟](https://zh.wikipedia.org/wiki/The_Great_Khali "wikilink")[傑夫·哈迪](../Page/傑夫·哈迪.md "wikilink")等人的挑戰，此時新出道的[Vladimir
 Kozlov盯上了Triple](https://zh.wikipedia.org/wiki/Vladimir_Kozlov "wikilink")
 H的冠軍腰帶，展開了兩人的抗爭劇情，最後在2008年的強者生存賽事上，Triple H與Edge、Vladimir
 Kozlov進行三人合戰，結果將頭銜輸給了Edge\[128\]。2009年的無路可逃賽事中，Triple
@@ -384,9 +384,9 @@ H漢堡」並請他參與廣告演出\[136\]。
 
 ### 電影
 
-李維斯克曾參與電影[刀鋒戰士3的演出](../Page/刀鋒戰士3.md "wikilink")，扮演一位名叫Jarko
+李維斯克曾參與電影[刀鋒戰士3](../Page/刀鋒戰士3.md "wikilink")的演出，扮演一位名叫Jarko
 Grimwood的吸血鬼\[137\]。這是他首次在電影中擔任大配角。該電影於2004年12月8日在全美上映。日語
-版的配音則是由[新日本摔角的](https://zh.wikipedia.org/wiki/新日本摔角 "wikilink")[蝶野正洋擔任](../Page/蝶野正洋.md "wikilink")。在多位摔角手參與的暴力運動電影《[鐵男躲避球](https://zh.wikipedia.org/wiki/鐵男躲避球 "wikilink")》亦有演出。
+版的配音則是由[新日本摔角的](https://zh.wikipedia.org/wiki/新日本摔角 "wikilink")[蝶野正洋](../Page/蝶野正洋.md "wikilink")擔任。在多位摔角手參與的暴力運動電影《[鐵男躲避球](https://zh.wikipedia.org/wiki/鐵男躲避球 "wikilink")》亦有演出。
 
 李維斯克也在數部[WWE家庭影片中出現](https://zh.wikipedia.org/wiki/WWE家庭影片 "wikilink")，包括*Triple
 H: The Game*、*Triple H: That Damn Good*、*D-Generation-X*、*The New and
@@ -396,7 +396,7 @@ Improved DX*以及一部詳述他摔角生涯的DVD*Triple H: King of Kings*\[13
 
 ## 私生活
 
-在與[史蒂芬妮·麥馬漢結婚前](../Page/史蒂芬妮·麥馬漢.md "wikilink")，李維斯克曾與Joanie Laurer
+在與[史蒂芬妮·麥馬漢](../Page/史蒂芬妮·麥馬漢.md "wikilink")結婚前，李維斯克曾與Joanie Laurer
 (另一名DX成員[Chyna](../Page/柴娜.md "wikilink")).\[139\]與1996年～2000年間交往\[140\]。Chyna在2000年出版的自傳「If
 They Only
 Knew」也記載這這件事。史蒂芬妮和李維斯克在2001年後才真的開始發展戀愛關係。在劇情上他在1999年11月29日與史蒂芬妮結婚，2002年7月21日離婚，但在現實生活中李維斯克與史蒂芬妮於2003年10月25日才正式結婚，2006年1月8日WWE宣佈了史蒂芬妮懷孕的消息\[141\]。史蒂芬妮於懷孕期間仍繼續工作並跟著WWE團隊旅行。2006年7月24日，史蒂芬妮生下一名8磅6盎斯(3.8
@@ -606,8 +606,8 @@ Body.*的書，內容主要在指導人們如何健身，但其中也包含了�
     [Shawn
     Michaels](https://zh.wikipedia.org/wiki/Shawn_Michaels "wikilink")
   - [擂台之王](../Page/擂台之王.md "wikilink") （1997年）\[174\]
-  - [皇家大戰優勝](../Page/皇家大戰.md "wikilink")（2次，分別為2002年和2016年）\[175\]
-  - 第二位[世界摔角娛樂冠軍大滿貫得主](../Page/世界摔角娛樂冠軍大滿貫.md "wikilink")
+  - [皇家大戰](../Page/皇家大戰.md "wikilink")優勝（2次，分別為2002年和2016年）\[175\]
+  - 第二位[世界摔角娛樂冠軍大滿貫](../Page/世界摔角娛樂冠軍大滿貫.md "wikilink")得主
   - [Slammy
     Award](https://zh.wikipedia.org/wiki/Slammy_Award "wikilink") for
     Best Hair （[1997 Slammy

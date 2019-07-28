@@ -1,49 +1,49 @@
-**supercell**是一個[日本音樂團體](../Page/日本.md "wikilink")，以作曲及填詞人ryo為中心，成員共有11人，於2007年作為[同人音樂團體而成立](../Page/同人音樂.md "wikilink")。除了ryo外，其他10名成員並不負責歌曲工作，而是負責製作插畫、音樂影片等設計工作；所有成員都不會唱歌。
+**supercell**是一個[日本](../Page/日本.md "wikilink")音樂團體，以作曲及填詞人ryo為中心，成員共有11人，於2007年作為[同人音樂](../Page/同人音樂.md "wikilink")團體而成立。除了ryo外，其他10名成員並不負責歌曲工作，而是負責製作插畫、音樂影片等設計工作；所有成員都不會唱歌。
 
-在成立初期，supercell使用虛擬女性歌手軟件「[初音未來](../Page/初音未來.md "wikilink")」作為歌曲主唱，並上載《[Melt](https://zh.wikipedia.org/wiki/Melt "wikilink")》\[1\]歌曲至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。由於上載的多首歌曲都十分受歡迎，他們[獨立製作的同名專輯](../Page/獨立製作.md "wikilink")《[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")》於2008年發行。其後，他們跟[日本索尼音樂娛樂簽約](../Page/日本索尼音樂娛樂.md "wikilink")，於2009年3月以重新發行的專輯《supercell》出道。
+在成立初期，supercell使用虛擬女性歌手軟件「[初音未來](../Page/初音未來.md "wikilink")」作為歌曲主唱，並上載《[Melt](https://zh.wikipedia.org/wiki/Melt "wikilink")》\[1\]歌曲至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。由於上載的多首歌曲都十分受歡迎，他們[獨立製作](../Page/獨立製作.md "wikilink")的同名專輯《[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")》於2008年發行。其後，他們跟[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")簽約，於2009年3月以重新發行的專輯《supercell》出道。
 
 之後，supercell由首張單曲《[你所不知道的故事](https://zh.wikipedia.org/wiki/你所不知道的故事 "wikilink")》起的三張單曲都以[nagi為主唱](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")。於2011年發行的專輯《[Today
 Is A Beautiful
 Day](https://zh.wikipedia.org/wiki/Today_Is_A_Beautiful_Day "wikilink")》是nagi最後為supercell擔作主唱的作品。為了挑選接下來的作品主唱，他們舉辦甄選會，從中选拔出兩位女孩子——當時15歲的[こゑだ和當時](../Page/Koeda.md "wikilink")17歲的[chelly](https://zh.wikipedia.org/wiki/chelly "wikilink")。兩個主唱首次跟supercell合作的單曲都是電視動畫《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》的主題曲，均於2011年發行。
 
 《supercell》和《Today Is A Beautiful
-Day》均獲[日本唱片協會認證為金](../Page/日本唱片協會.md "wikilink")（即出貨量超過10萬張）。他們亦於2010年獲頒發[日本金唱片大獎的五大新人獎](../Page/日本金唱片大獎.md "wikilink")。
+Day》均獲[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為金（即出貨量超過10萬張）。他們亦於2010年獲頒發[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")的五大新人獎。
 
 ## 經歷
 
 ### 2007 - 2008：組成及獨立發行作品
 
-2007年12月7日，ryo上載了以[初音未來為主唱的歌曲](../Page/初音未來.md "wikilink")《[Melt](https://zh.wikipedia.org/wiki/Melt "wikilink")》（）\[2\]到影片網站[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，該影片的播放次數於一年間已達330萬次。\[3\]ryo於該影片中使用了一張從[壁紙網站找到的圖片](https://zh.wikipedia.org/wiki/壁紙 "wikilink")，但未經原作者119（讀作，Hikeshi\[4\]）授權使用。\[5\]在ryo向119道歉後，由於119很喜歡《Melt》，他向ryo提議合作。\[6\]其後更多成員加入supercell，他們發行主流出道作品時共有11名成員。\[7\]在《[日本時報](https://zh.wikipedia.org/wiki/日本時報 "wikilink")》的訪問中，ryo表示他上載《Melt》時沒有很大的企圖或目標，並不像其他人般有意識想當上音樂人。\[8\]
+2007年12月7日，ryo上載了以[初音未來](../Page/初音未來.md "wikilink")為主唱的歌曲《[Melt](https://zh.wikipedia.org/wiki/Melt "wikilink")》（）\[2\]到影片網站[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，該影片的播放次數於一年間已達330萬次。\[3\]ryo於該影片中使用了一張從[壁紙網站找到的圖片](https://zh.wikipedia.org/wiki/壁紙 "wikilink")，但未經原作者119（讀作，Hikeshi\[4\]）授權使用。\[5\]在ryo向119道歉後，由於119很喜歡《Melt》，他向ryo提議合作。\[6\]其後更多成員加入supercell，他們發行主流出道作品時共有11名成員。\[7\]在《[日本時報](https://zh.wikipedia.org/wiki/日本時報 "wikilink")》的訪問中，ryo表示他上載《Melt》時沒有很大的企圖或目標，並不像其他人般有意識想當上音樂人。\[8\]
 
-ryo本來就十分喜愛NICONICO動畫，在該網站也能看到觀看者的留言（因為該網站是[視頻彈幕網站](https://zh.wikipedia.org/wiki/視頻彈幕網站 "wikilink")），所以他就選擇將歌曲上載到NICONICO動畫。\[9\]他亦指出最流行初音未來的地方正是NICONICO動畫。\[10\]另外，他也不是刻意選擇以初音未來為其歌曲主唱，只是他並不認識任何歌手，其後在朋友建議下才選用初音未來。\[11\]大部份supercell的成員在這之前都不認識初音未來，例如成員[huke在](https://zh.wikipedia.org/wiki/huke "wikilink")[Oricon的訪問中曾表示](../Page/Oricon.md "wikilink")，他在《Melt》大紅之後才知道初音未來是甚麼。\[12\]
+ryo本來就十分喜愛NICONICO動畫，在該網站也能看到觀看者的留言（因為該網站是[視頻彈幕網站](https://zh.wikipedia.org/wiki/視頻彈幕網站 "wikilink")），所以他就選擇將歌曲上載到NICONICO動畫。\[9\]他亦指出最流行初音未來的地方正是NICONICO動畫。\[10\]另外，他也不是刻意選擇以初音未來為其歌曲主唱，只是他並不認識任何歌手，其後在朋友建議下才選用初音未來。\[11\]大部份supercell的成員在這之前都不認識初音未來，例如成員[huke在](https://zh.wikipedia.org/wiki/huke "wikilink")[Oricon](../Page/Oricon.md "wikilink")的訪問中曾表示，他在《Melt》大紅之後才知道初音未來是甚麼。\[12\]
 
 2008年，ryo繼續於NICONICO動畫上載歌曲。他於2月22日上載了《戀愛就是戰爭》（）\[13\]，於5月31日上載了《World is
 Mine》（）\[14\]，於6月13日上載了《[BLACK★ROCK
 SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》。\[15\]這三首歌曲的播放次數都超過100萬次。\[16\]7月15日，ryo製作了《希望的音色》（），這首歌被用作[輕小說](../Page/輕小說.md "wikilink")《[聲音×魔法](../Page/聲音×魔法.md "wikilink")》的形象歌曲。\[17\]8月，supercell於[Comiket
-74發行了](../Page/Comic_Market.md "wikilink")[獨立製作的同名專輯](../Page/獨立製作.md "wikilink")《[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")》。專輯收錄了之前上載至NICONICO動畫的多首歌曲，以及其他未曾公開的歌曲。\[18\]12月12日，supercell上載了《初戀終結之時》（）到NICONICO動畫。\[19\]\[20\]
+74發行了](../Page/Comic_Market.md "wikilink")[獨立製作](../Page/獨立製作.md "wikilink")的同名專輯《[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")》。專輯收錄了之前上載至NICONICO動畫的多首歌曲，以及其他未曾公開的歌曲。\[18\]12月12日，supercell上載了《初戀終結之時》（）到NICONICO動畫。\[19\]\[20\]
 
 ### 2009 - 2011：主流出道和主唱nagi
 
-2009年，supercell以同名專輯《[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")》出道。該專輯於3月4日由[日本索尼音樂娛樂發行](../Page/日本索尼音樂娛樂.md "wikilink")。\[21\]決定發售這張專輯的過程十分迂迴曲折。首先，主流市場認識「初音未來」的人並不多，也幾乎沒有喜歡[VOCALOID及NICONICO動畫的文化的人](../Page/VOCALOID.md "wikilink")。\[22\]然而有工作人員跟ryo說「即使不懂都會去理解跟尊重」，他們就這樣成為專輯發售有關的負責人，亦滿足ryo「不登錄[JASRAC](https://zh.wikipedia.org/wiki/JASRAC "wikilink")」、「把音源再混音」等要求。\[23\]這個重新發行的版本比獨立製作版本收錄更多歌曲，包括曾於原版附送的畫冊，以及附送收錄了4首歌的[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。\[24\]這張專輯於發行首周登上[Oricon公信榜專輯周榜第](../Page/Oricon公信榜.md "wikilink")4位\[25\]，在同年6月亦獲[日本唱片協會認證為金](../Page/日本唱片協會.md "wikilink")（即出貨量超過10萬張）。\[26\]
+2009年，supercell以同名專輯《[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")》出道。該專輯於3月4日由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")發行。\[21\]決定發售這張專輯的過程十分迂迴曲折。首先，主流市場認識「初音未來」的人並不多，也幾乎沒有喜歡[VOCALOID](../Page/VOCALOID.md "wikilink")及NICONICO動畫的文化的人。\[22\]然而有工作人員跟ryo說「即使不懂都會去理解跟尊重」，他們就這樣成為專輯發售有關的負責人，亦滿足ryo「不登錄[JASRAC](https://zh.wikipedia.org/wiki/JASRAC "wikilink")」、「把音源再混音」等要求。\[23\]這個重新發行的版本比獨立製作版本收錄更多歌曲，包括曾於原版附送的畫冊，以及附送收錄了4首歌的[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。\[24\]這張專輯於發行首周登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯周榜第4位\[25\]，在同年6月亦獲[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為金（即出貨量超過10萬張）。\[26\]
 
-其後，ryo邀請[nagi為supercell首張](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[你所不知道的故事](https://zh.wikipedia.org/wiki/你所不知道的故事 "wikilink")》擔任主唱。\[27\]nagi曾以Gazelle（）的名字於NICONICO動畫上載自己演唱的歌曲，為該網站的著名歌手。\[28\]單曲於8月12日發行，在發行首周取得Oricon公信榜單曲周榜第5位。\[29\]《你所不知道的故事》被用作動畫《[化物語](https://zh.wikipedia.org/wiki/化物語#動畫 "wikilink")》的片尾曲，單曲內的另外兩首歌曲亦被用在動畫電影《[CENCOROLL](https://zh.wikipedia.org/wiki/CENCOROLL "wikilink")》（）。\[30\]在這年，supercell獲頒發[日本金唱片大獎的五大新人獎](../Page/日本金唱片大獎.md "wikilink")。\[31\]
+其後，ryo邀請[nagi為supercell首張](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[你所不知道的故事](https://zh.wikipedia.org/wiki/你所不知道的故事 "wikilink")》擔任主唱。\[27\]nagi曾以Gazelle（）的名字於NICONICO動畫上載自己演唱的歌曲，為該網站的著名歌手。\[28\]單曲於8月12日發行，在發行首周取得Oricon公信榜單曲周榜第5位。\[29\]《你所不知道的故事》被用作動畫《[化物語](https://zh.wikipedia.org/wiki/化物語#動畫 "wikilink")》的片尾曲，單曲內的另外兩首歌曲亦被用在動畫電影《[CENCOROLL](https://zh.wikipedia.org/wiki/CENCOROLL "wikilink")》（）。\[30\]在這年，supercell獲頒發[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")的五大新人獎。\[31\]
 
 supercell的第2張單曲《[再見了，回憶](../Page/再見了，回憶.md "wikilink")》於2010年2月10日發行。\[32\]第3張單曲《[泡沫煙花
 /
-繁星閃耀之夜](https://zh.wikipedia.org/wiki/泡沫煙花_/_繁星閃耀之夜 "wikilink")》（）則於同年8月25日發行，為一張雙A面單曲。\[33\]其中《泡沫煙花》是動畫《[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")》的第14首片尾曲，《繁星閃耀之夜》則是[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")《[魔法使之夜](../Page/魔法使之夜.md "wikilink")》的片尾曲。\[34\]之後，supercell跟[同人音樂組合](../Page/同人音樂.md "wikilink")[livetune合作](https://zh.wikipedia.org/wiki/livetune "wikilink")，製作了單曲《[看着我Baby
+繁星閃耀之夜](https://zh.wikipedia.org/wiki/泡沫煙花_/_繁星閃耀之夜 "wikilink")》（）則於同年8月25日發行，為一張雙A面單曲。\[33\]其中《泡沫煙花》是動畫《[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")》的第14首片尾曲，《繁星閃耀之夜》則是[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")《[魔法使之夜](../Page/魔法使之夜.md "wikilink")》的片尾曲。\[34\]之後，supercell跟[同人音樂](../Page/同人音樂.md "wikilink")組合[livetune合作](https://zh.wikipedia.org/wiki/livetune "wikilink")，製作了單曲《[看着我Baby
 /
 Yellow](https://zh.wikipedia.org/wiki/看着我Baby/Yellow "wikilink")》（）。該單曲於同年7月14日發行\[35\]，被用作《[初音未來
 -歌姬計劃-
-2nd](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃-_2nd "wikilink")》的主題曲。\[36\]《看着我Baby》由ryo製作，《Yellow》則由livetune製作；兩首歌曲都由[初音未來演唱](../Page/初音未來.md "wikilink")。\[37\]supercell其後為《[週刊YOUNG
+2nd](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃-_2nd "wikilink")》的主題曲。\[36\]《看着我Baby》由ryo製作，《Yellow》則由livetune製作；兩首歌曲都由[初音未來](../Page/初音未來.md "wikilink")演唱。\[37\]supercell其後為《[週刊YOUNG
 JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》的增刊號《青春》（）製作主題曲《英雄》（）\[38\]，該歌曲於11月30日首次公開。\[39\]
 
 一段長達50分鐘的[原創動畫錄影帶](../Page/原創動畫錄影帶.md "wikilink")（OVA）《[BLACK★ROCK
 SHOOTER](https://zh.wikipedia.org/wiki/BLACK★ROCK_SHOOTER#OVA動畫版 "wikilink")》於2010年7月24日發放。這段OVA動畫是以ryo的歌曲《BLACK★ROCK
-SHOOTER》以及由[huke繪畫的音樂影片為基礎來製作的](https://zh.wikipedia.org/wiki/huke "wikilink")。\[40\]OVA由[山本寬監修](../Page/山本寬.md "wikilink")，[Ordet製作](../Page/Ordet.md "wikilink")，[吉岡忍執導](https://zh.wikipedia.org/wiki/吉岡忍 "wikilink")。\[41\]這段OVA是[Ordet首次獨立製作的動畫作品](../Page/Ordet.md "wikilink")。OVA的部份片段曾於同年7月於[Anime
+SHOOTER》以及由[huke繪畫的音樂影片為基礎來製作的](https://zh.wikipedia.org/wiki/huke "wikilink")。\[40\]OVA由[山本寬](../Page/山本寬.md "wikilink")監修，[Ordet](../Page/Ordet.md "wikilink")製作，[吉岡忍執導](https://zh.wikipedia.org/wiki/吉岡忍 "wikilink")。\[41\]這段OVA是[Ordet](../Page/Ordet.md "wikilink")首次獨立製作的動畫作品。OVA的部份片段曾於同年7月於[Anime
 Expo會場上播放](../Page/Anime_Expo.md "wikilink")。\[42\]
 
 2010年年末，一家為網上同人歌手發行主流作品的唱片公司[TamStar
-Records成立](https://zh.wikipedia.org/wiki/TamStar_Records "wikilink")。supercell以及其他[同人音樂人](../Page/同人音樂.md "wikilink")，包括livetune等等，都加入了這家唱片公司。\[43\]TamStar
+Records成立](https://zh.wikipedia.org/wiki/TamStar_Records "wikilink")。supercell以及其他[同人音樂](../Page/同人音樂.md "wikilink")人，包括livetune等等，都加入了這家唱片公司。\[43\]TamStar
 Records於2011年1月17日發行了一張混音專輯《supercell tribute ～Stowaways～ / supercell
 feat.初音》，作為對supercell的致敬（tribute）。專輯收錄了多首由其他音樂製作人重新混音的supercell歌曲。\[44\]
 
@@ -59,7 +59,7 @@ Flatline合作製作單曲](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikili
 Fallin'
 Fallin'](https://zh.wikipedia.org/wiki/積雨雲的塗鴉／Fallin'_Fallin'_Fallin' "wikilink")》（），於2011年8月31日發行。\[49\]《積雨雲的塗鴉》由ryo製作，《Fallin'
 Fallin' Fallin'》則由Dixie
-Flatline製作；兩首歌曲都由[初音未來演唱](../Page/初音未來.md "wikilink")。\[50\]其中《積雨雲的塗鴉》被用作為《[初音未來
+Flatline製作；兩首歌曲都由[初音未來](../Page/初音未來.md "wikilink")演唱。\[50\]其中《積雨雲的塗鴉》被用作為《[初音未來
 -歌姬計劃-
 extend](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃-_extend "wikilink")》的主題曲。\[51\]
 
@@ -155,58 +155,7 @@ supercell以ryo為中心，由11名成員組成。ryo負責歌曲製作，包括
 
   - 119（）（繪圖）
 
-## 唱片
-
-### 专辑
-
-<table>
-<thead>
-<tr class="header">
-<th><p>枚</p></th>
-<th><p>发售日</p></th>
-<th><p>名称</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
-<th><p>主唱</p></th>
-<th><p>最高位</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>初回限定盤<br />
-CD+BD</p></td>
-<td><p>初回限定盤<br />
-CD+DVD</p></td>
-<td><p>通常盤</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p>2009年3月4日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/supercell" title="wikilink">supercell</a></strong></p></td>
-<td></td>
-<td><p>MHCL-1493/5</p></td>
-<td><p>MHCL-1496/7</p></td>
-</tr>
-<tr class="odd">
-<td><p>2nd</p></td>
-<td><p>2011年3月16日</p></td>
-<td><p><strong>Today Is A Beautiful Day</strong></p></td>
-<td></td>
-<td><p>SRCL-7486 ～ SRCL-7487</p></td>
-<td><p>SRCL-7488</p></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p>2013年11月27日</p></td>
-<td><p><strong>ZIGAEXPERIENTIA</strong></p></td>
-<td><p>SRCL-8410 ～ SRCL-8412</p></td>
-<td><p>SRCL-8413 ～ SRCL-8415</p></td>
-<td><p>SRCL-8416</p></td>
-</tr>
-</tbody>
-</table>
+## 音樂作品
 
 ### 單曲
 
@@ -246,7 +195,7 @@ CD+DVD</p></td>
 （）</p></td>
 <td><p>SRCL-7201 ～ SRCL-7202</p></td>
 <td><p>SRCL-7203</p></td>
-<td><p>7位</p></td>
+<td><p>第7位</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
@@ -255,7 +204,7 @@ CD+DVD</p></td>
 （）</p></td>
 <td><p>SRCL-7331 ～ SRCL-7332</p></td>
 <td><p>SRCL-7333</p></td>
-<td><p>9位</p></td>
+<td><p>第9位</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
@@ -274,7 +223,7 @@ CD+DVD</p></td>
 ：SRCL-7881 ～ SRCL-7882</p></td>
 <td><p>：SRCL-7886<br />
 ：SRCL-7885</p></td>
-<td><p>8位</p></td>
+<td><p>第8位</p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
@@ -284,7 +233,7 @@ CD+DVD</p></td>
 <td><p>CD+Blu-ray：SRCL-8190 ～ SRCL-8191<br />
 CD+DVD：SRCL-8192 ～ SRCL-8193</p></td>
 <td><p>SRCL-8194</p></td>
-<td><p>11位</p></td>
+<td><p>第11位</p></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
@@ -293,7 +242,7 @@ CD+DVD：SRCL-8192 ～ SRCL-8193</p></td>
 <td><p>CD+Blu-ray：SRCL-8241 ～ SRCL-8242<br />
 CD+DVD：SRCL-8243 ～ SRCL-8244</p></td>
 <td><p>SRCL-8245</p></td>
-<td><p>11位</p></td>
+<td><p>第11位</p></td>
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
@@ -303,7 +252,7 @@ CD+DVD：SRCL-8243 ～ SRCL-8244</p></td>
 <td><p>CD+Blu-ray：SRCL-8280 ～ SRCL-8281<br />
 CD+DVD：SRCL-8282 ～ SRCL-8283</p></td>
 <td><p>SRCL-8284</p></td>
-<td><p>9位</p></td>
+<td><p>第9位</p></td>
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
@@ -366,39 +315,124 @@ CD+DVD：SRCL-8812 ～ SRCL-8813</p></td>
 </tbody>
 </table>
 
-### [EGOIST名義發表](../Page/EGOIST.md "wikilink")
+### 专辑
+
+<table>
+<thead>
+<tr class="header">
+<th><p>枚</p></th>
+<th><p>发售日</p></th>
+<th><p>名称</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
+<th><p>主唱</p></th>
+<th><p>最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>初回限定盤<br />
+CD+BD</p></td>
+<td><p>初回限定盤<br />
+CD+DVD</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2009年3月4日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/supercell" title="wikilink">supercell</a></strong></p></td>
+<td></td>
+<td><p>MHCL-1493/5</p></td>
+<td><p>MHCL-1496/7</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2011年3月16日</p></td>
+<td><p><strong>Today Is A Beautiful Day</strong></p></td>
+<td></td>
+<td><p>SRCL-7486 ～ SRCL-7487</p></td>
+<td><p>SRCL-7488</p></td>
+</tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p>2013年11月27日</p></td>
+<td><p><strong>ZIGAEXPERIENTIA</strong></p></td>
+<td><p>SRCL-8410 ～ SRCL-8412</p></td>
+<td><p>SRCL-8413 ～ SRCL-8415</p></td>
+<td><p>SRCL-8416</p></td>
+</tr>
+</tbody>
+</table>
+
+### [EGOIST](../Page/EGOIST.md "wikilink")名義發表
 
 #### 單曲
 
-| 編號    | 發售日         | 標題                                                                                                        | 規格編號            | [Oricon最高位](../Page/Oricon.md "wikilink") |
-| ----- | ----------- | --------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------- |
-| 初回限定盤 | 通常盤         | 期間生産限定盤/動畫盤                                                                                               |                 |                                           |
-| 1st   | 2011年11月30日 | ****                                                                                                      | SVWC-7796       | SVWC-7798                                 |
-| 2nd   | 2012年3月7日   | **[The Everlasting Guilty Crown](https://zh.wikipedia.org/wiki/The_Everlasting_Guilty_Crown "wikilink")** | SVWC-7832       | SVWC-7834                                 |
-| 3rd   | 2012年12月5日  | **[无名怪物](../Page/无名怪物_\(自我主张单曲\).md "wikilink")**                                                         | SRCL-8147       | SRCL-8149                                 |
-| 4th   | 2013年3月6日   | **[与你同行](../Page/与你同行_\(自我主张单曲\).md "wikilink")**                                                         | SRCL-8238/9     | SRCL-8240                                 |
-| 5th   | 2014年11月19日 | **Fallen**                                                                                                | SRCL-8637/8     | SRCL-8639                                 |
-| 6th   | 2015年11月11日 | **リローデッド**                                                                                                | SRCL-8925/6     | SRCL-8927                                 |
-| 7th   | 2016年5月25日  | **KABANERI OF THE IRON FORTRESS**                                                                         | SRCL-9068/9     | SRCL-9070                                 |
-| 8th   | 2017年8月16日  | ****                                                                                                      | VVCL-1078\~1079 | VVCL-1080                                 |
+| 編號    | 發售日         | 標題                                                                                       | 規格編號        | [Oricon](../Page/Oricon.md "wikilink")最高排名 |
+| ----- | ----------- | ---------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ |
+| 初回限定盤 | 通常盤         | 期間生產限定盤/動畫盤                                                                              |             |                                            |
+| 1st   | 2011年11月30日 | ****                                                                                     | SVWC-7796   | SVWC-7798                                  |
+| 2nd   | 2012年3月7日   | ****                                                                                     | SVWC-7832   | SVWC-7834                                  |
+| 3rd   | 2012年12月5日  | ****                                                                                     | SRCL-8147   | SRCL-8149                                  |
+| 4th   | 2013年3月6日   | **[All Alone With You](https://zh.wikipedia.org/wiki/與你同行_\(自我主張單曲\) "wikilink")**       | SRCL-8238/9 | SRCL-8240                                  |
+| 5th   | 2014年11月19日 | ****                                                                                     | SRCL-8637/8 | SRCL-8639                                  |
+| 6th   | 2015年11月11日 | ****                                                                                     | SRCL-8925/6 | SRCL-8927                                  |
+| 7th   | 2016年5月25日  | **[KABANERI OF THE IRON FORTRESS](../Page/KABANERI_OF_THE_IRON_FORTRESS.md "wikilink")** | SRCL-9068/9 | SRCL-9070                                  |
+| 8th   | 2017年8月16日  | ****                                                                                     | VVCL-1078/9 | VVCL-1080                                  |
+| 9th   | 2019年5月15日  | ****                                                                                     | VVCL-1440/2 | VVCL-1443                                  |
 
 #### 配信限定
 
 | 編號  | 發售日         | 標題                       | 發售形態   |
 | --- | ----------- | ------------------------ | ------ |
 | 1st | 2013年11月6日  | ****                     | 數位下載限定 |
-| 2nd | 2016年11月23日 | **Welcome to the \*fam** | 數位下載限定 |
+| 2nd | 2016年11月23日 | **Welcome to the \*fam** |        |
 
 #### 專輯
 
-| 編號    | 發售日        | 標題                                                                                                       | 規格編號        | [Oricon最高位](../Page/Oricon.md "wikilink") |
-| ----- | ---------- | -------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------- |
-| 初回限定盤 | 通常盤        |                                                                                                          |             |                                           |
-| 1st   | 2012年9月19日 | **[Extra terrestrial Biological Entities](../Page/Extra_terrestrial_Biological_Entities.md "wikilink")** | SRCL-8091/2 | SRCL-8093                                 |
+<table>
+<thead>
+<tr class="header">
+<th><p>編號</p></th>
+<th><p>發售日</p></th>
+<th><p>標題</p></th>
+<th><p>規格編號</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>最高排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>初回限定盤</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2012年9月19日</p></td>
+<td><p><strong><a href="../Page/Extra_terrestrial_Biological_Entities.md" title="wikilink">Extra terrestrial Biological Entities</a></strong></p></td>
+<td><p>SRCL-8091/2</p></td>
+<td><p>SRCL-8093</p></td>
+</tr>
+<tr class="odd">
+<td><p>精選輯</p></td>
+<td><p>2017年12月27日</p></td>
+<td><p><strong>GREATEST HITS 2011-2017 "ALTER EGO"</strong></p></td>
+<td><p>VVCL-1151/2（A）<br />
+VVCL-1153/4（B）</p></td>
+<td><p>VVCL-1155</p></td>
+</tr>
+</tbody>
+</table>
 
-### [Tia名義發表](../Page/Tia.md "wikilink")
+### [Tia](../Page/Tia.md "wikilink")名義發表
 
-| 編號    | 發售日                | 標題                      | 規格編號         | [Oricon最高位](../Page/Oricon.md "wikilink")\[77\] |
+#### 單曲
+
+| 編號    | 發售日                | 標題                      | 規格編號         | [Oricon](../Page/Oricon.md "wikilink")最高位\[77\] |
 | ----- | ------------------ | ----------------------- | ------------ | ----------------------------------------------- |
 | 初回限定盤 | 通常盤                |                         |              |                                                 |
 | 1st   | 2012年12月19日        | **ラブミーギミー**             | SVWC-7917/8  | SVWC-7919                                       |

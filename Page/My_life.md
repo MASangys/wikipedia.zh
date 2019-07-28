@@ -1,5 +1,5 @@
 **my
-life**（我的人生）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛以](../Page/阿兰·达瓦卓玛.md "wikilink")**alan**之名在[日本发行的第二张](../Page/日本.md "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，这是一个传达alan自身生活的作品，本张专辑作词阵容豪华，由[矢井田瞳](../Page/矢井田瞳.md "wikilink")、[古内东子](https://zh.wikipedia.org/wiki/古内东子 "wikilink")、[御徒町凧等人与制作人](https://zh.wikipedia.org/wiki/御徒町凧 "wikilink")[菊池一仁共同完成](../Page/菊池一仁.md "wikilink")，此外还收入了alan亲自日文作词和钢琴作曲的歌曲。\[1\]
+life**（我的人生）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的第二张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，这是一个传达alan自身生活的作品，本张专辑作词阵容豪华，由[矢井田瞳](../Page/矢井田瞳.md "wikilink")、[古内东子](https://zh.wikipedia.org/wiki/古内东子 "wikilink")、[御徒町凧等人与制作人](https://zh.wikipedia.org/wiki/御徒町凧 "wikilink")[菊池一仁](../Page/菊池一仁.md "wikilink")共同完成，此外还收入了alan亲自日文作词和钢琴作曲的歌曲。\[1\]
 。
 
 ## 概况
@@ -9,10 +9,10 @@ life》是[PSP游戏](https://zh.wikipedia.org/wiki/PSP "wikilink")《[GOD
 EATER](https://zh.wikipedia.org/wiki/GOD_EATER "wikilink")》的片尾曲。
 
 《Nobody knows but
-me》由alan和菊池一仁共同完成，前[凛成员](../Page/凛.md "wikilink")[长须与佳将在这首歌中演奏](https://zh.wikipedia.org/wiki/凛#乐队成员 "wikilink")[尺八](../Page/尺八.md "wikilink")\[2\]
+me》由alan和菊池一仁共同完成，前[凛](../Page/凛.md "wikilink")成员[长须与佳将在这首歌中演奏](https://zh.wikipedia.org/wiki/凛#乐队成员 "wikilink")[尺八](../Page/尺八.md "wikilink")\[2\]
 。
 
-《One》由[矢井田瞳作词](../Page/矢井田瞳.md "wikilink")。\[3\] 。
+《One》由[矢井田瞳](../Page/矢井田瞳.md "wikilink")作词。\[3\] 。
 
 CD+DVD的初回限定盘额外收录《》《（Smooth Jam Mix）》和《》的Special Studio Live Session影像，CD
 only的初回限定盘额外附赠迷你相册\[4\] 。
@@ -43,7 +43,7 @@ only的初回限定盘额外附赠迷你相册\[4\] 。
 3.  **One**
       - 作词：[矢井田瞳](../Page/矢井田瞳.md "wikilink")　作曲：alan、菊池一仁
       - [Every Little
-        Thing的](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")[伊藤一朗参与](../Page/伊藤一朗.md "wikilink")[吉他伴奏](../Page/吉他.md "wikilink")
+        Thing的](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")[伊藤一朗](../Page/伊藤一朗.md "wikilink")参与[吉他](../Page/吉他.md "wikilink")伴奏
 4.  ****（凝视）
       - 作词：[御徒町凧](https://zh.wikipedia.org/wiki/御徒町凧 "wikilink")　作曲：菊池一仁　编曲：[村田昭](https://zh.wikipedia.org/wiki/村田昭 "wikilink")
 5.  ** (Smooth Jam Mix)**（泪 (Smooth Jam Mix)）
@@ -63,7 +63,7 @@ only的初回限定盘额外附赠迷你相册\[4\] 。
       - 作词：御徒町凧　作曲：菊池一仁　编曲：[TATOO](https://zh.wikipedia.org/wiki/TATOO "wikilink")
 11. **Nobody knows but me**
       - 作词：alan、菊池一仁　作曲：alan　编曲：村田昭
-      - [Rin'的](../Page/凛.md "wikilink")[長須与佳参与](https://zh.wikipedia.org/wiki/長須与佳 "wikilink")[尺八伴奏](../Page/尺八.md "wikilink")
+      - [Rin'的](../Page/凛.md "wikilink")[長須与佳参与](https://zh.wikipedia.org/wiki/長須与佳 "wikilink")[尺八](../Page/尺八.md "wikilink")伴奏
       - alan本人首次日文作词的歌曲
 12. ****（BALLAD～无名恋歌～）
       - 作词：kenko-p　作曲：菊池一仁　编曲：中野雄太

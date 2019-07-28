@@ -1,5 +1,5 @@
 **NEKO NEKO Software**（ねこねこソフト）是Soldier
-Blue有限公司（舊合名會社貓貓軟件）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，總部設於日本[埼玉縣的](../Page/埼玉縣.md "wikilink")[所澤市](../Page/所澤市.md "wikilink")。[戲畫PB成員](https://zh.wikipedia.org/wiki/戲畫PB "wikilink")。[同人軟件社團](../Page/同人遊戲.md "wikilink")「STAGE
+Blue有限公司（舊合名會社貓貓軟件）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，總部設於日本[埼玉縣](../Page/埼玉縣.md "wikilink")的[所澤市](../Page/所澤市.md "wikilink")。[戲畫PB成員](https://zh.wikipedia.org/wiki/戲畫PB "wikilink")。[同人軟件社團](../Page/同人遊戲.md "wikilink")「STAGE
 NANA」為基礎而組成。
 
 ## 概要
@@ -92,7 +92,7 @@ White 回馈CD在邮递时有过向一部分用户发送了MAC格式化了的空
 ## 作品列表
 
   - 2000年1月28日 - [White
-    ～痛苦的碎片～](https://zh.wikipedia.org/wiki/White_～痛苦的碎片～ "wikilink")（※以[TGL內的](../Page/TGL.md "wikilink")「胡桃」品牌發售）
+    ～痛苦的碎片～](https://zh.wikipedia.org/wiki/White_～痛苦的碎片～ "wikilink")（※以[TGL](../Page/TGL.md "wikilink")內的「胡桃」品牌發售）
   - 2000年8月31日 - [銀色](../Page/銀色_\(遊戲\).md "wikilink")
   - 2001年4月13日 -
     [水色](https://zh.wikipedia.org/wiki/水色_\(遊戲\) "wikilink")
@@ -172,7 +172,7 @@ White 回馈CD在邮递时有过向一部分用户发送了MAC格式化了的空
 
   - [棉花軟件](https://zh.wikipedia.org/wiki/棉花軟件 "wikilink")
 
-  - [埼玉連合](https://zh.wikipedia.org/wiki/埼玉連合 "wikilink")（總公司同設於埼玉縣的[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")、[Witch的聯合體](../Page/Witch.md "wikilink")）
+  - [埼玉連合](https://zh.wikipedia.org/wiki/埼玉連合 "wikilink")（總公司同設於埼玉縣的[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")、[Witch](../Page/Witch.md "wikilink")的聯合體）
 
   - （貓貓軟件的代表劇本作家）
 

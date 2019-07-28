@@ -3,7 +3,7 @@ music品牌發行](../Page/Sony_Music_Direct.md "wikilink")。
 
 ## 概要
 
-歌手使用了[語音合成](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")「[初音未來](../Page/初音未來.md "wikilink")」，supercell的出道專輯。把在2008年於[Comike74發表的自主製作盤的音源再混音](https://zh.wikipedia.org/wiki/Comike74 "wikilink")，增加了《》及《》兩首歌。\[1\]初回限定版及一般版都有附有[CD及](../Page/CD.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，初回版付屬名為「supercell
+歌手使用了[語音合成](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")「[初音未來](../Page/初音未來.md "wikilink")」，supercell的出道專輯。把在2008年於[Comike74發表的自主製作盤的音源再混音](https://zh.wikipedia.org/wiki/Comike74 "wikilink")，增加了《》及《》兩首歌。\[1\]初回限定版及一般版都有附有[CD](../Page/CD.md "wikilink")及[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，初回版付屬名為「supercell
 works」的畫集。另外在[animate](https://zh.wikipedia.org/wiki/animate "wikilink")、[虎之穴](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")、[Gamers買入會贈送](https://zh.wikipedia.org/wiki/Gamers "wikilink")[海報](https://zh.wikipedia.org/wiki/海報 "wikilink")（繪圖各自不同）\[2\]\[3\]\[4\]，Sony
 Music
 Shop則附送特製的[滑鼠墊](https://zh.wikipedia.org/wiki/滑鼠墊 "wikilink")\[5\]。

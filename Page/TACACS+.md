@@ -1,4 +1,4 @@
-在[计算机网络中](../Page/计算机网络.md "wikilink")，**TACACS+** (Terminal Access
+在[计算机网络](../Page/计算机网络.md "wikilink")中，**TACACS+** (Terminal Access
 Controller Access-Control System
 Plus)是一种为路由器、网络访问服务器和其他互联计算设备通过一个或多个集中的服务器提供访问控制的协议。TACACS+提供了独立的认证、授权和记账服务。
 

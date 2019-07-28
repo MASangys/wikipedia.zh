@@ -1,4 +1,4 @@
-**YDbDr**是[SECAM制式規格](../Page/SECAM制式.md "wikilink")[電視所采用的](https://zh.wikipedia.org/wiki/電視 "wikilink")[色彩空間](../Page/色彩空間.md "wikilink")。
+**YDbDr**是[SECAM制式](../Page/SECAM制式.md "wikilink")規格[電視所采用的](https://zh.wikipedia.org/wiki/電視 "wikilink")[色彩空間](../Page/色彩空間.md "wikilink")。
 
 1966年[法国提出SECAM彩色电视制式](https://zh.wikipedia.org/wiki/法国 "wikilink")，並制度YDbDr。
 

@@ -1,10 +1,10 @@
-《**超級機器人大戰Z**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普名義於](../Page/萬普.md "wikilink")2008年9月25日發售的[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。簡稱「**機戰Z**」「**SRWZ**」。
+《**超級機器人大戰Z**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義於2008年9月25日發售的[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。簡稱「**機戰Z**」「**SRWZ**」。
 
 本作宣傳詞為「**多元世紀元年 我們的世界崩壞了･･･**」
 
 ## 概要
 
-[超級機器人大戰系列的總製作人](../Page/超級機器人大戰系列.md "wikilink")[寺田貴信原本表示](../Page/寺田貴信.md "wikilink")，此作將會是以往超級機器人系列的最終作，Z代表的是結束；但是在本遊戲發表後改稱Z代表的是新的一個開始，並表示之後會持續將Z延伸成為系列作品。
+[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")的總製作人[寺田貴信](../Page/寺田貴信.md "wikilink")原本表示，此作將會是以往超級機器人系列的最終作，Z代表的是結束；但是在本遊戲發表後改稱Z代表的是新的一個開始，並表示之後會持續將Z延伸成為系列作品。
 
 ## 參戰作品
 
@@ -45,7 +45,7 @@
 薩奔格爾》有提及的生存和眼睛的治療，亦包含有劇場版《》的要素。
 
 《機動戰士GUNDAM SEED
-DESTINY》方面，基本上以[真·飛鳥的視點重現此作故事](../Page/真·飛鳥.md "wikilink")。最終話與原作故事不同，真可以脫離-{zh-cn:札夫特;zh-tw:札夫特;
+DESTINY》方面，基本上以[真·飛鳥](../Page/真·飛鳥.md "wikilink")的視點重現此作故事。最終話與原作故事不同，真可以脫離-{zh-cn:札夫特;zh-tw:札夫特;
 zh-hk:札多軍;}-並加入我方部隊進行IF劇情，只要滿足一定條件就能進入該路線（完成一次就能無條件選擇進入與否）。《[第2次Z
 破界篇](../Page/第2次超級機器人大戰Z.md "wikilink")》的限定版附屬的Digest
 Book，有描述IF故事的正史。
@@ -78,7 +78,7 @@ GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在�
 
   - 自由組隊
 
-為系列作[超級機器人大戰α中組隊系統的升級版](../Page/超級機器人大戰α.md "wikilink")，不需要考慮機體的體積大小而能自由配組，同時可視戰況變換三種隊形。
+為系列作[超級機器人大戰α](../Page/超級機器人大戰α.md "wikilink")中組隊系統的升級版，不需要考慮機體的體積大小而能自由配組，同時可視戰況變換三種隊形。
 
 :;Tri Formation
 

@@ -2289,7 +2289,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2018年3月28日－<br />
 2018年5月17日</p></td>
-<td style="text-align: center;"><p>2018年3月29日－</p></td>
+<td style="text-align: center;"><p>2018年3月29日－ 2018年5月18日</p></td>
 <td style="text-align: center;"><p><a href="../Page/Switch－改變世界.md" title="wikilink">Switch－改變世界</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -2301,7 +2301,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2018年5月23日－<br />
 2018年7月19日</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2018年5月24日 - 2018年7月20日</p></td>
 <td style="text-align: center;"><p><a href="../Page/訓南正音.md" title="wikilink">訓南正音</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -2313,7 +2313,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2018年7月25日－<br />
 2018年9月20日</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2018年7月26日 - 2018年9月21日</p></td>
 <td style="text-align: center;"><p><a href="../Page/致親愛的法官大人.md" title="wikilink">致親愛的法官大人</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -2325,7 +2325,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2018年9月27日－<br />
 2018年11月15日</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2018年9月28日 - 2018年11月16日</p></td>
 <td style="text-align: center;"><p><a href="../Page/胸腔外科-盜取心臟的醫生們.md" title="wikilink">胸腔外科-盜取心臟的醫生們</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -2337,7 +2337,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2018年11月21日－<br />
 2019年2月21日</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2018年11月22日 - 2019年2月22日</p></td>
 <td style="text-align: center;"><p><a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a><br />
 </p></td>
 <td style="text-align: center;"><p>52</p></td>
@@ -2380,7 +2380,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年3月6日－<br />
 2019年5月2日</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2019年3月7日 - 2019年5月3日</p></td>
 <td style="text-align: center;"><p>-{<a href="../Page/Big_Issue.md" title="wikilink">Big Issue</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -2442,8 +2442,8 @@
 
 ## 海外相關播出
 
-[馬來西亞與](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[新加坡於One](../Page/新加坡.md "wikilink")
-HD頻道自2015年6月起星期四與星期五21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月28日起，改為20:15播出([當你沉睡時維持在](../Page/當你沉睡時.md "wikilink")21:00)。
+[馬來西亞與](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[新加坡](../Page/新加坡.md "wikilink")於One
+HD頻道自2015年6月起星期四與星期五21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月28日起，改為20:15播出([當你沉睡時](../Page/當你沉睡時.md "wikilink")維持在21:00)。
 
 2015年6月前播出時間為星期三與星期四21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目和韓國首播遲一個月並以馬來語、英語和簡體中文字幕播出。
 

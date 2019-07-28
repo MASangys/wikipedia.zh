@@ -4,7 +4,7 @@
 
 ## 故事簡介
 
-雖然[卡拉漢神父犧牲了自己的性命](https://zh.wikipedia.org/wiki/卡拉漢 "wikilink")，以阻止[吸血鬼及](../Page/吸血鬼.md "wikilink")[下等人的攻擊](https://zh.wikipedia.org/wiki/下等人 "wikilink")，但[傑克仍然無法阻止血王之子](https://zh.wikipedia.org/wiki/傑克 "wikilink")[莫德瑞的出生](https://zh.wikipedia.org/wiki/莫德瑞 "wikilink")，而[莫德瑞一出生就吃掉](https://zh.wikipedia.org/wiki/莫德瑞 "wikilink")[米亞](https://zh.wikipedia.org/wiki/米亞 "wikilink")，[蘇姍娜則射斷了莫俊德蜘蛛形態的一隻腳](https://zh.wikipedia.org/wiki/蘇姍娜 "wikilink")。
+雖然[卡拉漢神父犧牲了自己的性命](https://zh.wikipedia.org/wiki/卡拉漢 "wikilink")，以阻止[吸血鬼](../Page/吸血鬼.md "wikilink")及[下等人的攻擊](https://zh.wikipedia.org/wiki/下等人 "wikilink")，但[傑克仍然無法阻止血王之子](https://zh.wikipedia.org/wiki/傑克 "wikilink")[莫德瑞的出生](https://zh.wikipedia.org/wiki/莫德瑞 "wikilink")，而[莫德瑞一出生就吃掉](https://zh.wikipedia.org/wiki/莫德瑞 "wikilink")[米亞](https://zh.wikipedia.org/wiki/米亞 "wikilink")，[蘇姍娜則射斷了莫俊德蜘蛛形態的一隻腳](https://zh.wikipedia.org/wiki/蘇姍娜 "wikilink")。
 
 經過一場混戰，眾人終於來到藍色天堂，藍色天堂即破壞者居住的地方，又稱帝法托易，血腥之王利用破壞者的念能力破壞光束。槍俠們在三名破壞者的幫助下，終於解放了藍色天堂，但[艾迪在最後遭到藍天堂的主任平姆立](https://zh.wikipedia.org/wiki/艾迪 "wikilink")·普蘭提斯槍殺。
 

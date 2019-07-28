@@ -1,4 +1,4 @@
-《**黃金B段班**》（）是[中天娛樂台談話性](../Page/中天娛樂台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2008年7月21日至2009年2月19日每星期一至星期五（2008年11月7日起改為每星期一至星期四）晚間九點播出。該節目找來最當紅的「B咖」主持，以藝人角度為出發點，探討藝人辛苦在演藝圈中奮鬥且不為人知的一面。
+《**黃金B段班**》（）是[中天娛樂台](../Page/中天娛樂台.md "wikilink")談話性[綜藝節目](../Page/綜藝節目.md "wikilink")，於2008年7月21日至2009年2月19日每星期一至星期五（2008年11月7日起改為每星期一至星期四）晚間九點播出。該節目找來最當紅的「B咖」主持，以藝人角度為出發點，探討藝人辛苦在演藝圈中奮鬥且不為人知的一面。
 
 ## 主持人
 
@@ -11,8 +11,8 @@
 
 ## 主要內容
 
-2008年7月21日，《黃金B段班》開播，主持人[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝開始推辭上](https://zh.wikipedia.org/wiki/韋汝 "wikilink")9點談話節目；模仿[康康出名的](../Page/康康.md "wikilink")[黃镫輝](https://zh.wikipedia.org/wiki/黃镫輝 "wikilink")，則要在《黃金B段班》中扮演綜藝Ｂ咖中的Ｂ咖，立志作個有質感的諧星，要與[陳漢典搶飯碗](../Page/陳漢典.md "wikilink")！《黃金B段班》企圖開創另類談話節目型態，加入[類戲劇元素](../Page/類戲劇.md "wikilink")，給6位主持人合乎自己性格的角色，節目暫定八人挑梁主持，除[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝](https://zh.wikipedia.org/wiki/韋汝 "wikilink")6人確定外，還有兩名人選難産中。制作單位透露，會由戲劇界去尋找新面孔，缺乏一個美豔的諧星，還有可愛的傻大姊。
-[佩甄對新節目收視率有信心](../Page/李佩甄.md "wikilink")，「你看[小鐘負責](https://zh.wikipedia.org/wiki/小鐘 "wikilink")[客家族群](https://zh.wikipedia.org/wiki/客家 "wikilink")，我負責帶入婆婆媽媽收看，[韋汝吸引年輕人](https://zh.wikipedia.org/wiki/韋汝 "wikilink")，[小馬也有](https://zh.wikipedia.org/wiki/小馬 "wikilink")[非洲支持者](../Page/非洲.md "wikilink")，8個人一個人只要負責0.25（%）的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")，輕輕松松就能破2（%）。」
+2008年7月21日，《黃金B段班》開播，主持人[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝開始推辭上](https://zh.wikipedia.org/wiki/韋汝 "wikilink")9點談話節目；模仿[康康](../Page/康康.md "wikilink")出名的[黃镫輝](https://zh.wikipedia.org/wiki/黃镫輝 "wikilink")，則要在《黃金B段班》中扮演綜藝Ｂ咖中的Ｂ咖，立志作個有質感的諧星，要與[陳漢典](../Page/陳漢典.md "wikilink")搶飯碗！《黃金B段班》企圖開創另類談話節目型態，加入[類戲劇](../Page/類戲劇.md "wikilink")元素，給6位主持人合乎自己性格的角色，節目暫定八人挑梁主持，除[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝](https://zh.wikipedia.org/wiki/韋汝 "wikilink")6人確定外，還有兩名人選難産中。制作單位透露，會由戲劇界去尋找新面孔，缺乏一個美豔的諧星，還有可愛的傻大姊。
+[佩甄對新節目收視率有信心](../Page/李佩甄.md "wikilink")，「你看[小鐘負責](https://zh.wikipedia.org/wiki/小鐘 "wikilink")[客家族群](https://zh.wikipedia.org/wiki/客家 "wikilink")，我負責帶入婆婆媽媽收看，[韋汝吸引年輕人](https://zh.wikipedia.org/wiki/韋汝 "wikilink")，[小馬也有](https://zh.wikipedia.org/wiki/小馬 "wikilink")[非洲](../Page/非洲.md "wikilink")支持者，8個人一個人只要負責0.25（%）的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")，輕輕松松就能破2（%）。」
 
 ## 第二季的黃金B段班
 
@@ -73,7 +73,7 @@
   - 12.08 香港戰利品大公開
   - 12.04 演藝圈追男仔
   - 12.03 是男人就不該怕這個
-  - 12.02 我被[八點檔害慘了](../Page/八點檔.md "wikilink")
+  - 12.02 我被[八點檔](../Page/八點檔.md "wikilink")害慘了
   - 12.01 我也有憋不住的時候
 
 
@@ -116,7 +116,7 @@
     [鐵獅玉玲珑之貴賓來喽](https://zh.wikipedia.org/wiki/鐵獅玉玲珑 "wikilink")([許效舜](../Page/許效舜.md "wikilink"))
   - 10.10 受不了 請你別再這樣做了
   - 10.09 戲劇綠葉角色也很紅
-  - 10.08 我也想要談戀愛 [NONO來聯誼](../Page/NONO.md "wikilink")
+  - 10.08 我也想要談戀愛 [NONO](../Page/NONO.md "wikilink")來聯誼
   - 10.07 B咖音樂大對抗
   - 10.06 三寸不爛之舌 死的也能說成活的
   - 10.03 裝可愛有理 幼稚比較紅
@@ -134,7 +134,7 @@
   - 09.22 把話給我說清楚([康康](../Page/康康.md "wikilink"))
   - 09.19 神啊！給我張完美的臉！最意想不到的變臉排行榜
   - 09.18 最想幫她擦乳液的雙腿
-  - 09.17 [化妝品專櫃小姐眼中](../Page/化妝品.md "wikilink") 醜女人大翻身排行榜
+  - 09.17 [化妝品](../Page/化妝品.md "wikilink")專櫃小姐眼中 醜女人大翻身排行榜
   - 09.16 時尚課 你的包包買對了嗎
   - 09.15 B段班大挑戰之來跳舞還是做[復健](../Page/復健.md "wikilink")
   - 09.12 小女人最想投入的超Man男聲排行榜
@@ -142,7 +142,7 @@
   - 09.10 演藝圈最有機會傳绯聞的勾魂雙眼
   - 09.09 殘酷排行榜之安親班老師眼中腦袋空空的藝人
   - 09.08 乃哥（[徐乃麟](../Page/徐乃麟.md "wikilink")）的最佳拍檔
-  - 09.05 男人不懂的[高跟鞋秘密](../Page/高跟鞋.md "wikilink")
+  - 09.05 男人不懂的[高跟鞋](../Page/高跟鞋.md "wikilink")秘密
   - 09.04 烈火紅唇排行榜
   - 09.03 爆紅後會得大頭症的B咖
   - 09.02 金排球（真歹笑）男諧星
@@ -150,7 +150,7 @@
 
 
 \*08.29
-[胡彥斌](../Page/胡彥斌.md "wikilink")、[李玖哲歌迷同樂會](../Page/李玖哲.md "wikilink")
+[胡彥斌](../Page/胡彥斌.md "wikilink")、[李玖哲](../Page/李玖哲.md "wikilink")歌迷同樂會
 
   - 08.28 史上最強ㄋㄞㄋㄞ女大排行
   - 08.27 空姐眼中最想交往的男諧星

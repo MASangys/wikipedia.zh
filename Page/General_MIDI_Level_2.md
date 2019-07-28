@@ -1,5 +1,5 @@
 **General MIDI Level
-2**，簡稱**GM2**，是[MIDI的標準規格](../Page/MIDI.md "wikilink")。它的基礎是[General
+2**，簡稱**GM2**，是[MIDI](../Page/MIDI.md "wikilink")的標準規格。它的基礎是[General
 MIDI以及](../Page/General_MIDI.md "wikilink")[GS
 extensions](https://zh.wikipedia.org/wiki/GS_extensions "wikilink")。在1999年被[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")(MMA)所採用。
 
@@ -249,7 +249,7 @@ LSB)在音色轉換之前去選定各個群組。群組0包含了原本[GM中所
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Church Bell</p></td>
-<td><p><a href="../Page/教堂.md" title="wikilink">教堂大鐘</a></p></td>
+<td><p><a href="../Page/教堂.md" title="wikilink">教堂</a>大鐘</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -465,7 +465,7 @@ LSB)在音色轉換之前去選定各個群組。群組0包含了原本[GM中所
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Funk Guitar</p></td>
-<td><p><a href="../Page/放克.md" title="wikilink">放克吉他</a></p></td>
+<td><p><a href="../Page/放克.md" title="wikilink">放克</a>吉他</p></td>
 <td></td>
 </tr>
 <tr class="odd">

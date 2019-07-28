@@ -3,7 +3,7 @@
 
 ## 故事背景
 
-[U.C.](../Page/宇宙世紀.md "wikilink")0090，從[第一次新自護抗戰結束後](https://zh.wikipedia.org/wiki/第一次新自護抗戰 "wikilink")，[地球聯邦軍執行的政策開始對](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")[宇宙殖民地的居民反感](../Page/宇宙殖民地.md "wikilink")，為了平息民憤，所以宇宙殖民地公社為中心展開重建[宇宙殖民地計劃](../Page/宇宙殖民地.md "wikilink")。當中受到[地球聯邦軍的護衛下重建](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")[SIDE
+[U.C.](../Page/宇宙世紀.md "wikilink")0090，從[第一次新自護抗戰結束後](https://zh.wikipedia.org/wiki/第一次新自護抗戰 "wikilink")，[地球聯邦軍執行的政策開始對](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")的居民反感，為了平息民憤，所以宇宙殖民地公社為中心展開重建[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")計劃。當中受到[地球聯邦軍的護衛下重建](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")[SIDE
 6的民間修理公司莫諾頓社突然被反地球連邦軍組織NSP](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")（New
 Summer
 Project）的激進分子[卡勒德襲擊](https://zh.wikipedia.org/wiki/卡勒德 "wikilink")，另一方面[新自護開始為殖民地落下計劃暗中進行](https://zh.wikipedia.org/wiki/新自護 "wikilink")。

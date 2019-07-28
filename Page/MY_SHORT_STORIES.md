@@ -1,5 +1,5 @@
 《**MY SHORT
-STORIES**》是日本唱作女歌手[YUI于](../Page/YUI.md "wikilink")2008年11月12日所推出的單曲B面精選。
+STORIES**》是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")于2008年11月12日所推出的單曲B面精選。
 
 ## 收錄歌曲
 

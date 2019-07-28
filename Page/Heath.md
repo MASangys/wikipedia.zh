@@ -13,7 +13,7 @@ JAPAN成員活動時為HEATH。
   - 1990年5月9日，在[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")，X的『ROSE\&BLOOD
     TOUR
     FINAL』演唱會後台認識了X的吉他手[hide](https://zh.wikipedia.org/wiki/hide "wikilink")，結下不解之緣。兩年後因為X的貝斯手[TAIJI退出](../Page/澤田泰司.md "wikilink")，樂團徵人，經由hide的推薦，Heath在1992年5月開始和X的成員合組練團。同年的8月24日，[X
-    JAPAN在](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[洛克斐勒中心的記者招待會中](../Page/洛克斐勒中心.md "wikilink")，正式介紹HEATH為新任的貝斯手，以及宣布團名更改為X
+    JAPAN在](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[洛克斐勒中心](../Page/洛克斐勒中心.md "wikilink")的記者招待會中，正式介紹HEATH為新任的貝斯手，以及宣布團名更改為X
     JAPAN。1992年10月29日，在[大阪城的EXTASY](https://zh.wikipedia.org/wiki/大阪 "wikilink")
     SUMMIT中，HEATH初次和歌迷見面。
 
@@ -43,7 +43,7 @@ JAPAN成員活動時為HEATH。
 
 <!-- end list -->
 
-  - 2005年7月24日，Lynx正式開始活動，於[新宿Loft舉行首次公開表演](../Page/新宿.md "wikilink")。
+  - 2005年7月24日，Lynx正式開始活動，於[新宿](../Page/新宿.md "wikilink")Loft舉行首次公開表演。
 
 <!-- end list -->
 

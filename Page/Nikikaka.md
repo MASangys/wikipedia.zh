@@ -1,4 +1,4 @@
-《**Nikikaka**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇於](../Page/周勵淇.md "wikilink")2006年8月18日發行的一張單曲。
+《**Nikikaka**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇](../Page/周勵淇.md "wikilink")於2006年8月18日發行的一張單曲。
 
 ## 簡介
 

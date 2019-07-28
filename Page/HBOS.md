@@ -9,7 +9,7 @@ Scotland）。公司總部位於蘇格蘭[愛丁堡的](https://zh.wikipedia.org
 
 2006年HBOS透過2006年HBOS集團重組法重組公司架構\[4\]。
 
-2009年1月19日，經[萊斯銀行集團及HBOS股東通過](https://zh.wikipedia.org/wiki/萊斯銀行集團 "wikilink")，[萊斯銀行收購HBOS](../Page/萊斯銀行.md "wikilink")，收購後HBOS仍然繼續作為集團中的一個獨立的組織，並表明收購後的HBOS仍以密特為蘇格蘭的業務總部，並不會停止發行蘇格蘭銀行紙幣\[5\]
+2009年1月19日，經[萊斯銀行集團及HBOS股東通過](https://zh.wikipedia.org/wiki/萊斯銀行集團 "wikilink")，[萊斯銀行](../Page/萊斯銀行.md "wikilink")收購HBOS，收購後HBOS仍然繼續作為集團中的一個獨立的組織，並表明收購後的HBOS仍以密特為蘇格蘭的業務總部，並不會停止發行蘇格蘭銀行紙幣\[5\]
 
 ## 参考
 

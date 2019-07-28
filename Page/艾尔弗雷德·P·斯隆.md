@@ -4,20 +4,20 @@ Jr.，），曾長期擔任[通用汽車公司的總裁](https://zh.wikipedia.or
 
 ## 簡傳
 
-斯隆於1875年出生於[美国](../Page/美国.md "wikilink")[康乃狄克州的](../Page/康乃狄克州.md "wikilink")[纽黑文](../Page/纽黑文.md "wikilink")，1892年畢業於[麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")
+斯隆於1875年出生於[美国](../Page/美国.md "wikilink")[康乃狄克州](../Page/康乃狄克州.md "wikilink")的[纽黑文](../Page/纽黑文.md "wikilink")，1892年畢業於[麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")
 ，主修[電機工程學](../Page/電機工程學.md "wikilink")。就讀期間曾加入兄弟會。
 
 1899年，他担任一家生产滚筒和[滾珠軸承的公司Hyatt](https://zh.wikipedia.org/wiki/滾珠軸承 "wikilink")
 Roller
 Bearing的總裁，這家公司在20世纪初是[福特汔車的轴承供应商](https://zh.wikipedia.org/wiki/福特汽车公司 "wikilink")。1916年他的公司和[联合汽车公司合并](https://zh.wikipedia.org/wiki/联合汽车公司 "wikilink")，後來成為[通用汽車公司的一部分](https://zh.wikipedia.org/wiki/通用汽車公司 "wikilink")。他先是担任副總裁，然后是總裁(1923)，最后于1937年成了通用的董事长。1934年，在擔任董事長期間成立了非營利性质的[艾爾弗．斯隆基金](https://zh.wikipedia.org/wiki/艾爾弗．斯隆基金 "wikilink")。通用汔車的名聲也因為斯隆對於經營及財務管理的操作理論像是[投資報酬率計算等](https://zh.wikipedia.org/wiki/投資報酬率 "wikilink")[會計方法](https://zh.wikipedia.org/wiki/會計 "wikilink")，而大為提升。
-這些管理辦法一路由擁有通用汽車43%的股份[杜邦公司總裁Pierre](../Page/杜邦.md "wikilink") S. du
+這些管理辦法一路由擁有通用汽車43%的股份[杜邦](../Page/杜邦.md "wikilink")公司總裁Pierre S. du
 Pont傳承到通用汽車副總裁John J. Raskob的手上最後由Donaldson Brown引進通用公司。
 
 斯隆首創了每年生產新車款的行銷方法，亦即「[计划报废](../Page/计划报废.md "wikilink")」的概念。他還將通用旗下的汽車廠牌差別定價，做出[市場區隔](https://zh.wikipedia.org/wiki/市場 "wikilink")，從最低價到最高價有[雪佛蘭](https://zh.wikipedia.org/wiki/雪佛蘭 "wikilink")、[龐蒂克](../Page/龐蒂克.md "wikilink")、[奥斯莫比](https://zh.wikipedia.org/wiki/奥斯莫比 "wikilink")、[別克](https://zh.wikipedia.org/wiki/別克 "wikilink")、[凱迪拉克](https://zh.wikipedia.org/wiki/凱迪拉克 "wikilink")，消費者可以隨購買力和喜好的變化，選擇不同的通用產品。相較於1920年代[福特汽車抗拒這些變革](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")，通用汽車在1930年代初躍升汽車工業的龍頭，佔據領先地位70年，斯隆的領導使通用汽車成為史上最成功、獲利最佳的企業。
 
-在斯隆領導通用汽車的同一時期，美國許多城市的[大眾運輸系統紛紛從](https://zh.wikipedia.org/wiki/大眾運輸系統 "wikilink")[有軌電車換成了](../Page/有軌電車.md "wikilink")[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")，有人相信這是[通用汽車](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")、[泛世通](https://zh.wikipedia.org/wiki/泛世通 "wikilink")、[雪佛龍](../Page/雪佛龍.md "wikilink")、[麥克貨車這些](https://zh.wikipedia.org/wiki/麥克貨車 "wikilink")[企業為增加汽車銷售量而在幕後推動的](https://zh.wikipedia.org/wiki/企業 "wikilink")。詳見[通用汽車電車陰謀](../Page/通用汽車電車陰謀.md "wikilink")。
+在斯隆領導通用汽車的同一時期，美國許多城市的[大眾運輸系統紛紛從](https://zh.wikipedia.org/wiki/大眾運輸系統 "wikilink")[有軌電車](../Page/有軌電車.md "wikilink")換成了[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")，有人相信這是[通用汽車](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")、[泛世通](https://zh.wikipedia.org/wiki/泛世通 "wikilink")、[雪佛龍](../Page/雪佛龍.md "wikilink")、[麥克貨車這些](https://zh.wikipedia.org/wiki/麥克貨車 "wikilink")[企業為增加汽車銷售量而在幕後推動的](https://zh.wikipedia.org/wiki/企業 "wikilink")。詳見[通用汽車電車陰謀](../Page/通用汽車電車陰謀.md "wikilink")。
 
-在20世紀30年代，通用汽車的工人組織起來，準備爭取勞工權益。長期敵視工會的通用汽車，跟勞工展開長期的鬥爭，以爭取控制權。斯隆厭惡跟[亨利·福特一樣使用暴力](../Page/亨利·福特.md "wikilink")。
+在20世紀30年代，通用汽車的工人組織起來，準備爭取勞工權益。長期敵視工會的通用汽車，跟勞工展開長期的鬥爭，以爭取控制權。斯隆厭惡跟[亨利·福特](../Page/亨利·福特.md "wikilink")一樣使用暴力。
 不過在1936年工人組織了一次大規模罷工靜坐後他的態度轉驅強硬。
 
 1931年麻省理工學院在斯隆的贊助下成立了G. Osuna University

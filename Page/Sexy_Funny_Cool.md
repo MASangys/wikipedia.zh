@@ -1,4 +1,4 @@
-**SEXXY-FUNИY-COOL**是[香港三人女子跳舞歌唱組合](../Page/香港.md "wikilink")[HotCha的第二張專輯](../Page/HotCha.md "wikilink")，於2008年11月2日發行。此專輯以三款不同封面推出，分別是以[白色背景為主的SEXXY](../Page/白色.md "wikilink")（SEXY）版、以[啡色背景為主的FUNИY](https://zh.wikipedia.org/wiki/啡色 "wikilink")（FUNNY）版及以[黑色背景為主的COOL版](../Page/黑色.md "wikilink")。
+**SEXXY-FUNИY-COOL**是[香港](../Page/香港.md "wikilink")三人女子跳舞歌唱組合[HotCha](../Page/HotCha.md "wikilink")的第二張專輯，於2008年11月2日發行。此專輯以三款不同封面推出，分別是以[白色](../Page/白色.md "wikilink")背景為主的SEXXY（SEXY）版、以[啡色背景為主的FUNИY](https://zh.wikipedia.org/wiki/啡色 "wikilink")（FUNNY）版及以[黑色](../Page/黑色.md "wikilink")背景為主的COOL版。
 
 這張專輯的主打歌為《了了》、《小野蠻》及《You Are My Best
 Friend》，而隨碟附送的[DVD收錄了四首新歌](https://zh.wikipedia.org/wiki/DVD "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。此外，本專輯亦隨碟附送HotCha珍藏貼紙。
@@ -11,9 +11,9 @@ HotCha Debut Dance LIVE」的宣傳海報為封面。
 ### 第一版、限定特別版及熱舞版
 
 這張專輯收錄了八首新歌，其中《了了》、《小野蠻》、《火熱悶棍La La La》及《You Are My Best
-Friend》於專輯發行前已經派台。《旅行的意義》改編自[陳綺貞的國語同名歌曲](../Page/陳綺貞.md "wikilink")，而《火熱悶棍La
+Friend》於專輯發行前已經派台。《旅行的意義》改編自[陳綺貞](../Page/陳綺貞.md "wikilink")的國語同名歌曲，而《火熱悶棍La
 La La》則與[I Love You
-Boyz合唱](../Page/I_Love_You_Boyz.md "wikilink")，並為[Neway歐洲國家杯的廣告歌](../Page/Neway.md "wikilink")。
+Boyz合唱](../Page/I_Love_You_Boyz.md "wikilink")，並為[Neway](../Page/Neway.md "wikilink")歐洲國家杯的廣告歌。
 
 ### 2.0 讚賀版
 

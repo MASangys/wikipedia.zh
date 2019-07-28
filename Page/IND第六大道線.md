@@ -1,4 +1,4 @@
-**第六大道線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵路線](../Page/地鐵.md "wikilink")，主要在[曼哈頓](../Page/曼哈頓.md "wikilink")[第六大道下方行走](https://zh.wikipedia.org/wiki/第六大道_\(曼哈頓\) "wikilink")，並繼續向南通過魯奇斯街隧道往[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，是[獨立地鐵系統最後的幹線](../Page/獨立地鐵系統.md "wikilink")，1940年完工。[B線](../Page/紐約地鐵B線.md "wikilink")、[D線](../Page/紐約地鐵D線.md "wikilink")、[F線與](../Page/紐約地鐵F線.md "wikilink")[M線都以第六大道線通過](../Page/紐約地鐵M線.md "wikilink")[曼哈頓中城](../Page/曼哈頓中城.md "wikilink")，路線徽號為橙色。
+**第六大道線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線，主要在[曼哈頓](../Page/曼哈頓.md "wikilink")[第六大道下方行走](https://zh.wikipedia.org/wiki/第六大道_\(曼哈頓\) "wikilink")，並繼續向南通過魯奇斯街隧道往[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，是[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")最後的幹線，1940年完工。[B線](../Page/紐約地鐵B線.md "wikilink")、[D線](../Page/紐約地鐵D線.md "wikilink")、[F線與](../Page/紐約地鐵F線.md "wikilink")[M線都以第六大道線通過](../Page/紐約地鐵M線.md "wikilink")[曼哈頓中城](../Page/曼哈頓中城.md "wikilink")，路線徽號為橙色。
 
 ## 服務
 

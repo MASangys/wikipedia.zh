@@ -1,5 +1,5 @@
-《**電擊學園RPG 女神的十字架**》，是[角川書店與](../Page/角川書店.md "wikilink")[ASCII Media
-Works為了慶祝](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")15周年，而在2009年3月19日於[NDS平台上推出的](https://zh.wikipedia.org/wiki/NDS "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此遊戲使用傳統RPG的遊戲模式及2D[橫向捲軸戰鬥模式](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，一次同時操縱三個人物利用連續攻擊和必殺技進行戰鬥，此遊戲也支援卡片合成系統，為遊戲添加了更大的變數。隨後在2011年2月10日，[角川書店與](../Page/角川書店.md "wikilink")[ASCII
+《**電擊學園RPG 女神的十字架**》，是[角川書店](../Page/角川書店.md "wikilink")與[ASCII Media
+Works為了慶祝](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")15周年，而在2009年3月19日於[NDS平台上推出的](https://zh.wikipedia.org/wiki/NDS "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此遊戲使用傳統RPG的遊戲模式及2D[橫向捲軸戰鬥模式](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，一次同時操縱三個人物利用連續攻擊和必殺技進行戰鬥，此遊戲也支援卡片合成系統，為遊戲添加了更大的變數。隨後在2011年2月10日，[角川書店](../Page/角川書店.md "wikilink")與[ASCII
 Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出《**電擊學園RPG
 女神的十字架 特別版**》。
 
@@ -7,7 +7,7 @@ Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出
 
 本作的故事場景「電擊學園」取自於現實世界的「電擊文庫」，在「電擊學園」的世界中，存在著企圖改變人心、毀滅世界的組織「絕夢」。而男女主角為了阻止絕夢的陰謀，進而與八位電擊文庫的女主角並肩作戰，以阻止絕夢的陰謀。
 
-本作的8位女性角色都是電擊文庫中的女主角，包括《[灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")》、《[奇諾之旅](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")》、《[撲殺天使朵庫蘿](../Page/撲殺天使朵庫蘿.md "wikilink")》、《[乃木坂春香的秘密](../Page/乃木坂春香的秘密.md "wikilink")》、《[魔法禁書目錄](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》、《[TIGER×DRAGON！](../Page/TIGER×DRAGON！.md "wikilink")》、《[機巧魔神](https://zh.wikipedia.org/wiki/機巧魔神 "wikilink")》、《[伊里野的天空、UFO的夏天](../Page/伊里野的天空、UFO的夏天.md "wikilink")》等8部[電擊文庫的小說人物](../Page/電擊文庫.md "wikilink")，同時其他電擊文庫的角色也會在此遊戲中客串，聲優高達40人之多。
+本作的8位女性角色都是電擊文庫中的女主角，包括《[灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")》、《[奇諾之旅](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")》、《[撲殺天使朵庫蘿](../Page/撲殺天使朵庫蘿.md "wikilink")》、《[乃木坂春香的秘密](../Page/乃木坂春香的秘密.md "wikilink")》、《[魔法禁書目錄](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》、《[TIGER×DRAGON！](../Page/TIGER×DRAGON！.md "wikilink")》、《[機巧魔神](https://zh.wikipedia.org/wiki/機巧魔神 "wikilink")》、《[伊里野的天空、UFO的夏天](../Page/伊里野的天空、UFO的夏天.md "wikilink")》等8部[電擊文庫](../Page/電擊文庫.md "wikilink")的小說人物，同時其他電擊文庫的角色也會在此遊戲中客串，聲優高達40人之多。
 
 ## 故事
 

@@ -1,6 +1,6 @@
 **K9Copy**
 是一個自由、開源的DVD備份和DVD製作程序用於[Unix-like作業系統](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
-，如 [Linux和](../Page/Linux.md "wikilink")[BSD](../Page/BSD.md "wikilink")
+，如 [Linux](../Page/Linux.md "wikilink")和[BSD](../Page/BSD.md "wikilink")
 。許可遵從[GNU General Public
 License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
@@ -18,7 +18,7 @@ K9Copy能夠將雙層DVD-9的內容移到一個單層DVD-5
 [MB](https://zh.wikipedia.org/wiki/megabyte "wikilink")），並存儲在用戶的硬盤驅動器作成一個ISO
 映像檔案或DVD [VIDEO TS的文件夾](../Page/DVD-Video.md "wikilink")。K9Copy
 可以轉換的備份數據到空白的DVD ±
-R媒體本身或利用外部DVD製作軟件，如[K3b完成這項任務](../Page/K3b.md "wikilink")。\[2\]
+R媒體本身或利用外部DVD製作軟件，如[K3b](../Page/K3b.md "wikilink")完成這項任務。\[2\]
 此外， K9Copy 製作出的 ISO映像檔案可以使用任何軟件記錄到DVD，在任何平台都能夠記錄 ISO映像到光盤。
 
 ## 參考文獻

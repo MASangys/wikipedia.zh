@@ -1,4 +1,4 @@
-**ETtoday新聞雲**為[臺灣社群](../Page/臺灣.md "wikilink")[新聞網站](../Page/新聞媒體.md "wikilink")，由**東森新媒體控股股份有限公司**經營。
+**ETtoday新聞雲**為[臺灣](../Page/臺灣.md "wikilink")社群[新聞網站](../Page/新聞媒體.md "wikilink")，由**東森新媒體控股股份有限公司**經營。
 
 该网站前身為2000年至2008年3月的《東森新聞報》。2008年4月，《東森新聞報》被轉售予中華聯合電訊集團（今中華聯合集團）旗下的「中華聯合數位映像股份有限公司」，並以《東森新聞報》相關資源成立《[NOWnews今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")》。2011年11月1日，東森國際股份有限公司旗下的「森信-{}-息股份有限公司」重新成立新型態新聞網站《ETtoday新聞雲》。2014年4月，森信息股份有限公司更名為「東森新聞雲股份有限公司」，繼續經營《ETtoday新聞雲》。
 
@@ -13,11 +13,11 @@
   - 2000年3月1日，東森新聞報（ETtoday.com）開始試刊；同年5月15日正式上線。
   - 2005年[8月](../Page/2005年8月.md "wikilink")，東森新聞報推出[部落格平台Bloguide](https://zh.wikipedia.org/wiki/部落格 "wikilink")（Bloguide.ETtoday.com），採取會員認證與試寫文章作為雙重審核制度。
   - 2006年5月16日，東森新聞報與Bloguide改版，本次改版後的東森新聞報標榜從首面到焦點版，甚至到內面的新聞版裡，都可以看到bloguide的文章\[1\]。
-  - 2008年[3月初](../Page/2008年3月.md "wikilink")，[東森電視](../Page/東森電視.md "wikilink")[董事會通過決議](https://zh.wikipedia.org/wiki/董事會 "wikilink")，東森新聞報與[超視育樂台結束營運](https://zh.wikipedia.org/wiki/超視育樂台 "wikilink")。4月1日，東森電視出售價值[新臺幣數千萬元的東森新聞報資產設備給中華聯合數](../Page/新臺幣.md "wikilink")-{}-位映像股份有限公司經營[NOWnews今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")\[2\]\[3\]。
+  - 2008年[3月初](../Page/2008年3月.md "wikilink")，[東森電視](../Page/東森電視.md "wikilink")[董事會通過決議](https://zh.wikipedia.org/wiki/董事會 "wikilink")，東森新聞報與[超視育樂台結束營運](https://zh.wikipedia.org/wiki/超視育樂台 "wikilink")。4月1日，東森電視出售價值[新臺幣](../Page/新臺幣.md "wikilink")數千萬元的東森新聞報資產設備給中華聯合數-{}-位映像股份有限公司經營[NOWnews今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")\[2\]\[3\]。
 
 ### ETtoday新聞雲（2011年至2012年）
 
-  - 2010年5月4日，時任總編輯蔡慶輝、執行副總編輯譚志東與副總編輯林蕙娟領軍成立[新媒體實驗室](../Page/新媒體.md "wikilink")[CubeMedia酷新聞](https://zh.wikipedia.org/wiki/CubeMedia酷新聞 "wikilink")[粉絲專頁](../Page/粉絲專頁.md "wikilink")，每日分享新聞與資訊。
+  - 2010年5月4日，時任總編輯蔡慶輝、執行副總編輯譚志東與副總編輯林蕙娟領軍成立[新媒體](../Page/新媒體.md "wikilink")實驗室[CubeMedia酷新聞](https://zh.wikipedia.org/wiki/CubeMedia酷新聞 "wikilink")[粉絲專頁](../Page/粉絲專頁.md "wikilink")，每日分享新聞與資訊。
   - 2011年8月，ETtoday.net籌備處在臺北市中正區[忠孝西路一段4號](../Page/忠孝西路_\(臺北市\).md "wikilink")15樓（[崇聖大樓](https://zh.wikipedia.org/wiki/崇聖大樓 "wikilink")）正式運作，於9月率先在[facebook成立ETtoday新聞雲粉絲專頁](https://zh.wikipedia.org/wiki/facebook "wikilink")。
   - 2011年9月13日，森信-{}-息公司由創辦人王令麟、共同創辦人蔡慶輝創立，成立ETtoday新聞雲（www.ettoday.net）網站，將其定位為社群新聞網站，並宣佈將於同年11月1日正式上線，宣傳口號為：『睽違了三年半，ETtoday回來了！這回不再「達康」（[.com](../Page/.com.md "wikilink")），進化成「達內」（[.net](https://zh.wikipedia.org/wiki/.net "wikilink")）囉！』
   - 2011年11月1日，ETtoday新聞雲正式上線，除設立官方粉絲專頁外，亦推出多種實驗性網頁，依網友不同的使用習慣分享不同的相關訊息\[4\]。
@@ -26,11 +26,11 @@
 
 [ETtoday_News_Live_Broadcast_Center_opening_ceremony_20161205.jpg](https://zh.wikipedia.org/wiki/File:ETtoday_News_Live_Broadcast_Center_opening_ceremony_20161205.jpg "fig:ETtoday_News_Live_Broadcast_Center_opening_ceremony_20161205.jpg")
 
-  - 2013年1月，更名為ETtoday東森新聞雲，並正式投入[电子商务平台](../Page/电子商务.md "wikilink")。而ETtoday新聞雲仍用作簡稱。
+  - 2013年1月，更名為ETtoday東森新聞雲，並正式投入[电子商务](../Page/电子商务.md "wikilink")平台。而ETtoday新聞雲仍用作簡稱。
   - 2013年10月，根據[Alexa
-    Internet網路流量排名](../Page/Alexa_Internet.md "wikilink")，ETtoday東森新聞雲已成為臺灣新聞類網站第一名，緊接在後的是[聯合新聞網與](../Page/聯合新聞網.md "wikilink")[中時電子報](../Page/中時電子報.md "wikilink")\[5\]。
+    Internet網路流量排名](../Page/Alexa_Internet.md "wikilink")，ETtoday東森新聞雲已成為臺灣新聞類網站第一名，緊接在後的是[聯合新聞網](../Page/聯合新聞網.md "wikilink")與[中時電子報](../Page/中時電子報.md "wikilink")\[5\]。
   - 2014年2月，根據數-{}-位時代雜誌評比之2014台灣網站100大，ETtoday東森新聞雲由2013年的31名前進到第9名，也是新聞網站第一名。
-  - 2015年12月11日，[東森國際副總經理兼發言人](../Page/東森國際.md "wikilink")[鄭應娜說](https://zh.wikipedia.org/wiki/鄭應娜 "wikilink")，ETtoday東森新聞雲持續擴大規模，員工人數已達400人，網路日流量最高可達1600萬人次，前景相當看好，將成為東森國際下一個金雞母\[6\]。
+  - 2015年12月11日，[東森國際](../Page/東森國際.md "wikilink")副總經理兼發言人[鄭應娜說](https://zh.wikipedia.org/wiki/鄭應娜 "wikilink")，ETtoday東森新聞雲持續擴大規模，員工人數已達400人，網路日流量最高可達1600萬人次，前景相當看好，將成為東森國際下一個金雞母\[6\]。
   - 2016年4月初，王令麟找來前[台灣蘋果日報財富周刊總編輯王學呈擔任ETtoday東森新聞雲總編輯](https://zh.wikipedia.org/wiki/台灣蘋果日報 "wikilink")，原總編輯蔡慶輝升任社長。\[7\]。
   - 2016年8月，東森媒體集團「東森四少」之一、前[福斯國際電視網頻道暨節目營運總經理](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")[陳安祥重返東森集團](https://zh.wikipedia.org/wiki/陳安祥 "wikilink")，擔任ETtoday東森新聞雲總經理\[8\]。
   - 2016年12月5日，ETtoday東森新聞雲新聞直播中心開台儀式，新聞直播中心位於臺北市中正區忠孝西路一段4號15樓，[立法院院長](../Page/立法院院長.md "wikilink")[蘇嘉全](../Page/蘇嘉全.md "wikilink")、ETtoday東森新聞雲總經理陳安祥、ETtoday東森新聞雲總編輯王學呈一起按下開台啟動鈕；同日中午，ETtoday東森新聞雲第一個[現場直播](../Page/現場直播.md "wikilink")[政論節目](../Page/政論節目.md "wikilink")《雲端最前線》上線，首任主持人[楊文嘉](https://zh.wikipedia.org/wiki/楊文嘉 "wikilink")\[9\]\[10\]。
@@ -45,7 +45,7 @@
 
 ### ETtoday新聞雲（2017年11月起）
 
-  - 2017年11月1日，網站成立6周年時回復以往[企业识别ETtoday新聞雲](../Page/企业识别.md "wikilink")。\[13\]
+  - 2017年11月1日，網站成立6周年時回復以往[企业识别](../Page/企业识别.md "wikilink")ETtoday新聞雲。\[13\]
   - 2018年11月，《ETtoday新聞雲》粉絲數突破1600萬。
 
 ## 實驗性網頁

@@ -1,6 +1,6 @@
 **App
 Store**，是[蘋果公司為其](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
-Touch以及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPad等產品建立和維護的數位化](https://zh.wikipedia.org/wiki/iPad "wikilink")[流動應用程式發行平台](../Page/流動應用程式.md "wikilink")，允許使用者從[iTunes
+Touch以及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPad等產品建立和維護的數位化](https://zh.wikipedia.org/wiki/iPad "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")發行平台，允許使用者從[iTunes
 Store瀏覽和下載一些由](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[iOS
 SDK或者Mac](https://zh.wikipedia.org/wiki/iOS_SDK "wikilink")
 SDK開發的應用程式。根據應用程式發行的不同情況，使用者可以付費或者免費下載。應用程式可以直接下載到[iOS裝置](https://zh.wikipedia.org/wiki/iOS "wikilink")，至[iTunes版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")12.7以前也可以透過[macOS或者](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows平台下的iTunes下載到電腦中再同步至iOS裝置](https://zh.wikipedia.org/wiki/Windows "wikilink")。其中包含遊戲、日程管理、詞典、圖庫及許多實用的軟體。透過[蘋果公司全球軟體開發者年會](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink")2012发布的iOS
@@ -28,12 +28,12 @@ Play遊戲為求雙平台公平性連帶漲價](../Page/Google_Play.md "wikilink
 **App Store**從iPhone、iPod
 touch到[iPad的應用程序商店都是相同的名稱](https://zh.wikipedia.org/wiki/iPad "wikilink")。**App**是應用程序英文“Application”的簡稱。隨著蘋果公司App
 Store成功的經營和其他公司跟隨推出自己的應用程式商店，“App”和“應用（程式）”逐漸成為了一個流行語。蘋果公司曾試圖將App
-Store註冊為[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")，以防其他公司使用\[8\]\[9\]，然而其要求禁止[亞馬遜公司繼續使用](../Page/亞馬遜公司.md "wikilink")**Appstore**名稱的[訴訟卻被](../Page/訴訟.md "wikilink")[法官駁回](../Page/法官.md "wikilink")\[10\]\[11\]\[12\]\[13\]。
+Store註冊為[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")，以防其他公司使用\[8\]\[9\]，然而其要求禁止[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")繼續使用**Appstore**名稱的[訴訟](../Page/訴訟.md "wikilink")卻被[法官](../Page/法官.md "wikilink")駁回\[10\]\[11\]\[12\]\[13\]。
 
 ## 审核、越狱及非法程序
 
 所有在App
-Store供应的應用程式在成功發布之前必須通過蘋果公司的审核，以確保符合[SDK中的條款](https://zh.wikipedia.org/wiki/SDK "wikilink")。亦有相當數量的應用程式，如[維基解密應用程式](../Page/維基解密.md "wikilink")，在發布後由於被認定為違反條款而被迫下架。在未[越狱的状态中](https://zh.wikipedia.org/wiki/jailbreak "wikilink")，[iOS以往设备只能从App](https://zh.wikipedia.org/wiki/iOS "wikilink")
+Store供应的應用程式在成功發布之前必須通過蘋果公司的审核，以確保符合[SDK中的條款](https://zh.wikipedia.org/wiki/SDK "wikilink")。亦有相當數量的應用程式，如[維基解密](../Page/維基解密.md "wikilink")應用程式，在發布後由於被認定為違反條款而被迫下架。在未[越狱的状态中](https://zh.wikipedia.org/wiki/jailbreak "wikilink")，[iOS以往设备只能从App](https://zh.wikipedia.org/wiki/iOS "wikilink")
 Store中獲取应用程序，而現在一些電腦上的軟件已經能透過自動共享[Apple
 ID的方式來達至免越獄安裝非法应用程序](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")，這導致了用户更容易地安裝得到一些不合法版本的应用程序，其不合法版本定義是指程序雖然已經通過了審查，但是所下載得來的程序是未經付款授權。另一方面越獄的主要功能是為了繞開蘋果公司App
 Store嚴格的審查制度和對應用程式功能的種種限制。在越獄過後用户能夠進行一些系統上更高權限的操作，安裝被限制以外的应用程序，由於缺乏了蘋果的審查，這些应用程序不是都能保证安全无害的，同時有些應用程式更會導致出現白蘋果及資料遺失等高風險問題出現，越獄也常被濫用。

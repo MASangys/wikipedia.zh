@@ -3,14 +3,14 @@
 **TTJ捷運公車**（**Taichung Transit Jet
 bus**），（2009年5月18日─2010年12月31日）推出時口號為**天天坐不用錢**（**TTJBUS**），至2011年則以Taichung-city
 Taichung-county
-Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺中市政府.md "wikilink")[公車而開辦的一系列新公車路線及免費方案](https://zh.wikipedia.org/wiki/公車 "wikilink")。
-此系列公車創立時雖以[捷運命名](../Page/捷運.md "wikilink")，事實上它並沒有專用道，也沒有專用或優先號誌，更沒有車外收費系統，所以它並不是[公車捷運系統](https://zh.wikipedia.org/wiki/公車捷運系統 "wikilink")，而是屬於[捷運先導公車](../Page/捷運先導公車.md "wikilink")，直到2010年底。實質上為台中市鼓勵民眾多使用公車而開辦的一系列新公車路線及免費公車方案。
+Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink")為推廣民眾多使用[公車而開辦的一系列新公車路線及免費方案](https://zh.wikipedia.org/wiki/公車 "wikilink")。
+此系列公車創立時雖以[捷運](../Page/捷運.md "wikilink")命名，事實上它並沒有專用道，也沒有專用或優先號誌，更沒有車外收費系統，所以它並不是[公車捷運系統](https://zh.wikipedia.org/wiki/公車捷運系統 "wikilink")，而是屬於[捷運先導公車](../Page/捷運先導公車.md "wikilink")，直到2010年底。實質上為台中市鼓勵民眾多使用公車而開辦的一系列新公車路線及免費公車方案。
 
-最初停靠模式比照[捷運模式](../Page/捷運.md "wikilink")，將公車站牌間距拉長。第二年開始停站模式比照一般公車辦理，行駛範圍也由原本的[臺中市部分](../Page/臺中市_\(省轄市\).md "wikilink")[市轄區內的主要幹道及地區延伸到](https://zh.wikipedia.org/wiki/市轄區 "wikilink")[台中縣](https://zh.wikipedia.org/wiki/台中縣 "wikilink")。第三年因為新成立的[臺中直轄市將預算補助對象調整為所有的市區公車](https://zh.wikipedia.org/wiki/臺中市 "wikilink")，此名稱基本失去原本意義。
+最初停靠模式比照[捷運](../Page/捷運.md "wikilink")模式，將公車站牌間距拉長。第二年開始停站模式比照一般公車辦理，行駛範圍也由原本的[臺中市部分](../Page/臺中市_\(省轄市\).md "wikilink")[市轄區內的主要幹道及地區延伸到](https://zh.wikipedia.org/wiki/市轄區 "wikilink")[台中縣](https://zh.wikipedia.org/wiki/台中縣 "wikilink")。第三年因為新成立的[臺中直轄市將預算補助對象調整為所有的市區公車](https://zh.wikipedia.org/wiki/臺中市 "wikilink")，此名稱基本失去原本意義。
 
 ## 歷史
 
-臺中市政府為推廣民眾多使用[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")，於2009年5月18日起，開辦7條新路線，以類似[捷運的模式](../Page/捷運.md "wikilink")，行走市內主要幹道。TTJ捷運公車的賣點是「準點、快速、車輛新」，在開辦初期（2009年5月18日至11月17日）由於民眾滿意度愈來愈高，市府加碼辦理，免費延長到12月31日，本系列路線免費供持有指定電子付款卡的乘客免費乘坐。99年度捷運公車，改成免刷卡也可免費搭乘，但刷卡可享2小時內轉乘優惠。讓[台中市市民和遊客在](https://zh.wikipedia.org/wiki/台中市 "wikilink")[台中捷運通車前先培養乘搭公共交通的習慣](https://zh.wikipedia.org/wiki/台中捷運 "wikilink")。
+臺中市政府為推廣民眾多使用[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")，於2009年5月18日起，開辦7條新路線，以類似[捷運](../Page/捷運.md "wikilink")的模式，行走市內主要幹道。TTJ捷運公車的賣點是「準點、快速、車輛新」，在開辦初期（2009年5月18日至11月17日）由於民眾滿意度愈來愈高，市府加碼辦理，免費延長到12月31日，本系列路線免費供持有指定電子付款卡的乘客免費乘坐。99年度捷運公車，改成免刷卡也可免費搭乘，但刷卡可享2小時內轉乘優惠。讓[台中市市民和遊客在](https://zh.wikipedia.org/wiki/台中市 "wikilink")[台中捷運通車前先培養乘搭公共交通的習慣](https://zh.wikipedia.org/wiki/台中捷運 "wikilink")。
 
 2010年1月1日起，TTJ
 捷運公車自台中市區延伸自鄰近台中縣[大里](https://zh.wikipedia.org/wiki/大里區 "wikilink")、[太平](https://zh.wikipedia.org/wiki/太平區_\(臺中市\) "wikilink")、[潭子等鄉鎮市境內](../Page/潭子區.md "wikilink")。
@@ -67,7 +67,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
   - 營運客運：[統聯客運](../Page/統聯客運.md "wikilink")
   - 路線設計：半環一般
   - 公車停靠站：
-      - [舊社公園](../Page/舊社公園.md "wikilink")、平田-{里}-、四維國小、昌平路口、崇德路口、文心國小、中清路口、陝西路口、重慶國小、[文華高中](https://zh.wikipedia.org/wiki/國立臺中文華高級中學 "wikilink")、西屯路口、四川路口、中港路口、中央健保局、市政路口（[家樂福文心店旁](../Page/家樂福.md "wikilink")）、公益路口、[文心森林公園](../Page/文心森林公園.md "wikilink")、向心路口、南屯路口、[豐樂公園](../Page/豐樂雕塑公園.md "wikilink")、[中山醫學大學](../Page/中山醫學大學.md "wikilink")、[特力屋](../Page/B&Q.md "wikilink")、[臺中高工](https://zh.wikipedia.org/wiki/國立臺中高級工業職業學校 "wikilink")（單邊設站）、南區區公所（單邊設站）。
+      - [舊社公園](../Page/舊社公園.md "wikilink")、平田-{里}-、四維國小、昌平路口、崇德路口、文心國小、中清路口、陝西路口、重慶國小、[文華高中](https://zh.wikipedia.org/wiki/國立臺中文華高級中學 "wikilink")、西屯路口、四川路口、中港路口、中央健保局、市政路口（[家樂福](../Page/家樂福.md "wikilink")文心店旁）、公益路口、[文心森林公園](../Page/文心森林公園.md "wikilink")、向心路口、南屯路口、[豐樂公園](../Page/豐樂雕塑公園.md "wikilink")、[中山醫學大學](../Page/中山醫學大學.md "wikilink")、[特力屋](../Page/B&Q.md "wikilink")、[臺中高工](https://zh.wikipedia.org/wiki/國立臺中高級工業職業學校 "wikilink")（單邊設站）、南區區公所（單邊設站）。
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
 [Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg](https://zh.wikipedia.org/wiki/File:Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg "fig:Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg")的站牌\]\]
 
   - 路線名稱：<font color=blue>█</font> **中港線**
-  - 營運客運：[台中客運與](https://zh.wikipedia.org/wiki/台中客運 "wikilink")[統聯客運聯營](../Page/統聯客運.md "wikilink")
+  - 營運客運：[台中客運與](https://zh.wikipedia.org/wiki/台中客運 "wikilink")[統聯客運](../Page/統聯客運.md "wikilink")聯營
   - 路線設計：直線
   - 公車停靠站：
       - 綠川東站（單邊設站）、[臺中車站](https://zh.wikipedia.org/wiki/臺中車站 "wikilink")（單邊設站）、第一廣場、第二市場、中華路口、[中山醫院](https://zh.wikipedia.org/wiki/中山醫學大學附設醫院 "wikilink")（中港院區）、民權路口、中正國小、[科學博物館](../Page/國立自然科學博物館.md "wikilink")、忠明國小、頂何厝、文心路口、新光三越、[朝馬](../Page/朝馬.md "wikilink")、福安里、[中港澄清醫院](../Page/澄清醫院.md "wikilink")、[臺中榮總](../Page/臺中榮民總醫院.md "wikilink")、東海別墅。
@@ -154,7 +154,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
 <!-- end list -->
 
   -
-    ※改為一般路線，並由[彰化客運接手](../Page/彰化客運.md "wikilink")。
+    ※改為一般路線，並由[彰化客運](../Page/彰化客運.md "wikilink")接手。
 
 <!-- end list -->
 
@@ -166,7 +166,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
   - 營運客運：[統聯客運](../Page/統聯客運.md "wikilink")
   - 路線設計：半環一般
   - 公車停靠站：
-      - [太原車站](https://zh.wikipedia.org/wiki/太原車站 "wikilink")、三川福德祠、三甲公園、三和里、東光國小、聯安醫院、[四維國小](https://zh.wikipedia.org/wiki/臺中市立四維國民小學 "wikilink")、文心昌平路口、文心熱河路口、文心崇德路口、文心國小、文心梅川西路口、文心山西路口、文心青島東街口、文心中清路口、陝西路口、[台灣日報](../Page/台灣日報.md "wikilink")、重慶國小、文心河南路口、[文華高中](https://zh.wikipedia.org/wiki/國立臺中文華高級中學 "wikilink")、文心甘肅路口、文心西屯路口、文心四川路口、文心中港路口、市警局、中央健保局、文心市政路口（[家樂福文心店旁](../Page/家樂福.md "wikilink")）、文心公益路口、[文心森林公園](../Page/文心森林公園.md "wikilink")、文心向心路口、文心五權西路口、文心南屯路口、永春東路口、[豐樂公園](../Page/豐樂雕塑公園.md "wikilink")、文心三民西路口、[中山醫學大學](../Page/中山醫學大學.md "wikilink")、[特力屋](../Page/B&Q.md "wikilink")、文心大慶街口、高工文心南路口、[臺中高工](https://zh.wikipedia.org/wiki/國立臺中高級工業職業學校 "wikilink")、工學一街口、僑泰中學（高工路）、積善公園、大明爽文路口、大明國光路口、大明益民路口、崇光國小、國立大里高中（現為[興大附中](https://zh.wikipedia.org/wiki/興大附中 "wikilink")）、益民德芳路口、益民國小、[立人高中](https://zh.wikipedia.org/wiki/臺中縣私立立人高級中學 "wikilink")、下內新、兒童藝術館。
+      - [太原車站](https://zh.wikipedia.org/wiki/太原車站 "wikilink")、三川福德祠、三甲公園、三和里、東光國小、聯安醫院、[四維國小](https://zh.wikipedia.org/wiki/臺中市立四維國民小學 "wikilink")、文心昌平路口、文心熱河路口、文心崇德路口、文心國小、文心梅川西路口、文心山西路口、文心青島東街口、文心中清路口、陝西路口、[台灣日報](../Page/台灣日報.md "wikilink")、重慶國小、文心河南路口、[文華高中](https://zh.wikipedia.org/wiki/國立臺中文華高級中學 "wikilink")、文心甘肅路口、文心西屯路口、文心四川路口、文心中港路口、市警局、中央健保局、文心市政路口（[家樂福](../Page/家樂福.md "wikilink")文心店旁）、文心公益路口、[文心森林公園](../Page/文心森林公園.md "wikilink")、文心向心路口、文心五權西路口、文心南屯路口、永春東路口、[豐樂公園](../Page/豐樂雕塑公園.md "wikilink")、文心三民西路口、[中山醫學大學](../Page/中山醫學大學.md "wikilink")、[特力屋](../Page/B&Q.md "wikilink")、文心大慶街口、高工文心南路口、[臺中高工](https://zh.wikipedia.org/wiki/國立臺中高級工業職業學校 "wikilink")、工學一街口、僑泰中學（高工路）、積善公園、大明爽文路口、大明國光路口、大明益民路口、崇光國小、國立大里高中（現為[興大附中](https://zh.wikipedia.org/wiki/興大附中 "wikilink")）、益民德芳路口、益民國小、[立人高中](https://zh.wikipedia.org/wiki/臺中縣私立立人高級中學 "wikilink")、下內新、兒童藝術館。
 
 <!-- end list -->
 
@@ -231,7 +231,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
 
 2011年1月1日起，轉型成一般市區公車按里程計費。6月1日起與所有台中市公車一同，持卡8公里內免費優惠。
 
-路線變更方面，新成立50路大里霧峰幹線由[統聯客運行駛](../Page/統聯客運.md "wikilink")，55路經調整路線，南端起訖點改至[地方法院](../Page/臺灣臺中地方法院.md "wikilink")，北端起訖點延駛至豐原，並將營運業者由原[統聯客運改為](../Page/統聯客運.md "wikilink")[豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")，58路南端起訖點改至明德女中。
+路線變更方面，新成立50路大里霧峰幹線由[統聯客運](../Page/統聯客運.md "wikilink")行駛，55路經調整路線，南端起訖點改至[地方法院](../Page/臺灣臺中地方法院.md "wikilink")，北端起訖點延駛至豐原，並將營運業者由原[統聯客運](../Page/統聯客運.md "wikilink")改為[豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")，58路南端起訖點改至明德女中。
 2月14日起50路起訖點由干城延駛至[新民高中](https://zh.wikipedia.org/wiki/台中市私立新民高級中學 "wikilink")，58路南端起訖點由明德女中延駛至南區公所。
 
   - 2011年當時的路線
@@ -267,7 +267,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
 <!-- end list -->
 
   -
-    ※仍為[彰化客運營運之一般路線](../Page/彰化客運.md "wikilink")。
+    ※仍為[彰化客運](../Page/彰化客運.md "wikilink")營運之一般路線。
 
 <!-- end list -->
 
@@ -279,7 +279,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
   - 營運客運：[統聯客運](../Page/統聯客運.md "wikilink")
   - 路線設計：半環一般
   - 公車停靠站：
-      - [太原車站](https://zh.wikipedia.org/wiki/太原車站 "wikilink")、三川福德祠、三甲公園、三和里、東光國小、聯安醫院、[四維國小](https://zh.wikipedia.org/wiki/臺中市立四維國民小學 "wikilink")、文心昌平路口、文心熱河路口、文心崇德路口、文心國小、文心梅川西路口、文心山西路口、文心青島東街口、文心中清路口、陝西路口、[台灣日報](../Page/台灣日報.md "wikilink")、重慶國小、文心河南路口、[文華高中](https://zh.wikipedia.org/wiki/國立臺中文華高級中學 "wikilink")、文心甘肅路口、文心西屯路口、文心四川路口、文心中港路口、市警局、中央健保局、文心市政路口（[家樂福文心店旁](../Page/家樂福.md "wikilink")）、文心公益路口、[文心森林公園](../Page/文心森林公園.md "wikilink")、文心向心路口、文心五權西路口、文心南屯路口、永春東路口、[豐樂公園](../Page/豐樂雕塑公園.md "wikilink")、文心三民西路口、[中山醫學大學](../Page/中山醫學大學.md "wikilink")、[特力屋](../Page/B&Q.md "wikilink")、文心大慶街口、高工文心南路口、[臺中高工](https://zh.wikipedia.org/wiki/國立臺中高級工業學校 "wikilink")、工學一街口、[僑泰中學](https://zh.wikipedia.org/wiki/僑泰中學 "wikilink")（高工路）、積善公園、大明爽文路口、大明國光路口、大明益民路口、崇光國小、[國立大里高中](https://zh.wikipedia.org/wiki/國立大里高級中學 "wikilink")、益民德芳路口、益民國小、[立人高中](https://zh.wikipedia.org/wiki/臺中縣私立立人高級中學 "wikilink")、下內新、[兒童藝術館](https://zh.wikipedia.org/wiki/台中兒童藝術館 "wikilink")。
+      - [太原車站](https://zh.wikipedia.org/wiki/太原車站 "wikilink")、三川福德祠、三甲公園、三和里、東光國小、聯安醫院、[四維國小](https://zh.wikipedia.org/wiki/臺中市立四維國民小學 "wikilink")、文心昌平路口、文心熱河路口、文心崇德路口、文心國小、文心梅川西路口、文心山西路口、文心青島東街口、文心中清路口、陝西路口、[台灣日報](../Page/台灣日報.md "wikilink")、重慶國小、文心河南路口、[文華高中](https://zh.wikipedia.org/wiki/國立臺中文華高級中學 "wikilink")、文心甘肅路口、文心西屯路口、文心四川路口、文心中港路口、市警局、中央健保局、文心市政路口（[家樂福](../Page/家樂福.md "wikilink")文心店旁）、文心公益路口、[文心森林公園](../Page/文心森林公園.md "wikilink")、文心向心路口、文心五權西路口、文心南屯路口、永春東路口、[豐樂公園](../Page/豐樂雕塑公園.md "wikilink")、文心三民西路口、[中山醫學大學](../Page/中山醫學大學.md "wikilink")、[特力屋](../Page/B&Q.md "wikilink")、文心大慶街口、高工文心南路口、[臺中高工](https://zh.wikipedia.org/wiki/國立臺中高級工業學校 "wikilink")、工學一街口、[僑泰中學](https://zh.wikipedia.org/wiki/僑泰中學 "wikilink")（高工路）、積善公園、大明爽文路口、大明國光路口、大明益民路口、崇光國小、[國立大里高中](https://zh.wikipedia.org/wiki/國立大里高級中學 "wikilink")、益民德芳路口、益民國小、[立人高中](https://zh.wikipedia.org/wiki/臺中縣私立立人高級中學 "wikilink")、下內新、[兒童藝術館](https://zh.wikipedia.org/wiki/台中兒童藝術館 "wikilink")。
 
 <!-- end list -->
 
@@ -411,7 +411,7 @@ Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺�
 ### 過去
 
 2011年1月1日起，比照市區公車按里程收費。
-2009年5月18日至12月31日，憑[臺灣通](../Page/臺灣通.md "wikilink")（含原[臺中e卡通](../Page/臺中e卡通.md "wikilink")）或[ETC或](https://zh.wikipedia.org/wiki/ETC "wikilink")[悠遊卡於上下車時分別刷卡一次即可免費搭乘](../Page/悠遊卡.md "wikilink")，不接受投[現](https://zh.wikipedia.org/wiki/現金 "wikilink")。
+2009年5月18日至12月31日，憑[臺灣通](../Page/臺灣通.md "wikilink")（含原[臺中e卡通](../Page/臺中e卡通.md "wikilink")）或[ETC或](https://zh.wikipedia.org/wiki/ETC "wikilink")[悠遊卡](../Page/悠遊卡.md "wikilink")於上下車時分別刷卡一次即可免費搭乘，不接受投[現](https://zh.wikipedia.org/wiki/現金 "wikilink")。
 
 2010年1月1日至12月31日，全日免費搭乘，但持臺灣通（或臺中e卡通）刷卡，下車刷卡起二小時內再持卡轉乘不同路線之市區公車者，享一次基本里程8公里（20元）免費搭乘。
 

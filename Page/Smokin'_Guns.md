@@ -1,6 +1,6 @@
 **Smokin'
 Guns**（**SG**）是一个[开源](../Page/开放源代码.md "wikilink")[第一人称射击](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")[游戏](../Page/电脑游戏.md "wikilink")。Smokin'
-Guns设计目标是成为基于[雷神之锤III竞技场的](../Page/雷神之锤III竞技场.md "wikilink")**旧西部故事**，半真实半虚构的模拟。
+Guns设计目标是成为基于[雷神之锤III竞技场](../Page/雷神之锤III竞技场.md "wikilink")的**旧西部故事**，半真实半虚构的模拟。
 深受西部电影影响，特别是意大利人摄制的美国式西部片。
 
 ## 开发历史

@@ -8,7 +8,7 @@ Internet首](../Page/Alexa_Internet.md "wikilink")1000個最多人瀏覽的網�
 
 它將軟件分為18個分類:
 
-1.  [网页浏览器及附加组件](../Page/网页浏览器.md "wikilink")(Browsers and Plugins)
+1.  [网页浏览器](../Page/网页浏览器.md "wikilink")及附加组件(Browsers and Plugins)
 2.  [文件分享](https://zh.wikipedia.org/wiki/文件分享 "wikilink")(File sharing)
 3.  通訊及聊天(Messaging and Chat)
 4.  文件傳送(File Transfer)
@@ -25,7 +25,7 @@ Internet首](../Page/Alexa_Internet.md "wikilink")1000個最多人瀏覽的網�
 12. 系統評分軟件(Benchmark)
 13. 網絡及管理軟件(Networking and Admin)
 14. 音樂及影像軟件(Audio and Video)
-15. [CD及](../Page/CD.md "wikilink")[DVD工具](https://zh.wikipedia.org/wiki/DVD "wikilink")(CD
+15. [CD](../Page/CD.md "wikilink")及[DVD工具](https://zh.wikipedia.org/wiki/DVD "wikilink")(CD
     and DVD Tools)
 16. [桌面軟件](https://zh.wikipedia.org/wiki/桌面 "wikilink")(Desktop)
 17. 圖片軟件(Imaging)

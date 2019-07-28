@@ -1,10 +1,10 @@
 **Allan–Robinson反应**（阿兰-罗宾逊反应）
 
-邻[羟基](../Page/羟基.md "wikilink")[芳](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[酮与芳香](../Page/酮.md "wikilink")[酸酐作用环合生成](../Page/酸酐.md "wikilink")[黄酮或](https://zh.wikipedia.org/wiki/黄酮 "wikilink")[异黄酮](https://zh.wikipedia.org/wiki/异黄酮 "wikilink")。\[1\]\[2\]\[3\]
+邻[羟基](../Page/羟基.md "wikilink")[芳](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[酮](../Page/酮.md "wikilink")与芳香[酸酐](../Page/酸酐.md "wikilink")作用环合生成[黄酮或](https://zh.wikipedia.org/wiki/黄酮 "wikilink")[异黄酮](https://zh.wikipedia.org/wiki/异黄酮 "wikilink")。\[1\]\[2\]\[3\]
 
 [Allan-Robinson_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Allan-Robinson_Reaction_Scheme.png "fig:Allan-Robinson_Reaction_Scheme.png")
 
-使用[脂肪族酸酐时](https://zh.wikipedia.org/wiki/脂肪族 "wikilink")，反应也会产生[香豆素类化合物](../Page/香豆素.md "wikilink")。
+使用[脂肪族酸酐时](https://zh.wikipedia.org/wiki/脂肪族 "wikilink")，反应也会产生[香豆素](../Page/香豆素.md "wikilink")类化合物。
 
 ## 参见
 

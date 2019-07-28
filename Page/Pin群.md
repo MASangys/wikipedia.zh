@@ -1,5 +1,5 @@
-[数学中](../Page/数学.md "wikilink")，**Pin
-群**是一个[二次型空间相伴的](../Page/二次型.md "wikilink")[克利福德代数的一个子群](https://zh.wikipedia.org/wiki/克利福德代数 "wikilink")。它有一个到[正交群的](../Page/正交群.md "wikilink")
+[数学](../Page/数学.md "wikilink")中，**Pin
+群**是一个[二次型](../Page/二次型.md "wikilink")空间相伴的[克利福德代数的一个子群](https://zh.wikipedia.org/wiki/克利福德代数 "wikilink")。它有一个到[正交群](../Page/正交群.md "wikilink")的
 2 对 1 映射，就像 [Spin
 群映到特殊正交群一样](https://zh.wikipedia.org/wiki/Spin_群 "wikilink")。
 
@@ -30,7 +30,7 @@ SO(*n*) 惟一的[万有覆叠](https://zh.wikipedia.org/wiki/万有覆叠 "wiki
 
 ## 作为拓扑空间
 
-任何[连通](../Page/连通空间.md "wikilink")[拓扑群在拓扑意义上有惟一的万有覆叠空间](../Page/拓扑群.md "wikilink")，这个空间有惟一的群结构作为[基本群的](../Page/基本群.md "wikilink")[中心扩张](https://zh.wikipedia.org/wiki/中心扩张 "wikilink")。对一个不连通拓扑空间，含单位元的分支有一个惟一的万有覆叠，然后在其他分支作为拓扑空间可取同一个覆叠（这是单位分支的[主齐性空间](../Page/主齐性空间.md "wikilink")），但是其它分支的群结构一般不是惟一的。
+任何[连通](../Page/连通空间.md "wikilink")[拓扑群](../Page/拓扑群.md "wikilink")在拓扑意义上有惟一的万有覆叠空间，这个空间有惟一的群结构作为[基本群](../Page/基本群.md "wikilink")的[中心扩张](https://zh.wikipedia.org/wiki/中心扩张 "wikilink")。对一个不连通拓扑空间，含单位元的分支有一个惟一的万有覆叠，然后在其他分支作为拓扑空间可取同一个覆叠（这是单位分支的[主齐性空间](../Page/主齐性空间.md "wikilink")），但是其它分支的群结构一般不是惟一的。
 
 Pin 和 Spin 群是和正交群和特殊正交群关联的独特的拓扑空间，由 Clifford
 代数中得出：存在其他类似的群，对于于其他分支的其他二重覆叠或者其他群结构，但是他们不叫做

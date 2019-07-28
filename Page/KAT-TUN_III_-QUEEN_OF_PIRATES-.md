@@ -1,5 +1,5 @@
 《**KAT-TUN III -QUEEN OF
-PIRATES-**》是[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")3張專輯，於2008年6月4日發售。
+PIRATES-**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第3張專輯，於2008年6月4日發售。
 
 ## 概要
 
@@ -40,11 +40,11 @@ PIRATES-**》是[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")3張專輯，於20
 5.  **DISTANCE**
       - Lyrics：Gin. K
       - Music、Arrangement：Erik Lidbom
-      - [田口淳之介主音的歌曲](../Page/田口淳之介.md "wikilink")。
+      - [田口淳之介](../Page/田口淳之介.md "wikilink")主音的歌曲。
 6.  **MOTHER/FATHER**
       - Lyrics：Ami、Rap Lyrics：JOKER
       - Music：Yoshinao Mikami、Arrangement：Yoshinao Mikami/a.k.a.
-      - [上田龍也主音的歌曲](../Page/上田龍也.md "wikilink")。
+      - [上田龍也](../Page/上田龍也.md "wikilink")主音的歌曲。
 7.  **[LIPS](../Page/LIPS.md "wikilink")**
       - Lyrics：Axel-G、Rap Lyrics：JOKER
       - Music、Arrangement：Yukihide“YT”Takiyama
@@ -63,7 +63,7 @@ PIRATES-**》是[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")3張專輯，於20
 11. **無論經過多少年**（）
       - Lyrics：Erykah、Rap Lyrics：JOKER
       - Music：Mike Rose、Arrangement：Masayuki Iwata
-      - [中丸雄一主音的歌曲](../Page/中丸雄一.md "wikilink")。
+      - [中丸雄一](../Page/中丸雄一.md "wikilink")主音的歌曲。
 
 　以下為初回盤限定收錄的歌曲（Bonus Track）。
 

@@ -1,9 +1,9 @@
 《**"Hello,
-world."**》是[Nitro+於](../Page/Nitro+.md "wikilink")2002年9月27日發售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")。
+world."**》是[Nitro+](../Page/Nitro+.md "wikilink")於2002年9月27日發售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")。
 
 ## 概要
 
-遊戲時間約需要30小時以上，在[Nitro+的作品是最龐大的劇本容量](../Page/Nitro+.md "wikilink")，其劇本長度遠遠超過第二長的《[斬魔大聖Demonbane](https://zh.wikipedia.org/wiki/斬魔大聖Demonbane "wikilink")》。背景數、3D物件亦因此比同類型遊戲多出很多。所畫的人物色彩鮮豔，開頭動畫也含有非常重的[萌和學園戀愛喜劇的風格](../Page/萌.md "wikilink")，但實際上故事仍然是Nitro+的沉重氣氛。第一次[虛淵玄沒有深入參與的遊戲](../Page/虛淵玄.md "wikilink")。
+遊戲時間約需要30小時以上，在[Nitro+](../Page/Nitro+.md "wikilink")的作品是最龐大的劇本容量，其劇本長度遠遠超過第二長的《[斬魔大聖Demonbane](https://zh.wikipedia.org/wiki/斬魔大聖Demonbane "wikilink")》。背景數、3D物件亦因此比同類型遊戲多出很多。所畫的人物色彩鮮豔，開頭動畫也含有非常重的[萌](../Page/萌.md "wikilink")和學園戀愛喜劇的風格，但實際上故事仍然是Nitro+的沉重氣氛。第一次[虛淵玄](../Page/虛淵玄.md "wikilink")沒有深入參與的遊戲。
 
 主角友永和樹是一台[機械人](../Page/机器人.md "wikilink")，無任何感情，經過經驗和學習以吸取人類的智慧，這種學習的過程就是劇本重要的骨幹。
 

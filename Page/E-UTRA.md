@@ -4,7 +4,7 @@
 的[空中介面](https://zh.wikipedia.org/wiki/空中介面 "wikilink")\[1\]，目前是
 3GPP 的第八版本。與 [HSPA](https://zh.wikipedia.org/wiki/HSPA "wikilink")
 不同的是，LTE 的 E-UTRA
-係一全新的系統，絕不相容於W-CDMA。它提供了更高的传输速率，低延迟和最佳化数据包的能力，用[OFDMA无线接入给下行连接](https://zh.wikipedia.org/wiki/OFDMA "wikilink")，[SC-FDMA给上行连接](../Page/SC-FDMA.md "wikilink")。
+係一全新的系統，絕不相容於W-CDMA。它提供了更高的传输速率，低延迟和最佳化数据包的能力，用[OFDMA无线接入给下行连接](https://zh.wikipedia.org/wiki/OFDMA "wikilink")，[SC-FDMA](../Page/SC-FDMA.md "wikilink")给上行连接。
 [EUTRAN_arch.op.svg](https://zh.wikipedia.org/wiki/File:EUTRAN_arch.op.svg "fig:EUTRAN_arch.op.svg")
 and
 [SAE](https://zh.wikipedia.org/wiki/System_Architecture_Evolution "wikilink")
@@ -111,7 +111,7 @@ E-UTRA採用正交頻分复用（OFDM），多輸入-多輸出（MIMO）天線�
 
 在 3GPP 第 10 版协议中定义的 8 种 LTE UE 工作类型定义\[13\] 所取得最大数据速率和MIMO功能的支持.
 
-| 3GPP Release | UE 工作类型（User Equipment Category） | 最大L1层数据速率 [下行](https://zh.wikipedia.org/wiki/下行 "wikilink") | [MIMO实现下行速率的最大天线数](../Page/MIMO.md "wikilink") | 最大L1层数据速率 [上行](https://zh.wikipedia.org/wiki/上行 "wikilink") | 调制方式[下行](https://zh.wikipedia.org/wiki/下行 "wikilink") | 调制方式[上行](https://zh.wikipedia.org/wiki/上行 "wikilink") |
+| 3GPP Release | UE 工作类型（User Equipment Category） | 最大L1层数据速率 [下行](https://zh.wikipedia.org/wiki/下行 "wikilink") | [MIMO](../Page/MIMO.md "wikilink")实现下行速率的最大天线数 | 最大L1层数据速率 [上行](https://zh.wikipedia.org/wiki/上行 "wikilink") | 调制方式[下行](https://zh.wikipedia.org/wiki/下行 "wikilink") | 调制方式[上行](https://zh.wikipedia.org/wiki/上行 "wikilink") |
 | ------------ | -------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | Release 8    | Category 1                       | 10.3 Mbits/s                                                | 1                                              | 5.2 Mbit/s                                                  | QPSK,16QAM,64QAM                                      | QPSK,16QAM                                            |
 | Release 8    | Category 2                       | 51.0 Mbits/s                                                | 2                                              | 25.5 Mbit/s                                                 | QPSK,16QAM,64QAM                                      | QPSK,16QAM                                            |
@@ -699,7 +699,8 @@ UE接收<br />
 <td></td>
 <td><p>瑞典(<a href="https://zh.wikipedia.org/wiki/Hutchison_3G" title="wikilink">3</a>)</p></td>
 <td><p><br />
-中国大陆（<a href="https://zh.wikipedia.org/wiki/中国联通" title="wikilink">中国联通</a>、<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>）</p></td>
+中国大陆（<a href="https://zh.wikipedia.org/wiki/中国联通" title="wikilink">中国联通</a>、<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>）<br />
+中華民國 （<a href="https://zh.wikipedia.org/wiki/中華電信" title="wikilink">中華電信</a>、<a href="../Page/台灣大哥大.md" title="wikilink">台灣大哥大</a>、<a href="../Page/遠傳電信.md" title="wikilink">遠傳電信</a>、<a href="../Page/台灣之星.md" title="wikilink">台灣之星</a>）</p></td>
 <td><p>安哥拉(<a href="https://zh.wikipedia.org/wiki/Unitel" title="wikilink">Unitel</a>), 南非(<a href="https://zh.wikipedia.org/wiki/Cell_C" title="wikilink">Cell C</a>)</p></td>
 <td></td>
 </tr>
@@ -721,7 +722,7 @@ UE接收<br />
 <td></td>
 <td><p>多明尼加共和国(<a href="https://zh.wikipedia.org/wiki/Orange_(法國電信)" title="wikilink">Orange S.A.</a>), 委内瑞拉(<a href="https://zh.wikipedia.org/wiki/Digitel_GSM" title="wikilink">Digitel GSM</a>)</p></td>
 <td></td>
-<td><p>中华民国（<a href="https://zh.wikipedia.org/wiki/中华电信" title="wikilink">中华电信</a>）[16]<br />
+<td><p>中华民国（<a href="https://zh.wikipedia.org/wiki/中华电信" title="wikilink">中华电信</a>、<a href="../Page/遠傳電信.md" title="wikilink">遠傳電信</a>、<a href="../Page/台灣大哥大.md" title="wikilink">台灣大哥大</a>）[16]<br />
 中国大陆（<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>、<a href="https://zh.wikipedia.org/wiki/中国联通" title="wikilink">中国联通</a>）</p></td>
 <td></td>
 <td></td>
@@ -779,7 +780,8 @@ UE接收<br />
 <td></td>
 <td></td>
 <td><p>瑞典(<a href="https://zh.wikipedia.org/wiki/Net4Mobility" title="wikilink">Net4Mobility</a>)</p></td>
-<td><p>韩国(<a href="https://zh.wikipedia.org/wiki/KT" title="wikilink">KT</a>)</p></td>
+<td><p>韩国(<a href="https://zh.wikipedia.org/wiki/KT" title="wikilink">KT</a>)<br />
+中华民国（<a href="https://zh.wikipedia.org/wiki/中华电信" title="wikilink">中华电信</a>、<a href="../Page/台灣之星.md" title="wikilink">台灣之星</a>、<a href="../Page/亞太電信.md" title="wikilink">亞太電信</a>)</p></td>
 <td></td>
 <td></td>
 </tr>

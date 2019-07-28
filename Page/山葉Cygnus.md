@@ -1,5 +1,5 @@
 [Yamaha_cygnus_x_sr.jpg](https://zh.wikipedia.org/wiki/File:Yamaha_cygnus_x_sr.jpg "fig:Yamaha_cygnus_x_sr.jpg")
-**山葉Cygnus**（）是[日本](../Page/日本.md "wikilink")[山葉發動機公司製造販售的一款輕型](../Page/山葉發動機.md "wikilink")[速克達](../Page/速克達.md "wikilink")，型號是「XC」。雖然以前所有的型號都是日本生產，但現在都是由[台灣山葉機車生產](../Page/台灣山葉機車.md "wikilink")。車名Cygnus是「[天鵝座](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")」的意思。
+**山葉Cygnus**（）是[日本](../Page/日本.md "wikilink")[山葉發動機](../Page/山葉發動機.md "wikilink")公司製造販售的一款輕型[速克達](../Page/速克達.md "wikilink")，型號是「XC」。雖然以前所有的型號都是日本生產，但現在都是由[台灣山葉機車](../Page/台灣山葉機車.md "wikilink")生產。車名Cygnus是「[天鵝座](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")」的意思。
 
 *以下內容以日本市場為主*
 
@@ -104,7 +104,7 @@ FD為基礎加入了更多現代感線條，圓弧部份也增加了許多，但
 
 頂迅車系約有三次小改款，型號分別為XC125B、XC125G及XC125N。
 
-**勁戰**系列，官方英文為**CYGNUS-X**，型號變更為**NXC125開頭**，於2002年發表，頂級迅光的繼任者，在車體、引擎上都有全新的設計，對台灣的125cc[速克達市場投下了一顆震撼彈並帶動台灣](../Page/速克達.md "wikilink")125cc[速克達朝向新世代發展](../Page/速克達.md "wikilink")，一般民間俗稱"**[天鵝](https://zh.wikipedia.org/wiki/天鵝 "wikilink")**"。引擎首次採用型號5TY(5ML)四汽門引擎，結束山葉以自家開發的EV4
+**勁戰**系列，官方英文為**CYGNUS-X**，型號變更為**NXC125開頭**，於2002年發表，頂級迅光的繼任者，在車體、引擎上都有全新的設計，對台灣的125cc[速克達](../Page/速克達.md "wikilink")市場投下了一顆震撼彈並帶動台灣125cc[速克達](../Page/速克達.md "wikilink")朝向新世代發展，一般民間俗稱"**[天鵝](https://zh.wikipedia.org/wiki/天鵝 "wikilink")**"。引擎首次採用型號5TY(5ML)四汽門引擎，結束山葉以自家開發的EV4
 NPA引擎作為主力車種引擎時代，5TY(5ML)引擎是台灣山葉首度採用四汽門設計，延伸引擎中、尾加速較過往EV4
 二汽門引擎設計更佳、引擎機油潤滑方式改良自[HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")
 [GY6引擎的曲軸潑濺式潤滑](https://zh.wikipedia.org/wiki/GY6 "wikilink")，並設計有引擎支架(俗稱狗骨頭)穩定引擎與後輪扭動、汽缸採用GP鎳磷合金提高汽缸耐用程度，由於車體良好穩定性，在機車賽事上也帶起一股改車風潮。

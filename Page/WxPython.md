@@ -1,4 +1,4 @@
-**wxPython**是[Python语言的](../Page/Python.md "wikilink")[GUI工具包](https://zh.wikipedia.org/wiki/GUI "wikilink")，作为Python的扩展模块实现，包装了[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")。
+**wxPython**是[Python](../Page/Python.md "wikilink")语言的[GUI工具包](https://zh.wikipedia.org/wiki/GUI "wikilink")，作为Python的扩展模块实现，包装了[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")。
 
 wxPython是跨平台的，开源的。
 
@@ -24,7 +24,7 @@ app.MainLoop()
     Drive](https://zh.wikipedia.org/wiki/Google_Drive "wikilink")，Google雲端存儲系統的桌面客戶端\[1\]。
   - [GRASS
     GIS](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")，一種免費且[開源的地理信息系統](https://zh.wikipedia.org/wiki/開源 "wikilink")。
-  - [PlayOnLinux](../Page/PlayOnLinux.md "wikilink")，一個[Wine軟體](../Page/Wine.md "wikilink")[相容層的圖形化前端](https://zh.wikipedia.org/wiki/相容層 "wikilink")。
+  - [PlayOnLinux](../Page/PlayOnLinux.md "wikilink")，一個[Wine](../Page/Wine.md "wikilink")軟體[相容層的圖形化前端](https://zh.wikipedia.org/wiki/相容層 "wikilink")。
 
 ## 參見
 

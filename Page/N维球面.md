@@ -1,6 +1,6 @@
 [Sphere-wireframe.png](https://zh.wikipedia.org/wiki/File:Sphere-wireframe.png "fig:Sphere-wireframe.png")\]\]
 
-***n*维球面**是普通的[球面在任意](../Page/球面.md "wikilink")[维度的推广](https://zh.wikipedia.org/wiki/维度 "wikilink")。它是(*n* + 1)维空间内的*n*维[流形](../Page/流形.md "wikilink")。特别地，0维球面就是直线上的两个点，1维球面是[平面上的](../Page/平面.md "wikilink")[圆](../Page/圆.md "wikilink")，2维球面是三维空间内的普通球面。高于2维的球面有时称为**超球面**。中心位于原点且半径为单位长度的*n*维球面称为**单位*n*维球面**，记为*S*<sup>*n*</sup>。用符号来表示，就是：
+***n*维球面**是普通的[球面](../Page/球面.md "wikilink")在任意[维度的推广](https://zh.wikipedia.org/wiki/维度 "wikilink")。它是(*n* + 1)维空间内的*n*维[流形](../Page/流形.md "wikilink")。特别地，0维球面就是直线上的两个点，1维球面是[平面](../Page/平面.md "wikilink")上的[圆](../Page/圆.md "wikilink")，2维球面是三维空间内的普通球面。高于2维的球面有时称为**超球面**。中心位于原点且半径为单位长度的*n*维球面称为**单位*n*维球面**，记为*S*<sup>*n*</sup>。用符号来表示，就是：
 
 \[S^n = \left\{ x \in \mathbb{R}^{n+1} : \|x\| = 1\right\}.\]
 
@@ -10,10 +10,10 @@
 
 [Hypersphere_coord.gif](https://zh.wikipedia.org/wiki/File:Hypersphere_coord.gif "fig:Hypersphere_coord.gif")（藍色）以及超子午線（綠色）的[立體投影法](https://zh.wikipedia.org/wiki/立體投影 "wikilink")。
 因為立體投影法的[共形特性](https://zh.wikipedia.org/wiki/共形 "wikilink")，這些曲線彼此在交點上彼此正交（圖中黃色點），如同在四維空間中一樣。所有曲線都是圓；交會在\<0,0,0,1\>的曲線具有無限大的半徑（亦即直線）。\]\]
-对于任何[自然数](../Page/自然数.md "wikilink")*n*，[半径为](https://zh.wikipedia.org/wiki/半径 "wikilink")*r*的*n*维球面定义为(*n* + 1)维[欧几里得空间中到某个定点的距离等于常数](../Page/欧几里得空间.md "wikilink")*r*的所有点的集合，其中*r*可以是任何正的实数。它是(*n* + 1)维空间内的*n*维[流形](../Page/流形.md "wikilink")。特别地：
+对于任何[自然数](../Page/自然数.md "wikilink")*n*，[半径为](https://zh.wikipedia.org/wiki/半径 "wikilink")*r*的*n*维球面定义为(*n* + 1)维[欧几里得空间](../Page/欧几里得空间.md "wikilink")中到某个定点的距离等于常数*r*的所有点的集合，其中*r*可以是任何正的实数。它是(*n* + 1)维空间内的*n*维[流形](../Page/流形.md "wikilink")。特别地：
 
   - 0维球面是直线上的两个点{*p* − *r*, *p* + *r*}；
-  - 1维球面是[平面上的](../Page/平面.md "wikilink")[圆](../Page/圆.md "wikilink")；
+  - 1维球面是[平面](../Page/平面.md "wikilink")上的[圆](../Page/圆.md "wikilink")；
   - 2维球面是三维空间内的普通球面；
   - [3维球面是四维空间内的球面](https://zh.wikipedia.org/wiki/三维球面 "wikilink")。
 
@@ -26,7 +26,7 @@
 
 其中*C*是中心点，*r*是半径。
 
-以上的*n*维球面在(*n* + 1)维空间中存在，是*n*维流形的一个例子。半径为\(r\)的*n*维球面的[体积形式ω由下式给出](../Page/体积形式.md "wikilink")：
+以上的*n*维球面在(*n* + 1)维空间中存在，是*n*维流形的一个例子。半径为\(r\)的*n*维球面的[体积形式](../Page/体积形式.md "wikilink")ω由下式给出：
 
 \[\omega = {1 \over r} \sum_{j=1}^{n+1} (-1)^{j-1} x_j \,dx_1 \wedge \cdots \wedge dx_{j-1} \wedge dx_{j+1}\wedge \cdots \wedge dx_{n+1} = * dr\]
 
@@ -71,7 +71,7 @@
 
 \[V_n = \frac{2 \pi R^2}{n} V_{n-2}\,\]
 
-这些公式也可以直接从*n*维[球坐标系中的](https://zh.wikipedia.org/wiki/球坐标系 "wikilink")[积分推出](../Page/积分.md "wikilink")。
+这些公式也可以直接从*n*维[球坐标系中的](https://zh.wikipedia.org/wiki/球坐标系 "wikilink")[积分](../Page/积分.md "wikilink")推出。
 
 ### 例子
 

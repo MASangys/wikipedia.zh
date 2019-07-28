@@ -3,7 +3,7 @@
 
 ## 产生过程
 
-在洋葱的植物组织受到破坏时，存在于洋葱中的风味和香味化合物前体[*S*-(1-丙烯基)-<small>L</small>-半胱氨酸亚砜被](https://zh.wikipedia.org/wiki/S-\(1-丙烯基\)-L-半胱氨酸亚砜 "wikilink")[蒜氨酸酶迅速水解](https://zh.wikipedia.org/wiki/蒜氨酸酶 "wikilink")，产生[丙烯基次磺酸中间体以及](https://zh.wikipedia.org/wiki/丙烯基次磺酸 "wikilink")[氨和](../Page/氨.md "wikilink")[丙酮酸](../Page/丙酮酸.md "wikilink")。次磺酸再[重排为催泪物丙硫醛](https://zh.wikipedia.org/wiki/重排 "wikilink")-*S*-氧化物，呈现出洋葱风味。\[1\]
+在洋葱的植物组织受到破坏时，存在于洋葱中的风味和香味化合物前体[*S*-(1-丙烯基)-<small>L</small>-半胱氨酸亚砜被](https://zh.wikipedia.org/wiki/S-\(1-丙烯基\)-L-半胱氨酸亚砜 "wikilink")[蒜氨酸酶迅速水解](https://zh.wikipedia.org/wiki/蒜氨酸酶 "wikilink")，产生[丙烯基次磺酸中间体以及](https://zh.wikipedia.org/wiki/丙烯基次磺酸 "wikilink")[氨](../Page/氨.md "wikilink")和[丙酮酸](../Page/丙酮酸.md "wikilink")。次磺酸再[重排为催泪物丙硫醛](https://zh.wikipedia.org/wiki/重排 "wikilink")-*S*-氧化物，呈现出洋葱风味。\[1\]
 
 ## 参见
 

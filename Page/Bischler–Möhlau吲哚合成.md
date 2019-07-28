@@ -1,15 +1,15 @@
 **Bischler-Möhlau吲哚合成**（Bischler-Möhlau indole synthesis）
 
 从
-α-[溴](../Page/溴.md "wikilink")[苯乙酮与过量](../Page/苯乙酮.md "wikilink")[苯胺反应合成](../Page/苯胺.md "wikilink")
+α-[溴](../Page/溴.md "wikilink")[苯乙酮](../Page/苯乙酮.md "wikilink")与过量[苯胺](../Page/苯胺.md "wikilink")反应合成
 2-[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[吲哚](../Page/吲哚.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 
 [Bischler-Mohlau_Indole_Synthesis.png](https://zh.wikipedia.org/wiki/File:Bischler-Mohlau_Indole_Synthesis.png "fig:Bischler-Mohlau_Indole_Synthesis.png")
 这个反应由 Möhlau 最早在 1881
-年报道，至今已经有一个多世纪的历史。但与其他[吲哚的合成方法相比](../Page/吲哚.md "wikilink")，此反应的反应条件较为苛刻，应用也并不是很广泛。
+年报道，至今已经有一个多世纪的历史。但与其他[吲哚](../Page/吲哚.md "wikilink")的合成方法相比，此反应的反应条件较为苛刻，应用也并不是很广泛。
 
-最近报道了用[溴化锂催化的在温和条件下的反应](../Page/溴化锂.md "wikilink")，\[6\]\[7\]以及用[微波促进的合成](https://zh.wikipedia.org/wiki/微波促进 "wikilink")。\[8\]
+最近报道了用[溴化锂](../Page/溴化锂.md "wikilink")催化的在温和条件下的反应，\[6\]\[7\]以及用[微波促进的合成](https://zh.wikipedia.org/wiki/微波促进 "wikilink")。\[8\]
 
 ## 反应机理
 

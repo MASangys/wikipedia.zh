@@ -1,5 +1,5 @@
 **株式會社Broccoli**（；[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Broccoli
-Co.,Ltd）是一間位於[日本的公司](../Page/日本.md "wikilink")，主要以[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲的商品企劃](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、製作以及精品銷售連鎖店[Gamers](https://zh.wikipedia.org/wiki/Gamers "wikilink")。
+Co.,Ltd）是一間位於[日本](../Page/日本.md "wikilink")的公司，主要以[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲的商品企劃](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、製作以及精品銷售連鎖店[Gamers](https://zh.wikipedia.org/wiki/Gamers "wikilink")。
 
 ## 概要
 
@@ -45,7 +45,7 @@ Co.,Ltd）是一間位於[日本的公司](../Page/日本.md "wikilink")，主�
   - Sweets團隊作品
       - [Gift
         -Prism-](https://zh.wikipedia.org/wiki/Gift_\(遊戲\) "wikilink")
-      - [水夏A.S+ Eternal Name](../Page/水夏.md "wikilink")
+      - [水夏 Eternal Name](../Page/水夏.md "wikilink")A.S+
       - 最終試験くじら
       - [D.C.the Origin](../Page/初音島.md "wikilink")
       - [真實之淚 true tears](../Page/真實之淚_true_tears.md "wikilink")（PS2版）

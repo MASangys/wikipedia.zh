@@ -1,19 +1,19 @@
-**icash**是一種[電子錢包](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")，功能為預付[儲值卡](https://zh.wikipedia.org/wiki/儲值卡 "wikilink")，由[臺灣的](../Page/臺灣.md "wikilink")[愛金卡股份有限公司發行](../Page/愛金卡公司.md "wikilink")，可取代零錢付賬，並省去收取金錢的時間及程序。icash無使用期限，可在[統一超商門市等地購買](../Page/統一超商.md "wikilink")、並進行儲值作業，儲值金額上限為新台幣一萬元。
+**icash**是一種[電子錢包](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")，功能為預付[儲值卡](https://zh.wikipedia.org/wiki/儲值卡 "wikilink")，由[臺灣](../Page/臺灣.md "wikilink")的[愛金卡股份有限公司發行](../Page/愛金卡公司.md "wikilink")，可取代零錢付賬，並省去收取金錢的時間及程序。icash無使用期限，可在[統一超商](../Page/統一超商.md "wikilink")門市等地購買、並進行儲值作業，儲值金額上限為新台幣一萬元。
 
 ## 簡介與歷史
 
   - 統一超商配合icash的推廣，常有商品優惠，並有紅利積點活動；亦會配合各種節慶發行限定款式。
-  - iCash卡可透過[統一超商實體門市等地點購得](../Page/統一超商.md "wikilink")，或是自行上傳圖像進行訂製；統一超商轉投資成立愛金卡公司發行iCash
+  - iCash卡可透過[統一超商](../Page/統一超商.md "wikilink")實體門市等地點購得，或是自行上傳圖像進行訂製；統一超商轉投資成立愛金卡公司發行iCash
     2.0後，亦開始針對iCash 2.0提供個性化客製卡服務及網路限定卡面。
-  - 2004年12月，[中國信託商業銀行與統一超商共同開辦icash電子錢包服務](../Page/中國信託商業銀行.md "wikilink")。2007年4月1日，中國信託商業銀行與統一超商合作發行icashwave聯名[信用卡](../Page/信用卡.md "wikilink")，係將icash結合[Visa
+  - 2004年12月，[中國信託商業銀行](../Page/中國信託商業銀行.md "wikilink")與統一超商共同開辦icash電子錢包服務。2007年4月1日，中國信託商業銀行與統一超商合作發行icashwave聯名[信用卡](../Page/信用卡.md "wikilink")，係將icash結合[Visa
     Wave信用卡與中國信託商業銀行](https://zh.wikipedia.org/wiki/Visa_Wave "wikilink")「Q-PAY」電子錢包服務。
-  - 2010年4月，統一超商推出兼具icash與[悠遊卡功能的整合卡](../Page/悠遊卡.md "wikilink")，稱為「icash悠遊卡」，同時也開放悠遊卡於統一超商購物，但icash卡與icash悠遊卡的活動不一定相同，而悠遊卡的促銷活動與icash亦有所不同。
+  - 2010年4月，統一超商推出兼具icash與[悠遊卡](../Page/悠遊卡.md "wikilink")功能的整合卡，稱為「icash悠遊卡」，同時也開放悠遊卡於統一超商購物，但icash卡與icash悠遊卡的活動不一定相同，而悠遊卡的促銷活動與icash亦有所不同。
   - 2012年1月1日，中國信託商業銀行終止icashwave Q-PAY的自動儲值和消費扣款，統一超商同步停止電子錢包信用卡交易。
   - 2014年，因應iCash服務升格為2.0版，加上點數優惠調整與虛擬通路整合的關係，針對iCash悠遊卡的所有優惠亦於該年底終止。
   - 2015年3月16日：icash2.0可用於搭乘[汎航通運路線](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")，但icash
     2.0餘額低於新台幣40元時無法持卡乘車。
   - 2016年5月11日，icash2.0可用於搭乘[臺灣鐵路管理局列車](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")。
-  - 2016年6月1日，[國立傳統藝術中心停用icash](../Page/國立傳統藝術中心.md "wikilink")。\[1\]
+  - 2016年6月1日，[國立傳統藝術中心](../Page/國立傳統藝術中心.md "wikilink")停用icash。\[1\]
   - 2016年7月1日，icash2.0可搭乘[高雄捷運](../Page/高雄捷運.md "wikilink")（[輕軌除外](https://zh.wikipedia.org/wiki/環狀輕軌 "wikilink")）。
   - 2016年12月1日，[馬祖公車上線使用](https://zh.wikipedia.org/wiki/馬祖 "wikilink")。\[2\]
   - 2017年1月1日，新北市瑞芳第二市場停用icash\[3\]、高鐵・台鐵車票可支付代收代售\[4\]
@@ -34,7 +34,7 @@
 | 種類       | 記名         | 首次購買價格            | 感應方式                                                                                                                           | 備註                       |
 | -------- | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
 | icash    | 可申請記名\[7\] | NT$100（空卡）        | 接觸式                                                                                                                            | 停售，並於2019年1月1日零時起全面停止使用。 |
-| icash悠遊卡 | 否          | 非接觸式              | 停產；2015年起，因與[悠遊卡公司結束合作](../Page/悠遊卡公司.md "wikilink")，故不再提供紅利點數。原有的icash悠遊卡和普通版悠遊卡相同，可累積[UUPON點數](../Page/UUPON.md "wikilink")。 |                          |
+| icash悠遊卡 | 否          | 非接觸式              | 停產；2015年起，因與[悠遊卡公司](../Page/悠遊卡公司.md "wikilink")結束合作，故不再提供紅利點數。原有的icash悠遊卡和普通版悠遊卡相同，可累積[UUPON](../Page/UUPON.md "wikilink")點數。 |                          |
 | icash2.0 | 可申請記名\[8\] | 客製化服務僅限於愛金卡官方網站提供 |                                                                                                                                |                          |
 
 ### Icash聯名卡
@@ -43,7 +43,7 @@
 
 2016年5月11日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡進站搭乘[臺灣鐵路管理局列車](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")。
 
-2017年2月10日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[高雄捷運及](../Page/高雄捷運.md "wikilink")[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
+2017年2月10日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[高雄捷運](../Page/高雄捷運.md "wikilink")及[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
 
 | 種類                         | 合作發卡機構銀行                                                  | 感應方式   | 備註 |
 | -------------------------- | --------------------------------------------------------- | ------ | -- |
@@ -67,10 +67,10 @@
 **購卡**
 
   - icash2.0卡販售特約機構
-      - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-      - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
+      - [高雄捷運](../Page/高雄捷運.md "wikilink")各車站服務台
+      - [臺北捷運](../Page/臺北捷運.md "wikilink")各車站服務台
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
-      - [統一超商（7-11）](../Page/統一超商.md "wikilink")
+      - [統一超商](../Page/統一超商.md "wikilink")（7-11）
       - [21世紀風味館](https://zh.wikipedia.org/wiki/21世紀風味館 "wikilink")
       - [統一多拿滋](../Page/統一多拿滋.md "wikilink")
   - 個性化icash2.0卡販售特約機構
@@ -81,12 +81,12 @@
 **加值**
 
   - 生活百貨
-      - [統一超商（7-11）](../Page/統一超商.md "wikilink")
+      - [統一超商](../Page/統一超商.md "wikilink")（7-11）
       - [家樂福](../Page/家樂福.md "wikilink")
       - [全聯](https://zh.wikipedia.org/wiki/全聯 "wikilink")
   - 交通運輸
-      - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-      - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
+      - [高雄捷運](../Page/高雄捷運.md "wikilink")各車站服務台
+      - [臺北捷運](../Page/臺北捷運.md "wikilink")各車站服務台
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
       - \*
         [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")：Icash適用範圍內之連線售票車站
@@ -102,7 +102,7 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 
 #### 小額消費
 
-  - [統一超商（7-11）](../Page/統一超商.md "wikilink")
+  - [統一超商](../Page/統一超商.md "wikilink")（7-11）
   - [康是美](https://zh.wikipedia.org/wiki/康是美 "wikilink")
   - [酷聖石](https://zh.wikipedia.org/wiki/酷聖石 "wikilink")
   - [統一多拿滋](../Page/統一多拿滋.md "wikilink")

@@ -1,4 +1,4 @@
-《**ARASHIC**》是[嵐的第](../Page/嵐.md "wikilink")8枚專輯，第6枚原創專輯。於2006年7月5日發行。唱片公司為[J
+《**ARASHIC**》是[嵐](../Page/嵐.md "wikilink")的第8枚專輯，第6枚原創專輯。於2006年7月5日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
@@ -30,11 +30,11 @@ Storm](../Page/J_Storm.md "wikilink")。
 5.  **Ready To Fly**
     （作詞：masa-ya　作曲：家原正樹　編曲：石塚知生）
       -
-        [大野智主音](../Page/大野智.md "wikilink")
+        [大野智](../Page/大野智.md "wikilink")主音
 6.  **焦糖之歌**（）
     （作詞：小川貴史 　作曲：松下典由　編曲：高橋哲也）
       -
-        [二宮和也主音](../Page/二宮和也.md "wikilink")
+        [二宮和也](../Page/二宮和也.md "wikilink")主音
 7.  **COOL\&SOUL**
     （作詞：SPIN　Rap詞：櫻井翔　作曲・編曲：吉岡拓）
 8.  **踏上旅程的早晨**（）
@@ -50,7 +50,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 11. **超²感謝**（）
     （作詞：Erykah　作曲：Henrik Rongedal、Magnus Rongedal　編曲：岩田雅之）
       -
-        [櫻井翔主音](../Page/櫻井翔.md "wikilink")
+        [櫻井翔](../Page/櫻井翔.md "wikilink")主音
 12. **CARNIVAL NIGHT part2**
     （作詞：久保田洋司　作曲：上野浩司　編曲：長岡成貢）
 13. **銀戒**（）

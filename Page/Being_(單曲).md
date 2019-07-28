@@ -3,7 +3,7 @@ Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")\[1\]。
 
 ## 概要
 
-  - 在[Oricon單週排行榜上列居第](../Page/Oricon.md "wikilink")4位，是[KOTOKO排名最前的單曲](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")。
+  - 在[Oricon](../Page/Oricon.md "wikilink")單週排行榜上列居第4位，是[KOTOKO排名最前的單曲](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")。
   - 初回限定盤附贈收錄了[PV的](../Page/音樂錄影帶.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
   - 「being」和「雪華的神話」這兩首曲都收錄在KOTOKO的第三張音樂專輯《[UZU-MAKI](https://zh.wikipedia.org/wiki/UZU-MAKI "wikilink")》裡。但專輯中的「雪華的神話」不同於單曲版本。
   - 現時being共有三種不同版本，分别是單曲版的「being」，作為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")》後期主題曲（TV長度）的「being」以及DVD特典的「being
@@ -14,7 +14,7 @@ Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")\[1\]。
 1.  being \[4:47\]
       -
         作詞、作曲：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")、編曲：[高瀬一矢](https://zh.wikipedia.org/wiki/高瀬一矢 "wikilink")
-          - [每日放送電視動畫](../Page/每日放送.md "wikilink")《[灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")》第1期後半片頭曲。
+          - [每日放送](../Page/每日放送.md "wikilink")電視動畫《[灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")》第1期後半片頭曲。
           - Packet Radio《》片頭曲及片尾曲。
 2.  雪華的神話（）\[6:23\]
       -

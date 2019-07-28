@@ -1,4 +1,4 @@
-**Röyksopp**（）是一个[挪威的](../Page/挪威.md "wikilink")[电子音乐](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")[乐团](https://zh.wikipedia.org/wiki/乐团 "wikilink")，
+**Röyksopp**（）是一个[挪威](../Page/挪威.md "wikilink")的[电子音乐](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")[乐团](https://zh.wikipedia.org/wiki/乐团 "wikilink")，
 成员包括[Torbjørn
 Brundtland以及](https://zh.wikipedia.org/wiki/Torbjørn_Brundtland "wikilink")[Svein
 Berge](https://zh.wikipedia.org/wiki/Svein_Berge "wikilink")。乐队于1998年正式成立，於2001年、2005年和2009年分別发行了

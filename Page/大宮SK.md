@@ -1,4 +1,4 @@
-**大宮SK**是在2002年12月[傑尼斯事務所的人氣團體](../Page/傑尼斯事務所.md "wikilink")「[嵐](../Page/嵐.md "wikilink")」的演唱會上突然出現的謎樣的兩人組。
+**大宮SK**是在2002年12月[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的人氣團體「[嵐](../Page/嵐.md "wikilink")」的演唱會上突然出現的謎樣的兩人組。
 
 ## 概要
 
@@ -33,7 +33,7 @@
 
   -
     節目裡[相葉雅紀為司儀的Count](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")
-    Down（カウントダウン）單元「ズキューンバズーカ」中，大宮SK的歌曲「ズキューンバズーカ」榮登第1名。壓過嵐的「[A・RA・SHI](https://zh.wikipedia.org/wiki/A・RA・SHI "wikilink")」獲得第1名被認為是大宮SK對相葉的賄賂產生效果。當時播放了第3名「O.M.S.K.S」的VTR，現場表演第1名的「ズキューンバズーカ」。該演唱會的最終公演裡，在MC中公開了[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[櫻井翔各自個人曲的影像](../Page/櫻井翔.md "wikilink")。
+    Down（カウントダウン）單元「ズキューンバズーカ」中，大宮SK的歌曲「ズキューンバズーカ」榮登第1名。壓過嵐的「[A・RA・SHI](https://zh.wikipedia.org/wiki/A・RA・SHI "wikilink")」獲得第1名被認為是大宮SK對相葉的賄賂產生效果。當時播放了第3名「O.M.S.K.S」的VTR，現場表演第1名的「ズキューンバズーカ」。該演唱會的最終公演裡，在MC中公開了[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")各自個人曲的影像。
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   - 2006年1月29日 -
-    2月26日　[大野智個人演唱會](../Page/大野智.md "wikilink")「」中二人一起以VTR演出。
+    2月26日　[大野智](../Page/大野智.md "wikilink")個人演唱會「」中二人一起以VTR演出。
   - 2006年9月16日-在台灣正式海外出道。表演的是「ズキューンバズーカ」的中文版。
   - 2007年1月3日 - 1月8日　「嵐凱旋記念公演 ARASHI AROUND ASIA」
 
@@ -95,11 +95,11 @@
 
   -
     5月16日、18日-在[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")。
-    5月31日-在[名古屋巨蛋登場](../Page/名古屋巨蛋.md "wikilink")。在大野智的「稍微介紹一下FREESTYLE」VTR中演出之後，登上舞台並做了表演。曲目為叫做「大宮skoshi」的[神轎之歌](https://zh.wikipedia.org/wiki/神轎 "wikilink")。
+    5月31日-在[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")登場。在大野智的「稍微介紹一下FREESTYLE」VTR中演出之後，登上舞台並做了表演。曲目為叫做「大宮skoshi」的[神轎之歌](https://zh.wikipedia.org/wiki/神轎 "wikilink")。
     6月14日-在東京巨蛋登場。ユウジ說「不是手越（tegoshi）是神轎（mikoshi）喔（手越じゃないよ神輿だよ）」的時候還出了腳痛的意外。
     6月18、19日　在福岡Yahoo\! JAPAN巨蛋登場。19日的公演中交換了睽違數年的Final
     Love（[R指定](https://zh.wikipedia.org/wiki/R指定 "wikilink")）。大Sタカ還發生了Kazoo樂器（バズーカ）下端脫落的插曲。
-    7月5、6日-在[札幌巨蛋登場](../Page/札幌巨蛋.md "wikilink")。表演了絕招－鋼之腹肌肉和乳頭撥號（ダイヤル）以及乳頭重撥號（リダイヤル），並且發表了解散宣言。
+    7月5、6日-在[札幌巨蛋](../Page/札幌巨蛋.md "wikilink")登場。表演了絕招－鋼之腹肌肉和乳頭撥號（ダイヤル）以及乳頭重撥號（リダイヤル），並且發表了解散宣言。
     2012年9月20日於國立舉行"ARAFES"演唱會中大宮SK復活。
 
 ## 軼事

@@ -1,17 +1,17 @@
-**kakifly**（），[日本男性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，出身於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[1\]。其代表作是[四格漫畫](../Page/四格漫畫.md "wikilink")《[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")》，連載於[芳文社的雜誌](../Page/芳文社.md "wikilink")《[Manga
+**kakifly**（），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，出身於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[1\]。其代表作是[四格漫畫](../Page/四格漫畫.md "wikilink")《[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")》，連載於[芳文社](../Page/芳文社.md "wikilink")的雜誌《[Manga
 Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》、《[Manga Time
 Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》。
 
 ## 人物
 
-其筆名「kakifly」取自於他很討厭的一種食物「炸[牡蠣](../Page/牡蠣.md "wikilink")」（）\[2\]。有收集[吉他的愛好](../Page/吉他.md "wikilink")，《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》主角平澤唯使用的吉他「Gibson
+其筆名「kakifly」取自於他很討厭的一種食物「炸[牡蠣](../Page/牡蠣.md "wikilink")」（）\[2\]。有收集[吉他](../Page/吉他.md "wikilink")的愛好，《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》主角平澤唯使用的吉他「Gibson
 Les
 Paul」就是他的收藏。[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")\[3\]。
 
 ## 同人活動
 
 以同人社團「**海之幸定食**」（）名義進行[二次同人創作的活動](https://zh.wikipedia.org/wiki/同人 "wikilink")，曾經參與過《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》、《[To
-Heart](../Page/To_Heart.md "wikilink")》等[同人誌的作畫](../Page/同人誌.md "wikilink")，《[瑪莉亞的凝望](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")》漫畫畫冊的執筆。
+Heart](../Page/To_Heart.md "wikilink")》等[同人誌](../Page/同人誌.md "wikilink")的作畫，《[瑪莉亞的凝望](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")》漫畫畫冊的執筆。
 
 ## 作品列表
 
@@ -19,7 +19,7 @@ Heart](../Page/To_Heart.md "wikilink")》等[同人誌的作畫](../Page/同人�
 
 連載於[芳文社](../Page/芳文社.md "wikilink")[Manga Time
 Kirara](../Page/Manga_Time_Kirara.md "wikilink")、[Manga Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")。台灣・香港中文版由[尖端出版正式授權發行](../Page/尖端出版.md "wikilink")。
+Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")。台灣・香港中文版由[尖端出版](../Page/尖端出版.md "wikilink")正式授權發行。
 
   - [K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")，原名《》（《[Manga Time
     Kirara](../Page/Manga_Time_Kirara.md "wikilink")》2007年5月號－2010年10月號，《[Manga
@@ -97,7 +97,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")。台灣・香港中文版
 
   - 《[加奈日記](../Page/加奈日記.md "wikilink")》電視動畫第8話ENDCARD
   - 《K-ON輕音少女插畫精選大全 VOL.1》（）（2010年1月27日發行，芳文社）
-  - [廣島東洋鯉魚報紙廣告漫畫](../Page/廣島東洋鯉魚.md "wikilink")（《[中國新聞](../Page/中國新聞_\(日本\).md "wikilink")》2013年2月1日刊）－與、[戶田勝之](https://zh.wikipedia.org/wiki/戶田勝之 "wikilink")、、[安彥良和](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")、、[川口開治](../Page/川口開治.md "wikilink")、、[貞安圭](../Page/貞安圭.md "wikilink")、合作
+  - [廣島東洋鯉魚](../Page/廣島東洋鯉魚.md "wikilink")報紙廣告漫畫（《[中國新聞](../Page/中國新聞_\(日本\).md "wikilink")》2013年2月1日刊）－與、[戶田勝之](https://zh.wikipedia.org/wiki/戶田勝之 "wikilink")、、[安彥良和](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")、、[川口開治](../Page/川口開治.md "wikilink")、、[貞安圭](../Page/貞安圭.md "wikilink")、合作
   - 《[悠悠式](https://zh.wikipedia.org/wiki/悠悠式 "wikilink")》電視動畫第8話ENDCARD
 
 ## 參考資料

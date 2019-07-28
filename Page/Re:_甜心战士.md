@@ -1,5 +1,5 @@
 《**Re:
-甜心战士**》（）是2004年發售的《[甜心战士](https://zh.wikipedia.org/wiki/甜心战士 "wikilink")》系列[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。借鉴或替换了过去所有[东映动画制作的](../Page/东映动画.md "wikilink")《甜心战士》系列的动画新作，本作品由[GAINAX担当制作](../Page/GAINAX.md "wikilink")。
+甜心战士**》（）是2004年發售的《[甜心战士](https://zh.wikipedia.org/wiki/甜心战士 "wikilink")》系列[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。借鉴或替换了过去所有[东映动画](../Page/东映动画.md "wikilink")制作的《甜心战士》系列的动画新作，本作品由[GAINAX](../Page/GAINAX.md "wikilink")担当制作。
 
 ## 作品概要
 
@@ -19,7 +19,7 @@
     （[声](https://zh.wikipedia.org/wiki/声优 "wikilink") -
     [堀江由衣](../Page/堀江由衣.md "wikilink")）
 
-    如月博士的女儿。1年前因突发事故而丧命，后用其[细胞制作成为了超级的](../Page/细胞.md "wikilink")[人造人](https://zh.wikipedia.org/wiki/人造人 "wikilink")，拥有一颗人类的内心。口呼“甜心闪光！”可变化为各种造型的姿态。战斗时变身成为甜心战士，左手臂可飞出“甜心回力镖”攻击对手，还拥有将敌人斩裂的“白银花剑”，与秘密组织·豹爪进行着维护社会秩序的战斗。
+    如月博士的女儿。1年前因突发事故而丧命，后用其[细胞](../Page/细胞.md "wikilink")制作成为了超级的[人造人](https://zh.wikipedia.org/wiki/人造人 "wikilink")，拥有一颗人类的内心。口呼“甜心闪光！”可变化为各种造型的姿态。战斗时变身成为甜心战士，左手臂可飞出“甜心回力镖”攻击对手，还拥有将敌人斩裂的“白银花剑”，与秘密组织·豹爪进行着维护社会秩序的战斗。
 
   - ;白银花剑闪电阵雨
 

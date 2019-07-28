@@ -5,7 +5,7 @@ license = [Boost许可证](../Page/Boost许可证.md "wikilink") | website =
 <http://www.boost.org/> }}
 
 **Boost C++
-函式庫**（Libraries）是一組擴充[C++功能的經過](../Page/C++.md "wikilink")[同行評審](../Page/同行評審.md "wikilink")（Peer-reviewed）且[開放源碼程式庫](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")。大多數的函式為了能夠以開放源碼、封閉專案的方式運作，而授權於Boost軟體授權條款（Boost
+函式庫**（Libraries）是一組擴充[C++](../Page/C++.md "wikilink")功能的經過[同行評審](../Page/同行評審.md "wikilink")（Peer-reviewed）且[開放源碼程式庫](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")。大多數的函式為了能夠以開放源碼、封閉專案的方式運作，而授權於Boost軟體授權條款（Boost
 Software
 License）之下。許多Boost的開發人員是來自C++標準委員會，而部份的Boost函式庫成為C++的[TR1標準之一](../Page/C++_Technical_Report_1.md "wikilink")。\[1\]
 
@@ -80,7 +80,7 @@ Domain）上，包含的函式庫類別從像[smart_ptr
   - [泛型](../Page/泛型.md "wikilink")
   - [圖](https://zh.wikipedia.org/wiki/圖 "wikilink")
   - [I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")
-  - 語言之間的支援（[Python用](../Page/Python.md "wikilink")）
+  - 語言之間的支援（[Python](../Page/Python.md "wikilink")用）
   - [迭代器](../Page/迭代器.md "wikilink")
       - [iterators](http://boost.org/libs/iterator/doc/index.html)
       - [operators](http://boost.org/libs/utility/operators.htm)
@@ -162,7 +162,7 @@ Domain）上，包含的函式庫類別從像[smart_ptr
 ### 线性代数 – uBLAS
 
 Boost 包含了 **uBLAS**
-[线性代数函数库](../Page/线性代数.md "wikilink")，能够藉由基本函数库子函数（BLAS）来支持向量与矩阵形运算。
+[线性代数](../Page/线性代数.md "wikilink")函数库，能够藉由基本函数库子函数（BLAS）来支持向量与矩阵形运算。
 
   - 此范例表示如何矩阵与向量作乘积：
 

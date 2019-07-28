@@ -1,15 +1,15 @@
 **Pilot
-ACE**是一台[英国的第一代](https://zh.wikipedia.org/wiki/英国 "wikilink")[电子计算机](https://zh.wikipedia.org/wiki/电子计算机 "wikilink")，是由[英国国家物理实验室](https://zh.wikipedia.org/wiki/英国国家物理实验室 "wikilink")（NPL）于1950年代早期设计制造。
+ACE**是一台[英国的第一代](https://zh.wikipedia.org/wiki/英国 "wikilink")[电子计算机](../Page/电子计算机.md "wikilink")，是由[英国国家物理实验室](https://zh.wikipedia.org/wiki/英国国家物理实验室 "wikilink")（NPL）于1950年代早期设计制造。
 
 Pilot
-ACE是[图灵设计的](https://zh.wikipedia.org/wiki/图灵 "wikilink")[ACE的一个预选方案](../Page/ACE_\(电子计算机\).md "wikilink")。在图灵离开NPL（部分原因是由于ACE的延期而灰心）后，[詹姆斯·哈迪·威尔金森接手项目](../Page/詹姆斯·哈迪·威尔金森.md "wikilink")，Harry
+ACE是[图灵设计的](https://zh.wikipedia.org/wiki/图灵 "wikilink")[ACE的一个预选方案](../Page/ACE_\(电子计算机\).md "wikilink")。在图灵离开NPL（部分原因是由于ACE的延期而灰心）后，[詹姆斯·哈迪·威尔金森](../Page/詹姆斯·哈迪·威尔金森.md "wikilink")接手项目，Harry
 Huskey协助设计。该机器在1950年5月10日首次成功运行其第一个程序，并于当年12月公开演示。
 
 虽然最初被设计为原型机，但很明显，该机器是一个潜在很有用的资源，特别是在当时缺少其他计算机设备的情况下。1951年底，经过一些升级后，Pilot
 ACE的运行变得实用，正式投入使用，而且接下来的几年时间里，完成了相当的运行服务。
 
 Pilot
-ACE总计大约800个[真空管](../Page/真空管.md "wikilink")，使用[水银](https://zh.wikipedia.org/wiki/水银 "wikilink")[延迟线作为](https://zh.wikipedia.org/wiki/延迟线 "wikilink")[主存](https://zh.wikipedia.org/wiki/存储器 "wikilink")。原始的存贮大小是128个32[位的](https://zh.wikipedia.org/wiki/位 "wikilink")[字](https://zh.wikipedia.org/wiki/字 "wikilink")，之后扩充到352个字；1954年添加了一个4096大小的[磁鼓存储器](../Page/磁鼓存储器.md "wikilink")。基础[时钟频率是](../Page/时钟频率.md "wikilink")1[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")，在英国早期电子计算机中是最快的。运行一条[指令的时间高度依赖于指令在存储器中的位置](https://zh.wikipedia.org/wiki/指令 "wikilink")（原因是使用延迟线存储器）。一个加法可能需要64[毫秒至](https://zh.wikipedia.org/wiki/毫秒 "wikilink")1024毫秒。
+ACE总计大约800个[真空管](../Page/真空管.md "wikilink")，使用[水银](https://zh.wikipedia.org/wiki/水银 "wikilink")[延迟线作为](https://zh.wikipedia.org/wiki/延迟线 "wikilink")[主存](https://zh.wikipedia.org/wiki/存储器 "wikilink")。原始的存贮大小是128个32[位的](https://zh.wikipedia.org/wiki/位 "wikilink")[字](https://zh.wikipedia.org/wiki/字 "wikilink")，之后扩充到352个字；1954年添加了一个4096大小的[磁鼓存储器](../Page/磁鼓存储器.md "wikilink")。基础[时钟频率](../Page/时钟频率.md "wikilink")是1[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")，在英国早期电子计算机中是最快的。运行一条[指令的时间高度依赖于指令在存储器中的位置](https://zh.wikipedia.org/wiki/指令 "wikilink")（原因是使用延迟线存储器）。一个加法可能需要64[毫秒至](https://zh.wikipedia.org/wiki/毫秒 "wikilink")1024毫秒。
 
 Pilot ACE相当成功，其商业机型名叫DEUCE，由制造和销售。
 

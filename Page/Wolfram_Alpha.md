@@ -1,9 +1,9 @@
 ****（也写作“**Wolfram|Alpha**”，缩写 **W|A**），是由 [Wolfram
 Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")
-公司推出的一款在线自动[问答系统](https://zh.wikipedia.org/wiki/问答系统 "wikilink")。其特色是可以直接向用户返回答案，而不是像传统[搜索引擎一样提供一系列可能含有用户所需答案的相关网页](../Page/搜索引擎.md "wikilink")\[1\]。
+公司推出的一款在线自动[问答系统](https://zh.wikipedia.org/wiki/问答系统 "wikilink")。其特色是可以直接向用户返回答案，而不是像传统[搜索引擎](../Page/搜索引擎.md "wikilink")一样提供一系列可能含有用户所需答案的相关网页\[1\]。
 
 Wolfram Alpha 于 2009 年 5 月 18 日正式发布\[2\]，它是基于 Wolfram 早期旗舰产品
-[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")，一款囊括了计算机代数、符号和数值计算、可视化和统计功能的计算平台和工具包开发的。其数据来源包括学术网站和出版物、商业网站和公司、科学机构等等，例如[中央情报局出版物](../Page/中央情报局.md "wikilink")《[世界概况](../Page/世界概况.md "wikilink")》、[康奈尔大学图书馆出版物](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")《All
+[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")，一款囊括了计算机代数、符号和数值计算、可视化和统计功能的计算平台和工具包开发的。其数据来源包括学术网站和出版物、商业网站和公司、科学机构等等，例如[中央情报局](../Page/中央情报局.md "wikilink")出版物《[世界概况](../Page/世界概况.md "wikilink")》、[康奈尔大学图书馆出版物](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")《All
 About Birds》、《Chambers Biographical
 Dictionary》、[道琼斯公司](../Page/道琼斯公司.md "wikilink")、[Catalogue
 of Life](http://www.catalogueoflife.org/)、
@@ -69,7 +69,7 @@ Wolfram Alpha
 ## 功能
 
 Wolfram Alpha
-可以完成[数学](../Page/数学.md "wikilink")、[统计学](../Page/统计学.md "wikilink")、[计算机科学](../Page/计算机科学.md "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")、[材料学](https://zh.wikipedia.org/wiki/材料学 "wikilink")、[工程学](../Page/工程学.md "wikilink")、[生命科学](https://zh.wikipedia.org/wiki/生命科学 "wikilink")、[测量学](https://zh.wikipedia.org/wiki/测量学 "wikilink")、[经济学](../Page/经济学.md "wikilink")、[社会学](../Page/社会学.md "wikilink")、[语言学](../Page/语言学.md "wikilink")、[天文学](https://zh.wikipedia.org/wiki/天文学 "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")、[文学](https://zh.wikipedia.org/wiki/文学 "wikilink")、[历史](../Page/历史.md "wikilink")、[文化](../Page/文化.md "wikilink")、[体育](../Page/体育.md "wikilink")、[音乐](../Page/音乐.md "wikilink")、[天气等各个领域的查询](../Page/天气.md "wikilink")、计算和分析。Wolfram
+可以完成[数学](../Page/数学.md "wikilink")、[统计学](../Page/统计学.md "wikilink")、[计算机科学](../Page/计算机科学.md "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")、[材料学](https://zh.wikipedia.org/wiki/材料学 "wikilink")、[工程学](../Page/工程学.md "wikilink")、[生命科学](https://zh.wikipedia.org/wiki/生命科学 "wikilink")、[测量学](https://zh.wikipedia.org/wiki/测量学 "wikilink")、[经济学](../Page/经济学.md "wikilink")、[社会学](../Page/社会学.md "wikilink")、[语言学](../Page/语言学.md "wikilink")、[天文学](https://zh.wikipedia.org/wiki/天文学 "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")、[文学](https://zh.wikipedia.org/wiki/文学 "wikilink")、[历史](../Page/历史.md "wikilink")、[文化](../Page/文化.md "wikilink")、[体育](../Page/体育.md "wikilink")、[音乐](../Page/音乐.md "wikilink")、[天气](../Page/天气.md "wikilink")等各个领域的查询、计算和分析。Wolfram
 Alpha 还可对用户上传的图片进行识别\[17\]。
 
 使用 Wolfram Alpha 进行查询的实例：
@@ -110,7 +110,7 @@ Alpha 技术\[26\]。
 关于事实问答，Wolfram Alpha 也为苹果公司的 [Siri](../Page/Siri.md "wikilink")、三星的 [S
 Voice](../Page/S_Voice.md "wikilink") 以及
 [Android](../Page/Android.md "wikilink") 平台上 Dexetra
-的[语音识别软件](../Page/语音识别.md "wikilink")、 Iris 和
+的[语音识别](../Page/语音识别.md "wikilink")软件、 Iris 和
 [BlackBerry 10](../Page/BlackBerry_10.md "wikilink") 上的声音控制软件。\[27\]
 
 ## 系统要求
@@ -122,7 +122,7 @@ Wolfram Alpha
 ## Wolfram Alpha Pro
 
 Wolfram Alpha Pro 于 2012 年 2 月 8 日正式发布\[30\]
-，用户每月支付一定数额的订购费用即可享受额外功能。主要功能为上传各种常见的文件类型和数据，包括原始图表数据、图像、音频、XML和多种专业领域的科学、医学和数学格式，用于自动分析。其他功能包括扩展键盘、与[可计算文档格式的互动](../Page/可计算文档格式.md "wikilink")、数据下载、分步求解、自定义和保存图表结果\[31\]
+，用户每月支付一定数额的订购费用即可享受额外功能。主要功能为上传各种常见的文件类型和数据，包括原始图表数据、图像、音频、XML和多种专业领域的科学、医学和数学格式，用于自动分析。其他功能包括扩展键盘、与[可计算文档格式](../Page/可计算文档格式.md "wikilink")的互动、数据下载、分步求解、自定义和保存图表结果\[31\]
 以及额外的计算时间\[32\]。
 
 除了专业版的这些新功能，Wolfram Alpha Pro 还对免费网站带来下列变化：

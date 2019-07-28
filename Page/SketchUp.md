@@ -1,4 +1,4 @@
-**SketchUp**是一套面向[建筑师](../Page/建筑师.md "wikilink")、[城市规划专家](../Page/城市规划.md "wikilink")、[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")、[游戏开发者以及相关专业人员的](../Page/游戏开发者.md "wikilink")[3D建模](https://zh.wikipedia.org/wiki/3D建模 "wikilink")[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。它用于[Google
+**SketchUp**是一套面向[建筑师](../Page/建筑师.md "wikilink")、[城市规划](../Page/城市规划.md "wikilink")专家、[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")、[游戏开发者](../Page/游戏开发者.md "wikilink")以及相关专业人员的[3D建模](https://zh.wikipedia.org/wiki/3D建模 "wikilink")[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。它用于[Google
 Earth上的建模也十分方便](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")。它比其他三维[CAD程序更直观](../Page/计算机辅助设计.md "wikilink")，灵活以及易于使用\[1\]。
 
 基于便于使用的理念，它拥有一个非常简单的[界面](https://zh.wikipedia.org/wiki/用户图形界面 "wikilink")。SketchUp世界中一个众所周知的特性便是3D
@@ -22,7 +22,7 @@ SketchUp最初於2000年8月發行。\[3\]，作为通用目的的3维内容创�
 *SketchUp
 5*版本中，添加了可以让用户去挤压或者拉伸或是物件周围的[指针具有](https://zh.wikipedia.org/wiki/指针 "wikilink")“follow”特性。
 
-2006年3月14日，[Google被他们为](../Page/Google.md "wikilink")[Google
+2006年3月14日，[Google](../Page/Google.md "wikilink")被他们为[Google
 Earth所开发插件所吸引](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")，收购了@Last
 Software,\[6\]。
 
@@ -39,9 +39,9 @@ LayOut*。LayOut包含了一系列2维矢量工具，以及一个页面布局工
 Warehouse搜索，浏览器组件，增加了矢量渲染、提高了文字处理等功能的LayOut
 2，对于动态缩放反应的提升和增强的Ruby API性能。
 
-2012年6月1日，美国的[天宝导航以一个未披露的价格从Google那买下该软件的所有权](../Page/天宝导航.md "wikilink")\[7\]。
+2012年6月1日，美国的[天宝导航](../Page/天宝导航.md "wikilink")以一个未披露的价格从Google那买下该软件的所有权\[7\]。
 
-2013年5月21日，[天宝导航发布了SketchUp](../Page/天宝导航.md "wikilink") Pro 2013。
+2013年5月21日，[天宝导航](../Page/天宝导航.md "wikilink")发布了SketchUp Pro 2013。
 增加了扩展仓库，更好的视频导出能力，更智能的状态栏\[8\]以及一个全新的网站\[9\]
 
 ## 工具
@@ -85,18 +85,18 @@ Warehouse搜索，浏览器组件，增加了矢量渲染、提高了文字处�
 ## Google SketchUp
 
 [Bedstand.jpg](https://zh.wikipedia.org/wiki/File:Bedstand.jpg "fig:Bedstand.jpg")
-2006年4月27日，[Google发布Google](../Page/Google.md "wikilink")
+2006年4月27日，[Google](../Page/Google.md "wikilink")发布Google
 SketchUp，一个可以允许自由下载的SketchUp版本。虽然免费版本并不如般SketchUp
 Pro強大，但它可上传模型至Google Earth和[Google 3D
 Warehouse](https://zh.wikipedia.org/wiki/Google_3D_Warehouse "wikilink")（SketchUp创建的模型的仓库）。
 
 免费版可以输出许多3D格式，包含Google
 Earth格式[.kmz](https://zh.wikipedia.org/wiki/.kmz "wikilink")，专业版本额外还支援含有[.3ds](https://zh.wikipedia.org/wiki/.3ds "wikilink")、[.dae](https://zh.wikipedia.org/wiki/.dae "wikilink")、[.dwg](../Page/.dwg.md "wikilink")、[.dxf](https://zh.wikipedia.org/wiki/.dxf "wikilink")、[.fbx](https://zh.wikipedia.org/wiki/.fbx "wikilink")、[.obj](https://zh.wikipedia.org/wiki/.obj "wikilink")、[.xsi和](https://zh.wikipedia.org/wiki/.xsi "wikilink")[.wrl等文件格式](https://zh.wikipedia.org/wiki/.wrl "wikilink")，并且包含布局工具LayOut。Google
-SketchUp能够将模型“截图”保存为[.bmp](https://zh.wikipedia.org/wiki/.bmp "wikilink")、[.png](https://zh.wikipedia.org/wiki/.png "wikilink")、[.jpg](https://zh.wikipedia.org/wiki/.jpg "wikilink")、[.tif等文件格式](https://zh.wikipedia.org/wiki/.tif "wikilink")，专业版本更可支援[.pdf](https://zh.wikipedia.org/wiki/.pdf "wikilink")、[.eps](https://zh.wikipedia.org/wiki/.eps "wikilink")、[.epx](https://zh.wikipedia.org/wiki/.epx "wikilink")、[.dwg和](../Page/.dwg.md "wikilink")[.dxf等格式](https://zh.wikipedia.org/wiki/.dxf "wikilink")。
+SketchUp能够将模型“截图”保存为[.bmp](https://zh.wikipedia.org/wiki/.bmp "wikilink")、[.png](https://zh.wikipedia.org/wiki/.png "wikilink")、[.jpg](https://zh.wikipedia.org/wiki/.jpg "wikilink")、[.tif等文件格式](https://zh.wikipedia.org/wiki/.tif "wikilink")，专业版本更可支援[.pdf](https://zh.wikipedia.org/wiki/.pdf "wikilink")、[.eps](https://zh.wikipedia.org/wiki/.eps "wikilink")、[.epx](https://zh.wikipedia.org/wiki/.epx "wikilink")、[.dwg](../Page/.dwg.md "wikilink")和[.dxf等格式](https://zh.wikipedia.org/wiki/.dxf "wikilink")。
 
 ## Ruby程序编程接口 (API)
 
-[Ruby是一种SketchUp中使用的脚本语言](../Page/Ruby.md "wikilink")，首次于SketchUp
+[Ruby](../Page/Ruby.md "wikilink")是一种SketchUp中使用的脚本语言，首次于SketchUp
 4中引入。在SketchUp中引入之后，用户们发挥他们的创意利用[SketchUp
 Ruby开发了几百种便利的工具](https://zh.wikipedia.org/wiki/SketchUp_Ruby "wikilink")。
 

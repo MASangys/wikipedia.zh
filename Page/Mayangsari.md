@@ -20,7 +20,7 @@ Menilai
 
 ## 私人生活
 
-2000年Mayangsari與[蘇哈托的兒子結婚](../Page/蘇哈托.md "wikilink")，但當時[蘇哈托的兒子已婚](../Page/蘇哈托.md "wikilink")，這場婚姻在印尼造成轟動.
+2000年Mayangsari與[蘇哈托](../Page/蘇哈托.md "wikilink")的兒子結婚，但當時[蘇哈托](../Page/蘇哈托.md "wikilink")的兒子已婚，這場婚姻在印尼造成轟動.
 
 ## 唱片
 

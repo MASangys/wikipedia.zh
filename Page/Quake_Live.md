@@ -3,7 +3,7 @@ Live**是一款[第一人称射击](https://zh.wikipedia.org/wiki/第一人称�
 Software设计](https://zh.wikipedia.org/wiki/id_Software "wikilink")，可在基于[x86计算机的](https://zh.wikipedia.org/wiki/x86 "wikilink")[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
 OS
-X或](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux系统中下载后通过](../Page/Linux.md "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")[插件运行](../Page/插件.md "wikilink")。是其前身[雷神之锤3：竞技场](https://zh.wikipedia.org/wiki/雷神之锤3 "wikilink")(Q3A)的变种。
+X或](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")系统中下载后通过[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")[插件](../Page/插件.md "wikilink")运行。是其前身[雷神之锤3：竞技场](https://zh.wikipedia.org/wiki/雷神之锤3 "wikilink")(Q3A)的变种。
 Quake
 Live的下载和游戏是免费的。此外还有可订购包括更多竞技场，游戏类型和[游戏服务器的选项](https://zh.wikipedia.org/wiki/游戏服务器 "wikilink")。
 

@@ -1,5 +1,5 @@
 《**BLACK BLOOD
-BROTHERS**》是[あざの耕平](https://zh.wikipedia.org/wiki/あざの耕平 "wikilink")、[草河遊也的](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。[富士見Fantasia文庫刊行](../Page/富士見Fantasia文庫.md "wikilink")。2004年7月16日开始在[DRAGON
+BROTHERS**》是[あざの耕平](https://zh.wikipedia.org/wiki/あざの耕平 "wikilink")、[草河遊也的](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")刊行。2004年7月16日开始在[DRAGON
 MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
 ## 小说一覽
@@ -82,7 +82,7 @@ MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
   - 原作：
   - 角色原案：草河遊也
-  - 企画：臼井久人（東芝エンタテインメント）、古川陽子（ポニーキャニオン）、峯岸卓生（[博報堂DYメディアパートナーズ](../Page/博報堂.md "wikilink")）
+  - 企画：臼井久人（東芝エンタテインメント）、古川陽子（ポニーキャニオン）、峯岸卓生（[博報堂](../Page/博報堂.md "wikilink")DYメディアパートナーズ）
   - 監督：吉川博明
   - 系列構成、脚本：杉谷祐
   - 總作画監督：菅野利之、倉田綾子

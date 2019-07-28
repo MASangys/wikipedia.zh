@@ -4,7 +4,7 @@ Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個
 95和](../Page/Windows_95.md "wikilink")[Windows
 NT的版本](../Page/Windows_NT.md "wikilink")；於1996年4月首次發行適用於[Mac
 OS和](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows
-3.1的版本](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")。這個版本支援了[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")、[Cookie](../Page/Cookie.md "wikilink")、[VRML和](../Page/VRML.md "wikilink")[新聞群組](https://zh.wikipedia.org/wiki/新聞群組 "wikilink")\[1\]\[2\]。
+3.1的版本](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")。這個版本支援了[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")、[Cookie](../Page/Cookie.md "wikilink")、[VRML](../Page/VRML.md "wikilink")和[新聞群組](https://zh.wikipedia.org/wiki/新聞群組 "wikilink")\[1\]\[2\]。
 
 適用於[Mac
 OS的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")2.1版本於1996年8月發行，而同一年，適用於[Windows的](https://zh.wikipedia.org/wiki/Windows "wikilink")[Internet
@@ -29,7 +29,7 @@ Explorer 3也取代了舊版本](../Page/Internet_Explorer_3.md "wikilink")。
 <td><p>2</p></td>
 <td><p>2.0 Beta</p></td>
 <td><p>1995年10月</p></td>
-<td><p>支持<a href="../Page/HTML.md" title="wikilink">HTML表格和其他要素</a></p></td>
+<td><p>支持<a href="../Page/HTML.md" title="wikilink">HTML</a>表格和其他要素</p></td>
 <td></td>
 </tr>
 <tr class="even">

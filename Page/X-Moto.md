@@ -8,7 +8,7 @@ X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows等版本](https
 玩家要先選擇一個關卡並試著蒐集到所有草莓（一定要搜完），接著去觸碰花即可完成一關。阻礙著關卡完成的是一個個具有挑戰性及趣味的地形，還有避開一種稱為「wrecker」的東西，只要身體或車身的任何一個地方碰到wrecker，或是頭部碰撞倒花和草莓之外的東西。遊戲將會立即結束。「Script關卡」有一大堆可能會動的陷阱或機關，而X-Moto的腳本系統也非常之多變，甚至連[重力常數](https://zh.wikipedia.org/wiki/重力 "wikilink")、[地心引力的方向皆可自訂](https://zh.wikipedia.org/wiki/地心引力 "wikilink")，也造就了這個遊戲的趣味及多變性。不管是輸是贏，都可以把遊戲紀錄儲存成重播紀錄檔觀看，或是用「鬼影模式（Ghost
 Mode）」可以讓贏得最高紀錄的玩家以半透明顯示在螢幕上，並想辦法再度超越牠。玩家甚至可以把最高紀錄上傳到官方伺服器，並設有排行榜。
 
-X-Moto每次開啟時都會自動下載其他玩家或熱衷者自製的關卡，這些關卡是用[Inkscape的擴充套件來製作](../Page/Inkscape.md "wikilink")。
+X-Moto每次開啟時都會自動下載其他玩家或熱衷者自製的關卡，這些關卡是用[Inkscape](../Page/Inkscape.md "wikilink")的擴充套件來製作。
 
 ## 与 *Elasto Mania*
 
@@ -37,7 +37,7 @@ Mania是[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。
   - 高分辨率
     [2D图像](../Page/二维图像引擎.md "wikilink")，[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[硬件加速](../Page/硬件加速.md "wikilink")（[OpenGL](../Page/OpenGL.md "wikilink")）快速渲染
   - 制作新地图相當容易，支持自动下载
-  - 使用[Inkscape和](../Page/Inkscape.md "wikilink") Inksmoto 插件 \[2\]制作地图
+  - 使用[Inkscape](../Page/Inkscape.md "wikilink")和 Inksmoto 插件 \[2\]制作地图
   - 使用[Open Dynamics
     Engine进行物理现象模拟](../Page/Open_Dynamics_Engine.md "wikilink")
   - 使用可编程[Lua](../Page/Lua.md "wikilink")，允许可动物体，各式重力和额外玩家控制

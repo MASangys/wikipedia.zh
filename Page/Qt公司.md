@@ -1,10 +1,10 @@
 **Qt发展框架**（Qt Development
-Frameworks）是[挪威的一家电脑软件开发公司](../Page/挪威.md "wikilink")，前身是[Trolltech](https://zh.wikipedia.org/wiki/Trolltech "wikilink")（公司中文名是「奇趣科技」）\[1\]。
+Frameworks）是[挪威](../Page/挪威.md "wikilink")的一家电脑软件开发公司，前身是[Trolltech](https://zh.wikipedia.org/wiki/Trolltech "wikilink")（公司中文名是「奇趣科技」）\[1\]。
 
 ## 产品
 
 Qt发展框架标志性的产品是[Qt](../Page/Qt.md "wikilink")，一个跨平台的[C++](../Page/C++.md "wikilink")
-[GUI图形开发框架](https://zh.wikipedia.org/wiki/GUI "wikilink")。[Linux上流行的](../Page/Linux.md "wikilink")[KDE桌面环境就是采用Qt开发](../Page/KDE.md "wikilink")。Trolltech的雇员中同样有KDE开发人员。
+[GUI图形开发框架](https://zh.wikipedia.org/wiki/GUI "wikilink")。[Linux](../Page/Linux.md "wikilink")上流行的[KDE](../Page/KDE.md "wikilink")桌面环境就是采用Qt开发。Trolltech的雇员中同样有KDE开发人员。
 
 ## 历史
 
@@ -16,7 +16,7 @@ Nord成立](https://zh.wikipedia.org/wiki/Haavard_Nord "wikilink")。
 
 2007年5月8日，奇趣科技公司宣布，其全资拥有的中国子公司－奇趣科技（北京）有限公司正式成立。
 
-2008年，[诺基亚宣布以](../Page/诺基亚.md "wikilink")1.53亿美元收购奇趣科技，改名为Qt
+2008年，[诺基亚](../Page/诺基亚.md "wikilink")宣布以1.53亿美元收购奇趣科技，改名为Qt
 Software。加速诺基亚针对移动终端和桌面应用跨平台的软件战略的实施，以及拓展其互联网服务业务。
 
 2009年8月11日，Qt Software改名为Qt发展框架。

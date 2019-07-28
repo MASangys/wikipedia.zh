@@ -38,7 +38,7 @@ Windows 程式集2012版已經於2017年1月10日結束支援。
 ### Essentials and Windows Live Dashboard（Wave 1）
 
 2006年8月25日，微軟開始測試Windows Live
-Essentials的服務。這項服務非常類似[Google系列的](../Page/Google.md "wikilink")[Google軟體集](https://zh.wikipedia.org/wiki/Google_Pack "wikilink")。然而，原始的Windows
+Essentials的服務。這項服務非常類似[Google](../Page/Google.md "wikilink")系列的[Google軟體集](https://zh.wikipedia.org/wiki/Google_Pack "wikilink")。然而，原始的Windows
 Live Essentials旨意讓用戶發現新的Windows Live服務。Windows Live
 Essentials網站與*Windows Live
 Dashboard*緊密結合，它讓用戶知悉他們正使用的服務和有什麼新的Windows

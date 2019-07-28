@@ -1,5 +1,5 @@
 [ビオランテ.jpg](https://zh.wikipedia.org/wiki/File:ビオランテ.jpg "fig:ビオランテ.jpg")
-《**哥吉拉vs碧奧蘭蒂**》（日文原名：**ゴジラvsビオランテ**）是1989年12月16日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")17部作品，日本觀眾人數200萬人，票房約20億日圓，片商盈利收入為10億4000萬日圓。電影在台灣戲院上映時的片名為「**大恐龍**」，但2004年[新生代多媒體發行的DVD將片名譯為](https://zh.wikipedia.org/wiki/新生代多媒體 "wikilink")「**哥吉拉決戰皮歐朗迪**」。「哥吉拉vs碧奧蘭蒂」是[東立出版社發行的漫畫版譯名](../Page/東立出版社.md "wikilink")。
+《**哥吉拉vs碧奧蘭蒂**》（日文原名：**ゴジラvsビオランテ**）是1989年12月16日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")17部作品，日本觀眾人數200萬人，票房約20億日圓，片商盈利收入為10億4000萬日圓。電影在台灣戲院上映時的片名為「**大恐龍**」，但2004年[新生代多媒體發行的DVD將片名譯為](https://zh.wikipedia.org/wiki/新生代多媒體 "wikilink")「**哥吉拉決戰皮歐朗迪**」。「哥吉拉vs碧奧蘭蒂」是[東立出版社](../Page/東立出版社.md "wikilink")發行的漫畫版譯名。
 
 ## 劇情概要
 

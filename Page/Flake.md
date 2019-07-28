@@ -14,9 +14,9 @@ Flake的功能劃分Shapes之間可顯示的內容，和操作內容或用戶界
 Flake的前身是KOffice
 1系列中widget嵌入基礎的舊設計。widget嵌入了三個明顯的缺點，即widget總是方塊、無法旋轉和測量像素。所有這些問題Flake都被修正。嵌入文件的數據，現在可以縮放、旋轉和傾斜，可以是任何形式和單位來測量如毫米。Flake還改進了在一些領域中原來的設計，如它的可擴展性。例如，在2007年的Google's
 Summer of Code Marijn
-Kruisselbrink建立了基於[MusicXML的音樂符號的形狀和工具](../Page/MusicXML.md "wikilink")\[2\]
+Kruisselbrink建立了基於[MusicXML](../Page/MusicXML.md "wikilink")的音樂符號的形狀和工具\[2\]
 形狀可以知道其他形狀的位置，移動圖像通過文本將導致文字動態環繞圖像周圍\[3\]。
-形狀甚至可以組合在一起，並以表現得像一個單一的形狀。Flake還支持輸出成[PDF格式](https://zh.wikipedia.org/wiki/PDF "wikilink")，並完全支持以[反鋸齒方式畫出平滑的文字](../Page/反鋸齒.md "wikilink")。\[4\]
+形狀甚至可以組合在一起，並以表現得像一個單一的形狀。Flake還支持輸出成[PDF格式](https://zh.wikipedia.org/wiki/PDF "wikilink")，並完全支持以[反鋸齒](../Page/反鋸齒.md "wikilink")方式畫出平滑的文字。\[4\]
 
 ## 參考資料
 

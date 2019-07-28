@@ -67,7 +67,7 @@ Track。\[1\]
 <td style="text-align: center;"><p>10</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV亞洲大碟榜</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/HMV.md" title="wikilink">HMV</a>亞洲大碟榜</p></td>
 <td style="text-align: center;"><p>9 (第二版18位)</p></td>
 </tr>
 </tbody>

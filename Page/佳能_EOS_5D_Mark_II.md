@@ -1,5 +1,5 @@
 **佳能 EOS 5D Mark
-II**是[佳能EOS系列的一部](../Page/佳能EOS系列.md "wikilink")2100万[像素级别的](../Page/像素.md "wikilink")[全片幅數位單眼相機](https://zh.wikipedia.org/wiki/全片幅數位單眼相機 "wikilink")。5D
+II**是[佳能EOS系列](../Page/佳能EOS系列.md "wikilink")的一部2100万[像素](../Page/像素.md "wikilink")级别的[全片幅數位單眼相機](https://zh.wikipedia.org/wiki/全片幅數位單眼相機 "wikilink")。5D
 Mark II作为之前大受业余摄影爱好者欢迎的全片幅机型[佳能 EOS
 5D的后续机型](../Page/佳能_EOS_5D.md "wikilink")，发布于2008年9月17日。由于谐音的原因，5D
 Mark II在大陆\[1\]和台湾用户中常被称为“**無敵兔**”\[2\]。
@@ -32,7 +32,7 @@ Mark II在大陆\[1\]和台湾用户中常被称为“**無敵兔**”\[2\]。
 
 ### 视频录制
 
-这款产品最吸引人的新特性是它的[1080p高清视频拍摄能力](../Page/1080p.md "wikilink")。得益于[佳能EF镜头的品质和全画幅传感器的优势](https://zh.wikipedia.org/wiki/佳能EF接环镜头列表 "wikilink")，高清视频拍摄相较于低端的数码相机与DV拍摄的视频有一个质的飞跃。该产品是佳能EOS系列中第一款支持视频记录的机型。视频拍摄中可以进行摄影，但视频录制会暂停直到摄影结束。
+这款产品最吸引人的新特性是它的[1080p](../Page/1080p.md "wikilink")高清视频拍摄能力。得益于[佳能EF镜头的品质和全画幅传感器的优势](https://zh.wikipedia.org/wiki/佳能EF接环镜头列表 "wikilink")，高清视频拍摄相较于低端的数码相机与DV拍摄的视频有一个质的飞跃。该产品是佳能EOS系列中第一款支持视频记录的机型。视频拍摄中可以进行摄影，但视频录制会暂停直到摄影结束。
 
 虽然不是第一台可以进行视频拍摄的数码单反相机（第一部为[尼康D90](../Page/尼康D90.md "wikilink")，可拍摄720p视频），但却是135全画幅规格，且可以摄制1080p规格影片。单段影片剪辑最大可达4GB，也就是12分钟的16:9
 HD (1920 x 1080)视频，或30分钟4:3 (640 x 480)片段（依场景复杂程度不同有浮动）。
@@ -41,7 +41,7 @@ HD (1920 x 1080)视频，或30分钟4:3 (640 x 480)片段（依场景复杂程�
 Mark II替代专业高清摄像机的尝试。
 
 5D Mark II
-已用于[週末夜現場第](https://zh.wikipedia.org/wiki/週末夜現場 "wikilink")35季开幕的拍摄，也在美国电视连续剧[豪斯医生第六季最后一集用于全程拍摄](../Page/豪斯医生.md "wikilink")\[3\]。
+已用于[週末夜現場第](https://zh.wikipedia.org/wiki/週末夜現場 "wikilink")35季开幕的拍摄，也在美国电视连续剧[豪斯医生](../Page/豪斯医生.md "wikilink")第六季最后一集用于全程拍摄\[3\]。
 
 ## 接驳非佳能镜头
 
@@ -63,8 +63,8 @@ EOS 5D MARK II控制盘上的Av档，可以为非佳能镜头提供自动曝光�
   - [佳能EOS系列](../Page/佳能EOS系列.md "wikilink")
       - [佳能 EOS 5D](../Page/佳能_EOS_5D.md "wikilink")
   - [全画幅数码单反相机](../Page/全画幅数码单反相机.md "wikilink")
-      - [尼康D700](../Page/尼康D700.md "wikilink")——同期发布的[尼康的全画幅数码单镜头反光相机](../Page/尼康.md "wikilink")
-      - [索尼α900](https://zh.wikipedia.org/wiki/DSLR-α900 "wikilink")——同期发布的[索尼的全画幅数码单镜头反光相机](../Page/索尼.md "wikilink")
+      - [尼康D700](../Page/尼康D700.md "wikilink")——同期发布的[尼康](../Page/尼康.md "wikilink")的全画幅数码单镜头反光相机
+      - [索尼α900](https://zh.wikipedia.org/wiki/DSLR-α900 "wikilink")——同期发布的[索尼](../Page/索尼.md "wikilink")的全画幅数码单镜头反光相机
 
 ## 参考文献
 

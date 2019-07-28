@@ -4,9 +4,9 @@ Transformation Formats，
 
 UTF-32的主要优点是可以直接由Unicode码位来索引。在编码序列中查找第N个编码是一个[常数时间操作](https://zh.wikipedia.org/wiki/常数时间 "wikilink")。相比之下，其他可变长度编码需要进行[循序存取操作才能在编码序列中找到第N个编码](https://zh.wikipedia.org/wiki/循序存取 "wikilink")。这使得在计算机程序设计中，编码序列中的字符位置可以用一个整数来表示，整数加一即可得到下一个字符的位置，就和ASCII字符串一样简单。
 
-UTF-32的主要缺点是每个码位使用四个字节，空间浪费较多。在大多数文本中，非[基本多文種平面的字符非常罕见](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")，这使得UTF-32所需空间接近[UTF-16的两倍和](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")[UTF-8的四倍](../Page/UTF-8.md "wikilink")（具体取决于文本中ASCII字符的比例）。
+UTF-32的主要缺点是每个码位使用四个字节，空间浪费较多。在大多数文本中，非[基本多文種平面的字符非常罕见](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")，这使得UTF-32所需空间接近[UTF-16的两倍和](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")[UTF-8](../Page/UTF-8.md "wikilink")的四倍（具体取决于文本中ASCII字符的比例）。
 
-尽管每一個碼位使用固定長度的位元組看似方便，但UTF-32並不如其它Unicode編碼使用廣泛。與[UTF-8及](../Page/UTF-8.md "wikilink")[UTF-16相比](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")，UTF-32更容易遭到截斷。即使使用了"定寬"字型，在大多数情况下用UTF-32計算顯示字串的寬度也并不比其他编码更加容易。主要原因是，存在著一個字符位置會有多於一種可能的碼點（[結合字符](https://zh.wikipedia.org/wiki/結合字符 "wikilink")）或一個碼點用多於一個字符位置（如[CJK表意字符](https://zh.wikipedia.org/wiki/CJK "wikilink")）。結合符號也意味著，文書編輯者不能將一個码位視同一個編輯上的單位。
+尽管每一個碼位使用固定長度的位元組看似方便，但UTF-32並不如其它Unicode編碼使用廣泛。與[UTF-8](../Page/UTF-8.md "wikilink")及[UTF-16相比](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")，UTF-32更容易遭到截斷。即使使用了"定寬"字型，在大多数情况下用UTF-32計算顯示字串的寬度也并不比其他编码更加容易。主要原因是，存在著一個字符位置會有多於一種可能的碼點（[結合字符](https://zh.wikipedia.org/wiki/結合字符 "wikilink")）或一個碼點用多於一個字符位置（如[CJK表意字符](https://zh.wikipedia.org/wiki/CJK "wikilink")）。結合符號也意味著，文書編輯者不能將一個码位視同一個編輯上的單位。
 
 ## 歷史
 

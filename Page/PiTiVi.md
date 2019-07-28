@@ -1,5 +1,5 @@
 **Pitivi**
-是建基於[GStreamer的影片編輯軟件](../Page/GStreamer.md "wikilink")，本軟件使用[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，功能包括：
+是建基於[GStreamer](../Page/GStreamer.md "wikilink")的影片編輯軟件，本軟件使用[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，功能包括：
 
   - 截取及編碼GStreamer框架所支持的檔案格式
   - 修剪影片片段
@@ -8,7 +8,7 @@
 
 自2008年12月起，由於開發的資金增多及開發速度加快，不久的未來會更多的功能。
 
-任何PiTiVi組件可以通過[Python寫的插件擴展](../Page/Python.md "wikilink")，而多媒體的輸入跟輸出是使用GStreamer框架的，PiTiVi在處理非線性編輯處理時，使用[GNonLin編輯插件](https://zh.wikipedia.org/wiki/GNonLin "wikilink")。
+任何PiTiVi組件可以通過[Python](../Page/Python.md "wikilink")寫的插件擴展，而多媒體的輸入跟輸出是使用GStreamer框架的，PiTiVi在處理非線性編輯處理時，使用[GNonLin編輯插件](https://zh.wikipedia.org/wiki/GNonLin "wikilink")。
 
 ## 資助
 

@@ -18,7 +18,7 @@ MCP79晶片組記憶體方面支持[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wi
 與Intel
 Atom搭配的[945GSE晶片組相比](../Page/Intel_GMA.md "wikilink")，整合图形核心支援DirectX
 10、[PureVideo](https://zh.wikipedia.org/wiki/PureVideo "wikilink")
-HD硬體解碼、[CUDA軟體對應](../Page/CUDA.md "wikilink")、[Hybrid
+HD硬體解碼、[CUDA](../Page/CUDA.md "wikilink")軟體對應、[Hybrid
 SLI等](https://zh.wikipedia.org/wiki/Hybrid_SLI "wikilink")。3D繪圖效能是GMA950的4到5倍，GMA950僅支援DirectX
 9且未獲得[Windows Vista
 Premium認證](../Page/Windows_Vista.md "wikilink")，而MCP79則已通過了Windows
@@ -34,7 +34,7 @@ Vista的問題。
 Atom已經集成了顯示核心和系統記憶體控制器，而配合的晶片組再不是南北橋設計，而是單晶片設計。加上與Intel之間的授權糾紛，NVIDIA不能夠再為Intel的處理器推出晶片組\[3\]。該顯示核心可以看作為GeForce
 G 210M，8/16個流处理器。立體和高清影片播放性能都比Intel的好。另外支援[NVIDIA
 Optimus技術](../Page/NVIDIA_Optimus.md "wikilink")，當電腦進行普通應用的時候，顯示核心將會被關閉，而只會採用處理器集成的顯示核心。當進行立體運算的時候，NVIDIA的顯示核心會透過Intel的作顯示輸出。但桌面平台版本不會支援這個技術，顯示核心會永久開啟。NVIDIA
-ION可以支援[HDMI輸出](../Page/HDMI.md "wikilink")。當使用HDMI接口的時候，顯示核心需要保持開啟。
+ION可以支援[HDMI](../Page/HDMI.md "wikilink")輸出。當使用HDMI接口的時候，顯示核心需要保持開啟。
 
 ## 產品規格
 

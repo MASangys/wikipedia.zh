@@ -12,7 +12,7 @@ zh-hant:霹靂地}-派出狼群到村落搜集雙胞胎的其中一個](https://
 共業們也在[卡拉遇到了一名來自](https://zh.wikipedia.org/wiki/卡拉 "wikilink")[緬因州撒冷地的](https://zh.wikipedia.org/wiki/緬因州 "wikilink")[-{zh-hans:卡拉神父;
 zh-hant:神父卡拉漢}-](https://zh.wikipedia.org/wiki/神父卡拉漢 "wikilink")，他在[紐約被下等人追捕](https://zh.wikipedia.org/wiki/紐約 "wikilink")，最後因自殺，被黑衣人藉黑十三（十三顆巫師的水晶球中，力量最強大的一個）帶到[卡拉](https://zh.wikipedia.org/wiki/卡拉 "wikilink")。
 
-終有一天，村民不知從何時已經存在的報訊[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")[安迪向村民預報狼群即將到來](../Page/安迪.md "wikilink")，其中一位村民[-{zh-hans:逖安;
+終有一天，村民不知從何時已經存在的報訊[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")[安迪](../Page/安迪.md "wikilink")向村民預報狼群即將到來，其中一位村民[-{zh-hans:逖安;
 zh-hant:提恩·嘉佛茲}-不甘小孩被尋](https://zh.wikipedia.org/wiki/提恩·嘉佛茲 "wikilink")，於是召集村民到議事廳商討，村民大多抱消極態度，惟穿梭於世界之間的[游牧民族](https://zh.wikipedia.org/wiki/游牧民族 "wikilink")[-{zh-hans:曼尼人;
 zh-hant:曼寧人}-預知到](https://zh.wikipedia.org/wiki/曼寧人 "wikilink")[-{zh-hans:槍俠;
 zh-hant:槍客}-將會出現](https://zh.wikipedia.org/wiki/槍客 "wikilink")，並拯救他們的小孩。
@@ -24,9 +24,9 @@ zh-hant:黑塔}-支撐著整個世界的](https://zh.wikipedia.org/wiki/黑塔 "
 
 ## 靈感
 
-史蒂芬金曾公開說明過他的靈感來源是來自於[約翰·史特吉斯的](https://zh.wikipedia.org/wiki/約翰司圖加 "wikilink")[豪勇七蛟龍及](../Page/豪勇七蛟龍.md "wikilink")[塞吉歐·李昂尼的](../Page/塞吉歐·李昂尼.md "wikilink")[鏢客三部曲](https://zh.wikipedia.org/wiki/鏢客三部曲 "wikilink")，及其他[李昂尼](../Page/塞吉歐·李昂尼.md "wikilink")、[山姆畢京柏](https://zh.wikipedia.org/wiki/山姆畢京柏 "wikilink")、[霍華·霍克斯](../Page/霍華·霍克斯.md "wikilink")，而由於豪勇七蛟龍的靈感來自於[黑澤明的](https://zh.wikipedia.org/wiki/黑澤明 "wikilink")[七武士](../Page/七武士.md "wikilink")，所以[七武士也間接的給了](../Page/七武士.md "wikilink")[卡拉之狼靈感](https://zh.wikipedia.org/wiki/卡拉之狼 "wikilink")。
+史蒂芬金曾公開說明過他的靈感來源是來自於[約翰·史特吉斯的](https://zh.wikipedia.org/wiki/約翰司圖加 "wikilink")[豪勇七蛟龍](../Page/豪勇七蛟龍.md "wikilink")及[塞吉歐·李昂尼](../Page/塞吉歐·李昂尼.md "wikilink")的[鏢客三部曲](https://zh.wikipedia.org/wiki/鏢客三部曲 "wikilink")，及其他[李昂尼](../Page/塞吉歐·李昂尼.md "wikilink")、[山姆畢京柏](https://zh.wikipedia.org/wiki/山姆畢京柏 "wikilink")、[霍華·霍克斯](../Page/霍華·霍克斯.md "wikilink")，而由於豪勇七蛟龍的靈感來自於[黑澤明的](https://zh.wikipedia.org/wiki/黑澤明 "wikilink")[七武士](../Page/七武士.md "wikilink")，所以[七武士](../Page/七武士.md "wikilink")也間接的給了[卡拉之狼靈感](https://zh.wikipedia.org/wiki/卡拉之狼 "wikilink")。
 
-許多這本小說中的物品也都來自別的作品，狼群們拿的『光棒』被艾迪直接點出是[星際大戰中的光劍](../Page/星際大戰.md "wikilink")，而傳訊機器人安迪的外型也很接近[星際大戰中](../Page/星際大戰.md "wikilink")[C-3PO](../Page/C-3PO.md "wikilink")。狼群們穿的綠色斗篷則是[驚奇四超人中的](https://zh.wikipedia.org/wiki/驚奇四超人 "wikilink")[末日博士的穿著](https://zh.wikipedia.org/wiki/末日博士 "wikilink")。而他們使用的-{zh-hans:飛賊;
+許多這本小說中的物品也都來自別的作品，狼群們拿的『光棒』被艾迪直接點出是[星際大戰](../Page/星際大戰.md "wikilink")中的光劍，而傳訊機器人安迪的外型也很接近[星際大戰](../Page/星際大戰.md "wikilink")中[C-3PO](../Page/C-3PO.md "wikilink")。狼群們穿的綠色斗篷則是[驚奇四超人中的](https://zh.wikipedia.org/wiki/驚奇四超人 "wikilink")[末日博士的穿著](https://zh.wikipedia.org/wiki/末日博士 "wikilink")。而他們使用的-{zh-hans:飛賊;
 zh-hant:銀探子}-（sneetches）則來自《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》。（[金探子](https://zh.wikipedia.org/wiki/金探子 "wikilink")，Golden
 Snitch）
 

@@ -9,7 +9,7 @@ Artists](../Page/Sony_Music_Artists.md "wikilink")。
   - 2003年5月，An Cafe最初仅由みく, カノン
     和坊三人組成，之後“Feathers-Blue”的輝喜加入。乐团第一年仅是登台演出，没有自编歌曲。
   - 2004年An Cafe制作了第一部乐曲，并与[Loop
-    Ash乐团签订合同进行合作](https://zh.wikipedia.org/wiki/Loop_Ash "wikilink")。第一部乐曲《Candyholic》三月发行，并在[Oricon排行榜](../Page/Oricon.md "wikilink")（唱片公司独家唱片制作排行榜）中获得第二名。乐团继续演出并编辑自己的歌曲，第一部专辑《Shikisai
+    Ash乐团签订合同进行合作](https://zh.wikipedia.org/wiki/Loop_Ash "wikilink")。第一部乐曲《Candyholic》三月发行，并在[Oricon](../Page/Oricon.md "wikilink")排行榜（唱片公司独家唱片制作排行榜）中获得第二名。乐团继续演出并编辑自己的歌曲，第一部专辑《Shikisai
     Moment*》*2005年发行，随后第二部Magnya Carta（来自英文[Magna
     Carta](https://zh.wikipedia.org/wiki/大宪章 "wikilink")）在2006年发行。
 
@@ -50,7 +50,7 @@ Artists](../Page/Sony_Music_Artists.md "wikilink")。
 ## 外國演出經歷
 
 An
-Cafe乐团不仅在日本流行，甚至在欧洲，亚洲的韩国、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")、[巴西利亚和](../Page/巴西利亚.md "wikilink")[美国](../Page/美国.md "wikilink")。2008年本乐团在[芬兰](../Page/芬兰.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[德国](../Page/德国.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、英国等国家进行了欧洲巡回演出“Live
+Cafe乐团不仅在日本流行，甚至在欧洲，亚洲的韩国、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")、[巴西利亚](../Page/巴西利亚.md "wikilink")和[美国](../Page/美国.md "wikilink")。2008年本乐团在[芬兰](../Page/芬兰.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[德国](../Page/德国.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、英国等国家进行了欧洲巡回演出“Live
 Cafe Tour '08 - Nyappy go around the
 world”。在六个国家里举办了十个音乐会，其中五个在德国。在2008年十一月，An
 Cafe在2009年三四月份在美国加州的三个城市进行巡回演出。在2009年三月再次去欧洲巡回演出。會在以下国家举办十场晚会：[芬兰](../Page/芬兰.md "wikilink")（2）、[瑞典](../Page/瑞典.md "wikilink")、[德国](../Page/德国.md "wikilink")（2）、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")（2）、[西班牙](../Page/西班牙.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")（[莫斯科](../Page/莫斯科.md "wikilink")）。

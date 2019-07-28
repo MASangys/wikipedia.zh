@@ -16,7 +16,7 @@ O00-O08 流产结局的妊娠
 ## O10-O16 妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患
 
 O10-O16
-[妊娠](../Page/妊娠.md "wikilink")、[分娩和](../Page/分娩.md "wikilink")[产褥期的水肿](https://zh.wikipedia.org/wiki/产褥 "wikilink")、蛋白尿和高血压疾患
+[妊娠](../Page/妊娠.md "wikilink")、[分娩](../Page/分娩.md "wikilink")和[产褥期的水肿](https://zh.wikipedia.org/wiki/产褥 "wikilink")、蛋白尿和高血压疾患
 
   - O10 原有的高血压并发于妊娠、分娩和产褥期
   - O11 原有的高血压性疾患，并发蛋白尿
@@ -66,7 +66,7 @@ O30-O48
 ## O60-O75 产程和分娩的并发症
 
 O60-O75
-[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩的并发症](../Page/分娩.md "wikilink")
+[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩](../Page/分娩.md "wikilink")的并发症
 
   - O60 [早产](https://zh.wikipedia.org/wiki/早产 "wikilink")
   - O61 引产失败

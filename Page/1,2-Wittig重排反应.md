@@ -1,6 +1,6 @@
 **1,2-Wittig重排反应**（1,2-Wittig rearrangement）
 
-[醚在](../Page/醚.md "wikilink")[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[有机锂试剂](../Page/有机锂试剂.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")[烷氧基化合物](https://zh.wikipedia.org/wiki/烷氧基 "wikilink")。\[1\]\[2\]
+[醚](../Page/醚.md "wikilink")在[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[有机锂试剂](../Page/有机锂试剂.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")[烷氧基化合物](https://zh.wikipedia.org/wiki/烷氧基 "wikilink")。\[1\]\[2\]
 
 
 [WittigRearrangement.png](https://zh.wikipedia.org/wiki/File:WittigRearrangement.png "fig:WittigRearrangement.png")
@@ -10,15 +10,15 @@
 这个反应是合成多取代醇的一个较好的方法。
 
 当 R''
-为[吸电子基团](https://zh.wikipedia.org/wiki/吸电子基团 "wikilink")（如[氰基](https://zh.wikipedia.org/wiki/氰基 "wikilink")），很容易[离去时](https://zh.wikipedia.org/wiki/离去 "wikilink")，该基团在反应中被消除，反应产物是相应的[酮类](../Page/酮.md "wikilink")。\[3\]
+为[吸电子基团](https://zh.wikipedia.org/wiki/吸电子基团 "wikilink")（如[氰基](https://zh.wikipedia.org/wiki/氰基 "wikilink")），很容易[离去时](https://zh.wikipedia.org/wiki/离去 "wikilink")，该基团在反应中被消除，反应产物是相应的[酮](../Page/酮.md "wikilink")类。\[3\]
 
 
 [WittigModification.png](https://zh.wikipedia.org/wiki/File:WittigModification.png "fig:WittigModification.png")
 
 ## 反应机理
 
-一般认为反应底物醚在强碱作用下生成的 α-[碳负离子发生](../Page/碳负离子.md "wikilink") O-R
-键[均裂形成](https://zh.wikipedia.org/wiki/均裂 "wikilink")[自由基中间体](../Page/自由基.md "wikilink")，之后自由基1,2-迁移后两个自由基再偶联为最终的烷氧基化合物。\[4\]
+一般认为反应底物醚在强碱作用下生成的 α-[碳负离子](../Page/碳负离子.md "wikilink")发生 O-R
+键[均裂形成](https://zh.wikipedia.org/wiki/均裂 "wikilink")[自由基](../Page/自由基.md "wikilink")中间体，之后自由基1,2-迁移后两个自由基再偶联为最终的烷氧基化合物。\[4\]
 
 
 [WittigRearrangementMechanism.png](https://zh.wikipedia.org/wiki/File:WittigRearrangementMechanism.png "fig:WittigRearrangementMechanism.png")
@@ -27,7 +27,7 @@
 某些烯丙基芳醚也可以按照另一机理进行反应。\[5\] 例如，下图中的烯丙基芳醚
 (1)用[仲丁基锂在](https://zh.wikipedia.org/wiki/仲丁基锂 "wikilink")
 −78°C 处理得到锂化中间体 (2)。当升高温度至
-−25°C，并用[三甲基氯硅烷捕获反应的醇锂中间体时](../Page/三甲基氯硅烷.md "wikilink")，结果只得到重排产物
+−25°C，并用[三甲基氯硅烷](../Page/三甲基氯硅烷.md "wikilink")捕获反应的醇锂中间体时，结果只得到重排产物
 (5)，没有 (4) 生成。这个结果排除了通过自由基 (3a)进行反应的机理，支持了以
 [Meisenheimer络合物](https://zh.wikipedia.org/wiki/Meisenheimer络合物 "wikilink")
 (3b)为中间体的反应机理。进一步研究表明烯丙基(对叔丁基苯基)醚进行反应时，反应速率发生下降，从而再次证实了以 3b 为中间体的机理。

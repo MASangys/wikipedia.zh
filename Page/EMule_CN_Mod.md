@@ -4,7 +4,7 @@ Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
 [GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 CN
-Mod由包括**中国驴**论坛管理员在内的一些中国内地[程序员制作](../Page/程序员.md "wikilink")。中国驴论坛为其官方网站与发布点。最早的eMule
+Mod由包括**中国驴**论坛管理员在内的一些中国内地[程序员](../Page/程序员.md "wikilink")制作。中国驴论坛为其官方网站与发布点。最早的eMule
 CN Mod是eMule-CN-1-r46，于2004年8月24日在其论坛上发布\[1\]。
 
 ## 功能

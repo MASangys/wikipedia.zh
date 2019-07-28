@@ -1,4 +1,4 @@
-**Aquarium**是[丹麥舞曲團體](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[水叮噹的第一張專輯](../Page/水叮噹.md "wikilink")。
+**Aquarium**是[丹麥舞曲團體](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[水叮噹](../Page/水叮噹.md "wikilink")的第一張專輯。
 
 其中包涵了三首曾登上英國排行榜第一的單曲，分別是:「Barbie Girl」、「Doctor Jones」、「Turn Back
 Time」，而「My Oh My」和「Good Morning

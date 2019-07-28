@@ -1,4 +1,4 @@
-**Playfish**是一个社交游戏公司，於2009年11月9日被[EA以](https://zh.wikipedia.org/wiki/EA "wikilink")2.5億美元及2500股併購。Playfish的游戏集中发布于社交网站如[Facebook](../Page/Facebook.md "wikilink")、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[Bebo以及](../Page/Bebo.md "wikilink")
+**Playfish**是一个社交游戏公司，於2009年11月9日被[EA以](https://zh.wikipedia.org/wiki/EA "wikilink")2.5億美元及2500股併購。Playfish的游戏集中发布于社交网站如[Facebook](../Page/Facebook.md "wikilink")、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[Bebo](../Page/Bebo.md "wikilink")以及
 [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。公司的总部在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")，另外有分公司在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[美国](../Page/美国.md "wikilink")[三藩市和](https://zh.wikipedia.org/wiki/三藩市 "wikilink")[挪威](../Page/挪威.md "wikilink")[特罗姆瑟](../Page/特罗姆瑟.md "wikilink")。Playfish通常會先在Facebook發佈遊戲，之後才發佈到其他平台。現在所有遊戲都已結束營運。
 
 ## 历史
@@ -9,7 +9,7 @@ Shukri Shammas成立。在2008年10月，Playfish成功获得170万美元的融�
 2009年11月9日，美國知名電玩軟體大廠[藝電](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")（Electronic
 Arts Inc.）宣布將以2.75億美金收購Playfish。
 
-Playfish曾經在[Facebook爆紅](../Page/Facebook.md "wikilink")，與 另外一間遊戲公司Zynga
+Playfish曾經在[Facebook](../Page/Facebook.md "wikilink")爆紅，與 另外一間遊戲公司Zynga
 爭奪Facebook遊戲鰲頭，最多曾有17款遊戲同時在線。例如俗稱「餐城」的《[Restaurant
 City](../Page/Restaurant_City.md "wikilink")》於2009年推出，當紅時每日可達520萬活躍使用者。但是現在聲勢已大不如前，光是2011年就有11款遊戲結束營運。在2012年5月Inside
 Social Games

@@ -1,5 +1,5 @@
 《**EXILE
-LOVE**》是[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")6張[專輯](../Page/音樂專輯.md "wikilink")。[Oricon最高排行第](../Page/Oricon.md "wikilink")1、初動銷量67.0萬張。
+LOVE**》是[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")6張[專輯](../Page/音樂專輯.md "wikilink")。[Oricon](../Page/Oricon.md "wikilink")最高排行第1、初動銷量67.0萬張。
 
 ## 解說
 
@@ -22,7 +22,7 @@ Logic\]的PV共5首PV。另外收錄了動畫「EXILE武士」（エグザムラ
 いい意味でヤバイッすOKAXILE
 Special」中介紹的搞笑團體NINETY-NINE的[岡村隆史客串參加](https://zh.wikipedia.org/wiki/岡村隆史 "wikilink")，受到很大迴響的OKAXILE的現場演唱會影片。
 
-新星堂各店舗還有[HMV和](../Page/HMV.md "wikilink")[7-Eleven等在網路尚先行發售](../Page/7-Eleven.md "wikilink")，舉辦「[I
+新星堂各店舗還有[HMV](../Page/HMV.md "wikilink")和[7-Eleven](../Page/7-Eleven.md "wikilink")等在網路尚先行發售，舉辦「[I
 Believe](https://zh.wikipedia.org/wiki/I_Believe_\(EXILE\) "wikilink")」、「君がいるから」、「[SUMMER
 TIME LOVE](../Page/SUMMER_TIME_LOVE.md "wikilink")」、「響
 〜HIBIKI〜」、「Beautiful」、「Touch The Sky feat.Bach
@@ -198,7 +198,7 @@ ENTERTAINMENT](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")』�
     Brothers](../Page/J_Soul_Brothers.md "wikilink")
       -
         新生J Soul
-        Brothers的現場演唱會所演出的歌曲。作曲是替[安室奈美惠等作曲的](../Page/安室奈美惠.md "wikilink")[Nao'ymt](https://zh.wikipedia.org/wiki/Nao'ymt "wikilink")。
+        Brothers的現場演唱會所演出的歌曲。作曲是替[安室奈美惠](../Page/安室奈美惠.md "wikilink")等作曲的[Nao'ymt](https://zh.wikipedia.org/wiki/Nao'ymt "wikilink")。
 9.  WON'T BE LONG feat.[NEVER
     LAND](https://zh.wikipedia.org/wiki/NEVER_LAND_\(HIPHOP\) "wikilink")
       -

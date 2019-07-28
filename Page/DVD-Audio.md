@@ -1,4 +1,4 @@
-****（常縮寫成****）是一种數位格式，用于在[DVD上传送高保真音频内容](https://zh.wikipedia.org/wiki/DVD "wikilink")。DVD-Audio並非用來作為影像的儲存格式，而且也跟[DVD-Video不一樣](../Page/DVD-Video.md "wikilink")。第一張DVD-Audio在2000年上市。
+****（常縮寫成****）是一种數位格式，用于在[DVD上传送高保真音频内容](https://zh.wikipedia.org/wiki/DVD "wikilink")。DVD-Audio並非用來作為影像的儲存格式，而且也跟[DVD-Video](../Page/DVD-Video.md "wikilink")不一樣。第一張DVD-Audio在2000年上市。
 
 DVD-Audio可以採用較高的取樣頻率即位元深度，由於錄音播放及數位後製都會造成誤差，更高的解析度讓代表人耳聽得到的聲音不容易受到誤差影響；而最明顯的好處在於多種取樣頻率的支援的支援，DVD-Audio可以使用與數位母帶相同的取樣頻率，取樣頻率的轉換會造成音質明顯變差（但在另一方面，將原始母帶升頻後製作的DVD-Audio唱片，則是地雷片）。
 

@@ -379,9 +379,9 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2009年4月9日，仙剑OL[台港澳地区开始封测](https://zh.wikipedia.org/wiki/台港澳 "wikilink")，[遊戲新幹線也正式釋出](../Page/遊戲新幹線.md "wikilink")《仙劍Online》30秒電視廣告版，搶先在網路上放映
+    2009年4月9日，仙剑OL[台港澳地区开始封测](https://zh.wikipedia.org/wiki/台港澳 "wikilink")，[遊戲新幹線](../Page/遊戲新幹線.md "wikilink")也正式釋出《仙劍Online》30秒電視廣告版，搶先在網路上放映
     30
-    秒版本[蝶戀](http://www.youtube.com/watch?v=4RJ4BCF4vgs)的感人情節。此外，藝人[黃韻玲與](../Page/黃韻玲.md "wikilink")[林俊逸為](https://zh.wikipedia.org/wiki/林俊逸 "wikilink")《仙劍Online》所演唱主題曲《[蝶戀](http://www.youtube.com/watch?v=FYlG7ujWc1c)》也同步於
+    秒版本[蝶戀](http://www.youtube.com/watch?v=4RJ4BCF4vgs)的感人情節。此外，藝人[黃韻玲](../Page/黃韻玲.md "wikilink")與[林俊逸為](https://zh.wikipedia.org/wiki/林俊逸 "wikilink")《仙劍Online》所演唱主題曲《[蝶戀](http://www.youtube.com/watch?v=FYlG7ujWc1c)》也同步於
     [Pixnet](https://zh.wikipedia.org/wiki/Pixnet "wikilink")
     [痞客幫上首度播映](../Page/痞客邦.md "wikilink")。
 

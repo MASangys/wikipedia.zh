@@ -1,5 +1,5 @@
-《**話說蘇慧倫X檔案**》是[蘇慧倫的第十二張大碟](../Page/蘇慧倫.md "wikilink")，第三張粵語大碟，於1996年11月15日推出。專輯的第一主打歌是《話說…》，是收錄在《[鴨子](../Page/鴨子_\(專輯\).md "wikilink")》大碟中《鴨子》的粵語版本。另外，這專輯由上一張專輯《[Lemon
-Tree](../Page/Lemon_Tree_\(專輯\).md "wikilink")》的音樂監製[包小柏及](../Page/包小柏.md "wikilink")[周華健轄下的](https://zh.wikipedia.org/wiki/周華健 "wikilink")[擺渡人工作室合力製作](https://zh.wikipedia.org/wiki/擺渡人工作室 "wikilink")，並力聘[迪士尼配樂監製](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")[王宗賢及](https://zh.wikipedia.org/wiki/王宗賢 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[樂手](https://zh.wikipedia.org/wiki/樂手 "wikilink")、[錄音師](https://zh.wikipedia.org/wiki/錄音師 "wikilink")、[混音師協助製作](https://zh.wikipedia.org/wiki/混音師 "wikilink")。首批版本附送一個蘇慧倫在[美國拍攝的](https://zh.wikipedia.org/wiki/美國 "wikilink")36頁寫真集《她事窗》及服裝優惠券。
+《**話說蘇慧倫X檔案**》是[蘇慧倫](../Page/蘇慧倫.md "wikilink")的第十二張大碟，第三張粵語大碟，於1996年11月15日推出。專輯的第一主打歌是《話說…》，是收錄在《[鴨子](../Page/鴨子_\(專輯\).md "wikilink")》大碟中《鴨子》的粵語版本。另外，這專輯由上一張專輯《[Lemon
+Tree](../Page/Lemon_Tree_\(專輯\).md "wikilink")》的音樂監製[包小柏](../Page/包小柏.md "wikilink")及[周華健轄下的](https://zh.wikipedia.org/wiki/周華健 "wikilink")[擺渡人工作室合力製作](https://zh.wikipedia.org/wiki/擺渡人工作室 "wikilink")，並力聘[迪士尼配樂監製](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")[王宗賢及](https://zh.wikipedia.org/wiki/王宗賢 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[樂手](https://zh.wikipedia.org/wiki/樂手 "wikilink")、[錄音師](https://zh.wikipedia.org/wiki/錄音師 "wikilink")、[混音師協助製作](https://zh.wikipedia.org/wiki/混音師 "wikilink")。首批版本附送一個蘇慧倫在[美國拍攝的](https://zh.wikipedia.org/wiki/美國 "wikilink")36頁寫真集《她事窗》及服裝優惠券。
 
 ## 曲目
 

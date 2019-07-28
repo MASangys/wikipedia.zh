@@ -1,5 +1,5 @@
 **Perfect Dark**，全稱為**Perfect Dark～The Next Generation
-P2P～**，是一款[日本的](../Page/日本.md "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，簡稱為**PD**。此軟件與[Share](../Page/Share.md "wikilink")、[Winny的性質相同](../Page/Winny.md "wikilink")，是私人開發的免費P2P軟件，現有[日文版](https://zh.wikipedia.org/wiki/日文 "wikilink")、[中文版及](https://zh.wikipedia.org/wiki/中文 "wikilink")[英文版](https://zh.wikipedia.org/wiki/英文 "wikilink")。
+P2P～**，是一款[日本](../Page/日本.md "wikilink")的[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，簡稱為**PD**。此軟件與[Share](../Page/Share.md "wikilink")、[Winny](../Page/Winny.md "wikilink")的性質相同，是私人開發的免費P2P軟件，現有[日文版](https://zh.wikipedia.org/wiki/日文 "wikilink")、[中文版及](https://zh.wikipedia.org/wiki/中文 "wikilink")[英文版](https://zh.wikipedia.org/wiki/英文 "wikilink")。
 
 ## 概要
 

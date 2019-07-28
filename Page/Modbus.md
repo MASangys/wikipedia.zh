@@ -1,7 +1,7 @@
 **Modbus**是一种串行[通信协议](https://zh.wikipedia.org/wiki/通信协议 "wikilink")，是Modicon公司（现在的[施耐德电气](../Page/施耐德电气.md "wikilink")
 Schneider
-Electric）于1979年为使用[可编程逻辑控制器](../Page/可编程逻辑控制器.md "wikilink")（PLC）通信而发表。Modbus已经成为工业领域通信协议的[業界標準](https://zh.wikipedia.org/wiki/De_facto "wikilink")（De
-facto），并且现在是工业电子设备之间常用的连接方式。\[1\] Modbus比其他通信协议使用的更广泛的主要原因有：
+Electric）于1979年为使用[可编程逻辑控制器](../Page/可编程逻辑控制器.md "wikilink")（PLC）通信而发表。Modbus已经成为工业领域通信协议[事实上的](https://zh.wikipedia.org/wiki/De_facto "wikilink")[業界標準](https://zh.wikipedia.org/wiki/標準化 "wikilink")，并且现在是工业电子设备之间常用的连接方式。\[1\]
+Modbus比其他通信协议使用的更广泛的主要原因有：
 
 1.  公开发表并且无版权要求
 2.  易于部署和维护
@@ -12,9 +12,9 @@ Modbus允许多个 (大約240個)
 
 ## 协议版本
 
-Modbus协议目前存在用于[串口](https://zh.wikipedia.org/wiki/串口 "wikilink")、[以太网以及其他支持](../Page/以太网.md "wikilink")[互联网协议的网络的版本](https://zh.wikipedia.org/wiki/互联网协议 "wikilink")。
+Modbus协议目前存在用于[串口](https://zh.wikipedia.org/wiki/串口 "wikilink")、[以太网](../Page/以太网.md "wikilink")以及其他支持[互联网协议的网络的版本](https://zh.wikipedia.org/wiki/互联网协议 "wikilink")。
 
-大多数Modbus设备通信通过串口[EIA-485物理层进行](../Page/EIA-485.md "wikilink")\[2\]。
+大多数Modbus设备通信通过串口[EIA-485](../Page/EIA-485.md "wikilink")物理层进行\[2\]。
 
 对于串行连接，存在两个变种，它们在数值数据表示不同和协议细节上略有不同。Modbus RTU是一种紧凑的，采用二进制表示数据的方式，Modbus
 ASCII是一种人类可读的，冗长的表示方式。这两个变种都使用[串行通訊](https://zh.wikipedia.org/wiki/串行通訊 "wikilink")（serial
@@ -58,7 +58,7 @@ Modbus协议是一個master/slave架構的協議。有一個節點是master節�
 
 ## 限制
 
-  - Modbus是在1970年末为[可编程逻辑控制器通信开发的](../Page/可编程逻辑控制器.md "wikilink")，这些有限的数据类型在那个时代是可以被PLC理解的，大型二进制对象数据是不支持的。
+  - Modbus是在1970年末为[可编程逻辑控制器](../Page/可编程逻辑控制器.md "wikilink")通信开发的，这些有限的数据类型在那个时代是可以被PLC理解的，大型二进制对象数据是不支持的。
 
 <!-- end list -->
 

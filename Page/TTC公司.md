@@ -2,18 +2,18 @@
 [The_Great._Courses_Plus_-_App_Screen_Shot.jpg](https://zh.wikipedia.org/wiki/File:The_Great._Courses_Plus_-_App_Screen_Shot.jpg "fig:The_Great._Courses_Plus_-_App_Screen_Shot.jpg")
 
 **The Teaching Company**
-是一家製造全美國頂級教授演講錄音及錄影的公司。這些教授在華盛頓特區外的一家特別的工作室錄製這些課程，然後課程被轉製成[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")、[CD](../Page/CD.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MP3等格式出售](../Page/MP3.md "wikilink")。
+是一家製造全美國頂級教授演講錄音及錄影的公司。這些教授在華盛頓特區外的一家特別的工作室錄製這些課程，然後課程被轉製成[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")、[CD](../Page/CD.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MP3](../Page/MP3.md "wikilink")等格式出售。
 
 The Teaching Company公司由[Thomas M.
 Rollins先生創建於](https://zh.wikipedia.org/wiki/Thomas_M._Rollins "wikilink")1990年，[Thomas
 M.
 Rollins先生是美國前參議院委員會勞工及人力資源首席顧問](https://zh.wikipedia.org/wiki/Thomas_M._Rollins "wikilink")，畢業于[哈佛大學法學院](https://zh.wikipedia.org/wiki/哈佛大學法學院 "wikilink")。他在學習過程中注意到，使用录像带學習很有效率。於是他開始嘗試發起一個政府項目，為公眾製作磁帶，但是由於法律的限制而無法實踐。當他離任時，他抱著這個想法而開始搜尋頂級教授來製作課程，並且銷售給公眾。
 
-截至2007年，這家公司共提供了超過260門課程，內容總時長達3000小時，跨越9門不同學科，分別是：[商業學和](https://zh.wikipedia.org/wiki/商業學 "wikilink")[經濟學](https://zh.wikipedia.org/wiki/經濟學 "wikilink")、[藝術和](https://zh.wikipedia.org/wiki/藝術 "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[古代史和](../Page/古代史.md "wikilink")[中世紀史](https://zh.wikipedia.org/wiki/中世紀史 "wikilink")、[近代史](../Page/近代史.md "wikilink")、[文學和](../Page/文學.md "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[哲學和](https://zh.wikipedia.org/wiki/哲學 "wikilink")[思想史](https://zh.wikipedia.org/wiki/思想史 "wikilink")、[宗教](../Page/宗教.md "wikilink")、[科學和](https://zh.wikipedia.org/wiki/科學 "wikilink")[數學以及](https://zh.wikipedia.org/wiki/數學 "wikilink")[社會科學](https://zh.wikipedia.org/wiki/社會科學 "wikilink")。
+截至2007年，這家公司共提供了超過260門課程，內容總時長達3000小時，跨越9門不同學科，分別是：[商業學和](https://zh.wikipedia.org/wiki/商業學 "wikilink")[經濟學](https://zh.wikipedia.org/wiki/經濟學 "wikilink")、[藝術和](https://zh.wikipedia.org/wiki/藝術 "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[古代史](../Page/古代史.md "wikilink")和[中世紀史](https://zh.wikipedia.org/wiki/中世紀史 "wikilink")、[近代史](../Page/近代史.md "wikilink")、[文學](../Page/文學.md "wikilink")和[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[哲學和](https://zh.wikipedia.org/wiki/哲學 "wikilink")[思想史](https://zh.wikipedia.org/wiki/思想史 "wikilink")、[宗教](../Page/宗教.md "wikilink")、[科學和](https://zh.wikipedia.org/wiki/科學 "wikilink")[數學以及](https://zh.wikipedia.org/wiki/數學 "wikilink")[社會科學](https://zh.wikipedia.org/wiki/社會科學 "wikilink")。
 
 課程的目標是提供成人教育和終身教育，大學本科非專業的典型知識的教育；不僅如此，他還有一系列為高中生提供的課程。每一門課程都包括一些印有大綱、推薦書目、教授簡介以及思考問題的補充小冊子。此外，課程還提供全文的文本。
 
-課程有多種不同的載體。起初，僅有磁帶或是[VHS錄像帶](../Page/VHS.md "wikilink")。後來，逐漸出現了[CD及](../Page/CD.md "wikilink")[DVD版本](https://zh.wikipedia.org/wiki/DVD "wikilink")，而現在也能下載到[MP3版本](../Page/MP3.md "wikilink")。
+課程有多種不同的載體。起初，僅有磁帶或是[VHS](../Page/VHS.md "wikilink")錄像帶。後來，逐漸出現了[CD](../Page/CD.md "wikilink")及[DVD版本](https://zh.wikipedia.org/wiki/DVD "wikilink")，而現在也能下載到[MP3](../Page/MP3.md "wikilink")版本。
 
 2006年10月2日，這家公司被一家私募股權投資公司[Brentwood
 Associates收購](https://zh.wikipedia.org/wiki/Brentwood_Associates "wikilink")。

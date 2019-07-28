@@ -4,7 +4,7 @@ Messenger
 Service与朋友聊天](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")，不论是使用[Windows
 Live Messenger或](../Page/Windows_Live_Messenger.md "wikilink")[Microsoft
 Messenger for
-Mac版本](../Page/Microsoft_Messenger_for_Mac.md "wikilink")。KMess的能力是其融入[KDE桌面环境](../Page/KDE.md "wikilink")，把重点放在Windows
+Mac版本](../Page/Microsoft_Messenger_for_Mac.md "wikilink")。KMess的能力是其融入[KDE](../Page/KDE.md "wikilink")桌面环境，把重点放在Windows
 Live Messenger的具体功能和易於使用的界面。
 
 和许多Linux和KDE的应用程序一样，

@@ -1,13 +1,13 @@
 [ODE_buggy.png](https://zh.wikipedia.org/wiki/File:ODE_buggy.png "fig:ODE_buggy.png")
 [ODE_crash.png](https://zh.wikipedia.org/wiki/File:ODE_crash.png "fig:ODE_crash.png")
 **Open Dynamics
-Engine（ODE）**是一个[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")，包含两部分：一个[刚体动力学模拟引擎和一个](https://zh.wikipedia.org/wiki/刚体动力学 "wikilink")[碰撞检测引擎](../Page/碰撞偵測.md "wikilink")。授权协议是[BSD许可证以及](../Page/BSD许可证.md "wikilink")[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")。
+Engine（ODE）**是一个[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")，包含两部分：一个[刚体动力学模拟引擎和一个](https://zh.wikipedia.org/wiki/刚体动力学 "wikilink")[碰撞检测引擎](../Page/碰撞偵測.md "wikilink")。授权协议是[BSD许可证](../Page/BSD许可证.md "wikilink")以及[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")。
 
 ODE开始于2001年用在[BloodRayne
 2](https://zh.wikipedia.org/wiki/BloodRayne_2 "wikilink")，[Call of
 Juarez](https://zh.wikipedia.org/wiki/Call_of_Juarez "wikilink")，[S.T.A.L.K.E.R](https://zh.wikipedia.org/wiki/S.T.A.L.K.E.R "wikilink")，[World
 of
-Goo](https://zh.wikipedia.org/wiki/World_of_Goo "wikilink")，[X-Moto和](../Page/X-Moto.md "wikilink")[OpenSimulator](https://zh.wikipedia.org/wiki/OpenSimulator "wikilink")（一个开源[Second
+Goo](https://zh.wikipedia.org/wiki/World_of_Goo "wikilink")，[X-Moto](../Page/X-Moto.md "wikilink")和[OpenSimulator](https://zh.wikipedia.org/wiki/OpenSimulator "wikilink")（一个开源[Second
 Life模拟器](https://zh.wikipedia.org/wiki/Second_Life "wikilink")）。
 
 ## 用途

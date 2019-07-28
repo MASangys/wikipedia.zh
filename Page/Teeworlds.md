@@ -1,10 +1,10 @@
-**Teeworlds**是一个快节奏横向卷轴[多人](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。具有卡通化的画面和物理引擎、来自经典游戏的武器系统，操控受到[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")、动作游戏特别是[雷神之锤系列启发](../Page/雷神之锤系列.md "wikilink")。0.4.0开始名字从
+**Teeworlds**是一个快节奏横向卷轴[多人](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。具有卡通化的画面和物理引擎、来自经典游戏的武器系统，操控受到[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")、动作游戏特别是[雷神之锤系列](../Page/雷神之锤系列.md "wikilink")启发。0.4.0开始名字从
 **Teewars** 改为 **Teeworlds**，开发者引用了严重的法律问题。\[1\]
 
 支持[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。2007年12月，源代码被[Linux众多发行版中的](../Page/Linux.md "wikilink")[Debian认可并开源协议放出](../Page/Debian.md "wikilink")。产生了大量[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。2007年12月，源代码被[Linux](../Page/Linux.md "wikilink")众多发行版中的[Debian](../Page/Debian.md "wikilink")认可并开源协议放出。产生了大量[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")。
 
 ## 游戏
 

@@ -4,21 +4,21 @@ Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
 [GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 Xtreme是用户最多的eMule
-Mods之一。截止2009年9月，在[SourceForge上](../Page/SourceForge.md "wikilink")，Xtreme是下载数最多的[eMule
+Mods之一。截止2009年9月，在[SourceForge](../Page/SourceForge.md "wikilink")上，Xtreme是下载数最多的[eMule
 Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")\[1\]，它也是较权威的eMule
 Mods发布站点emule-mods.de上评分最高的eMule Mod\[2\]。
 
 ## 历史
 
 eMule Xtreme
-Mod大约于2004年开始开发，其原作者是[德国的](../Page/德国.md "wikilink")[程序员Xman](../Page/程序员.md "wikilink")。
+Mod大约于2004年开始开发，其原作者是[德国](../Page/德国.md "wikilink")的[程序员](../Page/程序员.md "wikilink")Xman。
 
   - 2005年1月，Xman于SourceForge上建立了项目并发布了Xtreme 2.1。
 
 <!-- end list -->
 
   - 2005年9月27日，刚发布的Xtreme
-    4.5中加入了[DLP（动态反吸血驴保护）功能](../Page/动态反吸血驴保护.md "wikilink")，其中带有可持续更新的DLP库，用以鉴别出[吸血驴并对其做减分或屏蔽处理](../Page/吸血驴.md "wikilink")，其中DLP后来陆续被其他一些Mods所使用。
+    4.5中加入了[DLP（动态反吸血驴保护）功能](../Page/动态反吸血驴保护.md "wikilink")，其中带有可持续更新的DLP库，用以鉴别出[吸血驴](../Page/吸血驴.md "wikilink")并对其做减分或屏蔽处理，其中DLP后来陆续被其他一些Mods所使用。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@ Mod大约于2004年开始开发，其原作者是[德国的](../Page/德国.md "
 eMule Xtreme Mod的主要功能，除了官方eMule所有的功能外还有：
 
   - 使用Maella带宽控制系统，准确计算额外开销。
-  - 使用NAFC系统，更适合[ADSL用户使用](../Page/ADSL.md "wikilink")。
+  - 使用NAFC系统，更适合[ADSL](../Page/ADSL.md "wikilink")用户使用。
   - 使用Xtreme下载管理系统，使来源处理智能化。
   - 使用Xtreme积分系统。
   - 支持强力分享（）和动态隐藏文件块功能，提高文件发布的速度。

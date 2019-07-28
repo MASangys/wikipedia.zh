@@ -1,6 +1,6 @@
-是2009年9月3日由[科樂美數位娛樂在日本發售的](../Page/科樂美數位娛樂.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")。廣告標語為「」
+是2009年9月3日由[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")在日本發售的[任天堂DS](../Page/任天堂DS.md "wikilink")平台[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")。廣告標語為「」
 
-2010年6月24日在日本發售續作《**LovePlus+**》，廣告標語為「」（日本全國LOVEPLUS現象（祭典））；而[任天堂3DS版](../Page/任天堂3DS.md "wikilink")《[New
+2010年6月24日在日本發售續作《**LovePlus+**》，廣告標語為「」（日本全國LOVEPLUS現象（祭典））；而[任天堂3DS](../Page/任天堂3DS.md "wikilink")版《[New
 LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人節在日本上市](https://zh.wikipedia.org/wiki/西洋情人節 "wikilink")。
 
 ## 玩法
@@ -28,14 +28,14 @@ LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人
 <!-- end list -->
 
   -
-    [丹下櫻正式復出聲優的首部作品與角色](../Page/丹下櫻.md "wikilink")\[2\]。其本身非常喜愛該角色，在部落格上也有刊載過親筆畫的凜子圖。並且闡明自己在作品中和凜子交往。
+    [丹下櫻](../Page/丹下櫻.md "wikilink")正式復出聲優的首部作品與角色\[2\]。其本身非常喜愛該角色，在部落格上也有刊載過親筆畫的凜子圖。並且闡明自己在作品中和凜子交往。
     喜愛吃薯片。學級低主人公一年，但在圖書委員會中則是前輩的身份。
 
 <!-- end list -->
 
   -
     開發初期時本來設定為大學生，後來改為高中3年級學生，因此會化淡妝。右眼有哭[痣](https://zh.wikipedia.org/wiki/痣 "wikilink")。
-    喜歡喉糖。有點[天然呆的性格](../Page/天然呆.md "wikilink")，甚至會想要給餓肚子的動物喉糖吃。愛看[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")，會特意看好幾遍。
+    喜歡喉糖。有點[天然呆](../Page/天然呆.md "wikilink")的性格，甚至會想要給餓肚子的動物喉糖吃。愛看[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")，會特意看好幾遍。
 
 <!-- end list -->
 
@@ -54,11 +54,11 @@ LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人
 
 ## 迴響與演進
 
-2009年9月3日《LOVEPLUS》發售日當天，「」成為[mixi日記的熱門](../Page/Mixi.md "wikilink")[關鍵字第一名](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")\[9\]。遊戲作家所寫的熱情遊戲報告與製作人員訪談，2篇合計共在[4Gamer.net的](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")「」得到將近230顆星（★，推薦指數）\[10\]。比起科樂美的[促銷活動](https://zh.wikipedia.org/wiki/促銷活動 "wikilink")\[11\]\[12\]，由實際遊戲經驗者所寫評論或[網誌上的迴響效果更大](../Page/網誌.md "wikilink")。2009年9月4日，在[讀賣新聞社的問答網站](https://zh.wikipedia.org/wiki/讀賣新聞社 "wikilink")《發言小町》出現[家庭主婦提問](../Page/家庭主婦.md "wikilink")，因為[丈夫熱中於新發售的戀愛遊戲而煩惱](../Page/丈夫.md "wikilink")；其著迷程度甚至於上廁所時不忘帶著，就寢時也放在枕頭下一同入眠，影響到現實的[夫妻關係](../Page/夫妻.md "wikilink")\[13\]。9月10日《[產經新聞](../Page/產經新聞.md "wikilink")》在報紙上刊登報導，並被多家媒體大幅介紹\[14\]\[15\]。女主角之一的高嶺愛花登上電視情報雜誌《[TVBros.](https://zh.wikipedia.org/wiki/TVBros. "wikilink")》2009年10月3日號的封面\[16\]。
+2009年9月3日《LOVEPLUS》發售日當天，「」成為[mixi日記的熱門](../Page/Mixi.md "wikilink")[關鍵字第一名](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")\[9\]。遊戲作家所寫的熱情遊戲報告與製作人員訪談，2篇合計共在[4Gamer.net的](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")「」得到將近230顆星（★，推薦指數）\[10\]。比起科樂美的[促銷活動](https://zh.wikipedia.org/wiki/促銷活動 "wikilink")\[11\]\[12\]，由實際遊戲經驗者所寫評論或[網誌](../Page/網誌.md "wikilink")上的迴響效果更大。2009年9月4日，在[讀賣新聞社的問答網站](https://zh.wikipedia.org/wiki/讀賣新聞社 "wikilink")《發言小町》出現[家庭主婦](../Page/家庭主婦.md "wikilink")提問，因為[丈夫](../Page/丈夫.md "wikilink")熱中於新發售的戀愛遊戲而煩惱；其著迷程度甚至於上廁所時不忘帶著，就寢時也放在枕頭下一同入眠，影響到現實的[夫妻](../Page/夫妻.md "wikilink")關係\[13\]。9月10日《[產經新聞](../Page/產經新聞.md "wikilink")》在報紙上刊登報導，並被多家媒體大幅介紹\[14\]\[15\]。女主角之一的高嶺愛花登上電視情報雜誌《[TVBros.](https://zh.wikipedia.org/wiki/TVBros. "wikilink")》2009年10月3日號的封面\[16\]。
 
 由於《LOVEPLUS》獨特的遊戲系統，發售前觀望的玩家居多；和同時期的《[美夢俱樂部](https://zh.wikipedia.org/wiki/美夢俱樂部 "wikilink")》（Dream
 C
-Club）相較下，並未受到太大關心。然而《LOVEPLUS》發售後玩家的讚賞不斷，以及各家媒體報導，使得多家店鋪出現缺貨情況，造成網路拍賣價格一時飆漲。而科樂美在「[東京電玩展](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")2009」期間免費派發的促銷用情書，在日本[Yahoo\!拍賣以高價競標](../Page/Yahoo!拍賣.md "wikilink")，其中3人各3種的完整9張套組得標價更高達7萬5千日幣\[17\]。熱衷於《LOVEPLUS》的人，可能會出現「LOVEPLUS症候群」：經常對DS回話、縮短臉部和DS螢幕的距離、不自覺地在意時間、擔心DS主機沒電，甚者在公開場所和DS主機對話等等\[18\]。
+Club）相較下，並未受到太大關心。然而《LOVEPLUS》發售後玩家的讚賞不斷，以及各家媒體報導，使得多家店鋪出現缺貨情況，造成網路拍賣價格一時飆漲。而科樂美在「[東京電玩展](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")2009」期間免費派發的促銷用情書，在日本[Yahoo\!拍賣](../Page/Yahoo!拍賣.md "wikilink")以高價競標，其中3人各3種的完整9張套組得標價更高達7萬5千日幣\[17\]。熱衷於《LOVEPLUS》的人，可能會出現「LOVEPLUS症候群」：經常對DS回話、縮短臉部和DS螢幕的距離、不自覺地在意時間、擔心DS主機沒電，甚者在公開場所和DS主機對話等等\[18\]。
 
 2010年1月9日，《LOVEPLUS》獲得大獎\[19\]。截至2010年2月10日，遊戲共在日本售出21萬套\[20\]。2010年4月5日，《LOVEPLUS》在[App
 Store增加](https://zh.wikipedia.org/wiki/App_Store "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")/[iPod
@@ -66,7 +66,7 @@ touch用的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[流動應用�
 i』（****），功能包括觸碰畫面會回應現在時間或講話的「通信功能」、拍攝下專用的AR
 marker後將可在畫面中的現實景色裡呈現女主角身影之「[AR拍攝功能](../Page/擴增實境.md "wikilink")」、記載行程的「月曆功能」，並將以升級的方式增加新功能\[21\]。
 
-2010年7月，《LOVEPLUS+》上市，新增了與遊戲角色到[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市旅行並投宿](../Page/熱海市.md "wikilink")[溫泉旅館的片段](https://zh.wikipedia.org/wiki/溫泉旅館 "wikilink")；有遊戲玩家因此親自前往熱海市[聖地巡禮](https://zh.wikipedia.org/wiki/聖地巡禮 "wikilink")，並住進遊戲中出現的溫泉旅館「大野屋」\[22\]。
+2010年7月，《LOVEPLUS+》上市，新增了與遊戲角色到[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市](../Page/熱海市.md "wikilink")旅行並投宿[溫泉旅館的片段](https://zh.wikipedia.org/wiki/溫泉旅館 "wikilink")；有遊戲玩家因此親自前往熱海市[聖地巡禮](https://zh.wikipedia.org/wiki/聖地巡禮 "wikilink")，並住進遊戲中出現的溫泉旅館「大野屋」\[22\]。
 
 ## 其他媒體
 

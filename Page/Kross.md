@@ -1,9 +1,9 @@
 **Kross** 是[KDE
-4新的腳本框架](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")。原先Kross是設計用於[KOffice但最終成為KDE](../Page/KOffice.md "wikilink")
+4新的腳本框架](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")。原先Kross是設計用於[KOffice](../Page/KOffice.md "wikilink")但最終成為KDE
 4的正式腳本框架。Kross旨在提供KDE充分的腳本能力給應用程序用戶自己選擇的語言
 ;和方便開發人員能夠針對KDE的平台，使它們的應用程序支持多種腳本語言（本身不需要精通任何腳本語言）。
 
-Kross腳本框架並不是[腳本語言本身](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")。它只不過提供KDE嵌入服務以支持其他現有的腳本語言。目前支持：[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[JavaScript和](../Page/JavaScript.md "wikilink")[Falcon编程语言](https://zh.wikipedia.org/wiki/Falcon编程语言 "wikilink")。
+Kross腳本框架並不是[腳本語言本身](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")。它只不過提供KDE嵌入服務以支持其他現有的腳本語言。目前支持：[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")和[Falcon编程语言](https://zh.wikipedia.org/wiki/Falcon编程语言 "wikilink")。
 
 Kross提供下列優於其他的方法以使腳本用於桌面應用程序或桌面環境：
 

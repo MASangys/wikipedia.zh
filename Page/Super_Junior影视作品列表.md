@@ -469,7 +469,7 @@ Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
-<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗4</a></p></td>
+<td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a>4</p></td>
 <td><p><a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
 <td><p>韓時宇</p></td>
 <td><p>第二男主角</p></td>
@@ -602,14 +602,14 @@ Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括�
 | 上映日期        | 電影名稱                                                                            | 參演成員                                                                                                   | 角色       | 性質    |
 | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------- | ----- |
 | 2006年11月23日 | [墨攻](../Page/墨攻_\(電影\).md "wikilink")                                           | [始源](https://zh.wikipedia.org/wiki/始源 "wikilink")                                                      | 梁适       | 配角    |
-| 2007年7月26日  | [花美男连锁恐怖事件](../Page/花美男连锁恐怖事件.md "wikilink")                                    | 全部成員*（[圭賢除外](../Page/圭賢.md "wikilink")）*                                                               | （沒有分類）   |       |
+| 2007年7月26日  | [花美男连锁恐怖事件](../Page/花美男连锁恐怖事件.md "wikilink")                                    | 全部成員*（[圭賢](../Page/圭賢.md "wikilink")除外）*                                                               | （沒有分類）   |       |
 | 2008年11月27日 | 纯情漫画                                                                            | [強仁](../Page/強仁.md "wikilink")                                                                         | 康淑       | 第二男主角 |
 | 2010年1月21日  | 注文津                                                                             | [起範](../Page/起範.md "wikilink")                                                                         | 幽灵       | 男主角   |
-| 2011年2月24日  | [Super Show 3](../Page/Super_Show_3.md "wikilink")﹣SJ演唱會3D電影                    | 全部成員*（[強仁](../Page/強仁.md "wikilink")、[起範除外](../Page/起範.md "wikilink")）*                                | （沒有分類）   |       |
-| 2012年6月21日  | [I AM. - SM家族青春傳記電影](../Page/I_AM._-_SM家族青春傳記電影.md "wikilink")                  | 全部成員*（[希澈](../Page/希澈.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[起範除外](../Page/起範.md "wikilink")）* |          |       |
+| 2011年2月24日  | [Super Show 3](../Page/Super_Show_3.md "wikilink")﹣SJ演唱會3D電影                    | 全部成員*（[強仁](../Page/強仁.md "wikilink")、[起範](../Page/起範.md "wikilink")除外）*                                | （沒有分類）   |       |
+| 2012年6月21日  | [I AM. - SM家族青春傳記電影](../Page/I_AM._-_SM家族青春傳記電影.md "wikilink")                  | 全部成員*（[希澈](../Page/希澈.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[起範](../Page/起範.md "wikilink")除外）* |          |       |
 | 2012年6月7日   | 雅典娜：無間諜局                                                                        | [始源](https://zh.wikipedia.org/wiki/始源 "wikilink")                                                      | 金俊浩      | 配角    |
-| 2012年10月11日 | [2010 SMTOWN Live世界巡迴演唱會東京場](../Page/2010_SMTOWN_Live世界巡迴演唱會.md "wikilink")3D電影 | 全部成員*（[希澈](../Page/希澈.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[起範除外](../Page/起範.md "wikilink")）* | （沒有分類）   |       |
-| 2013年8月10日  | [Super Show 4](../Page/Super_Show_4.md "wikilink")﹣SJ演唱会3D電影                    | 全部成員*（[希澈](../Page/希澈.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[起範除外](../Page/起範.md "wikilink")）* |          |       |
+| 2012年10月11日 | [2010 SMTOWN Live世界巡迴演唱會東京場](../Page/2010_SMTOWN_Live世界巡迴演唱會.md "wikilink")3D電影 | 全部成員*（[希澈](../Page/希澈.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[起範](../Page/起範.md "wikilink")除外）* | （沒有分類）   |       |
+| 2013年8月10日  | [Super Show 4](../Page/Super_Show_4.md "wikilink")﹣SJ演唱会3D電影                    | 全部成員*（[希澈](../Page/希澈.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[起範](../Page/起範.md "wikilink")除外）* |          |       |
 | 2014年10月13日 | 騷動青春﹣傳聞                                                                         | [東海](../Page/東海_\(藝人\).md "wikilink")                                                                  | 鄭宇       | 男主角   |
 | 2015年1月15日  | 貓的葬禮                                                                            | [強仁](../Page/強仁.md "wikilink")                                                                         | 東勛       |       |
 | 2015年2月18日  | [天將雄獅](https://zh.wikipedia.org/wiki/天將雄獅 "wikilink")                           | [始源](https://zh.wikipedia.org/wiki/始源 "wikilink")                                                      | 殷破       | 配角    |
@@ -970,7 +970,7 @@ SMG頻道（中國）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年3月8日－4月5日</p></td>
-<td><p><a href="../Page/真正的男人.md" title="wikilink">真正的男人2</a></p></td>
+<td><p><a href="../Page/真正的男人.md" title="wikilink">真正的男人</a>2</p></td>
 <td><p><a href="../Page/強仁.md" title="wikilink">強仁</a></p></td>
 <td><p>5</p></td>
 <td></td>
@@ -1032,10 +1032,17 @@ SMG頻道（中國）</p></td>
 <td><p>12</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年3月17日－至今</p></td>
+<td><p>2019年3月17日－6月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="../Page/大逃脫_(第二季).md" title="wikilink">大逃出2</a></p></td>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月13日－至今</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TV朝鲜" title="wikilink">TV朝鲜</a></p></td>
+<td><p>社区专辑</p></td>
+<td><p><a href="../Page/厲旭.md" title="wikilink">厲旭</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1359,7 +1366,7 @@ SMG頻道（中國）</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年1月31日</p></td>
-<td><p><a href="../Page/人气歌谣.md" title="wikilink">人气歌谣温哥华特辑</a></p></td>
+<td><p><a href="../Page/人气歌谣.md" title="wikilink">人气歌谣</a>温哥华特辑</p></td>
 <td><p>利特、希澈、神童</p></td>
 <td></td>
 <td></td>
@@ -1825,7 +1832,7 @@ SMG頻道（中國）</p></td>
 <tr class="odd">
 <td><p>2015年5月11日</p></td>
 <td></td>
-<td><p><a href="../Page/寶兒.md" title="wikilink">寶兒专辑音乐感想会</a></p></td>
+<td><p><a href="../Page/寶兒.md" title="wikilink">寶兒</a>专辑音乐感想会</p></td>
 <td><p>银赫</p></td>
 <td></td>
 </tr>
@@ -1855,7 +1862,7 @@ SMG頻道（中國）</p></td>
 <td><p>Olive TV</p></td>
 <td><p>《MAPS》</p></td>
 <td><p>希澈</p></td>
-<td><p>與<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">Yuri</a>、<a href="../Page/崔江姬.md" title="wikilink">崔江姬共同主持</a></p></td>
+<td><p>與<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">Yuri</a>、<a href="../Page/崔江姬.md" title="wikilink">崔江姬</a>共同主持</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年7月19日－2015年10月25日</p></td>
@@ -2271,13 +2278,20 @@ SMG頻道（中國）</p></td>
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/素珍" title="wikilink">素珍</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>2018年10月19日-2018年12月21日</p></td>
+<td><p>KBS</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A_SONG_FOR_YOU为你歌唱" title="wikilink">A SONG FOR YOU为你歌唱</a></p></td>
+<td><p>厲旭</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2018年11月3日－2018年12月22日</p></td>
 <td><p>MBC</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Begin_a_game" title="wikilink">Begin a game</a></p></td>
 <td><p>希澈、神童</p></td>
 <td><p>金峻鉉、<a href="../Page/孔燦.md" title="wikilink">孔燦</a>、<a href="https://zh.wikipedia.org/wiki/祚炫" title="wikilink">祚炫</a>、<a href="https://zh.wikipedia.org/wiki/Guillaume" title="wikilink">Guillaume</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年5月3日－至今</p></td>
 <td><p>tvN</p></td>
 <td><p><a href="../Page/一場聲音的戰爭：300.md" title="wikilink">一場聲音的戰爭：300</a>（第二季）</p></td>

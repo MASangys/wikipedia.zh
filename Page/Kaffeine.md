@@ -1,5 +1,5 @@
-**Kaffeine**一個[KDE下的媒體播放器](../Page/KDE.md "wikilink")。\[1\]
-預設情況下它使用[xine媒體框架](https://zh.wikipedia.org/wiki/xine "wikilink")。它還支持使用[MPlayer項目的專有格式二進制編解碼器](../Page/MPlayer.md "wikilink")。Kaffeine開發者也提供了Mozilla
+**Kaffeine**一個[KDE](../Page/KDE.md "wikilink")下的媒體播放器。\[1\]
+預設情況下它使用[xine媒體框架](https://zh.wikipedia.org/wiki/xine "wikilink")。它還支持使用[MPlayer](../Page/MPlayer.md "wikilink")項目的專有格式二進制編解碼器。Kaffeine開發者也提供了Mozilla
 插件作為播放串流內容的網站。
 
 特點包括串流媒體、[DVB](../Page/DVB.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[Video

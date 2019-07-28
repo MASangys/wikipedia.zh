@@ -1,5 +1,5 @@
 《**機動新世紀GUNDAM X**》（、*After War Gundam
-X*）是1996年4月5日至12月27日，於[日本](../Page/日本.md "wikilink")[朝日電視台與朝日](../Page/朝日電視台.md "wikilink")[電視網部分地區的](https://zh.wikipedia.org/wiki/電視 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，全39話。
+X*）是1996年4月5日至12月27日，於[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")與朝日[電視網部分地區的](https://zh.wikipedia.org/wiki/電視 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，全39話。
 
 《**機動新世紀GUNDAM X**》與《[機動武鬥傳G
 GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》及《[新機動戰記GUNDAM
@@ -8,7 +8,7 @@ W](../Page/新機動戰記GUNDAM_W.md "wikilink")》常被並稱為「[平成三
 ## 故事簡介
 
 After
-War（A.W.）15年，舞台在[人類和](../Page/人類.md "wikilink")[地球受到毀滅性破壞的大戰](../Page/地球.md "wikilink")──第7次[宇宙戰爭後荒廢的地球](../Page/宇宙.md "wikilink")。
+War（A.W.）15年，舞台在[人類](../Page/人類.md "wikilink")和[地球](../Page/地球.md "wikilink")受到毀滅性破壞的大戰──第7次[宇宙](../Page/宇宙.md "wikilink")戰爭後荒廢的地球。
 
 由於戰爭成為孤兒的主角卡洛德以回收和奪取[機動戰士為生計](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。有一天受到委託，內容是希望奪回被綁架到自由號戰艦上的少女蒂琺。對蒂琺一見鍾情的卡洛德，因為蒂琺見到委託人時的膽怯模樣而帶著她一起逃走。
 

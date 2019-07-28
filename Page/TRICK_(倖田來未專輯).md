@@ -1,4 +1,4 @@
-《**TRICK**》（魔幻把戲）是[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../Page/倖田來未.md "wikilink")7張個人原創專輯，收錄《[MOON](../Page/MOON_\(倖田來未單曲\).md "wikilink")》、《[TABOO](../Page/TABOO.md "wikilink")（禁忌）》及《[stay
+《**TRICK**》（魔幻把戲）是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第7張個人原創專輯，收錄《[MOON](../Page/MOON_\(倖田來未單曲\).md "wikilink")》、《[TABOO](../Page/TABOO.md "wikilink")（禁忌）》及《[stay
 with
 me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")》，3張A面單曲。額外曲目「Venus」是翻唱歌曲，因為在吉列
 venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄為bonus曲目。
@@ -40,7 +40,7 @@ venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄�
 \*以HAPPY TRICK價格販售。
 
   - 收錄Bonus Track「Venus」，全15曲。
-  - 收錄[音樂錄影帶DVD](../Page/音樂錄影帶.md "wikilink")。
+  - 收錄[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")DVD。
   - 收錄「KODA KUMI SPECIAL LIVE "Dirty Ballroom"～one night show～」一夜限定演唱會。
 
 ### CD ONLY（HAPPY TRICK 預購版）
@@ -55,7 +55,7 @@ venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄�
 ※香港版CD+2DVD版本與CD+2DVD（HAPPY TRICK 預購版）相同。
 
   - 未收錄Bonus Track「Venus」，全14曲。
-  - 收錄[音樂錄影帶DVD](../Page/音樂錄影帶.md "wikilink")。
+  - 收錄[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")DVD。
   - 收錄「KODA KUMI SPECIAL LIVE "Dirty Ballroom"～one night show～」一夜限定演唱會。
 
 ### CD ONLY

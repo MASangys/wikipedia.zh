@@ -1,4 +1,4 @@
-《**MARS-戰神**》（MARS）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[惣領冬實所創作的](../Page/惣領冬實.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於漫畫雜誌《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》（講談社）1996年2月号到2000年12月號期間進行連載。外傳1話於同誌1999年9月號刊載。單行本全15卷，外傳《無名馬（）》全1卷、文庫版全8卷（包含外傳）。
+《**MARS-戰神**》（MARS）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[惣領冬實](../Page/惣領冬實.md "wikilink")所創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於漫畫雜誌《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》（講談社）1996年2月号到2000年12月號期間進行連載。外傳1話於同誌1999年9月號刊載。單行本全15卷，外傳《無名馬（）》全1卷、文庫版全8卷（包含外傳）。
 
 及根據同名漫畫改編的電視劇。
 
@@ -421,6 +421,17 @@
 ## 電影版
 
 於2016年2月15日由公佈原班人馬以漫畫的最終章為內容開拍電影版，並預定於同年6月18日公映\[1\]。
+
+### 演員
+
+  - 樫野零 - [藤谷太輔](../Page/藤谷太輔.md "wikilink")（Kis-My-Ft2）
+  - 桐島牧生 - [窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")
+  - 麻生キラ - [飯豐萬理江](../Page/飯豐萬理江.md "wikilink")
+  - 杉原晴美 - [山崎紘菜](../Page/山崎紘菜.md "wikilink")
+  - 木田達也 - [稲葉友](https://zh.wikipedia.org/wiki/稲葉友 "wikilink")
+  - 樫野聖 - [前田公輝](../Page/前田公輝.md "wikilink")
+  - 桜沢しおり - [福原遥](https://zh.wikipedia.org/wiki/福原遥 "wikilink")
+  - 中嶋宏美 - [足立梨花](../Page/足立梨花.md "wikilink")
 
 ### 工作人員
 

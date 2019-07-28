@@ -10,10 +10,10 @@ EGG中選出四名成員組成](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wi
 
 2011年8月14日加入準成員五人。
 
-一期成員[小川紗季因為學業進修而畢業](../Page/小川紗季.md "wikilink")。
+一期成員[小川紗季](../Page/小川紗季.md "wikilink")因為學業進修而畢業。
 
 準成員[小數賀芙由香因貧血問題身體不適](https://zh.wikipedia.org/wiki/小數賀芙由香 "wikilink")，未成為正式成員前就宣佈退出，痊癒後進入[Hello\!
-Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")，而其餘四人全部升格，其後[前田憂佳因為學業進修而畢業](../Page/前田憂佳.md "wikilink")。
+Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")，而其餘四人全部升格，其後[前田憂佳](../Page/前田憂佳.md "wikilink")因為學業進修而畢業。
 
 2015年1月1日起改名為由成員中西香菜提出的**ANGERME**（****）。
 
@@ -187,6 +187,19 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/橋迫鈴" title="wikilink">橋迫鈴</a></p></td>
+<td><p>はしさこ りん</p></td>
+<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>O</p></td>
+<td></td>
+<td><p>八期</p></td>
+<td><p><strong>純紅色</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -338,7 +351,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p>三期</p></td>
 <td><p>2017年12月31日</p></td>
 <td><p><strong>綠</strong></p></td>
-<td><p>2017年1月11日起因<a href="../Page/恐慌症.md" title="wikilink">恐慌症暫時停止活動</a>。</p></td>
+<td><p>2017年1月11日起因<a href="../Page/恐慌症.md" title="wikilink">恐慌症</a>暫時停止活動。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -381,10 +394,10 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 ### 2009
 
   - 4月4日，「2009 ハロー\!プロジェクト新人公演4月
-    ～横浜HOP\!～」中發表[和田彩花](../Page/和田彩花.md "wikilink")、[前田憂佳](../Page/前田憂佳.md "wikilink")、[福田花音](../Page/福田花音.md "wikilink")、[小川紗季將組成新團體](../Page/小川紗季.md "wikilink")。
-  - 5月8日，製作人[淳君於部落格中發表了新團體的名稱為](../Page/淳君.md "wikilink")“S/mileage”\[2\]。
+    ～横浜HOP\!～」中發表[和田彩花](../Page/和田彩花.md "wikilink")、[前田憂佳](../Page/前田憂佳.md "wikilink")、[福田花音](../Page/福田花音.md "wikilink")、[小川紗季](../Page/小川紗季.md "wikilink")將組成新團體。
+  - 5月8日，製作人[淳君](../Page/淳君.md "wikilink")於部落格中發表了新團體的名稱為“S/mileage”\[2\]。
   - 6月7日，「2009 ハロー\!プロジェクト新人公演6月 ～中野STEP\!～」的會場販賣獨立製作出道單曲「ぁまのじゃく」。
-  - 8月26日，和田、前田、褔田三人從[守護甜心EGG\!中畢業](../Page/守護甜心EGG!.md "wikilink")。
+  - 8月26日，和田、前田、褔田三人從[守護甜心EGG\!](../Page/守護甜心EGG!.md "wikilink")中畢業。
   - 9月23日，「2009ハロー！プロジェクト新人公演9月～横浜JUMP\!～」的會場販賣第二張獨立製作單曲「あすはデートなのに、今すぐ声が聞きたい」。
   - 11月23日，「2009ハロー！プロジェクト新人公演11月～横浜FIRE\!～」的會場販賣第三張獨立製作單曲「スキちゃん」。發表將於明年春天從[Hello\!
     pro
@@ -395,43 +408,43 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
   - 2月26日，開設官方網站\[3\]及官方 Twitter 帳戶。
   - 2月28日，以嘉賓身份參加2010年LIVE 2月。
-  - 2月28日，製作人[淳君決定](../Page/淳君.md "wikilink")，從2月28日～3月25日，必須收集到10000張笑容的照片，作為出道條件\[4\]。
+  - 2月28日，製作人[淳君](../Page/淳君.md "wikilink")決定，從2月28日～3月25日，必須收集到10000張笑容的照片，作為出道條件\[4\]。
   - 3月14日，「スペシャルジョイント2010春
     〜感謝満開！真野恵里菜2周年突入＆S/mileageメジャーデビューへ桜咲け！ライブ〜」的會場販賣第四張獨立製作單曲「オトナになるって難しい！！！」。
   - 3月27日，「ハロー！プロジェクト新人公演3月～横浜GOLD\!～」中從[Hello\! Project
     Egg卒業](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")。
   - 5月26日，發行出道單曲《[做夢的 15歲](../Page/做夢的_15歲.md "wikilink")》。
   - 5月30日，於[MUSIC
-    JAPAN出演](../Page/MUSIC_JAPAN.md "wikilink")，同場還有師姐[早安少女組。另有](../Page/早安少女組。.md "wikilink")[AKB48等多個組合](../Page/AKB48.md "wikilink")。
-  - 8月30～31日，於[澀谷C](../Page/澀谷.md "wikilink").C.Lemon Hall出演「[Idol Unit
+    JAPAN出演](../Page/MUSIC_JAPAN.md "wikilink")，同場還有師姐[早安少女組。](../Page/早安少女組。.md "wikilink")另有[AKB48](../Page/AKB48.md "wikilink")等多個組合。
+  - 8月30～31日，於[澀谷](../Page/澀谷.md "wikilink")C.C.Lemon Hall出演「[Idol Unit
     Summer Festival
     2010](https://zh.wikipedia.org/wiki/Idol_Unit_Summer_Festival_2010 "wikilink")」。\[5\]
   - 12月30日，獲得第52屆日本唱片大賞最優秀新人賞\[6\]。
 
 ### 2011
 
-  - 5月29日，由製作人[淳君宣佈舉辦新成員甄選](../Page/淳君.md "wikilink")\[7\]。
-  - 7月，進入合宿階段的參賽者：[竹内朱莉](../Page/竹内朱莉.md "wikilink")、[勝田里奈](https://zh.wikipedia.org/wiki/勝田里奈 "wikilink")、[宮本佳林](../Page/宮本佳林.md "wikilink")、[小田櫻](../Page/小田櫻.md "wikilink")、[小數賀芙由香](https://zh.wikipedia.org/wiki/小數賀芙由香 "wikilink")、[田村芽實](../Page/田村芽實.md "wikilink")、[青柳櫻佳](https://zh.wikipedia.org/wiki/青柳櫻佳 "wikilink")、[山賀香菜惠](https://zh.wikipedia.org/wiki/山賀香菜惠 "wikilink")、[中西香菜](../Page/中西香菜.md "wikilink")、[藤井梨央](https://zh.wikipedia.org/wiki/藤井梨央 "wikilink")、[宮崎由加和](../Page/宮崎由加.md "wikilink")[張多然](https://zh.wikipedia.org/wiki/張多然 "wikilink")12位。
+  - 5月29日，由製作人[淳君](../Page/淳君.md "wikilink")宣佈舉辦新成員甄選\[7\]。
+  - 7月，進入合宿階段的參賽者：[竹内朱莉](../Page/竹内朱莉.md "wikilink")、[勝田里奈](https://zh.wikipedia.org/wiki/勝田里奈 "wikilink")、[宮本佳林](../Page/宮本佳林.md "wikilink")、[小田櫻](../Page/小田櫻.md "wikilink")、[小數賀芙由香](https://zh.wikipedia.org/wiki/小數賀芙由香 "wikilink")、[田村芽實](../Page/田村芽實.md "wikilink")、[青柳櫻佳](https://zh.wikipedia.org/wiki/青柳櫻佳 "wikilink")、[山賀香菜惠](https://zh.wikipedia.org/wiki/山賀香菜惠 "wikilink")、[中西香菜](../Page/中西香菜.md "wikilink")、[藤井梨央](https://zh.wikipedia.org/wiki/藤井梨央 "wikilink")、[宮崎由加](../Page/宮崎由加.md "wikilink")和[張多然](https://zh.wikipedia.org/wiki/張多然 "wikilink")12位。
   - 8月3日，發行初代四名成員最後一張單曲，第六單《[有頂天LOVE](../Page/有頂天LOVE.md "wikilink")》。
   - 8月14日，發表中西香菜、小數賀芙由香、竹内朱莉、勝田里奈、田村芽實以準成員身分加入。
-  - 8月24日，宣佈成員[小川紗季將在](../Page/小川紗季.md "wikilink")8月27日於名古屋東別院HALL舉辦的『有頂天LOVE』演唱會活動後，從S/mileage以及早安家族畢業。
-  - 8月27日，[小川紗季正式畢業](../Page/小川紗季.md "wikilink")，退出藝能界。
+  - 8月24日，宣佈成員[小川紗季](../Page/小川紗季.md "wikilink")將在8月27日於名古屋東別院HALL舉辦的『有頂天LOVE』演唱會活動後，從S/mileage以及早安家族畢業。
+  - 8月27日，[小川紗季](../Page/小川紗季.md "wikilink")正式畢業，退出藝能界。
   - 9月9日，準成員[小数賀芙由香因](https://zh.wikipedia.org/wiki/小数賀芙由香 "wikilink")「重度貧血」，必須避免劇烈運動並進行數個月的治療，宣佈退出[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")。治療回復後，將以[Hello\!
     Project
     Egg的身分重新開始](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")。
   - 9月15日，開設四位準成員的『Ameba』部落格\[8\]。
   - 9月28日，發行準成員加入後的第一張單曲，第七單《[站起來女孩](../Page/站起來女孩.md "wikilink")》。
   - 10月16日，四位準成員中西香菜、竹内朱莉、勝田里奈、田村芽實升格為正式成員\[9\]。
-  - 10月25日，宣佈成員[前田憂佳因升學關係](../Page/前田憂佳.md "wikilink")，將於12月31日，從S/mileage及早安家族畢業\[10\]。
+  - 10月25日，宣佈成員[前田憂佳](../Page/前田憂佳.md "wikilink")因升學關係，將於12月31日，從S/mileage及早安家族畢業\[10\]。
   - 12月28日，發行第八張單曲《[Please Miniskirt
     Postwoman\!](../Page/Please_Miniskirt_Postwoman!.md "wikilink")》，為前田畢業前的最後一單，亦是出道以來最高銷量單曲（36,513）。
-  - 12月31日，[前田憂佳於](../Page/前田憂佳.md "wikilink")「S/mileage Mega Bank
+  - 12月31日，[前田憂佳](../Page/前田憂佳.md "wikilink")於「S/mileage Mega Bank
     vol.4」出演完畢後，正式畢業，退出藝能界\[11\]。
 
 ### 2012
 
   - 1月11日，與早安家族成員共演『數學女子學園』，日本電視台由2012年1月11日開始每週星期三24:59 - 25:29（JST）播放。
-  - 1月31日，關閉前成員[前田憂佳的部落格](../Page/前田憂佳.md "wikilink")「Hi！ゆうか放送局です。」\[12\]。
+  - 1月31日，關閉前成員[前田憂佳](../Page/前田憂佳.md "wikilink")的部落格「Hi！ゆうか放送局です。」\[12\]。
   - 6月11日，出演 Mister Donuts CM。
   - 8月11日，六人初次主演的恐怖電影『怪談新耳袋 異形』上映\[13\]。
   - 8月26日，參加24時間テレビ35「愛は地球を救う」活動。
@@ -454,52 +467,52 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 ### 2015
 
   - 1月1日，更名為ANGERME。
-  - 5月20日，成員[福田花音於Hello](../Page/福田花音.md "wikilink")\! Project YouTube
+  - 5月20日，成員[福田花音](../Page/福田花音.md "wikilink")於Hello\! Project YouTube
     節目「ハロ！ステ」中宣佈將於2015年秋天正式從ANGERME及Hello\! Project中畢業。
-  - 5月26日，ANGERME於[日本武道館舉行演唱會](../Page/日本武道館.md "wikilink")「ANGERME
+  - 5月26日，ANGERME於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會「ANGERME
     STARTING LIVE TOUR SPECIAL @ 日本武道館
-    『大器晩成』」。早前，宣佈畢業的成員[福田花音定於](../Page/福田花音.md "wikilink")11月29日，在[日本武道館舉行畢業演唱會](../Page/日本武道館.md "wikilink")。
-  - 6月24日，成員[和田彩花於Hello](../Page/和田彩花.md "wikilink")\! Project YouTube
+    『大器晩成』」。早前，宣佈畢業的成員[福田花音](../Page/福田花音.md "wikilink")定於11月29日，在[日本武道館](../Page/日本武道館.md "wikilink")舉行畢業演唱會。
+  - 6月24日，成員[和田彩花](../Page/和田彩花.md "wikilink")於Hello\! Project YouTube
     節目「ハロ！ステ」中宣佈舉辦新成員甄選。
-  - 11月11日，成員[福田花音畢業單曲](../Page/福田花音.md "wikilink")、第20張單曲《[高人一等就不會被打壓 /
+  - 11月11日，成員[福田花音](../Page/福田花音.md "wikilink")畢業單曲、第20張單曲《[高人一等就不會被打壓 /
     逆轉勝 /
     我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")》發行。同日宣佈四期成員[上國料萌衣加入ANGERME](https://zh.wikipedia.org/wiki/上國料萌衣 "wikilink")。
-  - 11月29日，於[日本武道館舉行演唱會](../Page/日本武道館.md "wikilink")『ANGERME First Tour
+  - 11月29日，於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會『ANGERME First Tour
     Concert 2015秋「百花繚乱」〜福田花音畢業Special〜』
-    。福田花音畢業、[中西香菜和](../Page/中西香菜.md "wikilink")[竹內朱莉被任命為副隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。
-  - 12月20日，成員[田村芽實宣佈將於](../Page/田村芽實.md "wikilink")2016年春天正式從ANGERME及Hello\!
+    。福田花音畢業、[中西香菜](../Page/中西香菜.md "wikilink")和[竹內朱莉被任命為副隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。
+  - 12月20日，成員[田村芽實](../Page/田村芽實.md "wikilink")宣佈將於2016年春天正式從ANGERME及Hello\!
     Project中畢業。
 
 ### 2016
 
-  - 5月30日，於[日本武道館舉行演唱會](../Page/日本武道館.md "wikilink")『ANGERME Concert
+  - 5月30日，於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會『ANGERME Concert
     Tour 2016春 九位一體 ～田村芽實畢業Special～』中，正式從ANGERME和Hello\!Project畢業。
-  - 7月16日，於[早安家族演唱會](../Page/早安家族.md "wikilink")『Hello\!Project 2016
+  - 7月16日，於[早安家族](../Page/早安家族.md "wikilink")演唱會『Hello\!Project 2016
     SUMMER～Sunshine
-    Parade～』上宣佈五期成員、ハロプロ研修生[笠原桃奈加入](../Page/笠原桃奈.md "wikilink")。
+    Parade～』上宣佈五期成員、ハロプロ研修生[笠原桃奈](../Page/笠原桃奈.md "wikilink")加入。
 
 ### 2017
 
-  - 1月11日，[相川茉穗因被診斷患上](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")[恐慌症暫時停止所有活動](../Page/恐慌症.md "wikilink")。
+  - 1月11日，[相川茉穗因被診斷患上](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")[恐慌症](../Page/恐慌症.md "wikilink")暫時停止所有活動。
   - 6月26日，於ハロ！ステ影片中宣佈加入六期成員為從[Country
-    Girls移籍的](../Page/Country_Girls.md "wikilink")[船木結及ハロプロ研修生](../Page/船木結.md "wikilink")[川村文乃](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
-  - 7月12日，官網公告，日前被診斷出[恐慌症的](../Page/恐慌症.md "wikilink")[相川茉穗近日狀況雖有好轉](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")，日常生活中也無其症狀發作，但若是長時間處於人多或是緊張的狀況下，仍有再復發的可能性。儘管本人向事務所表達繼續活動的意願，但仍有其疑慮。今後仍會再多做觀察，至少休養至秋季巡迴演唱會結束。
-  - 12月31日，官網公告，[相川茉穗從](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")[ANGERME及](../Page/ANGERME.md "wikilink")[早安家族中畢業](../Page/早安家族.md "wikilink")。
+    Girls移籍的](../Page/Country_Girls.md "wikilink")[船木結](../Page/船木結.md "wikilink")及ハロプロ研修生[川村文乃](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
+  - 7月12日，官網公告，日前被診斷出[恐慌症](../Page/恐慌症.md "wikilink")的[相川茉穗近日狀況雖有好轉](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")，日常生活中也無其症狀發作，但若是長時間處於人多或是緊張的狀況下，仍有再復發的可能性。儘管本人向事務所表達繼續活動的意願，但仍有其疑慮。今後仍會再多做觀察，至少休養至秋季巡迴演唱會結束。
+  - 12月31日，官網公告，[相川茉穗從](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")[ANGERME](../Page/ANGERME.md "wikilink")及[早安家族](../Page/早安家族.md "wikilink")中畢業。
 
 ### 2018
 
-  - 4月5日，官網公告，[和田彩花將於](../Page/和田彩花.md "wikilink")2019年[ANGERME春季巡迴演唱會結束後從該團體及](../Page/ANGERME.md "wikilink")[早安家族畢業](../Page/早安家族.md "wikilink")。
+  - 4月5日，官網公告，[和田彩花](../Page/和田彩花.md "wikilink")將於2019年[ANGERME](../Page/ANGERME.md "wikilink")春季巡迴演唱會結束後從該團體及[早安家族](../Page/早安家族.md "wikilink")畢業。
   - 11月19日，於深夜節目「The Girls
-    Live」上宣佈加入新成員，11月23日於「パシフィコ横浜国内大ホール」中公佈新成員為「太田遥香」及「伊勢鈴蘭」，兩人皆為[北海道出身](../Page/北海道.md "wikilink")。
+    Live」上宣佈加入新成員，11月23日於「パシフィコ横浜国内大ホール」中公佈新成員為「太田遥香」及「伊勢鈴蘭」，兩人皆為[北海道](../Page/北海道.md "wikilink")出身。
 
 ### 2019
 
   - 5月25日，於「ANGERME Concert Tour 春
-    \~輪迴轉生\~」千葉午場公演宣布在[和田彩花畢業後由二期成員](../Page/和田彩花.md "wikilink")[竹內朱莉擔任隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。另外，由同樣也是二期成員的[中西香菜續任副隊長及六期成員](../Page/中西香菜.md "wikilink")[川村文乃擔任新副隊長](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
+    \~輪迴轉生\~」千葉午場公演宣布在[和田彩花](../Page/和田彩花.md "wikilink")畢業後由二期成員[竹內朱莉擔任隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。另外，由同樣也是二期成員的[中西香菜](../Page/中西香菜.md "wikilink")續任副隊長及六期成員[川村文乃擔任新副隊長](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
 
 ## 作品
 
-唱片由[hachama發行](https://zh.wikipedia.org/wiki/hachama "wikilink")，台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
+唱片由[hachama發行](https://zh.wikipedia.org/wiki/hachama "wikilink")，台灣及香港地區由[豐華唱片](../Page/豐華唱片.md "wikilink")代理。
 
 ### 單曲
 
@@ -624,7 +637,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="../Page/有頂天LOVE.md" title="wikilink">有頂天LOVE</a></p></td>
 <td><p>5</p></td>
 <td><p>33,823</p></td>
-<td><p>一期成員<a href="../Page/小川紗季.md" title="wikilink">小川紗季的畢業單曲</a></p></td>
+<td><p>一期成員<a href="../Page/小川紗季.md" title="wikilink">小川紗季</a>的畢業單曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -634,7 +647,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="../Page/站起來女孩.md" title="wikilink">站起來女孩</a></p></td>
 <td><p>4</p></td>
 <td><p>26,328</p></td>
-<td><p>準成員<a href="../Page/中西香菜.md" title="wikilink">中西香菜</a>、<a href="https://zh.wikipedia.org/wiki/小數賀芙由香" title="wikilink">小數賀芙由香</a>、<a href="https://zh.wikipedia.org/wiki/竹內朱莉" title="wikilink">竹內朱莉</a>、<a href="https://zh.wikipedia.org/wiki/勝田里奈" title="wikilink">勝田里奈</a>、<a href="../Page/田村芽實.md" title="wikilink">田村芽實加入</a>、<a href="https://zh.wikipedia.org/wiki/小數賀芙由香" title="wikilink">小數賀芙由香的畢業單曲</a></p></td>
+<td><p>準成員<a href="../Page/中西香菜.md" title="wikilink">中西香菜</a>、<a href="https://zh.wikipedia.org/wiki/小數賀芙由香" title="wikilink">小數賀芙由香</a>、<a href="https://zh.wikipedia.org/wiki/竹內朱莉" title="wikilink">竹內朱莉</a>、<a href="https://zh.wikipedia.org/wiki/勝田里奈" title="wikilink">勝田里奈</a>、<a href="../Page/田村芽實.md" title="wikilink">田村芽實</a>加入、<a href="https://zh.wikipedia.org/wiki/小數賀芙由香" title="wikilink">小數賀芙由香的畢業單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -644,7 +657,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="../Page/Please_Miniskirt_Postwoman!.md" title="wikilink">Please Miniskirt Postwoman!</a></p></td>
 <td><p>5</p></td>
 <td><p>36,513</p></td>
-<td><p>成員<a href="../Page/中西香菜.md" title="wikilink">中西香菜</a>、<a href="https://zh.wikipedia.org/wiki/竹內朱莉" title="wikilink">竹內朱莉</a>、<a href="https://zh.wikipedia.org/wiki/勝田里奈" title="wikilink">勝田里奈</a>、<a href="../Page/田村芽實.md" title="wikilink">田村芽實升格後第一張單曲</a>（二期）、一期成員<a href="../Page/前田憂佳.md" title="wikilink">前田憂佳的畢業單曲</a></p></td>
+<td><p>成員<a href="../Page/中西香菜.md" title="wikilink">中西香菜</a>、<a href="https://zh.wikipedia.org/wiki/竹內朱莉" title="wikilink">竹內朱莉</a>、<a href="https://zh.wikipedia.org/wiki/勝田里奈" title="wikilink">勝田里奈</a>、<a href="../Page/田村芽實.md" title="wikilink">田村芽實</a>升格後第一張單曲（二期）、一期成員<a href="../Page/前田憂佳.md" title="wikilink">前田憂佳</a>的畢業單曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -754,7 +767,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲" title="wikilink">大器晩成 / 少女的逆襲</a></p></td>
 <td><p>2</p></td>
 <td><p>48,578</p></td>
-<td><p>第五張2A單曲、三期成員<a href="https://zh.wikipedia.org/wiki/室田瑞希" title="wikilink">室田瑞希</a>、<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗</a>、<a href="../Page/佐佐木莉佳子.md" title="wikilink">佐佐木莉佳子加入後第一張單曲</a></p></td>
+<td><p>第五張2A單曲、三期成員<a href="https://zh.wikipedia.org/wiki/室田瑞希" title="wikilink">室田瑞希</a>、<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗</a>、<a href="../Page/佐佐木莉佳子.md" title="wikilink">佐佐木莉佳子</a>加入後第一張單曲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/S/mileage_/_ANGERME_SELECTION_ALBUM_「大器晩成」" title="wikilink">S/mileage / ANGERME SELECTION ALBUM 「大器晩成」</a></p></td>
 </tr>
 <tr class="odd">
@@ -774,7 +787,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我" title="wikilink">高人一等就不會被打壓 / 逆轉勝 / 我</a></p></td>
 <td><p>2</p></td>
 <td><p>42,229</p></td>
-<td><p>一期成員<a href="../Page/福田花音.md" title="wikilink">福田花音的畢業單曲</a>、第二張3A單曲</p></td>
+<td><p>一期成員<a href="../Page/福田花音.md" title="wikilink">福田花音</a>的畢業單曲、第二張3A單曲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/輪迴轉生_～ANGERME_Past,_Present_&amp;_Future～" title="wikilink">輪迴轉生 ～ANGERME Past, Present &amp; Future～</a></p></td>
 </tr>
 <tr class="odd">
@@ -784,7 +797,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始" title="wikilink">接連不斷 / 糸島Distance / 戀愛已經開始</a></p></td>
 <td><p>2</p></td>
 <td><p>56,865</p></td>
-<td><p>四期成員<a href="https://zh.wikipedia.org/wiki/上國料萌衣" title="wikilink">上國料萌衣加入後第一張單曲</a>、二期成員<a href="../Page/田村芽實.md" title="wikilink">田村芽實的畢業單曲</a>、第三張3A單曲</p></td>
+<td><p>四期成員<a href="https://zh.wikipedia.org/wiki/上國料萌衣" title="wikilink">上國料萌衣加入後第一張單曲</a>、二期成員<a href="../Page/田村芽實.md" title="wikilink">田村芽實</a>的畢業單曲、第三張3A單曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -794,7 +807,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/無法形容_/_因為愛人類才進化到今時今日_因為愛人類才徹底退化_/_忘記你的一切" title="wikilink">無法形容 / 因為愛人類才進化到今時今日 因為愛人類才徹底退化 / 忘記你的一切</a></p></td>
 <td><p>3</p></td>
 <td><p>35,991</p></td>
-<td><p>三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗最後一張單曲</a>、五期成員<a href="../Page/笠原桃奈.md" title="wikilink">笠原桃奈加入後第一張單曲</a>、第四張3A單曲。</p></td>
+<td><p>三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗最後一張單曲</a>、五期成員<a href="../Page/笠原桃奈.md" title="wikilink">笠原桃奈</a>加入後第一張單曲、第四張3A單曲。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -804,7 +817,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/有了愛什麼都不需要_/_淚色的決意_/_魔女小惠" title="wikilink">有了愛什麼都不需要 / 淚色的決意 / 魔女小惠</a></p></td>
 <td><p>3</p></td>
 <td><p>46,437</p></td>
-<td><p>第五張3A單曲，三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗因被診斷出</a><a href="../Page/恐慌症.md" title="wikilink">恐慌症暫停活動專心休養</a>, 不參加此次單曲。</p></td>
+<td><p>第五張3A單曲，三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗因被診斷出</a><a href="../Page/恐慌症.md" title="wikilink">恐慌症</a>暫停活動專心休養, 不參加此次單曲。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -814,7 +827,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Manner_Mode_/_一如既往般美麗_/_你並不孤單...friends" title="wikilink">Manner Mode / 一如既往般美麗 / 你並不孤單...friends</a></p></td>
 <td><p>2</p></td>
 <td><p>-</p></td>
-<td><p>首張DVD單曲、六期成員<a href="../Page/船木結.md" title="wikilink">船木結</a>、<a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃加入後第一張單曲</a>、三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗因被診斷出</a><a href="../Page/恐慌症.md" title="wikilink">恐慌症暫停活動專心休養</a>, 不參加此次單曲。</p></td>
+<td><p>首張DVD單曲、六期成員<a href="../Page/船木結.md" title="wikilink">船木結</a>、<a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃加入後第一張單曲</a>、三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗因被診斷出</a><a href="../Page/恐慌症.md" title="wikilink">恐慌症</a>暫停活動專心休養, 不參加此次單曲。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -844,7 +857,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>51,698</p></td>
-<td><p>一期成員<a href="../Page/和田彩花.md" title="wikilink">和田彩花的畢業單曲</a>、第七張2A單曲、第七期成員<a href="https://zh.wikipedia.org/wiki/太田遙香" title="wikilink">太田遙香</a>、<a href="https://zh.wikipedia.org/wiki/伊勢鈴蘭" title="wikilink">伊勢鈴蘭加入後第一張單曲</a>。</p></td>
+<td><p>一期成員<a href="../Page/和田彩花.md" title="wikilink">和田彩花</a>的畢業單曲、第七張2A單曲、第七期成員<a href="https://zh.wikipedia.org/wiki/太田遙香" title="wikilink">太田遙香</a>、<a href="https://zh.wikipedia.org/wiki/伊勢鈴蘭" title="wikilink">伊勢鈴蘭加入後第一張單曲</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -860,7 +873,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 </tbody>
 </table>
 
-#### 單曲在[Oricon成績統計](../Page/Oricon.md "wikilink")
+#### 單曲在[Oricon](../Page/Oricon.md "wikilink")成績統計
 
   - 最高銷量單曲：[接連不斷 / 糸島Distance /
     戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，賣出
@@ -1028,7 +1041,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白菜白皮書_/_Forest_Time" title="wikilink">白菜白皮書 / Forest Time</a></p></td>
 <td><p>53</p></td>
 <td><p>2,171</p></td>
-<td><p>「白菜白皮書」是以「Peaberry」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/鞘師里保.md" title="wikilink">鞘師里保和</a><strong>S/mileage</strong>的<a href="../Page/和田彩花.md" title="wikilink">和田彩花的合作單曲</a>; 「Forest Time」是以「Harvest」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<a href="../Page/佐藤優樹.md" title="wikilink">佐藤優樹和</a><strong>S/mileage</strong>的<a href="https://zh.wikipedia.org/wiki/竹內朱莉" title="wikilink">竹內朱莉的合作單曲</a></p></td>
+<td><p>「白菜白皮書」是以「Peaberry」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>的<a href="../Page/鞘師里保.md" title="wikilink">鞘師里保</a>和<strong>S/mileage</strong>的<a href="../Page/和田彩花.md" title="wikilink">和田彩花</a>的合作單曲; 「Forest Time」是以「Harvest」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>的<a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<a href="../Page/佐藤優樹.md" title="wikilink">佐藤優樹</a>和<strong>S/mileage</strong>的<a href="https://zh.wikipedia.org/wiki/竹內朱莉" title="wikilink">竹內朱莉的合作單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1038,7 +1051,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白菜白皮書～春篇～" title="wikilink">白菜白皮書～春篇～</a></p></td>
 <td><p>8</p></td>
 <td><p>13,919</p></td>
-<td><p>「白菜白皮書～春篇～」是「白菜白皮書」的續曲，以「Peaberry」名義發行，<strong>早安少女組。</strong>的<a href="../Page/鞘師里保.md" title="wikilink">鞘師里保和</a><a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的</a><a href="../Page/和田彩花.md" title="wikilink">和田彩花的合作單曲</a></p></td>
+<td><p>「白菜白皮書～春篇～」是「白菜白皮書」的續曲，以「Peaberry」名義發行，<strong>早安少女組。</strong>的<a href="../Page/鞘師里保.md" title="wikilink">鞘師里保</a>和<a href="https://zh.wikipedia.org/wiki/S/mileage" title="wikilink">S/mileage的</a><a href="../Page/和田彩花.md" title="wikilink">和田彩花</a>的合作單曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1048,8 +1061,8 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人魚小姐_/_Eiya-sa!_Brother_/_清理海灘的男孩" title="wikilink">人魚小姐 / Eiya-sa! Brother / 清理海灘的男孩</a></p></td>
 <td><p>80</p></td>
 <td><p>1,636</p></td>
-<td><p>「人魚小姐」是以「Dia-Lady」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="../Page/菅谷梨沙子.md" title="wikilink">菅谷梨沙子和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/鈴木愛理.md" title="wikilink">鈴木愛理的合作單曲</a>; 「Eiya-sa! Brother」是以「Mellowquad」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房的</a><a href="https://zh.wikipedia.org/wiki/徳永千奈美" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅和</a><a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/岡井千聖.md" title="wikilink">岡井千聖的合作單曲</a>;</p>
-<p>「清理海灘的男孩」是以「HI-FIN」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。的</a><a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<a href="../Page/℃-ute.md" title="wikilink">℃-ute的</a><a href="../Page/中島早貴.md" title="wikilink">中島早貴</a>、<a href="https://zh.wikipedia.org/wiki/萩原舞" title="wikilink">萩原舞和</a><strong>S/mileage</strong>的<a href="../Page/福田花音.md" title="wikilink">福田花音的合作單曲</a></p></td>
+<td><p>「人魚小姐」是以「Dia-Lady」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>的<a href="../Page/菅谷梨沙子.md" title="wikilink">菅谷梨沙子</a>和<a href="../Page/℃-ute.md" title="wikilink">℃-ute</a>的<a href="../Page/鈴木愛理.md" title="wikilink">鈴木愛理</a>的合作單曲; 「Eiya-sa! Brother」是以「Mellowquad」名義發行，<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>的<a href="https://zh.wikipedia.org/wiki/徳永千奈美" title="wikilink">徳永千奈美</a>、<a href="../Page/夏燒雅.md" title="wikilink">夏燒雅</a>和<a href="../Page/℃-ute.md" title="wikilink">℃-ute</a>的<a href="../Page/矢島舞美.md" title="wikilink">矢島舞美</a>、<a href="../Page/岡井千聖.md" title="wikilink">岡井千聖</a>的合作單曲;</p>
+<p>「清理海灘的男孩」是以「HI-FIN」名義發行，<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>的<a href="../Page/生田衣梨奈.md" title="wikilink">生田衣梨奈</a>、<a href="../Page/石田亞佑美.md" title="wikilink">石田亞佑美</a>、<a href="../Page/℃-ute.md" title="wikilink">℃-ute</a>的<a href="../Page/中島早貴.md" title="wikilink">中島早貴</a>、<a href="https://zh.wikipedia.org/wiki/萩原舞" title="wikilink">萩原舞和</a><strong>S/mileage</strong>的<a href="../Page/福田花音.md" title="wikilink">福田花音</a>的合作單曲</p></td>
 <td></td>
 </tr>
 <tr class="even">

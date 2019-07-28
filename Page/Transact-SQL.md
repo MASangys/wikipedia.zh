@@ -2,7 +2,7 @@
 Server和](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[Sybase
 SQL
 Server上的ANSI](https://zh.wikipedia.org/wiki/Sybase_SQL_Server "wikilink")
-[SQL實作](../Page/SQL.md "wikilink")，與[Oracle的](https://zh.wikipedia.org/wiki/Oracle "wikilink")[PL/SQL性質相近](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")（不只是實作ANSI
+[SQL](../Page/SQL.md "wikilink")實作，與[Oracle的](https://zh.wikipedia.org/wiki/Oracle "wikilink")[PL/SQL性質相近](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")（不只是實作ANSI
 SQL，也為自身資料庫系統的特性提供實作支援），目前在Microsoft SQL Server\[1\]和Sybase Adaptive
 Server\[2\]中仍然被使用為核心的查詢語言。
 

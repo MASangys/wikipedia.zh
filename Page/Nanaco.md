@@ -1,6 +1,6 @@
 [Nanaco_CARD.jpg](https://zh.wikipedia.org/wiki/File:Nanaco_CARD.jpg "fig:Nanaco_CARD.jpg")
 
-**nanaco**（）是[日本](../Page/日本.md "wikilink")[7\&I控股旗下公司](../Page/7&I控股.md "wikilink")所提供的[非接觸式](../Page/非接觸式支付.md "wikilink")[電子支付服務](../Page/電子貨幣.md "wikilink")，可透過[智慧卡或擁有](../Page/智慧卡.md "wikilink")「」功能的[手機使用](https://zh.wikipedia.org/wiki/手機 "wikilink")。自2007年4月23日開始發行以來，2008年5月底已發行約590萬張，2010年3月已突破1000萬張。
+**nanaco**（）是[日本](../Page/日本.md "wikilink")[7\&I控股](../Page/7&I控股.md "wikilink")旗下公司所提供的[非接觸式](../Page/非接觸式支付.md "wikilink")[電子支付服務](../Page/電子貨幣.md "wikilink")，可透過[智慧卡](../Page/智慧卡.md "wikilink")或擁有「」功能的[手機使用](https://zh.wikipedia.org/wiki/手機 "wikilink")。自2007年4月23日開始發行以來，2008年5月底已發行約590萬張，2010年3月已突破1000萬張。
 
 ## 概要
 

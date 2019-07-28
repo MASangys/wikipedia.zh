@@ -1,4 +1,4 @@
-**Gwenview**是一個[KDE桌面環境的圖像瀏覽器](../Page/KDE.md "wikilink")。目前的維護者是Aurélien
+**Gwenview**是一個[KDE](../Page/KDE.md "wikilink")桌面環境的圖像瀏覽器。目前的維護者是Aurélien
 Gâteau。「Gwen」在[布列塔尼語是指](https://zh.wikipedia.org/wiki/布列塔尼語 "wikilink")「白色」。雖然Gwenview可以在[KDE
 3下使用](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")，但[KDE
 4的版本有一個簡化的用戶界面](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")，使它更適合於快速瀏覽大量圖像。Gwenview提供了全影幕顯示，可用於顯示圖像作為幻燈片觀賞。

@@ -1,4 +1,4 @@
-Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")。其设计源自根據作戰的經驗对前一款的[Yak-7戰鬥機的改良](../Page/Yak-7戰鬥機.md "wikilink")。之後被证实是一款性能優異的機種。
+Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")。其设计源自根據作戰的經驗对前一款的[Yak-7戰鬥機](../Page/Yak-7戰鬥機.md "wikilink")的改良。之後被证实是一款性能優異的機種。
 
 ## 概要
 
@@ -25,7 +25,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 
 ### 戰後的評價
 
-戰後Yak-9大量援助到其他社會主義國家，甚至是二戰時苏联協助成立的的[自由法國空軍戰鬥機單位也使用Yak](../Page/自由法國.md "wikilink")-9並帶回國內繼續使用，中国和北朝鲜還以其參加了[朝戰](https://zh.wikipedia.org/wiki/朝戰 "wikilink")。不過此時Yak-9已嫌落後，使即使進入[噴射機時代初仍然持續生產到](https://zh.wikipedia.org/wiki/噴射機 "wikilink")1948年。
+戰後Yak-9大量援助到其他社會主義國家，甚至是二戰時苏联協助成立的的[自由法國](../Page/自由法國.md "wikilink")空軍戰鬥機單位也使用Yak-9並帶回國內繼續使用，中国和北朝鲜還以其參加了[朝戰](https://zh.wikipedia.org/wiki/朝戰 "wikilink")。不過此時Yak-9已嫌落後，使即使進入[噴射機時代初仍然持續生產到](https://zh.wikipedia.org/wiki/噴射機 "wikilink")1948年。
 
 因為蘇聯官方一貫保密態度對本機忌深如諱，所以在退役前鮮為非社會主義國家所認識。而在退役後全面解禁時，因[冷戰時期英美也有意貶低本機的戰果與價值](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，而誇大了兩國援蘇戰鬥機的作用。然而若考慮到本機研制時的惡劣條件與輕量型結構，實際上無論蘇德雙方都對本機有相當高的評價。
 

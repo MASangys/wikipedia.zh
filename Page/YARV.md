@@ -1,4 +1,4 @@
-**YARV**是“[Ruby程序语言](../Page/Ruby.md "wikilink")”的一个[字节码解译器](https://zh.wikipedia.org/wiki/字节码 "wikilink")，它是由[笹田耕一领导的](https://zh.wikipedia.org/wiki/笹田耕一 "wikilink")。YARV这个名称是“Yet
+**YARV**是“[Ruby](../Page/Ruby.md "wikilink")程序语言”的一个[字节码解译器](https://zh.wikipedia.org/wiki/字节码 "wikilink")，它是由[笹田耕一领导的](https://zh.wikipedia.org/wiki/笹田耕一 "wikilink")。YARV这个名称是“Yet
 another Ruby VM”（又一个Ruby虚拟机器）的首字母缩写。这个项目的目标是大幅度地减少Ruby程序的运行时间。
 
 在YARV成为Ruby 1.9的官方解译器后，人们也称它为KRI（Koichi's Ruby
@@ -16,9 +16,9 @@ Interpreter，Koichi的Ruby解译器）。
 ## 歷史
 
 在2007年1月1日，YARV首次出現在Ruby下個版本的CVS庫之中。\[4\]
-後来，Ruby的創造者[松本行弘把YARV完全放入Ruby](../Page/松本行弘.md "wikilink")
+後来，Ruby的創造者[松本行弘](../Page/松本行弘.md "wikilink")把YARV完全放入Ruby
 1.9.0（於2007年12月26日發布）\[5\]
-。從這個版本起，YARV成为了官方的Ruby解释器，取代原本由[松本行弘製作的版本](../Page/松本行弘.md "wikilink")。
+。從這個版本起，YARV成为了官方的Ruby解释器，取代原本由[松本行弘](../Page/松本行弘.md "wikilink")製作的版本。
 
 ## 另见
 

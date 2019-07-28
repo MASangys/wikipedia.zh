@@ -1609,7 +1609,7 @@ MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處�
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年6月3日－<br />
-2019年7月23日</p></td>
+2019年7月29日</p></td>
 <td style="text-align: center;"><p><a href="../Page/檢法男女2.md" title="wikilink">檢法男女2</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -1619,9 +1619,9 @@ MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處�
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年7月29日－<br />
-2019年9月17日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Welcome_2_life" title="wikilink">Welcome 2 life</a><br />
+<td style="text-align: center;"><p>2019年8月5日－<br />
+2019年9月24日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Welcome_2_Life" title="wikilink">Welcome 2 Life</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/Rain.md" title="wikilink">Rain</a>、<a href="../Page/林智妍.md" title="wikilink">林智妍</a>、<a href="../Page/郭時暘.md" title="wikilink">郭時暘</a></p></td>

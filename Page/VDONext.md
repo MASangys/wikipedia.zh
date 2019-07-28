@@ -1,4 +1,4 @@
-**VDONext**，又稱**V壹網**，是一個創作生活短片的視像資訊[網站](../Page/網站.md "wikilink")，亦是[香港上市公司](../Page/香港.md "wikilink")[壹傳媒集團](https://zh.wikipedia.org/wiki/壹傳媒集團 "wikilink")（）全資附屬機構\[1\]。網站提供一站式視聽資娛，迎合現代生活視像化潮流，內容包括娛樂、烹飪、美容、數碼科技、笑話、生活冷知識加通識、親子、星座及生肖運程動畫等內容。在《[蘋果日報](https://zh.wikipedia.org/wiki/香港蘋果日報 "wikilink")》的報紙版及網絡版內容中均加入部分VDONext的內容連結\[2\]，用以提供延伸閱讀。
+**VDONext**，又稱**V壹網**，是一個創作生活短片的視像資訊[網站](../Page/網站.md "wikilink")，亦是[香港](../Page/香港.md "wikilink")上市公司[壹傳媒集團](https://zh.wikipedia.org/wiki/壹傳媒集團 "wikilink")（）全資附屬機構\[1\]。網站提供一站式視聽資娛，迎合現代生活視像化潮流，內容包括娛樂、烹飪、美容、數碼科技、笑話、生活冷知識加通識、親子、星座及生肖運程動畫等內容。在《[蘋果日報](https://zh.wikipedia.org/wiki/香港蘋果日報 "wikilink")》的報紙版及網絡版內容中均加入部分VDONext的內容連結\[2\]，用以提供延伸閱讀。
 
 在2010年，VDONext的內容更伸展至流動平台，先後推出手機版網頁、VDONext iPhone App及iPad
 App，同時還與Sony達成協議，率先將本地的網上視頻內容，透過Sony BRAVIA
@@ -24,7 +24,7 @@ Video），將VDONext的節目帶入觀眾的客廳中。
   - 2009年9月：正式推出以VDONext，V壹網商標命名的網站(www.vdonext.com)。
   - 2010年4月：與Sony Corperation of Hong Kong合作，透過Sony BRAVIA
     NX及EX全新高清電視系列的內置網絡影片功能播放VDONext的節目。
-  - 2010年5月：與[電訊盈科達成協議](../Page/電訊盈科.md "wikilink")，提供內容給eye及eye
+  - 2010年5月：與[電訊盈科](../Page/電訊盈科.md "wikilink")達成協議，提供內容給eye及eye
     2家居無線多媒睇。
   - 2010年6月：VDONext手機版網頁面世。
   - 2010年7月：推出VDONext iPhone App。

@@ -1,6 +1,6 @@
 ***Enigma***是一个[运输解谜](https://zh.wikipedia.org/wiki/运输解谜 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，游戏理念基于*[Oxyd](https://zh.wikipedia.org/wiki/Oxyd "wikilink")*，但授权协议是[GPL的](https://zh.wikipedia.org/wiki/GPL "wikilink")*Enigma*获得广泛好评。\[1\]\[2\]
 
-地形逻辑益智游戏，快速灵活使用[定位设备](https://zh.wikipedia.org/wiki/定位设备 "wikilink")（如合适的鼠标）。地形用[Lua脚本编写](../Page/Lua.md "wikilink")。有关卡编辑器。
+地形逻辑益智游戏，快速灵活使用[定位设备](https://zh.wikipedia.org/wiki/定位设备 "wikilink")（如合适的鼠标）。地形用[Lua](../Page/Lua.md "wikilink")脚本编写。有关卡编辑器。
 
 Enigma自身有563种标准地形设计，相当于游戏地图上的特殊机关／砖块，*Enigma*还包含20个训练用的，149种从各种*[仓库番](https://zh.wikipedia.org/wiki/仓库番 "wikilink")*游戏中获取的，151种从
 *[Oxyd](https://zh.wikipedia.org/wiki/Oxyd "wikilink")*游戏获取的，91种从*Oxyd*的续篇

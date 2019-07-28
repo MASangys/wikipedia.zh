@@ -3,7 +3,7 @@
 Vista发布后开始记录](../Page/Windows_Vista.md "wikilink")。
 
 Milestone 1、Milestone 2和Milestone
-3在2008年被送给微软合作伙伴。2008年10月，[微软在](../Page/微软.md "wikilink")[專業開發者大會](https://zh.wikipedia.org/wiki/專業開發者大會 "wikilink")(PDC)大会上公布了Build
+3在2008年被送给微软合作伙伴。2008年10月，[微软](../Page/微软.md "wikilink")在[專業開發者大會](https://zh.wikipedia.org/wiki/專業開發者大會 "wikilink")(PDC)大会上公布了Build
 6801并且宣布Beta版将在1月发布。RC版本将会在2009年4月30日提供给[MSDN和](https://zh.wikipedia.org/wiki/MSDN "wikilink")[Technet的订阅用户](https://zh.wikipedia.org/wiki/Technet "wikilink")，而在2009年5月5日向公众发布。2009年7月22日微軟發行最後一版的Windows
 7給製造廠商。\[1\]8月6日，MSDN和Technet的订阅用户可以下载該版本。各种不同的版本也已经泄漏。微软确认正式版[Windows
 7将在](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")2009年10月22日发布。
@@ -15,7 +15,7 @@ XP及其](../Page/Windows_XP.md "wikilink")[伺服器版本](https://zh.wikipedi
 Server
 2003](../Page/Windows_Server_2003.md "wikilink")（開發代號皆為「Whistler」）的新版本，開發代號為「Blackcomb」（指度假勝地「Whistler-Blackcomb」）。這计划當時預定於2005年發行。\[2\]\[3\]
 
-Blackcomb計畫的主要重點在於有效的搜尋和查詢資料，且開發一種先進的儲存系統名為[WinFS以滿足此計畫](../Page/WinFS.md "wikilink")。在這樣的情況下，微軟創辦人比爾·蓋茲稱讚Blackcomb像是「一台可以認得使用者所輸入的句子的打字機」。\[4\]
+Blackcomb計畫的主要重點在於有效的搜尋和查詢資料，且開發一種先進的儲存系統名為[WinFS](../Page/WinFS.md "wikilink")以滿足此計畫。在這樣的情況下，微軟創辦人比爾·蓋茲稱讚Blackcomb像是「一台可以認得使用者所輸入的句子的打字機」。\[4\]
 
 不久之後，Blackcomb臨時被延後，代替的是下一版本，開發代號為「[Longhorn](https://zh.wikipedia.org/wiki/Longhorn "wikilink")」，預定於2003年發行。\[5\]
 然而，Longhorn擁有了一些本來要在Blackcomb上發表的新功能，包括WinFS、[桌面視窗管理員](../Page/桌面視窗管理員.md "wikilink")，及新版本的系統組件[.NET
@@ -104,7 +104,7 @@ Beta 32位元被泄露出，而且很快的被散布在P2P及許多的FTP上。 
 
 2009年1月9日，微軟正式對外發佈32位元及64位元的Beta版，版本號為「7000.winmain_win7beta.081212-1400.」，原定首250萬用戶才可下載Windows
 7 Beta。但由於用戶反應超乎預期，微軟隨後決定取消此限制，並延長公開下載期限至1月24日\[26\]\[27\]
-，后又再次延长至2月10日。\[28\]。[32位元提供](../Page/32位元.md "wikilink")[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[阿拉伯文和](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")[印度文](https://zh.wikipedia.org/wiki/印度文 "wikilink")。[64位元提供](../Page/64位元.md "wikilink")[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[阿拉伯文](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")。同时，亦有提供[繁體中文和](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[简体中文在](https://zh.wikipedia.org/wiki/简体中文 "wikilink")[32位元和](../Page/32位元.md "wikilink")[64位元的](../Page/64位元.md "wikilink")[语言包供中文用户下载安装](https://zh.wikipedia.org/wiki/语言包 "wikilink")。但目前已經停止提供下載，而裝有Beta版的電腦將從7月1日起每兩小時自動關機，且將會於8月1日停止運作。
+，后又再次延长至2月10日。\[28\]。[32位元](../Page/32位元.md "wikilink")提供[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[阿拉伯文和](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")[印度文](https://zh.wikipedia.org/wiki/印度文 "wikilink")。[64位元](../Page/64位元.md "wikilink")提供[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[阿拉伯文](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")。同时，亦有提供[繁體中文和](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[简体中文在](https://zh.wikipedia.org/wiki/简体中文 "wikilink")[32位元](../Page/32位元.md "wikilink")和[64位元](../Page/64位元.md "wikilink")的[语言包供中文用户下载安装](https://zh.wikipedia.org/wiki/语言包 "wikilink")。但目前已經停止提供下載，而裝有Beta版的電腦將從7月1日起每兩小時自動關機，且將會於8月1日停止運作。
 
 ### [Release Candidate](https://zh.wikipedia.org/wiki/預覽版本#Release_Candidate "wikilink") (RC，發行候選版)
 

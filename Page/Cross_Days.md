@@ -1,6 +1,6 @@
 《**Cross
-Days**》是一款由日本[0verflow公司於](../Page/0verflow.md "wikilink")2010年3月19日在[Microsoft
-Windows平臺上發售的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[成人](../Page/日本成人遊戲.md "wikilink")[視覺小說遊戲](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，後來又以[個人電腦版本為基礎移植到](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[DVD](https://zh.wikipedia.org/wiki/數位多功能影音光碟 "wikilink")[互動式電影以及](../Page/互動式電影.md "wikilink")[PlayStation
+Days**》是一款由日本[0verflow](../Page/0verflow.md "wikilink")公司於2010年3月19日在[Microsoft
+Windows平臺上發售的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[成人](../Page/日本成人遊戲.md "wikilink")[視覺小說遊戲](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，後來又以[個人電腦版本為基礎移植到](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[DVD](https://zh.wikipedia.org/wiki/數位多功能影音光碟 "wikilink")[互動式電影](../Page/互動式電影.md "wikilink")以及[PlayStation
 Portable平臺上](../Page/PlayStation_Portable.md "wikilink")。《Cross
 Days》在日本常被簡稱為「」（Kuroizu），而中國大陸的愛好者則因為標題中的「Cross」而常將遊戲翻譯成「交叉日」或者是「雜交日」\[1\]。其中《Cross
 Days》為同樣由0verflow製作的成人遊戲《[School
@@ -11,14 +11,14 @@ Days》的[外傳作品](https://zh.wikipedia.org/wiki/外傳 "wikilink")\[2\]�
 其中《Cross Days》的主要舞台設定皆與《School
 Days》相同，然而在原本故事背景中添加了新的男主角足利勇氣以及女主角喜連川路夏等角色，而這也是首款在《School
 Days》中由非伊藤誠的角色擔任主角之遊戲。一般來說會將《Cross
-Days》的劇情列入[空氣系作品行列](../Page/空氣系.md "wikilink")，其故事內容為平常過著普通生活的男主角足利勇氣發現自己對於桂言葉以及喜連川路夏有所好感，然而勇氣也因而對於和這兩者有所交集的伊藤誠抱持著嫉妒與不滿，並且引發了一連串的事件\[3\]。儘管《Cross
+Days》的劇情列入[空氣系](../Page/空氣系.md "wikilink")作品行列，其故事內容為平常過著普通生活的男主角足利勇氣發現自己對於桂言葉以及喜連川路夏有所好感，然而勇氣也因而對於和這兩者有所交集的伊藤誠抱持著嫉妒與不滿，並且引發了一連串的事件\[3\]。儘管《Cross
 Days》中很少有讓玩家可以互動的選項，不過在遊戲中玩家仍然可以挑選對話選項並且決定進入不同的故事路線中。
 
 0verflow在2008年12月時首次公布《Cross
 Days》的製作，然而從2009年2月至2010年3月期間遊戲的發售日期共計延後了七次才正式發售\[4\]。而在遊戲發售後不久0verflow便要求用戶必須下載更新以解決遊戲問題，並且亦發生有被安裝[特洛伊木馬的](https://zh.wikipedia.org/wiki/特洛伊木馬_\(電腦\) "wikilink")《Cross
-Days》在[對等網路上偽裝成非法未授權遊戲](../Page/對等網路.md "wikilink")、之後將不知情的用戶個人資料公布在網站上一事\[5\]。另外《Cross
-Days》除了遊戲的推出外也有其他跨媒體作品出現，其中早在遊戲還在製作時便已經在網路電臺上開始錄製其[廣播劇內容](../Page/廣播劇.md "wikilink")。其他還有像從2010年4月26日至8月10日期間在[角川書店出版的雜誌](../Page/角川書店.md "wikilink")《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》所連載的漫畫、9月15日至10月29日期間推出的3本[輕小說與遊戲介紹指南](../Page/輕小說.md "wikilink")，以及在4月24日至7月21日由[Lantis所推出的遊戲音樂原聲帶](../Page/Lantis.md "wikilink")。
+Days》在[對等網路](../Page/對等網路.md "wikilink")上偽裝成非法未授權遊戲、之後將不知情的用戶個人資料公布在網站上一事\[5\]。另外《Cross
+Days》除了遊戲的推出外也有其他跨媒體作品出現，其中早在遊戲還在製作時便已經在網路電臺上開始錄製其[廣播劇](../Page/廣播劇.md "wikilink")內容。其他還有像從2010年4月26日至8月10日期間在[角川書店](../Page/角川書店.md "wikilink")出版的雜誌《[月刊Comp
+Ace](../Page/月刊Comp_Ace.md "wikilink")》所連載的漫畫、9月15日至10月29日期間推出的3本[輕小說](../Page/輕小說.md "wikilink")與遊戲介紹指南，以及在4月24日至7月21日由[Lantis](../Page/Lantis.md "wikilink")所推出的遊戲音樂原聲帶。
 
 ## 遊戲
 
@@ -28,7 +28,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》所連載的漫畫、9月15日至10
 Days》採取視覺小說的遊玩方式，基本上玩家遊玩的時候主要是觀看和聆聽故事情節的發展；不過在某些預設的段落中玩家將必須藉由點擊的方式選擇行為選項或者是否要忽略選項，而這些選擇最直接地將會影響之後的人物的行動或者是反應\[6\]。遊戲藉由這些相互連接的劇情分歧點而組織成多條故事路線，而遊戲的選項便會影響玩家所挑選的故事劇情內容，最終會出現玩家操控的角色和遊戲人物之間的色情場景並且進入不同的結局。同時《Cross
 Days》和過去的《School Days》以及《Summer
 Days》相同都是以為主\[7\]，並且包括與嘴唇同步的配音、遊戲事件的音效以及故事內容的背景音樂等都是以立體聲的方式呈現\[8\]。不過《Cross
-Days》在[人物設計方面並沒有直接沿用過去的作品](../Page/人物設計.md "wikilink")，相反地則是參考了《》而全部重新繪製成更具肉感之模樣。
+Days》在[人物設計](../Page/人物設計.md "wikilink")方面並沒有直接沿用過去的作品，相反地則是參考了《》而全部重新繪製成更具肉感之模樣。
 
 《Cross Days》在軟體部分使用了0verflow所開發的遊戲引擎，該遊戲引擎主要是以過去的《School Days》以及《Summer
 Days》所使用的引擎為基礎進行些許改良\[9\]。其中遊戲的[螢幕顯示](https://zh.wikipedia.org/wiki/電腦顯示標準 "wikilink")[解析度從過往的的](https://zh.wikipedia.org/wiki/解析度 "wikilink")640×480到了[800×600](../Page/高级视频图形阵列.md "wikilink")，而遊戲中的背景動畫與一部分人物在製作上亦運用了[3D](../Page/三维计算机图形.md "wikilink")[電腦圖形以及](https://zh.wikipedia.org/wiki/電腦圖形 "wikilink")[動作捕捉之技術](https://zh.wikipedia.org/wiki/動作捕捉 "wikilink")\[10\]，但這也使得《Cross
@@ -53,7 +53,7 @@ Days》除了與《School
 Days》為同樣時間發展的關係外也與其他0verflow的作品有所關聯，其中從第一話勇氣與黑田光的對話得知《Cross
 Days》時間軸位於《》半年後，而曾出現在先前作品《》的女主角遠野美沙子也以姓氏呈現的方式出現在遊戲故事之中。此外在《Cross
 Days》故事之中除了傳統的結局外也加入了有關足立勇氣扮裝女性乃至於[BL屬性之結尾](../Page/BL_\(和製英語\).md "wikilink")\[23\]，這一方面使得一部分預期遊玩普通美少女遊戲的玩家對此有所討論，甚至亦有人將遊戲稱作「」\[24\]\[25\]；但是在另外一方面《Cross
-Days》的這一故事設計使得許多[腐女也對於遊戲有所興趣](../Page/腐女.md "wikilink")，而過去不曾推出這一類型遊戲的0verflow也趁勢推出了針對女性用戶的商品進行販售\[26\]\[27\]。
+Days》的這一故事設計使得許多[腐女](../Page/腐女.md "wikilink")也對於遊戲有所興趣，而過去不曾推出這一類型遊戲的0verflow也趁勢推出了針對女性用戶的商品進行販售\[26\]\[27\]。
 
 ### 故事內容
 
@@ -90,7 +90,7 @@ Days》提供下載\[45\]\[46\]。
 
 而在2008年11月16日時，0verflow製作團隊則是參與了在大阪市舉辦的動漫展覽並且販售《Cross
 Days》的電話卡\[47\]；而在同一天也提供了遊戲提前預定的服務並且在展覽當天吸引許多人群，不過有關店家其正式的遊戲預定工作則是在11月21日時才展開\[48\]\[49\]。12月5日時，0verflow則宣布《Cross
-Days》遊戲可以完全支援[USB](https://zh.wikipedia.org/wiki/通用序列匯流排 "wikilink")[遠程性愛系統](../Page/遠程性愛.md "wikilink")[SOM](https://zh.wikipedia.org/wiki/SOM "wikilink")，並且交由Goods
+Days》遊戲可以完全支援[USB](https://zh.wikipedia.org/wiki/通用序列匯流排 "wikilink")[遠程性愛](../Page/遠程性愛.md "wikilink")系統[SOM](https://zh.wikipedia.org/wiki/SOM "wikilink")，並且交由Goods
 Land公司負責生產商品\[50\]\[51\]。而到了12月26日時，0verflow則是在[Comiket
 75中宣布將在](../Page/Comic_Market.md "wikilink")95個零售廠商上推出《Cross
 Days》的試玩版本\[52\]\[53\]\[54\]。另外在正式發售前0verflow亦推出了許多宣傳活動以強化《Cross
@@ -107,9 +107,9 @@ Days》初回限定版本時發生[程式錯誤的意見](https://zh.wikipedia.o
 Days》的遊戲軟體版本改成1.00a\[83\]\[84\]。
 
 而之後《Cross
-Days》亦[移植到另外兩種遊戲平臺上](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，其中[互動式電影開發廠商](../Page/互動式電影.md "wikilink")在2011年4月28日重新推出了《Cross
+Days》亦[移植到另外兩種遊戲平臺上](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，其中[互動式電影](../Page/互動式電影.md "wikilink")開發廠商在2011年4月28日重新推出了《Cross
 Days
-DVDPG》\[85\]\[86\]；其中遊戲內容收錄在3張數位多功能影音光碟之中，而其遊戲封面設計則與電腦遊戲普通版本的遊戲封套相同\[87\]。另外[通用媒體光碟出版公司Palace則是在](../Page/通用媒體光碟.md "wikilink")2011年7月29日時推出可在[PlayStation
+DVDPG》\[85\]\[86\]；其中遊戲內容收錄在3張數位多功能影音光碟之中，而其遊戲封面設計則與電腦遊戲普通版本的遊戲封套相同\[87\]。另外[通用媒體光碟](../Page/通用媒體光碟.md "wikilink")出版公司Palace則是在2011年7月29日時推出可在[PlayStation
 Portable遊玩的](../Page/PlayStation_Portable.md "wikilink")《Cross Days
 UMD-PG
 Edition》\[88\]，其中這版本遊戲內容收錄在3片通用媒體光碟內，而其遊戲封面設計則是與電腦遊戲限定版本的遊戲封套相同\[89\]。
@@ -120,19 +120,19 @@ Edition》\[88\]，其中這版本遊戲內容收錄在3片通用媒體光碟內
 
 [Cross_Days_Manga_cover.jpg](https://zh.wikipedia.org/wiki/File:Cross_Days_Manga_cover.jpg "fig:Cross_Days_Manga_cover.jpg")
 
-0verflow在2010年4月4日宣布將會於同年4月26日由[角川書店出版的](../Page/角川書店.md "wikilink")《[月刊Comp
+0verflow在2010年4月4日宣布將會於同年4月26日由[角川書店](../Page/角川書店.md "wikilink")出版的《[月刊Comp
 Ace](../Page/月刊Comp_Ace.md "wikilink")》6月號上連載《Cross
 Days》的系列漫畫，分別由負責劇情安排以及負責故事繪製\[90\]，並且一直持續連載到2010年8月的7月號為止\[91\]。其中《Cross
 Days》的漫畫故事參考了遊戲的劇情內容\[92\]\[93\]，不過有關勇氣與路夏相遇的部分則與原本遊戲內容有所不同，並且在許多劇情安排上亦是獨自安排故事走向\[94\]\[95\]。而之後有關單行本的販售部分，則是由隸屬於角川書店的分別在2010年11月26日與2011年6月25日出版第一卷和第二卷\[96\]\[97\]\[98\]\[99\]。
 
 而除​​了漫畫之外《Cross
 Days》還出版了其他類型的出版作品，這包括有2本遊戲指南暨插畫集以及1篇[單篇小說和](https://zh.wikipedia.org/wiki/單篇 "wikilink")3部輕小說作品\[100\]。其中兩本公式導覽書主要是由0verflow的人物設計負責企劃，其中在2010年8月時由[電影旬報社出版了](https://zh.wikipedia.org/wiki/電影旬報社 "wikilink")《Cross
-Days公式視覺寫真書》（）\[101\]\[102\]\[103\]，內容主要包含有遊戲本篇介紹、攻略以及官方插畫等\[104\]\[105\]\[106\]。而在稍早之前的2010年7月時[JIVE則是出版了](../Page/JIVE.md "wikilink")《Cross
+Days公式視覺寫真書》（）\[101\]\[102\]\[103\]，內容主要包含有遊戲本篇介紹、攻略以及官方插畫等\[104\]\[105\]\[106\]。而在稍早之前的2010年7月時[JIVE](../Page/JIVE.md "wikilink")則是出版了《Cross
 Days 桂言葉作品畫集》（）\[107\]\[108\]，內容收錄了《School Days》、《Summer Days》和《Cross
 Days》中有關桂言葉的人物插畫以及角色設定\[109\]\[110\]\[111\]。
 
-而儘管3本小說是由不同的作家所撰寫，但是其書籍封面以及內頁插圖都是分別交由後藤潤二以及負責繪製。其中最早是2010年9月15日時由[水碕睦月編寫](https://zh.wikipedia.org/wiki/水碕睦月 "wikilink")、[HARVEST出版社出版的](../Page/HARVEST出版.md "wikilink")《Cross
-Days》，故事內容同時以勇氣以及路夏的觀點描述事件\[112\]\[113\]；而雖然在劇情一開頭處採用了與遊戲相同的內容，但是到了故事中間以後則是另外獨立創作的內容\[114\]。之後[集英社的](../Page/集英社.md "wikilink")[Super
+而儘管3本小說是由不同的作家所撰寫，但是其書籍封面以及內頁插圖都是分別交由後藤潤二以及負責繪製。其中最早是2010年9月15日時由[水碕睦月編寫](https://zh.wikipedia.org/wiki/水碕睦月 "wikilink")、[HARVEST出版](../Page/HARVEST出版.md "wikilink")社出版的《Cross
+Days》，故事內容同時以勇氣以及路夏的觀點描述事件\[112\]\[113\]；而雖然在劇情一開頭處採用了與遊戲相同的內容，但是到了故事中間以後則是另外獨立創作的內容\[114\]。之後[集英社](../Page/集英社.md "wikilink")的[Super
 Dash文庫則是在](../Page/Super_Dash文庫.md "wikilink")2010年10月22日時推出了創作的《Cross
 Days
 ～交織的謊言、重疊的思念～》（）\[115\]\[116\]，內容則是參考了遊戲並分別以勇氣和路夏的觀點描述兩人彼此誤會的過程\[117\]\[118\]\[119\]\[120\]。最後則是由在2010年10月29日發售、由神樂陽子撰寫的《Cross
@@ -142,16 +142,16 @@ Days》則是在《[BugBug](../Page/BugBug.md "wikilink")》2009年5月號電腦
 
 ### 廣播劇
 
-2009年1月8日時，0verflow宣布從當天開始將在隸屬於的[音泉上播放每週一次網路電臺節目](../Page/音泉.md "wikilink")《[Radio
+2009年1月8日時，0verflow宣布從當天開始將在隸屬於的[音泉](../Page/音泉.md "wikilink")上播放每週一次網路電臺節目《[Radio
 Cross
-Days](https://zh.wikipedia.org/wiki/Radio_Cross_Days "wikilink")》\[129\]；之後節目定期於每週四進行播出，並且到2010年3月25日為止一共播放了64回\[130\]\[131\]。其中分別由飾演喜連川路夏、[遠野Soyogi飾演桂言葉以及](../Page/遠野Soyogi.md "wikilink")[柚木Kaname飾演西園寺世界](../Page/柚木Kaname.md "wikilink")，而廣播的內容除了有以遊戲角色的觀點回答有關遊戲的問題與日常生活外，還穿插有包括介紹聽眾對於電臺感想的「來信」（）、商談戀愛上所發生之誤會與麻煩的「差異諮詢俱樂部」（）以及有關三人個性以及害羞事件之反映並且即興演出的「」等節目，另外在2009年6月11日與6月18日時也曾邀請到甘露寺七海的聲優[藤村美緒參與節目訪談](https://zh.wikipedia.org/wiki/藤村美緒 "wikilink")\[132\]\[133\]。
+Days](https://zh.wikipedia.org/wiki/Radio_Cross_Days "wikilink")》\[129\]；之後節目定期於每週四進行播出，並且到2010年3月25日為止一共播放了64回\[130\]\[131\]。其中分別由飾演喜連川路夏、[遠野Soyogi](../Page/遠野Soyogi.md "wikilink")飾演桂言葉以及[柚木Kaname](../Page/柚木Kaname.md "wikilink")飾演西園寺世界，而廣播的內容除了有以遊戲角色的觀點回答有關遊戲的問題與日常生活外，還穿插有包括介紹聽眾對於電臺感想的「來信」（）、商談戀愛上所發生之誤會與麻煩的「差異諮詢俱樂部」（）以及有關三人個性以及害羞事件之反映並且即興演出的「」等節目，另外在2009年6月11日與6月18日時也曾邀請到甘露寺七海的聲優[藤村美緒參與節目訪談](https://zh.wikipedia.org/wiki/藤村美緒 "wikilink")\[132\]\[133\]。
 
 其中0verflow原本計畫在《Cross
 Days》電腦版本推出前先藉由網路電臺的方式進行推廣，因此一開始原本計畫僅錄製8回的內容；但是隨著作為宣傳對象《Cross
 Days》電腦版本發售日期不斷往後延的影響，使得《Radio Cross
 Days》的播出期間便拉長至1年之久，一直到確認將是最後一次發售日期延期後0verflow才在《Radio
 Cross
-Days》上發表最終回的預告。之後有關廣播劇CD的製作則交由[Lantis負責](../Page/Lantis.md "wikilink")，而這也是第二次以及最後一次替遊戲作品剪輯廣播劇內容\[134\]。之後64回的《Radio
+Days》上發表最終回的預告。之後有關廣播劇CD的製作則交由[Lantis](../Page/Lantis.md "wikilink")負責，而這也是第二次以及最後一次替遊戲作品剪輯廣播劇內容\[134\]。之後64回的《Radio
 Cross
 Days》則分成兩片各自收錄有32回的CD之中\[135\]\[136\]\[137\]\[138\]，並且分別在2010年6月23日和7月21日推出第一部《Radio
 Cross Days CD Vol.1 〜十字·少女·日子〜》（）和第二部《Radio Cross Days CD Vol.1
@@ -163,7 +163,7 @@ Cross Days CD Vol.1 〜十字·少女·日子〜》（）和第二部《Radio Cr
 Days》推出前花費相當多的努力在宣傳和推廣事務上\[142\]\[143\]\[144\]，其中也包括有《Cross
 Days》系列品牌商品的推出與銷售\[145\]\[146\]\[147\]，並且亦會以公司的名義在[Comic
 Market或者是](../Page/Comic_Market.md "wikilink")等動漫展覽上販售商品\[148\]\[149\]\[150\]\[151\]\[152\]。而除了《Cross
-Days》視覺小說限量版本中所附贈的「言葉大人」[人形外](https://zh.wikipedia.org/wiki/人形 "wikilink")\[153\]\[154\]\[155\]，0verflow還曾推出1/8比例大小的桂言葉手辦以及比例大小的西園寺世界等人物模型\[156\]\[157\]\[158\]\[159\]\[160\]。此外0verflow也與其他廠商合作\[161\]，陸陸續續推出了電話卡\[162\]\[163\]、[掛軸](../Page/掛軸.md "wikilink")\[164\]\[165\]\[166\]\[167\]\[168\]、[Zippo打火機](../Page/Zippo.md "wikilink")\[169\]\[170\]\[171\]\[172\]、滑鼠墊\[173\]\[174\]\[175\]\[176\]\[177\]、床單\[178\]\[179\]\[180\]、浴簾以及[抱枕等商品](https://zh.wikipedia.org/wiki/抱枕 "wikilink")\[181\]\[182\]\[183\]\[184\]\[185\]。
+Days》視覺小說限量版本中所附贈的「言葉大人」[人形外](https://zh.wikipedia.org/wiki/人形 "wikilink")\[153\]\[154\]\[155\]，0verflow還曾推出1/8比例大小的桂言葉手辦以及比例大小的西園寺世界等人物模型\[156\]\[157\]\[158\]\[159\]\[160\]。此外0verflow也與其他廠商合作\[161\]，陸陸續續推出了電話卡\[162\]\[163\]、[掛軸](../Page/掛軸.md "wikilink")\[164\]\[165\]\[166\]\[167\]\[168\]、[Zippo](../Page/Zippo.md "wikilink")打火機\[169\]\[170\]\[171\]\[172\]、滑鼠墊\[173\]\[174\]\[175\]\[176\]\[177\]、床單\[178\]\[179\]\[180\]、浴簾以及[抱枕等商品](https://zh.wikipedia.org/wiki/抱枕 "wikilink")\[181\]\[182\]\[183\]\[184\]\[185\]。
 
 ## 音樂
 
@@ -172,9 +172,9 @@ Days》的遊戲原聲[音樂專輯](../Page/音樂專輯.md "wikilink")《Cross
 ThemeSongs+OriginalSoundTrack》，也因此最早將原聲專輯的推出訂在2009年2月27日。儘管在第一版專輯製作完成時遊戲發售日期後卻決定延期，0verflow仍然計畫在推出再版專輯光碟並且將銷售日期訂在6月26日。但是在遊戲第二度延期後有關配樂CD的銷售計畫便被無限期推延，在經過六度遊戲延期之後0verflow才在2010年4月16日時宣布將在4月21日發售原聲專輯\[186\]\[187\]\[188\]\[189\]。在《Cross
 Days ThemeSongs+OriginalSoundTrack》中收錄了共計25首《Cross
 Days》遊戲裡出現的主題曲以及背景音樂\[190\]\[191\]\[192\]，其中包括有由[KIRIKO演唱的片頭主題曲](https://zh.wikipedia.org/wiki/KIRIKO/HIKO_sound "wikilink")《First
-Note》（）\[193\]、[Ceui演唱的插入曲](../Page/Ceui.md "wikilink")《Eternal
-Flow》、[yozuca\*演唱的片尾主題曲](https://zh.wikipedia.org/wiki/yozuca* "wikilink")《一顆星》（）、[理多演唱的](../Page/理多.md "wikilink")《be
-there》、[茶太演唱的](../Page/茶太.md "wikilink")《timeless
+Note》（）\[193\]、[Ceui](../Page/Ceui.md "wikilink")演唱的插入曲《Eternal
+Flow》、[yozuca\*演唱的片尾主題曲](https://zh.wikipedia.org/wiki/yozuca* "wikilink")《一顆星》（）、[理多](../Page/理多.md "wikilink")演唱的《be
+there》、[茶太](../Page/茶太.md "wikilink")演唱的《timeless
 melody》以及演唱的《沙漏》（）\[194\]。
 
 ## 影響
@@ -190,8 +190,8 @@ Edition》，則是在這期間成為通用媒體光碟遊戲銷售排行榜的�
 
 ### 木馬問題
 
-2010年4月15日時，[BBC新聞報導表示新品種的電腦病毒](https://zh.wikipedia.org/wiki/BBC新聞 "wikilink")被隱藏在於[對等網路上流傳的盜版色情遊戲中傳播](../Page/對等網路.md "wikilink")\[201\]，而根據軟體開發公司SPAMfighter表示受到影響的遊戲包括在一個月前發售的《Cross
-Days》\[202\]\[203\]。在許多報告中將Kenzero列為[惡意勒索程式的一種](https://zh.wikipedia.org/wiki/惡意勒索程式 "wikilink")，其主要運作方式為誘騙用戶安裝病毒並且要求提供個人資料\[204\]，隨後則是將所有網路歷史紀錄公開在[空殼公司Romancing的部落格上給其他人士自由查閱](../Page/空殼公司.md "wikilink")\[205\]\[206\]\[207\]\[208\]。財產權公司NetAgent則表示至少有5,510人的電腦設備集體感染病毒\[209\]\[210\]，同時絕大部分因為試圖非法下載遊戲的用戶亦強烈希望能夠將個人資料刪除，但這也意味著這些用戶必須承認自己使用了盜版軟體\[211\]。不過SPAMfighter也特別提到，有關這次特洛伊木馬侵入性「其實也解釋了（軟體的）[終端使用者許可協定](https://zh.wikipedia.org/wiki/終端使用者許可協定 "wikilink")」\[212\]。
+2010年4月15日時，[BBC新聞報導表示新品種的電腦病毒](https://zh.wikipedia.org/wiki/BBC新聞 "wikilink")被隱藏在於[對等網路](../Page/對等網路.md "wikilink")上流傳的盜版色情遊戲中傳播\[201\]，而根據軟體開發公司SPAMfighter表示受到影響的遊戲包括在一個月前發售的《Cross
+Days》\[202\]\[203\]。在許多報告中將Kenzero列為[惡意勒索程式的一種](https://zh.wikipedia.org/wiki/惡意勒索程式 "wikilink")，其主要運作方式為誘騙用戶安裝病毒並且要求提供個人資料\[204\]，隨後則是將所有網路歷史紀錄公開在[空殼公司](../Page/空殼公司.md "wikilink")Romancing的部落格上給其他人士自由查閱\[205\]\[206\]\[207\]\[208\]。財產權公司NetAgent則表示至少有5,510人的電腦設備集體感染病毒\[209\]\[210\]，同時絕大部分因為試圖非法下載遊戲的用戶亦強烈希望能夠將個人資料刪除，但這也意味著這些用戶必須承認自己使用了盜版軟體\[211\]。不過SPAMfighter也特別提到，有關這次特洛伊木馬侵入性「其實也解釋了（軟體的）[終端使用者許可協定](https://zh.wikipedia.org/wiki/終端使用者許可協定 "wikilink")」\[212\]。
 
 ## 註釋
 
@@ -245,7 +245,7 @@ Days》\[202\]\[203\]。在許多報告中將Kenzero列為[惡意勒索程式的
 
 9.  《Cross Days》的遊戲引擎除了用於自身外，0verflow還拿來使用在2010年10月8日發售的《[School Days
     HQ](../Page/School_Days.md "wikilink")》以及2012年4月27日發售的《[SHINY
-    DAYS](../Page/Summer_Days.md "wikilink")》上，另外新的遊戲引擎亦可以對應過去作品的[重製版本](../Page/重製.md "wikilink")。
+    DAYS](../Page/Summer_Days.md "wikilink")》上，另外新的遊戲引擎亦可以對應過去作品的[重製](../Page/重製.md "wikilink")版本。
 
 10.
 

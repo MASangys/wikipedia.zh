@@ -4,7 +4,7 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Stargate_SG-1_SG_team_Dragon_Con_2008_cropped.jpg "fig:缩略图")
 《**星際之門：SG-1**》（**Stargate
 SG-1**）是一部於1997年至2007年播映的[美国](../Page/美国.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")，故事以1994年的科幻電影《[星際之門](../Page/星際之門_\(電影\).md "wikilink")》（*Stargate*，由[狄恩·德夫林](https://zh.wikipedia.org/wiki/狄恩·德夫林 "wikilink")／Dean
-Devlin及[羅蘭·艾默瑞奇編劇](../Page/羅蘭·艾默瑞奇.md "wikilink")，艾默里奇導演）為基礎，講述電影完結後的故事，屬《[星際之門](https://zh.wikipedia.org/wiki/星際之門 "wikilink")》系列中的第二篇。
+Devlin及[羅蘭·艾默瑞奇](../Page/羅蘭·艾默瑞奇.md "wikilink")編劇，艾默里奇導演）為基礎，講述電影完結後的故事，屬《[星際之門](https://zh.wikipedia.org/wiki/星際之門 "wikilink")》系列中的第二篇。
 
 该电视剧由[布萊德·賴特](https://zh.wikipedia.org/wiki/布萊德·賴特 "wikilink")（Brad
 Wright）与[喬傑森·格拉斯纳](https://zh.wikipedia.org/wiki/喬傑森·格拉斯纳 "wikilink")（Jonathan
@@ -19,7 +19,7 @@ SG-1以播映时间最长的连续科幻剧集被载入[吉尼斯世界纪录](.
 ## 劇情
 
 [Milky_way_stargate_with_very_detailed_glyphs2.svg](https://zh.wikipedia.org/wiki/File:Milky_way_stargate_with_very_detailed_glyphs2.svg "fig:Milky_way_stargate_with_very_detailed_glyphs2.svg")
-剧集設在原作电影中的事件之后，開頭時講述在整體的內部編年中，時間離電影結尾只過了一年，期間因有敌人嘗試通过星门攻击地球，[美国空军发现他们在电影中想法是錯誤的](../Page/美国空军.md "wikilink")，[拉](https://zh.wikipedia.org/wiki/拉_\(星門\) "wikilink")（[Ra](https://zh.wikipedia.org/wiki/:en:Goa'uld_characters_in_Stargate#Ra "wikilink")）並不是最后的一隻[寄生蟲](https://zh.wikipedia.org/wiki/寄生蟲_\(星門\) "wikilink")（[Goa'uld](https://zh.wikipedia.org/wiki/:en:Goa'uld "wikilink")）。新近成立的[星门总部](https://zh.wikipedia.org/wiki/星门总部 "wikilink")（[SGC](https://zh.wikipedia.org/wiki/:en:Stargate_Command "wikilink")）只好派出[第一支探险队](https://zh.wikipedia.org/wiki/星門一隊 "wikilink")（[SG-1](https://zh.wikipedia.org/wiki/:en:SG-1 "wikilink")）來繼續探險以獲取情報，看看有甚麼方法來徹底打敗敵人。这个剧集在电影上扩展，创造了一个完全而又丰富的[宇宙和一个强大的重现演员表](https://zh.wikipedia.org/wiki/:en:Series_Mythology "wikilink")。
+剧集設在原作电影中的事件之后，開頭時講述在整體的內部編年中，時間離電影結尾只過了一年，期間因有敌人嘗試通过星门攻击地球，[美国空军](../Page/美国空军.md "wikilink")发现他们在电影中想法是錯誤的，[拉](https://zh.wikipedia.org/wiki/拉_\(星門\) "wikilink")（[Ra](https://zh.wikipedia.org/wiki/:en:Goa'uld_characters_in_Stargate#Ra "wikilink")）並不是最后的一隻[寄生蟲](https://zh.wikipedia.org/wiki/寄生蟲_\(星門\) "wikilink")（[Goa'uld](https://zh.wikipedia.org/wiki/:en:Goa'uld "wikilink")）。新近成立的[星门总部](https://zh.wikipedia.org/wiki/星门总部 "wikilink")（[SGC](https://zh.wikipedia.org/wiki/:en:Stargate_Command "wikilink")）只好派出[第一支探险队](https://zh.wikipedia.org/wiki/星門一隊 "wikilink")（[SG-1](https://zh.wikipedia.org/wiki/:en:SG-1 "wikilink")）來繼續探險以獲取情報，看看有甚麼方法來徹底打敗敵人。这个剧集在电影上扩展，创造了一个完全而又丰富的[宇宙和一个强大的重现演员表](https://zh.wikipedia.org/wiki/:en:Series_Mythology "wikilink")。
 
 ## 外星角色大綱
 
@@ -50,7 +50,7 @@ Series*奖，它的演员也因为优秀的演出赢得了类似的奖项。\[6\
 ## 收視
 
 *Stargate
-SG-1*被证明很受欢迎。在6到8季间，这个剧集反复地被认为要结束，但是打分一直保持很高，这让这个剧集打破了纪录（超过''[X档案成为运行时间最长的](../Page/X档案.md "wikilink")[美国科幻剧集](../Page/美国.md "wikilink")）并进入了第十季。
+SG-1*被证明很受欢迎。在6到8季间，这个剧集反复地被认为要结束，但是打分一直保持很高，这让这个剧集打破了纪录（超过''[X档案](../Page/X档案.md "wikilink")成为运行时间最长的[美国](../Page/美国.md "wikilink")科幻剧集）并进入了第十季。
 
 在2006年8月21日，[:en:Sci Fi
 Channel频道宣布他们可能不会更新](https://zh.wikipedia.org/wiki/:en:Sci_Fi_Channel "wikilink")*Stargate

@@ -1,4 +1,4 @@
-C++程序设计允许[程序员使用](../Page/程序员.md "wikilink")**类**（class）定义特定程序中的[数据类型](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。这些数据类型的实例被称为[对象](https://zh.wikipedia.org/wiki/对象 "wikilink")，这些实例可以包含程序员定义的成员[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、[常量](https://zh.wikipedia.org/wiki/常量 "wikilink")、[成员函数](../Page/方法_\(電腦科學\).md "wikilink")，以及[重载的运算符](../Page/运算符重载.md "wikilink")。语法上，類似[C中结构体](https://zh.wikipedia.org/wiki/C程序设计语言 "wikilink")（struct）的扩展，结构体不能包含函数以及重载的运算符。
+C++程序设计允许[程序员](../Page/程序员.md "wikilink")使用**类**（class）定义特定程序中的[数据类型](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。这些数据类型的实例被称为[对象](https://zh.wikipedia.org/wiki/对象 "wikilink")，这些实例可以包含程序员定义的成员[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、[常量](https://zh.wikipedia.org/wiki/常量 "wikilink")、[成员函数](../Page/方法_\(電腦科學\).md "wikilink")，以及[重载的运算符](../Page/运算符重载.md "wikilink")。语法上，類似[C中结构体](https://zh.wikipedia.org/wiki/C程序设计语言 "wikilink")（struct）的扩展，结构体不能包含函数以及重载的运算符。
 
 ## C 结构体与C++ 类的对比
 
@@ -209,7 +209,7 @@ class C : public P
 `↑`
 `p`
 
-因此，任何操纵`P`对象的字段的代码都可以操纵在`C`对象中的`P`字段而不需要考虑任何关于`C`字段的定义。一个正确书写的C++程序在任何情况下都不应该对被继承字段的布局有任何假定。使用static_cast或者dynamic_cast[类型转换运算符会确保指针正确的从一个类型转换为另一个](../Page/类型转换.md "wikilink")。
+因此，任何操纵`P`对象的字段的代码都可以操纵在`C`对象中的`P`字段而不需要考虑任何关于`C`字段的定义。一个正确书写的C++程序在任何情况下都不应该对被继承字段的布局有任何假定。使用static_cast或者dynamic_cast[类型转换](../Page/类型转换.md "wikilink")运算符会确保指针正确的从一个类型转换为另一个。
 
 多重继承并不那么简单。如果一个类`D`继承了`P1`和`P2`，那么两个父类的字段需要被按照某种顺序存储，但是（在大多数情况下）只有一个父类可以被放在子类的头部。每当编译器需要将一个指向`D`的指针转换为`P1`或`P2`中的任一个，编译器需要提供一个自动转换从子类的地址转换为父类字段的地址（典型地，这是一个简单的偏移量计算）。
 
@@ -219,7 +219,7 @@ class C : public P
 
 C++容許程序員重載某些運算符，目的是補充庫中未能提供的針對特定類的運算符。同理，很多時自定類也因為內建庫不能提供指定運算符而需要重載。
 
-另外，當程式設計師沒有重載或定義某些運算符時，編譯器會自動地建立它們，例如[三法則中的複製指定運算子](../Page/三法則.md "wikilink")（`=`）。
+另外，當程式設計師沒有重載或定義某些運算符時，編譯器會自動地建立它們，例如[三法則](../Page/三法則.md "wikilink")中的複製指定運算子（`=`）。
 
 依照慣例，重載運算符時應模擬運算符本身意義的功能，例如重載運算符「\*」時，程序員義務重載為兩數之乘法（或其他，視數學或程式上的意義）。另外，宣告一結構如`integer`類，當重載運算符如「\*」就要回傳`integer`類：
 
@@ -494,7 +494,7 @@ int main()
 
 ## 属性
 
-C++语法试图使一个结构的所有方面看起来像一个[基本数据类型](../Page/原始型別.md "wikilink")。因此，运算符重载允许结构像整数和浮点数一样操作，结构的[数组可以通过方括号声明](../Page/数组.md "wikilink")（`some_structure
+C++语法试图使一个结构的所有方面看起来像一个[基本数据类型](../Page/原始型別.md "wikilink")。因此，运算符重载允许结构像整数和浮点数一样操作，结构的[数组](../Page/数组.md "wikilink")可以通过方括号声明（`some_structure
 variable_name[size]`），而且指向结构的指针可以通过和指向内置类型的指针通用的方法解引用。
 
 ### 内存消耗

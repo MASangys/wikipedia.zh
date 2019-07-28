@@ -6,8 +6,8 @@
 
   - [Null (編程)是電腦程式設計的一種表示法](../Page/Null_\(編程\).md "wikilink")。
   - [空值 (SQL)](https://zh.wikipedia.org/wiki/空值_\(SQL\) "wikilink")
-    (NULL)，一个特殊标记，用于指示[数据库中不存在数据值](../Page/数据库.md "wikilink")。
-  - [空字符](../Page/空字符.md "wikilink")，是一个数值为0的[控制字符](../Page/控制字符.md "wikilink")。在许多[字符编码中都包括空字符](../Page/字符编码.md "wikilink")。
+    (NULL)，一个特殊标记，用于指示[数据库](../Page/数据库.md "wikilink")中不存在数据值。
+  - [空字符](../Page/空字符.md "wikilink")，是一个数值为0的[控制字符](../Page/控制字符.md "wikilink")。在许多[字符编码](../Page/字符编码.md "wikilink")中都包括空字符。
   - [空设备](https://zh.wikipedia.org/wiki/:/dev/null "wikilink")，是一个特殊的设备文件，它丢弃一切写入其中的数据，但报告写入操作成功，读取它则会立即得到一个EOF。
   - [空调制解调器](../Page/零调制解调器.md "wikilink")，又称零调制解调器。是一种使用一根RS-232串行电缆直接连接两个数据终端设备（而不通过调制解调器）的通信方法。
   - [空对象模式](https://zh.wikipedia.org/wiki/空对象模式 "wikilink")，一种[软件设计模式](../Page/设计模式_\(计算机\).md "wikilink")。
@@ -35,7 +35,7 @@
 ### 音乐
 
   - [The Null
-    Corporation](../Page/特倫特·雷澤諾.md "wikilink")，美國[創作歌手](../Page/創作歌手.md "wikilink")、[作曲家和](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[唱片製作人](https://zh.wikipedia.org/wiki/唱片製作人 "wikilink")，[工業搖滾乐团](../Page/工業搖滾.md "wikilink")[九寸釘樂團主唱](../Page/九寸釘樂團.md "wikilink")。
+    Corporation](../Page/特倫特·雷澤諾.md "wikilink")，美國[創作歌手](../Page/創作歌手.md "wikilink")、[作曲家和](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[唱片製作人](https://zh.wikipedia.org/wiki/唱片製作人 "wikilink")，[工業搖滾](../Page/工業搖滾.md "wikilink")乐团[九寸釘樂團](../Page/九寸釘樂團.md "wikilink")主唱。
 
 ### 其他
 

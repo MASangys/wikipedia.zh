@@ -1,4 +1,4 @@
-**卡拉OK版权费**，又称“**卡拉OK版税**”，全称为“**卡拉OK版权授权许可使用费**”。其义是指，当[量贩式KTV](https://zh.wikipedia.org/wiki/量贩式KTV "wikilink")、[酒店](../Page/酒店.md "wikilink")、[夜总会等](https://zh.wikipedia.org/wiki/夜总会 "wikilink")[卡拉OK经营场所](../Page/卡拉OK.md "wikilink")，以营利为目的使用他人音乐的时候，按照法律向音乐作者支付的版税报酬。
+**卡拉OK版权费**，又称“**卡拉OK版税**”，全称为“**卡拉OK版权授权许可使用费**”。其义是指，当[量贩式KTV](https://zh.wikipedia.org/wiki/量贩式KTV "wikilink")、[酒店](../Page/酒店.md "wikilink")、[夜总会等](https://zh.wikipedia.org/wiki/夜总会 "wikilink")[卡拉OK](../Page/卡拉OK.md "wikilink")经营场所，以营利为目的使用他人音乐的时候，按照法律向音乐作者支付的版税报酬。
 
 ## 形成原因
 
@@ -10,9 +10,9 @@
 
 ## 社会影响
 
-在中国大陆，2009年1月9日，由[北京大学新闻与传播学院](../Page/北京大学.md "wikilink")、《中国知识产权报道年度观察》课题组联合评选的2008年“中国知识产权十大新闻”揭晓。由中国音像著作权集体管理协会发起的“卡拉OK音乐版权集中维权”事件，赫然上榜，与“[番茄花园](https://zh.wikipedia.org/wiki/番茄花园 "wikilink")”盗版案、[奥运](https://zh.wikipedia.org/wiki/奥运 "wikilink")[知识产权保护事件齐名](../Page/知识产权.md "wikilink")。
+在中国大陆，2009年1月9日，由[北京大学](../Page/北京大学.md "wikilink")新闻与传播学院、《中国知识产权报道年度观察》课题组联合评选的2008年“中国知识产权十大新闻”揭晓。由中国音像著作权集体管理协会发起的“卡拉OK音乐版权集中维权”事件，赫然上榜，与“[番茄花园](https://zh.wikipedia.org/wiki/番茄花园 "wikilink")”盗版案、[奥运](https://zh.wikipedia.org/wiki/奥运 "wikilink")[知识产权](../Page/知识产权.md "wikilink")保护事件齐名。
 
-为避免中国大地上再次发生“[唱片公司群起诉讼KTV](../Page/唱片公司.md "wikilink")”的江湖混战现象，[中国音像著作权集体管理协会于](https://zh.wikipedia.org/wiki/中国音像著作权集体管理协会 "wikilink")2008年正式成立。从此，卡拉OK经营者在支付版权使用费后，将会得到[中国音像著作权集体管理协会颁发的版权使用许可证](https://zh.wikipedia.org/wiki/中国音像著作权集体管理协会 "wikilink")，合法使用协会管理的全球[音乐作品](https://zh.wikipedia.org/wiki/音乐作品 "wikilink")、[音像作品和](https://zh.wikipedia.org/wiki/音像作品 "wikilink")[音像制品](https://zh.wikipedia.org/wiki/音像制品 "wikilink")，避免著作权方面的法律纠纷。
+为避免中国大地上再次发生“[唱片公司](../Page/唱片公司.md "wikilink")群起诉讼KTV”的江湖混战现象，[中国音像著作权集体管理协会于](https://zh.wikipedia.org/wiki/中国音像著作权集体管理协会 "wikilink")2008年正式成立。从此，卡拉OK经营者在支付版权使用费后，将会得到[中国音像著作权集体管理协会颁发的版权使用许可证](https://zh.wikipedia.org/wiki/中国音像著作权集体管理协会 "wikilink")，合法使用协会管理的全球[音乐作品](https://zh.wikipedia.org/wiki/音乐作品 "wikilink")、[音像作品和](https://zh.wikipedia.org/wiki/音像作品 "wikilink")[音像制品](https://zh.wikipedia.org/wiki/音像制品 "wikilink")，避免著作权方面的法律纠纷。
 
 卡拉OK经营者在支付卡拉OK版权使用费后，[中国音像著作权集体管理协会将负责解决其所管理的音乐作品](https://zh.wikipedia.org/wiki/中国音像著作权集体管理协会 "wikilink")、音像作品、音像制品的权利，卡拉OK经营者在按约定支付卡拉OK版权使用费期间内如遇到版权纠纷，协会将协调解决。　　
 

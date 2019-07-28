@@ -42,7 +42,7 @@
 
   - 2015年7月12日－7月19日：MBC《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
   - 2015年7月28日、8月11日：JTBC《[百人百曲-走到最後](../Page/百人百曲-走到最後.md "wikilink")》
-  - 2015年10月17日：JTBC《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》（[閔庚勳篇](../Page/閔庚勳.md "wikilink")）
+  - 2015年10月17日：JTBC《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》（[閔庚勳](../Page/閔庚勳.md "wikilink")篇）
   - 2015年10月24日－11月7日：KBS《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》
   - 2016年2月7日－2月14日：MBC《神秘音樂秀：蒙面歌王》
   - 2016年6月17日：MBC《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》

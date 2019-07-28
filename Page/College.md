@@ -1,8 +1,8 @@
-**《College》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢的第四張個人專輯](../Page/周國賢.md "wikilink")，同時亦為首張新曲加精選專輯，於2009年6月23日發行。
+**《College》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的第四張個人專輯，同時亦為首張新曲加精選專輯，於2009年6月23日發行。
 
 ## 專輯介紹
 
-收錄周國賢近五年來的九首音樂作品及六首新曲。[陳輝陽](../Page/陳輝陽.md "wikilink")、[林若寧](../Page/林若寧.md "wikilink")、[藍奕邦](../Page/藍奕邦.md "wikilink")、[舒文](../Page/舒文.md "wikilink")、[梁柏堅](https://zh.wikipedia.org/wiki/梁柏堅 "wikilink")、[林健華等音樂人參與製作](../Page/林健華.md "wikilink")。MV有灰色小飛俠、赤城千葉、密封罩、黑眼圈。
+收錄周國賢近五年來的九首音樂作品及六首新曲。[陳輝陽](../Page/陳輝陽.md "wikilink")、[林若寧](../Page/林若寧.md "wikilink")、[藍奕邦](../Page/藍奕邦.md "wikilink")、[舒文](../Page/舒文.md "wikilink")、[梁柏堅](https://zh.wikipedia.org/wiki/梁柏堅 "wikilink")、[林健華](../Page/林健華.md "wikilink")等音樂人參與製作。MV有灰色小飛俠、赤城千葉、密封罩、黑眼圈。
 
 ## 曲目
 
@@ -22,7 +22,7 @@
 | 11 | 不敵    | 周國賢                              | 周國賢                                                     | 周國賢                                | 周國賢、林健華                                                               |                                                                                                                                                                           |
 | 12 | 漢城沉沒了 | 周國賢                              | 黃偉文                                                     | 周國賢                                | 周國賢、林健華、崔炎德                                                           |                                                                                                                                                                           |
 | 13 | 極樂    | 周國賢                              | 周國賢、黃偉文                                                 | 周國賢、林健華                            | 周國賢、林健華                                                               | [Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")「E680I」 廣告宣傳歌曲。                                                                                              |
-| 14 | 飛     | 周國賢                              | 周國賢                                                     | 周國賢                                | 周國賢、林健華                                                               | 《[十年百聞新聞片段紀念專輯](https://zh.wikipedia.org/wiki/十年百聞新聞片段紀念專輯 "wikilink")》主題曲 ，[華納唱片與](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")[亞洲電視聯合製作](../Page/亞洲電視.md "wikilink")。 |
+| 14 | 飛     | 周國賢                              | 周國賢                                                     | 周國賢                                | 周國賢、林健華                                                               | 《[十年百聞新聞片段紀念專輯](https://zh.wikipedia.org/wiki/十年百聞新聞片段紀念專輯 "wikilink")》主題曲 ，[華納唱片與](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")聯合製作。 |
 |    |       |                                  |                                                         |                                    |                                                                       |                                                                                                                                                                           |
 
 ## 派台歌成續

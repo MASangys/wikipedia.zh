@@ -1,6 +1,6 @@
-是一部於2009年出品的[香港警匪片](../Page/香港.md "wikilink")，此電影由[邵氏兄弟(香港)有限公司與](../Page/邵氏兄弟.md "wikilink")[香港](../Page/香港.md "wikilink")[電視廣播有限公司合作攝製](../Page/電視廣播有限公司.md "wikilink")，由[邱禮濤擔任執導](../Page/邱禮濤.md "wikilink")，以及由[謝天華](../Page/謝天華.md "wikilink")、[黃秋生](../Page/黃秋生.md "wikilink")、[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[黃日華](../Page/黃日華.md "wikilink")、[陳法拉和](../Page/陳法拉.md "wikilink")[黎耀祥擔任演出](../Page/黎耀祥.md "wikilink")。
+是一部於2009年出品的[香港](../Page/香港.md "wikilink")警匪片，此電影由[邵氏兄弟](../Page/邵氏兄弟.md "wikilink")(香港)有限公司與[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")合作攝製，由[邱禮濤](../Page/邱禮濤.md "wikilink")擔任執導，以及由[謝天華](../Page/謝天華.md "wikilink")、[黃秋生](../Page/黃秋生.md "wikilink")、[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[黃日華](../Page/黃日華.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")和[黎耀祥](../Page/黎耀祥.md "wikilink")擔任演出。
 
-由於[謝天華在](../Page/謝天華.md "wikilink")[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》所飾演的[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[梁笑棠](https://zh.wikipedia.org/wiki/梁笑棠 "wikilink")（[Laughing哥](../Page/Laughing哥.md "wikilink")）大受歡迎，電視廣播有限公司為了徇眾要求，電視廣播有限公司電視廣播業務總經理[陳志雲於](../Page/陳志雲.md "wikilink")2009年4月1日（[愚人節](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）在[無綫生活台節目](https://zh.wikipedia.org/wiki/無綫生活台 "wikilink")《[志雲飯局](../Page/志雲飯局.md "wikilink")》訪問[謝天華的錄影探班上宣佈開拍](../Page/謝天華.md "wikilink")《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》第一部[衍生作品](../Page/衍生作品.md "wikilink")，此衍生作品為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，同年5月開拍，同年8月8日首映，同年8月13日上映。
+由於[謝天華](../Page/謝天華.md "wikilink")在[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》所飾演的[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[梁笑棠](https://zh.wikipedia.org/wiki/梁笑棠 "wikilink")（[Laughing哥](../Page/Laughing哥.md "wikilink")）大受歡迎，電視廣播有限公司為了徇眾要求，電視廣播有限公司電視廣播業務總經理[陳志雲](../Page/陳志雲.md "wikilink")於2009年4月1日（[愚人節](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）在[無綫生活台節目](https://zh.wikipedia.org/wiki/無綫生活台 "wikilink")《[志雲飯局](../Page/志雲飯局.md "wikilink")》訪問[謝天華](../Page/謝天華.md "wikilink")的錄影探班上宣佈開拍《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》第一部[衍生作品](../Page/衍生作品.md "wikilink")，此衍生作品為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，同年5月開拍，同年8月8日首映，同年8月13日上映。
 
 ## 演員表
 
@@ -284,7 +284,7 @@ Laughing哥之教官</p></td>
   - 2009年5月13日：此電影於11:00在將軍澳電視廣播城秘密試造型。
   - 2009年5月27日：此電影於14:00在將軍澳電視廣播城廣播大樓二樓空中花園舉行開鏡拜神。
   - 2009年6月8日：TVB宣佈[黎桐康於角色招募中勝出](https://zh.wikipedia.org/wiki/黎桐康 "wikilink")，將會飾演一名殺手。
-  - 2011年10月8日：此電影於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台首播](../Page/高清翡翠台.md "wikilink")，翌日起於[myTV提供](https://zh.wikipedia.org/wiki/myTV "wikilink")30日重溫，為myTV首套電影。
+  - 2011年10月8日：此電影於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")首播，翌日起於[myTV提供](https://zh.wikipedia.org/wiki/myTV "wikilink")30日重溫，為myTV首套電影。
 
 ## 參考資料
 

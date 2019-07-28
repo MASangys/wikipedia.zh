@@ -8,7 +8,7 @@ portfolio”的同时禁止将之用于其他游戏\[2\]。
 
 《Warsow》已被[ESL等电子竞技相关组织纳为比赛项目](https://zh.wikipedia.org/wiki/Electronic_Sports_League "wikilink")，\[3\]\[4\]\[5\]\[6\]且也在许多游戏竞赛中出现，著名的有欧洲的*Bamboocha*\[7\]与日本的*ESW
 :
-WARSOW*。\[8\]除此以外，2007年间还举办了一些以Warsow为主要项目的[局域网内竞赛](../Page/局域网.md "wikilink")，如Crossfire
+WARSOW*。\[8\]除此以外，2007年间还举办了一些以Warsow为主要项目的[局域网](../Page/局域网.md "wikilink")内竞赛，如Crossfire
 Devotii Challenge 3、\[9\]Warsow.nl LAN\[10\]与E-SPORTS STADIUM
 2007.\[11\]
 
@@ -21,7 +21,7 @@ TV](https://zh.wikipedia.org/wiki/Pay_TV "wikilink")
 
 ## 玩法
 
-《Warsow》是极富挑战性的游戏，注重快速移动和跳跃技巧（trickjump）。\[13\]《Warsow》中可以使用[雷神之锤系列中的一些跳跃技巧](../Page/雷神之锤系列.md "wikilink")，如环跳、兔子蹦、、超级跳、斜坡滑行与火箭跳。此外，在《Warsow》中还可像[Urban
+《Warsow》是极富挑战性的游戏，注重快速移动和跳跃技巧（trickjump）。\[13\]《Warsow》中可以使用[雷神之锤系列](../Page/雷神之锤系列.md "wikilink")中的一些跳跃技巧，如环跳、兔子蹦、、超级跳、斜坡滑行与火箭跳。此外，在《Warsow》中还可像[Urban
 Terror里一样利用加速模式发动](../Page/Urban_Terror.md "wikilink")[蹬墙跳](https://zh.wikipedia.org/wiki/三角跳 "wikilink")。
 
 ## 模式

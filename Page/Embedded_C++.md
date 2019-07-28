@@ -1,5 +1,5 @@
 **Embedded
-C++**是[嵌入式系统上使用的一种](../Page/嵌入式系统.md "wikilink")[C++方言](../Page/C++.md "wikilink")，由日本[CPU大廠](https://zh.wikipedia.org/wiki/CPU "wikilink")[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[日立](../Page/日立製作所.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[东芝于](../Page/东芝.md "wikilink")1996年提出，也可以缩写作**EC++**。提出这一方言的目的\[1\]是在保持C++语言[面向对象特性的同时](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，尽可能减小代码、提升执行效率、简化[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
+C++**是[嵌入式系统](../Page/嵌入式系统.md "wikilink")上使用的一种[C++](../Page/C++.md "wikilink")方言，由日本[CPU大廠](https://zh.wikipedia.org/wiki/CPU "wikilink")[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[日立](../Page/日立製作所.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[东芝](../Page/东芝.md "wikilink")于1996年提出，也可以缩写作**EC++**。提出这一方言的目的\[1\]是在保持C++语言[面向对象特性的同时](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，尽可能减小代码、提升执行效率、简化[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
 
 Embedded C++ 是C++的子集合。有某些C++的特性被移除：
 

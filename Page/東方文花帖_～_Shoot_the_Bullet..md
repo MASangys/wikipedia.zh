@@ -1,5 +1,5 @@
 [Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg")
-是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團製作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
+是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
 
 ## 概要
 
@@ -7,7 +7,7 @@
 Market](../Page/Comic_Market.md "wikilink")
 69正式售賣，而[委託販賣則在](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")2006年2月24日開始。本作是作為[書籍作品](https://zh.wikipedia.org/wiki/書籍 "wikilink")《[東方文花帖
 ～ Bohemian Archive in Japanese
-Red.](https://zh.wikipedia.org/wiki/東方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")》的遊戲部分。雖然作者[ZUN是預定將本作收錄在書籍的CD](../Page/ZUN.md "wikilink")-ROM部分，可是由於製作時間上的問題，所以被迫分開推出。在本作中，過往的大部分登場了的角色都會作為敵人出場，自機只有在書籍《文花帖》和遊戲《[花映塚](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")》中有出現過的「[射命丸文](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")（[鴉天狗](https://zh.wikipedia.org/wiki/鴉天狗 "wikilink")）」。雖然本作是一隻[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，但與一般的不同，自機沒有任何的攻擊手段，遊戲規則是「只要拍得一定數量的照片便能過關」。故事模式的10個等級加上Extra模式，共有11個等級的敵人可供挑戰。
+Red.](https://zh.wikipedia.org/wiki/東方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")》的遊戲部分。雖然作者[ZUN](../Page/ZUN.md "wikilink")是預定將本作收錄在書籍的CD-ROM部分，可是由於製作時間上的問題，所以被迫分開推出。在本作中，過往的大部分登場了的角色都會作為敵人出場，自機只有在書籍《文花帖》和遊戲《[花映塚](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")》中有出現過的「[射命丸文](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")（[鴉天狗](https://zh.wikipedia.org/wiki/鴉天狗 "wikilink")）」。雖然本作是一隻[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，但與一般的不同，自機沒有任何的攻擊手段，遊戲規則是「只要拍得一定數量的照片便能過關」。故事模式的10個等級加上Extra模式，共有11個等級的敵人可供挑戰。
 
 在遊戲推出初期，內容並未完善。作者在隨後先後發佈了不同的更新檔供下載。在ver1.01a的更新檔中，宣佈將會追加稱為「號外1」的額外關卡，並表示日後會追加更多的內容關卡\[1\]。可是在2006年前半，一直都不見作者追加，使得支持者們去信[電郵詢問](https://zh.wikipedia.org/wiki/電郵 "wikilink")，作者對此表示會在夏季Comic
 Market後著手開發\[2\]。到了10月，由於作者宣佈正進行新作的開發\[3\]，所以最後追加額外關卡的計劃一直都沒有實現。直至2010年3月3日，作者才宣佈推出文花帖第二彈「」\[4\]。
@@ -62,7 +62,7 @@ Market後著手開發\[2\]。到了10月，由於作者宣佈正進行新作的�
 
 ## 登場角色
 
-值得一提的是，東方Project的主角[博麗靈夢和](../Page/博麗靈夢.md "wikilink")[霧雨魔理沙並無在本作登場](../Page/霧雨魔理沙.md "wikilink")，只有在遊戲附屬的資料中出現。
+值得一提的是，東方Project的主角[博麗靈夢](../Page/博麗靈夢.md "wikilink")和[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")並無在本作登場，只有在遊戲附屬的資料中出現。
 
 ### 自機角色
 

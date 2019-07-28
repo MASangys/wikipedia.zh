@@ -1,10 +1,10 @@
-**日產Rogue**是[日產汽車於](../Page/日產汽車.md "wikilink")2007年10月發表\[1\]，2008年上市的小型跨界[SUV車款](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，Nissan
+**日產Rogue**是[日產汽車](../Page/日產汽車.md "wikilink")於2007年10月發表\[1\]，2008年上市的小型跨界[SUV車款](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，Nissan
 Rogue與僅在北美（包括[墨西哥](../Page/墨西哥.md "wikilink")）銷售的X-trail相近，像是過去[歐洲銷售的Nissan](https://zh.wikipedia.org/wiki/歐洲 "wikilink")
 Qashqai，在日本與[澳洲銷售的名稱為Nissan](https://zh.wikipedia.org/wiki/澳洲 "wikilink")
 Dualis。
 
 Nissan
-Rogue於2007年1月7日的[底特律車展亮相](../Page/底特律車展.md "wikilink")，它將取代加拿大銷售的X-trail，成為入門級的SUV，且X-trail的新版平台也會與Rogue相容，這計畫已對歐洲等地區發表，但並無計畫在北美執行。
+Rogue於2007年1月7日的[底特律車展](../Page/底特律車展.md "wikilink")亮相，它將取代加拿大銷售的X-trail，成為入門級的SUV，且X-trail的新版平台也會與Rogue相容，這計畫已對歐洲等地區發表，但並無計畫在北美執行。
 
 rogue的馬力為170hp，2.5升[直四QR](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")25DE
 引擎，搭配標準[無段自動變速箱](https://zh.wikipedia.org/wiki/無段自動變速箱 "wikilink")，和標準配備前輪驅動。rogue的成本低於日產Murano跨界SUV，但是和相關的V-6
@@ -22,7 +22,7 @@ RAV4的當月12,354台的一半。
 
 ## 設備
 
-標準的原廠出廠配備包括空調、巡航控制、動力窗戶、門鎖、鏡子，還有遙控車門開關、AM/FM/CD[舶仕音響加上四個](https://zh.wikipedia.org/wiki/舶仕音響 "wikilink")[揚聲器和預留插孔](../Page/揚聲器.md "wikilink")\[5\]\[6\]。
+標準的原廠出廠配備包括空調、巡航控制、動力窗戶、門鎖、鏡子，還有遙控車門開關、AM/FM/CD[舶仕音響加上四個](https://zh.wikipedia.org/wiki/舶仕音響 "wikilink")[揚聲器](../Page/揚聲器.md "wikilink")和預留插孔\[5\]\[6\]。
 
 ## 安全性
 

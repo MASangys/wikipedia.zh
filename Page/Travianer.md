@@ -1,6 +1,6 @@
-**Travianer**（亦稱Travians）是一個[免費](https://zh.wikipedia.org/wiki/免费游戏 "wikilink")[瀏覽器內使用的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[角色扮演](../Page/角色.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，由德國人所製作。
+**Travianer**（亦稱Travians）是一個[免費](https://zh.wikipedia.org/wiki/免费游戏 "wikilink")[瀏覽器內使用的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[角色](../Page/角色.md "wikilink")扮演[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，由德國人所製作。
 
-Travianer[世界內有很多](../Page/世界.md "wikilink")[玩家](../Page/玩家.md "wikilink")，你會在此[遊戲裏挑戰日常生活中的村民](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。這意味著你不僅是專注於[佔領](../Page/佔領.md "wikilink")，建立自己的家或決定你是否喜歡這個[遊戲或是進行很多的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")：最重要的事情是溝通一個巨大的鄉村[社區](https://zh.wikipedia.org/wiki/社區 "wikilink")。只有這樣，才能到[俱樂部](../Page/俱樂部.md "wikilink")（Club）和強大的[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")（Gilde）。
+Travianer[世界](../Page/世界.md "wikilink")內有很多[玩家](../Page/玩家.md "wikilink")，你會在此[遊戲裏挑戰日常生活中的村民](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。這意味著你不僅是專注於[佔領](../Page/佔領.md "wikilink")，建立自己的家或決定你是否喜歡這個[遊戲或是進行很多的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")：最重要的事情是溝通一個巨大的鄉村[社區](https://zh.wikipedia.org/wiki/社區 "wikilink")。只有這樣，才能到[俱樂部](../Page/俱樂部.md "wikilink")（Club）和強大的[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")（Gilde）。
 
 Travianer目前只有兩種[語言](../Page/語言.md "wikilink")，分別是[德語版及](https://zh.wikipedia.org/wiki/德語 "wikilink")[英語版](https://zh.wikipedia.org/wiki/英語 "wikilink")。
 
@@ -22,7 +22,7 @@ Travianer目前只有兩種[語言](../Page/語言.md "wikilink")，分別是[�
 ### 角色狀態
 
   - [饑餓度](https://zh.wikipedia.org/wiki/饑餓 "wikilink")
-  - [快樂度](../Page/快樂.md "wikilink")
+  - [快樂](../Page/快樂.md "wikilink")度
   - [困倦度](https://zh.wikipedia.org/wiki/困倦 "wikilink")
   - [衛生度](https://zh.wikipedia.org/wiki/衛生 "wikilink")
 
@@ -37,25 +37,25 @@ Travianer目前只有兩種[語言](../Page/語言.md "wikilink")，分別是[�
 
   - AP──AP是[活動點數](https://zh.wikipedia.org/wiki/活動 "wikilink")。OP每減少一個。AP便會增加一個。
   - SP──SP是[社會點數](https://zh.wikipedia.org/wiki/社會 "wikilink")。打工，下棋都可以增加SP。SP可以用來購買[傢具和房子](https://zh.wikipedia.org/wiki/傢具 "wikilink")。
-  - OP──OP是[職業點數](../Page/職業.md "wikilink")。從事任何[職業都會消耗OP](../Page/職業.md "wikilink")。OP用完，就不能再作任何工作了。每消耗一個OP，會產生一個AP。
+  - OP──OP是[職業](../Page/職業.md "wikilink")點數。從事任何[職業](../Page/職業.md "wikilink")都會消耗OP。OP用完，就不能再作任何工作了。每消耗一個OP，會產生一個AP。
   - XP──XP是[經驗值](https://zh.wikipedia.org/wiki/經驗 "wikilink")。所有的行為都可以增加[經驗值](https://zh.wikipedia.org/wiki/經驗 "wikilink")，包括砍樹挖泥、在[酒館刷盤子](https://zh.wikipedia.org/wiki/酒館 "wikilink")、[圖書館看書](https://zh.wikipedia.org/wiki/圖書館 "wikilink")、和[競技場比武等都可以獲得](https://zh.wikipedia.org/wiki/競技場 "wikilink")[經驗值](https://zh.wikipedia.org/wiki/經驗 "wikilink")。
-  - 錢──錢是你在[市場上賣掉](https://zh.wikipedia.org/wiki/市場 "wikilink")[工作所得的](https://zh.wikipedia.org/wiki/工作 "wikilink")[木頭](https://zh.wikipedia.org/wiki/木 "wikilink")、[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")、[泥等的收入](../Page/泥.md "wikilink")。然後用這些錢可以[購買](https://zh.wikipedia.org/wiki/購買 "wikilink")[工具](../Page/工具.md "wikilink")、[裝備](https://zh.wikipedia.org/wiki/裝備 "wikilink")、和[武器](../Page/武器.md "wikilink")。（1個金幣
+  - 錢──錢是你在[市場上賣掉](https://zh.wikipedia.org/wiki/市場 "wikilink")[工作所得的](https://zh.wikipedia.org/wiki/工作 "wikilink")[木頭](https://zh.wikipedia.org/wiki/木 "wikilink")、[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")、[泥](../Page/泥.md "wikilink")等的收入。然後用這些錢可以[購買](https://zh.wikipedia.org/wiki/購買 "wikilink")[工具](../Page/工具.md "wikilink")、[裝備](https://zh.wikipedia.org/wiki/裝備 "wikilink")、和[武器](../Page/武器.md "wikilink")。（1個金幣
     = 100銀幣= 10000銅幣）
   - [技能點](https://zh.wikipedia.org/wiki/技能 "wikilink")──[技能點可以用來提高](https://zh.wikipedia.org/wiki/技能 "wikilink")[職業](../Page/職業.md "wikilink")[級別或者](https://zh.wikipedia.org/wiki/級別 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")[技能](https://zh.wikipedia.org/wiki/技能 "wikilink")。
 
 ## 地理
 
-[玩家的村落都會有](../Page/玩家.md "wikilink")[木場](../Page/木場.md "wikilink")、[泥坑](https://zh.wikipedia.org/wiki/泥坑 "wikilink")、[鐵礦和](https://zh.wikipedia.org/wiki/鐵礦 "wikilink")[稻田以供開採](https://zh.wikipedia.org/wiki/稻田 "wikilink")。
+[玩家](../Page/玩家.md "wikilink")的村落都會有[木場](../Page/木場.md "wikilink")、[泥坑](https://zh.wikipedia.org/wiki/泥坑 "wikilink")、[鐵礦和](https://zh.wikipedia.org/wiki/鐵礦 "wikilink")[稻田以供開採](https://zh.wikipedia.org/wiki/稻田 "wikilink")。
 
 ## 建築物
 
 所有[建築物都不用建造](https://zh.wikipedia.org/wiki/建築物 "wikilink")，而小量[建築物就可以](https://zh.wikipedia.org/wiki/建築物 "wikilink")[升級](https://zh.wikipedia.org/wiki/升級 "wikilink")。
 
   - 房子
-  - [麵粉廠](../Page/麵粉.md "wikilink")
-  - [麵包店](../Page/麵包.md "wikilink")
+  - [麵粉](../Page/麵粉.md "wikilink")廠
+  - [麵包](../Page/麵包.md "wikilink")店
   - 鋸[木廠](https://zh.wikipedia.org/wiki/木 "wikilink")
-  - [磚廠](../Page/磚.md "wikilink")
+  - [磚](../Page/磚.md "wikilink")廠
   - 鋼鐵鑄造廠
   - [自由](../Page/自由.md "wikilink")[市場](https://zh.wikipedia.org/wiki/市場 "wikilink")
   - NPC[市場](https://zh.wikipedia.org/wiki/市場 "wikilink")
@@ -82,10 +82,10 @@ Diamonds是**Travianer**的附加[服務](https://zh.wikipedia.org/wiki/服務 "
   - 7天內加入金幣[俱樂部](../Page/俱樂部.md "wikilink")（7 days membership in the
     Gold Club）──15[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 更改[職業](../Page/職業.md "wikilink")──30[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
-  - 重新[職業和重新分配屬性點](../Page/職業.md "wikilink")──50[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
+  - 重新[職業](../Page/職業.md "wikilink")和重新分配屬性點──50[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 購買便宜的[資源](https://zh.wikipedia.org/wiki/資源 "wikilink")──3[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 喝[咖啡](../Page/咖啡.md "wikilink")（取代4小時的睡眠）──3[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
-  - 喝[啤酒](../Page/啤酒.md "wikilink")（增加10SP的[快樂度](../Page/快樂.md "wikilink")）──3[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
+  - 喝[啤酒](../Page/啤酒.md "wikilink")（增加10SP的[快樂](../Page/快樂.md "wikilink")度）──3[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 購買[香水](../Page/香水.md "wikilink")（填滿[衛生度](https://zh.wikipedia.org/wiki/衛生 "wikilink")）──2[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 購買500點[社會點數](https://zh.wikipedia.org/wiki/社會 "wikilink")──10[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
 
@@ -93,7 +93,7 @@ Diamonds是**Travianer**的附加[服務](https://zh.wikipedia.org/wiki/服務 "
 
   - Beste Technik最佳[技術](https://zh.wikipedia.org/wiki/技術 "wikilink")
   - Bestes Gameplay最佳[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")
-  - Bestes Rollenspiel最佳[角色扮演](../Page/角色.md "wikilink")
+  - Bestes Rollenspiel最佳[角色](../Page/角色.md "wikilink")扮演
 
 ## 外部連結
 

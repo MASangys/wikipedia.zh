@@ -1,5 +1,5 @@
 **UPX**（*the **U**ltimate **P**acker for
-e**X**ecutables*）是一个免费且[开源的可执行程序文件加壳器](https://zh.wikipedia.org/wiki/开源 "wikilink")，支持许多不同[操作系统下的可执行文件格式](../Page/操作系统.md "wikilink")，具体的支持列表可见下文“支持格式”一节。
+e**X**ecutables*）是一个免费且[开源的可执行程序文件加壳器](https://zh.wikipedia.org/wiki/开源 "wikilink")，支持许多不同[操作系统](../Page/操作系统.md "wikilink")下的可执行文件格式，具体的支持列表可见下文“支持格式”一节。
 
 ## 压缩
 
@@ -9,7 +9,7 @@ UPX使用一种叫做[UCL](http://www.oberhumer.com/opensource/ucl/)的压缩[�
 得益于UCL的简单设计，其解压缩代码只需要额外的数百[字节](../Page/字节.md "wikilink")。UCL最大的好处是在解压缩过程中不需要额外的内存，意味着经过UPX压缩的可执行文件执行时通常也不需要为了解压缩付出额外内存。
 
 UPX（从2.90
-beta版本开始）可以在大多数平台上使用[LZMA算法](../Page/LZMA.md "wikilink")，但因为速度慢，在16位平台上LZMA算法默认被禁止使用。（可以使用参数--lzma强制使用）
+beta版本开始）可以在大多数平台上使用[LZMA](../Page/LZMA.md "wikilink")算法，但因为速度慢，在16位平台上LZMA算法默认被禁止使用。（可以使用参数--lzma强制使用）
 
 ## 解压缩
 
@@ -23,7 +23,7 @@ UPX支持两种解压方式：就地解压或解压至临时文件夹。
   - [argv\[0](https://zh.wikipedia.org/wiki/命令行 "wikilink")\]（即程序中获取到的可执行文件名）将会无效。
   - 多实例应用程序将无法共享共同的程序部分（如内存内的相同代码）。
 
-未特意以防止解包为目的修改过的UPX包通常能够被[杀毒软件识别并进行解压操作](../Page/杀毒软件.md "wikilink")。UPX也内置能够解压未修改UPX包的功能。在默认的UPX许可证中也明确禁止以防止前文所提及的解包为目的的修改。
+未特意以防止解包为目的修改过的UPX包通常能够被[杀毒软件](../Page/杀毒软件.md "wikilink")识别并进行解压操作。UPX也内置能够解压未修改UPX包的功能。在默认的UPX许可证中也明确禁止以防止前文所提及的解包为目的的修改。
 
 ## 支持的格式
 
@@ -40,7 +40,7 @@ UPX支持两种解压方式：就地解压或解压至临时文件夹。
   - Linux/[ELF](https://zh.wikipedia.org/wiki/Executable_and_Linkable_Format "wikilink")
     （位于 i386, [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink"),
     [ARM](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink"),
-    [PowerPC平台](../Page/PowerPC.md "wikilink")）
+    [PowerPC](../Page/PowerPC.md "wikilink")平台）
   - Linux/kernel （位于i386, x86-64 and ARM平台）
   - [Mach-O](../Page/Mach-O.md "wikilink")/ppc32, Mach-O/i386
     (自3.09版本后还支持Google Go创建的此格式程序)

@@ -1,7 +1,7 @@
 **SSE2**，全名為**Streaming SIMD Extensions
 2**，是一種[IA-32架構的](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")（單一指令多重資料）[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")。SSE2是在
 2001年隨著[Intel發表第一代](https://zh.wikipedia.org/wiki/Intel "wikilink")[Pentium
-4處理器也一併推出的指令集](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")。它延伸較早的[SSE指令集](../Page/SSE.md "wikilink")，而且可以完全取代[MMX指令集](../Page/MMX.md "wikilink")。在2004年，Intel
+4處理器也一併推出的指令集](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")。它延伸較早的[SSE](../Page/SSE.md "wikilink")指令集，而且可以完全取代[MMX](../Page/MMX.md "wikilink")指令集。在2004年，Intel
 再度擴展了SSE2指令為 SSE3 指令集。與 70 條指令的 SSE
 相比，SSE2新增了144條指令。在2003年，[AMD也在發布](https://zh.wikipedia.org/wiki/AMD "wikilink")[AMD64的](https://zh.wikipedia.org/wiki/AMD64 "wikilink")64位元處理器時跟進SSE2指令集。
 
@@ -59,7 +59,7 @@ end
 
 SSE2讓MMX指令群使用XMM暫存器來運算。換句話說，現有的MMX指令碼能夠完全轉換成SSE2。不過SSE2的暫存器是MMX暫存器的兩倍大，迴圈計數器與記憶體存取機制也會跟著修改來因應此變化。
 
-而即使一個SSE2指令能夠比MMX指令操作多兩倍資料量，性能也並沒有很明顯的提升。有兩個主要原因導致此現象：記憶體內部存取SSE2的資料並沒有以16位元組的間隔[對齊](https://zh.wikipedia.org/wiki/資料結構對齊 "wikilink")，這會造成明顯的性能損失。還有在大多數的[x86架構實作上SSE](https://zh.wikipedia.org/wiki/x86 "wikilink")2的指令[吞吐量是小於MMX的](../Page/吞吐量.md "wikilink")。[Intel首先面對第一個問題的解決方案是在SSE](https://zh.wikipedia.org/wiki/Intel "wikilink")3指令中新增一個指令，能夠在處理未對齊的資料時減少overhead。而第二個問題也在[Core
+而即使一個SSE2指令能夠比MMX指令操作多兩倍資料量，性能也並沒有很明顯的提升。有兩個主要原因導致此現象：記憶體內部存取SSE2的資料並沒有以16位元組的間隔[對齊](https://zh.wikipedia.org/wiki/資料結構對齊 "wikilink")，這會造成明顯的性能損失。還有在大多數的[x86架構實作上SSE](https://zh.wikipedia.org/wiki/x86 "wikilink")2的指令[吞吐量](../Page/吞吐量.md "wikilink")是小於MMX的。[Intel首先面對第一個問題的解決方案是在SSE](https://zh.wikipedia.org/wiki/Intel "wikilink")3指令中新增一個指令，能夠在處理未對齊的資料時減少overhead。而第二個問題也在[Core
 微架構中將執行引擎加寬而解決](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。
 
 ## 支援的編譯器
@@ -68,7 +68,7 @@ SSE2讓MMX指令群使用XMM暫存器來運算。換句話說，現有的MMX指�
 Studio裡面使用SSE](../Page/Microsoft_Visual_Studio.md "wikilink")2指令集，程式開發人員就要自己寫
 inline-assembly，或是從外部來源引入（import）目的碼。後來發布了Visual C++ Processor
 Pack，才使[Visual
-C++與](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")[MASM支援SSE](../Page/MASM.md "wikilink")2。
+C++與](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")[MASM](../Page/MASM.md "wikilink")支援SSE2。
 
 目前Intel官方版的[Intel
 C++編譯器能夠在不用自行輸入assembly而自動編譯出SSE](../Page/Intel_C++編譯器.md "wikilink")4/SSSE3/SSE3/SSE2/SSE的機器碼，能夠使程式開發人員專注於更高層的演算法開發，而不是組譯階段的指令集實作。自從Intel發表了
@@ -126,7 +126,7 @@ x86-64架構的處理器也都支援SSE2指令集。而有些CPU並沒有支援 
     4早推出的](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Intel處理器](https://zh.wikipedia.org/wiki/Intel "wikilink")
   - [VIA的](https://zh.wikipedia.org/wiki/VIA "wikilink")[C3
     處理器](../Page/VIA_C3.md "wikilink")
-  - [全美達的](../Page/全美達.md "wikilink")[Crusoe處理器](https://zh.wikipedia.org/wiki/Crusoe處理器 "wikilink")
+  - [全美達](../Page/全美達.md "wikilink")的[Crusoe處理器](https://zh.wikipedia.org/wiki/Crusoe處理器 "wikilink")
 
 ## 參見
 
@@ -141,7 +141,7 @@ x86-64架構的處理器也都支援SSE2指令集。而有些CPU並沒有支援 
 </ul></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/SIMD" title="wikilink">SIMD</a></li>
-<li><a href="../Page/3DNow!.md" title="wikilink">3DNow!Professional</a></li>
+<li><a href="../Page/3DNow!.md" title="wikilink">3DNow!</a>Professional</li>
 <li><a href="https://zh.wikipedia.org/wiki/x86指令列表" title="wikilink">x86指令列表</a></li>
 </ul></td>
 </tr>

@@ -7,7 +7,7 @@ K00-K14
   - K01 埋伏牙和[阻生牙](https://zh.wikipedia.org/wiki/阻生牙 "wikilink")
   - K02 [牙龋](https://zh.wikipedia.org/wiki/牙龋 "wikilink")(齿)
   - K03 牙齿硬组织的其他疾病
-  - K04 [牙髓和根尖周组织疾病](../Page/牙髓.md "wikilink")
+  - K04 [牙髓](../Page/牙髓.md "wikilink")和根尖周组织疾病
   - K05 龈炎和[牙周疾病](https://zh.wikipedia.org/wiki/牙周 "wikilink")
   - K06 牙龈和无牙牙槽嵴的其他疾患
   - K07 牙面畸形（包括错颌）
@@ -22,7 +22,7 @@ K00-K14
 ## K20-K31 食管、胃和十二指肠疾病
 
 K20-K31
-[食管](https://zh.wikipedia.org/wiki/食管 "wikilink")、[胃和](../Page/胃.md "wikilink")[十二指肠疾病](../Page/十二指肠.md "wikilink")
+[食管](https://zh.wikipedia.org/wiki/食管 "wikilink")、[胃](../Page/胃.md "wikilink")和[十二指肠](../Page/十二指肠.md "wikilink")疾病
 
   - K20 [食管炎](https://zh.wikipedia.org/wiki/食管炎 "wikilink")
   - K21 胃、食管反流性疾病
@@ -33,13 +33,13 @@ K20-K31
   - K27 [消化性溃疡](https://zh.wikipedia.org/wiki/消化性溃疡 "wikilink")，部位未特指
   - K28 胃空肠溃疡
   - K29
-    [胃炎和](../Page/胃炎.md "wikilink")[十二指肠炎](https://zh.wikipedia.org/wiki/十二指肠炎 "wikilink")
+    [胃炎](../Page/胃炎.md "wikilink")和[十二指肠炎](https://zh.wikipedia.org/wiki/十二指肠炎 "wikilink")
   - K30 [消化不良](../Page/消化不良.md "wikilink")
   - K31 胃和十二指肠的其他疾病
 
 ## K35-K38 阑尾疾病
 
-K35-K38 [阑尾疾病](../Page/阑尾.md "wikilink")
+K35-K38 [阑尾](../Page/阑尾.md "wikilink")疾病
 
   - K35 急性[阑尾炎](https://zh.wikipedia.org/wiki/阑尾炎 "wikilink")
   - K36 其他阑尾炎
@@ -77,7 +77,7 @@ K55-K63 肠的其他疾病
   - K58 过敏性大肠综合症
   - K59 其他功能性肠疾患
   - K60
-    [肛门及](../Page/肛门.md "wikilink")[直肠区的裂瘘](https://zh.wikipedia.org/wiki/直肠 "wikilink")
+    [肛门](../Page/肛门.md "wikilink")及[直肠区的裂瘘](https://zh.wikipedia.org/wiki/直肠 "wikilink")
   - K61 肛门和直肠区脓肿
   - K62 肛门和直肠的其他疾病
   - K63 肠的其他疾病
@@ -118,7 +118,7 @@ K80-K87
 
 ## K90-K93 消化系统的其他疾病
 
-K90-K93 [消化系统的其他疾病](../Page/消化系统.md "wikilink")
+K90-K93 [消化系统](../Page/消化系统.md "wikilink")的其他疾病
 
   - K90 肠吸收障碍
   - K91 消化系统的操作后疾患，不可归类在他处者

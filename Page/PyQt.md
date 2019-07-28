@@ -11,14 +11,14 @@ GPL和商業授權](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink") |
 website = [PyQt官方網站](http://www.riverbankcomputing.co.uk/software/pyqt/)
 }}
 
-**PyQt**是[Python语言的](../Page/Python.md "wikilink")[GUI编程解决方案之一](https://zh.wikipedia.org/wiki/GUI "wikilink")。可以用来代替Python内置的[Tkinter](https://zh.wikipedia.org/wiki/Tkinter "wikilink")。其它替代者还有[PyGTK](../Page/PyGTK.md "wikilink")、[wxPython等](https://zh.wikipedia.org/wiki/wxPython "wikilink")。与[Qt一样](../Page/Qt.md "wikilink")，PyQt是一个[自由软件](../Page/自由软件.md "wikilink")。PyQt是[PyKDE的基础](https://zh.wikipedia.org/wiki/PyKDE "wikilink")。
+**PyQt**是[Python](../Page/Python.md "wikilink")语言的[GUI编程解决方案之一](https://zh.wikipedia.org/wiki/GUI "wikilink")。可以用来代替Python内置的[Tkinter](https://zh.wikipedia.org/wiki/Tkinter "wikilink")。其它替代者还有[PyGTK](../Page/PyGTK.md "wikilink")、[wxPython等](https://zh.wikipedia.org/wiki/wxPython "wikilink")。与[Qt](../Page/Qt.md "wikilink")一样，PyQt是一个[自由软件](../Page/自由软件.md "wikilink")。PyQt是[PyKDE的基础](https://zh.wikipedia.org/wiki/PyKDE "wikilink")。
 
 PyQt的开发者是英国的“Riverbank
 Computing”公司。与4.5版本之前的Qt一样，它提供了[GPL与商业协议两种授权方式](https://zh.wikipedia.org/wiki/GPL "wikilink")，因此它可以免费地用于自由软件的开发。不过目前尚不提供[LGPL授权方式](https://zh.wikipedia.org/wiki/LGPL "wikilink")。PyQt可以运行于[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS
-X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Linux以及](../Page/Linux.md "wikilink")[Unix的多数变种上](https://zh.wikipedia.org/wiki/Unix "wikilink")。
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")以及[Unix的多数变种上](https://zh.wikipedia.org/wiki/Unix "wikilink")。
 
-2009年8月，Qt的开发公司[诺基亚发布](../Page/诺基亚.md "wikilink")[PySide](https://zh.wikipedia.org/wiki/PySide "wikilink")，提供与PyQt类似的功能，但提供了LGPL授权。主要原因是“Riverbank
+2009年8月，Qt的开发公司[诺基亚](../Page/诺基亚.md "wikilink")发布[PySide](https://zh.wikipedia.org/wiki/PySide "wikilink")，提供与PyQt类似的功能，但提供了LGPL授权。主要原因是“Riverbank
 Computing”不愿以LGPL授权发布PyQt。\[2\]
 
 自4.5版本以后\[3\]，PyQt同时支持Python 2.x与Python 3.x。但是在API方面有所区别，最主要的是运行在Python
@@ -31,11 +31,11 @@ Computing”不愿以LGPL授权发布PyQt。\[2\]
 
 PyQt包含了大约440个类型、超过6000个的函数和方法。
 
-  - “QtCore”模块主要包含了一些非GUI的基础功能，包含事件循环与Qt的信号机制。此外，还提供了跨平台的[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")、[线程](../Page/线程.md "wikilink")、[内存映射文件](../Page/内存映射文件.md "wikilink")、[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")、[正则表达式和用户设置](../Page/正则表达式.md "wikilink")。
+  - “QtCore”模块主要包含了一些非GUI的基础功能，包含事件循环与Qt的信号机制。此外，还提供了跨平台的[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")、[线程](../Page/线程.md "wikilink")、[内存映射文件](../Page/内存映射文件.md "wikilink")、[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")、[正则表达式](../Page/正则表达式.md "wikilink")和用户设置。
 
 <!-- end list -->
 
-  - “QtGui”模块包含了大多数的GUI类型。包含按钮、文本框、列表等常见控件，还包含了基于[MVC设计模式的列表](../Page/MVC.md "wikilink")、表格、树型控件。同时还提供了一个能够容纳成千上万个元素的画布控件，其中可以放置各种控件和图形。此外，QtGui还支持界面动画与界面状态机编程。
+  - “QtGui”模块包含了大多数的GUI类型。包含按钮、文本框、列表等常见控件，还包含了基于[MVC](../Page/MVC.md "wikilink")设计模式的列表、表格、树型控件。同时还提供了一个能够容纳成千上万个元素的画布控件，其中可以放置各种控件和图形。此外，QtGui还支持界面动画与界面状态机编程。
 
 <!-- end list -->
 
@@ -43,19 +43,19 @@ PyQt包含了大约440个类型、超过6000个的函数和方法。
 
 <!-- end list -->
 
-  - “QtOpenGL”模块允许Qt程序使用[OpenGL渲染](../Page/OpenGL.md "wikilink")3D图形，而且不必大量更改代码。
+  - “QtOpenGL”模块允许Qt程序使用[OpenGL](../Page/OpenGL.md "wikilink")渲染3D图形，而且不必大量更改代码。
 
 <!-- end list -->
 
-  - “QtSql”模块支持多种SQL数据库。包括[sqlite](https://zh.wikipedia.org/wiki/sqlite "wikilink")、[ODBC](../Page/ODBC.md "wikilink")、[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")。还提供了一个基于[MVC模式的数据模型](../Page/MVC.md "wikilink")，与QtGui的的表格控件配合使用。
+  - “QtSql”模块支持多种SQL数据库。包括[sqlite](https://zh.wikipedia.org/wiki/sqlite "wikilink")、[ODBC](../Page/ODBC.md "wikilink")、[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")。还提供了一个基于[MVC](../Page/MVC.md "wikilink")模式的数据模型，与QtGui的的表格控件配合使用。
 
 <!-- end list -->
 
-  - “QtXml”包含一个[XML解释器](../Page/XML.md "wikilink")，同时支持[SAX和](../Page/SAX.md "wikilink")[DOM两种编程方式](https://zh.wikipedia.org/wiki/DOM "wikilink")。
+  - “QtXml”包含一个[XML](../Page/XML.md "wikilink")解释器，同时支持[SAX](../Page/SAX.md "wikilink")和[DOM两种编程方式](https://zh.wikipedia.org/wiki/DOM "wikilink")。
 
 <!-- end list -->
 
-  - “QtWebkit”与“QtScript”两个子模块支持[WebKit与](../Page/WebKit.md "wikilink")[EMCAScript脚本语言](https://zh.wikipedia.org/wiki/EMCAScript "wikilink")
+  - “QtWebkit”与“QtScript”两个子模块支持[WebKit](../Page/WebKit.md "wikilink")与[EMCAScript脚本语言](https://zh.wikipedia.org/wiki/EMCAScript "wikilink")
 
 <!-- end list -->
 

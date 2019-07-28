@@ -2,7 +2,7 @@
 DNA**（）是[微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
 NT與](../Page/Windows_NT.md "wikilink")[Windows
 2000時期](../Page/Windows_2000.md "wikilink")，配合當時的[Microsoft
-BackOffice以及](../Page/Microsoft_Servers.md "wikilink")[COM](https://zh.wikipedia.org/wiki/COM "wikilink")、[MTS](https://zh.wikipedia.org/wiki/Microsoft_Transaction_Server "wikilink")、[COM+等技術所規劃的](../Page/COM+.md "wikilink")[分散式應用程式](../Page/分散式應用程式.md "wikilink")（Distributed
+BackOffice以及](../Page/Microsoft_Servers.md "wikilink")[COM](https://zh.wikipedia.org/wiki/COM "wikilink")、[MTS](https://zh.wikipedia.org/wiki/Microsoft_Transaction_Server "wikilink")、[COM+](../Page/COM+.md "wikilink")等技術所規劃的[分散式應用程式](../Page/分散式應用程式.md "wikilink")（Distributed
 Application）開發架構，使用的是，在[Microsoft
 .NET出現後逐漸淡出市場](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")。
 
@@ -14,7 +14,7 @@ Tier）、應用程式伺服器層（Application Server Tier，或稱為商業�
 
   - 前端使用者介面層
       - [Internet
-        Explorer](../Page/Internet_Explorer.md "wikilink")：Web的前端介面，使用[ASP](https://zh.wikipedia.org/wiki/ASP "wikilink")、[HTML](../Page/HTML.md "wikilink")、[DHTML與](https://zh.wikipedia.org/wiki/DHTML "wikilink")[JavaScript等程式與標記語言](../Page/JavaScript.md "wikilink")。
+        Explorer](../Page/Internet_Explorer.md "wikilink")：Web的前端介面，使用[ASP](https://zh.wikipedia.org/wiki/ASP "wikilink")、[HTML](../Page/HTML.md "wikilink")、[DHTML與](https://zh.wikipedia.org/wiki/DHTML "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")等程式與標記語言。
       - [Windows應用程式](https://zh.wikipedia.org/wiki/Windows "wikilink")：Windows前端介面，使用[Visual
         Basic](../Page/Visual_Basic.md "wikilink")、[Win32](https://zh.wikipedia.org/wiki/Win32 "wikilink")
         API或[MFC等開發](https://zh.wikipedia.org/wiki/MFC "wikilink")。

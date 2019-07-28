@@ -1,22 +1,22 @@
-**EcoBoost** 是[福特汽车與德國的](../Page/福特汽车.md "wikilink")[FEV Europe
-GmbH所合作開發生产的](https://zh.wikipedia.org/wiki/FEV_Europe_GmbH "wikilink")[涡轮增压和](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")[燃油缸内直喷](https://zh.wikipedia.org/wiki/汽油缸內直噴 "wikilink")6缸、4缸和3缸系列[汽油引擎](../Page/汽油引擎.md "wikilink")。与传统的同排量自然进气引擎相比，使用Ecoboost技术的引擎可以提高约20％的燃油经济性和降低15％的[温室气体排放](../Page/温室气体.md "wikilink")，同时输出更高的功率和扭矩。相对于混合动力和柴油引擎技术的动力输出和燃油经济性，Ecoboost引擎技術是一种消费者承担得起、适合各种工况的新式技術，计划在将来生产的车辆上广泛配置\[1\]。此引擎的前一代為[Duratec引擎](https://zh.wikipedia.org/wiki/福特Duratec引擎 "wikilink")。
+**EcoBoost** 是[福特汽车](../Page/福特汽车.md "wikilink")與德國的[FEV Europe
+GmbH所合作開發生产的](https://zh.wikipedia.org/wiki/FEV_Europe_GmbH "wikilink")[涡轮增压和](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")[燃油缸内直喷](https://zh.wikipedia.org/wiki/汽油缸內直噴 "wikilink")6缸、4缸和3缸系列[汽油引擎](../Page/汽油引擎.md "wikilink")。与传统的同排量自然进气引擎相比，使用Ecoboost技术的引擎可以提高约20％的燃油经济性和降低15％的[温室气体](../Page/温室气体.md "wikilink")排放，同时输出更高的功率和扭矩。相对于混合动力和柴油引擎技术的动力输出和燃油经济性，Ecoboost引擎技術是一种消费者承担得起、适合各种工况的新式技術，计划在将来生产的车辆上广泛配置\[1\]。此引擎的前一代為[Duratec引擎](https://zh.wikipedia.org/wiki/福特Duratec引擎 "wikilink")。
 
 ## 全球生产情况
 
-EcoBoost燃油直喷涡轮增压引擎技术在[美国已经获得了](../Page/美国.md "wikilink")125项[专利及专利应用](../Page/专利.md "wikilink")。
+EcoBoost燃油直喷涡轮增压引擎技术在[美国](../Page/美国.md "wikilink")已经获得了125项[专利](../Page/专利.md "wikilink")及专利应用。
 \[2\]
 
 V6 EcoBoost
-引擎将在美国[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克利夫兰引擎第一工厂生产](../Page/克利夫兰.md "wikilink")。\[3\]
+引擎将在美国[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克利夫兰](../Page/克利夫兰.md "wikilink")引擎第一工厂生产。\[3\]
 
 2.0L I4
-EcoBoost发动机在2009年由[西班牙的福特巴伦西亚](../Page/西班牙.md "wikilink")（Valencia）引擎工厂生产。\[4\]
+EcoBoost发动机在2009年由[西班牙](../Page/西班牙.md "wikilink")的福特巴伦西亚（Valencia）引擎工厂生产。\[4\]
 
 1.6L I4
 EcoBoost引擎将在[英国的福特布里真德](https://zh.wikipedia.org/wiki/英国 "wikilink")（Bridgend）工厂生产。
 
 未来小改款的I4
-EcoBoost引擎将同时在[德国福特](../Page/德国.md "wikilink")[科隆](../Page/科隆.md "wikilink")（Cologne）引擎工厂和[罗马尼亚克拉约瓦](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")（Craiova）工厂生产。
+EcoBoost引擎将同时在[德国](../Page/德国.md "wikilink")福特[科隆](../Page/科隆.md "wikilink")（Cologne）引擎工厂和[罗马尼亚克拉约瓦](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")（Craiova）工厂生产。
 
 在2012年，福特公司计划在美国生产75万台，其他国家生产130万台EcoBoost引擎。
 福特希望到2013年在全球范围内超过90%产品的配备EcoBoost引擎。\[5\]\[6\]
@@ -34,7 +34,7 @@ EcoBoost
 V6是EcoBoost家族的第一具引擎。该引擎第一次亮相是在2007年林肯MKR[概念车](https://zh.wikipedia.org/wiki/概念车 "wikilink")，使用的名称是**TwinForce**。\[8\]
 该引擎的设计可以输出相当于典型的6.0 L
 或者更大的V8引擎的动力，同时比V8引擎又能提高15%的燃油经济性和降低温室气体排放。在林肯MKR车上，TwinForce概念引擎使用E85乙醇混合汽油（85%的乙醇，15％的汽油）可以输出415马力和542牛.米的扭矩。\[9\]
-在2008年[底特律車展上](../Page/底特律車展.md "wikilink")，当该引擎再次在林肯MKT概念车上展出的时候，名称变更为EcoBoost。EcoBoost发动于2009年5月19日在福特克利夫兰（Cleveland）引擎第一工厂正式投产。
+在2008年[底特律車展](../Page/底特律車展.md "wikilink")上，当该引擎再次在林肯MKT概念车上展出的时候，名称变更为EcoBoost。EcoBoost发动于2009年5月19日在福特克利夫兰（Cleveland）引擎第一工厂正式投产。
 该量产引擎使用福特Duratec 35
 V6引擎机体。燃油供应系统把燃油压力提高到190[巴](../Page/巴.md "wikilink")（2150磅），以能进行燃油缸内直接喷射。它使用两个盖瑞特(Garrett)GT15涡轮增压器可以达到170000转/分的转速提供1.06巴（12磅）的压力。该引擎能比自然进气的引擎多消耗超过25%的空气。通过使用直接燃油喷射技术，该引擎只需使用常规级的汽油，虽然推荐使用优质的汽油。
 
@@ -103,7 +103,7 @@ V6引擎的性能同时优化燃油经济性10%-20%。动力至少为230制动�
   - 未来的搭载車型
       - 2011年- 福特Falcon
       - 2011年- 福特锐界Edge，2010年底前将进口到中国上市。
-      - 2012年- [福特福克斯ST](../Page/福特福克斯.md "wikilink")
+      - 2012年- [福特福克斯](../Page/福特福克斯.md "wikilink")ST
 
 #### 1.6 L EcoBoost I-4
 

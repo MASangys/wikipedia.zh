@@ -7,22 +7,22 @@ Microsystem之後接管了這個專案。
 
 2008年5月，[Fedora](../Page/Fedora.md "wikilink")
 9\[1\]\[2\]及[Ubuntu](../Page/Ubuntu.md "wikilink")
-8.04\[3\]於發行版中發佈OpenJDK，完整地基於[自由及](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[开放源代码的OpenJDK](../Page/开放源代码.md "wikilink")。\[4\]
+8.04\[3\]於發行版中發佈OpenJDK，完整地基於[自由及](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")的OpenJDK。\[4\]
 
 2008年6月， 6（Fedora 9上的一個套件版本的OpenJDK）宣布已通過測試，可以稱得上是一個完全兼容的Java
 6的執行環境。\[5\]
 
-2008年7月12日，[Debian接受了OpenJDK](../Page/Debian.md "wikilink")-6的不穩定版本\[6\]\[7\]，但目前情況已經穩定\[8\]。OpenJDK也可以在[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")、[Red
+2008年7月12日，[Debian](../Page/Debian.md "wikilink")接受了OpenJDK-6的不穩定版本\[6\]\[7\]，但目前情況已經穩定\[8\]。OpenJDK也可以在[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")、[Red
 Hat Enterprise
-Linux及其衍生系統](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，如[CentOS中找到](../Page/CentOS.md "wikilink")。\[9\]
+Linux及其衍生系統](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，如[CentOS](../Page/CentOS.md "wikilink")中找到。\[9\]
 
 自2008年7月，OpenJDK 7可以運行在[Mac OS
-X和其他的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD發行版](../Page/BSD.md "wikilink")。\[10\]
+X和其他的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD](../Page/BSD.md "wikilink")發行版。\[10\]
 
 2009年7月，Ubuntu 9.04中的二進制版本OpenJDK在Java SE 6 中通過了所有的兼容性測試。\[11\]
 
-2016年8月22日，[Google在](../Page/Google.md "wikilink")[Android 7.0
-Nougat中](https://zh.wikipedia.org/wiki/Android_7.0_Nougat "wikilink")，將專利的[JDK替換成開源方案的OpenJDK](../Page/JDK.md "wikilink")，以徹底解決Java的專利問題。\[12\]
+2016年8月22日，[Google](../Page/Google.md "wikilink")在[Android 7.0
+Nougat中](https://zh.wikipedia.org/wiki/Android_7.0_Nougat "wikilink")，將專利的[JDK](../Page/JDK.md "wikilink")替換成開源方案的OpenJDK，以徹底解決Java的專利問題。\[12\]
 
 ## 参考资料
 

@@ -1,5 +1,5 @@
 **Godspeed You\! Black Emperor**（曾命名為**Godspeed You Black
-Emperor\!**，縮寫為**GYBE**、**GSYBE**或**GY\!BE**）是[加拿大的一個前衛藝術樂團](../Page/加拿大.md "wikilink")，1994年在[魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特婁成立](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。\[1\]
+Emperor\!**，縮寫為**GYBE**、**GSYBE**或**GY\!BE**）是[加拿大](../Page/加拿大.md "wikilink")的一個前衛藝術樂團，1994年在[魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特婁成立](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。\[1\]
 
 ## 樂團成員
 
@@ -19,7 +19,7 @@ Emperor\!**，縮寫為**GYBE**、**GSYBE**或**GY\!BE**）是[加拿大的一�
 ### 樂團簡史
 
 1994年，Efrim Menuck，Mauro Pezzente和Mike Moya在加拿大的蒙特婁組成Godspeed You Black
-Emperor\!。\[2\]該團的團名來自[日本導演](../Page/日本.md "wikilink")1976年的黑白[紀錄片](../Page/紀錄片.md "wikilink")『』，其中Black
+Emperor\!。\[2\]該團的團名來自[日本](../Page/日本.md "wikilink")導演1976年的黑白[紀錄片](../Page/紀錄片.md "wikilink")『』，其中Black
 Emperor指的是活躍於1970年代日本的[暴走族](../Page/暴走族.md "wikilink")。\[3\]同年12月，他們發行了自己用四軌卡式錄音座錄製的*[All
 Lights Fucked on the Hairy Amp
 Drooling](http://en.wikipedia.org/wiki/All_Lights_Fucked_on_the_Hairy_Amp_Drooling)*，限量僅33張，目前市面上已絕版。

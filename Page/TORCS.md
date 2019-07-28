@@ -1,7 +1,7 @@
 [Torcs-20081217104851.jpg](https://zh.wikipedia.org/wiki/File:Torcs-20081217104851.jpg "fig:Torcs-20081217104851.jpg")
 
 《**The Open Racing Car
-Simulator**》（**TORCS**）是一款[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[赛车模拟游戏](https://zh.wikipedia.org/wiki/赛车游戏 "wikilink")。是在操作系统上广受欢迎的赛车游戏。有50种车辆和20条赛道，简单的视觉效果。用[C和](../Page/C.md "wikilink")[C++写成](../Page/C++.md "wikilink")，释放在[GPL协议下](https://zh.wikipedia.org/wiki/GPL "wikilink")。
+Simulator**》（**TORCS**）是一款[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[赛车模拟游戏](https://zh.wikipedia.org/wiki/赛车游戏 "wikilink")。是在操作系统上广受欢迎的赛车游戏。有50种车辆和20条赛道，简单的视觉效果。用[C](../Page/C.md "wikilink")和[C++](../Page/C++.md "wikilink")写成，释放在[GPL协议下](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 车辆
 
@@ -32,7 +32,7 @@ Simulator**》（**TORCS**）是一款[开源](https://zh.wikipedia.org/wiki/开
 ## TORCS Racing Board
 
 TORCS Racing
-Board竞赛[网站](http://www.berniw.org/trb/index.php)汇集了TORCS社区玩家，但不像传统竞赛，选手不会在[互联网或](../Page/互联网.md "wikilink")[局域网同时竞争](../Page/局域网.md "wikilink")，比赛参与者是TORCS
+Board竞赛[网站](http://www.berniw.org/trb/index.php)汇集了TORCS社区玩家，但不像传统竞赛，选手不会在[互联网](../Page/互联网.md "wikilink")或[局域网](../Page/局域网.md "wikilink")同时竞争，比赛参与者是TORCS
 Racing Board[AI](https://zh.wikipedia.org/wiki/AI "wikilink")
 或者说是**机器人**，用来检验玩家开发的水平。
 

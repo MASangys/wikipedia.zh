@@ -20,12 +20,12 @@ Mod的链接。
 
 由於[中國大陸執行](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[網絡審查政策](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")，VeryCD公司按照此政策，在其eMule
 VeryCD
-Mod和[easyMule中加入了](https://zh.wikipedia.org/wiki/easyMule "wikilink")[关键字过滤](https://zh.wikipedia.org/wiki/关键字过滤 "wikilink")。在搜索时会无法正常搜索一些敏感关键字词。过滤列表曾经放置於eMule安装文件夹\\config\\wordfilter.txt文件中，最近的版本中已将其加密。过滤內容為一些批評中國政府或與政府觀點相左的[政治相關詞彙](../Page/政治.md "wikilink")，以及一些未成年不宜的關鍵字。
+Mod和[easyMule中加入了](https://zh.wikipedia.org/wiki/easyMule "wikilink")[关键字过滤](https://zh.wikipedia.org/wiki/关键字过滤 "wikilink")。在搜索时会无法正常搜索一些敏感关键字词。过滤列表曾经放置於eMule安装文件夹\\config\\wordfilter.txt文件中，最近的版本中已将其加密。过滤內容為一些批評中國政府或與政府觀點相左的[政治](../Page/政治.md "wikilink")相關詞彙，以及一些未成年不宜的關鍵字。
 
 ## VeryCD版DLP库
 
 VeryCD Mod自Build 070906版本开始支持[Xtreme
-Mod的](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")[动态反吸血驴保护（DLP）](../Page/动态反吸血驴保护.md "wikilink")\[5\]。最初默认使用的是官方DLP库（即[Xtreme的DLP库](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")），但后来开始制作并默认使用自己的DLP库。2008年年中，其DLP库放行了[迅雷](../Page/迅雷.md "wikilink")。迅雷是一个典型的[吸血驴](../Page/吸血驴.md "wikilink")，因而VeryCD的做法招来了许多争议。\[6\]\[7\]2008年11月，VeryCD的DLP库误屏蔽了[Xtreme](https://zh.wikipedia.org/wiki/Xtreme "wikilink")，并且未及时承认错误，反而封锁社区用户账号，造成较大影响。后来VeryCD官方承认并修正了其DLP的误屏蔽。\[8\]\[9\]
+Mod的](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")[动态反吸血驴保护](../Page/动态反吸血驴保护.md "wikilink")（DLP）\[5\]。最初默认使用的是官方DLP库（即[Xtreme的DLP库](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")），但后来开始制作并默认使用自己的DLP库。2008年年中，其DLP库放行了[迅雷](../Page/迅雷.md "wikilink")。迅雷是一个典型的[吸血驴](../Page/吸血驴.md "wikilink")，因而VeryCD的做法招来了许多争议。\[6\]\[7\]2008年11月，VeryCD的DLP库误屏蔽了[Xtreme](https://zh.wikipedia.org/wiki/Xtreme "wikilink")，并且未及时承认错误，反而封锁社区用户账号，造成较大影响。后来VeryCD官方承认并修正了其DLP的误屏蔽。\[8\]\[9\]
 
 2009年10月11日，有用户称VeryCD公司的DLP库误屏蔽了[CN
 Mod](https://zh.wikipedia.org/wiki/eMule_CN_Mod "wikilink")，之后该用户的贴被删\[10\]，但VeryCD迅速于15日发布的新VeryCD

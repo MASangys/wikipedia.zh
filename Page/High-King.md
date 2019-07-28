@@ -30,7 +30,7 @@ Project旗下的團體之一](https://zh.wikipedia.org/wiki/Hello!_Project "wiki
 
 <!-- end list -->
 
-  - 7月 - 在[早安家族翻唱專輯](../Page/早安家族.md "wikilink")「」中演唱「Diamonds」一曲。
+  - 7月 - 在[早安家族](../Page/早安家族.md "wikilink")翻唱專輯「」中演唱「Diamonds」一曲。
 
 ## 作品
 

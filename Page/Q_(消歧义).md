@@ -1,5 +1,5 @@
-[Q, q](../Page/Q.md "wikilink")
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")17个[字母](../Page/字母.md "wikilink")。
+[Q q](../Page/Q.md "wikilink"),
+是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第17个[字母](../Page/字母.md "wikilink")。
 
 除此之外，Q还可以指代：
 
@@ -7,7 +7,7 @@
 
   - \(\mathbb{Q}\)或**Q**，全体[有理數的](https://zh.wikipedia.org/wiki/有理數 "wikilink")[集合](https://zh.wikipedia.org/wiki/集合_\(數學\) "wikilink")
   - Q，指[罗宾森算术](https://zh.wikipedia.org/wiki/罗宾森算术 "wikilink")
-  - Q，指[四元群或](../Page/四元群.md "wikilink")[四元數](https://zh.wikipedia.org/wiki/四元數 "wikilink")
+  - Q，指[四元群](../Page/四元群.md "wikilink")或[四元數](https://zh.wikipedia.org/wiki/四元數 "wikilink")
   - Q，指[假發現率](https://zh.wikipedia.org/wiki/假發現率 "wikilink")
   - Q，[一次面积矩](https://zh.wikipedia.org/wiki/一次面积矩 "wikilink")
 
@@ -37,9 +37,9 @@
 
 ## 工程学
 
-  - [Q因数](https://zh.wikipedia.org/wiki/Q因数 "wikilink")，[共振系统中的一个指标](../Page/共振.md "wikilink")
-  - Q，[晶体管的标准缩写](../Page/晶体管.md "wikilink")
-  - [Q点](https://zh.wikipedia.org/wiki/Q点 "wikilink")，[直流电路中](https://zh.wikipedia.org/wiki/直流电 "wikilink")[晶体管的工作点](../Page/晶体管.md "wikilink")
+  - [Q因数](https://zh.wikipedia.org/wiki/Q因数 "wikilink")，[共振](../Page/共振.md "wikilink")系统中的一个指标
+  - Q，[晶体管](../Page/晶体管.md "wikilink")的标准缩写
+  - [Q点](https://zh.wikipedia.org/wiki/Q点 "wikilink")，[直流电路中](https://zh.wikipedia.org/wiki/直流电 "wikilink")[晶体管](../Page/晶体管.md "wikilink")的工作点
   - [Q因数 (自行车)](https://zh.wikipedia.org/wiki/Q因数_\(自行车\) "wikilink")
   - [品质系数](https://zh.wikipedia.org/wiki/品质系数 "wikilink")，[视频编解码器](../Page/视频编解码器.md "wikilink")（如[XVid](https://zh.wikipedia.org/wiki/XVid "wikilink")）中控制图像质量的参数
 
@@ -64,7 +64,7 @@
 
 ## 人物角色
 
-  - [阿Q](../Page/阿Q.md "wikilink")，[鲁迅的小说](../Page/鲁迅.md "wikilink")《[阿Q正传](../Page/阿Q正传.md "wikilink")》的主人公
+  - [阿Q](../Page/阿Q.md "wikilink")，[鲁迅](../Page/鲁迅.md "wikilink")的小说《[阿Q正传](../Page/阿Q正传.md "wikilink")》的主人公
   - [Q先生](https://zh.wikipedia.org/wiki/Q先生 "wikilink")，[詹姆斯·邦德饰演的一个](https://zh.wikipedia.org/wiki/詹姆斯·邦德 "wikilink")[虚构角色](https://zh.wikipedia.org/wiki/虚构角色 "wikilink")
   - [Q
     (星际迷航)](https://zh.wikipedia.org/wiki/Q_\(星际迷航\) "wikilink")，《[星际迷航](https://zh.wikipedia.org/wiki/星际迷航 "wikilink")》中几个全能的角色的统一名称
@@ -85,17 +85,17 @@
   - 《[Q大街](https://zh.wikipedia.org/wiki/Q大街 "wikilink")》，一部[百老汇](https://zh.wikipedia.org/wiki/百老汇 "wikilink")[音乐剧](https://zh.wikipedia.org/wiki/音乐剧 "wikilink")
   - 《[ビジターＱ](https://zh.wikipedia.org/wiki/ビジターＱ "wikilink")》，一部2001年的日本电影
   - [Q
-    (电视剧)](https://zh.wikipedia.org/wiki/Q_\(电视剧\) "wikilink")，一部1969年至1983年在[英國廣播公司第二台播出的系列](../Page/英國廣播公司第二台.md "wikilink")[喜剧](https://zh.wikipedia.org/wiki/喜剧 "wikilink")
+    (电视剧)](https://zh.wikipedia.org/wiki/Q_\(电视剧\) "wikilink")，一部1969年至1983年在[英國廣播公司第二台](../Page/英國廣播公司第二台.md "wikilink")播出的系列[喜剧](https://zh.wikipedia.org/wiki/喜剧 "wikilink")
   - [Q
-    (广播节目)](https://zh.wikipedia.org/wiki/Q_\(广播节目\) "wikilink")，一个[加拿大广播节目](../Page/加拿大.md "wikilink")
+    (广播节目)](https://zh.wikipedia.org/wiki/Q_\(广播节目\) "wikilink")，一个[加拿大](../Page/加拿大.md "wikilink")广播节目
   - [Q分数](https://zh.wikipedia.org/wiki/Q分数 "wikilink")，一个关于角色知名度和吸引力的指标
   - [Q版](https://zh.wikipedia.org/wiki/Q版 "wikilink")
   - [Q广播](https://zh.wikipedia.org/wiki/Q广播 "wikilink")，一个由[Q杂志主办的](https://zh.wikipedia.org/wiki/Q杂志 "wikilink")[广播电台](https://zh.wikipedia.org/wiki/广播电台 "wikilink")
   - [Q
     (电视频道)](https://zh.wikipedia.org/wiki/Q_\(电视频道\) "wikilink")，一个[Q杂志主办的](https://zh.wikipedia.org/wiki/Q杂志 "wikilink")[电视频道](../Page/电视台.md "wikilink")
   - [Q
-    (电视广播公司)](https://zh.wikipedia.org/wiki/Q_\(电视广播公司\) "wikilink")，一个由[GMA网络主办的](https://zh.wikipedia.org/wiki/GMA网络 "wikilink")[电视广播公司](../Page/电视.md "wikilink")
-  - [Q剧院](https://zh.wikipedia.org/wiki/Q剧院 "wikilink")，英国[伦敦西部](../Page/伦敦.md "wikilink")[邱桥附近的一所剧院](https://zh.wikipedia.org/wiki/邱桥 "wikilink")，1924年开办
+    (电视广播公司)](https://zh.wikipedia.org/wiki/Q_\(电视广播公司\) "wikilink")，一个由[GMA网络主办的](https://zh.wikipedia.org/wiki/GMA网络 "wikilink")[电视](../Page/电视.md "wikilink")广播公司
+  - [Q剧院](https://zh.wikipedia.org/wiki/Q剧院 "wikilink")，英国[伦敦](../Page/伦敦.md "wikilink")西部[邱桥附近的一所剧院](https://zh.wikipedia.org/wiki/邱桥 "wikilink")，1924年开办
   - [Q Theatre
     Pentris](https://zh.wikipedia.org/wiki/Q_Theatre_Pentris "wikilink")，[新南威爾士州](../Page/新南威爾士州.md "wikilink")[郊区](https://zh.wikipedia.org/wiki/郊区 "wikilink")[彭里斯的一所剧院](https://zh.wikipedia.org/wiki/彭里斯 "wikilink")
   - 《[福音戰士新劇場版：Q](../Page/福音戰士新劇場版：Q.md "wikilink")》，動畫[新世紀福音戰士於](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")2012年上映的[新劇場版系列的第三部](../Page/福音戰士新劇場版.md "wikilink")。
@@ -104,25 +104,25 @@
 
   - 《[Q](../Page/"Q".md "wikilink")》，一首由日本[J-pop乐团](https://zh.wikipedia.org/wiki/J-pop "wikilink")[AAA发行的](../Page/AAA_\(團體\).md "wikilink")[单曲](../Page/单曲.md "wikilink")
 
-  - 《[Q](https://zh.wikipedia.org/wiki/Q_\(专辑\) "wikilink")》，一套[Mr.Children于](../Page/Mr.Children.md "wikilink")2000年发售的专辑
+  - 《[Q](https://zh.wikipedia.org/wiki/Q_\(专辑\) "wikilink")》，一套[Mr.Children](../Page/Mr.Children.md "wikilink")于2000年发售的专辑
 
   - ，一个1982年的美国[电子乐队](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")
 
-  - ，一个1970年代的美国[迪斯科乐队](../Page/迪斯科.md "wikilink")
+  - ，一个1970年代的美国[迪斯科](../Page/迪斯科.md "wikilink")乐队
 
-  - [昆西·琼斯](../Page/昆西·琼斯.md "wikilink")，[美国唱片制作人](../Page/美国.md "wikilink")、电影制作人、作词作曲家
+  - [昆西·琼斯](../Page/昆西·琼斯.md "wikilink")，[美国](../Page/美国.md "wikilink")唱片制作人、电影制作人、作词作曲家
 
   - ，[美国](../Page/美国.md "wikilink")[流行歌手](https://zh.wikipedia.org/wiki/流行歌手 "wikilink")、[舞女](https://zh.wikipedia.org/wiki/舞女 "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")
 
 ## 体育
 
   - [Q
-    (圣何塞地震吉祥物)](https://zh.wikipedia.org/wiki/Q_\(圣何塞地震吉祥物\) "wikilink")，[美国职业足球大联盟球队](https://zh.wikipedia.org/wiki/美国职业足球大联盟 "wikilink")[圣何塞地震的蓝色毛绒](../Page/圣何塞地震.md "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
+    (圣何塞地震吉祥物)](https://zh.wikipedia.org/wiki/Q_\(圣何塞地震吉祥物\) "wikilink")，[美国职业足球大联盟球队](https://zh.wikipedia.org/wiki/美国职业足球大联盟 "wikilink")[圣何塞地震](../Page/圣何塞地震.md "wikilink")的蓝色毛绒[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
 
   - 的简称（“The Q”）
 
   - [Quicken Loans
-    Arena](https://zh.wikipedia.org/wiki/Quicken_Loans_Arena "wikilink")，[克里夫兰骑士队的球馆](../Page/克里夫兰骑士.md "wikilink")（“The
+    Arena](https://zh.wikipedia.org/wiki/Quicken_Loans_Arena "wikilink")，[克里夫兰骑士](../Page/克里夫兰骑士.md "wikilink")队的球馆（“The
     Q”）
 
 ## 出版
@@ -153,6 +153,6 @@
 
 <!-- end list -->
 
-  - [季度](https://zh.wikipedia.org/wiki/季度 "wikilink")，如[Q1指一季度](../Page/Q1.md "wikilink")
+  - [季度](https://zh.wikipedia.org/wiki/季度 "wikilink")，如[Q1](../Page/Q1.md "wikilink")指一季度
   - 在台灣以台語發音**Q**表示食物的口感有彈性。[臺灣閩南語推薦用字使用](https://zh.wikipedia.org/wiki/臺灣閩南語推薦用字 "wikilink")**[𩚨](https://zh.wikipedia.org/wiki/:wikt:𩚨 "wikilink")**為正字。
   - [Q版有时作为形容词](https://zh.wikipedia.org/wiki/Q版 "wikilink")，如“很Q”，形容可爱或感官上让人感觉很有嚼头，亦有说源于英语单词Cute的说法（与Q发音相似）

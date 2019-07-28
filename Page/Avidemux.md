@@ -1,4 +1,4 @@
-**Avidumux**是一个[开放源代码的跨平台视频编辑软件](../Page/开放源代码.md "wikilink")，遵循[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
+**Avidumux**是一个[开放源代码](../Page/开放源代码.md "wikilink")的跨平台视频编辑软件，遵循[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 功能
 
@@ -71,7 +71,7 @@
   - [HuffYUV](https://zh.wikipedia.org/wiki/HuffYUV "wikilink")
   - [MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")
   - [MPEG-4](../Page/MPEG-4.md "wikilink")（SP/ASP，使用[FFmpeg](../Page/FFmpeg.md "wikilink")
-    [MPEG-4或](../Page/MPEG-4.md "wikilink")[Xvid](../Page/Xvid.md "wikilink")）
+    [MPEG-4](../Page/MPEG-4.md "wikilink")或[Xvid](../Page/Xvid.md "wikilink")）
   - [MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")
   - [Snow](https://zh.wikipedia.org/wiki/Snow_\(codec\) "wikilink")
 

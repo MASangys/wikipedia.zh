@@ -48,7 +48,7 @@
 
 ## 天国王朝
 
-戰役開始於1174年，歷史上在[第三次十字軍東征之前](https://zh.wikipedia.org/wiki/第三次十字軍東征 "wikilink")。當時[耶路撒冷王國和](../Page/耶路撒冷王國.md "wikilink")[安條克公國想在](../Page/安條克公國.md "wikilink")[聖地擴大勢力](../Page/聖地.md "wikilink")，不過遇到[埃及](../Page/埃及.md "wikilink")[阿尤布王朝的](../Page/阿尤布王朝.md "wikilink")[蘇丹](https://zh.wikipedia.org/wiki/蘇丹 "wikilink")[薩拉丁與](https://zh.wikipedia.org/wiki/薩拉丁 "wikilink")[贊吉王朝的反抗](https://zh.wikipedia.org/wiki/贊吉王朝 "wikilink")。
+戰役開始於1174年，歷史上在[第三次十字軍東征之前](https://zh.wikipedia.org/wiki/第三次十字軍東征 "wikilink")。當時[耶路撒冷王國](../Page/耶路撒冷王國.md "wikilink")和[安條克公國](../Page/安條克公國.md "wikilink")想在[聖地](../Page/聖地.md "wikilink")擴大勢力，不過遇到[埃及](../Page/埃及.md "wikilink")[阿尤布王朝](../Page/阿尤布王朝.md "wikilink")的[蘇丹](https://zh.wikipedia.org/wiki/蘇丹 "wikilink")[薩拉丁與](https://zh.wikipedia.org/wiki/薩拉丁 "wikilink")[贊吉王朝的反抗](https://zh.wikipedia.org/wiki/贊吉王朝 "wikilink")。
 
 ### 國家列表
 
@@ -105,7 +105,7 @@
 
 ## 条顿悲歌
 
-戰役開始於1250年，条顿悲歌的背景是[北方十字軍期間](https://zh.wikipedia.org/wiki/北方十字軍 "wikilink")[條頓騎士團征服](https://zh.wikipedia.org/wiki/條頓騎士團 "wikilink")[波羅的海沿岸的戰事](https://zh.wikipedia.org/wiki/波羅的海 "wikilink")。與其對立的是篤信[多神教的](https://zh.wikipedia.org/wiki/多神教 "wikilink")[立陶宛大公國](https://zh.wikipedia.org/wiki/立陶宛大公國 "wikilink")、虔誠的[東正教之地](https://zh.wikipedia.org/wiki/東正教 "wikilink")[诺夫哥罗德共和国和深感威脅的](../Page/诺夫哥罗德共和国.md "wikilink")[波蘭王國](../Page/波蘭王國_\(1385年-1569年\).md "wikilink")。
+戰役開始於1250年，条顿悲歌的背景是[北方十字軍期間](https://zh.wikipedia.org/wiki/北方十字軍 "wikilink")[條頓騎士團征服](https://zh.wikipedia.org/wiki/條頓騎士團 "wikilink")[波羅的海沿岸的戰事](https://zh.wikipedia.org/wiki/波羅的海 "wikilink")。與其對立的是篤信[多神教的](https://zh.wikipedia.org/wiki/多神教 "wikilink")[立陶宛大公國](https://zh.wikipedia.org/wiki/立陶宛大公國 "wikilink")、虔誠的[東正教之地](https://zh.wikipedia.org/wiki/東正教 "wikilink")[诺夫哥罗德共和国](../Page/诺夫哥罗德共和国.md "wikilink")和深感威脅的[波蘭王國](../Page/波蘭王國_\(1385年-1569年\).md "wikilink")。
 
 ### 國家列表
 

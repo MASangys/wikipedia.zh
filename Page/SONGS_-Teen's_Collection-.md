@@ -1,5 +1,5 @@
 SONGS -Teen's Collection-
-是[高润荷的第二张](https://zh.wikipedia.org/wiki/Younha "wikilink")[日语专辑](../Page/日语.md "wikilink")。
+是[高润荷的第二张](https://zh.wikipedia.org/wiki/Younha "wikilink")[日语](../Page/日语.md "wikilink")专辑。
 此专辑包括以前的单曲，两首新歌"Scratch On The Heart" 、 "Kono Kokoro"，和"Secret Number
 486"。
 

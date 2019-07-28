@@ -13,7 +13,7 @@ Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。
   - 根據[ORICON公信榜的統計](https://zh.wikipedia.org/wiki/ORICON公信榜 "wikilink")，發售當天即創下銷售超過兩萬張、該日銷售量第三名的紀錄。4月24日《》成為該日銷售量第一名。而在同一天《[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")》也獲得銷售量第二名。以同一動畫主題曲、同一歌唱者名義、同日發售在公信榜上締造第1、2名的佳績，可謂十分罕見。
   - 之後銷售沒有衰退的跡象，至同年4月27日止連續四天之當日銷售量仍為第一，但週排行敗於[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")『THE
     MONSTER
-    〜Someday〜』獲得第二名。首週販售量超過《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》主題曲『もってけ\!セーラーふく』，發售第三週銷售量突破10萬張。同時與『Cagayake\!GIRLS』一同達成"同一歌手、同時發售之單曲連續三周同時進入top10"的單曲記錄。此為自1999年1月[宇多田光的](../Page/宇多田光.md "wikilink")『Automatic/time
+    〜Someday〜』獲得第二名。首週販售量超過《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》主題曲『もってけ\!セーラーふく』，發售第三週銷售量突破10萬張。同時與『Cagayake\!GIRLS』一同達成"同一歌手、同時發售之單曲連續三周同時進入top10"的單曲記錄。此為自1999年1月[宇多田光](../Page/宇多田光.md "wikilink")的『Automatic/time
     will
     tell』8cm盤・12cm盤後相隔10年四個月的單曲新記錄，"同一歌手而不同作品"方面則是自1998年7月[L'Arc〜en〜Ciel的](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")『HONEY』『花葬』『浸食
     〜lose control〜』以來相隔約11年後的單曲新記錄，2009年5月的月排名為第三名。

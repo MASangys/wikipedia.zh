@@ -14,8 +14,8 @@ Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
   - **Shaman:** Shaman是多功能的[Qt](../Page/Qt.md "wikilink")
     4前端，它擴展了pacman一系列功能，圖形化的設置，以及ABS的支持。
   - **pacmanager-svn:**用Qt 4開發，基於pacman的包管理器。
-  - **kpacupdate:**適用與[KDE系統消息欄的Pacman更新消息提示工具](../Page/KDE.md "wikilink")。
-  - **octopi:**使用[Qt編寫的pacman圖型前端](../Page/Qt.md "wikilink")。
+  - **kpacupdate:**適用與[KDE](../Page/KDE.md "wikilink")系統消息欄的Pacman更新消息提示工具。
+  - **octopi:**使用[Qt](../Page/Qt.md "wikilink")編寫的pacman圖型前端。
   - **oktopi:**octopi的分支，針對KDE所設計，已併入octopi。
 
 ### GTK/GNOME界面
@@ -30,13 +30,31 @@ Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 
 ## 语法
 
-### 安裝
+### 同步包
 
 在終端機裡輸入：
 
   - pacman -S <package>
 
 這樣系統會封閉迴路自動下載封包<package>以及所有的依存套件，同時進行一系列套件的安裝過程進行。
+
+参数：
+
+  - \-s --search <正则表达式>
+
+会在所有源列表中搜索与表达式匹配的包并列出
+
+  - \-u --sysupgrade
+
+将升级所有版本比源列表低的包，通过调用两次可以变为与源列表不相等的包，该命令对于从不稳定源切换至稳定源十分有用
+
+  - \-w --downloadonly
+
+只返回搜索结果，不进行安装或升级操作
+
+  - \-y --refresh
+
+下载主源列表最新副本，通常配合 -u 使用，通过调用两次即可强制下载，即使版本相同
 
 ### 移除
 
@@ -46,13 +64,23 @@ Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 
 這樣系統會自動移除<package>以及任何依此存套件的其它套件。
 
-### 升級
+参数：
 
-在終端機裡輸入：
+  - \-c --cascade
 
-  - pacman -Syu
+递归删除该包及所有与该包有依赖关系的包，请小心使用该参数
 
-這樣系統會自動更新所有的套件。每次修改了 /etc/pacman.d/mirrorlist後，也必須執行一次。
+  - \-u --uneeded
+
+删除向下没有依赖关系的包，比起 -c ，本参数更为安全
+
+### 更新
+
+在终端机中输入：
+
+  - pacman -U <package>
+
+这样系统可以同步已经在本地的包至最新状态
 
 ## 参见
 
@@ -73,5 +101,7 @@ Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
     in 2003](http://distrowatch.com/dwres.php?resource=interview-arch)\<\!--
 
 Interlang --\>
+
+  - [pacman 文档](https://www.archlinux.org/pacman/pacman.8.html)
 
 [Category:软件包管理系统](https://zh.wikipedia.org/wiki/Category:软件包管理系统 "wikilink")

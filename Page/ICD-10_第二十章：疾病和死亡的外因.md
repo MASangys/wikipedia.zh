@@ -34,7 +34,7 @@
 ### V20-V29 摩托车驾驶人员在运输事故中的损伤
 
   - V20
-    摩托车驾驶人员在[摩托车与](https://zh.wikipedia.org/wiki/摩托车 "wikilink")[行人或](../Page/行人.md "wikilink")[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
+    摩托车驾驶人员在[摩托车与](https://zh.wikipedia.org/wiki/摩托车 "wikilink")[行人](../Page/行人.md "wikilink")或[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
   - V21 摩托车驾驶人员在摩托车与脚踏车碰撞中的损伤
   - V22 摩托车驾驶人员在摩托车与两轮或三轮车机动车碰撞中的损伤
   - V23 摩托车驾驶人员在摩托车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -157,7 +157,7 @@
   - W03 由于被别人碰撞或推动引起的在同一平面上的其他跌倒
   - W04 在被他人运送或搀扶时跌倒
   - W05 涉及[轮椅上的跌落](https://zh.wikipedia.org/wiki/轮椅 "wikilink")
-  - W06 涉及[床上的跌落](../Page/床.md "wikilink")
+  - W06 涉及[床](../Page/床.md "wikilink")上的跌落
   - W07 涉及椅子上的跌落
   - W08 涉及其他家具上的跌落
   - W09 涉及运动场设施上的跌落
@@ -165,8 +165,8 @@
   - W11 在[梯子上跌倒和跌落](https://zh.wikipedia.org/wiki/梯子 "wikilink")
   - W12 在脚手架上跌倒和跌落
   - W13 从房屋或建筑结构上跌落或跌出
-  - W14 从[树上跌落](../Page/树.md "wikilink")
-  - W15 从[悬崖上跌落](../Page/悬崖.md "wikilink")
+  - W14 从[树](../Page/树.md "wikilink")上跌落
+  - W15 从[悬崖](../Page/悬崖.md "wikilink")上跌落
   - W16 潜水或跳水引起的损伤，除外淹溺和沉没
   - W17 从一个平面至另一个平面的其他跌落
   - W18 在同一个平面的其他跌倒
@@ -283,13 +283,13 @@
 
 ### X20-X29 接触有毒的动物和植物
 
-  - X20 接触[毒蛇和](../Page/毒蛇.md "wikilink")[蜥蜴](../Page/蜥蜴.md "wikilink")
+  - X20 接触[毒蛇](../Page/毒蛇.md "wikilink")和[蜥蜴](../Page/蜥蜴.md "wikilink")
   - X21 接触[毒蜘蛛](https://zh.wikipedia.org/wiki/毒蜘蛛 "wikilink")
   - X22 接触[蝎子](https://zh.wikipedia.org/wiki/蝎子 "wikilink")
   - X23
-    接触[大黄蜂](https://zh.wikipedia.org/wiki/大黄蜂 "wikilink")、[黄蜂和](../Page/黄蜂.md "wikilink")[蜜蜂](../Page/蜜蜂.md "wikilink")
+    接触[大黄蜂](https://zh.wikipedia.org/wiki/大黄蜂 "wikilink")、[黄蜂](../Page/黄蜂.md "wikilink")和[蜜蜂](../Page/蜜蜂.md "wikilink")
   - X24
-    接触[蜈蚣和有毒的](../Page/蜈蚣.md "wikilink")[千足虫](https://zh.wikipedia.org/wiki/千足虫 "wikilink")
+    接触[蜈蚣](../Page/蜈蚣.md "wikilink")和有毒的[千足虫](https://zh.wikipedia.org/wiki/千足虫 "wikilink")
   - X25 接触其他特指的有毒的节肢动物
   - X26 接触有毒的海生动物和植物
   - X27 接触其他特指的有毒动物
@@ -302,12 +302,12 @@
   - X31 暴露于过度自然寒冷下
   - X32 暴露于阳光下
   - X33 闪电的受害者
-  - X34 [地震受害者](../Page/地震.md "wikilink")
+  - X34 [地震](../Page/地震.md "wikilink")受害者
   - X35 火山爆发受害者
   - X36
-    [雪崩](../Page/雪崩.md "wikilink")、[山崩和其他地面运动受害者](../Page/山崩.md "wikilink")
+    [雪崩](../Page/雪崩.md "wikilink")、[山崩](../Page/山崩.md "wikilink")和其他地面运动受害者
   - X37 灾难性暴风雨受害者
-  - X38 [洪水受害者](../Page/洪水.md "wikilink")
+  - X38 [洪水](../Page/洪水.md "wikilink")受害者
   - X39 暴露于其他和未特指的自然力量下
 
 ### X40-X49 有毒物质的意外中毒及暴露于该物质下

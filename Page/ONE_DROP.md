@@ -1,10 +1,10 @@
 《**ONE
-DROP**》是[日本](../Page/日本.md "wikilink")[男性偶像團體](../Page/男性.md "wikilink")[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")9張單曲作品。獲得日本公信榜2009年單曲榜年終排名第9名的成績。
+DROP**》是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第9張單曲作品。獲得日本公信榜2009年單曲榜年終排名第9名的成績。
 
 ## 概要
 
   - KAT-TUN的第9張單曲「ONE
-    DROP」是充滿了如兜風般清爽、簡樸與直率的搖滾樂曲。也是由成員[龜梨和也所主演](../Page/龜梨和也.md "wikilink")、日本電視台每週二播映的「[神之雫](../Page/神之雫.md "wikilink")」連續劇的主題曲。
+    DROP」是充滿了如兜風般清爽、簡樸與直率的搖滾樂曲。也是由成員[龜梨和也](../Page/龜梨和也.md "wikilink")所主演、日本電視台每週二播映的「[神之雫](../Page/神之雫.md "wikilink")」連續劇的主題曲。
   - 附歌「D-T-S」是由成員擔當演出的LOTTE的PLUS X電視廣告歌曲。
   - 初回限定版中的DVD是「ONE DROP」的Video Cilp並收錄Making。
   - 通常盤／初回附加版本將加上第3首歌「On My Mind」。

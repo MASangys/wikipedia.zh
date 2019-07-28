@@ -1,5 +1,5 @@
 **Elder
-Club**（）此一詞在2006年的演唱會開始被使用，之後由[早安家族藝人的路線分成兩部分](../Page/早安家族.md "wikilink")，另一為[Wonderful
+Club**（）此一詞在2006年的演唱會開始被使用，之後由[早安家族](../Page/早安家族.md "wikilink")藝人的路線分成兩部分，另一為[Wonderful
 Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
 
   - UFA 以於2008年10月19日發表，エルダークラブ所屬成員在2009年家族演唱會上全數卒業，演唱會標題為[Hello！Project
@@ -43,7 +43,7 @@ Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
   - [吉澤瞳](../Page/吉澤瞳.md "wikilink")（至2007年5月）
   - [藤本美貴](../Page/藤本美貴.md "wikilink")（至2007年5月）
 
-[石川梨華](../Page/石川梨華.md "wikilink")、[三好繪里香](https://zh.wikipedia.org/wiki/三好繪里香 "wikilink")、[岡田唯以](https://zh.wikipedia.org/wiki/岡田唯 "wikilink")[美勇傳的身份至](../Page/美勇傳.md "wikilink")2007年12月為止為[ワンダフルハーツ的成員](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")（美勇傳2008年1月開始為エルダークラブ所屬，2008年6月解散）。
+[石川梨華](../Page/石川梨華.md "wikilink")、[三好繪里香](https://zh.wikipedia.org/wiki/三好繪里香 "wikilink")、[岡田唯以](https://zh.wikipedia.org/wiki/岡田唯 "wikilink")[美勇傳](../Page/美勇傳.md "wikilink")的身份至2007年12月為止為[ワンダフルハーツ的成員](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")（美勇傳2008年1月開始為エルダークラブ所屬，2008年6月解散）。
 
 ## 演出
 
@@ -53,7 +53,7 @@ Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
 
   - [ハロー\!モーニング。](https://zh.wikipedia.org/wiki/ハロー!モーニング。 "wikilink")（2000年4月－2007年4月）
   - [ハロモニ@](https://zh.wikipedia.org/wiki/ハロモニ@ "wikilink")（2007年4月－2008年9月）
-      - 此節目基本上由早安少女組｡所演出，同團體在籍中的[吉澤瞳和](../Page/吉澤瞳.md "wikilink")[藤本美貴也有參加演出](../Page/藤本美貴.md "wikilink")。
+      - 此節目基本上由早安少女組｡所演出，同團體在籍中的[吉澤瞳](../Page/吉澤瞳.md "wikilink")和[藤本美貴](../Page/藤本美貴.md "wikilink")也有參加演出。
 
 <!-- end list -->
 

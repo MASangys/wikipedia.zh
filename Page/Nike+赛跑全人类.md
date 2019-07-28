@@ -1,8 +1,8 @@
-**Nike+赛跑全人类**是[Nike在全球](https://zh.wikipedia.org/wiki/Nike "wikilink")25個城市主導的慈善路跑活動，主要是希望藉由全球各城市的路跑接力串聯，達成慈善公益的目標。除了路跑的正式賽，各地也在賽後舉行演唱會。各站的路線設計上，皆會與景點相結合，包含[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")\[1\]、[土耳其的](../Page/土耳其.md "wikilink")[博斯普魯斯大橋](../Page/7月15日烈士大橋.md "wikilink")\[2\]、[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑奥林匹克体育场](../Page/慕尼黑奥林匹克体育场.md "wikilink")、[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北101](../Page/台北101.md "wikilink")…等，雖然此項慈善路跑並非競賽性質，但仍有部份分站會舉行頒獎典禮，來表揚優勝的選手。
+**Nike+赛跑全人类**是[Nike在全球](https://zh.wikipedia.org/wiki/Nike "wikilink")25個城市主導的慈善路跑活動，主要是希望藉由全球各城市的路跑接力串聯，達成慈善公益的目標。除了路跑的正式賽，各地也在賽後舉行演唱會。各站的路線設計上，皆會與景點相結合，包含[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")\[1\]、[土耳其](../Page/土耳其.md "wikilink")的[博斯普魯斯大橋](../Page/7月15日烈士大橋.md "wikilink")\[2\]、[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑奥林匹克体育场](../Page/慕尼黑奥林匹克体育场.md "wikilink")、[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北101](../Page/台北101.md "wikilink")…等，雖然此項慈善路跑並非競賽性質，但仍有部份分站會舉行頒獎典禮，來表揚優勝的選手。
 
 ## 活動特色
 
-[2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg](https://zh.wikipedia.org/wiki/File:2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg "fig:2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg")的[淡水漁人碼頭進行](../Page/淡水漁人碼頭.md "wikilink")。\]\]
+[2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg](https://zh.wikipedia.org/wiki/File:2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg "fig:2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg")的[淡水漁人碼頭](../Page/淡水漁人碼頭.md "wikilink")進行。\]\]
 
   - 跑步训练营：與-{[Nike Run
     Taipei](../Page/Nike_Run_Taipei.md "wikilink")}-、ING Running

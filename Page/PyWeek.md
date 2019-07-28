@@ -1,12 +1,12 @@
-**PyWeek**是一个用[Python语言开发游戏的竞赛](https://zh.wikipedia.org/wiki/Python语言 "wikilink")，早期多利用[Pygame作遊戲引擎](../Page/Pygame.md "wikilink")，及後也有很多不同的參賽者使用[Pyglet](https://zh.wikipedia.org/wiki/Pyglet "wikilink")。这项竞赛开始于2005年6月，最近的第20次是在2015年8月。\[1\]所有游戏必须开放源代码和媒体文件，作者持有版权并以[自由软件的协议发布](../Page/自由软件.md "wikilink")。如果使用者使用第三方的資源來發佈遊戲，必須確定第三方的資源為公開的public
-domain協議發放。因为[开放源代码的特殊性](../Page/开放源代码.md "wikilink")，被众多游戏媒体所忽视。
+**PyWeek**是一个用[Python语言开发游戏的竞赛](https://zh.wikipedia.org/wiki/Python语言 "wikilink")，早期多利用[Pygame](../Page/Pygame.md "wikilink")作遊戲引擎，及後也有很多不同的參賽者使用[Pyglet](https://zh.wikipedia.org/wiki/Pyglet "wikilink")。这项竞赛开始于2005年6月，最近的第20次是在2015年8月。\[1\]所有游戏必须开放源代码和媒体文件，作者持有版权并以[自由软件](../Page/自由软件.md "wikilink")的协议发布。如果使用者使用第三方的資源來發佈遊戲，必須確定第三方的資源為公開的public
+domain協議發放。因为[开放源代码](../Page/开放源代码.md "wikilink")的特殊性，被众多游戏媒体所忽视。
 
 ## 流程
 
 报名，参与的游戏条目有个人和团体两组，但参加者不限制其参与的项目数量。
 
-规则包括，所有的参与作品必须支持Python[库](https://zh.wikipedia.org/wiki/库 "wikilink")，如[Pygame和](../Page/Pygame.md "wikilink")[PyOpengl](https://zh.wikipedia.org/wiki/PyOpengl "wikilink")。
-如果需要制作[Windows用的可执行程序](https://zh.wikipedia.org/wiki/Windows "wikilink")，推荐参与者用[py2exe](https://zh.wikipedia.org/wiki/py2exe "wikilink")。[Linux](../Page/Linux.md "wikilink")，[BSD和](../Page/BSD.md "wikilink")[Mac
+规则包括，所有的参与作品必须支持Python[库](https://zh.wikipedia.org/wiki/库 "wikilink")，如[Pygame](../Page/Pygame.md "wikilink")和[PyOpengl](https://zh.wikipedia.org/wiki/PyOpengl "wikilink")。
+如果需要制作[Windows用的可执行程序](https://zh.wikipedia.org/wiki/Windows "wikilink")，推荐参与者用[py2exe](https://zh.wikipedia.org/wiki/py2exe "wikilink")。[Linux](../Page/Linux.md "wikilink")，[BSD](../Page/BSD.md "wikilink")和[Mac
 OS用户可以从源代码直接运行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。
 
 參與者如果希望提供自己所設計及使用的遊戲[库](https://zh.wikipedia.org/wiki/库 "wikilink")，必須在開賽前一個月提交，當中必須要好的文件來表達其遊戲庫如何使用及運作。
@@ -94,7 +94,7 @@ Up\!](https://zh.wikipedia.org/wiki/Wound_Up! "wikilink")。
   - [PyDay](https://zh.wikipedia.org/wiki/PyDay "wikilink") -
     类似的竞赛，不过要求一天完成
   - [RubyGame](https://zh.wikipedia.org/wiki/RubyGame "wikilink") -
-    基于[Ruby语言的引擎](../Page/Ruby.md "wikilink")
+    基于[Ruby](../Page/Ruby.md "wikilink")语言的引擎
   - [Ludum Dare](https://zh.wikipedia.org/wiki/Ludum_Dare "wikilink") -
     48小时游戏竞赛
 

@@ -2,7 +2,7 @@
 
 ## 简介
 
-  - 本单曲是[柴崎幸和](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")[福山雅治组成的组合](../Page/福山雅治.md "wikilink")[KOH<sup>+</sup>的第一张单曲](https://zh.wikipedia.org/wiki/KOH+ "wikilink")。同时也是[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")2007年秋季[月9剧](https://zh.wikipedia.org/wiki/月9 "wikilink")[神探伽利略的片尾曲](../Page/神探伽利略.md "wikilink")。
+  - 本单曲是[柴崎幸和](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")[福山雅治](../Page/福山雅治.md "wikilink")组成的组合[KOH<sup>+</sup>的第一张单曲](https://zh.wikipedia.org/wiki/KOH+ "wikilink")。同时也是[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")2007年秋季[月9剧](https://zh.wikipedia.org/wiki/月9 "wikilink")[神探伽利略](../Page/神探伽利略.md "wikilink")的片尾曲。
 
 ## 收录曲
 
@@ -11,7 +11,7 @@
 1.  **親親**（作詞・作曲：福山雅治
     編曲：福山雅治／[井上鑑](https://zh.wikipedia.org/wiki/井上鑑 "wikilink")）
       -
-        [富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")2007年秋季[月9剧](https://zh.wikipedia.org/wiki/月9 "wikilink")[神探伽利略的片尾曲](../Page/神探伽利略.md "wikilink")
+        [富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")2007年秋季[月9剧](https://zh.wikipedia.org/wiki/月9 "wikilink")[神探伽利略](../Page/神探伽利略.md "wikilink")的片尾曲
 2.  **親親（Original Karaoke）**
 
 ### DVD

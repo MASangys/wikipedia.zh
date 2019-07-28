@@ -1197,7 +1197,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="odd">
 <td><p>2005年</p></td>
 <td><p>12月16日</p></td>
-<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="../Page/東方神起.md" title="wikilink">東方神起專輯</a><br />
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="../Page/東方神起.md" title="wikilink">東方神起</a>專輯<br />
 《Show Me Your Love》</p></td>
 <td><p>Show Me Your Love</p></td>
 <td><p><em>Super Junior全體成員</em></p></td>
@@ -1980,6 +1980,14 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>7月13日</p></td>
+<td><p>綜藝節目《小區專輯》</p></td>
+<td><p>鄉村男孩的愛情故事</p></td>
+<td><p><a href="../Page/厲旭.md" title="wikilink">厲旭</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2313,13 +2321,13 @@ Junior于2011年12月16日成立的第五个官方子组合，
 
 <div class="references-small">
 
-[利特参与了独唱或和声的部分](../Page/利特.md "wikilink")。
-[希澈参与了独唱或和声的部分](../Page/希澈.md "wikilink")。
+[利特](../Page/利特.md "wikilink")参与了独唱或和声的部分。
+[希澈](../Page/希澈.md "wikilink")参与了独唱或和声的部分。
 [韩庚参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/韩庚 "wikilink")。
 [艺声参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/艺声 "wikilink")。
 [强仁参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/强仁 "wikilink")。
 [神童参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/神童_\(艺人\) "wikilink")。
-[晟敏参与了独唱或和声的部分](../Page/晟敏.md "wikilink")。
+[晟敏](../Page/晟敏.md "wikilink")参与了独唱或和声的部分。
 [银赫参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/银赫 "wikilink")。
 [东海参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")。
 [厉旭参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/厉旭 "wikilink")。

@@ -1,18 +1,18 @@
 **EX-am**（EX-am
-週刊）是[香港](../Page/香港.md "wikilink")[文化傳信發行的週刊少年漫畫雜誌](../Page/文化傳信.md "wikilink")，於1993年6月23日創刊，每週三出刊。其連載的漫畫作品多來自[日本](../Page/日本.md "wikilink")[集英社的](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》。於2008年12月24日出版的2009年4·5合併號正式宣佈停刊，而最後一期EX-am亦為2009年4·5合併號（760期）。
+週刊）是[香港](../Page/香港.md "wikilink")[文化傳信](../Page/文化傳信.md "wikilink")發行的週刊少年漫畫雜誌，於1993年6月23日創刊，每週三出刊。其連載的漫畫作品多來自[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")的《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》。於2008年12月24日出版的2009年4·5合併號正式宣佈停刊，而最後一期EX-am亦為2009年4·5合併號（760期）。
 
 ## 概要
 
   - 《EX-am》雖然是《週刊少年Jump》的中文版，卻不是每個《週刊少年Jump》的作品都會在其連載，因為《週刊少年Jump》的作品不全由文化傳信取得版權（如：《[NARUTO](https://zh.wikipedia.org/wiki/NARUTO "wikilink")》、《[家庭教師HITMAN
-    REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》、《[網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")》和《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》是[正文社取得](../Page/正文社.md "wikilink")，《[ONE
+    REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》、《[網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")》和《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》是[正文社](../Page/正文社.md "wikilink")取得，《[ONE
     PIECE](../Page/ONE_PIECE.md "wikilink")》是[天下出版社取得](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")）。
   - 每週三出刊，但真正出刊時間為週二。
-  - 《EX-am》除了漫畫連載外，也有[ACG相關商品](../Page/ACG.md "wikilink")、電影情報、動畫情報、漫話日語及不定期的特別報道。
+  - 《EX-am》除了漫畫連載外，也有[ACG](../Page/ACG.md "wikilink")相關商品、電影情報、動畫情報、漫話日語及不定期的特別報道。
   - 《EX-am》的漫畫連載，有時會一次連載兩回，使進度不至於過慢。
 
 ## 歷史
 
-《EX-am》為[香港首本日本](../Page/香港.md "wikilink")[集英社正式授權的週刊少年漫畫雜誌](../Page/集英社.md "wikilink")。隨著文化傳信之前的主打本地漫畫《[玉郎漫畫](../Page/玉郎漫畫.md "wikilink")》結束，承接的《EX-am》最初為連載日本及[香港漫畫](../Page/香港漫畫.md "wikilink")，其後開始轉為全[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。
+《EX-am》為[香港](../Page/香港.md "wikilink")首本日本[集英社](../Page/集英社.md "wikilink")正式授權的週刊少年漫畫雜誌。隨著文化傳信之前的主打本地漫畫《[玉郎漫畫](../Page/玉郎漫畫.md "wikilink")》結束，承接的《EX-am》最初為連載日本及[香港漫畫](../Page/香港漫畫.md "wikilink")，其後開始轉為全[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。
 《EX-am》創刊前，市面有若干日本漫畫中文版出現，比較具規模的出版社包括[海豹叢書出版社及](https://zh.wikipedia.org/wiki/海豹叢書 "wikilink")[雅景出版社](https://zh.wikipedia.org/wiki/雅景 "wikilink")，但皆沒有日本正式授權。時代改變令香港開始對版權加以重視，文化傳信開始了洽購版權的做法，日後在港出版的日本漫畫皆採用授權印刷。
 
 創刊時共有7個漫畫，除《繼承者超人H.V》為香港漫畫外，均為日本漫畫：
@@ -35,7 +35,7 @@
 
 ## 停刊原因
 
-由於時代轉變，大部份[香港讀者已不會購買](../Page/香港.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，轉向購買漫畫[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。另外，由於資訊發達，網上有大量免費的非法漫畫供線上閱讀，因此讀者不會花費購買漫畫雜誌。而且，漫畫雜誌的收藏價值和易手能力也比單行本低，因此讀者轉向購買單行本。
+由於時代轉變，大部份[香港](../Page/香港.md "wikilink")讀者已不會購買[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，轉向購買漫畫[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。另外，由於資訊發達，網上有大量免費的非法漫畫供線上閱讀，因此讀者不會花費購買漫畫雜誌。而且，漫畫雜誌的收藏價值和易手能力也比單行本低，因此讀者轉向購買單行本。
 
 ### 停刊通知
 

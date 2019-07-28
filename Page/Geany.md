@@ -3,7 +3,7 @@ zh-tw:整合式開發環境;}-。Geany支持许多种[程序设计语言](https:
 
 Geany是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以运行于[Linux](../Page/Linux.md "wikilink")、[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris和](../Page/Solaris.md "wikilink")[Windows等多种操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")和[Windows等多种操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 主要功能
 

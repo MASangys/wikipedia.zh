@@ -1,5 +1,5 @@
 《**Cyber TRANCE presents ayu trance 2**》（出神入化trance混音專輯
-2）是日本歌手[濱崎步的混音專輯](../Page/濱崎步.md "wikilink")，2002年9月26日於日本發售。為《ayu
+2）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2002年9月26日於日本發售。為《ayu
 trance》系列的第二彈。
 
 ## 說明

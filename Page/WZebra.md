@@ -1,4 +1,4 @@
-**WZebra**是一個為[黑白棋遊戲而編寫的](../Page/黑白棋.md "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，供練習和分析棋局。
+**WZebra**是一個為[黑白棋](../Page/黑白棋.md "wikilink")遊戲而編寫的[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，供練習和分析棋局。
 
 ## 歷史
 
@@ -48,7 +48,7 @@ II）计算机程序錦標賽中，Zebra獲季軍（冠軍是[Hannibal](https://
 2002年5月，WZebra 3.2版發佈。它比先前版具有更多的功能、更少的錯誤、以及一個能更好理解罕見局面的估值函數。
 
 2002年8月，WZebra 及LZebra
-3.3版發佈。後者是WZebra的[Linux移植程序](../Page/Linux.md "wikilink")，兩者包含相同的功能。
+3.3版發佈。後者是WZebra的[Linux](../Page/Linux.md "wikilink")移植程序，兩者包含相同的功能。
 
 2002年11月，WZebra 4.0版發佈。它包含許多新功能、並改正了錯誤。此外，它的中局搜索更深遠。
 

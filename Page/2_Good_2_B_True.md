@@ -1,5 +1,5 @@
 ***2 Good 2 B
-True***是[美国青年偶像](../Page/美国.md "wikilink")[亞倫·卡特的第三张精选集](https://zh.wikipedia.org/wiki/亞倫·卡特 "wikilink")。
+True***是[美国](../Page/美国.md "wikilink")青年偶像[亞倫·卡特的第三张精选集](https://zh.wikipedia.org/wiki/亞倫·卡特 "wikilink")。
 
 ## 曲目列表
 

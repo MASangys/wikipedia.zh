@@ -8,13 +8,13 @@ Pico和Chico』。\[1\]
 
 有一位[裸體的](https://zh.wikipedia.org/wiki/裸體 "wikilink")[少年正在](https://zh.wikipedia.org/wiki/少年 "wikilink")[林中的](../Page/森林.md "wikilink")[小河玩水](https://zh.wikipedia.org/wiki/小河 "wikilink")。那個姿態被正在騎腳踏車的Pico看見並且少年還朝著Pico微笑了一下。2人很快就打成一片成為好友，這名少年Chico也帶Pico來到自己的[別墅居住](https://zh.wikipedia.org/wiki/別墅 "wikilink")。
 
-於是在這個[暑假](../Page/暑假.md "wikilink")，Pico和Chico每天不斷地大鬧這座別墅。有一天，Chico帶Pico來到了他位於別墅屋頂裡面的[秘密基地](https://zh.wikipedia.org/wiki/秘密基地 "wikilink")，Chico每天都在這裡從基地地板的細縫中偷看在這裡幫傭的女僕姐姐[自慰的樣子](../Page/自慰.md "wikilink")。
+於是在這個[暑假](../Page/暑假.md "wikilink")，Pico和Chico每天不斷地大鬧這座別墅。有一天，Chico帶Pico來到了他位於別墅屋頂裡面的[秘密基地](https://zh.wikipedia.org/wiki/秘密基地 "wikilink")，Chico每天都在這裡從基地地板的細縫中偷看在這裡幫傭的女僕姐姐[自慰](../Page/自慰.md "wikilink")的樣子。
 
 跟著Chico一起看見這種事的Pico一邊暗示著大姐姐做的事情，一方面卻又與Chico開始了一場禁忌的遊戲。
 
 ## 登場人物
 
-請參考[Pico系列登場人物](../Page/Pico系列.md "wikilink")。
+請參考[Pico系列](../Page/Pico系列.md "wikilink")登場人物。
 
 ## 工作人員
 

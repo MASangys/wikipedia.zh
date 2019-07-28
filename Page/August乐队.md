@@ -1,4 +1,4 @@
-**August樂團''＇（[泰文](https://zh.wikipedia.org/wiki/泰文 "wikilink")：**ออกัส**；[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**'''）是[泰国的一支](../Page/泰国.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由平均年龄不到20岁的泰国学生组成。凭借电影《[爱在暹逻](../Page/爱在暹逻.md "wikilink")》而迅速在亚洲走红。
+**August樂團''＇（[泰文](https://zh.wikipedia.org/wiki/泰文 "wikilink")：**ออกัส**；[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**'''）是[泰国](../Page/泰国.md "wikilink")的一支[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由平均年龄不到20岁的泰国学生组成。凭借电影《[爱在暹逻](../Page/爱在暹逻.md "wikilink")》而迅速在亚洲走红。
 
 ## 名称由来
 
@@ -132,7 +132,7 @@ oh\!gust\!台灣演唱會集資粉絲代表所成立的工作室](https://zh.wik
 
 ## August在中国
 
-2009年6月，August首度来到[中国大陆](../Page/中国大陆.md "wikilink")，参与[湖南卫视](../Page/湖南卫视.md "wikilink")[天天向上栏目的录制](../Page/天天向上.md "wikilink")，该期节目于2009年6月5日晚在湖南卫视播出。
+2009年6月，August首度来到[中国大陆](../Page/中国大陆.md "wikilink")，参与[湖南卫视](../Page/湖南卫视.md "wikilink")[天天向上](../Page/天天向上.md "wikilink")栏目的录制，该期节目于2009年6月5日晚在湖南卫视播出。
 
 2010年12月31日，August参加湖南卫视跨年演唱会，献唱暹罗之恋插曲《只有你》。
 

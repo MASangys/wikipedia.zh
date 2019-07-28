@@ -5,7 +5,7 @@
 
 最初的Floptical技术于1991年由[Insite
 Peripherals开发](https://zh.wikipedia.org/wiki/Insite_Peripherals "wikilink")。该公司是由Jim
-Adkisson创建的[风险投资公司](../Page/风险投资.md "wikilink")，而Jim
+Adkisson创建的[风险投资](../Page/风险投资.md "wikilink")公司，而Jim
 Adkisson是1976年在[Shugart
 Associates参与开发](https://zh.wikipedia.org/wiki/Shugart_Associates "wikilink")5¼英寸软驱的主要工程师之一。该公司主要股东有[Maxell](https://zh.wikipedia.org/wiki/Maxell "wikilink")、[Iomega及](https://zh.wikipedia.org/wiki/Iomega "wikilink")[3M](https://zh.wikipedia.org/wiki/3M "wikilink")。
 
@@ -59,7 +59,7 @@ Development或Digital Micronics
 ZIP慢](https://zh.wikipedia.org/wiki/Iomega_ZIP "wikilink")。事实上，虽然Iomega早在1989年即获得Floptical授权并生产了名为**Insider**的兼容驱动器，他们不久后即放弃并将焦点转向ZIP，而ZIP的销量达到千万以上。
 
 其他一些公司亦推出不兼容的高容量磁光学软驱。其中最有名的是[Imation的](https://zh.wikipedia.org/wiki/Imation "wikilink")[LS-120](https://zh.wikipedia.org/wiki/LS-120 "wikilink")*SuperDisk*。LS-120可兼容一般3½英寸磁盘，而在专用的高容量软盘上可达到120
-MB的存储量，并采用一般软驱介面以提升兼容性。它曾被认为可以成功并取代一般软驱，但在2000年代初期推出的可写入式[CD-ROM抢走了市场](../Page/CD-ROM.md "wikilink")。[Sony亦曾推出磁光盘技术格式](https://zh.wikipedia.org/wiki/Sony "wikilink")[Sony
+MB的存储量，并采用一般软驱介面以提升兼容性。它曾被认为可以成功并取代一般软驱，但在2000年代初期推出的可写入式[CD-ROM](../Page/CD-ROM.md "wikilink")抢走了市场。[Sony亦曾推出磁光盘技术格式](https://zh.wikipedia.org/wiki/Sony "wikilink")[Sony
 HiFD](https://zh.wikipedia.org/wiki/Sony_HiFD "wikilink")，但品管问题导致名声不佳。此外还有些较无闻的格式如[Caleb
 UHD144等](https://zh.wikipedia.org/wiki/Caleb_UHD144 "wikilink")。
 
@@ -69,7 +69,7 @@ UHD144等](https://zh.wikipedia.org/wiki/Caleb_UHD144 "wikilink")。
 2000皆支持Floptical](../Page/Windows_2000.md "wikilink")，在FORMAT指令中使用20.8
 MB 格式化。[Windows
 XP及之后的版本已经取消了对Floptical及](../Page/Windows_XP.md "wikilink")2.88MB软盘的格式化支持。\[2\]SCO
-[OpenServer亦支持Floptical驱动器](../Page/OpenServer.md "wikilink")。有[SCSI装置的](https://zh.wikipedia.org/wiki/SCSI "wikilink")[麦金塔电脑则支持从Floptical开机](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")，且有格式化软件可在麦金塔上抹除及格式化Floptical软盘。
+[OpenServer](../Page/OpenServer.md "wikilink")亦支持Floptical驱动器。有[SCSI装置的](https://zh.wikipedia.org/wiki/SCSI "wikilink")[麦金塔电脑则支持从Floptical开机](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")，且有格式化软件可在麦金塔上抹除及格式化Floptical软盘。
 
 ## 参见
 

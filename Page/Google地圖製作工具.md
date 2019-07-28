@@ -1,5 +1,5 @@
 **Google Map
-Maker**是[Google為了擴大](../Page/Google.md "wikilink")[Google地圖提供的服務面而開發的另一項產品](../Page/Google地图.md "wikilink")。
+Maker**是[Google](../Page/Google.md "wikilink")為了擴大[Google地圖提供的服務面而開發的另一項產品](../Page/Google地图.md "wikilink")。
 
 由於無法獲得一些國家的地圖數據，為了對抗這一難題，Google決定向特定地區的協作社區開放Google地圖。
 
@@ -10,7 +10,7 @@ Google地圖中。
 
 ## 介面
 
-用戶可以直接在地圖繪製已經繪製的部分，並可以添加項目，如[道路](../Page/道路.md "wikilink")，[鐵路](../Page/鐵路.md "wikilink")，[河流等](../Page/河流.md "wikilink")。
+用戶可以直接在地圖繪製已經繪製的部分，並可以添加項目，如[道路](../Page/道路.md "wikilink")，[鐵路](../Page/鐵路.md "wikilink")，[河流](../Page/河流.md "wikilink")等。
 
 此外，用戶可以在地圖上添加特定的建築物和服務，例如[本地商家和服務](../Page/公司.md "wikilink")。
 乍看之下該網站與Google地圖看起來完全相同，並且提供了三種視圖（地圖，衛星和混合），允許用戶查看地圖數據，該地區的[衛星圖像或兩者的組合](../Page/卫星影像.md "wikilink")。
@@ -40,9 +40,9 @@ Google地圖中。
 
 截至2016年3月6日，這項服務已在下列國家/地區啟用：
 
-[孟加拉國](../Page/孟加拉国.md "wikilink")，[白俄羅斯](../Page/白俄罗斯.md "wikilink")，[波斯尼亞](https://zh.wikipedia.org/wiki/波斯尼亚 "wikilink")，[巴西](../Page/巴西.md "wikilink")，[柬埔寨](../Page/柬埔寨.md "wikilink")，[加拿大](../Page/加拿大.md "wikilink")，[哥斯達黎加](../Page/哥斯达黎加.md "wikilink")，[克羅地亞](../Page/克罗地亚.md "wikilink")，[捷克共和國](../Page/捷克.md "wikilink")，[剛果民主共和國](../Page/刚果民主共和国.md "wikilink")，[丹麥](https://zh.wikipedia.org/wiki/丹麦 "wikilink")，[埃及](../Page/埃及.md "wikilink")，[薩爾瓦多](../Page/萨尔瓦多.md "wikilink")，[愛沙尼亞](../Page/爱沙尼亚.md "wikilink")，[法國](https://zh.wikipedia.org/wiki/法国 "wikilink")，
+[孟加拉國](../Page/孟加拉国.md "wikilink")，[白俄羅斯](../Page/白俄罗斯.md "wikilink")，[波斯尼亞](https://zh.wikipedia.org/wiki/波斯尼亚 "wikilink")，[巴西](../Page/巴西.md "wikilink")，[柬埔寨](../Page/柬埔寨.md "wikilink")，[加拿大](../Page/加拿大.md "wikilink")，[哥斯達黎加](../Page/哥斯达黎加.md "wikilink")，[克羅地亞](../Page/克罗地亚.md "wikilink")，[捷克](../Page/捷克.md "wikilink")共和國，[剛果民主共和國](../Page/刚果民主共和国.md "wikilink")，[丹麥](https://zh.wikipedia.org/wiki/丹麦 "wikilink")，[埃及](../Page/埃及.md "wikilink")，[薩爾瓦多](../Page/萨尔瓦多.md "wikilink")，[愛沙尼亞](../Page/爱沙尼亚.md "wikilink")，[法國](https://zh.wikipedia.org/wiki/法国 "wikilink")，
 [德國](../Page/德国.md "wikilink")，[匈牙利](../Page/匈牙利.md "wikilink")，[印度](../Page/印度.md "wikilink")，[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，[伊拉克](../Page/伊拉克.md "wikilink")，[意大利](../Page/意大利.md "wikilink")，[哈薩克斯坦](../Page/哈萨克斯坦.md "wikilink")，[科威特](../Page/科威特.md "wikilink")，[馬其頓](https://zh.wikipedia.org/wiki/馬其頓共和國 "wikilink")，[馬來西亞](../Page/马来西亚.md "wikilink")，[墨西哥](../Page/墨西哥.md "wikilink")，[摩爾多瓦](../Page/摩尔多瓦.md "wikilink")，[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，[尼泊爾](../Page/尼泊尔.md "wikilink")，[荷蘭](../Page/荷兰.md "wikilink")，[紐西蘭](../Page/新西兰.md "wikilink")，[尼日利亞](../Page/奈及利亞.md "wikilink")，[巴基斯坦](../Page/巴基斯坦.md "wikilink")，[巴拿馬](../Page/巴拿马.md "wikilink")，[秘魯](../Page/秘鲁.md "wikilink")，[菲律賓](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")，[波蘭](https://zh.wikipedia.org/wiki/波兰 "wikilink")，
-[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")，[俄羅斯](../Page/俄罗斯.md "wikilink")，[塞爾維亞](../Page/塞尔维亚.md "wikilink")，[斯洛伐克](../Page/斯洛伐克.md "wikilink")，[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")，[斯里蘭卡](../Page/斯里蘭卡.md "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[台灣](../Page/中華民國.md "wikilink")，[烏克蘭](../Page/乌克兰.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英国 "wikilink")，[美國](../Page/美国.md "wikilink")，[委內瑞拉和](../Page/委內瑞拉.md "wikilink")[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")。\[7\]
+[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")，[俄羅斯](../Page/俄罗斯.md "wikilink")，[塞爾維亞](../Page/塞尔维亚.md "wikilink")，[斯洛伐克](../Page/斯洛伐克.md "wikilink")，[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")，[斯里蘭卡](../Page/斯里蘭卡.md "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[台灣](../Page/中華民國.md "wikilink")，[烏克蘭](../Page/乌克兰.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英国 "wikilink")，[美國](../Page/美国.md "wikilink")，[委內瑞拉](../Page/委內瑞拉.md "wikilink")和[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")。\[7\]
 
 ### 服務中止與防止破壞措施
 

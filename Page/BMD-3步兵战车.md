@@ -1,5 +1,5 @@
 **BMD-3伞兵战车**（
-简称БМД—3）是前[苏联于](../Page/苏联.md "wikilink")1980年代末研发，1990年正式装备前苏联[空降军和](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[海军步兵的一款](https://zh.wikipedia.org/wiki/海军步兵 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第三款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-1及BMD-2完全不同。属于全新的设计。
+简称БМД—3）是前[苏联](../Page/苏联.md "wikilink")于1980年代末研发，1990年正式装备前苏联[空降军和](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[海军步兵的一款](https://zh.wikipedia.org/wiki/海军步兵 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第三款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-1及BMD-2完全不同。属于全新的设计。
 
 ## 研发和装备背景
 
@@ -17,7 +17,7 @@
 身管长2.4m。双向稳定（可行进间开火）高平两用， 可360度旋转，高低射界为－5～＋74度。可选择200，300，500发每分的射速。
 可发射曳光穿甲弹和高爆燃烧弹。弹药基数860发，发射曳光穿甲弹时射程2000m，可穿透50mm均质钢板。发射高爆燃烧弹时射程为4000m。
 
-主炮炮塔顶部后方装有一具[AT-4](../Page/AT4反坦克火箭筒.md "wikilink")（后期型号装备[AT-5](https://zh.wikipedia.org/wiki/AT-5 "wikilink")）[反坦克导弹发射器](../Page/反坦克导弹.md "wikilink")。
+主炮炮塔顶部后方装有一具[AT-4](../Page/AT4反坦克火箭筒.md "wikilink")（后期型号装备[AT-5](https://zh.wikipedia.org/wiki/AT-5 "wikilink")）[反坦克导弹](../Page/反坦克导弹.md "wikilink")发射器。
 射程500～4000m，配弹4枚。两型导弹均配备串联战斗部。用于攻击复合装甲和反应式装甲。
 
 辅助武器为1挺7.62mm[并列机枪](../Page/同軸武器.md "wikilink")，备弹2000发。1挺5.45mm车前右侧机枪，备弹2160发。车体左侧前部右[AG-17型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")30mm榴弹发射器，备弹551发。所发射的榴霰弹内置塑料针和钢珠，杀伤半径5～10m，可自动发射。射速40～50发每分。
@@ -33,7 +33,7 @@
 
 ## 空投技术
 
-[伊尔-76可运](../Page/伊尔-76.md "wikilink")3辆。可所有成员于车内共同空投，而BMD-1/2只能驾驶员和车长空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。
+[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆。可所有成员于车内共同空投，而BMD-1/2只能驾驶员和车长空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。
 空降技术和过程不详。
 
 ## 成员/载员
@@ -45,7 +45,7 @@
 
 ## 装甲/防御
 
-为钢装甲全[焊接结构](../Page/焊接.md "wikilink")，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。有三防装置，并且安装了车内自动灭火装置。
+为钢装甲全[焊接](../Page/焊接.md "wikilink")结构，车体装甲15mm，炮塔装甲23mm。可防御7.62mm轻武器直接射击以及炮弹破片攻击。有三防装置，并且安装了车内自动灭火装置。
 
 ## 观瞄设备
 

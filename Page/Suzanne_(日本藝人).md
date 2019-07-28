@@ -1,8 +1,8 @@
-**Suzanne**（，本名**山本紗衣**，[台灣翻譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**蘇珊娜**）是出身於[日本](../Page/日本.md "wikilink")[熊本縣](../Page/熊本縣.md "wikilink")[植木町的](../Page/植木町.md "wikilink")[寫真女星](https://zh.wikipedia.org/wiki/寫真女星 "wikilink")、[歌手](../Page/歌手.md "wikilink")，Pabo及aladdin的成員之一。以傻妹形象走紅演藝圈。前夫為[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[投手](../Page/投手.md "wikilink")[齊藤和巳](../Page/齊藤和巳.md "wikilink")。
+**Suzanne**（，本名**山本紗衣**，[台灣翻譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**蘇珊娜**）是出身於[日本](../Page/日本.md "wikilink")[熊本縣](../Page/熊本縣.md "wikilink")[植木町](../Page/植木町.md "wikilink")的[寫真女星](https://zh.wikipedia.org/wiki/寫真女星 "wikilink")、[歌手](../Page/歌手.md "wikilink")，Pabo及aladdin的成員之一。以傻妹形象走紅演藝圈。前夫為[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[投手](../Page/投手.md "wikilink")[齊藤和巳](../Page/齊藤和巳.md "wikilink")。
 
 ## 個人生活
 
-2010年3月17日，Suzanne被八卦雜誌報導與[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[福岡軟銀鷹](../Page/福岡軟銀鷹.md "wikilink")[投手](../Page/投手.md "wikilink")[齊藤和巳交往中](../Page/齊藤和巳.md "wikilink")。其後Suzanne在個人blog表示「他對我而言是重要的人」，齊藤亦在自己的blog承認交往一事。2011年12月1日，兩人結婚\[1\]。
+2010年3月17日，Suzanne被八卦雜誌報導與[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[福岡軟銀鷹](../Page/福岡軟銀鷹.md "wikilink")[投手](../Page/投手.md "wikilink")[齊藤和巳](../Page/齊藤和巳.md "wikilink")交往中。其後Suzanne在個人blog表示「他對我而言是重要的人」，齊藤亦在自己的blog承認交往一事。2011年12月1日，兩人結婚\[1\]。
 
 2013年8月，發表懷孕消息。2014年1月6日，兒子誕生。2015年3月17日，Suzanne和齊藤透過經紀公司發表離婚消息。\[2\]\[3\]
 

@@ -1,9 +1,9 @@
 **UTADA HIKARU SINGLE CLIP COLLECTION
-VOL.1**為[宇多田光第一部影片集](../Page/宇多田光.md "wikilink")，收錄由[Automatic/Time
+VOL.1**為[宇多田光](../Page/宇多田光.md "wikilink")第一部影片集，收錄由[Automatic/Time
 Will
 Tell至](https://zh.wikipedia.org/wiki/Automatic/Time_Will_Tell "wikilink")[Addicted
 to
-You的所有PV](https://zh.wikipedia.org/wiki/Addicted_to_You "wikilink")，以[VHS及](../Page/VHS.md "wikilink")[DVD兩種形式發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。VHS版於1999年12月16日發行而DVD版則於1999年12月22日發行。
+You的所有PV](https://zh.wikipedia.org/wiki/Addicted_to_You "wikilink")，以[VHS](../Page/VHS.md "wikilink")及[DVD兩種形式發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。VHS版於1999年12月16日發行而DVD版則於1999年12月22日發行。
 
 ## 收錄內容
 

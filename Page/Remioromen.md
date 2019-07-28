@@ -1,4 +1,4 @@
-**Remioromen**（；[台灣譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**雷密歐羅曼**）是於2000年結成的[日本](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")。所屬事務所是有限公司[烏龍舍](https://zh.wikipedia.org/wiki/烏龍舍 "wikilink")，所屬[唱片公司是](../Page/唱片公司.md "wikilink")[OORONG
+**Remioromen**（；[台灣譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**雷密歐羅曼**）是於2000年結成的[日本](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")。所屬事務所是有限公司[烏龍舍](https://zh.wikipedia.org/wiki/烏龍舍 "wikilink")，所屬[唱片公司](../Page/唱片公司.md "wikilink")是[OORONG
 RECORDS](https://zh.wikipedia.org/wiki/OORONG_RECORDS "wikilink")。成員包括了[藤卷亮太](https://zh.wikipedia.org/wiki/藤卷亮太 "wikilink")、[前田啟介](https://zh.wikipedia.org/wiki/前田啟介 "wikilink")、[神宮司治三人](https://zh.wikipedia.org/wiki/神宮司治 "wikilink")。三名成員均是[山梨縣出身](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")。
 
 ## 成員
@@ -226,7 +226,7 @@ RUN/-{蛍}-(普通版)</p></td>
 
 | 枚   | 日本發售日     | 日文名稱                           | 中文名稱                                                                                                                     | 備注                                                 |
 | --- | --------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
-| 1st | 2007年3月5日 | **キットカット×レミオロメン 「3月9日／パラダイム」** | **Kit Kat×Remioromen [「3月9日/Paradigm」](https://zh.wikipedia.org/wiki/3月9日_\(Remioromen單曲\)#「3月9日/Paradigm」 "wikilink")** | 與[奇巧巧克力合作企劃](../Page/奇巧巧克力.md "wikilink")，50萬張限量發售 |
+| 1st | 2007年3月5日 | **キットカット×レミオロメン 「3月9日／パラダイム」** | **Kit Kat×Remioromen [「3月9日/Paradigm」](https://zh.wikipedia.org/wiki/3月9日_\(Remioromen單曲\)#「3月9日/Paradigm」 "wikilink")** | 與[奇巧巧克力](../Page/奇巧巧克力.md "wikilink")合作企劃，50萬張限量發售 |
 
 ### 「春夏秋冬」系列(出租専用)
 

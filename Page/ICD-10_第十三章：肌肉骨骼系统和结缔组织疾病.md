@@ -33,7 +33,7 @@ M00-M25 [关节病](https://zh.wikipedia.org/wiki/关节病 "wikilink")
 
 ### M20-M25 其他关节疾患
 
-  - M20 [手指和脚趾的后天性变形](../Page/手指.md "wikilink")
+  - M20 [手指](../Page/手指.md "wikilink")和脚趾的后天性变形
   - M21 四肢其他后天性变形
   - M22 [髌骨疾患](https://zh.wikipedia.org/wiki/髌骨 "wikilink")
   - M23 膝内部紊乱
@@ -155,7 +155,7 @@ M80-M94 骨病和[软骨病](https://zh.wikipedia.org/wiki/软骨病 "wikilink")
 ### M91-M94 软骨病
 
   - M91
-    [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[骨盆的幼年型骨](https://zh.wikipedia.org/wiki/骨盆 "wikilink")[软骨病](../Page/软骨.md "wikilink")
+    [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[骨盆的幼年型骨](https://zh.wikipedia.org/wiki/骨盆 "wikilink")[软骨](../Page/软骨.md "wikilink")病
   - M92 其他幼年型骨软骨病
   - M93 其他骨软骨病
   - M94 软骨的其他疾患

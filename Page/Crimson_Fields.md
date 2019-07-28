@@ -9,7 +9,7 @@ developer = Harald Obermaier | platforms =
 
 [Linux](../Page/Linux.md "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，和[BeOS其中](../Page/BeOS.md "wikilink")[FreeBSD](../Page/FreeBSD.md "wikilink")，[OpenBSD](../Page/OpenBSD.md "wikilink")，[pkgsrc](https://zh.wikipedia.org/wiki/pkgsrc "wikilink")，[Debian](../Page/Debian.md "wikilink")，[Fedora](../Page/Fedora.md "wikilink")，[Mandrake
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，和[BeOS](../Page/BeOS.md "wikilink")其中[FreeBSD](../Page/FreeBSD.md "wikilink")，[OpenBSD](../Page/OpenBSD.md "wikilink")，[pkgsrc](https://zh.wikipedia.org/wiki/pkgsrc "wikilink")，[Debian](../Page/Debian.md "wikilink")，[Fedora](../Page/Fedora.md "wikilink")，[Mandrake
 Linux](https://zh.wikipedia.org/wiki/Mandrake_Linux "wikilink")，[Red
 Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")
 等都有已经准备好的软件包。镶入式设备中也有如 [Sharp
@@ -22,7 +22,7 @@ CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")，[PocketPC](https://zh
 ## 游戏方式
 
 "Crimson
-Fields"地图由[六角形组成](https://zh.wikipedia.org/wiki/六角形 "wikilink")。每格都是一种地形，影响对应单位的行动能力。[坦克道路速度快树林速度慢](../Page/坦克.md "wikilink")，不能在水中移动\[3\]。
+Fields"地图由[六角形组成](https://zh.wikipedia.org/wiki/六角形 "wikilink")。每格都是一种地形，影响对应单位的行动能力。[坦克](../Page/坦克.md "wikilink")道路速度快树林速度慢，不能在水中移动\[3\]。
 
 建筑可以屯兵。有些建筑可以制造和维修单位。这样会消耗水晶资源。尽管游戏中无法建造建筑物，但是驻扎方就能利用建筑\[4\]。
 

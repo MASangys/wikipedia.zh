@@ -1,4 +1,4 @@
-**ELISA**是於[日本](../Page/日本.md "wikilink")[神奈川縣出身的女性歌手](../Page/神奈川縣.md "wikilink")，所属唱片公司为[SACRA
+**ELISA**是於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")出身的女性歌手，所属唱片公司为[SACRA
 MUSIC](../Page/SACRA_MUSIC.md "wikilink")（至2011年年底为[Geneon
 Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")），於2007年10月以單曲《euphoric
 field feat. ELISA》出道。
@@ -9,12 +9,12 @@ field feat. ELISA》出道。
   - 在視聽的審查員詢問到關於模特兒的工作時回答「我並不想成為模特兒，而是歌手」，讓她試唱後就決定一個月後出道。\[2\]
   - 就讀大學的英文科，對於英文僅僅是「發音的程度……」。從未住在國外。\[3\]
   - 对于[相机的使用方法感到困难](https://zh.wikipedia.org/wiki/相机 "wikilink")，曾经在节目中提到，2009年的目标是希望能够熟练掌握相机的使用方法。喜欢[蜂蜜](../Page/蜂蜜.md "wikilink")。在LIVE中自称为「博士」。2010年4月29日举行的ELISA第三次LIVE「Rouge
-    Adolescence」中，本人首次作詞作曲的歌曲「真实之証」披露（其后收录于第三张专辑[Lasei中](../Page/Lasei.md "wikilink")）。同年5月15日，官方[Twitter账号开始运行](../Page/Twitter.md "wikilink")。
+    Adolescence」中，本人首次作詞作曲的歌曲「真实之証」披露（其后收录于第三张专辑[Lasei](../Page/Lasei.md "wikilink")中）。同年5月15日，官方[Twitter](../Page/Twitter.md "wikilink")账号开始运行。
   - 2011年9月18日，在官网上宣布因为身体原因需要休养，音乐活动暂时休止的公告\[4\]。
   - 2012年4月14日，宣布再次开始音乐活动，6月20日精选集发售。
   - 作为动画歌手，本人却对动画不甚了解。\[5\]
   - 2013年1月8日官方網站發出再始動消息，並宣佈最新單曲"Shout My
-    Heart"將於1月25日於"リスアニ！Vol.12"作為CD特典發佈，同時，官方[Twitter以](../Page/Twitter.md "wikilink")「Elisa_0414」重新運行。
+    Heart"將於1月25日於"リスアニ！Vol.12"作為CD特典發佈，同時，官方[Twitter](../Page/Twitter.md "wikilink")以「Elisa_0414」重新運行。
   - 2017年4月，由原先[SME
     Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
     MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[6\]

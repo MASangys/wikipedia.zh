@@ -3,7 +3,7 @@ Journal）是一個[微軟所開發](https://zh.wikipedia.org/wiki/微軟 "wikil
 Windows中用來做筆記的元件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。它首次出現於[Windows
 XP的特定版本中](../Page/Windows_XP.md "wikilink")，並內建於部分的[Windows
 Vista以及](../Page/Windows_Vista.md "wikilink")[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。它讓使用者建立並管理手寫而非打字的筆記。使用它來繪圖可以簡單的利用[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")，或者是手寫板以及[平板電腦等裝置](../Page/平板電腦.md "wikilink")。
+7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。它讓使用者建立並管理手寫而非打字的筆記。使用它來繪圖可以簡單的利用[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")，或者是手寫板以及[平板電腦](../Page/平板電腦.md "wikilink")等裝置。
 
 ## 用處
 

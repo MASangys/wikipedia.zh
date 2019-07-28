@@ -1,29 +1,29 @@
-****（或\[1\]，文本模式下写作XeTeX）是一种使用[Unicode的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[TeX](../Page/TeX.md "wikilink")[排版引擎](../Page/排版.md "wikilink")，并支持一些现代字体技术，例如[OpenType](../Page/OpenType.md "wikilink")、[Graphite和](../Page/Graphite.md "wikilink")[Apple
+****（或\[1\]，文本模式下写作XeTeX）是一种使用[Unicode的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[TeX](../Page/TeX.md "wikilink")[排版](../Page/排版.md "wikilink")引擎，并支持一些现代字体技术，例如[OpenType](../Page/OpenType.md "wikilink")、[Graphite](../Page/Graphite.md "wikilink")和[Apple
 Advanced
 Typography](https://zh.wikipedia.org/wiki/Apple_Advanced_Typography "wikilink")（AAT）。其作者和维护者是Jonathan
 Kew，并以[X11自由软件许可证发布](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")\[2\]。
 
 虽然最初只是为[Mac OS
-X所开发](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，但它现在在各主要平台上都可以运作。它原生支持Unicode，并默认其输入文件为[UTF-8编码](../Page/UTF-8.md "wikilink")。可以在不进行额外配置的情况下直接使用操作系统中安装的字体，因此可以直接利用OpenType、Graphite中的高级特性，例如额外的[字形](../Page/字形.md "wikilink")，[花体](https://zh.wikipedia.org/wiki/花体 "wikilink")，[合字](../Page/合字.md "wikilink")，可变的文本粗细等等。提供了对OpenType中本地排版约定（`locl`标签）的支持，也允许向字体传递OpenType的元标签。它亦支持使用包含特殊数学字符的Unicode字体排版数学公式，例如使用[Cambria
+X所开发](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，但它现在在各主要平台上都可以运作。它原生支持Unicode，并默认其输入文件为[UTF-8](../Page/UTF-8.md "wikilink")编码。可以在不进行额外配置的情况下直接使用操作系统中安装的字体，因此可以直接利用OpenType、Graphite中的高级特性，例如额外的[字形](../Page/字形.md "wikilink")，[花体](https://zh.wikipedia.org/wiki/花体 "wikilink")，[合字](../Page/合字.md "wikilink")，可变的文本粗细等等。提供了对OpenType中本地排版约定（`locl`标签）的支持，也允许向字体传递OpenType的元标签。它亦支持使用包含特殊数学字符的Unicode字体排版数学公式，例如使用[Cambria
 Math或](https://zh.wikipedia.org/wiki/Cambria#Cambria_Math "wikilink")[Asana
 Math字体代替传统的TeX字体](https://zh.wikipedia.org/wiki/Asana_Math "wikilink")。
 
 ## 历史
 
 2004年4月，发布了的第一个版本，这个版本只支持[Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，并包括了内建的[ATT和](https://zh.wikipedia.org/wiki/Apple_Advanced_Typography "wikilink")[Unicode支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")。2005年，加入了对OpenType的支持。在2006年BachoTeX期间，发布了第一个支持[Linux的版本](../Page/Linux.md "wikilink")，并在数月后由Akira
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，并包括了内建的[ATT和](https://zh.wikipedia.org/wiki/Apple_Advanced_Typography "wikilink")[Unicode支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")。2005年，加入了对OpenType的支持。在2006年BachoTeX期间，发布了第一个支持[Linux](../Page/Linux.md "wikilink")的版本，并在数月后由Akira
 Kakuto移植到了[Microsoft
 Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，其跨平台版本最终包含在[
 Live](../Page/TeX_Live.md "wikilink")
 2007中。另外，从2.7版开始，[MiK也包含了](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")。
 
 作为[
-Live的一部分](../Page/TeX_Live.md "wikilink")，支持大多数为[](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[OpenType](../Page/OpenType.md "wikilink")、[TrueType和](../Page/TrueType.md "wikilink")[PostScript字体开发的巨集包](../Page/PostScript.md "wikilink")，而无需特别的安装和设定。
+Live的一部分](../Page/TeX_Live.md "wikilink")，支持大多数为[](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[OpenType](../Page/OpenType.md "wikilink")、[TrueType](../Page/TrueType.md "wikilink")和[PostScript](../Page/PostScript.md "wikilink")字体开发的巨集包，而无需特别的安装和设定。
 
 [BachoTeX](https://zh.wikipedia.org/wiki/BachoTeX "wikilink")
 2008上宣布发行0.998版本，通过`\XeTeXinputnormalization`命令支持[Unicode正规化](https://zh.wikipedia.org/wiki/Unicode正规化 "wikilink")。
 
-2013年5月发布0.9999，为了[OpenType排版从](../Page/OpenType.md "wikilink")[ICU排版引擎转换到](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink")[HarfBuzz](../Page/HarfBuzz.md "wikilink")，为[Graphite排版输出增添Graphite](../Page/Graphite.md "wikilink")2，并在Mac
+2013年5月发布0.9999，为了[OpenType](../Page/OpenType.md "wikilink")排版从[ICU排版引擎转换到](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink")[HarfBuzz](../Page/HarfBuzz.md "wikilink")，为[Graphite](../Page/Graphite.md "wikilink")排版输出增添Graphite2，并在Mac
 OS X以[Core
 Text取代](https://zh.wikipedia.org/wiki/Core_Text "wikilink")[ATSUI](https://zh.wikipedia.org/wiki/ATSUI "wikilink")。
 
@@ -39,11 +39,11 @@ Text](https://zh.wikipedia.org/wiki/Hoefler_Text "wikilink")）渲染[合字](..
 
   - `xdv2pdf`：它使用技术（Apple Advanced Typography），只能在[Mac OS
     X上工作](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
-  - `xdvipdfmx`：它是的修改版。它在标准的[FreeType和](../Page/FreeType.md "wikilink")[fontconfig上采用了修改版本的Unicode国际化组件](https://zh.wikipedia.org/wiki/fontconfig "wikilink")（ICU），可以在所有平台上工作。
+  - `xdvipdfmx`：它是的修改版。它在标准的[FreeType](../Page/FreeType.md "wikilink")和[fontconfig上采用了修改版本的Unicode国际化组件](https://zh.wikipedia.org/wiki/fontconfig "wikilink")（ICU），可以在所有平台上工作。
 
 从0.997版开始，所有平台上的默认驱动都是`xdvipdfmx`。在0.9999版中xdv2pdf不再得到支持，其开发也被中止。\[3\]
 
-可以很好的支持[和](https://zh.wikipedia.org/wiki/LaTeX "wikilink")[巨集包](../Page/巨集.md "wikilink")。其中，LaTeX部分以`xelatex`的方式引用。并通常与`fontspec`一起使用，该巨集包提供字体的配置方式，并允许重新命名复杂的字体名称以便于再利用\[4\]。
+可以很好的支持[和](https://zh.wikipedia.org/wiki/LaTeX "wikilink")[巨集](../Page/巨集.md "wikilink")包。其中，LaTeX部分以`xelatex`的方式引用。并通常与`fontspec`一起使用，该巨集包提供字体的配置方式，并允许重新命名复杂的字体名称以便于再利用\[4\]。
 
 包含在[
 Live](../Page/TeX_Live.md "wikilink")、和[MiK发行包中](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")。
@@ -52,9 +52,9 @@ Live](../Page/TeX_Live.md "wikilink")、和[MiK发行包中](https://zh.wikipedi
 
 下面的例子包括了源代码和渲染结果。例子中使用了开源字体[文泉驿微米黑](https://zh.wikipedia.org/wiki/文泉驿微米黑 "wikilink")（WenQuanYi
 Micro
-Hei）显示Unicode字符，使用了以[SIL开源字体授权发布的](../Page/SIL开源字体授权.md "wikilink")[Linux
+Hei）显示Unicode字符，使用了以[SIL开源字体授权](../Page/SIL开源字体授权.md "wikilink")发布的[Linux
 Libertine
-O字体显示](https://zh.wikipedia.org/wiki/Linux_Libertine_O "wikilink")[OpenType字体的连字及旧式数字样式](../Page/OpenType.md "wikilink")。以命令处理。
+O字体显示](https://zh.wikipedia.org/wiki/Linux_Libertine_O "wikilink")[OpenType](../Page/OpenType.md "wikilink")字体的连字及旧式数字样式。以命令处理。
 
 <table>
 <tbody>

@@ -1,5 +1,5 @@
 **H-II运载火箭**（ ''' H-II
-'''）是[日本的卫星发射运载器](../Page/日本.md "wikilink")，在1994年至1999年间发射了七次，成功五次。由[NASDA研发](https://zh.wikipedia.org/wiki/NASDA "wikilink")，用于满足日本90年代发射大型卫星的需要。\[1\]是日本第一次采用自主技术研制的液態燃料火箭。\[2\]它由于可靠性和成本问题而被[H-IIA取代](https://zh.wikipedia.org/wiki/H-IIA "wikilink")。
+'''）是[日本](../Page/日本.md "wikilink")的卫星发射运载器，在1994年至1999年间发射了七次，成功五次。由[NASDA研发](https://zh.wikipedia.org/wiki/NASDA "wikilink")，用于满足日本90年代发射大型卫星的需要。\[1\]是日本第一次采用自主技术研制的液態燃料火箭。\[2\]它由于可靠性和成本问题而被[H-IIA取代](https://zh.wikipedia.org/wiki/H-IIA "wikilink")。
 
 ## 背景
 

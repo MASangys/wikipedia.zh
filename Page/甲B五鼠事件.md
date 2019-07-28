@@ -2,7 +2,7 @@
 
 ## 相关比赛
 
-2001年的[甲B联赛原定有两个升入次年](https://zh.wikipedia.org/wiki/甲B联赛 "wikilink")[甲A联赛的名额](https://zh.wikipedia.org/wiki/甲A联赛 "wikilink")，而且无降级名额。当年，刚刚改名[上海中远的原上海浦东队在名帅](https://zh.wikipedia.org/wiki/上海中远 "wikilink")[徐根宝的率领下获得了主场全胜的成绩](../Page/徐根宝.md "wikilink")，提前一轮冲A成功，而其它三支有望升级的球队则必须争抢最后一个名额，其中[成都五牛和](https://zh.wikipedia.org/wiki/成都五牛 "wikilink")[长春亚泰同积](https://zh.wikipedia.org/wiki/长春亚泰 "wikilink")39分，江苏舜天积38分，最终的结果很可能取决于净胜球的多少。
+2001年的[甲B联赛原定有两个升入次年](https://zh.wikipedia.org/wiki/甲B联赛 "wikilink")[甲A联赛的名额](https://zh.wikipedia.org/wiki/甲A联赛 "wikilink")，而且无降级名额。当年，刚刚改名[上海中远的原上海浦东队在名帅](https://zh.wikipedia.org/wiki/上海中远 "wikilink")[徐根宝](../Page/徐根宝.md "wikilink")的率领下获得了主场全胜的成绩，提前一轮冲A成功，而其它三支有望升级的球队则必须争抢最后一个名额，其中[成都五牛和](https://zh.wikipedia.org/wiki/成都五牛 "wikilink")[长春亚泰同积](https://zh.wikipedia.org/wiki/长春亚泰 "wikilink")39分，江苏舜天积38分，最终的结果很可能取决于净胜球的多少。
 
 就在倒数第二轮，[成都五牛与同在](https://zh.wikipedia.org/wiki/成都五牛 "wikilink")[四川的另一支球队](https://zh.wikipedia.org/wiki/四川 "wikilink")[四川绵阳打出了](https://zh.wikipedia.org/wiki/四川绵阳 "wikilink")11比2这个当时中国职业足球最悬殊的比分，全国舆论哗然，“打假”的呼声使得[中国足协决定在最后一轮比赛中严格执行同时开赛](https://zh.wikipedia.org/wiki/中国足协 "wikilink")，避免任何一方根据另一个赛场的比赛结果而作出任何举动。
 
@@ -20,7 +20,7 @@
 
 ## 影响
 
-事件发生后，“五鼠”之一的浙江绿城的老板[宋卫平向足协提供了自己曾经行贿的裁判名单](../Page/宋卫平.md "wikilink")，但是最终只有国际级裁判[龚建平一人受到调查处罚](../Page/龚建平.md "wikilink")，之后被判入狱，病逝狱中。
+事件发生后，“五鼠”之一的浙江绿城的老板[宋卫平](../Page/宋卫平.md "wikilink")向足协提供了自己曾经行贿的裁判名单，但是最终只有国际级裁判[龚建平](../Page/龚建平.md "wikilink")一人受到调查处罚，之后被判入狱，病逝狱中。
 
 当时获得联赛第四名的[广州吉利被外界普遍认为将会以替补的资格升级](https://zh.wikipedia.org/wiki/广州恒大足球俱乐部 "wikilink")，但最终未能如愿，吉利集团由于达不到预期的宣传效果，宣布退出中国足球。\[1\]
 

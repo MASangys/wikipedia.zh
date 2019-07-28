@@ -7,7 +7,7 @@ Earth*的3D复刻。不过这次是[自由软件](../Page/自由软件.md "wikil
 3D可以运行在[Microsoft
 Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")（[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")，[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Solaris之类](../Page/Solaris.md "wikilink")）[操作系统上](../Page/操作系统.md "wikilink")。并有[纸娃娃系统](../Page/纸娃娃系统.md "wikilink")。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Solaris](../Page/Solaris.md "wikilink")之类）[操作系统](../Page/操作系统.md "wikilink")上。并有[纸娃娃系统](../Page/纸娃娃系统.md "wikilink")。
 
 2001年4月，Gavin Camp公开首个版本。原先作为一个3D地图生成器。
 

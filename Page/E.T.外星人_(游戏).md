@@ -6,7 +6,7 @@
 
 [ET2600-Pit.gif](https://zh.wikipedia.org/wiki/File:ET2600-Pit.gif "fig:ET2600-Pit.gif")
 
-在《E.T.》游戏中，玩家将控制虚构的[外星人主角穿梭于数个不同的场景间](../Page/外星人.md "wikilink")，试图回收三件设备，组装好后便可以与母星取得联系。这些部件被随机地分散丢弃在某个地洞之中，这些地洞在游戏中被称为“井”。另外，玩家还可以找到总共九包[Reese's
+在《E.T.》游戏中，玩家将控制虚构的[外星人](../Page/外星人.md "wikilink")主角穿梭于数个不同的场景间，试图回收三件设备，组装好后便可以与母星取得联系。这些部件被随机地分散丢弃在某个地洞之中，这些地洞在游戏中被称为“井”。另外，玩家还可以找到总共九包[Reese's
 Pieces花生糖](https://zh.wikipedia.org/wiki/Reese's_Pieces "wikilink")，每寻获一件都可以恢复能量值，若收集全部九件便可以召唤艾略特（电影中的人类主角）带来其中一件通讯部件。玩家成功收集全部三件通讯设备部件后，玩家可以在一个指定的地区呼叫E.T.的太空船，然后在限定时间内赶到飞船降落的地区。做完这一切后游戏直接重新开始，难度没有变化，但玩家的积分保留。
 
 游戏中包括六个不同的场景，全部取材自原著电影。最开始的森林场景也是将来宇宙飞船降落的地方，另有四个充满井口的场景让玩家到井底探险。在井底玩家可能找到通讯设备部件或额外的生命，若要离开玩家必须控制E.T.以[悬浮的方式上升](https://zh.wikipedia.org/wiki/悬浮 "wikilink")。屏幕顶端的一个图标显示玩家现在身处哪个场景，在每一个场景玩家都能实施独特的能力，包括發现隐藏物，将自己传送至其他地点，或将敌人传送回关卡的开端。有一些地区只有在持有特定物品后才能进入，例如E.T.只能在持有Reese's
@@ -18,14 +18,14 @@ Pieces来补充能量。若有超过一条[生命](https://zh.wikipedia.org/wiki
 ## 开发历程
 
 由于1982年电影《[E.T.外星人](../Page/E.T.外星人.md "wikilink")》大获成功，雅达利公司的[母公司](https://zh.wikipedia.org/wiki/母公司 "wikilink")[时代华纳](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史蒂夫·罗斯](https://zh.wikipedia.org/wiki/史蒂夫·罗斯 "wikilink")（Steve
-Ross）开始与[史蒂芬·史匹柏与](https://zh.wikipedia.org/wiki/史蒂芬·史匹柏 "wikilink")[环球影业交涉开发同名游戏](../Page/环球影业.md "wikilink")。同年7月底，时代华纳宣布已经获得就上述电影开发[街机及](../Page/街机.md "wikilink")[家用机游戏的排他性权利](https://zh.wikipedia.org/wiki/家用机 "wikilink")。\[3\]虽然上述声明中没有透露授权细节，但多有报道称雅达利为了获得游戏开发权而向环球影业支付了约2000-2500万美元，在当时这是一个不寻常的高价。\[4\]\[5\]当罗斯询问雅达利的CEO[雷·卡萨](https://zh.wikipedia.org/wiki/雷·卡萨 "wikilink")（Ray
+Ross）开始与[史蒂芬·史匹柏与](https://zh.wikipedia.org/wiki/史蒂芬·史匹柏 "wikilink")[环球影业](../Page/环球影业.md "wikilink")交涉开发同名游戏。同年7月底，时代华纳宣布已经获得就上述电影开发[街机](../Page/街机.md "wikilink")及[家用机游戏的排他性权利](https://zh.wikipedia.org/wiki/家用机 "wikilink")。\[3\]虽然上述声明中没有透露授权细节，但多有报道称雅达利为了获得游戏开发权而向环球影业支付了约2000-2500万美元，在当时这是一个不寻常的高价。\[4\]\[5\]当罗斯询问雅达利的CEO[雷·卡萨](https://zh.wikipedia.org/wiki/雷·卡萨 "wikilink")（Ray
 Kassar）本作的制作理念时，后者回应道：“这是个馊主意，我们怎可能将电影改成动作游戏（I think it's a dumb idea.
 We've never really made an action game out of a
 movie）”。\[6\]但最后卡萨的意见未获重视，华纳购得了游戏的改编权。
 
 本作的关卡设计及编程任务被交予[霍华德·斯科特·华沙](https://zh.wikipedia.org/wiki/霍华德·斯科特·华沙 "wikilink")（Howard
 Scott
-Warshaw），史匹堡久闻他成功将电影《[夺宝奇兵](../Page/夺宝奇兵.md "wikilink")》改编游戏的美名而特别指名由他担当重任。\[7\]由于此前关于游戏改编权的谈判占用大量时间，而游戏必须赶在[圣诞节档期上市](../Page/圣诞节.md "wikilink")，实际上留给华沙进行开发的时间只剩六星期。相比之下，同样由华沙负责设计的经典游戏《[Yars'
+Warshaw），史匹堡久闻他成功将电影《[夺宝奇兵](../Page/夺宝奇兵.md "wikilink")》改编游戏的美名而特别指名由他担当重任。\[7\]由于此前关于游戏改编权的谈判占用大量时间，而游戏必须赶在[圣诞节](../Page/圣诞节.md "wikilink")档期上市，实际上留给华沙进行开发的时间只剩六星期。相比之下，同样由华沙负责设计的经典游戏《[Yars'
 Revenge](https://zh.wikipedia.org/wiki/Yars'_Revenge "wikilink")》花了四到五个月方才完成，而《夺宝奇兵》则用了六七个月。一部基于E.T.电影的街机游戏也被提上日程，但鉴于时间紧迫而被认定为难以完成。华沙接受了任命，并据报获得了20万美元和一次免费[夏威夷假期作为回报](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")。\[8\]
 
 华沙并未将《E.T.》设计为一部类似《[食鬼](../Page/吃豆人.md "wikilink")》类型的游戏，他试图融入自己的独特创意。华沙本想设计一段较为丰满的剧情，以图在游戏中体现原著电影的神韵，\[9\]但紧迫的时间迫使他只能糅合一些想当然的游戏创意。最后，华沙只能以力所能及的方式开发一部六星期内速成的游戏。\[10\]两天内华沙就确定了游戏的基本设定，在请示过卡萨后，用五星期编写、除虫、编译了大约长6.5[kB的游戏](../Page/千字节.md "wikilink")[源代码](../Page/源代码.md "wikilink")。

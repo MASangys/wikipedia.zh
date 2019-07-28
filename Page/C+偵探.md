@@ -1,12 +1,12 @@
-《**C+偵探**》（）是一部2007年的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[彭順擔任執導](https://zh.wikipedia.org/wiki/彭順 "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[成奎安](../Page/成奎安.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[黃德斌等擔任演出](../Page/黃德斌.md "wikilink")，此電影全部在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷取景拍攝](../Page/曼谷.md "wikilink")，內容主要講述[私家偵探調查案件的故事](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")。
+《**C+偵探**》（）是一部2007年的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[彭順擔任執導](https://zh.wikipedia.org/wiki/彭順 "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[成奎安](../Page/成奎安.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[黃德斌](../Page/黃德斌.md "wikilink")等擔任演出，此電影全部在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")取景拍攝，內容主要講述[私家偵探調查案件的故事](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")。
 
 另外有一部續集電影《[B+偵探](../Page/B+偵探.md "wikilink")》於2009年10月在泰國曼谷開機拍攝，於2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，續集電影已經暫停拍攝，因此續集電影的煞科戲尚未拍攝，於2010年7月，續集電影終於在泰國曼谷拍攝煞科戲便完成，之後正式殺青而展開後期製作，並於2011年5月12日在香港上映\[1\]。
 
 ## 劇情內容
 
-陈探（[郭富城飾](../Page/郭富城.md "wikilink")）是一潦倒的私家偵探。某日，花名肥龍（[成奎安飾](../Page/成奎安.md "wikilink")）的人帶著醉意拿着一張女子相片，請探代為找出「她」以阻止這女子想殺他的行動。探見有豐厚酬勞，便一口答應肥龍所託辦之事。探找到相片裡的[士多](../Page/士多.md "wikilink")，獲悉此女子名莫慧心（飾），是該士多的常客。
+陈探（[郭富城](../Page/郭富城.md "wikilink")飾）是一潦倒的私家偵探。某日，花名肥龍（[成奎安](../Page/成奎安.md "wikilink")飾）的人帶著醉意拿着一張女子相片，請探代為找出「她」以阻止這女子想殺他的行動。探見有豐厚酬勞，便一口答應肥龍所託辦之事。探找到相片裡的[士多](../Page/士多.md "wikilink")，獲悉此女子名莫慧心（飾），是該士多的常客。
 
-探去找慧心，但見慧心家門重門深鎖。士多伙記(阿炳)拿了一名为大頭明的男子的地址給探叫他試試。當探到達大頭明家中，却赫然發現大頭明於客厅上吊身亡。而在大頭明（飾）的手提電話中储存有數個相信是與他有染的女子相片，其中一人名为燕（[谷祖琳飾](../Page/谷祖琳.md "wikilink")），探從燕口中查得素芳（[商天娥飾](../Page/商天娥.md "wikilink")）为大頭明其中一合作夥伴。探前往芳家，卻發覺芳早已燒炭身亡。风澤（[廖啟智飾](../Page/廖啟智.md "wikilink")）說芳和大頭明一樣因欠債而自殺，但警員卻在芳家裡找到大量現金。事情越来越扑朔迷离……
+探去找慧心，但見慧心家門重門深鎖。士多伙記(阿炳)拿了一名为大頭明的男子的地址給探叫他試試。當探到達大頭明家中，却赫然發現大頭明於客厅上吊身亡。而在大頭明（飾）的手提電話中储存有數個相信是與他有染的女子相片，其中一人名为燕（[谷祖琳](../Page/谷祖琳.md "wikilink")飾），探從燕口中查得素芳（[商天娥](../Page/商天娥.md "wikilink")飾）为大頭明其中一合作夥伴。探前往芳家，卻發覺芳早已燒炭身亡。风澤（[廖啟智](../Page/廖啟智.md "wikilink")飾）說芳和大頭明一樣因欠債而自殺，但警員卻在芳家裡找到大量現金。事情越来越扑朔迷离……
 
 ## 演員表
 
@@ -205,7 +205,7 @@ Settagarn</p></td>
 
 ## 續集
 
-另外由[彭順擔任執導而拍攝製作的一部續集電影](https://zh.wikipedia.org/wiki/彭順 "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》，由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[龔蓓苾](https://zh.wikipedia.org/wiki/龔蓓苾 "wikilink")、[譚耀文和](../Page/譚耀文.md "wikilink")[張兆輝擔任主演](../Page/張兆輝.md "wikilink")，於2009年10月在泰國曼谷開機拍攝，於2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，續集電影已經暫停拍攝，因此續集電影的煞科戲尚未拍攝，於2010年7月，續集電影終於在泰國曼谷拍攝煞科戲便完成，之後正式殺青而展開後期製作，並於2011年5月12日在香港上映\[2\]。2010年4月12日，泰國曼谷發生[紅衫軍示威接近一個月](../Page/反獨裁民主聯盟.md "wikilink")，寰宇電影公司總經理[林小強表示](https://zh.wikipedia.org/wiki/林小強 "wikilink")：「[彭發執導一部電影](https://zh.wikipedia.org/wiki/彭發 "wikilink")《完美童話》（於2012年5月10日上映時改名為《[追兇](https://zh.wikipedia.org/wiki/追兇 "wikilink")》）於2010年6月在泰國開拍，由[劉青雲](../Page/劉青雲.md "wikilink")、[江若琳主演](../Page/江若琳.md "wikilink")，[彭順執導一部續集電影](https://zh.wikipedia.org/wiki/彭順 "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》於2010年7月在泰國曼谷拍攝煞科戲便完成。\[3\]\[4\]」繼《C+偵探》後，《[B+偵探](../Page/B+偵探.md "wikilink")》是彭順及郭富城第二次合作。
+另外由[彭順擔任執導而拍攝製作的一部續集電影](https://zh.wikipedia.org/wiki/彭順 "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》，由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[龔蓓苾](https://zh.wikipedia.org/wiki/龔蓓苾 "wikilink")、[譚耀文](../Page/譚耀文.md "wikilink")和[張兆輝](../Page/張兆輝.md "wikilink")擔任主演，於2009年10月在泰國曼谷開機拍攝，於2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，續集電影已經暫停拍攝，因此續集電影的煞科戲尚未拍攝，於2010年7月，續集電影終於在泰國曼谷拍攝煞科戲便完成，之後正式殺青而展開後期製作，並於2011年5月12日在香港上映\[2\]。2010年4月12日，泰國曼谷發生[紅衫軍示威接近一個月](../Page/反獨裁民主聯盟.md "wikilink")，寰宇電影公司總經理[林小強表示](https://zh.wikipedia.org/wiki/林小強 "wikilink")：「[彭發執導一部電影](https://zh.wikipedia.org/wiki/彭發 "wikilink")《完美童話》（於2012年5月10日上映時改名為《[追兇](https://zh.wikipedia.org/wiki/追兇 "wikilink")》）於2010年6月在泰國開拍，由[劉青雲](../Page/劉青雲.md "wikilink")、[江若琳](../Page/江若琳.md "wikilink")主演，[彭順執導一部續集電影](https://zh.wikipedia.org/wiki/彭順 "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》於2010年7月在泰國曼谷拍攝煞科戲便完成。\[3\]\[4\]」繼《C+偵探》後，《[B+偵探](../Page/B+偵探.md "wikilink")》是彭順及郭富城第二次合作。
 
 ## 參考資料
 

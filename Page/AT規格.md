@@ -1,5 +1,5 @@
 **AT**（Advanced
-Technology）規格是一種[主機板規格](../Page/主機板規格比較.md "wikilink")，在1984年由[IBM制定](../Page/IBM.md "wikilink")，常見於80年代至90年代\[1\]。現在，已經被淘汰，於1990年代中期被[ATX規格取代](https://zh.wikipedia.org/wiki/ATX "wikilink")。
+Technology）規格是一種[主機板規格](../Page/主機板規格比較.md "wikilink")，在1984年由[IBM](../Page/IBM.md "wikilink")制定，常見於80年代至90年代\[1\]。現在，已經被淘汰，於1990年代中期被[ATX規格取代](https://zh.wikipedia.org/wiki/ATX "wikilink")。
 
 標準的AT主機板長12英吋，寬11至13英吋（305毫米x 279-330毫米）。
 
@@ -23,7 +23,7 @@ AT規格在家用電腦市場蓬勃的1980年代成為一個受廣泛參考的�
 
 ### Baby AT
 
-1985年，[IBM推出](../Page/IBM.md "wikilink")**Baby
+1985年，[IBM](../Page/IBM.md "wikilink")推出**Baby
 AT**。不久之後，所有電腦製造商丟棄AT而去使用更便宜、更小的Baby
 AT於[286至](../Page/Intel_80286.md "wikilink")[Pentium處理器的電腦上](https://zh.wikipedia.org/wiki/Pentium "wikilink")。這些主機板有和AT規格相類似的安裝孔位置和位置相同的八個卡插槽，但比過去稍微窄和短兩寸（51毫米）。這些Baby
 AT主機板的大小（220x330毫米）和高靈活性，是這一規格的成功關鍵。雖然它現在已經過時，某些電腦現在仍在使用它，而且大部份現代的電腦機箱一般都可以兼容Baby

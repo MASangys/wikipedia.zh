@@ -4,13 +4,13 @@ Masquerade**是於2003年所創立的[丹麥樂隊](https://zh.wikipedia.org/wik
 
 ## 歷史簡介
 
-2003年夏，[瑞典結他速彈大師](../Page/瑞典.md "wikilink")**[Henrik
+2003年夏，[瑞典](../Page/瑞典.md "wikilink")結他速彈大師**[Henrik
 Flyman](https://zh.wikipedia.org/wiki/Henrik_Flyman "wikilink")**
 ([Lacrimosa](../Page/安魂彌撒樂團.md "wikilink")，前[Wuthering
 Heights](https://zh.wikipedia.org/wiki/Wuthering_Heights\(the_band\) "wikilink")，[Moahni
 Moahna](https://zh.wikipedia.org/wiki/Moahni_Moahna "wikilink")，[Zool](https://zh.wikipedia.org/wiki/Zool "wikilink"))於[哥本哈根創立了Evil](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
 Masquerade。有如其名，Evil
-Masquerade最初是以劇場、[音樂劇等元素為基礎](../Page/音樂劇.md "wikilink")。第一張專輯《Welcome
+Masquerade最初是以劇場、[音樂劇](../Page/音樂劇.md "wikilink")等元素為基礎。第一張專輯《Welcome
 to the Show》於2004年發行，當時成員為：[Henrik
 Flyman](https://zh.wikipedia.org/wiki/Henrik_Flyman "wikilink")
 (結他/鍵盤/詞曲創作) 、[Henrik
@@ -18,7 +18,7 @@ Brockmann](https://zh.wikipedia.org/wiki/Henrik_Brockmann "wikilink")(主音，�
 Hunt](https://zh.wikipedia.org/wiki/Royal_Hunt "wikilink"))、[Dennis
 Buhl](https://zh.wikipedia.org/wiki/Dennis_Buhl "wikilink")
 (鼓手，現於[Hatesphere](https://zh.wikipedia.org/wiki/Hatesphere "wikilink"))、以及[Kasper
-Gram](https://zh.wikipedia.org/wiki/Kasper_Gram "wikilink")(低音電結他)。專輯推出不久，就已獲得國際注視、並登上[日本唱片銷售榜第八名](../Page/日本.md "wikilink")。
+Gram](https://zh.wikipedia.org/wiki/Kasper_Gram "wikilink")(低音電結他)。專輯推出不久，就已獲得國際注視、並登上[日本](../Page/日本.md "wikilink")唱片銷售榜第八名。
 
 一年後、第二張專輯《Theatrical Madness》面世。
 

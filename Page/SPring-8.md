@@ -370,7 +370,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>BL44XU</strong></p></td>
-<td><p><a href="../Page/超分子.md" title="wikilink">超分子複合體構造解析</a></p></td>
+<td><p><a href="../Page/超分子.md" title="wikilink">超分子</a>複合體構造解析</p></td>
 <td><p>9 - 16 keV</p></td>
 <td><p>阪大[6]</p></td>
 <td></td>

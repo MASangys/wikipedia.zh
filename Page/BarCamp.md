@@ -13,12 +13,12 @@ Camp」的駭客會議有關。
 當月 19－21 日，第一次 BarCamp
 在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[帕羅奧圖的](https://zh.wikipedia.org/wiki/帕羅奧圖_\(加利福尼亞州\) "wikilink")
 Socialtext 公司舉行，約有 200 人參加。從那之後，BarCamp 已在全球超過 350
-個城市舉行過，包括[北美洲](../Page/北美洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")、[非洲](../Page/非洲.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[大洋洲和](../Page/大洋洲.md "wikilink")[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。
+個城市舉行過，包括[北美洲](../Page/北美洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")、[非洲](../Page/非洲.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[大洋洲](../Page/大洋洲.md "wikilink")和[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。
 
 2006年8月25－27日，在全球各地同步舉辦了 BarCampEarth，以紀念 BarCamp 一週年。2007 年 8 月 18－19
 日，在帕羅奧圖的同樣地點及臨近地區，舉辦了兩週年紀念 BarCampBlock，參與者超過 800 人。最大規模的一次
 BarCamp，則是 2011
-年在[緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")[仰光舉行](../Page/仰光.md "wikilink")，參與者超過
+年在[緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")[仰光](../Page/仰光.md "wikilink")舉行，參與者超過
 4,700 人。2010年BarCamp仰光上吸引了超过2700名参与者。\[2\]
 
 [Aung_San_Suu_Kyi_at_BarCamp_Yangon_2012.jpg](https://zh.wikipedia.org/wiki/File:Aung_San_Suu_Kyi_at_BarCamp_Yangon_2012.jpg "fig:Aung_San_Suu_Kyi_at_BarCamp_Yangon_2012.jpg")在BarCamp仰光2012上发表演讲\]\]
@@ -32,7 +32,7 @@ BarCamp，則是 2011
 ## 規則
 
   - 你必須做關於 BarCamp[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")。
-  - 如果你想要介紹，你必須將你的主題以及名稱寫在[簡報上](../Page/簡報.md "wikilink")。
+  - 如果你想要介紹，你必須將你的主題以及名稱寫在[簡報](../Page/簡報.md "wikilink")上。
   - 自我介紹只講三個詞！請先想一下要用哪三個詞來表達自己關心的事情
   - 不預先排定議程，也不僅僅來當個過客！
   - 除非影響到其他人的說話時間，不然講者可以盡情地講！

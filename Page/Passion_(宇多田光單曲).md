@@ -1,4 +1,4 @@
-《**Passion**》是[宇多田光第](../Page/宇多田光.md "wikilink")15張日語單曲，於2005年12月14日發行，初動5萬張，累計銷售11萬張。
+《**Passion**》是[宇多田光](../Page/宇多田光.md "wikilink")第15張日語單曲，於2005年12月14日發行，初動5萬張，累計銷售11萬張。
 
 本曲的英文版為《Sanctuary》，為[王國之心
 II全球版的主題曲](https://zh.wikipedia.org/wiki/王國之心_II "wikilink")。
@@ -28,7 +28,7 @@ know"，"I need true emotions" 以及 "So many ups and downs"。
 本曲MV中實體拍攝是在[中國](../Page/中國.md "wikilink")[北京進行](https://zh.wikipedia.org/wiki/北京 "wikilink")。宇多田光本人在[Music
 Station上笑著提到](https://zh.wikipedia.org/wiki/Music_Station "wikilink")「因為人事成本較低...這次拍攝需要很多演員，如果在日本拍攝預算可能會不足夠。另一方面也是為了拍攝大草原的景。」
 
-MV同樣是由其前夫[紀里谷和明執導](../Page/紀里谷和明.md "wikilink")，而MV中動畫部分是由[森本晃司製作](../Page/森本晃司.md "wikilink")，其中主角由她本人為原型。
+MV同樣是由其前夫[紀里谷和明](../Page/紀里谷和明.md "wikilink")執導，而MV中動畫部分是由[森本晃司](../Page/森本晃司.md "wikilink")製作，其中主角由她本人為原型。
 
 ## 收錄曲
 

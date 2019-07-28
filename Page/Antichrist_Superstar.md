@@ -1,5 +1,5 @@
 **Antichrist
-Superstar**是[瑪麗蓮·曼森第二张个人专辑](../Page/瑪麗蓮·曼森.md "wikilink")"**Antichrist
+Superstar**是[瑪麗蓮·曼森](../Page/瑪麗蓮·曼森.md "wikilink")第二张个人专辑"**Antichrist
 Superstar**"中的主打歌曲。这首歌阐明了这张专辑的主旨，与基督教的[上帝做斗争](https://zh.wikipedia.org/wiki/上帝 "wikilink")，
 狂怒地毁掉一切反对力量。这一点可以从狂躁不安的旋律， 类似纳粹集权集会中体现出来， 这首歌同时也是Marilyn
 Manson对批评他的人的回应。

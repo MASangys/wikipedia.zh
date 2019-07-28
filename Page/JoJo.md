@@ -5,7 +5,7 @@ Road》在2006年10月17日發行，並在告示牌200排行榜裡排名第3。�
 
 ## 早期生活
 
-JoJo在[佛蒙特州小鎮伯瑞特波羅出生](../Page/佛蒙特州.md "wikilink")，並在[新罕布希爾州](https://zh.wikipedia.org/wiki/新罕布希爾州 "wikilink")[金恩](https://zh.wikipedia.org/wiki/金恩 "wikilink")（Keene）和[麻省福克斯堡](https://zh.wikipedia.org/wiki/麻省 "wikilink")（Foxborough）成長。她的血統包括母親的蘇格蘭人、愛爾蘭人、英國人和波蘭人的血統，和父親那邊法裔加拿大人、愛爾蘭人和土生土長的美洲印第安人的血統。她在一個低收入家庭以及只有一間房間的公寓成長。她的父親──Joel
+JoJo在[佛蒙特州](../Page/佛蒙特州.md "wikilink")小鎮伯瑞特波羅出生，並在[新罕布希爾州](https://zh.wikipedia.org/wiki/新罕布希爾州 "wikilink")[金恩](https://zh.wikipedia.org/wiki/金恩 "wikilink")（Keene）和[麻省福克斯堡](https://zh.wikipedia.org/wiki/麻省 "wikilink")（Foxborough）成長。她的血統包括母親的蘇格蘭人、愛爾蘭人、英國人和波蘭人的血統，和父親那邊法裔加拿大人、愛爾蘭人和土生土長的美洲印第安人的血統。她在一個低收入家庭以及只有一間房間的公寓成長。她的父親──Joel
 Maurice Levesque，以唱歌作為嗜好；她的母親──Diana
 Levesque，在一間音樂劇院訓練，並在一間天主教教堂裡擔任唱詩班成員。JoJo三歲時，父母便離異了。
 

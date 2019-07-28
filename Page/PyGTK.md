@@ -1,5 +1,5 @@
-**PyGTK**是一套用[Python封裝的](../Page/Python.md "wikilink")，用於[GTK+的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[GUI庫](https://zh.wikipedia.org/wiki/GUI "wikilink")。PyGTK是在[LGPL授權下的](https://zh.wikipedia.org/wiki/LGPL "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。它的作者是著名的GNOME開發者[James
-Henstridge](https://zh.wikipedia.org/wiki/James_Henstridge "wikilink")。今天PyGTK核心研發團隊有6人，與及其他不同開發者和用戶提出修正報告和[補丁](https://zh.wikipedia.org/wiki/補丁 "wikilink")。PyGTK所開發的應用程式更已被選應用於[OLPC的系統之上](../Page/OLPC.md "wikilink")。開發商和有關各方通常可以在[IRC頻道irc](../Page/IRC.md "wikilink").gnome.org找到\#pygtk的相關文件。
+**PyGTK**是一套用[Python](../Page/Python.md "wikilink")封裝的，用於[GTK+的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[GUI庫](https://zh.wikipedia.org/wiki/GUI "wikilink")。PyGTK是在[LGPL授權下的](https://zh.wikipedia.org/wiki/LGPL "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。它的作者是著名的GNOME開發者[James
+Henstridge](https://zh.wikipedia.org/wiki/James_Henstridge "wikilink")。今天PyGTK核心研發團隊有6人，與及其他不同開發者和用戶提出修正報告和[補丁](https://zh.wikipedia.org/wiki/補丁 "wikilink")。PyGTK所開發的應用程式更已被選應用於[OLPC](../Page/OLPC.md "wikilink")的系統之上。開發商和有關各方通常可以在[IRC](../Page/IRC.md "wikilink")頻道irc.gnome.org找到\#pygtk的相關文件。
 
 ## 語法
 

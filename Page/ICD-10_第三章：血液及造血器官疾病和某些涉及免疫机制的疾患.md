@@ -1,5 +1,5 @@
 **ICD-10
-第三章：血液及造血器官疾病和某些涉及免疫机制的疾患**，为[WHO整理的各类](https://zh.wikipedia.org/wiki/WHO "wikilink")[血液及](../Page/血液.md "wikilink")[造血器官疾病和某些涉及免疫机制的疾患](https://zh.wikipedia.org/wiki/造血器官 "wikilink")。
+第三章：血液及造血器官疾病和某些涉及免疫机制的疾患**，为[WHO整理的各类](https://zh.wikipedia.org/wiki/WHO "wikilink")[血液](../Page/血液.md "wikilink")及[造血器官疾病和某些涉及免疫机制的疾患](https://zh.wikipedia.org/wiki/造血器官 "wikilink")。
 
 ## 受控词表
 
@@ -8,7 +8,7 @@
 营养性[贫血](https://zh.wikipedia.org/wiki/贫血 "wikilink") （D50-D53）
 
   - () [缺铁性贫血](https://zh.wikipedia.org/wiki/缺铁性贫血 "wikilink")
-  - () [维生素B12缺乏贫血](../Page/维生素B12.md "wikilink")
+  - () [维生素B12](../Page/维生素B12.md "wikilink")缺乏贫血
   - () [叶酸盐缺乏性贫血](https://zh.wikipedia.org/wiki/叶酸盐 "wikilink")
   - () 其他营养性贫血
 
@@ -46,7 +46,7 @@
 
 其他血液和造血器官疾病（D70-D77）
 
-  - () [粒细胞缺乏](../Page/粒细胞.md "wikilink")
+  - () [粒细胞](../Page/粒细胞.md "wikilink")缺乏
   - () 中性多形核白细胞的功能性疾患
   - () 其他白细胞疾患
   - () 脾疾病

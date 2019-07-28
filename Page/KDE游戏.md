@@ -10,7 +10,7 @@ Environment的游戏](../Page/KDE.md "wikilink")，有多种类型：大体分�
   - [KBlocks](https://zh.wikipedia.org/wiki/KBlocks "wikilink") -
     [俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")[克隆](../Page/克隆.md "wikilink")
   - [Kubrick](https://zh.wikipedia.org/wiki/Kubrick "wikilink") -
-    [魔方游戏](../Page/魔方.md "wikilink")
+    [魔方](../Page/魔方.md "wikilink")游戏
   - [KDiamond](https://zh.wikipedia.org/wiki/KDiamond "wikilink") -
     [宝石迷阵游戏](https://zh.wikipedia.org/wiki/Bejeweled "wikilink")-类似[Gweled](https://zh.wikipedia.org/wiki/Gweled "wikilink")
   - [KBreakout](https://zh.wikipedia.org/wiki/KBreakout "wikilink") -
@@ -39,7 +39,7 @@ Environment的游戏](../Page/KDE.md "wikilink")，有多种类型：大体分�
 
   - Bovo - [五子棋](../Page/五子棋.md "wikilink")
   - KBattleship - [海战棋](../Page/海战_\(游戏\).md "wikilink")
-  - KMahjongg - [四川省类游戏](../Page/四川省.md "wikilink")
+  - KMahjongg - [四川省](../Page/四川省.md "wikilink")类游戏
   - [Shisen-Sho](https://zh.wikipedia.org/wiki/Shisen-Sho "wikilink") -
     [麻将](../Page/麻将.md "wikilink")[连连看](../Page/连连看.md "wikilink")
   - KReversi - [黑白棋](../Page/黑白棋.md "wikilink")

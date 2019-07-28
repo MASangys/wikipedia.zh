@@ -398,13 +398,13 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
   - [橫浜市特別高度救助部隊(Super
     Ranger)](https://zh.wikipedia.org/wiki/橫浜市安全管理局救助機動中隊 "wikilink")
   - [壽司王子\!](https://zh.wikipedia.org/wiki/壽司王子! "wikilink") -
-    現在作品演出者[堂本光一](../Page/堂本光一.md "wikilink"),[中丸雄一](../Page/中丸雄一.md "wikilink"),[山下真司](../Page/山下真司.md "wikilink"),[市川由衣參加的](../Page/市川由衣.md "wikilink")[朝日電視系的電視劇](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")。現在作品由於訓練生和那個指導教官中丸扮演的北島和山下演的大八木之間有上和下關係,不過，《[壽司王子\!](https://zh.wikipedia.org/wiki/壽司王子! "wikilink")》初出來了的宮古島中的壽司店「ティダ寿司」的尤其中丸演じる河原和山下演じる奥平之間又現在作品和同樣也有師傅和見習這個師徒關係。
+    現在作品演出者[堂本光一](../Page/堂本光一.md "wikilink"),[中丸雄一](../Page/中丸雄一.md "wikilink"),[山下真司](../Page/山下真司.md "wikilink"),[市川由衣](../Page/市川由衣.md "wikilink")參加的[朝日電視系的電視劇](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")。現在作品由於訓練生和那個指導教官中丸扮演的北島和山下演的大八木之間有上和下關係,不過，《[壽司王子\!](https://zh.wikipedia.org/wiki/壽司王子! "wikilink")》初出來了的宮古島中的壽司店「ティダ寿司」的尤其中丸演じる河原和山下演じる奥平之間又現在作品和同樣也有師傅和見習這個師徒關係。
   - [消防防災直升飛機](https://zh.wikipedia.org/wiki/消防防災直升飛機 "wikilink")
   - 橫浜市消防直升飛機
     [AS365N](https://zh.wikipedia.org/wiki/AS365 "wikilink")2（愛好者，現實EC155）「幼魚鳥類的肺1(JA6740)」波及「幼魚鳥類的肺2(JA98YH)」被攝影使用了。
   - [空中急診英雄](../Page/空中急診英雄.md "wikilink") - 以救護直升機為題材的電視劇 淺利陽介演出飛行醫生候補生
   - [海猿](https://zh.wikipedia.org/wiki/海猿 "wikilink") -
-    在把[海上保安廳的救助隊作為題材的漫畫](../Page/海上保安廳.md "wikilink")，或那個電影和電視劇
+    在把[海上保安廳](../Page/海上保安廳.md "wikilink")的救助隊作為題材的漫畫，或那個電影和電視劇
     電影的第二作品石黑賢演出的
   - [252生存訊號](../Page/252生存訊號.md "wikilink") episode.ZERO -
     以營救隊作為目標的年輕人的電視劇，續編的電影也有的

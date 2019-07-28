@@ -1,11 +1,11 @@
-**GT-R**，是[日產汽車品牌下的一款](../Page/日產汽車.md "wikilink")[高性能汽車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。日產GT-R於2007年12月6日在[日本推出上市](../Page/日本.md "wikilink")。\[1\]\[2\]\[3\]該款跑車在2013年9月30日於[德国](../Page/德国.md "wikilink")[莱茵兰-普法尔茨州的](https://zh.wikipedia.org/wiki/莱茵兰-普法尔茨州 "wikilink")[纽博格林赛道由車手Michael](../Page/纽博格林赛道.md "wikilink")
+**GT-R**，是[日產汽車](../Page/日產汽車.md "wikilink")品牌下的一款[高性能汽車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。日產GT-R於2007年12月6日在[日本](../Page/日本.md "wikilink")推出上市。\[1\]\[2\]\[3\]該款跑車在2013年9月30日於[德国](../Page/德国.md "wikilink")[莱茵兰-普法尔茨州的](https://zh.wikipedia.org/wiki/莱茵兰-普法尔茨州 "wikilink")[纽博格林赛道](../Page/纽博格林赛道.md "wikilink")由車手Michael
 Krumm做出7分8秒679的成績，名列第10，比另一款日系高性能跑車[雷克萨斯LFA的成績更好](https://zh.wikipedia.org/wiki/雷克萨斯LFA "wikilink")，是日系高性能跑車在該赛道做出的最佳成绩，GT-R曾經被認為是全球最快的8款跑車之一。
 
 ## 特徵
 
 [2018-03-06_Geneva_Motor_Show_2415.JPG](https://zh.wikipedia.org/wiki/File:2018-03-06_Geneva_Motor_Show_2415.JPG "fig:2018-03-06_Geneva_Motor_Show_2415.JPG")上的日產GT-R\]\]
 
-新一代日產GT-R脫離[日產Skyline車系](../Page/日產Skyline.md "wikilink")，成為[日產汽車旗下一個新的獨立車系](../Page/日產汽車.md "wikilink")，並且首次摒棄[直列六缸引擎](https://zh.wikipedia.org/wiki/直列六缸 "wikilink")，採用型號為[VR38DETT的雙](https://zh.wikipedia.org/wiki/日產VR38DETT引擎 "wikilink")[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[V6引擎](https://zh.wikipedia.org/wiki/V6引擎 "wikilink")。這款引擎是基於日產汽車在市場上廣受好評的[日產VQ引擎進化而來](https://zh.wikipedia.org/wiki/日產VQ引擎 "wikilink")，可在6400rpm時爆發出480-550ps的峰值馬力，並由於雙[渦輪增壓的加持](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")，可在3200至6000每分钟转速的區間爆發出588至632牛·米的駭人扭力。後置的內部編號為GR6的濕式雙離合[半自動變速器設計自美國的BorgWarner](https://zh.wikipedia.org/wiki/半自動變速器 "wikilink")[博格華納公司](https://zh.wikipedia.org/wiki/博格華納 "wikilink")，不但這種變速器的安置設計在日產汽車的產品裡是第一次出現，此款變速器還可在短短20毫秒內就完成換檔工作，配合日產汽車的**ATTESA
+新一代日產GT-R脫離[日產Skyline](../Page/日產Skyline.md "wikilink")車系，成為[日產汽車](../Page/日產汽車.md "wikilink")旗下一個新的獨立車系，並且首次摒棄[直列六缸引擎](https://zh.wikipedia.org/wiki/直列六缸 "wikilink")，採用型號為[VR38DETT的雙](https://zh.wikipedia.org/wiki/日產VR38DETT引擎 "wikilink")[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[V6引擎](https://zh.wikipedia.org/wiki/V6引擎 "wikilink")。這款引擎是基於日產汽車在市場上廣受好評的[日產VQ引擎進化而來](https://zh.wikipedia.org/wiki/日產VQ引擎 "wikilink")，可在6400rpm時爆發出480-550ps的峰值馬力，並由於雙[渦輪增壓的加持](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")，可在3200至6000每分钟转速的區間爆發出588至632牛·米的駭人扭力。後置的內部編號為GR6的濕式雙離合[半自動變速器設計自美國的BorgWarner](https://zh.wikipedia.org/wiki/半自動變速器 "wikilink")[博格華納公司](https://zh.wikipedia.org/wiki/博格華納 "wikilink")，不但這種變速器的安置設計在日產汽車的產品裡是第一次出現，此款變速器還可在短短20毫秒內就完成換檔工作，配合日產汽車的**ATTESA
 E-TS智能[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")**，能使日產GT-R在3.6秒內完成时速0至100公里的加速（2008年12月後的款式縮短至3.3秒，2010年11月後的款式再縮短至2.8秒，2013年款更進步至2.7秒）。
 
 ### [四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")
@@ -17,8 +17,8 @@ E-TS智能[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikil
 E-TS智能四輪驅動系統並非全時四輪驅動系統）。
 
 日產GT-R上採用的ATTESA
-E-TS智能四輪驅動系統是一套後驅型智能四輪驅動系統，這套系統是日產GT-R能在[紐伯格林賽道北環獲得優異成績的關鍵所在](https://zh.wikipedia.org/wiki/紐伯格林賽道 "wikilink")。因為此套系統在大部分情況下保留後驅車的特性，中央[差速器在大部分情況下將動力傳送至後輪](../Page/差速器.md "wikilink")，不會像全時四輪驅動系統那樣在尾速時會流失過多的動力。這樣在一些容忍度較高的彎道內，日產GT-R可以令前後輪分工更明確，而一旦四個車輪的車速感應器以及其車身內的兩個g力感應器得到信號並計算得出需要四輪驅動時，整套ATTESA
-E-TS系統就會介入然後通過傳遞動態控制命令給電控系統來達到控制後橋的液力差速器，使得後輪被迫減少動力，然後中央差速器再將剩餘的動力傳遞到前輪,但缺憾是當GT-R[漂移時](../Page/漂移.md "wikilink"),前輪會強行作出修正,使GT-R停止漂移,因此有部分人改裝時會移除ATTESA
+E-TS智能四輪驅動系統是一套後驅型智能四輪驅動系統，這套系統是日產GT-R能在[紐伯格林賽道北環獲得優異成績的關鍵所在](https://zh.wikipedia.org/wiki/紐伯格林賽道 "wikilink")。因為此套系統在大部分情況下保留後驅車的特性，中央[差速器](../Page/差速器.md "wikilink")在大部分情況下將動力傳送至後輪，不會像全時四輪驅動系統那樣在尾速時會流失過多的動力。這樣在一些容忍度較高的彎道內，日產GT-R可以令前後輪分工更明確，而一旦四個車輪的車速感應器以及其車身內的兩個g力感應器得到信號並計算得出需要四輪驅動時，整套ATTESA
+E-TS系統就會介入然後通過傳遞動態控制命令給電控系統來達到控制後橋的液力差速器，使得後輪被迫減少動力，然後中央差速器再將剩餘的動力傳遞到前輪,但缺憾是當GT-R[漂移](../Page/漂移.md "wikilink")時,前輪會強行作出修正,使GT-R停止漂移,因此有部分人改裝時會移除ATTESA
 E-TS解決這個問題。
 
 GTR有個與一般性能車大相逕庭的設計觀念：重量。此車不追求極輕的重量，而是追求良好的驅動力與車重分配，從而達成最佳化四輪的抓地力並產生優異的駕控表現，GTR不斷進步的紐伯林的單圈成績證明了這個思維是正確的，減輕車重並非是增加駕控性能的唯一途徑。
@@ -82,10 +82,10 @@ Drive](https://zh.wikipedia.org/wiki/四驱 "wikilink")
 
 ### CBA-R35
 
-於2007年[東京車展上](../Page/東京車展.md "wikilink")，日產展示區內首先播放GT-R在德國[紐伯靈賽道圈速記錄的影片](https://zh.wikipedia.org/wiki/紐伯靈賽道 "wikilink")，隨後日產汽車負責人卡洛斯·戈恩駕駛車型代號**CBA-R35**的GT-R從後台駛出，GT-R正式亮相後，日產汽車在會場內正式公佈2007年12月6日在[日本推出上市](../Page/日本.md "wikilink")，2008年7月7日美國上市，洛杉磯環球日產經銷處於2008年7月7日中午12:01交付第一輛新車，加拿大也緊隨其後7月上市，歐洲市場已經於2008年底上市。推遲的時差，是因為廠方特別為GT-R建立一套獨立的合格銷售據點及維修服務（稱為Nissan
+於2007年[東京車展](../Page/東京車展.md "wikilink")上，日產展示區內首先播放GT-R在德國[紐伯靈賽道圈速記錄的影片](https://zh.wikipedia.org/wiki/紐伯靈賽道 "wikilink")，隨後日產汽車負責人卡洛斯·戈恩駕駛車型代號**CBA-R35**的GT-R從後台駛出，GT-R正式亮相後，日產汽車在會場內正式公佈2007年12月6日在[日本](../Page/日本.md "wikilink")推出上市，2008年7月7日美國上市，洛杉磯環球日產經銷處於2008年7月7日中午12:01交付第一輛新車，加拿大也緊隨其後7月上市，歐洲市場已經於2008年底上市。推遲的時差，是因為廠方特別為GT-R建立一套獨立的合格銷售據點及維修服務（稱為Nissan
 High Performance Centre）機制，還有就是手工打造的引擎及傳動裝置等產量很低，每個月能生產約1000輛GT-R。\[10\]
 
-日本以外的[亞太市場方面](https://zh.wikipedia.org/wiki/亞太 "wikilink")，由於貨源長期處於緊張狀態，所以只限於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳大利亞以及](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[紐西蘭上市](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，其他銷售地區包括[中東以及](https://zh.wikipedia.org/wiki/中東 "wikilink")[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")。至於[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞以及](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[拉丁美洲的上市時間就一直遙遙無期](../Page/拉丁美洲.md "wikilink")。
+日本以外的[亞太市場方面](https://zh.wikipedia.org/wiki/亞太 "wikilink")，由於貨源長期處於緊張狀態，所以只限於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳大利亞以及](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[紐西蘭上市](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，其他銷售地區包括[中東以及](https://zh.wikipedia.org/wiki/中東 "wikilink")[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")。至於[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞以及](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[拉丁美洲](../Page/拉丁美洲.md "wikilink")的上市時間就一直遙遙無期。
 
 GT-R每年都會作出改良，2009年款GT-R最大馬力稍為提升至485匹，油箱容量亦增大至74公升，透過改變減震筒與前端的彈簧係數，以換取更直接的轉向反應，車長因為撤除前方的車牌架而略為縮短5mm，由4655mm至4650mm。2010年款GT-R亦再度改良懸吊系統，強化減震筒中的阻尼與彈簧磅數，後懸吊連桿中的襯套亦重新強化，排氣系統亦將原先Spec
 V車型專屬的散熱系統導入全車系，以及換上六角形觸媒，使排氣流程更為流暢。

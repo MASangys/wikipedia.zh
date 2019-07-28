@@ -1,5 +1,5 @@
 《**電擊hp**》是[Media
-Works發行主要以](https://zh.wikipedia.org/wiki/Media_Works "wikilink")[輕小說為中心的](../Page/輕小說.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1998年12月18日創刊。於2007年10月10日停刊，並由《[電擊文庫MAGAZINE](../Page/電擊文庫MAGAZINE.md "wikilink")》後繼取代。
+Works發行主要以](https://zh.wikipedia.org/wiki/Media_Works "wikilink")[輕小說](../Page/輕小說.md "wikilink")為中心的[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1998年12月18日創刊。於2007年10月10日停刊，並由《[電擊文庫MAGAZINE](../Page/電擊文庫MAGAZINE.md "wikilink")》後繼取代。
 
 ## 連載作品
 

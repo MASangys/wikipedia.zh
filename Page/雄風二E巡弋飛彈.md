@@ -1,14 +1,14 @@
 **雄風二E巡弋飛彈（Hsiung Feng IIE,
-HF-2E）**為[中華民國](../Page/中華民國.md "wikilink")[中科院製造的地對地](https://zh.wikipedia.org/wiki/中山科學研究院 "wikilink")[巡弋飛彈](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")，以「雄昇」為發展計畫，將[雄風二型反艦飛彈為基礎並參考自美國](../Page/雄風二型反艦飛彈.md "wikilink")[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")\[1\]研發，投入研發經費約330億元台幣，2010年起以「戟隼專案」展開生產\[2\]。
+HF-2E）**為[中華民國](../Page/中華民國.md "wikilink")[中科院製造的地對地](https://zh.wikipedia.org/wiki/中山科學研究院 "wikilink")[巡弋飛彈](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")，以「雄昇」為發展計畫，將[雄風二型反艦飛彈](../Page/雄風二型反艦飛彈.md "wikilink")為基礎並參考自美國[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")\[1\]研發，投入研發經費約330億元台幣，2010年起以「戟隼專案」展開生產\[2\]。
 
 ## 概述
 
 雄風二E巡弋飛彈為採低空、貼地表，隨地形、地貌變化起伏飛行的[次音速](https://zh.wikipedia.org/wiki/次音速 "wikilink")[巡弋飛彈](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")。
-2011年的射程公開說法為600[公里](../Page/公里.md "wikilink")，並以3000公里為目標增加射程距離\[3\]。其長度和直徑約介於[雄風三型反艦飛彈和美國](../Page/雄風三型反艦飛彈.md "wikilink")[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")\[4\]之間。可對[中國大陸的東南沿海目標造成威脅](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。射程可達[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[長沙](https://zh.wikipedia.org/wiki/長沙 "wikilink")、[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[南京等東南沿岸重要的城市及軍事目標](https://zh.wikipedia.org/wiki/南京 "wikilink")\[5\]。
+2011年的射程公開說法為600[公里](../Page/公里.md "wikilink")，並以3000公里為目標增加射程距離\[3\]。其長度和直徑約介於[雄風三型反艦飛彈](../Page/雄風三型反艦飛彈.md "wikilink")和美國[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")\[4\]之間。可對[中國大陸的東南沿海目標造成威脅](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。射程可達[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[長沙](https://zh.wikipedia.org/wiki/長沙 "wikilink")、[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[南京等東南沿岸重要的城市及軍事目標](https://zh.wikipedia.org/wiki/南京 "wikilink")\[5\]。
 
 ## 發展歷史
 
-[中華民國國軍目前服役的](../Page/中華民國國軍.md "wikilink")[天弓](https://zh.wikipedia.org/wiki/天弓飛彈 "wikilink")、[鷹式飛彈](../Page/MIM-23鷹式飛彈.md "wikilink")，用途在於攔截來襲敵機，[愛國者飛彈則用於攔截飛彈](https://zh.wikipedia.org/wiki/愛國者飛彈 "wikilink")，均為防禦性質的防空飛彈；[中科院已研發成熟的](https://zh.wikipedia.org/wiki/國家中山科學研究院 "wikilink")[ATBM（Anti-Tactical
+[中華民國國軍](../Page/中華民國國軍.md "wikilink")目前服役的[天弓](https://zh.wikipedia.org/wiki/天弓飛彈 "wikilink")、[鷹式飛彈](../Page/MIM-23鷹式飛彈.md "wikilink")，用途在於攔截來襲敵機，[愛國者飛彈則用於攔截飛彈](https://zh.wikipedia.org/wiki/愛國者飛彈 "wikilink")，均為防禦性質的防空飛彈；[中科院已研發成熟的](https://zh.wikipedia.org/wiki/國家中山科學研究院 "wikilink")[ATBM（Anti-Tactical
 Ballistic
 Missile）反戰術彈道飛彈](https://zh.wikipedia.org/wiki/天弓飛彈 "wikilink")，也是攔截飛彈、戰機用途。為了落實[中華民國國防部之防衛作戰最高指導原則](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")：“防衛固守，有效嚇阻。”而著手研發具攻擊重要軍事據點範圍內的攻擊性飛彈\[6\]。
 
@@ -26,7 +26,7 @@ Missile）反戰術彈道飛彈](https://zh.wikipedia.org/wiki/天弓飛彈 "wik
 
 除了量產型戟隼彈，空軍另編列了雄升飛彈的翻修經費，可信雄二E原型彈目前仍有部分在服役。
 
-目前中華民國國軍尚無公開展示雄風二E戰具，但由於飛彈指揮部的地址已經被媒體公布，因此在2013年台灣網友透過[Google地圖採購的商用衛星照片找出雄風二E巡弋飛彈佈署位置](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")，飛彈、掛彈車、中繼車及指揮管制車，證明雄風二E量產服役。\[12\]\[13\]\[14\]。時任[中華民國國防部發言人](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")[羅紹和少將在此軍事部署情況被揭露後聲明](../Page/羅紹和.md "wikilink")「國軍重要的軍事設施，均已經建置相關防護作為，可以確保營區與裝備安全，請國人放心。」\[15\]
+目前中華民國國軍尚無公開展示雄風二E戰具，但由於飛彈指揮部的地址已經被媒體公布，因此在2013年台灣網友透過[Google地圖採購的商用衛星照片找出雄風二E巡弋飛彈佈署位置](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")，飛彈、掛彈車、中繼車及指揮管制車，證明雄風二E量產服役。\[12\]\[13\]\[14\]。時任[中華民國國防部發言人](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")[羅紹和](../Page/羅紹和.md "wikilink")少將在此軍事部署情況被揭露後聲明「國軍重要的軍事設施，均已經建置相關防護作為，可以確保營區與裝備安全，請國人放心。」\[15\]
 
 2017年，在飛指部改編進空軍時，在Facebook粉絲團中公開部分照片，媒體自照片推測目前運用雄風二E飛彈的單位稱為791旅。\[16\]
 

@@ -11,7 +11,7 @@ release date =  | programming language =
 [µClinux](https://zh.wikipedia.org/wiki/µClinux "wikilink").\]\]
 
 在[计算术语中](https://zh.wikipedia.org/wiki/计算 "wikilink")，**uClibc**
-是一个面向[嵌入式](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[Linux系统的小型的](../Page/Linux.md "wikilink")[C标准库](https://zh.wikipedia.org/wiki/C标准库 "wikilink")。最初uClibc是为了支持[uClinux而开发](https://zh.wikipedia.org/wiki/uClinux "wikilink")，这是一个不需要[内存管理单元的Linux版本](../Page/内存管理单元.md "wikilink")，因此适合于[微控制器系统](https://zh.wikipedia.org/wiki/微控制器 "wikilink")（uCs；此处"u"是代表"micro"的[μ的](https://zh.wikipedia.org/wiki/μ "wikilink")[罗马化](../Page/罗马化.md "wikilink")）.\[2\]
+是一个面向[嵌入式](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[Linux](../Page/Linux.md "wikilink")系统的小型的[C标准库](https://zh.wikipedia.org/wiki/C标准库 "wikilink")。最初uClibc是为了支持[uClinux而开发](https://zh.wikipedia.org/wiki/uClinux "wikilink")，这是一个不需要[内存管理单元](../Page/内存管理单元.md "wikilink")的Linux版本，因此适合于[微控制器系统](https://zh.wikipedia.org/wiki/微控制器 "wikilink")（uCs；此处"u"是代表"micro"的[μ的](https://zh.wikipedia.org/wiki/μ "wikilink")[罗马化](../Page/罗马化.md "wikilink")）.\[2\]
 
 项目领导人是Erik Andersen.其他主要贡献者是Manuel Novoa
 III.许可证遵从[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")。uClibc是[自由软件](../Page/自由软件.md "wikilink")。

@@ -1,5 +1,5 @@
 《**Number Ones**》是2004年發行的[Bee
-Gees精選歌曲專輯](https://zh.wikipedia.org/wiki/Bee_Gees "wikilink")，包括18首曾經榮登歌曲排行榜的歌曲以及對2003年不幸逝世的樂隊成員[莫里斯·吉布的紀念特輯](../Page/莫里斯·吉布.md "wikilink")。這是環球唱片發行的最後一張[Bee
+Gees精選歌曲專輯](https://zh.wikipedia.org/wiki/Bee_Gees "wikilink")，包括18首曾經榮登歌曲排行榜的歌曲以及對2003年不幸逝世的樂隊成員[莫里斯·吉布](../Page/莫里斯·吉布.md "wikilink")的紀念特輯。這是環球唱片發行的最後一張[Bee
 Gees專輯](https://zh.wikipedia.org/wiki/Bee_Gees "wikilink")。
 
 Rhino Records在全球2008年發行了專輯的歐洲版本。

@@ -1,21 +1,21 @@
-**AK-9**是一枝由[俄罗斯聯邦槍械製造商](../Page/俄罗斯.md "wikilink")（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern
+**AK-9**是一枝由[俄罗斯](../Page/俄罗斯.md "wikilink")聯邦槍械製造商（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern
 Kalashnikova，；前稱：，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）所研製及生產的現代化[突击步枪](../Page/突击步枪.md "wikilink")，在2007年8月公開，發射[9×39毫米](../Page/9×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。這是流行的卡拉什尼科夫步槍系列的最新款式之一。它是基於“100”系列卡拉什尼科夫突击步枪。
 
 ## 歷史
 
-2006年，俄羅斯當局[權威人士希望](../Page/專業人士.md "wikilink")設計一枝具有AK槍族特色、但是需要適合給[特種部隊使用的新槍](../Page/特種部隊.md "wikilink")。2007年8月，伊茨瑪希工廠推出了AK-9。工廠經理Vladimir
+2006年，俄羅斯當局[權威人士希望](../Page/專業人士.md "wikilink")設計一枝具有AK槍族特色、但是需要適合給[特種部隊](../Page/特種部隊.md "wikilink")使用的新槍。2007年8月，伊茨瑪希工廠推出了AK-9。工廠經理Vladimir
 Grodetsky以[AKS-74U作為基礎](../Page/AKS-74U卡宾枪.md "wikilink")，研發一款適合特種部隊執行[反恐任務的新槍](https://zh.wikipedia.org/wiki/反恐戰爭 "wikilink")。其中一名AK-9的設計員Alexei
 Dragunov曾說過：「它能夠無聲射擊，而且貫穿[防彈衣](https://zh.wikipedia.org/wiki/護甲 "wikilink")。」另外，AK-9同時比早期AK槍族當中的槍械更輕。\[1\]
 
 ## 設計
 
-AK-9是所謂的“100系列”，例如[AK-104卡拉什尼科夫突击步枪作為藍本](../Page/AK-104突击步枪.md "wikilink")，但亦作出一定的改進。它具有經過測試和改進而成的[長行程活塞氣動式操作和](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")[轉拴式槍機](../Page/轉拴式槍栓.md "wikilink")，和“卡拉什尼科夫樣式”控制系統相同的包括與槍機連接在一起的往復往復式、位於[機匣右側並在保險位置時亦作為](https://zh.wikipedia.org/wiki/機匣 "wikilink")的一部份的[快慢機選擇桿和整體佈局式的右側折疊式](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[聚合物](../Page/聚合物.md "wikilink")[槍托](../Page/槍托.md "wikilink")。除了[聚合物的質量是以現代化復合工程製造而有所改進以外](../Page/聚合物.md "wikilink")，前[護木的底部和兩邊亦整合了](https://zh.wikipedia.org/wiki/護木 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，這使得AK-9可以裝上對應導軌的多種模塊化戰術配件，當中包括：[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[兩腳架和](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[榴彈發射器這些戰術配件](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。而機匣的左側裝有屬於俄羅斯標準的[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，用以裝上[PSO-1等快拆式](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。[槍管上可以裝上專門為其而設計的快速拆卸分離式](../Page/槍管.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")，這在搭配[9×39毫米亞音速彈藥時是特別有效的](../Page/9×39mm.md "wikilink")。AK-9發射的是9×39毫米SP-5（鋼蕊彈頭）和SP-6（[穿甲弹頭](../Page/穿甲弹.md "wikilink")）這兩種[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。[彈匣是由](../Page/彈匣.md "wikilink")[黑色的](../Page/黑色.md "wikilink")[聚合物所製成](../Page/聚合物.md "wikilink")，容量為20發子彈，似乎是專用的設計，與其他（競爭）的相同口徑的武器是不兼容的，後者都已經是在[俄羅斯軍隊和執法機關內服役](../Page/俄罗斯军事.md "wikilink")。
+AK-9是所謂的“100系列”，例如[AK-104卡拉什尼科夫突击步枪作為藍本](../Page/AK-104突击步枪.md "wikilink")，但亦作出一定的改進。它具有經過測試和改進而成的[長行程活塞氣動式操作和](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")[轉拴式槍機](../Page/轉拴式槍栓.md "wikilink")，和“卡拉什尼科夫樣式”控制系統相同的包括與槍機連接在一起的往復往復式、位於[機匣右側並在保險位置時亦作為](https://zh.wikipedia.org/wiki/機匣 "wikilink")的一部份的[快慢機選擇桿和整體佈局式的右側折疊式](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[聚合物](../Page/聚合物.md "wikilink")[槍托](../Page/槍托.md "wikilink")。除了[聚合物](../Page/聚合物.md "wikilink")的質量是以現代化復合工程製造而有所改進以外，前[護木的底部和兩邊亦整合了](https://zh.wikipedia.org/wiki/護木 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，這使得AK-9可以裝上對應導軌的多種模塊化戰術配件，當中包括：[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[兩腳架和](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[榴彈發射器這些戰術配件](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。而機匣的左側裝有屬於俄羅斯標準的[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，用以裝上[PSO-1等快拆式](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。[槍管](../Page/槍管.md "wikilink")上可以裝上專門為其而設計的快速拆卸分離式[消聲器](../Page/抑制器.md "wikilink")，這在搭配[9×39毫米亞音速彈藥時是特別有效的](../Page/9×39mm.md "wikilink")。AK-9發射的是9×39毫米SP-5（鋼蕊彈頭）和SP-6（[穿甲弹](../Page/穿甲弹.md "wikilink")頭）這兩種[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。[彈匣](../Page/彈匣.md "wikilink")是由[黑色](../Page/黑色.md "wikilink")的[聚合物](../Page/聚合物.md "wikilink")所製成，容量為20發子彈，似乎是專用的設計，與其他（競爭）的相同口徑的武器是不兼容的，後者都已經是在[俄羅斯軍隊和執法機關內服役](../Page/俄罗斯军事.md "wikilink")。
 
 ## 競爭對手
 
 AK-9的推出是為了成為[AS
-Val突击步枪和](../Page/AS_Val微聲自動步槍.md "wikilink")[9A-91突击步枪競爭對手](../Page/9A-91突击步枪.md "wikilink")，而兩者分別已經裝備於[俄罗斯的](../Page/俄罗斯.md "wikilink")[軍隊和](https://zh.wikipedia.org/wiki/俄罗斯軍事 "wikilink")。在1990年代早期，[KBP儀器設計廠的附屬公司](https://zh.wikipedia.org/wiki/KBP儀器設計廠 "wikilink")，（CKIB
-SOO，）以[AKS-74U開發一種發射](../Page/AKS-74U卡宾枪.md "wikilink")[9×39毫米蘇聯](../Page/9×39mm.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈的衍生型](../Page/子彈.md "wikilink")：[OC-12](../Page/OTs-12突击步枪.md "wikilink")。還未有以OC-12系列作為基礎設計生產的新槍。\[2\]
+Val突击步枪和](../Page/AS_Val微聲自動步槍.md "wikilink")[9A-91突击步枪](../Page/9A-91突击步枪.md "wikilink")競爭對手，而兩者分別已經裝備於[俄罗斯](../Page/俄罗斯.md "wikilink")的[軍隊和](https://zh.wikipedia.org/wiki/俄罗斯軍事 "wikilink")。在1990年代早期，[KBP儀器設計廠的附屬公司](https://zh.wikipedia.org/wiki/KBP儀器設計廠 "wikilink")，（CKIB
+SOO，）以[AKS-74U開發一種發射](../Page/AKS-74U卡宾枪.md "wikilink")[9×39毫米蘇聯](../Page/9×39mm.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的衍生型：[OC-12](../Page/OTs-12突击步枪.md "wikilink")。還未有以OC-12系列作為基礎設計生產的新槍。\[2\]
 
 ## 轉移到AK-12
 

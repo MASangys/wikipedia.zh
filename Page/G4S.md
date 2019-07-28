@@ -2,11 +2,11 @@
  **G4S**（、
 ）是全球领先的国际安全解决方案供应商，中文名為**杰富仕**，目前為全球第一大保安公司，也是全球最大的私营雇主，目前在全球125个国家有65.7万名G4S员工；G4S前身為Securicor，於2004年與Group
 4
-Falck合併，改名為G4S。\[1\]G4S是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[上市的國際](../Page/上市公司.md "wikilink")[保安公司](../Page/保安.md "wikilink")\[2\]，提供安保全面解决方案（安全360）、保安、保镖、安全系统和技术、活动和会展安全方案、物业管理、现金全面管理（现金360）、ATM维护、贵重物品押运、惩教等服務。
+Falck合併，改名為G4S。\[1\]G4S是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[上市的國際](../Page/上市公司.md "wikilink")[保安](../Page/保安.md "wikilink")公司\[2\]，提供安保全面解决方案（安全360）、保安、保镖、安全系统和技术、活动和会展安全方案、物业管理、现金全面管理（现金360）、ATM维护、贵重物品押运、惩教等服務。
 
 ## 歷史
 
-1901年，G4S保安創業於[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")，於1960年成立[香港分公司](../Page/香港.md "wikilink")\[3\]並
+1901年，G4S保安創業於[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")，於1960年成立[香港](../Page/香港.md "wikilink")分公司\[3\]並
 
 2001年12月17日　SecuricorG4S与怡和集团联合宣布，Securicor
 Plc已收购怡和集团于怡和保安—双方于亚洲的合资保安服务企业—之股份。Jardine

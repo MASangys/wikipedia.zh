@@ -1,6 +1,6 @@
 **Decibel** 是一個[KDE
 4新的通信框架](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")。Decibel
-的目標是整合所有到桌面的通信協定。現在用戶都接觸不同的應用程式：[AOL](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")、[MSN](../Page/Windows_Live_Messenger.md "wikilink")、[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[Skype等](../Page/Skype.md "wikilink")。Decibel將存儲的所有聯繫在一個地方，方便用戶管理和溝通。
+的目標是整合所有到桌面的通信協定。現在用戶都接觸不同的應用程式：[AOL](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")、[MSN](../Page/Windows_Live_Messenger.md "wikilink")、[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[Skype](../Page/Skype.md "wikilink")等。Decibel將存儲的所有聯繫在一個地方，方便用戶管理和溝通。
 
 例如[愛麗絲想和鮑勃說話](../Page/愛麗絲與鮑伯.md "wikilink")。愛麗絲要求開始連接到鮑勃並向伺服器要求和選擇最好的方式連絡鮑勃（根據電話號碼、電子郵件地址等），並開啟了和鮑勃之間的連接。這樣一來，愛麗絲可以聯繫她的朋友們無論他們使用何種協定。
 

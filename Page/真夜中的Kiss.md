@@ -1,5 +1,5 @@
 《**-{zh-hans:真夜中的Kiss;
-zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[持田秋的一部作品](../Page/持田秋.md "wikilink")。於[集英社的](../Page/集英社.md "wikilink")[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[りぼん](https://zh.wikipedia.org/wiki/りぼん "wikilink")》2007年4月號開始連載。
+zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[持田秋](../Page/持田秋.md "wikilink")的一部作品。於[集英社](../Page/集英社.md "wikilink")的[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[りぼん](https://zh.wikipedia.org/wiki/りぼん "wikilink")》2007年4月號開始連載。
 
 ## 故事簡介
 
@@ -78,7 +78,7 @@ zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫
 </tbody>
 </table>
 
-  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[尖端出版是](../Page/尖端出版.md "wikilink")1、2集同步上市。
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[尖端出版](../Page/尖端出版.md "wikilink")是1、2集同步上市。
 
 ## 各話標題
 

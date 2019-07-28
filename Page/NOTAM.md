@@ -31,7 +31,7 @@ Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的
 
 <!-- end list -->
 
-  - 第A行是適用的機場或者是該[飛航情報區](../Page/飛航情報區.md "wikilink")（FIR）的[ICAO的編碼和由該機場作起點的適用範圍](https://zh.wikipedia.org/wiki/國際民航組織 "wikilink")（例如[香港國際機場西南](../Page/香港國際機場.md "wikilink")20公里）。
+  - 第A行是適用的機場或者是該[飛航情報區](../Page/飛航情報區.md "wikilink")（FIR）的[ICAO的編碼和由該機場作起點的適用範圍](https://zh.wikipedia.org/wiki/國際民航組織 "wikilink")（例如[香港國際機場](../Page/香港國際機場.md "wikilink")西南20公里）。
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@ Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的
 
 ## 例子
 
-以下是[倫敦希斯路機場發出的一個NOTAM](../Page/倫敦希斯路機場.md "wikilink")：
+以下是[倫敦希斯路機場](../Page/倫敦希斯路機場.md "wikilink")發出的一個NOTAM：
 
     A1234/06 NOTAMR A1212/06
     Q)EGTT/QMXLC/IV/NBO/A/000/999/5129N00028W005

@@ -1,6 +1,6 @@
 **涼宮春日的憂鬱
-角色CD**是從2006年7月5日到2007年2月21日由[Lantis發行的一連串](../Page/Lantis.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年再發行**涼宮春日的憂鬱
-新角色CD**，從2009年9月30日到2009年12月9日由[Lantis發行](../Page/Lantis.md "wikilink")。
+角色CD**是從2006年7月5日到2007年2月21日由[Lantis](../Page/Lantis.md "wikilink")發行的一連串[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年再發行**涼宮春日的憂鬱
+新角色CD**，從2009年9月30日到2009年12月9日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要
 
@@ -28,7 +28,7 @@
 
 ### Vol.2 長門有希
 
-2006年7月5日發行。由[茅原實里主唱](../Page/茅原實里.md "wikilink")，[長門有希](../Page/長門有希.md "wikilink")（茅原實里）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2006年7月5日發行。由[茅原實里](../Page/茅原實里.md "wikilink")主唱，[長門有希](../Page/長門有希.md "wikilink")（茅原實里）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -46,7 +46,7 @@
 
 ### Vol.3 朝比奈實玖瑠
 
-2006年7月5日發行。由[後藤邑子主唱](../Page/後藤邑子.md "wikilink")，[朝比奈實玖瑠](../Page/朝比奈實玖瑠.md "wikilink")（後藤邑子）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2006年7月5日發行。由[後藤邑子](../Page/後藤邑子.md "wikilink")主唱，[朝比奈實玖瑠](../Page/朝比奈實玖瑠.md "wikilink")（後藤邑子）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -64,7 +64,7 @@
 
 ### Vol.4 鶴屋學姊
 
-2006年12月6日發行。由[松岡由貴主唱](../Page/松岡由貴.md "wikilink")，[鶴屋學姊](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#鶴屋 "wikilink")（松岡由貴）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2006年12月6日發行。由[松岡由貴](../Page/松岡由貴.md "wikilink")主唱，[鶴屋學姊](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#鶴屋 "wikilink")（松岡由貴）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -81,7 +81,7 @@
 
 ### Vol.5 朝倉涼子
 
-2006年12月6日發行。由[桑谷夏子主唱](../Page/桑谷夏子.md "wikilink")，[朝倉涼子](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#朝倉涼子 "wikilink")（桑谷夏子）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2006年12月6日發行。由[桑谷夏子](../Page/桑谷夏子.md "wikilink")主唱，[朝倉涼子](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#朝倉涼子 "wikilink")（桑谷夏子）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -98,7 +98,7 @@
 
 ### Vol.6 虛妹
 
-2007年1月24日發行。由[青木沙耶香主唱](../Page/青木沙耶香.md "wikilink")，[虛妹](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#虛妹 "wikilink")（青木沙耶香）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年1月24日發行。由[青木沙耶香](../Page/青木沙耶香.md "wikilink")主唱，[虛妹](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#虛妹 "wikilink")（青木沙耶香）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -113,7 +113,7 @@
 
 ### Vol.7 喜綠江美里
 
-2007年1月24日發行。由[白鳥由里主唱](../Page/白鳥由里.md "wikilink")，[喜綠江美里](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#喜綠江美里 "wikilink")（白鳥由里）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年1月24日發行。由[白鳥由里](../Page/白鳥由里.md "wikilink")主唱，[喜綠江美里](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#喜綠江美里 "wikilink")（白鳥由里）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -128,7 +128,7 @@
 
 ### Vol.8 古泉一樹
 
-2007年2月21日發行。由[小野大輔主唱](../Page/小野大輔.md "wikilink")，[古泉一樹](https://zh.wikipedia.org/wiki/古泉一樹 "wikilink")（小野大輔）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年2月21日發行。由[小野大輔](../Page/小野大輔.md "wikilink")主唱，[古泉一樹](https://zh.wikipedia.org/wiki/古泉一樹 "wikilink")（小野大輔）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -143,7 +143,7 @@
 
 ### Vol.9 阿虛
 
-2007年2月21日發行。由[杉田智和主唱](../Page/杉田智和.md "wikilink")，[阿虛](https://zh.wikipedia.org/wiki/阿虛 "wikilink")（杉田智和）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年2月21日發行。由[杉田智和](../Page/杉田智和.md "wikilink")主唱，[阿虛](https://zh.wikipedia.org/wiki/阿虛 "wikilink")（杉田智和）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -178,7 +178,7 @@
 
 ### Vol.2 長門有希
 
-2009年9月30日發行。由[茅原實里主唱](../Page/茅原實里.md "wikilink")。
+2009年9月30日發行。由[茅原實里](../Page/茅原實里.md "wikilink")主唱。
 
   - 收錄曲
 
@@ -193,7 +193,7 @@
 
 ### Vol.3 朝比奈實玖瑠
 
-2009年9月30日發行。由[後藤邑子主唱](../Page/後藤邑子.md "wikilink")。
+2009年9月30日發行。由[後藤邑子](../Page/後藤邑子.md "wikilink")主唱。
 
   - 收錄曲
 
@@ -208,7 +208,7 @@
 
 ### Vol.4 古泉一樹
 
-2009年11月18日發行。由[小野大輔主唱](../Page/小野大輔.md "wikilink")。
+2009年11月18日發行。由[小野大輔](../Page/小野大輔.md "wikilink")主唱。
 
   - 收錄曲
 
@@ -223,7 +223,7 @@
 
 ### Vol.5 阿虛
 
-2009年12月9日發行。由[杉田智和主唱](../Page/杉田智和.md "wikilink")。
+2009年12月9日發行。由[杉田智和](../Page/杉田智和.md "wikilink")主唱。
 
   - 收錄曲
 
@@ -238,7 +238,7 @@
 
 ### Vol.6 鶴屋學姊
 
-2009年12月9日發行。由[松岡由貴主唱](../Page/松岡由貴.md "wikilink")。
+2009年12月9日發行。由[松岡由貴](../Page/松岡由貴.md "wikilink")主唱。
 
   - 收錄曲
 
@@ -253,7 +253,7 @@
 
 ### Vol.7 谷口
 
-2009年12月9日發行。由[白石稔主唱](../Page/白石稔.md "wikilink")。
+2009年12月9日發行。由[白石稔](../Page/白石稔.md "wikilink")主唱。
 
   - 收錄曲
 

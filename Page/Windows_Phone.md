@@ -24,7 +24,7 @@ Mobile浏覽器](../Page/Internet_Explorer_Mobile.md "wikilink")——該浏覽�
 Mobile](../Page/Windows_Mobile.md "wikilink") 6系列，所以称为[Windows Phone
 7](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")。
 
-2011年2月，[诺基亚與微軟達成全球戰略同盟並深度合作共同研發Windows](../Page/诺基亚.md "wikilink")
+2011年2月，[诺基亚](../Page/诺基亚.md "wikilink")與微軟達成全球戰略同盟並深度合作共同研發Windows
 Phone。2011年9月27日，微軟發布Windows Phone 7.5，相比Windows Phone
 7做了许多改善。2012年6月21日，微軟正式發布[Windows Phone
 8](../Page/Windows_Phone_8.md "wikilink")，採用和[Windows
@@ -42,7 +42,7 @@ NT內核](../Page/Windows_NT.md "wikilink")，因为内核的改变，所有Wind
 2015年5月13日，微软公布了[Windows
 10系统的版本SKU](../Page/Windows_10.md "wikilink")，Windows 10
 Mobile就是Windows 10的行動版正式名称，意味自2010年-2016年的Windows
-Phone手机系统正式結束。微软曾经在2014年9月在[Twitter指所有Windows](../Page/Twitter.md "wikilink")
+Phone手机系统正式結束。微软曾经在2014年9月在[Twitter](../Page/Twitter.md "wikilink")指所有Windows
 Phone 8手機皆能免費升級至Windows 10 Mobile\[7\]，但是在2016年3月17日只為18款Windows Phone
 8.1设备提供Windows 10 Mobile升級，沒有第二波更新計劃\[8\]，其余透过预览版通道升级至Windows 10
 Mobile的手机将处于不受支持状态。
@@ -81,7 +81,7 @@ Lumia用戶升級到Windows Phone 7.8還會得到額外的優化）。
 
 #### 發佈夥伴
 
-2010年10月11日，[微軟執行長](https://zh.wikipedia.org/wiki/微軟 "wikilink")[史蒂夫·巴爾默發佈了十款運行Windows](../Page/史蒂夫·巴爾默.md "wikilink")
+2010年10月11日，[微軟執行長](https://zh.wikipedia.org/wiki/微軟 "wikilink")[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")發佈了十款運行Windows
 Phone的裝置，分別由[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")、[戴爾](../Page/戴爾.md "wikilink")，[三星和](../Page/三星電子.md "wikilink")[LG等廠商製作](https://zh.wikipedia.org/wiki/樂金 "wikilink")，並於同年10月21日在[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[澳洲地區](https://zh.wikipedia.org/wiki/澳洲 "wikilink")；11月8日在[美國地區開始銷售](https://zh.wikipedia.org/wiki/美國 "wikilink")。當時在30個國家中，共計有60個電信公司支援或販售該十款裝置，並預計在2011年將會發行更多款式的裝置。
 
 #### 和諾基亞的深度合作
@@ -90,7 +90,7 @@ Phone的裝置，分別由[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")、
 Phone系統，並且將參與該系統的研發。Windows
 Phone將是[諾基亞未來數年在智慧型手機的作業系統](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，並在該平台上，在諾基亞處於市場領先地位的領域進行創新，如拍照等；諾基亞將協助推動和定義Windows
 Phone的未來。諾基亞將向微軟提供硬體設計和語言支持方面的專業技術，並協助Windows
-Phone手機豐富價格定位，獲得更多市占率，並進軍更多地區市場。會中也公佈了微軟和諾基亞間服務的整合，並特別提到[Bing將會提供給諾基亞的裝置作為新的搜尋引擎](../Page/Bing.md "wikilink")、諾基亞自家地圖和[Bing
+Phone手機豐富價格定位，獲得更多市占率，並進軍更多地區市場。會中也公佈了微軟和諾基亞間服務的整合，並特別提到[Bing](../Page/Bing.md "wikilink")將會提供給諾基亞的裝置作為新的搜尋引擎、諾基亞自家地圖和[Bing
 Maps之間的整合以及諾基亞](../Page/Bing_Maps.md "wikilink")[Ovi商店和Windows](https://zh.wikipedia.org/wiki/Ovi（諾基亞） "wikilink")
 Phone市集間的整合。此合作關係涉及了「[版稅權的交手](https://zh.wikipedia.org/wiki/版稅 "wikilink")、市場營銷以及廣告收入的共享資金」，而微軟事後聲明這筆資金將會「數以億計」。而至今，諾基亞已經推出了數款運行Windows
 Phone的智慧型手機（即Lumia系列）。
@@ -105,7 +105,7 @@ Phone的最堅決的支持者。
 #### 其它OEM合作夥伴
 
 微軟於2011年5月25日發佈了更多即將合作發行Windows
-Phone的廠商。其中包括了諾基亞以外的[Acer](https://zh.wikipedia.org/wiki/Acer "wikilink")、[富士通以及](../Page/富士通.md "wikilink")[ZTE都預計將在Windows](https://zh.wikipedia.org/wiki/ZTE "wikilink")
+Phone的廠商。其中包括了諾基亞以外的[Acer](https://zh.wikipedia.org/wiki/Acer "wikilink")、[富士通](../Page/富士通.md "wikilink")以及[ZTE都預計將在Windows](https://zh.wikipedia.org/wiki/ZTE "wikilink")
 Phone的第一次重大更新發佈後發行他們所生產的Windows Phone裝置。\[10\]
 
 2012年6月，諾基亞、華為、三星及宏達國際電子成為微軟Windows Phone 8的第一批合作OEM廠商。
@@ -115,7 +115,7 @@ Phone的第一次重大更新發佈後發行他們所生產的Windows Phone裝�
 Windows
 Phone並不是[免費的](https://zh.wikipedia.org/wiki/免費 "wikilink")，手機廠商必須向微軟提交申請，並且獲得微軟的授權[許可證之後才能使用Windows](https://zh.wikipedia.org/wiki/許可證 "wikilink")
 Phone系統。而想要獲得微軟的Windows Phone授權許可證，必須向微軟繳納一定的授權費。手機廠商每銷售出一台Windows
-Phone手機，都要向微軟繳納23[美元至](../Page/美元.md "wikilink")31美元不等的授權費用。但后来，微软实行免费政策，使更多OEM厂商加入Windows
+Phone手機，都要向微軟繳納23[美元](../Page/美元.md "wikilink")至31美元不等的授權費用。但后来，微软实行免费政策，使更多OEM厂商加入Windows
 Phone阵营。\[11\]
 
 #### 中國
@@ -198,7 +198,7 @@ Live綁定中國國內社交網站帳號實現，尚有很大的限制。
 <li>全新的開始畫面，調整Live Tile的大小（小、中或大），擁有可完全自訂的開始畫面。大型Tile提供更多的資訊，例如新訊息的文字或約會的詳細資料。小Tile則很容易點選和執行。</li>
 <li>20種色彩，現在的輔色加倍，至少有20色，從紅與黃，到靛藍與鋼鐵，使得電話更生氣盎然。選擇的色彩會在開始畫面和電話裡所有地方顯示。</li>
 <li>鎖定畫面，利用Bing每一天的美妙新鎖定畫面影像，倘佯在異國景點中。</li>
-<li>諾基亞會爲Lumia系列帶來更多新特性（例如藍芽傳輸、鈴聲製作等等Windows Phone 7.8支援的功能）。</li>
+<li>諾基亞會爲Lumia系列帶來更多新特性（例如藍芽傳輸、鈴聲製作等等Windows Phone 8支援的功能）。</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -267,10 +267,10 @@ CE為基礎的架構](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")。它
 Windows Phone
 8也將支援更高的解析度（包括1280x720以及1280x768）、[多核心處理器](https://zh.wikipedia.org/wiki/多核心 "wikilink")、[NFC](../Page/近場通訊.md "wikilink")（主要可用以分享檔案和進行付款）、Windows
 Phone
-7應用程式的向下相容性、更佳的卸除式裝置檔案管理（能夠以類似[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Android的方式處理裝置上的檔案](../Page/Android.md "wikilink")）、Nokia
-Maps的整合、新的「錢包」中心（將整合NFC付費功能、[Groupon等折價券網站以及會員卡等](../Page/Groupon.md "wikilink")）。[VoIP應用程式將更完美地整合到作業系統的核心功能中](../Page/VoIP.md "wikilink")。外觀上最重大的改變則是，微軟重新設計了首頁螢幕，使用者將能夠調整動態磚大小。Windows
+7應用程式的向下相容性、更佳的卸除式裝置檔案管理（能夠以類似[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Android](../Page/Android.md "wikilink")的方式處理裝置上的檔案）、Nokia
+Maps的整合、新的「錢包」中心（將整合NFC付費功能、[Groupon](../Page/Groupon.md "wikilink")等折價券網站以及會員卡等）。[VoIP](../Page/VoIP.md "wikilink")應用程式將更完美地整合到作業系統的核心功能中。外觀上最重大的改變則是，微軟重新設計了首頁螢幕，使用者將能夠調整動態磚大小。Windows
 Phone
-8將會包含更多瞄準企業市場的新功能，如裝置管理、[BitLocker加密等](../Page/BitLocker.md "wikilink")。除此之外，使用者將能夠建立私人的市集以提供應用程式給自己的員工——這些企業功能被預期能夠達到甚或超越先前的[Windows
+8將會包含更多瞄準企業市場的新功能，如裝置管理、[BitLocker](../Page/BitLocker.md "wikilink")加密等。除此之外，使用者將能夠建立私人的市集以提供應用程式給自己的員工——這些企業功能被預期能夠達到甚或超越先前的[Windows
 Mobile平台](../Page/Windows_Mobile.md "wikilink")。Windows Phone
 8將會支援OTA更新，且所有Windows Phone
 8的裝置在其發行之後的至少18個月內都能夠獲得軟體支援及更新。\[14\]
@@ -298,16 +298,16 @@ Tiles）的元素所組成的。動態磚相當於可以連結至應用程式、
 有些Windows Phone的功能會被整合至「**中心**」（hubs）裡，它透過Windows
 Phone和許多知名[社交網站](../Page/社交網路服務.md "wikilink")（如[Facebook](../Page/Facebook.md "wikilink")、[Windows
 Live和](../Page/Windows_Live.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")）的整合，提供了本機以及線上的內容統整。\[20\]例如，「相片」中心會顯示出透過裝置拍下的相片以及使用者的Facebook相簿；「連絡人」中心則會顯示由各來源（包括Windows
-Live、Facebook和[Gmail等](../Page/Gmail.md "wikilink")）彙整的連絡人清單。從中心裡，使用者可以直接在社交網站的近況上留言，甚至按「讚」等。其它內建的中心還包括了「音樂+影片」（與[Zune整合](../Page/Zune.md "wikilink")）、「遊戲」（與[Xbox
+Live、Facebook和[Gmail](../Page/Gmail.md "wikilink")等）彙整的連絡人清單。從中心裡，使用者可以直接在社交網站的近況上留言，甚至按「讚」等。其它內建的中心還包括了「音樂+影片」（與[Zune](../Page/Zune.md "wikilink")整合）、「遊戲」（與[Xbox
 Live整合](../Page/Xbox_Live.md "wikilink")）、「市集」以及「[Microsoft
 Office](../Page/Microsoft_Office_Mobile.md "wikilink")」等。\[21\]
 
-Windows Phone使用了[多點觸控科技](../Page/多點觸控.md "wikilink")。\[22\]預設的Windows
+Windows Phone使用了[多點觸控](../Page/多點觸控.md "wikilink")科技。\[22\]預設的Windows
 Phone介面採用了能夠在[OLED螢幕中延長電池使用壽命的黑色佈景主題](https://zh.wikipedia.org/wiki/有機發光半導體 "wikilink")，因為全黑的像素不需發出光線。\[23\]使用者也能夠自行選擇白色的背景以及各種輔色主題，\[24\]而使用者介面中的元件，如動態磚等，就會以使用者所選擇的輔色來呈現。第三方的應用程式也能夠自動套用使用者所選擇的佈景主題。\[25\]\[26\]
 
 ### 文字輸入
 
-使用者可以透過螢幕上的[虛擬鍵盤來輸入文字](../Page/虛擬鍵盤.md "wikilink")。在Windows
+使用者可以透過螢幕上的[虛擬鍵盤](../Page/虛擬鍵盤.md "wikilink")來輸入文字。在Windows
 Phone的輸入法中，有一個用來鍵入[表情符號的鍵盤](https://zh.wikipedia.org/wiki/表情符號 "wikilink")，使用者透過單一按鍵即可鍵入其內建的表情符號。\[27\]除此之外，其輸入法亦支援拼字檢查\[28\]和單字預測。\[29\]在點選一下鍵入過的單字後，輸入法將會列出一些類似的單字，使用者可以透過這個方法來更改已鍵入的內容。\[30\]在英文輸入法中，長按某些特定的鍵可以顯示出相似的非英文字母，如按住e鍵，將會出現e、ë、é、ê、è等選字。在橫向模式中，虛擬鍵盤中的按鍵較縱向模式中的稍大一些，且按鈕的間距也較寬。而Windows
 Phone的裝置也能透過硬體上的實體鍵盤輸入文字。\[31\]
 
@@ -316,18 +316,18 @@ Phone的裝置也能透過硬體上的實體鍵盤輸入文字。\[31\]
 ### 訊息
 
 Windows
-Phone透過「**訊息**」中心整合了發送以及接收訊息的功能。「訊息」中心內的每則訊息皆以「對話」（threads）的形式呈現，它讓使用者除了可以收發傳統文字簡訊之外，也能透過它來和[Skype以及Facebook中的連絡人聊天](../Page/Skype.md "wikilink")。Windows
+Phone透過「**訊息**」中心整合了發送以及接收訊息的功能。「訊息」中心內的每則訊息皆以「對話」（threads）的形式呈現，它讓使用者除了可以收發傳統文字簡訊之外，也能透過它來和[Skype](../Page/Skype.md "wikilink")以及Facebook中的連絡人聊天。Windows
 Phone中的語音辨識系統能夠將語音轉換為文字，反之亦然，故使用者也可以藉由語音系統來读取簡訊。
 
 ### 網頁瀏覽器
 
-Windows Phone 7.5中內建了一款[排版引擎以](../Page/排版引擎.md "wikilink")[Internet
+Windows Phone 7.5中內建了一款[排版引擎](../Page/排版引擎.md "wikilink")以[Internet
 Explorer 9做為基礎的](../Page/Internet_Explorer_9.md "wikilink")[Internet
 Explorer
 Mobile](../Page/Internet_Explorer_Mobile.md "wikilink")。在Windows
 Phone 8中則加入[Internet Explorer
 10](../Page/Internet_Explorer_10.md "wikilink")
-Mobile，具有更多功能，包括對[HTML5的加強支援](../Page/HTML5.md "wikilink")。\[32\]Windows
+Mobile，具有更多功能，包括對[HTML5](../Page/HTML5.md "wikilink")的加強支援。\[32\]Windows
 Phone內建的Internet Explorer Mobile
 9及10均不支援[Flash以及](https://zh.wikipedia.org/wiki/Flash "wikilink")[Silverlight](https://zh.wikipedia.org/wiki/Silverlight "wikilink")。
 
@@ -335,7 +335,7 @@ Windows Phone上的Internet
 Explorer讓使用者能夠建立一個屬於自己的「我的最愛」清單，並能夠將常用的網頁連結作為動態磚釘選在開始畫面中。該瀏覽器最多支援6個索引標籤，而每個索引標籤中的網頁都能夠個別平行載入。\[33\]其它的功能包括了多點觸控手勢的支援、精簡的使用者介面、順暢的放大／縮小動畫、可儲存網頁中的圖片、透過電子郵件分享網頁以及網頁的內部搜尋（即搜尋網頁中的文字內容）。\[34\]微軟宣布將會定期提供Windows
 Phone網頁瀏覽器及其排版引擎的更新，並會將此更新從Windows Phone的更新系統中獨立出來。\[35\]
 
-在一次展示中，微軟表示使用者將能夠透過網頁瀏覽器觀看[YouTube上的影片](../Page/YouTube.md "wikilink")。當使用者從行動版的YouTube網頁中點選一部影片時，Windows
+在一次展示中，微軟表示使用者將能夠透過網頁瀏覽器觀看[YouTube](../Page/YouTube.md "wikilink")上的影片。當使用者從行動版的YouTube網頁中點選一部影片時，Windows
 Phone將會透過一個獨立的應用程式開啟該影片，並自動將該影片整合至「音樂+影片」中心裡。\[36\]
 
 ### 連絡人
@@ -375,14 +375,14 @@ Live網路相簿以及裝置照相機內的相片](../Page/Windows_Live.md "wiki
 
 #### 媒體支援
 
-其中支援的音效檔案格式包括了WAV、MP3、WMA、AMR、[AAC／MP4／M4A／M4B以及](https://zh.wikipedia.org/wiki/AAC "wikilink")[3GP／3G2等](https://zh.wikipedia.org/wiki/3GP "wikilink")；影片檔案格式則包括了WMV、AVI、MP4／M4V、[3GP／3G2以及MOV等標準類型](https://zh.wikipedia.org/wiki/3GP "wikilink")。那些支援的音效及影片檔案類型必須依賴其本身的編碼器播放。之前亦有報導指出AVI檔案中的[DivX和](../Page/DivX.md "wikilink")[Xvid編碼器亦能在系統中播放](../Page/Xvid.md "wikilink")。\[41\]\[42\]異於之前[Windows
+其中支援的音效檔案格式包括了WAV、MP3、WMA、AMR、[AAC／MP4／M4A／M4B以及](https://zh.wikipedia.org/wiki/AAC "wikilink")[3GP／3G2等](https://zh.wikipedia.org/wiki/3GP "wikilink")；影片檔案格式則包括了WMV、AVI、MP4／M4V、[3GP／3G2以及MOV等標準類型](https://zh.wikipedia.org/wiki/3GP "wikilink")。那些支援的音效及影片檔案類型必須依賴其本身的編碼器播放。之前亦有報導指出AVI檔案中的[DivX](../Page/DivX.md "wikilink")和[Xvid](../Page/Xvid.md "wikilink")編碼器亦能在系統中播放。\[41\]\[42\]異於之前[Windows
 Mobile作業系統的是](../Page/Windows_Mobile.md "wikilink")，目前並沒有任何用於播放其它影片格式的第三方應用程式。支援的圖片檔案格式則包括了[JPG／JPEG](../Page/JPEG.md "wikilink")、PNG、GIF、TIF以及BMP等類型。\[43\]\[44\]
 
 ### 遊戲
 
 Windows Phone中的「**遊戲**」中心整合了[Xbox
 LIVE的服務](https://zh.wikipedia.org/wiki/Xbox_LIVE "wikilink")，並能夠將使用者的虛擬人偶以3D的方式呈現出來。透過「遊戲」中心，使用者能夠和自己的虛擬人偶互動、查詢遊戲成就和排行榜、傳送訊息給Xbox
-LIVE的朋友、以及檢視焦點（最新消息、遊戲發行）。\[45\]亦有一些線上多人遊戲（[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")）被發行。\[46\]而微軟曾經在[Gamescom中公布了至少](../Page/Gamescom.md "wikilink")50款相容於Xbox
+LIVE的朋友、以及檢視焦點（最新消息、遊戲發行）。\[45\]亦有一些線上多人遊戲（[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")）被發行。\[46\]而微軟曾經在[Gamescom](../Page/Gamescom.md "wikilink")中公布了至少50款相容於Xbox
 LIVE的Windows Phone遊戲名稱。\[47\]目前Windows Phone的Xbox
 LIVE並不支援實時的多人遊戲，但預計將會在未來提供此項功能。\[48\]其Xbox
 LIVE之主要功能還包括了支援同時在[Xbox
@@ -395,7 +395,7 @@ Phone中的搜尋功能。\[49\]在應用程式執行時按下搜尋按鈕可以
 Phone
 7.5的更新時被取消了，此後實體的搜尋按鈕將僅留給Bing使用，故原本支援內部搜尋的應用程式（如「市集」等）中將會內建一個虛擬的搜尋按鈕。
 
-在其它情況下，按下實體搜尋按鈕將會開啟[Bing應用程式](../Page/Bing.md "wikilink")，使用者可以透過它搜尋網站、新聞以及地圖位置等資訊。\[51\]
+在其它情況下，按下實體搜尋按鈕將會開啟[Bing](../Page/Bing.md "wikilink")應用程式，使用者可以透過它搜尋網站、新聞以及地圖位置等資訊。\[51\]
 
 Windows
 Phone亦有內建的[語音識別功能](https://zh.wikipedia.org/wiki/語音識別 "wikilink")，其服務由提供。使用者可以透過它在Bing中進行語音搜尋、以語音指令撥打電話或開啟應用程式等。長按裝置的「開始」按鈕便能夠啟動此項功能。不過，這個功能目前在Windows
@@ -461,7 +461,7 @@ Phone 8設備。同時，Windows Phone
 Update來取的Windows](https://zh.wikipedia.org/wiki/Microsoft_Update "wikilink")
 Phone的更新。\[58\]微軟企圖讓使用者能夠直接從裝置更新，而不需要再透過[OEM或是](https://zh.wikipedia.org/wiki/OEM "wikilink")[電信公司提供的更新管道](https://zh.wikipedia.org/wiki/電信公司 "wikilink")。\[59\]不過，在2012年1月6日，微軟修正了策略，並改由讓電信公司來決定是否發布更新。\[60\]用來更新軟體的元件稱為「Windows
 Phone
-Update」，它同時存在於裝置上（次要更新，透過無線連接）以及Windows個人電腦端的Zune軟體中（重大更新，透過[USB連接](../Page/USB.md "wikilink")）。當有重大更新可以下載安裝時，裝置將會通知使用者將其連接至個人電腦。\[61\]微軟指出，未來無論是次要或是重大的所有更新都將能直接透過無線方式下載取得。\[62\]前Windows
+Update」，它同時存在於裝置上（次要更新，透過無線連接）以及Windows個人電腦端的Zune軟體中（重大更新，透過[USB](../Page/USB.md "wikilink")連接）。當有重大更新可以下載安裝時，裝置將會通知使用者將其連接至個人電腦。\[61\]微軟指出，未來無論是次要或是重大的所有更新都將能直接透過無線方式下載取得。\[62\]前Windows
 Phone部門總經理查理·金德爾（Charlie Kindel）指出，Windows
 Phone已經具有更新元件的基本架構且微軟已經「準備好了一套讓所有（Windows
 Phone的）使用者都能有效且可靠地獲得更新的系統」。\[63\]
@@ -496,7 +496,7 @@ Windows Phone 8市集英文稱為Store，而Windows Phone 7.8市集仍舊稱為M
 ## 系统架构
 
 Windows Phone 7基于[Windows Embedded CE
-7.0內核](https://zh.wikipedia.org/wiki/Windows_Embedded_CE_7.0 "wikilink")，由[硬件層](../Page/硬件.md "wikilink")、[內核層](https://zh.wikipedia.org/wiki/內核 "wikilink")、[系統層和](../Page/系統.md "wikilink")[應用層四個部分組成](https://zh.wikipedia.org/wiki/應用 "wikilink")。
+7.0內核](https://zh.wikipedia.org/wiki/Windows_Embedded_CE_7.0 "wikilink")，由[硬件](../Page/硬件.md "wikilink")層、[內核層](https://zh.wikipedia.org/wiki/內核 "wikilink")、[系統](../Page/系統.md "wikilink")層和[應用層四個部分組成](https://zh.wikipedia.org/wiki/應用 "wikilink")。
 
 注：新Windows Phone 8采用和Windows 8相同的基于[Windows NT
 6.2內核](https://zh.wikipedia.org/wiki/Windows_NT_6.2 "wikilink")。
@@ -542,7 +542,7 @@ Service」則是雲端服務所需要的伺服器[API](https://zh.wikipedia.org/
 微软当前只允许开发者使用[C\#和](../Page/C♯.md "wikilink")[Visual
 Basic来进行Windows](../Page/Visual_Basic.md "wikilink") Phone
 7的应用开发。此外，在Windows Phone 7应用程序的开发中不允許使用[Native
-Code](https://zh.wikipedia.org/wiki/Native_Code "wikilink")，也不允许使用C/[C++语言](../Page/C++.md "wikilink")（Windows
+Code](https://zh.wikipedia.org/wiki/Native_Code "wikilink")，也不允许使用C/[C++](../Page/C++.md "wikilink")语言（Windows
 Phone
 8已经向开发者开放了C/C++），每个程序安装包（.xap）的大小最大只允许400MB，同时微軟也对应用程序占用的[RAM大小也做出了相应的限制](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")。
 

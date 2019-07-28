@@ -4,7 +4,7 @@ Niccolai领导。
 
 ## 歷史
 
-Haste於2002年編寫一個小型項目，用以實現一小型[虛擬機](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")，該項目很快的發展成Falcon語言。2008年，此語言以[開源項目的方式成為](https://zh.wikipedia.org/wiki/開源項目 "wikilink")[Ubuntu的附加軟體](../Page/Ubuntu.md "wikilink")，並且被包含在[Kross](../Page/Kross.md "wikilink")。
+Haste於2002年編寫一個小型項目，用以實現一小型[虛擬機](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")，該項目很快的發展成Falcon語言。2008年，此語言以[開源項目的方式成為](https://zh.wikipedia.org/wiki/開源項目 "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")的附加軟體，並且被包含在[Kross](../Page/Kross.md "wikilink")。
 
 ## 核心
 
@@ -249,7 +249,7 @@ oriented）*，跨线程数据必须通过几种可行共享机制明确地共�
 ## 可用资源
 
 在[Mac OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[MS-Windows系统上Falcon通过安装程序发布](https://zh.wikipedia.org/wiki/Windows "wikilink")，构建和安装是一个清晰的过程，或者在各种开源系统如[Linux或](../Page/Linux.md "wikilink")[OpenSolaris上通过自构建源代码包](../Page/OpenSolaris.md "wikilink")。
+X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[MS-Windows系统上Falcon通过安装程序发布](https://zh.wikipedia.org/wiki/Windows "wikilink")，构建和安装是一个清晰的过程，或者在各种开源系统如[Linux](../Page/Linux.md "wikilink")或[OpenSolaris](../Page/OpenSolaris.md "wikilink")上通过自构建源代码包。
 
 在后者系统上，*Falcon编程语言*通常支持各种发行版本并保持更新的，其中有：
 
@@ -259,7 +259,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[MS-Windows系统上Falc
   - [Slackware](../Page/Slackware.md "wikilink")
   - [Arch Linux](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")
 
-在基于[Solaris系统的发行版本上通过](../Page/Solaris.md "wikilink")[Blastwave项目和](https://zh.wikipedia.org/wiki/Blastwave "wikilink")[OpenSolaris系统的](../Page/OpenSolaris.md "wikilink")
+在基于[Solaris](../Page/Solaris.md "wikilink")系统的发行版本上通过[Blastwave项目和](https://zh.wikipedia.org/wiki/Blastwave "wikilink")[OpenSolaris](../Page/OpenSolaris.md "wikilink")系统的
 \[AuroraUX <http://en.wikipedia.org/wiki/AuroraUX>\] 发行版本Falcon编程语言是可用的。
 
 ## 参考

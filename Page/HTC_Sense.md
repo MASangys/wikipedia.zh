@@ -1,5 +1,5 @@
 **HTC Sense**
-是[智慧手机廠商](https://zh.wikipedia.org/wiki/智慧手机 "wikilink")[HTC所開發的一款针对](https://zh.wikipedia.org/wiki/HTC "wikilink")[Android及](../Page/Android.md "wikilink")[Windows
+是[智慧手机廠商](https://zh.wikipedia.org/wiki/智慧手机 "wikilink")[HTC所開發的一款针对](https://zh.wikipedia.org/wiki/HTC "wikilink")[Android](../Page/Android.md "wikilink")及[Windows
 Mobile平台上的使用者界面](../Page/Windows_Mobile.md "wikilink")。2009年6月24日首次搭载于Android手機[HTC
 Hero中](../Page/HTC_Hero.md "wikilink")；2009年8月6日搭載于[Windows
 Mobile手機](../Page/Windows_Mobile.md "wikilink")[HTC
@@ -115,7 +115,7 @@ Freestyle自我風格桌面，取消桌面應用程式固定擺放位置的框�
 搭載於[HTC U11和](../Page/HTC_U11.md "wikilink")[HTC
 U11+](../Page/HTC_U11+.md "wikilink")。
 
-### sense 10(2019)
+### Sense 10 (2019)
 
 [HTC U11升級到](../Page/HTC_U11.md "wikilink")[Android
 9所預載](../Page/Android_Pie.md "wikilink")。

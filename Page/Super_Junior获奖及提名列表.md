@@ -111,11 +111,11 @@ Junior由出道至今於頒獎典禮的獲獎及提名](../Page/Super_Junior.md 
 
 Super
 Junior是韩国的13人男子组合，自2005年出道至今得到了很多奖项和认可，2007年进入[华语流行音乐界](https://zh.wikipedia.org/wiki/华语流行音乐 "wikilink")。Super
-Junior大多数奖项在韩国获得，但是也在一些亚洲国家如[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[马来西亚等地得奖](../Page/马来西亚.md "wikilink")。
+Junior大多数奖项在韩国获得，但是也在一些亚洲国家如[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")等地得奖。
 
 《[U](https://zh.wikipedia.org/wiki/U_\(Super_Junior\) "wikilink")》使Super
 Junior获得了第一个音乐奖项（2006年6月SBS人气歌谣奖）。这单曲有赢得了其他4个奖项，组合在2006年9月举行的M.NET/KM音乐节中首次获得了MKMF奖项。在亚洲的其他地区被认识的Super
-Junior是第一个在腾讯星光大典赢得亚洲年度艺人的海外艺人，也是继2003年的[JTL第二个在MTV](../Page/JTL.md "wikilink")
+Junior是第一个在腾讯星光大典赢得亚洲年度艺人的海外艺人，也是继2003年的[JTL](../Page/JTL.md "wikilink")第二个在MTV
 Asia中获得韩国最受欢迎艺人的音乐组合。
 
 Super Junior在演艺生涯中的穿衣风格和时尚方面也得到认同。他们在2007 Summer Break 20's Choice
@@ -124,8 +124,8 @@ Awards中获得最佳装扮艺人称号。在2008 M.NET/KM音乐节得到了唯�
 
 Super Junior自2009年開始，Super Junior已經連續四年獲得韓國唱片銷量總冠軍。七次獲韓國金唱片人氣獎(MSN日本人氣獎:
 2011年；MSN東南亞人氣獎:
-2012年)以及七次獲[Mnet亞洲音樂大獎人氣獎](../Page/Mnet亞洲音樂大獎.md "wikilink")。另外，五次獲得韓國[金唱片唱片本賞](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")（其中三次更得到大賞），並成為在韓國[金唱片頒獎典禮中取得最多獎項的歌手以及第一個蟬聯金唱片大賞的組合](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")。Super
-Junior在2011及2012年的[Mnet亞洲音樂大獎中亦有出色的表現](../Page/Mnet亞洲音樂大獎.md "wikilink")，於2011年獲得最佳男子組合、年度專輯大獎，2012年獲得全球最佳男子組合以及成為唯一蟬聯年度專輯大獎的組合，同時亦成為[Mnet亞洲音樂大獎獲得最多獎項的歌手其中之一](../Page/Mnet亞洲音樂大獎.md "wikilink")。除此之外，他們在2011年更獲得[首爾歌謠本賞及得到大賞](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")，成為該年橫掃三大頒獎典禮大賞的組合。
+2012年)以及七次獲[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")人氣獎。另外，五次獲得韓國[金唱片唱片本賞](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")（其中三次更得到大賞），並成為在韓國[金唱片頒獎典禮中取得最多獎項的歌手以及第一個蟬聯金唱片大賞的組合](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")。Super
+Junior在2011及2012年的[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")中亦有出色的表現，於2011年獲得最佳男子組合、年度專輯大獎，2012年獲得全球最佳男子組合以及成為唯一蟬聯年度專輯大獎的組合，同時亦成為[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")獲得最多獎項的歌手其中之一。除此之外，他們在2011年更獲得[首爾歌謠本賞及得到大賞](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")，成為該年橫掃三大頒獎典禮大賞的組合。
 
 2011年[Music
 Bank單次得分最高排名中](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")，Super

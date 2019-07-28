@@ -1,10 +1,10 @@
-**QQ输入法**是2007年11月20日由[腾讯发布的一款](../Page/腾讯.md "wikilink")[汉语拼音输入法及](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")[五笔输入法软件](https://zh.wikipedia.org/wiki/五笔输入法 "wikilink")，运行在[Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS系统上](https://zh.wikipedia.org/wiki/macOS "wikilink")\[1\]，2014年被[搜狗收购](../Page/搜狗.md "wikilink")\[2\]。
+**QQ输入法**是2007年11月20日由[腾讯](../Page/腾讯.md "wikilink")发布的一款[汉语拼音输入法及](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")[五笔输入法软件](https://zh.wikipedia.org/wiki/五笔输入法 "wikilink")，运行在[Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS系统上](https://zh.wikipedia.org/wiki/macOS "wikilink")\[1\]，2014年被[搜狗](../Page/搜狗.md "wikilink")收购\[2\]。
 
 ## 分支
 
 ### QQ拼音
 
-2011年[清华大学的](https://zh.wikipedia.org/wiki/北京清華大學 "wikilink")《汉字输入发展报告》称QQ拼音输入法的市场占有率为24.6%，名列第二，小于[搜狗拼音输入法的](../Page/搜狗拼音输入法.md "wikilink")83.6%，大于[微软拼音输入法的](../Page/微软拼音输入法.md "wikilink")20.8%\[3\]。腾讯自称其：「输入速度快，占用资源小，轻松提高打字速度20%\[4\]。」
+2011年[清华大学的](https://zh.wikipedia.org/wiki/北京清華大學 "wikilink")《汉字输入发展报告》称QQ拼音输入法的市场占有率为24.6%，名列第二，小于[搜狗拼音输入法](../Page/搜狗拼音输入法.md "wikilink")的83.6%，大于[微软拼音输入法](../Page/微软拼音输入法.md "wikilink")的20.8%\[3\]。腾讯自称其：「输入速度快，占用资源小，轻松提高打字速度20%\[4\]。」
 
   - 词库丰富：QQ拼音词库每日定时更新，让用户能正确打出最新的词汇，减少让用户自组词的几率。
   - 支持换肤：提供多套皮肤，用户也可以自行编辑皮肤。
@@ -15,7 +15,7 @@
 
 ### QQ云输入法
 
-**QQ云输入法**是运用[云计算技术实现在](https://zh.wikipedia.org/wiki/云计算 "wikilink")[网页浏览器上实现中文输入的在线输入工具](../Page/网页浏览器.md "wikilink")。此程序在连接到网络后打开网页浏览器即可使用，不需要在本地安装任何程序。
+**QQ云输入法**是运用[云计算技术实现在](https://zh.wikipedia.org/wiki/云计算 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")上实现中文输入的在线输入工具。此程序在连接到网络后打开网页浏览器即可使用，不需要在本地安装任何程序。
 目前QQ云输入法已停止服务。
 
 ## 团队合并

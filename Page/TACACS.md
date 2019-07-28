@@ -5,7 +5,7 @@ TIP（用户想要登录的接受拨入链接的路由节点）将基于这个�
 up)的，做出决定所用的算法和数据完全由TACACS守护进程的运行者控制。
 
 Cisco在1990引进的最近的TACACS版本称作XTACACS（扩展 TACACS）。在较新的或更新过的网络中，这两个版本大多被
-[TACACS+和](../Page/TACACS+.md "wikilink")[RADIUS取代了](https://zh.wikipedia.org/wiki/RADIUS "wikilink")。
+[TACACS+](../Page/TACACS+.md "wikilink")和[RADIUS取代了](https://zh.wikipedia.org/wiki/RADIUS "wikilink")。
 TACACS+ 是一个全新的协议，与TACACS和XTACACS并不兼容。
 
 TACACS在RFC

@@ -3,7 +3,7 @@
 [聯陽半導體](https://web.archive.org/web/20081101193323/http://www.ite.com.tw/product_info/PC/Brief-IT8705_2.asp)
 \]\] **LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-**，原名叫**Low Pin Count
 Bus**，是在[IBM PC兼容机中用于把低帶寬裝置](../Page/IBM_PC兼容机.md "wikilink")，尤其是[Super
-I/O裝置连接到](https://zh.wikipedia.org/wiki/Super_I/O "wikilink")[CPU上](https://zh.wikipedia.org/wiki/CPU "wikilink")。這些常见低速设备有：[BIOS](../Page/BIOS.md "wikilink")，[串口](https://zh.wikipedia.org/wiki/串口 "wikilink")，[并口](https://zh.wikipedia.org/wiki/并口 "wikilink")，[PS/2介面的](https://zh.wikipedia.org/wiki/PS/2 "wikilink")[键盘和](https://zh.wikipedia.org/wiki/键盘 "wikilink")[鼠标](../Page/鼠标.md "wikilink")，[軟碟機控制器](https://zh.wikipedia.org/wiki/軟碟機控制器 "wikilink")，[TPM](https://zh.wikipedia.org/wiki/TPM "wikilink")。LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-通常和[主板上的](../Page/主板.md "wikilink")[南桥物理相连](../Page/南桥.md "wikilink")，[南桥在](../Page/南桥.md "wikilink")[IBM
+I/O裝置连接到](https://zh.wikipedia.org/wiki/Super_I/O "wikilink")[CPU上](https://zh.wikipedia.org/wiki/CPU "wikilink")。這些常见低速设备有：[BIOS](../Page/BIOS.md "wikilink")，[串口](https://zh.wikipedia.org/wiki/串口 "wikilink")，[并口](https://zh.wikipedia.org/wiki/并口 "wikilink")，[PS/2介面的](https://zh.wikipedia.org/wiki/PS/2 "wikilink")[键盘和](https://zh.wikipedia.org/wiki/键盘 "wikilink")[鼠标](../Page/鼠标.md "wikilink")，[軟碟機控制器](https://zh.wikipedia.org/wiki/軟碟機控制器 "wikilink")，[TPM](https://zh.wikipedia.org/wiki/TPM "wikilink")。LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-通常和[主板](../Page/主板.md "wikilink")上的[南桥](../Page/南桥.md "wikilink")物理相连，[南桥](../Page/南桥.md "wikilink")在[IBM
 PC
 AT平台上通常连接了一系列的](https://zh.wikipedia.org/wiki/IBM_PC_AT "wikilink")“老旧”设备，例如两个[可编程中断控制器](../Page/Intel_8259.md "wikilink")，
 [可编程计时器和两个](https://zh.wikipedia.org/wiki/Intel_8253 "wikilink") [ISA

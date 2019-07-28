@@ -1,5 +1,5 @@
 [Yosakoi_Festival.jpg](https://zh.wikipedia.org/wiki/File:Yosakoi_Festival.jpg "fig:Yosakoi_Festival.jpg")
-**YOSAKOI**（）是一種最初由[高知縣](https://zh.wikipedia.org/wiki/高知縣 "wikilink")[夜來祭](https://zh.wikipedia.org/wiki/夜來祭 "wikilink")（）開始發展起來、並逐漸成為[盂蘭盆節期間在日本全國各地舉行的一種](https://zh.wikipedia.org/wiki/盂蘭盆節 "wikilink")[祭典形態](https://zh.wikipedia.org/wiki/祭典 "wikilink")。除了起源地的高知縣之外，日本各地也廣泛舉辦類似形態之祭典，如[北海道](../Page/北海道.md "wikilink")[札幌市舉辦的](../Page/札幌市.md "wikilink")[YOSAKOI索朗祭](../Page/YOSAKOI索朗祭.md "wikilink")（）或東京的[原宿表參道元氣祭Super
+**YOSAKOI**（）是一種最初由[高知縣](https://zh.wikipedia.org/wiki/高知縣 "wikilink")[夜來祭](https://zh.wikipedia.org/wiki/夜來祭 "wikilink")（）開始發展起來、並逐漸成為[盂蘭盆節期間在日本全國各地舉行的一種](https://zh.wikipedia.org/wiki/盂蘭盆節 "wikilink")[祭典形態](https://zh.wikipedia.org/wiki/祭典 "wikilink")。除了起源地的高知縣之外，日本各地也廣泛舉辦類似形態之祭典，如[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")舉辦的[YOSAKOI索朗祭](../Page/YOSAKOI索朗祭.md "wikilink")（）或東京的[原宿表參道元氣祭Super
 YOSAKOI](https://zh.wikipedia.org/wiki/原宿表參道元氣祭Super_YOSAKOI "wikilink")（）等等。
 
 ## 特徴
@@ -23,7 +23,7 @@ YOSAKOI](https://zh.wikipedia.org/wiki/原宿表參道元氣祭Super_YOSAKOI "wi
 
 ## 與外地交流
 
-日本YOSAKOI隊伍**主要以北海道札幌YOSAKOI索朗祭及三重縣安濃津YOSAKOI**經常來[台灣參加](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺灣燈會白天之踩接活動](https://zh.wikipedia.org/wiki/臺灣燈會 "wikilink")（2003年－），台灣學校也組過許多隊伍到[日本YOSAKOI相關祭典表演](../Page/日本.md "wikilink")。
+日本YOSAKOI隊伍**主要以北海道札幌YOSAKOI索朗祭及三重縣安濃津YOSAKOI**經常來[台灣參加](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺灣燈會白天之踩接活動](https://zh.wikipedia.org/wiki/臺灣燈會 "wikilink")（2003年－），台灣學校也組過許多隊伍到[日本](../Page/日本.md "wikilink")YOSAKOI相關祭典表演。
 
 ### 台灣團體至日本表演
 

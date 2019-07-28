@@ -1,6 +1,6 @@
 **Microsoft SQL Server
-Express**是[微软公司所開發的](../Page/微软.md "wikilink")[关系数据库產品](../Page/关系数据库.md "wikilink")[SQL
-Server的免費下載版本](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，可自由下載、分發（需經註冊）及使用。這個版本的設計是專門為[嵌入式系统或較小型的程式而設計](../Page/嵌入式系统.md "wikilink")。本產品可遡源至過往隨同SQL
+Express**是[微软](../Page/微软.md "wikilink")公司所開發的[关系数据库](../Page/关系数据库.md "wikilink")產品[SQL
+Server的免費下載版本](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，可自由下載、分發（需經註冊）及使用。這個版本的設計是專門為[嵌入式系统](../Page/嵌入式系统.md "wikilink")或較小型的程式而設計。本產品可遡源至過往隨同SQL
 Server 2000軟件分發的[Microsoft Database Engine
 (MSDE)](https://zh.wikipedia.org/wiki/MSDE "wikilink")，用以讓程式開發者在其測試其程式時建立一個系統需求較低的測試環境。自SQL
 Server 2005開始，本產品改用現時的名稱。
@@ -51,42 +51,17 @@ SQL Server Express不包括全功能标准版的几个工具：
   -
 SQL Server Express的各版本是可以远程连接的，但需要用户做一定的配置。
 
-## 授權範圍(來自MicroSoft) 注意 它不是完全免費的
-
-軟體係授權使用，而非出售賣斷。本合約僅提供貴用戶使用軟體的部分權利。Microsoft
-保留所有其他權利。除非相關法律賦予貴用戶超出本合約限制的其他權利，否則貴用戶僅得在本合約明示許可之範圍內使用軟體。因此，貴用戶必須遵守只允許以特定方式使用軟體的科技保護措施。[貴用戶不得](https://zh.wikipedia.org/wiki/貴用戶不得 "wikilink")
-
-1.  在未取得 Microsoft 事先書面同意前，將軟體之基準測試結果揭露予第三人；
-2.  規避軟體中所包含的科技保護措施；
-3.  對軟體進行還原工程、解編或反向組譯，但相關法律明文允許或禁止此種限制者，不在此限。
-4.  為軟體製作的拷貝數量超過本合約所明定之數量，或相關法律所許可之數量。
-5.  將軟體發布給其他人進行複製；
-6.  出租、租賃或出借軟體；
-
-貴用戶**得使用軟體提供商業軟體主機服務**，但必須遵守下列條款： (引用自SQL Server Express 2017安裝軟體授權條款)
-i. 　貴用戶承擔全部責任。如果　貴用戶將軟體用於商業主機服務用途，則　貴用戶最終使用者的所有軟體使用，　貴用戶須負全部法律責任。 ii.
-賠償。若因下列因素而使 Microsoft 遭他人提出索賠要求，　貴用戶應對 Microsoft
-負法律責任及賠償責任：(1)　貴用戶未能正確安裝軟體；(2)
-因　貴用戶而造成之軟體病毒感染；(3)　貴用戶違反本合約之條款；(4) 使用者
-(或任何對使用者提供服務之第三方) 未經授權而進行之安裝、使用、存取、複製、重製、散布本軟體任何部分的行為。
-iii.
-不得用於高風險用途。此軟體不具有容錯功能，亦不保證完全不含錯誤，或可在無中斷的狀況下運作。就任何應用或使用情境而言，若軟體發生故障可能會導致死亡、重大人身傷害、嚴重實體或環境損害
-(以下合稱「高風險用途」)，　貴用戶即不得授權將軟體使用於此等用途或情境。高風險用途的範例包含但不限於：飛行器或其他模式之人為大眾運輸、核能或化學設施、維生系統、植入式醫療設備、汽車或武器系統之控制。高風險用途並不包括發生故障時不致造成個人傷亡或嚴重實體或環境傷害的使用行為；例如將軟體用於管理目的、儲存組態資料、工程及/或組態工具，或者是其他非控制性的應用狀況。此等非控制性的應用，可以與執行控制事項的應用相互通訊，但不得直接或間接負責進行控制功能。若因最終使用者將軟體使用於與高風險用途相關的應用，而使
-Microsoft 遭第三方提出索賠要求時，　貴用戶應賠償 Microsoft 的損失並使之免遭損害。 iv. 遵守授權要件。　貴用戶必須
-(1) 告知擁有軟體存取權的個人，此軟體是由 Microsoft 所授權，同時 (2)
-對擁有軟體存取權的這些個人，以程度至少相當於本合約條款規定的軟體保護條款加以約束。　貴用戶應採取商業上合理的努力，預防任何未經授權的軟體散布、複製、使用或盜版行為。
-
-## 版本
+## 過往版本
 
 <table>
 <caption>Microsoft SQL Server Express Version History</caption>
 <thead>
 <tr class="header">
-<th><p>Version</p></th>
-<th><p>Release date</p></th>
-<th><p>Mainstream Support End Date</p></th>
-<th><p>Extended Support End Date</p></th>
-<th><p>Supported Operating Systems</p></th>
+<th><p>版本號碼</p></th>
+<th><p>發行日期</p></th>
+<th><p>主流支援完結日期</p></th>
+<th><p>延伸支援完結日期</p></th>
+<th><p>支援作業系統</p></th>
 </tr>
 </thead>
 <tbody>
@@ -144,14 +119,24 @@ Docker Engine 1.8+ (on Windows, Mac, or Linux)</p></td>
 </tbody>
 </table>
 
-  - Does not include Windows Server 2016 "Essentials" Edition
+  - 並不包括 Windows Server 2016 "Essentials" Edition
+
+### 安裝版本
+
+至於在SQL Server Express 2017，這個產品的下載有三款安裝版本：
+
+  - 標準的SQL Server Express 2017
+  - 高級版本（with Advanced Services）：包括有[Reporting
+    services及全文檢索](../Page/SQL_Server_Reporting_Services.md "wikilink")（在舊版本均包括在標準安裝版本內）
+  - 連同LocalDB：比標準版本更輕便的數據庫。
 
 ## 資料庫管理工具
 
   - [Navicat for SQL
     Server](http://www.navicat.com/cht/download/navicat-for-sqlserver)
-    是一套專為 Microsoft SQL Server 設計的強大資料庫管理及開發工具。它可以用於任何版本的 SQL Server
-    資料庫，並支援大部份 SQL Server 的功能，包括觸發器、索引、檢視等。
+    是一套付費軟體，專為 Microsoft SQL Server 設計的強大資料庫管理及開發工具。它可以用於任何版本的 SQL
+    Server 資料庫（包括SQL Server Express\[36\]），並支援大部份 SQL Server
+    的功能，包括觸發器、索引、檢視等。
 
 ## 工具
 
@@ -215,6 +200,11 @@ namespace Connection
 
 ## 參考資料
 
+## 參看
+
+  - [SQL Server Management
+    Studio](../Page/SQL_Server_Management_Studio.md "wikilink")（SSMS）
+
 ## 外部連結
 
   - [Microsoft SQL Server Express
@@ -224,6 +214,7 @@ namespace Connection
   - [SQL Server 2012 Comparison of features by
     edition](http://msdn.microsoft.com/en-us/library/cc645993%28v=SQL.110%29.aspx)
   - [SQL Server Express WebLog](http://blogs.msdn.com/sqlexpress/)
+  - [MSDN上的支援群組](https://social.msdn.microsoft.com/Forums/en-US/home?forum=sqlexpress)
   - [Hardware and Software Requirements for Installing SQL
     Server 2012](https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.110%29.aspx)
   - \[<https://msdn.microsoft.com/en-us/library/ms143506(v=sql.120>).aspx
@@ -295,3 +286,4 @@ namespace Connection
 34.
 
 35.
+36.

@@ -11,7 +11,7 @@ Solfege'的名義。
 社團于2001年由松本慎一郎與鮎兩人建立。其音樂風格在同人音樂中非常少見。Love
 Solfege'最初的幾張專輯擁有非常濃厚的[古典色彩](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")，之後為利用鮎唱歌的語速優勢大量的加入[電波歌](https://zh.wikipedia.org/wiki/電波歌 "wikilink")\[2\]直到現在形成了古典音樂與現代音樂相互交融的獨特風格。相應地，因爲大衆對其初期風格的接受度問題，以及擔任主唱的鮎在一開始並非擁有良好的唱功，Love
 Solfege'在早年的[Comic
-Market中人氣並不高](../Page/Comic_Market.md "wikilink")。隨著創作風格的成熟，鮎的演唱技術的提高，以及観月あんみ與的加入和多位[同人歌手與](https://zh.wikipedia.org/wiki/同人歌手 "wikilink")[聲優的協作](../Page/聲優.md "wikilink")，Love
+Market中人氣並不高](../Page/Comic_Market.md "wikilink")。隨著創作風格的成熟，鮎的演唱技術的提高，以及観月あんみ與的加入和多位[同人歌手與](https://zh.wikipedia.org/wiki/同人歌手 "wikilink")[聲優](../Page/聲優.md "wikilink")的協作，Love
 Solfege'逐漸成爲日本最有實力與最受歡迎的同人音樂社團之一。
 
 2007年7月，社團宣佈以商業化音樂團體身份出道並發佈專輯《フタリノワタシ》。團體名沿用最初的“Love
@@ -25,7 +25,7 @@ Solfege在商業化的進程中也有一定的成就。\[3\]
 
   - **松本慎一郎**（）\[4\]
 
-在社團内擔任[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲的工作](../Page/音樂製作人.md "wikilink")。自幼學習[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")12年，小學開始自學[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")、[爵士音樂的作曲法](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，之後學習[管弦樂知識並正式開始作曲生涯](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")。[東京理科大學畢業后從事一些](../Page/東京理科大學.md "wikilink")[電子遊戲與](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[話劇的配樂](https://zh.wikipedia.org/wiki/話劇 "wikilink")，直到加入同人社團。號稱至今已經有了1800多部作品。另外，他經常在廚房中創作，喜歡收集佈娃娃，對耽美類漫畫感興趣\[5\]，並且是個吸煙者。座右銘是“學無止境”（）。
+在社團内擔任[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲的工作](../Page/音樂製作人.md "wikilink")。自幼學習[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")12年，小學開始自學[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")、[爵士音樂的作曲法](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，之後學習[管弦樂知識並正式開始作曲生涯](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")。[東京理科大學](../Page/東京理科大學.md "wikilink")畢業后從事一些[電子遊戲與](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[話劇的配樂](https://zh.wikipedia.org/wiki/話劇 "wikilink")，直到加入同人社團。號稱至今已經有了1800多部作品。另外，他經常在廚房中創作，喜歡收集佈娃娃，對耽美類漫畫感興趣\[5\]，並且是個吸煙者。座右銘是“學無止境”（）。
 
 他在商業場合使用本名，而在同人社團内則用的化名。另外，在其他的場合分別用過、、、、等署名。
 

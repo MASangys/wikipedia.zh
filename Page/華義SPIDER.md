@@ -1,5 +1,5 @@
 **華義SPIDER**（Wayi
-SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，也是元老創立的三隊之一，華義SPIDER的母企業是[華義國際](../Page/華義國際.md "wikilink")。華義SPIDER在2008年、2009年獲得總冠軍，而SF團隊則在國際比賽[SF世界盃在](../Page/SF世界盃.md "wikilink")2008年、2009年連續兩屆獲得冠軍。
+SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，也是元老創立的三隊之一，華義SPIDER的母企業是[華義國際](../Page/華義國際.md "wikilink")。華義SPIDER在2008年、2009年獲得總冠軍，而SF團隊則在國際比賽[SF世界盃](../Page/SF世界盃.md "wikilink")在2008年、2009年連續兩屆獲得冠軍。
 
 ## 歷史沿革
 
@@ -7,13 +7,13 @@ SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipe
   - 2008年7月25日：於[TeSL例行賽中首度出賽](https://zh.wikipedia.org/wiki/TeSL "wikilink")，順利擊敗[電競狼](../Page/電競狼.md "wikilink")。
   - 2008年10月26日：隊史首度打進總冠軍賽，並於總冠軍賽分別以11:9、11:8擊敗[橘子熊奪得總冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")。
   - 2008年11月：首度代表台灣到中國參加[SF世界盃](../Page/SF世界盃.md "wikilink")，在最後擊敗韓國排名第八（共8隊）[hite
-    SPARKYZ全女子隊伍](https://zh.wikipedia.org/wiki/hite_SPARKYZ "wikilink")，並拿下該屆的冠軍。也是台灣第一支電競隊拿下[SF世界盃冠軍](../Page/SF世界盃.md "wikilink")。
+    SPARKYZ全女子隊伍](https://zh.wikipedia.org/wiki/hite_SPARKYZ "wikilink")，並拿下該屆的冠軍。也是台灣第一支電競隊拿下[SF世界盃](../Page/SF世界盃.md "wikilink")冠軍。
   - 2009年3月：首任總教練[曾昊宇](https://zh.wikipedia.org/wiki/曾昊宇 "wikilink")（Xanver）轉任賽評，由[許相瑄](https://zh.wikipedia.org/wiki/許相瑄 "wikilink")（Hoop）接任總教練一職。
   - 2009年5月：獲邀參加[ESWC亞洲大師盃SF項目比賽](https://zh.wikipedia.org/wiki/ESWC亞洲大師盃 "wikilink")，但因主辦單位出錯比賽順序，導致原是第六名後更改為沒有名次。
-  - 2009年6月：參與[2009台韓職業電競明星邀請賽結果SF項目輸給](../Page/2009台韓職業電競明星邀請賽.md "wikilink")[hite
+  - 2009年6月：參與[2009台韓職業電競明星邀請賽](../Page/2009台韓職業電競明星邀請賽.md "wikilink")結果SF項目輸給[hite
     SPARKYZ](https://zh.wikipedia.org/wiki/hite_SPARKYZ "wikilink")，[盧子賢](../Page/盧子賢.md "wikilink")（Yue）則獲選為跑跑卡丁車台灣代表。
-  - 2009年11月：於[台灣大學綜合體育館完成](https://zh.wikipedia.org/wiki/台灣大學綜合體育館 "wikilink")[TeSL職業電競聯賽的二連霸](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")，並在[SF世界盃中與韓國MBC交手以](../Page/SF世界盃.md "wikilink")（華義SPIDER）6:2（韓國MBC）取得世界冠軍。
-  - 2010年3月：SF團隊參加[2010台韓職業電競國際聯賽並擔任開幕戰台灣代表出戰韓國](../Page/2010台韓職業電競國際聯賽.md "wikilink")[KT
+  - 2009年11月：於[台灣大學綜合體育館完成](https://zh.wikipedia.org/wiki/台灣大學綜合體育館 "wikilink")[TeSL職業電競聯賽的二連霸](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")，並在[SF世界盃](../Page/SF世界盃.md "wikilink")中與韓國MBC交手以（華義SPIDER）6:2（韓國MBC）取得世界冠軍。
+  - 2010年3月：SF團隊參加[2010台韓職業電競國際聯賽](../Page/2010台韓職業電競國際聯賽.md "wikilink")並擔任開幕戰台灣代表出戰韓國[KT
     ROLSTER結果敗北](https://zh.wikipedia.org/wiki/KT_ROLSTER "wikilink")，並在與韓國八隊交手中取得一勝七敗的成績。
   - 2010年5月：SF團隊受邀到BELLESALLE秋葉原，與日本電競隊[Racpy進行](https://zh.wikipedia.org/wiki/Racpy "wikilink")[2010SF
     Online日台表演賽](https://zh.wikipedia.org/wiki/2010SF_Online日台表演賽 "wikilink")，拿下三連勝。
@@ -44,7 +44,7 @@ SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipe
   - 2013年7月28日：在[Taiwan
     open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽KR總冠軍賽以](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")1-2輸給[橘子熊無緣獲得電競六年KR聯賽總冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，SF總冠軍賽以2-1擊敗[Yoe鋼鐵人獲得隊史及聯盟首座SF聯賽總冠軍](https://zh.wikipedia.org/wiki/Yoe鋼鐵人 "wikilink")。
   - 2014年8月10日：KR團隊選手[李學洋](https://zh.wikipedia.org/wiki/李學洋 "wikilink")（Rock）、[劉昶亨](https://zh.wikipedia.org/wiki/劉昶亨 "wikilink")（Neal）在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽KR總冠軍賽分別獲得第](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")8名、第1名的成績，[劉昶亨](https://zh.wikipedia.org/wiki/劉昶亨 "wikilink")（Neal）獲得聯盟首座KR個人賽總冠軍，SF總冠軍賽以3-2擊敗[曜越太陽神獲得隊史第二座SF聯賽總冠軍](../Page/曜越太陽神.md "wikilink")。
+    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽KR總冠軍賽分別獲得第](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")8名、第1名的成績，[劉昶亨](https://zh.wikipedia.org/wiki/劉昶亨 "wikilink")（Neal）獲得聯盟首座KR個人賽總冠軍，SF總冠軍賽以3-2擊敗[曜越太陽神](../Page/曜越太陽神.md "wikilink")獲得隊史第二座SF聯賽總冠軍。
   - 2014年9月：SF團隊與跑跑團隊宣布解散，只留下星海團隊繼續參加聯賽。
   - 2014年10月：成立爐石戰記團隊。
   - 2016年10月28日：華義國際與競鋒國際達成協議取得[Team
@@ -380,7 +380,7 @@ PTM領隊</p></td>
 <td style="text-align: center;"><p>教練：3年<br />
 選手：6年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/火爆浪子（SF軍團）" title="wikilink">火爆浪子</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/閃電狼.md" title="wikilink">閃電狼</a><a href="../Page/絕地求生.md" title="wikilink">絕地求生教練</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/閃電狼.md" title="wikilink">閃電狼</a><a href="../Page/絕地求生.md" title="wikilink">絕地求生</a>教練</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -940,26 +940,26 @@ Ian</p></td>
 
 | 年度            | 賽事            | 日期                                      | 地點                                      | 隊伍       | G1 | G2 | G3 | G4 | G5 | 比數 | 獲勝 |
 | ------------- | ------------- | --------------------------------------- | --------------------------------------- | -------- | -- | -- | -- | -- | -- | -- | -- |
-| 2012-13       | 上半季冠軍賽        | 2013/1/19                               | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") | 橘子熊      | 8  | 2  | 2  | \- | \- | 1  |    |
+| 2012-13       | 上半季冠軍賽        | 2013/1/19                               | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 | 橘子熊      | 8  | 2  | 2  | \- | \- | 1  |    |
 | 華義SPIDER      | 7             | 8                                       | 8                                       | \-       | \- | 2  | O  |    |    |    |    |
-| 下半季冠軍賽        | 2013/7/13     | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") | 華義SPIDER                                | 8        | 7  | 8  | \- | \- | 2  | O  |    |
+| 下半季冠軍賽        | 2013/7/13     | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 | 華義SPIDER                                | 8        | 7  | 8  | \- | \- | 2  | O  |    |
 | Yoe鋼鐵人        | 1             | 8                                       | 5                                       | \-       | \- | 1  |    |    |    |    |    |
-| 2013-14       | SF聯賽第1季季後賽第3場 | 2013/11/10                              | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") | 華義SPIDER | ★  | 8  | \- | \- | \- | 2  | O  |
+| 2013-14       | SF聯賽第1季季後賽第3場 | 2013/11/10                              | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 | 華義SPIDER | ★  | 8  | \- | \- | \- | 2  | O  |
 | Yoe閃電狼        | Ｘ             | 5                                       | \-                                      | \-       | \- | 0  |    |    |    |    |    |
 | SF聯賽第2季季後賽第1場 | 2014/1/10     | 台灣電競聯盟總部                                | 曜越太陽神                                   | ★        | 8  | \- | \- | \- | 2  | O  |    |
 | 華義SPIDER      | Ｘ             | 4                                       | \-                                      | \-       | \- | 0  |    |    |    |    |    |
-| SF聯賽第3季季後賽第3場 | 2014/5/4      | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") | 華義SPIDER                                | ★        | 3  | 8  | \- | \- | 2  | O  |    |
+| SF聯賽第3季季後賽第3場 | 2014/5/4      | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 | 華義SPIDER                                | ★        | 3  | 8  | \- | \- | 2  | O  |    |
 | 曜越太陽神         | Ｘ             | 8                                       | 5                                       | \-       | \- | 1  |    |    |    |    |    |
 | SF聯賽第4季季後賽第1場 | 2014/7/4      | 台灣電競聯盟總部                                | 華義SPIDER                                | ★        | 8  | \- | \- | \- | 2  | O  |    |
 | 橘子熊           | Ｘ             | 2                                       | \-                                      | \-       | \- | 0  |    |    |    |    |    |
-| SF聯賽第4季季後賽第2場 | 2014/7/5      | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") | Yoe閃電狼                                  | ★        | 8  | \- | \- | \- | 2  | O  |    |
+| SF聯賽第4季季後賽第2場 | 2014/7/5      | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 | Yoe閃電狼                                  | ★        | 8  | \- | \- | \- | 2  | O  |    |
 | 華義SPIDER      | Ｘ             | 4                                       | \-                                      | \-       | \- | 0  |    |    |    |    |    |
 
 ##### KR聯賽
 
 | 年度      | 賽事     | 日期        | 地點                                      | 隊伍       | G1 | G2 | G3 | 比數 | 獲勝 |
 | ------- | ------ | --------- | --------------------------------------- | -------- | -- | -- | -- | -- | -- |
-| 2012-13 | 下半季冠軍賽 | 2013/7/13 | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") | 華義SPIDER | 8  | 8  | \- | 2  | O  |
+| 2012-13 | 下半季冠軍賽 | 2013/7/13 | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 | 華義SPIDER | 8  | 8  | \- | 2  | O  |
 | Yoe鋼鐵人  | 5      | 7         | \-                                      | 0        |    |    |    |    |    |
 
 ##### SCII聯賽
@@ -968,9 +968,9 @@ Ian</p></td>
 | -------- | -------- | --------------------------------------- | -------------------------------------------------------- | ----- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2011-12  | 上半季冠軍賽   | 2012/1/14                               | [台北大學育樂館](https://zh.wikipedia.org/wiki/台北大學 "wikilink") | 曜越太陽神 | Ｘ  | Ｏ  | Ｘ  | Ｘ  | Ｏ  | Ｘ  | Ｏ  | Ｘ  | \- | 3  |    |
 | 華義SPIDER | Ｏ        | Ｘ                                       | Ｏ                                                        | Ｏ     | Ｘ  | Ｏ  | Ｘ  | Ｏ  | \- | 5  | O  |    |    |    |    |
-| 下半季冠軍賽   | 2012/7/1 | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") | 華義SPIDER                                                 | Ｏ     | Ｘ  | Ｏ  | Ｏ  | Ｘ  | Ｏ  | Ｏ  | \- | \- | 5  | O  |    |
+| 下半季冠軍賽   | 2012/7/1 | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 | 華義SPIDER                                                 | Ｏ     | Ｘ  | Ｏ  | Ｏ  | Ｘ  | Ｏ  | Ｏ  | \- | \- | 5  | O  |    |
 | 橘子熊      | Ｘ        | Ｏ                                       | Ｘ                                                        | Ｘ     | Ｏ  | Ｘ  | Ｘ  | \- | \- | 2  |    |    |    |    |    |
-| 2012-13  | 上半季冠軍賽   | 2013/1/19                               | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink")                  | 橘子熊   | Ｘ  | Ｏ  | Ｏ  | Ｏ  | Ｘ  | Ｏ  | Ｏ  | \- | \- | 5  | O  |
+| 2012-13  | 上半季冠軍賽   | 2013/1/19                               | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚                  | 橘子熊   | Ｘ  | Ｏ  | Ｏ  | Ｏ  | Ｘ  | Ｏ  | Ｏ  | \- | \- | 5  | O  |
 | 華義SPIDER | Ｏ        | Ｘ                                       | Ｘ                                                        | Ｘ     | Ｏ  | Ｘ  | Ｘ  | \- | \- | 2  |    |    |    |    |    |
 
 ##### S\&K聯賽
@@ -980,11 +980,11 @@ Ian</p></td>
 | **年度**  | **項目** |                **對戰隊伍**                 |                         **比賽地點**                         | **第一戰** | **第二戰** | **第三戰** | **第四戰** | **第五戰** | **第六戰** |    **第七戰**    |    **結果**     |
 | 2010-11 | 上半季冠軍賽 |                   橘子熊                   | [台北大學育樂館](https://zh.wikipedia.org/wiki/台北大學 "wikilink") |   SF    |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    |    抽籤（未執行）    | O四勝一敗 取得上半季冠軍 |
 |  7-2 O  | 7-1 O  |                  2-7 X                  |                          7-6 O                           |  7-5 O  |   \-    |   \-    |         |         |         |               |               |
-| 下半季冠軍賽  |  橘子熊   | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") |                            SF                            |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    | 抽籤（未執行） |      X落敗      |               |
+| 下半季冠軍賽  |  橘子熊   | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 |                            SF                            |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    | 抽籤（未執行） |      X落敗      |               |
 |  4-7 X  | 5-7 X  |                  2-7 X                  |                          7-1 O                           |  2-7 X  |   \-    |   \-    |         |         |         |               |               |
 | 2011-12 | 上半季冠軍賽 |                   橘子熊                   | [台北大學育樂館](https://zh.wikipedia.org/wiki/台北大學 "wikilink") |   SF    |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    |    抽籤（未執行）    | O直落四 取得上半季冠軍  |
 |  7-6 O  | 7-1 O  |                  7-5 O                  |                          7-6 O                           |   \-    |   \-    |   \-    |         |         |         |               |               |
-| 下半季冠軍賽  |  橘子熊   | [緯來電視網攝影棚](../Page/緯來電視網.md "wikilink") |                            SF                            |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    | 抽籤（未執行） | O四勝一敗 取得下半季冠軍 |               |
+| 下半季冠軍賽  |  橘子熊   | [緯來電視網](../Page/緯來電視網.md "wikilink")攝影棚 |                            SF                            |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    | 抽籤（未執行） | O四勝一敗 取得下半季冠軍 |               |
 |  7-2 O  | 7-5 O  |                  2-7 X                  |                          7-5 O                           |  7-4 O  |   \-    |   \-    |         |         |         |               |               |
 
 #### 總冠軍賽成績
@@ -1003,7 +1003,7 @@ Ian</p></td>
 |  6-7 X  | 7-6 O  |  3-7 X   |                               5-7 X                               |  7-5 O  |  5-7 X  |   \-    |         |         |         |         |              |
 |  2011   |  總冠軍賽  |  樂陞鋼鐵人   |     [台北大學育樂館](https://zh.wikipedia.org/wiki/台北大學 "wikilink")      |   SF    |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    | 抽籤（跑跑）  |     X落敗      |
 |  7-4 O  | 5-7 X  |  1-7 X   |                               7-5 O                               |  7-2 O  |  4-7 X  |  5-7 X  |         |         |         |         |              |
-| 2011-12 |  總冠軍賽  |   橘子熊    |               [義守大學育樂館](../Page/義守大學.md "wikilink")               |   SF    |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    | 抽籤（未執行） |     X落敗      |
+| 2011-12 |  總冠軍賽  |   橘子熊    |               [義守大學](../Page/義守大學.md "wikilink")育樂館               |   SF    |   跑跑    |   跑跑    |   SF    |   SF    |   跑跑    | 抽籤（未執行） |     X落敗      |
 |  4-7 X  | 6-7 X  |  4-7 X   |                               5-7 X                               |   \-    |   \-    |   \-    |         |         |         |         |              |
 
 ##### SF聯賽
@@ -1026,7 +1026,7 @@ Ian</p></td>
 
 | 年度      | 賽事   | 日期        | 地點                                    | 隊伍       | G1 | G2 | G3 | G4 | G5 | G6 | G7 | G8 | G9 | 比數 | 獲勝 |
 | ------- | ---- | --------- | ------------------------------------- | -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 2011-12 | 總冠軍賽 | 2012/7/21 | [義守大學體育館](../Page/義守大學.md "wikilink") | 華義SPIDER | Ｘ  | Ｏ  | Ｘ  | Ｘ  | Ｏ  | Ｏ  | Ｘ  | Ｘ  | \- | 3  |    |
+| 2011-12 | 總冠軍賽 | 2012/7/21 | [義守大學](../Page/義守大學.md "wikilink")體育館 | 華義SPIDER | Ｘ  | Ｏ  | Ｘ  | Ｘ  | Ｏ  | Ｏ  | Ｘ  | Ｘ  | \- | 3  |    |
 | 橘子熊     | Ｏ    | Ｘ         | Ｏ                                     | Ｏ        | Ｘ  | Ｘ  | Ｏ  | Ｏ  | \- | 5  | O  |    |    |    |    |
 
 ### 國際邀請賽成績

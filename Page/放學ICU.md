@@ -1,4 +1,4 @@
-《**放學ICU**\[1\]》（）（2005年1月3日—2015年1月9日），[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的一個兒童節目](../Page/電視廣播有限公司.md "wikilink")，此節目接替同類型兒童節目《[至NET小人類](../Page/至NET小人類.md "wikilink")》，[收視約為](https://zh.wikipedia.org/wiki/收視率 "wikilink")3－9點。\[2\]
+《**放學ICU**\[1\]》（）（2005年1月3日—2015年1月9日），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的一個兒童節目，此節目接替同類型兒童節目《[至NET小人類](../Page/至NET小人類.md "wikilink")》，[收視約為](https://zh.wikipedia.org/wiki/收視率 "wikilink")3－9點。\[2\]
 
 ## 概要
 
@@ -11,7 +11,7 @@ III](https://zh.wikipedia.org/wiki/神奇寶貝鑽石&珍珠 "wikilink")》改�
 
 2013年5月13日，本節目進行第三度內容改革，亦更換主題曲，並重新引入[無線兒童台之菠蘿家族布偶](https://zh.wikipedia.org/wiki/無線兒童台 "wikilink")。同年7月15日起，本節目改為高清製作。
 
-2014年4月18日，主持無綫電視兒童節目長達32年的[譚玉瑛退出主持群](../Page/譚玉瑛.md "wikilink")，被網民喻為「一個集體回憶的消失」。
+2014年4月18日，主持無綫電視兒童節目長達32年的[譚玉瑛](../Page/譚玉瑛.md "wikilink")退出主持群，被網民喻為「一個集體回憶的消失」。
 
 2014年10月2日，由於節目播映中途插播《特別新聞報道》，故《放學ICU》當天只能播出半集，餘下半集改於同年12月4日補播。2014年10月3日起，為了避免及後因播放《特別新聞報道》等而令節目時間拉長或停播，改為不播映動畫（動畫改於節目前獨立播映）以縮短節目長度至今。
 
@@ -120,7 +120,7 @@ Big
 <td><p><a href="https://zh.wikipedia.org/wiki/丘思穎" title="wikilink">丘思穎</a></p></td>
 <td><p><a href="../Page/羅梓龍.md" title="wikilink">羅梓龍</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅曉雯" title="wikilink">羅曉雯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/余恩驕" title="wikilink">余恩驕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余恩蕎" title="wikilink">余恩蕎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許思語" title="wikilink">許思語</a></p></td>
 </tr>
 <tr class="even">
@@ -168,8 +168,8 @@ Big
 <td><p>2005年1月3日-2005年10月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/葱葱闖地球" title="wikilink">葱葱闖地球</a><br />
 <br />
-蔥蔥闖地球是在節目中播放的一套電視劇。內容講述来自數-{}-碼星球的葱葱（<a href="../Page/何璐怡.md" title="wikilink">何璐怡配音</a>）由於自己的飛船意外撞落到<a href="../Page/地球.md" title="wikilink">地球而跟他的隊員</a>失散。碰巧葱葱遇到了失意的少年雷冠男（<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊飾</a>），原來蔥蔥之前原為星際籃球隊隊員，於是二人因籃球發展出一段友誼。蔥蔥為使冠男振作，把自己的籃球技巧教予冠男，並把學校的籃球隊建立起來。</p>
-<p>劇集<a href="../Page/主題曲.md" title="wikilink">主題曲是</a>「葱葱闖地球」，是由<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<a href="https://zh.wikipedia.org/wiki/劉家聰" title="wikilink">劉家聰</a>、<a href="https://zh.wikipedia.org/wiki/張國洪" title="wikilink">張國洪</a>、<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a>、<a href="../Page/李泳漢.md" title="wikilink">李泳漢和</a><a href="../Page/李霖恩.md" title="wikilink">李霖恩主唱的</a>「投投籃球」。<a href="https://zh.wikipedia.org/wiki/片尾曲" title="wikilink">片尾曲是</a>「我要出線」，是由<a href="https://zh.wikipedia.org/wiki/劉家聰" title="wikilink">劉家聰</a>、<a href="https://zh.wikipedia.org/wiki/張國洪" title="wikilink">張國洪</a>、<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a>、<a href="../Page/李泳漢.md" title="wikilink">李泳漢和</a><a href="../Page/李霖恩.md" title="wikilink">李霖恩主唱</a>。</p></td>
+蔥蔥闖地球是在節目中播放的一套電視劇。內容講述来自數-{}-碼星球的葱葱（<a href="../Page/何璐怡.md" title="wikilink">何璐怡</a>配音）由於自己的飛船意外撞落到<a href="../Page/地球.md" title="wikilink">地球</a>而跟他的隊員失散。碰巧葱葱遇到了失意的少年雷冠男（<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a>飾），原來蔥蔥之前原為星際籃球隊隊員，於是二人因籃球發展出一段友誼。蔥蔥為使冠男振作，把自己的籃球技巧教予冠男，並把學校的籃球隊建立起來。</p>
+<p>劇集<a href="../Page/主題曲.md" title="wikilink">主題曲</a>是「葱葱闖地球」，是由<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<a href="https://zh.wikipedia.org/wiki/劉家聰" title="wikilink">劉家聰</a>、<a href="https://zh.wikipedia.org/wiki/張國洪" title="wikilink">張國洪</a>、<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a>、<a href="../Page/李泳漢.md" title="wikilink">李泳漢</a>和<a href="../Page/李霖恩.md" title="wikilink">李霖恩</a>主唱的「投投籃球」。<a href="https://zh.wikipedia.org/wiki/片尾曲" title="wikilink">片尾曲是</a>「我要出線」，是由<a href="https://zh.wikipedia.org/wiki/劉家聰" title="wikilink">劉家聰</a>、<a href="https://zh.wikipedia.org/wiki/張國洪" title="wikilink">張國洪</a>、<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a>、<a href="../Page/李泳漢.md" title="wikilink">李泳漢</a>和<a href="../Page/李霖恩.md" title="wikilink">李霖恩</a>主唱。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年12月31日－2008年7月<br />
@@ -220,7 +220,7 @@ Big
 
 ## 動畫
 
-與前繼節目[至NET小人類一樣](../Page/至NET小人類.md "wikilink")，放學ICU時段內會播放約22分鐘的動畫（大約在16:35-17:00），大多數都是來自[日本的動畫](../Page/日本.md "wikilink")。放學ICU時段內曾播放或即將播放的動畫包括：
+與前繼節目[至NET小人類](../Page/至NET小人類.md "wikilink")一樣，放學ICU時段內會播放約22分鐘的動畫（大約在16:35-17:00），大多數都是來自[日本](../Page/日本.md "wikilink")的動畫。放學ICU時段內曾播放或即將播放的動畫包括：
 
 然而，自2014年10月3日起，放學ICU節目被進行改組，改為編定於節目開始前播出，令沿襲33年的兒童節目動畫時段正式告終。
 
@@ -267,12 +267,12 @@ Big
 
 ## 海外傳送
 
-放學ICU另有海外版傳送至[無線衛星台及](../Page/無線衛星台.md "wikilink")[新時代電視](../Page/新時代電視.md "wikilink")，於下列時間播出。
+放學ICU另有海外版傳送至[無線衛星台](../Page/無線衛星台.md "wikilink")及[新時代電視](../Page/新時代電視.md "wikilink")，於下列時間播出。
 
 海外版放學ICU播放時間:
 
-  - [無線衛星台於下午](../Page/無線衛星台.md "wikilink")16:55分播放。
-  - [新時代電視於下午](../Page/新時代電視.md "wikilink")16:00分播放。
+  - [無線衛星台](../Page/無線衛星台.md "wikilink")於下午16:55分播放。
+  - [新時代電視](../Page/新時代電視.md "wikilink")於下午16:00分播放。
 
 ## 參見
 

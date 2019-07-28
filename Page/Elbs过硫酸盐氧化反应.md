@@ -1,6 +1,6 @@
 **Elbs过硫酸盐氧化反应**（Elbs persulfate oxidation）
 
-[酚被](../Page/酚.md "wikilink")[碱性](https://zh.wikipedia.org/wiki/碱性 "wikilink")[过二硫酸钾](https://zh.wikipedia.org/wiki/过二硫酸钾 "wikilink")[氧化为对位二酚](https://zh.wikipedia.org/wiki/氧化 "wikilink")。\[1\]
+[酚](../Page/酚.md "wikilink")被[碱性](https://zh.wikipedia.org/wiki/碱性 "wikilink")[过二硫酸钾](https://zh.wikipedia.org/wiki/过二硫酸钾 "wikilink")[氧化为对位二酚](https://zh.wikipedia.org/wiki/氧化 "wikilink")。\[1\]
 
 
 [Elbs_Persulfate_Oxidation_Scheme.png](https://zh.wikipedia.org/wiki/File:Elbs_Persulfate_Oxidation_Scheme.png "fig:Elbs_Persulfate_Oxidation_Scheme.png")

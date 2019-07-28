@@ -21,7 +21,7 @@ SDRAM本身的延遲其實並不比異步[DRAM更低](https://zh.wikipedia.org/w
 EDO DRAM)還有所不及。而SDRAM的內建緩衝則可以使得運算交叉進入-{zh-hans:多行存儲;
 zh-hant:多個儲存單元}-，這樣就可以有效提高带寬，速度更快。
 
-時至今日，所有的SDRAM實際上都依照[JEDEC](../Page/JEDEC.md "wikilink")(一個電子工業聯盟，選定開放的標準，使電子元件的互容性更好)制定的標準製造。[JEDEC於](../Page/JEDEC.md "wikilink")1993年正式採用其第一個有關SDRAM的標準，隨後是其它SDRAM的標準，包括了[DDR](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、[DDR2和](https://zh.wikipedia.org/wiki/DDR2 "wikilink")[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")
+時至今日，所有的SDRAM實際上都依照[JEDEC](../Page/JEDEC.md "wikilink")(一個電子工業聯盟，選定開放的標準，使電子元件的互容性更好)制定的標準製造。[JEDEC](../Page/JEDEC.md "wikilink")於1993年正式採用其第一個有關SDRAM的標準，隨後是其它SDRAM的標準，包括了[DDR](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、[DDR2和](https://zh.wikipedia.org/wiki/DDR2 "wikilink")[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")
 SDRAM。
 
 時至2012年，168-pin(pin指內存插入實際接觸的金手指數量)的SDRAM雙線內存模組（DIMM）在新的個人電腦上已經不再使用，被大量的184-pin的[DDR記憶體代替](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")。在新的個人電腦，[DDR2](https://zh.wikipedia.org/wiki/DDR2 "wikilink")
@@ -35,7 +35,7 @@ SDRAM被更廣泛地使用，成為主流，所以[DDR3目前的價格比非主�
 Electronics)和海力士([Hynix](https://zh.wikipedia.org/wiki/Hynix "wikilink"))，及美國的[美光科技](../Page/美光科技.md "wikilink")(Micron
 Technology)。三者[壟斷超過](https://zh.wikipedia.org/wiki/壟斷 "wikilink")90%的全球市場，包括PC
 RAM、手機RAM和伺服器RAM。\[1\]
-另外，以上三間公司及日本[東芝亦壟斷了全球](https://zh.wikipedia.org/wiki/東芝 "wikilink")90%的[NAND](https://zh.wikipedia.org/wiki/NAND "wikilink")[快閃記憶體市場](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，這種記憶體主要用來製造[SD卡和](../Page/SD卡.md "wikilink")[SSD](https://zh.wikipedia.org/wiki/SSD "wikilink")。\[2\]
+另外，以上三間公司及日本[東芝亦壟斷了全球](https://zh.wikipedia.org/wiki/東芝 "wikilink")90%的[NAND](https://zh.wikipedia.org/wiki/NAND "wikilink")[快閃記憶體市場](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，這種記憶體主要用來製造[SD卡](../Page/SD卡.md "wikilink")和[SSD](https://zh.wikipedia.org/wiki/SSD "wikilink")。\[2\]
 
 ## SDRAM时序
 

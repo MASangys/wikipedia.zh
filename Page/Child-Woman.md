@@ -2,7 +2,7 @@
 
 ## 簡介
 
-全碟共收錄七首粵／[國語新歌和三首MV](https://zh.wikipedia.org/wiki/國語 "wikilink")，當中包括她與[鄭嘉穎合唱的](../Page/鄭嘉穎.md "wikilink")《[天幕下的戀人](../Page/天幕下的戀人.md "wikilink")》主題曲「請講」。
+全碟共收錄七首粵／[國語新歌和三首MV](https://zh.wikipedia.org/wiki/國語 "wikilink")，當中包括她與[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")合唱的《[天幕下的戀人](../Page/天幕下的戀人.md "wikilink")》主題曲「請講」。
 
 ## 曲目
 

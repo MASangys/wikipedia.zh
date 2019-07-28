@@ -1,7 +1,7 @@
 [Viscom.svg](https://zh.wikipedia.org/wiki/File:Viscom.svg "fig:Viscom.svg")
-**Viscom**（），是[德国的一家企业](../Page/德国.md "wikilink")，总部位于[汉诺威](../Page/汉诺威.md "wikilink")，为自动光学检测（AOI）、自动X光检测（AXI）等高性能检测设备的制造商。
+**Viscom**（），是[德国](../Page/德国.md "wikilink")的一家企业，总部位于[汉诺威](../Page/汉诺威.md "wikilink")，为自动光学检测（AOI）、自动X光检测（AXI）等高性能检测设备的制造商。
 
-Viscom是电子组件检测供应商之一，也是该领域[欧洲市场的领袖](../Page/欧洲.md "wikilink")。Viscom的检测系统可运用于几乎所有领域——从汽车电子、航天航空到工业电子、半导体、光电学工业。
+Viscom是电子组件检测供应商之一，也是该领域[欧洲](../Page/欧洲.md "wikilink")市场的领袖。Viscom的检测系统可运用于几乎所有领域——从汽车电子、航天航空到工业电子、半导体、光电学工业。
 
 ## 历史
 

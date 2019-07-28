@@ -1,4 +1,4 @@
-《**Smile**》是由[TBS电视台从](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")2009年4月17日开始，於[金曜劇場](../Page/TBS週五連續劇.md "wikilink")（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")22:00-22:54）播出的電視劇，由[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[新垣結衣及](../Page/新垣結衣.md "wikilink")[中井貴一等人演出](../Page/中井貴一.md "wikilink")。
+《**Smile**》是由[TBS电视台从](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")2009年4月17日开始，於[金曜劇場](../Page/TBS週五連續劇.md "wikilink")（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")22:00-22:54）播出的電視劇，由[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[新垣結衣](../Page/新垣結衣.md "wikilink")及[中井貴一](../Page/中井貴一.md "wikilink")等人演出。
 
 ## 概要
 
@@ -204,7 +204,7 @@ III](https://zh.wikipedia.org/wiki/长不齐的苹果们 "wikilink")》12年后�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率10.11%（收視率是<a href="../Page/關東地方.md" title="wikilink">關東地方的</a><a href="../Page/Video_Research.md" title="wikilink">Video Research社所調查</a>）</p></td>
+<td><p>平均視聴率10.11%（收視率是<a href="../Page/關東地方.md" title="wikilink">關東地方</a>的<a href="../Page/Video_Research.md" title="wikilink">Video Research社所調查</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>

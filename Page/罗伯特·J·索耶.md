@@ -12,12 +12,12 @@
         Park Public School）的課程當中\[9\]\[10\]。
       - 《[化石猎人](https://zh.wikipedia.org/wiki/化石猎人 "wikilink")》，1993年。
       - 《[异族](https://zh.wikipedia.org/wiki/异族 "wikilink")》，1994年。
-  - 《[终极实验](https://zh.wikipedia.org/wiki/终极实验 "wikilink")》，1995年。获1995年[星云奖最佳长篇小说奖](../Page/星云奖.md "wikilink")。
+  - 《[终极实验](https://zh.wikipedia.org/wiki/终极实验 "wikilink")》，1995年。获1995年[星云奖](../Page/星云奖.md "wikilink")最佳长篇小说奖。
   - 《[星丛](https://zh.wikipedia.org/wiki/星丛 "wikilink")》，1996年。
   - 《[未来闪影](https://zh.wikipedia.org/wiki/未来闪影_\(小说\) "wikilink")》，1999年。获1999年[极光奖最佳长篇小说奖](https://zh.wikipedia.org/wiki/极光奖 "wikilink")，并被改编为[ABC的](../Page/美国广播公司.md "wikilink")[同名电视剧](https://zh.wikipedia.org/wiki/2分17秒 "wikilink")
-  - 《[计算中的上帝](https://zh.wikipedia.org/wiki/计算中的上帝 "wikilink")》，2000年。在2001年的雨果奖竞争中败给了[J·K·罗琳的](../Page/J·K·罗琳.md "wikilink")《[哈利·波特与火焰杯](../Page/哈利·波特与火焰杯.md "wikilink")》。
+  - 《[计算中的上帝](https://zh.wikipedia.org/wiki/计算中的上帝 "wikilink")》，2000年。在2001年的雨果奖竞争中败给了[J·K·罗琳](../Page/J·K·罗琳.md "wikilink")的《[哈利·波特与火焰杯](../Page/哈利·波特与火焰杯.md "wikilink")》。
   - 《[原始人视差三部曲](https://zh.wikipedia.org/wiki/原始人视差三部曲 "wikilink")》
-      - 《[原始人](https://zh.wikipedia.org/wiki/原始人_\(小说\) "wikilink")》，2003年。获2003年[雨果奖最佳长篇小说奖](../Page/雨果奖.md "wikilink")。
+      - 《[原始人](https://zh.wikipedia.org/wiki/原始人_\(小说\) "wikilink")》，2003年。获2003年[雨果奖](../Page/雨果奖.md "wikilink")最佳长篇小说奖。
       - 《[人类](https://zh.wikipedia.org/wiki/人类_\(小说\) "wikilink")》，2003年。
       - 《[混血](https://zh.wikipedia.org/wiki/混血_\(小说\) "wikilink")》，2003年。
   - 《[大脑扫描](https://zh.wikipedia.org/wiki/大脑扫描 "wikilink")》，2005年。

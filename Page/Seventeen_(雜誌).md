@@ -1,9 +1,9 @@
-《**Seventeen**》（），是[集英社發行以](../Page/集英社.md "wikilink")[少女為消費對象的日本潮流雜誌](https://zh.wikipedia.org/wiki/少女 "wikilink")，毎月1號發行。
+《**Seventeen**》（），是[集英社](../Page/集英社.md "wikilink")發行以[少女為消費對象的日本潮流雜誌](https://zh.wikipedia.org/wiki/少女 "wikilink")，毎月1號發行。
 
 ## 歷史
 
   - 1968年
-    作為為了十幾歲[青少年的](../Page/青少年.md "wikilink")[綜合週刊雜誌](https://zh.wikipedia.org/wiki/綜合週刊雜誌 "wikilink")，週刊Seventeen創刊。
+    作為為了十幾歲[青少年](../Page/青少年.md "wikilink")的[綜合週刊雜誌](https://zh.wikipedia.org/wiki/綜合週刊雜誌 "wikilink")，週刊Seventeen創刊。
   - 1968年 [別冊Seventeen創刊](https://zh.wikipedia.org/wiki/別冊 "wikilink")。
   - 1973年
     別冊Seventeen作為[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")，新Seventeen創刊。
@@ -11,7 +11,7 @@
   - 1987年
     更新[週刊Seventeen](https://zh.wikipedia.org/wiki/週刊 "wikilink")。變更Seventeen標誌的拉丁字母（SEVENTEEN）。
   - 1988年
-    從週刊轉為[隔週刊](https://zh.wikipedia.org/wiki/隔週刊 "wikilink")，內容成為[潮流雜誌](https://zh.wikipedia.org/wiki/潮流雜誌 "wikilink")。[漫畫雜誌的部分](../Page/漫畫雜誌.md "wikilink")，作為新創刊《月刊ティアラ》的部分。
+    從週刊轉為[隔週刊](https://zh.wikipedia.org/wiki/隔週刊 "wikilink")，內容成為[潮流雜誌](https://zh.wikipedia.org/wiki/潮流雜誌 "wikilink")。[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")的部分，作為新創刊《月刊ティアラ》的部分。
   - 2008年 10月號從隔週刊變月刊。「Seventeen」標誌變更。
 
 ## 專屬模特兒
@@ -47,7 +47,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td><p>Miss ST 2011</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/橋爪愛" title="wikilink">橋爪愛</a></p></td>
+<td><p><a href="../Page/橋本愛.md" title="wikilink">橋本愛</a></p></td>
 <td><p>0</p></td>
 <td></td>
 <td></td>
@@ -74,7 +74,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td><p><a href="https://zh.wikipedia.org/wiki/末永真唯" title="wikilink">末永真唯</a></p></td>
 <td><p>2013年3月号 -</p></td>
 <td><p>0</p></td>
-<td><p>亦是<a href="../Page/X21.md" title="wikilink">X21成員</a></p></td>
+<td><p>亦是<a href="../Page/X21.md" title="wikilink">X21</a>成員</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/江野沢愛美" title="wikilink">江野沢愛美</a></p></td>
@@ -85,7 +85,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/下村実生" title="wikilink">下村実生</a></p></td>
 <td><p>0</p></td>
-<td><p>亦是<a href="../Page/Fairies.md" title="wikilink">Fairies成員</a></p></td>
+<td><p>亦是<a href="../Page/Fairies.md" title="wikilink">Fairies</a>成員</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -171,7 +171,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td><p><a href="https://zh.wikipedia.org/wiki/佐々木莉佳子" title="wikilink">佐々木莉佳子</a></p></td>
 <td><p>0</p></td>
 <td><p>原為《ピチレモン》專屬模特兒<br />
-亦是<a href="../Page/ANGERME.md" title="wikilink">ANGERME成員</a></p></td>
+亦是<a href="../Page/ANGERME.md" title="wikilink">ANGERME</a>成員</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -255,7 +255,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <div class="NavContent" style="text-align: left;">
 
   - [安座間美優](../Page/安座間美優.md "wikilink")（Miss ST
-    2002、封面3次、畢業後曾加入[non-no](https://zh.wikipedia.org/wiki/non-no "wikilink")、之後轉為[CanCam專屬](../Page/CanCam.md "wikilink")）
+    2002、封面3次、畢業後曾加入[non-no](https://zh.wikipedia.org/wiki/non-no "wikilink")、之後轉為[CanCam](../Page/CanCam.md "wikilink")專屬）
   - [浅見れいな](https://zh.wikipedia.org/wiki/浅見れいな "wikilink")
   - [池田あゆみ](https://zh.wikipedia.org/wiki/カトリーナ_\(モデル\) "wikilink")（Miss
     ST 2002）
@@ -284,7 +284,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
   - [月本えり](https://zh.wikipedia.org/wiki/月本えり "wikilink")（Miss ST 2000）
   - [土屋安娜](../Page/土屋安娜.md "wikilink")
   - [徳澤直子](https://zh.wikipedia.org/wiki/徳澤直子 "wikilink")（Miss ST
-    2001、封面8次、畢業後轉為[CanCam專屬](../Page/CanCam.md "wikilink")）
+    2001、封面8次、畢業後轉為[CanCam](../Page/CanCam.md "wikilink")專屬）
   - [中根成美](https://zh.wikipedia.org/wiki/中根成美 "wikilink")（Miss ST 2003）
   - [仲程仁美](https://zh.wikipedia.org/wiki/仲程仁美 "wikilink")（Miss ST 2002）
   - [中村榮美子](https://zh.wikipedia.org/wiki/中村榮美子 "wikilink")
@@ -297,7 +297,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
     BERRY**、之後轉為[non-no專屬](https://zh.wikipedia.org/wiki/non-no "wikilink")）
   - [真野きりな](https://zh.wikipedia.org/wiki/真野きりな "wikilink")
   - [水原希子](../Page/水原希子.md "wikilink")（Miss ST
-    2003、封面3次、畢業後轉為[ViVi專屬](../Page/ViVi.md "wikilink")、之後轉為[MAQUIA專屬](https://zh.wikipedia.org/wiki/MAQUIA "wikilink")）
+    2003、封面3次、畢業後轉為[ViVi](../Page/ViVi.md "wikilink")專屬、之後轉為[MAQUIA專屬](https://zh.wikipedia.org/wiki/MAQUIA "wikilink")）
   - [宮澤理惠](../Page/宮澤理惠.md "wikilink")（1987年曾擔任新雜誌封面的模特兒）
   - [美優](https://zh.wikipedia.org/wiki/美優 "wikilink")
   - [山下さえ](https://zh.wikipedia.org/wiki/山下さえ "wikilink")
@@ -377,9 +377,9 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
   - [上原奈美](https://zh.wikipedia.org/wiki/上原奈美 "wikilink")
   - [榮倉奈奈](../Page/榮倉奈奈.md "wikilink")（封面46次）
   - [大石参月](../Page/大石参月.md "wikilink")（Miss ST
-    2004、封面12次、畢業後轉為[ViVi專屬](../Page/ViVi.md "wikilink")）
+    2004、封面12次、畢業後轉為[ViVi](../Page/ViVi.md "wikilink")專屬）
   - [南條有香](https://zh.wikipedia.org/wiki/南條有香 "wikilink")（Miss ST
-    2005、畢業後轉為[CanCam專屬](../Page/CanCam.md "wikilink")、現為**JJ**專屬）
+    2005、畢業後轉為[CanCam](../Page/CanCam.md "wikilink")專屬、現為**JJ**專屬）
   - [松澤茜](https://zh.wikipedia.org/wiki/高橋かれん "wikilink")
   - [山本佑美](https://zh.wikipedia.org/wiki/山本佑美 "wikilink")（Miss ST
     2006、畢業後轉為[non-no專屬](https://zh.wikipedia.org/wiki/non-no "wikilink")）
@@ -452,7 +452,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <div class="NavContent" style="text-align: left;">
 
   - [有末麻祐子](https://zh.wikipedia.org/wiki/有末麻祐子 "wikilink")（Miss ST
-    2007、封面3次、畢業後轉為[ViVi專屬](../Page/ViVi.md "wikilink")、現為**JJ**專屬）
+    2007、封面3次、畢業後轉為[ViVi](../Page/ViVi.md "wikilink")專屬、現為**JJ**專屬）
   - [岡本あずさ](https://zh.wikipedia.org/wiki/岡本あずさ "wikilink")（畢業後轉為[non-no專屬](https://zh.wikipedia.org/wiki/non-no "wikilink")）
   - [草刈麻有](https://zh.wikipedia.org/wiki/草刈麻有 "wikilink")
   - [波瑠](../Page/波瑠.md "wikilink")（封面7次、畢業後轉為[non-no專屬](https://zh.wikipedia.org/wiki/non-no "wikilink")）
@@ -479,7 +479,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <div class="NavContent" style="text-align: left;">
 
   - [工藤えみ](https://zh.wikipedia.org/wiki/工藤えみ "wikilink")（Miss ST 2009）
-  - [坂田梨香子](https://zh.wikipedia.org/wiki/坂田梨香子 "wikilink")（封面2次、畢業後轉為[CanCam專屬](../Page/CanCam.md "wikilink")）
+  - [坂田梨香子](https://zh.wikipedia.org/wiki/坂田梨香子 "wikilink")（封面2次、畢業後轉為[CanCam](../Page/CanCam.md "wikilink")專屬）
   - [剛力彩芽](../Page/剛力彩芽.md "wikilink")（封面3次）
   - [細谷理紗](https://zh.wikipedia.org/wiki/細谷理紗 "wikilink")
   - [立石晴香](../Page/立石晴香.md "wikilink")
@@ -579,7 +579,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 
 <div class="NavContent" style="text-align: left;">
 
-  - [古畑星夏](../Page/古畑星夏.md "wikilink")（在籍48個月。畢業後[ViVi專屬模特](../Page/ViVi.md "wikilink")）
+  - [古畑星夏](../Page/古畑星夏.md "wikilink")（在籍48個月。畢業後[ViVi](../Page/ViVi.md "wikilink")專屬模特）
 
 </div>
 

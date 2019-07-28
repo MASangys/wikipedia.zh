@@ -1,11 +1,11 @@
-**安德烈·羅梅勒·楊格**（，），是一位[非裔美籍](https://zh.wikipedia.org/wiki/非裔美國人 "wikilink")[嘻哈音樂人](../Page/嘻哈.md "wikilink")、音樂製作人、[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")，[企业家](../Page/企业家.md "wikilink")，藝名**Dr.
-Dre**（中文常翻作**德瑞博士**，或**德瑞医生**，尽管Doctor意為向[NBA球員](../Page/NBA.md "wikilink")[Dr.
+**安德烈·羅梅勒·楊格**（，），是一位[非裔美籍](https://zh.wikipedia.org/wiki/非裔美國人 "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")音樂人、音樂製作人、[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")，[企业家](../Page/企业家.md "wikilink")，藝名**Dr.
+Dre**（中文常翻作**德瑞博士**，或**德瑞医生**，尽管Doctor意為向[NBA](../Page/NBA.md "wikilink")球員[Dr.
 J致敬](../Page/朱利叶斯·欧文.md "wikilink")）。他專精於，開創了[G-Funk樂派](https://zh.wikipedia.org/wiki/G-Funk "wikilink")，是[西岸嘻哈的代表人物](https://zh.wikipedia.org/wiki/西岸嘻哈 "wikilink")，代表作品是與[Snoop
 Dogg合作的](https://zh.wikipedia.org/wiki/Snoop_Dogg "wikilink")《》。
 
-他是[嘻哈音樂界最成功](../Page/嘻哈.md "wikilink")、最知名、最富有且最具影響力製作人之一，由Dr.
+他是[嘻哈](../Page/嘻哈.md "wikilink")音樂界最成功、最知名、最富有且最具影響力製作人之一，由Dr.
 Dre发掘与培养的艺人有[圖帕克](https://zh.wikipedia.org/wiki/圖帕克 "wikilink")、[Snoop
-Dogg](https://zh.wikipedia.org/wiki/Snoop_Dogg "wikilink")、[奈特狗狗](https://zh.wikipedia.org/wiki/Nate_Dogg "wikilink")、[Eminem](../Page/Eminem.md "wikilink")、[五角等等](https://zh.wikipedia.org/wiki/50_Cent "wikilink")，都是嘻哈界的一時之選，構成了他在嘻哈界的[教父地位](https://zh.wikipedia.org/wiki/教父 "wikilink")。[肯伊·威斯特說](../Page/肯伊·威斯特.md "wikilink")：「若問我『嘻哈人是否對德瑞萬分崇敬？』；就像問[基督徒](../Page/基督徒.md "wikilink")『[耶穌是不是為信徒](https://zh.wikipedia.org/wiki/耶穌 "wikilink")[贖罪而死](../Page/贖罪.md "wikilink")？』一樣。」
+Dogg](https://zh.wikipedia.org/wiki/Snoop_Dogg "wikilink")、[奈特狗狗](https://zh.wikipedia.org/wiki/Nate_Dogg "wikilink")、[Eminem](../Page/Eminem.md "wikilink")、[五角等等](https://zh.wikipedia.org/wiki/50_Cent "wikilink")，都是嘻哈界的一時之選，構成了他在嘻哈界的[教父地位](https://zh.wikipedia.org/wiki/教父 "wikilink")。[肯伊·威斯特](../Page/肯伊·威斯特.md "wikilink")說：「若問我『嘻哈人是否對德瑞萬分崇敬？』；就像問[基督徒](../Page/基督徒.md "wikilink")『[耶穌是不是為信徒](https://zh.wikipedia.org/wiki/耶穌 "wikilink")[贖罪](../Page/贖罪.md "wikilink")而死？』一樣。」
 
 ## 生平
 
@@ -27,9 +27,9 @@ Police》，歌詞強烈侮辱警方，引來[聯邦調查局警告](https://zh.
 Entertainment](https://zh.wikipedia.org/wiki/Aftermath_Entertainment "wikilink")）。
 
 2010年11月，媒体报道Dr.
-Dre打算在2011年发表最后一张专辑《Detox》后退出[嘻哈舞台](../Page/嘻哈.md "wikilink")\[1\]。
+Dre打算在2011年发表最后一张专辑《Detox》后退出[嘻哈](../Page/嘻哈.md "wikilink")舞台\[1\]。
 
-2008年他與（Jimmy Iovine）創辦了[耳機公司](../Page/耳機.md "wikilink")「[Beats by Dr.
+2008年他與（Jimmy Iovine）創辦了[耳機](../Page/耳機.md "wikilink")公司「[Beats by Dr.
 Dre](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")」，自為[執行長以及主要](https://zh.wikipedia.org/wiki/執行長 "wikilink")[股東](https://zh.wikipedia.org/wiki/股東 "wikilink")，一度公司股權由[宏達電子收購](https://zh.wikipedia.org/wiki/宏達電子 "wikilink")，宏達電子退出之後，2014年5月28日[苹果公司以](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")30億美元收購Beats，他擁有25%的股權，估計將使他的財產上升為8億美元，成為嘻哈界首富。
 
 ## 參考文獻

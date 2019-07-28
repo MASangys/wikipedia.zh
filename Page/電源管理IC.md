@@ -19,11 +19,11 @@ PMIC可以具有一个或者多个功能，這些功能包括：
   - 溫度檢測
   - 其他功能
 
-由於需要與主系統協調，因此需要與主系統溝通的訊號接口，一般會使用[I²C或](../Page/I²C.md "wikilink")[SPI等](https://zh.wikipedia.org/wiki/SPI "wikilink")[串聯接口](https://zh.wikipedia.org/wiki/串聯接口 "wikilink")，部份功能較簡單的PMIC會直接以獨立訊號接至[MCU的](https://zh.wikipedia.org/wiki/MCU "wikilink")[GPIO](https://zh.wikipedia.org/wiki/GPIO "wikilink")。
+由於需要與主系統協調，因此需要與主系統溝通的訊號接口，一般會使用[I²C](../Page/I²C.md "wikilink")或[SPI等](https://zh.wikipedia.org/wiki/SPI "wikilink")[串聯接口](https://zh.wikipedia.org/wiki/串聯接口 "wikilink")，部份功能較簡單的PMIC會直接以獨立訊號接至[MCU的](https://zh.wikipedia.org/wiki/MCU "wikilink")[GPIO](https://zh.wikipedia.org/wiki/GPIO "wikilink")。
 
-部份PMIC能夠接上後備電源作供應[實時時鐘之用](../Page/實時時鐘.md "wikilink")，有些會有簡單的電源狀態指示，例如使用[LED顯示電池充放電狀態](https://zh.wikipedia.org/wiki/LED "wikilink")。
+部份PMIC能夠接上後備電源作供應[實時時鐘](../Page/實時時鐘.md "wikilink")之用，有些會有簡單的電源狀態指示，例如使用[LED顯示電池充放電狀態](https://zh.wikipedia.org/wiki/LED "wikilink")。
 
-有些PMIC是專為某特定系列的MCU而設計，開發對應MCU的公司會有現成的[韌體支援該PMIC的工作](../Page/韌體.md "wikilink")。
+有些PMIC是專為某特定系列的MCU而設計，開發對應MCU的公司會有現成的[韌體](../Page/韌體.md "wikilink")支援該PMIC的工作。
 
 ## IC生產商
 
@@ -31,9 +31,9 @@ PMIC可以具有一个或者多个功能，這些功能包括：
 
   - [英特爾Intel](https://zh.wikipedia.org/wiki/英特爾 "wikilink")
 
-  - [高通Qualcomm](../Page/高通.md "wikilink")
+  - [高通](../Page/高通.md "wikilink")Qualcomm
 
-  - [聯發科技MediaTek](../Page/聯發科技.md "wikilink")
+  - [聯發科技](../Page/聯發科技.md "wikilink")MediaTek
 
   - [安森美](../Page/安森美.md "wikilink")(ON Semiconductor)
 

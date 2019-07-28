@@ -1,8 +1,8 @@
-《**Ray**》是主婦之友社（）於每月23日發行的[女性流行](../Page/女性.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1988年創刊。於[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣發售](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+《**Ray**》是主婦之友社（）於每月23日發行的[女性](../Page/女性.md "wikilink")流行[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1988年創刊。於[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣發售](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 概要
 
-以年輕女性為主要閱讀目標，訂閱者的年齡層與「CamCam」、「JJ」、「ViVi」並列並被稱為「紅文字系」。根據2005年日本雜誌協會的指出，此雜誌的發行本數是25萬本。「Ray」在「紅文字中」，銷量經常是在最後一名。但2007年後，因為「JJ」的銷售量嚴重不振，所以「Ray」才得以翻身，每月的銷量都超過了「JJ」。
+以年輕女性為主要閱讀目標，訂閱者的年齡層與「[CamCam](https://zh.wikipedia.org/wiki/CamCam "wikilink")」、「[JJ](https://zh.wikipedia.org/wiki/JJ_\(雜誌\) "wikilink")」、「[ViVi](../Page/ViVi.md "wikilink")」並列，並被稱為「」雜誌。根據2005年日本雜誌協會的指出，此雜誌的發行本數是25萬本。「Ray」在赤文字系雜誌的銷量經常是在最後一名。但2007年後，因為「JJ」的銷售量嚴重不振，所以「Ray」才得以翻身，每月的銷量都超過了「JJ」。
 
 1995年，中國版的「Ray」創刊。以[北京和](https://zh.wikipedia.org/wiki/北京 "wikilink")[上海作為中心](https://zh.wikipedia.org/wiki/上海 "wikilink")，得出的中國發行本數約40萬，大大超過了日本的發行本數。讀者的年齡層也比日本的廣得多。內容中佔四成的是日本版的本地化，佔六成的是中國獨自的報道。
 
@@ -71,5 +71,6 @@
   - [Ray公式ショッピングサイト「Rayセレクトショップ」](https://web.archive.org/web/20111231040220/http://www.magaseek.com/ray/)
   - [中国大陆版官方網站](http://www.rayli.com.cn)
 
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
-[Category:時裝雜誌](https://zh.wikipedia.org/wiki/Category:時裝雜誌 "wikilink")
+[Category:女性时尚杂志](https://zh.wikipedia.org/wiki/Category:女性时尚杂志 "wikilink")
+[Category:日本时尚杂志](https://zh.wikipedia.org/wiki/Category:日本时尚杂志 "wikilink")
+[Category:1988年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1988年創辦的雜誌 "wikilink")

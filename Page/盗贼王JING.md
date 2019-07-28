@@ -1,4 +1,4 @@
-（單行本由臺灣[青文出版社代理並譯為銀河俠盜JING](../Page/青文出版社.md "wikilink")），[熊倉裕一的漫画](https://zh.wikipedia.org/wiki/熊倉裕一 "wikilink")。1995年到1998年在講談社[Comic
+（單行本由臺灣[青文出版社](../Page/青文出版社.md "wikilink")代理並譯為銀河俠盜JING），[熊倉裕一的漫画](https://zh.wikipedia.org/wiki/熊倉裕一 "wikilink")。1995年到1998年在講談社[Comic
 BomBom連載](../Page/Comic_BomBom.md "wikilink")。單行本全7卷，7卷之後在月刊『KING OF
 BANDIT JING』上連載（現在休載・再開未定）。
 

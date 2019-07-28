@@ -1,10 +1,10 @@
-**localhost**在[计算机网络中是一个](../Page/计算机网络.md "wikilink")[主机名称](https://zh.wikipedia.org/wiki/主机 "wikilink")，意为“本机”，“本地主机”。通过[本地环回网络接口](https://zh.wikipedia.org/wiki/回环网卡 "wikilink")，它被用来访问本机运行的服务。本地环回网络会绕过任何本地网络接口硬件。
+**localhost**在[计算机网络](../Page/计算机网络.md "wikilink")中是一个[主机名称](https://zh.wikipedia.org/wiki/主机 "wikilink")，意为“本机”，“本地主机”。通过[本地环回网络接口](https://zh.wikipedia.org/wiki/回环网卡 "wikilink")，它被用来访问本机运行的服务。本地环回网络会绕过任何本地网络接口硬件。
 
 ## 本地環迴
 
 運用本地環迴機制，便可在主機上運行網絡服務，期間不須安裝實體網絡介面卡，也無須將該服務開放予主機所在網絡。比方說，在主機內部安裝好網站後，只要在瀏覽器中輸入`http://localhost`這一網址，便可訪問本地網站，顯示其首頁。
 
-localhost這个主機名稱一般情况下會[解析爲](../Page/域名系统.md "wikilink")[IPv4本地环回地址](../Page/IPv4.md "wikilink")`127.0.0.1`和[IPv6本地环回地址](../Page/IPv6.md "wikilink")`[::1]`。\[1\]
+localhost這个主機名稱一般情况下會[解析爲](../Page/域名系统.md "wikilink")[IPv4](../Page/IPv4.md "wikilink")本地环回地址`127.0.0.1`和[IPv6](../Page/IPv6.md "wikilink")本地环回地址`[::1]`。\[1\]
 
 ## 名称解析
 
@@ -27,7 +27,7 @@ localhost這个主機名稱一般情况下會[解析爲](../Page/域名系统.md
 在 hosts 文件或 DNS
 中为localhost这个主机名设置映射地址时，假如新设置的映射地址并不在原本指定的映射地址范围内，所作映射不一定会生效，因为应用程序内部可能已对localhost进行映射操作。
 
-在[域名系统中](../Page/域名.md "wikilink")，localhost
+在[域名](../Page/域名.md "wikilink")系统中，localhost
 被留作[顶级域名](https://zh.wikipedia.org/wiki/顶级域名 "wikilink")，最初的目的，是要被留出以避免与用于回送目的的主机名混淆。IETF
 标准禁止域名注册商分配 localhost 名称。\[2\]
 
@@ -56,7 +56,7 @@ IPv4 环回地址由 IETF 特殊用途 IPv4 地址标准（RFC 5735）在 IPv4 �
 
 任何發往環迴地址的數據包，其處理都在
 [TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")
-協定疊的[链路层中實現的](../Page/数据链路层.md "wikilink")。這些數據包不會交由[網路卡](https://zh.wikipedia.org/wiki/網路卡 "wikilink")（NIC）或者裝置驅動程式處理，既不應在電腦系統以外出現，也不可經[路由器轉發](../Page/路由器.md "wikilink")。如此一來，電腦上即使沒有實體網路卡，也可進行軟體測試或者運行本機服務。
+協定疊的[链路层中實現的](../Page/数据链路层.md "wikilink")。這些數據包不會交由[網路卡](https://zh.wikipedia.org/wiki/網路卡 "wikilink")（NIC）或者裝置驅動程式處理，既不應在電腦系統以外出現，也不可經[路由器](../Page/路由器.md "wikilink")轉發。如此一來，電腦上即使沒有實體網路卡，也可進行軟體測試或者運行本機服務。
 
 环回数据包与其他任何通过 TCP/IP
 协议栈的数据包仅通过寻址到的特殊IP地址进行区分。因此，最终接收到的服务将根据指定的目的地进行响应。例如，HTTP服务可以将发往127.0.0.99:80

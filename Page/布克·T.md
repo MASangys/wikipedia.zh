@@ -1,7 +1,7 @@
 [King_Booker_WHC.jpg](https://zh.wikipedia.org/wiki/File:King_Booker_WHC.jpg "fig:King_Booker_WHC.jpg")
 
 **Booker T**（）\[1\]
-，中譯**布克T**，本名**布克·堤歐·霍夫曼**（）\[2\]，是美國[職業摔角手](../Page/職業摔角.md "wikilink")，曾經擔任[世界摔角娛樂旗下摔角](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")[SmackDown](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")，曾經效力於[Total
+，中譯**布克T**，本名**布克·堤歐·霍夫曼**（）\[2\]，是美國[職業摔角](../Page/職業摔角.md "wikilink")手，曾經擔任[世界摔角娛樂旗下摔角](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")[SmackDown](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")，曾經效力於[Total
 Nonstop Action
 Wrestling](https://zh.wikipedia.org/wiki/Total_Nonstop_Action_Wrestling "wikilink")（TNA），他也是（PWAW）的創辦人。其職業生涯最出名的時期是在[世界冠軍摔角](../Page/世界冠軍摔角.md "wikilink")（WCW）與[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）效力時。
 

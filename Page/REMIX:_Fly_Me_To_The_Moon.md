@@ -1,5 +1,5 @@
 **REMIX: Fly Me To The Moon**
-日本歌手[宇多田光的第七張單曲](../Page/宇多田光.md "wikilink")，第二章英文單曲，於2000年5月10日發行，這是她生涯唯一只發行黑膠唱片的單曲。收錄她翻唱名曲"[Fly
+日本歌手[宇多田光](../Page/宇多田光.md "wikilink")的第七張單曲，第二章英文單曲，於2000年5月10日發行，這是她生涯唯一只發行黑膠唱片的單曲。收錄她翻唱名曲"[Fly
 Me To The
 Moon](https://zh.wikipedia.org/wiki/Fly_Me_To_The_Moon "wikilink")"的四個版本。東芝EMI為此單曲拍攝了動畫PV。
 

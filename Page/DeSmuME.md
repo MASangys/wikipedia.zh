@@ -3,9 +3,9 @@ DS**）是一个[自由软件](../Page/自由软件.md "wikilink")，是[任天�
 DS，即[Nintendo
 DS(NDS)系列](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")[掌上游戏机的](https://zh.wikipedia.org/wiki/游戏机 "wikilink")[模拟器](https://zh.wikipedia.org/wiki/模拟器 "wikilink")。
 
-它最初是由*YopYop156*使用[C++开发并运行在](../Page/C++.md "wikilink")[Linux](../Page/Linux.md "wikilink")，[Mac
+它最初是由*YopYop156*使用[C++](../Page/C++.md "wikilink")开发并运行在[Linux](../Page/Linux.md "wikilink")，[Mac
 OS以及](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows上的](https://zh.wikipedia.org/wiki/Windows "wikilink")[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。DeSmuME同样被移植到了其他硬件平台上，例如[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation
-Portable游戏机](../Page/PlayStation_Portable.md "wikilink")。DeSmuME可以运行NDS平台上的商业或者自制ROM，后来的版本已经完全成为了多平台并拥有多种[用户界面特性的软件](../Page/用户界面.md "wikilink")。
+Portable游戏机](../Page/PlayStation_Portable.md "wikilink")。DeSmuME可以运行NDS平台上的商业或者自制ROM，后来的版本已经完全成为了多平台并拥有多种[用户界面](../Page/用户界面.md "wikilink")特性的软件。
 
 DeSmuME的名字取自*“emu”*，即emulator（模拟器）的缩写，*“DS”*和*“me”*，代表“DS emulator for
 me”（“我的DS模拟器”）的含义。
@@ -26,7 +26,7 @@ compilation，JIT），提高程序運行效率。 \[1\]
 
 在原作者停止更新后的最初一段时间，许多开发者发布了他们自己的，当然，是基于YopYop的原始代码的DeSmuME增强版本。
 
-这些开发者后来决定联合起来并整合他们自己的开发成果而成立了一个[社区](../Page/社区.md "wikilink")。DeSmuME现在已经有了巨大地改进并支持了许多新特性，例如[即时存档和屏幕大小缩放功能](https://zh.wikipedia.org/wiki/即时存档 "wikilink")，还有的版本甚至可以实现[Wi-Fi连接](../Page/Wi-Fi.md "wikilink")。
+这些开发者后来决定联合起来并整合他们自己的开发成果而成立了一个[社区](../Page/社区.md "wikilink")。DeSmuME现在已经有了巨大地改进并支持了许多新特性，例如[即时存档和屏幕大小缩放功能](https://zh.wikipedia.org/wiki/即时存档 "wikilink")，还有的版本甚至可以实现[Wi-Fi](../Page/Wi-Fi.md "wikilink")连接。
 
 ## 相关条目
 

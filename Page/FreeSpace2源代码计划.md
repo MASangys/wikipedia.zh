@@ -13,7 +13,7 @@ Project**是游戏《》源代码的延伸，原开发者[Volition公司于](../
   - **[法向映射](https://zh.wikipedia.org/wiki/法向映射 "wikilink")**
   - **[视差映射](https://zh.wikipedia.org/wiki/视差映射 "wikilink")**
   - **[T\&L](https://zh.wikipedia.org/wiki/T&L "wikilink")**，使得模型可以更加复杂
-  - **细节构成**只有靠近时才描绘大舰船的细节。这是极其有效[细节层次构成方式](../Page/细节层次.md "wikilink")，允许数十万实时渲染
+  - **细节构成**只有靠近时才描绘大舰船的细节。这是极其有效[细节层次](../Page/细节层次.md "wikilink")构成方式，允许数十万实时渲染
   - **Non-vertical turret axis**
   - **延伸动画支持**复杂控件动画支持
   - **Jpeg和TGA texture兼容**

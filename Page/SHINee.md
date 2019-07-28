@@ -1,7 +1,7 @@
 [KEY](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink"){{·}}[珉豪](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink"){{·}}[泰民](https://zh.wikipedia.org/wiki/李泰民 "wikilink")
 | 過往成員 = [鐘鉉](../Page/鐘鉉.md "wikilink")<sup>歿</sup> | 出道作品 =
 [Replay](../Page/姊姊_妳太美了_\(Replay\).md "wikilink") }}
-**SHINee**（、），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娱乐旗下的五人男子團體](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")，初始成員包括[溫流](../Page/溫流.md "wikilink")、[鐘鉉](../Page/鐘鉉.md "wikilink")、[KEY](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")、[珉豪及](../Page/珉豪.md "wikilink")[泰民](../Page/泰民.md "wikilink")，於2008年5月25日以《[Replay](../Page/姊姊_妳太美了_\(Replay\).md "wikilink")》一曲出道。2017年12月18日鐘鉉逝世後，官方在2018年初宣布組合以四人體制活動。
+**SHINee**（、），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娱乐旗下的五人男子團體](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")，初始成員包括[溫流](../Page/溫流.md "wikilink")、[鐘鉉](../Page/鐘鉉.md "wikilink")、[KEY](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")、[珉豪](../Page/珉豪.md "wikilink")及[泰民](../Page/泰民.md "wikilink")，於2008年5月25日以《[Replay](../Page/姊姊_妳太美了_\(Replay\).md "wikilink")》一曲出道。2017年12月18日鐘鉉逝世後，官方在2018年初宣布組合以四人體制活動。
 
 ## 介紹
 
@@ -23,7 +23,7 @@ Aquamarine），湖水綠，湖藍色，應援物為珍珠湖水色的氣球和�
 ### 固定隊形
 
   - [韓國站位](https://zh.wikipedia.org/wiki/韓國 "wikilink")（從左到右）：溫流、泰民、鐘鉉、珉豪、KEY。
-  - [日本站位](../Page/日本.md "wikilink")（從左到右）：溫流、鐘鉉、泰民、珉豪、KEY。
+  - [日本](../Page/日本.md "wikilink")站位（從左到右）：溫流、鐘鉉、泰民、珉豪、KEY。
 
 ### 出道歷程
 
@@ -39,7 +39,7 @@ WORLD](../Page/Shinee_World.md "wikilink")」。\[3\]
 在香港、台灣、日本、中國、泰國、菲律賓、新加坡及英國，遠至南美洲的[秘鲁](../Page/秘鲁.md "wikilink")\[4\]累積人氣。
 
 SHINee於2011年6月22日在日本正式出道，出道單曲《[Replay
--你是我的everything-](../Page/Replay_-你是我的everything-.md "wikilink")》（）創當時发行首周史上韓國男團日本出道銷售紀錄，初動銷量為9.1萬，並凴此單曲入選[日本金唱片](../Page/日本.md "wikilink")。\[5\]
+-你是我的everything-](../Page/Replay_-你是我的everything-.md "wikilink")》（）創當時发行首周史上韓國男團日本出道銷售紀錄，初動銷量為9.1萬，並凴此單曲入選[日本](../Page/日本.md "wikilink")金唱片。\[5\]
 
 ## 成員列表
 
@@ -83,22 +83,22 @@ SHINee於2011年6月22日在日本正式出道，出道單曲《[Replay
 ### 出道前
 
 [SM
-Entertainment在近二十年來一直推出不少藝人](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，包括[H.O.T.](../Page/H.O.T..md "wikilink")、[S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")、[寶兒等](../Page/寶兒.md "wikilink")。2000年后大量招募不同年齡的青少年加入公司受訓，[東方神起](../Page/東方神起.md "wikilink")、[Super
+Entertainment在近二十年來一直推出不少藝人](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，包括[H.O.T.](../Page/H.O.T..md "wikilink")、[S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")、[寶兒](../Page/寶兒.md "wikilink")等。2000年后大量招募不同年齡的青少年加入公司受訓，[東方神起](../Page/東方神起.md "wikilink")、[Super
 Junior](../Page/Super_Junior.md "wikilink")、[少女時代以及](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**SHINee**等的成員就在這個時候進入公司。
 
-2005年，[鐘鉉透過](../Page/鐘鉉.md "wikilink")05' S.M.Casting System
-被星探挖掘入社，成為練習生之前的他曾是學校樂隊裡面的Bass手。同年，[泰民通過](../Page/泰民.md "wikilink")05'
+2005年，[鐘鉉](../Page/鐘鉉.md "wikilink")透過05' S.M.Casting System
+被星探挖掘入社，成為練習生之前的他曾是學校樂隊裡面的Bass手。同年，[泰民](../Page/泰民.md "wikilink")通過05'
 S.M.週末公開徵選會以出色的舞技入選。[Key參加了](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")05'
 S.M.全國巡迴徵選會成為[SM
 Entertainment的練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，徵選會中能成功入社的只有兩位，而[Key則在大會中贏得這項機會](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")。
 
 2006年，[珉豪透過](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")06'
-S.M.Casting System被發掘。[溫流透過](../Page/溫流.md "wikilink") 06' S.M. Academy
-casting加入公司，在這之前，[溫流已經在S](../Page/溫流.md "wikilink").M.
+S.M.Casting System被發掘。[溫流](../Page/溫流.md "wikilink")透過 06' S.M. Academy
+casting加入公司，在這之前，[溫流](../Page/溫流.md "wikilink")已經在S.M.
 Academy中訓練出優秀的唱歌技巧。SHINee的部分成員曾經是[Super
 Junior二期生](../Page/Super_Junior.md "wikilink")，统稱為「Super Junior
 '06」，與現在為[Super Junior](../Page/Super_Junior.md "wikilink")
-成員的[圭賢一同受訓](../Page/圭賢.md "wikilink")，所以關係也較親密。
+成員的[圭賢](../Page/圭賢.md "wikilink")一同受訓，所以關係也較親密。
 
 ### 2008：首张迷你专辑《Replay》、首张正規专辑《SHINee WORLD》
 
@@ -122,7 +122,7 @@ Martin Hoberg Hedegaard 的〈Show the World〉，混合了 DISCO 和 PUCK 等�
 的《M\!Countdown》的季度冠軍曲目\[14\]。數天後，SHINee以同一支單曲獲得
 [SBS](../Page/SBS_\(韓國\).md "wikilink")
 的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》季度冠軍曲目。
-SHINee出席了第五屆亞洲音樂節並與日本女子團體[Berryz工房共同接受了](../Page/Berryz工房.md "wikilink")「最佳新人賞」\[15\]。他們亦參加了於2008年10月30日舉行的2008
+SHINee出席了第五屆亞洲音樂節並與日本女子團體[Berryz工房](../Page/Berryz工房.md "wikilink")共同接受了「最佳新人賞」\[15\]。他們亦參加了於2008年10月30日舉行的2008
 Style Icon Award，贏得「Best Style Icon Award」\[16\]。同日，正規專輯《SHINee
 WORLD》的Repackage版本《AMIGO》正式發售，收錄三首新歌〈Forever or Never〉、〈Love Should
 Go on（Remix）〉及第二首主打曲〈AMIGO (愛上妳很辛苦)〉\[17\]。 2008年11月15日，SHINee在第十屆Mnet's
@@ -134,20 +134,20 @@ Mouth](https://zh.wikipedia.org/wiki/Mighty_Mouth "wikilink")，成爲本屆的�
 
 ### 2009：第二張迷你專輯《ROMEO》、第三張迷你專輯《2009, YEAR OF US》
 
-在2009年2月初，SHINee與女子團體[Davichi獲得第十八屆首爾歌謠大賞最佳新人獎](../Page/Davichi.md "wikilink")\[20\]。接著，[SM
+在2009年2月初，SHINee與女子團體[Davichi](../Page/Davichi.md "wikilink")獲得第十八屆首爾歌謠大賞最佳新人獎\[20\]。接著，[SM
 Entertainment公佈SHINee將會於同年的](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")5月21日發佈他們的第二張迷你專輯《ROMEO》\[21\]。
 
 5月18日，〈Juliette〉以單曲形式正式發售，改編至[Corbin
 Bleu的](https://zh.wikipedia.org/wiki/柯賓•布魯 "wikilink")〈Deal with it〉。
 
-由於成員[溫流不慎一腳踩空跌倒受傷](../Page/溫流.md "wikilink")，造成牙齒脫臼\[22\]，公司隨後發出通告告知他們的宣傳將會延迟，迷你專輯也推后至5月25日才發售\[23\]。
+由於成員[溫流](../Page/溫流.md "wikilink")不慎一腳踩空跌倒受傷，造成牙齒脫臼\[22\]，公司隨後發出通告告知他們的宣傳將會延迟，迷你專輯也推后至5月25日才發售\[23\]。
 
 SHINee最後在2009年6月5日於[KBS的Music](https://zh.wikipedia.org/wiki/KBS "wikilink")
 Bank回歸，同日獲得Music Bank的季度第一\[24\]。
 
 2009年6月26日錄製[KBS的Music](https://zh.wikipedia.org/wiki/KBS "wikilink")
-Bank[溫流當天因身體不適](../Page/溫流.md "wikilink")，表演時又因舞台上未乾的水漬而滑倒，其後下台時照明器材的鋼架突然向[溫流的方向倒下](../Page/溫流.md "wikilink")，幸好[Super
-Junior的](../Page/Super_Junior.md "wikilink")[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[圭賢連忙撐住鋼架](../Page/圭賢.md "wikilink")，雖然避過血光之災，但被電流電到了，最終由經紀人背離現場並送入醫院治療。這被喻為Music
+Bank[溫流](../Page/溫流.md "wikilink")當天因身體不適，表演時又因舞台上未乾的水漬而滑倒，其後下台時照明器材的鋼架突然向[溫流](../Page/溫流.md "wikilink")的方向倒下，幸好[Super
+Junior的](../Page/Super_Junior.md "wikilink")[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[圭賢](../Page/圭賢.md "wikilink")連忙撐住鋼架，雖然避過血光之災，但被電流電到了，最終由經紀人背離現場並送入醫院治療。這被喻為Music
 Bank最嚴重事故之一。\[25\]
 
 SHINee相隔五個月后又在2009年10月19日發佈了他們的第三張迷你專輯《2009, YEAR OF
@@ -181,13 +181,13 @@ Holla.〈HELLO〉的MV在2010年10月4日公開，後續專輯收錄了共三首
 2010年11月15日，SM
 Entertainment發出通告，指鐘鉉因10月在印尼的意外而一直受到持續性的韌帶痛楚，所以公司方面决定讓鐘鉉减少在演出時的跳舞部分。\[38\]
 
-2010年12月26日，SHINee在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[國立代代木競技場舉辦了他們的第一個演唱會](../Page/國立代代木競技場.md "wikilink")「SHINee
+2010年12月26日，SHINee在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")舉辦了他們的第一個演唱會「SHINee
 WORLD」
-，成員鐘鉉因為左腳腳踝受傷而没能完全参與正常演出，跳舞由練習生代替(練習生為[EXO中的](../Page/EXO.md "wikilink")[LAY](https://zh.wikipedia.org/wiki/LAY "wikilink"))\[39\]。SHINee也在演唱會中公開了\*《Lucifer》專輯中的單曲〈Quasmido
+，成員鐘鉉因為左腳腳踝受傷而没能完全参與正常演出，跳舞由練習生代替(練習生為[EXO](../Page/EXO.md "wikilink")中的[LAY](https://zh.wikipedia.org/wiki/LAY "wikilink"))\[39\]。SHINee也在演唱會中公開了\*《Lucifer》專輯中的單曲〈Quasmido
 (箭)〉的MV\[40\]和《[花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink")》中的插曲〈Stand
 By Me〉的日文版。
 
-SHINee表示2011年將會透過日本[EMI發行第一支日文單曲](../Page/EMI.md "wikilink")，在日本歌謠屆正式出道\[41\]。
+SHINee表示2011年將會透過日本[EMI](../Page/EMI.md "wikilink")發行第一支日文單曲，在日本歌謠屆正式出道\[41\]。
 
 ### 2011：亚洲巡演「SHINee WORLD」、日本一辑《The First》
 
@@ -203,18 +203,18 @@ WORLD](../Page/Shinee_World.md "wikilink")」\[42\]。兩場演唱會吸引到2�
 2011年1月17日，成员[鐘铉经历了两个月的脚踝韌帶痛楚后](https://zh.wikipedia.org/wiki/金鐘铉 "wikilink")，被安排到江南的一所医院进行精密的检查，并接受了左脚脚踝的手术，手术已经安全结束。因为手术关系，鐘铉并没有出席20日的“第20届首尔歌谣大赏”。\[45\]
 鐘铉于手术后休息了约1个月，并在2011年2月19日的一个节目的访问露面。\[46\]，但直到4月中那段时间仍是避免出席不少人群挤拥的活动。
 
-2011年4月27日，日本[EMI音乐公司发出通告指SHINee将以](../Page/EMI.md "wikilink")2008年出道歌曲《[Replay](../Page/姊姊_妳太美了_\(Replay\).md "wikilink")》的日语版本《[Replay
+2011年4月27日，日本[EMI](../Page/EMI.md "wikilink")音乐公司发出通告指SHINee将以2008年出道歌曲《[Replay](../Page/姊姊_妳太美了_\(Replay\).md "wikilink")》的日语版本《[Replay
 -君は僕のeverything-](../Page/Replay_-你是我的everything-.md "wikilink")》进军日本歌坛，并于6月19日在EMI音乐世界象征之地且被稱為「夢想工作室」的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[艾比路錄音室中舉行出道舞台](https://zh.wikipedia.org/wiki/艾比路錄音室 "wikilink")，成为第一个在此场地举行公演的亚洲明星。此外，SHINee亦将会在6月份演出之后，从7月开始进行日本五大城市，包括东京、大阪、名古屋等地巡回公演\[47\]。
 
 SHINee的日语出道单曲《[Replay
--君は僕のeverything-](../Page/Replay_-你是我的everything-.md "wikilink")》在[Oricon公信榜週間獲得第二名](../Page/Oricon公信榜.md "wikilink")。另外，《[Replay
+-君は僕のeverything-](../Page/Replay_-你是我的everything-.md "wikilink")》在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週間獲得第二名。另外，《[Replay
 -君は僕のeverything-](../Page/Replay_-你是我的everything-.md "wikilink")》亦在28日透过日本各大手机铃声网站先行公开。同碟的《HELLO》日语版铃声和彩铃在5月14日接受下载。
 
 [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")
 KOREA在5月12日清楚表明SHINee将出席于6月25日在千叶幕张博览会上举行的MTV VIDEO MUSIC
 AID
 JAPAN（VMAJ），同场的包括[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Lady
-Gaga](../Page/Lady_Gaga.md "wikilink")、[AKB48和](../Page/AKB48.md "wikilink")[EXILE等](https://zh.wikipedia.org/wiki/EXILE "wikilink")\[48\]。
+Gaga](../Page/Lady_Gaga.md "wikilink")、[AKB48](../Page/AKB48.md "wikilink")和[EXILE等](https://zh.wikipedia.org/wiki/EXILE "wikilink")\[48\]。
 
 SHINee於2011年發行共3張日語單曲；並於2011年12月7日發行第一張日語專輯「[The
 First](../Page/THE_FIRST.md "wikilink")」，並獲得金唱片的出貨量認證。
@@ -228,7 +228,7 @@ SHINee於2011年年末宣布於2012年舉行日本全國巡迴演唱會「The 1s
 
 SHINee於2012年2月1日發行第一張巡回演唱會專輯《The 1st Concert Album "SHINee WORLD" 》
 
-SHINee繼第二張正規專輯Repackage《HELLO》，相隔一年零六個月後，於2012年3月21日發行第四張迷你專輯《[Sherlock](../Page/Sherlock_\(專輯\).md "wikilink")》；3月8日公開成員[珉豪的概念照](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")；3月9日公開成員[泰民的概念照](https://zh.wikipedia.org/wiki/李泰民 "wikilink")；3月10日公開成員[溫流的概念照](../Page/溫流.md "wikilink")；3月11日公開成員[KEY的概念照](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")；3月12日公開成員[鐘鉉的概念照集](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")。2012年3月21日正式回歸。
+SHINee繼第二張正規專輯Repackage《HELLO》，相隔一年零六個月後，於2012年3月21日發行第四張迷你專輯《[Sherlock](../Page/Sherlock_\(專輯\).md "wikilink")》；3月8日公開成員[珉豪的概念照](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")；3月9日公開成員[泰民的概念照](https://zh.wikipedia.org/wiki/李泰民 "wikilink")；3月10日公開成員[溫流](../Page/溫流.md "wikilink")的概念照；3月11日公開成員[KEY的概念照](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")；3月12日公開成員[鐘鉉的概念照集](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")。2012年3月21日正式回歸。
 
 2012年4月25日至2012年7月1日, SHINee舉辦了他們的第一個日本全國巡迴演唱會「The 1st Japan Arena Tour
 "SHINee WORLD 2012"」, 在7個城市舉辦了20場的演唱會。
@@ -236,7 +236,7 @@ SHINee繼第二張正規專輯Repackage《HELLO》，相隔一年零六個月後
 SHINee於2012年5月16日發行第四張日語單曲《[Sherlock](../Page/Sherlock_\(SHINee單曲\).md "wikilink")》
 
 2012年7月21日和22日,
-SHINee以[首爾奧林匹克體操競技場為起點](../Page/首爾.md "wikilink")，開始他們的第二個亚洲巡回演唱会「[SHINee
+SHINee以[首爾](../Page/首爾.md "wikilink")奧林匹克體操競技場為起點，開始他們的第二個亚洲巡回演唱会「[SHINee
 WORLD Ⅱ](../Page/SHINee_WORLD_II.md "wikilink")」。
 
 2012年成員[珉豪出演](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")[SBS水木迷你連續劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")《[致美麗的你](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink")》男主角，該劇改編自日本漫畫《[花樣少年少女](https://zh.wikipedia.org/wiki/花樣少年少女 "wikilink")》，8月15日於[SBS電視台首撥](../Page/SBS_\(韓國\).md "wikilink")。
@@ -263,7 +263,7 @@ Me](../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md "wikilink")》，每�
 成員們表示：「站在製作的出發點，我們希望在第一部分表達出『你的誤解』，而第二部分則是『我的誤解』。兩張專輯有著很多關於『誤解』的故事，這是很
 SHINee 式的形象，請大家多多期待我們之後的活動。」
 
-2月7日公開成員[KEY的概念照](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")；2月8日公開成員[泰民的概念照](https://zh.wikipedia.org/wiki/李泰民 "wikilink")；2月9日公開成員[鐘鉉的概念照](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")；2月10日公開成員[珉豪的概念照](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")；2月11日公開成員[溫流的概念照](../Page/溫流.md "wikilink")；2月12日公開團體的概念照；2月14日與音樂網站MelOn合作，舉辦『SHINee音樂試聽會』活動，邀請歌迷、音樂評論家、時尚編輯、作曲家和音樂人等去試聽正規三輯的歌曲。
+2月7日公開成員[KEY的概念照](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")；2月8日公開成員[泰民的概念照](https://zh.wikipedia.org/wiki/李泰民 "wikilink")；2月9日公開成員[鐘鉉的概念照](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")；2月10日公開成員[珉豪的概念照](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")；2月11日公開成員[溫流](../Page/溫流.md "wikilink")的概念照；2月12日公開團體的概念照；2月14日與音樂網站MelOn合作，舉辦『SHINee音樂試聽會』活動，邀請歌迷、音樂評論家、時尚編輯、作曲家和音樂人等去試聽正規三輯的歌曲。
 2月19日透過iTunes和各大線上音源網站公開主打歌曲《Dream Girl》與正規三輯其他歌曲的音源。
 2月20日第三張正規專輯《[Dream Girl - The Misconceptions Of
 You](../Page/Dream_Girl_-_The_Misconceptions_Of_You.md "wikilink")》正式開始發售，並於首爾奧林匹克公園的手球體操競技場舉行全世界直播的Showcase。
@@ -299,8 +299,8 @@ Entertainment 於16日透露：「旅遊日記《SHINee Surprise Vacation》記�
 前些日子走訪英國、泰國、瑞士、日本的故事，包含當地的美麗風景、成員們的日常生活…等，相信不止粉絲，喜愛旅遊的朋友也會喜歡這本旅遊書的！」，而這也是
 SHINee 繼《太陽的孩子》後，再次推出旅遊書。
 
-2013年5月29日，SHINee成員[溫流所屬公司](../Page/溫流.md "wikilink")[SM
-Entertainment表示](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")：「[溫流將出演](../Page/溫流.md "wikilink")[JTBC情景喜劇](../Page/JTBC.md "wikilink")《[시트콩
+2013年5月29日，SHINee成員[溫流](../Page/溫流.md "wikilink")所屬公司[SM
+Entertainment表示](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")：「[溫流](../Page/溫流.md "wikilink")將出演[JTBC](../Page/JTBC.md "wikilink")情景喜劇《[시트콩
 로얄빌라（Royal
 Villa）](../Page/皇家別墅.md "wikilink")》。這是講述住在皇族別墅中的人們搞笑解壓的情景喜劇形式節目。每週邀請30名觀眾到攝影棚內參與錄製。將於7月初開播。」
 
@@ -317,7 +317,7 @@ Me](../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md "wikilink")》中收�
 Off)》，特别是2首新歌都是[鐘鉉親自作詞的歌曲](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")。
 
 2013年8月21日，SHINee發行第八張日文單曲「[Boys Meet
-U](https://zh.wikipedia.org/wiki/Boys_Meet_U_\(SHINee单曲\) "wikilink")」，在[Oricon週間榜單獲得第二的成績](../Page/Oricon.md "wikilink")。
+U](https://zh.wikipedia.org/wiki/Boys_Meet_U_\(SHINee单曲\) "wikilink")」，在[Oricon](../Page/Oricon.md "wikilink")週間榜單獲得第二的成績。
 
 2013年，SHINee成員[珉豪確定出演](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")[MBC水木連續劇](https://zh.wikipedia.org/wiki/MBC "wikilink")[Medical
 Top
@@ -331,15 +331,15 @@ Girl》、《Why So
 Serious?》不同風格的音樂與表演。主打歌曲《Everybody》旋律簡單、琅琅上口，是一首融合了龐克風格的Complextro式歌曲。歌詞大意為喚醒人們沉睡的童心，積極地向着世界奔跑為主題，帶人們進入歡快的音樂世界。
 
 9月30日所屬公司[SM
-Entertainment率先公開成員](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[泰民的概念照](../Page/泰民.md "wikilink")，10月1日公開成員[溫流的概念照](../Page/溫流.md "wikilink")，10月2日公開成員[KEY的概念照](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")，10月3日公開成員[珉豪及](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")[鐘鉉的概念照](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，10月4日公開團體的概念照，並公開由全球知名製作團隊The
+Entertainment率先公開成員](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[泰民](../Page/泰民.md "wikilink")的概念照，10月1日公開成員[溫流](../Page/溫流.md "wikilink")的概念照，10月2日公開成員[KEY的概念照](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")，10月3日公開成員[珉豪及](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")[鐘鉉的概念照](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，10月4日公開團體的概念照，並公開由全球知名製作團隊The
 Underdogs操刀製作，成員[鐘鉉作詞的新曲](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")《Symptoms》，10月6日於2013
 GANGNAM HANRYU FESTIVAL最初公開主打歌曲《Everybody》，10月10日於音樂電視節目[M\!
 Countdown正式開始第五張迷你專輯](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")《[Everybody](../Page/Everybody.md "wikilink")》的宣傳活動。
 
 10月14日透過iTunes和各大線上音源網站公開專輯歌曲的音源，並正式開始發售第五張迷你專輯《[Everybody](../Page/Everybody.md "wikilink")》。
 
-2013年10月29日，SHINee成員[溫流所屬公司](../Page/溫流.md "wikilink")[SM
-Entertainment對外表示](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，[溫流因為在回歸日程中頸部受傷](../Page/溫流.md "wikilink")，往後《Everybody》的舞蹈將以四人型式重新編舞呈現，在舞台中溫流則會站著演唱。
+2013年10月29日，SHINee成員[溫流](../Page/溫流.md "wikilink")所屬公司[SM
+Entertainment對外表示](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，[溫流](../Page/溫流.md "wikilink")因為在回歸日程中頸部受傷，往後《Everybody》的舞蹈將以四人型式重新編舞呈現，在舞台中溫流則會站著演唱。
 
 2013年12月4日，SHINee發行第九張日文單曲「[3 2
 1](https://zh.wikipedia.org/wiki/3_2_1_\(SHINee单曲\) "wikilink")」。
@@ -356,13 +356,13 @@ Arisa，節目將於同年四月播出。除《Bonnie & Clyde》、《三劍客�
 
 成員鐘鉉於二月接替鄭燁成為MBC FM4U 電台《藍色夜晚
 我是鐘鉉》的主持人，是SHINee成員中第一位成為電台節目的主持人。同時他再次成為[S.M.THE
-BALLAD的成員](../Page/S.M.THE_BALLAD.md "wikilink")，專輯於二月發行，其與師姐[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍合唱的歌曲](../Page/太妍.md "wikilink")〈Breath〉為主打曲目，專輯內亦收錄了鐘鉉和師弟[EXO](../Page/EXO.md "wikilink")
+BALLAD的成員](../Page/S.M.THE_BALLAD.md "wikilink")，專輯於二月發行，其與師姐[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](../Page/太妍.md "wikilink")合唱的歌曲〈Breath〉為主打曲目，專輯內亦收錄了鐘鉉和師弟[EXO](../Page/EXO.md "wikilink")
 CHEN合唱的歌曲。
 
 成員泰民於五月在日本第一次出演音樂劇《宮》，為繼溫流和KEY後第三位參演音樂劇的SHINee成員。
 
 SHINee的第三次巡迴演唱會「[SHINee WORLD
-Ⅲ](../Page/SHINee_World_III.md "wikilink")」，由3月8日至9日於首爾奧林匹克體操競技場一連兩場的演唱會揭開序幕，及後將到達[北美洲](../Page/北美洲.md "wikilink")[墨西哥城](../Page/墨西哥城.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")[聖地牙哥](https://zh.wikipedia.org/wiki/聖地亞哥-德智利 "wikilink")、[布宜諾斯艾利斯進行巡演演出](../Page/布宜諾斯艾利斯.md "wikilink")，是SHINee首次衝出亞洲到達拉丁美洲舉行個人演唱會。\[49\]
+Ⅲ](../Page/SHINee_World_III.md "wikilink")」，由3月8日至9日於首爾奧林匹克體操競技場一連兩場的演唱會揭開序幕，及後將到達[北美洲](../Page/北美洲.md "wikilink")[墨西哥城](../Page/墨西哥城.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")[聖地牙哥](https://zh.wikipedia.org/wiki/聖地亞哥-德智利 "wikilink")、[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")進行巡演演出，是SHINee首次衝出亞洲到達拉丁美洲舉行個人演唱會。\[49\]
 
 SHINee於2014年4月2日發行日本第二次巡迴演唱會DVD《SHINee THE 2nd JAPAN ARENA TOUR “SHINee
 WORLD 2013 ～Boys Meet U～”》
@@ -396,43 +396,43 @@ Seoul'》
 
 2015年1月12日，[鐘鉉作為SM本年度Solo計畫中的第一位歌手](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，發行首張迷你專輯《[BASE](https://zh.wikipedia.org/wiki/BASE_\(金钟铉迷你专辑\) "wikilink")》。網站及預告照於1月2日公開。
 
-2015年3月9日，成員[溫流確認出演網路劇](../Page/溫流.md "wikilink")《戀愛最容易了》，將在劇中扮演護山神老虎。
+2015年3月9日，成員[溫流](../Page/溫流.md "wikilink")確認出演網路劇《戀愛最容易了》，將在劇中扮演護山神老虎。
 
 2015年3月11日，SHINee發行第十一張日語單曲《[Your
 Number](../Page/Your_Number.md "wikilink")》。
 
-2015年3月14日和3月15日，SHINee首次登上[東京巨蛋舉辦單獨演唱會](../Page/東京巨蛋.md "wikilink")，兩場共動員10萬人。
+2015年3月14日和3月15日，SHINee首次登上[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉辦單獨演唱會，兩場共動員10萬人。
 
 2015年成員[Key與CNBLUE的李正信擔任](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")《M\!
 Countdown》固定MC
 
-2015年4月15日，成員[珉豪通過電影](../Page/珉豪.md "wikilink")《季春奶奶》試鏡，時隔一年半再次挑戰演技。將在電影中飾演女主角[金高恩的男朋友](https://zh.wikipedia.org/wiki/金高恩 "wikilink")、住在濟州島上的少年。
+2015年4月15日，成員[珉豪](../Page/珉豪.md "wikilink")通過電影《季春奶奶》試鏡，時隔一年半再次挑戰演技。將在電影中飾演女主角[金高恩的男朋友](https://zh.wikipedia.org/wiki/金高恩 "wikilink")、住在濟州島上的少年。
 
 SHINee的第四次巡迴演唱會「[SHINee WORLD
-Ⅳ](../Page/SHINee_World_IV.md "wikilink")」將由5月15（加場）、16、17日的三場[首爾場揭開序幕](../Page/首爾.md "wikilink")。
+Ⅳ](../Page/SHINee_World_IV.md "wikilink")」將由5月15（加場）、16、17日的三場[首爾](../Page/首爾.md "wikilink")場揭開序幕。
 
 時隔一年七個月，**SHINee**將以正規四輯《[Odd](../Page/Odd.md "wikilink")》回歸韓國樂壇。2015年5月11起的三日連續公開三則短預告、2015年5月12日公佈五位成員的概念照，並公佈5月18日發布實體專輯及線上音源，同時首舞台將於15、16、17日的四巡首爾場上公開。
 
-2015年5月27日，成員[溫流確認出演](../Page/溫流.md "wikilink")[KBS2月火劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》，與[宋仲基](../Page/宋仲基.md "wikilink")、[宋慧喬合作](../Page/宋慧喬.md "wikilink")。
+2015年5月27日，成員[溫流](../Page/溫流.md "wikilink")確認出演[KBS2月火劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》，與[宋仲基](../Page/宋仲基.md "wikilink")、[宋慧喬](../Page/宋慧喬.md "wikilink")合作。
 
 2015年8月3日，推出正規四輯《[Odd](../Page/Odd.md "wikilink")》的後續專輯《[Married to the
 Music](https://zh.wikipedia.org/wiki/Married_to_the_Music "wikilink")》回歸。當天於韓國零時推出音源和MV。
 
-2015年9月17日，[鐘鉉發行個人首張原創小品輯](../Page/鐘鉉.md "wikilink")《[Story
+2015年9月17日，[鐘鉉](../Page/鐘鉉.md "wikilink")發行個人首張原創小品輯《[Story
 Op.1](../Page/Story_Op.1.md "wikilink")》，內容是鐘鉉在《藍色夜晚》「藍色深夜作詞，那個男人作曲」企劃中受到好評的自創歌曲，經重新編曲後收錄。
 
-2015年10月8日，成員[珉豪時隔兩年的演技作品](../Page/珉豪.md "wikilink")、主演的電視劇《[因為是第一次](../Page/因為是第一次.md "wikilink")》於[Onstyle電視台首播](https://zh.wikipedia.org/wiki/Onstyle "wikilink")。珉豪在劇中飾演活力十足的尹泰吳，與多名年輕演員演繹出20歲的青春戀曲。
+2015年10月8日，成員[珉豪](../Page/珉豪.md "wikilink")時隔兩年的演技作品、主演的電視劇《[因為是第一次](../Page/因為是第一次.md "wikilink")》於[Onstyle電視台首播](https://zh.wikipedia.org/wiki/Onstyle "wikilink")。珉豪在劇中飾演活力十足的尹泰吳，與多名年輕演員演繹出20歲的青春戀曲。
 
 同日，早前上市小說《山荷葉》、舉辦SM首次組合成員小劇場公演《The Story Of
-JONGHYUN》的成員[鐘鉉首個個人真人秀開播](../Page/鐘鉉.md "wikilink")，在《Live
-Connection》中，鐘鉉發表了自作曲《電梯》、與高英培合作的《是秋天啊》以及和[鄭俊英合作的](../Page/鄭俊英.md "wikilink")《愛月》。
+JONGHYUN》的成員[鐘鉉](../Page/鐘鉉.md "wikilink")首個個人真人秀開播，在《Live
+Connection》中，鐘鉉發表了自作曲《電梯》、與高英培合作的《是秋天啊》以及和[鄭俊英](../Page/鄭俊英.md "wikilink")合作的《愛月》。
 
 ### 2016：個人活動、正規五輯《1 of 1》 、 五輯改版專輯《1 and 1》
 
 2016年2月23日，[泰民發行個人首張正規專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")《[Press
 It](../Page/Press_It.md "wikilink")》。
 
-2016年5月24日，[鐘鉉發行個人首張正規專輯](../Page/鐘鉉.md "wikilink")《[좋아](https://zh.wikipedia.org/wiki/Good_\(金鐘鉉專輯\) "wikilink")》。
+2016年5月24日，[鐘鉉](../Page/鐘鉉.md "wikilink")發行個人首張正規專輯《[좋아](https://zh.wikipedia.org/wiki/Good_\(金鐘鉉專輯\) "wikilink")》。
 
 2016年7月27日，[泰民發行個人首張日本迷你專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")《[再見一個人](https://zh.wikipedia.org/wiki/再見一個人 "wikilink")》，正式在日本solo出道。
 
@@ -450,7 +450,7 @@ Me What To Do》MV，《1 and 1》除了正規五輯《1 of 1》的九首歌曲�
 
 ### 2017：個人活動、成員鐘鉉逝世
 
-2017年4月24日，[鐘鉉發行個人第二張原創小品輯](../Page/鐘鉉.md "wikilink")《[Story
+2017年4月24日，[鐘鉉](../Page/鐘鉉.md "wikilink")發行個人第二張原創小品輯《[Story
 Op.2](../Page/Story_Op.2.md "wikilink")》，並在同年5月26日至7月2日期間，舉行共20埸名為《The
 Letter – JONGHYUN (유리병 편지)》的小型演唱會。
 
@@ -459,14 +459,14 @@ Love](https://zh.wikipedia.org/wiki/Flame_of_Love "wikilink")》。
 
 2017年10月16日，[泰民發行第二張正規solo專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")《[Move](../Page/Move_\(李泰民專輯\).md "wikilink")》。同年12月11日改版發行《[Move-ing](../Page/Move_\(李泰民專輯\).md "wikilink")》。
 
-2017年12月18日，成員[鐘鉉在首爾清潭洞剛租下的套房內燒炭自殺](../Page/鐘鉉.md "wikilink")，SM娛樂稍晚證實了此項消息。\[50\]SM娛樂也暫停所有旗下藝人的活動，其他經紀公司也延後推出旗下藝人的新作品。\[51\]\[52\]
+2017年12月18日，成員[鐘鉉](../Page/鐘鉉.md "wikilink")在首爾清潭洞剛租下的套房內燒炭自殺，SM娛樂稍晚證實了此項消息。\[50\]SM娛樂也暫停所有旗下藝人的活動，其他經紀公司也延後推出旗下藝人的新作品。\[51\]\[52\]
 
 ### 2018：出道10週年紀念專輯《The Story of Light》 、正規六輯《The Story of Light: Epilogue》 、个人活动 、兵役
 
 2018年1月9日，SM娛樂在SHINee官方網站發表成員親筆信，宣布組合以後會以四人體制活動，原訂二月舉行的日本演唱會《SHINee
 WORLD THE BEST 2018～FROM NOW ON～》會照常舉行\[53\]。
 
-2018年1月23日，SM娛樂官方發表[鐘鉉個人專輯遺作](../Page/鐘鉉.md "wikilink")《[Poet
+2018年1月23日，SM娛樂官方發表[鐘鉉](../Page/鐘鉉.md "wikilink")個人專輯遺作《[Poet
 Artist](https://zh.wikipedia.org/wiki/Poet_Artist "wikilink")》，次日2018年1月24日即從各大實體專輯銷售。
 
 5月25日將迎來出道10週年的SHINee目前正以5月底發行新專輯回歸為目標積極準備中，首次以四人體制籌備專輯和回歸活動。他們將以這張紀念專輯展現10年來所累積的實力和
@@ -505,7 +505,7 @@ Yours》是一首突出清涼的熱帶浩室氛圍的R\&B流行曲，屆時可�
 11月8日，SHINee日本官方網站宣布成員[KEY將在日本SOLO出道](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")，並於12月26日推出個人出道首張日文迷你專輯，此外更宣布12月22日和12月25日分別在神戶和橫濱舉行《KEY
 LAND》SOLO演唱會。\[60\]
 
-11月9日，隊長[溫流確定將於](../Page/溫流.md "wikilink")12月10日入伍，在接受基礎軍事訓練後以現役的身份履行兵役義務，成為組合裡第一個入伍的成員。由於本人想要安靜入伍，[SM娛樂尊重本人的意願將不公開入伍的具體時間和地點](../Page/SM娛樂.md "wikilink")，也不會另外舉行活動。\[61\]
+11月9日，隊長[溫流](../Page/溫流.md "wikilink")確定將於12月10日入伍，在接受基礎軍事訓練後以現役的身份履行兵役義務，成為組合裡第一個入伍的成員。由於本人想要安靜入伍，[SM娛樂](../Page/SM娛樂.md "wikilink")尊重本人的意願將不公開入伍的具體時間和地點，也不會另外舉行活動。\[61\]
 
 11月18日，SHINee官方公開概念照，宣布成員[KEY將在](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")11月26日推出個人出道首張正規專輯《[FACE](https://zh.wikipedia.org/wiki/FACE_\(KEY专辑\) "wikilink")》，該專輯共收錄包含主打曲《센척안해
 (One of Those
@@ -514,10 +514,10 @@ Will Fight》、《Easy To Love》、《The Duty of Love》、《This
 Life》四首歌的歌詞創作。另外將於11月26日發片當天，在建國大學新青年紀念館大公演場舉辦首張正規專輯《[FACE](https://zh.wikipedia.org/wiki/FACE_\(KEY专辑\) "wikilink")》發行紀念EVENT
 SHOWCASE，而SHOWCASE上將首度公開新曲《센척안해 (One of Those Nights)》的舞台。\[62\]
 
-11月23日，歌謠人員透露消息，隊長[溫流將於](../Page/溫流.md "wikilink")12月初發表出道10年來的首張SOLO專輯，據悉他為了在12月10日入伍前公開新專輯，正在進行最後的製作，同時這也是為了給予自己應援的粉絲而準備的專輯。\[63\]
+11月23日，歌謠人員透露消息，隊長[溫流](../Page/溫流.md "wikilink")將於12月初發表出道10年來的首張SOLO專輯，據悉他為了在12月10日入伍前公開新專輯，正在進行最後的製作，同時這也是為了給予自己應援的粉絲而準備的專輯。\[63\]
 
-11月29日，SHINee官方公開概念照，宣布隊長[溫流將在](../Page/溫流.md "wikilink")12月5日推出個人出道首張迷你專輯《[VOICE](https://zh.wikipedia.org/wiki/VOICE_\(溫流專輯\) "wikilink")》，此張專輯收錄了包含主打曲《Blue》在内的7首充滿抒情魅力和溫暖感性的歌曲，同時，該專輯也是即將於12月10日入伍的溫流懷著對粉絲們的感激之心情，注入了心血而製作如禮物般的專輯
-\[64\]。12月2日，SHINee官方公開一張《[VOICE](https://zh.wikipedia.org/wiki/VOICE_\(溫流專輯\) "wikilink")》專輯曲目表，專輯收錄包含主打曲《Blue》在內7首歌曲，其中[溫流還參與新專輯內收錄](../Page/溫流.md "wikilink")《사랑이었을까
+11月29日，SHINee官方公開概念照，宣布隊長[溫流](../Page/溫流.md "wikilink")將在12月5日推出個人出道首張迷你專輯《[VOICE](https://zh.wikipedia.org/wiki/VOICE_\(溫流專輯\) "wikilink")》，此張專輯收錄了包含主打曲《Blue》在内的7首充滿抒情魅力和溫暖感性的歌曲，同時，該專輯也是即將於12月10日入伍的溫流懷著對粉絲們的感激之心情，注入了心血而製作如禮物般的專輯
+\[64\]。12月2日，SHINee官方公開一張《[VOICE](https://zh.wikipedia.org/wiki/VOICE_\(溫流專輯\) "wikilink")》專輯曲目表，專輯收錄包含主打曲《Blue》在內7首歌曲，其中[溫流](../Page/溫流.md "wikilink")還參與新專輯內收錄《사랑이었을까
 (Illusion)》、《온유하게 해요 (Shine On You)》二首歌的歌詞創作。
 
 12月23日，收錄在 SHINee 第二張正規專輯
@@ -531,7 +531,7 @@ SM娛樂證實，成員[KEY申請了軍樂隊](https://zh.wikipedia.org/wiki/KEY
 
 1月25日，成員[KEY申請了軍樂隊](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")，軍樂隊錄取結果合格，將於3月4日正式入伍，成為組合裡第二個入伍的成員。\[66\]
 
-1月28日，SM娛樂證實，成員[泰民繼正規](../Page/泰民.md "wikilink")2輯《MOVE》後時隔約一年四個月即將在2月發行全新個人專輯，相關人員表示：「目前專輯大部分的準備工作都已經完成，希望大家能夠期待優秀的成果。」正規2輯《MOVE》掀起熱烈的迴響，這次的新專輯中也會展現對於以往的泰民來說更加升級的舞台引起業界高度關注。\[67\]
+1月28日，SM娛樂證實，成員[泰民](../Page/泰民.md "wikilink")繼正規2輯《MOVE》後時隔約一年四個月即將在2月發行全新個人專輯，相關人員表示：「目前專輯大部分的準備工作都已經完成，希望大家能夠期待優秀的成果。」正規2輯《MOVE》掀起熱烈的迴響，這次的新專輯中也會展現對於以往的泰民來說更加升級的舞台引起業界高度關注。\[67\]
 1月29日，SHINee官方陸續公開概念照，宣布泰民將在2月11日推出第二張迷你專輯《WANT》，收錄包含主打曲《WANT》在內共7首歌曲構成的專輯。
 
 2月14日
@@ -545,11 +545,11 @@ R\&B 歌曲，他的歌聲搭配上Hanhae的饒舌，讓歌曲變得更豐富，
 Wanna Be》，收錄《FACE》專輯在內的10首歌和包含主打曲《I Wanna
 Be》在內3首新歌，總共13首構成的專輯，這也是成員[KEY在入伍前為了粉絲而準備的特別禮物](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink")。\[69\]
 
-3月18日，SM娛樂證實，成員[珉豪申請了加入海軍陸戰隊](../Page/珉豪.md "wikilink")，正在等待結果出爐，預計四月中入伍，成為組合裡第三個入伍的成員。\[70\]
-同一天，SM娛樂透露，[珉豪出道後首次發表的solo曲](../Page/珉豪.md "wikilink")《I’m Home》將作為「SM
-STATION」企劃第三季的第九首歌曲，於28日韓國時間下午6點在各大音樂網站與各位見面，將會引起全世界粉絲的熱情矚目。[珉豪不僅在SHINee活動](../Page/珉豪.md "wikilink")，還在電視劇、電影、綜藝等多個領域活躍，以多才多藝的魅力獲得了大眾的喜愛。
+3月18日，SM娛樂證實，成員[珉豪](../Page/珉豪.md "wikilink")申請了加入海軍陸戰隊，正在等待結果出爐，預計四月中入伍，成為組合裡第三個入伍的成員。\[70\]
+同一天，SM娛樂透露，[珉豪](../Page/珉豪.md "wikilink")出道後首次發表的solo曲《I’m Home》將作為「SM
+STATION」企劃第三季的第九首歌曲，於28日韓國時間下午6點在各大音樂網站與各位見面，將會引起全世界粉絲的熱情矚目。[珉豪](../Page/珉豪.md "wikilink")不僅在SHINee活動，還在電視劇、電影、綜藝等多個領域活躍，以多才多藝的魅力獲得了大眾的喜愛。
 
-3月21日，SM娛樂證實，成員[珉豪申請了加入海軍陸戰隊](../Page/珉豪.md "wikilink")，最近收到了兵務廳的錄取通知書，將於4月15日前往慶尚北道浦項的海軍陸戰隊基礎訓練中心報到，履行國防義務。\[71\]
+3月21日，SM娛樂證實，成員[珉豪](../Page/珉豪.md "wikilink")申請了加入海軍陸戰隊，最近收到了兵務廳的錄取通知書，將於4月15日前往慶尚北道浦項的海軍陸戰隊基礎訓練中心報到，履行國防義務。\[71\]
 
 ### 舞蹈
 
@@ -1582,6 +1582,7 @@ GIRL〉再次獲得最佳舞蹈獎，為〈Sherlock〉後第二次獲獎。
 
 <!-- end list -->
 
+  -
   -
   -
   -

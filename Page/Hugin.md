@@ -12,14 +12,14 @@ Mihal的*Enblend*及*Enfuse*的一款[图形化界面的前端程序](https://zh
 
   - 合成圖片以用於全景或寬景等大範圍攝影
   - 拼接大幅[馬賽克作品](https://zh.wikipedia.org/wiki/馬賽克條目 "wikilink")
-  - 輸入若干類[投影種類](../Page/投影.md "wikilink")，例如
+  - 輸入若干類[投影](../Page/投影.md "wikilink")種類，例如
     等距長方圓柱投影（equirectangular用於完全球狀全景），mercator，長方柱狀投影（rectangular），兩點透視法(stereographic)
     and sinusoidal
   - 高階曝光修正與[高動態範圍成像](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")（[HDR](https://zh.wikipedia.org/wiki/HDR "wikilink")）合成
 
 ## 发展
 
-[Tower_of_Babel_ArchesNP_UT_USA.jpg](https://zh.wikipedia.org/wiki/File:Tower_of_Babel_ArchesNP_UT_USA.jpg "fig:Tower_of_Babel_ArchesNP_UT_USA.jpg")，[犹他州stiched](../Page/犹他州.md "wikilink")
+[Tower_of_Babel_ArchesNP_UT_USA.jpg](https://zh.wikipedia.org/wiki/File:Tower_of_Babel_ArchesNP_UT_USA.jpg "fig:Tower_of_Babel_ArchesNP_UT_USA.jpg")，[犹他州](../Page/犹他州.md "wikilink")stiched
 with Hugin software.\]\] 五个基于hugin / panotools的项目在2007年的[Google Summer
 of
 Code被接受](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")。Additionally

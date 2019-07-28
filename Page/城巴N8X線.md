@@ -1,4 +1,4 @@
-**[城巴N](../Page/城巴.md "wikilink")8X線**是[香港的一條非過海的通宵巴士線](../Page/香港.md "wikilink")，來往[小西灣](../Page/小西灣.md "wikilink")（[藍灣半島](../Page/藍灣半島.md "wikilink")）及[堅尼地城](../Page/堅尼地城.md "wikilink")，屬[8X之特別班次](https://zh.wikipedia.org/wiki/城巴8X線 "wikilink")，駛經[港鐵](../Page/港鐵.md "wikilink")[港島綫沿線大部分的服務範圍](../Page/港島綫.md "wikilink")（惟不包括[杏花邨](../Page/杏花邨.md "wikilink")），可謂是[港鐵](../Page/港鐵.md "wikilink")[港島線的通宵版本](https://zh.wikipedia.org/wiki/港島線 "wikilink")。
+**[城巴](../Page/城巴.md "wikilink")N8X線**是[香港](../Page/香港.md "wikilink")的一條非過海的通宵巴士線，來往[小西灣](../Page/小西灣.md "wikilink")（[藍灣半島](../Page/藍灣半島.md "wikilink")）及[堅尼地城](../Page/堅尼地城.md "wikilink")，屬[8X之特別班次](https://zh.wikipedia.org/wiki/城巴8X線 "wikilink")，駛經[港鐵](../Page/港鐵.md "wikilink")[港島綫](../Page/港島綫.md "wikilink")沿線大部分的服務範圍（惟不包括[杏花邨](../Page/杏花邨.md "wikilink")），可謂是[港鐵](../Page/港鐵.md "wikilink")[港島線的通宵版本](https://zh.wikipedia.org/wiki/港島線 "wikilink")。
 
 雖然本線以X字結尾，不過卻沒有行經任何[快速公路](https://zh.wikipedia.org/wiki/快速公路 "wikilink")，實際上不是一條特快線，城巴使用本編號的原因，是為要與同日投入服務的[中華巴士首條通宵線](https://zh.wikipedia.org/wiki/中華巴士 "wikilink")[N8線](../Page/新巴N8線.md "wikilink")（現由[新巴營運](https://zh.wikipedia.org/wiki/新巴 "wikilink")）區別\[1\]。
 
@@ -20,7 +20,7 @@
 | 02:15                                                                   |
 | 04:15                                                                   |
 
-| 每日[堅尼地城開](../Page/堅尼地城.md "wikilink") |
+| 每日[堅尼地城](../Page/堅尼地城.md "wikilink")開 |
 | ------------------------------------- |
 | 00:30                                 |
 | 02:30                                 |
@@ -124,7 +124,7 @@
 
 ## 行車路線
 
-**小西灣（藍灣半島）開**經：[小西灣道](../Page/小西灣道.md "wikilink")、[小西灣邨巴士總站](../Page/小西灣邨巴士總站.md "wikilink")、小西灣道、[柴灣道](../Page/柴灣道.md "wikilink")、[東區走廊](../Page/東區走廊.md "wikilink")、[寧富街](https://zh.wikipedia.org/wiki/寧富街 "wikilink")、[利眾街](https://zh.wikipedia.org/wiki/利眾街 "wikilink")、[康民街](https://zh.wikipedia.org/wiki/康民街 "wikilink")、柴灣道、[筲箕灣道](../Page/筲箕灣道.md "wikilink")、[英皇道](../Page/英皇道.md "wikilink")、[康山道](https://zh.wikipedia.org/wiki/康山道 "wikilink")、英皇道、[高士威道](../Page/高士威道.md "wikilink")、[伊榮街](https://zh.wikipedia.org/wiki/伊榮街 "wikilink")、[邊寧頓街](https://zh.wikipedia.org/wiki/邊寧頓街 "wikilink")、[怡和街](../Page/怡和街.md "wikilink")、[軒尼詩道](../Page/軒尼詩道.md "wikilink")、[金鐘道](../Page/金鐘道.md "wikilink")、[德輔道中](https://zh.wikipedia.org/wiki/德輔道中 "wikilink")、[摩利臣街](../Page/摩利臣街.md "wikilink")、[干諾道西](https://zh.wikipedia.org/wiki/干諾道西 "wikilink")、[德輔道西](https://zh.wikipedia.org/wiki/德輔道西 "wikilink")、[堅彌地城海旁](../Page/堅彌地城海旁.md "wikilink")、[山市街](../Page/山市街.md "wikilink")、[卑路乍街](../Page/卑路乍街.md "wikilink")、[域多利道及](../Page/域多利道.md "wikilink")[西寧街](../Page/西寧街.md "wikilink")。
+**小西灣（藍灣半島）開**經：[小西灣道](../Page/小西灣道.md "wikilink")、[小西灣邨巴士總站](../Page/小西灣邨巴士總站.md "wikilink")、小西灣道、[柴灣道](../Page/柴灣道.md "wikilink")、[東區走廊](../Page/東區走廊.md "wikilink")、[寧富街](https://zh.wikipedia.org/wiki/寧富街 "wikilink")、[利眾街](https://zh.wikipedia.org/wiki/利眾街 "wikilink")、[康民街](https://zh.wikipedia.org/wiki/康民街 "wikilink")、柴灣道、[筲箕灣道](../Page/筲箕灣道.md "wikilink")、[英皇道](../Page/英皇道.md "wikilink")、[康山道](https://zh.wikipedia.org/wiki/康山道 "wikilink")、英皇道、[高士威道](../Page/高士威道.md "wikilink")、[伊榮街](https://zh.wikipedia.org/wiki/伊榮街 "wikilink")、[邊寧頓街](https://zh.wikipedia.org/wiki/邊寧頓街 "wikilink")、[怡和街](../Page/怡和街.md "wikilink")、[軒尼詩道](../Page/軒尼詩道.md "wikilink")、[金鐘道](../Page/金鐘道.md "wikilink")、[德輔道中](https://zh.wikipedia.org/wiki/德輔道中 "wikilink")、[摩利臣街](../Page/摩利臣街.md "wikilink")、[干諾道西](https://zh.wikipedia.org/wiki/干諾道西 "wikilink")、[德輔道西](https://zh.wikipedia.org/wiki/德輔道西 "wikilink")、[堅彌地城海旁](../Page/堅彌地城海旁.md "wikilink")、[山市街](../Page/山市街.md "wikilink")、[卑路乍街](../Page/卑路乍街.md "wikilink")、[域多利道](../Page/域多利道.md "wikilink")及[西寧街](../Page/西寧街.md "wikilink")。
 
 **堅尼地城開**經：西寧街、域多利道、[加多近街](https://zh.wikipedia.org/wiki/加多近街 "wikilink")、[吉席街](../Page/吉席街.md "wikilink")、堅彌地城海旁、德輔道西、干諾道西、[干諾道中](https://zh.wikipedia.org/wiki/干諾道中 "wikilink")、[林士街](../Page/林士街.md "wikilink")、德輔道中、金鐘道、軒尼詩道、怡和街、高士威道、英皇道、康山道、英皇道、筲箕灣道、柴灣道、東區走廊、寧富街、[柴灣站公共運輸交匯處](../Page/柴灣站公共運輸交匯處.md "wikilink")、[吉勝街](https://zh.wikipedia.org/wiki/吉勝街 "wikilink")、柴灣道及小西灣道。
 
@@ -132,7 +132,7 @@
 
 [CitybusN8XRtMap.png](https://zh.wikipedia.org/wiki/File:CitybusN8XRtMap.png "fig:CitybusN8XRtMap.png")
 
-| [小西灣](../Page/小西灣.md "wikilink")（[藍灣半島](../Page/藍灣半島.md "wikilink")）開 | [堅尼地城開](../Page/堅尼地城.md "wikilink")                                  |
+| [小西灣](../Page/小西灣.md "wikilink")（[藍灣半島](../Page/藍灣半島.md "wikilink")）開 | [堅尼地城](../Page/堅尼地城.md "wikilink")開                                  |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | **序號**                                                                | **車站名稱**                                                             |
 | 1                                                                     | [小西灣](../Page/小西灣.md "wikilink")（[藍灣半島](../Page/藍灣半島.md "wikilink")） |
@@ -178,7 +178,7 @@
 | 41                                                                    | [循道衛理大廈](https://zh.wikipedia.org/wiki/循道衛理大廈 "wikilink")            |
 | 42                                                                    | [太古廣場](../Page/太古廣場.md "wikilink")                                   |
 | 43                                                                    | [中銀大廈](../Page/中銀大廈_\(香港\).md "wikilink")                            |
-| 44                                                                    | [置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")                |
+| 44                                                                    | [置地廣場](../Page/置地廣塲.md "wikilink")                                   |
 | 45                                                                    | [中環街市](../Page/中環街市.md "wikilink")                                   |
 | 46                                                                    | [永吉街](../Page/永吉街.md "wikilink")                                     |
 | 47                                                                    | [急庇利街](https://zh.wikipedia.org/wiki/急庇利街 "wikilink")                |

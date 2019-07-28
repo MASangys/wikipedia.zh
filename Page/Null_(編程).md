@@ -13,12 +13,12 @@ Null
 [Ruby](https://zh.wikipedia.org/wiki/:Ruby "wikilink") 以及
 [Lua](https://zh.wikipedia.org/wiki/:Lua "wikilink") 則使用
 `nil`\[2\]，而[Visual Basic](../Page/Visual_Basic.md "wikilink") 使用
-`Nothing`。[Fortran不支援此一常數](../Page/Fortran.md "wikilink")，但其屬性（property）可被設定成
+`Nothing`。[Fortran](../Page/Fortran.md "wikilink")不支援此一常數，但其屬性（property）可被設定成
 `NULLIFY` 並由 `ASSOCIATED` 函數測試之。
 
 ## Null 值
 
-在許多定義裡，Null 意指 "没有值" 或是 "未知的值"。[SQL資料庫查詢語言使用](../Page/SQL.md "wikilink")
+在許多定義裡，Null 意指 "没有值" 或是 "未知的值"。[SQL](../Page/SQL.md "wikilink")資料庫查詢語言使用
 null 在這種地方上，如同在[Visual Basic](../Page/Visual_Basic.md "wikilink")
 及其衍生語言。於此模型上, null operand 等同於 `null` (VB) or "`unknown`"
 (SQL). 故對於A而言, 算式 "`A == null`" 與 "`A <> null`" 既非 true 亦非 false。
@@ -40,9 +40,9 @@ string），是一種長度為0的字串 \[3\]。
   - 虛擬裝置（[device](../Page/硬件.md "wikilink")-like
     entity）並不提供輸入亦不支援輸出。在[UNIX系統中](https://zh.wikipedia.org/wiki/Unix "wikilink")，會被標示為特別檔（）
     **[`:/dev/null`](https://zh.wikipedia.org/wiki/:/dev/null "wikilink")**
-    （亦可視之為[黑洞或](../Page/黑洞.md "wikilink")
+    （亦可視之為[黑洞](../Page/黑洞.md "wikilink")或
     [比特垃圾桶](../Page/比特垃圾桶.md "wikilink")）。[DOS](../Page/DOS.md "wikilink")
-    與 Windows，代表著一種`NUL` 裝置。[AmigaOS則是以](../Page/AmigaOS.md "wikilink")
+    與 Windows，代表著一種`NUL` 裝置。[AmigaOS](../Page/AmigaOS.md "wikilink")則是以
     `NIL:` 代表虛擬裝置。
 
 ## Null 字符
@@ -57,7 +57,7 @@ code value 0 是空字符（null character，NUL）。大多數的程式語言�
 \[4\]
 
 在一些程式語言，null字符
-意指為[字符串的結束](https://zh.wikipedia.org/wiki/:字符串 "wikilink")。這些字串被編成[ASCII字元集有時可視同](../Page/ASCII.md "wikilink")
+意指為[字符串的結束](https://zh.wikipedia.org/wiki/:字符串 "wikilink")。這些字串被編成[ASCII](../Page/ASCII.md "wikilink")字元集有時可視同
 *[ASCIIZ](../Page/C风格字符串.md "wikilink")* 或 *ASCIZ* 字串 — "Z" 是指字串的終點
 "Zero"，或 null 字符\[5\].
 

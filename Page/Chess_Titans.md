@@ -1,5 +1,5 @@
 **Chess Titans**是在[Windows
-Vista中新增的一项](../Page/Windows_Vista.md "wikilink")[国际象棋游戏](https://zh.wikipedia.org/wiki/国际象棋 "wikilink")。由[微軟製作](https://zh.wikipedia.org/wiki/微軟 "wikilink")，特色是其[3D的畫面](https://zh.wikipedia.org/wiki/3D "wikilink")，並可選擇三種棋子和棋盤的樣式，其電腦強度一共分成十級，另也可以雙人對戰，並有儲存[棋譜的功能](../Page/棋譜.md "wikilink")。
+Vista中新增的一项](../Page/Windows_Vista.md "wikilink")[国际象棋游戏](https://zh.wikipedia.org/wiki/国际象棋 "wikilink")。由[微軟製作](https://zh.wikipedia.org/wiki/微軟 "wikilink")，特色是其[3D的畫面](https://zh.wikipedia.org/wiki/3D "wikilink")，並可選擇三種棋子和棋盤的樣式，其電腦強度一共分成十級，另也可以雙人對戰，並有儲存[棋譜](../Page/棋譜.md "wikilink")的功能。
 
 它被包含在[Windows
 Vista的家用進階](../Page/Windows_Vista.md "wikilink")、商用簡易、商用進階和旗艦版中，以及[Windows
@@ -17,7 +17,7 @@ Aero看起來像玻璃的主題](../Page/Windows_Aero.md "wikilink")。遊戲中
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360的](../Page/Xbox_360.md "wikilink")[遊戲控制器](../Page/手柄.md "wikilink")。它也可以透過[Windows
 Media
-Center來進行](../Page/Windows_Media_Center.md "wikilink")，並可以使用購買電視卡或部分[筆記型電腦時附的遙控器來操控遊戲](../Page/筆記型電腦.md "wikilink")。
+Center來進行](../Page/Windows_Media_Center.md "wikilink")，並可以使用購買電視卡或部分[筆記型電腦](../Page/筆記型電腦.md "wikilink")時附的遙控器來操控遊戲。
 
 ### 玩家對電腦
 

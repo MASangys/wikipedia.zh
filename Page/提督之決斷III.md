@@ -1,4 +1,4 @@
-是[光榮在](https://zh.wikipedia.org/wiki/光榮 "wikilink")1994年推出的一個關於[第二次世界大戰海戰的回合制](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")，為[提督之決斷系列的第三個作品](../Page/提督之決斷系列.md "wikilink")。
+是[光榮在](https://zh.wikipedia.org/wiki/光榮 "wikilink")1994年推出的一個關於[第二次世界大戰海戰的回合制](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")，為[提督之決斷系列](../Page/提督之決斷系列.md "wikilink")的第三個作品。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 
 至於在上一代遊戲引入，獲得德軍增援的特別事件獲得保留。但32位元版的威力加強版則不能自由更改艦船和飛機設計值。
 
-此外，也增加了很多事件，包括二戰後期的三個重要會談（[德黑兰会议](../Page/德黑兰会议.md "wikilink")、[雅尔塔会议](../Page/雅尔塔会议.md "wikilink")、[波茨坦会议](../Page/波茨坦会议.md "wikilink")）至「蘇聯對日宣戰」一段正史。而虛構事件則包括[7月20日密谋案成功](https://zh.wikipedia.org/wiki/7月20日密谋案 "wikilink")，由[卡尔·邓尼茨代任總統](../Page/卡尔·邓尼茨.md "wikilink")，並倒戈相向（[印度洋出現德軍艦隊](../Page/印度洋.md "wikilink")）。
+此外，也增加了很多事件，包括二戰後期的三個重要會談（[德黑兰会议](../Page/德黑兰会议.md "wikilink")、[雅尔塔会议](../Page/雅尔塔会议.md "wikilink")、[波茨坦会议](../Page/波茨坦会议.md "wikilink")）至「蘇聯對日宣戰」一段正史。而虛構事件則包括[7月20日密谋案成功](https://zh.wikipedia.org/wiki/7月20日密谋案 "wikilink")，由[卡尔·邓尼茨](../Page/卡尔·邓尼茨.md "wikilink")代任總統，並倒戈相向（[印度洋](../Page/印度洋.md "wikilink")出現德軍艦隊）。
 
 ## 劇本
 
@@ -35,7 +35,7 @@
   - 隆美爾軍團東征──德軍在非洲取得勝利，後長驅直進並佔領[印度](../Page/印度.md "wikilink")
   - 日英同盟再臨──[第一次世界大戰後日本與英國的關係繼續](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，並演變成日本、英國與美國、德國對決的局面
   - 1941年蘇聯參戰──日本對美國宣戰的同時，蘇聯同時向日本宣戰的局面
-  - 奇襲失敗──珍珠港突襲行動失敗，日本需於損失4艘航空母艦（中途島海戰損失的4艘航空母艦），指揮突襲的[南雲忠一](https://zh.wikipedia.org/wiki/南雲忠一 "wikilink")、[山口多聞均陣亡的局面開始](../Page/山口多聞.md "wikilink")
+  - 奇襲失敗──珍珠港突襲行動失敗，日本需於損失4艘航空母艦（中途島海戰損失的4艘航空母艦），指揮突襲的[南雲忠一](https://zh.wikipedia.org/wiki/南雲忠一 "wikilink")、[山口多聞](../Page/山口多聞.md "wikilink")均陣亡的局面開始
   - 大和級三號艦完工──日本於中途島海戰獲勝，預定的大和級3號艦也順利完工
 
 **補充劇本**（威力加強版新增）──全部均為短劇本

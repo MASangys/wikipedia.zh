@@ -8,7 +8,7 @@ Down》作為專輯中的第三首單曲於2009年3月9日推出，數碼版的�
 該曲在英國單曲排行榜上的最初排名是第十位，第一週的銷量為21,448。但在同一週，它在英國下載排行榜上只排在第37位，很可能是因為在專輯和單曲推出之前曲子已泄漏到[iTunes上的緣故](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[2\]。
 
 《Falling Down》（除了《[Sunday Morning
-Call](https://zh.wikipedia.org/wiki/Sunday_Morning_Call "wikilink")》），是綠洲的第二張所有曲子均由諾爾，而不是[連恩·蓋勒格演唱的單曲](../Page/連恩·蓋勒格.md "wikilink")。
+Call](https://zh.wikipedia.org/wiki/Sunday_Morning_Call "wikilink")》），是綠洲的第二張所有曲子均由諾爾，而不是[連恩·蓋勒格](../Page/連恩·蓋勒格.md "wikilink")演唱的單曲。
 
 因初次單曲排名列入前十，《Falling Down》比起前一首單曲《I'm Outta Time》有細微的進步。《I'm Outta
 Time》只在單曲榜上名列12位，成了自從1994年的《Shakermaker》以來綠洲首張在英國未能進入前十名的單曲。從1994年底《Whatever》發售直到《I'm
@@ -17,12 +17,12 @@ Down》。《Lord Don't Slow Me Down》僅僅是次要的促销發行，並非�
 
 歌曲的開篇部分和[門戶合唱團的](https://zh.wikipedia.org/wiki/門戶合唱團 "wikilink")《水晶船》（The
 Crystal
-Ship）相仿\[3\]。其緊密的擊鼓旋律和曲子蘊含的幻滅的意味和[披頭四樂隊的歌曲](../Page/披頭四樂隊.md "wikilink")《[Tomorrow
+Ship）相仿\[3\]。其緊密的擊鼓旋律和曲子蘊含的幻滅的意味和[披頭四樂隊](../Page/披頭四樂隊.md "wikilink")的歌曲《[Tomorrow
 Never
 Knows](../Page/Tomorrow_Never_Knows.md "wikilink")》有強烈的相似之處，被指為是諾爾在效仿《Tomorrow
 Never Knows》的氛圍方面做得最出色的一次。
 
-[日本動畫工作室](../Page/日本.md "wikilink")[Production
+[日本](../Page/日本.md "wikilink")動畫工作室[Production
 I.G的作品](../Page/Production_I.G.md "wikilink")《[東之伊甸](../Page/東之伊甸.md "wikilink")》採用該曲作為[片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")。
 
 除此之外，《Falling

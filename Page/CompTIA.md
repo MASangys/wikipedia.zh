@@ -7,7 +7,7 @@ CompTIA是全球最大的独立认证证书提供商，在全球有超过115万�
 [IT](https://zh.wikipedia.org/wiki/IT "wikilink")
 技术支持工作范围内需要的知识。所有CompTIA考试均由命题专家开发。CompTIA认证是厂商中立的国际认证，得到业界的广泛认可。
 
-在中国，CompTIA得到众多知名企业认可。[联想](https://zh.wikipedia.org/wiki/联想 "wikilink")、[IBM](../Page/IBM.md "wikilink")、[卓越](https://zh.wikipedia.org/wiki/卓越 "wikilink")、[长城](../Page/长城.md "wikilink")、[明基](https://zh.wikipedia.org/wiki/明基 "wikilink")、[清华同方等公司也已经将CompTIA认证作为其技术服务人员必须具备的强制性认证](../Page/清华同方.md "wikilink")。
+在中国，CompTIA得到众多知名企业认可。[联想](https://zh.wikipedia.org/wiki/联想 "wikilink")、[IBM](../Page/IBM.md "wikilink")、[卓越](https://zh.wikipedia.org/wiki/卓越 "wikilink")、[长城](../Page/长城.md "wikilink")、[明基](https://zh.wikipedia.org/wiki/明基 "wikilink")、[清华同方](../Page/清华同方.md "wikilink")等公司也已经将CompTIA认证作为其技术服务人员必须具备的强制性认证。
 
 CompTIA在上海设立了中国第一家认证培训中心，命为“美国计算机行业协会上海环球友好培训中心”(CompTIA Training &
 Certification Center,

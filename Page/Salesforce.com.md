@@ -1,13 +1,13 @@
 **Salesforce.com**（Salesforce.com,
-Inc.）\[1\]是一个提供按需定制[客户关系管理服务的網絡公司](../Page/客户关系管理.md "wikilink")，總部位於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。
+Inc.）\[1\]是一个提供按需定制[客户关系管理](../Page/客户关系管理.md "wikilink")服务的網絡公司，總部位於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。
 
 ## 历史
 
 Salesforce公司于1999年由当时37岁的[甲骨文](../Page/甲骨文公司.md "wikilink")（Oracle）高级副总裁，俄罗斯裔美国人马克·贝尼奥夫（[Marc
 Benioff](https://zh.wikipedia.org/wiki/:en:Marc_Benioff "wikilink")，1964/09/25-）创办。贝尼奥夫從中學時代就開始寫軟體賺錢，15歲時創立Liberty
-Software公司，然後進入[南加州大學](https://zh.wikipedia.org/wiki/南加州大學 "wikilink")（USC）就讀，畢業後就進入[甲骨文公司](../Page/甲骨文公司.md "wikilink")，在创建[云计算公司之前曾在不同的部門歷練了](https://zh.wikipedia.org/wiki/云计算 "wikilink")13年。23歲的贝尼奥夫曾獲得[甲骨文公司Rookie](../Page/甲骨文公司.md "wikilink")
+Software公司，然後進入[南加州大學](https://zh.wikipedia.org/wiki/南加州大學 "wikilink")（USC）就讀，畢業後就進入[甲骨文公司](../Page/甲骨文公司.md "wikilink")，在创建[云计算公司之前曾在不同的部門歷練了](https://zh.wikipedia.org/wiki/云计算 "wikilink")13年。23歲的贝尼奥夫曾獲得[甲骨文公司](../Page/甲骨文公司.md "wikilink")Rookie
 of the
-Year的最高殊榮；26歲時，贝尼奥夫成為[甲骨文公司有史以來最年輕的副總裁](../Page/甲骨文公司.md "wikilink")。
+Year的最高殊榮；26歲時，贝尼奥夫成為[甲骨文公司](../Page/甲骨文公司.md "wikilink")有史以來最年輕的副總裁。
 
 贝尼奥夫長期推廣[SaaS](https://zh.wikipedia.org/wiki/SaaS "wikilink")（Software
 As A
@@ -34,7 +34,7 @@ Software Inc.
 
 ## 产品
 
-Salesforce公司提供按需定制的软件服务，用户每个月需要支付类似租金的费用来使用网站上的各种服务，这些服务涉及客户关系管理的各个方面，从普通的联系人管理，产品目录到订单管理，机会管理，销售管理等。他提供一个平台，使得客户无需拥有自己的软件，也无需花费大量资金和人力用于记录的维护，储存和管理，所有的记录和数据都储存在salesforce.com上面。同时和普通的自己购买的软件不一样，用户随时可以根据需要去增加新的功能或者去除一些不必要的功能，真正地实时了按需使用。
+Salesforce公司提供按需定制的软件服务，用户每个月需要支付类似租金的费用来使用网站上的各种服务，这些服务涉及客户关系管理的各个方面，从普通的联系人管理，产品目录到订单管理，机会管理，销售管理等。他提供一个平台，使得客户无需拥有自己的软件，也无需花费大量资金和人力用于记录的维护，储存和管理，所有的记录和数据都储存在salesforce.com上面。同时和普通的自己购买的软件不一样，用户随时可以根据需要去增加新的功能或者去除一些不必要的功能，真正地實現了按需使用。
 
 ## 里程碑
 

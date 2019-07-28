@@ -1,6 +1,6 @@
 《**機動戰士GUNDAM
 F90**》（機動戦士ガンダムF90）是[山口宏的](https://zh.wikipedia.org/wiki/山口宏 "wikilink")[GUNDAM漫畫系列作品](../Page/GUNDAM系列作品.md "wikilink")
-，在1990年[萬代發售連串的鋼普拉模型的計劃](../Page/萬代.md "wikilink")，為計劃基礎發表的漫畫等作品。當中故事續作是[機動戰士GUNDAMF91
+，在1990年[萬代](../Page/萬代.md "wikilink")發售連串的鋼普拉模型的計劃，為計劃基礎發表的漫畫等作品。當中故事續作是[機動戰士GUNDAMF91
 Formula戰記
 0122](https://zh.wikipedia.org/wiki/機動戰士GUNDAMF91_Formula戰記_0122 "wikilink")。
 
@@ -87,7 +87,7 @@ F91公佈後被作為發表宣言](../Page/機動戰士GUNDAM_F91.md "wikilink")
 
 ## 其他
 
-火星獨立自護軍其實是[U.C.](../Page/宇宙世紀.md "wikilink")0079年就已經有[自護的科學家在](https://zh.wikipedia.org/wiki/自護公國 "wikilink")[火星研究工作](../Page/火星.md "wikilink")。當中在鋼彈世界首次在其他星球作戰的故事
+火星獨立自護軍其實是[U.C.](../Page/宇宙世紀.md "wikilink")0079年就已經有[自護的科學家在](https://zh.wikipedia.org/wiki/自護公國 "wikilink")[火星](../Page/火星.md "wikilink")研究工作。當中在鋼彈世界首次在其他星球作戰的故事
 
 由於鋼彈F90有A-Z全26種裝備型態，當中有很多沒有設計圖同沒採用機體。可以參考網頁為
 

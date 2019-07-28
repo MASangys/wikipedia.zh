@@ -1,6 +1,6 @@
-**《Amani》**（和平）是香港搖滾樂隊[Beyond的著名歌曲之一](../Page/Beyond.md "wikilink")\[1\]，於1991年到非洲旅行後創作\[2\]。[黃家駒包辦作曲](../Page/黃家駒.md "wikilink")、主音及粵語版填詞（國語版則由[林夕填詞](../Page/林夕.md "wikilink")）。此曲是指责战火的残酷并憧憬[和平的前景的一首歌曲](../Page/和平.md "wikilink")，貫徹Beyond一向爱好和平的價值觀，并以自己的[音乐向人们呼唤和争取和平](../Page/音乐.md "wikilink")，呼籲人們用[爱驱散世上罪恶的战争](https://zh.wikipedia.org/wiki/爱 "wikilink")。\[3\]
+**《Amani》**（和平）是香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")的著名歌曲之一\[1\]，於1991年到非洲旅行後創作\[2\]。[黃家駒](../Page/黃家駒.md "wikilink")包辦作曲、主音及粵語版填詞（國語版則由[林夕](../Page/林夕.md "wikilink")填詞）。此曲是指责战火的残酷并憧憬[和平](../Page/和平.md "wikilink")的前景的一首歌曲，貫徹Beyond一向爱好和平的價值觀，并以自己的[音乐](../Page/音乐.md "wikilink")向人们呼唤和争取和平，呼籲人們用[爱驱散世上罪恶的战争](https://zh.wikipedia.org/wiki/爱 "wikilink")。\[3\]
 
-《Amani》收錄於[Beyond第](../Page/Beyond.md "wikilink")7張粵語專輯《[猶豫](../Page/猶豫.md "wikilink")》。
+《Amani》收錄於[Beyond](../Page/Beyond.md "wikilink")第7張粵語專輯《[猶豫](../Page/猶豫.md "wikilink")》。
 
 ## 背景
 

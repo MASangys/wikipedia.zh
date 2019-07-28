@@ -15,7 +15,7 @@
 
 </code>
 
-  - 如果舊的標題是名稱錯誤的[重定向](https://zh.wikipedia.org/wiki/WP:R "wikilink")，您可以**\[
+  - 如果舊的標題是名稱錯誤的[重新導向](https://zh.wikipedia.org/wiki/WP:R "wikilink")，您可以**\[
     請求刪除\]**。
 
 {{\#ifeq:||\* 請檢查模板中有無寫死模板名稱，並進行相應修改。}}

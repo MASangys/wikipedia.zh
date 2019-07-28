@@ -1,9 +1,9 @@
 **GGZ Gaming
-Zone**是一个诞生于2000年的[自由软件](../Page/自由.md "wikilink")[网络游戏平台项目](../Page/网络游戏.md "wikilink")。此平台在技术方面（服务端、客户端、接口协议）的功能正逐渐完善，并同时支持多种游戏工具（如聊天机器人等）。
+Zone**是一个诞生于2000年的[自由](../Page/自由.md "wikilink")软件[网络游戏](../Page/网络游戏.md "wikilink")平台项目。此平台在技术方面（服务端、客户端、接口协议）的功能正逐渐完善，并同时支持多种游戏工具（如聊天机器人等）。
 
 ## 概括
 
-**GGZ**是[软件](../Page/软件.md "wikilink")[社区对广告支持的在线游戏站点](../Page/社区.md "wikilink")（如[MSN
+**GGZ**是[软件](../Page/软件.md "wikilink")[社区](../Page/社区.md "wikilink")对广告支持的在线游戏站点（如[MSN
 Games](../Page/MSN_Games.md "wikilink")、Yahoo\! Games和Pogo.com）的回应。
 
 ## 游戏
@@ -31,7 +31,7 @@ GGZ列出了支持的38个游戏引擎，包括[国际象棋和](https://zh.wiki
   - TicTacToe
   - GGZBoard（包括Chess、Checkers、Reversi、Go、Hnefatafl和Ludo）
 
-最初就已实现GGZ支持的[独立游戏项目](../Page/独立游戏.md "wikilink")：
+最初就已实现GGZ支持的[独立游戏](../Page/独立游戏.md "wikilink")项目：
 
   - Batalla Naval
   - Kamikaze

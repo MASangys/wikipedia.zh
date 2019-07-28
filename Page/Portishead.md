@@ -10,7 +10,7 @@ Portishead的團名來自英國北[薩默塞特郡一個同名的小鎮](https:/
 Barrow年少時曾居住過的地點。在他15歲時，Barrow搬到鄰近的布里斯托市，在那，他認識了主唱Beth
 Gibbons，以及隨後入團的吉他手Adrian Francis Utley。
 
-Portishead的首張專輯Dummy獲得1995年的[水星音樂獎](../Page/水星音樂獎.md "wikilink")，也在2003年排上[滾石雜誌五百大專輯的第](../Page/滾石雜誌五百大專輯.md "wikilink")419名。\[3\]\[4\]
+Portishead的首張專輯Dummy獲得1995年的[水星音樂獎](../Page/水星音樂獎.md "wikilink")，也在2003年排上[滾石雜誌五百大專輯](../Page/滾石雜誌五百大專輯.md "wikilink")的第419名。\[3\]\[4\]
 
 ## 音樂作品
 

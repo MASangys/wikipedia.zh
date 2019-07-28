@@ -1,5 +1,5 @@
 **innocent
-starter**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")10张单曲CD，2004年10月6日发售，商品編号KICM-1115。這首單曲是動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》的主題曲。在[Oricon公信榜周排行榜上](../Page/Oricon.md "wikilink")，获得第九位的成绩，也是水樹首次進入公信榜前10名的單曲作品。
+starter**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")10张单曲CD，2004年10月6日发售，商品編号KICM-1115。這首單曲是動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》的主題曲。在[Oricon](../Page/Oricon.md "wikilink")公信榜周排行榜上，获得第九位的成绩，也是水樹首次進入公信榜前10名的單曲作品。
 
 ## 收錄曲
 

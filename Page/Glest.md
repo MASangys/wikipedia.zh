@@ -1,6 +1,6 @@
 ***Glest***是[跨平台免费开源](https://zh.wikipedia.org/wiki/跨平台 "wikilink")3D[即时战略电脑游戏](https://zh.wikipedia.org/wiki/即时战略 "wikilink")，具有高度的自定义特性。开发组主要位于[西班牙](../Page/西班牙.md "wikilink")。\[1\]
 
-取材于[中世纪背景](../Page/中世纪.md "wikilink")，包含2个阵营，魔法和科技。2.0版本之后有许多变化，不仅增加了大量单位，升级，还有全面改版的扩展包。3.0添加在线游戏[LAN](https://zh.wikipedia.org/wiki/LAN "wikilink")／[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")，但只有类似架构的操作系统可以互联，如BSD和Linux，Windows只能和Windows对战。Glest
+取材于[中世纪](../Page/中世纪.md "wikilink")背景，包含2个阵营，魔法和科技。2.0版本之后有许多变化，不仅增加了大量单位，升级，还有全面改版的扩展包。3.0添加在线游戏[LAN](https://zh.wikipedia.org/wiki/LAN "wikilink")／[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")，但只有类似架构的操作系统可以互联，如BSD和Linux，Windows只能和Windows对战。Glest
 Advanced Engine，缩写GAE，这个引擎也在不断更新。
 Glest有较大的社区，\[2\]自制地图、单位、阵营和[科技树](../Page/科技树.md "wikilink")。
 
@@ -9,7 +9,7 @@ Glest有较大的社区，\[2\]自制地图、单位、阵营和[科技树](../P
 基本：魔法和科技，2套不同的单位和建筑系统，[MOD则包含其他的阵营](https://zh.wikipedia.org/wiki/MOD "wikilink")，如印第安人和北美白人，外星生物和人类，玛雅民族等。
 
   - **科技**
-    传统人类战士和[中世纪机械设备](../Page/中世纪.md "wikilink")。近身动手作战能力强，相对更适合新手。
+    传统人类战士和[中世纪](../Page/中世纪.md "wikilink")机械设备。近身动手作战能力强，相对更适合新手。
   - **魔法** 更有经验的玩家或许更可能选择这个阵营。有更多强力远程单位。如果运用得好，能对付比自己更多的敌军。
 
 ## MOD特性
@@ -17,7 +17,7 @@ Glest有较大的社区，\[2\]自制地图、单位、阵营和[科技树](../P
   - **XML定义**
     任何单位、建筑、资源、升级、阵营都有一个独立XML文件定义。任何单位的属性和命令也是。所以修改十分简单，MOD可以轻易制作。
   - **G3D模型** Glest使用自己的3D文件格式，无论是单位模型还是动画。模型可以由[3ds
-    Max或](../Page/3ds_Max.md "wikilink")[Blender输出得到](../Page/Blender.md "wikilink")。
+    Max或](../Page/3ds_Max.md "wikilink")[Blender](../Page/Blender.md "wikilink")输出得到。
   - **地图编辑器** 使用简单，开放。
 
 ## 參見

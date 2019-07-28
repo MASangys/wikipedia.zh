@@ -1,4 +1,4 @@
-《**ICO**》（中国大陆官方译为「**古堡迷踪**」，香港官方译為「**迷霧古城**」）是由[ICO小組制作的遊戲](https://zh.wikipedia.org/wiki/ICO小組 "wikilink")。主创者上田文人承担了大量开发工作，开始在玩家群体中获得较高的声望。游戏原计划运行于初代[PlayStation](../Page/PlayStation.md "wikilink")，后因受到机能限制转而成为[PlayStation
+是由[ICO小組制作的遊戲](https://zh.wikipedia.org/wiki/ICO小組 "wikilink")。主创者上田文人承担了大量开发工作，开始在玩家群体中获得较高的声望。游戏原计划运行于初代[PlayStation](../Page/PlayStation.md "wikilink")，后因受到机能限制转而成为[PlayStation
 2独占游戏](../Page/PlayStation_2.md "wikilink")。游戏开发历时四年，团队特别雇佣了一个“裁剪小组”，致力于简化游戏中不必要的元素，以增强游戏的代入感。
 
 《ICO》在剧情讲述和动画制作方面都有出色的表现：用极少的对话讲述了令人回味的剧情，用[高光和](https://zh.wikipedia.org/wiki/高光 "wikilink")[关键格等技术制作了比同时代游戏先進的动画](https://zh.wikipedia.org/wiki/关键格 "wikilink")，影响了后来的很多游戏作品。《ICO》於商业上未成功，却因其独有的艺术元素（如充满古典氛围的古堡室内场景）成名，获得多个“年度游戏”和“游戏设计师选择”奖项或提名。《ICO》也常在许多游戏榜单中占据前席，被认为是一款出色的艺术品。
@@ -106,6 +106,7 @@ Rankings上達到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")90%
 [Category:附身題材作品](https://zh.wikipedia.org/wiki/Category:附身題材作品 "wikilink")
 [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.  [ICO Reviews](http://www.gamerankings.com/htmlpages2/367472.asp)
 2.  [IGN's Top 100 Games](http://top100.ign.com/2005/011-020.html)

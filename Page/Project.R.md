@@ -1,4 +1,4 @@
-**Project.R**（）是[日本的](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，2008年結成。他們主要作的是2000年代末至今的[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[特攝主題曲](https://zh.wikipedia.org/wiki/特攝 "wikilink")。現在他們是[Columbia
+**Project.R**（）是[日本](../Page/日本.md "wikilink")的[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，2008年結成。他們主要作的是2000年代末至今的[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[特攝主題曲](https://zh.wikipedia.org/wiki/特攝 "wikilink")。現在他們是[Columbia
 Music
 Entertainment属下的其餘藝人之一](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")。
 
@@ -14,7 +14,7 @@ Entertainment属下的其餘藝人之一](https://zh.wikipedia.org/wiki/Columbia
       - 他是『[獸拳戰隊激氣連者](../Page/獸拳戰隊激氣連者.md "wikilink")』（2007年）的片頭曲及插曲「高みの空へ」的主唱。
   - **[Sister MAYO](../Page/Sister_MAYO.md "wikilink")**（7月26日-）
       - 原名**澤田雅世**，是日本搖滾組合[X
-        JAPAN貝斯手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[澤田泰司的妹妹](../Page/澤田泰司.md "wikilink")。她是『[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")』（2005年）片尾曲「呪文降臨～マジカル・フォース」的主唱。
+        JAPAN貝斯手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[澤田泰司](../Page/澤田泰司.md "wikilink")的妹妹。她是『[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")』（2005年）片尾曲「呪文降臨～マジカル・フォース」的主唱。
   - **[NoB](https://zh.wikipedia.org/wiki/NoB "wikilink")**（1964年1月20日 -
     ）
       - 原名**山田信夫**，他是『[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")』的片頭曲主唱。
@@ -42,12 +42,12 @@ Entertainment属下的其餘藝人之一](https://zh.wikipedia.org/wiki/Columbia
 ### 作詞家／作曲家
 
   - **Mike Sugiyama**
-      - 原名**杉山昭彦**，他是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』的作詞。他也是[IMAGINE屬下的動畫作曲家及編曲家](../Page/IMAGINE.md "wikilink")。
+      - 原名**杉山昭彦**，他是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』的作詞。他也是[IMAGINE](../Page/IMAGINE.md "wikilink")屬下的動畫作曲家及編曲家。
   - **[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")**（おおいし
     けんいちろう、1973年9月14日－）
       - [静岡縣出身](https://zh.wikipedia.org/wiki/静岡縣 "wikilink")。他是90年代中期著名的作曲家、編曲家、吉他手和鼓手。
   - **宮葉勝行**（みやば かつゆき、1964年6月27日 - ）
-      - [東京都](../Page/東京都.md "wikilink")[杉並區出身](../Page/杉並區.md "wikilink")，[早稻田大學文學部畢業](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")。他是90年代及2000年代著名的作曲家及編曲家。在2011年加入。
+      - [東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")出身，[早稻田大學文學部畢業](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")。他是90年代及2000年代著名的作曲家及編曲家。在2011年加入。
   - **[大橋惠](../Page/大橋惠.md "wikilink")**（おおはし めぐみ、1975年3月2日－）
       - 她是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的作曲者，曾與「[羽田健太郎with](https://zh.wikipedia.org/wiki/羽田健太郎 "wikilink")
         Healthy Wings」成員合作。她也是[Face
@@ -56,7 +56,7 @@ Entertainment属下的其餘藝人之一](https://zh.wikipedia.org/wiki/Columbia
       - 2010年加入，他是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的作曲者，曾與「[羽田健太郎with](https://zh.wikipedia.org/wiki/羽田健太郎 "wikilink")
         Healthy Wings」成員合作。
   - **籠島裕昌**（かごしま ひろし、1966年7月21日-）
-      - [神奈川縣出身](../Page/神奈川縣.md "wikilink")。以前他是『[忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")』的主題曲編曲家。他也是與高取秀明共同合作的「Z旗」演奏家。
+      - [神奈川縣](../Page/神奈川縣.md "wikilink")出身。以前他是『[忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")』的主題曲編曲家。他也是與高取秀明共同合作的「Z旗」演奏家。
   - **[三宅一德](../Page/三宅一德.md "wikilink")**
       - 2010年加入，以前他是『[激走戰隊車連者](../Page/激走戰隊車連者.md "wikilink")』的插入曲作曲家。
   - **[山下康介](../Page/山下康介.md "wikilink")**

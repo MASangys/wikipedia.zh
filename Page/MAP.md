@@ -99,7 +99,7 @@
   - [關卡](../Page/關卡_\(電子遊戲\).md "wikilink")（電子遊戲）
 
   -
-  - [南島語系的](../Page/南島語系.md "wikilink")[ISO
+  - [南島語系](../Page/南島語系.md "wikilink")的[ISO
     639-2語言編碼](../Page/ISO_639-2.md "wikilink")。
 
   - [北約擴張](../Page/北約擴張.md "wikilink")（Membership action plan）：a stage

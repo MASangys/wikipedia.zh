@@ -18,7 +18,7 @@ indexing。
 
 [KDE
 4需要Strigi](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")，作為新的語義學桌面技術核心組成部分。
-Strigi和[NEPOMUK正在共同努力](../Page/NEPOMUK.md "wikilink")，以幫助建立一個KDE的語義學桌面搜索。NEPOMUK允許用戶添加元數據，讓Strigi將能夠將索引產生為更精確的搜索。開發者也正在考慮加入[Sonnet支持](https://zh.wikipedia.org/wiki/Sonnet_\(KDE\) "wikilink")，允許用戶搜索使用特定的語言書寫的文件\[4\]。
+Strigi和[NEPOMUK](../Page/NEPOMUK.md "wikilink")正在共同努力，以幫助建立一個KDE的語義學桌面搜索。NEPOMUK允許用戶添加元數據，讓Strigi將能夠將索引產生為更精確的搜索。開發者也正在考慮加入[Sonnet支持](https://zh.wikipedia.org/wiki/Sonnet_\(KDE\) "wikilink")，允許用戶搜索使用特定的語言書寫的文件\[4\]。
 
 ## 參見
 

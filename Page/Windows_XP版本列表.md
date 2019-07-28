@@ -42,7 +42,7 @@ Windows XP專業版提供一些功能是家庭版中沒有的，包括：\[3\]</
     Software Installation and Maintenance）、漫遊使用者設定檔（Roaming User
     Profiles）及遠端安裝服務（Remote Installation Service，RIS）。
   - [網際網路資訊服務](../Page/網際網路資訊服務.md "wikilink")（IIS），微軟的HTTP及FTP伺服器。
-  - 支持兩個物理[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")）。（因為[CPU核心的數目及](https://zh.wikipedia.org/wiki/多核心 "wikilink")[超執行緒技術在新式的CPU被認為是一個單一物理處理器的一部分](../Page/超執行緒.md "wikilink")，所以家用版是支持多核心CPU的。）\[7\]\[8\]
+  - 支持兩個物理[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")）。（因為[CPU核心的數目及](https://zh.wikipedia.org/wiki/多核心 "wikilink")[超執行緒](../Page/超執行緒.md "wikilink")技術在新式的CPU被認為是一個單一物理處理器的一部分，所以家用版是支持多核心CPU的。）\[7\]\[8\]
   - Windows Management Instrumentation Console（WMIC）
 
 ### Windows XP Edition N
@@ -58,7 +58,7 @@ XP Edition N**。這個版本沒有內置該公司出產的Windows Media
 Player，但改為鼓勵用戶下載及使用他們公司的媒體播放器。微軟希望把這個Windows版本命名為「Reduced
 Media Edition」，但歐盟管理者反對，並建議以「Edition N」作為Windows XP的家用版及專業版的命名，「N」意指「not
 with Media Player」(沒有媒體播放軟體)\[9\]。事實上，由於這版本的價錢與內置Windows Media
-Player版本的價錢一樣，[戴爾](../Page/戴爾.md "wikilink")、[惠普](../Page/惠普.md "wikilink")、[聯想及](../Page/聯想.md "wikilink")[富士通-西門子電腦公司選擇不進貨該產品](https://zh.wikipedia.org/wiki/富士通-西門子電腦公司 "wikilink")。\[10\]但是，戴爾亦曾提供此作業系統一段短時間。消費者對此產品的興趣大減，概略地估算，僅1,500套產品出貨給OEM廠商，且沒有任何消費者的消費報告。
+Player版本的價錢一樣，[戴爾](../Page/戴爾.md "wikilink")、[惠普](../Page/惠普.md "wikilink")、[聯想](../Page/聯想.md "wikilink")及[富士通-西門子電腦公司選擇不進貨該產品](https://zh.wikipedia.org/wiki/富士通-西門子電腦公司 "wikilink")。\[10\]但是，戴爾亦曾提供此作業系統一段短時間。消費者對此產品的興趣大減，概略地估算，僅1,500套產品出貨給OEM廠商，且沒有任何消費者的消費報告。
 \[11\]\[12\]\[13\]\[14\]\[15\]
 
 這個Windows XP版本亦不包含[Windows Movie
@@ -80,7 +80,7 @@ Center](https://zh.wikipedia.org/wiki/Media_Center "wikilink")。在2002年11月
 XP Media Center與Windows XP Tablet PC Edition。兩者都是Windows XP
 Professional的[超集](https://zh.wikipedia.org/wiki/超集 "wikilink")，皆提供原有Windows
 XP
-Professional所具備的所有功能和安全性。目前，這些個人電腦包括[惠普Media](../Page/惠普.md "wikilink")
+Professional所具備的所有功能和安全性。目前，這些個人電腦包括[惠普](../Page/惠普.md "wikilink")Media
 Center，以及Alienware
 Navigator系列等。這些電腦配有[遙控器](https://zh.wikipedia.org/wiki/遙控器 "wikilink")，可以控制Windows
 XP Media Center上的媒體播放功能。Windows XP Media
@@ -92,7 +92,7 @@ XP Media Center就會被視為使用盜版軟件\[19\]。
 \*多調諧器支援（可錄製同時段的兩個節目，並欣賞另一個先前已錄製的節目）
 
   - 支援數位和高畫質電視節目
-  - 內建[CD和](../Page/CD.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
+  - 內建[CD](../Page/CD.md "wikilink")和[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
     [燒錄功能](https://zh.wikipedia.org/wiki/刻錄技術 "wikilink")
   - 搭配支援DVD燒錄功能的[Windows Movie
     Maker](../Page/Windows_Movie_Maker.md "wikilink") 2.1
@@ -110,7 +110,7 @@ Windows XP Media Center Edition曾經有4次發佈。
 ### Tablet PC Edition
 
 [TabletPC_2004.jpg](https://zh.wikipedia.org/wiki/File:TabletPC_2004.jpg "fig:TabletPC_2004.jpg")
-它的開發代號為「Lone Star」，為[平板電腦設計的](../Page/平板電腦.md "wikilink")**Windows XP
+它的開發代號為「Lone Star」，為[平板電腦](../Page/平板電腦.md "wikilink")設計的**Windows XP
 Tablet PC
 Edition**，帶有支持觸屏手寫的特性，還加上了增強的筆墨功能。這個版本同樣-{只}-能與平板筆記本電腦捆綁銷售，並不可以單獨購買\[20\]。Windows
 XP Tablet PC Edition曾經有2次發佈。
@@ -200,7 +200,7 @@ Windows XP發布以來擁有三個不同的中文語言版，即微软（中國�
 
 ### 台灣版的差異
 
-台灣版在日期設定中擁有[民國紀年日期格式的額外選項](../Page/民國紀年.md "wikilink")。
+台灣版在日期設定中擁有[民國紀年](../Page/民國紀年.md "wikilink")日期格式的額外選項。
 
 ## 参见
 

@@ -1,9 +1,9 @@
 [I-home_base.jpg](https://zh.wikipedia.org/wiki/File:I-home_base.jpg "fig:I-home_base.jpg")
-i-HOME是一個位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[大角咀](../Page/大角咀.md "wikilink")[洋松街](https://zh.wikipedia.org/wiki/洋松街 "wikilink")38號，由華人置業及[市區重建局合作發展](../Page/市區重建局.md "wikilink")，樓高44層，項目於2009年3月開售\[1\]，同年8月3日入伙\[2\]。
+i-HOME是一個位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[大角咀](../Page/大角咀.md "wikilink")[洋松街](https://zh.wikipedia.org/wiki/洋松街 "wikilink")38號，由華人置業及[市區重建局](../Page/市區重建局.md "wikilink")合作發展，樓高44層，項目於2009年3月開售\[1\]，同年8月3日入伙\[2\]。
 
 ## 簡介
 
-i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重建住宅區如新鴻基地產[形品·星寓及](../Page/形品·星寓.md "wikilink")[柏豐28](../Page/柏豐28.md "wikilink")。管理費為$1.64。
+i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重建住宅區如新鴻基地產[形品·星寓](../Page/形品·星寓.md "wikilink")及[柏豐28](../Page/柏豐28.md "wikilink")。管理費為$1.64。
 
 ## 住客會所
 
@@ -26,9 +26,9 @@ i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重
 
 <!-- end list -->
 
-  - <font color="{{東涌綫色彩}}">█</font>[東涌綫](../Page/東涌綫.md "wikilink")：[奧運站C](../Page/奧運站.md "wikilink")5出口(步行約10-15分鐘)
-  - <font color="{{觀塘綫色彩}}">█</font>[觀塘綫](../Page/觀塘綫.md "wikilink")、<font color="{{荃灣綫色彩}}">█</font>[荃灣綫](../Page/荃灣綫.md "wikilink")︰[太子站C](../Page/太子站.md "wikilink")2出口、[旺角站A](../Page/旺角站.md "wikilink")2出口(步行約10-15分鐘)
-  - <font color="{{東鐵綫色彩}}">█</font>[東鐵綫](../Page/東鐵綫.md "wikilink")︰[旺角東站C出口](../Page/旺角東站.md "wikilink")(步行約10-15分鐘)
+  - <font color="{{東涌綫色彩}}">█</font>[東涌綫](../Page/東涌綫.md "wikilink")：[奧運站](../Page/奧運站.md "wikilink")C5出口(步行約10-15分鐘)
+  - <font color="{{觀塘綫色彩}}">█</font>[觀塘綫](../Page/觀塘綫.md "wikilink")、<font color="{{荃灣綫色彩}}">█</font>[荃灣綫](../Page/荃灣綫.md "wikilink")︰[太子站](../Page/太子站.md "wikilink")C2出口、[旺角站](../Page/旺角站.md "wikilink")A2出口(步行約10-15分鐘)
+  - <font color="{{東鐵綫色彩}}">█</font>[東鐵綫](../Page/東鐵綫.md "wikilink")︰[旺角東站](../Page/旺角東站.md "wikilink")C出口(步行約10-15分鐘)
 
 <!-- end list -->
 

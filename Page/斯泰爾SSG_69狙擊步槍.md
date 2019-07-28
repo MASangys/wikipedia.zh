@@ -4,12 +4,12 @@
 ## 概述
 
 斯太爾SSG
-69是一枝使用[曼利夏系统的手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，儘管它在1969年通過（因以為名），但它比同期的狙擊步槍更為傾向使用合成材料（使用工程[塑料或](../Page/塑料.md "wikilink")[木材製成的](../Page/木材.md "wikilink")[手握式槍托](https://zh.wikipedia.org/wiki/手握式槍托 "wikilink")）、[冷鍛法製造的](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[槍管](../Page/槍管.md "wikilink")、只需轉動60[゜就能開鎖及閉鎖的槍機和可調整](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")[扳機行程長短](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")、[扳機扣力大小的兩道火式設計](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，因而帶來了高準確性的這些領先優勢。
+69是一枝使用[曼利夏系统的手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，儘管它在1969年通過（因以為名），但它比同期的狙擊步槍更為傾向使用合成材料（使用工程[塑料](../Page/塑料.md "wikilink")或[木材](../Page/木材.md "wikilink")製成的[手握式槍托](https://zh.wikipedia.org/wiki/手握式槍托 "wikilink")）、[冷鍛法製造的](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[槍管](../Page/槍管.md "wikilink")、只需轉動60[゜就能開鎖及閉鎖的槍機和可調整](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")[扳機行程長短](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")、[扳機扣力大小的兩道火式設計](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，因而帶來了高準確性的這些領先優勢。
 
 重點是，雖然現在使用工程塑料槍托的步槍相當普遍，但斯泰爾-曼利夏卻是全世界上第一間設計及生產安裝有工程塑料槍托的步槍的廠商。除了槍托，該槍其他部件亦大量使用工程塑料。
 
 其槍機的結構設計獨特，在槍機前端設有6個閉鎖鎖耳，僅需要轉動60゜就能開鎖及閉鎖。SSG
-69的槍管為[自由浮動式安裝在槍托以上](../Page/自由浮動式槍管.md "wikilink")，即是只與槍管節套連接，而與護木並無接觸點。同時亦將傳統型圓筒式[機匣加長](https://zh.wikipedia.org/wiki/機匣 "wikilink")，使槍管節套的長度達到57毫米，[膛室位於機匣內](../Page/膛室.md "wikilink")，從而使槍管與機匣能更牢固地組合，因此可以大大提高射擊精度。拋殼口位於機匣右側上方的位置，結構強度十分可靠。
+69的槍管為[自由浮動式安裝在槍托以上](../Page/自由浮動式槍管.md "wikilink")，即是只與槍管節套連接，而與護木並無接觸點。同時亦將傳統型圓筒式[機匣加長](https://zh.wikipedia.org/wiki/機匣 "wikilink")，使槍管節套的長度達到57毫米，[膛室](../Page/膛室.md "wikilink")位於機匣內，從而使槍管與機匣能更牢固地組合，因此可以大大提高射擊精度。拋殼口位於機匣右側上方的位置，結構強度十分可靠。
 
 SSG
 69有兩種供彈形式。第一種是5發可拆卸式[旋轉式彈匣](../Page/彈匣.md "wikilink")，與旋轉式彈倉一樣是把子彈在彈匣以內旋轉上升進入[膛室](../Page/膛室.md "wikilink")；第二種是10發容量的可拆卸雙排式彈匣。
@@ -27,12 +27,12 @@ SSG 69無論在戰爭還是大大小小的國際比賽之中都證明了它是�
 ## 衍生型
 
   - SSG
-    69：初期的軍用型版本，由於其[綠色的槍身而贏得](../Page/綠色.md "wikilink")“綠槍”（）的稱呼。另外，[機匣及](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍管上分別裝有其他衍生型所沒有的後備](../Page/槍管.md "wikilink")[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")，以備不時之需。
+    69：初期的軍用型版本，由於其[綠色](../Page/綠色.md "wikilink")的槍身而贏得“綠槍”（）的稱呼。另外，[機匣及](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍管](../Page/槍管.md "wikilink")上分別裝有其他衍生型所沒有的後備[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")，以備不時之需。
   - SSG 69 PI：SSG 69 PI是SSG 69的民用型運動步槍版本。近40年之後，此步槍的出現仍然在民間的運動射擊方面很受歡迎。
   - SSG 69 PII：SSG 69 PII是SSG
     69的長槍管警用型版本，槍身改為[黑色](../Page/黑色.md "wikilink")。
   - SSG 69 PIV：SSG 69 PIV是SSG
-    69的短槍管警用型版本。[槍管縮短至](../Page/槍管.md "wikilink")409毫米（16.1英吋）的長度和[膛線缠距改為](../Page/膛線.md "wikilink")1：250毫米（1:10英吋），以便裝上其[消聲器和使用](../Page/抑制器.md "wikilink")[亞音速彈頭的](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[子彈](../Page/子彈.md "wikilink")。
+    69的短槍管警用型版本。[槍管](../Page/槍管.md "wikilink")縮短至409毫米（16.1英吋）的長度和[膛線](../Page/膛線.md "wikilink")缠距改為1：250毫米（1:10英吋），以便裝上其[消聲器和使用](../Page/抑制器.md "wikilink")[亞音速彈頭的](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 使用國
 
@@ -106,9 +106,9 @@ SSG 69無論在戰爭還是大大小小的國際比賽之中都證明了它是�
 ## 圖集
 
 <File:Steyr> SSG 69.jpg|斯泰爾SSG
-69，初期的軍用型，[綠色槍身](../Page/綠色.md "wikilink")
+69，初期的軍用型，[綠色](../Page/綠色.md "wikilink")槍身
 <File:Steyr> SSG 69 PII.jpg|斯泰爾SSG 69
-PII，長槍管警用型，[黑色槍身](../Page/黑色.md "wikilink")
+PII，長槍管警用型，[黑色](../Page/黑色.md "wikilink")槍身
 <File:Steyr> SSG 69 PIV.jpg|斯泰爾SSG 69 PIV，短槍管警用型，黑色槍身
 
 ## 參見

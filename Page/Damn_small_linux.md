@@ -1,6 +1,6 @@
 **Damn Small
 Linux**簡稱**DSL**，是種供[x86系列](https://zh.wikipedia.org/wiki/x86 "wikilink")[個人電腦使用的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。最早這個project是由一位非科班出身的電腦玩家[John
-Andrews基於好奇想試試看又小又合用的](https://zh.wikipedia.org/wiki/John_Andrews "wikilink")[Linux能做到怎樣](../Page/Linux.md "wikilink")？結果做出了一張小光碟的[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，而後日漸發展而成。
+Andrews基於好奇想試試看又小又合用的](https://zh.wikipedia.org/wiki/John_Andrews "wikilink")[Linux](../Page/Linux.md "wikilink")能做到怎樣？結果做出了一張小光碟的[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，而後日漸發展而成。
 
 其簡稱[DSL與一種通信技術相同](https://zh.wikipedia.org/wiki/DSL "wikilink")，它也不是[DSLinux](../Page/DSLinux.md "wikilink")。
 
@@ -8,11 +8,11 @@ Andrews基於好奇想試試看又小又合用的](https://zh.wikipedia.org/wiki
 
 DSL只支持[x86构架的个人电脑](https://zh.wikipedia.org/wiki/x86_architecture "wikilink")。最低配置要求为[486处理器和](../Page/Intel_80486.md "wikilink")8
 MB内存. DSL可以在[486和](../Page/Intel_80486.md "wikilink")16
-MB内存的配置上运行[Dillo浏览网页](../Page/Dillo.md "wikilink")，运行小游戏和播放音乐。
+MB内存的配置上运行[Dillo](../Page/Dillo.md "wikilink")浏览网页，运行小游戏和播放音乐。
 
 ## 启动选项
 
-启动选项在DSL、[Knoppix與Morphix中也被叫做](../Page/Knoppix.md "wikilink")“[作弊碼](https://zh.wikipedia.org/wiki/作弊碼 "wikilink")（cheat
+启动选项在DSL、[Knoppix](../Page/Knoppix.md "wikilink")與Morphix中也被叫做“[作弊碼](https://zh.wikipedia.org/wiki/作弊碼 "wikilink")（cheat
 codes）”。有些时候自动硬件检测可能会失效，或者用户需要改变一些默认的设置时，这时就需要启动选项。
 
 ## Live USB

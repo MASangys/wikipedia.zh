@@ -1,5 +1,5 @@
 [Canon_EF_50mm_f_1.0L.JPG](https://zh.wikipedia.org/wiki/File:Canon_EF_50mm_f_1.0L.JPG "fig:Canon_EF_50mm_f_1.0L.JPG")
-**L镜头**是[佳能公司为](../Page/佳能.md "wikilink")[单镜反光相机生产的顶级镜头系列](../Page/单镜反光相机.md "wikilink")。
+**L镜头**是[佳能](../Page/佳能.md "wikilink")公司为[单镜反光相机](../Page/单镜反光相机.md "wikilink")生产的顶级镜头系列。
 
 字母“L”是英文单词“豪华”（Luxury）的第一个字母，L镜头的品質與價格都十分突出。佳能的[变焦和](https://zh.wikipedia.org/wiki/變焦鏡 "wikilink")[定焦L镜头應用于已经淘汰的FD接環以及目前所有EOS相机使用的EF接環](../Page/定焦镜头.md "wikilink")。
 
@@ -16,15 +16,15 @@ L镜头的光学性能都十分突出，一般來說，比佳能的普通镜头�
 大部分L镜头都有如下特征：
 
   - 适合在恶劣环境中使用，如野外。（部分镜头具有防尘防水滴结构）。
-  - 至少一片[萤石或低](../Page/萤石.md "wikilink")[色散](https://zh.wikipedia.org/wiki/色散 "wikilink")（UD或S-UD）镜片，以及[非球面镜片](https://zh.wikipedia.org/wiki/非球面镜片 "wikilink")。
+  - 至少一片[萤石](../Page/萤石.md "wikilink")或低[色散](https://zh.wikipedia.org/wiki/色散 "wikilink")（UD或S-UD）镜片，以及[非球面镜片](https://zh.wikipedia.org/wiki/非球面镜片 "wikilink")。
   - 镜头前端对焦时不旋转，适合使用濾鏡（比如[偏振光镜片](https://zh.wikipedia.org/wiki/偏振光镜片 "wikilink")）。
-  - 相比于同一焦段的其他佳能镜头，[光圈更大](../Page/光圈.md "wikilink")，变焦镜头采用恒定光圈，大部分L镜头都是圆形光圈。
+  - 相比于同一焦段的其他佳能镜头，[光圈](../Page/光圈.md "wikilink")更大，变焦镜头采用恒定光圈，大部分L镜头都是圆形光圈。
   - 以环形超声波对焦马达（USM）驅動對焦，並有全时手动对焦（Full-Time Manual Focus）或电子手动对焦的功能。
 
 一些非L级镜头也带有一项或多项上述特征。一些L镜头还配有镜头图像稳定器（**I**mage
 **S**tabilizer，IS）。某些L变焦镜头采用了内变焦的方式来加强防尘防水滴性能。
 
-较大的L镜头，比如70-200mm或者100-400mm变焦镜头，以及更长（300mm或以上）的定焦镜头，外觀都是[象牙白色塗裝](../Page/象牙.md "wikilink")，使镜头在陽光直射的情况下，鏡筒內也能保持较低的温度，以保证成像品質；因此“白镜头”也成为了佳能长焦镜头的标志。除了已停产的200mm
+较大的L镜头，比如70-200mm或者100-400mm变焦镜头，以及更长（300mm或以上）的定焦镜头，外觀都是[象牙](../Page/象牙.md "wikilink")白色塗裝，使镜头在陽光直射的情况下，鏡筒內也能保持较低的温度，以保证成像品質；因此“白镜头”也成为了佳能长焦镜头的标志。除了已停产的200mm
 f/1.8L和新推出的200mm f/2.0L IS以外，所有焦距在300mm以下的定焦镜头都是黑色的。另外，红圈是L镜头上的标志性特征。
 
 ## 鏡頭

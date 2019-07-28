@@ -3,7 +3,7 @@
 ## 开发
 
 程序源代码需要进行修改以响应GNU
-gettext请求。多数[编程语言均已通过字符封装的方式实现了对其的支持](../Page/编程语言.md "wikilink")。为了减少输入量和代码量，此功能通常以标记[别名](https://zh.wikipedia.org/wiki/别名 "wikilink")“_”的形式使用，所以例如以下[C语言代码](https://zh.wikipedia.org/wiki/C语言 "wikilink")：
+gettext请求。多数[编程语言](../Page/编程语言.md "wikilink")均已通过字符封装的方式实现了对其的支持。为了减少输入量和代码量，此功能通常以标记[别名](https://zh.wikipedia.org/wiki/别名 "wikilink")“_”的形式使用，所以例如以下[C语言代码](https://zh.wikipedia.org/wiki/C语言 "wikilink")：
 
 ``` c
 printf(gettext("My name is %s.\n"), my_name);
@@ -73,7 +73,7 @@ msgid "My name is %s.\n"
 msgstr ""
 ```
 
-翻译者需要手工或使用类似[Poedit](../Page/Poedit.md "wikilink")、[gtranslator](https://zh.wikipedia.org/wiki/gtranslator "wikilink")、[OmegaT或](../Page/OmegaT.md "wikilink")[Emacs等工具的相应模式编辑该文件](../Page/Emacs.md "wikilink")。翻译完成后，文件应为如下的样子：
+翻译者需要手工或使用类似[Poedit](../Page/Poedit.md "wikilink")、[gtranslator](https://zh.wikipedia.org/wiki/gtranslator "wikilink")、[OmegaT](../Page/OmegaT.md "wikilink")或[Emacs](../Page/Emacs.md "wikilink")等工具的相应模式编辑该文件。翻译完成后，文件应为如下的样子：
 
 ``` gettext
 #: src/name.c:36
@@ -85,7 +85,7 @@ msgstr "Je m'appelle %s.\n"
 
 ## 執行
 
-使用[Unix类型操作系统的用户只需设置](https://zh.wikipedia.org/wiki/Unix "wikilink")[环境变量中的](../Page/环境变量.md "wikilink")`LC_MESSAGES(但是ubuntu
+使用[Unix类型操作系统的用户只需设置](https://zh.wikipedia.org/wiki/Unix "wikilink")[环境变量](../Page/环境变量.md "wikilink")中的`LC_MESSAGES(但是ubuntu
 linux 是用LANG)`，程序将自动从相应的`.mo`文件中读取语言信息。
 
 ## 参考

@@ -54,7 +54,7 @@ Beyond**（官方中譯：遠放）是[EXILE的第](https://zh.wikipedia.org/wik
       -
         （作詞：Kenn Kato　作曲：原一博）
         第5張單曲。也收錄在精選專輯『SINGLE
-        BEST』中。[日本電視台的電視劇](../Page/日本電視台.md "wikilink")「[東京獨門獨院](https://zh.wikipedia.org/wiki/東京獨門獨院 "wikilink")」插曲。
+        BEST』中。[日本電視台](../Page/日本電視台.md "wikilink")的電視劇「[東京獨門獨院](https://zh.wikipedia.org/wiki/東京獨門獨院 "wikilink")」插曲。
 11. **can't say words**（4:24）
       -
         （作詞：ATSUSHI　作曲：山木隆一郎）

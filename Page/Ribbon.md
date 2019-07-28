@@ -3,7 +3,7 @@
 **Ribbon**是一種以面板及[標籤頁為架構的](../Page/分頁_\(GUI\).md "wikilink")[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")（User
 Interface），原先出现在[Microsoft Office
 2007後續版本的](../Page/Microsoft_Office_2007.md "wikilink")[Word](https://zh.wikipedia.org/wiki/Word "wikilink")、[Excel和](https://zh.wikipedia.org/wiki/Excel "wikilink")[PowerPoint等組件中](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")，后来也被运用到[Windows
-7的一些附加组件等其它软件中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，如[画图和](../Page/画图.md "wikilink")[WordPad](../Page/WordPad.md "wikilink")，以及[Windows
+7的一些附加组件等其它软件中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，如[画图](../Page/画图.md "wikilink")和[WordPad](../Page/WordPad.md "wikilink")，以及[Windows
 8中的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[檔案總管](../Page/檔案總管.md "wikilink")。[ESRI推出的](https://zh.wikipedia.org/wiki/ESRI "wikilink")[ArcGIS](../Page/ArcGIS.md "wikilink")
 [Explorer](https://zh.wikipedia.org/wiki/ArcGIS_Explorer "wikilink")
 9.4也采用这种界面。它是一个收藏了命令按钮和-{zh-hans:图标;

@@ -1,5 +1,5 @@
 “**This Is
-It**”是已故流行音乐歌手[迈克尔·杰克逊的一首](../Page/迈克尔·杰克逊.md "wikilink")[遗作](https://zh.wikipedia.org/wiki/遗作 "wikilink")[单曲](../Page/单曲.md "wikilink")，出自同名专辑*[This
+It**”是已故流行音乐歌手[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的一首[遗作](https://zh.wikipedia.org/wiki/遗作 "wikilink")[单曲](../Page/单曲.md "wikilink")，出自同名专辑*[This
 Is
 It](../Page/This_Is_It_\(迈克尔·杰克逊专辑\).md "wikilink")*，也是该专辑中唯一的一首未面世的歌曲。\[1\]
 于2009年10月12日起全球发行。原版本时长3分37秒。

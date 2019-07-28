@@ -6,9 +6,9 @@ Kabachnik\[1\] 和 Ellis K. Fields\[2\] 分别在1952年发现。
   -
     [Kabachnik-Fields反应](https://zh.wikipedia.org/wiki/File:Kabachnik-Fields_Reaction.svg "fig:Kabachnik-Fields反应")
 
-反应产物是α-[氨基酸的](../Page/氨基酸.md "wikilink")[磷类似物](../Page/磷.md "wikilink")，可用作[拟肽类化合物](https://zh.wikipedia.org/wiki/拟肽 "wikilink")。
+反应产物是α-[氨基酸](../Page/氨基酸.md "wikilink")的[磷](../Page/磷.md "wikilink")类似物，可用作[拟肽类化合物](https://zh.wikipedia.org/wiki/拟肽 "wikilink")。
 
-反应可为失水剂和[路易斯酸混合物所促进](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")。早期反应仅限于简单的底物（如以[醛为羰基化合物组分](../Page/醛.md "wikilink")），但近年来随着反应应用范围的拓展，空阻较大的底物也可参与反应。
+反应可为失水剂和[路易斯酸混合物所促进](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")。早期反应仅限于简单的底物（如以[醛](../Page/醛.md "wikilink")为羰基化合物组分），但近年来随着反应应用范围的拓展，空阻较大的底物也可参与反应。
 
 ## 反应机理
 

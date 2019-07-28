@@ -7,7 +7,7 @@ kibu 1:150
 [台鐵](https://zh.wikipedia.org/wiki/台鐵 "wikilink")[E1000型推拉式(PP)自強號](https://zh.wikipedia.org/wiki/E1000型推拉式電車 "wikilink")[鐵道模型](../Page/鐵道模型.md "wikilink")\]\]
 [TOUCH_RAIL_MODELS.jpg](https://zh.wikipedia.org/wiki/File:TOUCH_RAIL_MODELS.jpg "fig:TOUCH_RAIL_MODELS.jpg")
 N軌是[線路](https://zh.wikipedia.org/wiki/線路 "wikilink")[軌距為](https://zh.wikipedia.org/wiki/軌距 "wikilink")9mm，比例為1/148～1/160的鐵道模型規格的總稱。小形模型的其中外國以[HO軌](https://zh.wikipedia.org/wiki/HO軌 "wikilink")
-（[OO軌](https://zh.wikipedia.org/wiki/OO軌 "wikilink")）為主流，N軌是在[日本及](../Page/日本.md "wikilink")[台灣最普及的鐵路模型](https://zh.wikipedia.org/wiki/台灣 "wikilink")。在海外，特別是美國一般稱作“N比例（N
+（[OO軌](https://zh.wikipedia.org/wiki/OO軌 "wikilink")）為主流，N軌是在[日本](../Page/日本.md "wikilink")及[台灣最普及的鐵路模型](https://zh.wikipedia.org/wiki/台灣 "wikilink")。在海外，特別是美國一般稱作“N比例（N
 Scale）”，在中國大陸稱作“N軌”，在臺灣則稱為“N規”或“N軌距”。
 
 ## 概要
@@ -18,11 +18,11 @@ Scale）”，在中國大陸稱作“N軌”，在臺灣則稱為“N規”或�
 
 ### N軌的規格、定義
 
-N軌是9mm軌距的鐵道模型系統、比例因國家・地域而異。[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[意大利等歐洲國家及](../Page/意大利.md "wikilink")[美國的比例基準為](https://zh.wikipedia.org/wiki/美國 "wikilink")1/160、[英國的比例標準為](https://zh.wikipedia.org/wiki/英國 "wikilink")1/148。日本及臺灣的[在來線](../Page/在來線.md "wikilink")（1067毫米）列車比例標準為1/150、[新幹線和](../Page/新幹線.md "wikilink")[南满洲铁道](https://zh.wikipedia.org/wiki/南满洲铁道 "wikilink")（1435毫米）車輛則採用1/160。
+N軌是9mm軌距的鐵道模型系統、比例因國家・地域而異。[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[意大利](../Page/意大利.md "wikilink")等歐洲國家及[美國的比例基準為](https://zh.wikipedia.org/wiki/美國 "wikilink")1/160、[英國的比例標準為](https://zh.wikipedia.org/wiki/英國 "wikilink")1/148。日本及臺灣的[在來線](../Page/在來線.md "wikilink")（1067毫米）列車比例標準為1/150、[新幹線](../Page/新幹線.md "wikilink")和[南满洲铁道](https://zh.wikipedia.org/wiki/南满洲铁道 "wikilink")（1435毫米）車輛則採用1/160。
 
 ## 基本性的結構
 
-N比例鐵路模型和大多數的鐵路模型一樣，以[電作為動力來源](../Page/電.md "wikilink")。N比例模型車輛藉由**直流2線式**的電力系統來被操控。兩個軌道一邊作為正極、一邊作為負極，通過軌道和接觸的車輪驅動2個最大電壓12[V的直流電動機讓模型車輛行車](../Page/伏特.md "wikilink")。根據軌道間的電位計從0V到12V間變化讓模型速度加減。變壓器把家用電源降壓，而控制器控制直流電的電壓。這個系統由於是很多全世界性的標準，而全部的製造廠跟隨著。因此，無論是哪個製造廠的N軌車輛，都可在的N軌線路上一起行駛。
+N比例鐵路模型和大多數的鐵路模型一樣，以[電](../Page/電.md "wikilink")作為動力來源。N比例模型車輛藉由**直流2線式**的電力系統來被操控。兩個軌道一邊作為正極、一邊作為負極，通過軌道和接觸的車輪驅動2個最大電壓12[V的直流電動機讓模型車輛行車](../Page/伏特.md "wikilink")。根據軌道間的電位計從0V到12V間變化讓模型速度加減。變壓器把家用電源降壓，而控制器控制直流電的電壓。這個系統由於是很多全世界性的標準，而全部的製造廠跟隨著。因此，無論是哪個製造廠的N軌車輛，都可在的N軌線路上一起行駛。
 
 21世紀初由於電子學技術的進步，新的控制方式誕生了，**[數碼指令控制](https://zh.wikipedia.org/wiki/數碼指令控制 "wikilink")**(**DCC**)在國外越來越流行。這種系統同時能提供12V的電源，並發送數位訊號，對每列車輛的行駛操作進行控制，還能同時控制音效。因為軌道通電的電壓固定為12V，因此車燈的亮度不受到模型列車的速度的影響。現在的直流2線式的車輛如果設置小解碼器也能享受DCC駕駛的樂趣。
 

@@ -2,10 +2,10 @@
 OS
 X平台的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[全景摄影照片拼接软件](https://zh.wikipedia.org/wiki/全景摄影 "wikilink")，由New
 House Internet Services BV开发并维护。其最初是一款基于Helmut Dersch's Panorama
-Tools的[图形化界面前台程序](https://zh.wikipedia.org/wiki/图形化界面 "wikilink")，初始版本发布于2001年。主要功能包含[图像拼接与混合](../Page/影像拼接.md "wikilink")，支持长焦，普通与广角及[鱼眼镜头所拍摄的照片](../Page/鱼眼镜头.md "wikilink")，支持创建普通，圆柱以及球形全景照片。
+Tools的[图形化界面前台程序](https://zh.wikipedia.org/wiki/图形化界面 "wikilink")，初始版本发布于2001年。主要功能包含[图像拼接与混合](../Page/影像拼接.md "wikilink")，支持长焦，普通与广角及[鱼眼镜头](../Page/鱼眼镜头.md "wikilink")所拍摄的照片，支持创建普通，圆柱以及球形全景照片。
 
 现版本有两个分支：普通版与**PTGui
-Pro**，后者还包含[HDR与](https://zh.wikipedia.org/wiki/HDR "wikilink")[色调映射功能](../Page/色调映射.md "wikilink")。
+Pro**，后者还包含[HDR与](https://zh.wikipedia.org/wiki/HDR "wikilink")[色调映射](../Page/色调映射.md "wikilink")功能。
 
 2018年11月的11.7版本中，开始进行语言包支持，含有包括中文在内的可选项\[1\]。
 
@@ -23,8 +23,8 @@ Pro**，后者还包含[HDR与](https://zh.wikipedia.org/wiki/HDR "wikilink")[�
 | 多种投影方式选择                                                                                                                                                 | YES   | YES       |
 | 旋转与倾斜调整功能                                                                                                                                                | YES   | YES       |
 | 创建巨幅全景图：可以通过对数百张图像的拼接来获得数亿像素的全景图                                                                                                                         | YES   | YES       |
-| 支持[JPEG](../Page/JPEG.md "wikilink")，[TIFF与](../Page/TIFF.md "wikilink")[PNG](../Page/PNG.md "wikilink") 格式图像                                            | YES   | YES       |
-| 支持多种相机的[RAW格式图像](../Page/RAW.md "wikilink")（以dcraw提供支持）                                                                                                  | YES   | YES       |
+| 支持[JPEG](../Page/JPEG.md "wikilink")，[TIFF](../Page/TIFF.md "wikilink")与[PNG](../Page/PNG.md "wikilink") 格式图像                                            | YES   | YES       |
+| 支持多种相机的[RAW](../Page/RAW.md "wikilink")格式图像（以dcraw提供支持）                                                                                                  | YES   | YES       |
 | 可创建JPEG，TIFF或[Photoshop格式图像](https://zh.wikipedia.org/wiki/Photoshop "wikilink")                                                                         | YES   | YES       |
 | [Photoshop格式](https://zh.wikipedia.org/wiki/Photoshop "wikilink")（**.psb**）图层输出支持                                                                        | YES   | YES       |
 | 支持16位图像                                                                                                                                                  | YES   | YES       |

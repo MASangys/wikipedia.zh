@@ -1,7 +1,7 @@
 [MBK_Centre_201801.jpg](https://zh.wikipedia.org/wiki/File:MBK_Centre_201801.jpg "fig:MBK_Centre_201801.jpg")
 [MBK_Center_Atrium_201801.jpg](https://zh.wikipedia.org/wiki/File:MBK_Center_Atrium_201801.jpg "fig:MBK_Center_Atrium_201801.jpg")
 **MBK購物中心**（；或 MBK
-Center），位於[泰國的首都](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷的巴吞旺縣之](../Page/曼谷.md "wikilink")[披耶泰路的巨大](https://zh.wikipedia.org/wiki/披耶泰路 "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")。它樓面長330公呎，共有8層樓及2,500多間店鋪，總面積約890,000平方公呎，在1985年開幕時，曾經是[亞洲最大的商場](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。它售賣的貨品及服務包括：成衣，化妝品，皮革，珠寶，電子，通訊設備，家具，餐廳，電影院，卡拉OK及佔地4層的「[東急百貨店](../Page/東急百貨店.md "wikilink")」。
+Center），位於[泰國的首都](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")的巴吞旺縣之[披耶泰路的巨大](https://zh.wikipedia.org/wiki/披耶泰路 "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")。它樓面長330公呎，共有8層樓及2,500多間店鋪，總面積約890,000平方公呎，在1985年開幕時，曾經是[亞洲最大的商場](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。它售賣的貨品及服務包括：成衣，化妝品，皮革，珠寶，電子，通訊設備，家具，餐廳，電影院，卡拉OK及佔地4層的「[東急百貨店](../Page/東急百貨店.md "wikilink")」。
 
 由於規模宏大，被公認為曼谷的地標建築物之一。更位於曼谷的核心地段，每天接待105,000客戶，其中包括30,000名外國遊客。
 

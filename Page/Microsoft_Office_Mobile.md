@@ -1,7 +1,7 @@
 **Microsoft Office
 Mobile**是由[Microsoft为](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows
 10
-Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android等移动设备操作系统开发的一套](../Page/Android.md "wikilink")[办公套件](https://zh.wikipedia.org/wiki/办公套件 "wikilink")。该套件由Word
+Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")等移动设备操作系统开发的一套[办公套件](https://zh.wikipedia.org/wiki/办公套件 "wikilink")。该套件由Word
 Mobile、Excel Mobile、PowerPoint Mobile、OneNote Mobile以及Outlook
 Mobile组成。它亦都与[桌面版本兼容](../Page/Microsoft_Office.md "wikilink")。在2000年4月随Pocket
 PC 2000操作系统首次发行时，Office Mobile被称为“Pocket Office”，在此之后此套件进行了数次更新。
@@ -53,7 +53,7 @@ Word）文档，不过这类文档必须以其他受支持的格式保存。\[8\
 Word 中插入，而且无法被删除。\[9\]另外，Word Mobile
 还包含[拼写检查](https://zh.wikipedia.org/wiki/拼写检查 "wikilink")、[字数统计工具以及](https://zh.wikipedia.org/wiki/字数统计 "wikilink")“查找和替换”命令。尽管在
 Word Mobile
-的文档中无法显示或插入诸如[脚注](../Page/脚注.md "wikilink")、[尾注](https://zh.wikipedia.org/wiki/尾注 "wikilink")、[页眉](https://zh.wikipedia.org/wiki/页眉 "wikilink")、[页脚](https://zh.wikipedia.org/wiki/页脚 "wikilink")、[分页符](https://zh.wikipedia.org/wiki/分页符 "wikilink")、某些[缩进以及某些](https://zh.wikipedia.org/wiki/缩进 "wikilink")[字体等元素](../Page/字体.md "wikilink")，不过若原文档包含这些元素，它们并不会被删去，依然保留。\[10\]
+的文档中无法显示或插入诸如[脚注](../Page/脚注.md "wikilink")、[尾注](https://zh.wikipedia.org/wiki/尾注 "wikilink")、[页眉](https://zh.wikipedia.org/wiki/页眉 "wikilink")、[页脚](https://zh.wikipedia.org/wiki/页脚 "wikilink")、[分页符](https://zh.wikipedia.org/wiki/分页符 "wikilink")、某些[缩进以及某些](https://zh.wikipedia.org/wiki/缩进 "wikilink")[字体](../Page/字体.md "wikilink")等元素，不过若原文档包含这些元素，它们并不会被删去，依然保留。\[10\]
 
 ### Excel Mobile
 

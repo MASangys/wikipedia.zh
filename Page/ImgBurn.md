@@ -17,7 +17,7 @@ Decrypter的光盘刻录引擎，但是它不能绕过被加密DVD的复制保�
     DVD视频光盘（来自HVDVD_TS目录）以及Blu-ray视频光盘（来自BDAV/BDMV目录）。
   - 完整支持[Unicode文件夹名](https://zh.wikipedia.org/wiki/Unicode "wikilink")/文件名。
   - 支持环境：Windows
-    95，98，Me，NT4，2000，XP，2003，Vista和2008（包括所有64位版本）。[Wine也被官方支持](../Page/Wine.md "wikilink")。
+    95，98，Me，NT4，2000，XP，2003，Vista和2008（包括所有64位版本）。[Wine](../Page/Wine.md "wikilink")也被官方支持。
   - [Image
     queue](http://www.imgburn.com/index.php?act=screenshots#isowrite_queue)为最简化刻录多个映像提供支持。
   - ImgBurn与其他[类似软件相比相当小巧](https://zh.wikipedia.org/wiki/光盘创作软件列表 "wikilink")，完全安装仅需1.8MB。

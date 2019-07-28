@@ -1,4 +1,4 @@
-**Gboard**（**Google鍵盤**）是[Google為](../Page/Google.md "wikilink")[Android和](../Page/Android.md "wikilink")[iOS裝置开发的](https://zh.wikipedia.org/wiki/iOS "wikilink")[输入法程序](../Page/输入法.md "wikilink")，提供滑行輸入及語音輸入等功能，并支援输入三百余種語言。
+**Gboard**（**Google鍵盤**）是[Google](../Page/Google.md "wikilink")為[Android](../Page/Android.md "wikilink")和[iOS裝置开发的](https://zh.wikipedia.org/wiki/iOS "wikilink")[输入法](../Page/输入法.md "wikilink")程序，提供滑行輸入及語音輸入等功能，并支援输入三百余種語言。
 
 ## 特點
 

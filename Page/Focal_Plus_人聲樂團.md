@@ -1,5 +1,5 @@
 **Focal
-Plus人聲樂團**，是台灣的純人聲演唱（[阿卡貝拉](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")）[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。他們的音樂除了歌曲主旋律、豐富的人聲和聲之外，也包含了適當的[節奏口技以及](../Page/節奏口技.md "wikilink")[擬聲](https://zh.wikipedia.org/wiki/擬聲 "wikilink")（scat）唱法。由於人聲樂團往往利用[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、[音響等現代設備](../Page/音響.md "wikilink")，創造出更多元的音樂形式，因此與傳統合唱團的音樂差異甚大。Focal
+Plus人聲樂團**，是台灣的純人聲演唱（[阿卡貝拉](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")）[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。他們的音樂除了歌曲主旋律、豐富的人聲和聲之外，也包含了適當的[節奏口技](../Page/節奏口技.md "wikilink")以及[擬聲](https://zh.wikipedia.org/wiki/擬聲 "wikilink")（scat）唱法。由於人聲樂團往往利用[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、[音響](../Page/音響.md "wikilink")等現代設備，創造出更多元的音樂形式，因此與傳統合唱團的音樂差異甚大。Focal
 Plus人聲樂團除了具有純人聲演唱的特色之外，又常常在舞台上融入了華麗的服裝與舞蹈，形成其特殊的音樂風格。
 
 ## 簡介
@@ -11,7 +11,7 @@ Plus人聲樂團。
 Focal Plus人聲樂團之團員來自不同的地方，皆有多年的演唱經驗，對於歌唱與表演的有著無比的熱情，相遇之後一拍即合。
 
 2007年Focal
-Plus邀請到前NHK音樂總監、現為橫跨台灣流行樂界與古典樂界的音樂家--[櫻井弘二老師量身編製](https://zh.wikipedia.org/wiki/櫻井弘二 "wikilink")《[港都夜雨](https://zh.wikipedia.org/wiki/港都夜雨 "wikilink")》、《[後知後覺](https://zh.wikipedia.org/wiki/後知後覺 "wikilink")》兩曲，同時於台灣合唱中心所主辦的台灣國際重唱大賽初試啼聲，於國內及國際賽當中獲得極佳的成績，榮獲國內賽第二名（第一名從缺）、國際賽第三名、同時獲得最佳人聲打擊（國內國際）、最佳編曲、[爵士演唱](../Page/爵士.md "wikilink")、中文歌曲、舞台呈現等多項大獎。亮眼的表現讓國內外評審及參賽團體皆留下深刻的印象。
+Plus邀請到前NHK音樂總監、現為橫跨台灣流行樂界與古典樂界的音樂家--[櫻井弘二老師量身編製](https://zh.wikipedia.org/wiki/櫻井弘二 "wikilink")《[港都夜雨](https://zh.wikipedia.org/wiki/港都夜雨 "wikilink")》、《[後知後覺](https://zh.wikipedia.org/wiki/後知後覺 "wikilink")》兩曲，同時於台灣合唱中心所主辦的台灣國際重唱大賽初試啼聲，於國內及國際賽當中獲得極佳的成績，榮獲國內賽第二名（第一名從缺）、國際賽第三名、同時獲得最佳人聲打擊（國內國際）、最佳編曲、[爵士](../Page/爵士.md "wikilink")演唱、中文歌曲、舞台呈現等多項大獎。亮眼的表現讓國內外評審及參賽團體皆留下深刻的印象。
 
 2008年7月赴[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[格拉茲參加世界](https://zh.wikipedia.org/wiki/格拉茲 "wikilink")[阿卡貝拉大賽](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")，在諸多強隊當中脫穎而出，獲得銀牌獎的肯定。
 

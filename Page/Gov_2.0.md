@@ -1,5 +1,5 @@
 **Gov
-2.0**（**政府2.0**）是由[提姆·奥莱理于](https://zh.wikipedia.org/wiki/提姆·奥莱理 "wikilink")2009年9月4日在techcruch網頁提出，他認為[政府應當視為一個平台](../Page/政府.md "wikilink")（Government
+2.0**（**政府2.0**）是由[提姆·奥莱理于](https://zh.wikipedia.org/wiki/提姆·奥莱理 "wikilink")2009年9月4日在techcruch網頁提出，他認為[政府](../Page/政府.md "wikilink")應當視為一個平台（Government
 As A Platform）提供網路服務（Web
 Services），政府機構不應只是提供[網站](../Page/網站.md "wikilink")，而應該提供網路服務，這些服務實際上就是政府的[软件开发工具包](../Page/软件开发工具包.md "wikilink")。\[1\]
 

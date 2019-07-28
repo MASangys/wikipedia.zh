@@ -1,6 +1,6 @@
 [Les_Paul.jpg](https://zh.wikipedia.org/wiki/File:Les_Paul.jpg "fig:Les_Paul.jpg")與他的訂製[Gibson
 Les Paul](../Page/Gibson_Les_Paul.md "wikilink")\]\]
-這是依照英文字母順序排列的[Gibson](https://zh.wikipedia.org/wiki/Gibson "wikilink")[吉他使用者列表](../Page/吉他.md "wikilink")，其中都是曾有在現場表演或錄音室製作唱片時使用Gibson吉他的紀錄的人物，但由於Gibson吉他十分普及，因此，只有對使用Gibson吉他有以下特別意義的音樂家才會被列於本列表中：
+這是依照英文字母順序排列的[Gibson](https://zh.wikipedia.org/wiki/Gibson "wikilink")[吉他](../Page/吉他.md "wikilink")使用者列表，其中都是曾有在現場表演或錄音室製作唱片時使用Gibson吉他的紀錄的人物，但由於Gibson吉他十分普及，因此，只有對使用Gibson吉他有以下特別意義的音樂家才會被列於本列表中：
 
   - 有長期的音樂經歷，並是Gibson吉他的忠實使用者
   - 使用的是Gibson獨一無二或具有重大意義的著名樂器

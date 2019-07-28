@@ -9,7 +9,7 @@ Tech
 
 除了仿照《雷神之锤II》的特点，游戏引入了躲闪特性。
 
-CRX引擎添加了大量新技术，比如32位[材质贴图](../Page/材质贴图.md "wikilink")、[GLSL](../Page/GLSL.md "wikilink")、[视差映射](https://zh.wikipedia.org/wiki/视差映射 "wikilink")、[着色器](../Page/着色器.md "wikilink")；从7.30开始，全平台使用[OpenAL处理音频](../Page/OpenAL.md "wikilink")\[1\]。
+CRX引擎添加了大量新技术，比如32位[材质贴图](../Page/材质贴图.md "wikilink")、[GLSL](../Page/GLSL.md "wikilink")、[视差映射](https://zh.wikipedia.org/wiki/视差映射 "wikilink")、[着色器](../Page/着色器.md "wikilink")；从7.30开始，全平台使用[OpenAL](../Page/OpenAL.md "wikilink")处理音频\[1\]。
 
 武器拥有两种射击模式。
 

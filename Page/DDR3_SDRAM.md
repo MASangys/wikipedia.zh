@@ -1,6 +1,6 @@
 **第三代雙倍資料率同步動態隨機存取記憶體**（Double-Data-Rate Three Synchronous Dynamic
 Random Access Memory，一般稱為DDR3
-SDRAM），是一種電腦[記憶體規格](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。它屬於[SDRAM家族的記憶體產品](../Page/SDRAM.md "wikilink")，提供相較於[DDR2
+SDRAM），是一種電腦[記憶體規格](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。它屬於[SDRAM](../Page/SDRAM.md "wikilink")家族的記憶體產品，提供相較於[DDR2
 SDRAM更高的運行效能與更低的電壓](../Page/DDR2_SDRAM.md "wikilink")，是DDR2
 SDRAM（四倍資料率同步動態隨機存取記憶體）的後繼者（增加至八倍）。
 
@@ -34,7 +34,7 @@ Self-Refresh）局部Bank刷新的功能，可以說針對整個記憶體Bank做
     Chop（突發突變）模式，即由一個BL=4的讀取操作加上一個BL=4的寫入操作來合成一個BL=8的數據突發傳輸，屆時可透過A12位址線來控制這一突發模式。而且需要指出的是，任何突發中斷操作都將在DDR3記憶體中予以禁止，且不予支持，取而代之的是更靈活的突發傳輸控制（如4bit順序突發）。
 4.  尋址時序（Timing），就像DDR2從DDR轉變而來後延遲週期數增加一樣，DDR3的CL週期也將比DDR2有所提升。DDR2的CL範圍一般在2至6之間，而DDR3則在6至11之間，且附加延遲（AL）的設計也有所變化。DDR2時AL的範圍是0至4，而DDR3時AL有三種選項，分別是0、CL-1和CL-2。另外，DDR3還新增加一個時序參數──寫入延遲（CWD），這一參數將根據具體的工作頻率而定。
 5.  新增功能──重置（Reset），重置是DDR3新增的一項重要功能，並為此專門準備一個引腳。[DRAM業界很早以前就要求增加這一功能](https://zh.wikipedia.org/wiki/DRAM "wikilink")，如今終於在DDR3身上實現。這一引腳將使DDR3的初始化處理變得簡單。當重置命令有效時，DDR3記憶體將停止所有的操作，並切換至最少量活動的狀態，以節約電力。在重置期間，DDR3記憶體將關閉內在的大部分功能，所有數據接收與發送器都將關閉、所有內部的程式裝置將復位，DLL（延遲鎖相環路）與時鐘電路將停止工作，而且不理睬數據匯流排上的任何動靜。這樣一來，將使DDR3達到最節省電力的目的。
-6.  新增功能──ZQ校準，ZQ也是一個新增的腳，在這個引腳上接有一個240[歐姆的低公差參考電阻](../Page/歐姆.md "wikilink")。這個引腳透過一個命令集，經由片上校準引擎（ODCE，On-Die
+6.  新增功能──ZQ校準，ZQ也是一個新增的腳，在這個引腳上接有一個240[歐姆](../Page/歐姆.md "wikilink")的低公差參考電阻。這個引腳透過一個命令集，經由片上校準引擎（ODCE，On-Die
     Calibration Engine）來自動校驗數據輸出驅動器導通電阻與終結電阻器（ODT，On-Die
     Termination）的終結電阻值。當系統發出這一指令之後，將用相對應的時鐘週期（在加電與初始化之後用512個時鐘週期，在退出自刷新操作後用256個時鐘週期、在其他情況下用64個時鐘週期）對導通電阻和ODT電阻進行重新校準。
 
@@ -162,8 +162,8 @@ Self-Refresh）局部Bank刷新的功能，可以說針對整個記憶體Bank做
 </table>
 
 DDR3
-SDRAM在[記憶體模組上](https://zh.wikipedia.org/wiki/記憶體模組 "wikilink")，針對[桌上型電腦開發出](../Page/桌上型電腦.md "wikilink")240pin
-DIMM模組、在[筆記型電腦則是](../Page/筆記型電腦.md "wikilink")204pin
+SDRAM在[記憶體模組上](https://zh.wikipedia.org/wiki/記憶體模組 "wikilink")，針對[桌上型電腦](../Page/桌上型電腦.md "wikilink")開發出240pin
+DIMM模組、在[筆記型電腦](../Page/筆記型電腦.md "wikilink")則是204pin
 SO-DIMM，更高的運作時脈還有DDR3-1800、DDR3-2000、DDR3-2133和DDR3-2200四種。
 
 ## SPD芯片
@@ -175,10 +175,10 @@ detect）芯片，该芯片EEPROM存储于SMbus之上，其中包括内存模组
 
 2010年7月26日，JEDEC發佈DDR3L標準。\[1\]
 
-DDR3的電壓為1.5V，而DDR3L的電壓為1.35V，記憶體模組上會標記為PC3L。DDR3U的電壓為1.25V，標記為PC3U。低電壓RAM的用電量較少，但性能会弱于标压DDR3，主要用於[手提電腦和](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")[Skylake微架構與更新的CPU](../Page/Skylake微架構.md "wikilink")。
+DDR3的電壓為1.5V，而DDR3L的電壓為1.35V，記憶體模組上會標記為PC3L。DDR3U的電壓為1.25V，標記為PC3U。低電壓RAM的用電量較少，但性能会弱于标压DDR3，主要用於[手提電腦和](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")[Skylake微架構](../Page/Skylake微架構.md "wikilink")與更新的CPU。
 
 DDR3L内存的SPD芯片里包含支持电压的数据，可根据主板内存插槽的支持自适应1.5V或者1.35V的工作电压。理论上2011年发布的[Sandy
-Bridge与](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")2010年发布的[Capella平台的](https://zh.wikipedia.org/wiki/Capella "wikilink")1.5V内存插槽也能识别支持DDR3L内存条。但是，只有在2012年发布的[Ivy
+Bridge与](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")2010年发布的Calpella平台的1.5V内存插槽也能识别支持DDR3L内存条。但是，只有在2012年发布的[Ivy
 Bridge或](https://zh.wikipedia.org/wiki/Ivy_Bridge "wikilink")2013年发布的[Haswell平台上](https://zh.wikipedia.org/wiki/Haswell "wikilink")，DDR3L内存条才能工作于1.35V电压。\[2\]
 
 ## 參見

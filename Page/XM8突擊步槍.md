@@ -10,7 +10,7 @@ CDTE）兩件獨立的武器
 ## 歷史
 
 在[XM29
-OICW計劃遭受挫折後](../Page/XM29_OICW.md "wikilink")，[美國陸軍仍然積極地尋求一款取代現役制式步槍的武器](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")。目的是要以一種更便宜、更輕和更有效的武器取代[M16突擊步槍和](../Page/M16突擊步槍.md "wikilink")[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")。XM8為一種模組化武器系統，它能夠很容易地透過更換少量零件就變成由短槍管[個人防衛武器到配備](../Page/個人防衛武器.md "wikilink")[兩腳架的班用支援武器](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。它還裝有一個內置式[瞄準鏡和](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")[激光指示器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")。
+OICW計劃遭受挫折後](../Page/XM29_OICW.md "wikilink")，[美國陸軍仍然積極地尋求一款取代現役制式步槍的武器](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")。目的是要以一種更便宜、更輕和更有效的武器取代[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")和[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")。XM8為一種模組化武器系統，它能夠很容易地透過更換少量零件就變成由短槍管[個人防衛武器](../Page/個人防衛武器.md "wikilink")到配備[兩腳架的班用支援武器](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。它還裝有一個內置式[瞄準鏡和](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")[激光指示器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")。
 
 XM8的設計是源自由開發的XM29
 OICW的步槍部份，而該武器的內部設計則是由H\&K負責。在OICW計劃無限期延遲後，美國陸軍要求承包商設計出一種源自XM29設計的獨立使用武器。
@@ -21,7 +21,7 @@ OICW的步槍部份，而該武器的內部設計則是由H\&K負責。在OICW�
 其真正原因一直成為外界辯論的話題。一些人總結了上面提到的技術性問題，資金限制和外部施壓等因素。
 
 2005年，陸軍針對OICW增量一型系列武器提出了一項正式的“要求提案”（Request for
-Proposals，REP）。這項REP給生產商6個月時間來研製和交付性能類似於XM8的原型武器，但額外新增了的版本。OICW增量一型對於班用自動武器的要求包括：具備快速更換槍管的能力和高持續性火力，但在供彈方面則由生產商決定。然而目前還沒有任何XM8的原型槍具備類似於[M249班用自動武器的性能](../Page/M249班用自動武器.md "wikilink")（如：能快速更換槍管、持續性火力強以及以[彈鏈供彈等](../Page/彈鏈.md "wikilink")）。
+Proposals，REP）。這項REP給生產商6個月時間來研製和交付性能類似於XM8的原型武器，但額外新增了的版本。OICW增量一型對於班用自動武器的要求包括：具備快速更換槍管的能力和高持續性火力，但在供彈方面則由生產商決定。然而目前還沒有任何XM8的原型槍具備類似於[M249班用自動武器](../Page/M249班用自動武器.md "wikilink")的性能（如：能快速更換槍管、持續性火力強以及以[彈鏈](../Page/彈鏈.md "wikilink")供彈等）。
 
 此外，陸軍亦被批准了為開發[M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")（前稱：XM320）進行撥資，該武器類似於[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")，為一款最初針對XM8而設計的下掛型單發式榴彈發射器。儘管比起M203更笨重，該武器依然提供了一些優勢。M320被設計成能夠對應在M16、M4和XM8等多種突擊步槍上，不過亦可單獨使用。
 
@@ -30,7 +30,7 @@ OICW增量一型的REP被暫停了8個星期，並展現出該計劃被重組為
 
 於2006年4月26日發表的一篇文章中所提到，“美國陸軍推遲了購買未來單兵武器，為時會超過5年，並正積極尋找兩種過渡性槍械。”
 
-通用動力參與了XM8後期開發，而H\&K則打算在美國[喬治亞州的工廠生產該步槍](../Page/喬治亞州.md "wikilink")。在計劃開始期間，H\&K為一間英國擁有的公司，但後來被德國的投資者買回。研發工作在美國和德國的設施內進行。
+通用動力參與了XM8後期開發，而H\&K則打算在美國[喬治亞州](../Page/喬治亞州.md "wikilink")的工廠生產該步槍。在計劃開始期間，H\&K為一間英國擁有的公司，但後來被德國的投資者買回。研發工作在美國和德國的設施內進行。
 
 ### 接近取消
 
@@ -53,12 +53,12 @@ Proving Ground）、每型槍枝十把，執行總計60,000次測試射擊，結
 ## 設計
 
 XM8為一款發射[5.56×45mm
-NATO小口徑步槍彈的](../Page/5.56×45mm_NATO.md "wikilink")[擊發調變式](https://zh.wikipedia.org/wiki/擊發調變式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。它以[短行程活塞導氣式和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓運作](../Page/轉拴式槍栓.md "wikilink")，性能和內部結構跟HK
-G36接近，[槍托為伸縮式設計](../Page/槍托.md "wikilink")，供彈具也是跟G36一樣的半透明彈匣，並能夠把多個連接在一起以方便換子彈。但也因此不能在不裝上適配器的情況下通用[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。
+NATO小口徑步槍彈的](../Page/5.56×45mm_NATO.md "wikilink")[擊發調變式](https://zh.wikipedia.org/wiki/擊發調變式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。它以[短行程活塞導氣式和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")運作，性能和內部結構跟HK
+G36接近，[槍托](../Page/槍托.md "wikilink")為伸縮式設計，供彈具也是跟G36一樣的半透明彈匣，並能夠把多個連接在一起以方便換子彈。但也因此不能在不裝上適配器的情況下通用[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。
 
 ### 材料和重量
 
-除了冷鍛式鋼製槍管以外，XM8的其他部件幾乎都是以製成。儘管仍然有一些投訴，在[沙漠和](../Page/沙漠.md "wikilink")[北極環境進行過的初步測試證實XM](https://zh.wikipedia.org/wiki/北極 "wikilink")8是一件相當堅固的武器。
+除了冷鍛式鋼製槍管以外，XM8的其他部件幾乎都是以製成。儘管仍然有一些投訴，在[沙漠](../Page/沙漠.md "wikilink")和[北極環境進行過的初步測試證實XM](https://zh.wikipedia.org/wiki/北極 "wikilink")8是一件相當堅固的武器。
 
 能夠節省成本和重量的源頭在於武器的電子瞄準鏡。它是一具能夠放大1.5倍的[紅點鏡](../Page/紅點鏡.md "wikilink")，裡面還包含了紅外激光指示器。一枝沒經改裝的XM8卡賓槍能夠與一枝裝上各種前代電子配件（如：[AN/PEQ-2雷射瞄準器](https://zh.wikipedia.org/wiki/AN/PEQ-2雷射瞄準器 "wikilink")、[Aimpoint
 Comp
@@ -106,7 +106,7 @@ XM8的另一個特點就是其模組化設計。除了上述的附件以外，�
 [File:XM8.jpg|美國陸軍領導層試射XM8](File:XM8.jpg%7C美國陸軍領導層試射XM8)
 [File:XM8Compact.jpg|士兵試射XM8緊湊卡賓型](File:XM8Compact.jpg%7C士兵試射XM8緊湊卡賓型)
 <File:XM8wXM320>
-sharpshooter.jpg|試射裝上[M320榴彈發射器的XM](../Page/M320榴彈發射器.md "wikilink")8卡賓型的士兵（單膝跪地者）與另一名試射精確射手型的士兵
+sharpshooter.jpg|試射裝上[M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")的XM8卡賓型的士兵（單膝跪地者）與另一名試射精確射手型的士兵
 <File:XM8> and
 Marine.jpg|[美國海軍陸戰隊武器導師手持XM](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")8
 <File:Navy> PASKAL frogman strike team personnels with HK weapons during
@@ -128,7 +128,7 @@ NDP.JPG|馬來西亞[海軍特種作戰部隊裝備的XM](https://zh.wikipedia.o
     Warfighter）：可裝上[M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")。
   - 2007年—《[-{zh-cn:反恐精英Online;
     zh-tw:絕對武力Online}-](../Page/絕對武力Online.md "wikilink")》（Counter-Strike
-    Online）：為原型槍，沙色槍身。在遊戲内設定為[恐怖份子的初始化武器](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，能依戰況更換[槍管及瞄準鏡切換為](../Page/槍管.md "wikilink")[卡賓槍型及](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")[精確射手步槍型](../Page/精確射手步槍.md "wikilink")。
+    Online）：為原型槍，沙色槍身。在遊戲内設定為[恐怖份子的初始化武器](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，能依戰況更換[槍管](../Page/槍管.md "wikilink")及瞄準鏡切換為[卡賓槍型及](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")[精確射手步槍](../Page/精確射手步槍.md "wikilink")型。
   - 2007年—《[AVA Online](../Page/戰地之王.md "wikilink")》（Alliance of Valiant
     Arms）：使用步槍型號，裝有原裝瞄準鏡，可進行改造。
   - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》（Crossfire）：为原型枪，使用银灰色涂装，命名为“XM8”，需要达到上等兵军衔方可使用18000GP购买并永久使用，可以按右键使用[红点镜瞄准](https://zh.wikipedia.org/wiki/红点镜 "wikilink")，拥有较高的稳定性，但是远距离散布过大以及与购入价格不符的高昂的维修费用时期饱受诟病。拥有改进型“XM8-A”，在原枪的基础之上改用黄色涂装并将弹匣扩容至35发。
@@ -183,8 +183,8 @@ NDP.JPG|馬來西亞[海軍特種作戰部隊裝備的XM](https://zh.wikipedia.o
   - 2012年—《[-{zh-cn:使命召唤：黑色行动II; zh-tw:決勝時刻：黑色行動II;
     zh-hk:使命召喚：黑色行動II}-](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call
     of Duty: Black Ops II）：
-    命名為“M8A1”，沙色槍身，有著近未來的造型，在故事模式當中具[全自動射擊功能](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，而在聯機模式則只有[三發點放功能](../Page/三發點放.md "wikilink")。其載彈量為32發（聯機模式時可使用改裝：延長彈匣增至42發），初始攜彈量為192發（故事模式）和96發（聯機模式），最高攜彈量為416發（故事模式）、256發（聯機模式）和192發（殭屍模式）。故事模式之中完成「致命的面紗」（Achilles'
-    Veil）戰役以後解鎖，被[美國海軍特戰開發小組](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")、[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[第75遊騎兵團](https://zh.wikipedia.org/wiki/第75遊騎兵團 "wikilink")、[美國特勤局](https://zh.wikipedia.org/wiki/美國特勤局 "wikilink")、[僱傭兵及](../Page/僱傭兵.md "wikilink")[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級49解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（在故事模式使用此改裝會轉為4發點放；而在聯機模式則轉為全自動）、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器。
+    命名為“M8A1”，沙色槍身，有著近未來的造型，在故事模式當中具[全自動射擊功能](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，而在聯機模式則只有[三發點放](../Page/三發點放.md "wikilink")功能。其載彈量為32發（聯機模式時可使用改裝：延長彈匣增至42發），初始攜彈量為192發（故事模式）和96發（聯機模式），最高攜彈量為416發（故事模式）、256發（聯機模式）和192發（殭屍模式）。故事模式之中完成「致命的面紗」（Achilles'
+    Veil）戰役以後解鎖，被[美國海軍特戰開發小組](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")、[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[第75遊騎兵團](https://zh.wikipedia.org/wiki/第75遊騎兵團 "wikilink")、[美國特勤局](https://zh.wikipedia.org/wiki/美國特勤局 "wikilink")、[僱傭兵](../Page/僱傭兵.md "wikilink")及[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級49解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（在故事模式使用此改裝會轉為4發點放；而在聯機模式則轉為全自動）、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器。
   - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
     2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
     Online 2）：型號為XM8卡賓型，命名為“XM8 Carbine”。

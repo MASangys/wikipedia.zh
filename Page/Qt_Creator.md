@@ -41,7 +41,7 @@ Qt Creator 帶有一個程式碼編輯器，並整合 Qt Designer ，使用 Qt w
 ### 程式碼編輯器
 
 Qt
-Creator的代码编辑器用于辅助创建，编辑，浏览代码，具有对[C++及](../Page/C++.md "wikilink")[QML语言完整的表达式检查](../Page/QML.md "wikilink")，代码补全，上下文关联，键入代码时的行间错误即时指示等功能：
+Creator的代码编辑器用于辅助创建，编辑，浏览代码，具有对[C++](../Page/C++.md "wikilink")及[QML](../Page/QML.md "wikilink")语言完整的表达式检查，代码补全，上下文关联，键入代码时的行间错误即时指示等功能：
 
   - 整排出规范代码
   - 代码自动补全

@@ -1,5 +1,5 @@
 **UTADA HIKARU SINGLE CLIP COLLECTION+
-VOL.3**為[宇多田光第三部影音特輯](../Page/宇多田光.md "wikilink")，於2002年9月30日以[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[VHS形式發行](../Page/VHS.md "wikilink")。
+VOL.3**為[宇多田光](../Page/宇多田光.md "wikilink")第三部影音特輯，於2002年9月30日以[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[VHS](../Page/VHS.md "wikilink")形式發行。
 
 ## 概要
 
@@ -10,7 +10,7 @@ VOL.3**為[宇多田光第三部影音特輯](../Page/宇多田光.md "wikilink"
   - 有別於以往兩部影音特輯的標題，這次UH3刻意在標題中加上"+"號，是因為"**SINGLE**
     CLIP"這名字顧名思義應該只收錄曾發行單曲的PV，但這次卻收錄從未發行過單曲而又拍攝了PV的[Deep
     River](../Page/DEEP_RIVER.md "wikilink")，故在標題中加上"+"號。
-  - 本影音特輯內所有PV均由宇多田光的前夫[紀里谷和明執導](../Page/紀里谷和明.md "wikilink")。
+  - 本影音特輯內所有PV均由宇多田光的前夫[紀里谷和明](../Page/紀里谷和明.md "wikilink")執導。
 
 ## 收錄內容
 

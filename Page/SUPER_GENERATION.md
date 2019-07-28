@@ -1,5 +1,5 @@
 **SUPER
-GENERATION**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")13张单曲CD。2006年1月18日发售，商品編号KICM-1156。在[Oricon公信榜周排行榜上](../Page/Oricon.md "wikilink")，最高排行第6位。單曲「SUPER
+GENERATION**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")13张单曲CD。2006年1月18日发售，商品編号KICM-1156。在[Oricon](../Page/Oricon.md "wikilink")公信榜周排行榜上，最高排行第6位。單曲「SUPER
 GENERATION」是水樹奈奈第一次作曲。
 
 ## 收錄曲

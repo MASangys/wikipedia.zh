@@ -1,4 +1,4 @@
-**f(x)**（，）是[SM娛樂於](../Page/SM娛樂.md "wikilink")2009年推出的[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，初時由五名不同國籍的成員組成，成員包括有中國籍[Victoria](../Page/宋茜.md "wikilink")、台裔美籍[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、韓國籍[Luna](../Page/朴善英.md "wikilink")、[Sulli](../Page/崔真理.md "wikilink")(已退出)及美韓雙籍[Krystal](../Page/鄭秀晶.md "wikilink")，由Victoria擔任隊長。f(x)是SM旗下擁有最多國籍的女子組合。2009年9月5日以首張數位單曲《[LA
+**f(x)**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2009年推出的[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，初時由五名不同國籍的成員組成，成員包括有中國籍[Victoria](../Page/宋茜.md "wikilink")、台裔美籍[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、韓國籍[Luna](../Page/朴善英.md "wikilink")、[Sulli](../Page/崔真理.md "wikilink")(已退出)及美韓雙籍[Krystal](../Page/鄭秀晶.md "wikilink")，由Victoria擔任隊長。f(x)是SM旗下擁有最多國籍的女子組合。2009年9月5日以首張數位單曲《[LA
 chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》正式出道。
 
 2015年8月7日，成員[Sulli退出f](../Page/崔真理.md "wikilink")(x)組合，組合以四人形式繼續活動。
@@ -7,7 +7,7 @@ chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》正式出道。
 
 ### 團名由來
 
-團體名稱是用獨特的數學記號「[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")」來匿名的，就如同隨著x的價值不同就會有不同的結果數值一樣，在團員們多樣的才能與魅力之下，不光只是在韓國，更是在亞洲各國都會有全方位發展的意義存在，除此之外「f」是「flower」的縮寫，「x」又代表x的變化如同[公式一樣](https://zh.wikipedia.org/wiki/公式 "wikilink")，以擁有多元化的才能及無限魅力來展開絢麗多采的舞台活動，並滿懷抱負力求成為席捲全[亞洲各國風潮的女子團體](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，所以延伸出f(x)像[花一樣的女生們能代表亞洲成長為潮流指標](../Page/花.md "wikilink")，也有著成為亞洲最棒的流行舞蹈團體的抱負。\[1\]
+團體名稱是用獨特的數學記號「[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")」來匿名的，就如同隨著x的價值不同就會有不同的結果數值一樣，在團員們多樣的才能與魅力之下，不光只是在韓國，更是在亞洲各國都會有全方位發展的意義存在，除此之外「f」是「flower」的縮寫，「x」又代表x的變化如同[公式一樣](https://zh.wikipedia.org/wiki/公式 "wikilink")，以擁有多元化的才能及無限魅力來展開絢麗多采的舞台活動，並滿懷抱負力求成為席捲全[亞洲各國風潮的女子團體](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，所以延伸出f(x)像[花](../Page/花.md "wikilink")一樣的女生們能代表亞洲成長為潮流指標，也有著成為亞洲最棒的流行舞蹈團體的抱負。\[1\]
 
 ### 應援顏色
 
@@ -88,7 +88,7 @@ LineData =
 GROUP）」\[5\]為題的預告片。9月1日，正式發行首張數位單曲《[LA chA
 TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》的音源。9月2日，在首爾三成洞纖維中心進行首個公開演出和亮相並通過YouTube公開主打曲《LA
 chA TA》的MV\[6\]。主打曲《LA chA
-TA》由曾為[SM娛樂多個組合編寫歌曲的韓國作曲人](../Page/SM娛樂.md "wikilink")[Kenzie所製作](../Page/Kenzie.md "wikilink")，以睿智的歌詞和輕快的旋律製造清新明快的氣氛。9月5日，以該曲在MBC《[Show\!
+TA》由曾為[SM娛樂](../Page/SM娛樂.md "wikilink")多個組合編寫歌曲的韓國作曲人[Kenzie](../Page/Kenzie.md "wikilink")所製作，以睿智的歌詞和輕快的旋律製造清新明快的氣氛。9月5日，以該曲在MBC《[Show\!
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》正式出道。10月8日，與[少女時代共同代言LG](https://zh.wikipedia.org/wiki/少女時代 "wikilink")「Chocolate」手機，並演繹廣告歌《[Chocolate
 Love](../Page/Chocolate_Love.md "wikilink")》的電子版。
 
@@ -107,7 +107,7 @@ ABO》專輯中的歌曲〈Mr. Boogie〉，並分別於7月17日《[Show\!
 [F(x)_2012_Expo_1.jpg](https://zh.wikipedia.org/wiki/File:F\(x\)_2012_Expo_1.jpg "fig:F(x)_2012_Expo_1.jpg")舞台上。（Sulli因劇集拍攝未能參加。）\]\]
 2011年年初，SM娛樂宣佈f(x)計劃於上半年推出首張正規專輯\[13\]。成員Amber自去年因腳踝受傷需要到美國洛杉磯休養後，其間關於Amber將離開f(x)的謠言不斷\[14\]。直至Amber回到韓國，出現在f(x)新一期的LG手機代言宣傳照及SM娛樂發表Amber將從f(x)回歸的公告後才打破謠言\[15\]\[16\]。1月26日，一張f(x)在舞蹈室為新專輯練習的照片於社交網站上流出，讓不少粉絲期待f(x)的合體回歸\[17\]\[18\]。4月7日，f(x)韓國官方網站釋出首張正規專輯《[Pinocchio](../Page/Pinocchio_\(f\(x\)_專輯\).md "wikilink")》的概念照。4月18日，通過YouTube公開主打曲《Pinocchio（Danger）》的MV\[19\]。主打歌《Pinocchio（Danger）》是一首由強烈節拍和獨特吉他旋律組成的電子流行舞曲，透過嶄新的音樂突出成員的鮮明個性和實力，展現f(x)的另一種魅力。4月20日，正式發行首張正規專輯《Pinocchio》的音源和唱片。4月22日，於KBS《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》公開《Pinocchio》回歸初舞台。f(x)憑著首張正規專輯《Pinocchio》首次摘下韓國音樂節目的一位，並贏得共八個一位。6月14日，正式發行首張正規改版專輯《[Hot
 Summer](../Page/Hot_Summer_\(Repackage\).md "wikilink")》的音源和唱片。6月17日，通過YouTube公開主打曲《Hot
-Summer》的MV\[20\]。該曲改编自德國女子組合[Monrose於](../Page/Monrose.md "wikilink")2007年推出的第二張正規專輯《》收錄歌曲《Hot
+Summer》的MV\[20\]。該曲改编自德國女子組合[Monrose](../Page/Monrose.md "wikilink")於2007年推出的第二張正規專輯《》收錄歌曲《Hot
 Summer》\[21\]。《Hot
 Summer》在音樂節目中獲得了兩個第一位。截至該年底，首張正規專輯《Pinocchio》和首張正規改版專輯《Hot
 Summer》的唱片出貨量合共達10萬7669張\[22\]，也再次見證f(x)的強大的獨特音樂力量已成功征服全世界的歌迷。
@@ -127,7 +127,7 @@ Shock》獲得《第14屆[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎
 
 2013年3月12日，f(x)受邀出席在美國德克薩斯州Elysium Nightclub舉行的世界音樂節「SXSW South By
 Southwest 2013」，成為首個出席此音樂節的韓國偶像團體\[26\]。3月28日，「FUNNY OR
-DIE」網站公開f(x)與好萊塢演員[安娜·姬妲妮攜手拍攝的喜劇](../Page/安娜·姬妲妮.md "wikilink")「Anna
+DIE」網站公開f(x)與好萊塢演員[安娜·姬妲妮](../Page/安娜·姬妲妮.md "wikilink")攜手拍攝的喜劇「Anna
 Kendrick goes K-Pop with f(x)」\[27\]，成為首個參與FUNNY OR DIE拍攝的韓國偶像團體 \[28\]。
 
 7月17日，一個充滿復古風格的「藝術電影」\[29\]被上載到SM娛樂的官方YouTube頻道，這標誌著f(x)將會回歸。這個視頻預告的特色是圍繞著「影子」並以收錄歌曲《Shadow》作插曲，成員Krystal念著英文旁白作為預告開頭，預告還剪輯了f(x)為《[Pink
@@ -137,7 +137,7 @@ Pum
 Pum」這一歌詞相互交融，營造出歡快舒暢的氛圍。歌詞把初戀比喻成智齒，姍姍而來的初戀就像最後長出來的智齒會排擠別的牙齒，可充分感受到f(x)差別化的音樂色彩。7月24日，通過YouTube公開主打曲《Rum
 Pum Pum Pum》的MV\[31\]。7月25日，於《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》公開回歸初舞台。7月29日，正式發行第二張正規專輯《Pink
-Tape》的音源和唱片並透過由韓國著名搜索引擎網站[NAVER舉辦的](../Page/NAVER.md "wikilink")「f(x)
+Tape》的音源和唱片並透過由韓國著名搜索引擎網站[NAVER](../Page/NAVER.md "wikilink")舉辦的「f(x)
 Music Spoiler PLAY\! PINK TAPE」\[32\]去介紹新專輯製作過程、公開MV花絮影像等。主打歌《初智齒（Rum
 Pum Pum Pum）》在音源發佈後隨即登上包括MelOn、Mnet Music、Bugs、Soribada、Olleh
 Music、Naver Music、Daum
@@ -151,7 +151,7 @@ Tape》被美國音樂頻道FUSE TV選為「The 41 Best Albums of
 2013」中的第22名，f(x)是韓國，也是亞洲區唯一入榜的歌手\[33\]。12月23日，《Pink
 Tape》專輯主打歌《初智齒（Rum Pum Pum Pum）》被美國音樂雜誌Billboard選定為“20 Best K-Pop Songs
 of
-2013”中第三位。f(x)和[EXO分別於](../Page/EXO.md "wikilink")12月24日和25日在韓國首爾國際展覽中心聯合舉行了兩場名為《SMTOWN
+2013”中第三位。f(x)和[EXO](../Page/EXO.md "wikilink")分別於12月24日和25日在韓國首爾國際展覽中心聯合舉行了兩場名為《SMTOWN
 WEEK f(x) & EXO Christmas Wonderland》的演唱會\[34\]。
 
 ### 2014年：國際的肯定、成員Sulli暫停演藝活動
@@ -164,7 +164,7 @@ BOYS](https://zh.wikipedia.org/wiki/The_Boys_\(專輯\) "wikilink")》\[39\]。
 
 6月27日，被韓國媒體公認每張專輯都能展現給大家不一樣音樂風格和帶給大家不同色彩的f(x)，宣佈將在7月7日帶著第三張正規專輯《[Red
 Light](../Page/Red_Light.md "wikilink")》回歸\[40\]。6月30日和7月1日，在f(x)官方網站公開這次專輯中收錄的兩曲的事先試聽音源。據報導，因《Red
-Light》歌詞內容提及重型裝備製造廠商[卡特彼勒的特定產品](../Page/卡特彼勒.md "wikilink")，被[KBS認為有廣告意圖](../Page/韓國放送公社.md "wikilink")，所以遭判審查不合格\[41\]。其後，SM娛樂為不讓f(x)於[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》的回歸舞台上受到任何阻擾，將「卡特彼勒（Caterpillar）」一詞修改成「無限軌道」後再次提交審查並獲得通過\[42\]。7月3日，通過YouTube公開主打曲《Red
+Light》歌詞內容提及重型裝備製造廠商[卡特彼勒](../Page/卡特彼勒.md "wikilink")的特定產品，被[KBS認為有廣告意圖](../Page/韓國放送公社.md "wikilink")，所以遭判審查不合格\[41\]。其後，SM娛樂為不讓f(x)於[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》的回歸舞台上受到任何阻擾，將「卡特彼勒（Caterpillar）」一詞修改成「無限軌道」後再次提交審查並獲得通過\[42\]。7月3日，通過YouTube公開主打曲《Red
 Light》的MV\[43\]，並於[Mnet](../Page/Mnet媒體.md "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》首次公開因強烈的能量和節奏的轉折，形成令人印象深刻的Electric
 House風格的主打歌《Red Light》初舞台\[44\]。此外，f(x)分別在音樂節目上表演由世界知名製作人Teddy
@@ -172,7 +172,7 @@ Riley和Kenzie合作的一首凸顯獨特節奏的Urban R\&B歌曲《MILK》\[45
 和運用大眾的曲調和特色的可愛並且感性的歌詞的Uptempo流行舞曲《All
 Night》\[46\]。7月7日，正式發行第三張正規專輯《Red Light》的音源和唱片，包括Type A（Sleepy
 Cats）和Type B（Wild Cats）兩個專輯版本，當中共收錄了11首歌曲的，成員Amber亦參與收錄歌曲《Summer
-Lover》的作曲。7月16日，f(x)首次於[手機應用程式](../Page/流動應用程式.md "wikilink")[KakaoTalk推出](../Page/KakaoTalk.md "wikilink")「Hello,
+Lover》的作曲。7月16日，f(x)首次於[手機應用程式](../Page/流動應用程式.md "wikilink")[KakaoTalk](../Page/KakaoTalk.md "wikilink")推出「Hello,
 f(x)」貼圖。
 
 繼去年，f(x)第二張正規專輯《Pink Tape》被美國音樂頻道FUSE TV選為「The 41 Best Albums of
@@ -199,21 +199,21 @@ Light》成为了[Tumblr的](https://zh.wikipedia.org/wiki/Tumblr "wikilink")
 
 [F(x)_London_Korea_Festival_2015_05.JPG](https://zh.wikipedia.org/wiki/File:F\(x\)_London_Korea_Festival_2015_05.JPG "fig:F(x)_London_Korea_Festival_2015_05.JPG")[倫敦特拉法加廣場舉行的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")「London
 Korean Festival 2015」舞台上。\]\]
-2015年2月4日，[SM娛樂於社交網站上傳了一張印有](../Page/SM娛樂.md "wikilink")「[Beautiful](../Page/Beautiful_\(迷你专辑\).md "wikilink")」字條的[幸運餅乾並暗示Amber即將以個人身份出道](https://zh.wikipedia.org/wiki/幸運餅乾 "wikilink")。2月13日，[Amber於KBS](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》以首張迷你專輯《Beautiful》主打歌〈Shake
+2015年2月4日，[SM娛樂](../Page/SM娛樂.md "wikilink")於社交網站上傳了一張印有「[Beautiful](../Page/Beautiful_\(迷你专辑\).md "wikilink")」字條的[幸運餅乾並暗示Amber即將以個人身份出道](https://zh.wikipedia.org/wiki/幸運餅乾 "wikilink")。2月13日，[Amber於KBS](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》以首張迷你專輯《Beautiful》主打歌〈Shake
 That Brass〉\[55\]正式個人出道。
 
-5月29日，[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[社交網站](https://zh.wikipedia.org/wiki/社交網站 "wikilink")[微博傳出宋茜已單方面提出與](../Page/微博.md "wikilink")[SM娛樂正式解約的傳聞](../Page/SM娛樂.md "wikilink")。5月30日，SM娛樂對此事件作出否認，並表示將為宋茜開設工作室進行[中國國內的活動](../Page/中國.md "wikilink")\[56\]。6月25日，韓國媒體Herald經濟報導，Sulli將會退出f(x)並專心朝演員的方向前進，SM娛樂對此事件僅表示目前內部未確定Sulli未來動向，會慎重處理此事\[57\]。
+5月29日，[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[社交網站](https://zh.wikipedia.org/wiki/社交網站 "wikilink")[微博](../Page/微博.md "wikilink")傳出宋茜已單方面提出與[SM娛樂](../Page/SM娛樂.md "wikilink")正式解約的傳聞。5月30日，SM娛樂對此事件作出否認，並表示將為宋茜開設工作室進行[中國](../Page/中國.md "wikilink")國內的活動\[56\]。6月25日，韓國媒體Herald經濟報導，Sulli將會退出f(x)並專心朝演員的方向前進，SM娛樂對此事件僅表示目前內部未確定Sulli未來動向，會慎重處理此事\[57\]。
 
 7月22日，發行日語特別单曲《[SUMMER SPECIAL Pinocchio / Hot
 Summer](https://zh.wikipedia.org/wiki/SUMMER_SPECIAL_Pinocchio_/_Hot_Summer "wikilink")》，单曲發行僅2天即登上日本oricon排行榜第4名。7月25日，在[日本](../Page/日本.md "wikilink")[大阪舉辦](https://zh.wikipedia.org/wiki/大阪 "wikilink")「'SUMMER
 SPECIAL Pinocchio / Hot Summer' in
-Japan」宣傳活動\[58\]。8月7日，[SM娛樂通過韓國社交媒體表示尊重Sulli集中個人演技活動的意願](../Page/SM娛樂.md "wikilink")，同意Sulli退出f(x)組合，今後f(x)將以四人組合繼續活動\[59\]。8月9日，四人組f(x)受邀出席在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦特拉法加廣場舉行的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")「London
+Japan」宣傳活動\[58\]。8月7日，[SM娛樂](../Page/SM娛樂.md "wikilink")通過韓國社交媒體表示尊重Sulli集中個人演技活動的意願，同意Sulli退出f(x)組合，今後f(x)將以四人組合繼續活動\[59\]。8月9日，四人組f(x)受邀出席在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦特拉法加廣場舉行的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")「London
 Korean Festival
 2015」，當日吸引近3萬名粉絲，此人氣備受關注，且為各家媒體爭相報導的內容，也成功在當地引起話題\[60\]。9月22日，Cantara
-Global於[社交網站](https://zh.wikipedia.org/wiki/社交網站 "wikilink")[Facebook公開f](../Page/Facebook.md "wikilink")(x)舉辦騰訊專屬演唱會的宣傳視頻。9月30日，f(x)騰訊專屬演唱會於韓國京畿道議政府藝術殿堂舉行，綫上直播吸引146萬人觀看\[61\]。
+Global於[社交網站](https://zh.wikipedia.org/wiki/社交網站 "wikilink")[Facebook](../Page/Facebook.md "wikilink")公開f(x)舉辦騰訊專屬演唱會的宣傳視頻。9月30日，f(x)騰訊專屬演唱會於韓國京畿道議政府藝術殿堂舉行，綫上直播吸引146萬人觀看\[61\]。
 
 10月20日，SM娛樂為f(x)開設instagram帳戶並宣佈f(x)在時隔1年3個月後攜正規四輯《[4
-Walls](../Page/4_Walls.md "wikilink")》回歸。10月21日至26日，於[首爾](../Page/首爾.md "wikilink")[梨泰院舉辦](../Page/梨泰院.md "wikilink")\[4
+Walls](../Page/4_Walls.md "wikilink")》回歸。10月21日至26日，於[首爾](../Page/首爾.md "wikilink")[梨泰院](../Page/梨泰院.md "wikilink")舉辦\[4
 WALLS\] AN EXHIBIT，首次以投影方式公開成員概念照。10月27日，正式發行第四張正規專輯《4 Walls》的音源並公開主打曲〈4
 Walls〉\[62\]的MV。10月28日，SM娛樂宣布f(x)將會於2016年1月30及31日在首爾奧林匹克公園的奧林匹克大廳舉辦出道六年來的首次單獨演唱會。f(x)以主打歌〈4
 Walls〉在《[M\!
@@ -228,9 +228,9 @@ Station](https://zh.wikipedia.org/wiki/f\(x\)_the_1st_concert_DIMENSION_4–Dock
 
 ### 2016年－2018年：首次單獨演唱會、官方粉絲名《MeU》、成員Luna個人出道、首次MV突破一億點閱率、成員個人活動
 
-繼[SM娛樂在](../Page/SM娛樂.md "wikilink")2014年以《Electric Shock》和《Pink
+繼[SM娛樂](../Page/SM娛樂.md "wikilink")在2014年以《Electric Shock》和《Pink
 Tape》獲得《紅點設計大獎》的佳績後，今年以f(x)第四張正規專輯《4
-Walls》獲得《[IF產品設計獎2016](../Page/IF產品設計獎.md "wikilink")》包裝設計部門獎的殊榮\[67\]。
+Walls》獲得《[IF產品設計獎](../Page/IF產品設計獎.md "wikilink")2016》包裝設計部門獎的殊榮\[67\]。
 
 1月29至31日，f(x)一連3天於首爾奧林匹克公園舉辦《[f(x) the 1st concert DIMENSION 4–Docking
 Station](https://zh.wikipedia.org/wiki/f\(x\)_the_1st_concert_DIMENSION_4–Docking_Station "wikilink")》，並在演唱會上宣佈韓國官方粉絲名稱為「미유」（意思為
@@ -245,7 +245,7 @@ STATION发行了单曲](../Page/SM_STATION.md "wikilink")《All
 Mine》。10月2日，成员 Amber 及 Luna 续 《Wave》之后再次合作发行 《Heartbeat》。
 
 10月16日，2012年6月發行的第二張迷你專輯中同名主打歌《Electric
-Shock》，歷經4年4個月後正式突破一億點閱率的大關，成為繼[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[2NE1後第三組MV突破一億點閱率的女子組合](../Page/2NE1.md "wikilink")。
+Shock》，歷經4年4個月後正式突破一億點閱率的大關，成為繼[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[2NE1](../Page/2NE1.md "wikilink")後第三組MV突破一億點閱率的女子組合。
 
 11月2日，f(x)的日語單曲《[4 Walls /
 COWBOY](https://zh.wikipedia.org/wiki/4_Walls_/_COWBOY "wikilink")》正式發售，并公開了其中的第一首日文原唱曲目《COWBOY》。
@@ -625,7 +625,7 @@ Reminiscin'》。
 
 ## 獎項與榮譽
 
-f(x)作為2009年出道的[韓國流行音樂新人](../Page/韓國流行音樂.md "wikilink")，已獲得《2009 Bugs
+f(x)作為2009年出道的[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")新人，已獲得《2009 Bugs
 Music
 Awards》「最佳新人」、《》「九月份最佳新人」、《第17屆韓國文化演藝大獎》「最佳新人獎」\[74\]和《第17屆大韓民國演藝藝術賞》「最佳新人歌手獎」\[75\]，也入圍了《第11屆[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》「最佳新人女子組合」和《第18屆[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")》「新人賞」。f(x)出道兩年後，首次摘下韓國音樂節目的獎項，並憑首張正規專輯《Pinocchio》拿下《第26屆[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")》「唱片本賞」和《2011
 Bugs Music Awards》「年度最佳MV」\[76\]。

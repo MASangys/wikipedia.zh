@@ -13,10 +13,10 @@ Editor）\[1\]\[2\]是一種基於[MLT框架](../Page/Media_Lovin'_Toolkit.md "w
 
 ## 特色
 
-[Kdenlive_video_effects.png](https://zh.wikipedia.org/wiki/File:Kdenlive_video_effects.png "fig:Kdenlive_video_effects.png")Kdenlive支持[FFmpeg的所有格式](../Page/FFmpeg.md "wikilink")(如[QuickTime](../Page/QuickTime.md "wikilink")、[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")、[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")、[MPEG和](../Page/MPEG.md "wikilink")[Flash](https://zh.wikipedia.org/wiki/Flash "wikilink"))，也支持[4:3和](https://zh.wikipedia.org/wiki/4:3 "wikilink")[16:9縱橫比在](https://zh.wikipedia.org/wiki/16:9 "wikilink")[PAL和](https://zh.wikipedia.org/wiki/PAL "wikilink")[NTSC系統](https://zh.wikipedia.org/wiki/NTSC "wikilink")。和各種HD標準，包括[HDV](../Page/HDV.md "wikilink")。影片也可以輸出到[DV裝置](https://zh.wikipedia.org/wiki/DV "wikilink")，或將章節和一個簡單的菜單寫入[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+[Kdenlive_video_effects.png](https://zh.wikipedia.org/wiki/File:Kdenlive_video_effects.png "fig:Kdenlive_video_effects.png")Kdenlive支持[FFmpeg](../Page/FFmpeg.md "wikilink")的所有格式(如[QuickTime](../Page/QuickTime.md "wikilink")、[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")、[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")、[MPEG](../Page/MPEG.md "wikilink")和[Flash](https://zh.wikipedia.org/wiki/Flash "wikilink"))，也支持[4:3和](https://zh.wikipedia.org/wiki/4:3 "wikilink")[16:9縱橫比在](https://zh.wikipedia.org/wiki/16:9 "wikilink")[PAL和](https://zh.wikipedia.org/wiki/PAL "wikilink")[NTSC系統](https://zh.wikipedia.org/wiki/NTSC "wikilink")。和各種HD標準，包括[HDV](../Page/HDV.md "wikilink")。影片也可以輸出到[DV裝置](https://zh.wikipedia.org/wiki/DV "wikilink")，或將章節和一個簡單的菜單寫入[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 \[5\]\[6\]
 
-0.7版後包括一些新的功能：一個現代的、簡約的界面基於[KDE的](../Page/KDE.md "wikilink")[Oxygen](https://zh.wikipedia.org/wiki/Oxygen "wikilink")、FireWire攝像機、webcam和Linux設備的影片擷取、從您的屏幕抓取影片、支持jog
+0.7版後包括一些新的功能：一個現代的、簡約的界面基於[KDE](../Page/KDE.md "wikilink")的[Oxygen](https://zh.wikipedia.org/wiki/Oxygen "wikilink")、FireWire攝像機、webcam和Linux設備的影片擷取、從您的屏幕抓取影片、支持jog
 shuttle設備、高清晰度編輯和無損格式。\[7\]
 
 Kdenlive利用了一些框架，以提供一系列的音樂和影片效果和過場，包括[MLT](https://zh.wikipedia.org/wiki/MLT "wikilink")、Frei0r、[SOX和](https://zh.wikipedia.org/wiki/SOX "wikilink")[LADSPA](../Page/LADSPA.md "wikilink")。

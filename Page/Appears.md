@@ -1,4 +1,4 @@
-《**appears**》（現身）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilink")11張單曲，1999年11月10日於日本發售。
+《**appears**》（現身）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第11張單曲，1999年11月10日於日本發售。
 
 ## 說明
 
@@ -11,11 +11,11 @@
   - 至於本作收錄於2003年的抒情精選輯《[A
     BALLADS](../Page/A_BALLADS.md "wikilink")》之中的則是新編曲版本。
   - 本作為濱崎步少數有收錄c/w曲的單曲，下一張有收錄c/w曲的單曲為2000年4月26日發行的第14張單曲《[vogue](https://zh.wikipedia.org/wiki/vogue "wikilink")》。
-  - 本作的[音樂錄影帶於](../Page/音樂錄影帶.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約街道拍攝而成](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
+  - 本作的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約街道拍攝而成](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
   - 本作的封面與第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》相互呼應，均是上半身赤裸拍攝，以長髮遮掩胸部的照片。當時本作的封面暱稱為「黑ayu」，第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》的封面則暱稱為「白ayu」。
   - 本作收錄的混音歌曲除了《appears》與c/w曲《immature》外，尚有第6張單曲《[WHATEVER](../Page/WHATEVER.md "wikilink")》的混音版本。
   - 本作為第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》實質的先行單曲。
-  - 本作發行時，與當時聲勢如日中天的歌姬[宇多田光發行的單曲](../Page/宇多田光.md "wikilink")《[Addicted
+  - 本作發行時，與當時聲勢如日中天的歌姬[宇多田光](../Page/宇多田光.md "wikilink")發行的單曲《[Addicted
     To You](../Page/Addicted_To_You.md "wikilink")》對打，宇多田挾著首張原創專輯《[First
     Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")》大賣765萬張的氣勢，單曲發行後首週大破106萬，使濱崎步的《**appears**》屈居第二（此作完全限定生產30萬張）。
 

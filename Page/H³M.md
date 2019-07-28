@@ -1,4 +1,4 @@
-《**H³M**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2009年3月23日發行，由廣東俚語「黑口黑面」的[粵語拼音首字母組成](https://zh.wikipedia.org/wiki/粵語拼音 "wikilink")。但由於語言限制問題，內地版本專輯名被打趣的稱為《**好好好賣**》；而台灣版本則定名為《**H³M
+《**H³M**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2009年3月23日發行，由廣東俚語「黑口黑面」的[粵語拼音首字母組成](https://zh.wikipedia.org/wiki/粵語拼音 "wikilink")。但由於語言限制問題，內地版本專輯名被打趣的稱為《**好好好賣**》；而台灣版本則定名為《**H³M
 好好好賣**》。
 
 ## 專輯簡介
@@ -6,8 +6,8 @@
 陳奕迅於07-09年開辦世界巡迴演唱會「[Eason's Moving On Stage World
 Tour](https://zh.wikipedia.org/wiki/Eason's_Moving_On_Stage_World_Tour "wikilink")」，隨團的樂隊成員包括[單立文](../Page/單立文.md "wikilink")、[Gary
 Tong](https://zh.wikipedia.org/wiki/Gary_Tong "wikilink")、[Davy
-Chan](https://zh.wikipedia.org/wiki/Davy_Chan "wikilink")（香港著名樂隊[LMF的樂手](../Page/LMF.md "wikilink")）、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")、[Joey
-Tang](https://zh.wikipedia.org/wiki/Joey_Tang "wikilink")（香港樂隊[太極樂隊結他手](../Page/太極樂隊.md "wikilink")）、[Pat
+Chan](https://zh.wikipedia.org/wiki/Davy_Chan "wikilink")（香港著名樂隊[LMF](../Page/LMF.md "wikilink")的樂手）、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")、[Joey
+Tang](https://zh.wikipedia.org/wiki/Joey_Tang "wikilink")（香港樂隊[太極樂隊](../Page/太極樂隊.md "wikilink")結他手）、[Pat
 Lui](../Page/雷有暉.md "wikilink")、[柳重言](../Page/柳重言.md "wikilink")、[孫偉明](https://zh.wikipedia.org/wiki/孫偉明 "wikilink")、[黃仲賢](https://zh.wikipedia.org/wiki/黃仲賢 "wikilink"),
 [C.Y.Kong及](https://zh.wikipedia.org/wiki/C.Y.Kong "wikilink")[史丹利
 Stanley
@@ -41,13 +41,13 @@ Party》等重新編曲和錄製。C.Y.Kong恐怕Eason會太過著重專輯的�
 
 其後亦同年4月分別舉行兩場「Moov撻著校園」音樂會。在2009年4月6日於[香港中文大學舉行的](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")「Moov撻著校園
 陳奕迅撻著中大」音樂會\[2\]\[3\]，陳奕迅與樂隊演唱部份專輯歌曲的Acoutsic
-版本，而在2009年4月13日於[香港理工大學舉行的](../Page/香港理工大學.md "wikilink")「Moov撻著校園
+版本，而在2009年4月13日於[香港理工大學](../Page/香港理工大學.md "wikilink")舉行的「Moov撻著校園
 陳奕迅撻著理大」音樂會\[4\]\[5\]，陳奕迅與樂隊以Electronica
 方法重新演奏部份作品。兩場音樂會收錄在收費音樂網站[MOOV](../Page/MOOV.md "wikilink")\[6\]。
 
-陳奕迅其後與[新城電台合作](../Page/新城電台.md "wikilink")，於2009年6月11日在[香港會議展覽中心舉行一場](../Page/香港會議展覽中心.md "wikilink")「新城極品陳奕迅
+陳奕迅其後與[新城電台](../Page/新城電台.md "wikilink")合作，於2009年6月11日在[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行一場「新城極品陳奕迅
 SAME WRONG SIN
-音樂會」\[7\]。他以專輯封面滿面鬍子的造型演出，演唱了新專輯的所有歌曲，更邀請同公司的樂隊[Mr.和組合](../Page/Mr..md "wikilink")[Swing合唱](https://zh.wikipedia.org/wiki/Swing "wikilink")《Everyone》、《搖擺》等歌曲。
+音樂會」\[7\]。他以專輯封面滿面鬍子的造型演出，演唱了新專輯的所有歌曲，更邀請同公司的樂隊[Mr.](../Page/Mr..md "wikilink")和組合[Swing合唱](https://zh.wikipedia.org/wiki/Swing "wikilink")《Everyone》、《搖擺》等歌曲。
 
 ## 外間評價
 
@@ -60,7 +60,7 @@ a.m.》。此曲巧妙地描述一個填詞人被催促交稿的心境，加上�
 band](../Page/大樂團.md "wikilink") 編曲的派台歌，最後登上「903 專業推介」、「997 勁爆流行榜」、「RTHK
 中文歌曲龍虎榜」香港三大電台流行榜的冠軍位置。
 
-即使是曲式較大眾化的歌曲如《七百年後》、《沙龍》等，亦不乏支持者。《沙龍》歌詞談論攝影與人生的關係，形容攝影就是將生活每個細節拍下，留住時間和記憶。此曲甚至得到當時[立法會](https://zh.wikipedia.org/wiki/立法會 "wikilink")[議員](https://zh.wikipedia.org/wiki/議員 "wikilink")[梁家傑在其專欄文章中介紹](../Page/梁家傑.md "wikilink")\[10\]。
+即使是曲式較大眾化的歌曲如《七百年後》、《沙龍》等，亦不乏支持者。《沙龍》歌詞談論攝影與人生的關係，形容攝影就是將生活每個細節拍下，留住時間和記憶。此曲甚至得到當時[立法會](https://zh.wikipedia.org/wiki/立法會 "wikilink")[議員](https://zh.wikipedia.org/wiki/議員 "wikilink")[梁家傑](../Page/梁家傑.md "wikilink")在其專欄文章中介紹\[10\]。
 
 陳奕迅自《[Listen To Eason
 Chan](../Page/Listen_To_Eason_Chan.md "wikilink")》兩年後再次推出全新粵語專輯，使他在各地樂壇頒獎禮中大穫豐收，取得極佳成績。除了得到香港[2009年度四台聯頒音樂大獎的大碟獎外](../Page/2009年度四台聯頒音樂大獎得獎名單.md "wikilink")，還使他得到[華語金曲獎](https://zh.wikipedia.org/wiki/華語金曲獎 "wikilink")2010多達6項台前幕後的獎項提名，包括「最佳粵語男歌手」、「年度最佳粵語專輯」「年度最佳粵語歌曲」、「最佳作詞人」（林若寧《七百年後》）、「最佳專輯企劃」、「最佳封套設計」。專輯內以《七百年後》一曲獲得大中華地區音樂頒獎禮最多獎項與提名，無疑成為Eason其中一首代表作。
@@ -162,13 +162,13 @@ Chan](../Page/Listen_To_Eason_Chan.md "wikilink")》兩年後再次推出全新�
 
   - [H³M - 環球唱片專頁](http://www.umg.com.hk/minisite/eason_h3m_phase2/)
   - [無臣論ＩDavy Chan X Joey
-    Tang](https://web.archive.org/web/20090829081212/http://www.expresspost.com.hk/ent/ent_content.asp?contid=52688&srctype=g)，[頭條日報網站](../Page/頭條日報.md "wikilink")，資料來源[東Touch](https://zh.wikipedia.org/wiki/東Touch "wikilink")，2009年6月19日查閱
+    Tang](https://web.archive.org/web/20090829081212/http://www.expresspost.com.hk/ent/ent_content.asp?contid=52688&srctype=g)，[頭條日報](../Page/頭條日報.md "wikilink")網站，資料來源[東Touch](https://zh.wikipedia.org/wiki/東Touch "wikilink")，2009年6月19日查閱
   - [無臣論ⅠⅠ Gary Tong X Pam
-    Chung](http://www.hkheadline.com/ent/ent_content.asp?track=&contid=53494&srctype=g)，[頭條日報網站](../Page/頭條日報.md "wikilink")，資料來源[東Touch](https://zh.wikipedia.org/wiki/東Touch "wikilink")，2009年6月19日查閱
+    Chung](http://www.hkheadline.com/ent/ent_content.asp?track=&contid=53494&srctype=g)，[頭條日報](../Page/頭條日報.md "wikilink")網站，資料來源[東Touch](https://zh.wikipedia.org/wiki/東Touch "wikilink")，2009年6月19日查閱
   - \[<http://www.hkheadline.com/ent/ent_content.asp?contid=53497&srctype=g&hl=%B5L%A6%DA%BD%D7>　無臣論Ⅲ
     Yin Wong x Anthony
-    Su\]，[頭條日報網站](../Page/頭條日報.md "wikilink")，資料來源[東Touch](https://zh.wikipedia.org/wiki/東Touch "wikilink")，2009年6月19日查閱
-  - [HMV的站內介紹](http://www.hmv.com.hk/ch/product/canto.asp?sku=406061)，[HMV網站](../Page/HMV.md "wikilink")，2009年6月19日查閱
+    Su\]，[頭條日報](../Page/頭條日報.md "wikilink")網站，資料來源[東Touch](https://zh.wikipedia.org/wiki/東Touch "wikilink")，2009年6月19日查閱
+  - [HMV的站內介紹](http://www.hmv.com.hk/ch/product/canto.asp?sku=406061)，[HMV](../Page/HMV.md "wikilink")網站，2009年6月19日查閱
 
 [Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
 [Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink")

@@ -1,4 +1,4 @@
-**Google音乐**是[谷歌中国与](../Page/谷歌中国.md "wikilink")[巨鲸音乐网合作于](../Page/巨鲸音乐网.md "wikilink")2009年3月30日推出的一款音乐搜索产品，提供大量经唱片公司授权的正版音乐MP3供用户免费下载，由于与唱片公司有签署版权协-{}-议，所以按照协-{}-议规定，产品服务范围仅限于[中国大陆地区](../Page/中国大陆.md "wikilink")，其他地区均无法使用该搜索服务。\[1\]
+**Google音乐**是[谷歌中国](../Page/谷歌中国.md "wikilink")与[巨鲸音乐网](../Page/巨鲸音乐网.md "wikilink")合作于2009年3月30日推出的一款音乐搜索产品，提供大量经唱片公司授权的正版音乐MP3供用户免费下载，由于与唱片公司有签署版权协-{}-议，所以按照协-{}-议规定，产品服务范围仅限于[中国大陆](../Page/中国大陆.md "wikilink")地区，其他地区均无法使用该搜索服务。\[1\]
 
 2012年9月21日，谷歌中国宣布关闭Google音乐。\[2\]
 
@@ -10,16 +10,16 @@
 
 ## 音乐来源
 
-Google音乐是谷歌中国与巨鲸音乐网合作的产品，巨鲸音乐网与[百代](https://zh.wikipedia.org/wiki/百代 "wikilink")、[索尼](../Page/索尼音樂娛樂.md "wikilink")、[华纳](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")、[环球唱片公司等](../Page/环球唱片.md "wikilink")140家独立唱片公司以及[中国音乐著作权协会合作](../Page/中国音乐著作权协会.md "wikilink")，所有歌曲均经过唱片公司正版授权，并提供免费高品质[MP3文件下载](../Page/MP3.md "wikilink")，每个MP3文件的音质均在192[Kbps以上](https://zh.wikipedia.org/wiki/Kbps "wikilink")。谷歌官方指其音乐库数量已达数110万首，并且在不断增加中。
+Google音乐是谷歌中国与巨鲸音乐网合作的产品，巨鲸音乐网与[百代](https://zh.wikipedia.org/wiki/百代 "wikilink")、[索尼](../Page/索尼音樂娛樂.md "wikilink")、[华纳](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")、[环球唱片](../Page/环球唱片.md "wikilink")公司等140家独立唱片公司以及[中国音乐著作权协会](../Page/中国音乐著作权协会.md "wikilink")合作，所有歌曲均经过唱片公司正版授权，并提供免费高品质[MP3](../Page/MP3.md "wikilink")文件下载，每个MP3文件的音质均在192[Kbps以上](https://zh.wikipedia.org/wiki/Kbps "wikilink")。谷歌官方指其音乐库数量已达数110万首，并且在不断增加中。
 
 由于Google音乐的搜索数据由巨鲸音乐网提供，故这两个网站的音乐搜索结果是完全相同的。\[4\]
 
-2009年，有网友查看下载自Google音乐的歌曲文件的[ID3信息时](../Page/ID3.md "wikilink")，发现文件注释中写着「VeryCD分享互联网」，而下载自资源分享网站[VeryCD的MP](../Page/VeryCD.md "wikilink")3歌曲中都会有这一句注释，因而网友认为巨鲸音乐网的音乐来自VeryCD。\[5\]
+2009年，有网友查看下载自Google音乐的歌曲文件的[ID3](../Page/ID3.md "wikilink")信息时，发现文件注释中写着「VeryCD分享互联网」，而下载自资源分享网站[VeryCD](../Page/VeryCD.md "wikilink")的MP3歌曲中都会有这一句注释，因而网友认为巨鲸音乐网的音乐来自VeryCD。\[5\]
 
 ## 账号
 
 Google在推出中国版网站曾表示，不打算在中国的Google服务器上发布或推广涉及私隐的用户组织内容，除非公司确信可以保证用户信息的隐私与安全，否则不会存储任何用户信息。故Google音乐无法开放用户账户功能，播放器中的保存播放列表功能需要使用[人人网](../Page/人人网.md "wikilink")、[Windows
-Live或](../Page/Windows_Live.md "wikilink")[雅虎账号登入](../Page/雅虎.md "wikilink")，而不能使用[Google账户](https://zh.wikipedia.org/wiki/Google账户 "wikilink")。\[6\]\[7\]
+Live或](../Page/Windows_Live.md "wikilink")[雅虎](../Page/雅虎.md "wikilink")账号登入，而不能使用[Google账户](https://zh.wikipedia.org/wiki/Google账户 "wikilink")。\[6\]\[7\]
 
 ## 盈利
 

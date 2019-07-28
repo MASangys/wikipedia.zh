@@ -1,12 +1,12 @@
-《**聖戰士DUNBINE**》（）是[日本](../Page/日本.md "wikilink")[日昇動畫出品的](../Page/日昇動畫.md "wikilink")[機器人動畫系列](../Page/機器人動畫.md "wikilink")。在日本由[名古屋電視台於](../Page/名古屋電視台.md "wikilink")1983年2月5日至1984年1月21日播放，全49集。
+《**聖戰士DUNBINE**》（）是[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")出品的[機器人動畫](../Page/機器人動畫.md "wikilink")系列。在日本由[名古屋電視台](../Page/名古屋電視台.md "wikilink")於1983年2月5日至1984年1月21日播放，全49集。
 
 ## 概要
 
-本作是[鋼彈之父](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")[富野由悠季所執導的另一部生涯力作](../Page/富野由悠季.md "wikilink")。風格亦與早期剛彈有眾多相似之處。這也是機器人動畫史上第一部加入奇幻風格（中世紀、類似魔力的力量、妖精）的作品。富野在這部作品中所創造的「拜斯頓威爾」世界，也繼續使用於他所寫的後續相關小說作品中。
+本作是[鋼彈之父](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")[富野由悠季](../Page/富野由悠季.md "wikilink")所執導的另一部生涯力作。風格亦與早期剛彈有眾多相似之處。這也是機器人動畫史上第一部加入奇幻風格（中世紀、類似魔力的力量、妖精）的作品。富野在這部作品中所創造的「拜斯頓威爾」世界，也繼續使用於他所寫的後續相關小說作品中。
 
 在電視版之後推出三部[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，敘述主要角色轉生數百年後時空發生的故事。
 
-初期由於華人地區並未播出本作，致使作品的知名度偏低。直到[超級任天堂遊戲](../Page/超級任天堂.md "wikilink")「[超級機械人大戰EX](https://zh.wikipedia.org/wiki/超級機械人大戰EX "wikilink")」、「[第四次超級機械人大戰](https://zh.wikipedia.org/wiki/第四次超級機械人大戰 "wikilink")」及「[超級機械人大戰Alpha](https://zh.wikipedia.org/wiki/超級機械人大戰Alpha "wikilink")」先後有加入本作機體與相關劇情，且遊戲中靈光戰士以極高迴避率、命中率見稱的強勢機體，偏向[擬真系機械人](https://zh.wikipedia.org/wiki/擬真系機械人 "wikilink")。自此本作才透過遊戲得以為華人社會所熟悉。在「[超級機械人大戰UX](https://zh.wikipedia.org/wiki/超級機械人大戰UX "wikilink")」中與相同世界觀中的[麟光之翼一同參戰](../Page/麟光之翼.md "wikilink")。
+初期由於華人地區並未播出本作，致使作品的知名度偏低。直到[超級任天堂](../Page/超級任天堂.md "wikilink")遊戲「[超級機械人大戰EX](https://zh.wikipedia.org/wiki/超級機械人大戰EX "wikilink")」、「[第四次超級機械人大戰](https://zh.wikipedia.org/wiki/第四次超級機械人大戰 "wikilink")」及「[超級機械人大戰Alpha](https://zh.wikipedia.org/wiki/超級機械人大戰Alpha "wikilink")」先後有加入本作機體與相關劇情，且遊戲中靈光戰士以極高迴避率、命中率見稱的強勢機體，偏向[擬真系機械人](https://zh.wikipedia.org/wiki/擬真系機械人 "wikilink")。自此本作才透過遊戲得以為華人社會所熟悉。在「[超級機械人大戰UX](https://zh.wikipedia.org/wiki/超級機械人大戰UX "wikilink")」中與相同世界觀中的[麟光之翼](../Page/麟光之翼.md "wikilink")一同參戰。
 
 ## 主要用語
 
@@ -725,7 +725,7 @@
 <!-- end list -->
 
   -
-    OVA的女主角，的公主，與席翁互有好感。原作中莉露姆的轉生。
+    OVA的女主角，的公主，與席翁互有好感。原作中莉姆露的轉生。
 
 <!-- end list -->
 

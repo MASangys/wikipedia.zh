@@ -30,7 +30,7 @@ Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink") 2
   - [Nike+iPod](https://web.archive.org/web/20090121204946/http://www.apple.com.cn/ipod/nike/)
     - 位于[苹果公司中文网站上的官方网站](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")
   - [Nike+](https://web.archive.org/web/20071010133448/http://nikeplus.nike.com/nikeplus/index.jhtml?l=my_runs)
-    - 位于[耐克公司中文网站上的官方网站](../Page/耐克.md "wikilink")
+    - 位于[耐克](../Page/耐克.md "wikilink")公司中文网站上的官方网站
   - [Nike+ 酷跑竞地
     腾讯网专题页面](https://web.archive.org/web/20090211141619/http://nikeplus.qq.com/)
   - [Nike+ 掌控跑步新节奏

@@ -1,9 +1,9 @@
 **VVV-芬洛**（**VVV-Venlo**，其中**VVV**為***V**enlose **V**oetbal
-**V**ereniging（Venlose足球會）*的簡寫）是一支位於[荷蘭東南部](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[林堡省](https://zh.wikipedia.org/wiki/林堡省_\(荷蘭\) "wikilink")，接近[德國邊界的](https://zh.wikipedia.org/wiki/德國 "wikilink")[芬洛的足球會](../Page/芬洛.md "wikilink")，於2016–17年球季贏得荷乙聯賽冠軍後重返[荷蘭足球甲級聯賽作賽](https://zh.wikipedia.org/wiki/荷蘭足球甲級聯賽 "wikilink")。
+**V**ereniging（Venlose足球會）*的簡寫）是一支位於[荷蘭東南部](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[林堡省](https://zh.wikipedia.org/wiki/林堡省_\(荷蘭\) "wikilink")，接近[德國邊界的](https://zh.wikipedia.org/wiki/德國 "wikilink")[芬洛](../Page/芬洛.md "wikilink")的足球會，於2016–17年球季贏得荷乙聯賽冠軍後重返[荷蘭足球甲級聯賽作賽](https://zh.wikipedia.org/wiki/荷蘭足球甲級聯賽 "wikilink")。
 
 於1903年2月7日成立，初時只是一支業餘球隊，直到1954年才與另一支本地球隊SC雲路（SC
 Venlo）合併成為「VVV'03體育會」（Sportclub
-VVV'03），並轉為[職業球隊](../Page/職業.md "wikilink")。雲路是著名的「升降機」球隊，經常在荷甲與荷乙之間浮沉。
+VVV'03），並轉為[職業](../Page/職業.md "wikilink")球隊。雲路是著名的「升降機」球隊，經常在荷甲與荷乙之間浮沉。
 
 ## 榮譽
 

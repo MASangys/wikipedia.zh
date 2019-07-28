@@ -1,5 +1,5 @@
 Satio是[Sony
-Ericsson旗下一部手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，於2009年10月在[香港地區發售](../Page/香港.md "wikilink")。於2009年2月發表，為2009年旗艦級手機，為[Sony
+Ericsson旗下一部手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，於2009年10月在[香港](../Page/香港.md "wikilink")地區發售。於2009年2月發表，為2009年旗艦級手機，為[Sony
 Ericsson首部採用](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")[S60](https://zh.wikipedia.org/wiki/S60 "wikilink")[作業系統的手機](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，亦是全球第一部內置1210萬像素鏡頭的手機，內置氙氣閃光燈(Xenon
 Flash)。採用640X360 Pixels，1670萬色3.5吋全輕觸屏幕。前研發代號Idou(音"I
 do")，Satio一字據稱為日本之山名。與Satio同期發佈的Aino和Yari也是。Satio已於2009年10月27日於香港發售，售價$5580。黑色及銀色版先行發售，波爾多色版本會稍後才上市。台灣售價則是[NT](https://zh.wikipedia.org/wiki/NT "wikilink")$22900元。
@@ -38,7 +38,7 @@ do")，Satio一字據稱為日本之山名。與Satio同期發佈的Aino和Yari�
   - MMS
   - [GPS全球定位系統](https://zh.wikipedia.org/wiki/GPS "wikilink")、[AGPS全球衞星輔助定位系統](https://zh.wikipedia.org/wiki/AGPS "wikilink")
   - [DLNA連接家庭娛樂和遊戲系統](https://zh.wikipedia.org/wiki/DLNA "wikilink")
-  - [Youtube及](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Facebook上傳功能](../Page/Facebook.md "wikilink")
+  - [Youtube及](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Facebook](../Page/Facebook.md "wikilink")上傳功能
 
 ## 擴充性能
 

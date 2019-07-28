@@ -1,10 +1,10 @@
 **Akabori氨基酸反应**（Akabori amino acid reaction）有两种：
 
-1、α-[氨基酸在加热时被](../Page/氨基酸.md "wikilink")[氧化性](https://zh.wikipedia.org/wiki/氧化性 "wikilink")[糖](https://zh.wikipedia.org/wiki/糖 "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")。
+1、α-[氨基酸](../Page/氨基酸.md "wikilink")在加热时被[氧化性](https://zh.wikipedia.org/wiki/氧化性 "wikilink")[糖](https://zh.wikipedia.org/wiki/糖 "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")。
 
 
 [Akabori.png](https://zh.wikipedia.org/wiki/File:Akabori.png "fig:Akabori.png")
-2、α-[氨基酸及其](../Page/氨基酸.md "wikilink")[酯类被](../Page/酯.md "wikilink")[钠汞齐在](../Page/钠汞齐.md "wikilink")[氯化氢的](../Page/氯化氢.md "wikilink")[乙醇溶液中还原](../Page/乙醇.md "wikilink")，生成
+2、α-[氨基酸](../Page/氨基酸.md "wikilink")及其[酯](../Page/酯.md "wikilink")类被[钠汞齐](../Page/钠汞齐.md "wikilink")在[氯化氢](../Page/氯化氢.md "wikilink")的[乙醇](../Page/乙醇.md "wikilink")溶液中还原，生成
 α-[氨基](https://zh.wikipedia.org/wiki/氨基 "wikilink")[醛](../Page/醛.md "wikilink")。
 
 

@@ -1,9 +1,9 @@
-在[微分几何中](../Page/微分几何.md "wikilink")，对一个给定的[结构群](https://zh.wikipedia.org/wiki/结构群 "wikilink")
+在[微分几何](../Page/微分几何.md "wikilink")中，对一个给定的[结构群](https://zh.wikipedia.org/wiki/结构群 "wikilink")
 *G*\[1\]，*n* 维[流形](../Page/流形.md "wikilink") *M* 上一个 ***G*-结构**是 *M*
 的[切标架丛](https://zh.wikipedia.org/wiki/标架丛#切标架丛 "wikilink") *FM*（或
 *GL*(*M*)）的一个 *G*-[子丛](https://zh.wikipedia.org/wiki/子丛 "wikilink")。
 
-*G*-结构的概念包括了许多流形上其它结构，其中一些是用[张量场定义的](../Page/张量场.md "wikilink")。例如，对[正交群](../Page/正交群.md "wikilink")，一个
+*G*-结构的概念包括了许多流形上其它结构，其中一些是用[张量场](../Page/张量场.md "wikilink")定义的。例如，对[正交群](../Page/正交群.md "wikilink")，一个
 *O*(*n*)-结构定义了一个[黎曼度量](https://zh.wikipedia.org/wiki/黎曼度量 "wikilink")；而对[特殊线性群](https://zh.wikipedia.org/wiki/特殊线性群 "wikilink")，一个
 SL(*n*,**R**)-结构就是一个[体积形式](../Page/体积形式.md "wikilink")；对[平凡群](https://zh.wikipedia.org/wiki/平凡群 "wikilink")，一个
 {*e*}-结构由流形的一个[绝对平行化组成](https://zh.wikipedia.org/wiki/可平行化流形 "wikilink")。
@@ -12,11 +12,11 @@ SL(*n*,**R**)-结构就是一个[体积形式](../Page/体积形式.md "wikilink
 [凯勒结构](../Page/凯勒流形.md "wikilink")，都是
 *G*-结构带上附加的[可积性条件](https://zh.wikipedia.org/wiki/可积性条件 "wikilink")。
 
-[物理学中的术语是](../Page/物理学.md "wikilink")**[规范群](https://zh.wikipedia.org/wiki/规范群 "wikilink")**。
+[物理学](../Page/物理学.md "wikilink")中的术语是**[规范群](https://zh.wikipedia.org/wiki/规范群 "wikilink")**。
 
 ## 主丛和 *G*-结构
 
-尽管[主丛理论在](../Page/主丛.md "wikilink") *G*-结构的研究中的角色很重要，但两个概念是不同的。一个
+尽管[主丛](../Page/主丛.md "wikilink")理论在 *G*-结构的研究中的角色很重要，但两个概念是不同的。一个
 *G*-结构是一个切标架丛的主子丛，但是 *G*-结构丛“由切标架组成”的事实被视为数据的一部分。例如，考虑
 **R**<sup>*n*</sup> 上两个黎曼度量。伴随的 SO(*n*)-结构是同构当且仅当度量是同构的。但是，因为
 **R**<sup>*n*</sup> 是可缩的，故下面的 SO(*n*)-丛作为主丛总是同构。
@@ -37,20 +37,20 @@ SL(*n*,**R**)-结构就是一个[体积形式](../Page/体积形式.md "wikilink
 [凯勒结构](../Page/凯勒流形.md "wikilink")，均是
 *G*-结构附加一个[可积性条件](https://zh.wikipedia.org/wiki/可积性条件 "wikilink")。没有相应的可积性条件，这些结构称为一个“殆（几乎）”结构，比如[殆複结构](https://zh.wikipedia.org/wiki/殆複流形 "wikilink")，[殆辛结构](https://zh.wikipedia.org/wiki/殆辛结构 "wikilink")，或[殆凯勒流形](https://zh.wikipedia.org/wiki/殆凯勒流形 "wikilink")。
 
-特别地，一个[辛流形结构是比一个](../Page/辛流形.md "wikilink")[辛群的](../Page/辛群.md "wikilink")
+特别地，一个[辛流形](../Page/辛流形.md "wikilink")结构是比一个[辛群](../Page/辛群.md "wikilink")的
 *G*-结构更强的概念。流形上一个辛结构是 *M*
 上一个非退化[2形式](https://zh.wikipedia.org/wiki/2形式 "wikilink")
 *ω*（这是一个
 \(Sp\)-结构，或[殆辛结构](https://zh.wikipedia.org/wiki/殆辛结构 "wikilink")），以及额外条件
 d*ω* = 0；后者称为可积性条件。
 
-类似地，[叶状结构对应于](../Page/叶状结构.md "wikilink")
+类似地，[叶状结构](../Page/叶状结构.md "wikilink")对应于
 *G*-结构为[分块矩阵以及可积性条件](https://zh.wikipedia.org/wiki/分块矩阵 "wikilink")，这样便可利用[弗罗贝尼乌斯定理](https://zh.wikipedia.org/wiki/弗罗贝尼乌斯定理 "wikilink")。
 
 ## *G*-结构的同构
 
 *M* 的保持
-*G*-结构的[微分同胚集合称为这个结构的](../Page/微分同胚.md "wikilink")“[自同构群](https://zh.wikipedia.org/wiki/自同构群 "wikilink")”。对一个
+*G*-结构的[微分同胚](../Page/微分同胚.md "wikilink")集合称为这个结构的“[自同构群](https://zh.wikipedia.org/wiki/自同构群 "wikilink")”。对一个
 *O*(*n*)-结构它们就是黎曼度量的[等距群](https://zh.wikipedia.org/wiki/等距 "wikilink")，而一个
 SL(*n*,**R**)-结构为保持体积的映射。
 

@@ -1,4 +1,4 @@
-《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明漫畫](../Page/鳥山明.md "wikilink")《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](https://zh.wikipedia.org/wiki/Ζ "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")
+《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明](../Page/鳥山明.md "wikilink")漫畫《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](https://zh.wikipedia.org/wiki/Ζ "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")
 獲得廣大觀眾歡迎。
 
 ## 解說
@@ -7,7 +7,7 @@
 悟飯的大冒險』，孫悟空的兒子[孫悟飯比較像主角](https://zh.wikipedia.org/wiki/孫悟飯 "wikilink")，所以在本作中的原創劇情、開場與結束的動畫以描繪悟飯為主。\[3\]鳥山明「不是啦…
 我從來就不打算換掉主角」。當年『七龍珠Z』在日本正式播映前，JUMP的1989年18號收錄的特報將「Z」解釋為「究極」與「最強」的說明。
 
-鳥山明的第一任責任編輯[鳥嶋和彥看了前作收視率下滑的](../Page/鳥嶋和彥.md "wikilink")『[七龍珠](https://zh.wikipedia.org/wiki/龍珠_\(動畫\) "wikilink")』，少年悟空貫穿比克大魔王的動畫場面，可愛的與甜美畫風還保留著，「這可不行啊」。從孫悟空長大後與孫悟飯登場的地方，鳥嶋和東映與電視台經過協商評估後，決定換掉一部分的動畫師，讓『[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")』的動畫師加入\[4\]，同時申報新的製作經費和預算，由此全新的面貌的電視動畫節目『七龍珠Z』誕生了。\[5\]
+鳥山明的第一任責任編輯[鳥嶋和彥](../Page/鳥嶋和彥.md "wikilink")看了前作收視率下滑的『[七龍珠](https://zh.wikipedia.org/wiki/龍珠_\(動畫\) "wikilink")』，少年悟空貫穿比克大魔王的動畫場面，可愛的與甜美畫風還保留著，「這可不行啊」。從孫悟空長大後與孫悟飯登場的地方，鳥嶋和東映與電視台經過協商評估後，決定換掉一部分的動畫師，讓『[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")』的動畫師加入\[4\]，同時申報新的製作經費和預算，由此全新的面貌的電視動畫節目『七龍珠Z』誕生了。\[5\]
 
 ## 工作人員
 

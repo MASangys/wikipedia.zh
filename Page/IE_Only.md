@@ -4,7 +4,7 @@ Explorer](../Page/Internet_Explorer.md "wikilink")（简称IE，多指至2009年
 XP作業系統](../Page/Windows_XP.md "wikilink")）[浏览器浏览的网页](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，因为那些网站使用了IE（或IE核心“[Trident](../Page/Trident_\(排版引擎\).md "wikilink")
 [排版引擎](../Page/排版引擎.md "wikilink")”）专属的语法（包括IE本身的缺陷語法，這種語法已在新版本修復），导致其他浏览器，如：[Mozilla
 Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Google
-Chrome](../Page/Google_Chrome.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari等](../Page/Safari.md "wikilink")，因为使用与IE不同的排版引擎而无法正常浏览。
+Chrome](../Page/Google_Chrome.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari](../Page/Safari.md "wikilink")等，因为使用与IE不同的排版引擎而无法正常浏览。
 
 ## 对IE Only的批评
 
@@ -26,7 +26,7 @@ Explorer for Linux”版本。
   - 使用[IE Tab或](../Page/IE_Tab.md "wikilink")[Coral
     IETab实现双核心](https://zh.wikipedia.org/wiki/Coral_IETab "wikilink")（[Gecko](../Page/Gecko.md "wikilink")/[Trident](https://zh.wikipedia.org/wiki/Trident "wikilink")）浏览
   - 用[User Agent
-    Switcher](https://addons.mozilla.org/firefox/addon/59)用更改[用户代理的方法去骗过网站](../Page/用户代理.md "wikilink")，但网页可能出现异常
+    Switcher](https://addons.mozilla.org/firefox/addon/59)用更改[用户代理](../Page/用户代理.md "wikilink")的方法去骗过网站，但网页可能出现异常
   - 安装[ActiveX
     Plugin](http://www.adamlock.com/mozilla/)（但此專案發展已停滯於2008年）
 

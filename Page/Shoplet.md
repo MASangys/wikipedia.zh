@@ -1,5 +1,5 @@
 **Shoplet**.com
-是一所[美國公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，他們是一間專門售賣[文具和](../Page/文具.md "wikilink")[辦工室用品的](https://zh.wikipedia.org/wiki/辦工室用品 "wikilink")[網上商店](https://zh.wikipedia.org/wiki/網上商店 "wikilink")。除了要在辦公室產品業立足及打出名堂外，Shoplet.com的目標是要挑戰並超越大形而有實在店鋪的銷售商如[Staples](https://zh.wikipedia.org/wiki/Staples "wikilink")，[Office
+是一所[美國公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，他們是一間專門售賣[文具](../Page/文具.md "wikilink")和[辦工室用品的](https://zh.wikipedia.org/wiki/辦工室用品 "wikilink")[網上商店](https://zh.wikipedia.org/wiki/網上商店 "wikilink")。除了要在辦公室產品業立足及打出名堂外，Shoplet.com的目標是要挑戰並超越大形而有實在店鋪的銷售商如[Staples](https://zh.wikipedia.org/wiki/Staples "wikilink")，[Office
 Max](https://zh.wikipedia.org/wiki/Office_Max "wikilink") 和 [WB
 Mason等](https://zh.wikipedia.org/wiki/WB_Mason "wikilink")。
 
@@ -21,15 +21,15 @@ Shoplet.com之服務地區包括[美國全國以及](https://zh.wikipedia.org/wi
 
 在前[Goldman
 Sachs](https://zh.wikipedia.org/wiki/Goldman_Sachs "wikilink")
-[投資](https://zh.wikipedia.org/wiki/投資 "wikilink")[銀行業家](https://zh.wikipedia.org/wiki/銀行業家 "wikilink")，Shoplet.com之[創辦人及現任](https://zh.wikipedia.org/wiki/創辦人 "wikilink")[主席Tony](../Page/主席.md "wikilink")
+[投資](https://zh.wikipedia.org/wiki/投資 "wikilink")[銀行業家](https://zh.wikipedia.org/wiki/銀行業家 "wikilink")，Shoplet.com之[創辦人及現任](https://zh.wikipedia.org/wiki/創辦人 "wikilink")[主席](../Page/主席.md "wikilink")Tony
 Ellison的影響之下， Shoplet.com成為[City of Hope
 Foundation的首位捐助人及](https://zh.wikipedia.org/wiki/City_of_Hope_Foundation "wikilink")[讚助商](https://zh.wikipedia.org/wiki/讚助商 "wikilink")。
 
 ## 綠化環保
 
-Shoplet.com於二零零八年十月推出一系列的[環保貨品](https://zh.wikipedia.org/wiki/環保 "wikilink")，並於Shoplet.com[網站上的](../Page/網站.md "wikilink")[購物籃中設至](https://zh.wikipedia.org/wiki/購物籃 "wikilink")
+Shoplet.com於二零零八年十月推出一系列的[環保貨品](https://zh.wikipedia.org/wiki/環保 "wikilink")，並於Shoplet.com[網站](../Page/網站.md "wikilink")上的[購物籃中設至](https://zh.wikipedia.org/wiki/購物籃 "wikilink")
 〝綠化您的辦公室購買〞\[Green Your
-Office\]功能，給予顧客為環保活動出一分力的機會。除此之外，Shoplet.com並在[建立關係網絡](https://zh.wikipedia.org/wiki/建立關係網絡 "wikilink")[網站](../Page/網站.md "wikilink")[Facebook上開發了一個命名為](../Page/Facebook.md "wikilink")〝綠化辦公室〞\[Green
+Office\]功能，給予顧客為環保活動出一分力的機會。除此之外，Shoplet.com並在[建立關係網絡](https://zh.wikipedia.org/wiki/建立關係網絡 "wikilink")[網站](../Page/網站.md "wikilink")[Facebook](../Page/Facebook.md "wikilink")上開發了一個命名為〝綠化辦公室〞\[Green
 Office\]的[軟體工具](https://zh.wikipedia.org/wiki/軟體 "wikilink")，目標為利用龐大及無邊界的建立關係網絡作為宣揚支持[環保的洰道](https://zh.wikipedia.org/wiki/環保 "wikilink")。
 
 ## 有關網站

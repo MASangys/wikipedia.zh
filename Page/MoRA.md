@@ -1,4 +1,4 @@
-《**MoRA**》（，MoRA）是日本音樂家[椎名林檎的套裝專輯](../Page/椎名林檎.md "wikilink")，同時也是唱片公司為紀念椎名林檎出道十週年所發行的最後一張作品。本張套裝專輯有CD和DVD兩種版本，並採預約發售制，與《[無限償還](https://zh.wikipedia.org/wiki/無限償還#黑膠唱片 "wikilink")》和《[勝訴的新宿舞孃](https://zh.wikipedia.org/wiki/勝訴的新宿舞孃#黑膠唱片 "wikilink")》的黑膠唱片一同於2008年11月25日由[EMI
+《**MoRA**》（，MoRA）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")的套裝專輯，同時也是唱片公司為紀念椎名林檎出道十週年所發行的最後一張作品。本張套裝專輯有CD和DVD兩種版本，並採預約發售制，與《[無限償還](https://zh.wikipedia.org/wiki/無限償還#黑膠唱片 "wikilink")》和《[勝訴的新宿舞孃](https://zh.wikipedia.org/wiki/勝訴的新宿舞孃#黑膠唱片 "wikilink")》的黑膠唱片一同於2008年11月25日由[EMI
 Music
 Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin
 Music發行](../Page/維京唱片.md "wikilink")\[1\]\[2\]。
@@ -41,8 +41,8 @@ Music發行](../Page/維京唱片.md "wikilink")\[1\]\[2\]。
 
 ### Oricon 銷售榜(日本)
 
-《MoRA》CD套裝專輯於11月25日發行專輯。發行首週，在日本公信榜Oricon的專輯榜2008年11月第4週付的榜單中以8,269張銷售量居單週第32名，同禮拜銷售冠軍為銷售突破15.5萬張[中島美嘉的第五張專輯](../Page/中島美嘉.md "wikilink")《[VOICE
-美聲嘉音](../Page/VOICE_美聲嘉音.md "wikilink")》、第二名[清水翔太的](../Page/清水翔太.md "wikilink")「」兩張專輯\[14\]。總計《MoRA》CD套裝專輯總共在日本公信榜Oricon的專輯榜上榜2週，累積銷售達0.9萬張\[15\]。
+《MoRA》CD套裝專輯於11月25日發行專輯。發行首週，在日本公信榜Oricon的專輯榜2008年11月第4週付的榜單中以8,269張銷售量居單週第32名，同禮拜銷售冠軍為銷售突破15.5萬張[中島美嘉](../Page/中島美嘉.md "wikilink")的第五張專輯《[VOICE
+美聲嘉音](../Page/VOICE_美聲嘉音.md "wikilink")》、第二名[清水翔太](../Page/清水翔太.md "wikilink")的「」兩張專輯\[14\]。總計《MoRA》CD套裝專輯總共在日本公信榜Oricon的專輯榜上榜2週，累積銷售達0.9萬張\[15\]。
 
 <table>
 <thead>

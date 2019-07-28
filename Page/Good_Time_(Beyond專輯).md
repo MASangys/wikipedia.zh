@@ -1,5 +1,5 @@
 《**Good
-Time**》是香港搖滾樂隊[Beyond發行第十五张专辑](../Page/Beyond.md "wikilink")，《Good
+Time**》是香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")發行第十五张专辑，《Good
 Time》是Beyond宣佈解散前最後一張的專輯，《Good
 Time》和《進化論》為Beyond的新嘗試，《進化論》是因為進化，人會老，樂隊也會老，也會走向解體。
 

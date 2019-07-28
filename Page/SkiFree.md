@@ -14,9 +14,9 @@ Color发布](../Page/Game_Boy_Color.md "wikilink")。\[1\]\[2\]
 
 在1993年，Pirih開始了製作遊戲的第二個版本，但是由於作者遺失了遊戲的原始碼而放棄了開發。
 
-2005年4月4日，Pirih重制了[32位元版本的Skifree](../Page/32位元.md "wikilink")，並释放在个人网站里免費下載。但因为和微软的协议，不能释放源代码。
+2005年4月4日，Pirih重制了[32位元](../Page/32位元.md "wikilink")版本的Skifree，並释放在个人网站里免費下載。但因为和微软的协议，不能释放源代码。
 
-*SkiFree*开始时运行在[16位元Windows上](https://zh.wikipedia.org/wiki/16位元 "wikilink")，32位版本则可以广泛的被[wine和](https://zh.wikipedia.org/wiki/wine "wikilink")[64位元windows使用](../Page/64位元.md "wikilink")，而[Windows
+*SkiFree*开始时运行在[16位元Windows上](https://zh.wikipedia.org/wiki/16位元 "wikilink")，32位版本则可以广泛的被[wine和](https://zh.wikipedia.org/wiki/wine "wikilink")[64位元](../Page/64位元.md "wikilink")windows使用，而[Windows
 XP可以设置为兼容](../Page/Windows_XP.md "wikilink")16位元Windows程序。
 
 ## 游戏

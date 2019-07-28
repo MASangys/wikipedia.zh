@@ -7,7 +7,7 @@
   - 1994年1月30日：本線投入服務，初時為每天早上至黃昏20:00提供服務
   - 1999年中：改為途經[鳳池路及](https://zh.wikipedia.org/wiki/鳳池路 "wikilink")[媽橫路才入](https://zh.wikipedia.org/wiki/媽橫路 "wikilink")[朗天路](../Page/朗天路.md "wikilink")
   - 2001年初：往屯門方向改經[屏會街和](https://zh.wikipedia.org/wiki/屏會街 "wikilink")[元朗安寧路](../Page/元朗安寧路.md "wikilink")
-  - 2003年12月17日：配合[西鐵通車](https://zh.wikipedia.org/wiki/西鐵 "wikilink")，把分段收費位置修改，並與西鐵提供接駁優惠，但只限良田往[兆康站及](../Page/兆康站_\(西鐵綫\).md "wikilink")[兆康往](https://zh.wikipedia.org/wiki/兆康 "wikilink")[屯門碼頭方向](../Page/屯門碼頭.md "wikilink")。
+  - 2003年12月17日：配合[西鐵通車](https://zh.wikipedia.org/wiki/西鐵 "wikilink")，把分段收費位置修改，並與西鐵提供接駁優惠，但只限良田往[兆康站及](../Page/兆康站_\(西鐵綫\).md "wikilink")[兆康往](https://zh.wikipedia.org/wiki/兆康 "wikilink")[屯門碼頭](../Page/屯門碼頭.md "wikilink")方向。
   - 2004年4月18日：改為平日繁忙時間及假日早上至黃昏提供服務；同年8月7日再縮減服務至平日上午繁忙時間單向由朗屏開出固定班次兩班。
   - 2005年3月7日：配合[九鐵重組屯門區巴士路線](https://zh.wikipedia.org/wiki/九鐵 "wikilink")，本線永久停駛。
 
@@ -23,7 +23,7 @@
 
 全程$6.2（八達通收費$6.1）
 
-  - 分段收費：[富泰邨往屯門碼頭](../Page/富泰邨.md "wikilink")$3.9
+  - 分段收費：[富泰邨](../Page/富泰邨.md "wikilink")往屯門碼頭$3.9
 
 ### 駛經街道
 
@@ -42,7 +42,7 @@
 |-
 |6||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[兆康路](https://zh.wikipedia.org/wiki/兆康路 "wikilink")||
 |-
-|7||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[兆康苑兆賢閣](../Page/兆康苑.md "wikilink")||
+|7||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[兆康苑](../Page/兆康苑.md "wikilink")兆賢閣||
 |-
 |8||屯門（[大興](https://zh.wikipedia.org/wiki/大興 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[屯門醫院](../Page/屯門醫院.md "wikilink")||
 |-
@@ -50,9 +50,9 @@
 |-
 |10||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[盈豐園](https://zh.wikipedia.org/wiki/盈豐園 "wikilink")||
 |-
-|11||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨田樂樓](../Page/田景邨.md "wikilink")||
+|11||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨](../Page/田景邨.md "wikilink")田樂樓||
 |-
-|12||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨田裕樓](../Page/田景邨.md "wikilink")||
+|12||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨](../Page/田景邨.md "wikilink")田裕樓||
 |-
 |13||[屯門工業區](../Page/屯門工業區.md "wikilink")||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[石排站](../Page/石排站.md "wikilink")||
 |-
@@ -66,9 +66,9 @@
 |-
 |18||[散石灣](../Page/散石灣.md "wikilink")||[龍門路](https://zh.wikipedia.org/wiki/龍門路 "wikilink")||[兆山苑](../Page/兆山苑.md "wikilink")||
 |-
-|19||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[蝴蝶邨蝶心樓](../Page/蝴蝶邨.md "wikilink")||
+|19||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[蝴蝶邨](../Page/蝴蝶邨.md "wikilink")蝶心樓||
 |-
-|20||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[湖景邨湖碧樓](../Page/湖景邨.md "wikilink")||
+|20||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[湖景邨](../Page/湖景邨.md "wikilink")湖碧樓||
 |- |21||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")|||||| |}
 
 ## 用車

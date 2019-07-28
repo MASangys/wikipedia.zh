@@ -1,10 +1,10 @@
 **VimIM**
-是[Vim的一个](../Page/Vim.md "wikilink")[插件](../Page/插件.md "wikilink")，可作为[Vim内嵌](../Page/Vim.md "wikilink")[中文输入法](../Page/中文输入法.md "wikilink")。
+是[Vim](../Page/Vim.md "wikilink")的一个[插件](../Page/插件.md "wikilink")，可作为[Vim](../Page/Vim.md "wikilink")内嵌[中文输入法](../Page/中文输入法.md "wikilink")。
 
 ## VimIM 历史
 
 1.  2008年1月4日问世
-2.  2009年11月16日开始支持[双拼](../Page/双拼.md "wikilink")[云输入](../Page/云.md "wikilink")
+2.  2009年11月16日开始支持[双拼](../Page/双拼.md "wikilink")[云](../Page/云.md "wikilink")输入
 3.  2010年11月16日开始支持〖目录词库〗
 4.  2010年11月25日推出无菜单搜索：不敲中文，也可以搜索中文
 5.  2011年1月25日推出瑞士军刀字库：vimim.cjk.txt 可用于汉字研究
@@ -29,7 +29,7 @@ VimIM是一个基于Vim的嵌入式中文输入法。
 
 ## VimIM 特点
 
-  - 与[操作系统独立](../Page/操作系统.md "wikilink")；与[Vim完全整合](../Page/Vim.md "wikilink")。
+  - 与[操作系统](../Page/操作系统.md "wikilink")独立；与[Vim](../Page/Vim.md "wikilink")完全整合。
 
 ## 外部链接
 

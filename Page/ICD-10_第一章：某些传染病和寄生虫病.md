@@ -20,7 +20,7 @@
 <!-- end list -->
 
   - ()
-    [伤寒和](../Page/伤寒.md "wikilink")[副伤寒](https://zh.wikipedia.org/wiki/副伤寒 "wikilink")
+    [伤寒](../Page/伤寒.md "wikilink")和[副伤寒](https://zh.wikipedia.org/wiki/副伤寒 "wikilink")
       - () [傷寒菌致傷寒](https://zh.wikipedia.org/wiki/傷寒菌致傷寒 "wikilink")
           - () [伤寒](../Page/伤寒.md "wikilink")
           - ()
@@ -240,7 +240,7 @@
   - () 早期梅毒
   - () 晚期梅毒
   - () 其他和未明示的[梅毒](../Page/梅毒.md "wikilink")
-  - () [淋球菌感染](../Page/淋球菌.md "wikilink")
+  - () [淋球菌](../Page/淋球菌.md "wikilink")感染
   - () [衣原体淋巴肉芽肿](https://zh.wikipedia.org/wiki/衣原体淋巴肉芽肿 "wikilink")
   - () 其他性行為传播之[衣原体疾病](https://zh.wikipedia.org/wiki/衣原体 "wikilink")
   - () [软下疳](https://zh.wikipedia.org/wiki/软下疳 "wikilink")
@@ -382,7 +382,7 @@
 
 [原蟲病](https://zh.wikipedia.org/wiki/原蟲病 "wikilink")（B50-B64）
 
-  - () [恶性疟原虫疟疾](../Page/恶性疟原虫.md "wikilink")
+  - () [恶性疟原虫](../Page/恶性疟原虫.md "wikilink")疟疾
   - () [间日疟原虫疟疾](https://zh.wikipedia.org/wiki/间日疟原虫 "wikilink")
   - () [三日疟原虫疟疾](https://zh.wikipedia.org/wiki/三日疟原虫 "wikilink")
   - () 其他寄生虫学証實的[疟疾](../Page/疟疾.md "wikilink")

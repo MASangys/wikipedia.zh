@@ -23,7 +23,7 @@
     Company](https://zh.wikipedia.org/wiki/Metal_Improvement_Company "wikilink"),
     a company specializing in metal surface treatments
   - [中國製造](../Page/中國製造.md "wikilink")（**M**ade **i**n **C**hina）
-  - [資訊工業策進會產業情報研究所](../Page/資訊工業策進會.md "wikilink")（**M**arket
+  - [資訊工業策進會](../Page/資訊工業策進會.md "wikilink")產業情報研究所（**M**arket
     **I**ntelligence & **C**onsulting Institute）
 
 ### 政治

@@ -1,7 +1,7 @@
 '''Happy Together
-'''為[Twins首張新曲加精選專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2002年11月28日在[香港發行](../Page/香港.md "wikilink")。其後推出賀年版「歡樂年年」、第三版及Music
+'''為[Twins首張新曲加精選專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2002年11月28日在[香港](../Page/香港.md "wikilink")發行。其後推出賀年版「歡樂年年」、第三版及Music
 Video Karaoke Vcd/DVD 版。賀年歌"你最紅"Music Video請來一代巨星 -
-[張國榮參與演出](../Page/張國榮.md "wikilink")。
+[張國榮](../Page/張國榮.md "wikilink")參與演出。
 
 新碟Twins将有10不同的造型，并制作成10款不同的封套，集齐后可结集成Twins开心造型大汇集。为了拍摄这次唱片封套，阿娇与阿SA不停的换妆，轮流的转，一刻也没有休息。她们笑言拍摄这次唱片封套顺便可以减肥，既工作又运动，悭回不少时间呢！
 

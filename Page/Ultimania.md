@@ -7,10 +7,10 @@ Ultimania这个名称，是由究级（Ultimate）与狂热（Mania）两个单�
 
 1999年，系列的第一部攻略本《最终幻想VIII
 Ultimania》創下了220万套的銷售記錄、史克威尔的出版部门[DigiCube开始发行各作品的Ultimania攻略](https://zh.wikipedia.org/wiki/デジキューブ "wikilink")。2003年9月25日，《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")
-Ultimania》中文化版本在台湾与香港两地发售\[2\]。2003年DIGICUBE破产后攻略绝版，不过当时已经合并的[史克威尔艾尼克斯继承出版事业部门的权利后对以前攻略进行了再版](../Page/史克威尔艾尼克斯.md "wikilink")。此后的新作也由[史克威尔艾尼克斯进行发售](../Page/史克威尔艾尼克斯.md "wikilink")。截止至2007年7月，Ultimania系列的发行量已经突破1000万套\[3\]。
+Ultimania》中文化版本在台湾与香港两地发售\[2\]。2003年DIGICUBE破产后攻略绝版，不过当时已经合并的[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")继承出版事业部门的权利后对以前攻略进行了再版。此后的新作也由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")进行发售。截止至2007年7月，Ultimania系列的发行量已经突破1000万套\[3\]。
 
 此外，Studio
-BentStuff编辑制作的由株式会社[Enterbrain发行的攻略本则被冠以](../Page/Enterbrain.md "wikilink")「解体真书」的系列名称（主要包括以前史克威尔游戏的攻略，以及[卡普空的](../Page/卡普空.md "wikilink")[鬼武者与](../Page/鬼武者.md "wikilink")[生化危机等系列作品的攻略](https://zh.wikipedia.org/wiki/生化危机 "wikilink")）。
+BentStuff编辑制作的由株式会社[Enterbrain](../Page/Enterbrain.md "wikilink")发行的攻略本则被冠以「解体真书」的系列名称（主要包括以前史克威尔游戏的攻略，以及[卡普空](../Page/卡普空.md "wikilink")的[鬼武者](../Page/鬼武者.md "wikilink")与[生化危机等系列作品的攻略](https://zh.wikipedia.org/wiki/生化危机 "wikilink")）。
 
 同时，《[勇者斗恶龙VIII
 天空、碧海、大地与被诅咒的公主](../Page/勇者斗恶龙VIII_天空、碧海、大地与被诅咒的公主.md "wikilink")》和《[特鲁尼克的大冒险2](../Page/特鲁尼克大冒险2_不思议的迷宫.md "wikilink")》《[特鲁尼克的大冒险3](../Page/特鲁尼克大冒险3_不思议的迷宫.md "wikilink")》（包含携带游戏机移植版在内）、《[口袋妖怪
@@ -22,7 +22,7 @@ BentStuff编辑制作的攻略则没有冠以「Ultimania」之名，而是以�
   - ULTIMANIA(アルティマニア)
     主要以[史克威尔系的游戏为主](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")。主要记载游戏数据、攻略流程、专栏、访谈等内容。基本上与《解体真书系列》的编辑形式没有太大的差异。
   - ONLINE ULTIMANIA(オンラインアルティマニア)
-    根据[坂口博信的意向](../Page/坂口博信.md "wikilink")，由于[网络的普及而在互联网上提供限定内容的形式](../Page/互联网.md "wikilink")。在《FFIX
+    根据[坂口博信](../Page/坂口博信.md "wikilink")的意向，由于[网络的普及而在互联网上提供限定内容的形式](../Page/互联网.md "wikilink")。在《FFIX
     ULTIMANIA》确定发售实体书之后，网路的内容也停止了公开。坂口博信离开史克威尔之后的作品[蓝龙也采取了同样的在互联网提供攻略的类似形式](https://zh.wikipedia.org/wiki/蓝龙 "wikilink")。
   - SCENARIO ULTIMANIA(シナリオアルティマニア)
     《FFX》《FFXII》采用的形式。像字面意思那样，以剧情解说和流程攻略为主。
@@ -63,7 +63,7 @@ BentStuff编辑制作的攻略则没有冠以「Ultimania」之名，而是以�
         ※限定版《最终幻想X-2 ULTIMANIA featuring PAINE strap》也同時发售。
 14. 最终幻想X-2 ULTIMANIA Ω ISBN 978-4-7575-1161-3
       -
-        ※此后改為由[史克威尔艾尼克斯发售](../Page/史克威尔艾尼克斯.md "wikilink")。
+        ※此后改為由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")发售。
 15. [最终幻想水晶编年史](../Page/最终幻想水晶编年史.md "wikilink") WORLD ULTIMANIA ISBN
     978-4-7575-1162-0
 16. 最终幻想X-2 國際版＋LAST MISSION ULTIMANIA ISBN 978-4-7575-1163-7

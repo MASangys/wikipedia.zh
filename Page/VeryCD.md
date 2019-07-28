@@ -1,4 +1,4 @@
-**VeryCD**是[中国大陆的一个资源分享网站](../Page/中国大陆.md "wikilink")，于2003年由黄一孟、戴云杰等人创立。2005年6月\[1\]成立了VeryCD公司。
+**VeryCD**是[中国大陆](../Page/中国大陆.md "wikilink")的一个资源分享网站，于2003年由黄一孟、戴云杰等人创立。2005年6月\[1\]成立了VeryCD公司。
 
 VeryCD曾经主要提供[eDonkey网络的资源](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[链接下载](https://zh.wikipedia.org/wiki/eD2k链接 "wikilink")，公司也开发了修改/参考自官方[eMule的](https://zh.wikipedia.org/wiki/eMule "wikilink")[VeryCD
 Mod和](https://zh.wikipedia.org/wiki/eMule_VeryCD_Mod "wikilink")[easyMule软件](https://zh.wikipedia.org/wiki/easyMule "wikilink")。不过2010年左右起因版权等问题进行转型，致力于提供网页游戏和在线视频。2011年底公司月入过亿[元](../Page/人民币.md "wikilink")。\[2\]
@@ -9,7 +9,7 @@ Mod和](https://zh.wikipedia.org/wiki/eMule_VeryCD_Mod "wikilink")[easyMule软�
 
 VeryCD网站于2003年由黄一孟、戴云杰等人创立。2005年6月\[3\]成立了位于上海徐家汇交大慧谷创业园的小型IT公司——**VeryCD公司**（全称**上海维西网络科技有限公司**，或称**上海维西公司**，后更名**上海隐志网络科技有限公司**），以进行商业运营。
 
-VeryCD以[IPB的BBS论坛](https://zh.wikipedia.org/wiki/IPB "wikilink")\[4\]为主，并主要以[用户生成内容的方式](../Page/用户生成内容.md "wikilink")，提供包括电影、音乐、游戏、软件在内的各类资源的[eD2k链接以下载](https://zh.wikipedia.org/wiki/eD2k链接 "wikilink")。用户将资源文件的eD2k链接和资源的介绍发在VeryCD论坛上，经版主审核后即加入精华，公开出来。用户可使用[eMule等](https://zh.wikipedia.org/wiki/eMule "wikilink")[eDonkey网络客户端共享与下载eD](https://zh.wikipedia.org/wiki/eDonkey网络#客戶端 "wikilink")2k链接指向的文件。
+VeryCD以[IPB的BBS论坛](https://zh.wikipedia.org/wiki/IPB "wikilink")\[4\]为主，并主要以[用户生成内容](../Page/用户生成内容.md "wikilink")的方式，提供包括电影、音乐、游戏、软件在内的各类资源的[eD2k链接以下载](https://zh.wikipedia.org/wiki/eD2k链接 "wikilink")。用户将资源文件的eD2k链接和资源的介绍发在VeryCD论坛上，经版主审核后即加入精华，公开出来。用户可使用[eMule等](https://zh.wikipedia.org/wiki/eMule "wikilink")[eDonkey网络客户端共享与下载eD](https://zh.wikipedia.org/wiki/eDonkey网络#客戶端 "wikilink")2k链接指向的文件。
 
 2008年10月27日官方发布的《互联网视听节目服务抽查情况公告（第3号）》中，“VeryCD.com网站因不符合相关规定而被给予警告处罚”。\[5\]不过VeryCD公司总裁黄一孟则表示该处罚是很久以前的事情。\[6\]
 
@@ -21,7 +21,7 @@ VeryCD以[IPB的BBS论坛](https://zh.wikipedia.org/wiki/IPB "wikilink")\[4\]为
 Mod和](https://zh.wikipedia.org/wiki/eMule_VeryCD_Mod "wikilink")[easyMule所使用的](https://zh.wikipedia.org/wiki/easyMule "wikilink")[DLP库放行了迅雷](../Page/动态反吸血驴保护.md "wikilink")，且不久前曾误屏蔽了[Xtreme
 Mod](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")\[10\]，以及两软件存在有关“电驴”的误导性宣传。诸多原因遭致很多老用户不满及出走。之后，一名原发布者以与VeryCD原论坛相同的形式建立了一eD2k资源分享论坛，名为ied2k.com，吸引了部分用户。\[11\]\[12\]
 
-2009年6月3日下午，VeryCD突然关闭网站服务，公告称系统升级而暂时停机维护，预计在6月5日恢复。[饭否等网站也在当天发出停机维护公告](../Page/饭否.md "wikilink")，同时也出现了更多的停机维护站点，很多网站也是自发地停站。这次中文网站的大规模维护被称作[中国互联网维护日活动](../Page/中国互联网维护日.md "wikilink")\[13\]。VeryCD的这次停站也被一些网友误解为是强制关闭。事后警方打电话给黄一孟表示不满\[14\]。
+2009年6月3日下午，VeryCD突然关闭网站服务，公告称系统升级而暂时停机维护，预计在6月5日恢复。[饭否](../Page/饭否.md "wikilink")等网站也在当天发出停机维护公告，同时也出现了更多的停机维护站点，很多网站也是自发地停站。这次中文网站的大规模维护被称作[中国互联网维护日](../Page/中国互联网维护日.md "wikilink")活动\[13\]。VeryCD的这次停站也被一些网友误解为是强制关闭。事后警方打电话给黄一孟表示不满\[14\]。
 
 2009年12月4日，[BTChina等多家](https://zh.wikipedia.org/wiki/BTChina "wikilink")[BitTorrent种子发布网站因不具备](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")《信息网络传播视听节目许可证》而被关闭。9日北京时间下午2点左右，VeryCD网站不能正常访问，许多网友指责[广电总局](../Page/国家广播电影电视总局.md "wikilink")，认为VeryCD被关停\[15\]。网站两主管黄一孟、戴云杰以及晚间VeryCD的公告则均表示是机房故障，10日中午可恢复正常。\[16\]\[17\]\[18\]。12月10日北京时间15时55分，网站开始逐步恢复。
 
@@ -33,7 +33,7 @@ Mod](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")\[10\]，以及�
 
 2011年6月30日，VeryCD关闭电影、电视剧下载功能，提供正版视频的在线观看，动漫、综艺、游戏三个分类将新“电驴大全”版面与原下载内容进行了合并，其他分类基本不变。此外VeryCD也同时正式启用“电驴大全”作为中文名。VeryCD官方声称作为一个在中国长期经营的网站必须遵从国家法律法规\[26\]。
 
-VeryCD多次改版将大量eD2k下载链接隐藏或删除，脱离了VeryCD建站时的初衷，据报道其主站用户流量也一度下滑50%。然而，VeryCD从2010年初开始开发的[网页游戏却给公司带来了巨大的财富](../Page/网页游戏.md "wikilink")，成为公司的支柱。2011年底公司月收入过亿[元](../Page/人民币.md "wikilink")，月利润四五千万元，其90%以上收入来自网页游戏，公司对自己的估价高达30亿元。\[27\]
+VeryCD多次改版将大量eD2k下载链接隐藏或删除，脱离了VeryCD建站时的初衷，据报道其主站用户流量也一度下滑50%。然而，VeryCD从2010年初开始开发的[网页游戏](../Page/网页游戏.md "wikilink")却给公司带来了巨大的财富，成为公司的支柱。2011年底公司月收入过亿[元](../Page/人民币.md "wikilink")，月利润四五千万元，其90%以上收入来自网页游戏，公司对自己的估价高达30亿元。\[27\]
 
 2012年9月開始，VeryCD隱藏了所有eD2k鏈接，僅顯示“该内容尚未提供权利证明，无法提供下载。”\[28\]但如果用戶經驗達到了一定的數值，便可以暢通無阻地瀏覽所有鏈接，而經驗必須通過發表評論、分享文章、添加圖片等方式慢慢積累。\[29\]
 
@@ -71,7 +71,7 @@ Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，其相对于[eMule添
 
 2007年起开发的easyMule的第一版是一款遵循GPL的eMule
 Mod，第二版声称完全自主开发而闭源，这点尚存在大量争议。easyMule相对于[eMule添加了Low](https://zh.wikipedia.org/wiki/eMule "wikilink")2Low、IE
-BHO插件，有搜索关键字过滤，使用VeryCD版DLP库，删减了文件分类、[IRC与用户消息](../Page/IRC.md "wikilink")、从eD2k服务器和[Kad网络搜索等许多功能](https://zh.wikipedia.org/wiki/Kad网络 "wikilink")，仅能搜索VeryCD站索引的资源的链接。
+BHO插件，有搜索关键字过滤，使用VeryCD版DLP库，删减了文件分类、[IRC](../Page/IRC.md "wikilink")与用户消息、从eD2k服务器和[Kad网络搜索等许多功能](https://zh.wikipedia.org/wiki/Kad网络 "wikilink")，仅能搜索VeryCD站索引的资源的链接。
 
 ## 审查
 
@@ -89,7 +89,7 @@ Mod被误屏蔽](https://zh.wikipedia.org/wiki/eMule_CN_Mod "wikilink")，该贴
 
 ## 版权问题
 
-VeryCD上一些未合法获得版权的资源链接曾经多次引来诉讼，这些诉讼结果有庭下调解或罚款几千至几十万不等。\[47\]\[48\]\[49\]在[美国贸易代表办公室和](https://zh.wikipedia.org/wiki/美国贸易代表办公室 "wikilink")[国际知识产权联盟撰写的](https://zh.wikipedia.org/wiki/国际知识产权联盟 "wikilink")2009和2010年度的[特别301报告中关于](https://zh.wikipedia.org/wiki/特别301报告 "wikilink")[中国大陆的部分也特别提到了VeryCD等多个网站的侵权问题](../Page/中国大陆.md "wikilink")。\[50\]
+VeryCD上一些未合法获得版权的资源链接曾经多次引来诉讼，这些诉讼结果有庭下调解或罚款几千至几十万不等。\[47\]\[48\]\[49\]在[美国贸易代表办公室和](https://zh.wikipedia.org/wiki/美国贸易代表办公室 "wikilink")[国际知识产权联盟撰写的](https://zh.wikipedia.org/wiki/国际知识产权联盟 "wikilink")2009和2010年度的[特别301报告中关于](https://zh.wikipedia.org/wiki/特别301报告 "wikilink")[中国大陆](../Page/中国大陆.md "wikilink")的部分也特别提到了VeryCD等多个网站的侵权问题。\[50\]
 
 现在VeryCD公司声称VeryCD上的所有内容都是按照[创作共用](../Page/创作共用.md "wikilink")-署名-保持一致1.0协议（CC-by-sa
 1.0）授权。\[51\]他们的“著作权保护声明”称：“所有资源的实际文件都只保存在网友自己的计算机上，VeryCD的服务器不会保存、复制或传播任何文件。”、“VeryCD自身不控制、编辑或修改任何网页的信息。”、“当权利人发现在VeryCD网页的内容侵犯其著作权时，请权利人向VeryCD发出书面‘权利通知’，VeryCD将依法采取措施移除相关内容或断开相关链接。”\[52\]同时，对于微软等一些公司的有版权软件或其他资源，VeryCD也禁止发布与加入精华。但是依然能在社区的某些非官方小组中找到这些资源。

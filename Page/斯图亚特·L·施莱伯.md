@@ -1,8 +1,8 @@
-**斯图亚特·L·施莱伯**（，），就职于美国[哈佛大学和麻省理工及哈佛名下的](../Page/哈佛大学.md "wikilink")。他引领[化学生物学长达](https://zh.wikipedia.org/wiki/化学生物学 "wikilink")20余年。他的名字常在生物学和医学的小分子探针应用领域出现。小分子携带有大量动态信息流，会与大分子（DNA、RNA、蛋白质）携带的遗传信息流协同合作。1980至1990年间，施莱伯应用化学生物学方法在生物学界取得巨大进展，并将其形成为生命科学领域最高速发展的学科。
+**斯图亚特·L·施莱伯**（，），就职于美国[哈佛大学](../Page/哈佛大学.md "wikilink")和麻省理工及哈佛名下的。他引领[化学生物学长达](https://zh.wikipedia.org/wiki/化学生物学 "wikilink")20余年。他的名字常在生物学和医学的小分子探针应用领域出现。小分子携带有大量动态信息流，会与大分子（DNA、RNA、蛋白质）携带的遗传信息流协同合作。1980至1990年间，施莱伯应用化学生物学方法在生物学界取得巨大进展，并将其形成为生命科学领域最高速发展的学科。
 
 ## 就学之路
 
-施莱伯取得[弗吉尼亚大学化学学士学位后](../Page/弗吉尼亚大学.md "wikilink")，在哈佛大学攻读化学专业研究生。他加入了[罗伯特·伯恩斯·伍德沃德的研究小组](../Page/罗伯特·伯恩斯·伍德沃德.md "wikilink")，在伍德沃德逝世后继续在[岸义人指导下研究](https://zh.wikipedia.org/wiki/岸义人 "wikilink")。施莱伯于1980年任耶鲁大学化学助理教授。
+施莱伯取得[弗吉尼亚大学](../Page/弗吉尼亚大学.md "wikilink")化学学士学位后，在哈佛大学攻读化学专业研究生。他加入了[罗伯特·伯恩斯·伍德沃德](../Page/罗伯特·伯恩斯·伍德沃德.md "wikilink")的研究小组，在伍德沃德逝世后继续在[岸义人指导下研究](https://zh.wikipedia.org/wiki/岸义人 "wikilink")。施莱伯于1980年任耶鲁大学化学助理教授。
 
 ## 1980至1999年间的重要研究
 
@@ -82,7 +82,7 @@ Infinity Pharmaceuticals, Inc (INFI)。这些公司已生产出对抗多种疾�
   - [麻省理工及哈佛的博大研究所,
     化学生物学项目部](http://www.broad.harvard.edu/chembio/index.html)
   - [哈佛大学施莱伯实验室](https://web.archive.org/web/20080323075125/http://www.broad.harvard.edu/chembio/lab_schreiber/index.html)
-  - [[霍华德·休斯医学研究所基因组学与化学遗传学](../Page/霍华德·休斯医学研究所.md "wikilink"),
+  - [[霍华德·休斯医学研究所](../Page/霍华德·休斯医学研究所.md "wikilink")基因组学与化学遗传学,
     视频讲座](http://www.hhmi.org/biointeractive/genomics/index.html)
   - [ChemBank](http://chembank.broad.harvard.edu/)
 

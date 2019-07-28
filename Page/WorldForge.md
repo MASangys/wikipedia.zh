@@ -1,9 +1,9 @@
-**WorldForge**着力创建[大型多人在线角色扮演游戏框架](../Page/大型多人在线角色扮演游戏.md "wikilink")。
+**WorldForge**着力创建[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")框架。
 
 ## 历史
 
 WorldForge
-Project开始于1998年10月，用原名"Altima."原来要制作成"另一个[网络创世纪](../Page/网络创世纪.md "wikilink")"在[Slashdot新闻中提及](../Page/Slashdot.md "wikilink")\[1\]，非常吸引开发者。
+Project开始于1998年10月，用原名"Altima."原来要制作成"另一个[网络创世纪](../Page/网络创世纪.md "wikilink")"在[Slashdot](../Page/Slashdot.md "wikilink")新闻中提及\[1\]，非常吸引开发者。
 
 原创和伙伴都离开了去开发Slashdot，尽管这样，社区继续运作。有了新目标和方向取代了"成熟创世纪克隆"而有了现在的名字"WorldForge"
 Avinash Gupta是项目的第一个领导者，然后是Bryce
@@ -28,7 +28,7 @@ Cyphesis现在运行这个世界。原意为AI服务器，Indri是原计划中�
 
 WorldForge因为长时间早期开发自己的协议和进程。结果导致大家乐于开发而不想着去玩。
 
-这个软件框架的很多地方让人迷失方向，导致了同时进行的开发——结果很多重复劳动。比如[服务器方面的开发](../Page/服务器.md "wikilink")。
+这个软件框架的很多地方让人迷失方向，导致了同时进行的开发——结果很多重复劳动。比如[服务器](../Page/服务器.md "wikilink")方面的开发。
 
 ## 参考
 

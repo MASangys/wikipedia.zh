@@ -16,8 +16,8 @@ platform = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | siz
 [壓縮程式](https://zh.wikipedia.org/wiki/壓縮程式 "wikilink")、[檔案管理器](https://zh.wikipedia.org/wiki/檔案管理器 "wikilink")
 | license = [GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink") | website =
  }} **PeaZip**是可以在[Microsoft
-Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux作業系統中執行的檔案管理器及](../Page/Linux.md "wikilink")[壓縮程式](https://zh.wikipedia.org/wiki/壓縮 "wikilink")。\[1\]它除了支援自己原生的[PEA壓縮格式](https://zh.wikipedia.org/wiki/PEA壓縮格式 "wikilink")（主要功能為壓縮、分檔、彈性地認證加密、整合式檢查架構）外，還有支援其他的主流壓縮格式。不過有特別著重在處理開放授權的壓縮格式上。\[2\]\[3\]這套壓縮軟體主要使用[Lazarus開發工具以](../Page/Lazarus.md "wikilink")[Free
-Pascal語言進行撰寫](../Page/Free_Pascal.md "wikilink")。是以[GNU宽通用公共许可证發布的](../Page/GNU宽通用公共许可证.md "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
+Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")作業系統中執行的檔案管理器及[壓縮程式](https://zh.wikipedia.org/wiki/壓縮 "wikilink")。\[1\]它除了支援自己原生的[PEA壓縮格式](https://zh.wikipedia.org/wiki/PEA壓縮格式 "wikilink")（主要功能為壓縮、分檔、彈性地認證加密、整合式檢查架構）外，還有支援其他的主流壓縮格式。不過有特別著重在處理開放授權的壓縮格式上。\[2\]\[3\]這套壓縮軟體主要使用[Lazarus](../Page/Lazarus.md "wikilink")開發工具以[Free
+Pascal語言進行撰寫](../Page/Free_Pascal.md "wikilink")。是以[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")發布的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 ## 功能
 

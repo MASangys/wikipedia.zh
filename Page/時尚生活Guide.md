@@ -7,7 +7,7 @@
 <http://app2.hkatv.com/v3/webtv/webtv.php?program=1000183> 時尚生活Guide
 節目重溫 }}
 
-《**時尚生活Guide**》（英文：），是2009年[香港](../Page/香港.md "wikilink")[亞洲電視一個以](../Page/亞洲電視.md "wikilink")[時尚潮流為主題的](https://zh.wikipedia.org/wiki/時尚 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")。最初由亞洲小姐[姚佳雯](https://zh.wikipedia.org/wiki/姚佳雯 "wikilink")，[顏子菲](../Page/顏子菲.md "wikilink")，[張家瑩](https://zh.wikipedia.org/wiki/張家瑩 "wikilink")，[袁小曼以及藝員](https://zh.wikipedia.org/wiki/袁小曼 "wikilink")[林小苑主持](https://zh.wikipedia.org/wiki/林小苑 "wikilink")（部分現已辭演甚至離開亞視），其後有所更替。節目時長為每集10分鐘左右，由2009年6月1日起，逢周一至周五晚上11點40分首播，次日中午12點重播。
+《**時尚生活Guide**》（英文：），是2009年[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")一個以[時尚潮流為主題的](https://zh.wikipedia.org/wiki/時尚 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")。最初由亞洲小姐[姚佳雯](https://zh.wikipedia.org/wiki/姚佳雯 "wikilink")，[顏子菲](../Page/顏子菲.md "wikilink")，[張家瑩](https://zh.wikipedia.org/wiki/張家瑩 "wikilink")，[袁小曼以及藝員](https://zh.wikipedia.org/wiki/袁小曼 "wikilink")[林小苑主持](https://zh.wikipedia.org/wiki/林小苑 "wikilink")（部分現已辭演甚至離開亞視），其後有所更替。節目時長為每集10分鐘左右，由2009年6月1日起，逢周一至周五晚上11點40分首播，次日中午12點重播。
 
 2010年3月23日起本節目由[美肌の誌冠名贊助](https://zh.wikipedia.org/wiki/美肌の誌 "wikilink")，故稱《美肌之誌特約
 : 時尚生活Guide》。

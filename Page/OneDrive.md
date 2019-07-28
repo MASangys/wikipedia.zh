@@ -3,7 +3,7 @@ Account來限制不同的使用者存取檔案](https://zh.wikipedia.org/wiki/Mi
 Account即可存取。
 
 [Office
-365订阅用户可获得](../Page/Office_365.md "wikilink")1TB储存空间，免费用户拥有5GB储存空间\[1\]（用户除了免費空間还可以邀请新用户加入OneDrive你和被邀请者都可以获得0.5GB额外的储存空间，最高10GB），用戶可選擇付款擴充容量\[2\]。OneDrive現在支援10GB的檔案\[3\]。另外，微軟也提供以[Silverlight和](https://zh.wikipedia.org/wiki/Silverlight "wikilink")[HTML5為基礎的檔案上傳功能](../Page/HTML5.md "wikilink")，使用者只要透過「拖拉」的方式便能將檔案上傳。但如沒有安裝Silverlight或瀏覽器不支援HTML5，則每次同時只可上傳5個檔案。
+365订阅用户可获得](../Page/Office_365.md "wikilink")1TB储存空间，免费用户拥有5GB储存空间\[1\]（用户除了免費空間还可以邀请新用户加入OneDrive你和被邀请者都可以获得0.5GB额外的储存空间，最高10GB），用戶可選擇付款擴充容量\[2\]。OneDrive現在支援10GB的檔案\[3\]。另外，微軟也提供以[Silverlight和](https://zh.wikipedia.org/wiki/Silverlight "wikilink")[HTML5](../Page/HTML5.md "wikilink")為基礎的檔案上傳功能，使用者只要透過「拖拉」的方式便能將檔案上傳。但如沒有安裝Silverlight或瀏覽器不支援HTML5，則每次同時只可上傳5個檔案。
 
 由于与[BSkyB存在商标争议](https://zh.wikipedia.org/wiki/BSkyB "wikilink")，2014年1月，微软宣布SkyDrive更名为**OneDrive**\[4\]。
 
@@ -14,7 +14,7 @@ Folders為名推出，且僅開放給[美國的少數測試者進行測試](http
 
   - 2007年8月1日，該服務開始對大眾開放。之後很快的，於2007年8月9日，Windows Live
     Folders被改名為Windows Live
-    SkyDrive，並且在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[印度開放測試](../Page/印度.md "wikilink")。\[6\]
+    SkyDrive，並且在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[印度](../Page/印度.md "wikilink")開放測試。\[6\]
   - 2008年5月22日時，Windows Live OneDrive向全世界62個國家及地區推出。\[7\]\[8\]
   - 2008年12月3日，Windows Live
     SkyDrive服務向[中國大陸地區用戶開放](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。並同時，每個SkyDrive的使用者帳戶容量從5GB提高至25GB。
@@ -25,7 +25,7 @@ Folders為名推出，且僅開放給[美國的少數測試者進行測試](http
   - 2014年1月27日，微軟在SkyDrive部落格提到SkyDrive將在不久被改名為OneDrive，除了消除侵權的疑慮，也間接說明微軟將雲端儲存裝置整合的想法。原SkyDrive用戶被轉向OneDrive，SkyDrive
     Pro用戶則轉向OneDrive Business，原有文件不受影響。\[12\]\[13\]
   - 2014年2月19日，SkyDrive正式改名為OneDrive\[14\]。
-  - 2014年7月1日，微软使用[全正加密技术](https://zh.wikipedia.org/wiki/全正加密 "wikilink")（[PFS](https://zh.wikipedia.org/wiki/PFS "wikilink")）强化[Outlook.com和OneDrive加密服务](../Page/Outlook.com.md "wikilink")。
+  - 2014年7月1日，微软使用[全正加密技术](https://zh.wikipedia.org/wiki/全正加密 "wikilink")（[PFS](https://zh.wikipedia.org/wiki/PFS "wikilink")）强化[Outlook.com](../Page/Outlook.com.md "wikilink")和OneDrive加密服务。
   - 2014年7月2日，OneDrive在中国大陆无法访问，其故障为[DNS污染](https://zh.wikipedia.org/wiki/DNS "wikilink")。
   - 2014年9月23日，微软宣布将免费用户存储空间上调至15GB，如果用户使用OneDrive备份照片则可再获得15GB奖励。\[15\]
   - 2014年10月28日，微软宣布为所有Office 365订阅用户提供无限云存储服务。\[16\]

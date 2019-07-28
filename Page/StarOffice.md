@@ -1,5 +1,5 @@
 **StarOffice**，是已不再更新的专有版權办公软件套件。其源自[Star
-Division公司于](https://zh.wikipedia.org/wiki/Star_Division "wikilink")1985年开发的StarWriter，该公司后来在1999年8月由[昇陽電腦收购](../Page/昇陽電腦.md "wikilink")。该软件套件的源代码于2000年7月公开，衍生出一个自由开放的开源办公软件，叫作[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")；StarOffice的后继版本皆基于OpenOffice.org，并带有另外的专有组件。\[1\]
+Division公司于](https://zh.wikipedia.org/wiki/Star_Division "wikilink")1985年开发的StarWriter，该公司后来在1999年8月由[昇陽電腦](../Page/昇陽電腦.md "wikilink")收购。该软件套件的源代码于2000年7月公开，衍生出一个自由开放的开源办公软件，叫作[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")；StarOffice的后继版本皆基于OpenOffice.org，并带有另外的专有组件。\[1\]
 
 2010年，甲骨文收购SUN公司，随后软件更名为Oracle Open Office。
 
@@ -80,7 +80,7 @@ OpenOffice继续开发](../Page/Apache_OpenOffice.md "wikilink")。而OpenOffice
 
 ### StarOffice 8
 
-  - 基於:OpenOffice.org 2.0，增加支持[开放文档格式标准](../Page/开放文档格式.md "wikilink")。
+  - 基於:OpenOffice.org 2.0，增加支持[开放文档格式](../Page/开放文档格式.md "wikilink")标准。
   - 支援平台:Windows 98/2000 (SP2或更高), Linux i386, Solaris 8 Sparc/x86
   - Updates 2-5基於OpenOffice.org 2.1
   - Updates 6-7基於OpenOffice.org 2.2

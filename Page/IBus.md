@@ -18,10 +18,10 @@ of IM engine Service Provider
 Interface）草案裡\[2\]，能實現以Bus為核心的架構被建議採用。[SCIM](../Page/SCIM.md "wikilink")-1.4
 的架構並不被看好，因為它是用C++開發的，因此常常會有C++[應用二進位介面不符合的情況發生](https://zh.wikipedia.org/wiki/應用二進位介面 "wikilink")\[3\]。
 
-從那時起，一些人開始著手開發下一代的輸入法平台，像是蘇哲領導的[IM-Bus](https://zh.wikipedia.org/wiki/IM-Bus "wikilink")，以及胡正的[SCIM-2](https://zh.wikipedia.org/wiki/SCIM-2 "wikilink")，可惜的是它們的開發進度仍然停滯不前。因此，時任[紅帽](https://zh.wikipedia.org/wiki/紅帽 "wikilink")（現任[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")）的黃鵬開始用[Python開發IBus以實現](../Page/Python.md "wikilink")
+從那時起，一些人開始著手開發下一代的輸入法平台，像是蘇哲領導的[IM-Bus](https://zh.wikipedia.org/wiki/IM-Bus "wikilink")，以及胡正的[SCIM-2](https://zh.wikipedia.org/wiki/SCIM-2 "wikilink")，可惜的是它們的開發進度仍然停滯不前。因此，時任[紅帽](https://zh.wikipedia.org/wiki/紅帽 "wikilink")（現任[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")）的黃鵬開始用[Python](../Page/Python.md "wikilink")開發IBus以實現
 IM-Bus提出的構想。IBus
-並不完全實現東北亞OSS論壇所建議的函式，而是採用[D-Bus及](../Page/D-Bus.md "wikilink")[Glib來實做](https://zh.wikipedia.org/wiki/Glib "wikilink")。儘管如此，IBus已經開始被OSS社群所接受，[FreeBSD以及各大](../Page/FreeBSD.md "wikilink")[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")
-如[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu已經將](../Page/Ubuntu.md "wikilink")
+並不完全實現東北亞OSS論壇所建議的函式，而是採用[D-Bus](../Page/D-Bus.md "wikilink")及[Glib來實做](https://zh.wikipedia.org/wiki/Glib "wikilink")。儘管如此，IBus已經開始被OSS社群所接受，[FreeBSD](../Page/FreeBSD.md "wikilink")以及各大[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")
+如[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")已經將
 IBus 納入其套件庫裡。在 Fedora 11 裡，IBus已經成為預設的多語輸入平台\[4\]。
 
 ## 系統架構
@@ -33,7 +33,7 @@ IBus 是用 C 及 Python 開發的，如此可以避免 C++ ABI transition
   - 配置服務：管理IBus以及輸入法的設定選項。
   - 控制面板服務：提供諸如語言條，候選字選單等使用者介面。
 
-IBus 使用[D-Bus作](../Page/D-Bus.md "wikilink") ibus-daemon服務，以及
+IBus 使用[D-Bus](../Page/D-Bus.md "wikilink")作 ibus-daemon服務，以及
 IM客戶端（像是konsole, gedit, firefox)之間的溝通。 ibus-daemon
 透過接受服務登錄，以及發送D-Bus訊息來管理服務及IM客戶端。
 
@@ -53,7 +53,7 @@ IBus支援 [XIM](https://zh.wikipedia.org/wiki/XIM "wikilink") 協議及 Gtk IM
   - ibus-anthy: [日文輸入法](../Page/日文輸入法.md "wikilink")。
   - ibus-array: [行列輸入法](https://zh.wikipedia.org/wiki/行列輸入法 "wikilink")
   - ibus-bopomofo:
-    使用注音符號的拼音輸入法，基於ibus-pinyin引擎開發\[5\]，但輸入方式與一般標準智慧形[注音輸入法](../Page/注音輸入法.md "wikilink")（如[新酷音輸入法或微軟新注音](../Page/新酷音輸入法.md "wikilink")）不同。
+    使用注音符號的拼音輸入法，基於ibus-pinyin引擎開發\[5\]，但輸入方式與一般標準智慧形[注音輸入法](../Page/注音輸入法.md "wikilink")（如[新酷音輸入法](../Page/新酷音輸入法.md "wikilink")或微軟新注音）不同。
   - ibus-chewing:
     [新酷音輸入法](../Page/新酷音輸入法.md "wikilink")，智慧形[注音輸入法](../Page/注音輸入法.md "wikilink")。
   - ibus-hangul: 韓文輸入法。

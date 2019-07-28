@@ -1,10 +1,10 @@
-**Real-Us**（或Real-US）是一隊[澳門三人唱作組合](../Page/澳門.md "wikilink")，於2003年組成。三位成員以往均為[澳門培正中學之學生](../Page/澳門培正中學.md "wikilink")，早在小學及初中期間認識，再組成Real-Us。
+**Real-Us**（或Real-US）是一隊[澳門](../Page/澳門.md "wikilink")三人唱作組合，於2003年組成。三位成員以往均為[澳門培正中學](../Page/澳門培正中學.md "wikilink")之學生，早在小學及初中期間認識，再組成Real-Us。
 組合的歌曲通常以英文作主導。Real-Us於2004年以《Come and Gone》一曲參加第二屆《澳廣視至愛新聽力
 》原創歌曲比賽，需未獲選決賽，但被澳門唱片品牌[輝佳音樂](https://zh.wikipedia.org/wiki/輝佳音樂 "wikilink")
 (Vocanimals Music)
 發掘，並簽約為公司旗下唱作組合，並於2006年正式解約。解約後的Real-Us在音樂上經過兩年休止期。在2008年，憑英文單曲《Drive》入選第六屆《澳廣視至愛新聽力
 》決賽及香港Yahoo\!Music
-及[伯樂音樂學院合辦之](../Page/伯樂音樂學院.md "wikilink")《尋找音樂人創作大賽》決賽。《Drive》更被重新填上中文歌詞
+及[伯樂音樂學院](../Page/伯樂音樂學院.md "wikilink")合辦之《尋找音樂人創作大賽》決賽。《Drive》更被重新填上中文歌詞
 (名為《界限》)，並收錄在[澳門創作人協會](../Page/澳門創作人協會.md "wikilink")《[回問](https://zh.wikipedia.org/wiki/回問 "wikilink")》合輯內。
 
 ## 組合成員
@@ -17,7 +17,7 @@
 
 ## 名字由來
 
-Real-Us 之名字來至日本歌手[濱崎步的](../Page/濱崎步.md "wikilink")《Real
+Real-Us 之名字來至日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的《Real
 me》一曲，而組合概念跟名字結合，就是"真我".
 
 > 「 ayumi 在 02 年所推出的專輯《 rainbow 》裡面，有一首歌叫《 Real me 》，歌曲悅耳， 我十分喜歡。歌詞表示一個
@@ -55,7 +55,7 @@ me》一曲，而組合概念跟名字結合，就是"真我".
 
 **2009年**
 
-  - [澳門創作人協會之年度項目](../Page/澳門創作人協會.md "wikilink")《[回問](https://zh.wikipedia.org/wiki/回問 "wikilink")》發佈演唱會
+  - [澳門創作人協會](../Page/澳門創作人協會.md "wikilink")之年度項目《[回問](https://zh.wikipedia.org/wiki/回問 "wikilink")》發佈演唱會
 
 **2010年**
 

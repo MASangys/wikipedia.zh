@@ -1,4 +1,4 @@
-**LGBT收養**（）指的是[LGBT族群](../Page/LGBT.md "wikilink")（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")）[收養兒童](../Page/收養.md "wikilink")。同性伴侶中其中一方通過法律方式（例如通過再婚的[繼子女](https://zh.wikipedia.org/wiki/繼子女 "wikilink")）取得一個兒童的[監護權](https://zh.wikipedia.org/wiki/監護權 "wikilink")，而伴侶的另一方則在事實上或法律上獲得了這個孩子的監護權，從而形成事實上或法律上的收養關係。
+**LGBT收養**（）指的是[LGBT](../Page/LGBT.md "wikilink")族群（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")）[收養](../Page/收養.md "wikilink")兒童。同性伴侶中其中一方通過法律方式（例如通過再婚的[繼子女](https://zh.wikipedia.org/wiki/繼子女 "wikilink")）取得一個兒童的[監護權](https://zh.wikipedia.org/wiki/監護權 "wikilink")，而伴侶的另一方則在事實上或法律上獲得了這個孩子的監護權，從而形成事實上或法律上的收養關係。
 
 LGBT收養目前在14個國家是合法的，同時在某些國家（例如：美國）的某些地區是合法的。但在目前大部分的國家及地區，LGBT收養兒童是非法的，儘管在上述地區關於LGBT收養權問題還在熱烈辯論中。而反對LGBT族群收養兒童的最重要原因是，反對者質疑同性伴侶能夠承擔起足夠的家長責任。但在實際執行上，LGBT收養權也不完全是由法律來監管，所以有時立法與否並不能阻止LGBT收養的發生。
 
@@ -59,10 +59,10 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 
 | 國家                                                                                    | 地區                                                        | 日期    | 參考                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")                                     |                                                           | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[18\] |
-| [愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")                                 |                                                           | 2016年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。       |
-| [澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")                                 | [塔斯馬尼亞州](../Page/塔斯馬尼亞州.md "wikilink")                    | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[19\] |
-| [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")                                     | [賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink") | 2002年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[20\] |
+| [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")                                     |                                                           | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合](../Page/民事結合.md "wikilink")關係，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[18\] |
+| [愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")                                 |                                                           | 2016年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合](../Page/民事結合.md "wikilink")關係，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。       |
+| [澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")                                 | [塔斯馬尼亞州](../Page/塔斯馬尼亞州.md "wikilink")                    | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合](../Page/民事結合.md "wikilink")關係，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[19\] |
+| [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")                                     | [賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink") | 2002年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合](../Page/民事結合.md "wikilink")關係，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[20\] |
 | [斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")                               |                                                           | 2011年 |                                                                                                                                                                             |
 | [中華民國](../Page/中華民國.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")） |                                                           | 2019年 |                                                                                                                                                                             |
 
@@ -83,10 +83,10 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 [歐洲LGBT家庭合法領養示意圖
 ](https://zh.wikipedia.org/wiki/File:Same-sex_Adoption_Map_Europe.svg "fig:歐洲LGBT家庭合法領養示意圖    ")
 
-2006年2月，[法國最高上訴法院裁定](https://zh.wikipedia.org/wiki/法國 "wikilink")，在同性伴侶關係中，其中一人可以擁有另一人親生子女的[親權](https://zh.wikipedia.org/wiki/親權 "wikilink")（即[監護權](https://zh.wikipedia.org/wiki/監護權 "wikilink")）。這個判決結果來自一個案件，在案件中，一名女性試圖將她兩個女兒的親權給她擁有[民事結合關係的伴侶](../Page/民事結合.md "wikilink")。\[21\]但在2007年2月，法國最高上訴法院卻駁回了另一對LGBT家庭的領養訴訟。法院指出，除非她的伴侶放棄她的親權，否則她將無法獲得與她伴侶的民事關係身份權。\[22\]\[23\]
+2006年2月，[法國最高上訴法院裁定](https://zh.wikipedia.org/wiki/法國 "wikilink")，在同性伴侶關係中，其中一人可以擁有另一人親生子女的[親權](https://zh.wikipedia.org/wiki/親權 "wikilink")（即[監護權](https://zh.wikipedia.org/wiki/監護權 "wikilink")）。這個判決結果來自一個案件，在案件中，一名女性試圖將她兩個女兒的親權給她擁有[民事結合](../Page/民事結合.md "wikilink")關係的伴侶。\[21\]但在2007年2月，法國最高上訴法院卻駁回了另一對LGBT家庭的領養訴訟。法院指出，除非她的伴侶放棄她的親權，否則她將無法獲得與她伴侶的民事關係身份權。\[22\]\[23\]
 
 1998年，一名[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[隆勒索涅幼兒園教師向](https://zh.wikipedia.org/wiki/隆勒索涅 "wikilink")[汝拉省政府申請領養](https://zh.wikipedia.org/wiki/汝拉省 "wikilink")。這名幼兒園教師與另一位同性同居在一起，因此[汝拉省政府以領養兒童可能會因為成長過程缺少父親關愛拒絕了她的領養申請](https://zh.wikipedia.org/wiki/汝拉省 "wikilink")。\[24\]
-該名女子隨即向法庭提出起訴並同時向上級政府機構提出复議，但是在法庭作出判決前，上級政府機構卻提前拒絕了該名女子的复議請求。\[25\][歐洲人權法院指出這違反了](https://zh.wikipedia.org/wiki/歐洲人權法院 "wikilink")[歐洲人權公約第八條和第十四條](../Page/歐洲人權公約.md "wikilink")。\[26\]\[27\]
+該名女子隨即向法庭提出起訴並同時向上級政府機構提出复議，但是在法庭作出判決前，上級政府機構卻提前拒絕了該名女子的复議請求。\[25\][歐洲人權法院指出這違反了](https://zh.wikipedia.org/wiki/歐洲人權法院 "wikilink")[歐洲人權公約](../Page/歐洲人權公約.md "wikilink")第八條和第十四條。\[26\]\[27\]
 
 2006年6月2日，冰島議會提出一項議案，決定給予LGBT家庭和異性戀家庭一樣的權利，即允許LGBT家庭採用[人工受孕的形式獲得孩子](https://zh.wikipedia.org/wiki/人工受孕 "wikilink")。該項議案獲得全票通過，並與同年6月27日生效。
 
@@ -108,7 +108,7 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 
 #### 美国
 
-在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，各州都可以自行制定法律決定[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[民事結合或LGBT領養是否合法](../Page/民事結合.md "wikilink")。但是在聯邦法官的一次判決中，各州必須認識到，根據[完全信任條款](https://zh.wikipedia.org/wiki/完全信任條款 "wikilink")（），即便本州不允許LGBT領養合法，但是如果LGBT家庭是在別的州合法領養了子女，那麼在本州也是合法的。\[31\]
+在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，各州都可以自行制定法律決定[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[民事結合](../Page/民事結合.md "wikilink")或LGBT領養是否合法。但是在聯邦法官的一次判決中，各州必須認識到，根據[完全信任條款](https://zh.wikipedia.org/wiki/完全信任條款 "wikilink")（），即便本州不允許LGBT領養合法，但是如果LGBT家庭是在別的州合法領養了子女，那麼在本州也是合法的。\[31\]
 事實上，在美國大約有27萬名兒童與LGBT家庭生活在一起，而其中的四分之一（大約6.5萬人）是被領養的。\[32\]
 
 [猶他州和](https://zh.wikipedia.org/wiki/猶他州 "wikilink")[佛羅里達州都是美國歷史上對LGBT族群限制比較嚴厲的州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")。猶他州禁止“不具備法律效力的同居關係或不具有約束力的婚姻關係中的人士”領養小孩\[33\]，但是允許單身人士（必須無任何婚姻關係或同居關係），無論他們的[性取向](../Page/性取向.md "wikilink")，領養小孩。
@@ -127,13 +127,13 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 
 2009年12月21日，墨西哥联邦区议会通过立法，允许同性伴侣收养子女。\[50\]八天以后，市长签署法案使其成为正式法律，最终在2010年3月4日正式生效。\[51\]
 
-但在2011年11月24日，[科阿韦拉州](https://zh.wikipedia.org/wiki/科阿韦拉州 "wikilink")[最高法院推翻了该州的法律](../Page/最高法院.md "wikilink")，并敦促该州的立法机关尽快修订法律禁止同性伴侣收养。\[52\]2014年2月12日，该州的议会在争执了两年多后，最终决定接受最高法院的判决。
+但在2011年11月24日，[科阿韦拉州](https://zh.wikipedia.org/wiki/科阿韦拉州 "wikilink")[最高法院](../Page/最高法院.md "wikilink")推翻了该州的法律，并敦促该州的立法机关尽快修订法律禁止同性伴侣收养。\[52\]2014年2月12日，该州的议会在争执了两年多后，最终决定接受最高法院的判决。
 
 ### 南美洲
 
 [南美地区LGBT家庭合法领养示意图
 ](https://zh.wikipedia.org/wiki/File:Gay_adoption_in_South_America.svg "fig:南美地区LGBT家庭合法领养示意图     ")
-在[阿根廷](../Page/阿根廷.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[法属圭亚那](https://zh.wikipedia.org/wiki/法属圭亚那 "wikilink")，[乌拉圭和](../Page/乌拉圭.md "wikilink")[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")，法律允许同性夫妻可以共同收养子女。在乌拉圭，2009年10月，同性法律由总统巴斯克斯签署并生效。\[53\]根据民意调查，53％的乌拉圭人反对同性法案通过而支持率仅有39％。另一项在2008年的民意调查则显示，49％反对同性法案通过，35％支持同性法案通过。\[54\]\[55\]在最近（2014年11月）的一项在智利的民意调查显示，智利民众的44％支持同性收养，51％反对。\[56\]
+在[阿根廷](../Page/阿根廷.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[法属圭亚那](https://zh.wikipedia.org/wiki/法属圭亚那 "wikilink")，[乌拉圭](../Page/乌拉圭.md "wikilink")和[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")，法律允许同性夫妻可以共同收养子女。在乌拉圭，2009年10月，同性法律由总统巴斯克斯签署并生效。\[53\]根据民意调查，53％的乌拉圭人反对同性法案通过而支持率仅有39％。另一项在2008年的民意调查则显示，49％反对同性法案通过，35％支持同性法案通过。\[54\]\[55\]在最近（2014年11月）的一项在智利的民意调查显示，智利民众的44％支持同性收养，51％反对。\[56\]
 
 ### 大洋洲
 

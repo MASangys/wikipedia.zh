@@ -1,6 +1,6 @@
 **Camps喹啉合成**（Camps quinoline synthesis），又称**Camps环化反应**
 
-邻[酰氨基](https://zh.wikipedia.org/wiki/酰氨基 "wikilink")[苯乙酮在](../Page/苯乙酮.md "wikilink")[氢氧化钠的](../Page/氢氧化钠.md "wikilink")[醇溶液存在下发生](../Page/醇.md "wikilink")[环化](https://zh.wikipedia.org/wiki/环化 "wikilink")，生成两种[羟基](../Page/羟基.md "wikilink")[喹啉](../Page/喹啉.md "wikilink")（A
+邻[酰氨基](https://zh.wikipedia.org/wiki/酰氨基 "wikilink")[苯乙酮](../Page/苯乙酮.md "wikilink")在[氢氧化钠](../Page/氢氧化钠.md "wikilink")的[醇](../Page/醇.md "wikilink")溶液存在下发生[环化](https://zh.wikipedia.org/wiki/环化 "wikilink")，生成两种[羟基](../Page/羟基.md "wikilink")[喹啉](../Page/喹啉.md "wikilink")（A
 和 B）的混合物。\[1\]\[2\]\[3\]\[4\]
 
 

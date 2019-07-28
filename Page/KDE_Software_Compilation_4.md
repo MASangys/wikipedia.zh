@@ -3,7 +3,7 @@
 {{ URL | <http://kde.linux.org.tw/> | KDE正体中文翻译团队 }} }}
 
 '''KDE Software Compilation 4 '''（缩写KDE SC
-4，中文译名KDE软件集4）是[KDE社区發布的桌面環境的最新系列](../Page/KDE.md "wikilink")。本系列第一個主要版本（4.0）發布於2008年1月11日，\[1\]最新的主要版本（4.14）發布於2014年8月20日。\[2\]
+4，中文译名KDE软件集4）是[KDE](../Page/KDE.md "wikilink")社区發布的桌面環境的最新系列。本系列第一個主要版本（4.0）發布於2008年1月11日，\[1\]最新的主要版本（4.14）發布於2014年8月20日。\[2\]
 
 新系列包括更新數個KDE核心組成，特別是移植到[Qt
 4](../Page/Qt.md "wikilink")。包含一個稱為[Phonon新的多媒體API](../Page/Phonon_\(KDE\).md "wikilink")，一個稱為[Solid的設備整合框架和稱為](https://zh.wikipedia.org/wiki/Solid_\(KDE\) "wikilink")[Oxygen的新風格指引和預設圖標集](https://zh.wikipedia.org/wiki/Oxygen "wikilink")。它也包括稱為[Plasma的新桌面和面板用戶界面工具](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink")，支持桌面元件（稱為｢Plasmoids｣）。使用Qt
@@ -24,9 +24,9 @@ OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。KDE
 2007設立圖標緩存是為了降低用於KDE 4應用程序的啟動時間。\[4\]改善不盡相同 -
 Kfind，一個使用數百圖標的應用程序，启动时间几乎减少了四分之一。\[5\]
 
-許多在[Extragear和](../Page/Extragear.md "wikilink")[KOffice模塊的應用程序已加入KDE](../Page/KOffice.md "wikilink")
+許多在[Extragear](../Page/Extragear.md "wikilink")和[KOffice](../Page/KOffice.md "wikilink")模塊的應用程序已加入KDE
 4和Qt 4的新功能。但由於他們根據自己的發布計劃，他們並沒有隨著第一次的KDE
-4發布–其中包括[Amarok](../Page/Amarok.md "wikilink")、[K3b](../Page/K3b.md "wikilink")、[digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink")、[KWord和](../Page/KWord.md "wikilink")[Krita](../Page/Krita.md "wikilink")。
+4發布–其中包括[Amarok](../Page/Amarok.md "wikilink")、[K3b](../Page/K3b.md "wikilink")、[digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink")、[KWord](../Page/KWord.md "wikilink")和[Krita](../Page/Krita.md "wikilink")。
 
 ### 視覺
 
@@ -95,11 +95,11 @@ KDE SC 4.4基於2009年年底發布的[Qt](../Page/Qt.md "wikilink") 4.6。\[16\
 
 [KAddressBook將被一個具有相同的名稱全新的應用程序](https://zh.wikipedia.org/wiki/KAddressBook "wikilink")（先前暫名為KContactManager）取代。\[17\]
 KDE SC
-4.4的KAddressBook的特點是完全整合[Akonadi與簡化的用戶界面](../Page/Akonadi.md "wikilink")。
+4.4的KAddressBook的特點是完全整合[Akonadi](../Page/Akonadi.md "wikilink")與簡化的用戶界面。
 
 另一項重要的新功能是一個針對上網本的新Plasma界面。\[18\]
 
-[Kopete將發布](../Page/Kopete.md "wikilink")1.0。\[19\]
+[Kopete](../Page/Kopete.md "wikilink")將發布1.0。\[19\]
 
 KAuth：跨平台的認證API，將在KDE SC 4.4亮相。最初只支持PolicyKit作為後端。\[20\]
 
@@ -113,17 +113,17 @@ KDE SC 4.5发布于2010年8月10日，是KDE SC当前的版本。
 新的KSharedDataCache组件为磁盘数据（如图标）的快速存取而优化。
 
 新的KDE
-WebKit库提供与[Konqueror中的网络设置](../Page/Konqueror.md "wikilink")，密码保存和其他许多功能的集成。\[22\]
+WebKit库提供与[Konqueror](../Page/Konqueror.md "wikilink")中的网络设置，密码保存和其他许多功能的集成。\[22\]
 
 ### Plasma Desktop and Netbook 4.5.0
 
-[Plasma桌面的易用性得到改进](../Page/Plasma.md "wikilink")，包括精简通知和任务区域和采用[Freedesktop.org的通知协议](../Page/Freedesktop.org.md "wikilink")。\[23\]
+[Plasma](../Page/Plasma.md "wikilink")桌面的易用性得到改进，包括精简通知和任务区域和采用[Freedesktop.org](../Page/Freedesktop.org.md "wikilink")的通知协议。\[23\]
 
 ### KDE Applications 4.5.0
 
 虚拟地球仪[Marble支持](https://zh.wikipedia.org/wiki/Marble "wikilink")[OpenRouteService服务](https://zh.wikipedia.org/wiki/OpenRouteService "wikilink")。
 
-网络浏览器[Konqueror可以通过Extragear中的KWebKit组件来使用](../Page/Konqueror.md "wikilink")[WebKit](../Page/WebKit.md "wikilink")。\[24\]
+网络浏览器[Konqueror](../Page/Konqueror.md "wikilink")可以通过Extragear中的KWebKit组件来使用[WebKit](../Page/WebKit.md "wikilink")。\[24\]
 
 ## KDE SC 4.6
 

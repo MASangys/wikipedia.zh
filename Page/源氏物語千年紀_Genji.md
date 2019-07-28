@@ -1,7 +1,7 @@
 《'''源氏物語千年紀 Genji
 '''》是一部日本[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，於2009年1月15日至3月26日在[富士電視台](../Page/富士電視台.md "wikilink")[noitaminA播出](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
 
-2008年8月，動畫節目[noitaminA原定是把](https://zh.wikipedia.org/wiki/noitaminA "wikilink")[大和和紀改編自](../Page/大和和紀.md "wikilink")[源氏物語的](../Page/源氏物語.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[源氏物語](../Page/源氏物語_\(漫畫\).md "wikilink")》動畫化，不過，根據監督[出崎統的意向](../Page/出崎統.md "wikilink")，2008年11月10日對計劃作了相應調整，變成了動畫直接取材自小說原著\[1\]。工作人員除了一部份外均未變更。
+2008年8月，動畫節目[noitaminA原定是把](https://zh.wikipedia.org/wiki/noitaminA "wikilink")[大和和紀](../Page/大和和紀.md "wikilink")改編自[源氏物語](../Page/源氏物語.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[源氏物語](../Page/源氏物語_\(漫畫\).md "wikilink")》動畫化，不過，根據監督[出崎統](../Page/出崎統.md "wikilink")的意向，2008年11月10日對計劃作了相應調整，變成了動畫直接取材自小說原著\[1\]。工作人員除了一部份外均未變更。
 
 ## 工作人員
 
@@ -21,7 +21,7 @@
   - [光源氏](../Page/光源氏.md "wikilink")：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
   - [弘徽殿女御](https://zh.wikipedia.org/wiki/弘徽殿女御 "wikilink")：[藤田淑子](../Page/藤田淑子.md "wikilink")
   - [紫之上](../Page/紫之上.md "wikilink")：[遠藤綾](../Page/遠藤綾.md "wikilink")
-  - [藤壺女御](../Page/藤壺.md "wikilink")：[玉川紗己子](https://zh.wikipedia.org/wiki/玉川紗己子 "wikilink")
+  - [藤壺](../Page/藤壺.md "wikilink")女御：[玉川紗己子](https://zh.wikipedia.org/wiki/玉川紗己子 "wikilink")
   - [桐壺帝](../Page/桐壺帝.md "wikilink")：[堀内賢雄](https://zh.wikipedia.org/wiki/堀内賢雄 "wikilink")
   - [頭中將](https://zh.wikipedia.org/wiki/頭中將 "wikilink")：[杉田智和](../Page/杉田智和.md "wikilink")
   - [葵之上](../Page/葵之上.md "wikilink")：[平田繪里子](https://zh.wikipedia.org/wiki/平田繪里子 "wikilink")

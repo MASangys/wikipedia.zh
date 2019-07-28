@@ -149,7 +149,7 @@ Linux等](../Page/Oracle_Linux.md "wikilink")。
 {{-}}
 
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:Red_Hat](https://zh.wikipedia.org/wiki/Category:Red_Hat "wikilink")
+[Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
 
 1.  [Red Hat Enterprise Linux Stability Drives Demand for More
     Flexibility in Long-term Operating System

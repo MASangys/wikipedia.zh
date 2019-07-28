@@ -100,7 +100,7 @@
 
 ## 静脉、淋巴管和淋巴结疾病，不可归类在他处者（I80-I89）
 
-[静脉](../Page/静脉.md "wikilink")、[淋巴管和](../Page/淋巴管.md "wikilink")[淋巴结疾病](https://zh.wikipedia.org/wiki/淋巴结 "wikilink")，不可归类在他处者（I80-I89）
+[静脉](../Page/静脉.md "wikilink")、[淋巴管](../Page/淋巴管.md "wikilink")和[淋巴结疾病](https://zh.wikipedia.org/wiki/淋巴结 "wikilink")，不可归类在他处者（I80-I89）
 
   - I80
     [静脉炎和](https://zh.wikipedia.org/wiki/静脉炎 "wikilink")[血栓性静脉炎](https://zh.wikipedia.org/wiki/血栓性静脉炎 "wikilink")
@@ -119,8 +119,8 @@
 循环系统其他和未特指的疾患（I95-I99）
 
   - I95 [低血压](https://zh.wikipedia.org/wiki/低血压 "wikilink")
-  - I97 [循环系统的操作后疾患](../Page/循环系统.md "wikilink")，不可归类在他处者
-  - I98 分类于他处的、疾病引起的[循环系统的其他疾患](../Page/循环系统.md "wikilink")
+  - I97 [循环系统](../Page/循环系统.md "wikilink")的操作后疾患，不可归类在他处者
+  - I98 分类于他处的、疾病引起的[循环系统](../Page/循环系统.md "wikilink")的其他疾患
   - I99 循环系统的其他和未特指的疾患
 
 ## 参见

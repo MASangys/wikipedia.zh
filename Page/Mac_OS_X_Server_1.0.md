@@ -1,9 +1,9 @@
 }}
 
 **Mac OS X Server
-1.0**發佈於1999年3月16日\[1\]，是蘋果公司首个面向零售市场发布的基於[NeXT的操作系統](../Page/NeXT.md "wikilink")。它是代号为[Rhapsody的最后一款系统](../Page/Rhapsody.md "wikilink")，整合了Mac
+1.0**發佈於1999年3月16日\[1\]，是蘋果公司首个面向零售市场发布的基於[NeXT](../Page/NeXT.md "wikilink")的操作系統。它是代号为[Rhapsody](../Page/Rhapsody.md "wikilink")的最后一款系统，整合了Mac
 OS
-8的白金外觀與[OpenStep的](../Page/OpenStep.md "wikilink")[NeXT-based界面](https://zh.wikipedia.org/wiki/NeXT-based "wikilink")、Mach
+8的白金外觀與[OpenStep](../Page/OpenStep.md "wikilink")的[NeXT-based界面](https://zh.wikipedia.org/wiki/NeXT-based "wikilink")、Mach
 OS和OpenStep [API](../Page/应用程序接口.md "wikilink")，而不是經典的[Mac
 OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，讓用戶可預覽未來的[Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。

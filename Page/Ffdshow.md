@@ -1,4 +1,4 @@
-**ffdshow**是一套免費的[视频編解碼軟體](../Page/视频编解码器.md "wikilink")，可支援[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")、[FLV](https://zh.wikipedia.org/wiki/FLV "wikilink")、[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2以及](../Page/MPEG-2.md "wikilink")[MPEG-4等格式視訊檔](../Page/MPEG-4.md "wikilink")。ffdshow本身並不包含[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")，但各種媒體播放器都可以使用ffdshow進行解碼。
+**ffdshow**是一套免費的[视频編解碼軟體](../Page/视频编解码器.md "wikilink")，可支援[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")、[FLV](https://zh.wikipedia.org/wiki/FLV "wikilink")、[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")以及[MPEG-4](../Page/MPEG-4.md "wikilink")等格式視訊檔。ffdshow本身並不包含[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")，但各種媒體播放器都可以使用ffdshow進行解碼。
 
 ## 格式
 

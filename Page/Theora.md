@@ -1,4 +1,4 @@
-**Theora**是一個免權利金、開放格式的[有損](https://zh.wikipedia.org/wiki/破壞性資料壓縮 "wikilink")[影像壓縮技術](https://zh.wikipedia.org/wiki/影像壓縮 "wikilink")，由[Xiph.Org基金會開發](../Page/Xiph.Org基金會.md "wikilink")，該基金會還開發了著名的聲音編碼技術[Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")，以及多媒體容器檔案格式[Ogg](../Page/Ogg.md "wikilink")。**libtheora**則是Xiph.Org基金會針對Theora格式的實作\[1\]\[2\]。
+**Theora**是一個免權利金、開放格式的[有損](https://zh.wikipedia.org/wiki/破壞性資料壓縮 "wikilink")[影像壓縮技術](https://zh.wikipedia.org/wiki/影像壓縮 "wikilink")，由[Xiph.Org基金會](../Page/Xiph.Org基金會.md "wikilink")開發，該基金會還開發了著名的聲音編碼技術[Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")，以及多媒體容器檔案格式[Ogg](../Page/Ogg.md "wikilink")。**libtheora**則是Xiph.Org基金會針對Theora格式的實作\[1\]\[2\]。
 
 Theora是由[On2
 Technologies公司專屬的](../Page/On2_Technologies.md "wikilink")[VP3編碼器](https://zh.wikipedia.org/wiki/VP3 "wikilink")，經過開放原始碼後衍生而來，目標是達成比[MPEG-4
@@ -46,10 +46,10 @@ libtheora
 
 Theora是一個[變動位元率](https://zh.wikipedia.org/wiki/可變位元速率 "wikilink")、以[DCT為基礎的影像壓縮格式](https://zh.wikipedia.org/wiki/DCT "wikilink")。和多數的影像編碼格式一樣，Theora使用了[色度抽樣](https://zh.wikipedia.org/wiki/色度抽樣 "wikilink")、block
 based motion compensation和8×8 DCT
-block，也支援[視訊壓縮圖像類型和](https://zh.wikipedia.org/wiki/intra-coded_frames（I-frames） "wikilink")[視訊壓縮圖像類型](https://zh.wikipedia.org/wiki/forward_predictive_frames（P-frames） "wikilink")，但是不支援使用在[H.264和](https://zh.wikipedia.org/wiki/H.264 "wikilink")[VC-1的](../Page/VC-1.md "wikilink")[bi-predictive
+block，也支援[視訊壓縮圖像類型和](https://zh.wikipedia.org/wiki/intra-coded_frames（I-frames） "wikilink")[視訊壓縮圖像類型](https://zh.wikipedia.org/wiki/forward_predictive_frames（P-frames） "wikilink")，但是不支援使用在[H.264和](https://zh.wikipedia.org/wiki/H.264 "wikilink")[VC-1](../Page/VC-1.md "wikilink")的[bi-predictive
 frames（B-frame）](../Page/視訊壓縮圖像類型.md "wikilink")，Theora也不支援[隔行掃描](https://zh.wikipedia.org/wiki/隔行掃描 "wikilink")、可变帧率，或8位以上原色色深。\[36\]。
 
-Theora的影像流可以儲存在任何的容器檔案格式中，最常用的是和聲音編碼[Vorbis一起儲存在](https://zh.wikipedia.org/wiki/Vorbis "wikilink")[Ogg檔案格式中](../Page/Ogg.md "wikilink")，這種方式可以提供完全開放、免權利金的多媒體檔案。此外Theora影像也可以儲存在[Matroska檔案中](../Page/Matroska.md "wikilink")\[37\]。
+Theora的影像流可以儲存在任何的容器檔案格式中，最常用的是和聲音編碼[Vorbis一起儲存在](https://zh.wikipedia.org/wiki/Vorbis "wikilink")[Ogg](../Page/Ogg.md "wikilink")檔案格式中，這種方式可以提供完全開放、免權利金的多媒體檔案。此外Theora影像也可以儲存在[Matroska](../Page/Matroska.md "wikilink")檔案中\[37\]。
 
 ## 影像表現
 
@@ -58,11 +58,11 @@ Theora的影像流可以儲存在任何的容器檔案格式中，最常用的�
 早期的VP3\[38\]和Theora\[39\] \[40\]
 \[41\]編碼器在編碼結果上明顯不如同時期的其他編碼器。Google公司的員工Chris
 DiBona也在2009年宣稱Theora的編碼品質不佳\[42\]，為了回應這個論點，Xiph基金會的開發者用Theora
-1.1版本的編碼器和[YouTube上的](../Page/YouTube.md "wikilink")[H.264以及](https://zh.wikipedia.org/wiki/H.264 "wikilink")[H.263+編碼器做比較](../Page/H.263.md "wikilink")，結果發現Theora的編碼畫質可以比擬H.264，且更勝於H.263+\[43\]\[44\]。
+1.1版本的編碼器和[YouTube](../Page/YouTube.md "wikilink")上的[H.264以及](https://zh.wikipedia.org/wiki/H.264 "wikilink")[H.263](../Page/H.263.md "wikilink")+編碼器做比較，結果發現Theora的編碼畫質可以比擬H.264，且更勝於H.263+\[43\]\[44\]。
 
 ### 播放表現
 
-針對Theora的硬體解碼器，目前有開放原始碼的[VHDL程式正在開發中](../Page/VHDL.md "wikilink")\[45\]。而2006年開始也有針對[Nios
+針對Theora的硬體解碼器，目前有開放原始碼的[VHDL](../Page/VHDL.md "wikilink")程式正在開發中\[45\]。而2006年開始也有針對[Nios
 II以及](../Page/Nios_II.md "wikilink")[LEON處理器做為解碼器的開發計畫](https://zh.wikipedia.org/wiki/LEON "wikilink")\[46\]，不過目前並沒有任何可以針對Theora影像做硬體解碼的產品出現在市面上。
 
 ## 播放
@@ -82,11 +82,11 @@ II以及](../Page/Nios_II.md "wikilink")[LEON處理器做為解碼器的開發�
 
 <!-- end list -->
 
-  - [SeaMonkey在](../Page/SeaMonkey.md "wikilink")2.0之後的版本\[53\]。
+  - [SeaMonkey](../Page/SeaMonkey.md "wikilink")在2.0之後的版本\[53\]。
 
 <!-- end list -->
 
-  - [Konqueror在](../Page/Konqueror.md "wikilink")4.4.2之後的版本\[54\]\[55\]。
+  - [Konqueror](../Page/Konqueror.md "wikilink")在4.4.2之後的版本\[54\]\[55\]。
 
 <!-- end list -->
 
@@ -98,7 +98,7 @@ II以及](../Page/Nios_II.md "wikilink")[LEON處理器做為解碼器的開發�
 可以透過下列的[外掛程式讓瀏覽器播放Theora影像](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")
 
   - [Annodex的外掛程式](https://zh.wikipedia.org/wiki/Annodex "wikilink")（透過[OggPlay](http://wiki.xiph.org/index.php/OggPlay)）
-  - [Cortado](https://zh.wikipedia.org/wiki/Cortado_\(software\) "wikilink")，一個以[Java語言開發的播放器應用程式](../Page/Java.md "wikilink")（applet）
+  - [Cortado](https://zh.wikipedia.org/wiki/Cortado_\(software\) "wikilink")，一個以[Java](../Page/Java.md "wikilink")語言開發的播放器應用程式（applet）
   - [VLC媒體播放器針對IE以及Firefox的瀏覽器外掛程式](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")
 
 ### 支援的應用程式
@@ -109,8 +109,8 @@ II以及](../Page/Nios_II.md "wikilink")[LEON處理器做為解碼器的開發�
   - [Miro Media
     Player](https://zh.wikipedia.org/wiki/Miro_Media_Player "wikilink")（舊名Democracy
     Player）
-  - [MPlayer以及其前端程式](../Page/MPlayer.md "wikilink")
-  - [Songbird](../Page/Songbird.md "wikilink")、[Totem](https://zh.wikipedia.org/wiki/Totem "wikilink")、[Moovida和所有以](https://zh.wikipedia.org/wiki/Moovida "wikilink")[GStreamer為基礎的播放器](../Page/GStreamer.md "wikilink")
+  - [MPlayer](../Page/MPlayer.md "wikilink")以及其前端程式
+  - [Songbird](../Page/Songbird.md "wikilink")、[Totem](https://zh.wikipedia.org/wiki/Totem "wikilink")、[Moovida和所有以](https://zh.wikipedia.org/wiki/Moovida "wikilink")[GStreamer](../Page/GStreamer.md "wikilink")為基礎的播放器
   - [VLC](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")（原生支援）
   - [xine和以libxine為基礎的播放器](https://zh.wikipedia.org/wiki/xine "wikilink")，像是[Kaffeine](../Page/Kaffeine.md "wikilink")
   - [Dragon

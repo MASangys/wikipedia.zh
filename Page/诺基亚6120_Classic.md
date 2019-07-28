@@ -1,5 +1,5 @@
 **诺基亚 6120
-classic**（****）是一款[诺基亚生产的](../Page/诺基亚.md "wikilink")6系列[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，是原來[诺基亚
+classic**（****）是一款[诺基亚](../Page/诺基亚.md "wikilink")生产的6系列[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，是原來[诺基亚
 6120的智能手機版本](https://zh.wikipedia.org/wiki/诺基亚_6120 "wikilink")。
 
 Nokia 6120 classic
@@ -34,14 +34,14 @@ classic並不支援[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")，在[�
 ## Nokia 6121 classic
 
 Nokia 6121 classic是首支使用UMTS900頻率上市的行動電話，共有黑、藍、白、金、粉紅等五色；與Nokia 6120
-classic相比，幾乎相同。僅在支援[3G的](../Page/3G.md "wikilink")
+classic相比，幾乎相同。僅在支援[3G](../Page/3G.md "wikilink")的
 [WCDMA頻段不同](https://zh.wikipedia.org/wiki/WCDMA "wikilink")。
 Nokia 6121 classic在亞太區澳洲與紐西蘭等地區上市。
 
 ## Nokia 6122 classic
 
 Nokia 6122
-classic為[諾基亞與中國大陸電信業者](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[中國移動推出的客製化行動電話](https://zh.wikipedia.org/wiki/中國移動 "wikilink")。其僅支援[GSM而並不支援](../Page/GSM.md "wikilink")[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")。
+classic為[諾基亞與中國大陸電信業者](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[中國移動推出的客製化行動電話](https://zh.wikipedia.org/wiki/中國移動 "wikilink")。其僅支援[GSM](../Page/GSM.md "wikilink")而並不支援[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")。
 
 ## Nokia 6124 classic
 

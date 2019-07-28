@@ -6,7 +6,7 @@ Sense](../Page/HTC_Sense.md "wikilink")™介面。
 
 該手機於2009年6月24在[倫敦正式發表](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。是首款支援[Adobe
 Flash](../Page/Adobe_Flash.md "wikilink")\[1\].此款手機於2009年7月首先於歐洲市場推出，亞洲區於09年季。美國則會擁有自己的型號。\[2\]在2009年11月，[Dopod以A](https://zh.wikipedia.org/wiki/Dopod "wikilink")6288的名称在中国大陆销售HTC
-Hero。它同时也成为了中国大陆首两款[Android手机之一](../Page/Android.md "wikilink")（另外一款是Dopod
+Hero。它同时也成为了中国大陆首两款[Android](../Page/Android.md "wikilink")手机之一（另外一款是Dopod
 A3288，即[HTC Tattoo](../Page/HTC_Tattoo.md "wikilink")）\[3\]。
 
 HTC Hero於2010年MWC（Mobile World Congress，又稱世界移動通訊大會）期間獲頒「MWC

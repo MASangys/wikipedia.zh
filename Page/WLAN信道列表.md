@@ -1132,7 +1132,7 @@ Channel 11 = Channel 9+Lower 或者 Channel 13+Upper
 
   - 在欧盟，标准 EN 301 893 规定了 5.15 GHz - 5.725 GHz 的使用。
   - 在美国，2007年FCC开始要求使用 5.250 GHz - 5.350 GHz 和 5.470 GHz - 5.725 GHz
-    频段的设备必须采用[动态频率选择和](https://zh.wikipedia.org/wiki/DFS "wikilink")[传输功率控制](https://zh.wikipedia.org/wiki/TPC "wikilink")，这是为了避免干扰[气象雷达和](../Page/气象雷达.md "wikilink")[军事应用](https://zh.wikipedia.org/wiki/军事 "wikilink")\[46\]。在2010年，[联邦通讯委员会进一步明确在](https://zh.wikipedia.org/wiki/联邦通讯委员会 "wikilink")
+    频段的设备必须采用[动态频率选择和](https://zh.wikipedia.org/wiki/DFS "wikilink")[传输功率控制](https://zh.wikipedia.org/wiki/TPC "wikilink")，这是为了避免干扰[气象雷达](../Page/气象雷达.md "wikilink")和[军事应用](https://zh.wikipedia.org/wiki/军事 "wikilink")\[46\]。在2010年，[联邦通讯委员会进一步明确在](https://zh.wikipedia.org/wiki/联邦通讯委员会 "wikilink")
     5.470 GHz - 5.725 GHz
     频段的使用方法，以避免干扰机场[多普勒天气雷达系统](https://zh.wikipedia.org/wiki/TDWR "wikilink")\[47\]，本声明取消了第120頻道、第124頻道和第128頻道的使用授权，而只要与距离35公里之内的
     TDWR 系统分隔超过 30 MHz（中心频率），那么第116頻道和第132頻道是可以使用的。现在在 5 GHz

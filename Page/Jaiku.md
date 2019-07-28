@@ -1,6 +1,6 @@
 **Jaiku**是一個「[社群網路](https://zh.wikipedia.org/wiki/社群網路 "wikilink")」、「[微型部落格](https://zh.wikipedia.org/wiki/微型部落格 "wikilink")」及「人生轉播」服務，類似[Twitter](../Page/Twitter.md "wikilink")，由[芬蘭的Jyri](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")
 Engeström及Petteri
-Koponen於2006年2月成立，同年七月正式運行，2007年10月9日被[Google收購](../Page/Google.md "wikilink")。
+Koponen於2006年2月成立，同年七月正式運行，2007年10月9日被[Google](../Page/Google.md "wikilink")收購。
 
 ## 歷史
 
@@ -9,7 +9,7 @@ Jaiku是在2006年2月由位處[赫爾辛基的Jaiku有限公司建立](https://
 
 ## 軟體
 
-Jaiku是由建基於[Python的](../Page/Python.md "wikilink")[Twisted架構編寫](https://zh.wikipedia.org/wiki/Twisted "wikilink")。
+Jaiku是由建基於[Python](../Page/Python.md "wikilink")的[Twisted架構編寫](https://zh.wikipedia.org/wiki/Twisted "wikilink")。
 
 Jaiku兼容S60平台手提電話，因為Jaiku有此平台的客戶端軟體，可經由此軟體，以手機更新Jaiku。Jaiku亦有發表[API](https://zh.wikipedia.org/wiki/API "wikilink")，可供程式設計師製作第三方軟體。Jaiku與Twitter最大不同，是「人生轉播」功能，能將用戶的多種網絡活動紀錄整合起來，例如Flickr的相片、Last.fm的音樂及[手機更新的位置數據](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 

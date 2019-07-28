@@ -1,6 +1,6 @@
 [Two_Bombardier_EMUs_at_SHQ.JPG](https://zh.wikipedia.org/wiki/File:Two_Bombardier_EMUs_at_SHQ.JPG "fig:Two_Bombardier_EMUs_at_SHQ.JPG")内，[CRH380D和使用Zefiro头型的新](https://zh.wikipedia.org/wiki/CRH380D "wikilink")[CRH1B](https://zh.wikipedia.org/wiki/CRH1B "wikilink")\]\]
 **龐巴迪Zefiro**是[龐巴迪運輸](../Page/龐巴迪運輸.md "wikilink")（Bombardier
-Transportation）在2005年4月13日公佈的超高速鐵路旅行最新概念的高速電動車組，由[龐巴迪公司工業設計組與意大利工業設計公司](../Page/龐巴迪公司.md "wikilink")**Zagato**共同設計。目前現成製品有[CRH1E](../Page/和谐号CRH1型电力动车组.md "wikilink")，[CRH380D](../Page/和谐号CRH380D型电力动车组.md "wikilink")\[1\]等投入运行。
+Transportation）在2005年4月13日公佈的超高速鐵路旅行最新概念的高速電動車組，由[龐巴迪公司](../Page/龐巴迪公司.md "wikilink")工業設計組與意大利工業設計公司**Zagato**共同設計。目前現成製品有[CRH1E](../Page/和谐号CRH1型电力动车组.md "wikilink")，[CRH380D](../Page/和谐号CRH380D型电力动车组.md "wikilink")\[1\]等投入运行。
 
 ## 外部設計
 
@@ -20,7 +20,7 @@ Transportation）在2005年4月13日公佈的超高速鐵路旅行最新概念�
 
 [Elettrotreno_ETR.400.jpg](https://zh.wikipedia.org/wiki/File:Elettrotreno_ETR.400.jpg "fig:Elettrotreno_ETR.400.jpg")[Frecciarossa
 1000](https://zh.wikipedia.org/wiki/Frecciarossa_1000 "wikilink")\]\]
-至2015年為止，有[CRH1E](../Page/和谐号CRH1型电力动车组.md "wikilink")，[CRH380D等投入商業運行](../Page/和谐号CRH380D型电力动车组.md "wikilink")，2007年10月31日，青島四方龐巴迪鐵路運輸設備有限公司（BST）獲得鐵道部（现铁路总公司）40列16輛編組[動車組新訂單](../Page/動車組.md "wikilink")，其中20列是以此系列為基礎，不同的是列車上改為配備了卧鋪，速度可達250km/h，將成為世界上首次達到250km/h運行速度的臥鋪動車組，列車型號為[CRH1E](../Page/和谐号CRH1型电力动车组.md "wikilink")。整批新車計劃將連同16編組版本的[CRH1電動車組一同在](../Page/和谐号CRH1型电力动车组.md "wikilink")2009年中至2010年8月之間分批交付。
+至2015年為止，有[CRH1E](../Page/和谐号CRH1型电力动车组.md "wikilink")，[CRH380D等投入商業運行](../Page/和谐号CRH380D型电力动车组.md "wikilink")，2007年10月31日，青島四方龐巴迪鐵路運輸設備有限公司（BST）獲得鐵道部（现铁路总公司）40列16輛編組[動車組](../Page/動車組.md "wikilink")新訂單，其中20列是以此系列為基礎，不同的是列車上改為配備了卧鋪，速度可達250km/h，將成為世界上首次達到250km/h運行速度的臥鋪動車組，列車型號為[CRH1E](../Page/和谐号CRH1型电力动车组.md "wikilink")。整批新車計劃將連同16編組版本的[CRH1電動車組一同在](../Page/和谐号CRH1型电力动车组.md "wikilink")2009年中至2010年8月之間分批交付。
 鐵道部於2009年6月招標採購時速350公里級別高速動車組，BST成為中標廠商之一，獲得了20列8節編組和60列16節大編組座車的訂單。列車將以龐巴迪ZEFIRO
 380超高速動車組為技術平台，設計運營速度為350km/h，最高運營速度為380km/h，最高試驗速度為420km/h。預計於2012年7月至2014年9月間交付。列車型號為[CRH380D](https://zh.wikipedia.org/wiki/CRH380D "wikilink")。
 
@@ -28,7 +28,7 @@ Transportation）在2005年4月13日公佈的超高速鐵路旅行最新概念�
 1000或Zefiro](https://zh.wikipedia.org/wiki/Frecciarossa_1000型高速動車組 "wikilink")
 300），每列价格约2.5亿元人民币，价格比中国的[CRH380D高出约](https://zh.wikipedia.org/wiki/CRH380D "wikilink")80%左右。ETR
 1000型高速動車組將與原有的ETR
-500，一併擔當當地「紅箭」列車。由此，[意大利國家鐵路成為繼](../Page/意大利國家鐵路.md "wikilink")[中國鐵路總公司後](https://zh.wikipedia.org/wiki/中國鐵路總公司 "wikilink")，第二個Zefiro系列車的用家。
+500，一併擔當當地「紅箭」列車。由此，[意大利國家鐵路](../Page/意大利國家鐵路.md "wikilink")成為繼[中國鐵路總公司後](https://zh.wikipedia.org/wiki/中國鐵路總公司 "wikilink")，第二個Zefiro系列車的用家。
 
 ## 參閱
 

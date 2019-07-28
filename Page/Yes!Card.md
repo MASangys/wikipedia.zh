@@ -1,5 +1,5 @@
 **〈yes\!\!〉card**
-是《[Yes\!](../Page/Yes!.md "wikilink")》出版社以[香港和其他國家流行中的明星](../Page/香港.md "wikilink")、歌手等的
+是《[Yes\!](../Page/Yes!.md "wikilink")》出版社以[香港](../Page/香港.md "wikilink")和其他國家流行中的明星、歌手等的
 card，每張為港幣1元。一般來講，〈yes\!\!〉card
 的正面通常為該明星的照片，後面則是該明星的相關資料或歌曲又或者是該明星的[拼圖](../Page/拼圖.md "wikilink")。(如果是透明卡的話,後面是透明)現時的〈yes\!\!〉card
 版本以日文「発」字為單位。現時最新的版本為「第53,54 発」\[1\]。，
@@ -27,7 +27,7 @@ card，每張為港幣1元。一般來講，〈yes\!\!〉card
 〈yes\!\!〉card 每3星期出版一次，其銷量是成為藝人受歡迎與否的指標，例如 Yes\!
 已經為出道不足一年的[鄧紫棋G](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink").E.M.發行Sweetie
 G.E.M.的專輯卡已「火速售罄」（根據官方的調查\[3\]）。例如從第3 4 的〈yes\!\!〉card
-來看，會發現最有收藏價值的幻燈卡及夜光卡都是香港2009年最流行的明星：[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[古巨基](../Page/古巨基.md "wikilink")、[HotCha等](../Page/HotCha.md "wikilink")，難免會令人認為
+來看，會發現最有收藏價值的幻燈卡及夜光卡都是香港2009年最流行的明星：[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[古巨基](../Page/古巨基.md "wikilink")、[HotCha](../Page/HotCha.md "wikilink")等，難免會令人認為
 Yes\! 是「見人紅就力銷其產品，見人淡就放棄其產品」。另外，有一部分人會專收藏〈yes\!\!〉card
 作為留念或價高轉售。因而令〈yes\!\!〉card
 成為人們不單只是為了追捧該明星的商品，而是投資品。

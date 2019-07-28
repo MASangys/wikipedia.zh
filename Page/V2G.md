@@ -1,4 +1,4 @@
-**V2G**是**Vehicle-to-grid**（车辆到电网）的缩写。V2G描述了[电动汽车与](../Page/电动汽车.md "wikilink")[电网的关系](https://zh.wikipedia.org/wiki/輸電網路 "wikilink")。当电动汽车不使用时，车载电池的电能销售给电网的系统。如果车载电池需要充电，电流则由电网流向车辆。\[1\]\[2\]
+**V2G**是**Vehicle-to-grid**（车辆到电网）的缩写。V2G描述了[电动汽车](../Page/电动汽车.md "wikilink")与[电网的关系](https://zh.wikipedia.org/wiki/輸電網路 "wikilink")。当电动汽车不使用时，车载电池的电能销售给电网的系统。如果车载电池需要充电，电流则由电网流向车辆。\[1\]\[2\]
 
 [纯电动车](https://zh.wikipedia.org/wiki/纯电动车 "wikilink")（BEV）和[插電式混合動力汽車](https://zh.wikipedia.org/wiki/插電式混合動力汽車 "wikilink")（PHEV）可以实现V2G。由于大部分车辆95%的时间是处于停驶状态，车载电池可以作为一个分布式储能单元。据估算，每辆车可为电力公司带来4000美元的价值。\[3\]
 

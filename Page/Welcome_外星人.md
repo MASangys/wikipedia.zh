@@ -1,10 +1,10 @@
 《**Welcome 外星人**》（）是[Channel
-V](../Page/Channel_V.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年7月20日開始播映。由台灣知名主持人[蔡康永加上](../Page/蔡康永.md "wikilink")[Lollipop
+V](../Page/Channel_V.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年7月20日開始播映。由台灣知名主持人[蔡康永](../Page/蔡康永.md "wikilink")加上[Lollipop
 F成員](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")[威廉及](https://zh.wikipedia.org/wiki/廖亦崟 "wikilink")[阿緯一同主持](https://zh.wikipedia.org/wiki/劉俊緯 "wikilink")。節目邀請各地有特異才藝的人上來表演。
 
 ## 節目介紹
 
-節目以[外星人為包裝題材](../Page/外星人.md "wikilink")，每集請來不同的外星嫌疑人(疑似擁有特異才藝的人)來到外星人研究院表演，從而由嘉賓來判定他們是否外星人(即真正擁有特異才藝的人)。
+節目以[外星人](../Page/外星人.md "wikilink")為包裝題材，每集請來不同的外星嫌疑人(疑似擁有特異才藝的人)來到外星人研究院表演，從而由嘉賓來判定他們是否外星人(即真正擁有特異才藝的人)。
 
 如判定其為外星人，將要求其立即搭乘[光速](../Page/光速.md "wikilink")[太空船離開地球](https://zh.wikipedia.org/wiki/太空船 "wikilink")，返回外星，以免危害人類；相反，如判定其不是外星人，便需要接受閃光掃描，消除剛剛所有記憶，才能離開研究院（錄影棚）。
 

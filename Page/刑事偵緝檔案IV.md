@@ -1,8 +1,8 @@
-《**刑事偵緝檔案IV**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1998年開始拍攝，1999年3月29日至6月4日在[翡翠台首播](../Page/翡翠台.md "wikilink")，全劇共50集，監製为[潘嘉德](../Page/潘嘉德.md "wikilink")。
+《**刑事偵緝檔案IV**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1998年開始拍攝，1999年3月29日至6月4日在[翡翠台](../Page/翡翠台.md "wikilink")首播，全劇共50集，監製为[潘嘉德](../Page/潘嘉德.md "wikilink")。
 
-該劇由[古天樂](../Page/古天樂.md "wikilink")、[陳錦鴻](../Page/陳錦鴻.md "wikilink")、[宣萱及](../Page/宣萱.md "wikilink")[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，由[李珊珊](https://zh.wikipedia.org/wiki/李珊珊_\(藝員\) "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[蘇志威及](../Page/蘇志威.md "wikilink")[姚瑩瑩聯合主演](../Page/姚瑩瑩.md "wikilink")，並由[郭晉安及](../Page/郭晉安.md "wikilink")[向海嵐特別演出](../Page/向海嵐.md "wikilink")。該輯的故事與前三輯無關。然而其大結局主角們的感情去向安排，就算事隔多年，依然備受大家爭議和負評。
+該劇由[古天樂](../Page/古天樂.md "wikilink")、[陳錦鴻](../Page/陳錦鴻.md "wikilink")、[宣萱](../Page/宣萱.md "wikilink")及[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，由[李珊珊](https://zh.wikipedia.org/wiki/李珊珊_\(藝員\) "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[蘇志威](../Page/蘇志威.md "wikilink")及[姚瑩瑩](../Page/姚瑩瑩.md "wikilink")聯合主演，並由[郭晉安](../Page/郭晉安.md "wikilink")及[向海嵐](../Page/向海嵐.md "wikilink")特別演出。該輯的故事與前三輯無關。然而其大結局主角們的感情去向安排，就算事隔多年，依然備受大家爭議和負評。
 
-當年前三輯《刑事偵緝檔案》主角[陶大宇主演的](../Page/陶大宇.md "wikilink")[亞洲電視劇集](../Page/亞洲電視.md "wikilink")《[縱橫四海](../Page/縱橫四海_\(電視劇\).md "wikilink")》在1999年3月於[本港台首播](../Page/本港台.md "wikilink")，廣受觀眾歡迎，帶挈整個[黃金時段的](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")[收視率急升](https://zh.wikipedia.org/wiki/收視率 "wikilink")，逼近翡翠台的[慣性收視](../Page/慣性收視.md "wikilink")，令翡翠台立刻於同期播映此劇來迎戰。
+當年前三輯《刑事偵緝檔案》主角[陶大宇](../Page/陶大宇.md "wikilink")主演的[亞洲電視](../Page/亞洲電視.md "wikilink")劇集《[縱橫四海](../Page/縱橫四海_\(電視劇\).md "wikilink")》在1999年3月於[本港台](../Page/本港台.md "wikilink")首播，廣受觀眾歡迎，帶挈整個[黃金時段的](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")[收視率急升](https://zh.wikipedia.org/wiki/收視率 "wikilink")，逼近翡翠台的[慣性收視](../Page/慣性收視.md "wikilink")，令翡翠台立刻於同期播映此劇來迎戰。
 
 此劇曾於2002年6月14日至2002年9月7日和2018年7月2日至2018年8月19日在翡翠台重播。
 
@@ -39,8 +39,8 @@
 江子青、江子瑤之弟<br />
 文婉蘭之男友→於第18集為未婚夫→於第21集分手→最後二人成為知己<br />
 唐心如之好友→於第33集成為其男友→第41集因唐心如得悉文婉蘭与江子山分手真相而退出<br />
-於第42集拒絶与文婉蘭復合<br />
-於大結局成為武俏君男友</p></td>
+於第42集未與与文婉蘭復合<br />
+</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/古天樂.md" title="wikilink">古天樂</a></strong></p></td>
@@ -130,7 +130,7 @@
 樓蓮香之姨甥女<br />
 徐飛之女友→於第37集發現徐飛仍掛念梁芊芊而關係變差→第44集復合→第50集分手<br />
 劉健生之前女友<br />
-於大結局成為江子山女友</p></td>
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -283,8 +283,8 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></p></td>
-<td><p>文國泰</p></td>
+<td><p><strong><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></strong></p></td>
+<td><p><strong>文國泰</strong></p></td>
 <td><p>文婉蘭之父<br />
 駱見業生意伙伴兼情敵<br />
 為人好賭，在賭博的時候多次失敗<br />
@@ -762,7 +762,7 @@ Chez Maman侍應<br />
 <td><p>殷寶莉</p></td>
 <td><p>唐心如之母<br />
 尹望石之表妹<br />
-於第7集因<a href="../Page/心臟衰竭.md" title="wikilink">心臟衰竭病逝</a></p></td>
+於第7集因<a href="../Page/心臟衰竭.md" title="wikilink">心臟衰竭</a>病逝</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/李珊珊_(藝員)" title="wikilink">李珊珊</a></strong></p></td>
@@ -1138,8 +1138,8 @@ Chez Maman侍應<br />
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></p></td>
-<td><p>文國泰</p></td>
+<td><p><strong><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></strong></p></td>
+<td><p><strong>文國泰</strong></p></td>
 <td><p>參見<a href="https://zh.wikipedia.org/wiki/#文家" title="wikilink">文家</a></p></td>
 </tr>
 <tr class="odd">

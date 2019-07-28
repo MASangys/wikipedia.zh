@@ -1,5 +1,5 @@
 **Windows 會議空間**（Windows Meeting Space）是一個內建於[Microsoft
-Windows中](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，使用[點對點技術來協助使用者建立或參與](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[會議的元件](../Page/會議.md "wikilink")。它首次出現於[Windows
+Windows中](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，使用[點對點技術來協助使用者建立或參與](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[會議](../Page/會議.md "wikilink")的元件。它首次出現於[Windows
 Vista](../Page/Windows_Vista.md "wikilink")，並支援2至10個使用者同時出現在一個會議中。它的出現取代了原本出現在舊版作業系統中的「Windows
 NetMeeting」應用程式。\[1\]但是，原本支援使用[麥克風或](https://zh.wikipedia.org/wiki/麥克風 "wikilink")[網路攝影機來進行會議的功能卻在這個元件中被刪除了](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")。
 

@@ -3,7 +3,7 @@
 
 ## 生平
 
-出生于[纽约州](../Page/纽约州.md "wikilink")[揚克斯](../Page/揚克斯_\(紐約州\).md "wikilink")，目前任[斯坦福大学](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[经济学教授](../Page/经济学.md "wikilink")\[1\]。泰勒曾被视为2009年[诺贝尔经济学奖潜在得主](../Page/诺贝尔经济学奖.md "wikilink")。
+出生于[纽约州](../Page/纽约州.md "wikilink")[揚克斯](../Page/揚克斯_\(紐約州\).md "wikilink")，目前任[斯坦福大学](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[经济学](../Page/经济学.md "wikilink")教授\[1\]。泰勒曾被视为2009年[诺贝尔经济学奖](../Page/诺贝尔经济学奖.md "wikilink")潜在得主。
 
 ## 注释
 

@@ -373,7 +373,7 @@ FreeBSD</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/雅虎通" title="wikilink">雅虎通</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>, <a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS</a> (8, 9, X), (<a href="../Page/Linux.md" title="wikilink">Linux</a>/<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD版本不支持VoIP</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>, <a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS</a> (8, 9, X), (<a href="../Page/Linux.md" title="wikilink">Linux</a>/<a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a>版本不支持VoIP)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/免费软件" title="wikilink">免费软件</a> / <a href="https://zh.wikipedia.org/wiki/封闭原始码" title="wikilink">封闭原始码</a> <a href="../Page/专有软件.md" title="wikilink">专有软件</a></p></td>
 <td><p><a href="../Page/会话发起协议.md" title="wikilink">SIP</a> (使用<a href="https://zh.wikipedia.org/wiki/传输层安全" title="wikilink">TLS</a>)以及RTP (媒体)</p></td>
 <td></td>

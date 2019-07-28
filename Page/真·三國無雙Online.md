@@ -1,4 +1,4 @@
-是一款由日本[光榮株式會社在](https://zh.wikipedia.org/wiki/光榮株式會社 "wikilink")2007年發售的[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")。真‧三國無雙Online為[PS2上](https://zh.wikipedia.org/wiki/PS2 "wikilink")[真·三國無雙4的改編續作](../Page/真·三國無雙4.md "wikilink")，遊戲內容主要是讓玩家創立自己的角色，並隨著衝突、特務、爭奪促使角色升級並獲得[虛擬寶物及消費用虛擬貨幣](https://zh.wikipedia.org/wiki/虛擬寶物 "wikilink")，遊戲類似線上格鬥，是由大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。除玩家外的普通士兵和武將都比較弱，總體來說難度適中，玩家控制的角色在戰場上的作用就顯得重要許多。2010年2月18日日本方面開始運行[PS3版本](https://zh.wikipedia.org/wiki/PS3 "wikilink")，並與日本[PC版本使用同樣的伺服器](../Page/PC.md "wikilink")。
+是一款由日本[光榮株式會社在](https://zh.wikipedia.org/wiki/光榮株式會社 "wikilink")2007年發售的[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")。真‧三國無雙Online為[PS2上](https://zh.wikipedia.org/wiki/PS2 "wikilink")[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")的改編續作，遊戲內容主要是讓玩家創立自己的角色，並隨著衝突、特務、爭奪促使角色升級並獲得[虛擬寶物及消費用虛擬貨幣](https://zh.wikipedia.org/wiki/虛擬寶物 "wikilink")，遊戲類似線上格鬥，是由大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。除玩家外的普通士兵和武將都比較弱，總體來說難度適中，玩家控制的角色在戰場上的作用就顯得重要許多。2010年2月18日日本方面開始運行[PS3版本](https://zh.wikipedia.org/wiki/PS3 "wikilink")，並與日本[PC](../Page/PC.md "wikilink")版本使用同樣的伺服器。
 
 2013年7月18日後，各國伺服器先後更新為「真‧三國無雙Online
 Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》的模樣，追加「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」勢力的武將等等，並大幅更新現有系統。
@@ -6,7 +6,7 @@ Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙
 ## 遊戲特點
 
   - 由於PS2的[真三國無雙系列銷售長紅](https://zh.wikipedia.org/wiki/真三國無雙系列 "wikilink")，加上現在Online
-    game的潮流，光榮於2007年推出真‧三國無雙Online，2008年3月由台灣[紅心辣椒娛樂科技股份有限公司代理並正式販賣](../Page/紅心辣椒.md "wikilink")，讓沒有PS2玩家也能享受此系列的快感。
+    game的潮流，光榮於2007年推出真‧三國無雙Online，2008年3月由台灣[紅心辣椒](../Page/紅心辣椒.md "wikilink")娛樂科技股份有限公司代理並正式販賣，讓沒有PS2玩家也能享受此系列的快感。
   - 一般動作遊戲強調複雜、華麗的系統，遊戲主軸在於「讓所有玩家都能上手」讓新手玩家也能上手。真‧三國無雙Online強調簡單的輸入與爽快的「破壞感」，吸引不少輕度玩家，但有時也讓遊戲方式過於單調。
   - 假想人物和人物性格的再創造：儘管以歷史題材為背景，真‧三國無雙Online進行了改造。故事的主角是玩家自己，玩家的角色、臉蛋跟髮型、皮膚的顏色、聲音等、有超過10萬種以上的組合、可以由自己的喜好選擇。使用的武器槍、劍、戟、斧等、也可在眾多的種類當中自由挑選裝備。
   - 猶如排山倒海般逼近的敵兵、在華麗的連續攻擊和必殺技“無雙亂舞”後、一鼓作氣的倒下。
@@ -63,7 +63,7 @@ Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙
 <!-- end list -->
 
   -
-    對戰非玩家勢力的模式。最高9999層，破到越高層再下山換的獎品越好，而破關有時間限制，可在關卡中取得「桃符」延長過關時間。在20倍數的山區有機會遇見互為敵對狀態的[伏羲及](../Page/伏羲.md "wikilink")[女媧](https://zh.wikipedia.org/wiki/女媧 "wikilink")。龍神亂舞開始會遇到神獸「[青龍](https://zh.wikipedia.org/wiki/青龍 "wikilink")」、「[朱雀](https://zh.wikipedia.org/wiki/朱雀 "wikilink")」、「[白虎](../Page/白虎.md "wikilink")」、「[玄武](../Page/玄武.md "wikilink")」。
+    對戰非玩家勢力的模式。最高9999層，破到越高層再下山換的獎品越好，而破關有時間限制，可在關卡中取得「桃符」延長過關時間。在20倍數的山區有機會遇見互為敵對狀態的[伏羲](../Page/伏羲.md "wikilink")及[女媧](https://zh.wikipedia.org/wiki/女媧 "wikilink")。龍神亂舞開始會遇到神獸「[青龍](https://zh.wikipedia.org/wiki/青龍 "wikilink")」、「[朱雀](https://zh.wikipedia.org/wiki/朱雀 "wikilink")」、「[白虎](../Page/白虎.md "wikilink")」、「[玄武](../Page/玄武.md "wikilink")」。
 
 <!-- end list -->
 

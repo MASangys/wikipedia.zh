@@ -1,4 +1,4 @@
-**A+B问题**是一个基础的[程序设计问题](../Page/程序设计.md "wikilink")。通常是信息学在线评测系统用来测试提交和输入输出方法的题目。\[1\]
+**A+B问题**是一个基础的[程序设计](../Page/程序设计.md "wikilink")问题。通常是信息学在线评测系统用来测试提交和输入输出方法的题目。\[1\]
 
 ## 一般描述
 
@@ -108,14 +108,14 @@ PROGRAM P1000
 
 ## 扩展
 
-而这道题目的扩展通常是加入数据范围之类的陷阱，如[高精度加法](https://zh.wikipedia.org/wiki/高精度加法 "wikilink")、不使用[十进制或](../Page/十进制.md "wikilink")\(A\)或\(B\)的其中一個夾帶數字如：「AA123BB」等。
+而这道题目的扩展通常是加入数据范围之类的陷阱，如[高精度加法](https://zh.wikipedia.org/wiki/高精度加法 "wikilink")、不使用[十进制](../Page/十进制.md "wikilink")或\(A\)或\(B\)的其中一個夾帶數字如：「AA123BB」等。
 
 ## 参考文献
 
 ## 参见
 
   - [Hello
-    World](../Page/Hello_World.md "wikilink")，跟A+B问题相比，它只考察了[字符串输出](../Page/字符串.md "wikilink")，而不存在[变量的输入输出](../Page/变量_\(程序设计\).md "wikilink")。
+    World](../Page/Hello_World.md "wikilink")，跟A+B问题相比，它只考察了[字符串](../Page/字符串.md "wikilink")输出，而不存在[变量的输入输出](../Page/变量_\(程序设计\).md "wikilink")。
 
 [Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")
 [Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")

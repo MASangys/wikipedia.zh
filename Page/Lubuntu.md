@@ -4,7 +4,7 @@ Lite一樣](https://zh.wikipedia.org/wiki/Ubuntu_Lite "wikilink")，都是屬於
 
 ## 版本
 
-Lubuntu計劃由[LXDE團隊推出](../Page/LXDE.md "wikilink")，原本預計在2009年10月發行第一個版本\[1\]，並在該年9月初時推出第一個測試版\[2\]，但最後並未正式發行。
+Lubuntu計劃由[LXDE](../Page/LXDE.md "wikilink")團隊推出，原本預計在2009年10月發行第一個版本\[1\]，並在該年9月初時推出第一個測試版\[2\]，但最後並未正式發行。
 
 隨著Ubuntu
 10.04進入Beta階段，Lubuntu也於2010推出Beta版本\[3\]，最後並在2010年5月2日推出正式版。\[4\]
@@ -73,7 +73,7 @@ Lubuntu計劃由[LXDE團隊推出](../Page/LXDE.md "wikilink")，原本預計在
 | 17.04 | *Zesty Zapus*       | 2017年4月13日  | 2018年1月  |                                                                             |
 | 17.10 | *Artful Aardvark*   | 2017年10月19日 | 2018年7月  |                                                                             |
 | 18.04 | *Bionic Beaver*     | 2018年4月27日  | 2021年4月  | 第三個官方的長期支援版本                                                                |
-| 18.10 | *Cosmic Cuttlefish* | 2018年10月19日 | 2019年7月  | 將桌面環境切換為基於[Qt的](../Page/Qt.md "wikilink")[LXQt](../Page/LXQt.md "wikilink") |
+| 18.10 | *Cosmic Cuttlefish* | 2018年10月19日 | 2019年7月  | 將桌面環境切換為基於[Qt](../Page/Qt.md "wikilink")的[LXQt](../Page/LXQt.md "wikilink") |
 | 19.04 | *Disco Dingo*       | 2019年4月18日  | 2020年1月  | 當前版本                                                                        |
 
 | 色彩 | 意義      |

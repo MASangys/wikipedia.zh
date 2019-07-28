@@ -1,7 +1,7 @@
 《**Love Song**》是[Key Sounds
-Label](../Page/Key_Sounds_Label.md "wikilink")2005年8月31日于[日本发行的专辑](../Page/日本.md "wikilink")，编号为KSLA-0019，整张专辑包含一张CD，所有13首歌曲由[Key社的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[麻枝准作曲](../Page/麻枝准.md "wikilink")、编曲并制作，由来自[eufonius的](https://zh.wikipedia.org/wiki/eufonius "wikilink")[Riya演唱](../Page/Riya.md "wikilink")。其他合作的音乐家还有：Kendi
+Label](../Page/Key_Sounds_Label.md "wikilink")2005年8月31日于[日本](../Page/日本.md "wikilink")发行的专辑，编号为KSLA-0019，整张专辑包含一张CD，所有13首歌曲由[Key社的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[麻枝准](../Page/麻枝准.md "wikilink")作曲、编曲并制作，由来自[eufonius的](https://zh.wikipedia.org/wiki/eufonius "wikilink")[Riya](../Page/Riya.md "wikilink")演唱。其他合作的音乐家还有：Kendi
 Sato 在第2首和第12首演奏电吉他，AchillesKEN
-在第7首参与[打击乐器演奏](../Page/打击乐器.md "wikilink")，Weisswurst在第7首和第13首演奏[小提琴](../Page/小提琴.md "wikilink")。[安倍吉俊为专辑绘制了封面和手册中的插图](../Page/安倍吉俊.md "wikilink")。《Love
+在第7首参与[打击乐器](../Page/打击乐器.md "wikilink")演奏，Weisswurst在第7首和第13首演奏[小提琴](../Page/小提琴.md "wikilink")。[安倍吉俊](../Page/安倍吉俊.md "wikilink")为专辑绘制了封面和手册中的插图。《Love
 Song》是一张叙述爱情走向破灭的专辑。
 
 ## 收录曲目
@@ -31,7 +31,7 @@ Ecstacy](../Page/Little_Busters!.md "wikilink")》中作为朱鷺戶沙耶的角
 第十三首「Love song」Key社的2005年出品的恋爱冒险游戏《[智代After ～It's a Wonderful
 Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")》中被[重新混音作为背景音乐使用](https://zh.wikipedia.org/wiki/重混 "wikilink")，该重混版本之后在《智代After
 ～It's a Wonderful Life～》原声碟《[Tomoyo After Original
-Soundtrack](https://zh.wikipedia.org/wiki/Tomoyo_After_Original_Soundtrack "wikilink")》里出现，并附加一[钢琴版本](../Page/钢琴.md "wikilink")。「Love
+Soundtrack](https://zh.wikipedia.org/wiki/Tomoyo_After_Original_Soundtrack "wikilink")》里出现，并附加一[钢琴](../Page/钢琴.md "wikilink")版本。「Love
 Song」的另一钢琴版本出现在《[CLANNAD](../Page/CLANNAD.md "wikilink")》和《智代After ～It's
 a Wonderful Life～》的重新混音专辑《》中。「Love Song」与来自《智代After ～It's a Wonderful
 Life～》原声集里的「Memories」合并混音版本，出现在了专辑《[Key 10th Memorial Fes Anniversary

@@ -4,7 +4,7 @@ Ward成立於2002年，由原本是開發《[榮譽勳章：聯合襲擊](https:
 of Honor: Allied
 Assault）的開發商[2015公司的員工組成](https://zh.wikipedia.org/wiki/2015公司 "wikilink")。2003年，[美國動視](https://zh.wikipedia.org/wiki/美國動視 "wikilink")（Activision）公司成功收購了IW，成為了美國動視的子公司。其代表作為[決勝時刻系列](../Page/決勝時刻系列.md "wikilink")。
 
-2014年5月3日，动视宣布旗下另一工作室[Neversoft将被并入IW](../Page/Neversoft.md "wikilink")，该合并于同年7月10日完成。\[1\]
+2014年5月3日，动视宣布旗下另一工作室[Neversoft](../Page/Neversoft.md "wikilink")将被并入IW，该合并于同年7月10日完成。\[1\]
 
 ## 相关事件
 
@@ -22,7 +22,7 @@ Zampella，兩人被-{zh-cn:开除;zh-tw:革職;}-後美國動視的保安人員
 
 在集體辭職事件初期，有報導指出IW並沒有從美國動視手上收到開發[使命召喚：現代戰爭2應得的](https://zh.wikipedia.org/wiki/使命召喚：現代戰爭2 "wikilink")[版稅](https://zh.wikipedia.org/wiki/版稅 "wikilink")，同時開發組亦因為曾經與包括[藝電在內的其他遊戲發行商舉行會議而觸犯與動視簽訂的合約](https://zh.wikipedia.org/wiki/藝電 "wikilink")。\[5\]\[6\]在2010年3月4日，West與Zampella正式控告動視拖欠繳付IW開發現代戰爭2的約滿酬金。他們的代表律師認為動視早於同年2月就開始委託律師尋找證據以作為解顧二人的理由。\[7\]假若West和在訴訟勝出的話，二人擁有阻止動視開發任何沿襲[現代戰爭系列設定的遊戲與追加下載內容的權力](../Page/決勝時刻4：現代戰爭.md "wikilink")\[8\]。官司結果為雙方在庭外和解。
 
-#### [NovaLogic對美國動視](../Page/NovaLogic.md "wikilink")
+#### [NovaLogic](../Page/NovaLogic.md "wikilink")對美國動視
 
 就在West、Zampella与Activision一波三折的时候，Activision受到了来自NovaLogic的冲击，NovaLogic认为Activision的《[使命召唤:
 现代战争3](https://zh.wikipedia.org/wiki/使命召唤:_现代战争3 "wikilink")》中的[三角洲特种部队的标志侵犯了商标权](https://zh.wikipedia.org/wiki/三角洲特种部队 "wikilink")，还授权微软等公司将三角洲部队粘贴在各个宣传使命召唤的周边产品上。

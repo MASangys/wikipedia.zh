@@ -1,23 +1,23 @@
 **Urban
-Discovery**為[香港一家已結業的](../Page/香港.md "wikilink")[連鎖式餐廳集團](https://zh.wikipedia.org/wiki/連鎖式 "wikilink")，由[郭毅於](https://zh.wikipedia.org/wiki/郭毅 "wikilink")2002年創辦。公司以多元化食肆見稱，全盛時期一度擁有28間食肆，包括目黑壽司、Stage
+Discovery**為[香港](../Page/香港.md "wikilink")一家已結業的[連鎖式餐廳集團](https://zh.wikipedia.org/wiki/連鎖式 "wikilink")，由[郭毅於](https://zh.wikipedia.org/wiki/郭毅 "wikilink")2002年創辦。公司以多元化食肆見稱，全盛時期一度擁有28間食肆，包括目黑壽司、Stage
 Cafe、甲乙丙中國廚房及和庭日本料理。2008年11月12日，公司宣佈受到金融海嘯衝擊，旗下11間中西日式食肆全線結業。\[1\]
 
 ## 歷史
 
-2002年公司剛剛成立時，只有一家位於[奧海城西餐廳Stage](../Page/奧海城.md "wikilink")
+2002年公司剛剛成立時，只有一家位於[奧海城](../Page/奧海城.md "wikilink")西餐廳Stage
 Cafe，員工不過30人。到了2003年沙士爆發後，經濟一片蕭條下，公司趁此機會開設多個品牌。包括於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[連城廣場開設Stage](https://zh.wikipedia.org/wiki/連城廣場 "wikilink")
-Cafe及在[旺角](../Page/旺角.md "wikilink")[新世紀廣場和](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")[荃灣廣場開設和庭日本料理](../Page/荃灣廣場.md "wikilink")。同年12月，公司形合當年流行的京川滬菜，拓展中菜業務，於[將軍澳新都城中心開設佔地](../Page/將軍澳.md "wikilink")8,000呎「甲乙丙中國廚房」，該店開業之初，曾日賣近700籠[小籠包](../Page/小籠包.md "wikilink")、500碗[擔擔麵](https://zh.wikipedia.org/wiki/擔擔麵 "wikilink")，排隊人龍不絕。\[2\]
+Cafe及在[旺角](../Page/旺角.md "wikilink")[新世紀廣場和](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")[荃灣廣場](../Page/荃灣廣場.md "wikilink")開設和庭日本料理。同年12月，公司形合當年流行的京川滬菜，拓展中菜業務，於[將軍澳](../Page/將軍澳.md "wikilink")新都城中心開設佔地8,000呎「甲乙丙中國廚房」，該店開業之初，曾日賣近700籠[小籠包](../Page/小籠包.md "wikilink")、500碗[擔擔麵](https://zh.wikipedia.org/wiki/擔擔麵 "wikilink")，排隊人龍不絕。\[2\]
 
-2004年1月，集團於[馬鞍山新港城中心開設](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")「麵盆」，售賣中國特色麵食。同年7月，集團見到羽壽司及[峰壽司相繼開張](https://zh.wikipedia.org/wiki/峰壽司 "wikilink")，即時建立「目黑壽司」品牌，於[將軍澳](../Page/將軍澳.md "wikilink")[東港城開設首間分店](../Page/東港城.md "wikilink")。當年品牌強調創意壽司及手做即製[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")。包括從[日本引入](../Page/日本.md "wikilink")，現場即用火槍燒製的火炙壽司；還有士多啤梨、奇異果等生果[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")。同年10月，集團分店數目達12間。\[3\]
+2004年1月，集團於[馬鞍山新港城中心開設](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")「麵盆」，售賣中國特色麵食。同年7月，集團見到羽壽司及[峰壽司相繼開張](https://zh.wikipedia.org/wiki/峰壽司 "wikilink")，即時建立「目黑壽司」品牌，於[將軍澳](../Page/將軍澳.md "wikilink")[東港城](../Page/東港城.md "wikilink")開設首間分店。當年品牌強調創意壽司及手做即製[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")。包括從[日本](../Page/日本.md "wikilink")引入，現場即用火槍燒製的火炙壽司；還有士多啤梨、奇異果等生果[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")。同年10月，集團分店數目達12間。\[3\]
 
-2005年1月，集團投資近100萬元先後在[將軍澳和](../Page/將軍澳.md "wikilink")[屯門開設甜品店O](../Page/屯門.md "wikilink")'s
-Sweet，售賣中、西及東南亞等數十款甜品。此外集團於[荔枝角設立近](../Page/荔枝角.md "wikilink")5,000平方呎工場，負責目黑壽司前期製作工序，以及O's
+2005年1月，集團投資近100萬元先後在[將軍澳](../Page/將軍澳.md "wikilink")和[屯門](../Page/屯門.md "wikilink")開設甜品店O's
+Sweet，售賣中、西及東南亞等數十款甜品。此外集團於[荔枝角](../Page/荔枝角.md "wikilink")設立近5,000平方呎工場，負責目黑壽司前期製作工序，以及O's
 Sweet部分甜品製作。\[4\]
-同年12月，集團分店數目達24間，不過只有一間在主要購物區，其他集中於[將軍澳](../Page/將軍澳.md "wikilink")、[屯門](../Page/屯門.md "wikilink")、[元朗等新市鎮](../Page/元朗.md "wikilink")。\[5\]
+同年12月，集團分店數目達24間，不過只有一間在主要購物區，其他集中於[將軍澳](../Page/將軍澳.md "wikilink")、[屯門](../Page/屯門.md "wikilink")、[元朗](../Page/元朗.md "wikilink")等新市鎮。\[5\]
 
-2006年1月，集團於[慈雲山中心設立This](../Page/慈雲山中心.md "wikilink")
+2006年1月，集團於[慈雲山中心](../Page/慈雲山中心.md "wikilink")設立This
 Moment咖啡店，品牌概念與集團旗下的Stage
-Cafe相似，不過定位較為大眾化。集團同時把「目黑壽司」引入其他商場。2007年6月，「目黑壽司」於[MegaBox開設接近](../Page/MegaBox.md "wikilink")4,000呎的旗艦店。
+Cafe相似，不過定位較為大眾化。集團同時把「目黑壽司」引入其他商場。2007年6月，「目黑壽司」於[MegaBox](../Page/MegaBox.md "wikilink")開設接近4,000呎的旗艦店。
 
 ## 公司清盤
 

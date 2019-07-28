@@ -14,9 +14,9 @@ preview date = | operating system =
 [簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink") | license =
 [免費下載與使用](http://opensolaris.org/os/community/tools/sun_studio_tools/sss12ent_license/)
 }} **Sun
-Studio**為[昇陽電腦的旗艦級軟體開發產品](../Page/昇陽電腦.md "wikilink")，現有[Solaris](../Page/Solaris.md "wikilink")、[Linux版本](../Page/Linux.md "wikilink")。
+Studio**為[昇陽電腦](../Page/昇陽電腦.md "wikilink")的旗艦級軟體開發產品，現有[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")版本。
 
-包含最新的多核新系統，其提供經過優化的[C](../Page/C.md "wikilink")、[C++和](../Page/C++.md "wikilink")[Fortran編譯器](../Page/Fortran.md "wikilink")、[函式庫](../Page/函式庫.md "wikilink")、效能檢測器、[除錯器於](https://zh.wikipedia.org/wiki/除錯器 "wikilink")[SPARC架構的Solaris系統和](../Page/SPARC.md "wikilink")[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")/[x86-64架構的Solaris](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、Linux平台。
+包含最新的多核新系統，其提供經過優化的[C](../Page/C.md "wikilink")、[C++](../Page/C++.md "wikilink")和[Fortran](../Page/Fortran.md "wikilink")編譯器、[函式庫](../Page/函式庫.md "wikilink")、效能檢測器、[除錯器於](https://zh.wikipedia.org/wiki/除錯器 "wikilink")[SPARC](../Page/SPARC.md "wikilink")架構的Solaris系統和[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")/[x86-64架構的Solaris](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、Linux平台。
 
 **Sun
 Studio**可於其[主頁](http://developers.sun.com/sunstudio/downloads/index.jsp)免費下載。
@@ -40,7 +40,7 @@ Compilers」。
 **Sun Studio**包含下列元件：
 
   - C、C++、Fortran編譯器和函式庫支援
-  - 基於[NetBeans的開發整合環境](../Page/NetBeans.md "wikilink")
+  - 基於[NetBeans](../Page/NetBeans.md "wikilink")的開發整合環境
   - [CLI和](https://zh.wikipedia.org/wiki/CLI "wikilink")[GUI介面的dbx除錯器](https://zh.wikipedia.org/wiki/GUI "wikilink")
   - 效能檢測器
   - 執行序檢測器
@@ -50,7 +50,7 @@ Compilers」。
 
 ## OpenMP
 
-SunStudio所提供的編譯器（C、C++、Fortran），皆原生支援共享記憶體的[OpenMP並行化API](../Page/OpenMP.md "wikilink")。
+SunStudio所提供的編譯器（C、C++、Fortran），皆原生支援共享記憶體的[OpenMP](../Page/OpenMP.md "wikilink")並行化API。
 
 ## 文件
 

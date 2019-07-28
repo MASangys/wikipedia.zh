@@ -1,4 +1,4 @@
-《**ViVi**》，是[講談社每月](https://zh.wikipedia.org/wiki/講談社 "wikilink")23日發行的[女性時尚](../Page/女性.md "wikilink")[流行雜誌](https://zh.wikipedia.org/wiki/流行雜誌 "wikilink")，於1983年創刊。是[亞洲地區其中一知名的時尚流行雜誌](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，並於[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港出版](../Page/香港.md "wikilink")。根據日本雜誌協會於2005年公佈的發行數約47萬份\[1\]。對象年齡層是15至36歲的[辦公室女文員和女大學生](https://zh.wikipedia.org/wiki/辦公室女文員 "wikilink")。2000年中文版『ViVi』創刊\[2\]\[3\]。
+《**ViVi**》，是[講談社每月](https://zh.wikipedia.org/wiki/講談社 "wikilink")23日發行的[女性](../Page/女性.md "wikilink")時尚[流行雜誌](https://zh.wikipedia.org/wiki/流行雜誌 "wikilink")，於1983年創刊。是[亞洲地區其中一知名的時尚流行雜誌](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，並於[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")出版。根據日本雜誌協會於2005年公佈的發行數約47萬份\[1\]。對象年齡層是15至36歲的[辦公室女文員和女大學生](https://zh.wikipedia.org/wiki/辦公室女文員 "wikilink")。2000年中文版『ViVi』創刊\[2\]\[3\]。
 
 ## ViVi模特兒
 

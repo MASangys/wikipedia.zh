@@ -1,12 +1,12 @@
 《**vogue Far away SEASONS**》（時尚 遠走
-四季）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步發行的影像作品](../Page/濱崎步.md "wikilink")，也是首張同時發行[VHS與](../Page/VHS.md "wikilink")[DVD版本的影像作品](https://zh.wikipedia.org/wiki/DVD "wikilink")。VHS在2000年7月12日於日本發售。DVD則在2000年9月20日於日本發售。
+四季）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的影像作品，也是首張同時發行[VHS](../Page/VHS.md "wikilink")與[DVD版本的影像作品](https://zh.wikipedia.org/wiki/DVD "wikilink")。VHS在2000年7月12日於日本發售。DVD則在2000年9月20日於日本發售。
 
 ## 說明
 
   - 本作收錄範圍為以「濱崎三部曲」為中心。分別為第14張單曲《[vogue](../Page/Vogue_\(濱崎步單曲\).md "wikilink")》、第15張單曲《[Far
-    away](../Page/Far_away.md "wikilink")》第16張單曲《[SEASONS](../Page/SEASONS.md "wikilink")》的[音樂錄影帶與廣告](../Page/音樂錄影帶.md "wikilink")。
-  - 本作發行的[VHS與](../Page/VHS.md "wikilink")[DVD由於價格與發行日期均不同](https://zh.wikipedia.org/wiki/DVD "wikilink")，故內容亦有不同。以DVD版本較齊全。
-      - 本作[VHS定價為](../Page/VHS.md "wikilink")¥1,050，與[DVD定價為](https://zh.wikipedia.org/wiki/DVD "wikilink")¥1,575。
+    away](../Page/Far_away.md "wikilink")》第16張單曲《[SEASONS](../Page/SEASONS.md "wikilink")》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與廣告。
+  - 本作發行的[VHS](../Page/VHS.md "wikilink")與[DVD由於價格與發行日期均不同](https://zh.wikipedia.org/wiki/DVD "wikilink")，故內容亦有不同。以DVD版本較齊全。
+      - 本作[VHS](../Page/VHS.md "wikilink")定價為¥1,050，與[DVD定價為](https://zh.wikipedia.org/wiki/DVD "wikilink")¥1,575。
 
 ## VHS收錄內容
 

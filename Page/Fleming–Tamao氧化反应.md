@@ -1,6 +1,6 @@
 **Fleming–Tamao氧化反应**（弗莱明-玉尾氧化），又称**Tamao氧化反应**、**Fleming–Tamao–Kumada氧化反应**（弗莱明-玉尾-熊田氧化）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-将[有机硅化合物的](https://zh.wikipedia.org/wiki/有机硅化合物 "wikilink")[硅基转化为](https://zh.wikipedia.org/wiki/硅基 "wikilink")[羟基的方法](../Page/羟基.md "wikilink")。
+将[有机硅化合物的](https://zh.wikipedia.org/wiki/有机硅化合物 "wikilink")[硅基转化为](https://zh.wikipedia.org/wiki/硅基 "wikilink")[羟基](../Page/羟基.md "wikilink")的方法。
 硅基通过此反应而可作为羟基的等效体。
 
 此反应进行的基本条件是硅原子上至少带有一个“活化基”（H，N，O，S，芳基），离去基可使硅原子具有亲电反应性，使之可经受[过酸的亲核进攻](https://zh.wikipedia.org/wiki/过酸 "wikilink")。而芳基可以被离去基取代。

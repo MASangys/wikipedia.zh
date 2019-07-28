@@ -21,7 +21,7 @@ Sorry》更加成功。\[7\]
 3月2日SM公司宣布正式发布日期将在09年3月12日。\[8\][东方神起成员瑜卤允浩和秘奇有天将在](https://zh.wikipedia.org/wiki/东方神起 "wikilink")“heartquake”中演唱RAP的部分。\[9\]
 
 《Sorry,
-Sorry》是[強仁入伍前最後一張音樂作品](../Page/強仁.md "wikilink")。這也是[韓庚與](../Page/韓庚.md "wikilink")[起範最後一次參與Super](../Page/起範.md "wikilink")
+Sorry》是[強仁](../Page/強仁.md "wikilink")入伍前最後一張音樂作品。這也是[韓庚](../Page/韓庚.md "wikilink")與[起範](../Page/起範.md "wikilink")最後一次參與Super
 Junior團體專輯，起範為了可以更專注演戲，不參與該專輯錄製、唱跳表演及宣傳活動，但有參與該專輯照拍攝與MV演出後，專心在戲劇發展上，所以，一共只有12位成員參與唱跳與宣傳工作。該專輯也是最後一次全員到齊參與團體專輯。
 
 ### 预览版
@@ -63,7 +63,7 @@ Junior的代表作品的原因之一。
 ## 宣传
 
 [韩国之外](https://zh.wikipedia.org/wiki/韩国 "wikilink")，《Sorry,
-Sorry》在[亚洲大力宣传](../Page/亚洲.md "wikilink")。4月17日至5月7日，[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink")51条捷運上挂《Sorry,
+Sorry》在[亚洲](../Page/亚洲.md "wikilink")大力宣传。4月17日至5月7日，[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink")51条捷運上挂《Sorry,
 Sorry》的广告，宣传4月17日在[台湾发行的台湾版的](https://zh.wikipedia.org/wiki/台湾 "wikilink")《Sorry,
 Sorry》。这之中有一条挂满[Super
 Junior海报的](../Page/Super_Junior.md "wikilink")“Super
@@ -78,7 +78,7 @@ Super Junior开始宣传〈It's You〉不久，SM
 Entertainment通过韩国的新闻网站宣布该组合2009年夏将举行第二次亚洲巡回演唱会[Super
 Show
 2](../Page/Super_Show_2.md "wikilink")。官方于2009年6月3日宣布这次演唱会将开始，差不多是《Sorry,
-Sorry》发行3个月。演唱会包括他们之前的专辑的歌，在7月17－19日将在首尔有3场演出。之后，演唱会将在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[曼谷](../Page/曼谷.md "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[马来西亚](../Page/马来西亚.md "wikilink")，[新加坡以及亚洲其他五个城市](../Page/新加坡.md "wikilink")。\[28\]
+Sorry》发行3个月。演唱会包括他们之前的专辑的歌，在7月17－19日将在首尔有3场演出。之后，演唱会将在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[曼谷](../Page/曼谷.md "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[马来西亚](../Page/马来西亚.md "wikilink")，[新加坡](../Page/新加坡.md "wikilink")以及亚洲其他五个城市。\[28\]
 
 ### 回归演出
 

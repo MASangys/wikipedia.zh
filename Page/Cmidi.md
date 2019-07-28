@@ -1,10 +1,10 @@
 **Cmidi**（網址為：http://www.cmidi.com
 及https://web.archive.org/web/20100328060454/http://www.cmidi.org.hk/
-），[香港著名原創音樂網站](../Page/香港.md "wikilink")。
+），[香港](../Page/香港.md "wikilink")著名原創音樂網站。
 
-Cmidi於2000年創立，原為[香港最大型香港流行曲](../Page/香港.md "wikilink")[MIDI的網站](../Page/MIDI.md "wikilink")，2005年因應歌曲版權問題及站內歌曲創作趨勢，遂轉型為原創音樂網站。轉型後數月，當時為網絡唱作人[KellyJackie便於Cmidi發表](https://zh.wikipedia.org/wiki/KellyJackie "wikilink")〈[他約我去迪士尼](https://zh.wikipedia.org/wiki/他約我去迪士尼 "wikilink")〉一曲而瞬即成名，同時令網絡歌曲風氣盛行。
+Cmidi於2000年創立，原為[香港](../Page/香港.md "wikilink")最大型香港流行曲[MIDI](../Page/MIDI.md "wikilink")的網站，2005年因應歌曲版權問題及站內歌曲創作趨勢，遂轉型為原創音樂網站。轉型後數月，當時為網絡唱作人[KellyJackie便於Cmidi發表](https://zh.wikipedia.org/wiki/KellyJackie "wikilink")〈[他約我去迪士尼](https://zh.wikipedia.org/wiki/他約我去迪士尼 "wikilink")〉一曲而瞬即成名，同時令網絡歌曲風氣盛行。
 
-2006年，Cmidi註冊為[香港非牟利團體](../Page/香港.md "wikilink")。Cmidi除提供網絡平台發表原創歌曲外，亦著名於設有音樂製作、填詞及歌唱技巧討論區交流；此外亦衍生網上發表[改編詞及翻唱歌曲風氣](../Page/改編詞.md "wikilink")。至今Cmidi仍對網絡音樂界有一定影響力。
+2006年，Cmidi註冊為[香港](../Page/香港.md "wikilink")非牟利團體。Cmidi除提供網絡平台發表原創歌曲外，亦著名於設有音樂製作、填詞及歌唱技巧討論區交流；此外亦衍生網上發表[改編詞](../Page/改編詞.md "wikilink")及翻唱歌曲風氣。至今Cmidi仍對網絡音樂界有一定影響力。
 
 然而，自2006年網站轉換現時版面後發展停滯，系統亦多次出現問題，導致會員及流量不斷散失。Cmidi於2013年5月2日正式關閉網站\[1\]。
 
@@ -12,9 +12,9 @@ Cmidi於2000年創立，原為[香港最大型香港流行曲](../Page/香港.md
 
 ### 創立期 (1999年至2001年)
 
-1999年初，Cmidi創辦人**五弟**初次上網及接觸電腦純音樂（[MIDI](../Page/MIDI.md "wikilink")）後感興趣，學習架設網站分享於網上收集而來的[MIDI](../Page/MIDI.md "wikilink")，並將網站命名為「五弟音樂」。網站一直以[MIDI主題](../Page/MIDI.md "wikilink")，並於其後擴充多元化內容，網站亦先後更名為「五弟冷氣」及「五網」，同時開始招募一些網友參於網站管理工作。
+1999年初，Cmidi創辦人**五弟**初次上網及接觸電腦純音樂（[MIDI](../Page/MIDI.md "wikilink")）後感興趣，學習架設網站分享於網上收集而來的[MIDI](../Page/MIDI.md "wikilink")，並將網站命名為「五弟音樂」。網站一直以[MIDI](../Page/MIDI.md "wikilink")主題，並於其後擴充多元化內容，網站亦先後更名為「五弟冷氣」及「五網」，同時開始招募一些網友參於網站管理工作。
 
-**五弟**除於網上收集[MIDI外](../Page/MIDI.md "wikilink")，雖然其音樂知識不高，但仍嘗試自行製作[MIDI分享](../Page/MIDI.md "wikilink")。
+**五弟**除於網上收集[MIDI](../Page/MIDI.md "wikilink")外，雖然其音樂知識不高，但仍嘗試自行製作[MIDI](../Page/MIDI.md "wikilink")分享。
 
 2000年1月19日，五弟正式將網站命名為Cmidi，中文名為「Midi中文網」；Cmidi的「C」意為Chinese（中文）。該網站名稱自此沿用至今。
 
@@ -30,14 +30,14 @@ Cmidi於2000年創立，原為[香港最大型香港流行曲](../Page/香港.md
 
 Cmidi因2006年網站轉為現時版面時安排未妥當，流失部分會員。由於Cmidi會員多為青少年，在朋輩影響下，此後數年其他會員亦陸續散失。此外，一如其他經年的[討論區](https://zh.wikipedia.org/wiki/討論區 "wikilink")，出現新會員未能與現有會員協調問題，以致Cmidi既不能吸納新會員，而現有會員又不斷散失。
 
-外在環境方面，隨著大型[討論區如](https://zh.wikipedia.org/wiki/討論區 "wikilink")[高登討論區及](../Page/高登討論區.md "wikilink")[香港討論區主導了香港網上討論文化](../Page/香港討論區.md "wikilink")，以及[Facebook的興起](../Page/Facebook.md "wikilink")，亦取代[討論區上友際聯繫的功能](https://zh.wikipedia.org/wiki/討論區 "wikilink")，對Cmidi的經營都造成壓力。
+外在環境方面，隨著大型[討論區如](https://zh.wikipedia.org/wiki/討論區 "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")及[香港討論區](../Page/香港討論區.md "wikilink")主導了香港網上討論文化，以及[Facebook](../Page/Facebook.md "wikilink")的興起，亦取代[討論區上友際聯繫的功能](https://zh.wikipedia.org/wiki/討論區 "wikilink")，對Cmidi的經營都造成壓力。
 
 自2008年起，Cmidi伺服器偶然出現問題，以致無法瀏覽網站。2009年5月一個週末更嘗試連續超過60小時無法瀏覽，使瀏覽人流盡失。2009年8月，Cmidi伺服器系統文字及圖像式樣出現問題，以致不能正常瀏覽，問題至今仍未解決\[2\]；原來僅有的會員亦對瀏覽Cmidi失去興趣。於2009年9月學生開課後，每天整體會員發帖量只維持數十篇甚至不足10篇\[3\]，Cmidi討論區上因而有結束經營的討論\[4\]。而
 Cmidi 網站於2013年5月2日正式關閉\[5\]。
 
 ### 媒體報導
 
-早於2003年，Cmidi還在以流行曲[MIDI為主題之時期](../Page/MIDI.md "wikilink")，一些報章雜誌如《[電腦廣場](https://zh.wikipedia.org/wiki/電腦廣場 "wikilink")》曾提及Cmidi，除介紹Cmidi提供大量歌曲[MIDI外](../Page/MIDI.md "wikilink")，部分報導將Cmidi當作[電話鈴聲下載的網站向讀者推介](https://zh.wikipedia.org/wiki/電話鈴聲 "wikilink")。
+早於2003年，Cmidi還在以流行曲[MIDI](../Page/MIDI.md "wikilink")為主題之時期，一些報章雜誌如《[電腦廣場](https://zh.wikipedia.org/wiki/電腦廣場 "wikilink")》曾提及Cmidi，除介紹Cmidi提供大量歌曲[MIDI](../Page/MIDI.md "wikilink")外，部分報導將Cmidi當作[電話鈴聲下載的網站向讀者推介](https://zh.wikipedia.org/wiki/電話鈴聲 "wikilink")。
 
 2005年3月轉型為以原創音樂為主題之初，《[明報](../Page/明報.md "wikilink")》首先於校園版作專題報導。\[6\]
 
@@ -47,11 +47,11 @@ Cmidi 網站於2013年5月2日正式關閉\[5\]。
 及《[新Monday](../Page/新Monday.md "wikilink")》\[9\]
 均於其專題報導中列舉Cmidi為著名網絡音樂創作平台。
 
-2006年，[香港電台電台節目](../Page/香港電台.md "wikilink")《**原林部落**》\[10\]\[11\]、《[e個世界](https://zh.wikipedia.org/wiki/e個世界 "wikilink")》及電視節目《**藝文部落**》\[12\]
+2006年，[香港電台](../Page/香港電台.md "wikilink")電台節目《**原林部落**》\[10\]\[11\]、《[e個世界](https://zh.wikipedia.org/wiki/e個世界 "wikilink")》及電視節目《**藝文部落**》\[12\]
 均邀請Cmidi音樂人訪問並作專題報導，其中《[e個世界](https://zh.wikipedia.org/wiki/e個世界 "wikilink")》\[13\]
 更先後八次邀請Cmidi作訪問。
 
-近年，一些專題如[香港城市大學刊物](../Page/香港城市大學.md "wikilink")《Cityprint》仍介紹Cmidi為推廣原創音樂之網站\[14\]。
+近年，一些專題如[香港城市大學](../Page/香港城市大學.md "wikilink")刊物《Cityprint》仍介紹Cmidi為推廣原創音樂之網站\[14\]。
 
 ## 特色
 
@@ -108,7 +108,7 @@ Cmidi現時由「Cmidi原創音樂協會」管理。協會設有委員會，負�
       - [洪卓立](../Page/洪卓立.md "wikilink")〈**我的獨立時代**〉的原曲。
   - 〈**紀念碑**〉
       - 作曲：**elastic**　作詞：**Hangman**　演繹：**halen**
-      - 曾被網民誤傳為[鄧麗欣之歌曲](../Page/鄧麗欣.md "wikilink")〈**盡興**〉，事實並無此歌名。
+      - 曾被網民誤傳為[鄧麗欣](../Page/鄧麗欣.md "wikilink")之歌曲〈**盡興**〉，事實並無此歌名。
   - 〈**愛與不愛**〉
       - 作曲：**不大奀**　作詞：**尹星雨**　演繹：**尹星雨**
       - 同時為另一平台[SINA](https://zh.wikipedia.org/wiki/SINA "wikilink")
@@ -135,13 +135,13 @@ Cmidi現時由「Cmidi原創音樂協會」管理。協會設有委員會，負�
   - **苦榮**
       - 早期加入Cmidi的音樂人，近年跳出網絡專注個人發展，從事正統音樂，亦有參與流行曲作曲及編曲工作。
   - **Zephyr**
-      - Cmidi駐站作詞人，原名**關孝龍**。於第15屆[CASH流行曲創作大賽憑](../Page/CASH流行曲創作大賽.md "wikilink")〈趕〉晉身決賽，由[薛凱琪於決賽作現場演繹](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")\[19\]；於第21屆[CASH流行曲創作大賽再度憑](../Page/CASH流行曲創作大賽.md "wikilink")〈親疏之別〉晉身決賽，由[冼色麗於決賽作現場演繹](../Page/冼色麗.md "wikilink")，並獲網上最受歡迎歌曲獎。曾出版歌詞：[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")〈趕〉、[劉浩龍](../Page/劉浩龍.md "wikilink")〈錯定離手〉及〈好自為之〉等。近年於網上淡出。
+      - Cmidi駐站作詞人，原名**關孝龍**。於第15屆[CASH流行曲創作大賽](../Page/CASH流行曲創作大賽.md "wikilink")憑〈趕〉晉身決賽，由[薛凱琪於決賽作現場演繹](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")\[19\]；於第21屆[CASH流行曲創作大賽](../Page/CASH流行曲創作大賽.md "wikilink")再度憑〈親疏之別〉晉身決賽，由[冼色麗](../Page/冼色麗.md "wikilink")於決賽作現場演繹，並獲網上最受歡迎歌曲獎。曾出版歌詞：[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")〈趕〉、[劉浩龍](../Page/劉浩龍.md "wikilink")〈錯定離手〉及〈好自為之〉等。近年於網上淡出。
   - **尹星雨**
       - Cmidi駐站作詞人及歌手。於早期加入Cmidi成為管理員，其後開始填詞及演繹原創作品。曾於網上頗受歡迎，代表作有〈愛與不愛〉及〈漂流記〉。因近年停止發表作品而聲名減卻。
   - **風泠**
-      - 除為Cmidi作詞人外，亦為文字創作網站「原創空間」專欄作家。曾出版小說：《娃娃與她的Lolita》、《愛上了線》（合著）及《魔法下了線－菇5》（合著）。於第19屆[CASH流行曲創作大賽憑](../Page/CASH流行曲創作大賽.md "wikilink")〈棄物無聲〉晉身決賽\[20\]，並獲資深樂評人**馮禮慈**於《[亞洲時報](https://zh.wikipedia.org/wiki/亞洲時報 "wikilink")》專題中讚揚，與其他環保主題之流行曲並列\[21\]。
+      - 除為Cmidi作詞人外，亦為文字創作網站「原創空間」專欄作家。曾出版小說：《娃娃與她的Lolita》、《愛上了線》（合著）及《魔法下了線－菇5》（合著）。於第19屆[CASH流行曲創作大賽](../Page/CASH流行曲創作大賽.md "wikilink")憑〈棄物無聲〉晉身決賽\[20\]，並獲資深樂評人**馮禮慈**於《[亞洲時報](https://zh.wikipedia.org/wiki/亞洲時報 "wikilink")》專題中讚揚，與其他環保主題之流行曲並列\[21\]。
   - **幻影**
-      - 現為Cmidi站長、協會內務行政主任及駐站作曲人。於第19屆[CASH流行曲創作大賽憑](../Page/CASH流行曲創作大賽.md "wikilink")〈棄物無聲〉晉身決賽，原曲由駐站女歌手**蔚淇**演繹\[22\]，決賽由[陳美詩作現場演繹](../Page/陳美詩.md "wikilink")\[23\]。是少數在Cmidi步入衰落期仍然活躍的人物。
+      - 現為Cmidi站長、協會內務行政主任及駐站作曲人。於第19屆[CASH流行曲創作大賽](../Page/CASH流行曲創作大賽.md "wikilink")憑〈棄物無聲〉晉身決賽，原曲由駐站女歌手**蔚淇**演繹\[22\]，決賽由[陳美詩](../Page/陳美詩.md "wikilink")作現場演繹\[23\]。是少數在Cmidi步入衰落期仍然活躍的人物。
 
 ## 參見
 

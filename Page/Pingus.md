@@ -3,7 +3,7 @@ Ruhnke。
 用[企鹅代替](https://zh.wikipedia.org/wiki/企鹅 "wikilink")[旅鼠](../Page/旅鼠.md "wikilink")。\[1\]CNN.com\[2\]、about.com\[3\]、*Unix
 Review*\[4\]都给予好评。
 
-开始于1998年，击败了[SuperTux](https://zh.wikipedia.org/wiki/SuperTux "wikilink")、[SuperTuxKart以及](../Page/SuperTuxKart.md "wikilink")[Lincity](../Page/Lincity.md "wikilink")，成为[The
+开始于1998年，击败了[SuperTux](https://zh.wikipedia.org/wiki/SuperTux "wikilink")、[SuperTuxKart](../Page/SuperTuxKart.md "wikilink")以及[Lincity](../Page/Lincity.md "wikilink")，成为[The
 Linux Game Tome的](../Page/The_Linux_Game_Tome.md "wikilink")「月度游戏」（Game
 of the Month, GotM）。
 

@@ -1,11 +1,11 @@
 **Baudisch反应**（Baudisch reaction）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-[苯及其](../Page/苯.md "wikilink")[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")、[羟胺和](../Page/羟胺.md "wikilink")[过氧化氢在](../Page/过氧化氢.md "wikilink")[铜盐存在下进行反应得到](../Page/铜.md "wikilink")（取代）邻[亚硝基](https://zh.wikipedia.org/wiki/亚硝基 "wikilink")[苯酚](../Page/苯酚.md "wikilink")。1939年由
+[苯](../Page/苯.md "wikilink")及其[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")、[羟胺](../Page/羟胺.md "wikilink")和[过氧化氢](../Page/过氧化氢.md "wikilink")在[铜](../Page/铜.md "wikilink")盐存在下进行反应得到（取代）邻[亚硝基](https://zh.wikipedia.org/wiki/亚硝基 "wikilink")[苯酚](../Page/苯酚.md "wikilink")。1939年由
 Baudisch 报道，后被 Cronheim 进一步研究。\[7\]
 
 
 [Baudisch_reaction.svg](https://zh.wikipedia.org/wiki/File:Baudisch_reaction.svg "fig:Baudisch_reaction.svg")
-反应产物可用于[染料的制取](../Page/染料.md "wikilink")。\[8\]
+反应产物可用于[染料](../Page/染料.md "wikilink")的制取。\[8\]
 
 ## 参见
 

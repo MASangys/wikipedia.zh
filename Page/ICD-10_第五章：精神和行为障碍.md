@@ -1,6 +1,6 @@
 **ICD-10 第五章：精神和行为障碍**（英語：**ICD-10 Chapter V: Mental and behavioural
 disorders\#(F10–F19) Mental and behavioural
-disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md "wikilink")、[ICD-10规定的已发现的各类精神和行为障碍](../Page/ICD-10.md "wikilink")。
+disorders**），为[世界卫生组织](../Page/世界卫生组织.md "wikilink")发布的、[ICD-10](../Page/ICD-10.md "wikilink")规定的已发现的各类精神和行为障碍。
 
 ## 受控词表
 
@@ -24,9 +24,9 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
 
   - () 分类于他处的其他疾病引起的[痴呆](https://zh.wikipedia.org/wiki/痴呆 "wikilink")
       - () [皮克氏病引起的痴呆](https://zh.wikipedia.org/wiki/皮克氏病 "wikilink")
-      - () [克雅二氏病引起的痴呆](../Page/克雅二氏病.md "wikilink")
-      - () [亨丁頓舞蹈症引起的痴呆](../Page/亨丁頓舞蹈症.md "wikilink")
-      - () [帕金森氏症引起的痴呆](../Page/帕金森氏症.md "wikilink")
+      - () [克雅二氏病](../Page/克雅二氏病.md "wikilink")引起的痴呆
+      - () [亨丁頓舞蹈症](../Page/亨丁頓舞蹈症.md "wikilink")引起的痴呆
+      - () [帕金森氏症](../Page/帕金森氏症.md "wikilink")引起的痴呆
       - () [艾滋病引起的痴呆](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")
 
 <!-- end list -->
@@ -104,12 +104,12 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
 | ------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
 | ({{ICD10|F|10 | f|10}}) [酒精引起](https://zh.wikipedia.org/wiki/酒精 "wikilink")                                                       | [酒精中毒](https://zh.wikipedia.org/wiki/酒精中毒 "wikilink")         |                                                               | [酒精依赖](https://zh.wikipedia.org/wiki/酒精依赖 "wikilink")         | [戒酒综合症](https://zh.wikipedia.org/wiki/戒酒综合症 "wikilink")             | [震颤谵妄](https://zh.wikipedia.org/wiki/震颤谵妄 "wikilink") | [酒精中毒性幻觉症](https://zh.wikipedia.org/wiki/酒精中毒性幻觉症 "wikilink") | [科尔萨科夫综合症](https://zh.wikipedia.org/wiki/科尔萨科夫综合症 "wikilink") |
 | ({{ICD10|F|11 | f|10}}) [类鸦片药引起](https://zh.wikipedia.org/wiki/类鸦片药 "wikilink")                                                   | [鴉片过量](https://zh.wikipedia.org/wiki/鴉片过量 "wikilink")         |                                                               | [鴉片依赖](https://zh.wikipedia.org/wiki/鴉片依赖 "wikilink")         |                                                                     |                                                       |                                                               |                                                               |
-| ({{ICD10|F|12 | f|10}}) [大麻类物质引起](../Page/大麻.md "wikilink")                                                                       |                                                               |                                                               |                                                               |                                                                     |                                                       |                                                               |                                                               |
+| ({{ICD10|F|12 | f|10}}) [大麻](../Page/大麻.md "wikilink")类物质引起                                                                       |                                                               |                                                               |                                                               |                                                                     |                                                       |                                                               |                                                               |
 | ({{ICD10|F|13 | f|10}}) [镇静剂或](https://zh.wikipedia.org/wiki/镇静剂 "wikilink")[安眠藥引起](https://zh.wikipedia.org/wiki/安眠藥 "wikilink") | [苯二氮类药物过量](https://zh.wikipedia.org/wiki/苯二氮类药物过量 "wikilink") | [苯二氮类药物滥用](https://zh.wikipedia.org/wiki/苯二氮类药物滥用 "wikilink") | [苯二氮类药物依赖](https://zh.wikipedia.org/wiki/苯二氮类药物依赖 "wikilink") | [苯二氮类药物戒断综合症](https://zh.wikipedia.org/wiki/苯二氮类药物戒断综合症 "wikilink") |                                                       |                                                               |                                                               |
-| ({{ICD10|F|14 | f|10}}) [可卡因引起的](../Page/可卡因.md "wikilink")                                                                       |                                                               |                                                               | [可卡因依赖](https://zh.wikipedia.org/wiki/可卡因依赖 "wikilink")       |                                                                     |                                                       |                                                               |                                                               |
-| ({{ICD10|F|15 | f|10}}) 其他[兴奋剂引起的](../Page/兴奋剂.md "wikilink")，包括[咖啡因](../Page/咖啡因.md "wikilink")                                  |                                                               |                                                               |                                                               |                                                                     |                                                       | [兴奋剂精神病](https://zh.wikipedia.org/wiki/兴奋剂精神病 "wikilink")     |                                                               |
-| ({{ICD10|F|16 | f|10}}) [致幻剂引起的](../Page/致幻剂.md "wikilink")                                                                       |                                                               |                                                               |                                                               |                                                                     |                                                       |                                                               |                                                               |
-| ({{ICD10|F|17 | f|10}}) [烟草引起的](../Page/烟草.md "wikilink")                                                                         |                                                               |                                                               | [尼古丁戒断症候群](https://zh.wikipedia.org/wiki/尼古丁戒断症候群 "wikilink") |                                                                     |                                                       |                                                               |                                                               |
+| ({{ICD10|F|14 | f|10}}) [可卡因](../Page/可卡因.md "wikilink")引起的                                                                       |                                                               |                                                               | [可卡因依赖](https://zh.wikipedia.org/wiki/可卡因依赖 "wikilink")       |                                                                     |                                                       |                                                               |                                                               |
+| ({{ICD10|F|15 | f|10}}) 其他[兴奋剂](../Page/兴奋剂.md "wikilink")引起的，包括[咖啡因](../Page/咖啡因.md "wikilink")                                  |                                                               |                                                               |                                                               |                                                                     |                                                       | [兴奋剂精神病](https://zh.wikipedia.org/wiki/兴奋剂精神病 "wikilink")     |                                                               |
+| ({{ICD10|F|16 | f|10}}) [致幻剂](../Page/致幻剂.md "wikilink")引起的                                                                       |                                                               |                                                               |                                                               |                                                                     |                                                       |                                                               |                                                               |
+| ({{ICD10|F|17 | f|10}}) [烟草](../Page/烟草.md "wikilink")引起的                                                                         |                                                               |                                                               | [尼古丁戒断症候群](https://zh.wikipedia.org/wiki/尼古丁戒断症候群 "wikilink") |                                                                     |                                                       |                                                               |                                                               |
 | ({{ICD10|F|18 | f|10}}) [有机溶剂引起的](https://zh.wikipedia.org/wiki/有机溶剂 "wikilink")                                                  |                                                               |                                                               |                                                               |                                                                     |                                                       |                                                               |                                                               |
 | ({{ICD10|F|19 | f|10}}) 多种药物和其他化學物質引起的                                                                                            |                                                               |                                                               |                                                               |                                                                     |                                                       |                                                               |                                                               |
 
@@ -146,9 +146,9 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
 
   - () 急性复合精神病性障碍
       - ()
-        [急性复合精神病性障碍未伴有](https://zh.wikipedia.org/wiki/急性复合精神病性障碍 "wikilink")[精神分裂症症状](../Page/精神分裂症.md "wikilink")
+        [急性复合精神病性障碍未伴有](https://zh.wikipedia.org/wiki/急性复合精神病性障碍 "wikilink")[精神分裂症](../Page/精神分裂症.md "wikilink")症状
       - ()
-        [急性复合精神病性障碍伴有](https://zh.wikipedia.org/wiki/急性复合精神病性障碍 "wikilink")[精神分裂症症状](../Page/精神分裂症.md "wikilink")
+        [急性复合精神病性障碍伴有](https://zh.wikipedia.org/wiki/急性复合精神病性障碍 "wikilink")[精神分裂症](../Page/精神分裂症.md "wikilink")症状
       - ()
         [急性精神分裂症样精神病性障碍](https://zh.wikipedia.org/wiki/急性精神分裂症样精神病性障碍 "wikilink")
       - ()
@@ -209,9 +209,9 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
       - ()
         现呈轻度或中度抑郁症状的[双相情感障礙](https://zh.wikipedia.org/wiki/双相情感障礙 "wikilink")
       - ()
-        现呈[重度抑郁症状的](https://zh.wikipedia.org/wiki/重度抑郁 "wikilink")[双相情感障礙](https://zh.wikipedia.org/wiki/双相情感障礙 "wikilink")，不伴有[精神分裂症症状](../Page/精神分裂症.md "wikilink")
+        现呈[重度抑郁症状的](https://zh.wikipedia.org/wiki/重度抑郁 "wikilink")[双相情感障礙](https://zh.wikipedia.org/wiki/双相情感障礙 "wikilink")，不伴有[精神分裂症](../Page/精神分裂症.md "wikilink")症状
       - ()
-        现呈[重度抑郁症状的](https://zh.wikipedia.org/wiki/重度抑郁 "wikilink")[双相情感障礙](https://zh.wikipedia.org/wiki/双相情感障礙 "wikilink")，伴有[精神分裂症症状](../Page/精神分裂症.md "wikilink")
+        现呈[重度抑郁症状的](https://zh.wikipedia.org/wiki/重度抑郁 "wikilink")[双相情感障礙](https://zh.wikipedia.org/wiki/双相情感障礙 "wikilink")，伴有[精神分裂症](../Page/精神分裂症.md "wikilink")症状
       - ()
         现呈混合症状的[双相情感障礙](https://zh.wikipedia.org/wiki/双相情感障礙 "wikilink")
       - ()
@@ -229,9 +229,9 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
       - () [轻度抑郁性障碍](https://zh.wikipedia.org/wiki/轻度抑郁性障碍 "wikilink")
       - () [中度抑郁性障碍](https://zh.wikipedia.org/wiki/中度抑郁性障碍 "wikilink")
       - ()
-        [重度抑郁性障碍](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")，不伴有[精神分裂症症状](../Page/精神分裂症.md "wikilink")
+        [重度抑郁性障碍](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")，不伴有[精神分裂症](../Page/精神分裂症.md "wikilink")症状
       - ()
-        [重度抑郁性障碍](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")，伴有[精神分裂症症状](../Page/精神分裂症.md "wikilink")
+        [重度抑郁性障碍](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")，伴有[精神分裂症](../Page/精神分裂症.md "wikilink")症状
       - () [其他抑郁性障碍](https://zh.wikipedia.org/wiki/其他抑郁性障碍 "wikilink")
           - [非典型抑郁障碍](https://zh.wikipedia.org/wiki/非典型抑郁障碍 "wikilink")
           - [隐匿型抑郁障碍](https://zh.wikipedia.org/wiki/隐匿型抑郁障碍 "wikilink")
@@ -245,9 +245,9 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
       - ()
         现呈[中度抑郁性障碍症状的](https://zh.wikipedia.org/wiki/中度抑郁性障碍 "wikilink")[复发性抑郁障碍](https://zh.wikipedia.org/wiki/复发性抑郁障碍 "wikilink")
       - ()
-        现呈不伴有[精神分裂症症状得](../Page/精神分裂症.md "wikilink")[重度抑郁性障碍症状的](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")[复发性抑郁障碍](https://zh.wikipedia.org/wiki/复发性抑郁障碍 "wikilink")
+        现呈不伴有[精神分裂症](../Page/精神分裂症.md "wikilink")症状得[重度抑郁性障碍症状的](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")[复发性抑郁障碍](https://zh.wikipedia.org/wiki/复发性抑郁障碍 "wikilink")
       - ()
-        现呈伴有[精神分裂症症状得](../Page/精神分裂症.md "wikilink")[重度抑郁性障碍症状的](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")[复发性抑郁障碍](https://zh.wikipedia.org/wiki/复发性抑郁障碍 "wikilink")
+        现呈伴有[精神分裂症](../Page/精神分裂症.md "wikilink")症状得[重度抑郁性障碍症状的](https://zh.wikipedia.org/wiki/重性抑郁障碍 "wikilink")[复发性抑郁障碍](https://zh.wikipedia.org/wiki/复发性抑郁障碍 "wikilink")
       - ()
         现呈缓解状态的[复发性抑郁障碍](https://zh.wikipedia.org/wiki/复发性抑郁障碍 "wikilink")
       - ()
@@ -467,7 +467,7 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
       - () [裸露癖](https://zh.wikipedia.org/wiki/裸露癖 "wikilink")
       - () [窥视症](https://zh.wikipedia.org/wiki/窺視症 "wikilink")
       - () [恋童癖](https://zh.wikipedia.org/wiki/恋童癖 "wikilink")
-      - () [虐恋症](../Page/虐恋.md "wikilink")
+      - () [虐恋](../Page/虐恋.md "wikilink")症
       - () 混合型[性偏好障碍](https://zh.wikipedia.org/wiki/性偏好 "wikilink")
       - () 非特指的[性偏好障碍](https://zh.wikipedia.org/wiki/性偏好 "wikilink")
           - [摩擦癖](https://zh.wikipedia.org/wiki/摩擦癖 "wikilink")

@@ -1,5 +1,5 @@
 **Apache
-Wave**\[1\]，按照[Google在](../Page/Google.md "wikilink")2009年5月27日[Google
+Wave**\[1\]，按照[Google](../Page/Google.md "wikilink")在2009年5月27日[Google
 I/O上的说法](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，是一种「个人通信和协作工具」。它是一个[Web服务](../Page/Web服务.md "wikilink")、计算平台和[通信协议](https://zh.wikipedia.org/wiki/通信协议 "wikilink")，旨在合并[电子邮件](../Page/电子邮件.md "wikilink")、[即时通讯](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")、[wiki和](https://zh.wikipedia.org/wiki/wiki "wikilink")[社交网络](https://zh.wikipedia.org/wiki/社交网络 "wikilink")。由悉尼分公司开发，最初进行小范围内公测\[2\]。它有一个强大的实时协作和强大的拼写检查功能，可以自动翻译40种语言，以及许多其他的扩展。在2009年9月30日，测试Google
 Wave的用户数已扩大到约10万。
 

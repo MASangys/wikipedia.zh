@@ -8,7 +8,7 @@ XP
 SP2和](https://zh.wikipedia.org/wiki/Windows_XP_SP2 "wikilink")[Windows
 Vista的版本供使用者下載](../Page/Windows_Vista.md "wikilink")。
 
-IE8是首款通過[Acid2測試也是最後一個通過該測試的主要的網頁瀏覽器](../Page/Acid2.md "wikilink")。雖然它在[Acid3測試中僅獲得](../Page/Acid3.md "wikilink")24/100的分數，但據微軟所說，安全性、易用性和對[RSS](../Page/RSS.md "wikilink")、[CSS及](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")[Ajax的改善與支持是IE](https://zh.wikipedia.org/wiki/Ajax "wikilink")8的優勢\[2\]\[3\]。IE8是最後一款支援Windows
+IE8是首款通過[Acid2](../Page/Acid2.md "wikilink")測試也是最後一個通過該測試的主要的網頁瀏覽器。雖然它在[Acid3](../Page/Acid3.md "wikilink")測試中僅獲得24/100的分數，但據微軟所說，安全性、易用性和對[RSS](../Page/RSS.md "wikilink")、[CSS及](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")[Ajax的改善與支持是IE](https://zh.wikipedia.org/wiki/Ajax "wikilink")8的優勢\[2\]\[3\]。IE8是最後一款支援Windows
 XP的版本的IE。
 
 使用者介面上，IE7和IE8十分相似，因為IE8的改進主要在於引擎和技術方面。

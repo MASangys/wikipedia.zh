@@ -4,14 +4,14 @@
 
 ## 功能
 
-  - 輸出為[HTML](../Page/HTML.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[PostScript格式](../Page/PostScript.md "wikilink")
+  - 輸出為[HTML](../Page/HTML.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[PostScript](../Page/PostScript.md "wikilink")格式
   - 區塊選擇模式（見截圖）
       - 可以使用快捷键"Ctrl+Shift+b"在行选择模式和区块选择模式之间进行切换；不过该功能只能进行简单的选择、复制、剪切、粘贴以及删除等操作，却不能对选择的文本进行编辑。而[GNU](../Page/GNU.md "wikilink")/[NotePad++在这方面做的很好](../Page/Notepad++.md "wikilink")。
   - [語法摺疊](../Page/語法摺疊.md "wikilink")
   - 書籤
   - [語法高亮度顯示](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")
   - 編碼選擇
-  - [換行模式選擇](../Page/換行.md "wikilink")([Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Macintosh](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")）
+  - [換行](../Page/換行.md "wikilink")模式選擇([Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Macintosh](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")）
   - 字碼補齊
 
 ## KParts技術

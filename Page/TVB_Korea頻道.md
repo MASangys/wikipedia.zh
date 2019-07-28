@@ -72,7 +72,7 @@ Korea停播。
   - [THE
     ONE](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")（）（原題：飛虎）
   - [王座](https://zh.wikipedia.org/wiki/造王者_\(電視劇\) "wikilink")（）（原題：造王者）
-  - [回到三國志](../Page/回到三國.md "wikilink")（）（原題：回到三國）
+  - [回到三國](../Page/回到三國.md "wikilink")志（）（原題：回到三國）
   - [Wild Street 2](../Page/怒火街頭2.md "wikilink")（）（原題：怒火街頭2）
   - [天梯](../Page/天梯_\(無綫電視劇\).md "wikilink")（）
   - [白色都市](../Page/雷霆掃毒.md "wikilink")（）（原題：雷霆掃毒）
@@ -98,7 +98,7 @@ Korea停播。
   - [媳婦逆轉](../Page/新抱喜相逢.md "wikilink")（）（原題：新抱喜相逢）
   - [叛逃－反恐對立](https://zh.wikipedia.org/wiki/叛逃 "wikilink")（）（原題：叛逃）
   - [Blue Chip](../Page/點金勝手.md "wikilink")（）（原題：點金勝手）
-  - [愛我請留言－留言給我](../Page/愛我請留言.md "wikilink")（）（原題：愛我請留言）
+  - [愛我請留言](../Page/愛我請留言.md "wikilink")－留言給我（）（原題：愛我請留言）
   - [Coffee Mom](../Page/貓屎媽媽.md "wikilink")（）（原題：貓屎媽媽）
   - [對我而言不同的你](../Page/載得有情人.md "wikilink")（）（原題：載得有情人）
   - [大藥坊](../Page/大藥坊.md "wikilink")（）
@@ -181,7 +181,7 @@ Korea停播。
 ### 資訊
 
 文化及娛樂綜藝節目方面，TVB
-Korea頻道提供韓國、[日本](../Page/日本.md "wikilink")、[臺灣及](../Page/臺灣.md "wikilink")[中國大陸的節目](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。
+Korea頻道提供韓國、[日本](../Page/日本.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")及[中國大陸的節目](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。
 
 #### 演藝／娛樂
 

@@ -1,28 +1,28 @@
-**白朗寧Auto-5**（，簡稱：**Auto-5**、**A-5**，意為：白朗寧自動五發式霰彈槍）是一款由[美国著名](../Page/美国.md "wikilink")[輕兵器设计家](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")[约翰·勃朗宁所研製](../Page/约翰·勃朗宁.md "wikilink")、[後座作用操作的](../Page/後座作用.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可發射[12鉛徑、16鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+**白朗寧Auto-5**（，簡稱：**Auto-5**、**A-5**，意為：白朗寧自動五發式霰彈槍）是一款由[美国](../Page/美国.md "wikilink")著名[輕兵器设计家](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")[约翰·勃朗宁](../Page/约翰·勃朗宁.md "wikilink")所研製、[後座作用](../Page/後座作用.md "wikilink")操作的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可發射[12鉛徑、16鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 這也是全球第一枝設計獲得成功的自動裝填霰彈槍，甚至直到1998年以前仍然在生產。而「Automatic
-5」之名來自這枝自動裝填霰彈槍的5發霰彈藥筒裝彈量，其中4發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室之內](../Page/膛室.md "wikilink")。
+5」之名來自這枝自動裝填霰彈槍的5發霰彈藥筒裝彈量，其中4發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室](../Page/膛室.md "wikilink")之內。
 
 為了便捷起見，以下本文將以Auto-5之作為文章中的簡稱。
 [Browning_Auto_5_zerlegt.JPG](https://zh.wikipedia.org/wiki/File:Browning_Auto_5_zerlegt.JPG "fig:Browning_Auto_5_zerlegt.JPG")以後的白朗寧Auto-5。\]\]
 
 ## 歷史
 
-Auto-5是歷史上第一種[大規模生產的](../Page/大量生產.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，在1898年由[约翰·勃朗宁設計完全並在](../Page/约翰·勃朗宁.md "wikilink")1900年取得其[专利權](../Page/专利.md "wikilink")\[1\]。自1902年開始，它就不斷大規模產生了接近100年，並由數間槍械製造商生產；直到1998年，才停止生產。
+Auto-5是歷史上第一種[大規模生產的](../Page/大量生產.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，在1898年由[约翰·勃朗宁](../Page/约翰·勃朗宁.md "wikilink")設計完全並在1900年取得其[专利](../Page/专利.md "wikilink")權\[1\]。自1902年開始，它就不斷大規模產生了接近100年，並由數間槍械製造商生產；直到1998年，才停止生產。
 
-它採用一種獨特的高尾部設計，使其贏得“駝背槍”（）的綽號。Auto-5頂部的槍機移動不會直接傳到[槍管前](../Page/槍管.md "wikilink")，這設計可大幅減少對[槍托的](../Page/槍托.md "wikilink")[後座力](../Page/後座力.md "wikilink")，增加射擊速度。Auto-5還有一個很獨特的功能可以令使用者能夠更容易掌握。Auto-5可以快速轉換不同的口徑，例如生產時主要是以[12鉛徑霰彈和](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[20鉛徑霰彈為主](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，而[16鉛徑霰彈雖然在](https://zh.wikipedia.org/wiki/霰彈 "wikilink")1976年至1987年期間沒有生產，但是亦可利用轉換部件的方法轉換成這個口徑。
+它採用一種獨特的高尾部設計，使其贏得“駝背槍”（）的綽號。Auto-5頂部的槍機移動不會直接傳到[槍管](../Page/槍管.md "wikilink")前，這設計可大幅減少對[槍托](../Page/槍托.md "wikilink")的[後座力](../Page/後座力.md "wikilink")，增加射擊速度。Auto-5還有一個很獨特的功能可以令使用者能夠更容易掌握。Auto-5可以快速轉換不同的口徑，例如生產時主要是以[12鉛徑霰彈和](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[20鉛徑霰彈為主](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，而[16鉛徑霰彈雖然在](https://zh.wikipedia.org/wiki/霰彈 "wikilink")1976年至1987年期間沒有生產，但是亦可利用轉換部件的方法轉換成這個口徑。
 
-Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")[越南战爭之間於世界各地的軍隊中服役](https://zh.wikipedia.org/wiki/越南战爭 "wikilink")。
+Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至[越南战爭之間於世界各地的軍隊中服役](https://zh.wikipedia.org/wiki/越南战爭 "wikilink")。
 
 [John_M._Browning_with_his_Auto_5_shotgun_(2).jpg](https://zh.wikipedia.org/wiki/File:John_M._Browning_with_his_Auto_5_shotgun_\(2\).jpg "fig:John_M._Browning_with_his_Auto_5_shotgun_(2).jpg")與他所設計的Auto-5。\]\]
 
 ### 研製及尋找生產商
 
-當[约翰·勃朗宁剛剛協助](../Page/约翰·勃朗宁.md "wikilink")[溫徹斯特連發武器公司完成](../Page/溫徹斯特連發武器公司.md "wikilink")[溫徹斯特M1887和](../Page/溫徹斯特M1887槓桿式霰彈槍.md "wikilink")[溫徹斯特M1897泵動式霰彈槍](../Page/溫徹斯特M1897泵動式霰彈槍.md "wikilink")（他曾經宣稱這是他的最優秀的成果\[2\]）的同時，他決定要出售他大部分過去的[設計圖](https://zh.wikipedia.org/wiki/設計圖 "wikilink")。1889年，他設計了三種採用不同自動操作方式的霰彈槍，並且從中選取了一種最可靠的自動操作方式以設計其人生中的第一支半自動霰彈槍。將樣槍生產出來以後還進行了嚴格測試並且達到滿意效果。
+當[约翰·勃朗宁](../Page/约翰·勃朗宁.md "wikilink")剛剛協助[溫徹斯特連發武器公司](../Page/溫徹斯特連發武器公司.md "wikilink")完成[溫徹斯特M1887和](../Page/溫徹斯特M1887槓桿式霰彈槍.md "wikilink")[溫徹斯特M1897泵動式霰彈槍](../Page/溫徹斯特M1897泵動式霰彈槍.md "wikilink")（他曾經宣稱這是他的最優秀的成果\[2\]）的同時，他決定要出售他大部分過去的[設計圖](https://zh.wikipedia.org/wiki/設計圖 "wikilink")。1889年，他設計了三種採用不同自動操作方式的霰彈槍，並且從中選取了一種最可靠的自動操作方式以設計其人生中的第一支半自動霰彈槍。將樣槍生產出來以後還進行了嚴格測試並且達到滿意效果。
 
 測試完成以後，白朗寧準備將該款半自動霰彈槍的生產權賣給溫徹斯特。可是，白朗寧只想讓溫徹斯特進行特許生產，而溫徹斯特拒絕他的條件，並想一次性買下其[专利](../Page/专利.md "wikilink")。這樣的分歧使白朗寧無法與溫徹斯特達成協議。
 
-1902年1月8日，白朗寧來到[雷明登武器公司並且洽談相關事宜](../Page/雷明登武器公司.md "wikilink")。但是更不幸的是，白朗寧等待他們提供槍械製造技術期間，雷明登公司的總裁哈特利突然[心臟病病發猝逝](https://zh.wikipedia.org/wiki/心臟病 "wikilink")，合作協議再一次無法達成。這事件迫使白朗寧必需尋找海外的[槍械製造商來生產該款半自動霰彈槍](https://zh.wikipedia.org/wiki/槍械製造商 "wikilink")。
+1902年1月8日，白朗寧來到[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")並且洽談相關事宜。但是更不幸的是，白朗寧等待他們提供槍械製造技術期間，雷明登公司的總裁哈特利突然[心臟病病發猝逝](https://zh.wikipedia.org/wiki/心臟病 "wikilink")，合作協議再一次無法達成。這事件迫使白朗寧必需尋找海外的[槍械製造商來生產該款半自動霰彈槍](https://zh.wikipedia.org/wiki/槍械製造商 "wikilink")。
 
 這時，白朗寧轉而又想到了正在與其合作生產手枪的[國營赫斯塔爾公司](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN，該公司目前仍然大規模生產由白朗寧所設計的手槍）。國營赫斯塔爾公司高層對白朗寧Auto-5半自動霰彈槍設計十分感到興趣，而且同意只獲授權特許生產，並於同年3月24日與白朗寧簽訂了生產合同。最後，它最先交由國營赫斯塔爾公司開始生產。
 
@@ -32,10 +32,10 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
 
 白朗寧與國營赫斯塔爾公司簽訂了生產合同以後，仍然幫助他們進行生產，同時他亦對國營赫斯塔爾公司生產的白朗寧Auto-5進行嚴格測試。白朗寧Auto-5的生產在美國雷明登公司買下特許生產權以後仍在進行，並且在歐洲一直熱賣。直到[二戰爆發以前](../Page/第二次世界大战.md "wikilink")，國營赫斯塔爾公司才停止白朗寧Auto-5的生產。
 
-白朗寧其後從國營赫斯塔爾公司一次性訂購了10,000枝，並且帶回[美国銷售](../Page/美国.md "wikilink")，而這些槍就在一年以內全部出售一空。這個成就讓白朗寧感覺到僅在比利時生產該槍是不足以滿足美國國內市場的需求，而這時美國[雷明登武器公司亦想再度與白朗寜進行合作](../Page/雷明登武器公司.md "wikilink")，所以與白朗寧經過談判以後，達成了特許生產許可的協議，白朗寜把美國國內的生產權賣給雷明登公司。而雷明登公司在1905年買下生產權以後開始生產其白朗寧Auto-5，並且將這些霰彈槍重新命名為**雷明登11**（）。雷明登11是美國歷史上第一枝自動裝填霰彈槍。雷明登公司從1905年開始生產，直到在1947年生產結束以前，期間總共生產了850,000枝各種口徑和長度的雷明登11。隨後，雷明登公司對白朗寧的設計進行修改，並推出了[雷明登11-48](../Page/雷明登11-48半自動霰彈槍.md "wikilink")。
-後來也有槍械製造商取得特許生產，包括在1930年至1949年期間的[萨维奇武器公司所生產的M](../Page/萨维奇武器公司.md "wikilink")720和M745（使用合金[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")）和[意大利](../Page/意大利.md "wikilink")[路易吉·弗蘭基](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")。\[3\]勃朗宁的[長後座行程作用設計本身並作為後來的雷明登](../Page/後座作用.md "wikilink")11-48、薩維奇M755和M775、[弗蘭基AL-48等型號的槍機操作系統的範本](../Page/弗蘭基AL-48半自動霰彈槍.md "wikilink")。
+白朗寧其後從國營赫斯塔爾公司一次性訂購了10,000枝，並且帶回[美国](../Page/美国.md "wikilink")銷售，而這些槍就在一年以內全部出售一空。這個成就讓白朗寧感覺到僅在比利時生產該槍是不足以滿足美國國內市場的需求，而這時美國[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")亦想再度與白朗寜進行合作，所以與白朗寧經過談判以後，達成了特許生產許可的協議，白朗寜把美國國內的生產權賣給雷明登公司。而雷明登公司在1905年買下生產權以後開始生產其白朗寧Auto-5，並且將這些霰彈槍重新命名為**雷明登11**（）。雷明登11是美國歷史上第一枝自動裝填霰彈槍。雷明登公司從1905年開始生產，直到在1947年生產結束以前，期間總共生產了850,000枝各種口徑和長度的雷明登11。隨後，雷明登公司對白朗寧的設計進行修改，並推出了[雷明登11-48](../Page/雷明登11-48半自動霰彈槍.md "wikilink")。
+後來也有槍械製造商取得特許生產，包括在1930年至1949年期間的[萨维奇武器公司](../Page/萨维奇武器公司.md "wikilink")所生產的M720和M745（使用合金[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")）和[意大利](../Page/意大利.md "wikilink")[路易吉·弗蘭基](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")。\[3\]勃朗宁的[長後座行程作用設計本身並作為後來的雷明登](../Page/後座作用.md "wikilink")11-48、薩維奇M755和M775、[弗蘭基AL-48等型號的槍機操作系統的範本](../Page/弗蘭基AL-48半自動霰彈槍.md "wikilink")。
 
-從[比利時生產開始](https://zh.wikipedia.org/wiki/比利時 "wikilink")，一直持續到二戰時期，白朗寧已經完全把其生產權交給了美國雷明登公司。期間，[美国陆军和其他國家的軍隊都大量使用雷明登公司生產的霰彈槍](../Page/美国陆军.md "wikilink")，典型型號有雷明登11A和雷明登12霰彈槍。\[4\]和雷明登11相反，現在雷明頓公司生產的白朗寧霰彈槍裝有[彈倉切斷裝置](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。當這裝置被啟動，就會阻止彈倉裝載下一發的霰彈藥筒，而且排彈殼口被打開。這使得使用者能夠在無需首先用盡整個[彈倉的霰彈藥筒後這個情況下裝載一發特殊的霰彈藥筒](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。在1947年生產結束前總共生產了850,000枝各種口徑和長度的雷明登11。
+從[比利時生產開始](https://zh.wikipedia.org/wiki/比利時 "wikilink")，一直持續到二戰時期，白朗寧已經完全把其生產權交給了美國雷明登公司。期間，[美国陆军](../Page/美国陆军.md "wikilink")和其他國家的軍隊都大量使用雷明登公司生產的霰彈槍，典型型號有雷明登11A和雷明登12霰彈槍。\[4\]和雷明登11相反，現在雷明頓公司生產的白朗寧霰彈槍裝有[彈倉切斷裝置](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。當這裝置被啟動，就會阻止彈倉裝載下一發的霰彈藥筒，而且排彈殼口被打開。這使得使用者能夠在無需首先用盡整個[彈倉的霰彈藥筒後這個情況下裝載一發特殊的霰彈藥筒](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。在1947年生產結束前總共生產了850,000枝各種口徑和長度的雷明登11。
 
 1952年，生產線返回國營赫斯塔爾公司，在那裡繼續生產，直到決定停產。然而，大部分生產線已在1975年轉移到[日本](../Page/日本.md "wikilink")。最後，在1998年，Auto-5的主要生產商國營赫斯塔爾公司決定停產，只保留在1999年以後的限量版紀念生產型。在這一時間內，Auto-5被公認為美國歷史上第二枝最暢銷的自動裝填霰彈槍，僅次於[雷明登1100](../Page/雷明登1100半自動霰彈槍.md "wikilink")。\[5\]
 
@@ -43,18 +43,18 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
 
 ### 各國軍警採用
 
-儘管主要設計目的為運動用途，但白朗寧Auto-5推出後不久因其高性能而被軍隊和警察部門注意。[比利時警察採用了國營赫斯塔爾公司生產的白朗寧Auto](https://zh.wikipedia.org/wiki/比利時警察 "wikilink")-5。而[英國軍隊也裝備了白朗寧Auto](../Page/英國軍隊.md "wikilink")-5並且將其命名為**L32A1霰彈槍**。而在美國，各州執法機關都採用了雷明登11並且用作防暴用途；美國特工處也裝備了雷明登11並且用作保護官員用途；[美國軍隊採購了大量雷明登](../Page/美军.md "wikilink")11，這些雷明登11都打上了「US」的標誌。美軍使用的雷明登11為508毫米（20英吋）槍管長度型號，並且從[一戰之前開始裝備](../Page/第一次世界大战.md "wikilink")。而在[二戰期間](../Page/第二次世界大战.md "wikilink")，美國陸軍和其他國家的軍隊都大量使用雷明登武器公司生產的半自動霰彈槍，例如雷明登11A。美軍直到[越戰時期仍在使用](../Page/越南战争.md "wikilink")。
+儘管主要設計目的為運動用途，但白朗寧Auto-5推出後不久因其高性能而被軍隊和警察部門注意。[比利時警察採用了國營赫斯塔爾公司生產的白朗寧Auto](https://zh.wikipedia.org/wiki/比利時警察 "wikilink")-5。而[英國軍隊](../Page/英國軍隊.md "wikilink")也裝備了白朗寧Auto-5並且將其命名為**L32A1霰彈槍**。而在美國，各州執法機關都採用了雷明登11並且用作防暴用途；美國特工處也裝備了雷明登11並且用作保護官員用途；[美國軍隊採購了大量雷明登](../Page/美军.md "wikilink")11，這些雷明登11都打上了「US」的標誌。美軍使用的雷明登11為508毫米（20英吋）槍管長度型號，並且從[一戰之前開始裝備](../Page/第一次世界大战.md "wikilink")。而在[二戰期間](../Page/第二次世界大战.md "wikilink")，美國陸軍和其他國家的軍隊都大量使用雷明登武器公司生產的半自動霰彈槍，例如雷明登11A。美軍直到[越戰時期仍在使用](../Page/越南战争.md "wikilink")。
 
 [Browning_Auto-5_20g_Mag.jpg](https://zh.wikipedia.org/wiki/File:Browning_Auto-5_20g_Mag.jpg "fig:Browning_Auto-5_20g_Mag.jpg")製造的Auto-5，發射20鉛徑麥格農霰彈。\]\]
 
 ## 設計細節
 
-白朗寧Auto-5是一枝採用了在當研製時罕見的[槍管長行程後座作用式自動原理操作的半自動霰彈槍](https://zh.wikipedia.org/wiki/後座作用#槍管長行程後座作用 "wikilink")，而霰彈藥筒與[泵動式霰彈槍一樣會儲藏在](https://zh.wikipedia.org/wiki/泵動式霰彈槍 "wikilink")[槍管下方的](../Page/槍管.md "wikilink")[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。
+白朗寧Auto-5是一枝採用了在當研製時罕見的[槍管長行程後座作用式自動原理操作的半自動霰彈槍](https://zh.wikipedia.org/wiki/後座作用#槍管長行程後座作用 "wikilink")，而霰彈藥筒與[泵動式霰彈槍一樣會儲藏在](https://zh.wikipedia.org/wiki/泵動式霰彈槍 "wikilink")[槍管](../Page/槍管.md "wikilink")下方的[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。
 
-裝填霰彈藥筒時，下一發霰彈藥筒會因底部的管式彈倉內部的[弹簧拿出](../Page/弹簧.md "wikilink")，然後會自動被推到膛室內。大部份Auto-5的管式彈倉都有可拆卸塞子以
-防止裝填超過3發霰彈藥筒（其中2發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室之內](../Page/膛室.md "wikilink")）。這樣是為了遵守美國聯邦某些州份的槍械管制法律，以及一些國家槍械狩獵法律。但如果把塞子拆卸的話，全槍總容量就是5發霰彈藥筒（不發射麥格農霰彈藥筒以下）。該槍設有空倉掛機，如果所有槍彈發射完畢（或者空槍狀態下後拉動），槍機會停在後方以保持槍膛開啟。此時如果直接向管式彈倉內裝填一發槍彈，這發槍彈會被自動送入槍膛并解除空倉掛機，槍機向前完成閉鎖，即刻可以發射。所以當裝填打空的Auto-5時，只需連續向彈倉內塞入5發槍彈即可，無需其他操作就能馬上射擊。所以，相對於其他各類管式彈倉供彈的霰彈槍（先上膛一發槍彈然後再填滿彈倉才能達到最大裝彈量），Auto-5的這個設計明顯更加方便，自然廣受歡迎。
+裝填霰彈藥筒時，下一發霰彈藥筒會因底部的管式彈倉內部的[弹簧](../Page/弹簧.md "wikilink")拿出，然後會自動被推到膛室內。大部份Auto-5的管式彈倉都有可拆卸塞子以
+防止裝填超過3發霰彈藥筒（其中2發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室](../Page/膛室.md "wikilink")之內）。這樣是為了遵守美國聯邦某些州份的槍械管制法律，以及一些國家槍械狩獵法律。但如果把塞子拆卸的話，全槍總容量就是5發霰彈藥筒（不發射麥格農霰彈藥筒以下）。該槍設有空倉掛機，如果所有槍彈發射完畢（或者空槍狀態下後拉動），槍機會停在後方以保持槍膛開啟。此時如果直接向管式彈倉內裝填一發槍彈，這發槍彈會被自動送入槍膛并解除空倉掛機，槍機向前完成閉鎖，即刻可以發射。所以當裝填打空的Auto-5時，只需連續向彈倉內塞入5發槍彈即可，無需其他操作就能馬上射擊。所以，相對於其他各類管式彈倉供彈的霰彈槍（先上膛一發槍彈然後再填滿彈倉才能達到最大裝彈量），Auto-5的這個設計明顯更加方便，自然廣受歡迎。
 
-當使用者扣動扳機、[膛室之內的一發霰彈藥筒射擊以後](../Page/膛室.md "wikilink")，槍管和槍機一併向後運動一段較長的距離（向後移的這個距離大於彈殼長度），直到後座到[機匣尾部並且後座到位以後才進行開鎖](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機停止運動，並被鎖上；而槍管在套在[管式彈倉上的](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[復進簧的作用以下向前復位](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，在槍管向前運動的過程中將彈殼從[膛室抽](../Page/膛室.md "wikilink")，並且從[拋殼口拋出槍外](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")；槍管向前復進到位以後，槍機亦在其後方的復進簧的作用以下向前復進，同時將從底部的管式彈倉取出的下一發霰彈藥筒推入膛室內，完成推彈上膛及閉鎖動作，並呈待擊狀態。這種操作在霰彈槍之中尚屬首次。
+當使用者扣動扳機、[膛室](../Page/膛室.md "wikilink")之內的一發霰彈藥筒射擊以後，槍管和槍機一併向後運動一段較長的距離（向後移的這個距離大於彈殼長度），直到後座到[機匣尾部並且後座到位以後才進行開鎖](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機停止運動，並被鎖上；而槍管在套在[管式彈倉上的](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[復進簧的作用以下向前復位](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，在槍管向前運動的過程中將彈殼從[膛室](../Page/膛室.md "wikilink")抽，並且從[拋殼口拋出槍外](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")；槍管向前復進到位以後，槍機亦在其後方的復進簧的作用以下向前復進，同時將從底部的管式彈倉取出的下一發霰彈藥筒推入膛室內，完成推彈上膛及閉鎖動作，並呈待擊狀態。這種操作在霰彈槍之中尚屬首次。
 
 白朗寧Auto-5還有一個利用摩擦環來控制後座速率的系統。如果要正確地來說的話這個重要的小環就是此槍能夠成為一枝既有優秀的性能又長壽命的霰彈槍的關鍵，亦可以用來控制過度的反沖。整個摩擦環的主要用途是以協助裝填後就能令全槍能繼續射擊作為基礎。在不同的說明手冊之中都可以找到其所在的位置。\[6\]
 
@@ -62,37 +62,37 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
 
 ### 多種槍管長度
 
-白朗寧Auto-5有508毫米（20英吋）、660.4毫米（26英吋）、711.2毫米（28英吋）和812.8毫米（32英吋）四種槍管長度，可根據需要換裝。槍管前方設有一個圓柱型[準星](../Page/照準器.md "wikilink")，而高級狩獵型的槍管上會設有瞄準肋條。[槍管下方設有一個圓環](../Page/槍管.md "wikilink")，[管式彈倉套在該圓環內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。由於採用[槍管長行程後座作用式自動原理](https://zh.wikipedia.org/wiki/後座作用#槍管長行程後座作用 "wikilink")，射擊過程之中圓環亦會在管式彈倉上來回滑動，並且壓縮套在管式彈倉上的槍管[復進簧](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，並且完成機構動作。
+白朗寧Auto-5有508毫米（20英吋）、660.4毫米（26英吋）、711.2毫米（28英吋）和812.8毫米（32英吋）四種槍管長度，可根據需要換裝。槍管前方設有一個圓柱型[準星](../Page/照準器.md "wikilink")，而高級狩獵型的槍管上會設有瞄準肋條。[槍管](../Page/槍管.md "wikilink")下方設有一個圓環，[管式彈倉套在該圓環內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。由於採用[槍管長行程後座作用式自動原理](https://zh.wikipedia.org/wiki/後座作用#槍管長行程後座作用 "wikilink")，射擊過程之中圓環亦會在管式彈倉上來回滑動，並且壓縮套在管式彈倉上的槍管[復進簧](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，並且完成機構動作。
 
 ### 機匣組件
 
-[機匣頂部設有防反光紋](https://zh.wikipedia.org/wiki/機匣 "wikilink")。機匣上設有橫閂式托彈板鎖定按鈕，從機匣右側按壓托彈板鎖定按鈕即可鎖定托彈板，即使向後拉動槍機，管式彈倉內的最後一發[彈藥也不會被托彈板向上托至進彈位置](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，這樣就可以抽出[膛室內已有的彈藥或是更換膛室內的彈種](../Page/膛室.md "wikilink")。如果解除鎖定，只需要從機匣左側按壓鎖定按鈕即可。
+[機匣頂部設有防反光紋](https://zh.wikipedia.org/wiki/機匣 "wikilink")。機匣上設有橫閂式托彈板鎖定按鈕，從機匣右側按壓托彈板鎖定按鈕即可鎖定托彈板，即使向後拉動槍機，管式彈倉內的最後一發[彈藥也不會被托彈板向上托至進彈位置](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，這樣就可以抽出[膛室](../Page/膛室.md "wikilink")內已有的彈藥或是更換膛室內的彈種。如果解除鎖定，只需要從機匣左側按壓鎖定按鈕即可。
 
 [扳機護圈後方設有手動保險](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，為標準的橫閂式設計。
 
 ### 木製槍托
 
-白朗寧Auto-5採用了非常結實的木製[槍托](../Page/槍托.md "wikilink")，而且在握持部分刻有防滑紋。早期型的槍托後部是[金属底板](../Page/金属.md "wikilink")，上面刻有生產商的商標或是圖案；後期型開始安裝各式各樣不同類型的[橡膠緩衝墊](../Page/橡膠.md "wikilink")。
+白朗寧Auto-5採用了非常結實的木製[槍托](../Page/槍托.md "wikilink")，而且在握持部分刻有防滑紋。早期型的槍托後部是[金属](../Page/金属.md "wikilink")底板，上面刻有生產商的商標或是圖案；後期型開始安裝各式各樣不同類型的[橡膠](../Page/橡膠.md "wikilink")緩衝墊。
 
 ## 使用國
 
   - ：白朗寧Auto-5被[比利時警察和軍隊所採用](https://zh.wikipedia.org/wiki/比利時警察 "wikilink")。
 
-  - ：白朗寧Auto-5被[英國軍隊所採用](../Page/英國軍隊.md "wikilink")，並且命名為**L32A1霰彈槍**。
+  - ：白朗寧Auto-5被[英國軍隊](../Page/英國軍隊.md "wikilink")所採用，並且命名為**L32A1霰彈槍**。
 
   - ：雷明登11被各州警察、美國特工處和[美國軍隊所採用](../Page/美军.md "wikilink")。
 
 ## 犯罪
 
-白朗寧Auto-5霰彈槍系列曾經是罪犯犯罪時的利器。在最混亂的1930年代[大萧条時期](../Page/大萧条.md "wikilink")，各路[劫匪及](../Page/抢劫.md "wikilink")[黑社會經常以此槍與警方火拼](../Page/黑社會.md "wikilink")。
+白朗寧Auto-5霰彈槍系列曾經是罪犯犯罪時的利器。在最混亂的1930年代[大萧条](../Page/大萧条.md "wikilink")時期，各路[劫匪及](../Page/抢劫.md "wikilink")[黑社會](../Page/黑社會.md "wikilink")經常以此槍與警方火拼。
 
-鴛鴦大盜[邦妮和克萊德擁有大量槍械](../Page/邦妮和克萊德.md "wikilink")，其中一枝就是削短了的雷明登11。1934年5月23日，邦妮和克萊德在[路易斯安那州](../Page/路易斯安那州.md "wikilink")[邊維爾縣的偏僻道路上被德州與路易斯安那州的警方](https://zh.wikipedia.org/wiki/邊維爾縣_\(路易斯安那州\) "wikilink")[埋伏](../Page/埋伏.md "wikilink")，警方以自動步槍、霰彈槍及手槍等約130發子彈瘋狂掃射兩人座車，兩人身中50多發彈藥以後當場死亡。\[7\]隨後警方在展示繳獲的武器當中就有一枝削短了的雷明登11。\[8\]
+鴛鴦大盜[邦妮和克萊德](../Page/邦妮和克萊德.md "wikilink")擁有大量槍械，其中一枝就是削短了的雷明登11。1934年5月23日，邦妮和克萊德在[路易斯安那州](../Page/路易斯安那州.md "wikilink")[邊維爾縣的偏僻道路上被德州與路易斯安那州的警方](https://zh.wikipedia.org/wiki/邊維爾縣_\(路易斯安那州\) "wikilink")[埋伏](../Page/埋伏.md "wikilink")，警方以自動步槍、霰彈槍及手槍等約130發子彈瘋狂掃射兩人座車，兩人身中50多發彈藥以後當場死亡。\[7\]隨後警方在展示繳獲的武器當中就有一枝削短了的雷明登11。\[8\]
 
-而銀行搶匪[约翰·迪林杰和美國黑幫成員綽號為](../Page/约翰·迪林杰.md "wikilink")「娃娃臉尼爾森」（）的[萊斯特·喬瑟夫·吉利斯](https://zh.wikipedia.org/wiki/萊斯特·喬瑟夫·吉利斯 "wikilink")，他們擁有的大量槍械的其中一枝亦是白朗寧Auto-5。\[9\]
+而銀行搶匪[约翰·迪林杰](../Page/约翰·迪林杰.md "wikilink")和美國黑幫成員綽號為「娃娃臉尼爾森」（）的[萊斯特·喬瑟夫·吉利斯](https://zh.wikipedia.org/wiki/萊斯特·喬瑟夫·吉利斯 "wikilink")，他們擁有的大量槍械的其中一枝亦是白朗寧Auto-5。\[9\]
 
 ## 流行文化
 
-白朗寧Auto-5系列登場於多部[电影](../Page/电影.md "wikilink")、[电視和](https://zh.wikipedia.org/wiki/电視 "wikilink")[电子游戏裡](../Page/电子游戏.md "wikilink")，例如：
+白朗寧Auto-5系列登場於多部[电影](../Page/电影.md "wikilink")、[电視和](https://zh.wikipedia.org/wiki/电視 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")裡，例如：
 
 ### 電影
 
@@ -110,7 +110,7 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
   - 2010年—《[大西洋帝國](https://zh.wikipedia.org/wiki/大西洋帝國 "wikilink")》（Boardwalk
     Empire）：型號為白朗寧Auto-5，被黑幫老大[艾爾·卡彭](../Page/艾爾·卡彭.md "wikilink")（Al
     Capone，[斯蒂芬·格拉漢姆飾演](https://zh.wikipedia.org/wiki/斯蒂芬·格拉漢姆 "wikilink")）和理查德·哈羅（Richard
-    Harrow，[傑克·休斯頓飾演](../Page/傑克·休斯頓.md "wikilink")）所使用。
+    Harrow，[傑克·休斯頓](../Page/傑克·休斯頓.md "wikilink")飾演）所使用。
 
 ### 電子遊戲
 
@@ -118,7 +118,7 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
     zh-hk:戰地風雲1942}-](../Page/戰地風雲1942.md "wikilink")》（Battlefield
     1942）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「秘密武器」（Secret
     Weapons Of
-    WWII）武器之一。型號為白朗寧Auto-5，命名為「霰彈槍」，6發彈倉。被[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[特种空勤团工程兵所使用](../Page/特种空勤团.md "wikilink")。
+    WWII）武器之一。型號為白朗寧Auto-5，命名為「霰彈槍」，6發彈倉。被[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[特种空勤团](../Page/特种空勤团.md "wikilink")工程兵所使用。
   - 2004年—《[-{zh-cn:荣誉勋章：太平洋突袭; zh-tw:榮譽勳章：太平洋戰役;
     zh-hk:榮譽勳章：太平洋戰役;}-](https://zh.wikipedia.org/wiki/榮譽勳章：太平洋突襲 "wikilink")》（Medal
     of Honor: Pacific
@@ -126,7 +126,7 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
   - 2007年—《[-{zh-cn:军团要塞2; zh-tw:絕地要塞2;
     zh-hk:絕地要塞2}-](../Page/絕地要塞2.md "wikilink")》（Team
     Fortress
-    2）：以白朗寧Auto-5作為藍本，但使用了[削短的](https://zh.wikipedia.org/wiki/削短型獵槍 "wikilink")[槍管和](../Page/槍管.md "wikilink")[槍托](../Page/槍托.md "wikilink")、內置式[彈鼓取代](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[管式彈倉和槓桿式槍機取代半自動槍機](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，命名為「型男霰彈槍」（Baby
+    2）：以白朗寧Auto-5作為藍本，但使用了[削短的](https://zh.wikipedia.org/wiki/削短型獵槍 "wikilink")[槍管](../Page/槍管.md "wikilink")和[槍托](../Page/槍托.md "wikilink")、內置式[彈鼓取代](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[管式彈倉和槓桿式槍機取代半自動槍機](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，命名為「型男霰彈槍」（Baby
     Face's Blaster），被偵察兵作為更新後可使用的解鎖武器之一所使用。
   - 2010年—《[-{zh-cn:荒野大鏢客：救贖; zh-tw:碧血狂殺;
     zh-hk:碧血狂殺}-](../Page/荒野大镖客：救赎.md "wikilink")》（Red
@@ -200,7 +200,7 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
 
   - —
 
-  - —，[後座作用示範](../Page/後座作用.md "wikilink")
+  - —，[後座作用](../Page/後座作用.md "wikilink")示範
 
 [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink")
 [Category:美國霰彈槍](https://zh.wikipedia.org/wiki/Category:美國霰彈槍 "wikilink")

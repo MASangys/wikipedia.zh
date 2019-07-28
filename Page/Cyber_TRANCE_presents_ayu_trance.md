@@ -1,5 +1,5 @@
 《**Cyber TRANCE presents ayu
-trance**》（出神入化trance混音專輯）是日本歌手[濱崎步的混音專輯](../Page/濱崎步.md "wikilink")，2001年9月27日於日本發售。為《ayu
+trance**》（出神入化trance混音專輯）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2001年9月27日於日本發售。為《ayu
 trance》系列的第一彈。
 
 ## 說明

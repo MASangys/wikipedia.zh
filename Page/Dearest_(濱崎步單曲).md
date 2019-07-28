@@ -1,10 +1,10 @@
 \-{T|Dearest}-
 
-《**Dearest**》（最愛）是[日本歌手](../Page/日本.md "wikilink")[濱崎步第](../Page/濱崎步.md "wikilink")24張單曲，2001年9月27日於日本發售。
+《**Dearest**》（最愛）是[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")第24張單曲，2001年9月27日於日本發售。
 
 ## 說明
 
-自《Dearest》開始，濱崎步開始與[長尾大合作作曲](../Page/長尾大.md "wikilink")。同時〈Dearest〉作為熱門動畫《[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》主題曲，亦獲得了個人於第43回[日本唱片大獎首度的受獎](../Page/日本唱片大獎.md "wikilink")。
+自《Dearest》開始，濱崎步開始與[長尾大](../Page/長尾大.md "wikilink")合作作曲。同時〈Dearest〉作為熱門動畫《[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》主題曲，亦獲得了個人於第43回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")首度的受獎。
 
 發行的期間，愛貝克思唱片發現了少數未收錄第11音軌鋼琴版本的錄製不良CD，導致銷量稍受影響，但最終銷量仍突破了七十五萬。
 

@@ -1,5 +1,5 @@
 《**Believe in
-music**》是[台灣獨立音樂](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[蘇打綠於](../Page/蘇打綠.md "wikilink")2004年發行的[現場](../Page/現場專輯.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，雖然是在[the
+music**》是[台灣獨立音樂](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[蘇打綠](../Page/蘇打綠.md "wikilink")於2004年發行的[現場](../Page/現場專輯.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，雖然是在[the
 stage表演的現場錄音](https://zh.wikipedia.org/wiki/the_stage "wikilink")，但三首歌曲皆是沒有發表過的新歌。除收錄了三首新歌外，更收錄了《[Air](https://zh.wikipedia.org/wiki/空氣中的視聽與幻覺 "wikilink")》及《Believe
 in
 music》的[MV](../Page/音樂錄影帶.md "wikilink")，所以CD採用了[AVCD格式](https://zh.wikipedia.org/wiki/AVCD "wikilink")。\[1\]

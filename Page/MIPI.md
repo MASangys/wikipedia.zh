@@ -10,7 +10,7 @@ Interface**的缩写。该缩写的特定用途包括：
 
 MIPI联盟是一个开放的会员制组织。2003年7月，由[美国](../Page/美国.md "wikilink")[德州仪器](../Page/德州仪器.md "wikilink")（TI）、[意法半导体](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")（ST）、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[ARM和](https://zh.wikipedia.org/wiki/安谋国际科技 "wikilink")[芬兰](../Page/芬兰.md "wikilink")[诺基亚](../Page/诺基亚.md "wikilink")（Nokia）4家公司共同成立。MIPI联盟旨在推进手机应用处理器接口的[标准化](../Page/标准化.md "wikilink")。
 
-MIPI联盟鼓励所有[手机行业内的公司加入](https://zh.wikipedia.org/wiki/手机 "wikilink")，包括：[手机设备制造商](https://zh.wikipedia.org/wiki/手机设备 "wikilink")、[半导体厂商](../Page/半导体.md "wikilink")、[软件厂商](../Page/软件.md "wikilink")、[系统供应商](https://zh.wikipedia.org/wiki/系统 "wikilink")、[外围设备制造商](https://zh.wikipedia.org/wiki/外围设备 "wikilink")、[知识产权提供商](../Page/知识产权.md "wikilink")、其他公司。
+MIPI联盟鼓励所有[手机行业内的公司加入](https://zh.wikipedia.org/wiki/手机 "wikilink")，包括：[手机设备制造商](https://zh.wikipedia.org/wiki/手机设备 "wikilink")、[半导体](../Page/半导体.md "wikilink")厂商、[软件](../Page/软件.md "wikilink")厂商、[系统供应商](https://zh.wikipedia.org/wiki/系统 "wikilink")、[外围设备制造商](https://zh.wikipedia.org/wiki/外围设备 "wikilink")、[知识产权](../Page/知识产权.md "wikilink")提供商、其他公司。
 
 MIPI联盟下设工作组，负责具体事务\[1\]。
 

@@ -1,5 +1,5 @@
 [WiFi_Logo.svg](https://zh.wikipedia.org/wiki/File:WiFi_Logo.svg "fig:WiFi_Logo.svg")商標\]\]
-**Wi-Fi聯盟**（，縮寫），是一個商業聯盟，擁有[Wi-Fi的](../Page/Wi-Fi.md "wikilink")[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")。它負責Wi-Fi認證，与商標授權的工作，也负责制定Wi-Fi的标准，總部位於美國[德克薩斯州首府](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")（Austin）。
+**Wi-Fi聯盟**（，縮寫），是一個商業聯盟，擁有[Wi-Fi](../Page/Wi-Fi.md "wikilink")的[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")。它負責Wi-Fi認證，与商標授權的工作，也负责制定Wi-Fi的标准，總部位於美國[德克薩斯州首府](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")（Austin）。
 
 ## 歷史
 

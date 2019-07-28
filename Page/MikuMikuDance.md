@@ -1,26 +1,25 @@
-**M**iku**M**iku**D**ance，簡稱為**MMD**，又稱**未來未來舞**、**萌萌躂**，是[日本人](../Page/日本人.md "wikilink")所開發的一款免費的[3D動畫製作軟體](https://zh.wikipedia.org/wiki/3D動畫 "wikilink")，透過其他3D建模軟體將[VOCALOID的](../Page/VOCALOID.md "wikilink")[初音未來等角色製作成](../Page/初音未來.md "wikilink")3D模組，導入MikuMikuDance進行動畫製作。
+**M**iku**M**iku**D**ance，簡稱為**MMD**，又稱**未來未來舞**、**萌萌躂**，是[日本人](../Page/日本人.md "wikilink")所開發的一款免費的[3D動畫製作軟體](https://zh.wikipedia.org/wiki/3D動畫 "wikilink")，通过其他3D建模軟體將[VOCALOID](../Page/VOCALOID.md "wikilink")的[初音未來](../Page/初音未來.md "wikilink")等角色製作成3D模組后導入MikuMikuDance進行動畫製作。
 
 ## 概要
 
-MikuMikuDance在2008年2月24日公開，至3月10日已超過11萬人下載\[1\]。同年10月29日為止
-[NICONICO動畫上含有](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「MikuMikuDance」標籤的投稿動畫更有2300件以上。
+MikuMikuDance在2008年2月24日公開，至3月10日已超過11萬人下載\[1\]。同年10月29日為止[NICONICO動畫上含有](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「MikuMikuDance」標籤的投稿動畫更有2300件以上。
 
-此軟體由「[Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")
-2005 Express Edition」、「[DirectX](../Page/DirectX.md "wikilink") 7
-SDK」開發，所需[硬碟容量相當少](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，[解壓縮後也只有數MB程度](https://zh.wikipedia.org/wiki/解壓縮 "wikilink")。初音未來的3D模型，基於為「」所製作的資料，並經過一些輕量化步驟減少容量。
+此軟體由[Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")
+2005 Express Edition、[DirectX](../Page/DirectX.md "wikilink") 7
+SDK開發，所需[硬碟容量相當少](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，[解壓縮後也只有數MB程度](https://zh.wikipedia.org/wiki/解壓縮 "wikilink")。初音未來的3D模型基於為「」所製作的資料，並經過一些輕量化步驟減少容量。
 
 由所製作、能夠讓[鏡音鈴跳舞的非官方測試版](https://zh.wikipedia.org/wiki/鏡音鈴 "wikilink")「RinRinDance」，在初音未來發售一週年的2008年8月30日整合至MikuMikuDance
 3.01版（另一個角色是「」），從此可以同時編輯顯示複數的角色。2008年9月11日的3.10版加入[鏡音連](https://zh.wikipedia.org/wiki/鏡音連 "wikilink")、10月30日3.20版加入「」、11月23日3.21a版加入「」，2009年1月5日3.40版加入[KAITO](https://zh.wikipedia.org/wiki/KAITO "wikilink")、3月5日4.00版加入初音未來Ver.2，2010年1月20日6.19版加入鏡音鈴Act2、8月23日7.07版加入[MEIKO](https://zh.wikipedia.org/wiki/MEIKO "wikilink")，現在總共可以使用11個角色。2009年5月25日4.03版加入英語顯示，2010年11月16日7.17版開始可以在日文版以外的[Windows執行](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
-自從2009年7月2日發表的5.00版加入物理運算機能後，從前需要由人手調整的角色頭髮或裙擺等等現在都可以交由程式運算。
+2009年7月2日發表的5.00版加入物理運算機能後，從前需要由人手調整的角色頭髮或裙擺等等現在都可以交由程式運算。
 
 2010年9月18日，舞力介入Ｐ於NICONICO動畫發表MikuMikuDance的擴充工具MikuMikuEffect\[2\]，可以做到原始MikuMikuDance無法呈現的特效，例如招風、喚雨、下雪、火炎、材質變換、特殊光線、特殊背景等等。
 
-目前最新版MikuMikuDance能與Open[Kinect進行連結](../Page/Kinect.md "wikilink")，並利用Kinect捕捉製作者動態，直接調整MikuMikuDance的人物模組動作。
+目前最新版MikuMikuDance能與Open[Kinect](../Page/Kinect.md "wikilink")進行連結，並利用Kinect捕捉製作者動態，直接調整MikuMikuDance的人物模組動作。
 
 樋口優於2011年5月27日宣布退出MikuMikuDance的發展\[3\]\[4\]\[5\]，因此7.39曾經被視為是MikuMikuDance最終版本。
 
-但在2011年10月25日，樋口優再次對MikuMikuDance進行修正性更新，也是目前32位元版本中的最終穩定版本，版本號為7.39.或稱作7.39dot。
+但在2011年10月25日，樋口優再次對MikuMikuDance進行修正性更新，也是目前32位元版本中的最終穩定版本，版本號為7.39.或稱7.39dot。
 
 2012年8月15日，距離樋口優宣布退出後，第三度對MikuMikuDance做出更新，釋出64位元版本，版本號為7.39.x64\[6\]。更新中包括支援[多執行緒運算](https://zh.wikipedia.org/wiki/多執行緒 "wikilink")、使用
 [Radeon](../Page/Radeon.md "wikilink") 系列顯示卡時 AVI
@@ -44,7 +43,7 @@ SDK」開發，所需[硬碟容量相當少](https://zh.wikipedia.org/wiki/硬�
 
 1.  將「控制台\>時鐘、語言和區域\>地區及語言\>系統管理\>非Unicode程式的語言」更改為日文（日本），但此解決方法只適用於[Windows
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
-2.  使用非官方編譯的[漢化版](../Page/漢化.md "wikilink")。
+2.  使用非官方編譯的[漢化](../Page/漢化.md "wikilink")版。
 
 ## 角色模組
 
@@ -71,7 +70,7 @@ MikuMikuDance發佈以來不斷有新發想、模組所製作的作品公開。�
 | [](http://www.nicovideo.jp/watch/sm3540549)                               | 2008年6月3日   | 10月29日超過66萬次觀看    | 日本綜藝節目《》的重現影片。                                                                                                                                                                                                                           |
 | [](http://www.nicovideo.jp/watch/sm4220022)                               | 2008年8月8日   | 10月29日超過38萬次觀看    | 歌曲為電視動畫《[偶像宣言](https://zh.wikipedia.org/wiki/偶像宣言 "wikilink")》第2首片頭曲，由演唱的「」。影片忠實重現了歌曲MV中的舞蹈。                                                                                                                                             |
 | [](http://www.nicovideo.jp/watch/sm4242615)                               | 2008年8月10日  | 第1屆MMD杯優勝作品\[13\] | 歌曲為電視動畫《[超時空要塞 Frontier](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")》的插入曲「[星間飛行](../Page/星間飛行.md "wikilink")」。                                                                                                              |
-| [MikuMikuDanceでVirtual Insanity](http://www.nicovideo.jp/watch/sm4975807) | 2008年10月18日 | 10月29日超過20萬次觀看    | [傑米羅奎爾的歌曲](../Page/傑米羅奎爾.md "wikilink")，原曲MV贏得MTV錄影帶大獎多個獎項殊榮。該影片相當完整地重現MV內容。                                                                                                                                                             |
+| [MikuMikuDanceでVirtual Insanity](http://www.nicovideo.jp/watch/sm4975807) | 2008年10月18日 | 10月29日超過20萬次觀看    | [傑米羅奎爾](../Page/傑米羅奎爾.md "wikilink")的歌曲，原曲MV贏得MTV錄影帶大獎多個獎項殊榮。該影片相當完整地重現MV內容。                                                                                                                                                             |
 | [](http://www.nicovideo.jp/watch/sm6150411)                               | 2009年2月14日  | 第2屆MMD杯優勝作品       | 背景歌曲是《[男女蹺蹺板](../Page/男女蹺蹺板.md "wikilink")》的「」。                                                                                                                                                                                          |
 | [Chaining Intention【PV】](http://www.nicovideo.jp/watch/sm9692478)         | 2010年2月13日  | 第4屆MMD杯優勝作品       | 初音未來原創歌曲PV。使用Lat所製作的初音未來3D模組。                                                                                                                                                                                                            |
 | \[<http://www.nicovideo.jp/watch/sm11820316> Bad AApple                   | \]          | 2010年8月20日        | 第5屆MMD杯優勝作品                                                                                                                                                                                                                              |
@@ -88,21 +87,22 @@ MikuMikuDance發佈以來不斷有新發想、模組所製作的作品公開。�
 
 ## 相關軟體
 
-**MikuMikuVoice**
+  - **MikuMikuVoice**
 
-除了MikuMikuDance以外，還開發了能夠將自己演唱的歌曲讓初音未來等角色歌唱的「MikuMikuVoice」\[14\]。即使是不懂樂譜的人，只要會唱歌，就能夠保留原曲的氣氛將歌曲變成由初音未來等角色演唱。
+> 除了MikuMikuDance以外，還開發了能夠將自己演唱的歌曲讓初音未來等角色歌唱的「MikuMikuVoice」\[14\]。即使是不懂樂譜的人，只要會唱歌，就能夠保留原曲的氣氛將歌曲變成由初音未來等角色演唱。
 
-**PMXEditor/PMDEditor**\[15\]
+  - **PMXEditor/PMDEditor**\[15\]
 
-簡稱為**PE**，全名PMDEditor，或是PMXEditor，前者為舊版，後者為新版，製作者為日本人「極北P」。
+> 簡稱為**PE**，全名PMDEditor，或是PMXEditor，前者為舊版，後者為新版，製作者為日本人「極北P」。
+>
+> 是一個MikuMikuDance專用的簡易建模和修模軟體，相較於專業級建模軟體，PE操作與功能較為簡易，但它保留必備的功能來專門編輯MikuMikuDance使用的模型，並且作者極北P也協助制訂了PMX2.1標準，使的PE成為使用MikuMikuDance時的必備軟體之一。但對於初次接觸的使用者而言，操作介面仍舊稍微複雜。
+>
+> PE適合做換頭、增減衣著首飾之類。同時也可以匯出X格式模型，用它來綁骨和加剛體。舊版本是PMD和PMX都支援，新版是專門支援PMX，但仍可以使用「匯出」功能保存為PMD或X。
+>
+> 其他的3D建模軟體（例如：Metasequoia水杉）若想做MMD專用模型需要安裝相應的外掛插件。
 
-是一個MikuMikuDance專用的簡易建模和修模軟體，相較於專業級建模軟體，PE操作與功能較為簡易，但它保留必備的功能來專門編輯MikuMikuDance使用的模型，並且作者極北P也協助制訂了PMX2.1標準，使的PE成為使用MikuMikuDance時的必備軟體之一。但對於初次接觸的使用者而言，操作介面仍舊稍微複雜。
-
-PE適合做換頭、增減衣著首飾之類。同時也可以匯出X格式模型，用它來綁骨和加剛體。舊版本是PMD和PMX都支援，新版是專門支援PMX，但仍可以使用「匯出」功能保存為PMD或X。
-
-其他的3D建模軟體（例如：Metasequoia水杉）若想做MMD專用模型需要安裝相應的外掛插件。
-
-**mikumikumoving（简称MMM）** 是一款由Mogg开发的与MikuMikuDance相兼容,可以进行3DCG动画制作的软件。
+  - **mikumikumoving（简称MMM）**
+    是一款由Mogg开发的与MikuMikuDance相兼容,可以进行3DCG动画制作的软件。
 
 ## 參考資料
 
@@ -119,7 +119,7 @@ PE適合做換頭、增減衣著首飾之類。同時也可以匯出X格式模�
   - [Lat式ミクとは (ラトシキミクとは)
     ニコニコ大百科](http://dic.nicovideo.jp/a/lat%E5%BC%8F%E3%83%9F%E3%82%AF)
 
-  - [NICO上查詢模型下載的MMDモデル配布あり檢索結果。NICO用戶請登錄後再進入本檢索結果查看](http://www.nicovideo.jp/tag/MMD%E3%83%A2%E3%83%87%E3%83%AB%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A)
+  - [NICO上查詢模型下載的MMDモデル配布あり檢索結果。請登錄NICO用戶後再進入本檢索結果查看](http://www.nicovideo.jp/tag/MMD%E3%83%A2%E3%83%87%E3%83%AB%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A)
 
 [Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")
 [Category:動畫軟件](https://zh.wikipedia.org/wiki/Category:動畫軟件 "wikilink")

@@ -1,13 +1,13 @@
 **init**（为的简写）是 [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 和
 [类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")
-系统中用来产生其它所有进程的程序。它以[守护进程的方式存在](../Page/守护进程.md "wikilink")，其进程号为1。Linux系統在開機時載入[Linux內核後](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，便由Linux內核載入init程式，由init程式完成餘下的開機過程，比如載入[執行級別](https://zh.wikipedia.org/wiki/執行級別 "wikilink")，載入服務，啟動Shell/圖形化界面等等。
+系统中用来产生其它所有进程的程序。它以[守护进程](../Page/守护进程.md "wikilink")的方式存在，其进程号为1。Linux系統在開機時載入[Linux內核後](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，便由Linux內核載入init程式，由init程式完成餘下的開機過程，比如載入[執行級別](https://zh.wikipedia.org/wiki/執行級別 "wikilink")，載入服務，啟動Shell/圖形化界面等等。
 
 Unix 系列中(如 [System
 III](https://zh.wikipedia.org/wiki/UNIX_System_III "wikilink") 和 [System
 V](../Page/UNIX_System_V.md "wikilink"))**init**的作用，和研究中的
 [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 和
 [BSD](https://zh.wikipedia.org/wiki/Berkeley_Software_Distribution "wikilink")
-衍生版本相比，发生了一些变化。大多数[Linux发行版是和](../Page/Linux发行版.md "wikilink") System V
+衍生版本相比，发生了一些变化。大多数[Linux发行版](../Page/Linux发行版.md "wikilink")是和 System V
 相兼容的，但是一些发行版如[Slackware](../Page/Slackware.md "wikilink")
 采用的是BSD风格，其它的如
 [Gentoo](../Page/Gentoo_Linux.md "wikilink")
@@ -84,7 +84,7 @@ targetname.target`命令。
 | [Ubuntu](../Page/Ubuntu.md "wikilink")                                                        | 2 \[8\] |
 
 上面的表中有两种Linux发行版默认的运行模式为 5，模式 5 是多用户图形环境([X Window
-System](https://zh.wikipedia.org/wiki/X_Window_System "wikilink"))，通常还包括[X显示管理器](../Page/X显示管理器.md "wikilink")。然而在[Solaris操作系统中](../Page/Solaris.md "wikilink")，模式
+System](https://zh.wikipedia.org/wiki/X_Window_System "wikilink"))，通常还包括[X显示管理器](../Page/X显示管理器.md "wikilink")。然而在[Solaris](../Page/Solaris.md "wikilink")操作系统中，模式
 5 被保留用来执行关机和自动切断电源。
 
 大多数操作系统的用户可以用下面的命令来判断当前的运行模式是什么：
@@ -135,7 +135,7 @@ FreeBSD中利用 `init_path` 命令装载变量)。
   - [Initng](https://zh.wikipedia.org/wiki/Initng "wikilink")：完全代替 init
     ，可以异步开启进程
   - [Upstart](../Page/Upstart.md "wikilink")：完全代替 init ，可以异步开启进程
-    曾由[Ubuntu等使用](../Page/Ubuntu.md "wikilink")
+    曾由[Ubuntu](../Page/Ubuntu.md "wikilink")等使用
   - [Service Management
     Facility](https://zh.wikipedia.org/wiki/Service_Management_Facility "wikilink")：完全代替/重新设计
     [Solaris](https://zh.wikipedia.org/wiki/Solaris_\(操作系统\) "wikilink")

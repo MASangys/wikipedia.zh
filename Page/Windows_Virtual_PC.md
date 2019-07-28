@@ -1,6 +1,6 @@
 **Windows Virtual
 PC**是[Microsoft於](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows
-7發表後發表的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[虛擬機器軟體](../Page/虛擬機器.md "wikilink")，是[Microsoft
+7發表後發表的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[虛擬機器](../Page/虛擬機器.md "wikilink")軟體，是[Microsoft
 Virtual PC的後續軟體](../Page/Microsoft_Virtual_PC.md "wikilink")。Windows
 Virtual PC主要是搭配安裝[Windows XP
 Mode使用](https://zh.wikipedia.org/wiki/Windows_XP_Mode "wikilink")（在Windows
@@ -10,7 +10,7 @@ Mode使用](https://zh.wikipedia.org/wiki/Windows_XP_Mode "wikilink")（在Windo
 
 Windows Virtual PC結合了Windows
 7的[使用者介面與Windows](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")
-XP Mode設定，並支援許多[USB設備](../Page/USB.md "wikilink")，同時允許用戶直接從Windows XP
+XP Mode設定，並支援許多[USB](../Page/USB.md "wikilink")設備，同時允許用戶直接從Windows XP
 Mode執行許多[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
 
 ## 功能
@@ -25,7 +25,7 @@ Virtual PC 2007 與 Windows Virtual PC 功能比較：
 | 支援多線程                                                                                                                                                                          | 不支援             | 支援                 |
 | 剪貼簿共享                                                                                                                                                                          | 不支援             | 支援                 |
 | [印表機定向](https://zh.wikipedia.org/wiki/印表機 "wikilink")                                                                                                                          | 不支援             | 支援                 |
-| [智慧卡定向](../Page/智慧卡.md "wikilink")                                                                                                                                             | 不支援             | 支援                 |
+| [智慧卡](../Page/智慧卡.md "wikilink")定向                                                                                                                                             | 不支援             | 支援                 |
 | [驅動程式共享](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")                                                                                                                        | 不支援             | 支援                 |
 | 整合[Windows Explorer管理](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink")                                                                                              | 不支援             | 支援                 |
 | Host與Guest之間的資料夾一體化                                                                                                                                                            | 不支援             | 支援                 |

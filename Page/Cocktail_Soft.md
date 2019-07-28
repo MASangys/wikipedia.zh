@@ -2,9 +2,9 @@
 
 ## 概要
 
-初設立時為與[JAST共同設立的品牌](../Page/JAST.md "wikilink")（「Cocktail」的名稱共同的由來），FANDC（F\&C）的前身IDES（後來股份公司化）設立時使用的品牌（IDES的前身為有限公司）。
+初設立時為與[JAST](../Page/JAST.md "wikilink")共同設立的品牌（「Cocktail」的名稱共同的由來），FANDC（F\&C）的前身IDES（後來股份公司化）設立時使用的品牌（IDES的前身為有限公司）。
 
-1989年發表了首部遊戲。之後，與重視角色特性的POP系品牌[FAIRYTALE差別化](../Page/FAIRYTALE.md "wikilink")，組成F\&C的2部分之一。
+1989年發表了首部遊戲。之後，與重視角色特性的POP系品牌[FAIRYTALE](../Page/FAIRYTALE.md "wikilink")差別化，組成F\&C的2部分之一。
 
 2001年隨著F\&C重組，同年5月25日的及2002年5月31日的發售後，活動停止。之後2004年再次開始活動，同年11月26日發表恢復後第一作，直到現在。
 

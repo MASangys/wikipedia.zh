@@ -10,7 +10,7 @@ order）的序列是该字符的*标准分解*。例如，ộ，有两种分解�
 LATIN SMALL LETTER O） （U+0302 COMBINING CIRCUMFLEX ACCENT） （U+0323
 COMBINING DOT BELOW）或者 （U+006F LATIN SMALL LETTER O） （U+0323 COMBINING
 DOT BELOW）（U+0302 COMBINING CIRCUMFLEX
-ACCENT），两个[附加符号出现在分解序列中的位置是可交换的](../Page/附加符号.md "wikilink")。
+ACCENT），两个[附加符号](../Page/附加符号.md "wikilink")出现在分解序列中的位置是可交换的。
 
 Unicode的另一个概念**相容性分解**（compatibility
 decomposition），是把一个相容字符映射为一個或多個的其他的非相容字符。但相容字符与相容性分解可能会有语义（如排版格式上）的损失。例如上角标数字字符⁴与普通的数字字符4。
@@ -65,7 +65,7 @@ Unicode字符的属性、Unicode算法为文本处理软件实现提供了所需
 为了处理相容字符，文本软件必须遵从几个Unicode协议。软件必须能够：
 
   - 从字母字符与一个或多个单独的*[附加符号](../Page/附加符号.md "wikilink")*组合出[变音字母字符](https://zh.wikipedia.org/wiki/变音字母 "wikilink")；
-  - 根据用户的判断，替换出[合字或上下文相关的字形变种](../Page/合字.md "wikilink")；
+  - 根据用户的判断，替换出[合字](../Page/合字.md "wikilink")或上下文相关的字形变种；
   - 根据用户的判断，CJVK文本垂直布局时，把字形替换为小的、垂直的、窄的、宽方块等字形变种；
   - 使用*分数斜线*字符 (⁄ U+2044)与其它任意字符来组合出分数的字形。
   - 能把[组合字符](https://zh.wikipedia.org/wiki/组合字符 "wikilink")（Combining
@@ -84,7 +84,7 @@ Unicode的5,402个相容字符中，上述这些不应该使用在文本中的�
 
   - [数学字母数字符号](../Page/数学字母数字符号.md "wikilink")：拉丁字母、希腊字母、阿拉伯数字的字符，有14种不同的字体，用于数学文本。
   - 被封闭的字母、数字、象形文字。如：⑪ ⑫ ⒄ ⒅ ⒌ ⒍ ⒲ ⒳ Ⓐ Ⓑ
-  - 不同宽度的空格与不换行空格。这些字符是核心的空格符(U+0020)与[不换行空格符](../Page/不换行空格.md "wikilink")(U+00A0)的变种。
+  - 不同宽度的空格与不换行空格。这些字符是核心的空格符(U+0020)与[不换行空格](../Page/不换行空格.md "wikilink")符(U+00A0)的变种。
     如*不换行窄空格*（Narrow No-Break Space,
     U+202F）、*[词连接](https://zh.wikipedia.org/wiki/词连接 "wikilink")*（Word
     joiner, U+2060）。

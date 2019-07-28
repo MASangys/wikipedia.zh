@@ -13,7 +13,7 @@ Junior-M專輯。
 
 9月8日，SM Entertainment宣布官方发行日期是2009年9月下旬，在中国大陆的不同地区。\[3\]
 9月11日，预告图更新至官网。\[4\] 《Super
-Girl》是该组合首个增加单曲，9月11日，相应的MV预告片在[YouTube上出现](../Page/YouTube.md "wikilink")。
+Girl》是该组合首个增加单曲，9月11日，相应的MV预告片在[YouTube](../Page/YouTube.md "wikilink")上出现。
 \[5\]完整的MV于9月14日通过Super
 Junior-M的官方网站、中国大陆的搜狐门户、泰国的[GMM官网](https://zh.wikipedia.org/wiki/GMM "wikilink")、以及YouTube发布。\[6\]\[7\]
 

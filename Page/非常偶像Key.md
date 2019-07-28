@@ -2,8 +2,8 @@
 
 ## 提要
 
-《非常偶像Key》是[波麗佳音OVA製作](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")10周年紀念OVA，僅發行[VHS版](../Page/VHS.md "wikilink")，[VCD版由](../Page/VCD.md "wikilink")[木棉花國際代理發行](../Page/木棉花國際.md "wikilink")，一卷VHS收錄一話，每話總長度為25分鐘。原本預計只製作13卷，最後2卷是追加製作的。第1卷售價為1000[日圓](../Page/日圓.md "wikilink")，這是破壞當時市場行情的超低價。[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[英語版由](https://zh.wikipedia.org/wiki/英語 "wikilink")[VIZ
-Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播權由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[AXN取得](../Page/AXN.md "wikilink")，以[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[配音播映](../Page/配音.md "wikilink")，首播期間為1998年1月1日至1998年2月4日。2004年12月15日重新發行DVD-BOX。
+《非常偶像Key》是[波麗佳音OVA製作](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")10周年紀念OVA，僅發行[VHS](../Page/VHS.md "wikilink")版，[VCD](../Page/VCD.md "wikilink")版由[木棉花國際](../Page/木棉花國際.md "wikilink")代理發行，一卷VHS收錄一話，每話總長度為25分鐘。原本預計只製作13卷，最後2卷是追加製作的。第1卷售價為1000[日圓](../Page/日圓.md "wikilink")，這是破壞當時市場行情的超低價。[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[英語版由](https://zh.wikipedia.org/wiki/英語 "wikilink")[VIZ
+Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播權由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[AXN](../Page/AXN.md "wikilink")取得，以[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[配音](../Page/配音.md "wikilink")播映，首播期間為1998年1月1日至1998年2月4日。2004年12月15日重新發行DVD-BOX。
 
 ## 故事簡介
 

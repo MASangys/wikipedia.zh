@@ -1,4 +1,4 @@
-**Kontact**是[KDE的](../Page/KDE.md "wikilink")-{zh-tw:整合個人資訊管理套件;zh-cn:整合个人信息管理套件}-。提供日曆、通訊簿、筆記、待辦事項、新聞和電子郵件的功能。使用[KPart來嵌入各種](https://zh.wikipedia.org/wiki/KPart "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")（**[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink")、[KAddressBook](https://zh.wikipedia.org/wiki/#Address_Book "wikilink")、[Akregator](../Page/Akregator.md "wikilink")**等）放入到容器應用程式。
+**Kontact**是[KDE](../Page/KDE.md "wikilink")的-{zh-tw:整合個人資訊管理套件;zh-cn:整合个人信息管理套件}-。提供日曆、通訊簿、筆記、待辦事項、新聞和電子郵件的功能。使用[KPart來嵌入各種](https://zh.wikipedia.org/wiki/KPart "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")（**[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink")、[KAddressBook](https://zh.wikipedia.org/wiki/#Address_Book "wikilink")、[Akregator](../Page/Akregator.md "wikilink")**等）放入到容器應用程式。
 
 ## “Kontact” 和 “KDE PIM”之間的差異
 
@@ -15,7 +15,7 @@ Kontact嵌入程式如下：
 
 **KMail**的設計目標是希望成為一個企業級電子信件用戶端。
 
-支持文件夾、郵件過濾、瀏覽[HTML電子郵件和國際字符集](../Page/HTML.md "wikilink")。
+支持文件夾、郵件過濾、瀏覽[HTML](../Page/HTML.md "wikilink")電子郵件和國際字符集。
 
 #### 垃圾郵件和過濾
 
@@ -55,7 +55,7 @@ KMail也支持[S/MIME郵件以及Chiasmus](https://zh.wikipedia.org/wiki/S/MIME 
 
 ### 行事曆
 
-**KOrganizer** 是[KDE桌面環境的個人事務安排助理](../Page/KDE.md "wikilink")
+**KOrganizer** 是[KDE](../Page/KDE.md "wikilink")桌面環境的個人事務安排助理
 。提供管理行事曆、日記和一個待辦事項清單。
 
 ### Usenet 新聞閱讀器

@@ -1,5 +1,5 @@
 **IMR**（In-Mold Decoration by
-Roller）中文名为[模内轉印是一种可大规模制造的](https://zh.wikipedia.org/wiki/模内轉印 "wikilink")[塑料件外部装饰的](../Page/塑料.md "wikilink")[加工技术](https://zh.wikipedia.org/wiki/加工 "wikilink")．属于IMD（In-Mold
+Roller）中文名为[模内轉印是一种可大规模制造的](https://zh.wikipedia.org/wiki/模内轉印 "wikilink")[塑料](../Page/塑料.md "wikilink")件外部装饰的[加工技术](https://zh.wikipedia.org/wiki/加工 "wikilink")．属于IMD（In-Mold
 Decoration）模内装饰技术的一种．它的优点是生产出来的塑料件外观漂亮，可以有多种颜色，多种花纹，甚至多樣化的觸感，较喷漆工艺的外壳耐磨，亮度更高，适应大规模生产，生产效率、良率高，模印精度高，可转印较复杂的图案，最重要的是无污染，可以取代傳統造成環境與工作環境汙染的噴塗與電鍍。特别适用于产品的外表面装饰面板与功能面板。
 
 过程是将已印好图案的膜片放入金属模具内，通过送膜机器(Feeder)自动输送定位，然后将成形用的塑料注入模具内与膜片接合，使印刷在膜片上的图案跟树脂形成一体而固化成产品。[IMR薄膜製作動畫](https://web.archive.org/web/20120114050541/http://www.etansi.com/tc/decovideo.aspx)

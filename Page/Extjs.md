@@ -10,7 +10,7 @@
 2009年7日6日推出Ext JS 3.0版.Ext JS 3.1版中增加可分组的列标题。
 
 2010年6月，Ext
-JS更名为**Sencha**（Sencha是日本的[煎茶](https://zh.wikipedia.org/wiki/煎茶 "wikilink")），並且整合[jQTouch和](https://zh.wikipedia.org/wiki/jQTouch "wikilink")[Raphal库](https://zh.wikipedia.org/wiki/Raphal "wikilink")，這是世界上第一个基于[HTML5的移动应用框架](../Page/HTML5.md "wikilink")，全面相容Android和Apple
+JS更名为**Sencha**（Sencha是日本的[煎茶](https://zh.wikipedia.org/wiki/煎茶 "wikilink")），並且整合[jQTouch和](https://zh.wikipedia.org/wiki/jQTouch "wikilink")[Raphal库](https://zh.wikipedia.org/wiki/Raphal "wikilink")，這是世界上第一个基于[HTML5](../Page/HTML5.md "wikilink")的移动应用框架，全面相容Android和Apple
 iOS。
 
 2011年4月26日，推出Ext framework

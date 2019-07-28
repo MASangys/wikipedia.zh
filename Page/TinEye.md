@@ -1,4 +1,4 @@
-**TinEye**（錫眼睛\[1\]）是Idée公司所開發的圖像搜尋網站。2008年5月6日開站，提供使用者依據[URL或上傳的圖檔](../Page/统一资源定位符.md "wikilink")，搜尋網路上近似的圖像與位置。TinEye將搜尋目標與庫存圖像檔作比較，然後找出近似者並列出圖片網址。目前支援的圖像格式包括：[JPEG](../Page/JPEG.md "wikilink")、[PNG及](../Page/PNG.md "wikilink")[GIF格式](../Page/GIF.md "wikilink")。Idée公司於1999年在[加拿大](../Page/加拿大.md "wikilink")[多倫多設立](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，專門發展圖像辨識軟體如PixID，與圖像搜尋引擎TinEye。截至2012年7月18日為止，該公司聲稱其資料庫收錄圖像已達20億張\[2\]。
+**TinEye**（錫眼睛\[1\]）是Idée公司所開發的圖像搜尋網站。2008年5月6日開站，提供使用者依據[URL或上傳的圖檔](../Page/统一资源定位符.md "wikilink")，搜尋網路上近似的圖像與位置。TinEye將搜尋目標與庫存圖像檔作比較，然後找出近似者並列出圖片網址。目前支援的圖像格式包括：[JPEG](../Page/JPEG.md "wikilink")、[PNG](../Page/PNG.md "wikilink")及[GIF](../Page/GIF.md "wikilink")格式。Idée公司於1999年在[加拿大](../Page/加拿大.md "wikilink")[多倫多設立](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，專門發展圖像辨識軟體如PixID，與圖像搜尋引擎TinEye。截至2012年7月18日為止，該公司聲稱其資料庫收錄圖像已達20億張\[2\]。
 
 ## 支援方式
 
@@ -29,7 +29,7 @@ on the
 Idée公司研發的[PixID軟體](https://zh.wikipedia.org/wiki/PixID "wikilink")，可分辨影像或靜態圖像是否在網際網路中出現。Piximilar將類似影像或靜態圖像檔分類，並建立索引檔管理圖像檔案。TinEye
 Mobile利用iPhone攝影機捕捉商品影像，送到Idée公司搜尋相關商品網站及價格。
 
-Google在2010年6月已經在[Google图片搜索加入圖像搜索功能](../Page/Google图片搜索.md "wikilink")\[4\]。TinEye面臨強大競爭。
+Google在2010年6月已經在[Google图片搜索](../Page/Google图片搜索.md "wikilink")加入圖像搜索功能\[4\]。TinEye面臨強大競爭。
 
 ## 参见
 

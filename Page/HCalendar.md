@@ -1,5 +1,5 @@
 **hCalendar**（**HTML
-iCalendar**的縮寫）是一種[微格式標準](../Page/微格式.md "wikilink")，它采用[iCalendar格式](https://zh.wikipedia.org/wiki/iCalendar "wikilink")，以語義[(X)HTML的形式](../Page/HTML.md "wikilink")，在網頁上表示一個事件的[日曆信息](https://zh.wikipedia.org/wiki/日曆 "wikilink")。
+iCalendar**的縮寫）是一種[微格式](../Page/微格式.md "wikilink")標準，它采用[iCalendar格式](https://zh.wikipedia.org/wiki/iCalendar "wikilink")，以語義[(X)HTML的形式](../Page/HTML.md "wikilink")，在網頁上表示一個事件的[日曆信息](https://zh.wikipedia.org/wiki/日曆 "wikilink")。
 
 ## 例子
 
@@ -10,7 +10,7 @@ iCalendar**的縮寫）是一種[微格式標準](../Page/微格式.md "wikilink
     　在香港舉行。
     （更多信息）
 
-使用[HTML標記語言](../Page/HTML.md "wikilink")，形式如下：
+使用[HTML](../Page/HTML.md "wikilink")標記語言，形式如下：
 
     <nowiki>
     <p>

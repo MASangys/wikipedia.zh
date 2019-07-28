@@ -1,9 +1,9 @@
 [Maven_repository_artifact_growth.png](https://zh.wikipedia.org/wiki/File:Maven_repository_artifact_growth.png "fig:Maven_repository_artifact_growth.png")
 
 **Apache
-Maven**，是一个[软件](../Page/软件.md "wikilink")（特别是[Java软件](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")）[项目管理及](../Page/项目管理.md "wikilink")[自动构建工具](https://zh.wikipedia.org/wiki/自动构建 "wikilink")，由[Apache软件基金会所提供](../Page/Apache软件基金会.md "wikilink")。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。
+Maven**，是一个[软件](../Page/软件.md "wikilink")（特别是[Java软件](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")）[项目管理](../Page/项目管理.md "wikilink")及[自动构建工具](https://zh.wikipedia.org/wiki/自动构建 "wikilink")，由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")所提供。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。
 
-Maven也可被用于构建和管理各种项目，例如[C\#](../Page/C♯.md "wikilink")，[Ruby](../Page/Ruby.md "wikilink")，[Scala和其他语言编写的项目](../Page/Scala.md "wikilink")。Maven曾是[Jakarta项目的子项目](../Page/Jakarta项目.md "wikilink")，现为由[Apache软件基金会主持的独立Apache项目](../Page/Apache软件基金会.md "wikilink")。
+Maven也可被用于构建和管理各种项目，例如[C\#](../Page/C♯.md "wikilink")，[Ruby](../Page/Ruby.md "wikilink")，[Scala](../Page/Scala.md "wikilink")和其他语言编写的项目。Maven曾是[Jakarta项目](../Page/Jakarta项目.md "wikilink")的子项目，现为由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")主持的独立Apache项目。
 
 ## 示例
 

@@ -59,7 +59,7 @@ Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），曾駕駛過O
 GUNDAM的有里朋斯·阿爾馬克、雷瑟·艾翁（實戰配備型）。
 
-本機外觀與[機動戰士GUNDAM中的GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")[RX-78-2非常相似](../Page/RX-78系列机动战士.md "wikilink")。
+本機外觀與[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")中的GUNDAM[RX-78-2非常相似](../Page/RX-78系列机动战士.md "wikilink")。
 
 ## 介紹
 

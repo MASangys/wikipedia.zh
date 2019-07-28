@@ -15,7 +15,7 @@ i9六核心版本同Core i7 900系列一樣將採用[LGA
 KB，[L2快取為](https://zh.wikipedia.org/wiki/快取 "wikilink")6×256
 KB，[L3快取六個核心共享](https://zh.wikipedia.org/wiki/快取 "wikilink")12
 MB。與之搭配的仍為[Intel
-X58](https://zh.wikipedia.org/wiki/Intel_X58 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，即現存的X58[主機板將可以通過更新](https://zh.wikipedia.org/wiki/主機板 "wikilink")[BIOS來支援](../Page/BIOS.md "wikilink")。售價預計將定在999美元左右。隔年英特爾宣佈新架構的處理器確定命名為i7
+X58](https://zh.wikipedia.org/wiki/Intel_X58 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，即現存的X58[主機板將可以通過更新](https://zh.wikipedia.org/wiki/主機板 "wikilink")[BIOS](../Page/BIOS.md "wikilink")來支援。售價預計將定在999美元左右。隔年英特爾宣佈新架構的處理器確定命名為i7
 2000系列而非i9 2000系列。自此以后再没有发布关于Core i9的消息。
 
 ### 2017年
@@ -282,8 +282,8 @@ i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，�
     [SSE2](../Page/SSE2.md "wikilink"),
     [SSE3](../Page/SSE3.md "wikilink"),
     [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](../Page/SSE4.md "wikilink"),
-    [SSE4.2](../Page/SSE4.md "wikilink"),
+    [SSE4](../Page/SSE4.md "wikilink").1,
+    [SSE4](../Page/SSE4.md "wikilink").2,
     [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"),
     [AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink"),
     [FMA3](../Page/FMA指令集.md "wikilink"),

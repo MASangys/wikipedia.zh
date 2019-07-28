@@ -4,7 +4,7 @@ Windows作業系統且免費的](https://zh.wikipedia.org/wiki/Microsoft_Windows
 ## 法律問題
 
 DVD
-Shrink在[美國似乎因為使用該軟體可以成功破解防盜拷的光碟的問題而有](https://zh.wikipedia.org/wiki/美國 "wikilink")[著作權上的問題](../Page/著作權.md "wikilink")。在觸犯了美國的著作權法後，DVD
+Shrink在[美國似乎因為使用該軟體可以成功破解防盜拷的光碟的問題而有](https://zh.wikipedia.org/wiki/美國 "wikilink")[著作權](../Page/著作權.md "wikilink")上的問題。在觸犯了美國的著作權法後，DVD
 Shrink的官方網站於2005年8月17日標示出了「is no
 more\!」（已經沒有了！）的字樣，意味著不會在有新的版本發行，並停止所有當前的軟體開發程序。同時，網站上的下載點也被一個搜尋列所取代，也就是說現在已經沒有辦法從其官方網站上下載這個軟體。直到目前為止，其官方網站都依然存在，只是沒有了軟體的下載點而已。雖然如此，仍然可以在搜尋引擎中使用常用的關鍵字「DVD
 Shrink」來找到許多該軟體的非官方下載點。

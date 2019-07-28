@@ -4,7 +4,7 @@
 ## 生平
 
   - 豪厄爾在2005年升上大聯盟，15場出賽皆為[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")，只拿下3勝5敗、[防禦率](https://zh.wikipedia.org/wiki/防禦率 "wikilink")6.19的不佳成績。
-  - 2006年6月11日，豪厄爾被交易到[坦帕灣光芒隊](../Page/坦帕灣光芒.md "wikilink")。
+  - 2006年6月11日，豪厄爾被交易到[坦帕灣光芒](../Page/坦帕灣光芒.md "wikilink")隊。
   - 2009年，代表美國隊參加[2009年世界棒球經典賽](../Page/2009年世界棒球經典賽.md "wikilink")。該年由於球隊終結者[Troy
     Percival受傷](https://zh.wikipedia.org/wiki/Troy_Percival "wikilink")，豪厄爾成為球隊的終結者。
   - 2013年加入洛杉磯道奇隊 背號56

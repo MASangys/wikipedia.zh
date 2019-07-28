@@ -9,9 +9,9 @@ X。\[2\]2009年2月，开发组通过公开一项有奖励的关卡创作竞赛
 
 ## 游戏特性
 
-这个游戏本身也是对[Blender开发的一种促进](../Page/Blender.md "wikilink")，最终的[3D建模](https://zh.wikipedia.org/wiki/3D建模 "wikilink")，动画效果，关卡设计全依赖于**Blender**。这个游戏也可以用[Crystal
+这个游戏本身也是对[Blender](../Page/Blender.md "wikilink")开发的一种促进，最终的[3D建模](https://zh.wikipedia.org/wiki/3D建模 "wikilink")，动画效果，关卡设计全依赖于**Blender**。这个游戏也可以用[Crystal
 Space渲染](../Page/Crystal_Space.md "wikilink")，使用
-[Python作为脚本语言](../Page/Python.md "wikilink")\[4\]。
+[Python](../Page/Python.md "wikilink")作为脚本语言\[4\]。
 
 最终决定同时使用Blender和Crystal Space两个游戏引擎\[5\]尽管Crystal
 Space和Blender关系紧密，但Blender游戏引擎需要2-5秒输出的在Crystal

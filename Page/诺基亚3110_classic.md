@@ -1,5 +1,5 @@
 **诺基亚 3110
-classic**是[诺基亚公司生产的一款](../Page/诺基亚.md "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，优点是性价比较高，但使用较老版本的手机可能会出现白屏现象，只有将操作系统升级到较高版本方能解决问题。\[1\]
+classic**是[诺基亚](../Page/诺基亚.md "wikilink")公司生产的一款[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，优点是性价比较高，但使用较老版本的手机可能会出现白屏现象，只有将操作系统升级到较高版本方能解决问题。\[1\]
 
 ## 引用来源
 

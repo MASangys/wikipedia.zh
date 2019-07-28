@@ -1,4 +1,4 @@
-**Kerberos**（）是一种计算机网络授权协议，用来在非安全[网络中](https://zh.wikipedia.org/wiki/网络 "wikilink")，对个人通信以安全的手段进行身份认证。这个词又指[麻省理工学院为这个协议开发的一套计算机软件](../Page/麻省理工学院.md "wikilink")。软件设计上采用[客户端/服务器结构](https://zh.wikipedia.org/wiki/客户端/服务器结构 "wikilink")，并且能够进行相互认证，即客户端和服务器端均可对对方进行身份认证。可以用于防止窃听、防止[重放攻击](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")、保护数据完整性等场合，是一种应用对称密钥体制进行密钥管理的系统。Kerberos的扩展产品也使用[公开密钥加密方法进行认证](../Page/公开密钥加密.md "wikilink")。
+**Kerberos**（）是一种计算机网络授权协议，用来在非安全[网络中](https://zh.wikipedia.org/wiki/网络 "wikilink")，对个人通信以安全的手段进行身份认证。这个词又指[麻省理工学院](../Page/麻省理工学院.md "wikilink")为这个协议开发的一套计算机软件。软件设计上采用[客户端/服务器结构](https://zh.wikipedia.org/wiki/客户端/服务器结构 "wikilink")，并且能够进行相互认证，即客户端和服务器端均可对对方进行身份认证。可以用于防止窃听、防止[重放攻击](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")、保护数据完整性等场合，是一种应用对称密钥体制进行密钥管理的系统。Kerberos的扩展产品也使用[公开密钥加密](../Page/公开密钥加密.md "wikilink")方法进行认证。
 
 当有N个人使用该系统时，为确保在任意两个人之间进行秘密对话，系统至少保存有它与每个人的共享密钥，所需的最少会话密钥数为N个。
 
@@ -10,7 +10,7 @@ Kerberos协议基于对称密码学，并需要一个值得信赖的第三方。
 
 ## 历史
 
-[麻省理工学院研发Kerberos协议来保护](../Page/麻省理工学院.md "wikilink")[雅典娜工程](../Page/雅典娜工程.md "wikilink")（Project
+[麻省理工学院](../Page/麻省理工学院.md "wikilink")研发Kerberos协议来保护[雅典娜工程](../Page/雅典娜工程.md "wikilink")（Project
 Athena）提供的网络服务器。这个协议以希腊神话中的人物Kerberos（或者Cerberus）命名，他在希腊神话中是Hades的一条凶猛的三头保卫神犬。目前该协议存在一些版本，版本1-3都只有麻省理工内部发行。
 
 Kerberos版本4的主要设计者Steve Miller和Clifford
@@ -21,7 +21,7 @@ Kohl和Clifford Neuman设计，在1993年作为 RFC 1510 颁布（在2005年由 
 麻省理工在版权许可的情况下，制作一个Kerberos的免费实现工具，这种情况类似于BSD。在2007年，麻省理工组成一个Kerberos协会，以此推动Kerberos的持续发展。
 
 因为使用[数据加密标准](https://zh.wikipedia.org/wiki/数据加密标准 "wikilink")（DES）[加密算法](https://zh.wikipedia.org/wiki/加密算法 "wikilink")（用56
-bit的密钥），[美国出口管制当局把Kerberos归类为军需品](../Page/美国.md "wikilink")，并禁止其出口。一个非美国设计的Kerberos版本4的实现工具KTH-KRB由[瑞典](../Page/瑞典.md "wikilink")[皇家工学院研制](https://zh.wikipedia.org/wiki/皇家工学院 "wikilink")，它使得这套系统在美国更改密码出口管理条例前（大約是在2000年），在美国境外就可以使用。瑞典的实现工具基于一个叫做eBones的版本，而eBones基于麻省理工对外发行的基于Kerberos版本4的补丁9的Bones（跳过加密公式和对它们的函数调用）。这些在一定程度上决定Kerberos为什么没有被叫做eBones版。Kerbberos版本5的实现工具，Heimdal，基本上也是由发布KTH-KRB的同一组人发布。
+bit的密钥），[美国](../Page/美国.md "wikilink")出口管制当局把Kerberos归类为军需品，并禁止其出口。一个非美国设计的Kerberos版本4的实现工具KTH-KRB由[瑞典](../Page/瑞典.md "wikilink")[皇家工学院研制](https://zh.wikipedia.org/wiki/皇家工学院 "wikilink")，它使得这套系统在美国更改密码出口管理条例前（大約是在2000年），在美国境外就可以使用。瑞典的实现工具基于一个叫做eBones的版本，而eBones基于麻省理工对外发行的基于Kerberos版本4的补丁9的Bones（跳过加密公式和对它们的函数调用）。这些在一定程度上决定Kerberos为什么没有被叫做eBones版。Kerbberos版本5的实现工具，Heimdal，基本上也是由发布KTH-KRB的同一组人发布。
 
 在2005年，[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）Kerberos工作小组更新了规范，更新包括：
 
@@ -35,9 +35,9 @@ bit的密钥），[美国出口管制当局把Kerberos归类为军需品](../Pag
 [Windows
 2000和后续的操作系统使用Kerberos为其默认认证方法](../Page/Windows_2000.md "wikilink")。RFC
 3244 "微软Windows 2000 Kerberos变更密码与设置密码协议"
-记录整理一些[微软对Kerberos协议软件包的添加](../Page/微软.md "wikilink")。RFC
+记录整理一些[微软](../Page/微软.md "wikilink")对Kerberos协议软件包的添加。RFC
 4757
-记录整理微软对[RC4密码的使用](../Page/RC4.md "wikilink")。虽然微软使用Kerberos协议，却并没有用麻省理工的软件。
+记录整理微软对[RC4](../Page/RC4.md "wikilink")密码的使用。虽然微软使用Kerberos协议，却并没有用麻省理工的软件。
 
 苹果的[Mac OS
 X也使用Kerberos的客户和服务器版本](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。[Red

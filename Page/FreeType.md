@@ -10,10 +10,10 @@ programming language = [C](https://zh.wikipedia.org/wiki/C語言 "wikilink")
 
 **FreeType**是一個用[C語言實現的一個](https://zh.wikipedia.org/wiki/C語言 "wikilink")[字体光栅化](../Page/字体光栅化.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。它可以用來將字符[柵格化並映射成](https://zh.wikipedia.org/wiki/柵格化 "wikilink")[-{zh-cn:位图;zh-tw:點陣圖}-以及提供其他字體相關業務的支持](https://zh.wikipedia.org/wiki/位圖 "wikilink")。
 
-FreeType並不提供[API以執行更高級的功能](https://zh.wikipedia.org/wiki/API "wikilink")，如文字佈局或圖形處理（例如彩色文本[渲染](../Page/渲染.md "wikilink")、「空洞化」等）。然而，它提供了一個簡單、易用並統一的[接口來訪問](../Page/介面_\(程式設計\).md "wikilink")[字型文件的內容](../Page/字型.md "wikilink")，從而極大地簡化了這些任務。它支持各種字體格式，包括[TrueType](../Page/TrueType.md "wikilink")、[Type
+FreeType並不提供[API以執行更高級的功能](https://zh.wikipedia.org/wiki/API "wikilink")，如文字佈局或圖形處理（例如彩色文本[渲染](../Page/渲染.md "wikilink")、「空洞化」等）。然而，它提供了一個簡單、易用並統一的[接口來訪問](../Page/介面_\(程式設計\).md "wikilink")[字型](../Page/字型.md "wikilink")文件的內容，從而極大地簡化了這些任務。它支持各種字體格式，包括[TrueType](../Page/TrueType.md "wikilink")、[Type
 1](https://zh.wikipedia.org/wiki/Type_1 "wikilink")、以及[OpenType](../Page/OpenType.md "wikilink")。
 
-FreeType在兩個[自由軟件許可證的授權下發佈](https://zh.wikipedia.org/wiki/自由軟件許可證 "wikilink")：[GNU通用公共許可證或者以及一個](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[類BSD許可證](https://zh.wikipedia.org/wiki/類BSD許可證 "wikilink")。因此這個[函式庫能夠使用于任何類型的項目中](../Page/函式庫.md "wikilink")，無論其是否是[專有軟件](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")。同時也包括正在使用的主要自由桌面系統軟件。
+FreeType在兩個[自由軟件許可證的授權下發佈](https://zh.wikipedia.org/wiki/自由軟件許可證 "wikilink")：[GNU通用公共許可證或者以及一個](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[類BSD許可證](https://zh.wikipedia.org/wiki/類BSD許可證 "wikilink")。因此這個[函式庫](../Page/函式庫.md "wikilink")能夠使用于任何類型的項目中，無論其是否是[專有軟件](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")。同時也包括正在使用的主要自由桌面系統軟件。
 
 ## 功能
 
@@ -43,7 +43,7 @@ Wilhelm）移植到C语言。随后维纳尔·伦贝尔（Werner
 Lemberg）加入开发组并维护Freetype至今。\[15\]\[16\]\[17\]
 
 FreeType
-1只支持TrueType字体格式，但包含了一个扩展来支持[OpenType文本排版功能](../Page/OpenType.md "wikilink")。
+1只支持TrueType字体格式，但包含了一个扩展来支持[OpenType](../Page/OpenType.md "wikilink")文本排版功能。
 
 ### 大规模重写的2.0
 
@@ -52,11 +52,11 @@ FreeType 2.0版于2000年发布，带来完全重写的代码以使之模块化�
 2不与FreeType 1兼容，但开发者声称从FreeType 1转移到FreeType
 2表现出的难度很小。\[19\]然而由于文本布局处理不是FreeType
 2的目标，FreeType 1的OpenType文本布局功能在FreeType 2中被移除。FreeType
-1的OpenType文本布局功能的进一步演化形式用在了[Pango文本布局库](../Page/Pango.md "wikilink")。[HarfBuzz项目进一步发展出有着完全重写的内容的所需特性作为独立的库](../Page/HarfBuzz.md "wikilink")，带有比Pango的许可证略为严格的授权。\[20\]
+1的OpenType文本布局功能的进一步演化形式用在了[Pango](../Page/Pango.md "wikilink")文本布局库。[HarfBuzz](../Page/HarfBuzz.md "wikilink")项目进一步发展出有着完全重写的内容的所需特性作为独立的库，带有比Pango的许可证略为严格的授权。\[20\]
 
 ### 专利冲突
 
-1999年Freetype项目被[苹果公司通知FreeType](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")TrueType[字体微调相关专利](https://zh.wikipedia.org/wiki/字体微调 "wikilink")。之后Freetype被默认停用或者围绕专利相关技术开发。因此像[FreeBSD或](../Page/FreeBSD.md "wikilink")[Linux之类的一些开放源代码项目包含禁用或者阉割](../Page/Linux.md "wikilink")[字体微调的FreeType以避开苹果持有的](https://zh.wikipedia.org/wiki/字体微调 "wikilink")[软件专利](https://zh.wikipedia.org/wiki/软件专利 "wikilink")。\[21\]
+1999年Freetype项目被[苹果公司通知FreeType](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")TrueType[字体微调相关专利](https://zh.wikipedia.org/wiki/字体微调 "wikilink")。之后Freetype被默认停用或者围绕专利相关技术开发。因此像[FreeBSD](../Page/FreeBSD.md "wikilink")或[Linux](../Page/Linux.md "wikilink")之类的一些开放源代码项目包含禁用或者阉割[字体微调的FreeType以避开苹果持有的](https://zh.wikipedia.org/wiki/字体微调 "wikilink")[软件专利](https://zh.wikipedia.org/wiki/软件专利 "wikilink")。\[21\]
 
 2010年5月起，所有与字体微调相关的有冲突的软件专利被解除，\[22\]允许FreeType的TrueType字体微调引擎开放源代码使用。许多禁用该引擎的系统提供选项来让用户启用。Fedora中，freetype-freeworld从专有的[yum资源库转移到自由资源库](../Page/Yellowdog_Updater,_Modified.md "wikilink")\[23\]
 
@@ -72,7 +72,7 @@ Format，[PostScript字体](https://zh.wikipedia.org/wiki/PostScript字体 "wiki
     [苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink"):
     苹果在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[27\]和[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")\[28\]中使用FreeType，仅次于。
     [Java](../Page/Java.md "wikilink"):
-    2007年，Sun公司在[OpenJDK這個Java開發工具包中將專有的字型柵格化引擎變更為FreeType](../Page/OpenJDK.md "wikilink")。<ref>{{cite
+    2007年，Sun公司在[OpenJDK](../Page/OpenJDK.md "wikilink")這個Java開發工具包中將專有的字型柵格化引擎變更為FreeType。<ref>{{cite
     web
 
 |url=<http://openjdk.java.net/projects/font-scaler/> |title=Font Scaler
@@ -91,7 +91,7 @@ Format，[PostScript字体](https://zh.wikipedia.org/wiki/PostScript字体 "wiki
 ### 其他
 
 [Screenshot_of_MacType_2013.1231.png](https://zh.wikipedia.org/wiki/File:Screenshot_of_MacType_2013.1231.png "fig:Screenshot_of_MacType_2013.1231.png")
-在被多數自由桌上型系統軟體使用的同時，FreeType也被現代[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")\[33\]\[34\]及用於[Wii的](../Page/Wii.md "wikilink")[Opera用作柵格化引擎](https://zh.wikipedia.org/wiki/Opera "wikilink")。\[35\]gdipp\[36\]及[MacType](../Page/MacType.md "wikilink")\[37\]專案把[Windows系統的字型柵格化引擎以FreeType取代](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+在被多數自由桌上型系統軟體使用的同時，FreeType也被現代[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")\[33\]\[34\]及用於[Wii](../Page/Wii.md "wikilink")的[Opera用作柵格化引擎](https://zh.wikipedia.org/wiki/Opera "wikilink")。\[35\]gdipp\[36\]及[MacType](../Page/MacType.md "wikilink")\[37\]專案把[Windows系統的字型柵格化引擎以FreeType取代](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 参见
 
@@ -168,13 +168,13 @@ Format，[PostScript字体](https://zh.wikipedia.org/wiki/PostScript字体 "wiki
 
 32.
 
-33. 遊戲公司[遺迹娛樂在他們的遊戲Dawn](../Page/遺迹娛樂.md "wikilink") of War及Company of
+33. 遊戲公司[遺迹娛樂](../Page/遺迹娛樂.md "wikilink")在他們的遊戲Dawn of War及Company of
     Heroes當中使用FreeType，以其在載入屏幕方面視為可靠。
 
 34. FreeType也被用於《A Treehouse of My Own》及《Julie Saves The
     Eagles》之類的PC版遊戲。
 
-35. [Wii上的Opera](../Page/Wii.md "wikilink")
+35. [Wii](../Page/Wii.md "wikilink")上的Opera
     9控制台使用FreeType，可以通過能以下列途徑在Wii中搜尋到的Third-party
     information頁面找到：[Internet
     Channel](https://zh.wikipedia.org/wiki/Internet_Channel "wikilink")

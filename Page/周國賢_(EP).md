@@ -1,4 +1,4 @@
-《**周國賢（EP）**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢的首張個人同名專輯及](../Page/周國賢.md "wikilink")[細碟專輯](https://zh.wikipedia.org/wiki/細碟 "wikilink")。首版於2004年3月18日發行，再版於同年4月16日發行。
+《**周國賢（EP）**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的首張個人同名專輯及[細碟專輯](https://zh.wikipedia.org/wiki/細碟 "wikilink")。首版於2004年3月18日發行，再版於同年4月16日發行。
 
 ## 專輯介紹
 

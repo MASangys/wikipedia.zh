@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Googles_First_Server.jpg "fig:缩略图")
 
-**Google数据中心**（）是[Google用来提供服务的计算机软件和大型硬件资源等技术基础设施](../Page/Google.md "wikilink")。[美国有](../Page/美国.md "wikilink")9間；[欧洲有](../Page/欧洲.md "wikilink")3間；[亚洲有](../Page/亚洲.md "wikilink")2間；[南美洲有](../Page/南美洲.md "wikilink")1間\[1\]。
+**Google数据中心**（）是[Google](../Page/Google.md "wikilink")用来提供服务的计算机软件和大型硬件资源等技术基础设施。[美国](../Page/美国.md "wikilink")有9間；[欧洲](../Page/欧洲.md "wikilink")有3間；[亚洲](../Page/亚洲.md "wikilink")有2間；[南美洲](../Page/南美洲.md "wikilink")有1間\[1\]。
 
 ## 索引
 
@@ -8,7 +8,7 @@ Google构建称为反向索引的数据结构来索引文档，通过查询词�
 
 ## 服务
 
-**Google网页伺服器**是[Google基于](../Page/Google.md "wikilink")[Apache HTTP
+**Google网页伺服器**是[Google](../Page/Google.md "wikilink")基于[Apache HTTP
 Server开发的Web服务器软件](../Page/Apache_HTTP_Server.md "wikilink")\[2\]。
 
 ## 全球所在地點
@@ -33,7 +33,7 @@ Server开发的Web服务器软件](../Page/Apache_HTTP_Server.md "wikilink")\[2\
     North Carolina），2007年動土，2009年啟用，員工超過110名。
 6.  [梅斯縣_(奧克拉荷馬州)](https://zh.wikipedia.org/wiki/梅斯縣_\(奧克拉荷馬州\) "wikilink")
 7.  [蒙哥馬利縣 (田納西州)](../Page/蒙哥馬利縣_\(田納西州\).md "wikilink")
-8.  [奧克拉荷馬州Pryor](../Page/奧克拉荷馬州.md "wikilink") Creek（Pryor Creek,
+8.  [奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")Pryor Creek（Pryor Creek,
     Oklahoma）美中工業區（MidAmerica Industrial Park），2007年動土，2012年擴建，員工100名。
 9.  [奧勒岡州The](https://zh.wikipedia.org/wiki/奧勒岡州 "wikilink") Dalles（The
     Dalles, Oregon），2006年啟用，全職員工80名。

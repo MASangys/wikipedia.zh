@@ -3,7 +3,7 @@ Vecstar，由日本[铃木株式会社生产和销售的](https://zh.wikipedia.o
 
 ## 概要
 
-Vecstar是一款中型踏板摩托车，首次发布于1994年。在日本按[排气量被区分成](../Page/排气量.md "wikilink")150cc的“軽二輪”和125cc“原付”二种车型。该车配备了124cc或152cc的[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[发动机](../Page/发动机.md "wikilink")。配备250cc发动机的车体和其他同级车相比较小。50cc的助力车车型有良好的通过性（最小[转弯半径](https://zh.wikipedia.org/wiki/转弯半径 "wikilink")1.9米）。该车驻停方便，良好的节油性和实用性，非常适合城市街道代步。增加的150cc车型可在日本[高速公路上行驶](../Page/高速公路.md "wikilink")。
+Vecstar是一款中型踏板摩托车，首次发布于1994年。在日本按[排气量](../Page/排气量.md "wikilink")被区分成150cc的“軽二輪”和125cc“原付”二种车型。该车配备了124cc或152cc的[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[发动机](../Page/发动机.md "wikilink")。配备250cc发动机的车体和其他同级车相比较小。50cc的助力车车型有良好的通过性（最小[转弯半径](https://zh.wikipedia.org/wiki/转弯半径 "wikilink")1.9米）。该车驻停方便，良好的节油性和实用性，非常适合城市街道代步。增加的150cc车型可在日本[高速公路](../Page/高速公路.md "wikilink")上行驶。
 
 在铃木Address V125车型发布之后，该车的125cc版停产。随着日本强制排放规定实施后，150cc版于2007年8月停产。
 

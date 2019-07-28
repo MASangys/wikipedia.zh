@@ -1,5 +1,5 @@
 **How's it
-going?**是[嵐的第](../Page/嵐.md "wikilink")4枚專輯，第3枚原創專輯。於2003年7月9日發行。唱片公司為[J
+going?**是[嵐](../Page/嵐.md "wikilink")的第4枚專輯，第3枚原創專輯。於2003年7月9日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封套不一樣。初回生產限定盤附送特別小冊子。以本專輯收錄曲構成的2003年夏天巡迴「How's
 it going? Tour」亦被拍攝成DVD發售。
 

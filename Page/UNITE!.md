@@ -1,4 +1,4 @@
-《**UNITE\!**》（心手相黏）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilink")23張單曲，2001年7月11日於日本發售。
+《**UNITE\!**》（心手相黏）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第23張單曲，2001年7月11日於日本發售。
 
 ## 說明
 
@@ -8,7 +8,7 @@
     -WHITE-](https://zh.wikipedia.org/wiki/A_BEST_2_-WHITE- "wikilink")》及2008年發售的單曲精選輯《[A
     COMPLETE \~ALL
     SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》當中。
-  - 本作於2001年的日本[巨蛋巡迴演唱會首次披露](../Page/巨蛋.md "wikilink")。
+  - 本作於2001年的日本[巨蛋](../Page/巨蛋.md "wikilink")巡迴演唱會首次披露。
   - 本作未拍攝音樂錄影帶，宣傳用影像僅一分鐘，為演唱會片段。
   - 本作收錄的混音歌曲除了《UNITE\!》外，尚有第22張單曲《[Endless
     sorrow](../Page/Endless_sorrow.md "wikilink")》及第三張原創專輯《[Duty](../Page/Duty.md "wikilink")》所收錄歌曲《Key》的混音版本。

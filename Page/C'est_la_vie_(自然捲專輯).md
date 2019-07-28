@@ -6,7 +6,7 @@ vie**》是在[自然捲的首張專輯](../Page/自然捲_\(樂團\).md "wikili
 ## 得獎紀錄
 
   - 2004年
-      - 9月10日　入圍[新加坡金曲獎最佳組合及最佳新人](../Page/新加坡金曲獎.md "wikilink")
+      - 9月10日　入圍[新加坡金曲獎](../Page/新加坡金曲獎.md "wikilink")最佳組合及最佳新人
   - 2005年
       - 4月12日　獲選[中華音樂人交流協會](../Page/中華音樂人交流協會.md "wikilink")2004年十大專輯
       - 5月28日　入圍[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[第16屆金曲獎最佳專輯](https://zh.wikipedia.org/wiki/第16屆金曲獎 "wikilink")、最佳樂團、最佳編曲獎項
@@ -27,7 +27,7 @@ vie**》是在[自然捲的首張專輯](../Page/自然捲_\(樂團\).md "wikili
       - 作詞：奇哥　作曲：奇哥
 6.  Only In My Dream
       - 作詞：奇哥　作曲：奇哥
-      - [隆美窗簾廣告歌曲](../Page/隆美窗簾.md "wikilink")
+      - [隆美窗簾](../Page/隆美窗簾.md "wikilink")廣告歌曲
 7.  C'est La Vie
       - 作詞：奇哥／娃娃　作曲：奇哥
 8.  明信片

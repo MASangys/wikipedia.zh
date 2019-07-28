@@ -1,6 +1,6 @@
-**STUDIO4℃**是日本一家以[动画为主体的主要从事影像作品设计與制作的公司](../Page/动画.md "wikilink")。
+**STUDIO4℃**是日本一家以[动画](../Page/动画.md "wikilink")为主体的主要从事影像作品设计與制作的公司。
 
-从事[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")、[CM](https://zh.wikipedia.org/wiki/电视广告 "wikilink")、宣传影像、游戏CG、[电影等方面的制作](../Page/电影.md "wikilink")。由田中榮子、[森本晃司於](../Page/森本晃司.md "wikilink")1986年5月2日创立。1999年12月24日、「STUDIO4℃有限公司」正式成立、2007年按照日本新法律以股份有限公司登记并更名。
+从事[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")、[CM](https://zh.wikipedia.org/wiki/电视广告 "wikilink")、宣传影像、游戏CG、[电影](../Page/电影.md "wikilink")等方面的制作。由田中榮子、[森本晃司](../Page/森本晃司.md "wikilink")於1986年5月2日创立。1999年12月24日、「STUDIO4℃有限公司」正式成立、2007年按照日本新法律以股份有限公司登记并更名。
 
 ## 历史
 
@@ -8,14 +8,14 @@
 
 1986年成立。
 
-当时正在[吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")『[龙猫](../Page/龙猫.md "wikilink")』担任制作担当的田中榮子、得知同期制作中的[大友克洋监督的动画电影](../Page/大友克洋.md "wikilink")《[阿基拉](https://zh.wikipedia.org/wiki/阿基拉_\(電影\) "wikilink")》制作进展缓慢、有将龙猫的作画派遣到《阿基拉》工作组帮忙的插曲。（被戏称为「猫的帮助」）。
+当时正在[吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")『[龙猫](../Page/龙猫.md "wikilink")』担任制作担当的田中榮子、得知同期制作中的[大友克洋](../Page/大友克洋.md "wikilink")监督的动画电影《[阿基拉](https://zh.wikipedia.org/wiki/阿基拉_\(電影\) "wikilink")》制作进展缓慢、有将龙猫的作画派遣到《阿基拉》工作组帮忙的插曲。（被戏称为「猫的帮助」）。
 
-之后、『阿基拉』为了还人情派遣[森本晃司等人参加](../Page/森本晃司.md "wikilink")《[魔女宅急便](../Page/魔女宅急便.md "wikilink")》的制作。以此为契机森本晃司和田中荣子建立了深厚的友情、抱着「想建立我们自己的天空」想法的森本晃司、[佐藤好春以及田中栄子意气相投](https://zh.wikipedia.org/wiki/佐藤好春 "wikilink")、STUDIO4℃就此创立。
+之后、『阿基拉』为了还人情派遣[森本晃司](../Page/森本晃司.md "wikilink")等人参加《[魔女宅急便](../Page/魔女宅急便.md "wikilink")》的制作。以此为契机森本晃司和田中荣子建立了深厚的友情、抱着「想建立我们自己的天空」想法的森本晃司、[佐藤好春以及田中栄子意气相投](https://zh.wikipedia.org/wiki/佐藤好春 "wikilink")、STUDIO4℃就此创立。
 
 以1995年公映的大友克洋总监督『[MEMORIES](https://zh.wikipedia.org/wiki/MEMORIES "wikilink")』为契机，作为能制作出质量上乘的影片的精英创作团体而一举成名。
 
 1996年森本晃司接手制作日本[电子音乐的先驱者](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")[Ken
-Ishii的专辑](https://zh.wikipedia.org/wiki/Ken_Ishii "wikilink")「EXTRA」[MV由STUDIO](https://zh.wikipedia.org/wiki/MV "wikilink")4℃制作。通过充分展现日本的内涵和独特世界观，创造出至今未曾出现过的新的动画领域、引起以欧洲为中心对日本[动画的狂潮一时沸腾](../Page/动画.md "wikilink")。
+Ishii的专辑](https://zh.wikipedia.org/wiki/Ken_Ishii "wikilink")「EXTRA」[MV由STUDIO](https://zh.wikipedia.org/wiki/MV "wikilink")4℃制作。通过充分展现日本的内涵和独特世界观，创造出至今未曾出现过的新的动画领域、引起以欧洲为中心对日本[动画](../Page/动画.md "wikilink")的狂潮一时沸腾。
 
 2002年、通过《[-{zh-hans:黑客帝国;zh-hk:廿二世紀殺人網絡;zh-tw:駭客任務;}-](https://zh.wikipedia.org/wiki/駭客任務 "wikilink")》的动画集《[-{zh-hans:黑客帝国動畫版;zh-hk:廿二世紀殺人網絡動畫版;zh-tw:駭客任務動畫版;}-](https://zh.wikipedia.org/wiki/駭客任務動畫版 "wikilink")》的制作、STUDIO4℃成为世界知名的动画制作公司、变成不止是粉丝而且连全世界的影像制作人都关注的公司。
 

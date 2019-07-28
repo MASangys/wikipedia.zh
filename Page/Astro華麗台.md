@@ -1,4 +1,4 @@
-**Astro華麗台**、**Astro華麗台HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的以](https://zh.wikipedia.org/wiki/Astro "wikilink")[粵語播出為主的粵語娛樂綜合頻道](https://zh.wikipedia.org/wiki/粵語 "wikilink")，全天候24小时播出。該頻道主要播出來自[香港電視劇](../Page/香港.md "wikilink")、綜藝節目、美食、休閒、旅遊節目以及電影等等，同时亦播出本地节目（亦称**“Astro本地圈”**节目）該頻道備有[粵語及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[華語雙聲道服務以及備有](https://zh.wikipedia.org/wiki/华语 "wikilink")[中文及](https://zh.wikipedia.org/wiki/中文 "wikilink")[馬來文字幕服務](https://zh.wikipedia.org/wiki/馬來文 "wikilink")。
+**Astro華麗台**、**Astro華麗台HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的以](https://zh.wikipedia.org/wiki/Astro "wikilink")[粵語播出為主的粵語娛樂綜合頻道](https://zh.wikipedia.org/wiki/粵語 "wikilink")，全天候24小时播出。該頻道主要播出來自[香港](../Page/香港.md "wikilink")電視劇、綜藝節目、美食、休閒、旅遊節目以及電影等等，同时亦播出本地节目（亦称**“Astro本地圈”**节目）該頻道備有[粵語及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[華語雙聲道服務以及備有](https://zh.wikipedia.org/wiki/华语 "wikilink")[中文及](https://zh.wikipedia.org/wiki/中文 "wikilink")[馬來文字幕服務](https://zh.wikipedia.org/wiki/馬來文 "wikilink")。
 
 ## 頻道詳情
 
@@ -15,7 +15,7 @@ Astro華麗台每年會直播自製大型節目《[Astro國際華裔小姐](http
 TVB舉辦的慈善籌款節目早前曾經由Astro華麗台、Astro至尊HD（現稱Astro華麗台HD）、[Astro On
 Demand](https://zh.wikipedia.org/wiki/Astro_On_Demand "wikilink")（現稱[Astro
 AOD](../Page/Astro_AOD.md "wikilink")）負責轉播，現在改為東南亞版[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")（Astro頻道326）直播。
-除了由Astro華麗台自家製作的直播節目外，所有在Astro華麗台的衛星訊號直播TVB節目畫面均轉播自東南亞版[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")。而早前曾經轉播自[新加坡](../Page/新加坡.md "wikilink")[tvbj](https://zh.wikipedia.org/wiki/tvbj "wikilink")、香港[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台和香港](../Page/翡翠台.md "wikilink")[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[高清翡翠台](../Page/高清翡翠台.md "wikilink")。
+除了由Astro華麗台自家製作的直播節目外，所有在Astro華麗台的衛星訊號直播TVB節目畫面均轉播自東南亞版[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")。而早前曾經轉播自[新加坡](../Page/新加坡.md "wikilink")[tvbj](https://zh.wikipedia.org/wiki/tvbj "wikilink")、香港[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")和香港[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[高清翡翠台](../Page/高清翡翠台.md "wikilink")。
 
 ### 直播节目列表
 
@@ -25,14 +25,14 @@ AOD](../Page/Astro_AOD.md "wikilink")）負責轉播，現在改為東南亞版[
     On
     Demand播放完畢](https://zh.wikipedia.org/wiki/Astro_On_Demand "wikilink")。該臺劇集時段系由Astro
     隨選半年前或不超過一年前既TVB劇集播映。
-  - 在2008年4月開始播出TVB打對台香港[亞洲電視的節目](../Page/亞洲電視.md "wikilink")，首個節目為亞視外判劇集《[生命有明天](../Page/生命有明天.md "wikilink")》。
-  - 在2008年9月開始播出TVB另一家打對台[香港有線電視的節目](../Page/香港有線電視.md "wikilink")，首個節目為《肥媽私房菜》。
+  - 在2008年4月開始播出TVB打對台香港[亞洲電視](../Page/亞洲電視.md "wikilink")的節目，首個節目為亞視外判劇集《[生命有明天](../Page/生命有明天.md "wikilink")》。
+  - 在2008年9月開始播出TVB另一家打對台[香港有線電視](../Page/香港有線電視.md "wikilink")的節目，首個節目為《肥媽私房菜》。
   - 在[Astro至尊HD剛啟播之際](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")，Astro華麗台在平日會與[Astro至尊HD高清同步播出](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")。
   - 2013年，由於[Astro至尊HD改革為全粵語頻道](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")，因此所有在Astro华丽台播放的節目（特定標清節目除外）將會與Astro至尊HD同步播出。
   - 早在2014年起，Astro華麗台逐漸同步播出TVB劇集。從2015年7月起開始在同周跟播處境劇[愛·回家(第二輯)](../Page/愛·回家_\(第二輯\).md "wikilink")。
   - 在2016年10月開始播出TVB打對台[香港電視网络](https://zh.wikipedia.org/wiki/香港電視网络 "wikilink")（HKTV）的所有港剧。所有的[香港電視网络](https://zh.wikipedia.org/wiki/香港電視网络 "wikilink")（HKTV）的港剧都早已在[Astro双星播放完畢](https://zh.wikipedia.org/wiki/Astro双星 "wikilink")。
   - 2018年3月Astro首次投資原創港劇《[陽關道](https://zh.wikipedia.org/wiki/:yue:陽關道 "wikilink")》，由香港製作團隊打造。
-  - Astro投資的原創港劇《[陽關道](https://zh.wikipedia.org/wiki/:yue:陽關道 "wikilink")》於2018年12月22日上架到影視平台[Netflix點播](../Page/Netflix.md "wikilink")。
+  - Astro投資的原創港劇《[陽關道](https://zh.wikipedia.org/wiki/:yue:陽關道 "wikilink")》於2018年12月22日上架到影視平台[Netflix](../Page/Netflix.md "wikilink")點播。
 
 ## Astro華麗-{台}-電視劇列表
 
@@ -111,7 +111,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 第三季（2019年）<br />
 <a href="../Page/肥媽.md" title="wikilink">肥媽</a></p></td>
 <td><p>2019年</p></td>
-<td><p>由<a href="../Page/肥媽.md" title="wikilink">肥媽主持的農曆新年特備烹飪節目</a>，每集都有不同的馬來西亞藝人跟<a href="../Page/肥媽.md" title="wikilink">肥媽一起煮年菜</a>。第二季(2018年)特別加入了陸浩明一起主持。</p></td>
+<td><p>由<a href="../Page/肥媽.md" title="wikilink">肥媽</a>主持的農曆新年特備烹飪節目，每集都有不同的馬來西亞藝人跟<a href="../Page/肥媽.md" title="wikilink">肥媽</a>一起煮年菜。第二季(2018年)特別加入了陸浩明一起主持。</p></td>
 <td><p><a href="http://www.xuan.com.my/channels/wlt/article/articleid/17101/tabid/1009/%E8%82%A5%E5%A6%88%E6%96%B0%E5%B9%B4%E6%96%B0%E7%85%AE%E6%84%8F-2">網頁</a></p></td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p><a href="http://www.xuan.com.my/channels/wlt/article/articleid/14642/tabid/976/%E5%A7%90%E5%A6%B9%E6%B7%98-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%AF%87III">網頁</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/星級健康.md" title="wikilink">星級健康5之敢·動·人生</a><br />
+<td><p><a href="../Page/星級健康.md" title="wikilink">星級健康</a>5之敢·動·人生<br />
 </p></td>
 <td><p>第一季（2013年）<br />
 <a href="../Page/陳智燊.md" title="wikilink">陳智燊</a>、<a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>、<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<br />
@@ -201,7 +201,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 （2015年）<a href="https://zh.wikipedia.org/wiki/蕭慧敏" title="wikilink">蕭慧敏</a>、<a href="https://zh.wikipedia.org/wiki/曾洁钰" title="wikilink">曾洁钰</a><br />
 （2016年）<a href="https://zh.wikipedia.org/wiki/蕭慧敏" title="wikilink">蕭慧敏</a>(决赛)、<a href="https://zh.wikipedia.org/wiki/曾洁钰" title="wikilink">曾洁钰</a>、<a href="../Page/温慧茵.md" title="wikilink">温慧茵</a></p></td>
 <td><p>2016年</p></td>
-<td><p>五强新秀可到台湾歌唱选秀节目《<a href="../Page/華人星光大道.md" title="wikilink">華人星光大道</a>》參賽，而在台灣落敗的選手則會被派到由<a href="../Page/TVB8.md" title="wikilink">TVB8舉辦的</a>《<a href="https://zh.wikipedia.org/wiki/TVB8全球華人新秀歌唱大賽" title="wikilink">TVB8全球華人新秀歌唱大賽</a>》參賽。<br />
+<td><p>五强新秀可到台湾歌唱选秀节目《<a href="../Page/華人星光大道.md" title="wikilink">華人星光大道</a>》參賽，而在台灣落敗的選手則會被派到由<a href="../Page/TVB8.md" title="wikilink">TVB8</a>舉辦的《<a href="https://zh.wikipedia.org/wiki/TVB8全球華人新秀歌唱大賽" title="wikilink">TVB8全球華人新秀歌唱大賽</a>》參賽。<br />
 1997年開播的Astro歌唱選秀節目，2016年欢庆20年。2017年，因为Astro AEC製作的《<a href="../Page/The_Voice_决战好声.md" title="wikilink">The Voice絕對好聲</a>》，新秀大赛暂时停办。</p></td>
 <td><p><a href="https://web.facebook.com/AstroStarQuest/?_rdc=1&amp;_rdr">網站</a></p></td>
 </tr>
@@ -244,7 +244,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <a href="https://zh.wikipedia.org/wiki/王愛玲" title="wikilink">王愛玲</a>、<a href="https://zh.wikipedia.org/wiki/王竣" title="wikilink">王竣</a>、<a href="https://zh.wikipedia.org/wiki/李承運" title="wikilink">李承運</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/SusanWong" title="wikilink">SusanWong</a>、<a href="https://zh.wikipedia.org/wiki/Douglas" title="wikilink">Douglas</a></p></td>
 <td><p>250</p></td>
-<td><p>此劇導演為<a href="https://zh.wikipedia.org/wiki/黃巧力" title="wikilink">黃巧力</a>。<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台在</a>2002年首次製作的250集長篇電視處境劇。此劇除了在<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台播出</a>，2011年還有在馬來西亞免費電視台<a href="https://zh.wikipedia.org/wiki/ntv7" title="wikilink">ntv7及</a><a href="../Page/八度空间_(电视台).md" title="wikilink">八度空間再度播出</a>。</p></td>
+<td><p>此劇導演為<a href="https://zh.wikipedia.org/wiki/黃巧力" title="wikilink">黃巧力</a>。<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台</a>在2002年首次製作的250集長篇電視處境劇。此劇除了在<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台</a>播出，2011年還有在馬來西亞免費電視台<a href="https://zh.wikipedia.org/wiki/ntv7" title="wikilink">ntv7及</a><a href="../Page/八度空间_(电视台).md" title="wikilink">八度空間再度播出</a>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <a href="../Page/蘇永康.md" title="wikilink">蘇永康</a>、<a href="../Page/周群達.md" title="wikilink">周群達</a>、<a href="../Page/呂晶晶.md" title="wikilink">呂晶晶</a>、<br />
 <a href="../Page/趙碩之.md" title="wikilink">趙碩之</a>、<a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a></p></td>
 <td><p>20</p></td>
-<td><p>由<a href="../Page/鄧特希.md" title="wikilink">鄧特希製作的香港警匪電視劇</a>，於2015年10月至2016年3月拍攝。此劇於2016年9月22日在<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台及</a><a href="../Page/香港.md" title="wikilink">香港</a><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a> <a href="https://zh.wikipedia.org/wiki/myTV_SUPER" title="wikilink">myTV SUPER首播</a>。</p></td>
+<td><p>由<a href="../Page/鄧特希.md" title="wikilink">鄧特希</a>製作的香港警匪電視劇，於2015年10月至2016年3月拍攝。此劇於2016年9月22日在<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台</a>及<a href="../Page/香港.md" title="wikilink">香港</a><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a> <a href="https://zh.wikipedia.org/wiki/myTV_SUPER" title="wikilink">myTV SUPER首播</a>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -274,8 +274,8 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <a href="../Page/黃文標.md" title="wikilink">黃文標</a>、楊鴻俊、<a href="https://zh.wikipedia.org/wiki/:yue:黃定謙" title="wikilink">黃定謙</a>、<br />
 <a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、酒井瞳、韓　媚</p></td>
 <td><p>13</p></td>
-<td><p>此劇編劇、導演及主演為<a href="../Page/王貽興.md" title="wikilink">王貽興和</a><a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉翁</a>。其他演員還有<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾威等</a>。此劇是<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro跨國投資的港劇</a>，全香港班底製作及演出，以驚悚懸疑為主軸的電視劇。此劇將於2018年8月11日，每週六晚上10:30Astro華麗台與BOO頻道同步播放,每集30分鐘,2集連播。7月24日於GSC Cinema, Mid Valley Megamall舉辦首映會。<br />
-此劇在2018年12月22日上架到影視平台<a href="../Page/Netflix.md" title="wikilink">Netflix點播</a>。</p></td>
+<td><p>此劇編劇、導演及主演為<a href="../Page/王貽興.md" title="wikilink">王貽興</a>和<a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉翁</a>。其他演員還有<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾威</a>等。此劇是<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro跨國投資的港劇</a>，全香港班底製作及演出，以驚悚懸疑為主軸的電視劇。此劇將於2018年8月11日，每週六晚上10:30Astro華麗台與BOO頻道同步播放,每集30分鐘,2集連播。7月24日於GSC Cinema, Mid Valley Megamall舉辦首映會。<br />
+此劇在2018年12月22日上架到影視平台<a href="../Page/Netflix.md" title="wikilink">Netflix</a>點播。</p></td>
 <td><p><a href="http://www.xuan.com.my/channels/wlt/article/20695/%E9%98%B3%E5%85%B3%E9%81%93">網頁</a></p></td>
 </tr>
 <tr class="even">
@@ -285,7 +285,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <a href="../Page/梁靖琪.md" title="wikilink">梁靖琪</a>、<a href="../Page/秦沛.md" title="wikilink">秦　沛</a>、<a href="../Page/劉兆銘.md" title="wikilink">劉兆銘</a>、<br />
 <a href="../Page/羅家英.md" title="wikilink">羅家英</a>、<a href="../Page/許紹雄.md" title="wikilink">許紹雄</a>、<a href="../Page/麥長青.md" title="wikilink">麥長青</a></p></td>
 <td><p>36</p></td>
-<td><p>此劇監製為<a href="../Page/梁家樹.md" title="wikilink">梁家樹</a>。由<a href="../Page/寰亞傳媒集團.md" title="wikilink">寰亞電視節目製作（香港）有限公司及</a><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷製作的電視劇</a>。2018年1月21日至2月9日來到<a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞</a><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡拍攝外景及舉辦記者發布會</a>。<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台於</a>2018年9月24日，9:30PM播出。<br />
+<td><p>此劇監製為<a href="../Page/梁家樹.md" title="wikilink">梁家樹</a>。由<a href="../Page/寰亞傳媒集團.md" title="wikilink">寰亞電視節目製作（香港）有限公司及</a><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷製作的電視劇</a>。2018年1月21日至2月9日來到<a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞</a><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a>拍攝外景及舉辦記者發布會。<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台</a>於2018年9月24日，9:30PM播出。<br />
 此劇<a href="../Page/Viu.md" title="wikilink">Viu</a>(香港)OTT平台於9月22日推出及優酷於9月19日推出。<br />
 <br />
 總製片人 : 丁恆<br />
@@ -391,7 +391,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p>体坛动态</p></td>
 <td><p>郑忆华、林德荣</p></td>
 <td><p>2009年</p></td>
-<td><p>特别为热爱体育的大马华人所制作的节目。节目中将为观众带来华人社会喜爱的体育赛事，并提供具娱乐又充满资讯的体育节目，覆盖所有大型体育赛事，包括∶足球、羽毛球、乒乓、篮球、田径及排球等等。此節目後被另一<a href="https://zh.wikipedia.org/wiki/華語" title="wikilink">華語節目</a>《<a href="https://web.archive.org/web/20141007204344/http://zhongwen.astro.com.my/Channels/AEC/ArticleDetails.aspx?articleid=178">體壇Yeah!總匯</a>》取代，並於<a href="../Page/Astro_AEC.md" title="wikilink">Astro AEC和</a><a href="../Page/Astro全佳HD.md" title="wikilink">Astro全佳HD播出</a>。</p></td>
+<td><p>特别为热爱体育的大马华人所制作的节目。节目中将为观众带来华人社会喜爱的体育赛事，并提供具娱乐又充满资讯的体育节目，覆盖所有大型体育赛事，包括∶足球、羽毛球、乒乓、篮球、田径及排球等等。此節目後被另一<a href="https://zh.wikipedia.org/wiki/華語" title="wikilink">華語節目</a>《<a href="https://web.archive.org/web/20141007204344/http://zhongwen.astro.com.my/Channels/AEC/ArticleDetails.aspx?articleid=178">體壇Yeah!總匯</a>》取代，並於<a href="../Page/Astro_AEC.md" title="wikilink">Astro AEC和</a><a href="../Page/Astro全佳HD.md" title="wikilink">Astro全佳HD</a>播出。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -452,7 +452,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p>堪輿百子櫃</p></td>
 <td><p>葉威明（Joey Yap）、王翠玲</p></td>
 <td><p>2014年</p></td>
-<td><p>|本地圈全新堪輿節目。本節目將分為三個環節：“大馬之窗”、“师傅赠两句”和“相由心生”。“大馬之窗”探討<a href="../Page/巴生谷.md" title="wikilink">巴生谷一代的重點發展地區</a>，並探討風水對這些地方的影響。“师傅赠两句”則專注講解室內風水，而“相由心生”則探討個人風水，如：面相和掌紋。[4]</p></td>
+<td><p>|本地圈全新堪輿節目。本節目將分為三個環節：“大馬之窗”、“师傅赠两句”和“相由心生”。“大馬之窗”探討<a href="../Page/巴生谷.md" title="wikilink">巴生谷</a>一代的重點發展地區，並探討風水對這些地方的影響。“师傅赠两句”則專注講解室內風水，而“相由心生”則探討個人風水，如：面相和掌紋。[4]</p></td>
 <td><p><a href="https://www.facebook.com/bendiquan/">網站</a></p></td>
 </tr>
 <tr class="even">
@@ -463,7 +463,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 （2016年：<a href="https://zh.wikipedia.org/wiki/法國" title="wikilink">法國</a>）蕭慧敏</p></td>
 <td><p>2016年</p></td>
 <td><p>主持人將會到不同的國家與旅途中的有緣人交流，並且把馬來西亞的美食介紹給當地人。<br />
-此節目2017年曾在<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/奇妙電視.md" title="wikilink">奇妙電視播放</a>。</p></td>
+此節目2017年曾在<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/奇妙電視.md" title="wikilink">奇妙電視</a>播放。</p></td>
 <td><p><a href="https://www.facebook.com/bendiquan/">網站</a></p></td>
 </tr>
 <tr class="odd">
@@ -491,7 +491,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 （2016年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農 夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/朱智賢.md" title="wikilink">朱智賢</a><br />
 （2017年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a>、<a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></p></td>
 <td><p>2017年</p></td>
-<td><p>此頒獎禮是由<a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台主辦</a>，<a href="../Page/Astro集團.md" title="wikilink">Astro</a>、<a href="../Page/MY_(马来西亚电台).md" title="wikilink">MY及</a><a href="../Page/云顶集团.md" title="wikilink">雲頂娛樂城協辦的</a><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB海外電視頒獎典禮</a>。每年與<a href="../Page/翡翠台.md" title="wikilink">翡翠台同步轉播</a>。<br />
+<td><p>此頒獎禮是由<a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台</a>主辦，<a href="../Page/Astro集團.md" title="wikilink">Astro</a>、<a href="../Page/MY_(马来西亚电台).md" title="wikilink">MY及</a><a href="../Page/云顶集团.md" title="wikilink">雲頂娛樂城協辦的</a><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB海外電視頒獎典禮</a>。每年與<a href="../Page/翡翠台.md" title="wikilink">翡翠台</a>同步轉播。<br />
 頒獎典禮在2018年正式停辦，但觀眾投選有被保留下來，而改為在《<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶</a>》台慶節目裡公佈得獎名單。</p></td>
 <td><p><a href="http://www.xuan.com.my/entertainment/article/articleid/16009/%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0-TVB%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%98%9F%E5%85%89%E8%8D%9F%E8%90%83%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC2017">網頁</a></p></td>
 </tr>
@@ -501,7 +501,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p><a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a>、<a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a><br />
 </p></td>
 <td><p>2018年</p></td>
-<td><p>由<a href="../Page/蕭正楠.md" title="wikilink">蕭正楠及</a><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興主持的美食烹飪節目</a>。9月2日起<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台每周日</a>9:00pm，<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a><a href="../Page/翡翠台.md" title="wikilink">翡翠台</a>(馬來西亞)每週日8:00pm 播出</p></td>
+<td><p>由<a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a>及<a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興主持的美食烹飪節目</a>。9月2日起<a href="../Page/Astro華麗台.md" title="wikilink">Astro華麗台</a>每周日9:00pm，<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a><a href="../Page/翡翠台.md" title="wikilink">翡翠台</a>(馬來西亞)每週日8:00pm 播出</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -516,7 +516,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p><a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
 <td><p>2019年</p></td>
 <td><p>由杜汶澤擔任主持，Astro華麗台與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a> 聯合製作的旅遊真人騷節目。杜汶澤在2018年12月來馬近半個月，赴檳城、怡保及雪隆一帶進行節目拍攝。節目中邀來馬來西亞紅人黃明志，與杜汶澤一起錄音翻唱粵語歌以及拍攝MV。<br />
-節目共15集，於2019年4月29日，星期一至五10:30PM與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV同日播出</a>（香港播出時間為星期一至五11:00PM）。<br />
+節目共15集，於2019年4月29日，星期一至五10:30PM與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>同日播出（香港播出時間為星期一至五11:00PM）。<br />
 同類節目：<a href="../Page/走佬去臺灣.md" title="wikilink">走佬去臺灣</a></p></td>
 <td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
 </tr>
@@ -641,7 +641,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 </tr>
 <tr class="odd">
 <td><p>2019年4月14日</p></td>
-<td><p><a href="../Page/第38屆香港電影金像獎.md" title="wikilink">第38屆香港電影金像獎頒獎典禮</a></p></td>
+<td><p><a href="../Page/第38屆香港電影金像獎.md" title="wikilink">第38屆香港電影金像獎</a>頒獎典禮</p></td>
 <td><p><a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<br />
 <a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>，<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<br />
 <a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、陳欣妍、黃定謙、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<br />
@@ -650,7 +650,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 郭奕芯、<a href="../Page/盧鎮業.md" title="wikilink">盧鎮業</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<a href="../Page/李任燊.md" title="wikilink">李任燊</a>、<br />
 <a href="../Page/湯加文.md" title="wikilink">湯加文</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<br />
 <a href="../Page/劉頌鵬.md" title="wikilink">劉頌鵬</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a></p></td>
-<td><p>與<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/ViuTV.md" title="wikilink">ViuTV同步現場轉播</a>。</p></td>
+<td><p>與<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>同步現場轉播。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -721,9 +721,9 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 </tr>
 <tr class="odd">
 <td><p>2018年4月15日</p></td>
-<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎頒獎典禮</a></p></td>
+<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎</a>頒獎典禮</p></td>
 <td><p><a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></p></td>
-<td><p>與<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/ViuTV.md" title="wikilink">ViuTV同步現場轉播</a>。</p></td>
+<td><p>與<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>同步現場轉播。</p></td>
 </tr>
 <tr class="even">
 <td></td>

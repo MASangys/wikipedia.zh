@@ -1,7 +1,7 @@
 **MAC-58**是一挺由[法国自](https://zh.wikipedia.org/wiki/法国 "wikilink")[二战過後](../Page/第二次世界大战.md "wikilink")，由圣-艾蒂安兵工廠（，其中一間法國政府轄下的一些國營武器工廠，簡稱：MAS）研製的一挺[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，是[AA-52的](../Page/AA-52通用機槍.md "wikilink")[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
 BMG）大[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
-有數挺MAC-58的原型槍進行了測試、在法軍內部服役和保持繼續生產，但由於大量的美國[白朗寧M2重機槍早已經在法軍內部服役](../Page/白朗寧M2重機槍.md "wikilink")，因此它沒有[量產](../Page/大量生產.md "wikilink")。
+有數挺MAC-58的原型槍進行了測試、在法軍內部服役和保持繼續生產，但由於大量的美國[白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")早已經在法軍內部服役，因此它沒有[量產](../Page/大量生產.md "wikilink")。
 
 ## 研發
 
@@ -10,7 +10,7 @@ BMG）大[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 武器功能當中只有火力模式受到要求強加。其他功能都留給了參與研究的米盧斯、沙泰勒羅和聖-艾蒂安這三家工廠自行倡議。
 
 在沙泰勒羅兵工廠方面，這項目的研究根據首席工程師馬丁和指示的董事，BMI和BMI Rabbe
-Nardin的命令以下委託給Davail技術員。1956年2月12日，這研究在DEFA技術部演示武器的三維圖和原型槍的實現時告終。該武器受[AA-52通用機槍所啟發](../Page/AA-52通用機槍.md "wikilink")，其外殼壓制鋼需要當時的沙泰勒羅塑機使用最近投入的、接近300—400[噸的壓力實現](https://zh.wikipedia.org/wiki/英噸 "wikilink")。它重達26千克，也就是說要比[白朗寧M2HB](../Page/白朗寧M2重機槍.md "wikilink")[美國.50口徑](../Page/12.7×99mm_NATO.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")（39公斤）輕便得多。
+Nardin的命令以下委託給Davail技術員。1956年2月12日，這研究在DEFA技術部演示武器的三維圖和原型槍的實現時告終。該武器受[AA-52通用機槍](../Page/AA-52通用機槍.md "wikilink")所啟發，其外殼壓制鋼需要當時的沙泰勒羅塑機使用最近投入的、接近300—400[噸的壓力實現](https://zh.wikipedia.org/wiki/英噸 "wikilink")。它重達26千克，也就是說要比[白朗寧M2HB](../Page/白朗寧M2重機槍.md "wikilink")[美國.50口徑](../Page/12.7×99mm_NATO.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")（39公斤）輕便得多。
 
 ## 規格
 
@@ -33,13 +33,13 @@ Versailles）進行他們的下一個實驗。
 在1956年8月23日的信息8354/ET/MAC當中，沙泰勒羅兵工廠向ST/ARM的要求發出了其回應：
 
 1.  1956年2月16日，發送至第一個問題的路線堵塞應該（應該如何卻沒有說明）
-2.  原型槍提供可從左和右兩方向以[彈鏈供彈及從下方拋殼的機構](../Page/彈鏈.md "wikilink")。
+2.  原型槍提供可從左和右兩方向以[彈鏈](../Page/彈鏈.md "wikilink")供彈及從下方拋殼的機構。
 3.  對空中目標的射擊效能等同於目前在輕型防空群使用的12.7毫米重機槍。
 4.  射擊地點設置了APX806儀表屏。
-5.  重量可與[霍奇克斯M1914重機槍相提並論](../Page/霍奇克斯M1914重機槍.md "wikilink")，重槍管時為27.5千克。
+5.  重量可與[霍奇克斯M1914重機槍](../Page/霍奇克斯M1914重機槍.md "wikilink")相提並論，重槍管時為27.5千克。
 6.  多個部件的原理是以AA-52為藍本。
 7.  該重機槍發射北約和法國子彈。
-8.  它使用沙泰勒羅兵工廠研製的柔性鏈接方式安裝在[M3三腳架以上](../Page/M3三腳架.md "wikilink")。
+8.  它使用沙泰勒羅兵工廠研製的柔性鏈接方式安裝在[M3三腳架](../Page/M3三腳架.md "wikilink")以上。
 9.  其[射速為](https://zh.wikipedia.org/wiki/射速 "wikilink")500至600發／分鐘。
 
 ## 評價

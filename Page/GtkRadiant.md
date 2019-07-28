@@ -6,12 +6,12 @@ Software共同开发的关卡设计软件](../Page/Loki_Software.md "wikilink")�
 
 GtkRadiant起源于id
 Software的内部工具。之前仅支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
-GtkRadiant2001年作为Q3Radiant的改版放出，特性是：使用[GTK+以便支持](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Linux和](../Page/Linux.md "wikilink")[Mac
+GtkRadiant2001年作为Q3Radiant的改版放出，特性是：使用[GTK+以便支持](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Linux](../Page/Linux.md "wikilink")和[Mac
 OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 GtkRadiant使用[GNU General Public
 License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")，相当长的时间内存放于id
-Software的[Subversion仓库](../Page/Subversion.md "wikilink")，新代码使用GPL兼容协议，而老代码——来自Q3Radiant使用id
+Software的[Subversion](../Page/Subversion.md "wikilink")仓库，新代码使用GPL兼容协议，而老代码——来自Q3Radiant使用id
 Software的封闭协议。直到2005年8月19日，*Quake III
 Arena*和Q3Radiant源代码以[GPLv2再次释放](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")。
 
@@ -30,7 +30,7 @@ Dark Mod](https://zh.wikipedia.org/wiki/The_Dark_Mod "wikilink")*开发。
 ## 支持的游戏
 
 GtkRadiant
-[Subversion版本里最重要的游戏包是](../Page/Subversion.md "wikilink")，下列游戏
+[Subversion](../Page/Subversion.md "wikilink")版本里最重要的游戏包是，下列游戏
 \[[https://web.archive.org/web/20060513015014/https://zerowing.idsoftware.com/svn/radiant.gamepacks/\]包括额外支持](https://web.archive.org/web/20060513015014/https://zerowing.idsoftware.com/svn/radiant.gamepacks/%5D包括额外支持)[扩展包和](https://zh.wikipedia.org/wiki/扩展包 "wikilink")[MOD](https://zh.wikipedia.org/wiki/游戏模组 "wikilink")。
 
   - *[CodeRED: Alien

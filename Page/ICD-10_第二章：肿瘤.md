@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - () [舌其他和非特定部分的恶性肿瘤](../Page/舌.md "wikilink")
+  - () [舌](../Page/舌.md "wikilink")其他和非特定部分的恶性肿瘤
       - () [舌背面恶性肿瘤](https://zh.wikipedia.org/wiki/舌背面恶性肿瘤 "wikilink")
       - ()
         [舌前三分之二背面恶性肿瘤](https://zh.wikipedia.org/wiki/舌前三分之二背面恶性肿瘤 "wikilink")
@@ -87,8 +87,8 @@
 ##### [消化器官的恶性肿瘤](https://zh.wikipedia.org/wiki/消化器官 "wikilink")
 
   - ()
-    [食道的恶性肿瘤](../Page/食道.md "wikilink")（[食道癌](../Page/食道癌.md "wikilink")）
-  - () [胃的恶性肿瘤](../Page/胃.md "wikilink")（[胃癌](../Page/胃癌.md "wikilink")）
+    [食道](../Page/食道.md "wikilink")的恶性肿瘤（[食道癌](../Page/食道癌.md "wikilink")）
+  - () [胃](../Page/胃.md "wikilink")的恶性肿瘤（[胃癌](../Page/胃癌.md "wikilink")）
   - ()
     [小腸的恶性肿瘤](https://zh.wikipedia.org/wiki/小腸 "wikilink")（[小肠癌](https://zh.wikipedia.org/wiki/小肠癌 "wikilink")）
   - ()
@@ -115,13 +115,13 @@
   - ()
     [鼻腔和](https://zh.wikipedia.org/wiki/鼻腔 "wikilink")[中耳的恶性肿瘤](https://zh.wikipedia.org/wiki/中耳 "wikilink")（[鼻癌](https://zh.wikipedia.org/wiki/鼻癌 "wikilink")、[耳癌](https://zh.wikipedia.org/wiki/耳癌 "wikilink")）
   - () [副竇的恶性肿瘤](https://zh.wikipedia.org/wiki/副竇 "wikilink")
-  - () [喉的恶性肿瘤](../Page/喉.md "wikilink")（[喉癌](../Page/喉癌.md "wikilink")）
+  - () [喉](../Page/喉.md "wikilink")的恶性肿瘤（[喉癌](../Page/喉癌.md "wikilink")）
   - () [氣管的恶性肿瘤](https://zh.wikipedia.org/wiki/氣管 "wikilink")
   - ()
-    [支氣管和](../Page/支氣管.md "wikilink")[肺的恶性肿瘤](../Page/肺.md "wikilink")（[肺癌](../Page/肺癌.md "wikilink")、[肺腺癌](https://zh.wikipedia.org/wiki/肺腺癌 "wikilink")）
-  - () [胸腺的恶性肿瘤](../Page/胸腺.md "wikilink")
+    [支氣管](../Page/支氣管.md "wikilink")和[肺](../Page/肺.md "wikilink")的恶性肿瘤（[肺癌](../Page/肺癌.md "wikilink")、[肺腺癌](https://zh.wikipedia.org/wiki/肺腺癌 "wikilink")）
+  - () [胸腺](../Page/胸腺.md "wikilink")的恶性肿瘤
   - ()
-    [心臟](../Page/心臟.md "wikilink")、[中隔和](https://zh.wikipedia.org/wiki/中隔 "wikilink")[胸膜的恶性肿瘤](../Page/胸膜.md "wikilink")
+    [心臟](../Page/心臟.md "wikilink")、[中隔和](https://zh.wikipedia.org/wiki/中隔 "wikilink")[胸膜](../Page/胸膜.md "wikilink")的恶性肿瘤
   - ()
     [呼吸系统和胸內器官中其他及分界不明部位的恶性肿瘤](https://zh.wikipedia.org/wiki/呼吸系统 "wikilink")
 
@@ -131,7 +131,7 @@
   - () 其他和未明示部位之骨和關節軟骨的恶性肿瘤
       - [多發性骨髓瘤](../Page/多發性骨髓瘤.md "wikilink")
 
-##### [黑色素瘤和其他](../Page/黑色素瘤.md "wikilink")[皮膚的惡性肿瘤](../Page/皮膚.md "wikilink")
+##### [黑色素瘤](../Page/黑色素瘤.md "wikilink")和其他[皮膚](../Page/皮膚.md "wikilink")的惡性肿瘤
 
   - () 皮膚的[惡性黑色素瘤](https://zh.wikipedia.org/wiki/惡性黑色素瘤 "wikilink")
   - () 其他皮膚的惡性肿瘤
@@ -146,23 +146,23 @@
     [腹膜后腔和](https://zh.wikipedia.org/wiki/腹膜后腔 "wikilink")[腹膜的惡性肿瘤](https://zh.wikipedia.org/wiki/腹膜 "wikilink")
   - () 其他连接和軟組織的惡性肿瘤
 
-##### [乳房的惡性肿瘤](../Page/乳房.md "wikilink")
+##### [乳房](../Page/乳房.md "wikilink")的惡性肿瘤
 
   - ()
-    [乳房的惡性肿瘤](../Page/乳房.md "wikilink")（[乳腺癌](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")）
+    [乳房](../Page/乳房.md "wikilink")的惡性肿瘤（[乳腺癌](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")）
 
 ##### [女性生殖器官的惡性肿瘤](https://zh.wikipedia.org/wiki/女性生殖器官 "wikilink")
 
   - () [外陰的惡性肿瘤](https://zh.wikipedia.org/wiki/外陰 "wikilink")
   - () [陰道的惡性肿瘤](https://zh.wikipedia.org/wiki/陰道 "wikilink")
   - ()
-    [子宮頸的惡性肿瘤](../Page/子宮頸.md "wikilink")（[子宮頸癌](../Page/子宮頸癌.md "wikilink")）
+    [子宮頸](../Page/子宮頸.md "wikilink")的惡性肿瘤（[子宮頸癌](../Page/子宮頸癌.md "wikilink")）
   - () [子宮體的惡性肿瘤](https://zh.wikipedia.org/wiki/子宮體 "wikilink")
   - () [子宮未明示部位的惡性肿瘤](https://zh.wikipedia.org/wiki/子宮 "wikilink")
   - ()
-    [卵巢的惡性肿瘤](../Page/卵巢.md "wikilink")（[卵巢癌](../Page/卵巢癌.md "wikilink")）
+    [卵巢](../Page/卵巢.md "wikilink")的惡性肿瘤（[卵巢癌](../Page/卵巢癌.md "wikilink")）
   - () 其他和未明示之女性生殖器官的惡性肿瘤
-  - () [胎盤的惡性肿瘤](../Page/胎盤.md "wikilink")
+  - () [胎盤](../Page/胎盤.md "wikilink")的惡性肿瘤
 
 ##### [男性生殖器官的惡性肿瘤](https://zh.wikipedia.org/wiki/男性生殖器官 "wikilink")
 
@@ -170,18 +170,18 @@
     [陰莖的惡性肿瘤](https://zh.wikipedia.org/wiki/陰莖 "wikilink")（[陰莖癌](../Page/陰莖癌.md "wikilink")）
   - () [攝護腺的惡性肿瘤](https://zh.wikipedia.org/wiki/攝護腺 "wikilink")
   - ()
-    [睾丸的惡性肿瘤](../Page/睾丸.md "wikilink")（[睾丸癌](https://zh.wikipedia.org/wiki/睾丸癌 "wikilink")）
+    [睾丸](../Page/睾丸.md "wikilink")的惡性肿瘤（[睾丸癌](https://zh.wikipedia.org/wiki/睾丸癌 "wikilink")）
   - () 其他和未明示之男性生殖器官的惡性肿瘤
       - [前列腺癌](../Page/前列腺癌.md "wikilink")
 
 ##### [泌尿道的惡性肿瘤](https://zh.wikipedia.org/wiki/泌尿道 "wikilink")
 
   - ()
-    [腎的惡性肿瘤](../Page/腎.md "wikilink")（不含[腎盂](../Page/腎盂.md "wikilink")）
+    [腎](../Page/腎.md "wikilink")的惡性肿瘤（不含[腎盂](../Page/腎盂.md "wikilink")）
   - () 腎盂的惡性肿瘤（[肾癌](https://zh.wikipedia.org/wiki/肾癌 "wikilink")）
   - () [輸尿管的惡性肿瘤](https://zh.wikipedia.org/wiki/輸尿管 "wikilink")
   - ()
-    [膀胱的惡性肿瘤](../Page/膀胱.md "wikilink")（[膀胱癌](../Page/膀胱癌.md "wikilink")）
+    [膀胱](../Page/膀胱.md "wikilink")的惡性肿瘤（[膀胱癌](../Page/膀胱癌.md "wikilink")）
   - () 其他和未明示之[泌尿器官的惡性肿瘤](https://zh.wikipedia.org/wiki/泌尿器官 "wikilink")
 
 ##### [眼](https://zh.wikipedia.org/wiki/眼 "wikilink")、[腦](https://zh.wikipedia.org/wiki/腦 "wikilink")、[中枢神经系统其他部分的惡性肿瘤](https://zh.wikipedia.org/wiki/中枢神经系统 "wikilink")
@@ -198,7 +198,7 @@
 ##### [甲狀腺](https://zh.wikipedia.org/wiki/甲狀腺 "wikilink")、其他[內分泌腺的惡性肿瘤](https://zh.wikipedia.org/wiki/內分泌腺 "wikilink")
 
   - () 甲狀腺的惡性肿瘤（[甲状腺癌](https://zh.wikipedia.org/wiki/甲状腺癌 "wikilink")）
-  - () [腎上腺的惡性肿瘤](../Page/腎上腺.md "wikilink")
+  - () [腎上腺](../Page/腎上腺.md "wikilink")的惡性肿瘤
   - () 其他內分泌腺和相关结构的惡性肿瘤
       - () [副甲狀腺](../Page/副甲狀腺.md "wikilink")
       - () [脑垂体腺](https://zh.wikipedia.org/wiki/脑垂体腺 "wikilink")
@@ -213,7 +213,7 @@
 #### 不明确的、继发的和未特指部位的恶性肿瘤
 
   - () 其他和不明确部位的恶性肿瘤
-  - () [淋巴結淋巴结继发性和未特指的恶性肿瘤](../Page/淋巴結.md "wikilink")
+  - () [淋巴結](../Page/淋巴結.md "wikilink")淋巴结继发性和未特指的恶性肿瘤
   - () 呼吸和消化器官的继发性惡性肿瘤
   - () 其他部位的继发性惡性肿瘤
   - () 未明示部位的惡性腫瘤
@@ -322,7 +322,7 @@
             杓状会厌皱壁，喉部（[D02.0](https://zh.wikipedia.org/wiki/#D02.0 "wikilink")）
             [会厌](../Page/会厌.md "wikilink")：
             .NOS（[D02.0](https://zh.wikipedia.org/wiki/#D02.0 "wikilink")） 
-            .[舌骨上](../Page/舌骨.md "wikilink")（[D02.0](https://zh.wikipedia.org/wiki/#D02.0 "wikilink")） 
+            .[舌骨](../Page/舌骨.md "wikilink")上（[D02.0](https://zh.wikipedia.org/wiki/#D02.0 "wikilink")） 
             唇部[皮肤](https://zh.wikipedia.org/wiki/皮肤 "wikilink")（[D03.0](https://zh.wikipedia.org/wiki/#D03.0 "wikilink"),[D04.0](https://zh.wikipedia.org/wiki/#D04.0 "wikilink")）
       - D00.1 食管
       - D00.2 胃
@@ -337,7 +337,7 @@
             [直肠乙状结肠连接处](https://zh.wikipedia.org/wiki/直肠 "wikilink")（[D01.1](https://zh.wikipedia.org/wiki/#D01.1 "wikilink")）
       - D01.1 直肠乙状结肠连接处
       - D01.2 直肠
-      - D01.3 [肛门和肛道](../Page/肛门.md "wikilink")
+      - D01.3 [肛门](../Page/肛门.md "wikilink")和肛道
           -
             排除： 
             肛门：
@@ -349,7 +349,7 @@
             排除： 
             肝[胰管](https://zh.wikipedia.org/wiki/胰管 "wikilink")（Vater）[壶腹](https://zh.wikipedia.org/wiki/壶腹 "wikilink")（[D01.5](https://zh.wikipedia.org/wiki/#D01.5 "wikilink")）
       - D01.5
-        肝、[胆囊和](../Page/胆囊.md "wikilink")[胆管](https://zh.wikipedia.org/wiki/胆管 "wikilink")
+        肝、[胆囊](../Page/胆囊.md "wikilink")和[胆管](https://zh.wikipedia.org/wiki/胆管 "wikilink")
           -
             肝胰管壶腹
       - D01.7 其它特指的消化器官
@@ -432,7 +432,7 @@
             排除：
             肛门
             NOS（[D01.3](https://zh.wikipedia.org/wiki/#D01.3 "wikilink")） 
-            [生殖器皮肤](../Page/生殖器.md "wikilink")（[D07.-](https://zh.wikipedia.org/wiki/#D07 "wikilink")）
+            [生殖器](../Page/生殖器.md "wikilink")皮肤（[D07.-](https://zh.wikipedia.org/wiki/#D07 "wikilink")）
       - D04.6 上肢皮肤，包括肩部。
       - D04.7 下肢皮肤，包括臀部。
       - D04.8 其它部位的皮肤
@@ -503,7 +503,7 @@
             排除： 
             眼睑皮肤（[D04.1](https://zh.wikipedia.org/wiki/#D04.1 "wikilink")）
       - D09.3
-        [甲状腺和其它](../Page/甲状腺.md "wikilink")[内分泌腺](https://zh.wikipedia.org/wiki/内分泌腺 "wikilink")
+        [甲状腺](../Page/甲状腺.md "wikilink")和其它[内分泌腺](https://zh.wikipedia.org/wiki/内分泌腺 "wikilink")
           -
             排除： 
             [内分泌胰腺](https://zh.wikipedia.org/wiki/内分泌 "wikilink")（[D01.7](https://zh.wikipedia.org/wiki/#D01.7 "wikilink")） 

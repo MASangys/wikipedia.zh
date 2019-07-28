@@ -1,4 +1,4 @@
-**PGA巡回赛**（英文：，简称“美巡赛”）是一项[美国职业](../Page/美国.md "wikilink")[高尔夫球系列赛事的统称](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，也是负责运作这些赛事的机构本身的名称。其总部设于[佛罗里达州](../Page/佛罗里达州.md "wikilink")[杰克逊维尔市郊外的蓬特委德拉海滩](https://zh.wikipedia.org/wiki/杰克逊维尔市 "wikilink")（Ponte
+**PGA巡回赛**（英文：，简称“美巡赛”）是一项[美国](../Page/美国.md "wikilink")职业[高尔夫球系列赛事的统称](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，也是负责运作这些赛事的机构本身的名称。其总部设于[佛罗里达州](../Page/佛罗里达州.md "wikilink")[杰克逊维尔市郊外的蓬特委德拉海滩](https://zh.wikipedia.org/wiki/杰克逊维尔市 "wikilink")（Ponte
 Vedra Beach）。该组织的名称也经常被表示为全部大写的"**PGA TOUR**"。
 
 ## 沿革
@@ -11,11 +11,11 @@ Tour”[2](http://www.pga.com/pgaofamerica/history/1970-1979.html)。1981年，P
 Tour”，即“巡回赛球员协会”（）的缩写\[1\]。但七个月后这场纠纷得到解决，于是巡回赛名称在1982年3月又改回成“PGA
 Tour”\[2\]。
 
-世界高尔夫球坛存在多个容易混淆的*PGA*。PGA巡回赛并不举办[四大赛和](https://zh.wikipedia.org/wiki/四大赛 "wikilink")[莱德杯](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")。USPGA举办了四大满贯赛之一的**[PGA锦标赛](https://zh.wikipedia.org/wiki/PGA锦标赛 "wikilink")**和[高级PGA锦标赛](https://zh.wikipedia.org/wiki/高级PGA锦标赛 "wikilink")，同时该组织还与**[PGA欧洲巡回赛](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")**联合举办莱德杯赛。另外，PGA巡回赛也不涉及美国女子高尔夫球赛，后者由[女子职业高尔夫球协会](https://zh.wikipedia.org/wiki/女子职业高尔夫球协会 "wikilink")（缩写为“**LPGA**”）运作。PGA巡回赛也并不是美国高尔夫球运动的主管机构，相反，[美国高尔夫球协会](https://zh.wikipedia.org/wiki/美国高尔夫球协会 "wikilink")（，缩写为“USGA”）是美国高尔夫球运动的官方权威机构，其负责举办另一项大满贯赛事“[美国公开赛](https://zh.wikipedia.org/wiki/美国公开赛 "wikilink")”。PGA巡回赛组织的赛事包括1月份至11月份每周均有的巡回赛事，也包括[球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")、[联邦快递杯赛以及两年一度的](https://zh.wikipedia.org/wiki/联邦快递杯 "wikilink")[总统杯等](../Page/总统杯.md "wikilink")。
+世界高尔夫球坛存在多个容易混淆的*PGA*。PGA巡回赛并不举办[四大赛和](https://zh.wikipedia.org/wiki/四大赛 "wikilink")[莱德杯](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")。USPGA举办了四大满贯赛之一的**[PGA锦标赛](https://zh.wikipedia.org/wiki/PGA锦标赛 "wikilink")**和[高级PGA锦标赛](https://zh.wikipedia.org/wiki/高级PGA锦标赛 "wikilink")，同时该组织还与**[PGA欧洲巡回赛](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")**联合举办莱德杯赛。另外，PGA巡回赛也不涉及美国女子高尔夫球赛，后者由[女子职业高尔夫球协会](https://zh.wikipedia.org/wiki/女子职业高尔夫球协会 "wikilink")（缩写为“**LPGA**”）运作。PGA巡回赛也并不是美国高尔夫球运动的主管机构，相反，[美国高尔夫球协会](https://zh.wikipedia.org/wiki/美国高尔夫球协会 "wikilink")（，缩写为“USGA”）是美国高尔夫球运动的官方权威机构，其负责举办另一项大满贯赛事“[美国公开赛](https://zh.wikipedia.org/wiki/美国公开赛 "wikilink")”。PGA巡回赛组织的赛事包括1月份至11月份每周均有的巡回赛事，也包括[球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")、[联邦快递杯赛以及两年一度的](https://zh.wikipedia.org/wiki/联邦快递杯 "wikilink")[总统杯](../Page/总统杯.md "wikilink")等。
 
 ## 系列赛事
 
-PGA巡回赛主要运营美国境内的三项巡回赛，另外还在[加拿大和](../Page/加拿大.md "wikilink")[墨西哥不定期举办赛事](../Page/墨西哥.md "wikilink")。
+PGA巡回赛主要运营美国境内的三项巡回赛，另外还在[加拿大](../Page/加拿大.md "wikilink")和[墨西哥](../Page/墨西哥.md "wikilink")不定期举办赛事。
 
   - **PGA巡回赛**（PGA Tour），顶级赛事；
   - [冠军巡回赛](https://zh.wikipedia.org/wiki/冠军巡回赛 "wikilink")（Champions
@@ -29,10 +29,10 @@ PGA巡回赛主办方还在每年秋天举办一项六轮比赛的资格巡回�
 
 每个赛季末，PGA巡回赛总奖金榜前125位选手可以获得直接晋级下一赛季大部分PGA巡回赛的资格卡，但是有几项邀请赛只对上年度前70名选手提供免资格赛待遇。总奖金榜第126名至150名的选手可以获得优先轮候资格卡，如果前125名选手有空缺某项比赛，他们可以优先顶替这一名额。
 
-赢得一项PGA巡回赛赛事的冠军，就可以获得一张参加今后两年全部巡回赛的资格卡，如再多赢一场，资格卡期限可再增加一年，依此类推，但上限为5年。赢得[世界高尔夫球锦标赛或](../Page/世界高尔夫球锦标赛.md "wikilink")[巡回锦标赛的冠军](https://zh.wikipedia.org/wiki/巡回锦标赛 "wikilink")，则可以获得3年的免资格赛特权。如赢得了四大满贯赛事中任何一项冠军或者[球员锦标赛的冠军](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")，免资格赛特权可达5年。此外还有一些免资格赛特权规定，例如：获得20次以上巡回赛赛事冠军的，可以终生免参加资格赛；列入[生涯奖金榜](https://web.archive.org/web/20070714123708/http://www.pgatour.com/r/stats/current/014.html)前50名但不满足其他免资格赛条件的，可以获得在一年度内的一次免资格赛特权；上述奖金榜前25名的选手可以获得在一年度内的两次免资格赛特权；对于一些因伤病退出赛季的选手，可以使用医疗免资格赛特权而重新获得资格卡。
+赢得一项PGA巡回赛赛事的冠军，就可以获得一张参加今后两年全部巡回赛的资格卡，如再多赢一场，资格卡期限可再增加一年，依此类推，但上限为5年。赢得[世界高尔夫球锦标赛](../Page/世界高尔夫球锦标赛.md "wikilink")或[巡回锦标赛的冠军](https://zh.wikipedia.org/wiki/巡回锦标赛 "wikilink")，则可以获得3年的免资格赛特权。如赢得了四大满贯赛事中任何一项冠军或者[球员锦标赛的冠军](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")，免资格赛特权可达5年。此外还有一些免资格赛特权规定，例如：获得20次以上巡回赛赛事冠军的，可以终生免参加资格赛；列入[生涯奖金榜](https://web.archive.org/web/20070714123708/http://www.pgatour.com/r/stats/current/014.html)前50名但不满足其他免资格赛条件的，可以获得在一年度内的一次免资格赛特权；上述奖金榜前25名的选手可以获得在一年度内的两次免资格赛特权；对于一些因伤病退出赛季的选手，可以使用医疗免资格赛特权而重新获得资格卡。
 
 与其他几项主要运动类似，并没有规则明文禁止女性参加PGA巡回赛。在2003年，Annika Sörenstam和Suzy
-Whaley作为女性代表参加了PGA巡回赛，而[魏圣美在](../Page/魏圣美.md "wikilink")2004年至2008年持续参加了这一巡回赛。但是这三位女选手都未能在比赛中成功晋级至后半段（make
+Whaley作为女性代表参加了PGA巡回赛，而[魏圣美](../Page/魏圣美.md "wikilink")在2004年至2008年持续参加了这一巡回赛。但是这三位女选手都未能在比赛中成功晋级至后半段（make
 the
 cut），其中魏圣美在2004年距离晋级标准仅有一杆之差。与此相反，[美国女子职业高尔夫球协会组织](https://zh.wikipedia.org/wiki/美国女子职业高尔夫球协会 "wikilink")（简称LPGA）与其他女子运动组织一样，其组织的赛事仅限定女性选手参加。
 
@@ -77,14 +77,14 @@ Championship）在同一天举行\[4\]。而2008年，赛事扩展到了[波多�
 
 ### 赛事
 
-2009年PGA巡回赛的常规赛季为45周，共有48个赛事，其中47个为正式带奖金的赛事，包括四项与较高等级赛事在同一天举行的选择性赛事。第48项赛事为[总统杯团体赛](../Page/总统杯.md "wikilink")。大多数职业球员都会选择参加全赛季中的20到30项赛事。巡回赛的举办路线是根据气候变化确定的。赛季初，比赛从温暖的[夏威夷开始](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，之后的2个月在[加利福尼亚州和](../Page/加利福尼亚州.md "wikilink")[亚利桑那州巡回](https://zh.wikipedia.org/wiki/亚利桑那州 "wikilink")（即所谓的西海岸区，West
+2009年PGA巡回赛的常规赛季为45周，共有48个赛事，其中47个为正式带奖金的赛事，包括四项与较高等级赛事在同一天举行的选择性赛事。第48项赛事为[总统杯](../Page/总统杯.md "wikilink")团体赛。大多数职业球员都会选择参加全赛季中的20到30项赛事。巡回赛的举办路线是根据气候变化确定的。赛季初，比赛从温暖的[夏威夷开始](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，之后的2个月在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")和[亚利桑那州巡回](https://zh.wikipedia.org/wiki/亚利桑那州 "wikilink")（即所谓的西海岸区，West
 Coast
 Swing），之后赛事移至美国东南部（即所谓的南部区）。从4月起，巡回赛事开始北上。整个夏季将在东北和中西部地区度过，最后的秋季系列将再次回到南部各州。
 
 大多数赛事中，参赛名额为132、144或156，这取决于每年的不同情况和白昼比赛时间的长短。所有晋级到后半段的选手（make the
 cut）都可以获得多少不等的奖金，而一般冠军的奖金往往可以占总奖金额的18%。
 
-2008年，巡回赛政策委员会决定修改晋级球员的数量。晋级标准仍为前70名（含并列）成绩，除非因并列而产生超过78名以上的晋级球员。如出现这一情况，那么晋级分数线将被调整，即在不超过78名晋级球员的前提下取最接近70名的人数。那些虽然取得70名或更好成绩但仍被新规则淘汰的选手将获得奖金和联邦快递杯积分。这一新规则立即在年初三项赛事中的两项（即[夏威夷索尼公开赛和](https://zh.wikipedia.org/wiki/夏威夷索尼公开赛 "wikilink")[别克邀请赛](https://zh.wikipedia.org/wiki/别克邀请赛 "wikilink")）中得到运用。在2月下旬，政策委员会又对规则进行修正，并在[本田经典赛中首次施行](https://zh.wikipedia.org/wiki/本田经典赛 "wikilink")。最新规则要求在36洞比赛中决出前70名（含并列），但如果这导致晋级球员超过78名，则将根据54洞成绩决出最后的晋级球员名单\[5\]。
+2008年，巡回赛政策委员会决定修改晋级球员的数量。晋级标准仍为前70名（含并列）成绩，除非因并列而产生超过78名以上的晋级球员。如出现这一情况，那么晋级分数线将被调整，即在不超过78名晋级球员的前提下取最接近70名的人数。那些虽然取得70名或更好成绩但仍被新规则淘汰的选手将获得奖金和联邦快递杯积分。这一新规则立即在年初三项赛事中的两项（即[夏威夷索尼公开赛和别克邀请赛](https://zh.wikipedia.org/wiki/夏威夷索尼公开赛 "wikilink")）中得到运用。在2月下旬，政策委员会又对规则进行修正，并在本田经典赛中首次施行。最新规则要求在36洞比赛中决出前70名（含并列），但如果这导致晋级球员超过78名，则将根据54洞成绩决出最后的晋级球员名单\[5\]。
 
 ### 2009年赛程安排
 
@@ -589,7 +589,7 @@ Children's Miracle Network Classic</p></td>
     每年度联邦快递杯赛的最后四项赛事被统称为“季后赛”。经过常规赛的竞争后，获得积分榜前144名的选手将进入[巴克莱高球赛](https://zh.wikipedia.org/wiki/巴克莱高球赛 "wikilink")（the
     Barclays）。之后进入下一项赛事的参赛者将从前一个赛事的参赛者中通过淘汰决定：[德意志银行锦标赛](https://zh.wikipedia.org/wiki/德意志银行锦标赛 "wikilink")（前120名）；[宝马锦标赛](https://zh.wikipedia.org/wiki/宝马锦标赛 "wikilink")（前70名）；[巡回赛锦标赛](https://zh.wikipedia.org/wiki/巡回赛锦标赛 "wikilink")（前30名）。
   - **团体赛**:
-    在单数年份和双数年份，12名美国顶级球手将代表国家队分别参加[莱德杯和](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")[总统杯的角逐](../Page/总统杯.md "wikilink")。莱德杯是美国顶级球员与欧洲顶级球员的集体对抗赛，其知名度和竞技水平不亚于四大赛。而总统杯是美国顶级球员与未参加莱德杯比赛的其他国家地区的顶级球员之间的对抗赛，其知名度略低于莱德杯，但仍是全球高尔夫球坛的一大盛事。这两项赛事都不设奖金，因此与奖金排行榜没有关系，但高尔夫球手均以参加这两项赛事为职业生涯中的无上荣誉。
+    在单数年份和双数年份，12名美国顶级球手将代表国家队分别参加[莱德杯和](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")[总统杯](../Page/总统杯.md "wikilink")的角逐。莱德杯是美国顶级球员与欧洲顶级球员的集体对抗赛，其知名度和竞技水平不亚于四大赛。而总统杯是美国顶级球员与未参加莱德杯比赛的其他国家地区的顶级球员之间的对抗赛，其知名度略低于莱德杯，但仍是全球高尔夫球坛的一大盛事。这两项赛事都不设奖金，因此与奖金排行榜没有关系，但高尔夫球手均以参加这两项赛事为职业生涯中的无上荣誉。
   - **常规赛**:
     除上述各种比赛外，于每周举行的固定赛事。各项赛事在知名度和参与度上有所区别，这并不一定取决于赛事的奖金多少。一般下列因素会影响赛事的水平：
       - 赛事在年度日程中的位置。顶级球员往往为了不与重大赛事冲突，而选择性地参加某些赛事。
@@ -736,7 +736,7 @@ Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏�
 <td><p>2018</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·托馬斯" title="wikilink">賈斯汀·托馬斯Justin</a> Thomas (2/2)</p></td>
 <td><p>8,694,821</p></td>
-<td><p>3: <a href="../Page/布萊森·德尚布.md" title="wikilink">布萊森·德尚布Bryson</a> DeChambeau, <a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson, <a href="https://zh.wikipedia.org/wiki/賈斯汀·托馬斯" title="wikilink">賈斯汀·托馬斯</a> Justin Thomas, <a href="../Page/巴巴·沃森.md" title="wikilink">巴巴·沃森</a> Bubba Watson</p></td>
+<td><p>3: <a href="../Page/布萊森·德尚布.md" title="wikilink">布萊森·德尚布</a>Bryson DeChambeau, <a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson, <a href="https://zh.wikipedia.org/wiki/賈斯汀·托馬斯" title="wikilink">賈斯汀·托馬斯</a> Justin Thomas, <a href="../Page/巴巴·沃森.md" title="wikilink">巴巴·沃森</a> Bubba Watson</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
@@ -748,13 +748,13 @@ Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏�
 <td><p>2016</p></td>
 <td><p><a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson</p></td>
 <td><p>9,365,185</p></td>
-<td><p>3: <a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊Jason</a> Day, <a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson</p></td>
+<td><p>3: <a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊</a>Jason Day, <a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson</p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
+<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思</a>Jordan Spieth</p></td>
 <td><p>12,030,465</p></td>
-<td><p>5: <a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊Jason</a> Day, <a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
+<td><p>5: <a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊</a>Jason Day, <a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思</a>Jordan Spieth</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
@@ -784,7 +784,7 @@ Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏�
 <td><p>2010</p></td>
 <td><p><a href="../Page/馬特·庫查爾.md" title="wikilink">馬特·庫查爾</a> Matt Kuchar</p></td>
 <td><p>4,910,477</p></td>
-<td><p>3: <a href="../Page/吉姆·弗里克.md" title="wikilink">吉姆·弗里克Jim</a> Furyk</p></td>
+<td><p>3: <a href="../Page/吉姆·弗里克.md" title="wikilink">吉姆·弗里克</a>Jim Furyk</p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
@@ -1449,8 +1449,8 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
-<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
+<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思</a>Jordan Spieth</p></td>
+<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思</a>Jordan Spieth</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1465,7 +1465,7 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 <td><p>2013</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰格·伍兹" title="wikilink">泰格·伍兹</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰格·伍兹" title="wikilink">泰格·伍兹</a></p></td>
-<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
+<td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思</a>Jordan Spieth</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1491,8 +1491,8 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="../Page/吉姆·弗里克.md" title="wikilink">吉姆·弗里克Jim</a> Furyk</p></td>
-<td><p><a href="../Page/吉姆·弗里克.md" title="wikilink">吉姆·弗里克Jim</a> Furyk</p></td>
+<td><p><a href="../Page/吉姆·弗里克.md" title="wikilink">吉姆·弗里克</a>Jim Furyk</p></td>
+<td><p><a href="../Page/吉姆·弗里克.md" title="wikilink">吉姆·弗里克</a>Jim Furyk</p></td>
 <td></td>
 <td></td>
 </tr>

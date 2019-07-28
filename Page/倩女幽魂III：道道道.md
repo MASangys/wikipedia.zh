@@ -1,8 +1,8 @@
-是一套1991年拍攝的[港產片](https://zh.wikipedia.org/wiki/港產片 "wikilink")，是1987年的另一套鬼故事電影《[倩女幽魂](../Page/倩女幽魂_\(1987年電影\).md "wikilink")》的延續，同樣由[程小東導演](../Page/程小東.md "wikilink")、[徐克監製](../Page/徐克.md "wikilink")。
+是一套1991年拍攝的[港產片](https://zh.wikipedia.org/wiki/港產片 "wikilink")，是1987年的另一套鬼故事電影《[倩女幽魂](../Page/倩女幽魂_\(1987年電影\).md "wikilink")》的延續，同樣由[程小東](../Page/程小東.md "wikilink")導演、[徐克](../Page/徐克.md "wikilink")監製。
 
 ## 劇情
 
-故事為緊接[倩女幽魂中燕赤霞及寧采臣二人合力將千年树妖暫時封印後的故事](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。一百年後，小和尚十方（[梁朝伟飾](https://zh.wikipedia.org/wiki/梁朝伟 "wikilink")）随师父白云（[劉洵飾](https://zh.wikipedia.org/wiki/劉洵_\(香港演員\) "wikilink")）护送金佛，在[兰若寺遇到女鬼小卓](https://zh.wikipedia.org/wiki/兰若寺 "wikilink")（[王祖贤飾](https://zh.wikipedia.org/wiki/王祖贤 "wikilink")）与小蝶（[利智飾](../Page/利智.md "wikilink")）。十方放走小卓，但白云却被復活了的千年树妖所擒。千年树妖逼小卓嫁给黑山老妖，小卓向十方求助，十方掘出小卓骸骨逃出兰若寺，并在剑侠燕赤霞（[张学友飾](../Page/张学友.md "wikilink")）的帮助下救出师父。在斗法中燕赤霞与高僧白云合力消灭了千年树妖，但此时黑山老妖卻欲将其一网打尽。十方唯有化成佛祖金身，由小卓带着飞上天空接太阳纯阳之气，借以消灭老妖。
+故事為緊接[倩女幽魂中燕赤霞及寧采臣二人合力將千年树妖暫時封印後的故事](../Page/倩女幽魂_\(1987年電影\).md "wikilink")。一百年後，小和尚十方（[梁朝伟飾](https://zh.wikipedia.org/wiki/梁朝伟 "wikilink")）随师父白云（[劉洵飾](https://zh.wikipedia.org/wiki/劉洵_\(香港演員\) "wikilink")）护送金佛，在[兰若寺遇到女鬼小卓](https://zh.wikipedia.org/wiki/兰若寺 "wikilink")（[王祖贤飾](https://zh.wikipedia.org/wiki/王祖贤 "wikilink")）与小蝶（[利智](../Page/利智.md "wikilink")飾）。十方放走小卓，但白云却被復活了的千年树妖所擒。千年树妖逼小卓嫁给黑山老妖，小卓向十方求助，十方掘出小卓骸骨逃出兰若寺，并在剑侠燕赤霞（[张学友](../Page/张学友.md "wikilink")飾）的帮助下救出师父。在斗法中燕赤霞与高僧白云合力消灭了千年树妖，但此时黑山老妖卻欲将其一网打尽。十方唯有化成佛祖金身，由小卓带着飞上天空接太阳纯阳之气，借以消灭老妖。
 
 ## 人物角色
 

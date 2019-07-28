@@ -1,4 +1,4 @@
-**XML-RPC**是一個[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")（[遠端程序呼叫](https://zh.wikipedia.org/wiki/遠端程序呼叫 "wikilink")）（)的[分布式计算](../Page/分布式计算.md "wikilink")[協議](https://zh.wikipedia.org/wiki/互聯網協議 "wikilink")，通过[XML将调用函数封装](../Page/XML.md "wikilink")，並使用[HTTP协议作為傳送機制](../Page/超文本传输协议.md "wikilink")。\[1\]
+**XML-RPC**是一個[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")（[遠端程序呼叫](https://zh.wikipedia.org/wiki/遠端程序呼叫 "wikilink")）（)的[分布式计算](../Page/分布式计算.md "wikilink")[協議](https://zh.wikipedia.org/wiki/互聯網協議 "wikilink")，通过[XML](../Page/XML.md "wikilink")将调用函数封装，並使用[HTTP协议作為傳送機制](../Page/超文本传输协议.md "wikilink")。\[1\]
 
 ## 歷史
 

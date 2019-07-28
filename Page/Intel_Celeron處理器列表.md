@@ -1875,7 +1875,7 @@ mcbA0</p></td>
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
     64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")*
-  - 雙核心系列支援[SSSE3及](../Page/SSSE3.md "wikilink")[XD
+  - 雙核心系列支援[SSSE3](../Page/SSSE3.md "wikilink")及[XD
     bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 <table>
@@ -2095,7 +2095,7 @@ mcbA0</p></td>
 #### "Sandy Bridge" (32 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2493,7 +2493,7 @@ SR0EA (Q0)</p></td>
 #### "[Ivy Bridge](../Page/Ivy_Bridge微架構.md "wikilink")" (22 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2527,7 +2527,7 @@ SR0EA (Q0)</p></td>
 #### "Haswell-MB" (22 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2545,7 +2545,7 @@ SR0EA (Q0)</p></td>
 #### "Haswell-ULT" ([SiP](https://zh.wikipedia.org/wiki/SiP "wikilink"), 22 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2566,7 +2566,7 @@ SR0EA (Q0)</p></td>
 #### "Haswell-ULX" (Sip, 22 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2583,7 +2583,7 @@ SR0EA (Q0)</p></td>
 #### "Haswell-H" (22 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2682,7 +2682,7 @@ SR0EA (Q0)</p></td>
 #### "Broadwell-U" (14 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2707,7 +2707,7 @@ SR0EA (Q0)</p></td>
 #### “Bay Trail-M" (22 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2970,7 +2970,7 @@ SR1HQ (B2)</p></td>
 #### "Braswell" (14 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、
@@ -2998,7 +2998,7 @@ SR1HQ (B2)</p></td>
 "Skylake-U" (14 nm)
 
   - 支持:
-    *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
+    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
     [SSE2](../Page/SSE2.md "wikilink")、
     [SSE3](../Page/SSE3.md "wikilink")、
     [SSSE3](../Page/SSSE3.md "wikilink")、

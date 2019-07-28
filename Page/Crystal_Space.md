@@ -1,5 +1,5 @@
 **Crystal
-Space**是[3D构架](https://zh.wikipedia.org/wiki/3D "wikilink")，用[C++语言编写](../Page/C++.md "wikilink")。开发者包括[Jorrit
+Space**是[3D构架](https://zh.wikipedia.org/wiki/3D "wikilink")，用[C++](../Page/C++.md "wikilink")语言编写。开发者包括[Jorrit
 Tyberghein](https://zh.wikipedia.org/wiki/Jorrit_Tyberghein "wikilink")。首个公开版本发布于1997年8月26日\[1\]通常用于电子游戏目的。是使用[GNU
 Lesser General Public
 License协议的](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink")[自由软件](../Page/自由软件.md "wikilink")，作为[SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")
@@ -11,7 +11,7 @@ License协议的](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_Licens
 ## 引擎设计
 
 Crystal
-Space使用[面向对象程序设计C](../Page/面向对象程序设计.md "wikilink")++编写。模块化程度高，多少的独立插件。[客户端程序通过Crystal](https://zh.wikipedia.org/wiki/客户端程序 "wikilink")
+Space使用[面向对象程序设计](../Page/面向对象程序设计.md "wikilink")C++编写。模块化程度高，多少的独立插件。[客户端程序通过Crystal](https://zh.wikipedia.org/wiki/客户端程序 "wikilink")
 Space的*Shared Class
 Facility*（SCF）使用[插件](../Page/插件.md "wikilink")，比如OpenGL
 3D渲染器，.
@@ -19,10 +19,10 @@ Facility*（SCF）使用[插件](../Page/插件.md "wikilink")，比如OpenGL
 ## 特性
 
 Crystal
-Space拥有2D和3D模块，声音，物理特性由[ODE或](../Page/Open_Dynamics_Engine.md "wikilink")[Bullet支持](../Page/Bullet.md "wikilink")。
+Space拥有2D和3D模块，声音，物理特性由[ODE或](../Page/Open_Dynamics_Engine.md "wikilink")[Bullet](../Page/Bullet.md "wikilink")支持。
 
   - Graphics:
-      - [OpenGL渲染](../Page/OpenGL.md "wikilink")
+      - [OpenGL](../Page/OpenGL.md "wikilink")渲染
       - 支持主流显卡厂商产品的[硬件加速](../Page/硬件加速.md "wikilink")
       - 可以用[着色器](../Page/着色器.md "wikilink")
 

@@ -1,4 +1,25 @@
-《**Style**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2009年8月1日起播放的[週末連續劇](../Page/SBS週末連續劇.md "wikilink")，改編[白英旭同名小說](https://zh.wikipedia.org/wiki/白英旭 "wikilink")。[馬來西亞和](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[中国大陆](../Page/中国大陆.md "wikilink")[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")《**風格**》，分别於[八度空間和](https://zh.wikipedia.org/wiki/八度空間_\(電視台\) "wikilink")[江西卫视首播](../Page/江西卫视.md "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")《**我的老闆是惡魔**》，於[中天綜合台首播](../Page/中天綜合台.md "wikilink")。
+| original_name =  | image =
+[Style_sbs.jpg](https://zh.wikipedia.org/wiki/File:Style_sbs.jpg "fig:Style_sbs.jpg")
+| caption = | genre = | format = | creator = | based_on =
+[白英旭小說](https://zh.wikipedia.org/wiki/白英旭 "wikilink")《Style》 |
+developer = | writer =
+[文智英](https://zh.wikipedia.org/wiki/文智英 "wikilink")、[具智媛](https://zh.wikipedia.org/wiki/具智媛 "wikilink")
+| director = [吳鍾錄](../Page/吳鍾錄.md "wikilink") | creative_director = |
+presenter = | starring =
+[金慧秀](https://zh.wikipedia.org/wiki/金慧秀 "wikilink")、[柳時元](../Page/柳時元.md "wikilink")、[李智雅](../Page/李智雅.md "wikilink")、
+[李龍宇](../Page/李龍宇.md "wikilink") | slogan = | theme_music_composer = |
+opentheme = | endtheme = | composer = | country =  | language =
+[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
+num_episodes = 16 | list_episodes = | location = | runtime = | company
+= 知談株式會社 (Jidam Inc.) | distributor = | channel =
+[SBS](../Page/SBS_\(韓國\).md "wikilink") | picture_format = |
+audio_format = | first_run =  | first_aired =  | last_aired =  |
+preceded_by = | followed_by = | related = | website =
+<http://tv.sbs.co.kr/style/> | production_website = | 中國大陸名稱 = 风格 |
+台灣名稱 = 我的老闆是惡魔 | 港澳名稱 = 潮拜惡魔（香港有線電視）
+Style（香港電視網絡） | 新加坡名稱 = 風格 Style | 馬來西亞名稱 = 風格 Style }}
+
+《**Style**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2009年8月1日起播放的[週末連續劇](../Page/SBS週末連續劇.md "wikilink")，改編[白英旭同名小說](https://zh.wikipedia.org/wiki/白英旭 "wikilink")。[馬來西亞和](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[中国大陆](../Page/中国大陆.md "wikilink")[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")《**風格**》，分别於[八度空間和](https://zh.wikipedia.org/wiki/八度空間_\(電視台\) "wikilink")[江西卫视](../Page/江西卫视.md "wikilink")首播，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")《**我的老闆是惡魔**》，於[中天綜合台](../Page/中天綜合台.md "wikilink")首播。
 
 ## 演出陣容
 

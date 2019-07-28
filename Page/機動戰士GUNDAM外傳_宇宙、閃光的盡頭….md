@@ -5,13 +5,13 @@
 
 [U.C.](../Page/宇宙世紀.md "wikilink")0079[一年戰爭末期](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")，地球聯邦軍從[查布羅把大量艦艇送往宇宙](https://zh.wikipedia.org/wiki/查布羅 "wikilink")，準備參與對自護公國的反攻。在眾多的艦艇當中，除了著名的第13獨立部隊旗艦、[飛馬級-{zh-tw:兩棲突擊艦;zh-hk:兩棲突擊艦;zh-cn:两栖攻击舰;}-](https://zh.wikipedia.org/wiki/飛馬級 "wikilink")「[白色基地](../Page/白色基地.md "wikilink")」和其他將會作為宇宙艦隊的中心部隊而先行出發的艦艇外，還有同屬[飛馬級-{zh-tw:兩棲突擊艦;zh-hk:兩棲突擊艦;zh-cn:两栖攻击舰;}-的](https://zh.wikipedia.org/wiki/飛馬級 "wikilink")「純種駿馬」，並以其作為旗艦成立的「第16獨立部隊」。
 
-故事是以[地球聯邦軍特務部隊](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")——「第16獨立部隊」為主軸。部隊以其潛伏能力及搭載的高達4號機和高達5號機作為主要戰鬥力，主要目的是伏擊自護軍部隊，阻止[自護公國從月面基地格拉那達派兵增援](https://zh.wikipedia.org/wiki/自護公國 "wikilink")[自護公國的要塞](https://zh.wikipedia.org/wiki/自護公國 "wikilink")[所羅門和](../Page/所羅門.md "wikilink")[阿·巴瓦·空](https://zh.wikipedia.org/wiki/阿·巴瓦·空 "wikilink")，讓聯邦軍可以攻下這兩個自護軍的重要防禦據點，並最終攻進自護公國而結束戰爭，因此，與自護軍負責守衛增援路線的特務部隊展開多場戰鬥。
+故事是以[地球聯邦軍特務部隊](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")——「第16獨立部隊」為主軸。部隊以其潛伏能力及搭載的高達4號機和高達5號機作為主要戰鬥力，主要目的是伏擊自護軍部隊，阻止[自護公國從月面基地格拉那達派兵增援](https://zh.wikipedia.org/wiki/自護公國 "wikilink")[自護公國的要塞](https://zh.wikipedia.org/wiki/自護公國 "wikilink")[所羅門](../Page/所羅門.md "wikilink")和[阿·巴瓦·空](https://zh.wikipedia.org/wiki/阿·巴瓦·空 "wikilink")，讓聯邦軍可以攻下這兩個自護軍的重要防禦據點，並最終攻進自護公國而結束戰爭，因此，與自護軍負責守衛增援路線的特務部隊展開多場戰鬥。
 
 ## 作品解說
 
 [PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《[機動戰士鋼彈
-宇宙相逢篇](https://zh.wikipedia.org/wiki/機動戰士鋼彈_宇宙相逢篇 "wikilink")》是同名高達[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[機動戰士GUNDAMIII
-宇宙相逢篇](../Page/機動戰士GUNDAM.md "wikilink")》遊戲化的作品。再現電影的故事形式之外，又加上作為遊戲的原創故事以外傳故事方式收錄的作品。到現在為止的機動戰士高達外傳系列是完全新作原創故事。本作品[BANDAI發行的雜誌](https://zh.wikipedia.org/wiki/BANDAI "wikilink")「SD俱樂部」連載的規劃『[大河原邦男收集系列](../Page/大河原邦男.md "wikilink")』（機動戰士收集系列、M-MSV），而且附帶的小說《機動戰士收集系列小說》把第三幕〈阿·巴瓦·空攻防戰〉作為原作參考。
+宇宙相逢篇](https://zh.wikipedia.org/wiki/機動戰士鋼彈_宇宙相逢篇 "wikilink")》是同名高達[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[機動戰士GUNDAM
+宇宙相逢篇](../Page/機動戰士GUNDAM.md "wikilink")III》遊戲化的作品。再現電影的故事形式之外，又加上作為遊戲的原創故事以外傳故事方式收錄的作品。到現在為止的機動戰士高達外傳系列是完全新作原創故事。本作品[BANDAI發行的雜誌](https://zh.wikipedia.org/wiki/BANDAI "wikilink")「SD俱樂部」連載的規劃『[大河原邦男](../Page/大河原邦男.md "wikilink")收集系列』（機動戰士收集系列、M-MSV），而且附帶的小說《機動戰士收集系列小說》把第三幕〈阿·巴瓦·空攻防戰〉作為原作參考。
 
 同時，本作以前的機動戰士高達外傳系列都作為外傳獨立形式的遊戲發售，以作為按遊戲內的輔助故事附隨的形式被發表的本作品成為第一次。但機動戰士高達外傳系列，如果也有把[Super
 Famicon的遊戲](https://zh.wikipedia.org/wiki/Super_Famicon "wikilink")「機動戰士高達
@@ -150,7 +150,7 @@ CROSS DIMENSION 0079」收錄「對死去的人們祈禱」列為正傳遊戲包
 <!-- end list -->
 
   -
-    在[機動戰士高達登場](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")，是一年戰爭期間的[自護公國首相](../Page/吉翁公國.md "wikilink")。但實際上，由於國家的實權掌握在[薩比家長男基連](../Page/薩比家.md "wikilink")．薩比的手上，他本人只不過是個傀儡，然而面對基連強硬的政策卻經常唱反調。因些，在戰爭未期協助提倡和平的迪金公王逝去後，他建立自護共和國，並以代表身份，與[地球聯邦軍政府進行和平條約的簽約的簽定](https://zh.wikipedia.org/wiki/地球聯邦#地球聯邦軍 "wikilink")。
+    在[機動戰士高達登場](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")，是一年戰爭期間的[自護公國首相](../Page/吉翁公國.md "wikilink")。但實際上，由於國家的實權掌握在[薩比家](../Page/薩比家.md "wikilink")長男基連．薩比的手上，他本人只不過是個傀儡，然而面對基連強硬的政策卻經常唱反調。因些，在戰爭未期協助提倡和平的迪金公王逝去後，他建立自護共和國，並以代表身份，與[地球聯邦軍政府進行和平條約的簽約的簽定](https://zh.wikipedia.org/wiki/地球聯邦#地球聯邦軍 "wikilink")。
 
 <!-- end list -->
 
@@ -264,8 +264,8 @@ CROSS DIMENSION 0079」收錄「對死去的人們祈禱」列為正傳遊戲包
 
   - 有關if編的故事
 
-由於遊戲有不同的結局，在[夏元雅人在繪畫單行本第](../Page/夏元雅人.md "wikilink")2卷的時候就採用的是普通路綫的結局，即是高達4號機爆炸魯斯．克塞爾陣亡，弗特．羅姆菲洛生存的一般結局。以魯斯．克塞爾和弗特．羅姆菲洛兩人皆存活的Happy
-Ending路綫，由於劇情也挺充實，所以[夏元雅人在漫畫裹也保留了下來](../Page/夏元雅人.md "wikilink")，加入了單行本第3卷if編。
+由於遊戲有不同的結局，在[夏元雅人](../Page/夏元雅人.md "wikilink")在繪畫單行本第2卷的時候就採用的是普通路綫的結局，即是高達4號機爆炸魯斯．克塞爾陣亡，弗特．羅姆菲洛生存的一般結局。以魯斯．克塞爾和弗特．羅姆菲洛兩人皆存活的Happy
+Ending路綫，由於劇情也挺充實，所以[夏元雅人](../Page/夏元雅人.md "wikilink")在漫畫裹也保留了下來，加入了單行本第3卷if編。
 
 ## 相關作品
 

@@ -9,8 +9,8 @@ BLAZE》是由水樹奈奈所演出的動畫《[魔法少女奈葉A's](https://z
 
 ## 排行榜成績
 
-[Oricon的](../Page/Oricon.md "wikilink")2005年10月18日當日排名第2名，刷新自己在[innocent
-starter所獲得的日排名第](https://zh.wikipedia.org/wiki/innocent_starter "wikilink")8名紀錄。同時亦創下周排名第2名的成績（至同年10月25日），刷新之前[林原惠以聲優個人名義創第](../Page/林原惠.md "wikilink")3名的紀錄（《[Northern
+[Oricon](../Page/Oricon.md "wikilink")的2005年10月18日當日排名第2名，刷新自己在[innocent
+starter所獲得的日排名第](https://zh.wikipedia.org/wiki/innocent_starter "wikilink")8名紀錄。同時亦創下周排名第2名的成績（至同年10月25日），刷新之前[林原惠](../Page/林原惠.md "wikilink")以聲優個人名義創第3名的紀錄（《[Northern
 lights](../Page/Northern_lights.md "wikilink")》）\[1\]。初動23000張\[2\]的成績亦大幅超越自己在《[WILD
 EYES](../Page/WILD_EYES.md "wikilink")》的記錄，並超越《innocent
 starter》所累積的唱片數量。周間排名在榜上15個禮拜。另外，收錄本作的原創專輯《[HYBRID

@@ -1,5 +1,5 @@
 **Java认证和授权服务**（**Java Authentication and Authorization
-Service**，简称**JAAS**）是一个[Java以用户为中心的安全框架](../Page/Java.md "wikilink")，作为Java以代码为中心的安全的补充。自[Java运行环境（JRE）](../Page/Java虚拟机.md "wikilink")
+Service**，简称**JAAS**）是一个[Java](../Page/Java.md "wikilink")以用户为中心的安全框架，作为Java以代码为中心的安全的补充。自[Java运行环境（JRE）](../Page/Java虚拟机.md "wikilink")
 1.4起，JAAS就被集成到JRE，而之前是作为一个扩展库由Sun公司提供的。
 
 JAAS的主要目標是分開使用者認證的議題，這樣就可以個別地管理他們。

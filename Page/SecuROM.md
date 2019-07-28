@@ -1,6 +1,6 @@
 **SecuROM**
 是一个保护[CD](../Page/CD.md "wikilink")／[DVD版权的产品](https://zh.wikipedia.org/wiki/DVD "wikilink")，由开发。常用于保护[Microsoft
-Windows下运行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")。SecuROM旨在阻止家用刻录机、光盘拷贝机和[逆向工程技术的企图](../Page/逆向工程.md "wikilink")。最新的版本（第4版或更高）在防止1:1的[CD-R拷贝已经取得一定进展](https://zh.wikipedia.org/wiki/CD-R "wikilink")。但某些程序仍可以绕过保护。使用SecuROM是很有争议的，因为保护程序在某些方面有类似恶意软件的行为，并且SecuROM会在用户并不知情的情况自动安装到你的电脑。[EA因这个问题曾被提起诉讼](https://zh.wikipedia.org/wiki/EA "wikilink")\[1\]。
+Windows下运行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")。SecuROM旨在阻止家用刻录机、光盘拷贝机和[逆向工程](../Page/逆向工程.md "wikilink")技术的企图。最新的版本（第4版或更高）在防止1:1的[CD-R拷贝已经取得一定进展](https://zh.wikipedia.org/wiki/CD-R "wikilink")。但某些程序仍可以绕过保护。使用SecuROM是很有争议的，因为保护程序在某些方面有类似恶意软件的行为，并且SecuROM会在用户并不知情的情况自动安装到你的电脑。[EA因这个问题曾被提起诉讼](https://zh.wikipedia.org/wiki/EA "wikilink")\[1\]。
 
 ## SecuROM的版本及检测技术
 
@@ -69,11 +69,11 @@ interface tcp set global ecncapability=disabled`禁用ECN。
 
 ### 生化奇兵和Rootkit
 
-[生化奇兵采用SecuROM保护](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")，使用了[Rootkit技术来防止盗版](../Page/Rootkit.md "wikilink")，使用检测工具来检测Rootkit的是很困难的，因为这些原因，Rootkit可能被用于隐藏恶意程序。
+[生化奇兵采用SecuROM保护](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")，使用了[Rootkit](../Page/Rootkit.md "wikilink")技术来防止盗版，使用检测工具来检测Rootkit的是很困难的，因为这些原因，Rootkit可能被用于隐藏恶意程序。
 
 ### 模拟人生
 
-[模拟人生2和它一些附带产品先前使用SafeDisc保护](../Page/模拟人生2.md "wikilink")。直到2007年4月，从[模拟人生2
+[模拟人生2](../Page/模拟人生2.md "wikilink")和它一些附带产品先前使用SafeDisc保护。直到2007年4月，从[模拟人生2
 宠物物语使用SecuROM](../Page/模拟人生2.md "wikilink") 7.x取代了SafeDisc。这包括[模拟人生2
 孤岛物语](../Page/模拟人生2.md "wikilink")，[模拟人生2
 特别版等](../Page/模拟人生2.md "wikilink")。
@@ -93,7 +93,7 @@ EA在2008年9月7号发布的[Spore中使用了SecuROM](https://zh.wikipedia.org
 
 ### 圣域2：堕落天使
 
-10月2日在欧洲公布的[圣域2：堕落天使将使用SecuROM](../Page/圣域2：堕落天使.md "wikilink")。开发商Ascaron宣布，SecuROM将与圣域2一同安装，并需要在进一步安装时激活。一旦安装过程完成后，游戏DVD不再需要放在光盘驱动器内。圣域2的每份拷贝最多允许有两名玩家激活单人模式和局域网模式，一名玩家激活联网模式。不过人们最近发现，上述版本的SecuROM在游戏中引起了一些技术问题，这些问题只能通过重新格式化系统解决。
+10月2日在欧洲公布的[圣域2：堕落天使](../Page/圣域2：堕落天使.md "wikilink")将使用SecuROM。开发商Ascaron宣布，SecuROM将与圣域2一同安装，并需要在进一步安装时激活。一旦安装过程完成后，游戏DVD不再需要放在光盘驱动器内。圣域2的每份拷贝最多允许有两名玩家激活单人模式和局域网模式，一名玩家激活联网模式。不过人们最近发现，上述版本的SecuROM在游戏中引起了一些技术问题，这些问题只能通过重新格式化系统解决。
 
 ### 辐射3
 

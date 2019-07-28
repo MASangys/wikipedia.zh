@@ -4,7 +4,7 @@
 ## 设计特点
 
 斯泰爾MPi
-69在形狀上和其他的[包絡式槍機](../Page/包絡式槍機.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（例如[烏茲衝鋒槍和](../Page/烏茲衝鋒槍.md "wikilink")[MAC-10衝鋒槍](../Page/MAC-10衝鋒槍.md "wikilink")）相近，採用輕型[钢板沖壓及](../Page/钢.md "wikilink")[焊接工藝製造矩型金屬管內部](../Page/焊接.md "wikilink")[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。它裝有一個垂直型工程[塑料製造](../Page/塑料.md "wikilink")，25、32發可拆卸式雙排[彈匣從其底部插入](../Page/彈匣.md "wikilink")。[護木和垂直型握把都是大量使用工程](https://zh.wikipedia.org/wiki/護木 "wikilink")[塑料部件製成](../Page/塑料.md "wikilink")，作為了武器的前端和中心的底部。在[扳機後上方設置了](https://zh.wikipedia.org/wiki/扳機 "wikilink")[快慢機](../Page/擊發調變槍械.md "wikilink")，可以在安全、全自動和半自動三個模式間切換。它還裝有一個[槍托](../Page/槍托.md "wikilink")。
+69在形狀上和其他的[包絡式槍機](../Page/包絡式槍機.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（例如[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")和[MAC-10衝鋒槍](../Page/MAC-10衝鋒槍.md "wikilink")）相近，採用輕型[钢](../Page/钢.md "wikilink")板沖壓及[焊接](../Page/焊接.md "wikilink")工藝製造矩型金屬管內部[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")。它裝有一個垂直型工程[塑料](../Page/塑料.md "wikilink")製造，25、32發可拆卸式雙排[彈匣](../Page/彈匣.md "wikilink")從其底部插入。[護木和垂直型握把都是大量使用工程](https://zh.wikipedia.org/wiki/護木 "wikilink")[塑料](../Page/塑料.md "wikilink")部件製成，作為了武器的前端和中心的底部。在[扳機後上方設置了](https://zh.wikipedia.org/wiki/扳機 "wikilink")[快慢機](../Page/擊發調變槍械.md "wikilink")，可以在安全、全自動和半自動三個模式間切換。它還裝有一個[槍托](../Page/槍托.md "wikilink")。
 
 斯泰爾MPi
 69採用[開放式槍栓](../Page/開放式槍栓.md "wikilink")，在待擊狀態以下，子彈仍未上膛，而槍機被卡在後方。當扣動扳機後槍機被放開並且運動向前進，推動彈匣上首發子彈上膛並且將子彈發射出去。子彈射出以後，再將槍機後推，彈出空彈殼，循環操作準備射擊下一顆子彈。
@@ -19,7 +19,7 @@
 
 1969年，斯泰爾MPi
 69開始生產，產品線後來被[斯泰爾TMP所取代](../Page/斯泰爾TMP衝鋒槍.md "wikilink")，共維持11年。1990年代，斯泰爾TMP也被下令停產，並把TMP的設計賣給，成為[B\&T
-MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")。目前，斯泰爾還生產的[冲锋枪是](../Page/冲锋枪.md "wikilink")[斯泰爾AUG突擊步槍的](../Page/斯泰爾AUG突擊步槍.md "wikilink")[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑型](https://zh.wikipedia.org/wiki/口徑 "wikilink")（AUG
+MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")。目前，斯泰爾還生產的[冲锋枪](../Page/冲锋枪.md "wikilink")是[斯泰爾AUG突擊步槍](../Page/斯泰爾AUG突擊步槍.md "wikilink")的[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑型](https://zh.wikipedia.org/wiki/口徑 "wikilink")（AUG
 SMG／AUG Para）。
 
 ## 衍生型

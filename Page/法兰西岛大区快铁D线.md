@@ -1,12 +1,12 @@
 **法兰西岛大区快铁D线** ([法语](../Page/法语.md "wikilink"): Ligne D du RER
 d'Île-de-France), 简称RER D,
-是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁的一条贯通](../Page/法兰西岛大区快铁.md "wikilink")[巴黎市郊南北走向的线路](../Page/巴黎.md "wikilink")，具有多个分支和节点。该线路连接北部的
-(Orry-la-Ville - Coye, D1分支), [克雷伊](../Page/克雷伊.md "wikilink") (Creil,
-D3分支), 以及东南部的[默伦](../Page/默伦.md "wikilink") (Melun,
-D2分支)，[马勒舍布](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink")
+是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁](../Page/法兰西岛大区快铁.md "wikilink")的一条贯通[巴黎](../Page/巴黎.md "wikilink")市郊南北走向的线路，具有多个支線和节点。该线路连接北部的
+(Orry-la-Ville - Coye, D1支線), [克雷伊](../Page/克雷伊.md "wikilink") (Creil,
+D3支線), 以及东南部的[默伦](../Page/默伦.md "wikilink") (Melun,
+D2支線)，[马勒舍布](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink")
 (Malesherbes,
-D4分支)，以及[维埃勒贝尔](https://zh.wikipedia.org/wiki/维埃勒贝尔 "wikilink")（D5分支)，[科贝－埃松](https://zh.wikipedia.org/wiki/科贝－埃松 "wikilink")（D6分支）和[古桑维尔](https://zh.wikipedia.org/wiki/古桑维尔 "wikilink")（D7分支）。穿越巴黎市中心.
-D1, D3和D4分支等多个车站在法兰西岛之外,
+D4支線)，以及[维埃勒贝尔](https://zh.wikipedia.org/wiki/维埃勒贝尔 "wikilink")（D5支線)，[科贝－埃松](https://zh.wikipedia.org/wiki/科贝－埃松 "wikilink")（D6支線）和[古桑维尔](https://zh.wikipedia.org/wiki/古桑维尔 "wikilink")（D7支線）。穿越巴黎市中心.
+D1, D3和D4支線等多个车站在法兰西岛之外,
 市区三个车站均可转乘[巴黎地铁或其他法兰西岛大区快铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")。
 
 RER D线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")
@@ -19,7 +19,7 @@ RER D线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法
 修建RER D的想法始于1970年代, 当时准备在东西快线 ([A线](../Page/法兰西岛大区快铁A线.md "wikilink"))
 和南北快线 ([B线](../Page/法兰西岛大区快铁B线.md "wikilink")) 之间修第三条线相连,
 经过对区域交通流量状况的研究,
-当局决定以[巴黎北站的](../Page/巴黎北站.md "wikilink")[北部路网和](../Page/巴黎北线.md "wikilink")[里昂车站的](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[东南路网构建快铁线](../Page/巴黎里昂线.md "wikilink").
+当局决定以[巴黎北站](../Page/巴黎北站.md "wikilink")的[北部路网和](../Page/巴黎北线.md "wikilink")[里昂车站的](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[东南路网构建快铁线](../Page/巴黎里昂线.md "wikilink").
 1980年代末至1990年代中叶, 经多次延长, 最终成型.
 
 ### 固有路网的修建
@@ -27,8 +27,8 @@ RER D线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法
 #### 北部路网
 
 1846年,
-巴黎到[里尔的](../Page/里尔.md "wikilink")[铁路投入使用](https://zh.wikipedia.org/wiki/铁路 "wikilink"),
-后来其中一部分成为D1分支和D3分支. 1981年,
+巴黎到[里尔](../Page/里尔.md "wikilink")的[铁路投入使用](https://zh.wikipedia.org/wiki/铁路 "wikilink"),
+后来其中一部分成为D1支線和D3支線. 1981年,
 [夏特雷-大堂站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")
 (Châtelet - Les Halles) 和巴黎北站之间的隧道启用, 当时供RER B线使用. 而之前,
 夏特雷-大堂站亦预留了三条路轨供计划中的新RER线路使用.
@@ -38,11 +38,11 @@ RER D线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法
 1840-1867年, [新城圣乔治](../Page/新城圣乔治.md "wikilink")
 (Villeneuve-Saint-Georges)
 和[马勒舍布之间的路段建成并投入使用](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink"),
-后来成为D4分支. 1847-1855年,
-巴黎到[里昂和](../Page/里昂.md "wikilink")[马赛的](../Page/马赛.md "wikilink")[铁路建成并投入使用](https://zh.wikipedia.org/wiki/铁路 "wikilink"),
-后来一部分成为D2分支. 1897年,  (Ligne Corbeil-Essonnes - Montereau) 启用,
-后来一部分成为D2和D4分支的连接线, 但地图上经常没有标记出来. 1974-1975年,
-D4分支的路段在[埃夫里](https://zh.wikipedia.org/wiki/埃夫里 "wikilink")
+后来成为D4支線. 1847-1855年,
+巴黎到[里昂](../Page/里昂.md "wikilink")和[马赛](../Page/马赛.md "wikilink")的[铁路建成并投入使用](https://zh.wikipedia.org/wiki/铁路 "wikilink"),
+后来一部分成为D2支線. 1897年,  (Ligne Corbeil-Essonnes - Montereau) 启用,
+后来一部分成为D2和D4支線的连接线, 但地图上经常没有标记出来. 1974-1975年,
+D4支線的路段在[埃夫里](https://zh.wikipedia.org/wiki/埃夫里 "wikilink")
 (Évry) 附近新辟一条[复线](https://zh.wikipedia.org/wiki/复线 "wikilink"),
 后来亦被整合进D线.
 
@@ -72,7 +72,7 @@ D线的一期工程和B线共用隧道, 这样, 在一小时之内, 单个方向
 (建于1980年).
 
 1995年9月24日, D线南北互通完成, 线路北起奥瑞城科耶,
-南至[默伦和](../Page/默伦.md "wikilink")[阿雷堡](https://zh.wikipedia.org/wiki/阿雷堡 "wikilink")
+南至[默伦](../Page/默伦.md "wikilink")和[阿雷堡](https://zh.wikipedia.org/wiki/阿雷堡 "wikilink")
 (La Ferté-Alais), 次年延伸至马勒舍布. 不过通车时, 正好遇上SNCF罢工, 激起乘客不满.
 
 1998年1月25日,
@@ -1084,7 +1084,7 @@ Gonesse — Arnouville</small></p></td>
 
 (以上车站和城镇中文名并非官方译名)
 
-科贝伊埃松和默伦之间的连接线以前曾作为[巴黎里昂线的一部分](../Page/巴黎里昂线.md "wikilink"). 而克雷伊 (D3)
+科贝伊埃松和默伦之间的连接线以前曾作为[巴黎里昂线](../Page/巴黎里昂线.md "wikilink")的一部分. 而克雷伊 (D3)
 在奥瑞城 (D1) 往北两站处, 常作为列车的延伸服务之用.
 
 ## 列车与时速
@@ -1109,7 +1109,7 @@ D线采用SNCF的，和列车。
 <!-- end list -->
 
   - Z
-    20500列车是D线上唯一的双伏特制式列车，能适应[巴黎北站以北的](../Page/巴黎北站.md "wikilink")25千伏交流电和以南的1500伏直流电，因此可以行走南北全程的线路，单伏特制式Z
+    20500列车是D线上唯一的双伏特制式列车，能适应[巴黎北站](../Page/巴黎北站.md "wikilink")以北的25千伏交流电和以南的1500伏直流电，因此可以行走南北全程的线路，单伏特制式Z
     5300只能行走南部路段，多用于于维西和默伦之间的联络服务，而单伏特的Z
     5600多用于东南部直达默伦的班车，或者[远郊车](../Page/巴黎里昂线.md "wikilink")。
 
@@ -1140,7 +1140,7 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 ### 运行时速
 
   - Z 5600和Z 20500列车最高时速可达140公里，Z 5300列车达120公里，但这仅限于D1 (D3)
-    分支的克雷伊和维埃贝尔之间，以及D2分支的梳子城和默伦之间。
+    支線的克雷伊和维埃贝尔之间，以及D2支線的梳子城和默伦之间。
 
 <!-- end list -->
 
@@ -1195,7 +1195,7 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 
 **A**=不停靠绿景苑和新城圣乔治之间的车站.
 
-**E**=特快专用, 从里昂车站直接开进D2分支或直接开到于维西.
+**E**=特快专用, 从里昂车站直接开进D2支線或直接开到于维西.
 
 **I**=直达车, 从里昂车站直达新城圣乔治.
 
@@ -1207,33 +1207,33 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 
 **3. 第三个字母代表行走路径, 分别用五个辅音字母表示.**
 
-**C**=行走D2分支.
+**C**=行走D2支線.
 
 **L**=罕见, 仅用于克雷伊-于维西之间的特殊班次.
 
-**P**=行走D4分支, 经过南部高原路段 (埃夫里贡院中心).
+**P**=行走D4支線, 经过南部高原路段 (埃夫里贡院中心).
 
 **S**=罕见, 仅用于科贝伊埃松往返默伦和马勒舍布的特殊班次.
 
-**V**=行走D4分支, 经过北部河边路段 (埃夫里塞纳河谷).
+**V**=行走D4支線, 经过北部河边路段 (埃夫里塞纳河谷).
 
 **C**, **P**, **V**较常用.
 
-**4. 末字母代表列车的行进方向, 以及行走D4分支的列车是否停靠维利沙蒂永车站**
+**4. 末字母代表列车的行进方向, 以及行走D4支線的列车是否停靠维利沙蒂永车站**
 
-**A**=列车向北行进, 行走D4分支的列车停靠该站,
+**A**=列车向北行进, 行走D4支線的列车停靠该站,
 
 **E**=无论南行列车还是北行列车都不停靠该站.
 
-**O**=列车向南行进, 行走D4分支的列车停靠该站.
+**O**=列车向南行进, 行走D4支線的列车停靠该站.
 
 ## 日常运作
 
 ### 高峰时段
 
 1\.
-每15分钟一班往返于[奥瑞城和](https://zh.wikipedia.org/wiki/奥瑞城 "wikilink")[默伦的列车](../Page/默伦.md "wikilink")**ZUCO**和**LUCA**,
-不停靠[阿福居和](https://zh.wikipedia.org/wiki/阿福居 "wikilink")[新城圣乔治之间的车站](../Page/新城圣乔治.md "wikilink").
+每15分钟一班往返于[奥瑞城和](https://zh.wikipedia.org/wiki/奥瑞城 "wikilink")[默伦](../Page/默伦.md "wikilink")的列车**ZUCO**和**LUCA**,
+不停靠[阿福居和](https://zh.wikipedia.org/wiki/阿福居 "wikilink")[新城圣乔治](../Page/新城圣乔治.md "wikilink")之间的车站.
 
 2\. 每15分钟一班往返于[古桑维尔](https://zh.wikipedia.org/wiki/古桑维尔 "wikilink") (或,
 两者交替)
@@ -1246,15 +1246,15 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 而后停靠除[维利沙蒂永之外的所有车站](https://zh.wikipedia.org/wiki/维利沙蒂永 "wikilink").
 
 4\.
-每15分钟一班往返于[里昂车站和](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[默伦的潮汐列车](../Page/默伦.md "wikilink")
+每15分钟一班往返于[里昂车站和](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[默伦](../Page/默伦.md "wikilink")的潮汐列车
 (早班高峰只有北行列车, 晚班高峰只有南行列车) **ZECO**和**DECA**,
 从[里昂车站直达](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[新城圣乔治](../Page/新城圣乔治.md "wikilink").
 
 5\.
-每15分钟一班往返于[于维西和](https://zh.wikipedia.org/wiki/于维西 "wikilink")[默伦的列车](../Page/默伦.md "wikilink")**JOPA**和**ZOPO**,
+每15分钟一班往返于[于维西和](https://zh.wikipedia.org/wiki/于维西 "wikilink")[默伦](../Page/默伦.md "wikilink")的列车**JOPA**和**ZOPO**,
 每站都停靠.
 
-对于D2和D4两个分支, 列车服务频率有显著差别, 高峰时段往返默伦的列车7分钟一班, 非高峰时段也有15分钟一班,
+对于D2和D4两个支線, 列车服务频率有显著差别, 高峰时段往返默伦的列车7分钟一班, 非高峰时段也有15分钟一班,
 往返马勒舍布的列车在非高峰时段1小时才有一班车.
 
 ### 其它时段
@@ -1266,10 +1266,10 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 [Gare_de_Villeneuve-Saint-Georges_1.jpg](https://zh.wikipedia.org/wiki/File:Gare_de_Villeneuve-Saint-Georges_1.jpg "fig:Gare_de_Villeneuve-Saint-Georges_1.jpg")
 
 D线的车站大多为地面或架空车站,
-市区的[巴黎北站和](../Page/巴黎北站.md "wikilink")[夏特雷-大堂站为深层地底车站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink"),
+市区的[巴黎北站](../Page/巴黎北站.md "wikilink")和[夏特雷-大堂站为深层地底车站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink"),
 [里昂车站为浅层地底车站](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink").
 大多数车站都设有至少两个[侧式月台](https://zh.wikipedia.org/wiki/侧式月台 "wikilink"),
-左上右下, 但在重要车站, 转乘站, 分支交汇点,
+左上右下, 但在重要车站, 转乘站, 支線交汇点,
 终点站会引入多个侧式月台或[岛式月台进行辅助](https://zh.wikipedia.org/wiki/岛式月台 "wikilink").
 
 值得注意的是,
@@ -1309,7 +1309,7 @@ RER D线是一条遭受较多负面评价的快铁线路。破坏率, 故障率,
 #### 2004年伪造暴力袭击事件
 
 2004年7月9日, 据当事人报警, D线上发生一起有预谋的, 行迹极其恶劣的反犹主义暴力袭击, 这起袭击遭到舆论的强烈谴责,
-内政部长[多米尼克·德维尔潘和总统](../Page/多米尼克·德维尔潘.md "wikilink")[雅克·希拉克甚至对此发表声明](../Page/雅克·希拉克.md "wikilink"),
+内政部长[多米尼克·德维尔潘](../Page/多米尼克·德维尔潘.md "wikilink")和总统[雅克·希拉克](../Page/雅克·希拉克.md "wikilink")甚至对此发表声明,
 可见影响之大. 但经过调查表明, 这起暴力袭击是捏造的, 报警的当事人有谎语癖.
 
 调查结果引发轩然大波, 有关媒体处理这件事的手段引起了广泛的争议. 事实上, 这件事的发生有一定的社会背景,
@@ -1337,7 +1337,7 @@ D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而�
 
 [Gare_de_La_Ferte-Alais_IMG_1780.JPG](https://zh.wikipedia.org/wiki/File:Gare_de_La_Ferte-Alais_IMG_1780.JPG "fig:Gare_de_La_Ferte-Alais_IMG_1780.JPG")
 
-  - D线和B线在[夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站之间共用隧道](../Page/巴黎北站.md "wikilink"),
+  - D线和B线在[夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间共用隧道,
     被公认是一大败笔. 因为在高峰时段, 一小时内有20班B线列车通过, 12班D线列车通过, 居全欧洲之首.
     而这段隧道管理权归[大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")
     (RATP) 所有, RATP偏好让B线优先通过, 这样D线的正点率自然下降.
@@ -1356,7 +1356,7 @@ D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而�
 
   - [科贝伊埃松往](https://zh.wikipedia.org/wiki/科贝伊埃松 "wikilink")[默伦](../Page/默伦.md "wikilink"),
     [马勒舍布和](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink")[于维西](https://zh.wikipedia.org/wiki/于维西 "wikilink")
-    (经北部河边段) 有36个[平交道口](../Page/平交道.md "wikilink"), 带来了人, 车等随意穿越铁轨的隐患,
+    (经北部河边段) 有36个[平交道](../Page/平交道.md "wikilink")口, 带来了人, 车等随意穿越铁轨的隐患,
     并时常发生事故.
 
 <!-- end list -->
@@ -1531,7 +1531,7 @@ D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而�
 当局还计划要将列车停靠服务进行重整, 以增强其规律性.
 
   - 自2008年12月当局修改D线的运作方式之后,
-    [夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站之间的D线列车数目有所减少](../Page/巴黎北站.md "wikilink"),
+    [夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的D线列车数目有所减少,
     相应的, 隧道内的信号设备也应该作适当修改, 以利用列车之间的空隙.
 
 <!-- end list -->
@@ -1558,12 +1558,12 @@ D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而�
 
 ### 长远规划, 2015年以后
 
-2.2亿-2.5亿欧元将被用于改善D2分支 ([默伦](../Page/默伦.md "wikilink"))
+2.2亿-2.5亿欧元将被用于改善D2支線 ([默伦](../Page/默伦.md "wikilink"))
 的饱和状况以及[于维西和格里尼中心之间的线路负载](https://zh.wikipedia.org/wiki/于维西 "wikilink").
 
 ### 其他内容
 
-  - 当局考虑在[夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站之间修建第二条隧道以根本性解决B线和D线的互相干扰问题](../Page/巴黎北站.md "wikilink").
+  - 当局考虑在[夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间修建第二条隧道以根本性解决B线和D线的互相干扰问题.
 
 <!-- end list -->
 
@@ -1574,9 +1574,9 @@ D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而�
 但这个支线项目最终被STIF否决, 相关交通仍由公共巴士进行服务. 这一决定使当地选民感到沮丧. 于是, 在2008年12月18日,
 他们借投票表达对这一项目的渴求.
 
-目前的计划是，在D线上的[维耶勒贝尔站往东北新开辟一条分支](https://zh.wikipedia.org/wiki/维耶勒贝尔站 "wikilink")，中间经过新修的戈讷斯三角地（Triangle
+目前的计划是，在D线上的[维耶勒贝尔站往东北新开辟一条支線](https://zh.wikipedia.org/wiki/维耶勒贝尔站 "wikilink")，中间经过新修的戈讷斯三角地（Triangle
 de Gonesse）车站，
-一直到B线上的[会展公园站为止](../Page/会展公园站.md "wikilink")，不再延长到戴高乐机场,目前暂无任何消息。
+一直到B线上的[会展公园站](../Page/会展公园站.md "wikilink")为止，不再延长到戴高乐机场,目前暂无任何消息。
 
 ## 周边主要旅游景点
 

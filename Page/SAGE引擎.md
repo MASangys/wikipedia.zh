@@ -129,7 +129,7 @@ SAGE引擎的更新版本，RNA引擎，在《[紅色警戒3](https://zh.wikiped
 of
 Honor)*及[終極動員令：將軍2](https://zh.wikipedia.org/wiki/終極動員令：將軍2 "wikilink")
 *(Command & Conquer: Generals
-2)*非Maxis所作，上述兩款遊戲使用[寒霜引擎開發](../Page/寒霜引擎.md "wikilink")。
+2)*非Maxis所作，上述兩款遊戲使用[寒霜引擎](../Page/寒霜引擎.md "wikilink")開發。
 
 ## 使用Glassbox引擎的遊戲
 

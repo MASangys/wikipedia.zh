@@ -1,4 +1,4 @@
-是由[Google設計基於](../Page/Google.md "wikilink")[Linux内核的](../Page/Linux内核.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，並使用[Google
+是由[Google](../Page/Google.md "wikilink")設計基於[Linux内核](../Page/Linux内核.md "wikilink")的[操作系统](../Page/操作系统.md "wikilink")，並使用[Google
 Chrome瀏覽器作為其主要用戶界面](../Page/Google_Chrome.md "wikilink")。因此，Chrome
 OS主要支持Web應用程序\[1\]，2016年起開始陸續兼容[Android應用程式](../Page/APK.md "wikilink")（可通过[Google
 Play商店下載](https://zh.wikipedia.org/wiki/Google_Play商店 "wikilink")）和Linux應用程式。
@@ -10,7 +10,7 @@ OS”可以在[x86或](https://zh.wikipedia.org/wiki/x86 "wikilink")[ARM兩種�
 
 Google已於2009年11月19日，將“Chrome OS”以“[Chromium
 OS](../Page/Chromium_OS.md "wikilink")”之名採用[开放源代码](../Page/开放源代码.md "wikilink")\[7\]\[8\]。雖然“Chrome
-OS”植基於[Linux内核](../Page/Linux.md "wikilink")，不過它會使用“一種新的[系統](../Page/系統.md "wikilink")”\[9\]而不會採行目前正在使用中的Linux標準視窗系統，比如[X
+OS”植基於[Linux](../Page/Linux.md "wikilink")内核，不過它會使用“一種新的[系統](../Page/系統.md "wikilink")”\[9\]而不會採行目前正在使用中的Linux標準視窗系統，比如[X
 Window系統](../Page/X_Window系統.md "wikilink")。
 
 目前Chrome
@@ -20,19 +20,19 @@ OS的作業系統。
 ## 发布原因
 
 有人认为\[10\]，“Chrome
-OS”的形成是[Google对](../Page/Google.md "wikilink")[Microsoft的正面挑戰的重要一步](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。同样在7月，Google前一天去除了[Gmail](../Page/Gmail.md "wikilink")，[Google日历](https://zh.wikipedia.org/wiki/Google日历 "wikilink")，[Google
+OS”的形成是[Google](../Page/Google.md "wikilink")对[Microsoft的正面挑戰的重要一步](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。同样在7月，Google前一天去除了[Gmail](../Page/Gmail.md "wikilink")，[Google日历](https://zh.wikipedia.org/wiki/Google日历 "wikilink")，[Google
 Talk和](../Page/Google_Talk.md "wikilink")-{[Google文件](../Page/Google文件.md "wikilink")}-的[beta標籤](https://zh.wikipedia.org/wiki/beta "wikilink")，意在吸引更多企业用户。这些應用也是[Microsoft
 Office软件套装的竞争对手](../Page/Microsoft_Office.md "wikilink")。\[11\]
 
 ## 設計準則
 
 Google介紹“Chrome OS”的設計理念是朝極簡方向走，很像[Google
-Chrome](../Page/Google_Chrome.md "wikilink")。依此方向，Google希望將大部分的[使用者界面從桌上型環境轉移到](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")[万维网上](../Page/万维网.md "wikilink")。[云计算將會是這種設計裡的最大的一部分](https://zh.wikipedia.org/wiki/云计算 "wikilink")。對於軟硬件設計發展人員，Google發出"網路即平臺"的觀點。\[12\]Google亦說明“Chrome
-OS”是會和手機的[Android作業系統分離開來](../Page/Android.md "wikilink")，Android主要是設計給[智能手机使用](../Page/智能手机.md "wikilink")。\[13\]而“Chrome
-OS”是設定給那些將大部分時間都花在[互联网的用戶使用](../Page/互联网.md "wikilink")\[14\]，至[Chrome
+Chrome](../Page/Google_Chrome.md "wikilink")。依此方向，Google希望將大部分的[使用者界面從桌上型環境轉移到](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")[万维网](../Page/万维网.md "wikilink")上。[云计算將會是這種設計裡的最大的一部分](https://zh.wikipedia.org/wiki/云计算 "wikilink")。對於軟硬件設計發展人員，Google發出"網路即平臺"的觀點。\[12\]Google亦說明“Chrome
+OS”是會和手機的[Android](../Page/Android.md "wikilink")作業系統分離開來，Android主要是設計給[智能手机](../Page/智能手机.md "wikilink")使用。\[13\]而“Chrome
+OS”是設定給那些將大部分時間都花在[互联网](../Page/互联网.md "wikilink")的用戶使用\[14\]，至[Chrome
 Web
 Store下載](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")[Web](https://zh.wikipedia.org/wiki/Web "wikilink")
-[App](https://zh.wikipedia.org/wiki/App "wikilink")，可以运行在[筆記型電腦和](../Page/筆記型電腦.md "wikilink")[桌上型電腦上](../Page/桌上型電腦.md "wikilink")\[15\]。并且，据泄漏-{消息}-称，Google
+[App](https://zh.wikipedia.org/wiki/App "wikilink")，可以运行在[筆記型電腦](../Page/筆記型電腦.md "wikilink")和[桌上型電腦](../Page/桌上型電腦.md "wikilink")上\[15\]。并且，据泄漏-{消息}-称，Google
 Chrome OS将只与硬件捆绑销售，不单独销售。Google亦为此改变很多硬件设计（甚至包括键盘）。
 
 ## 應用程式
@@ -60,8 +60,8 @@ OS更像是一台電腦，以桌面、檔案管理、[滑鼠和](https://zh.wiki
 
 ### Linux應用程式
 
-在2018年1月23日，Google在GIT平台公布了Project
-Crostini，一個計劃可以讓主流Linux的命令列和圖形使用介面的程序執行於[LXC容器內](../Page/LXC.md "wikilink")。\[24\]
+在2018年1月23日，Google在GIT平台公布Project
+Crostini，一個計劃可以讓主流Linux的命令列和圖形使用介面的程序執行於[LXC](../Page/LXC.md "wikilink")容器內。\[24\]
 
 ## 参考文献
 

@@ -1,6 +1,6 @@
 《**BB戰士三國傳 戰神決鬥編**》是《[BB戰士三國傳
 英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")》的續集，由2008年開始於雜誌「Kerokero
-Ace」連載。故事背景仍沿用[中國名著](../Page/中國.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》的背景，本編故事時間點，以演義中劉備病逝[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、孔明主持國政開始，劉備與曹操在赤壁之戰失蹤後，遠在西涼軍的馬超為主角，而前作三大陣營，亦繼續出場，繼續三分天下的故事，於2010年2月27日公映電影版《超電影版SDガンダム三國伝～BraveBattleWarriors～》。
+Ace」連載。故事背景仍沿用[中國](../Page/中國.md "wikilink")名著[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》的背景，本編故事時間點，以演義中劉備病逝[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、孔明主持國政開始，劉備與曹操在赤壁之戰失蹤後，遠在西涼軍的馬超為主角，而前作三大陣營，亦繼續出場，繼續三分天下的故事，於2010年2月27日公映電影版《超電影版SDガンダム三國伝～BraveBattleWarriors～》。
 
 而模型雜誌「電擊Hobby」，亦會刊載個名角色的文字介紹，插畫則由[日向恭介及](https://zh.wikipedia.org/wiki/日向恭介 "wikilink")[凄鐵擔任](https://zh.wikipedia.org/wiki/凄鐵 "wikilink")。
 
@@ -9,7 +9,7 @@ Ace」連載。故事背景仍沿用[中國名著](../Page/中國.md "wikilink")
 ### 水晶之力
 
 三縭紗神話「G記」記載「當三璃紗再次受黑暗包圍時，繼承三侯靈魂-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-們，將會在玉璽引導下，再次打擊黑暗……」
-三侯靈魂和武義之魂封印[蚩尤時](../Page/蚩尤.md "wikilink")，曾經使用過的力量。
+三侯靈魂和武義之魂封印[蚩尤](../Page/蚩尤.md "wikilink")時，曾經使用過的力量。
 
   - **翔烈帝[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（PF-78-1
     Perfect Gundam）
@@ -33,7 +33,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期:2010年1月
 
   -
-    北方「天之刃」、呂布繼承神話時代三侯封印[蚩尤時](../Page/蚩尤.md "wikilink")，未曾被「G紀」記載的英雄「真武」力量而成的新型態，模型漫畫及單行本，均未有交待進化原因。(根據動畫版新角色「龍裝劉備」「紅蓮裝曹操」「猛虎裝孫權」的設定，均為吸收天玉鎧力量而成的進化型態而言，玄武裝呂布，應屬於以類似方式進行進化的新型態。)
+    北方「天之刃」、呂布繼承神話時代三侯封印[蚩尤](../Page/蚩尤.md "wikilink")時，未曾被「G紀」記載的英雄「真武」力量而成的新型態，模型漫畫及單行本，均未有交待進化原因。(根據動畫版新角色「龍裝劉備」「紅蓮裝曹操」「猛虎裝孫權」的設定，均為吸收天玉鎧力量而成的進化型態而言，玄武裝呂布，應屬於以類似方式進行進化的新型態。)
 
 <!-- end list -->
 
@@ -186,7 +186,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2009年4月
 
   -
-    曾是荊州水軍中郎將，百步穿楊的老將軍，攻擊時右眼會戴上專用瞄準鏡。赤壁之戰後，與[魏延四處流浪](../Page/魏延.md "wikilink")。兩人到達漢中，遇到同樣流落該地的[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
+    曾是荊州水軍中郎將，百步穿楊的老將軍，攻擊時右眼會戴上專用瞄準鏡。赤壁之戰後，與[魏延](../Page/魏延.md "wikilink")四處流浪。兩人到達漢中，遇到同樣流落該地的[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
 
 :\*稱號：曉之狙撃手
 
@@ -223,7 +223,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ##### [關羽隊](https://zh.wikipedia.org/wiki/關羽 "wikilink")
 
-:\*以[關羽為首的軍團](https://zh.wikipedia.org/wiki/關羽 "wikilink")，成員包括[周倉及](../Page/周倉.md "wikilink")[關平](../Page/關平.md "wikilink")。三人均有小隊象徵的鬼面裝甲，同時兩人亦可借用[關羽的](https://zh.wikipedia.org/wiki/關羽 "wikilink")「鬼牙龍月刀」，透過武器合體增強威力。
+:\*以[關羽為首的軍團](https://zh.wikipedia.org/wiki/關羽 "wikilink")，成員包括[周倉](../Page/周倉.md "wikilink")及[關平](../Page/關平.md "wikilink")。三人均有小隊象徵的鬼面裝甲，同時兩人亦可借用[關羽的](https://zh.wikipedia.org/wiki/關羽 "wikilink")「鬼牙龍月刀」，透過武器合體增強威力。
 
   - **[關平](../Page/關平.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（MSA-0011
     S Gundam）
@@ -232,7 +232,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
   -
     [關羽義子](https://zh.wikipedia.org/wiki/關羽 "wikilink")，為成為傳說中的「俠」而努力。於外傳《勇闘録》，與[劉封](../Page/劉封.md "wikilink")、[張苞組成](https://zh.wikipedia.org/wiki/張苞 "wikilink")「小龍隊」。
-    轟國[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧受黑暗香爐的煙薰影響](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，變成邪惡武將，並率領強襲水軍侵略翔國。期間得到未受控制的[太史慈救助](../Page/太史慈.md "wikilink")，從他口中得知[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[陸遜等人被闇之力封印而石化](../Page/陸遜.md "wikilink")，轟國正受到闇之力支配，因而發動侵略。為解除香爐影響，[關平與](../Page/關平.md "wikilink")[太史慈合作](../Page/太史慈.md "wikilink")，並成功打破之。然而[關平及](../Page/關平.md "wikilink")[太史慈兩人均被石化](../Page/太史慈.md "wikilink")。石化後，裝上龍輝寶打破石化。
+    轟國[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧受黑暗香爐的煙薰影響](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，變成邪惡武將，並率領強襲水軍侵略翔國。期間得到未受控制的[太史慈](../Page/太史慈.md "wikilink")救助，從他口中得知[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[陸遜](../Page/陸遜.md "wikilink")等人被闇之力封印而石化，轟國正受到闇之力支配，因而發動侵略。為解除香爐影響，[關平](../Page/關平.md "wikilink")與[太史慈](../Page/太史慈.md "wikilink")合作，並成功打破之。然而[關平](../Page/關平.md "wikilink")及[太史慈](../Page/太史慈.md "wikilink")兩人均被石化。石化後，裝上龍輝寶打破石化。
 
 :\*稱號：少年鬼武將
 
@@ -280,13 +280,13 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ##### 其他將領
 
-  - **[魏延MK](../Page/魏延.md "wikilink") II**（RX-178 Gundam MK II TITANS
+  - **[魏延](../Page/魏延.md "wikilink")MK II**（RX-178 Gundam MK II TITANS
     Type）
 
 <!-- end list -->
 
   -
-    前荊州水軍中郎將。擁有與[黃忠相似的鎧甲](https://zh.wikipedia.org/wiki/黃忠 "wikilink")(左右倒轉，是矢野健太郎根據三國演義中，諸葛亮曾稱魏延有「反骨之相」的情節，所以裝甲故意與黃忠倒轉方向。)。協助[黃忠瞄準目標](https://zh.wikipedia.org/wiki/黃忠 "wikilink")。以高速戰鬥及一流技巧馳名。赤壁之戰後，與[黃忠一同流浪](https://zh.wikipedia.org/wiki/黃忠 "wikilink")，並在漢中遇見[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")。[魏延的造型除了官方設定](../Page/魏延.md "wikilink")(津島直人於單行本中沿用)，另有[矢野健太郎的造型](https://zh.wikipedia.org/wiki/矢野健太郎 "wikilink")，兩種版本在頭飾、肩甲有所不同。
+    前荊州水軍中郎將。擁有與[黃忠相似的鎧甲](https://zh.wikipedia.org/wiki/黃忠 "wikilink")(左右倒轉，是矢野健太郎根據三國演義中，諸葛亮曾稱魏延有「反骨之相」的情節，所以裝甲故意與黃忠倒轉方向。)。協助[黃忠瞄準目標](https://zh.wikipedia.org/wiki/黃忠 "wikilink")。以高速戰鬥及一流技巧馳名。赤壁之戰後，與[黃忠一同流浪](https://zh.wikipedia.org/wiki/黃忠 "wikilink")，並在漢中遇見[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")。[魏延](../Page/魏延.md "wikilink")的造型除了官方設定(津島直人於單行本中沿用)，另有[矢野健太郎的造型](https://zh.wikipedia.org/wiki/矢野健太郎 "wikilink")，兩種版本在頭飾、肩甲有所不同。
 
 :\*稱號：不詳
 
@@ -300,22 +300,22 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2009年10月
 
   -
-    原機駕尚書令，西域出身，與[程昱對](../Page/程昱.md "wikilink")[司馬懿的行為感到懷疑](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。擁有渣古外型的軍師型態。
+    原機駕尚書令，西域出身，與[程昱](../Page/程昱.md "wikilink")對[司馬懿的行為感到懷疑](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。擁有渣古外型的軍師型態。
 
 <!-- end list -->
 
   -
-    模型漫畫中因看不慣機駕軍團圍攻[孫尚香的卑鄙行徑而投奔翔國](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。闇被消滅後，養育失去記憶的[司馬炎](../Page/司馬炎.md "wikilink")，同時為了令[司馬炎能夠學會控制潛藏身體內的天之刃力量](../Page/司馬炎.md "wikilink")，[姜維再次戴上代表黑暗的面具作為模範](https://zh.wikipedia.org/wiki/姜維 "wikilink")。幾十年後真國建立，[姜維亦脫下面具](https://zh.wikipedia.org/wiki/姜維 "wikilink")，以原來面目示人(意味[司馬炎已能控制天之刃力量](../Page/司馬炎.md "wikilink"))，並向部下[陳壽提出撰寫](https://zh.wikipedia.org/wiki/陳壽 "wikilink")「三國傳」的請求。
+    模型漫畫中因看不慣機駕軍團圍攻[孫尚香的卑鄙行徑而投奔翔國](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。闇被消滅後，養育失去記憶的[司馬炎](../Page/司馬炎.md "wikilink")，同時為了令[司馬炎](../Page/司馬炎.md "wikilink")能夠學會控制潛藏身體內的天之刃力量，[姜維再次戴上代表黑暗的面具作為模範](https://zh.wikipedia.org/wiki/姜維 "wikilink")。幾十年後真國建立，[姜維亦脫下面具](https://zh.wikipedia.org/wiki/姜維 "wikilink")，以原來面目示人(意味[司馬炎](../Page/司馬炎.md "wikilink")已能控制天之刃力量)，並向部下[陳壽提出撰寫](https://zh.wikipedia.org/wiki/陳壽 "wikilink")「三國傳」的請求。
 
 <!-- end list -->
 
   -
-    連載漫畫中因[曹丕被](../Page/曹丕.md "wikilink")**闇**魔化殺害[程昱等官員](../Page/程昱.md "wikilink")，在臨死的[程昱拜託下而投奔翔國](../Page/程昱.md "wikilink")。
+    連載漫畫中因[曹丕](../Page/曹丕.md "wikilink")被**闇**魔化殺害[程昱](../Page/程昱.md "wikilink")等官員，在臨死的[程昱](../Page/程昱.md "wikilink")拜託下而投奔翔國。
 
 <!-- end list -->
 
   -
-    與[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[郭嘉一樣](../Page/郭嘉.md "wikilink")，為了對抗中國盜版模型，被重新再改修設計的武將，包括渣古型態、以及追加爆麒麟型態。
+    與[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[郭嘉](../Page/郭嘉.md "wikilink")一樣，為了對抗中國盜版模型，被重新再改修設計的武將，包括渣古型態、以及追加爆麒麟型態。
 
 :\*稱號：流離之劍客、少年的鬥軍師
 
@@ -362,7 +362,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    單行本中，曾隨同[孔明夫婦到南蠻尋找傳說中的天之刃](https://zh.wikipedia.org/wiki/孔明 "wikilink")，期間與被闇之力控制的[祝融戰鬥](../Page/祝融.md "wikilink")，其後參與五丈原最終決戰。由於[劉備與](https://zh.wikipedia.org/wiki/劉備 "wikilink")[曹操](../Page/曹操.md "wikilink")、[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[呂布一同化為四神飛往天際](https://zh.wikipedia.org/wiki/呂布 "wikilink")，[孫尚香便以太后身份代行王權](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。
+    單行本中，曾隨同[孔明夫婦到南蠻尋找傳說中的天之刃](https://zh.wikipedia.org/wiki/孔明 "wikilink")，期間與被闇之力控制的[祝融](../Page/祝融.md "wikilink")戰鬥，其後參與五丈原最終決戰。由於[劉備與](https://zh.wikipedia.org/wiki/劉備 "wikilink")[曹操](../Page/曹操.md "wikilink")、[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[呂布一同化為四神飛往天際](https://zh.wikipedia.org/wiki/呂布 "wikilink")，[孫尚香便以太后身份代行王權](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。
 
 :\*稱號：江東的弓腰姬
 
@@ -430,7 +430,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ### 機駕
 
-三璃紗中，領土最遼闊、物資民眾最多最廣的強國，相等於「魏」國。赤壁之戰後，[曹操與](../Page/曹操.md "wikilink")[劉備一同失蹤](https://zh.wikipedia.org/wiki/劉備 "wikilink")，因此[曹操之子](../Page/曹操.md "wikilink")[曹丕繼承大統](../Page/曹丕.md "wikilink")，正式建國，國號「機駕」，繼續以[司馬懿為主要參謀](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
+三璃紗中，領土最遼闊、物資民眾最多最廣的強國，相等於「魏」國。赤壁之戰後，[曹操](../Page/曹操.md "wikilink")與[劉備一同失蹤](https://zh.wikipedia.org/wiki/劉備 "wikilink")，因此[曹操](../Page/曹操.md "wikilink")之子[曹丕](../Page/曹丕.md "wikilink")繼承大統，正式建國，國號「機駕」，繼續以[司馬懿為主要參謀](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
 
   - **[曹操](../Page/曹操.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GX-9901-DX
     Gundam Double X）
@@ -438,7 +438,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2007年10月
 
   -
-    機駕台柱，嫉惡如仇的武將。赤壁之戰後，與[劉備一同失蹤](https://zh.wikipedia.org/wiki/劉備 "wikilink")，促成兒子[曹丕繼位](../Page/曹丕.md "wikilink")。司馬懿開始逐步掌握機駕大權後，為阻止其陰謀，乃再次返回洛陽，自曹丕手中重奪皇帝之証明，成為機駕之王「機武帝曹操」。
+    機駕台柱，嫉惡如仇的武將。赤壁之戰後，與[劉備一同失蹤](https://zh.wikipedia.org/wiki/劉備 "wikilink")，促成兒子[曹丕](../Page/曹丕.md "wikilink")繼位。司馬懿開始逐步掌握機駕大權後，為阻止其陰謀，乃再次返回洛陽，自曹丕手中重奪皇帝之証明，成為機駕之王「機武帝曹操」。
 
 :\*稱號：紅蓮的霸將軍
 
@@ -459,12 +459,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃-{zh-hans:大毒蛇;zh-hk:沙彼多;zh-tw:大蛇;}-、特製貼紙、箔貼紙、火焰效果素材)
 
   -
-    神話三侯一人，「焰神」雀瞬之魂使[曹操覺醒的新型態](../Page/曹操.md "wikilink")，人稱機駕之王「機武帝」。與五誇將一起擊敗不死軍團和[賈詡時覺醒](https://zh.wikipedia.org/wiki/賈詡 "wikilink")。令一度被控制的[徐晃為翔協力](../Page/徐晃.md "wikilink")。暫代[劉備統轄聯軍](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
+    神話三侯一人，「焰神」雀瞬之魂使[曹操](../Page/曹操.md "wikilink")覺醒的新型態，人稱機駕之王「機武帝」。與五誇將一起擊敗不死軍團和[賈詡時覺醒](https://zh.wikipedia.org/wiki/賈詡 "wikilink")。令一度被控制的[徐晃](../Page/徐晃.md "wikilink")為翔協力。暫代[劉備統轄聯軍](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
 
 <!-- end list -->
 
   -
-    在模型版漫畫中，在[徐晃被](../Page/徐晃.md "wikilink")[曹丕與](../Page/曹丕.md "wikilink")[司馬懿宣判死刑時出面阻止](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，擊敗[曹丕並沒收機駕王証](../Page/曹丕.md "wikilink")，同時，[徐晃獻上代為保管鳳熾魂的組件](../Page/徐晃.md "wikilink")，機武帝正式覺醒，告誡[曹丕必須要找出真正的敵人才能找到未來](../Page/曹丕.md "wikilink")，之後便與[徐晃離開](../Page/徐晃.md "wikilink")，在[孫](https://zh.wikipedia.org/wiki/孫 "wikilink")[劉聯軍對抗](https://zh.wikipedia.org/wiki/劉 "wikilink")[蚩尤的大戰中與覺醒為黑曜鬥神的](../Page/蚩尤.md "wikilink")[呂布一同再度登場](https://zh.wikipedia.org/wiki/呂布 "wikilink")，怒責[司馬懿犧牲幼子的墮落之行](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，形成三侯與武義對抗黑闇的情勢。最後在消滅天熾鵬[司馬懿後](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，化為[鳳凰返回天界](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")。
+    在模型版漫畫中，在[徐晃](../Page/徐晃.md "wikilink")被[曹丕](../Page/曹丕.md "wikilink")與[司馬懿宣判死刑時出面阻止](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，擊敗[曹丕](../Page/曹丕.md "wikilink")並沒收機駕王証，同時，[徐晃](../Page/徐晃.md "wikilink")獻上代為保管鳳熾魂的組件，機武帝正式覺醒，告誡[曹丕](../Page/曹丕.md "wikilink")必須要找出真正的敵人才能找到未來，之後便與[徐晃](../Page/徐晃.md "wikilink")離開，在[孫](https://zh.wikipedia.org/wiki/孫 "wikilink")[劉聯軍對抗](https://zh.wikipedia.org/wiki/劉 "wikilink")[蚩尤](../Page/蚩尤.md "wikilink")的大戰中與覺醒為黑曜鬥神的[呂布一同再度登場](https://zh.wikipedia.org/wiki/呂布 "wikilink")，怒責[司馬懿犧牲幼子的墮落之行](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，形成三侯與武義對抗黑闇的情勢。最後在消滅天熾鵬[司馬懿後](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，化為[鳳凰返回天界](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")。
 
 :\*稱號：紅蓮之焰神
 
@@ -482,8 +482,8 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2009年6月
 
   -
-    [曹操之子](../Page/曹操.md "wikilink")，機駕皇帝，稱帝建國，號曰「機駕」。對[司馬懿完全信任](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，進攻西涼，後期被闇控制，殺害[程昱等朝中大臣](../Page/程昱.md "wikilink")。在模型版漫畫中曾與部將[張郃切磋武藝](../Page/張郃.md "wikilink")，對於長年在外征戰而忽略家庭的父親[曹操感到不滿](../Page/曹操.md "wikilink")，憤而向[曹操挑戰](../Page/曹操.md "wikilink")，但被[曹操擊敗](../Page/曹操.md "wikilink")，被沒收了機駕之王的証明
-    (機駕王証)，之後企圖阻止[司馬懿以](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")[司馬炎為祭品召喚暗黑玉璽](../Page/司馬炎.md "wikilink")，但被擊倒。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
+    [曹操](../Page/曹操.md "wikilink")之子，機駕皇帝，稱帝建國，號曰「機駕」。對[司馬懿完全信任](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，進攻西涼，後期被闇控制，殺害[程昱](../Page/程昱.md "wikilink")等朝中大臣。在模型版漫畫中曾與部將[張郃](../Page/張郃.md "wikilink")切磋武藝，對於長年在外征戰而忽略家庭的父親[曹操](../Page/曹操.md "wikilink")感到不滿，憤而向[曹操](../Page/曹操.md "wikilink")挑戰，但被[曹操](../Page/曹操.md "wikilink")擊敗，被沒收了機駕之王的証明
+    (機駕王証)，之後企圖阻止[司馬懿以](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")[司馬炎](../Page/司馬炎.md "wikilink")為祭品召喚暗黑玉璽，但被擊倒。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
 
 <!-- end list -->
 
@@ -505,7 +505,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    擅長讀心術的軍師，也是[曹操軍親衛隊領袖](../Page/曹操.md "wikilink")。年齡比[司馬懿大](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，不過對作為首席軍師的[司馬懿表示著敬意](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。向[司馬懿報告擁有龍帝劍的人已出現](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。赤壁之戰後，被任命為光祿勲，軍團改由[張郃指揮](../Page/張郃.md "wikilink")。[曹丕稱帝後](../Page/曹丕.md "wikilink")，和[姜維一同提醒](https://zh.wikipedia.org/wiki/姜維 "wikilink")[曹丕不要太依賴](../Page/曹丕.md "wikilink")[司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。單行本中，被闇之力控制的[曹丕殺害](../Page/曹丕.md "wikilink")，臨死前拜託[姜維投奔翔國](https://zh.wikipedia.org/wiki/姜維 "wikilink")。
+    擅長讀心術的軍師，也是[曹操](../Page/曹操.md "wikilink")軍親衛隊領袖。年齡比[司馬懿大](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，不過對作為首席軍師的[司馬懿表示著敬意](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。向[司馬懿報告擁有龍帝劍的人已出現](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。赤壁之戰後，被任命為光祿勲，軍團改由[張郃](../Page/張郃.md "wikilink")指揮。[曹丕](../Page/曹丕.md "wikilink")稱帝後，和[姜維一同提醒](https://zh.wikipedia.org/wiki/姜維 "wikilink")[曹丕](../Page/曹丕.md "wikilink")不要太依賴[司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。單行本中，被闇之力控制的[曹丕](../Page/曹丕.md "wikilink")殺害，臨死前拜託[姜維投奔翔國](https://zh.wikipedia.org/wiki/姜維 "wikilink")。
 
 <!-- end list -->
 
@@ -520,12 +520,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
   -
-    [司馬懿最年幼兒子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，年紀雖小，卻擁有天才的小孩、未來天之刃的成員、擁有可與被封印的軍神．[蚩尤溝通的能力](../Page/蚩尤.md "wikilink")。五丈原會戰期間，暗黑玉璽外殼粉碎成**暗黑玉璽重高達**，黑暗玉璽其後更將司馬炎吞噬。
+    [司馬懿最年幼兒子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，年紀雖小，卻擁有天才的小孩、未來天之刃的成員、擁有可與被封印的軍神．[蚩尤](../Page/蚩尤.md "wikilink")溝通的能力。五丈原會戰期間，暗黑玉璽外殼粉碎成**暗黑玉璽重高達**，黑暗玉璽其後更將司馬炎吞噬。
 
 <!-- end list -->
 
   -
-    模型漫畫中，成為[蚩尤高達的一部份](../Page/蚩尤.md "wikilink")，後來被[馬超救走](https://zh.wikipedia.org/wiki/馬超 "wikilink")，卻失去以往記憶。闇被消滅後，[姜維為培養他成為未來的天之刃](https://zh.wikipedia.org/wiki/姜維 "wikilink")，決定收養[司馬炎](../Page/司馬炎.md "wikilink")。數十年後，真國取代三國，統一三璃紗，[司馬炎成為真國皇帝](../Page/司馬炎.md "wikilink")。
+    模型漫畫中，成為[蚩尤](../Page/蚩尤.md "wikilink")高達的一部份，後來被[馬超救走](https://zh.wikipedia.org/wiki/馬超 "wikilink")，卻失去以往記憶。闇被消滅後，[姜維為培養他成為未來的天之刃](https://zh.wikipedia.org/wiki/姜維 "wikilink")，決定收養[司馬炎](../Page/司馬炎.md "wikilink")。數十年後，真國取代三國，統一三璃紗，[司馬炎](../Page/司馬炎.md "wikilink")成為真國皇帝。
 
 <!-- end list -->
 
@@ -556,12 +556,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2010年1月
 
   -
-    [曹操軍的軍師](../Page/曹操.md "wikilink")，[司馬懿的一號弟子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。以巧妙高超的智謀見稱，被[曹操稱為](../Page/曹操.md "wikilink")「少年天才」。擁有氷一樣的俊美外表及才能的**司徒**。於戰神合身．[蚩尤以天魔爆煉砲攻擊時](../Page/蚩尤.md "wikilink")，身上的闇之力爆發，變成[蚩尤](../Page/蚩尤.md "wikilink")．**魔神型態**，率領闇之部隊兵攻打[劉備等人](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
+    [曹操](../Page/曹操.md "wikilink")軍的軍師，[司馬懿的一號弟子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。以巧妙高超的智謀見稱，被[曹操](../Page/曹操.md "wikilink")稱為「少年天才」。擁有氷一樣的俊美外表及才能的**司徒**。於戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")以天魔爆煉砲攻擊時，身上的闇之力爆發，變成[蚩尤](../Page/蚩尤.md "wikilink")．**魔神型態**，率領闇之部隊兵攻打[劉備等人](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
 
 <!-- end list -->
 
   -
-    模型漫畫中，率領大軍進攻轟國之時，被[周瑜以天雷火炮擊殺](../Page/周瑜.md "wikilink")，[曹操為此感到憤怒而揮動全軍](../Page/曹操.md "wikilink")，引發赤壁之戰。之後在黑暗玉璽即將覺醒時，[郭嘉復活出現在眾人面前](../Page/郭嘉.md "wikilink")，欲對[周瑜進行復仇](../Page/周瑜.md "wikilink")。但在三侯、武義「[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")」、以及[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")、[孟獲兩名天之刃的合力之下](../Page/孟獲.md "wikilink")，[蚩尤鋼彈被擊破](../Page/蚩尤.md "wikilink")，憑籍黑暗玉璽復活的[郭嘉亦灰飛煙滅](../Page/郭嘉.md "wikilink")。漫畫中，[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-被擊破，與戰死的[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-屍體合體成魔神型態後，殺掉天翔龍[孔明ν](https://zh.wikipedia.org/wiki/孔明 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-，之後卻被[司馬懿吸收而灰飛煙滅](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
+    模型漫畫中，率領大軍進攻轟國之時，被[周瑜](../Page/周瑜.md "wikilink")以天雷火炮擊殺，[曹操](../Page/曹操.md "wikilink")為此感到憤怒而揮動全軍，引發赤壁之戰。之後在黑暗玉璽即將覺醒時，[郭嘉](../Page/郭嘉.md "wikilink")復活出現在眾人面前，欲對[周瑜](../Page/周瑜.md "wikilink")進行復仇。但在三侯、武義「[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")」、以及[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")、[孟獲](../Page/孟獲.md "wikilink")兩名天之刃的合力之下，[蚩尤](../Page/蚩尤.md "wikilink")鋼彈被擊破，憑籍黑暗玉璽復活的[郭嘉](../Page/郭嘉.md "wikilink")亦灰飛煙滅。漫畫中，[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-被擊破，與戰死的[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-屍體合體成魔神型態後，殺掉天翔龍[孔明ν](https://zh.wikipedia.org/wiki/孔明 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-，之後卻被[司馬懿吸收而灰飛煙滅](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
 
 :\*稱號：氷牙之智謀
 
@@ -584,12 +584,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    曾經是**水鏡**[司馬徽的學生](https://zh.wikipedia.org/wiki/司馬徽 "wikilink")。他稱呼自己為「**鳳雛**」。在**戰神決鬥篇**受懿[郭嘉之命前往南](../Page/郭嘉.md "wikilink")[曹操軍並把洛陽發掘出的](../Page/曹操.md "wikilink")「星凰劍」獻予[曹操](../Page/曹操.md "wikilink")。在赤壁之戰鬥，協助[司馬懿的發射](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")「神火飛鳳」。機駕建國後就任三公之一的**大尉**，負責軍事。
+    曾經是**水鏡**[司馬徽的學生](https://zh.wikipedia.org/wiki/司馬徽 "wikilink")。他稱呼自己為「**鳳雛**」。在**戰神決鬥篇**受懿[郭嘉](../Page/郭嘉.md "wikilink")之命前往南[曹操](../Page/曹操.md "wikilink")軍並把洛陽發掘出的「星凰劍」獻予[曹操](../Page/曹操.md "wikilink")。在赤壁之戰鬥，協助[司馬懿的發射](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")「神火飛鳳」。機駕建國後就任三公之一的**大尉**，負責軍事。
 
 <!-- end list -->
 
   -
-    認為好友[徐庶的死是因為](../Page/徐庶.md "wikilink")[孔明袖手旁觀](https://zh.wikipedia.org/wiki/孔明 "wikilink")。自此十分憎恨[孔明](https://zh.wikipedia.org/wiki/孔明 "wikilink")，處處尋找傳說中的天之刃，與戰死的**南方四天王**屍體合體成巨大盟主鋼彈在連載版漫畫第6話戰死。模型漫畫中被闇捉住，並受的力量影響而成為闇的成員。最後出於覺悟昔日同伴([徐庶](../Page/徐庶.md "wikilink"))捨己拯救同伴的決心，再次回復本心，為保護孔明，以身體擋住天熾鵬[司馬懿一擊而死](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
+    認為好友[徐庶](../Page/徐庶.md "wikilink")的死是因為[孔明袖手旁觀](https://zh.wikipedia.org/wiki/孔明 "wikilink")。自此十分憎恨[孔明](https://zh.wikipedia.org/wiki/孔明 "wikilink")，處處尋找傳說中的天之刃，與戰死的**南方四天王**屍體合體成巨大盟主鋼彈在連載版漫畫第6話戰死。模型漫畫中被闇捉住，並受的力量影響而成為闇的成員。最後出於覺悟昔日同伴([徐庶](../Page/徐庶.md "wikilink"))捨己拯救同伴的決心，再次回復本心，為保護孔明，以身體擋住天熾鵬[司馬懿一擊而死](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
 
 :\*稱號：稀代之鬥軍師
 
@@ -608,7 +608,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    擔任機駕三公之一的**司空**，穿著喪服的神官，擔任著立法，人事監察等。性格殘忍。根據單行本內容所示，賈詡在「戰神決鬥編」以前，早已成為[曹操部下](../Page/曹操.md "wikilink")。
+    擔任機駕三公之一的**司空**，穿著喪服的神官，擔任著立法，人事監察等。性格殘忍。根據單行本內容所示，賈詡在「戰神決鬥編」以前，早已成為[曹操](../Page/曹操.md "wikilink")部下。
 
 <!-- end list -->
 
@@ -618,7 +618,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    單行本中，使用黑色玉壐喚醒[龐德體內的](../Page/龐德.md "wikilink")「**闇之血**」。統領着不死部隊與五誇將戰鬥。最後被黑色玉壐吞噬變成巨大怪物被[馬超的新必殺技擊敗](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
+    單行本中，使用黑色玉壐喚醒[龐德](../Page/龐德.md "wikilink")體內的「**闇之血**」。統領着不死部隊與五誇將戰鬥。最後被黑色玉壐吞噬變成巨大怪物被[馬超的新必殺技擊敗](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
 
 :\*稱號：不詳
 
@@ -630,19 +630,19 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 #### 機駕五將
 
-前身是「曹操軍親衛隊」，在[典韋戰死](https://zh.wikipedia.org/wiki/典韋 "wikilink")、[張遼](../Page/張遼.md "wikilink")、[張郃](../Page/張郃.md "wikilink")、[徐晃加入後](../Page/徐晃.md "wikilink")，將軍團重組，成為「衛將騎團」。[曹丕建國後](../Page/曹丕.md "wikilink")，以五名非高達武將——原有成員[張遼](../Page/張遼.md "wikilink")、[張郃](../Page/張郃.md "wikilink")、[徐晃](../Page/徐晃.md "wikilink")，加上一路追隨曹操的夏侯兄弟，稱為「機駕五將」。
+前身是「曹操軍親衛隊」，在[典韋戰死](https://zh.wikipedia.org/wiki/典韋 "wikilink")、[張遼](../Page/張遼.md "wikilink")、[張郃](../Page/張郃.md "wikilink")、[徐晃](../Page/徐晃.md "wikilink")加入後，將軍團重組，成為「衛將騎團」。[曹丕](../Page/曹丕.md "wikilink")建國後，以五名非高達武將——原有成員[張遼](../Page/張遼.md "wikilink")、[張郃](../Page/張郃.md "wikilink")、[徐晃](../Page/徐晃.md "wikilink")，加上一路追隨曹操的夏侯兄弟，稱為「機駕五將」。
 
   - **機駕大將軍**
 
 <!-- end list -->
 
   -
-    **[夏侯惇基羅斯](../Page/夏侯惇.md "wikilink")**（XM-05 Berga Giros）
+    **[夏侯惇](../Page/夏侯惇.md "wikilink")基羅斯**（XM-05 Berga Giros）
 
 :\*推出日期：2008年2月
 
   -
-    機駕軍首席大將，與[曹操關係密切](../Page/曹操.md "wikilink")，是[曹操最信賴的親將](../Page/曹操.md "wikilink")，與弟弟[夏侯淵並為](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")[曹操左右手](../Page/曹操.md "wikilink")。風雲豪傑篇時代曾於討伐[董卓軍而失去左眼](../Page/董卓.md "wikilink")。但在[曹丕稱帝](../Page/曹丕.md "wikilink")、重用[司馬懿後](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，因為不滿[司馬懿而被投閒置散](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。後期被闇之力控制。
+    機駕軍首席大將，與[曹操](../Page/曹操.md "wikilink")關係密切，是[曹操](../Page/曹操.md "wikilink")最信賴的親將，與弟弟[夏侯淵並為](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")[曹操](../Page/曹操.md "wikilink")左右手。風雲豪傑篇時代曾於討伐[董卓](../Page/董卓.md "wikilink")軍而失去左眼。但在[曹丕](../Page/曹丕.md "wikilink")稱帝、重用[司馬懿後](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，因為不滿[司馬懿而被投閒置散](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。後期被闇之力控制。
 
 :\*稱號：[鋼之猛將](https://zh.wikipedia.org/wiki/鋼 "wikilink")
 
@@ -663,9 +663,9 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2008年5月
 
   -
-    機駕大將軍[夏侯惇助手兼親弟](../Page/夏侯惇.md "wikilink")，擅長射擊，擁有神出鬼沒的速度，於官渡之戰立下大功。後期被闇之力控制。
+    機駕大將軍[夏侯惇](../Page/夏侯惇.md "wikilink")助手兼親弟，擅長射擊，擁有神出鬼沒的速度，於官渡之戰立下大功。後期被闇之力控制。
 
-:\*稱號：[隼之鬥將](../Page/隼.md "wikilink")
+:\*稱號：[隼](../Page/隼.md "wikilink")之鬥將
 
 :\*武器：銳鐘、剛骨棍、銳刃弓
 
@@ -686,7 +686,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2008年9月
 
   -
-    「衛將騎團」成員，後來成為「機駕五將」。機駕軍中的第二號人物，步兵及騎兵的總指揮官，與[徐晃同為](../Page/徐晃.md "wikilink")[董卓軍舊部](../Page/董卓.md "wikilink")，曾經為[呂布旗下威名遠播的車騎將軍](https://zh.wikipedia.org/wiki/呂布 "wikilink")。歸順曹操後，視[曹操為心中的太陽](../Page/曹操.md "wikilink")。擔任機駕重鎮合肥的主要守將，與江東小霸王[孫策對戰](https://zh.wikipedia.org/wiki/孫策 "wikilink")，不分上下。與處於對立勢力的[關羽是朋友](https://zh.wikipedia.org/wiki/關羽 "wikilink")，後期被闇控制。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
+    「衛將騎團」成員，後來成為「機駕五將」。機駕軍中的第二號人物，步兵及騎兵的總指揮官，與[徐晃](../Page/徐晃.md "wikilink")同為[董卓](../Page/董卓.md "wikilink")軍舊部，曾經為[呂布旗下威名遠播的車騎將軍](https://zh.wikipedia.org/wiki/呂布 "wikilink")。歸順曹操後，視[曹操](../Page/曹操.md "wikilink")為心中的太陽。擔任機駕重鎮合肥的主要守將，與江東小霸王[孫策對戰](https://zh.wikipedia.org/wiki/孫策 "wikilink")，不分上下。與處於對立勢力的[關羽是朋友](https://zh.wikipedia.org/wiki/關羽 "wikilink")，後期被闇控制。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
 
 :\*稱號：凄絕之鬥魂
 
@@ -711,7 +711,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2009年5月
 
   -
-    「衛將騎團」成員，後來成為「機駕五將」。前[董卓側近](../Page/董卓.md "wikilink")、官位衛將軍，機駕軍騎兵師團長，曾於合肥協防。對[曹操忠心耿耿](../Page/曹操.md "wikilink")，因此得以替[曹操保管鳳熾魂的組件](../Page/曹操.md "wikilink")。在連載漫畫版第四話曾經被[賈詡的](https://zh.wikipedia.org/wiki/賈詡 "wikilink")**闇之力**控制，眼睛從淺藍變成深紅，被復出的[曹操救醒並恢復原樣](../Page/曹操.md "wikilink")。
+    「衛將騎團」成員，後來成為「機駕五將」。前[董卓](../Page/董卓.md "wikilink")側近、官位衛將軍，機駕軍騎兵師團長，曾於合肥協防。對[曹操](../Page/曹操.md "wikilink")忠心耿耿，因此得以替[曹操](../Page/曹操.md "wikilink")保管鳳熾魂的組件。在連載漫畫版第四話曾經被[賈詡的](https://zh.wikipedia.org/wiki/賈詡 "wikilink")**闇之力**控制，眼睛從淺藍變成深紅，被復出的[曹操](../Page/曹操.md "wikilink")救醒並恢復原樣。
 
 :\*稱號：勇壯之戰斧
 
@@ -734,7 +734,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2009年2月
 
   -
-    「衛將騎團」成員，後來成為「機駕五將」。前冀州軍（[袁紹軍](https://zh.wikipedia.org/wiki/袁紹 "wikilink")）中郎將，負責統領機駕近衛軍，曾於合肥協防，是擅長格鬥技的武將。模型漫畫中，曾與少主[曹丕切磋武藝](../Page/曹丕.md "wikilink")，後期被闇控制。
+    「衛將騎團」成員，後來成為「機駕五將」。前冀州軍（[袁紹軍](https://zh.wikipedia.org/wiki/袁紹 "wikilink")）中郎將，負責統領機駕近衛軍，曾於合肥協防，是擅長格鬥技的武將。模型漫畫中，曾與少主[曹丕](../Page/曹丕.md "wikilink")切磋武藝，後期被闇控制。
 
 :\*稱號：深綠之孤狼
 
@@ -747,7 +747,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 #### 衛將騎團
 
   -
-    前身為「[曹操軍親衛隊](../Page/曹操.md "wikilink")」，由[程昱](../Page/程昱.md "wikilink")-{zh-hans:智袋鼠;zh-hk:華茲禾拉比;zh-tw:智袋鼠;}-及[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-率領的親衛兵團，負責在戰役中保護[曹操](../Page/曹操.md "wikilink")。成員包括[典韋阿斯瑪以及](https://zh.wikipedia.org/wiki/典韋 "wikilink")[許褚高達](https://zh.wikipedia.org/wiki/許褚 "wikilink")。[典韋在虎牢城之戰中戰死](https://zh.wikipedia.org/wiki/典韋 "wikilink")。後來張遼、張郃、徐晃三人加入曹操軍，親衛隊重新整編為「衛將騎團」，以張遼為隊長。機駕建國後，親衛隊更名「近衛隊」，成員亦作出變動，領袖[程昱成為光祿勳](../Page/程昱.md "wikilink")（負責宮中內務），近衛軍由[許褚率領](https://zh.wikipedia.org/wiki/許褚 "wikilink")。
+    前身為「[曹操](../Page/曹操.md "wikilink")軍親衛隊」，由[程昱](../Page/程昱.md "wikilink")-{zh-hans:智袋鼠;zh-hk:華茲禾拉比;zh-tw:智袋鼠;}-及[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-率領的親衛兵團，負責在戰役中保護[曹操](../Page/曹操.md "wikilink")。成員包括[典韋阿斯瑪以及](https://zh.wikipedia.org/wiki/典韋 "wikilink")[許褚高達](https://zh.wikipedia.org/wiki/許褚 "wikilink")。[典韋在虎牢城之戰中戰死](https://zh.wikipedia.org/wiki/典韋 "wikilink")。後來張遼、張郃、徐晃三人加入曹操軍，親衛隊重新整編為「衛將騎團」，以張遼為隊長。機駕建國後，親衛隊更名「近衛隊」，成員亦作出變動，領袖[程昱](../Page/程昱.md "wikilink")成為光祿勳（負責宮中內務），近衛軍由[許褚率領](https://zh.wikipedia.org/wiki/許褚 "wikilink")。
 
 <!-- end list -->
 
@@ -762,12 +762,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
     Serpent）
   - **[張郃](../Page/張郃.md "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-III改**（AMX-011S
     Zaku III Custom）
-  - **[樂進鋼彈](../Page/樂進.md "wikilink")**
+  - **[樂進](../Page/樂進.md "wikilink")鋼彈**
 
 :\*衛將騎團成員、詳見[BB戰士 三國傳外傳
 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
-  - **[于禁鋼彈](../Page/于禁.md "wikilink")**
+  - **[于禁](../Page/于禁.md "wikilink")鋼彈**
 
 :\*衛將騎團成員，詳見[BB戰士 三國傳外傳
 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
@@ -781,7 +781,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
   - '''親衛隊士兵（「火袋鼠」／DT-6800HM Daughtress Fire Wallaby）
 
-:\*「[曹操軍近衛兵](../Page/曹操.md "wikilink")」士兵，[曹操出戰時經常隨從左右的精銳之師](../Page/曹操.md "wikilink")。部份零件與[程昱相同](../Page/程昱.md "wikilink")。
+:\*「[曹操](../Page/曹操.md "wikilink")軍近衛兵」士兵，[曹操](../Page/曹操.md "wikilink")出戰時經常隨從左右的精銳之師。部份零件與[程昱](../Page/程昱.md "wikilink")相同。
 
 :\*稱號：親衛隊士兵
 
@@ -796,28 +796,28 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 <!-- end list -->
 
-  - **[韓玄格夏](../Page/韓玄.md "wikilink")**(MS-13 Gasshia）
+  - **[韓玄](../Page/韓玄.md "wikilink")格夏**(MS-13 Gasshia）
 
 <!-- end list -->
 
   -
-    元荊州軍武將。[韓浩之兄](../Page/韓浩.md "wikilink")。
+    元荊州軍武將。[韓浩](../Page/韓浩.md "wikilink")之兄。
     被[黃忠的必殺技](https://zh.wikipedia.org/wiki/黃忠 "wikilink")「昂龍剛鳴閃」所殺。
-    史實中與[韓浩並無兄弟關係](../Page/韓浩.md "wikilink")，是屬於荊襄四郡之一的長沙太守，最後歸順[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")。演義中則與[韓浩屬於兄弟關係](../Page/韓浩.md "wikilink")，因為[黃忠與](https://zh.wikipedia.org/wiki/黃忠 "wikilink")[關羽交戰](https://zh.wikipedia.org/wiki/關羽 "wikilink")，出於膽怯而出逃，最後被[魏延所殺](../Page/魏延.md "wikilink")。
+    史實中與[韓浩](../Page/韓浩.md "wikilink")並無兄弟關係，是屬於荊襄四郡之一的長沙太守，最後歸順[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")。演義中則與[韓浩](../Page/韓浩.md "wikilink")屬於兄弟關係，因為[黃忠與](https://zh.wikipedia.org/wiki/黃忠 "wikilink")[關羽交戰](https://zh.wikipedia.org/wiki/關羽 "wikilink")，出於膽怯而出逃，最後被[魏延](../Page/魏延.md "wikilink")所殺。
 
 :\*稱號：飛蝗
 
 :\*武器：不詳
 
-  - **[韓浩吉剛](../Page/韓浩.md "wikilink")**（MS-12 Gigan）
+  - **[韓浩](../Page/韓浩.md "wikilink")吉剛**（MS-12 Gigan）
 
 <!-- end list -->
 
   -
-    元荊州軍武將。[韓玄之弟](../Page/韓玄.md "wikilink")。
+    元荊州軍武將。[韓玄](../Page/韓玄.md "wikilink")之弟。
     用右腕的短刀將[張魯殺死](https://zh.wikipedia.org/wiki/張魯 "wikilink")。
     被[馬超的必殺技](https://zh.wikipedia.org/wiki/馬超 "wikilink")「獅龍·神威亂舞」斬成肉塊。
-    史實中與[韓玄並無兄弟關係](../Page/韓玄.md "wikilink")，而且早在[董卓專擅時期已加入曹營](../Page/董卓.md "wikilink")，曾在軍事譁變中救出被挾持的[夏侯惇](../Page/夏侯惇.md "wikilink")，其處事冷靜的作風，深得[曹操欣賞](../Page/曹操.md "wikilink")。演義中則成為[韓玄之弟](../Page/韓玄.md "wikilink")，在兄長被殺後，才加入曹軍。
+    史實中與[韓玄](../Page/韓玄.md "wikilink")並無兄弟關係，而且早在[董卓](../Page/董卓.md "wikilink")專擅時期已加入曹營，曾在軍事譁變中救出被挾持的[夏侯惇](../Page/夏侯惇.md "wikilink")，其處事冷靜的作風，深得[曹操](../Page/曹操.md "wikilink")欣賞。演義中則成為[韓玄](../Page/韓玄.md "wikilink")之弟，在兄長被殺後，才加入曹軍。
 
 :\*稱號：不詳
 
@@ -831,7 +831,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    前西涼軍將領，作為機駕軍的內應，追殺[龐德時](../Page/龐德.md "wikilink")，被[馬超的飛劍在一瞬間斬下了左臂](https://zh.wikipedia.org/wiki/馬超 "wikilink")。在[龐德死後被在暴走中的](../Page/龐德.md "wikilink")[馬超殺死](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
+    前西涼軍將領，作為機駕軍的內應，追殺[龐德](../Page/龐德.md "wikilink")時，被[馬超的飛劍在一瞬間斬下了左臂](https://zh.wikipedia.org/wiki/馬超 "wikilink")。在[龐德](../Page/龐德.md "wikilink")死後被在暴走中的[馬超殺死](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
 
 :\*稱號：不詳
 
@@ -865,7 +865,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ### 轟
 
-位處三璃紗南方，孫一族統領的州郡，相等於「吳」國。赤壁之戰後，[孫權繼位](https://zh.wikipedia.org/wiki/孫權 "wikilink")，以[陸遜為軍師](../Page/陸遜.md "wikilink")，建國稱帝。
+位處三璃紗南方，孫一族統領的州郡，相等於「吳」國。赤壁之戰後，[孫權繼位](https://zh.wikipedia.org/wiki/孫權 "wikilink")，以[陸遜](../Page/陸遜.md "wikilink")為軍師，建國稱帝。
 
 #### 孫一族
 
@@ -887,12 +887,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    在戰神決鬥編初期，和[陸遜及四騎眾被黑暗玉璽一起石化](../Page/陸遜.md "wikilink")。在[孫權被石化期間](https://zh.wikipedia.org/wiki/孫權 "wikilink")，轟國武將[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧因為闇之力影響](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，落入黑暗之力手中，僅得出逃的[太史慈得以身免](../Page/太史慈.md "wikilink")。
+    在戰神決鬥編初期，和[陸遜](../Page/陸遜.md "wikilink")及四騎眾被黑暗玉璽一起石化。在[孫權被石化期間](https://zh.wikipedia.org/wiki/孫權 "wikilink")，轟國武將[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧因為闇之力影響](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，落入黑暗之力手中，僅得出逃的[太史慈](../Page/太史慈.md "wikilink")得以身免。
 
 <!-- end list -->
 
   -
-    在模型版漫畫中，面對被[蚩尤附身控制的](../Page/蚩尤.md "wikilink")[孫策所發動的猛烈攻擊](https://zh.wikipedia.org/wiki/孫策 "wikilink")，[孫權發動蒼晄壁抵擋](https://zh.wikipedia.org/wiki/孫權 "wikilink")，在蒼晄壁將被擊破崩潰之時，虎碇刀爆發出強烈的光芒，[孫堅的魂魄出現](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，將真・虎錠刀傳給[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")，轟大帝正式覺醒，順利擊敗[蚩尤](../Page/蚩尤.md "wikilink")，救出[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")。最終決戰時，與翔烈帝[劉備合力對抗黑暗玉璽精神感應型](https://zh.wikipedia.org/wiki/劉備 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-，但卻不敵隨後出現的戰神合身[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-，危急之時，機武帝[曹操與武義之魂覺醒的](../Page/曹操.md "wikilink")[呂布出現](https://zh.wikipedia.org/wiki/呂布 "wikilink")，三侯與武義共抗黑闇的局面正式成形。
+    在模型版漫畫中，面對被[蚩尤](../Page/蚩尤.md "wikilink")附身控制的[孫策所發動的猛烈攻擊](https://zh.wikipedia.org/wiki/孫策 "wikilink")，[孫權發動蒼晄壁抵擋](https://zh.wikipedia.org/wiki/孫權 "wikilink")，在蒼晄壁將被擊破崩潰之時，虎碇刀爆發出強烈的光芒，[孫堅的魂魄出現](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，將真・虎錠刀傳給[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")，轟大帝正式覺醒，順利擊敗[蚩尤](../Page/蚩尤.md "wikilink")，救出[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")。最終決戰時，與翔烈帝[劉備合力對抗黑暗玉璽精神感應型](https://zh.wikipedia.org/wiki/劉備 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-，但卻不敵隨後出現的戰神合身[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-，危急之時，機武帝[曹操](../Page/曹操.md "wikilink")與武義之魂覺醒的[呂布出現](https://zh.wikipedia.org/wiki/呂布 "wikilink")，三侯與武義共抗黑闇的局面正式成形。
 
 :\*稱號：碧眼之獸神
 
@@ -931,7 +931,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2009年11月
 
   -
-    [孫堅之子](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[孫尚香之兄](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。與個性沉靜的弟弟截然相反，性格豪邁而愛好武鬥，每戰必定身先士卒。在合淝攻略戰中，[孫策與](https://zh.wikipedia.org/wiki/孫策 "wikilink")[郭嘉控制的巨石兵交戰](../Page/郭嘉.md "wikilink")，陷入苦戰，及後又為了保護[劉備等人](https://zh.wikipedia.org/wiki/劉備 "wikilink")，而瀕臨重傷。最後更被崩潰的巨石兵所吞沒，赤壁之戰時失蹤，長沙軍唯有將他視為已經陣亡。模型漫畫中仍然生存。被[蚩尤打敗後](../Page/蚩尤.md "wikilink")，強行合體成「蚩尤魔裝型態」，向[關羽和](https://zh.wikipedia.org/wiki/關羽 "wikilink")[關平及](../Page/關平.md "wikilink")[周倉攻擊](../Page/周倉.md "wikilink")，被[關平和](../Page/關平.md "wikilink")[劉備打敗](https://zh.wikipedia.org/wiki/劉備 "wikilink")。之後與[孫權對上](https://zh.wikipedia.org/wiki/孫權 "wikilink")，戰死於[孫權的必殺猛虎獸烈霸](https://zh.wikipedia.org/wiki/孫權 "wikilink")。與[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")、[郭嘉一樣](../Page/郭嘉.md "wikilink")，為了對抗中國大陸盜版模型，被重新再改修設計的武將，包括雙虎旋棍由方型變成類似GP02A的圓型肩甲、以及追加強襲型態。
+    [孫堅之子](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")、[孫尚香之兄](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。與個性沉靜的弟弟截然相反，性格豪邁而愛好武鬥，每戰必定身先士卒。在合淝攻略戰中，[孫策與](https://zh.wikipedia.org/wiki/孫策 "wikilink")[郭嘉](../Page/郭嘉.md "wikilink")控制的巨石兵交戰，陷入苦戰，及後又為了保護[劉備等人](https://zh.wikipedia.org/wiki/劉備 "wikilink")，而瀕臨重傷。最後更被崩潰的巨石兵所吞沒，赤壁之戰時失蹤，長沙軍唯有將他視為已經陣亡。模型漫畫中仍然生存。被[蚩尤](../Page/蚩尤.md "wikilink")打敗後，強行合體成「蚩尤魔裝型態」，向[關羽和](https://zh.wikipedia.org/wiki/關羽 "wikilink")[關平](../Page/關平.md "wikilink")及[周倉](../Page/周倉.md "wikilink")攻擊，被[關平](../Page/關平.md "wikilink")和[劉備打敗](https://zh.wikipedia.org/wiki/劉備 "wikilink")。之後與[孫權對上](https://zh.wikipedia.org/wiki/孫權 "wikilink")，戰死於[孫權的必殺猛虎獸烈霸](https://zh.wikipedia.org/wiki/孫權 "wikilink")。與[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")、[郭嘉](../Page/郭嘉.md "wikilink")一樣，為了對抗中國大陸盜版模型，被重新再改修設計的武將，包括雙虎旋棍由方型變成類似GP02A的圓型肩甲、以及追加強襲型態。
 
 :\*稱號：江東之小霸王
 
@@ -950,7 +950,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
   -
     [孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[孫權及](https://zh.wikipedia.org/wiki/孫權 "wikilink")[孫尚香之父](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")，身穿[孫武的白虎之鎧](https://zh.wikipedia.org/wiki/孫武 "wikilink")[孫氏三代霸業的草創者](https://zh.wikipedia.org/wiki/孫 "wikilink")。長沙地方的領主，亦為偉大兵法家[孫武後裔](https://zh.wikipedia.org/wiki/孫武 "wikilink")。擁有足以與龍帝劍匹敵、由三侯時代己流傳至今的的兵器「虎錠刀」。
-    在[曹操邀請下](../Page/曹操.md "wikilink")，加入討伐[董卓聯軍](../Page/董卓.md "wikilink")。在軍事會議中，他主動向[司馬懿請纓](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，率領長沙四騎眾，進攻虎牢城，目的是要得到傳說中的神器「天玉鎧」。可惜大事未成，便為保護受[呂布攻擊的](https://zh.wikipedia.org/wiki/呂布 "wikilink")[孫尚香戰死](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。事件震撼整個長沙軍，眾人均而悲慟不已，卻也令長沙軍更團結、更勇猛。[孫堅率領](https://zh.wikipedia.org/wiki/孫堅 "wikilink")「長沙四騎眾」作戰時，全部成員都會戴著紅色圍巾。
+    在[曹操](../Page/曹操.md "wikilink")邀請下，加入討伐[董卓](../Page/董卓.md "wikilink")聯軍。在軍事會議中，他主動向[司馬懿請纓](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，率領長沙四騎眾，進攻虎牢城，目的是要得到傳說中的神器「天玉鎧」。可惜大事未成，便為保護受[呂布攻擊的](https://zh.wikipedia.org/wiki/呂布 "wikilink")[孫尚香戰死](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。事件震撼整個長沙軍，眾人均而悲慟不已，卻也令長沙軍更團結、更勇猛。[孫堅率領](https://zh.wikipedia.org/wiki/孫堅 "wikilink")「長沙四騎眾」作戰時，全部成員都會戴著紅色圍巾。
 
 <!-- end list -->
 
@@ -971,7 +971,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：(B-Club版首辦模型)2008年、(Bandai版模型)2009年5月(註:推出時間雖然在[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，[黃忠之後](https://zh.wikipedia.org/wiki/黃忠 "wikilink")，但盒子顯示她是屬於「英雄激突編」。)
 
   -
-    「江東之虎」[孫堅之女](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[孫權之妹](https://zh.wikipedia.org/wiki/孫權 "wikilink")，不輸男子漢的熱血性格常讓兩位兄長擔心她會嫁不出去而頭痛不已。在赤壁大戰後為尋找失去蹤影的愛人[劉備而前往蜀國](https://zh.wikipedia.org/wiki/劉備 "wikilink")，曾隨同[孔明夫婦到南蠻尋找傳說中的天之刃](https://zh.wikipedia.org/wiki/孔明 "wikilink")，期間與被闇之力控制的[祝融戰鬥](../Page/祝融.md "wikilink")。
+    「江東之虎」[孫堅之女](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[孫權之妹](https://zh.wikipedia.org/wiki/孫權 "wikilink")，不輸男子漢的熱血性格常讓兩位兄長擔心她會嫁不出去而頭痛不已。在赤壁大戰後為尋找失去蹤影的愛人[劉備而前往蜀國](https://zh.wikipedia.org/wiki/劉備 "wikilink")，曾隨同[孔明夫婦到南蠻尋找傳說中的天之刃](https://zh.wikipedia.org/wiki/孔明 "wikilink")，期間與被闇之力控制的[祝融](../Page/祝融.md "wikilink")戰鬥。
 
 <!-- end list -->
 
@@ -994,7 +994,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2009年9月
 
   -
-    能與鋼甲機合體，變成**鋼甲形態**、**擊鋼形態**及**鋼鎧裝形態**，是江東的豪傑，使用巨大鋼戟及[鐵鞭](https://zh.wikipedia.org/wiki/鐵鞭 "wikilink")，而且射術精湛。他出現於正要統一江東的[孫策面前](https://zh.wikipedia.org/wiki/孫策 "wikilink")，並與其進行壯烈的決鬥，雙方決戰半日仍未分勝負。最後[孫策軍戰勝](https://zh.wikipedia.org/wiki/孫策 "wikilink")，但他相當欣賞[太史慈](../Page/太史慈.md "wikilink")，便想親自邀其加入。[太史慈主動要求](../Page/太史慈.md "wikilink")「只要你替我鬆綁，我便會為你向其他兵將說降」，之後便離開[孫策軍](https://zh.wikipedia.org/wiki/孫策 "wikilink")。雖然[孫策的手下將領](https://zh.wikipedia.org/wiki/孫策 "wikilink")，大都認為[太史慈其實是藉詞逃走](../Page/太史慈.md "wikilink")，不過[孫策仍對其相當信任](https://zh.wikipedia.org/wiki/孫策 "wikilink")。果然不久以後，他便率同其他士卒一同歸順，自此跟從[孫策成為其心腹部將](https://zh.wikipedia.org/wiki/孫策 "wikilink")。後來隨[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[周瑜一同攻討合肥](../Page/周瑜.md "wikilink")，與[張遼等機駕將領對陣](../Page/張遼.md "wikilink")。赤壁之戰後，繼續統領情報機關。當轟國被闇之力侵入時，[太史慈往翔國求助](../Page/太史慈.md "wikilink")，途中遇上遭逢危難的[關羽隊](https://zh.wikipedia.org/wiki/關羽 "wikilink")，出手相救。及後與[關平合作](../Page/關平.md "wikilink")，成功擊破影響轟國的闇之力裝備。
+    能與鋼甲機合體，變成**鋼甲形態**、**擊鋼形態**及**鋼鎧裝形態**，是江東的豪傑，使用巨大鋼戟及[鐵鞭](https://zh.wikipedia.org/wiki/鐵鞭 "wikilink")，而且射術精湛。他出現於正要統一江東的[孫策面前](https://zh.wikipedia.org/wiki/孫策 "wikilink")，並與其進行壯烈的決鬥，雙方決戰半日仍未分勝負。最後[孫策軍戰勝](https://zh.wikipedia.org/wiki/孫策 "wikilink")，但他相當欣賞[太史慈](../Page/太史慈.md "wikilink")，便想親自邀其加入。[太史慈](../Page/太史慈.md "wikilink")主動要求「只要你替我鬆綁，我便會為你向其他兵將說降」，之後便離開[孫策軍](https://zh.wikipedia.org/wiki/孫策 "wikilink")。雖然[孫策的手下將領](https://zh.wikipedia.org/wiki/孫策 "wikilink")，大都認為[太史慈](../Page/太史慈.md "wikilink")其實是藉詞逃走，不過[孫策仍對其相當信任](https://zh.wikipedia.org/wiki/孫策 "wikilink")。果然不久以後，他便率同其他士卒一同歸順，自此跟從[孫策成為其心腹部將](https://zh.wikipedia.org/wiki/孫策 "wikilink")。後來隨[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[周瑜](../Page/周瑜.md "wikilink")一同攻討合肥，與[張遼](../Page/張遼.md "wikilink")等機駕將領對陣。赤壁之戰後，繼續統領情報機關。當轟國被闇之力侵入時，[太史慈](../Page/太史慈.md "wikilink")往翔國求助，途中遇上遭逢危難的[關羽隊](https://zh.wikipedia.org/wiki/關羽 "wikilink")，出手相救。及後與[關平](../Page/關平.md "wikilink")合作，成功擊破影響轟國的闇之力裝備。
 
 :\*稱號：灼熱之偉丈夫、黑色大丈夫
 
@@ -1008,13 +1008,13 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：鋼甲機（MA-06 VAL-WALO）
 
-  - **[陸遜Zeta](../Page/陸遜.md "wikilink")-Plus A1（MSZ-006 阿姆羅專用Zeta-Plus
+  - **[陸遜](../Page/陸遜.md "wikilink")Zeta-Plus A1（MSZ-006 阿姆羅專用Zeta-Plus
     A1）**
 
 :\*推出日期：2009年1月
 
   -
-    [周瑜的弟子](../Page/周瑜.md "wikilink")，同時以[孫尚香側近身份活躍](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。赤壁之戰時，代替負傷的[周瑜指揮作戰](../Page/周瑜.md "wikilink")。[周瑜死後](../Page/周瑜.md "wikilink")[陸遜就任](../Page/陸遜.md "wikilink")**大都督**及**水軍統帥**。赤壁之戰後，被闇之力囚禁，令轟國陷入闇之力控制中。
+    [周瑜](../Page/周瑜.md "wikilink")的弟子，同時以[孫尚香側近身份活躍](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")。赤壁之戰時，代替負傷的[周瑜](../Page/周瑜.md "wikilink")指揮作戰。[周瑜](../Page/周瑜.md "wikilink")死後[陸遜](../Page/陸遜.md "wikilink")就任**大都督**及**水軍統帥**。赤壁之戰後，被闇之力囚禁，令轟國陷入闇之力控制中。
 
 :\*稱號：明日飛舞之翼
 
@@ -1026,13 +1026,13 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：強襲戰艦
 
-  - **[周瑜百式](../Page/周瑜.md "wikilink")（MSN-00100 Hyaku Shiki）**
+  - **[周瑜](../Page/周瑜.md "wikilink")百式（MSN-00100 Hyaku Shiki）**
 
 :\*推出日期：2008年10月
 
   -
-    自小便認識[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、深得他信任的武將。認為要平定江東，精良的水軍是不可或缺。有專用樓船(雷擊艇)，同時擔任[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[孫權的軍師](https://zh.wikipedia.org/wiki/孫權 "wikilink")。模型漫畫中，[周瑜以天雷火炮消滅](../Page/周瑜.md "wikilink")[郭嘉](../Page/郭嘉.md "wikilink")，繼而配合[孔明得知風向改變的時機](https://zh.wikipedia.org/wiki/孔明 "wikilink")，勉強再使出一發火炮，盡焚[曹軍戰艦](https://zh.wikipedia.org/wiki/曹 "wikilink")，結果因為精神力幾近耗盡，吐血暈倒。在連載漫畫中，被亂箭射中倒地。赤壁之戰後，在拜祭[孫堅和](https://zh.wikipedia.org/wiki/孫堅 "wikilink")[孫策時去世](https://zh.wikipedia.org/wiki/孫策 "wikilink")。
-      - 在[孫策的模型漫畫中](https://zh.wikipedia.org/wiki/孫策 "wikilink")，[周瑜依然健在](../Page/周瑜.md "wikilink")。
+    自小便認識[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、深得他信任的武將。認為要平定江東，精良的水軍是不可或缺。有專用樓船(雷擊艇)，同時擔任[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[孫權的軍師](https://zh.wikipedia.org/wiki/孫權 "wikilink")。模型漫畫中，[周瑜](../Page/周瑜.md "wikilink")以天雷火炮消滅[郭嘉](../Page/郭嘉.md "wikilink")，繼而配合[孔明得知風向改變的時機](https://zh.wikipedia.org/wiki/孔明 "wikilink")，勉強再使出一發火炮，盡焚[曹軍戰艦](https://zh.wikipedia.org/wiki/曹 "wikilink")，結果因為精神力幾近耗盡，吐血暈倒。在連載漫畫中，被亂箭射中倒地。赤壁之戰後，在拜祭[孫堅和](https://zh.wikipedia.org/wiki/孫堅 "wikilink")[孫策時去世](https://zh.wikipedia.org/wiki/孫策 "wikilink")。
+      - 在[孫策的模型漫畫中](https://zh.wikipedia.org/wiki/孫策 "wikilink")，[周瑜](../Page/周瑜.md "wikilink")依然健在。
 
 :\*稱號：白金之麗將
 
@@ -1048,7 +1048,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 #### 江東水軍獨立游擊船團
 
-又稱**強襲水軍**，由[孫策建立](https://zh.wikipedia.org/wiki/孫策 "wikilink")，隸屬於江東提督[周瑜](../Page/周瑜.md "wikilink")，由[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧率領](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，對抗[曹操軍](../Page/曹操.md "wikilink")。
+又稱**強襲水軍**，由[孫策建立](https://zh.wikipedia.org/wiki/孫策 "wikilink")，隸屬於江東提督[周瑜](../Page/周瑜.md "wikilink")，由[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧率領](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，對抗[曹操](../Page/曹操.md "wikilink")軍。
 
   - **[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")-{zh-hk:迪傑;zh-tw:迪謝;}-**（輕裝：RMS-099
     Ricky Dias／提督裝備：MSK-008 Dijeh）
@@ -1056,7 +1056,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2008年8月（為「呂蒙、甘寧、轟強襲水軍」角色之一）
 
   -
-    出身江東的將領，受僱而參加戰鬥的傭兵武將。據說因品行欠佳而被趕出正規軍，踏上了流浪的旅程。與[甘寧一同率領轟國](https://zh.wikipedia.org/wiki/甘寧 "wikilink")**強襲水軍**作戰。年輕時曾為海盜，更被荊州通緝，被江東將領鄧當逮捕。後來[呂蒙屢立戰功](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")，更獲[孫策提拔為將領](https://zh.wikipedia.org/wiki/孫策 "wikilink")。孫策對[呂蒙有如此轉變表示非常欣賞](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")。呂蒙有個人專用戰艦。後期與[甘寧被](https://zh.wikipedia.org/wiki/甘寧 "wikilink")[蚩尤的闇之力控制](../Page/蚩尤.md "wikilink")，因此與關羽父子作出攻擊（模型漫畫中則率領被洗腦的軍隊攻擊轟國）。
+    出身江東的將領，受僱而參加戰鬥的傭兵武將。據說因品行欠佳而被趕出正規軍，踏上了流浪的旅程。與[甘寧一同率領轟國](https://zh.wikipedia.org/wiki/甘寧 "wikilink")**強襲水軍**作戰。年輕時曾為海盜，更被荊州通緝，被江東將領鄧當逮捕。後來[呂蒙屢立戰功](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")，更獲[孫策提拔為將領](https://zh.wikipedia.org/wiki/孫策 "wikilink")。孫策對[呂蒙有如此轉變表示非常欣賞](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")。呂蒙有個人專用戰艦。後期與[甘寧被](https://zh.wikipedia.org/wiki/甘寧 "wikilink")[蚩尤](../Page/蚩尤.md "wikilink")的闇之力控制，因此與關羽父子作出攻擊（模型漫畫中則率領被洗腦的軍隊攻擊轟國）。
 
 :\*稱號：孤高的智將
 
@@ -1072,7 +1072,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期：2008年8月（為「呂蒙、甘寧、轟強襲水軍」角色之一）
 
   -
-    本是為患江東一帶的水盜頭領。擅長謀略且極重情義，深得部下的敬重。曾經為荊州水軍將領[黃祖部下](../Page/黃祖.md "wikilink")，是一名深受小孩子歡迎的武將。與[呂蒙一樣出身荊州](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")，後來成為長沙軍一員。而他所率領的海盜軍團，則成為**強襲水軍**的骨幹成員。有個人專用戰艦。後期與[呂蒙被](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")[蚩尤的闇之力控制](../Page/蚩尤.md "wikilink")。
+    本是為患江東一帶的水盜頭領。擅長謀略且極重情義，深得部下的敬重。曾經為荊州水軍將領[黃祖](../Page/黃祖.md "wikilink")部下，是一名深受小孩子歡迎的武將。與[呂蒙一樣出身荊州](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")，後來成為長沙軍一員。而他所率領的海盜軍團，則成為**強襲水軍**的骨幹成員。有個人專用戰艦。後期與[呂蒙被](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")[蚩尤](../Page/蚩尤.md "wikilink")的闇之力控制。
 
 :\*稱號：勇猛之蒼鮫
 
@@ -1127,9 +1127,9 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 #### 長沙四騎眾
 
-自[孫堅擔任將軍以來](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，已輔助[孫堅東征西討的四名元老猛將](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，分別是[黃蓋](../Page/黃蓋.md "wikilink")、[韓當](../Page/韓當.md "wikilink")、[程普及](../Page/程普.md "wikilink")[祖茂](https://zh.wikipedia.org/wiki/祖茂 "wikilink")，與主公一樣，每戰均披上紅色披肩。由於成員[祖茂](https://zh.wikipedia.org/wiki/祖茂 "wikilink")、[黃蓋先後戰死](../Page/黃蓋.md "wikilink")，成員餘下[程普及](../Page/程普.md "wikilink")[韓當兩人](../Page/韓當.md "wikilink")。
+自[孫堅擔任將軍以來](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，已輔助[孫堅東征西討的四名元老猛將](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，分別是[黃蓋](../Page/黃蓋.md "wikilink")、[韓當](../Page/韓當.md "wikilink")、[程普](../Page/程普.md "wikilink")及[祖茂](https://zh.wikipedia.org/wiki/祖茂 "wikilink")，與主公一樣，每戰均披上紅色披肩。由於成員[祖茂](https://zh.wikipedia.org/wiki/祖茂 "wikilink")、[黃蓋](../Page/黃蓋.md "wikilink")先後戰死，成員餘下[程普](../Page/程普.md "wikilink")及[韓當](../Page/韓當.md "wikilink")兩人。
 
-  - **[程普吉姆](../Page/程普.md "wikilink")-{zh-hk:改;zh-tw:特裝型;}-**（RGM-79N
+  - **[程普](../Page/程普.md "wikilink")吉姆-{zh-hk:改;zh-tw:特裝型;}-**（RGM-79N
     GM custom）
 
 <!-- end list -->
@@ -1145,7 +1145,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：乱拳
 
-  - **[韓當吉姆](../Page/韓當.md "wikilink")-{zh-hk:大砲;zh-tw:加農;}-II**（RX-77-4
+  - **[韓當](../Page/韓當.md "wikilink")吉姆-{zh-hk:大砲;zh-tw:加農;}-II**（RX-77-4
     Guncannon II）
 
 <!-- end list -->
@@ -1194,7 +1194,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ### 真
 
-「闇」被消滅、三國鼎立十多年後，最終統一三璃紗的國家。模型漫畫中，由[司馬炎為君主](../Page/司馬炎.md "wikilink")，相對史實的「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」
+「闇」被消滅、三國鼎立十多年後，最終統一三璃紗的國家。模型漫畫中，由[司馬炎](../Page/司馬炎.md "wikilink")為君主，相對史實的「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」
 
   - **[司馬炎](../Page/司馬炎.md "wikilink")-{zh-hk:渣古;zh-tw:薩克;}-II**(MS-06S
     Zaku II Char Aznable Custom)
@@ -1215,7 +1215,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ### 闇
 
-:\*「三侯本紀」中所記載、率領魑魅魍魎，令世界陷入痛苦深淵的元兇。[黃祖](../Page/黃祖.md "wikilink")、[蔡瑁](../Page/蔡瑁.md "wikilink")、[龐德](../Page/龐德.md "wikilink")、[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")、[曹丕](../Page/曹丕.md "wikilink")、[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")、[龐統](https://zh.wikipedia.org/wiki/龐統 "wikilink")、[祝融都曾經使用過闇的力量](../Page/祝融.md "wikilink")。[董卓](../Page/董卓.md "wikilink")、[郭嘉](../Page/郭嘉.md "wikilink")、[司馬懿是其主要成員](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。大多擁有使用黑暗玉壐的能力。
+:\*「三侯本紀」中所記載、率領魑魅魍魎，令世界陷入痛苦深淵的元兇。[黃祖](../Page/黃祖.md "wikilink")、[蔡瑁](../Page/蔡瑁.md "wikilink")、[龐德](../Page/龐德.md "wikilink")、[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")、[曹丕](../Page/曹丕.md "wikilink")、[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")、[龐統](https://zh.wikipedia.org/wiki/龐統 "wikilink")、[祝融](../Page/祝融.md "wikilink")都曾經使用過闇的力量。[董卓](../Page/董卓.md "wikilink")、[郭嘉](../Page/郭嘉.md "wikilink")、[司馬懿是其主要成員](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。大多擁有使用黑暗玉壐的能力。
 
 #### 究極黑暗
 
@@ -1247,8 +1247,8 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
   -
-    主要機駕三公擁有玉璽。可令使用者進行巨大變化。[司馬炎供奉時](../Page/司馬炎.md "wikilink")，外殼粉碎成巨神兵器、進行破壞與殺戮。
-    可以與[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")、[司馬師](../Page/司馬師.md "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[蚩尤合體成為](../Page/蚩尤.md "wikilink")「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。此外亦可與[郭嘉進行合體](../Page/郭嘉.md "wikilink")。
+    主要機駕三公擁有玉璽。可令使用者進行巨大變化。[司馬炎](../Page/司馬炎.md "wikilink")供奉時，外殼粉碎成巨神兵器、進行破壞與殺戮。
+    可以與[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")、[司馬師](../Page/司馬師.md "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[蚩尤](../Page/蚩尤.md "wikilink")合體成為「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。此外亦可與[郭嘉](../Page/郭嘉.md "wikilink")進行合體。
 
 :\*稱號：破壞之巨神
 
@@ -1258,7 +1258,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：不詳
 
-  - **[蚩尤Neue](../Page/蚩尤.md "wikilink") Ziel**(AMA-0X2 NEUE ZIEL)
+  - **[蚩尤](../Page/蚩尤.md "wikilink")Neue Ziel**(AMA-0X2 NEUE ZIEL)
 
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
@@ -1275,12 +1275,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：闇之力
 
-  - **[司馬師潘娜洛普](../Page/司馬師.md "wikilink")**(RX-104FF Odysseus Gundam)
+  - **[司馬師](../Page/司馬師.md "wikilink")潘娜洛普**(RX-104FF Odysseus Gundam)
 
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
   -
-    [司馬懿的長子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，以高強武藝活躍於台前，既是[司馬懿的副手](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，同時受父親之命，負責監視[司馬炎](../Page/司馬炎.md "wikilink")。可以與黑暗玉璽、[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[蚩尤合體成為](../Page/蚩尤.md "wikilink")「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。武器「白鵬景」的「景」，來自[司馬師謐號](../Page/司馬師.md "wikilink")「晉景帝」。
+    [司馬懿的長子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，以高強武藝活躍於台前，既是[司馬懿的副手](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，同時受父親之命，負責監視[司馬炎](../Page/司馬炎.md "wikilink")。可以與黑暗玉璽、[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[蚩尤](../Page/蚩尤.md "wikilink")合體成為「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。武器「白鵬景」的「景」，來自[司馬師](../Page/司馬師.md "wikilink")謐號「晉景帝」。
 
 :\*稱號：白闇之衛將
 
@@ -1296,7 +1296,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
   -
-    [司馬懿的次子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，與兄長[司馬師一同監視](../Page/司馬師.md "wikilink")[司馬炎](../Page/司馬炎.md "wikilink")。對「G紀」最終章．默示錄極之信奉的神官。可以與黑暗玉璽、[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[蚩尤合體成為](../Page/蚩尤.md "wikilink")「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。武器「白鵬文」的「文」，來自[司馬昭謐號](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")「晉文帝」。
+    [司馬懿的次子](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，與兄長[司馬師](../Page/司馬師.md "wikilink")一同監視[司馬炎](../Page/司馬炎.md "wikilink")。對「G紀」最終章．默示錄極之信奉的神官。可以與黑暗玉璽、[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[蚩尤](../Page/蚩尤.md "wikilink")合體成為「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。武器「白鵬文」的「文」，來自[司馬昭謐號](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")「晉文帝」。
 
 :\*稱號：白闇之神官
 
@@ -1391,7 +1391,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期:2009年8月（為「阿修羅王 孟獲高達 祝融高達 巨神象」角色之一）
 
   -
-    南方國王[孟獲的妻子](../Page/孟獲.md "wikilink")，同樣繼承了古代．赤流火穩闇之血。經常鼓勵被負面想法困擾而煩惱的丈夫。擁有驚人的戰鬥力，據說在戰場上看過[祝融之舞的敵人](../Page/祝融.md "wikilink")，無一生還。與[馬超同樣可發動閽之力解放型態](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
+    南方國王[孟獲](../Page/孟獲.md "wikilink")的妻子，同樣繼承了古代．赤流火穩闇之血。經常鼓勵被負面想法困擾而煩惱的丈夫。擁有驚人的戰鬥力，據說在戰場上看過[祝融](../Page/祝融.md "wikilink")之舞的敵人，無一生還。與[馬超同樣可發動閽之力解放型態](https://zh.wikipedia.org/wiki/馬超 "wikilink")。
 
 <!-- end list -->
 
@@ -1444,8 +1444,8 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    [祝融高達原型機Noble](../Page/祝融.md "wikilink")
-    Gundam，吸收DG細胞後，便成為[帶來洞主的原型機](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")「笑傲江湖」，與[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[祝融與](../Page/祝融.md "wikilink")[帶來洞主為姊弟關係互相呼應](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")。
+    [祝融](../Page/祝融.md "wikilink")高達原型機Noble
+    Gundam，吸收DG細胞後，便成為[帶來洞主的原型機](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")「笑傲江湖」，與[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[祝融](../Page/祝融.md "wikilink")與[帶來洞主為姊弟關係互相呼應](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")。
 
 :\*稱號：不詳
 
@@ -1520,14 +1520,14 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ### 涼州軍
 
-位處西北的軍團，曾為反[董卓聯軍成員](../Page/董卓.md "wikilink")。
+位處西北的軍團，曾為反[董卓](../Page/董卓.md "wikilink")聯軍成員。
 
   - **[馬騰](../Page/馬騰.md "wikilink")？？（機體不詳）**
 
 <!-- end list -->
 
   -
-    反[董卓聯軍成員之一](../Page/董卓.md "wikilink")。虎牢城攻略戰中，在[曹操等東路軍於虎牢城牽制敵軍時](../Page/曹操.md "wikilink")，循西路向[董卓大本營](../Page/董卓.md "wikilink")、三璃紗首都洛陽進行迂迴突擊，於英雄激突編死於與[曹操軍的戰鬥中](../Page/曹操.md "wikilink")。
+    反[董卓](../Page/董卓.md "wikilink")聯軍成員之一。虎牢城攻略戰中，在[曹操](../Page/曹操.md "wikilink")等東路軍於虎牢城牽制敵軍時，循西路向[董卓](../Page/董卓.md "wikilink")大本營、三璃紗首都洛陽進行迂迴突擊，於英雄激突編死於與[曹操](../Page/曹操.md "wikilink")軍的戰鬥中。
 
 :\*稱號：不詳
 
@@ -1535,7 +1535,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：不詳
 
-  - **[龐德伊夫利特](../Page/龐德.md "wikilink")**（MS-08TX Efreet）
+  - **[龐德](../Page/龐德.md "wikilink")伊夫利特**（MS-08TX Efreet）
 
 <!-- end list -->
 
@@ -1556,7 +1556,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    漢中領主，曾收容被機駕追捕的[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，被[韓浩所殺](../Page/韓浩.md "wikilink")。
+    漢中領主，曾收容被機駕追捕的[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，被[韓浩](../Page/韓浩.md "wikilink")所殺。
     漢中的百姓設定與[張魯一樣都是以尼姆為藍本](https://zh.wikipedia.org/wiki/張魯 "wikilink")，與三國人民以吉姆為設定藍本有所不同。
 
 :\*稱號：師君、漢中之鷹
@@ -1565,12 +1565,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：不詳
 
-  - **[徐庶傑剛](../Page/徐庶.md "wikilink")**（RGM-89 Jegan）
+  - **[徐庶](../Page/徐庶.md "wikilink")傑剛**（RGM-89 Jegan）
 
 <!-- end list -->
 
   -
-    擅使飛劍，曾經是[水鏡的學生](https://zh.wikipedia.org/wiki/水鏡 "wikilink")，與[孔明](https://zh.wikipedia.org/wiki/孔明 "wikilink")、[龐統是同窗兼好友](https://zh.wikipedia.org/wiki/龐統 "wikilink")，[董卓之亂時](../Page/董卓.md "wikilink")，為協助難民逃過[董卓軍追殺](../Page/董卓.md "wikilink")，與[董卓軍的士兵同歸於盡](../Page/董卓.md "wikilink")，被認為已死去。後來[龐統將](https://zh.wikipedia.org/wiki/龐統 "wikilink")[徐庶遺下的飛劍裝在肩上](../Page/徐庶.md "wikilink")，作為紀念。
+    擅使飛劍，曾經是[水鏡的學生](https://zh.wikipedia.org/wiki/水鏡 "wikilink")，與[孔明](https://zh.wikipedia.org/wiki/孔明 "wikilink")、[龐統是同窗兼好友](https://zh.wikipedia.org/wiki/龐統 "wikilink")，[董卓](../Page/董卓.md "wikilink")之亂時，為協助難民逃過[董卓](../Page/董卓.md "wikilink")軍追殺，與[董卓](../Page/董卓.md "wikilink")軍的士兵同歸於盡，被認為已死去。後來[龐統將](https://zh.wikipedia.org/wiki/龐統 "wikilink")[徐庶](../Page/徐庶.md "wikilink")遺下的飛劍裝在肩上，作為紀念。
 
 :\*稱號：虎福
 
@@ -1584,7 +1584,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*推出日期:2010年1月
 
   -
-    在神話時代三侯封印[蚩尤時](../Page/蚩尤.md "wikilink")，有一位英雄犧牲自己來完成封印。這一位英雄的武義之魂在北方的天之刃[呂布醒過](https://zh.wikipedia.org/wiki/呂布 "wikilink")。現在，最強之俠與天玉鎧·真武一起返回了！
+    在神話時代三侯封印[蚩尤](../Page/蚩尤.md "wikilink")時，有一位英雄犧牲自己來完成封印。這一位英雄的武義之魂在北方的天之刃[呂布醒過](https://zh.wikipedia.org/wiki/呂布 "wikilink")。現在，最強之俠與天玉鎧·真武一起返回了！
 
 :\*稱號：黑曜之闘神
 
@@ -1625,7 +1625,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\***闇之力**
 
   -
-    「三侯本紀」中所記載、率領魑魅魍魎，令世界陷入痛苦深淵的元兇。[黃祖](../Page/黃祖.md "wikilink")、[蔡瑁](../Page/蔡瑁.md "wikilink")、[龐德](../Page/龐德.md "wikilink")、[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")、[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")、[龐統](https://zh.wikipedia.org/wiki/龐統 "wikilink")、[祝融都曾經使用過闇的力量](../Page/祝融.md "wikilink")。根據「三國傳」動畫MV所示，[蚩尤](../Page/蚩尤.md "wikilink")、[董卓](../Page/董卓.md "wikilink")、[郭嘉](../Page/郭嘉.md "wikilink")、[曹丕](../Page/曹丕.md "wikilink")、[司馬懿是其成員](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
+    「三侯本紀」中所記載、率領魑魅魍魎，令世界陷入痛苦深淵的元兇。[黃祖](../Page/黃祖.md "wikilink")、[蔡瑁](../Page/蔡瑁.md "wikilink")、[龐德](../Page/龐德.md "wikilink")、[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")、[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")、[龐統](https://zh.wikipedia.org/wiki/龐統 "wikilink")、[祝融](../Page/祝融.md "wikilink")都曾經使用過闇的力量。根據「三國傳」動畫MV所示，[蚩尤](../Page/蚩尤.md "wikilink")、[董卓](../Page/董卓.md "wikilink")、[郭嘉](../Page/郭嘉.md "wikilink")、[曹丕](../Page/曹丕.md "wikilink")、[司馬懿是其成員](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
 
 :\***天之刃**
 
@@ -1647,12 +1647,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*玉璽
 
   -
-    皇權象徵，曾先後為[董卓及](../Page/董卓.md "wikilink")[袁紹所擁有](https://zh.wikipedia.org/wiki/袁紹 "wikilink")，然而卻擁有自我意識，是發動、控制天玉鎧的必要物，劉備、曹操、吕布持有後能自由控制天玉鎧，孫權沒有玉璽便無法控制天玉鎧，並進入暴走形態，殺死數萬士兵。除了此外，一切成謎。
+    皇權象徵，曾先後為[董卓](../Page/董卓.md "wikilink")及[袁紹所擁有](https://zh.wikipedia.org/wiki/袁紹 "wikilink")，然而卻擁有自我意識，是發動、控制天玉鎧的必要物，劉備、曹操、吕布持有後能自由控制天玉鎧，孫權沒有玉璽便無法控制天玉鎧，並進入暴走形態，殺死數萬士兵。除了此外，一切成謎。
 
 :\*暗黑玉璽
 
   -
-    戰神[蚩尤的神器](../Page/蚩尤.md "wikilink")，實際上寄存了巨神兵器「暗黑玉璽重高達」，以其為本體，更產生出多個小型玉璽，可利用其闇之力吞噬/控制他人，以及令使用者進行巨大變化。
+    戰神[蚩尤](../Page/蚩尤.md "wikilink")的神器，實際上寄存了巨神兵器「暗黑玉璽重高達」，以其為本體，更產生出多個小型玉璽，可利用其闇之力吞噬/控制他人，以及令使用者進行巨大變化。
 
 :\*天玉鎧
 
@@ -1695,7 +1695,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*龍帝劍/真．龍帝劍
 
   -
-    [劉備的專用佩劍](https://zh.wikipedia.org/wiki/劉備 "wikilink")，與[孫權的虎錠刀和](https://zh.wikipedia.org/wiki/孫權 "wikilink")[曹操的鳳凰七星槍匹敵的神話三侯的](../Page/曹操.md "wikilink")[寶劍](https://zh.wikipedia.org/wiki/寶劍 "wikilink")，一度於[赤壁大戰時被](../Page/赤壁.md "wikilink")[曹操用星凰劍所破壞](../Page/曹操.md "wikilink")，從而令其真正力量得到解放。當[曹操與](../Page/曹操.md "wikilink")[劉備不知所終後](https://zh.wikipedia.org/wiki/劉備 "wikilink")，龍帝劍回復原狀，被安放於王座上。
+    [劉備的專用佩劍](https://zh.wikipedia.org/wiki/劉備 "wikilink")，與[孫權的虎錠刀和](https://zh.wikipedia.org/wiki/孫權 "wikilink")[曹操](../Page/曹操.md "wikilink")的鳳凰七星槍匹敵的神話三侯的[寶劍](https://zh.wikipedia.org/wiki/寶劍 "wikilink")，一度於[赤壁](../Page/赤壁.md "wikilink")大戰時被[曹操](../Page/曹操.md "wikilink")用星凰劍所破壞，從而令其真正力量得到解放。當[曹操](../Page/曹操.md "wikilink")與[劉備不知所終後](https://zh.wikipedia.org/wiki/劉備 "wikilink")，龍帝劍回復原狀，被安放於王座上。
 
 <!-- end list -->
 
@@ -1707,22 +1707,22 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*鬼牙龍月刀(意匠﹕(刀刃)FAZZ用Mega Beam Cannon、(刀柄)ZZ用Double Beam Rifle)
 
   -
-    [關羽用的巨大青龍刀](https://zh.wikipedia.org/wiki/關羽 "wikilink")，鋒利無比。在[關羽戰死後為](https://zh.wikipedia.org/wiki/關羽 "wikilink")[關平使用](../Page/關平.md "wikilink")。
+    [關羽用的巨大青龍刀](https://zh.wikipedia.org/wiki/關羽 "wikilink")，鋒利無比。在[關羽戰死後為](https://zh.wikipedia.org/wiki/關羽 "wikilink")[關平](../Page/關平.md "wikilink")使用。
 
 :\*輝麟牙(意匠﹕S高達用Beam Smart Gun)
 
   -
-    [關平平常使用的青龍刀](../Page/關平.md "wikilink")。
+    [關平](../Page/關平.md "wikilink")平常使用的青龍刀。
 
 :\*鬼銳爪(意匠﹕S高達用大型推進器)
 
   -
-    [關平使用的格鬥武器](../Page/關平.md "wikilink")。
+    [關平](../Page/關平.md "wikilink")使用的格鬥武器。
 
 :\*雙鬼兩刃刀
 
   -
-    由[關羽的鬼牙龍月刀和](https://zh.wikipedia.org/wiki/關羽 "wikilink")[關平的輝麟牙合體而成](../Page/關平.md "wikilink")。多為[關羽使用](https://zh.wikipedia.org/wiki/關羽 "wikilink")。
+    由[關羽的鬼牙龍月刀和](https://zh.wikipedia.org/wiki/關羽 "wikilink")[關平](../Page/關平.md "wikilink")的輝麟牙合體而成。多為[關羽使用](https://zh.wikipedia.org/wiki/關羽 "wikilink")。
 
 :\*蛇矛．雷蛇(意匠﹕Z高達盾牌)
 
@@ -1747,17 +1747,17 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*頑硬斧(意匠﹕飆狼專用Mega Beam Cannon)
 
   -
-    [周倉的斧頭](../Page/周倉.md "wikilink")，可以與[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")、[關平的武器結合](../Page/關平.md "wikilink")。
+    [周倉](../Page/周倉.md "wikilink")的斧頭，可以與[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")、[關平](../Page/關平.md "wikilink")的武器結合。
 
 :\*尖刃刀(意匠﹕飆狼大型推進翼)
 
   -
-    [周倉的雙刀](../Page/周倉.md "wikilink")，可使用二刀攻擊。
+    [周倉](../Page/周倉.md "wikilink")的雙刀，可使用二刀攻擊。
 
 :\*三爪戟
 
   -
-    [周倉的最強武器](../Page/周倉.md "wikilink")，由頑硬斧和尖刃刀合體而成。
+    [周倉](../Page/周倉.md "wikilink")的最強武器，由頑硬斧和尖刃刀合體而成。
 
 :\*龍焰刀(意匠﹕Nu鋼彈專用Bazooka)
 
@@ -1772,32 +1772,32 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*鳳凰七星槍
 
   -
-    [曹操的最強武器](../Page/曹操.md "wikilink")，由威天劍及星凰劍合體而成。與[劉備的龍帝劍和](https://zh.wikipedia.org/wiki/劉備 "wikilink")[孫權的虎錠刀匹敵的](https://zh.wikipedia.org/wiki/孫權 "wikilink")[神話三諸侯的寶槍](https://zh.wikipedia.org/wiki/神話 "wikilink")，能傳達使用者的「真正的理想」。名稱來自[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[王允授予](../Page/王允.md "wikilink")[曹操暗殺董卓的](../Page/曹操.md "wikilink")「七星劍」。
+    [曹操](../Page/曹操.md "wikilink")的最強武器，由威天劍及星凰劍合體而成。與[劉備的龍帝劍和](https://zh.wikipedia.org/wiki/劉備 "wikilink")[孫權的虎錠刀匹敵的](https://zh.wikipedia.org/wiki/孫權 "wikilink")[神話三諸侯的寶槍](https://zh.wikipedia.org/wiki/神話 "wikilink")，能傳達使用者的「真正的理想」。名稱來自[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[王允](../Page/王允.md "wikilink")授予[曹操](../Page/曹操.md "wikilink")暗殺董卓的「七星劍」。
 
 :\*威天劍
 
   -
-    與雀瞬眨眼間的魂一起，讓[曹操真正的力量覺醒](../Page/曹操.md "wikilink")。威天劍(いてんけん)和[倚天劍](../Page/倚天劍.md "wikilink")(いてんけん)的日文發音相同，[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")，倚天劍更是與青釭劍成為一對。
+    與雀瞬眨眼間的魂一起，讓[曹操](../Page/曹操.md "wikilink")真正的力量覺醒。威天劍(いてんけん)和[倚天劍](../Page/倚天劍.md "wikilink")(いてんけん)的日文發音相同，[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")，倚天劍更是與青釭劍成為一對。
 
 :\*星凰劍
 
   -
-    [司馬懿在洛陽中發現的寶劍](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，後來呈上[曹操](../Page/曹操.md "wikilink")，[曹操更以此劍](../Page/曹操.md "wikilink")，斬斷[劉備持有的龍帝劍](https://zh.wikipedia.org/wiki/劉備 "wikilink")。星凰劍(せいこうけん)和[青釭劍](https://zh.wikipedia.org/wiki/青釭劍 "wikilink")(せいこうけん)的日文發音相同，[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")，青釭劍更是與倚天劍成為一對。
+    [司馬懿在洛陽中發現的寶劍](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，後來呈上[曹操](../Page/曹操.md "wikilink")，[曹操](../Page/曹操.md "wikilink")更以此劍，斬斷[劉備持有的龍帝劍](https://zh.wikipedia.org/wiki/劉備 "wikilink")。星凰劍(せいこうけん)和[青釭劍](https://zh.wikipedia.org/wiki/青釭劍 "wikilink")(せいこうけん)的日文發音相同，[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")，青釭劍更是與倚天劍成為一對。
 
 :\*光天七星戟(意匠﹕Gundam X-DV專用Beam Harmonica)
 
   -
-    [曹丕的最強武器](../Page/曹丕.md "wikilink")，由威天劍，星凰劍及其護盾合體而成，和黑翼刀一同使用，被認為是攻防一體的武裝。
+    [曹丕](../Page/曹丕.md "wikilink")的最強武器，由威天劍，星凰劍及其護盾合體而成，和黑翼刀一同使用，被認為是攻防一體的武裝。
 
 :\*黑翼刀
 
   -
-    [曹丕的佩刀](../Page/曹丕.md "wikilink")，平常極少使用，當光天七星戟被使用時才會一同使用。
+    [曹丕](../Page/曹丕.md "wikilink")的佩刀，平常極少使用，當光天七星戟被使用時才會一同使用。
 
 :\*蛇骨剛劍
 
   -
-    [夏侯惇的佩劍](../Page/夏侯惇.md "wikilink")，擁有鋼劍及長鞭形態。
+    [夏侯惇](../Page/夏侯惇.md "wikilink")的佩劍，擁有鋼劍及長鞭形態。
 
 :\*剛銳戟、剛銳砲、剛銳弓
 
@@ -1807,42 +1807,42 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*鳯龍雙刃刀 (意匠﹕Gelgoog的雙刃光束薙刀)
 
   -
-    [張遼的最強武器](../Page/張遼.md "wikilink")，由鳳鉤刀及龍身刀合體而成，能和[關羽的鬼牙龍月刀匹敵](https://zh.wikipedia.org/wiki/關羽 "wikilink")。
+    [張遼](../Page/張遼.md "wikilink")的最強武器，由鳳鉤刀及龍身刀合體而成，能和[關羽的鬼牙龍月刀匹敵](https://zh.wikipedia.org/wiki/關羽 "wikilink")。
 
 :\*狼牙．雙重戟
 
   -
-    由[荀彧所設計](../Page/荀彧.md "wikilink")、[張郃的最強武器](../Page/張郃.md "wikilink")，由超重戟及其護盾合體而成。
+    由[荀彧](../Page/荀彧.md "wikilink")所設計、[張郃](../Page/張郃.md "wikilink")的最強武器，由超重戟及其護盾合體而成。
 
 :\*豪鐵火
 
   -
-    由[荀彧根據](../Page/荀彧.md "wikilink")[徐晃舊武器設計而成的雙巨斧](../Page/徐晃.md "wikilink")。
+    由[荀彧](../Page/荀彧.md "wikilink")根據[徐晃](../Page/徐晃.md "wikilink")舊武器設計而成的雙巨斧。
 
 :\*鋏鐵戟
 
   -
-    [徐晃的合體兵器](../Page/徐晃.md "wikilink")，一對豪鐵火合體而成，擁有廣範圍破壞力。
+    [徐晃](../Page/徐晃.md "wikilink")的合體兵器，一對豪鐵火合體而成，擁有廣範圍破壞力。
 
 :\*鐵火盾
 
   -
-    [徐晃的合體兵器](../Page/徐晃.md "wikilink")，是攻防一體的武器，由豪鐵火及其護盾合體而成。
+    [徐晃](../Page/徐晃.md "wikilink")的合體兵器，是攻防一體的武器，由豪鐵火及其護盾合體而成。
 
 :\*雙鐵火(意匠﹕Serpent Custom用Double Gatling Gun)
 
   -
-    [徐晃的合體兵器](../Page/徐晃.md "wikilink")，一對豪鐵火合體而成，擁有連續破壞力。
+    [徐晃](../Page/徐晃.md "wikilink")的合體兵器，一對豪鐵火合體而成，擁有連續破壞力。
 
 :\*鐵火鍊武(意匠﹕Serpent Custom用Beam Bazooka)
 
   -
-    [徐晃的最強兵器](../Page/徐晃.md "wikilink")，由其肩甲及其頭盔護具合體而成，其防禦力會被犧牲。
+    [徐晃](../Page/徐晃.md "wikilink")的最強兵器，由其肩甲及其頭盔護具合體而成，其防禦力會被犧牲。
 
 :\*虎錠刀/真．虎錠刀
 
   -
-    [孫家世代相傳的寶刀](https://zh.wikipedia.org/wiki/孫 "wikilink")，轟國領袖之證明，[孫堅](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫策亦曾持有](https://zh.wikipedia.org/wiki/孫策 "wikilink")。與[劉備的龍帝劍和](https://zh.wikipedia.org/wiki/劉備 "wikilink")[曹操的鳳凰七星槍匹敵的神話三諸侯的寶刀](../Page/曹操.md "wikilink")。虎錠刀是**古錠刀**的日文諧音。
+    [孫家世代相傳的寶刀](https://zh.wikipedia.org/wiki/孫 "wikilink")，轟國領袖之證明，[孫堅](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫策亦曾持有](https://zh.wikipedia.org/wiki/孫策 "wikilink")。與[劉備的龍帝劍和](https://zh.wikipedia.org/wiki/劉備 "wikilink")[曹操](../Page/曹操.md "wikilink")的鳳凰七星槍匹敵的神話三諸侯的寶刀。虎錠刀是**古錠刀**的日文諧音。
 
 <!-- end list -->
 
@@ -1862,7 +1862,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*天雷火炮(意匠﹕百式專用Mega Bazooka Launcher)
 
   -
-    [周瑜的最強兵器](../Page/周瑜.md "wikilink")，由白虎刀及白虎弓合體而成，正常情況下可一擊逆轉劣勢或擊破一個軍團，不過由於消耗極大精神力，使用超過一發會令使用者身體受到重創。
+    [周瑜](../Page/周瑜.md "wikilink")的最強兵器，由白虎刀及白虎弓合體而成，正常情況下可一擊逆轉劣勢或擊破一個軍團，不過由於消耗極大精神力，使用超過一發會令使用者身體受到重創。
 
 ### 座騎
 
@@ -1874,7 +1874,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*赤兔馬
 
   -
-    原本是[呂布坐騎](https://zh.wikipedia.org/wiki/呂布 "wikilink")，郿城之戰期間被[李儒的弩炮擊中受重傷](../Page/李儒.md "wikilink")，後來由[曹操軍救回](../Page/曹操.md "wikilink")，並交予[呂布隊舊部屬](https://zh.wikipedia.org/wiki/呂布 "wikilink")[張遼使用](../Page/張遼.md "wikilink")。其後[張遼出於情義](../Page/張遼.md "wikilink")，再轉贈予[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")，好讓他能夠與[劉備會合](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
+    原本是[呂布坐騎](https://zh.wikipedia.org/wiki/呂布 "wikilink")，郿城之戰期間被[李儒](../Page/李儒.md "wikilink")的弩炮擊中受重傷，後來由[曹操](../Page/曹操.md "wikilink")軍救回，並交予[呂布隊舊部屬](https://zh.wikipedia.org/wiki/呂布 "wikilink")[張遼](../Page/張遼.md "wikilink")使用。其後[張遼](../Page/張遼.md "wikilink")出於情義，再轉贈予[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")，好讓他能夠與[劉備會合](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
 
 :\*飛影閃
 
@@ -1899,7 +1899,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*巨神象.金剛夜迦(象﹕猛瑪高達; 戰車﹕Hildolfr )
 
   -
-    [孟獲的座騎](../Page/孟獲.md "wikilink")，具有一定破壞力，可變身為金剛戰車，並可變身人身型態的**金剛阿修羅鎧**與[孟獲合體](../Page/孟獲.md "wikilink")。另外尚有[祝融專用藍色巨神象](../Page/祝融.md "wikilink")。模型漫畫中巨神象沉睡在神殿，與[孟獲光之刃產生共鳴後復活](../Page/孟獲.md "wikilink")。漫畫版一開始便成為[帶來洞主座騎](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")，洞主戰死後，才被[孟獲取用](../Page/孟獲.md "wikilink")。
+    [孟獲](../Page/孟獲.md "wikilink")的座騎，具有一定破壞力，可變身為金剛戰車，並可變身人身型態的**金剛阿修羅鎧**與[孟獲](../Page/孟獲.md "wikilink")合體。另外尚有[祝融](../Page/祝融.md "wikilink")專用藍色巨神象。模型漫畫中巨神象沉睡在神殿，與[孟獲](../Page/孟獲.md "wikilink")光之刃產生共鳴後復活。漫畫版一開始便成為[帶來洞主座騎](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")，洞主戰死後，才被[孟獲](../Page/孟獲.md "wikilink")取用。
 
 <!-- end list -->
 
@@ -1927,7 +1927,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    [董卓殺害靈帝後](../Page/董卓.md "wikilink")，亦以此為大本營。虎牢城陷落後，為拖延聯軍，火燒雒陽，並退守郿宇城，該地變成廢墟。七年後司馬懿與龐統，於雒陽廢墟中發現「星凰劍」，並獻予曹操。曹丕稱帝時，重新建造宮殿，並稱為「洛陽」。新殿表面上僅是一座王城，實際上是司馬懿用以祭祀黑暗玉璽的地下祭壇所在。五丈原會戰時，黑暗玉璽的力量覺醒，同時洛陽作為天之城的真面目亦終於呈現。雖然王城名義上是由曹丕擁有，然而曹丕亦落入闇的控制後，洛陽實際上已被司馬懿佔有。
+    [董卓](../Page/董卓.md "wikilink")殺害靈帝後，亦以此為大本營。虎牢城陷落後，為拖延聯軍，火燒雒陽，並退守郿宇城，該地變成廢墟。七年後司馬懿與龐統，於雒陽廢墟中發現「星凰劍」，並獻予曹操。曹丕稱帝時，重新建造宮殿，並稱為「洛陽」。新殿表面上僅是一座王城，實際上是司馬懿用以祭祀黑暗玉璽的地下祭壇所在。五丈原會戰時，黑暗玉璽的力量覺醒，同時洛陽作為天之城的真面目亦終於呈現。雖然王城名義上是由曹丕擁有，然而曹丕亦落入闇的控制後，洛陽實際上已被司馬懿佔有。
 
 :\***五丈原**
 
@@ -1969,17 +1969,17 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\***西涼**
 
   -
-    昔日由[馬騰統治的地區](../Page/馬騰.md "wikilink")，最後被機駕軍吞併。事件觸發繼承「闇之血」的[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，銳意向機駕軍報復的事件。演義與三國志中，西涼被吞併是發生在[曹操在世時期](../Page/曹操.md "wikilink")，而非[曹丕繼位之後](../Page/曹丕.md "wikilink")，只是演義中是[曹操以離間計](../Page/曹操.md "wikilink")，出兵消滅[馬騰軍](../Page/馬騰.md "wikilink")，三國志則由於[馬超起兵反抗](https://zh.wikipedia.org/wiki/馬超 "wikilink")[曹操](../Page/曹操.md "wikilink")，結果反令西涼軍被消滅而被逼出逃。
+    昔日由[馬騰](../Page/馬騰.md "wikilink")統治的地區，最後被機駕軍吞併。事件觸發繼承「闇之血」的[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，銳意向機駕軍報復的事件。演義與三國志中，西涼被吞併是發生在[曹操](../Page/曹操.md "wikilink")在世時期，而非[曹丕](../Page/曹丕.md "wikilink")繼位之後，只是演義中是[曹操](../Page/曹操.md "wikilink")以離間計，出兵消滅[馬騰](../Page/馬騰.md "wikilink")軍，三國志則由於[馬超起兵反抗](https://zh.wikipedia.org/wiki/馬超 "wikilink")[曹操](../Page/曹操.md "wikilink")，結果反令西涼軍被消滅而被逼出逃。
 
 :\***漢中**
 
   -
-    位於西涼附近、與益州接壤的地區，在[張魯經營多年之下](https://zh.wikipedia.org/wiki/張魯 "wikilink")，百姓原本過著安穩生活，但在[韓浩兄弟洗劫後](../Page/韓浩.md "wikilink")，一度為機駕佔領，而領袖[張魯亦在戰爭中被殺](https://zh.wikipedia.org/wiki/張魯 "wikilink")。
+    位於西涼附近、與益州接壤的地區，在[張魯經營多年之下](https://zh.wikipedia.org/wiki/張魯 "wikilink")，百姓原本過著安穩生活，但在[韓浩](../Page/韓浩.md "wikilink")兄弟洗劫後，一度為機駕佔領，而領袖[張魯亦在戰爭中被殺](https://zh.wikipedia.org/wiki/張魯 "wikilink")。
 
 <!-- end list -->
 
   -
-    史實中[張魯同樣有收容](https://zh.wikipedia.org/wiki/張魯 "wikilink")[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，不過由於[張魯對其猜疑](https://zh.wikipedia.org/wiki/張魯 "wikilink")，令[馬超再次出逃](https://zh.wikipedia.org/wiki/馬超 "wikilink")。而[曹操進兵漢中](../Page/曹操.md "wikilink")，[張魯主動投降](https://zh.wikipedia.org/wiki/張魯 "wikilink")，更因為其愛民之心而受[曹操所欣賞](../Page/曹操.md "wikilink")，並無發生被[曹操洗劫](../Page/曹操.md "wikilink")，以及將[張魯殺害的事件](https://zh.wikipedia.org/wiki/張魯 "wikilink")。
+    史實中[張魯同樣有收容](https://zh.wikipedia.org/wiki/張魯 "wikilink")[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，不過由於[張魯對其猜疑](https://zh.wikipedia.org/wiki/張魯 "wikilink")，令[馬超再次出逃](https://zh.wikipedia.org/wiki/馬超 "wikilink")。而[曹操](../Page/曹操.md "wikilink")進兵漢中，[張魯主動投降](https://zh.wikipedia.org/wiki/張魯 "wikilink")，更因為其愛民之心而受[曹操](../Page/曹操.md "wikilink")所欣賞，並無發生被[曹操](../Page/曹操.md "wikilink")洗劫，以及將[張魯殺害的事件](https://zh.wikipedia.org/wiki/張魯 "wikilink")。
 
 :\***益州**
 
@@ -2000,7 +2000,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\***南方／南蠻/赤流火穩**
 
   -
-    位於**三璃紗**翔國南部，古代**赤流火穩**的所在之地，統治者為南方國王[孟獲](../Page/孟獲.md "wikilink")，與[三國演義中所出現的](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[南蠻並不相同](../Page/南蠻.md "wikilink")。赤流火穩，最早見於「**SD戰國傳
+    位於**三璃紗**翔國南部，古代**赤流火穩**的所在之地，統治者為南方國王[孟獲](../Page/孟獲.md "wikilink")，與[三國演義中所出現的](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[南蠻](../Page/南蠻.md "wikilink")並不相同。赤流火穩，最早見於「**SD戰國傳
     地上最強編**」，相對天宮之國代表[日本](../Page/日本.md "wikilink")、影舞亂夢代表[中國](../Page/中國.md "wikilink")，赤流火穩則代表[印度](../Page/印度.md "wikilink")(阿修羅、仁王、夜叉、羅剎等名稱，是來自印度諸神)。而不論三國志及三國演義，所指的南蠻，是指現今四川雲南一帶、當時仍是蠻荒之地、各族林立的地區。
 
 :\***蓬萊**

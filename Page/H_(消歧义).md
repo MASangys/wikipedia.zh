@@ -1,5 +1,5 @@
-[H, h](../Page/H.md "wikilink")
-是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")8个[字母](../Page/字母.md "wikilink")。
+[H h](../Page/H.md "wikilink"),
+是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第8个[字母](../Page/字母.md "wikilink")。
 
 除此之外，H还可以指代：
 
@@ -12,25 +12,25 @@
 ## 人物
 
   - H.（1900年－1995年），[英国政治活动分子](https://zh.wikipedia.org/wiki/英国 "wikilink")、[经济学家](../Page/经济学家.md "wikilink")
-  - H（1957年－），[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[吉他手](../Page/吉他.md "wikilink")
+  - H（1957年－），[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[吉他](../Page/吉他.md "wikilink")手
   - H（1959年－），[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[歌唱家](https://zh.wikipedia.org/wiki/歌唱家 "wikilink")
   - H（1976年－），[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[歌手](../Page/歌手.md "wikilink")
-  - H，[黎巴嫩籍](../Page/黎巴嫩.md "wikilink")[澳大利亚](../Page/澳大利亚.md "wikilink")[轮奸团伙](https://zh.wikipedia.org/wiki/轮奸 "wikilink")中的一员
+  - H，[黎巴嫩](../Page/黎巴嫩.md "wikilink")籍[澳大利亚](../Page/澳大利亚.md "wikilink")[轮奸团伙](https://zh.wikipedia.org/wiki/轮奸 "wikilink")中的一员
 
 ## 科技
 
-  - H，化学元素[氢的符号](../Page/氢.md "wikilink")
-  - H（或ΔH），[热力学中](../Page/热力学.md "wikilink")[焓的记号](../Page/焓.md "wikilink")
-  - H，[物理学中](../Page/物理学.md "wikilink")[电感的单位](../Page/电感.md "wikilink")“[亨利](https://zh.wikipedia.org/wiki/亨利_\(单位\) "wikilink")”
-  - H，[物理学中的](../Page/物理学.md "wikilink")[磁场强度符号](https://zh.wikipedia.org/wiki/磁场#B与H的差异 "wikilink")
-  - H，[气象学中](../Page/气象学.md "wikilink")，[天气图上表示](https://zh.wikipedia.org/wiki/天气图 "wikilink")[高气压或](https://zh.wikipedia.org/wiki/高气压 "wikilink")[反气旋](https://zh.wikipedia.org/wiki/反气旋 "wikilink")
+  - H，化学元素[氢](../Page/氢.md "wikilink")的符号
+  - H（或ΔH），[热力学](../Page/热力学.md "wikilink")中[焓](../Page/焓.md "wikilink")的记号
+  - H，[物理学](../Page/物理学.md "wikilink")中[电感](../Page/电感.md "wikilink")的单位“[亨利](https://zh.wikipedia.org/wiki/亨利_\(单位\) "wikilink")”
+  - H，[物理学](../Page/物理学.md "wikilink")中的[磁场强度符号](https://zh.wikipedia.org/wiki/磁场#B与H的差异 "wikilink")
+  - H，[气象学](../Page/气象学.md "wikilink")中，[天气图上表示](https://zh.wikipedia.org/wiki/天气图 "wikilink")[高气压或](https://zh.wikipedia.org/wiki/高气压 "wikilink")[反气旋](https://zh.wikipedia.org/wiki/反气旋 "wikilink")
   - H，[铅笔硬度表中的笔芯硬度](https://zh.wikipedia.org/wiki/铅笔 "wikilink")（Hard），如HB，2H，3H。数字越大笔芯越硬，笔迹越淡
   - h，[量子物理学中的](https://zh.wikipedia.org/wiki/量子物理学 "wikilink")[普朗克常量](https://zh.wikipedia.org/wiki/普朗克常量 "wikilink")
   - h，局部[对流](https://zh.wikipedia.org/wiki/对流 "wikilink")[系数](https://zh.wikipedia.org/wiki/系数 "wikilink")
-  - h，[国际单位制词头hecta](../Page/国际单位制词头.md "wikilink")，指[100](../Page/100.md "wikilink")（10<sup>2</sup>）
-  - h，[时间单位](../Page/时间.md "wikilink")“小时”的缩写，又作hr
-  - h，[几何学中通常指图形的高](../Page/几何学.md "wikilink")
-  - h，[地震学中的](https://zh.wikipedia.org/wiki/地震学 "wikilink")[震源深度](../Page/震源.md "wikilink")
+  - h，[国际单位制词头](../Page/国际单位制词头.md "wikilink")hecta，指[100](../Page/100.md "wikilink")（10<sup>2</sup>）
+  - h，[时间](../Page/时间.md "wikilink")单位“小时”的缩写，又作hr
+  - h，[几何学](../Page/几何学.md "wikilink")中通常指图形的高
+  - h，[地震学中的](https://zh.wikipedia.org/wiki/地震学 "wikilink")[震源](../Page/震源.md "wikilink")深度
 
 ## \-{zh-tw:電腦;zh-cn:电子计算机;}-
 
@@ -48,12 +48,12 @@
 
   - [H (Tool歌曲)](https://zh.wikipedia.org/wiki/Tool_\(乐队\) "wikilink")
 
-  - h，[日本歌手](../Page/日本.md "wikilink")[古谷仁美的一部专辑](https://zh.wikipedia.org/wiki/古谷仁美 "wikilink")
+  - h，[日本](../Page/日本.md "wikilink")歌手[古谷仁美的一部专辑](https://zh.wikipedia.org/wiki/古谷仁美 "wikilink")
 
 ## 其他
 
   - [H
-    (日语)](https://zh.wikipedia.org/wiki/H_\(日语\) "wikilink")，指代[色情或](../Page/色情.md "wikilink")[情色内容](../Page/情色.md "wikilink")，源自
+    (日语)](https://zh.wikipedia.org/wiki/H_\(日语\) "wikilink")，指代[色情](../Page/色情.md "wikilink")或[情色](../Page/情色.md "wikilink")内容，源自
   - [海洛因](../Page/海洛因.md "wikilink")（Heroin）的缩写
   - [单倍群 H](https://zh.wikipedia.org/wiki/单倍群_H "wikilink")
   - [Н](../Page/Н.md "wikilink")，一个[西里尔字母](../Page/西里尔字母.md "wikilink")
@@ -66,8 +66,8 @@
   - [桥牌的叫牌过程中](https://zh.wikipedia.org/wiki/桥牌 "wikilink")，H表示[红心](https://zh.wikipedia.org/wiki/红心 "wikilink")（Heart），如“2红心”记作“2H”
   - [H股](../Page/H股.md "wikilink")，[中国股市中](https://zh.wikipedia.org/wiki/中国股市 "wikilink")“[恒生中国企业指数](https://zh.wikipedia.org/wiki/恒生中国企业指数 "wikilink")”的代称
   - 行星：
-      - H，[天王星的符号](../Page/天王星.md "wikilink")[Uranus's_astrological_symbol.svg](https://zh.wikipedia.org/wiki/File:Uranus's_astrological_symbol.svg "fig:Uranus's_astrological_symbol.svg")的变体
-      - h，[土星的符号](../Page/土星.md "wikilink")[Saturn_symbol.svg](https://zh.wikipedia.org/wiki/File:Saturn_symbol.svg "fig:Saturn_symbol.svg")的变体
+      - H，[天王星](../Page/天王星.md "wikilink")的符号[Uranus's_astrological_symbol.svg](https://zh.wikipedia.org/wiki/File:Uranus's_astrological_symbol.svg "fig:Uranus's_astrological_symbol.svg")的变体
+      - h，[土星](../Page/土星.md "wikilink")的符号[Saturn_symbol.svg](https://zh.wikipedia.org/wiki/File:Saturn_symbol.svg "fig:Saturn_symbol.svg")的变体
   - h，[国际音标中](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[清喉擦音的记号](https://zh.wikipedia.org/wiki/清喉擦音 "wikilink")
   - h，[挪威保守党](https://zh.wikipedia.org/wiki/挪威保守党 "wikilink")（*Høyre*）
   - h，军事上[直升机的代号](https://zh.wikipedia.org/wiki/直升机 "wikilink")，如[AH-64阿帕奇](https://zh.wikipedia.org/wiki/AH-64阿帕奇 "wikilink")

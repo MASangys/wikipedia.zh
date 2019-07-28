@@ -1,5 +1,5 @@
 **NVIDIA GeForce
-300系列**是[NVIDIA的第十一代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce顯示晶片](../Page/GeForce.md "wikilink")。首款產品在2009年11月被推出市場。和前代NVIDIA
+300系列**是[NVIDIA的第十一代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce](../Page/GeForce.md "wikilink")顯示晶片。首款產品在2009年11月被推出市場。和前代NVIDIA
 GeForce 100一樣是舊系列圖形處理器的更名版，或是基於舊有圖形處理器推出的新型號顯示卡，而且只供OEM使用，無零售版本。GeForce
 300仍採用[TSMC的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")55奈米或65奈米製程來製造，中低端產品會采用新型SDDR3顯示記憶體，部分低階產品更名自[GeForce
 200系列](https://zh.wikipedia.org/wiki/GeForce_200 "wikilink")，一些型號更是基於NVIDIA
@@ -8,7 +8,7 @@ GeForce 9系列的顯示核心，支援Direct 10或10.1\[1\]
 ## 歷史
 
 當時人們曾認為『GeForce
-300』系列是即將發表的Fermi核心產品的正式名稱，但在2010年2月初，nVIDIA通過在[Twitter和](../Page/Twitter.md "wikilink")[Facebook的官方帳戶發出消息](../Page/Facebook.md "wikilink")，下一代Fermi核心的首發兩款產品將被命名為[NVIDIA
+300』系列是即將發表的Fermi核心產品的正式名稱，但在2010年2月初，nVIDIA通過在[Twitter](../Page/Twitter.md "wikilink")和[Facebook](../Page/Facebook.md "wikilink")的官方帳戶發出消息，下一代Fermi核心的首發兩款產品將被命名為[NVIDIA
 GeForce 400系列](../Page/NVIDIA_GeForce_400.md "wikilink")，分別為GTX 470和GTX
 480。\[2\]\[3\]\[4\]\[5\]而預計GeForce
 300系列將使用在[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，就像之前的[GeForce
@@ -16,7 +16,7 @@ GeForce 400系列](../Page/NVIDIA_GeForce_400.md "wikilink")，分別為GTX 470�
 300的產品線上。\[6\]
 
 該系列首款產品是更名自上代GeForce 210的GeForce
-310，是nVIDIA提供給[惠普供](../Page/惠普.md "wikilink")[OEM使用](https://zh.wikipedia.org/wiki/OEM "wikilink")，2009年11月27日發布。\[7\]GT
+310，是nVIDIA提供給[惠普](../Page/惠普.md "wikilink")供[OEM使用](https://zh.wikipedia.org/wiki/OEM "wikilink")，2009年11月27日發布。\[7\]GT
 320、GT 330、GT340都採用GT215核心。\[8\]GT 340是完整的核心代號為『GT215』的核心，技術參數和前代的GT
 240基本一致，是為GT 240的更名版，而GT 320、GT330是GeForce
 300中的新品，儘管核心是基於前代的GT200b和G92b架構，是GT215核心上刪減流處理器數量獲得，具體表現在核心後的編號，如GT215-301-A2。\[9\]

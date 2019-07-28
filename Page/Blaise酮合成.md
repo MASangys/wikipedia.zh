@@ -1,6 +1,6 @@
 **Blaise酮合成**（Blaise ketone synthesis）
 
-[酰氯与](../Page/酰氯.md "wikilink")[有机锌试剂作用得到](https://zh.wikipedia.org/wiki/有机锌试剂 "wikilink")[酮类](../Page/酮.md "wikilink")。\[1\]\[2\]
+[酰氯](../Page/酰氯.md "wikilink")与[有机锌试剂作用得到](https://zh.wikipedia.org/wiki/有机锌试剂 "wikilink")[酮](../Page/酮.md "wikilink")类。\[1\]\[2\]
 
 [Blaise_Ketone_Synthesis_Scheme.png](https://zh.wikipedia.org/wiki/File:Blaise_Ketone_Synthesis_Scheme.png "fig:Blaise_Ketone_Synthesis_Scheme.png")
 
@@ -12,8 +12,8 @@
 
 ### Blaise-Maire反应
 
-用 β-[羟基酰氯作为底物](../Page/羟基.md "wikilink")，生成
-β-[羟基酮](https://zh.wikipedia.org/wiki/羟基酮 "wikilink")，进一步用[硫酸处理得到](../Page/硫酸.md "wikilink")
+用 β-[羟基](../Page/羟基.md "wikilink")酰氯作为底物，生成
+β-[羟基酮](https://zh.wikipedia.org/wiki/羟基酮 "wikilink")，进一步用[硫酸](../Page/硫酸.md "wikilink")处理得到
 [α,β-不饱和酮](https://zh.wikipedia.org/wiki/α,β-不饱和羰基化合物 "wikilink")。\[7\]
 
 ## 参见

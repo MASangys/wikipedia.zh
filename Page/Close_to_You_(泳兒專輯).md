@@ -1,9 +1,9 @@
 《**Close To
-You**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[泳兒的第三張音樂專輯](../Page/泳兒.md "wikilink")。本唱片於2007年10月推出，和上次大碟《[花無雪](../Page/花無雪.md "wikilink")》出版相差八個月，主打歌包括無心戀唱、送我一個家、世界請看著我；隨碟加送一張DVD，收錄五首新歌MV及五首舊歌MV。
+You**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[泳兒](../Page/泳兒.md "wikilink")的第三張音樂專輯。本唱片於2007年10月推出，和上次大碟《[花無雪](../Page/花無雪.md "wikilink")》出版相差八個月，主打歌包括無心戀唱、送我一個家、世界請看著我；隨碟加送一張DVD，收錄五首新歌MV及五首舊歌MV。
 
 同年12月21日，《Close To You》推出第二版(四碟套裝)，除了有原本的CD及DVD
-MV外，還有[泳兒的音樂會](../Page/泳兒.md "wikilink")《Vincy.
-Close to You 音樂會》2CDs。
+MV外，還有[泳兒](../Page/泳兒.md "wikilink")的音樂會《Vincy. Close to
+You 音樂會》2CDs。
 
 ## 曲目
 
@@ -16,16 +16,16 @@ Close to You 音樂會》2CDs。
 5.  愛自然愛
 6.  無心戀唱
 7.  純情有罪
-8.  我真的受傷了（[泳兒](../Page/泳兒.md "wikilink")、[吳浩康合唱](../Page/吳浩康.md "wikilink")）
+8.  我真的受傷了（[泳兒](../Page/泳兒.md "wikilink")、[吳浩康](../Page/吳浩康.md "wikilink")合唱）
 9.  天使明明在此
 10. 送我一個家
 11. 你我她
-12. 死性不改（[泳兒](../Page/泳兒.md "wikilink")、[洪卓立合唱](../Page/洪卓立.md "wikilink")）
+12. 死性不改（[泳兒](../Page/泳兒.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")合唱）
 
 ### Vincy. Close to You 音樂會 Disc B
 
 1.  Dance Medley（傾斜樂園／通宵店的鏡／瘋了）
-2.  小學館（[泳兒](../Page/泳兒.md "wikilink")、[鍾舒漫](../Page/鍾舒漫.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[吳浩康合唱](../Page/吳浩康.md "wikilink")）
+2.  小學館（[泳兒](../Page/泳兒.md "wikilink")、[鍾舒漫](../Page/鍾舒漫.md "wikilink")、[洪卓立](../Page/洪卓立.md "wikilink")、[吳浩康](../Page/吳浩康.md "wikilink")合唱）
 3.  電燈膽
 4.  我懷念的
 5.  笑忘書

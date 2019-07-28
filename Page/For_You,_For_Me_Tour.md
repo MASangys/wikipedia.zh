@@ -1,5 +1,5 @@
 ***For You, For Me
-Tour***\[1\]，也就是***KylieUSA2009***，是[澳洲歌手](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、作曲家、[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛举办的第](../Page/凯莉·米洛.md "wikilink")11场巡演。这是凯莉在北美首次举办的巡演。
+Tour***\[1\]，也就是***KylieUSA2009***，是[澳洲歌手](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、作曲家、[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")举办的第11场巡演。这是凯莉在北美首次举办的巡演。
 
 ## 背景
 
@@ -84,7 +84,7 @@ Arms](https://zh.wikipedia.org/wiki/In_My_Arms_\(Kylie_Minogue_song\) "wikilink"
 
   - "[Got to Be
     Certain](https://zh.wikipedia.org/wiki/Got_to_Be_Certain "wikilink")"
-    于10月3日在[拉斯维加斯表演之时应观众要求以清唱方式献唱](../Page/拉斯维加斯.md "wikilink")。
+    于10月3日在[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")表演之时应观众要求以清唱方式献唱。
   - 清唱版本的"[I Should Be So
     Lucky](https://zh.wikipedia.org/wiki/I_Should_Be_So_Lucky "wikilink")"
     于10月4日在[好莱坞露天剧场在安可环节演唱](https://zh.wikipedia.org/wiki/好莱坞露天剧场 "wikilink")。
@@ -111,8 +111,8 @@ Arms](https://zh.wikipedia.org/wiki/In_My_Arms_\(Kylie_Minogue_song\) "wikilink"
 
   - 《[旧金山纪事报](../Page/旧金山纪事报.md "wikilink")》给予了*For You, For Me
     Tour*积极的评论：「难以描述凯利精彩的表演 -
-    有如[拉斯维加斯大型歌舞剧](../Page/拉斯维加斯.md "wikilink"),
-    又如[科幻小说似的游历](../Page/科幻小说.md "wikilink"),
+    有如[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")大型歌舞剧,
+    又如[科幻小说](../Page/科幻小说.md "wikilink")似的游历,
     完全由她亲自出演。演唱会中有黄金质感的老虎道具，纷飞的彩色纸屑，光彩夺目的橄榄球运动员服装以及穿戴有精心设计的头饰的特洛伊武士。
     有什么理由错过这场演出？……她能够将所有的一切完美融合本身就已让人非常惊叹。」\[6\]
 

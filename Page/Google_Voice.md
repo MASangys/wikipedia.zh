@@ -25,8 +25,8 @@ Voice也能将用户的留言转成声音档案，发到用户的电子邮件信
 
 使用Google
 Voice服务可以免费拨打美国或加拿大境内的任何电话，而國際電話(非北美地區)的费用也比傳統電話便宜，比如拨打中国大陆的價格为1美分/分钟，香港的價格为2美分/分钟，台灣市話:2美分/分鐘、手機：8美分/分鐘\[3\]。由于Google
-Voice展现出强大的整合功能，所以许多科技分析家都认为，它将给传统电话公司如[AT\&T](../Page/AT&T.md "wikilink")、[Verizon威讯公司等带来冲击](https://zh.wikipedia.org/wiki/Verizon "wikilink")，也会打击近几年发展的[VoIP网络电话](../Page/VoIP.md "wikilink")，比如
-[Skype](../Page/Skype.md "wikilink")、[Vonage等](../Page/Vonage.md "wikilink")。
+Voice展现出强大的整合功能，所以许多科技分析家都认为，它将给传统电话公司如[AT\&T](../Page/AT&T.md "wikilink")、[Verizon威讯公司等带来冲击](https://zh.wikipedia.org/wiki/Verizon "wikilink")，也会打击近几年发展的[VoIP](../Page/VoIP.md "wikilink")网络电话，比如
+[Skype](../Page/Skype.md "wikilink")、[Vonage](../Page/Vonage.md "wikilink")等。
 
 Google
 Voice在绑定的时候需要提供美国本地（google博客中有人提及局部加拿大的区号也可以）的手机，座机或者[Gizmo5的号码](https://zh.wikipedia.org/wiki/Gizmo5 "wikilink")，而很多美国外用户可以使用Gizmo5提供的免费的虚拟号码转到Gtalk或者Skype上从而实现绑定。
@@ -36,12 +36,12 @@ Voice（谷歌电话）现在对所有美国人免费开放，不再要求用户
 
 ## 分析
 
-不过[美利坚大学Kogod商学院的资讯管理项目主任吉尔](../Page/美利坚大学.md "wikilink")·克莱因教授分析，由于技术和本质上的不同，Google
+不过[美利坚大学](../Page/美利坚大学.md "wikilink")Kogod商学院的资讯管理项目主任吉尔·克莱因教授分析，由于技术和本质上的不同，Google
 Voice在短期那还无法对这些公司造成影响，不过若Google持续扩展提供的服务与功能，则有可能对市场造成冲击。
 
 克莱因说：“它（Google
 Voice）的确给在美国的传统手机电信商带来挑战，不过人们并不会因此就停止花大钱订购威讯、AT\&T、[Sprint
-Nextel](https://zh.wikipedia.org/wiki/Sprint_Nextel "wikilink")，或[T-Mobile等公司的服务](../Page/T-Mobile.md "wikilink")，因为他们还是需要这些电话。那些网络电话，它们特别注重在国际电话服务上头，而Google
+Nextel](https://zh.wikipedia.org/wiki/Sprint_Nextel "wikilink")，或[T-Mobile](../Page/T-Mobile.md "wikilink")等公司的服务，因为他们还是需要这些电话。那些网络电话，它们特别注重在国际电话服务上头，而Google
 Voice的国际电话也是要收费的。不过如果你是个非常依赖Google的人，使用[Gmail](../Page/Gmail.md "wikilink")、使用Google
 Voice、使用[Google
 Talk等等](../Page/Google_Talk.md "wikilink")，这些服务将会直接冲击网络电话公司。”不过克莱因教授也说，Google

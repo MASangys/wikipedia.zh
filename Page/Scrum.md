@@ -1,14 +1,14 @@
 {{ otheruses | subject=一種軟體開發流程| other=橄欖球運動裡的爭球方法|列陣爭球}}
 [缩略图](https://zh.wikipedia.org/wiki/File:ScrumKim.png "fig:缩略图")
 
-**Scrum**是一种[敏捷软件开发的](../Page/敏捷软件开发.md "wikilink")[方法學](https://zh.wikipedia.org/wiki/方法學 "wikilink")，用於迭代式增量软件开发过程。Scrum在英语是[橄榄球运动中](https://zh.wikipedia.org/wiki/橄榄球 "wikilink")[列陣爭球的意思](../Page/列陣爭球.md "wikilink")。
+**Scrum**是一种[敏捷软件开发](../Page/敏捷软件开发.md "wikilink")的[方法學](https://zh.wikipedia.org/wiki/方法學 "wikilink")，用於迭代式增量软件开发过程。Scrum在英语是[橄榄球运动中](https://zh.wikipedia.org/wiki/橄榄球 "wikilink")[列陣爭球](../Page/列陣爭球.md "wikilink")的意思。
 
 虽然Scrum是为[管理软件开发项目而开发的](https://zh.wikipedia.org/wiki/管理软件 "wikilink")，它同样可以用于运行软件维护团队，或者作为计划管理方法。Scrum之间的合作称为“Scrum
 of Scrums”。
 
 ## 历史
 
-  - 1986年，[竹内弘高和](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")[野中郁次郎阐述了一种新的](../Page/野中郁次郎.md "wikilink")[整体性的方法](https://zh.wikipedia.org/wiki/整体论 "wikilink")
+  - 1986年，[竹内弘高和](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")[野中郁次郎](../Page/野中郁次郎.md "wikilink")阐述了一种新的[整体性的方法](https://zh.wikipedia.org/wiki/整体论 "wikilink")
     ，该方法能够提高商业[新产品开发的速度和灵活性](https://zh.wikipedia.org/wiki/新产品开发 "wikilink")：\[1\]
       - 他们将这种新的*整体性方法*与*[橄榄球](https://zh.wikipedia.org/wiki/聯合式橄欖球 "wikilink")*相比较，前者各阶段相互重叠，并且由一个跨职能团队在不同的阶段完成整个过程，而团队“作为一个整体前进，把球传来传去”。
       - 他们对来自汽车，照片机器，计算机和打印机等产业的案例进行了研究。
@@ -17,7 +17,7 @@ of Scrums”。
 
   - 1991年，DeGrace和Stahl在《Wicked Problems, Righteous
     Solutions》\[2\]一书中将这种方法称为[scrum](../Page/列陣爭球.md "wikilink")，在[竹内弘高和](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")
-    [野中郁次郎的文章中提到的橄榄球术语](../Page/野中郁次郎.md "wikilink")。
+    [野中郁次郎](../Page/野中郁次郎.md "wikilink")的文章中提到的橄榄球术语。
   - 1990年代初，[肯·施瓦伯在其公司使用了一种方法Advanced](https://zh.wikipedia.org/wiki/肯·施瓦伯 "wikilink")
     Development Methods（先进开发方法），这种方法后来发展为Scrum。
   - 同时，[杰夫·萨瑟兰在Easel公司开发了一种类似的方法](https://zh.wikipedia.org/wiki/杰夫·萨瑟兰 "wikilink")，并首次称之为Scrum。\[3\]
@@ -43,7 +43,7 @@ Scrum是一个包括了一系列实践和预定义角色的过程骨架。Scrum�
 
 ## Scrum中的角色
 
-Scrum当中定义了许多角色。按照对开发过程的参与情况，这些角色被分为两组，即[猪组和](https://zh.wikipedia.org/wiki/猪 "wikilink")[鸡组](../Page/鸡.md "wikilink")。这个分组方法的由来是一个关于猪和鸡合伙开餐馆的笑话\[5\]：
+Scrum当中定义了许多角色。按照对开发过程的参与情况，这些角色被分为两组，即[猪组和](https://zh.wikipedia.org/wiki/猪 "wikilink")[鸡](../Page/鸡.md "wikilink")组。这个分组方法的由来是一个关于猪和鸡合伙开餐馆的笑话\[5\]：
 
 > 一天，一头猪和一只鸡在路上散步。鸡对猪说：“嗨，我们合伙开一家餐馆怎么样？”猪回头看了一下鸡说：“好主意，那你准备给餐馆起什么名字呢？”鸡想了想说：“叫‘火腿和鸡蛋’怎么样？”“那可不行”，猪说：“我把自己全搭进去了，而你只是参与而已。”
 
@@ -160,11 +160,11 @@ chart）是一个公开展示的图表，显示当前冲刺中未完成的任务
 ### Scrum用于产品开发
 
 将Scrum应用于产品开发是在《T新新产品开发游戏》（哈佛商业评论 86116:137-146,
-1986年）第一次提出，之后[野中郁次郎和](../Page/野中郁次郎.md "wikilink")[竹内弘高合著的](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")《创造知识的企业》（牛津大学出版社，1995年）进行了详细的阐述。今天Scrum被用于开发金融产品，互联网产品，以及医药产品。
+1986年）第一次提出，之后[野中郁次郎](../Page/野中郁次郎.md "wikilink")和[竹内弘高合著的](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")《创造知识的企业》（牛津大学出版社，1995年）进行了详细的阐述。今天Scrum被用于开发金融产品，互联网产品，以及医药产品。
 
 ### Scrum用作营销项目管理方法
 
-由于[市场营销通常以專案的方式运作](../Page/市场营销.md "wikilink")，许多一般專案管理的原则应用在市场营销上。市场营销也可以像[專案管理技术那样进行优化](https://zh.wikipedia.org/wiki/專案管理 "wikilink")。以Scrum方法进行市场营销被认为有助于克服市场营销经理们所遇到的问题。短时和固定的会议对于小的市场营销团队来说很重要，这是因为团队的每一个成员都可以了解其他人在做些什么，以及整个团队在朝着什么方向前进。Scrum在市场营销中应用可以：
+由于[市场营销](../Page/市场营销.md "wikilink")通常以專案的方式运作，许多一般專案管理的原则应用在市场营销上。市场营销也可以像[專案管理技术那样进行优化](https://zh.wikipedia.org/wiki/專案管理 "wikilink")。以Scrum方法进行市场营销被认为有助于克服市场营销经理们所遇到的问题。短时和固定的会议对于小的市场营销团队来说很重要，这是因为团队的每一个成员都可以了解其他人在做些什么，以及整个团队在朝着什么方向前进。Scrum在市场营销中应用可以：
 
   - 在早期发现可能的问题，可以更快地，最小损失地应对问题。 根据Scrum的主要原则
     “没有问题被扫入地毯下”，Scrum鼓励每一个团队成员描述他所遇到的困难，而这个困难可能会对整个团队的工作造成影响。

@@ -1,9 +1,9 @@
-**B.A.D.**是[台灣的三人組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2000年出道、2005年解散。所屬[唱片公司為](../Page/唱片公司.md "wikilink")[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")。
+**B.A.D.**是[台灣的三人組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2000年出道、2005年解散。所屬[唱片公司](../Page/唱片公司.md "wikilink")為[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")。
 
 ## 簡介
 
 此團名由三位男生[白吉勝](../Page/白吉勝.md "wikilink")（Ben）、[田恩沛](https://zh.wikipedia.org/wiki/田恩沛 "wikilink")（Alex）、[黃柏文](../Page/黃柏文.md "wikilink")（Danny）、的英文名字第一個字母所定的團名，中文組合就叫**壞男孩**，且三位團員都是在[美國留學多年後回](https://zh.wikipedia.org/wiki/美國 "wikilink")[台灣發展](https://zh.wikipedia.org/wiki/台灣 "wikilink")，曾以2001年發行《OH\!
-I》專輯榮獲2002年第13屆[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[金曲獎流行音樂最佳重唱組合](../Page/金曲獎.md "wikilink")。
+I》專輯榮獲2002年第13屆[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[金曲獎](../Page/金曲獎.md "wikilink")流行音樂最佳重唱組合。
 
 B.A.D於2004年，和科藝百代的唱片[合約到期之後解散](https://zh.wikipedia.org/wiki/合約 "wikilink")。團體解散後，Ben仍活躍於台灣[演藝圈](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")，Danny則轉型為[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現為[飛碟電台](https://zh.wikipedia.org/wiki/飛碟電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")。
 
@@ -36,7 +36,7 @@ B.A.D演唱歌曲時，亦會分配各自擅長的音域。
 </tbody>
 </table>
 
-DANNY（1978年7月9日-），本名黃柏文，是一名[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")。曾經是歌唱組合B.A.D成員之一（團員三人，D就是DANNY的第一個字母）。黃柏文在2004年從團體解散之後淡出演藝圈，後擔任父親所任職的[秀傳醫院的行銷總監至今](https://zh.wikipedia.org/wiki/秀傳醫院 "wikilink")。\[1\]2006年黃柏文在團員[田恩沛](https://zh.wikipedia.org/wiki/田恩沛 "wikilink")（ALEX）及ALEX前妻[許維恩介紹之下認識了](../Page/許維恩.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")[楊晴瑄](https://zh.wikipedia.org/wiki/楊晴瑄 "wikilink")，相隔5年後在2011年向[楊晴瑄求婚](https://zh.wikipedia.org/wiki/楊晴瑄 "wikilink")，後於2013年6月23日舉行婚宴。\[2\]\[3\]
+DANNY（1978年7月9日-），本名黃柏文，是一名[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")。曾經是歌唱組合B.A.D成員之一（團員三人，D就是DANNY的第一個字母）。黃柏文在2004年從團體解散之後淡出演藝圈，後擔任父親所任職的[秀傳醫院的行銷總監至今](https://zh.wikipedia.org/wiki/秀傳醫院 "wikilink")。\[1\]2006年黃柏文在團員[田恩沛](https://zh.wikipedia.org/wiki/田恩沛 "wikilink")（ALEX）及ALEX前妻[許維恩](../Page/許維恩.md "wikilink")介紹之下認識了[模特兒](../Page/模特兒.md "wikilink")[楊晴瑄](https://zh.wikipedia.org/wiki/楊晴瑄 "wikilink")，相隔5年後在2011年向[楊晴瑄求婚](https://zh.wikipedia.org/wiki/楊晴瑄 "wikilink")，後於2013年6月23日舉行婚宴。\[2\]\[3\]
 
 ## 唱片
 

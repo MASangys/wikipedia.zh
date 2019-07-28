@@ -3,7 +3,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:ap10-KSC-68C-7912.jpg" title="fig:ap10-KSC-68C-7912.jpg">ap10-KSC-68C-7912.jpg</a><br />
-<small><a href="../Page/阿波罗10号.md" title="wikilink">阿波罗10号的S</a>-IC级在<a href="https://zh.wikipedia.org/wiki/航天器组装厂房" title="wikilink">航天器组装厂房中进行吊装</a></small></p></td>
+<small><a href="../Page/阿波罗10号.md" title="wikilink">阿波罗10号</a>的S-IC级在<a href="https://zh.wikipedia.org/wiki/航天器组装厂房" title="wikilink">航天器组装厂房中进行吊装</a></small></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>数据</p></td>
@@ -67,7 +67,7 @@ S-IC上最大最重的部件是推力受力结构，重达21吨，它将五台�
 <tr class="odd">
 <td><p>S-IC-T</p></td>
 <td><p>静态试车</p></td>
-<td><p>在<a href="../Page/肯尼迪航天中心.md" title="wikilink">肯尼迪航天中心展示</a></p></td>
+<td><p>在<a href="../Page/肯尼迪航天中心.md" title="wikilink">肯尼迪航天中心</a>展示</p></td>
 <td></td>
 <td></td>
 </tr>

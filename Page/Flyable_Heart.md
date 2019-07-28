@@ -97,12 +97,12 @@ CandyHeart》。後來也陸續改編成漫畫和小說。
 <!-- end list -->
 
   -
-    八重野撫子的好朋友。[七色★星露的登場人物](../Page/七色★星露.md "wikilink")。
+    八重野撫子的好朋友。[七色★星露](../Page/七色★星露.md "wikilink")的登場人物。
 
 <!-- end list -->
 
   -
-    螢的妹妹。同為[七色★星露的登場人物](../Page/七色★星露.md "wikilink")。
+    螢的妹妹。同為[七色★星露](../Page/七色★星露.md "wikilink")的登場人物。
 
 ### 白鷺家
 
@@ -141,7 +141,7 @@ CandyHeart》。後來也陸續改編成漫畫和小說。
 
   - 《Flyable Heart》
 
-[石見翔子作畫](../Page/石見翔子.md "wikilink")，於2009年1月26日至2013年10月26日期間在[ASCII
+[石見翔子](../Page/石見翔子.md "wikilink")作畫，於2009年1月26日至2013年10月26日期間在[ASCII
 MEDIA
 WORKS的漫畫雜誌](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")《電撃G's
 Festival\!
@@ -149,7 +149,7 @@ COMIC》Vol.5\[2\]～Vol.32連載，[單行本共三集於](https://zh.wikipedia
 
   - 《超萌 我們的Flyable Heart》（いけ\!いけ\!僕らの Flyable Heart）
 
-由[HARVEST出版於](../Page/HARVEST出版.md "wikilink")2009年7月15日發售（ISBN
+由[HARVEST出版](../Page/HARVEST出版.md "wikilink")於2009年7月15日發售（ISBN
 978-4434133053），中文版由[銘顯文化代理於](https://zh.wikipedia.org/wiki/銘顯文化 "wikilink")2010年2月5日發售（ISBN
 9789862601396）\[5\]。
 
@@ -158,12 +158,12 @@ COMIC》Vol.5\[2\]～Vol.32連載，[單行本共三集於](https://zh.wikipedia
   - 《Flyable Heart》
 
 岡崎いずみ寫作，[伊東雜音插畫](../Page/伊東雜音_\(1999年出道\).md "wikilink")。由[ENTERBRAIN於](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")2009年6月29日發售（ISBN
-978-4757749337），中文版由[青文出版社代理於](../Page/青文出版社.md "wikilink")2011年2月18日發售（ISBN
+978-4757749337），中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理於2011年2月18日發售（ISBN
 9789862566596）。
 
   - 《Flyable Heart SSS》
 
-兒玉新一郎寫作，由[HARVEST出版於](../Page/HARVEST出版.md "wikilink")2010年5月1日發售（ISBN
+兒玉新一郎寫作，由[HARVEST出版](../Page/HARVEST出版.md "wikilink")於2010年5月1日發售（ISBN
 978-4434141409），中文版由銘顯文化代理於發售2010年10月14日發售（ISBN 9789862605622）\[6\]。
 
 ## 參考來源

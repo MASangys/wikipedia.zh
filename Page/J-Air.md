@@ -1,4 +1,4 @@
-****（），全稱「****」，是[日本一家以](../Page/日本.md "wikilink")[大阪國際機場為基地的](../Page/大阪國際機場.md "wikilink")[航空公司](../Page/航空公司.md "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[池田市](../Page/池田市.md "wikilink")，也是[日本航空](../Page/日本航空.md "wikilink")（）的[子公司](../Page/子公司.md "wikilink")。
+****（），全稱「****」，是[日本](../Page/日本.md "wikilink")一家以[大阪國際機場](../Page/大阪國際機場.md "wikilink")為基地的[航空公司](../Page/航空公司.md "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[池田市](../Page/池田市.md "wikilink")，也是[日本航空](../Page/日本航空.md "wikilink")（）的[子公司](../Page/子公司.md "wikilink")。
 [JAL_Express_Osaka_HQ_20100807-001.jpg](https://zh.wikipedia.org/wiki/File:JAL_Express_Osaka_HQ_20100807-001.jpg "fig:JAL_Express_Osaka_HQ_20100807-001.jpg")
 
 ## 航線
@@ -11,10 +11,10 @@
 ## 現有機隊
 
 [J-Air,_ERJ-170,_JA224J_(20627796680).jpg](https://zh.wikipedia.org/wiki/File:J-Air,_ERJ-170,_JA224J_\(20627796680\).jpg "fig:J-Air,_ERJ-170,_JA224J_(20627796680).jpg")
-[Hanamaki_airport03s3872.jpg](https://zh.wikipedia.org/wiki/File:Hanamaki_airport03s3872.jpg "fig:Hanamaki_airport03s3872.jpg")
-[CRJ200_(J-Air)_06.jpg](https://zh.wikipedia.org/wiki/File:CRJ200_\(J-Air\)_06.jpg "fig:CRJ200_(J-Air)_06.jpg")
-[Jair_tsurumaru.JPG](https://zh.wikipedia.org/wiki/File:Jair_tsurumaru.JPG "fig:Jair_tsurumaru.JPG")
-[JAL_AIR_Embraer_170.JPG](https://zh.wikipedia.org/wiki/File:JAL_AIR_Embraer_170.JPG "fig:JAL_AIR_Embraer_170.JPG")
+[J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA204J\)_at_Hanamaki_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg")
+[J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA206J\)_at_Memanbetsu_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg")
+[J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA202J\)_at_Itami_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg")
+[J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Embraer_170STD_\(JA218J\)_landing_at_Tokyo_International_Airport.jpg "fig:J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg")
 [J-AIR_Embraer_170_RJSN.JPG](https://zh.wikipedia.org/wiki/File:J-AIR_Embraer_170_RJSN.JPG "fig:J-AIR_Embraer_170_RJSN.JPG")
 截至2015年4月3日，J-Air的機隊如下\[1\]\[2\]：
 

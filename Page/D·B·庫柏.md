@@ -1,11 +1,11 @@
-**D·B·庫柏**（）是一个媒体用来指代一位身份不明的男性[劫機嫌犯的名字](https://zh.wikipedia.org/wiki/劫機 "wikilink")，他在1971年11月24日於[美國挾持一架](https://zh.wikipedia.org/wiki/美國 "wikilink")[波音727型的](../Page/波音727.md "wikilink")[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")，並要求200,000[美金的贖款](https://zh.wikipedia.org/wiki/美金 "wikilink")。他在獲得贖款後使用[降落傘從機上跳下](https://zh.wikipedia.org/wiki/降落傘 "wikilink")。他登機時使用的名字是**丹·庫柏**（Dan
-Cooper），但是後來因為[新聞界的疏失](https://zh.wikipedia.org/wiki/新聞 "wikilink")，他的名字於是成為D·B·庫柏。2017年8月18日，[FBI一项声明表示民间调查团队](../Page/联邦调查局.md "wikilink")“库珀悬案小组”（Cooper
+**D·B·庫柏**（）是一个媒体用来指代一位身份不明的男性[劫機嫌犯的名字](https://zh.wikipedia.org/wiki/劫機 "wikilink")，他在1971年11月24日於[美國挾持一架](https://zh.wikipedia.org/wiki/美國 "wikilink")[波音727](../Page/波音727.md "wikilink")型的[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")，並要求200,000[美金的贖款](https://zh.wikipedia.org/wiki/美金 "wikilink")。他在獲得贖款後使用[降落傘從機上跳下](https://zh.wikipedia.org/wiki/降落傘 "wikilink")。他登機時使用的名字是**丹·庫柏**（Dan
+Cooper），但是後來因為[新聞界的疏失](https://zh.wikipedia.org/wiki/新聞 "wikilink")，所以他的名字成為了D·B·庫柏。2017年8月18日，[FBI一项声明表示民间调查团队](../Page/联邦调查局.md "wikilink")“库珀悬案小组”（Cooper
 cold case team，简称CCT）于8月3日发现疑似库珀遗弃降落伞碎片，目前FBI已经接收碎片并展开调查。\[1\]\[2\]
 
 ## 劫機經過
 
 當天是星期三，亦是美國[感恩節前夕](../Page/感恩节_\(美国\).md "wikilink")，一名男子以「Dan
-Cooper」名字，登上一架[西北航空的機身編號N](../Page/西北航空.md "wikilink")467US的[波音727-100客機](../Page/波音727.md "wikilink")，從[波特蘭國際機場起飛](../Page/波特兰国际机场.md "wikilink")，前往[西雅圖](../Page/西雅圖.md "wikilink")。\[3\]
+Cooper」名字，登上一架[西北航空](../Page/西北航空.md "wikilink")的機身編號N467US的[波音727](../Page/波音727.md "wikilink")-100客機，從[波特蘭國際機場起飛](../Page/波特兰国际机场.md "wikilink")，前往[西雅圖](../Page/西雅圖.md "wikilink")。\[3\]
 據描述，該男子身高約5呎10至6呎(1.78至1.83米)高，衣著以黑色為主及架上[墨鏡](../Page/太陽眼鏡.md "wikilink")\[4\]，並坐在編號18C的座位上。
 
 當客機從波特蘭起飛後，他便向一名女[空中服務員](../Page/空中乘务员.md "wikilink")（名字：Florence
@@ -13,8 +13,8 @@ Schaffner）\[5\]
 遞了一張便條，該空服員起初以為該男子想搭訕，給的是自己的電話號碼，於是她沒有打開來看，只是放在自己的口袋中。\[6\]
 於是該男子走近對她說：「妳最好立即看看紙條：我有炸彈的。」\[7\]。而紙條一看的確寫著：「在我的公事包內藏有一個炸彈，我在必要時將會使用它。妳現在要坐在我身邊，你們已被我挾持了。」\[8\]
 
-紙條同時要求提供[美金二十萬](../Page/美元.md "wikilink")，而且全是不連碼的二十元紙幣，及四個[降落傘](https://zh.wikipedia.org/wiki/降落傘 "wikilink")\[9\]。當飛機抵達[西雅圖-塔科馬國際機場後](../Page/西雅圖-塔科馬國際機場.md "wikilink")，以上的指令必須遵行，否則他會炸毀客機\[10\]。當空服員向[機長報告該名男子的意圖後](https://zh.wikipedia.org/wiki/機長 "wikilink")，機長威廉．斯科特（William
-Scott）隨即向西雅圖[航空交通管制匯報](../Page/航空交通管制.md "wikilink")。由於事態嚴重，航管員聯絡上[聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")(FBI)接手，FBI又找來西北航空的總裁，Donald
+紙條同時要求提供[美金二十萬](../Page/美元.md "wikilink")，而且全是不連碼的二十元紙幣，及四個[降落傘](https://zh.wikipedia.org/wiki/降落傘 "wikilink")\[9\]。當飛機抵達[西雅圖-塔科馬國際機場](../Page/西雅圖-塔科馬國際機場.md "wikilink")後，以上的指令必須遵行，否則他會炸毀客機\[10\]。當空服員向[機長報告該名男子的意圖後](https://zh.wikipedia.org/wiki/機長 "wikilink")，機長威廉．斯科特（William
+Scott）隨即向西雅圖[航空交通管制](../Page/航空交通管制.md "wikilink")匯報。由於事態嚴重，航管員聯絡上[聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")(FBI)接手，FBI又找來西北航空的總裁，Donald
 Nyrop。Nyrop示意斯科特要跟劫機者合作，以免招致傷亡\[11\]
 。於是，斯科特指示該女空服員坐在劫機者鄰座，並確認該炸彈是否真實。為了讓機組員相信，劫機者打開了公事包，內藏一些紅色的筒狀物、一個大[電池](https://zh.wikipedia.org/wiki/電池 "wikilink")，以及一些電線，這讓女空服員相信這真是一個炸彈\[12\]。他隨即指示女空服員前往通知機長不許降落，直至他要求的贖金及降落傘已於西雅圖準備妥當。\[13\]
 
@@ -22,7 +22,7 @@ Nyrop。Nyrop示意斯科特要跟劫機者合作，以免招致傷亡\[11\]
 
 [DB_Cooper_Wanted_Poster.jpg](https://zh.wikipedia.org/wiki/File:DB_Cooper_Wanted_Poster.jpg "fig:DB_Cooper_Wanted_Poster.jpg")的通緝令，圖中就是305號班機的劫機者D.
 B. Cooper，圖右是劫機當天Cooper的妝扮\]\]
-於是，斯科特機長駕駛客機至[普吉特海湾上空停留](../Page/普吉特海湾.md "wikilink")，直至劫機者要求的二十萬美金準備妥當。應劫機者要求，FBI預備的現金並不是連號碼，也沒有任何標記的，但他們預備的現金全是1969年間由[三藩市](../Page/旧金山.md "wikilink")[聯邦儲備銀行所印刷](../Page/美國聯邦儲備銀行.md "wikilink")，有些還是連號碼的\[14\]，工作人員亦把所有共一萬張二十元紙幣的號碼快速記下\[15\]\[16\]。
+於是，斯科特機長駕駛客機至[普吉特海湾](../Page/普吉特海湾.md "wikilink")上空停留，直至劫機者要求的二十萬美金準備妥當。應劫機者要求，FBI預備的現金並不是連號碼，也沒有任何標記的，但他們預備的現金全是1969年間由[三藩市](../Page/旧金山.md "wikilink")[聯邦儲備銀行所印刷](../Page/美國聯邦儲備銀行.md "wikilink")，有些還是連號碼的\[14\]，工作人員亦把所有共一萬張二十元紙幣的號碼快速記下\[15\]\[16\]。
 
 當現金及降落傘預備好後，飛機終於在西雅圖機場降落，劫機者收到了20萬美元和4個降落傘後，果然守信釋放了機上的所有乘客和幾名機組人員。當客機機員也試圖離去時，劫機者攔住了他們，並命令斯科特等人將飛機開往[墨西哥](../Page/墨西哥.md "wikilink")。
 

@@ -11,7 +11,7 @@ more：一种用于[命令行分页显示的工具](https://zh.wikipedia.org/wik
 
 more的原作者是Daniel Halbert，并由Eric Shienbrood和Geoff Peck扩充功能。
 Daniel
-Halbert在[MIT就读本科时](../Page/MIT.md "wikilink")，他学习的操作系统是[ITS](https://zh.wikipedia.org/wiki/ITS "wikilink")。ITS自带一个分页工具，当显示的内容满一屏幕后，它会在屏幕的底部添加提示“--more--”，用户按下空格键就能继续显示下一页的内容。
+Halbert在[MIT](../Page/MIT.md "wikilink")就读本科时，他学习的操作系统是[ITS](https://zh.wikipedia.org/wiki/ITS "wikilink")。ITS自带一个分页工具，当显示的内容满一屏幕后，它会在屏幕的底部添加提示“--more--”，用户按下空格键就能继续显示下一页的内容。
 Daniel
 Halbert考入[加利福尼亚大学伯克利分校就读研究生课程时](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")，学习的是VAX
 Unix系统，它使用的分页器是cr3。当一页文本已经显示完成后，cr3用系统响铃的方式提示用户。这个做法有几个不利，一来，很多终端是“哑终端”，没有扬声器；二来，装满大量终端的机房内哔声此起彼伏，用户也不胜其烦。

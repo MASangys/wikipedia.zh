@@ -1,5 +1,5 @@
 **Adaptive Communication
-Environment**，簡稱**[ACE](../Page/ACE.md "wikilink")**。為一個以[C++的Template技術所做成的](../Page/C++.md "wikilink")[开放源代码的可跨平台的網路應用程式的程式庫套件](../Page/开放源代码.md "wikilink")。
+Environment**，簡稱**[ACE](../Page/ACE.md "wikilink")**。為一個以[C++](../Page/C++.md "wikilink")的Template技術所做成的[开放源代码](../Page/开放源代码.md "wikilink")的可跨平台的網路應用程式的程式庫套件。
 
 ## 簡介
 

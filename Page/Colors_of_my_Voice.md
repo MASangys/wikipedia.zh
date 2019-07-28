@@ -7,7 +7,7 @@ Records 2009年6月17日发售，商品番号SECL-752\~753（DVD付初回限定�
 距上张同名个人首张专辑之后一年3个月之后发售的新专辑。包含自己首次作为演员主演的电影「[Pride -
 迈向荣耀之路](https://zh.wikipedia.org/wiki/Pride_-_迈向荣耀之路 "wikilink")」的主題歌「[Pride〜A
 Part of Me〜
-feat.SRM](https://zh.wikipedia.org/wiki/Pride_迈向荣耀之路 "wikilink")」在内的3首[单曲及其他歌曲全](../Page/单曲.md "wikilink")11曲收录。
+feat.SRM](https://zh.wikipedia.org/wiki/Pride_迈向荣耀之路 "wikilink")」在内的3首[单曲](../Page/单曲.md "wikilink")及其他歌曲全11曲收录。
 
 初回限定版收录有各单曲PV映像的[DVD付](https://zh.wikipedia.org/wiki/DVD "wikilink")。收录单曲「[Changin'](https://zh.wikipedia.org/wiki/Changin' "wikilink")」及「Pride〜A
 Part of Me〜」首次公开的Stephanie个人独唱版本。

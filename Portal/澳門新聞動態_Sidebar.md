@@ -15,8 +15,8 @@ __NOTOC__
 <li><a href="../Page/澳門垃圾焚化中心.md" title="wikilink">焚化爐</a>、<a href="../Page/澳門理工學院.md" title="wikilink">理工管理問題</a></li>
 <li><a href="../Page/澳門輕軌.md" title="wikilink">輕軌超支</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/小潭山" title="wikilink">小潭山開發</a></li>
-<li><a href="../Page/橫琴島.md" title="wikilink">橫琴島開發</a></li>
-<li><a href="../Page/高士德大馬路.md" title="wikilink">高士德大馬路下水道重整工程</a></li>
+<li><a href="../Page/橫琴島.md" title="wikilink">橫琴島</a>開發</li>
+<li><a href="../Page/高士德大馬路.md" title="wikilink">高士德大馬路</a>下水道重整工程</li>
 <li>最低工資</li>
 <li>公共房屋供應</li>
 <li><a href="https://zh.wikipedia.org/wiki/2011年台灣塑化劑事件" title="wikilink">台灣塑化劑事件對澳門的影響</a></li>

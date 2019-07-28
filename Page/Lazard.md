@@ -1,5 +1,5 @@
 **Lazard
-Ltd**是一家注册在[百慕大群岛的投资银行](https://zh.wikipedia.org/wiki/百慕大群岛 "wikilink")，主要经营個人、[公司财务和](https://zh.wikipedia.org/wiki/公司财务 "wikilink")[资产管理业务](../Page/资产管理.md "wikilink")\[1\]。
+Ltd**是一家注册在[百慕大群岛的投资银行](https://zh.wikipedia.org/wiki/百慕大群岛 "wikilink")，主要经营個人、[公司财务和](https://zh.wikipedia.org/wiki/公司财务 "wikilink")[资产管理](../Page/资产管理.md "wikilink")业务\[1\]。
 
 拉扎德公司由亞歷山大·拉扎德(Alexandre Lazard)、艾里·拉扎爾(Elie Lazare)和西蒙·拉扎德(Simon
 Lazard)兄弟三人於1848年創立。開始在新奧爾良經營紡織品業務，逐漸轉向銀行及外匯業務。

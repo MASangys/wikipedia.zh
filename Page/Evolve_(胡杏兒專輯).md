@@ -1,4 +1,4 @@
-《**Evolve**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[胡杏兒的首張個人專輯](../Page/胡杏兒.md "wikilink")，於2008年11月28日正式發行。主打歌為《單身旅行》，推出後其唱功及聲底獲得不少好評。
+《**Evolve**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[胡杏兒](../Page/胡杏兒.md "wikilink")的首張個人專輯，於2008年11月28日正式發行。主打歌為《單身旅行》，推出後其唱功及聲底獲得不少好評。
 
 ## 曲目列表
 
@@ -30,7 +30,7 @@
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>與<a href="../Page/王浩信.md" title="wikilink">王浩信合唱</a><br />
+<td><p>與<a href="../Page/王浩信.md" title="wikilink">王浩信</a>合唱<br />
 TVB劇集《<a href="../Page/野蠻奶奶大戰戈師奶.md" title="wikilink">野蠻奶奶大戰戈師奶</a>》插曲</p></td>
 </tr>
 <tr class="odd">

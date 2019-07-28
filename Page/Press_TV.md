@@ -33,7 +33,7 @@ TV的目標就是在國際新聞報導方面與西方國家抗衡。」[1](http:
 支持者认为：Press TV对中东乃至全世界进行了深入、客观及有价值的报道。主要赞誉包括：
 
   - 由於身處中東，Press
-    TV能夠更深入的報導中東地區的情勢，而且也能夠以中東國家的觀點來深入來研究整個地區形勢的來龍去脈，特別是在戰火頻仍，新聞報導被嚴密封鎖的[伊拉克](../Page/伊拉克.md "wikilink")、[巴勒斯坦等地區](../Page/巴勒斯坦.md "wikilink")。
+    TV能夠更深入的報導中東地區的情勢，而且也能夠以中東國家的觀點來深入來研究整個地區形勢的來龍去脈，特別是在戰火頻仍，新聞報導被嚴密封鎖的[伊拉克](../Page/伊拉克.md "wikilink")、[巴勒斯坦](../Page/巴勒斯坦.md "wikilink")等地區。
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@ TV的目標就是在國際新聞報導方面與西方國家抗衡。」[1](http:
 <!-- end list -->
 
   - 美国语言学者Kevin Barrett认为：Press
-    TV像一面镜子，照出了[西方世界和](../Page/西方世界.md "wikilink")[犹太复国主义的丑陋](https://zh.wikipedia.org/wiki/锡安主义 "wikilink")，令西方感到恐惧\[5\]。
+    TV像一面镜子，照出了[西方世界](../Page/西方世界.md "wikilink")和[犹太复国主义的丑陋](https://zh.wikipedia.org/wiki/锡安主义 "wikilink")，令西方感到恐惧\[5\]。
 
 ### 批评
 
@@ -54,11 +54,11 @@ TV的目標就是在國際新聞報導方面與西方國家抗衡。」[1](http:
 
 <!-- end list -->
 
-  - 在[阿以冲突中偏袒](../Page/阿以冲突.md "wikilink")[阿方](https://zh.wikipedia.org/wiki/阿拉伯世界 "wikilink")\[10\]；
+  - 在[阿以冲突](../Page/阿以冲突.md "wikilink")中偏袒[阿方](https://zh.wikipedia.org/wiki/阿拉伯世界 "wikilink")\[10\]；
 
 <!-- end list -->
 
-  - 在[叙利亚内战报道中倾向](../Page/叙利亚内战.md "wikilink")[巴沙尔·阿萨德政权](../Page/巴沙尔·阿萨德.md "wikilink")\[11\]。
+  - 在[叙利亚内战](../Page/叙利亚内战.md "wikilink")报道中倾向[巴沙尔·阿萨德](../Page/巴沙尔·阿萨德.md "wikilink")政权\[11\]。
 
 ## 参考资料
 

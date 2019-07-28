@@ -1,4 +1,4 @@
-**errno.h**是[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫裡的標頭檔](../Page/C標準函式庫.md "wikilink")，定義了透過[錯誤碼來回報錯誤資訊的巨集](https://zh.wikipedia.org/wiki/錯誤碼 "wikilink")：
+**errno.h**是[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫](../Page/C標準函式庫.md "wikilink")裡的標頭檔，定義了透過[錯誤碼來回報錯誤資訊的巨集](https://zh.wikipedia.org/wiki/錯誤碼 "wikilink")：
 
   - `errno`巨集定義為一個`int`型態的[左值](https://zh.wikipedia.org/wiki/左值 "wikilink"),
     包含任何函式使用errno功能所產生的上一個錯誤碼。
@@ -7,7 +7,7 @@
       - `ERANGE`源自函式的結果超出範圍,例如`strtol("0xfffffffff",NULL,0)`
       - `EILSEQ`源自不合法的字元順序,例如`wcstombs(str, L"\xffff", 2)`
 
-[POSIX相容的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[作業系統像是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[UNIX或](https://zh.wikipedia.org/wiki/Unix "wikilink")[Linux或許會包含其他巨集來表示其他作業系統的錯誤碼](../Page/Linux.md "wikilink")
+[POSIX相容的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[作業系統像是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[UNIX或](https://zh.wikipedia.org/wiki/Unix "wikilink")[Linux](../Page/Linux.md "wikilink")或許會包含其他巨集來表示其他作業系統的錯誤碼
 
 2003年12月29日，[SCO Group對被選上的](../Page/SCO_Group.md "wikilink")[Fortune
 1000發布](https://zh.wikipedia.org/wiki/Fortune_1000 "wikilink")[DMCA公告](https://zh.wikipedia.org/wiki/Digital_Millennium_Copyright_Act "wikilink")，宣稱errno.h在未授權的狀況下從UNIX系統複製到了Linux系統。Linux的製作者兼商標擁有者Linus

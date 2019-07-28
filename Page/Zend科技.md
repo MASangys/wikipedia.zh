@@ -1,5 +1,5 @@
 **Zend
-Technologies**公司是一家[互联网基础架构软件公司](../Page/互联网.md "wikilink")，公司总部设在美国[加利福尼亚州的](../Page/加利福尼亚州.md "wikilink")[库比蒂诺](https://zh.wikipedia.org/wiki/库比蒂诺 "wikilink")，技术中心设在以色列[特拉维夫的](../Page/特拉维夫.md "wikilink")[拉马特甘](https://zh.wikipedia.org/wiki/拉马特甘 "wikilink")，法国，意大利，德国均设立有办事处。公司的技术开发及商业运作都以[PHPWeb应用为中心](../Page/PHP.md "wikilink")，包括[Zend
+Technologies**公司是一家[互联网](../Page/互联网.md "wikilink")基础架构软件公司，公司总部设在美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[库比蒂诺](https://zh.wikipedia.org/wiki/库比蒂诺 "wikilink")，技术中心设在以色列[特拉维夫](../Page/特拉维夫.md "wikilink")的[拉马特甘](https://zh.wikipedia.org/wiki/拉马特甘 "wikilink")，法国，意大利，德国均设立有办事处。公司的技术开发及商业运作都以[PHP](../Page/PHP.md "wikilink")Web应用为中心，包括[Zend
 Studio](../Page/Zend_Studio.md "wikilink")。
 
 [Zend_logo_small_old.gif](https://zh.wikipedia.org/wiki/File:Zend_logo_small_old.gif "fig:Zend_logo_small_old.gif")
@@ -9,12 +9,12 @@ Studio](../Page/Zend_Studio.md "wikilink")。
 Zend Technologies最为人们熟知的是它的两个奠基人：[Andi
 Gutmans和](https://zh.wikipedia.org/wiki/Andi_Gutmans "wikilink")[Zeev
 Suraski](https://zh.wikipedia.org/wiki/Zeev_Suraski "wikilink")，他们与其他以色列程序员一起，发展了由[Rasmus
-Lerdorf开创的](https://zh.wikipedia.org/wiki/Rasmus_Lerdorf "wikilink")[PHP语言](../Page/PHP.md "wikilink")。
+Lerdorf开创的](https://zh.wikipedia.org/wiki/Rasmus_Lerdorf "wikilink")[PHP](../Page/PHP.md "wikilink")语言。
 
 1997年，[Andi
 Gutmans和](https://zh.wikipedia.org/wiki/Andi_Gutmans "wikilink")[Zeev
 Suraski重写了](https://zh.wikipedia.org/wiki/Zeev_Suraski "wikilink")[Rasmus
-Lerdorf的PHP](https://zh.wikipedia.org/wiki/Rasmus_Lerdorf "wikilink")-FI，这份作品被作为PHP3发布。1998年，他们全部重新设计了语法解析器，并将它命名为[Zend引擎](../Page/Zend引擎.md "wikilink")。PHP4是第一个基于[Zend引擎的产品](../Page/Zend引擎.md "wikilink")，这一产品获得了巨大的成功。
+Lerdorf的PHP](https://zh.wikipedia.org/wiki/Rasmus_Lerdorf "wikilink")-FI，这份作品被作为PHP3发布。1998年，他们全部重新设计了语法解析器，并将它命名为[Zend引擎](../Page/Zend引擎.md "wikilink")。PHP4是第一个基于[Zend引擎](../Page/Zend引擎.md "wikilink")的产品，这一产品获得了巨大的成功。
 
 2006年，在以色列风险投资年会，Zend Technologies获得了“最佳风险投资公司”的奖项，这一奖项由以色列总理[Ehud
 Olmert亲自颁发](https://zh.wikipedia.org/wiki/Ehud_Olmert "wikilink")。 \[1\]

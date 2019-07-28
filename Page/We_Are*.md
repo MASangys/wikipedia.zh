@@ -1,7 +1,7 @@
 《**We
-Are\***》是[KID於](../Page/KID.md "wikilink")2006年7月27日發行的[PS2遊戲](../Page/PlayStation_2.md "wikilink")。標題下方標著「We
+Are\***》是[KID](../Page/KID.md "wikilink")於2006年7月27日發行的[PS2遊戲](../Page/PlayStation_2.md "wikilink")。標題下方標著「We
 Are
-Asterisk.」，符號\*（[星號](../Page/星號.md "wikilink")）不發音。在[MediaWorks的月刊漫畫雜誌](../Page/MediaWorks.md "wikilink")《[月刊電擊Comic
+Asterisk.」，符號\*（[星號](../Page/星號.md "wikilink")）不發音。在[MediaWorks](../Page/MediaWorks.md "wikilink")的月刊漫畫雜誌《[月刊電擊Comic
 Gao\!](../Page/月刊電擊Comic_Gao!.md "wikilink")》自2006年7月號開始連載漫畫版《We Are
 -Cruel Angel's-》，不過因為KID破產的衝擊而突然連載中斷。
 

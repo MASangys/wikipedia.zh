@@ -2,9 +2,9 @@
 Format发行的免费网络杂志](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")。诞生于2007年4月份，独立发行，与[Canonical
 Ltd并无纠葛](https://zh.wikipedia.org/wiki/Canonical_Ltd "wikilink")，使用广告和志愿者支持的方式持续进行，多数内容具有教学和宣传意义。\[1\]\[2\]\[3\]并没有中文译名。
 
-使用[知识共享协议发布](../Page/知识共享.md "wikilink")。
+使用[知识共享](../Page/知识共享.md "wikilink")协议发布。
 
-本杂志面向[Ubuntu和衍生发行版如](../Page/Ubuntu.md "wikilink")[Kubuntu](../Page/Kubuntu.md "wikilink")、[Xubuntu](../Page/Xubuntu.md "wikilink")、[Edubuntu](../Page/Edubuntu.md "wikilink")，注重评论，新闻，how-to文章，编程，问题解决。多种语言版本；创刊号有英文，Estonian罗马语，俄文，意大利语，西班牙语，Galician丹麦语，印度尼西亚语，中文（繁-简）。更新的一直有英文、法语、中文和俄语。
+本杂志面向[Ubuntu](../Page/Ubuntu.md "wikilink")和衍生发行版如[Kubuntu](../Page/Kubuntu.md "wikilink")、[Xubuntu](../Page/Xubuntu.md "wikilink")、[Edubuntu](../Page/Edubuntu.md "wikilink")，注重评论，新闻，how-to文章，编程，问题解决。多种语言版本；创刊号有英文，Estonian罗马语，俄文，意大利语，西班牙语，Galician丹麦语，印度尼西亚语，中文（繁-简）。更新的一直有英文、法语、中文和俄语。
 
 ## 本地化活动
 
@@ -22,7 +22,7 @@ Gtalk for linux，介绍源自国内社区的首个实用Gtalk语音软件。
 
 ## 历史
 
-第0期2007年4月问世，介绍[Ubuntu起源和新闻](../Page/Ubuntu.md "wikilink")、[新游戏](https://zh.wikipedia.org/wiki/linux游戏 "wikilink")。共17页。\[4\]\[5\]
+第0期2007年4月问世，介绍[Ubuntu](../Page/Ubuntu.md "wikilink")起源和新闻、[新游戏](https://zh.wikipedia.org/wiki/linux游戏 "wikilink")。共17页。\[4\]\[5\]
 
 25期开始使用landscape[版式](https://zh.wikipedia.org/wiki/版式 "wikilink")，更适合计算机显示屏观看。\[6\]
 

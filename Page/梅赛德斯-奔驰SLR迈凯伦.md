@@ -1,9 +1,9 @@
 **梅赛德斯-奔驰SLR迈凯伦**（Mercedes-Benz SLR
-McLaren）是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[梅赛德斯-奔驰汽車生產公司與](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式 "wikilink")、超级跑车制造商[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[迈凯伦汽车合作開發的高性能限量生產](../Page/迈凯伦汽车.md "wikilink")[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。
+McLaren）是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[梅赛德斯-奔驰汽車生產公司與](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式 "wikilink")、超级跑车制造商[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[迈凯伦汽车](../Page/迈凯伦汽车.md "wikilink")合作開發的高性能限量生產[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。
 
 ## 概要
 
-SLR麥拉倫是賽車運動的巔峰之作，堪称[超級跑車中的](../Page/超級跑車.md "wikilink")[F1](https://zh.wikipedia.org/wiki/F1 "wikilink")，設計特點是造出了與[奔驰和](https://zh.wikipedia.org/wiki/奔驰 "wikilink")[麥拉倫車隊的](https://zh.wikipedia.org/wiki/麥拉倫車隊 "wikilink")[F1一樣的車鼻和](https://zh.wikipedia.org/wiki/F1 "wikilink")[蝴蝶車門](https://zh.wikipedia.org/wiki/蝴蝶車門 "wikilink")。本車在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[麥拉倫車隊的](https://zh.wikipedia.org/wiki/麥拉倫車隊 "wikilink")[沃金工廠生产](../Page/沃金.md "wikilink")。
+SLR麥拉倫是賽車運動的巔峰之作，堪称[超級跑車](../Page/超級跑車.md "wikilink")中的[F1](https://zh.wikipedia.org/wiki/F1 "wikilink")，設計特點是造出了與[奔驰和](https://zh.wikipedia.org/wiki/奔驰 "wikilink")[麥拉倫車隊的](https://zh.wikipedia.org/wiki/麥拉倫車隊 "wikilink")[F1一樣的車鼻和](https://zh.wikipedia.org/wiki/F1 "wikilink")[蝴蝶車門](https://zh.wikipedia.org/wiki/蝴蝶車門 "wikilink")。本車在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[麥拉倫車隊的](https://zh.wikipedia.org/wiki/麥拉倫車隊 "wikilink")[沃金](../Page/沃金.md "wikilink")工廠生产。
 
 ## 历史
 
@@ -12,11 +12,11 @@ SLR麥拉倫是賽車運動的巔峰之作，堪称[超級跑車中的](../Page/
 
 ### C199（2003年-）
 
-SLR麥拉倫在2003年的[法蘭克福車展登場](../Page/法蘭克福車展.md "wikilink")，2004年10月開始在日本開始售賣。當時的售價是5775萬[日圓](../Page/日圓.md "wikilink")。
+SLR麥拉倫在2003年的[法蘭克福車展](../Page/法蘭克福車展.md "wikilink")登場，2004年10月開始在日本開始售賣。當時的售價是5775萬[日圓](../Page/日圓.md "wikilink")。
 
 付有[機械增壓器的](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")5.5L
 V8引擎是[AMG刻意為這台車而開發的](../Page/梅賽德斯-AMG.md "wikilink")。最高输出功率为626ps、0–100加速只需3.8秒。這樣可以和[藍寶堅尼和](https://zh.wikipedia.org/wiki/藍寶堅尼 "wikilink")[保時捷Carrera](https://zh.wikipedia.org/wiki/保時捷 "wikilink")
-GT匹敵。
+GT匹敵。 當時和Ferrari Enzo Carrera GT並列三大超跑
 
 另一方面，為了對抗一般使用手檔或是半自動變速器的賽車，SLR麥拉倫採用的是奔驰其他車種也有安裝的[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")。相對而言，這比起其他賽車來說是很容易鴐駛的賽車。此外，此車採用了空氣冷卻的制動剎車和可動式尾翼提升制動力，增強了下壓力和提高了剎車性能。
 

@@ -72,7 +72,7 @@ V_{in}(s) = \\frac{V}{s} </math>
 電容器[電性阻抗的增加和存於電容器的電量有關](../Page/阻抗.md "wikilink")。如果一個電容器的電壓來源為交流電，此電容的電壓會轉變成交流電源，當交流電的頻率越快時，因為蓄電的時間減少，使儲存於電容器內的電壓進而減少，同樣也縮減了電容器的等效電阻。
 這說明了電壓器的等效電阻和電壓源頻率的反關係。
 
-電容器的[阻抗或](../Page/阻抗.md "wikilink")[電阻](https://zh.wikipedia.org/wiki/電阻 "wikilink")
+電容器的[阻抗](../Page/阻抗.md "wikilink")或[電阻](https://zh.wikipedia.org/wiki/電阻 "wikilink")
 *Z*<sub>*C*</sub>（[歐姆](../Page/歐姆.md "wikilink")）和
 電容*C*（[法拉第](https://zh.wikipedia.org/wiki/法拉第 "wikilink")）為
 

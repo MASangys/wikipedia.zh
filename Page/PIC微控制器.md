@@ -23,7 +23,7 @@ PIC的架構是明顯的最低限度。它具有以下特點：
 ## 歷史
 
 [PIC1655A_GI.jpg](https://zh.wikipedia.org/wiki/File:PIC1655A_GI.jpg "fig:PIC1655A_GI.jpg")
-PIC 微控制器源自於 1980 年代由[通用儀器所推出的](../Page/通用儀器.md "wikilink") PIC1650
+PIC 微控制器源自於 1980 年代由[通用儀器](../Page/通用儀器.md "wikilink")所推出的 PIC1650
 系列，當時的 PIC 是周邊介面控制器（Peripheral Interface Controller）的簡稱。
 
 GI 的微電子部門於 1987 年分拆成為 Microchip Technology (微芯) 公司。

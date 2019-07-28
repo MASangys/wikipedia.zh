@@ -1,4 +1,4 @@
-**netcat**是個[计算机网络公用程式](../Page/计算机网络.md "wikilink")，用來對網路連線[TCP或者](https://zh.wikipedia.org/wiki/TCP "wikilink")[UDP進行讀寫](https://zh.wikipedia.org/wiki/UDP "wikilink")。
+**netcat**是個[计算机网络](../Page/计算机网络.md "wikilink")公用程式，用來對網路連線[TCP或者](https://zh.wikipedia.org/wiki/TCP "wikilink")[UDP進行讀寫](https://zh.wikipedia.org/wiki/UDP "wikilink")。
 
 netcat
 在2001年insecure.org對[nmap用戶郵件列表舉辦的投票被推選為第二有用的網路保全工具](https://zh.wikipedia.org/wiki/nmap "wikilink")\[1\]。2003年投票結果是第四名\[2\]；2006年的投票繼續穩佔同樣第四名寶座。\[3\]
@@ -33,7 +33,7 @@ netcat-1.14，对netcat的传输功能进行了修正，可以在传输完成后
 netcat-1.15，可以使用UDP模式，既-u和-e选项一起使用得到一个shell。
 Netcat完全[POSIX相容](https://zh.wikipedia.org/wiki/POSIX "wikilink")，並且目前現存多種不同的實現：[完全重新改寫的GNU](https://zh.wikipedia.org/wiki/重寫_\(編成\) "wikilink")
 netcat是由喬凡尼加克比 (Giovanni Giacobbi)
-維護；[視窗版本是由克利斯衛索柏](../Page/視窗.md "wikilink")（Chris
+維護；[視窗](../Page/視窗.md "wikilink")版本是由克利斯衛索柏（Chris
 Wysopal, Weld Pond網路保全公司）創造。[安德烈畢斯確夫（Andreas
 Bischoff）](http://en.wikipedia.org/wiki/User:Andreas_Bischoff)將視窗版移植到[Windows
 CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")（不是現今的[Windows
@@ -48,7 +48,7 @@ Mobile](../Page/Windows_Mobile.md "wikilink")）上。
 [Cryptcat](http://sourceforge.net/projects/cryptcat/) 是 netcat
 一個內建加密傳輸能力的版本。
 
-*Ncat*是由[Nmap開發團隊實做的另一個netcat版本](../Page/Nmap.md "wikilink")。
+*Ncat*是由[Nmap](../Page/Nmap.md "wikilink")開發團隊實做的另一個netcat版本。
 
 ## 參考文獻
 
@@ -67,7 +67,7 @@ Mobile](../Page/Windows_Mobile.md "wikilink")）上。
 
 ## 外部連結
 
-  - [OpenBSD版](../Page/OpenBSD.md "wikilink")[nc(1) 的 man
+  - [OpenBSD](../Page/OpenBSD.md "wikilink")版[nc(1) 的 man
     page](http://www.openbsd.org/cgi-bin/man.cgi?query=nc)
   - [GNU netcat](http://netcat.sourceforge.net/)
   - [Download 視窗版的 Netcat](http://joncraton.org/files/nc111nt.zip) --

@@ -55,7 +55,7 @@ Digital影片以及多种音频和视频檔案。
 
 #### Nero Nero Blu-ray Player
 
-Nero的[藍光光碟播放軟體](../Page/藍光光碟.md "wikilink"),無法播放除了藍光光碟以外的媒體。
+Nero的[藍光光碟](../Page/藍光光碟.md "wikilink")播放軟體,無法播放除了藍光光碟以外的媒體。
 
 ### 视频创作工具
 
@@ -77,20 +77,20 @@ Digital格式](../Page/Nero_Digital.md "wikilink")，可以在保持质量的条
 
 #### Nero SoundTrax
 
-[多轨](https://zh.wikipedia.org/wiki/多轨 "wikilink")[混音工具](../Page/混音.md "wikilink")，可以创建和输出音频混音。
+[多轨](https://zh.wikipedia.org/wiki/多轨 "wikilink")[混音](../Page/混音.md "wikilink")工具，可以创建和输出音频混音。
 
 ### 已被移除的工具
 
 #### Nero BackItUp
 
-一个系统[备份工具](../Page/备份.md "wikilink")。Nero BackItUp在Nero 7和Nero
+一个系统[备份](../Page/备份.md "wikilink")工具。Nero BackItUp在Nero 7和Nero
 8套件中被集成\[4\]\[5\]。但是从Nero 9开始，Nero BackItUp
 4成为一个独立的备份产品\[6\]并且不再集成进Nero套件\[7\]。消费者在购买Nero
 9的时候会得到一份免费的Nero BackItUp 4\[8\]。
 
 #### Nero ImageDrive
 
-Nero的[虚拟驱动器工具](https://zh.wikipedia.org/wiki/虚拟驱动器 "wikilink")，用户可以挂载CD或DVD[磁盘映像到一个虚拟的DVD驱动器](../Page/磁盘映像.md "wikilink")，在其他的Windows应用程序看来就是一个实际的设备。这个工具不再被包含于Nero
+Nero的[虚拟驱动器工具](https://zh.wikipedia.org/wiki/虚拟驱动器 "wikilink")，用户可以挂载CD或DVD[磁盘映像](../Page/磁盘映像.md "wikilink")到一个虚拟的DVD驱动器，在其他的Windows应用程序看来就是一个实际的设备。这个工具不再被包含于Nero
 9\[9\]。
 
 #### Nero DiscSpeed
@@ -120,9 +120,9 @@ Vista或以上支援](../Page/Windows_Vista.md "wikilink")[桌面小工具的作
 
 ## 套件命名协定
 
-整个套件被叫做**Nero**，后面跟着主版本号和一个标语，标语因国家而异（如，[美国使用](../Page/美国.md "wikilink")**Nero
+整个套件被叫做**Nero**，后面跟着主版本号和一个标语，标语因国家而异（如，[美国](../Page/美国.md "wikilink")使用**Nero
 7 Ultra Edition
-Enhanced**，[英国和](https://zh.wikipedia.org/wiki/英国 "wikilink")[澳大利亚使用](../Page/澳大利亚.md "wikilink")**Nero
+Enhanced**，[英国和](https://zh.wikipedia.org/wiki/英国 "wikilink")[澳大利亚](../Page/澳大利亚.md "wikilink")使用**Nero
 7 Premium Reloaded**）。但是核心程序仍称作[Nero Burning
 ROM](../Page/Nero_Burning_ROM.md "wikilink")。\[10\]
 

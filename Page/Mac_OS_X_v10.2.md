@@ -13,7 +13,7 @@ Panther所取代](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")。
     或者 G4,以及 iBook 电脑
   - **[内存容量的要求](https://zh.wikipedia.org/wiki/内存 "wikilink"):**128MB(虽然为了更好的操作体验，Mac
     OS X
-    v10.2.8的用户强烈推荐256MB或512MB的内存。因为当仅仅只有[操作系统在运行的时候](../Page/操作系统.md "wikilink")，它所占用的内存是200MB,但它也能在只占用96
+    v10.2.8的用户强烈推荐256MB或512MB的内存。因为当仅仅只有[操作系统](../Page/操作系统.md "wikilink")在运行的时候，它所占用的内存是200MB,但它也能在只占用96
     MB的情况下运行。)
   - **处理器类型:** [PowerPC](../Page/PowerPC.md "wikilink") G3, G4 或 G5
     在233 MHz或更高的频率下运行。
@@ -30,7 +30,7 @@ Mac OS v10.2 Jaguar 有多种新特性，包括：
     (前身是**Rendezvous**)是苹果新实施的[IETF的开放协议](https://zh.wikipedia.org/wiki/Internet_Engineering_Task_Force "wikilink")([Zeroconf](https://zh.wikipedia.org/wiki/Zeroconf "wikilink"))它允许电脑通过网络目录列表服务“发现”联网的设备。比如说一个联网且支持Bonjour的打印机可以在没有进行用户设置的情况下“发现”并且连接一部支持Bonjour的电脑。这项技术现在被用于[iTunes音乐共享和iChat](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
   - **[CUPS](../Page/CUPS.md "wikilink")** (*Common Unix Printing
     System*),為[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
-    [操作系统提供的打印模块](../Page/操作系统.md "wikilink")。
+    [操作系统](../Page/操作系统.md "wikilink")提供的打印模块。
   - **[Finder](https://zh.wikipedia.org/wiki/Macintosh_Finder "wikilink")**
     – 更新的搜索，它可以将搜索直接内建于每一个窗口。
   - **[Mail](https://zh.wikipedia.org/wiki/Apple_Mail "wikilink")** –
@@ -57,7 +57,7 @@ Mac OS v10.2 Jaguar 有多种新特性，包括：
   - **[iChat](https://zh.wikipedia.org/wiki/iChat "wikilink")** –
     一个苹果开发，并支持第三方软件（如[AOL Instant
     Messenger](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")）的即时通讯客户端。
-  - **[Inkwell](https://zh.wikipedia.org/wiki/Inkwell_\(Macintosh\) "wikilink")**,一个有[手写识别的软件](../Page/手写识别.md "wikilink")。
+  - **[Inkwell](https://zh.wikipedia.org/wiki/Inkwell_\(Macintosh\) "wikilink")**,一个有[手写识别](../Page/手写识别.md "wikilink")的软件。
 
 ## 版本历史
 

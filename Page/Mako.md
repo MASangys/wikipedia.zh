@@ -1,16 +1,16 @@
-**MAKO**是[東京都出身的女性歌手](../Page/東京都.md "wikilink")、[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")。[I'm
+**MAKO**是[東京都](../Page/東京都.md "wikilink")出身的女性歌手、[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")。[I'm
 Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
-本名是櫻井真子，[血型是O型](https://zh.wikipedia.org/wiki/血型 "wikilink")，[星座是](../Page/星座.md "wikilink")[天秤座](../Page/天秤座.md "wikilink")。2005年3月以品川星星女子高等学校毕业，2009年3月于跡見学園女子大学文學部臨床心理學畢業。
+本名是櫻井真子，[血型是O型](https://zh.wikipedia.org/wiki/血型 "wikilink")，[星座](../Page/星座.md "wikilink")是[天秤座](../Page/天秤座.md "wikilink")。2005年3月以品川星星女子高等学校毕业，2009年3月于跡見学園女子大学文學部臨床心理學畢業。
 
 ## 人物
 
-  - [興趣是](https://zh.wikipedia.org/wiki/興趣 "wikilink")[占卜和煲電話粥](../Page/占卜.md "wikilink")。
+  - [興趣是](https://zh.wikipedia.org/wiki/興趣 "wikilink")[占卜](../Page/占卜.md "wikilink")和煲電話粥。
   - 特長是消磨時間，能什麽都不做的在家呆一天。
   - 被人說性格像任性的小貓。
-  - 没有[百合的属性](https://zh.wikipedia.org/wiki/百合_\(同人\) "wikilink")，但是非常喜欢[南里侑香和](../Page/南里侑香.md "wikilink")[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")。虽然自己不会主动亲吻她们，但是如果她们想要亲吻自己也不会拒绝。\[1\]
-  - 是共同出演[穿越宇宙的少女的同一事務所的](../Page/穿越宇宙的少女.md "wikilink")[南里侑香的](../Page/南里侑香.md "wikilink")[Fans](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，得到過有[南里侑香簽名的](../Page/南里侑香.md "wikilink")[寫真集](https://zh.wikipedia.org/wiki/寫真集 "wikilink")。\[2\]
-  - 喜歡的食物是，[海膽](../Page/海膽.md "wikilink")、[鯡](../Page/太平洋鯡.md "wikilink")[魚卵和](../Page/魚卵.md "wikilink")[螃蟹](../Page/螃蟹.md "wikilink")。
+  - 没有[百合的属性](https://zh.wikipedia.org/wiki/百合_\(同人\) "wikilink")，但是非常喜欢[南里侑香](../Page/南里侑香.md "wikilink")和[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")。虽然自己不会主动亲吻她们，但是如果她们想要亲吻自己也不会拒绝。\[1\]
+  - 是共同出演[穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")的同一事務所的[南里侑香](../Page/南里侑香.md "wikilink")的[Fans](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，得到過有[南里侑香](../Page/南里侑香.md "wikilink")簽名的[寫真集](https://zh.wikipedia.org/wiki/寫真集 "wikilink")。\[2\]
+  - 喜歡的食物是，[海膽](../Page/海膽.md "wikilink")、[鯡](../Page/太平洋鯡.md "wikilink")[魚卵](../Page/魚卵.md "wikilink")和[螃蟹](../Page/螃蟹.md "wikilink")。
   - 有養貓。\[3\]
   - 于2014年6月20日在自己的博客中向外界宣布，她本人于近期順利産下一個女孩。此外她還說道，自己早就已經完婚，不過之前並沒有公開發表這件事。\[4\]
 
@@ -70,7 +70,7 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
 **2016年**
 
-  - [月歌。THE ANIMATION](../Page/月歌。.md "wikilink")（如月愛）
+  - [月歌。 ANIMATION](../Page/月歌。.md "wikilink")THE（如月愛）
 
 **2018年**
 
@@ -124,8 +124,8 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
   - [屍體派對 Book of Shadows](../Page/屍體派對.md "wikilink")（**大上沙也加**）
 
-  - [校園迷糊大王第二學期 恐怖的(?)夏合宿！ 洋房出現幽靈！？
-    尋找寶物決勝負！！！之巻](../Page/校園迷糊大王.md "wikilink")（一條可憐）
+  - [校園迷糊大王 恐怖的(?)夏合宿！ 洋房出現幽靈！？
+    尋找寶物決勝負！！！之巻](../Page/校園迷糊大王.md "wikilink")第二學期（一條可憐）
 
   - （未來的奶奶（孩子時期））
 
@@ -167,9 +167,9 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 [Category:跡見學園女子大學校友](https://zh.wikipedia.org/wiki/Category:跡見學園女子大學校友 "wikilink")
 
-1.  [穿越宇宙的少女的广播](../Page/穿越宇宙的少女.md "wikilink")\#24.
-2.  [穿越宇宙的少女的广播](../Page/穿越宇宙的少女.md "wikilink")\#1.
-3.  [穿越宇宙的少女的广播](../Page/穿越宇宙的少女.md "wikilink")\#2.
+1.  [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")的广播\#24.
+2.  [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")的广播\#1.
+3.  [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")的广播\#2.
 4.
 5.
 6.

@@ -1,4 +1,4 @@
-**qmake**是一個協助簡化[跨平台進行專案開發的構建過程的工具程式](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，[Qt附帶的工具之一](../Page/Qt.md "wikilink")
+**qmake**是一個協助簡化[跨平台進行專案開發的構建過程的工具程式](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，[Qt](../Page/Qt.md "wikilink")附帶的工具之一
 。qmake能夠自动生成Makefile、[Microsoft Visual
 Studio](../Page/Microsoft_Visual_Studio.md "wikilink") 專案檔 和
 [xcode](https://zh.wikipedia.org/wiki/xcode "wikilink")

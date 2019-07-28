@@ -67,7 +67,7 @@ Manager及。
 在2006年8月10日，蘋果公司宣布的第一個通用二進制發布的Mac OS X
 Server，是10.4.7，同時支持PowerPC及Intel的處理器。同時，蘋果公司宣布推出新的Intel-based
 [Mac
-Pro及](../Page/Mac_Pro.md "wikilink")[Xserve系統](../Page/Xserve.md "wikilink")。
+Pro及](../Page/Mac_Pro.md "wikilink")[Xserve](../Page/Xserve.md "wikilink")系統。
 
 ### Mac OS X Server 10.5 (Leopard Server)
 
@@ -98,7 +98,7 @@ Pro及](../Page/Mac_Pro.md "wikilink")[Xserve系統](../Page/Xserve.md "wikilink
     2改進對[CalDAV的支援](https://zh.wikipedia.org/wiki/CalDAV "wikilink")，一個新的Web日曆應用，發送電子郵件邀請非iCal用戶。
   - Podcast Producer 2支持雙源視訊，GUI工作流程編輯器供選擇影片，transitions，標題，水印及effects。
   - 可使用CardDAV議定書在多台計算機分享Address Book Server。
-  - [OpenCL利用](../Page/OpenCL.md "wikilink")[GPU進行高性能計算的應用程序](https://zh.wikipedia.org/wiki/GPU "wikilink")。
+  - [OpenCL](../Page/OpenCL.md "wikilink")利用[GPU進行高性能計算的應用程序](https://zh.wikipedia.org/wiki/GPU "wikilink")。
   - 提供傳送Push Notifications到你的iPhone或Macbook上的Push Notification Server。
   - Address
     Server以新興的CardDAV規格為基礎，利用WebDAV來交換vCards，讓使用者能在多部電腦間共享個人和群組聯絡資訊及遠端存取聯絡資訊，不受LDAP綱要限制亦無其安全性問題。

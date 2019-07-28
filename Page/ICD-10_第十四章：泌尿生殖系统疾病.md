@@ -61,7 +61,7 @@ N30-N39 泌尿系统的其他疾病
   - N31 膀胱神经肌肉功能不良，不可归类在他处者
   - N32 膀胱的其他疾患
   - N33 分类于他处的疾病引起的膀胱疾患
-  - N34 [尿道炎和尿道综合征](../Page/尿道炎.md "wikilink")
+  - N34 [尿道炎](../Page/尿道炎.md "wikilink")和尿道综合征
   - N35 尿道狭窄
   - N36 尿道的其他疾患
   - N37 分类于他处的疾病引起的尿道疾患
@@ -72,24 +72,24 @@ N30-N39 泌尿系统的其他疾病
 N40-N51 男性生殖器官疾病
 
   - N40 [前列腺增生](https://zh.wikipedia.org/wiki/前列腺增生 "wikilink")
-  - N41 [前列腺炎性疾病](../Page/前列腺炎.md "wikilink")
+  - N41 [前列腺炎](../Page/前列腺炎.md "wikilink")性疾病
   - N42 前列腺的其他疾患
   - N43
     [水囊肿](https://zh.wikipedia.org/wiki/水囊肿 "wikilink")（睾丸鞘膜积液）和[精子囊肿](https://zh.wikipedia.org/wiki/精子囊肿 "wikilink")
   - N44 睾丸扭转
   - N45
-    [睾丸炎和](../Page/睾丸炎.md "wikilink")[附睾炎](https://zh.wikipedia.org/wiki/附睾炎 "wikilink")
+    [睾丸炎](../Page/睾丸炎.md "wikilink")和[附睾炎](https://zh.wikipedia.org/wiki/附睾炎 "wikilink")
   - N46 男性不育症
   - N47
     [包皮过长](https://zh.wikipedia.org/wiki/包皮过长 "wikilink")、[包茎和](https://zh.wikipedia.org/wiki/包茎 "wikilink")[包茎嵌顿](https://zh.wikipedia.org/wiki/包茎嵌顿 "wikilink")
-  - N48 [阴茎的其他疾患](../Page/阴茎.md "wikilink")
+  - N48 [阴茎](../Page/阴茎.md "wikilink")的其他疾患
   - N49 男性生殖器官炎性疾患，不可归类在他处者
   - N50 男性生殖器官的其他疾患
   - N51 分类于他处的疾病引起的男性生殖器官的疾患
 
 ## N60-N64 乳房疾患
 
-N60-N64 [乳房疾患](../Page/乳房.md "wikilink")
+N60-N64 [乳房](../Page/乳房.md "wikilink")疾患
 
   - N60 良性乳房发育不良
   - N61 乳房炎性疾患
@@ -111,7 +111,7 @@ N70-N77 女性盆腔器官炎性疾病
   - N75
     [前庭大腺](https://zh.wikipedia.org/wiki/前庭大腺 "wikilink")（[巴多林腺](https://zh.wikipedia.org/wiki/巴多林腺 "wikilink")）疾病
   - N76
-    [阴道和](../Page/阴道.md "wikilink")[外阴的其他炎症](https://zh.wikipedia.org/wiki/外阴 "wikilink")
+    [阴道](../Page/阴道.md "wikilink")和[外阴的其他炎症](https://zh.wikipedia.org/wiki/外阴 "wikilink")
   - N77 分类于他处的疾病引起的外阴阴道溃疡和炎症
 
 ## N80-N98 女性生殖道非炎性疾患

@@ -1,4 +1,4 @@
-**DQN**（）是在[日本所流行的](../Page/日本.md "wikilink")[網路用語與蔑稱之一](https://zh.wikipedia.org/wiki/網路用語 "wikilink")，通常指玩世不恭的不良人物、頭腦不好或是粗暴使用暴力的人，有时候也指没有常识或缺乏知識的人，也指父母给孩子取一些奇怪名字或自創发音。
+**DQN**（）是在[日本](../Page/日本.md "wikilink")所流行的[網路用語與蔑稱之一](https://zh.wikipedia.org/wiki/網路用語 "wikilink")，通常指玩世不恭的不良人物、頭腦不好或是粗暴使用暴力的人，有时候也指没有常识或缺乏知識的人，也指父母给孩子取一些奇怪名字或自創发音。
 
 ## 概述
 
@@ -10,17 +10,17 @@
 
 ### DQN姓名
 
-2000年以来，日本父母给孩子起名兴起这样一种风潮，那就是给孩子起一些专属暴走族的音译汉字名，如“愛羅（发音AIRA）”。还有取自动画、漫画、游戏等虛構角色的音译汉字名，如“光宙（发音PIKACHU，与《[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝 "wikilink")》中的[皮卡丘发音相同](../Page/皮卡丘.md "wikilink")）”，“龍飛伊(ルフィ)（发音Luffy，与《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》中的[魯夫发音相同](https://zh.wikipedia.org/wiki/魯夫 "wikilink")）”。这种难读难懂的名字被称为“DQN姓名”，又名為「閃亮名字(キラキラネーム)」。\[1\]\[2\]\[3\]
+2000年以来，日本父母给孩子起名兴起这样一种风潮，那就是给孩子起一些专属暴走族的音译汉字名，如“愛羅（发音AIRA）”。还有取自动画、漫画、游戏等虛構角色的音译汉字名，如“光宙（发音PIKACHU，与《[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝 "wikilink")》中的[皮卡丘](../Page/皮卡丘.md "wikilink")发音相同）”，“龍飛伊(ルフィ)（发音Luffy，与《[航海王](https://zh.wikipedia.org/wiki/航海王 "wikilink")》中的[魯夫发音相同](https://zh.wikipedia.org/wiki/魯夫 "wikilink")）”。这种难读难懂的名字被称为“DQN姓名”，又名為「閃亮名字(キラキラネーム)」。\[1\]\[2\]\[3\]
 
 每个人对DQN姓名判断标准不同，但是法院表示，监护人根据个人喜好随意起名的行为并不恰当，他们应为孩子起有助于其成长的姓名。倘若警察局因姓名问题拒绝出生登记，应冷静思考重新起名。并且，如果申请成功，日本的“家事法庭”也允许改名一次。
 
 常見的DQN名字有如下幾類：
 
   - 姓名无视汉字读音：如为汉字标注英语读音或自创读音。
-  - 不知道[漢字本身所代表的不好的意思](https://zh.wikipedia.org/wiki/漢字 "wikilink")，只用讀音去拼湊出漢字：例如象徵海中明月的「海月」，日文漢字有[水母的意思](../Page/水母.md "wikilink")。也有不知道其辭彙的意義而取名的例子如：亞奈流（ア(A
+  - 不知道[漢字本身所代表的不好的意思](https://zh.wikipedia.org/wiki/漢字 "wikilink")，只用讀音去拼湊出漢字：例如象徵海中明月的「海月」，日文漢字有[水母](../Page/水母.md "wikilink")的意思。也有不知道其辭彙的意義而取名的例子如：亞奈流（ア(A
     )ナ(NA)
-    ル(RU))，日語音同『*anal*』，即[肛門](https://zh.wikipedia.org/wiki/肛門 "wikilink")）、舞良（マラ，日語音同『魔羅』，即[陰莖](https://zh.wikipedia.org/wiki/陰莖 "wikilink")）、妃仁（日語音同『避妊』，即[避孕](https://zh.wikipedia.org/wiki/避孕 "wikilink")）等粗話或與性有關聯的用語，而這問題在歐美國家也時常出現\[4\]\[5\]。更甚者有[慈檀與](https://zh.wikipedia.org/wiki/齐内丁·齐达内 "wikilink")[久亭這種以自己喜愛選手的](../Page/弗朗切斯科·托蒂.md "wikilink")[姓氏或](../Page/姓氏.md "wikilink")[名字等將孩子取名](https://zh.wikipedia.org/wiki/名字 "wikilink")，或者念做「Aqua」卻寫成『空』（Aqua為拉丁語中的「水」），念做「[Mars](../Page/火星.md "wikilink")」卻寫成『金星』這種搞錯外來語意思的例子。
-  - 人名以外的名詞：不使用「龍（竜）」或「櫻」等等常見的人名，而使用不適合當作人名的動物名（如：[無尾熊](../Page/無尾熊.md "wikilink")）、食物名（如：[可可](https://zh.wikipedia.org/wiki/可可 "wikilink")）、星球或星座名、甚至有像[哈姆太郎等卡通角色的名稱來命名的例子](../Page/哈姆太郎.md "wikilink")。
+    ル(RU))，日語音同『*anal*』，即[肛門](https://zh.wikipedia.org/wiki/肛門 "wikilink")）、舞良（マラ，日語音同『魔羅』，即[陰莖](https://zh.wikipedia.org/wiki/陰莖 "wikilink")）、妃仁（日語音同『避妊』，即[避孕](https://zh.wikipedia.org/wiki/避孕 "wikilink")）等粗話或與性有關聯的用語，而這問題在歐美國家也時常出現\[4\]\[5\]。更甚者有[慈檀與](https://zh.wikipedia.org/wiki/齐内丁·齐达内 "wikilink")[久亭這種以自己喜愛選手的](../Page/弗朗切斯科·托蒂.md "wikilink")[姓氏](../Page/姓氏.md "wikilink")或[名字等將孩子取名](https://zh.wikipedia.org/wiki/名字 "wikilink")，或者念做「Aqua」卻寫成『空』（Aqua為拉丁語中的「水」），念做「[Mars](../Page/火星.md "wikilink")」卻寫成『金星』這種搞錯外來語意思的例子。
+  - 人名以外的名詞：不使用「龍（竜）」或「櫻」等等常見的人名，而使用不適合當作人名的動物名（如：[無尾熊](../Page/無尾熊.md "wikilink")）、食物名（如：[可可](https://zh.wikipedia.org/wiki/可可 "wikilink")）、星球或星座名、甚至有像[哈姆太郎](../Page/哈姆太郎.md "wikilink")等卡通角色的名稱來命名的例子。
   - 混淆性別的名字：如为男生起女性名，或者女生取男性名。但随时代变化，較中性的名字也較為被接受。例如男生的名字取為「千尋」、女生的名字取為「亮」就沒有那麼的突兀了。
   - 起过于恢弘的姓名：由於不了解西方人對傳統宗教（一般是天主教或基督教）中對上帝或惡魔等神明的敬畏而自以為是亂取姓名如“Jesus”（[耶穌基督](https://zh.wikipedia.org/wiki/耶穌基督 "wikilink")）“Salvador”（[救世主](https://zh.wikipedia.org/wiki/救世主 "wikilink")）或"Lucifer"（[路西法](../Page/路西法.md "wikilink")）等。
   - 本人與周圍的人都不知其涵義的姓名：發生於西元2000年(平成12年)的「鼎殺父事件」。起因父親將兒子取名為「[鼎](../Page/鼎.md "wikilink")」（日語為かなえ，較為少用），但這個名字被周圍的人認為是奇怪的名字且偏向女性化，兒子因而被人愚弄，兒子成年之後改了名字，但事情沒有因為兒子改了名字而結束。2000年9月，發生了這名兒子殺害命名父親的事件。有証言指出：被告者在法庭上從法官的話語中第一次得知了自己名字的深遠内涵，鼎在中國古代天子在位時代表具有重大地位身分之義。雖然是個好名字卻因為周围的人都不了解涵義所在，因此被當作DQN名字看待而遭人愚弄，遺憾地發展成殺人事件。\[6\]\[7\]\[8\]

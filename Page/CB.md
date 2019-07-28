@@ -15,7 +15,7 @@
     Bandits，CB）：共產主義土匪，特指中國共產黨stands
     for China Communist Party。此出處來源於當年蔣中正對CCP的稱呼。
   - [銅鑼灣](../Page/銅鑼灣.md "wikilink")（Causeway Bay）
-  - [柬埔寨的](../Page/柬埔寨.md "wikilink")[FIPS](https://zh.wikipedia.org/wiki/联邦资料处理标准 "wikilink")
+  - [柬埔寨](../Page/柬埔寨.md "wikilink")的[FIPS](https://zh.wikipedia.org/wiki/联邦资料处理标准 "wikilink")
     国家代码
   - [亨利·甘贝尔-班纳曼](https://zh.wikipedia.org/wiki/亨利·甘贝尔-班纳曼 "wikilink")（Sir
     Henry Campbell-Bannerman），英国自由党政治家
@@ -29,7 +29,7 @@
 
 ## 军事
 
-  - 从美国海军退役的大型[巡洋舰的船体分类符号](../Page/巡洋舰.md "wikilink")
+  - 从美国海军退役的大型[巡洋舰](../Page/巡洋舰.md "wikilink")的船体分类符号
 
 ## 人物
 

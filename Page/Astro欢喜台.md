@@ -1,6 +1,6 @@
 **Astro欢喜台**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Astro Hua
 Hee Dai；[閩南語白話字](https://zh.wikipedia.org/wiki/白話字 "wikilink")：
-**）、**Astro欢喜台HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的](https://zh.wikipedia.org/wiki/Astro "wikilink")[福建閩南話娱乐综合频道](../Page/泉漳片.md "wikilink")，全天候24小时播出。该频道主要播出来自[臺灣的閩南話连续剧](../Page/臺灣.md "wikilink")、旅游、纪录片、美食、休闲及综艺节目等等，
+**）、**Astro欢喜台HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的](https://zh.wikipedia.org/wiki/Astro "wikilink")[福建閩南話娱乐综合频道](../Page/泉漳片.md "wikilink")，全天候24小时播出。该频道主要播出来自[臺灣](../Page/臺灣.md "wikilink")的閩南話连续剧、旅游、纪录片、美食、休闲及综艺节目等等，
 同時亦播出本地節目（亦稱**“Astro本地圈”**节目）。**Astro欢喜台**于2007年10月13日正式启播，至于**Astro欢喜台HD**则于2013年6月24日正式启播，该频道备有[中文及](https://zh.wikipedia.org/wiki/中文 "wikilink")[马来文字幕服务](https://zh.wikipedia.org/wiki/马来文 "wikilink")。
 
 ## Astro欢喜台HD

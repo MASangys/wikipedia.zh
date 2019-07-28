@@ -1,7 +1,7 @@
 《**Castle Fantasia
-聖魔大戰**》（日文原名：）為[日本遊戲公司](../Page/日本.md "wikilink")[Studio
+聖魔大戰**》（日文原名：）為[日本](../Page/日本.md "wikilink")遊戲公司[Studio
 e.go\!](../Page/Studio_e.go!.md "wikilink")（簡稱ego）於1998年11月20日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2000年12月22日發售重製版《新聖魔大戰》（日文原名：），不僅全程有語音且[CG畫質與戰鬥系統皆大幅提升細膩度及挑戰度](https://zh.wikipedia.org/wiki/CG "wikilink")。\[2\]台灣由信必優多媒體股份有限公司代理發行中文版(非18禁)，現已倒閉、結束營業。2002年7月11日由Symbio
-Planning發售[Dreamcast版](../Page/Dreamcast.md "wikilink")。\[3\]
+Planning發售[Dreamcast](../Page/Dreamcast.md "wikilink")版。\[3\]
 
 ## 遊戲方式
 
@@ -9,7 +9,7 @@ Planning發售[Dreamcast版](../Page/Dreamcast.md "wikilink")。\[3\]
 
 ## 故事簡介
 
-聖魔大戰…曾經有一場被後人這樣稱呼的[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")。但是那[戰爭並不如](https://zh.wikipedia.org/wiki/戰爭 "wikilink")[傳說中所說的](https://zh.wikipedia.org/wiki/傳說 "wikilink")，是聖者對抗[魔鬼的戰爭](../Page/魔鬼.md "wikilink")，而是秉持光明神所訂定的嚴密[世襲制之統治者](https://zh.wikipedia.org/wiki/世襲 "wikilink")，和意圖從那秩序下逃脫的人們之間所爆發的戰爭
+聖魔大戰…曾經有一場被後人這樣稱呼的[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")。但是那[戰爭並不如](https://zh.wikipedia.org/wiki/戰爭 "wikilink")[傳說中所說的](https://zh.wikipedia.org/wiki/傳說 "wikilink")，是聖者對抗[魔鬼](../Page/魔鬼.md "wikilink")的戰爭，而是秉持光明神所訂定的嚴密[世襲制之統治者](https://zh.wikipedia.org/wiki/世襲 "wikilink")，和意圖從那秩序下逃脫的人們之間所爆發的戰爭
 。這場始於小小地方叛亂的[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，在席捲人們的各種思緒下逐漸蔓延。直到神聖曆358年就在開戰經過200年，當所有人幾乎忘卻[戰爭理由的時候](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，光明神軍下出現了一位[英雄](../Page/英雄.md "wikilink")。修伊該如何帶領從四方拼湊起的[軍隊](../Page/軍隊.md "wikilink")，打勝屬於他們所認為的聖魔大戰呢?
 
 ## 登場人物
@@ -17,7 +17,7 @@ Planning發售[Dreamcast版](../Page/Dreamcast.md "wikilink")。\[3\]
 ### 主角角色
 
   - 修伊·愛爾薩德（ヒューイ＝エルザード）
-    本作男主角，是因裘拉教國第七聖部隊的隊長。他在軍中是有名的懶惰鬼，有教國萬年[米蟲](https://zh.wikipedia.org/wiki/米蟲 "wikilink")、[薪水小偷等難聽綽號](https://zh.wikipedia.org/wiki/薪水 "wikilink")。不知為何，居然被選為地位崇高的聖[騎士之一](https://zh.wikipedia.org/wiki/騎士 "wikilink")。不過在當上聖[騎士之後](https://zh.wikipedia.org/wiki/騎士 "wikilink")，懶散行為依然故我。但智謀方面卻是一等一的強，[武術也不差](../Page/武術.md "wikilink")。且很愛護隊員們。可習得奧義「天地咆吼龍鳴斬」。
+    本作男主角，是因裘拉教國第七聖部隊的隊長。他在軍中是有名的懶惰鬼，有教國萬年[米蟲](https://zh.wikipedia.org/wiki/米蟲 "wikilink")、[薪水小偷等難聽綽號](https://zh.wikipedia.org/wiki/薪水 "wikilink")。不知為何，居然被選為地位崇高的聖[騎士之一](https://zh.wikipedia.org/wiki/騎士 "wikilink")。不過在當上聖[騎士之後](https://zh.wikipedia.org/wiki/騎士 "wikilink")，懶散行為依然故我。但智謀方面卻是一等一的強，[武術](../Page/武術.md "wikilink")也不差。且很愛護隊員們。可習得奧義「天地咆吼龍鳴斬」。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@ Planning發售[Dreamcast版](../Page/Dreamcast.md "wikilink")。\[3\]
 <!-- end list -->
 
   - 賽西爾·霍華特（セシル＝フォーワード）
-    在某個廢村照顧戰難[孤兒的女性](https://zh.wikipedia.org/wiki/孤兒 "wikilink")。雖對小孩子很溫柔，但對於大人卻是不可一世的的驕傲態度。後來受到修伊一行人的幫助，由於她驕傲的個性，使得她想加入修伊他們，但拉不下臉拜託他們，於是使出半威脅的方式硬加入了第七聖部隊。會使用攻擊型[魔法](../Page/魔法.md "wikilink")，人稱「邊境[魔女](https://zh.wikipedia.org/wiki/魔女 "wikilink")」。由於她一頭的紅長髮，前方有著長長的兩搓，使得後期加入的露娜兒幫她取了五花八門的綽號，如[龍蝦](../Page/龍蝦.md "wikilink")、[蟑螂等](../Page/蟑螂.md "wikilink")，但她個人是非常不喜歡這些綽號的。可習得奧義「四元素天地滅」。
+    在某個廢村照顧戰難[孤兒的女性](https://zh.wikipedia.org/wiki/孤兒 "wikilink")。雖對小孩子很溫柔，但對於大人卻是不可一世的的驕傲態度。後來受到修伊一行人的幫助，由於她驕傲的個性，使得她想加入修伊他們，但拉不下臉拜託他們，於是使出半威脅的方式硬加入了第七聖部隊。會使用攻擊型[魔法](../Page/魔法.md "wikilink")，人稱「邊境[魔女](https://zh.wikipedia.org/wiki/魔女 "wikilink")」。由於她一頭的紅長髮，前方有著長長的兩搓，使得後期加入的露娜兒幫她取了五花八門的綽號，如[龍蝦](../Page/龍蝦.md "wikilink")、[蟑螂](../Page/蟑螂.md "wikilink")等，但她個人是非常不喜歡這些綽號的。可習得奧義「四元素天地滅」。
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@ Planning發售[Dreamcast版](../Page/Dreamcast.md "wikilink")。\[3\]
 <!-- end list -->
 
   - 索米雅‧亞爾絲達（ソミア＝アルスタ）
-    第八聖部隊隊長。是暗殺[忍者世家](../Page/忍者.md "wikilink")，她的負面流言總是不斷，例如跟他出戰的隊伍總是全滅之類的。有目前的官位，絕大因素是因父親的豐功偉業所賜與的，但也因為這原因造就她的不幸，個性大變。可習得奧義「月下深影亂風斬」。
+    第八聖部隊隊長。是暗殺[忍者](../Page/忍者.md "wikilink")世家，她的負面流言總是不斷，例如跟他出戰的隊伍總是全滅之類的。有目前的官位，絕大因素是因父親的豐功偉業所賜與的，但也因為這原因造就她的不幸，個性大變。可習得奧義「月下深影亂風斬」。
 
 ### 其他角色
 

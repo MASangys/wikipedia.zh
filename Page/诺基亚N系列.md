@@ -1,8 +1,8 @@
-**[諾基亞N系列](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")**是[多媒体](../Page/多媒体.md "wikilink")[手机家族的一员](https://zh.wikipedia.org/wiki/手机 "wikilink")。这个系列的手机都支持数字多媒体服务比如音乐播放，视频采集，照相，手机游戏和因特网服务。并支持至少一种高速无线技术，例如[3G或](../Page/3G.md "wikilink")[无线局域网](../Page/无线局域网.md "wikilink")。
+**[諾基亞N系列](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")**是[多媒体](../Page/多媒体.md "wikilink")[手机家族的一员](https://zh.wikipedia.org/wiki/手机 "wikilink")。这个系列的手机都支持数字多媒体服务比如音乐播放，视频采集，照相，手机游戏和因特网服务。并支持至少一种高速无线技术，例如[3G](../Page/3G.md "wikilink")或[无线局域网](../Page/无线局域网.md "wikilink")。
 
 ## 历史
 
-诺基亚于2005年4月27日在[阿姆斯特丹举行的手机制造商](../Page/阿姆斯特丹.md "wikilink")[记者招待会上宣布了一个新的多媒体设备品牌](https://zh.wikipedia.org/wiki/记者招待会 "wikilink")。\[1\]最初于记者会上发布的N系列手机是[N70](https://zh.wikipedia.org/wiki/诺基亚_N70 "wikilink")、[N90和](https://zh.wikipedia.org/wiki/诺基亚_N90 "wikilink")[N91](https://zh.wikipedia.org/wiki/诺基亚_N91 "wikilink")。2005年11月2日，诺基亚发布了[N71](https://zh.wikipedia.org/wiki/诺基亚_N71 "wikilink")、
+诺基亚于2005年4月27日在[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")举行的手机制造商[记者招待会上宣布了一个新的多媒体设备品牌](https://zh.wikipedia.org/wiki/记者招待会 "wikilink")。\[1\]最初于记者会上发布的N系列手机是[N70](https://zh.wikipedia.org/wiki/诺基亚_N70 "wikilink")、[N90和](https://zh.wikipedia.org/wiki/诺基亚_N90 "wikilink")[N91](https://zh.wikipedia.org/wiki/诺基亚_N91 "wikilink")。2005年11月2日，诺基亚发布了[N71](https://zh.wikipedia.org/wiki/诺基亚_N71 "wikilink")、
 [N80和](https://zh.wikipedia.org/wiki/诺基亚_N80 "wikilink")[N92](https://zh.wikipedia.org/wiki/诺基亚_N92 "wikilink")。2006年4月25日，诺基亚发布了[N72](https://zh.wikipedia.org/wiki/诺基亚_N72 "wikilink")、[N73和](https://zh.wikipedia.org/wiki/诺基亚_N73 "wikilink")[N93](https://zh.wikipedia.org/wiki/诺基亚_N93 "wikilink")。2006年9月26日诺基亚发布[N75和](https://zh.wikipedia.org/wiki/诺基亚_N75 "wikilink")[N95](https://zh.wikipedia.org/wiki/诺基亚_N95 "wikilink")。2007年1月8日，诺基亚发布了[N76](https://zh.wikipedia.org/wiki/诺基亚_N76 "wikilink")、[N77和](https://zh.wikipedia.org/wiki/诺基亚_N77 "wikilink")[N93i](https://zh.wikipedia.org/wiki/诺基亚_N93i "wikilink")。2007年8月29日，诺基亚发布了[N95
 8GB](https://zh.wikipedia.org/wiki/诺基亚_N95_8GB "wikilink")、[N81](https://zh.wikipedia.org/wiki/诺基亚_N81 "wikilink")、[N81
 8GB](https://zh.wikipedia.org/wiki/诺基亚_N81_8GB "wikilink")，并于同年11月14日发布了[N82](https://zh.wikipedia.org/wiki/诺基亚_N82 "wikilink")，它是第一部有[氙气闪光灯的诺基亚手机](https://zh.wikipedia.org/wiki/氙气闪光灯 "wikilink")。2008年巴塞罗纳的全球移动通信协会上，诺基亚发布了[N96和](https://zh.wikipedia.org/wiki/诺基亚_N96 "wikilink")[N78](https://zh.wikipedia.org/wiki/诺基亚_N78 "wikilink")。同年8月末，诺基亚又发布了两款新N系列手机[N79和](https://zh.wikipedia.org/wiki/诺基亚_N79 "wikilink")[N85](https://zh.wikipedia.org/wiki/诺基亚_N85 "wikilink")。12月2日，诺基亚发布了[N97](https://zh.wikipedia.org/wiki/诺基亚_97 "wikilink")。\[2\]\[3\]2009年2月17日，诺基亚发布了N86
@@ -23,8 +23,8 @@ N系列的第一部手机N90，使用旧款的[Symbian](https://zh.wikipedia.org
 9(除了基于N70的N72)。新的N系列手机将使用加入了更多新特性的SymbianOS
 9系统。
 
-[N800](https://zh.wikipedia.org/wiki/诺基亚_N800 "wikilink")[N810以及](https://zh.wikipedia.org/wiki/诺基亚_N810 "wikilink")[诺基亚N900网络终端是唯一几部不用Symbian](../Page/诺基亚N900.md "wikilink")
-OS系统的N系列手机。它们使用基于[Linux的](../Page/Linux.md "wikilink")[Maemo操作系统](../Page/Maemo.md "wikilink")。\[4\]
+[N800](https://zh.wikipedia.org/wiki/诺基亚_N800 "wikilink")[N810以及](https://zh.wikipedia.org/wiki/诺基亚_N810 "wikilink")[诺基亚N900](../Page/诺基亚N900.md "wikilink")网络终端是唯一几部不用Symbian
+OS系统的N系列手机。它们使用基于[Linux](../Page/Linux.md "wikilink")的[Maemo](../Page/Maemo.md "wikilink")操作系统。\[4\]
 
 ## N系列产品列表
 

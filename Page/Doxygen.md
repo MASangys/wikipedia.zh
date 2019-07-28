@@ -1,5 +1,5 @@
-**Doxygen**是一個适用于[C++](../Page/C++.md "wikilink")、[C](../Page/C.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](../Page/Python.md "wikilink")、[IDL](../Page/接口描述语言.md "wikilink")（[CORBA和Microsoft](../Page/CORBA.md "wikilink")
-flavors）、[Fortran](../Page/Fortran.md "wikilink")、[VHDL](../Page/VHDL.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[C\#和](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[D語言的文檔生成器](../Page/D語言.md "wikilink")。它可以在大多數[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")、[macOS以及](https://zh.wikipedia.org/wiki/macOS "wikilink")[Microsoft
+**Doxygen**是一個适用于[C++](../Page/C++.md "wikilink")、[C](../Page/C.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](../Page/Python.md "wikilink")、[IDL](../Page/接口描述语言.md "wikilink")（[CORBA](../Page/CORBA.md "wikilink")和Microsoft
+flavors）、[Fortran](../Page/Fortran.md "wikilink")、[VHDL](../Page/VHDL.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[C\#和](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[D語言](../Page/D語言.md "wikilink")的文檔生成器。它可以在大多數[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")、[macOS以及](https://zh.wikipedia.org/wiki/macOS "wikilink")[Microsoft
 Windows上執行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。初始版本的Doxygen使用了一些舊版本DOC++的源代码，在那之后，Dimitri
 van Heesch重写了Doxygen的源代码。
 
@@ -7,13 +7,13 @@ Doxygen是一個編寫軟件參考-{zh-hans:文檔; zh-tw:文件}-的工具。�
 zh-tw:文件}-是直接寫在源代码中，因此比較容易保持更新。Doxygen可以交叉引用-{zh-hans:文檔;
 zh-tw:文件}-和源代码，使文件的讀者可以很容易地引用實際的源代码。
 
-[KDE使用Doxygen作为其部分](../Page/KDE.md "wikilink")-{zh-hans:文档;
-zh-tw:文件}-且[KDevelop具有內置的支持](../Page/KDevelop.md "wikilink")。
+[KDE](../Page/KDE.md "wikilink")使用Doxygen作为其部分-{zh-hans:文档;
+zh-tw:文件}-且[KDevelop](../Page/KDevelop.md "wikilink")具有內置的支持。
 Doxygen的发布遵守[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，并且是[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 用法
 
-如同Javadoc，Doxygen提取文件從源文件的註解。除了Javadoc的語法，Doxygen支持[Qt使用的文檔標記](../Page/Qt.md "wikilink")，並可以輸出成[HTML](../Page/HTML.md "wikilink")、以及[CHM](https://zh.wikipedia.org/wiki/HTML_Help "wikilink")、[RTF](../Page/RTF.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[PostScript或](../Page/PostScript.md "wikilink")[手册页](../Page/手册页.md "wikilink")。
+如同Javadoc，Doxygen提取文件從源文件的註解。除了Javadoc的語法，Doxygen支持[Qt](../Page/Qt.md "wikilink")使用的文檔標記，並可以輸出成[HTML](../Page/HTML.md "wikilink")、以及[CHM](https://zh.wikipedia.org/wiki/HTML_Help "wikilink")、[RTF](../Page/RTF.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[PostScript](../Page/PostScript.md "wikilink")或[手册页](../Page/手册页.md "wikilink")。
 
 ## 範例代碼
 

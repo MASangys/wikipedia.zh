@@ -1,4 +1,4 @@
-《**OSCA**》（，*O.S.C.A.*）是日本樂團[東京事變的第四張](../Page/東京事變.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[EMI
+《**OSCA**》（，*O.S.C.A.*）是日本樂團[東京事變](../Page/東京事變.md "wikilink")的第四張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[EMI
 Music
 Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin
 Music於](../Page/維京唱片.md "wikilink")2007年7月11日發行\[1\]。初回限定為「特殊剪裁印刷仕樣、《[東京事變
@@ -10,7 +10,7 @@ Treatment](https://zh.wikipedia.org/wiki/Spa_&_Treatment#演唱會簡介 "wikili
 
 ## 單曲概要
 
-《**OSCA**》是東京事變繼2005年11月發表《[修羅場](../Page/修羅場_\(東京事變單曲\).md "wikilink")》後，睽違一年半後再度發行作品。但是[椎名林檎在上一張專輯](../Page/椎名林檎.md "wikilink")《[大人](https://zh.wikipedia.org/wiki/大人_\(東京事變專輯\) "wikilink")》接受訪問中提到「今後，她想要專心作詞和演唱，作曲則會交給其他成員\[4\]。」因此，這張單曲的作品均來自於團員們的創作，再加上椎名林檎宛如舞蹈般的演唱，展現出東京事變另外一種面貌。而這樣的改變，竟讓她受到歌迷反應說比較喜歡團員創作的歌曲，不禁讓她自嘲：「那我乾脆就不作曲、專心排練演唱會，讓其他人去跑接下來的宣傳行程好了\[5\]。」
+《**OSCA**》是東京事變繼2005年11月發表《[修羅場](../Page/修羅場_\(東京事變單曲\).md "wikilink")》後，睽違一年半後再度發行作品。但是[椎名林檎](../Page/椎名林檎.md "wikilink")在上一張專輯《[大人](https://zh.wikipedia.org/wiki/大人_\(東京事變專輯\) "wikilink")》接受訪問中提到「今後，她想要專心作詞和演唱，作曲則會交給其他成員\[4\]。」因此，這張單曲的作品均來自於團員們的創作，再加上椎名林檎宛如舞蹈般的演唱，展現出東京事變另外一種面貌。而這樣的改變，竟讓她受到歌迷反應說比較喜歡團員創作的歌曲，不禁讓她自嘲：「那我乾脆就不作曲、專心排練演唱會，讓其他人去跑接下來的宣傳行程好了\[5\]。」
 
 而也因為這個緣故2006年舉行的《["DOMESTIC\!" Just can't help
 it.](../Page/Just_can't_help_it..md "wikilink")》巡迴演唱會上發表了浮雲所創作的歌曲「Mirror
@@ -105,7 +105,7 @@ Express*的評論家表示這像是六零年代的歌曲\[26\]，*CDJournal*的�
 
 《OSCA》於2007年7月11日發行。發行首週，在日本公信榜Oricon的單曲榜2007年7月第2週付的榜單中以36,914張銷售量居單週第二名。同週第一名是銷售量突破4萬大關的組合
 feat.
-・[松任谷由實](../Page/松任谷由實.md "wikilink")・[柚子所發行的單曲](../Page/柚子_\(組合\).md "wikilink")「」\[28\]。第二週則位居十五位，同週第一、二名分別是女歌手[濱崎步的單曲](../Page/濱崎步.md "wikilink")「[glitter/fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")」及搖滾樂團[色情塗鴉的單曲](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")「」\[29\]。總計《OSCA》總共在日本公信榜Oricon的單曲榜上榜9週，累積銷售達5.8萬張\[30\]。同時在2007年年銷售榜中，《OSCA》以5.8萬張銷售量居全年第137名\[31\]。
+・[松任谷由實](../Page/松任谷由實.md "wikilink")・[柚子所發行的單曲](../Page/柚子_\(組合\).md "wikilink")「」\[28\]。第二週則位居十五位，同週第一、二名分別是女歌手[濱崎步](../Page/濱崎步.md "wikilink")的單曲「[glitter/fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")」及搖滾樂團[色情塗鴉的單曲](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")「」\[29\]。總計《OSCA》總共在日本公信榜Oricon的單曲榜上榜9週，累積銷售達5.8萬張\[30\]。同時在2007年年銷售榜中，《OSCA》以5.8萬張銷售量居全年第137名\[31\]。
 
 <table>
 <thead>

@@ -11,10 +11,10 @@ Enix的要求開發](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")《[�
 
 後來Level-5著重在[NDS平台](https://zh.wikipedia.org/wiki/NDS "wikilink")，開發出包括《[雷頓教授系列](../Page/雷頓教授系列.md "wikilink")》、《[閃電十一人](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")》等發展為系列作的遊戲。2008年發表與日本的動畫界巨頭[吉卜力工作室合作](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")，開始研發一款新的遊戲系列《[第二國度](https://zh.wikipedia.org/wiki/第二國度 "wikilink")》，首作於2010年12月9日發行。
 
-2015年在[美国](../Page/美国.md "wikilink")[加利福尼亚州建立分公司Level](../Page/加利福尼亚州.md "wikilink")-5
+2015年在[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")建立分公司Level-5
 abby，将负责Level-5旗下作品的多媒体开发。2017年1月在香港开设Level-5 abby Hong Kong。\[3\]
 
-2017年6月，Level-5宣布收购著名游戏制作人[稻船敬二的工作室](../Page/稻船敬二.md "wikilink")[comcept](https://zh.wikipedia.org/wiki/comcept "wikilink")，将之更名为Level-5
+2017年6月，Level-5宣布收购著名游戏制作人[稻船敬二](../Page/稻船敬二.md "wikilink")的工作室[comcept](https://zh.wikipedia.org/wiki/comcept "wikilink")，将之更名为Level-5
 comcept。\[4\]
 
 ## 遊戲發售

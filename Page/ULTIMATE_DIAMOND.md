@@ -1,5 +1,5 @@
 **ULTIMATE
-DIAMOND**（）是[日本歌手](../Page/日本.md "wikilink")[水樹奈奈的第](../Page/水樹奈奈.md "wikilink")7張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。於2009年6月3日由[KING
+DIAMOND**（）是[日本](../Page/日本.md "wikilink")歌手[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第7張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。於2009年6月3日由[KING
 RECORDS发售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品番號：KICS-91470
 （CD+DVD初回限定盤）/KICS-1470（普通版）。
 
@@ -7,7 +7,7 @@ RECORDS发售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品�
 
   - 上张专辑[GREAT
     ACTIVITY之后约一年半以上推出的全新个人大碟](../Page/GREAT_ACTIVITY.md "wikilink")、制作阵容以[Elements
-    Garden为中心展开](../Page/Elements_Garden.md "wikilink")，[矢吹俊郎及](../Page/矢吹俊郎.md "wikilink")[齋藤真也等也有参与乐曲制作工作](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")，这次参与制作的新人有[SPORTS的伊藤寛之等第一次为水树提供乐曲的制作人](https://zh.wikipedia.org/wiki/SPORTS "wikilink")。Elements
+    Garden为中心展开](../Page/Elements_Garden.md "wikilink")，[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")及[齋藤真也等也有参与乐曲制作工作](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")，这次参与制作的新人有[SPORTS的伊藤寛之等第一次为水树提供乐曲的制作人](https://zh.wikipedia.org/wiki/SPORTS "wikilink")。Elements
     Garden的中山真斗参加编曲工作、Elements Garden全员参加了水树乐曲的制作工作。
 
 <!-- end list -->
@@ -19,17 +19,17 @@ RECORDS发售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品�
 <!-- end list -->
 
   - 收录全4曲的双A面单曲[STARCAMP
-    EP中的](../Page/STARCAMP_EP.md "wikilink")2曲，同时自己最高销量记录的单曲[Trickster](../Page/Trickster.md "wikilink")、自己生日当天发售的单曲[深愛等](../Page/深愛.md "wikilink")2首作为主打曲被收录。同时，由于前述事件，以「夜明瑛梦（水樹奈々）」名义发售的「TV动画「[AYAKASHI](../Page/AYAKASHI.md "wikilink")」角色歌
+    EP中的](../Page/STARCAMP_EP.md "wikilink")2曲，同时自己最高销量记录的单曲[Trickster](../Page/Trickster.md "wikilink")、自己生日当天发售的单曲[深愛](../Page/深愛.md "wikilink")等2首作为主打曲被收录。同时，由于前述事件，以「夜明瑛梦（水樹奈々）」名义发售的「TV动画「[AYAKASHI](../Page/AYAKASHI.md "wikilink")」角色歌
     Vol.1 蒼き光の果て」的主打曲的专辑改编版「蒼き光の果て-ULTIMATE MODE-」被追加收录于专辑中，以填补「COSMIC
     LOVE」的空缺\[3\]。
 
 <!-- end list -->
 
-  - 初回限定盤DVD將收錄2008年10月1日在[新宿KOMA劇場舉行的演唱會](../Page/新宿KOMA劇場.md "wikilink")——的影像。
+  - 初回限定盤DVD將收錄2008年10月1日在[新宿KOMA劇場](../Page/新宿KOMA劇場.md "wikilink")舉行的演唱會——的影像。
 
 <!-- end list -->
 
-  - 初回限定盘附前往[伦敦取景时](../Page/伦敦.md "wikilink")，拍摄的44P写真集一本。
+  - 初回限定盘附前往[伦敦](../Page/伦敦.md "wikilink")取景时，拍摄的44P写真集一本。
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@ MAN](https://zh.wikipedia.org/wiki/FRESH_BRASH_OLD_MAN "wikilink")」以来，9�
 4.  **[Trickster](../Page/Trickster.md "wikilink")**
       - 作詞：水樹奈奈、作曲・編曲：上松範康（Elements Garden）
       - 「」CM曲
-      - [日本電視台系列](../Page/日本電視台.md "wikilink")「[音樂戰士 MUSIC
+      - [日本電視台](../Page/日本電視台.md "wikilink")系列「[音樂戰士 MUSIC
         FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")」2008年10月熱播曲
       - [KONAMI数码娱乐](https://zh.wikipedia.org/wiki/KONAMI "wikilink")（KDE-J）[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")・PS2用游戏[Dance
         Dance Revolution
@@ -112,7 +112,7 @@ MAN](https://zh.wikipedia.org/wiki/FRESH_BRASH_OLD_MAN "wikilink")」以来，9�
       - 作詞：辻 純更、作曲：松井俊介、編曲：藤間 仁（Elements Garden）
 14. **[Astrogation](../Page/STARCAMP_EP.md "wikilink")**
       - 作詞：Hibiki、作曲・編曲：陶山隼
-      - [日本電視台系列](../Page/日本電視台.md "wikilink")『[音楽戦士 MUSIC
+      - [日本電視台](../Page/日本電視台.md "wikilink")系列『[音楽戦士 MUSIC
         FIGHTER](https://zh.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2008年2月[主題曲](../Page/主題曲.md "wikilink")
 15. **夢の続き**
       - 作詞・作曲：水樹奈奈、編曲：藤田淳平（Elements Garden）

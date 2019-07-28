@@ -1,4 +1,4 @@
-**Symfony**是一款基于[MVC架构的](../Page/MVC.md "wikilink")[PHP](../Page/PHP.md "wikilink")[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")。它是一款免费软件，在[MIT
+**Symfony**是一款基于[MVC](../Page/MVC.md "wikilink")架构的[PHP](../Page/PHP.md "wikilink")[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")。它是一款免费软件，在[MIT
 License许可下发行](https://zh.wikipedia.org/wiki/MIT_License "wikilink")。2005年10月18日，其官方网站symfony-project.com对外开放。2011年Symfony2正式发布，随即启用全新的官方网站symfony.com。\[1\]
 
 ## 目标
@@ -11,7 +11,7 @@ Symfony致力于在企业背景下创建健壮的应用，同时也给予了开�
 
 ## 技术
 
-Symfony使用了大量的[设计模式](https://zh.wikipedia.org/wiki/设计模式 "wikilink")，比如[MVC模式](../Page/MVC.md "wikilink")，它分离了业务逻辑层和表示层，降低了耦合性，使程序更易于维护。
+Symfony使用了大量的[设计模式](https://zh.wikipedia.org/wiki/设计模式 "wikilink")，比如[MVC](../Page/MVC.md "wikilink")模式，它分离了业务逻辑层和表示层，降低了耦合性，使程序更易于维护。
 Symfony使用了以下一些PHP开源项目的部分功能。
 
   - [Propel

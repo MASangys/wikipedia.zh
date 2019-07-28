@@ -17,13 +17,16 @@ Prize的「最佳劇情」，同時在2006年安古蘭漫畫展榮獲「最佳�
 
 ## 作品
 
-  - Appunti per une Storia di Guerra (Notes for a War Story), 2005
-  - Extérieur nuit, 2005
-  - Gli Innocenti (The Innocents), 2005
-  - Garage Band, 2005
-  - Ils ont retrouvé la voiture, 2006
+  - Esterno notte, 2003
+  - Appunti per una storia di guerra (Notes for a War Story), 2004
+  - Questa è la stanza (Garage Band), 2005
   - S., 2006
-  - LMVDM – La mia vita disegnata male (My Life Badly Drawn), 2009
+  - LMVDM – La mia vita disegnata male (My Life Badly Drawn), 2008
+  - Baci dalla provincia, 2011
+      - Gli innocenti (2005)
+      - Hanno ritrovato la macchina (2006)
+  - Unastoria, 2013
+  - La terra dei figli (Land of the Sons), 2016
 
 ## 參考文獻
 

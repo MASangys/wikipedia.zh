@@ -3,7 +3,7 @@
 ## 性能概要
 
   - 驅動形式：[前置引擎](https://zh.wikipedia.org/wiki/前置引擎 "wikilink")，[後輪驅動](https://zh.wikipedia.org/wiki/後輪驅動 "wikilink")（於2004年起提供[四輪驅動版本](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")）
-  - 引擎規格：[直列式4氣缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[柴油引擎或者](../Page/柴油引擎.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")
+  - 引擎規格：[直列式4氣缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")或者[汽油引擎](../Page/汽油引擎.md "wikilink")
   - 變速箱：5前速[自動排檔](https://zh.wikipedia.org/wiki/自動排檔 "wikilink")（於2004年起提供4前速自動排檔予顧客選擇）
   - 最高載重量：約2.8噸
 
@@ -31,7 +31,7 @@
 ### 第二代（H20-40系）
 
 [Toyota_Hiace_(second_generation)_D_front.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation\)_D_front.jpg "fig:Toyota_Hiace_(second_generation)_D_front.jpg")
-[Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation\)_\(pickup\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg")[吉隆坡的第](../Page/吉隆坡.md "wikilink")2代Hiace\]\]
+[Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation\)_\(pickup\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg")[吉隆坡](../Page/吉隆坡.md "wikilink")的第2代Hiace\]\]
 [Toyota_Hiace_(second_generation,_first_facelift)_(pickup)_(front),_Serdang.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation,_first_facelift\)_\(pickup\)_\(front\),_Serdang.jpg "fig:Toyota_Hiace_(second_generation,_first_facelift)_(pickup)_(front),_Serdang.jpg")
 於1977年2月推出市場，車頭燈數目由4盞改為2盞。
 
@@ -125,29 +125,29 @@ SBV，搭配1.8公升4KE引擎。與第四代Hiace同樣被第五代Hiace取代�
 
 ## 用途
 
-Hiace車廂內籠偌大，用途廣泛，可以作為載客及載貨等基本用途，部分國家及地區更以此作為[出租車](../Page/出租車.md "wikilink")、[小型巴士](https://zh.wikipedia.org/wiki/小型巴士 "wikilink")、[救護車及](../Page/救護車.md "wikilink")[警察車](https://zh.wikipedia.org/wiki/警察車 "wikilink")。
+Hiace車廂內籠偌大，用途廣泛，可以作為載客及載貨等基本用途，部分國家及地區更以此作為[出租車](../Page/出租車.md "wikilink")、[小型巴士](https://zh.wikipedia.org/wiki/小型巴士 "wikilink")、[救護車](../Page/救護車.md "wikilink")及[警察車](https://zh.wikipedia.org/wiki/警察車 "wikilink")。
 
 ## 銷售概況
 
 ### 台灣
 
 [Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg "fig:Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg")
-在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[國瑞汽車於](../Page/國瑞汽車.md "wikilink")1997年起生產Granvia（歐洲版第四代Hiace），並且取名Hiace
+在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[國瑞汽車](../Page/國瑞汽車.md "wikilink")於1997年起生產Granvia（歐洲版第四代Hiace），並且取名Hiace
 Solemio，先後提供2.5公升與2.7公升兩具汽油引擎，在當時廣為政府機關與工商業界採用，主要競爭對手為[中華汽車生產的](../Page/中華汽車工業.md "wikilink")[三菱Space
-Gear](../Page/三菱得利卡.md "wikilink")，於2008年停產，此後台灣本地不再生產或者進口Hiace車系,[和泰汽車預計](../Page/和泰汽車.md "wikilink")2019年9月導入第六代\[1\]。
+Gear](../Page/三菱得利卡.md "wikilink")，於2008年停產，此後台灣本地不再生產或者進口Hiace車系,[和泰汽車](../Page/和泰汽車.md "wikilink")預計2019年9月導入第六代\[1\]。
 
 ### 香港
 
 [13-08-11-hongkong-50mm-14.jpg](https://zh.wikipedia.org/wiki/File:13-08-11-hongkong-50mm-14.jpg "fig:13-08-11-hongkong-50mm-14.jpg")
-[香港於](../Page/香港.md "wikilink")1970年代引進豐田Hiace，此後香港路面上大多數客貨車均採用豐田Hiace，原因是容易維修、省油、操控容易，而且耐用，深受歡迎。絕大部分駕駛學校例如[香港駕駛學院](../Page/香港駕駛學院.md "wikilink")，均是採用豐田Hiace作為教練車，另外，[香港政府亦有為多個](../Page/香港特別行政區政府.md "wikilink")[政府部門](../Page/香港特別行政區政府組織架構.md "wikilink")（如機電工程署、食環署、康文署、消防處等）購置了多輛電油版豐田Hiace客貨車。
+[香港](../Page/香港.md "wikilink")於1970年代引進豐田Hiace，此後香港路面上大多數客貨車均採用豐田Hiace，原因是容易維修、省油、操控容易，而且耐用，深受歡迎。絕大部分駕駛學校例如[香港駕駛學院](../Page/香港駕駛學院.md "wikilink")，均是採用豐田Hiace作為教練車，另外，[香港政府亦有為多個](../Page/香港特別行政區政府.md "wikilink")[政府部門](../Page/香港特別行政區政府組織架構.md "wikilink")（如機電工程署、食環署、康文署、消防處等）購置了多輛電油版豐田Hiace客貨車。
 
 ### 中國大陆
 
-早於1980年代中國大陆已有豐田Hiace在全國各地行走。然而這些豐田Hiace大多不被用作載貨，而是載客，尤其是被[酒店用作接載來賓](../Page/酒店.md "wikilink")。
+早於1980年代中國大陆已有豐田Hiace在全國各地行走。然而這些豐田Hiace大多不被用作載貨，而是載客，尤其是被[酒店](../Page/酒店.md "wikilink")用作接載來賓。
 
 ### 東南亞
 
-[Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(fifth_generation\)_\(Grand_Cabin\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg")[吉隆坡的豐田Hiace](../Page/吉隆坡.md "wikilink")\]\]
+[Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(fifth_generation\)_\(Grand_Cabin\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg")[吉隆坡](../Page/吉隆坡.md "wikilink")的豐田Hiace\]\]
 亞洲不少國家例如[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")...等等，都有豐田Hiace行走，除載貨外也有載客之用。
 
 ## 競爭對手

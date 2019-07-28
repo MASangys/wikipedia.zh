@@ -1,16 +1,16 @@
-《**刻印时间之歌／TORCH**》（），日本女性唱作歌手[Lia的第](../Page/Lia.md "wikilink")8张单曲。2008年11月14日发售。\[1\]
+《**刻印时间之歌／TORCH**》（），日本女性唱作歌手[Lia](../Page/Lia.md "wikilink")的第8张单曲。2008年11月14日发售。\[1\]
 
 ## 解説
 
   - 2008年11月14日由[Key Sounds
     Label发行](../Page/Key_Sounds_Label.md "wikilink")，商品番号KSLA-0044。
-  - [2008年10月电视动画](../Page/2008年10月.md "wikilink")《[CLANNAD 〜AFTER
+  - [2008年10月](../Page/2008年10月.md "wikilink")电视动画《[CLANNAD 〜AFTER
     STORY〜](../Page/CLANNAD.md "wikilink")》之片头曲《》及同片片尾曲《TORCH》收录。除了完整版外，同时收录了TV
     Size版及纯音乐演奏版本。
   - 《刻印时间之歌》这首歌，其曲取自原作的一首背景音乐《》。
-  - 2008年11月14日发行当天的[Oricon公信榜上](../Page/Oricon.md "wikilink")。紧跟第1位的[DREAMS
+  - 2008年11月14日发行当天的[Oricon](../Page/Oricon.md "wikilink")公信榜上。紧跟第1位的[DREAMS
     COME
-    TRUE及第](https://zh.wikipedia.org/wiki/美梦成真_\(乐团\) "wikilink")2位的[SPEED获得初登場第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3位的記録\[2\]\[3\]。此记录同时刷新了CLANNAD系列作品相关CD及[Lia个人单曲在Oricon公信榜上的最高排名记录](../Page/Lia.md "wikilink")。
+    TRUE及第](https://zh.wikipedia.org/wiki/美梦成真_\(乐团\) "wikilink")2位的[SPEED获得初登場第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3位的記録\[2\]\[3\]。此记录同时刷新了CLANNAD系列作品相关CD及[Lia](../Page/Lia.md "wikilink")个人单曲在Oricon公信榜上的最高排名记录。
 
 ## 收录曲
 

@@ -12,11 +12,11 @@ DisplayPort，例如[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilin
 與DisplayPort一樣，Mini DisplayPort最高支援4096×2160解像度的顯示器。
 
 蘋果公司發表的Mini
-DisplayPort同時也支援[HDMI](../Page/HDMI.md "wikilink")，[VGA跟](https://zh.wikipedia.org/wiki/VGA "wikilink")[DVI訊號輸出](../Page/DVI.md "wikilink")，但需要加上轉換器。
+DisplayPort同時也支援[HDMI](../Page/HDMI.md "wikilink")，[VGA跟](https://zh.wikipedia.org/wiki/VGA "wikilink")[DVI](../Page/DVI.md "wikilink")訊號輸出，但需要加上轉換器。
 
 於2008年11月27日，蘋果公司免費公開授權其他廠商開發Mini DisplayPort的有關產品。
 
-2011年2月起，Apple新發佈的[Thunderbolt連接埠也開始相容DisplayPort](../Page/Thunderbolt.md "wikilink")
+2011年2月起，Apple新發佈的[Thunderbolt](../Page/Thunderbolt.md "wikilink")連接埠也開始相容DisplayPort
 1.1設備直接連在來Thunderbolt連接埠進行視訊資料輸出，Thunderbolt連接埠向下相容Mini
 DisplayPort，且二者物理結構及針腳設計完全相同。但DisplayPort
 1.1設備必須接在Thunderbolt鏈路的末端。

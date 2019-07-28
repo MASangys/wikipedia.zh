@@ -3,7 +3,7 @@
 Schoeneman原为SGI系列计算机编写，基于经典游戏
 [Battlezone](https://zh.wikipedia.org/wiki/Battlezone "wikilink")。[Tim
 Riker和一个团队维护现在的版本](https://zh.wikipedia.org/wiki/Tim_Riker "wikilink")，而且已经开源了。这个项目的资源都在[SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")。虽然以前位[SGI](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink")
-计算机运行的[IRIX设计](../Page/IRIX.md "wikilink")，现在已经支持[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
+计算机运行的[IRIX](../Page/IRIX.md "wikilink")设计，现在已经支持[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[BSD](../Page/BSD.md "wikilink")，[Solaris](../Page/Solaris.md "wikilink")，和其他平台。
 
@@ -86,7 +86,7 @@ BZFlag随机地图常见。
 BZFlag 使用 [C++](../Page/C++.md "wikilink") 开发
 [OpenGL](../Page/OpenGL.md "wikilink")
 渲染。音频和文件管理之类针对专门的系统编写。较新的版本使用[SDL适应多数平台](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，除了Microsoft
-Windows。[Texture使用](https://zh.wikipedia.org/wiki/Texture "wikilink")[PNG格式](../Page/PNG.md "wikilink")，音频使用[WAV](../Page/WAV.md "wikilink")。C语言编写的[Zlib解压档案](../Page/Zlib.md "wikilink")。
+Windows。[Texture使用](https://zh.wikipedia.org/wiki/Texture "wikilink")[PNG](../Page/PNG.md "wikilink")格式，音频使用[WAV](../Page/WAV.md "wikilink")。C语言编写的[Zlib](../Page/Zlib.md "wikilink")解压档案。
 
 ### 开发者
 
@@ -98,7 +98,7 @@ Schoeneman不再管理了](https://zh.wikipedia.org/wiki/Chris_Schoeneman "wikil
 
 ### 官方IRC
 
-使用[IRC频道交流](../Page/IRC.md "wikilink")，设在**\[irc.freenode.net\]**名称为
+使用[IRC](../Page/IRC.md "wikilink")频道交流，设在**\[irc.freenode.net\]**名称为
 **\#BZFlag**。 **\#bzflag-chat** 则是休闲些的话题。
 
 ## 参考资料

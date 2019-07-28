@@ -186,7 +186,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Game_Studios" title="wikilink">Microsoft Game Studios</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第三人稱射擊遊戲" title="wikilink">第三人稱射擊</a><br />
 <a href="https://zh.wikipedia.org/wiki/戰術射擊" title="wikilink">戰術射擊</a></p></td>
-<td><p>使用<a href="../Page/虚幻引擎.md" title="wikilink">虚幻引擎3</a>，並使用DirectX 10的支持，並提供光照和阴影特效、<a href="https://zh.wikipedia.org/wiki/反锯齿" title="wikilink">反锯齿功能</a>。</p></td>
+<td><p>使用<a href="../Page/虚幻引擎.md" title="wikilink">虚幻引擎</a>3，並使用DirectX 10的支持，並提供光照和阴影特效、<a href="https://zh.wikipedia.org/wiki/反锯齿" title="wikilink">反锯齿功能</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/暗黑之门：伦敦" title="wikilink">暗黑之门：伦敦</a></strong>[18]</p></td>

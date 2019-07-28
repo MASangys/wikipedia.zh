@@ -25,13 +25,14 @@ Kiz組合，於2010年4月20日發行單曲《New Sentimental》，並於5月20�
   - 2006年：[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[再次微笑](../Page/再次微笑.md "wikilink")》
   - 2006年：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[透明人間崔長洙](../Page/透明人間崔長洙.md "wikilink")》
   - 2008年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[New
-    Heart](https://zh.wikipedia.org/wiki/New_Heart "wikilink")》（[李鎮成與](../Page/李鎮成.md "wikilink")[M
+    Heart](https://zh.wikipedia.org/wiki/New_Heart "wikilink")》（[李鎮成](../Page/李鎮成.md "wikilink")與[M
     to
-    M的](https://zh.wikipedia.org/wiki/M_to_M "wikilink")[崔正煥合作](../Page/崔正煥.md "wikilink")）
-  - 2008年：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[單身爸爸戀愛中](../Page/單身爸爸戀愛中.md "wikilink")》（[李鎮成個人作品](../Page/李鎮成.md "wikilink")）
-  - 2008年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[貝多芬病毒](../Page/貝多芬病毒.md "wikilink")》（[李鎮成個人作品](../Page/李鎮成.md "wikilink")）
+    M的](https://zh.wikipedia.org/wiki/M_to_M "wikilink")[崔正煥](../Page/崔正煥.md "wikilink")合作）
+  - 2008年：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[單身爸爸戀愛中](../Page/單身爸爸戀愛中.md "wikilink")》（[李鎮成](../Page/李鎮成.md "wikilink")個人作品）
+  - 2008年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[貝多芬病毒](../Page/貝多芬病毒.md "wikilink")》（[李鎮成](../Page/李鎮成.md "wikilink")個人作品）
   - 2010年：[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[檢察官公主](../Page/檢察官公主.md "wikilink")》
   - 2012年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》
+  - 2019年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》
 
 ## 其他
 
@@ -41,12 +42,12 @@ Kiz組合，於2010年4月20日發行單曲《New Sentimental》，並於5月20�
     세상](https://zh.wikipedia.org/wiki/사이언스코리아_운동_주제가_-_과학으로_만든_세상 "wikilink")》
   - 2006年：《[Love
     Actually](https://zh.wikipedia.org/wiki/Love_Actually "wikilink")》（以[Voice
-    One名義](https://zh.wikipedia.org/wiki/Voice_One "wikilink")，與[張惠珍及](../Page/張惠珍.md "wikilink")[一樂合作](https://zh.wikipedia.org/wiki/一樂 "wikilink")）
-  - 2007年：《[NA2ZEN](https://zh.wikipedia.org/wiki/NA2ZEN "wikilink")》（[李鎮成與](../Page/李鎮成.md "wikilink")[崔賢俊合作](https://zh.wikipedia.org/wiki/崔賢俊 "wikilink")）
+    One名義](https://zh.wikipedia.org/wiki/Voice_One "wikilink")，與[張惠珍](../Page/張惠珍.md "wikilink")及[一樂合作](https://zh.wikipedia.org/wiki/一樂 "wikilink")）
+  - 2007年：《[NA2ZEN](https://zh.wikipedia.org/wiki/NA2ZEN "wikilink")》（[李鎮成](../Page/李鎮成.md "wikilink")與[崔賢俊合作](https://zh.wikipedia.org/wiki/崔賢俊 "wikilink")）
   - 2007年：《[Travel
-    \#1](https://zh.wikipedia.org/wiki/Travel_#1 "wikilink")》（[李鎮成以](../Page/李鎮成.md "wikilink")[Voice
-    One名義](https://zh.wikipedia.org/wiki/Voice_One "wikilink")，與[張惠珍及](../Page/張惠珍.md "wikilink")[一樂合作](https://zh.wikipedia.org/wiki/一樂 "wikilink")）
-  - 2008年：《[Friendship](https://zh.wikipedia.org/wiki/Friendship "wikilink")》（[李鎮成與](../Page/李鎮成.md "wikilink")[V.O.S.及](https://zh.wikipedia.org/wiki/V.O.S. "wikilink")[一樂合作](https://zh.wikipedia.org/wiki/一樂 "wikilink")）
+    \#1](https://zh.wikipedia.org/wiki/Travel_#1 "wikilink")》（[李鎮成](../Page/李鎮成.md "wikilink")以[Voice
+    One名義](https://zh.wikipedia.org/wiki/Voice_One "wikilink")，與[張惠珍](../Page/張惠珍.md "wikilink")及[一樂合作](https://zh.wikipedia.org/wiki/一樂 "wikilink")）
+  - 2008年：《[Friendship](https://zh.wikipedia.org/wiki/Friendship "wikilink")》（[李鎮成](../Page/李鎮成.md "wikilink")與[V.O.S.及](https://zh.wikipedia.org/wiki/V.O.S. "wikilink")[一樂合作](https://zh.wikipedia.org/wiki/一樂 "wikilink")）
 
 ## 外部連結
 

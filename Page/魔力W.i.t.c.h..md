@@ -1,9 +1,9 @@
-《**魔力W.i.t.c.h.**》（）原作为[意大利](../Page/意大利.md "wikilink")[迪士尼公司所创作的一部](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")[漫画杂志系列](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")。于2001年4月首次发行，当地的[报纸与](https://zh.wikipedia.org/wiki/报纸 "wikilink")[杂志把这部作品称为](../Page/杂志.md "wikilink")“女孩版的[哈利·波特](../Page/哈利·波特.md "wikilink")”，现已经在[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[波兰等十多个国家授权出版连载](https://zh.wikipedia.org/wiki/波兰 "wikilink")，但并没有英文版；如今这部作品经过了10年左右的长期连载，于2012年10月所发行的第139期宣布完结。
+《**魔力W.i.t.c.h.**》（）原作为[意大利](../Page/意大利.md "wikilink")[迪士尼公司所创作的一部](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")[漫画杂志系列](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")。于2001年4月首次发行，当地的[报纸与](https://zh.wikipedia.org/wiki/报纸 "wikilink")[杂志](../Page/杂志.md "wikilink")把这部作品称为“女孩版的[哈利·波特](../Page/哈利·波特.md "wikilink")”，现已经在[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[波兰等十多个国家授权出版连载](https://zh.wikipedia.org/wiki/波兰 "wikilink")，但并没有英文版；如今这部作品经过了10年左右的长期连载，于2012年10月所发行的第139期宣布完结。
 
 [动画片系列将由](https://zh.wikipedia.org/wiki/动画片 "wikilink")[法国动画公司](https://zh.wikipedia.org/wiki/法国 "wikilink")“SIP
-Animation”来负责制作，[台湾迪士尼已经公开播放了动画系列](https://zh.wikipedia.org/wiki/台湾 "wikilink")，译名为《**精灵少女组**》。2002年6月，[中国大陆的](../Page/中国大陆.md "wikilink")[童趣出版有限公司被授权出版了中文版的漫画杂志系列](https://zh.wikipedia.org/wiki/童趣出版有限公司 "wikilink")，同时也出版了故事集、原创小说以及漫画杂志系列的合订口袋书，现已全部停刊绝版；而动画系列在中国大陆的播放权也由于[广电总局临时宣布禁播国外动画而一直没有审批通过](https://zh.wikipedia.org/wiki/广电总局 "wikilink")。
+Animation”来负责制作，[台湾迪士尼已经公开播放了动画系列](https://zh.wikipedia.org/wiki/台湾 "wikilink")，译名为《**精灵少女组**》。2002年6月，[中国大陆](../Page/中国大陆.md "wikilink")的[童趣出版有限公司被授权出版了中文版的漫画杂志系列](https://zh.wikipedia.org/wiki/童趣出版有限公司 "wikilink")，同时也出版了故事集、原创小说以及漫画杂志系列的合订口袋书，现已全部停刊绝版；而动画系列在中国大陆的播放权也由于[广电总局临时宣布禁播国外动画而一直没有审批通过](https://zh.wikipedia.org/wiki/广电总局 "wikilink")。
 
-2003年3月，[日本出版了](../Page/日本.md "wikilink")2本同名的[日本漫画风格式的](../Page/日本漫画.md "wikilink")《W.I.T.C.H.》，由[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")[饭田晴子负责编绘](https://zh.wikipedia.org/wiki/饭田晴子 "wikilink")；[卡通也在日本](../Page/卡通.md "wikilink")2007年8月份相继播出；随后也发行了忠实于漫画原作的[小说系列](../Page/小说.md "wikilink")。
+2003年3月，[日本](../Page/日本.md "wikilink")出版了2本同名的[日本漫画](../Page/日本漫画.md "wikilink")风格式的《W.I.T.C.H.》，由[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")[饭田晴子负责编绘](https://zh.wikipedia.org/wiki/饭田晴子 "wikilink")；[卡通](../Page/卡通.md "wikilink")也在日本2007年8月份相继播出；随后也发行了忠实于漫画原作的[小说](../Page/小说.md "wikilink")系列。
 
 ## 内容介绍
 
@@ -254,7 +254,7 @@ of Meridian）的力量再度复兴了这个组合，并对其进行洗脑，与
 
 ### 漫画杂志
 
-[中国大陆于](../Page/中国大陆.md "wikilink")2002年首期发行，随之还出版了单行本杂志的合订本、精选集以及口袋书，最后童趣出版有限公司终止了中文版制作权，现处于无期限停刊、绝版状态。
+[中国大陆](../Page/中国大陆.md "wikilink")于2002年首期发行，随之还出版了单行本杂志的合订本、精选集以及口袋书，最后童趣出版有限公司终止了中文版制作权，现处于无期限停刊、绝版状态。
 
   - 《魔力W.i.t.c.h.》漫画杂志集 (每月15日出版，中文版现已停刊，原版连载至139期完结全部内容)
 

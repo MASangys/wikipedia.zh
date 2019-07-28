@@ -1,8 +1,8 @@
-**JuK** JuK是一個[KDE下的自由音訊播放器](../Page/KDE.md "wikilink")，也是KDE
+**JuK** JuK是一個[KDE](../Page/KDE.md "wikilink")下的自由音訊播放器，也是KDE
 3.2以後預設的音訊播放器 \[1\]
 ，[kdemultimedia](https://zh.wikipedia.org/wiki/kdemultimedia "wikilink")
 软件包的一部分。JuK支援[MP3](../Page/MP3.md "wikilink")、[Ogg
-Vorbis和](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")[FLAC文件](../Page/FLAC.md "wikilink")。
+Vorbis和](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")[FLAC](../Page/FLAC.md "wikilink")文件。
 
 JuK開發是由Scott Wheeler在2000年開始，最初稱為**QTagger**; 2002年，該應用程式進入KDE
 [CVS時](https://zh.wikipedia.org/wiki/CVS "wikilink")，它已發展成為一個成熟的音訊軟體。

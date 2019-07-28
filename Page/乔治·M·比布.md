@@ -1,4 +1,4 @@
-**乔治·莫蒂默·比布**（，），[美国政治家](../Page/美国.md "wikilink")，[美国民主党人](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国参议院议员](../Page/美国参议院.md "wikilink")（1811年-1814年、1829年-1835年）和[美国财政部长](../Page/美国财政部长.md "wikilink")（1844年-1845年）。
+**乔治·莫蒂默·比布**（，），[美国](../Page/美国.md "wikilink")政治家，[美国民主党人](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国参议院](../Page/美国参议院.md "wikilink")议员（1811年-1814年、1829年-1835年）和[美国财政部长](../Page/美国财政部长.md "wikilink")（1844年-1845年）。
 
 [Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink")
 [Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink")

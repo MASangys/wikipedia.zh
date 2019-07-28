@@ -1,9 +1,9 @@
-**HWE反应**，即**Horner–Wadsworth–Emmons反应**（**霍纳尔－沃兹沃思－埃蒙斯反应**），常误称为**[Wittig-Horner反应](https://zh.wikipedia.org/wiki/#Wittig-Horner反应 "wikilink")**（**维蒂希－霍纳尔反应**）、**Horner-Wittig反应**，是一个制取[烯烃的反应](../Page/烯烃.md "wikilink")，是[Wittig反应的改进](https://zh.wikipedia.org/wiki/Wittig反应 "wikilink")。反应用稳定的[膦酸酯](https://zh.wikipedia.org/wiki/膦酸酯 "wikilink")[碳负离子](../Page/碳负离子.md "wikilink")，代替[磷叶立德](https://zh.wikipedia.org/wiki/磷叶立德 "wikilink")，与[醛](../Page/醛.md "wikilink")、[酮反应生成烯烃](../Page/酮.md "wikilink")。产物主要为E-型烯烃。反应综述参见：\[1\]\[2\]\[3\]\[4\]。
+**HWE反应**，即**Horner–Wadsworth–Emmons反应**（**霍纳尔－沃兹沃思－埃蒙斯反应**），常误称为**[Wittig-Horner反应](https://zh.wikipedia.org/wiki/#Wittig-Horner反应 "wikilink")**（**维蒂希－霍纳尔反应**）、**Horner-Wittig反应**，是一个制取[烯烃](../Page/烯烃.md "wikilink")的反应，是[Wittig反应的改进](https://zh.wikipedia.org/wiki/Wittig反应 "wikilink")。反应用稳定的[膦酸酯](https://zh.wikipedia.org/wiki/膦酸酯 "wikilink")[碳负离子](../Page/碳负离子.md "wikilink")，代替[磷叶立德](https://zh.wikipedia.org/wiki/磷叶立德 "wikilink")，与[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")反应生成烯烃。产物主要为E-型烯烃。反应综述参见：\[1\]\[2\]\[3\]\[4\]。
 
 [Horner-Wadsworth-Emmons_Reaction_Example.png](https://zh.wikipedia.org/wiki/File:Horner-Wadsworth-Emmons_Reaction_Example.png "fig:Horner-Wadsworth-Emmons_Reaction_Example.png")
 
 1958年[列奥波德·霍纳尔](https://zh.wikipedia.org/wiki/列奥波德·霍纳尔 "wikilink")（Leopold
-Horner）在研究其他[有机磷化合物改进的Wittig反应时](../Page/有机磷化合物.md "wikilink")（主要是用[氧化膦稳定的碳负离子](https://zh.wikipedia.org/wiki/氧化膦 "wikilink")），首先发表了用膦酸酯改进的Wittig反应。\[5\]\[6\]
+Horner）在研究其他[有机磷化合物](../Page/有机磷化合物.md "wikilink")改进的Wittig反应时（主要是用[氧化膦稳定的碳负离子](https://zh.wikipedia.org/wiki/氧化膦 "wikilink")），首先发表了用膦酸酯改进的Wittig反应。\[5\]\[6\]
 而后[威廉·沃兹沃思](https://zh.wikipedia.org/wiki/威廉·沃兹沃思 "wikilink")（William S.
 Wadsworth）与[威廉·埃蒙斯](https://zh.wikipedia.org/wiki/威廉·埃蒙斯 "wikilink")（William
 D. Emmons）对反应作了进一步的研究。\[7\]\[8\]
@@ -22,7 +22,7 @@ D. Emmons）对反应作了进一步的研究。\[7\]\[8\]
 原料膦酸酯可以很容易由[亚磷酸酯与](https://zh.wikipedia.org/wiki/亚磷酸酯 "wikilink")[卤代烃发生](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")[Michaelis-Arbuzov反应得到](https://zh.wikipedia.org/wiki/Michaelis-Arbuzov反应 "wikilink")。若卤代烃为溴代乙酸酯，则生成的膦酸酯在α-碳连有[吸电子基](https://zh.wikipedia.org/wiki/吸电子基 "wikilink")（如[酯基](https://zh.wikipedia.org/wiki/酯基 "wikilink")），可以很顺利地发生消除生成烯。如果膦酸酯不含吸电子基团，反应的产物是α-羟基膦酸酯（**3a**、**3b**），\[11\]
 用[二异丙基碳二亚胺处理脱水也能转化为烯烃](https://zh.wikipedia.org/wiki/二异丙基碳二亚胺 "wikilink")。\[12\]
 
-用[酮反应时反应的](../Page/酮.md "wikilink")[立体选择性一般不佳](https://zh.wikipedia.org/wiki/立体选择性 "wikilink")。
+用[酮](../Page/酮.md "wikilink")反应时反应的[立体选择性一般不佳](https://zh.wikipedia.org/wiki/立体选择性 "wikilink")。
 
 ## 立体选择性
 
@@ -85,19 +85,19 @@ Thompson和[Heathcock在研究了](https://zh.wikipedia.org/wiki/克莱顿·希�
 
 ### 碱
 
-很多官能团对反应中强碱性环境（如[氢化钠](../Page/氢化钠.md "wikilink")）的耐受性不好。对此有很多改进方法，比如Masamune和Roush的方法是用较为温和的[氯化锂与](../Page/氯化锂.md "wikilink")[DBU](https://zh.wikipedia.org/wiki/DBU "wikilink")；\[15\]
-Rathke的方法是用锂或镁的卤化物与[三乙胺的混合物](../Page/三乙胺.md "wikilink")，\[16\]
+很多官能团对反应中强碱性环境（如[氢化钠](../Page/氢化钠.md "wikilink")）的耐受性不好。对此有很多改进方法，比如Masamune和Roush的方法是用较为温和的[氯化锂](../Page/氯化锂.md "wikilink")与[DBU](https://zh.wikipedia.org/wiki/DBU "wikilink")；\[15\]
+Rathke的方法是用锂或镁的卤化物与[三乙胺](../Page/三乙胺.md "wikilink")的混合物，\[16\]
 等等。\[17\]\[18\]\[19\]
 
 ### Still改进
 
-以[四氢呋喃作溶剂](../Page/四氢呋喃.md "wikilink")，用强吸电子基（三氟乙基\[20\]）取代的膦酸酯在强解离环境下（[KHMDS与](https://zh.wikipedia.org/wiki/KHMDS "wikilink")[18-冠-6](../Page/18-冠-6.md "wikilink")）反应，HWE反应的立体化学特征逆转，生成以*Z*型烯烃为主的产物。这个方法称为Still改进。\[21\]
+以[四氢呋喃](../Page/四氢呋喃.md "wikilink")作溶剂，用强吸电子基（三氟乙基\[20\]）取代的膦酸酯在强解离环境下（[KHMDS与](https://zh.wikipedia.org/wiki/KHMDS "wikilink")[18-冠-6](../Page/18-冠-6.md "wikilink")）反应，HWE反应的立体化学特征逆转，生成以*Z*型烯烃为主的产物。这个方法称为Still改进。\[21\]
 
 [Horner-Wadsworth-Emmons_Still_Example.png](https://zh.wikipedia.org/wiki/File:Horner-Wadsworth-Emmons_Still_Example.png "fig:Horner-Wadsworth-Emmons_Still_Example.png")
 
 ## Wittig-Horner反应
 
-**Wittig-Horner反应**是用[氧化膦稳定的碳负离子与醛加成](https://zh.wikipedia.org/wiki/氧化膦 "wikilink")，生成β-羟基氧化膦，而后与碱作用，消除生成烯烃的反应。一般生成的β-羟基氧化膦都为非对映异构体的混合物。如果可以将中间产物羟基氧化膦分离，拆分为两个非对映异构体，并分别与碱在高温下消除，则可以立体专一地生成烯烃的两个异构体。*erythro*生成*Z*型烯烃，*threo*生成*E*型烯烃。或者也可先酰基化，再用[硼氢化钠和](../Page/硼氢化钠.md "wikilink")[三氯化铈还原](../Page/三氯化铈.md "wikilink")。
+**Wittig-Horner反应**是用[氧化膦稳定的碳负离子与醛加成](https://zh.wikipedia.org/wiki/氧化膦 "wikilink")，生成β-羟基氧化膦，而后与碱作用，消除生成烯烃的反应。一般生成的β-羟基氧化膦都为非对映异构体的混合物。如果可以将中间产物羟基氧化膦分离，拆分为两个非对映异构体，并分别与碱在高温下消除，则可以立体专一地生成烯烃的两个异构体。*erythro*生成*Z*型烯烃，*threo*生成*E*型烯烃。或者也可先酰基化，再用[硼氢化钠](../Page/硼氢化钠.md "wikilink")和[三氯化铈](../Page/三氯化铈.md "wikilink")还原。
 
 [Horner-WittigReaction.png](https://zh.wikipedia.org/wiki/File:Horner-WittigReaction.png "fig:Horner-WittigReaction.png")
 
@@ -120,7 +120,7 @@ Rathke的方法是用锂或镁的卤化物与[三乙胺的混合物](../Page/三
   - [Horner-Wadsworth-Emmons反应](https://www.organic-chemistry.org/namedreactions/wittig-horner-reaction.shtm)
     于organic-chemistry.org．
   - [Horner-Wadsworth-Emmons反应](http://www.chem.wisc.edu/areas/reich/chem547/1-carbonyl%7B18%7D.htm)
-    于[威斯康星大学麦迪逊分校网站](../Page/威斯康星大学麦迪逊分校.md "wikilink")．
+    于[威斯康星大学麦迪逊分校](../Page/威斯康星大学麦迪逊分校.md "wikilink")网站．
   - [用有机硅／硫／磷化合物为原料的烯烃合成反应](http://www.hull.ac.uk/php/chsanb/alkenes/alkenes.pdf)．
 
 [Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")

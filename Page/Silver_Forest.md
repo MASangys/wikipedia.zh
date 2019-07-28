@@ -1,10 +1,10 @@
 **Silver
-Forest**是[日本的一個](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")，愛稱「銀森」、「シルフォレ」。
+Forest**是[日本](../Page/日本.md "wikilink")的一個[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")，愛稱「銀森」、「シルフォレ」。
 
 ## 概要
 
 Silver
-Forest以製作[東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")[同人音樂為主](../Page/同人音樂.md "wikilink")，代表人物有**NYO**（作詞、作曲、編曲以及[吉他](../Page/吉他.md "wikilink")、[鍵盤演奏](../Page/鍵盤樂器.md "wikilink")）、**さゆり**（[歌手](../Page/歌手.md "wikilink")）、**Nano**（作詞兼歌手）等等。自從2006年4月網站開設以來，先後推出過數十張的[音樂專輯](../Page/音樂專輯.md "wikilink")，以[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[背景音樂編曲佔大多數](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")，亦有不少是原創的。Silver
+Forest以製作[東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")[同人音樂](../Page/同人音樂.md "wikilink")為主，代表人物有**NYO**（作詞、作曲、編曲以及[吉他](../Page/吉他.md "wikilink")、[鍵盤演奏](../Page/鍵盤樂器.md "wikilink")）、**さゆり**（[歌手](../Page/歌手.md "wikilink")）、**Nano**（作詞兼歌手）等等。自從2006年4月網站開設以來，先後推出過數十張的[音樂專輯](../Page/音樂專輯.md "wikilink")，以[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[背景音樂編曲佔大多數](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")，亦有不少是原創的。Silver
 Forest早期的音樂專輯都是以純音樂為主，後來都是純音樂和人聲歌曲各佔一半。歌曲類型除了有一般的[trance](https://zh.wikipedia.org/wiki/搖頭風 "wikilink")、[搖滾樂等類型之外](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")，不少更是[惡搞系的](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[電波歌曲](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")。在2008年之前的一些專輯中也有收錄[廣播劇](../Page/廣播劇.md "wikilink")，最後漸漸式微。
 
 Silver
@@ -229,7 +229,7 @@ Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO
   -
     女性，舊名義**Nana**，Sunshine Creation 32的「CHERRY PHANTASM」時開始參加Silver
     Forest的活動。Comic Market
-    72時將名義改為**Nano**。音域非常廣闊，從大人的聲音到[蘿莉聲線也能夠靈活發揮出來](../Page/蘿莉.md "wikilink")。
+    72時將名義改為**Nano**。音域非常廣闊，從大人的聲音到[蘿莉](../Page/蘿莉.md "wikilink")聲線也能夠靈活發揮出來。
 
 <!-- end list -->
 

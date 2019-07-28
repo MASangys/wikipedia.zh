@@ -4,7 +4,7 @@
 
   - ，[聖母瑪利亞 (繪畫)](../Page/聖母瑪利亞_\(繪畫\).md "wikilink")，描繪耶穌基督母親的繪畫作品。
 
-  - [麥當娜](../Page/麥當娜.md "wikilink")（1958年生），美國創作詞曲歌手與製作人。
+  - [麥當娜](../Page/麥當娜.md "wikilink")（1958年生），美國歌手。
 
 **Madonna**也可能另指：
 
@@ -23,7 +23,7 @@
     Campagna），義大利[-{zh-cn:都灵;zh-hk:都靈;zh-tw:杜林}-的一個地名](../Page/都灵.md "wikilink")。
   - [馬東納-迪坎皮利奧](https://zh.wikipedia.org/wiki/馬東納-迪坎皮利奧 "wikilink")（Madonna
     di
-    Campiglio），義大利[特伦托的一個](../Page/特伦托.md "wikilink")[市鎮](https://zh.wikipedia.org/wiki/市镇_\(意大利\) "wikilink")。
+    Campiglio），義大利[特伦托](../Page/特伦托.md "wikilink")的一個[市鎮](https://zh.wikipedia.org/wiki/市镇_\(意大利\) "wikilink")。
 
 ## 視覺藝術
 

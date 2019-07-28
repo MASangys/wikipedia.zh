@@ -1,4 +1,4 @@
-《**WAVER**》為2004年6月9日發售、[堂本剛的第](../Page/堂本剛.md "wikilink")2張個人單曲。和第一張單曲相同，整張作品的[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲由本人親自製作](https://zh.wikipedia.org/wiki/作曲 "wikilink")。普通版裡收錄了初回版未收錄的曲子「銀幕」，初回版則是收錄了普通版未收錄、1～3曲目的無聲版。
+《**WAVER**》為2004年6月9日發售、[堂本剛](../Page/堂本剛.md "wikilink")的第2張個人單曲。和第一張單曲相同，整張作品的[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲由本人親自製作](https://zh.wikipedia.org/wiki/作曲 "wikilink")。普通版裡收錄了初回版未收錄的曲子「銀幕」，初回版則是收錄了普通版未收錄、1～3曲目的無聲版。
 
 以「堂本剛」名義發行的CD到2009年的單曲《[RAIN](https://zh.wikipedia.org/wiki/RAIN_\(堂本剛\) "wikilink")》為止有5年空白期。在這張作品之後發表的個人名義單曲則是有以「虎斑☆恐龍王」名義發行的《[染井吉野](https://zh.wikipedia.org/wiki/染井吉野 "wikilink")》。
 
@@ -8,7 +8,7 @@
 
 1.  **ORIGINAL COLOR**
       -
-        [TBS周五連續劇](https://zh.wikipedia.org/wiki/TBS周五連續劇 "wikilink")《ホームドラマ\!》主題曲（本人主演）。[音樂錄影帶請到](../Page/音樂錄影帶.md "wikilink")[平山綾演出](../Page/平山綾.md "wikilink")，後輩偶像團體[NEWS的](../Page/NEWS.md "wikilink")[加藤成亮也有登場](../Page/加藤成亮.md "wikilink")。
+        [TBS周五連續劇](https://zh.wikipedia.org/wiki/TBS周五連續劇 "wikilink")《ホームドラマ\!》主題曲（本人主演）。[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")請到[平山綾](../Page/平山綾.md "wikilink")演出，後輩偶像團體[NEWS](../Page/NEWS.md "wikilink")的[加藤成亮](../Page/加藤成亮.md "wikilink")也有登場。
     <!-- end list -->
       - 作詞：[堂本剛](../Page/堂本剛.md "wikilink")
       - 作曲：[堂本剛](../Page/堂本剛.md "wikilink")

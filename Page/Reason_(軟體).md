@@ -9,7 +9,7 @@ Realizer之後）。
 Reason
 1.0在2000年11月時釋出。它就像擬真的錄音室，使用者可以在架上放置虛擬設備，像是樂器、效果器，以及混音器等等。這些模組可以由Reason內建的MIDI編曲器或是一些其他的編曲軟體控制，如[Pro
 Tools](../Page/Pro_Tools.md "wikilink")、[Logic](https://zh.wikipedia.org/wiki/Logic "wikilink")、[Digital
-Performer](https://zh.wikipedia.org/wiki/Digital_Performer "wikilink")、[Cubase](../Page/Cubase.md "wikilink")、[Sonar和](https://zh.wikipedia.org/wiki/Sonar "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")，只要透過Propellerhead的[ReWire協定便可達成](../Page/ReWire.md "wikilink")。
+Performer](https://zh.wikipedia.org/wiki/Digital_Performer "wikilink")、[Cubase](../Page/Cubase.md "wikilink")、[Sonar和](https://zh.wikipedia.org/wiki/Sonar "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")，只要透過Propellerhead的[ReWire](../Page/ReWire.md "wikilink")協定便可達成。
 
 在4.0的版本中，可以使用的模組包括有：
 

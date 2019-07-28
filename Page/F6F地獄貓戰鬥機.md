@@ -1,6 +1,6 @@
-**F6F地獄貓**，是[二次世界大戰服役於](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[美國海軍的](../Page/美國海軍.md "wikilink")[艦載戰鬥機](https://zh.wikipedia.org/wiki/艦載機#艦載戰鬥機、攻擊機 "wikilink")。F6F在外觀上與格魯曼為美國海軍設計的前代主力戰機[F4F野貓式高度類似](../Page/F4F戰鬥機.md "wikilink")，故此也被戲稱為「野貓的大哥」（**Wildcat's
+**F6F地獄貓**，是[二次世界大戰服役於](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[美國海軍](../Page/美國海軍.md "wikilink")的[艦載戰鬥機](https://zh.wikipedia.org/wiki/艦載機#艦載戰鬥機、攻擊機 "wikilink")。F6F在外觀上與格魯曼為美國海軍設計的前代主力戰機[F4F野貓式高度類似](../Page/F4F戰鬥機.md "wikilink")，故此也被戲稱為「野貓的大哥」（**Wildcat's
 big
-brother**）\[1\]，然而F6F實為全新設計\[2\]，較F4F更加先進。地獄貓研製初是與錢斯沃特研製的[F4U海盜式戰鬥機爭奪海軍艦載機主角](../Page/F4U海盜式戰鬥機.md "wikilink")，F6F只是F4U的替代預案，但F4U服役後發現嚴重的艦載機落艦問題，到戰爭末期才完全解決著艦安全性問題，因此作為預案的地獄貓趁機逆勢而起，成為1943年後美軍艦載戰鬥機主力機種。字面的意思是來自地獄的貓，美國俚語則是[壞女人](https://zh.wikipedia.org/wiki/壞女人 "wikilink")（貓性）。
+brother**）\[1\]，然而F6F實為全新設計\[2\]，較F4F更加先進。地獄貓研製初是與錢斯沃特研製的[F4U海盜式戰鬥機](../Page/F4U海盜式戰鬥機.md "wikilink")爭奪海軍艦載機主角，F6F只是F4U的替代預案，但F4U服役後發現嚴重的艦載機落艦問題，到戰爭末期才完全解決著艦安全性問題，因此作為預案的地獄貓趁機逆勢而起，成為1943年後美軍艦載戰鬥機主力機種。字面的意思是來自地獄的貓，美國俚語則是[壞女人](https://zh.wikipedia.org/wiki/壞女人 "wikilink")（貓性）。
 
 美軍統計，二戰中地獄貓總共為美軍總共擊落了5,171架戰機（其中8架在法國南部擊落），為盟軍服役的單一機型內擊墜軸心國軍機最多的型號\[3\]。服役於皇家海軍的F6F亦擊落了52架。二戰後地獄貓雖然卸下了主力艦載戰機地位，但仍作為夜間戰鬥機繼續在美國海軍服役，直到1954年始全面除役，由軍援轉移給它國的地獄貓則服役更久。
 
@@ -13,7 +13,7 @@ F6F共計生產了12,275架，\[4\]而當中的12,200架是在1943至1945這兩�
 [F6F-5_2002.png](https://zh.wikipedia.org/wiki/File:F6F-5_2002.png "fig:F6F-5_2002.png")
 [_F6F-5N_F6F-5_CVE-87_1944-45.jpg](https://zh.wikipedia.org/wiki/File:_F6F-5N_F6F-5_CVE-87_1944-45.jpg "fig:_F6F-5N_F6F-5_CVE-87_1944-45.jpg")
 [F6F-5K_Fox_control_cart_NAN2-53.jpg](https://zh.wikipedia.org/wiki/File:F6F-5K_Fox_control_cart_NAN2-53.jpg "fig:F6F-5K_Fox_control_cart_NAN2-53.jpg")
-[F6F-5K_CV-38_OpCrossroads_NAN6-46.jpg](https://zh.wikipedia.org/wiki/File:F6F-5K_CV-38_OpCrossroads_NAN6-46.jpg "fig:F6F-5K_CV-38_OpCrossroads_NAN6-46.jpg")前，由[香格里拉號航空母艦起飛](../Page/香格里拉號航空母艦.md "wikilink")。\]\]
+[F6F-5K_CV-38_OpCrossroads_NAN6-46.jpg](https://zh.wikipedia.org/wiki/File:F6F-5K_CV-38_OpCrossroads_NAN6-46.jpg "fig:F6F-5K_CV-38_OpCrossroads_NAN6-46.jpg")前，由[香格里拉號航空母艦](../Page/香格里拉號航空母艦.md "wikilink")起飛。\]\]
 從1938年起，格魯曼就已經開始為F4F研發後續機種。雖然美軍下一代主力艦載機競標由錢斯沃特拿下，但格魯曼仍在1941年6月30日和美國海軍簽下**XF6F-1**樣機製造合同。XF6F-1為一架配備14汽缸R-2600發動機（輸出功率1,700匹馬力）搭配寇蒂斯製三葉電動螺旋槳、\[7\]繼承野貓架構的手搖式起落架，改良較為有限的野貓升級型；但日軍[偷襲珍珠港後XF](https://zh.wikipedia.org/wiki/偷襲珍珠港 "wikilink")6F-1規格也隨之調整，[里洛易·格魯門率領他公司底下主設計工程主任比爾](https://zh.wikipedia.org/wiki/里洛易·格魯門 "wikilink")·舒溫德（Bill
 Schwendler）、和（BuAer）聯繫，希望能取得更多F4F飛官實戰經驗回饋，\[8\]讓新飛機能夠符合作戰需求。\[9\]美國海軍在1942年4月22日安排後來的美軍海航王牌飛行員愛德華·歐海爾到格魯曼工廠和團隊工程師回饋F4F和零戰交火之經驗歸納。實戰情況顯示：縱使F4F結構上比[零式戰鬥機更強](https://zh.wikipedia.org/wiki/零式戰鬥機 "wikilink")，能夠承受更多攻擊，俯衝時的加速率亦較之為高（美軍飛行員往往依賴這優勢而俯衝改出，避開零戰的攻擊），但在機動性與操縱性能，以及爬升率上卻未有優勢。
 
@@ -34,9 +34,9 @@ F6F的基本武裝也和F4U相同，都是6挺[白朗寧M2重機槍](../Page/白
 
 #### 早期試驗型號
 
-XF6F-1在1942年6月26日試飛，该机安装了[R2600-16发动机](https://zh.wikipedia.org/wiki/R2600-16发动机 "wikilink")，可产生1600[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")，机翼内并列安装6挺12.7毫米白朗寧機槍，每挺机枪备弹400发。随后又试飞了第二架原型机XF6F-2，但因功率不足而未达到军方的性能指标。于是，第三架原型机XF6F-3就换装了功率增大25%的[普惠R2800-10发动机](https://zh.wikipedia.org/wiki/普惠R2800-10发动机 "wikilink")，其细节处和XF6F-1稍有不同，左侧[发动机排气管开口减小了些](../Page/发动机.md "wikilink")，且将空速管移到了右翼前缘底部。而裝上新引擎的XF6F-3則在同年7月30日首次起飛。同時，新的改良已經緊接進行。XF6F-2裝上了一個一段二速機械增壓器，表現並不理想，而當時海軍並不熱衷於為[艦載機進一步提升高空性能](../Page/艦載機.md "wikilink")，結果連帶裝上二級增壓器的XF6F-3亦未被重視，但這些測試為後來的F6F-4與F6F-5提供了經驗。
+XF6F-1在1942年6月26日試飛，该机安装了[R2600-16发动机](https://zh.wikipedia.org/wiki/R2600-16发动机 "wikilink")，可产生1600[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")，机翼内并列安装6挺12.7毫米白朗寧機槍，每挺机枪备弹400发。随后又试飞了第二架原型机XF6F-2，但因功率不足而未达到军方的性能指标。于是，第三架原型机XF6F-3就换装了功率增大25%的[普惠R2800-10发动机](https://zh.wikipedia.org/wiki/普惠R2800-10发动机 "wikilink")，其细节处和XF6F-1稍有不同，左侧[发动机](../Page/发动机.md "wikilink")排气管开口减小了些，且将空速管移到了右翼前缘底部。而裝上新引擎的XF6F-3則在同年7月30日首次起飛。同時，新的改良已經緊接進行。XF6F-2裝上了一個一段二速機械增壓器，表現並不理想，而當時海軍並不熱衷於為[艦載機](../Page/艦載機.md "wikilink")進一步提升高空性能，結果連帶裝上二級增壓器的XF6F-3亦未被重視，但這些測試為後來的F6F-4與F6F-5提供了經驗。
 
-1942年7月30日，XF6F-3试飞成功，军方对性能很满意，决定定型生产。随后，格鲁曼又把第一架原型机XF6F-1改成XF6F-3标准，这2架XF6F-3成为后来4400架各型F6F戰鬥機的始祖。生产型F6F仍沿用原型机的6挺12.7毫米勃朗宁机枪，由于F6F装甲和密封油箱比较重，因而灵活性比[零式戰鬥機略差](https://zh.wikipedia.org/wiki/零式戰鬥機 "wikilink")，但在飞行速度、高度和其他性能方面都比零式要好。F6F的时速可达600公里，最大载荷有效航程为2400[公里](../Page/公里.md "wikilink")，而[零式戰鬥機时速只有](https://zh.wikipedia.org/wiki/零式戰鬥機 "wikilink")500公里，最大有效载荷航程仅为1800[公里](../Page/公里.md "wikilink")。在排除了一些微小设计缺陷后，1943年1月16日格鲁曼开始向海军交付F6F，[艾塞克斯號航空母艦上的VF](../Page/艾塞克斯號航空母艦.md "wikilink")-9中队成为首个装备F6F的作战单位。
+1942年7月30日，XF6F-3试飞成功，军方对性能很满意，决定定型生产。随后，格鲁曼又把第一架原型机XF6F-1改成XF6F-3标准，这2架XF6F-3成为后来4400架各型F6F戰鬥機的始祖。生产型F6F仍沿用原型机的6挺12.7毫米勃朗宁机枪，由于F6F装甲和密封油箱比较重，因而灵活性比[零式戰鬥機略差](https://zh.wikipedia.org/wiki/零式戰鬥機 "wikilink")，但在飞行速度、高度和其他性能方面都比零式要好。F6F的时速可达600公里，最大载荷有效航程为2400[公里](../Page/公里.md "wikilink")，而[零式戰鬥機时速只有](https://zh.wikipedia.org/wiki/零式戰鬥機 "wikilink")500公里，最大有效载荷航程仅为1800[公里](../Page/公里.md "wikilink")。在排除了一些微小设计缺陷后，1943年1月16日格鲁曼开始向海军交付F6F，[艾塞克斯號航空母艦](../Page/艾塞克斯號航空母艦.md "wikilink")上的VF-9中队成为首个装备F6F的作战单位。
 
 #### F6F-3
 
@@ -63,7 +63,7 @@ F6F-5則是最常用的型號。包括了再經改良的引擎，彈簧控制的
 
 #### F6F-6
 
-F6F-6的實驗機是由兩部F6F-5改裝而成，即XF6F-6。兩者最明顯的分別是引擎的改良，採用了[普惠公司R](../Page/普惠公司.md "wikilink")-2800-18W的风冷引擎配用四叶螺旋桨，出力提升到2100匹馬力。F6F-6藉此成為了F6F系列中最佳之作，最高空速可達每小時417[英里](../Page/英里.md "wikilink")。\[26\]但隨著日本在不久後投降，F6F-6未大規劃生產。\[27\]
+F6F-6的實驗機是由兩部F6F-5改裝而成，即XF6F-6。兩者最明顯的分別是引擎的改良，採用了[普惠公司](../Page/普惠公司.md "wikilink")R-2800-18W的风冷引擎配用四叶螺旋桨，出力提升到2100匹馬力。F6F-6藉此成為了F6F系列中最佳之作，最高空速可達每小時417[英里](../Page/英里.md "wikilink")。\[26\]但隨著日本在不久後投降，F6F-6未大規劃生產。\[27\]
 
 ### 其他型號
 
@@ -77,7 +77,7 @@ F6F尚有兩個較為特別的型號，分別為F6F-3K和F6F-5K。K字編號意�
 
 ### 美軍
 
-F6F在1943年9月1日首次出戰，由[獨立號航空母艦起飛](https://zh.wikipedia.org/wiki/獨立級航空母艦 "wikilink")，擊落了日軍一架[二式大艇](https://zh.wikipedia.org/wiki/二式大艇 "wikilink")\[28\]。11月11整日，F6F與F4U的混合編隊在[拉包爾上空與日本戰鬥機隊進行了猛烈戰鬥](../Page/拉包爾.md "wikilink")，擊落了接近50架敵機。\[29\]11月23與24日，F6F又在[塔拉瓦環礁上空擊落了](https://zh.wikipedia.org/wiki/塔拉瓦環礁 "wikilink")30架[零式戰鬥機](https://zh.wikipedia.org/wiki/零式戰鬥機 "wikilink")，而F6F僅損失1架。\[30\]F6F同時也繼承了F4F的特別戰鬥編制，詳見。自首戰以後，F6F基本上參與了1943年以後[太平洋戰爭中所有空戰](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")。包括了號稱「馬里亞納射火雞大賽」的[菲律賓海戰](https://zh.wikipedia.org/wiki/菲律賓海戰 "wikilink")，絕大多數的空戰擊落成果都是由此機獲得。
+F6F在1943年9月1日首次出戰，由[獨立號航空母艦起飛](https://zh.wikipedia.org/wiki/獨立級航空母艦 "wikilink")，擊落了日軍一架[二式大艇](https://zh.wikipedia.org/wiki/二式大艇 "wikilink")\[28\]。11月11整日，F6F與F4U的混合編隊在[拉包爾](../Page/拉包爾.md "wikilink")上空與日本戰鬥機隊進行了猛烈戰鬥，擊落了接近50架敵機。\[29\]11月23與24日，F6F又在[塔拉瓦環礁上空擊落了](https://zh.wikipedia.org/wiki/塔拉瓦環礁 "wikilink")30架[零式戰鬥機](https://zh.wikipedia.org/wiki/零式戰鬥機 "wikilink")，而F6F僅損失1架。\[30\]F6F同時也繼承了F4F的特別戰鬥編制，詳見。自首戰以後，F6F基本上參與了1943年以後[太平洋戰爭中所有空戰](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")。包括了號稱「馬里亞納射火雞大賽」的[菲律賓海戰](https://zh.wikipedia.org/wiki/菲律賓海戰 "wikilink")，絕大多數的空戰擊落成果都是由此機獲得。
 
 美軍曾安排擄獲的零戰五二型與F6F-3進行模擬對戰，美軍測試結果得知無論在任何空層地獄貓極速都凌駕在零戰以上，但是如果要能確實贏得優勢需要在14,000英尺（4,260公尺）以上高度維持235英里（378.2公里）速度，在此速度之上地獄貓即使進入格鬥狀態也能勝出，反之，低於該高度與速度時，零戰較輕的機體可以得到足夠的加速度，並且在機動性超越地獄貓；日軍紀錄中，也提到1944年6月硫磺島戰役時經驗較豐富的熟練飛官仍會以各種手段誘使地獄貓進入格鬥戰。\[31\]
 
@@ -91,11 +91,11 @@ F6F也孕育了最多的[王牌飛行員](https://zh.wikipedia.org/wiki/王牌�
 
 ### 英軍
 
-英軍也透過[租借法案獲得了](../Page/租借法案.md "wikilink")1,263架F6F，並一度稱為**塘鵝MKI**（Gannet
+英軍也透過[租借法案](../Page/租借法案.md "wikilink")獲得了1,263架F6F，並一度稱為**塘鵝MKI**（Gannet
 MKI），直到1943年為了簡化減少混亂才用回地獄貓的稱呼。
 
 F6F-3在英軍的稱呼為**Hellcat F.I**，F6F-5為**Hellcat F.II**，F6F-5N則為**Hellcat
-NF.II**。英軍的F6F參與了在[挪威](../Page/挪威.md "wikilink")、[地中海及](../Page/地中海.md "wikilink")[遠東的戰鬥](../Page/遠東.md "wikilink")。部分F6F也被英軍改裝為攝影戰鬥機（與美軍的F6F-5P相似），稱為**Hellcat
+NF.II**。英軍的F6F參與了在[挪威](../Page/挪威.md "wikilink")、[地中海](../Page/地中海.md "wikilink")及[遠東](../Page/遠東.md "wikilink")的戰鬥。部分F6F也被英軍改裝為攝影戰鬥機（與美軍的F6F-5P相似），稱為**Hellcat
 FR.II**\[39\]。英軍的F6F未有太多的實戰經驗，在1944年5月到1945年7月之間的18場戰鬥裡，擊落了52架次。當中以不撓號航空母艦（[HMS
 Indomitable](https://zh.wikipedia.org/wiki/:en:HMS_Indomitable（92） "wikilink"))的1844小隊建功最多，佔了32.5架次\[40\]。二戰後期，這些F6F與其他租借法案的飛機，都被英國自製的戰機迅速取代，1945年[VJ-Day時](https://zh.wikipedia.org/wiki/第二次世界大戰對日戰爭勝利紀念日 "wikilink")，12個飛行小隊只有2個仍配有F6F\[41\]，到1946年連這兩小隊亦被解散。\[42\]服役的情況也指出，F6F的性能足以與德軍的[Bf
 109與](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[Fw

@@ -26,7 +26,7 @@ Tool](https://zh.wikipedia.org/wiki/USMT "wikilink")（USMT）。\[6\]
 
 使用Windows 輕鬆傳輸來複製檔案及設定可以藉由以下媒體裝置來進行\[7\]：
 
-  - 一種名為「輕鬆傳輸線」的[USB對USB轉接線](../Page/USB.md "wikilink")。
+  - 一種名為「輕鬆傳輸線」的[USB](../Page/USB.md "wikilink")對USB轉接線。
   - CD／DVD、[隨身碟或外接](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")
   - 有線、無線網路或使用[乙太網路跳線](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")。
 

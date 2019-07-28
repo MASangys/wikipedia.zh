@@ -11,7 +11,7 @@ Explorer 4取代](../Page/Internet_Explorer_4.md "wikilink")。
 
 | 主要版本                              | 次要版本            | 發佈日期               | 重大更新                                                 | 包含在 |
 | --------------------------------- | --------------- | ------------------ | ---------------------------------------------------- | --- |
-| 3                                 | 3.0 Alpha 1     | 1996年3月            | 改進對[HTML表格](../Page/HTML.md "wikilink")、框架以及其他要素的支持  |     |
+| 3                                 | 3.0 Alpha 1     | 1996年3月            | 改進對[HTML](../Page/HTML.md "wikilink")表格、框架以及其他要素的支持  |     |
 | 3.0 Alpha 2                       | 1996年5月         | 支援VBScript和JScript |                                                      |     |
 | 3.0 Beta 2                        | 1996年7月         | 支援CSS和Java         |                                                      |     |
 | style="white-space: nowrap;| 3.0  | 1996年8月13日      | 最終版本               | [Windows 95 OSR 2](../Page/Windows_95.md "wikilink") |     |

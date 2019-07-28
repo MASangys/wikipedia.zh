@@ -19,7 +19,7 @@ BEST**（放浪節奏精選）是[EXILE第](https://zh.wikipedia.org/wiki/EXILE 
     Choo
     TRAIN](https://zh.wikipedia.org/wiki/Choo_Choo_TRAIN_\(EXILE\) "wikilink")」&「銀河鉄道999
     feat.VERBAL|VERBAL (m-flo)
-    」、[波士頓紅襪隊的](../Page/波士頓紅襪.md "wikilink")[松坂大輔所演出的](../Page/松坂大輔.md "wikilink")「[real
+    」、[波士頓紅襪](../Page/波士頓紅襪.md "wikilink")隊的[松坂大輔](../Page/松坂大輔.md "wikilink")所演出的「[real
     world](https://zh.wikipedia.org/wiki/real_world "wikilink")」、再編輯過的「[時光碎片](https://zh.wikipedia.org/wiki/時光碎片〜/24克拉_-type_EX- "wikilink")（CATCHY
     BEST Version）」的PV等。另外還有各PV的後製影片，初回盤更收錄「Pure」 LISMO Recommend
     EXILE（LISXILE Version）。

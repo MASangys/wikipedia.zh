@@ -10,7 +10,7 @@ Tools 9（取代了LE和M-Powered系统）以及之后的版本已可以兼容�
 
 基本上，Pro Tools 類似于一個多軌磁帶錄音機和混音機，伴隨的附加功能只能在數位介質中執行。高端的版本支援多達 192kHz 取樣速率和
 16 及 24
-位的位元深度，打開[WAV](../Page/WAV.md "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")、[MP3](../Page/MP3.md "wikilink")、[SDII音訊檔和](https://zh.wikipedia.org/wiki/SDII "wikilink")[QuickTime影片檔](../Page/QuickTime.md "wikilink")。它以[時間代碼](https://zh.wikipedia.org/wiki/時間代碼 "wikilink")、[節奏地圖](https://zh.wikipedia.org/wiki/節奏地圖 "wikilink")、自動化和[環繞聲的功能為特色](https://zh.wikipedia.org/wiki/環繞聲 "wikilink")。
+位的位元深度，打開[WAV](../Page/WAV.md "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")、[MP3](../Page/MP3.md "wikilink")、[SDII音訊檔和](https://zh.wikipedia.org/wiki/SDII "wikilink")[QuickTime](../Page/QuickTime.md "wikilink")影片檔。它以[時間代碼](https://zh.wikipedia.org/wiki/時間代碼 "wikilink")、[節奏地圖](https://zh.wikipedia.org/wiki/節奏地圖 "wikilink")、自動化和[環繞聲的功能為特色](https://zh.wikipedia.org/wiki/環繞聲 "wikilink")。
 
 ## 介面
 

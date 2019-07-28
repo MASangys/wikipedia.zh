@@ -2,7 +2,7 @@
 
 ## Q00-Q07 神经系统先天性畸形
 
-Q00-Q07 [神经系统先天性畸形](../Page/神经系统.md "wikilink")
+Q00-Q07 [神经系统](../Page/神经系统.md "wikilink")先天性畸形
 
   - Q00 [无脑畸形和类似畸形](https://zh.wikipedia.org/wiki/无脑畸形 "wikilink")
   - Q01 [脑膨出](https://zh.wikipedia.org/wiki/脑膨出 "wikilink")
@@ -22,7 +22,7 @@ Q10-Q18
     [眼睑](https://zh.wikipedia.org/wiki/眼睑 "wikilink")、[泪器和](https://zh.wikipedia.org/wiki/泪器 "wikilink")[眼眶先天性畸形](https://zh.wikipedia.org/wiki/眼眶 "wikilink")
   - Q11 [无眼](https://zh.wikipedia.org/wiki/无眼 "wikilink")、小眼
     和[巨眼](https://zh.wikipedia.org/wiki/巨眼 "wikilink")
-  - Q12 先天性[晶状体畸形](../Page/晶状体.md "wikilink")
+  - Q12 先天性[晶状体](../Page/晶状体.md "wikilink")畸形
   - Q13 眼前段先天性畸形
   - Q14 眼后段先天性畸形
   - Q15 眼的其他先天性畸形
@@ -32,7 +32,7 @@ Q10-Q18
 
 ## Q20-Q28 循环系统先天性畸形
 
-Q20-Q28 [循环系统先天性畸形](../Page/循环系统.md "wikilink")
+Q20-Q28 [循环系统](../Page/循环系统.md "wikilink")先天性畸形
 
   - Q20
     [心腔和](https://zh.wikipedia.org/wiki/心腔 "wikilink")[心连接的先天性畸形](https://zh.wikipedia.org/wiki/心连接 "wikilink")
@@ -40,7 +40,7 @@ Q20-Q28 [循环系统先天性畸形](../Page/循环系统.md "wikilink")
   - Q22
     [肺动脉瓣和](https://zh.wikipedia.org/wiki/肺动脉瓣 "wikilink")[三尖瓣先天性畸形](https://zh.wikipedia.org/wiki/三尖瓣 "wikilink")
   - Q23
-    [主动脉瓣和](https://zh.wikipedia.org/wiki/主动脉瓣 "wikilink")[二尖瓣先天性畸形](../Page/二尖瓣.md "wikilink")
+    [主动脉瓣和](https://zh.wikipedia.org/wiki/主动脉瓣 "wikilink")[二尖瓣](../Page/二尖瓣.md "wikilink")先天性畸形
   - Q24 心脏的其他先天性畸形
   - Q25 大动脉先天性畸形
   - Q26 大静脉先天性畸形
@@ -88,10 +88,10 @@ Q50-Q56 [生殖器官先天性畸形](https://zh.wikipedia.org/wiki/生殖器官
   - Q50
     [卵巢](../Page/卵巢.md "wikilink")、[输卵管和](https://zh.wikipedia.org/wiki/输卵管 "wikilink")[阔韧带先天性畸形](https://zh.wikipedia.org/wiki/阔韧带 "wikilink")
   - Q51
-    [子宫和](../Page/子宫.md "wikilink")[宫颈先天性畸形](https://zh.wikipedia.org/wiki/宫颈 "wikilink")
+    [子宫](../Page/子宫.md "wikilink")和[宫颈先天性畸形](https://zh.wikipedia.org/wiki/宫颈 "wikilink")
   - Q52 女性生殖器的其他先天性畸形
-  - Q53 [睾丸未降](../Page/睾丸.md "wikilink")
-  - Q54 [尿道下裂](../Page/尿道.md "wikilink")
+  - Q53 [睾丸](../Page/睾丸.md "wikilink")未降
+  - Q54 [尿道](../Page/尿道.md "wikilink")下裂
   - Q55 男性生殖器官的其他先天性畸形
   - Q56 性别不清和假两性同体
 
@@ -108,7 +108,7 @@ Q60-Q64 [泌尿系统先天性畸形](https://zh.wikipedia.org/wiki/泌尿系统
 
 ## Q65-Q79 肌肉骨骼系统先天性畸形和变形
 
-Q65-Q79 [肌肉骨骼系统先天性畸形和变形](../Page/肌肉骨骼系统.md "wikilink")
+Q65-Q79 [肌肉骨骼系统](../Page/肌肉骨骼系统.md "wikilink")先天性畸形和变形
 
   - Q65 [髋先天性变形](https://zh.wikipedia.org/wiki/髋 "wikilink")
   - Q66 [足先天性变形](https://zh.wikipedia.org/wiki/足 "wikilink")
@@ -151,7 +151,7 @@ Q80-Q89 其他先天性畸形
   - Q93
     [常染色体的单体性和缺失](https://zh.wikipedia.org/wiki/常染色体 "wikilink")，不可归类在他处者
   - Q95 平衡重排和结构标记，不可归类在他处者
-  - Q96 先天性[卵巢发育不全](../Page/卵巢.md "wikilink")
+  - Q96 先天性[卵巢](../Page/卵巢.md "wikilink")发育不全
   - Q97 其他的性染色体异常，女性表型，不可归类在他处者
   - Q98 其他的性染色体异常，男性表型，不可归类在他处者
   - Q99 其他的染色体异常，不可归类在他处者

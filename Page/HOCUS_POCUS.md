@@ -1,5 +1,5 @@
 **HOCUS
-POCUS**專輯，為[木村KAELA個人通算第](../Page/木村KAELA.md "wikilink")5張專輯，於2009年6月24日由哥倫比亞音樂發行。
+POCUS**專輯，為[木村KAELA](../Page/木村KAELA.md "wikilink")個人通算第5張專輯，於2009年6月24日由哥倫比亞音樂發行。
 
 ## 解說
 

@@ -1,6 +1,6 @@
 ****是一个由[Mozilla
 Labs于](https://zh.wikipedia.org/wiki/Mozilla_Labs "wikilink")2008年8月26日推出的[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[附加组件](https://zh.wikipedia.org/wiki/Firefox附加组件 "wikilink")。\[1\]是一种[混搭](https://zh.wikipedia.org/wiki/混搭 "wikilink")，利用各种[网络服务提供的](https://zh.wikipedia.org/wiki/网络服务 "wikilink")，将用户进行的各项工作集成在一起，简化用户的操作。根据[阿薩·拉斯金在](../Page/阿薩·拉斯金.md "wikilink")[Vimeo上发布的视频](../Page/Vimeo.md "wikilink")，用户如果想要与朋友预约吃中午饭，只需要在Ubiquity中输入几个命令即可，不需要再到[Gmail](../Page/Gmail.md "wikilink")，[Google地图](../Page/Google地图.md "wikilink")，[Google日历和](https://zh.wikipedia.org/wiki/Google日历 "wikilink")[yelp等网站上一一处理](https://zh.wikipedia.org/wiki/yelp "wikilink")\[2\]。
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[附加组件](https://zh.wikipedia.org/wiki/Firefox附加组件 "wikilink")。\[1\]是一种[混搭](https://zh.wikipedia.org/wiki/混搭 "wikilink")，利用各种[网络服务提供的](https://zh.wikipedia.org/wiki/网络服务 "wikilink")，将用户进行的各项工作集成在一起，简化用户的操作。根据[阿薩·拉斯金](../Page/阿薩·拉斯金.md "wikilink")在[Vimeo](../Page/Vimeo.md "wikilink")上发布的视频，用户如果想要与朋友预约吃中午饭，只需要在Ubiquity中输入几个命令即可，不需要再到[Gmail](../Page/Gmail.md "wikilink")，[Google地图](../Page/Google地图.md "wikilink")，[Google日历和](https://zh.wikipedia.org/wiki/Google日历 "wikilink")[yelp等网站上一一处理](https://zh.wikipedia.org/wiki/yelp "wikilink")\[2\]。
 
 ## 简介
 
@@ -26,35 +26,35 @@ Ubiquity与一般的混搭性质不同，它是一种以用户为中心的混搭
 | `add-to-calendar`      | 将一项事件添加至[Google日历](https://zh.wikipedia.org/wiki/Google日历 "wikilink")                                                | 0.1   |
 | `amazon-search`        | 在[Amazon.com上搜索](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")                                                | 0.1   |
 | `answers-search`       | 在[Answers搜索](https://zh.wikipedia.org/wiki/Answers "wikilink")                                                       | 0.1   |
-| `ask-search`           | 使用[Ask.com搜索](../Page/Ask.com.md "wikilink")                                                                         | 0.1   |
+| `ask-search`           | 使用[Ask.com](../Page/Ask.com.md "wikilink")搜索                                                                         | 0.1   |
 | `bold`                 | 如果处于[富文本框](https://zh.wikipedia.org/wiki/富文本 "wikilink")，使所选文本加粗                                                     | 0.1   |
-| `bugzilla`             | 在[Mozilla的](../Page/Mozilla.md "wikilink")[Bugzilla搜索](../Page/Bugzilla.md "wikilink")                               | 0.1   |
+| `bugzilla`             | 在[Mozilla](../Page/Mozilla.md "wikilink")的[Bugzilla](../Page/Bugzilla.md "wikilink")搜索                               | 0.1   |
 | `calculate`            | 计算一个数学表达式                                                                                                            | 0.1   |
 | `check-calendar`       | 查看日历上某一时间的事件                                                                                                         | 0.1   |
 | `close-related-tabs`   | 关闭含有某关键词的所有标签                                                                                                        | 0.1   |
 | `close-tab`            | 关闭当前标签                                                                                                               | 0.1   |
 | `command-editor`       | 转到Ubiquity的命令编辑器                                                                                                     | 0.1   |
 | `command-list`         | 显示Ubiquity的命令列表                                                                                                      | 0.1   |
-| `convert`              | 将所选文本转换为[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")，富文本，或[HTML格式](../Page/HTML.md "wikilink")                | 0.1   |
+| `convert`              | 将所选文本转换为[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")，富文本，或[HTML](../Page/HTML.md "wikilink")格式                | 0.1   |
 | `define`               | 查询一个词语的定义                                                                                                            | 0.1   |
 | `delete`               | 在页面文档中删除所选的一块HTML                                                                                                    | 0.1   |
-| `digg`                 | 如果[Digg中没有当前页面](../Page/Digg.md "wikilink")，则提交至Digg；否则转到Digg上的页面                                                    | 0.1   |
+| `digg`                 | 如果[Digg](../Page/Digg.md "wikilink")中没有当前页面，则提交至Digg；否则转到Digg上的页面                                                    | 0.1   |
 | `ebay-search`          | 在[eBay上搜索](https://zh.wikipedia.org/wiki/eBay "wikilink")                                                            | 0.1   |
 | `edit-page`            | 进入页面编辑模式                                                                                                             | 0.1   |
-| `email`                | 发送一封[电子邮件至](../Page/电子邮件.md "wikilink")[Gmail通讯录的一个联系人](../Page/Gmail.md "wikilink")                                 | 0.1   |
+| `email`                | 发送一封[电子邮件](../Page/电子邮件.md "wikilink")至[Gmail](../Page/Gmail.md "wikilink")通讯录的一个联系人                                 | 0.1   |
 | `escape-html-entities` | 转移一段代码中的字符为HTML实体                                                                                                    | 0.1   |
 | `flickr`               | 在[flickr上搜索](https://zh.wikipedia.org/wiki/flickr "wikilink")                                                        | 0.1   |
 | `get-email-address`    | 获得某一名字对应的电子邮件地址                                                                                                      | 0.1   |
-| `google`               | 使用[Google搜索](../Page/Google.md "wikilink")                                                                           | 0.1   |
+| `google`               | 使用[Google](../Page/Google.md "wikilink")搜索                                                                           | 0.1   |
 | `help`                 | 显示Ubiquity的帮助文档（about:ubiquity）                                                                                      | 0.1   |
 | `highlight`            | 高亮所选文本                                                                                                               | 0.1   |
 | `imdb`                 | 在[IMDB上搜索](https://zh.wikipedia.org/wiki/IMDB "wikilink")                                                            | 0.1   |
 | `italic`               | 如果处于富文本框，使所选文本倾斜                                                                                                     | 0.1   |
 | `last-email`           | 显示最后一封电子邮件                                                                                                           | 0.1   |
 | `link-to-wikipedia`    | 如果处于富文本框，将所选文本链接至[Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia "wikilink")                                     | 0.1   |
-| `map`                  | 在[Google地图上显示某一地址](../Page/Google地图.md "wikilink")                                                                   | 0.1   |
-| `map-these`            | 在[Google地图上同时显示几个地址](../Page/Google地图.md "wikilink")                                                                 | 0.1   |
-| `msn-search`           | 使用[MSN搜索](../Page/MSN.md "wikilink")                                                                                 | 0.1   |
+| `map`                  | 在[Google地图](../Page/Google地图.md "wikilink")上显示某一地址                                                                   | 0.1   |
+| `map-these`            | 在[Google地图](../Page/Google地图.md "wikilink")上同时显示几个地址                                                                 | 0.1   |
+| `msn-search`           | 使用[MSN](../Page/MSN.md "wikilink")搜索                                                                                 | 0.1   |
 | `redo`                 | 如果处于页面编辑模式，重做最后一次撤销                                                                                                  | 0.1   |
 | `remove-annotations`   | 将存储用户对页面编辑的注释重设                                                                                                      | 0.1   |
 | `save`                 | 如果处在页面编辑模式，将用户作出的更改以注释的方式保存                                                                                          | 0.1   |
@@ -71,11 +71,11 @@ Ubiquity与一般的混搭性质不同，它是一种以用户为中心的混搭
 | `undo`                 | 如果处于页面编辑模式，撤销最后一次编辑                                                                                                  | 0.1   |
 | `view-source`          | 查看源代码                                                                                                                | 0.1   |
 | `weather`              | 查看一个指定地方的天气                                                                                                          | 0.1   |
-| `wikipedia`            | 使用[维基百科搜索](../Page/维基百科.md "wikilink")                                                                               | 0.1   |
+| `wikipedia`            | 使用[维基百科](../Page/维基百科.md "wikilink")搜索                                                                               | 0.1   |
 | `word-count`           | 统计所选区域的字数                                                                                                            | 0.1   |
 | `yahoo-search`         | 使用[Yahoo\!搜索](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")                                                       | 0.1   |
 | `yelp`                 | 显示[yelp上有关餐馆的信息](https://zh.wikipedia.org/wiki/yelp "wikilink")                                                      | 0.1   |
-| `youtube`              | 在[YouTube上搜索](../Page/YouTube.md "wikilink")                                                                         | 0.1   |
+| `youtube`              | 在[YouTube](../Page/YouTube.md "wikilink")上搜索                                                                         | 0.1   |
 | `zoom`                 | 缩放页面                                                                                                                 |       |
 
 内置命令\[5\]

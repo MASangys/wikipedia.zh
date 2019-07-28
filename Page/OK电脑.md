@@ -1,11 +1,11 @@
 **《OK
-Computer》**是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[摇滚乐团](../Page/摇滚.md "wikilink")[电台司令](../Page/电台司令.md "wikilink")1997年发行的第三张录音室专辑。当时这张专辑在英国音乐榜上名列第一，并且是他们在[美国销量最好的一张专辑](../Page/美国.md "wikilink")。《OK
+Computer》**是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[摇滚](../Page/摇滚.md "wikilink")乐团[电台司令](../Page/电台司令.md "wikilink")1997年发行的第三张录音室专辑。当时这张专辑在英国音乐榜上名列第一，并且是他们在[美国](../Page/美国.md "wikilink")销量最好的一张专辑。《OK
 Computer》增强了乐队在海外的影响力，是电台司令最后一张在英国本土之外延迟发售的专辑。截至2007年，这张专辑在英国的銷量達三白金，在美国则是二白金，\[1\]\[2\]并且已经销售了超过840万份拷贝。\[3\]《OK
 Computer》收錄了单曲「」、「」和「」。
 
-这张专辑在[牛津郡和](../Page/牛津郡.md "wikilink")[巴斯乡间与](../Page/巴斯.md "wikilink")[奈杰尔·古德里奇](https://zh.wikipedia.org/wiki/奈杰尔·古德里奇 "wikilink")（[Nigel
+这张专辑在[牛津郡](../Page/牛津郡.md "wikilink")和[巴斯](../Page/巴斯.md "wikilink")乡间与[奈杰尔·古德里奇](https://zh.wikipedia.org/wiki/奈杰尔·古德里奇 "wikilink")（[Nigel
 Godrich](../Page/尼杰尔·歌德里希.md "wikilink")）一起创作。此人又参加了以后所有电台司令的专辑的创作。尽管《OK
-Computer》主要是用吉他演奏，但是他们在这张专辑中尝试了很宽的乐器范围，从很多当时著名的英伦摇滚与另类摇滚乐团中汲取了精华，並为以后他们风格的转变、实验性的增强埋下了伏笔。\[4\]歌词均由[湯姆·約克创作](../Page/湯姆·約克.md "wikilink")，而专辑封面是由湯姆与另一位画家所创作。这封面所隐喻的是一些社会问题，尽管乐團否认他们是在做一张概念专辑。\[5\]
+Computer》主要是用吉他演奏，但是他们在这张专辑中尝试了很宽的乐器范围，从很多当时著名的英伦摇滚与另类摇滚乐团中汲取了精华，並为以后他们风格的转变、实验性的增强埋下了伏笔。\[4\]歌词均由[湯姆·約克](../Page/湯姆·約克.md "wikilink")创作，而专辑封面是由湯姆与另一位画家所创作。这封面所隐喻的是一些社会问题，尽管乐團否认他们是在做一张概念专辑。\[5\]
 
 《OK
 Computer》得到公众及评论家很高的评价。这张专辑被认为是电台司令最经典、最具有标志性的作品。\[6\]1998年，本專輯入圍[葛萊美年度最佳专辑奖](../Page/葛萊美獎.md "wikilink")，并且获得了葛萊美最佳另类音乐奖。
@@ -32,14 +32,14 @@ Applause錄製的四首歌：「Subterranean Homesick Alien」、「Electioneeri
 Surprises](https://zh.wikipedia.org/wiki/No_Surprises "wikilink")」和「The
 Tourist」。
 
-1996年7月底與8月，他們短暫地中止了錄音，轉而進行巡迴演出，接連參加幾場歐洲的音樂節並發表[Airbag等新曲](https://zh.wikipedia.org/wiki/Airbag_\(song\) "wikilink")。接著，在擔任[艾拉妮絲·莫莉塞特北美大型場次的演唱會開場時](../Page/艾拉妮絲·莫莉塞特.md "wikilink")，他們表演了「[Paranoid
+1996年7月底與8月，他們短暫地中止了錄音，轉而進行巡迴演出，接連參加幾場歐洲的音樂節並發表[Airbag等新曲](https://zh.wikipedia.org/wiki/Airbag_\(song\) "wikilink")。接著，在擔任[艾拉妮絲·莫莉塞特](../Page/艾拉妮絲·莫莉塞特.md "wikilink")北美大型場次的演唱會開場時，他們表演了「[Paranoid
 Android](https://zh.wikipedia.org/wiki/Paranoid_Android "wikilink")」、「Let
 Down」、「[Climbing Up the
 Walls](https://zh.wikipedia.org/wiki/Climbing_Up_the_Walls "wikilink")」與「[Karma
 Police](https://zh.wikipedia.org/wiki/Karma_Police "wikilink")」等歌曲的早期版本。據聞，「Paranoid
 Android」在1996年夏天從一首有管風琴長獨奏的十四分鐘歌曲，演變為較接近專輯裡聽到的版本。\[12\]約克說：「我想這是［因為］我們站在棚子（「室內圓形劇場」的工業用語）裡的一萬人面前，他們對我們［演奏］的東西實在沒什麼興趣，迫使我們非常、非常迅速地對那些歌做很多修整……在巨大而呆板的水泥建築裡演奏時，有些東西對歌曲是很重要的。因為很多歌需要聽起來又大又混亂，像是拍打著牆壁一樣。」\[13\]
 
-九月，電台司令繼續與古德里奇進行錄音。他們移往聖凱撒琳宅邸（），那是一座位於[巴斯附近的歷史建築](../Page/巴斯.md "wikilink")，當時為演員[珍·茜摩爾所擁有](https://zh.wikipedia.org/wiki/珍·茜摩爾 "wikilink")；在那裡，《OK
+九月，電台司令繼續與古德里奇進行錄音。他們移往聖凱撒琳宅邸（），那是一座位於[巴斯](../Page/巴斯.md "wikilink")附近的歷史建築，當時為演員[珍·茜摩爾所擁有](https://zh.wikipedia.org/wiki/珍·茜摩爾 "wikilink")；在那裡，《OK
 Computer》在沒有唱片公司壓力的情況下錄製完成。然而，除了唱片公司以外，還有另一種期限。在聖凱撒琳宅邸完成的第一批歌曲之一「Exit
 Music (For a
 Film)」是導演[巴茲魯曼為他同年年底上映的改編電影](https://zh.wikipedia.org/wiki/巴茲魯曼 "wikilink")《羅密歐＋茱麗葉》（[Romeo
@@ -73,12 +73,12 @@ Computer》的時候，我們非常引以為榮。但錄音過程進行越久，
 ### 聲音風格與所受影響
 
 關於《OK
-Computer》，約克說「我們腦子裡有一種必須錄在帶子上的聲音……一種你第一次聽的時候或許有點嚇人的氣氛，但也只到（[沙灘男孩的](https://zh.wikipedia.org/wiki/沙灘男孩 "wikilink")）《[寵物之聲](https://zh.wikipedia.org/wiki/寵物之聲 "wikilink")》的程度……還有像是[潘德瑞茨基的作曲家](https://zh.wikipedia.org/wiki/潘德瑞茨基 "wikilink")，帶點獨特的氛圍，[無調性的怪東西](https://zh.wikipedia.org/wiki/無調性 "wikilink")。我們完全沒聽任何流行音樂，但不是因為我們討厭流行音樂——是因為我們以前做的是流行音樂……[邁爾士·戴維斯的](../Page/邁爾士·戴維斯.md "wikilink")《[即興精釀](https://zh.wikipedia.org/wiki/即興精釀 "wikilink")》（）是讓我們覺得東西聽起來應該怎樣的起點；它的聲音極度濃密又嚇人。那就是我試圖得到的〔聲音〕——那就是我腦子裡的聲音。除此之外，我只會在一張〔恩尼奧〕[莫里科內的唱片上聽到那個聲音](https://zh.wikipedia.org/wiki/恩尼奧·莫里科內 "wikilink")。我從來沒在流行音樂裡聽見它……並不是我們自負傲慢什麼的，只是好像『這樣就是說出我們真正想說的』一樣。」\[22\]
+Computer》，約克說「我們腦子裡有一種必須錄在帶子上的聲音……一種你第一次聽的時候或許有點嚇人的氣氛，但也只到（[沙灘男孩的](https://zh.wikipedia.org/wiki/沙灘男孩 "wikilink")）《[寵物之聲](https://zh.wikipedia.org/wiki/寵物之聲 "wikilink")》的程度……還有像是[潘德瑞茨基的作曲家](https://zh.wikipedia.org/wiki/潘德瑞茨基 "wikilink")，帶點獨特的氛圍，[無調性的怪東西](https://zh.wikipedia.org/wiki/無調性 "wikilink")。我們完全沒聽任何流行音樂，但不是因為我們討厭流行音樂——是因為我們以前做的是流行音樂……[邁爾士·戴維斯](../Page/邁爾士·戴維斯.md "wikilink")的《[即興精釀](https://zh.wikipedia.org/wiki/即興精釀 "wikilink")》（）是讓我們覺得東西聽起來應該怎樣的起點；它的聲音極度濃密又嚇人。那就是我試圖得到的〔聲音〕——那就是我腦子裡的聲音。除此之外，我只會在一張〔恩尼奧〕[莫里科內的唱片上聽到那個聲音](https://zh.wikipedia.org/wiki/恩尼奧·莫里科內 "wikilink")。我從來沒在流行音樂裡聽見它……並不是我們自負傲慢什麼的，只是好像『這樣就是說出我們真正想說的』一樣。」\[22\]
 
 在這段時間，電台司令受到作曲家莫里科內和潘德瑞茨基很大的影響，\[23\]\[24\]此外還受到[DJ
 Shadow的影響](https://zh.wikipedia.org/wiki/DJ_Shadow "wikilink")。這張專輯的製作風格類似[菲爾·斯派克特](https://zh.wikipedia.org/wiki/菲爾·斯派克特 "wikilink")（[Phil
 Spector](../Page/菲尔·斯佩克特.md "wikilink")）的技術，\[25\]因而表現出和他們以前的專輯完全不同的音樂質地，以及他們從出道單曲「Creep」以來在風格上的成熟。報刊評論把《OK
-Computer》和[平克·佛洛伊德](https://zh.wikipedia.org/wiki/平克·佛洛伊德 "wikilink")1973年的專輯《[月之暗面](../Page/月之暗面.md "wikilink")》做了許多比較。強尼·格林伍德稱讚了平克·佛洛伊德的專輯《[Meddle](../Page/Meddle.md "wikilink")》，但也批評他們之後的專輯和[前衛搖滾這一派](../Page/前衛搖滾.md "wikilink")，說自己和他們音樂上的相似處並不是刻意造成的。\[26\]
+Computer》和[平克·佛洛伊德](https://zh.wikipedia.org/wiki/平克·佛洛伊德 "wikilink")1973年的專輯《[月之暗面](../Page/月之暗面.md "wikilink")》做了許多比較。強尼·格林伍德稱讚了平克·佛洛伊德的專輯《[Meddle](../Page/Meddle.md "wikilink")》，但也批評他們之後的專輯和[前衛搖滾](../Page/前衛搖滾.md "wikilink")這一派，說自己和他們音樂上的相似處並不是刻意造成的。\[26\]
 
 ### 歌詞風格
 
@@ -126,7 +126,7 @@ Driving》[EP的](https://zh.wikipedia.org/wiki/EP "wikilink")[B面曲](../Page/
   - 2003年，獲選為《[NME](https://zh.wikipedia.org/wiki/新音樂快遞 "wikilink")》雜誌的史上第十六大專輯。
   - 2003年，在《[Pitchfork
     Media](../Page/Pitchfork_Media.md "wikilink")》雜誌的1990年代百大專輯名單上，本專輯為第一名。\[45\]
-  - 2003年，獲選為[滾石雜誌五百大專輯第](../Page/滾石雜誌五百大專輯.md "wikilink")162名。
+  - 2003年，獲選為[滾石雜誌五百大專輯](../Page/滾石雜誌五百大專輯.md "wikilink")第162名。
   - 2005年，《[Spin](https://zh.wikipedia.org/wiki/Spin "wikilink")》雜誌將之選為過去二十年間的第一名專輯。\[46\]
   - 2006年，獲選為《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》雜誌百大專輯之一。\[47\]
 
@@ -140,7 +140,7 @@ Bends》般令人印象深刻，這兩張專輯有類似的情感糾葛，但後
 ## 影響
 
 由於《OK
-Computer》發行時正值[Britpop式微](../Page/英伦摇滚.md "wikilink")，以及[政治上的徹底改變](https://zh.wikipedia.org/wiki/1997年英國大選 "wikilink")，評論家認為專輯的主題包含英國大眾的意見，這也就解釋了專輯在英國受到的熱烈迴響。\[50\]約克說他的歌詞是受到一本關於[保守黨政府](https://zh.wikipedia.org/wiki/英國保守黨 "wikilink")1997年下台前二十年執政的書影響，也受到[集約畜牧和](https://zh.wikipedia.org/wiki/集約畜牧 "wikilink")[全球化的影響](../Page/全球化.md "wikilink")。\[51\]然而，約克接受訪問時表示，對於一切會不會在[布萊爾的](https://zh.wikipedia.org/wiki/布萊爾 "wikilink")「新[工黨](https://zh.wikipedia.org/wiki/工黨_\(英國\) "wikilink")」政府執政下有所改變，他不抱什麼希望。\[52\]也因為時間接近2000年，有很多人覺得專輯的調性帶有[千禧年主義](https://zh.wikipedia.org/wiki/千禧年主義 "wikilink")。\[53\]
+Computer》發行時正值[Britpop式微](../Page/英伦摇滚.md "wikilink")，以及[政治上的徹底改變](https://zh.wikipedia.org/wiki/1997年英國大選 "wikilink")，評論家認為專輯的主題包含英國大眾的意見，這也就解釋了專輯在英國受到的熱烈迴響。\[50\]約克說他的歌詞是受到一本關於[保守黨政府](https://zh.wikipedia.org/wiki/英國保守黨 "wikilink")1997年下台前二十年執政的書影響，也受到[集約畜牧和](https://zh.wikipedia.org/wiki/集約畜牧 "wikilink")[全球化](../Page/全球化.md "wikilink")的影響。\[51\]然而，約克接受訪問時表示，對於一切會不會在[布萊爾的](https://zh.wikipedia.org/wiki/布萊爾 "wikilink")「新[工黨](https://zh.wikipedia.org/wiki/工黨_\(英國\) "wikilink")」政府執政下有所改變，他不抱什麼希望。\[52\]也因為時間接近2000年，有很多人覺得專輯的調性帶有[千禧年主義](https://zh.wikipedia.org/wiki/千禧年主義 "wikilink")。\[53\]
 
 有些評論家認為《OK
 Computer》扼殺了1990年代的Britpop，\[54\]因為專輯發行後的幾年，英國吉他流行樂的主流風格變得比較緩慢而憂鬱。很多比較新的音樂運動也使用類似的複雜而氣氛獨特的編曲。[崔維斯樂團與電台司令的製作人奈傑爾](https://zh.wikipedia.org/wiki/崔維斯 "wikilink")·古德里奇合作，創造出《The
@@ -154,7 +154,7 @@ Computer》都變成不同風格的翻唱專輯，像是2006年[雷鬼與](https
 
 ## 曲目
 
-所有歌曲均由[汤姆·约克](https://zh.wikipedia.org/wiki/汤姆·约克 "wikilink")、[强尼·格林伍德](../Page/强尼·格林伍德.md "wikilink")、[埃德·奥布赖恩](https://zh.wikipedia.org/wiki/埃德·奥布赖恩 "wikilink")、[科林·格林伍德與](../Page/科林·格林伍德.md "wikilink")[菲尔·塞尔韦創作](https://zh.wikipedia.org/wiki/菲尔·塞尔韦 "wikilink")。
+所有歌曲均由[汤姆·约克](https://zh.wikipedia.org/wiki/汤姆·约克 "wikilink")、[强尼·格林伍德](../Page/强尼·格林伍德.md "wikilink")、[埃德·奥布赖恩](https://zh.wikipedia.org/wiki/埃德·奥布赖恩 "wikilink")、[科林·格林伍德](../Page/科林·格林伍德.md "wikilink")與[菲尔·塞尔韦創作](https://zh.wikipedia.org/wiki/菲尔·塞尔韦 "wikilink")。
 
 1.  Airbag – 4:44
 2.  [Paranoid

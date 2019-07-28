@@ -1,6 +1,6 @@
 **QtScript**是一個[Qt](../Page/Qt.md "wikilink") 4.3.0及以後版本的腳本引擎。
 
-這個腳本語言是基於[ECMAScript語言](../Page/ECMAScript.md "wikilink")，ECMA-262標準。該函式庫包含引擎，和一個[C++的API作為執行QtScript代碼和創建自定的QObject衍生C](../Page/C++.md "wikilink")++類別，作為QtScript使用。
+這個腳本語言是基於[ECMAScript](../Page/ECMAScript.md "wikilink")語言，ECMA-262標準。該函式庫包含引擎，和一個[C++](../Page/C++.md "wikilink")的API作為執行QtScript代碼和創建自定的QObject衍生C++類別，作為QtScript使用。
 
 [QtScript Binding
 Generator](https://web.archive.org/web/20090417001554/http://labs.trolltech.com/page/Projects/QtScript/Generator)提供Qt

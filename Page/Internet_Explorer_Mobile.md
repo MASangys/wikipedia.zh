@@ -1,5 +1,5 @@
 **Internet Explorer Mobile**（以前稱為**Pocket Internet Explorer**；通常簡稱為**IE
-Mobile**\[1\]）是一款由[微软公司开发基於](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Trident](../Page/Trident_\(排版引擎\).md "wikilink")[排版引擎的](../Page/排版引擎.md "wikilink")[行動瀏覽器](https://zh.wikipedia.org/wiki/行動瀏覽器 "wikilink")，它装载于为[手持式个人计算机开发的](https://zh.wikipedia.org/wiki/手持式个人计算机 "wikilink")[Windows
+Mobile**\[1\]）是一款由[微软公司开发基於](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Trident](../Page/Trident_\(排版引擎\).md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的[行動瀏覽器](https://zh.wikipedia.org/wiki/行動瀏覽器 "wikilink")，它装载于为[手持式个人计算机开发的](https://zh.wikipedia.org/wiki/手持式个人计算机 "wikilink")[Windows
 Phone和](../Page/Windows_Phone.md "wikilink")[Windows
 CE中](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")，与微软的Internet
 Explorer有很多相似之处；然而，舊版本的Pocket Internet
@@ -24,15 +24,15 @@ Mobile。
     Explorer编码衍生出来的，而是尽量的编写得更加精简。随后推出的PIE
     1.1支持[Cookie](../Page/Cookie.md "wikilink")，[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，和[SSL](https://zh.wikipedia.org/wiki/Transport_Layer_Security "wikilink")。
   - 1997年9月，Windows CE 2.0推出的Pocket Internet Explorer
-    2.0增加了许多新的特性：脱机模式，改变图片以适应屏幕和更好的[HTML支持](../Page/HTML.md "wikilink")，包括框架页和表格。
+    2.0增加了许多新的特性：脱机模式，改变图片以适应屏幕和更好的[HTML](../Page/HTML.md "wikilink")支持，包括框架页和表格。
   - 1998年7月，Windows CE 2.10推出的PIE
-    3.0，增加了对[JScript的支持和一些安全协议](../Page/JScript.md "wikilink")。
+    3.0，增加了对[JScript](../Page/JScript.md "wikilink")的支持和一些安全协议。
   - Pocket Internet Explorer
     4.0首次支持[ActiveX](../Page/ActiveX.md "wikilink")，[CSS](../Page/层叠样式表.md "wikilink")，[VBScript](../Page/VBScript.md "wikilink")，并对HTTPS以及高级HTML提供了更好的支持。PIE的Pocket
     PC
-    2002版对[DHTML和](https://zh.wikipedia.org/wiki/DHTML "wikilink")[XML提供了有限的支持](../Page/XML.md "wikilink")，它还能浏览[WAP网站](https://zh.wikipedia.org/wiki/WAP "wikilink")──这是PC版Internet
+    2002版对[DHTML和](https://zh.wikipedia.org/wiki/DHTML "wikilink")[XML](../Page/XML.md "wikilink")提供了有限的支持，它还能浏览[WAP网站](https://zh.wikipedia.org/wiki/WAP "wikilink")──这是PC版Internet
     Explorer所不具有的功能。Internet Explorer
-    6.0增加了对IFrame的支持。现在，PIE是一个比较[多功能的浏览器](https://zh.wikipedia.org/wiki/多功能 "wikilink")，支持[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，[XSLT](../Page/XSLT.md "wikilink")，Cookie，[GIF動畫以及其他一些功能](../Page/GIF.md "wikilink")。
+    6.0增加了对IFrame的支持。现在，PIE是一个比较[多功能的浏览器](https://zh.wikipedia.org/wiki/多功能 "wikilink")，支持[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，[XSLT](../Page/XSLT.md "wikilink")，Cookie，[GIF](../Page/GIF.md "wikilink")動畫以及其他一些功能。
 
 ### Internet Explorer Mobile
 

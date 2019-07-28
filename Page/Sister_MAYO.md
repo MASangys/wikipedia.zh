@@ -1,10 +1,10 @@
 **Sister
-MAYO**（），原名**澤田雅世**，是[日本的女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，主要唱的是動畫及遊戲歌曲。現在她是[Columbia
+MAYO**（），原名**澤田雅世**，是[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")，主要唱的是動畫及遊戲歌曲。現在她是[Columbia
 Music
 Entertainment属下的](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")[Cyber
 Nation
-Network及](https://zh.wikipedia.org/wiki/Cyber_Nation_Network "wikilink")[Project.R成員之一](../Page/Project.R.md "wikilink")，另外她也是原[X
-Japan](../Page/X_Japan.md "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[澤田泰司的妹妹](../Page/澤田泰司.md "wikilink")。
+Network及](https://zh.wikipedia.org/wiki/Cyber_Nation_Network "wikilink")[Project.R](../Page/Project.R.md "wikilink")成員之一，另外她也是原[X
+Japan](../Page/X_Japan.md "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[澤田泰司](../Page/澤田泰司.md "wikilink")的妹妹。
 
 ## 音樂作品
 

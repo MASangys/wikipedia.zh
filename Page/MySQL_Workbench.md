@@ -1,4 +1,4 @@
-**MySQL Workbench** 是一款[数据库设计和建模工具](../Page/数据库.md "wikilink")，专门为
+**MySQL Workbench** 是一款[数据库](../Page/数据库.md "wikilink")设计和建模工具，专门为
 [MySQL](../Page/MySQL.md "wikilink") 设计。它的前身是 FabForce 公司的 DB Designer
 4。
 

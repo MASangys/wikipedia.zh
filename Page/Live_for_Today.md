@@ -1,5 +1,5 @@
 《**Live For
-Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2003年7月22日正式發行。
+Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2003年7月22日正式發行。
 
 ## 專輯簡介
 
@@ -66,7 +66,7 @@ Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 
 ### 歌曲《歲月如歌》
 
-  - 2013年：香港女歌手[許靖韻演唱](../Page/許靖韻.md "wikilink")[英皇娛樂](../Page/英皇娛樂.md "wikilink")[微電影](../Page/微電影.md "wikilink")《歲月如歌》的主題曲。
+  - 2013年：香港女歌手[許靖韻](../Page/許靖韻.md "wikilink")演唱[英皇娛樂](../Page/英皇娛樂.md "wikilink")[微電影](../Page/微電影.md "wikilink")《歲月如歌》的主題曲。
 
 ## 外部連結
 

@@ -1,5 +1,5 @@
 **Dream
-"A"live**是[嵐的第](../Page/嵐.md "wikilink")10枚專輯，第8枚原創專輯。於2008年4月23日發行。唱片公司為[J
+"A"live**是[嵐](../Page/嵐.md "wikilink")的第10枚專輯，第8枚原創專輯。於2008年4月23日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

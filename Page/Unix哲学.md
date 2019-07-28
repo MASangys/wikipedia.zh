@@ -2,13 +2,13 @@
 
 ## McIlroy：A Quarter Century of Unix
 
-[道格拉斯·麥克羅伊是Unix系统上](../Page/道格拉斯·麥克羅伊.md "wikilink")[管道机制的发明者](../Page/管道_\(Unix\).md "wikilink")，也是Unix文化的缔造者之一。他归纳的Unix哲学如下：
+[道格拉斯·麥克羅伊](../Page/道格拉斯·麥克羅伊.md "wikilink")是Unix系统上[管道机制的发明者](../Page/管道_\(Unix\).md "wikilink")，也是Unix文化的缔造者之一。他归纳的Unix哲学如下：
  更加简化的版本是：做一件事，做好它。虽然只有第三条是特指Unix系统的，但Unix开发者们常常同时强调这三个信条。
 
 ## Pike：Notes on Programming in C
 
-[羅勃·派克在他的](../Page/羅勃·派克.md "wikilink")《[Notes on Programming in
-C](http://www.lysator.liu.se/c/pikestyle.html)》中提到了以下格言。虽然这些规则是关于[程序设计的](../Page/程序设计.md "wikilink")，但作为Unix哲学丝毫不为过：
+[羅勃·派克](../Page/羅勃·派克.md "wikilink")在他的《[Notes on Programming in
+C](http://www.lysator.liu.se/c/pikestyle.html)》中提到了以下格言。虽然这些规则是关于[程序设计](../Page/程序设计.md "wikilink")的，但作为Unix哲学丝毫不为过：
 
   - 规则一：你永远不会知道你的程序会在什么地方耗费时间。程序的[瓶颈常常出现在意想不到的地方](https://zh.wikipedia.org/wiki/瓶颈 "wikilink")，因此在你确信找到瓶颈后再动手代码吧。
   - 规则二：测试代码。只有在你详细测试了代码，并且发现一部分代码耗费了绝大部分的运行时间时再对程序作速度优化。
@@ -18,9 +18,9 @@ C](http://www.lysator.liu.se/c/pikestyle.html)》中提到了以下格言。虽�
   - 规则五：数据决定一切。如果选择的数据结构能很好的管理数据，算法部分往往不言自明。记住，数据结构，而非算法，才是编程的关键。
   - 规则六：没有第六条规则。
 
-Pike的第一、二条规则重申了[高德纳的著名格言](../Page/高德纳.md "wikilink")：“过早的优化是一切罪恶的根源。”\[1\]
-Pike的第三、四条规则被[肯·汤普逊改述成](../Page/肯·汤普逊.md "wikilink")：“疑惑不定之时最适合穷举。”事实上，这两条规则也是[KISS原则的具体表现](../Page/KISS原则.md "wikilink")。规则五在之前[Fred
-Brooks的](https://zh.wikipedia.org/wiki/Fred_Brooks "wikilink")[人月神话中也被提及](../Page/人月神话.md "wikilink")。的《》中也有一章阐述了相同的设计哲学。此规则作为“如果你的数据结构很好，那么控制它的算法就无关痛痒了”的例子常常被简化成“简约地写代码，聪明地用数据”。第六条规则当然只是Pike针对[蒙提·派森之小品](../Page/蒙提·派森.md "wikilink")的幽默发挥而已了。
+Pike的第一、二条规则重申了[高德纳](../Page/高德纳.md "wikilink")的著名格言：“过早的优化是一切罪恶的根源。”\[1\]
+Pike的第三、四条规则被[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")改述成：“疑惑不定之时最适合穷举。”事实上，这两条规则也是[KISS原则](../Page/KISS原则.md "wikilink")的具体表现。规则五在之前[Fred
+Brooks的](https://zh.wikipedia.org/wiki/Fred_Brooks "wikilink")[人月神话](../Page/人月神话.md "wikilink")中也被提及。的《》中也有一章阐述了相同的设计哲学。此规则作为“如果你的数据结构很好，那么控制它的算法就无关痛痒了”的例子常常被简化成“简约地写代码，聪明地用数据”。第六条规则当然只是Pike针对[蒙提·派森](../Page/蒙提·派森.md "wikilink")之小品的幽默发挥而已了。
 
 ## Mike Gancarz的《UNIX哲学》
 

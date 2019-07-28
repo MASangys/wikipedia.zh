@@ -1,8 +1,8 @@
 《**假面騎士Decade**》（英譯：-{Kamen Rider
-Decade}-）為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第10部[平成系列作品](../Page/平成.md "wikilink")（忽略橫跨昭和、平成兩個年代播出的《[假面騎士Black
+Decade}-）為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第10部[平成](../Page/平成.md "wikilink")系列作品（忽略橫跨昭和、平成兩個年代播出的《[假面騎士Black
 RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎士Kuuga](../Page/假面騎士空我.md "wikilink")》算起），製作此特攝片的東映為新的主角假面騎士命名為「-{Decade}-」，取其「十年」之意，以紀念此系列踏入第10作。本作從2009年1月25日起於朝日電視台每週日早上8:00－8:30播出。
 
-香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人帝騎}-**》，從2011年11月26日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:30－11:55播出。台灣自2011/12/3起每周六17:00－17:30在卡通頻道播出。首次與不同特攝節目進行跨界合作的節目。\[1\]
+香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人帝騎}-**》，從2011年11月26日起於[翡翠台](../Page/翡翠台.md "wikilink")每週六早上11:30－11:55播出。台灣自2011/12/3起每周六17:00－17:30在卡通頻道播出。首次與不同特攝節目進行跨界合作的節目。\[1\]
 
 ## 本作特色
 
@@ -12,11 +12,11 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
 
 本故事的主題是「 破壞一切**！連繫一切！**」。
 
-這是一部「關於假面騎士的假面騎士」，也就是一部[後設假面騎士](../Page/後設.md "wikilink")。
+這是一部「關於假面騎士的假面騎士」，也就是一部[後設](../Page/後設.md "wikilink")假面騎士。
 
-繼[假面騎士龍騎和](../Page/假面騎士龍騎.md "wikilink")[假面騎士劍後第](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")3套以卡片為主題的假面騎士。
+繼[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")和[假面騎士劍後第](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")3套以卡片為主題的假面騎士。
 
-本作的播放時間未滿一年(全31集)，是歷代平成假面騎士中播放集數最少的作品。
+本作的播放時間未滿一年(全31集)，是歷代平成假面騎士中播放集數最少的作品，原因是要與超級戰隊首播時間錯開。
 
 ## 劇情簡介
 
@@ -185,7 +185,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
 
 本作的主要物品，亦是Decade和Diend變身和戰鬥的主要工具。
 
-繼[假面騎士龍騎的降臨卡和](../Page/假面騎士龍騎.md "wikilink")[假面騎士劍的覺醒卡後再度出現大量同一系列的卡片](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")，但卡片排列則類似假面騎士龍騎的降臨卡。
+繼[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")的降臨卡和[假面騎士劍的覺醒卡後再度出現大量同一系列的卡片](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")，但卡片排列則類似假面騎士龍騎的降臨卡。
 
 ### Decade
 
@@ -842,7 +842,7 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 </tr>
 <tr class="even">
 <td><p><strong>Blade Form<br />
-<a href="../Page/劍.md" title="wikilink">劍型態</a></strong></p></td>
+<a href="../Page/劍.md" title="wikilink">劍</a>型態</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>AgitΩ Form<br />
@@ -1271,7 +1271,7 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 <!-- end list -->
 
   -
-    沒有假面騎士存在，[侍戰隊真劍者的世界](../Page/侍戰隊真劍者.md "wikilink")。
+    沒有假面騎士存在，[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")的世界。
 
 <!-- end list -->
 
@@ -1346,7 +1346,7 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 <!-- end list -->
 
   -
-    [假面騎士鎧武與假面骑士Fifteen戰鬥的世界](../Page/假面騎士鎧武.md "wikilink")，亦為〈[平成騎士對昭和騎士
+    [假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")與假面骑士Fifteen戰鬥的世界，亦為〈[平成騎士對昭和騎士
     假面騎士大戰feat.超級戰隊](../Page/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊.md "wikilink")〉故事中的主要世界。
 
 <!-- end list -->

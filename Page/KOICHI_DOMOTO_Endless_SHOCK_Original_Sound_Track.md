@@ -1,13 +1,13 @@
 《**KOICHI DOMOTO Endless SHOCK Original Sound
 Track**》為2006年1月11日發售、[音樂劇](../Page/音樂劇.md "wikilink")《[Endless
-SHOCK](https://zh.wikipedia.org/wiki/Endless_SHOCK "wikilink")》的原聲帶。由[傑尼斯娛樂發行](../Page/傑尼斯娛樂.md "wikilink")。
+SHOCK](https://zh.wikipedia.org/wiki/Endless_SHOCK "wikilink")》的原聲帶。由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")發行。
 
 ## 解說
 
-這是從[堂本光一擔綱團長](../Page/堂本光一.md "wikilink")、主演的音樂劇《SHOCK》系列中，收錄了2005年公演《Endless
+這是從[堂本光一](../Page/堂本光一.md "wikilink")擔綱團長、主演的音樂劇《SHOCK》系列中，收錄了2005年公演《Endless
 SHOCK》中使用的樂曲而成的原聲帶。雖說是原聲帶，「為了讓沒看過公演的人也能享受、當做獨立的CD音樂來聆聽，以此為前提思考選曲或編曲」（本人談）。雖然是以堂本光一的名義發行，特別是純音樂的樂曲等等，本人沒有參與製作的曲子也收錄其中。有聲樂曲則是（也包含在公演中其他演員歌唱的部份）全由堂本光一擔任主唱。
 
-獲得Oricon排行榜第一名，音樂劇原聲帶在該排行榜獲得第一名則為史無前例。並且在2006年度日本[金唱片大獎獲得原聲帶獎](../Page/金唱片.md "wikilink")。
+獲得Oricon排行榜第一名，音樂劇原聲帶在該排行榜獲得第一名則為史無前例。並且在2006年度日本[金唱片](../Page/金唱片.md "wikilink")大獎獲得原聲帶獎。
 
 初回版中附有數位寫真書和同年春天發行的DVD《Endless SHOCK》的12分鐘預告篇，普通版則收錄了追加曲。
 
@@ -42,7 +42,7 @@ SHOCK》中使用的樂曲而成的原聲帶。雖說是原聲帶，「為了讓
     新美香　作曲：堂本光一　編曲：[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink"),
     [吉岡たく](https://zh.wikipedia.org/wiki/吉岡たく "wikilink")）
       -
-        在公演中第2部分是由飾演敵人的（[今井翼](../Page/今井翼.md "wikilink")、[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")、[生田斗真等人](../Page/生田斗真.md "wikilink")）歌唱，但在本作則是由堂本光一單人演唱。在2006年堂本光一個人演唱會中也呈現了[MA成員演唱的版本](../Page/Musical_Academy.md "wikilink")。
+        在公演中第2部分是由飾演敵人的（[今井翼](../Page/今井翼.md "wikilink")、[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")等人）歌唱，但在本作則是由堂本光一單人演唱。在2006年堂本光一個人演唱會中也呈現了[MA成員演唱的版本](../Page/Musical_Academy.md "wikilink")。
 13. **Flying2**（INST）　3'00"
     （作曲・編曲：佐藤泰將）
 14. **面具**（INST）　3'07"

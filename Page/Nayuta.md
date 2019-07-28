@@ -1,4 +1,4 @@
-**nayuta**（）是日本的同人[歌手和](../Page/歌手.md "wikilink")[聲優](../Page/聲優.md "wikilink")，所屬同人組織包括「[EastNewSound](http://e-ns.net/)」與「[LC:AZE](http://r-lmina.sakura.ne.jp/)」，曾經多次改變名義，直至2009年4月11日開始統一（詳細請見後述「來歷」部分）。
+**nayuta**（）是日本的同人[歌手](../Page/歌手.md "wikilink")和[聲優](../Page/聲優.md "wikilink")，所屬同人組織包括「[EastNewSound](http://e-ns.net/)」與「[LC:AZE](http://r-lmina.sakura.ne.jp/)」，曾經多次改變名義，直至2009年4月11日開始統一（詳細請見後述「來歷」部分）。
 
 ## 簡介
 

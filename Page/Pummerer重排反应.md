@@ -1,14 +1,14 @@
 **Pummerer重排反应**（Pummerer
-rearrangement），是用[乙酸酐将](../Page/乙酸酐.md "wikilink")[亚砜](../Page/亚砜.md "wikilink")[重排为α](https://zh.wikipedia.org/wiki/重排 "wikilink")-[酰氧基](https://zh.wikipedia.org/wiki/酰氧基 "wikilink")[硫醚的化学反应](../Page/硫醚.md "wikilink")。
+rearrangement），是用[乙酸酐](../Page/乙酸酐.md "wikilink")将[亚砜](../Page/亚砜.md "wikilink")[重排为α](https://zh.wikipedia.org/wiki/重排 "wikilink")-[酰氧基](https://zh.wikipedia.org/wiki/酰氧基 "wikilink")[硫醚](../Page/硫醚.md "wikilink")的化学反应。
  反应中硫原子被还原，邻位碳被氧化。
 
 [Pummerer_Rearrangement_Scheme.png](https://zh.wikipedia.org/wiki/File:Pummerer_Rearrangement_Scheme.png "fig:Pummerer_Rearrangement_Scheme.png")
 
 反应综述有：
 
-用α-酰基亚砜作原料，[四氯化钛或](../Page/四氯化钛.md "wikilink")[四氯化锡等](https://zh.wikipedia.org/wiki/四氯化锡 "wikilink")[路易斯酸催化](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")，可以使反应在0℃的低温下发生。
+用α-酰基亚砜作原料，[四氯化钛](../Page/四氯化钛.md "wikilink")或[四氯化锡等](https://zh.wikipedia.org/wiki/四氯化锡 "wikilink")[路易斯酸催化](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")，可以使反应在0℃的低温下发生。
 
-用[氯气或](https://zh.wikipedia.org/wiki/氯气 "wikilink")[NCS](https://zh.wikipedia.org/wiki/NCS "wikilink")（[*N*-氯代琥珀酰亚胺](https://zh.wikipedia.org/wiki/N-氯代琥珀酰亚胺 "wikilink")）对[硫醚进行氯代](../Page/硫醚.md "wikilink")，首先生成氯代[硫鎓离子](https://zh.wikipedia.org/wiki/硫鎓 "wikilink")，然后硫
+用[氯气或](https://zh.wikipedia.org/wiki/氯气 "wikilink")[NCS](https://zh.wikipedia.org/wiki/NCS "wikilink")（[*N*-氯代琥珀酰亚胺](https://zh.wikipedia.org/wiki/N-氯代琥珀酰亚胺 "wikilink")）对[硫醚](../Page/硫醚.md "wikilink")进行氯代，首先生成氯代[硫鎓离子](https://zh.wikipedia.org/wiki/硫鎓 "wikilink")，然后硫
 α-位的氢原子被消除，生成一个[硫叶立德](https://zh.wikipedia.org/wiki/硫叶立德 "wikilink")。这个硫叶立德再消除硫上的氯离子，得到一个新的硫鎓离子，这个硫鎓离子最后与一个氯离子结合，产生
 α-氯硫醚。反应的总体结果是原来在硫上的氯原子的转移。
 
@@ -24,14 +24,14 @@ rearrangement），是用[乙酸酐将](../Page/乙酸酐.md "wikilink")[亚砜]
 
 [Pummerer_Rearrangement_Mechanism.png](https://zh.wikipedia.org/wiki/File:Pummerer_Rearrangement_Mechanism.png "fig:Pummerer_Rearrangement_Mechanism.png")
 
-其他[羧酸酐](https://zh.wikipedia.org/wiki/羧酸酐 "wikilink")、[酰氯](../Page/酰氯.md "wikilink")、[异氰酸酯](../Page/异氰酸酯.md "wikilink")、无机酸或无机卤化物（[四氯化硅](../Page/四氯化硅.md "wikilink")、[三氯化磷](../Page/三氯化磷.md "wikilink")、[硫酰氯等](../Page/硫酰氯.md "wikilink")）也能使反应发生，只是产物稍有不同。但二元羧酸的酸酐不能使亚砜发生重排。
+其他[羧酸酐](https://zh.wikipedia.org/wiki/羧酸酐 "wikilink")、[酰氯](../Page/酰氯.md "wikilink")、[异氰酸酯](../Page/异氰酸酯.md "wikilink")、无机酸或无机卤化物（[四氯化硅](../Page/四氯化硅.md "wikilink")、[三氯化磷](../Page/三氯化磷.md "wikilink")、[硫酰氯](../Page/硫酰氯.md "wikilink")等）也能使反应发生，只是产物稍有不同。但二元羧酸的酸酐不能使亚砜发生重排。
 
 产物 5 经水解得到[醛](../Page/醛.md "wikilink")[酮](../Page/酮.md "wikilink")。
 
 ## 其他版本
 
 反应中的中间体硫鎓离子 4
-可以被分子内或分子间的[亲核试剂所捕获](https://zh.wikipedia.org/wiki/亲核试剂 "wikilink")，生成不同的产物。例如，用[硫酰氯捕获该离子](../Page/硫酰氯.md "wikilink")，得到
+可以被分子内或分子间的[亲核试剂所捕获](https://zh.wikipedia.org/wiki/亲核试剂 "wikilink")，生成不同的产物。例如，用[硫酰氯](../Page/硫酰氯.md "wikilink")捕获该离子，得到
 α-氯硫醚：
 
 [Pummerer_Ex_ThionylChloride.png](https://zh.wikipedia.org/wiki/File:Pummerer_Ex_ThionylChloride.png "fig:Pummerer_Ex_ThionylChloride.png")
@@ -40,7 +40,7 @@ rearrangement），是用[乙酸酐将](../Page/乙酸酐.md "wikilink")[亚砜]
 
 [Pummerer_Ex_Veratrole.png](https://zh.wikipedia.org/wiki/File:Pummerer_Ex_Veratrole.png "fig:Pummerer_Ex_Veratrole.png")
 
-如果用分子内的亲核试剂（如[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")）来捕获中间体，那么在产物中新形成一个环，这个方法可用于[杂环化合物的制取](../Page/杂环化合物.md "wikilink")。
+如果用分子内的亲核试剂（如[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")）来捕获中间体，那么在产物中新形成一个环，这个方法可用于[杂环化合物](../Page/杂环化合物.md "wikilink")的制取。
 
 ### Pummerer断裂
 

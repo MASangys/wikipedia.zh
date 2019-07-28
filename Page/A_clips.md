@@ -1,9 +1,9 @@
 《**A
-clips**》（A片）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步發行的第二張影像作品](../Page/濱崎步.md "wikilink")，2000年2月23日於日本發售。本作僅發行錄影帶（[VHS](../Page/VHS.md "wikilink")）版本。
+clips**》（A片）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的第二張影像作品，2000年2月23日於日本發售。本作僅發行錄影帶（[VHS](../Page/VHS.md "wikilink")）版本。
 
 ## 說明
 
-  - 本作收錄範圍為以第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》為中心的[音樂錄影帶與廣告](../Page/音樂錄影帶.md "wikilink")。
+  - 本作收錄範圍為以第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》為中心的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與廣告。
 
 ## 收錄內容
 

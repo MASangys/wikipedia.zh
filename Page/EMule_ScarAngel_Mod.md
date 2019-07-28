@@ -7,7 +7,7 @@ Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
 
 ## 历史
 
-[德国](../Page/德国.md "wikilink")[程序员Stulle于](../Page/程序员.md "wikilink")2005年4月2日在[SourceForge上发布了ScarAngel](../Page/SourceForge.md "wikilink")
+[德国](../Page/德国.md "wikilink")[程序员](../Page/程序员.md "wikilink")Stulle于2005年4月2日在[SourceForge](../Page/SourceForge.md "wikilink")上发布了ScarAngel
 1.0版。
 
 ## 功能

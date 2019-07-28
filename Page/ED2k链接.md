@@ -2,7 +2,7 @@
 ）是一种超链接，用于指示在[eDonkey网络上存储的文件](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")。包括[eDonkey2000](https://zh.wikipedia.org/wiki/eDonkey2000 "wikilink")、[eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[aMule等在内的许多使用了eDonkey文件共享协议的客户端软件](https://zh.wikipedia.org/wiki/aMule "wikilink")，都可以用eD2k链接来管理网络上的文件。
 
 浏览器可以识别eD2k链接，并递交到eMule、eDonkey2000或其他的eD2k软件中进行传输。eD2k链接是最早被引入P2P文件网络的链接之一。[Magnet链接现在也与eD](https://zh.wikipedia.org/wiki/Magnet链接 "wikilink")2k链接类似，但Magnet链接不仅限于[eD2k
-Hash](https://zh.wikipedia.org/wiki/#eD2k_Hash "wikilink")，而是可以使用其他的[Hash](https://zh.wikipedia.org/wiki/散列函数 "wikilink")，诸如[SHA或](https://zh.wikipedia.org/wiki/SHA_家族 "wikilink")[MD5等](../Page/MD5.md "wikilink")。
+Hash](https://zh.wikipedia.org/wiki/#eD2k_Hash "wikilink")，而是可以使用其他的[Hash](https://zh.wikipedia.org/wiki/散列函数 "wikilink")，诸如[SHA或](https://zh.wikipedia.org/wiki/SHA_家族 "wikilink")[MD5](../Page/MD5.md "wikilink")等。
 
 这些Hash码，主要用于确保相同的文件在网络上具有的相同的唯一标识，即使这些文件储存在不同的地方或拥有不同的名字。它通过使用该文件的Hash函数（[散列函数](https://zh.wikipedia.org/wiki/散列函数 "wikilink")）来计算其[校验和](https://zh.wikipedia.org/wiki/校验和 "wikilink")。
 

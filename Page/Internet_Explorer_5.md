@@ -1,6 +1,6 @@
 **Microsoft Internet Explorer
 5**（简称**IE5**）是[微軟所開發的一套使用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，它是[Internet
-Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個軟體於1999年3月首次發行適用於[Windows的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")。在其之後也曾發行過適用於[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[HP-UX等作業系統的版本](../Page/HP-UX.md "wikilink")。
+Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個軟體於1999年3月首次發行適用於[Windows的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")。在其之後也曾發行過適用於[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")等作業系統的版本。
 
 這個版本同於其前身[Internet Explorer
 4](../Page/Internet_Explorer_4.md "wikilink")，也是第一次[瀏覽器大戰中很重要的一個指標](https://zh.wikipedia.org/wiki/瀏覽器大戰 "wikilink")。雖然它在2001年8月時被[Internet

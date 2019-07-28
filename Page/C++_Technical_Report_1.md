@@ -1,13 +1,13 @@
 **C++ Technical Report 1
 (TR1)**[（英文）是](https://zh.wikipedia.org/wiki/:en:C++_Technical_Report_1 "wikilink")**ISO/IEC
 TR 19768, C++ Library
-Extensions（函式庫擴充）**的一般名稱。TR1是一份文件，內容提出了對[C++標準函式庫的追加項目](../Page/C++標準函式庫.md "wikilink")。這些追加項目包括了[正则表达式](../Page/正则表达式.md "wikilink")、[智能指针](../Page/智能指针.md "wikilink")、[哈希表](../Page/哈希表.md "wikilink")、[随机数生成器等](https://zh.wikipedia.org/wiki/随机数生成器 "wikilink")。TR1自己並非標準，他是一份草稿文件。然而他所提出的項目大多数已成為下次的官方標準（C++11）的一部分。這份文件的目標在於「為擴充的C++標準函式庫建立更為廣泛的現成實作品」。
+Extensions（函式庫擴充）**的一般名稱。TR1是一份文件，內容提出了對[C++標準函式庫](../Page/C++標準函式庫.md "wikilink")的追加項目。這些追加項目包括了[正则表达式](../Page/正则表达式.md "wikilink")、[智能指针](../Page/智能指针.md "wikilink")、[哈希表](../Page/哈希表.md "wikilink")、[随机数生成器等](https://zh.wikipedia.org/wiki/随机数生成器 "wikilink")。TR1自己並非標準，他是一份草稿文件。然而他所提出的項目大多数已成為下次的官方標準（C++11）的一部分。這份文件的目標在於「為擴充的C++標準函式庫建立更為廣泛的現成實作品」。
 
 ## 概要
 
-[編譯器並不需要保證包含TR](../Page/編譯器.md "wikilink")1的組件，因為TR1并非官方标准的一部分。順帶一提，[Boost提供了TR](../Page/Boost_C++_Libraries.md "wikilink")1大部分的實作，數個編譯器／[函式庫開發商也已提供了各自的實作版本](../Page/函式庫.md "wikilink")。
+[編譯器](../Page/編譯器.md "wikilink")並不需要保證包含TR1的組件，因為TR1并非官方标准的一部分。順帶一提，[Boost提供了TR](../Page/Boost_C++_Libraries.md "wikilink")1大部分的實作，數個編譯器／[函式庫](../Page/函式庫.md "wikilink")開發商也已提供了各自的實作版本。
 
-TR1並不代表下一屆標準的全部；舉例而言，下一屆的標準[C++11包含了](../Page/C++11.md "wikilink")[线程的支援](../Page/线程.md "wikilink")。
+TR1並不代表下一屆標準的全部；舉例而言，下一屆的標準[C++11](../Page/C++11.md "wikilink")包含了[线程](../Page/线程.md "wikilink")的支援。
 
 新的組件被放置在`std::tr1`的[命名空間](https://zh.wikipedia.org/wiki/命名空間 "wikilink")（*[namespace](https://zh.wikipedia.org/wiki/:en:namespace "wikilink")*）裡，以和現在的標準函式庫做區別。
 
@@ -20,7 +20,7 @@ TR1包含以下組件：
 #### 引用包装器(Reference Wrapper)
 
   - 來自Boost.Ref <sup>[1](http://www.boost.org/doc/html/ref.html)</sup>
-  - 在<functional> [头文件中增加了](../Page/头文件.md "wikilink") -
+  - 在<functional> [头文件](../Page/头文件.md "wikilink")中增加了 -
     `cref`、`ref`、`reference_wrapper`
   - 可以对算法（*algorithms*）或仿函数（*function
     objects*）传递[引用](../Page/引用.md "wikilink")（*[references](https://zh.wikipedia.org/wiki/:en:Reference#Computer_science "wikilink")*），而不是传递副本。
@@ -178,7 +178,7 @@ K_\nu(x) & = \textstyle\frac{\pi}{2} i^{\nu+1} \big(J_\nu(ix) + i N_\nu(ix)\big)
 
   - 新<unordered_set>、<unordered_map>標頭檔
   - 完全是新的實作，不衍生自既有之程式庫。與既有之程式庫[API並不完全相容](https://zh.wikipedia.org/wiki/API "wikilink")
-  - 就如同所有的[哈希表提供常數時間的元素查找](../Page/哈希表.md "wikilink")，但最壞情況查找時間與容器的大小呈線性關係。
+  - 就如同所有的[哈希表](../Page/哈希表.md "wikilink")提供常數時間的元素查找，但最壞情況查找時間與容器的大小呈線性關係。
 
 ### 正規表示式(Regular Expressions)
 
@@ -189,7 +189,7 @@ K_\nu(x) & = \textstyle\frac{\pi}{2} i^{\nu+1} \big(J_\nu(ix) + i N_\nu(ix)\big)
 
 ### C的兼容性
 
-[C++被設計成與](../Page/C++.md "wikilink")[C語言兼容](https://zh.wikipedia.org/wiki/C語言 "wikilink")，但由於不同的標準，C++並不是C的嚴格超集合。TR1試圖調和這些差異，透過對各種標頭檔，如<complex>、<locale>、<cmath>等進行擴充。
+[C++](../Page/C++.md "wikilink")被設計成與[C語言兼容](https://zh.wikipedia.org/wiki/C語言 "wikilink")，但由於不同的標準，C++並不是C的嚴格超集合。TR1試圖調和這些差異，透過對各種標頭檔，如<complex>、<locale>、<cmath>等進行擴充。
 這些改變幫助C++能夠與[C99版本的C標準更為一致](https://zh.wikipedia.org/wiki/C99 "wikilink")（並非所有C99都包含於TR1）。
 
 ## 關聯項目

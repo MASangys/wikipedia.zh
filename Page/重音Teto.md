@@ -1,9 +1,9 @@
 [Kasane_Teto.png](https://zh.wikipedia.org/wiki/File:Kasane_Teto.png "fig:Kasane_Teto.png")
-**重音Teto**（，此處「」為重疊之意，對應漢語音-{zh-hans:chóng;zh-hk:chóng;zh-tw:ㄔㄨㄥˊ;}-）是在2008年4月1日[愚人節前夕](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，由匿名留言板[2ch發起](https://zh.wikipedia.org/wiki/2ch "wikilink")，用作捉弄人的[虛擬偶像](https://zh.wikipedia.org/wiki/虛擬偶像 "wikilink")。後來有人以此[角色為基調](../Page/角色.md "wikilink")，將其製作成[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[UTAU的聲音資料庫](https://zh.wikipedia.org/wiki/UTAU "wikilink")。其後，由她的音源調降音階後衍生的[性轉換角色](https://zh.wikipedia.org/wiki/性轉換 "wikilink")也被廣泛使用。
+**重音Teto**（，此處「」為重疊之意，對應漢語音-{zh-hans:chóng;zh-hk:chóng;zh-tw:ㄔㄨㄥˊ;}-）是在2008年4月1日[愚人節前夕](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，由匿名留言板[2ch發起](https://zh.wikipedia.org/wiki/2ch "wikilink")，用作捉弄人的[虛擬偶像](https://zh.wikipedia.org/wiki/虛擬偶像 "wikilink")。後來有人以此[角色](../Page/角色.md "wikilink")為基調，將其製作成[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[UTAU的聲音資料庫](https://zh.wikipedia.org/wiki/UTAU "wikilink")。其後，由她的音源調降音階後衍生的[性轉換角色](https://zh.wikipedia.org/wiki/性轉換 "wikilink")也被廣泛使用。
 
 ## 概要
 
-重音Teto的音源為小山乃舞世，與桃音、唄音合稱UTAU三人娘，現在是UTAU中的最高人氣歌手，擔任UTAU招牌娘，在日本[Niconico動畫影音網站](../Page/Niconico動畫.md "wikilink")，UTAU相關動畫約有10萬，其中1/4以上是重音Teto的相關影片，也是目前使用UTAU的虛擬歌手唯二有作品在Niconico動畫達成播放數一百萬的百萬傳說曲的歌手，其中一首
+重音Teto的音源為小山乃舞世，與桃音、唄音合稱UTAU三人娘，現在是UTAU中的最高人氣歌手，擔任UTAU招牌娘，在日本[Niconico動畫](../Page/Niconico動畫.md "wikilink")影音網站，UTAU相關動畫約有10萬，其中1/4以上是重音Teto的相關影片，也是目前使用UTAU的虛擬歌手唯二有作品在Niconico動畫達成播放數一百萬的百萬傳說曲的歌手，其中一首
 "伊什的口袋怪物 你可以這麼說！(イッシュのポケモン　言えるのか！)"是與其他Vocaloid歌手合唱達成傳說入\[1\]。
 
 ## 人物設定
@@ -46,11 +46,11 @@
     -Project DIVA-
     2nd』中，作為遊戲的兼容角色，可以用DLC模組方式下載重音Teto在遊戲中使用。在第四個項目符號『初音ミク
     -Project DIVA- F』中，於2012年11月6日發布DLC重音Teto模組。
-  - 重音Teto除了UTAU音源之外，由[初音未來的Crypton會社於](../Page/初音未來.md "wikilink")2017製作了重音Teto的[Vocaloid音源](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，但未公開販售，並以重音Teto
+  - 重音Teto除了UTAU音源之外，由[初音未來](../Page/初音未來.md "wikilink")的Crypton會社於2017製作了重音Teto的[Vocaloid音源](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，但未公開販售，並以重音Teto
     Vocaloid音源、UTAU音源和小山乃音源，合併使用在Niconico超會議2017的超歌舞伎花街詞合鏡上，劇目中，重音Teto擔任仲居重音此一角色，與初音未來是劇中唯二的虛擬偶像，劇目主題曲使用重音Teto的知名歌曲吉原哀歌。
-  - Crypton會社於[手塚治虫誕生](../Page/手塚治虫.md "wikilink")90週年及富田誕辰85週年，於2017年9月6日推出公式紀念CD『初音ミク
+  - Crypton會社於[手塚治虫](../Page/手塚治虫.md "wikilink")誕生90週年及富田誕辰85週年，於2017年9月6日推出公式紀念CD『初音ミク
     Sings
-    “手塚治虫と冨田勲の音楽を生演奏で”』，結合Vocaloid與UTAU兩大領域第一歌姬初音未來、重音Teto及真人聲優[前田玲奈共同歌唱手塚治虫動畫歌曲](../Page/前田玲奈.md "wikilink")。
+    “手塚治虫と冨田勲の音楽を生演奏で”』，結合Vocaloid與UTAU兩大領域第一歌姬初音未來、重音Teto及真人聲優[前田玲奈](../Page/前田玲奈.md "wikilink")共同歌唱手塚治虫動畫歌曲。
   - Crypton會社協助重音Teto申請商標著作權，並於2018年4月6日完成商標出願登録。
   - 為慶祝重音teto
     10周年，重音Teto生涯第一次個人演唱會『TETOFES』，將於10周年記念的『Teto之日』2018年10月7日灄谷DAIA開場。
@@ -67,7 +67,7 @@
 | [](http://www.nicovideo.jp/watch/sm19053765)                      | 生命苦短戀愛吧少女       | デスおはぎ                                                     | 2012年10月6日  | UTAU唯七的傳說曲，截至2019年2月22日已有約122萬人觀看，重音テト第三首傳說曲。動畫PV是音源小山乃舞世親手繪製，ゆらほにゃP調聲，風格輕快的電子曲，訴說人生成長間的變化與無奈。                                                             |
 | [](http://www.nicovideo.jp/watch/sm19314286)                      | ODDS & ENDS     | ryo                                                       | 2012年11月9日  | UTAU唯七的傳說曲，截至2019年2月22日已有約116萬人觀看，重音テト第四首傳說曲。原作者是ryo，UTAU著名P主cillia改編為重音テト版本，號稱非常強大的一首翻唱。                                                                  |
 | [](http://www.nicovideo.jp/watch/sm13004628)                      | 伊什的口袋怪物 你可以這麼說！ | 重音テト的Fパート由生㌔P製作                                           | 2012年10月12日 | UTAU唯七的傳說曲，截至2019年2月22日已有約106萬人觀看，重音テト第五首傳說曲。重音テト擔任壓軸與其他VOCALOID歌手合唱，介紹口袋怪物的歌曲。                                                                            |
-| [](http://www.nicovideo.jp/watch/sm4424188)                       | 噓之歌姬（謊言歌姬）      | [mothy](https://zh.wikipedia.org/wiki/mothy "wikilink")（） | 2008年8月27日  | UTAU殿堂曲，截至2019年2月22日已有約83萬人觀看。其音樂是將著名的[惡之系列改編](../Page/惡之系列.md "wikilink")，原作者是[mothy](https://zh.wikipedia.org/wiki/mothy "wikilink")（），重音テト版本上傳者為telmin。 |
+| [](http://www.nicovideo.jp/watch/sm4424188)                       | 噓之歌姬（謊言歌姬）      | [mothy](https://zh.wikipedia.org/wiki/mothy "wikilink")（） | 2008年8月27日  | UTAU殿堂曲，截至2019年2月22日已有約83萬人觀看。其音樂是將著名的[惡之系列](../Page/惡之系列.md "wikilink")改編，原作者是[mothy](https://zh.wikipedia.org/wiki/mothy "wikilink")（），重音テト版本上傳者為telmin。 |
 | [](http://www.nicovideo.jp/watch/nm3611741)                       | 有耳朵的機器人之歌       | 耳ロボP                                                      | 2008年6月10日  | UTAU殿堂曲，截至2019年2月22日已有約39萬人觀看，重音テト第一首殿堂原曲。                                                                                                                 |
 | [](http://www.nicovideo.jp/watch/sm22543674)                      | 火焰之心            | デスおはぎ                                                     | 2013年12月27日 | UTAU殿堂曲，截至2019年2月22日已有約30萬人觀看，和UTAU另一名虛擬歌姬波音リツ合唱，熱血的搖滾曲。                                                                                                   |
 | [](http://www.nicovideo.jp/watch/sm7349780)                       | 奇蹟              | ベビタスP                                                     | 2009年6月15日  | UTAU殿堂曲，截至2019年2月22日已有約26萬人觀看，重音テト跨越難關、浴火重生由噓之歌姬成為奇蹟歌姬，感人的歌曲。                                                                                              |

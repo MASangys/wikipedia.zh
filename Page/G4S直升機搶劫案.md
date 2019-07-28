@@ -2,7 +2,7 @@
     <small>本文所有時間均為瑞典當地使用的[歐洲東部時間](https://zh.wikipedia.org/wiki/歐洲東部時間 "wikilink")</small>
 
 [G4S_Västberga_2009.jpg](https://zh.wikipedia.org/wiki/File:G4S_Västberga_2009.jpg "fig:G4S_Västberga_2009.jpg")
-**G4S直升機搶劫案**發生於2009年9月23日早上，[瑞典](../Page/瑞典.md "wikilink")[斯德哥爾摩南部韋斯特貝亞](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")（）的[G4S現金庫被劫](../Page/G4S.md "wikilink")\[1\]。過程中，劫匪利用了[貝爾206直升機降落在G](https://zh.wikipedia.org/wiki/貝爾206直升機 "wikilink")4S大樓的天台\[2\]。由於警方基地懷疑放置了炸彈，故無法以直升機追捕劫匪\[3\]。此案是瑞典歷史上首宗以直升機進行搶劫的個案\[4\]。
+**G4S直升機搶劫案**發生於2009年9月23日早上，[瑞典](../Page/瑞典.md "wikilink")[斯德哥爾摩南部韋斯特貝亞](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")（）的[G4S](../Page/G4S.md "wikilink")現金庫被劫\[1\]。過程中，劫匪利用了[貝爾206直升機降落在G](https://zh.wikipedia.org/wiki/貝爾206直升機 "wikilink")4S大樓的天台\[2\]。由於警方基地懷疑放置了炸彈，故無法以直升機追捕劫匪\[3\]。此案是瑞典歷史上首宗以直升機進行搶劫的個案\[4\]。
 
 ## 過程
 
@@ -18,7 +18,7 @@
 
 ## 追捕匪徒
 
-  - G4S宣布提供7百萬[瑞典克朗的懸紅](../Page/瑞典克朗.md "wikilink")，獎賞成功協助逮捕匪徒或取回現金的人\[12\]
+  - G4S宣布提供7百萬[瑞典克朗](../Page/瑞典克朗.md "wikilink")的懸紅，獎賞成功協助逮捕匪徒或取回現金的人\[12\]
     。
   - 9月27日，警方拘補了六名懷疑與案件有關的人。\[13\]
   - [塞爾維亞內政部長](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")[伊維察·達契奇](https://zh.wikipedia.org/wiki/伊維察·達契奇 "wikilink")（）稱，該國警方在劫案前已通知瑞典警方，前特種警察部隊「[紅色貝雷帽](https://zh.wikipedia.org/wiki/紅色貝雷帽 "wikilink")」成員計劃劫案\[14\]

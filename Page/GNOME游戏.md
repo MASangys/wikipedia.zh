@@ -1,4 +1,4 @@
-**GNOME游戏**GNOME游戏''''''是16个游戏集合，为[GNOME桌面环境设计](../Page/GNOME.md "wikilink")，本着
+**GNOME游戏**GNOME游戏''''''是16个游戏集合，为[GNOME](../Page/GNOME.md "wikilink")桌面环境设计，本着
 "五分钟" 游戏理念，涉及多种风格类别，支持[GGZ Gaming
 Zone](../Page/GGZ_Gaming_Zone.md "wikilink")。
 

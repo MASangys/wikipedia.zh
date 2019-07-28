@@ -1,10 +1,10 @@
 **Hammick反应**（Hammick reaction），以英国化学家 Dalziel Hammick 的名字命名。
 
-在[羰基化合物存在下](https://zh.wikipedia.org/wiki/羰基化合物 "wikilink")，α-[吡啶甲酸及其类似物受热转变为](https://zh.wikipedia.org/wiki/吡啶甲酸 "wikilink")2-[吡啶基](../Page/吡啶.md "wikilink")[原醇](https://zh.wikipedia.org/wiki/原醇 "wikilink")。\[1\]\[2\]\[3\]
+在[羰基化合物存在下](https://zh.wikipedia.org/wiki/羰基化合物 "wikilink")，α-[吡啶甲酸及其类似物受热转变为](https://zh.wikipedia.org/wiki/吡啶甲酸 "wikilink")2-[吡啶](../Page/吡啶.md "wikilink")基[原醇](https://zh.wikipedia.org/wiki/原醇 "wikilink")。\[1\]\[2\]\[3\]
 
 [Hammick_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Hammick_Reaction_Scheme.png "fig:Hammick_Reaction_Scheme.png")
 
-用[对异丙基甲苯作溶剂可使反应产率得到提高](../Page/对异丙基甲苯.md "wikilink")。\[4\]
+用[对异丙基甲苯](../Page/对异丙基甲苯.md "wikilink")作溶剂可使反应产率得到提高。\[4\]
 
 ## 反应机理
 

@@ -3,7 +3,7 @@
 [LCD_TV_與_LED_TV比較2_小.jpg](https://zh.wikipedia.org/wiki/File:LCD_TV_與_LED_TV比較2_小.jpg "fig:LCD_TV_與_LED_TV比較2_小.jpg")
 
 **LED背光液晶顯示電視**（LED-backlit LCD
-television），是使用[發光二極體](https://zh.wikipedia.org/wiki/發光二極體 "wikilink")（LED）作為[背光源的](../Page/背光.md "wikilink")[液晶顯示電視](https://zh.wikipedia.org/wiki/液晶顯示電視 "wikilink")。部分电视机生产廠商，如[三星](../Page/三星電子.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[飞利浦](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")、[乐金及](https://zh.wikipedia.org/wiki/乐金 "wikilink")[索尼等将其稱为](../Page/索尼.md "wikilink")**LED電視**，但此並不是指使用[發光二極管作圖像顯示的](../Page/发光二极管显示器.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")。
+television），是使用[發光二極體](https://zh.wikipedia.org/wiki/發光二極體 "wikilink")（LED）作為[背光](../Page/背光.md "wikilink")源的[液晶顯示電視](https://zh.wikipedia.org/wiki/液晶顯示電視 "wikilink")。部分电视机生产廠商，如[三星](../Page/三星電子.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[飞利浦](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")、[乐金及](https://zh.wikipedia.org/wiki/乐金 "wikilink")[索尼](../Page/索尼.md "wikilink")等将其稱为**LED電視**，但此並不是指使用[發光二極管做為圖像顯示的](../Page/发光二极管显示器.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")。
 
 隨著發光二極管电视市場競爭日趨激烈，加上發光二極管應用逐漸成熟，各家電視廠商紛紛積極導入發光二極管背光液晶顯示電視，企圖在家用電視改朝換代之際能夠拔得頭籌。
 
@@ -32,14 +32,14 @@ LED，白光發光二極管較為耗電，加上反光片有損耗及LED照射�
 
 ## 發光二極管背光源與冷陰極螢光燈背光源的差異
 
-以往[薄膜電晶體液晶顯示器的光源是採用](../Page/薄膜電晶體液晶顯示器.md "wikilink")[冷陰極螢光燈作背光光源](https://zh.wikipedia.org/wiki/冷陰極螢光燈 "wikilink")，（如圖2）。兩者的分別在於：
+以往[薄膜電晶體液晶顯示器](../Page/薄膜電晶體液晶顯示器.md "wikilink")的光源是採用[冷陰極螢光燈作背光光源](https://zh.wikipedia.org/wiki/冷陰極螢光燈 "wikilink")，（如圖2）。兩者的分別在於：
 
   - 發光二極管可以極快速地改變光的強度，因此可以依照局部影像的亮度需求而局部調節背光亮度，因此暗的影像可以更暗，[動態對比度可比](https://zh.wikipedia.org/wiki/動態對比度 "wikilink")[冷陰極螢光燈高得多](https://zh.wikipedia.org/wiki/冷陰極螢光燈 "wikilink")。特別是直下式LED背光的，動態對比度的改善更為明顯。
   - 採用獨立三原色發光二極管的直下式發光二極管背光擁有較冷陰極螢光燈廣闊的色域。
   - 使用發光二極管背光可降低電視機的厚度、體積、重量，側照式發光二極管（edge LED）可達1cm以下。
   - 發光二極管背光本身在中低光度較冷陰極螢光燈省電，加上依從劃面圖像動態調暗發光二極管，發光二極管背光可省達20-50%耗電。（如圖3）
   - 發光二極管背光的壽命較冷陰極螢光燈長得多。
-  - 發光二極管背光較冷陰極螢光燈環保。發光二極管背光的重量較輕，在運送時消耗的燃料較少。發光二極管在棄置時較冷陰極螢光燈環保，因為冷陰極螢光燈含有微量水銀。而壽命較長也減少了廢物的產生。
+  - 發光二極管背光較冷陰極螢光燈環保。發光二極管背光的重量較輕，在運送時消耗的燃料較少。發光二極管在棄置時較冷陰極螢光燈環保，因為冷陰極螢光燈含有微量水銀。而壽命較長也減少廢物的產生。
   - 發光二極管背光生產成本較高。
 
 ## 腳注

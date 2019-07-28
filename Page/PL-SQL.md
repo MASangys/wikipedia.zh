@@ -1,9 +1,9 @@
 **PL/SQL**（Procedural
-Language/SQL）是[甲骨文公司專有的](../Page/甲骨文公司.md "wikilink")[SQL擴展語言](../Page/SQL.md "wikilink")，應用在[甲骨文公司的](../Page/甲骨文公司.md "wikilink")[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")[数据库系統](https://zh.wikipedia.org/wiki/数据库系統 "wikilink")。一些的[SQL](../Page/SQL.md "wikilink")[数据库管理系統也提供了類似的](https://zh.wikipedia.org/wiki/数据库管理系統 "wikilink")[擴展SQL語言](https://zh.wikipedia.org/wiki/擴展SQL語言 "wikilink")。PL/SQL的的[語法非常類似於](https://zh.wikipedia.org/wiki/語法 "wikilink")[Ada](../Page/Ada.md "wikilink")，而且像1980年代的[Ada編譯器一樣](../Page/Ada.md "wikilink")，PL/SQL的運作系統使用[Diana作為](https://zh.wikipedia.org/wiki/Diana "wikilink")[中介語言](https://zh.wikipedia.org/wiki/中介語言 "wikilink")。
+Language/SQL）是[甲骨文公司](../Page/甲骨文公司.md "wikilink")專有的[SQL](../Page/SQL.md "wikilink")擴展語言，應用在[甲骨文公司](../Page/甲骨文公司.md "wikilink")的[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")[数据库系統](https://zh.wikipedia.org/wiki/数据库系統 "wikilink")。一些的[SQL](../Page/SQL.md "wikilink")[数据库管理系統也提供了類似的](https://zh.wikipedia.org/wiki/数据库管理系統 "wikilink")[擴展SQL語言](https://zh.wikipedia.org/wiki/擴展SQL語言 "wikilink")。PL/SQL的的[語法非常類似於](https://zh.wikipedia.org/wiki/語法 "wikilink")[Ada](../Page/Ada.md "wikilink")，而且像1980年代的[Ada](../Page/Ada.md "wikilink")編譯器一樣，PL/SQL的運作系統使用[Diana作為](https://zh.wikipedia.org/wiki/Diana "wikilink")[中介語言](https://zh.wikipedia.org/wiki/中介語言 "wikilink")。
 
 重要的是PL/SQL緊密的結合在[Oracle数据库裡面](https://zh.wikipedia.org/wiki/Oracle "wikilink")。
 
-PL/SQL是[Oracle數據庫使用的三種語言的其中之一](https://zh.wikipedia.org/wiki/Oracle "wikilink")，另外兩個是[SQL和](../Page/SQL.md "wikilink")[Java](../Page/Java.md "wikilink")。
+PL/SQL是[Oracle數據庫使用的三種語言的其中之一](https://zh.wikipedia.org/wiki/Oracle "wikilink")，另外兩個是[SQL](../Page/SQL.md "wikilink")和[Java](../Page/Java.md "wikilink")。
 
 ## 歷史
 
@@ -356,11 +356,11 @@ for...loop循环可以限定循环的次数例如：
     [ASE](https://zh.wikipedia.org/wiki/ASE "wikilink")
   - [Microsoft SQL
     Server的](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[Transact-SQL](../Page/Transact-SQL.md "wikilink")
-  - [PostgreSQL資料庫的](../Page/PostgreSQL.md "wikilink")[PL/pgSQL](https://zh.wikipedia.org/wiki/PL/pgSQL "wikilink")（模仿PL/SQL）
+  - [PostgreSQL](../Page/PostgreSQL.md "wikilink")資料庫的[PL/pgSQL](https://zh.wikipedia.org/wiki/PL/pgSQL "wikilink")（模仿PL/SQL）
   - [IBM DB2的](../Page/IBM_DB2.md "wikilink")[SQL
     PL](https://zh.wikipedia.org/wiki/SQL_PL "wikilink")\[3\]
   - 符合[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")
-    [SQL的](../Page/SQL.md "wikilink")[SQL/PSM標準](https://zh.wikipedia.org/wiki/SQL/PSM "wikilink")。
+    [SQL](../Page/SQL.md "wikilink")的[SQL/PSM標準](https://zh.wikipedia.org/wiki/SQL/PSM "wikilink")。
 
 ## 注释
 

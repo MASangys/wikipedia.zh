@@ -9,12 +9,14 @@ Bus，USB）的第三個主要修訂版本。其主要技術標準有：支援[�
 1.1版本，并採用[三級多層電源管理技術](https://zh.wikipedia.org/wiki/三級多層電源管理技術 "wikilink")，可以為不同設備提供不同的電源管理方案。
 
 USB
-3.0採用新的封包[路由傳輸技術](../Page/路由.md "wikilink")，線纜設計8條內部線路，除[VBus和](https://zh.wikipedia.org/wiki/VBus "wikilink")[GND作為電源提供線外](../Page/接地.md "wikilink")，剩餘3對均為數據傳輸線路其中保留D+與D-兩條兼容USB
+3.0採用新的封包[路由](../Page/路由.md "wikilink")傳輸技術，線纜設計8條內部線路，除[VBus和](https://zh.wikipedia.org/wiki/VBus "wikilink")[GND作為電源提供線外](../Page/接地.md "wikilink")，剩餘3對均為數據傳輸線路其中保留D+與D-兩條兼容USB
 2.0的線路，新增[SSRX與](https://zh.wikipedia.org/wiki/SSRX "wikilink")[SSTX專為新版所設的線路](https://zh.wikipedia.org/wiki/SSTX "wikilink")，因此USB
 3.0比USB 2.0多了數個[觸點](https://zh.wikipedia.org/wiki/觸點 "wikilink")。USB
 3.0的Standard-A接口繼續採用與早先版本一樣的尺寸方案，外观以蓝色区分，只是內部觸點有變化，新的觸點將會並排在目前4個觸點的後方。引入展頻時脈技術，降低電磁輻射的逸散。
 
-Intel發表的[xHCI已经可以支持USB](https://zh.wikipedia.org/wiki/xHCI "wikilink")3.0的接口，且向下兼容USB2.0的接口。
+Intel發表的[xHCI已经可以支持USB](https://zh.wikipedia.org/wiki/xHCI "wikilink")3.0的接口，且向下兼容USB2.0的接口。[Windows
+8和後續的Windows作業系統都內建原生的USB](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")
+3.0支援。
 
 ## 電磁干擾
 
@@ -134,7 +136,7 @@ USB 3.0 Powered-B\[8\]
 [Usb-3.1-logo.jpg](https://zh.wikipedia.org/wiki/File:Usb-3.1-logo.jpg "fig:Usb-3.1-logo.jpg")
 **USB 3.2 Gen 2×1**（**SuperSpeed+**，官方全名：**SuperSpeed USB 10
 Gbps**）是基於**USB 3.0（USB 3.2 Gen
-1×1）**改良推出的[USB連接介面的最新版本](../Page/USB.md "wikilink")。2013年底，負責制定USB
+1×1）**改良推出的[USB](../Page/USB.md "wikilink")連接介面的最新版本。2013年底，負責制定USB
 3.0規範的組織USB 3.0 Promoter Group公佈了下一代USB
 3.1介面的標準規範。2014年4月，負責USB介面規範的[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")（USB-IF）公佈了USB
 3.1連接介面設計圖，包括Type-A、Type-B以及全新設計的[Type-C](../Page/USB_Type-C.md "wikilink")\[9\]\[10\]\[11\]\[12\]\[13\]。
@@ -167,7 +169,7 @@ Type-C。
 ### 與USB 3.0比較
 
   - 理論最高傳輸速度由USB 3.0的5 Gbit/s提升為10 Gbit/s
-  - 供電最大100[W](https://zh.wikipedia.org/wiki/Watt "wikilink")，[電壓和](../Page/電壓.md "wikilink")[電流都會提高](https://zh.wikipedia.org/wiki/電流 "wikilink")
+  - 供電最大100[W](https://zh.wikipedia.org/wiki/Watt "wikilink")，[電壓](../Page/電壓.md "wikilink")和[電流都會提高](https://zh.wikipedia.org/wiki/電流 "wikilink")
   - 新增Type-C介面，其插座和線材不會相容原有Type-A / Type-B
   - 降低[編碼損耗](https://zh.wikipedia.org/wiki/編碼 "wikilink")，將編碼方式改為128b/132b，讓編碼損耗從原來3.0的20%降低為3%
   - 雖然向下相容USB 2.0/1.0，但如果要得到10Gb/s的傳輸速度仍需在主機、目標端同時具備對應的晶片才能達成
@@ -187,7 +189,7 @@ Type-C由於不相容現有的任何類型，因此需要額外設計轉接設�
 3.0為主及設備端廠商也極少願意跟進投入開發對應的USB3.1產品。\[18\]
 
 USB
-Type-C還支援[DisplayPort](../Page/DisplayPort.md "wikilink")\[19\]，功能與[Thunderbolt看齊](../Page/Thunderbolt.md "wikilink")。
+Type-C還支援[DisplayPort](../Page/DisplayPort.md "wikilink")\[19\]，功能與[Thunderbolt](../Page/Thunderbolt.md "wikilink")看齊。
 
 ## USB 3.2
 

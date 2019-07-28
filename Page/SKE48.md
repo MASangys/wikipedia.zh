@@ -19,13 +19,13 @@
 [DEL48](../Page/DEL48.md "wikilink")
 [MUB48](../Page/MUB48.md "wikilink") }}
 
-**SKE48**是[日本大型](../Page/日本.md "wikilink")[女子](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，也是[AKB48第一個姐妹團體](../Page/AKB48.md "wikilink")，於[2008年出道](../Page/2008年.md "wikilink")，以其專屬表演[劇場所在的](https://zh.wikipedia.org/wiki/劇場 "wikilink")[名古屋及](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[東海地方為中心活動](../Page/東海地方.md "wikilink")，目前擁有成員65名，下分為3個分隊、以及研究生隊伍。雖然是AKB48的姊妹團體，總[製作人也由](https://zh.wikipedia.org/wiki/製作人 "wikilink")[秋元康擔任](../Page/秋元康.md "wikilink")，但是兩者存在許多不同之處，例如成員主要出身於東海地方（特別是名古屋所在的[愛知縣](../Page/愛知縣.md "wikilink")），且大部份皆隸屬同一[經紀公司](../Page/經紀公司.md "wikilink")。
+**SKE48**是[日本](../Page/日本.md "wikilink")大型[女子](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，也是[AKB48](../Page/AKB48.md "wikilink")第一個姐妹團體，於[2008年](../Page/2008年.md "wikilink")出道，以其專屬表演[劇場所在的](https://zh.wikipedia.org/wiki/劇場 "wikilink")[名古屋及](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[東海地方](../Page/東海地方.md "wikilink")為中心活動，目前擁有成員65名，下分為3個分隊、以及研究生隊伍。雖然是AKB48的姊妹團體，總[製作人也由](https://zh.wikipedia.org/wiki/製作人 "wikilink")[秋元康](../Page/秋元康.md "wikilink")擔任，但是兩者存在許多不同之處，例如成員主要出身於東海地方（特別是名古屋所在的[愛知縣](../Page/愛知縣.md "wikilink")），且大部份皆隸屬同一[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 簡介
 
 [SKE48_logo.svg](https://zh.wikipedia.org/wiki/File:SKE48_logo.svg "fig:SKE48_logo.svg")
 
-SKE48是AKB48全國開展計劃的首站，在2008年7月30日於[名古屋市成立](../Page/名古屋市.md "wikilink")。名稱中的「SKE」來自其專屬表演劇場所在地——名古屋市[中區的商圈](../Page/中區_\(名古屋市\).md "wikilink")「[荣](../Page/榮_\(名古屋市\).md "wikilink")」（**S**a**K**a**E**）。
+SKE48是AKB48全國開展計劃的首站，在2008年7月30日於[名古屋市](../Page/名古屋市.md "wikilink")成立。名稱中的「SKE」來自其專屬表演劇場所在地——名古屋市[中區的商圈](../Page/中區_\(名古屋市\).md "wikilink")「[荣](../Page/榮_\(名古屋市\).md "wikilink")」（**S**a**K**a**E**）。
 
 SKE48以[Sunshine
 Sakae內的](https://zh.wikipedia.org/wiki/Sunshine_Sakae "wikilink")「[SKE48劇場](https://zh.wikipedia.org/wiki/Sunshine_Sakae#設施#2F "wikilink")」進行公演活動。因此，SUNSHINE
@@ -54,7 +54,7 @@ SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》等AKB48的冠名節目。
 
   - 7月31日，SKE48第1期生甄選（報名總數2,670人，最終合格者22人）。
   - 8月，AKB48研究生中西優香移籍SKE48。
-  - 8月23日，SKE48初披露於日比谷野外大音樂堂舉行的[AKB48夏祭り音樂會](../Page/AKB48.md "wikilink")，[松井珠理奈作為](../Page/松井珠理奈.md "wikilink")23人中的代表向在場觀眾打招呼：「大家好，初次見面，我們是SKE48。」
+  - 8月23日，SKE48初披露於日比谷野外大音樂堂舉行的[AKB48](../Page/AKB48.md "wikilink")夏祭り音樂會，[松井珠理奈](../Page/松井珠理奈.md "wikilink")作為23人中的代表向在場觀眾打招呼：「大家好，初次見面，我們是SKE48。」
   - 10月5日，選拔成員（之後的Team S）初次劇場公演。
   - 10月22日，AKB48的第10張單曲《[大声鑽石](https://zh.wikipedia.org/wiki/大声鑽石 "wikilink")》發售，松井珠理奈是SKE48首個成員進入選拔組，而且更擔任中心位置。
 
@@ -62,16 +62,16 @@ SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》等AKB48的冠名節目。
 
   - 2月14日，SKE48初次原創公演開始。
   - 3月，由選拔成員組成的Team S成立。
-  - 3月4日，AKB48的第11張单曲《[10年樱](https://zh.wikipedia.org/wiki/10年樱 "wikilink")》發售，松井珠理奈和[松井玲奈作為SKE](../Page/松井玲奈.md "wikilink")48的代表進入選拔，此後大多數的AKB48單曲二人均有參與。
+  - 3月4日，AKB48的第11張单曲《[10年樱](https://zh.wikipedia.org/wiki/10年樱 "wikilink")》發售，松井珠理奈和[松井玲奈](../Page/松井玲奈.md "wikilink")作為SKE48的代表進入選拔，此後大多數的AKB48單曲二人均有參與。
   - 5月25日，Team KII成立。
   - 6月13日，Team KII劇場初次公演。
-  - 6月－7月，在[AKB48第13張單曲選拔總選舉「向神發誓，動真格」](../Page/AKB48第13張單曲選拔總選舉「向神發誓，動真格」.md "wikilink")（第1回選拔總選舉）中，松井珠理奈進入選拔，[松井玲奈進入Under](../Page/松井玲奈.md "wikilink")
+  - 6月－7月，在[AKB48第13張單曲選拔總選舉「向神發誓，動真格」](../Page/AKB48第13張單曲選拔總選舉「向神發誓，動真格」.md "wikilink")（第1回選拔總選舉）中，松井珠理奈進入選拔，[松井玲奈](../Page/松井玲奈.md "wikilink")進入Under
     Girls。
   - 12月，首次與AKB48一起於[第60回NHK紅白歌合戰登場](https://zh.wikipedia.org/wiki/第60回NHK紅白歌合戰 "wikilink")。
 
 ### 2010年
 
-  - 5月－6月，[AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」](../Page/AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」.md "wikilink")（第2回選拔總選舉）中，松井珠理奈和松井玲奈進入「媒體選拔組」，為SKE48初次有成員進入媒體選拔。另外有[大矢真那](../Page/大矢真那.md "wikilink")、[高柳明音和](../Page/高柳明音.md "wikilink")[矢神久美成為Under](../Page/矢神久美.md "wikilink")
+  - 5月－6月，[AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」](../Page/AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」.md "wikilink")（第2回選拔總選舉）中，松井珠理奈和松井玲奈進入「媒體選拔組」，為SKE48初次有成員進入媒體選拔。另外有[大矢真那](../Page/大矢真那.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")和[矢神久美](../Page/矢神久美.md "wikilink")成為Under
     Girls。
   - 12月6日，由研究生16人組成Team E成立。
 
@@ -79,7 +79,7 @@ SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》等AKB48的冠名節目。
 
   - 1月16日，Team E初次劇場公演。
   - 3月9日，第5張單曲《萬歲Venus》發售，初次得到[Oricon第](../Page/Oricon公信榜.md "wikilink")1位。
-  - 5月－6月，[AKB48第22張單曲選拔總選舉](../Page/AKB48第22張單曲選拔總選舉.md "wikilink")（第3回選拔總選舉）中，松井玲奈排列在前年的松井珠理奈為SKE48歴代最高的第10位。另外有松井珠理奈進入選拔組，高柳明音、大矢真那、[秦佐和子和](../Page/秦佐和子.md "wikilink")[須田亞香里成為Under](../Page/須田亞香里.md "wikilink")
+  - 5月－6月，[AKB48第22張單曲選拔總選舉](../Page/AKB48第22張單曲選拔總選舉.md "wikilink")（第3回選拔總選舉）中，松井玲奈排列在前年的松井珠理奈為SKE48歴代最高的第10位。另外有松井珠理奈進入選拔組，高柳明音、大矢真那、[秦佐和子](../Page/秦佐和子.md "wikilink")和[須田亞香里](../Page/須田亞香里.md "wikilink")成為Under
     Girls。
   - 7月13日，SKE48初次舉辦的選拔猜拳大会的預備戰\[7\]，勝出的成員有[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[桑原瑞希](../Page/桑原瑞希.md "wikilink")、[若林倫香](../Page/若林倫香.md "wikilink")、松井珠理奈和竹内舞，得到本戰出場機會。
   - 7月27日，第6張單曲《[翡翠色的沙灘裙](../Page/翡翠色的沙灘裙.md "wikilink")》發售。
@@ -90,7 +90,7 @@ SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》等AKB48的冠名節目。
 ### 2012年
 
   - 1月25日，第8張單曲《[單戀Finally](../Page/單戀Finally.md "wikilink")》發售。
-  - 1月27日，SKE48初次在[朝日電視台系列](../Page/朝日電視台.md "wikilink")《[MUSIC
+  - 1月27日，SKE48初次在[朝日電視台](../Page/朝日電視台.md "wikilink")系列《[MUSIC
     STATION](../Page/MUSIC_STATION.md "wikilink")》演出，演唱歌曲是《[單戀Finally](../Page/單戀Finally.md "wikilink")》。
   - 3月24日，演唱會「業務連絡。拜託了，片山部長！
     in[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")」中發表松井珠理奈期間有限期兼任[AKB48](../Page/AKB48.md "wikilink")
@@ -102,10 +102,10 @@ SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》等AKB48的冠名節目。
   - 8月24日，演唱会「[AKB48 in TOKYO DOME
     ～1830m的夢想～](../Page/AKB48_in_TOKYO_DOME_～1830m的夢想～.md "wikilink")」中，发表TeamKII的石田安奈预定兼任AKB48新TeamB的成员、AKB48TeamB的北原里英移籍到TeamK之外同时预定兼任SKE48。SKE48的成员AKB48兼任就前述的松井珠理奈是第2人，AKB48的成员兼任SKE48的北原是史上初次。
   - 8月29日，在SKE48劇場改修前特別公演中发表了6名研究生的昇格。
-  - 9月18日，在日本武道館举行的「[AKB48第29张单曲选拔猜拳大会](https://zh.wikipedia.org/wiki/AKB48第29张单曲选拔猜拳大会 "wikilink")」上，[木本花音和上野圭澄进入选拔組](../Page/木本花音.md "wikilink")。
+  - 9月18日，在日本武道館举行的「[AKB48第29张单曲选拔猜拳大会](https://zh.wikipedia.org/wiki/AKB48第29张单曲选拔猜拳大会 "wikilink")」上，[木本花音](../Page/木本花音.md "wikilink")和上野圭澄进入选拔組。
   - 9月19日，第10張單曲《[接吻可是左撇子](../Page/接吻可是左撇子.md "wikilink")》發售。
   - 12月9日，改修工程的SKE48專用劇場開啟迎按初日，舉行全成員出演的特別公演\[9\]。
-  - 12月31日，SKE48在[第63回NHK紅白歌合戰中首次以單獨名義出場](../Page/第63回NHK紅白歌合戰.md "wikilink")\[10\]\[11\]，是首個單独出場的AKB48姊妹團體。
+  - 12月31日，SKE48在[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")中首次以單獨名義出場\[10\]\[11\]，是首個單独出場的AKB48姊妹團體。
 
 ### 2013年
 
@@ -124,40 +124,40 @@ SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》等AKB48的冠名節目。
   - 7月25日，Team KII
     新劇場公演「[劇場的女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")」開始\[19\]。
   - 11月20日，第13張單曲《[贊成卡哇伊！](https://zh.wikipedia.org/wiki/贊成卡哇伊！ "wikilink")》發售。
-  - 12月31日，在[第64回NHK紅白歌合戰中](../Page/第64回NHK紅白歌合戰.md "wikilink")，所有成員（除中学生以下）均以SKE48名義單獨出演。
+  - 12月31日，在[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")中，所有成員（除中学生以下）均以SKE48名義單獨出演。
 
 ### 2014年
 
-  - 2月24日，於[AKB48集團各團體共同參與的](../Page/AKB48集團.md "wikilink")「[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")」中宣布全團之新體制，包括成員所屬分隊的重組、各隊新任之正副隊長人選，此外亦發表了成員之兼任、移籍與研究生升格\[20\]。
+  - 2月24日，於[AKB48集團](../Page/AKB48集團.md "wikilink")各團體共同參與的「[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")」中宣布全團之新體制，包括成員所屬分隊的重組、各隊新任之正副隊長人選，此外亦發表了成員之兼任、移籍與研究生升格\[20\]。
   - 3月19日，第14張單曲《[未來是什麼？](../Page/未來是什麼？.md "wikilink")》發售\[21\]。
   - 4月4日，於「[AKB48集團 春Con in
     埼玉超級競技場〜丟掉回憶向前沖！〜](https://zh.wikipedia.org/wiki/AKB48集團_春Con_in_埼玉超級競技場〜丟掉回憶向前沖！〜#SKE48 "wikilink")」的SKE48單獨演唱會中宣布各隊千秋樂與初日的時間表\[22\]。
 
 ### 2015年
 
-  - 6月11日，主力成員[松井玲奈在出席](../Page/松井玲奈.md "wikilink")[日本放送直播節目](../Page/日本放送.md "wikilink")《》時，公開發表將在2015年8月底從SKE48畢業。
-  - 8月29日、30日，於[愛知縣](../Page/愛知縣.md "wikilink")[豐田市](https://zh.wikipedia.org/wiki/豐田市 "wikilink")[豐田體育場舉行](../Page/豐田體育場.md "wikilink")「[松井玲奈·SKE48畢業演唱會in豐田體育場～2588DAYS～](https://zh.wikipedia.org/wiki/松井玲奈·SKE48畢業演唱會in豐田體育場～2588DAYS～ "wikilink")」演唱會。
+  - 6月11日，主力成員[松井玲奈](../Page/松井玲奈.md "wikilink")在出席[日本放送](../Page/日本放送.md "wikilink")直播節目《》時，公開發表將在2015年8月底從SKE48畢業。
+  - 8月29日、30日，於[愛知縣](../Page/愛知縣.md "wikilink")[豐田市](https://zh.wikipedia.org/wiki/豐田市 "wikilink")[豐田體育場](../Page/豐田體育場.md "wikilink")舉行「[松井玲奈·SKE48畢業演唱會in豐田體育場～2588DAYS～](https://zh.wikipedia.org/wiki/松井玲奈·SKE48畢業演唱會in豐田體育場～2588DAYS～ "wikilink")」演唱會。
   - 8月31日，成員松井玲奈於SKE48 Team E劇場公演後正式畢業。
-  - 12月16日，主力成員[宮澤佐江於](../Page/宮澤佐江.md "wikilink")[富士電視台直播特別節目](../Page/富士電視台.md "wikilink")《FNS歌謠祭
+  - 12月16日，主力成員[宮澤佐江](../Page/宮澤佐江.md "wikilink")於[富士電視台](../Page/富士電視台.md "wikilink")直播特別節目《FNS歌謠祭
     2015》中，宣布將同時從SKE48、以及正式所屬團體[SNH48畢業](https://zh.wikipedia.org/wiki/SNH48 "wikilink")\[23\]。
 
 ### 2016年
 
   - 3月5日，於舉行的「大家、不要哭哦。宮澤佐江畢業演唱會 前夜祭 in
     日本碍子表演廳」上發表全團之新體制，包括宮澤佐江指名[矢方美紀接任其畢業後的Team](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")
-    S隊長職務，矢方升格隊長後的副隊長空缺由[松本慈子接任](https://zh.wikipedia.org/wiki/松本慈子 "wikilink")，[梅本圓在同年](../Page/梅本圓.md "wikilink")2月底畢業後空缺的Team
+    S隊長職務，矢方升格隊長後的副隊長空缺由[松本慈子接任](https://zh.wikipedia.org/wiki/松本慈子 "wikilink")，[梅本圓](../Page/梅本圓.md "wikilink")在同年2月底畢業後空缺的Team
     E副隊長職務由[福士奈央接任](https://zh.wikipedia.org/wiki/福士奈央 "wikilink")，同時恢復「AKB48集團大組閣祭」後中斷的總隊長職務，由[齊藤真木子擔任第二任總隊長](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")\[24\]。
 
 ### 2017年
 
   - 2月22日，第2張專輯《革命之丘》發行，同時於名古屋當地、首都圏及全國各地動員多名成員舉辦多場宣傳活動。
-  - 7月19日，SKE48第21張單曲《[意外是芒果](../Page/意外是芒果.md "wikilink")》正式發行，中心成員由7期生小畑優奈擔任。MV於台灣的[澎湖群島取景拍攝](../Page/澎湖群島.md "wikilink")，成員皆以泳裝造型登場\[25\]。此張單曲亦為11月30日自SKE48畢業的1期成員[大矢真那的畢業作品](../Page/大矢真那.md "wikilink")。
+  - 7月19日，SKE48第21張單曲《[意外是芒果](../Page/意外是芒果.md "wikilink")》正式發行，中心成員由7期生小畑優奈擔任。MV於台灣的[澎湖群島](../Page/澎湖群島.md "wikilink")取景拍攝，成員皆以泳裝造型登場\[25\]。此張單曲亦為11月30日自SKE48畢業的1期成員[大矢真那](../Page/大矢真那.md "wikilink")的畢業作品。
 
 ### 2018年
 
   - 1月10日，發行第22張單曲《[無意識的色彩](../Page/無意識的色彩.md "wikilink")》\[26\]。
   - 7月4日，發行第23張單曲《[突如其來Punchline](../Page/突如其來Punchline.md "wikilink")》\[27\]。
-  - 11月13日，AKS宣布SKE48營運權將轉讓給，後者將成立新公司「株式會社SKE」來經營\[28\]。
+  - 11月13日，AKS宣布SKE48營運權將轉讓給娛樂控股公司，後者將成立新公司「株式會社SKE」來經營\[28\]。
   - 12月12日，發行第24張單曲《[Stand by
     you](../Page/Stand_by_you.md "wikilink")》\[29\]。
   - 12月27日，AKS與Keyholder正式簽訂事業轉讓契約\[30\]。
@@ -165,13 +165,15 @@ SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》等AKB48的冠名節目。
 ### 2019年
 
   - 3月1日，Keyholder旗下公司「株式會社SKE」正式接手全權負責SKE48的經紀及營運事務\[31\]。
-  - 7月1日，營運公司「株式會社SKE」更名為「株式會社ZEST」\[32\]。
+  - 7月1日，營運公司「株式會社SKE」更名為「株式會社Zest」\[32\]。
+  - 7月5日，營運公司宣布了与JKT48的合作计划，SKE48劇場經理湯淺洋轉任JKT48特別顧問，新任劇場經理由總隊長齊藤真木子兼任。
+  - 7月24日，預計發行第25張單曲《》\[33\]。
 
 ## 成員
 
-SKE48主要的結構和AKB48無異，都是分為三組，分別是**Team S**、**Team KII**（KII讀法為K Two）和**Team
-E**。此外，正規成員以外的成員稱為**研究生**。在SUNSHINE
-STUDIO的劇場公演都是以各Team為單位進行。研究生則會在充當舞者演出；如正規成員人數不足或有成員休演的時候，亦會以補充成員作演出。另外，研究生也有屬於她們的公演。
+SKE48主要的結構和AKB48無異，都是分為3個分隊，分別是**Team S**、**Team KII**（KII讀法為K
+Two）和**Team
+E**，另外設有具預備成員功能的**研究生**隊伍。劇場公演都是以各Team為單位進行。研究生則會在充當舞者演出；如正規成員人數不足或有成員休演的時候，亦會以補充成員作演出。另外，研究生也有屬於她們的劇場公演。
 
 SKE48剛成立時由通過了甄選會的22名成員和1名從AKB48調來的成員組成，這些成員稱為「1期生」。2008年10月5日，自首場劇場公演起（[S1st](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#SKE48_teamS_1st_Stage「Party開始了」公演 "wikilink")），這些成員分為「選拔成員」（16名）和「研究生」兩組。自2009年2月14日的第二部劇場公演起（[S2nd](../Page/Team_S_2nd_Stage“手牵手”.md "wikilink")），「Team
 KII」即將成立，原來的選拔成員則改名為「Team S」。5月25日，由通過第2期追加成員甄選會的14名成員和2名研究生組成的Team
@@ -257,7 +259,7 @@ E的消息。2013年4月13日，在演唱會「不變的，是那友情」上，
 <td><p>8期</p></td>
 <td><p>2017年10月5日</p></td>
 <td><p>Zest</p></td>
-<td><p>前劇團SOLA成員[33]</p></td>
+<td><p>前劇團SOLA成員[34]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -269,7 +271,7 @@ E的消息。2013年4月13日，在演唱會「不變的，是那友情」上，
 <td><p>Zest</p></td>
 <td><p>隊長<br />
 曾兼任AKB48 Team 4<br />
-預定於2019年9月30日畢業[34]</p></td>
+預定於2019年9月30日畢業[35]</p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="odd">
@@ -450,7 +452,7 @@ E的消息。2013年4月13日，在演唱會「不變的，是那友情」上，
 <td><p>7期</p></td>
 <td><p>2016年11月20日</p></td>
 <td><p>Zest</p></td>
-<td><p>姐姐是NMB48的前成员太田-{里}-織菜[35]</p></td>
+<td><p>姐姐是NMB48的前成员太田-{里}-織菜[36]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -496,7 +498,7 @@ E的消息。2013年4月13日，在演唱會「不變的，是那友情」上，
 2期</p></td>
 <td><p>2015年11月28日</p></td>
 <td><p>Zest</p></td>
-<td><p>姐姐為研究生白井友紀乃[36]</p></td>
+<td><p>姐姐為研究生白井友紀乃[37]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -626,7 +628,7 @@ E的消息。2013年4月13日，在演唱會「不變的，是那友情」上，
 <td><p>2016年11月20日</p></td>
 <td><p>Zest</p></td>
 <td><p>表姐是<a href="../Page/木崎由里亞.md" title="wikilink">木崎由里亞</a><br />
-（前SKE48→前<a href="../Page/AKB48.md" title="wikilink">AKB48</a>）[37]</p></td>
+（前SKE48→前<a href="../Page/AKB48.md" title="wikilink">AKB48</a>）[38]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -690,7 +692,8 @@ E的消息。2013年4月13日，在演唱會「不變的，是那友情」上，
 <td><p>SKE48總隊長<br />
 Team E（初代）<br />
 Team S（中西）<br />
-2010年12月6日降格為研究生</p></td>
+2010年12月6日降格為研究生<br />
+SKE48劇場經理</p></td>
 <td><p>42</p></td>
 </tr>
 <tr class="odd">
@@ -722,7 +725,7 @@ Team S（中西）<br />
 2期</p></td>
 <td><p>2015年11月28日</p></td>
 <td><p>Zest</p></td>
-<td><p>2019年4月29日起暫停活動[38]</p></td>
+<td><p>2019年4月29日起暫停活動[39]</p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">
@@ -1084,7 +1087,7 @@ SKE48最年長</p></td>
 <td><p>1期</p></td>
 <td><p>2009年12月25日</p></td>
 <td><p>S</p></td>
-<td><p>Verus Entertainment[39]</p></td>
+<td><p>Verus Entertainment[40]</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
@@ -1119,7 +1122,7 @@ SKE48最年長</p></td>
 <td><p>1期</p></td>
 <td><p>2011年9月30日</p></td>
 <td><p>S</p></td>
-<td><p>Verus Entertainment[40]</p></td>
+<td><p>Verus Entertainment[41]</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
@@ -1142,7 +1145,7 @@ SKE48最年長</p></td>
 <td><p>2012年3月31日</p></td>
 <td><p>S</p></td>
 <td></td>
-<td><p>[41][42]</p></td>
+<td><p>[42][43]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1152,7 +1155,7 @@ SKE48最年長</p></td>
 <td><p>2期</p></td>
 <td><p>E</p></td>
 <td></td>
-<td><p>[43][44]</p></td>
+<td><p>[44][45]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1163,7 +1166,7 @@ SKE48最年長</p></td>
 <td><p>3期</p></td>
 <td><p>E</p></td>
 <td><p>PKP</p></td>
-<td><p>[45][46]</p></td>
+<td><p>[46][47]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1306,9 +1309,9 @@ SKE48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>5期</p></td>
-<td><p>[47]</p></td>
+<td><p>[48]</p></td>
 <td></td>
-<td><p>請辭[48]</p></td>
+<td><p>請辭[49]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1320,7 +1323,7 @@ SKE48最年長</p></td>
 <td><p>2013年11月30日</p></td>
 <td><p>S</p></td>
 <td></td>
-<td><p>畢業[49]</p></td>
+<td><p>畢業[50]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1333,7 +1336,7 @@ SKE48最年長</p></td>
 <td><p>E</p></td>
 <td></td>
 <td><p>avex artist academy出身<br />
-畢業[50]</p></td>
+畢業[51]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1344,7 +1347,7 @@ SKE48最年長</p></td>
 <td><p>2014年2月27日</p></td>
 <td><p>S</p></td>
 <td></td>
-<td><p>畢業[51]</p></td>
+<td><p>畢業[52]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1352,10 +1355,10 @@ SKE48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>2014年3月23日[52]</p></td>
+<td><p>2014年3月23日[53]</p></td>
 <td><p>S</p></td>
 <td></td>
-<td><p>畢業[53]</p></td>
+<td><p>畢業[54]</p></td>
 <td><p>35</p></td>
 </tr>
 <tr class="even">
@@ -1367,7 +1370,7 @@ SKE48最年長</p></td>
 <td><p>2014年4月21日</p></td>
 <td><p>S</p></td>
 <td><p>AKS</p></td>
-<td><p>移籍AKB48[54]</p></td>
+<td><p>移籍AKB48[55]</p></td>
 <td><p>22</p></td>
 </tr>
 <tr class="odd">
@@ -1379,7 +1382,7 @@ SKE48最年長</p></td>
 <td><p>S</p></td>
 <td></td>
 <td><p>前AKB48研究生（4期）<br />
-畢業[55][56]</p></td>
+畢業[56][57]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1389,7 +1392,7 @@ SKE48最年長</p></td>
 <td><p>2期</p></td>
 <td><p>KII</p></td>
 <td></td>
-<td><p>毕业[57][58]</p></td>
+<td><p>毕业[58][59]</p></td>
 <td><p>41</p></td>
 <td></td>
 </tr>
@@ -1402,7 +1405,7 @@ SKE48最年長</p></td>
 <td></td>
 <td><p>前Team KII<br />
 2010年12月6日研究生降格<br />
-畢業[59]</p></td>
+畢業[60]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1413,7 +1416,7 @@ SKE48最年長</p></td>
 <td><p>4期</p></td>
 <td><p>E</p></td>
 <td></td>
-<td><p>畢業[60]</p></td>
+<td><p>畢業[61]</p></td>
 <td><p>62</p></td>
 <td></td>
 </tr>
@@ -1426,7 +1429,7 @@ SKE48最年長</p></td>
 <td></td>
 <td><p>2010年12月6日降格為研究生<br />
 前Team S<br />
-畢業[61][62]</p></td>
+畢業[62][63]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1438,7 +1441,7 @@ SKE48最年長</p></td>
 <td><p>2014年7月30日</p></td>
 <td><p>E</p></td>
 <td></td>
-<td><p>畢業[63]</p></td>
+<td><p>畢業[64]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1449,7 +1452,7 @@ SKE48最年長</p></td>
 <td><p>2014年9月29日</p></td>
 <td><p>KII</p></td>
 <td><p>Twin Planet</p></td>
-<td><p>畢業[64]</p></td>
+<td><p>畢業[65]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1471,8 +1474,8 @@ SKE48最年長</p></td>
 <td><p>2014年12月31日</p></td>
 <td><p>E</p></td>
 <td></td>
-<td><p>父親是自行車競賽選手[65]<br />
-畢業[66]</p></td>
+<td><p>父親是自行車競賽選手[66]<br />
+畢業[67]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1484,7 +1487,7 @@ SKE48最年長</p></td>
 <td><p>KII</p></td>
 <td><p>FITONE</p></td>
 <td><p>Team E（松井）<br />
-畢業[67]</p></td>
+畢業[68]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1496,7 +1499,7 @@ SKE48最年長</p></td>
 <td><p>2015年1月31日</p></td>
 <td><p>KII</p></td>
 <td></td>
-<td><p>畢業 [68]</p></td>
+<td><p>畢業 [69]</p></td>
 <td><p>54</p></td>
 </tr>
 <tr class="even">
@@ -1507,7 +1510,7 @@ SKE48最年長</p></td>
 <td><p>2015年2月28日</p></td>
 <td><p>E</p></td>
 <td></td>
-<td><p>畢業[69]</p></td>
+<td><p>畢業[70]</p></td>
 <td><p>46</p></td>
 </tr>
 <tr class="odd">
@@ -1547,7 +1550,7 @@ SKE48最年長</p></td>
 <td></td>
 <td><p>曾任Team KII隊長<br />
 舊藝名：春川瑠花<br />
-畢業[70]</p></td>
+畢業[71]</p></td>
 <td><p>27</p></td>
 <td></td>
 </tr>
@@ -1558,7 +1561,7 @@ SKE48最年長</p></td>
 <td><p>4期</p></td>
 <td><p>E</p></td>
 <td><p>PKP</p></td>
-<td><p>畢業[71]</p></td>
+<td><p>畢業[72]</p></td>
 <td><p>47</p></td>
 <td></td>
 </tr>
@@ -1573,7 +1576,7 @@ SKE48最年長</p></td>
 <td><p>Showtitle</p></td>
 <td><p>在籍时自NMB48 Team M兼任<br />
 本名及舊藝名：中山菜菜<br />
-因自NMB48畢業而终止兼任[72]</p></td>
+因自NMB48畢業而终止兼任[73]</p></td>
 <td><p>28</p></td>
 </tr>
 <tr class="even">
@@ -1717,7 +1720,7 @@ SKE48最年長</p></td>
 <td><p>2016年8月31日</p></td>
 <td><p>E</p></td>
 <td></td>
-<td><p>畢業[73]</p></td>
+<td><p>畢業[74]</p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="even">
@@ -1729,7 +1732,7 @@ SKE48最年長</p></td>
 <td><p>2016年9月30日</p></td>
 <td><p>S</p></td>
 <td><p>Three Ace Style Pro</p></td>
-<td><p>畢業[74]<br />
+<td><p>畢業[75]<br />
 最終握手会12月17日</p></td>
 <td><p>45</p></td>
 </tr>
@@ -1768,8 +1771,8 @@ Team KII（初代）<br />
 <td></td>
 <td><p>|48集團及SKE48内升格最快<br />
 的研究生（公布后44天）<br />
-前4期生[75]<br />
-畢業[76]</p></td>
+前4期生[76]<br />
+畢業[77]</p></td>
 <td><p>61</p></td>
 </tr>
 <tr class="even">
@@ -1779,7 +1782,7 @@ Team KII（初代）<br />
 <td><p>4期</p></td>
 <td><p>|E</p></td>
 <td></td>
-<td><p>|畢業[77]</p></td>
+<td><p>|畢業[78]</p></td>
 <td><p>63</p></td>
 <td></td>
 </tr>
@@ -1793,7 +1796,7 @@ Team KII（初代）<br />
 <td></td>
 <td><p>Team E（初代）<br />
 Team KII（高柳）<br />
-畢業[78]</p></td>
+畢業[79]</p></td>
 <td><p>54</p></td>
 </tr>
 <tr class="even">
@@ -1806,7 +1809,7 @@ Team KII（高柳）<br />
 <td><p>Team KII（初代）<br />
 Team S（中西）<br />
 曾兼任AKB48 Team B<br />
-畢業[79][80]</p></td>
+畢業[80][81]</p></td>
 <td><p>77</p></td>
 <td></td>
 </tr>
@@ -1819,7 +1822,7 @@ Team S（中西）<br />
 <td><p>S</p></td>
 <td></td>
 <td><p>Team KII（高柳）<br />
-畢業[81]</p></td>
+畢業[82]</p></td>
 <td><p>34</p></td>
 </tr>
 <tr class="even">
@@ -1830,7 +1833,7 @@ Team S（中西）<br />
 <td><p>2017年11月30日</p></td>
 <td><p>S</p></td>
 <td><p>SAN OFFICE</p></td>
-<td><p>11月29日畢業公演[82][83]</p></td>
+<td><p>11月29日畢業公演[83][84]</p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="odd">
@@ -1842,7 +1845,7 @@ Team S（中西）<br />
 <td><p>E</p></td>
 <td></td>
 <td><p>曾兼任HKT48 Team KIV<br />
-當日畢業公演[84][85]</p></td>
+當日畢業公演[85][86]</p></td>
 <td><p>31</p></td>
 </tr>
 <tr class="even">
@@ -1854,7 +1857,7 @@ Team S（中西）<br />
 <td><p>S</p></td>
 <td><p>CENTRAL JAPAN</p></td>
 <td><p>Team KII（高柳）<br />
-畢業[86][87]</p></td>
+畢業[87][88]</p></td>
 <td><p>52</p></td>
 </tr>
 <tr class="odd">
@@ -1868,7 +1871,7 @@ Team S（中西）<br />
 <td><p>-</p></td>
 <td><p>原AKB48 Team B（柏木）<br />
 原AKB48 Team A（横山）<br />
-2018年1月7日最終握手會[88][89]<br />
+2018年1月7日最終握手會[89][90]<br />
 </p></td>
 <td><p>31</p></td>
 <td></td>
@@ -1883,7 +1886,7 @@ Team S（中西）<br />
 <td><p>E</p></td>
 <td><p>-</p></td>
 <td><p>第一屆選秀會議第二輪指名<br />
-畢業[90][91]</p></td>
+畢業[91][92]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1894,7 +1897,7 @@ Team S（中西）<br />
 <td><p>2018年3月31日</p></td>
 <td><p>E</p></td>
 <td><p>-</p></td>
-<td><p>3月27日畢業公演[92]</p></td>
+<td><p>3月27日畢業公演[93]</p></td>
 <td><p>99</p></td>
 </tr>
 <tr class="even">
@@ -1907,7 +1910,7 @@ Team S（中西）<br />
 <td><p>KII</p></td>
 <td><p>AKS</p></td>
 <td><p>第一屆選秀會議第二輪指名<br />
-畢業[93]</p></td>
+畢業[94]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1919,8 +1922,8 @@ Team S（中西）<br />
 <td><p>2018年7月1日</p></td>
 <td><p>S</p></td>
 <td><p>舞夢製作</p></td>
-<td><p>原Team S副隊長[94]<br />
-當日畢業公演[95][96]</p></td>
+<td><p>原Team S副隊長[95]<br />
+當日畢業公演[96][97]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1931,11 +1934,11 @@ Team S（中西）<br />
 <td><p>2018年11月10日</p></td>
 <td><p>KII</p></td>
 <td><p>AKS</p></td>
-<td><p>妹妹是矢作萌夏（AKB48）[97]<br />
-旧艺名：矢作Yukina（）[98]<br />
-曾隸屬凱特雅傳播（Cattleya promotion）[99]<br />
-Le Petite Fleurie的前成员[100]<br />
-當日畢業公演[101]</p></td>
+<td><p>妹妹是矢作萌夏（AKB48）[98]<br />
+旧艺名：矢作Yukina（）[99]<br />
+曾隸屬凱特雅傳播（Cattleya promotion）[100]<br />
+Le Petite Fleurie的前成员[101]<br />
+當日畢業公演[102]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1946,7 +1949,7 @@ Le Petite Fleurie的前成员[100]<br />
 <td><p>2018年11月30日</p></td>
 <td><p>S</p></td>
 <td><p>-</p></td>
-<td><p>畢業[102]</p></td>
+<td><p>畢業[103]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1960,7 +1963,7 @@ Le Petite Fleurie的前成员[100]<br />
 <td><p>-</p></td>
 <td><p>第二屆選秀會議第二輪指名<br />
 前打工AKB<br />
-畢業[103][104]</p></td>
+畢業[104][105]</p></td>
 <td><p>56</p></td>
 </tr>
 <tr class="odd">
@@ -1971,7 +1974,7 @@ Le Petite Fleurie的前成员[100]<br />
 <td><p>2019年1月31日</p></td>
 <td><p>S</p></td>
 <td><p>-</p></td>
-<td><p>畢業[105]</p></td>
+<td><p>畢業[106]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1982,7 +1985,7 @@ Le Petite Fleurie的前成员[100]<br />
 <td><p>2019年3月31日</p></td>
 <td><p>KII</p></td>
 <td><p>-</p></td>
-<td><p>畢業[106][107]</p></td>
+<td><p>畢業[107][108]</p></td>
 <td><p>34</p></td>
 </tr>
 <tr class="odd">
@@ -1993,7 +1996,7 @@ Le Petite Fleurie的前成员[100]<br />
 <td><p>2019年4月30日</p></td>
 <td><p>S</p></td>
 <td><p>-</p></td>
-<td><p>畢業[108]</p></td>
+<td><p>畢業[109]</p></td>
 <td><p>78</p></td>
 </tr>
 <tr class="even">
@@ -2002,7 +2005,7 @@ Le Petite Fleurie的前成员[100]<br />
 <td></td>
 <td><p>E</p></td>
 <td><p>-</p></td>
-<td><p>畢業[109]</p></td>
+<td><p>畢業[110]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -2018,7 +2021,7 @@ Le Petite Fleurie的前成员[100]<br />
 <td><p>曾有終身名譽研究生称号<br />
 曾任AKB48研究生會會長<br />
 SKE48及48集團最年長<br />
-當日畢業公演[110]</p></td>
+當日畢業公演[111]</p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="even">
@@ -2032,7 +2035,7 @@ SKE48及48集團最年長<br />
 <td><p>前Team KII副隊長<br />
 Team E（初代）<br />
 2010年12月6日降格為研究生<br />
-畢業[111]</p></td>
+畢業[112]</p></td>
 <td><p>42</p></td>
 </tr>
 <tr class="odd">
@@ -2043,7 +2046,7 @@ Team E（初代）<br />
 <td><p>4期</p></td>
 <td><p>-</p></td>
 <td><p>Team E（初代）<br />
-畢業[112]</p></td>
+畢業[113]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -2178,8 +2181,8 @@ Team E（初代）<br />
 <td></td>
 <td><p>3期</p></td>
 <td><p>2009年12月9日</p></td>
-<td><p>espromotion[113]<br />
-axone[114]（梁瀬愛子名義）</p></td>
+<td><p>espromotion[114]<br />
+axone[115]（梁瀬愛子名義）</p></td>
 <td><p>解除契約</p></td>
 <td><p>-</p></td>
 </tr>
@@ -2209,7 +2212,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2012年5月31日</p></td>
-<td><p>PKP[115]</p></td>
+<td><p>PKP[116]</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
@@ -2260,7 +2263,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>6期</p></td>
 <td><p>2013年11月22日</p></td>
 <td><p>-</p></td>
-<td><p>請辭[116]</p></td>
+<td><p>請辭[117]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2270,7 +2273,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>6期</p></td>
 <td><p>2014年2月23日</p></td>
 <td><p>-</p></td>
-<td><p>請辭[117]</p></td>
+<td><p>請辭[118]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2278,9 +2281,9 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td></td>
 <td></td>
 <td><p>6期</p></td>
-<td><p>2014年3月22日[118]</p></td>
+<td><p>2014年3月22日[119]</p></td>
 <td><p>-</p></td>
-<td><p>畢業[119]</p></td>
+<td><p>畢業[120]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2290,7 +2293,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>6期</p></td>
 <td><p>2014年4月29日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[120][121]</p></td>
+<td><p>畢業[121][122]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2300,7 +2303,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>6期</p></td>
 <td><p>2014年5月31日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[122]</p></td>
+<td><p>畢業[123]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2310,7 +2313,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>6期</p></td>
 <td><p>2014年7月29日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[123]</p></td>
+<td><p>畢業[124]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2320,7 +2323,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>6期</p></td>
 <td><p>2015年2月28日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[124]</p></td>
+<td><p>畢業[125]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2330,8 +2333,8 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>5期</p></td>
 <td><p>2015年3月31日</p></td>
 <td><p>-</p></td>
-<td><p>2012年12月－2013年4月19日停止活動[125][126]<br />
-畢業[127]</p></td>
+<td><p>2012年12月－2013年4月19日停止活動[126][127]<br />
+畢業[128]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2352,7 +2355,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>7期</p></td>
 <td><p>2015年11月30日</p></td>
 <td><p>-</p></td>
-<td><p>請辭[128]</p></td>
+<td><p>請辭[129]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2362,7 +2365,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>7期</p></td>
 <td><p>2016年9月30日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[129]<br />
+<td><p>畢業[130]<br />
 最終握手会2016年12月17日</p></td>
 <td><p>-</p></td>
 </tr>
@@ -2373,7 +2376,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>7期</p></td>
 <td><p>2016年12月31日</p></td>
 <td><p>名古屋美少女工廠</p></td>
-<td><p>畢業[130]<br />
+<td><p>畢業[131]<br />
 最終握手會2017年1月8日</p></td>
 <td><p>-</p></td>
 </tr>
@@ -2384,7 +2387,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>8期</p></td>
 <td><p>2017年1月16日</p></td>
 <td><p>-</p></td>
-<td><p>請辭[131]</p></td>
+<td><p>請辭[132]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2395,7 +2398,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>2017年4月12日</p></td>
 <td><p>-</p></td>
 <td><p>請辭<br />
-當日退出第9屆選拔總選舉[132]</p></td>
+當日退出第9屆選拔總選舉[133]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2406,7 +2409,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>2018年6月26日</p></td>
 <td><p>-</p></td>
 <td><p>畢業<br />
-[133]</p></td>
+[134]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2418,7 +2421,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 3期</p></td>
 <td><p>SAKURA entertainment</p></td>
 <td><p>第三屆選秀會議Team S第一輪指名<br />
-畢業[134][135]</p></td>
+畢業[135][136]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -2429,7 +2432,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>8期</p></td>
 <td><p>2018年7月31日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[136]</p></td>
+<td><p>畢業[137]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2439,7 +2442,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>7期</p></td>
 <td><p>2018年8月31日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[137]</p></td>
+<td><p>畢業[138]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2449,7 +2452,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>8期</p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[138]</p></td>
+<td><p>畢業[139]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2459,7 +2462,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>9期</p></td>
 <td><p>2019年1月4日</p></td>
 <td><p>-</p></td>
-<td><p>請辭[139]</p></td>
+<td><p>請辭[140]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2469,7 +2472,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>9期</p></td>
 <td><p>2019年5月13日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[140]</p></td>
+<td><p>畢業[141]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2479,7 +2482,7 @@ axone[114]（梁瀬愛子名義）</p></td>
 <td><p>9期</p></td>
 <td><p>2019年6月30日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[141]</p></td>
+<td><p>畢業[142]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -2911,7 +2914,7 @@ Team KII井口栞里、内山命、鬼頭桃菜、齊藤真木子降格為研究
 <tr class="odd">
 <td><p>4月17日</p></td>
 <td><p>研究生東李苑、市野成美、岩永亞美、江籠裕奈、新土居沙也加、<br />
-二村春香、水埜帆乃香、宮前杏実、藤本美月昇格[142]</p></td>
+二村春香、水埜帆乃香、宮前杏実、藤本美月昇格[143]</p></td>
 <td></td>
 <td><p>82</p></td>
 <td><p>57</p></td>
@@ -3004,7 +3007,7 @@ Team E上野圭澄、原望奈美畢業<br />
 </tr>
 <tr class="even">
 <td><p>2月24日</p></td>
-<td><p>研究生大脇有紗、北川綾巴、北野瑠華、熊崎晴香、日高優月昇格[143]</p></td>
+<td><p>研究生大脇有紗、北川綾巴、北野瑠華、熊崎晴香、日高優月昇格[144]</p></td>
 <td></td>
 <td><p>65</p></td>
 <td><p>51</p></td>
@@ -3223,7 +3226,7 @@ Team S中西优香、佐藤實繪子、Team KII古川爱李、Team E小林亚实
 </tr>
 <tr class="even">
 <td><p>6月12日</p></td>
-<td><p>公布第2回選秀會議選秀生成員[144]</p></td>
+<td><p>公布第2回選秀會議選秀生成員[145]</p></td>
 <td><p>5</p></td>
 <td><p>71</p></td>
 <td><p>51</p></td>
@@ -4466,14 +4469,14 @@ SKE48選秀3期生最初暨最後昇格者</p></td>
 </tr>
 <tr class="odd">
 <td><p>高柳明音</p></td>
-<td><p>2010年6月9日，高柳明音就任隊長[145]</p></td>
+<td><p>2010年6月9日，高柳明音就任隊長[146]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>梅本圓</p></td>
-<td><p>Team E成立，梅本圓就任隊長[146]</p></td>
+<td><p>Team E成立，梅本圓就任隊長[147]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4508,7 +4511,7 @@ SKE48選秀3期生最初暨最後昇格者</p></td>
 </tr>
 <tr class="odd">
 <td><p>矢方美紀</p></td>
-<td><p>佐藤實繪子畢業並指名矢方美紀接任[147]</p></td>
+<td><p>佐藤實繪子畢業並指名矢方美紀接任[148]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4516,7 +4519,7 @@ SKE48選秀3期生最初暨最後昇格者</p></td>
 <tr class="even">
 <td><p>大場美奈</p></td>
 <td><p>內山命</p></td>
-<td><p>古川愛李畢業並指名大場美奈接任隊長，內山命接任副隊長[148]</p></td>
+<td><p>古川愛李畢業並指名大場美奈接任隊長，內山命接任副隊長[149]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4525,12 +4528,12 @@ SKE48選秀3期生最初暨最後昇格者</p></td>
 <td><p>矢方美紀</p></td>
 <td><p>松本慈子</p></td>
 <td><p>福士奈央</p></td>
-<td><p>再次設立總隊長一職，並宣布三位新任的正副隊長名單[149]</p></td>
+<td><p>再次設立總隊長一職，並宣布三位新任的正副隊長名單[150]</p></td>
 </tr>
 <tr class="even">
 <td><p>北川綾巴</p></td>
 <td><p>犬塚朝奈</p></td>
-<td><p>矢方美紀畢業，北川綾巴接任隊長，犬塚朝奈接任副隊長[150]</p></td>
+<td><p>矢方美紀畢業，北川綾巴接任隊長，犬塚朝奈接任副隊長[151]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4582,9 +4585,9 @@ SKE48的成員都會去參與AKB48的歌曲，並會參與AKB的選拔總選舉�
 <td></td>
 <td><p>松井珠理奈、江籠裕奈、北川綾巴、熊崎晴香、後藤樂樂、菅原茉椰、小畑優奈</p></td>
 <td><li>
-<p>2015年10月5日的SKE48七週年特別公演上宣布成立[151]</p>
+<p>2015年10月5日的SKE48七週年特別公演上宣布成立[152]</p>
 <li>
-<p>2015年11月25日發行出道單曲[152]</p></td>
+<p>2015年11月25日發行出道單曲[153]</p></td>
 </tr>
 <tr class="even">
 <td><p>Caramel Cats</p></td>
@@ -4682,19 +4685,19 @@ SDN48（<a href="https://zh.wikipedia.org/wiki/穐田和恵" title="wikilink">�
 <tbody>
 <tr class="odd">
 <td><p><strong>堅強之勇者</strong></p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系動畫</a>《<a href="https://zh.wikipedia.org/wiki/真無敵鐵金剛_衝擊！Z篇" title="wikilink">真無敵鐵金剛 衝擊！Z篇</a> on television》片尾曲<br />
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>系動畫《<a href="https://zh.wikipedia.org/wiki/真無敵鐵金剛_衝擊！Z篇" title="wikilink">真無敵鐵金剛 衝擊！Z篇</a> on television》片尾曲<br />
 東京電視台系《<a href="https://zh.wikipedia.org/wiki/anison+" title="wikilink">anison+</a>》8月份主題曲<br />
 第90回全国高校欖球大会入場進行曲</p></td>
 <td><p>第1張單曲《<a href="https://zh.wikipedia.org/wiki/堅強之勇者" title="wikilink">堅強之勇者</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>藍天下的單相思</strong></p></td>
-<td><p><a href="../Page/TBS.md" title="wikilink">TBS系</a>《》3月及4月份片尾曲</p></td>
+<td><p><a href="../Page/TBS.md" title="wikilink">TBS</a>系《》3月及4月份片尾曲</p></td>
 <td><p>第2張單曲《<a href="https://zh.wikipedia.org/wiki/藍天下的單相思" title="wikilink">藍天下的單相思</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>蹦極宣言</strong></p></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台系</a>《》〈〉使用歌曲</p></td>
+<td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>系《》〈〉使用歌曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4705,7 +4708,7 @@ SDN48（<a href="https://zh.wikipedia.org/wiki/穐田和恵" title="wikilink">�
 <tr class="odd">
 <td><p><strong>1！2！3！4！ 請多關照！</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微軟" title="wikilink">Microsoft</a>「<a href="../Page/Kinect.md" title="wikilink">Kinect</a>」電視廣告歌曲<br />
-<a href="../Page/東海電視台.md" title="wikilink">東海電視台電視劇</a>《<a href="https://zh.wikipedia.org/wiki/妄想刑警！" title="wikilink">妄想刑警！</a>》主題曲</p></td>
+<a href="../Page/東海電視台.md" title="wikilink">東海電視台</a>電視劇《<a href="https://zh.wikipedia.org/wiki/妄想刑警！" title="wikilink">妄想刑警！</a>》主題曲</p></td>
 <td><p>第4張單曲《<a href="../Page/1！2！3！4！_請多關照！.md" title="wikilink">1！2！3！4！ 請多關照！</a>》</p></td>
 </tr>
 <tr class="even">
@@ -4727,13 +4730,13 @@ CBC《<a href="https://zh.wikipedia.org/wiki/Sunday_Dragons" title="wikilink">Su
 </tr>
 <tr class="odd">
 <td><p><strong>翡翠色的沙灘裙</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系</a>《》7月份片尾曲<br />
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>系《》7月份片尾曲<br />
 <a href="https://zh.wikipedia.org/wiki/G-FOOT" title="wikilink">ASBee</a>『ASBee×SKE48』「SUMMER SALE篇」廣告歌曲</p></td>
 <td><p>第6張單曲《<a href="../Page/翡翠色的沙灘裙.md" title="wikilink">翡翠色的沙灘裙</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>初戀的隧道</strong></p></td>
-<td><p><a href="../Page/BeeTV.md" title="wikilink">BeeTV電視劇</a>《》主題曲</p></td>
+<td><p><a href="../Page/BeeTV.md" title="wikilink">BeeTV</a>電視劇《》主題曲</p></td>
 <td><p>第7張單曲《<a href="https://zh.wikipedia.org/wiki/愛就OK" title="wikilink">愛就OK</a>》</p></td>
 </tr>
 <tr class="odd">
@@ -4787,7 +4790,7 @@ CBC《Sunday Dragons》主題曲</p></td>
     「爱是拯救地球」](https://zh.wikipedia.org/wiki/24時間电视台_「爱是拯救地球」 "wikilink")（2010年8月28日、29日，[中京電視台](../Page/中京電視台.md "wikilink")）
     - 中京地区支援成員
   - [第61回NHK红白歌合战](../Page/第61回NHK红白歌合战.md "wikilink")（2010年12月31日、NHK综合）
-    - 以AKB48名义友情出演\[153\]
+    - 以AKB48名义友情出演\[154\]
   - [第62回NHK红白歌合战](https://zh.wikipedia.org/wiki/第62回NHK红白歌合战 "wikilink")（2011年12月31日、NHK综合）
     - 以AKB48名义友情出演
   - 震災後1年 「往明天」演唱會（2012年3月10日、NHK BS・NHK综合）
@@ -4871,7 +4874,7 @@ CBC《Sunday Dragons》主題曲</p></td>
     微妙〜](https://zh.wikipedia.org/wiki/微妙〜 "wikilink")（2011年11月17日
     - 2012年2月23日・不定期出演、）
 
-  - [SKE48的魔法廣播2](../Page/SKE48的魔法廣播.md "wikilink")（2012年4月3日 -
+  - [SKE48的魔法廣播](../Page/SKE48的魔法廣播.md "wikilink")2（2012年4月3日 -
     2012年6月26、日本電視台）
 
   - [SKE48的世界征服女子](../Page/SKE48的世界征服女子.md "wikilink")（2011年10月3日 -
@@ -4879,7 +4882,7 @@ CBC《Sunday Dragons》主題曲</p></td>
 
   - （2012年3月4日 - 2013年3月31日、CBC电视台） - 木本
 
-  - [SKE48的魔法廣播3](../Page/SKE48的魔法廣播.md "wikilink")（2013年1月20日 -
+  - [SKE48的魔法廣播](../Page/SKE48的魔法廣播.md "wikilink")3（2013年1月20日 -
     4月7日、日本電視台）
 
   - 《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》（，2013年10月4日 -
@@ -4908,13 +4911,13 @@ CBC《Sunday Dragons》主題曲</p></td>
   - （2012年3月3日、中京電視台）
 
   - [Uta-TubeSpecial](https://zh.wikipedia.org/wiki/Uta-Tube "wikilink")
-    SKE48全Team大集合\!（2012年8月24日、NHK综合\[154\]）
+    SKE48全Team大集合\!（2012年8月24日、NHK综合\[155\]）
 
-  - Uta-Tube SKE48 紅白歌合戦密着Special（2013年1月14日、NHK综合\[155\]）
+  - Uta-Tube SKE48 紅白歌合戦密着Special（2013年1月14日、NHK综合\[156\]）
 
-  - （2013年3月15日 - 3月17日、NHK综合\[156\]）- 加藤瑠・古川
+  - （2013年3月15日 - 3月17日、NHK综合\[157\]）- 加藤瑠・古川
 
-  - （2013年3月21日、NHK综合\[157\]）- 加藤瑠・古川
+  - （2013年3月21日、NHK综合\[158\]）- 加藤瑠・古川
 
   - MJ presents AKB48 Document 3.11（2013年3月21日、NHK综合）- 松井玲・松井珠
 
@@ -4944,7 +4947,7 @@ CBC《Sunday Dragons》主題曲</p></td>
   - SKE48放課後倶樂部（2010年7月7日－，[FMわっち](https://zh.wikipedia.org/wiki/シティエフエムぎふ "wikilink")）
     - 加藤瑠、山田澪、上野、山田恵
 
-  - SKE48之（2010年7月9日\[158\]，[日本放送系](../Page/日本放送.md "wikilink")） -
+  - SKE48之（2010年7月9日\[159\]，[日本放送](../Page/日本放送.md "wikilink")系） -
     木﨑、松井珠、松井玲、矢神、石田、高柳、向田
 
   - [SKE48♥1+1可不等于2\!](https://zh.wikipedia.org/wiki/SKE48_1+1可不等于2! "wikilink")（2010年11月9日－，[東海廣播放送](https://zh.wikipedia.org/wiki/東海廣播放送 "wikilink")）
@@ -4964,15 +4967,15 @@ CBC《Sunday Dragons》主題曲</p></td>
 
 **過去的廣播節目**
 
-  - （2010年3月24日 - 2011年5月4日、K'z Station）\[159\]\[160\]- 中西・平松・古川
+  - （2010年3月24日 - 2011年5月4日、K'z Station）\[160\]\[161\]- 中西・平松・古川
 
   - SKE48放課後倶樂部（2010年7月7日 -
-    2013年1月30日、[FMわっち](https://zh.wikipedia.org/wiki/シティエフエムぎふ "wikilink")）\[161\]-
+    2013年1月30日、[FMわっち](https://zh.wikipedia.org/wiki/シティエフエムぎふ "wikilink")）\[162\]-
     加藤瑠・山田澪・上野・山田恵
 
-  - （2011年5月16日 - 2013年3月25日、K'z Station）\[162\]- 加藤瑠・佐藤実・上野
+  - （2011年5月16日 - 2013年3月25日、K'z Station）\[163\]- 加藤瑠・佐藤実・上野
 
-  - 神田朱未的我所喜欢的事。（2009年11月1日 - 2013年3月31日、FM愛知）\[163\]\[164\]
+  - 神田朱未的我所喜欢的事。（2009年11月1日 - 2013年3月31日、FM愛知）\[164\]\[165\]
 
 ### 廣告
 
@@ -5031,10 +5034,10 @@ CBC《Sunday Dragons》主題曲</p></td>
   - SKE48，現在，會（2011年5月2日，[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")）
   - 家庭拍賣場、東海電視台presents SPRING STAGE
     2011（2011年5月18日，[中京大学文化市民会館](https://zh.wikipedia.org/wiki/名古屋市民会館 "wikilink")、オーロラホール）
-  - SKE48 全国旅遊「SKE48真夏の上方修正」（2011年6月27日、28日，Zepp Nagoya\[165\]/7月2日，Zepp
-    Tokyo\[166\]/7月3日，Zepp Sendai\[167\]/7月5日，Zepp
-    Sapporo\[168\]/7月9日，Zepp Osaka\[169\]/7月10日，Zepp
-    Fukuoka\[170\]）
+  - SKE48 全国旅遊「SKE48真夏の上方修正」（2011年6月27日、28日，Zepp Nagoya\[166\]/7月2日，Zepp
+    Tokyo\[167\]/7月3日，Zepp Sendai\[168\]/7月5日，Zepp
+    Sapporo\[169\]/7月9日，Zepp Osaka\[170\]/7月10日，Zepp
+    Fukuoka\[171\]）
   - SKE48 春コン2012「SKE専用劇場は秋までにできるのか?」 (2012年4月14、15日，\[日本ガイシホール\])
   - SKE48 「4周年記念公演」(2012年10月5日)
 
@@ -5055,8 +5058,8 @@ CBC《Sunday Dragons》主題曲</p></td>
   - 忘年感謝祭 來洗牌吧，AKB\! SKE也請多關照吧（2008年12月20日，[JCB
     Hall](https://zh.wikipedia.org/wiki/ミーツポート#東京ドームシティホール "wikilink")）
     - 除高井外
-  - AKB48 重溫時間 最佳曲目100 2009（2009年1月18日－21日，SHIBUYA-AX）\[171\]
-  - 「神公演予定」～因諸多因素，也有可能無法成為神公演，望體諒（2009年4月25日、26日，NHK Hall）\[172\]
+  - AKB48 重溫時間 最佳曲目100 2009（2009年1月18日－21日，SHIBUYA-AX）\[172\]
+  - 「神公演予定」～因諸多因素，也有可能無法成為神公演，望體諒（2009年4月25日、26日，NHK Hall）\[173\]
   - AKB104選拔成員組閣祭（2009年8月22日、23日，[日本武道館](../Page/日本武道館.md "wikilink")） -
     TeamS（松井珠在22日）
 
@@ -5079,7 +5082,7 @@ CBC《Sunday Dragons》主題曲</p></td>
     - 特別出演，中西優香也以AKB48研究生身分演出
   - AKB48 分身の術ツアー
     大阪／名古屋公演（2009年8月11日、12日，[なんばHatch](https://zh.wikipedia.org/wiki/なんばHatch "wikilink")、Zepp
-    Nagoya）\[173\]
+    Nagoya）\[174\]
   - サウンドコニファー229 AKB48 夏のサルオバサン祭り（2009年9月13日，[富士急ハイランド
     サウンドコニファー](https://zh.wikipedia.org/wiki/富士急ハイランド_サウンドコニファー "wikilink")）
     - 松井珠、松井玲
@@ -5090,7 +5093,7 @@ CBC《Sunday Dragons》主題曲</p></td>
     - 除了柴木
   - [キャラホビ2008](https://zh.wikipedia.org/wiki/C3×HOBBYキャラホビ "wikilink")
     [SUNSHINE
-    SAKAE出展ブース](https://zh.wikipedia.org/wiki/サンシャイン荣 "wikilink")「AKB48×SKE48」（2008年8月31日，[幕張展覽館国際展示場9〜11](../Page/幕張展覽館.md "wikilink")）
+    SAKAE出展ブース](https://zh.wikipedia.org/wiki/サンシャイン荣 "wikilink")「AKB48×SKE48」（2008年8月31日，[幕張展覽館](../Page/幕張展覽館.md "wikilink")国際展示場9〜11）
     - 除了松井珠、柴木
   - メ〜テレ秋まつり2008（2008年9月27日、28日，名古屋市荣[久屋大通公園](https://zh.wikipedia.org/wiki/久屋大通公園 "wikilink")）
   - チュウキョ〜くんアイランド ガールズ ライヴステージ（2008年10月19日，名古屋久屋大通公園）
@@ -5107,7 +5110,7 @@ CBC《Sunday Dragons》主題曲</p></td>
   - 「第3回SAKAEクリーン大作戦with SKE48」（2009年6月20日，久屋大通公園内「久屋廣場」）
   - [世界Cosplay峰會2009特別支持者](https://zh.wikipedia.org/wiki/世界Cosplay峰會 "wikilink")（2009年8月1日、2日）
   - 『[KYORAKUモアサプライズ](https://zh.wikipedia.org/wiki/京樂產業. "wikilink")\!\!ナイター』サプライズステージ（2009年8月14日，[宮城球場](../Page/宮城球場.md "wikilink")）
-    - \[174\]
+    - \[175\]
   - キャラホビ2009 SKE48出展ブース（2009年8月30日，幕張展覽館国際展示場）
   - 環境名古屋日2009中央行事（2009年9月20日，久屋大通公園一帶）
   - 久屋大通映像節 Sakae Movie Award 2009
@@ -5118,8 +5121,8 @@ CBC《Sunday Dragons》主題曲</p></td>
   - ぱちんこ・パチスロあしたのジョーファンフェスティバル〜あしたのために、打つべし\!〜（2010年1月24日，[東京國際展示場](../Page/東京國際展示場.md "wikilink")）
   - [中國2010年上海世界博覽會](../Page/中國2010年上海世界博覽會.md "wikilink")[中國2010年上海世界博覽會日本產業館](https://zh.wikipedia.org/wiki/中國2010年上海世界博覽會日本產業館 "wikilink")「WCS特別Stage」（2010年6月20日，日本產業館JAL舞台）
     - 中西、松井玲、赤枝
-  - [第22屆日本參議院議員通常選舉投票啓發廣報部員](https://zh.wikipedia.org/wiki/第22屆日本參議院議員通常選舉 "wikilink")（[愛知縣選舉管理委員会](../Page/愛知縣.md "wikilink")）
-    - 小野、出口、中西、平田、加藤智、佐藤實、古川、秦\[175\]
+  - [第22屆日本參議院議員通常選舉投票啓發廣報部員](https://zh.wikipedia.org/wiki/第22屆日本參議院議員通常選舉 "wikilink")（[愛知縣](../Page/愛知縣.md "wikilink")選舉管理委員会）
+    - 小野、出口、中西、平田、加藤智、佐藤實、古川、秦\[176\]
   - スカパー\!×PigooHD SPECIAL SKE48学園祭 バンドしちゃおうLIVE\!\!（2010年7月17日，[澀谷DUO
     MUSIC
     EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）
@@ -5130,7 +5133,7 @@ CBC《Sunday Dragons》主題曲</p></td>
     2010（2010年9月10日，[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")[首爾](../Page/首爾.md "wikilink")、[KBS電視台音樂廳](../Page/KBS電視台音樂廳.md "wikilink")）
     - 木崎、松井玲、石田、小木曾、高柳、向田、若林
   - KYORAKU presents AKB48 SKE48 LIVE in
-    ASIA（2010年11月16日，[澳門金沙劇院](../Page/澳門.md "wikilink")）
+    ASIA（2010年11月16日，[澳門](../Page/澳門.md "wikilink")金沙劇院）
   - [AGE STOCK
     2010](https://zh.wikipedia.org/wiki/AgeStock "wikilink")（2010年11月23日，横濱競技場）
   - [TOKYO GIRLS COLLECTION in
@@ -5197,7 +5200,7 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 <!-- end list -->
 
-4.  [RESET](https://zh.wikipedia.org/wiki/Team_K_6th_Stage「RESET」#SKE48_Team_S_4th_Stage“RESET”公演 "wikilink")（2013年7月23日-2014年4月21日）\[176\]
+4.  [RESET](https://zh.wikipedia.org/wiki/Team_K_6th_Stage「RESET」#SKE48_Team_S_4th_Stage“RESET”公演 "wikilink")（2013年7月23日-2014年4月21日）\[177\]
       - Team S（宮澤→矢方→北川）
 5.  [制服之芽](https://zh.wikipedia.org/wiki/Team_S_3rd_Stage「制服之芽」#SKE48_Team_S_5th_Stage「制服之芽」公演 "wikilink")：2014年4月28日
     - 2016年6月7日（135公演）
@@ -5224,7 +5227,7 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 <!-- end list -->
 
-4.  [劇場的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「劇場的女神」#SKE48_Team_KII_4th_Stage“剧场的女神”公演 "wikilink")（2013年7月25日－2014年4月18日）\[177\]
+4.  [劇場的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「劇場的女神」#SKE48_Team_KII_4th_Stage“剧场的女神”公演 "wikilink")（2013年7月25日－2014年4月18日）\[178\]
       - Team KII（古川→大場）
 5.  [彈珠汽水的飲用方法](https://zh.wikipedia.org/wiki/Team_KII_3rd_Stage「彈珠汽水的飲用方法」#SKE48_Team_KII_5th_Stage「彈珠汽水的飲用方法」公演 "wikilink")：2014年4月30日
     - 2016年5月24日（176公演）
@@ -5239,7 +5242,7 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 1.  [睡衣兜風](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#SKE48_Team_E_1st_Stage「睡衣兜風」公演 "wikilink")：2011年1月16日
     - 2012年3月28日
-2.  [引體後空翻](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引体后空翻」#SKE48_Team_E_2nd_Stage「引體後空翻」公演 "wikilink")：2012年5月14日\[178\]-
+2.  [引體後空翻](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引体后空翻」#SKE48_Team_E_2nd_Stage「引體後空翻」公演 "wikilink")：2012年5月14日\[179\]-
     2013年7月11日
 
 <!-- end list -->
@@ -5249,7 +5252,7 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 <!-- end list -->
 
 3.  [我的太陽](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage“我的太陽”#SKE48_Team_E_3nd_Stage“我的太阳”公演 "wikilink")（2013年7月24日－2014年4月22日）
-    \[179\]
+    \[180\]
 
       - Team E（須田）
 
@@ -5265,9 +5268,9 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 <!-- end list -->
 
 1.  [PARTY开始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#SKE48_研究生公演「Party開始了」 "wikilink")：2010年2月16日
-    - 2012年8月12日\[180\]、2015年7月6日\[181\]- 2017年4月8日
+    - 2012年8月12日\[181\]、2015年7月6日\[182\]- 2017年4月8日
 2.  [想见你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想见你」#SKE48_研究生公演「想見你」公演 "wikilink")：2012年2月27日
-    -\[182\]- 2013年12月23日
+    -\[183\]- 2013年12月23日
 3.  [制服之芽](https://zh.wikipedia.org/wiki/Team_S_3rd_Stage「制服之芽」#SKE48_研究生公演「制服之芽」 "wikilink")：2014年1月5日
     - 2014年4月19日
 4.  SKE48 Upcoming公演
@@ -5277,7 +5280,7 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
   -
 
       -
-        〜夏〜：2014年6月29日\[183\]- 2014年9月22日（7公演）
+        〜夏〜：2014年6月29日\[184\]- 2014年9月22日（7公演）
         〜秋〜：2014年10月24日 - 2014年12月15日（4公演）
         〜冬〜：2015年1月27日 - 2015年4月28日（9公演）
 
@@ -5288,9 +5291,9 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 ### 其他会場的公演
 
-  - PARTY开始了：2008年11月22日（包含研究生）・12月19日（除了高井・高田）[AKB48劇場](../Page/AKB48劇場.md "wikilink")\[184\]
+  - PARTY开始了：2008年11月22日（包含研究生）・12月19日（除了高井・高田）[AKB48劇場](../Page/AKB48劇場.md "wikilink")\[185\]
   - 手牵手：2009年6月6日・7日（Team
-    S）[AKB48劇場](../Page/AKB48劇場.md "wikilink")\[185\]
+    S）[AKB48劇場](../Page/AKB48劇場.md "wikilink")\[186\]
   - SKE48 Team S 「制服之芽」東京公演@Shibuya DUO -Music Exchange-
     （2010年4月12日・7月17日、[Shibuya DUO MUSIC
     EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-EAST#DUO_MUSIC_EXCHANGE "wikilink")）
@@ -5300,9 +5303,9 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
     CAT](https://zh.wikipedia.org/wiki/BIG_CAT "wikilink")）
   - SKE48 Team S 「制服之芽」大阪公演（2010年8月17日、BIG CAT）
   - SKE48 Team S
-    「制服之芽」福岡公演（2010年9月24日、[イムズホール](https://zh.wikipedia.org/wiki/イムズ "wikilink")）\[186\]
+    「制服之芽」福岡公演（2010年9月24日、[イムズホール](https://zh.wikipedia.org/wiki/イムズ "wikilink")）\[187\]
   - 「獻給錯過的你們」～AKB48全體總動員公演～（2011年5月24日 - 6月12日、[TOKYO DOME CITY
-    HALL](https://zh.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL "wikilink")）\[187\]
+    HALL](https://zh.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL "wikilink")）\[188\]
 
 <!-- end list -->
 
@@ -5319,14 +5322,14 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 <!-- end list -->
 
   - AKB48 Group 定期公演 第5弾（2011年7月27日、[新加坡](../Page/新加坡.md "wikilink")
-    \*SCAPE） - Team KII\[188\]
+    \*SCAPE） - Team KII\[189\]
   - SKE48 Team KII 「彈珠汽水的飲用方法」出張公演（2012年2月7日・8日、AKB48劇場）
   - SKE48 Team S
-    「制服の芽」出張公演（2012年2月15日、[NMB48劇場](../Page/NMB48劇場.md "wikilink")）\[189\]
-  - SKE48 Team KII 「彈珠汽水的飲用方法」出張公演（2012年2月16日、NMB48劇場）\[190\]
+    「制服の芽」出張公演（2012年2月15日、[NMB48劇場](../Page/NMB48劇場.md "wikilink")）\[190\]
+  - SKE48 Team KII 「彈珠汽水的飲用方法」出張公演（2012年2月16日、NMB48劇場）\[191\]
   - SKE48 Team S
-    「手牽手」出張公演（2012年2月21日、[HKT48劇場](https://zh.wikipedia.org/wiki/HKT48#HKT48劇場 "wikilink")）\[191\]
-  - SKE48 Team S 「制服之芽」出張公演（2012年2月22日、HKT48劇場）\[192\]
+    「手牽手」出張公演（2012年2月21日、[HKT48劇場](https://zh.wikipedia.org/wiki/HKT48#HKT48劇場 "wikilink")）\[192\]
+  - SKE48 Team S 「制服之芽」出張公演（2012年2月22日、HKT48劇場）\[193\]
   - 「獻給錯過的你們へ2」～AKB48全體總動員公演〜（2012年5月3日 - 5月24日、TOKYO DOME CITY HALL）
 
 <!-- end list -->
@@ -5344,19 +5347,19 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 <!-- end list -->
 
-  - SKE48 研究生 「想见你」出張公演（2012年8月4日、HKT48劇場）\[193\]
-  - SKE48 研究生 「想见你」出張公演（2012年8月5日、NMB48劇場）\[194\]
-  - [HKT48](../Page/HKT48.md "wikilink") Team H「手牽手」公演\[195\]（2012年9月4日
+  - SKE48 研究生 「想见你」出張公演（2012年8月4日、HKT48劇場）\[194\]
+  - SKE48 研究生 「想见你」出張公演（2012年8月5日、NMB48劇場）\[195\]
+  - [HKT48](../Page/HKT48.md "wikilink") Team H「手牽手」公演\[196\]（2012年9月4日
     - 9月28日、HKT48劇場）
-  - SKE48 Team E 「引體後翻」（2012年9月23日、AKB48劇場）\[196\]
-  - SKE48 Team S 「制服之芽」出張公演（2012年9月27日、AKB48劇場）\[197\]
-  - SKE48 Team KII 「彈珠汽水的飲用方法」出張公演（2012年9月28日、AKB48劇場）\[198\]
-  - SKE48 Team E 「引體後翻」出張公演（2012年9月29日、NMB48劇場）\[199\]
+  - SKE48 Team E 「引體後翻」（2012年9月23日、AKB48劇場）\[197\]
+  - SKE48 Team S 「制服之芽」出張公演（2012年9月27日、AKB48劇場）\[198\]
+  - SKE48 Team KII 「彈珠汽水的飲用方法」出張公演（2012年9月28日、AKB48劇場）\[199\]
+  - SKE48 Team E 「引體後翻」出張公演（2012年9月29日、NMB48劇場）\[200\]
   - SKE48 Team E
-    「引體後翻」出張公演（2012年10月22日、[ダイアモンドホール](https://zh.wikipedia.org/wiki/CLUB_DIAMOND_HALL "wikilink")）\[200\]
-  - SKE48 Team S 「制服の芽」出張公演（2012年10月23日、ダイアモンドホール）\[201\]
-  - SKE48 Team KII 「彈珠汽水的飲用方法」出張公演（2012年10月24日、ダイアモンドホール）\[202\]
-  - SKE48 研究生 「想见你」出張公演（2012年10月25日、ダイアモンドホール）\[203\]
+    「引體後翻」出張公演（2012年10月22日、[ダイアモンドホール](https://zh.wikipedia.org/wiki/CLUB_DIAMOND_HALL "wikilink")）\[201\]
+  - SKE48 Team S 「制服の芽」出張公演（2012年10月23日、ダイアモンドホール）\[202\]
+  - SKE48 Team KII 「彈珠汽水的飲用方法」出張公演（2012年10月24日、ダイアモンドホール）\[203\]
+  - SKE48 研究生 「想见你」出張公演（2012年10月25日、ダイアモンドホール）\[204\]
   - 「獻給追憶的你們」～AKB48全體總動員公演～（2013年5月2日 - 5月25日、TOKYO DOME CITY HALL）
 
 <!-- end list -->
@@ -5374,7 +5377,7 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 <!-- end list -->
 
-  - AKB48 研究生公演「睡衣兜風」\[204\]（2013年5月12日、AKB48劇場）
+  - AKB48 研究生公演「睡衣兜風」\[205\]（2013年5月12日、AKB48劇場）
 
 ## 獲獎記錄
 
@@ -5514,10 +5517,10 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 34.
 
-35. [太田-{里}-織菜Twitter](https://twitter.com/Riopyon1231/status/593053890083328000)
-    2015年4月28日投稿
+35.
 
-36.
+36. [太田-{里}-織菜Twitter](https://twitter.com/Riopyon1231/status/593053890083328000)
+    2015年4月28日投稿
 
 37.
 
@@ -5536,12 +5539,12 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 44.
 
 45.
+
 46.
-47. 2013年7月17日预定属于新体制中的Team KII
+47.
+48. 2013年7月17日预定属于新体制中的Team KII
 
-48. [荻野利沙の活動再開　及び、藤本美月の活動辞退、ご報告](http://www.ske48.co.jp/news/?id=1366373912)
-
-49.
+49. [荻野利沙の活動再開　及び、藤本美月の活動辞退、ご報告](http://www.ske48.co.jp/news/?id=1366373912)
 
 50.
 
@@ -5552,8 +5555,8 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 53.
 
 54.
-55.
 
+55.
 56.
 
 57.
@@ -5570,11 +5573,11 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 63.
 
-64. [SKE48 チームKII 加藤智子
+64.
+
+65. [SKE48 チームKII 加藤智子
     活動辞退による卒業のご報告](http://www.ske48.co.jp/news/?id=1408983078)
     2014年8月26日、SKE48公式サイト
-
-65.
 
 66.
 
@@ -5624,13 +5627,13 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 89.
 
-90. 「[SKE48 チームE
+90.
+
+91. 「[SKE48 チームE
     髙寺沙菜卒業のご報告](http://www.ske48.co.jp/news/?id=1513081937)」公式サイト、2017年12月12日付、2017年12月13日閲覧
 
-91. 「[SKE高寺沙菜が来年1月に卒業「将来のことを考えての結論」ブログで明かす](http://www.hochi.co.jp/entertainment/20171212-OHT1T50161.html)
+92. 「[SKE高寺沙菜が来年1月に卒業「将来のことを考えての結論」ブログで明かす](http://www.hochi.co.jp/entertainment/20171212-OHT1T50161.html)
     」スポーツ報知、2017年12月12日、2017年12月13日閲覧
-
-92.
 
 93.
 
@@ -5638,16 +5641,16 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 95.
 
-96. [犬塚あさな劇場最終公演日程のお知らせ](http://www.ske48.co.jp/news/?id=1528706325&select=stage)
-    - SKE48 OFFICIAL WEB SITE (2018年6月11日)
+96.
 
-97.
+97. [犬塚あさな劇場最終公演日程のお知らせ](http://www.ske48.co.jp/news/?id=1528706325&select=stage)
+    - SKE48 OFFICIAL WEB SITE (2018年6月11日)
 
 98.
 
 99.
-100.
 
+100.
 101.
 
 102.
@@ -5672,12 +5675,12 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 112.
 
-113. [公式资料](http://model-espromotion.com/model/yanaseaiko/yanaseaiko.html)
+113.
+
+114. [公式资料](http://model-espromotion.com/model/yanaseaiko/yanaseaiko.html)
 
 
-114. [公式资料](http://ax1.jp/model/yanase_aiko.php)
-
-115.
+115. [公式资料](http://ax1.jp/model/yanase_aiko.php)
 
 116.
 
@@ -5686,8 +5689,8 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 118.
 
 119.
-120.
 
+120.
 121.
 
 122.
@@ -5695,11 +5698,11 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 123.
 
 124.
-125. 「[研究生、荻野利沙の活動について](http://www2.ske48.co.jp/blog/detail/id:20121217001106803/)」事務局博客、2012年12月17日付
 
-126. 「[荻野利沙の活動再開　及び、藤本美月の活動辞退、ご報告](http://www.ske48.co.jp/news/?id=1366373912)」官方网站、2013年4月20日付
+125.
+126. 「[研究生、荻野利沙の活動について](http://www2.ske48.co.jp/blog/detail/id:20121217001106803/)」事務局博客、2012年12月17日付
 
-127.
+127. 「[荻野利沙の活動再開　及び、藤本美月の活動辞退、ご報告](http://www.ske48.co.jp/news/?id=1366373912)」官方网站、2013年4月20日付
 
 128.
 
@@ -5714,8 +5717,8 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 133.
 
 134.
-135.
 
+135.
 136.
 
 137.
@@ -5728,12 +5731,12 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 141.
 
-142. 昇格至新体制施行之前以没有队伍所属的正规成员名义活动。
+142.
 
-143.
-144. 「[SKE48にドラフト2期生の5名が正式加入＆ファンの前で挨拶も！](http://girlsnews.tv/unit/227815)」GirlsNews、2015年6月13日付、2015年7月6日閲覧
+143. 昇格至新体制施行之前以没有队伍所属的正规成员名义活动。
 
-145.
+144.
+145. 「[SKE48にドラフト2期生の5名が正式加入＆ファンの前で挨拶も！](http://girlsnews.tv/unit/227815)」GirlsNews、2015年6月13日付、2015年7月6日閲覧
 
 146.
 
@@ -5745,109 +5748,111 @@ STUDIO，2012年12月以來的SKE48劇場的公演。2012年4月，受歡迎的�
 
 150.
 
-151. [](http://www.ske48.co.jp/news/?id=1444043306) - SKE48官方網站
+151.
 
-152. [](http://www.ske48.co.jp/discography/?id=669&select=single) -
+152. [](http://www.ske48.co.jp/news/?id=1444043306) - SKE48官方網站
+
+153. [](http://www.ske48.co.jp/discography/?id=669&select=single) -
      SKE48官方網站
 
-153. 「[「第61回NHK紅白歌合戦」SKE48出演のお知らせ](http://www.ske48.co.jp/news/?id=1293653111)」公式网站、2010年12月30日、2013年1月3日閲覧
+154. 「[「第61回NHK紅白歌合戦」SKE48出演のお知らせ](http://www.ske48.co.jp/news/?id=1293653111)」公式网站、2010年12月30日、2013年1月3日閲覧
 
-154. 名古屋放送局制作、東海3県・北陸4県放送、並在同年9月22日的深夜進行全国重播。
+155. 名古屋放送局制作、東海3県・北陸4県放送、並在同年9月22日的深夜進行全国重播。
 
-155. 名古屋放送局制作、東海3県・北陸4縣放送、並在同年1月31日的深夜進行全国重播。
+156. 名古屋放送局制作、東海3県・北陸4縣放送、並在同年1月31日的深夜進行全国重播。
 
-156. 名古屋放送局制作、中部7県のみの放送
+157. 名古屋放送局制作、中部7県のみの放送
 
-157. [名古屋放送局制作](http://www.nhk.or.jp/nagoya/tv/other_20130321-01_detail/index.html)
+158. [名古屋放送局制作](http://www.nhk.or.jp/nagoya/tv/other_20130321-01_detail/index.html)
      、中部7県のみの放送
 
-158. 原本預定2011年3月11日重播，但是因為[東日本大震災的報道特別番組而取消](../Page/東日本大震災.md "wikilink")。
+159. 原本預定2011年3月11日重播，但是因為[東日本大震災](../Page/東日本大震災.md "wikilink")的報道特別番組而取消。
 
-159. 同年5月18日開始改至「」。
+160. 同年5月18日開始改至「」。
 
-160. 2013年3月20日開始「おしゃべりやってまーす 第48放送メモリーズ」第1至46回重播。
+161. 2013年3月20日開始「おしゃべりやってまーす 第48放送メモリーズ」第1至46回重播。
 
-161. 「[FMわっち「SKE48放課後倶楽部」放送開始のお知らせ](http://www.ske48.co.jp/news/?id=1278422359)」公式サイト、2010年7月6日、2013年1月3日閲覧
+162. 「[FMわっち「SKE48放課後倶楽部」放送開始のお知らせ](http://www.ske48.co.jp/news/?id=1278422359)」公式サイト、2010年7月6日、2013年1月3日閲覧
 
-162. 2013年5月6日より『おしゃべりやってまーす
+163. 2013年5月6日より『おしゃべりやってまーす
      第48放送2ndメモリーズ』として第1回～69回放送分（2011年5月16日～2013年3月25日）が再配信された。
 
-163. 出演者 - 平松・松下・古川、2011年10月より石田・梅本、同11月より桑原と交代
+164. 出演者 - 平松・松下・古川、2011年10月より石田・梅本、同11月より桑原と交代
 
-164. 「[FM
+165. 「[FM
      AICHI「神田朱未のわたしのすきなこと」](http://www.ske48.co.jp/news/?id=1256200031)」公式サイト、2009年11月22日、2013年1月3日閲覧
 
-165. 27日是TeamS、TeamE，28日是TeamS、TeamKII出演。
+166. 27日是TeamS、TeamE，28日是TeamS、TeamKII出演。
 
-166. TeamS、TeamE出演。
+167. TeamS、TeamE出演。
 
-167.
-168. TeamS、TeamKII出演。
+168.
+169. TeamS、TeamKII出演。
 
-169. TeamKII、TeamE出演。
+170. TeamKII、TeamE出演。
 
-170.
-171. 20日：大矢、尾関、小野、桑原、佐藤実、新海、高田、出口、中西、平田、平松、前川、松井珠、松下、森、矢神
+171.
+172. 20日：大矢、尾関、小野、桑原、佐藤実、新海、高田、出口、中西、平田、平松、前川、松井珠、松下、森、矢神
      21日：松井珠、松井玲
 
-172. 25日：TeamS、稲垣、佐藤實、佐藤聖、TeamKII
+173. 25日：TeamS、稲垣、佐藤實、佐藤聖、TeamKII
      26日：桑原、中西、松井珠、松井玲、松下、山下 出演
 
-173. 兩日皆為：桑原、新海、高田、中西、平田、松井珠、松井玲、矢神、石田、井口、齊藤、高柳、松本、向田、山田澪
+174. 兩日皆為：桑原、新海、高田、中西、平田、松井珠、松井玲、矢神、石田、井口、齊藤、高柳、松本、向田、山田澪
 
-174. 桑原、新海、高田、中西、平田、松井珠、松井玲、矢神、齊藤、高柳、古川、向田
+175. 桑原、新海、高田、中西、平田、松井珠、松井玲、矢神、齊藤、高柳、古川、向田
 
-175. [7月11日（日曜日）参議院議員通常選舉|愛知縣選舉管理委員会](http://www.pref.aichi.jp/shichoson/senkyo/keihatu10/index.html)
+176. [7月11日（日曜日）参議院議員通常選舉|愛知縣選舉管理委員会](http://www.pref.aichi.jp/shichoson/senkyo/keihatu10/index.html)
 
 
-176.
 177.
-178. [「2012年5月公演開催日時決定のお知らせ」](http://www.ske48.co.jp/news/?id=1335441307)
+178.
+179. [「2012年5月公演開催日時決定のお知らせ」](http://www.ske48.co.jp/news/?id=1335441307)
      - SKE48 OFFICIAL WEB SITE（2012年4月26日）
 
-179.
-180. 2012年11月30日現在。『 [SKE48 OFFICIAL HISTORY BOOK
+180.
+181. 2012年11月30日現在。『 [SKE48 OFFICIAL HISTORY BOOK
      まだ、夢の途中](http://ja.wikipedia.org/wiki/SKE48#offi2012)』、2012年、187頁
 
-181.
-
 182.
+
 183.
+184.
 
-184. 「[AKB48劇場でのSKE48公演開催決定\!](http://www.ske48.co.jp/news/?id=1226334586)」2011年11月11日、「[AKB48劇場でのSKE48公演開催決定\!](http://www.ske48.co.jp/news/?id=1229138306)」12月13日、公式サイト、2013年1月3日閲覧
+185. 「[AKB48劇場でのSKE48公演開催決定\!](http://www.ske48.co.jp/news/?id=1226334586)」2011年11月11日、「[AKB48劇場でのSKE48公演開催決定\!](http://www.ske48.co.jp/news/?id=1229138306)」12月13日、公式サイト、2013年1月3日閲覧
 
-185. 「[東京・秋葉原のAKB48劇場にてSKE48『手をつなぎながら』公演の開催決定](http://www.ske48.co.jp/news/?id=1241932924)」公式サイト、2009年5月10日付、2013年1月3日閲覧
+186. 「[東京・秋葉原のAKB48劇場にてSKE48『手をつなぎながら』公演の開催決定](http://www.ske48.co.jp/news/?id=1241932924)」公式サイト、2009年5月10日付、2013年1月3日閲覧
 
-186. 「[9.24 SKE48 Team
+187. 「[9.24 SKE48 Team
      S「制服の芽」福岡出張公演について](http://www.ske48.co.jp/news/?id=1285260014)」公式サイト、2010年9月24日、2013年1月3日閲覧
 
-187. 「[「見逃した君たちへ」～AKB48グループ全公演～](http://www.ske48.co.jp/news/?id=1303887788)」公式サイト、2011年4月27日、2013年1月3日閲覧
+188. 「[「見逃した君たちへ」～AKB48グループ全公演～](http://www.ske48.co.jp/news/?id=1303887788)」公式サイト、2011年4月27日、2013年1月3日閲覧
 
-188. 「[2011.09.04
+189. 「[2011.09.04
      SKE48シンガポール公演](http://www.ske48.co.jp/schedule/?id=1314961593)」「[SKE48シンガポール初公演（AKB48劇場シンガポール公演第5弾）](http://www.ske48.co.jp/news/?id=1310354654)」公式サイト、2013年1月3日閲覧
 
-189. 「[SKE48出張公演（NMB48劇場）のお知らせ](http://www.ske48.co.jp/news/?id=1328669474)」公式サイト、2012年2月8日、2013年1月3日閲覧
+190. 「[SKE48出張公演（NMB48劇場）のお知らせ](http://www.ske48.co.jp/news/?id=1328669474)」公式サイト、2012年2月8日、2013年1月3日閲覧
 
-190.
-191. 「[SKE48出張公演（HKT48劇場）開催のお知らせ](http://www.ske48.co.jp/news/?id=1329311062)」公式サイト、2012年2月15日、2013年1月3日閲覧
+191.
+192. 「[SKE48出張公演（HKT48劇場）開催のお知らせ](http://www.ske48.co.jp/news/?id=1329311062)」公式サイト、2012年2月15日、2013年1月3日閲覧
 
-192.
-193. 「[SKE48研究生出張公演決定のお知らせ](http://www.ske48.co.jp/news/?id=1343453599)」公式サイト、2012年7月28日、2013年1月3日閲覧
+193.
+194. 「[SKE48研究生出張公演決定のお知らせ](http://www.ske48.co.jp/news/?id=1343453599)」公式サイト、2012年7月28日、2013年1月3日閲覧
 
-194.
-195. サプライズ出演。9月4日・5日・6日 - 鬼頭・井口・斉藤、10日 - 井口・後藤理、11日 - 阿比留・井口、12日 -
+195.
+196. サプライズ出演。9月4日・5日・6日 - 鬼頭・井口・斉藤、10日 - 井口・後藤理、11日 - 阿比留・井口、12日 -
      加藤る・阿比留・後藤理、13日 - 加藤る・内山・斉藤、17日 - 井口・後藤理、19日・20日 -
      石田・木下、22日・23日 - 加藤る・鬼頭、24日・25日 - 阿比留・柴田、26日・27日 -
      梅本・金子・小林亜、28日 - 大矢、須田。
 
-196. 「[SKE48出張公演開催のお知らせ](http://www.ske48.co.jp/news/?id=1347700559)」公式サイト、2012年9月16日、2013年1月3日閲覧
+197. 「[SKE48出張公演開催のお知らせ](http://www.ske48.co.jp/news/?id=1347700559)」公式サイト、2012年9月16日、2013年1月3日閲覧
 
-197.
 198.
 199.
-200. 「[SKE48出張公演開催のお知らせ](http://www.ske48.co.jp/news/?id=1350299479)」公式サイト、2012年10月15日、2013年1月3日閲覧
+200.
+201. 「[SKE48出張公演開催のお知らせ](http://www.ske48.co.jp/news/?id=1350299479)」公式サイト、2012年10月15日、2013年1月3日閲覧
 
-201.
 202.
 203.
-204. 内山がサプライズ出演。
+204.
+205. 内山がサプライズ出演。

@@ -1,9 +1,9 @@
-《**蘇GOOD系列**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司首個外判予獨立製作公司所製作的飲食節目系列](../Page/電視廣播有限公司.md "wikilink")。
+《**蘇GOOD系列**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")首個外判予獨立製作公司所製作的飲食節目系列。
 
-節目由[蘇施黃主持](../Page/蘇施黃.md "wikilink")，共有兩輯、一輯賀年版及一集賀年特輯。第1輯由2008年9月22日至10月31日及2008年11月24日至2009年1月2日播出；賀年版由2009年1月19日至1月31日播出，名為《**SO
-FAR蘇GOOD過牛年**》（）；第2輯由2009年8月24日至10月2日及2010年2月22日至4月3日播出。第1輯和賀年版均於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台逢星期一至五晚上](../Page/高清翡翠台.md "wikilink")22:35-23:05同步播放；第2輯則於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台逢星期一至五晚上](../Page/高清翡翠台.md "wikilink")22:30-23:00同步播放，並於翌日凌晨01:45-02:10及04:35-05:00於[高清翡翠台重播](../Page/高清翡翠台.md "wikilink")，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。[高清翡翠台設有互動功能](../Page/高清翡翠台.md "wikilink")，使用有[MHEG-5的](../Page/MHEG-5.md "wikilink")[數碼接收器或](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")[IDTV即可使用](https://zh.wikipedia.org/wiki/IDTV "wikilink")。
+節目由[蘇施黃](../Page/蘇施黃.md "wikilink")主持，共有兩輯、一輯賀年版及一集賀年特輯。第1輯由2008年9月22日至10月31日及2008年11月24日至2009年1月2日播出；賀年版由2009年1月19日至1月31日播出，名為《**SO
+FAR蘇GOOD過牛年**》（）；第2輯由2009年8月24日至10月2日及2010年2月22日至4月3日播出。第1輯和賀年版均於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:35-23:05同步播放；第2輯則於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:30-23:00同步播放，並於翌日凌晨01:45-02:10及04:35-05:00於[高清翡翠台](../Page/高清翡翠台.md "wikilink")重播，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。[高清翡翠台](../Page/高清翡翠台.md "wikilink")設有互動功能，使用有[MHEG-5](../Page/MHEG-5.md "wikilink")的[數碼接收器或](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")[IDTV即可使用](https://zh.wikipedia.org/wiki/IDTV "wikilink")。
 
-另外，[翡翠台於](../Page/翡翠台.md "wikilink")2015年2月21日下午13:15-14:15播出節目《**SO
+另外，[翡翠台](../Page/翡翠台.md "wikilink")於2015年2月21日下午13:15-14:15播出節目《**SO
 FAR蘇GOOD過新年**》（），內容是由2009年《SO FAR蘇GOOD過牛年》中剪輯而成。
 
 另設嘉賓主持是唱片騎師[泰山及模特兒](../Page/泰山_\(電台DJ\).md "wikilink")[李靜儀](../Page/李靜儀.md "wikilink")（Kendy
@@ -43,7 +43,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 <tr class="odd">
 <td><p>04</p></td>
 <td><p>2008年9月26日(星期五)</p></td>
-<td><p><a href="../Page/番茄.md" title="wikilink">番茄煮</a><a href="../Page/蛋.md" title="wikilink">蛋</a></p></td>
+<td><p><a href="../Page/番茄.md" title="wikilink">番茄</a>煮<a href="../Page/蛋.md" title="wikilink">蛋</a></p></td>
 </tr>
 <tr class="even">
 <td><p>05</p></td>
@@ -63,12 +63,12 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 <tr class="odd">
 <td><p>08</p></td>
 <td><p>2008年10月2日(星期四)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/炒" title="wikilink">炒</a><a href="../Page/蓮藕.md" title="wikilink">蓮藕片</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/炒" title="wikilink">炒</a><a href="../Page/蓮藕.md" title="wikilink">蓮藕</a>片</p></td>
 </tr>
 <tr class="even">
 <td><p>09</p></td>
 <td><p>2008年10月3日(星期五)</p></td>
-<td><p><a href="../Page/苦瓜.md" title="wikilink">苦瓜炒</a><a href="../Page/牛肉.md" title="wikilink">牛肉</a></p></td>
+<td><p><a href="../Page/苦瓜.md" title="wikilink">苦瓜</a>炒<a href="../Page/牛肉.md" title="wikilink">牛肉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -78,22 +78,22 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2008年10月7日(星期二)</p></td>
-<td><p><a href="../Page/澳門.md" title="wikilink">澳門美食介紹</a>1</p></td>
+<td><p><a href="../Page/澳門.md" title="wikilink">澳門</a>美食介紹1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2008年10月8日(星期三)</p></td>
-<td><p><a href="../Page/澳門.md" title="wikilink">澳門美食介紹</a>2</p></td>
+<td><p><a href="../Page/澳門.md" title="wikilink">澳門</a>美食介紹2</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2008年10月9日(星期四)</p></td>
-<td><p><a href="../Page/澳門.md" title="wikilink">澳門美食介紹</a>3</p></td>
+<td><p><a href="../Page/澳門.md" title="wikilink">澳門</a>美食介紹3</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2008年10月10日(星期五)</p></td>
-<td><p><a href="../Page/澳門.md" title="wikilink">澳門美食介紹</a>4</p></td>
+<td><p><a href="../Page/澳門.md" title="wikilink">澳門</a>美食介紹4</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -133,7 +133,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 <tr class="odd">
 <td><p>22</p></td>
 <td><p>2008年10月22日(星期三)</p></td>
-<td><p><a href="../Page/麵包.md" title="wikilink">麵包系列</a></p></td>
+<td><p><a href="../Page/麵包.md" title="wikilink">麵包</a>系列</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
@@ -218,7 +218,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 <tr class="even">
 <td><p>39</p></td>
 <td><p>2008年12月5日(星期五)</p></td>
-<td><p><a href="../Page/牛腩.md" title="wikilink">牛腩煲</a></p></td>
+<td><p><a href="../Page/牛腩.md" title="wikilink">牛腩</a>煲</p></td>
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
@@ -397,44 +397,44 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 
 ### 節目簡介
 
-第2輯與第1輯相同，每集均會由[蘇施黃親自下廚](../Page/蘇施黃.md "wikilink")，並教導一些獨門祕方，此輯共60集，最後一集播出時間為2010年4月3日星期六晚21:30-22:00。
+第2輯與第1輯相同，每集均會由[蘇施黃](../Page/蘇施黃.md "wikilink")親自下廚，並教導一些獨門祕方，此輯共60集，最後一集播出時間為2010年4月3日星期六晚21:30-22:00。
 
 ### 每集菜式
 
 |        |                 |                                                                                                                                                                                                                                                                                                                                      |
 | ------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **集數** | **播映日期**        | **內容 / 教授菜式**                                                                                                                                                                                                                                                                                                                        |
-| 01     | 2009年8月24日(星期一) | [鹽水](https://zh.wikipedia.org/wiki/鹽水 "wikilink")[韭菜炸](../Page/韭菜.md "wikilink")[豆腐](../Page/豆腐.md "wikilink")                                                                                                                                                                                                                       |
+| 01     | 2009年8月24日(星期一) | [鹽水](https://zh.wikipedia.org/wiki/鹽水 "wikilink")[韭菜](../Page/韭菜.md "wikilink")炸[豆腐](../Page/豆腐.md "wikilink")                                                                                                                                                                                                                       |
 | 02     | 2009年8月25日(星期二) | 咸酸菜炒[魷魚](https://zh.wikipedia.org/wiki/魷魚 "wikilink")                                                                                                                                                                                                                                                                                |
 | 03     | 2009年8月26日(星期三) | 拜訪[失明人士](https://zh.wikipedia.org/wiki/失明人士 "wikilink")                                                                                                                                                                                                                                                                              |
 | 04     | 2009年8月27日(星期四) | 煎[腐皮卷](https://zh.wikipedia.org/wiki/腐皮卷 "wikilink")                                                                                                                                                                                                                                                                                 |
-| 05     | 2009年8月28日(星期五) | [蝦籽](https://zh.wikipedia.org/wiki/蝦籽 "wikilink")[冬瓜炆](../Page/冬瓜.md "wikilink")[魚腐](https://zh.wikipedia.org/wiki/魚腐 "wikilink")                                                                                                                                                                                                    |
+| 05     | 2009年8月28日(星期五) | [蝦籽](https://zh.wikipedia.org/wiki/蝦籽 "wikilink")[冬瓜](../Page/冬瓜.md "wikilink")炆[魚腐](https://zh.wikipedia.org/wiki/魚腐 "wikilink")                                                                                                                                                                                                    |
 | 06     | 2009年8月31日(星期一) | 燻蛋                                                                                                                                                                                                                                                                                                                                   |
-| 07     | 2009年9月1日(星期二)  | 大暑[冬瓜](../Page/冬瓜.md "wikilink")[湯](https://zh.wikipedia.org/wiki/湯 "wikilink")、蝦頭油[冬瓜羮](../Page/冬瓜.md "wikilink")                                                                                                                                                                                                                   |
-| 08     | 2009年9月2日(星期三)  | 井(WELL)？(VOLCANO)？([蕃茄免治](https://zh.wikipedia.org/wiki/蕃茄 "wikilink")[牛肉配](../Page/牛肉.md "wikilink")[薯蓉](https://zh.wikipedia.org/wiki/薯蓉 "wikilink"))                                                                                                                                                                              |
-| 09     | 2009年9月3日(星期四)  | 甜[西瓜盅](../Page/西瓜.md "wikilink")、鹹[西瓜盅](../Page/西瓜.md "wikilink")                                                                                                                                                                                                                                                                    |
+| 07     | 2009年9月1日(星期二)  | 大暑[冬瓜](../Page/冬瓜.md "wikilink")[湯](https://zh.wikipedia.org/wiki/湯 "wikilink")、蝦頭油[冬瓜](../Page/冬瓜.md "wikilink")羮                                                                                                                                                                                                                   |
+| 08     | 2009年9月2日(星期三)  | 井(WELL)？(VOLCANO)？([蕃茄免治](https://zh.wikipedia.org/wiki/蕃茄 "wikilink")[牛肉](../Page/牛肉.md "wikilink")配[薯蓉](https://zh.wikipedia.org/wiki/薯蓉 "wikilink"))                                                                                                                                                                              |
+| 09     | 2009年9月3日(星期四)  | 甜[西瓜](../Page/西瓜.md "wikilink")盅、鹹[西瓜](../Page/西瓜.md "wikilink")盅                                                                                                                                                                                                                                                                    |
 | 10     | 2009年9月4日(星期五)  | 涼拌[豆腐](../Page/豆腐.md "wikilink")                                                                                                                                                                                                                                                                                                     |
-| 11     | 2009年9月7日(星期一)  | 蔥菜蒸[牛肉餅](../Page/牛肉.md "wikilink")                                                                                                                                                                                                                                                                                                   |
-| 12     | 2009年9月8日(星期二)  | 鮮[紫蘇焗妃排](../Page/紫蘇.md "wikilink")、鮮[紫蘇葉炒蜆](../Page/紫蘇.md "wikilink")                                                                                                                                                                                                                                                                |
+| 11     | 2009年9月7日(星期一)  | 蔥菜蒸[牛肉](../Page/牛肉.md "wikilink")餅                                                                                                                                                                                                                                                                                                   |
+| 12     | 2009年9月8日(星期二)  | 鮮[紫蘇](../Page/紫蘇.md "wikilink")焗妃排、鮮[紫蘇](../Page/紫蘇.md "wikilink")葉炒蜆                                                                                                                                                                                                                                                                |
 | 13     | 2009年9月9日(星期三)  | 參觀[小學試食營養餐](https://zh.wikipedia.org/wiki/小學 "wikilink")                                                                                                                                                                                                                                                                             |
 | 14     | 2009年9月10日(星期四) | 家常燒[茄子](https://zh.wikipedia.org/wiki/茄子 "wikilink")、涼拌[茄子](https://zh.wikipedia.org/wiki/茄子 "wikilink")                                                                                                                                                                                                                             |
 | 15     | 2009年9月11日(星期五) | 水[豆腐](../Page/豆腐.md "wikilink")                                                                                                                                                                                                                                                                                                      |
 | 16     | 2009年9月14日(星期一) | [錦鹵雲吞](https://zh.wikipedia.org/wiki/錦鹵雲吞 "wikilink")                                                                                                                                                                                                                                                                                |
-| 17     | 2009年9月15日(星期二) | [香港美食之旅](../Page/香港.md "wikilink") (一)                                                                                                                                                                                                                                                                                               |
-| 18     | 2009年9月16日(星期三) | [香港美食之旅](../Page/香港.md "wikilink") (二)                                                                                                                                                                                                                                                                                               |
-| 19     | 2009年9月17日(星期四) | [香港美食之旅](../Page/香港.md "wikilink") (三)                                                                                                                                                                                                                                                                                               |
-| 20     | 2009年9月18日(星期五) | [香港美食之旅](../Page/香港.md "wikilink") (四)                                                                                                                                                                                                                                                                                               |
+| 17     | 2009年9月15日(星期二) | [香港](../Page/香港.md "wikilink")美食之旅 (一)                                                                                                                                                                                                                                                                                               |
+| 18     | 2009年9月16日(星期三) | [香港](../Page/香港.md "wikilink")美食之旅 (二)                                                                                                                                                                                                                                                                                               |
+| 19     | 2009年9月17日(星期四) | [香港](../Page/香港.md "wikilink")美食之旅 (三)                                                                                                                                                                                                                                                                                               |
+| 20     | 2009年9月18日(星期五) | [香港](../Page/香港.md "wikilink")美食之旅 (四)                                                                                                                                                                                                                                                                                               |
 | 21     | 2009年9月21日(星期一) | [鹹蛋黃炒](https://zh.wikipedia.org/wiki/鹹蛋 "wikilink")[蝦](https://zh.wikipedia.org/wiki/蝦 "wikilink")、薑蔥炒海中[蝦](https://zh.wikipedia.org/wiki/蝦 "wikilink")                                                                                                                                                                              |
 | 22     | 2009年9月22日(星期二) | 高人                                                                                                                                                                                                                                                                                                                                   |
 | 23     | 2009年9月23日(星期三) | 頻蹸炆[魚](https://zh.wikipedia.org/wiki/魚 "wikilink")、頻蹸飯                                                                                                                                                                                                                                                                               |
 | 24     | 2009年9月24日(星期四) | 糖醋[青瓜](https://zh.wikipedia.org/wiki/青瓜 "wikilink")[荷包蛋](https://zh.wikipedia.org/wiki/荷包蛋 "wikilink")                                                                                                                                                                                                                               |
 | 25     | 2009年9月25日(星期五) | 手撕[雞](https://zh.wikipedia.org/wiki/雞 "wikilink")                                                                                                                                                                                                                                                                                    |
-| 26     | 2009年9月28日(星期一) | 子[薑炆](../Page/薑.md "wikilink")[雞](https://zh.wikipedia.org/wiki/雞 "wikilink")、醃子[薑](../Page/薑.md "wikilink")                                                                                                                                                                                                                         |
+| 26     | 2009年9月28日(星期一) | 子[薑](../Page/薑.md "wikilink")炆[雞](https://zh.wikipedia.org/wiki/雞 "wikilink")、醃子[薑](../Page/薑.md "wikilink")                                                                                                                                                                                                                         |
 | 27     | 2009年9月29日(星期二) | [墾丁之旅](https://zh.wikipedia.org/wiki/墾丁 "wikilink") (一)                                                                                                                                                                                                                                                                              |
 | 28     | 2009年9月30日(星期三) | [墾丁之旅](https://zh.wikipedia.org/wiki/墾丁 "wikilink") (二)                                                                                                                                                                                                                                                                              |
 | 29     | 2009年10月2日(星期五) | [墾丁之旅](https://zh.wikipedia.org/wiki/墾丁 "wikilink") (三)                                                                                                                                                                                                                                                                              |
-| 30     | 2010年2月22日(星期一) | [新加坡生](../Page/新加坡.md "wikilink")[蝦](https://zh.wikipedia.org/wiki/蝦 "wikilink")[米粉](../Page/米粉.md "wikilink")，比賽項目：煎[午餐肉](../Page/午餐肉.md "wikilink")、[韭黃炒滑](https://zh.wikipedia.org/wiki/韭黃 "wikilink")[蛋](../Page/蛋.md "wikilink")                                                                                                |
-| 31     | 2010年2月23日(星期二) | 炒[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[蕹菜](../Page/蕹菜.md "wikilink")，比賽項目：[鹹魚粒炒](../Page/鹹魚.md "wikilink")[芽菜](https://zh.wikipedia.org/wiki/芽菜 "wikilink")、煎[太陽蛋](https://zh.wikipedia.org/wiki/太陽蛋 "wikilink")、[蛋炒飯](https://zh.wikipedia.org/wiki/蛋炒飯 "wikilink")                                                     |
+| 30     | 2010年2月22日(星期一) | [新加坡](../Page/新加坡.md "wikilink")生[蝦](https://zh.wikipedia.org/wiki/蝦 "wikilink")[米粉](../Page/米粉.md "wikilink")，比賽項目：煎[午餐肉](../Page/午餐肉.md "wikilink")、[韭黃炒滑](https://zh.wikipedia.org/wiki/韭黃 "wikilink")[蛋](../Page/蛋.md "wikilink")                                                                                                |
+| 31     | 2010年2月23日(星期二) | 炒[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[蕹菜](../Page/蕹菜.md "wikilink")，比賽項目：[鹹魚](../Page/鹹魚.md "wikilink")粒炒[芽菜](https://zh.wikipedia.org/wiki/芽菜 "wikilink")、煎[太陽蛋](https://zh.wikipedia.org/wiki/太陽蛋 "wikilink")、[蛋炒飯](https://zh.wikipedia.org/wiki/蛋炒飯 "wikilink")                                                     |
 | 32     | 2010年2月24日(星期三) | [新加坡](../Page/新加坡.md "wikilink")[姜](https://zh.wikipedia.org/wiki/姜 "wikilink")[葱](../Page/葱.md "wikilink")[蟹炒](https://zh.wikipedia.org/wiki/蟹 "wikilink")[米粉](../Page/米粉.md "wikilink")，比賽項目：[西多士](../Page/西多士.md "wikilink")、[豉油皇炒](https://zh.wikipedia.org/wiki/豉油 "wikilink")[河粉](https://zh.wikipedia.org/wiki/河粉 "wikilink") |
 | 33     | 2010年2月25日(星期四) | 师奶兵团班长选拔总决赛准备篇、[烤乳猪](https://zh.wikipedia.org/wiki/烤乳猪 "wikilink")(一)                                                                                                                                                                                                                                                                |
 | 34     | 2010年2月26日(星期五) | 师奶兵团班长选拔总决赛、[烤乳猪](https://zh.wikipedia.org/wiki/烤乳猪 "wikilink")(二)                                                                                                                                                                                                                                                                   |
@@ -451,7 +451,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 | 45     | 2010年3月15日(星期一) | 蘿蔔炆牛腩、鯽魚胡椒蘿蔔絲                                                                                                                                                                                                                                                                                                                        |
 | 46     | 2010年3月16日(星期二) | 拜訪[正生書院](https://zh.wikipedia.org/wiki/正生書院 "wikilink")                                                                                                                                                                                                                                                                              |
 | 47     | 2010年3月17日(星期三) | 薑蔥蝦煲、生啫水魚雞煲                                                                                                                                                                                                                                                                                                                          |
-| 48     | 2010年3月18日(星期四) | [鹿頸行山](../Page/鹿頸.md "wikilink")、煎蛋角                                                                                                                                                                                                                                                                                                 |
+| 48     | 2010年3月18日(星期四) | [鹿頸](../Page/鹿頸.md "wikilink")行山、煎蛋角                                                                                                                                                                                                                                                                                                 |
 | 49     | 2010年3月19日(星期五) | 焗豬扒飯                                                                                                                                                                                                                                                                                                                                 |
 | 50     | 2010年3月22日(星期一) | 臘味芋蓉粒、生煎芋頭餅                                                                                                                                                                                                                                                                                                                          |
 | 51     | 2010年3月23日(星期二) | 紅燒花腩大魷魚、「假蛋」                                                                                                                                                                                                                                                                                                                         |
@@ -469,7 +469,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 
 ### 第1輯
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數         | 日期                                                  | 平均收視                                                | 最高收視                                                |
 | -- | ---------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
@@ -489,7 +489,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 
 ### SO FAR蘇GOOD過牛年
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數         | 日期                                                  | 平均收視                                                | 最高收視                                                |
 | -- | ---------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
@@ -499,7 +499,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 
 ### 第2輯
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數        | 日期                                                  | 平均收視                                                | 最高收視                                                |
 | -- | --------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
@@ -529,7 +529,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 
 ### 一般市民的爭議
 
-[星島日報刊登了一篇網民批評](../Page/星島日報.md "wikilink")，批評中指責阿蘇罵人的聲音，人亦無禮貌，經常以「茂利（暓里）」稱呼別人，甚至當眾人面前叫食肆店主「執笠（倒閉）」；又質疑如果青少年及小孩看過節目後，對家長教導子女造成負面影響。\[3\]
+[星島日報](../Page/星島日報.md "wikilink")刊登了一篇網民批評，批評中指責阿蘇罵人的聲音，人亦無禮貌，經常以「茂利（暓里）」稱呼別人，甚至當眾人面前叫食肆店主「執笠（倒閉）」；又質疑如果青少年及小孩看過節目後，對家長教導子女造成負面影響。\[3\]
 而[am730刊登的文章亦指](https://zh.wikipedia.org/wiki/am730 "wikilink")[蘇施黃](../Page/蘇施黃.md "wikilink")「So
 Bad」。
 
@@ -555,20 +555,20 @@ Bad」。
 
 廣管局至今亦接到投訴，內容指阿蘇說話過於粗俗，對人呼呼喝喝，教壞小朋友。
 
-被市民指責她以「茂利（暓里）」，很不尊重別人，後來蘇在節目中請來其叔父[劉天賜解釋](../Page/劉天賜.md "wikilink")「茂利」一詞，只是用來形容荒謬怪誕或無知的人
+被市民指責她以「茂利（暓里）」，很不尊重別人，後來蘇在節目中請來其叔父[劉天賜](../Page/劉天賜.md "wikilink")解釋「茂利」一詞，只是用來形容荒謬怪誕或無知的人
 ，與「盲毛」的意思相近，並沒有粗俗或不尊敬的意思。\[8\]\[9\]\[10\]\[11\]
 
 ### 與助手糾紛
 
 蘇施黃在本輯節目之助手**李靜儀**原定會拍輯60集，但她拍了第1輯前半部後未有出現。據幕後人員透露，李靜儀是因為抵不住主持人蘇施黃的呼呼喝喝和不斷[髒言辱罵](https://zh.wikipedia.org/wiki/髒言 "wikilink")，與蘇施黃關係決裂，故拍完第1輯前半部即以個人理由請辭。
 
-幕後人員向傳媒透露真相時說，蘇施黃平時是一個十分難服待的人，什麼事也罵到人狗血淋頭，毫不尊重幕後人員。近日她還變得愈來愈暴躁，助手李靜儀幫蘇施黃煮食，常被指派執頭執尾，因接觸最多，所以被罵得最慘烈，[蘇施黃常以](../Page/蘇施黃.md "wikilink")「死蠢」、「白癡」等侮辱性字眼來呼喚李靜儀，不時更罵得她當場眼紅紅，在場其他人也看不過眼，不過沒有人敢出言相勸。
+幕後人員向傳媒透露真相時說，蘇施黃平時是一個十分難服待的人，什麼事也罵到人狗血淋頭，毫不尊重幕後人員。近日她還變得愈來愈暴躁，助手李靜儀幫蘇施黃煮食，常被指派執頭執尾，因接觸最多，所以被罵得最慘烈，[蘇施黃](../Page/蘇施黃.md "wikilink")常以「死蠢」、「白癡」等侮辱性字眼來呼喚李靜儀，不時更罵得她當場眼紅紅，在場其他人也看不過眼，不過沒有人敢出言相勸。
 
 被問及為何沒有人敢發言說句公道話，幕後人員解釋是次《蘇Good》的製作，是由阿蘇找來「好合拍製作公司」與她一手包辦，無綫只是買播映權，節目製作的一切決策及話事權全由蘇施黃一人負責。故此大家為了飯碗，看到不公平的事唯有啞忍，忍得很辛苦，只敢怒不敢言。\[12\]
 
 舊節目班底只有主持泰山同稱為「聰明人」的攝影師可以留低，繼續在今次的新節目中與蘇施黃合作。
 
-李靜儀請辭後，[蘇施黃第](../Page/蘇施黃.md "wikilink")1輯后半部找來了**李蔚琳**代替她。 \[13\]\[14\]
+李靜儀請辭後，[蘇施黃](../Page/蘇施黃.md "wikilink")第1輯后半部找來了**李蔚琳**代替她。 \[13\]\[14\]
 但是在第1輯后半部早期和12月29日晚上的節目中，李靜儀再次出現，似乎為較早拍攝片段。
 
 ## 參考資料

@@ -4,7 +4,7 @@
 
 ## 分佈
 
-本物種在[西太平洋](https://zh.wikipedia.org/wiki/西太平洋 "wikilink")見於[台灣海峽](../Page/台灣海峽.md "wikilink")、[南中國海](https://zh.wikipedia.org/wiki/南中國海 "wikilink")[兩廣及](../Page/兩廣.md "wikilink")[南沙群島](https://zh.wikipedia.org/wiki/南沙群島 "wikilink")海域、[印度尼西亚](../Page/印度尼西亚.md "wikilink")，在[印度洋見於](../Page/印度洋.md "wikilink")[阿拉伯半島東部](https://zh.wikipedia.org/wiki/阿拉伯半島 "wikilink")及[馬達加斯加](https://zh.wikipedia.org/wiki/馬達加斯加 "wikilink")。
+本物種在[西太平洋](https://zh.wikipedia.org/wiki/西太平洋 "wikilink")見於[台灣海峽](../Page/台灣海峽.md "wikilink")、[南中國海](https://zh.wikipedia.org/wiki/南中國海 "wikilink")[兩廣](../Page/兩廣.md "wikilink")及[南沙群島](https://zh.wikipedia.org/wiki/南沙群島 "wikilink")海域、[印度尼西亚](../Page/印度尼西亚.md "wikilink")，在[印度洋](../Page/印度洋.md "wikilink")見於[阿拉伯半島東部](https://zh.wikipedia.org/wiki/阿拉伯半島 "wikilink")及[馬達加斯加](https://zh.wikipedia.org/wiki/馬達加斯加 "wikilink")。
 
 ## 参考文献
 

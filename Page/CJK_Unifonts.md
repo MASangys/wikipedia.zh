@@ -1,14 +1,14 @@
 **CJK
 Unifonts**是[開放版權](https://zh.wikipedia.org/wiki/開放版權 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字型](../Page/字型.md "wikilink")，其中的明体
 (UMing)
-曾為大型[Linux發行版如](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora用作預設中文字型](../Page/Fedora.md "wikilink")。
+曾為大型[Linux發行版如](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")用作預設中文字型。
 
 ## 緣起
 
-[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[自由軟件作者](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")**螢火飛**將[文鼎科技釋出之](../Page/文鼎科技.md "wikilink")[公眾授權](https://zh.wikipedia.org/wiki/公眾授權 "wikilink")（Public
+[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[自由軟件作者](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")**螢火飛**將[文鼎科技](../Page/文鼎科技.md "wikilink")釋出之[公眾授權](https://zh.wikipedia.org/wiki/公眾授權 "wikilink")（Public
 License）字型「文鼎上海宋」及「文鼎簡報宋」合併及增加[點陣字成為](https://zh.wikipedia.org/wiki/點陣字 "wikilink")**文鼎
 PL
-新宋**。居台德國人**高盛華**將之擴充，包括加入日文、韓文以及[開源香港常用中文字體計劃所造之](../Page/開源香港常用中文字體計劃.md "wikilink")[香港字而成](https://zh.wikipedia.org/wiki/香港字 "wikilink")**UMing**\[1\]，並將兩套楷書字體（「文鼎PL中楷」及「文鼎PL簡中楷」）合併成**UKai**，合稱**CJK
+新宋**。居台德國人**高盛華**將之擴充，包括加入日文、韓文以及[開源香港常用中文字體計劃](../Page/開源香港常用中文字體計劃.md "wikilink")所造之[香港字而成](https://zh.wikipedia.org/wiki/香港字 "wikilink")**UMing**\[1\]，並將兩套楷書字體（「文鼎PL中楷」及「文鼎PL簡中楷」）合併成**UKai**，合稱**CJK
 Unifonts**。
 
 UMing使用了語言識別技術，用於不同語境時會顯示不同[字形](../Page/字形.md "wikilink")\[2\]。最新版本為
@@ -24,6 +24,7 @@ UMing使用了語言識別技術，用於不同語境時會顯示不同[字形](
 ## 另見
 
   - [CJK字体列表](../Page/CJK字体列表.md "wikilink")
+  - [開源香港常用中文字體計劃](../Page/開源香港常用中文字體計劃.md "wikilink")
 
 ## 外部連結
 

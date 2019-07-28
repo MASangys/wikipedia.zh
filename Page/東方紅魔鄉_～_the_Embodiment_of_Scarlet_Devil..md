@@ -1,5 +1,5 @@
 [The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg")
-是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團所制作的縱](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")所制作的縱[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談
 ～ Mystic
@@ -15,11 +15,11 @@ Market](../Page/Comic_Market.md "wikilink")
 
 玩家需要操作自機（遊戲主角）在屏幕上移動，向敵機（敵人）進行射擊，同時避免被敵人發射的子彈擊中。在每關的中間和結尾，玩家需要擊敗特定敵方頭目（即道中BOSS和關卡BOSS）才能繼續遊戲。玩家可以發動BOMB（炸彈/大招）以擺脫困境。BOMB的威力比普通攻擊高，可消除炸彈範圍內的所有敵方子彈，BOMB使用後一小段時間內自機處於無敵狀態，但BOMB數量有限。某些敵人在被消滅後會掉落一個BOMB，可供玩家補充。
 
-本作可從[博麗靈夢和](../Page/博麗靈夢.md "wikilink")[霧雨魔理沙兩人中選擇一個作為自機](../Page/霧雨魔理沙.md "wikilink")。選擇其中一人後，可從兩種武器中選擇其中一種，進行全6關（在Easy難度之下只有5關）的故事模式。當以Normal或以上難度挑戰且不續關成功破關的話，會進入Good
+本作可從[博麗靈夢](../Page/博麗靈夢.md "wikilink")和[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")兩人中選擇一個作為自機。選擇其中一人後，可從兩種武器中選擇其中一種，進行全6關（在Easy難度之下只有5關）的故事模式。當以Normal或以上難度挑戰且不續關成功破關的話，會進入Good
 Ending，並解鎖難度更高的Extra模式。續關後通關或在Easy難度之下通關會進入Bad
 Ending。另外關於結局方面，即使武器種類的選擇都會令結局有所改變。
 
-本作從前作繼承了若干遊戲系統，例如道具自動收集、低速移動模式、擦彈等，此外又引入了很多新系統，包括得分獎勵殘機（達到指定分數後自動獎勵一個殘機）、Replay（遊戲回放）功能、被彈BOMB（在中彈後几幀之內發動BOMB以避免損失殘機）、[符卡等](../Page/符卡.md "wikilink")。
+本作從前作繼承了若干遊戲系統，例如道具自動收集、低速移動模式、擦彈等，此外又引入了很多新系統，包括得分獎勵殘機（達到指定分數後自動獎勵一個殘機）、Replay（遊戲回放）功能、被彈BOMB（在中彈後几幀之內發動BOMB以避免損失殘機）、[符卡](../Page/符卡.md "wikilink")等。
 
 ### 符卡
 
@@ -31,9 +31,9 @@ Ending。另外關於結局方面，即使武器種類的選擇都會令結局�
 
 ## 劇情
 
-當時是[幻想鄉的夏季](../Page/幻想鄉.md "wikilink")。但是，那一天不知甚麼原因，整個幻想鄉的天空籠罩著一片紅色[濃霧](https://zh.wikipedia.org/wiki/濃霧 "wikilink")。日光被遮住，使得這個幻想鄉的夏天顯得格外寒冷。
+當時是[幻想鄉](../Page/幻想鄉.md "wikilink")的夏季。但是，那一天不知甚麼原因，整個幻想鄉的天空籠罩著一片紅色[濃霧](https://zh.wikipedia.org/wiki/濃霧 "wikilink")。日光被遮住，使得這個幻想鄉的夏天顯得格外寒冷。
 
-博麗神社的[巫女](../Page/巫女.md "wikilink")[博麗靈夢為了避免這片紅霧影響到人里的正常生活](../Page/博麗靈夢.md "wikilink")，因此對此事件展開調查。她在直覺影響之下，向湖的方向出發了；普通的[魔法使](https://zh.wikipedia.org/wiki/魔法使 "wikilink")[霧雨魔理沙正在空中觀覽著湖](../Page/霧雨魔理沙.md "wikilink")，突然發覺紅霧把視線都擋住了。想到怪物和人一樣都是不靠水就不能生存之下，魔理沙就像是为了寻找什么有价值的宝物一样，毅然向湖的方向出發了。
+博麗神社的[巫女](../Page/巫女.md "wikilink")[博麗靈夢](../Page/博麗靈夢.md "wikilink")為了避免這片紅霧影響到人里的正常生活，因此對此事件展開調查。她在直覺影響之下，向湖的方向出發了；普通的[魔法使](https://zh.wikipedia.org/wiki/魔法使 "wikilink")[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")正在空中觀覽著湖，突然發覺紅霧把視線都擋住了。想到怪物和人一樣都是不靠水就不能生存之下，魔理沙就像是为了寻找什么有价值的宝物一样，毅然向湖的方向出發了。
 
 主角首先飛向了湖中的島，這個地方似乎是紅霧的源頭。在湖邊和湖中分別遇到了攔路的黑暗妖怪露米婭和冰之妖精琪露諾，主角打敗了她們，發現她們與紅霧異變無關。於是主角繼續前進，來到了紅魔館門口。紅魔館門口由中華風的妖怪紅美鈴看守。雙方經過交戰，紅美鈴被打敗，主角闖入了紅魔館內部。主角首先進入了地下的圖書館，館內的魔法使帕秋莉·诺蕾姬試圖阻止主角進入，未果。隨後主角到達了主要的走廊，並碰到了女僕長十六夜咲夜。咲夜也未能阻止主角接近大小姐。最後，主角在露臺面對了大小姐，即紅魔館的主人、緋紅的惡魔蕾米莉亚·斯卡雷特。經過對話，主角意識到，蕾米莉亚之所以引發了紅霧異變，是為了遮擋陽光，使自己能夠在白天出行更加舒服。經過一番戰鬥，蕾米莉亚被打敗。蕾米莉亚收起了紅霧，幻想鄉恢復了正常。
 
@@ -44,7 +44,7 @@ Extra關發生在異變解決之後。蕾米莉亚被打敗之後，經常來到
 ### 自機角色
 
   - [博麗靈夢](../Page/博麗靈夢.md "wikilink")（）
-    博麗[神社的](../Page/神社.md "wikilink")[巫女](../Page/巫女.md "wikilink")，也是主角。為了解決當前紅霧包圍著幻想鄉的事態，於是就像平時一樣出發了。
+    博麗[神社](../Page/神社.md "wikilink")的[巫女](../Page/巫女.md "wikilink")，也是主角。為了解決當前紅霧包圍著幻想鄉的事態，於是就像平時一樣出發了。
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@ Extra關發生在異變解決之後。蕾米莉亚被打敗之後，經常來到
 <!-- end list -->
 
   - <span id="十六夜咲夜"></span>十六夜咲夜（，Izayoi Sakuya）
-    紅魔館[女僕長](https://zh.wikipedia.org/wiki/女僕 "wikilink")，红魔馆的实际管理人，特殊能力是控制時間，武器是[銀製](../Page/銀.md "wikilink")[小刀](https://zh.wikipedia.org/wiki/小刀 "wikilink")（因為是銀，所以也對妖怪、幽靈有效；不過因為銀取得不易，打算用別的材料）。她身材较高\[4\]，看起来像是10至20岁的少女（她本人也是这样说的），但從性格上來看卻像是幾百年前的人。
+    紅魔館[女僕長](https://zh.wikipedia.org/wiki/女僕 "wikilink")，红魔馆的实际管理人，特殊能力是控制時間，武器是[銀](../Page/銀.md "wikilink")製[小刀](https://zh.wikipedia.org/wiki/小刀 "wikilink")（因為是銀，所以也對妖怪、幽靈有效；不過因為銀取得不易，打算用別的材料）。她身材较高\[4\]，看起来像是10至20岁的少女（她本人也是这样说的），但從性格上來看卻像是幾百年前的人。
 
 <!-- end list -->
 
@@ -88,13 +88,13 @@ Extra關發生在異變解決之後。蕾米莉亚被打敗之後，經常來到
 
 ## 開發
 
-東方紅魔鄉是[ZUN第一次以](../Page/ZUN.md "wikilink")「[上海愛麗絲幻樂團](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")」名義發佈的遊戲作品。遊戲開發的大部分工作由ZUN一人完成，而[西方Project的开发成员ぽんち](../Page/西方Project.md "wikilink")（pbg）為ZUN准备了开发环境並提供了编程支持。
+東方紅魔鄉是[ZUN](../Page/ZUN.md "wikilink")第一次以「[上海愛麗絲幻樂團](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")」名義發佈的遊戲作品。遊戲開發的大部分工作由ZUN一人完成，而[西方Project](../Page/西方Project.md "wikilink")的开发成员ぽんち（pbg）為ZUN准备了开发环境並提供了编程支持。
 
 ZUN認為，東方紅魔鄉作為上海愛麗絲幻樂團的第一部作品和他個人的第一部Windows遊戲作品，需要給人們留下深刻的印象，因此本作採用了西方世界的主題，而不是像其他作品那樣從東方世界取材。\[5\]
 
-符卡系統最初於1999年ZUN參與製作[西方Project時設計](../Page/西方Project.md "wikilink")，用於識別彈幕排列樣式與豐富角色的內涵。ZUN表示製作紅魔鄉本身就是為了引入符卡系統。\[6\]
+符卡系統最初於1999年ZUN參與製作[西方Project](../Page/西方Project.md "wikilink")時設計，用於識別彈幕排列樣式與豐富角色的內涵。ZUN表示製作紅魔鄉本身就是為了引入符卡系統。\[6\]
 
-東方紅魔鄉也是ZUN編寫的第一個大型的Windows程式。ZUN表示「实际是托了[API和](https://zh.wikipedia.org/wiki/應用程式接口 "wikilink")[DirectX等环境过于好用的福了](../Page/DirectX.md "wikilink")」。遊戲開發過程中，更多的時間花在了[函式庫和工具的製作上面](../Page/函式庫.md "wikilink")。ZUN希望從下個作品開始遊戲效果能夠得到改善。\[7\]
+東方紅魔鄉也是ZUN編寫的第一個大型的Windows程式。ZUN表示「实际是托了[API和](https://zh.wikipedia.org/wiki/應用程式接口 "wikilink")[DirectX](../Page/DirectX.md "wikilink")等环境过于好用的福了」。遊戲開發過程中，更多的時間花在了[函式庫](../Page/函式庫.md "wikilink")和工具的製作上面。ZUN希望從下個作品開始遊戲效果能夠得到改善。\[7\]
 
 ## 註釋
 

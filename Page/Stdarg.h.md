@@ -1,6 +1,6 @@
-**`stdarg.h`**是[C語言中](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫的](../Page/C標準函式庫.md "wikilink")[標頭檔](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")，stdarg是由**st**andar**d**（標準）
+**`stdarg.h`**是[C語言中](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫](../Page/C標準函式庫.md "wikilink")的[標頭檔](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")，stdarg是由**st**andar**d**（標準）
 **arg**uments（參數）簡化而來，主要目的為讓函式能夠接收不定量參數。\[1\]
-[C++的](../Page/C++.md "wikilink")`cstdarg`標頭檔中也提供這樣的機能；雖然與C的標頭檔是相容的，但是也有衝突存在。
+[C++](../Page/C++.md "wikilink")的`cstdarg`標頭檔中也提供這樣的機能；雖然與C的標頭檔是相容的，但是也有衝突存在。
 
 [不定參數函式](https://zh.wikipedia.org/wiki/不定參數函式 "wikilink")（Variadic
 functions）是`stdarg.h`內容典型的應用，雖然也可以使用在其他由不定參數函式呼叫的函式（例如，[`vprintf`](https://zh.wikipedia.org/wiki/vprintf "wikilink")）。

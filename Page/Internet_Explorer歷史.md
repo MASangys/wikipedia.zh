@@ -6,7 +6,7 @@ Explorer可运行于[Microsoft
 Windows下](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，但有些版本也包含[Apple
 Macintosh版本](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")，详细信息请参考[Internet
 Explorer for
-Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")。对于[UNIX版本](../Page/UNIX.md "wikilink")，请参见[Internet
+Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")。对于[UNIX](../Page/UNIX.md "wikilink")版本，请参见[Internet
 Explorer for
 UNIX](../Page/Internet_Explorer_for_UNIX.md "wikilink")，对于移动设备版本，例如[Windows
 CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")、[Windows
@@ -29,13 +29,13 @@ NT发布了](../Page/Windows_NT.md "wikilink")**1.5版本**，该版本对表格
 NT同时发布，支持的功能包括[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")、[Cookie](../Page/Cookie.md "wikilink")、[VRML](../Page/VRML.md "wikilink")，以及Internet
 [新闻组](../Page/新闻组.md "wikilink")。2.0版还在1996年4月发布了针对Macintosh以及Windows
 3.1的版本。同时第二版还包含在Microsoft于1996年上半年发布的*Internet Starter Kit for Windows
-95*中，该软件售价19.99美元，其中包含一本操作指南图书，30天的[MSN上网服务](../Page/MSN.md "wikilink")，外加其他一些功能\[2\]。
+95*中，该软件售价19.99美元，其中包含一本操作指南图书，30天的[MSN](../Page/MSN.md "wikilink")上网服务，外加其他一些功能\[2\]。
 
 [Internet Explorer 3.0](../Page/Internet_Explorer_3.md "wikilink")
 1996年8月免费发布，该版本包含在Windows
 95中，同时也由对应的OEM渠道发布。随后Microsoft已经无法通过IE直接获得收益，同时也只向Spyglass支付最低额度的季费。1997年，Spyglass用合约威胁Microsoft，作为回应，Microsoft用八百万美元解决了问题\[3\]。第三版中包含了Internet
 Mail and News
-1.0，以及Windows地址簿，另外这个版本还让该浏览器中出现了更类似[Netscape的工具栏](https://zh.wikipedia.org/wiki/Netscape "wikilink")，并开始支持Netscape的[插件技术](../Page/插件.md "wikilink")（[NPAPI](../Page/NPAPI.md "wikilink")）、[ActiveX](../Page/ActiveX.md "wikilink")、，以及一种名为[JScript的反向汇编版本的](../Page/JScript.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")。随后，和[Windows
+1.0，以及Windows地址簿，另外这个版本还让该浏览器中出现了更类似[Netscape的工具栏](https://zh.wikipedia.org/wiki/Netscape "wikilink")，并开始支持Netscape的[插件](../Page/插件.md "wikilink")技术（[NPAPI](../Page/NPAPI.md "wikilink")）、[ActiveX](../Page/ActiveX.md "wikilink")、，以及一种名为[JScript](../Page/JScript.md "wikilink")的反向汇编版本的[JavaScript](../Page/JavaScript.md "wikilink")。随后，和[Windows
 Media
 Player也被包含到该产品中](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")，这样已经变得不再像以前那么重要了。[层叠样式表](../Page/层叠样式表.md "wikilink")（CSS）也是从第三版开始包含在Internet
 Explorer中。
@@ -45,7 +45,7 @@ Explorer中。
 [Internet_Explorer_4.png](https://zh.wikipedia.org/wiki/File:Internet_Explorer_4.png "fig:Internet_Explorer_4.png")
 [第四版发布于](../Page/Internet_Explorer_4.md "wikilink")1997年9月，是包含在最新的测试版[Windows
 98发布的](../Page/Windows_98.md "wikilink")，并且通过修改，也能够和Microsoft
-Windows更紧密地捆绑在一起。该版本中包含了一个选项，可用于启用「[活动桌面](../Page/活动桌面.md "wikilink")」，这个功能可将[万维网内容直接显示在桌面上](../Page/万维网.md "wikilink")，并可在内容有变动时立刻更新，另外用户还可以选择其他页面作为活动桌面内容使用。「」技术也在此时出现，该技术可自动获取来自网站的信息更新。该技术基于一种名为（CDF）的XML标准，该技术可以看作是当前使用的格式，例如[RSS等的先驱](../Page/RSS.md "wikilink")。该版本可运行于Windows
+Windows更紧密地捆绑在一起。该版本中包含了一个选项，可用于启用「[活动桌面](../Page/活动桌面.md "wikilink")」，这个功能可将[万维网](../Page/万维网.md "wikilink")内容直接显示在桌面上，并可在内容有变动时立刻更新，另外用户还可以选择其他页面作为活动桌面内容使用。「」技术也在此时出现，该技术可自动获取来自网站的信息更新。该技术基于一种名为（CDF）的XML标准，该技术可以看作是当前使用的格式，例如[RSS](../Page/RSS.md "wikilink")等的先驱。该版本可运行于Windows
 95、Windows 98以及Windows
 NT，另外还可直接从Internet免费下载。该版本开始支持[动态HTML](https://zh.wikipedia.org/wiki/动态HTML "wikilink")（DHTML），同时开始捆绑[Outlook
 Express](../Page/Outlook_Express.md "wikilink")
@@ -53,7 +53,7 @@ Express](../Page/Outlook_Express.md "wikilink")
 Mail &
 News产品。[第五版发布于](../Page/Internet_Explorer_5.md "wikilink")1999年3月，这是在Microsoft于1998年底发布测试版Internet
 Explorer
-5.0后更新的。对[雙向文稿](../Page/雙向文稿.md "wikilink")、[旁注标记以及直接](https://zh.wikipedia.org/wiki/旁注标记 "wikilink")[XML](../Page/XML.md "wikilink")／[XSLT等功能的支持也是从这个版本开始的](../Page/XSLT.md "wikilink")，另外这个版本还改善了对CSS
+5.0后更新的。对[雙向文稿](../Page/雙向文稿.md "wikilink")、[旁注标记以及直接](https://zh.wikipedia.org/wiki/旁注标记 "wikilink")[XML](../Page/XML.md "wikilink")／[XSLT](../Page/XSLT.md "wikilink")等功能的支持也是从这个版本开始的，另外这个版本还改善了对CSS
 Level 1和2的支持。Internet Explorer
 5的真正发布可分为三个阶段，首先，1998年6月发布了一个开发人员预览版（5.0B1），随后在1998年11月发布了公众预览版（5.0B2），最后在1999年3月发布了最终版（5.0）。9月，该软件随着Windows
 98一起发布，第五版是最后一个可用于Windows 3.1x或Windows NT
@@ -67,8 +67,8 @@ XP一起于](../Page/Windows_XP.md "wikilink")2001年8月27日发布，该版本
 
 ### 美國訴微軟案
 
-在一次由[美国司法部和](../Page/美国司法部.md "wikilink")20个[美國州份发起的法律诉讼中](https://zh.wikipedia.org/wiki/美國州份 "wikilink")，Microsoft被控告违反了一则早期的同意令，将Internet
-Explorer与操作系统软件[捆綁在了一起](https://zh.wikipedia.org/wiki/綁售 "wikilink")。司法部采纳的证据表明Microsoft与[OEM计算机制造商的](https://zh.wikipedia.org/wiki/OEM "wikilink")[契约要求将Internet](../Page/契约.md "wikilink")
+在一次由[美国司法部](../Page/美国司法部.md "wikilink")和20个[美國州份发起的法律诉讼中](https://zh.wikipedia.org/wiki/美國州份 "wikilink")，Microsoft被控告违反了一则早期的同意令，将Internet
+Explorer与操作系统软件[捆綁在了一起](https://zh.wikipedia.org/wiki/綁售 "wikilink")。司法部采纳的证据表明Microsoft与[OEM计算机制造商的](https://zh.wikipedia.org/wiki/OEM "wikilink")[契约](../Page/契约.md "wikilink")要求将Internet
 Explorer和自己销售的系统中预装的Microsoft
 Windows操作系统捆绑在一起，并且还不允许制造商将其他网页浏览器的图标放在默认桌面上取代Internet
 Explorer。Microsoft主张将自己的网页浏览器捆绑到自己的操作系统中是为了满足用户的要求。
@@ -77,7 +77,7 @@ Microsoft在法庭上辩称，IE被捆绑在Windows 98中，而Windows
 98无法在不包含该软件的情况下正常使用。澳大利亚的计算机科学家謝恩·布魯克斯（Shane
 Brooks）则在稍后时间证明了Windows
 98在删除所有IE文件后完全可以运行\[8\]。布魯克斯随后还开发了专门通过删除“不需要的组件”对Windows进行定制的软件，该软件被称作是[LitePC](http://www.litepc.com)。Microsoft则说这个软件并未删除Internet
-Explorer的*全部*组件，因为还留下了很多[动态链接库文件](../Page/动态链接库.md "wikilink")。
+Explorer的*全部*组件，因为还留下了很多[动态链接库](../Page/动态链接库.md "wikilink")文件。
 
 2000年4月3日，法官宣布了*事实证据*说Microsoft滥用了自己的垄断地位，企图「劝阻[Netscape将](https://zh.wikipedia.org/wiki/网景 "wikilink")[Navigator作为平台来开发](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")」，并「隐瞒了关键技术信息」，同时还企图利用「赠送Internet
 Explorer，以获得更好的[使用率](https://zh.wikipedia.org/wiki/网页浏览器的使用分布 "wikilink")」以及「将Netscape排除在重要的发布渠道之外」\[9\]降低Netscape的市場佔有率。

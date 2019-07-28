@@ -1,7 +1,7 @@
 **Wonder
-Girls**（，[簡稱](https://zh.wikipedia.org/wiki/簡稱 "wikilink")：**WG**）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂在](../Page/JYP娛樂.md "wikilink")2007年所推出的五人女子團體，原由[先藝擔任隊長](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")。解散前成員包括[譽恩](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink")、[宥斌](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")、[惠林及](https://zh.wikipedia.org/wiki/禹惠林 "wikilink")[宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")，解散前隊長由譽恩擔任。
+Girls**（，[簡稱](https://zh.wikipedia.org/wiki/簡稱 "wikilink")：**WG**）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")在2007年所推出的五人女子團體，原由[先藝擔任隊長](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")。解散前成員包括[譽恩](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink")、[宥斌](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")、[惠林及](https://zh.wikipedia.org/wiki/禹惠林 "wikilink")[宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")，解散前隊長由譽恩擔任。
 
-於2007年以〈Irony〉為人認識，同年九月，改編後的〈〉在韓國引發熱潮而知名度大增。2008年由[朴軫永親自參與演出的](../Page/朴軫永.md "wikilink")〈[Nobody](../Page/Nobody.md "wikilink")〉MV一曲再度引領潮流。
+於2007年以〈Irony〉為人認識，同年九月，改編後的〈〉在韓國引發熱潮而知名度大增。2008年由[朴軫永](../Page/朴軫永.md "wikilink")親自參與演出的〈[Nobody](../Page/Nobody.md "wikilink")〉MV一曲再度引領潮流。
 
 JYP於2017年1月26日正式宣佈Wonder Girls因合約到期解散，於2月10日發行最後一張数位單曲。
 
@@ -16,7 +16,7 @@ Girls於2007年2月10日首次在[MBC的](https://zh.wikipedia.org/wiki/文化�
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》演唱〈Irony〉，其後2月13日於《MTV
 Studio》中有獨立的表演舞台，她們演唱由美國團體[小野貓原唱的](https://zh.wikipedia.org/wiki/小野貓 "wikilink")〈Don't
 Cha〉以及自己的歌曲〈Irony〉及〈미안한
-마음〉（抱歉的心）。[先藝獨唱](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")[天命真女的](../Page/天命真女.md "wikilink")〈Stand
+마음〉（抱歉的心）。[先藝獨唱](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")[天命真女](../Page/天命真女.md "wikilink")的〈Stand
 Up for
 Love〉，接著[泫雅亦獨自展現她的擅長舞蹈](../Page/金泫雅.md "wikilink")。其餘三名成員（譽恩、[宣美及](https://zh.wikipedia.org/wiki/李宣美 "wikilink")[昭熙](../Page/安昭熙.md "wikilink")）也演唱美國歌星[珍娜·傑克森的](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")〈[Together
 Again](../Page/Together_Again_\(珍娜·傑克森單曲\).md "wikilink")〉。與此同時，她們推出的首張唱片《The
@@ -24,7 +24,7 @@ Wonder Begins》同年銷量達11,454張。自此之後，Wonder
 Girls在Daum成立Fancafe，名叫「WonderFul」。JYP娛樂原本計劃Wonder
 Girls是集中在中國活動的團體，因此她們從2007年初次登台後便一直學習漢語。
 
-2007年6月25日，[昭熙在拍攝電影](../Page/安昭熙.md "wikilink")《뜨거운것이좋아》（熱情似火）時從電單車墮下而得腳傷\[1\]，並休養了近一個月，其餘4名成員仍繼續活動。但7月31日，[泫雅因承受不住繁忙的行程而暈倒](../Page/金泫雅.md "wikilink")，使得從小患有的慢性[腸胃炎一度惡化](../Page/腸胃炎.md "wikilink")，在父母擔心其健康情況下退出團體。8月19日，昭熙康復後首次表演〈Irony〉。[JYP娛樂在找尋新成員時](../Page/JYP娛樂.md "wikilink")，韓國經紀公司將他們的練習生[宥斌轉讓給JYP娛樂](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")。JYP娛樂於9月5日正式宣布新成員為宥斌\[2\]，9月7日Wonder
+2007年6月25日，[昭熙在拍攝電影](../Page/安昭熙.md "wikilink")《뜨거운것이좋아》（熱情似火）時從電單車墮下而得腳傷\[1\]，並休養了近一個月，其餘4名成員仍繼續活動。但7月31日，[泫雅因承受不住繁忙的行程而暈倒](../Page/金泫雅.md "wikilink")，使得從小患有的慢性[腸胃炎](../Page/腸胃炎.md "wikilink")一度惡化，在父母擔心其健康情況下退出團體。8月19日，昭熙康復後首次表演〈Irony〉。[JYP娛樂](../Page/JYP娛樂.md "wikilink")在找尋新成員時，韓國經紀公司將他們的練習生[宥斌轉讓給JYP娛樂](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")。JYP娛樂於9月5日正式宣布新成員為宥斌\[2\]，9月7日Wonder
 Girls在KBS《音樂銀行》以新的成員形式首次現場表演。
 
 9月13日推出首張音樂專輯《The Wonder
@@ -35,7 +35,7 @@ Girls為首張音樂專輯而作進行了重大的推廣，並於各演唱會中
 바보〉（這傻瓜），她們以既不同又眾多的衣著款式出現於舞台及遊戲節目上，於收音機、音樂節目等中多次獻唱，以及與其他團體如[Big
 Bang聯合演唱](https://zh.wikipedia.org/wiki/Big_Bang_\(樂團\) "wikilink")。2008年2月，她們以參與在美國舉行的「The
 JYP Tour」演唱會為起點，逐漸擴展活動範圍。另外，Wonder Girls在同年9月亦被英國《Virgin
-Media》媒體選為「頂尖的女子團體」之一。同年5月，於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷舉行了一個歌迷聚會](../Page/曼谷.md "wikilink")，總共吸引了超過一萬名的歌迷參加。同年秋季，她們在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[皇后區](../Page/皇后區.md "wikilink")[法拉盛與其他JYP娛樂的藝人一同表演](../Page/法拉盛.md "wikilink")。
+Media》媒體選為「頂尖的女子團體」之一。同年5月，於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")舉行了一個歌迷聚會，總共吸引了超過一萬名的歌迷參加。同年秋季，她們在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[皇后區](../Page/皇后區.md "wikilink")[法拉盛](../Page/法拉盛.md "wikilink")與其他JYP娛樂的藝人一同表演。
 
 Wonder Girls的第三張專輯《So hot》於5月22日發行。雖然單純旋律的反覆有中毒性的音樂伴奏讓人聯想到〈Tell
 Me〉，但是在這首歌中還加入了〈Tell Me〉中也無法找到的魅力要素，可說是Wonder Girls〈Tell
@@ -45,13 +45,13 @@ hot〉則是以“我非常漂亮”、“我非常有魅力”等自信感為�
 
 2008年9月，Wonder Girls換上以懷舊的髮型及舞衣，大玩復古形象。最新單曲輯《The Wonder Years -
 Trilogy》的主打歌〈Nobody〉，乃是繼在Retro系列前兩個作品〈Tell Me〉和〈So
-Hot〉之後，「復古三部曲」的壓軸作。〈Nobody〉在監製[朴軫永的巧妙地將Motown風格這一流行元素注入後](../Page/朴軫永.md "wikilink")，呈現出不一樣的感覺。MV首度在網路公佈時，即獲得全韓關注的焦點，在2008年底「Nobody」襲捲韓國各大音樂、綜藝節目。Nobody一曲也因此走紅於全亞洲，並掀起了全球模仿熱潮，堪稱JYP最佳神曲之作。
+Hot〉之後，「復古三部曲」的壓軸作。〈Nobody〉在監製[朴軫永](../Page/朴軫永.md "wikilink")的巧妙地將Motown風格這一流行元素注入後，呈現出不一樣的感覺。MV首度在網路公佈時，即獲得全韓關注的焦點，在2008年底「Nobody」襲捲韓國各大音樂、綜藝節目。Nobody一曲也因此走紅於全亞洲，並掀起了全球模仿熱潮，堪稱JYP最佳神曲之作。
 [left](https://zh.wikipedia.org/wiki/檔案:Wonder_Girls-2008_BICHE_02.jpg "wikilink")
 
 ### 2009年：於美國出道並首次打入告示牌排行榜
 
 在2008年達到顛峰並囊括各大獎項的Wonder
-Girls，[JYP娛樂決定讓她們到](../Page/JYP娛樂.md "wikilink")[美國發展](https://zh.wikipedia.org/wiki/美國 "wikilink")。五位女孩不得不拋開在[韓國一切的人氣與光環](https://zh.wikipedia.org/wiki/韓國 "wikilink")，到美國從零開始，重新由底層艱苦地努力發展。2009年6月，JYP娛樂宣佈Wonder
+Girls，[JYP娛樂](../Page/JYP娛樂.md "wikilink")決定讓她們到[美國發展](https://zh.wikipedia.org/wiki/美國 "wikilink")。五位女孩不得不拋開在[韓國一切的人氣與光環](https://zh.wikipedia.org/wiki/韓國 "wikilink")，到美國從零開始，重新由底層艱苦地努力發展。2009年6月，JYP娛樂宣佈Wonder
 Girls將會參與[強納斯兄弟在北美的](https://zh.wikipedia.org/wiki/強納斯兄弟 "wikilink")2009巡迴演唱會\[4\]。同時，公司亦宣佈〈Nobody〉將會是團體首張英文單曲，緊隨著〈Tell
 Me〉，並會推出英文專輯。為配合Wonder
 Girls專注在美國的活動，[昭熙和](https://zh.wikipedia.org/wiki/昭熙 "wikilink")[宣美皆因未能在美國繼續高中的學業而向學校申請了退學](https://zh.wikipedia.org/wiki/李宣美 "wikilink")，其餘三位成員也向所在的大學申請休學\[5\]。
@@ -69,7 +69,7 @@ Tears》進美國BILLBOARD專輯榜的第21名。《Nobody》在BILLBOARD“2010
 Sales）100”中更是登上了第31位。
 
 年底Wonder Girls回到亞洲活動，11月在澳門舉辦的2010 MAMA
-亞洲音樂大賞作為壓軸神秘表演嘉宾，從天而降的開場表演立刻成為關注焦點。8月在[馬來西亞代表韓國參加了世界MTV大型演唱會](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，同年12月[香港和馬來西亞舉辦單獨演唱會](../Page/香港.md "wikilink")。其間前後也出席了不少[中國商演活動及江蘇跨年活動](../Page/中國.md "wikilink")。
+亞洲音樂大賞作為壓軸神秘表演嘉宾，從天而降的開場表演立刻成為關注焦點。8月在[馬來西亞代表韓國參加了世界MTV大型演唱會](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，同年12月[香港](../Page/香港.md "wikilink")和馬來西亞舉辦單獨演唱會。其間前後也出席了不少[中國](../Page/中國.md "wikilink")商演活動及江蘇跨年活動。
 
 ### 2011年：籌備美國正規一輯、拍攝美國TV電影、推出韓國正規二輯
 
@@ -80,7 +80,7 @@ Girls主要集中於紐約籌備新專輯，已知收錄7首新歌曲，作為TV
 Wonder
 Girls在7月左右前往[希臘代表](https://zh.wikipedia.org/wiki/希臘 "wikilink")[韓國支持](https://zh.wikipedia.org/wiki/韓國 "wikilink")「2011年世界夏季特殊奧林匹克運動會」，並在7月14日出席了其閉幕式。她們於閉幕典禮更表演了韓國傳統歌曲〈[阿里郎](../Page/阿里郎.md "wikilink")〉，另外表演了兩首熱門舞曲〈Tell
 Me〉及〈Nobody〉。\[11\] 於7月23日，Wonder
-Girls到了[青島參與](https://zh.wikipedia.org/wiki/青島 "wikilink")「2011中國青島國際海洋節開幕式大型文藝晚會」。8月17及18日，她們跟隨[JYP娛樂其餘旗下藝人到](../Page/JYP娛樂.md "wikilink")[日本](../Page/日本.md "wikilink")[埼玉超級體育館舉行](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")「JYP
+Girls到了[青島參與](https://zh.wikipedia.org/wiki/青島 "wikilink")「2011中國青島國際海洋節開幕式大型文藝晚會」。8月17及18日，她們跟隨[JYP娛樂](../Page/JYP娛樂.md "wikilink")其餘旗下藝人到[日本](../Page/日本.md "wikilink")[埼玉超級體育館舉行](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")「JYP
 Nation Concert 2011」。
 
 9月，Wonder Girls與美國女子團體[SCHOOL
@@ -107,7 +107,7 @@ Girls在一美國頒獎禮《2012 Nickelodeon Kids' Choice Awards》中被提名
 Act」。2月22日，Wonder Girls出席第一屆Gaon Chart K-pop Awards
 2011，並獲得2011年11月最佳歌手獎。
 
-3月23日，社長[朴軫永透過傳媒公佈Wonder](../Page/朴軫永.md "wikilink")
+3月23日，社長[朴軫永](../Page/朴軫永.md "wikilink")透過傳媒公佈Wonder
 Girls隨後的活動，「我們已與美國的拍擋相討有關發行新專輯的日期以及市場的問題，請再稍等一會」，「我們已完成了包含12首歌曲的美國新專輯，很多有名的製作人都有參與製作。一個最大型的MV拍攝亦已完成，主打歌將會給予大家一個驚喜。」，「因為已經完成了美國專輯的製作，我們將會開始製作下一張新韓語專輯。讓我們將這個夏天變成一個屬於Wonder
 Girls在韓國以及海外的節日吧！」
 
@@ -120,7 +120,7 @@ Party》正式推出，音樂錄影帶同時公開。在短短一日時間內，
 Pop Albums Chart」達第74位的好成績。
 
 2012年7月7日，在首爾蠶室室內體育館，舉行亞洲巡迴演唱會韓國站《WONDER WORLD TOUR in SEOUL
-2012》，是她們相隔3年再度於韓國單獨開唱，獲6000名歌迷入場支持。[宣美及](https://zh.wikipedia.org/wiki/李宣美 "wikilink")[朴軫永等明星亦到場支持](../Page/朴軫永.md "wikilink")。
+2012》，是她們相隔3年再度於韓國單獨開唱，獲6000名歌迷入場支持。[宣美及](https://zh.wikipedia.org/wiki/李宣美 "wikilink")[朴軫永](../Page/朴軫永.md "wikilink")等明星亦到場支持。
 
 2012年7月10日，公開了與世界級的hiphop音樂人[Akon合作單曲](https://zh.wikipedia.org/wiki/Akon "wikilink")《Like
 Money》，音樂錄像同時公開。BILLBOARD及VEVO等知名美國音樂網站亦分別在首頁介紹了音樂錄像；在韓國各大音樂排行榜排行第一；美國「iTunes

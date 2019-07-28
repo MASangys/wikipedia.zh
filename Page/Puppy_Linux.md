@@ -16,7 +16,7 @@ license = 多種 | website =
 Desktop](https://zh.wikipedia.org/wiki/ROX_Desktop "wikilink") |
 supported_platforms = | updatemodel = | package_manager = PetGet }}
 **Puppy
-Linux**是一个小型的[Linux獨立](../Page/Linux.md "wikilink")(非改良自其它版本)发行版。包含[SeaMonkey](../Page/SeaMonkey.md "wikilink"),
+Linux**是一个小型的[Linux](../Page/Linux.md "wikilink")獨立(非改良自其它版本)发行版。包含[SeaMonkey](../Page/SeaMonkey.md "wikilink"),
 [AbiWord](../Page/AbiWord.md "wikilink"),
 [Gnumeric](../Page/Gnumeric.md "wikilink"),
 Gxine/[xine等应用程序](https://zh.wikipedia.org/wiki/xine "wikilink")。

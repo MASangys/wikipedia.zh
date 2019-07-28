@@ -2,9 +2,9 @@
 Cool J**。这个名字是“**L**adies **L**ove **Cool**
 **J**ames”（意为：女人都爱酷詹姆斯）的缩写。\[2\]他最被人熟知的作品包括，情歌《I
 Need Love》、《Around the Way Girl》、《Hey
-Lover》，以及先锋[嘻哈作品](../Page/嘻哈.md "wikilink")《I
-Can't Live Without My Radio》、《I'm Bad》、《The Boomin' System》、《Mama Said
-Knock You Out》。他还出演了数部电影。在同一时代的嘻哈巨星中，LL Cool
+Lover》，以及先锋[嘻哈](../Page/嘻哈.md "wikilink")作品《I Can't
+Live Without My Radio》、《I'm Bad》、《The Boomin' System》、《Mama Said Knock
+You Out》。他还出演了数部电影。在同一时代的嘻哈巨星中，LL Cool
 J是为数不多的几位能够经历20年依然唱片热卖的歌手，最近的单曲包括《4,
 3, 2, 1》、《Headsprung》和《Luv U
 Better》。到目前为止，他共发行了12张专辑以及一张打榜曲合辑。他的最近一张专辑是2008年发售的《Exit
@@ -21,7 +21,7 @@ Jam。\[5\]
 Def Jam为史密斯录制了他的第一张唱片单曲《I Need a
 Beat》，\[6\]并为他设计了的新[艺名](https://zh.wikipedia.org/wiki/艺名 "wikilink")——LL
 Cool J，\[7\]相传这个艺名是效仿LL Cool Rav（原名：Ravi
-Tohani）。这首单曲卖出了超过10万份拷贝，使得LL以饶舌歌手的身份在[音樂產業站稳了脚跟](../Page/音樂產業.md "wikilink")。继《I
+Tohani）。这首单曲卖出了超过10万份拷贝，使得LL以饶舌歌手的身份在[音樂產業](../Page/音樂產業.md "wikilink")站稳了脚跟。继《I
 Need a Beat》的成功而来的是1985年Def
 Jam与[哥伦比亚唱片公司](https://zh.wikipedia.org/wiki/哥伦比亚唱片公司 "wikilink")（Columbia
 Records）签订的分红协议。\[8\]之后不久，LL便从安德鲁·杰克逊高中辍学，开始了录制专辑。\[9\]

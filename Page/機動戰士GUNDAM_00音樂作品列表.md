@@ -355,7 +355,7 @@
 #### TOMORROW
 
 機動戰士GUNDAM
-00第四首片尾曲（第二季第14話），聲優[恒松步以](../Page/恒松步.md "wikilink")[瑪莉娜·伊士麥之名所唱](https://zh.wikipedia.org/wiki/瑪莉娜·伊士麥 "wikilink")\[5\]，也有一部份用在第15話。
+00第四首片尾曲（第二季第14話），聲優[恒松步](../Page/恒松步.md "wikilink")以[瑪莉娜·伊士麥之名所唱](https://zh.wikipedia.org/wiki/瑪莉娜·伊士麥 "wikilink")\[5\]，也有一部份用在第15話。
 
 **商品番號**
 

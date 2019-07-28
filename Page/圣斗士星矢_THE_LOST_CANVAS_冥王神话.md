@@ -7,10 +7,10 @@ THE LOST CANVAS
 
 ## 劇情簡介
 
-故事以18世紀的[歐洲為舞台](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，在當時的[意大利某小鎮上](../Page/意大利.md "wikilink")，有著[日本血統的孤兒](../Page/日本.md "wikilink")**天馬**和喜愛繪畫的**亞倫**是一對摯友。某日**亞倫**受到大聖堂的神父的指引，去到一處被稱為**「地面上的極樂淨土」**的地方尋找**「真實之紅」**。在那里**亞倫**遇到了一個叫**[潘多拉](https://zh.wikipedia.org/wiki/潘多拉 "wikilink")**的神秘少女，自此**亞倫**的身體開始發生了變化。
+故事以18世紀的[歐洲為舞台](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，在當時的[意大利](../Page/意大利.md "wikilink")某小鎮上，有著[日本](../Page/日本.md "wikilink")血統的孤兒**天馬**和喜愛繪畫的**亞倫**是一對摯友。某日**亞倫**受到大聖堂的神父的指引，去到一處被稱為**「地面上的極樂淨土」**的地方尋找**「真實之紅」**。在那里**亞倫**遇到了一個叫**[潘多拉](https://zh.wikipedia.org/wiki/潘多拉 "wikilink")**的神秘少女，自此**亞倫**的身體開始發生了變化。
 
 另一方面，受到**黄金圣斗士 [天秤座](../Page/天秤座.md "wikilink")
-童虎**的引荐，**天马**决定前往[希腊圣域接受圣斗士的训练](../Page/希腊.md "wikilink")。在圣域，**天马**遇到了儿时的玩伴，同时也是**亚伦**的妹妹**紗莎**。几年前被人收养的**紗莎**，原来竟然是**女神
+童虎**的引荐，**天马**决定前往[希腊](../Page/希腊.md "wikilink")圣域接受圣斗士的训练。在圣域，**天马**遇到了儿时的玩伴，同时也是**亚伦**的妹妹**紗莎**。几年前被人收养的**紗莎**，原来竟然是**女神
 [雅典娜](../Page/雅典娜.md "wikilink")**的转世。
 2年之後，**天馬**終於成為天馬星座的聖鬥士。另一方面，受到**潘多拉**引導的**亞倫**，體內的**冥王
 哈帝斯**的靈魂覺醒，並向聖域發動全面進攻……
@@ -21,14 +21,14 @@ THE LOST CANVAS
 
 在[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[圣斗士星矢 冥王哈迪斯
 极乐净土篇](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")》于2008年8月发售完最后一卷，终于结束了这部延续多年的大作之后没几天，一个名为《[圣斗士星矢
-冥王神话](https://zh.wikipedia.org/wiki/圣斗士星矢_冥王神话 "wikilink")》的新作又展现在广大圣斗士FANS的面前。作为[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")《[圣斗士星矢](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")》的[前传](https://zh.wikipedia.org/wiki/前传 "wikilink")，《冥王神话》主要分别由原作者[车田正美本人执笔的](../Page/车田正美.md "wikilink")《[NEXT
+冥王神话](https://zh.wikipedia.org/wiki/圣斗士星矢_冥王神话 "wikilink")》的新作又展现在广大圣斗士FANS的面前。作为[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")《[圣斗士星矢](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")》的[前传](https://zh.wikipedia.org/wiki/前传 "wikilink")，《冥王神话》主要分别由原作者[车田正美](../Page/车田正美.md "wikilink")本人执笔的《[NEXT
 DIMENSION](https://zh.wikipedia.org/wiki/圣斗士星矢_NEXT_DIMENSION_冥王神话 "wikilink")》，以及由漫画家[手代木史织编绘的](https://zh.wikipedia.org/wiki/手代木史织 "wikilink")《[THE
 LOST
-CANVAS](../Page/圣斗士星矢_THE_LOST_CANVAS_冥王神话.md "wikilink")》。这两部漫画描述的都是发生在《圣斗士星矢》243年前的[圣战](https://zh.wikipedia.org/wiki/圣战 "wikilink")，只不过在设定上各自有些不同。作品的主人公包括当时天马圣斗士天马、天马的挚友亚伦、[雅典娜的转生薩莎](../Page/雅典娜.md "wikilink")，以及在《[冥王哈迪斯
-十二宫篇](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")》中为大家所熟知的[黄金圣斗士童虎和史昂](../Page/黄金圣斗士.md "wikilink")。
+CANVAS](../Page/圣斗士星矢_THE_LOST_CANVAS_冥王神话.md "wikilink")》。这两部漫画描述的都是发生在《圣斗士星矢》243年前的[圣战](https://zh.wikipedia.org/wiki/圣战 "wikilink")，只不过在设定上各自有些不同。作品的主人公包括当时天马圣斗士天马、天马的挚友亚伦、[雅典娜](../Page/雅典娜.md "wikilink")的转生薩莎，以及在《[冥王哈迪斯
+十二宫篇](https://zh.wikipedia.org/wiki/圣斗士星矢 "wikilink")》中为大家所熟知的[黄金圣斗士](../Page/黄金圣斗士.md "wikilink")童虎和史昂。
 
 而此次即将动画化的，正是由手代木史织所绘画的《THE LOST
-CANVAS》。由于作品的主人公已经与《圣斗士星矢》中的不同，所以这次的[声优大换血也早早成为了FANS们关注的问题](https://zh.wikipedia.org/wiki/声优 "wikilink")。根据目前已经公布的声优名单，四大主角将由[柿原彻也](https://zh.wikipedia.org/wiki/柿原彻也 "wikilink")、[下野纮](https://zh.wikipedia.org/wiki/下野纮 "wikilink")、[平野绫以及](../Page/平野绫.md "wikilink")[水树奈奈分别担任配音](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。
+CANVAS》。由于作品的主人公已经与《圣斗士星矢》中的不同，所以这次的[声优大换血也早早成为了FANS们关注的问题](https://zh.wikipedia.org/wiki/声优 "wikilink")。根据目前已经公布的声优名单，四大主角将由[柿原彻也](https://zh.wikipedia.org/wiki/柿原彻也 "wikilink")、[下野纮](https://zh.wikipedia.org/wiki/下野纮 "wikilink")、[平野绫](../Page/平野绫.md "wikilink")以及[水树奈奈分别担任配音](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")。
 
 動畫《聖鬥士星矢 THE LOST CANVAS 冥王神話》由動畫公司[TMS
 Entertainment制作](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")，從2009年春天開始以[OVA的形式發行](https://zh.wikipedia.org/wiki/OVA "wikilink")。DVD第一章共6卷13話，第1卷於6月24日發售。六卷發售完畢後，全章於日本的有線電視頻道Kids

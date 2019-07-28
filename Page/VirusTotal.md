@@ -1,4 +1,4 @@
-**VirusTotal.com**是一个免费的病毒，蠕虫，木马和各种恶意软件分析服务，可以针对可疑文件和网址进行快速检测，最初由Hispasec维护。它与传统[杀毒软件的不同之处是它通过多种防毒引擎扫描文件](../Page/杀毒软件.md "wikilink")。使用多种反病毒引擎可以令使用者們通過各防毒引擎的偵測結果，判斷上傳的檔案是否為惡意軟件。事实上，没有任何一款软件可以提供100%的[病毒及](../Page/病毒.md "wikilink")[恶意软件检测率](../Page/恶意软件.md "wikilink")。\[1\]它可以通过[电子邮件或直接](../Page/电子邮件.md "wikilink")[上传的方式分析不大于](https://zh.wikipedia.org/wiki/上传 "wikilink")128MB的文件。\[2\]VirusTotal有一款名为VirusTotal
+**VirusTotal.com**是一个免费的病毒，蠕虫，木马和各种恶意软件分析服务，可以针对可疑文件和网址进行快速检测，最初由Hispasec维护。它与传统[杀毒软件](../Page/杀毒软件.md "wikilink")的不同之处是它通过多种防毒引擎扫描文件。使用多种反病毒引擎可以令使用者們通過各防毒引擎的偵測結果，判斷上傳的檔案是否為惡意軟件。事实上，没有任何一款软件可以提供100%的[病毒](../Page/病毒.md "wikilink")及[恶意软件](../Page/恶意软件.md "wikilink")检测率。\[1\]它可以通过[电子邮件](../Page/电子邮件.md "wikilink")或直接[上传的方式分析不大于](https://zh.wikipedia.org/wiki/上传 "wikilink")128MB的文件。\[2\]VirusTotal有一款名为VirusTotal
 Uploader
 的外壳扩展，可以帮助方便的上传文件。\[3\]VirusTotal的缺点是只能扫描提交的文件，无法对计算机进行全面的检查。而且透過網頁上載，每個檔案最大是128MB。
 

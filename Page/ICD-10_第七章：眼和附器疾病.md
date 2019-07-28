@@ -1,5 +1,5 @@
 **ICD-10
-第七章：眼和附器疾病**，为[世界卫生组织编写的](../Page/世界卫生组织.md "wikilink")[ICD-10中关于眼和附器疾病的分类](../Page/ICD-10.md "wikilink")。
+第七章：眼和附器疾病**，为[世界卫生组织](../Page/世界卫生组织.md "wikilink")编写的[ICD-10](../Page/ICD-10.md "wikilink")中关于眼和附器疾病的分类。
 
 ## 受控词表
 
@@ -19,50 +19,50 @@
 
 ### 结膜疾患
 
-[结膜疾患](../Page/结膜.md "wikilink")（H10-H13）
+[结膜](../Page/结膜.md "wikilink")疾患（H10-H13）
 
   - () [结膜炎](../Page/结膜炎.md "wikilink")
-  - () [结膜的其他疾患](../Page/结膜.md "wikilink")
+  - () [结膜](../Page/结膜.md "wikilink")的其他疾患
   - () 分类于他处的疾病引起的结膜疾患
 
 ### 巩膜、角膜、虹膜和睫状体疾患
 
-[巩膜](https://zh.wikipedia.org/wiki/巩膜 "wikilink")、[角膜](../Page/角膜.md "wikilink")、[虹膜和](../Page/虹膜.md "wikilink")[睫状体疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")（H15-H22）
+[巩膜](https://zh.wikipedia.org/wiki/巩膜 "wikilink")、[角膜](../Page/角膜.md "wikilink")、[虹膜](../Page/虹膜.md "wikilink")和[睫状体疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")（H15-H22）
 
   - () [巩膜疾患](https://zh.wikipedia.org/wiki/巩膜 "wikilink")
   - () [角膜炎](https://zh.wikipedia.org/wiki/角膜炎 "wikilink")
-  - () [角膜瘢痕和混浊](../Page/角膜.md "wikilink")
-  - () [角膜的其他疾患](../Page/角膜.md "wikilink")
+  - () [角膜](../Page/角膜.md "wikilink")瘢痕和混浊
+  - () [角膜](../Page/角膜.md "wikilink")的其他疾患
   - ()
-    分类于他处的疾病引起的[巩膜和](https://zh.wikipedia.org/wiki/巩膜 "wikilink")[角膜疾患](../Page/角膜.md "wikilink")
+    分类于他处的疾病引起的[巩膜和](https://zh.wikipedia.org/wiki/巩膜 "wikilink")[角膜](../Page/角膜.md "wikilink")疾患
   - () [虹膜睫状体炎](https://zh.wikipedia.org/wiki/虹膜睫状体炎 "wikilink")
   - ()
-    [虹膜和](../Page/虹膜.md "wikilink")[睫状体的其他疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")
+    [虹膜](../Page/虹膜.md "wikilink")和[睫状体的其他疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")
   - ()
-    分类于他处的疾病引起的[虹膜和](../Page/虹膜.md "wikilink")[睫状体疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")
+    分类于他处的疾病引起的[虹膜](../Page/虹膜.md "wikilink")和[睫状体疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")
 
 ### 晶状体疾患
 
-[晶状体疾患](../Page/晶状体.md "wikilink")（H25-H28）
+[晶状体](../Page/晶状体.md "wikilink")疾患（H25-H28）
 
   - () 老年性[白内障](../Page/白内障.md "wikilink")
   - () 其他的[白内障](../Page/白内障.md "wikilink")
-  - () [晶状体的其他疾患](../Page/晶状体.md "wikilink")
+  - () [晶状体](../Page/晶状体.md "wikilink")的其他疾患
   - () 分类于他处的疾病引起的白内障和晶状体的其他疾患
 
 ### 脉络膜和视网膜疾患
 
-[脉络膜和](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")[视网膜疾患](../Page/视网膜.md "wikilink")（H30-H36）
+[脉络膜和](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")[视网膜](../Page/视网膜.md "wikilink")疾患（H30-H36）
 
   - ()
     [脉络膜](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")[视网膜炎](https://zh.wikipedia.org/wiki/视网膜炎 "wikilink")
   - () [脉络膜的其他疾患](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")
   - ()
     分类于他处的疾病引起的[脉络膜视网膜疾患](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")
-  - () [视网膜脱离和断裂](../Page/视网膜.md "wikilink")
-  - () [视网膜血管闭塞](../Page/视网膜.md "wikilink")
+  - () [视网膜](../Page/视网膜.md "wikilink")脱离和断裂
+  - () [视网膜](../Page/视网膜.md "wikilink")血管闭塞
   - () 其他视网膜疾患
-  - () 分类于他处的疾病引起的[视网膜疾患](../Page/视网膜.md "wikilink")
+  - () 分类于他处的疾病引起的[视网膜](../Page/视网膜.md "wikilink")疾患
 
 ### 青光眼
 
@@ -81,7 +81,7 @@
 
 ### 视神经和视路疾患
 
-[视神经和视路疾患](../Page/视神经.md "wikilink")（H46-H48）
+[视神经](../Page/视神经.md "wikilink")和视路疾患（H46-H48）
 
   - () [视神经炎](https://zh.wikipedia.org/wiki/视神经炎 "wikilink")
   - () [视(第二)神经和视路的其他疾患](../Page/视神经.md "wikilink")

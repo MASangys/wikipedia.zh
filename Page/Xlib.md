@@ -14,7 +14,7 @@ toolkits）：
 
 Xlib發表於1985年，目前使用在許多的[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")-like作業系統上。
 
-目前[XCB有可能取代Xlib](../Page/XCB.md "wikilink").
+目前[XCB](../Page/XCB.md "wikilink")有可能取代Xlib.
 
 ## 資料型別
 

@@ -1,10 +1,10 @@
 **Kauffmann烯化反应**（Kauffmann olefination），由德国化学家 Thomas Kauffmann 首先报道。
 
-将[醛](../Page/醛.md "wikilink")、[酮转变为](../Page/酮.md "wikilink")[亚甲基](https://zh.wikipedia.org/wiki/亚甲基 "wikilink")[烯烃的方法](../Page/烯烃.md "wikilink")。
+将[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")转变为[亚甲基](https://zh.wikipedia.org/wiki/亚甲基 "wikilink")[烯烃](../Page/烯烃.md "wikilink")的方法。
 
 ## 试剂的制备
 
-反应中的活性试剂一般是由不同的[钼或](../Page/钼.md "wikilink")[钨](../Page/钨.md "wikilink")[卤化物与](../Page/卤化物.md "wikilink")[甲基锂在低温](../Page/甲基锂.md "wikilink")（-78°C）下原位作用产生。\[1\]\[2\]\[3\]\[4\]
+反应中的活性试剂一般是由不同的[钼](../Page/钼.md "wikilink")或[钨](../Page/钨.md "wikilink")[卤化物](../Page/卤化物.md "wikilink")与[甲基锂](../Page/甲基锂.md "wikilink")在低温（-78°C）下原位作用产生。\[1\]\[2\]\[3\]\[4\]
 
 [Kauffmann_olefination-reagent_synthesis.svg](https://zh.wikipedia.org/wiki/File:Kauffmann_olefination-reagent_synthesis.svg "fig:Kauffmann_olefination-reagent_synthesis.svg")
 

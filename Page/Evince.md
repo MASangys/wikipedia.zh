@@ -1,7 +1,7 @@
-**Evince**是[GNOME](../Page/GNOME.md "wikilink")[桌面环境下的一个](../Page/桌面环境.md "wikilink")[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")，[PostScript](../Page/PostScript.md "wikilink")，[DjVu](../Page/DjVu.md "wikilink")，[TIFF与](../Page/TIFF.md "wikilink")[DVI文档查看工具](../Page/DVI.md "wikilink")。\[1\]
+**Evince**是[GNOME](../Page/GNOME.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")下的一个[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")，[PostScript](../Page/PostScript.md "wikilink")，[DjVu](../Page/DjVu.md "wikilink")，[TIFF](../Page/TIFF.md "wikilink")与[DVI](../Page/DVI.md "wikilink")文档查看工具。\[1\]
 
 从2005年9月7日发布的GNOME
-2.12开始，Evince包含在[GNOME裡发布](../Page/GNOME.md "wikilink")。主要用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，部分用[C++](../Page/C++.md "wikilink")。
+2.12开始，Evince包含在[GNOME](../Page/GNOME.md "wikilink")裡发布。主要用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，部分用[C++](../Page/C++.md "wikilink")。
 
 版权协议为[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，Evince是[自由软件](../Page/自由软件.md "wikilink")。
 

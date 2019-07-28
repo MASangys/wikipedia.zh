@@ -1,7 +1,7 @@
 《**ONE
-OUTS**》是[甲斐谷忍的](../Page/甲斐谷忍.md "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，正式標題是《**ONE
+OUTS**》是[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")的[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，正式標題是《**ONE
 OUTS Nobody wins, but
-I\!**》，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")19卷，在[集英社的](../Page/集英社.md "wikilink")[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[Business
+I\!**》，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")19卷，在[集英社](../Page/集英社.md "wikilink")的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[Business
 Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006年18號）。[電視動畫從](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2008年10月起開始播放。
 
 伴随動畫版的播出，在2008年10月1日發售的《Business Jump》上開始短期集中連載《ONE OUTS
@@ -11,7 +11,7 @@ Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006�
 
 ## 劇情簡介
 
-1998年12月，日本[職業棒球隊](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")「埼京彩珠Lycaons」（埼京彩珠豺狼隊）的王牌打者兒島弘道與隊上學弟中根及木野崎到[沖繩縣行自主訓練](../Page/沖繩縣.md "wikilink")。而在某一天，中根和木野崎在尋找隊上新投手人才的時候，遇見了一場名為“One
+1998年12月，日本[職業棒球隊](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")「埼京彩珠Lycaons」（埼京彩珠豺狼隊）的王牌打者兒島弘道與隊上學弟中根及木野崎到[沖繩縣](../Page/沖繩縣.md "wikilink")行自主訓練。而在某一天，中根和木野崎在尋找隊上新投手人才的時候，遇見了一場名為“One
 Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
 
 本作比起棒球漫畫，更像是鬥智漫畫，如同棒球版的[鬥牌傳說](../Page/鬥牌傳說.md "wikilink")。並不注重一般團體運動作品中重視的友情、努力、團隊合作；而是強調計謀、[技術犯規](https://zh.wikipedia.org/wiki/技術犯規 "wikilink")、[心理戰](https://zh.wikipedia.org/wiki/心理戰 "wikilink")、竊聽暗號以及球隊合約等。運用了其他作品中幾乎不會用到的、相當細部的棒球規則來做為比賽與故事的核心，有著許多其他棒球題材作品中完全沒有的要素。
@@ -34,7 +34,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
     一頭金髮，受到兒島的邀請而加入不受看好的Lycaons。雖然球速平均時速只有約130KM，也只會投直球不會投變化球。這樣的能力乍看之下無法在職業棒球中生存下去，但是天賦異秉的東亞卻能在出手瞬間，利用手指控制球出手的轉速，任意投出高轉速或低旋轉球，使打者以為球路單調好打，揮棒時卻感覺球從棒子旁跑掉一樣。另外其控球能力相當精準且穩定。他最強的武器是能看穿人心並使其動搖，讓場面轉為對自己有利的局面。
     在沖繩的「One
     Out」遊戲中達成499連勝，但第500場認定敗給兒島，遵守承諾加入Lycaons，幫助其獲得總冠軍。與Lycaons老板訂下「One
-    Outs」契約：當他站上[投手丘的時候](../Page/投手丘.md "wikilink")，每讓一名打者出局，Lycaons老板就必需支付他500萬日元的薪水；相反的，只要在他手上失去一分，他就支付Lycaons老板5000萬日元。最終渡久地讓「彩川組」垮台。
+    Outs」契約：當他站上[投手丘](../Page/投手丘.md "wikilink")的時候，每讓一名打者出局，Lycaons老板就必需支付他500萬日元的薪水；相反的，只要在他手上失去一分，他就支付Lycaons老板5000萬日元。最終渡久地讓「彩川組」垮台。
     在加入Lycaons時已經知道老板沒有心經營球隊，選擇和Tronpos合作並讓彩川破產而放棄球隊。但得知Tronpos老板三田村要只是想收購隊伍名額而非隊伍本身，決定以三倍價錢收購Lycaons成為老闆。
     和以Ganalians老板田邊常行為首的經營者聯盟協議，以一星期為單位，期間隊伍不能出現赤字、不能被榜首球隊拋離10場以上，以及最終取得常規賽冠軍的條件下擔任老板。以售價較貴但落敗就全數金額退回觀眾的「L
     Ticket」讓球隊門票全部售清，也讓Lycaons隊員明白真正的團隊精神，成為隊伍奪冠的一大要素。
@@ -177,7 +177,7 @@ Johnson，聲優：[楠大典](../Page/楠大典.md "wikilink")（日本），[�
 
 ### BlueMars
 
-[神戶布爾馬隊](https://zh.wikipedia.org/wiki/神戶 "wikilink")，相當受到當地球迷的歡迎。新上任的球隊老闆將整個球團大規模的改革，主場**神戶馬斯球場**具有和[美國職棒大聯盟球場同等規模大小](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")。球團將設立於[多明尼加的棒球學會的球員大量引進日本](../Page/多明尼加.md "wikilink")，再進行培育菁英的計畫，通過測驗而加入球隊的選手將能得到大聯盟級的薪水。也是屬於鹹魚翻身的球隊，主場勝率聯盟第一。然而事實上卻是透過主場作弊來獲得如此佳績，因此其客場勝率不及五成。
+[神戶布爾馬隊](https://zh.wikipedia.org/wiki/神戶 "wikilink")，相當受到當地球迷的歡迎。新上任的球隊老闆將整個球團大規模的改革，主場**神戶馬斯球場**具有和[美國職棒大聯盟球場同等規模大小](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")。球團將設立於[多明尼加](../Page/多明尼加.md "wikilink")的棒球學會的球員大量引進日本，再進行培育菁英的計畫，通過測驗而加入球隊的選手將能得到大聯盟級的薪水。也是屬於鹹魚翻身的球隊，主場勝率聯盟第一。然而事實上卻是透過主場作弊來獲得如此佳績，因此其客場勝率不及五成。
 
 **天堂哲治**（聲優：[喜多川拓郎](https://zh.wikipedia.org/wiki/喜多川拓郎 "wikilink")）
 

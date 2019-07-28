@@ -2,7 +2,7 @@
 [data
 structure](https://zh.wikipedia.org/wiki/data_structure "wikilink")
 representing the s-expression for `(* 2 (+ 3 4))` \]\]
-所谓“S-[表达式](https://zh.wikipedia.org/wiki/表达式 "wikilink")/[運算式](https://zh.wikipedia.org/wiki/運算式 "wikilink")”（S-expression）或“sexp”（其中“S”代表“符号的”），是指一种以人类可读的文本形式表达[半结构化数据的约定](https://zh.wikipedia.org/wiki/半结构化数据 "wikilink")。S-表达式可能以其在[Lisp家族的编程语言中的使用而为人所知](https://zh.wikipedia.org/wiki/Lisp "wikilink")。其他应用则见于由Lisp衍生的语言，如，以及如[IMAP之类通信协议中作为标记出现和](https://zh.wikipedia.org/wiki/Internet_Message_Access_Protocol "wikilink")[约翰·麦卡锡的](../Page/约翰·麦卡锡.md "wikilink")。语法细节和所支持的数据类型虽因语言而异，但这些语言间最通用的特性则是使用S-表达式作为括号化的前缀表示法（有时亦作剑桥[波兰表示法](../Page/波兰表示法.md "wikilink")）。
+所谓“S-[表达式](https://zh.wikipedia.org/wiki/表达式 "wikilink")/[運算式](https://zh.wikipedia.org/wiki/運算式 "wikilink")”（S-expression）或“sexp”（其中“S”代表“符号的”），是指一种以人类可读的文本形式表达[半结构化数据的约定](https://zh.wikipedia.org/wiki/半结构化数据 "wikilink")。S-表达式可能以其在[Lisp家族的编程语言中的使用而为人所知](https://zh.wikipedia.org/wiki/Lisp "wikilink")。其他应用则见于由Lisp衍生的语言，如，以及如[IMAP之类通信协议中作为标记出现和](https://zh.wikipedia.org/wiki/Internet_Message_Access_Protocol "wikilink")[约翰·麦卡锡](../Page/约翰·麦卡锡.md "wikilink")的。语法细节和所支持的数据类型虽因语言而异，但这些语言间最通用的特性则是使用S-表达式作为括号化的前缀表示法（有时亦作剑桥[波兰表示法](../Page/波兰表示法.md "wikilink")）。
 
 ## 數據類型和語法
 
@@ -26,7 +26,7 @@ pair](../Page/列表構造函數.md "wikilink")。更长的列表则由嵌套的
 (3 . nil)))`（，亦可写作更易理解的`(1 2 3)`）。
 
 使用前缀表示法，程序代码可写作
-S-表达式。书写Lisp程序中额外的[语法糖则是](../Page/语法糖.md "wikilink")，一般的表达式`(quote
+S-表达式。书写Lisp程序中额外的[语法糖](../Page/语法糖.md "wikilink")则是，一般的表达式`(quote
 x)`可以省略为`'x`。
 
 ### 數據表達式的示例
@@ -58,7 +58,7 @@ Melish，Lisp 中的自然語言處理）：
         (* x (factorial (- x 1)))))
 ```
 
-[Scheme范例](../Page/Scheme.md "wikilink")：
+[Scheme](../Page/Scheme.md "wikilink")范例：
 
 ``` scheme
 (define (factorial x)
@@ -104,7 +104,7 @@ def parse_sexp(string):
 ## 標準化
 
 1997年5月，[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink") 提交了一份
-，拟作为[RFC出版](../Page/RFC.md "wikilink")。该草案定义了基于Lisp
+，拟作为[RFC](../Page/RFC.md "wikilink")出版。该草案定义了基于Lisp
 S-表达式的语法，但旨在用于一般目的的数据存储及交换（类似[XML](../Page/XML.md "wikilink")）而非仅限于编程。尽管未被批准为RFC，但此草案已被其他RFC（如RFC
 2693）和数种出版物\[[http://scholar.google.com/scholar?hl=en\&lr=\&safe=off\&q=rivest+sexp\&btnG=Search\]引用。最原始的用途则是在](http://scholar.google.com/scholar?hl=en&lr=&safe=off&q=rivest+sexp&btnG=Search%5D引用。最原始的用途则是在)中。
 

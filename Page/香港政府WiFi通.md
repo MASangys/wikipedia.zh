@@ -1,7 +1,7 @@
 [Govwifi.jpg](https://zh.wikipedia.org/wiki/File:Govwifi.jpg "fig:Govwifi.jpg")
 [GovWiFi_sign_at_Tsing_Yi_Park_(Hong_Kong).jpg](https://zh.wikipedia.org/wiki/File:GovWiFi_sign_at_Tsing_Yi_Park_\(Hong_Kong\).jpg "fig:GovWiFi_sign_at_Tsing_Yi_Park_(Hong_Kong).jpg")觀景台的香港政府WiFi通標誌，顯示該範圍設有無線網絡。\]\]
 
-**香港政府WiFi通**（GovWiFi）是[香港特別行政區政府](../Page/香港特別行政區政府.md "wikilink")[政府資訊科技總監辦公室推行的](../Page/政府資訊科技總監辦公室.md "wikilink")2008年[數碼21資訊科技策略的其中一個重點計劃](https://zh.wikipedia.org/wiki/數碼21 "wikilink")，銳意將[香港打造成無線城市](../Page/香港.md "wikilink")。\[1\]香港政府WiFi通在指定的政府場地設置[Wi-Fi](../Page/Wi-Fi.md "wikilink")，供予公眾免費接達[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。
+**香港政府WiFi通**（GovWiFi）是[香港特別行政區政府](../Page/香港特別行政區政府.md "wikilink")[政府資訊科技總監辦公室](../Page/政府資訊科技總監辦公室.md "wikilink")推行的2008年[數碼21資訊科技策略的其中一個重點計劃](https://zh.wikipedia.org/wiki/數碼21 "wikilink")，銳意將[香港](../Page/香港.md "wikilink")打造成無線城市。\[1\]香港政府WiFi通在指定的政府場地設置[Wi-Fi](../Page/Wi-Fi.md "wikilink")，供予公眾免費接達[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。
 
 香港政府在440個政府及公共場地安裝了約2,020個Wi-Fi接入點\[2\]。WiFi服務覆蓋範圍包括[公共圖書館](../Page/香港公共圖書館.md "wikilink")、[政府合署](../Page/香港政府合署.md "wikilink")、體育中心、運動場、文化與康樂中心、就業中心、[社區會堂](https://zh.wikipedia.org/wiki/社區會堂 "wikilink")、社區中心、[公園及旅遊景點等等](https://zh.wikipedia.org/wiki/公園 "wikilink")，並提供兩種無線連接方式（[WPA2-Enterprise加密和非加密](https://zh.wikipedia.org/wiki/WPA2#WPA2-Enterprise "wikilink")），公眾可按個人需要選擇適合的連接方式。
 
@@ -28,7 +28,7 @@
 
 ## 軼事
 
-[香港公共屋邨和屋苑的免費Wi](../Page/香港公共屋邨.md "wikilink")-Fi由[香港寬頻](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")（[Free
+[香港公共屋邨](../Page/香港公共屋邨.md "wikilink")和屋苑的免費Wi-Fi由[香港寬頻](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")（[Free
 Wi-Fi@HKBN](https://zh.wikipedia.org/wiki/Free_Wi-Fi@HKBN "wikilink")）和[電訊盈科](../Page/電訊盈科.md "wikilink")（[PCCW
 Wi-Fi](https://zh.wikipedia.org/wiki/PCCW_Wi-Fi "wikilink")）提供，非香港政府WiFi通計劃的一部分。
 

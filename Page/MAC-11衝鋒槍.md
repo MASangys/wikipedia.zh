@@ -24,7 +24,7 @@ RPM（，發／分鐘）。但是實際上，其射速是接近1,200
 RPM\[2\]。在這種實在過高的射速下，在[全自動射擊時槍身是難以控制的](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。但是若採用快速的[點射](../Page/三發點放.md "wikilink")，可使有效距離增加至大約27
 [公尺](../Page/米_\(单位\).md "wikilink")（30
 [码](https://zh.wikipedia.org/wiki/码 "wikilink")）。而
-[ACP的低貫穿力](https://zh.wikipedia.org/wiki/柯爾特自動手槍 "wikilink")，意外地發現MAC-11A1可在特殊情況下發揮優點，例如在客機機艙內駁火，可減少機艙被子彈貫穿的風險。MAC-11A1被全球不少保安部隊和[特種部隊所採用](../Page/特種部隊.md "wikilink")，例如中華民國、瓜地馬拉等。
+[ACP的低貫穿力](https://zh.wikipedia.org/wiki/柯爾特自動手槍 "wikilink")，意外地發現MAC-11A1可在特殊情況下發揮優點，例如在客機機艙內駁火，可減少機艙被子彈貫穿的風險。MAC-11A1被全球不少保安部隊和[特種部隊](../Page/特種部隊.md "wikilink")所採用，例如中華民國、瓜地馬拉等。
 
 ## 極少的成功
 
@@ -32,7 +32,7 @@ MAC-11A1是同樣MAC槍族中最不普遍的版本。這主要原因是因為.38
 [米／秒](https://zh.wikipedia.org/wiki/米每秒 "wikilink")（950
 [英尺／秒](https://zh.wikipedia.org/wiki/英尺每秒 "wikilink")）和200
 英尺．磅（270
-J）的威力，被普遍認為沒有足夠的。在這樣高射速下，極端觸發紀律需要的短脈衝，這只是必要打擊的權宜之計。如果沒有適當的培訓，射手就會因為自然傾向的射擊經驗而按住[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，小心處理[彈匣的問題略多數只放於第二位](../Page/彈匣.md "wikilink")，這也可能與大多數被迫進行射擊所做成[後座力嚴重](../Page/後座力.md "wikilink")。
+J）的威力，被普遍認為沒有足夠的。在這樣高射速下，極端觸發紀律需要的短脈衝，這只是必要打擊的權宜之計。如果沒有適當的培訓，射手就會因為自然傾向的射擊經驗而按住[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，小心處理[彈匣](../Page/彈匣.md "wikilink")的問題略多數只放於第二位，這也可能與大多數被迫進行射擊所做成[後座力](../Page/後座力.md "wikilink")嚴重。
 
 ## 製造商
 
@@ -84,7 +84,7 @@ MAC槍族型[衝鋒手槍首先是由軍事裝備公司](../Page/全自動手槍
     Dogs）：命名為“SMG-11”，32發彈匣，最高攜彈量為240發，可被主角艾登·皮爾斯（Aiden
     Pearce，由[諾姆·詹金斯配音](https://zh.wikipedia.org/wiki/諾姆·詹金斯 "wikilink")）所使用；另有「特種作戰型」（Spec
     Ops），裝上[消聲器](../Page/抑制器.md "wikilink")。
-  - 2015年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》：裝上重新定位拉機柄和頂部導軌，被[特种空勤团所使用](../Page/特种空勤团.md "wikilink")，命名為「SMG-11」。
+  - 2015年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》：裝上重新定位拉機柄和頂部導軌，被[特种空勤团](../Page/特种空勤团.md "wikilink")所使用，命名為「SMG-11」。
   - 2018年—《[-{zh-cn:杀手;zh-tw:刺客任務;}-2
     2018](https://zh.wikipedia.org/wiki/殺手2_\(2018年遊戲\) "wikilink")》：命名為「DAK
     X2」，裝上[消聲器](../Page/抑制器.md "wikilink")，20發彈匣。
@@ -101,7 +101,7 @@ MAC槍族型[衝鋒手槍首先是由軍事裝備公司](../Page/全自動手槍
   - 2009年—《[幻灵镇魂曲](https://zh.wikipedia.org/wiki/幻灵镇魂曲 "wikilink")》（Phantom
     ～Requiem for the Phantom～）
   - 2012年—《[軍火女王](../Page/軍火女王.md "wikilink")》（Jormungand）：於第二季第六集中，裝有[消音器並且被SR班特工鏑木所使用](../Page/抑制器.md "wikilink")。
-  - 2015年—《[緋彈的亞莉亞AA](../Page/緋彈的亞莉亞.md "wikilink")》（Aria the Scarlet
+  - 2015年—《[緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")AA》（Aria the Scarlet
     Ammo）：被愛澤姊妹所使用。
 
 ## 參見

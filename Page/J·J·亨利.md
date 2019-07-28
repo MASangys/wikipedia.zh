@@ -22,7 +22,7 @@
 <big> **J·J·亨利**</big>
 
 **J·J·亨利**（**J. J. Henry**, 1975年4月2日 -
-）是一位[美國職業](https://zh.wikipedia.org/wiki/美國 "wikilink")[高爾夫球選手](../Page/高爾夫球.md "wikilink")。出生在康乃狄克州的費爾菲爾德。目前生活在德州的沃思堡。他曾代表美國隊參加[2006年萊德盃](../Page/2006年萊德盃.md "wikilink")，并曾排名世界前40位。
+）是一位[美國職業](https://zh.wikipedia.org/wiki/美國 "wikilink")[高爾夫球](../Page/高爾夫球.md "wikilink")選手。出生在康乃狄克州的費爾菲爾德。目前生活在德州的沃思堡。他曾代表美國隊參加[2006年萊德盃](../Page/2006年萊德盃.md "wikilink")，并曾排名世界前40位。
 
 ## 外部連結
 

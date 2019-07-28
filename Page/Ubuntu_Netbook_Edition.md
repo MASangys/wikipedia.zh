@@ -1,5 +1,5 @@
 **Ubuntu Netbook Edition**（或*Ubuntu Netbook
-Remix*\[1\]\[2\]\[3\]）是一個[Ubuntu的桌面版本](../Page/Ubuntu.md "wikilink")，能優化[上网本的設備](../Page/上网本.md "wikilink")，使小屏幕和[Intel
+Remix*\[1\]\[2\]\[3\]）是一個[Ubuntu](../Page/Ubuntu.md "wikilink")的桌面版本，能優化[上网本](../Page/上网本.md "wikilink")的設備，使小屏幕和[Intel
 Atom處理器能夠更好工作](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。[Canonical公司](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")，建立Ubuntu的公司，正與[Moblin
 project合作](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")，以確保Ubuntu
 Netbook Edition有較低的硬件要求和更高的電池壽命。**现已融入Desktop版本。**
@@ -43,7 +43,7 @@ Ubuntu Netbook Edition的最低系統要求如下:
 
 ## 使用
 
-以下[上网本使用Ubuntu](../Page/上网本.md "wikilink") Netbook Edition:
+以下[上网本](../Page/上网本.md "wikilink")使用Ubuntu Netbook Edition:
 
   - Sylvania G Netbook Meso
   - Toshiba NB100

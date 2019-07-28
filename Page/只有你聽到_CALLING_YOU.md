@@ -1,5 +1,5 @@
 《**只有你聽到 CALLING
-YOU**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一的](../Page/乙一.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")。是收錄了3部作品的短篇集。由[角川Sneaker文庫出版](../Page/角川Sneaker文庫.md "wikilink")。2003年[廣播劇化](../Page/廣播劇.md "wikilink")，之後陸續改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
+YOU**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")。是收錄了3部作品的短篇集。由[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")出版。2003年[廣播劇](../Page/廣播劇.md "wikilink")化，之後陸續改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 收錄作品
 

@@ -1,8 +1,8 @@
 **Andalé Mono**，也寫作**Andale
-Mono**，是[Monotype公司出品的一個](https://zh.wikipedia.org/wiki/Monotype "wikilink")[等宽字体風格的](../Page/等宽字体.md "wikilink")[無襯線字體](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")，其特色在於字元有高度的可辨識性，例如[數字](../Page/數字.md "wikilink")「[0](../Page/0.md "wikilink")」中有一點，可輕易與大寫[字母](../Page/字母.md "wikilink")「[O](../Page/O.md "wikilink")」區別；容易混淆的數字「[1](../Page/1.md "wikilink")」、小寫字母「[l](https://zh.wikipedia.org/wiki/l "wikilink")」和大寫字母「[I](../Page/I.md "wikilink")」也加入[襯線設計以利分辨](https://zh.wikipedia.org/wiki/襯線 "wikilink")。
+Mono**，是[Monotype公司出品的一個](https://zh.wikipedia.org/wiki/Monotype "wikilink")[等宽字体](../Page/等宽字体.md "wikilink")風格的[無襯線字體](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")，其特色在於字元有高度的可辨識性，例如[數字](../Page/數字.md "wikilink")「[0](../Page/0.md "wikilink")」中有一點，可輕易與大寫[字母](../Page/字母.md "wikilink")「[O](../Page/O.md "wikilink")」區別；容易混淆的數字「[1](../Page/1.md "wikilink")」、小寫字母「[l](https://zh.wikipedia.org/wiki/l "wikilink")」和大寫字母「[I](../Page/I.md "wikilink")」也加入[襯線設計以利分辨](https://zh.wikipedia.org/wiki/襯線 "wikilink")。
 
 由知名字型設計師[史提夫·馬特森](https://zh.wikipedia.org/wiki/史提夫·馬特森 "wikilink")（Steve
-Matteson）創造，作為[終端機的顯示字体與](https://zh.wikipedia.org/wiki/終端機 "wikilink")[軟體開發的](https://zh.wikipedia.org/wiki/軟體 "wikilink")[源碼字型之用](https://zh.wikipedia.org/wiki/源碼 "wikilink")，最早應用在蘋果公司與[IBM合作研發的](../Page/IBM.md "wikilink")[Taligent計畫](https://zh.wikipedia.org/wiki/Taligent "wikilink")，後來[微軟也將此字型選為](https://zh.wikipedia.org/wiki/微軟 "wikilink")[網頁核心字型之一](../Page/網頁核心字型.md "wikilink")。
+Matteson）創造，作為[終端機的顯示字体與](https://zh.wikipedia.org/wiki/終端機 "wikilink")[軟體開發的](https://zh.wikipedia.org/wiki/軟體 "wikilink")[源碼字型之用](https://zh.wikipedia.org/wiki/源碼 "wikilink")，最早應用在蘋果公司與[IBM](../Page/IBM.md "wikilink")合作研發的[Taligent計畫](https://zh.wikipedia.org/wiki/Taligent "wikilink")，後來[微軟也將此字型選為](https://zh.wikipedia.org/wiki/微軟 "wikilink")[網頁核心字型](../Page/網頁核心字型.md "wikilink")之一。
 
 在微軟的[Windows系統上](https://zh.wikipedia.org/wiki/Windows "wikilink")，Andalé
 Mono最初是作為[Internet Explorer](../Page/Internet_Explorer.md "wikilink")

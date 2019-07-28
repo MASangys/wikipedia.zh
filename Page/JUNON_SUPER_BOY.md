@@ -17,9 +17,9 @@ JUNON」開始進行第二次審査落選者的敗部復活人氣投票活動。
 
 獎項：「最高獎」、「準最高獎」、「最佳上相獎（讀者投票第一名）」、「評審特別獎」。
 
-獲獎者大多會與經紀公司進行簽約，並作為演員出道。近年來最高獎的獲獎者經常獲得多家經紀公司的青睞，例如2006年第19屆最高獎的[溝端淳平就創下有](../Page/溝端淳平.md "wikilink")40家經紀公司搶著簽約的紀錄，而2008年第21屆最高獎的[市川知宏則有](https://zh.wikipedia.org/wiki/市川知宏 "wikilink")36家經紀公司提出邀約。
+獲獎者大多會與經紀公司進行簽約，並作為演員出道。近年來最高獎的獲獎者經常獲得多家經紀公司的青睞，例如2006年第19屆最高獎的[溝端淳平](../Page/溝端淳平.md "wikilink")就創下有40家經紀公司搶著簽約的紀錄，而2008年第21屆最高獎的[市川知宏則有](https://zh.wikipedia.org/wiki/市川知宏 "wikilink")36家經紀公司提出邀約。
 
-到目前為止這個比賽提拔了[武田真治](https://zh.wikipedia.org/wiki/武田真治 "wikilink")、[葛山信吾](../Page/葛山信吾.md "wikilink")、[袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")、[柏原崇](../Page/柏原崇.md "wikilink")、[伊藤英明](../Page/伊藤英明.md "wikilink")、[加藤晴彦](https://zh.wikipedia.org/wiki/加藤晴彦 "wikilink")、[小池徹平](../Page/小池徹平.md "wikilink")、[平岡祐太](../Page/平岡祐太.md "wikilink")、[山本裕典](../Page/山本裕典.md "wikilink")、[溝端淳平](../Page/溝端淳平.md "wikilink")、[三浦翔平](../Page/三浦翔平.md "wikilink")、[菅田將暉等多位目前活躍於演藝圈的藝人](../Page/菅田將暉.md "wikilink")。其中2000年第13屆獲獎者的[伊崎右典](https://zh.wikipedia.org/wiki/伊崎右典 "wikilink")、[伊崎央登](https://zh.wikipedia.org/wiki/伊崎央登 "wikilink")、[北村悠](https://zh.wikipedia.org/wiki/北村悠 "wikilink")、[金子恭平組成了](https://zh.wikipedia.org/wiki/金子恭平 "wikilink")4人的男子團體「[FLAME](https://zh.wikipedia.org/wiki/FLAME "wikilink")」。
+到目前為止這個比賽提拔了[武田真治](https://zh.wikipedia.org/wiki/武田真治 "wikilink")、[葛山信吾](../Page/葛山信吾.md "wikilink")、[袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")、[柏原崇](../Page/柏原崇.md "wikilink")、[伊藤英明](../Page/伊藤英明.md "wikilink")、[加藤晴彦](https://zh.wikipedia.org/wiki/加藤晴彦 "wikilink")、[小池徹平](../Page/小池徹平.md "wikilink")、[平岡祐太](../Page/平岡祐太.md "wikilink")、[山本裕典](../Page/山本裕典.md "wikilink")、[溝端淳平](../Page/溝端淳平.md "wikilink")、[三浦翔平](../Page/三浦翔平.md "wikilink")、[菅田將暉](../Page/菅田將暉.md "wikilink")等多位目前活躍於演藝圈的藝人。其中2000年第13屆獲獎者的[伊崎右典](https://zh.wikipedia.org/wiki/伊崎右典 "wikilink")、[伊崎央登](https://zh.wikipedia.org/wiki/伊崎央登 "wikilink")、[北村悠](https://zh.wikipedia.org/wiki/北村悠 "wikilink")、[金子恭平組成了](https://zh.wikipedia.org/wiki/金子恭平 "wikilink")4人的男子團體「[FLAME](https://zh.wikipedia.org/wiki/FLAME "wikilink")」。
 
 ## 歴屆記錄
 

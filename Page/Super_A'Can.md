@@ -13,7 +13,7 @@ Neo Geo使用的[Motorola
 
 ## 历史
 
-1995年7月发布，定位对应超任等机型。对比当时的超任是旗鼓相当的机型，但由于市场操作失误及新一代主机的到来而走向失败。最後，A'can在虧損了超過六百萬的美金下結束了它短暫的生命，聯華電子則全面銷毀所有相關開發和製作零件，而剩下的主機被當成[垃圾賣給了](../Page/垃圾.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。A'can是2000年以前聯華電子旗下損失最嚴重的[産品](https://zh.wikipedia.org/wiki/産品 "wikilink")，据报道，联华为此损失6百万美元。\[1\]
+1995年7月发布，定位对应超任等机型。对比当时的超任是旗鼓相当的机型，但由于市场操作失误及新一代主机的到来而走向失败。最後，A'can在虧損了超過六百萬的美金下結束了它短暫的生命，聯華電子則全面銷毀所有相關開發和製作零件，而剩下的主機被當成[垃圾](../Page/垃圾.md "wikilink")賣給了[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。A'can是2000年以前聯華電子旗下損失最嚴重的[産品](https://zh.wikipedia.org/wiki/産品 "wikilink")，据报道，联华为此损失6百万美元。\[1\]
 
 Super
 A'Can的失败原因有几点。首先其本身机能虽可以媲美超級任天堂，但其上市已经是1995年，这时超級任天堂的机能已经落后。相较[Sony的](https://zh.wikipedia.org/wiki/Sony "wikilink")[Playstation等大量应用](https://zh.wikipedia.org/wiki/Playstation "wikilink")[3D技术的游戏机](https://zh.wikipedia.org/wiki/3D "wikilink")，Super

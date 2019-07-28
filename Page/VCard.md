@@ -2,7 +2,7 @@
 
 ## 歷史
 
-vCard（或稱做Versitcard）最早是由Versit聯盟於1995年提出的，當時聯盟成員包括[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，AT\&T科技（後來的[朗訊](https://zh.wikipedia.org/wiki/朗訊 "wikilink")），[IBM及](../Page/IBM.md "wikilink")[西門子](https://zh.wikipedia.org/wiki/西門子 "wikilink")。在1996年十二月，格式的擁有權移至（IMC），此聯盟是由一些關注網際網路電子郵件的公司所組成。
+vCard（或稱做Versitcard）最早是由Versit聯盟於1995年提出的，當時聯盟成員包括[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，AT\&T科技（後來的[朗訊](https://zh.wikipedia.org/wiki/朗訊 "wikilink")），[IBM](../Page/IBM.md "wikilink")及[西門子](https://zh.wikipedia.org/wiki/西門子 "wikilink")。在1996年十二月，格式的擁有權移至（IMC），此聯盟是由一些關注網際網路電子郵件的公司所組成。
 
 與vCard一同提出的用於數據交換的標準還有[vCalendar](https://zh.wikipedia.org/wiki/vCalendar "wikilink")，但現在被[iCalendar所取代](https://zh.wikipedia.org/wiki/iCalendar "wikilink")。網際網路郵件聯盟已經聲明它希望“所有的vCalendar開發者利用這些新的開放標準，並使軟件能夠同時兼容vCalendar
 1.0和iCalendar。”
@@ -12,7 +12,7 @@ vCard標準的2.1版被[電子郵件客戶端廣泛支持](https://zh.wikipedia.
 2426中的[IETF標準跟蹤提案](https://zh.wikipedia.org/wiki/IETF "wikilink")。vCard的常用[副檔名是](https://zh.wikipedia.org/wiki/副檔名 "wikilink").vcf。
 
 不同的程序對vCard標準實現亦不同。Mac OS X中的Address Book允許把所有聯繫人導出到一個vcf文件，而[Microsoft
-Outlook只能每人一個文件](../Page/Microsoft_Outlook.md "wikilink")。Linux中KDE的[Kontact允許每個文件導入或導出一人或多人](../Page/Kontact.md "wikilink")。
+Outlook只能每人一個文件](../Page/Microsoft_Outlook.md "wikilink")。Linux中KDE的[Kontact](../Page/Kontact.md "wikilink")允許每個文件導入或導出一人或多人。
 
 ## vCard文件樣例
 

@@ -1,14 +1,14 @@
 《**铁路大亨II**》（*Railroad Tycoon
 II*）是[PopTop软件公司](https://zh.wikipedia.org/wiki/:en:PopTop_Software "wikilink")1998年开发的一款[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")，是《[席德·梅尔的铁路大亨](https://zh.wikipedia.org/wiki/铁路大亨 "wikilink")》（[Railroad
-Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版权原属](https://zh.wikipedia.org/wiki/版权 "wikilink")[MicroProse公司](https://zh.wikipedia.org/wiki/:en:MicroProse "wikilink")）的续作。在PopTop软件公司获得其版权后，该系列就和[席德·梅尔没有了任何关系](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")，所以其命名也仅保留了“铁路大亨”。2000年，[北京新天地在](../Page/北京新天地.md "wikilink")[中国大陆地区代理發行了](../Page/中国大陆.md "wikilink")[简体中文版](https://zh.wikipedia.org/wiki/简体中文 "wikilink")。
+Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版权原属](https://zh.wikipedia.org/wiki/版权 "wikilink")[MicroProse公司](https://zh.wikipedia.org/wiki/:en:MicroProse "wikilink")）的续作。在PopTop软件公司获得其版权后，该系列就和[席德·梅尔没有了任何关系](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")，所以其命名也仅保留了“铁路大亨”。2000年，[北京新天地](../Page/北京新天地.md "wikilink")在[中国大陆](../Page/中国大陆.md "wikilink")地区代理發行了[简体中文版](https://zh.wikipedia.org/wiki/简体中文 "wikilink")。
 
 ## 游戏简介
 
-《铁路大亨II》是一款[模拟经营类游戏](https://zh.wikipedia.org/wiki/模拟经营 "wikilink")，它还有一个资料片《铁路大亨II-二十一世纪》。这款游戏出色地模拟了19世纪-20世纪长达170年的[铁路运输工业的发展和遭遇](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")。她佐证了[铁路运输是人类工业文明史的标杆](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")。游戏中的战役关卡表现出了[蒸汽时代的铁路大建设和产业升级](https://zh.wikipedia.org/wiki/工业革命 "wikilink")；两次世界大战时期铁路运输对政治局势和战场形势的举足轻重的作用；[二战结束后](../Page/第二次世界大战.md "wikilink")[航空业的发展和铁路的没落与挣扎](../Page/航空.md "wikilink")；新工业革命时期[高铁时代的机遇](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")；游戏甚至还假想了人们发明了超级[地心热能发电站](https://zh.wikipedia.org/wiki/地热能 "wikilink")，利用其巨大的发电能力填平了[直布罗陀海峡](https://zh.wikipedia.org/wiki/直布罗陀海峡 "wikilink")，抽干了[地中海的海水之后](../Page/地中海.md "wikilink"),铁路在新形成的地中海盆地上的作用；还假想了地心电站爆炸,热气大量涌入大气导致全球变暖,海平面迅速上升,火车与海水赛跑,铁路紧急物资的情形；以至于人类最终移民南极，铁路运输在刚刚化冻的殖民地上的复兴……
+《铁路大亨II》是一款[模拟经营类游戏](https://zh.wikipedia.org/wiki/模拟经营 "wikilink")，它还有一个资料片《铁路大亨II-二十一世纪》。这款游戏出色地模拟了19世纪-20世纪长达170年的[铁路运输工业的发展和遭遇](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")。她佐证了[铁路运输是人类工业文明史的标杆](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")。游戏中的战役关卡表现出了[蒸汽时代的铁路大建设和产业升级](https://zh.wikipedia.org/wiki/工业革命 "wikilink")；两次世界大战时期铁路运输对政治局势和战场形势的举足轻重的作用；[二战结束后](../Page/第二次世界大战.md "wikilink")[航空](../Page/航空.md "wikilink")业的发展和铁路的没落与挣扎；新工业革命时期[高铁时代的机遇](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")；游戏甚至还假想了人们发明了超级[地心热能发电站](https://zh.wikipedia.org/wiki/地热能 "wikilink")，利用其巨大的发电能力填平了[直布罗陀海峡](https://zh.wikipedia.org/wiki/直布罗陀海峡 "wikilink")，抽干了[地中海](../Page/地中海.md "wikilink")的海水之后,铁路在新形成的地中海盆地上的作用；还假想了地心电站爆炸,热气大量涌入大气导致全球变暖,海平面迅速上升,火车与海水赛跑,铁路紧急物资的情形；以至于人类最终移民南极，铁路运输在刚刚化冻的殖民地上的复兴……
 
 游戏的内容以控制火车、建设铁路、车站和资本运作为主。玩家将会扮演一位历史人物，掌管一家[国有铁路公司](../Page/国有企业.md "wikilink")，或者[经营一家私有的铁路公司](https://zh.wikipedia.org/wiki/经营 "wikilink")，亦或者在[股票市场投资](https://zh.wikipedia.org/wiki/股市 "wikilink")。游戏总共设有18个关卡，其资料片《铁路大亨二十一世纪》也有18个关卡，总计36个战役关卡。关卡地图囊括了世界的七[大洲](../Page/洲.md "wikilink")，还有一些是假想的地球地貌，跨越了200年的历史和假想未来。每个关卡都设有金、银、铜三个奖牌，分别设有不同的过关要求，包括：向指定车站运送指定的多少货物；在规定时间内经过多少铁路或者车站；连接某几个[城市](../Page/城市.md "wikilink")；赚取多少工业利润；个人资产达到多少；公司[净资产达到多少等等](https://zh.wikipedia.org/wiki/资产净值 "wikilink")。
 
-游戏模式与一般[单机游戏类似](../Page/单机游戏.md "wikilink")，有战役和独立剧情任务。战役的难度相对较低，战役每个关卡的难度会逐渐升高，关卡之间依照顺序有一定的相关性。独立剧情任务使用的地图大部分和战役是一样的，只是奖牌的要求不同。剧情任务的奖牌要求一般是经营性的，比如要求工业利润、个人资产和公司净资产。有些战役关卡为实现某些历史情节，才会有一些特殊的要求。
+游戏模式与一般[单机游戏](../Page/单机游戏.md "wikilink")类似，有战役和独立剧情任务。战役的难度相对较低，战役每个关卡的难度会逐渐升高，关卡之间依照顺序有一定的相关性。独立剧情任务使用的地图大部分和战役是一样的，只是奖牌的要求不同。剧情任务的奖牌要求一般是经营性的，比如要求工业利润、个人资产和公司净资产。有些战役关卡为实现某些历史情节，才会有一些特殊的要求。
 
 ## 游戏内容
 
@@ -23,10 +23,10 @@ Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版�
 
   - 产业链
 
-《铁路大亨II》拥有一套完备的供给/需求系统，是本作的亮点之一。游戏总计有31种货物，主要包括乘客、邮件、食品、工业品、钢铁、汽车以及谷物、牛等等。并且游戏设有48种产业建筑（包括住宅）。乘客和邮件只由城市中的住宅供给，并且住宅同时需求乘客和邮件，所以玩家只需要把一个城市的乘客运到另一个城市即可。而其它的产业则更复杂一些，比如面包坊，面包坊需求谷物或者糖，供给食品。所以玩家需要把谷物运到面包坊，生产食品后再运至城市。有些产业需要不同的货物才能生产出货物，比如汽车厂需求2厢[钢铁和](https://zh.wikipedia.org/wiki/钢铁 "wikilink")1厢[轮胎生产](https://zh.wikipedia.org/wiki/轮胎 "wikilink")3厢[汽车](../Page/汽车.md "wikilink")。不同的产业都有自己的“产业[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")”，玩家只要在界面点一下这些产业，就能看到它们的[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")。面包坊和汽车厂这类属于“[第二产业](https://zh.wikipedia.org/wiki/第二产业 "wikilink")”，有进有出。还有一种产业不同——[农业和](../Page/农业.md "wikilink")[矿业](https://zh.wikipedia.org/wiki/矿业 "wikilink")，比如粮田、[铁矿](../Page/铁矿.md "wikilink")、[油井和化工厂这类](https://zh.wikipedia.org/wiki/油井 "wikilink")[第一产业](../Page/第一产业.md "wikilink")。这类企业无需提供货物可以自行产出谷物、铁矿、原油和化工品。还有一类产业，它们没有产出而只有需求，比如垃圾填埋场只需求[垃圾](../Page/垃圾.md "wikilink")，军需仓库只需求[武器](../Page/武器.md "wikilink")、[弹药和](https://zh.wikipedia.org/wiki/弹药 "wikilink")[柴油](../Page/柴油.md "wikilink")。[城市本身也是需求的集中地](../Page/城市.md "wikilink")，几乎所有的终端商品——食品，工业品和汽车等都可以销往城市。在这一套系统下，玩家可以精心设计一条
+《铁路大亨II》拥有一套完备的供给/需求系统，是本作的亮点之一。游戏总计有31种货物，主要包括乘客、邮件、食品、工业品、钢铁、汽车以及谷物、牛等等。并且游戏设有48种产业建筑（包括住宅）。乘客和邮件只由城市中的住宅供给，并且住宅同时需求乘客和邮件，所以玩家只需要把一个城市的乘客运到另一个城市即可。而其它的产业则更复杂一些，比如面包坊，面包坊需求谷物或者糖，供给食品。所以玩家需要把谷物运到面包坊，生产食品后再运至城市。有些产业需要不同的货物才能生产出货物，比如汽车厂需求2厢[钢铁和](https://zh.wikipedia.org/wiki/钢铁 "wikilink")1厢[轮胎生产](https://zh.wikipedia.org/wiki/轮胎 "wikilink")3厢[汽车](../Page/汽车.md "wikilink")。不同的产业都有自己的“产业[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")”，玩家只要在界面点一下这些产业，就能看到它们的[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")。面包坊和汽车厂这类属于“[第二产业](https://zh.wikipedia.org/wiki/第二产业 "wikilink")”，有进有出。还有一种产业不同——[农业](../Page/农业.md "wikilink")和[矿业](https://zh.wikipedia.org/wiki/矿业 "wikilink")，比如粮田、[铁矿](../Page/铁矿.md "wikilink")、[油井和化工厂这类](https://zh.wikipedia.org/wiki/油井 "wikilink")[第一产业](../Page/第一产业.md "wikilink")。这类企业无需提供货物可以自行产出谷物、铁矿、原油和化工品。还有一类产业，它们没有产出而只有需求，比如垃圾填埋场只需求[垃圾](../Page/垃圾.md "wikilink")，军需仓库只需求[武器](../Page/武器.md "wikilink")、[弹药和](https://zh.wikipedia.org/wiki/弹药 "wikilink")[柴油](../Page/柴油.md "wikilink")。[城市](../Page/城市.md "wikilink")本身也是需求的集中地，几乎所有的终端商品——食品，工业品和汽车等都可以销往城市。在这一套系统下，玩家可以精心设计一条
 \[原料车站\]-运输-\[工业加工车站\]-运输-...-\[终端需求车站\] 的产业链，为自己提供稳定的利润来源。
 
-这套系统在3种不同的产业难度下有3种模式，分别是简单-高级-专家，难度模式在游戏开始前可以调整。以上介绍的是高级模式的情况。在简单的模式下，[第二产业比如面包坊和汽车厂不仅可以根据](https://zh.wikipedia.org/wiki/第二产业 "wikilink")“产业方程式”生产，也可以象[第一产业一样自行生产少量的货物](../Page/第一产业.md "wikilink")，使得玩家无需安排产业链就可以随意运输。在专家模式下，又加入了“需求等级”的设定。所有的需求被分成了0-9这十个等级。当玩家把大量的货物向一个车站销售的时候，这个车站对这个货物的需求就会下降，每下降一个等级，运输收入会减少10%；反之，如果一个车站长期不接受某项需求，需求等级就会上升，运输收入会提高，运输收入可以在基础值的50%-140%之间波动。所以专家级模式下玩家还需要注意安排让产业链均匀分布到各个需求地点。同时，专家级产业模式还会允许玩家购买这些产业，获取运输收入以外的另一项收入——产业利润，产业的进出量越大，这个产业盈利就会越高。但是产业的进出量越大意味着需求等级就会越低，运输收入就会越低。所以购买产业以后玩家还需要衡量运输收入和产业收入彼此之间的消长。
+这套系统在3种不同的产业难度下有3种模式，分别是简单-高级-专家，难度模式在游戏开始前可以调整。以上介绍的是高级模式的情况。在简单的模式下，[第二产业比如面包坊和汽车厂不仅可以根据](https://zh.wikipedia.org/wiki/第二产业 "wikilink")“产业方程式”生产，也可以象[第一产业](../Page/第一产业.md "wikilink")一样自行生产少量的货物，使得玩家无需安排产业链就可以随意运输。在专家模式下，又加入了“需求等级”的设定。所有的需求被分成了0-9这十个等级。当玩家把大量的货物向一个车站销售的时候，这个车站对这个货物的需求就会下降，每下降一个等级，运输收入会减少10%；反之，如果一个车站长期不接受某项需求，需求等级就会上升，运输收入会提高，运输收入可以在基础值的50%-140%之间波动。所以专家级模式下玩家还需要注意安排让产业链均匀分布到各个需求地点。同时，专家级产业模式还会允许玩家购买这些产业，获取运输收入以外的另一项收入——产业利润，产业的进出量越大，这个产业盈利就会越高。但是产业的进出量越大意味着需求等级就会越低，运输收入就会越低。所以购买产业以后玩家还需要衡量运输收入和产业收入彼此之间的消长。
 
   - [收入与](https://zh.wikipedia.org/wiki/收入 "wikilink")[成本](../Page/成本.md "wikilink")
 
@@ -80,13 +80,13 @@ Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版�
 
 ### 财务与经济
 
-《铁路大亨II》模拟了一套逼真的金融系统和经济环境：[股票](../Page/股票.md "wikilink")、[债券](../Page/债券.md "wikilink")、[买空](https://zh.wikipedia.org/wiki/保证金 "wikilink")、[卖空](https://zh.wikipedia.org/wiki/卖空 "wikilink")、[兼并公司](https://zh.wikipedia.org/wiki/兼并 "wikilink")、宣布[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")、清算公司、[利率变化等](../Page/利率.md "wikilink")，合理运用这些[金融工具会让玩家的](https://zh.wikipedia.org/wiki/金融工具 "wikilink")[铁路公司的发展速度超乎寻常](https://zh.wikipedia.org/wiki/铁路 "wikilink")。这也是本作的另一大亮点：让玩家体会到[资本的力量](../Page/资本.md "wikilink")。
+《铁路大亨II》模拟了一套逼真的金融系统和经济环境：[股票](../Page/股票.md "wikilink")、[债券](../Page/债券.md "wikilink")、[买空](https://zh.wikipedia.org/wiki/保证金 "wikilink")、[卖空](https://zh.wikipedia.org/wiki/卖空 "wikilink")、[兼并公司](https://zh.wikipedia.org/wiki/兼并 "wikilink")、宣布[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")、清算公司、[利率](../Page/利率.md "wikilink")变化等，合理运用这些[金融工具会让玩家的](https://zh.wikipedia.org/wiki/金融工具 "wikilink")[铁路公司的发展速度超乎寻常](https://zh.wikipedia.org/wiki/铁路 "wikilink")。这也是本作的另一大亮点：让玩家体会到[资本](../Page/资本.md "wikilink")的力量。
 
   - 基本
 
 游戏中统一使用美元作为货币，一般的使用和记账单位是千美元（$K）。
 
-游戏中玩家所经营的公司都是股份制的公司，公司由玩家或者电脑玩家发起，也有可能在游戏开始就会就职于一家公司。发起公司以后，玩家按照自己的出资比例持有自己公司的一部分股票，并任董事长管理公司。一般来说，大部分股票由广大的投资人所持有。除了股东的资金，玩家可以通过发行债券筹资。当玩家的公司经营到一定程度，评级机构就会提高公司的[信用评级](../Page/信用评级.md "wikilink")，游戏内设置了这样一些信用评级：F，D，C，CC，CCC，B，BB，BBB，A，AA，AAA。当[信用评级高于B时](../Page/信用评级.md "wikilink")，就能够发行[债券](../Page/债券.md "wikilink")，公司的[信用评级每提高](../Page/信用评级.md "wikilink")1个等级，[债券的](../Page/债券.md "wikilink")[利率就降低](../Page/利率.md "wikilink")1%。债券统一为30年期，本金$500K，随时可以偿付，并且债券发行后票面利率将保持一定。如果公司盈利，可以调整每股[红利](https://zh.wikipedia.org/wiki/红利 "wikilink")，将部分利润分配给[股东](https://zh.wikipedia.org/wiki/股东 "wikilink")。公司如果经营不善，连续两年亏损，也可以宣布[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。宣布破产后，公司将进行资本重整,公司的[债务会减轻一半](https://zh.wikipedia.org/wiki/债务 "wikilink")，但是股份数量会增加一倍,新发行的股票全部交给[债权人作为补偿](../Page/债权人.md "wikilink")，而且公司的[信用评级会降到F](../Page/信用评级.md "wikilink")，并且5年内不能再度宣布破产。此外,玩家可以提出[兼并其它的公司](https://zh.wikipedia.org/wiki/兼并 "wikilink")。提出兼并方案的时候，玩家可以调整收购目标公司的提议价格，提议价格最低不能低于其[市场现值](https://zh.wikipedia.org/wiki/市值 "wikilink")，最高不得超过现值的两倍。收购提案将立即交由被收购公司的股东大会投票表决，超过半数的股份同意则兼并成功；否则兼并失败，并且1年内提出兼并的公司不能再对任何公司提出兼并要求。收购方案通过以后，合同立即生效，媒体刊登头条新闻，公司将按照兼并提案支付给被收购公司原股东收购对价，接管被收购公司的所有[资产和](https://zh.wikipedia.org/wiki/资产 "wikilink")[负债](https://zh.wikipedia.org/wiki/负债 "wikilink")。在收购提案接受股东大会投票时，玩家如果在被收购公司中拥有持股，那么系统默认这部分股份同意玩家自己的兼并方案。
+游戏中玩家所经营的公司都是股份制的公司，公司由玩家或者电脑玩家发起，也有可能在游戏开始就会就职于一家公司。发起公司以后，玩家按照自己的出资比例持有自己公司的一部分股票，并任董事长管理公司。一般来说，大部分股票由广大的投资人所持有。除了股东的资金，玩家可以通过发行债券筹资。当玩家的公司经营到一定程度，评级机构就会提高公司的[信用评级](../Page/信用评级.md "wikilink")，游戏内设置了这样一些信用评级：F，D，C，CC，CCC，B，BB，BBB，A，AA，AAA。当[信用评级](../Page/信用评级.md "wikilink")高于B时，就能够发行[债券](../Page/债券.md "wikilink")，公司的[信用评级](../Page/信用评级.md "wikilink")每提高1个等级，[债券](../Page/债券.md "wikilink")的[利率](../Page/利率.md "wikilink")就降低1%。债券统一为30年期，本金$500K，随时可以偿付，并且债券发行后票面利率将保持一定。如果公司盈利，可以调整每股[红利](https://zh.wikipedia.org/wiki/红利 "wikilink")，将部分利润分配给[股东](https://zh.wikipedia.org/wiki/股东 "wikilink")。公司如果经营不善，连续两年亏损，也可以宣布[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。宣布破产后，公司将进行资本重整,公司的[债务会减轻一半](https://zh.wikipedia.org/wiki/债务 "wikilink")，但是股份数量会增加一倍,新发行的股票全部交给[债权人](../Page/债权人.md "wikilink")作为补偿，而且公司的[信用评级](../Page/信用评级.md "wikilink")会降到F，并且5年内不能再度宣布破产。此外,玩家可以提出[兼并其它的公司](https://zh.wikipedia.org/wiki/兼并 "wikilink")。提出兼并方案的时候，玩家可以调整收购目标公司的提议价格，提议价格最低不能低于其[市场现值](https://zh.wikipedia.org/wiki/市值 "wikilink")，最高不得超过现值的两倍。收购提案将立即交由被收购公司的股东大会投票表决，超过半数的股份同意则兼并成功；否则兼并失败，并且1年内提出兼并的公司不能再对任何公司提出兼并要求。收购方案通过以后，合同立即生效，媒体刊登头条新闻，公司将按照兼并提案支付给被收购公司原股东收购对价，接管被收购公司的所有[资产和](https://zh.wikipedia.org/wiki/资产 "wikilink")[负债](https://zh.wikipedia.org/wiki/负债 "wikilink")。在收购提案接受股东大会投票时，玩家如果在被收购公司中拥有持股，那么系统默认这部分股份同意玩家自己的兼并方案。
 
   - 股票市场
 
@@ -113,13 +113,13 @@ Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版�
 
   - 经济波动
 
-除了各种各样的[金融工具的操作](https://zh.wikipedia.org/wiki/金融工具 "wikilink")，游戏还模拟了[宏观经济的波动](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。游戏把当前的[宏观经济分成](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")5个等级：萧条、[衰退](https://zh.wikipedia.org/wiki/衰退 "wikilink")、正常、繁荣和高速发展。经济状况会沿着这5个台阶上下波动，波动周期大约是5-8年。[宏观经济状况对玩家经营的铁路公司有很大的影响](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。经济情况越好，货物的产量越高，货物的[价值也越高](https://zh.wikipedia.org/wiki/价值 "wikilink")。由于燃料以及保养等费用较为固定，所以公司的[利润的波动随着经济的波动是巨大的](https://zh.wikipedia.org/wiki/利润 "wikilink")。而且游戏还设定：每当经济提高一个台阶时，由于[投资者情绪的亢奋](https://zh.wikipedia.org/wiki/投资者 "wikilink")，[股票](../Page/股票.md "wikilink")[价格就会上升](../Page/价格.md "wikilink")10%。由于股价和[利润极大的相关性](https://zh.wikipedia.org/wiki/利润 "wikilink")，使得股价的波动更为剧烈。这就为玩家底买高卖创造了条件。
+除了各种各样的[金融工具的操作](https://zh.wikipedia.org/wiki/金融工具 "wikilink")，游戏还模拟了[宏观经济的波动](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。游戏把当前的[宏观经济分成](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")5个等级：萧条、[衰退](https://zh.wikipedia.org/wiki/衰退 "wikilink")、正常、繁荣和高速发展。经济状况会沿着这5个台阶上下波动，波动周期大约是5-8年。[宏观经济状况对玩家经营的铁路公司有很大的影响](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。经济情况越好，货物的产量越高，货物的[价值也越高](https://zh.wikipedia.org/wiki/价值 "wikilink")。由于燃料以及保养等费用较为固定，所以公司的[利润的波动随着经济的波动是巨大的](https://zh.wikipedia.org/wiki/利润 "wikilink")。而且游戏还设定：每当经济提高一个台阶时，由于[投资者情绪的亢奋](https://zh.wikipedia.org/wiki/投资者 "wikilink")，[股票](../Page/股票.md "wikilink")[价格](../Page/价格.md "wikilink")就会上升10%。由于股价和[利润极大的相关性](https://zh.wikipedia.org/wiki/利润 "wikilink")，使得股价的波动更为剧烈。这就为玩家底买高卖创造了条件。
 
 随着经济的波动，基准利率也会随之变化。当经济最差处于萧条的时候，基准利率为5%，经济水平每提高一个等级，基准利率就会降低1%。经济水平最好，处于高速发展时，基准利率降到最低的1%。基准利率是公司以及个人的[现金获得的年](https://zh.wikipedia.org/wiki/现金 "wikilink")[存款收益](https://zh.wikipedia.org/wiki/存款 "wikilink")。同时，最优贷款利率也会发生变化。最优贷款利率指的是最高信用评级的债券利率，最优贷款利率一直比基准利率高4%。玩家的信用等级每降低一个级别，新发的债券利率就提高1%。
 
 ## 图形与音效
 
-在[图形和](https://zh.wikipedia.org/wiki/图形 "wikilink")[音效上](../Page/音效.md "wikilink")，本作也很出色。比如当画面放大聚焦在养牛场的时候，玩家甚至可以听到[牛的叫声](../Page/牛.md "wikilink")。
+在[图形和](https://zh.wikipedia.org/wiki/图形 "wikilink")[音效](../Page/音效.md "wikilink")上，本作也很出色。比如当画面放大聚焦在养牛场的时候，玩家甚至可以听到[牛](../Page/牛.md "wikilink")的叫声。
 
 ## 其他
 
@@ -133,7 +133,7 @@ Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版�
 
   - 車輛配置
 
-除了乘客和各大產業的車輛外，還有一些功能獨立的車輛存在。在旅客列車裡面加掛鐵路餐車能增加乘客價值約20%，若該列車沒有價值本身也就沒有價值；[守車一律是在列車的後方](../Page/守車.md "wikilink")，可減少75%被搶劫機率和25%車頭故障機率，兩者共通的注意事項為不能再加掛第二輛相同車廂。
+除了乘客和各大產業的車輛外，還有一些功能獨立的車輛存在。在旅客列車裡面加掛鐵路餐車能增加乘客價值約20%，若該列車沒有價值本身也就沒有價值；[守車](../Page/守車.md "wikilink")一律是在列車的後方，可減少75%被搶劫機率和25%車頭故障機率，兩者共通的注意事項為不能再加掛第二輛相同車廂。
 
   - 經營管理
 

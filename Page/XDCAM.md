@@ -5,14 +5,14 @@ XDCAM的首兩代XDCAM及XDCAM HD，使用[Professional
 Disc作儲存媒體](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，媒體和[Blu-ray
 Disc相似及同樣可儲存](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")23
 GB（PFD23，單面）或50 GB（PFD50，雙面）數據。第三代XDCAM
-EX，使用固態SxS記憶卡。在2008年，[JVC宣佈和Sony結盟支援XDCAM](../Page/JVC.md "wikilink")
+EX，使用固態SxS記憶卡。在2008年，[JVC](../Page/JVC.md "wikilink")宣佈和Sony結盟支援XDCAM
 EX格式。
 
 為直徑12公分的光碟（付卡式外殼），與[藍光光碟使用相同波長的](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")405奈米的[藍光雷射](https://zh.wikipedia.org/wiki/藍光雷射 "wikilink")。記錄格式為[MPEG-2](../Page/MPEG-2.md "wikilink")（[MPEG
 IMX與](https://zh.wikipedia.org/wiki/MPEG_IMX "wikilink")[MPEG
 HD](https://zh.wikipedia.org/wiki/MPEG_HD "wikilink")）與[DVCAM](https://zh.wikipedia.org/wiki/DVCAM "wikilink")，與[BDMV（BD-Video](https://zh.wikipedia.org/wiki/BDMV "wikilink")（藍光光碟消費級影像格式）沒有互換性。
 
-XDCAM產品範圍包括了[攝影機和](../Page/攝影機.md "wikilink")[錄影機](../Page/錄影機.md "wikilink")，作為突發取代傳統錄影機的格式，容許XDCAM光碟可以應用在傳統影帶式的工作流程。其錄影機亦可作為隨機存取磁碟機，以[IEEE
+XDCAM產品範圍包括了[攝影機](../Page/攝影機.md "wikilink")和[錄影機](../Page/錄影機.md "wikilink")，作為突發取代傳統錄影機的格式，容許XDCAM光碟可以應用在傳統影帶式的工作流程。其錄影機亦可作為隨機存取磁碟機，以[IEEE
 1394及](../Page/IEEE_1394.md "wikilink")[以太網等途徑容易匯入錄像到](https://zh.wikipedia.org/wiki/以太網 "wikilink")[非線性編輯系統](https://zh.wikipedia.org/wiki/非線性編輯 "wikilink")。所以與過去使用影帶的錄影機系統比起來，進行非線性編輯更容易。
 
 ## 壓縮方式

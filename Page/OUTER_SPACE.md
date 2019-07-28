@@ -7,7 +7,7 @@ SPACE所有貨品都會寫著Made in OUTER SPACE，而不是Made in
 ## [CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")
 
 [CIRCUS是Channel](../Page/Circus_\(台灣樂團\).md "wikilink")
-V一個團體，較[棒棒堂](https://zh.wikipedia.org/wiki/Lollipop-F "wikilink")（Lollipop）、[黑Girl及](../Page/黑Girl.md "wikilink")[Choc7](../Page/Choc7.md "wikilink")（[超克7](https://zh.wikipedia.org/wiki/超克7 "wikilink")）早出道，為各人的師兄。[CIRCUS各人的關係十分友好](../Page/Circus_\(台灣樂團\).md "wikilink")，因此[CIRCUS其他成員](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")（[EASON](../Page/黃尹宣.md "wikilink")、[KID](../Page/林柏昇.md "wikilink")、[小馬](https://zh.wikipedia.org/wiki/林家緯_\(藝人\) "wikilink")）會時常為OUTER
+V一個團體，較[棒棒堂](https://zh.wikipedia.org/wiki/Lollipop-F "wikilink")（Lollipop）、[黑Girl](../Page/黑Girl.md "wikilink")及[Choc7](../Page/Choc7.md "wikilink")（[超克7](https://zh.wikipedia.org/wiki/超克7 "wikilink")）早出道，為各人的師兄。[CIRCUS各人的關係十分友好](../Page/Circus_\(台灣樂團\).md "wikilink")，因此[CIRCUS其他成員](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")（[EASON](../Page/黃尹宣.md "wikilink")、[KID](../Page/林柏昇.md "wikilink")、[小馬](https://zh.wikipedia.org/wiki/林家緯_\(藝人\) "wikilink")）會時常為OUTER
 SPACE拍攝宣傳照上傳至網頁、Blog等。
 [CIRCUS各人於其節目](../Page/Circus_\(台灣樂團\).md "wikilink")（Circus
 Action及Circus 狗仔隊）會時常穿著OUTER SPACE衣服，而Leo也會時常在節目中置入宣傳其品牌OUTER SPACE。
@@ -207,7 +207,7 @@ SPACE這品牌。
       - 於2009年7月18日至7月31日史無前例地舉行「太空試賣祭」，即一中旗艦店與太空官網均同一價（官網價格會比旗艦店便宜）\[2\]。
       - 開幕當天首200名買家可得到[CIRCUS成員](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")[KID及](../Page/林柏昇.md "wikilink")[EASON的](../Page/黃尹宣.md "wikilink")「夏日男優超清涼拍立得」（人體招牌）
       - \[\[Channel_V|CHANNEL
-        \[V\]娛樂台\]\]頻道前總監[張世明前來一中旗艦店支持CIRCUS及OUTER](../Page/張世明.md "wikilink")
+        \[V\]娛樂台\]\]頻道前總監[張世明](../Page/張世明.md "wikilink")前來一中旗艦店支持CIRCUS及OUTER
         SPACE。\[3\]。
   - 高雄：高雄市新興區新田路167號（於2009年7月25日至7月31日試業，8月1日正式開幕）
       - 於2009年7月25日至7月31日史無前例地舉行「太空試賣祭」，即堀江旗艦店與太空官網均同一價（官網價格會比旗艦店便宜）

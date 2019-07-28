@@ -1,5 +1,5 @@
-**[OL蔡桃桂](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")**為網路漫畫家[RIVER的](https://zh.wikipedia.org/wiki/RIVER "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")\[1\]，於2003年開始於[Yahoo\!奇摩連載](https://zh.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")，單行本由[台灣東販發售](../Page/台灣東販.md "wikilink")\[2\]。內容敘述主角蔡桃桂在大間公司工作中的各種有趣事情。
-值得一提的是，裡面所有的人物名稱多數都和食物有密切的關係（如*蔡桃桂*即台語[蘿蔔糕的念法](../Page/蘿蔔糕.md "wikilink")）
+**[OL蔡桃桂](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")**為網路漫畫家[RIVER的](https://zh.wikipedia.org/wiki/RIVER "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品\[1\]，於2003年開始於[Yahoo\!奇摩連載](https://zh.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")，單行本由[台灣東販](../Page/台灣東販.md "wikilink")發售\[2\]。內容敘述主角蔡桃桂在大間公司工作中的各種有趣事情。
+值得一提的是，裡面所有的人物名稱多數都和食物有密切的關係（如*蔡桃桂*即台語[蘿蔔糕](../Page/蘿蔔糕.md "wikilink")的念法）
 
 ## 登場人物
 
@@ -9,7 +9,7 @@
 
   - 張瑜梢
 
-大間公司業務專員，為章魚派師傅的女兒，因不想繼承父親的事業而轉頭到大間公司，其武功是全漫畫中數一數二的，但也因為如此而經常破壞公司中的物品。[猜拳運氣很差](../Page/猜拳.md "wikilink")。與小馬為情人關係。名字取自日本小吃[章魚燒的中文讀音](../Page/章魚燒.md "wikilink")。在網路漫畫comico連載作品《[難道長得不帥就只能當個好人嗎？](https://zh.wikipedia.org/wiki/難道長得不帥就只能當個好人嗎？ "wikilink")》與小馬一起出現軍營。
+大間公司業務專員，為章魚派師傅的女兒，因不想繼承父親的事業而轉頭到大間公司，其武功是全漫畫中數一數二的，但也因為如此而經常破壞公司中的物品。[猜拳](../Page/猜拳.md "wikilink")運氣很差。與小馬為情人關係。名字取自日本小吃[章魚燒](../Page/章魚燒.md "wikilink")的中文讀音。在網路漫畫comico連載作品《[難道長得不帥就只能當個好人嗎？](https://zh.wikipedia.org/wiki/難道長得不帥就只能當個好人嗎？ "wikilink")》與小馬一起出現軍營。
 
   - 艾鈺冰
 
@@ -65,7 +65,7 @@
 
   - 拿鐵
 
-歐雷恩的妹妹，名為LATTE，法屬圭亞那分公司業務四課女職員，現在擔任大間台中分公司的保全，性格衝動火爆、腦筋不太靈光，一心想打敗張瑜梢，來取得公司最強OL破壞王的頭銜，於是利用張瑜梢[猜拳運氣差的弱點](../Page/猜拳.md "wikilink")，研發出以[猜拳來進行格鬥的一種格鬥方式](../Page/猜拳.md "wikilink")。其名字取自[拿鐵](https://zh.wikipedia.org/wiki/拿鐵 "wikilink")（也是目前作品中唯一與食物徹底同名的角色）。
+歐雷恩的妹妹，名為LATTE，法屬圭亞那分公司業務四課女職員，現在擔任大間台中分公司的保全，性格衝動火爆、腦筋不太靈光，一心想打敗張瑜梢，來取得公司最強OL破壞王的頭銜，於是利用張瑜梢[猜拳](../Page/猜拳.md "wikilink")運氣差的弱點，研發出以[猜拳](../Page/猜拳.md "wikilink")來進行格鬥的一種格鬥方式。其名字取自[拿鐵](https://zh.wikipedia.org/wiki/拿鐵 "wikilink")（也是目前作品中唯一與食物徹底同名的角色）。
 
   - 海王子（探考‧朱勒排）
 
@@ -73,7 +73,7 @@
 
   - 打掃歐巴桑
 
-本名不明，來歷也不明的大間公司清潔工，平常戴著[耳機聽](../Page/耳機.md "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")，聽的[音樂為地藏](https://zh.wikipedia.org/wiki/音樂 "wikilink")[菩薩本願經](https://zh.wikipedia.org/wiki/菩薩 "wikilink")。實際年齡為56歲，但心智年齡卻只有18歲，所以小馬的魅力對她完全無效。
+本名不明，來歷也不明的大間公司清潔工，平常戴著[耳機](../Page/耳機.md "wikilink")聽[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")，聽的[音樂為地藏](https://zh.wikipedia.org/wiki/音樂 "wikilink")[菩薩本願經](https://zh.wikipedia.org/wiki/菩薩 "wikilink")。實際年齡為56歲，但心智年齡卻只有18歲，所以小馬的魅力對她完全無效。
 
   - 米苔沐
 

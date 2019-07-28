@@ -1,14 +1,14 @@
-，是由[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Pentavision株式会社研发和销售](../Page/Pentavision.md "wikilink")，仅在街机平台推出的[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是“DJMAX
+，是由[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Pentavision](../Page/Pentavision.md "wikilink")株式会社研发和销售，仅在街机平台推出的[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是“DJMAX
 METRO PROJECT”系列中第一部对外公开的作品。
 
 ## 機體配置
 
-街機主體含2個螢幕，下方為22英吋的多點觸控螢幕，也是玩家操作的螢幕；上方為32英吋供其他玩家觀賞的螢幕。上下螢幕都是採用[DVI畫質來顯示](../Page/DVI.md "wikilink")。
+街機主體含2個螢幕，下方為22英吋的多點觸控螢幕，也是玩家操作的螢幕；上方為32英吋供其他玩家觀賞的螢幕。上下螢幕都是採用[DVI](../Page/DVI.md "wikilink")畫質來顯示。
 其他的配件含：震動地板、配合遊戲節奏的燈光系統以及環繞立體聲喇叭系統。機體中間有**白金會員**（Platinum
 Crew）驗證卡片的讀卡機槽。
 
-街机主机由[英特尔](../Page/英特尔.md "wikilink")[赛扬](https://zh.wikipedia.org/wiki/赛扬 "wikilink")[E1400](https://zh.wikipedia.org/wiki/Intel_Celeron_處理器列表#.22Allendale.22_.28standard-voltage.2C_65_nm.29 "wikilink")、2GB内存、[BIOSTAR](https://zh.wikipedia.org/wiki/BIOSTAR "wikilink")（[映泰](https://zh.wikipedia.org/wiki/映泰 "wikilink")）P31[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")、[西部数据](https://zh.wikipedia.org/wiki/西部数据 "wikilink")160GB[硬盘](../Page/硬盘.md "wikilink")、[创新科技Audigy声卡以及](../Page/创新科技.md "wikilink")[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
-[Radeon显卡搭建而成](../Page/Radeon.md "wikilink")，运行系统核心为[嵌入版Windows
+街机主机由[英特尔](../Page/英特尔.md "wikilink")[赛扬](https://zh.wikipedia.org/wiki/赛扬 "wikilink")[E1400](https://zh.wikipedia.org/wiki/Intel_Celeron_處理器列表#.22Allendale.22_.28standard-voltage.2C_65_nm.29 "wikilink")、2GB内存、[BIOSTAR](https://zh.wikipedia.org/wiki/BIOSTAR "wikilink")（[映泰](https://zh.wikipedia.org/wiki/映泰 "wikilink")）P31[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")、[西部数据](https://zh.wikipedia.org/wiki/西部数据 "wikilink")160GB[硬盘](../Page/硬盘.md "wikilink")、[创新科技](../Page/创新科技.md "wikilink")Audigy声卡以及[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
+[Radeon](../Page/Radeon.md "wikilink")显卡搭建而成，运行系统核心为[嵌入版Windows
 XP](https://zh.wikipedia.org/wiki/Windows_XP_Embedded "wikilink")。触摸屏为红外线感应型，支持多点触摸(通过软件算法模拟而成，并非苹果公司的专利多点触摸技术)。
 
 ## 游戏说明

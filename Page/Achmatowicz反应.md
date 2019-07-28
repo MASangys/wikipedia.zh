@@ -1,15 +1,15 @@
 **Achmatowicz反应**（Achmatowicz Reaction）
 
-[呋喃转变为](../Page/呋喃.md "wikilink")[二氢吡喃环的过程](../Page/二氢吡喃.md "wikilink")。由
+[呋喃](../Page/呋喃.md "wikilink")转变为[二氢吡喃](../Page/二氢吡喃.md "wikilink")环的过程。由
 Osman Achmatowicz, Jr. 在 1971 年发现。\[1\]
-最初方法是用[糠醇与](https://zh.wikipedia.org/wiki/糠醇 "wikilink")[溴在](../Page/溴.md "wikilink")[甲醇中反应](../Page/甲醇.md "wikilink")，先得到2,5-二甲氧基-[二氢糠醇](https://zh.wikipedia.org/wiki/二氢糠醇 "wikilink")，它用稀[硫酸发生](../Page/硫酸.md "wikilink")[重排便得到一个二氢吡喃衍生物](https://zh.wikipedia.org/wiki/重排 "wikilink")。该衍生物与[原甲酸甲酯和](https://zh.wikipedia.org/wiki/原甲酸甲酯 "wikilink")[三氟化硼反应上甲基](../Page/三氟化硼.md "wikilink")[保护基](../Page/保护基.md "wikilink")，接着用[硼氢化钠还原](../Page/硼氢化钠.md "wikilink")[酮基](../Page/酮.md "wikilink")，可得另一二氢吡喃衍生物，这个产物可用作许多[单糖的合成中间体](https://zh.wikipedia.org/wiki/单糖 "wikilink")。
+最初方法是用[糠醇与](https://zh.wikipedia.org/wiki/糠醇 "wikilink")[溴](../Page/溴.md "wikilink")在[甲醇](../Page/甲醇.md "wikilink")中反应，先得到2,5-二甲氧基-[二氢糠醇](https://zh.wikipedia.org/wiki/二氢糠醇 "wikilink")，它用稀[硫酸](../Page/硫酸.md "wikilink")发生[重排便得到一个二氢吡喃衍生物](https://zh.wikipedia.org/wiki/重排 "wikilink")。该衍生物与[原甲酸甲酯和](https://zh.wikipedia.org/wiki/原甲酸甲酯 "wikilink")[三氟化硼](../Page/三氟化硼.md "wikilink")反应上甲基[保护基](../Page/保护基.md "wikilink")，接着用[硼氢化钠](../Page/硼氢化钠.md "wikilink")还原[酮](../Page/酮.md "wikilink")基，可得另一二氢吡喃衍生物，这个产物可用作许多[单糖的合成中间体](https://zh.wikipedia.org/wiki/单糖 "wikilink")。
 
 
 :[The_Achmatowicz_reaction.svg](https://zh.wikipedia.org/wiki/File:The_Achmatowicz_reaction.svg "fig:The_Achmatowicz_reaction.svg")
 这个反应用于天然产物
 *desoxoprosophylline*\[2\]、[核球壳菌素](https://zh.wikipedia.org/wiki/核球壳菌素 "wikilink")（*Pyrenophorin*）\[3\]
 和[包公藤甲素](https://zh.wikipedia.org/wiki/包公藤甲素 "wikilink")（*Bao Gong Teng
-A*）\[4\] 和[全合成中](../Page/全合成.md "wikilink")。
+A*）\[4\] 和[全合成](../Page/全合成.md "wikilink")中。
 
 最近也用于[定向多样性合成](https://zh.wikipedia.org/wiki/定向多样性合成 "wikilink") \[5\]
 \[6\]
@@ -68,5 +68,5 @@ A*）\[4\] 和[全合成中](../Page/全合成.md "wikilink")。
 8.  过程为：[氯甲酸苄酯为胺上](https://zh.wikipedia.org/wiki/氯甲酸苄酯 "wikilink")
     [Cbz](https://zh.wikipedia.org/wiki/Cbz "wikilink")
     保护基；[mCPBA](https://zh.wikipedia.org/wiki/mCPBA "wikilink")
-    促进的 Achmatowitz 反应；与[钼的配位](../Page/钼.md "wikilink")。 Cp =
-    [环戊二烯基](../Page/环戊二烯.md "wikilink")。
+    促进的 Achmatowitz 反应；与[钼](../Page/钼.md "wikilink")的配位。 Cp =
+    [环戊二烯](../Page/环戊二烯.md "wikilink")基。

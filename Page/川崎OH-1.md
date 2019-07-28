@@ -3,7 +3,7 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:JGSDF_OH-1（32634）_external_fuel_tanks_and_type_91_AAM.JPG "fig:缩略图")
 [缩略图](https://zh.wikipedia.org/wiki/File:JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG "fig:缩略图")
 **川崎OH-1**（Kawasaki
-OH-1）由[日本](../Page/日本.md "wikilink")[川崎重工業生產製造](../Page/川崎重工業.md "wikilink")，是[陸上自衛隊採用的輕型軍用偵察直升機](../Page/陸上自衛隊.md "wikilink")，以取代[OH-6「卡尤塞」直升機而設計](https://zh.wikipedia.org/wiki/OH-6A直升機 "wikilink")。它的兩台[渦輪軸引擎為](https://zh.wikipedia.org/wiki/渦輪軸發動機 "wikilink")[三菱重工業生產製造](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")，因執行潛入敵陣得到信息的任務而有「忍者」的愛稱\[1\]\[2\]。
+OH-1）由[日本](../Page/日本.md "wikilink")[川崎重工業](../Page/川崎重工業.md "wikilink")生產製造，是[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")採用的輕型軍用偵察直升機，以取代[OH-6「卡尤塞」直升機而設計](https://zh.wikipedia.org/wiki/OH-6A直升機 "wikilink")。它的兩台[渦輪軸引擎為](https://zh.wikipedia.org/wiki/渦輪軸發動機 "wikilink")[三菱重工業生產製造](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")，因執行潛入敵陣得到信息的任務而有「忍者」的愛稱\[1\]\[2\]。
 
 ## 基本諸元
 

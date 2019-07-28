@@ -1,5 +1,5 @@
-**Adobe Fireworks**，缩写**Fw**，是一个[位图和](../Page/位图.md "wikilink")
-[矢量编辑软件](https://zh.wikipedia.org/wiki/矢量编辑软件 "wikilink")。它原来由[Macromedia开发](../Page/Macromedia.md "wikilink")，后在2005年被[Adobe收购](../Page/Adobe.md "wikilink")。Fireworks专门针对[网页设计者而开发](https://zh.wikipedia.org/wiki/网页设计者 "wikilink")，包含了一系列制作网页相关的功能（切片，添加热点等）。它可以与其他原Macromedia产品共同协作，例如流行的[Adobe
+**Adobe Fireworks**，缩写**Fw**，是一个[位图](../Page/位图.md "wikilink")和
+[矢量编辑软件](https://zh.wikipedia.org/wiki/矢量编辑软件 "wikilink")。它原来由[Macromedia](../Page/Macromedia.md "wikilink")开发，后在2005年被[Adobe](../Page/Adobe.md "wikilink")收购。Fireworks专门针对[网页设计者而开发](https://zh.wikipedia.org/wiki/网页设计者 "wikilink")，包含了一系列制作网页相关的功能（切片，添加热点等）。它可以与其他原Macromedia产品共同协作，例如流行的[Adobe
 Dreamweaver和](../Page/Adobe_Dreamweaver.md "wikilink")[Adobe
 Animate](../Page/Adobe_Animate.md "wikilink")。它可以被单独购买或捆绑在[Adobe
 Creative Suite中](../Page/Adobe_Creative_Suite.md "wikilink")。Fireworks
@@ -7,7 +7,7 @@ Creative Suite中](../Page/Adobe_Creative_Suite.md "wikilink")。Fireworks
 
 ## 矢量、位图编辑
 
-Fireworks把编辑的重点放在[矢量图形上](../Page/矢量图形.md "wikilink")，类似于[Adobe
+Fireworks把编辑的重点放在[矢量图形](../Page/矢量图形.md "wikilink")上，类似于[Adobe
 Illustrator](../Page/Adobe_Illustrator.md "wikilink")，这种软件一般与擅长位图编辑的[Photoshop配合](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，从而形成一个理想的完整工作流程。在Fireworks中，矢量图形可以被缩放而不损失质量，同样也类似于Adobe
 Illustrator。在Fireworks 8中，一些[Adobe
 FreeHand的矢量图形工具被集成到软件中](../Page/Adobe_FreeHand.md "wikilink")。Fireworks的位图对象在缩放时受到的质量损失和[Adobe

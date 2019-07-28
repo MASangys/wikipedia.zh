@@ -1,10 +1,10 @@
-《**RAIN**》為[堂本剛於](../Page/堂本剛.md "wikilink")2009年9月9日發行的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為[堂本剛關連的個人單曲中的第](../Page/堂本剛.md "wikilink")8張作品。
+《**RAIN**》為[堂本剛](../Page/堂本剛.md "wikilink")於2009年9月9日發行的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為[堂本剛](../Page/堂本剛.md "wikilink")關連的個人單曲中的第8張作品。
 
 ## 解說
 
   - 與以[剛
     紫名義發行的前作相隔約](../Page/堂本剛.md "wikilink")5個月，而堂本剛名義來說則是與2004年發售的「[WAVER](../Page/WAVER.md "wikilink")」相隔約5年。
-  - 從這張作品開始，將商標名（レーベル名）更新為「MANDARA△T.D」，而[規格產品編號的種類編號並未做變更](../Page/規格產品編號.md "wikilink")。
+  - 從這張作品開始，將商標名（レーベル名）更新為「MANDARA△T.D」，而[規格產品編號](../Page/規格產品編號.md "wikilink")的種類編號並未做變更。
   - 單曲標題曲「RAIN」收錄在初回限定版（第3首）。
   - 「Sunday
     Morning」不僅作詞、作曲、編曲，[爵士鼓](../Page/爵士鼓.md "wikilink")、[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[吉他](../Page/吉他.md "wikilink")、[鋼琴的演奏也由堂本剛本人親自進行](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。（在PV中收錄了演奏各個樂器的模樣）

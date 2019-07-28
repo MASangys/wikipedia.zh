@@ -8,7 +8,7 @@ Control](../Page/Copy_Control.md "wikilink") CD。
 Girls](../Page/Boys_&_Girls.md "wikilink")》以來，濱崎步的單曲內都包含了大量的混音曲目。但從此單曲開始，單曲內的混音曲目數量開始大量減少，亦或是不收錄混音曲目。
 
 本作發行時，與雑誌《Free &
-Easy》，與此同時推出該雜誌的別刊《[滨崎共和国](https://zh.wikipedia.org/wiki/滨崎共和国 "wikilink")》（）寫真集\[1\]。並且於2002年的個人巡迴演唱會中，再次以“浜崎共和国”為主題，舞臺加入了寫真集中出現的[中世紀時代的神殿設計](https://zh.wikipedia.org/wiki/中世紀 "wikilink")，從當年10月12日起每逢星期六晚上11：30開始，濱崎步又親自為日本[富士電視台主持一個關於音樂](../Page/富士電視台.md "wikilink")、時裝兼搞笑名為“濱崎共和國”的定期節目。在其中濱崎步以君臨天下的女王身份出現，並且邀請其他知名藝人扮演大臣\[2\]。
+Easy》，與此同時推出該雜誌的別刊《[滨崎共和国](https://zh.wikipedia.org/wiki/滨崎共和国 "wikilink")》（）寫真集\[1\]。並且於2002年的個人巡迴演唱會中，再次以“浜崎共和国”為主題，舞臺加入了寫真集中出現的[中世紀時代的神殿設計](https://zh.wikipedia.org/wiki/中世紀 "wikilink")，從當年10月12日起每逢星期六晚上11：30開始，濱崎步又親自為日本[富士電視台](../Page/富士電視台.md "wikilink")主持一個關於音樂、時裝兼搞笑名為“濱崎共和國”的定期節目。在其中濱崎步以君臨天下的女王身份出現，並且邀請其他知名藝人扮演大臣\[2\]。
 
 另外，編曲者[HΛL由](https://zh.wikipedia.org/wiki/HΛL "wikilink")〈Free &
 Easy〉一曲奪得[日本唱片大賞的編曲賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")。

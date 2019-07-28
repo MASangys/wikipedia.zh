@@ -16,11 +16,11 @@ Wise節能技術](https://zh.wikipedia.org/wiki/Power_Wise "wikilink")，亦支�
 128硬件解碼。
 
 Chromotion HD
-2.0對應1080p的[Blu-ray影碟](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")，支援[MPEG-2](../Page/MPEG-2.md "wikilink")、[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")、[VC-1](../Page/VC-1.md "wikilink")、[WMV-HD和](https://zh.wikipedia.org/wiki/WMVHD "wikilink")[AVS等影像格式的硬件播放加速](../Page/AVS.md "wikilink")，並提供畫中畫和雙高清影片播放功能。Power
+2.0對應1080p的[Blu-ray影碟](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")，支援[MPEG-2](../Page/MPEG-2.md "wikilink")、[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")、[VC-1](../Page/VC-1.md "wikilink")、[WMV-HD和](https://zh.wikipedia.org/wiki/WMVHD "wikilink")[AVS](../Page/AVS.md "wikilink")等影像格式的硬件播放加速，並提供畫中畫和雙高清影片播放功能。Power
 Wise能按情況自動調整時脈以減低功耗，作用與[ATI的](https://zh.wikipedia.org/wiki/ATI "wikilink")[PowerPlay技術相似](https://zh.wikipedia.org/wiki/PowerPlay "wikilink")。
 
 輸出方面，提供[DisplayPort](../Page/DisplayPort.md "wikilink")、[HDMI](../Page/HDMI.md "wikilink")、Dual-link
-[DVI等影像輸出介面](../Page/DVI.md "wikilink")，並支援[HDCP加密](../Page/HDCP.md "wikilink")。另外，核心集成了音效控制器，支援[Dolby](https://zh.wikipedia.org/wiki/Dolby "wikilink")
+[DVI](../Page/DVI.md "wikilink")等影像輸出介面，並支援[HDCP](../Page/HDCP.md "wikilink")加密。另外，核心集成了音效控制器，支援[Dolby](https://zh.wikipedia.org/wiki/Dolby "wikilink")
 7.1環繞聲道，無須外接音效接線便可提供HDMI連音效輸出。
 
 Chrome

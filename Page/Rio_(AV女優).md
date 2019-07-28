@@ -1,4 +1,4 @@
-**里緒**（，），原名柚木蒂娜（），[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，也是日本女子團體[惠比壽麝香葡萄的成員](../Page/惠比壽麝香葡萄.md "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")。在2005年出道，很快便出名。以活泼可爱的风格闻名。被日本AV行业誉为2006年最佳新人。从2007年末起，她改名为Rio。2008年，Rio憑著超高的人氣，獲得主持個人電視節目《Rioの楽園》的機會，跨足一般的演藝工作。2010年，Rio和另外兩位人氣女優[吉澤明步](../Page/吉澤明步.md "wikilink")、[Mihiro共同擔綱演出](https://zh.wikipedia.org/wiki/Mihiro "wikilink")[SKELT
+**里緒**（，），原名柚木蒂娜（），[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，也是日本女子團體[惠比壽麝香葡萄](../Page/惠比壽麝香葡萄.md "wikilink")的成員。出身於[東京都](../Page/東京都.md "wikilink")。在2005年出道，很快便出名。以活泼可爱的风格闻名。被日本AV行业誉为2006年最佳新人。从2007年末起，她改名为Rio。2008年，Rio憑著超高的人氣，獲得主持個人電視節目《Rioの楽園》的機會，跨足一般的演藝工作。2010年，Rio和另外兩位人氣女優[吉澤明步](../Page/吉澤明步.md "wikilink")、[Mihiro共同擔綱演出](https://zh.wikipedia.org/wiki/Mihiro "wikilink")[SKELT
 8
 BAMBINO樂團單曲](https://zh.wikipedia.org/wiki/SKELT_8_BAMBINO "wikilink")[What's
 Love？Feat.

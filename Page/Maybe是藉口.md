@@ -1,4 +1,4 @@
-《**Maybe是藉口**》（），是[AKB48的第](../Page/AKB48.md "wikilink")13张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be
+《**Maybe是藉口**》（），是[AKB48](../Page/AKB48.md "wikilink")的第13张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be
 Cool\!/KING
 RECORDS与NEW](https://zh.wikipedia.org/wiki/King_Records "wikilink")
 KING RECORDS在2009年8月26日发售。中心成員由前田敦子擔當。
@@ -16,13 +16,13 @@ Girls（）”，演唱B面单曲《无法飞翔的凤蝶》（）。
 
 印在封面及CD盘面等处的“”字样是由当时所属Team K的小野惠令奈\[2\] 所写。
 
-发售前一日[Oricon公信榜单日榜中](../Page/Oricon公信榜.md "wikilink")，推定销量达5.7万张\[3\]，力压[SMAP同日发售的单曲](../Page/SMAP.md "wikilink")《[悄悄地
+发售前一日[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")单日榜中，推定销量达5.7万张\[3\]，力压[SMAP](../Page/SMAP.md "wikilink")同日发售的单曲《[悄悄地
 緊緊地／Super
 Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wikilink")》（），获得单日第一。当周销量最终达9.1万张\[4\]，仅次于上述SMAP单曲，位列周榜第二。
 
 ## MV
 
-[PV的导演工作继](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")《大声钻石》、《10年樱》及《惊喜之泪\!》之后，再次由[高橋榮樹担任](../Page/高橋榮樹.md "wikilink")。PV当中学校的场景是在[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[香取市的](../Page/香取市.md "wikilink")内旧学习院初等科讲堂，骑自行车的场景是在同市的佐原地区进行的拍摄。特别出演当中教师角色。PV开头的棒球比赛部分，本来是惯用左手的前田为配合拍摄采用的是右手。
+[PV的导演工作继](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")《大声钻石》、《10年樱》及《惊喜之泪\!》之后，再次由[高橋榮樹](../Page/高橋榮樹.md "wikilink")担任。PV当中学校的场景是在[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[香取市](../Page/香取市.md "wikilink")的内旧学习院初等科讲堂，骑自行车的场景是在同市的佐原地区进行的拍摄。特别出演当中教师角色。PV开头的棒球比赛部分，本来是惯用左手的前田为配合拍摄采用的是右手。
 
 宮崎美穂虽被选入选拔组，但由于身体不适，未能参加PV拍摄。
 
@@ -34,7 +34,7 @@ Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wiki
 
   - [日本电视台](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")、[中京电视台](https://zh.wikipedia.org/wiki/中京电视台 "wikilink")《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》片尾主题歌
   - 日本电视台系《[天才\!志村动物园](https://zh.wikipedia.org/wiki/天才!志村动物园 "wikilink")》片尾主题歌
-  - [TBS系](../Page/TBS.md "wikilink")《》片尾主题歌
+  - [TBS](../Page/TBS.md "wikilink")系《》片尾主题歌
   - [东京电视台系](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")《[周刊AKB](https://zh.wikipedia.org/wiki/周刊AKB "wikilink")》片尾主题歌
 
 ## 收录曲目
@@ -106,7 +106,7 @@ Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wiki
   -
     **粗体**标注者为通常盘封面成员
     浦野一美\[9\]
-    与佐藤亚美菜是首次进入选拔组。佐藤由加理、秋元、仓持与多田在前作落选，本作中重返。此外，前作选拔组中[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[小森美果与](../Page/小森美果.md "wikilink")[松井玲奈落选](../Page/松井玲奈.md "wikilink")（指原与松井当选Under
+    与佐藤亚美菜是首次进入选拔组。佐藤由加理、秋元、仓持与多田在前作落选，本作中重返。此外，前作选拔组中[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")与[松井玲奈](../Page/松井玲奈.md "wikilink")落选（指原与松井当选Under
     Girls）。
     选拔组最后一名（21）的仓持与Under Girls首位（22）米泽的票数差仅有3票。
 

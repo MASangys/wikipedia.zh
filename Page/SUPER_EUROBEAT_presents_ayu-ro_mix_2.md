@@ -1,5 +1,5 @@
 《**SUPER EUROBEAT presents ayu-ro mix 2**》（歐陸舞曲變身舞池
-2）是日本歌手[濱崎步的混音專輯](../Page/濱崎步.md "wikilink")，2001年9月27日於日本發售。為《SUPER
+2）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2001年9月27日於日本發售。為《SUPER
 EUROBEAT presents ayu-ro mix》第二個系列。
 
 ## 說明

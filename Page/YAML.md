@@ -1,4 +1,4 @@
-**YAML**（，尾音類似*camel*駱駝）是一個可讀性高，用來表達資料[序列化的格式](../Page/序列化.md "wikilink")。YAML參考了其他多種語言，包括：[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")，並從[XML](../Page/XML.md "wikilink")、電子郵件的數據格式（RFC
+**YAML**（，尾音類似*camel*駱駝）是一個可讀性高，用來表達資料[序列化](../Page/序列化.md "wikilink")的格式。YAML參考了其他多種語言，包括：[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")，並從[XML](../Page/XML.md "wikilink")、電子郵件的數據格式（RFC
 [2822](http://www.rfc-editor.org/rfc/rfc2822.txt)）中獲得靈感。Clark
 Evans在2001年首次發表了這種語言\[1\]，另外Ingy döt Net與Oren
 Ben-Kiki也是這語言的共同設計者\[2\]。目前已經有數種程式語言或腳本語言支援（或者說解析）這種語言。
@@ -12,7 +12,7 @@ Language"（仍是一種[标记語言](https://zh.wikipedia.org/wiki/标记語�
 
 YAML的語法和其他高階語言類似，並且可以簡單表達清單、散列表，純量等資料形態。\[4\]它使用空白符號縮排和大量依賴外觀的特色，特別適合用來表達或編輯資料結構、各種設定檔、傾印除錯內容、文件大綱（例如：許多電子郵件標題格式和YAML非常接近）。儘管它比較適合用來表達階層式（hierarchical
 model）的資料結構，不過也有精緻的語法可以表示關聯性（relational
-model）的資料。\[5\]由於YAML使用空白字元和分行來分隔資料，使得它特別適合用[grep](https://zh.wikipedia.org/wiki/grep "wikilink")／[Python](../Page/Python.md "wikilink")／[Perl](../Page/Perl.md "wikilink")／[Ruby操作](../Page/Ruby.md "wikilink")。其讓人最容易上手的特色是巧妙避開各種封閉符號，如：引號、各種括號等，這些符號在巢狀結構時會變得複雜而難以辨認。
+model）的資料。\[5\]由於YAML使用空白字元和分行來分隔資料，使得它特別適合用[grep](https://zh.wikipedia.org/wiki/grep "wikilink")／[Python](../Page/Python.md "wikilink")／[Perl](../Page/Perl.md "wikilink")／[Ruby](../Page/Ruby.md "wikilink")操作。其讓人最容易上手的特色是巧妙避開各種封閉符號，如：引號、各種括號等，這些符號在巢狀結構時會變得複雜而難以辨認。
 
 ## 範例
 
@@ -231,7 +231,7 @@ myObject:  !myClass { name: Joe, age: 15}
 
 在[yaml.org](http://yaml.org)（英文）可以找到輕巧而好用的[小抄](http://yaml.org/refcard.html)（亦是用YAML表示）及[格式說明](http://yaml.org/spec/)。下面的內容，是關於基本元件的摘要。
 
-  - YAML使用可列印的[Unicode字元](https://zh.wikipedia.org/wiki/Unicode "wikilink")，可使用[UTF-8或](../Page/UTF-8.md "wikilink")[UTF-16](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")。
+  - YAML使用可列印的[Unicode字元](https://zh.wikipedia.org/wiki/Unicode "wikilink")，可使用[UTF-8](../Page/UTF-8.md "wikilink")或[UTF-16](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")。
   - 使用空白字元為文件縮排來表示結構；不過不能使用跳格字元(TAB)。
   - 註解由井字號（''' \# '''）開始，可以出現在一行中的任何位置，而且範圍只有一行（也就是一般所謂的單行註解）
   - 每個清單成員以單行表示，並用短槓+空白（''' -  
@@ -267,7 +267,7 @@ YAML在使用逗號及冒號時，後面都必須接一個空白字元，所以�
 
 ## 與其他数据序列化格式比較
 
-雖然YAML是參考[JSON](../Page/JSON.md "wikilink")，[XML和](../Page/XML.md "wikilink")[SDL等語言](https://zh.wikipedia.org/wiki/SDL "wikilink")，不過跟這些語言比起來，YAML仍有自己的特色。
+雖然YAML是參考[JSON](../Page/JSON.md "wikilink")，[XML](../Page/XML.md "wikilink")和[SDL等語言](https://zh.wikipedia.org/wiki/SDL "wikilink")，不過跟這些語言比起來，YAML仍有自己的特色。
 
 ### JSON
 
@@ -281,7 +281,7 @@ document schema
 descriptors）──例如驗證自己本身的結構是否正確的文件。不過，[YAML綱要描述語言](https://zh.wikipedia.org/wiki/YAML綱要描述語言 "wikilink")（YAML
 schema descriptor
 language）是[存在](http://www.kuwata-lab.com/kwalify/)的。另外還有[YAXML](https://zh.wikipedia.org/wiki/YAXML "wikilink")──用XML描述YAML的結構──可以讓[XML
-Schema與](../Page/XML_Schema.md "wikilink")[XSLT轉換程式應用在YAML之上](../Page/XSLT.md "wikilink")。況且，在一般使用的情況下，YAML豐富的定義型態之語法已經提供了足夠的方式，來辨認YAML文件是否正確。
+Schema與](../Page/XML_Schema.md "wikilink")[XSLT](../Page/XSLT.md "wikilink")轉換程式應用在YAML之上。況且，在一般使用的情況下，YAML豐富的定義型態之語法已經提供了足夠的方式，來辨認YAML文件是否正確。
 
 ### 缩进劃界
 
@@ -321,7 +321,7 @@ YAML將縮排視為一個單一的空白，這可能會取得比其他標記語�
 
 #### 安全性
 
-YAML是純粹用來表達資料的語言，所以內部不會存[代碼注射的可執行命令](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。\[11\]這代表剖析器會相當（至少）安全的解析文件，而不用擔心潛在與執行命令相關的安全漏洞。舉例來說，[JSON是](../Page/JSON.md "wikilink")[JavaScript的子集](../Page/JavaScript.md "wikilink")，因此可能有人想使用JavaScript本身的剖析器直接eval，不過这样一来就造成許多[代碼注射的漏洞](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。雖然在所有資料序列語言中，安全解析本質上是可能的，但可執行性卻正是這樣一個惡名昭彰的缺陷；而YAML缺乏相關的命令語言，可能是一個相對安全的利益。
+YAML是純粹用來表達資料的語言，所以內部不會存[代碼注射的可執行命令](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。\[11\]這代表剖析器會相當（至少）安全的解析文件，而不用擔心潛在與執行命令相關的安全漏洞。舉例來說，[JSON](../Page/JSON.md "wikilink")是[JavaScript](../Page/JavaScript.md "wikilink")的子集，因此可能有人想使用JavaScript本身的剖析器直接eval，不過这样一来就造成許多[代碼注射的漏洞](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。雖然在所有資料序列語言中，安全解析本質上是可能的，但可執行性卻正是這樣一個惡名昭彰的缺陷；而YAML缺乏相關的命令語言，可能是一個相對安全的利益。
 
 ### 資料處理和呈現
 
@@ -407,7 +407,7 @@ XML\[12\]\[13\]和YAML規範\[14\]提供非常不同的*邏輯*模型來進行�
 
   - **編輯器：**
       - 建議使用能將跳格字元自動轉換成空白字元的編輯器，並且使用定寬度的字型。
-      - 編輯器要能正確的處理UTF-8和UTF16編碼（或是使用純[ASCII編碼](../Page/ASCII.md "wikilink")──它同時是UTF-8的子集）.
+      - 編輯器要能正確的處理UTF-8和UTF16編碼（或是使用純[ASCII](../Page/ASCII.md "wikilink")編碼──它同時是UTF-8的子集）.
   - **字串：**
       - YAML的字串不需使用引號，這可以增加可讀性，並避免巢狀的跳脫字元。然而，這有時也會導致錯誤，例如，字串本身是一個曖昧的字眼（像數字或布林值）；或在短句中意外的出現YAML的結構符號（常見的例子是由驚嘆號起始的句子，或是包含冒號-空白的句子："\!Caca
         de vaca\!"、"Caution: lions

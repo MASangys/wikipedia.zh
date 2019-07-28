@@ -1,4 +1,4 @@
-這是一個**iPod型號列表**。[IPod分為](../Page/IPod.md "wikilink")5個系列:[Classic](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")、[Mini](https://zh.wikipedia.org/wiki/iPod_Mini "wikilink")、[Nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")、[Shuffle及](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")[Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。各個系列都有不同的容量和設計。
+這是一個**iPod型號列表**。[IPod](../Page/IPod.md "wikilink")分為5個系列:[Classic](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")、[Mini](https://zh.wikipedia.org/wiki/iPod_Mini "wikilink")、[Nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")、[Shuffle及](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")[Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。各個系列都有不同的容量和設計。
 
 ## 型號
 
@@ -61,7 +61,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Ipod_backlight_transparent.png" title="fig:Ipod_backlight_transparent.png">Ipod_backlight_transparent.png</a></p></td>
 <td><p>10, 15, 20, 30, 40 GB</p></td>
-<td><p>火線<small> (<a href="../Page/USB.md" title="wikilink">USB只供同步</a>)</small></p></td>
+<td><p>火線<small> (<a href="../Page/USB.md" title="wikilink">USB</a>只供同步)</small></p></td>
 <td><p>2003年4月28日</p></td>
 <td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.1.md" title="wikilink">10.1</a><br />
 Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></td>
@@ -329,7 +329,7 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>螢幕加大成2.2吋240x376，16:9彩色TFT螢幕、增加30萬像素<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、<a href="../Page/FM.md" title="wikilink">FM功能</a>、Genius Mixes、錄音、VoiceOver、而且不需<a href="https://zh.wikipedia.org/wiki/Nike" title="wikilink">Nike</a>+跑鞋即可計步。中文字體改用<a href="../Page/黑體-繁.md" title="wikilink">黑體-繁</a>/<a href="../Page/黑體-簡.md" title="wikilink">黑體-簡</a>。</p></td>
+<td><p>螢幕加大成2.2吋240x376，16:9彩色TFT螢幕、增加30萬像素<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、<a href="../Page/FM.md" title="wikilink">FM</a>功能、Genius Mixes、錄音、VoiceOver、而且不需<a href="https://zh.wikipedia.org/wiki/Nike" title="wikilink">Nike</a>+跑鞋即可計步。中文字體改用<a href="../Page/黑體-繁.md" title="wikilink">黑體-繁</a>/<a href="../Page/黑體-簡.md" title="wikilink">黑體-簡</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,7 +351,7 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a>，以取代<a href="https://zh.wikipedia.org/wiki/click-wheel" title="wikilink">click-wheel</a>。取消<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、錄音及影片播放功能。</p></td>
+<td><p><a href="../Page/多點觸控.md" title="wikilink">多點觸控</a>式<a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a>，以取代<a href="https://zh.wikipedia.org/wiki/click-wheel" title="wikilink">click-wheel</a>。取消<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、錄音及影片播放功能。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -373,7 +373,7 @@ Windows：<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a hre
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>恢復到高大的外形尺寸，改為更大的2.5寸<a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a>。以及恢復影片播放功能，並添加<a href="../Page/藍牙.md" title="wikilink">藍牙</a>。</p></td>
+<td><p>恢復到高大的外形尺寸，改為更大的2.5寸<a href="../Page/多點觸控.md" title="wikilink">多點觸控</a>式<a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a>。以及恢復影片播放功能，並添加<a href="../Page/藍牙.md" title="wikilink">藍牙</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -479,7 +479,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <em>影片</em>: 5</p></td>
 </tr>
 <tr class="odd">
-<td><p>擁有<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi和Multi</a>-Touch界面的第一款iPod。特點為<a href="../Page/Safari.md" title="wikilink">Safari瀏覽器和無線連線至iTunes</a> Store和YouTube。32 GB型號稍晚推出。2.0版以上韌體新增AppStore功能，不過如果是在2008年7月11日以前購買的iPod touch，則必須付費USD$9.95升級2.0版本韌體。</p></td>
+<td><p>擁有<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>和Multi-Touch界面的第一款iPod。特點為<a href="../Page/Safari.md" title="wikilink">Safari</a>瀏覽器和無線連線至iTunes Store和YouTube。32 GB型號稍晚推出。2.0版以上韌體新增AppStore功能，不過如果是在2008年7月11日以前購買的iPod touch，則必須付費USD$9.95升級2.0版本韌體。</p></td>
 <td></td>
 <td></td>
 <td></td>

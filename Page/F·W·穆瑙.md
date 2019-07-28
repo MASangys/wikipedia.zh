@@ -55,7 +55,7 @@ Knabe in Blau*）。
 Elias
 Merhige）曾根據穆瑙導演《[不死殭屍—恐慄交響曲](../Page/不死殭屍—恐慄交響曲.md "wikilink")》時的經歷拍攝了一部電影，名為《[我和殭屍有份合約](../Page/我和殭屍有份合約.md "wikilink")》（*Shadow
 of the
-Vampire*）；在該片中，穆瑙由[尊·麥高維治扮演](https://zh.wikipedia.org/wiki/尊·麥高維治 "wikilink")，而米夏治更假設穆瑙為了電影的真實感，竟然請來了真正的[吸血鬼來飾演主角](../Page/吸血鬼.md "wikilink")。
+Vampire*）；在該片中，穆瑙由[尊·麥高維治扮演](https://zh.wikipedia.org/wiki/尊·麥高維治 "wikilink")，而米夏治更假設穆瑙為了電影的真實感，竟然請來了真正的[吸血鬼](../Page/吸血鬼.md "wikilink")來飾演主角。
 
 ## 注釋
 

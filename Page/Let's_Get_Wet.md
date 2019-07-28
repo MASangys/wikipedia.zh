@@ -100,9 +100,9 @@ TVB劇集《包青天》主題曲</p></td>
 
 ## 所獲獎項
 
-  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選第一回](../Page/勁歌金曲優秀選.md "wikilink")（2009）：歌曲獎
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第一回（2009）：歌曲獎
     「如果時間來到」
-  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選第二回](../Page/勁歌金曲優秀選.md "wikilink")（2009）：歌曲獎
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第二回（2009）：歌曲獎
     「Let's Get Wet」
   - [雅虎](../Page/雅虎.md "wikilink")[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")（2009）：搜尋人氣電視劇集歌曲「值得流淚」
   - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")（2009）：全球觀眾最愛粵語歌曲獎「如果時間來到」

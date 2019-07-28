@@ -1,4 +1,4 @@
-**VisIt**是一个[开源型交互式并行](https://zh.wikipedia.org/wiki/开源 "wikilink")[可视化与图形分析工具](https://zh.wikipedia.org/wiki/可视化 "wikilink")，用于查看科学数据。利用VisIt，可以可视化[二维几何模型以及](https://zh.wikipedia.org/wiki/二维几何模型 "wikilink")[三维空间结构化和非结构化网格之中所定义的](https://zh.wikipedia.org/wiki/三维空间 "wikilink")[标量场和](https://zh.wikipedia.org/wiki/标量场 "wikilink")[矢量场](https://zh.wikipedia.org/wiki/矢量场 "wikilink")。在设计上，VisIt不仅旨在处理规模非常庞大，以[太](../Page/万亿.md "wikilink")[字节来计算的](../Page/字节.md "wikilink")[数据集](https://zh.wikipedia.org/wiki/数据集 "wikilink")，同时亦可用于处理千字节范围的小型数据集\[1\]。
+**VisIt**是一个[开源型交互式并行](https://zh.wikipedia.org/wiki/开源 "wikilink")[可视化与图形分析工具](https://zh.wikipedia.org/wiki/可视化 "wikilink")，用于查看科学数据。利用VisIt，可以可视化[二维几何模型以及](https://zh.wikipedia.org/wiki/二维几何模型 "wikilink")[三维空间结构化和非结构化网格之中所定义的](https://zh.wikipedia.org/wiki/三维空间 "wikilink")[标量场和](https://zh.wikipedia.org/wiki/标量场 "wikilink")[矢量场](https://zh.wikipedia.org/wiki/矢量场 "wikilink")。在设计上，VisIt不仅旨在处理规模非常庞大，以[太](../Page/万亿.md "wikilink")[字节](../Page/字节.md "wikilink")来计算的[数据集](https://zh.wikipedia.org/wiki/数据集 "wikilink")，同时亦可用于处理千字节范围的小型数据集\[1\]。
 
 ## 历史
 

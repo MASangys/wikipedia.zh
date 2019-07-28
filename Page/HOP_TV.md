@@ -1,24 +1,24 @@
 **HOP
 TV株式会社**（；）是[台灣最大](https://zh.wikipedia.org/wiki/台灣 "wikilink")[人造衛星](../Page/人造衛星.md "wikilink")[通訊業者](https://zh.wikipedia.org/wiki/通訊 "wikilink")「[台亞衛星通訊](https://zh.wikipedia.org/wiki/台亞衛星通訊 "wikilink")[股份有限公司](../Page/股份有限公司.md "wikilink")」（Teleport
 Access Services,
-Inc.）在[日本成立的](../Page/日本.md "wikilink")[子公司](../Page/子公司.md "wikilink")，成立於2007年7月，註冊資本額為一億[日圓](../Page/日圓.md "wikilink")，提供[通訊衛星電視服務](../Page/通訊衛星.md "wikilink")「HOP
+Inc.）在[日本](../Page/日本.md "wikilink")成立的[子公司](../Page/子公司.md "wikilink")，成立於2007年7月，註冊資本額為一億[日圓](../Page/日圓.md "wikilink")，提供[通訊衛星](../Page/通訊衛星.md "wikilink")電視服務「HOP
 TV」。
 
 ## 概述
 
 HOP
 TV是日本第一家合法提供[台灣電視節目的](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink")[衛星電視經營者](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，「電氣通信役務利用放送登錄番號」為「衛役第60號」。HOP
-TV是由台亞衛星通訊的日本子公司「[TAS多媒體株式會社](https://zh.wikipedia.org/wiki/TAS多媒體 "wikilink")」（；）與[三菱集團成員](https://zh.wikipedia.org/wiki/三菱集團 "wikilink")「[宇宙通信株式會社](https://zh.wikipedia.org/wiki/宇宙通信 "wikilink")」（；）合作，透過[東經](https://zh.wikipedia.org/wiki/東經 "wikilink")144度[超鳥C](https://zh.wikipedia.org/wiki/超鳥C "wikilink")（Superbird-C）人造衛星提供[NTSC制式的節目訊號](../Page/NTSC制式.md "wikilink")。
+TV是由台亞衛星通訊的日本子公司「[TAS多媒體株式會社](https://zh.wikipedia.org/wiki/TAS多媒體 "wikilink")」（；）與[三菱集團成員](https://zh.wikipedia.org/wiki/三菱集團 "wikilink")「[宇宙通信株式會社](https://zh.wikipedia.org/wiki/宇宙通信 "wikilink")」（；）合作，透過[東經](https://zh.wikipedia.org/wiki/東經 "wikilink")144度[超鳥C](https://zh.wikipedia.org/wiki/超鳥C "wikilink")（Superbird-C）人造衛星提供[NTSC制式](../Page/NTSC制式.md "wikilink")的節目訊號。
 
 ## 沿革
 
   - 2007年7月3日，台亞衛星通訊在日本成立子公司「TAS多媒體株式會社」，總部設於[東京都](../Page/東京都.md "wikilink")[港區三田](../Page/港區_\(東京都\).md "wikilink")1丁目2番18號「TTD大廈」（）3樓。台亞衛星通訊[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")[郭育鈞擔任TAS多媒體](https://zh.wikipedia.org/wiki/郭育鈞 "wikilink")[代表取締役](https://zh.wikipedia.org/wiki/代表取締役 "wikilink")。
-  - 2007年11月16日，TAS多媒體向[總務省登記經營通訊衛星電視放送服務](../Page/總務省.md "wikilink")。
+  - 2007年11月16日，TAS多媒體向[總務省](../Page/總務省.md "wikilink")登記經營通訊衛星電視放送服務。
   - 2007年11月26日，總務省「總情衛第127號函」核准TAS多媒體登記經營衛星電視放送服務，「電氣通信役務利用放送登錄番號」為「衛役第60號」。
   - 2007年12月22日，TAS多媒體開始提供通訊衛星電視服務，取名為「HOP TV」。
-  - 2008年1月，TAS多媒體正式在全日本透過經銷商向[家庭及](../Page/家庭.md "wikilink")[飯店銷售HOP](https://zh.wikipedia.org/wiki/飯店 "wikilink")
+  - 2008年1月，TAS多媒體正式在全日本透過經銷商向[家庭](../Page/家庭.md "wikilink")及[飯店銷售HOP](https://zh.wikipedia.org/wiki/飯店 "wikilink")
     TV；HOP
-    TV初期以[華語發音搭配](https://zh.wikipedia.org/wiki/華語 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字幕提供各節目](../Page/字幕.md "wikilink")，服務以[華人為主的用戶](https://zh.wikipedia.org/wiki/華人 "wikilink")。當時HOP
+    TV初期以[華語發音搭配](https://zh.wikipedia.org/wiki/華語 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字幕](../Page/字幕.md "wikilink")提供各節目，服務以[華人為主的用戶](https://zh.wikipedia.org/wiki/華人 "wikilink")。當時HOP
     TV提供[公視國際台](https://zh.wikipedia.org/wiki/公視國際台 "wikilink")、[民視國際台](https://zh.wikipedia.org/wiki/民視國際台 "wikilink")、[中天亞洲台](https://zh.wikipedia.org/wiki/中天亞洲台 "wikilink")、[三立國際台](../Page/三立國際台.md "wikilink")、[東風亞洲台等頻道](https://zh.wikipedia.org/wiki/東風亞洲台 "wikilink")。
   - 2008年5月15日，TAS多媒體總部遷移至東京都[千代田區](../Page/千代田區.md "wikilink")[神田淡路町](../Page/神田_\(千代田區\).md "wikilink")1丁目4番3號「HT淡路町大廈」（）7樓。
   - 2008年10月9日，TAS多媒體改名為「HOP TV株式会社」（；）。

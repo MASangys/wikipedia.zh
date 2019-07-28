@@ -1,6 +1,6 @@
-DREAM是一個在[日本運作的職業](../Page/日本.md "wikilink")[綜合格鬥格鬥聯盟](https://zh.wikipedia.org/wiki/綜合格鬥 "wikilink")。DREAM的五個[英文字母皆為大寫](../Page/英文字母.md "wikilink")。
+DREAM是一個在[日本](../Page/日本.md "wikilink")運作的職業[綜合格鬥格鬥聯盟](https://zh.wikipedia.org/wiki/綜合格鬥 "wikilink")。DREAM的五個[英文字母](../Page/英文字母.md "wikilink")皆為大寫。
 
-DREAM是由主辦[K-1的FEG](../Page/K-1.md "wikilink") ( Fighting Entertainment
+DREAM是由主辦[K-1](../Page/K-1.md "wikilink")的FEG ( Fighting Entertainment
 Group ) 公司所經營。原本是和DSE (Dream Stage Entertainment)所一起經營，但是後來則全盤由FEG接手。
 
 DREAM取代了原本FEG所主辦的職業MMA比賽Hero's，成為了FEG公司的主流賽事。DREAM在其經營上承接了非常多[PRIDE格鬥錦標賽的風格](https://zh.wikipedia.org/wiki/PRIDE格鬥錦標賽 "wikilink")，就連公司的員工很多也都是直接由Pride所轉任。

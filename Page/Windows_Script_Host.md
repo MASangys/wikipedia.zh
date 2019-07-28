@@ -20,7 +20,7 @@ Script Host能自行編寫一些程式，用以簡化日常工作流程，或製
 
 ## 查看WSH的版本
 
-進入[DOS環境](../Page/DOS.md "wikilink")（或「[命令提示字元](../Page/命令提示字元.md "wikilink")」），在「命令提示符號」旁輸入**cscript**（如：<span style="color: DarkGreen;">`C:\cscript`</span>），按「Enter」出現以下訊息：\[1\]
+進入[DOS](../Page/DOS.md "wikilink")環境（或「[命令提示字元](../Page/命令提示字元.md "wikilink")」），在「命令提示符號」旁輸入**cscript**（如：<span style="color: DarkGreen;">`C:\cscript`</span>），按「Enter」出現以下訊息：\[1\]
 <span style="font-size:smaller;"><code>
 
 `Microsoft (R) Windows Script Host Version 5.6`
@@ -53,7 +53,7 @@ Script Host能自行編寫一些程式，用以簡化日常工作流程，或製
 
 ## [Hello, world](https://zh.wikipedia.org/wiki/Hello,_world "wikilink")\!
 
-以[JScript為例](../Page/JScript.md "wikilink")：
+以[JScript](../Page/JScript.md "wikilink")為例：
 
 ``` JavaScript
  WScript.Echo("Hello, world!");    //注意！JavaScript在瀏覽器中用document.write()。

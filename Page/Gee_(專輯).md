@@ -51,14 +51,14 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得連續9週一
 
 ### 銷量
 
-[SM娛樂表示](../Page/SM娛樂.md "wikilink")《Gee》的發貨量超過10萬張，而銷售公司分析師Hanteo報告發售後首十天的銷售額超過3萬張。\[3\]
+[SM娛樂](../Page/SM娛樂.md "wikilink")表示《Gee》的發貨量超過10萬張，而銷售公司分析師Hanteo報告發售後首十天的銷售額超過3萬張。\[3\]
 根據[SM娛樂](../Page/SM娛樂.md "wikilink")，唱片銷售了近65,000張。\[4\]
 《Gee》已售出超過10萬張。\[5\]
 
 ## 活動詳情
 
 歌曲發表一星期後，〈Gee〉在[KBS
-2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》獲得一位，但少女時代不知什麼原因，連續2週沒有出演節目，因此出現了有關[SM娛樂與](../Page/SM娛樂.md "wikilink")[KBS之間可能存在分歧的謠言傳播](https://zh.wikipedia.org/wiki/KBS "wikilink")。\[6\]
+2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》獲得一位，但少女時代不知什麼原因，連續2週沒有出演節目，因此出現了有關[SM娛樂](../Page/SM娛樂.md "wikilink")與[KBS之間可能存在分歧的謠言傳播](https://zh.wikipedia.org/wiki/KBS "wikilink")。\[6\]
 2009年1月10日，少女時代於[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Show\!
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》回歸。〈Gee〉亦在[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》取得回歸1週後的一位。\[7\]
 
@@ -117,9 +117,9 @@ Style〉的連續10週一位紀錄打破。
   - 超級新人歌手[IU在](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")[KBS
     2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《－生存》唱出〈Gee〉Acoustic版本。\[28\]
 
-  - 、[張允瀞](../Page/張允瀞.md "wikilink")、[申奉仙在](../Page/申奉仙.md "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[黃金美女出擊](https://zh.wikipedia.org/wiki/星期天真好#黃金美女出擊 "wikilink")》中模仿〈Gee〉音樂錄影帶。\[29\]
+  - 、[張允瀞](../Page/張允瀞.md "wikilink")、[申奉仙](../Page/申奉仙.md "wikilink")在[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[黃金美女出擊](https://zh.wikipedia.org/wiki/星期天真好#黃金美女出擊 "wikilink")》中模仿〈Gee〉音樂錄影帶。\[29\]
 
-  - 演員[李水京在廣告中模仿](../Page/李水京.md "wikilink")〈Gee〉。\[30\]
+  - 演員[李水京](../Page/李水京.md "wikilink")在廣告中模仿〈Gee〉。\[30\]
 
   - 演員[瑞雨](../Page/瑞雨.md "wikilink")、[申鳳善在手機廣告中模仿](https://zh.wikipedia.org/wiki/申鳳善 "wikilink")〈Gee〉。
 

@@ -1,7 +1,7 @@
 **星空傳奇 LIVE
-Concert**是[臺灣歌手](../Page/臺灣.md "wikilink")[楊宗緯](https://zh.wikipedia.org/wiki/楊宗緯 "wikilink")，於2008年5月17日，在[台北巨蛋舉辦第一次的個人售票演唱會的LIVE實錄專輯](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，收錄其中30首演唱會歌曲，與楊宗緯苦練舞技精彩花絮。其中包括有挑戰[賈斯汀舞蹈的](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink")《SEXY
+Concert**是[臺灣](../Page/臺灣.md "wikilink")歌手[楊宗緯](https://zh.wikipedia.org/wiki/楊宗緯 "wikilink")，於2008年5月17日，在[台北巨蛋舉辦第一次的個人售票演唱會的LIVE實錄專輯](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，收錄其中30首演唱會歌曲，與楊宗緯苦練舞技精彩花絮。其中包括有挑戰[賈斯汀舞蹈的](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink")《SEXY
 BACK》
-，[王力宏的](../Page/王力宏.md "wikilink")《龍的傳人》，[張國榮的](../Page/張國榮.md "wikilink")《Monica》，與[張學友的](https://zh.wikipedia.org/wiki/張學友 "wikilink")《天氣這麼熱》。
+，[王力宏](../Page/王力宏.md "wikilink")的《龍的傳人》，[張國榮](../Page/張國榮.md "wikilink")的《Monica》，與[張學友的](https://zh.wikipedia.org/wiki/張學友 "wikilink")《天氣這麼熱》。
 
 ## 完整演唱會曲目
 
@@ -35,7 +35,7 @@ BACK》
   - 《回憶沙漠》
   - 《給未來的自己》{{〈}}原唱：[梁靜茹](../Page/梁靜茹.md "wikilink"){{〉}}
   - 《藍眼睛》
-    {{〈}}原唱：[張韶涵與](../Page/張韶涵.md "wikilink")[蘇打綠](../Page/蘇打綠.md "wikilink"){{〉}}
+    {{〈}}原唱：[張韶涵](../Page/張韶涵.md "wikilink")與[蘇打綠](../Page/蘇打綠.md "wikilink"){{〉}}
     **（未收錄）**(feat:[盧學叡](../Page/盧學叡.md "wikilink"))'''
   - 《流浪記》{{〈}}原唱：[紀曉君](../Page/紀曉君.md "wikilink"){{〉}}**(feat:盧學叡爸爸)**
   - 《遇見＋迴旋木馬的終端》{{〈}}原唱：[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")＋[梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink"){{〉}}

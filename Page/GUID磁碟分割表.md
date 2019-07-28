@@ -1,6 +1,6 @@
 **GUID磁碟分割表**（**[GUID](https://zh.wikipedia.org/wiki/GUID "wikilink")
 Partition
-Table**，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")：**GPT**）是一个實體[硬盘的](../Page/硬盘.md "wikilink")[分区表的结构布局的标准](https://zh.wikipedia.org/wiki/分区表 "wikilink")。它是[可扩展固件接口](https://zh.wikipedia.org/wiki/可扩展固件接口 "wikilink")（UEFI）标准（被[Intel用于替代个人计算机的](https://zh.wikipedia.org/wiki/Intel "wikilink")[BIOS](../Page/BIOS.md "wikilink")）的一部分，被用于替代[BIOS系统中的一](../Page/BIOS.md "wikilink")32bits来存储逻辑块地址和大小信息的[主開機紀錄](https://zh.wikipedia.org/wiki/主開機紀錄 "wikilink")（MBR）分区表。对于那些扇区为512字节的磁盘，[MBR分区表不支持容量大于](https://zh.wikipedia.org/wiki/MBR "wikilink")2.2[TB](https://zh.wikipedia.org/wiki/terabyte "wikilink")（2.2×10<sup>12</sup>[字节](../Page/字节.md "wikilink")）\[1\]的[分区](https://zh.wikipedia.org/wiki/分区 "wikilink")，然而，一些硬盘制造商（诸如希捷和西部数据）注意到这个局限性，并且将他们的容量较大的磁盘升级到4KB的[扇区](https://zh.wikipedia.org/wiki/扇区 "wikilink")，这意味着MBR的有效容量上限提升到16
+Table**，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")：**GPT**）是一个實體[硬盘](../Page/硬盘.md "wikilink")的[分区表的结构布局的标准](https://zh.wikipedia.org/wiki/分区表 "wikilink")。它是[可扩展固件接口](https://zh.wikipedia.org/wiki/可扩展固件接口 "wikilink")（UEFI）标准（被[Intel用于替代个人计算机的](https://zh.wikipedia.org/wiki/Intel "wikilink")[BIOS](../Page/BIOS.md "wikilink")）的一部分，被用于替代[BIOS](../Page/BIOS.md "wikilink")系统中的一32bits来存储逻辑块地址和大小信息的[主開機紀錄](https://zh.wikipedia.org/wiki/主開機紀錄 "wikilink")（MBR）分区表。对于那些扇区为512字节的磁盘，[MBR分区表不支持容量大于](https://zh.wikipedia.org/wiki/MBR "wikilink")2.2[TB](https://zh.wikipedia.org/wiki/terabyte "wikilink")（2.2×10<sup>12</sup>[字节](../Page/字节.md "wikilink")）\[1\]的[分区](https://zh.wikipedia.org/wiki/分区 "wikilink")，然而，一些硬盘制造商（诸如希捷和西部数据）注意到这个局限性，并且将他们的容量较大的磁盘升级到4KB的[扇区](https://zh.wikipedia.org/wiki/扇区 "wikilink")，这意味着MBR的有效容量上限提升到16
 TiB。
 这个看似“正确的”解决方案，在临时地降低人们对改进磁盘分配表的需求的同时，也给市场带来关于在有较大的块（[block](https://zh.wikipedia.org/wiki/block "wikilink")）的设备上从BIOS启动时，如何最佳的划分磁盘分区的困惑。GPT分配64bits给逻辑块地址，因而使得最大分区大小在2<sup>64</sup>-1个扇区成为可能。对于每个扇区大小为512字节的磁盘，那意味着可以有9.4[ZB](https://zh.wikipedia.org/wiki/ZB "wikilink")（9.4×10<sup>21</sup>字节）或8
 [ZiB个](https://zh.wikipedia.org/wiki/ZiB "wikilink")512字节（9,444,732,965,739,290,426,880字节或18,446,744,073,709,551,615（2<sup>64</sup>-1）个扇区×512（2<sup>9</sup>）字节每扇区）\[2\]\[3\]。
@@ -11,14 +11,14 @@ X和Windows在内的一些仅支持在EFI基础上自GPT分区启动，见[\#操
 
 ## 特点
 
-在MBR硬盘中，分区信息直接存储于[主引导记录](../Page/主引导记录.md "wikilink")（MBR）中（主引导记录中还存储着系统的[引导程序](https://zh.wikipedia.org/wiki/引导程序 "wikilink")）。但在GPT硬盘中，分区表的位置信息储存在GPT头中。但出于[兼容性考虑](../Page/兼容性.md "wikilink")，硬盘的第一个扇区仍然用作MBR，之后才是GPT头。
+在MBR硬盘中，分区信息直接存储于[主引导记录](../Page/主引导记录.md "wikilink")（MBR）中（主引导记录中还存储着系统的[引导程序](https://zh.wikipedia.org/wiki/引导程序 "wikilink")）。但在GPT硬盘中，分区表的位置信息储存在GPT头中。但出于[兼容性](../Page/兼容性.md "wikilink")考虑，硬盘的第一个扇区仍然用作MBR，之后才是GPT头。
 
 跟现代的MBR一样，GPT也使用[逻辑区块位址](https://zh.wikipedia.org/wiki/逻辑区块位址 "wikilink")（LBA）取代了早期的[CHS寻址方式](https://zh.wikipedia.org/wiki/柱面-磁头-扇区 "wikilink")。传统MBR信息存储于LBA
 0，GPT头存储于LBA
-1，接下来才是分区表本身。64位[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统使用](../Page/操作系统.md "wikilink")16,384字节（或32[扇区](https://zh.wikipedia.org/wiki/扇区 "wikilink")）作为GPT分区表，接下来的LBA
+1，接下来才是分区表本身。64位[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")使用16,384字节（或32[扇区](https://zh.wikipedia.org/wiki/扇区 "wikilink")）作为GPT分区表，接下来的LBA
 34是硬盘上第一个分区的开始。
 
-[苹果公司曾经警告说](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")：\[4\]“不要假定所有设备的块大小都是512字节。”一些现代的存储设备如[固态硬盘可能使用](../Page/固态硬盘.md "wikilink")1024字节的块，一些[磁光盘](https://zh.wikipedia.org/wiki/磁光盘 "wikilink")（MO）可能使用2048字节的扇区（但是磁光盘通常是不进行分区的）。一些硬盘生产商在计划生产4096字节一个扇区的硬盘，但截至2010年初，这种新硬盘使用[固件对操作系统伪装成](https://zh.wikipedia.org/wiki/固件 "wikilink")512字节一个扇区。\[5\]
+[苹果公司曾经警告说](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")：\[4\]“不要假定所有设备的块大小都是512字节。”一些现代的存储设备如[固态硬盘](../Page/固态硬盘.md "wikilink")可能使用1024字节的块，一些[磁光盘](https://zh.wikipedia.org/wiki/磁光盘 "wikilink")（MO）可能使用2048字节的扇区（但是磁光盘通常是不进行分区的）。一些硬盘生产商在计划生产4096字节一个扇区的硬盘，但截至2010年初，这种新硬盘使用[固件对操作系统伪装成](https://zh.wikipedia.org/wiki/固件 "wikilink")512字节一个扇区。\[5\]
 
 使用英特尔架构的[苹果机也使用GPT](https://zh.wikipedia.org/wiki/苹果机 "wikilink")。
 
@@ -26,7 +26,7 @@ X和Windows在内的一些仅支持在EFI基础上自GPT分区启动，见[\#操
 
 ## 传统MBR (LBA 0)
 
-在GPT分区表的最开头，出于兼容性考虑仍然存储了一份传统的MBR，用来防止不支持GPT的硬盘管理工具错误识别并破坏硬盘中的数据，这个MBR也叫做保护MBR。在支持从GPT启动的[操作系统中](../Page/操作系统.md "wikilink")，这里也用于存储第一阶段的启动代码。在这个MBR中，只有一个标识为0xEE的分区，以此来表示这块硬盘使用GPT分区表。不能识别GPT硬盘的操作系统通常会识别出一个未知类型的分区，并且拒绝对硬盘进行操作，除非用户特别要求删除这个分区。这就避免了意外删除分区的危险。另外，能够识别GPT分区表的操作系统会检查保护MBR中的分区表，如果分区类型不是0xEE或者MBR分区表中有多个项，也会拒绝对硬盘进行操作。
+在GPT分区表的最开头，出于兼容性考虑仍然存储了一份传统的MBR，用来防止不支持GPT的硬盘管理工具错误识别并破坏硬盘中的数据，这个MBR也叫做保护MBR。在支持从GPT启动的[操作系统](../Page/操作系统.md "wikilink")中，这里也用于存储第一阶段的启动代码。在这个MBR中，只有一个标识为0xEE的分区，以此来表示这块硬盘使用GPT分区表。不能识别GPT硬盘的操作系统通常会识别出一个未知类型的分区，并且拒绝对硬盘进行操作，除非用户特别要求删除这个分区。这就避免了意外删除分区的危险。另外，能够识别GPT分区表的操作系统会检查保护MBR中的分区表，如果分区类型不是0xEE或者MBR分区表中有多个项，也会拒绝对硬盘进行操作。
 
 在使用MBR/GPT混合分区表的硬盘中，这部分存储了GPT分区表的一部分分区（通常是前四个分区），可以使不支持从GPT启动的操作系统从这个MBR启动，启动后只能操作MBR分区表中的分区。如[Boot
 Camp就是使用这种方式启动Windows](https://zh.wikipedia.org/wiki/Boot_Camp "wikilink")。
@@ -409,7 +409,7 @@ GPT分区表项的格式
 <td><p><a href="../Page/Linux.md" title="wikilink">Linux</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/RAID.md" title="wikilink">RAID分区</a></p></td>
+<td><p><a href="../Page/RAID.md" title="wikilink">RAID</a>分区</p></td>
 <td><p><code>A19D880F-05FC-4D3B-A006-743F0F84911E</code></p></td>
 <td></td>
 </tr>
@@ -449,7 +449,7 @@ GPT分区表项的格式
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ZFS.md" title="wikilink">ZFS分区</a></p></td>
+<td><p><a href="../Page/ZFS.md" title="wikilink">ZFS</a>分区</p></td>
 <td><p><code>516E7CBA-6ECF-11D6-8FF8-00022D09712B</code> |-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></td>
 </tr>
@@ -582,7 +582,7 @@ GPT分区表项的格式
 2.  Linux和Windows的数据分区使用相同的GUID。
 
 3.  Solaris系统中`/usr`分区的GUID在Mac OS
-    X上被用作普通的[ZFS分区](../Page/ZFS.md "wikilink")。
+    X上被用作普通的[ZFS](../Page/ZFS.md "wikilink")分区。
 
 4.  具体定义见[src/sys/sys/disklabel_gpt.h](http://cvsweb.netbsd.org/bsdweb.cgi/src/sys/sys/disklabel_gpt.h?only_with_tag=MAIN)。NetBSD的GUID在单独定义之前曾经使用过FreeBSD的GUID。
 

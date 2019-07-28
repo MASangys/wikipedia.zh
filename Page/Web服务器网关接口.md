@@ -1,5 +1,5 @@
 **Web服务器-{zh-cn:网关;zh-tw:閘道}-接口**（**Python Web Server Gateway
-Interface**，缩写为WSGI）是为[Python语言定义的](../Page/Python.md "wikilink")[Web服务器和](../Page/網頁伺服器.md "wikilink")[Web应用程序或](../Page/网络应用程序.md "wikilink")[框架之间的一种简单而通用的](../Page/Web应用框架.md "wikilink")[接口](../Page/介面_\(程式設計\).md "wikilink")。自从WSGI被开发出来以后，许多其它语言中也出现了类似接口。
+Interface**，缩写为WSGI）是为[Python](../Page/Python.md "wikilink")语言定义的[Web服务器和](../Page/網頁伺服器.md "wikilink")[Web应用程序或](../Page/网络应用程序.md "wikilink")[框架之间的一种简单而通用的](../Page/Web应用框架.md "wikilink")[接口](../Page/介面_\(程式設計\).md "wikilink")。自从WSGI被开发出来以后，许多其它语言中也出现了类似接口。
 
 ## 发展背景
 
@@ -16,14 +16,14 @@ Function）。當應用程序完成處理請求後，透過前述的回呼函數
 所谓的 *WSGI
 -{zh-cn:[中间件](../Page/中间件.md "wikilink");zh-tw:[中介軟體](https://zh.wikipedia.org/wiki/中介軟體 "wikilink")}-*同时实现了API的两方，因此可以在WSGI服务器和WSGI应用之间起调解作用：从Web服务器的角度来说，-{zh-cn:中间件;zh-tw:中介軟體}-扮演应用程序，而从应用程序的角度来说，-{zh-cn:中间件;zh-tw:中介軟體}-扮演服务器。“-{zh-cn:中间件;zh-tw:中介軟體}-”组件可以执行以下功能：
 
-  - 重写[环境变量后](../Page/环境变量.md "wikilink")，根据目标[URL](../Page/统一资源定位符.md "wikilink")，将请求消息路由到不同的应用对象。
+  - 重写[环境变量](../Page/环境变量.md "wikilink")后，根据目标[URL](../Page/统一资源定位符.md "wikilink")，将请求消息路由到不同的应用对象。
   - 允许在一个[进程中同时运行多个应用程序或应用框架](../Page/行程.md "wikilink")。
-  - [负载均衡和远程处理](../Page/负载均衡.md "wikilink")，通过在[网络上转发请求和响应消息](../Page/计算机网络.md "wikilink")。
-  - 进行内容后处理，例如应用[XSLT样式表](../Page/XSLT.md "wikilink")。
+  - [负载均衡](../Page/负载均衡.md "wikilink")和远程处理，通过在[网络上转发请求和响应消息](../Page/计算机网络.md "wikilink")。
+  - 进行内容后处理，例如应用[XSLT](../Page/XSLT.md "wikilink")样式表。
 
 ## 示例程序
 
-用[Python语言写的一个符合WSGI的](../Page/Python.md "wikilink")“[Hello
+用[Python](../Page/Python.md "wikilink")语言写的一个符合WSGI的“[Hello
 World](../Page/Hello_World.md "wikilink")”应用程序如下所示：
 
 ``` python
@@ -66,7 +66,7 @@ status, headers, body = call_application(app, {...environ...})
 
 ## WSGI兼容的应用和框架
 
-支持WSGI的[Web应用框架有很多](../Page/Web应用框架.md "wikilink")：
+支持WSGI的[Web应用框架](../Page/Web应用框架.md "wikilink")有很多：
 
   - [BlueBream](https://zh.wikipedia.org/wiki/BlueBream "wikilink")
   - bobo\[2\]
@@ -95,19 +95,19 @@ status, headers, body = call_application(app, {...environ...})
 
   - 2003年： 原初的Python版本 \[11\]
   - 2007年：
-    [Rack](https://zh.wikipedia.org/wiki/Rack "wikilink")，[Ruby版本](../Page/Ruby.md "wikilink")
+    [Rack](https://zh.wikipedia.org/wiki/Rack "wikilink")，[Ruby](../Page/Ruby.md "wikilink")版本
     \[12\]
   - 2008年： Lua
-    [WSAPI](https://zh.wikipedia.org/wiki/WSAPI "wikilink")，[Lua版本](../Page/Lua.md "wikilink")
+    [WSAPI](https://zh.wikipedia.org/wiki/WSAPI "wikilink")，[Lua](../Page/Lua.md "wikilink")版本
     \[13\]
   - 2009年：
-    [JSGI](https://zh.wikipedia.org/wiki/JSGI "wikilink")，[JavaScript版本](../Page/JavaScript.md "wikilink")
+    [JSGI](https://zh.wikipedia.org/wiki/JSGI "wikilink")，[JavaScript](../Page/JavaScript.md "wikilink")版本
     \[14\]
   - 2009年：
-    [PSGI](https://zh.wikipedia.org/wiki/PSGI "wikilink")，[Perl版本](../Page/Perl.md "wikilink")
+    [PSGI](https://zh.wikipedia.org/wiki/PSGI "wikilink")，[Perl](../Page/Perl.md "wikilink")版本
     \[15\]
   - 2010年：
-    [Hack](https://zh.wikipedia.org/wiki/Hack "wikilink")，[Haskell版本](../Page/Haskell.md "wikilink")
+    [Hack](https://zh.wikipedia.org/wiki/Hack "wikilink")，[Haskell](../Page/Haskell.md "wikilink")版本
     \[16\]
 
 ## 注释

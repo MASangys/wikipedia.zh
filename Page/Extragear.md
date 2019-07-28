@@ -1,5 +1,5 @@
 **Extragear**
-是一個[KDE應用程序軟體包](../Page/KDE.md "wikilink")。這些應用程序，由於各種原因不屬於KDE的主要發行版，但他們仍然是專案的一部分。這讓他們對於文件翻譯人員有更高的知名度。
+是一個[KDE](../Page/KDE.md "wikilink")應用程序軟體包。這些應用程序，由於各種原因不屬於KDE的主要發行版，但他們仍然是專案的一部分。這讓他們對於文件翻譯人員有更高的知名度。
 
 應用程序有多種可能的原因不能放在在KDE模塊中，例如：
 
@@ -17,15 +17,15 @@
   - [KPhotoAlbum](https://zh.wikipedia.org/wiki/KPhotoAlbum "wikilink")：相冊管理。
   - [KIPI](../Page/KIPI.md "wikilink")：通用的外掛程式結構，讓各種圖形應用程式之間分享圖像外掛程式。
   - [KuickShow](https://zh.wikipedia.org/wiki/KuickShow "wikilink")：一個圖像瀏覽器。
-  - [KPovModeler](https://zh.wikipedia.org/wiki/KPovModeler "wikilink")：[POV-Ray的](../Page/POV-Ray.md "wikilink")3D
+  - [KPovModeler](https://zh.wikipedia.org/wiki/KPovModeler "wikilink")：[POV-Ray](../Page/POV-Ray.md "wikilink")的3D
     建模
   - [showimg](https://zh.wikipedia.org/wiki/showimg "wikilink")
 
 ## 多媒體
 
   - [Amarok](../Page/Amarok.md "wikilink")：音頻播放器
-  - [K3b](../Page/K3b.md "wikilink")：一個[CD和](../Page/CD.md "wikilink")[CD燒錄應用程序](../Page/CD.md "wikilink")
-  - [Kaffeine](../Page/Kaffeine.md "wikilink")：一個全功能的多媒體和[DVB播放器](../Page/DVB.md "wikilink")
+  - [K3b](../Page/K3b.md "wikilink")：一個[CD](../Page/CD.md "wikilink")和[CD](../Page/CD.md "wikilink")燒錄應用程序
+  - [Kaffeine](../Page/Kaffeine.md "wikilink")：一個全功能的多媒體和[DVB](../Page/DVB.md "wikilink")播放器
   - [kdetv](https://zh.wikipedia.org/wiki/kdetv "wikilink")：一個收看傳輸到桌面的電視節目的程式
   - [KMPlayer](../Page/KMPlayer.md "wikilink")：一個影片播放器。
   - [KPlayer](https://zh.wikipedia.org/wiki/KPlayer "wikilink")：多媒體播放器。
@@ -40,7 +40,7 @@
   - [KNetLoad](https://zh.wikipedia.org/wiki/KNetLoad "wikilink")
   - [KNetStats](https://zh.wikipedia.org/wiki/KNetStats "wikilink")
   - [KTorrent](../Page/KTorrent.md "wikilink")，一個[BitTorrent客戶端](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")
-  - [Konversation](../Page/Konversation.md "wikilink")，一個[IRC客戶端](../Page/IRC.md "wikilink")
+  - [Konversation](../Page/Konversation.md "wikilink")，一個[IRC](../Page/IRC.md "wikilink")客戶端
   - [knemo](https://zh.wikipedia.org/wiki/knemo "wikilink")
 
 ## 辦公
