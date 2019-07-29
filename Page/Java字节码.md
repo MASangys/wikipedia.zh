@@ -144,7 +144,7 @@ mov ecx, eax
   - [Groovy](../Page/Groovy.md "wikilink"), 一种基于Java的脚本语言
   - [Scala](../Page/Scala.md "wikilink"),一种类型安全的通用编程语言，支持[面向对象编程和](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")[函数式编程](../Page/函数式编程.md "wikilink")
   - [JGNAT和](https://zh.wikipedia.org/wiki/JGNAT "wikilink")[AppleMagic](https://zh.wikipedia.org/wiki/AppleMagic "wikilink"),编译[Ada](../Page/Ada.md "wikilink")语言到Java字节码
-  - [Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink"),
+  - [Clojure](../Page/Clojure.md "wikilink"),
     一种函数式的通用编程语言，提供优秀的并发性。是一种LISP方言
   - [MIDletPascal](https://zh.wikipedia.org/wiki/MIDletPascal "wikilink")
   - [JavaFX

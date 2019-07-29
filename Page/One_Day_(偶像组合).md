@@ -1,5 +1,5 @@
 **One Day**（韩文：**어느
-날**），韓國男子偶像組合，所屬公司為[JYP娛樂](../Page/JYP娛樂.md "wikilink")。為兄弟組合[2AM](../Page/2AM.md "wikilink")和[2PM一起活動時的合稱](https://zh.wikipedia.org/wiki/2PM "wikilink")，成員包括2AM的[昶旻](../Page/李昶旻.md "wikilink")、[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權](../Page/趙權.md "wikilink")及[珍雲和](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")2PM的[澤演](https://zh.wikipedia.org/wiki/玉澤演 "wikilink")、[Nichkhun](../Page/Nichkhun.md "wikilink")、[Jun.K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")、[祐榮](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")、[燦盛及](../Page/黃燦盛.md "wikilink")[俊昊](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")。
+날**），韓國男子偶像組合，所屬公司為[JYP娛樂](../Page/JYP娛樂.md "wikilink")。為兄弟組合[2AM](../Page/2AM.md "wikilink")和[2PM一起活動時的合稱](https://zh.wikipedia.org/wiki/2PM "wikilink")，成員包括2AM的[昶旻](../Page/李昶旻.md "wikilink")、[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權](../Page/趙權.md "wikilink")及[珍雲和](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")2PM的[澤演](../Page/玉澤演.md "wikilink")、[Nichkhun](../Page/Nichkhun.md "wikilink")、[Jun.K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")、[祐榮](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")、[燦盛及](../Page/黃燦盛.md "wikilink")[俊昊](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")。
 
 ## 成員資料
 
@@ -13,7 +13,7 @@
 |   [瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")   | 슬옹  | Seulong  |
 | [Jun. K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink") | 준케이 |  Jun. K  |
 |       [Nichkhun](../Page/Nichkhun.md "wikilink")       | 닉쿤  | Nichkhun |
-|   [澤演](https://zh.wikipedia.org/wiki/玉澤演 "wikilink")   | 택연  | Taecyeon |
+|            [澤演](../Page/玉澤演.md "wikilink")             | 택연  | Taecyeon |
 |   [祐榮](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")   | 우영  | Wooyoung |
 |             [趙權](../Page/趙權.md "wikilink")             | 조권  |  Jokwon  |
 |   [俊昊](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")   | 준호  |  Junho   |

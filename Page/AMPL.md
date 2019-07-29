@@ -2,7 +2,7 @@
 
 最早於1985年由[貝爾實驗室的](https://zh.wikipedia.org/wiki/貝爾實驗室 "wikilink")[羅伯特·傅里葉](https://zh.wikipedia.org/wiki/羅伯特·傅里葉 "wikilink")（Robert
 Fourer）、[大衛·蓋伊](https://zh.wikipedia.org/wiki/大衛·蓋伊 "wikilink")（David
-Gay）、[布萊恩·柯林漢所共同創造](../Page/布萊恩·柯林漢.md "wikilink")。
+Gay）、[布萊恩·柯林漢](../Page/布萊恩·柯林漢.md "wikilink")所共同創造。
 
 ## 外部連結
 

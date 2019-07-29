@@ -6,7 +6,7 @@
     J05AA01
     [美替沙腙](https://zh.wikipedia.org/wiki/美替沙腙 "wikilink")（Metisazone）
 
-### J05AB [核苷类和](../Page/核苷.md "wikilink")[核苷酸类药](../Page/核苷酸.md "wikilink")，[逆转录酶抑制药除外](../Page/逆转录酶.md "wikilink")（Nucleosides and nucleotides excluding reverse transcriptase inhibitors）
+### J05AB [核苷](../Page/核苷.md "wikilink")类和[核苷酸](../Page/核苷酸.md "wikilink")类药，[逆转录酶](../Page/逆转录酶.md "wikilink")抑制药除外（Nucleosides and nucleotides excluding reverse transcriptase inhibitors）
 
   -
     J05AB01 [阿昔洛韦](../Page/阿昔洛韦.md "wikilink")（Aciclovir）
@@ -64,7 +64,7 @@
     J05AE11
     [Telaprevir](https://zh.wikipedia.org/wiki/Telaprevir "wikilink")
 
-### J05AF [核苷类和](../Page/核苷.md "wikilink")[核苷酸类](../Page/核苷酸.md "wikilink")[逆转录酶抑制剂](https://zh.wikipedia.org/wiki/逆转录酶抑制剂 "wikilink")（Nucleoside and nucleotide reverse transcriptase inhibitors）
+### J05AF [核苷](../Page/核苷.md "wikilink")类和[核苷酸](../Page/核苷酸.md "wikilink")类[逆转录酶抑制剂](https://zh.wikipedia.org/wiki/逆转录酶抑制剂 "wikilink")（Nucleoside and nucleotide reverse transcriptase inhibitors）
 
   -
     J05AF01 [齐多夫定](../Page/齐多夫定.md "wikilink")（Zidovudine）

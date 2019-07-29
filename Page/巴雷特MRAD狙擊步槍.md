@@ -127,7 +127,7 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
   - [雷明登MSR](../Page/雷明登MSR狙擊步槍.md "wikilink")
   - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
-  - [薩科蒂卡T3](https://zh.wikipedia.org/wiki/薩科蒂卡T3步槍 "wikilink")
+  - [薩科蒂卡T3](../Page/薩科蒂卡T3步槍.md "wikilink")
   - [薩科TRG-21／22／41／42](https://zh.wikipedia.org/wiki/薩科TRG狙擊步槍 "wikilink")
   - [薩科TRG M10](https://zh.wikipedia.org/wiki/薩科TRG_M10狙擊步槍 "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")

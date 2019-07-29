@@ -10,7 +10,7 @@ Valim是Elixir语言的设计者。他创造该语言的目标是在维持与现
   - 基于[Erlang](../Page/Erlang.md "wikilink")虚拟机（BEAM）。
   - 与Erlang语言的无缝衔接；与Erlang的互调几乎无任何额外开销。
   - 基于[宏的](https://zh.wikipedia.org/wiki/宏 "wikilink")[元编程](../Page/元编程.md "wikilink")能力，语言的[抽象语法树作为头等公民](https://zh.wikipedia.org/wiki/抽象语法树 "wikilink")。
-  - 基于协议的[多态实现](https://zh.wikipedia.org/wiki/多态_\(面向对象程序设计\) "wikilink")。（启发自[Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")）
+  - 基于协议的[多态实现](https://zh.wikipedia.org/wiki/多态_\(面向对象程序设计\) "wikilink")。（启发自[Clojure](../Page/Clojure.md "wikilink")）
   - 完善的文档支持。
   - 通过[消息传递](https://zh.wikipedia.org/wiki/消息传递 "wikilink")（[参与者模式](https://zh.wikipedia.org/wiki/参与者模式 "wikilink")）支持
     Shared-nothing 并行事务。

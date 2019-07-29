@@ -176,7 +176,7 @@ Pi
 2的研發者](https://zh.wikipedia.org/wiki/Raspberry_Pi "wikilink")，微軟將免費提供Windows
 10。\[60\]
 
-[中國](../Page/中國.md "wikilink")的Windows使用者可以透過[奇虎360和](https://zh.wikipedia.org/wiki/奇虎360 "wikilink")[騰訊下载Windows](https://zh.wikipedia.org/wiki/騰訊 "wikilink")
+[中國](../Page/中國.md "wikilink")的Windows使用者可以透過[奇虎360](../Page/奇虎360.md "wikilink")和[騰訊下载Windows](https://zh.wikipedia.org/wiki/騰訊 "wikilink")
 10升级；至於盜版及錯誤授權的Windows，雖然也可免費升級，但不會因此而變成正版和享有技術支援。\[61\]2015年6月1日，微軟正式宣布於7月29日推出Windows
 10\[62\]，並隨[Windows
 Update提醒符合升級條件的用戶如何預約取得Windows](../Page/Windows_Update.md "wikilink")

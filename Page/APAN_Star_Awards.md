@@ -1066,7 +1066,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a></p></td>
+<td><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a></p></td>
 <td><p>《<a href="../Page/真是好時節.md" title="wikilink">真是好時節</a>》</p></td>
 <td></td>
 </tr>

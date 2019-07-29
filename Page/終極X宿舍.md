@@ -512,7 +512,7 @@ followed_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/劉亮佐" title="wikilink">劉亮佐</a></p></td>
+<p><a href="../Page/劉亮佐.md" title="wikilink">劉亮佐</a></p></td>
 <td><center>
 <p><strong>郝國民</strong><br />
 鐵時空：G教授</p></td>

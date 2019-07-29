@@ -1,7 +1,7 @@
 《**Final Home當我們混在一起
 Live全紀錄**》（****）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的現場專輯，此張專輯收錄了他們於2004至2005年《[Final
 Home 當我們混在一起
-世界巡迴演唱會](https://zh.wikipedia.org/wiki/Final_Home_當我們混在一起_世界巡迴演唱會 "wikilink")》演唱會的曲目，於2005年5月27日發行。
+世界巡迴演唱會](../Page/Final_Home_當我們混在一起_世界巡迴演唱會.md "wikilink")》演唱會的曲目，於2005年5月27日發行。
 
 ## 曲目
 

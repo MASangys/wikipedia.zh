@@ -506,7 +506,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>39</p></td>
 <td><p>2月10日</p></td>
 <td><p><strong>第39話：美式咖啡和烤牛小腸<small>（）</small></strong><br />
-<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM成員</a><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">澤演驚喜到訪</a>，為Roommate掌廚；徐康俊、Jackson與齡智在咖啡店及朴俊亨、大谷亮平與NaNa在牛小腸店的一日打工記。</p></td>
+<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM成員</a><a href="../Page/玉澤演.md" title="wikilink">澤演驚喜到訪</a>，為Roommate掌廚；徐康俊、Jackson與齡智在咖啡店及朴俊亨、大谷亮平與NaNa在牛小腸店的一日打工記。</p></td>
 </tr>
 <tr class="odd">
 <td><p>因農曆新年節目調動，節目停播一週。</p></td>

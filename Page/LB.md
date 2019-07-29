@@ -8,13 +8,13 @@
 
   - [.lb](https://zh.wikipedia.org/wiki/.lb "wikilink")，黎巴嫩的國碼域名。
 
-  - [拉布拉多以前的郵遞區號](../Page/拉布拉多.md "wikilink")。
+  - [拉布拉多](../Page/拉布拉多.md "wikilink")以前的郵遞區號。
 
   - airline's IATA code
 
   - [盧森堡語](https://zh.wikipedia.org/wiki/盧森堡語 "wikilink")
 
-  - [黎巴嫩的ISO](../Page/黎巴嫩.md "wikilink") 3166-1 alpha-2國家代碼。
+  - [黎巴嫩](../Page/黎巴嫩.md "wikilink")的ISO 3166-1 alpha-2國家代碼。
 
 ## 測量單位
 

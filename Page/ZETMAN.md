@@ -1,4 +1,4 @@
-《**ZETMAN**》是日本漫畫家[桂正和的](../Page/桂正和.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於《[週刊YOUNG
+《**ZETMAN**》是日本漫畫家[桂正和](../Page/桂正和.md "wikilink")的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於《[週刊YOUNG
 JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2002年48號起開始連載。從2006年6月起經過約1年的長期休載後於2007年26號恢復連載；2014年34号第一幕完结。
 
 2012年4月起開始播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
@@ -255,7 +255,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社
 
   - [TVアニメ『ZETMAN』公式サイト](http://zetman.jp/index.html)，電視動畫版官方網站。
 
-  - [ZETMAN](http://www.ytv.co.jp/zetman/)，[讀賣電視台的電視動畫版官方網站](../Page/讀賣電視台.md "wikilink")。
+  - [ZETMAN](http://www.ytv.co.jp/zetman/)，[讀賣電視台](../Page/讀賣電視台.md "wikilink")的電視動畫版官方網站。
 
   -
   - [+ ZETMAN +](http://k2r.main.jp/zetman/zetman.htm)，作者網站，ZETMAN頁面。

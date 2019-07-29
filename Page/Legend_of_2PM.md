@@ -56,7 +56,7 @@
         [俊昊主唱](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")
 3.  **只有你**（君だけに）
       -
-        [澤演主唱](https://zh.wikipedia.org/wiki/玉澤演 "wikilink")
+        [澤演主唱](../Page/玉澤演.md "wikilink")
 4.  **Oh**
       -
         [燦盛主唱](../Page/黃燦盛.md "wikilink")
@@ -75,8 +75,7 @@
     [祐榮](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")
 4.  Members' Solo Off Shot Movie -
     [俊昊](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")
-5.  Members' Solo Off Shot Movie -
-    [澤演](https://zh.wikipedia.org/wiki/玉澤演 "wikilink")
+5.  Members' Solo Off Shot Movie - [澤演](../Page/玉澤演.md "wikilink")
 6.  Members' Solo Off Shot Movie - [燦盛](../Page/黃燦盛.md "wikilink")
 7.  Members' Solo Off Shot Movie - [Jun.
     K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")

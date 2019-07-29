@@ -4,7 +4,7 @@ Vacations。Expedia是納斯達克上市公司，股票代码为EXPE。
 ## 历史
 
 [Bellevue,_WA_-_Expedia_Building_01.jpg](https://zh.wikipedia.org/wiki/File:Bellevue,_WA_-_Expedia_Building_01.jpg "fig:Bellevue,_WA_-_Expedia_Building_01.jpg")
-Expedia成立于1996年，当时是[微软的子公司](../Page/微软.md "wikilink")。1999年，Expedia分拆出来并于2001年被TicketMaster收购\[1\]（TicketMaster于2001年更名为USA
+Expedia成立于1996年，当时是[微软](../Page/微软.md "wikilink")的子公司。1999年，Expedia分拆出来并于2001年被TicketMaster收购\[1\]（TicketMaster于2001年更名为USA
 Networks，并于2003年更名为[InterActiveCorp](https://zh.wikipedia.org/wiki/:en:IAC/InterActiveCorp "wikilink")\[2\]）。2005年8月，IAC将旗下的旅游业务以Expedia公司的名义拆分出来，包括Expedia、Expedia
 Corporate
 Travel（现名Egencia）、[TripAdvisor](https://zh.wikipedia.org/wiki/TripAdvisor "wikilink")、[Classic

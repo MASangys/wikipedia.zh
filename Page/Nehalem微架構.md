@@ -1,5 +1,5 @@
 **Intel Nehalem** (\[1\])
-，是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構之代號](../Page/微架構.md "wikilink")，該架構取代了前代的[Core微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。\[2\]
+，是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")之代號，該架構取代了前代的[Core微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。\[2\]
 使用Nehalem架構的微處理器採用45[納米製程](https://zh.wikipedia.org/wiki/納米 "wikilink")（後期改用32納米製程），在2007年的Intel開發者論壇上Intel官方展示了一個採用兩顆INehalem微架構的處理器的系統平台。首款採用Intel
 Nehalem架構的處理器是2008年11月正式發售的桌上型處理器[Intel Core
 i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")。\[3\]
@@ -30,7 +30,7 @@ SDRAM；除此以外還處理器核心還整合了[PCI Express
 
 從Nehalem微架構開始，Intel改用[QPI](https://zh.wikipedia.org/wiki/QPI "wikilink")/[DMI直連式](https://zh.wikipedia.org/wiki/DMI "wikilink")[總線](https://zh.wikipedia.org/wiki/總線 "wikilink")，放棄了傳統的[FSB](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink")。首發的Core
 i7使用了新的“Quick Path
-Interconnect”直連式總線，與AMD的[HyperTransport相似](../Page/HyperTransport.md "wikilink")。
+Interconnect”直連式總線，與AMD的[HyperTransport](../Page/HyperTransport.md "wikilink")相似。
 
 相比FSB，每一個處理器都可以有獨立的QPI通道與其他處理器連接，處理器之間不用再共享FSB[頻寬](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，並繞路到北橋才能通訊。此外，QPI是[雙向傳輸](../Page/雙工.md "wikilink")\[4\]。
 
@@ -44,14 +44,14 @@ Media Interface）總線。
 
 處理器採用模組化設計\[6\]。例如[核心](https://zh.wikipedia.org/wiki/核心 "wikilink")、記憶體控制器、以至輸入輸出介面控制器，都能夠以不同的數量配搭，而且都能做到原生[多核心設計](https://zh.wikipedia.org/wiki/多核心 "wikilink")。這樣使得Nehalem架構的處理器產品線可以做成雙核心、四核心、六核心乃至八核心、十核心（僅見於[Xeon
 E7](https://zh.wikipedia.org/wiki/Intel_Xeon "wikilink")）\[7\]，可以使到產品更容易針對不同[市場](https://zh.wikipedia.org/wiki/市場 "wikilink")。與AMD
-K10微架構類似，每一個[模組都可以有獨立的](https://zh.wikipedia.org/wiki/模組 "wikilink")[電壓和獨立的時脈](../Page/電壓.md "wikilink")，讓處理器在不同[負載水平的效能最大化的同時更省電](https://zh.wikipedia.org/wiki/負載 "wikilink")。
+K10微架構類似，每一個[模組都可以有獨立的](https://zh.wikipedia.org/wiki/模組 "wikilink")[電壓](../Page/電壓.md "wikilink")和獨立的時脈，讓處理器在不同[負載水平的效能最大化的同時更省電](https://zh.wikipedia.org/wiki/負載 "wikilink")。
 
-二級[分支預測器和新的](../Page/分支預測器.md "wikilink")[轉譯後備緩衝區](../Page/轉譯後備緩衝區.md "wikilink")（Translation
+二級[分支預測器](../Page/分支預測器.md "wikilink")和新的[轉譯後備緩衝區](../Page/轉譯後備緩衝區.md "wikilink")（Translation
 Lookaside Buffer，TLB）。
 
 ### 超執行緒
 
-[超執行緒技術回歸](../Page/超執行緒.md "wikilink")：部分處理器型號支援超线程的技術。消費級市場發售的最高六核心，十二執行緒，企業級的更達到八核心，十六執行緒甚至到後期的十核心，二十執行緒。不僅多執行緒處理能力加強，Intel認為該技術還能最多提升處理器30%的效能。
+[超執行緒](../Page/超執行緒.md "wikilink")技術回歸：部分處理器型號支援超线程的技術。消費級市場發售的最高六核心，十二執行緒，企業級的更達到八核心，十六執行緒甚至到後期的十核心，二十執行緒。不僅多執行緒處理能力加強，Intel認為該技術還能最多提升處理器30%的效能。
 
 ### 快取
 
@@ -61,7 +61,7 @@ K10一樣，Intel Nehalem微架構的處理器都內建L3快取，每一個處�
 ### 效能、電源管理
 
 效能動態調節和電源管理：中高階型號的處理器會支援[Turbo
-Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink")（[港澳地區沒有正式官方](../Page/港澳地區.md "wikilink")[中文名稱](https://zh.wikipedia.org/wiki/中文 "wikilink")，[台灣官方中文名稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")『渦輪加速』，[中國大陸官方中文名稱為](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")『睿頻』。其後該技術更名為[Dynamic
+Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink")（[港澳地區](../Page/港澳地區.md "wikilink")沒有正式官方[中文名稱](https://zh.wikipedia.org/wiki/中文 "wikilink")，[台灣官方中文名稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")『渦輪加速』，[中國大陸官方中文名稱為](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")『睿頻』。其後該技術更名為[Dynamic
 Speed](https://zh.wikipedia.org/wiki/Dynamic_Speed "wikilink")，動態時脈\[8\]）動態時脈調整技術，倘若有程式使用較多的處理器负载，處理器的頻率可以按步驟提升，此外，可以自動往上提升[倍頻](https://zh.wikipedia.org/wiki/倍頻 "wikilink")\[9\]該功能基本不需要[作業系統的支援](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，完全由硬體監控\[10\]。除了時脈管理，電源管理方面引入[Power
 Gates技術](https://zh.wikipedia.org/wiki/Power_Gates "wikilink")，核心閒置的時候可被關閉。對比上一代的[Core架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")，的核心[電阻可以被關閉](https://zh.wikipedia.org/wiki/電阻 "wikilink")，[電流可以完全不通過核心](https://zh.wikipedia.org/wiki/電流 "wikilink")。各個處理器核心可運作於不同的[頻率和](https://zh.wikipedia.org/wiki/頻率 "wikilink")[電壓](../Page/電壓.md "wikilink")\[11\]。Turbo
 Boost及Power
@@ -70,8 +70,8 @@ K10及後來的改進版K10.5，核心必須手動才能關閉。
 
 ### 指令集
 
-[指令集更新](https://zh.wikipedia.org/wiki/指令集 "wikilink")：[SIMD指令](https://zh.wikipedia.org/wiki/SIMD "wikilink")[SSE4的版本會提升為SSE](../Page/SSE.md "wikilink")
-4.2，SSE4.2在SSE4.1（於Core架構上）的基礎上新增了7條[指令](https://zh.wikipedia.org/wiki/指令 "wikilink")\[13\]；引入第二代Intel[虛擬化技術](../Page/虛擬化.md "wikilink")，支援EPT（Extended
+[指令集更新](https://zh.wikipedia.org/wiki/指令集 "wikilink")：[SIMD指令](https://zh.wikipedia.org/wiki/SIMD "wikilink")[SSE](../Page/SSE.md "wikilink")4的版本會提升為SSE
+4.2，SSE4.2在SSE4.1（於Core架構上）的基礎上新增了7條[指令](https://zh.wikipedia.org/wiki/指令 "wikilink")\[13\]；引入第二代Intel[虛擬化](../Page/虛擬化.md "wikilink")技術，支援EPT（Extended
 Page Table，擴展分頁表）、VPIDs（virtual processor
 identifiers，虛擬處理器標識）以及非屏蔽中斷窗口退出（non-maskable
 interrupt-window exiting）。\[14\]Intel

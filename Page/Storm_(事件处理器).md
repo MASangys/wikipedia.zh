@@ -1,4 +1,4 @@
-**Storm**是一个[分布式计算](../Page/分布式计算.md "wikilink")[框架](https://zh.wikipedia.org/wiki/软件框架 "wikilink")，主要由[Clojure编程语言编写](https://zh.wikipedia.org/wiki/Clojure "wikilink")。最初是由Nathan
+**Storm**是一个[分布式计算](../Page/分布式计算.md "wikilink")[框架](https://zh.wikipedia.org/wiki/软件框架 "wikilink")，主要由[Clojure](../Page/Clojure.md "wikilink")编程语言编写。最初是由Nathan
 Marz\[1\]及其团队创建于BackType，\[2\]该项目在被[Twitter](../Page/Twitter.md "wikilink")取得后开源。\[3\]它使用用户创建的“管（spouts）”和“螺栓（bolts）”来定义信息源和操作来允许批量、分布式处理流式数据。最初的版本发布于2011年9月17日。\[4\]
 
 Storm应用被设计成为一个拓扑结构，其接口创建一个转换“流”。它提供与[MapReduce](../Page/MapReduce.md "wikilink")作业类似的功能，当遇到异常时该拓扑结构理论上将不确定地运行，直到它被手动终止\[5\]

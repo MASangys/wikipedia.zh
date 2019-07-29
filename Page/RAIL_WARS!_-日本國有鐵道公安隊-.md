@@ -334,7 +334,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    ABT式齒軌電力機車，退役後保存4輛，留在[輕井澤車站的車庫內分為麓側](https://zh.wikipedia.org/wiki/輕井澤車站 "wikilink")3輛、山側1輛，中間連結10系客車「[白山](https://zh.wikipedia.org/wiki/淺間號列車 "wikilink")」8輛，作超高擬真度模擬器使用。
+    ABT式齒軌電力機車，退役後保存4輛，留在[輕井澤車站的車庫內分為麓側](https://zh.wikipedia.org/wiki/輕井澤車站 "wikilink")3輛、山側1輛，中間連結10系客車「[白山](../Page/淺間號列車.md "wikilink")」8輛，作超高擬真度模擬器使用。
     此外另有架空的軌道自行車**EB42形**「ABT君」，外型和機能以ED42型為基礎，車體縮小，以人力驅動齒輪，可以回生電軔控制下山速度。此車在[信越本線](../Page/信越本線.md "wikilink")坍方中斷時行走留有齒軌的舊線，緊急運送器官移植用的肝臟。
 
 <!-- end list -->

@@ -26,7 +26,7 @@ Kim](https://zh.wikipedia.org/wiki/9am_with_David_and_Kim "wikilink")》。\[5\]
 Awesome vs Bee」。\[6\]這個演出是以敘述方式進行，並牽涉一隻巨大的蜜蜂。The Axis of
 Awesome亦於2009年5月在悉尼喜劇節中再次表演該演出。
 
-同年5月和6月，他們參與了墨爾本喜劇節路演，在[昆士蘭州和](https://zh.wikipedia.org/wiki/昆士蘭州 "wikilink")[新南威爾士州巡迴演出](../Page/新南威爾士州.md "wikilink")，並在[阿得莱德歌舞节中演出](https://zh.wikipedia.org/wiki/阿得莱德歌舞节 "wikilink")。\[7\]8月，他們再次參加愛丁堡藝穗節，而其表演則名為「[The
+同年5月和6月，他們參與了墨爾本喜劇節路演，在[昆士蘭州和](https://zh.wikipedia.org/wiki/昆士蘭州 "wikilink")[新南威爾士州](../Page/新南威爾士州.md "wikilink")巡迴演出，並在[阿得莱德歌舞节中演出](https://zh.wikipedia.org/wiki/阿得莱德歌舞节 "wikilink")。\[7\]8月，他們再次參加愛丁堡藝穗節，而其表演則名為「[The
 Axis of
 Awesome：無限搖滾爆炸](https://zh.wikipedia.org/wiki/The_Axis_of_Awesome：無限搖滾爆炸 "wikilink")」。10月，他們在[世界上最有趣的島喜劇節中演出](https://zh.wikipedia.org/wiki/世界上最有趣的島喜劇節 "wikilink")。\[8\]
 
