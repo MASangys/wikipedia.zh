@@ -1,5 +1,4 @@
-[Honda_F22C_Engine.JPG](https://zh.wikipedia.org/wiki/File:Honda_F22C_Engine.JPG "fig:Honda_F22C_Engine.JPG")
-**本田F系列發動機**是[本田技研有限公司所生產的直列四缸發動機](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。它採用鑄鐵缸體和鎂鋁材質的氣缸蓋，其中某些型號的發動機擁有[單頂置凸輪軸及雙頂置凸輪軸兩個版本](https://zh.wikipedia.org/wiki/頂置凸輪軸 "wikilink")。本田F系列發動機中的F20C發動機在2000年和2001年連續兩年被列入[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")。
+[Honda_F22C_Engine.JPG](https://zh.wikipedia.org/wiki/File:Honda_F22C_Engine.JPG "fig:Honda_F22C_Engine.JPG") **本田F系列發動機**是[本田技研有限公司所生產的直列四缸發動機](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。它採用鑄鐵缸體和鎂鋁材質的氣缸蓋，其中某些型號的發動機擁有[單頂置凸輪軸及雙頂置凸輪軸兩個版本](https://zh.wikipedia.org/wiki/頂置凸輪軸 "wikilink")。本田F系列發動機中的F20C發動機在2000年和2001年連續兩年被列入[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")。
 
 ## 單頂置凸輪軸發動機
 
@@ -17,9 +16,7 @@
 
 ### F18B
 
-該發動機搭載於日規的[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink")
-1.8VTS/VTE，也常見於歐規的[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink")
-[VTEC](../Page/VTEC.md "wikilink") S。
+該發動機搭載於日規的[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink") 1.8VTS/VTE，也常見於歐規的[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink") [VTEC](../Page/VTEC.md "wikilink") S。
 
 #### 技術規格
 
@@ -83,17 +80,11 @@
   - 氣門配置：單頂置凸輪軸，16氣門
   - 壓縮比：8.8:1
   - 峰值馬力：
-      - F22A1：125匹@5200轉
-        (1992年-1996年間的[本田Preludes](https://zh.wikipedia.org/wiki/本田Preludes "wikilink")
-        S也有搭載該型號發動機，搭配更加追求性能的P11 ECU，峰值馬力可達135馬力。)
+      - F22A1：125匹@5200轉 (1992年-1996年間的[本田Preludes](https://zh.wikipedia.org/wiki/本田Preludes "wikilink") S也有搭載該型號發動機，搭配更加追求性能的P11 ECU，峰值馬力可達135馬力。)
       - F22A3：150匹@5200轉 (針對歐洲市場當時更為寬限的排放標準，可輸出更大的峰值馬力。)
-      - F22A4：130匹@5200轉
-        (調校與F22A1近似，搭配重新設計管路的排氣頭段及具備更大的排氣口徑，可輸出相對較高的峰值馬力。)
-      - F22A6：140匹@5600轉
-        (在F22A1基礎上進行進一步修改，包括改良的凸輪軸，改良的氣門彈簧，全新設計的鑄鐵排氣歧管，更加追求性能的PT6
-        ECU，以及全新設計的進氣歧管。)
-      - F22A7：150匹@5600轉馬力 (針對歐洲市場當時更為寬限的排放標準，並使用PT4 OBD I
-        ECU，可輸出更大的峰值馬力。)
+      - F22A4：130匹@5200轉 (調校與F22A1近似，搭配重新設計管路的排氣頭段及具備更大的排氣口徑，可輸出相對較高的峰值馬力。)
+      - F22A6：140匹@5600轉 (在F22A1基礎上進行進一步修改，包括改良的凸輪軸，改良的氣門彈簧，全新設計的鑄鐵排氣歧管，更加追求性能的PT6 ECU，以及全新設計的進氣歧管。)
+      - F22A7：150匹@5600轉馬力 (針對歐洲市場當時更為寬限的排放標準，並使用PT4 OBD I ECU，可輸出更大的峰值馬力。)
   - 峰值扭矩：
       - F22A1：186牛頓米@4000轉
       - F22A4：193牛頓米@4000轉
@@ -102,7 +93,7 @@
 
 ### F22B
 
-該發動機曾使用於1994年-1997年的[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink")，以及1997年的[謳歌CL中](https://zh.wikipedia.org/wiki/謳歌CL "wikilink")，後期版本也曾搭載於1995年-1997年的[本田奧德賽](https://zh.wikipedia.org/wiki/本田奧德賽 "wikilink")。該款發動機是本田F系列發動機中首款搭載[VTEC技術的發動機](../Page/VTEC.md "wikilink")，但VTEC在此款引擎中的調校更加偏向於提高燃油經濟性，而非性能。
+該發動機曾使用於1994年-1997年的[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink")，以及1997年的[謳歌CL中](https://zh.wikipedia.org/wiki/謳歌CL "wikilink")，後期版本也曾搭載於1995年-1997年的[本田奧德賽](https://zh.wikipedia.org/wiki/本田奧德賽 "wikilink")。該款發動機是本田F系列發動機中首款搭載[VTEC](../Page/VTEC.md "wikilink")技術的發動機，但VTEC在此款引擎中的調校更加偏向於提高燃油經濟性，而非性能。
 
 #### 技術規格
 
@@ -125,8 +116,7 @@
 
 ### F22Z2
 
-該發動機曾使用於1996年-1998年的歐規[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink")
-2.2i中。
+該發動機曾使用於1996年-1998年的歐規[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink") 2.2i中。
 
 #### 技術規格
 
@@ -158,8 +148,7 @@
 
 ### F20A
 
-此發動機曾使用與1990年-1993年的日規[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink")
-Si中。
+此發動機曾使用與1990年-1993年的日規[本田Accord](https://zh.wikipedia.org/wiki/本田雅閣 "wikilink") Si中。
 
 #### 技術規格
 
@@ -188,7 +177,7 @@ Si中。
 
 ### F20C
 
-此發動機是本田為[本田S2000專門開發的發動機](../Page/本田S2000.md "wikilink")，雖然隸屬於F系列發動機，並主要從F20發動機改良而來，但其中使用了大量[本田K系列發動機的技術](https://zh.wikipedia.org/wiki/本田K系列發動機 "wikilink")，並以追求最大化壓榨性能為目的開發出的一款高性能直列四缸發動機。
+此發動機是本田為[本田S2000](../Page/本田S2000.md "wikilink")專門開發的發動機，雖然隸屬於F系列發動機，並主要從F20發動機改良而來，但其中使用了大量[本田K系列發動機的技術](https://zh.wikipedia.org/wiki/本田K系列發動機 "wikilink")，並以追求最大化壓榨性能為目的開發出的一款高性能直列四缸發動機。
 
 #### 技術規格
 
@@ -214,8 +203,7 @@ F20C發動機是本田一款因性能而生的發動機，其通過最大程度�
 
 ### F22B
 
-該發動機曾搭載於1992年-1996年間的[本田Preludes](https://zh.wikipedia.org/wiki/本田Preludes "wikilink")
-Si車型中，其設計於[H23A類似](https://zh.wikipedia.org/wiki/本田H系列發動機#H22 "wikilink")。
+該發動機曾搭載於1992年-1996年間的[本田Preludes](https://zh.wikipedia.org/wiki/本田Preludes "wikilink") Si車型中，其設計於[H23A類似](https://zh.wikipedia.org/wiki/本田H系列發動機#H22 "wikilink")。
 
 #### 技術規格
 
@@ -228,7 +216,7 @@ Si車型中，其設計於[H23A類似](https://zh.wikipedia.org/wiki/本田H系�
 
 ### F22C
 
-此發動機由F20C發動機改良而來，最初被搭載與2004年後美規的[本田S2000中](../Page/本田S2000.md "wikilink")，隨後也替代了日規S2000中的F20C引擎，但該發動機只曾搭載於日規和美規的S2000中。F22C通過在F20C的基礎上進一步增加衝程來小幅提升排氣量，發動機的扭矩輸出得到進一步改善，在6500轉時即可輸出220牛頓米的峰值扭矩。
+此發動機由F20C發動機改良而來，最初被搭載與2004年後美規的[本田S2000](../Page/本田S2000.md "wikilink")中，隨後也替代了日規S2000中的F20C引擎，但該發動機只曾搭載於日規和美規的S2000中。F22C通過在F20C的基礎上進一步增加衝程來小幅提升排氣量，發動機的扭矩輸出得到進一步改善，在6500轉時即可輸出220牛頓米的峰值扭矩。
 
 #### 技術規格
 

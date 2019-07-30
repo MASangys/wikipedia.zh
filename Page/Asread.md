@@ -2,17 +2,14 @@
 
 ## 概要
 
-曾於作畫統包公司Sunshine
-Corporation負責作畫、以及在[XEBEC負責製作人業務的平松巨規](../Page/XEBEC.md "wikilink")，於2003年獨自成立本公司。設立初期致力負責[XEBEC作品的統包工作](../Page/XEBEC.md "wikilink")，直至2004年，公司首次負責獨立製作，與著名動畫監督[新海誠及作曲家](../Page/新海誠.md "wikilink")[天門合作](../Page/天門_\(作曲家\).md "wikilink")，推出電影《[雲之彼端，約定的地方](../Page/雲之彼端，約定的地方.md "wikilink")》。然後於2005年接下首部獨立[電視動畫之製作](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》，確立了部分長期合作伙伴，如監督[細田直人和角色設計平山英嗣等等](../Page/細田直人.md "wikilink")。
+曾於作畫統包公司Sunshine Corporation負責作畫、以及在[XEBEC](../Page/XEBEC.md "wikilink")負責製作人業務的平松巨規，於2003年獨自成立本公司。設立初期致力負責[XEBEC](../Page/XEBEC.md "wikilink")作品的統包工作，直至2004年，公司首次負責獨立製作，與著名動畫監督[新海誠](../Page/新海誠.md "wikilink")及作曲家[天門合作](../Page/天門_\(作曲家\).md "wikilink")，推出電影《[雲之彼端，約定的地方](../Page/雲之彼端，約定的地方.md "wikilink")》。然後於2005年接下首部獨立[電視動畫之製作](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》，確立了部分長期合作伙伴，如監督[細田直人](../Page/細田直人.md "wikilink")和角色設計平山英嗣等等。
 
-由於工作室規模有限，所以早年曾經和不少更為小型的統包公司合作，如Studio Rong（現已結業）合作，攝影工作亦經常由Studio
-Twinkle負責統包。
+由於工作室規模有限，所以早年曾經和不少更為小型的統包公司合作，如Studio Rong（現已結業）合作，攝影工作亦經常由Studio Twinkle負責統包。
 
 ## 主要客戶
 
   - [角川書店](../Page/角川書店.md "wikilink")
-  - [King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")
+  - [King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")
 
 ## 作品概覽
 
@@ -44,13 +41,13 @@ Twinkle負責統包。
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
-<td><p><a href="../Page/南家三姊妹.md" title="wikilink">南家三姊妹～再來一碗～</a></p></td>
+<td><p><a href="../Page/南家三姊妹.md" title="wikilink">南家三姊妹</a>～再來一碗～</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2008年</p></td>
-<td><p><a href="../Page/食靈.md" title="wikilink">食靈-零-</a></p></td>
+<td><p><a href="../Page/食靈.md" title="wikilink">食靈</a>-零-</p></td>
 <td></td>
 <td><p>與<a href="../Page/動畫國際公司.md" title="wikilink">AIC Spirits共同製作</a></p></td>
 </tr>
@@ -495,7 +492,7 @@ Twinkle負責統包。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/出包王女.md" title="wikilink">出包王女DARKNESS</a></p></td>
+<td><p><a href="../Page/出包王女.md" title="wikilink">出包王女</a>DARKNESS</p></td>
 <td></td>
 <td><p>XEBEC</p></td>
 <td><p>協力製作</p></td>
@@ -594,6 +591,4 @@ Twinkle負責統包。
 
   - [asread官方網站](http://www.asread.net/)
 
-[Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
+[Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")

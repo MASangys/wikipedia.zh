@@ -1,4 +1,4 @@
-**北京地铁DK6型电动车组**是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。\[1\]
+**北京地铁DK6型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。\[1\]
 
 ## 简介
 
@@ -6,9 +6,6 @@ DK6型于1979年由[长春轨道客车生产](https://zh.wikipedia.org/wiki/長�
 
 ## 参考资料
 
-[Category:北京地铁DK系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DK系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink")
+[Category:北京地铁DK系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DK系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink")
 
-1.  [新华网:北京：170多辆退休地铁列车分批拍卖](http://www.xinhuanet.com/chinanews/2007-12/08/content_11885607.htm)
-    2007年12月8日
+1.  [新华网:北京：170多辆退休地铁列车分批拍卖](http://www.xinhuanet.com/chinanews/2007-12/08/content_11885607.htm) 2007年12月8日

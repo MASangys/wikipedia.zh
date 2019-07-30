@@ -1,11 +1,8 @@
-在[SGML](../Page/SGML.md "wikilink")、
-[HTML与](../Page/HTML.md "wikilink")[XML文档](../Page/XML.md "wikilink")，如果某些[Unicode字符在文档的当前编码方式](https://zh.wikipedia.org/wiki/Unicode "wikilink")(如[ISO-8859-1](https://zh.wikipedia.org/wiki/ISO-8859-1 "wikilink"))中不能直接表示，那么可以通过[字符值引用或者](https://zh.wikipedia.org/wiki/字符值引用 "wikilink")[字符实体引用两种](../Page/字符实体引用.md "wikilink")[转义序列来表示这些不能直接编码的字符](https://zh.wikipedia.org/wiki/转义序列 "wikilink")。
-下文列出在HTML与XML文档中有效的字符实体引用。 RAsUL9880408895RAsUL9880408895 the new album
+在[SGML](../Page/SGML.md "wikilink")、 [HTML](../Page/HTML.md "wikilink")与[XML](../Page/XML.md "wikilink")文档，如果某些[Unicode字符在文档的当前编码方式](https://zh.wikipedia.org/wiki/Unicode "wikilink")(如[ISO-8859-1](https://zh.wikipedia.org/wiki/ISO-8859-1 "wikilink"))中不能直接表示，那么可以通过[字符值引用或者](https://zh.wikipedia.org/wiki/字符值引用 "wikilink")[字符实体引用](../Page/字符实体引用.md "wikilink")两种[转义序列来表示这些不能直接编码的字符](https://zh.wikipedia.org/wiki/转义序列 "wikilink")。 下文列出在HTML与XML文档中有效的字符实体引用。 RAsUL9880408895RAsUL9880408895 the new album
 
 ## XML中的预定义实体
 
-XML规范并不使用"字符实体"(character entity)或"字符实体引用"(character entity reference).
-XML规范定义了5个"预定义实体"来表示特殊字符. XML也允许在每个文档定义任意数量的其它命名实体.
+XML规范并不使用"字符实体"(character entity)或"字符实体引用"(character entity reference). XML规范定义了5个"预定义实体"来表示特殊字符. XML也允许在每个文档定义任意数量的其它命名实体.
 
 下表列出了5个XML预定义实体. 通过名字引用这些实体的格式为`&name;`，例如, `&` 将绘制为&.
 
@@ -2005,7 +2002,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOtech</p></td>
-<td><p><a href="../Page/无穷.md" title="wikilink">无穷符号</a></p></td>
+<td><p><a href="../Page/无穷.md" title="wikilink">无穷</a>符号</p></td>
 </tr>
 <tr class="even">
 <td><p>ang</p></td>
@@ -2059,7 +2056,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOtech</p></td>
-<td><p><a href="../Page/积分.md" title="wikilink">积分符号</a></p></td>
+<td><p><a href="../Page/积分.md" title="wikilink">积分</a>符号</p></td>
 </tr>
 <tr class="even">
 <td><p>there4</p></td>
@@ -2311,7 +2308,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOpub</p></td>
-<td><p><a href="../Page/扑克牌.md" title="wikilink">扑克牌方块符号</a>[26]</p></td>
+<td><p><a href="../Page/扑克牌.md" title="wikilink">扑克牌</a>方块符号[26]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2320,16 +2317,11 @@ Notes:
 
 ## XHTML中的特殊字符的实体引用
 
-在[XHTML](../Page/XHTML.md "wikilink")
-[DTD中](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")，明确声明了253个字符实体(包括[5个XML
-1.0的预定义实体](https://zh.wikipedia.org/wiki/#XML中的预定义实体 "wikilink")).
-除了`'`实体这个例外，其它252个字符实体与[HTML中的252个字符实体引用一致](https://zh.wikipedia.org/wiki/#HTML中的字符实体引用 "wikilink").
-每个XHTML文件实例还可以定义任意数目的字符实体。但是XHTML字符实体的可用性受到该文件的处理方式的影响:
+在[XHTML](../Page/XHTML.md "wikilink") [DTD中](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")，明确声明了253个字符实体(包括[5个XML 1.0的预定义实体](https://zh.wikipedia.org/wiki/#XML中的预定义实体 "wikilink")). 除了`'`实体这个例外，其它252个字符实体与[HTML中的252个字符实体引用一致](https://zh.wikipedia.org/wiki/#HTML中的字符实体引用 "wikilink"). 每个XHTML文件实例还可以定义任意数目的字符实体。但是XHTML字符实体的可用性受到该文件的处理方式的影响:
 
   - 如果该文件由HTML处理器来处理, 那么只有252个 HTML字符实体可用。`'`或用户定义的实体引用可能不被支持，产生不可预测的效果.
   - 如果该文件由XML分析器来处理，只有5个XML预定义的字符实体能安全使用, 虽然定义在内部DTD子集中的其它实体也许可用。
-  - 如果XML分析器能读外部实体，那么除了5个XML预定义的字符实体能安全使用，只要XML分析器能读取XHTML
-    DTD，其它248个HTML字符实体也可以使用。声明在内部DTD子集中的实体也可以使用.
+  - 如果XML分析器能读外部实体，那么除了5个XML预定义的字符实体能安全使用，只要XML分析器能读取XHTML DTD，其它248个HTML字符实体也可以使用。声明在内部DTD子集中的实体也可以使用.
 
 由于`'`不能在HTML处理器中一致的安全使用，实际上仅有`"`, `&`, `<`, and `>`4个字符实体可以在所有处理环境下通用。
 
@@ -2342,48 +2334,27 @@ Notes:
 
 ## 参考文献
 
-  - [Unicode Consortium](http://www.unicode.org/). See also: [Unicode
-    Consortium](https://zh.wikipedia.org/wiki/Unicode_Consortium "wikilink")
-      - [UnicodeData.txt from the Unicode
-        Consortium](http://www.unicode.org/Public/UNIDATA/UnicodeData.txt)
-  - [World Wide Web Consortium](http://www.w3.org/). See also: [World
-    Wide Web
-    Consortium](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink")
+  - [Unicode Consortium](http://www.unicode.org/). See also: [Unicode Consortium](https://zh.wikipedia.org/wiki/Unicode_Consortium "wikilink")
+      - [UnicodeData.txt from the Unicode Consortium](http://www.unicode.org/Public/UNIDATA/UnicodeData.txt)
+  - [World Wide Web Consortium](http://www.w3.org/). See also: [World Wide Web Consortium](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink")
       - [XML 1.0 spec](http://www.w3.org/TR/REC-xml/)
-      - [HTML 2.0
-        spec](http://www.w3.org/MarkUp/html-spec/html-spec_toc.html)
+      - [HTML 2.0 spec](http://www.w3.org/MarkUp/html-spec/html-spec_toc.html)
       - [HTML 3.2 spec](http://www.w3.org/TR/REC-html32)
       - [HTML 4.0 spec](http://www.w3.org/TR/1998/REC-html40-19980424/)
       - [HTML 4.01 spec](http://www.w3.org/TR/REC-html40/)
       - [HTML5 Working Draft](http://www.w3.org/TR/html5/)
       - [XHTML 1.0 spec](http://www.w3.org/TR/xhtml1/)
-      - [XML Entity Definitions for
-        Characters](http://www.w3.org/TR/xml-entity-names/)
-  - The normative reference to RFC 2070 (still found in DTDs defining
-    the character entities for HTML or XHTML) is historic; this RFC
-    (along with other RFC's related to different part of the HTML
-    specification) has been deprecated in favor of the newer
-    informational RFC 2854 which defines the "text/html" MIME type and
-    references directly the W3C specifications for the actual HTML
-    content.
-  - [Numerical Reference of Unicode code
-    points](https://zh.wikipedia.org/wiki/b:Unicode/Character_reference/0000-0FFF "wikilink")
-    at Wikibooks
+      - [XML Entity Definitions for Characters](http://www.w3.org/TR/xml-entity-names/)
+  - The normative reference to RFC 2070 (still found in DTDs defining the character entities for HTML or XHTML) is historic; this RFC (along with other RFC's related to different part of the HTML specification) has been deprecated in favor of the newer informational RFC 2854 which defines the "text/html" MIME type and references directly the W3C specifications for the actual HTML content.
+  - [Numerical Reference of Unicode code points](https://zh.wikipedia.org/wiki/b:Unicode/Character_reference/0000-0FFF "wikilink") at Wikibooks
 
 ## 外部链接
 
-  - [Character entity references in
-    HTML 4](http://www.w3.org/TR/html4/sgml/entities.html) at the W3C
-  - [Multilanguage special character entity
-    list](http://www.seomister.com/characters) - List of special
-    characters, entities and their names.
-  - [HTML entities quick reference
-    table](https://web.archive.org/web/20120328093353/http://www.html-entities.com/)
+  - [Character entity references in HTML 4](http://www.w3.org/TR/html4/sgml/entities.html) at the W3C
+  - [Multilanguage special character entity list](http://www.seomister.com/characters) - List of special characters, entities and their names.
+  - [HTML entities quick reference table](https://web.archive.org/web/20120328093353/http://www.html-entities.com/)
 
-[Category:XHTML](https://zh.wikipedia.org/wiki/Category:XHTML "wikilink")
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
-[Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
-[Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink")
+[Category:XHTML](https://zh.wikipedia.org/wiki/Category:XHTML "wikilink") [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink") [Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink")
 
 1.
 2.

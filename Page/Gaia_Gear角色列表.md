@@ -1,6 +1,4 @@
-**Gaia Gear的登場人物**（ -
-とうじょうじんぶつ）是[小说以及](../Page/小说.md "wikilink")[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")《[Gaia
-Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https://zh.wikipedia.org/wiki/架空 "wikilink")。
+**Gaia Gear的登場人物**（ - とうじょうじんぶつ）是[小说](../Page/小说.md "wikilink")以及[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")《[Gaia Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https://zh.wikipedia.org/wiki/架空 "wikilink")。
 
 除非另有说明，以下只以小说版本为主。此外，配音只出现在广播剧中。
 
@@ -16,11 +14,9 @@ Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https:
 
   -
 
-继承了昔日的偉人「夏亞·阿茲納布爾」记忆的克隆记忆体。
-（配音：[横堀悦夫](https://zh.wikipedia.org/wiki/横堀悦夫 "wikilink")）
+继承了昔日的偉人「夏亞·阿茲納布爾」记忆的克隆记忆体。 （配音：[横堀悦夫](https://zh.wikipedia.org/wiki/横堀悦夫 "wikilink")）
 
-其面容留有着夏亞·阿茲納布爾的影子，故事中并未说明是否与夏亚·阿茲納布爾有着直接的血缘关系。至少，其肉体似乎并不是来自夏亞·阿茲納布爾的。对于大脑中被植入的夏亞·阿茲納布爾的记忆，阿弗雷西承认是模糊而零零碎碎的，尚无法自由的做出回忆
-。MM的操纵方法等则受到夏亞·阿茲納布爾的記憶很大的帮助。
+其面容留有着夏亞·阿茲納布爾的影子，故事中并未说明是否与夏亚·阿茲納布爾有着直接的血缘关系。至少，其肉体似乎并不是来自夏亞·阿茲納布爾的。对于大脑中被植入的夏亞·阿茲納布爾的记忆，阿弗雷西承认是模糊而零零碎碎的，尚无法自由的做出回忆 。MM的操纵方法等则受到夏亞·阿茲納布爾的記憶很大的帮助。
 
 [返回至目录](https://zh.wikipedia.org/wiki/#toc "wikilink")
 
@@ -44,8 +40,7 @@ Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https:
 
   -
 
-梅塔特隆成员之一，对阿弗雷西抱有强烈敬慕之意的混血少女。出生于SIDE2的殖民行星海拉斯（ヘラス）。
-（配音：[彌生觀月](https://zh.wikipedia.org/wiki/彌生觀月 "wikilink")）
+梅塔特隆成员之一，对阿弗雷西抱有强烈敬慕之意的混血少女。出生于SIDE2的殖民行星海拉斯（ヘラス）。 （配音：[彌生觀月](https://zh.wikipedia.org/wiki/彌生觀月 "wikilink")）
 
 [返回至目录](https://zh.wikipedia.org/wiki/#toc "wikilink")
 
@@ -91,8 +86,7 @@ Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https:
 
 -----
 
-广播剧版中登場。官拜少尉，乌尔的同僚女性机师。
-驾驶红色涂装的ブロン・テクスター，和乌尔一同攻击阿弗雷西，遭浮游炮的攻击而战死。（配音：[勝生真沙子](../Page/勝生真沙子.md "wikilink")）
+广播剧版中登場。官拜少尉，乌尔的同僚女性机师。 驾驶红色涂装的ブロン・テクスター，和乌尔一同攻击阿弗雷西，遭浮游炮的攻击而战死。（配音：[勝生真沙子](../Page/勝生真沙子.md "wikilink")）
 
 [返回至目录](https://zh.wikipedia.org/wiki/#toc "wikilink")
 
@@ -112,5 +106,4 @@ Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https:
   - [GUNDAM系列主要角色譯名列表](https://zh.wikipedia.org/wiki/GUNDAM系列主要角色譯名列表 "wikilink")
   - [NewType・強化人列表](https://zh.wikipedia.org/wiki/NewType・強化人列表 "wikilink")
 
-[Category:GUNDAM系列登場人物列表](https://zh.wikipedia.org/wiki/Category:GUNDAM系列登場人物列表 "wikilink")
-[Category:U.C.人物](https://zh.wikipedia.org/wiki/Category:U.C.人物 "wikilink")
+[Category:GUNDAM系列登場人物列表](https://zh.wikipedia.org/wiki/Category:GUNDAM系列登場人物列表 "wikilink") [Category:U.C.人物](https://zh.wikipedia.org/wiki/Category:U.C.人物 "wikilink")

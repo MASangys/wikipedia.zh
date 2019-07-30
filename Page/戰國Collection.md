@@ -15,7 +15,7 @@
     CV：[花澤香菜](../Page/花澤香菜.md "wikilink")
     第二話以及第二十四話主要角色。看到了當紅偶像羅薩琳的表演後，決定成為像羅薩琳那樣的人。後來家康急速竄起，取代了當紅偶像羅薩琳，成為了新一代的當紅人物。
     為了繼續當偶像，而把祕寶給了信長。
-    在今川家當人質時，為了排遣無聊經常一個人在角落唱歌，[太原雪齋稱讚其唱的歌非常好聽](../Page/太原雪齋.md "wikilink")。
+    在今川家當人質時，為了排遣無聊經常一個人在角落唱歌，[太原雪齋](../Page/太原雪齋.md "wikilink")稱讚其唱的歌非常好聽。
   - 純愛天使・[直江兼續](../Page/直江兼續.md "wikilink")
     CV：[中原麻衣](../Page/中原麻衣.md "wikilink")
     第三話主要角色。與謙信同居，負責謙信的生活起居。因來到了現代，眼睛逐漸失去了辨識顏色的色彩，只看得見黑白。
@@ -28,7 +28,7 @@
     在第十五話與[最上義光相會](https://zh.wikipedia.org/wiki/最上義光 "wikilink")，婉拒義光的幫助後離開。
   - 斬神・[塚原卜傳](../Page/塚原卜傳.md "wikilink")
     CV：[原紗友里](../Page/原紗友里.md "wikilink")
-    第五話主要角色。劍術十分高超。[足利義輝的劍術老師](../Page/足利義輝.md "wikilink")。
+    第五話主要角色。劍術十分高超。[足利義輝](../Page/足利義輝.md "wikilink")的劍術老師。
     受到黑心節目製作人所製作的黑心剪接節目影響，而被疏遠、懼怕。後來與義輝在直播節目上聯手拆穿黑心製作人的意圖，解開了大眾對戰國武將的誤會。
   - 識神・[平賀源內](../Page/平賀源內.md "wikilink")
     CV：[工藤晴香](../Page/工藤晴香.md "wikilink")
@@ -41,7 +41,7 @@
     第八話主要角色。非常喜歡吃米。稱信長為「大姐」。
   - 野心公主・[北條早雲](../Page/北條早雲.md "wikilink")
     CV：[廣橋涼](../Page/廣橋涼.md "wikilink")
-    第九、十話主要角色。擁有強大的實力，以及巨大的野心。之所以能那麼的自信滿滿，是因為有著「炎之守護」的加持，因此不會因為熱而受到任何的傷害。遇到逆境更能燃燒起來的類型。[今川義元的家臣](../Page/今川義元.md "wikilink")。
+    第九、十話主要角色。擁有強大的實力，以及巨大的野心。之所以能那麼的自信滿滿，是因為有著「炎之守護」的加持，因此不會因為熱而受到任何的傷害。遇到逆境更能燃燒起來的類型。[今川義元](../Page/今川義元.md "wikilink")的家臣。
     寄宿在一名叫做高橋純的少女的家中。對外以「伊勢新九郎」自稱，純則稱早雲為「新九」。
     目前遇到了本來侍奉的今川義元，為了實現與今川義元的約定再次跟隨今川。並且與純約定好當結束後會再次回到純的身邊。
   - 凶惡少女・[松永久秀](../Page/松永久秀.md "wikilink")
@@ -49,7 +49,7 @@
     第十一話主要角色。為詐欺師，騙術十分高明。接受大使館大使的女兒，莎拉的請託，搞垮了在大使館地下的賭場。
   - 舞櫻・[前田慶次](../Page/前田利益.md "wikilink")
     CV：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")
-    第十二話主要角色。騎著一台叫做「松風」的摩托車，能跟松風進行對話。身材高挑，身穿華麗服裝的[傾奇者](../Page/傾奇者.md "wikilink")。身為[傾奇者的堅持](../Page/傾奇者.md "wikilink")，內衣一定要是純白色的，理由是因為，內衣是在人生的最後穿的衣服，可能的話內衣要跟死後的裝束一樣（壽衣為白色）。平常的時候在超商打工，帶著眼鏡，裝扮十分樸素，說話的口氣也會變得十分有禮貌，與原本華麗且相當有自信、威嚴的姿態相差甚遠。
+    第十二話主要角色。騎著一台叫做「松風」的摩托車，能跟松風進行對話。身材高挑，身穿華麗服裝的[傾奇者](../Page/傾奇者.md "wikilink")。身為[傾奇者](../Page/傾奇者.md "wikilink")的堅持，內衣一定要是純白色的，理由是因為，內衣是在人生的最後穿的衣服，可能的話內衣要跟死後的裝束一樣（壽衣為白色）。平常的時候在超商打工，帶著眼鏡，裝扮十分樸素，說話的口氣也會變得十分有禮貌，與原本華麗且相當有自信、威嚴的姿態相差甚遠。
     被流傳為「Saturday Night Rider」，在星期六的夜晚出現，制裁不良少年的迷之摩托，有如都市傳說般的存在。
   - 銀蜂・[杉谷善住坊](https://zh.wikipedia.org/wiki/杉谷善住坊 "wikilink")
     CV：[澤城美雪](../Page/澤城美雪.md "wikilink")
@@ -67,11 +67,11 @@
     第十四話主要角色。新選組成員。雖為病弱體質，但是有著「最強」的稱號。非常喜歡草莓大福，可以為了草莓大福展露出「最強」的一面。
   - 殲滅公主・[最上義光](https://zh.wikipedia.org/wiki/最上義光 "wikilink")
     CV：[上坂堇](../Page/上坂堇.md "wikilink")
-    第十五話主要角色。非常害怕有關靈異現象的超自然事物。在原本的世界與[伊達政宗同住](../Page/伊達政宗.md "wikilink")，被政宗稱做「大娘」。
+    第十五話主要角色。非常害怕有關靈異現象的超自然事物。在原本的世界與[伊達政宗](../Page/伊達政宗.md "wikilink")同住，被政宗稱做「大娘」。
     想要幫助目前成為通緝犯的政宗，但是被政宗以必須背負毀滅綠組的罪名以及不連累義光的理由回絕。在政宗離開後，施放煙火送走了政宗。
   - 劍聖・[足利義輝](../Page/足利義輝.md "wikilink")
     CV：[佐藤利奈](../Page/佐藤利奈.md "wikilink")
-    第十六話主要角色。為第五話的主要角色[塚原卜傳的徒弟](../Page/塚原卜傳.md "wikilink")。為幕府將軍。雖然與石舟齋以互相欺騙互相捉弄的關係相處到現在，但事實上兩人的友情是很堅固的。
+    第十六話主要角色。為第五話的主要角色[塚原卜傳](../Page/塚原卜傳.md "wikilink")的徒弟。為幕府將軍。雖然與石舟齋以互相欺騙互相捉弄的關係相處到現在，但事實上兩人的友情是很堅固的。
     與[柳生宗巖在上泉信綱的門下學習過劍術](https://zh.wikipedia.org/wiki/柳生宗巖 "wikilink")，柳生為姐姐，義輝為妹妹。平常是將軍的身分，石舟齋則是長輩的身分，也因此在修行其間石舟齋常常捉弄義輝，而其中最常出現的捉弄陷阱為在食物裡加入山葵的陷阱。因為這個原因讓義輝決定舉辦兩人的女子茶會，以相同的陷阱報復石舟齋，兩人分別以喝到超辣果汁以及吃到超辣泡芙結果，兩敗俱傷。
   - 斬神・[柳生石舟齋](https://zh.wikipedia.org/wiki/柳生宗巖 "wikilink")
     CV：[木村遙](https://zh.wikipedia.org/wiki/木村遙 "wikilink")
@@ -88,7 +88,7 @@
     因為一次的意外而與一名叫做「Angel」的女性開始通信，互不相識的兩人也因為通信的關係成為了好友。就在吉繼湊齊旅費要去找Angel時，吉繼卻把旅費弄丟了，吉繼便寫信將這件事告訴Angel，在這之後有一段時間吉繼未曾再收到Angle的回信。當吉繼心灰意冷時，吉繼再次收到了Angel所寄來的信，裡面有著Angel給吉繼的機票，於是吉繼便動身去找Angel，未料到當吉繼到達Angel的居所時，Angel卻已經不在人世了。死因是過勞死，Angel在沒有回信的半年裡努力打工著，就是為了買到機票與吉繼見面。令人深感遺憾的是，當吉繼到達時，Angel也逝世了。
   - 復仇的獠牙・[明智光秀](../Page/明智光秀.md "wikilink")
     CV：[日笠陽子](../Page/日笠陽子.md "wikilink")
-    第十九、二十話主要角色。在劇中開頭，醒來時是呈現失憶的狀態，而在夢醒後，想起了一切。因為不想去接受自己，把對自己十分重要的信長給殺害的事實，因此才會在離開戰國時代時呈現失憶的狀態。之後從[千利休口中得知信長未死的訊息](../Page/千利休.md "wikilink")。
+    第十九、二十話主要角色。在劇中開頭，醒來時是呈現失憶的狀態，而在夢醒後，想起了一切。因為不想去接受自己，把對自己十分重要的信長給殺害的事實，因此才會在離開戰國時代時呈現失憶的狀態。之後從[千利休](../Page/千利休.md "wikilink")口中得知信長未死的訊息。
     光秀在戰國時代時並沒有祕寶，因此不管在那個時候立下多麼大的功勞亦或是擁有相當出色的能力，只要沒有祕寶就很難被人所認可。而信長也明知道光秀很在意這點，還是常常以沒有祕寶來對光秀說嘴。
     而當光秀聽說秀吉也有了祕寶之後，對於光秀來說十分痛苦的日子也拉開序幕。光秀心中產生的醋意、嫉妒、妒忌等負面心情擾亂著光秀的心，也讓光秀的祕寶開始萌芽。
     接著，到了信長即將統一天下的一戰時，認為自己會擔當遠征軍總大將一職的光秀，聽到信長決定讓秀吉擔任總大將時，心中的負面情緒也爆發出來，光秀的祕寶也跟著成形，以負面情緒產生出來的祕寶讓光秀的心智也跟著黑化，因此才會犯下背叛自己主子的事情。當光秀回過神來時，才發現到自己鑄下了無法挽回的大錯。
@@ -109,8 +109,8 @@
     但在與同伴們一起欣賞建造好的沙城堡的時候，信長正好跳出來準備要奪取尼子經久的祕寶，也因為這一跳信長毀壞了尼子經久等人辛苦建造而成的沙城堡。最後信長因為不敵幼兒園生的哭泣吵鬧，還未奪得尼子經久的祕寶便落荒而逃。
   - 元帥公主・[今川義元](../Page/今川義元.md "wikilink")
     CV：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
-    第二十五話主要角色。一心想要早點挑戰信長並將信長擊敗，但是被[太原雪齋所阻止](../Page/太原雪齋.md "wikilink")，雪齋以既然義元透過修練而增強實力那麼信長也是同理，冒然的挑戰只會像過去一樣嘗到敗果（但實際上同一時間的信長正在悠閒的過日子）。義元也因此失去幹勁，每天過著吃點心看電視的廢柴生活。
-    之後接受[風魔小太郎的意見](../Page/風魔小太郎.md "wikilink")，到森林走踏，嘗試了第一次釣魚並在數次失敗後，終於成功釣到魚，而義元也迷上了釣到魚的樂趣，每天鑽研著釣魚的技巧，嘗試著不同的釣魚方式。
+    第二十五話主要角色。一心想要早點挑戰信長並將信長擊敗，但是被[太原雪齋](../Page/太原雪齋.md "wikilink")所阻止，雪齋以既然義元透過修練而增強實力那麼信長也是同理，冒然的挑戰只會像過去一樣嘗到敗果（但實際上同一時間的信長正在悠閒的過日子）。義元也因此失去幹勁，每天過著吃點心看電視的廢柴生活。
+    之後接受[風魔小太郎](../Page/風魔小太郎.md "wikilink")的意見，到森林走踏，嘗試了第一次釣魚並在數次失敗後，終於成功釣到魚，而義元也迷上了釣到魚的樂趣，每天鑽研著釣魚的技巧，嘗試著不同的釣魚方式。
     某天，義元往山上尋找新的釣場時，看見了巨大的金色鯉魚，並將其稱為「池沼之主」，義元也為了要將池沼之主釣起開始了特訓，最後雖然沒有釣起池沼之主，但池沼之主反而讓義元領悟更為重要的東西。看到此景的雪齋也同意讓義元向信長展開反攻。
 
 ### 其它
@@ -162,23 +162,20 @@
 
 :;「」（第1話 - 第13話）
 
-::
-作詞：loco2lit，作曲：[後藤康二](https://zh.wikipedia.org/wiki/後藤康二 "wikilink")（ck510），編曲：Konnie＝PLASMO'-Aoki＋nonSectRadicals，歌：[ABCHO](../Page/HANGRY&ANGRY.md "wikilink")
+:: 作詞：loco2lit，作曲：[後藤康二](https://zh.wikipedia.org/wiki/後藤康二 "wikilink")（ck510），編曲：Konnie＝PLASMO'-Aoki＋nonSectRadicals，歌：[ABCHO](../Page/HANGRY&ANGRY.md "wikilink")
 
 :;「back into my world」（第14話 - 第26話）
 
   -
 
       -
-        作詞、作曲、編曲：[OSTER
-        project](../Page/OSTER_project.md "wikilink")，歌：Sweety
+        作詞、作曲、編曲：[OSTER project](../Page/OSTER_project.md "wikilink")，歌：Sweety
 
   - 片尾曲
 
 :;「UNLUCKY GIRL\!\!」（第1話 - 第13話）
 
-:: 作詞、作曲・編曲：[OSTER
-project](../Page/OSTER_project.md "wikilink")，歌：Sweety
+:: 作詞、作曲・編曲：[OSTER project](../Page/OSTER_project.md "wikilink")，歌：Sweety
 
 :; 「」（第14話 - 第26話）
 
@@ -191,13 +188,11 @@ project](../Page/OSTER_project.md "wikilink")，歌：Sweety
 
 :;「Love Scope」（第2話、第13話）
 
-::
-作詞：[黑須克彥](https://zh.wikipedia.org/wiki/黑須克彥 "wikilink")、[rino](https://zh.wikipedia.org/wiki/rino "wikilink")，作曲、編曲：黑須克彥，歌：泰平女君・德川家康（[花澤香菜](../Page/花澤香菜.md "wikilink")）
+:: 作詞：[黑須克彥](https://zh.wikipedia.org/wiki/黑須克彥 "wikilink")、[rino](https://zh.wikipedia.org/wiki/rino "wikilink")，作曲、編曲：黑須克彥，歌：泰平女君・德川家康（[花澤香菜](../Page/花澤香菜.md "wikilink")）
 
 :;「Misty Moon」（第2話）
 
-::
-作詞：[mao](https://zh.wikipedia.org/wiki/mao "wikilink")，作曲、編曲：東タカゴー，歌：Rosary（[寺崎裕香](../Page/寺崎裕香.md "wikilink")）
+:: 作詞：[mao](https://zh.wikipedia.org/wiki/mao "wikilink")，作曲、編曲：東タカゴー，歌：Rosary（[寺崎裕香](../Page/寺崎裕香.md "wikilink")）
 
 :; 「」（第4話）
 
@@ -488,11 +483,4 @@ project](../Page/OSTER_project.md "wikilink")，歌：Sweety
   - [原作官網](http://www.konami.jp/products/sns_mob_sengokucollection/index.html)
   - [戰國Collection電視動畫官網](http://www.tv-tokyo.co.jp/anime/sencolle/index2.html)
 
-[Category:Mobage](https://zh.wikipedia.org/wiki/Category:Mobage "wikilink")
-[Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink")
-[Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink")
-[Category:大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:大型多人在線角色扮演遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
+[Category:Mobage](https://zh.wikipedia.org/wiki/Category:Mobage "wikilink") [Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:大型多人在線角色扮演遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")

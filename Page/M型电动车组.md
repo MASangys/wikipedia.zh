@@ -1,6 +1,6 @@
-**北京地铁M型电动客车**是[北京地铁第二代电动客车](../Page/北京地铁.md "wikilink")（[斩波调压车](https://zh.wikipedia.org/wiki/斩波调压 "wikilink")），由[东急车辆工厂生产制造](https://zh.wikipedia.org/wiki/东急车辆制造 "wikilink")，1984年9月19日交付使用，现已退出运营。其中，H3011车现存于[北京地铁10号线](../Page/北京地铁10号线.md "wikilink")[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")，H3012、H3013车已拆解。
+**北京地铁M型电动客车**是[北京地铁](../Page/北京地铁.md "wikilink")第二代电动客车（[斩波调压车](https://zh.wikipedia.org/wiki/斩波调压 "wikilink")），由[东急车辆工厂生产制造](https://zh.wikipedia.org/wiki/东急车辆制造 "wikilink")，1984年9月19日交付使用，现已退出运营。其中，H3011车现存于[北京地铁10号线](../Page/北京地铁10号线.md "wikilink")[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")，H3012、H3013车已拆解。
 
-另有姊妹型[天津地铁TJH](../Page/天津地铁.md "wikilink")-1000型地铁列车，由东急车辆工厂生产、[长春客车厂组装](../Page/中车长春轨道客车.md "wikilink")，1987年12月28日完成总装，现已退出运营。
+另有姊妹型[天津地铁](../Page/天津地铁.md "wikilink")TJH-1000型地铁列车，由东急车辆工厂生产、[长春客车厂组装](../Page/中车长春轨道客车.md "wikilink")，1987年12月28日完成总装，现已退出运营。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 ### 北京地铁M型电动客车
 
-1982年10月20日，[东急车辆工厂签订了](https://zh.wikipedia.org/wiki/东急车辆制造 "wikilink")3辆[北京地铁列车的合同](../Page/北京地铁.md "wikilink")\[1\]。
+1982年10月20日，[东急车辆工厂签订了](https://zh.wikipedia.org/wiki/东急车辆制造 "wikilink")3辆[北京地铁](../Page/北京地铁.md "wikilink")列车的合同\[1\]。
 
 1984年9月19日，由东急车辆工厂制造的北京地铁3000系列车在北京完成交付仪式\[2\]。
 
@@ -26,8 +26,7 @@
 
 列车在[天津地铁既有线运营](https://zh.wikipedia.org/wiki/天津地铁既有线 "wikilink")（编号201-203），并伴随既有线改造于2001年10月9日退出运营并拆解。
 
-天津地铁于1986年与日方签订正式合同，从日本东急车辆工厂引进了六辆TJH一1000型地铁电动客车总成配件，由长春客车厂派往日本经过培训的技术人员和技术工人在日本专家的具体指导下进行组装,
-由东急车辆工厂的检验人员严格质量把关，车辆锐牌均为东急车辆工厂标记，组装后的整车质量由东急车辆工厂负责，向天津地铁交验车辆\[6\]。
+天津地铁于1986年与日方签订正式合同，从日本东急车辆工厂引进了六辆TJH一1000型地铁电动客车总成配件，由长春客车厂派往日本经过培训的技术人员和技术工人在日本专家的具体指导下进行组装, 由东急车辆工厂的检验人员严格质量把关，车辆锐牌均为东急车辆工厂标记，组装后的整车质量由东急车辆工厂负责，向天津地铁交验车辆\[6\]。
 
 天津地铁进口六辆地铁电动客车总成配件及备品备件共花费249万美元。当时，由于资金紧张而采用“租赁方式”结转外汇。这种方式除第一年由中方交付车辆总货款的10%做为预付金外，其余90%的货款在车辆全部总成配件交付中方后，先委托日本租赁公司垫付给日本东急车辆工厂，在合同生效后的第一年、第二年、第三年分三次由中方分别偿还总货款的30%给日本租赁公司，最后一次付款时，再多交一美元，做为六辆地铁电动客车总成配件的转租赁费，并由最后一次付款之日起其全部车辆所有权由日本租赁公司转交我方所有，虽然“租赁方式”多付了一点利息，但是延缓了货款外汇偿还期，使得由于外汇紧张一次付款办不成的事而通过“租凭方式”分期付款办成了\[7\]。
 
@@ -97,11 +96,7 @@
   - [《鉄道工場》の書誌情報](http://dl.ndl.go.jp/info:ndljp/pid/2359871?itemId=info%3Andljp%2Fpid%2F2359871&__lang=ja)
   - [【HD北京01】なんか地味ですか？【M形】](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=44818883)
 
-[Category:北京地铁车辆](https://zh.wikipedia.org/wiki/Category:北京地铁车辆 "wikilink")
-[Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink")
-[Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")
-[Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink")
-[Category:東急製鐵路車輛](https://zh.wikipedia.org/wiki/Category:東急製鐵路車輛 "wikilink")
+[Category:北京地铁车辆](https://zh.wikipedia.org/wiki/Category:北京地铁车辆 "wikilink") [Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink") [Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink") [Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink") [Category:東急製鐵路車輛](https://zh.wikipedia.org/wiki/Category:東急製鐵路車輛 "wikilink")
 
 1.
 2.

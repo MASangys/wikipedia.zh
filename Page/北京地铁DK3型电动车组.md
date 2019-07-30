@@ -1,4 +1,4 @@
-**DK3型電聯車**是[北京地铁和](../Page/北京地铁.md "wikilink")[天津轨道交通的](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
+**DK3型電聯車**是[北京地铁](../Page/北京地铁.md "wikilink")和[天津轨道交通的](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
 
 ## 简介
 
@@ -141,7 +141,7 @@ DK3型由[长春轨道客车在](https://zh.wikipedia.org/wiki/長春軌道客�
 </tbody>
 </table>
 
-在[北京地铁13号线时期](../Page/北京地铁13号线.md "wikilink")：
+在[北京地铁13号线](../Page/北京地铁13号线.md "wikilink")时期：
 
 <table>
 <tbody>
@@ -269,9 +269,4 @@ DK3型由[长春轨道客车在](https://zh.wikipedia.org/wiki/長春軌道客�
 
   - [北京地铁官方网页对DK3列车的介绍](http://www.bjsubway.com/node/1196)
 
-[Category:北京地铁DK系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DK系列电动车组 "wikilink")
-[Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink")
-[Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")
-[Category:北京地铁八通线](https://zh.wikipedia.org/wiki/Category:北京地铁八通线 "wikilink")
+[Category:北京地铁DK系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DK系列电动车组 "wikilink") [Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink") [Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink") [Category:北京地铁八通线](https://zh.wikipedia.org/wiki/Category:北京地铁八通线 "wikilink")

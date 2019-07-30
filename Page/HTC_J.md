@@ -1,22 +1,8 @@
-**HTC J**（日本型號：**ISW13HT**，臺灣型號：**Z321e**）是日本電信商
-[KDDI](../Page/KDDI.md "wikilink") 旗下之
-[au](https://zh.wikipedia.org/wiki/au "wikilink") 向臺灣電子製造商
-[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink") 委託生產的 ''' 客製機
-'''，在當時被定位為 ''' 中高階 ''' 的機型，於 2012 年 4 月 20 日推出，有著與 [HTC One
-S](../Page/HTC_One_S.md "wikilink") 相似的硬體規格，但外觀重新設計成日系風格，並加入可更換電池及支援
-microSD 卡，副相機畫素也從 30 萬提升至 130 萬，更找來
-[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
-代言拍攝廣告，使得一推出便大受好評，不僅創下銷售佳績，也提升了 HTC
-在日本的知名度。因為此機在日本十分受歡迎，HTC 更在 9
-月引進回臺灣及香港等地，同樣也有不錯的表現，受到年輕族群的青睞。因為 HTC J
-的成功，日本電信商 au 更在冬季再與 HTC 合作，共同發表了高階客製機 [HTC J
-Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。
+**HTC J**（日本型號：**ISW13HT**，臺灣型號：**Z321e**）是日本電信商 [KDDI](../Page/KDDI.md "wikilink") 旗下之 [au](https://zh.wikipedia.org/wiki/au "wikilink") 向臺灣電子製造商 [宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink") 委託生產的 ''' 客製機 '''，在當時被定位為 ''' 中高階 ''' 的機型，於 2012 年 4 月 20 日推出，有著與 [HTC One S](../Page/HTC_One_S.md "wikilink") 相似的硬體規格，但外觀重新設計成日系風格，並加入可更換電池及支援 microSD 卡，副相機畫素也從 30 萬提升至 130 萬，更找來 [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink") 代言拍攝廣告，使得一推出便大受好評，不僅創下銷售佳績，也提升了 HTC 在日本的知名度。因為此機在日本十分受歡迎，HTC 更在 9 月引進回臺灣及香港等地，同樣也有不錯的表現，受到年輕族群的青睞。因為 HTC J 的成功，日本電信商 au 更在冬季再與 HTC 合作，共同發表了高階客製機 [HTC J Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。
 
 ## 簡介
 
-HTC
-J是HTC首次針對日本市場需求量身訂做，打造符合日本設計風格的客製化智慧型手機，該機將由[日本電信業者](../Page/日本.md "wikilink")[KDDI旗下之](../Page/KDDI.md "wikilink")[au於夏季開始獨家販售](https://zh.wikipedia.org/wiki/au "wikilink")。\[1\]
-其以**HTC J**命名是為表示宏達電重新登入日本市場，故以**J**（Japan）命名。\[2\]
+HTC J是HTC首次針對日本市場需求量身訂做，打造符合日本設計風格的客製化智慧型手機，該機將由[日本](../Page/日本.md "wikilink")電信業者[KDDI](../Page/KDDI.md "wikilink")旗下之[au於夏季開始獨家販售](https://zh.wikipedia.org/wiki/au "wikilink")。\[1\] 其以**HTC J**命名是為表示宏達電重新登入日本市場，故以**J**（Japan）命名。\[2\]
 
 ## 顏色
 
@@ -30,11 +16,8 @@ J是HTC首次針對日本市場需求量身訂做，打造符合日本設計風�
 
 ## 規格\[3\]
 
-  - 螢幕：4.3" [qHD Super AMOLED
-    OneCell](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")
-    960x540
-  - 處理器：[Qualcomm Snapdragon S4 MSM8660A
-    1.5Ghz](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
+  - 螢幕：4.3" [qHD Super AMOLED OneCell](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink") 960x540
+  - 處理器：[Qualcomm Snapdragon S4 MSM8660A 1.5Ghz](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
   - 相機：800萬畫素+130萬畫素（配置LED閃光燈）
   - 傳感器：
 
@@ -54,8 +37,7 @@ J是HTC首次針對日本市場需求量身訂做，打造符合日本設計風�
   - 記憶體：1GB RAM/16GB ROM(支援microSD卡)
   - 電池: 1810mah(可更換)
   - 顔色：<font color=black>●</font> 黑、<font color=red>●</font> 紅、○ 白
-  - 其他功能：One-SEG數位電視(日本)、電子錢包(日本)、紅外線(日本)、[Beats by Dr.
-    Dre](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")、WiMAX
+  - 其他功能：One-SEG數位電視(日本)、電子錢包(日本)、紅外線(日本)、[Beats by Dr. Dre](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")、WiMAX
   - 産地：[臺灣](../Page/臺灣.md "wikilink")
 
 ## 軟體更新
@@ -153,12 +135,8 @@ J是HTC首次針對日本市場需求量身訂做，打造符合日本設計風�
   - HTC日本官網介紹
       - [製品介紹](https://web.archive.org/web/20121018142536/http://www.htc.com/jp/smartphones/isw13ht/)
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
-1.  2012年3月に発売された「MOTOROLA RAZR」が5月中旬以降に[Android
-    4.0にアップデートする予定であり](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink")、このアップデートが当機種の発売前になるか後になるかははっきりしていない。
+1.  2012年3月に発売された「MOTOROLA RAZR」が5月中旬以降に[Android 4.0にアップデートする予定であり](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink")、このアップデートが当機種の発売前になるか後になるかははっきりしていない。
 2.   HTC J日本官網現跡
 3.  **Sogi\!手機王**：

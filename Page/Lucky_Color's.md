@@ -1,6 +1,4 @@
-**Lucky
-Color's**是居住在[沖繩縣的模特兒](../Page/沖繩縣.md "wikilink")5人組的舞蹈歌唱組合。口號是沖繩限定偶像組合「RYUKYUダンシングドールズ」。所屬事務所是[Itoh
-Company](https://zh.wikipedia.org/wiki/Itoh_Company "wikilink")。
+**Lucky Color's**是居住在[沖繩縣](../Page/沖繩縣.md "wikilink")的模特兒5人組的舞蹈歌唱組合。口號是沖繩限定偶像組合「RYUKYUダンシングドールズ」。所屬事務所是[Itoh Company](https://zh.wikipedia.org/wiki/Itoh_Company "wikilink")。
 
 ## 成員
 
@@ -69,11 +67,8 @@ Company](https://zh.wikipedia.org/wiki/Itoh_Company "wikilink")。
 
 ### 活動
 
-  - クリスマスプレゼントオリジンお笑いライブ（2010年12月25日、[てんぶす那覇](https://zh.wikipedia.org/wiki/牧志 "wikilink")
-    4F Hall）
-  - イトーカンパニーpresents「天使の修学旅行 in
-    [東京タワー](https://zh.wikipedia.org/wiki/東京タワー "wikilink")」（2011年4月2日、東京タワーフットタウン4F塔
-    Hall C）
+  - クリスマスプレゼントオリジンお笑いライブ（2010年12月25日、[てんぶす那覇](https://zh.wikipedia.org/wiki/牧志 "wikilink") 4F Hall）
+  - イトーカンパニーpresents「天使の修学旅行 in [東京タワー](https://zh.wikipedia.org/wiki/東京タワー "wikilink")」（2011年4月2日、東京タワーフットタウン4F塔 Hall C）
 
 ## 相關項目
 
@@ -84,7 +79,4 @@ Company](https://zh.wikipedia.org/wiki/Itoh_Company "wikilink")。
   - [Lucky Color's Official Blog](http://ameblo.jp/luckycolors/)
   - [沖縄のモデル事務所、ヘアメイク・スタイリスト事務所Color's](http://www.colors-okinawa.com/)
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
-[Category:沖繩縣文化](https://zh.wikipedia.org/wiki/Category:沖繩縣文化 "wikilink")
-[Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink") [Category:沖繩縣文化](https://zh.wikipedia.org/wiki/Category:沖繩縣文化 "wikilink") [Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink")

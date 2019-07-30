@@ -1,20 +1,12 @@
-**《Turn Me On》**是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Dance組合[SS501中心](../Page/SS501.md "wikilink")[金奎鐘的個人首張迷你專輯](../Page/金奎鐘.md "wikilink")。音源於9月27日通過各音樂網站公開。
-整張專輯由SS501時期發行的U R MAN迷你專輯的詞曲家Han Sang Won和擔任Rain專輯Rainism的製作人Tae
-Wan共同聯手打造而成\[1\]。
-2011年9月29日從[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中演出正式展開一連串的宣傳活動。
+**《Turn Me On》**是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink") Dance組合[SS501](../Page/SS501.md "wikilink")中心[金奎鐘](../Page/金奎鐘.md "wikilink")的個人首張迷你專輯。音源於9月27日通過各音樂網站公開。 整張專輯由SS501時期發行的U R MAN迷你專輯的詞曲家Han Sang Won和擔任Rain專輯Rainism的製作人Tae Wan共同聯手打造而成\[1\]。 2011年9月29日從[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中演出正式展開一連串的宣傳活動。
 
 ## 錄製與音樂
 
-主打歌曲《**YESTERDAY(比昨天更傷心的今天...)**》以悠揚的鋼琴旋律為前奏與利用數位製作出的類比聲效（Analog
-Sound）為底襯金奎鐘哀傷的歌聲，整首歌曲絲毫無任何喘息的空間，像是用歌詞訴說希望女朋友回到自己身邊，失戀男子的悲傷情懷。MV女主角為同公司女子組合〈[SPICA](../Page/SPICA_\(組合\).md "wikilink")〉成員<u>楊知元</u>擔任。
+主打歌曲《**YESTERDAY(比昨天更傷心的今天...)**》以悠揚的鋼琴旋律為前奏與利用數位製作出的類比聲效（Analog Sound）為底襯金奎鐘哀傷的歌聲，整首歌曲絲毫無任何喘息的空間，像是用歌詞訴說希望女朋友回到自己身邊，失戀男子的悲傷情懷。MV女主角為同公司女子組合〈[SPICA](../Page/SPICA_\(組合\).md "wikilink")〉成員<u>楊知元</u>擔任。
 
-＜**MY LOVE**＞則是由製作人Tae
-Wan作詞電子吉他演奏，內容講述男人勇於告白的心情故事，[SS501團員](../Page/SS501.md "wikilink")[許永生亦演唱RAP](../Page/許永生.md "wikilink")­部分。
+＜**MY LOVE**＞則是由製作人Tae Wan作詞電子吉他演奏，內容講述男人勇於告白的心情故事，[SS501](../Page/SS501.md "wikilink")團員[許永生](../Page/許永生.md "wikilink")亦演唱RAP­部分。
 
-＜**GET
-YA'LUV**＞以兩種不同版本呈現，一為輕快的鋼琴搭配著流暢的電子鼓聲，完美呈現。二為不插電版本以清新的木吉他、打擊樂器為主，展現出金奎鐘性感磁性和溫暖的歌聲。
+＜**GET YA'LUV**＞以兩種不同版本呈現，一為輕快的鋼琴搭配著流暢的電子鼓聲，完美呈現。二為不插電版本以清新的木吉他、打擊樂器為主，展現出金奎鐘性感磁性和溫暖的歌聲。
 
 ## 曲目列表
 
@@ -54,14 +46,10 @@ YA'LUV**＞以兩種不同版本呈現，一為輕快的鋼琴搭配著流暢的
 
 ## 外部連結
 
-  - [SS501's official
-    site](https://web.archive.org/web/20060518205215/http://ss501.dspenter.com/)
+  - [SS501's official site](https://web.archive.org/web/20060518205215/http://ss501.dspenter.com/)
   - [Kyu Jong Oiffical website](http://www.kyu-jong.com/)
 
-[Category:金奎鐘專輯](https://zh.wikipedia.org/wiki/Category:金奎鐘專輯 "wikilink")
-[Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
+[Category:金奎鐘專輯](https://zh.wikipedia.org/wiki/Category:金奎鐘專輯 "wikilink") [Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
 
 1.
 2.

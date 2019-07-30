@@ -1,8 +1,6 @@
-**《Destination》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，原定為2010年5月1日發行的正規專輯《501
-DAY》因多種原因轉而推遲到5月24日推出的迷你專輯。韓國發行分為限量特別版、普通版兩種版本，限量版於5月24日韓國時間凌晨0時通過韓國網路書店Yes24進行預購，5月28日開始發售，普通版6月3日發售。
+**《Destination》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，原定為2010年5月1日發行的正規專輯《501 DAY》因多種原因轉而推遲到5月24日推出的迷你專輯。韓國發行分為限量特別版、普通版兩種版本，限量版於5月24日韓國時間凌晨0時通過韓國網路書店Yes24進行預購，5月28日開始發售，普通版6月3日發售。
 
-此次專輯是由打造【Rebirth】的世界級製作人Steven Lee與NE-YO和Rihanna等國際流行巨星御用混音師Ken
-Lewis和SS501聯合攜手打造美國紐約-韓國的跨國國際化專輯。
+此次專輯是由打造【Rebirth】的世界級製作人Steven Lee與NE-YO和Rihanna等國際流行巨星御用混音師Ken Lewis和SS501聯合攜手打造美國紐約-韓國的跨國國際化專輯。
 
 新專辑曲调以悠揚的鋼琴為基調，偋棄過度氾濫的電音旋律，以最能表現樂器的旋律將SS501成員們的感性音律完全展現，讓他們與其他组合明顯區分其獨特的風格。
 
@@ -10,31 +8,22 @@ Lewis和SS501聯合攜手打造美國紐約-韓國的跨國國際化專輯。
 
 ### 錄製與音樂\[1\]
 
-2010年上半年成功结束亞洲巡演後正式進入新唱片錄製工作，為期3個月間[SS501投入新專辑的歌曲和舞台的準備](../Page/SS501.md "wikilink")。
+2010年上半年成功结束亞洲巡演後正式進入新唱片錄製工作，為期3個月間[SS501](../Page/SS501.md "wikilink")投入新專辑的歌曲和舞台的準備。
 
-主打歌《LOVE YA》的作曲家STEVEN
-LEE融合管弦樂和鋼琴旋律，曲子雄壯而印象深刻。從而使得SS501能同時展現力量和完美的控制能力，是美國唱片相關人員極度稱讚的曲子。此曲透過美國John
-Legend 和Kanye Omari West的技術與製作再加上格萊美獎得主Ken Lewis的混音進一步提升整首曲子的完整度。
+主打歌《LOVE YA》的作曲家STEVEN LEE融合管弦樂和鋼琴旋律，曲子雄壯而印象深刻。從而使得SS501能同時展現力量和完美的控制能力，是美國唱片相關人員極度稱讚的曲子。此曲透過美國John Legend 和Kanye Omari West的技術與製作再加上格萊美獎得主Ken Lewis的混音進一步提升整首曲子的完整度。
 
-《LET ME BE THE ONE (那就是我…)》是由SS501的<Love Like This>作曲者STEVEN LEE, SEAN
-ALEXANDER，ANDRE MIEUX
-合作完成。讓人中毒的R\&B旋律讓SS501輕鬆駕馭，展現讓人無法抗拒的成熟風格。參與製作NE-YO的《SO
-SICK》 《CLOSER》，《BECAUSE OF YOU》及最近第一位的廣告歌RIHANNA的"RUDE BOY"等世界歌曲誕生的KEVIN
-DAVIS，加上SS501 PERSONA亞洲巡演舞台公開的人氣dance歌曲《CRAZY 4
-U》因沒有收錄到上張專輯而得到歌迷要求收入此張專輯中。
+《LET ME BE THE ONE (那就是我…)》是由SS501的<Love Like This>作曲者STEVEN LEE, SEAN ALEXANDER，ANDRE MIEUX 合作完成。讓人中毒的R\&B旋律讓SS501輕鬆駕馭，展現讓人無法抗拒的成熟風格。參與製作NE-YO的《SO SICK》 《CLOSER》，《BECAUSE OF YOU》及最近第一位的廣告歌RIHANNA的"RUDE BOY"等世界歌曲誕生的KEVIN DAVIS，加上SS501 PERSONA亞洲巡演舞台公開的人氣dance歌曲《CRAZY 4 U》因沒有收錄到上張專輯而得到歌迷要求收入此張專輯中。
 
 專輯的最後一首《Forever(直到永遠)》是在英國錄製完成。來自德國的Frankfurt添加了大量的歐洲Power-Pop的元素。由SS501成員永生填寫優美的歌詞。
 
 ### 造型
 
-《Destination》中的西裝背面薄衫鏤空造型服飾及整體造型由贊助Dominic'Way設計師宋惠明所設計。專輯寫真形象分為兩個部分，第一部分《before》風格清新，代表了以往的SS501，第二部分《after》則是濃墨重彩，成員們著厚重妝容，手拿防毒面罩、手銬、皮鞭等小道具，在SPECIAL
-EDITION裏以所謂善與悪的(SM)型式呈現，而NORMAL以整體線條優美的造型以及強烈性感的黑與白帶出他們的形象，透露著低調但是狂熱的氣息，展示了這張專輯的概念，這種前後的強烈對比之下，顯示了SS5001對轉型的決心。
+《Destination》中的西裝背面薄衫鏤空造型服飾及整體造型由贊助Dominic'Way設計師宋惠明所設計。專輯寫真形象分為兩個部分，第一部分《before》風格清新，代表了以往的SS501，第二部分《after》則是濃墨重彩，成員們著厚重妝容，手拿防毒面罩、手銬、皮鞭等小道具，在SPECIAL EDITION裏以所謂善與悪的(SM)型式呈現，而NORMAL以整體線條優美的造型以及強烈性感的黑與白帶出他們的形象，透露著低調但是狂熱的氣息，展示了這張專輯的概念，這種前後的強烈對比之下，顯示了SS5001對轉型的決心。
 
 ## 曲目
 
 1.  **Let Me Be The One 那就是我...**（） 〖04:05〗
-      - 作詞：이승재；作曲：STEVEN LEE, ANDRE MIEUX, Sean Alexander；編曲：STEVEN LEE,
-        ANDRE MIEUX, Sean Alexander
+      - 作詞：이승재；作曲：STEVEN LEE, ANDRE MIEUX, Sean Alexander；編曲：STEVEN LEE, ANDRE MIEUX, Sean Alexander
       - 混音師：KEVIN DAVIS
 2.  **Love Ya** 〖03:25〗
       - 作詞：이승재；作曲：STEVEN LEE；編曲：STEVEN LEE
@@ -42,8 +31,7 @@ EDITION裏以所謂善與悪的(SM)型式呈現，而NORMAL以整體線條優美
       - 作詞：이승재；作曲：STEVEN LEE；編曲：STEVEN LEE
 4.  **直到永遠**（） 〖04:58〗
       - 作詞：[許永生](../Page/許永生.md "wikilink")
-      - 作曲：PAUL DREW, FREAKCHILD, GREIG WATTS, CHRISTIAN WEBER, PETER
-        BARRINGER；編曲：PAUL DREW, GREIG WATTS, PETER BARRINGER
+      - 作曲：PAUL DREW, FREAKCHILD, GREIG WATTS, CHRISTIAN WEBER, PETER BARRINGER；編曲：PAUL DREW, GREIG WATTS, PETER BARRINGER
 5.  **Let Me Be The One(acoustic ver)**（） 〖04:07〗
       - 作詞：이승재；作曲：STEVEN LEE, ANDRE MIEUX, Sean Alexander；編曲：STEVEN LEE
 6.  '''Love Ya (inst.) ''' 〖03:23〗
@@ -323,10 +311,7 @@ EDITION裏以所謂善與悪的(SM)型式呈現，而NORMAL以整體線條優美
 
 ### 宣傳
 
-2010年6月18日[SS501的所屬經紀公司](../Page/SS501.md "wikilink")[DSP
-Media透過官方網站表示](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[SS501](../Page/SS501.md "wikilink")“LOVE
-YA
-”宣傳活動已從5月28日到6月13日结束。因SS501的合約到2010年6月7日全面結束。而準備這次專輯的過程中，經紀公司和隊員們商議活動期間，考慮到已經合約結束，所以這次專輯僅宣傳了2\~3週\[5\]。
+2010年6月18日[SS501](../Page/SS501.md "wikilink")的所屬經紀公司[DSP Media透過官方網站表示](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[SS501](../Page/SS501.md "wikilink")“LOVE YA ”宣傳活動已從5月28日到6月13日结束。因SS501的合約到2010年6月7日全面結束。而準備這次專輯的過程中，經紀公司和隊員們商議活動期間，考慮到已經合約結束，所以這次專輯僅宣傳了2\~3週\[5\]。
 
 #### 簽名會
 
@@ -343,14 +328,11 @@ YA
 
 ### 插曲
 
-2010年6月11日[SS501歌曲](../Page/SS501.md "wikilink")“LOVE YA
-”在宣傳一週後獲得[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")」一位，獲獎後五位成員集體向現場觀眾和電視機前的粉絲“**行大禮**”表達了對粉絲無限的謝意\[6\]。
+2010年6月11日[SS501](../Page/SS501.md "wikilink")歌曲“LOVE YA ”在宣傳一週後獲得[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")」一位，獲獎後五位成員集體向現場觀眾和電視機前的粉絲“**行大禮**”表達了對粉絲無限的謝意\[6\]。
 
 ## 抄襲事件
 
-  - 2012年7月5日越南歌手Phong Đạt歌曲Chỉ Còn Lại Nỗi
-    Đau被指出抄襲[SS501](../Page/SS501.md "wikilink")《Love
-    Ya》一曲，不僅旋律極其相同，就連舞蹈也十分相似\[7\]\[8\]。
+  - 2012年7月5日越南歌手Phong Đạt歌曲Chỉ Còn Lại Nỗi Đau被指出抄襲[SS501](../Page/SS501.md "wikilink")《Love Ya》一曲，不僅旋律極其相同，就連舞蹈也十分相似\[7\]\[8\]。
 
 ## 參考文獻
 
@@ -386,10 +368,7 @@ YA
 
   - [金亨俊個人日本官方網站](http://www.kimhyungjun.jp/)
 
-[Category:SS501音樂專輯](https://zh.wikipedia.org/wiki/Category:SS501音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink")
-[Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
+[Category:SS501音樂專輯](https://zh.wikipedia.org/wiki/Category:SS501音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
 
 1.
 2.  <http://forum.g-music.com.tw/yaf_postst94558_2010--.aspx>

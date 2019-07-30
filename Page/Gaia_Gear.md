@@ -1,5 +1,4 @@
-《**Gaia Gear**》（，*GAIA
-GEAR*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说之一](../Page/小说.md "wikilink")，由[富野由悠季主笔创作](../Page/富野由悠季.md "wikilink")，1987年至1991年间由月刊[動畫雜誌](../Page/動畫雜誌.md "wikilink")《[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")》60集连载发表，后全5册平装出版。
+《**Gaia Gear**》（，*GAIA GEAR*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说](../Page/小说.md "wikilink")之一，由[富野由悠季](../Page/富野由悠季.md "wikilink")主笔创作，1987年至1991年间由月刊[動畫雜誌](../Page/動畫雜誌.md "wikilink")《[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")》60集连载发表，后全5册平装出版。
 
 ## 概要
 
@@ -19,14 +18,11 @@ GEAR*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说
 
 ## 原版出版列表
 
-  - ガイア・ギア 1（[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")
-    1988年9月1日）
+  - ガイア・ギア 1（[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink") 1988年9月1日）
       - 封面插图：[大貫健一](https://zh.wikipedia.org/wiki/大貫健一 "wikilink")・[西井正典](https://zh.wikipedia.org/wiki/西井正典 "wikilink")
       - 卷首插图：[北爪宏幸](../Page/北爪宏幸.md "wikilink")・[仲盛文](https://zh.wikipedia.org/wiki/仲盛文 "wikilink")・[庵野秀明](../Page/庵野秀明.md "wikilink")・大貫健一・[伊東守](https://zh.wikipedia.org/wiki/伊東守 "wikilink")
       - 内页插图：北爪宏幸
-  - ガイア・ギア
-    2（[角川スニーカー文庫](https://zh.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")
-    1989/9/1）
+  - ガイア・ギア 2（[角川スニーカー文庫](https://zh.wikipedia.org/wiki/角川スニーカー文庫 "wikilink") 1989/9/1）
       - 封面插图：伊東守
       - 卷首插图：西井正典・伊東守
       - 内页插图：北爪宏幸
@@ -119,30 +115,17 @@ GEAR*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说
 ## 註記
 
   - 平装版小说发行量稀少，最终卷第5卷仅只发行了第一版。
-  - 《NewType》连载之前预告的标题为《机动战士GAIA GEAR 逆袭的夏亚》（機動戦士ガイア・ギア
-    逆襲のシャア），连载第1\~5集时的标题为《机动战士GAIA
-    GEAR》（機動戦士ガイア・ギア），连载第6集以后固定为《GAIA
-    GEAR》（ガイア・ギア）。预告的标题之后由《机动战士GUNDAM
-    逆袭的夏亚》所使用。
+  - 《NewType》连载之前预告的标题为《机动战士GAIA GEAR 逆袭的夏亚》（機動戦士ガイア・ギア 逆襲のシャア），连载第1\~5集时的标题为《机动战士GAIA GEAR》（機動戦士ガイア・ギア），连载第6集以后固定为《GAIA GEAR》（ガイア・ギア）。预告的标题之后由《机动战士GUNDAM 逆袭的夏亚》所使用。
   - 原声带有重新发行，但广播剧CD已经绝版。小说也因为版权问题而无再版。
 
 ## 注释
 
 ## 外部链接
 
-  - [GUNDAM MASTER WEB. / GAIA GEAR section
-    (Japanese)](http://ha3.seikyou.ne.jp/home/kzt/)
-  - [Gaia Gear mecha
-    gallery](http://www.mahq.net/mecha/gundam/gaiagear/)
+  - [GUNDAM MASTER WEB. / GAIA GEAR section (Japanese)](http://ha3.seikyou.ne.jp/home/kzt/)
+  - [Gaia Gear mecha gallery](http://www.mahq.net/mecha/gundam/gaiagear/)
 
-[Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink")
-[Category:富野由悠季小說](https://zh.wikipedia.org/wiki/Category:富野由悠季小說 "wikilink")
-[Category:1987年小說](https://zh.wikipedia.org/wiki/Category:1987年小說 "wikilink")
-[Category:GUNDAM系列小說作品](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說作品 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:廣播劇](https://zh.wikipedia.org/wiki/Category:廣播劇 "wikilink")
-[Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
+[Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink") [Category:富野由悠季小說](https://zh.wikipedia.org/wiki/Category:富野由悠季小說 "wikilink") [Category:1987年小說](https://zh.wikipedia.org/wiki/Category:1987年小說 "wikilink") [Category:GUNDAM系列小說作品](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說作品 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:廣播劇](https://zh.wikipedia.org/wiki/Category:廣播劇 "wikilink") [Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
 
 1.  [選挙特番のため日曜日昼](https://zh.wikipedia.org/wiki/選挙 "wikilink")12:00～12:30に放送された回がある。
 2.  CDレーベル面の表記は「宇宙の呼ぶ声」

@@ -1,4 +1,4 @@
-是[湖南卫视于](../Page/湖南卫视.md "wikilink")2012年播出的一部聚焦年轻人婚姻问题的电视剧，改编于网络小说《AA制婚姻》（张无花著），讲述了何琪和韩心、张林与蔡娟两对年轻人从恋爱到结婚，婚后为生活打拼，面对互相之间矛盾、分歧以及面对化解问题获得幸福生活的全历程，展现了“[80后](https://zh.wikipedia.org/wiki/80后 "wikilink")”男女“一起奋斗、买房，这样过着才踏实”的新现代婚姻生活。2011年10月28日在北京举行开机仪式\[1\]。[湖南卫视首播](../Page/湖南卫视.md "wikilink")，[深圳卫视二輪播出](../Page/深圳卫视.md "wikilink")。
+是[湖南卫视](../Page/湖南卫视.md "wikilink")于2012年播出的一部聚焦年轻人婚姻问题的电视剧，改编于网络小说《AA制婚姻》（张无花著），讲述了何琪和韩心、张林与蔡娟两对年轻人从恋爱到结婚，婚后为生活打拼，面对互相之间矛盾、分歧以及面对化解问题获得幸福生活的全历程，展现了“[80后](https://zh.wikipedia.org/wiki/80后 "wikilink")”男女“一起奋斗、买房，这样过着才踏实”的新现代婚姻生活。2011年10月28日在北京举行开机仪式\[1\]。[湖南卫视](../Page/湖南卫视.md "wikilink")首播，[深圳卫视](../Page/深圳卫视.md "wikilink")二輪播出。
 
 ## 演员表
 
@@ -31,10 +31,6 @@
 
 ## 节目变迁
 
-[Category:2012年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年中國電視劇集 "wikilink")
-[Category:中國愛情劇](https://zh.wikipedia.org/wiki/Category:中國愛情劇 "wikilink")
-[Category:中國家庭劇](https://zh.wikipedia.org/wiki/Category:中國家庭劇 "wikilink")
-[Category:中国网络小说改编电视剧](https://zh.wikipedia.org/wiki/Category:中国网络小说改编电视剧 "wikilink")
-[Category:香港電視網絡外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視網絡外購劇集 "wikilink")
+[Category:2012年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年中國電視劇集 "wikilink") [Category:中國愛情劇](https://zh.wikipedia.org/wiki/Category:中國愛情劇 "wikilink") [Category:中國家庭劇](https://zh.wikipedia.org/wiki/Category:中國家庭劇 "wikilink") [Category:中国网络小说改编电视剧](https://zh.wikipedia.org/wiki/Category:中国网络小说改编电视剧 "wikilink") [Category:香港電視網絡外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視網絡外購劇集 "wikilink")
 
 1.  [电视剧《AA制生活》开机](http://news.xinmin.cn/rollnews/2011/10/30/12530006.html)2011-10-30

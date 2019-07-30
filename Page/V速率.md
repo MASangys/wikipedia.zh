@@ -1,6 +1,4 @@
-**V速率**（）
-，是用來表示[飛行器的特定速率](https://zh.wikipedia.org/wiki/飛行器 "wikilink")，這個速率會隨著飛行器重量、[跑道情況](../Page/跑道.md "wikilink")、氣溫、飛行器類別（例如滑翔機、噴射飛機）而改變，較大型飛行器的V-speeds大多以圖表的形式記載在飛行器的手冊，供飛行員查閱。
-[ASI01b.jpg](https://zh.wikipedia.org/wiki/File:ASI01b.jpg "fig:ASI01b.jpg")L）的[空速顯示器](https://zh.wikipedia.org/wiki/空速顯示器 "wikilink")，並附上V速率標籤。\]\]
+**V速率**（） ，是用來表示[飛行器的特定速率](https://zh.wikipedia.org/wiki/飛行器 "wikilink")，這個速率會隨著飛行器重量、[跑道](../Page/跑道.md "wikilink")情況、氣溫、飛行器類別（例如滑翔機、噴射飛機）而改變，較大型飛行器的V-speeds大多以圖表的形式記載在飛行器的手冊，供飛行員查閱。 [ASI01b.jpg](https://zh.wikipedia.org/wiki/File:ASI01b.jpg "fig:ASI01b.jpg")L）的[空速顯示器](https://zh.wikipedia.org/wiki/空速顯示器 "wikilink")，並附上V速率標籤。\]\]
 
 ## 主要V速率
 
@@ -50,5 +48,4 @@
 | V<sub>Y</sub>               | 最大爬升率速度                                                               |
 |                             |                                                                       |
 
-[Category:航空儀表](https://zh.wikipedia.org/wiki/Category:航空儀表 "wikilink")
-[Category:交通](https://zh.wikipedia.org/wiki/Category:交通 "wikilink")
+[Category:航空儀表](https://zh.wikipedia.org/wiki/Category:航空儀表 "wikilink") [Category:交通](https://zh.wikipedia.org/wiki/Category:交通 "wikilink")

@@ -1,28 +1,15 @@
-**《Collection》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，自成員[金賢重演出韓版](../Page/金賢重.md "wikilink")「[花樣男子](../Page/花樣男子.md "wikilink")」、[朴政珉演出音樂劇](../Page/朴政珉.md "wikilink")「Grease」與[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊組成](../Page/金亨俊.md "wikilink")『Triple
-S』發行「U R Man」special album
-第五張韓文迷你專輯闊別**一年零三個月**後合體於2009年7月3日發行的迷你專輯。此專輯收錄由2008年6月18日線上公開音源的[賢重與](../Page/金賢重.md "wikilink")[永生及](../Page/許永生.md "wikilink")[奎鐘的獨唱新曲和](../Page/金奎鐘.md "wikilink")2008年6月30日線上公開音源的[政珉](../Page/朴政珉.md "wikilink")、[亨俊的](../Page/金亨俊.md "wikilink")2首獨唱新曲及[永生](../Page/許永生.md "wikilink")、[奎鐘](../Page/金奎鐘.md "wikilink")、[亨俊](../Page/金亨俊.md "wikilink")「U
-R Man」時期所演唱的曲目共6首歌曲\[1\]。
+**《Collection》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，自成員[金賢重](../Page/金賢重.md "wikilink")演出韓版「[花樣男子](../Page/花樣男子.md "wikilink")」、[朴政珉](../Page/朴政珉.md "wikilink")演出音樂劇「Grease」與[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")組成『Triple S』發行「U R Man」special album 第五張韓文迷你專輯闊別**一年零三個月**後合體於2009年7月3日發行的迷你專輯。此專輯收錄由2008年6月18日線上公開音源的[賢重與](../Page/金賢重.md "wikilink")[永生及](../Page/許永生.md "wikilink")[奎鐘的獨唱新曲和](../Page/金奎鐘.md "wikilink")2008年6月30日線上公開音源的[政珉](../Page/朴政珉.md "wikilink")、[亨俊的](../Page/金亨俊.md "wikilink")2首獨唱新曲及[永生](../Page/許永生.md "wikilink")、[奎鐘](../Page/金奎鐘.md "wikilink")、[亨俊](../Page/金亨俊.md "wikilink")「U R Man」時期所演唱的曲目共6首歌曲\[1\]。
 
 同年5月遠赴[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯拍攝單曲海報寫真](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")。並且個別為成員獨唱歌曲錄製<u>單曲前導式預告片</u>\[2\]與製作長達20分鐘的**劇情式[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")**－〈殺手輓歌〉\[3\]。
 
 ## 音樂與錄製
 
-  - **《請對我好一點（제발 잘해줘）》**是韓國著名作曲家황성제（BJJ MUSIC）團隊打造的歌曲，在황성제（BJJ
-    MUSIC）全程監製之下更凸顯其對音樂的野心，集結金賢重個人風格與以往SS501風格有所不同，更為此曲散發不同色彩。
-  - **《空白的記憶（이름없는
-    기억）》**是由音樂劇作曲家박세현譜曲，悲傷的旋律搭配許永生細膩的歌聲完美呈現永生親自填寫的歌詞帶給人們深沉的悲傷愛情故事。
-  - **《Wuss Up》**是由Rain的專輯Rainism製作人태완 a.k.a "C-LUV"和新音樂製作團隊"STAR
-    TRAK"與韓國人氣男子組合SS501中心金奎鐘所共同打造的動感舞曲。
-  - **《難道不能嗎?（）》**是首充滿哀傷離別的傷感情歌，由韓國著名詞曲創作家한재호和김승수與[朴政珉親自填詞演唱](../Page/朴政珉.md "wikilink")，加上[狂戀樂團前成員擁有冷酷又具有魅力聲線的女聲Ji](https://zh.wikipedia.org/wiki/狂戀樂團 "wikilink")
-    seon合唱的歌曲。於2009年7月17日，[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")〈[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")〉朴政珉solo舞台『難道不能嗎?』正式展開宣傳\[4\]。
-  - **《HEY G》**是首使用不同音色吉他與電子樂伴奏，以強調不斷重複的歌詞和旋律且為目前流行的Hook
-    song\[5\]。歌詞為向所愛女人表達接受他對其積極的愛意內容。featuring則是由從TBNY出道與已參予許多嘻哈專輯合唱的女性RnB組合자이언(B-zion)成員Mellow演唱，此外此曲也是[金亨俊與其弟](../Page/金亨俊.md "wikilink")[金起範](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")
-    共同參與製作的曲子\[6\]。正式於2009年8月8日，[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")〈[Show\!
-    音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")〉金亨俊solo舞台『Hey
-    G』進行宣傳\[7\]。
-  - **《跟膽怯說bye
-    bye》**原為[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊於日本發行的U](../Page/金亨俊.md "wikilink")
-    R MAN SPECIAL ALBUM，REPACKAGE版主打歌曲，應歌迷粉絲們要求特收錄於此專輯中。
+  - **《請對我好一點（제발 잘해줘）》**是韓國著名作曲家황성제（BJJ MUSIC）團隊打造的歌曲，在황성제（BJJ MUSIC）全程監製之下更凸顯其對音樂的野心，集結金賢重個人風格與以往SS501風格有所不同，更為此曲散發不同色彩。
+  - **《空白的記憶（이름없는 기억）》**是由音樂劇作曲家박세현譜曲，悲傷的旋律搭配許永生細膩的歌聲完美呈現永生親自填寫的歌詞帶給人們深沉的悲傷愛情故事。
+  - **《Wuss Up》**是由Rain的專輯Rainism製作人태완 a.k.a "C-LUV"和新音樂製作團隊"STAR TRAK"與韓國人氣男子組合SS501中心金奎鐘所共同打造的動感舞曲。
+  - **《難道不能嗎?（）》**是首充滿哀傷離別的傷感情歌，由韓國著名詞曲創作家한재호和김승수與[朴政珉](../Page/朴政珉.md "wikilink")親自填詞演唱，加上[狂戀樂團前成員擁有冷酷又具有魅力聲線的女聲Ji](https://zh.wikipedia.org/wiki/狂戀樂團 "wikilink") seon合唱的歌曲。於2009年7月17日，[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")〈[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")〉朴政珉solo舞台『難道不能嗎?』正式展開宣傳\[4\]。
+  - **《HEY G》**是首使用不同音色吉他與電子樂伴奏，以強調不斷重複的歌詞和旋律且為目前流行的Hook song\[5\]。歌詞為向所愛女人表達接受他對其積極的愛意內容。featuring則是由從TBNY出道與已參予許多嘻哈專輯合唱的女性RnB組合자이언(B-zion)成員Mellow演唱，此外此曲也是[金亨俊](../Page/金亨俊.md "wikilink")與其弟[金起範](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink") 共同參與製作的曲子\[6\]。正式於2009年8月8日，[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")〈[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")〉金亨俊solo舞台『Hey G』進行宣傳\[7\]。
+  - **《跟膽怯說bye bye》**原為[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")於日本發行的U R MAN SPECIAL ALBUM，REPACKAGE版主打歌曲，應歌迷粉絲們要求特收錄於此專輯中。
 
 ## 曲目
 
@@ -121,26 +108,15 @@ R Man」時期所演唱的曲目共6首歌曲\[1\]。
 
   - [金亨俊個人日本官方網站](http://www.kimhyungjun.jp/)
 
-[Category:SS501音樂專輯](https://zh.wikipedia.org/wiki/Category:SS501音樂專輯 "wikilink")
-[Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
+[Category:SS501音樂專輯](https://zh.wikipedia.org/wiki/Category:SS501音樂專輯 "wikilink") [Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
 
-1.  [SS501 / COLLECTION 2009獨唱新選豪華寫真盤 (CD+寫真)
-    介紹](http://www.books.com.tw/exep/cdfile.php?item=0020133838)
-    .2009-08-15
+1.  [SS501 / COLLECTION 2009獨唱新選豪華寫真盤 (CD+寫真) 介紹](http://www.books.com.tw/exep/cdfile.php?item=0020133838) .2009-08-15
 2.  分別在6月15\~6月19日公開
 3.  5月30日錄製完畢
     飾演 朴政珉未婚妻為韓國著名演員**李泰林**（이태임）；刀疤為韓國著名演員**鄭義甲**（정의갑）
     連結為[詳細劇情人物解說](http://i.imgur.com/CSb80.jpg)
-    金賢重的最終結局已在SS501《THE FIRST PERSONA ASIA
-    TOUR亞洲巡迴演唱會》中個人SOLO前播放的MV中完整交代
-4.  [2009.07.17 SS501정민 하면은 안돼（KBS2
-    뮤직방크）](http://www.youtube.com/watch?v=tmIEOvSj0pk).2009-07-17
-5.  [SS501 / COLLECTION 2009獨唱新選豪華寫真盤 (CD+寫真)
-    介紹](http://www.books.com.tw/exep/cdfile.php?item=0020133838)
-    .2009-08-15
-6.  [華納線上音樂 SS501-Collection
-    介紹](http://www.warnermusic.com.tw/store/item/1035) .2009-08-14
-7.  [090808 MBC MusicCore HyungJun Hey
-    G](http://www.youtube.com/watch?v=lD5tiHzoWUQ).2009-08-08
+    金賢重的最終結局已在SS501《THE FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》中個人SOLO前播放的MV中完整交代
+4.  [2009.07.17 SS501정민 하면은 안돼（KBS2 뮤직방크）](http://www.youtube.com/watch?v=tmIEOvSj0pk).2009-07-17
+5.  [SS501 / COLLECTION 2009獨唱新選豪華寫真盤 (CD+寫真) 介紹](http://www.books.com.tw/exep/cdfile.php?item=0020133838) .2009-08-15
+6.  [華納線上音樂 SS501-Collection 介紹](http://www.warnermusic.com.tw/store/item/1035) .2009-08-14
+7.  [090808 MBC MusicCore HyungJun Hey G](http://www.youtube.com/watch?v=lD5tiHzoWUQ).2009-08-08

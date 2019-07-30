@@ -1,12 +1,8 @@
-**NovaThor**一个整合了[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（Soc）和调制解调器的移动芯片组系列，该芯片组由[ST-Ericsson](https://zh.wikipedia.org/wiki/ST-Ericsson "wikilink")（意法爱立信）研发制造，针对[智能手机和](../Page/智能手机.md "wikilink")[平板电脑平台](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。意法爱立信于2009年2月3日由[爱立信和](https://zh.wikipedia.org/wiki/爱立信 "wikilink")[意法半导体各注资](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")50%股份组建而成。意法爱立信同时还销售SoCs（Nova）和调制解调器（Thor）。\[1\]
+**NovaThor**一个整合了[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（Soc）和调制解调器的移动芯片组系列，该芯片组由[ST-Ericsson](https://zh.wikipedia.org/wiki/ST-Ericsson "wikilink")（意法爱立信）研发制造，针对[智能手机](../Page/智能手机.md "wikilink")和[平板电脑平台](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。意法爱立信于2009年2月3日由[爱立信和](https://zh.wikipedia.org/wiki/爱立信 "wikilink")[意法半导体各注资](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")50%股份组建而成。意法爱立信同时还销售SoCs（Nova）和调制解调器（Thor）。\[1\]
 
-2011年11月2月，[诺基亚公司曾宣布意法爱立信的NovaThor芯片组将被使用在诺基亚的](../Page/诺基亚.md "wikilink")[Windows
-Phone系列手机上](../Page/Windows_Phone.md "wikilink")，以便从其他品牌生产的众多使用了[高通](../Page/高通.md "wikilink")[Snapdragon处理器的Windows](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
-Phone手机中区分开来，构成差异化。但随后该计划被取消，原因是[微软要求Windows](../Page/微软.md "wikilink")
-Phone手机必须使用高通处理器。\[2\]
+2011年11月2月，[诺基亚](../Page/诺基亚.md "wikilink")公司曾宣布意法爱立信的NovaThor芯片组将被使用在诺基亚的[Windows Phone系列手机上](../Page/Windows_Phone.md "wikilink")，以便从其他品牌生产的众多使用了[高通](../Page/高通.md "wikilink")[Snapdragon处理器的Windows](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") Phone手机中区分开来，构成差异化。但随后该计划被取消，原因是[微软](../Page/微软.md "wikilink")要求Windows Phone手机必须使用高通处理器。\[2\]
 
-2012年2月28日，意法爱立信宣布他们将会把旗下的芯片组全部转换为用[绝缘体上硅](https://zh.wikipedia.org/wiki/绝缘体上硅 "wikilink")
-(FD-SOI)来制造，该半导体原料将比其他竞争对手生产的普通硅半导体芯片组更快、散热更好、更加省电，而该新芯片组U8540将会发布。在等同情况下，采用该材料制造的新芯片组U8540将比采用普通硅制造的L8540省电35%。\[3\]
+2012年2月28日，意法爱立信宣布他们将会把旗下的芯片组全部转换为用[绝缘体上硅](https://zh.wikipedia.org/wiki/绝缘体上硅 "wikilink") (FD-SOI)来制造，该半导体原料将比其他竞争对手生产的普通硅半导体芯片组更快、散热更好、更加省电，而该新芯片组U8540将会发布。在等同情况下，采用该材料制造的新芯片组U8540将比采用普通硅制造的L8540省电35%。\[3\]
 
 ## Nova（霜星）和NovaThor[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")
 
@@ -27,59 +23,37 @@ Phone手机必须使用高通处理器。\[2\]
 
 ## 外部链接
 
-  - [Page on ST-Ericsson website about
-    NovaThor.](https://web.archive.org/web/20120303145708/http://www.stericsson.com/products/smartphone-platforms.jsp)
+  - [Page on ST-Ericsson website about NovaThor.](https://web.archive.org/web/20120303145708/http://www.stericsson.com/products/smartphone-platforms.jsp)
 
-[Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink")
-[Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink")
+[Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink") [Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink")
 
-1.  [NOVA TM - Highest performance application
-    processors](http://stericsson.com/products/application_processors.jsp)
+1.  [NOVA TM - Highest performance application processors](http://stericsson.com/products/application_processors.jsp)
 
+2.  [ST-Ericsson's NovaThor to power Nokia's Windows Phone devices, loosens Qualcomm's grip - Engadget](http://www.engadget.com/2011/11/02/st-ericssons-novathor-to-power-nokias-windows-phone-devices-l/)
 
-2.  [ST-Ericsson's NovaThor to power Nokia's Windows Phone devices,
-    loosens Qualcomm's grip -
-    Engadget](http://www.engadget.com/2011/11/02/st-ericssons-novathor-to-power-nokias-windows-phone-devices-l/)
+3.  [AnandTech - ST-E Will Have FD-SOI Based U8540: 35% Lower Power, Much Higher Frequencies](http://www.anandtech.com/show/5600/ste-will-have-fdsoi-based-u8540-35-lower-power-much-higher-frequencies)
 
-3.  [AnandTech - ST-E Will Have FD-SOI Based U8540: 35% Lower Power,
-    Much Higher
-    Frequencies](http://www.anandtech.com/show/5600/ste-will-have-fdsoi-based-u8540-35-lower-power-much-higher-frequencies)
+4.  [NovaThor U5500 Product Webpage; ST Ericsson.](http://www.stericsson.com/products/u5500-smartphone.jsp)
 
-4.  [NovaThor U5500 Product Webpage; ST
-    Ericsson.](http://www.stericsson.com/products/u5500-smartphone.jsp)
+5.  [NovaThor U8500 Product Webpage; ST Ericsson.](http://www.stericsson.com/products/u8500-novathor.jsp)
 
-5.  [NovaThor U8500 Product Webpage; ST
-    Ericsson.](http://www.stericsson.com/products/u8500-novathor.jsp)
+6.  [Specifications - Sony Smartphones (Global UK English)](http://www.sonymobile.com/global-en/products/phones/xperia-p/specifications/)
 
-6.  [Specifications - Sony Smartphones (Global UK
-    English)](http://www.sonymobile.com/global-en/products/phones/xperia-p/specifications/)
+7.  [ST-Ericsson NovaThor U8500 powers new Samsung GALAXY S Advance](http://www.stericsson.com/press_releases/Samsung_galaxy_U8500.jsp)
 
-7.  [ST-Ericsson NovaThor U8500 powers new Samsung GALAXY S
-    Advance](http://www.stericsson.com/press_releases/Samsung_galaxy_U8500.jsp)
+8.  [ST-Ericsson NovaThor U8500 powers new tablet from Ontim](http://www.stericsson.com/press_releases/ontim_u8500.jsp)
 
-8.  [ST-Ericsson NovaThor U8500 powers new tablet from
-    Ontim](http://www.stericsson.com/press_releases/ontim_u8500.jsp)
+9.  [NovaThor U9500 Product Webpage; ST Ericsson.](http://www.stericsson.com/products/u9500-novathor.jsp)
 
-9.  [NovaThor U9500 Product Webpage; ST
-    Ericsson.](http://www.stericsson.com/products/u9500-novathor.jsp)
+10. [Changing the game: ST-Ericsson Unveils NovaThor™ Family of Smartphone Platforms Combining its Most Advanced Application Processors with the Latest Generation of Modems](http://www.stericsson.com/press_releases/NovaThor.jsp)
 
-10. [Changing the game: ST-Ericsson Unveils NovaThor™ Family of
-    Smartphone Platforms Combining its Most Advanced Application
-    Processors with the Latest Generation of
-    Modems](http://www.stericsson.com/press_releases/NovaThor.jsp)
-
-11. [Powerful New ST-Ericsson Platform makes Debut in HTC
-    Sensation](http://www.stericsson.com/press_releases/HTC_sensation.jsp)
-
+11. [Powerful New ST-Ericsson Platform makes Debut in HTC Sensation](http://www.stericsson.com/press_releases/HTC_sensation.jsp)
 
 12. [Nova™ A9540](http://www.stericsson.com/products/a9540-nova.jsp)
 
 13.
 14. [NOVATHOR™ L8540](http://www.stericsson.com/products/L8540.jsp)
 
-15. [ST-Ericsson announces new highly integrated LTE NovaThor
-    platform](http://www.stericsson.com/press_releases/L8540-novathor.jsp)
+15. [ST-Ericsson announces new highly integrated LTE NovaThor platform](http://www.stericsson.com/press_releases/L8540-novathor.jsp)
 
-
-16. [NOVATHOR™
-    L9540](http://www.stericsson.com/products/L9540-novathor.jsp)
+16. [NOVATHOR™ L9540](http://www.stericsson.com/products/L9540-novathor.jsp)

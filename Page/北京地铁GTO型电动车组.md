@@ -1,4 +1,4 @@
-**北京地铁BD11型电动车组**，通称“GTO型”，是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
+**北京地铁BD11型电动车组**，通称“GTO型”，是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
 
 ## 简介
 
@@ -57,5 +57,4 @@ BD11型共12辆，为6节编组。在[2号线上运营](../Page/北京地铁2号
   - [北京地铁车辆装备有限公司](https://web.archive.org/web/20130116163659/http://www.bsrse.com/)
   - [北京地铁官方网页对BD11型的介绍](http://www.bjsubway.com/node/1764)
 
-[Category:北京地铁BD系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁BD系列电动车组 "wikilink")
-[Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink")
+[Category:北京地铁BD系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁BD系列电动车组 "wikilink") [Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink")

@@ -1,6 +1,4 @@
-**《Welcome
-Back》**是[香港歌手](../Page/香港.md "wikilink")[陳慧嫻第十張粵語專輯](../Page/陳慧嫻.md "wikilink")，於1995年2月23日由[寶麗金發行](../Page/寶麗金.md "wikilink")。是她學成歸來香港樂壇第一張唱片，成績非常理想，榮獲四白金唱片，登上IFPI唱片銷量榜冠軍。陳慧嫻本人亦正式回港為唱片歌曲宣傳，人氣高企，專輯內的主打《戀戀風塵》，《今天夜裡總下雨》及《留戀》皆有不俗反應；另亦特別收錄《今天的愛人是誰》及把《Let's
-Get Married》翻唱成廣東版《從來是一對》。
+**《Welcome Back》**是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")第十張粵語專輯，於1995年2月23日由[寶麗金](../Page/寶麗金.md "wikilink")發行。是她學成歸來香港樂壇第一張唱片，成績非常理想，榮獲四白金唱片，登上IFPI唱片銷量榜冠軍。陳慧嫻本人亦正式回港為唱片歌曲宣傳，人氣高企，專輯內的主打《戀戀風塵》，《今天夜裡總下雨》及《留戀》皆有不俗反應；另亦特別收錄《今天的愛人是誰》及把《Let's Get Married》翻唱成廣東版《從來是一對》。
 
 ## 曲目
 
@@ -26,6 +24,4 @@ Get Married》翻唱成廣東版《從來是一對》。
 
 ## 外部連結
 
-[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink")
-[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink") [Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

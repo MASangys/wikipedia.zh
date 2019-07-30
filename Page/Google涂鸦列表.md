@@ -1,6 +1,4 @@
-{{ 未完成列表 }} {{ 动态列表 }} **[Google
-Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽标**）是艺术性的[Google商標](../Page/Google商標.md "wikilink")。从1998年第一个[火人节Doodle开始](https://zh.wikipedia.org/wiki/火人节 "wikilink")，[Google一直在设计各种Doodle](../Page/Google.md "wikilink")，大多是为了庆祝节日、纪念日以及著名艺术家、先驱者和科学家的诞辰等。从2000年开始，[黄正穆开始负责设计Doodle](https://zh.wikipedia.org/wiki/黄正穆 "wikilink")\[1\]
-。
+{{ 未完成列表 }} {{ 动态列表 }} **[Google Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽标**）是艺术性的[Google商標](../Page/Google商標.md "wikilink")。从1998年第一个[火人节Doodle开始](https://zh.wikipedia.org/wiki/火人节 "wikilink")，[Google](../Page/Google.md "wikilink")一直在设计各种Doodle，大多是为了庆祝节日、纪念日以及著名艺术家、先驱者和科学家的诞辰等。从2000年开始，[黄正穆开始负责设计Doodle](https://zh.wikipedia.org/wiki/黄正穆 "wikilink")\[1\] 。
 
 ## 1998年
 
@@ -8,7 +6,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 | ------ | -------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------- |
 | 8月30日  | Google 创始人拉里和谢尔盖设计了Google的第一个Doodle，表示他们要参加[火人节](https://zh.wikipedia.org/wiki/火人节 "wikilink")，网站暂时无人维护。 | 全球                             | <http://www.google.com/doodles/burning-man-festival> |
 | 10月29日 | Google启用新的Logo，并释放beta版。                                                                                 | 全球                             | <http://www.google.com/doodles/google-beta>          |
-| 11月26日 | 第一个[感恩节Doodle](../Page/感恩节.md "wikilink")                                                                | [美国](../Page/美国.md "wikilink") | <http://www.google.com/doodles/thanksgiving-1998>    |
+| 11月26日 | 第一个[感恩节](../Page/感恩节.md "wikilink")Doodle                                                                | [美国](../Page/美国.md "wikilink") | <http://www.google.com/doodles/thanksgiving-1998>    |
 
 ## 1999年
 
@@ -36,14 +34,14 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 </tr>
 <tr class="odd">
 <td><p>11月30日</p></td>
-<td><p>两个不同的"<a href="../Page/山姆大叔.md" title="wikilink">山姆大叔搜索</a>"Doodle，点击后会进入Google的<a href="https://zh.wikipedia.org/wiki/美国联邦政府" title="wikilink">美国联邦政府搜索页面</a>。</p></td>
+<td><p>两个不同的"<a href="../Page/山姆大叔.md" title="wikilink">山姆大叔</a>搜索"Doodle，点击后会进入Google的<a href="https://zh.wikipedia.org/wiki/美国联邦政府" title="wikilink">美国联邦政府搜索页面</a>。</p></td>
 <td><p>美国</p></td>
 <td><p><a href="http://www.google.com/doodles/uncle-sam-search-2">http://www.google.com/doodles/uncle-sam-search-2</a><br />
 <a href="http://www.google.com/doodles/uncle-sam-search-1">http://www.google.com/doodles/uncle-sam-search-1</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12月25日</p></td>
-<td><p>第一个<a href="../Page/圣诞节.md" title="wikilink">圣诞节Doodle</a>。</p></td>
+<td><p>第一个<a href="../Page/圣诞节.md" title="wikilink">圣诞节</a>Doodle。</p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/happy-holidays-from-google-1999">http://www.google.com/doodles/happy-holidays-from-google-1999</a></p></td>
 </tr>
@@ -64,7 +62,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 <tbody>
 <tr class="odd">
 <td><p>1月1日</p></td>
-<td><p>第一个<a href="../Page/元旦.md" title="wikilink">元旦Doodle</a>。</p></td>
+<td><p>第一个<a href="../Page/元旦.md" title="wikilink">元旦</a>Doodle。</p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/happy-new-year-2000">http://www.google.com/doodles/happy-new-year-2000</a></p></td>
 </tr>
@@ -94,7 +92,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 </tr>
 <tr class="even">
 <td><p>5月1日-5月5日</p></td>
-<td><p>“Google外星人”系列Doodle。每天换一个<a href="../Page/外星人.md" title="wikilink">外星人的Doodle</a>。</p></td>
+<td><p>“Google外星人”系列Doodle。每天换一个<a href="../Page/外星人.md" title="wikilink">外星人</a>的Doodle。</p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/google-aliens-2000-1">http://www.google.com/doodles/google-aliens-2000-1</a><br />
 <a href="http://www.google.com/doodles/google-aliens-2000-2">http://www.google.com/doodles/google-aliens-2000-2</a><br />
@@ -344,7 +342,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 </tr>
 <tr class="even">
 <td><p>12月9日</p></td>
-<td><p>祝贺<a href="../Page/诺贝尔奖.md" title="wikilink">诺贝尔奖百年典礼</a></p></td>
+<td><p>祝贺<a href="../Page/诺贝尔奖.md" title="wikilink">诺贝尔奖</a>百年典礼</p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/google-celebrates-the-nobel-prize-centennial-award-ceremony">http://www.google.com/doodles/google-celebrates-the-nobel-prize-centennial-award-ceremony</a></p></td>
 </tr>
@@ -381,7 +379,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 </tr>
 <tr class="even">
 <td><p>2月8日</p></td>
-<td><p><a href="../Page/2002年冬季奥林匹克运动会.md" title="wikilink">2002年冬季奥林匹克运动会系列</a>：开幕</p></td>
+<td><p><a href="../Page/2002年冬季奥林匹克运动会.md" title="wikilink">2002年冬季奥林匹克运动会</a>系列：开幕</p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/winter-olympics-2002-opening-ceremonies">http://www.google.com/doodles/winter-olympics-2002-opening-ceremonies</a></p></td>
 </tr>
@@ -453,7 +451,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 </tr>
 <tr class="even">
 <td><p>3月6日</p></td>
-<td><p>纪念荷兰画家<a href="../Page/皮特·蒙德里安.md" title="wikilink">皮特·蒙德里安诞辰</a>130周年</p></td>
+<td><p>纪念荷兰画家<a href="../Page/皮特·蒙德里安.md" title="wikilink">皮特·蒙德里安</a>诞辰130周年</p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/piet-mondrians-130th-birthday">http://www.google.com/doodles/piet-mondrians-130th-birthday</a></p></td>
 </tr>
@@ -489,7 +487,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 </tr>
 <tr class="even">
 <td><p>5月20日-5月24日</p></td>
-<td><p><a href="../Page/呆伯特.md" title="wikilink">呆伯特系列</a></p></td>
+<td><p><a href="../Page/呆伯特.md" title="wikilink">呆伯特</a>系列</p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/dilbert-google-doodle-2002-1">http://www.google.com/doodles/dilbert-google-doodle-2002-1</a><br />
 <a href="http://www.google.com/doodles/dilbert-google-doodle-2002-2">http://www.google.com/doodles/dilbert-google-doodle-2002-2</a><br />
@@ -553,12 +551,12 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 
 | 时间    | 说明                                                                                                                    | 位置                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Doodle                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 4月24日 | 纪念[拉链发明者](https://zh.wikipedia.org/wiki/拉链 "wikilink")[吉迪昂·森貝克诞辰](../Page/吉迪昂·森貝克.md "wikilink")132周年                 | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/gideon-sundbacks-132nd-birthday>    |
-| 5月9日  | 纪念英國考古學家[霍華德·卡特诞辰](../Page/霍華德·卡特.md "wikilink")138周年                                                                 | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/howard-carters-138th-birthday>      |
+| 4月24日 | 纪念[拉链发明者](https://zh.wikipedia.org/wiki/拉链 "wikilink")[吉迪昂·森貝克](../Page/吉迪昂·森貝克.md "wikilink")诞辰132周年                 | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/gideon-sundbacks-132nd-birthday>    |
+| 5月9日  | 纪念英國考古學家[霍華德·卡特](../Page/霍華德·卡特.md "wikilink")诞辰138周年                                                                 | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/howard-carters-138th-birthday>      |
 | 5月13日 | 慶祝母親節                                                                                                                 | [加拿大](../Page/加拿大.md "wikilink"), [土耳其](../Page/土耳其.md "wikilink"), [意大利](../Page/意大利.md "wikilink"), Czech Republic, Lithuania, Slovakia, Peru, Venezuela, Ecuador, Brunei, Australia, [新加坡](../Page/新加坡.md "wikilink"), Slovenia, [中國](../Page/中國.md "wikilink"), Chile, Puerto Rico, Belgium, [德國](https://zh.wikipedia.org/wiki/德國 "wikilink"),[香港](../Page/香港.md "wikilink"), Netherlands, Denmark, Philippines, Finland, United States, Vietnam, Croatia, Switzerland, New Zealand, [巴西](../Page/巴西.md "wikilink"), Estonia, Uruguay, [印度](../Page/印度.md "wikilink"), [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink"), Austria, Latvia, Colombia, Greece, [日本](../Page/日本.md "wikilink"), [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink"), Cyprus | <http://www.google.com/doodles/mothers-day-2012>                   |
 | 5月14日 | 纪念濕折法发明者[吉澤 章](https://zh.wikipedia.org/wiki/吉澤_章 "wikilink")101歲生辰                                                   | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/akira-yoshizawas-101st-birthday>    |
 | 5月23日 | 纪念電子合成器发明者[羅伯特·穆格](https://zh.wikipedia.org/wiki/羅伯特·穆格 "wikilink")78歲生辰                                              | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/robert-moogs-78th-birthday>         |
-| 5月30日 | 纪念俄國皇室[复活节彩蛋珠寶設計師](../Page/复活节彩蛋.md "wikilink")[彼得·卡爾·法貝熱诞辰](https://zh.wikipedia.org/wiki/彼得·卡爾·法貝熱 "wikilink")166周年 | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/peter-carl-faberges-166th-birthday> |
+| 5月30日 | 纪念俄國皇室[复活节彩蛋](../Page/复活节彩蛋.md "wikilink")珠寶設計師[彼得·卡爾·法貝熱诞辰](https://zh.wikipedia.org/wiki/彼得·卡爾·法貝熱 "wikilink")166周年 | 全球                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <http://www.google.com/doodles/peter-carl-faberges-166th-birthday> |
 
 ## 2013年
 
@@ -570,7 +568,7 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 
 | 時間     | 說明                                                                   | 位置 | Doodle                                                                 |
 | ------ | -------------------------------------------------------------------- | -- | ---------------------------------------------------------------------- |
-| 11月14日 | 紀念胰島素注射療法發明人加拿大醫學家[弗雷德里克·班廷爵士](../Page/弗雷德里克·班廷.md "wikilink")125歲誕辰 | 全球 | <https://www.google.com/doodles/sir-frederick-bantings-125th-birthday> |
+| 11月14日 | 紀念胰島素注射療法發明人加拿大醫學家[弗雷德里克·班廷](../Page/弗雷德里克·班廷.md "wikilink")爵士125歲誕辰 | 全球 | <https://www.google.com/doodles/sir-frederick-bantings-125th-birthday> |
 
 ## 2017年
 
@@ -588,10 +586,10 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 | 3月8日  | 2019年[國際婦女節](https://zh.wikipedia.org/wiki/國際婦女節 "wikilink")                                                                                                                                                                        | 全球                                                                                                       | <https://www.google.com/doodles/international-womens-day-2019>          |
 | 3月9日  | [菲律賓舞蹈家](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[弗朗西絲卡公主·雷耶斯-艾奎諾](https://zh.wikipedia.org/wiki/弗朗西絲卡公主·雷耶斯-艾奎諾 "wikilink")([Francisca Reyes-Aquino](https://zh.wikipedia.org/wiki/Francisca_Reyes-Aquino "wikilink"))120歲冥誕。 | 全球、菲律賓                                                                                                   | <https://www.google.com/doodles/francisca-reyes-aquinos-120th-birthday> |
 | 3月12日 | 紀念[全球資訊網發明](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")30周年。                                                                                                                                                                    | 全球                                                                                                       | <https://www.google.com/doodles/30th-anniversary-of-the-world-wide-web> |
-| 3月15日 | 2019 年[匈牙利1956年革命紀念日](../Page/匈牙利1956年革命.md "wikilink")。                                                                                                                                                                            | 全球、[匈牙利](../Page/匈牙利.md "wikilink")                                                                      | <https://www.google.com/doodles/hungarian-national-day-2019>            |
+| 3月15日 | 2019 年[匈牙利1956年革命](../Page/匈牙利1956年革命.md "wikilink")紀念日。                                                                                                                                                                            | 全球、[匈牙利](../Page/匈牙利.md "wikilink")                                                                      | <https://www.google.com/doodles/hungarian-national-day-2019>            |
 | 3月17日 | 2019 年[聖派翠克節](https://zh.wikipedia.org/wiki/聖派翠克節 "wikilink")。                                                                                                                                                                      | 全球                                                                                                       | <https://www.google.com/doodles/st-patricks-day-2019>                   |
 | 3月17日 | 2019 年[兒童節 (孟加拉)](https://zh.wikipedia.org/wiki/兒童節_\(孟加拉\) "wikilink")。                                                                                                                                                            | 全球、[孟加拉](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")                                                   | <https://www.google.com/doodles/childrens-day-2019-bangladesh>          |
-| 3月18日 | 紀念日本發明家、[導盲磚發明者](../Page/導盲磚.md "wikilink")[三宅精一](../Page/三宅精一.md "wikilink")。                                                                                                                                                      | 全球、日本                                                                                                    | <https://www.google.com/doodles/celebrating-seiichi-miyake>             |
+| 3月18日 | 紀念日本發明家、[導盲磚](../Page/導盲磚.md "wikilink")發明者[三宅精一](../Page/三宅精一.md "wikilink")。                                                                                                                                                      | 全球、日本                                                                                                    | <https://www.google.com/doodles/celebrating-seiichi-miyake>             |
 | 3月19日 | 2019年父親節(中東與北非地區)。                                                                                                                                                                                                                  | 全球、中東與北非地區                                                                                               | <https://www.google.com/doodles/fathers-day-2019-multiple-countries>    |
 | 3月20日 | 2019年春分。([南半球](../Page/南半球.md "wikilink"))                                                                                                                                                                                          | 全球                                                                                                       | <https://www.google.com/doodles/fall-2019-southern-hemisphere>          |
 | 3月20日 | 2019年春分。([北半球](../Page/北半球.md "wikilink"))                                                                                                                                                                                          | 全球                                                                                                       | <https://www.google.com/doodles/spring-2019-northern-hemispher>         |
@@ -618,7 +616,6 @@ Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽�
 
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 
-[Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")
-[Category:列表索引](https://zh.wikipedia.org/wiki/Category:列表索引 "wikilink")
+[Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:列表索引](https://zh.wikipedia.org/wiki/Category:列表索引 "wikilink")
 
 1.

@@ -1,7 +1,4 @@
-**HTC
-One系列**是[宏達電旗下的旗艦](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機產品系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，第一款產品為[HTC
-One S](../Page/HTC_One_S.md "wikilink")，後繼系列為[HTC
-U系列](../Page/HTC_U系列.md "wikilink")。
+**HTC One系列**是[宏達電旗下的旗艦](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機產品系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，第一款產品為[HTC One S](../Page/HTC_One_S.md "wikilink")，後繼系列為[HTC U系列](../Page/HTC_U系列.md "wikilink")。
 
 ## 旗下產品
 
@@ -16,27 +13,20 @@ U系列](../Page/HTC_U系列.md "wikilink")。
   - [One VX](https://zh.wikipedia.org/wiki/HTC_One_VX "wikilink")
   - [One X（One X+）](../Page/HTC_One_X.md "wikilink")
   - [One XC](https://zh.wikipedia.org/wiki/HTC_One_XC "wikilink")
-  - [One XL（One
-    XL+）](https://zh.wikipedia.org/wiki/HTC_One_XL "wikilink")
+  - [One XL（One XL+）](https://zh.wikipedia.org/wiki/HTC_One_XL "wikilink")
   - [One XT](https://zh.wikipedia.org/wiki/HTC_One_XT "wikilink")
-  - [One (M7)（One (M7) Google Play Edition·J
-    One）](../Page/HTC_One_\(M7\).md "wikilink")
+  - [One (M7)（One (M7) Google Play Edition·J One）](../Page/HTC_One_\(M7\).md "wikilink")
   - [One Max](../Page/HTC_One_Max.md "wikilink")
   - [One Mini](../Page/HTC_One_Mini.md "wikilink")
-  - [One
-    (E8)（One時尚版）](https://zh.wikipedia.org/wiki/HTC_One_\(E8\) "wikilink")
-  - [One (M8)（One (M8) Google Play Edition·One (M8) Harman Kardon
-    Edition·One (M8 Eye)·One M8S）](../Page/HTC_One_\(M8\).md "wikilink")
+  - [One (E8)（One時尚版）](https://zh.wikipedia.org/wiki/HTC_One_\(E8\) "wikilink")
+  - [One (M8)（One (M8) Google Play Edition·One (M8) Harman Kardon Edition·One (M8 Eye)·One M8S）](../Page/HTC_One_\(M8\).md "wikilink")
   - [One Mini 2（One Remix）](../Page/HTC_One_Mini_2.md "wikilink")
   - [One A9](../Page/HTC_One_A9.md "wikilink")
   - [One A9s](https://zh.wikipedia.org/wiki/HTC_One_A9s "wikilink")
-  - [One E9（One
-    E9+）](https://zh.wikipedia.org/wiki/HTC_One_E9 "wikilink")
+  - [One E9（One E9+）](https://zh.wikipedia.org/wiki/HTC_One_E9 "wikilink")
   - [One E9S](https://zh.wikipedia.org/wiki/HTC_One_E9S "wikilink")
-  - [One M9（One M9 Prime Camera Edition·One M9 OIS光學防抖版·One
-    M9(S)）](../Page/HTC_One_M9.md "wikilink")
-  - [One M9+（One M9+相機升級版·One
-    M9+光學防手震極速對焦）](../Page/HTC_One_M9+.md "wikilink")
+  - [One M9（One M9 Prime Camera Edition·One M9 OIS光學防抖版·One M9(S)）](../Page/HTC_One_M9.md "wikilink")
+  - [One M9+（One M9+相機升級版·One M9+光學防手震極速對焦）](../Page/HTC_One_M9+.md "wikilink")
   - [One ME](https://zh.wikipedia.org/wiki/HTC_One_ME "wikilink")
   - [One X9](../Page/HTC_One_X9.md "wikilink")
   - [One S9](https://zh.wikipedia.org/wiki/HTC_One_S9 "wikilink")
@@ -437,8 +427,7 @@ VGA front camera</p></td>
 
 ## 參考資料
 
-[Category:HTC](https://zh.wikipedia.org/wiki/Category:HTC "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:HTC](https://zh.wikipedia.org/wiki/Category:HTC "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 
 1.
 2.

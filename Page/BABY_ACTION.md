@@ -1,7 +1,4 @@
-《**BABY
-ACTION**》是日本女子樂隊[SCANDAL第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")3張的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2011年8月10日由[Epic
-Records Japan
-Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**BABY ACTION**》是日本女子樂隊[SCANDAL第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")3張的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2011年8月10日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 收錄曲目
 
@@ -49,6 +46,4 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
   - 「SCANDALのテーマ」MUSIC VIDEO
   - 「ザ・ドッキリドリーマー大作戦 -SCANDAL LIVE TOUR 2011 Dreamer」
 
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")

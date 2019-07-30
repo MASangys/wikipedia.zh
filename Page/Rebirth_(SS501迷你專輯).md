@@ -1,29 +1,18 @@
-**《Rebirth》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，原本計劃於2010年8月初推出的專輯，但因為專輯主打歌出現問題，不得不推遲專輯的發售日期。後又因隊長[金賢重於日本宣傳期間罹患](../Page/金賢重.md "wikilink")[H1N1迫使專輯再次延後發行](https://zh.wikipedia.org/wiki/H1N1 "wikilink")，最終正式於2010年10月發行的迷你專輯。韓國發行分為限量特別盤、普通盤兩種版本，專輯音源於10月20日韓國時間凌晨0時通過Mnet和melon公開，同時限量特別盤正式販售，10月22日發售普通盤。發行首日的銷售量位居韓國各大銷售量統計排行榜第一名。首波主打單曲《LOVE
-LIKE THIS》在Mnet.com等流行音樂排行榜中登上第1位。而在網路上曝光沒幾天的音樂錄影帶預告片也立刻突破4萬次的點擊數。
+**《Rebirth》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，原本計劃於2010年8月初推出的專輯，但因為專輯主打歌出現問題，不得不推遲專輯的發售日期。後又因隊長[金賢重](../Page/金賢重.md "wikilink")於日本宣傳期間罹患[H1N1迫使專輯再次延後發行](https://zh.wikipedia.org/wiki/H1N1 "wikilink")，最終正式於2010年10月發行的迷你專輯。韓國發行分為限量特別盤、普通盤兩種版本，專輯音源於10月20日韓國時間凌晨0時通過Mnet和melon公開，同時限量特別盤正式販售，10月22日發售普通盤。發行首日的銷售量位居韓國各大銷售量統計排行榜第一名。首波主打單曲《LOVE LIKE THIS》在Mnet.com等流行音樂排行榜中登上第1位。而在網路上曝光沒幾天的音樂錄影帶預告片也立刻突破4萬次的點擊數。
 
-此外此張專輯是繼2008年3月發行迷你3輯\[DEJAVU\]，成員們陸續開始展開個人活動後時隔**一年零七個月**回歸組合活動的作品。期間[SS501](../Page/SS501.md "wikilink")－1st《THE
-FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》正如火如荼的進行中。
+此外此張專輯是繼2008年3月發行迷你3輯\[DEJAVU\]，成員們陸續開始展開個人活動後時隔**一年零七個月**回歸組合活動的作品。期間[SS501](../Page/SS501.md "wikilink")－1st《THE FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》正如火如荼的進行中。
 
 ## 專輯製作
 
 ### 錄製與音樂\[1\]
 
-  - 主打歌曲《**LOVE LIKE
-    THIS**》率先在[SS501](../Page/SS501.md "wikilink")－1st《THE
-    FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》中發表。由STEVEN LEE, DREW RYAN SCOTT,
-    SEAN ALEXANDER作曲，以Up Tempo
-    Synthpop節奏舞曲讓SS501煥然一新。而具爆發性又幹練的編曲，特別請來由曾為美國頂級歌手Usher,
-    Kanye West, John Legend等的歌曲混音並6次得獲格萊美獎的明星混音師KEN
-    LEWIS親自參與混音，為其整體質量更上層樓。同時更邀請世界著名的音樂製作人STEVEN
-    LEE進行曲目製作。VOCAL製作編曲方面則是由美國組合VARSITY FANCLUB的DREW RYAN
-    SCOTT參與，令人領略到其獨特的和音。舞蹈搭配團員自創的L-O-V-E手勢，俏皮又充滿男性魅力的舞台設計，亦使SS501成功揮別昨日偶像音樂框架，展現前所未見的輕熟新風格。
-  - 此外特別值得一提的是歌曲《**Obsess(중독..)**（意亂情迷）》是由[SS501年紀排行最年幼的成員](../Page/SS501.md "wikilink")[金亨俊與其弟共同創作的曲子](../Page/金亨俊.md "wikilink")〈H\&B，分別指的是金亨俊&金起范〉，而《**완.두.콩**（豌.豆.公.主）》則是由[SS501五位成員共同填詞是首專為歌迷創作專屬的幸福情歌](../Page/SS501.md "wikilink")。
+  - 主打歌曲《**LOVE LIKE THIS**》率先在[SS501](../Page/SS501.md "wikilink")－1st《THE FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》中發表。由STEVEN LEE, DREW RYAN SCOTT, SEAN ALEXANDER作曲，以Up Tempo Synthpop節奏舞曲讓SS501煥然一新。而具爆發性又幹練的編曲，特別請來由曾為美國頂級歌手Usher, Kanye West, John Legend等的歌曲混音並6次得獲格萊美獎的明星混音師KEN LEWIS親自參與混音，為其整體質量更上層樓。同時更邀請世界著名的音樂製作人STEVEN LEE進行曲目製作。VOCAL製作編曲方面則是由美國組合VARSITY FANCLUB的DREW RYAN SCOTT參與，令人領略到其獨特的和音。舞蹈搭配團員自創的L-O-V-E手勢，俏皮又充滿男性魅力的舞台設計，亦使SS501成功揮別昨日偶像音樂框架，展現前所未見的輕熟新風格。
+  - 此外特別值得一提的是歌曲《**Obsess(중독..)**（意亂情迷）》是由[SS501](../Page/SS501.md "wikilink")年紀排行最年幼的成員[金亨俊](../Page/金亨俊.md "wikilink")與其弟共同創作的曲子〈H\&B，分別指的是金亨俊&金起范〉，而《**완.두.콩**（豌.豆.公.主）》則是由[SS501](../Page/SS501.md "wikilink")五位成員共同填詞是首專為歌迷創作專屬的幸福情歌。
 
 ### 造型
 
-  - 10月12日首次公開專輯造型照，在公開的照片中[SS501成員著重了](../Page/SS501.md "wikilink")**眼部妝彩**，用強烈的**煙熏化妝形式**營造夢幻的氣氛，表現了男性的性感和強勢感覺，並且擁有多樣的風格。意圖要向等待了很長時間的歌迷們表達謝意。並且隨後在10月14日和16日陸續公開成員個別的照片。
-  - 新專輯“Rebirth”新造型的打歌服，先在主打歌“Love Like
-    This”的音樂錄影帶中披露這套頗具話題性的衣服，這身衣服上面印滿**刺青的圖騰**，深具男性魅力。而這專屬的打歌服是隊長金賢重代言的品牌設計師獨家為[SS501所設計的](../Page/SS501.md "wikilink")，為了更突出男性魅力以及性感的體態，以經典主色白和黑為外衣的重點色，再搭配上內裡刺青圖騰的緊身上衣，強調有點野性的深沉男人味，希望讓大家看到脫胎換骨的形象，正式從小孩般可愛的少男團體轉型。
+  - 10月12日首次公開專輯造型照，在公開的照片中[SS501](../Page/SS501.md "wikilink")成員著重了**眼部妝彩**，用強烈的**煙熏化妝形式**營造夢幻的氣氛，表現了男性的性感和強勢感覺，並且擁有多樣的風格。意圖要向等待了很長時間的歌迷們表達謝意。並且隨後在10月14日和16日陸續公開成員個別的照片。
+  - 新專輯“Rebirth”新造型的打歌服，先在主打歌“Love Like This”的音樂錄影帶中披露這套頗具話題性的衣服，這身衣服上面印滿**刺青的圖騰**，深具男性魅力。而這專屬的打歌服是隊長金賢重代言的品牌設計師獨家為[SS501](../Page/SS501.md "wikilink")所設計的，為了更突出男性魅力以及性感的體態，以經典主色白和黑為外衣的重點色，再搭配上內裡刺青圖騰的緊身上衣，強調有點野性的深沉男人味，希望讓大家看到脫胎換骨的形象，正式從小孩般可愛的少男團體轉型。
 
 ## 曲目
 
@@ -68,9 +57,7 @@ FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》正如火如荼的進行中。
 </tbody>
 </table>
 
-  - <small>發行版本另公開[Obsess(중독..)（意亂情迷） THE FIRST PERSONA ASIA TOUR亞洲巡迴演唱會
-    首爾場LIVE MV](http://www.youtube.com/watch?v=zu8K-6RNxVk)於MTV
-    Taiwan首播</small>
+  - <small>發行版本另公開[Obsess(중독..)（意亂情迷） THE FIRST PERSONA ASIA TOUR亞洲巡迴演唱會 首爾場LIVE MV](http://www.youtube.com/watch?v=zu8K-6RNxVk)於MTV Taiwan首播</small>
 
 ## 銷售量
 
@@ -249,10 +236,7 @@ FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》正如火如荼的進行中。
 
 ### 宣傳
 
-2009年11月27日[SS501的所屬經紀公司](../Page/SS501.md "wikilink")[DSP
-Media透過官方網站表示](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[SS501](../Page/SS501.md "wikilink")“REBIRTH
-”宣傳活動從10月28日開始至11月29日结束。因SS501發行此張迷你專輯期間正進行1st《THE FIRST PERSONA ASIA
-TOUR亞洲巡迴演唱會》，為首次演唱會進行順利而結束此次為期一個月的專輯宣傳活動\[3\]。
+2009年11月27日[SS501](../Page/SS501.md "wikilink")的所屬經紀公司[DSP Media透過官方網站表示](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[SS501](../Page/SS501.md "wikilink")“REBIRTH ”宣傳活動從10月28日開始至11月29日结束。因SS501發行此張迷你專輯期間正進行1st《THE FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》，為首次演唱會進行順利而結束此次為期一個月的專輯宣傳活動\[3\]。
 
   - 回歸紀念蓋章會
 
@@ -268,9 +252,7 @@ TOUR亞洲巡迴演唱會》，為首次演唱會進行順利而結束此次為�
 
 ### 插曲
 
-2011年11月13日[SS501歌曲](../Page/SS501.md "wikilink")《LOVE LIKE
-THIS》於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")」獲得一位，因隔日11月14日[SS501將於上海舉行](../Page/SS501.md "wikilink")《THE
-FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》故缺席演出，獲獎當下製作單位即LIVE電話連線祝賀成員\[4\]。
+2011年11月13日[SS501](../Page/SS501.md "wikilink")歌曲《LOVE LIKE THIS》於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")「[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")」獲得一位，因隔日11月14日[SS501](../Page/SS501.md "wikilink")將於上海舉行《THE FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》故缺席演出，獲獎當下製作單位即LIVE電話連線祝賀成員\[4\]。
 
 ## 註解
 
@@ -308,10 +290,7 @@ FIRST PERSONA ASIA TOUR亞洲巡迴演唱會》故缺席演出，獲獎當下製
 
   - [金亨俊日本官方網站](http://www.kimhyungjun.jp/)
 
-[Category:SS501音樂專輯](https://zh.wikipedia.org/wiki/Category:SS501音樂專輯 "wikilink")
-[Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
+[Category:SS501音樂專輯](https://zh.wikipedia.org/wiki/Category:SS501音樂專輯 "wikilink") [Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
 
 1.
 2.

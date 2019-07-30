@@ -1,4 +1,4 @@
-**琴似車站**（）是一由[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[西區](../Page/西區_\(札幌市\).md "wikilink")，是JR北海道[函館本線沿線車站之一](../Page/函館本線.md "wikilink")，屬於[JR北海道本社](https://zh.wikipedia.org/wiki/北海道旅客鐵道本社 "wikilink")（札幌總部）的直轄範圍，由JR北海道直接派駐人員營運。
+**琴似車站**（）是一由[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[西區](../Page/西區_\(札幌市\).md "wikilink")，是JR北海道[函館本線](../Page/函館本線.md "wikilink")沿線車站之一，屬於[JR北海道本社](https://zh.wikipedia.org/wiki/北海道旅客鐵道本社 "wikilink")（札幌總部）的直轄範圍，由JR北海道直接派駐人員營運。
 
 ## 簡介
 
@@ -6,11 +6,11 @@
 
 除了JR所屬的琴似車站外，[札幌市營地下鐵](../Page/札幌市營地下鐵.md "wikilink")[東西線沿線也存在一相同站名的地下鐵車站](../Page/東西線_\(札幌市營地下鐵\).md "wikilink")。兩站之間相聚約在800公尺左右，因此勉強可以利用步行方式互相轉車。
 
-名稱源自[阿伊努語的](../Page/阿伊努語.md "wikilink")「kot-ne-i」，意思是「凹陷的地方」\[1\]。
+名稱源自[阿伊努語](../Page/阿伊努語.md "wikilink")的「kot-ne-i」，意思是「凹陷的地方」\[1\]。
 
 ## 車站結構
 
-島式月台1面2線與無月台折返線的高架車站。月台與相鄰的[桑園站](https://zh.wikipedia.org/wiki/桑園站 "wikilink")、[札幌站同樣以屋頂和牆壁覆蓋](../Page/札幌站.md "wikilink")。
+島式月台1面2線與無月台折返線的高架車站。月台與相鄰的[桑園站](https://zh.wikipedia.org/wiki/桑園站 "wikilink")、[札幌站](../Page/札幌站.md "wikilink")同樣以屋頂和牆壁覆蓋。
 
 ### 月台配置
 
@@ -68,8 +68,7 @@
 
   -
   -
-  - 《》，[學研控股學習研究社](../Page/學研控股.md "wikilink") 出版（2003年2月），ISBN
-    978-4054018167
+  - 《》，[學研控股](../Page/學研控股.md "wikilink")學習研究社 出版（2003年2月），ISBN 978-4054018167
 
   - 《道內時刻表》，交通新聞社（日本札幌）出版
 
@@ -82,18 +81,12 @@
 ## 相關條目
 
   - [日本鐵路車站列表 Ko](../Page/日本鐵路車站列表_Ko.md "wikilink")
-  - [琴似車站
-    (札幌市營地下鐵)](../Page/琴似車站_\(札幌市營地下鐵\).md "wikilink")：為在本站附近、站名相同的地下鐵車站。
+  - [琴似車站 (札幌市營地下鐵)](../Page/琴似車站_\(札幌市營地下鐵\).md "wikilink")：為在本站附近、站名相同的地下鐵車站。
 
 ## 外部連結
 
   - [琴似車站（JR北海道）](http://www.jrhokkaido.co.jp/network/barrier/055/kotoni-map.html)
 
-[Category:日本鐵路車站_Ko](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ko "wikilink")
-[Category:函館本線車站](https://zh.wikipedia.org/wiki/Category:函館本線車站 "wikilink")
-[Category:西區鐵路車站_(札幌市)](https://zh.wikipedia.org/wiki/Category:西區鐵路車站_\(札幌市\) "wikilink")
-[Category:1880年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1880年啟用的鐵路車站 "wikilink")
-[Category:官營幌內鐵道車站](https://zh.wikipedia.org/wiki/Category:官營幌內鐵道車站 "wikilink")
-[Category:北海道炭礦鐵道車站](https://zh.wikipedia.org/wiki/Category:北海道炭礦鐵道車站 "wikilink")
+[Category:日本鐵路車站_Ko](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ko "wikilink") [Category:函館本線車站](https://zh.wikipedia.org/wiki/Category:函館本線車站 "wikilink") [Category:西區鐵路車站_(札幌市)](https://zh.wikipedia.org/wiki/Category:西區鐵路車站_\(札幌市\) "wikilink") [Category:1880年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1880年啟用的鐵路車站 "wikilink") [Category:官營幌內鐵道車站](https://zh.wikipedia.org/wiki/Category:官營幌內鐵道車站 "wikilink") [Category:北海道炭礦鐵道車站](https://zh.wikipedia.org/wiki/Category:北海道炭礦鐵道車站 "wikilink")
 
 1.

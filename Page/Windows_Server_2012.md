@@ -1,32 +1,20 @@
-****，开发代号为Windows Server 8，是第五個[Windows
-Server的版本](../Page/Windows_Server.md "wikilink")。这是[Windows
-8的服务器版本](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，是微軟繼[Windows
-Server 2008 R2後推出的Windows](../Page/Windows_Server_2008_R2.md "wikilink")
-Server系列產品。在开发过程中，它放出过两个版本：开发者预览版与公开测试版。从2012年9月4日開始，該軟件在全球范围内通過多種渠道提供給客戶。
+****，开发代号为Windows Server 8，是第五個[Windows Server的版本](../Page/Windows_Server.md "wikilink")。这是[Windows 8的服务器版本](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，是微軟繼[Windows Server 2008 R2後推出的Windows](../Page/Windows_Server_2008_R2.md "wikilink") Server系列產品。在开发过程中，它放出过两个版本：开发者预览版与公开测试版。从2012年9月4日開始，該軟件在全球范围内通過多種渠道提供給客戶。
 
-不同於上一代，Windows Server
-2012不支持[Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")（[IA-64](https://zh.wikipedia.org/wiki/IA-64 "wikilink")）或[IA-32架构的](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")。Windows
-Server 2012有四個版本，较Windows Server 2008
-R2做了很多改进。例如改进版本的Hyper-V，IP地址管理角色，新的Windows任务管理器，以及新的ReFS文件系統。同时，它也包含Metro用户界面，Windows
-Server 2012的这些功能收到很多正面评价。
+不同於上一代，Windows Server 2012不支持[Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")（[IA-64](https://zh.wikipedia.org/wiki/IA-64 "wikilink")）或[IA-32架构的](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")。Windows Server 2012有四個版本，较Windows Server 2008 R2做了很多改进。例如改进版本的Hyper-V，IP地址管理角色，新的Windows任务管理器，以及新的ReFS文件系統。同时，它也包含Metro用户界面，Windows Server 2012的这些功能收到很多正面评价。
 
 是一套和相對應的[伺服器操作系统](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，兩者擁有很多相同功能。兩者在開發時共用大多數的程式碼：類似和、和之間的關係。
 
 延續成功的經驗而設計的雲端最佳化平台。配備最新的虛擬化技術和簡單控制管理等特性、相容於任何雲端架構的設計與整合行動裝置管理等嶄新功能，令企業可建置私有雲端或是混合雲端，並有效降低成本。\[1\]
 
-Windows Server 2012的升级版Windows Server 2012
-R2。于2013年6月3日发布预览版，2013年10月17日发布正式版。
+Windows Server 2012的升级版Windows Server 2012 R2。于2013年6月3日发布预览版，2013年10月17日发布正式版。
 
 ## 更新
 
-本次更新支援從[Windows Server
-2008和Windows](../Page/Windows_Server_2008.md "wikilink") Server 2008
-R2升级至Windows Server 2012 ，低於此版本的作業系統（如：Windows Server 2003）則無法進行更新。\[2\]
+本次更新支援從[Windows Server 2008和Windows](../Page/Windows_Server_2008.md "wikilink") Server 2008 R2升级至Windows Server 2012 ，低於此版本的作業系統（如：Windows Server 2003）則無法進行更新。\[2\]
 
 ## 系統需求
 
-微软已表示Windows Server
-2012不支持[IA-32或](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[IA-64](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[安腾处理器](../Page/安腾.md "wikilink")。\[3\]
+微软已表示Windows Server 2012不支持[IA-32或](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[IA-64](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[安腾](../Page/安腾.md "wikilink")处理器。\[3\]
 
 | 架构                                                       | [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") |
 | -------------------------------------------------------- | --------------------------------------------------------- |
@@ -38,11 +26,9 @@ R2升级至Windows Server 2012 ，低於此版本的作業系統（如：Windows
 
 ## 版本
 
-Windows Server 2012有4種版本：Foundation, Essentials, Standard and
-Datacenter.\[5\]\[6\]\[7\]\[8\]\[9\]
+Windows Server 2012有4種版本：Foundation, Essentials, Standard and Datacenter.\[5\]\[6\]\[7\]\[8\]\[9\]
 
-原本Windows Server 2008 R2包含企業版, 但至Windows Server 2012
-企業版已消失,表示原先的企業版功能已由Datacenter版取代及加強。
+原本Windows Server 2008 R2包含企業版, 但至Windows Server 2012 企業版已消失,表示原先的企業版功能已由Datacenter版取代及加強。
 
 <table>
 <thead>
@@ -253,12 +239,7 @@ Datacenter</p></th>
 
 ## Windows Server 2012 R2
 
-Windows Server 2012 R2於2013年10月17日發行。\[11\]這是[Windows
-8.1的伺服器版本](../Page/Windows_8.1.md "wikilink")，在2013年6月3日的[TechEd北美公布](https://zh.wikipedia.org/wiki/TechEd "wikilink")。\[12\]据称Windows
-Server 2012
-R2数据表在2013年5月31日出版，有四个操作系统版本：Foundation、[Essentials](https://zh.wikipedia.org/wiki/Windows_Server_Essentials "wikilink")、Standard和Datacenter。\[13\]Windows
-Server 2012，Datacenter和Standard版功能相同，变化只有授权（特别是虚拟实例授权）
-。Essentials版和Datacenter和Standard产品功能相同，但部分受限。\[14\]
+Windows Server 2012 R2於2013年10月17日發行。\[11\]這是[Windows 8.1的伺服器版本](../Page/Windows_8.1.md "wikilink")，在2013年6月3日的[TechEd北美公布](https://zh.wikipedia.org/wiki/TechEd "wikilink")。\[12\]据称Windows Server 2012 R2数据表在2013年5月31日出版，有四个操作系统版本：Foundation、[Essentials](https://zh.wikipedia.org/wiki/Windows_Server_Essentials "wikilink")、Standard和Datacenter。\[13\]Windows Server 2012，Datacenter和Standard版功能相同，变化只有授权（特别是虚拟实例授权） 。Essentials版和Datacenter和Standard产品功能相同，但部分受限。\[14\]
 
 ## 參考文獻
 
@@ -268,8 +249,7 @@ Server 2012，Datacenter和Standard版功能相同，变化只有授权（特别
 
 </div>
 
-[Category:Windows服务器](https://zh.wikipedia.org/wiki/Category:Windows服务器 "wikilink")
-[Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
+[Category:Windows服务器](https://zh.wikipedia.org/wiki/Category:Windows服务器 "wikilink") [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
 
 1.  <http://www.taiwannews.com.tw/etn/news_content.php?id=1904385>
 

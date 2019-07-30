@@ -1,4 +1,4 @@
-**磐田IC**（平假名：いわたインターチェンジ）是位於[靜岡縣](../Page/靜岡縣.md "wikilink")[磐田市的](../Page/磐田市.md "wikilink")[東名高速道路之](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道前身是[休息站](https://zh.wikipedia.org/wiki/休息站 "wikilink")。
+**磐田IC**（平假名：いわたインターチェンジ）是位於[靜岡縣](../Page/靜岡縣.md "wikilink")[磐田市](../Page/磐田市.md "wikilink")的[東名高速道路之](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道前身是[休息站](https://zh.wikipedia.org/wiki/休息站 "wikilink")。
 
 ## 連接道路
 
@@ -14,8 +14,7 @@
 
 ## 歷史
 
-  - 1969年2月1日 -
-    [東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[岡崎IC至](https://zh.wikipedia.org/wiki/岡崎IC "wikilink")[靜岡IC開通](https://zh.wikipedia.org/wiki/靜岡IC "wikilink")，此磐田原PA啟用，休息站的位置是現在交流道位置。
+  - 1969年2月1日 - [東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[岡崎IC至](https://zh.wikipedia.org/wiki/岡崎IC "wikilink")[靜岡IC開通](https://zh.wikipedia.org/wiki/靜岡IC "wikilink")，此磐田原PA啟用，休息站的位置是現在交流道位置。
   - 1997年5月31日 - 休息站停用。
   - 1999年4月4日 - 磐田IC啟用。
 
@@ -42,10 +41,7 @@
 ## 鄰近設施
 
   - [東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")
-    (15)[袋井IC](https://zh.wikipedia.org/wiki/袋井IC "wikilink") -
-    (15-1)**磐田IC** -
-    (15-2)[遠州豐田PA/SIC](https://zh.wikipedia.org/wiki/遠州豐田PA "wikilink")
-    - (16)[濱松IC](https://zh.wikipedia.org/wiki/濱松IC "wikilink")
+    (15)[袋井IC](https://zh.wikipedia.org/wiki/袋井IC "wikilink") - (15-1)**磐田IC** - (15-2)[遠州豐田PA/SIC](https://zh.wikipedia.org/wiki/遠州豐田PA "wikilink") - (16)[濱松IC](https://zh.wikipedia.org/wiki/濱松IC "wikilink")
 
 ## 相關項目
 
@@ -55,5 +51,4 @@
 
   - [中日本高速道路(東名高速)](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink")
-[Category:靜岡縣交流道](https://zh.wikipedia.org/wiki/Category:靜岡縣交流道 "wikilink")
+[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink") [Category:靜岡縣交流道](https://zh.wikipedia.org/wiki/Category:靜岡縣交流道 "wikilink")

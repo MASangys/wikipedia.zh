@@ -1,4 +1,4 @@
-**北京地铁DKZ5型电动车组**是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[13号线运营](../Page/北京地铁13号线.md "wikilink")。
+**北京地铁DKZ5型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[13号线运营](../Page/北京地铁13号线.md "wikilink")。
 
 ## 简介
 
@@ -6,19 +6,11 @@ DKZ5型首辆于2002年生产，车头为蓝色涂装，侧面为银灰色涂装
 
 ## 列车内部
 
-[201606_Interior_of_DKZ5.jpg](https://zh.wikipedia.org/wiki/File:201606_Interior_of_DKZ5.jpg "fig:201606_Interior_of_DKZ5.jpg")
-本列车为鼓型车体，车门为电动[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，每节车厢共4对车门；另外每节车厢连接处有车门连接，可自动关闭。车门上方安装有LED显示屏，无闪灯图。经过改装后的列车除了外装更换，内部也做了数项更换，如贯通道取消隔门，改为大断面通道，车门上方的LED走字屏改为13号线模仿其他较新线路风格的单点带方向箭头的闪灯图，牵引系统也进行了更新。
+[201606_Interior_of_DKZ5.jpg](https://zh.wikipedia.org/wiki/File:201606_Interior_of_DKZ5.jpg "fig:201606_Interior_of_DKZ5.jpg") 本列车为鼓型车体，车门为电动[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，每节车厢共4对车门；另外每节车厢连接处有车门连接，可自动关闭。车门上方安装有LED显示屏，无闪灯图。经过改装后的列车除了外装更换，内部也做了数项更换，如贯通道取消隔门，改为大断面通道，车门上方的LED走字屏改为13号线模仿其他较新线路风格的单点带方向箭头的闪灯图，牵引系统也进行了更新。
 
 ## 列车图片
 
-Image:北京城鐵(13線)列車.jpg|H413号列车在[西直门站](https://zh.wikipedia.org/wiki/西直门站 "wikilink")
-Image:北京城鐵車廂外部.JPG|H413号列车在[东直门站](../Page/东直门站.md "wikilink")
-Image:Metro Line 13 in BJ.jpg|H451号列车
-Image:L13train.JPG|H455号列车在[五道口站](https://zh.wikipedia.org/wiki/五道口站 "wikilink")
-Image:Line 13 Train DKZ5 H426, Beijing Subway
-20120403.jpg|H426号列车行驶在[上地站至](../Page/上地站.md "wikilink")[五道口站区间](https://zh.wikipedia.org/wiki/五道口站 "wikilink")
-Image:Zhichunlu station (line 13)
-20130204.jpg|H423号列车在[知春路站](https://zh.wikipedia.org/wiki/知春路站 "wikilink")
+Image:北京城鐵(13線)列車.jpg|H413号列车在[西直门站](https://zh.wikipedia.org/wiki/西直门站 "wikilink") Image:北京城鐵車廂外部.JPG|H413号列车在[东直门站](../Page/东直门站.md "wikilink") Image:Metro Line 13 in BJ.jpg|H451号列车 Image:L13train.JPG|H455号列车在[五道口站](https://zh.wikipedia.org/wiki/五道口站 "wikilink") Image:Line 13 Train DKZ5 H426, Beijing Subway 20120403.jpg|H426号列车行驶在[上地站](../Page/上地站.md "wikilink")至[五道口站区间](https://zh.wikipedia.org/wiki/五道口站 "wikilink") Image:Zhichunlu station (line 13) 20130204.jpg|H423号列车在[知春路站](https://zh.wikipedia.org/wiki/知春路站 "wikilink")
 
 ## 编组
 
@@ -80,14 +72,14 @@ Image:Zhichunlu station (line 13)
 
 ### 第2部分
 
-列车从[北京地铁车辆厂出发](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场的联络线](../Page/宋家庄停车场.md "wikilink")，到达[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后通过[5号线到达](../Page/北京地铁5号线.md "wikilink")[天通苑南站](../Page/天通苑南站.md "wikilink")，后通过与[13号线的联络线进入](../Page/北京地铁13号线.md "wikilink")[13号线](../Page/北京地铁13号线.md "wikilink")，最终进入[回龙观车辆段](https://zh.wikipedia.org/wiki/回龙观车辆段 "wikilink")。
+列车从[北京地铁车辆厂出发](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")的联络线，到达[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后通过[5号线到达](../Page/北京地铁5号线.md "wikilink")[天通苑南站](../Page/天通苑南站.md "wikilink")，后通过与[13号线的联络线进入](../Page/北京地铁13号线.md "wikilink")[13号线](../Page/北京地铁13号线.md "wikilink")，最终进入[回龙观车辆段](https://zh.wikipedia.org/wiki/回龙观车辆段 "wikilink")。
 
 ## 事故
 
   - 2005年11月21日13:55分左右，一列编号为H454的DKZ5列车在[回龙观车辆段试车线调试运行时](https://zh.wikipedia.org/wiki/回龙观车辆段 "wikilink")，因列车失控冲出轨道，使得[13号线](../Page/北京地铁13号线.md "wikilink")[东直门至](../Page/东直门站.md "wikilink")[西直门方向停止使用](https://zh.wikipedia.org/wiki/西直门站 "wikilink")，导致[13号线服务受阻](../Page/北京地铁13号线.md "wikilink")。直至20:00左右，[13号线服务完全恢复](../Page/北京地铁13号线.md "wikilink")\[3\]。
-  - 2007年9月4日8时左右，一辆DKZ5列车由北向南行驶到[上地站时](../Page/上地站.md "wikilink")，突发故障，导致[13号线全线瘫痪](../Page/北京地铁13号线.md "wikilink")38分钟\[4\]，事故造成数千乘客出行受影响。
+  - 2007年9月4日8时左右，一辆DKZ5列车由北向南行驶到[上地站](../Page/上地站.md "wikilink")时，突发故障，导致[13号线全线瘫痪](../Page/北京地铁13号线.md "wikilink")38分钟\[4\]，事故造成数千乘客出行受影响。
   - 2008年9月16日8时左右，一辆DKZ5列车由[西直门开往](https://zh.wikipedia.org/wiki/西直门站 "wikilink")[东直门时](../Page/东直门站.md "wikilink")，在[西直门站附近突发故障](https://zh.wikipedia.org/wiki/西直门站 "wikilink")，导致[13号线停运](../Page/北京地铁13号线.md "wikilink")20分钟\[5\]。
-  - 2011年8月3日7时左右，一辆DKZ5列车在[上地站发生故障](../Page/上地站.md "wikilink")，车内有浓烟冒出\[6\]，但是据地铁公司相关负责人称，列车冒烟的传言并不属实。
+  - 2011年8月3日7时左右，一辆DKZ5列车在[上地站](../Page/上地站.md "wikilink")发生故障，车内有浓烟冒出\[6\]，但是据地铁公司相关负责人称，列车冒烟的传言并不属实。
 
 ## 资料来源
 
@@ -97,21 +89,11 @@ Image:Zhichunlu station (line 13)
   - [北京地铁车辆装备有限公司](https://web.archive.org/web/20130116163659/http://www.bsrse.com/)
   - [DKZ5型列车出站视频](http://v.youku.com/v_show/id_XNTI5NDczMjg0.html)
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")
 
-1.  [北京交通广播网:北京地铁13号线车厢全变6节](http://fm1039.rbc.cn/2009/200932694746.htm)
-     2009年3月26日查看
-2.  [北京地铁:\#铁丝爱分享\#话说骷髅喵变形后会是介个样子\[偷笑](http://sg.weibo.com/user/bjsubway/3832337001338716)
-    via@13号线回龙观维修中心\]
-3.  [中国网:北京地铁13号线列车冲出试车线](http://www.china.com.cn/chinese/news/1036983.htm)
-    2012年12月25日查看
-4.  [人民网:北京13号线地铁瘫痪38分钟
-    系机车故障所致](http://house.people.com.cn/GB/98386/100080/100369/6217930.html)
-    2007年9月5日
-5.  [网易新闻:北京地铁13号线列车因故障停运20分钟](http://news.163.com/08/0917/07/4M1CEDLD000120GU.html)
-    2008年9月17日
-6.  [中新网:北京城铁13号线列车早高峰故障
-    网友称车厢冒烟](http://www.chinanews.com/df/2011/08-04/3232235.shtml)
-    2011年8月4日
+1.  [北京交通广播网:北京地铁13号线车厢全变6节](http://fm1039.rbc.cn/2009/200932694746.htm)  2009年3月26日查看
+2.  [北京地铁:\#铁丝爱分享\#话说骷髅喵变形后会是介个样子\[偷笑](http://sg.weibo.com/user/bjsubway/3832337001338716) via@13号线回龙观维修中心\]
+3.  [中国网:北京地铁13号线列车冲出试车线](http://www.china.com.cn/chinese/news/1036983.htm) 2012年12月25日查看
+4.  [人民网:北京13号线地铁瘫痪38分钟 系机车故障所致](http://house.people.com.cn/GB/98386/100080/100369/6217930.html) 2007年9月5日
+5.  [网易新闻:北京地铁13号线列车因故障停运20分钟](http://news.163.com/08/0917/07/4M1CEDLD000120GU.html) 2008年9月17日
+6.  [中新网:北京城铁13号线列车早高峰故障 网友称车厢冒烟](http://www.chinanews.com/df/2011/08-04/3232235.shtml) 2011年8月4日

@@ -1,5 +1,4 @@
-**NET聖經（中譯本）**是New English
-Translation（NET）[聖經的中文](https://zh.wikipedia.org/wiki/聖經 "wikilink")[譯本](https://zh.wikipedia.org/wiki/譯本 "wikilink")。NET聖經（亦稱為新英語譯本聖經）是一部全新的英文[聖經譯本](../Page/聖經譯本.md "wikilink")，由20余位聖經學者自1995年開始筹编，將聖經從[希伯來文本](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")、[亞蘭文本](https://zh.wikipedia.org/wiki/亞蘭文 "wikilink")、[希臘文本经过组合调整譯成英語](https://zh.wikipedia.org/wiki/希臘文 "wikilink")。版權歸聖經研讀出版社所有。NET的“新”不僅是翻譯年份較新，更在於它有6萬餘條註釋。NET聖經（中譯本）第二版在2016年四月完成。\[1\]
+**NET聖經（中譯本）**是New English Translation（NET）[聖經的中文](https://zh.wikipedia.org/wiki/聖經 "wikilink")[譯本](https://zh.wikipedia.org/wiki/譯本 "wikilink")。NET聖經（亦稱為新英語譯本聖經）是一部全新的英文[聖經譯本](../Page/聖經譯本.md "wikilink")，由20余位聖經學者自1995年開始筹编，將聖經從[希伯來文本](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")、[亞蘭文本](https://zh.wikipedia.org/wiki/亞蘭文 "wikilink")、[希臘文本经过组合调整譯成英語](https://zh.wikipedia.org/wiki/希臘文 "wikilink")。版權歸聖經研讀出版社所有。NET的“新”不僅是翻譯年份較新，更在於它有6萬餘條註釋。NET聖經（中譯本）第二版在2016年四月完成。\[1\]
 
 ## 特色
 
@@ -21,9 +20,7 @@ NET聖經（中譯本）經文部份主要是用[和合本為基礎](https://zh.
 
 ## 參考文獻
 
-  - [NET聖經（中文版）譯者序](http://bible.org/assets/downloads/chinese/tc_00-preface.pdf)
-    (版權為[CC-BY-SA
-    3.0](https://zh.wikipedia.org/wiki/CC-BY-SA_3.0 "wikilink"))
+  - [NET聖經（中文版）譯者序](http://bible.org/assets/downloads/chinese/tc_00-preface.pdf) (版權為[CC-BY-SA 3.0](https://zh.wikipedia.org/wiki/CC-BY-SA_3.0 "wikilink"))
 
 ## 外部連結
 
@@ -33,11 +30,9 @@ NET聖經（中譯本）經文部份主要是用[和合本為基礎](https://zh.
 
 {{-}}
 
-[Category:圣经汉语译本](https://zh.wikipedia.org/wiki/Category:圣经汉语译本 "wikilink")
-[Category:2005年宗教](https://zh.wikipedia.org/wiki/Category:2005年宗教 "wikilink")
+[Category:圣经汉语译本](https://zh.wikipedia.org/wiki/Category:圣经汉语译本 "wikilink") [Category:2005年宗教](https://zh.wikipedia.org/wiki/Category:2005年宗教 "wikilink")
 
 1.  [CNET(NET的中譯本)上架](https://www.fhl.net/main/announce/announce423155.html)
 2.  [NET聖經(中譯本)](http://www.translatebible.com/blog/c051)
 3.  [NET註釋](http://www.wwbible.org/acms/content.asp?site=wbs&op=showbyid&id=26688)
-
 4.  [採用了很多NET的註釋](https://shop.taosheng.com.tw/goods/content?g_id=2325)

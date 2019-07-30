@@ -1,4 +1,4 @@
-**大垣IC**（平假名：**おおがきインターチェンジ**）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[大垣市的](../Page/大垣市.md "wikilink")[名神高速道路之](https://zh.wikipedia.org/wiki/名神高速道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**大垣IC**（平假名：**おおがきインターチェンジ**）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[大垣市](../Page/大垣市.md "wikilink")的[名神高速道路之](https://zh.wikipedia.org/wiki/名神高速道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -12,8 +12,7 @@
 
 ## 歷史
 
-  - 1964年9月6日 -
-    [名神高速道路](https://zh.wikipedia.org/wiki/名神高速道路 "wikilink")[一宮IC至](../Page/一宮IC.md "wikilink")[關原IC開通](https://zh.wikipedia.org/wiki/關原IC "wikilink")，此交流道也同時啟用。
+  - 1964年9月6日 - [名神高速道路](https://zh.wikipedia.org/wiki/名神高速道路 "wikilink")[一宮IC](../Page/一宮IC.md "wikilink")至[關原IC開通](https://zh.wikipedia.org/wiki/關原IC "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -43,11 +42,7 @@
 ## 鄰近設施
 
   - [名神高速道路](https://zh.wikipedia.org/wiki/名神高速道路 "wikilink")
-    (25-2)[岐阜羽島IC](https://zh.wikipedia.org/wiki/岐阜羽島IC "wikilink") -
-    (26)**大垣IC** -
-    (26-1)[養老JCT](https://zh.wikipedia.org/wiki/養老JCT "wikilink")
-    - [養老SA](https://zh.wikipedia.org/wiki/養老SA "wikilink") -
-    (27)[關原IC](https://zh.wikipedia.org/wiki/關原IC "wikilink")
+    (25-2)[岐阜羽島IC](https://zh.wikipedia.org/wiki/岐阜羽島IC "wikilink") - (26)**大垣IC** - (26-1)[養老JCT](https://zh.wikipedia.org/wiki/養老JCT "wikilink") - [養老SA](https://zh.wikipedia.org/wiki/養老SA "wikilink") - (27)[關原IC](https://zh.wikipedia.org/wiki/關原IC "wikilink")
 
 ## 相關項目
 
@@ -57,5 +52,4 @@
 
   - [中日本高速道路(名神高速)](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_O](https://zh.wikipedia.org/wiki/Category:日本交流道_O "wikilink")
-[Category:岐阜縣交流道](https://zh.wikipedia.org/wiki/Category:岐阜縣交流道 "wikilink")
+[Category:日本交流道_O](https://zh.wikipedia.org/wiki/Category:日本交流道_O "wikilink") [Category:岐阜縣交流道](https://zh.wikipedia.org/wiki/Category:岐阜縣交流道 "wikilink")

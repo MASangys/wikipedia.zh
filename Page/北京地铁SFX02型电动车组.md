@@ -1,4 +1,4 @@
-**北京地铁SFX02型电动车组**\[1\]是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[八通线运营](https://zh.wikipedia.org/wiki/八通线 "wikilink")。
+**北京地铁SFX02型电动车组**\[1\]是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[八通线运营](https://zh.wikipedia.org/wiki/八通线 "wikilink")。
 
 ## 简介
 
@@ -6,9 +6,7 @@
 
 ## 資料來源
 
-[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
-[Category:北京地铁SFX系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFX系列电动车组 "wikilink")
-[Category:北京地铁八通线](https://zh.wikipedia.org/wiki/Category:北京地铁八通线 "wikilink")
+[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:北京地铁SFX系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFX系列电动车组 "wikilink") [Category:北京地铁八通线](https://zh.wikipedia.org/wiki/Category:北京地铁八通线 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**北京地铁DKZ4型电动车组**是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[1号线运营](../Page/北京地铁1号线.md "wikilink")。
+**北京地铁DKZ4型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[1号线运营](../Page/北京地铁1号线.md "wikilink")。
 
 ## 简介
 
@@ -95,20 +95,10 @@
   - [列车介绍](https://web.archive.org/web/20160304194202/http://www.chinacnr.com/p325.aspx?ProductID=14&ParentID=8)
   - [DKZ4型列车出站视频](http://www.tudou.com/programs/view/MDq0Fy6Lxf8/)
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
 
-1.  [北京市技术总工会英才网:北京地铁DKZ4型电动客车局部技术改造](http://www.bjjsyc.org.cn/template/10002/file.jsp?cid=24&aid=11895)
-    2012年8月29日查看
-2.  [北京地铁不同线路温差大](http://www.gmw.cn/content/2010-06/25/content_1160757.htm)
-    光明网 2010-06-25
-3.  [北京地铁:1号线非空调车改造正在加紧进行](http://www.bjsubway.com/node/2342)
-    2012年12月20日查看
-4.  [搜狐网:北京地铁1号线老列车开始装空调
-    改造陆续开始](http://news.sohu.com/20100807/n274054629.shtml)
-    2010年8月7日查看
-5.  [搜狐新闻:北京地铁1号线3次爆响亮光
-    下行方向停运半小时](http://news.sohu.com/20090629/n264823069.shtml)
-    2009年6月29日
+1.  [北京市技术总工会英才网:北京地铁DKZ4型电动客车局部技术改造](http://www.bjjsyc.org.cn/template/10002/file.jsp?cid=24&aid=11895) 2012年8月29日查看
+2.  [北京地铁不同线路温差大](http://www.gmw.cn/content/2010-06/25/content_1160757.htm) 光明网 2010-06-25
+3.  [北京地铁:1号线非空调车改造正在加紧进行](http://www.bjsubway.com/node/2342)  2012年12月20日查看
+4.  [搜狐网:北京地铁1号线老列车开始装空调 改造陆续开始](http://news.sohu.com/20100807/n274054629.shtml) 2010年8月7日查看
+5.  [搜狐新闻:北京地铁1号线3次爆响亮光 下行方向停运半小时](http://news.sohu.com/20090629/n264823069.shtml) 2009年6月29日

@@ -1,11 +1,8 @@
-《**AKB48
-永遠在一起**》（，又可直譯為「AKB48紀錄電影：少女們即使受傷，也在努力實現夢想」）是一部2012年1月27日在日本國內首映、以女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48為主角的](../Page/AKB48.md "wikilink")[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。由曾經拍過多部AKB48[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[高橋榮樹](../Page/高橋榮樹.md "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")，其宣傳標語為「AKB48一邊受傷，一邊面對困難，是不屈的偶像團體。」（）
+《**AKB48 永遠在一起**》（，又可直譯為「AKB48紀錄電影：少女們即使受傷，也在努力實現夢想」）是一部2012年1月27日在日本國內首映、以女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")為主角的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。由曾經拍過多部AKB48[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[高橋榮樹](../Page/高橋榮樹.md "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")，其宣傳標語為「AKB48一邊受傷，一邊面對困難，是不屈的偶像團體。」（）
 
 ## 簡介
 
-此片是繼2011年1月22日上映的《[AKB48
-夢想起飛](../Page/AKB48_夢想起飛.md "wikilink")》（）之後，AKB48記錄電影的第2作。與前作同様，記錄AKB48在2011年一年間的活動舞台幕後花絮及成員們的訪問。[旁白是](https://zh.wikipedia.org/wiki/旁白 "wikilink")[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")[能登麻美子](../Page/能登麻美子.md "wikilink")。主題曲《First
-Rabbit》是為了本作而新寫的歌曲。\[1\]
+此片是繼2011年1月22日上映的《[AKB48 夢想起飛](../Page/AKB48_夢想起飛.md "wikilink")》（）之後，AKB48記錄電影的第2作。與前作同様，記錄AKB48在2011年一年間的活動舞台幕後花絮及成員們的訪問。[旁白是](https://zh.wikipedia.org/wiki/旁白 "wikilink")[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")[能登麻美子](../Page/能登麻美子.md "wikilink")。主題曲《First Rabbit》是為了本作而新寫的歌曲。\[1\]
 
 電影觀客動員排行（興行通信社調查）初登場獲得第7位的記錄\[2\]。
 
@@ -28,16 +25,12 @@ Rabbit》是為了本作而新寫的歌曲。\[1\]
   - 旁白：[能登麻美子](../Page/能登麻美子.md "wikilink")
   - 制作：North River（）
   - 制作協力：KRK PRODUCE、Pipeline（）
-  - 製作：[AKS](../Page/AKS.md "wikilink")
-    、[東宝](https://zh.wikipedia.org/wiki/東宝 "wikilink")、秋元康事務所、North
-    River、[NHK
-    ENTERPRISES](https://zh.wikipedia.org/wiki/NHK_ENTERPRISES "wikilink")、
+  - 製作：[AKS](../Page/AKS.md "wikilink") 、[東宝](https://zh.wikipedia.org/wiki/東宝 "wikilink")、秋元康事務所、North River、[NHK ENTERPRISES](https://zh.wikipedia.org/wiki/NHK_ENTERPRISES "wikilink")、
   - 配給：東宝映像事業部
 
 ## 海外播映
 
-《AKB48 永遠在一起》是在2012年5月18日時，與紀錄片系列首作《AKB48
-夢想起飛》兩片同時在[台灣的部分電影院線進行限期播映](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+《AKB48 永遠在一起》是在2012年5月18日時，與紀錄片系列首作《AKB48 夢想起飛》兩片同時在[台灣的部分電影院線進行限期播映](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 參考文獻
 
@@ -54,16 +47,7 @@ Rabbit》是為了本作而新寫的歌曲。\[1\]
 
   - （《世界電影》雜誌官方頻道）
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:2010年代紀錄片](https://zh.wikipedia.org/wiki/Category:2010年代紀錄片 "wikilink")
-[Category:2010年代青春電影](https://zh.wikipedia.org/wiki/Category:2010年代青春電影 "wikilink")
-[Category:日本紀錄片](https://zh.wikipedia.org/wiki/Category:日本紀錄片 "wikilink")
-[Category:日本青春電影](https://zh.wikipedia.org/wiki/Category:日本青春電影 "wikilink")
-[Category:關於災害的紀錄片](https://zh.wikipedia.org/wiki/Category:關於災害的紀錄片 "wikilink")
-[Category:東日本大震災題材電影](https://zh.wikipedia.org/wiki/Category:東日本大震災題材電影 "wikilink")
-[Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:2010年代紀錄片](https://zh.wikipedia.org/wiki/Category:2010年代紀錄片 "wikilink") [Category:2010年代青春電影](https://zh.wikipedia.org/wiki/Category:2010年代青春電影 "wikilink") [Category:日本紀錄片](https://zh.wikipedia.org/wiki/Category:日本紀錄片 "wikilink") [Category:日本青春電影](https://zh.wikipedia.org/wiki/Category:日本青春電影 "wikilink") [Category:關於災害的紀錄片](https://zh.wikipedia.org/wiki/Category:關於災害的紀錄片 "wikilink") [Category:東日本大震災題材電影](https://zh.wikipedia.org/wiki/Category:東日本大震災題材電影 "wikilink") [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
 
 1.
 2.

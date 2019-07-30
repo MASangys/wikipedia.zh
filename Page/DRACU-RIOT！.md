@@ -1,4 +1,4 @@
-《**DRACU-RIOT\!**》（）是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")[YUZUSOFT於](../Page/YUZUSOFT.md "wikilink")2012年3月30日發售的[戀愛冒險類型成人遊戲](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")。\[1\]YUZUSOFT的第六部作品。名稱是由和（[暴動](https://zh.wikipedia.org/wiki/暴動 "wikilink")）所組合而成的詞。標語是「童貞畢業的計畫卻連人類之身也失去了」（）。
+《**DRACU-RIOT\!**》（）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2012年3月30日發售的[戀愛冒險類型成人遊戲](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")。\[1\]YUZUSOFT的第六部作品。名稱是由和（[暴動](https://zh.wikipedia.org/wiki/暴動 "wikilink")）所組合而成的詞。標語是「童貞畢業的計畫卻連人類之身也失去了」（）。
 
 ## 故事背景
 
@@ -29,7 +29,7 @@
 
   -
     和美羽同屬於風紀班的人類女孩，月長學院第二宿舍的舍長，主張自己有必要負起住宿生們的監護人的責任。由於幼兒體型常被週遭的人當作小孩子，本人則十分討厭被人當成小孩子。每當話題變成[H的話題時](https://zh.wikipedia.org/wiki/H_\(日語\) "wikilink")（大多數都是艾莉娜開的頭），都會很認真的出面制止。意外地是，本人也十分清楚艾莉娜所講的內容，不過，本人也還是不擅長應對H的話題。情緒興奮或慌張時，會唸不清楚單字的發音。
-    在出勤時所穿的衣服不是和美羽相同的軍服而是[巫女服](../Page/巫女.md "wikilink")，這是因為週遭的人都清楚梓並不適合穿軍服，加上來自上級的命令。在戰鬥時所使用的是特殊的槍，不僅操作性高還可更換許多不同類型的特殊子彈。而且，梓的射擊技術在風紀班中也是No.1，在工作現場是很重要的角色。
+    在出勤時所穿的衣服不是和美羽相同的軍服而是[巫女](../Page/巫女.md "wikilink")服，這是因為週遭的人都清楚梓並不適合穿軍服，加上來自上級的命令。在戰鬥時所使用的是特殊的槍，不僅操作性高還可更換許多不同類型的特殊子彈。而且，梓的射擊技術在風紀班中也是No.1，在工作現場是很重要的角色。
     由於對吸血鬼沒有偏見和種族歧視和差別待遇，因而受到許多吸血鬼的歡迎。
 
 <!-- end list -->
@@ -50,7 +50,7 @@
 <!-- end list -->
 
   -
-    從歐洲來的吸血鬼，是個[中二病患者](../Page/中二病.md "wikilink")。為了更接近自己想像中的吸血鬼模樣，在平時都會穿上附有披風的改造制服、並戴上有色隱形眼鏡，並用著旁人難以理解的詞語說話，不過周圍的人也都已經見怪不怪了。和艾莉娜一同在賭場工作。
+    從歐洲來的吸血鬼，是個[中二病](../Page/中二病.md "wikilink")患者。為了更接近自己想像中的吸血鬼模樣，在平時都會穿上附有披風的改造制服、並戴上有色隱形眼鏡，並用著旁人難以理解的詞語說話，不過周圍的人也都已經見怪不怪了。和艾莉娜一同在賭場工作。
     能力是「獸化」的肉體強化型。
     尼古拉:「這不是披風，而是漆黑的衣(ヴェール)」。
 
@@ -227,15 +227,7 @@
 
   - [遊戲官方網站](http://www.yuzu-soft.com/ja/dracuriot.html)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:吸血鬼題材作品](https://zh.wikipedia.org/wiki/Category:吸血鬼題材作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:Comic_Earth_Star](https://zh.wikipedia.org/wiki/Category:Comic_Earth_Star "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:吸血鬼題材作品](https://zh.wikipedia.org/wiki/Category:吸血鬼題材作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:Comic_Earth_Star](https://zh.wikipedia.org/wiki/Category:Comic_Earth_Star "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
 
 1.
 2.

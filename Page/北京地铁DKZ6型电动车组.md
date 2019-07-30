@@ -1,9 +1,8 @@
-**北京地铁DKZ6型电动车组**是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[13号线运营](../Page/北京地铁13号线.md "wikilink")。
+**北京地铁DKZ6型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[13号线运营](../Page/北京地铁13号线.md "wikilink")。
 
 ## 简介
 
-[H402_entering_Huilongguan_Station_(20190608121121).jpg](https://zh.wikipedia.org/wiki/File:H402_entering_Huilongguan_Station_\(20190608121121\).jpg "fig:H402_entering_Huilongguan_Station_(20190608121121).jpg")
-DKZ6型于2002年生产，早期的车头涂装为黑、白色，为不锈钢车体。列车早期为4节编组，在[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，编号为H402，配属于[回龙观车辆段](https://zh.wikipedia.org/wiki/回龙观车辆段 "wikilink")。后为应对沿线客流的快速增长，列车在2009年3月全部扩充为6编组\[1\]，不过列车也因此换成了和[DKZ5型一样的外部涂装](../Page/北京地铁DKZ5型电动车组.md "wikilink")。
+[H402_entering_Huilongguan_Station_(20190608121121).jpg](https://zh.wikipedia.org/wiki/File:H402_entering_Huilongguan_Station_\(20190608121121\).jpg "fig:H402_entering_Huilongguan_Station_(20190608121121).jpg") DKZ6型于2002年生产，早期的车头涂装为黑、白色，为不锈钢车体。列车早期为4节编组，在[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，编号为H402，配属于[回龙观车辆段](https://zh.wikipedia.org/wiki/回龙观车辆段 "wikilink")。后为应对沿线客流的快速增长，列车在2009年3月全部扩充为6编组\[1\]，不过列车也因此换成了和[DKZ5型一样的外部涂装](../Page/北京地铁DKZ5型电动车组.md "wikilink")。
 
 ## 列车内部
 
@@ -72,9 +71,6 @@ DKZ6型于2002年生产，早期的车头涂装为黑、白色，为不锈钢车
   - [列车介绍](https://web.archive.org/web/20160304120906/http://www.chinacnr.com/p325.aspx?ProductID=7&ParentID=8)
   - [DKZ6型列车出站视频](http://video.sina.com.cn/v/b/5277766-1167694855.html)
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")
 
-1.  [北京交通广播网:北京地铁13号线车厢全变6节](http://fm1039.rbc.cn/2009/200932694746.htm)
-     2009年3月26日查看
+1.  [北京交通广播网:北京地铁13号线车厢全变6节](http://fm1039.rbc.cn/2009/200932694746.htm)  2009年3月26日查看

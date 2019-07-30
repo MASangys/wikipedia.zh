@@ -1,16 +1,10 @@
-**Mali** 是一款由[ARM
-Holdings](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink")（ARM，安谋科技）研发设计的移动显示芯片组（[GPUs](https://zh.wikipedia.org/wiki/GPU "wikilink")）系列。该显示芯片组的电路设计和架构研发完全由ARM自主设计，ARM特别设立了[ARM
-Norway](https://zh.wikipedia.org/wiki/ARM_Norway "wikilink")（ARM挪威）显示处理事业部来负责研发设计ARM
-Mali显示芯片系列，该部门的前身是**Falanx**。
+**Mali** 是一款由[ARM Holdings](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink")（ARM，安谋科技）研发设计的移动显示芯片组（[GPUs](https://zh.wikipedia.org/wiki/GPU "wikilink")）系列。该显示芯片组的电路设计和架构研发完全由ARM自主设计，ARM特别设立了[ARM Norway](https://zh.wikipedia.org/wiki/ARM_Norway "wikilink")（ARM挪威）显示处理事业部来负责研发设计ARM Mali显示芯片系列，该部门的前身是**Falanx**。
 
 ## Mali显示技术细节
 
-和其他基于IP核心（IP
-cores）嵌入式技术的3D显示芯片一样，Mali显示芯片组没有提供特别用来驱动LCD显示器显示图像的[显示控制器](https://zh.wikipedia.org/wiki/显示控制器 "wikilink")（类似于[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")），相反地，它是一个纯3D显示引擎，它将图像载入到缓存中，并且由专门负责图像显示处理的内置显示核心来显示这些图像。
+和其他基于IP核心（IP cores）嵌入式技术的3D显示芯片一样，Mali显示芯片组没有提供特别用来驱动LCD显示器显示图像的[显示控制器](https://zh.wikipedia.org/wiki/显示控制器 "wikilink")（类似于[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")），相反地，它是一个纯3D显示引擎，它将图像载入到缓存中，并且由专门负责图像显示处理的内置显示核心来显示这些图像。
 
-其内置的那些不同渲染API，例如[OpenGL
-ES](../Page/OpenGL_ES.md "wikilink")、[OpenVG等等](../Page/OpenVG.md "wikilink")，都实现了[shader图像处理程序](https://zh.wikipedia.org/wiki/shader "wikilink")。ARM还提供了开发工具用来进行针对其显示芯片的处理，如**Mali
-GPU Shader Development Studio**和**Mali GPU User Interface Engine**。
+其内置的那些不同渲染API，例如[OpenGL ES](../Page/OpenGL_ES.md "wikilink")、[OpenVG](../Page/OpenVG.md "wikilink")等等，都实现了[shader图像处理程序](https://zh.wikipedia.org/wiki/shader "wikilink")。ARM还提供了开发工具用来进行针对其显示芯片的处理，如**Mali GPU Shader Development Studio**和**Mali GPU User Interface Engine**。
 
 ## 型号
 
@@ -469,38 +463,21 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 
 ## Lima FOSS 驱动
 
-2012年1月21日，[Phoronix报道称Codethink最主要的开源显示技术开发商](../Page/Phoronix.md "wikilink")：[Luc
-Verhaegen已经开始尝试为Mali显示芯片组系列提供技术支持](https://zh.wikipedia.org/wiki/Luc_Verhaegen "wikilink")，特别是Mali
-200 以及 Mali 400 型号。该项目称为**Lima**（利马）并且开始提供对[OpenGL
-ES](../Page/OpenGL_ES.md "wikilink") 2.0的全面支持。\[20\]
+2012年1月21日，[Phoronix](../Page/Phoronix.md "wikilink")报道称Codethink最主要的开源显示技术开发商：[Luc Verhaegen已经开始尝试为Mali显示芯片组系列提供技术支持](https://zh.wikipedia.org/wiki/Luc_Verhaegen "wikilink")，特别是Mali 200 以及 Mali 400 型号。该项目称为**Lima**（利马）并且开始提供对[OpenGL ES](../Page/OpenGL_ES.md "wikilink") 2.0的全面支持。\[20\]
 
-[FOSDEM已于](https://zh.wikipedia.org/wiki/FOSDEM "wikilink")2012年2月4日提供主要支持，\[21\]\[22\]
-并且提供了 *[limadriver.org](http://limadriver.org/)* 网站用于展示新的研发进展。
+[FOSDEM已于](https://zh.wikipedia.org/wiki/FOSDEM "wikilink")2012年2月4日提供主要支持，\[21\]\[22\] 并且提供了 *[limadriver.org](http://limadriver.org/)* 网站用于展示新的研发进展。
 
 2013年2月2的Verhaegen展示「[雷神之锤III竞技场](../Page/雷神之锤III竞技场.md "wikilink")」timedemo模式，于利马驱动上运行。\[23\]
 
 ## 参见
 
-  - [PowerVR](../Page/PowerVR.md "wikilink") – [Imagination
-    Technologies](../Page/Imagination_Technologies.md "wikilink")
-    研发的移动GPU，用于第三方授权。
-  - [Adreno](../Page/Adreno.md "wikilink") –
-    [Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
-    研发的移动GPU，用于第三方授权。
-  - [Vivante](../Page/图芯技术.md "wikilink") –
-    [图芯技术](../Page/图芯技术.md "wikilink") 研发的移动GPU，用于第三方授权。
-  - [Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink") –
-    [NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
-    研发的移动SoC，不向第三方授权。
-  - [VideoCore](../Page/VideoCore.md "wikilink") –
-    [Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink")
-    研发的移动GPU，允许第三方授权。
-  - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") –
-    [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-    计算机处理器产品，不向第三方授权。
-  - [AMD APU](../Page/AMD加速处理器.md "wikilink") –
-    [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
-    计算机处理器产品，不向第三方授权。
+  - [PowerVR](../Page/PowerVR.md "wikilink") – [Imagination Technologies](../Page/Imagination_Technologies.md "wikilink") 研发的移动GPU，用于第三方授权。
+  - [Adreno](../Page/Adreno.md "wikilink") – [Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") 研发的移动GPU，用于第三方授权。
+  - [Vivante](../Page/图芯技术.md "wikilink") – [图芯技术](../Page/图芯技术.md "wikilink") 研发的移动GPU，用于第三方授权。
+  - [Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink") – [NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink") 研发的移动SoC，不向第三方授权。
+  - [VideoCore](../Page/VideoCore.md "wikilink") – [Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink") 研发的移动GPU，允许第三方授权。
+  - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") – [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 计算机处理器产品，不向第三方授权。
+  - [AMD APU](../Page/AMD加速处理器.md "wikilink") – [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 计算机处理器产品，不向第三方授权。
 
 ## 参考
 
@@ -508,33 +485,22 @@ ES](../Page/OpenGL_ES.md "wikilink") 2.0的全面支持。\[20\]
 
 ## 外部链接
 
-  - [MALI graphics
-    hardware](https://web.archive.org/web/20120424083955/http://www.arm.com/products/multimedia/mali-graphics-hardware/)
-    at [ARM
-    Holdings](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink")
-    website
-  - [Mali developer](http://www.malideveloper.com/) a developer site run
-    by ARM
+  - [MALI graphics hardware](https://web.archive.org/web/20120424083955/http://www.arm.com/products/multimedia/mali-graphics-hardware/) at [ARM Holdings](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink") website
+  - [Mali developer](http://www.malideveloper.com/) a developer site run by ARM
   - [Lima driver](http://limadriver.org)
 
-[Category:ARM架构](https://zh.wikipedia.org/wiki/Category:ARM架构 "wikilink")
-[Category:图形处理器](https://zh.wikipedia.org/wiki/Category:图形处理器 "wikilink")
+[Category:ARM架构](https://zh.wikipedia.org/wiki/Category:ARM架构 "wikilink") [Category:图形处理器](https://zh.wikipedia.org/wiki/Category:图形处理器 "wikilink")
 
-1.  [Mali Graphics Webpage; Arm
-    Holdings.](http://www.arm.com/products/multimedia/mali-graphics-hardware/index.php)
+1.  [Mali Graphics Webpage; Arm Holdings.](http://www.arm.com/products/multimedia/mali-graphics-hardware/index.php)
 
 2.  <http://www.anandtech.com/show/8234/arms-mali-midgard-architecture-explored/2>
 
-3.  <http://www.khronos.org/assets/uploads/developers/library/2012-pan-pacific-road-show/OpenGL-and-OpenGL-ES-Taiwan_Feb-2012.pdf>
-    Khronos Group OpenGL and OpenGL ES Taiwan Feb 2012
+3.  <http://www.khronos.org/assets/uploads/developers/library/2012-pan-pacific-road-show/OpenGL-and-OpenGL-ES-Taiwan_Feb-2012.pdf> Khronos Group OpenGL and OpenGL ES Taiwan Feb 2012
 
-4.  Android Extension Pack depends on implementation of
-    *GL_ANDROID_extension_pack_es31a* in the userspace driver.
-    Supported as of r7p0
+4.  Android Extension Pack depends on implementation of *GL_ANDROID_extension_pack_es31a* in the userspace driver. Supported as of r7p0
 
 5.
-6.  [AnandTech | ARM Announces 8-core 2nd Gen Mali-T600
-    GPUs](http://www.anandtech.com/show/6136/arm-announces-8core-2nd-gen-malit600-gpus)
+6.  [AnandTech | ARM Announces 8-core 2nd Gen Mali-T600 GPUs](http://www.anandtech.com/show/6136/arm-announces-8core-2nd-gen-malit600-gpus)
 
 7.  depending on number of GPU shader core groups
 
@@ -554,20 +520,14 @@ ES](../Page/OpenGL_ES.md "wikilink") 2.0的全面支持。\[20\]
 15.
 16.
 17.
-18.  Arm Mali-G72 High Performance GPU – Arm
-    Developer|accessdate=2017-12-25|last=Ltd.|first=Arm|work=ARM
-    Developer|language=en}}
+18.  Arm Mali-G72 High Performance GPU – Arm Developer|accessdate=2017-12-25|last=Ltd.|first=Arm|work=ARM Developer|language=en}}
 
 19.
 
-20. [Phoronix, Jan 27 2012: *Announcing The Lima Open-Source GPU
-    Driver*](http://www.phoronix.com/scan.php?page=news_item&px=MTA0OTQ)
+20. [Phoronix, Jan 27 2012: *Announcing The Lima Open-Source GPU Driver*](http://www.phoronix.com/scan.php?page=news_item&px=MTA0OTQ)
 
-21. [Phoronix, Jan 21 2012: *An Open-Source, Reverse-Engineered Mali GPU
-    Driver*](http://www.phoronix.com/scan.php?page=article&item=arm_mali_reverse)
+21. [Phoronix, Jan 21 2012: *An Open-Source, Reverse-Engineered Mali GPU Driver*](http://www.phoronix.com/scan.php?page=article&item=arm_mali_reverse)
 
-22. [FOSDEM schedule, Jan 21 2012: *Liberating ARM's Mali
-    GPU*](http://fosdem.org/2012/schedule/event/mali)
+22. [FOSDEM schedule, Jan 21 2012: *Liberating ARM's Mali GPU*](http://fosdem.org/2012/schedule/event/mali)
 
-23. [Quake 3 Arena timedemo on top of the lima
-    driver\!](http://libv.livejournal.com/23886.html)
+23. [Quake 3 Arena timedemo on top of the lima driver\!](http://libv.livejournal.com/23886.html)

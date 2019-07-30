@@ -1,4 +1,4 @@
-**北京地铁DKZ10型电动车组**是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
+**北京地铁DKZ10型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。
 
 ## 简介
 
@@ -55,6 +55,4 @@ DKZ10型于2005年开始在[13号线运营](../Page/北京地铁13号线.md "wik
   - SIV：[静式变流器](https://zh.wikipedia.org/wiki/变流器 "wikilink")
   - CP：[電動空氣壓縮機](https://zh.wikipedia.org/wiki/壓縮機 "wikilink")
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁13号线](https://zh.wikipedia.org/wiki/Category:北京地铁13号线 "wikilink")

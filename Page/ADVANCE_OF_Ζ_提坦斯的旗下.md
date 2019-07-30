@@ -1,33 +1,18 @@
-《**ADVANCE OF Ζ 提坦斯的旗下** 》（，*ADVANCE OF Ζ THE FLAG OF
-TITANS*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[小说之一](../Page/小说.md "wikilink")，由[今野敏主笔创作](https://zh.wikipedia.org/wiki/今野敏 "wikilink")，有同名漫画，
+《**ADVANCE OF Ζ 提坦斯的旗下** 》（，*ADVANCE OF Ζ THE FLAG OF TITANS*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[小说](../Page/小说.md "wikilink")之一，由[今野敏主笔创作](https://zh.wikipedia.org/wiki/今野敏 "wikilink")，有同名漫画，
 
 ## 概要
 
-以[动画作品为重心的](../Page/日本动画.md "wikilink")[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。[SUNRISE和](../Page/日昇動畫.md "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")（现为：[ASCII
-Media
-Works](../Page/ASCII_Media_Works.md "wikilink")）合作出品，模型[杂志](../Page/杂志.md "wikilink")《[電撃HOBBYMAGAZINE](https://zh.wikipedia.org/wiki/電撃HOBBYMAGAZINE "wikilink")》在2002年至2007年之间連載。以[宇宙世紀](https://zh.wikipedia.org/wiki/宇宙世紀_\(GUNDAM\) "wikilink")0084年
-- 0088年为舞台，是为[动画](../Page/动画.md "wikilink")[机动战士 Z
-GUNDAM外传故事](https://zh.wikipedia.org/wiki/机动战士_Z_GUNDAM "wikilink")。
+以[动画作品为重心的](../Page/日本动画.md "wikilink")[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。[SUNRISE和](../Page/日昇動畫.md "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")（现为：[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）合作出品，模型[杂志](../Page/杂志.md "wikilink")《[電撃HOBBYMAGAZINE](https://zh.wikipedia.org/wiki/電撃HOBBYMAGAZINE "wikilink")》在2002年至2007年之间連載。以[宇宙世紀](https://zh.wikipedia.org/wiki/宇宙世紀_\(GUNDAM\) "wikilink")0084年 - 0088年为舞台，是为[动画](../Page/动画.md "wikilink")[机动战士 Z GUNDAM外传故事](https://zh.wikipedia.org/wiki/机动战士_Z_GUNDAM "wikilink")。
 
-小说部分作者为[今野敏](https://zh.wikipedia.org/wiki/今野敏 "wikilink")，单行本（MOOK）全六册。Episode
-1.0是以宇宙世纪0084年为舞台展开叙述，而Episode
-5.9则是以宇宙世纪0088年为舞台展开每月交替连载。而后稍加修正以平装本2册装订出版，标题也修改为《机动战士Z
-GUNDAM外传 提坦斯的旗下 ADVANCE OF Ζ》（機動战士Zガンダム外伝 ティターンズの旗のもとに ADVANCE OF
-Ζ）。2010年7月于[MediaWorks文库出版平装版](../Page/MediaWorks.md "wikilink")，标题改为《提坦斯的旗下
--ADVANCE OF Ζ-》（ティターンズの旗のもとに -ADVANCE OF Ζ-）。
+小说部分作者为[今野敏](https://zh.wikipedia.org/wiki/今野敏 "wikilink")，单行本（MOOK）全六册。Episode 1.0是以宇宙世纪0084年为舞台展开叙述，而Episode 5.9则是以宇宙世纪0088年为舞台展开每月交替连载。而后稍加修正以平装本2册装订出版，标题也修改为《机动战士Z GUNDAM外传 提坦斯的旗下 ADVANCE OF Ζ》（機動战士Zガンダム外伝 ティターンズの旗のもとに ADVANCE OF Ζ）。2010年7月于[MediaWorks](../Page/MediaWorks.md "wikilink")文库出版平装版，标题改为《提坦斯的旗下 -ADVANCE OF Ζ-》（ティターンズの旗のもとに -ADVANCE OF Ζ-）。
 
-漫画作品，2003年起至2008年4月号在MediaWorks的漫画杂志《月刊コミック電撃大王》上连载，作画为
-みずきたつ。平装版全4册。仅有Episode
-1.0的情节被制作成PhotoStory连载，此外增加许多新的情节，人物之间的关系描写也更加细致，没有存在小说版所提及的法庭篇相关情节。
+漫画作品，2003年起至2008年4月号在MediaWorks的漫画杂志《月刊コミック電撃大王》上连载，作画为 みずきたつ。平装版全4册。仅有Episode 1.0的情节被制作成PhotoStory连载，此外增加许多新的情节，人物之间的关系描写也更加细致，没有存在小说版所提及的法庭篇相关情节。
 
-另外，《电击Hobby MAGAZINE》从2010年10月号起连载《[ADVANCE OF Ζ
-时代的反抗者](../Page/ADVANCE_OF_Ζ_时代的反抗者.md "wikilink")》。
+另外，《电击Hobby MAGAZINE》从2010年10月号起连载《[ADVANCE OF Ζ 时代的反抗者](../Page/ADVANCE_OF_Ζ_时代的反抗者.md "wikilink")》。
 
 ## Titans Test Team（T3）
 
-为了扩大在地球联邦军中的权力，提坦斯需要强大的战力支持。为此提坦斯需要一个专门秘密对新型兵器的开发、测试（使用、战术考察、效果验证）的部门，这就是Titans
-Test
-Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威斯·墨菲大尉指挥的测试小队（墨菲小队，通称“黑獭”），也就是主人公艾利亚德·杭特所属的小队。
+为了扩大在地球联邦军中的权力，提坦斯需要强大的战力支持。为此提坦斯需要一个专门秘密对新型兵器的开发、测试（使用、战术考察、效果验证）的部门，这就是Titans Test Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威斯·墨菲大尉指挥的测试小队（墨菲小队，通称“黑獭”），也就是主人公艾利亚德·杭特所属的小队。
 
 ## 主要登场人物
 
@@ -117,11 +102,9 @@ Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威�
 
 #### TR-1
 
-  - RGM-79Q
-    [ジム・クゥエル](https://zh.wikipedia.org/wiki/ジム・クゥエル "wikilink")［ヘイズル予備機］
+  - RGM-79Q [ジム・クゥエル](https://zh.wikipedia.org/wiki/ジム・クゥエル "wikilink")［ヘイズル予備機］
   - TR-1
-      - RX-121
-        [ガンダムTR-1［ヘイズル］](https://zh.wikipedia.org/wiki/ジム・クゥエル#ガンダムTR-1［ヘイズル］ "wikilink")
+      - RX-121 [ガンダムTR-1［ヘイズル］](https://zh.wikipedia.org/wiki/ジム・クゥエル#ガンダムTR-1［ヘイズル］ "wikilink")
       - RX-121 ガンダムTR-1（フルアーマー・タイプ）
       - RX-121 ガンダムTR-1（強襲形態）
       - RX-121 ガンダムTR-1（高機動形態）
@@ -155,28 +138,24 @@ Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威�
 #### TR-2、TR-3、TR-4、TR-5
 
   - TR-2
-      - YRMS-106
-        [ハイザック先行量産型](https://zh.wikipedia.org/wiki/ハイザック#ハイザック先行量産型 "wikilink")
+      - YRMS-106 [ハイザック先行量産型](https://zh.wikipedia.org/wiki/ハイザック#ハイザック先行量産型 "wikilink")
       - YRMS-106+BL-85X バイザックTR-2［ビグウィグ］
 
 <!-- end list -->
 
   - TR-3
-      - NRX-044(R)
-        [プロトタイプアッシマーTR-3［キハール］](https://zh.wikipedia.org/wiki/アッシマー#プロトタイプアッシマーTR-3［キハール］ "wikilink")
+      - NRX-044(R) [プロトタイプアッシマーTR-3［キハール］](https://zh.wikipedia.org/wiki/アッシマー#プロトタイプアッシマーTR-3［キハール］ "wikilink")
       - NRX-044(R) プロトタイプアッシマーTR-3［キハール］（重力下式样）
 
 <!-- end list -->
 
   - TR-4
-      - RX-107
-        [TR-4［ダンディライアン］](https://zh.wikipedia.org/wiki/マラサイ#TR-4_ダンディライアン "wikilink")
+      - RX-107 [TR-4［ダンディライアン］](https://zh.wikipedia.org/wiki/マラサイ#TR-4_ダンディライアン "wikilink")
 
 <!-- end list -->
 
   - TR-5
-      - ORX-005
-        [ギャプランTR-5［ファイバー］](https://zh.wikipedia.org/wiki/ギャプラン#ギャプランTR-5［ファイバー］ "wikilink")
+      - ORX-005 [ギャプランTR-5［ファイバー］](https://zh.wikipedia.org/wiki/ギャプラン#ギャプランTR-5［ファイバー］ "wikilink")
       - ORX-005 ギャプランTR-5［フライルー］
       - ORX-005 ギャプランTR-5［フライルー・ラーII］
       - ORX-005 ギャプランTR-5［アドバンスド・フライルー］（フライルー二号機）
@@ -186,8 +165,7 @@ Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威�
 #### TR-6
 
   - TR-6
-      - RX-124
-        [ガンダムTR-6［ウーンドウォート］](https://zh.wikipedia.org/wiki/ガンダムTR-6#ガンダムTR-6［ウーンドウォート］ "wikilink")
+      - RX-124 [ガンダムTR-6［ウーンドウォート］](https://zh.wikipedia.org/wiki/ガンダムTR-6#ガンダムTR-6［ウーンドウォート］ "wikilink")
       - RX-124 ガンダムTR-6［アドバンスド・ウーンドウォート］
       - RX-124 ガンダムTR-6［アドバンスド・ウーンドウォートEX］
       - RX-124 ガンダムTR-6［アドバンスド・ウーンドウォートEX］第二形態
@@ -212,10 +190,8 @@ Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威�
 #### 其他
 
   - RGM-79
-      - RGM-79CR
-        [ジム改高機動型](https://zh.wikipedia.org/wiki/ジム改#ジム改高機動型 "wikilink")
-      - RGM-79SR
-        [ジム・スナイパーIII](https://zh.wikipedia.org/wiki/ジム・スナイパー#ジム・スナイパーIII "wikilink")
+      - RGM-79CR [ジム改高機動型](https://zh.wikipedia.org/wiki/ジム改#ジム改高機動型 "wikilink")
+      - RGM-79SR [ジム・スナイパーIII](https://zh.wikipedia.org/wiki/ジム・スナイパー#ジム・スナイパーIII "wikilink")
       - RGM-79SR ジム・スナイパーIII［中距離支援ユニット］
       - RGM-79SR ジム・スナイパーIII［高機動型］
       - RGM-79EW EWACジム（本編未登場）
@@ -223,30 +199,25 @@ Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威�
 <!-- end list -->
 
   - RMS-106
-      - YRMS-106C
-        [ハイザックキャノン](https://zh.wikipedia.org/wiki/ハイザック#ハイザック・キャノン "wikilink")
+      - YRMS-106C [ハイザックキャノン](https://zh.wikipedia.org/wiki/ハイザック#ハイザック・キャノン "wikilink")
       - YRMS-106C ハイザックキャノン増加装甲装備
 
 <!-- end list -->
 
   - RX-107
-      - RX-107
-        [ロゼット](https://zh.wikipedia.org/wiki/マラサイ#TR-4_ダンディライアン "wikilink")（［ダンディライアン］コア・モジュール）
+      - RX-107 [ロゼット](https://zh.wikipedia.org/wiki/マラサイ#TR-4_ダンディライアン "wikilink")（［ダンディライアン］コア・モジュール）
       - RX-107 ロゼット強化陸战形態（試作プラン）
       - RX-107 ロゼット強化陸战形態
 
 <!-- end list -->
 
-  - RMS-117
-    [高機動型ガルバルディβ](https://zh.wikipedia.org/wiki/ガルバルディ#高機動型ガルバルディβ "wikilink")
+  - RMS-117 [高機動型ガルバルディβ](https://zh.wikipedia.org/wiki/ガルバルディ#高機動型ガルバルディβ "wikilink")
 
 #### 艦艇
 
-  - [亚历山德里亚級](https://zh.wikipedia.org/wiki/亚历山德里亚_\(ガンダムシリーズ\) "wikilink")
-    ［阿斯旺］
+  - [亚历山德里亚級](https://zh.wikipedia.org/wiki/亚历山德里亚_\(ガンダムシリーズ\) "wikilink") ［阿斯旺］
   - 亚历山德里亚改級［阿斯旺改］（ペーパープラン）
-  - [萨拉米斯改級](https://zh.wikipedia.org/wiki/萨拉米斯_\(ガンダムシリーズ\) "wikilink")
-    ［伊兹密尔］
+  - [萨拉米斯改級](https://zh.wikipedia.org/wiki/萨拉米斯_\(ガンダムシリーズ\) "wikilink") ［伊兹密尔］
 
 ### 提坦斯实战部队
 
@@ -260,33 +231,24 @@ Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威�
 
 ### 吉恩残党军
 
-  - MS-09R
-    [リック・ドム](https://zh.wikipedia.org/wiki/リック・ドム "wikilink")（吉恩残党用）
+  - MS-09R [リック・ドム](https://zh.wikipedia.org/wiki/リック・ドム "wikilink")（吉恩残党用）
   - MS-14B [ゲルググ](https://zh.wikipedia.org/wiki/ゲルググ "wikilink")（吉恩残党用）
-  - MS-06F2 [ザクII
-    F2型](https://zh.wikipedia.org/wiki/ザクII#後期量産型ザクII "wikilink")
+  - MS-06F2 [ザクII F2型](https://zh.wikipedia.org/wiki/ザクII#後期量産型ザクII "wikilink")
   - MS-06F ザク［シュトゥッツァー］
-  - MS-09R
-    [リック・ドム［シュトゥッツァー］](https://zh.wikipedia.org/wiki/リック・ドム#リック・ドム［シュトゥッツァー］ "wikilink")
-  - MS-14
-    [ゲルググ［シュトゥッツァー］](https://zh.wikipedia.org/wiki/ゲルググ#ゲルググ［シュトゥッツァー］ "wikilink")
+  - MS-09R [リック・ドム［シュトゥッツァー］](https://zh.wikipedia.org/wiki/リック・ドム#リック・ドム［シュトゥッツァー］ "wikilink")
+  - MS-14 [ゲルググ［シュトゥッツァー］](https://zh.wikipedia.org/wiki/ゲルググ#ゲルググ［シュトゥッツァー］ "wikilink")
   - [ザンジバル](https://zh.wikipedia.org/wiki/ザンジバル_\(ガンダムシリーズ\) "wikilink")
 
 ### 幽谷
 
-  - RMS-099
-    [リック・ディアス［シュトゥッツァー］](https://zh.wikipedia.org/wiki/リック・ディアス#リック・ディアス［シュトゥッツァー］ "wikilink")
+  - RMS-099 [リック・ディアス［シュトゥッツァー］](https://zh.wikipedia.org/wiki/リック・ディアス#リック・ディアス［シュトゥッツァー］ "wikilink")
   - RMS-099 リック・ディアス［シュトゥッツァー］ メガバズーカランチャー装備
-  - RMS-099
-    [リック・ディアス](https://zh.wikipedia.org/wiki/リック・ディアス "wikilink")
+  - RMS-099 [リック・ディアス](https://zh.wikipedia.org/wiki/リック・ディアス "wikilink")
   - RGM-79R ジムII
-  - MSA-003
-    [ネモ](https://zh.wikipedia.org/wiki/ネモ_\(ガンダムシリーズ\) "wikilink")
+  - MSA-003 [ネモ](https://zh.wikipedia.org/wiki/ネモ_\(ガンダムシリーズ\) "wikilink")
   - MSA-003 ネモ［専用ビームカノン装備］
-  - MSA-003
-    [ネモ・カノン](https://zh.wikipedia.org/wiki/ネモ_\(ガンダムシリーズ\) "wikilink")
-      - NRX-044
-        [アッシマー](https://zh.wikipedia.org/wiki/アッシマー "wikilink")（俘获机）
+  - MSA-003 [ネモ・カノン](https://zh.wikipedia.org/wiki/ネモ_\(ガンダムシリーズ\) "wikilink")
+      - NRX-044 [アッシマー](https://zh.wikipedia.org/wiki/アッシマー "wikilink")（俘获机）
   - [萨拉米斯改級](https://zh.wikipedia.org/wiki/萨拉米斯 "wikilink")
   - フライング・アーマー
 
@@ -352,6 +314,4 @@ Team（‘提坦斯测试部队’以下简称T3部队）。其核心是由威�
   - [月刊Comic電擊大王（媒體作品內的頁面）](https://web.archive.org/web/20051029213600/http://www.mediaworks.co.jp/magazine/enter/dai.php)
   - [月刊Comic電擊大王（官方主頁）](https://web.archive.org/web/20110419151851/http://www.mediaworks.co.jp/special/daioh/)
 
-[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
+[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")

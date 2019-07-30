@@ -1,4 +1,4 @@
-**A.希恩斯**（，），[香港男子](../Page/香港.md "wikilink")[橄欖球運動員](../Page/橄欖球.md "wikilink")；正職為[體能](https://zh.wikipedia.org/wiki/體能 "wikilink")[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")。
+**A.希恩斯**（，），[香港](../Page/香港.md "wikilink")男子[橄欖球](../Page/橄欖球.md "wikilink")運動員；正職為[體能](https://zh.wikipedia.org/wiki/體能 "wikilink")[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")。
 
 ## 簡歷
 
@@ -6,8 +6,7 @@
 
 ## 家庭
 
-A.希恩斯的父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wikilink")，母親則是[香港人](../Page/香港人.md "wikilink")；胞兄[E.希恩斯同為欖球運動員](https://zh.wikipedia.org/wiki/E.希恩斯 "wikilink")，現為[香港男子七人欖球代表隊成員](../Page/香港男子七人欖球代表隊.md "wikilink")
-。
+A.希恩斯的父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wikilink")，母親則是[香港人](../Page/香港人.md "wikilink")；胞兄[E.希恩斯同為欖球運動員](https://zh.wikipedia.org/wiki/E.希恩斯 "wikilink")，現為[香港男子七人欖球代表隊](../Page/香港男子七人欖球代表隊.md "wikilink")成員 。
 
 ## 榮譽
 
@@ -20,7 +19,6 @@ A.希恩斯的父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wiki
 
 ## 參考資料
 
-[Category:香港欖球運動員](https://zh.wikipedia.org/wiki/Category:香港欖球運動員 "wikilink")
-[Category:2010年亞洲運動會銀牌得主](https://zh.wikipedia.org/wiki/Category:2010年亞洲運動會銀牌得主 "wikilink")
+[Category:香港欖球運動員](https://zh.wikipedia.org/wiki/Category:香港欖球運動員 "wikilink") [Category:2010年亞洲運動會銀牌得主](https://zh.wikipedia.org/wiki/Category:2010年亞洲運動會銀牌得主 "wikilink")
 
 1.

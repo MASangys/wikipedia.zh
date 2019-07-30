@@ -1,31 +1,22 @@
-*' Asus
-Padfone*'是[華碩旗下的已絕版](../Page/華碩.md "wikilink")[智慧型手機系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
+*' Asus Padfone*'是[華碩](../Page/華碩.md "wikilink")旗下的已絕版[智慧型手機系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 
-Asus
-Padfone最大特色是能將手機放入專屬的平板基座，使手機變成平板，因此又被稱為變形手機。不但可以加大螢幕尺寸，還可以增加電量，第一代的產品甚至還有鍵盤基座，讓手機變成類似筆記型電腦的型態，但後繼機種並沒有提供。
+Asus Padfone最大特色是能將手機放入專屬的平板基座，使手機變成平板，因此又被稱為變形手機。不但可以加大螢幕尺寸，還可以增加電量，第一代的產品甚至還有鍵盤基座，讓手機變成類似筆記型電腦的型態，但後繼機種並沒有提供。
 
 ## 旗下產品
 
-[缩略图](https://zh.wikipedia.org/wiki/File:ASUS_PadFone_2.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:ASUS_PadFone_promotional_models_at_Computex_20110530e.jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:ASUS_PadFone_2.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:ASUS_PadFone_promotional_models_at_Computex_20110530e.jpg "fig:缩略图")
 
   - [PadFone](https://zh.wikipedia.org/wiki/華碩Padfone "wikilink")
   - [PadFone 2](https://zh.wikipedia.org/wiki/華碩Padfone_2 "wikilink")
   - [PadFone E](https://zh.wikipedia.org/wiki/PadFone_E "wikilink")
-  - [PadFone
-    Infinity](https://zh.wikipedia.org/wiki/華碩Padfone_Infinity "wikilink")
-  - [The New Padfone
-    Infinity](https://zh.wikipedia.org/wiki/華碩New_Padfone_Infinity "wikilink")
-      - [Padfone Infinity
-        Lite](https://zh.wikipedia.org/wiki/Padfone_Infinity_Lite "wikilink")
-  - [PadFone
-    Mini](https://zh.wikipedia.org/wiki/PadFone_Mini "wikilink")
-      - [PadFone Mini
-        4.3](https://zh.wikipedia.org/wiki/PadFone_Mini_4.3 "wikilink")
+  - [PadFone Infinity](https://zh.wikipedia.org/wiki/華碩Padfone_Infinity "wikilink")
+  - [The New Padfone Infinity](https://zh.wikipedia.org/wiki/華碩New_Padfone_Infinity "wikilink")
+      - [Padfone Infinity Lite](https://zh.wikipedia.org/wiki/Padfone_Infinity_Lite "wikilink")
+  - [PadFone Mini](https://zh.wikipedia.org/wiki/PadFone_Mini "wikilink")
+      - [PadFone Mini 4.3](https://zh.wikipedia.org/wiki/PadFone_Mini_4.3 "wikilink")
   - [PadFone S](https://zh.wikipedia.org/wiki/PadFone_S "wikilink")
   - [PadFone X](https://zh.wikipedia.org/wiki/PadFone_X "wikilink")
-      - [PadFone X
-        Mini](https://zh.wikipedia.org/wiki/PadFone_X_Mini "wikilink")
+      - [PadFone X Mini](https://zh.wikipedia.org/wiki/PadFone_X_Mini "wikilink")
 
 ## 產品比較
 
@@ -476,6 +467,4 @@ PadFone S的廣告宣稱有電子錢包功能，實際上未具備此功能，20
 
 ## 外部連結
 
-[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")

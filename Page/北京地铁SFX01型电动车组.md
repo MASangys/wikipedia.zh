@@ -1,4 +1,4 @@
-**北京地铁SFX01型电动车组**\[1\]是[北京地铁的](../Page/北京地铁.md "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[八通线运营](https://zh.wikipedia.org/wiki/八通线 "wikilink")。
+**北京地铁SFX01型电动车组**\[1\]是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，在[八通线运营](https://zh.wikipedia.org/wiki/八通线 "wikilink")。
 
 ## 简介
 
@@ -8,8 +8,7 @@
 
 ## 列车图片
 
-Image:Batong Line metro.JPG|SFX01型列车内部 Image:Baliqiao station
-platform.jpg|416号列车在[八里桥站](https://zh.wikipedia.org/wiki/八里桥站 "wikilink")
+Image:Batong Line metro.JPG|SFX01型列车内部 Image:Baliqiao station platform.jpg|416号列车在[八里桥站](https://zh.wikipedia.org/wiki/八里桥站 "wikilink")
 
 ## 资料来源
 
@@ -17,9 +16,7 @@ platform.jpg|416号列车在[八里桥站](https://zh.wikipedia.org/wiki/八里�
 
   - [北京地铁车辆装备有限公司](https://web.archive.org/web/20130116163659/http://www.bsrse.com/)
 
-[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
-[Category:北京地铁SFX系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFX系列电动车组 "wikilink")
-[Category:北京地铁八通线](https://zh.wikipedia.org/wiki/Category:北京地铁八通线 "wikilink")
+[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:北京地铁SFX系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFX系列电动车组 "wikilink") [Category:北京地铁八通线](https://zh.wikipedia.org/wiki/Category:北京地铁八通线 "wikilink")
 
 1.
 2.

@@ -1,33 +1,12 @@
-**Ubuntu发行版**由[Ubuntu](../Page/Ubuntu.md "wikilink")[操作系统的开发者](../Page/操作系统.md "wikilink")[Canonical有限公司每隔半年发行](https://zh.wikipedia.org/wiki/Canonical有限公司 "wikilink")，用年和月来表示[版本号](https://zh.wikipedia.org/wiki/软件版本 "wikilink")。例如Ubuntu发行版的第一个版本Ubuntu
-4.10即发行于2004年10月20日。\[1\]\[2\]
+**Ubuntu发行版**由[Ubuntu](../Page/Ubuntu.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的开发者[Canonical有限公司每隔半年发行](https://zh.wikipedia.org/wiki/Canonical有限公司 "wikilink")，用年和月来表示[版本号](https://zh.wikipedia.org/wiki/软件版本 "wikilink")。例如Ubuntu发行版的第一个版本Ubuntu 4.10即发行于2004年10月20日。\[1\]\[2\]
 
 ## 命名规则
 
-Ubuntu版本的命名規則是根據正式版發行的年月命名，Ubuntu
-8.10也就意味著2008年10月發行的Ubuntu，研發人員與使用者可從版本號碼就知道正式發布的時間。Ubuntu是基於[Debian開發的](../Page/Debian.md "wikilink")[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，Debian的開發代號來自於電影[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")，不過，Ubuntu各版本的代號卻固定是形容詞加上動物名稱，而且這2個词的英文首字母一定是相同的。从Ubuntu
-6.06开始，两个词的首字母按照英文字母表的排列顺序取用。\[3\]
+Ubuntu版本的命名規則是根據正式版發行的年月命名，Ubuntu 8.10也就意味著2008年10月發行的Ubuntu，研發人員與使用者可從版本號碼就知道正式發布的時間。Ubuntu是基於[Debian](../Page/Debian.md "wikilink")開發的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，Debian的開發代號來自於電影[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")，不過，Ubuntu各版本的代號卻固定是形容詞加上動物名稱，而且這2個词的英文首字母一定是相同的。从Ubuntu 6.06开始，两个词的首字母按照英文字母表的排列顺序取用。\[3\]
 
 ## 发行历史
 
-Ubuntu-desktop-2-410-20080706.png|4.10 "Warty Warthog"
-Ubuntu-desktop-2-504-20080706.png|5.04 "Hoary Hedgehog"
-Ubuntu-desktop-2-510-20080706.png|5.10 "Breezy Badger"
-Ubuntu-desktop-2-606-20080706.png|6.06 "Dapper Drake"
-Ubuntu-desktop-2-610-20080708.png|6.10 "Edgy Eft" Ubuntu 7.04 Feisty
-Fawn.png|7.04 "Feisty Fawn" Ubuntu-desktop-2-710-20080708.png|7.10
-"Gutsy Gibbon" Ubuntu-desktop-2-804-20080708.png|8.04 "Hardy Heron"
-Ubuntu screenshot.png|8.10 "Intrepid Ibex" Ubuntu 9.04 Jaunty
-Jackalope.png|9.04 "Jaunty Jackalope" Ubuntu 9.10.png|9.10 "Karmic
-Koala" Ubuntu 10.04 screenshot.png|10.04 "Lucid Lynx"
-UbuntuMaverickDesktop.png|10.10 "Maverick Meerkat"
-Ubuntu-11-04-cat.png|11.04 "Natty Narwhal" Ubuntu 11.10 Final.png|11.10
-"Oneiric Ocelot" Ubuntu 12.04 EO.png|12.04 "Precise Pangolin" Ubuntu
-Desktop 12.10.png|12.10 "Quantal Quetzal" Ubuntu 13.04 Desktop.png|13.04
-"Raring Ringtail" Ubuntu 14.04-English-25.04.2014.png|14.04 "Trusty
-Tahr" Ubuntu 14.10 Utopic Desktop.png|14.10 "Utopic Unicorn" Ubuntu
-15.04.png|15.04 "Vivid Vervet" Ubuntu 15.10 English.png|15.10 "Wily
-Werewolf" Ubuntu 16.04 Desktop.png|16.04 "Xenial Xerus" Ubuntu 16.10
-English.png|16.10 "Yakkety Yak"
+Ubuntu-desktop-2-410-20080706.png|4.10 "Warty Warthog" Ubuntu-desktop-2-504-20080706.png|5.04 "Hoary Hedgehog" Ubuntu-desktop-2-510-20080706.png|5.10 "Breezy Badger" Ubuntu-desktop-2-606-20080706.png|6.06 "Dapper Drake" Ubuntu-desktop-2-610-20080708.png|6.10 "Edgy Eft" Ubuntu 7.04 Feisty Fawn.png|7.04 "Feisty Fawn" Ubuntu-desktop-2-710-20080708.png|7.10 "Gutsy Gibbon" Ubuntu-desktop-2-804-20080708.png|8.04 "Hardy Heron" Ubuntu screenshot.png|8.10 "Intrepid Ibex" Ubuntu 9.04 Jaunty Jackalope.png|9.04 "Jaunty Jackalope" Ubuntu 9.10.png|9.10 "Karmic Koala" Ubuntu 10.04 screenshot.png|10.04 "Lucid Lynx" UbuntuMaverickDesktop.png|10.10 "Maverick Meerkat" Ubuntu-11-04-cat.png|11.04 "Natty Narwhal" Ubuntu 11.10 Final.png|11.10 "Oneiric Ocelot" Ubuntu 12.04 EO.png|12.04 "Precise Pangolin" Ubuntu Desktop 12.10.png|12.10 "Quantal Quetzal" Ubuntu 13.04 Desktop.png|13.04 "Raring Ringtail" Ubuntu 14.04-English-25.04.2014.png|14.04 "Trusty Tahr" Ubuntu 14.10 Utopic Desktop.png|14.10 "Utopic Unicorn" Ubuntu 15.04.png|15.04 "Vivid Vervet" Ubuntu 15.10 English.png|15.10 "Wily Werewolf" Ubuntu 16.04 Desktop.png|16.04 "Xenial Xerus" Ubuntu 16.10 English.png|16.10 "Yakkety Yak"
 
 ## 版本列表
 
@@ -324,9 +303,7 @@ English.png|16.10 "Yakkety Yak"
 12.
 13.
 
-14. ["Ubuntu 14.10 (Utopic Unicorn) Now Based on Linux
-    Kernel 3.16"](http://news.softpedia.com/news/Ubuntu-14-10-Utopic-Unicorn-Now-Based-on-Linux-Kernel-3-16-451606.shtml),
-    22 July 2014, Silviu Stahie
+14. ["Ubuntu 14.10 (Utopic Unicorn) Now Based on Linux Kernel 3.16"](http://news.softpedia.com/news/Ubuntu-14-10-Utopic-Unicorn-Now-Based-on-Linux-Kernel-3-16-451606.shtml), 22 July 2014, Silviu Stahie
 
 15.
 16.

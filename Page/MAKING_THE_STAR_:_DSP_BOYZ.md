@@ -1,7 +1,4 @@
-**《MAKING THE STAR : DSP BOYZ》**
-是2012年4月24日起於[MBC有線頻道](https://zh.wikipedia.org/wiki/MBC "wikilink")[MBC
-MUSIC播出的明星出道全紀錄實境秀](https://zh.wikipedia.org/wiki/MBC "wikilink")，內容講述由[DSP
-Media繼](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")《[SS501](../Page/SS501.md "wikilink")》後睽違四年再次打造的7人男子組合《[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")》出道前至出道後的生活點滴\[1\]並且於4月2日起在官方[YOUTUBE頻道陸續公佈節目預告短片](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")。播出時間為每周二晚間20:30。
+**《MAKING THE STAR : DSP BOYZ》** 是2012年4月24日起於[MBC有線頻道](https://zh.wikipedia.org/wiki/MBC "wikilink")[MBC MUSIC播出的明星出道全紀錄實境秀](https://zh.wikipedia.org/wiki/MBC "wikilink")，內容講述由[DSP Media繼](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")《[SS501](../Page/SS501.md "wikilink")》後睽違四年再次打造的7人男子組合《[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")》出道前至出道後的生活點滴\[1\]並且於4月2日起在官方[YOUTUBE頻道陸續公佈節目預告短片](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")。播出時間為每周二晚間20:30。
 
 ## 概要
 
@@ -23,11 +20,6 @@ Media繼](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")《[SS501](../Page/
   -
 ## 參考資料
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:韓國文化](https://zh.wikipedia.org/wiki/Category:韓國文化 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
-[Category:A-JAX節目](https://zh.wikipedia.org/wiki/Category:A-JAX節目 "wikilink")
-[Category:DSP_Media](https://zh.wikipedia.org/wiki/Category:DSP_Media "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國文化](https://zh.wikipedia.org/wiki/Category:韓國文化 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:A-JAX節目](https://zh.wikipedia.org/wiki/Category:A-JAX節目 "wikilink") [Category:DSP_Media](https://zh.wikipedia.org/wiki/Category:DSP_Media "wikilink")
 
 1.

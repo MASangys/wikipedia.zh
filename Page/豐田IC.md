@@ -14,8 +14,7 @@
 
 ## 歷史
 
-  - 1968年4月25日 -
-    [東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[小牧IC至](https://zh.wikipedia.org/wiki/小牧IC "wikilink")[岡崎IC開通](https://zh.wikipedia.org/wiki/岡崎IC "wikilink")，此交流道也同時啟用。
+  - 1968年4月25日 - [東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[小牧IC至](https://zh.wikipedia.org/wiki/小牧IC "wikilink")[岡崎IC開通](https://zh.wikipedia.org/wiki/岡崎IC "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -33,16 +32,13 @@
 ## 交流道周邊
 
   - [豐田汽車元町工場](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")
-  - [UNY豐田元町店](../Page/UNY.md "wikilink")
+  - [UNY](../Page/UNY.md "wikilink")豐田元町店
   - [土橋車站](https://zh.wikipedia.org/wiki/土橋車站 "wikilink")
 
 ## 鄰近設施
 
   - [東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")
-    (19)[岡崎IC](https://zh.wikipedia.org/wiki/岡崎IC "wikilink") -
-    (19-1)[豐田JCT](https://zh.wikipedia.org/wiki/豐田JCT "wikilink") -
-    [上鄉SA](https://zh.wikipedia.org/wiki/上鄉SA "wikilink") - (20)**豐田IC**
-    - (20-1)[東名三好IC](https://zh.wikipedia.org/wiki/東名三好IC "wikilink")
+    (19)[岡崎IC](https://zh.wikipedia.org/wiki/岡崎IC "wikilink") - (19-1)[豐田JCT](https://zh.wikipedia.org/wiki/豐田JCT "wikilink") - [上鄉SA](https://zh.wikipedia.org/wiki/上鄉SA "wikilink") - (20)**豐田IC** - (20-1)[東名三好IC](https://zh.wikipedia.org/wiki/東名三好IC "wikilink")
 
 ## 相關項目
 
@@ -52,5 +48,4 @@
 
   - [中日本高速道路(東名高速)](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_To](https://zh.wikipedia.org/wiki/Category:日本交流道_To "wikilink")
-[Category:愛知縣交流道](https://zh.wikipedia.org/wiki/Category:愛知縣交流道 "wikilink")
+[Category:日本交流道_To](https://zh.wikipedia.org/wiki/Category:日本交流道_To "wikilink") [Category:愛知縣交流道](https://zh.wikipedia.org/wiki/Category:愛知縣交流道 "wikilink")

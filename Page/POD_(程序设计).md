@@ -1,5 +1,4 @@
-**Plain old data structure**, 缩写为**POD**,
-是[C++语言的标准中定义的一类](../Page/C++.md "wikilink")[数据结构](https://zh.wikipedia.org/wiki/数据 "wikilink")\[1\]，POD适用于需要明确的数据底层操作的系统中。POD通常被用在系统的边界处，即指不同系统之间只能以底层数据的形式进行交互，系统的高层逻辑不能互相兼容。比如当对象的字段值是从外部数据中构建时，系统还没有办法对对象进行语义检查和解释，这时就适用POD来存储数据。
+**Plain old data structure**, 缩写为**POD**, 是[C++](../Page/C++.md "wikilink")语言的标准中定义的一类[数据结构](https://zh.wikipedia.org/wiki/数据 "wikilink")\[1\]，POD适用于需要明确的数据底层操作的系统中。POD通常被用在系统的边界处，即指不同系统之间只能以底层数据的形式进行交互，系统的高层逻辑不能互相兼容。比如当对象的字段值是从外部数据中构建时，系统还没有办法对对象进行语义检查和解释，这时就适用POD来存储数据。
 
 ## 定义
 
@@ -36,22 +35,17 @@ POD类型包括下述C++类型，以及其cv-qualified的类型，还有以其�
 術語指標類型包括下述C++類型範疇\[8\]:
 
   - 空指標pointer-to-void (void \*),
-  - 對象指標pointer-to-object與指向靜態數據成員的指標pointer-to-static-member-data
-    (都是形如為T\*，其中T是對象類型),
-  - 函數指標pointer-to-function與指向靜態成員函數的指標pointer-to-static-member-function
-    (都是形如T (\*)(...)，T是函數的返回值的類型).
+  - 對象指標pointer-to-object與指向靜態數據成員的指標pointer-to-static-member-data (都是形如為T\*，其中T是對象類型),
+  - 函數指標pointer-to-function與指向靜態成員函數的指標pointer-to-static-member-function (都是形如T (\*)(...)，T是函數的返回值的類型).
 
 術語指標到成員類型包括下述C++類型範疇\[9\]:
 
-  - 指標到非靜態數據成員(pointer-to-nonstatic-member-data), 形如T C::\*
-    表示指向類C的類型為T的數據成員的指標；
-  - 指標到非靜態成員函數(pointer-to-nonstatic-member-functions), 形如T (C::\*)(...)
-    表示指向類C的返回值類型為T的成員函數的指標.
+  - 指標到非靜態數據成員(pointer-to-nonstatic-member-data), 形如T C::\* 表示指向類C的類型為T的數據成員的指標；
+  - 指標到非靜態成員函數(pointer-to-nonstatic-member-functions), 形如T (C::\*)(...) 表示指向類C的返回值類型為T的成員函數的指標.
 
 ### POD类类型
 
-POD类类型是指聚合类(aggregate classes, 即POD-struct types)与聚合union (POD-union
-types)，且不具有下述成员\[10\]:
+POD类类型是指聚合类(aggregate classes, 即POD-struct types)与聚合union (POD-union types)，且不具有下述成员\[10\]:
 
   - 指针到成员类型的非静态数据成员(包括数组)。
   - 非POD类类型的非静态数据成员(包括数组)。
@@ -112,28 +106,17 @@ POD类型在源代码兼容于ANSI C时非常重要。POD对象与C语言的对�
 
   - 内存布局——POD对象的组成字节是连续的\[13\].
 
-> "POD-struct ... types are layout-compatible if they have the same
-> number of members, and corresponding members (in order) have
-> layout-compatible types"\[14\].
+> "POD-struct ... types are layout-compatible if they have the same number of members, and corresponding members (in order) have layout-compatible types"\[14\].
 
-> POD-union ... types are layout-compatible if they have the same number
-> of members, and corresponding members (in any order) have
-> layout-compatible types"\[15\].
+> POD-union ... types are layout-compatible if they have the same number of members, and corresponding members (in any order) have layout-compatible types"\[15\].
 
-  - 初始化——对于non-const POD对象，如果没有初始化声明时，具有不确定的初值(indeterminate initial
-    value) \[16\]. POD对象的缺省初始化为0值\[17\].
-    静态POD对象初始化为给定的初值，如果是局部静态POD对象，在进入所在作用域之前初始化\[18\]\[§6.7,
-    ¶4\]; 对于非局部静态POD对象，在任何动态初始化之前赋予初值\[19\].
-  - 拷贝——POD对象可直接拷贝(例如用memcpy())到其它字符数组或相同POD类型的对象，保持其值不变\[20\]。POD类型可以用作标准模板字符串类的字符\[21\].
-    由于这个原因，函数的返回值如果是non-POD类型，则不能通过寄存器传递函数的返回值。
-  - 寻址——一个POD对象的地址可以是一个地址常量表达式\[22\]；一个对POD成员的引用可以是一个引用常量表达式\[23\].
-    一个POD-struct对象的指针，适合用reinterpret_cast转换到它的初始值\[24\].
+  - 初始化——对于non-const POD对象，如果没有初始化声明时，具有不确定的初值(indeterminate initial value) \[16\]. POD对象的缺省初始化为0值\[17\]. 静态POD对象初始化为给定的初值，如果是局部静态POD对象，在进入所在作用域之前初始化\[18\]\[§6.7, ¶4\]; 对于非局部静态POD对象，在任何动态初始化之前赋予初值\[19\].
+  - 拷贝——POD对象可直接拷贝(例如用memcpy())到其它字符数组或相同POD类型的对象，保持其值不变\[20\]。POD类型可以用作标准模板字符串类的字符\[21\]. 由于这个原因，函数的返回值如果是non-POD类型，则不能通过寄存器传递函数的返回值。
+  - 寻址——一个POD对象的地址可以是一个地址常量表达式\[22\]；一个对POD成员的引用可以是一个引用常量表达式\[23\]. 一个POD-struct对象的指针，适合用reinterpret_cast转换到它的初始值\[24\].
 
 ## POD JAVA
 
-JAVA中，一些开发者认为POD类型是符合没有public成员且没有方法的类，比如data transfer
-object。其实不使用事件句柄并且不实现除getter和setter之外的附加方法的POJO（只含有getter和setter的类）和JAVA
-Bean也属于POD。但不管怎么样，POJO和JAVA Bean已经有了封装，已经违反了POD的定义了。
+JAVA中，一些开发者认为POD类型是符合没有public成员且没有方法的类，比如data transfer object。其实不使用事件句柄并且不实现除getter和setter之外的附加方法的POJO（只含有getter和setter的类）和JAVA Bean也属于POD。但不管怎么样，POJO和JAVA Bean已经有了封装，已经违反了POD的定义了。
 
 ## 参见
 
@@ -143,8 +126,7 @@ Bean也属于POD。但不管怎么样，POJO和JAVA Bean已经有了封装，已
 
 <references/>
 
-[Category:_C++](https://zh.wikipedia.org/wiki/Category:_C++ "wikilink")
-[Category:_数据类型](https://zh.wikipedia.org/wiki/Category:_数据类型 "wikilink")
+[Category:_C++](https://zh.wikipedia.org/wiki/Category:_C++ "wikilink") [Category:_数据类型](https://zh.wikipedia.org/wiki/Category:_数据类型 "wikilink")
 
 1.  ISO/IEC 14882, first edition, 1998-09-01 p. 5, footnote 4\]
 2.  参见C++标准的§3.9, ¶10; §9, ¶4

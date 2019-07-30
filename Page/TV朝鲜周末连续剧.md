@@ -1,4 +1,4 @@
-《**TV朝鲜周末連續劇**》（），是逢[星期六](../Page/星期六.md "wikilink")、[星期日韓國晚間時段在](../Page/星期日.md "wikilink")[TV朝鮮播映的電視劇](../Page/TV朝鮮.md "wikilink")。
+《**TV朝鲜周末連續劇**》（），是逢[星期六](../Page/星期六.md "wikilink")、[星期日](../Page/星期日.md "wikilink")韓國晚間時段在[TV朝鮮](../Page/TV朝鮮.md "wikilink")播映的電視劇。
 
 ## 播出時間變遷
 
@@ -273,7 +273,4 @@
   - [SBS週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")
   - [tvN週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")
 
-[Category:TV朝鲜周末连续剧](https://zh.wikipedia.org/wiki/Category:TV朝鲜周末连续剧 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:TV朝鲜周末连续剧](https://zh.wikipedia.org/wiki/Category:TV朝鲜周末连续剧 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

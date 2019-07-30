@@ -1,14 +1,8 @@
-《**ADVANCE OF Ζ 时代的反抗者**》（，*ADVANCE OF Ζ THE TRAITOR TO
-DESTINY*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[小说之一](../Page/小说.md "wikilink")，由[神野淳一主笔创作](https://zh.wikipedia.org/wiki/神野淳一 "wikilink")。
+《**ADVANCE OF Ζ 时代的反抗者**》（，*ADVANCE OF Ζ THE TRAITOR TO DESTINY*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[小说](../Page/小说.md "wikilink")之一，由[神野淳一主笔创作](https://zh.wikipedia.org/wiki/神野淳一 "wikilink")。
 
 ## 简介
 
-以[动画作品为重心的](../Page/动画.md "wikilink")[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，《[机动战士
-Z
-GUNDAM](https://zh.wikipedia.org/wiki/机动战士_Z_GUNDAM "wikilink")》外传作品。在[SUNRISE所经营的官方门户网站](../Page/日昇動畫.md "wikilink")「GUNDAM.INFO」同[ASCII
-Media
-Works的联合计划下](../Page/ASCII_Media_Works.md "wikilink")，2010年起在模型雑誌《電撃HOBBY
-Magazine》上开始連載。
+以[动画](../Page/动画.md "wikilink")作品为重心的[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，《[机动战士 Z GUNDAM](https://zh.wikipedia.org/wiki/机动战士_Z_GUNDAM "wikilink")》外传作品。在[SUNRISE所经营的官方门户网站](../Page/日昇動畫.md "wikilink")「GUNDAM.INFO」同[ASCII Media Works的联合计划下](../Page/ASCII_Media_Works.md "wikilink")，2010年起在模型雑誌《電撃HOBBY Magazine》上开始連載。
 
 小说部分作者为[神野淳一](https://zh.wikipedia.org/wiki/神野淳一 "wikilink")，小说故事正篇连载于「GUN-{|}-DAM.INFO」，每月25日之前更新，约3个月更新一集。《電撃HOBBY》上则以图片加故事摘要以及模型制作范例等进行刊载。
 
@@ -43,8 +37,7 @@ Magazine》上开始連載。
 ### 幽谷
 
   -
-    Rosa
-    Gigantia的战斗指揮官。参加幽谷之前曾为北美士官学校的教官（范恩、达妮卡、欧内斯特和奥比诺的恩師）。在俘获萨拉米斯改級巡洋艦“[伐楼拿](../Page/伐楼拿.md "wikilink")”之后，将其改名为“德尔福”并就任舰长。
+    Rosa Gigantia的战斗指揮官。参加幽谷之前曾为北美士官学校的教官（范恩、达妮卡、欧内斯特和奥比诺的恩師）。在俘获萨拉米斯改級巡洋艦“[伐楼拿](../Page/伐楼拿.md "wikilink")”之后，将其改名为“德尔福”并就任舰长。
 
 ### 提坦斯
 
@@ -161,5 +154,4 @@ Magazine》上开始連載。
   - [電擊HOBBYMAGAZINE（媒體作品内的頁面）](https://web.archive.org/web/20070411201046/http://www.mediaworks.co.jp/magazine/enter/hob.php)
   - [電撃HOBBYWEB（電擊HOBBYMAGAZINE官方首頁）](http://hobby.dengeki.com/)
 
-[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
+[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")

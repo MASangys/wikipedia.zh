@@ -1,38 +1,32 @@
-《**ATARU**》，是2012年[TBS的電視劇](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")，由[中居正廣主演](../Page/中居正廣.md "wikilink")，初回延長20分（21:00
-- 22:14）。
+《**ATARU**》，是2012年[TBS的電視劇](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")，由[中居正廣](../Page/中居正廣.md "wikilink")主演，初回延長20分（21:00 - 22:14）。
 
 ## 概要
 
-一名罹患[學者症候群的特殊能力自閉兒又真實身份不明的青年](../Page/學者症候群.md "wikilink")－**ATARU**常在事件現場中協助警察破案，隨著劇情後續發展**ATARU**的真實的悲慘童年也揭曉。
-由曾編劇過《[相棒](../Page/相棒.md "wikilink")》及《[科搜研之女](../Page/科搜研之女.md "wikilink")》櫻井武晴出任。中居正廣連續電視主演2001年《[白影](../Page/白影.md "wikilink")》、2004年《[砂之器](../Page/砂之器.md "wikilink")》及2009年《[結婚萬歲](../Page/結婚萬歲.md "wikilink")》的三年後，再度擔任主演。
+一名罹患[學者症候群](../Page/學者症候群.md "wikilink")的特殊能力自閉兒又真實身份不明的青年－**ATARU**常在事件現場中協助警察破案，隨著劇情後續發展**ATARU**的真實的悲慘童年也揭曉。 由曾編劇過《[相棒](../Page/相棒.md "wikilink")》及《[科搜研之女](../Page/科搜研之女.md "wikilink")》櫻井武晴出任。中居正廣連續電視主演2001年《[白影](../Page/白影.md "wikilink")》、2004年《[砂之器](../Page/砂之器.md "wikilink")》及2009年《[結婚萬歲](../Page/結婚萬歲.md "wikilink")》的三年後，再度擔任主演。
 
 ## 登場人物
 
 ### 主要人物
 
-  - ATARU（豬口在） -
-    [中居正廣](../Page/中居正廣.md "wikilink")、[藤本飛龍](https://zh.wikipedia.org/wiki/藤本飛龍 "wikilink")（童年）（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")、[陳卓智](../Page/陳卓智.md "wikilink")（特別篇）、[陳琴雲](../Page/陳琴雲.md "wikilink")（童年））
+  - ATARU（豬口在） - [中居正廣](../Page/中居正廣.md "wikilink")、[藤本飛龍](https://zh.wikipedia.org/wiki/藤本飛龍 "wikilink")（童年）（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")、[陳卓智](../Page/陳卓智.md "wikilink")（特別篇）、[陳琴雲](../Page/陳琴雲.md "wikilink")（童年））
 
 <!-- end list -->
 
   -
-    又名冒失鬼\[1\]（チョコザイ）。是一名患有[學者症候群](../Page/學者症候群.md "wikilink")（Savant
-    Syndrome）的自閉症青年，擁有過人的記憶力及超強的理解力，並且精通各國[語言](../Page/語言.md "wikilink")。
+    又名冒失鬼\[1\]（チョコザイ）。是一名患有[學者症候群](../Page/學者症候群.md "wikilink")（Savant Syndrome）的自閉症青年，擁有過人的記憶力及超強的理解力，並且精通各國[語言](../Page/語言.md "wikilink")。
 
 <!-- end list -->
 
-  - 澤俊一 -
-    [北村一輝](../Page/北村一輝.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+  - 澤俊一 - [北村一輝](../Page/北村一輝.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
   -
-    [警視廳](../Page/警視廳.md "wikilink")[捜査一課第四強行犯第](https://zh.wikipedia.org/wiki/刑事部 "wikilink")12係澤班[警部補主任](../Page/警部補.md "wikilink")。
+    [警視廳](../Page/警視廳.md "wikilink")[捜査一課第四強行犯第](https://zh.wikipedia.org/wiki/刑事部 "wikilink")12係澤班[警部補](../Page/警部補.md "wikilink")主任。
 
 <!-- end list -->
 
-  - 蛯名舞子 -
-    [栗山千明](../Page/栗山千明.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")、[劉惠雲](../Page/劉惠雲.md "wikilink")（特別篇））
+  - 蛯名舞子 - [栗山千明](../Page/栗山千明.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")、[劉惠雲](../Page/劉惠雲.md "wikilink")（特別篇））
 
 <!-- end list -->
 
@@ -41,8 +35,7 @@
 
 <!-- end list -->
 
-  - 蛯名昇 -
-    [玉森裕太](../Page/玉森裕太.md "wikilink")（香港配音：[周良鴻](../Page/周良鴻.md "wikilink")→[胡家豪](../Page/胡家豪.md "wikilink")）
+  - 蛯名昇 - [玉森裕太](../Page/玉森裕太.md "wikilink")（香港配音：[周良鴻](../Page/周良鴻.md "wikilink")→[胡家豪](../Page/胡家豪.md "wikilink")）
 
 <!-- end list -->
 
@@ -51,8 +44,7 @@
 
 <!-- end list -->
 
-  - 石川唯 -
-    [光宗薰](../Page/光宗薰.md "wikilink")（前AKB48）（香港配音：[余欣沛](../Page/余欣沛.md "wikilink")→[張頌欣](../Page/張頌欣.md "wikilink")）
+  - 石川唯 - [光宗薰](../Page/光宗薰.md "wikilink")（前AKB48）（香港配音：[余欣沛](../Page/余欣沛.md "wikilink")→[張頌欣](../Page/張頌欣.md "wikilink")）
 
 <!-- end list -->
 
@@ -61,8 +53,7 @@
 
 ### 蛯名家
 
-  - 蛯名達夫 -
-    [利重剛](https://zh.wikipedia.org/wiki/利重剛 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 蛯名達夫 - [利重剛](https://zh.wikipedia.org/wiki/利重剛 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
 <!-- end list -->
 
@@ -71,8 +62,7 @@
 
 <!-- end list -->
 
-  - 蛯名真理子 -
-    [奥貫薫](https://zh.wikipedia.org/wiki/奥貫薫 "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
+  - 蛯名真理子 - [奥貫薫](https://zh.wikipedia.org/wiki/奥貫薫 "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
 
 <!-- end list -->
 
@@ -81,8 +71,7 @@
 
 ### 警視廳
 
-  - 中津川洋治 -
-    [嶋田久作](https://zh.wikipedia.org/wiki/嶋田久作 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 中津川洋治 - [嶋田久作](https://zh.wikipedia.org/wiki/嶋田久作 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
 
@@ -91,8 +80,7 @@
 
 <!-- end list -->
 
-  - 渥見怜志 -
-    [田中哲司](../Page/田中哲司.md "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")→[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - 渥見怜志 - [田中哲司](../Page/田中哲司.md "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")→[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -101,8 +89,7 @@
 
 <!-- end list -->
 
-  - 野崎蓮生 -
-    [千原靖史](https://zh.wikipedia.org/wiki/千原靖史 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
+  - 野崎蓮生 - [千原靖史](https://zh.wikipedia.org/wiki/千原靖史 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
 <!-- end list -->
 
@@ -111,10 +98,8 @@
 
 <!-- end list -->
 
-  - 犬飼甲子郎 -
-    [中村靖日](https://zh.wikipedia.org/wiki/中村靖日 "wikilink")（香港配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
-  - 松島光輝 -
-    [庄野崎謙](https://zh.wikipedia.org/wiki/庄野崎謙 "wikilink")（香港配音：[何承駿](../Page/何承駿.md "wikilink")→[關令翹](../Page/關令翹.md "wikilink")）
+  - 犬飼甲子郎 - [中村靖日](https://zh.wikipedia.org/wiki/中村靖日 "wikilink")（香港配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
+  - 松島光輝 - [庄野崎謙](https://zh.wikipedia.org/wiki/庄野崎謙 "wikilink")（香港配音：[何承駿](../Page/何承駿.md "wikilink")→[關令翹](../Page/關令翹.md "wikilink")）
 
 <!-- end list -->
 
@@ -123,8 +108,7 @@
 
 <!-- end list -->
 
-  - 黒木永正 -
-    [中村昌也](https://zh.wikipedia.org/wiki/中村昌也 "wikilink")（香港配音：[周倚天](../Page/周倚天.md "wikilink")）
+  - 黒木永正 - [中村昌也](https://zh.wikipedia.org/wiki/中村昌也 "wikilink")（香港配音：[周倚天](../Page/周倚天.md "wikilink")）
 
 <!-- end list -->
 
@@ -133,8 +117,7 @@
 
 <!-- end list -->
 
-  - 玉倉孝 -
-    [三好博道](https://zh.wikipedia.org/wiki/三好博道 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 玉倉孝 - [三好博道](https://zh.wikipedia.org/wiki/三好博道 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
 
 <!-- end list -->
 
@@ -143,8 +126,7 @@
 
 <!-- end list -->
 
-  - 安孫子智 -
-    [菅原大吉](https://zh.wikipedia.org/wiki/菅原大吉 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
+  - 安孫子智 - [菅原大吉](https://zh.wikipedia.org/wiki/菅原大吉 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
 
 <!-- end list -->
 
@@ -153,8 +135,7 @@
 
 <!-- end list -->
 
-  - 水野流美 -
-    [島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")（AKB48）（特別篇）（香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
+  - 水野流美 - [島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")（AKB48）（特別篇）（香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
 <!-- end list -->
 
@@ -163,8 +144,7 @@
 
 ### ATARU的關係者
 
-  - 賴利井上 -
-    [村上弘明](https://zh.wikipedia.org/wiki/村上弘明 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")、[陳廷軒](../Page/陳廷軒.md "wikilink")（特別篇））
+  - 賴利井上 - [村上弘明](https://zh.wikipedia.org/wiki/村上弘明 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")、[陳廷軒](../Page/陳廷軒.md "wikilink")（特別篇））
 
 <!-- end list -->
 
@@ -173,8 +153,7 @@
 
 <!-- end list -->
 
-  - 猪口誠 -
-    [市村正親](https://zh.wikipedia.org/wiki/市村正親 "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
+  - 猪口誠 - [市村正親](https://zh.wikipedia.org/wiki/市村正親 "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
 
 <!-- end list -->
 
@@ -183,8 +162,7 @@
 
 <!-- end list -->
 
-  - 豬口百合子 -
-    [原日出子](https://zh.wikipedia.org/wiki/原日出子 "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
+  - 豬口百合子 - [原日出子](https://zh.wikipedia.org/wiki/原日出子 "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
 
 <!-- end list -->
 
@@ -193,8 +171,7 @@
 
 <!-- end list -->
 
-  - 豬口介 -
-    [岡田將生](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")、[凌晞](../Page/凌晞.md "wikilink")（童年））
+  - 豬口介 - [岡田將生](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")、[凌晞](../Page/凌晞.md "wikilink")（童年））
 
 <!-- end list -->
 
@@ -205,150 +182,95 @@
 
 #### 第1集
 
-  - 齊木郁 -
-    [板谷由夏](../Page/板谷由夏.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
-  - 20MART店員 -
-    [蘿拉](../Page/Rola_\(模特兒\).md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
-  - 20MART店長 -
-    [俵木藤汰](https://zh.wikipedia.org/wiki/俵木藤汰 "wikilink")（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
+  - 齊木郁 - [板谷由夏](../Page/板谷由夏.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+  - 20MART店員 - [蘿拉](../Page/Rola_\(模特兒\).md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+  - 20MART店長 - [俵木藤汰](https://zh.wikipedia.org/wiki/俵木藤汰 "wikilink")（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
   - ROLLY - 本人飾演（第6集）（香港配音：[雷霆](../Page/雷霆.md "wikilink")）
-  - 齊木靖男 -
-    [池田新](https://zh.wikipedia.org/wiki/池田新 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
+  - 齊木靖男 - [池田新](https://zh.wikipedia.org/wiki/池田新 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
 #### 第2集
 
-  - 早乙女隆 -
-    [神尾佑](https://zh.wikipedia.org/wiki/神尾佑 "wikilink")（香港配音：[雷霆](../Page/雷霆.md "wikilink")）
-  - 早乙女信子 -
-    [坂井真紀](../Page/坂井真紀.md "wikilink")（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
-  - 莊田美咲 -
-    [陽月華](../Page/陽月華.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
-  - 增本治 -
-    [金山一彥](https://zh.wikipedia.org/wiki/金山一彥 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
-  - 增本三枝 -
-    [齊藤玲](https://zh.wikipedia.org/wiki/齊藤玲 "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
+  - 早乙女隆 - [神尾佑](https://zh.wikipedia.org/wiki/神尾佑 "wikilink")（香港配音：[雷霆](../Page/雷霆.md "wikilink")）
+  - 早乙女信子 - [坂井真紀](../Page/坂井真紀.md "wikilink")（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
+  - 莊田美咲 - [陽月華](../Page/陽月華.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+  - 增本治 - [金山一彥](https://zh.wikipedia.org/wiki/金山一彥 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+  - 增本三枝 - [齊藤玲](https://zh.wikipedia.org/wiki/齊藤玲 "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
 
 #### 第3集
 
-  - 弓削啓子 -
-    [高橋瞳](../Page/高橋瞳.md "wikilink")（香港配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
-  - 弓削拓海 -
-    [浅利陽介](https://zh.wikipedia.org/wiki/浅利陽介 "wikilink")（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
-  - 坂巻譲 -
-    [累央](https://zh.wikipedia.org/wiki/累央 "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
-  - 小嶋裕子 -
-    [高橋愛](../Page/高橋愛.md "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
-  - 弓削勝則 -
-    [矢嶋俊作](https://zh.wikipedia.org/wiki/矢嶋俊作 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+  - 弓削啓子 - [高橋瞳](../Page/高橋瞳.md "wikilink")（香港配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
+  - 弓削拓海 - [浅利陽介](https://zh.wikipedia.org/wiki/浅利陽介 "wikilink")（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+  - 坂巻譲 - [累央](https://zh.wikipedia.org/wiki/累央 "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
+  - 小嶋裕子 - [高橋愛](../Page/高橋愛.md "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
+  - 弓削勝則 - [矢嶋俊作](https://zh.wikipedia.org/wiki/矢嶋俊作 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
 
 #### 第4集
 
-  - 三和篤裕 -
-    [阿南健治](https://zh.wikipedia.org/wiki/阿南健治 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
-  - 笹井英子 -
-    [安藤櫻](../Page/安藤櫻.md "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
-  - 鈴原理子 -
-    [木村文乃](../Page/木村文乃.md "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
-  - 公原卓郎 -
-    [平岡祐太](../Page/平岡祐太.md "wikilink")（第10集）（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
-  - 橋田透 -
-    [永岡佑](https://zh.wikipedia.org/wiki/永岡佑 "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
+  - 三和篤裕 - [阿南健治](https://zh.wikipedia.org/wiki/阿南健治 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 笹井英子 - [安藤櫻](../Page/安藤櫻.md "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
+  - 鈴原理子 - [木村文乃](../Page/木村文乃.md "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
+  - 公原卓郎 - [平岡祐太](../Page/平岡祐太.md "wikilink")（第10集）（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
+  - 橋田透 - [永岡佑](https://zh.wikipedia.org/wiki/永岡佑 "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
 
 #### 第5集
 
-  - 桂井真登香 -
-    [臼田麻美](https://zh.wikipedia.org/wiki/臼田麻美 "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
-  - 淺尾茂樹 -
-    [岡田義德](../Page/岡田義德.md "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
-  - 植松秀高 -
-    [小島康志](https://zh.wikipedia.org/wiki/小島康志 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
-  - 鎌田新一 -
-    [清水一希](../Page/清水一希.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
-  - 大島香 -
-    [岩田小百合](../Page/岩田小百合.md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
-  - 仲 -
-    [千代將太](https://zh.wikipedia.org/wiki/千代將太 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
-  - 門倉松雄 -
-    [遠藤憲一](../Page/遠藤憲一.md "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
-  - 北見光治 -
-    [東根作壽英](https://zh.wikipedia.org/wiki/東根作壽英 "wikilink")（香港配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
-  - 井下田悅四郎 -
-    [池田鐵洋](https://zh.wikipedia.org/wiki/池田鐵洋 "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")）
+  - 桂井真登香 - [臼田麻美](https://zh.wikipedia.org/wiki/臼田麻美 "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - 淺尾茂樹 - [岡田義德](../Page/岡田義德.md "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 植松秀高 - [小島康志](https://zh.wikipedia.org/wiki/小島康志 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
+  - 鎌田新一 - [清水一希](../Page/清水一希.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
+  - 大島香 - [岩田小百合](../Page/岩田小百合.md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+  - 仲 - [千代將太](https://zh.wikipedia.org/wiki/千代將太 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
+  - 門倉松雄 - [遠藤憲一](../Page/遠藤憲一.md "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 北見光治 - [東根作壽英](https://zh.wikipedia.org/wiki/東根作壽英 "wikilink")（香港配音：[麥皓豐](../Page/麥皓豐.md "wikilink")）
+  - 井下田悅四郎 - [池田鐵洋](https://zh.wikipedia.org/wiki/池田鐵洋 "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")）
 
 #### 第6集
 
-  - 水瀨咲繪 -
-    [寺島咲](https://zh.wikipedia.org/wiki/寺島咲 "wikilink")、[石井萌萌果](../Page/石井萌萌果.md "wikilink")（童年）（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
-  - 石嶺勝男 -
-    [花王收](https://zh.wikipedia.org/wiki/花王收 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
-  - 東太一 -
-    [石田卓也](../Page/石田卓也.md "wikilink")（香港配音：[關令翹](../Page/關令翹.md "wikilink")）
-  - 長岡滿 -
-    [布施紀行](https://zh.wikipedia.org/wiki/布施紀行 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
-  - 被綁架的女子 -
-    [新川優愛](../Page/新川優愛.md "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
+  - 水瀨咲繪 - [寺島咲](https://zh.wikipedia.org/wiki/寺島咲 "wikilink")、[石井萌萌果](../Page/石井萌萌果.md "wikilink")（童年）（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - 石嶺勝男 - [花王收](https://zh.wikipedia.org/wiki/花王收 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+  - 東太一 - [石田卓也](../Page/石田卓也.md "wikilink")（香港配音：[關令翹](../Page/關令翹.md "wikilink")）
+  - 長岡滿 - [布施紀行](https://zh.wikipedia.org/wiki/布施紀行 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
+  - 被綁架的女子 - [新川優愛](../Page/新川優愛.md "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
 
 #### 第7集
 
-  - 福留吉昭 -
-    [升毅](https://zh.wikipedia.org/wiki/升毅 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
-  - 和田拓馬 -
-    [神保悟志](https://zh.wikipedia.org/wiki/神保悟志 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
-  - 柏原由美 -
-    [ICONIQ](https://zh.wikipedia.org/wiki/ICONIQ "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
-  - 味谷恭一郎 -
-    [渡洋史](https://zh.wikipedia.org/wiki/渡洋史 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 福留吉昭 - [升毅](https://zh.wikipedia.org/wiki/升毅 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 和田拓馬 - [神保悟志](https://zh.wikipedia.org/wiki/神保悟志 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 柏原由美 - [ICONIQ](https://zh.wikipedia.org/wiki/ICONIQ "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+  - 味谷恭一郎 - [渡洋史](https://zh.wikipedia.org/wiki/渡洋史 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
 #### 第8集
 
-  - 川久保良太 -
-    [渡部豪太](https://zh.wikipedia.org/wiki/渡部豪太 "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
-  - 葉夏美 -
-    [福田彩乃](../Page/福田彩乃.md "wikilink")（香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
-  - 川久保庄司 -
-    [岡山一](https://zh.wikipedia.org/wiki/岡山一 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
-  - 日村將人 -
-    [須藤公一](https://zh.wikipedia.org/wiki/須藤公一 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
-  - 日村梅乃 -
-    [松本純](../Page/松本純.md "wikilink")（香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
-  - 伊藤稔 -
-    [坂本真](https://zh.wikipedia.org/wiki/坂本真 "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
+  - 川久保良太 - [渡部豪太](https://zh.wikipedia.org/wiki/渡部豪太 "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
+  - 葉夏美 - [福田彩乃](../Page/福田彩乃.md "wikilink")（香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
+  - 川久保庄司 - [岡山一](https://zh.wikipedia.org/wiki/岡山一 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 日村將人 - [須藤公一](https://zh.wikipedia.org/wiki/須藤公一 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
+  - 日村梅乃 - [松本純](../Page/松本純.md "wikilink")（香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
+  - 伊藤稔 - [坂本真](https://zh.wikipedia.org/wiki/坂本真 "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
 
 #### 第9集
 
-  - 村井今日子 -
-    [森脇英理子](https://zh.wikipedia.org/wiki/森脇英理子 "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
-  - 村井朗 -
-    [黒澤宏貴](https://zh.wikipedia.org/wiki/黒澤宏貴 "wikilink")（香港配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
+  - 村井今日子 - [森脇英理子](https://zh.wikipedia.org/wiki/森脇英理子 "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+  - 村井朗 - [黒澤宏貴](https://zh.wikipedia.org/wiki/黒澤宏貴 "wikilink")（香港配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
 
 #### 第10集
 
-  - 小暮綾香 / 桃香 -
-    [安倍夏美](../Page/安倍夏美.md "wikilink")（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
-  - 森洋一 -
-    [西興一朗](https://zh.wikipedia.org/wiki/西興一朗 "wikilink")（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
-  - 寶井真美 -
-    [広澤草](https://zh.wikipedia.org/wiki/広澤草 "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
+  - 小暮綾香 / 桃香 - [安倍夏美](../Page/安倍夏美.md "wikilink")（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+  - 森洋一 - [西興一朗](https://zh.wikipedia.org/wiki/西興一朗 "wikilink")（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
+  - 寶井真美 - [広澤草](https://zh.wikipedia.org/wiki/広澤草 "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
 
 #### 第11集
 
-  - 寶石店店主 -
-    [塔摩利](../Page/塔摩利.md "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+  - 寶石店店主 - [塔摩利](../Page/塔摩利.md "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
 
 #### 特別篇
 
-  - Alessandro Carolina Madoka -
-    [堀北真希](../Page/堀北真希.md "wikilink")、[內田愛](https://zh.wikipedia.org/wiki/內田愛 "wikilink")（童年）（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
-  - 南保 -
-    [井出卓也](https://zh.wikipedia.org/wiki/井出卓也 "wikilink")（香港配音：[李致林](../Page/李致林.md "wikilink")）
-  - 下川由美 -
-    [竹富聖花](https://zh.wikipedia.org/wiki/竹富聖花 "wikilink")（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
-  - 笹井純子 -
-    [佐津川愛美](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
-  - 內田智子 -
-    [渡邊舞](https://zh.wikipedia.org/wiki/渡邊舞 "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
-  - 時田次郎 -
-    [渡邊大知](https://zh.wikipedia.org/wiki/渡邊大知 "wikilink")（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+  - Alessandro Carolina Madoka - [堀北真希](../Page/堀北真希.md "wikilink")、[內田愛](https://zh.wikipedia.org/wiki/內田愛 "wikilink")（童年）（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+  - 南保 - [井出卓也](https://zh.wikipedia.org/wiki/井出卓也 "wikilink")（香港配音：[李致林](../Page/李致林.md "wikilink")）
+  - 下川由美 - [竹富聖花](https://zh.wikipedia.org/wiki/竹富聖花 "wikilink")（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+  - 笹井純子 - [佐津川愛美](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
+  - 內田智子 - [渡邊舞](https://zh.wikipedia.org/wiki/渡邊舞 "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
+  - 時田次郎 - [渡邊大知](https://zh.wikipedia.org/wiki/渡邊大知 "wikilink")（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
 
 ## 製作團隊
 
@@ -505,10 +427,8 @@
 ### 電影版登場人物
 
   - アレッサンドロ・カロリナ・マドカ - [堀北真希](../Page/堀北真希.md "wikilink")
-  - 星秋穗 -
-    [松雪泰子](../Page/松雪泰子.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
-  - アリーニ・マツバラ -
-    [前田美波里](https://zh.wikipedia.org/wiki/前田美波里 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - 星秋穗 - [松雪泰子](../Page/松雪泰子.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+  - アリーニ・マツバラ - [前田美波里](https://zh.wikipedia.org/wiki/前田美波里 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 
 ## 參考資料與注釋
 
@@ -521,22 +441,6 @@
 
 [Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink")
 
-[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink")
-[Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink")
-[Category:學者症候群題材電視劇](https://zh.wikipedia.org/wiki/Category:學者症候群題材電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:男性日本人電視劇角色](https://zh.wikipedia.org/wiki/Category:男性日本人電視劇角色 "wikilink")
-[Category:男性日本人電影角色](https://zh.wikipedia.org/wiki/Category:男性日本人電影角色 "wikilink")
-[Category:中居正广所主演的电视剧](https://zh.wikipedia.org/wiki/Category:中居正广所主演的电视剧 "wikilink")
-[Category:櫻井武晴劇本電視劇](https://zh.wikipedia.org/wiki/Category:櫻井武晴劇本電視劇 "wikilink")
+[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink") [Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink") [Category:學者症候群題材電視劇](https://zh.wikipedia.org/wiki/Category:學者症候群題材電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:男性日本人電視劇角色](https://zh.wikipedia.org/wiki/Category:男性日本人電視劇角色 "wikilink") [Category:男性日本人電影角色](https://zh.wikipedia.org/wiki/Category:男性日本人電影角色 "wikilink") [Category:中居正广所主演的电视剧](https://zh.wikipedia.org/wiki/Category:中居正广所主演的电视剧 "wikilink") [Category:櫻井武晴劇本電視劇](https://zh.wikipedia.org/wiki/Category:櫻井武晴劇本電視劇 "wikilink")
 
 1.  台灣緯來日本台譯作“豬口宅”，香港無綫電視譯作“豬頭仔”。
