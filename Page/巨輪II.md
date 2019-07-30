@@ -1,19 +1,18 @@
-《**巨輪II**》（英语：**Brother's Keeper
-II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝倫理](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，故事背景以商业竞争為題。由[蕭正楠](../Page/蕭正楠.md "wikilink")、[田蕊妮及](../Page/田蕊妮.md "wikilink")[陳凱琳領銜主演](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[李亞男特別演出](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，並由[楊明](../Page/楊明.md "wikilink")、[吳岱融](../Page/吳岱融.md "wikilink")、[阮兆祥及](../Page/阮兆祥.md "wikilink")[梁琤聯合主演](../Page/梁琤.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。
+《**巨輪II**》（英语：**Brother's Keeper II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝倫理[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，故事背景以商业竞争為題。由[蕭正楠](../Page/蕭正楠.md "wikilink")、[田蕊妮](../Page/田蕊妮.md "wikilink")及[陳凱琳領銜主演](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[李亞男特別演出](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，並由[楊明](../Page/楊明.md "wikilink")、[吳岱融](../Page/吳岱融.md "wikilink")、[阮兆祥](../Page/阮兆祥.md "wikilink")及[梁琤](../Page/梁琤.md "wikilink")聯合主演，監製[王心慰](../Page/王心慰.md "wikilink")。
 
-此劇是《[巨輪](../Page/巨輪.md "wikilink")》的續集，亦繼續由[钜記餅家冠名贊助](https://zh.wikipedia.org/wiki/钜記餅家 "wikilink")，並於[澳門](../Page/澳門.md "wikilink")、[香港](../Page/香港.md "wikilink")、[日本取景](../Page/日本.md "wikilink")。
+此劇是《[巨輪](../Page/巨輪.md "wikilink")》的續集，亦繼續由[钜記餅家冠名贊助](https://zh.wikipedia.org/wiki/钜記餅家 "wikilink")，並於[澳門](../Page/澳門.md "wikilink")、[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")取景。
 
-此劇為2015[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")11部推介劇集之一、[2016無綫節目巡禮之一](../Page/2016無綫節目巡禮.md "wikilink")、2016[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")12部推介劇集之一、無綫海外業務及簡介2016‬所推介的17部劇集之一。\[1\]\[2\]本劇自2018年1月22日起於「大大平台」上架，除了提供粵語、國語雙聲道外，還有台語配音的選擇，絕對讓台灣人充滿親切感。
+此劇為2015[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")11部推介劇集之一、[2016無綫節目巡禮](../Page/2016無綫節目巡禮.md "wikilink")之一、2016[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")12部推介劇集之一、無綫海外業務及簡介2016‬所推介的17部劇集之一。\[1\]\[2\]本劇自2018年1月22日起於「大大平台」上架，除了提供粵語、國語雙聲道外，還有台語配音的選擇，絕對讓台灣人充滿親切感。
 
 ## 本劇特色
 
-「澳門買手信，我只買羅信記」羅威信（[蕭正楠飾](../Page/蕭正楠.md "wikilink")）為求突破，遠赴日本沖繩，找尋頂级食材。競爭對手惡意的攻擊，羅威信面對抉擇，要堅守原則？還是以非常手段，逆境求存？一場挑戰又再展開……
+「澳門買手信，我只買羅信記」羅威信（[蕭正楠](../Page/蕭正楠.md "wikilink")飾）為求突破，遠赴日本沖繩，找尋頂级食材。競爭對手惡意的攻擊，羅威信面對抉擇，要堅守原則？還是以非常手段，逆境求存？一場挑戰又再展開……
 
 本劇的時間段為2014年至2015年的2年歷史，所以承接上集，本劇亦同樣加插真實新聞片段或報章頭條來貫穿時間。
 
 ## 故事大綱
 
-羅威信（[蕭正楠飾](../Page/蕭正楠.md "wikilink")）幾經艱辛，將「羅信記」發展得譽滿港澳，成為澳門富豪新晉；同時卻惹來疊碼仔出身的地產商高天鷲（[吳岱融飾](../Page/吳岱融.md "wikilink")）不滿，施橫手連翻打壓，遂到日本沖繩尋找寧靜空間。期間，戀上了神秘少女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")），更捲入一宗廿年前離奇凶案！另一方面，姚文英（[田蕊妮飾](../Page/田蕊妮.md "wikilink")）丈夫龍飛（[阮兆祥飾](../Page/阮兆祥.md "wikilink")）遇上撞機意外，腦部受創，竟視文英為陌路人…加上為尋找舊愛卓靜（[鍾嘉欣飾](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")）的喬天生（[陳展鵬飾](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")）回歸，威信面對突如其來的親情、愛情及事業的新沖擊，應如何去面對？
+羅威信（[蕭正楠](../Page/蕭正楠.md "wikilink")飾）幾經艱辛，將「羅信記」發展得譽滿港澳，成為澳門富豪新晉；同時卻惹來疊碼仔出身的地產商高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）不滿，施橫手連翻打壓，遂到日本沖繩尋找寧靜空間。期間，戀上了神秘少女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")），更捲入一宗廿年前離奇凶案！另一方面，姚文英（[田蕊妮](../Page/田蕊妮.md "wikilink")飾）丈夫龍飛（[阮兆祥](../Page/阮兆祥.md "wikilink")飾）遇上撞機意外，腦部受創，竟視文英為陌路人…加上為尋找舊愛卓靜（[鍾嘉欣飾](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")）的喬天生（[陳展鵬飾](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")）回歸，威信面對突如其來的親情、愛情及事業的新沖擊，應如何去面對？
 
 ## 演員表
 
@@ -1248,7 +1247,7 @@ Noon之男友<br />
 <td><p>警方線人<br />
 於第3集協助楊曼芝調查高天鷲<br />
 於第4集與吳坤合作，以搜集高天鷲之罪證<br />
-其後要求高天鷲停止迫害羅信記，回<a href="../Page/澳門.md" title="wikilink">澳門時遭吳坤指使手下毆打</a><br />
+其後要求高天鷲停止迫害羅信記，回<a href="../Page/澳門.md" title="wikilink">澳門</a>時遭吳坤指使手下毆打<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#羅家" title="wikilink">羅家</a></strong></p></td>
 <td><p>1-5</p></td>
 </tr>
@@ -2554,9 +2553,9 @@ Noon之表哥<br />
 有別於上一輯，今輯插播的新聞片段，大多數與劇情毫無關係，只有少數歷史事件被改編加進劇情內。
 
   - 2014年、2015年：[香港](../Page/香港.md "wikilink")[佔領中環](https://zh.wikipedia.org/wiki/佔領中環 "wikilink")、[雨傘運動](https://zh.wikipedia.org/wiki/雨傘運動 "wikilink")、[地產霸權](../Page/地產霸權.md "wikilink")（第1集）
-  - 2015年：[筲箕灣避風塘三級火警](../Page/筲箕灣避風塘.md "wikilink")（第1、18集）
+  - 2015年：[筲箕灣避風塘](../Page/筲箕灣避風塘.md "wikilink")三級火警（第1、18集）
   - 2014年：[台灣、香港、澳門地溝油風波](../Page/2014年台灣劣質油品事件.md "wikilink")（第6-9集）
-  - 2014年：《[明報](../Page/明報.md "wikilink")》總編輯[劉進圖遇襲案](../Page/劉進圖.md "wikilink")（第9集）
+  - 2014年：《[明報](../Page/明報.md "wikilink")》總編輯[劉進圖](../Page/劉進圖.md "wikilink")遇襲案（第9集）
   - 2014年：[香港高鐵超支延誤事件](../Page/香港高鐵超支延誤事件.md "wikilink")（第9集）
   - 2014年：[馬來西亞航空370號班機空難](https://zh.wikipedia.org/wiki/馬來西亞航空370號班機空難 "wikilink")（第14-15、18集）
   - 2015年：[德國之翼航空9525號班機空難](https://zh.wikipedia.org/wiki/德國之翼航空9525號班機空難 "wikilink")（第18集）
@@ -2570,7 +2569,7 @@ Noon之表哥<br />
 
 ## 收視
 
-以下為本劇於香港無綫電視[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 <table>
 <tbody>
@@ -2753,35 +2752,34 @@ Noon之表哥<br />
 
 ## 軼事
 
-  - [上集的編審為](../Page/巨輪.md "wikilink")[吳肇銅](../Page/吳肇銅.md "wikilink")，這集改由[鄭成武編審](../Page/鄭成武.md "wikilink")。
-  - 此劇是[萧正楠與](https://zh.wikipedia.org/wiki/萧正楠 "wikilink")[楊明繼](../Page/楊明.md "wikilink")《[戀愛自由式](../Page/戀愛自由式.md "wikilink")》、《[天梯
-    (無綫電視劇)](../Page/天梯_\(無綫電視劇\).md "wikilink")》、《[師奶MADAM](../Page/師奶MADAM.md "wikilink")》後再度合作。
-  - 此劇是[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、[李佳芯與](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")[李璧琦繼](../Page/李璧琦.md "wikilink")《[名門暗戰](../Page/名門暗戰.md "wikilink")》後再度合作，後兩者在《[潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")》亦有合作。
-  - 此劇是[田蕊妮與](../Page/田蕊妮.md "wikilink")[趙永洪繼前作](../Page/趙永洪.md "wikilink")《[巨輪](../Page/巨輪.md "wikilink")》、《[天天天晴](../Page/天天天晴.md "wikilink")》《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》《[鬼同你OT](../Page/鬼同你OT.md "wikilink")》、《[無雙譜](https://zh.wikipedia.org/wiki/無雙譜 "wikilink")》後第五度合作，除《[天天天晴](../Page/天天天晴.md "wikilink")》《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》外三次都飾演對立關係。
-  - 此劇是[田蕊妮](../Page/田蕊妮.md "wikilink")、[楊明](../Page/楊明.md "wikilink")、[何遠東與](../Page/何遠東.md "wikilink")[李璧琦繼](../Page/李璧琦.md "wikilink")《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》後再度合作，前兩者飾演男女朋友關係，而[田蕊妮與](../Page/田蕊妮.md "wikilink")[何遠東則在](../Page/何遠東.md "wikilink")《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》飾演好友關係，而在本劇繼前作《[巨輪](../Page/巨輪.md "wikilink")》飾演姊弟關係兼第三度合作。
-  - 此劇是[趙永洪](../Page/趙永洪.md "wikilink")、[張美妮繼](../Page/張美妮.md "wikilink")《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》後再演夫妻。
-  - 此劇是[田蕊妮](../Page/田蕊妮.md "wikilink")、[楊明](../Page/楊明.md "wikilink")、[李璧琦與](../Page/李璧琦.md "wikilink")[丁主惠繼](../Page/丁主惠.md "wikilink")《[誰家灶頭無煙火](../Page/誰家灶頭無煙火.md "wikilink")》後再度合作。
-  - 此劇是[田蕊妮與](../Page/田蕊妮.md "wikilink")[徐榮繼](https://zh.wikipedia.org/wiki/徐榮 "wikilink")《[天天天晴](../Page/天天天晴.md "wikilink")》後再度合作。
-  - 此劇是[吳岱融回巢並出演劇集](../Page/吳岱融.md "wikilink")《[刀下留人](../Page/刀下留人.md "wikilink")》之後，首次參演時代劇集。於[MyTV有關其飾演角色](../Page/MyTV.md "wikilink")「高天鷲」的說明指其性別為「女」，後在第5集播畢後更正。
-  - [李司棋已於續集開拍前約滿並離開](../Page/李司棋.md "wikilink")[無綫](https://zh.wikipedia.org/wiki/無綫 "wikilink")，無參演本劇，其飾演角色「周玉梅」僅在眾人口述及回憶中、長途電話及照片中出現。
+  - [上集的編審為](../Page/巨輪.md "wikilink")[吳肇銅](../Page/吳肇銅.md "wikilink")，這集改由[鄭成武](../Page/鄭成武.md "wikilink")編審。
+  - 此劇是[萧正楠與](https://zh.wikipedia.org/wiki/萧正楠 "wikilink")[楊明](../Page/楊明.md "wikilink")繼《[戀愛自由式](../Page/戀愛自由式.md "wikilink")》、《[天梯 (無綫電視劇)](../Page/天梯_\(無綫電視劇\).md "wikilink")》、《[師奶MADAM](../Page/師奶MADAM.md "wikilink")》後再度合作。
+  - 此劇是[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、[李佳芯與](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")[李璧琦](../Page/李璧琦.md "wikilink")繼《[名門暗戰](../Page/名門暗戰.md "wikilink")》後再度合作，後兩者在《[潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")》亦有合作。
+  - 此劇是[田蕊妮](../Page/田蕊妮.md "wikilink")與[趙永洪](../Page/趙永洪.md "wikilink")繼前作《[巨輪](../Page/巨輪.md "wikilink")》、《[天天天晴](../Page/天天天晴.md "wikilink")》《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》《[鬼同你OT](../Page/鬼同你OT.md "wikilink")》、《[無雙譜](https://zh.wikipedia.org/wiki/無雙譜 "wikilink")》後第五度合作，除《[天天天晴](../Page/天天天晴.md "wikilink")》《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》外三次都飾演對立關係。
+  - 此劇是[田蕊妮](../Page/田蕊妮.md "wikilink")、[楊明](../Page/楊明.md "wikilink")、[何遠東](../Page/何遠東.md "wikilink")與[李璧琦](../Page/李璧琦.md "wikilink")繼《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》後再度合作，前兩者飾演男女朋友關係，而[田蕊妮](../Page/田蕊妮.md "wikilink")與[何遠東](../Page/何遠東.md "wikilink")則在《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》飾演好友關係，而在本劇繼前作《[巨輪](../Page/巨輪.md "wikilink")》飾演姊弟關係兼第三度合作。
+  - 此劇是[趙永洪](../Page/趙永洪.md "wikilink")、[張美妮](../Page/張美妮.md "wikilink")繼《[衝呀！瘦薪兵團](../Page/衝呀！瘦薪兵團.md "wikilink")》後再演夫妻。
+  - 此劇是[田蕊妮](../Page/田蕊妮.md "wikilink")、[楊明](../Page/楊明.md "wikilink")、[李璧琦](../Page/李璧琦.md "wikilink")與[丁主惠](../Page/丁主惠.md "wikilink")繼《[誰家灶頭無煙火](../Page/誰家灶頭無煙火.md "wikilink")》後再度合作。
+  - 此劇是[田蕊妮](../Page/田蕊妮.md "wikilink")與[徐榮繼](https://zh.wikipedia.org/wiki/徐榮 "wikilink")《[天天天晴](../Page/天天天晴.md "wikilink")》後再度合作。
+  - 此劇是[吳岱融](../Page/吳岱融.md "wikilink")回巢並出演劇集《[刀下留人](../Page/刀下留人.md "wikilink")》之後，首次參演時代劇集。於[MyTV](../Page/MyTV.md "wikilink")有關其飾演角色「高天鷲」的說明指其性別為「女」，後在第5集播畢後更正。
+  - [李司棋](../Page/李司棋.md "wikilink")已於續集開拍前約滿並離開[無綫](https://zh.wikipedia.org/wiki/無綫 "wikilink")，無參演本劇，其飾演角色「周玉梅」僅在眾人口述及回憶中、長途電話及照片中出現。
   - 此劇飾演男女朋友的[萧正楠與](https://zh.wikipedia.org/wiki/萧正楠 "wikilink")[陈凱琳](https://zh.wikipedia.org/wiki/陈凱琳 "wikilink")，現實中年齡相差14歲。
   - 此劇是[李亞男的告別作](https://zh.wikipedia.org/wiki/李亞男 "wikilink")。
-  - 此劇遠赴[日本](../Page/日本.md "wikilink")[沖繩](https://zh.wikipedia.org/wiki/沖繩 "wikilink")、[久米島拍攝](../Page/久米島.md "wikilink")，並有當地[日本演員客串](../Page/日本.md "wikilink")，片尾以英文顯示。
+  - 此劇遠赴[日本](../Page/日本.md "wikilink")[沖繩](https://zh.wikipedia.org/wiki/沖繩 "wikilink")、[久米島](../Page/久米島.md "wikilink")拍攝，並有當地[日本](../Page/日本.md "wikilink")演員客串，片尾以英文顯示。
   - 此劇並未在[泰國取景](https://zh.wikipedia.org/wiki/泰國 "wikilink")，第15至16集劇情涉及的泰國公海區域，實際上是在[西貢海域一帶拍攝](https://zh.wikipedia.org/wiki/西貢 "wikilink")\[5\]。
-  - 此劇亦是[煒烈再次以](../Page/煒烈.md "wikilink")「特約演員」身份參演，最初在其出場集數末尾的演員表並無留名，直至第36集末尾演員表上留名。
-  - 此劇為2016年[無綫月曆之一](../Page/無綫月曆.md "wikilink")。
-  - 此劇男女主角原定由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣主演](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，但因[鍾嘉欣的檔期問題](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，故改由[蕭正楠以及](../Page/蕭正楠.md "wikilink")[田蕊妮為男女主角](../Page/田蕊妮.md "wikilink")，[陳凱琳為女二](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，喬天生與卓靜故事結局未能更加圓滿，只能夠客串1-5集。
+  - 此劇亦是[煒烈](../Page/煒烈.md "wikilink")再次以「特約演員」身份參演，最初在其出場集數末尾的演員表並無留名，直至第36集末尾演員表上留名。
+  - 此劇為2016年[無綫月曆](../Page/無綫月曆.md "wikilink")之一。
+  - 此劇男女主角原定由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣主演](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，但因[鍾嘉欣的檔期問題](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，故改由[蕭正楠](../Page/蕭正楠.md "wikilink")以及[田蕊妮](../Page/田蕊妮.md "wikilink")為男女主角，[陳凱琳為女二](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，喬天生與卓靜故事結局未能更加圓滿，只能夠客串1-5集。
   - 此劇的主題曲《誰可改變》名稱與1984年劇集《[天師執位](../Page/天師執位.md "wikilink")》的主題曲相同名稱，但歌詞內容沒有關聯，而兩者的演唱者也不是同一人。
 
 ## 迴響
 
 ### 主題曲
 
-前作《[巨輪](../Page/巨輪.md "wikilink")》的主題曲《巨輪》由[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳展鵬合唱](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")（[葉肇中](../Page/葉肇中.md "wikilink")、[鄧智偉作曲](../Page/鄧智偉.md "wikilink")，[林日曦填詞](../Page/林日曦.md "wikilink")）在前作首播時深受歡迎。在續集播前廣告和第1集，亦以前作主題曲作序。但自第1集片尾後則使用前作男主角[陳展鵬主唱的](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")《誰可改變》（[張家誠作曲](../Page/張家誠.md "wikilink")，[楊熙填詞](../Page/楊熙_\(填詞人\).md "wikilink")）作全劇主題曲，卻被指“新不如舊”\[6\]。及後前作主題曲在第9集羅威信回憶羅信記十七年的經歷時再次播出。
+前作《[巨輪](../Page/巨輪.md "wikilink")》的主題曲《巨輪》由[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳展鵬合唱](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")（[葉肇中](../Page/葉肇中.md "wikilink")、[鄧智偉](../Page/鄧智偉.md "wikilink")作曲，[林日曦](../Page/林日曦.md "wikilink")填詞）在前作首播時深受歡迎。在續集播前廣告和第1集，亦以前作主題曲作序。但自第1集片尾後則使用前作男主角[陳展鵬主唱的](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")《誰可改變》（[張家誠](../Page/張家誠.md "wikilink")作曲，[楊熙填詞](../Page/楊熙_\(填詞人\).md "wikilink")）作全劇主題曲，卻被指“新不如舊”\[6\]。及後前作主題曲在第9集羅威信回憶羅信記十七年的經歷時再次播出。
 
 ### 劇情
 
-本劇首播前三週，平均收視下跌至20.8點，更被狠批不如前一輯，劇情拖沓，節奏緩慢，更有不少觀眾及網民要求腰斬此劇\[7\]\[8\]。不過根據劇情預告，高天鷲（[吳岱融飾](../Page/吳岱融.md "wikilink")）對養女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）疑似發展父女曖昧，甚至從第31集開始出現強暴戲等大尺度劇情，引發觀眾及網民直指「《巨輪II》變[亂倫](https://zh.wikipedia.org/wiki/亂倫 "wikilink")」\[9\]。
+本劇首播前三週，平均收視下跌至20.8點，更被狠批不如前一輯，劇情拖沓，節奏緩慢，更有不少觀眾及網民要求腰斬此劇\[7\]\[8\]。不過根據劇情預告，高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）對養女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）疑似發展父女曖昧，甚至從第31集開始出現強暴戲等大尺度劇情，引發觀眾及網民直指「《巨輪II》變[亂倫](https://zh.wikipedia.org/wiki/亂倫 "wikilink")」\[9\]。
 
 ### 5集大結局
 
@@ -2789,24 +2787,22 @@ Noon之表哥<br />
 
 ### 演員嚴重缺乏
 
-本劇與另一劇集《[為食神探](../Page/為食神探.md "wikilink")》同期播出，有網民發現兩套劇都有[阮兆祥](../Page/阮兆祥.md "wikilink")、[盧苑茵](https://zh.wikipedia.org/wiki/盧苑茵 "wikilink")、[劉江](../Page/劉江_\(香港\).md "wikilink")、[張美妮同](../Page/張美妮.md "wikilink")[楊明等演員的演出](../Page/楊明.md "wikilink")，質疑無綫演員嚴重缺乏，也有人笑指，兩套劇可以成為姊妹劇\[12\]。其後接檔《[為食神探](../Page/為食神探.md "wikilink")》的新劇《[律政強人](https://zh.wikipedia.org/wiki/律政強人 "wikilink")》中，亦有[李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")、[譚偉權](../Page/譚偉權.md "wikilink")、[李璧琦等演員的演出](../Page/李璧琦.md "wikilink")\[13\]。結局週同期播出的台慶劇《[來自喵喵星的妳](../Page/來自喵喵星的妳.md "wikilink")》亦有本劇演出[田蕊妮](../Page/田蕊妮.md "wikilink")、[黃栢文](../Page/黃栢文.md "wikilink")、[何遠東](../Page/何遠東.md "wikilink")、[趙永洪的參演](../Page/趙永洪.md "wikilink")。
+本劇與另一劇集《[為食神探](../Page/為食神探.md "wikilink")》同期播出，有網民發現兩套劇都有[阮兆祥](../Page/阮兆祥.md "wikilink")、[盧苑茵](https://zh.wikipedia.org/wiki/盧苑茵 "wikilink")、[劉江](../Page/劉江_\(香港\).md "wikilink")、[張美妮](../Page/張美妮.md "wikilink")同[楊明](../Page/楊明.md "wikilink")等演員的演出，質疑無綫演員嚴重缺乏，也有人笑指，兩套劇可以成為姊妹劇\[12\]。其後接檔《[為食神探](../Page/為食神探.md "wikilink")》的新劇《[律政強人](https://zh.wikipedia.org/wiki/律政強人 "wikilink")》中，亦有[李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")、[譚偉權](../Page/譚偉權.md "wikilink")、[李璧琦](../Page/李璧琦.md "wikilink")等演員的演出\[13\]。結局週同期播出的台慶劇《[來自喵喵星的妳](../Page/來自喵喵星的妳.md "wikilink")》亦有本劇演出[田蕊妮](../Page/田蕊妮.md "wikilink")、[黃栢文](../Page/黃栢文.md "wikilink")、[何遠東](../Page/何遠東.md "wikilink")、[趙永洪](../Page/趙永洪.md "wikilink")的參演。
 
 ### 置入式行銷
 
-本劇繼前作《[巨輪](../Page/巨輪.md "wikilink")》之後，繼續由澳門[鉅記餅家贊助](../Page/鉅記餅家.md "wikilink")，亦再次被指[置入式行銷](https://zh.wikipedia.org/wiki/置入式行銷 "wikilink")。另外，由於不少情節都是在[日本](../Page/日本.md "wikilink")[沖繩及](https://zh.wikipedia.org/wiki/沖繩 "wikilink")[久米島實景拍攝](../Page/久米島.md "wikilink")，甚至以拍攝當地風景以代替劇情“充數”的情況，被指極似[沖繩旅遊特輯而非一般劇集](https://zh.wikipedia.org/wiki/沖繩 "wikilink")\[14\]。
+本劇繼前作《[巨輪](../Page/巨輪.md "wikilink")》之後，繼續由澳門[鉅記餅家](../Page/鉅記餅家.md "wikilink")贊助，亦再次被指[置入式行銷](https://zh.wikipedia.org/wiki/置入式行銷 "wikilink")。另外，由於不少情節都是在[日本](../Page/日本.md "wikilink")[沖繩及](https://zh.wikipedia.org/wiki/沖繩 "wikilink")[久米島](../Page/久米島.md "wikilink")實景拍攝，甚至以拍攝當地風景以代替劇情“充數”的情況，被指極似[沖繩旅遊特輯而非一般劇集](https://zh.wikipedia.org/wiki/沖繩 "wikilink")\[14\]。
 
 ### 角色設定
 
-本劇開拍時，劇組曾宣稱乃前作《[巨輪](../Page/巨輪.md "wikilink")》的“原班人馬”參演劇集，但角色設定方面，主要保留參演羅家、姚家、“羅信記”員工的演員，並增加已回巢的[吳岱融](../Page/吳岱融.md "wikilink")、[梁琤等資深演員](../Page/梁琤.md "wikilink")。然而前作深受觀眾歡迎的螢幕情侶[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[陳展鵬卻以](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")“特别客串”的身份出演續集\[15\]，甚至劇集巡禮片中都未提及二人的角色，只是將演員[陳展鵬置於最初宣傳海報當中吸納廣告商](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")，正式海報卻將二人照片放在左下角並標明為“特別演出”，引起不少觀眾及視迷的失望；但亦有部分觀眾關注二人飾演的角色喬天生與卓靜在續集的感情結果\[16\]\[17\]\[18\]。相反，近年來被TVB極為力捧，並在多部劇集飾演重角的2013年港姐冠軍[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，在此劇飾演女主角高伊娜，與男主角[蕭正楠合作飾演情侶](../Page/蕭正楠.md "wikilink")，戲份較重，相關安排更引起不少網民的不滿，甚至在劇情未發展至第5集[陳凱琳出場前](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，已有不少針對[陳凱琳演技的投訴](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")。\[19\]\[20\]
+本劇開拍時，劇組曾宣稱乃前作《[巨輪](../Page/巨輪.md "wikilink")》的“原班人馬”參演劇集，但角色設定方面，主要保留參演羅家、姚家、“羅信記”員工的演員，並增加已回巢的[吳岱融](../Page/吳岱融.md "wikilink")、[梁琤](../Page/梁琤.md "wikilink")等資深演員。然而前作深受觀眾歡迎的螢幕情侶[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[陳展鵬卻以](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")“特别客串”的身份出演續集\[15\]，甚至劇集巡禮片中都未提及二人的角色，只是將演員[陳展鵬置於最初宣傳海報當中吸納廣告商](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")，正式海報卻將二人照片放在左下角並標明為“特別演出”，引起不少觀眾及視迷的失望；但亦有部分觀眾關注二人飾演的角色喬天生與卓靜在續集的感情結果\[16\]\[17\]\[18\]。相反，近年來被TVB極為力捧，並在多部劇集飾演重角的2013年港姐冠軍[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，在此劇飾演女主角高伊娜，與男主角[蕭正楠](../Page/蕭正楠.md "wikilink")合作飾演情侶，戲份較重，相關安排更引起不少網民的不滿，甚至在劇情未發展至第5集[陳凱琳出場前](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，已有不少針對[陳凱琳演技的投訴](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")。\[19\]\[20\]
 
-結果此劇播出以後，陳凱琳在《巨輪II》的演技備受批評，甚至被指影響收視\[21\]\[22\]。而在劇情發展初段和中段，其演出亦如預期備受批評，唯到劇情末段，她飾演的高伊娜多次在劇中被養父企圖強姦，部份網民亦認為其表現雖仍有很大進步空間，但對比之前的劇集亦算略有進步。\[23\]而飾演其養父的[吳岱融在此劇的大反派演出則讓觀眾注目](../Page/吳岱融.md "wikilink")，網民更以「一個高天鷲救起整套劇」盛讚其演技精湛，還推舉他為《[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink")》「**最佳男主角**」\[24\]\[25\]\[26\]\[27\]。此角色也使吳岱融首度獲提名《[TVB
-馬來西亞星光薈萃頒獎典禮2016](../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md "wikilink")》「**最喜愛TVB男配角**」、《萬千星輝頒獎典禮2016》「**最佳男配角**」及「**最受歡迎電視男角色**」。
+結果此劇播出以後，陳凱琳在《巨輪II》的演技備受批評，甚至被指影響收視\[21\]\[22\]。而在劇情發展初段和中段，其演出亦如預期備受批評，唯到劇情末段，她飾演的高伊娜多次在劇中被養父企圖強姦，部份網民亦認為其表現雖仍有很大進步空間，但對比之前的劇集亦算略有進步。\[23\]而飾演其養父的[吳岱融](../Page/吳岱融.md "wikilink")在此劇的大反派演出則讓觀眾注目，網民更以「一個高天鷲救起整套劇」盛讚其演技精湛，還推舉他為《[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink")》「**最佳男主角**」\[24\]\[25\]\[26\]\[27\]。此角色也使吳岱融首度獲提名《[TVB 馬來西亞星光薈萃頒獎典禮2016](../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md "wikilink")》「**最喜愛TVB男配角**」、《萬千星輝頒獎典禮2016》「**最佳男配角**」及「**最受歡迎電視男角色**」。
 
 ### 大結局
 
-  - 《巨輪II》最終於第39集結局中交待高天鷲（[吳岱融飾](../Page/吳岱融.md "wikilink")）最終落網入獄，但沒有明言高天鷲的最終下場；而高天鷲的養女Nana（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）與Wing（[李佳芯飾](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")）及母親沈美華（[梁琤飾](../Page/梁琤.md "wikilink")）亦去了日本沖繩散心，男主角羅威信（[蕭正楠飾](../Page/蕭正楠.md "wikilink")）的終生大事未有定論；而羅威信與姚文英（[田蕊妮飾](../Page/田蕊妮.md "wikilink")）在大結局中出現反面，文英更因為不認同羅威信報復高天鷲的手段而拆股，最終在龍飛（[阮兆祥飾](../Page/阮兆祥.md "wikilink")）說出文英的心聲，二人最後言和。有網媒、網民猜測[TVB也許會再添食](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝續集《巨輪III》\[28\]。
-  - 《巨輪II》大結局，平均收視33.3點，最高收視35.2點，成為自2014年以來最高收視的大結局。適逢當晚[颱風海馬襲港](https://zh.wikipedia.org/wiki/颱風海馬 "wikilink")，也帶挈了收視上升。
-    \[29\] \[30\]
+  - 《巨輪II》最終於第39集結局中交待高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）最終落網入獄，但沒有明言高天鷲的最終下場；而高天鷲的養女Nana（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）與Wing（[李佳芯飾](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")）及母親沈美華（[梁琤](../Page/梁琤.md "wikilink")飾）亦去了日本沖繩散心，男主角羅威信（[蕭正楠](../Page/蕭正楠.md "wikilink")飾）的終生大事未有定論；而羅威信與姚文英（[田蕊妮](../Page/田蕊妮.md "wikilink")飾）在大結局中出現反面，文英更因為不認同羅威信報復高天鷲的手段而拆股，最終在龍飛（[阮兆祥](../Page/阮兆祥.md "wikilink")飾）說出文英的心聲，二人最後言和。有網媒、網民猜測[TVB也許會再添食](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝續集《巨輪III》\[28\]。
+  - 《巨輪II》大結局，平均收視33.3點，最高收視35.2點，成為自2014年以來最高收視的大結局。適逢當晚[颱風海馬襲港](https://zh.wikipedia.org/wiki/颱風海馬 "wikilink")，也帶挈了收視上升。 \[29\] \[30\]
 
 ## 記事
 
@@ -2828,17 +2824,11 @@ Noon之表哥<br />
 
 ## 外部連結
 
-  - [巨輪II - myTV
-    SUPER](http://programme.mytvsuper.com/tc/105360/巨輪ii/casts)
+  - [巨輪II - myTV SUPER](http://programme.mytvsuper.com/tc/105360/巨輪ii/casts)
 
 ## 電視節目的變遷
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:澳門背景電視劇](https://zh.wikipedia.org/wiki/Category:澳門背景電視劇 "wikilink")
-[Category:沖繩縣背景電視劇](https://zh.wikipedia.org/wiki/Category:沖繩縣背景電視劇 "wikilink")
-[Category:巨輪系列](https://zh.wikipedia.org/wiki/Category:巨輪系列 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:澳門背景電視劇](https://zh.wikipedia.org/wiki/Category:澳門背景電視劇 "wikilink") [Category:沖繩縣背景電視劇](https://zh.wikipedia.org/wiki/Category:沖繩縣背景電視劇 "wikilink") [Category:巨輪系列](https://zh.wikipedia.org/wiki/Category:巨輪系列 "wikilink")
 
 1.
 
@@ -2848,32 +2838,24 @@ Noon之表哥<br />
 
 4.
 
-5.  [新劇瞓身力戰陳凱琳
-    田蕊妮抱病跳海升呢無綫一姐](https://hk.celebrity.yahoo.com/news/新劇瞓身力戰陳凱琳-田蕊妮抱病跳海升呢無綫-姐-215518417.html)
+5.  [新劇瞓身力戰陳凱琳 田蕊妮抱病跳海升呢無綫一姐](https://hk.celebrity.yahoo.com/news/新劇瞓身力戰陳凱琳-田蕊妮抱病跳海升呢無綫-姐-215518417.html)
 
 6.
 7.  [Yahoo！娛樂圈：會唔會跌穿20點？《巨輪II》收視跌至20.8點](https://hk.celebrity.yahoo.com/會唔會跌穿20點巨輪ii收視跌至208點-062326653.html)，2016年09月20日
 
-8.  [蘋果日報：【靠強姦戲救收視】冇咗鍾嘉欣得番誇張陳凱琳
-    網民留名等睇《巨輪II》腰斬](http://hk.apple.nextmedia.com/enews/realtime/20160927/55701121)，2016年9月27日
+8.  [蘋果日報：【靠強姦戲救收視】冇咗鍾嘉欣得番誇張陳凱琳 網民留名等睇《巨輪II》腰斬](http://hk.apple.nextmedia.com/enews/realtime/20160927/55701121)，2016年9月27日
 
-9.  [OHWO：◤TVB 重頭戲巨輪2變亂倫?◢吳岱融& 陳凱琳竟然發展父女曖昧? 還在戲里… 網民:
-    OMG\!](http://www.ohwonews.com/164035/)
+9.  [OHWO：◤TVB 重頭戲巨輪2變亂倫?◢吳岱融& 陳凱琳竟然發展父女曖昧? 還在戲里… 網民: OMG\!](http://www.ohwonews.com/164035/)
 
-10. [TVB Facebook﹕巨輪II
-    幕後花絮](https://www.facebook.com/tvbcom/videos/10154378080608449/?hc_ref=SEARCH)
+10. [TVB Facebook﹕巨輪II 幕後花絮](https://www.facebook.com/tvbcom/videos/10154378080608449/?hc_ref=SEARCH)
 
-11. [MYTVSuper
-    Facebook﹕［巨輪II］](https://www.facebook.com/mytvsuper/videos/745403345597657/)
+11. [MYTVSuper Facebook﹕［巨輪II］](https://www.facebook.com/mytvsuper/videos/745403345597657/)
 
-12. [Yahoo\!娛樂圈：《為食神探》同《巨輪II》撞晒人
-    網民有咩評價？](https://hk.celebrity.yahoo.com/為食神探-同-巨輪ii-撞晒人-1510571838177334.html?src=fb_omgfanpage)，2016年9月7日
+12. [Yahoo\!娛樂圈：《為食神探》同《巨輪II》撞晒人 網民有咩評價？](https://hk.celebrity.yahoo.com/為食神探-同-巨輪ii-撞晒人-1510571838177334.html?src=fb_omgfanpage)，2016年9月7日
 
-13. [蘋果日報：【耳朵懷孕了】（附李佳芯多圖）無綫大配角唱《律政強人》英文插曲
-    超好聽](http://hk.apple.nextmedia.com/enews/realtime/20160927/55700319?top=24h)，2016年9月27日
+13. [蘋果日報：【耳朵懷孕了】（附李佳芯多圖）無綫大配角唱《律政強人》英文插曲 超好聽](http://hk.apple.nextmedia.com/enews/realtime/20160927/55700319?top=24h)，2016年9月27日
 
-14. [Yahoo\!娛樂圈：唔似睇緊劇
-    《巨輪II》越睇越似沖繩旅遊特輯](https://hk.celebrity.yahoo.com/唔似睇緊劇-巨輪ii越睇越似沖繩旅遊特輯-063600562.html)
+14. [Yahoo\!娛樂圈：唔似睇緊劇 《巨輪II》越睇越似沖繩旅遊特輯](https://hk.celebrity.yahoo.com/唔似睇緊劇-巨輪ii越睇越似沖繩旅遊特輯-063600562.html)
 
 15. 前作女主角[鍾嘉欣因接拍](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")《[警犬巴打](https://zh.wikipedia.org/wiki/警犬巴打 "wikilink")》；前作男主角[陳展鵬因接拍](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")《[城寨英雄](../Page/城寨英雄.md "wikilink")》，故兩者皆未能於該段期間出演《巨輪II》
 
@@ -2883,32 +2865,24 @@ Noon之表哥<br />
 
 18. [plem.com：巨輪II](http://wp.plem.com/?p=27455)
 
-19. [東方新地：《巨輪II》負評多
-    陳凱琳成箭靶](http://www.orientalsunday.hk/最新娛聞/《巨輪ii》負評多-陳凱琳成箭靶/)
+19. [東方新地：《巨輪II》負評多 陳凱琳成箭靶](http://www.orientalsunday.hk/最新娛聞/《巨輪ii》負評多-陳凱琳成箭靶/)
 
-20. [陳展鵬、鍾嘉欣變配角
-    《巨輪2》竟然負評如潮？](http://www.nmplus.hk/enterainment/%E3%80%8A%E5%B7%A8%E8%BC%AA2%E3%80%8B%E9%96%8B%E6%92%AD%E8%B2%A0%E8%A9%95%E5%A6%82%E6%BD%AE/2/)
+20. [陳展鵬、鍾嘉欣變配角 《巨輪2》竟然負評如潮？](http://www.nmplus.hk/enterainment/%E3%80%8A%E5%B7%A8%E8%BC%AA2%E3%80%8B%E9%96%8B%E6%92%AD%E8%B2%A0%E8%A9%95%E5%A6%82%E6%BD%AE/2/)
 
 21.
 22. [香港01：陳凱琳《巨輪II》被批評　鄭嘉穎撐女友：演技需要時間磨練](http://www.hk01.com/娛樂/43633/陳凱琳-巨輪II-被批評-鄭嘉穎撐女友-演技需要時間磨練)，2016年09月17日
 
 23.
 
-24. [演瘋狂獸父高天鷲爆紅
-    視迷睇好吳岱融問鼎最奸男主角](http://skypost.ulifestyle.com.hk/%E5%A8%9B%E6%A8%82/%E5%A8%9B%E6%A8%82/20161018/002/%E6%BC%94%E7%98%8B%E7%8B%82%E7%8D%B8%E7%88%B6%E9%AB%98%E5%A4%A9%E9%B7%B2%E7%88%86%E7%B4%85%20%E8%A6%96%E8%BF%B7%E7%9D%87%E5%A5%BD%E5%90%B3%E5%B2%B1%E8%9E%8D%E5%95%8F%E9%BC%8E%E6%9C%80%E5%A5%B8%E7%94%B7%E4%B8%BB%E8%A7%92/232815)
-    ，[晴報](../Page/晴報.md "wikilink")，2016年10月18日
+24. [演瘋狂獸父高天鷲爆紅 視迷睇好吳岱融問鼎最奸男主角](http://skypost.ulifestyle.com.hk/%E5%A8%9B%E6%A8%82/%E5%A8%9B%E6%A8%82/20161018/002/%E6%BC%94%E7%98%8B%E7%8B%82%E7%8D%B8%E7%88%B6%E9%AB%98%E5%A4%A9%E9%B7%B2%E7%88%86%E7%B4%85%20%E8%A6%96%E8%BF%B7%E7%9D%87%E5%A5%BD%E5%90%B3%E5%B2%B1%E8%9E%8D%E5%95%8F%E9%BC%8E%E6%9C%80%E5%A5%B8%E7%94%B7%E4%B8%BB%E8%A7%92/232815) ，[晴報](../Page/晴報.md "wikilink")，2016年10月18日
 
-25. [【高天鷲：攞去洗啦～臭雞！】](https://www.facebook.com/bullshxtking/videos/818934514915314/)，[靚抽王
-    Bull Shxt King
-    fb專頁](https://www.facebook.com/bullshxtking/videos/818934514915314/)，2016年10月13日
+25. [【高天鷲：攞去洗啦～臭雞！】](https://www.facebook.com/bullshxtking/videos/818934514915314/)，[靚抽王 Bull Shxt King fb專頁](https://www.facebook.com/bullshxtking/videos/818934514915314/)，2016年10月13日
 
 26. [【鍾意佢夠賤格】網民熱捧高天鷲金句](http://hk.on.cc/hk/bkn/cnt/entertainment/20161014/bkn-20161014194114677-1014_00862_001.html)，[東網](https://zh.wikipedia.org/wiki/ON.CC "wikilink")，2016年10月14日
 
-27. [吳岱融《巨輪II》勁鬧李佳芯係「雞」
-    視帝級演繹高天鷲：一定要講呢句！](http://www.hk01.com/%E5%A8%9B%E6%A8%82/48522/%E5%90%B3%E5%B2%B1%E8%9E%8D-%E5%B7%A8%E8%BC%AAII-%E5%8B%81%E9%AC%A7%E6%9D%8E%E4%BD%B3%E8%8A%AF%E4%BF%82-%E9%9B%9E-%E8%A6%96%E5%B8%9D%E7%B4%9A%E6%BC%94%E7%B9%B9%E9%AB%98%E5%A4%A9%E9%B7%B2-%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AC%9B%E5%91%A2%E5%8F%A5-)，[香港01](../Page/香港01.md "wikilink")，2016年10月14日
+27. [吳岱融《巨輪II》勁鬧李佳芯係「雞」 視帝級演繹高天鷲：一定要講呢句！](http://www.hk01.com/%E5%A8%9B%E6%A8%82/48522/%E5%90%B3%E5%B2%B1%E8%9E%8D-%E5%B7%A8%E8%BC%AAII-%E5%8B%81%E9%AC%A7%E6%9D%8E%E4%BD%B3%E8%8A%AF%E4%BF%82-%E9%9B%9E-%E8%A6%96%E5%B8%9D%E7%B4%9A%E6%BC%94%E7%B9%B9%E9%AB%98%E5%A4%A9%E9%B7%B2-%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AC%9B%E5%91%A2%E5%8F%A5-)，[香港01](../Page/香港01.md "wikilink")，2016年10月14日
 
-28. [New Monday：《巨輪II》大結局 高天鷲比天收
-    羅威信倀雞英反目？](http://www.nmplus.hk/enterainment/巨輪ii大結局/5/)
+28. [New Monday：《巨輪II》大結局 高天鷲比天收 羅威信倀雞英反目？](http://www.nmplus.hk/enterainment/巨輪ii大結局/5/)
 
 29.
 

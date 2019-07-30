@@ -1,4 +1,4 @@
-**Treyarch**是[美国的一家](../Page/美国.md "wikilink")[电子游戏开发商](../Page/电子游戏.md "wikilink")，总部位于[加利福尼亚州的](../Page/加利福尼亚州.md "wikilink")[圣莫尼卡](../Page/圣莫尼卡.md "wikilink")。Treyarch成立于1996年，2001年被[美国动视收购](https://zh.wikipedia.org/wiki/美国动视 "wikilink")。其代表作为《[使命召唤系列](https://zh.wikipedia.org/wiki/使命召唤系列 "wikilink")》。
+**Treyarch**是[美国](../Page/美国.md "wikilink")的一家[电子游戏](../Page/电子游戏.md "wikilink")开发商，总部位于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[圣莫尼卡](../Page/圣莫尼卡.md "wikilink")。Treyarch成立于1996年，2001年被[美国动视收购](https://zh.wikipedia.org/wiki/美国动视 "wikilink")。其代表作为《[使命召唤系列](https://zh.wikipedia.org/wiki/使命召唤系列 "wikilink")》。
 
 ## 主要作品
 
@@ -42,8 +42,4 @@
 
   -
   -
-[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink")
-[Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink")
-[Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")

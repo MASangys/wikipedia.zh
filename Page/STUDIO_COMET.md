@@ -1,24 +1,16 @@
-**株式會社STUDIO
-COMET**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1986年。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")、會員。
+**株式會社STUDIO COMET**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1986年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員、會員。
 
 ## 概要、沿革
 
-1986年1月21日\[2\]，由當時[土田製作公司所屬的動畫製作人](../Page/土田製作公司.md "wikilink")[茂垣弘道](../Page/茂垣弘道.md "wikilink")\[3\]與同社的工作人員另自立門戶，從承包分鏡作畫、演出之業務起家。而這一年又剛好是[哈雷彗星最接近地球的時期](../Page/哈雷彗星.md "wikilink")，因此以「**彗星**」做命名，正式成立「**有限公司STUDIO
-COMET**（<small></small>）」。創設初期，STUDIO
-COMET的首要工作是繼承同年7月11日倒閉的土田製作公司承包未完結的電視動畫《》，並在成立之後同時與[廣告代理商](../Page/廣告代理商.md "wikilink")[NAS建立合作關係](../Page/日本AD_SYSTEMS.md "wikilink")，從此兩家一起共同製作過許多電視動畫。
+1986年1月21日\[2\]，由當時[土田製作公司](../Page/土田製作公司.md "wikilink")所屬的動畫製作人[茂垣弘道](../Page/茂垣弘道.md "wikilink")\[3\]與同社的工作人員另自立門戶，從承包分鏡作畫、演出之業務起家。而這一年又剛好是[哈雷彗星](../Page/哈雷彗星.md "wikilink")最接近地球的時期，因此以「**彗星**」做命名，正式成立「**有限公司STUDIO COMET**（<small></small>）」。創設初期，STUDIO COMET的首要工作是繼承同年7月11日倒閉的土田製作公司承包未完結的電視動畫《》，並在成立之後同時與[廣告代理商](../Page/廣告代理商.md "wikilink")[NAS建立合作關係](../Page/日本AD_SYSTEMS.md "wikilink")，從此兩家一起共同製作過許多電視動畫。
 
-1994年登記變更成為**株式會社**。1999年起，STUDIO
-COMET將動畫作業方式轉往使用電腦製作，2002年在[愛知縣](../Page/愛知縣.md "wikilink")[豐橋市設立豐橋分工作室](../Page/豐橋市.md "wikilink")
-。並和廣告代理商[旭通信社](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")\[4\]、NAS所屬動畫製作人在與[Marvelous](../Page/Marvelous.md "wikilink")\[5\]建立人脈關係開始注重合作生產。
+1994年登記變更成為**株式會社**。1999年起，STUDIO COMET將動畫作業方式轉往使用電腦製作，2002年在[愛知縣](../Page/愛知縣.md "wikilink")[豐橋市](../Page/豐橋市.md "wikilink")設立豐橋分工作室 。並和廣告代理商[旭通信社](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")\[4\]、NAS所屬動畫製作人在與[Marvelous](../Page/Marvelous.md "wikilink")\[5\]建立人脈關係開始注重合作生產。
 
-2000年代，《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》、《[我愛美樂蒂](../Page/奇幻魔法Melody.md "wikilink")》及《[寶石寵物](../Page/寶石寵物.md "wikilink")》等人氣季番動畫系列播出之後，因獲得廣大的支持與迴響，促使STUDIO
-COMET持續專注於獨立製作，並朝著多樣化作品的製作進行挑戰。
+2000年代，《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》、《[我愛美樂蒂](../Page/奇幻魔法Melody.md "wikilink")》及《[寶石寵物](../Page/寶石寵物.md "wikilink")》等人氣季番動畫系列播出之後，因獲得廣大的支持與迴響，促使STUDIO COMET持續專注於獨立製作，並朝著多樣化作品的製作進行挑戰。
 
-在合作的[聲優事務所方面](../Page/聲優.md "wikilink")。至1990年代為止主要和[青二Production合作](../Page/青二製作.md "wikilink")，進入2000年代之後轉向和合作較多。
+在合作的[聲優](../Page/聲優.md "wikilink")事務所方面。至1990年代為止主要和[青二Production合作](../Page/青二製作.md "wikilink")，進入2000年代之後轉向和合作較多。
 
-而STODIO COMET的動畫大部分發包給戶外的公司代工製作。如Stidio Ttwinkle負責攝影的工作、CG
-Work的工作由SUBARU
--昴-、剪輯工作由[岡安Promotion負責](../Page/岡安Promotion.md "wikilink")。
+而STODIO COMET的動畫大部分發包給戶外的公司代工製作。如Stidio Ttwinkle負責攝影的工作、CG Work的工作由SUBARU -昴-、剪輯工作由[岡安Promotion](../Page/岡安Promotion.md "wikilink")負責。
 
 近年，STUDIO COMET鮮少有新的獨立作品，而是轉向協助製作別家公司的獨立作品。
 
@@ -118,7 +110,7 @@ Work的工作由SUBARU
 <tr class="even">
 <td><p>1994年</p></td>
 <td><p>1995年</p></td>
-<td><p><a href="../Page/足球小將.md" title="wikilink">足球小將翼J</a></p></td>
+<td><p><a href="../Page/足球小將.md" title="wikilink">足球小將</a>翼J</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -208,7 +200,7 @@ Work的工作由SUBARU
 <td><p><a href="https://zh.wikipedia.org/wiki/真·女神轉生_惡魔之子#真·女神轉生D_惡魔之子_光之書與闇之書" title="wikilink">真·女神轉生D 惡魔之子 光之書與闇之書</a></p></td>
 <td></td>
 <td><p>遊戲</p></td>
-<td><p>從第27話開始承包，第26話之前由<a href="../Page/Actas.md" title="wikilink">Actas製作</a>。</p></td>
+<td><p>從第27話開始承包，第26話之前由<a href="../Page/Actas.md" title="wikilink">Actas</a>製作。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -250,7 +242,7 @@ Work的工作由SUBARU
 <td><p><a href="../Page/奇幻魔法Melody.md" title="wikilink">我愛美樂蒂</a></p></td>
 <td></td>
 <td><p>原創</p></td>
-<td><p><a href="../Page/三麗鷗.md" title="wikilink">三麗鷗角色</a>-{「}-<a href="../Page/My_Melody.md" title="wikilink">美樂蒂</a>-{」}-原案衍生動畫系列。</p></td>
+<td><p><a href="../Page/三麗鷗.md" title="wikilink">三麗鷗</a>角色-{「}-<a href="../Page/My_Melody.md" title="wikilink">美樂蒂</a>-{」}-原案衍生動畫系列。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年</p></td>
@@ -394,12 +386,12 @@ Work的工作由SUBARU
 <td><p>2015年</p></td>
 <td><p><a href="../Page/Lady_寶石寵物.md" title="wikilink">Lady 寶石寵物</a></p></td>
 <td></td>
-<td><p>與<a href="../Page/ZEXCS.md" title="wikilink">ZEXCS共同製作</a>。三麗鷗與SEGA Toys原案的遊戲原作衍生動畫系列。</p></td>
+<td><p>與<a href="../Page/ZEXCS.md" title="wikilink">ZEXCS</a>共同製作。三麗鷗與SEGA Toys原案的遊戲原作衍生動畫系列。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！LOVE！</a></p></td>
+<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！</a>LOVE！</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -450,7 +442,7 @@ Work的工作由SUBARU
 <td><p>平成灰姑娘 紀子妃物語</p></td>
 <td></td>
 <td></td>
-<td><p>1990年6月29日播放<a href="../Page/秋篠宮文仁親王.md" title="wikilink">秋篠宮文仁親王與同妃</a><a href="../Page/秋篠宮妃紀子.md" title="wikilink">紀子的結婚慶祝節目</a>，行事目的上不重播及再製。</p></td>
+<td><p>1990年6月29日播放<a href="../Page/秋篠宮文仁親王.md" title="wikilink">秋篠宮文仁親王</a>與同妃<a href="../Page/秋篠宮妃紀子.md" title="wikilink">紀子的結婚慶祝節目</a>，行事目的上不重播及再製。</p></td>
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
@@ -529,7 +521,7 @@ Work的工作由SUBARU
 <td></td>
 <td></td>
 <td><p>遊戲</p></td>
-<td><p><a href="../Page/PC-FX.md" title="wikilink">PC-FX軟體</a>「Anime Freak FX」的全3話連載動畫。</p></td>
+<td><p><a href="../Page/PC-FX.md" title="wikilink">PC-FX</a>軟體「Anime Freak FX」的全3話連載動畫。</p></td>
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
@@ -582,7 +574,7 @@ Work的工作由SUBARU
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！LOVE！LOVE！</a></p></td>
+<td><p><a href="../Page/美男高校地球防衛部LOVE！.md" title="wikilink">美男高校地球防衛部LOVE！</a>LOVE！LOVE！</p></td>
 <td><p>原創</p></td>
 <td></td>
 <td></td>
@@ -879,7 +871,7 @@ Work的工作由SUBARU
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/×××HOLiC.md" title="wikilink">×××HOLiC◆繼</a></p></td>
+<td><p><a href="../Page/×××HOLiC.md" title="wikilink">×××HOLiC</a>◆繼</p></td>
 <td></td>
 <td><p><a href="../Page/Production_I.G.md" title="wikilink">Production I.G</a></p></td>
 <td></td>
@@ -1392,7 +1384,7 @@ Work的工作由SUBARU
 
   - [佐藤昌文](../Page/佐藤昌文.md "wikilink")
 
-  - [志田正博](../Page/志田正.md "wikilink")
+  - [志田正](../Page/志田正.md "wikilink")博
 
   - 關野圭一（關野關十）
 
@@ -1477,9 +1469,7 @@ Work的工作由SUBARU
 
 ## 相關項目
 
-  - [日本AD
-    SYSTEMS](../Page/日本AD_SYSTEMS.md "wikilink")－[ADK](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")－－[Marvelous
-    Entertainment](../Page/Marvelous.md "wikilink")
+  - [日本AD SYSTEMS](../Page/日本AD_SYSTEMS.md "wikilink")－[ADK](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")－－[Marvelous Entertainment](../Page/Marvelous.md "wikilink")
   - Group ZEN
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
@@ -1487,10 +1477,7 @@ Work的工作由SUBARU
 
   - [株式會社STUDIO COMET公式官網](http://www.st-comet.com/)
 
-[Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink")
-[Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")
+[Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink") [Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")
 
 1.
 2.
@@ -1499,4 +1486,4 @@ Work的工作由SUBARU
 5.
 6.  衛視中文台播出時的正式譯名。
 
-7.  台灣[木棉花國際代理發行譯名](../Page/木棉花國際.md "wikilink")。
+7.  台灣[木棉花國際](../Page/木棉花國際.md "wikilink")代理發行譯名。

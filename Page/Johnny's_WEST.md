@@ -1,7 +1,6 @@
-**Johnnys'
-WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下的偶像團體](../Page/傑尼斯事務所.md "wikilink")，於2014年4月23日正式出道。所屬唱片公司為[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")。出道曲為「這樣不是很好嗎」。\[1\]
+**Johnnys' WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的偶像團體，於2014年4月23日正式出道。所屬唱片公司為[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")。出道曲為「這樣不是很好嗎」。\[1\]
 
-由7位[關西](https://zh.wikipedia.org/wiki/關西地方 "wikilink")[小傑尼斯組成](../Page/小傑尼斯.md "wikilink")，為自[關西傑尼斯8以來相隔十年的全團員關西小傑尼斯出道](../Page/關西傑尼斯8.md "wikilink")\[2\]。另外，名稱中冠上「Johnny's」的正式出道組合，是自傑尼斯事務所的初代組合Johnny's後的唯一例\[3\]</ref>。
+由7位[關西](https://zh.wikipedia.org/wiki/關西地方 "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")組成，為自[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")以來相隔十年的全團員關西小傑尼斯出道\[2\]。另外，名稱中冠上「Johnny's」的正式出道組合，是自傑尼斯事務所的初代組合Johnny's後的唯一例\[3\]</ref>。
 
 ## 成員
 
@@ -88,12 +87,8 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 
 ## 簡介
 
-  - 2013年12月31日在[東京巨蛋舉行之johnny](../Page/東京巨蛋.md "wikilink")'s
-    countdown上用手寫的大字報宣布CD出道\[4\]，出道決定是在開場30分鐘前由社長直接告知的\[5\]</ref>。當時的團體名為『ジャニーズWEST4』\[6\]\[7\]，並且成員只有中間淳太、桐山照史、重岡大毅、小瀧望4人。
-  - 2014年2月5日到28日的首度主演舞台劇『なにわ侍
-    東京見参\!\!』在日生劇場上演\[8\]</ref>（之後發表的正式名稱為『なにわ侍
-    ハロー東京\!\!』\[9\]）。2月5日舞台劇的公開彩排時宣布加入新成員濱田崇裕、神山智洋、藤井流星3人開始7人活動\[10\]\[11\]。是由當初原定成員的四人直接向社長談判才實現的\[12\]\[13\]。在這之後的正式的舞台劇公演便是演出了團體由四人變成七人的故
-    事\[14\]\[15\]。
+  - 2013年12月31日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉行之johnny's countdown上用手寫的大字報宣布CD出道\[4\]，出道決定是在開場30分鐘前由社長直接告知的\[5\]</ref>。當時的團體名為『ジャニーズWEST4』\[6\]\[7\]，並且成員只有中間淳太、桐山照史、重岡大毅、小瀧望4人。
+  - 2014年2月5日到28日的首度主演舞台劇『なにわ侍 東京見参\!\!』在日生劇場上演\[8\]</ref>（之後發表的正式名稱為『なにわ侍 ハロー東京\!\!』\[9\]）。2月5日舞台劇的公開彩排時宣布加入新成員濱田崇裕、神山智洋、藤井流星3人開始7人活動\[10\]\[11\]。是由當初原定成員的四人直接向社長談判才實現的\[12\]\[13\]。在這之後的正式的舞台劇公演便是演出了團體由四人變成七人的故 事\[14\]\[15\]。
 
 ## 作品
 
@@ -258,8 +253,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 
   - リトルトーキョーライフ（2015年7月1日 - [東京電視台](../Page/東京電視台.md "wikilink")）
 
-  - [ドヨルの妄想族](http://www.asahi.co.jp/doyoru/)（2015年7月11日 -
-    10月10日、[朝日放送](../Page/朝日放送.md "wikilink")）
+  - [ドヨルの妄想族](http://www.asahi.co.jp/doyoru/)（2015年7月11日 - 10月10日、[朝日放送](../Page/朝日放送.md "wikilink")）
 
   - ドヨルの粉モンクエスト（2015年10月24日 - 2016年1月9日、朝日放送）
 
@@ -269,8 +263,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 
 ### 音樂節目
 
-  - [ザ少年倶楽部](https://zh.wikipedia.org/wiki/ザ少年倶楽部 "wikilink")（[NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")）
+  - [ザ少年倶楽部](https://zh.wikipedia.org/wiki/ザ少年倶楽部 "wikilink")（[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")）
 
 ### 廣播
 
@@ -289,27 +282,20 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 以團體活動為主，成員各自參與的舞台劇請參照各成員的資料。
 
   - なにわ侍 ハローTOKYO\!\!（2014年2月5日 - 02月28日：東京日生劇場）
-  - 台風n Dreamer タイフーン・ドリーマー（2014年8月2日 - 8月26日：大阪松竹座\[19\]、9月3日 -
-    9月28日：[日生劇場](https://zh.wikipedia.org/wiki/日生劇場 "wikilink")\[20\]）
+  - 台風n Dreamer タイフーン・ドリーマー（2014年8月2日 - 8月26日：大阪松竹座\[19\]、9月3日 - 9月28日：[日生劇場](https://zh.wikipedia.org/wiki/日生劇場 "wikilink")\[20\]）
   - なにわ侍 団五郎一座（2015年1月10日 - 01月30日：東京日生劇場）
 
 ### 演唱會
 
 以團體活動為主，成員各自的單獨演唱會請參照各成員的資料。
 
-  - ジャニーズWEST コンサート デビュー記念 なにわともあれ、ほんまにありがとう\!（2014年4月26日 -
-    5月6日、[大阪松竹座](https://zh.wikipedia.org/wiki/大阪松竹座 "wikilink")）\[21\]
-  - ジャニーズWEST コンサート デビュー記念 なにわともあれ、ほんまにありがとう\! in TOKYO（2014年5月11日 -
-    5月21日、[新橋演舞場](https://zh.wikipedia.org/wiki/新橋演舞場 "wikilink")）\[22\]
-  - ジャニーズWEST お正月
-    2015(一発めぇぇぇぇぇぇぇ\!)（2015年1月2日・3日：[横浜アリーナ](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")、1月5日・6日：[大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")）
+  - ジャニーズWEST コンサート デビュー記念 なにわともあれ、ほんまにありがとう\!（2014年4月26日 - 5月6日、[大阪松竹座](https://zh.wikipedia.org/wiki/大阪松竹座 "wikilink")）\[21\]
+  - ジャニーズWEST コンサート デビュー記念 なにわともあれ、ほんまにありがとう\! in TOKYO（2014年5月11日 - 5月21日、[新橋演舞場](https://zh.wikipedia.org/wiki/新橋演舞場 "wikilink")）\[22\]
+  - ジャニーズWEST お正月 2015(一発めぇぇぇぇぇぇぇ\!)（2015年1月2日・3日：[横浜アリーナ](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")、1月5日・6日：[大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")）
   - ジャニーズWEST 1st Tour パリピポ（2015年5月4日 - 06月7日　横浜、名古屋、大阪城、広島、福岡、神戸）
-  - ジャニーズWEST コンサートツアー 2016 ラッキィィィィィィィ7（2016年1月3日 - 4月3日
-    横浜、名古屋、廣島、福岡、新瀉、大阪、宮城）
-  - ジャニーズWEST LIVE TOUR 2017 なうぇすと（2017年1月3日 - 5月7日
-    横浜、福井、福岡、宮城、名古屋、靜岡、大阪、北海道、廣島）
-  - ジャニーズWEST CONCERT TOUR 2018 WESTival（2018年1月3日 - 5月20日
-    横浜、福岡、靜岡、名古屋、神戶、宮城、新瀉、大阪、廣島、北海道）
+  - ジャニーズWEST コンサートツアー 2016 ラッキィィィィィィィ7（2016年1月3日 - 4月3日 横浜、名古屋、廣島、福岡、新瀉、大阪、宮城）
+  - ジャニーズWEST LIVE TOUR 2017 なうぇすと（2017年1月3日 - 5月7日 横浜、福井、福岡、宮城、名古屋、靜岡、大阪、北海道、廣島）
+  - ジャニーズWEST CONCERT TOUR 2018 WESTival（2018年1月3日 - 5月20日 横浜、福岡、靜岡、名古屋、神戶、宮城、新瀉、大阪、廣島、北海道）
 
 ## 外部連結
 
@@ -318,9 +304,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 
 ## 參考文獻
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
 
 1.  雑誌『[ポポロ](https://zh.wikipedia.org/wiki/ポポロ "wikilink")』2014年11月號
 

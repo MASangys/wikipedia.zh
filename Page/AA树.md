@@ -1,19 +1,12 @@
-**AA
-樹**在[電腦科學一種形式的](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")[自平衡二元搜尋樹用於高效存儲和檢索序數據](https://zh.wikipedia.org/wiki/自平衡二元搜尋樹 "wikilink")。
-AA 樹的名稱是由它的發明者[Arne
-Andersson而來](https://zh.wikipedia.org/wiki/Arne_Andersson "wikilink")。
+**AA 樹**在[電腦科學一種形式的](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")[自平衡二元搜尋樹用於高效存儲和檢索序數據](https://zh.wikipedia.org/wiki/自平衡二元搜尋樹 "wikilink")。 AA 樹的名稱是由它的發明者[Arne Andersson而來](https://zh.wikipedia.org/wiki/Arne_Andersson "wikilink")。
 
-AA樹是[紅黑樹的一種變種](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")，是Arne
-Andersson教授在1993年年在他的論文"Balanced search trees made
-simple"中介紹，設計的目的是減少[紅黑樹考慮的不同情況](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")，區別於紅黑樹的是，AA樹的紅節點只能作為右葉子。換句話說，沒有紅節點可以是一個左子兒。這導致代替[2-3-4樹](https://zh.wikipedia.org/wiki/2-3-4樹 "wikilink")，從而大大簡化了維護[2-3樹的模擬](https://zh.wikipedia.org/wiki/2-3樹 "wikilink")。維護[紅黑樹的平衡需要考慮](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")7種不同的情況:
+AA樹是[紅黑樹的一種變種](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")，是Arne Andersson教授在1993年年在他的論文"Balanced search trees made simple"中介紹，設計的目的是減少[紅黑樹考慮的不同情況](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")，區別於紅黑樹的是，AA樹的紅節點只能作為右葉子。換句話說，沒有紅節點可以是一個左子兒。這導致代替[2-3-4樹](https://zh.wikipedia.org/wiki/2-3-4樹 "wikilink")，從而大大簡化了維護[2-3樹的模擬](https://zh.wikipedia.org/wiki/2-3樹 "wikilink")。維護[紅黑樹的平衡需要考慮](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")7種不同的情況:
 
-[Image:Red Black Shape
-Cases.svg](https://zh.wikipedia.org/wiki/File:Red_Black_Shape_Cases.svg "fig:Image:Red Black Shape Cases.svg")
+[Image:Red Black Shape Cases.svg](https://zh.wikipedia.org/wiki/File:Red_Black_Shape_Cases.svg "fig:Image:Red Black Shape Cases.svg")
 
 因為AA樹有嚴格的條件(紅節點只能為右節點)，故只需考慮2種情形:
 
-[Image:AA Tree Shape
-Cases.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Shape_Cases.svg "fig:Image:AA Tree Shape Cases.svg")
+[Image:AA Tree Shape Cases.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Shape_Cases.svg "fig:Image:AA Tree Shape Cases.svg")
 
 ## 旋轉平衡
 
@@ -27,8 +20,7 @@ Cases.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Shape_Cases.svg "fig:Image
 
 兩個level相同的點之間的邊*水平邊*，也就是[紅黑樹上的紅邊](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")。往右的水平邊是允許的，但不可連續(紅黑樹性質)；不能有向左的水平邊(AA樹性質)。因為AA樹的條件比紅黑樹嚴格，所以重新平衡一顆AA樹會比重新平衡一顆紅黑樹容易。
 
-插入和刪除會讓AA樹變的不平衡(即違反它的性質)。恢復平衡只需兩種操作:"skew"和"split".
-Skew是一個右旋轉使得子樹中向左的水平邊變成向右的水平邊；Split是一個左旋並增加子樹根節點的level(請看範例)使得連續向右的水平邊消失。平衡插入和刪除操作的實現是由skew及split決定是否旋轉，而不是在主程式中判斷。
+插入和刪除會讓AA樹變的不平衡(即違反它的性質)。恢復平衡只需兩種操作:"skew"和"split". Skew是一個右旋轉使得子樹中向左的水平邊變成向右的水平邊；Split是一個左旋並增加子樹根節點的level(請看範例)使得連續向右的水平邊消失。平衡插入和刪除操作的實現是由skew及split決定是否旋轉，而不是在主程式中判斷。
 
 **`function`**` skew `**`is`**
 `    `**`input:`**` T, a node representing an AA tree that needs to be rebalanced.`
@@ -39,8 +31,7 @@ Skew是一個右旋轉使得子樹中向左的水平邊變成向右的水平邊�
 `    `**`else``   ``if`**` nil(left(T)) `**`then`**
 `        `**`return`**` T`
 `    `**`else``   ``if`**` level(left(T)) == level(T) `**`then`**
-`        `*`Swap``   ``the``   ``pointers``   ``of``   ``horizontal``
- ``left``   ``links.`*
+`        `*`Swap``   ``the``   ``pointers``   ``of``   ``horizontal``   ``left``   ``links.`*
 `        L = left(T)`
 `        left(T) := right(L)`
 `        right(L) := T`
@@ -50,8 +41,7 @@ Skew是一個右旋轉使得子樹中向左的水平邊變成向右的水平邊�
 `    `**`end``   ``if`**
 **`end``   ``function`**
 
-Skew: [Image:AA Tree
-Skew2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Skew2.svg "fig:Image:AA Tree Skew2.svg")
+Skew: [Image:AA Tree Skew2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Skew2.svg "fig:Image:AA Tree Skew2.svg")
 
 **`function`**` split `**`is`**
 `    `**`input:`**` T, a node representing an AA tree that needs to be rebalanced.`
@@ -59,14 +49,10 @@ Skew2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Skew2.svg "fig:Image:AA Tr
 
 `    `**`if`**` nil(T) `**`then`**
 `        `**`return`**` Nil`
-`    `**`else``
- ``if`**` nil(right(T)) '''or ''' nil(right(right(T))) `**`then`**
+`    `**`else``   ``if`**` nil(right(T)) '''or ''' nil(right(right(T))) `**`then`**
 `        `**`return`**` T`
-`    `**`else``
- ``if`**` level(T) == level(right(right(T))) `**`then`**
-`        `*`We``   ``have``   ``two``   ``horizontal``   ``right``
- ``links.``   ``Take``   ``the``   ``middle``   ``node,``   ``elevate``
- ``it,``   ``and``   ``return``   ``it.`*
+`    `**`else``   ``if`**` level(T) == level(right(right(T))) `**`then`**
+`        `*`We``   ``have``   ``two``   ``horizontal``   ``right``   ``links.``   ``Take``   ``the``   ``middle``   ``node,``   ``elevate``   ``it,``   ``and``   ``return``   ``it.`*
 `        R = right(T)`
 `        right(T) := left(R)`
 `        left(R) := T`
@@ -77,8 +63,7 @@ Skew2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Skew2.svg "fig:Image:AA Tr
 `    `**`end``   ``if`**
 **`end``   ``function`**
 
-Split: [Image:AA Tree
-Split2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Split2.svg "fig:Image:AA Tree Split2.svg")
+Split: [Image:AA Tree Split2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Split2.svg "fig:Image:AA Tree Split2.svg")
 
 ## 插入
 
@@ -88,33 +73,22 @@ Split2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Split2.svg "fig:Image:AA 
 `    `**`input:`**` X, the value to be inserted, and T, the root of the tree to insert it into.`
 `    `**`output:`**` A balanced version T including X.`
 
-`    `*`Do``   ``the``   ``normal``   ``binary``   ``tree``
- ``insertion``   ``procedure.``   ``Set``   ``the``   ``result``
- ``of``   ``the`*
-`    `*`recursive``   ``call``   ``to``   ``the``   ``correct``
- ``child``   ``in``   ``case``   ``a``   ``new``   ``node``   ``was``
- ``created``   ``or``   ``the`*
+`    `*`Do``   ``the``   ``normal``   ``binary``   ``tree``   ``insertion``   ``procedure.``   ``Set``   ``the``   ``result``   ``of``   ``the`*
+`    `*`recursive``   ``call``   ``to``   ``the``   ``correct``   ``child``   ``in``   ``case``   ``a``   ``new``   ``node``   ``was``   ``created``   ``or``   ``the`*
 `    `*`root``   ``of``   ``the``   ``subtree``   ``changes.`*
 `    `**`if`**` nil(T) `**`then`**
-`        `*`Create``   ``a``   ``new``   ``leaf``   ``node``   ``with``
- ``X.`*
+`        `*`Create``   ``a``   ``new``   ``leaf``   ``node``   ``with``   ``X.`*
 `        `**`return`**` node(X, 1, Nil, Nil)`
 `    `**`else``   ``if`**` X < value(T) `**`then`**
 `        left(T) := insert(X, left(T))`
 `    `**`else``   ``if`**` X > value(T) `**`then`**
 `        right(T) := insert(X, right(T))`
 `    `**`end``   ``if`**
-`    `*`Note``   ``that``   ``the``   ``case``   ``of``   ``X``
- ``==``   ``value(T)``   ``is``   ``unspecified.``   ``As``
- ``given,``   ``an``   ``insert`*
-`    `*`will``   ``have``   ``no``   ``effect.``   ``The``
- ``implementor``   ``may``   ``desire``   ``different``
- ``behavior.`*
+`    `*`Note``   ``that``   ``the``   ``case``   ``of``   ``X``   ``==``   ``value(T)``   ``is``   ``unspecified.``   ``As``   ``given,``   ``an``   ``insert`*
+`    `*`will``   ``have``   ``no``   ``effect.``   ``The``   ``implementor``   ``may``   ``desire``   ``different``   ``behavior.`*
 
 `    ''Perform skew and then split. The conditionals that determine whether or`
-`    `*`not``   ``a``   ``rotation``   ``will``   ``occur``   ``or``
- ``not``   ``are``   ``inside``   ``of``   ``the``   ``procedures,``
- ``as``   ``given`*
+`    `*`not``   ``a``   ``rotation``   ``will``   ``occur``   ``or``   ``not``   ``are``   ``inside``   ``of``   ``the``   ``procedures,``   ``as``   ``given`*
 `    `*`above.`*
 `    T := skew(T)`
 `    T := split(T)`
@@ -124,9 +98,7 @@ Split2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Split2.svg "fig:Image:AA 
 
 ## 刪除
 
-在大部分的[二元搜尋樹](../Page/二元搜尋樹.md "wikilink")，刪除一個內部節點可以轉換成交換內部節點及其最接近的前驅或後繼節點，這取決於使用者。
-為了平衡這顆樹，有幾中方法，Andersson教授描述的[original
-paper](http://user.it.uu.se/~arnea/abs/simp.html)是最基本的，儘管它還能再被優化。刪除後第一件事是降低其level(如果可以)，於是，整個level必須skew和split，這個方法最受到歡迎的，因為它的概念易懂，可以列舉成下列三個簡單步驟:
+在大部分的[二元搜尋樹](../Page/二元搜尋樹.md "wikilink")，刪除一個內部節點可以轉換成交換內部節點及其最接近的前驅或後繼節點，這取決於使用者。 為了平衡這顆樹，有幾中方法，Andersson教授描述的[original paper](http://user.it.uu.se/~arnea/abs/simp.html)是最基本的，儘管它還能再被優化。刪除後第一件事是降低其level(如果可以)，於是，整個level必須skew和split，這個方法最受到歡迎的，因為它的概念易懂，可以列舉成下列三個簡單步驟:
 
 1.  如果可以的話，減少其level
 2.  Skew其level.
@@ -143,8 +115,7 @@ paper](http://user.it.uu.se/~arnea/abs/simp.html)是最基本的，儘管它還�
 `    `**`else``   ``if`**` X < value(T) `**`then`**
 `        left(T) := delete(X, left(T))`
 `    `**`else`**
-`        `*`If``   ``we're``   ``a``   ``leaf,``   ``easy,``
- ``otherwise``   ``reduce``   ``to``   ``leaf``   ``case.`*` `
+`        `*`If``   ``we're``   ``a``   ``leaf,``   ``easy,``   ``otherwise``   ``reduce``   ``to``   ``leaf``   ``case.`*` `
 `        `**`if`**` leaf(T) `**`then`**
 `            return Nil`
 `        `**`else``   ``if`**` nil(left(T)) `**`then`**
@@ -185,8 +156,7 @@ paper](http://user.it.uu.se/~arnea/abs/simp.html)是最基本的，儘管它還�
 `    return T`
 **`end``   ``function`**
 
-這個網站展示了良好的刪除示範[Andersson
-paper](http://user.it.uu.se/~arnea/abs/simp.html).
+這個網站展示了良好的刪除示範[Andersson paper](http://user.it.uu.se/~arnea/abs/simp.html).
 
 ## 效能
 
@@ -203,32 +173,16 @@ AA樹的性能和紅黑樹是很類似的(其實很慢)。因為AA樹比紅黑�
 
 ## 外部連結
 
-  - [A. Andersson. Balanced search trees made
-    simple](http://user.it.uu.se/~arnea/abs/simp.html)
-  - [A. Andersson. A note on searching in a binary search
-    tree](http://user.it.uu.se/~arnea/abs/searchproc.html)
-  - [AA-Tree Applet](http://people.ksp.sk/~kuko/bak/index.html) by Kubo
-    Kovac
-  - [BSTlib](http://bitbucket.org/trijezdci/bstlib/src/) - Open source
-    AA tree library for C by trijezdci
-  - [AA Visual 2007 1.5 - OpenSource Delphi program for educating AA
-    tree
-    structures](https://web.archive.org/web/20071022052324/http://www.softpedia.com/get/Others/Home-Education/AA-Visual-2007.shtml)
-  - [Thorough
-    tutorial](https://web.archive.org/web/20160303175254/http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx)
-    Julienne Walker with lots of code, including a practical
-    implementation
-  - [Object Oriented implementation with
-    tests](http://www.cs.fiu.edu/~weiss/dsaa_c++3/code/)
-  - [A Disquisition on The Performance Behavior of Binary Search Tree
-    Data Structures
-    (pages 67-75)](http://www.cepis.org/upgrade/files/full-2004-V.pdf) -
-    Comparison of AA trees, red-black trees, treaps, skip lists, and
-    radix trees
-  - [An example C
-    implementation](https://web.archive.org/web/20110716085721/http://www.rational.co.za/aatree.c)
-  - [An Objective-C
-    implementation](http://code.google.com/p/objc-aatree)
+  - [A. Andersson. Balanced search trees made simple](http://user.it.uu.se/~arnea/abs/simp.html)
+  - [A. Andersson. A note on searching in a binary search tree](http://user.it.uu.se/~arnea/abs/searchproc.html)
+  - [AA-Tree Applet](http://people.ksp.sk/~kuko/bak/index.html) by Kubo Kovac
+  - [BSTlib](http://bitbucket.org/trijezdci/bstlib/src/) - Open source AA tree library for C by trijezdci
+  - [AA Visual 2007 1.5 - OpenSource Delphi program for educating AA tree structures](https://web.archive.org/web/20071022052324/http://www.softpedia.com/get/Others/Home-Education/AA-Visual-2007.shtml)
+  - [Thorough tutorial](https://web.archive.org/web/20160303175254/http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx) Julienne Walker with lots of code, including a practical implementation
+  - [Object Oriented implementation with tests](http://www.cs.fiu.edu/~weiss/dsaa_c++3/code/)
+  - [A Disquisition on The Performance Behavior of Binary Search Tree Data Structures (pages 67-75)](http://www.cepis.org/upgrade/files/full-2004-V.pdf) - Comparison of AA trees, red-black trees, treaps, skip lists, and radix trees
+  - [An example C implementation](https://web.archive.org/web/20110716085721/http://www.rational.co.za/aatree.c)
+  - [An Objective-C implementation](http://code.google.com/p/objc-aatree)
 
 [Category:树结构](https://zh.wikipedia.org/wiki/Category:树结构 "wikilink")
 

@@ -1,10 +1,8 @@
 [NES-Console-Set.jpg](https://zh.wikipedia.org/wiki/File:NES-Console-Set.jpg "fig:NES-Console-Set.jpg")
 
-[Nintendo Entertainment
-System](https://zh.wikipedia.org/wiki/Nintendo_Entertainment_System "wikilink")（NES）是FC的西方版，1985年10月18日在北美推出，有18款首发游戏发行。NES由第三方公司于1986年在欧洲和澳洲销售，直到1990年任天堂接手业务\[1\]。最后一款授权NES游戏是1994年的《[瓦里奥之森](https://zh.wikipedia.org/wiki/瓦里奥之森 "wikilink")》\[2\]。其继任机种为1991年发行的[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。
+[Nintendo Entertainment System](https://zh.wikipedia.org/wiki/Nintendo_Entertainment_System "wikilink")（NES）是FC的西方版，1985年10月18日在北美推出，有18款首发游戏发行。NES由第三方公司于1986年在欧洲和澳洲销售，直到1990年任天堂接手业务\[1\]。最后一款授权NES游戏是1994年的《[瓦里奥之森](https://zh.wikipedia.org/wiki/瓦里奥之森 "wikilink")》\[2\]。其继任机种为1991年发行的[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。
 
-这里仅列出713款有正式授权，在北美和PAL区Nintendo Entertainment
-System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认按游戏英文名标题排序。
+这里仅列出713款有正式授权，在北美和PAL区Nintendo Entertainment System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认按游戏英文名标题排序。
 
 ## 列表
 
@@ -4987,11 +4985,9 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 
 ## 参考文献
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
 
 1.
 2.
 3.
-4.  Super Pitfall was also published by
-    [FCI](https://zh.wikipedia.org/wiki/Fujisankei_Communications_International "wikilink").
+4.  Super Pitfall was also published by [FCI](https://zh.wikipedia.org/wiki/Fujisankei_Communications_International "wikilink").

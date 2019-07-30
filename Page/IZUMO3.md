@@ -1,5 +1,4 @@
-《**IZUMO3**》是由[日本](../Page/日本.md "wikilink")[Studio
-e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2007年7月27日發售的角色扮演類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+《**IZUMO3**》是由[日本](../Page/日本.md "wikilink")[Studio e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2007年7月27日發售的角色扮演類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 
@@ -11,8 +10,7 @@ e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2007年7月27日發售的角
 
   - 工藤驅（[CV](../Page/配音員.md "wikilink")：皇帝）
     因為母親年早病逝，身為警察的父親也因公殉職，之後都是獨自一人在公寓生活。有個身體病弱的妹妹被迫入院一直在醫院生活。
-  - 飛鳥井夏美（飛鳥井なつみ
-    CV：[星咲イリア](https://zh.wikipedia.org/wiki/星咲イリア "wikilink")）
+  - 飛鳥井夏美（飛鳥井なつみ CV：[星咲イリア](https://zh.wikipedia.org/wiki/星咲イリア "wikilink")）
     新聞部的成員。
   - 吾妻鈴鹿（CV：まりもりん）
     學生會的副會長同時也是劍道家。和驅有遠親關係。
@@ -38,7 +36,7 @@ e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2007年7月27日發售的角
   - 西波和也（CV：青井京四郎）
     舞菜的主治醫生，真實身份是閻魔天的部下**[羅刹天](../Page/羅剎.md "wikilink")**。
   - 倉島渚（CV：永瀬江美弥）
-    [IZUMO的女主角之一](../Page/IZUMO.md "wikilink")。擔任理事長也是彌生在學生時代的學姊。
+    [IZUMO](../Page/IZUMO.md "wikilink")的女主角之一。擔任理事長也是彌生在學生時代的學姊。
 
 ### 守護精靈
 
@@ -83,24 +81,15 @@ e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2007年7月27日發售的角
 
 ## 外部連結
 
-  - [Studio
-    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [Studio e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
   - [Studio e･go\!](http://www.studio-ego.jp/)
 
-[ja:IZUMO
-(ゲーム)\#IZUMO3](https://zh.wikipedia.org/wiki/ja:IZUMO_\(ゲーム\)#IZUMO3 "wikilink")
+[ja:IZUMO (ゲーム)\#IZUMO3](https://zh.wikipedia.org/wiki/ja:IZUMO_\(ゲーム\)#IZUMO3 "wikilink")
 
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")
+[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")
 
 1.
 2.  [Izumo 3](https://vndb.org/v622)The Visual Novel Database
 3.  [IZUMO3](http://erogetrailers.com/soft/3700)ErogeTrailers
-4.  [IZUMO3
-    ビジュアルファンブック](http://www.getchu.com/soft.phtml?id=477185)Getchu.com
-5.  [2007年美少女ゲームランキング
-    結果発表－システム部門－](http://www.getchu.com/pc/2007_g_ranking/2007_g_ranking_system.html)Getchu.com
+4.  [IZUMO3 ビジュアルファンブック](http://www.getchu.com/soft.phtml?id=477185)Getchu.com
+5.  [2007年美少女ゲームランキング 結果発表－システム部門－](http://www.getchu.com/pc/2007_g_ranking/2007_g_ranking_system.html)Getchu.com

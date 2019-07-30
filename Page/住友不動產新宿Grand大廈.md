@@ -1,4 +1,4 @@
-**住友不動產新宿Grand大廈**（）是一棟位於[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")[西新宿再開發組合計畫區域的摩天大樓](../Page/西新宿.md "wikilink")，總面積約19,636平方米，包含一棟40層高195.2米的摩天大樓。建地的南側是[青梅街道](../Page/青梅街道.md "wikilink")（[東京都道5號新宿青梅線](../Page/東京都道5號新宿青梅線.md "wikilink")），北側為[稅務署通](https://zh.wikipedia.org/wiki/稅務署通 "wikilink")（東京都道302號新宿兩國線支線）。
+**住友不動產新宿Grand大廈**（）是一棟位於[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")[西新宿](../Page/西新宿.md "wikilink")再開發組合計畫區域的摩天大樓，總面積約19,636平方米，包含一棟40層高195.2米的摩天大樓。建地的南側是[青梅街道](../Page/青梅街道.md "wikilink")（[東京都道5號新宿青梅線](../Page/東京都道5號新宿青梅線.md "wikilink")），北側為[稅務署通](https://zh.wikipedia.org/wiki/稅務署通 "wikilink")（東京都道302號新宿兩國線支線）。
 
 ## 概要
 
@@ -20,14 +20,11 @@
 
 以下為再開發前的影像
 
-<File:Shinjuku> grand11.JPG <File:Shinjuku> grand12.JPG <File:Shinjuku>
-grand13.JPG <File:Shinjuku> grand14.JPG <File:Shinjuku> grand16.JPG
+<File:Shinjuku> grand11.JPG <File:Shinjuku> grand12.JPG <File:Shinjuku> grand13.JPG <File:Shinjuku> grand14.JPG <File:Shinjuku> grand16.JPG
 
 ### 建設時的影像
 
-<File:Shinjuku> grand23.JPG <File:Shinjuku> grand21.JPG <File:Shinjuku>
-grand22.JPG <File:Shinjuku> grand24.JPG <File:Shinjuku> grand25.JPG
-<File:Shinjuku> grand26.JPG|建設中的主塔
+<File:Shinjuku> grand23.JPG <File:Shinjuku> grand21.JPG <File:Shinjuku> grand22.JPG <File:Shinjuku> grand24.JPG <File:Shinjuku> grand25.JPG <File:Shinjuku> grand26.JPG|建設中的主塔
 
 ## 交通
 
@@ -41,9 +38,7 @@ grand22.JPG <File:Shinjuku> grand24.JPG <File:Shinjuku> grand25.JPG
 
 ## 圖片集
 
-<File:Shinjuku_Grand_tawer.JPG> <File:Shinjuku> Grand tawer3.JPG
-<File:Shinjuku> Grand tower A.JPG <File:Shinjuku> Grand tower E.JPG
-<File:Shinjuku> Grand tower C.JPG <File:Shinjuku> Grand tower D.JPG
+<File:Shinjuku_Grand_tawer.JPG> <File:Shinjuku> Grand tawer3.JPG <File:Shinjuku> Grand tower A.JPG <File:Shinjuku> Grand tower E.JPG <File:Shinjuku> Grand tower C.JPG <File:Shinjuku> Grand tower D.JPG
 
 ## 参考
 
@@ -53,6 +48,4 @@ grand22.JPG <File:Shinjuku> grand24.JPG <File:Shinjuku> grand25.JPG
 
 [Category:東京都摩天大樓](https://zh.wikipedia.org/wiki/Category:東京都摩天大樓 "wikilink")
 
-[Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink")
-[Category:2011年完工建築物](https://zh.wikipedia.org/wiki/Category:2011年完工建築物 "wikilink")
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
+[Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink") [Category:2011年完工建築物](https://zh.wikipedia.org/wiki/Category:2011年完工建築物 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")

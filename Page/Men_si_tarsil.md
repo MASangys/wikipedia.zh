@@ -1,6 +1,4 @@
-**《你四處覓尋我芳蹤》**（ [轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")：**Men
-si
-tarsil**）是保加利亞女歌手[Andrea的第二張專輯](https://zh.wikipedia.org/wiki/安茱莉亞·提奧多亞 "wikilink")。這張專輯的發布日期為2009年10月9日。
+**《你四處覓尋我芳蹤》**（ [轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")：**Men si tarsil**）是保加利亞女歌手[Andrea的第二張專輯](https://zh.wikipedia.org/wiki/安茱莉亞·提奧多亞 "wikilink")。這張專輯的發布日期為2009年10月9日。
 
 ## Track list
 
@@ -17,6 +15,4 @@ tarsil**）是保加利亞女歌手[Andrea的第二張專輯](https://zh.wikiped
 | 9  | 沒有理由/Nyamam prichina (Нямам причина)                        | Tasos Panagis, Lenko Draganov, Marieta Angelova                                        | 3:58   |
 | 10 | 最好的一位/Nay-velik (Най-велик)                                 | Vangelis Tuntas, Lenko Draganov, Rosen Dimitrov                                        | 3:29   |
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:保加利亞音樂](https://zh.wikipedia.org/wiki/Category:保加利亞音樂 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:保加利亞音樂](https://zh.wikipedia.org/wiki/Category:保加利亞音樂 "wikilink")

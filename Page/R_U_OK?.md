@@ -1,5 +1,4 @@
-《**R U
-OK?**》是[許靖韻的第二張音樂專輯](../Page/許靖韻.md "wikilink")、第一張EP，於2014年12月1日發行。
+《**R U OK?**》是[許靖韻](../Page/許靖韻.md "wikilink")的第二張音樂專輯、第一張EP，於2014年12月1日發行。
 
 ## 曲目
 
@@ -19,9 +18,4 @@ OK?**》是[許靖韻的第二張音樂專輯](../Page/許靖韻.md "wikilink")�
 | <small>2014</small> | <small>R U OK?</small> |         \-          |
 | <small>不如告白</small> |           \-           |         \-          |
 
-[Category:許靖韻音樂專輯](https://zh.wikipedia.org/wiki/Category:許靖韻音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:許靖韻音樂專輯](https://zh.wikipedia.org/wiki/Category:許靖韻音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

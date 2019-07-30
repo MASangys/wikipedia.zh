@@ -41,10 +41,7 @@
 
   - \[//comic.qq.com/a/20090604/000045_4.htm 《战斗王EX》精彩分集提纲介绍\]
 
-[Category:2000年代特摄作品](https://zh.wikipedia.org/wiki/Category:2000年代特摄作品 "wikilink")
-[Category:2008年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2008年中國電視劇集 "wikilink")
-[Category:虛構組織](https://zh.wikipedia.org/wiki/Category:虛構組織 "wikilink")
-[Category:儿童电视剧](https://zh.wikipedia.org/wiki/Category:儿童电视剧 "wikilink")
+[Category:2000年代特摄作品](https://zh.wikipedia.org/wiki/Category:2000年代特摄作品 "wikilink") [Category:2008年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2008年中國電視劇集 "wikilink") [Category:虛構組織](https://zh.wikipedia.org/wiki/Category:虛構組織 "wikilink") [Category:儿童电视剧](https://zh.wikipedia.org/wiki/Category:儿童电视剧 "wikilink")
 
 1.
 2.

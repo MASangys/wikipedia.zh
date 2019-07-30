@@ -1,23 +1,16 @@
-**有限公司TRIANGLE
-STAFF**（，）是[日本一家已在](../Page/日本.md "wikilink")2000年12月停止專門從事動畫製作的公司。
+**有限公司TRIANGLE STAFF**（，）是[日本](../Page/日本.md "wikilink")一家已在2000年12月停止專門從事動畫製作的公司。
 
 ## 歷史
 
-TRIANGLE
-STAFF是1987年1月由[MADHOUSE出身](../Page/MADHOUSE.md "wikilink")，電影動畫《[幻魔大戰](https://zh.wikipedia.org/wiki/幻魔大戰 "wikilink")》的動畫製作代表淺利義美等人，在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[荻窪設立的動畫製作公司](../Page/荻窪_\(杉並區\).md "wikilink")。
+TRIANGLE STAFF是1987年1月由[MADHOUSE](../Page/MADHOUSE.md "wikilink")出身，電影動畫《[幻魔大戰](https://zh.wikipedia.org/wiki/幻魔大戰 "wikilink")》的動畫製作代表淺利義美等人，在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[荻窪設立的動畫製作公司](../Page/荻窪_\(杉並區\).md "wikilink")。
 
-TRIANGLE
-STAFF成立以來，原本主要從事OVA的製作。1990年代後半，開始挑戰獨立製作電視動畫（主要和[東京電視台合作](../Page/東京電視台.md "wikilink")）及電影動畫。
+TRIANGLE STAFF成立以來，原本主要從事OVA的製作。1990年代後半，開始挑戰獨立製作電視動畫（主要和[東京電視台](../Page/東京電視台.md "wikilink")合作）及電影動畫。
 
-1998年，TRIANGLE
-STAFF獨立製作的電視動畫《[玲音](../Page/玲音.md "wikilink")》榮獲日本第2屆。可是在2000年12月，卻停止動畫製作。
+1998年，TRIANGLE STAFF獨立製作的電視動畫《[玲音](../Page/玲音.md "wikilink")》榮獲日本第2屆。可是在2000年12月，卻停止動畫製作。
 
-停止動畫製作前後的1999年3月，TRIANGLE STAFF所屬的動畫製作人山口克巳另外成立。2000年12月19日，TRIANGLE
-STAFF的另一位動畫製作人安部正次郎與工作人員馬場健等人設立現在的[A.C.G.T](../Page/A.C.G.T.md "wikilink")，並與[OB企劃建立旗下企業關係](../Page/OB企劃.md "wikilink")。
+停止動畫製作前後的1999年3月，TRIANGLE STAFF所屬的動畫製作人山口克巳另外成立。2000年12月19日，TRIANGLE STAFF的另一位動畫製作人安部正次郎與工作人員馬場健等人設立現在的[A.C.G.T](../Page/A.C.G.T.md "wikilink")，並與[OB企劃](../Page/OB企劃.md "wikilink")建立旗下企業關係。
 
-而TRIANGLE
-STAFF事業停止的真正原因不明，不過停止事業之後，在商品的著作權商標或動畫工作人員表上還是有顯示該公司名稱。2002年3月30日上映的電影動畫《[機動警察
-WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHOUSE接手完成。
+而TRIANGLE STAFF事業停止的真正原因不明，不過停止事業之後，在商品的著作權商標或動畫工作人員表上還是有顯示該公司名稱。2002年3月30日上映的電影動畫《[機動警察 WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHOUSE接手完成。
 
 ## 作品履歷
 
@@ -88,7 +81,7 @@ WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHO
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>與<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE共同製作</a>。</p></td>
+<td><p>與<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE</a>共同製作。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -278,7 +271,7 @@ WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHO
 <tr class="even">
 <td><p>1998年</p></td>
 <td><p>1999年</p></td>
-<td><p><a href="../Page/機械女神.md" title="wikilink">機械女神J to X</a></p></td>
+<td><p><a href="../Page/機械女神.md" title="wikilink">機械女神 to X</a>J</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/HAL_FILM_MAKER" title="wikilink">HAL FILM MAKER</a></p></td>
 <td><p>原創</p></td>
@@ -346,7 +339,7 @@ WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHO
 </tr>
 <tr class="odd">
 <td><p>1994年－1995年</p></td>
-<td><p><a href="../Page/天地無用！.md" title="wikilink">天地無用！魎皇鬼 (第2期)</a></p></td>
+<td><p><a href="../Page/天地無用！.md" title="wikilink">天地無用！ (第2期)</a>魎皇鬼</p></td>
 <td><p><a href="../Page/動畫國際公司.md" title="wikilink">AIC</a></p></td>
 <td></td>
 <td></td>
@@ -396,7 +389,4 @@ WXIII](../Page/機動警察.md "wikilink")》在製作途中則由老東家MADHO
 </tbody>
 </table>
 
-[Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:日本已结业公司](https://zh.wikipedia.org/wiki/Category:日本已结业公司 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:日本已结业公司](https://zh.wikipedia.org/wiki/Category:日本已结业公司 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")

@@ -1,10 +1,8 @@
 ，是由[東映動畫企劃及制作的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[数码宝贝系列OVA動畫](https://zh.wikipedia.org/wiki/数码宝贝系列 "wikilink")，於2015年11月到2018年5月5日分為6章在剧场上映及网络播映。其中的“[tri.](https://zh.wikipedia.org/wiki/tri. "wikilink")”有「[3](../Page/3.md "wikilink")」的意思，表示本作為電視動畫第一作《[數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")》及第二作《[數碼寶貝大冒險02](../Page/數碼寶貝大冒險02.md "wikilink")》的續篇第三作，同時亦為數碼寶貝大冒險15周年紀念計劃最重要的一部分。\[1\]
 
-中国大陆[爱奇艺和香港](../Page/爱奇艺.md "wikilink")[Viu同步日本网络播映全](../Page/Viu.md "wikilink")6章。
+中国大陆[爱奇艺](../Page/爱奇艺.md "wikilink")和香港[Viu](../Page/Viu.md "wikilink")同步日本网络播映全6章。
 
-曾經為本系列主唱眾多樂曲的歌手[和田光司先生](../Page/和田光司.md "wikilink")，在本作第三章OVA製作期間，其官方事務所「SOLID
-VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Page/鼻咽癌.md "wikilink")4月3日逝世，享年42歲，葬礼为近亲参加的密葬。由於正值本作上映風潮期間，消息瞬間廣泛-{zh-cn:报道;zh-tw:報導;}-到世界各地，4月26日在惠比寿LIQUIDROOM举行了“和田光司
-告别会”，官方[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、本作[聲優](../Page/聲優.md "wikilink")、音樂業界以及眾多和田光司的生前好友都致以哀悼，當中包括參與「Butter-Fly」的製作人千綿偉功及渡部チェル、太田美知彦、[AiM](https://zh.wikipedia.org/wiki/AiM "wikilink")、宮崎步、[谷本貴義等等](../Page/谷本貴義.md "wikilink")。不少觀眾得悉後表現悲傷，但同時亦讚賞其奮鬥癌症13年的堅強意志力與生命力令人欽佩不已，以及感謝和田光司所帶來的童年回憶，將永遠緬懷他的音樂。而在《[數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")》和《[數碼寶貝大冒險02](../Page/數碼寶貝大冒險02.md "wikilink")》中配過[武之內空的聲優](https://zh.wikipedia.org/wiki/武之內空 "wikilink")[水谷優子女士和](../Page/水谷優子.md "wikilink")[八神太一的聲優](https://zh.wikipedia.org/wiki/八神太一 "wikilink")[藤田淑子女士](../Page/藤田淑子.md "wikilink")，先後皆因[乳腺癌而逝世](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")。
+曾經為本系列主唱眾多樂曲的歌手[和田光司](../Page/和田光司.md "wikilink")先生，在本作第三章OVA製作期間，其官方事務所「SOLID VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌](../Page/鼻咽癌.md "wikilink")已於4月3日逝世，享年42歲，葬礼为近亲参加的密葬。由於正值本作上映風潮期間，消息瞬間廣泛-{zh-cn:报道;zh-tw:報導;}-到世界各地，4月26日在惠比寿LIQUIDROOM举行了“和田光司 告别会”，官方[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、本作[聲優](../Page/聲優.md "wikilink")、音樂業界以及眾多和田光司的生前好友都致以哀悼，當中包括參與「Butter-Fly」的製作人千綿偉功及渡部チェル、太田美知彦、[AiM](https://zh.wikipedia.org/wiki/AiM "wikilink")、宮崎步、[谷本貴義](../Page/谷本貴義.md "wikilink")等等。不少觀眾得悉後表現悲傷，但同時亦讚賞其奮鬥癌症13年的堅強意志力與生命力令人欽佩不已，以及感謝和田光司所帶來的童年回憶，將永遠緬懷他的音樂。而在《[數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")》和《[數碼寶貝大冒險02](../Page/數碼寶貝大冒險02.md "wikilink")》中配過[武之內空的聲優](https://zh.wikipedia.org/wiki/武之內空 "wikilink")[水谷優子](../Page/水谷優子.md "wikilink")女士和[八神太一的聲優](https://zh.wikipedia.org/wiki/八神太一 "wikilink")[藤田淑子](../Page/藤田淑子.md "wikilink")女士，先後皆因[乳腺癌而逝世](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")。
 
 ## 故事簡介
 
@@ -152,11 +150,9 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 
 <!-- end list -->
 
-  - 8月1日，“数码兽大冒险15周年纪念”活动上，剧场版《[数码兽大冒险
-    我们的战争游戏！](https://zh.wikipedia.org/wiki/數碼寶貝大冒險#劇場版 "wikilink")》在放映结尾播出了一段《[数码兽大冒险](https://zh.wikipedia.org/wiki/数码兽大冒险 "wikilink")》新系列制作决定的映像。此后“数码兽大冒险15周年纪念活动”官网改版为“数码兽大冒险15周年纪念日计划”官网，并以“育成[数码蛋](https://zh.wikipedia.org/wiki/数码蛋 "wikilink")”的形式不断揭晓新作动画的情报。\[2\]\[3\]
+  - 8月1日，“数码兽大冒险15周年纪念”活动上，剧场版《[数码兽大冒险 我们的战争游戏！](https://zh.wikipedia.org/wiki/數碼寶貝大冒險#劇場版 "wikilink")》在放映结尾播出了一段《[数码兽大冒险](https://zh.wikipedia.org/wiki/数码兽大冒险 "wikilink")》新系列制作决定的映像。此后“数码兽大冒险15周年纪念活动”官网改版为“数码兽大冒险15周年纪念日计划”官网，并以“育成[数码蛋](https://zh.wikipedia.org/wiki/数码蛋 "wikilink")”的形式不断揭晓新作动画的情报。\[2\]\[3\]
   - 9月7日，官方公开初步的故事背景，以及主角[八神太一与其伙伴数码兽](https://zh.wikipedia.org/wiki/八神太一 "wikilink")[亚古兽的剪影](https://zh.wikipedia.org/wiki/亚古兽 "wikilink")。
-  - 11月8日，官方分别于官网及杂志[V
-    Jump公开更多剪影](https://zh.wikipedia.org/wiki/V_Jump "wikilink")，包括动画第一作中八位被选召的孩子们及其各自的伙伴数码兽，由此确认《数码兽大冒险》主角都会在新系列登场。\[4\]
+  - 11月8日，官方分别于官网及杂志[V Jump公开更多剪影](https://zh.wikipedia.org/wiki/V_Jump "wikilink")，包括动画第一作中八位被选召的孩子们及其各自的伙伴数码兽，由此确认《数码兽大冒险》主角都会在新系列登场。\[4\]
   - 12月13日，官方正式公开主视觉图、新作标题、LOGO及制作人员。
 
 <!-- end list -->
@@ -165,12 +161,10 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 
 <!-- end list -->
 
-  - 1月10日，杂志OTOMEDIA公开制作人新井修平关于新作的访谈，揭晓了新作动画整体的提示藏在《[数码兽大冒险02](https://zh.wikipedia.org/wiki/数码兽大冒险02 "wikilink")》的最终话之中，最后的独白中存在的某句话，将会成为新作的主题。同日，官方于杂志[Animage确认新作放送形式为电视动画](../Page/Animage.md "wikilink")。
-  - 1月17日，官方于杂志[V
-    Jump公开着色完成的八神太一与亚古兽的人设立绘](https://zh.wikipedia.org/wiki/V_Jump "wikilink")\[5\]
-  - 2月17日，官方于杂志[V
-    Jump公开着色完成的](https://zh.wikipedia.org/wiki/V_Jump "wikilink")[石田大和与](https://zh.wikipedia.org/wiki/石田大和 "wikilink")[加布兽的人设立绘](https://zh.wikipedia.org/wiki/加布兽 "wikilink")。\[6\]
-  - 2月25日，游戏杂志[Fami通在其官网上悄然做出微改](../Page/Fami通.md "wikilink")，将“新作电视动画《数码兽大冒险tri.》（2015年春制作预定）”修改为“新系列《数码兽大冒险tri.》（2015年制作预定）”。\[7\]
+  - 1月10日，杂志OTOMEDIA公开制作人新井修平关于新作的访谈，揭晓了新作动画整体的提示藏在《[数码兽大冒险02](https://zh.wikipedia.org/wiki/数码兽大冒险02 "wikilink")》的最终话之中，最后的独白中存在的某句话，将会成为新作的主题。同日，官方于杂志[Animage](../Page/Animage.md "wikilink")确认新作放送形式为电视动画。
+  - 1月17日，官方于杂志[V Jump公开着色完成的八神太一与亚古兽的人设立绘](https://zh.wikipedia.org/wiki/V_Jump "wikilink")\[5\]
+  - 2月17日，官方于杂志[V Jump公开着色完成的](https://zh.wikipedia.org/wiki/V_Jump "wikilink")[石田大和与](https://zh.wikipedia.org/wiki/石田大和 "wikilink")[加布兽的人设立绘](https://zh.wikipedia.org/wiki/加布兽 "wikilink")。\[6\]
+  - 2月25日，游戏杂志[Fami通](../Page/Fami通.md "wikilink")在其官网上悄然做出微改，将“新作电视动画《数码兽大冒险tri.》（2015年春制作预定）”修改为“新系列《数码兽大冒险tri.》（2015年制作预定）”。\[7\]
   - 3月10日，官方正式公开动画歌曲、原班人馬的数码兽配音員及新主视觉图。\[8\]
   - 5月6日，官方正式宣佈本作為全6章剧场版系列（官方最后定性为OVA系列作品）。
   - 6月12日，正式版官方網站開通。
@@ -210,8 +204,7 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 
   - 4月6日，第6章於日本先行上映。
   - 5月5日，第6章於日本上映。
-  - 7月29日，作为《数码兽大冒险》放送20周年纪念活动的一环，在“数码兽感谢祭2018”上公布了《[数码兽大冒险 最后的进化
-    绊](https://zh.wikipedia.org/wiki/數碼寶貝大冒險#劇場版 "wikilink")》制作决定的消息。
+  - 7月29日，作为《数码兽大冒险》放送20周年纪念活动的一环，在“数码兽感谢祭2018”上公布了《[数码兽大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/數碼寶貝大冒險#劇場版 "wikilink")》制作决定的消息。
 
 ## 動畫製作
 
@@ -245,20 +238,17 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 <!-- end list -->
 
   -
-    [Blu-ray
-    Disc和](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[DVD則使用日本本土網絡配信版以及劇場上映版相同版本](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+    [Blu-ray Disc和](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[DVD則使用日本本土網絡配信版以及劇場上映版相同版本](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 
   -
     若按照官方確定為全六章、每章分為4集長度推算的話，本作全篇原定極大可能相等於兩個季度的深夜電視動畫番組（約20-26話的半年番組長度），顯示製作單位臨時更改了發佈和製作形式，但官方則未曾為此等推論作任何解釋。然而日本全國只有10所院線上映的情況下，本作第1章票房收益達到2.3億日元的好成績，在小型影院票房中連續兩周排名第1名。由於反應熱烈、以及與劇場版同日發售的限定藍光光碟瞬間缺貨下，官方將原定剧场上映三周延長一周等加映措施。
-    製作組雖然以東映動畫名義邀請[外包公司](https://zh.wikipedia.org/wiki/外包 "wikilink")「颱風Graphics」協力製作，但宏觀所有製作人員名單中、除企劃＆製作總監為東映動畫董事長＆社長外，絕大部分並非東映動畫內部員工，本作實質上是由東映動畫提供製作資源給外包公司「颱風Graphics」、並由動畫監督[元永慶太郎邀請所相熟的業界人員主力製作](../Page/元永慶太郎.md "wikilink")，因此本作與人氣電視動畫《[約會大作戰](../Page/約會大作戰.md "wikilink")》及劇場版《約會大作戰劇場版
-    萬由里審判》的製作人員極為相同\[9\]。
+    製作組雖然以東映動畫名義邀請[外包公司](https://zh.wikipedia.org/wiki/外包 "wikilink")「颱風Graphics」協力製作，但宏觀所有製作人員名單中、除企劃＆製作總監為東映動畫董事長＆社長外，絕大部分並非東映動畫內部員工，本作實質上是由東映動畫提供製作資源給外包公司「颱風Graphics」、並由動畫監督[元永慶太郎](../Page/元永慶太郎.md "wikilink")邀請所相熟的業界人員主力製作，因此本作與人氣電視動畫《[約會大作戰](../Page/約會大作戰.md "wikilink")》及劇場版《約會大作戰劇場版 萬由里審判》的製作人員極為相同\[9\]。
 
 ### 作畫爭議
 
-[Digimon_Adventure_Tri._The_Movie_Part_1_(BD_1280x720_AVC_AACx2_-2.0+5.1-).mp4_20160405_194200.013.jpg](https://zh.wikipedia.org/wiki/File:Digimon_Adventure_Tri._The_Movie_Part_1_\(BD_1280x720_AVC_AACx2_-2.0+5.1-\).mp4_20160405_194200.013.jpg "fig:Digimon_Adventure_Tri._The_Movie_Part_1_(BD_1280x720_AVC_AACx2_-2.0+5.1-).mp4_20160405_194200.013.jpg")
-[Digimon_tri123.jpg](https://zh.wikipedia.org/wiki/File:Digimon_tri123.jpg "fig:Digimon_tri123.jpg")或[逆光效果](https://zh.wikipedia.org/wiki/逆光 "wikilink")。\]\]
+[Digimon_Adventure_Tri._The_Movie_Part_1_(BD_1280x720_AVC_AACx2_-2.0+5.1-).mp4_20160405_194200.013.jpg](https://zh.wikipedia.org/wiki/File:Digimon_Adventure_Tri._The_Movie_Part_1_\(BD_1280x720_AVC_AACx2_-2.0+5.1-\).mp4_20160405_194200.013.jpg "fig:Digimon_Adventure_Tri._The_Movie_Part_1_(BD_1280x720_AVC_AACx2_-2.0+5.1-).mp4_20160405_194200.013.jpg") [Digimon_tri123.jpg](https://zh.wikipedia.org/wiki/File:Digimon_tri123.jpg "fig:Digimon_tri123.jpg")或[逆光效果](https://zh.wikipedia.org/wiki/逆光 "wikilink")。\]\]
 
   -
     本作早期的角色設計及總作畫監督製作人員則由另一部原創動畫作品《[釣球](../Page/釣球.md "wikilink")》的宇木敦哉擔當，由他負責的角色設計風格曾被評為與兩部歷代系列作太大落差，繼而出現主要角色樣貌毫不神似，當本作第一次釋出設計圖及宣傳畫面時，甚至被形容為「倒模」的惡評，備受世界各地關注本作的觀眾責備，而有日本觀眾更將官方原本釋出的人物設計圖加以修改至貼近歷代系列作的畫風，並在網上發起簽名活動，務求令東映動畫參考有關意見甚至要求更換製作人員。\[10\]製作團隊及後修正製作人員職位位置，新增動畫角色設計一職及加入三名總作畫監督製作人員，宇木敦哉最後只擔任角色設計。雖然角色風格已稍微改善，不過作畫表現仍被指未達劇場版／OVA應有水準，角色作畫線條過於簡陋、人物走形及身高比例失衡、動畫[幀數不足甚至戰鬥時出現靜幀畫面等仍不間斷地出現](https://zh.wikipedia.org/wiki/幀數 "wikilink")；而美術背景、攝影效果亦分別出現上色錯誤、畫面缺乏層次、光影處理不當等情況。
@@ -266,8 +256,7 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 ### 致敬失误
 
   -
-    第6章（网络配信版第25话）中，[泉光子郎在向其他被选召的孩子们解释数码世界重启时候](https://zh.wikipedia.org/wiki/泉光子郎 "wikilink")，大部分数码兽数据资料备份进了缅因猫兽体内，此时插入了剧场版《[数码宝贝大冒险
-    我们的战争游戏](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》里观战的几组世界各地孩子们6年后相貌的定格画面。而在剧场上映版第6章1小时6分48秒左右（网络配信版第6章第25话10分30秒左右），出现了疑似[秋山辽](https://zh.wikipedia.org/wiki/秋山辽 "wikilink")\[11\]手持Digivice的画面，该定格画面是致敬《我们的战争游戏》里秋山辽在深山中使用笔记本电脑观战并向泉光子郎发送应援邮件。\[12\][元永庆太郎团队并不清楚当年](https://zh.wikipedia.org/wiki/元永庆太郎 "wikilink")[细田守团队将秋山辽在该画面登场的用意](https://zh.wikipedia.org/wiki/细田守 "wikilink")，甚至不清楚秋山辽的角色设定，以为该画面只是路人角色，导致出现较为严重破坏设定的致敬失误。
+    第6章（网络配信版第25话）中，[泉光子郎在向其他被选召的孩子们解释数码世界重启时候](https://zh.wikipedia.org/wiki/泉光子郎 "wikilink")，大部分数码兽数据资料备份进了缅因猫兽体内，此时插入了剧场版《[数码宝贝大冒险 我们的战争游戏](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》里观战的几组世界各地孩子们6年后相貌的定格画面。而在剧场上映版第6章1小时6分48秒左右（网络配信版第6章第25话10分30秒左右），出现了疑似[秋山辽](https://zh.wikipedia.org/wiki/秋山辽 "wikilink")\[11\]手持Digivice的画面，该定格画面是致敬《我们的战争游戏》里秋山辽在深山中使用笔记本电脑观战并向泉光子郎发送应援邮件。\[12\][元永庆太郎团队并不清楚当年](https://zh.wikipedia.org/wiki/元永庆太郎 "wikilink")[细田守团队将秋山辽在该画面登场的用意](https://zh.wikipedia.org/wiki/细田守 "wikilink")，甚至不清楚秋山辽的角色设定，以为该画面只是路人角色，导致出现较为严重破坏设定的致敬失误。
 
 ### 製作、設定
 
@@ -284,8 +273,7 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 #### 第4章「喪失」
 
   -
-    本作再次修改製作模式，東映動畫連同之前已播出的篇章一致修改作品字眼，由劇場版改為製作成本較低的[OVA作品而並未有官方說明](https://zh.wikipedia.org/wiki/OVA "wikilink")。合共本次作品字眼修改，本作已經是第三次修改製作模式（電視動畫→劇場版→OVA），綜合各種製作定位飄忽和外判製作導致作品質素低劣，可見東映動畫對本系列作為15周年紀念企劃並未受到應有的重視。絕大部分OVA作品只收錄於Blu-ray
-    Disc當中，但本次字眼修改並未影響上映模式，第4章合共13所院線於日本上映；以及過往本作聲優＆歌手在特備節目、公開活動場合中多次稱呼本作為劇場版，所以坊間暫並未因此改動而轉變稱呼。
+    本作再次修改製作模式，東映動畫連同之前已播出的篇章一致修改作品字眼，由劇場版改為製作成本較低的[OVA作品而並未有官方說明](https://zh.wikipedia.org/wiki/OVA "wikilink")。合共本次作品字眼修改，本作已經是第三次修改製作模式（電視動畫→劇場版→OVA），綜合各種製作定位飄忽和外判製作導致作品質素低劣，可見東映動畫對本系列作為15周年紀念企劃並未受到應有的重視。絕大部分OVA作品只收錄於Blu-ray Disc當中，但本次字眼修改並未影響上映模式，第4章合共13所院線於日本上映；以及過往本作聲優＆歌手在特備節目、公開活動場合中多次稱呼本作為劇場版，所以坊間暫並未因此改動而轉變稱呼。
 
 #### 第5章「共生」、第6章「我們的未來」
 
@@ -300,34 +288,27 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 ### 音樂
 
   -
-    經歷歲月不饒人，本作在音樂方面，先後有兩位資深歌手及音樂創作人離世。[和田光司官方網站於](../Page/和田光司.md "wikilink")2016年4月8日發出聲明，表示其因[喉癌已於](../Page/喉癌.md "wikilink")4月3日病逝，其主題曲「Butter-Fly」成為和田光司出道作、也是最後的告別作；創作歷代背景音樂的作曲家[有澤孝紀亦於](../Page/有澤孝紀.md "wikilink")2005年因[膀胱癌去世](../Page/膀胱癌.md "wikilink")，後者已由創作《[約會大作戰](../Page/約會大作戰.md "wikilink")》背景音樂的坂部剛代替。
+    經歷歲月不饒人，本作在音樂方面，先後有兩位資深歌手及音樂創作人離世。[和田光司](../Page/和田光司.md "wikilink")官方網站於2016年4月8日發出聲明，表示其因[喉癌](../Page/喉癌.md "wikilink")已於4月3日病逝，其主題曲「Butter-Fly」成為和田光司出道作、也是最後的告別作；創作歷代背景音樂的作曲家[有澤孝紀](../Page/有澤孝紀.md "wikilink")亦於2005年因[膀胱癌](../Page/膀胱癌.md "wikilink")去世，後者已由創作《[約會大作戰](../Page/約會大作戰.md "wikilink")》背景音樂的坂部剛代替。
 
 #### 第1章「再會」
 
   -
-    本作將舊有的歌曲重新編曲，當中以主題曲「[Butter-Fly](../Page/Butter-Fly.md "wikilink")」曲風變化最大，原因是[和田光司於](../Page/和田光司.md "wikilink")2003年患上喉癌而失聲長達2年、繼而於2011年再次因為癌症復發全面停工。2013年復出後，聲帶及唱功水準只能以舒情曲風為主，因此本作的主題曲風格比舊有版本柔和，而當時已病重的和田光司從曲中副歌部分可見相當吃力，但仍聲嘶力竭地完成歌曲錄音更獲得觀眾高度評價。
+    本作將舊有的歌曲重新編曲，當中以主題曲「[Butter-Fly](../Page/Butter-Fly.md "wikilink")」曲風變化最大，原因是[和田光司](../Page/和田光司.md "wikilink")於2003年患上喉癌而失聲長達2年、繼而於2011年再次因為癌症復發全面停工。2013年復出後，聲帶及唱功水準只能以舒情曲風為主，因此本作的主題曲風格比舊有版本柔和，而當時已病重的和田光司從曲中副歌部分可見相當吃力，但仍聲嘶力竭地完成歌曲錄音更獲得觀眾高度評價。
 
 <!-- end list -->
 
   -
-    本作亦有部分歷代背景音樂由坂部剛重新編曲，如收錄在1999年發售的OST《デジモンアドベンチャー 歌と音楽集
-    Ver.1》－曲目23「絕望」、曲目29「ハッピーエンド」、插曲「brave heart」的伴奏版等。
+    本作亦有部分歷代背景音樂由坂部剛重新編曲，如收錄在1999年發售的OST《デジモンアドベンチャー 歌と音楽集 Ver.1》－曲目23「絕望」、曲目29「ハッピーエンド」、插曲「brave heart」的伴奏版等。
 
 #### 第2章「決意」
 
   -
-    本章片尾曲改編自第一作插曲「Seven」，歌曲中的背景音樂雖然重新編曲，但當時和田光司再次因為癌症第三次復發而缺席歌曲錄製，新版本「Seven～tri.Version～」的人聲音源實際是抽取和田光司於2009年、出道10周年所發行的紀念版本「Seven
-    ～10th MEMORIAL
-    Version～」，並由宮崎步、AiM及編曲家渡部チェル加入和音元素作為新曲發售，因此「Seven～tri.Version～」並不是和田光司最後一首錄音作品，而是單曲發售作品，亦可見在這首歌當中，和田的聲線、歌唱技巧明顯比「Butter-Fly～tri.
-    Version～」來得自然及響亮。
+    本章片尾曲改編自第一作插曲「Seven」，歌曲中的背景音樂雖然重新編曲，但當時和田光司再次因為癌症第三次復發而缺席歌曲錄製，新版本「Seven～tri.Version～」的人聲音源實際是抽取和田光司於2009年、出道10周年所發行的紀念版本「Seven ～10th MEMORIAL Version～」，並由宮崎步、AiM及編曲家渡部チェル加入和音元素作為新曲發售，因此「Seven～tri.Version～」並不是和田光司最後一首錄音作品，而是單曲發售作品，亦可見在這首歌當中，和田的聲線、歌唱技巧明顯比「Butter-Fly～tri. Version～」來得自然及響亮。
 
 #### 第5章「共生」
 
   -
-    歷代作詞家山田ひろし、作曲／編曲家太田美知彦，再次為本系列創作歌曲「アイコトバ」。太田美知彦從第一作《[數碼暴龍大冒險](https://zh.wikipedia.org/wiki/數碼暴龍大冒險 "wikilink")》開始直到第四作《[數碼寶貝無限地帶](https://zh.wikipedia.org/wiki/數碼寶貝無限地帶 "wikilink")》包攬絕大多數主題曲及插曲、部分角色曲及片尾曲的作曲／編曲製作，歌曲旋律及風格於前四作一直處於高水準狀態，由他所負責的歌曲不但沒有因歲月流逝而被淡忘，反而更創下多首經典名曲，「brave
-    heart」、「僕らのデジタルワールド」、「The Biggest Dreamer」、「3 Primary Colors」、「an
-    Endless tale」等十多年來流傳至今，[谷本貴義的出道作](../Page/谷本貴義.md "wikilink")「One
-    Vision」亦是太田美知彦的作品。於《[數碼暴龍拯救隊](https://zh.wikipedia.org/wiki/數碼暴龍拯救隊 "wikilink")》製作插入歌「Believer」後，近年則以音樂人及歌手身份活躍於各項現場音樂演出，因而淡出了本系列的音樂工作。
+    歷代作詞家山田ひろし、作曲／編曲家太田美知彦，再次為本系列創作歌曲「アイコトバ」。太田美知彦從第一作《[數碼暴龍大冒險](https://zh.wikipedia.org/wiki/數碼暴龍大冒險 "wikilink")》開始直到第四作《[數碼寶貝無限地帶](https://zh.wikipedia.org/wiki/數碼寶貝無限地帶 "wikilink")》包攬絕大多數主題曲及插曲、部分角色曲及片尾曲的作曲／編曲製作，歌曲旋律及風格於前四作一直處於高水準狀態，由他所負責的歌曲不但沒有因歲月流逝而被淡忘，反而更創下多首經典名曲，「brave heart」、「僕らのデジタルワールド」、「The Biggest Dreamer」、「3 Primary Colors」、「an Endless tale」等十多年來流傳至今，[谷本貴義](../Page/谷本貴義.md "wikilink")的出道作「One Vision」亦是太田美知彦的作品。於《[數碼暴龍拯救隊](https://zh.wikipedia.org/wiki/數碼暴龍拯救隊 "wikilink")》製作插入歌「Believer」後，近年則以音樂人及歌手身份活躍於各項現場音樂演出，因而淡出了本系列的音樂工作。
 
 ## 世界观
 
@@ -380,10 +361,10 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
     大江戶溫泉物語
     [富士電視台本社大樓](https://zh.wikipedia.org/wiki/富士電視台本社大樓 "wikilink")
     [羽田機場](https://zh.wikipedia.org/wiki/羽田機場 "wikilink")（HND）
-    位於[東京都](../Page/東京都.md "wikilink")[大田区羽田町的機場](../Page/大田区.md "wikilink")，故事發生當時（2005年）以國內航線為主，因為與古加獸大戰而遭到破壞。
+    位於[東京都](../Page/東京都.md "wikilink")[大田区](../Page/大田区.md "wikilink")羽田町的機場，故事發生當時（2005年）以國內航線為主，因為與古加獸大戰而遭到破壞。
 
   - [成田機場](https://zh.wikipedia.org/wiki/成田機場 "wikilink")（NRT）
-    位於[千葉縣](../Page/千葉縣.md "wikilink")[成田市三里塚的機場](../Page/成田市.md "wikilink")，以國際航線為主，太刀川美美自美國返抵日本時所降落的機場。
+    位於[千葉縣](../Page/千葉縣.md "wikilink")[成田市](../Page/成田市.md "wikilink")三里塚的機場，以國際航線為主，太刀川美美自美國返抵日本時所降落的機場。
 
   - [东京临海新交通临海线](https://zh.wikipedia.org/wiki/东京临海新交通临海线 "wikilink")
     [调色板城大摩天轮](https://zh.wikipedia.org/wiki/调色板城大摩天轮 "wikilink")
@@ -972,8 +953,7 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 
 ### 插曲
 
-  - 「[brave
-    heart](https://zh.wikipedia.org/wiki/brave_heart "wikilink")～tri.Version～」
+  - 「[brave heart](https://zh.wikipedia.org/wiki/brave_heart "wikilink")～tri.Version～」
     　 作詞：大森祥子
     　 作曲：太田美知彦
     　 編曲 • 主唱：宮崎步
@@ -1040,8 +1020,7 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 
 ### 舞台剧
 
-《超進化舞台 数码宝贝大冒险tri.
-～8月1日的冒险～》于2017年8月5日-8月13日期间在[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[港区Zepp六本木蓝色剧院举行公演](../Page/港區_\(東京都\).md "wikilink")，2017年8月13日在[Niconico直播进行网络付费直播](../Page/Niconico直播.md "wikilink")，2017年12月2日发售DVD，2018年1月14日在[WOWOW电视首播](../Page/WOWOW.md "wikilink")。
+《超進化舞台 数码宝贝大冒险tri. ～8月1日的冒险～》于2017年8月5日-8月13日期间在[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[港区Zepp六本木蓝色剧院举行公演](../Page/港區_\(東京都\).md "wikilink")，2017年8月13日在[Niconico直播](../Page/Niconico直播.md "wikilink")进行网络付费直播，2017年12月2日发售DVD，2018年1月14日在[WOWOW](../Page/WOWOW.md "wikilink")电视首播。
 
 #### 剧情
 
@@ -1092,33 +1071,13 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 
   - [东映动画 Digimon Adventure tri. 官网](http://digimon-adventure.net/tri/)
 
-  - [东映动画 Digimon Adventure 15th Anniversary Project
-    官网](https://web.archive.org/web/20181226232740/http://15th.digimon-adventure.net/)
+  - [东映动画 Digimon Adventure 15th Anniversary Project 官网](https://web.archive.org/web/20181226232740/http://15th.digimon-adventure.net/)
 
-  - [超进化舞台 Digimon Adventure tri. ～Adventure of August 1～
-    官网](http://digimon-stage.com/)
+  - [超进化舞台 Digimon Adventure tri. ～Adventure of August 1～ 官网](http://digimon-stage.com/)
 
   -
   -
-[Category:數碼寶貝系列](https://zh.wikipedia.org/wiki/Category:數碼寶貝系列 "wikilink")
-[Category:2005年背景作品](https://zh.wikipedia.org/wiki/Category:2005年背景作品 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink")
-[Category:2015年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2015年日本OVA動畫 "wikilink")
-[Category:2016年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2016年日本OVA動畫 "wikilink")
-[Category:2017年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2017年日本OVA動畫 "wikilink")
-[Category:2018年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2018年日本OVA動畫 "wikilink")
-[Category:舞台劇](https://zh.wikipedia.org/wiki/Category:舞台劇 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:2010年代奇幻片](https://zh.wikipedia.org/wiki/Category:2010年代奇幻片 "wikilink")
-[Category:虛擬寵物](https://zh.wikipedia.org/wiki/Category:虛擬寵物 "wikilink")
-[Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink")
-[Category:賽博朋克](https://zh.wikipedia.org/wiki/Category:賽博朋克 "wikilink")
-[Category:虚拟世界背景作品](https://zh.wikipedia.org/wiki/Category:虚拟世界背景作品 "wikilink")
-[Category:科學奇幻動畫](https://zh.wikipedia.org/wiki/Category:科學奇幻動畫 "wikilink")
-[Category:电脑题材作品](https://zh.wikipedia.org/wiki/Category:电脑题材作品 "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
+[Category:數碼寶貝系列](https://zh.wikipedia.org/wiki/Category:數碼寶貝系列 "wikilink") [Category:2005年背景作品](https://zh.wikipedia.org/wiki/Category:2005年背景作品 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:2015年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2015年日本OVA動畫 "wikilink") [Category:2016年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2016年日本OVA動畫 "wikilink") [Category:2017年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2017年日本OVA動畫 "wikilink") [Category:2018年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2018年日本OVA動畫 "wikilink") [Category:舞台劇](https://zh.wikipedia.org/wiki/Category:舞台劇 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:2010年代奇幻片](https://zh.wikipedia.org/wiki/Category:2010年代奇幻片 "wikilink") [Category:虛擬寵物](https://zh.wikipedia.org/wiki/Category:虛擬寵物 "wikilink") [Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:賽博朋克](https://zh.wikipedia.org/wiki/Category:賽博朋克 "wikilink") [Category:虚拟世界背景作品](https://zh.wikipedia.org/wiki/Category:虚拟世界背景作品 "wikilink") [Category:科學奇幻動畫](https://zh.wikipedia.org/wiki/Category:科學奇幻動畫 "wikilink") [Category:电脑题材作品](https://zh.wikipedia.org/wiki/Category:电脑题材作品 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
 
 1.
 2.
@@ -1130,11 +1089,8 @@ VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌已於](../Pa
 8.
 9.
 10.
-11. WS游戏《数码兽大冒险：阳极驯兽师》《数码兽大冒险：阴极驯兽师》《数码兽大冒险02：组合驯兽师》《数码兽大冒险02：D-1驯兽师》《数码兽驯兽师：勇敢的驯兽师》男一号、TV动画《数码兽驯兽师》和剧场版《数码兽驯兽师
-    暴走数码兽特急》男三号、剧场版《数码兽大冒险
-    我们的战争游戏！》、TV动画《数码兽大冒险02》《数码兽合体战争～穿越时空的少年猎人们～》，穿越不同的时空和宿敌千年兽进行宿命的对决。曾解救动画版太一等人、曾和一乘寺贤是朋友搭挡、曾和松田启人等人并肩作战、曾和动画前三部主役数码兽搭档、曾和漫画版太一决斗、曾协助过明石激和工藤大器等人。
+11. WS游戏《数码兽大冒险：阳极驯兽师》《数码兽大冒险：阴极驯兽师》《数码兽大冒险02：组合驯兽师》《数码兽大冒险02：D-1驯兽师》《数码兽驯兽师：勇敢的驯兽师》男一号、TV动画《数码兽驯兽师》和剧场版《数码兽驯兽师 暴走数码兽特急》男三号、剧场版《数码兽大冒险 我们的战争游戏！》、TV动画《数码兽大冒险02》《数码兽合体战争～穿越时空的少年猎人们～》，穿越不同的时空和宿敌千年兽进行宿命的对决。曾解救动画版太一等人、曾和一乘寺贤是朋友搭挡、曾和松田启人等人并肩作战、曾和动画前三部主役数码兽搭档、曾和漫画版太一决斗、曾协助过明石激和工藤大器等人。
 12.
-13. 香港[Viu翻譯](../Page/Viu.md "wikilink")
-14. [东映动画创立](../Page/东映动画.md "wikilink")60周年特集《荣光的60年！胜利的方程式》，29小时马拉松式（2016年7月30日18:00至7月31日23:00）压轴播出。
-15. 因為和田光司身體不適，2009年發行的「Butter-fly ～Strong Version～」中收錄的「Seven～10th
-    MEMORIAL Version～」的單曲再使用。
+13. 香港[Viu](../Page/Viu.md "wikilink")翻譯
+14. [东映动画](../Page/东映动画.md "wikilink")创立60周年特集《荣光的60年！胜利的方程式》，29小时马拉松式（2016年7月30日18:00至7月31日23:00）压轴播出。
+15. 因為和田光司身體不適，2009年發行的「Butter-fly ～Strong Version～」中收錄的「Seven～10th MEMORIAL Version～」的單曲再使用。

@@ -190,7 +190,7 @@
 <tr class="odd">
 <td><p>''' Annuit coeptis. '''</p></td>
 <td><p>神佑我邦。</p></td>
-<td><p><a href="../Page/美国国徽.md" title="wikilink">美国国徽背面</a></p></td>
+<td><p><a href="../Page/美国国徽.md" title="wikilink">美国国徽</a>背面</p></td>
 </tr>
 <tr class="even">
 <td><p>''' ante Christum '''</p></td>

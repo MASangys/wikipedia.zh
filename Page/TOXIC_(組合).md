@@ -1,5 +1,4 @@
-**TOXIC**（），是韓國男子搖滾組合，於2011年參與選秀節目《》勝出而獲得唱片公司羅致，2012年10月12日以迷你一輯《First
-Bridge》主打曲《孤獨》（）出道\[1\]。
+**TOXIC**（），是韓國男子搖滾組合，於2011年參與選秀節目《》勝出而獲得唱片公司羅致，2012年10月12日以迷你一輯《First Bridge》主打曲《孤獨》（）出道\[1\]。
 
 ## 成員列表
 
@@ -97,8 +96,7 @@ Bridge》主打曲《孤獨》（）出道\[1\]。
 
 ### 原聲帶
 
-  - 2013年 《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》OST　Part.1－[Just A
-    Man In Love](../Page/悲傷的心情_\(JUST_A_MAN_IN_LOVE\).md "wikilink")
+  - 2013年 《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》OST　Part.1－[Just A Man In Love](../Page/悲傷的心情_\(JUST_A_MAN_IN_LOVE\).md "wikilink")
 
 ## 獎項
 
@@ -178,9 +176,6 @@ Bridge》主打曲《孤獨》（）出道\[1\]。
   -
   - [TOXIC](http://www.bandtoxic.com/)在Daum cafe的頁面
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.

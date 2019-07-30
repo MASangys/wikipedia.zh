@@ -1,4 +1,4 @@
-此表列出在[日本](../Page/日本.md "wikilink")[动画系列片](../Page/动画.md "wikilink")[机动战士GUNDAM中以](../Page/GUNDAM系列作品.md "wikilink")[宇宙世纪](https://zh.wikipedia.org/wiki/宇宙世纪 "wikilink")（**U.C.**）为纪元的作品中出现的[虚构兵器](https://zh.wikipedia.org/wiki/虚构兵器 "wikilink")。
+此表列出在[日本](../Page/日本.md "wikilink")[动画](../Page/动画.md "wikilink")系列片[机动战士GUNDAM中以](../Page/GUNDAM系列作品.md "wikilink")[宇宙世纪](https://zh.wikipedia.org/wiki/宇宙世纪 "wikilink")（**U.C.**）为纪元的作品中出现的[虚构兵器](https://zh.wikipedia.org/wiki/虚构兵器 "wikilink")。
 
 要获取更多关于GUNDAM的信息，请参看主题条目：
 
@@ -131,10 +131,7 @@
 <!-- end list -->
 
   -
-    首次登场于OVA动画《MSIGLOO 2 重力战线》第3话的敖德萨战役，后在漫画《机动战士GUNDAM战记U.C.0081
-    水天之泪》Mission
-    6中北美战线的[诺福克和漫画](../Page/諾福克_\(維吉尼亞州\).md "wikilink")《机动战士GUNDAM
-    U.C.HARD GRAPH 铁之悍马》第六话中登场。
+    首次登场于OVA动画《MSIGLOO 2 重力战线》第3话的敖德萨战役，后在漫画《机动战士GUNDAM战记U.C.0081 水天之泪》Mission 6中北美战线的[诺福克和漫画](../Page/諾福克_\(維吉尼亞州\).md "wikilink")《机动战士GUNDAM U.C.HARD GRAPH 铁之悍马》第六话中登场。
 
 <!-- end list -->
 
@@ -191,7 +188,7 @@
 <!-- end list -->
 
   -
-    舰名可译为“阿-{}-含”、“亞加-{}-瑪”、“阿卡-{}-馬”、“阿伽-{}-玛”。Argama在[梵语中意为](../Page/梵语.md "wikilink")[民俗](../Page/民俗.md "wikilink")，又指[上座部佛教中的](../Page/上座部佛教.md "wikilink")[阿含经](https://zh.wikipedia.org/wiki/阿含经 "wikilink")。
+    舰名可译为“阿-{}-含”、“亞加-{}-瑪”、“阿卡-{}-馬”、“阿伽-{}-玛”。Argama在[梵语](../Page/梵语.md "wikilink")中意为[民俗](../Page/民俗.md "wikilink")，又指[上座部佛教](../Page/上座部佛教.md "wikilink")中的[阿含经](https://zh.wikipedia.org/wiki/阿含经 "wikilink")。
 
 <!-- end list -->
 
@@ -216,11 +213,9 @@
 <!-- end list -->
 
   -
-    《机动战士GUNDAM UC》中登场的DOGOSSE
-    GIAR级二号舰，地球轨道舰队旗舰。舰名用以纪念一年战争时期引导联邦获得最终胜利却不幸牺牲的英雄人物——雷比尔将军。
+    《机动战士GUNDAM UC》中登场的DOGOSSE GIAR级二号舰，地球轨道舰队旗舰。舰名用以纪念一年战争时期引导联邦获得最终胜利却不幸牺牲的英雄人物——雷比尔将军。
     本舰是DOGOSSE GIAR号的大型化\[1\]。全长630m，宽度超过200m。
-    本舰在《[机动战士GUNDAM
-    NT](../Page/机动战士GUNDAM_NT.md "wikilink")》中被佐尔坦·亚卡年驾驶的新吉翁2号击沉。
+    本舰在《[机动战士GUNDAM NT](../Page/机动战士GUNDAM_NT.md "wikilink")》中被佐尔坦·亚卡年驾驶的新吉翁2号击沉。
 
 ## 吉翁公国军
 
@@ -249,8 +244,7 @@
   -
 :\*[约顿海姆](https://zh.wikipedia.org/wiki/約頓海姆 "wikilink")
 
-::《机动战士GUNDAM MS
-IGLOO》中的主角舰，吉翁公国军第603技术试验部队的母舰。因外形奇特而被莫妮卡·凯迪拉克称为“铅笔盒”\[2\]。
+::《机动战士GUNDAM MS IGLOO》中的主角舰，吉翁公国军第603技术试验部队的母舰。因外形奇特而被莫妮卡·凯迪拉克称为“铅笔盒”\[2\]。
 
 :\*[穆斯贝尔海姆](https://zh.wikipedia.org/wiki/穆斯貝爾海姆 "wikilink")
 
@@ -276,6 +270,5 @@ IGLOO》中的主角舰，吉翁公国军第603技术试验部队的母舰。因
 
 [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
 
-1.  《机动战士GUNDAM UC》EP5、6中新安州的识别系统显示雷比尔将军号相比DOGOSSE
-    GIAR号，在舰首的两个MS运用区块外侧又各加装了一个同样规模的区块
+1.  《机动战士GUNDAM UC》EP5、6中新安州的识别系统显示雷比尔将军号相比DOGOSSE GIAR号，在舰首的两个MS运用区块外侧又各加装了一个同样规模的区块
 2.  《一年战争秘录》第一集

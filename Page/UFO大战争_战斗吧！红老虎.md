@@ -1,5 +1,4 @@
-UFO大战争 战斗吧！红老虎『**UFO大戦争 戦え\! レッドタイガー**』（ユーフォーだいせんそう たたかえ
-レッドタイガー）是1978年（昭和53年）4月8日至同年12月28日在[東京12チャンネル（現・テレビ東京）全](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")39話放送，、[創英舎製作的特摄节目](https://zh.wikipedia.org/wiki/創英舎 "wikilink")。
+UFO大战争 战斗吧！红老虎『**UFO大戦争 戦え\! レッドタイガー**』（ユーフォーだいせんそう たたかえ レッドタイガー）是1978年（昭和53年）4月8日至同年12月28日在[東京12チャンネル（現・テレビ東京）全](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")39話放送，、[創英舎製作的特摄节目](https://zh.wikipedia.org/wiki/創英舎 "wikilink")。
 
 ## 登場人物
 
@@ -35,8 +34,7 @@ UFO大战争 战斗吧！红老虎『**UFO大戦争 戦え\! レッドタイガ�
 
 ## 演员
 
-  - レッドタイガー（声）：[古谷徹](../Page/古谷徹.md "wikilink")（1 -
-    4話）\[1\]→[中屋敷鉄也](https://zh.wikipedia.org/wiki/中屋敷哲也 "wikilink")
+  - レッドタイガー（声）：[古谷徹](../Page/古谷徹.md "wikilink")（1 - 4話）\[1\]→[中屋敷鉄也](https://zh.wikipedia.org/wiki/中屋敷哲也 "wikilink")
   - 天野太陽：[星克己](https://zh.wikipedia.org/wiki/星克己 "wikilink")
   - 天野月子：[アネット・オーレル](https://zh.wikipedia.org/wiki/アネット・オーレル "wikilink")
   - 天野星夫：[古田悟郎](https://zh.wikipedia.org/wiki/古田悟郎 "wikilink")\[2\]
@@ -103,12 +101,9 @@ UFO大战争 战斗吧！红老虎『**UFO大戦争 戦え\! レッドタイガ�
 ## 主題歌・挿入歌
 
   - オープニングテーマ「戦え\! レッドタイガー」
-    作詞：大野幸太郎 / 作・編曲：植原路雄 /
-    歌：[ささきいさお](https://zh.wikipedia.org/wiki/ささきいさお "wikilink")、[コロムビアゆりかご会](https://zh.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+    作詞：大野幸太郎 / 作・編曲：植原路雄 / 歌：[ささきいさお](https://zh.wikipedia.org/wiki/ささきいさお "wikilink")、[コロムビアゆりかご会](https://zh.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
   - エンディングテーマ「出撃\! レッドタイガーの詩」
-    作詞：[保富康午](https://zh.wikipedia.org/wiki/保富康午 "wikilink") /
-    作・編曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink") /
-    歌：ささきいさお、コロムビアゆりかご会
+    作詞：[保富康午](https://zh.wikipedia.org/wiki/保富康午 "wikilink") / 作・編曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌：ささきいさお、コロムビアゆりかご会
   - 挿入歌「母をもとめて」
     作詞：保富康午 / 作・編曲：菊池俊輔 / 歌：ささきいさお
 
@@ -118,10 +113,7 @@ UFO大战争 战斗吧！红老虎『**UFO大戦争 戦え\! レッドタイガ�
 
   -
   -
-[Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink")
-[Category:1970年代特摄作品](https://zh.wikipedia.org/wiki/Category:1970年代特摄作品 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:不明飛行物題材作品](https://zh.wikipedia.org/wiki/Category:不明飛行物題材作品 "wikilink")
+[Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink") [Category:1970年代特摄作品](https://zh.wikipedia.org/wiki/Category:1970年代特摄作品 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:不明飛行物題材作品](https://zh.wikipedia.org/wiki/Category:不明飛行物題材作品 "wikilink")
 
 1.  「声が若すぎてイメージに合わない」という理由で古谷徹は初期のみで降板し、その後は中屋敷本人が声も演じた。
 

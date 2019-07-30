@@ -1,20 +1,14 @@
-《**I
-WILL**》（）是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第五張正規專輯](../Page/FTIsland.md "wikilink")（實際為第六張韓語專輯），於2015年3月23日發行，並以《PRAY》為此專輯的主打曲目。
+《**I WILL**》（）是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第五張正規專輯（實際為第六張韓語專輯），於2015年3月23日發行，並以《PRAY》為此專輯的主打曲目。
 
 ## 背景
 
-2015年3月2日，FTIsland的韓國經紀公司[FNC娛樂老闆在](../Page/FNC娛樂.md "wikilink")（）於FNC娛樂的網站發表了FTIsland將回歸韓國樂壇的消息\[1\]，後來在3月13日宣布樂隊將在3月23日推出第五張正規專輯\[2\]，並在同日開設專輯預告網站\[3\]。
+2015年3月2日，FTIsland的韓國經紀公司[FNC娛樂](../Page/FNC娛樂.md "wikilink")老闆在（）於FNC娛樂的網站發表了FTIsland將回歸韓國樂壇的消息\[1\]，後來在3月13日宣布樂隊將在3月23日推出第五張正規專輯\[2\]，並在同日開設專輯預告網站\[3\]。
 
-3月17日，專輯預告網站釋出先行歌曲《To The Light》的音樂錄影帶，這是2014年FTIsland在日本發行的第14張單曲《[To
-The
-Light](../Page/To_The_Light_\(FTIsland單曲\).md "wikilink")》之韓語版本\[4\]。次日（3月18日），專輯預告網站公布大碟收錄曲目與預告照片，並選定歌曲《PRAY》為專輯主打曲目\[5\]。
+3月17日，專輯預告網站釋出先行歌曲《To The Light》的音樂錄影帶，這是2014年FTIsland在日本發行的第14張單曲《[To The Light](../Page/To_The_Light_\(FTIsland單曲\).md "wikilink")》之韓語版本\[4\]。次日（3月18日），專輯預告網站公布大碟收錄曲目與預告照片，並選定歌曲《PRAY》為專輯主打曲目\[5\]。
 
-3月20日，FNC娛樂推出由鼓手[崔敏煥為主角的](../Page/崔敏煥.md "wikilink")《PRAY》特別預告片\[6\]，亦於3月21日提供了收錄曲目試聽的預告片\[7\]；而《PRAY》的音樂錄影帶則在3月23日公開\[8\]。
+3月20日，FNC娛樂推出由鼓手[崔敏煥](../Page/崔敏煥.md "wikilink")為主角的《PRAY》特別預告片\[6\]，亦於3月21日提供了收錄曲目試聽的預告片\[7\]；而《PRAY》的音樂錄影帶則在3月23日公開\[8\]。
 
-在製作及選曲方面，主唱[李洪基曾在](../Page/李洪基.md "wikilink")2015年3月13日播出的《》表示《I
-WILL》是他們向公司爭取9年後，首次能製作只屬於FTIsland的專輯\[9\]；其後3月20日出版的《[THE
-STAR](https://zh.wikipedia.org/wiki/THE_STAR_\(韓國雜誌\) "wikilink")》（），李洪基亦表示《I
-WILL》「是他們第一個『孩子』」，是他們首次只收錄自創歌曲的大碟，貝斯手[李在真同時也指出這將是他們轉變的第一步](https://zh.wikipedia.org/wiki/李在真 "wikilink")\[10\]。
+在製作及選曲方面，主唱[李洪基](../Page/李洪基.md "wikilink")曾在2015年3月13日播出的《》表示《I WILL》是他們向公司爭取9年後，首次能製作只屬於FTIsland的專輯\[9\]；其後3月20日出版的《[THE STAR](https://zh.wikipedia.org/wiki/THE_STAR_\(韓國雜誌\) "wikilink")》（），李洪基亦表示《I WILL》「是他們第一個『孩子』」，是他們首次只收錄自創歌曲的大碟，貝斯手[李在真同時也指出這將是他們轉變的第一步](https://zh.wikipedia.org/wiki/李在真 "wikilink")\[10\]。
 
 ## 曲目
 
@@ -81,7 +75,7 @@ WILL》「是他們第一個『孩子』」，是他們首次只收錄自創歌�
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量   | 總銷量 | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量   | 總銷量 | 停留時間 |
 | ---------------------------------------- | ---- | ----- | --- | ---- |
 | 專輯日榜                                     | \-   | \-    |     |      |
 | 專輯週榜                                     | 33   | 2,653 |     |      |
@@ -155,10 +149,7 @@ WILL》「是他們第一個『孩子』」，是他們首次只收錄自創歌�
 
 ## 參考資料
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

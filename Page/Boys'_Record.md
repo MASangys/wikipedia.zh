@@ -1,10 +1,8 @@
-《**Boys'
-Record**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第五張韓語實體](../Page/VIXX.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，亦為首張特別單曲，以翻唱1995年出道作品《分手方程式》（，直譯為｢離別公式｣）（[洪在善](https://zh.wikipedia.org/wiki/洪在善 "wikilink")（）作曲、[尹晟熙](https://zh.wikipedia.org/wiki/尹晟熙 "wikilink")（）作詞）作主打曲，並在2015年2月24日推出\[1\]。
+《**Boys' Record**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的第五張韓語實體[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，亦為首張特別單曲，以翻唱1995年出道作品《分手方程式》（，直譯為｢離別公式｣）（[洪在善](https://zh.wikipedia.org/wiki/洪在善 "wikilink")（）作曲、[尹晟熙](https://zh.wikipedia.org/wiki/尹晟熙 "wikilink")（）作詞）作主打曲，並在2015年2月24日推出\[1\]。
 
 ## 背景
 
-2015年2月9日，[Jellyfish娛樂公布VIXX將發行新單曲](../Page/Jellyfish娛樂.md "wikilink")\[2\]。次日（2月10日），VIXX韓國官方網站作出更新，披露了單曲名稱——《Boys'
-Record》與其曲目，唯主打歌名稱不予公布，僅連續兩天依次用「1995」及一張照片作提示\[3\]\[4\]。
+2015年2月9日，[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")公布VIXX將發行新單曲\[2\]。次日（2月10日），VIXX韓國官方網站作出更新，披露了單曲名稱——《Boys' Record》與其曲目，唯主打歌名稱不予公布，僅連續兩天依次用「1995」及一張照片作提示\[3\]\[4\]。
 
 2月12日，官方揭曉單曲主打為翻唱舞蹈團體1995年作品——《分手方程式》\[5\]。
 
@@ -144,10 +142,7 @@ Record》與其曲目，唯主打歌名稱不予公布，僅連續兩天依次�
 
   -
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink") [Category:2015年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 

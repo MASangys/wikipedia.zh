@@ -1,14 +1,12 @@
-『**関パニ**』（日語：かんぱに），為[朝日電視台制作](../Page/朝日電視台.md "wikilink")、日本偶像組合[關西傑尼斯8的冠名節目](../Page/關西傑尼斯8.md "wikilink")。節目於2009年10月7日開始每逢週三
-25:36 -
-25:51（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播出，於2010年3月31日完結，共25集。
+『**関パニ**』（日語：かんぱに），為[朝日電視台](../Page/朝日電視台.md "wikilink")制作、日本偶像組合[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的冠名節目。節目於2009年10月7日開始每逢週三 25:36 - 25:51（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播出，於2010年3月31日完結，共25集。
 
 ## 節目簡介
 
-在這個節目當中，[關西傑尼斯8的成員們扮演著在東京某處一家資金貧乏](../Page/關西傑尼斯8.md "wikilink")、名為「関パニ」的電視制作公司的助理導演，公司的社長在節目中會給出不同的節目計劃，而成員們必需對每一期的主題遊戲進行挑戰，拖後腿或者輸掉的成員需要在節目的尾聲接受大懲罰。
+在這個節目當中，[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的成員們扮演著在東京某處一家資金貧乏、名為「関パニ」的電視制作公司的助理導演，公司的社長在節目中會給出不同的節目計劃，而成員們必需對每一期的主題遊戲進行挑戰，拖後腿或者輸掉的成員需要在節目的尾聲接受大懲罰。
 
 成員們在節目中需穿上顏色統一的運動服，其顏色會隨著節目的播放而有所不同，但大致上為紅、綠、藍三種顏色。
 
-節目的片頭曲、片尾曲和插曲的樂段均由[關西傑尼斯8的成員創作和演奏](../Page/關西傑尼斯8.md "wikilink")。
+節目的片頭曲、片尾曲和插曲的樂段均由[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的成員創作和演奏。
 
 在進行分組比賽時，隊伍大致分為：
 橫山隊：橫山、安田、錦戶
@@ -294,6 +292,4 @@
 
 ## 外部連結
 
-[Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink")
-[Category:關西傑尼斯8](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8 "wikilink")
-[Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink")
+[Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink") [Category:關西傑尼斯8](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8 "wikilink") [Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink")

@@ -1,5 +1,4 @@
-《**青**》（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE子團體](../Page/INFINITE.md "wikilink")[INFINITE
-F的首張韓語實體](../Page/INFINITE_F.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[鄭泰洙](https://zh.wikipedia.org/wiki/鄭泰洙 "wikilink")（）、[張正錫](https://zh.wikipedia.org/wiki/張正錫 "wikilink")（）、[尹鐘成](https://zh.wikipedia.org/wiki/尹鐘成 "wikilink")（）作曲、鄭泰洙作詞，並在2014年12月2日推出\[1\]。
+《**青**》（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")子團體[INFINITE F的首張韓語實體](../Page/INFINITE_F.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[鄭泰洙](https://zh.wikipedia.org/wiki/鄭泰洙 "wikilink")（）、[張正錫](https://zh.wikipedia.org/wiki/張正錫 "wikilink")（）、[尹鐘成](https://zh.wikipedia.org/wiki/尹鐘成 "wikilink")（）作曲、鄭泰洙作詞，並在2014年12月2日推出\[1\]。
 
 ## 曲目
 
@@ -139,9 +138,7 @@ F的首張韓語實體](../Page/INFINITE_F.md "wikilink")[單曲](https://zh.wik
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

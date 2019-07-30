@@ -1,9 +1,8 @@
-《**P.S.我愛你**》（）是一部由執導的2007年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")。[劇本是由理查德](https://zh.wikipedia.org/wiki/劇本 "wikilink")·拉格文斯和根據2004年[西西莉雅·艾亨的](../Page/西西莉雅·艾亨.md "wikilink")改編。
+《**P.S.我愛你**》（）是一部由執導的2007年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")。[劇本是由理查德](https://zh.wikipedia.org/wiki/劇本 "wikilink")·拉格文斯和根據2004年[西西莉雅·艾亨](../Page/西西莉雅·艾亨.md "wikilink")的改編。
 
 ## 演員
 
-  - [希拉里·斯旺克](../Page/希拉里·斯旺克.md "wikilink") - 荷莉·賴利-甘迺迪（Holly
-    Reilly-Kennedy）
+  - [希拉里·斯旺克](../Page/希拉里·斯旺克.md "wikilink") - 荷莉·賴利-甘迺迪（Holly Reilly-Kennedy）
 
   - [傑拉德·巴特勒](../Page/傑拉德·巴特勒.md "wikilink") – 蓋瑞·甘迺迪（Gerry Kennedy）
 
@@ -13,14 +12,11 @@
 
   - [詹姆斯·馬斯特斯](../Page/詹姆斯·馬斯特斯.md "wikilink") – 約翰·麥卡錫（John McCarthy）
 
-  - [凱西·貝茲](../Page/凱西·貝茲.md "wikilink") – 派翠西亞·賴利（Patricia
-    Reilly），荷莉的母親
+  - [凱西·貝茲](../Page/凱西·貝茲.md "wikilink") – 派翠西亞·賴利（Patricia Reilly），荷莉的母親
 
-  - [小亨利·康尼克](../Page/小亨利·康尼克.md "wikilink") – 丹尼爾·康奈利（Daniel
-    Connelly），向荷莉求婚被拒絕
+  - [小亨利·康尼克](../Page/小亨利·康尼克.md "wikilink") – 丹尼爾·康奈利（Daniel Connelly），向荷莉求婚被拒絕
 
-  - [杰弗里·迪恩·摩根](../Page/杰弗里·迪恩·摩根.md "wikilink")– 威廉·加拉格爾（William
-    Gallagher）
+  - [杰弗里·迪恩·摩根](../Page/杰弗里·迪恩·摩根.md "wikilink")– 威廉·加拉格爾（William Gallagher）
 
   - – 席亞拉·賴利（Ciara Reilly），荷莉的姐妹
 
@@ -30,7 +26,7 @@
 
 ## 劇情簡介
 
-荷莉和蓋瑞是一對住在[曼哈頓](../Page/曼哈頓.md "wikilink")[下东城的夫妻](../Page/下东城.md "wikilink")。他們彼此相愛，也偶爾吵架。某年冬天，蓋瑞突然死於[腦瘤](https://zh.wikipedia.org/wiki/腦瘤 "wikilink")，荷莉才意識到自己如此深愛著蓋瑞，和過去的吵架是多麼無謂。
+荷莉和蓋瑞是一對住在[曼哈頓](../Page/曼哈頓.md "wikilink")[下东城](../Page/下东城.md "wikilink")的夫妻。他們彼此相愛，也偶爾吵架。某年冬天，蓋瑞突然死於[腦瘤](https://zh.wikipedia.org/wiki/腦瘤 "wikilink")，荷莉才意識到自己如此深愛著蓋瑞，和過去的吵架是多麼無謂。
 
 悲痛欲絕的荷莉自我封閉，不與家人和朋友往來。直到荷莉的30歲生日，他們決定督促這位年輕[寡婦面對未來](https://zh.wikipedia.org/wiki/寡婦 "wikilink")。他們群聚到荷莉所住的公寓，他們送給荷莉一個生日[蛋糕](../Page/蛋糕.md "wikilink")，並交給荷莉一封由蓋瑞所寫的信，信的結尾帶有「[PS](../Page/附言.md "wikilink")：我愛你」。
 
@@ -44,10 +40,9 @@
 
 ## 製作
 
-在與原作者[西西莉雅·艾亨討論電影](../Page/西西莉雅·艾亨.md "wikilink")[DVD化的獎金](https://zh.wikipedia.org/wiki/DVD "wikilink")[分紅後](https://zh.wikipedia.org/wiki/分紅 "wikilink")，她同意將原著小說[美國化](https://zh.wikipedia.org/wiki/美國化 "wikilink")，以搬上電影螢幕
-，而原書的地點都發生在愛爾蘭。
+在與原作者[西西莉雅·艾亨](../Page/西西莉雅·艾亨.md "wikilink")討論電影[DVD化的獎金](https://zh.wikipedia.org/wiki/DVD "wikilink")[分紅後](https://zh.wikipedia.org/wiki/分紅 "wikilink")，她同意將原著小說[美國化](https://zh.wikipedia.org/wiki/美國化 "wikilink")，以搬上電影螢幕 ，而原書的地點都發生在愛爾蘭。
 
-這部電影在[紐約市和](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[爱尔兰共和国的](https://zh.wikipedia.org/wiki/爱尔兰共和国 "wikilink")[威克洛郡拍攝](../Page/威克洛郡.md "wikilink")\[1\]。
+這部電影在[紐約市和](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[爱尔兰共和国的](https://zh.wikipedia.org/wiki/爱尔兰共和国 "wikilink")[威克洛郡](../Page/威克洛郡.md "wikilink")拍攝\[1\]。
 
 ## 原聲帶
 
@@ -57,27 +52,24 @@
 
 ### 評論
 
-本片的負評大多集中在[希拉里·斯旺克的表現上](../Page/希拉里·斯旺克.md "wikilink")。評論網站[爛番茄給予本片](../Page/爛番茄.md "wikilink")23分\[2\]；
-另一個評論網站[Metacritic給予本片](../Page/Metacritic.md "wikilink")39分。\[3\]
+本片的負評大多集中在[希拉里·斯旺克](../Page/希拉里·斯旺克.md "wikilink")的表現上。評論網站[爛番茄](../Page/爛番茄.md "wikilink")給予本片23分\[2\]； 另一個評論網站[Metacritic](../Page/Metacritic.md "wikilink")給予本片39分。\[3\]
 
 ### 票房
 
-本片初期在北美地區2,454家放映廳上映，第一周排名第6，並收入6,481,221[美元](../Page/美元.md "wikilink")。它的最終票房在北美地區為53,695,808
-美元，其他地區收入為91,370,273美元，全球總票房為156,835,339美元。\[4\]
+本片初期在北美地區2,454家放映廳上映，第一周排名第6，並收入6,481,221[美元](../Page/美元.md "wikilink")。它的最終票房在北美地區為53,695,808 美元，其他地區收入為91,370,273美元，全球總票房為156,835,339美元。\[4\]
 
 ### 榮譽
 
-[希拉里·斯旺克在](../Page/希拉里·斯旺克.md "wikilink")2008年的《》中，以此片獲得觀眾票選為最佳國際演員。\[5\]
+[希拉里·斯旺克](../Page/希拉里·斯旺克.md "wikilink")在2008年的《》中，以此片獲得觀眾票選為最佳國際演員。\[5\]
 
 ## 文化影響
 
-  - 劇中[小亨利·康尼克和](../Page/小亨利·康尼克.md "wikilink")[希拉里·斯旺克的對話啟發了](../Page/希拉里·斯旺克.md "wikilink")[芮芭·麦克伊泰的靈感](../Page/芮芭·麦克伊泰.md "wikilink")，以此在2011年創作了單曲《》\[6\]
+  - 劇中[小亨利·康尼克](../Page/小亨利·康尼克.md "wikilink")和[希拉里·斯旺克](../Page/希拉里·斯旺克.md "wikilink")的對話啟發了[芮芭·麦克伊泰](../Page/芮芭·麦克伊泰.md "wikilink")的靈感，以此在2011年創作了單曲《》\[6\]
   - 2014年台灣電視劇《[16個夏天](../Page/16個夏天.md "wikilink")》的結局，男主角死前寫信和送禮給女主角的橋段，也被批評[模仿自本片](https://zh.wikipedia.org/wiki/模仿 "wikilink")。\[7\]
 
 ## 另見
 
-  - 《[情書 (1997年電影)](../Page/情書_\(1997年電影\).md "wikilink")》
-    （[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")）
+  - 《[情書 (1997年電影)](../Page/情書_\(1997年電影\).md "wikilink")》 （[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")）
   - 《》 （[泰國翻拍](https://zh.wikipedia.org/wiki/泰國 "wikilink")）
   - [2007年电影](../Page/2007年电影.md "wikilink")
   - [美国电影](../Page/美国电影.md "wikilink")
@@ -92,14 +84,7 @@
   -
   -
   -
-[Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink")
-[Category:美國浪漫劇情片](https://zh.wikipedia.org/wiki/Category:美國浪漫劇情片 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:喪偶題材電影](https://zh.wikipedia.org/wiki/Category:喪偶題材電影 "wikilink")
-[Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink")
-[Category:愛爾蘭背景電影](https://zh.wikipedia.org/wiki/Category:愛爾蘭背景電影 "wikilink")
-[Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink")
-[Category:华纳兄弟电影](https://zh.wikipedia.org/wiki/Category:华纳兄弟电影 "wikilink")
+[Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink") [Category:美國浪漫劇情片](https://zh.wikipedia.org/wiki/Category:美國浪漫劇情片 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:喪偶題材電影](https://zh.wikipedia.org/wiki/Category:喪偶題材電影 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:愛爾蘭背景電影](https://zh.wikipedia.org/wiki/Category:愛爾蘭背景電影 "wikilink") [Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink") [Category:华纳兄弟电影](https://zh.wikipedia.org/wiki/Category:华纳兄弟电影 "wikilink")
 
 1.
 2.

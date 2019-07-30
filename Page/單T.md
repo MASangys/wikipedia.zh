@@ -17,7 +17,7 @@
 
 以香港賽馬會為例
 
-單T每-{注}-港幣10元，同時可購買每-{注}-或每票多於港幣10元-{只}-適用於投-{注}-種類的「複式」及「馬-{膽}-」投-{注}-。當每票投注總額達港幣$100元或以上，可以[靈活玩最低金額港幣](../Page/靈活玩.md "wikilink")$1元作投注。
+單T每-{注}-港幣10元，同時可購買每-{注}-或每票多於港幣10元-{只}-適用於投-{注}-種類的「複式」及「馬-{膽}-」投-{注}-。當每票投注總額達港幣$100元或以上，可以[靈活玩](../Page/靈活玩.md "wikilink")最低金額港幣$1元作投注。
 
 ## 投注方法
 
@@ -30,9 +30,7 @@
 
 ## 中獎方法
 
-選中一場賽事中的第1名、第2名及第3名馬，毋須順序，便獲派彩，派彩將按照該馬匹組合的最後單T賠率計算。
-例如最後單T賠率為88倍，以每注投注金額$10計算，派彩為例10 x
-88倍=$880。
+選中一場賽事中的第1名、第2名及第3名馬，毋須順序，便獲派彩，派彩將按照該馬匹組合的最後單T賠率計算。 例如最後單T賠率為88倍，以每注投注金額$10計算，派彩為例10 x 88倍=$880。
 
 ## 最冷派彩紀錄
 
@@ -48,7 +46,6 @@
   - [澳門賽馬會](http://www.mjc.mo/race/info/index.php)
   - [香港賽馬會的官方網站](http://racing.hkjc.com?cid=OSXXDLC_WIKIPEDIA)
 
-[Category:香港賽馬](https://zh.wikipedia.org/wiki/Category:香港賽馬 "wikilink")
-[Category:香港博彩](https://zh.wikipedia.org/wiki/Category:香港博彩 "wikilink")
+[Category:香港賽馬](https://zh.wikipedia.org/wiki/Category:香港賽馬 "wikilink") [Category:香港博彩](https://zh.wikipedia.org/wiki/Category:香港博彩 "wikilink")
 
 1.  東網馬經派彩紀錄　http://racing.on.cc/racing/sta/current/rjstai0001x0.html

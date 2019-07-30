@@ -1,11 +1,10 @@
 本條目列出於香港[Animax播放的](../Page/Animax_Asia.md "wikilink")**日本動畫（包括電視動畫、OVA、劇場版及動畫電影）**及**其他節目**。
 
-大部份動畫皆以雙語同時播出（粵語及日語廣播，[now寬頻電視還提供英語及國語廣播](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")）；但仍有部份動畫只播出一種配音版本。[2015年](../Page/2015年.md "wikilink")[6月1日起](../Page/6月1日.md "wikilink")，香港Animax與東南亞Animax統一節目編排播放。
+大部份動畫皆以雙語同時播出（粵語及日語廣播，[now寬頻電視還提供英語及國語廣播](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")）；但仍有部份動畫只播出一種配音版本。[2015年](../Page/2015年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")起，香港Animax與東南亞Animax統一節目編排播放。
 
 Animax香港有平日（週一至五）、週末（週六日）兩時段之分，對於非「[與日同步、緊貼日本](../Page/海外聯播動畫.md "wikilink")」播出的動畫，於平日首播；週末則為部分平日檔的重播時段，採多集連播模式。
 
-安排的檔期時段較為多樣，有僅半小時的檔，也有一小時內兩集連播，前者用於18:00、19:30、21:00與21:30，後者僅17:00-18:00有採用整點前集重播、30分播新一集的模式；日期方面有平日皆會播出，也有僅平日內某兩至三天播出的設計，後者位於20:00之後（21點檔除外），因此常會遇到要配合與日同步、緊貼日本首播新動畫而更改平日既有動畫播出時間的情形。當中於平日內某兩至三天播出者，除少數因第一集超過半小時而有變化外，整點起必為奇數集數，故若遇到奇數集為最終集且僅半小時，則後半小時改播出Animax
-Musix半小時精華版作墊檔。週末檔亦然。
+安排的檔期時段較為多樣，有僅半小時的檔，也有一小時內兩集連播，前者用於18:00、19:30、21:00與21:30，後者僅17:00-18:00有採用整點前集重播、30分播新一集的模式；日期方面有平日皆會播出，也有僅平日內某兩至三天播出的設計，後者位於20:00之後（21點檔除外），因此常會遇到要配合與日同步、緊貼日本首播新動畫而更改平日既有動畫播出時間的情形。當中於平日內某兩至三天播出者，除少數因第一集超過半小時而有變化外，整點起必為奇數集數，故若遇到奇數集為最終集且僅半小時，則後半小時改播出Animax Musix半小時精華版作墊檔。週末檔亦然。
 
 <span style="font-size:90%;">**季數**和**集數**以香港[Animax已播放或預定播放作計算](../Page/Animax_Asia.md "wikilink")。</span>
 
@@ -17,29 +16,7 @@ Musix半小時精華版作墊檔。週末檔亦然。
 
     <span style="font-size:90%;">首播為緊貼日本、與日同步者分別以*斜體*、**粗體**標示</span>
 
-<onlyinclude>{|class="toc plainlinks" style="margin: auto;" \!目錄 |-
-|　[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink") |-
-|　　[2004](https://zh.wikipedia.org/wiki/#2004年 "wikilink") -
-[2005](https://zh.wikipedia.org/wiki/#2005年 "wikilink") -
-[2006](https://zh.wikipedia.org/wiki/#2006年 "wikilink") -
-[2007](https://zh.wikipedia.org/wiki/#2007年 "wikilink") -
-[2008](https://zh.wikipedia.org/wiki/#2008年 "wikilink") -
-[2009](https://zh.wikipedia.org/wiki/#2009年 "wikilink") |-
-|　　[2010](https://zh.wikipedia.org/wiki/#2010年 "wikilink") -
-[2011](https://zh.wikipedia.org/wiki/#2011年 "wikilink") -
-[2012](https://zh.wikipedia.org/wiki/#2012年 "wikilink") -
-[2013](https://zh.wikipedia.org/wiki/#2013年 "wikilink") -
-[2014](https://zh.wikipedia.org/wiki/#2014年 "wikilink") -
-[2015](https://zh.wikipedia.org/wiki/#2015年 "wikilink") -
-[2016](https://zh.wikipedia.org/wiki/#2016年 "wikilink") -
-[2017](https://zh.wikipedia.org/wiki/#2017年 "wikilink") -
-[2018](https://zh.wikipedia.org/wiki/#2018年 "wikilink") -
-[2019](https://zh.wikipedia.org/wiki/#2019年 "wikilink") |-
-|　[劇場版](https://zh.wikipedia.org/wiki/#劇場版 "wikilink") -
-[其他節目](https://zh.wikipedia.org/wiki/#其他節目 "wikilink") |-
-|　[參見](https://zh.wikipedia.org/wiki/#參見 "wikilink") -
-[外部連結](https://zh.wikipedia.org/wiki/#外部連結 "wikilink")
-|}__NOTOC__</onlyinclude>
+<onlyinclude>{|class="toc plainlinks" style="margin: auto;" \!目錄 |- |　[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink") |- |　　[2004](https://zh.wikipedia.org/wiki/#2004年 "wikilink") - [2005](https://zh.wikipedia.org/wiki/#2005年 "wikilink") - [2006](https://zh.wikipedia.org/wiki/#2006年 "wikilink") - [2007](https://zh.wikipedia.org/wiki/#2007年 "wikilink") - [2008](https://zh.wikipedia.org/wiki/#2008年 "wikilink") - [2009](https://zh.wikipedia.org/wiki/#2009年 "wikilink") |- |　　[2010](https://zh.wikipedia.org/wiki/#2010年 "wikilink") - [2011](https://zh.wikipedia.org/wiki/#2011年 "wikilink") - [2012](https://zh.wikipedia.org/wiki/#2012年 "wikilink") - [2013](https://zh.wikipedia.org/wiki/#2013年 "wikilink") - [2014](https://zh.wikipedia.org/wiki/#2014年 "wikilink") - [2015](https://zh.wikipedia.org/wiki/#2015年 "wikilink") - [2016](https://zh.wikipedia.org/wiki/#2016年 "wikilink") - [2017](https://zh.wikipedia.org/wiki/#2017年 "wikilink") - [2018](https://zh.wikipedia.org/wiki/#2018年 "wikilink") - [2019](https://zh.wikipedia.org/wiki/#2019年 "wikilink") |- |　[劇場版](https://zh.wikipedia.org/wiki/#劇場版 "wikilink") - [其他節目](https://zh.wikipedia.org/wiki/#其他節目 "wikilink") |- |　[參見](https://zh.wikipedia.org/wiki/#參見 "wikilink") - [外部連結](https://zh.wikipedia.org/wiki/#外部連結 "wikilink") |}__NOTOC__</onlyinclude>
 
 ### 電視動畫
 
@@ -205,10 +182,10 @@ Musix半小時精華版作墊檔。週末檔亦然。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/機械女神.md" title="wikilink">機械女神J<br />
+<td><p><a href="../Page/機械女神.md" title="wikilink">機械女神<br />
 機械女神J Again<br />
 機械女神J to X<br />
-機械女神R</a></p></td>
+機械女神R</a>J</p></td>
 <td><p><small>2004年2月17日</small></p></td>
 <td><p>第1輯</p></td>
 <td><p>25</p></td>
@@ -464,7 +441,7 @@ Musix半小時精華版作墊檔。週末檔亦然。
 <td><p><a href="../Page/銀河天使.md" title="wikilink">銀河天使<br />
 銀河天使Z<br />
 銀河天使Z OVA</a>[3]<br />
-<a href="../Page/銀河天使.md" title="wikilink">銀河天使A</a></p></td>
+<a href="../Page/銀河天使.md" title="wikilink">銀河天使</a>A</p></td>
 <td><p><small>2004年10月27日</small></p></td>
 <td><p>第1期</p></td>
 <td><p>26[4]</p></td>
@@ -630,9 +607,9 @@ Musix半小時精華版作墊檔。週末檔亦然。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記Reload<br />
+<td><p><a href="../Page/最遊記.md" title="wikilink">最遊記<br />
 最遊記Reload Gunlock<br />
-<strong>最遊記Reload Blast</strong></a></p></td>
+<strong>最遊記Reload Blast</strong></a>Reload</p></td>
 <td><p><small>2005年3月27日</small></p></td>
 <td><p>第2作第1季</p></td>
 <td><p>25</p></td>
@@ -695,7 +672,7 @@ Musix半小時精華版作墊檔。週末檔亦然。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/十兵衛.md" title="wikilink">十兵衛～心型眼罩的秘密</a>[7]</p></td>
+<td><p><a href="../Page/十兵衛.md" title="wikilink">十兵衛</a>～心型眼罩的秘密[7]</p></td>
 <td><p><small>2005年6月12日</small></p></td>
 <td></td>
 <td><p>13</p></td>
@@ -3043,9 +3020,9 @@ HELLO！！黃金拼圖</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/火影忍者.md" title="wikilink">火影忍者III<br />
+<td><p><a href="../Page/火影忍者.md" title="wikilink">火影忍者<br />
 火影忍者IV<br />
-火影忍者V</a>[44]</p></td>
+火影忍者V</a>III[44]</p></td>
 <td><p>1月7日</p></td>
 <td><p>#105-156</p></td>
 <td><p>52</p></td>
@@ -3185,7 +3162,7 @@ HELLO！！黃金拼圖</a></p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/青年黑傑克" title="wikilink">青年黑傑克</a>[47]</p></td>
 <td><p>6月6日</p></td>
-<td><p><a href="../Page/怪醫黑傑克.md" title="wikilink">怪醫黑傑克前傳</a></p></td>
+<td><p><a href="../Page/怪醫黑傑克.md" title="wikilink">怪醫黑傑克</a>前傳</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
@@ -3211,7 +3188,7 @@ HELLO！！黃金拼圖</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/驅魔少年.md" title="wikilink">驅魔少年Hallow</a></strong><br />
+<td><p><strong><a href="../Page/驅魔少年.md" title="wikilink">驅魔少年</a>Hallow</strong><br />
 <a href="../Page/驅魔少年.md" title="wikilink">驅魔少年</a></p></td>
 <td><p>第2作</p></td>
 <td><p>13</p></td>
@@ -3263,7 +3240,7 @@ HELLO！！黃金拼圖</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/緋彈的亞莉亞.md" title="wikilink">緋彈的亞莉亞AA</a></p></td>
+<td><p><a href="../Page/緋彈的亞莉亞.md" title="wikilink">緋彈的亞莉亞</a>AA</p></td>
 <td><p>8月1日</p></td>
 <td><p>外傳</p></td>
 <td><p>12</p></td>
@@ -3806,7 +3783,7 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/銀河英雄傳說.md" title="wikilink">銀河英雄傳說Die</a> Neue These</p></td>
+<td><p><a href="../Page/銀河英雄傳說.md" title="wikilink">銀河英雄傳說</a>Die Neue These</p></td>
 <td><p>11月21日</p></td>
 <td></td>
 <td><p>12</p></td>
@@ -3844,7 +3821,7 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/約會大作戰.md" title="wikilink">約會大作戰III</a></strong></p></td>
+<td><p><strong><a href="../Page/約會大作戰.md" title="wikilink">約會大作戰</a>III</strong></p></td>
 <td><p>1月11日</p></td>
 <td><p>第三季</p></td>
 <td><p>12</p></td>
@@ -3905,8 +3882,7 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 
 #### 其他曾播映動畫
 
-  - 《[劇場版 戰國 Basara - The Last
-    Party](https://zh.wikipedia.org/wiki/戰國BASARA#劇場版 "wikilink")》
+  - 《[劇場版 戰國 Basara - The Last Party](https://zh.wikipedia.org/wiki/戰國BASARA#劇場版 "wikilink")》
   - 《[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")（劇場版）》
   - 《[浪客劍心](../Page/浪客剑心.md "wikilink")》
   - 《[鬼太郎](../Page/鬼太郎.md "wikilink")》（第4季）※雙語廣播
@@ -3977,7 +3953,7 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蘋果核戰.md" title="wikilink">蘋果核戰記</a></p></td>
+<td><p><a href="../Page/蘋果核戰.md" title="wikilink">蘋果核戰</a>記</p></td>
 <td><p><span style="font-size:90%;">2005年8月6日</span></p></td>
 <td><p>2004</p></td>
 <td><p>雙語廣播</p></td>
@@ -4142,8 +4118,7 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 25. 後2集為[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")
 26. 此3集為[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")
 27. 其中1集為[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")
-28. FAIRY TAIL
-    魔導少年（漫畫正式譯名）。日方將1-175集歸為首期，176-277為第二期，278起為第三期，分別於2009年10月12日～2013年3月30日、2014年4月5日～2016年3月26日、2018年10月7日起播映。
+28. FAIRY TAIL 魔導少年（漫畫正式譯名）。日方將1-175集歸為首期，176-277為第二期，278起為第三期，分別於2009年10月12日～2013年3月30日、2014年4月5日～2016年3月26日、2018年10月7日起播映。
 29. 日本播映日期：2011年7月3日～12月25日
 30. 日本播映日期：2011年1月9日～2012年3月25日
 31. 日本播映日期：2011年10月2日～2014年9月23日
@@ -4159,13 +4134,13 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 41. 其中1集為OVA
 42. 東京闇鴉（漫畫正式譯名）
 43. 接續第一季重播。
-44. 皆為[火影忍者第](../Page/火影忍者.md "wikilink")1輯
+44. 皆為[火影忍者](../Page/火影忍者.md "wikilink")第1輯
 45. 日本播映日期：2016年1月10日～3月27日
 46. 紅髮的白雪公主（漫畫正式譯名）
 47. 青年怪醫黑傑克（漫畫正式譯名）
 48. 其中1集為OVA，並於2017年5月3日播放
 49. 第1集長度為1小時
-50. 為漫畫[元氣囝仔的衍生作](../Page/元氣囝仔.md "wikilink")
+50. 為漫畫[元氣囝仔](../Page/元氣囝仔.md "wikilink")的衍生作
 51. 接續前13集重播
 52. 接續首季重播
 53. 第1集長度為1小時

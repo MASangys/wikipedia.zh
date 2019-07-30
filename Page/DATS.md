@@ -1,16 +1,10 @@
-**DATS**為日本樂團，於2013年6月組成，並連續兩年參加SUMMER
-SONIC，音樂創作以影像、時尚、文學（英日語）等多樣性題材作為創作契機活動中。而DATS所致力於創作「將LiveHouse化作DanceHouse」的音樂，將POP
-Ｍusic容易熟記的曲風作為基底，企圖帶給聽眾不同的感受。
+**DATS**為日本樂團，於2013年6月組成，並連續兩年參加SUMMER SONIC，音樂創作以影像、時尚、文學（英日語）等多樣性題材作為創作契機活動中。而DATS所致力於創作「將LiveHouse化作DanceHouse」的音樂，將POP Ｍusic容易熟記的曲風作為基底，企圖帶給聽眾不同的感受。
 
 其中主唱Ｍonjoe與鼓手Kazuya另有組成以混音及節奏樂器為主的團體NNULL時常與饒舌樂手莊子it一起活動。
 
 ## 樂團經歷
 
-2013時為UK Project唱片公司所屬，然至2015唱片合約到期，2017年移籍[LUCKY
-TAPES所屬唱片公司](https://zh.wikipedia.org/wiki/LUCKY_TAPES "wikilink")[Rallye
-Label](https://zh.wikipedia.org/wiki/Rallye_Label "wikilink")，並發行第一張單曲「Ｍobile」，同年發行第一張專輯「Application」，2018年2月於涉谷ＷＷＷ舉辦首次Oneman
-Tour，宣布主流出道，而將於6月發行新專輯「Digital Analog Translation
-System」，主唱杉本亘則表示主流出道的目標為站上日本武道館。
+2013時為UK Project唱片公司所屬，然至2015唱片合約到期，2017年移籍[LUCKY TAPES所屬唱片公司](https://zh.wikipedia.org/wiki/LUCKY_TAPES "wikilink")[Rallye Label](https://zh.wikipedia.org/wiki/Rallye_Label "wikilink")，並發行第一張單曲「Ｍobile」，同年發行第一張專輯「Application」，2018年2月於涉谷ＷＷＷ舉辦首次Oneman Tour，宣布主流出道，而將於6月發行新專輯「Digital Analog Translation System」，主唱杉本亘則表示主流出道的目標為站上日本武道館。
 
 DATS最初的團員分別為杉本亘（主唱、吉他、混音）、清水旺（貝斯、和聲，於2015年以就職為由脫退，現為Frendsip團員）、早川知煇（吉他、貝斯、和聲、打擊樂）、嵐山響（爵士鼓、和聲，於2015年以進修為由脫退）。2018年八月31日貝斯手伊原卓哉因家庭因素脱退，由吉田巧加入擔任吉他手，早川則擔任貝斯手。
 
@@ -34,9 +28,7 @@ DATS最初的團員分別為杉本亘（主唱、吉他、混音）、清水旺�
 
 <!-- end list -->
 
-  - 中學三年級時，受Nirvana「Smells Like Teen
-    Spirit」MV衝擊，而決定成為搖滾樂手，並開始學習吉他，高中時期曾組Nirvana的Cover
-    Band，並接觸另類搖滾，受[Radiohead影響](https://zh.wikipedia.org/wiki/Radiohead "wikilink")，開始對電子樂產生興趣，並嘗試作曲。
+  - 中學三年級時，受Nirvana「Smells Like Teen Spirit」MV衝擊，而決定成為搖滾樂手，並開始學習吉他，高中時期曾組Nirvana的Cover Band，並接觸另類搖滾，受[Radiohead影響](https://zh.wikipedia.org/wiki/Radiohead "wikilink")，開始對電子樂產生興趣，並嘗試作曲。
 
 <!-- end list -->
 
@@ -72,7 +64,7 @@ DATS最初的團員分別為杉本亘（主唱、吉他、混音）、清水旺�
 
 <!-- end list -->
 
-  - 因[ORANGERANGE影響開始玩團](https://zh.wikipedia.org/wiki/ORANGERANGE "wikilink")，中學時喜歡上[Hi-Standard](https://zh.wikipedia.org/wiki/Hi-Standard "wikilink")，本來想當貝斯兼主唱，但後來放棄改玩吉他，高中時接觸[Loudrock](https://zh.wikipedia.org/wiki/Loudrock "wikilink")、[Punk](https://zh.wikipedia.org/wiki/Punk "wikilink")、[Screamo等不同類型的音樂](../Page/Screamo.md "wikilink")。
+  - 因[ORANGERANGE影響開始玩團](https://zh.wikipedia.org/wiki/ORANGERANGE "wikilink")，中學時喜歡上[Hi-Standard](https://zh.wikipedia.org/wiki/Hi-Standard "wikilink")，本來想當貝斯兼主唱，但後來放棄改玩吉他，高中時接觸[Loudrock](https://zh.wikipedia.org/wiki/Loudrock "wikilink")、[Punk](https://zh.wikipedia.org/wiki/Punk "wikilink")、[Screamo](../Page/Screamo.md "wikilink")等不同類型的音樂。
 
 <!-- end list -->
 
@@ -140,8 +132,7 @@ DATS最初的團員分別為杉本亘（主唱、吉他、混音）、清水旺�
 
 <!-- end list -->
 
-  - 高中時聚集了喜歡復古音樂的朋友組了The Who的coverband，而高中時期組成的樂團The
-    Lerners於全國樂團競賽中（YHMF2010年）獲得優勝，並發行第一張專輯「素晴らしい」，他認為當時的自己變得很驕傲，考上了音大後，決定成為專業音樂人，並對於樂團感到不屑一顧，直到加入DATS他才漸漸對於樂團改觀。
+  - 高中時聚集了喜歡復古音樂的朋友組了The Who的coverband，而高中時期組成的樂團The Lerners於全國樂團競賽中（YHMF2010年）獲得優勝，並發行第一張專輯「素晴らしい」，他認為當時的自己變得很驕傲，考上了音大後，決定成為專業音樂人，並對於樂團感到不屑一顧，直到加入DATS他才漸漸對於樂團改觀。
 
 <!-- end list -->
 
@@ -169,10 +160,7 @@ DATS最初的團員分別為杉本亘（主唱、吉他、混音）、清水旺�
 
 ## 樂團趣聞
 
-早川、Monjoe、大井三人於高中時分屬不同樂團，但因在同一大岡山的Peak 1
-Livehouse演奏而結識。2013年時早川與Monjoe錄製了DATS最初的DEMO，而當時大井是以樂迷的身俸到現場觀賞演出，Monjoe正巧在尋找鼓手，而有一次他在電車上聽The
-Chemical Brothers的「Block Rockin'
-Beats」時，想起了大井這位鼓手，於是傳Line詢問他是否有意願加入，據大井描述當時的心情是欣喜若狂，似乎到現在還留著那個訊息。
+早川、Monjoe、大井三人於高中時分屬不同樂團，但因在同一大岡山的Peak 1 Livehouse演奏而結識。2013年時早川與Monjoe錄製了DATS最初的DEMO，而當時大井是以樂迷的身俸到現場觀賞演出，Monjoe正巧在尋找鼓手，而有一次他在電車上聽The Chemical Brothers的「Block Rockin' Beats」時，想起了大井這位鼓手，於是傳Line詢問他是否有意願加入，據大井描述當時的心情是欣喜若狂，似乎到現在還留著那個訊息。
 
 Monjoe於慶應大學認識Takuya，而一開始邀約Takuya加入時，他因為剛上京仍有許多事情想體驗而婉拒，後來剛好貝斯手脫退而順勢加入了。
 
@@ -257,10 +245,8 @@ Monjoe於慶應大學認識Takuya，而一開始邀約Takuya加入時，他因�
 
 ## 参考资料
 
-  - [DATS「Digital Analog Translation System」特集｜この4人で歩んできた道のり、これからのビジョン
-    (1/3) - 音楽ナタリー 特集・インタビュー](https://natalie.mu/music/pp/dats)
-  - [DATS、メジャー・デビューアルバムから「Memory」のMV公開！ |
-    indienative](http://www.indienative.com/2018/05/digital-analog-translation-system)
+  - [DATS「Digital Analog Translation System」特集｜この4人で歩んできた道のり、これからのビジョン (1/3) - 音楽ナタリー 特集・インタビュー](https://natalie.mu/music/pp/dats)
+  - [DATS、メジャー・デビューアルバムから「Memory」のMV公開！ | indienative](http://www.indienative.com/2018/05/digital-analog-translation-system)
 
 ## 外部連結
 

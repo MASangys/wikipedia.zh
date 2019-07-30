@@ -1,6 +1,4 @@
-《**Miss Mammamia**》（，標題顯示為《
-》）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-Drama播放的水木迷你劇](../Page/韓國放送公社.md "wikilink")。本劇播出同時，沈亨倬與張英南亦共同參演[Mnet電視劇](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》。
+《**Miss Mammamia**》（，標題顯示為《 》）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS Drama播放的水木迷你劇](../Page/韓國放送公社.md "wikilink")。本劇播出同時，沈亨倬與張英南亦共同參演[Mnet電視劇](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》。
 
 ## 演員陣容
 
@@ -26,9 +24,6 @@ Drama播放的水木迷你劇](../Page/韓國放送公社.md "wikilink")。本�
 
 ## 外部連結
 
-  - [韓國KBS
-    Drama官方網站](https://web.archive.org/web/20150204044535/http://www.kbsn.co.kr/drama/missmam/contents01.php?mode=01)
+  - [韓國KBS Drama官方網站](https://web.archive.org/web/20150204044535/http://www.kbsn.co.kr/drama/missmam/contents01.php?mode=01)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:韓語電視劇](https://zh.wikipedia.org/wiki/Category:韓語電視劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓語電視劇](https://zh.wikipedia.org/wiki/Category:韓語電視劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")

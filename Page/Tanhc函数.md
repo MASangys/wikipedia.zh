@@ -1,8 +1,4 @@
-**Tanhc**函数定义如下\[1\]
-[Tanhc_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_2D_plot.png "fig:Tanhc_2D_plot.png")
-[Tanhc'(z)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc'\(z\)_2D_plot.png "fig:Tanhc'(z)_2D_plot.png")
-[Tanhc_integral_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_integral_2D_plot.png "fig:Tanhc_integral_2D_plot.png")
-[Tanhc_integral_3D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_integral_3D_plot.png "fig:Tanhc_integral_3D_plot.png")
+**Tanhc**函数定义如下\[1\] [Tanhc_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_2D_plot.png "fig:Tanhc_2D_plot.png") [Tanhc'(z)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc'\(z\)_2D_plot.png "fig:Tanhc'(z)_2D_plot.png") [Tanhc_integral_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_integral_2D_plot.png "fig:Tanhc_integral_2D_plot.png") [Tanhc_integral_3D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_integral_3D_plot.png "fig:Tanhc_integral_3D_plot.png")
 
   - \(tanhc(z)={\frac {\tanh \left( z \right) }{z}}\)
 
@@ -36,8 +32,7 @@
 
 <!-- end list -->
 
-  - <math>{\\frac {1- \\left( \\tanh \\left( z \\right) \\right)
-    ^{2}}{z}}-{\\frac {
+  - <math>{\\frac {1- \\left( \\tanh \\left( z \\right) \\right) ^{2}}{z}}-{\\frac {
 
 \\tanh \\left( z \\right) }}
 
@@ -47,8 +42,7 @@
 
 <!-- end list -->
 
-  - <math> -{\\it Re} \\left( -{\\frac {1- \\left( \\tanh \\left( x+iy
-    \\right)
+  - <math> -{\\it Re} \\left( -{\\frac {1- \\left( \\tanh \\left( x+iy \\right)
 
 `\right) ^{2}}{x+iy}}+{\frac {\tanh \left( x+iy \right) }{ \left( x+iy`
 `\right) ^{2}}} \right)`
@@ -58,8 +52,7 @@
 
 <!-- end list -->
 
-  - <math>-{\\it Im} \\left( -{\\frac {1- \\left( \\tanh \\left( x+iy
-    \\right)
+  - <math>-{\\it Im} \\left( -{\\frac {1- \\left( \\tanh \\left( x+iy \\right)
 
 `\right) ^{2}}{x+iy}}+{\frac {\tanh \left( x+iy \right) }{ \left( x+iy`
 `\right) ^{2}}} \right) `
@@ -69,11 +62,9 @@
 
 <!-- end list -->
 
-  - <math> \\left| -{\\frac {1- \\left( \\tanh \\left( x+iy \\right)
-    \\right) ^{2}}{x+
+  - <math> \\left| -{\\frac {1- \\left( \\tanh \\left( x+iy \\right) \\right) ^{2}}{x+
 
-iy}}+{\\frac {\\tanh \\left( x+iy \\right) }{ \\left( x+iy \\right)
-^{2}}}
+iy}}+{\\frac {\\tanh \\left( x+iy \\right) }{ \\left( x+iy \\right) ^{2}}}
 
 `\right| `
 `   `</math>
@@ -84,25 +75,21 @@ iy}}+{\\frac {\\tanh \\left( x+iy \\right) }{ \\left( x+iy \\right)
 
 ## 用其他特殊函数表示
 
-  - <math>tanhc(z)=2\\,{\\frac {{{\\rm
-    KummerM}\\left(1,\\,2,\\,2\\,z\\right)}}{ \\left( 2\\,iz+\\pi
+  - <math>tanhc(z)=2\\,{\\frac {{{\\rm KummerM}\\left(1,\\,2,\\,2\\,z\\right)}}{ \\left( 2\\,iz+\\pi
 
 `\right) {{\rm KummerM}\left(1,\,2,\,i\pi -2\,z\right)}{{\rm e}^{2\,z-1/2\,i\pi }}}}`</math>
 
-  - <math>tanhc(z)=2\\,{\\frac {{\\it HeunB} \\left( 2,0,0,0,\\sqrt
-    {2}\\sqrt {z} \\right) }{
+  - <math>tanhc(z)=2\\,{\\frac {{\\it HeunB} \\left( 2,0,0,0,\\sqrt {2}\\sqrt {z} \\right) }{
 
 `\left( 2\,iz+\pi  \right) {\it HeunB} \left( 2,0,0,0,\sqrt {2}\sqrt {`
 
 1/2\\,i\\pi -z} \\right) {{\\rm e}^{2\\,z-1/2\\,i\\pi }}}}</math>
 
-  - <math>tanhc(z)={\\frac {i{{\\rm \\
-    WhittakerM}\\left(0,\\,1/2,\\,2\\,z\\right)}}{
+  - <math>tanhc(z)={\\frac {i{{\\rm \\ WhittakerM}\\left(0,\\,1/2,\\,2\\,z\\right)}}{
 
 {{\\rm WhittakerM}\\left(0,\\,1/2,\\,i\\pi -2\\,z\\right)}z}}</math>
 
-  - <math>tanhc(z)={\\frac {i \\left( {{\\rm e}^{2\\,z}}-1 \\right) }{
-    \\left( {{\\rm e}^{i\\pi -
+  - <math>tanhc(z)={\\frac {i \\left( {{\\rm e}^{2\\,z}}-1 \\right) }{ \\left( {{\\rm e}^{i\\pi -
 
 2\\,z}}-1 \\right) {{\\rm e}^{2\\,z-1/2\\,i\\pi }}z}}</math>
 
@@ -157,5 +144,4 @@ iy}}+{\\frac {\\tanh \\left( x+iy \\right) }{ \\left( x+iy \\right)
 
 [Category:特殊函数](https://zh.wikipedia.org/wiki/Category:特殊函数 "wikilink")
 
-1.  Weisstein, Eric W. "Tanhc Function." From MathWorld--A Wolfram Web
-    Resource. <http://mathworld.wolfram.com/TanhcFunction.html>
+1.  Weisstein, Eric W. "Tanhc Function." From MathWorld--A Wolfram Web Resource. <http://mathworld.wolfram.com/TanhcFunction.html>

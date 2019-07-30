@@ -2,6 +2,4 @@
 
 ## 曲目
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
-[Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink")

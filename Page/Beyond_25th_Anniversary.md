@@ -1,5 +1,4 @@
-《**Beyond 25th
-Anniversary**》是滾石為紀念[beyond創立](https://zh.wikipedia.org/wiki/beyond "wikilink")25周年而發行的精選集，共收錄50首。
+《**Beyond 25th Anniversary**》是滾石為紀念[beyond創立](https://zh.wikipedia.org/wiki/beyond "wikilink")25周年而發行的精選集，共收錄50首。
 
 ## 曲目
 
@@ -54,6 +53,4 @@ Anniversary**》是滾石為紀念[beyond創立](https://zh.wikipedia.org/wiki/b
 49. 沖(live-高速啤機)
 50. SOUTHERN ALL STARS(DEMO)
 
-[Category:香港精選輯](https://zh.wikipedia.org/wiki/Category:香港精選輯 "wikilink")
-[Category:2008年精選輯](https://zh.wikipedia.org/wiki/Category:2008年精選輯 "wikilink")
-[Category:Beyond精選輯](https://zh.wikipedia.org/wiki/Category:Beyond精選輯 "wikilink")
+[Category:香港精選輯](https://zh.wikipedia.org/wiki/Category:香港精選輯 "wikilink") [Category:2008年精選輯](https://zh.wikipedia.org/wiki/Category:2008年精選輯 "wikilink") [Category:Beyond精選輯](https://zh.wikipedia.org/wiki/Category:Beyond精選輯 "wikilink")

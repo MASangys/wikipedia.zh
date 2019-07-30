@@ -1,15 +1,10 @@
-《행복(Happiness)》（中文：幸福）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的首張數位單曲](../Page/Red_Velvet.md "wikilink")，於2014年8月4日發行。
+《행복(Happiness)》（中文：幸福）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的首張數位單曲](../Page/Red_Velvet.md "wikilink")，於2014年8月4日發行。
 
 ## 製作背景與發行
 
-《幸福》是一首充滿活力的流行舞曲，由曾為[少女時代和](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[EXO作曲的Will](../Page/EXO.md "wikilink")
-Simms製作。
+《幸福》是一首充滿活力的流行舞曲，由曾為[少女時代和](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[EXO](../Page/EXO.md "wikilink")作曲的Will Simms製作。
 
-這張數位單曲於2014年8月4日發行，通過[iTunes
-Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Melon](../Page/Melon.md "wikilink")、Genie和其他音源網站進行全球發布。另外，Red
-Velvet以《幸福》於8月1日在KBS《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》舞台上正式出道\[1\]。
+這張數位單曲於2014年8月4日發行，通過[iTunes Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Melon](../Page/Melon.md "wikilink")、Genie和其他音源網站進行全球發布。另外，Red Velvet以《幸福》於8月1日在KBS《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》舞台上正式出道\[1\]。
 
 ## 發行歷史
 
@@ -53,10 +48,8 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》舞台上正式出�
 内容:
 
   -
-    ''"This money, that power. Only following that, those adults look
-    depressed. Those people are truly not happy."
-    ''"You'll have a lot of regrets when you're an adult. I'm a little
-    different. I believe in the strength of optimism."
+    ''"This money, that power. Only following that, those adults look depressed. Those people are truly not happy."
+    ''"You'll have a lot of regrets when you're an adult. I'm a little different. I believe in the strength of optimism."
 
 ## 各成員衍生的背號列表
 
@@ -100,13 +93,9 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》舞台上正式出�
 
   -
   -
-  - [The 1st Single 행복
-    (Happiness)](http://www.melon.com/album/detail.htm?albumId=2270252)
-    on MelOn
+  - [The 1st Single 행복 (Happiness)](http://www.melon.com/album/detail.htm?albumId=2270252) on MelOn
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:Red_Velvet歌曲](https://zh.wikipedia.org/wiki/Category:Red_Velvet歌曲 "wikilink")
-[Category:Red_Velvet音樂專輯](https://zh.wikipedia.org/wiki/Category:Red_Velvet音樂專輯 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:Red_Velvet歌曲](https://zh.wikipedia.org/wiki/Category:Red_Velvet歌曲 "wikilink") [Category:Red_Velvet音樂專輯](https://zh.wikipedia.org/wiki/Category:Red_Velvet音樂專輯 "wikilink")
 
 1.
 2.

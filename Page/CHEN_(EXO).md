@@ -1,40 +1,24 @@
-**金鍾大**（
-，；），[藝名](../Page/藝名.md "wikilink")**Chen**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為男子團體[EXO成員](../Page/EXO.md "wikilink")、[中國分隊](../Page/中國.md "wikilink")[EXO-M及三人子團體小分隊](../Page/EXO-M.md "wikilink")[EXO-CBX的成員](../Page/EXO-CBX.md "wikilink")。在隊內擔當三大主唱之一，虛構超能力為「**闪电**」。
+**金鍾大**（ ，；），[藝名](../Page/藝名.md "wikilink")**Chen**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為男子團體[EXO](../Page/EXO.md "wikilink")成員、[中國](../Page/中國.md "wikilink")分隊[EXO-M](../Page/EXO-M.md "wikilink")及三人子團體小分隊[EXO-CBX](../Page/EXO-CBX.md "wikilink")的成員。在隊內擔當三大主唱之一，虛構超能力為「**闪电**」。
 
 ## 演藝經歷
 
 ### 早年經歷
 
-家中有一名哥哥。2011年五月参加SM Starlight Casting
-System获得歌唱组冠军，而成为SM练习生。和队友伯贤为同期生，同为隊内练习期最短的成员，练习期不到一年，即出道。
+家中有一名哥哥。2011年五月参加SM Starlight Casting System获得歌唱组冠军，而成为SM练习生。和队友伯贤为同期生，同为隊内练习期最短的成员，练习期不到一年，即出道。
 
 ### 2012年-2014年：出道、S.M.THE BALLAD、《Best Luck》
 
-2012年4月8日，Chen作為[EXO以及EXO分隊](../Page/EXO.md "wikilink")[EXO-M成員出道](../Page/EXO-M.md "wikilink")。
+2012年4月8日，Chen作為[EXO](../Page/EXO.md "wikilink")以及EXO分隊[EXO-M](../Page/EXO-M.md "wikilink")成員出道。
 
-2014年2月，Chen加入[SM娛樂於](../Page/SM娛樂.md "wikilink")2010年成立的限定企劃組合[S.M.THE
-BALLAD](../Page/S.M.THE_BALLAD.md "wikilink")，並於組合第二張迷你專輯《S.M. THE
-BALLAD Vol. 2 –
-Breath》中與[張力尹共同演唱](https://zh.wikipedia.org/wiki/張力尹 "wikilink")《呼吸》，與[鐘鉉共同演唱](../Page/鐘鉉.md "wikilink")《一天（A
-Day Without You）》和與[Krystal共同演唱](../Page/鄭秀晶.md "wikilink")《回想（When I
-Was...When U
-Were）》\[1\]。7月，Chen為電視劇《[沒關係，是愛情啊！](../Page/沒關係，是愛情啊.md "wikilink")》演唱OST《最佳的幸運（Best
-Luck）》\[2\]。《Best Luck》於第16屆首爾國際青少年電影節和So-Loved
-Awards中分別獲得男子OST賞和最佳OST獎。
+2014年2月，Chen加入[SM娛樂](../Page/SM娛樂.md "wikilink")於2010年成立的限定企劃組合[S.M.THE BALLAD](../Page/S.M.THE_BALLAD.md "wikilink")，並於組合第二張迷你專輯《S.M. THE BALLAD Vol. 2 – Breath》中與[張力尹共同演唱](https://zh.wikipedia.org/wiki/張力尹 "wikilink")《呼吸》，與[鐘鉉](../Page/鐘鉉.md "wikilink")共同演唱《一天（A Day Without You）》和與[Krystal共同演唱](../Page/鄭秀晶.md "wikilink")《回想（When I Was...When U Were）》\[1\]。7月，Chen為電視劇《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")！》演唱OST《最佳的幸運（Best Luck）》\[2\]。《Best Luck》於第16屆首爾國際青少年電影節和So-Loved Awards中分別獲得男子OST賞和最佳OST獎。
 
 ### 2015年-現今：音樂劇演出、EXO-CBX、Solo出道
 
-2015年9月，Chen與[聖圭](../Page/金聖圭.md "wikilink")、[東雨](../Page/張東雨.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）和[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）一同出演音樂劇《In
-The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
+2015年9月，Chen與[聖圭](../Page/金聖圭.md "wikilink")、[東雨](../Page/張東雨.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）和[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）一同出演音樂劇《In The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 
-2016年2月，Chen為電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》演唱OST《Everytime》\[4\]。4月，Chen與[Heize合唱由柳宰賢擔任製作人的](https://zh.wikipedia.org/wiki/Heize "wikilink")《Lil'
-Something》。《Lil' Something》是[SM
-STATION企劃中的第九首歌曲](../Page/SM_STATION.md "wikilink")，歌曲自公開後人氣火爆，橫掃Melon、Box、alleh
-Music、Genie、Mnet五大音樂榜榜首，還在Naver Music、音海、Monkey3等榜當中榮獲第二、三名\[5\]。
+2016年2月，Chen為電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》演唱OST《Everytime》\[4\]。4月，Chen與[Heize合唱由柳宰賢擔任製作人的](https://zh.wikipedia.org/wiki/Heize "wikilink")《Lil' Something》。《Lil' Something》是[SM STATION企劃中的第九首歌曲](../Page/SM_STATION.md "wikilink")，歌曲自公開後人氣火爆，橫掃Melon、Box、alleh Music、Genie、Mnet五大音樂榜榜首，還在Naver Music、音海、Monkey3等榜當中榮獲第二、三名\[5\]。
 
-2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[6\]。4月1日，Chen推出首張Solo專輯《April,
-and a
-flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。6月，Chen為JTBC劇集《[輔佐官–改變世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[7\]。
+2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[6\]。4月1日，Chen推出首張Solo專輯《April, and a flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。6月，Chen為JTBC劇集《[輔佐官–改變世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[7\]。
 
 ## 音樂作品
 
@@ -103,7 +87,7 @@ flower》，MV於4月1日零時公開，所有音源於當天下午六時發行�
 </tr>
 <tr class="odd">
 <td><p>2014年7月23日</p></td>
-<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊OST</a> Part.1》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>OST Part.1》</p></td>
 <td><p>最佳的幸運（Best Luck）</p></td>
 <td></td>
 </tr>
@@ -705,20 +689,11 @@ flower》，MV於4月1日零時公開，所有音源於當天下午六時發行�
   -
   -
   -
-  - [CHEN](http://chen.smtown.com) – 韩国官方网站（[S.M.
-    Entertainment](../Page/SM娛樂.md "wikilink")）
+  - [CHEN](http://chen.smtown.com) – 韩国官方网站（[S.M. Entertainment](../Page/SM娛樂.md "wikilink")）
 
-  - [Chen
-    個人YouTube](https://www.youtube.com/channel/UC5vXjgHeenPq0lTSokouxdA/)
+  - [Chen 個人YouTube](https://www.youtube.com/channel/UC5vXjgHeenPq0lTSokouxdA/)
 
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國男演员](https://zh.wikipedia.org/wiki/Category:韓國男演员 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國男演员](https://zh.wikipedia.org/wiki/Category:韓國男演员 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
 

@@ -6,15 +6,13 @@
 
 ## N32A型
 
-此具排氣量3,195c.c.的**N32A型**引擎由[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[霍頓汽車所開發](https://zh.wikipedia.org/wiki/霍頓汽車 "wikilink")，姊妹品為。缸徑是89.0mm、衝程85.6mm，壓縮比10.3：1，具備230hp
-/ 6,200rpm的最大[馬力](../Page/馬力.md "wikilink")、29.5kg·m / 3,500rpm的最大扭力。車型：
+此具排氣量3,195c.c.的**N32A型**引擎由[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[霍頓汽車所開發](https://zh.wikipedia.org/wiki/霍頓汽車 "wikilink")，姊妹品為。缸徑是89.0mm、衝程85.6mm，壓縮比10.3：1，具備230hp / 6,200rpm的最大[馬力](../Page/馬力.md "wikilink")、29.5kg·m / 3,500rpm的最大扭力。車型：
 
 1.  2008年-2014年：第三代鈴木Escudo
 
 ## N36A型
 
-排氣量3,564c.c.的**N36A型**引擎源自[凱迪拉克CTS同一具動力心臟](https://zh.wikipedia.org/wiki/凱迪拉克CTS "wikilink")，缸徑94.0mm、衝程85.6mm，壓縮比10.2：1，可輸出最大[馬力](../Page/馬力.md "wikilink")252bhp
-/ 6,500rpm、最大扭力243lb-ft / 2,300rpm。車型：
+排氣量3,564c.c.的**N36A型**引擎源自[凱迪拉克CTS同一具動力心臟](https://zh.wikipedia.org/wiki/凱迪拉克CTS "wikilink")，缸徑94.0mm、衝程85.6mm，壓縮比10.2：1，可輸出最大[馬力](../Page/馬力.md "wikilink")252bhp / 6,500rpm、最大扭力243lb-ft / 2,300rpm。車型：
 
 1.  2006年-2009年：[第二代鈴木XL-7](https://zh.wikipedia.org/wiki/鈴木XL7#第二代（2006年-2009年） "wikilink")
 
@@ -26,12 +24,10 @@
 
   - [スズキ：N32A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/n32a/)
 
-  - [General Motors High Feature V6
-    Engine](http://www.start-run-win.com/more-information/general-motors-high-feature-v6-engine/)
+  - [General Motors High Feature V6 Engine](http://www.start-run-win.com/more-information/general-motors-high-feature-v6-engine/)
 
 ## 外部連結
 
   - [スズキ：N32A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/n32a/)
 
-[Category:汽油发动机](https://zh.wikipedia.org/wiki/Category:汽油发动机 "wikilink")
-[Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")
+[Category:汽油发动机](https://zh.wikipedia.org/wiki/Category:汽油发动机 "wikilink") [Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")

@@ -1,11 +1,8 @@
-《**MYNAME 2nd Mini
-Album**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME第二張韓語迷你專輯](../Page/MYNAME.md "wikilink")，於2015年2月12日發行，主打歌曲為《非常Very一下子》（）\[1\]。
+《**MYNAME 2nd Mini Album**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")第二張韓語迷你專輯，於2015年2月12日發行，主打歌曲為《非常Very一下子》（）\[1\]。
 
 ## 背景
 
-2015年1月30日，MYNAME隊長仁秀在其[Instagram上穿了一張照片](../Page/Instagram.md "wikilink")，並[Tag了](https://zh.wikipedia.org/wiki/標籤 "wikilink")「MYNAME
-NEW ALBUM PHOTO」四字，暗示了MYNAME即將推出新專輯\[2\]。至2月2日，[H2
-Media在其官方](https://zh.wikipedia.org/wiki/H2_Media "wikilink")[Twitter披露MYNAME新作品在](../Page/Twitter.md "wikilink")2015年2月12日正式發表\[3\]；次日（2月3日），MYNAME官方[Facebook發布了專輯曲目名單](../Page/Facebook.md "wikilink")，並指出主打歌為《非常Very一下子》\[4\]。
+2015年1月30日，MYNAME隊長仁秀在其[Instagram](../Page/Instagram.md "wikilink")上穿了一張照片，並[Tag了](https://zh.wikipedia.org/wiki/標籤 "wikilink")「MYNAME NEW ALBUM PHOTO」四字，暗示了MYNAME即將推出新專輯\[2\]。至2月2日，[H2 Media在其官方](https://zh.wikipedia.org/wiki/H2_Media "wikilink")[Twitter](../Page/Twitter.md "wikilink")披露MYNAME新作品在2015年2月12日正式發表\[3\]；次日（2月3日），MYNAME官方[Facebook](../Page/Facebook.md "wikilink")發布了專輯曲目名單，並指出主打歌為《非常Very一下子》\[4\]。
 
 ## 曲目
 
@@ -106,9 +103,7 @@ Media在其官方](https://zh.wikipedia.org/wiki/H2_Media "wikilink")[Twitter披
 
 ## 参考文献
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

@@ -1,8 +1,6 @@
-《**假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
-Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》和《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》聯動劇場版，日本地區於2014年12月13日上映。
+《**假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》和《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》聯動劇場版，日本地區於2014年12月13日上映。
 
-本作劇場版的口號為「鎧武、最後的花道！最後的舞台！」「Drive、史上最大的事件\!
-怪盜・Lupin上場！」、「不會停步！水果．汽車一起炸裂！」。
+本作劇場版的口號為「鎧武、最後的花道！最後的舞台！」「Drive、史上最大的事件\! 怪盜・Lupin上場！」、「不會停步！水果．汽車一起炸裂！」。
 
 ## 本作特色
 
@@ -17,26 +15,21 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
 **假面騎士鎧武「進撃的最後舞台」**
 
   -
-    地球所存在的**海姆冥界森林**威脅解除過後，從過去爭鬥的漩渦中獲得**黃金果實**而成為「起始之男」的**葛葉紘汰 /
-    假面騎士鎧武**，與「起始之女」**高司舞**在遙遠的新生星球中共同生活。
+    地球所存在的**海姆冥界森林**威脅解除過後，從過去爭鬥的漩渦中獲得**黃金果實**而成為「起始之男」的**葛葉紘汰 / 假面騎士鎧武**，與「起始之女」**高司舞**在遙遠的新生星球中共同生活。
     某天，謎之機械生命體**Megahex**卻突然來襲及將舞拐走，以強橫的實力令鎧武陷入劣勢並讀取其的記憶，從中得知地球的存在後利用空間轉移開始展開侵略。
     本應在澤芽市如常生活的**吳島光實**及**吳島貴虎**等一眾市民，卻一同對Megahex入侵所引發的巨變而感到驚訝，甚至目睹拼死抵抗的鎧武遭受消滅的景象……
 
 **假面騎士Drive「Lupin帶來的挑戰書」**
 
   -
-    近日正在引發騷亂，綽號「Ultimate
-    Lupin」的神秘怪盜**佐魯克東-{条}-**，傳聞他能夠發動**「重加速」**犯案而懷疑與**惡路程式**有所關係，因此隸屬特狀課的刑警**泊進之介/
-    假面騎士Drive**開始對其展開追捕。
-    事件中發現東-{条}-將意識植入至惡路程式的強化體**Cyberoid
-    ZZZ**之中從而獲得超乎常人的體格，甚至擁有系統變身成為**假面騎士Lupin**。
+    近日正在引發騷亂，綽號「Ultimate Lupin」的神秘怪盜**佐魯克東-{条}-**，傳聞他能夠發動**「重加速」**犯案而懷疑與**惡路程式**有所關係，因此隸屬特狀課的刑警**泊進之介/ 假面騎士Drive**開始對其展開追捕。
+    事件中發現東-{条}-將意識植入至惡路程式的強化體**Cyberoid ZZZ**之中從而獲得超乎常人的體格，甚至擁有系統變身成為**假面騎士Lupin**。
     非比尋常的強大令進之介處於危機之時，**「腰帶先生」**挺身護險擋下致命一擊而導致機能停止。
 
 **MOVIE大戰 Full Throttle**
 
   -
-    **Megahex**融合**Cyberoid
-    ZZZ**的軀體後獲得進化，為了阻止地球遭到機械侵蝕一體化，**Drive**與**鎧武**連同**巴隆**、**龍玄**及**斬月．真**決定共同聯手消滅對方的野心。
+    **Megahex**融合**Cyberoid ZZZ**的軀體後獲得進化，為了阻止地球遭到機械侵蝕一體化，**Drive**與**鎧武**連同**巴隆**、**龍玄**及**斬月．真**決定共同聯手消滅對方的野心。
 
 ## 用語
 
@@ -44,7 +37,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
 
 ### 假面騎士鎧武
 
-**葛葉紘汰（）**（[佐野岳飾](../Page/佐野岳.md "wikilink")）
+**葛葉紘汰（）**（[佐野岳](../Page/佐野岳.md "wikilink")飾）
 
   -
     **假面騎士鎧武**的變身者。
@@ -52,14 +45,14 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
     和高司舞一同在創造了生機的新星體中定居下來，機械生命體Megahex卻突如其來的來襲，對方從自身記憶中得知地球的存在後轉移侵略目標。
     雖然竭力阻止但仍難逃戰敗的結果，甚至被奪走作為黃金果實碎片的「極」定鎖種子後灰飛湮滅。
 
-**吳島光實（）**（[高杉真宙飾](../Page/高杉真宙.md "wikilink")）
+**吳島光實（）**（[高杉真宙](../Page/高杉真宙.md "wikilink")飾）
 
   -
     **假面騎士龍玄**的變身者。
     在處於和平的澤芽市之中與吳島貴虎如常生活，現正踏入大學生的生涯。
     因Megahex向地球作出侵略而需要再次挺身戰鬥，並從Megahex所創造的戰極凌馬口中得知敵方的來歷。
 
-**吳島貴虎（）**（[久保田悠来飾](../Page/久保田悠来.md "wikilink")）
+**吳島貴虎（）**（[久保田悠来](../Page/久保田悠来.md "wikilink")飾）
 
   -
     **假面騎士斬月** / **假面騎士斬月・真**的變身者。
@@ -108,7 +101,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
     隸屬特狀課的少年-{}-刑警，專門調查與惡路程式有關的案件。
     因佐魯克東-{条}-每次犯案的現場之中，總會發生「重加速」的現象而需要介入追查事件。
 
-**詩島霧子（）**（[內田理央飾](../Page/內田理央.md "wikilink")）
+**詩島霧子（）**（[內田理央](../Page/內田理央.md "wikilink")飾）
 
   -
     與泊進之介同屬特狀課的女警，亦是假面騎士Drive的支援者。
@@ -117,9 +110,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
 
   -
     **假面騎士Lupin**的變身者，外號「Ultimate Lupin」的神秘怪盜。
-    現今本已年屆高齡，但從「Global
-    Freeze」事件中得知假面騎士與惡路程式的存在後，為重拾年輕之勇而實行查找出藏於古堡內的Cyberoid
-    ZZZ軀體。
+    現今本已年屆高齡，但從「Global Freeze」事件中得知假面騎士與惡路程式的存在後，為重拾年輕之勇而實行查找出藏於古堡內的Cyberoid ZZZ軀體。
     將精神意識轉移至軀體後猶如得到重生，並為奪取「假面騎士」的名號而向泊進之介挑戰。
 
 **克里姆‧施丹伯特（／Krim Steinbelt）**（飾）
@@ -135,22 +126,22 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
     特狀課的課長。
     「Ultimate Lupin」事件的失態而受到高層的問責，甚至面臨解散的危機。
 
-**澤神鈴奈（）**（[吉井怜飾](../Page/吉井怜.md "wikilink")）
+**澤神鈴奈（）**（[吉井怜](../Page/吉井怜.md "wikilink")飾）
 
   -
     特狀課的客席電子物理研究學家，同是為假面騎士Drive作技術支援。
 
-**西城究（）**（[濱野謙太飾](../Page/濱野謙太.md "wikilink")）
+**西城究（）**（[濱野謙太](../Page/濱野謙太.md "wikilink")飾）
 
   -
     特狀課的客席網絡研究家，負責以網絡作情報搜集的工作。
 
-**追田現八郎（）**（[井俣太良飾](../Page/井俣太良.md "wikilink")）
+**追田現八郎（）**（[井俣太良](../Page/井俣太良.md "wikilink")飾）
 
   -
     搜查一課外派至特狀課的協助人員，專為惡路程式案件作相關聯絡。
 
-**Heart（）**（[蕨野友也飾](../Page/蕨野友也.md "wikilink")）
+**Heart（）**（[蕨野友也](../Page/蕨野友也.md "wikilink")飾）
 
   -
     惡路程式的幹部兼為領導者，真身為惡路程式002 / 心臟惡路程式。
@@ -161,7 +152,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
   -
     惡路程式的幹部之一，真身為惡路程式003 / 頭腦惡路程式。
 
-**Chase（）**（[上遠野太洸飾](../Page/上遠野太洸.md "wikilink")）
+**Chase（）**（[上遠野太洸](../Page/上遠野太洸.md "wikilink")飾）
 
   -
     惡路程式的幹部之一，能夠變身成為別稱「死神」的**魔進追跡者**亦真身為惡路程式000。
@@ -169,7 +160,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
 
 ### MOVIE大戰 Full Throttle
 
-**驅紋戒斗（）**（[小林豐飾](../Page/小林豐.md "wikilink")）
+**驅紋戒斗（）**（[小林豐](../Page/小林豐.md "wikilink")飾）
 
   -
     **假面騎士巴隆**的變身者。
@@ -240,8 +231,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
 <!-- end list -->
 
   -
-    Dragon Energy Arms形態推下創世紀驅動器手環裝置「Shiboru
-    Compressor」一次後使出。以音速弩弓釋出力量再作斬擊。
+    Dragon Energy Arms形態推下創世紀驅動器手環裝置「Shiboru Compressor」一次後使出。以音速弩弓釋出力量再作斬擊。
 
 #### 本作登場定鎖種子（Lock Seed）
 
@@ -326,8 +316,7 @@ Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假�
   -
     原文： / *Lupin Gunner*
     根据窃取魔进追跡者專用的破坏枪手的数据为基础所创造，拥有相比之更华丽的装饰。
-    使用方法基本与破坏枪手一样，除了拥有的「手槍模式」和「破坏模式」外，不同的是可以使用「Lupin
-    Blade」病毒核心裝接成「短剑模式」。
+    使用方法基本与破坏枪手一样，除了拥有的「手槍模式」和「破坏模式」外，不同的是可以使用「Lupin Blade」病毒核心裝接成「短剑模式」。
     插上病毒核心及按下槍口發動必殺技時，发出音效則是「Ultimate！Lupin Rush！」。
 
 #### 本作登場病毒核心（Viral Core）
@@ -621,8 +610,7 @@ Drive鎧甲</p></td>
 
 「**sing my song for you～サヨナラの向こう側まで～**」
 
-  - 演唱： with TEAM Drive and
-    鎧武（CV：佐野岳、竹内涼真、小林豊、志田友美、内田理央、上遠野太洸、蕨野友也、松島庄汰）
+  - 演唱： with TEAM Drive and 鎧武（CV：佐野岳、竹内涼真、小林豊、志田友美、内田理央、上遠野太洸、蕨野友也、松島庄汰）
   - 作詞／作曲：
 
 ### 插曲
@@ -686,16 +674,14 @@ Drive鎧甲</p></td>
 
 ### 映像商品化
 
-  - **《假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
-    Throttle》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年5月13日發行）
+  - **《假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full Throttle》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年5月13日發行）
       - 電影本編
       - 映像特典
           - 特報・電影預告編
 
 <!-- end list -->
 
-  - **《假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
-    Throttle》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年5月13日發行）
+  - **《假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full Throttle》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年5月13日發行）
       - 電影本編
       - 映像特典
           - 製作特輯
@@ -713,9 +699,7 @@ Drive鎧甲</p></td>
 
   - 葛葉紘汰 / 假面騎士鎧武 - [佐野岳](../Page/佐野岳.md "wikilink") 飾/聲
   - 吳島光實 / 假面騎士龍玄 - [高杉真宙](../Page/高杉真宙.md "wikilink") 飾/聲
-  - 吳島貴虎 / 假面騎士斬月 / 假面騎士斬月．真 -
-    [久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink")
-    飾/聲
+  - 吳島貴虎 / 假面騎士斬月 / 假面騎士斬月．真 - [久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink") 飾/聲
   - 高司舞 - [志田友美](https://zh.wikipedia.org/wiki/志田友美 "wikilink") 飾
   - Zack -  飾
   - 城乃内秀保 -  飾
@@ -833,14 +817,10 @@ Drive鎧甲</p></td>
 ## 製作人員
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
-  - 製作 -
-    （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、間宮登良松（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、（木下組）、垰義孝（[萬代](../Page/萬代.md "wikilink")）
-  - 企劃 - （東映）、林雄一郎（朝日電視台）、加藤和夫（TOEI
-    VIDEO）、波多野淳一（旭通廣告）、嘉手苅理沙（木下組）、小野口征（萬代）
-  - 劇本 - [三條陸](../Page/三條陸.md "wikilink")（假面騎士Drive、MOVIE大戰 Full
-    Throttle）、（[Nitro+](../Page/Nitro+.md "wikilink")）（假面騎士鎧武）
-  - 配樂 -
-    、[中川幸太郎](../Page/中川幸太郎.md "wikilink")、[山下康介](../Page/山下康介.md "wikilink")
+  - 製作 - （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、間宮登良松（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、（木下組）、垰義孝（[萬代](../Page/萬代.md "wikilink")）
+  - 企劃 - （東映）、林雄一郎（朝日電視台）、加藤和夫（TOEI VIDEO）、波多野淳一（旭通廣告）、嘉手苅理沙（木下組）、小野口征（萬代）
+  - 劇本 - [三條陸](../Page/三條陸.md "wikilink")（假面騎士Drive、MOVIE大戰 Full Throttle）、（[Nitro+](../Page/Nitro+.md "wikilink")）（假面騎士鎧武）
+  - 配樂 - 、[中川幸太郎](../Page/中川幸太郎.md "wikilink")、[山下康介](../Page/山下康介.md "wikilink")
   - 攝影 - 宮本亘
   - 照明 - 斗澤秀
   - 美術 -
@@ -865,8 +845,7 @@ Drive鎧甲</p></td>
   - 動作指導 - （[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
   - 動作指導後補 - （JAE）
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作單位 - 「Drive &
-    鎧武」製作委員會（[朝日電視台](../Page/朝日電視台.md "wikilink")、[東映](../Page/東映.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
+  - 製作單位 - 「Drive & 鎧武」製作委員會（[朝日電視台](../Page/朝日電視台.md "wikilink")、[東映](../Page/東映.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
   - 導演 -
 
 ## 附註
@@ -877,12 +856,7 @@ Drive鎧甲</p></td>
 
   - [官方網站](http://www.movie-taisen.com/)
 
-[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  夏季劇場版由《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》與《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》起；直至《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》與《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》則在電視劇版本第52－53話
 2.

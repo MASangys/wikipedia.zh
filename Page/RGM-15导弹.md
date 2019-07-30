@@ -21,8 +21,7 @@
 
 ## 外部链接
 
-  - [Carolinas Aviation
-    Museum](https://web.archive.org/web/20080103223620/http://www.carolinasaviation.org/collections/missiles/regulus.html)
+  - [Carolinas Aviation Museum](https://web.archive.org/web/20080103223620/http://www.carolinasaviation.org/collections/missiles/regulus.html)
   - [1](http://www.designation-systems.net/dusrm/m-15.html)
   - [2](http://www.globalsecurity.org/wmd/systems/regulus2.htm)
   - [3](http://aboutsubs.com/halibut.htm)
@@ -35,7 +34,4 @@
 
 [分类:美国导弹](https://zh.wikipedia.org/wiki/分类:美国导弹 "wikilink")
 
-1.  Parsch, Andreas. ["Vought SSM-N-9/RGM-15 Regulus
-    II."](http://www.designation-systems.net/dusrm/m-15.html) *Directory
-    of U.S. Military Rockets and Missiles*, 2001. Retrieved: 6 January
-    2013.
+1.  Parsch, Andreas. ["Vought SSM-N-9/RGM-15 Regulus II."](http://www.designation-systems.net/dusrm/m-15.html) *Directory of U.S. Military Rockets and Missiles*, 2001. Retrieved: 6 January 2013.

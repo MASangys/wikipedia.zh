@@ -1,5 +1,4 @@
-《**Sky**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起在日本发行的第](../Page/東方神起.md "wikilink")7张[单曲](../Page/单曲.md "wikilink")，于2006年8月16日由[rhythm
-zone公司发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**Sky**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第7张[单曲](../Page/单曲.md "wikilink")，于2006年8月16日由[rhythm zone公司发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 收录内容
 
@@ -22,6 +21,4 @@ zone公司发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 外部链接
 
-[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink")
-[Category:2006年单曲](https://zh.wikipedia.org/wiki/Category:2006年单曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink") [Category:2006年单曲](https://zh.wikipedia.org/wiki/Category:2006年单曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

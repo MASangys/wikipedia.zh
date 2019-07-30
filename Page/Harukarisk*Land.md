@@ -1,5 +1,4 @@
-《**Harukarisk\*Land**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年3月18日由[Music
-Ray'n Inc.發行](../Page/Music_Ray'n.md "wikilink")。
+《**Harukarisk\*Land**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年3月18日由[Music Ray'n Inc.發行](../Page/Music_Ray'n.md "wikilink")。
 
 ## 收錄内容
 
@@ -28,5 +27,4 @@ LAWSON presents 戸松遥 3rd Live Tour 2015 Welcome\!Harukarisk\*Land\!\!\!
 
   - [排行資訊](http://www.oricon.co.jp/prof/422881/products/1112052/1/)
 
-[Category:戶松遙音樂專輯](https://zh.wikipedia.org/wiki/Category:戶松遙音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
+[Category:戶松遙音樂專輯](https://zh.wikipedia.org/wiki/Category:戶松遙音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")

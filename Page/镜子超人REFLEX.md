@@ -129,12 +129,7 @@
 
   - [公式サイト](https://web.archive.org/web/20120509115625/http://www.vap.co.jp/mirror/reflex/)
 
-[Category:镜子超人](https://zh.wikipedia.org/wiki/Category:镜子超人 "wikilink")
-[Category:小中和哉電影](https://zh.wikipedia.org/wiki/Category:小中和哉電影 "wikilink")
-[Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink")
-[Category:2000年代特攝作品](https://zh.wikipedia.org/wiki/Category:2000年代特攝作品 "wikilink")
-[Category:日本特摄电影](https://zh.wikipedia.org/wiki/Category:日本特摄电影 "wikilink")
-[Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink")
+[Category:镜子超人](https://zh.wikipedia.org/wiki/Category:镜子超人 "wikilink") [Category:小中和哉電影](https://zh.wikipedia.org/wiki/Category:小中和哉電影 "wikilink") [Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink") [Category:2000年代特攝作品](https://zh.wikipedia.org/wiki/Category:2000年代特攝作品 "wikilink") [Category:日本特摄电影](https://zh.wikipedia.org/wiki/Category:日本特摄电影 "wikilink") [Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink")
 
 1.
 

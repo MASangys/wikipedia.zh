@@ -1,4 +1,4 @@
-是史克威爾艾尼克斯發行的下载社交游戏，为[沙加系列的一部作品](../Page/沙加系列.md "wikilink")。游戏于2012年9月在[GREE平台发行](https://zh.wikipedia.org/wiki/GREE "wikilink")。玩家在游戏中扮演一国之帝王，作为统治者支配国家\[1\]。
+是史克威爾艾尼克斯發行的下载社交游戏，为[沙加系列](../Page/沙加系列.md "wikilink")的一部作品。游戏于2012年9月在[GREE平台发行](https://zh.wikipedia.org/wiki/GREE "wikilink")。玩家在游戏中扮演一国之帝王，作为统治者支配国家\[1\]。
 
 ## 玩法
 
@@ -10,9 +10,7 @@
 
 ## 开发
 
-史克威尔艾尼克斯在2010年9月注册“Emperors
-SaGa”商标\[8\]。游戏本身在2011年东京电玩展上宣布\[9\]。在日本社交平台[GREE和](https://zh.wikipedia.org/wiki/GREE "wikilink")[OpenFeint于](../Page/OpenFeint.md "wikilink")2012年合并的宣告中，《Emperors
-SaGa》被列入未来登陆此服务的作品之一\[10\]\[11\]。史克威尔艾尼克斯开展了预售促销，如果玩家在游戏推出前注册，就会获得稀有游戏卡安德洛玛刻\[12\]。游戏为[免费增值模式](https://zh.wikipedia.org/wiki/免费增值 "wikilink")，下载免费但可通过应用内购购买更多内容\[13\]。游戏由日本游戏社交网络GREE出品\[14\]。
+史克威尔艾尼克斯在2010年9月注册“Emperors SaGa”商标\[8\]。游戏本身在2011年东京电玩展上宣布\[9\]。在日本社交平台[GREE和](https://zh.wikipedia.org/wiki/GREE "wikilink")[OpenFeint](../Page/OpenFeint.md "wikilink")于2012年合并的宣告中，《Emperors SaGa》被列入未来登陆此服务的作品之一\[10\]\[11\]。史克威尔艾尼克斯开展了预售促销，如果玩家在游戏推出前注册，就会获得稀有游戏卡安德洛玛刻\[12\]。游戏为[免费增值模式](https://zh.wikipedia.org/wiki/免费增值 "wikilink")，下载免费但可通过应用内购购买更多内容\[13\]。游戏由日本游戏社交网络GREE出品\[14\]。
 
 史克威尔艾尼克斯社交游戏行政主管安藤健浩称，将沙加系列改编为移动社交游戏很难，特别是初代游戏伴随他成长，他不想制造太多变化让长期爱好者失望\[15\]。[小林智美设计原画](https://zh.wikipedia.org/wiki/小林智美 "wikilink")。
 
@@ -20,7 +18,7 @@ SaGa》被列入未来登陆此服务的作品之一\[10\]\[11\]。史克威尔�
 
 游戏获得GREE颁发的“GREE平台奖2012”的RPG最优秀奖\[16\]。
 
-RPGamer的迈克尔·贝克在游玩演示版后表示了强烈反感。他称大多数所见情节直接截取自之前《[浪漫沙加2](https://zh.wikipedia.org/wiki/浪漫沙加2 "wikilink")》和《[浪漫沙加3](../Page/浪漫沙加3.md "wikilink")》等游戏，游戏玩法主要由点击连接组成，同时iPhone版游戏不响应输入\[17\]。[1UP.com将此遊戲列为五大不可能登陆北美的经典日本手机游戏](../Page/1UP.com.md "wikilink")\[18\]。
+RPGamer的迈克尔·贝克在游玩演示版后表示了强烈反感。他称大多数所见情节直接截取自之前《[浪漫沙加2](https://zh.wikipedia.org/wiki/浪漫沙加2 "wikilink")》和《[浪漫沙加3](../Page/浪漫沙加3.md "wikilink")》等游戏，游戏玩法主要由点击连接组成，同时iPhone版游戏不响应输入\[17\]。[1UP.com](../Page/1UP.com.md "wikilink")将此遊戲列为五大不可能登陆北美的经典日本手机游戏\[18\]。
 
 ## 参考文献
 
@@ -28,10 +26,7 @@ RPGamer的迈克尔·贝克在游玩演示版后表示了强烈反感。他称�
 
   -
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:卡牌对战电子游戏](https://zh.wikipedia.org/wiki/Category:卡牌对战电子游戏 "wikilink")
-[Category:沙加系列](https://zh.wikipedia.org/wiki/Category:沙加系列 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:卡牌对战电子游戏](https://zh.wikipedia.org/wiki/Category:卡牌对战电子游戏 "wikilink") [Category:沙加系列](https://zh.wikipedia.org/wiki/Category:沙加系列 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
 
 1.
 2.

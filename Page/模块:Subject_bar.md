@@ -79,8 +79,7 @@ local function makeRow(items, heading, subheading, options)
 
 end
 
-local function makeNumberedRow(prefix, args, heading, subheading,
-getItemValsFunc, options)
+local function makeNumberedRow(prefix, args, heading, subheading, getItemValsFunc, options)
 
 `   if args[prefix] then`
 `       args[prefix .. '1'] = args[prefix]`

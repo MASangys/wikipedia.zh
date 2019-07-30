@@ -1,9 +1,8 @@
 **双曲正弦积分函数**定义为\[1\]\[2\]
 
-[Shi(x)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Shi\(x\)_2D_plot.png "fig:Shi(x)_2D_plot.png")
-\({\it Shi} \left( z \right) =\int _{0}^{z}\!{\frac {\sinh \left( t \right) }{t}}{dt}\)
+[Shi(x)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Shi\(x\)_2D_plot.png "fig:Shi(x)_2D_plot.png") \({\it Shi} \left( z \right) =\int _{0}^{z}\!{\frac {\sinh \left( t \right) }{t}}{dt}\)
 
-\(Shi(z)\)是下列三阶[常微分方程的一个解](../Page/常微分方程.md "wikilink")：
+\(Shi(z)\)是下列三阶[常微分方程](../Page/常微分方程.md "wikilink")的一个解：
 
 \(z{\frac {d}{dz}}w \left( z \right) -2\,{\frac {d^{2}}{d{z}^{2}}}w
  \left( z \right) -z{\frac {d^{3}}{d{z}^{3}}}w \left( z \right) =0\)
@@ -27,26 +26,21 @@
 
   - <math>\\frac{ -1}{2}\\,i\\sqrt {\\pi }
 
-G^{1, 1}_{1, 3}\\left(-1/4\\,{z}^{2}\\, \\Big\\vert\\,^{1}_{1/2, 0,
-0}\\right)
+G^{1, 1}_{1, 3}\\left(-1/4\\,{z}^{2}\\, \\Big\\vert\\,^{1}_{1/2, 0, 0}\\right)
 
 `   `</math>
 
 ## 级数展开
 
-  - <math> {\\it Shi} \\left( z \\right) =(z+{\\frac
-    {1}{18}}{z}^{3}+{\\frac {1}{600}}
+  - <math> {\\it Shi} \\left( z \\right) =(z+{\\frac {1}{18}}{z}^{3}+{\\frac {1}{600}}
 
-{z}^{5}+{\\frac {1}{35280}}{z}^{7}+{\\frac {1}{3265920}}{z}^{9}+{\\frac
-{ 1}{439084800}}{z}^{11}+{\\frac {1}{80951270400}}{z}^{13}+O \\left(
-{z}^{ 15} \\right) )
+{z}^{5}+{\\frac {1}{35280}}{z}^{7}+{\\frac {1}{3265920}}{z}^{9}+{\\frac { 1}{439084800}}{z}^{11}+{\\frac {1}{80951270400}}{z}^{13}+O \\left( {z}^{ 15} \\right) )
 
 `   `</math>
 
 ## 帕德近似
 
-[帕德近似](../Page/帕德近似.md "wikilink")
-\(Shi(z) \approx \left( {\frac {33317056220720070437}{9686419676455776844590000}}\,{z}
+[帕德近似](../Page/帕德近似.md "wikilink") \(Shi(z) \approx \left( {\frac {33317056220720070437}{9686419676455776844590000}}\,{z}
 ^{7}+{\frac {67177799936189717}{98024149196718942600}}\,{z}^{5}+{
 \frac {540705278447237}{16111793096107650}}\,{z}^{3}+z \right)
  \left( 1-{\frac {177197169001594}{8055896548053825}}\,{z}^{2}+{\frac
@@ -78,9 +72,5 @@ G^{1, 1}_{1, 3}\\left(-1/4\\,{z}^{2}\\, \\Big\\vert\\,^{1}_{1/2, 0,
 
 [Category:特殊函數](https://zh.wikipedia.org/wiki/Category:特殊函數 "wikilink")
 
-1.  Abramowitz, M. and Stegun, I. A. (Eds.). "Sine and Cosine
-    Integrals." §5.2 inHandbook of Mathematical Functions with Formulas,
-    Graphs, and Mathematical Tables, 9th printing. New York: Dover, pp.
-    231-233, 1972.
-2.  Sloane, N. J. A. Sequence A061079 in "The On-Line Encyclopedia of
-    Integer Sequences
+1.  Abramowitz, M. and Stegun, I. A. (Eds.). "Sine and Cosine Integrals." §5.2 inHandbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables, 9th printing. New York: Dover, pp. 231-233, 1972.
+2.  Sloane, N. J. A. Sequence A061079 in "The On-Line Encyclopedia of Integer Sequences

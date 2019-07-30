@@ -1,6 +1,4 @@
-《**Dimension W
-－第四次元－**》是的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[1\]，[史克威爾艾尼克斯出版](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，2011年9月在《[YOUNG
-GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布將改編為動畫的消息\[2\]。
+《**Dimension W －第四次元－**》是的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[1\]，[史克威爾艾尼克斯出版](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，2011年9月在《[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布將改編為動畫的消息\[2\]。
 
 ## 故事簡介
 
@@ -327,10 +325,8 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布�
 <!-- end list -->
 
   -
-    全稱為「Dimension Administrative
-    Bureau」，工作內容是「線圈與W次元對地球環境的調查與管理」。線圈意外的調查、非法線圈的狀況調查、排除因線圈而產生的次元障礙皆是其主要任務。
-    其中負責最危險任務的是精銳調查部隊「Q－investigation
-    force」，通稱「Qi」，成員皆穿著動力服。以調查主任為現場指揮官執行任務。
+    全稱為「Dimension Administrative Bureau」，工作內容是「線圈與W次元對地球環境的調查與管理」。線圈意外的調查、非法線圈的狀況調查、排除因線圈而產生的次元障礙皆是其主要任務。
+    其中負責最危險任務的是精銳調查部隊「Q－investigation force」，通稱「Qi」，成員皆穿著動力服。以調查主任為現場指揮官執行任務。
 
 <!-- end list -->
 
@@ -568,9 +564,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布�
 
 ### 製作人員
 
-  - 原作：岩原裕二（揭載《[月刊BIG
-    GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》[Square
-    Enix刊](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）
+  - 原作：岩原裕二（揭載《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》[Square Enix刊](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）
   - 監督：龜井幹太
   - 系列構成：[菅正太郎](../Page/菅正太郎.md "wikilink")
   - 人物設計：松竹德幸
@@ -590,8 +584,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布�
   - 音樂：[椎名豪](../Page/椎名豪.md "wikilink")、藤澤慶昌
   - 音樂監製：齋藤滋
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")、I WILL
-  - 動畫製作：[Studio
-    3Hz](../Page/3Hz.md "wikilink")×[Orange](../Page/Orange_\(動畫工作室\).md "wikilink")
+  - 動畫製作：[Studio 3Hz](../Page/3Hz.md "wikilink")×[Orange](../Page/Orange_\(動畫工作室\).md "wikilink")
   - 製作：DW製作委員會
 
 ### 主題曲
@@ -759,7 +752,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布�
 | [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](../Page/京都放送.md "wikilink")                           | 星期日 23時00分－23時30分 |                                                                                                               |                                                       |                                          |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期日 25時00分－25時30分 |                                                                                                               |                                                       |                                          |
 | [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 星期日 25時35分－26時05分 | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                       |                                          |
-| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 2016年1月12日－       | 星期二 24時00分－24時30分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | [ANIME+節目](../Page/ANIME+.md "wikilink") |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 2016年1月12日－       | 星期二 24時00分－24時30分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | [ANIME+](../Page/ANIME+.md "wikilink")節目 |
 | [AT-X](../Page/AT-X.md "wikilink")                  | 2016年1月14日－                                                   | 星期四 24時00分－24時30分 | 有重播                                                                                                           |                                                       |                                          |
 |                                                     |                                                               |                   |                                                                                                               |                                                       |                                          |
 
@@ -778,21 +771,14 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布�
 
 ## 外部連結
 
-  - [Dimension W | 作品介紹 | 月刊BIG GANGAN | SQUARE
-    ENIX](http://www.jp.square-enix.com/magazine/biggangan/introduction/dimensionw/)
+  - [Dimension W | 作品介紹 | 月刊BIG GANGAN | SQUARE ENIX](http://www.jp.square-enix.com/magazine/biggangan/introduction/dimensionw/)
 
-  - [Dimension W | 作品介紹 | 年輕衝擊 YOUNG GANGAN
-    OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/introduction/dimensionw/)
+  - [Dimension W | 作品介紹 | 年輕衝擊 YOUNG GANGAN OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/introduction/dimensionw/)
 
   - [Dimension W 動畫官網](http://dimension-w.net/)
 
   -
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
-[Category:月刊BIG_GANGAN](https://zh.wikipedia.org/wiki/Category:月刊BIG_GANGAN "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink")
-[Category:機器人漫畫](https://zh.wikipedia.org/wiki/Category:機器人漫畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
+[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:月刊BIG_GANGAN](https://zh.wikipedia.org/wiki/Category:月刊BIG_GANGAN "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink") [Category:機器人漫畫](https://zh.wikipedia.org/wiki/Category:機器人漫畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
 
 1.
 2.

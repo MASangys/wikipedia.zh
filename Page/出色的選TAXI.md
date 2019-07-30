@@ -1,13 +1,10 @@
-，是2014年10月至同年12月於[日本](../Page/日本.md "wikilink")[關西電視台每週二](../Page/關西電視台.md "wikilink")[火十時段](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")（22:00
--
-22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[笨蛋主義升野英知初次編寫](https://zh.wikipedia.org/wiki/笨蛋主義 "wikilink")[連續劇的劇本](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，[竹野內豐主演](../Page/竹野內豐.md "wikilink")\[1\]\[2\]。
+，是2014年10月至同年12月於[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")每週二[火十時段](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[笨蛋主義升野英知初次編寫](https://zh.wikipedia.org/wiki/笨蛋主義 "wikilink")[連續劇的劇本](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，[竹野內豐](../Page/竹野內豐.md "wikilink")主演\[1\]\[2\]。
 
 2016年4月5日播出2小時特別篇\[3\]。
 
 ## 概要
 
-主角枝分（[竹野內豐](../Page/竹野內豐.md "wikilink")
-飾），是一個可以帶乘客回到過去的「選TAXI\[4\]」[計程車司機](https://zh.wikipedia.org/wiki/計程車 "wikilink")。枝分能讓乘客們自己選擇過往的人生時段，並且有機會修正人生。
+主角枝分（[竹野內豐](../Page/竹野內豐.md "wikilink") 飾），是一個可以帶乘客回到過去的「選TAXI\[4\]」[計程車司機](https://zh.wikipedia.org/wiki/計程車 "wikilink")。枝分能讓乘客們自己選擇過往的人生時段，並且有機會修正人生。
 
 ## 登場人物
 
@@ -140,7 +137,7 @@
 **第2話**
 
   - 平野－[仲村亨](../Page/仲村亨.md "wikilink")\[13\]（學生時代：）（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")；學生時代：[鄧志堅](../Page/鄧志堅.md "wikilink")）
-    [民宿老闆](../Page/民宿.md "wikilink")。因為自身的處境與鎮長的女兒類似，而逕自捲進了綁架事件當中。
+    [民宿](../Page/民宿.md "wikilink")老闆。因為自身的處境與鎮長的女兒類似，而逕自捲進了綁架事件當中。
   - 橫山－（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）
     千葉縣警察特殊班管理官。小學跟平野是同班同學。負責執行鎮長女兒綁架事件的前線指揮。
   - 高橋雄一郎－（香港配音：[譚炳文](../Page/譚炳文.md "wikilink")）
@@ -435,7 +432,7 @@
 <!-- end list -->
 
   - 第一話加長15分鐘（22:00 - 23:09）
-  - 10月28日第3話播出時，[東海電視台的播出區域因晚間](../Page/東海電視台.md "wikilink")10點41分59秒至10點52分51秒之間，發生全長10分鐘52秒畫面全黑的狀況\[34\]，因此11月1日該集重播。
+  - 10月28日第3話播出時，[東海電視台](../Page/東海電視台.md "wikilink")的播出區域因晚間10點41分59秒至10點52分51秒之間，發生全長10分鐘52秒畫面全黑的狀況\[34\]，因此11月1日該集重播。
 
 ## 參考資料
 
@@ -465,19 +462,7 @@
 
   - [犯罪刑事 公開](http://www.ktv.jp/sentaxi/topics/20.html) - 關西電視台官方網站
 
-[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:計程車題材作品](https://zh.wikipedia.org/wiki/Category:計程車題材作品 "wikilink")
-[Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink")
-[Category:公視外購電視劇](https://zh.wikipedia.org/wiki/Category:公視外購電視劇 "wikilink")
-[Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink")
-[Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink")
-[Category:2016年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2016年電視特別劇集 "wikilink")
-[Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink")
-[Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink")
+[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:計程車題材作品](https://zh.wikipedia.org/wiki/Category:計程車題材作品 "wikilink") [Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink") [Category:公視外購電視劇](https://zh.wikipedia.org/wiki/Category:公視外購電視劇 "wikilink") [Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink") [Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink") [Category:2016年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2016年電視特別劇集 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink")
 
 1.  [竹野內豐《最好的選TAXI(擇)》製作發表](http://www.holyshare.com.tw/world/index/articleid/27676)
 2.  [竹野內豐×笨蛋主義出演新日劇《絕妙之選TAXI》](http://japan.people.com.cn/BIG5/n/2014/0904/c35468-25604170.html)
@@ -494,20 +479,16 @@
 13.
 14.
 15.
-16. [栗山千明が人気漫画のダメダメ編集者に！ 原稿の締切り？ 女の友情？
-    究極の二択に翻弄されて、まさかの急展開へ！](http://www.ktv.jp/sentaxi/topics/23.html)
+16. [栗山千明が人気漫画のダメダメ編集者に！ 原稿の締切り？ 女の友情？ 究極の二択に翻弄されて、まさかの急展開へ！](http://www.ktv.jp/sentaxi/topics/23.html)
 17. [ドライバー枝分、大好きな人と運命の出会いで告白！？](http://www.fujitv.co.jp/b_hp/sentaxi/backnumber/314000009-6.html)
 18. [栗山千明が人気漫画のダメダメ編集者に！原稿の締切りか？それとも女の友情か？『素敵な選TAXI』](http://www.fujitv.co.jp/fujitv/news/pub_2014/i/141104-i209.html)
-
 19.
 20. [お名前辞典](http://name.m3q.jp/list?s=%E3%81%BF%E3%81%A9%E3%82%8A&g=2)
 21. [aiko「素敵な選TAXI」でドラマ初出演！謎の女性客演じる](http://natalie.mu/music/news/132762)
 22.
 23.
-24. [情報](http://www.fujitv.co.jp/fujitv/news/pub_2014/i/140919-i173.html)
-     - 富士電視台官方網站\]
-25. [素敵な選TAXI](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/sentaxi/index.html)
-    、スポニチアネックス、2014年10月xx日閲覧。
+24. [情報](http://www.fujitv.co.jp/fujitv/news/pub_2014/i/140919-i173.html)  - 富士電視台官方網站\]
+25. [素敵な選TAXI](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/sentaxi/index.html) 、スポニチアネックス、2014年10月xx日閲覧。
 26. [fujitv-ep01](http://www.fujitv.co.jp/b_hp/sentaxi/backnumber/314000009-1.html)
 27. [ktv-ep01](http://www.ktv.jp/sentaxi/story/01.html)
 28.

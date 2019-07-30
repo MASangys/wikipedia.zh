@@ -1,16 +1,10 @@
-《**品行ZERO**》（）是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block
-B子團體](../Page/Block_B.md "wikilink")[BASTARZ首張韓語迷你專輯](../Page/BASTARZ.md "wikilink")，於2015年4月14日發行，主打歌曲為專輯同名歌曲《品行ZERO》\[1\]。
+《**品行ZERO**》（）是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block B子團體](../Page/Block_B.md "wikilink")[BASTARZ](../Page/BASTARZ.md "wikilink")首張韓語迷你專輯，於2015年4月14日發行，主打歌曲為專輯同名歌曲《品行ZERO》\[1\]。
 
 ## 背景
 
-2015年3月31日，Block
-B官方[Facebook上傳了一張](../Page/Facebook.md "wikilink")「品行ZERO」的照片，其後於4月1日到4月3日在官方[YouTube頻道上傳三段](../Page/YouTube.md "wikilink")「品行ZERO」的影片，當時部分歌迷認為是Block
-B即將推出新作品\[2\]。
+2015年3月31日，Block B官方[Facebook](../Page/Facebook.md "wikilink")上傳了一張「品行ZERO」的照片，其後於4月1日到4月3日在官方[YouTube](../Page/YouTube.md "wikilink")頻道上傳三段「品行ZERO」的影片，當時部分歌迷認為是Block B即將推出新作品\[2\]。
 
-到4月6日，[Seven
-Seasons公布Block](https://zh.wikipedia.org/wiki/Seven_Seasons "wikilink")
-B推出首個子團體——BASTARZ，第一位公開成員是[P.O](../Page/P.O.md "wikilink")\[3\]；次日亦公布另外兩名成員是[U-Kwon和](../Page/U-Kwon.md "wikilink")[B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")\[4\]。1日後（4月8日），Seven
-Seasons預告了BASTARZ首張韓語迷你專輯名為《品行ZERO》，將於4月14日發行\[5\]，同時在4月10日在官方YouTube頻道提供曲目試聽\[6\]。
+到4月6日，[Seven Seasons公布Block](https://zh.wikipedia.org/wiki/Seven_Seasons "wikilink") B推出首個子團體——BASTARZ，第一位公開成員是[P.O](../Page/P.O.md "wikilink")\[3\]；次日亦公布另外兩名成員是[U-Kwon](../Page/U-Kwon.md "wikilink")和[B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")\[4\]。1日後（4月8日），Seven Seasons預告了BASTARZ首張韓語迷你專輯名為《品行ZERO》，將於4月14日發行\[5\]，同時在4月10日在官方YouTube頻道提供曲目試聽\[6\]。
 
 ## 曲目
 
@@ -140,9 +134,7 @@ Seasons預告了BASTARZ首張韓語迷你專輯名為《品行ZERO》，將於4�
 
 ## 参考文献
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

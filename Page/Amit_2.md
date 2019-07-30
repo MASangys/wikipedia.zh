@@ -1,5 +1,4 @@
-《**Amit
-2**》是臺灣歌手[張惠妹的第](../Page/張惠妹.md "wikilink")18張個人專輯，也是她以[卑南族](../Page/卑南族.md "wikilink")[族名](https://zh.wikipedia.org/wiki/臺灣原住民族命名文化 "wikilink")**阿密特**（[卑南語](../Page/卑南語.md "wikilink")：）為名推出的第二張專輯，於2015年4月4日發行。
+《**Amit 2**》是臺灣歌手[張惠妹](../Page/張惠妹.md "wikilink")的第18張個人專輯，也是她以[卑南族](../Page/卑南族.md "wikilink")[族名](https://zh.wikipedia.org/wiki/臺灣原住民族命名文化 "wikilink")**阿密特**（[卑南語](../Page/卑南語.md "wikilink")：）為名推出的第二張專輯，於2015年4月4日發行。
 
 ## 曲目
 
@@ -90,6 +89,4 @@
 
 ## 外部連結
 
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:張惠妹音樂專輯](https://zh.wikipedia.org/wiki/Category:張惠妹音樂專輯 "wikilink")
+[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:張惠妹音樂專輯](https://zh.wikipedia.org/wiki/Category:張惠妹音樂專輯 "wikilink")

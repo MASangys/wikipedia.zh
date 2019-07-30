@@ -1,11 +1,8 @@
-《**MBC Korean Music
-Wave**》是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台舉辦的巡迴音樂演唱會](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")。
+《**MBC Korean Music Wave**》是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台舉辦的巡迴音樂演唱會](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")。
 
 ## 歷史
 
-[MBC每年會在世界各地舉辦MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-Korean Music
-Wave，包括[曼谷](../Page/曼谷.md "wikilink")、[北京等](https://zh.wikipedia.org/wiki/北京 "wikilink")。
+[MBC每年會在世界各地舉辦MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") Korean Music Wave，包括[曼谷](../Page/曼谷.md "wikilink")、[北京等](https://zh.wikipedia.org/wiki/北京 "wikilink")。
 
 ## 巡演時間表
 
@@ -132,12 +129,9 @@ Wave，包括[曼谷](../Page/曼谷.md "wikilink")、[北京等](https://zh.wik
 
   -
 
-    此演唱會實質為[SMTOWN Live World Tour
-    III](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_III "wikilink")
-    in L.A。
+    此演唱會實質為[SMTOWN Live World Tour III](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_III "wikilink") in L.A。
 
 ## 外部連結
 
   -
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")

@@ -1,16 +1,14 @@
-**株式會社LIDENFILMS**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上荻](../Page/荻窪_\(杉並區\).md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2012年2月\[2\]。的旗下子公司之一。
+**株式會社LIDENFILMS**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上荻](../Page/荻窪_\(杉並區\).md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2012年2月\[2\]。的旗下子公司之一。
 
 ## 概要、沿革
 
-**LIDENFILMS**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2012年2月\[3\]，由[三次元的松浦裕曉](../Page/三次元_\(動畫製作公司\).md "wikilink")、BARNUM
-STUDIO的動畫製作人，[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[SHAFT出身的企劃製作人岩城忠雄在](../Page/SHAFT.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上荻](../Page/荻窪_\(杉並區\).md "wikilink")\[4\]共同創立工作室之後。協助[Ordet和三次元共同製作](../Page/Ordet.md "wikilink")《[BLACK★ROCK
-SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全話與別間動畫工作室[TRIGGER共同製作](../Page/TRIGGER.md "wikilink")）。
+**LIDENFILMS**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2012年2月\[3\]，由[三次元的松浦裕曉](../Page/三次元_\(動畫製作公司\).md "wikilink")、BARNUM STUDIO的動畫製作人，[MADHOUSE](../Page/MADHOUSE.md "wikilink")、[SHAFT](../Page/SHAFT.md "wikilink")出身的企劃製作人岩城忠雄在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上荻](../Page/荻窪_\(杉並區\).md "wikilink")\[4\]共同創立工作室之後。協助[Ordet](../Page/Ordet.md "wikilink")和三次元共同製作《[BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全話與別間動畫工作室[TRIGGER](../Page/TRIGGER.md "wikilink")共同製作）。
 
-其後，開始承接[統包業務和獨立製作短篇動畫](../Page/統包.md "wikilink")（[泡麵番](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")），2013年首部獨立製作的短篇電視動畫《[Aiura](../Page/Aiura.md "wikilink")》在[東京電視網](../Page/東京電視網.md "wikilink")、[NICONICO動畫播出](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
+其後，開始承接[統包](../Page/統包.md "wikilink")業務和獨立製作短篇動畫（[泡麵番](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")），2013年首部獨立製作的短篇電視動畫《[Aiura](../Page/Aiura.md "wikilink")》在[東京電視網](../Page/東京電視網.md "wikilink")、[NICONICO動畫播出](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
 
 2015年1月在京都成立「LIDENFILMS京都工作室」，定下之後在關西地區進行統包製作與人才培育方針的發展為基礎。而位於東京的總公司則負責動畫製作的企劃。
 
-2016年1月，由LIDENFILMS京都工作室首次負責統包動畫監督[新海誠曾在](../Page/新海誠.md "wikilink")2000年獨立創作的電影動畫《[她與她的貓](../Page/她與她的貓.md "wikilink")》，同年3月起播出電視動畫版\[5\]。
+2016年1月，由LIDENFILMS京都工作室首次負責統包動畫監督[新海誠](../Page/新海誠.md "wikilink")曾在2000年獨立創作的電影動畫《[她與她的貓](../Page/她與她的貓.md "wikilink")》，同年3月起播出電視動畫版\[5\]。
 
 在多數動畫作品的場合下以“LIDENFILMS”和“”表示。
 
@@ -40,7 +38,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td><p>1月－4月</p></td>
 <td><p><a href="../Page/山本寬.md" title="wikilink">山本寬</a></p></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/Ordet.md" title="wikilink">Ordet共同製作</a></p></td>
+<td><p>與<a href="../Page/Ordet.md" title="wikilink">Ordet</a>共同製作</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Aiura.md" title="wikilink">Aiura</a></p></td>
@@ -268,7 +266,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/魔術學姐" title="wikilink">魔術學姐</a></p></td>
+<td><p><a href="../Page/魔術學姐.md" title="wikilink">魔術學姐</a></p></td>
 <td></td>
 <td><p>7月－<strong>播出中</strong></p></td>
 <td><p>臼井文明</p></td>
@@ -399,13 +397,11 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 
 #### 電視廣告
 
-  - [Hortensia SAGA
-    蒼之騎士團](../Page/Hortensia_SAGA_蒼之騎士團.md "wikilink")（2017年）
+  - [Hortensia SAGA 蒼之騎士團](../Page/Hortensia_SAGA_蒼之騎士團.md "wikilink")（2017年）
 
 #### 舞台LIVE
 
-  - [動畫旋律的夏季演唱會](../Page/Animelo_Summer_Live.md "wikilink") 2013 -FLAG
-    NINE-（2013年）
+  - [動畫旋律的夏季演唱會](../Page/Animelo_Summer_Live.md "wikilink") 2013 -FLAG NINE-（2013年）
 
 ### 協力製作
 
@@ -575,7 +571,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/傷物語.md" title="wikilink">傷物語〈I 鐵血篇〉</a></p></td>
+<td><p><a href="../Page/傷物語.md" title="wikilink">傷物語 鐵血篇〉</a>〈I</p></td>
 <td></td>
 <td><p>SHAFT</p></td>
 <td><p>動畫協力</p></td>
@@ -600,7 +596,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 
   -
   -
-  - 坂本一也（LIDENFILMS京都分工作室室長，[京都動畫出身](../Page/京都動畫.md "wikilink")）\[6\]
+  - 坂本一也（LIDENFILMS京都分工作室室長，[京都動畫](../Page/京都動畫.md "wikilink")出身）\[6\]
 
 ### 製作
 
@@ -617,10 +613,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 
   -
 
-[Category:Ultra_Super_Pictures](https://zh.wikipedia.org/wiki/Category:Ultra_Super_Pictures "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
+[Category:Ultra_Super_Pictures](https://zh.wikipedia.org/wiki/Category:Ultra_Super_Pictures "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
 
 1.
 

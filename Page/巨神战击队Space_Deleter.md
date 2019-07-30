@@ -1,26 +1,22 @@
-《**巨神戰擊隊Space
-Deleter**》(又名**巨神戰擊隊之空間戰擊隊**\[1\])是由[廣東奧飛動漫文化股份有限公司](https://zh.wikipedia.org/wiki/廣東奧飛動漫文化股份有限公司 "wikilink")、[上海永旭文化傳播有限公司聯合投資攝製的](https://zh.wikipedia.org/wiki/上海永旭文化傳播有限公司 "wikilink")[特攝劇](https://zh.wikipedia.org/wiki/特攝劇 "wikilink")，也是《[巨神戰擊隊](../Page/巨神戰擊隊.md "wikilink")》系列第二作。
+《**巨神戰擊隊Space Deleter**》(又名**巨神戰擊隊之空間戰擊隊**\[1\])是由[廣東奧飛動漫文化股份有限公司](https://zh.wikipedia.org/wiki/廣東奧飛動漫文化股份有限公司 "wikilink")、[上海永旭文化傳播有限公司聯合投資攝製的](https://zh.wikipedia.org/wiki/上海永旭文化傳播有限公司 "wikilink")[特攝劇](https://zh.wikipedia.org/wiki/特攝劇 "wikilink")，也是《[巨神戰擊隊](../Page/巨神戰擊隊.md "wikilink")》系列第二作。
 
 本作於2014年12月22日正式在[广东嘉佳卡通卫视和視頻網站播出](https://zh.wikipedia.org/wiki/广东广播电视台嘉佳卡通频道 "wikilink")。
 
 造型設定亦再次突破中國風格而用上了[太陽系各大](https://zh.wikipedia.org/wiki/太陽系 "wikilink")[行星](../Page/行星.md "wikilink")，而標題和劇中部份台詞亦首次用上英語。在故事上除了和上作有一部份聯繫外，与《[鎧甲勇士刑天](https://zh.wikipedia.org/wiki/鎧甲勇士刑天 "wikilink")》的世界觀亦有联系。
 
-在製作方面，本作的拍攝地點繼續在[象山县和](../Page/象山县.md "wikilink")[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")。本作的主題曲和背景音樂作曲則繼續由在《[鎧甲勇士拿瓦](https://zh.wikipedia.org/wiki/鎧甲勇士拿瓦 "wikilink")》擔任作曲，以及飾演馬青山一角的[曾祥程負責](https://zh.wikipedia.org/wiki/曾祥程 "wikilink")。
+在製作方面，本作的拍攝地點繼續在[象山县](../Page/象山县.md "wikilink")和[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")。本作的主題曲和背景音樂作曲則繼續由在《[鎧甲勇士拿瓦](https://zh.wikipedia.org/wiki/鎧甲勇士拿瓦 "wikilink")》擔任作曲，以及飾演馬青山一角的[曾祥程負責](https://zh.wikipedia.org/wiki/曾祥程 "wikilink")。
 
-而[柴原孝典開設的](https://zh.wikipedia.org/wiki/柴原孝典 "wikilink")[Wild
-Stunt公司部份成員繼續擔任本作部份皮套演員](https://zh.wikipedia.org/wiki/Wild_Stunt公司 "wikilink")，至於動作指導仍然由柴原孝典本人負責。
+而[柴原孝典開設的](https://zh.wikipedia.org/wiki/柴原孝典 "wikilink")[Wild Stunt公司部份成員繼續擔任本作部份皮套演員](https://zh.wikipedia.org/wiki/Wild_Stunt公司 "wikilink")，至於動作指導仍然由柴原孝典本人負責。
 
 ## 故事簡介
 
 在**海族**的陰謀在**巨神戰擊隊**的努力下被粉碎以後，地球再次恢復了以往的和平——
 
-然後到了2016年，為了更加探索宇宙的奧祕，有著領先全球科技的**國家航星局(NSSA/National Space and Star
-Administration)**舉行了一場名為**天星大賽**的遊戲大賽，以尋找出能控制無人宇航機的精英星際電子領航員。
+然後到了2016年，為了更加探索宇宙的奧祕，有著領先全球科技的**國家航星局(NSSA/National Space and Star Administration)**舉行了一場名為**天星大賽**的遊戲大賽，以尋找出能控制無人宇航機的精英星際電子領航員。
 
 然後在同一時間，自數千年前便活躍在宇宙的**空間漏洞犯**亦再度入侵地球，並一如既往的利用數據和空間信號捕獲人類運往各星球作為奴隸。
 
-為了阻止漏洞犯的陰謀，由原國家航星局工程師任我行組成了**Space Delete
-Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝備**和**遠控宇航機**以把漏洞犯全部**刪除(Delete)**！
+為了阻止漏洞犯的陰謀，由原國家航星局工程師任我行組成了**Space Delete Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝備**和**遠控宇航機**以把漏洞犯全部**刪除(Delete)**！
 
 他們就是新一代的戰擊隊——「**Space Deleter(空間刪除衛)**」！
 
@@ -64,8 +60,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 
   -
     以**Mars Force**為力量源的Deleter，擔當位置是衝鋒，專屬唱名是「**天生無敵，火戰衛**」。
-    後升級為以**Sun Force**、**Moon Force**、**Earth Force**和**Mars
-    Force**為力量源的Deleter：**超星戰衛**。
+    後升級為以**Sun Force**、**Moon Force**、**Earth Force**和**Mars Force**為力量源的Deleter：**超星戰衛**。
     在天星大賽中獲得模擬第一，穿梭遊戲獲得第二的參賽者。
     說話上有點口沒遮攔，阿碧和天羽與他第一次對話後便已經被他惹火了。
     但實際上是個會堅持自己夢想，他人面對困難也不會袖手旁觀的人。
@@ -263,8 +258,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
     身上帶著擁有全宇宙星體引力數據，名為「**銀河之芯**」的秘寶，能自由進出黑洞，以及和超星烈刀匹敵，具有切斷行星能量的「**滅星半月刀**」。
     必殺技是打出滅星半月刀旋轉攻擊的**旋月斬**。
     若把大祭司的精神能量和魯修迪的精神能量互相填補，就能獲得一套完整的基因密碼以改變蟲洞的密度和引力結構，以重疊現實世界和反空間，待黑地圖取代反空間的位置後便能他召喚出來。
-    後隨著大祭司複製品用計奪取魯修迪的精神能量後，也理所當然的回歸，其強奪了火奴王的身體，最後在和Space
-    Deleter交手時被極惡魯修迪出賣而被打倒而失去肉體，後附身到金不敗身上。
+    後隨著大祭司複製品用計奪取魯修迪的精神能量後，也理所當然的回歸，其強奪了火奴王的身體，最後在和Space Deleter交手時被極惡魯修迪出賣而被打倒而失去肉體，後附身到金不敗身上。
 
 <!-- end list -->
 
@@ -334,8 +328,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
   -
     火奴王暗地製造的複製體，在大祭司吸取了魯修迪精神體能量後突然開始行動，之前亦被傳早已在海王星上死亡。
     為極惡地球人和腥疤疙的結晶，性格完全繼承了魯修迪黑暗的一面。
-    在腥疤疙全滅後為奪取大祭司的精神能量出現在黑星王面前，後來和對方交易成功並在雙重各懷鬼胎下開始合作，後在和 Space
-    Deleter交手期間出賣了黑星王並奪取了精神能量。
+    在腥疤疙全滅後為奪取大祭司的精神能量出現在黑星王面前，後來和對方交易成功並在雙重各懷鬼胎下開始合作，後在和 Space Deleter交手期間出賣了黑星王並奪取了精神能量。
     最後在**青龍城**古蹟和超星战卫交手並敗陣，更被黑星王奪取了精神能量。
 
 <!-- end list -->
@@ -365,12 +358,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 
   -
     由航星局在各個行星收集的超級能量，亦是推動Space裝備和RCV的能量源。
-    分別為在[火星晚霞落日時生成的](../Page/火星.md "wikilink")**Mars
-    Force**、在距離太陽最近的[水星生成的](../Page/水星.md "wikilink")**Mercury
-    Force**、在[金星破曉日出時生成的](../Page/金星.md "wikilink")**Venus
-    Force**、在[土星](../Page/土星.md "wikilink")[光環上生成的](https://zh.wikipedia.org/wiki/行星環 "wikilink")**Saturn
-    Force**和在[木星](../Page/木星.md "wikilink")[大紅斑上空中生成的](../Page/大紅斑.md "wikilink")**Jupiter
-    Force**。
+    分別為在[火星](../Page/火星.md "wikilink")晚霞落日時生成的**Mars Force**、在距離太陽最近的[水星](../Page/水星.md "wikilink")生成的**Mercury Force**、在[金星](../Page/金星.md "wikilink")破曉日出時生成的**Venus Force**、在[土星](../Page/土星.md "wikilink")[光環上生成的](https://zh.wikipedia.org/wiki/行星環 "wikilink")**Saturn Force**和在[木星](../Page/木星.md "wikilink")[大紅斑](../Page/大紅斑.md "wikilink")上空中生成的**Jupiter Force**。
 
 <!-- end list -->
 
@@ -381,9 +369,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
   -
     有著穿梭機外形的手錶型變身器，也是召喚遠控宇航機的道具。
     變身者先拿出儲存行星能量的光盤並喊出「**Space Deleter！**」後，星能變便會出現並裝備到其左手。
-    然後變身者再把光盤裝到星能變上，轉動光盤並同時喊出「**Loading！**」，待星能變讀取光盤完畢後再喊出「**Play！**」後，星能變就會發出「**Space
-    Deleter Red/Blue/Pink/Yellow/Green・火/天/夢/地/森戰衛，Ready！3、2、1，Blast
-    Off！Power Binding！**」音效並完成變身。
+    然後變身者再把光盤裝到星能變上，轉動光盤並同時喊出「**Loading！**」，待星能變讀取光盤完畢後再喊出「**Play！**」後，星能變就會發出「**Space Deleter Red/Blue/Pink/Yellow/Green・火/天/夢/地/森戰衛，Ready！3、2、1，Blast Off！Power Binding！**」音效並完成變身。
     同時當變身完畢後，會向四周發出衝擊波震開敵人。
     本身亦能跟航星局總部的**空間壓縮區**中的傳送系統連動，以[蟲洞為原理以擠壓空間](https://zh.wikipedia.org/wiki/蟲洞 "wikilink")，將變身者瞬間轉移到事件現場。
 
@@ -452,8 +438,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 
   -
     由任我行專為鐵雄而獨立開發的Space裝備。
-    力量源是由鐵雄取得的，由[天王星的衛星殞石撞擊](../Page/天王星.md "wikilink")[海王星而成的合成石中提取的](../Page/海王星.md "wikilink")**Neptune
-    Force**和**Uranus Force**。
+    力量源是由鐵雄取得的，由[天王星](../Page/天王星.md "wikilink")的衛星殞石撞擊[海王星](../Page/海王星.md "wikilink")而成的合成石中提取的**Neptune Force**和**Uranus Force**。
 
 <!-- end list -->
 
@@ -464,8 +449,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
   -
     有著龍頭外形的手錶型變身器，也是召喚遠控海星艦的道具，和星能變不同有著探測腥疤疙的功能。
     變身者先拿出儲存行星能量的光盤並喊出「**Space Deleter！**」後，星龍變便會出現並裝備到其左手。
-    然後變身者再把光盤裝到星龍變上，合上龍口並同時喊出「**Loading！**」，待星龍變讀取光盤完畢後再喊出「**Play！**」後，星龍變就會發出「**Space
-    Deleter Black・霧戰衛，Ready！3、2、1，Blast off！Power Binding！**」音效並完成變身。
+    然後變身者再把光盤裝到星龍變上，合上龍口並同時喊出「**Loading！**」，待星龍變讀取光盤完畢後再喊出「**Play！**」後，星龍變就會發出「**Space Deleter Black・霧戰衛，Ready！3、2、1，Blast off！Power Binding！**」音效並完成變身。
 
 <!-- end list -->
 
@@ -519,10 +503,8 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 
   -
     在小龍的意志爆發到極限，加上憶起魯修迪的教誨而生成的最終武器。
-    刀內集合了[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")、[月球和](../Page/月球.md "wikilink")[地球生成的](../Page/地球.md "wikilink")**Sun
-    Force**、**Moon Force**、**Earth Force**的力量，刀背上裝著三枚儲存其力量的金色光盤。
-    在火戰衛喊出「**日月地，超星烈刀！**」後，超星烈刀便會出現，然後轉動三枚金盤同時喊出「**Play！**」後，超星烈刀就會發出「**Space
-    Deleter Galaxy・超星戰衛，Ready！3、2、1，Blast off！Power Binding！**」。
+    刀內集合了[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")、[月球](../Page/月球.md "wikilink")和[地球](../Page/地球.md "wikilink")生成的**Sun Force**、**Moon Force**、**Earth Force**的力量，刀背上裝著三枚儲存其力量的金色光盤。
+    在火戰衛喊出「**日月地，超星烈刀！**」後，超星烈刀便會出現，然後轉動三枚金盤同時喊出「**Play！**」後，超星烈刀就會發出「**Space Deleter Galaxy・超星戰衛，Ready！3、2、1，Blast off！Power Binding！**」。
     但由於火戰衛本身只能加載Mars Force的關係，因此起初無法順利的發揮其完整力量。
     在基本攻擊上能輕鬆重創腥疤疙，甚至連把對方的攻擊吸收後再化為光刃進行反擊。
     可幫助**宇宙創擊王**穩定。
@@ -650,7 +632,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 <!-- end list -->
 
   -
-    火戰衛所屬宇航機，編號RCV-1，[火箭型強速戰鬥宇航機](../Page/火箭.md "wikilink")。
+    火戰衛所屬宇航機，編號RCV-1，[火箭](../Page/火箭.md "wikilink")型強速戰鬥宇航機。
     本身內置一枚鐳射炮。四個主引擎能產生五百萬匹馬力，時速可達1200km/h。
     待機點在大沙漠地底的停泊點裡。
 
@@ -672,7 +654,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 <!-- end list -->
 
   -
-    夢戰衛所屬宇航機，編號RCV-3，[衛星型超精密宇航機](../Page/衛星.md "wikilink")。
+    夢戰衛所屬宇航機，編號RCV-3，[衛星](../Page/衛星.md "wikilink")型超精密宇航機。
     擁有續航力可達五十年的自生能源，偵察範圍覆蓋全球，資料儲存最大容量為二十億T。
     本身內置兩枚射程可達地面的鐳射炮。合體後亦是太陽戰擊王的主要中樞。
     待機點在地球的低地軌道。
@@ -687,7 +669,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
     地戰衛所屬宇航機，編號RCV-4，[鑽頭車型重裝挖掘宇航機](https://zh.wikipedia.org/wiki/鑽頭車 "wikilink")。
     有著兩枚無堅不摧的鑽頭，轉速每秒可達八百轉。
     持續運作能力為六百小時。合體後亦是星球戰擊王的主要中樞。
-    待機點在[南海海底中](../Page/南海.md "wikilink")。
+    待機點在[南海](../Page/南海.md "wikilink")海底中。
 
 <!-- end list -->
 
@@ -707,7 +689,7 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 <!-- end list -->
 
   -
-    霧戰衛所屬宇航機，原為漏洞犯所製造，來自[海王星的戰鬥型宇航艦](../Page/海王星.md "wikilink")。
+    霧戰衛所屬宇航機，原為漏洞犯所製造，來自[海王星](../Page/海王星.md "wikilink")的戰鬥型宇航艦。
     本身內置兩枚二連裝鐳射炮炮台，亦是唯一能單獨變形和星際穿梭能力的RCV。
     原設定上具有一枚機械臂，在玩具成品中有重現出來。
     待機點在地球的低地軌道。
@@ -1034,13 +1016,9 @@ Alliance**，並從大賽中找出六位精英參賽者，給予他們**Space裝
 
   - [【英雄梦的延续】《巨神战击队Space☆Deleter》即将上映！](http://www.weibo.com/p/1001603790309015307003)
 
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:2010年代特摄作品](https://zh.wikipedia.org/wiki/Category:2010年代特摄作品 "wikilink")
-[Category:2014年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年中國電視劇集 "wikilink")
-[Category:外星生命題材電視劇](https://zh.wikipedia.org/wiki/Category:外星生命題材電視劇 "wikilink")
+[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:2010年代特摄作品](https://zh.wikipedia.org/wiki/Category:2010年代特摄作品 "wikilink") [Category:2014年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年中國電視劇集 "wikilink") [Category:外星生命題材電視劇](https://zh.wikipedia.org/wiki/Category:外星生命題材電視劇 "wikilink")
 
-1.  [电视剧拍摄制作备案公示表](http://dsj.sarft.gov.cn/tims/site/views/applications/note/noteTable.shanty?id=01433825fbd71fec4028e4a1426fb0f1)
-    国家广播电影电视总局-电视剧电子政务平台
+1.  [电视剧拍摄制作备案公示表](http://dsj.sarft.gov.cn/tims/site/views/applications/note/noteTable.shanty?id=01433825fbd71fec4028e4a1426fb0f1) 国家广播电影电视总局-电视剧电子政务平台
 2.  和第一作戰狼衛的唱名相同。
 3.  在第三十八集，「Space龍虎擊」接近
 4.  在第三十八集曾誤寫成“烈日防護壁”。

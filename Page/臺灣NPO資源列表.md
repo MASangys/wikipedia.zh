@@ -1,4 +1,4 @@
-**臺灣NPO資源列表**為設立於臺灣之[非營利組織之列表](../Page/非營利組織.md "wikilink")。
+**臺灣NPO資源列表**為設立於臺灣之[非營利組織](../Page/非營利組織.md "wikilink")之列表。
 
 以**服務類別**與**服務區域**進行區分。
 
@@ -917,5 +917,4 @@
 
 [NPO資源名錄](http://www.grateful.org.tw/upload/%7BFADF5792-4E10-49A9-B48F-D59DA51CB7C3%7D_%E8%B3%87%E6%BA%90%E5%88%86%E4%BA%AB%20%E6%B7%B1%E5%8C%96%E5%93%81%E7%89%8C-%E8%B3%87%E6%BA%90%E5%90%8D%E9%8C%84.pdf)
 
-[Category:台灣非政府組織](https://zh.wikipedia.org/wiki/Category:台灣非政府組織 "wikilink")
-[Category:台灣相關列表](https://zh.wikipedia.org/wiki/Category:台灣相關列表 "wikilink")
+[Category:台灣非政府組織](https://zh.wikipedia.org/wiki/Category:台灣非政府組織 "wikilink") [Category:台灣相關列表](https://zh.wikipedia.org/wiki/Category:台灣相關列表 "wikilink")

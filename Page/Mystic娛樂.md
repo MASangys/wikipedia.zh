@@ -1,14 +1,10 @@
-**Mystic娛樂**（；）是[韓國的一家演藝經紀企劃公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由創作歌手、音樂製作人[尹鍾信主導](../Page/尹鍾信.md "wikilink")，作為飽含音樂內容所創立的娛樂公司為出發點，現在不只是在音樂產業，包括藝能、電視劇、電影等，將擴大事業範圍到整個大眾文化產業。
+**Mystic娛樂**（；）是[韓國的一家演藝經紀企劃公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由創作歌手、音樂製作人[尹鍾信](../Page/尹鍾信.md "wikilink")主導，作為飽含音樂內容所創立的娛樂公司為出發點，現在不只是在音樂產業，包括藝能、電視劇、電影等，將擴大事業範圍到整個大眾文化產業。
 
-[尹鍾信所創立的公司](../Page/尹鍾信.md "wikilink")，原名**Mystic89**，於2014年與演員經紀專門的「**Family
-Actors**」公司，還有音樂專門的「**Apop
-Entertainment**」合併，以「Mystic89與家族」的形式統整公司名稱。\[1\]
+[尹鍾信](../Page/尹鍾信.md "wikilink")所創立的公司，原名**Mystic89**，於2014年與演員經紀專門的「**Family Actors**」公司，還有音樂專門的「**Apop Entertainment**」合併，以「Mystic89與家族」的形式統整公司名稱。\[1\]
 
-接著於2015年1月9日正式將公司更名為**Mystic娛樂**，Mystic娛樂是涵蓋Mystic89、Apop
-Entertainment、AKIM三個音樂廠牌，和演員品牌Mystic
-Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出發的意義。\[2\]
+接著於2015年1月9日正式將公司更名為**Mystic娛樂**，Mystic娛樂是涵蓋Mystic89、Apop Entertainment、AKIM三個音樂廠牌，和演員品牌Mystic Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出發的意義。\[2\]
 
-2017年3月30日，[SM娛樂公告投資Mystic娛樂](../Page/SM娛樂.md "wikilink")，以28%股份成為最大投資者。\[3\]
+2017年3月30日，[SM娛樂](../Page/SM娛樂.md "wikilink")公告投資Mystic娛樂，以28%股份成為最大投資者。\[3\]
 
 ## 所屬藝人
 
@@ -92,7 +88,7 @@ Actors的統合，包含了正式完整的作為一家綜合性娛樂公司出�
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a></p></td>
 <td><p>歌手</p></td>
 <td><p>2008年</p></td>
-<td><p>團體<a href="../Page/2AM.md" title="wikilink">2AM成員</a></p></td>
+<td><p>團體<a href="../Page/2AM.md" title="wikilink">2AM</a>成員</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -338,23 +334,12 @@ ALL I KNOW MUSIC(簡稱：AIKM)是旗下嘻哈音樂廠牌。
 
 ### 練習生
 
-  - [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")
-    ([PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[MIX
-    NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")、[A-TEEN
-    (電視劇)](../Page/A-TEEN_\(電視劇\).md "wikilink")、已簽專屬合約、並於2019年6月29日發表第一首單曲around
-    the world)
+  - [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink") ([PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")、[A-TEEN (電視劇)](../Page/A-TEEN_\(電視劇\).md "wikilink")、已簽專屬合約、並於2019年6月29日發表第一首單曲around the world)
   - 黃知敏 ([MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - 金承閔 ([MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
-  - 李道允 ([K-pop
-    Star](https://zh.wikipedia.org/wiki/K-pop_Star "wikilink")、[MIX
-    NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
-  - [李秀敏](../Page/李秀敏_\(1999年\).md "wikilink") ([PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink")、[K-pop Star
-    6](../Page/K-pop_Star_6.md "wikilink")、[MIX
-    NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
-  - [竹內美宥](../Page/竹內美宥.md "wikilink")
-    ([AKB48前成員](../Page/AKB48.md "wikilink")、[PRODUCE
-    48](../Page/PRODUCE_48.md "wikilink"))
+  - 李道允 ([K-pop Star](https://zh.wikipedia.org/wiki/K-pop_Star "wikilink")、[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
+  - [李秀敏](../Page/李秀敏_\(1999年\).md "wikilink") ([PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")、[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
+  - [竹內美宥](../Page/竹內美宥.md "wikilink") ([AKB48](../Page/AKB48.md "wikilink")前成員、[PRODUCE 48](../Page/PRODUCE_48.md "wikilink"))
 
 ### 離開的藝人
 
@@ -405,14 +390,9 @@ ALL I KNOW MUSIC(簡稱：AIKM)是旗下嘻哈音樂廠牌。
   -
   -
   -
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:Mystic娛樂](https://zh.wikipedia.org/wiki/Category:Mystic娛樂 "wikilink")
+[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:Mystic娛樂](https://zh.wikipedia.org/wiki/Category:Mystic娛樂 "wikilink")
 
-1.  [미스틱89＆APOP 합병, “미스틱89의 멀티레이블 체제 도입”, 김동주,
-    파이낸셜뉴스, 2014年 7월 2일](http://star.fnnews.com/news/index.html?no=311436)
-
-2.  [윤종신의 야심이 꿈틀댄다…미스틱 엔터로 사명 변경, 엄동진,
-    일간스포츠, 2015年 1월 9일](http://isplus.joins.com/article/782/16891782.html?cloc=)
-3.  [윤종신X이수만 손잡았다…SM·미스틱 전략적 제휴
-    공식입장, 2017年 3월 30일](http://sports.donga.com/3/all/20170330/83605169/1)
+1.  [미스틱89＆APOP 합병, “미스틱89의 멀티레이블 체제 도입”, 김동주, 파이낸셜뉴스, 2014年 7월 2일](http://star.fnnews.com/news/index.html?no=311436)
+2.  [윤종신의 야심이 꿈틀댄다…미스틱 엔터로 사명 변경, 엄동진, 일간스포츠, 2015年 1월 9일](http://isplus.joins.com/article/782/16891782.html?cloc=)
+3.  [윤종신X이수만 손잡았다…SM·미스틱 전략적 제휴 공식입장, 2017年 3월 30일](http://sports.donga.com/3/all/20170330/83605169/1)
 4.  <http://kpophui.net/news/35573.html>

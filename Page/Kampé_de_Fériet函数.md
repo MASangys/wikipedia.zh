@@ -1,5 +1,4 @@
-**Kampé de
-Fériet函数**是[法兰西](https://zh.wikipedia.org/wiki/法兰西 "wikilink")[数学家](../Page/数学家.md "wikilink")在1937年为推广[超几何函数而创建的二元](../Page/超几何函数.md "wikilink")[特殊函数](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")，其定义如下：
+**Kampé de Fériet函数**是[法兰西](https://zh.wikipedia.org/wiki/法兰西 "wikilink")[数学家](../Page/数学家.md "wikilink")在1937年为推广[超几何函数](../Page/超几何函数.md "wikilink")而创建的二元[特殊函数](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")，其定义如下：
 
 \[F^{p,q}_{r,s}\left(
 \begin{matrix}
@@ -15,11 +14,7 @@ x,y\right)=
   -
   - {{ cite journal
 
-|first1=F. J. |last1=Ragab |title = Expansions of Kampe de Feriet's
-double hypergeometric function of higher order |year=1963 |issue=212
-|pages=113–119 |doi=10.1515/crll.1963.212.113 |journal=[J. f. reine
-angew.
-Mathem.](https://zh.wikipedia.org/wiki/Crelle's_Journal "wikilink") }}
+|first1=F. J. |last1=Ragab |title = Expansions of Kampe de Feriet's double hypergeometric function of higher order |year=1963 |issue=212 |pages=113–119 |doi=10.1515/crll.1963.212.113 |journal=[J. f. reine angew. Mathem.](https://zh.wikipedia.org/wiki/Crelle's_Journal "wikilink") }}
 
 ## 外部链接
 

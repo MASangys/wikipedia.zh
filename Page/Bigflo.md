@@ -1,9 +1,6 @@
-**BigFlo**（）為韓國HO COMPANY於2014年推出的男子組合，2014年6月19日以《Delilah》在《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。出道時成員包括Jungkyun、Ron、Yuseong、Z-UK、High
-Top，現任成員為Euijin、Sungmin、Lex。
+**BigFlo**（）為韓國HO COMPANY於2014年推出的男子組合，2014年6月19日以《Delilah》在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。出道時成員包括Jungkyun、Ron、Yuseong、Z-UK、High Top，現任成員為Euijin、Sungmin、Lex。
 
-團名由「**BIG—大；FLO—水流**」組成，寓意「要成為席卷歌謠界的大水流」。\[1\]團體口號為 「**Who is real?
-BIGFLO\!**」\[2\]，官方歌迷名為「**WAVE**」（）。
+團名由「**BIG—大；FLO—水流**」組成，寓意「要成為席卷歌謠界的大水流」。\[1\]團體口號為 「**Who is real? BIGFLO\!**」\[2\]，官方歌迷名為「**WAVE**」（）。
 
 ## 團體發展
 
@@ -19,13 +16,11 @@ EuiJin，2014年曾加入團體[A.cian](../Page/A.cian.md "wikilink")，當時�
 
 **團體出道**
 
-2014年6月19日，5名成員包括JungKyun、Ron、YuSeong、Z-UK、High Top，以《Delilah》在《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。\[7\]\[8\]
+2014年6月19日，5名成員包括JungKyun、Ron、YuSeong、Z-UK、High Top，以《Delilah》在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。\[7\]\[8\]
 
 2015年4月18日，日本演唱會上，宣佈加入新成員Kichun。\[9\]
 
-2016年6月9日，JungKyun以義務警察身份現役入伍，服役21個月，於2018年3月8日退伍，Z-UK
-暫代隊長，直到其離隊，此後隊長暫時出缺。\[10\]\[11\]\[12\]
+2016年6月9日，JungKyun以義務警察身份現役入伍，服役21個月，於2018年3月8日退伍，Z-UK 暫代隊長，直到其離隊，此後隊長暫時出缺。\[10\]\[11\]\[12\]
 
 2015年6月19日，官方Twitter正式公開Kichun，成為6人組合。\[13\]
 
@@ -33,14 +28,11 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道
 
 2017年1月5日，3名新成員EuiJin、LEX、SungMin，於Vapp直播中首次亮相。\[16\]\[17\]
 
-2017年10月，除YUSEONG外，全體成員參與選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》遴選，EUIJIN和LEX成功入選節目。\[18\]\[19\]
+2017年10月，除YUSEONG外，全體成員參與選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》遴選，EUIJIN和LEX成功入選節目。\[18\]\[19\]
 
-2017年12月30日，LEX在《[The
-Unit](../Page/The_Unit.md "wikilink")》第2次排名儀式，以第45名被淘汰。
+2017年12月30日，LEX在《[The Unit](../Page/The_Unit.md "wikilink")》第2次排名儀式，以第45名被淘汰。
 
-2018年2月11日，《[The
-Unit](../Page/The_Unit.md "wikilink")》最後一集直播舞台，Euijin獲得第2名，加入期間限定團體[UNB出道](../Page/UNB.md "wikilink")。\[20\]
+2018年2月11日，《[The Unit](../Page/The_Unit.md "wikilink")》最後一集直播舞台，Euijin獲得第2名，加入期間限定團體[UNB](../Page/UNB.md "wikilink")出道。\[20\]
 
 2018年11月8日，Ron預計於明年1月27日結婚。\[21\]
 
@@ -858,11 +850,7 @@ Unit](../Page/The_Unit.md "wikilink")》最後一集直播舞台，Euijin獲得�
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 
@@ -875,48 +863,33 @@ Unit](../Page/The_Unit.md "wikilink")》最後一集直播舞台，Euijin獲得�
 5.
 
 6.
-7.  [New Hip-Hop Group Bigflo Releases “Delilah” MV + First Single Album
-    “First
-    Flow”](https://www.soompi.com/2014/06/22/new-hip-hop-group-bigflo-releases-delilah-mv-first-single-album-first-flow/)
+7.  [New Hip-Hop Group Bigflo Releases “Delilah” MV + First Single Album “First Flow”](https://www.soompi.com/2014/06/22/new-hip-hop-group-bigflo-releases-delilah-mv-first-single-album-first-flow/)
 
-8.  [Hip hop idol group BIGFLO to make their debut later this
-    month](https://www.allkpop.com/article/2014/06/hip-hop-idol-group-bigflo-to-make-their-debut-later-this-month)
+8.  [Hip hop idol group BIGFLO to make their debut later this month](https://www.allkpop.com/article/2014/06/hip-hop-idol-group-bigflo-to-make-their-debut-later-this-month)
 
-9.  [BigFlo Welcomes Its New
-    Member](https://www.yahoo.com/entertainment/s/bigflo-welcomes-its-new-member-011627854.html)
+9.  [BigFlo Welcomes Its New Member](https://www.yahoo.com/entertainment/s/bigflo-welcomes-its-new-member-011627854.html)
 
 10.
 
-11. [BIGFLO Leader Jungkyun Goes On Hiatus Due To Upcoming
-    Enlistment](https://www.soompi.com/2016/05/01/bigflo-leader-jungkyun-goes-on-hiatus-due-to-upcoming-enlistment/)
+11. [BIGFLO Leader Jungkyun Goes On Hiatus Due To Upcoming Enlistment](https://www.soompi.com/2016/05/01/bigflo-leader-jungkyun-goes-on-hiatus-due-to-upcoming-enlistment/)
 
-12. [BIGFLO's leader Jungkyun is next to
-    enlist](https://www.allkpop.com/article/2016/05/bigflos-leader-jungkyun-is-next-to-enlist)
+12. [BIGFLO's leader Jungkyun is next to enlist](https://www.allkpop.com/article/2016/05/bigflos-leader-jungkyun-is-next-to-enlist)
 
 13.
 
 14.
 
-15. [New Members To Join Bigflo After Z-UK And Kichun Announce Departure
-    From
-    Group](http://www.whatthekpop.com/2016/12/12/new-members-to-join-bigflo-after-z-uk-and-kichun-announce-departure-from-group/)
+15. [New Members To Join Bigflo After Z-UK And Kichun Announce Departure From Group](http://www.whatthekpop.com/2016/12/12/new-members-to-join-bigflo-after-z-uk-and-kichun-announce-departure-from-group/)
 
-16. [BIGFLO Confirms Three New Members + Comeback
-    Plans](https://www.soompi.com/2016/12/15/hip-hop-group-bigflo-confirms-three-new-members-comeback-plans/)
+16. [BIGFLO Confirms Three New Members + Comeback Plans](https://www.soompi.com/2016/12/15/hip-hop-group-bigflo-confirms-three-new-members-comeback-plans/)
 
-17. [BIGFLO regroup with 3 original members and 3 new members for a
-    comeback](https://www.allkpop.com/article/2017/01/bigflo-regroup-with-3-original-members-and-3-new-members-for-a-comeback)
+17. [BIGFLO regroup with 3 original members and 3 new members for a comeback](https://www.allkpop.com/article/2017/01/bigflo-regroup-with-3-original-members-and-3-new-members-for-a-comeback)
 
-18. [BIGFLO’s Yuseong To Sit Out Promotions For Upcoming Comeback Due To
-    Health
-    Reasons](https://www.soompi.com/2017/02/07/bigflos-yuseong-sit-promotions-upcoming-comeback-due-health-reasons/)
+18. [BIGFLO’s Yuseong To Sit Out Promotions For Upcoming Comeback Due To Health Reasons](https://www.soompi.com/2017/02/07/bigflos-yuseong-sit-promotions-upcoming-comeback-due-health-reasons/)
 
-19. [Janey, A.C.E’s Jun, BIGFLO, And More To Join Idol Rebooting Show
-    “The
-    Unit”](https://www.soompi.com/2017/09/17/janey-c-es-jun-bigflo-join-idol-rebooting-show-unit/)
+19. [Janey, A.C.E’s Jun, BIGFLO, And More To Join Idol Rebooting Show “The Unit”](https://www.soompi.com/2017/09/17/janey-c-es-jun-bigflo-join-idol-rebooting-show-unit/)
 
-20. [《THE
-    UNIT》結果出爐！最終能夠出道的18名成員是？](https://www.kpopn.com/2018/02/11/%E3%80%8Athe-unit%E3%80%8B%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90%EF%BC%81%E6%9C%80%E7%B5%82%E8%83%BD%E5%A4%A0%E5%87%BA%E9%81%93%E7%9A%8418%E5%90%8D%E6%88%90%E5%93%A1%E6%98%AF%EF%BC%9F/)2018-02-11
+20. [《THE UNIT》結果出爐！最終能夠出道的18名成員是？](https://www.kpopn.com/2018/02/11/%E3%80%8Athe-unit%E3%80%8B%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90%EF%BC%81%E6%9C%80%E7%B5%82%E8%83%BD%E5%A4%A0%E5%87%BA%E9%81%93%E7%9A%8418%E5%90%8D%E6%88%90%E5%93%A1%E6%98%AF%EF%BC%9F/)2018-02-11
 
 21.
 

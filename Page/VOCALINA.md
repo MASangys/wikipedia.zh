@@ -2,12 +2,11 @@
 
 ## 特徵
 
-軟件為韓文介面，功能跟[YAMAHA的](https://zh.wikipedia.org/wiki/YAMAHA "wikilink")[VOCALOID相似](../Page/VOCALOID.md "wikilink")。用家能調教[音高](../Page/音高.md "wikilink")、力度、震音、回音等參數，以達致較自然的歌聲。由於該軟件為一個工作室（Studio），用家還可以作混音及導入背景音樂。
+軟件為韓文介面，功能跟[YAMAHA的](https://zh.wikipedia.org/wiki/YAMAHA "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")相似。用家能調教[音高](../Page/音高.md "wikilink")、力度、震音、回音等參數，以達致較自然的歌聲。由於該軟件為一個工作室（Studio），用家還可以作混音及導入背景音樂。
 
 ## 產品
 
-  - **VORA（）**：原名為**Choi Bora（）**，女性，本軟件的首個聲庫，能免費在VOCALINA
-    Studio使用，不需購買。\[2\]
+  - **VORA（）**：原名為**Choi Bora（）**，女性，本軟件的首個聲庫，能免費在VOCALINA Studio使用，不需購買。\[2\]
   - **Khylin（）**：女性，本軟件的第二個聲庫，並非免費聲庫，需要購買一年票。\[3\]
 
 ## 參考文獻

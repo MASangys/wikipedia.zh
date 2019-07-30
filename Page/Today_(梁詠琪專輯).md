@@ -12,6 +12,4 @@
   - 大聯盟卡拉OK——最高點播率歌曲獎《迫不得已》
   - 大聯盟卡拉OK——最高點播率歌曲獎《Today》
 
-[Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

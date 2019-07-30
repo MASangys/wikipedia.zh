@@ -1,17 +1,14 @@
-《**Your
-Number**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee的第](../Page/SHINee.md "wikilink")11张日語[单曲](../Page/单曲.md "wikilink")，於2015年3月11日由[日本環球唱片子廠牌](../Page/環球音樂_\(日本\).md "wikilink")[EMI音樂日本发售](../Page/EMI音樂日本.md "wikilink")。
+《**Your Number**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第11张日語[单曲](../Page/单曲.md "wikilink")，於2015年3月11日由[日本環球唱片子廠牌](../Page/環球音樂_\(日本\).md "wikilink")[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")发售。
 
 ## 背景
 
-2015年2月5日，[EMI音樂日本公布了SHINee第](../Page/EMI音樂日本.md "wikilink")11張單曲的消息\[1\]，而《Your
-Number》的音樂錄影帶預覽則在2月20日推出\[2\]。
+2015年2月5日，[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")公布了SHINee第11張單曲的消息\[1\]，而《Your Number》的音樂錄影帶預覽則在2月20日推出\[2\]。
 
 ### 發行版本
 
 此單曲共分為2個發行版本，包括一個限量版本及一個通常版本。
 
-  - 初回生產限定盤（編號：UPCH-89196）：這版本附有貼紙外套，包括了一片單曲CD、一片收錄《Your
-    Number》[音樂錄影帶與單曲製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[3\]。
+  - 初回生產限定盤（編號：UPCH-89196）：這版本附有貼紙外套，包括了一片單曲CD、一片收錄《Your Number》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與單曲製作花絮的DVD\[3\]。
 
 <!-- end list -->
 
@@ -26,7 +23,7 @@ Number》的音樂錄影帶預覽則在2月20日推出\[2\]。
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon榜單</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>榜單</p></th>
 <th><p>最高位置</p></th>
 <th><p>銷售量</p></th>
 <th><p>總銷量</p></th>
@@ -96,8 +93,7 @@ Number》的音樂錄影帶預覽則在2月20日推出\[2\]。
 
 ## 参考文献
 
-[Category:SHINee歌曲](https://zh.wikipedia.org/wiki/Category:SHINee歌曲 "wikilink")
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
+[Category:SHINee歌曲](https://zh.wikipedia.org/wiki/Category:SHINee歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
 
 1.
 2.

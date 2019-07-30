@@ -1,23 +1,18 @@
 [Olympus_Pen_FT_5988.jpeg](https://zh.wikipedia.org/wiki/File:Olympus_Pen_FT_5988.jpeg "fig:Olympus_Pen_FT_5988.jpeg")
 
-**PEN
-F系列**是由[奥林巴斯公司推出的](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[半幅](../Page/半幅.md "wikilink")[单反相机系统](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，采用可换镜头设计。全系统自1963年推出
-PEN F 机身开始，一直到1970年的 PEN FV 生产结束，一共有3台机身与18枚镜头。
+**PEN F系列**是由[奥林巴斯公司推出的](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[半幅](../Page/半幅.md "wikilink")[单反相机系统](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，采用可换镜头设计。全系统自1963年推出 PEN F 机身开始，一直到1970年的 PEN FV 生产结束，一共有3台机身与18枚镜头。
 
 ## 概述
 
-所谓**半幅**（也被称作**半格**），指的是在[135规格胶片上](../Page/135底片.md "wikilink")，每张胶片仅使用一半的成像面积（18x24mm）来进行拍摄的模式。这样的设定使得相机和镜头可以实现较为小型化的设计，这也使得
-PEN F 系列可以成为在当时制造的最小的单反相机系统。之后生产的更小，但是在取景上有一定限制，且使用的是更小的。
+所谓**半幅**（也被称作**半格**），指的是在[135规格胶片上](../Page/135底片.md "wikilink")，每张胶片仅使用一半的成像面积（18x24mm）来进行拍摄的模式。这样的设定使得相机和镜头可以实现较为小型化的设计，这也使得 PEN F 系列可以成为在当时制造的最小的单反相机系统。之后生产的更小，但是在取景上有一定限制，且使用的是更小的。
 
-较为特别的是 PEN F
-系列的快门设计，其使用了[旋转式快门](https://zh.wikipedia.org/wiki/快门 "wikilink")，而不是在单反上较为流行的双帘幕焦平面快门设计。这样由于其在快门关闭之前是全开状态，于是其使用[闪光灯时](../Page/闪光灯.md "wikilink")，可以在任何快门速度下实现[闪光同步](https://zh.wikipedia.org/wiki/闪灯同步速度 "wikilink")。
+较为特别的是 PEN F 系列的快门设计，其使用了[旋转式快门](https://zh.wikipedia.org/wiki/快门 "wikilink")，而不是在单反上较为流行的双帘幕焦平面快门设计。这样由于其在快门关闭之前是全开状态，于是其使用[闪光灯](../Page/闪光灯.md "wikilink")时，可以在任何快门速度下实现[闪光同步](https://zh.wikipedia.org/wiki/闪灯同步速度 "wikilink")。
 
 PEN F系列因为半幅的成像大小与电影用类似，也有一些用户将35mm视频用镜头转接到 PEN F 机身上来使用。
 
 ## 奥林巴斯F系统机身
 
-[Olympus_Pen_F_01_kln_web.jpg](https://zh.wikipedia.org/wiki/File:Olympus_Pen_F_01_kln_web.jpg "fig:Olympus_Pen_F_01_kln_web.jpg")
-一共生产过3款机身：
+[Olympus_Pen_F_01_kln_web.jpg](https://zh.wikipedia.org/wiki/File:Olympus_Pen_F_01_kln_web.jpg "fig:Olympus_Pen_F_01_kln_web.jpg") 一共生产过3款机身：
 
   - **PEN F**
 
@@ -31,12 +26,9 @@ PEN F系列因为半幅的成像大小与电影用类似，也有一些用户将
 
 在1967年～1970年间生产
 
-横向走片的半幅机型，取景器中的构图为竖幅3:4的构图，为了完成紧凑的相机外形，PEN F
-配置了侧向运动的反光镜，同时结合[普罗棱镜的应用](https://zh.wikipedia.org/wiki/普罗棱镜 "wikilink")，使得在小巧机身内安放下了取景光路。类似的设计在后来的[4/3系統的单反相机上也有应用](https://zh.wikipedia.org/wiki/4/3系統 "wikilink")。
+横向走片的半幅机型，取景器中的构图为竖幅3:4的构图，为了完成紧凑的相机外形，PEN F 配置了侧向运动的反光镜，同时结合[普罗棱镜的应用](https://zh.wikipedia.org/wiki/普罗棱镜 "wikilink")，使得在小巧机身内安放下了取景光路。类似的设计在后来的[4/3系統的单反相机上也有应用](https://zh.wikipedia.org/wiki/4/3系統 "wikilink")。
 
-机身设计中，**PEN F** 对普罗棱镜，以及钛帘旋转式快门的利用，都属于首创，在当时来说属于革命性的小型化相机\[1\]。**PEN
-FT**内置了TTL测光装置，取景的时候可以根据中心点物体的照度，根据机身的快门速度设定，显示推荐的光圈数值\[2\]。而**PEN
-FV**则是 PEN FT 的经济版。
+机身设计中，**PEN F** 对普罗棱镜，以及钛帘旋转式快门的利用，都属于首创，在当时来说属于革命性的小型化相机\[1\]。**PEN FT**内置了TTL测光装置，取景的时候可以根据中心点物体的照度，根据机身的快门速度设定，显示推荐的光圈数值\[2\]。而**PEN FV**则是 PEN FT 的经济版。
 
 ## 奥林巴斯F系统镜头
 
@@ -302,34 +294,27 @@ FV**则是 PEN FT 的经济版。
 ## 相关条目
 
   - [奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")
-      - [奥林巴斯PEN系列](https://zh.wikipedia.org/wiki/奥林巴斯PEN系列 "wikilink")
-        奥林巴斯在60～80年代生产的系列半格机型
+      - [奥林巴斯PEN系列](https://zh.wikipedia.org/wiki/奥林巴斯PEN系列 "wikilink") 奥林巴斯在60～80年代生产的系列半格机型
           - **奥林巴斯PEN F系列**
   - [底片格式](../Page/底片格式.md "wikilink")
       - [半幅](../Page/半幅.md "wikilink")
 
 <!-- end list -->
 
-  - [宾得110系统](https://zh.wikipedia.org/wiki/宾得110系统 "wikilink")
-    宾得的一个可换镜头小型化相机系统
+  - [宾得110系统](https://zh.wikipedia.org/wiki/宾得110系统 "wikilink") 宾得的一个可换镜头小型化相机系统
 
 <!-- end list -->
 
-  - [PEN-F](https://zh.wikipedia.org/wiki/PEN-F "wikilink")
-    奥林巴斯公司于2016年推出的PEN系数码机型，属于MFT系统，设计上向该系列致敬
+  - [PEN-F](https://zh.wikipedia.org/wiki/PEN-F "wikilink") 奥林巴斯公司于2016年推出的PEN系数码机型，属于MFT系统，设计上向该系列致敬
 
 ## 参考与引用
 
 ## 外部链接
 
-  - [Pen
-    Series](http://www.olympus-global.com/en/corc/history/camera/pen/index.html)
-    奥林巴斯官网介绍(英文)
-  - [Half-Moon](https://web.archive.org/web/20150402214038/http://www.hicat.ne.jp/~bianchi/bianchi/index.html)
-    关于PEN和PEN F等半幅相机的专题网站（日文）
+  - [Pen Series](http://www.olympus-global.com/en/corc/history/camera/pen/index.html) 奥林巴斯官网介绍(英文)
+  - [Half-Moon](https://web.archive.org/web/20150402214038/http://www.hicat.ne.jp/~bianchi/bianchi/index.html) 关于PEN和PEN F等半幅相机的专题网站（日文）
 
-[Category:奧林巴斯相機](https://zh.wikipedia.org/wiki/Category:奧林巴斯相機 "wikilink")
-[Category:1963年面世的產品](https://zh.wikipedia.org/wiki/Category:1963年面世的產品 "wikilink")
+[Category:奧林巴斯相機](https://zh.wikipedia.org/wiki/Category:奧林巴斯相機 "wikilink") [Category:1963年面世的產品](https://zh.wikipedia.org/wiki/Category:1963年面世的產品 "wikilink")
 
 1.
 2.

@@ -1,15 +1,12 @@
-**MTV亞洲大獎**（）是和歐洲的[MTV歐洲音樂大獎](../Page/MTV歐洲音樂大獎.md "wikilink")（MTV
-EMA）同等的亞洲音樂獎項。創立於2002年，該活動給予在成就、電影、時尚、人道主義、音樂等方面的亞洲和國際偶像肯定和獎勵。和MTV歐洲音樂大獎一樣，大多數的獎項都由亞洲地區的觀眾投票決定。
+**MTV亞洲大獎**（）是和歐洲的[MTV歐洲音樂大獎](../Page/MTV歐洲音樂大獎.md "wikilink")（MTV EMA）同等的亞洲音樂獎項。創立於2002年，該活動給予在成就、電影、時尚、人道主義、音樂等方面的亞洲和國際偶像肯定和獎勵。和MTV歐洲音樂大獎一樣，大多數的獎項都由亞洲地區的觀眾投票決定。
 
-最新的獎盃設計是一個金色的類似[三角巧克力的長條](https://zh.wikipedia.org/wiki/三角巧克力 "wikilink")。雙[稜鏡形狀代表字母](../Page/稜鏡.md "wikilink")「M」和兩個字母「A」，也就是MTV亞洲大獎的英文縮寫（MAA）。
+最新的獎盃設計是一個金色的類似[三角巧克力的長條](https://zh.wikipedia.org/wiki/三角巧克力 "wikilink")。雙[稜鏡](../Page/稜鏡.md "wikilink")形狀代表字母「M」和兩個字母「A」，也就是MTV亞洲大獎的英文縮寫（MAA）。
 
 該活動於2007年曾暫停舉辦一屆，並自2009年起完全停止舉辦。
 
 ## 主办城市
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Jolin_Tsai_MAA.jpg "fig:缩略图")於2006年MTV亞洲大獎\]\]
-[缩略图](https://zh.wikipedia.org/wiki/File:Wang_Lee_Hom_MTV_Asia_Awards_2006.jpg "fig:缩略图")於2006年MTV亞洲大獎\]\]
-[缩略图](https://zh.wikipedia.org/wiki/File:Chang_Chen_MAA.jpg "fig:缩略图")於2006年MTV亞洲大獎\]\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Jolin_Tsai_MAA.jpg "fig:缩略图")於2006年MTV亞洲大獎\]\] [缩略图](https://zh.wikipedia.org/wiki/File:Wang_Lee_Hom_MTV_Asia_Awards_2006.jpg "fig:缩略图")於2006年MTV亞洲大獎\]\] [缩略图](https://zh.wikipedia.org/wiki/File:Chang_Chen_MAA.jpg "fig:缩略图")於2006年MTV亞洲大獎\]\]
 
 <table>
 <thead>
@@ -228,5 +225,4 @@ EMA）同等的亞洲音樂獎項。創立於2002年，該活動給予在成就�
 
   - [MTV Asia](http://www.mtvasia.com)
 
-[Category:MTV亚洲大奖](https://zh.wikipedia.org/wiki/Category:MTV亚洲大奖 "wikilink")
-[Category:音乐奖项](https://zh.wikipedia.org/wiki/Category:音乐奖项 "wikilink")
+[Category:MTV亚洲大奖](https://zh.wikipedia.org/wiki/Category:MTV亚洲大奖 "wikilink") [Category:音乐奖项](https://zh.wikipedia.org/wiki/Category:音乐奖项 "wikilink")

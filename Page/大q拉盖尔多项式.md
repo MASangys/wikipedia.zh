@@ -1,4 +1,4 @@
-**大q-拉盖尔多项式**是一个以[基本超几何函数定义的](../Page/基本超几何函数.md "wikilink")[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink"):
+**大q-拉盖尔多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink"):
 
 \(P_n(x;a,b;q)=\frac{1}{(b^{-1}*q^{-n};q,n)}*_2\Phi_1(q^{-n},aqx^{-1};aq|q;\frac{x}{b})\)
 
@@ -12,11 +12,9 @@
 
   - 大q拉盖尔多项式→[小q拉盖尔多项式](../Page/小q拉盖尔多项式.md "wikilink")
 
-在大q拉盖尔多项式中，令\(x \to  bqx\),并令\(b \to \infty\)即得[小q拉盖尔多项式](../Page/小q拉盖尔多项式.md "wikilink")
-\(\lim_{b \to \infty}P_{n}(bqx;a,b;q)=p_{n}(x;a|q)\)
+在大q拉盖尔多项式中，令\(x \to  bqx\),并令\(b \to \infty\)即得[小q拉盖尔多项式](../Page/小q拉盖尔多项式.md "wikilink") \(\lim_{b \to \infty}P_{n}(bqx;a,b;q)=p_{n}(x;a|q)\)
 
-  - 大→q拉盖尔多项式→[阿尔-萨拉姆-卡里兹多项式
-    I](https://zh.wikipedia.org/wiki/阿尔-萨拉姆-卡里兹多项式_I "wikilink")
+  - 大→q拉盖尔多项式→[阿尔-萨拉姆-卡里兹多项式 I](https://zh.wikipedia.org/wiki/阿尔-萨拉姆-卡里兹多项式_I "wikilink")
 
 ## 图集
 
@@ -34,5 +32,4 @@
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")

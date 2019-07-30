@@ -1,5 +1,4 @@
-**KBS晨間連續劇**（），亦稱**KBS日日晨間劇**，是[KBS
-2TV於週一至週五上午](../Page/KBS第2频道.md "wikilink")9点00分播放的[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1989年3月。
+**KBS晨間連續劇**（），亦稱**KBS日日晨間劇**，是[KBS 2TV於週一至週五上午](../Page/KBS第2频道.md "wikilink")9点00分播放的[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1989年3月。
 
 該時段曾於1991年10月至1992年10月及1994年10月至1996年3月間短暫停播，其後至2011年11月播畢《[甜蜜的心跳](../Page/甜蜜的心跳.md "wikilink")》後被以60、70年代作背景的[TV小說取代其時段](../Page/KBS_TV小說.md "wikilink")。至2018年9月，TV小說時段再度停播，由本時段重新取代。
 
@@ -1161,6 +1160,4 @@
   - [MBC晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")
   - [SBS晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")
 
-[Category:KBS晨間連續劇](https://zh.wikipedia.org/wiki/Category:KBS晨間連續劇 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
+[Category:KBS晨間連續劇](https://zh.wikipedia.org/wiki/Category:KBS晨間連續劇 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")

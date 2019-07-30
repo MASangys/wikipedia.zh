@@ -1,4 +1,4 @@
-《**盖塔机器人G**》（）是[永井豪与](../Page/永井豪.md "wikilink")[石川賢創作的](../Page/石川賢.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，以及以其為原作改編、[東映動畫製作的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[机器人动画](https://zh.wikipedia.org/wiki/机器人动画 "wikilink")。在1975年5月15日至1976年3月25日于[富士電視台系統毎週四](../Page/富士電視台.md "wikilink")19時00分～19時30分播出，全39話（算上重播則共播出43話）。\[1\]《[蓋特機器人](../Page/蓋特機器人.md "wikilink")》的直系續作，劇情直接延續前作，但之後推出許多蓋特機器人系列的電視動畫與[OVA在故事上和本作無關](https://zh.wikipedia.org/wiki/OVA "wikilink")。接續本作故事時間軸的續作為《[蓋特機器人號](https://zh.wikipedia.org/wiki/蓋特機器人號 "wikilink")》。
+《**盖塔机器人G**》（）是[永井豪](../Page/永井豪.md "wikilink")与[石川賢](../Page/石川賢.md "wikilink")創作的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，以及以其為原作改編、[東映動畫製作的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[机器人动画](https://zh.wikipedia.org/wiki/机器人动画 "wikilink")。在1975年5月15日至1976年3月25日于[富士電視台](../Page/富士電視台.md "wikilink")系統毎週四19時00分～19時30分播出，全39話（算上重播則共播出43話）。\[1\]《[蓋特機器人](../Page/蓋特機器人.md "wikilink")》的直系續作，劇情直接延續前作，但之後推出許多蓋特機器人系列的電視動畫與[OVA在故事上和本作無關](https://zh.wikipedia.org/wiki/OVA "wikilink")。接續本作故事時間軸的續作為《[蓋特機器人號](https://zh.wikipedia.org/wiki/蓋特機器人號 "wikilink")》。
 
 ## 故事
 
@@ -57,14 +57,6 @@
 
 ## 參考來源
 
-[Category:蓋特機器人](https://zh.wikipedia.org/wiki/Category:蓋特機器人 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:科幻动画](https://zh.wikipedia.org/wiki/Category:科幻动画 "wikilink")
-[Category:1975年日本电视动画](https://zh.wikipedia.org/wiki/Category:1975年日本电视动画 "wikilink")
-[Category:日本鬼题材作品](https://zh.wikipedia.org/wiki/Category:日本鬼题材作品 "wikilink")
-[Category:亚特兰提斯题材作品](https://zh.wikipedia.org/wiki/Category:亚特兰提斯题材作品 "wikilink")
+[Category:蓋特機器人](https://zh.wikipedia.org/wiki/Category:蓋特機器人 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:科幻动画](https://zh.wikipedia.org/wiki/Category:科幻动画 "wikilink") [Category:1975年日本电视动画](https://zh.wikipedia.org/wiki/Category:1975年日本电视动画 "wikilink") [Category:日本鬼题材作品](https://zh.wikipedia.org/wiki/Category:日本鬼题材作品 "wikilink") [Category:亚特兰提斯题材作品](https://zh.wikipedia.org/wiki/Category:亚特兰提斯题材作品 "wikilink")
 
-1.  [Getter Robo G
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1993)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Getter Robo G (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1993)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

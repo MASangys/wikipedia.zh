@@ -32,6 +32,4 @@
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:Q-模拟](https://zh.wikipedia.org/wiki/Category:Q-模拟 "wikilink")
-[Category:特殊超几何函数](https://zh.wikipedia.org/wiki/Category:特殊超几何函数 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:Q-模拟](https://zh.wikipedia.org/wiki/Category:Q-模拟 "wikilink") [Category:特殊超几何函数](https://zh.wikipedia.org/wiki/Category:特殊超几何函数 "wikilink")

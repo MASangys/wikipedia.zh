@@ -1,6 +1,4 @@
-**数码宝贝大冒险tri.角色列表**（[日语](../Page/日语.md "wikilink")：，[英语](../Page/英语.md "wikilink")：List
-of Digimon Adventure tri.
-characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/东映动画.md "wikilink")2015年起分6章制作的OVA《[数码宝贝大冒险tri.](https://zh.wikipedia.org/wiki/数码宝贝大冒险tri. "wikilink")》登场人物和数码宝贝一览表。\[1\]
+**数码宝贝大冒险tri.角色列表**（[日语](../Page/日语.md "wikilink")：，[英语](../Page/英语.md "wikilink")：List of Digimon Adventure tri. characters）是[日本](../Page/日本.md "wikilink")[东映动画](../Page/东映动画.md "wikilink")于2015年起分6章制作的OVA《[数码宝贝大冒险tri.](https://zh.wikipedia.org/wiki/数码宝贝大冒险tri. "wikilink")》登场人物和数码宝贝一览表。\[1\]
 
 本作為前兩作中尚未出現過的其他孩子們的夥伴搭擋數碼獸的究極體進化由本作登場的路線發展，原先只在遊戲版才有，這次動畫版的主要路線全員究極體進化型態將會由這次第三作中完美呈現出到究極體為止的所有進化順序。
 
@@ -38,8 +36,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     在那之後，小光表示太一開始去上補習班，以此暗示第二代成為現實世界與數碼世界之間的外交官的轉捩點。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。政治经济学部四年级生。以升入大学为契机决定独立生活，目前一个人住。无论学习还是打工都乐观地专心应付，但实际上将来怎么办还没有决定。即使现在仍有因数码兽而困扰的人，也会积极去帮助他们。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。政治经济学部四年级生。以升入大学为契机决定独立生活，目前一个人住。无论学习还是打工都乐观地专心应付，但实际上将来怎么办还没有决定。即使现在仍有因数码兽而困扰的人，也会积极去帮助他们。
 
   -
 
@@ -53,8 +50,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     在三年前的第二代和武之内空是戀人關係。
 
-    成了高中生後繼續他的樂隊活動，不過原樂團Teen-age Wolves已經解散，目前樂團為Knife of
-    Day。跟國中時候一樣，在樂隊中擔任貝斯和主唱。仍記得如何吹奏口琴。
+    成了高中生後繼續他的樂隊活動，不過原樂團Teen-age Wolves已經解散，目前樂團為Knife of Day。跟國中時候一樣，在樂隊中擔任貝斯和主唱。仍記得如何吹奏口琴。
 
     搭檔是加布獸，内心寄宿着“友情”。擁有第一代神圣计划持有者。
 
@@ -70,8 +66,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     在與眾人會合時，表示自己決定以宇宙為目標，以此暗示第二代成為太空人的契機。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。理工学部四年级生。暂停了乐队活动，在兴趣的范围内享受着音乐，现在的爱好是摩托。为了好好给自己找到时间和学习，决定读研。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。理工学部四年级生。暂停了乐队活动，在兴趣的范围内享受着音乐，现在的爱好是摩托。为了好好给自己找到时间和学习，决定读研。
 
   -
 
@@ -93,8 +88,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     對軍隊的無節制攻擊數碼寶貝們感到絕望，後壓抑著自己的心情，看著奧米加獸消滅秩序獸。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。女子大四年级生。不找工作，决定跟花道世家的母亲走同一条路。社交性格没变，也会教外国人，交友圈很广，但是觉得要珍惜过普通人的日常生活，不怎么与大家见面。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。女子大四年级生。不找工作，决定跟花道世家的母亲走同一条路。社交性格没变，也会教外国人，交友圈很广，但是觉得要珍惜过普通人的日常生活，不怎么与大家见面。
 
   -
 
@@ -122,8 +116,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     後基於姬川那扭曲的研究開始了兩個世界通道的研究，以此暗示第二代成為數碼世界研究者的契機。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。上大学的同时自己再经营公司，通过这些资金，担负起数码世界与人类世界纽带的职责，会帮助因为数码兽而困扰的人。牵头全世界「被选召的孩子们」的交流活动。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。上大学的同时自己再经营公司，通过这些资金，担负起数码世界与人类世界纽带的职责，会帮助因为数码兽而困扰的人。牵头全世界「被选召的孩子们」的交流活动。
 
   -
 
@@ -141,8 +134,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     完全無法接受因哈克獸之故而導致太一與西島的遇難，在軍隊無節制的攻擊數碼寶貝時亦悲傷的大喊他們到底做錯了什麼。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。将自己认为「很可爱」的物品进行网络贩售。已经不限于日本，已经是个在全世界奔波的商业女孩。每天忙于原创商品的开发等，因此不怎么与大家见面但会很认真地联络。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。将自己认为「很可爱」的物品进行网络贩售。已经不限于日本，已经是个在全世界奔波的商业女孩。每天忙于原创商品的开发等，因此不怎么与大家见面但会很认真地联络。
 
   -
 
@@ -162,8 +154,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     如同過去未雨綢繆的個性，帶著大量食物為耗盡力量的數碼寶貝們補充能量。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。医大五年级学生。虽然医疗实习经验还不丰富，但当医生的热情非比寻常。平时几乎不与大家见面，每天都在拼命学习中。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。医大五年级学生。虽然医疗实习经验还不丰富，但当医生的热情非比寻常。平时几乎不与大家见面，每天都在拼命学习中。
 
   -
 
@@ -189,8 +180,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     很喜歡寫小說，以此暗示第二代成為小說作家的契機。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。在文学部上学的一年级学生。虽然对将来很模糊，但在学校开始学习英语、法语，并加入儿童文学社团。也参加了数码兽的相关活动。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。在文学部上学的一年级学生。虽然对将来很模糊，但在学校开始学习英语、法语，并加入儿童文学社团。也参加了数码兽的相关活动。
 
   -
 
@@ -216,8 +206,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
     請求哥哥一定要拯救緬因獸，但是太一表示妹妹可以恨他，而他還是會打倒僅剩緬因獸的秩序獸。
 
-    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")
-    作为主角再次登场。专攻幼教的女子专科大学一年级生。由于太一开始独自生活，兄妹间有了距离感，但由于数码兽的相关活动还是经常见面。
+    在[数码宝贝大冒险 最后的进化 绊](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink") 作为主角再次登场。专攻幼教的女子专科大学一年级生。由于太一开始独自生活，兄妹间有了距离感，但由于数码兽的相关活动还是经常见面。
 
 ### 新被选召的孩子们/主角
 
@@ -372,8 +361,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 ### 争议角色
 
   -
-    第6章（网络配信版第25话）中，[泉光子郎在向其他被选召的孩子们解释数码世界重启时候](https://zh.wikipedia.org/wiki/泉光子郎 "wikilink")，大部分数码兽数据资料备份进了缅因猫兽体内，此时插入了剧场版《[数码宝贝大冒险
-    我们的战争游戏](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》里观战的几组世界各地孩子们6年后相貌的定格画面。而在剧场上映版第6章1小时6分48秒左右（网络配信版第6章第25话10分30秒左右），出现了疑似[秋山辽手持Digivice的画面](https://zh.wikipedia.org/wiki/秋山辽 "wikilink")，该定格画面是致敬《我们的战争游戏》里秋山辽在深山中使用笔记本电脑观战并向泉光子郎发送应援邮件。\[2\][元永庆太郎团队并不清楚当年](https://zh.wikipedia.org/wiki/元永庆太郎 "wikilink")[细田守团队将秋山辽在该画面登场的用意](https://zh.wikipedia.org/wiki/细田守 "wikilink")，甚至不清楚秋山辽的角色设定，以为该画面只是路人角色，导致出现较为严重破坏设定的致敬失误。
+    第6章（网络配信版第25话）中，[泉光子郎在向其他被选召的孩子们解释数码世界重启时候](https://zh.wikipedia.org/wiki/泉光子郎 "wikilink")，大部分数码兽数据资料备份进了缅因猫兽体内，此时插入了剧场版《[数码宝贝大冒险 我们的战争游戏](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》里观战的几组世界各地孩子们6年后相貌的定格画面。而在剧场上映版第6章1小时6分48秒左右（网络配信版第6章第25话10分30秒左右），出现了疑似[秋山辽手持Digivice的画面](https://zh.wikipedia.org/wiki/秋山辽 "wikilink")，该定格画面是致敬《我们的战争游戏》里秋山辽在深山中使用笔记本电脑观战并向泉光子郎发送应援邮件。\[2\][元永庆太郎团队并不清楚当年](https://zh.wikipedia.org/wiki/元永庆太郎 "wikilink")[细田守团队将秋山辽在该画面登场的用意](https://zh.wikipedia.org/wiki/细田守 "wikilink")，甚至不清楚秋山辽的角色设定，以为该画面只是路人角色，导致出现较为严重破坏设定的致敬失误。
 
 ### 主角群伙伴数码兽
 
@@ -944,17 +932,13 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
 
   - [东映动画 Digimon Adventure tri. 官网](http://digimon-adventure.net/tri/)
 
-  - [东映动画 Digimon Adventure 15th Anniversary Project
-    官网](https://web.archive.org/web/20181226232740/http://15th.digimon-adventure.net/)
+  - [东映动画 Digimon Adventure 15th Anniversary Project 官网](https://web.archive.org/web/20181226232740/http://15th.digimon-adventure.net/)
 
-  - [超进化舞台 Digimon Adventure tri. \~Adventure of August 1\~
-    官网](http://digimon-stage.com/)
+  - [超进化舞台 Digimon Adventure tri. \~Adventure of August 1\~ 官网](http://digimon-stage.com/)
 
   -
   -
-[Category:數碼寶貝系列角色](https://zh.wikipedia.org/wiki/Category:數碼寶貝系列角色 "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
-[Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")
+[Category:數碼寶貝系列角色](https://zh.wikipedia.org/wiki/Category:數碼寶貝系列角色 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink") [Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")
 
 1.
 2.

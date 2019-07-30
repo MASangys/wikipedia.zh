@@ -1,8 +1,4 @@
-《**Strawberry
-Nauts**》是日本[HOOKSOFT在](../Page/HOOKSOFT.md "wikilink")2011年11月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]通常版於2011年12月22日發售。\[3\][DMM.com在](../Page/DMM.com.md "wikilink")2014年8月1日發售DL版\[4\]，2016年1月22日發售18禁版的HD版《Strawberry
-Nauts HD Renewal
-Edition》\[5\]\[6\]，2016年2月26日發售全年齡版的HD版。\[7\]\[8\]2016年7月28日由ENTERGRAM發售[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")。\[9\]
+《**Strawberry Nauts**》是日本[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2011年11月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]通常版於2011年12月22日發售。\[3\][DMM.com](../Page/DMM.com.md "wikilink")在2014年8月1日發售DL版\[4\]，2016年1月22日發售18禁版的HD版《Strawberry Nauts HD Renewal Edition》\[5\]\[6\]，2016年2月26日發售全年齡版的HD版。\[7\]\[8\]2016年7月28日由ENTERGRAM發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。\[9\]
 
 ## 故事
 
@@ -101,8 +97,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")。\[9\]
 <!-- end list -->
 
   -
-    發行：HOOKSOFT　發售日：2011年12月29日（[Comic
-    Market](../Page/Comic_Market.md "wikilink") 81）
+    發行：HOOKSOFT　發售日：2011年12月29日（[Comic Market](../Page/Comic_Market.md "wikilink") 81）
 
   - 曲目列表
 
@@ -113,54 +108,34 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")。\[9\]
 <!-- end list -->
 
   -
-    發售日：2012年3月30日
-    出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　ISBN
-    9784047280236
+    發售日：2012年3月30日 出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　ISBN 9784047280236
 
 ## 評價
 
-《Strawberry
-Nauts》獲得「Getchu.com美少女遊戲大賞2011」綜合部門第6名\[13\]、系統部門第6名\[14\]、繪圖部門第8名\[15\]、角色部門**壽壽苗穗海**第2名和**六角雀**第15名。\[16\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1442號的クロスレビュー對PlayStation
-Vita版給予29/40分。\[17\]
+《Strawberry Nauts》獲得「Getchu.com美少女遊戲大賞2011」綜合部門第6名\[13\]、系統部門第6名\[14\]、繪圖部門第8名\[15\]、角色部門**壽壽苗穗海**第2名和**六角雀**第15名。\[16\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1442號的クロスレビュー對PlayStation Vita版給予29/40分。\[17\]
 
 ## 參考來源
 
 ## 外部連結
 
   - [HOOKSOFT](http://www.hook-net.jp/)
-  - [Strawberry
-    Nauts](http://www.hook-net.jp/strawberrynauts/index.htm)HOOKSOFT
-  - [Strawberry
-    Nauts](http://www.entergram.co.jp/strawberrynauts/index.html)ENTERGRAM
+  - [Strawberry Nauts](http://www.hook-net.jp/strawberrynauts/index.htm)HOOKSOFT
+  - [Strawberry Nauts](http://www.entergram.co.jp/strawberrynauts/index.html)ENTERGRAM
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
-1.  [Strawberry Nauts -ストロベリーノーツ-
-    初回版](http://www.getchu.com/soft.phtml?id=713538)Getchu.com
+1.  [Strawberry Nauts -ストロベリーノーツ- 初回版](http://www.getchu.com/soft.phtml?id=713538)Getchu.com
 2.  [Strawberry Nauts](https://vndb.org/v7507)The Visual Novel Database
 3.
 4.
-5.  [Strawberry Nauts HD Renewal
-    Edition](http://www.hook-net.jp/strawberrynauts/sn_hd.htm)[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")
-6.  [Strawberry Nauts HD Renewal
-    Edition](http://dlsoft.dmm.co.jp/detail/has_0012/)DMM.com
-7.  [Strawberry Nauts HD Renewal Edition
-    【全年齢向け】](http://dlsoft.dmm.com/detail/ihas_0002/)DMM.com
-8.  [Strawberry Nauts HD Renewal
-    Edition](http://www.4gamer.net/games/334/G033489/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
+5.  [Strawberry Nauts HD Renewal Edition](http://www.hook-net.jp/strawberrynauts/sn_hd.htm)[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")
+6.  [Strawberry Nauts HD Renewal Edition](http://dlsoft.dmm.co.jp/detail/has_0012/)DMM.com
+7.  [Strawberry Nauts HD Renewal Edition 【全年齢向け】](http://dlsoft.dmm.com/detail/ihas_0002/)DMM.com
+8.  [Strawberry Nauts HD Renewal Edition](http://www.4gamer.net/games/334/G033489/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 9.
-10. [Strawberry Nauts
-    ストロベリーノーツ](http://erogetrailers.com/soft/7820)ErogeTrailers
-11. [Strawberry
-    Nauts](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=15964#ad)ErogameScape
-    -エロゲー批評空間-
-12. [Strawberry Nauts Original
-    Soundtrack](http://www.last.fm/music/OdiakeS/Strawberry+Nauts+Original+Soundtrack)[Last.fm](../Page/Last.fm.md "wikilink")
+10. [Strawberry Nauts ストロベリーノーツ](http://erogetrailers.com/soft/7820)ErogeTrailers
+11. [Strawberry Nauts](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=15964#ad)ErogameScape -エロゲー批評空間-
+12. [Strawberry Nauts Original Soundtrack](http://www.last.fm/music/OdiakeS/Strawberry+Nauts+Original+Soundtrack)[Last.fm](../Page/Last.fm.md "wikilink")
 13.
 14.
 15.

@@ -1,4 +1,4 @@
-是任天堂原运营的在线多人游戏服务，提供兼容[任天堂DS和](../Page/任天堂DS.md "wikilink")[Wii的免费在线游戏](../Page/Wii.md "wikilink")。服务还包括公司的[Wii商店频道和](https://zh.wikipedia.org/wiki/Wii商店频道 "wikilink")[DSi商店游戏下载服务](https://zh.wikipedia.org/wiki/DSi商店游戏 "wikilink")，现在仍在运-{}-行。服务还为[Wii和](../Page/Wii.md "wikilink")[任天堂DS提供功能](../Page/任天堂DS.md "wikilink")。
+是任天堂原运营的在线多人游戏服务，提供兼容[任天堂DS](../Page/任天堂DS.md "wikilink")和[Wii](../Page/Wii.md "wikilink")的免费在线游戏。服务还包括公司的[Wii商店频道和](https://zh.wikipedia.org/wiki/Wii商店频道 "wikilink")[DSi商店游戏下载服务](https://zh.wikipedia.org/wiki/DSi商店游戏 "wikilink")，现在仍在运-{}-行。服务还为[Wii](../Page/Wii.md "wikilink")和[任天堂DS](../Page/任天堂DS.md "wikilink")提供功能。
 
 许多游戏利用了任天堂Wi-Fi连接的优势，将联网游戏功能整合到游戏。在推销此服务时，任天堂强调联网游戏启动的简单的速度。比如在《[马里奥赛车DS](../Page/马里奥赛车DS.md "wikilink")》中，从主菜单可以选择在线多人游戏选项进入此功能，然后选择与好友，或是局域网/全球技能水平相近的其他玩家。在选择确定后，游戏开始搜索可用玩家。
 
@@ -6,10 +6,4 @@
 
 ## 参考文献
 
-[Category:任天堂服務](https://zh.wikipedia.org/wiki/Category:任天堂服務 "wikilink")
-[Category:Wi-Fi](https://zh.wikipedia.org/wiki/Category:Wi-Fi "wikilink")
-[Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink")
-[Category:任天堂DS](https://zh.wikipedia.org/wiki/Category:任天堂DS "wikilink")
-[Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink")
-[Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:任天堂服務](https://zh.wikipedia.org/wiki/Category:任天堂服務 "wikilink") [Category:Wi-Fi](https://zh.wikipedia.org/wiki/Category:Wi-Fi "wikilink") [Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink") [Category:任天堂DS](https://zh.wikipedia.org/wiki/Category:任天堂DS "wikilink") [Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink") [Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")

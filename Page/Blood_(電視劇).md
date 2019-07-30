@@ -1,11 +1,8 @@
-《**Blood**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年2月起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[安宰賢](../Page/安宰賢.md "wikilink")、[池珍熙](../Page/池珍熙.md "wikilink")、[具惠善及](../Page/具惠善.md "wikilink")[孫秀賢主演](../Page/孫秀賢.md "wikilink")，《[烏鵲橋兄弟](../Page/烏鵲橋兄弟.md "wikilink")》、《[Good
-Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》[奇民秀導演執導](https://zh.wikipedia.org/wiki/奇民秀 "wikilink")，《[神的測驗](../Page/神的測驗.md "wikilink")》、《[Good
-Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範執筆](https://zh.wikipedia.org/wiki/朴才範 "wikilink")。
+《**Blood**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年2月起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[安宰賢](../Page/安宰賢.md "wikilink")、[池珍熙](../Page/池珍熙.md "wikilink")、[具惠善](../Page/具惠善.md "wikilink")及[孫秀賢](../Page/孫秀賢.md "wikilink")主演，《[烏鵲橋兄弟](../Page/烏鵲橋兄弟.md "wikilink")》、《[Good Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》[奇民秀導演執導](https://zh.wikipedia.org/wiki/奇民秀 "wikilink")，《[神的測驗](../Page/神的測驗.md "wikilink")》、《[Good Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範執筆](https://zh.wikipedia.org/wiki/朴才範 "wikilink")。
 
 ## 劇情
 
-講述的是一個為守護生命的尊貴和正義而孤軍奮鬥的吸血鬼外科醫生朴志尚（[安宰賢](../Page/安宰賢.md "wikilink")
-飾）的英雄故事。
+講述的是一個為守護生命的尊貴和正義而孤軍奮鬥的吸血鬼外科醫生朴志尚（[安宰賢](../Page/安宰賢.md "wikilink") 飾）的英雄故事。
 
 ## 演員陣容
 
@@ -411,7 +408,7 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 
 ### 其他搭配歌曲
 
-  - 台灣[八大綜合台版本](../Page/八大綜合台.md "wikilink")
+  - 台灣[八大綜合台](../Page/八大綜合台.md "wikilink")版本
       - 片頭曲：[蕭煌奇](../Page/蕭煌奇.md "wikilink")《死心了沒有》
       - 片尾曲：[蕭煌奇](../Page/蕭煌奇.md "wikilink")《下個街角》
 
@@ -569,10 +566,10 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 
 ## 記事
 
-  - 原定男主角最初人選為[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")，經其婉拒之後改而邀請[丁一宇擔當](../Page/丁一宇.md "wikilink")，但他同樣辭演本劇。最終確定由[安宰賢擔任本劇男主角](../Page/安宰賢.md "wikilink")。
-  - [池珍熙與](../Page/池珍熙.md "wikilink")[具惠善繼](../Page/具惠善.md "wikilink")《[拜託了，機長](../Page/拜託了，機長.md "wikilink")》後，時隔3年再度合作演出。
-  - 劇集播出期間，[具惠善的演技被狠批](../Page/具惠善.md "wikilink")，因此在劇終時透過公司發表感想，對於拖累劇組而感到抱歉。[1](http://www.allthatstar.com/view.php?action=1790&postID=70624&rtn_sns=bom)
-  - [安宰賢與](../Page/安宰賢.md "wikilink")[具惠善通過此相識](../Page/具惠善.md "wikilink")，並進行交往，在2016年5月21日步入禮堂\>\[3\]。
+  - 原定男主角最初人選為[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")，經其婉拒之後改而邀請[丁一宇](../Page/丁一宇.md "wikilink")擔當，但他同樣辭演本劇。最終確定由[安宰賢](../Page/安宰賢.md "wikilink")擔任本劇男主角。
+  - [池珍熙](../Page/池珍熙.md "wikilink")與[具惠善](../Page/具惠善.md "wikilink")繼《[拜託了，機長](../Page/拜託了，機長.md "wikilink")》後，時隔3年再度合作演出。
+  - 劇集播出期間，[具惠善](../Page/具惠善.md "wikilink")的演技被狠批，因此在劇終時透過公司發表感想，對於拖累劇組而感到抱歉。[1](http://www.allthatstar.com/view.php?action=1790&postID=70624&rtn_sns=bom)
+  - [安宰賢](../Page/安宰賢.md "wikilink")與[具惠善](../Page/具惠善.md "wikilink")通過此相識，並進行交往，在2016年5月21日步入禮堂\>\[3\]。
 
 ## 腳註
 
@@ -582,15 +579,8 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
   - [香港有線電視官方網站](http://epg.i-cable.com/new/ent/intro.php?program_id=420)
   - [台灣GTV官方網站](https://web.archive.org/web/20150923090201/http://www.gtv.com.tw/Program/B051520150926P/)
 
-[Category:吸血鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:吸血鬼題材電視劇 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:吸血鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:吸血鬼題材電視劇 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
-3.  [“꿀.떨.어.집.니.다”…안재현·구혜선, 눈빛
-    데이트](http://www.dispatch.co.kr/482145)Dispatch
+3.  [“꿀.떨.어.집.니.다”…안재현·구혜선, 눈빛 데이트](http://www.dispatch.co.kr/482145)Dispatch

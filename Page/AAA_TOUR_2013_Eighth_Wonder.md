@@ -1,11 +1,8 @@
-「**AAA TOUR 2013 Eighth
-Wonder**」是[日本的](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](https://zh.wikipedia.org/wiki/AAA "wikilink")2014年1月22日推出的DVD，由[avex
-trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+「**AAA TOUR 2013 Eighth Wonder**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](https://zh.wikipedia.org/wiki/AAA "wikilink")2014年1月22日推出的DVD，由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張DVD「[AAA TOUR 2012 -777- TRIPLE
-    SEVEN](../Page/AAA_TOUR_2012_-777-_TRIPLE_SEVEN.md "wikilink")」相距約1年。
+  - 與上一張DVD「[AAA TOUR 2012 -777- TRIPLE SEVEN](../Page/AAA_TOUR_2012_-777-_TRIPLE_SEVEN.md "wikilink")」相距約1年。
   - 在2月3日於公信榜錄影帶週排行榜取得第1位。
 
 ## 收錄曲
@@ -50,5 +47,4 @@ trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 1.  Happy Birthday AAA (2013.9.14 in 大阪城ホール)
 
-[Category:AAA的影像作品](https://zh.wikipedia.org/wiki/Category:AAA的影像作品 "wikilink")
-[Category:2014年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2014年音樂相關影像作品 "wikilink")
+[Category:AAA的影像作品](https://zh.wikipedia.org/wiki/Category:AAA的影像作品 "wikilink") [Category:2014年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2014年音樂相關影像作品 "wikilink")

@@ -1,25 +1,20 @@
-《**I'm home**》（），為日本漫畫家創作的日本漫畫，1997年7月至1998年12月於小學館「BIG COMIC
-ORIGINAL」連載。1999年2月發行上下集單行本漫畫。2004年由[NHK改編為連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")《I'm
-home
-遙遠的返家之路》（）\[1\]，由[淺野妙子編劇](../Page/淺野妙子.md "wikilink")，真鍋齋、本木一博執導，[時任三郎](../Page/時任三郎.md "wikilink")、及主演，全劇共24集。2015年4月由[朝日電視台改編為連續劇](../Page/朝日電視台.md "wikilink")，全劇共10集。本條目僅介紹2015版改編連續劇。
+《**I'm home**》（），為日本漫畫家創作的日本漫畫，1997年7月至1998年12月於小學館「BIG COMIC ORIGINAL」連載。1999年2月發行上下集單行本漫畫。2004年由[NHK改編為連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")《I'm home 遙遠的返家之路》（）\[1\]，由[淺野妙子](../Page/淺野妙子.md "wikilink")編劇，真鍋齋、本木一博執導，[時任三郎](../Page/時任三郎.md "wikilink")、及主演，全劇共24集。2015年4月由[朝日電視台](../Page/朝日電視台.md "wikilink")改編為連續劇，全劇共10集。本條目僅介紹2015版改編連續劇。
 
 ## 內容概要
 
-家路久（[木村拓哉飾演](../Page/木村拓哉.md "wikilink")）原本是證券公司的精英，卻因為一起爆炸意外，喪失了5年來的記憶。即使回到家中，妻子（[上戶彩飾演](../Page/上戶彩.md "wikilink")）與兒子都像戴著冰冷的面具，絲毫感覺不到愛情與溫暖。相反地在他心中，卻對已經離異的前妻（[水野美紀飾演](../Page/水野美紀.md "wikilink")）與女兒（繼女，[山口麻友飾演](../Page/山口麻友.md "wikilink")）有著依戀。
+家路久（[木村拓哉](../Page/木村拓哉.md "wikilink")飾演）原本是證券公司的精英，卻因為一起爆炸意外，喪失了5年來的記憶。即使回到家中，妻子（[上戶彩](../Page/上戶彩.md "wikilink")飾演）與兒子都像戴著冰冷的面具，絲毫感覺不到愛情與溫暖。相反地在他心中，卻對已經離異的前妻（[水野美紀](../Page/水野美紀.md "wikilink")飾演）與女兒（繼女，[山口麻友](../Page/山口麻友.md "wikilink")飾演）有著依戀。
 
 在這空白的5年當中，究竟發生了什麼事情？為什麼離婚？又為什麼有現在的婚姻？唯一的線索，只有手中的十支鑰匙。為了尋找真正的自己，解開所有的謎團，家路久決定以鑰匙一一打開通往過去的門…\[2\]
 
 ## 連續劇（2015年版）
 
-2015年版《**I'm
-home**》（）自4月16日起每週四晚間9:00－9:54於[朝日電視台](../Page/朝日電視台.md "wikilink")「[木9](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")」時段播出。主演的木村拓哉是首次參與朝日電視台的連續劇演出，女主角是初次與木村拓哉合作的上戶彩。繼2007年TBS連續劇《[華麗一族](../Page/華麗一族.md "wikilink")》之後，木村於本劇再次詮釋父親的角色。\[3\]\[4\]
+2015年版《**I'm home**》（）自4月16日起每週四晚間9:00－9:54於[朝日電視台](../Page/朝日電視台.md "wikilink")「[木9](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")」時段播出。主演的木村拓哉是首次參與朝日電視台的連續劇演出，女主角是初次與木村拓哉合作的上戶彩。繼2007年TBS連續劇《[華麗一族](../Page/華麗一族.md "wikilink")》之後，木村於本劇再次詮釋父親的角色。\[3\]\[4\]
 
 ### 登場人物
 
 #### 主要人物
 
-  - 家路久：[木村拓哉](../Page/木村拓哉.md "wikilink")\[5\]
-    （幼少時期：込江大牙\[6\]）（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）
+  - 家路久：[木村拓哉](../Page/木村拓哉.md "wikilink")\[5\] （幼少時期：込江大牙\[6\]）（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）
 
 <!-- end list -->
 
@@ -523,28 +518,13 @@ home**》（）自4月16日起每週四晚間9:00－9:54於[朝日電視台](../
 
 ## 外部連結
 
-  - [I'm home
-    遙遠的返家之路－NHK官方網站](https://web.archive.org/web/20150424020704/http://www.nhk.or.jp/drama/archives/imhome/index.html)
-  - [I'm
-    home－朝日電視台官方網站](https://web.archive.org/web/20150510045646/http://www.tv-asahi.co.jp/imhome/)
+  - [I'm home 遙遠的返家之路－NHK官方網站](https://web.archive.org/web/20150424020704/http://www.nhk.or.jp/drama/archives/imhome/index.html)
+  - [I'm home－朝日電視台官方網站](https://web.archive.org/web/20150510045646/http://www.tv-asahi.co.jp/imhome/)
   - [家的記憶－緯來日本台官方網站](http://japan.videoland.com.tw/channel/20150402/)
 
 ## 節目的變遷
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:失憶症題材漫畫](https://zh.wikipedia.org/wiki/Category:失憶症題材漫畫 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink")
-[Category:2004年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2004年開播的日本電視劇集 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink")
-[Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:淺野妙子劇本電視劇](https://zh.wikipedia.org/wiki/Category:淺野妙子劇本電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
-[Category:Big_Comic_Original](https://zh.wikipedia.org/wiki/Category:Big_Comic_Original "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:失憶症題材漫畫](https://zh.wikipedia.org/wiki/Category:失憶症題材漫畫 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink") [Category:2004年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2004年開播的日本電視劇集 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:淺野妙子劇本電視劇](https://zh.wikipedia.org/wiki/Category:淺野妙子劇本電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink") [Category:Big_Comic_Original](https://zh.wikipedia.org/wiki/Category:Big_Comic_Original "wikilink")
 
 1.  日文漢字「家路」一語雙關，除了是本劇主角姓氏外，亦為「回家之路」之意。
 

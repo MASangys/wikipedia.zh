@@ -1,5 +1,4 @@
-**大q-勒让德多项式**是一个以[基本超几何函数定义的正交多项式](../Page/基本超几何函数.md "wikilink")\[1\]：
-[BIG_Q-LEGENDER_2D_PLOT.gif](https://zh.wikipedia.org/wiki/File:BIG_Q-LEGENDER_2D_PLOT.gif "fig:BIG_Q-LEGENDER_2D_PLOT.gif")
+**大q-勒让德多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的正交多项式\[1\]： [BIG_Q-LEGENDER_2D_PLOT.gif](https://zh.wikipedia.org/wiki/File:BIG_Q-LEGENDER_2D_PLOT.gif "fig:BIG_Q-LEGENDER_2D_PLOT.gif")
 
 \[\displaystyle   P_n(x;c;q)={}_3\phi_2(q^{-n},q^{n+1},x;q,cq;q,q)\]
 
@@ -72,8 +71,7 @@ q}^{2}}{ \left( 1-q \right) ^{2}}}-{\frac {x{q}^{2}}{ \left( 1-q
  \right) ^{-2} \left( 1-{q}^{6} \right) ^{-2} \left( 1-{q}^{7}
  \right) ^{-2}\)
 
-  - <math>qL2=\\lim_{q \\to
-    1}qL=-1+56\\,x+3432\\,{x}^{7}-12012\\,{x}^{6}+16632\\,{x}^{5}-11550\\,{x}^{4}+
+  - <math>qL2=\\lim_{q \\to 1}qL=-1+56\\,x+3432\\,{x}^{7}-12012\\,{x}^{6}+16632\\,{x}^{5}-11550\\,{x}^{4}+
 
 4200\\,{x}^{3}-756\\,{x}^{2}</math>
 

@@ -2,24 +2,13 @@
 
 ## 参考文献
 
-  - [Rogue 1984](http://www.free-culture.ir/Rogue_1984-The_DOS_Game-The_History-The_Science.html)
-    – The DOS Game, the History, the Science
+  - [Rogue 1984](http://www.free-culture.ir/Rogue_1984-The_DOS_Game-The_History-The_Science.html) – The DOS Game, the History, the Science
 
-[Category:1980年电子游戏](https://zh.wikipedia.org/wiki/Category:1980年电子游戏 "wikilink")
-[Category:Amiga遊戲](https://zh.wikipedia.org/wiki/Category:Amiga遊戲 "wikilink")
-[Category:Amstrad_CPC游戏](https://zh.wikipedia.org/wiki/Category:Amstrad_CPC游戏 "wikilink")
-[Category:Commodore_64游戏](https://zh.wikipedia.org/wiki/Category:Commodore_64游戏 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:Roguelike游戏](https://zh.wikipedia.org/wiki/Category:Roguelike游戏 "wikilink")
-[Category:TRS-80_Color_Computer游戏](https://zh.wikipedia.org/wiki/Category:TRS-80_Color_Computer游戏 "wikilink")
-[Category:ZX_Spectrum遊戲](https://zh.wikipedia.org/wiki/Category:ZX_Spectrum遊戲 "wikilink")
-[Category:雅達利ST遊戲](https://zh.wikipedia.org/wiki/Category:雅達利ST遊戲 "wikilink")
+[Category:1980年电子游戏](https://zh.wikipedia.org/wiki/Category:1980年电子游戏 "wikilink") [Category:Amiga遊戲](https://zh.wikipedia.org/wiki/Category:Amiga遊戲 "wikilink") [Category:Amstrad_CPC游戏](https://zh.wikipedia.org/wiki/Category:Amstrad_CPC游戏 "wikilink") [Category:Commodore_64游戏](https://zh.wikipedia.org/wiki/Category:Commodore_64游戏 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:Roguelike游戏](https://zh.wikipedia.org/wiki/Category:Roguelike游戏 "wikilink") [Category:TRS-80_Color_Computer游戏](https://zh.wikipedia.org/wiki/Category:TRS-80_Color_Computer游戏 "wikilink") [Category:ZX_Spectrum遊戲](https://zh.wikipedia.org/wiki/Category:ZX_Spectrum遊戲 "wikilink") [Category:雅達利ST遊戲](https://zh.wikipedia.org/wiki/Category:雅達利ST遊戲 "wikilink")
 
 1.
 2.
-3.  See, for example, [I “Like-Like” Roguelikes (Because Love Should
-    Never Be So Cruel)](http://loadablecontent.com/?p=40)
+3.  See, for example, [I “Like-Like” Roguelikes (Because Love Should Never Be So Cruel)](http://loadablecontent.com/?p=40)
 4.
 5.
 6.

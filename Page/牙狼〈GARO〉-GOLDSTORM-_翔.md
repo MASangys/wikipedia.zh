@@ -1,8 +1,7 @@
 《**牙狼〈GARO〉-GOLDSTORM- 翔**》（）可以指︰
 
-1.  [日本特攝劇集](../Page/日本.md "wikilink")《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的電影作品，是《[牙狼〈GARO〉～照亮黑暗的人～](../Page/牙狼〈GARO〉～照亮黑暗的人～.md "wikilink")》的續作，也是《牙狼〈GARO〉-GOLDSTORM-
-    翔》電視版的前傳，於2015年3月28日公映；
-2.  [日本特攝劇集](../Page/日本.md "wikilink")《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的電視作品，是《[牙狼〈GARO〉～照亮黑暗的人～](../Page/牙狼〈GARO〉～照亮黑暗的人～.md "wikilink")》的續作，於2015年4月10日至9月18日在[東京電視台聯播網的深夜時段播出](../Page/東京電視台.md "wikilink")，全23集。
+1.  [日本](../Page/日本.md "wikilink")特攝劇集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的電影作品，是《[牙狼〈GARO〉～照亮黑暗的人～](../Page/牙狼〈GARO〉～照亮黑暗的人～.md "wikilink")》的續作，也是《牙狼〈GARO〉-GOLDSTORM- 翔》電視版的前傳，於2015年3月28日公映；
+2.  [日本](../Page/日本.md "wikilink")特攝劇集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的電視作品，是《[牙狼〈GARO〉～照亮黑暗的人～](../Page/牙狼〈GARO〉～照亮黑暗的人～.md "wikilink")》的續作，於2015年4月10日至9月18日在[東京電視台](../Page/東京電視台.md "wikilink")聯播網的深夜時段播出，全23集。
 
 ## 本劇特色
 
@@ -20,7 +19,7 @@
 
 ## 登場人物
 
-  - **道外流牙**（[栗山航飾](../Page/栗山航.md "wikilink")）
+  - **道外流牙**（[栗山航](../Page/栗山航.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -29,7 +28,7 @@
 
 <!-- end list -->
 
-  - **莉杏**（[南里美希飾](../Page/南里美希.md "wikilink")）
+  - **莉杏**（[南里美希](../Page/南里美希.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -38,7 +37,7 @@
 
 <!-- end list -->
 
-  - **龍女**（[桑江咲菜飾](../Page/桑江咲菜.md "wikilink")）
+  - **龍女**（[桑江咲菜](../Page/桑江咲菜.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -61,7 +60,7 @@
 
 <!-- end list -->
 
-  - **雙龍法師**（[柄本明飾](../Page/柄本明.md "wikilink")）
+  - **雙龍法師**（[柄本明](../Page/柄本明.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -88,7 +87,7 @@
 
 <!-- end list -->
 
-  - **神牙**（[井上正大飾](../Page/井上正大.md "wikilink")）
+  - **神牙**（[井上正大](../Page/井上正大.md "wikilink")飾）
 
 <!-- end list -->
 
@@ -347,8 +346,7 @@
     作詞︰奥井雅美
     作曲︰影山浩宣
     編曲︰寺田志保
-    主唱︰魔戒歌劇團（[黑木桃子](https://zh.wikipedia.org/wiki/黑木桃子 "wikilink")、[桑江咲菜](../Page/桑江咲菜.md "wikilink")、[松山メアリ](https://zh.wikipedia.org/wiki/松山メアリ "wikilink")、[大關英里](../Page/大關英里.md "wikilink")）
-    / Produced by team GAJARI（影山浩宣、奥井雅美、雨宮慶太）
+    主唱︰魔戒歌劇團（[黑木桃子](https://zh.wikipedia.org/wiki/黑木桃子 "wikilink")、[桑江咲菜](../Page/桑江咲菜.md "wikilink")、[松山メアリ](https://zh.wikipedia.org/wiki/松山メアリ "wikilink")、[大關英里](../Page/大關英里.md "wikilink")） / Produced by team GAJARI（影山浩宣、奥井雅美、雨宮慶太）
 
 <!-- end list -->
 
@@ -365,18 +363,13 @@
 ## 參考資料
 
   - [黃金騎士牙狼‧翔誕生　《牙狼-GOLDSTORM-翔》在台掀金色風暴](https://web.archive.org/web/20150709201226/http://news.sina.com.tw/article/20150331/14094362.html)
-  - [『牙狼＜GARO＞-GOLD
-    STORM-翔』新キャスト発表\!進化した"ガロ翔"の姿も明らかに](http://news.mynavi.jp/news/2015/02/04/220/)
-  - [『牙狼＜GARO＞-GOLD
-    STORM-翔』に井上正大が出演決定、雨宮監督「特撮ヒーローの中で一番悪い奴にしようと」](http://news.mynavi.jp/articles/2015/02/05/garo/)
+  - [『牙狼＜GARO＞-GOLD STORM-翔』新キャスト発表\!進化した"ガロ翔"の姿も明らかに](http://news.mynavi.jp/news/2015/02/04/220/)
+  - [『牙狼＜GARO＞-GOLD STORM-翔』に井上正大が出演決定、雨宮監督「特撮ヒーローの中で一番悪い奴にしようと」](http://news.mynavi.jp/articles/2015/02/05/garo/)
 
 ## 外部連結
 
   - [『牙狼〈GARO〉-GOLDSTORM- 翔』本片官網](http://garo-project.jp/GOLDSTORM/)
-      - [『牙狼〈GARO〉-GOLDSTORM-
-        翔』本片TV官網](http://garo-project.jp/GOLDSTORM_TV/)
-  - [東京電視台『牙狼〈GARO〉-GOLDSTORM-
-    翔』節目情報網頁](http://www.tv-tokyo.co.jp/anime/garo-gs/)
+      - [『牙狼〈GARO〉-GOLDSTORM- 翔』本片TV官網](http://garo-project.jp/GOLDSTORM_TV/)
+  - [東京電視台『牙狼〈GARO〉-GOLDSTORM- 翔』節目情報網頁](http://www.tv-tokyo.co.jp/anime/garo-gs/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")

@@ -1,32 +1,16 @@
 [D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink"){{、w}}[文佳煐](../Page/文佳煐.md "wikilink"){{、w}}
-[Baekhyun](../Page/伯賢.md "wikilink"){{、w}}[Sehun](../Page/Sehun.md "wikilink")
-| country =  | language =
-[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")（網路平台） /
-[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink") |
-num_seasons = | num_episodes = 16集（網路平台版） + 1集番外篇（第7集） |
-list_episodes = | runtime = | company = [oh\!boy
-project](http://blog.naver.com/ohboypj)
-[SM
-Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
-[LINE](../Page/LINE.md "wikilink") | distributor =
-[NAVER](../Page/NAVER.md "wikilink")
-[LINE](../Page/LINE.md "wikilink") | channel = [LINE
-TV](../Page/LINE_TV.md "wikilink"){{、w}}[NAVER TV
-CAST](https://zh.wikipedia.org/wiki/NAVER_TV_CAST "wikilink"){{、w}}[爱奇艺](../Page/爱奇艺.md "wikilink")
-| first_run = | first_aired =  | last_aired =  | preceded_by = |
-followed_by = | related =
+[Baekhyun](../Page/伯賢.md "wikilink"){{、w}}[Sehun](../Page/Sehun.md "wikilink") | country =  | language = [韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")（網路平台） / [繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink") | num_seasons = | num_episodes = 16集（網路平台版） + 1集番外篇（第7集） | list_episodes = | runtime = | company = [oh\!boy project](http://blog.naver.com/ohboypj)
+[SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+[LINE](../Page/LINE.md "wikilink") | distributor = [NAVER](../Page/NAVER.md "wikilink")
+[LINE](../Page/LINE.md "wikilink") | channel = [LINE TV](../Page/LINE_TV.md "wikilink"){{、w}}[NAVER TV CAST](https://zh.wikipedia.org/wiki/NAVER_TV_CAST "wikilink"){{、w}}[爱奇艺](../Page/爱奇艺.md "wikilink") | first_run = | first_aired =  | last_aired =  | preceded_by = | followed_by = | related =
 
 }}
 
-《**我的邻居是EXO**》（，）是自2015年4月9日播出的[偶像劇](../Page/偶像劇.md "wikilink")，[EXO将作为人气偶像组合登场](../Page/EXO.md "wikilink")，将成员的真实面貌和假想性格相结合的魅力角色预计将满足粉丝们的幻想。通过电视剧来學習戀爱的母胎单身及EXO的忠實粉絲「池妍熙」（[文佳煐飾](../Page/文佳煐.md "wikilink")）家隔壁，明星**EXO**搬家来之后发生的浪漫搞笑故事。
+《**我的邻居是EXO**》（，）是自2015年4月9日播出的[偶像劇](../Page/偶像劇.md "wikilink")，[EXO](../Page/EXO.md "wikilink")将作为人气偶像组合登场，将成员的真实面貌和假想性格相结合的魅力角色预计将满足粉丝们的幻想。通过电视剧来學習戀爱的母胎单身及EXO的忠實粉絲「池妍熙」（[文佳煐](../Page/文佳煐.md "wikilink")飾）家隔壁，明星**EXO**搬家来之后发生的浪漫搞笑故事。
 
-我的邻居是EXO不仅会在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")，还将会在[中国大陆](../Page/中国大陆.md "wikilink")、[日本](../Page/日本.md "wikilink")、[泰国](../Page/泰国.md "wikilink")、[台湾等](https://zh.wikipedia.org/wiki/台湾 "wikilink")[亚洲各地通过](../Page/亚洲.md "wikilink")[LINE
-TV](../Page/LINE_TV.md "wikilink")、[NAVER
-TV](https://zh.wikipedia.org/wiki/NAVER_TV "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[愛奇藝進行播出](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。在7日举行的「The
-EXO'luXion」EXO第二次单独演唱会上，已经率先公开了先行预告片。
+我的邻居是EXO不仅会在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")，还将会在[中国大陆](../Page/中国大陆.md "wikilink")、[日本](../Page/日本.md "wikilink")、[泰国](../Page/泰国.md "wikilink")、[台湾等](https://zh.wikipedia.org/wiki/台湾 "wikilink")[亚洲](../Page/亚洲.md "wikilink")各地通过[LINE TV](../Page/LINE_TV.md "wikilink")、[NAVER TV](https://zh.wikipedia.org/wiki/NAVER_TV "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[愛奇藝進行播出](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。在7日举行的「The EXO'luXion」EXO第二次单独演唱会上，已经率先公开了先行预告片。
 
-播出前於臺灣進行了秘密活動，且於節目中出現了2014年7月11日[EXO於臺北小巨蛋一巡的畫面](../Page/EXO.md "wikilink")，令臺灣粉絲欣喜不已。[臺灣透過](../Page/臺灣.md "wikilink")[LINE
-TV於](../Page/LINE_TV.md "wikilink")2015年4月9日起至2015年5月28日上架16集版本。
+播出前於臺灣進行了秘密活動，且於節目中出現了2014年7月11日[EXO](../Page/EXO.md "wikilink")於臺北小巨蛋一巡的畫面，令臺灣粉絲欣喜不已。[臺灣](../Page/臺灣.md "wikilink")透過[LINE TV於](../Page/LINE_TV.md "wikilink")2015年4月9日起至2015年5月28日上架16集版本。
 
 ## 演出列表
 
@@ -141,10 +125,6 @@ Soft Bank UURA</p></td>
 
 ## 外部連結
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:偽紀錄片電視劇](https://zh.wikipedia.org/wiki/Category:偽紀錄片電視劇 "wikilink")
-[Category:公寓背景電視劇](https://zh.wikipedia.org/wiki/Category:公寓背景電視劇 "wikilink")
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:偽紀錄片電視劇](https://zh.wikipedia.org/wiki/Category:偽紀錄片電視劇 "wikilink") [Category:公寓背景電視劇](https://zh.wikipedia.org/wiki/Category:公寓背景電視劇 "wikilink") [Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
 
-1.  [EXO Next
-    Door詳細播放資料](https://www.facebook.com/exok/photos/a.194144590678060.43798.172930792799440/828290173930162/?type=1&permPage=1)
+1.  [EXO Next Door詳細播放資料](https://www.facebook.com/exok/photos/a.194144590678060.43798.172930792799440/828290173930162/?type=1&permPage=1)

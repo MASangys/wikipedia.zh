@@ -1,10 +1,5 @@
-[GOT7](../Page/GOT7.md "wikilink"){{、w}}[李玟暎](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = | endtheme = | composer = | country =
-| language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") |
-num_seasons = | num_episodes = 12集 | list_episodes = | slogan = |
-executive_producer = | supervising_producer = | producer = | editor =
-| location = 仁川大學
+[GOT7](../Page/GOT7.md "wikilink"){{、w}}[李玟暎](https://zh.wikipedia.org/wiki/李玟暎 "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =
+ | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 12集 | list_episodes = | slogan = | executive_producer = | supervising_producer = | producer = | editor = | location = 仁川大學
 仁川松島G-Tower
 仁川松島Tri-bowl
 仁川中央公園
@@ -17,21 +12,10 @@ Homeplus（延壽店）
 StudioArtview
 SQUARE1購物中心
 Mecenatpolis購物中心
-KT\&G想像空間 | cinematography = | camera = | runtime = 12 -15分鐘 | company =
-JYP Pictures
-天世文化傳播 | distributor = | channel =優酷、土豆網 | picture_format = |
-audio_format = | first_run = | first_aired = | last_aired = |
-channel_1 = Naver TV Cast | picture_format_1 = | audio_format_1 = |
-first_run_1 =  | first_aired_1 =  | last_aired_1 =  | channel_2 =
-Line TV | picture_format_2 = | audio_format_2 = | first_run_2 =  |
-first_aired_2 =  | last_aired_2 =  | status = | preceded_by = |
-followed_by = | related = | website =<https://twitter.com/jyp_pictures>
-| production_website = }}
+KT\&G想像空間 | cinematography = | camera = | runtime = 12 -15分鐘 | company = JYP Pictures
+天世文化傳播 | distributor = | channel =優酷、土豆網 | picture_format = | audio_format = | first_run = | first_aired = | last_aired = | channel_1 = Naver TV Cast | picture_format_1 = | audio_format_1 = | first_run_1 =  | first_aired_1 =  | last_aired_1 =  | channel_2 = Line TV | picture_format_2 = | audio_format_2 = | first_run_2 =  | first_aired_2 =  | last_aired_2 =  | status = | preceded_by = | followed_by = | related = | website =<https://twitter.com/jyp_pictures> | production_website = }}
 
-《**Dream
-Knight**》（，）是中國[優酷土豆集團的子公司天世文化傳播與韓國JYP](https://zh.wikipedia.org/wiki/優酷土豆 "wikilink")
-Pictures共同製作拍攝的網路劇，由[JYP娛樂旗下男子團體](../Page/JYP娛樂.md "wikilink")[GOT7](../Page/GOT7.md "wikilink")、女演員[宋昰昀領銜主演](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")，以歌舞為主題，講述一名被傷痛折磨的少女和一群身分不明的美少年相遇，一起築構夢想、愛情與友情的奇幻校園故事。\[1\]
-2015年1月27日於中國、韓國、泰國三地播出首集。\[2\]
+《**Dream Knight**》（，）是中國[優酷土豆集團的子公司天世文化傳播與韓國JYP](https://zh.wikipedia.org/wiki/優酷土豆 "wikilink") Pictures共同製作拍攝的網路劇，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下男子團體[GOT7](../Page/GOT7.md "wikilink")、女演員[宋昰昀領銜主演](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")，以歌舞為主題，講述一名被傷痛折磨的少女和一群身分不明的美少年相遇，一起築構夢想、愛情與友情的奇幻校園故事。\[1\] 2015年1月27日於中國、韓國、泰國三地播出首集。\[2\]
 
 ## 演員陣容
 
@@ -489,17 +473,7 @@ Pictures共同製作拍攝的網路劇，由[JYP娛樂旗下男子團體](../Pag
 ## 外部連結
 
   -
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
-[Category:GOT7](https://zh.wikipedia.org/wiki/Category:GOT7 "wikilink")
-[Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink")
-[Category:2015年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年中國電視劇集 "wikilink")
-[Category:中國偶像劇](https://zh.wikipedia.org/wiki/Category:中國偶像劇 "wikilink")
-[Category:中國校園劇](https://zh.wikipedia.org/wiki/Category:中國校園劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:GOT7](https://zh.wikipedia.org/wiki/Category:GOT7 "wikilink") [Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink") [Category:2015年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年中國電視劇集 "wikilink") [Category:中國偶像劇](https://zh.wikipedia.org/wiki/Category:中國偶像劇 "wikilink") [Category:中國校園劇](https://zh.wikipedia.org/wiki/Category:中國校園劇 "wikilink")
 
 1.
 2.

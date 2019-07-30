@@ -1,4 +1,4 @@
-**小蝸牛Chu\!**（）是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的一個衍生組合](../Page/AKB48.md "wikilink")，也是48集團中另一個衍生組合「[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")」的正式官方對手\[1\]，由AKB48及HKT48中的7名年轻成员组成\[2\]。
+**小蝸牛Chu\!**（）是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的一個衍生組合，也是48集團中另一個衍生組合「[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")」的正式官方對手\[1\]，由AKB48及HKT48中的7名年轻成员组成\[2\]。
 
 ## 簡介
 
@@ -10,7 +10,7 @@
 
 <!-- end list -->
 
-  - 3月25日，在[埼玉超級競技場舉行的](../Page/埼玉超級競技場.md "wikilink")「[AKB48年輕成員全國巡迴演唱會～未來是由現在構成的～](https://zh.wikipedia.org/wiki/AKB48年輕成員全國巡迴演唱會～未來是由現在構成的～ "wikilink")」（）演唱會中，宣布小分隊成立\[4\]。
+  - 3月25日，在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的「[AKB48年輕成員全國巡迴演唱會～未來是由現在構成的～](https://zh.wikipedia.org/wiki/AKB48年輕成員全國巡迴演唱會～未來是由現在構成的～ "wikilink")」（）演唱會中，宣布小分隊成立\[4\]。
   - 5月20日，收录有首支歌曲《卡夫卡與小蝸牛Chu\!》（）的单曲唱片《[我們不戰鬥](../Page/我們不戰鬥.md "wikilink")》（）正式发行\[5\]。
 
 <!-- end list -->
@@ -19,10 +19,7 @@
 
 <!-- end list -->
 
-  - 3月18日，中心成員 [大和田南那](../Page/大和田南那.md "wikilink") 於
-    [AKB48劇場](../Page/AKB48劇場.md "wikilink") 以 Team
-    A「[獻給M.T.](../Page/Team_A_7th_Stage「獻給M.T.」.md "wikilink")」公演
-    作為畢業公演後 正式從AKB48畢業。\[6\]
+  - 3月18日，中心成員 [大和田南那](../Page/大和田南那.md "wikilink") 於 [AKB48劇場](../Page/AKB48劇場.md "wikilink") 以 Team A「[獻給M.T.](../Page/Team_A_7th_Stage「獻給M.T.」.md "wikilink")」公演 作為畢業公演後 正式從AKB48畢業。\[6\]
 
 ## 成員
 
@@ -182,10 +179,9 @@ DISC 2</p></td>
 
   - [AKB48官方網站](http://www.akb48.co.jp/)
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
-1.  《》中，由[朝長美櫻提及](../Page/朝長美櫻.md "wikilink") 播出日期：2015年6月14日
+1.  《》中，由[朝長美櫻](../Page/朝長美櫻.md "wikilink")提及 播出日期：2015年6月14日
 
 2.
 3.

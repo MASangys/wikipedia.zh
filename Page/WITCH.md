@@ -113,9 +113,7 @@
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

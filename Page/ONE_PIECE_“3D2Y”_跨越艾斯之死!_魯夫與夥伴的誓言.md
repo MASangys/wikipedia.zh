@@ -1,18 +1,14 @@
-《**ONE PIECE -{“~~3D~~2Y”}- 跨越艾斯之死！ 魯夫與夥伴的誓言**》（）是電視動畫《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2014年8月30日在日本[富士電視台播出](../Page/富士電視台.md "wikilink")。
+《**ONE PIECE -{“~~3D~~2Y”}- 跨越艾斯之死！ 魯夫與夥伴的誓言**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2014年8月30日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出。
 
 ## 製作
 
-該2小時特別節目為慶祝本作《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》電視動畫已播映15周年\[1\]。為「週六PREMIUM」時段播出的《[ONE
-PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第四彈。
+該2小時特別節目為慶祝本作《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》電視動畫已播映15周年\[1\]。為「週六PREMIUM」時段播出的《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第四彈。
 
 至於本作是原作與動畫未曾敘述過的故事為完全新作，劇情主要敘述魯夫在在暗號《3D2Y》中寄託的含義及「頂點戰爭」2年間霸氣的修行。
 
 ## 劇情簡介
 
-頂點戰爭結束之後，失去哥哥艾斯的魯夫為了走出悲傷，遂在露斯卡納伊島接受雷利的指導，進行為期兩年的霸氣修行。就在這個時候，一直被幽禁在推進城Level
-6的海賊「班迪·瓦爾德」越獄，並且率領過去的夥伴接連在各地的島嶼挑起事端，找海軍麻煩。世界政府為此緊急召集王下七武海，但得知此一消息的瓦爾德卻反過來利用這點，企圖以七武海之一的波雅·漢考克為人質，藉機摧毀海軍本部馬林福特。
+頂點戰爭結束之後，失去哥哥艾斯的魯夫為了走出悲傷，遂在露斯卡納伊島接受雷利的指導，進行為期兩年的霸氣修行。就在這個時候，一直被幽禁在推進城Level 6的海賊「班迪·瓦爾德」越獄，並且率領過去的夥伴接連在各地的島嶼挑起事端，找海軍麻煩。世界政府為此緊急召集王下七武海，但得知此一消息的瓦爾德卻反過來利用這點，企圖以七武海之一的波雅·漢考克為人質，藉機摧毀海軍本部馬林福特。
 
 為了解救漢考克的兩個妹妹桑塔索妮雅及瑪莉歌德，魯夫和漢考克決定與這位沒血沒淚的恐怖海賊以及他的海賊團展開一場大戰。而「鷹眼」密佛格、培羅娜、「小丑」巴其、Mr.3、赤犬、黃猿等人也會加入這場令人興奮的戰鬥中。
 
@@ -261,11 +257,9 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 
   - <span id="班迪·瓦爾德"></span>
     聲優：[古田新太](../Page/古田新太.md "wikilink")（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")、[錢欣郁](../Page/錢欣郁.md "wikilink")〔幼年時期〕（台灣）；待查詢、[王慧珠](../Page/王慧珠.md "wikilink")〔幼年時期〕（香港）
-    **瓦爾德海賊團**船長，通稱「瓦爾德」，被稱為「世界破壞者」，**懸賞金額：<s>2億貝里</s> （入獄前）→
-    5億貝里（逃獄後）**是曾與**[「海賊王」哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")**、**[「白鬍子」艾德華·紐蓋特](https://zh.wikipedia.org/wiki/白鬍子海賊團#艾德華·紐蓋特 "wikilink")**等一同讓世界政府和海軍畏懼的男人，年輕時十分保護哥哥賓杰克，但因為一件事的緣故，從此性情大變。
+    **瓦爾德海賊團**船長，通稱「瓦爾德」，被稱為「世界破壞者」，**懸賞金額：<s>2億貝里</s> （入獄前）→ 5億貝里（逃獄後）**是曾與**[「海賊王」哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")**、**[「白鬍子」艾德華·紐蓋特](https://zh.wikipedia.org/wiki/白鬍子海賊團#艾德華·紐蓋特 "wikilink")**等一同讓世界政府和海軍畏懼的男人，年輕時十分保護哥哥賓杰克，但因為一件事的緣故，從此性情大變。
     **超人系「[倍增果實](../Page/惡魔果實.md "wikilink")」**能力者（more，更加的意思），能讓接觸到的物體的大小、速度提升上百倍。掌握了六式中的**月步**和**剃**以及**[武裝色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")**、**[見聞色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")**
-    現年78歲（外表看來是45歲時的樣子）。30年前跟海軍和與其敵對的海賊的聯盟對決，但因爲[CP（CIPHER
-    POL）的介入](../Page/世界政府直屬秘密間諜機關.md "wikilink")，導致海賊團瓦解也因此被捕入獄。後來黑鬍子帶走四名最強的囚犯，連帶導致其逃脫。
+    現年78歲（外表看來是45歲時的樣子）。30年前跟海軍和與其敵對的海賊的聯盟對決，但因爲[CP（CIPHER POL）的介入](../Page/世界政府直屬秘密間諜機關.md "wikilink")，導致海賊團瓦解也因此被捕入獄。後來黑鬍子帶走四名最強的囚犯，連帶導致其逃脫。
     有著顛覆世界政府的巨大野心，認為夥伴和船都只是被利用的道具，沒有必要珍惜他們。最後被魯夫以「橡膠火拳槍」打敗後，企圖炸掉所有軍艦，但發射出的砲彈被鷹眼給斬開，最後生死不明。
 
 :\*;倍增百倍槍
@@ -442,21 +436,14 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
   - 小說
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| JUMP j-BOOKS \!colspan="2"|
-[東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 | 2014年 | ISBN
-978-4-08-703331-1 | 2017年6月12日 | ISBN 9789864863891 |}
+\!rowspan="2"|卷數 \!colspan="2"| JUMP j-BOOKS \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 | 2014年 | ISBN 978-4-08-703331-1 | 2017年6月12日 | ISBN 9789864863891 |}
 
 ## 參考資料
 
 ## 外部連結
 
-  - [《ONE
-    PIECE》電視動畫已播映15周年紀念特別篇](https://web.archive.org/web/20141006144427/http://j-books.shueisha.co.jp/news_newrelease/onepice_3d2y)
+  - [《ONE PIECE》電視動畫已播映15周年紀念特別篇](https://web.archive.org/web/20141006144427/http://j-books.shueisha.co.jp/news_newrelease/onepice_3d2y)
 
-[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
+[Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
 
 1.

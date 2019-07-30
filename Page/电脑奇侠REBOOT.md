@@ -4,14 +4,13 @@
 
 該作品係于2014年1月30日举行的[东映阵容发表会上正式发表](https://zh.wikipedia.org/wiki/东映 "wikilink")。以1972年至1973年播放的[特摄电视剧](https://zh.wikipedia.org/wiki/特摄 "wikilink")《[人造人间电脑奇侠](../Page/人造人间电脑奇侠.md "wikilink")》为题材，将原作者[石森章太郎的作品贴合](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")21世纪背景的警示性现代题材故事，并以最新的数字特摄（VFX）技术予以重拍（东映称之为“REBOOT”，即重新启动）。本电影以创造新的英雄电影为目的。
 
-以拍摄《[假面骑士系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")》为主的东映将许多过去的人气特摄作品重拍。自《人造人间电脑奇侠》这部写实制作的电视系列放映以来，已时隔约41年（1995年制作的spin
-out作品《[人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")》是只保留电脑黑魔一个角色的设定并另加入角色制作而成，并没有电脑奇侠的登场）。此次的电影化在[KADOKAWA的](../Page/KADOKAWA.md "wikilink")[井上伸一郎的强烈支持下实现](https://zh.wikipedia.org/wiki/井上伸一郎 "wikilink")，但是等待剧本脱稿的時間長達2年，制作也頗為耗时。
+以拍摄《[假面骑士系列](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")》为主的东映将许多过去的人气特摄作品重拍。自《人造人间电脑奇侠》这部写实制作的电视系列放映以来，已时隔约41年（1995年制作的spin out作品《[人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")》是只保留电脑黑魔一个角色的设定并另加入角色制作而成，并没有电脑奇侠的登场）。此次的电影化在[KADOKAWA](../Page/KADOKAWA.md "wikilink")的[井上伸一郎的强烈支持下实现](https://zh.wikipedia.org/wiki/井上伸一郎 "wikilink")，但是等待剧本脱稿的時間長達2年，制作也頗為耗时。
 
 主演次郎角色的演員，是首次擔任主角的年轻演员[入江甚仪](https://zh.wikipedia.org/wiki/入江甚仪 "wikilink")。其他的角色，有很多是由在东映外的公司制作的特摄作品中有演出经验的演员；并且电视剧版的《人造人间电脑奇侠》的次郎扮演者[伴大介在故事中演出关键人物的心理学者前野究治郎一角](https://zh.wikipedia.org/wiki/伴大介 "wikilink")。而结尾表明会有续集。
 
 ## 劇情大綱
 
-場景是公元2014年，[机器人工学发达的未来的日本](../Page/机器人.md "wikilink")。以應對人类残酷问题的为主的国家級机器人研發計畫“ARK项目”开始实施。
+場景是公元2014年，[机器人](../Page/机器人.md "wikilink")工学发达的未来的日本。以應對人类残酷问题的为主的国家級机器人研發計畫“ARK项目”开始实施。
 
 项目迎来了最终阶段。但这时，负责人之一的光明寺博士在事故中丧生。女儿满子对事故发生产生了重大疑问，不久她和博士的年幼儿子、满子的弟弟胜被神秘的人物袭击。当被追杀的二人走投无路的时候，青年次郎出现在追击者面前。追击者强大的力量引发了危机，使次郎隐藏的力量释放。他其实是光明寺博士为了保护女儿和儿子两人而制造出的人造人（机械人）电脑奇侠。
 
@@ -53,8 +52,7 @@ out作品《[人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")》是
 
   - 椿谷
     中村育二饰
-    日本国家国防大臣，热衷于机械人的军事化研究，把“ARK项目”放在首位。认为与现在的首席科学家吉尔伯特
-    神崎做的东西相比，已故的光明寺博士的Android（机械人）更有想法，渴望得到博士的儿子胜身体里的“光明寺文件”并开发更多战斗用机械人。
+    日本国家国防大臣，热衷于机械人的军事化研究，把“ARK项目”放在首位。认为与现在的首席科学家吉尔伯特 神崎做的东西相比，已故的光明寺博士的Android（机械人）更有想法，渴望得到博士的儿子胜身体里的“光明寺文件”并开发更多战斗用机械人。
 
 <!-- end list -->
 
@@ -115,8 +113,7 @@ out作品《[人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")》是
 <!-- end list -->
 
   - 良心电路
-    电脑奇侠 /
-    次郎搭载的拥有人类的“感情”和“心”的核心机体。因光明寺博士死亡而未完成，所以当其在获取外界的数据加以分析和判断时，会被单纯的“善”或“恶”所左右。复杂的状况下善恶的难以分辨的情况也很多，令次郎“烦恼”。
+    电脑奇侠 / 次郎搭载的拥有人类的“感情”和“心”的核心机体。因光明寺博士死亡而未完成，所以当其在获取外界的数据加以分析和判断时，会被单纯的“善”或“恶”所左右。复杂的状况下善恶的难以分辨的情况也很多，令次郎“烦恼”。
     电脑奇侠两个身体颜色“蓝”是善之心，“赤”是恶之心。“纳米结晶显示器”可映射得到了的东西，假如得到了完整的“良心”，全身就会被“蓝”覆盖。但是，相反良心电路关闭的时候，“赤”就像“蓝”的那样覆盖全身。
 
 <!-- end list -->
@@ -141,9 +138,4 @@ out作品《[人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")》是
   - [人造人间](https://zh.wikipedia.org/wiki/电脑奇侠#动画 "wikilink")
   - [电脑奇侠](../Page/电脑奇侠.md "wikilink")
 
-[Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:重制特摄](https://zh.wikipedia.org/wiki/Category:重制特摄 "wikilink")
-[Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink")
-[Category:2010年代特摄作品](https://zh.wikipedia.org/wiki/Category:2010年代特摄作品 "wikilink")
-[Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink")
+[Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:重制特摄](https://zh.wikipedia.org/wiki/Category:重制特摄 "wikilink") [Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink") [Category:2010年代特摄作品](https://zh.wikipedia.org/wiki/Category:2010年代特摄作品 "wikilink") [Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink")

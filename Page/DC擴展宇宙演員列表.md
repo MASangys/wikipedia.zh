@@ -1,20 +1,8 @@
-[DC擴展宇宙是一個](../Page/DC擴展宇宙.md "wikilink")[跨媒體製作的](../Page/跨媒體製作.md "wikilink")[共同](../Page/共同世界.md "wikilink")[虛構宇宙](https://zh.wikipedia.org/wiki/虛構宇宙 "wikilink")，為[華納兄弟影業公司所製作發展的](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[DC漫畫](../Page/DC漫畫.md "wikilink")[超級英雄電影世界觀](../Page/超級英雄電影.md "wikilink")，基於出現在DC漫畫出版物中的角色所創作。
+[DC擴展宇宙](../Page/DC擴展宇宙.md "wikilink")是一個[跨媒體製作](../Page/跨媒體製作.md "wikilink")的[共同](../Page/共同世界.md "wikilink")[虛構宇宙](https://zh.wikipedia.org/wiki/虛構宇宙 "wikilink")，為[華納兄弟影業公司所製作發展的](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[DC漫畫](../Page/DC漫畫.md "wikilink")[超級英雄電影](../Page/超級英雄電影.md "wikilink")世界觀，基於出現在DC漫畫出版物中的角色所創作。
 
-由於DC擴展宇宙電影根據多部DC漫畫出版物改編而成，於是有著多位主角。最早，[亨利·卡維爾在](../Page/亨利·卡維爾.md "wikilink")《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》（2013年）和《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》（2016年）飾演[凱·艾爾
-/ 克拉克·肯特 /
-超人](../Page/超人.md "wikilink")，而[班·艾佛列克飾演的](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")[布魯斯·韋恩
-/
-蝙蝠俠](../Page/蝙蝠俠.md "wikilink")、[蓋兒·加朵飾演的](https://zh.wikipedia.org/wiki/蓋兒·加朵 "wikilink")[黛安娜·普林斯
-/
-神力女超人也在](https://zh.wikipedia.org/wiki/神力女超人_\(DC漫畫\) "wikilink")《正義曙光》和獨立電影《[神力女超人](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》（2017年）中登場；這三位演員同樣將分別於《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》（2017年）和《正義聯盟2》（2019年）中飾演自己的角色。演員[雷·費雪和](../Page/雷·費雪.md "wikilink")[傑森·摩莫亞分別詮釋的](https://zh.wikipedia.org/wiki/傑森·摩莫亞 "wikilink")[維克多·史東
-/ 鋼骨](../Page/鋼骨_\(漫畫\).md "wikilink")、[亞瑟·庫瑞 /
-水行俠除了出現在](../Page/水行俠.md "wikilink")《正義曙光》外，還將出演自己的獨立電影《鋼骨》（2020年）與《水行俠》（2018年），而飾演[貝瑞·艾倫
-/
-閃電俠的](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")[伊薩·米勒也參與了獨立電影](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")《閃電俠》的演出。[巨石強森將在](../Page/巨石強森.md "wikilink")《黑亞當》（TBA）中飾演[黑亞當](../Page/黑亞當.md "wikilink")，而[柴克·萊威則會在](../Page/柴克·萊威.md "wikilink")《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》（2019年）中飾演[比利·巴特森
-/
-沙贊](https://zh.wikipedia.org/wiki/驚奇隊長_\(DC漫畫\) "wikilink")。，而演出蝙蝠俠對超人及正義聯盟的班·艾佛列克目前正式宣告退出DC宇宙，並不會參與之後未具名的蝙蝠俠獨立電影。
+由於DC擴展宇宙電影根據多部DC漫畫出版物改編而成，於是有著多位主角。最早，[亨利·卡維爾](../Page/亨利·卡維爾.md "wikilink")在《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》（2013年）和《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》（2016年）飾演[凱·艾爾 / 克拉克·肯特 / 超人](../Page/超人.md "wikilink")，而[班·艾佛列克飾演的](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")[布魯斯·韋恩 / 蝙蝠俠](../Page/蝙蝠俠.md "wikilink")、[蓋兒·加朵飾演的](https://zh.wikipedia.org/wiki/蓋兒·加朵 "wikilink")[黛安娜·普林斯 / 神力女超人也在](https://zh.wikipedia.org/wiki/神力女超人_\(DC漫畫\) "wikilink")《正義曙光》和獨立電影《[神力女超人](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》（2017年）中登場；這三位演員同樣將分別於《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》（2017年）和《正義聯盟2》（2019年）中飾演自己的角色。演員[雷·費雪](../Page/雷·費雪.md "wikilink")和[傑森·摩莫亞分別詮釋的](https://zh.wikipedia.org/wiki/傑森·摩莫亞 "wikilink")[維克多·史東 / 鋼骨](../Page/鋼骨_\(漫畫\).md "wikilink")、[亞瑟·庫瑞 / 水行俠除了出現在](../Page/水行俠.md "wikilink")《正義曙光》外，還將出演自己的獨立電影《鋼骨》（2020年）與《水行俠》（2018年），而飾演[貝瑞·艾倫 / 閃電俠的](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")[伊薩·米勒也參與了獨立電影](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")《閃電俠》的演出。[巨石強森](../Page/巨石強森.md "wikilink")將在《黑亞當》（TBA）中飾演[黑亞當](../Page/黑亞當.md "wikilink")，而[柴克·萊威](../Page/柴克·萊威.md "wikilink")則會在《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》（2019年）中飾演[比利·巴特森 / 沙贊](https://zh.wikipedia.org/wiki/驚奇隊長_\(DC漫畫\) "wikilink")。，而演出蝙蝠俠對超人及正義聯盟的班·艾佛列克目前正式宣告退出DC宇宙，並不會參與之後未具名的蝙蝠俠獨立電影。
 
-其他飾演[常設角色的演員包含](https://zh.wikipedia.org/wiki/常設角色 "wikilink")[艾美·亞當斯](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")、[威廉·達佛](../Page/威廉·達佛.md "wikilink")、[傑西·艾森柏格](../Page/傑西·艾森柏格.md "wikilink")、[勞倫斯·費許朋](../Page/勞倫斯·費許朋.md "wikilink")、[安柏·赫德](https://zh.wikipedia.org/wiki/安柏·赫德 "wikilink")、[傑瑞米·艾恩斯](../Page/傑瑞米·艾恩斯.md "wikilink")、[黛安·蓮恩](https://zh.wikipedia.org/wiki/黛安·蓮恩 "wikilink")、[康妮·尼爾森](../Page/康妮·尼爾森.md "wikilink")、[瑪格·羅比以及](https://zh.wikipedia.org/wiki/瑪格·羅比 "wikilink")[J·K·西蒙斯等人](../Page/J·K·西蒙斯.md "wikilink")。
+其他飾演[常設角色的演員包含](https://zh.wikipedia.org/wiki/常設角色 "wikilink")[艾美·亞當斯](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")、[威廉·達佛](../Page/威廉·達佛.md "wikilink")、[傑西·艾森柏格](../Page/傑西·艾森柏格.md "wikilink")、[勞倫斯·費許朋](../Page/勞倫斯·費許朋.md "wikilink")、[安柏·赫德](https://zh.wikipedia.org/wiki/安柏·赫德 "wikilink")、[傑瑞米·艾恩斯](../Page/傑瑞米·艾恩斯.md "wikilink")、[黛安·蓮恩](https://zh.wikipedia.org/wiki/黛安·蓮恩 "wikilink")、[康妮·尼爾森](../Page/康妮·尼爾森.md "wikilink")、[瑪格·羅比以及](https://zh.wikipedia.org/wiki/瑪格·羅比 "wikilink")[J·K·西蒙斯](../Page/J·K·西蒙斯.md "wikilink")等人。
 
 ## 演員和角色
 

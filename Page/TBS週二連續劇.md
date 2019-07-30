@@ -6,7 +6,7 @@
 
 #### 2014年
 
-  - 4月22日－6月24日：**[總會有辦法的2](../Page/總會有辦法的.md "wikilink")**（）
+  - 4月22日－6月24日：**[總會有辦法的](../Page/總會有辦法的.md "wikilink")2**（）
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - 7月15日－9月9日：**[東京猩紅～警視廳NS係](../Page/東京猩紅.md "wikilink")**（）
+  - 7月15日－9月9日：**[東京猩紅](../Page/東京猩紅.md "wikilink")～警視廳NS係**（）
 
 <!-- end list -->
 
@@ -46,8 +46,7 @@
 
 <!-- end list -->
 
-  - 4月14日－6月16日：**[Mother
-    Game～她們的階級～](../Page/Mother_Game～她們的階級～.md "wikilink")**（）
+  - 4月14日－6月16日：**[Mother Game～她們的階級～](../Page/Mother_Game～她們的階級～.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -174,8 +173,7 @@
 
 <!-- end list -->
 
-  - 4月17日－6月26日：**[花過天晴～花樣男子 Next
-    Season～](../Page/花過天晴～花樣男子_Next_Season～.md "wikilink")**（）
+  - 4月17日－6月26日：**[花過天晴～花樣男子 Next Season～](../Page/花過天晴～花樣男子_Next_Season～.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -583,12 +581,8 @@
 
   - [TBS電視台官方網站 \> 戲劇、電影網頁](http://www.tbs.co.jp/drama/)
 
-[Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink")
-[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink")
-[Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
+[Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink") [Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
 
-1.  [八大電視與日本TBS電視台跨國合作 開闙日劇時段「TBS劇場」 -
-    八大電視新聞稿 2014.02.25](http://www.gtv.com.tw/News/20140225001/)
-    ，僅引進-{《[總會有辦法2](../Page/總會有辦法的.md "wikilink")》}-。
+1.  [八大電視與日本TBS電視台跨國合作 開闙日劇時段「TBS劇場」 - 八大電視新聞稿 2014.02.25](http://www.gtv.com.tw/News/20140225001/) ，僅引進-{《[總會有辦法2](../Page/總會有辦法的.md "wikilink")》}-。
 2.  僅引進-{《[拜託請愛我](https://zh.wikipedia.org/wiki/拜託請愛我 "wikilink")》}-及-{《[月薪嬌妻](https://zh.wikipedia.org/wiki/月薪嬌妻 "wikilink")》}-。
 3.  僅引進-{《[毫不保留的愛](../Page/毫不保留的愛.md "wikilink")》}-。

@@ -104,17 +104,10 @@
 
 ## 参考资料
 
-  - [NATO, the European Union, and the Atlantic Community: The
-    Transatlantic
-    ...](https://books.google.com/books?id=dVo2AAAAQBAJ&pg=PA30&dq=%22NATO+targets%22&sa=X&ei=XTPsVIS5Jtfs8AXLz4LIAw&ved=0CEEQ6AEwBQ#v=onepage&q=NATO%20targets&f=false)
-  - [NATO's Air War for Kosovo: A Strategic and Operational
-    Assessment](https://books.google.com/books?id=-IGzjxaoBpgC&pg=PA23&dq=%22NATO+targets%22&sa=X&ei=XTPsVIS5Jtfs8AXLz4LIAw&ved=0CB0Q6AEwAA#v=onepage&q=%22NATO%20targets%22&f=false)
-  - [NATO's Future: Toward a New Transatlantic
-    Bargain](https://books.google.com/books?id=kI6aAWwiU_YC&pg=PA20&dq=%22NATO+targets%22&sa=X&ei=XTPsVIS5Jtfs8AXLz4LIAw&ved=0CCwQ6AEwAg#v=onepage&q=%22NATO%20targets%22&f=false)
+  - [NATO, the European Union, and the Atlantic Community: The Transatlantic ...](https://books.google.com/books?id=dVo2AAAAQBAJ&pg=PA30&dq=%22NATO+targets%22&sa=X&ei=XTPsVIS5Jtfs8AXLz4LIAw&ved=0CEEQ6AEwBQ#v=onepage&q=NATO%20targets&f=false)
+  - [NATO's Air War for Kosovo: A Strategic and Operational Assessment](https://books.google.com/books?id=-IGzjxaoBpgC&pg=PA23&dq=%22NATO+targets%22&sa=X&ei=XTPsVIS5Jtfs8AXLz4LIAw&ved=0CB0Q6AEwAA#v=onepage&q=%22NATO%20targets%22&f=false)
+  - [NATO's Future: Toward a New Transatlantic Bargain](https://books.google.com/books?id=kI6aAWwiU_YC&pg=PA20&dq=%22NATO+targets%22&sa=X&ei=XTPsVIS5Jtfs8AXLz4LIAw&ved=0CCwQ6AEwAg#v=onepage&q=%22NATO%20targets%22&f=false)
 
-[Category:北大西洋公约组织](https://zh.wikipedia.org/wiki/Category:北大西洋公约组织 "wikilink")
-[Category:军事学说](https://zh.wikipedia.org/wiki/Category:军事学说 "wikilink")
-[Category:各組織標準](https://zh.wikipedia.org/wiki/Category:各組織標準 "wikilink")
-[Category:军事学](https://zh.wikipedia.org/wiki/Category:军事学 "wikilink")
+[Category:北大西洋公约组织](https://zh.wikipedia.org/wiki/Category:北大西洋公约组织 "wikilink") [Category:军事学说](https://zh.wikipedia.org/wiki/Category:军事学说 "wikilink") [Category:各組織標準](https://zh.wikipedia.org/wiki/Category:各組織標準 "wikilink") [Category:军事学](https://zh.wikipedia.org/wiki/Category:军事学 "wikilink")
 
 1.

@@ -1,8 +1,8 @@
-《**Color**》為一張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2007年7月10日發行，為[香港組合](../Page/香港.md "wikilink")[Kolor推出的首張粵語大碟](../Page/Kolor.md "wikilink")。
+《**Color**》為一張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2007年7月10日發行，為[香港](../Page/香港.md "wikilink")組合[Kolor](../Page/Kolor.md "wikilink")推出的首張粵語大碟。
 
 ## 介紹
 
-本張專輯為香港新樂團[Kolor於](../Page/Kolor.md "wikilink")2007年發行的首張粵語專輯，名為《Color》，本張專輯裡收錄了10首歌曲。
+本張專輯為香港新樂團[Kolor](../Page/Kolor.md "wikilink")於2007年發行的首張粵語專輯，名為《Color》，本張專輯裡收錄了10首歌曲。
 
 ## 曲目
 
@@ -23,6 +23,4 @@
 
   - [Kolor](../Page/Kolor.md "wikilink")
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:Kolor](https://zh.wikipedia.org/wiki/Category:Kolor "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:Kolor](https://zh.wikipedia.org/wiki/Category:Kolor "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")

@@ -1,6 +1,4 @@
-是[日本的一家](../Page/日本.md "wikilink")[电子游戏开发商及](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")[发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，从属于[多玩国](https://zh.wikipedia.org/wiki/多玩国 "wikilink")。\[1\]
-公司成立于2012年4月1日，由日本游戏厂商[Spike和](../Page/Spike_\(公司\).md "wikilink")[Chunsoft合并而来](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")。除了合并前两家的游戏系列，Spike
-Chunsoft还负责了一些西方游戏在日本地区的发行工作。
+是[日本](../Page/日本.md "wikilink")的一家[电子游戏开发商及](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")[发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，从属于[多玩国](https://zh.wikipedia.org/wiki/多玩国 "wikilink")。\[1\] 公司成立于2012年4月1日，由日本游戏厂商[Spike和](../Page/Spike_\(公司\).md "wikilink")[Chunsoft合并而来](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")。除了合并前两家的游戏系列，Spike Chunsoft还负责了一些西方游戏在日本地区的发行工作。
 
 ## 公司作品
 
@@ -69,7 +67,7 @@ Windows</p></td>
 2013年5月17日（欧洲）</p></td>
 <td><p>動作角色扮演</p></td>
 <td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a></p></td>
-<td><p>与<a href="https://zh.wikipedia.org/wiki/神奇寶貝_(企業)" title="wikilink">神奇寶貝公司联合制作</a>，并由神奇寶貝公司与<a href="../Page/任天堂.md" title="wikilink">任天堂发行</a></p></td>
+<td><p>与<a href="https://zh.wikipedia.org/wiki/神奇寶貝_(企業)" title="wikilink">神奇寶貝公司联合制作</a>，并由神奇寶貝公司与<a href="../Page/任天堂.md" title="wikilink">任天堂</a>发行</p></td>
 </tr>
 <tr class="odd">
 <td><p>HEROES' VS<br />
@@ -117,7 +115,7 @@ Windows</p></td>
 <td><p>角色扮演</p></td>
 <td><p>任天堂3DS<br />
 <a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a></p></td>
-<td><p>欧美地区交由<a href="../Page/Atlus.md" title="wikilink">Atlus发行</a></p></td>
+<td><p>欧美地区交由<a href="../Page/Atlus.md" title="wikilink">Atlus</a>发行</p></td>
 </tr>
 <tr class="even">
 <td><p>槍彈辯駁1·2 Reload<br />
@@ -325,13 +323,6 @@ Windows</p></td>
 ## 外部链接
 
   -
-[Category:Spike_Chunsoft](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft "wikilink")
-[Category:2012年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2012年開業電子遊戲公司 "wikilink")
-[Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink")
-[Category:日本电子游戏公司](https://zh.wikipedia.org/wiki/Category:日本电子游戏公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:电子游戏发行商](https://zh.wikipedia.org/wiki/Category:电子游戏发行商 "wikilink")
-[Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink")
+[Category:Spike_Chunsoft](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft "wikilink") [Category:2012年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2012年開業電子遊戲公司 "wikilink") [Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink") [Category:日本电子游戏公司](https://zh.wikipedia.org/wiki/Category:日本电子游戏公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:电子游戏发行商](https://zh.wikipedia.org/wiki/Category:电子游戏发行商 "wikilink") [Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink")
 
-1.  [Dwango
-    History](http://info.dwango.co.jp/english/history/).Dwango.\[2014-12-19\].
+1.  [Dwango History](http://info.dwango.co.jp/english/history/).Dwango.\[2014-12-19\].

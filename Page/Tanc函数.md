@@ -3,10 +3,7 @@
   -
     \(\operatorname{Tanc}(z)=\frac {\tan(z) }{z}\)
 
-[Tanc_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanc_2D_plot.png "fig:Tanc_2D_plot.png")
-[Tanc'(z)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanc'\(z\)_2D_plot.png "fig:Tanc'(z)_2D_plot.png")
-[Tanc_integral.png](https://zh.wikipedia.org/wiki/File:Tanc_integral.png "fig:Tanc_integral.png")
-[Tanc_integral_3D_plot.png](https://zh.wikipedia.org/wiki/File:Tanc_integral_3D_plot.png "fig:Tanc_integral_3D_plot.png")
+[Tanc_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanc_2D_plot.png "fig:Tanc_2D_plot.png") [Tanc'(z)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanc'\(z\)_2D_plot.png "fig:Tanc'(z)_2D_plot.png") [Tanc_integral.png](https://zh.wikipedia.org/wiki/File:Tanc_integral.png "fig:Tanc_integral.png") [Tanc_integral_3D_plot.png](https://zh.wikipedia.org/wiki/File:Tanc_integral_3D_plot.png "fig:Tanc_integral_3D_plot.png")
 
   - 虚域虚部
 
@@ -44,8 +41,7 @@
 
 <!-- end list -->
 
-  - <math> -\\operatorname{Re} \\left( -\\frac {1-
-    (\\tan(x+iy))^2}{x+iy} +\\frac{\\tan(x+iy)}{(x+iy)^2} \\right)
+  - <math> -\\operatorname{Re} \\left( -\\frac {1- (\\tan(x+iy))^2}{x+iy} +\\frac{\\tan(x+iy)}{(x+iy)^2} \\right)
 
 `   `</math>
 
@@ -53,8 +49,7 @@
 
 <!-- end list -->
 
-  - <math>-\\operatorname{Im} \\left( -\\frac {1-(\\tan(x+iy))^2}{x+iy}
-    + \\frac {\\tan(x+iy)}{(x+iy)^2} \\right)
+  - <math>-\\operatorname{Im} \\left( -\\frac {1-(\\tan(x+iy))^2}{x+iy} + \\frac {\\tan(x+iy)}{(x+iy)^2} \\right)
 
 `    `</math>
 
@@ -66,36 +61,28 @@
 
 ## 与其他特殊函数的关系
 
-  - <math>\\operatorname{Tanc}(z)={\\frac {2\\,i{{\\rm
-    KummerM}\\left(1,\\,2,\\,2\\,iz\\right)}}{ \\left( 2\\,z+\\pi
+  - <math>\\operatorname{Tanc}(z)={\\frac {2\\,i{{\\rm KummerM}\\left(1,\\,2,\\,2\\,iz\\right)}}{ \\left( 2\\,z+\\pi
 
 `\right) {{\rm KummerM}\left(1,\,2,\,i \left( 2\,z+\pi  \right) \right)}}}`</math>
 
-  - <math>\\operatorname{Tanc}(z)={\\frac {2\\,i{\\it HeunB} \\left(
-    2,0,0,0,\\sqrt {2}\\sqrt {iz} \\right) }{
+  - <math>\\operatorname{Tanc}(z)={\\frac {2\\,i{\\it HeunB} \\left( 2,0,0,0,\\sqrt {2}\\sqrt {iz} \\right) }{
 
 `\left( 2\,z+\pi  \right) {\it HeunB} \left( 2,0,0,0,\sqrt {2}\sqrt {1`
 
 /2\\,i \\left( 2\\,z+\\pi \\right) } \\right) }} </math>
 
-  - <math>\\operatorname{Tanc}(z)={\\frac {{{\\rm
-    WhittakerM}\\left(0,\\,1/2,\\,2\\,iz\\right)}}{
+  - <math>\\operatorname{Tanc}(z)={\\frac {{{\\rm WhittakerM}\\left(0,\\,1/2,\\,2\\,iz\\right)}}{
 
-{{\\rm WhittakerM}\\left(0,\\,1/2,\\,i \\left( 2\\,z+\\pi \\right)
-\\right)}z}}
+{{\\rm WhittakerM}\\left(0,\\,1/2,\\,i \\left( 2\\,z+\\pi \\right) \\right)}z}}
 
 </math>
 
 ## 级数展开
 
   -
-    <math>\\operatorname{Tanc} z \\approx (1+{\\frac
-    {1}{3}}{z}^{2}+{\\frac {2}{15}}{z}^{4}+{\\frac
-    {17}{315}}{z}^{6}+{\\frac {62}{2835}}{z}^{8}+{\\frac
-    {1382}{155925}}{z}^{10}+{\\frac {
+    <math>\\operatorname{Tanc} z \\approx (1+{\\frac {1}{3}}{z}^{2}+{\\frac {2}{15}}{z}^{4}+{\\frac {17}{315}}{z}^{6}+{\\frac {62}{2835}}{z}^{8}+{\\frac {1382}{155925}}{z}^{10}+{\\frac {
 
-21844}{6081075}}{z}^{12}+{\\frac {929569}{638512875}}{z}^{14}+O \\left(
-{z}^{16} \\right) )</math>
+21844}{6081075}}{z}^{12}+{\\frac {929569}{638512875}}{z}^{14}+O \\left( {z}^{16} \\right) )</math>
 
 \(\int _{0}^{z}\!{\frac {\tan \left( x \right) }{x}}{dx}=(z+{\frac {1}{9
 }}{z}^{3}+{\frac {2}{75}}{z}^{5}+{\frac {17}{2205}}{z}^{7}+{\frac {62}
@@ -142,5 +129,4 @@
 
 [Category:特殊函数](https://zh.wikipedia.org/wiki/Category:特殊函数 "wikilink")
 
-1.  Weisstein, Eric W. "Tanc Function." From MathWorld--A Wolfram Web
-    Resource. <http://mathworld.wolfram.com/TancFunction.html>
+1.  Weisstein, Eric W. "Tanc Function." From MathWorld--A Wolfram Web Resource. <http://mathworld.wolfram.com/TancFunction.html>

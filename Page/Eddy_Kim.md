@@ -1,15 +1,10 @@
-**Eddy
-Kim**（；），原名**金正煥**（），韓國創作男歌手。他在2012年參加[Mnet媒體的音樂選秀節目](../Page/Mnet媒體.md "wikilink")《[Superstar
-K4](https://zh.wikipedia.org/wiki/Superstar_K4 "wikilink")》中獲得第六名\[1\]而為人所知，後簽約為[Mystic娛樂旗下歌手](../Page/Mystic娛樂.md "wikilink")。2017年6月28日與[Girl's
-Day](../Page/Girl's_Day.md "wikilink")[素珍公開交往](https://zh.wikipedia.org/wiki/素珍 "wikilink")。\[2\]，12月27日公開分手消息。\[3\]
+**Eddy Kim**（；），原名**金正煥**（），韓國創作男歌手。他在2012年參加[Mnet媒體](../Page/Mnet媒體.md "wikilink")的音樂選秀節目《[Superstar K4](https://zh.wikipedia.org/wiki/Superstar_K4 "wikilink")》中獲得第六名\[1\]而為人所知，後簽約為[Mystic娛樂](../Page/Mystic娛樂.md "wikilink")旗下歌手。2017年6月28日與[Girl's Day](../Page/Girl's_Day.md "wikilink")[素珍公開交往](https://zh.wikipedia.org/wiki/素珍 "wikilink")。\[2\]，12月27日公開分手消息。\[3\]
 
 ## 爭議
 
 ### 鄭俊英對話群組醜聞
 
-2019年3月31日，Eddy
-Kim被首爾地方警察局以鄭俊英對話群組事件關係人身分進行2小時偵訊後，列為嫌疑人立案。同年4月4日，MBC《News
-Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節取消表演\[4\]。
+2019年3月31日，Eddy Kim被首爾地方警察局以鄭俊英對話群組事件關係人身分進行2小時偵訊後，列為嫌疑人立案。同年4月4日，MBC《News Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節取消表演\[4\]。
 
 ## 音樂作品
 
@@ -296,14 +291,7 @@ Desk》確認為第10名涉案的藝人，立即被韓國Green Plugged音樂節�
   -
   -
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
-[Category:伯克利音樂學院校友](https://zh.wikipedia.org/wiki/Category:伯克利音樂學院校友 "wikilink")
-[Category:Mystic娛樂](https://zh.wikipedia.org/wiki/Category:Mystic娛樂 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink") [Category:伯克利音樂學院校友](https://zh.wikipedia.org/wiki/Category:伯克利音樂學院校友 "wikilink") [Category:Mystic娛樂](https://zh.wikipedia.org/wiki/Category:Mystic娛樂 "wikilink")
 
 1.
 2.

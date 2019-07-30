@@ -1,8 +1,4 @@
-《**MeltyMoment**》是日本[HOOKSOFT在](../Page/HOOKSOFT.md "wikilink")2014年1月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年8月29日發售《MeltyMoment
-ミニファンディスク 葵＆鏡水Ver》。\[3\]2014年9月26日發售《MeltyMoment ミニファンディスク
-すみれ＆千恵美Ver》。\[4\][DMM.com於](../Page/DMM.com.md "wikilink")2015年3月6日獨家販售DL版。\[5\]由[GN
-Software在](../Page/GN_Software.md "wikilink")2015年12月17日發售[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]\[7\]
+《**MeltyMoment**》是日本[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2014年1月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年8月29日發售《MeltyMoment ミニファンディスク 葵＆鏡水Ver》。\[3\]2014年9月26日發售《MeltyMoment ミニファンディスク すみれ＆千恵美Ver》。\[4\][DMM.com](../Page/DMM.com.md "wikilink")於2015年3月6日獨家販售DL版。\[5\]由[GN Software在](../Page/GN_Software.md "wikilink")2015年12月17日發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]\[7\]
 
 ## 故事
 
@@ -70,8 +66,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]\[7\]
 
 ## 評價
 
-《MeltyMoment》獲得「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2014」純愛系作品賞的金獎和1月的月間獎\[9\]，另外在2014年間排名獲得第22名。\[10\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1410號的クロスレビュー對PlayStation
-Vita版給予27/40分。\[11\]
+《MeltyMoment》獲得「[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2014」純愛系作品賞的金獎和1月的月間獎\[9\]，另外在2014年間排名獲得第22名。\[10\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1410號的クロスレビュー對PlayStation Vita版給予27/40分。\[11\]
 
 ## 相關商品
 
@@ -116,26 +111,16 @@ DISC1  DISC2
   - [英文版官方網站](http://meltymoment.nekonyansoft.com/)NekoNyan
   - [漫畫版介紹頁](https://web.archive.org/web/20170630092533/http://comicdangan.com/manga/melty/)コミックダンガン
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
-1.  [-メルティモーメント- 初回限定 Memorial
-    Edition](http://www.getchu.com/soft.phtml?id=778172MeltyMoment)Getchu.com
+1.  [-メルティモーメント- 初回限定 Memorial Edition](http://www.getchu.com/soft.phtml?id=778172MeltyMoment)Getchu.com
 2.  [Melty Moment](https://vndb.org/v12830)The Visual Novel Database
-3.  [MeltyMoment ミニファンディスク
-    葵＆鏡水Ver.](http://www.getchu.com/soft.phtml?id=816723)Getchu.com
-4.  [MeltyMoment ミニファンディスク
-    すみれ＆千恵美Ver.](http://www.getchu.com/soft.phtml?id=816724)Getchu.com
+3.  [MeltyMoment ミニファンディスク 葵＆鏡水Ver.](http://www.getchu.com/soft.phtml?id=816723)Getchu.com
+4.  [MeltyMoment ミニファンディスク すみれ＆千恵美Ver.](http://www.getchu.com/soft.phtml?id=816724)Getchu.com
 5.
 6.
 7.  [MeltyMoment](http://www.4gamer.net/games/320/G032032/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
-8.  [MeltyMoment
-    －メルティモーメント－](http://erogetrailers.com/soft/10706)ErogeTrailers
+8.  [MeltyMoment －メルティモーメント－](http://erogetrailers.com/soft/10706)ErogeTrailers
 9.
 10. [2014年間ランキング](http://moe-gameaward.com/annual/2014.html)萌えゲーアワード
 11.

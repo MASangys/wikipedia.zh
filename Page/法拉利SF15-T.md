@@ -1,5 +1,4 @@
-**法拉利SF15-T**（\[1\]）是[法拉利車隊用來參加](../Page/法拉利車隊.md "wikilink")[2015年世界一級方程式錦標賽的](https://zh.wikipedia.org/wiki/2015年世界一級方程式錦標賽 "wikilink")[一級方程式賽車車型](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")。將由[賽巴斯蒂安·維泰爾與](../Page/賽巴斯蒂安·維泰爾.md "wikilink")[奇米·雷克南駕駛](../Page/奇米·雷克南.md "wikilink")。SF15-T於2015年1月30日正式發表。\[2\]\[3\]維泰爾依照他自紅牛及紅牛二隊便有的習慣，為他2015年賽季的駕車SF15-T命名為「伊娃」（Eva）
-。\[4\]
+**法拉利SF15-T**（\[1\]）是[法拉利車隊](../Page/法拉利車隊.md "wikilink")用來參加[2015年世界一級方程式錦標賽的](https://zh.wikipedia.org/wiki/2015年世界一級方程式錦標賽 "wikilink")[一級方程式賽車車型](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")。將由[賽巴斯蒂安·維泰爾](../Page/賽巴斯蒂安·維泰爾.md "wikilink")與[奇米·雷克南](../Page/奇米·雷克南.md "wikilink")駕駛。SF15-T於2015年1月30日正式發表。\[2\]\[3\]維泰爾依照他自紅牛及紅牛二隊便有的習慣，為他2015年賽季的駕車SF15-T命名為「伊娃」（Eva） 。\[4\]
 
 ## 賽季概要
 
@@ -132,8 +131,7 @@
 
 ## 參考資料
 
-[Category:法拉利一級方程式車型](https://zh.wikipedia.org/wiki/Category:法拉利一級方程式車型 "wikilink")
-[Category:2015年一級方程式賽季車型](https://zh.wikipedia.org/wiki/Category:2015年一級方程式賽季車型 "wikilink")
+[Category:法拉利一級方程式車型](https://zh.wikipedia.org/wiki/Category:法拉利一級方程式車型 "wikilink") [Category:2015年一級方程式賽季車型](https://zh.wikipedia.org/wiki/Category:2015年一級方程式賽季車型 "wikilink")
 
 1.
 2.

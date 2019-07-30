@@ -69,12 +69,9 @@ function p.marshalStation(station_link, style, system_data, frame)
 `   `
 `   function marshal(station_link, station_name, style)`
 `       if style == nil or mw.text.trim(style) == '' then`
-`           return '`[`'``   ``..``   ``station_name``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
+`           return '`[`'``   ``..``   ``station_name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
 `       else`
-`           return '`[<span style="' .. style .. '">`'``   ``..``
- ``station_name``   ``..``
- ``'`</span>](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
+`           return '`[<span style="' .. style .. '">`'``   ``..``   ``station_name``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
 `       end`
 `   end`
 `   `

@@ -1,6 +1,4 @@
-是一款由[Monolith
-Soft開發](../Page/Monolith_Soft.md "wikilink")，[由任天堂於](../Page/任天堂.md "wikilink")[Wii
-U平台發行的日式](../Page/Wii_U.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。游戏是[异度系列作品之一](../Page/异度系列.md "wikilink")，为[Wii游戏](../Page/Wii.md "wikilink")《[异度之刃](https://zh.wikipedia.org/wiki/异度之刃 "wikilink")》的[精神续作](../Page/精神续作.md "wikilink")\[1\]。游戏于2015年4月29日在日本发行，同年12月在欧美發行\[2\]。
+是一款由[Monolith Soft開發](../Page/Monolith_Soft.md "wikilink")，[由任天堂於](../Page/任天堂.md "wikilink")[Wii U平台發行的日式](../Page/Wii_U.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。游戏是[异度系列](../Page/异度系列.md "wikilink")作品之一，为[Wii](../Page/Wii.md "wikilink")游戏《[异度之刃](https://zh.wikipedia.org/wiki/异度之刃 "wikilink")》的[精神续作](../Page/精神续作.md "wikilink")\[1\]。游戏于2015年4月29日在日本发行，同年12月在欧美發行\[2\]。
 
 ## 游戏角色
 
@@ -128,8 +126,7 @@ U平台發行的日式](../Page/Wii_U.md "wikilink")[動作角色扮演遊戲](.
 
 日本游戏杂志《[FAMI通](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")》给本作打出34分（满分40分），不及系列首作的36分。\[3\]
 
-《异度之刃X》在日本发售后首周实体游戏销量为85,586份，为该周游戏销量第三名；并带动当周[Wii
-U主机的销量](../Page/Wii_U.md "wikilink")，使其成为日本地区当周主机销量冠军。\[4\]
+《异度之刃X》在日本发售后首周实体游戏销量为85,586份，为该周游戏销量第三名；并带动当周[Wii U主机的销量](../Page/Wii_U.md "wikilink")，使其成为日本地区当周主机销量冠军。\[4\]
 
 {{-}}
 
@@ -139,21 +136,11 @@ U主机的销量](../Page/Wii_U.md "wikilink")，使其成为日本地区当周�
 
   -
   -
-[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
-[Category:异度系列](https://zh.wikipedia.org/wiki/Category:异度系列 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:Monolith_Soft游戏](https://zh.wikipedia.org/wiki/Category:Monolith_Soft游戏 "wikilink")
-[Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
-[Category:Wii_U_eShop遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U_eShop遊戲 "wikilink")
-[Category:Wii_U独占游戏](https://zh.wikipedia.org/wiki/Category:Wii_U独占游戏 "wikilink")
-[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
-[Category:机甲电子游戏](https://zh.wikipedia.org/wiki/Category:机甲电子游戏 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
+[Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:异度系列](https://zh.wikipedia.org/wiki/Category:异度系列 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:Monolith_Soft游戏](https://zh.wikipedia.org/wiki/Category:Monolith_Soft游戏 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:Wii_U_eShop遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U_eShop遊戲 "wikilink") [Category:Wii_U独占游戏](https://zh.wikipedia.org/wiki/Category:Wii_U独占游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:机甲电子游戏](https://zh.wikipedia.org/wiki/Category:机甲电子游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
 
 1.
 
 2.
 
 3.
-4.  [「パズドラ スーパーマリオブラザーズ
-    エディション」約18万本。「DQX　いにしえの竜の伝承」「XenobladeX」も登場の「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20150508065/).4Gamer.2015-05-08.\[2015-05-09\].
+4.  [「パズドラ スーパーマリオブラザーズ エディション」約18万本。「DQX　いにしえの竜の伝承」「XenobladeX」も登場の「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20150508065/).4Gamer.2015-05-08.\[2015-05-09\].

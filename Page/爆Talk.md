@@ -1,4 +1,4 @@
-《**爆Talk**》（）是[香港電視網絡所製作的綜藝清談節目](../Page/香港電視網絡.md "wikilink")，由[劉玉翠](../Page/劉玉翠.md "wikilink")、[古天祥及](../Page/古天祥.md "wikilink")[黃冠斌主持](../Page/黃冠斌.md "wikilink")。節目每集邀請不同嘉賓進行爆料訪談，與觀眾分享明星趣事。
+《**爆Talk**》（）是[香港電視網絡](../Page/香港電視網絡.md "wikilink")所製作的綜藝清談節目，由[劉玉翠](../Page/劉玉翠.md "wikilink")、[古天祥](../Page/古天祥.md "wikilink")及[黃冠斌](../Page/黃冠斌.md "wikilink")主持。節目每集邀請不同嘉賓進行爆料訪談，與觀眾分享明星趣事。
 
 ## 節目列表
 
@@ -33,7 +33,7 @@
 <tr class="even">
 <td><p>03</p></td>
 <td><p>2015年</p></td>
-<td><p>金像影后鮑起靜鮑姐，她溫柔賢淑的外表之下，竟然埋藏著一顆貪玩的心！？傳聞她是<a href="https://zh.wikipedia.org/wiki/鄧小平" title="wikilink">前國家領導人的紅顏知己</a>，亦有傳聞指她拍三級片拍上癮，究竟真相是甚麼？後來<a href="../Page/甄子丹.md" title="wikilink">甄子丹對她的虐打</a>，又是怎麼一回事？</p></td>
+<td><p>金像影后鮑起靜鮑姐，她溫柔賢淑的外表之下，竟然埋藏著一顆貪玩的心！？傳聞她是<a href="https://zh.wikipedia.org/wiki/鄧小平" title="wikilink">前國家領導人的紅顏知己</a>，亦有傳聞指她拍三級片拍上癮，究竟真相是甚麼？後來<a href="../Page/甄子丹.md" title="wikilink">甄子丹</a>對她的虐打，又是怎麼一回事？</p></td>
 <td><p><a href="../Page/鮑起靜.md" title="wikilink">鮑起靜</a><br />
 <a href="../Page/陳麗雲.md" title="wikilink">陳麗雲</a></p></td>
 </tr>
@@ -66,14 +66,14 @@
 <tr class="odd">
 <td><p>07</p></td>
 <td><p>2月1日</p></td>
-<td><p>外表市井的黎彼得（Peter）竟然是一代才子，曾經夥拍歌神<a href="../Page/許冠傑.md" title="wikilink">許冠傑填出過百首膾炙人口的香港流行金曲</a>，經典組合擦出無限火花為何又會「分手收場」？形象麻甩的他竟說自己一點也不色！但《爆Talk》起底組發現他曾摸過<a href="../Page/張曼玉.md" title="wikilink">張曼玉</a>？！又有多位影后到他家中「宿一宵」……真相如何，還看Peter哥《爆Talk》！</p></td>
+<td><p>外表市井的黎彼得（Peter）竟然是一代才子，曾經夥拍歌神<a href="../Page/許冠傑.md" title="wikilink">許冠傑</a>填出過百首膾炙人口的香港流行金曲，經典組合擦出無限火花為何又會「分手收場」？形象麻甩的他竟說自己一點也不色！但《爆Talk》起底組發現他曾摸過<a href="../Page/張曼玉.md" title="wikilink">張曼玉</a>？！又有多位影后到他家中「宿一宵」……真相如何，還看Peter哥《爆Talk》！</p></td>
 <td><p><a href="../Page/黎彼得.md" title="wikilink">黎彼得</a><br />
 <a href="../Page/陳綺雯.md" title="wikilink">陳綺雯</a></p></td>
 </tr>
 <tr class="even">
 <td><p>08</p></td>
 <td><p>2月8日</p></td>
-<td><p>姜文杰（Benji）、姜麗文（Lesley）剛出道便橫掃樂壇大獎，堪稱樂壇小核彈！不過出身演藝世家的他們最大的堅持竟然是不靠父蔭！？努力與家人撇清關係的他們與父親<a href="../Page/秦沛.md" title="wikilink">秦沛的關係如何</a>？Benji曾因一句說話而與<a href="../Page/古天樂.md" title="wikilink">古天樂積怨</a>13年又是所為何事？</p></td>
+<td><p>姜文杰（Benji）、姜麗文（Lesley）剛出道便橫掃樂壇大獎，堪稱樂壇小核彈！不過出身演藝世家的他們最大的堅持竟然是不靠父蔭！？努力與家人撇清關係的他們與父親<a href="../Page/秦沛.md" title="wikilink">秦沛</a>的關係如何？Benji曾因一句說話而與<a href="../Page/古天樂.md" title="wikilink">古天樂</a>積怨13年又是所為何事？</p></td>
 <td><p><a href="../Page/姜文杰.md" title="wikilink">姜文杰</a><br />
 <a href="../Page/姜麗文.md" title="wikilink">姜麗文</a></p></td>
 </tr>
@@ -87,7 +87,7 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2月22日</p></td>
-<td><p>綠葉王陳安瑩，做過無數小角色的陳安瑩原來一出道就做<a href="../Page/劉德華.md" title="wikilink">劉德華身邊的女主角</a>、為了殺出一條血路，她竟然不惜谷肥自己做師奶，但起底組發現她竟然是性感女神<a href="../Page/邱淑貞.md" title="wikilink">邱淑貞背後的女人</a>……《爆Talk》同你爆盡陳安瑩綠葉王之路。</p></td>
+<td><p>綠葉王陳安瑩，做過無數小角色的陳安瑩原來一出道就做<a href="../Page/劉德華.md" title="wikilink">劉德華</a>身邊的女主角、為了殺出一條血路，她竟然不惜谷肥自己做師奶，但起底組發現她竟然是性感女神<a href="../Page/邱淑貞.md" title="wikilink">邱淑貞</a>背後的女人……《爆Talk》同你爆盡陳安瑩綠葉王之路。</p></td>
 <td><p><a href="../Page/陳安瑩.md" title="wikilink">陳安瑩</a></p></td>
 </tr>
 <tr class="odd">
@@ -149,11 +149,8 @@
 
 ## 外部連結
 
-  - [HKTV綜藝：食的秘密 (海外全集播放) -
-    YouTube](https://www.youtube.com/playlist?list=PL5epnDm0afJC8oq8ZXGTJ6lk6o55LiVZF)
+  - [HKTV綜藝：食的秘密 (海外全集播放) - YouTube](https://www.youtube.com/playlist?list=PL5epnDm0afJC8oq8ZXGTJ6lk6o55LiVZF)
 
 ## 節目變遷
 
-[Category:香港清談節目](https://zh.wikipedia.org/wiki/Category:香港清談節目 "wikilink")
-[Category:香港電視網絡節目](https://zh.wikipedia.org/wiki/Category:香港電視網絡節目 "wikilink")
-[Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")
+[Category:香港清談節目](https://zh.wikipedia.org/wiki/Category:香港清談節目 "wikilink") [Category:香港電視網絡節目](https://zh.wikipedia.org/wiki/Category:香港電視網絡節目 "wikilink") [Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")

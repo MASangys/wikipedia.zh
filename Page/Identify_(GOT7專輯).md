@@ -1,21 +1,12 @@
-《**Identify**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7的第一張](../Page/GOT7.md "wikilink")[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2014年11月18日發行，唱片公司為KT
-Music，主打歌曲為《Stop stop
-it》。專輯名稱「Identify」具有尋找GOT7專屬風格的意義，製作人[朴軫永在個人推特上表示以往製作過的如](../Page/朴軫永.md "wikilink")[Rain](../Page/Rain.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[Wonder
-Girls等歌手](../Page/Wonder_Girls.md "wikilink")，都是在第三張作品找到屬於自己的定位，因此他確信GOT7也能在第三張作品《Identify》找到自己的色彩，做出真正的
-Groove 舞曲\[1\]。
+《**Identify**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第一張[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2014年11月18日發行，唱片公司為KT Music，主打歌曲為《Stop stop it》。專輯名稱「Identify」具有尋找GOT7專屬風格的意義，製作人[朴軫永](../Page/朴軫永.md "wikilink")在個人推特上表示以往製作過的如[Rain](../Page/Rain.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[Wonder Girls等歌手](../Page/Wonder_Girls.md "wikilink")，都是在第三張作品找到屬於自己的定位，因此他確信GOT7也能在第三張作品《Identify》找到自己的色彩，做出真正的 Groove 舞曲\[1\]。
 
 ## 背景
 
-2014年11月7日零時（韓國時間），JYP娛樂透過官方臉書、推特、微博釋出《Identify》充滿科技感的概念照，11月17日公開主打歌曲《Stop
-stop
-it》音樂錄影帶，18日公開專輯音源，20日正式發售實體專輯\[2\]。2015年1月14日發行《Identify》特別版專輯，成為韓國首位推出
-[USB專輯的歌手](../Page/USB.md "wikilink")\[3\]。
+2014年11月7日零時（韓國時間），JYP娛樂透過官方臉書、推特、微博釋出《Identify》充滿科技感的概念照，11月17日公開主打歌曲《Stop stop it》音樂錄影帶，18日公開專輯音源，20日正式發售實體專輯\[2\]。2015年1月14日發行《Identify》特別版專輯，成為韓國首位推出 [USB](../Page/USB.md "wikilink")專輯的歌手\[3\]。
 
 ## 概要
 
-專輯裡總共有11首歌，第一張迷你專輯的主打歌《Girls Girls Girls》和第2張迷你專輯的主打歌《A》也收錄其中。主打歌曲《Stop
-stop
-it》由朴軫永作詞作曲，隊長[JB擔任MV男主角](../Page/林在範.md "wikilink")，MV以夢幻的手法刻畫了少年來往現在和未來時對喜歡的少女懷有的複雜心情。雖然場景的設定是未來，但是純真的懷舊情感讓GOT7散發出了特有的純真神秘魅力。GOT7在MV中的造型也充滿了未來氣息\[4\]。此外，成員[Jackson也參與了](../Page/王嘉爾.md "wikilink")《就在今晚》和《月光》兩首歌的Rap歌詞創作。
+專輯裡總共有11首歌，第一張迷你專輯的主打歌《Girls Girls Girls》和第2張迷你專輯的主打歌《A》也收錄其中。主打歌曲《Stop stop it》由朴軫永作詞作曲，隊長[JB擔任MV男主角](../Page/林在範.md "wikilink")，MV以夢幻的手法刻畫了少年來往現在和未來時對喜歡的少女懷有的複雜心情。雖然場景的設定是未來，但是純真的懷舊情感讓GOT7散發出了特有的純真神秘魅力。GOT7在MV中的造型也充滿了未來氣息\[4\]。此外，成員[Jackson也參與了](../Page/王嘉爾.md "wikilink")《就在今晚》和《月光》兩首歌的Rap歌詞創作。
 
 ### 發行版本
 
@@ -23,9 +14,7 @@ it》由朴軫永作詞作曲，隊長[JB擔任MV男主角](../Page/林在範.md
 
   - 普通版（Original version）：黑色包裝，內含104頁寫真（全身、較遠距離的照片）、隨機成員小卡1張。
   - 特寫版（Close-up version）：白色包裝，內含104頁寫真（臉部、近距離特寫的照片）、隨機成員小卡1張。
-  - 特別版（Special
-    Edition）：為限量發行的[USB專輯](../Page/USB.md "wikilink")，USB外觀以成員們的
-    Q 版漫畫形象製作，共7款（每個成員1款），容量16G。
+  - 特別版（Special Edition）：為限量發行的[USB](../Page/USB.md "wikilink")專輯，USB外觀以成員們的 Q 版漫畫形象製作，共7款（每個成員1款），容量16G。
 
 ## 曲目
 
@@ -200,32 +189,16 @@ it》由朴軫永作詞作曲，隊長[JB擔任MV男主角](../Page/林在範.md
   -
   -
   -
-[Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
-1.  [朴軫泳 (朴振英)：對 GOT7 有信心！](http://kpopn.com/2014/11/08/248177/) Kpopn.
-    2014-11-08
-2.  [GOT7 正規一輯首波概念照](http://kpopn.com/2014/11/07/248220/) Kpopn.
-    2014-11-07
-3.  [GOT7 推出 USB 型態的專輯](http://kpopn.com/2014/12/16/253464/) Kpopn.
-    2014-12-16
-4.  [專訪GOT7：辛苦並幸福著](http://www.koreastardaily.com/tc/news/52455) 韓星網.
-    2014-12-05
-5.  [2014년 48주차 Digital
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=48&hitYear=2014&termGbn=week)Gaon
-    Chart. \[2015-01-13\]
-6.  [2014년 11월 Digital
-    Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=11&hitYear=2014&termGbn=month)
-    Gaon Chart. \[2015-01-13\]
-7.  [2014년 48주차 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=48&hitYear=2014&termGbn=week)
-    Gaon Chart. \[2015-01-13\]
-8.  [2014년 11월 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2014&termGbn=month)
-    Gaon Chart. \[2015-01-13\]
-9.  [2014년 Album
-    Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
-    Gaon Chart. \[2015-01-13\]
+1.  [朴軫泳 (朴振英)：對 GOT7 有信心！](http://kpopn.com/2014/11/08/248177/) Kpopn. 2014-11-08
+2.  [GOT7 正規一輯首波概念照](http://kpopn.com/2014/11/07/248220/) Kpopn. 2014-11-07
+3.  [GOT7 推出 USB 型態的專輯](http://kpopn.com/2014/12/16/253464/) Kpopn. 2014-12-16
+4.  [專訪GOT7：辛苦並幸福著](http://www.koreastardaily.com/tc/news/52455) 韓星網. 2014-12-05
+5.  [2014년 48주차 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=48&hitYear=2014&termGbn=week)Gaon Chart. \[2015-01-13\]
+6.  [2014년 11월 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=11&hitYear=2014&termGbn=month) Gaon Chart. \[2015-01-13\]
+7.  [2014년 48주차 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=48&hitYear=2014&termGbn=week) Gaon Chart. \[2015-01-13\]
+8.  [2014년 11월 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2014&termGbn=month) Gaon Chart. \[2015-01-13\]
+9.  [2014년 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year) Gaon Chart. \[2015-01-13\]
 10.
 11.

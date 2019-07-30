@@ -1,5 +1,4 @@
-《**009
-RE:CYBORG**》是2012年10月27日上映的[日本](../Page/日本.md "wikilink")[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")。与[石之森章太郎原作的](../Page/石之森章太郎.md "wikilink")《[人造人009](../Page/人造人009.md "wikilink")》有相同的登场人物，与2013的现代世界同步作为舞台描写了新的剧本\[1\]。标题的RE是重新开始的意思，考虑以本作为出发点展开新的系列\[2\]。
+《**009 RE:CYBORG**》是2012年10月27日上映的[日本](../Page/日本.md "wikilink")[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")。与[石之森章太郎](../Page/石之森章太郎.md "wikilink")原作的《[人造人009](../Page/人造人009.md "wikilink")》有相同的登场人物，与2013的现代世界同步作为舞台描写了新的剧本\[1\]。标题的RE是重新开始的意思，考虑以本作为出发点展开新的系列\[2\]。
 
 ## 剧情简介
 
@@ -25,23 +24,18 @@ RE:CYBORG**》是2012年10月27日上映的[日本](../Page/日本.md "wikilink"
   - 色彩設計：片山由美子
   - 攝影監督：上薗隆浩
   - 編集：佐藤敦纪
-  - 音響設計：[Tom
-    Myers](https://zh.wikipedia.org/wiki/Skywalker_Sound "wikilink")
+  - 音響設計：[Tom Myers](https://zh.wikipedia.org/wiki/Skywalker_Sound "wikilink")
   - 製作統籌：上薗隆浩、川端玲奈
   - 動畫製作人：松浦裕曉
   - 製作總指揮：石川光久、紀伊宗之
   - 製作人：石井朋彥
-  - 製作：[Production
-    I.G](../Page/Production_I.G.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
+  - 製作：[Production I.G](../Page/Production_I.G.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
   - 發行：Production I.G、T-JOY
-  - 製作商：「009 RE:CYBORG」製作委員會（[Production
-    I.G](../Page/Production_I.G.md "wikilink")、T-JOY、AMAZON
-    LATERNA、VAP、[日本電視放送網](../Page/日本電視台.md "wikilink")、石森製作）
+  - 製作商：「009 RE:CYBORG」製作委員會（[Production I.G](../Page/Production_I.G.md "wikilink")、T-JOY、AMAZON LATERNA、VAP、[日本電視放送網](../Page/日本電視台.md "wikilink")、石森製作）
 
 ## 漫画版
 
-《[月刊BIG
-GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》2012年Vol.06开始连载[麻生我等执笔的漫画版](https://zh.wikipedia.org/wiki/麻生我等 "wikilink")，已出版4卷单行本（至2014年7月）。
+《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》2012年Vol.06开始连载[麻生我等执笔的漫画版](https://zh.wikipedia.org/wiki/麻生我等 "wikilink")，已出版4卷单行本（至2014年7月）。
 
 1.  009 RE:CYBORG 封面角色:009 2012年10月25日发售 ISBN 978-4-7575-3746-0
 2.  009 RE:CYBORG 封面角色:002 2013年5月22日发售 ISBN 978-4-7575-3950-1
@@ -72,8 +66,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》2012年Vol.06开始连载[麻�
 
   -
   -
-  - [石森WEBサイト
-    〜変身！〜](https://web.archive.org/web/20150208035718/http://www.ishinomori.co.jp/)（石森プロ公式サイト）
+  - [石森WEBサイト 〜変身！〜](https://web.archive.org/web/20150208035718/http://www.ishinomori.co.jp/)（石森プロ公式サイト）
 
   - [石森プロ公式『サイボーグ009』サイト 009ing.com](https://web.archive.org/web/20150126015155/http://009ing.com/)
 
@@ -83,20 +76,9 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》2012年Vol.06开始连载[麻�
 
   - [PEPSI NEX×009 RE:CYBORG](http://009.ph9.jp/pepsi-nex/)
 
-  - [009 RE:CYBORG | ビッグガンガン | SQUARE
-    ENIX](http://www.jp.square-enix.com/magazine/biggangan/introduction/009_re_cyborg/index.shtml)
+  - [009 RE:CYBORG | ビッグガンガン | SQUARE ENIX](http://www.jp.square-enix.com/magazine/biggangan/introduction/009_re_cyborg/index.shtml)
 
-[Category:人造人009](https://zh.wikipedia.org/wiki/Category:人造人009 "wikilink")
-[Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink")
-[Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink")
-[Category:日本3D電影](https://zh.wikipedia.org/wiki/Category:日本3D電影 "wikilink")
-[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink")
-[Category:上海背景電影](https://zh.wikipedia.org/wiki/Category:上海背景電影 "wikilink")
-[Category:紐約市背景動畫電影](https://zh.wikipedia.org/wiki/Category:紐約市背景動畫電影 "wikilink")
-[Category:華盛頓哥倫比亞特區背景電影](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區背景電影 "wikilink")
-[Category:日本電視台製作的動畫電影](https://zh.wikipedia.org/wiki/Category:日本電視台製作的動畫電影 "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
-[Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink")
+[Category:人造人009](https://zh.wikipedia.org/wiki/Category:人造人009 "wikilink") [Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink") [Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink") [Category:日本3D電影](https://zh.wikipedia.org/wiki/Category:日本3D電影 "wikilink") [Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink") [Category:上海背景電影](https://zh.wikipedia.org/wiki/Category:上海背景電影 "wikilink") [Category:紐約市背景動畫電影](https://zh.wikipedia.org/wiki/Category:紐約市背景動畫電影 "wikilink") [Category:華盛頓哥倫比亞特區背景電影](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區背景電影 "wikilink") [Category:日本電視台製作的動畫電影](https://zh.wikipedia.org/wiki/Category:日本電視台製作的動畫電影 "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink")
 
 1.
 2.

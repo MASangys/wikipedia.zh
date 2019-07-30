@@ -1,5 +1,4 @@
-**Hottest Time of the
-Day**是韓國男子偶像團體[2PM首張出道單曲](https://zh.wikipedia.org/wiki/2PM "wikilink")，在2008年8月29日以專輯與數位下載共同發行。
+**Hottest Time of the Day**是韓國男子偶像團體[2PM首張出道單曲](https://zh.wikipedia.org/wiki/2PM "wikilink")，在2008年8月29日以專輯與數位下載共同發行。
 
 ## 背景
 
@@ -16,6 +15,4 @@ Day**是韓國男子偶像團體[2PM首張出道單曲](https://zh.wikipedia.org
   -
   - [2PM官方網站](http://2pm.jype.com)
 
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")

@@ -1,4 +1,4 @@
-**连续大Q埃尔米特多项式**是以[基本超几何函数定义的](../Page/基本超几何函数.md "wikilink")[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
+**连续大Q埃尔米特多项式**是以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
 
 \(H_{n}(x;a;q)=a^{-n}\;_{2}\phi_1\left(\begin{matrix}
 q^{-n} & ae^{I\theta} & ae^{-I\theta}   \\
@@ -9,9 +9,7 @@ q^{-n} & ae^{I\theta} & ae^{-I\theta}   \\
 
 ## 极限关系
 
-令[阿拉-萨拉姆-迟哈剌多项式](../Page/阿拉-萨拉姆-迟哈剌多项式.md "wikilink")
-b=0,即得[连续大Q埃尔米特多项式](https://zh.wikipedia.org/wiki/连续大Q埃尔米特多项式}}_令[[连续大Q埃尔米特多项式 "wikilink")
-a=0,即得[连续埃尔米特多项式](https://zh.wikipedia.org/wiki/连续埃尔米特多项式 "wikilink")
+令[阿拉-萨拉姆-迟哈剌多项式](../Page/阿拉-萨拉姆-迟哈剌多项式.md "wikilink") b=0,即得[连续大Q埃尔米特多项式](https://zh.wikipedia.org/wiki/连续大Q埃尔米特多项式}}_令[[连续大Q埃尔米特多项式 "wikilink") a=0,即得[连续埃尔米特多项式](https://zh.wikipedia.org/wiki/连续埃尔米特多项式 "wikilink")
 
 ## 图集
 
@@ -32,8 +30,6 @@ a=0,即得[连续埃尔米特多项式](https://zh.wikipedia.org/wiki/连续埃�
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")
 
-1.  Roelof Koekoek, Hypergeometric Orthogonal Polynomials and its
-    q-Analogues, p509,Springer,2010
+1.  Roelof Koekoek, Hypergeometric Orthogonal Polynomials and its q-Analogues, p509,Springer,2010

@@ -1,9 +1,4 @@
-**小米Note**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年1月15日發表的[大屏幕旗艦](https://zh.wikipedia.org/wiki/平板手機 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，隸屬於[小米手機的第五代產品](https://zh.wikipedia.org/wiki/小米手機 "wikilink")，搭載[Android](../Page/Android.md "wikilink")
-[5.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.7吋
-[1080p](../Page/Full_HD.md "wikilink")/2K
-螢幕、頂配版處理器為[高通](../Page/高通.md "wikilink")
-[Snapdragon
-810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")、4GB記憶體，機身材質由塑膠提升到前後雙玻璃、鋁合金邊框。
+**小米Note**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年1月15日發表的[大屏幕旗艦](https://zh.wikipedia.org/wiki/平板手機 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，隸屬於[小米手機的第五代產品](https://zh.wikipedia.org/wiki/小米手機 "wikilink")，搭載[Android](../Page/Android.md "wikilink") [5.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.7吋 [1080p](../Page/Full_HD.md "wikilink")/2K 螢幕、頂配版處理器為[高通](../Page/高通.md "wikilink") [Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")、4GB記憶體，機身材質由塑膠提升到前後雙玻璃、鋁合金邊框。
 
 ## 詳細規格
 
@@ -96,7 +91,7 @@
 </tr>
 <tr class="odd">
 <td><p>相機</p></td>
-<td><p>主相機：1300 萬畫素 Sony IMX214 第二代堆棧式鏡頭、F/2.0光圈、光學防抖、六片式鏡頭、<a href="../Page/飛利浦.md" title="wikilink">飛利浦雙色溫閃光燈</a>、手動曝光、手動模式、<a href="https://zh.wikipedia.org/wiki/高動態範圍成像" title="wikilink">HDR模式</a>、動態追焦、魔術對焦、<a href="https://zh.wikipedia.org/wiki/4K" title="wikilink">4K錄影</a><br />
+<td><p>主相機：1300 萬畫素 Sony IMX214 第二代堆棧式鏡頭、F/2.0光圈、光學防抖、六片式鏡頭、<a href="../Page/飛利浦.md" title="wikilink">飛利浦</a>雙色溫閃光燈、手動曝光、手動模式、<a href="https://zh.wikipedia.org/wiki/高動態範圍成像" title="wikilink">HDR模式</a>、動態追焦、魔術對焦、<a href="https://zh.wikipedia.org/wiki/4K" title="wikilink">4K錄影</a><br />
 前相機：400 萬畫素  OV4688 鏡頭、F/2.0光圈、2μm像素、第二代36級智慧美顏模式、1080p錄影</p></td>
 <td></td>
 </tr>
@@ -139,8 +134,4 @@
   - [小米手机官方網站](http://www.mi.com/)
   - [小米Note 頁面](http://www.mi.com/minote)
 
-[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink")
-[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink") [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")

@@ -1,5 +1,4 @@
-《**電影 光之美少女 All Stars
-春之嘉年華♪**》於2015年3月14日在[日本上映](../Page/日本.md "wikilink")。本作是第七次結集[光之美少女系列成員的作品](../Page/光之美少女系列.md "wikilink")。
+《**電影 光之美少女 All Stars 春之嘉年華♪**》於2015年3月14日在[日本](../Page/日本.md "wikilink")上映。本作是第七次結集[光之美少女系列](../Page/光之美少女系列.md "wikilink")成員的作品。
 
 ## 故事簡介
 
@@ -91,7 +90,7 @@
 
   -
 
-### [光之美少女／光之美少女Max Heart](../Page/光之美少女.md "wikilink")
+### [光之美少女 Heart](../Page/光之美少女.md "wikilink")／光之美少女Max
 
   -
 
@@ -108,8 +107,7 @@
   -
 
       -
-        花神天使、人魚天使與閃亮天使將「All
-        Stars裝扮鎖匙」插入「公主香水」中，解放力量并往身上噴灑後轉換為「」，再集合3人與其他37位光之美少女的力量之後，從雙手釋放出一道巨大的白色玫瑰狀彩虹光束淨化敵人。
+        花神天使、人魚天使與閃亮天使將「All Stars裝扮鎖匙」插入「公主香水」中，解放力量并往身上噴灑後轉換為「」，再集合3人與其他37位光之美少女的力量之後，從雙手釋放出一道巨大的白色玫瑰狀彩虹光束淨化敵人。
 
     注：Primavera为意大利語「春天」之意。
 
@@ -132,8 +130,7 @@
 ### 本作登場
 
   -
-    諧神國的守護神，因為春之嘉年華被兩個盜賊破壞一事而極為震怒，狂怒之下想毀滅整個諧神國。但後來在被全體光之美少女使出必殺技「光之美少女
-    彩虹龍捲風」淨化之後平息了憤怒恢復正常。
+    諧神國的守護神，因為春之嘉年華被兩個盜賊破壞一事而極為震怒，狂怒之下想毀滅整個諧神國。但後來在被全體光之美少女使出必殺技「光之美少女 彩虹龍捲風」淨化之後平息了憤怒恢復正常。
 
   -
 
@@ -152,7 +149,7 @@
 ### 主題曲
 
   - 「」
-    作詞：青木久美子，作曲：[高取秀明](../Page/高取秀明.md "wikilink")，編曲：大久保薰，主唱：[早安少女組。'15](../Page/早安少女組。.md "wikilink")
+    作詞：青木久美子，作曲：[高取秀明](../Page/高取秀明.md "wikilink")，編曲：大久保薰，主唱：[早安少女組。](../Page/早安少女組。.md "wikilink")'15
     於片尾播出。製作單位特別邀請12歲以下小朋友參與[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[札幌及](https://zh.wikipedia.org/wiki/札幌 "wikilink")[名古屋舉行的招募大會](https://zh.wikipedia.org/wiki/名古屋 "wikilink")，成為與主唱者共演結尾片段的一分子。
 
 ### 插曲
@@ -192,15 +189,12 @@
     本曲為《[光之美少女：美樂天使](../Page/Suite_光之美少女♪.md "wikilink")》前期片尾曲。
   - 「」
     作詞：只野菜摘，作曲：，編曲：古川貴浩，主唱：吉田仁美
-    本曲為《[填充幸福
-    光之美少女！](../Page/Happiness_Charge_光之美少女！.md "wikilink")》後期片尾曲。
+    本曲為《[填充幸福 光之美少女！](../Page/Happiness_Charge_光之美少女！.md "wikilink")》後期片尾曲。
   - 「」
-    作詞：青木久美子，作曲：高取秀明，編曲：籠島裕昌，主唱：光之美少女 All
-    Stars（[嶋村侑](../Page/嶋村侑.md "wikilink")、[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")、[山村響](../Page/山村響.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[潘惠美](../Page/潘惠美.md "wikilink")、[北川里奈](../Page/北川里奈.md "wikilink")、[戶松遙](../Page/戶松遙.md "wikilink")）
+    作詞：青木久美子，作曲：高取秀明，編曲：籠島裕昌，主唱：光之美少女 All Stars（[嶋村侑](../Page/嶋村侑.md "wikilink")、[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")、[山村響](../Page/山村響.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[潘惠美](../Page/潘惠美.md "wikilink")、[北川里奈](../Page/北川里奈.md "wikilink")、[戶松遙](../Page/戶松遙.md "wikilink")）
   - 「」
     作詞：，作曲：山本清香，編曲：多田彰文，主唱：北川理惠
-    本曲為《[GO\!
-    光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》前期片尾曲。
+    本曲為《[GO\! 光之美少女公主](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")》前期片尾曲。
 
 ## 製作人員
 
@@ -217,8 +211,7 @@
   - 攝影監督：高橋賢司
   - 製作擔當：太田有紀
   - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
-  - 製作：[電影光之美少女All Stars
-    SC製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
+  - 製作：[電影光之美少女All Stars SC製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")、木下工務店）
   - 發行：[東映](../Page/東映.md "wikilink")\[1\]
 
 ## 參考資料
@@ -227,9 +220,6 @@
 
   - [光之美少女 All Stars 春之嘉年華♪ 官方網站](http://www.precure-allstars.com/2015/)
 
-[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink") [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  [正式発表きましたわー！「映画プリキュアオールスターズ　春のカーニバル♪」は歌って踊ってパワーアップ](http://www.excite.co.jp/News/reviewmov/20141121/E1416534031570.html)

@@ -1,21 +1,16 @@
-[魔法風雲會Online_4.0的登入畫面.jpg](https://zh.wikipedia.org/wiki/File:魔法風雲會Online_4.0的登入畫面.jpg "fig:魔法風雲會Online_4.0的登入畫面.jpg")
-(以下稱為**遊戲**)是[集換式紙牌遊戲](https://zh.wikipedia.org/wiki/集換式紙牌遊戲 "wikilink")《[魔法風雲會](https://zh.wikipedia.org/wiki/魔法風雲會 "wikilink")》(以下稱為實卡版)的正式改編[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，遊戲利用了[虛擬經濟的概念](../Page/虛擬經濟.md "wikilink")，來保持遊戲中的卡片的收藏價值。\[1\]
+[魔法風雲會Online_4.0的登入畫面.jpg](https://zh.wikipedia.org/wiki/File:魔法風雲會Online_4.0的登入畫面.jpg "fig:魔法風雲會Online_4.0的登入畫面.jpg") (以下稱為**遊戲**)是[集換式紙牌遊戲](https://zh.wikipedia.org/wiki/集換式紙牌遊戲 "wikilink")《[魔法風雲會](https://zh.wikipedia.org/wiki/魔法風雲會 "wikilink")》(以下稱為實卡版)的正式改編[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，遊戲利用了[虛擬經濟](../Page/虛擬經濟.md "wikilink")的概念，來保持遊戲中的卡片的收藏價值。\[1\]
 
 遊戲是[威世智公司營運的在線遊戲](https://zh.wikipedia.org/wiki/威世智公司 "wikilink")，發行於2002年6月24日。\[2\]
 
-玩家能在遊戲中和其他在線玩家交換卡片或進行對戰。現時只能在[Microsoft
-Windows遊玩](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，目前只有英文版本，所有玩家都會在同一伺服器中遊玩。
+玩家能在遊戲中和其他在線玩家交換卡片或進行對戰。現時只能在[Microsoft Windows遊玩](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，目前只有英文版本，所有玩家都會在同一伺服器中遊玩。
 
-在2007年《魔法風雲會Online》已有超過300,000註冊帳號;\[3\]不過這並不代表遊戲的真實玩家數目，因為有部分人會註冊多個帳號。據[威世智公司員工Worth](https://zh.wikipedia.org/wiki/威世智公司 "wikilink")
-Wollpert（時任魔法風雲會數位品牌經理）\[4\]
-所述，在2007《魔法風雲會Online》大概佔了魔法風雲會生意額的30-50%。\[5\]
+在2007年《魔法風雲會Online》已有超過300,000註冊帳號;\[3\]不過這並不代表遊戲的真實玩家數目，因為有部分人會註冊多個帳號。據[威世智公司員工Worth](https://zh.wikipedia.org/wiki/威世智公司 "wikilink") Wollpert（時任魔法風雲會數位品牌經理）\[4\] 所述，在2007《魔法風雲會Online》大概佔了魔法風雲會生意額的30-50%。\[5\]
 
 《魔法風雲會Online》沒有獨立的官網，但在MTG的網站有其分頁。
 
 ## 遊戲玩法
 
-[魔法風雲會Online_4.0的遊戲畫面.jpg](https://zh.wikipedia.org/wiki/File:魔法風雲會Online_4.0的遊戲畫面.jpg "fig:魔法風雲會Online_4.0的遊戲畫面.jpg")
-遊戲的玩法和實卡版的魔法風雲會一樣，不過不能使用現實中的卡牌來遊玩，只能使用在遊戲中得到的卡牌來組成牌組進行對戰。
+[魔法風雲會Online_4.0的遊戲畫面.jpg](https://zh.wikipedia.org/wiki/File:魔法風雲會Online_4.0的遊戲畫面.jpg "fig:魔法風雲會Online_4.0的遊戲畫面.jpg") 遊戲的玩法和實卡版的魔法風雲會一樣，不過不能使用現實中的卡牌來遊玩，只能使用在遊戲中得到的卡牌來組成牌組進行對戰。
 
 遊戲只需使用滑鼠就可以完成所有的操作，另外也可以鍵盤則可作為快捷鍵或對話時用，本遊戲不同於其他非官方的對戰程式般必須以手動方式來進行各種遊戲中的動作，在本遊戲中的洗牌、隨機或抽牌動作都是自動完成，而各種卡牌的異能和戰鬥的執行和互動都是自動運算，不過組合技不能指定完成次數，必須遂次完成才行，曾展示過的牌堆頂牌或手牌時會另外開一個視窗記錄，玩家不用另外作記錄。
 
@@ -25,45 +20,31 @@ Wollpert（時任魔法風雲會數位品牌經理）\[4\]
 
 ## 遊戲中的卡牌
 
-[魔法風雲會Online_4.0的牌組建立畫面.jpg](https://zh.wikipedia.org/wiki/File:魔法風雲會Online_4.0的牌組建立畫面.jpg "fig:魔法風雲會Online_4.0的牌組建立畫面.jpg")
-由於[魔法風雲會是在](https://zh.wikipedia.org/wiki/魔法風雲會 "wikilink")1993年發行，而本遊戲則是在2002年才正式開始營運，所以在2002年之前就已發行的系列中的卡牌在遊戲中就以MTGO
-Masters Edition系列的方式推出，\[6\] MTGO Masters
-Edition共推出了四個不同的版本，這四個系列是特別設計，分別包括了之前的系列曾推出的部分卡牌，可以獨立進行限制賽。
+[魔法風雲會Online_4.0的牌組建立畫面.jpg](https://zh.wikipedia.org/wiki/File:魔法風雲會Online_4.0的牌組建立畫面.jpg "fig:魔法風雲會Online_4.0的牌組建立畫面.jpg") 由於[魔法風雲會是在](https://zh.wikipedia.org/wiki/魔法風雲會 "wikilink")1993年發行，而本遊戲則是在2002年才正式開始營運，所以在2002年之前就已發行的系列中的卡牌在遊戲中就以MTGO Masters Edition系列的方式推出，\[6\] MTGO Masters Edition共推出了四個不同的版本，這四個系列是特別設計，分別包括了之前的系列曾推出的部分卡牌，可以獨立進行限制賽。
 
-除了MTGO Masters Edition，遊戲還會有整合舊環境的卡牌來推出的重製版，現時已宣布第一個重製版將是暴風雨重製版(Tempest
-Remastered )，以1997年推出的暴風雨環境中的三個子系列精簡而成的一個系列，將在2015年5月6日推出。\[7\]
+除了MTGO Masters Edition，遊戲還會有整合舊環境的卡牌來推出的重製版，現時已宣布第一個重製版將是暴風雨重製版(Tempest Remastered )，以1997年推出的暴風雨環境中的三個子系列精簡而成的一個系列，將在2015年5月6日推出。\[7\]
 
-遊戲不同於[威世智公司推出另一款電子遊戲](https://zh.wikipedia.org/wiki/威世智公司 "wikilink")《[魔法風雲會-旅法師對決](https://zh.wikipedia.org/wiki/魔法風雲會-旅法師對決 "wikilink")[EN:Magic:
-The Gathering – Duels of the Planeswalkers
-2015](https://zh.wikipedia.org/wiki/EN:Magic:_The_Gathering_–_Duels_of_the_Planeswalkers_2015 "wikilink")》般只有特定卡牌在遊戲中出現，基本上所有系列都可在遊戲中得到和使用，但和實卡版相比，新系列的補充包一般都會遲一個星期才在線上發售。\[8\]
+遊戲不同於[威世智公司推出另一款電子遊戲](https://zh.wikipedia.org/wiki/威世智公司 "wikilink")《[魔法風雲會-旅法師對決](https://zh.wikipedia.org/wiki/魔法風雲會-旅法師對決 "wikilink")[EN:Magic: The Gathering – Duels of the Planeswalkers 2015](https://zh.wikipedia.org/wiki/EN:Magic:_The_Gathering_–_Duels_of_the_Planeswalkers_2015 "wikilink")》般只有特定卡牌在遊戲中出現，基本上所有系列都可在遊戲中得到和使用，但和實卡版相比，新系列的補充包一般都會遲一個星期才在線上發售。\[8\]
 
 而一些實卡版中限量發售的系列(如:摩登大師系列)，在遊戲中沒有限制發售數量，但除了部分預組包外，其他的系列都有發售期限，過了發售期限就會從遊戲中的商店(store)下架，之後只有在特定的活動中會復出，另外所有在遊戲的商店中發售的產品和實卡版的產品都是同樣價格並以美金計算的。
 
 不過也有部分曾推出實卡版的系列就沒有在遊戲中推出，如：詭局（Conspiracy）系列就因其獨特的輪抽方式而沒有在遊戲中推出，雞飛版的情形都是如此。
 
-而實卡版中一些早期的卡牌的重印是受重印規則列表(Reserved
-List)\[9\]所限，不能再在現實中重印，不過這些不能重印的卡牌在特選賽或薪傳賽是十分必要的，若沒有這些卡牌的牌組是很難和其他人對抗，所以使得實卡版的特選賽或薪傳賽的進入門檻高居不下，不過在遊戲中就沒有這些限制，所以只在遊戲中發行，沒有推出實卡版的特選大師(Vintage
-Masters)系列中就包括大量能在特選賽或薪傳賽中使用的卡牌，使得在遊戲中的玩家能輕易地參與特選賽或薪傳賽。
+而實卡版中一些早期的卡牌的重印是受重印規則列表(Reserved List)\[9\]所限，不能再在現實中重印，不過這些不能重印的卡牌在特選賽或薪傳賽是十分必要的，若沒有這些卡牌的牌組是很難和其他人對抗，所以使得實卡版的特選賽或薪傳賽的進入門檻高居不下，不過在遊戲中就沒有這些限制，所以只在遊戲中發行，沒有推出實卡版的特選大師(Vintage Masters)系列中就包括大量能在特選賽或薪傳賽中使用的卡牌，使得在遊戲中的玩家能輕易地參與特選賽或薪傳賽。
 
 只要玩家在遊戲中集齊了整個系列的所有卡牌後，就可以在遊戲中的商店(store)進行贖回(REDEMPTION)，通過支付費用和運費來把遊戲中的虛擬卡牌換成實際的卡牌。\[10\]\[11\]
 
 ## 比賽
 
-由於遊戲中的玩家來自世界各地，各個時區的玩家都會共同對戰，所以在遊戲中是24小時都能進行對戰，對戰是在遊戲中的大廳(PLAY
-LOBBY)中舉行，對戰分成了:
+由於遊戲中的玩家來自世界各地，各個時區的玩家都會共同對戰，所以在遊戲中是24小時都能進行對戰，對戰是在遊戲中的大廳(PLAY LOBBY)中舉行，對戰分成了:
 
 Just For Fun:
 
-> 這是遊戲中玩家自發的對戰方式，可進行多樣化的賽制(如:沒有任何禁限表的freeform，只能使用特定種族來組成牌組的tribal
-> wars等\[12\])，這方式是不用付費不過也沒有任何獎品，可以快速進行對戰，多用來測試套牌。
+> 這是遊戲中玩家自發的對戰方式，可進行多樣化的賽制(如:沒有任何禁限表的freeform，只能使用特定種族來組成牌組的tribal wars等\[12\])，這方式是不用付費不過也沒有任何獎品，可以快速進行對戰，多用來測試套牌。
 
 Queues:
 
-> 和Just For
-> Fun一樣是遊戲中玩家自發的對戰方式，必須有足夠的玩家(一般都是8人)才能開始比賽，遊戲會以單循環或[瑞士輪方式來進行比賽](../Page/瑞士制.md "wikilink")，但不同的是每個玩家都要支付特定數量的比賽卷(Event
-> Ticket)和補充包(Booster)才能進行對戰，比賽的參加者將按排名來分配官方所發放的獎品，獎品一般都是補充包或QP(Qualifier
-> Point，可用以參加每月舉行MAGIC ONLINE CHAMPIONSHIP
-> SERIES)，限制賽中還可得到自己開出的卡牌。\[13\]
+> 和Just For Fun一樣是遊戲中玩家自發的對戰方式，必須有足夠的玩家(一般都是8人)才能開始比賽，遊戲會以單循環或[瑞士輪方式來進行比賽](../Page/瑞士制.md "wikilink")，但不同的是每個玩家都要支付特定數量的比賽卷(Event Ticket)和補充包(Booster)才能進行對戰，比賽的參加者將按排名來分配官方所發放的獎品，獎品一般都是補充包或QP(Qualifier Point，可用以參加每月舉行MAGIC ONLINE CHAMPIONSHIP SERIES)，限制賽中還可得到自己開出的卡牌。\[13\]
 
 Scheduled:
 
@@ -73,11 +54,9 @@ Scheduled:
 
 > Daily:一般稱為"日賽"，每日都會舉行不同的比賽，大多會四小時為間隔來進行比賽，以確保不同的時區都能參加比賽;
 
-> MAGIC ONLINE CHAMPIONSHIP
-> SERIES:一般稱為"月賽"，每月舉辦的賽事，必須支付當月得到的QP才能參加的比賽，每月都會以不同的賽制來進行比賽，獎品比日賽來得豐富;
+> MAGIC ONLINE CHAMPIONSHIP SERIES:一般稱為"月賽"，每月舉辦的賽事，必須支付當月得到的QP才能參加的比賽，每月都會以不同的賽制來進行比賽，獎品比日賽來得豐富;
 
-> 新系列推出後還會舉行PTQ賽(PRO TOUR QUALIFIERS)或錦標賽(Championship
-> Events)，這些比賽會以限制賽或標準賽來進行，藉此來鼓勵玩家使用新系列的卡牌。\[15\]
+> 新系列推出後還會舉行PTQ賽(PRO TOUR QUALIFIERS)或錦標賽(Championship Events)，這些比賽會以限制賽或標準賽來進行，藉此來鼓勵玩家使用新系列的卡牌。\[15\]
 
 而遊戲中的限制賽除了能使用補充包來進行，也可以以虛擬(Phantom)的方式來進行，以此方式來進行的限制賽不需使用補充包，所以不用買補充包就可以進行比賽，但比賽完後不會得到開出來的卡牌，以此種方式來進行的比賽除了可進行新系列的限制賽，還可以進行CLUB賽,這是一種由官方選出特定強力卡牌來組成的牌池來進行的虛擬限制賽，官方會定期更新CLUB賽的牌表。\[16\]
 
@@ -87,8 +66,7 @@ Scheduled:
 
 遊戲不同於《[魔法風雲會-旅法師對決](https://zh.wikipedia.org/wiki/魔法風雲會-旅法師對決 "wikilink")》必須通過特定關卡才能得到卡牌，遊戲中卡牌和實卡版一樣都是通過購買補充包或預組牌組來得到，而一些紀念系列在遊戲中有發售，也可以和其他玩家進行交換。
 
-遊戲中並沒有金錢的概念存在，所以玩家一般都是以遊戲中是以比賽卷(Event
-Ticket，玩家一般會以Tix或T來代表)來代替貨幣進行交換，1T相當於USD1，由於遊戲中的卡牌的價格有時會低至USD0.０1，所以1T的幣值太大，實在不利於交易，加上遊戲中沒有內建拍賣場的設計，也不存在現實中作為卡牌交易平台的牌店，使玩家間的卡牌交換十分困難，最後一些玩家以稱為BOT的非官方開發的機器人程式來自動地進行收購卡牌或出售卡牌的行為。\[17\]
+遊戲中並沒有金錢的概念存在，所以玩家一般都是以遊戲中是以比賽卷(Event Ticket，玩家一般會以Tix或T來代表)來代替貨幣進行交換，1T相當於USD1，由於遊戲中的卡牌的價格有時會低至USD0.０1，所以1T的幣值太大，實在不利於交易，加上遊戲中沒有內建拍賣場的設計，也不存在現實中作為卡牌交易平台的牌店，使玩家間的卡牌交換十分困難，最後一些玩家以稱為BOT的非官方開發的機器人程式來自動地進行收購卡牌或出售卡牌的行為。\[17\]
 
 BOT實際上是一個玩家的帳號，但這個帳號是以特殊的程式來運作，玩家可和這些BOT進行交易(TRADE)，當玩家選擇想要購買或出售的卡牌後，BOT就會從資料庫找出這些卡牌的價格，並從玩家的交換清單中取出同等值的比賽卷或給予玩家同等值的比賽卷，當玩家確認無誤後就可以確認該筆交易並正式進行交換，而有時玩家購買或出售的卡牌價格不會剛好等於整數的T，這時BOT會把小數點自動進位，取走超值的T並把這差額記錄下來，下次玩家再和此BOT進行交易時就可先扣除這些之前交易多給或少取的T才需要再次扣費。
 
@@ -100,11 +78,7 @@ BOT實際上是一個玩家的帳號，但這個帳號是以特殊的程式來�
 
   - [官方網站](http://magic.wizards.com/en/game-info/products/magic-online)
 
-[Category:魔法風雲會](https://zh.wikipedia.org/wiki/Category:魔法風雲會 "wikilink")
-[Category:卡牌对战电子游戏](https://zh.wikipedia.org/wiki/Category:卡牌对战电子游戏 "wikilink")
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
+[Category:魔法風雲會](https://zh.wikipedia.org/wiki/Category:魔法風雲會 "wikilink") [Category:卡牌对战电子游戏](https://zh.wikipedia.org/wiki/Category:卡牌对战电子游戏 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
 
 1.
 

@@ -1,29 +1,16 @@
 \-{T|A ONE}-
 
-《**A
-ONE**》是日本歌手[濱崎步的第](../Page/濱崎步.md "wikilink")16張原創專輯，於2015年4月8日在日本發行。\[1\]其中，由[林俊傑作曲并參與音樂錄像帶拍攝的專輯收錄曲目](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")「The
-GIFT」於同年3月23日在KKBOX台灣、香港、新加坡、馬來西亞等大中華地區先行數位公開。\[2\]\[3\]
+《**A ONE**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第16張原創專輯，於2015年4月8日在日本發行。\[1\]其中，由[林俊傑作曲并參與音樂錄像帶拍攝的專輯收錄曲目](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")「The GIFT」於同年3月23日在KKBOX台灣、香港、新加坡、馬來西亞等大中華地區先行數位公開。\[2\]\[3\]
 
 ## 說明
 
-本作是濱崎步迎來出道17週年紀念日發行的第16張原創專輯，與上年末舉行的跨年演唱會《[ayumi hamasaki COUNTDOWN LIVE
-2014-2015 A Cirque de Minuit
-～真夜中のサーカス～](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2014-2015_A_Cirque_de_Minuit_～真夜中のサーカス～ "wikilink")》的DVD和Blu-ray同日發行。距前作《[Colours](../Page/Colours_\(濱崎步專輯\).md "wikilink")》發行僅9個月。
+本作是濱崎步迎來出道17週年紀念日發行的第16張原創專輯，與上年末舉行的跨年演唱會《[ayumi hamasaki COUNTDOWN LIVE 2014-2015 A Cirque de Minuit ～真夜中のサーカス～](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2014-2015_A_Cirque_de_Minuit_～真夜中のサーカス～ "wikilink")》的DVD和Blu-ray同日發行。距前作《[Colours](../Page/Colours_\(濱崎步專輯\).md "wikilink")》發行僅9個月。
 
-CD版本收錄了上年12月發行的冬日抒情單曲中的「Zutto...」、「Last
-minute」与「Walk」三首曲目，首度與華語音樂人合作、由[林俊傑作曲的新曲](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")「The
-GIFT」，以及此前收錄在[宇多田光致敬專輯](../Page/宇多田光.md "wikilink")《宇多田ヒカルのうた
--13组の音楽家による13の解釈について-》中大獲好評的翻唱曲「[Movin' on without
-you](../Page/Movin'_on_without_you.md "wikilink")」，此外還有七首由曾譜寫過大熱曲目的國內著名作曲家創作的新曲，共計12曲收錄其中。與跨年演唱會DVD/Blu-ray《[ayumi
-hamasaki COUNTDOWN LIVE 2014-2015 A Cirque de Minuit
-～真夜中のサーカス～](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2014-2015_A_Cirque_de_Minuit_～真夜中のサーカス～ "wikilink")》搭配發售的TeamAyu限定盤中，額外收錄了2013年4月8日配信限定的出道15週年紀念樂曲「[Tell
-All](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_15th_Anniversary_TOUR_～A_BEST_LIVE～#CD "wikilink")」的重新混音版本，共計13曲收錄其中。
+CD版本收錄了上年12月發行的冬日抒情單曲中的「Zutto...」、「Last minute」与「Walk」三首曲目，首度與華語音樂人合作、由[林俊傑作曲的新曲](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")「The GIFT」，以及此前收錄在[宇多田光](../Page/宇多田光.md "wikilink")致敬專輯《宇多田ヒカルのうた -13组の音楽家による13の解釈について-》中大獲好評的翻唱曲「[Movin' on without you](../Page/Movin'_on_without_you.md "wikilink")」，此外還有七首由曾譜寫過大熱曲目的國內著名作曲家創作的新曲，共計12曲收錄其中。與跨年演唱會DVD/Blu-ray《[ayumi hamasaki COUNTDOWN LIVE 2014-2015 A Cirque de Minuit ～真夜中のサーカス～](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2014-2015_A_Cirque_de_Minuit_～真夜中のサーカス～ "wikilink")》搭配發售的TeamAyu限定盤中，額外收錄了2013年4月8日配信限定的出道15週年紀念樂曲「[Tell All](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_15th_Anniversary_TOUR_～A_BEST_LIVE～#CD "wikilink")」的重新混音版本，共計13曲收錄其中。
 
-DVD、Blu-ray版本囊括了在單曲發行日公佈的「Zutto...」的video clip，并加入包括「Last minute」和「The
-GIFT」在內的3枚三枚新video clip与多枚making clip，共計8枚映像作品收錄其中。
+DVD、Blu-ray版本囊括了在單曲發行日公佈的「Zutto...」的video clip，并加入包括「Last minute」和「The GIFT」在內的3枚三枚新video clip与多枚making clip，共計8枚映像作品收錄其中。
 
-本作並未延續前作《[Colours](../Page/Colours_\(濱崎步專輯\).md "wikilink")》的歐美電音路線，而是回歸了濱崎步最負盛名的[J-POP風格](https://zh.wikipedia.org/wiki/J-POP "wikilink")，並且融合[C-POP元素](https://zh.wikipedia.org/wiki/中文流行音乐 "wikilink")。專輯中近一半的歌曲都採用了抒情的曲風，新拍攝PV的「Last
-minute」和「WARNING」則再次詮釋了步式搖滾精神。\[4\]
+本作並未延續前作《[Colours](../Page/Colours_\(濱崎步專輯\).md "wikilink")》的歐美電音路線，而是回歸了濱崎步最負盛名的[J-POP風格](https://zh.wikipedia.org/wiki/J-POP "wikilink")，並且融合[C-POP元素](https://zh.wikipedia.org/wiki/中文流行音乐 "wikilink")。專輯中近一半的歌曲都採用了抒情的曲風，新拍攝PV的「Last minute」和「WARNING」則再次詮釋了步式搖滾精神。\[4\]
 
 ## 收錄歌曲
 
@@ -79,8 +66,7 @@ minute」和「WARNING」則再次詮釋了步式搖滾精神。\[4\]
 </tbody>
 </table>
 
-  - <small>ALBUM+DVD/Blu-ray+LIVE
-    DVD/Blu-ray+GOODS是日本發行的數量限定生產的豪華盒裝組合。</small>
+  - <small>ALBUM+DVD/Blu-ray+LIVE DVD/Blu-ray+GOODS是日本發行的數量限定生產的豪華盒裝組合。</small>
 
 ## 統計
 
@@ -97,8 +83,7 @@ minute」和「WARNING」則再次詮釋了步式搖滾精神。\[4\]
 
   - [濱崎步官方網站](http://www.avexnet.or.jp/ayu/jp/discography/index.html)
 
-[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
+[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
 
 1.
 2.

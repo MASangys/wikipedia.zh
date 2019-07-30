@@ -145,7 +145,7 @@
 <tr class="even">
 <td><p><strong>Crescit eundo.</strong></p></td>
 <td><p>日新月异。</p></td>
-<td><p><a href="../Page/新墨西哥州.md" title="wikilink">新墨西哥州格言</a></p></td>
+<td><p><a href="../Page/新墨西哥州.md" title="wikilink">新墨西哥州</a>格言</p></td>
 </tr>
 <tr class="odd">
 <td><p>'''crimen laesae maiestatis '''</p></td>
@@ -176,7 +176,6 @@
 
 ## 外部链接
 
-  - [拉丁语短语列表（C字头）](http://www.oai.de/de/45-publikationen/sprichwort/181-c-latein.html)
-    (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
+  - [拉丁语短语列表（C字头）](http://www.oai.de/de/45-publikationen/sprichwort/181-c-latein.html) (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
 
 [Category:拉丁文單字及片語](https://zh.wikipedia.org/wiki/Category:拉丁文單字及片語 "wikilink")

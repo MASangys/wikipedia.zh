@@ -1,4 +1,4 @@
-**HoneyWorks**（），簡稱或HW，是[日本](../Page/日本.md "wikilink")[VOCALOID樂團](../Page/VOCALOID.md "wikilink")，也是[Niconico動畫的使用者](../Page/Niconico動畫.md "wikilink")，其作品上傳到該網站。他們於2010年正式成立，並在2014年1月29日以專輯《從好久以前就喜歡你。》正式出道。除此之外，HoneyWorks還會把較受歡迎的曲子改編成短篇動畫、漫畫和小說。
+**HoneyWorks**（），簡稱或HW，是[日本](../Page/日本.md "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")樂團，也是[Niconico動畫](../Page/Niconico動畫.md "wikilink")的使用者，其作品上傳到該網站。他們於2010年正式成立，並在2014年1月29日以專輯《從好久以前就喜歡你。》正式出道。除此之外，HoneyWorks還會把較受歡迎的曲子改編成短篇動畫、漫畫和小說。
 
 ## 成員
 
@@ -29,21 +29,18 @@
   - Oji\[5\]
     別稱：
     男性。負責吉他。第5作《初戀的繪本》後開始參與大部分的樂曲製作，而且從2012年秋天開始出現在製作成員的名單。
-    演奏時經常穿著[ONE
-    PIECE的](../Page/ONE_PIECE.md "wikilink")[T恤](../Page/T恤.md "wikilink")。
+    演奏時經常穿著[ONE PIECE的](../Page/ONE_PIECE.md "wikilink")[T恤](../Page/T恤.md "wikilink")。
     從2007年開始以吉他演奏者的身份在Niconico動畫上活動。
 
 <!-- end list -->
 
   - \[6\]
-    女性。負責插圖。2013年加入。從第13作《聽說吉田要離家出走》開始參加製作。《在你又再想要歌唱起來之時。》、《留堂老師》、《再見了雙向暗戀》的畫師，也負責v
-    flower和CHiCO的角色設計。
+    女性。負責插圖。2013年加入。從第13作《聽說吉田要離家出走》開始參加製作。《在你又再想要歌唱起來之時。》、《留堂老師》、《再見了雙向暗戀》的畫師，也負責v flower和CHiCO的角色設計。
 
 <!-- end list -->
 
   - ziro\[7\]
-    負責動畫。從第3作《喜歡討厭》開始就負責大部分的動畫製作，2014年5月正式加入後，首個作品是《剎那旅程／HoneyWorks
-    REMIX》。
+    負責動畫。從第3作《喜歡討厭》開始就負責大部分的動畫製作，2014年5月正式加入後，首個作品是《剎那旅程／HoneyWorks REMIX》。
     從2007年開始以動畫上傳者的身份在Niconico動畫上活動，上傳的動畫主要為MV。
 
 <!-- end list -->
@@ -68,8 +65,7 @@
 
 ## 概要
 
-作品中主要使用的VOCALOID為[初音未來](../Page/初音未來.md "wikilink")、[鏡音鈴](../Page/鏡音鈴、連.md "wikilink")、[鏡音連](../Page/鏡音鈴、連.md "wikilink")、[GUMI](../Page/Megpoid.md "wikilink")、[歌手音PIKO](https://zh.wikipedia.org/wiki/歌手音PIKO "wikilink")、[IA](https://zh.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")、[兔眠莉音](https://zh.wikipedia.org/wiki/兔眠莉音 "wikilink")、[v
-flower](https://zh.wikipedia.org/wiki/v_flower "wikilink")，還有以Gom名義使用的[神威GAKUPO](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")。其它持有的VOCALOID為[VY1和](https://zh.wikipedia.org/wiki/VY1 "wikilink")[KAITO](https://zh.wikipedia.org/wiki/KAITO "wikilink")。
+作品中主要使用的VOCALOID為[初音未來](../Page/初音未來.md "wikilink")、[鏡音鈴](../Page/鏡音鈴、連.md "wikilink")、[鏡音連](../Page/鏡音鈴、連.md "wikilink")、[GUMI](../Page/Megpoid.md "wikilink")、[歌手音PIKO](https://zh.wikipedia.org/wiki/歌手音PIKO "wikilink")、[IA](https://zh.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")、[兔眠莉音](https://zh.wikipedia.org/wiki/兔眠莉音 "wikilink")、[v flower](https://zh.wikipedia.org/wiki/v_flower "wikilink")，還有以Gom名義使用的[神威GAKUPO](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")。其它持有的VOCALOID為[VY1和](https://zh.wikipedia.org/wiki/VY1 "wikilink")[KAITO](https://zh.wikipedia.org/wiki/KAITO "wikilink")。
 曲風主要傾向[搖滾和](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")。Gom和shito負責作曲，個別作曲或共同作曲的情況都有，作曲後可以跟團隊裡的成員交流一下關於歌詞、編曲和動畫的構思。2012年開始，Gom、shito和Oji住在一起，同時也直接完善了製作環境。一起居住的地方被成員們稱為「」或「」。
 動畫的構成則是由樂曲負責人根據對曲子的印象指定畫師以及動畫師，同時因為對動畫的製作有很多期望，因此大部分的作品都是在經過了成員內部的會議後決定的。在社群的生放送中證實了動畫繪師在早期是由樂曲負責人指定的繪師，後期則是Yamako作為繪師的事實。
 
@@ -91,15 +87,9 @@ flower](https://zh.wikipedia.org/wiki/v_flower "wikilink")，還有以Gom名義�
 
 2013年，Rokoru加入。為電視動畫《[兄弟鬥爭](../Page/兄弟鬥爭.md "wikilink")》寫了OP《BELOVED×SURVIVAL》（負責作曲和編曲），為電視動畫《[特例措施團體斯特拉女子學院高等科C3部](../Page/特例措施團體斯特拉女子學院高等科C3部.md "wikilink")》寫了ED《》（負責作詞、作曲和編曲）。開設了官方網站。《喜歡討厭》小說化。製作了專輯《六弦占星術》、《試唱Haniwa曲4》。
 
-2014年，1月，以專輯《從好久以前就喜歡你。》正式出道。2月，《告白預演》小說化。5月，ziro和cake加入。6月，AtsuyuK\!加入，《嫉忌的答覆》小說化。
-2014年夏天，[日本索尼音樂娛樂SD組舉辦了一個名為](../Page/日本索尼音樂娛樂.md "wikilink")『』的全國唱見試鏡活動，HoneyWorks與在該活動中被選為的[CHiCO合作](../Page/CHiCO.md "wikilink")，開始以合作單位「CHiCO
-with
-HoneyWorks」的名義活動。7月，Mogelatte加入。為電視動畫《[閃爍的青春](../Page/閃爍的青春.md "wikilink")》寫了OP《世界都墜入戀愛之中》（負責作詞、作曲和編曲）。8月，「CHiCO
-with
-HoneyWorks」的第一張單曲《世界都墜入戀愛之中》發售。製作了鎖那×HoneyWorks專輯《喜歡的人。》。由Mogelatte繪畫的漫畫版《竹林一夜轟動》開始連載。11月《初戀的繪本》小說化，第二張專輯《我的話就不行嗎?\~「告白實行委員會」角色歌曲集\~》發售。製作了《試唱Haniwa曲5》。
+2014年，1月，以專輯《從好久以前就喜歡你。》正式出道。2月，《告白預演》小說化。5月，ziro和cake加入。6月，AtsuyuK\!加入，《嫉忌的答覆》小說化。 2014年夏天，[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")SD組舉辦了一個名為『』的全國唱見試鏡活動，HoneyWorks與在該活動中被選為的[CHiCO](../Page/CHiCO.md "wikilink")合作，開始以合作單位「CHiCO with HoneyWorks」的名義活動。7月，Mogelatte加入。為電視動畫《[閃爍的青春](../Page/閃爍的青春.md "wikilink")》寫了OP《世界都墜入戀愛之中》（負責作詞、作曲和編曲）。8月，「CHiCO with HoneyWorks」的第一張單曲《世界都墜入戀愛之中》發售。製作了鎖那×HoneyWorks專輯《喜歡的人。》。由Mogelatte繪畫的漫畫版《竹林一夜轟動》開始連載。11月《初戀的繪本》小說化，第二張專輯《我的話就不行嗎?\~「告白實行委員會」角色歌曲集\~》發售。製作了《試唱Haniwa曲5》。
 
-2015年，為電視動畫《[魔術快斗1412](https://zh.wikipedia.org/wiki/魔术快斗 "wikilink")》寫了OP《愛的劇本》。2月，「CHiCO
-with HoneyWorks」的第二張單曲《愛的劇本》發售。
+2015年，為電視動畫《[魔術快斗1412](https://zh.wikipedia.org/wiki/魔术快斗 "wikilink")》寫了OP《愛的劇本》。2月，「CHiCO with HoneyWorks」的第二張單曲《愛的劇本》發售。
 
 ## 上傳歌曲
 
@@ -840,18 +830,16 @@ Gom</p></td>
 
 #### 全世界墜入情網
 
-《全世界墜入情網》（）是HoneyWorks和CHiCO合作，以「CHiCO with
-HoneyWorks」名義推出的第一張單曲，為電視動畫《[閃爍的青春](../Page/閃爍的青春.md "wikilink")》的OP。專輯分為兩種版本，分別為\[15\]\[16\]\[17\]：
+《全世界墜入情網》（）是HoneyWorks和CHiCO合作，以「CHiCO with HoneyWorks」名義推出的第一張單曲，為電視動畫《[閃爍的青春](../Page/閃爍的青春.md "wikilink")》的OP。專輯分為兩種版本，分別為\[15\]\[16\]\[17\]：
 
   - 閃爍的青春盤（期間生產限定盤）：CD
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-344
-      - 封面為吉岡雙葉和馬淵洸，由[咲坂伊緒繪製](../Page/咲坂伊緒.md "wikilink")
+      - 封面為吉岡雙葉和馬淵洸，由[咲坂伊緒](../Page/咲坂伊緒.md "wikilink")繪製
   - CHiCO with HoneyWorks盤：CD
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-345
       - 封面為CHiCO，Rokoru負責角色設計，並由Yamako繪製
 
-此單曲設有發售紀念CD店舖特典，只要購買CD就能得到特典，並無指定閃爍的青春盤或CHiCO with
-HoneyWorks盤。在不同的店舖購買能得到不同的特典，分別為\[18\]\[19\]：
+此單曲設有發售紀念CD店舖特典，只要購買CD就能得到特典，並無指定閃爍的青春盤或CHiCO with HoneyWorks盤。在不同的店舖購買能得到不同的特典，分別為\[18\]\[19\]：
 
   - [安利美特](../Page/安利美特.md "wikilink")（包括網上商店）
 
@@ -865,8 +853,7 @@ HoneyWorks盤。在不同的店舖購買能得到不同的特典，分別為\[18
 
       - CHiCO特製貼紙——Yamako繪製，Rokoru設計角色
 
-  - [TSUTAYA
-    RECORDS](https://zh.wikipedia.org/wiki/TSUTAYA_RECORDS "wikilink")（部分店舖除外）
+  - [TSUTAYA RECORDS](https://zh.wikipedia.org/wiki/TSUTAYA_RECORDS "wikilink")（部分店舖除外）
 
       - 閃爍的青春特製B5文件夾2——咲坂伊緒繪製
 
@@ -888,8 +875,7 @@ HoneyWorks盤。在不同的店舖購買能得到不同的特典，分別為\[18
 
 #### 愛的劇本
 
-《愛的劇本》（）是HoneyWorks和CHiCO合作，以「CHiCO with
-HoneyWorks」名義推出的第二張單曲，為電視動畫《[魔術快斗1412](https://zh.wikipedia.org/wiki/魔术快斗 "wikilink")》的OP。專輯分為兩種版本，分別為：
+《愛的劇本》（）是HoneyWorks和CHiCO合作，以「CHiCO with HoneyWorks」名義推出的第二張單曲，為電視動畫《[魔術快斗1412](https://zh.wikipedia.org/wiki/魔术快斗 "wikilink")》的OP。專輯分為兩種版本，分別為：
 
   - 期間生產限定盤
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-372
@@ -900,8 +886,7 @@ HoneyWorks」名義推出的第二張單曲，為電視動畫《[魔術快斗141
 
 #### 驕傲革命
 
-《**驕傲革命**》（）是HoneyWorks和CHiCO合作，以「CHiCO with
-HoneyWorks」名義推出的第三張單曲，為電視動畫《[銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")》的OP。單曲分為兩種版本，分別為：
+《**驕傲革命**》（）是HoneyWorks和CHiCO合作，以「CHiCO with HoneyWorks」名義推出的第三張單曲，為電視動畫《[銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")》的OP。單曲分為兩種版本，分別為：
 
   - 期間生產限定盤
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-398
@@ -912,8 +897,7 @@ HoneyWorks」名義推出的第三張單曲，為電視動畫《[銀魂](https:/
 
 #### 無需言語的約定 / 曉月夜
 
-《**無需言語的約定 /
-曉月夜**》（）是HoneyWorks和sana合作推出的第一張，而無需言語的約定為電視動畫《[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")》的ED。單曲分為兩種版本，分別為：
+《**無需言語的約定 / 曉月夜**》（）是HoneyWorks和sana合作推出的第一張，而無需言語的約定為電視動畫《[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")》的ED。單曲分為兩種版本，分別為：
 
   - 期間生產限定動畫盤
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-382
@@ -924,20 +908,15 @@ HoneyWorks」名義推出的第三張單曲，為電視動畫《[銀魂](https:/
 
 #### 戀色中綻放
 
-《戀色中綻放》（）是HoneyWorks和CHiCO合作，以「CHiCO with
-HoneyWorks」名義推出的第四張單曲，為動畫電影《[從好久以前就喜歡你。～告白實行委員會～](https://zh.wikipedia.org/wiki/告白實行委員會_～戀愛系列～#動畫電影 "wikilink")》的片頭曲。專輯分為兩種版本，分別為期間生產限定盤，封面為芹澤春輝、望月蒼太及瀨戶口優，由藤井まき繪製，以及通常盤，封面為CHiCO，由Yamako繪製。
+《戀色中綻放》（）是HoneyWorks和CHiCO合作，以「CHiCO with HoneyWorks」名義推出的第四張單曲，為動畫電影《[從好久以前就喜歡你。～告白實行委員會～](https://zh.wikipedia.org/wiki/告白實行委員會_～戀愛系列～#動畫電影 "wikilink")》的片頭曲。專輯分為兩種版本，分別為期間生產限定盤，封面為芹澤春輝、望月蒼太及瀨戶口優，由藤井まき繪製，以及通常盤，封面為CHiCO，由Yamako繪製。
 
 #### 你與我的每分每秒
 
-《你與我的每分每秒》（）是HoneyWorks和[sphere合作](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")，以「HoneyWorks
-meets
-sphere」名義推出的第一張單曲，為動畫電影《[從好久以前就喜歡你。～告白實行委員會～](https://zh.wikipedia.org/wiki/告白實行委員會_～戀愛系列～#動畫電影 "wikilink")》的片尾曲。專輯分為三種版本，分別為初回生產限定盤，封面為sphere，期間生產限定動畫盤，封面為合田美櫻、早坂燈里及榎本夏樹，由藤井まき繪製，以及通常盤，封面為sphere。
-
+《你與我的每分每秒》（）是HoneyWorks和[sphere合作](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")，以「HoneyWorks meets sphere」名義推出的第一張單曲，為動畫電影《[從好久以前就喜歡你。～告白實行委員會～](https://zh.wikipedia.org/wiki/告白實行委員會_～戀愛系列～#動畫電影 "wikilink")》的片尾曲。專輯分為三種版本，分別為初回生產限定盤，封面為sphere，期間生產限定動畫盤，封面為合田美櫻、早坂燈里及榎本夏樹，由藤井まき繪製，以及通常盤，封面為sphere。
 
 #### 我呼喚你名字的那日 / 我知曉何為戀愛的那日
 
-《**我呼喚你名字的那日 /
-我知曉何為戀愛的那日**》（）是HoneyWorks為[告白實行委員會角色望月蒼太及早坂燈里寫的角色歌](https://zh.wikipedia.org/wiki/告白實行委員會 "wikilink")，兩首均由GUMI主唱。
+《**我呼喚你名字的那日 / 我知曉何為戀愛的那日**》（）是HoneyWorks為[告白實行委員會角色望月蒼太及早坂燈里寫的角色歌](https://zh.wikipedia.org/wiki/告白實行委員會 "wikilink")，兩首均由GUMI主唱。
 
 ### 專輯
 
@@ -945,7 +924,7 @@ sphere」名義推出的第一張單曲，為動畫電影《[從好久以前就�
 
 ##### 從好久以前就喜歡你。
 
-《從好久以前就喜歡你。》（）是HoneyWorks正式出道的第一張專輯，同時是告白實行委員會的第一張專輯，專輯內只有部分曲子與這系列有關。除了在[Niconico動畫已經發表過的歌曲](../Page/Niconico動畫.md "wikilink")，還有另外創作的歌曲。封面由Yamako繪製。專輯分為三種版本，分別為\[20\]\[21\]\[22\]\[23\]：
+《從好久以前就喜歡你。》（）是HoneyWorks正式出道的第一張專輯，同時是告白實行委員會的第一張專輯，專輯內只有部分曲子與這系列有關。除了在[Niconico動畫](../Page/Niconico動畫.md "wikilink")已經發表過的歌曲，還有另外創作的歌曲。封面由Yamako繪製。專輯分為三種版本，分別為\[20\]\[21\]\[22\]\[23\]：
 
   - 初回生產限定盤Ａ：CD＋DVD＋漫畫
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-322～324
@@ -965,7 +944,7 @@ sphere」名義推出的第一張單曲，為動畫電影《[從好久以前就�
 
 ##### 我的話就不行嗎?
 
-《我的話就不行嗎?\~「告白實行委員會」角色歌曲集\~》（）是HoneyWorks的第二張主要專輯，同時是告白實行委員會的第二張專輯，專輯內的曲子全都由聲優翻唱。除了在[Niconico動畫已經發表過的歌曲](../Page/Niconico動畫.md "wikilink")，還有另外創作的歌曲。封面由Yamako繪製。專輯分為兩種版本，分別為\[24\]\[25\]：
+《我的話就不行嗎?\~「告白實行委員會」角色歌曲集\~》（）是HoneyWorks的第二張主要專輯，同時是告白實行委員會的第二張專輯，專輯內的曲子全都由聲優翻唱。除了在[Niconico動畫](../Page/Niconico動畫.md "wikilink")已經發表過的歌曲，還有另外創作的歌曲。封面由Yamako繪製。專輯分為兩種版本，分別為\[24\]\[25\]：
 
   - 初回生產限定盤：CD＋DVD＋漫畫
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-363〜365
@@ -997,8 +976,7 @@ sphere」名義推出的第一張單曲，為動畫電影《[從好久以前就�
 
 ##### 世界充滿著愛
 
-《**世界充滿著愛**》（）是HoneyWorks和CHiCO合作，以「CHiCO with
-HoneyWorks」名義推出的第一張專輯。專輯分為兩種版本，分別為：
+《**世界充滿著愛**》（）是HoneyWorks和CHiCO合作，以「CHiCO with HoneyWorks」名義推出的第一張專輯。專輯分為兩種版本，分別為：
 
   - 初回生產限定盤：CD＋DVD＋輕小說
       - [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")：SMCL-409～411
@@ -1021,8 +999,7 @@ HoneyWorks」名義推出的第一張專輯。專輯分為兩種版本，分別�
 
 ##### 初戀筆記
 
-《初戀筆記》（）是HoneyWorks的專輯。封面為一個正在哭泣的人，由Yamako繪製。THE VOC@LOiD
-M@STER18會場設有同時購入特典CD，只要同時購入《初戀筆記》及插圖集《愛哭鬼》，就能得到特典CD，收錄了和的鋼琴重編及原聲結他重編兩曲\[31\]\[32\]\[33\]\[34\]。
+《初戀筆記》（）是HoneyWorks的專輯。封面為一個正在哭泣的人，由Yamako繪製。THE VOC@LOiD M@STER18會場設有同時購入特典CD，只要同時購入《初戀筆記》及插圖集《愛哭鬼》，就能得到特典CD，收錄了和的鋼琴重編及原聲結他重編兩曲\[31\]\[32\]\[33\]\[34\]。
 
 ##### 試唱Haniwa曲2
 
@@ -1046,8 +1023,7 @@ M@STER18會場設有同時購入特典CD，只要同時購入《初戀筆記》�
 
 ##### 六弦占星術
 
-《六弦占星術》（）是HoneyWorks的專輯。封面由Yamako繪製。THE VOC@LOID 超 M@STER
-24會場限定特典為兩款不同的文件夾，每購買一張《六弦占星術》專輯就能獲贈一個，顧客能自行選擇告白實行委員會文件夾或六弦占星術文件夾\[40\]。
+《六弦占星術》（）是HoneyWorks的專輯。封面由Yamako繪製。THE VOC@LOID 超 M@STER 24會場限定特典為兩款不同的文件夾，每購買一張《六弦占星術》專輯就能獲贈一個，顧客能自行選擇告白實行委員會文件夾或六弦占星術文件夾\[40\]。
 
 ##### 試唱Haniwa曲4
 
@@ -1084,8 +1060,7 @@ M@STER18會場設有同時購入特典CD，只要同時購入《初戀筆記》�
 #### 告白實行委員會 ～戀愛系列～
 
   -
-    《告白實行委員會
-    ～戀愛系列～》的短篇漫畫，總共32頁，2013年8月12日於[C84發售](../Page/Comic_Market.md "wikilink")，由印刷\[46\]。
+    《告白實行委員會 ～戀愛系列～》的短篇漫畫，總共32頁，2013年8月12日於[C84發售](../Page/Comic_Market.md "wikilink")，由印刷\[46\]。
   -
     包裝在《[從好久以前就喜歡你。](https://zh.wikipedia.org/wiki/#從好久以前就喜歡你。 "wikilink")》的初回生產限定盤Ａ，由印刷。
   -
@@ -1095,9 +1070,7 @@ M@STER18會場設有同時購入特典CD，只要同時購入《初戀筆記》�
 
 #### 竹林一夜轟動
 
-《竹林一夜轟動》（）原是HoneyWorks的曲子，後來漫畫化並於[月刊Comic
-ZERO-SUM](https://zh.wikipedia.org/wiki/月刊Comic_ZERO-SUM "wikilink")
-2014年10月號開始連載，由Mogelatte繪畫\[47\]\[48\]。
+《竹林一夜轟動》（）原是HoneyWorks的曲子，後來漫畫化並於[月刊Comic ZERO-SUM](https://zh.wikipedia.org/wiki/月刊Comic_ZERO-SUM "wikilink") 2014年10月號開始連載，由Mogelatte繪畫\[47\]\[48\]。
 
 ### 小說
 
@@ -1284,8 +1257,7 @@ ZERO-SUM](https://zh.wikipedia.org/wiki/月刊Comic_ZERO-SUM "wikilink")
 
 <!-- end list -->
 
-  - [「Rokoru」的個人資料
-    \[pixiv](http://www.pixiv.net/member.php?id=3950388)\]
+  - [「Rokoru」的個人資料 \[pixiv](http://www.pixiv.net/member.php?id=3950388)\]
 
   -
 <!-- end list -->
@@ -1314,8 +1286,7 @@ ZERO-SUM](https://zh.wikipedia.org/wiki/月刊Comic_ZERO-SUM "wikilink")
 
 <!-- end list -->
 
-  - [「Mogelatte\!\!」的個人資料
-    \[pixiv](http://www.pixiv.net/member.php?id=73837)\]
+  - [「Mogelatte\!\!」的個人資料 \[pixiv](http://www.pixiv.net/member.php?id=73837)\]
 
   -
   - [Mogelatte的Niconico動畫社群——MOGE×RADIo](http://com.nicovideo.jp/community/co405239)
@@ -1335,10 +1306,7 @@ ZERO-SUM](https://zh.wikipedia.org/wiki/月刊Comic_ZERO-SUM "wikilink")
 
   - [Atsuyuk\!的Niconico播放清單](http://www.nicovideo.jp/mylist/39305499)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:Music_Ray'n所屬藝人](https://zh.wikipedia.org/wiki/Category:Music_Ray'n所屬藝人 "wikilink")
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:Music_Ray'n所屬藝人](https://zh.wikipedia.org/wiki/Category:Music_Ray'n所屬藝人 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
 
 1.
 

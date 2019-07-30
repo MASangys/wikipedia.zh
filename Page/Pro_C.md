@@ -1,7 +1,4 @@
-**Pro C**（），團名意思是「**Problem
-Children**」，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2013年所推出的2人男子組合，是[MADTOWN正式出道前](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")，由成員與[BUFFY組成的子團](https://zh.wikipedia.org/wiki/BUFFY "wikilink")\[1\]\[2\]\[3\]。
-2013年11月25日官方公開預告影片\[4\]。 2013年11月28日，公開出道曲《Bad memory》\[5\]。
-2014年1月之後才公開兩位成員的面貌，讓大家正式與**Pro C**見面\[6\]\[7\]。
+**Pro C**（），團名意思是「**Problem Children**」，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2013年所推出的2人男子組合，是[MADTOWN正式出道前](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")，由成員與[BUFFY組成的子團](https://zh.wikipedia.org/wiki/BUFFY "wikilink")\[1\]\[2\]\[3\]。 2013年11月25日官方公開預告影片\[4\]。 2013年11月28日，公開出道曲《Bad memory》\[5\]。 2014年1月之後才公開兩位成員的面貌，讓大家正式與**Pro C**見面\[6\]\[7\]。
 
 ## 成員列表
 
@@ -87,14 +84,7 @@ Children**」，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2013
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.  <http://kpopn.com/2013/12/02/201986/> Pro C "Bad memory" MV
 2.  <http://kpopn.com/2014/10/10/244102/> MAD TOWN
@@ -102,10 +92,8 @@ Children**」，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2013
 4.  <http://kpopn.com/2013/11/25/201133/> MBLAQ 公司推新團 Pro C
 5.   J.Tune Camp新男团rapper小分队Pro C，28日发表出道曲
 6.  <http://kpopn.com/2014/01/28/209094/> MBLAQ 師弟 2/5 發單曲
-7.  <http://m.hanjumi.net/hanguoyulexinwen/196/>  韩国新男子组合Pro
-    C成员Moos和Buffy照公开
-8.  <http://blog.yam.com/pinkydobo06/article/72182807> J.Tune新男團Pro
-    C成員資料介紹(MBLAQ師弟)
+7.  <http://m.hanjumi.net/hanguoyulexinwen/196/>  韩国新男子组合Pro C成员Moos和Buffy照公开
+8.  <http://blog.yam.com/pinkydobo06/article/72182807> J.Tune新男團Pro C成員資料介紹(MBLAQ師弟)
 9.
 10.
 11.

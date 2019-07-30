@@ -27,5 +27,4 @@
 
 [Category:孫燕姿音樂專輯](https://zh.wikipedia.org/wiki/Category:孫燕姿音樂專輯 "wikilink")
 
-1.  [孫燕姿最新單曲《RADIO》 | 環球唱片 -
-    正東唱片](http://www.umg.com.hk/news/3601/detail)
+1.  [孫燕姿最新單曲《RADIO》 | 環球唱片 - 正東唱片](http://www.umg.com.hk/news/3601/detail)

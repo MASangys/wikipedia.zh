@@ -6,16 +6,13 @@
 | **第14作**                                                      |
 | **第15作**                                                      |
 
-『**重甲B-Fighter**』（）是[日本](../Page/日本.md "wikilink")[東映製作的](../Page/東映.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。从1995年（平成7年）2月5日至1996年（平成8年）2月25日每周星期日8
-: 00 - 8 :
-30（JST）由朝日电视台放送，全53话，由东映制作的特摄电视节目，以及在作品中主人公们变身的英雄的名称。为“金属英雄系列”的第14部作品与“B-Fighter系列”的第1部作品。。
+『**重甲B-Fighter**』（）是[日本](../Page/日本.md "wikilink")[東映](../Page/東映.md "wikilink")製作的[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。从1995年（平成7年）2月5日至1996年（平成8年）2月25日每周星期日8 : 00 - 8 : 30（JST）由朝日电视台放送，全53话，由东映制作的特摄电视节目，以及在作品中主人公们变身的英雄的名称。为“金属英雄系列”的第14部作品与“B-Fighter系列”的第1部作品。。
 
 ## 登場人物
 
   - 甲斐拓也/ブルービート（声）：土屋大輔 港配:[梁偉德](../Page/梁偉德.md "wikilink")
   - 片霧大作/ジースタッグ（声）：金井シゲル（金井茂） 港配:[何國星](../Page/何國星.md "wikilink")
-  - 羽山麗/レッドル（声）：葉月レイナ（第1 -
-    19話）港配:[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")
+  - 羽山麗/レッドル（声）：葉月レイナ（第1 - 19話）港配:[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")
   - 鷹取舞/レッドル（声）：巴千草（第22話 - ）港配:[鄭麗麗](../Page/鄭麗麗.md "wikilink")
   - ギガロ：高橋利道
   - ジェラ / ジーラ：伊藤祐子
@@ -108,34 +105,27 @@
   - 東京都、關東廣域圏 ANB〔現:EX〕 **[朝日電視台](../Page/朝日電視台.md "wikilink")**
   - 北海道 HTB [北海道電視台](../Page/北海道電視台.md "wikilink")
   - 青森縣 RAB [青森放送](https://zh.wikipedia.org/wiki/青森放送 "wikilink")
-  - 岩手縣 IBC
-    [岩手放送〔現:IBC岩手放送〕](https://zh.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - 岩手縣 IBC [岩手放送〔現:IBC岩手放送〕](https://zh.wikipedia.org/wiki/IBC岩手放送 "wikilink")
   - 宮城縣 KHB [東日本放送](https://zh.wikipedia.org/wiki/東日本放送 "wikilink")
   - 秋田縣 ABS [秋田放送](https://zh.wikipedia.org/wiki/秋田放送 "wikilink")
   - 福島縣 KFB [福島放送](https://zh.wikipedia.org/wiki/福島放送 "wikilink")
-  - 新潟縣 NT21〔現:UX〕
-    [新潟電視台21](https://zh.wikipedia.org/wiki/新潟電視台21 "wikilink")
+  - 新潟縣 NT21〔現:UX〕 [新潟電視台21](https://zh.wikipedia.org/wiki/新潟電視台21 "wikilink")
   - 山梨縣 UTY [山梨電視台](https://zh.wikipedia.org/wiki/山梨電視台 "wikilink")
   - 石川縣 ITC [石川電視台](https://zh.wikipedia.org/wiki/石川電視台 "wikilink")
   - 福井縣 FBC [福井放送](https://zh.wikipedia.org/wiki/福井放送 "wikilink")
   - 長野縣 TSB [信州電視台](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")
-  - 靜岡縣 SKT [靜岡縣民電視台〔現:SATV
-    靜岡朝日電視台〕](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink")
+  - 靜岡縣 SKT [靜岡縣民電視台〔現:SATV 靜岡朝日電視台〕](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink")
   - 愛知縣、中京圏 NBN [名古屋放送〔現:メ〜テレ〕](../Page/名古屋電視台.md "wikilink")
-  - 大阪府、近畿廣域圏 ABC
-    [朝日放送](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")
+  - 大阪府、近畿廣域圏 ABC [朝日放送](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")
   - 鳥取縣、島根縣 BSS [山陰放送](https://zh.wikipedia.org/wiki/山陰放送 "wikilink")
-  - 岡山縣、香川縣 KSB
-    [瀨戶內海放送](https://zh.wikipedia.org/wiki/瀨戶內海放送 "wikilink")
-  - 廣島縣 UHT〔現:HOME〕
-    [廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")
+  - 岡山縣、香川縣 KSB [瀨戶內海放送](https://zh.wikipedia.org/wiki/瀨戶內海放送 "wikilink")
+  - 廣島縣 UHT〔現:HOME〕 [廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")
   - 山口縣 KRY [山口放送](https://zh.wikipedia.org/wiki/山口放送 "wikilink")
   - 德島縣 JRT [四國放送](https://zh.wikipedia.org/wiki/四國放送 "wikilink")
   - 愛媛縣 EBC [愛媛放送〔現:愛媛電視台〕](../Page/愛媛電視台.md "wikilink")
   - 高知縣 RKC [高知放送](https://zh.wikipedia.org/wiki/高知放送 "wikilink")
   - 福岡縣 KBC [九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")
-  - 熊本縣 TKU [熊本電視台](https://zh.wikipedia.org/wiki/熊本電視台 "wikilink")→KAB
-    [熊本朝日放送](https://zh.wikipedia.org/wiki/熊本朝日放送 "wikilink")
+  - 熊本縣 TKU [熊本電視台](https://zh.wikipedia.org/wiki/熊本電視台 "wikilink")→KAB [熊本朝日放送](https://zh.wikipedia.org/wiki/熊本朝日放送 "wikilink")
   - 大分縣 TOS [大分電視台](https://zh.wikipedia.org/wiki/大分電視台 "wikilink")
   - 宮崎縣 UMK [宮崎電視台](../Page/宮崎電視台.md "wikilink")
   - 鹿兒島縣 KKB [鹿兒島放送](https://zh.wikipedia.org/wiki/鹿兒島放送 "wikilink")
@@ -147,6 +137,4 @@
 
 ## 外部連結
 
-[Category:金屬英雄](https://zh.wikipedia.org/wiki/Category:金屬英雄 "wikilink")
-[Category:1995年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1995年日本電視劇集 "wikilink")
-[Category:昆蟲題材電視劇](https://zh.wikipedia.org/wiki/Category:昆蟲題材電視劇 "wikilink")
+[Category:金屬英雄](https://zh.wikipedia.org/wiki/Category:金屬英雄 "wikilink") [Category:1995年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1995年日本電視劇集 "wikilink") [Category:昆蟲題材電視劇](https://zh.wikipedia.org/wiki/Category:昆蟲題材電視劇 "wikilink")

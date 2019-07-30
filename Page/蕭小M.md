@@ -15,12 +15,7 @@
   - 蕭小M的直播頻道:17直播「帳號請搜尋:蕭小M🐤🐣🐔」https://17.live/profile/r/1077446
 
   -
-[Category:蕭姓](https://zh.wikipedia.org/wiki/Category:蕭姓 "wikilink")
-[Category:台灣電玩家](https://zh.wikipedia.org/wiki/Category:台灣電玩家 "wikilink")
-[Category:台灣主持人](https://zh.wikipedia.org/wiki/Category:台灣主持人 "wikilink")
-[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink")
-[Category:彰化人](https://zh.wikipedia.org/wiki/Category:彰化人 "wikilink")
-[Category:亚洲大学校友_(台湾)](https://zh.wikipedia.org/wiki/Category:亚洲大学校友_\(台湾\) "wikilink")
+[Category:蕭姓](https://zh.wikipedia.org/wiki/Category:蕭姓 "wikilink") [Category:台灣電玩家](https://zh.wikipedia.org/wiki/Category:台灣電玩家 "wikilink") [Category:台灣主持人](https://zh.wikipedia.org/wiki/Category:台灣主持人 "wikilink") [Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:彰化人](https://zh.wikipedia.org/wiki/Category:彰化人 "wikilink") [Category:亚洲大学校友_(台湾)](https://zh.wikipedia.org/wiki/Category:亚洲大学校友_\(台湾\) "wikilink")
 
 1.
 2.

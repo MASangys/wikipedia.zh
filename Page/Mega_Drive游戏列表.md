@@ -1,6 +1,4 @@
-本表羅列SEGA **[Mega Drive](../Page/Mega_Drive.md "wikilink")**
-（包含Mega-CD及32X）發行之遊戲，並按照遊戲發行時間排序，並有中英日遊戲名稱、日文價格、編號、容量、發行廠商等資料；「對應機種」欄位，Mega
-Drive 遊戲留白，Mega-CD（或 SEGA-CD） 標示為 CD，32X 則標示為 32X。
+本表羅列SEGA **[Mega Drive](../Page/Mega_Drive.md "wikilink")** （包含Mega-CD及32X）發行之遊戲，並按照遊戲發行時間排序，並有中英日遊戲名稱、日文價格、編號、容量、發行廠商等資料；「對應機種」欄位，Mega Drive 遊戲留白，Mega-CD（或 SEGA-CD） 標示為 CD，32X 則標示為 32X。
 
 ## 遊戲列表
 
@@ -564,12 +562,6 @@ Drive 遊戲留白，Mega-CD（或 SEGA-CD） 標示為 CD，32X 則標示為 32
 
 ## 参考文献
 
-[BLACK16bit](http://black16bit.pixnet.net/blog)
-網站[【分享】MD日本官方遊戲554款日英中文資料列表](http://black16bit.pixnet.net/blog/post/66161460-【分享】md日本官方遊戲全554款日英中文資料)：該網站資料是參考
-[Sega
-官方【セガハード大百科】網站](https://sega.jp/history/hard/)、[Segaretro](https://segaretro.org)網站及尖端出版公司《革新版
-TOP MEGA-DRIVE 特輯》（日本 Softbank 正式授權中文版，1994）製作。另外，絕大部分的中文譯名，都是依據《革新版 TOP
-MEGA-DRIVE 特輯》內的列表為準。
+[BLACK16bit](http://black16bit.pixnet.net/blog) 網站[【分享】MD日本官方遊戲554款日英中文資料列表](http://black16bit.pixnet.net/blog/post/66161460-【分享】md日本官方遊戲全554款日英中文資料)：該網站資料是參考 [Sega 官方【セガハード大百科】網站](https://sega.jp/history/hard/)、[Segaretro](https://segaretro.org)網站及尖端出版公司《革新版 TOP MEGA-DRIVE 特輯》（日本 Softbank 正式授權中文版，1994）製作。另外，絕大部分的中文譯名，都是依據《革新版 TOP MEGA-DRIVE 特輯》內的列表為準。
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:Mega_Drive游戏](https://zh.wikipedia.org/wiki/Category:Mega_Drive游戏 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:Mega_Drive游戏](https://zh.wikipedia.org/wiki/Category:Mega_Drive游戏 "wikilink")

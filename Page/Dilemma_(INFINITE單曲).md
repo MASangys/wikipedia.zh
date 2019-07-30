@@ -1,15 +1,14 @@
-《**Dilemma**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE的第五張日語單曲](../Page/INFINITE.md "wikilink")，由[布袋寅泰作曲](../Page/布袋寅泰.md "wikilink")\[1\]、（）填詞，並在2014年12月24日以兩個不同版本推出\[2\]。
+《**Dilemma**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第五張日語單曲，由[布袋寅泰](../Page/布袋寅泰.md "wikilink")作曲\[1\]、（）填詞，並在2014年12月24日以兩個不同版本推出\[2\]。
 
 ## 背景
 
-2014年11月12日，韓國公司Woollim娛樂在INFINITE的日本官方網站公布了這單曲的發行消息\[3\]\[4\]；並在12月9日提供了單曲的詳細資訊\[5\]，包括初回限定盤、通常盤以及成員個人Music
-Card。它們的封面則在12月15日公開\[6\]。
+2014年11月12日，韓國公司Woollim娛樂在INFINITE的日本官方網站公布了這單曲的發行消息\[3\]\[4\]；並在12月9日提供了單曲的詳細資訊\[5\]，包括初回限定盤、通常盤以及成員個人Music Card。它們的封面則在12月15日公開\[6\]。
 
 ### 發行版本
 
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本。
 
-  - 初回限定盤：這版本包括了一片CD、一片收錄《Dilemma》[音樂錄影帶與製作花絮的DVD及](../Page/音樂錄影帶.md "wikilink")16頁小冊子\[7\]。
+  - 初回限定盤：這版本包括了一片CD、一片收錄《Dilemma》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD及16頁小冊子\[7\]。
 
 <!-- end list -->
 
@@ -24,7 +23,7 @@ Card。它們的封面則在12月15日公開\[6\]。
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon榜單</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>榜單</p></th>
 <th><p>最高位置</p></th>
 <th><p>銷售量</p></th>
 <th><p>總銷量</p></th>
@@ -71,8 +70,7 @@ Card。它們的封面則在12月15日公開\[6\]。
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
 
 1.
 

@@ -1,7 +1,4 @@
-[IgM.png](https://zh.wikipedia.org/wiki/File:IgM.png "fig:IgM.png")
-[IgM_scheme.svg](https://zh.wikipedia.org/wiki/File:IgM_scheme.svg "fig:IgM_scheme.svg")
-**免疫球蛋白M**（或简称为**IgM**）是由[B细胞分泌的一种基本](../Page/B细胞.md "wikilink")[抗体](https://zh.wikipedia.org/wiki/抗体 "wikilink")。IgM是迄今为止实际发现的在人体循环系统中的最大抗体。它也是接触抗原首先发生反应的第一抗体。\[1\][脾脏是IgM的最大生产者](../Page/脾脏.md "wikilink")。
-\[2\]
+[IgM.png](https://zh.wikipedia.org/wiki/File:IgM.png "fig:IgM.png") [IgM_scheme.svg](https://zh.wikipedia.org/wiki/File:IgM_scheme.svg "fig:IgM_scheme.svg") **免疫球蛋白M**（或简称为**IgM**）是由[B细胞](../Page/B细胞.md "wikilink")分泌的一种基本[抗体](https://zh.wikipedia.org/wiki/抗体 "wikilink")。IgM是迄今为止实际发现的在人体循环系统中的最大抗体。它也是接触抗原首先发生反应的第一抗体。\[1\][脾脏](../Page/脾脏.md "wikilink")是IgM的最大生产者。 \[2\]
 
 ## 描述
 
@@ -16,17 +13,11 @@
 ## 外部链接
 
   -
-  - [Immunoglobulin M Deficiency
-    Reference](http://emedicine.medscape.com/article/137693-overview)
-    from Medscape.com
+  - [Immunoglobulin M Deficiency Reference](http://emedicine.medscape.com/article/137693-overview) from Medscape.com
 
-[Category:糖蛋白](https://zh.wikipedia.org/wiki/Category:糖蛋白 "wikilink")
-[Category:抗体](https://zh.wikipedia.org/wiki/Category:抗体 "wikilink")
+[Category:糖蛋白](https://zh.wikipedia.org/wiki/Category:糖蛋白 "wikilink") [Category:抗体](https://zh.wikipedia.org/wiki/Category:抗体 "wikilink")
 
-1.  Houghton Mifflin Company, 2004. "Immunoglobulin M." The American
-    Heritage Dictionary of the English Language, Fourth Edition.
-    Accessed on 12 Oct. 2007
-2.  <http://www.jimmunol.org/content/186/2/1011.full> ; Bailey & Love's
-    Short Practice of Surgery, 25ed (Ch-62, pg-1102)
+1.  Houghton Mifflin Company, 2004. "Immunoglobulin M." The American Heritage Dictionary of the English Language, Fourth Edition. Accessed on 12 Oct. 2007
+2.  <http://www.jimmunol.org/content/186/2/1011.full> ; Bailey & Love's Short Practice of Surgery, 25ed (Ch-62, pg-1102)
 3.
 4.

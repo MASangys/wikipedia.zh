@@ -4,14 +4,12 @@
 
 原屬[控股公司](../Page/控股公司.md "wikilink")[G.D.H.的數碼部門](../Page/GONZO.md "wikilink")，於2009年4月全數出售予。
 
-動畫師[板野一郎為公司顧問](../Page/板野一郎.md "wikilink")。
+動畫師[板野一郎](../Page/板野一郎.md "wikilink")為公司顧問。
 
   - 2009年5月 - G.D.H公司的數碼部門員工共62名，正式開始轉讓和開始營業。
   - 2010年4月 - Q-TEC將公司和其下負責動畫攝影的子公司「デコロコ」合併。
-  - 2010年5月 -
-    從[東京都的](../Page/東京都.md "wikilink")[練馬区搬遷至](https://zh.wikipedia.org/wiki/練馬区 "wikilink")[杉並区成田東的Q](https://zh.wikipedia.org/wiki/杉並区 "wikilink")-TEC中心。
-  - 2011年4月 -
-    設立動畫製作、作畫工作室，并開始製作[NBC環球娛樂的](../Page/NBC環球娛樂.md "wikilink")《[HELLSING](https://zh.wikipedia.org/wiki/HELLSING "wikilink")》OVA中的第VIII～X話。
+  - 2010年5月 - 從[東京都](../Page/東京都.md "wikilink")的[練馬区搬遷至](https://zh.wikipedia.org/wiki/練馬区 "wikilink")[杉並区成田東的Q](https://zh.wikipedia.org/wiki/杉並区 "wikilink")-TEC中心。
+  - 2011年4月 - 設立動畫製作、作畫工作室，并開始製作[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")的《[HELLSING](https://zh.wikipedia.org/wiki/HELLSING "wikilink")》OVA中的第VIII～X話。
   - 2013年4月 - 第一次製作電視動畫《》。
 
 ## 業務

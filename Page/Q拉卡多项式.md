@@ -1,4 +1,4 @@
-**Q拉卡多项式**是以[基本超几何函数定义的多项式](../Page/基本超几何函数.md "wikilink")：
+**Q拉卡多项式**是以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的多项式：
 
 \[p_n(q^{-x}+q^{x+1}cd;a,b,c,d;q) = {}_4\phi_3\left[\begin{matrix} q^{-n} &abq^{n+1}&q^{-x}&q^{x+1}cd\\
 aq&bdq&cq\\ \end{matrix};q;q\right]\]
@@ -11,8 +11,7 @@ aq&bdq&cq\\ \end{matrix};q;q\right]\]
 
 \(R_{n}(\mu(x);q^{-N-1},0,\gamma,\delta|q)=R_{n}(\mu(x);\gamma,\delta,N|q)\)
 
-令**Q拉卡多项式**中\(a=b\),\(cq=q^{-N}\)
-即得[双Q克拉夫楚克多项式](../Page/双Q克拉夫楚克多项式.md "wikilink")
+令**Q拉卡多项式**中\(a=b\),\(cq=q^{-N}\) 即得[双Q克拉夫楚克多项式](../Page/双Q克拉夫楚克多项式.md "wikilink")
 
 ## 图集
 

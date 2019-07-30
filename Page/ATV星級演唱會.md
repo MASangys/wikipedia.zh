@@ -1,8 +1,8 @@
-《**ATV星級演唱會**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視播放的一系列](../Page/亞洲電視.md "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，各演唱會分別在[本港台及](../Page/本港台.md "wikilink")[亞洲台播放](../Page/亞洲電視亞洲台.md "wikilink")。一年重播幾次。
+《**ATV星級演唱會**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")播放的一系列[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，各演唱會分別在[本港台](../Page/本港台.md "wikilink")及[亞洲台播放](../Page/亞洲電視亞洲台.md "wikilink")。一年重播幾次。
 
 ## 歷史
 
-[亞洲電視在](../Page/亞洲電視.md "wikilink")2009年進行節目改革，減低成本，逢星期六及星期日，以「升呢演唱會」播放演唱會\[1\]。[王征入主亞視後](../Page/王征.md "wikilink")，本節目改稱「ATV星級演唱會」，如常播放演唱會。
+[亞洲電視](../Page/亞洲電視.md "wikilink")在2009年進行節目改革，減低成本，逢星期六及星期日，以「升呢演唱會」播放演唱會\[1\]。[王征](../Page/王征.md "wikilink")入主亞視後，本節目改稱「ATV星級演唱會」，如常播放演唱會。
 
 ## 播放時間
 
@@ -377,11 +377,6 @@
 
 ## 外部連結
 
-[Category:亞洲電視外購節目](https://zh.wikipedia.org/wiki/Category:亞洲電視外購節目 "wikilink")
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
-[Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink")
-[Category:2014年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2014年亞洲電視節目 "wikilink")
-[Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
-[Category:2016年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2016年亞洲電視節目 "wikilink")
+[Category:亞洲電視外購節目](https://zh.wikipedia.org/wiki/Category:亞洲電視外購節目 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink") [Category:2014年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2014年亞洲電視節目 "wikilink") [Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink") [Category:2016年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2016年亞洲電視節目 "wikilink")
 
 1.  <https://www.youtube.com/watch?v=UH5p8yGEOzA>

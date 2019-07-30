@@ -1,7 +1,6 @@
 \-- This module implements  in Lua, and adds a few -- new features.
 
-\-- Process a numeric argument to make sure it is a positive -- integer.
-local function processNumArg( num )
+\-- Process a numeric argument to make sure it is a positive -- integer. local function processNumArg( num )
 
 `   if num then`
 `       num = tonumber( num )`
@@ -16,9 +15,7 @@ local function processNumArg( num )
 
 end
 
-\-- Checks whether a page exists, going through pcall -- in case we are
-over the expensive function limit. local function checkPageExists( title
-)
+\-- Checks whether a page exists, going through pcall -- in case we are over the expensive function limit. local function checkPageExists( title )
 
 `   if not title then`
 `       error('No title passed to checkArchiveExists', 2)`
@@ -38,12 +35,7 @@ over the expensive function limit. local function checkPageExists( title
 
 end
 
-\-- Checks every nth archive to see if it exists, and returns the --
-number of the first archive that doesn't exist. It is -- necessary to do
-this in batches because each check is an -- expensive function call, and
-we want to avoid making too many -- of them so as not to go over the
-expensive function limit. local function checkArchives( prefix, n, start
-)
+\-- Checks every nth archive to see if it exists, and returns the -- number of the first archive that doesn't exist. It is -- necessary to do this in batches because each check is an -- expensive function call, and we want to avoid making too many -- of them so as not to go over the expensive function limit. local function checkArchives( prefix, n, start )
 
 `   local i = start`
 `   local exists = true`
@@ -57,10 +49,7 @@ expensive function limit. local function checkArchives( prefix, n, start
 
 end
 
-\-- Return the biggest archive number, using checkArchives() -- and
-starting in intervals of 1000. This should get us a -- maximum of
-500,000 possible archives before we hit the -- expensive function limit.
-local function getBiggestArchiveNum( prefix, max )
+\-- Return the biggest archive number, using checkArchives() -- and starting in intervals of 1000. This should get us a -- maximum of 500,000 possible archives before we hit the -- expensive function limit. local function getBiggestArchiveNum( prefix, max )
 
 `   -- Return the value for max if it is specified.`
 `   max = processNumArg( max )`
@@ -83,8 +72,7 @@ local function getBiggestArchiveNum( prefix, max )
 
 end
 
-\-- Get the archive link prefix (the title of the archive pages -- minus
-the number). local function getPrefix( root, prefix, prefixSpace )
+\-- Get the archive link prefix (the title of the archive pages -- minus the number). local function getPrefix( root, prefix, prefixSpace )
 
 `   local ret = root or mw.title.getCurrentTitle().prefixedText`
 `   ret = ret .. '/'`
@@ -100,9 +88,7 @@ the number). local function getPrefix( root, prefix, prefixSpace )
 
 end
 
-\-- Get the number of archives to put on one line. Set to -- math.huge
-if there should be no line breaks. local function getLineNum( links,
-nobr, isLong )
+\-- Get the number of archives to put on one line. Set to -- math.huge if there should be no line breaks. local function getLineNum( links, nobr, isLong )
 
 `   local linksToNum = tonumber( links )`
 `   local lineNum`
@@ -130,8 +116,7 @@ nobr, isLong )
 
 end
 
-\-- Gets the prefix to put before the archive links. local function
-getLinkPrefix( prefix, space, isLong )
+\-- Gets the prefix to put before the archive links. local function getLinkPrefix( prefix, space, isLong )
 
 `   -- Get the link prefix.`
 `   local ret = ''`
@@ -160,8 +145,7 @@ getLinkPrefix( prefix, space, isLong )
 
 end
 
-\-- Get the number to start listing archives from. local function
-getStart( start )
+\-- Get the number to start listing archives from. local function getStart( start )
 
 `   start = processNumArg( start )`
 `   if start then`
@@ -189,9 +173,7 @@ end
 
 end
 
-\-- Generates the list of archive links. glargs.max must be either zero
-(for -- no archives) or a positive integer value. local function
-generateLinks( glargs )
+\-- Generates the list of archive links. glargs.max must be either zero (for -- no archives) or a positive integer value. local function generateLinks( glargs )
 
 `   if type( glargs ) ~= 'table' or not glargs.max or not glargs.prefix then`
 `       error('insufficient arguments passed to generateLinks', 2)`
@@ -294,8 +276,7 @@ generateLinks( glargs )
 
 end
 
-\-- Determine if format should be long local function findFormType( auto
-)
+\-- Determine if format should be long local function findFormType( auto )
 
 `   if auto == nil or auto == '' then`
 `       return false`
@@ -307,8 +288,7 @@ end
 
 end
 
-\-- Get the archive data and pass it to generateLinks(). local function
-_main( args )
+\-- Get the archive data and pass it to generateLinks(). local function _main( args )
 
 `   local isLong = findFormType( args.auto )`
 `   local prefix = getPrefix( args.root, args.prefix, args.prefixspace )`
@@ -332,8 +312,7 @@ _main( args )
 
 end
 
-\-- A wrapper function to make getBiggestArchiveNum() available from --
-\#invoke. local function _count( args )
+\-- A wrapper function to make getBiggestArchiveNum() available from -- \#invoke. local function _count( args )
 
 `   local prefix = getPrefix( args.root, args.prefix, args.prefixspace )`
 `   local archiveMax = getBiggestArchiveNum( prefix )`

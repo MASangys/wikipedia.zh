@@ -1,19 +1,14 @@
-，是2015年4月至2015年6月於[日本電視台](../Page/日本電視台.md "wikilink")[水10時段](../Page/日本電視台週三連續劇.md "wikilink")（22:00
--
-22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[中園美保編劇](../Page/中園美保.md "wikilink")\[1\]，[堺雅人主演](../Page/堺雅人.md "wikilink")\[2\]\[3\]。此劇亦是堺雅人初次在此時段擔任主演。
+，是2015年4月至2015年6月於[日本電視台](../Page/日本電視台.md "wikilink")[水10時段](../Page/日本電視台週三連續劇.md "wikilink")（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[中園美保](../Page/中園美保.md "wikilink")編劇\[1\]，[堺雅人](../Page/堺雅人.md "wikilink")主演\[2\]\[3\]。此劇亦是堺雅人初次在此時段擔任主演。
 
 ## 概要
 
-日野倫太郎（[堺雅人](../Page/堺雅人.md "wikilink")
-飾）是一位知名的天才精神科醫生，受到患者的信賴。某天，倫太郎遇上了一位謎樣的女子夢乃（[蒼井優](../Page/蒼井優.md "wikilink")
-飾），使倫太郎的人生發生連自己都難以掌控的轉變。
+日野倫太郎（[堺雅人](../Page/堺雅人.md "wikilink") 飾）是一位知名的天才精神科醫生，受到患者的信賴。某天，倫太郎遇上了一位謎樣的女子夢乃（[蒼井優](../Page/蒼井優.md "wikilink") 飾），使倫太郎的人生發生連自己都難以掌控的轉變。
 
 ## 登場人物
 
 ### 主要角色
 
-  - 日野倫太郎（41）：[堺雅人](../Page/堺雅人.md "wikilink")
-    （中學時代：[高橋楓翔](https://zh.wikipedia.org/wiki/高橋楓翔 "wikilink")）
+  - 日野倫太郎（41）：[堺雅人](../Page/堺雅人.md "wikilink") （中學時代：[高橋楓翔](https://zh.wikipedia.org/wiki/高橋楓翔 "wikilink")）
 
 <!-- end list -->
 
@@ -140,7 +135,7 @@
 <!-- end list -->
 
   -
-    企圖跳樓[自殺的](../Page/自殺.md "wikilink")[OL](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")。
+    企圖跳樓[自殺](../Page/自殺.md "wikilink")的[OL](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")。
 
 <!-- end list -->
 
@@ -216,8 +211,7 @@
 <!-- end list -->
 
   -
-    [賭博成癮症的患者](../Page/賭博成癮.md "wikilink")，主治醫生為福原大策（[高橋一生](../Page/高橋一生.md "wikilink")
-    飾）。
+    [賭博成癮](../Page/賭博成癮.md "wikilink")症的患者，主治醫生為福原大策（[高橋一生](../Page/高橋一生.md "wikilink") 飾）。
 
 <!-- end list -->
 
@@ -244,8 +238,7 @@
 <!-- end list -->
 
   -
-    桐生薰（[內田有紀](../Page/內田有紀.md "wikilink")
-    飾）的兒子，有[言語障礙](../Page/言語障礙.md "wikilink")。美術展雕刻部門獲獎，有[學者症候群的徵狀](../Page/學者症候群.md "wikilink")。
+    桐生薰（[內田有紀](../Page/內田有紀.md "wikilink") 飾）的兒子，有[言語障礙](../Page/言語障礙.md "wikilink")。美術展雕刻部門獲獎，有[學者症候群](../Page/學者症候群.md "wikilink")的徵狀。
 
 **第八話**
 
@@ -272,8 +265,7 @@
   - 外科醫療協助：松尾成吾
   - 心理療法指導：田中阿須見（）
   - 外科醫療顧問：新村核
-  - 監製：霜田一壽（[The Works](../Page/The_Works.md "wikilink")）、大垣一穗（The
-    Works）
+  - 監製：霜田一壽（[The Works](../Page/The_Works.md "wikilink")）、大垣一穗（The Works）
   - 製作總監：
   - 製作人：、（K Factory）
   - 協助製作：
@@ -419,16 +411,7 @@
   - [《-{王牌大醫生}-》緯來日本台官方網站](http://japan.videoland.com.tw/channel/20160407/default.asp)
 
   -
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:中園美保劇本作品](https://zh.wikipedia.org/wiki/Category:中園美保劇本作品 "wikilink")
-[Category:日本電視台週三晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週三晚間十點連續劇 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:虛構醫生](https://zh.wikipedia.org/wiki/Category:虛構醫生 "wikilink")
-[Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink")
-[Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink")
-[Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:男性日本人電視劇角色](https://zh.wikipedia.org/wiki/Category:男性日本人電視劇角色 "wikilink")
+[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:中園美保劇本作品](https://zh.wikipedia.org/wiki/Category:中園美保劇本作品 "wikilink") [Category:日本電視台週三晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週三晚間十點連續劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:虛構醫生](https://zh.wikipedia.org/wiki/Category:虛構醫生 "wikilink") [Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:男性日本人電視劇角色](https://zh.wikipedia.org/wiki/Category:男性日本人電視劇角色 "wikilink")
 
 1.
 2.

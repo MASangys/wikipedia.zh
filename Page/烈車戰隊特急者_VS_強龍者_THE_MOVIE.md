@@ -1,5 +1,4 @@
-《**烈車戰隊特急者 VS 強龍者 THE
-MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時也是[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")**》和《**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**》的劇場版作品。
+《**烈車戰隊特急者 VS 強龍者 THE MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時也是[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")**》和《**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**》的劇場版作品。
 
 ## 概要
 
@@ -60,9 +59,7 @@ MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時
   -
 
       -
-        本來可是暗影路線怪人薩拉姆。退出暗影路線後為了贖罪並保護彩虹而成為彩虹路線的維修人員。而虹野明這名字是阿光等人為他而取的新名字。
-        專長是口琴與直笛，並在登場
-        時吹奏著自己創作的鎮魂曲，性格比較我行我素，口頭禪為「這是我的歸宿」(因此被強龍金讚歎他擁有強烈的武士精神)。
+        本來可是暗影路線怪人薩拉姆。退出暗影路線後為了贖罪並保護彩虹而成為彩虹路線的維修人員。而虹野明這名字是阿光等人為他而取的新名字。 專長是口琴與直笛，並在登場 時吹奏著自己創作的鎮魂曲，性格比較我行我素，口頭禪為「這是我的歸宿」(因此被強龍金讚歎他擁有強烈的武士精神)。
 
 #### 輔助角色
 
@@ -99,8 +96,7 @@ MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時
   -
 
       -
-        銀河路線的車長，於劇場版《[烈車戰隊特急者 THE MOVIE
-        銀河路線SOS](../Page/烈車戰隊特急者_THE_MOVIE_銀河路線SOS.md "wikilink")》中出現的角色。
+        銀河路線的車長，於劇場版《[烈車戰隊特急者 THE MOVIE 銀河路線SOS](../Page/烈車戰隊特急者_THE_MOVIE_銀河路線SOS.md "wikilink")》中出現的角色。
 
 ### 獸電戰隊強龍者登場人物
 
@@ -174,8 +170,7 @@ MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時
   -
 
       -
-        **海之勇者**，是Dr.烏爾謝德的孫女，與祖父一起協助強龍者，剛出場就已經被伊恩追求，但很冷靜的請了伊恩吃檸檬，讓他非常的沒面，對大吾有好感，更收藏了不少有關他的資料及照片。在成為強龍者後開發了強龍紅專用的1+號獸電池、Victory
-        獸電池、Maximum 獸電池。
+        **海之勇者**，是Dr.烏爾謝德的孫女，與祖父一起協助強龍者，剛出場就已經被伊恩追求，但很冷靜的請了伊恩吃檸檬，讓他非常的沒面，對大吾有好感，更收藏了不少有關他的資料及照片。在成為強龍者後開發了強龍紅專用的1+號獸電池、Victory 獸電池、Maximum 獸電池。
         於本劇場版以強龍紫姿態登場。
 
 :;*' 桐生斷鐵 / 強龍銀*'
@@ -291,53 +286,35 @@ MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時
 
 ## 演員
 
-  - 來斗（鈴樹來斗） / 特急1號（聲） - [志尊淳](../Page/志尊淳.md "wikilink") /
-    馬渕誉（孩童時期）（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
-  - 十勝（渡嘉敷晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") /
-    永瀬圭志朗（孩童時期）（台灣配音：）
-  - 美緒（夏目美緒） / 特急3號（聲） - [小島梨里杏](../Page/小島梨里杏.md "wikilink") /
-    石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 洸（野野村洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") /
-    山崎光（孩童時期）（台灣配音：）
-  - 神樂（泉神樂） / 特急5號（聲） - [森高愛](../Page/森高愛.md "wikilink") /
-    清水羅羅（孩童時期）（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
-  - 虹野明 / 特急6號（聲） -
-    [長濱慎](../Page/長濱慎.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
-  - 闇黑皇帝Ｚ / 怪人型態（聲） -
-    [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")（台灣配音：）
+  - 來斗（鈴樹來斗） / 特急1號（聲） - [志尊淳](../Page/志尊淳.md "wikilink") / 馬渕誉（孩童時期）（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
+  - 十勝（渡嘉敷晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") / 永瀬圭志朗（孩童時期）（台灣配音：）
+  - 美緒（夏目美緒） / 特急3號（聲） - [小島梨里杏](../Page/小島梨里杏.md "wikilink") / 石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
+  - 洸（野野村洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") / 山崎光（孩童時期）（台灣配音：）
+  - 神樂（泉神樂） / 特急5號（聲） - [森高愛](../Page/森高愛.md "wikilink") / 清水羅羅（孩童時期）（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
+  - 虹野明 / 特急6號（聲） - [長濱慎](../Page/長濱慎.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+  - 闇黑皇帝Ｚ / 怪人型態（聲） - [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")（台灣配音：）
   - 車掌 - [關根勤](../Page/關根勤.md "wikilink")（台灣配音：）
-  - 桐生大吾 / 強龍紅（聲） -
-    [龍星涼](../Page/龍星涼.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
-  - 伊恩・尤克蘭 / 強龍黑（聲） -
-    [齊藤秀翼](../Page/齊藤秀翼.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
+  - 桐生大吾 / 強龍紅（聲） - [龍星涼](../Page/龍星涼.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+  - 伊恩・尤克蘭 / 強龍黑（聲） - [齊藤秀翼](../Page/齊藤秀翼.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 有働伸治 / 強龍藍（聲） - [金城大和](../Page/金城大和.md "wikilink")（台灣配音：）
-  - 立風館總司 / 強龍綠（聲） -
-    [塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")（台灣配音：）
-  - 艾美結月 / 強龍粉紅（聲） -
-    [今野鮎莉](../Page/今野鮎莉.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
+  - 立風館總司 / 強龍綠（聲） - [塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")（台灣配音：）
+  - 艾美結月 / 強龍粉紅（聲） - [今野鮎莉](../Page/今野鮎莉.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
   - 空蟬丸 / 強龍金（聲） - [丸山敦史](../Page/丸山敦史.md "wikilink")（台灣配音：）
 
 ### 配音演出
 
-  - 強龍青 -
-    [木下亞由美](../Page/木下亞由美.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
+  - 強龍青 - [木下亞由美](../Page/木下亞由美.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
   - 強龍灰 - [出合正幸](../Page/出合正幸.md "wikilink")（台灣配音：）
-  - 強龍紫 -
-    [飯豐萬理江](../Page/飯豐萬理江.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
+  - 強龍紫 - [飯豐萬理江](../Page/飯豐萬理江.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
   - 強龍銀 - [山下真司](../Page/山下真司.md "wikilink")（台灣配音：）
-  - 賢神多林 -
-    [森川智之](../Page/森川智之.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
+  - 賢神多林 - [森川智之](../Page/森川智之.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 強龍者各種電子音 - [千葉繁](../Page/千葉繁.md "wikilink")
-  - 喜之戰騎嘉黎拉 -
-    [戶松遙](../Page/戶松遙.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 樂之密探拉丘洛 -
-    [折笠愛](../Page/折笠愛.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
-  - 剪票手 / 特急者各種電子音 -
-    [山口勝平](../Page/山口勝平.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+  - 喜之戰騎嘉黎拉 - [戶松遙](../Page/戶松遙.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
+  - 樂之密探拉丘洛 - [折笠愛](../Page/折笠愛.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
+  - 剪票手 / 特急者各種電子音 - [山口勝平](../Page/山口勝平.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
   - 彩虹路線總裁 - [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（台灣配音：）
   - 紅蓮神官薩拉馬茲 - （台灣配音：）
-  - 創造主德比烏絲 -
-    [寺杣昌紀](../Page/寺杣昌紀.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+  - 創造主德比烏絲 - [寺杣昌紀](../Page/寺杣昌紀.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
   - 時鐘暗影 - [小野坂昌也](../Page/小野坂昌也.md "wikilink")（台灣配音：）
 
 ## 工作人員
@@ -366,9 +343,6 @@ MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時
 
 ## 外部連結
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")
 
 1.  手裏劍戰隊忍忍者亦在虹野明等人撤退後登場。

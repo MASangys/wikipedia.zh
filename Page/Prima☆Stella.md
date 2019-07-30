@@ -1,8 +1,4 @@
-《**Prima☆Stella**》（）是日本[Atelier
-KAGUYA](../Page/Atelier_KAGUYA.md "wikilink")(アトリエかぐや)在2008年6月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2009年9月18日發售與《さらさらささら》合併的[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《プリ☆さら
-〜ドキドキ×らぶらぶWファンディスク〜》。\[3\]2009年10月29日由AICHERRY發售DVDPG版。\[4\]遊戲名稱Prima
-Stella是[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")，中文翻譯是第一星。
+《**Prima☆Stella**》（）是日本[Atelier KAGUYA](../Page/Atelier_KAGUYA.md "wikilink")(アトリエかぐや)在2008年6月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2009年9月18日發售與《さらさらささら》合併的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《プリ☆さら 〜ドキドキ×らぶらぶWファンディスク〜》。\[3\]2009年10月29日由AICHERRY發售DVDPG版。\[4\]遊戲名稱Prima Stella是[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")，中文翻譯是第一星。
 
 ## 故事
 
@@ -90,8 +86,7 @@ Stella是[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")�
 <!-- end list -->
 
   -
-    著者：速水漣、近江達裕　插畫：濱田麻里　出版社：[HARVEST出版](../Page/HARVEST出版.md "wikilink")　發售日：2008年11月15日　ISBN
-    9784434124648
+    著者：速水漣、近江達裕　插畫：濱田麻里　出版社：[HARVEST出版](../Page/HARVEST出版.md "wikilink")　發售日：2008年11月15日　ISBN 9784434124648
 
   - CD
 
@@ -114,34 +109,18 @@ Prima☆Stella在Getchu.com的2008年美少女遊戲排名中綜合部門第11�
 
   - [Atelier KAGUYA](http://www.a-kaguya.com/)
 
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
+[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
 
-1.  [プリマ☆ステラ
-    初回限定生産版](http://www.getchu.com/soft.phtml?id=533245)Getchu.com
+1.  [プリマ☆ステラ 初回限定生産版](http://www.getchu.com/soft.phtml?id=533245)Getchu.com
 2.  [Prima ☆ Stella](https://vndb.org/v827)the visual novel database
-3.  [プリ☆さら～ドキドキ×らぶらぶWファンディスク～
-    初回限定生産版](http://www.getchu.com/soft.phtml?id=653145)Getchu.com
-4.  [プリマ☆ステラ](http://www.aicherry.com/aicherryhp/contents/aicherry/jacket/aicdv0211/aicdv0211.html)
-    AICHERRY
+3.  [プリ☆さら～ドキドキ×らぶらぶWファンディスク～ 初回限定生産版](http://www.getchu.com/soft.phtml?id=653145)Getchu.com
+4.  [プリマ☆ステラ](http://www.aicherry.com/aicherryhp/contents/aicherry/jacket/aicdv0211/aicdv0211.html) AICHERRY
 5.  [プリマ☆ステラ](http://erogetrailers.com/soft/626)ErogeTrailers
-6.  [2008年美少女ゲームランキング
-    結果発表－総合部－](http://www.getchu.com/pc/2008_g_ranking/ranking_all.html)Getchu.com
-7.  [2008年美少女ゲームランキング
-    結果発表－シナリオ部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_scenario.html)
-8.  [2008年美少女ゲームランキング
-    結果発表－システム部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_system.html)Getchu.com
-9.  [2008年美少女ゲームランキング
-    結果発表－グラフィック部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_cg.html)Getchu.com
-10. [2008年美少女ゲームランキング
-    結果発表－ムービー部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_move.html)Getchu.com
-11. [2008年美少女ゲームランキング
-    結果発表－ボーカル部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_vocal.html)Getchu.com
-12. [2008年美少女ゲームランキング
-    結果発表－BGM部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_music.html)Getchu.com
-13. [2008年美少女ゲームランキング
-    結果発表－ネーミング部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_name.html)Getchu.com
+6.  [2008年美少女ゲームランキング 結果発表－総合部－](http://www.getchu.com/pc/2008_g_ranking/ranking_all.html)Getchu.com
+7.  [2008年美少女ゲームランキング 結果発表－シナリオ部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_scenario.html)
+8.  [2008年美少女ゲームランキング 結果発表－システム部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_system.html)Getchu.com
+9.  [2008年美少女ゲームランキング 結果発表－グラフィック部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_cg.html)Getchu.com
+10. [2008年美少女ゲームランキング 結果発表－ムービー部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_move.html)Getchu.com
+11. [2008年美少女ゲームランキング 結果発表－ボーカル部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_vocal.html)Getchu.com
+12. [2008年美少女ゲームランキング 結果発表－BGM部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_music.html)Getchu.com
+13. [2008年美少女ゲームランキング 結果発表－ネーミング部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_name.html)Getchu.com

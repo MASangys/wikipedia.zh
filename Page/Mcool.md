@@ -42,9 +42,7 @@ APE、FLAC、WavPack、MP3、OGG、TTA、TAK、Musepack、AAC、AC3、WMA、Wav�
   - [Mcool官方网站](http://mcool.appinn.me/)
   - [作者博客](http://diystar.cnblogs.com/)
 
-[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:绿色软件](https://zh.wikipedia.org/wiki/Category:绿色软件 "wikilink")
+[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:绿色软件](https://zh.wikipedia.org/wiki/Category:绿色软件 "wikilink")
 
 1.
 2.

@@ -1,7 +1,4 @@
-《**Action
-Bii**》是韓裔[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[Bii](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")（畢書盡）的第3張專輯，是他自2013年《[Come
-back to
-Bii](../Page/Come_back_to_Bii.md "wikilink")》後的相隔18月的作品。這大碟在2014年12月1日開始預購，並在12月19日推出。
+《**Action Bii**》是韓裔[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[Bii](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")（畢書盡）的第3張專輯，是他自2013年《[Come back to Bii](../Page/Come_back_to_Bii.md "wikilink")》後的相隔18月的作品。這大碟在2014年12月1日開始預購，並在12月19日推出。
 
 ## 曲目
 
@@ -77,11 +74,8 @@ Bii](../Page/Come_back_to_Bii.md "wikilink")》後的相隔18月的作品。這�
 
 ## 参考文献
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:畢書盡音樂專輯](https://zh.wikipedia.org/wiki/Category:畢書盡音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:畢書盡音樂專輯](https://zh.wikipedia.org/wiki/Category:畢書盡音樂專輯 "wikilink")
 
-1.  [五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=435485679322)，2014年12月26日
-    (五) 07:15 (UTC+8)查閱
+1.  [五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=435485679322)，2014年12月26日 (五) 07:15 (UTC+8)查閱
 
 2.

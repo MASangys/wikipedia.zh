@@ -1,5 +1,4 @@
-《**ISUCA依絲卡**》（）是[高橋脩的日本](../Page/高橋脩.md "wikilink")[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於〈[YOUNG
-ACE](https://zh.wikipedia.org/wiki/YOUNG_ACE "wikilink")〉2009年Vol.1中開始連載。\[1\]2012年改為隔月連載。
+《**ISUCA依絲卡**》（）是[高橋脩](../Page/高橋脩.md "wikilink")的日本[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於〈[YOUNG ACE](https://zh.wikipedia.org/wiki/YOUNG_ACE "wikilink")〉2009年Vol.1中開始連載。\[1\]2012年改為隔月連載。
 
 2014年6月決定改編成電視動畫\[2\]，同年10月宣布會於2015年1月播出\[3\]。
 
@@ -30,7 +29,7 @@ ACE](https://zh.wikipedia.org/wiki/YOUNG_ACE "wikilink")〉2009年Vol.1中開始
 <!-- end list -->
 
   -
-    真一郎的級任老師，出身於島津家的分家，奉本家之命監視朔邪與須世璃。擅於操縱[式神與](../Page/式神.md "wikilink")[魔像](../Page/魔像.md "wikilink")。
+    真一郎的級任老師，出身於島津家的分家，奉本家之命監視朔邪與須世璃。擅於操縱[式神](../Page/式神.md "wikilink")與[魔像](../Page/魔像.md "wikilink")。
 
 <!-- end list -->
 
@@ -179,8 +178,7 @@ ISBN 978-4-04-102803-2</p></td>
 
 ## 電視動畫
 
-2015年1月23日開始於[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[埼玉電視台](../Page/埼玉電視台.md "wikilink")、[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")、[神奈川電視台](../Page/神奈川電視台.md "wikilink")、[SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")、[岐阜放送](../Page/岐阜放送.md "wikilink")、[三重電視台播出](../Page/三重電視台.md "wikilink")\[4\]。
+2015年1月23日開始於[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[埼玉電視台](../Page/埼玉電視台.md "wikilink")、[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")、[神奈川電視台](../Page/神奈川電視台.md "wikilink")、[SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")、[岐阜放送](../Page/岐阜放送.md "wikilink")、[三重電視台](../Page/三重電視台.md "wikilink")播出\[4\]。
 
 ### 製作人員
 
@@ -209,11 +207,9 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X](../Page/AT-X.md 
 ### 主題曲
 
   - 片頭曲「Never say Never」
-    作詞：、辻村結實子，作曲：Konnie Aoki、ShinYMG，編曲：MACARONI☆，主唱：[Afilia
-    Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
+    作詞：、辻村結實子，作曲：Konnie Aoki、ShinYMG，編曲：MACARONI☆，主唱：[Afilia Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
   - 片尾曲「Somebody to love」
-    作詞：Kanon
-    Kuwa，作曲：藤田智史，編曲：川羽田敍新，主唱：TWO-FORMULA（[佐土原香織](../Page/佐土原香織.md "wikilink")、[藏合紗惠子](../Page/藏合紗惠子.md "wikilink")）
+    作詞：Kanon Kuwa，作曲：藤田智史，編曲：川羽田敍新，主唱：TWO-FORMULA（[佐土原香織](../Page/佐土原香織.md "wikilink")、[藏合紗惠子](../Page/藏合紗惠子.md "wikilink")）
 
 ### 各話列表
 
@@ -357,23 +353,11 @@ Lee Suk Yoon</p></td>
   - [電視動畫〈ISUCA〉公式網站](http://s.mxtv.jp/isuca/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:妖怪題材漫畫](https://zh.wikipedia.org/wiki/Category:妖怪題材漫畫 "wikilink")
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:妖怪題材漫畫](https://zh.wikipedia.org/wiki/Category:妖怪題材漫畫 "wikilink") [Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:妖怪題材動畫](https://zh.wikipedia.org/wiki/Category:妖怪題材動畫 "wikilink")
 
-1.  [Isuca
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12519)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Isuca (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12519)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.
 3.
 4.
-5.  [Isuca
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16128)Anime
-    News Network
+5.  [Isuca (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16128)Anime News Network
 6.

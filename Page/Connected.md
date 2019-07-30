@@ -1,4 +1,4 @@
-《**Connected**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[RubberBand的音樂專輯](../Page/RubberBand.md "wikilink")，在2010年9月3日發行。
+《**Connected**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[RubberBand](../Page/RubberBand.md "wikilink")的音樂專輯，在2010年9月3日發行。
 
 ## 曲目
 
@@ -16,6 +16,4 @@
 
   - **粗體**表示冠軍歌
 
-[Category:RuberBand音樂專輯](https://zh.wikipedia.org/wiki/Category:RuberBand音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:RuberBand音樂專輯](https://zh.wikipedia.org/wiki/Category:RuberBand音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

@@ -1,5 +1,4 @@
-**YAHOO\!搜尋人氣大獎2014**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2014年12月8日晚上8時假[香港展覽中心Hall](../Page/香港展覽中心.md "wikilink")
-5G舉行，司儀由[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚擔任](../Page/胡蓓蔚.md "wikilink")，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
+**YAHOO\!搜尋人氣大獎2014**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2014年12月8日晚上8時假[香港展覽中心](../Page/香港展覽中心.md "wikilink")Hall 5G舉行，司儀由[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚](../Page/胡蓓蔚.md "wikilink")擔任，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
 
 ## 得獎名單
 
@@ -20,8 +19,7 @@
       - 《看不見的距離》 － [羅力威](../Page/羅力威.md "wikilink")
       - 《一直追》 － [鄧麗欣](../Page/鄧麗欣.md "wikilink")
   - 唱作歌曲
-      - 《道別說愛你》 －
-        [J.Arie](https://zh.wikipedia.org/wiki/J.Arie "wikilink")
+      - 《道別說愛你》 － [J.Arie](https://zh.wikipedia.org/wiki/J.Arie "wikilink")
       - 《紙筆墨》 － [馮允謙](../Page/馮允謙.md "wikilink")
       - 《我愛京達卡》 － [小塵埃](../Page/小塵埃.md "wikilink")
   - 網上熱爆歌曲
@@ -32,16 +30,13 @@
   - 人氣改編歌
       - 《星語心願》 － [泳兒](../Page/泳兒.md "wikilink")
   - 人氣合唱歌
-      - 《一加一》 － [AGA](../Page/江海迦.md "wikilink")、[Gin
-        Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")
+      - 《一加一》 － [AGA](../Page/江海迦.md "wikilink")、[Gin Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")
   - 人氣音樂微電影
       - 《最後最後》 － [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - 人氣演唱會
-      - 《[容祖兒1314演唱會](https://zh.wikipedia.org/wiki/容祖兒1314演唱會 "wikilink")》
-        － [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《[容祖兒1314演唱會](https://zh.wikipedia.org/wiki/容祖兒1314演唱會 "wikilink")》 － [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
   - 人氣大碟
-      - 《[Kontinue](../Page/Kontinue.md "wikilink")》 －
-        [謝安琪](../Page/謝安琪.md "wikilink")
+      - 《[Kontinue](../Page/Kontinue.md "wikilink")》 － [謝安琪](../Page/謝安琪.md "wikilink")
   - 年度熱搜歌曲
       - 《流淚行勝利道》 － [許志安](../Page/許志安.md "wikilink")
   - 樂壇新勢力
@@ -70,8 +65,7 @@
   - 人氣電視劇集主題曲
       - 《護航》 － [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")
   - 人氣電視合唱歌
-      - 《相逢何必曾相識》 －
-        [蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")
+      - 《相逢何必曾相識》 － [蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")
   - 搜尋人氣急升電視男藝人
       - [許紹雄](../Page/許紹雄.md "wikilink")
   - 搜尋人氣急升電視女藝人
@@ -123,8 +117,7 @@
   - 亞洲年度熱搜韓國女藝人
       - [鄭秀妍](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")
   - 亞洲年度熱搜韓國歌曲
-      - 《My Destiny》 －
-        [LYn](https://zh.wikipedia.org/wiki/LYn "wikilink")
+      - 《My Destiny》 － [LYn](https://zh.wikipedia.org/wiki/LYn "wikilink")
 
 ## 媒體轉播
 

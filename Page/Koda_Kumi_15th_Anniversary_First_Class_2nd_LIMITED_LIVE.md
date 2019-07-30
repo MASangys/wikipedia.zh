@@ -1,19 +1,12 @@
-《**Koda Kumi 15th Anniversary First Class 2nd LIMITED
-LIVE**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2014年12月6日舉辦的一日限定出道15週年紀念演唱會。
+《**Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年12月6日舉辦的一日限定出道15週年紀念演唱會。
 
 ## 簡介
 
-  - 本次演唱會名稱「Koda Kumi 15th Anniversary First Class 2nd LIMITED
-    LIVE」名稱特別與其出到後首次舉辦的巡迴演唱會「secret ～FIRST CLASS LIMITED
-    LIVE～」名稱相互呼應，且與當年同樣在「東京新木場STUDIO COAST」的場地來紀念本次演唱會的重要性。\[1\]
-  - 本次演唱會場次有4場，每場約2小時並特別招待官方粉絲俱樂部「倖田組」、「KODA
-    GUMI」、「playroom」抽選10000名歌迷免費入場\[2\]，第1、3場的主題為「2007年～現在」的單曲，第2、4場則為「出道～2006年」的單曲。\[3\]
+  - 本次演唱會名稱「Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE」名稱特別與其出到後首次舉辦的巡迴演唱會「secret ～FIRST CLASS LIMITED LIVE～」名稱相互呼應，且與當年同樣在「東京新木場STUDIO COAST」的場地來紀念本次演唱會的重要性。\[1\]
+  - 本次演唱會場次有4場，每場約2小時並特別招待官方粉絲俱樂部「倖田組」、「KODA GUMI」、「playroom」抽選10000名歌迷免費入場\[2\]，第1、3場的主題為「2007年～現在」的單曲，第2、4場則為「出道～2006年」的單曲。\[3\]
   - 本次的15週年LOGO為「KXVK（最後一個K左右相反）」。
-  - 在演唱會的最後宣布將舉辦由[賓士贊助的](https://zh.wikipedia.org/wiki/賓士 "wikilink")15週年紀念巡迴演唱會「**Koda
-    Kumi 15th Anniversary Live Tour 2015 supported by
-    Mercedes-Benz**」，且為倖田首次於巡演名稱加冠贊助商名稱\[4\]。
-  - 本次演唱會內容收錄於專輯《[WALK OF MY
-    LIFE](../Page/WALK_OF_MY_LIFE.md "wikilink")》的粉絲俱樂部限定盤中。
+  - 在演唱會的最後宣布將舉辦由[賓士贊助的](https://zh.wikipedia.org/wiki/賓士 "wikilink")15週年紀念巡迴演唱會「**Koda Kumi 15th Anniversary Live Tour 2015 supported by Mercedes-Benz**」，且為倖田首次於巡演名稱加冠贊助商名稱\[4\]。
+  - 本次演唱會內容收錄於專輯《[WALK OF MY LIFE](../Page/WALK_OF_MY_LIFE.md "wikilink")》的粉絲俱樂部限定盤中。
 
 ## 曲目\[5\]
 

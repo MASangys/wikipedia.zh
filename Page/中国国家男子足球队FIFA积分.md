@@ -1,4 +1,4 @@
-**中国国家男子足球队FIFA积分**是[中国国家男子足球队在](https://zh.wikipedia.org/wiki/中国国家男子足球队 "wikilink")[国际足联世界排名中的积分](https://zh.wikipedia.org/wiki/国际足联世界排名 "wikilink")，由[国际足球联合会根据](../Page/国际足球联合会.md "wikilink")[国际足联世界排名的积分计算方式](https://zh.wikipedia.org/wiki/国际足联世界排名 "wikilink")\[1\]计算出来的。
+**中国国家男子足球队FIFA积分**是[中国国家男子足球队在](https://zh.wikipedia.org/wiki/中国国家男子足球队 "wikilink")[国际足联世界排名中的积分](https://zh.wikipedia.org/wiki/国际足联世界排名 "wikilink")，由[国际足球联合会](../Page/国际足球联合会.md "wikilink")根据[国际足联世界排名的积分计算方式](https://zh.wikipedia.org/wiki/国际足联世界排名 "wikilink")\[1\]计算出来的。
 
 ## 最新一期的中国国家男子足球队FIFA积分（2015年5月7日）
 
@@ -108,11 +108,8 @@
 
 ## 參考文獻
 
-[Category:中国国家男子足球队](https://zh.wikipedia.org/wiki/Category:中国国家男子足球队 "wikilink")
-[Category:足球排名](https://zh.wikipedia.org/wiki/Category:足球排名 "wikilink")
+[Category:中国国家男子足球队](https://zh.wikipedia.org/wiki/Category:中国国家男子足球队 "wikilink") [Category:足球排名](https://zh.wikipedia.org/wiki/Category:足球排名 "wikilink")
 
 1.
-2.  [FIFA/Coca-Cola World Ranking - Ranking Table -
-    FIFA.com](http://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html)
-3.  [China PR:Fixtures and Results -
-    FIFA.com](http://www.fifa.com/associations/association=chn/fixturesresults/gender=m/index.html)
+2.  [FIFA/Coca-Cola World Ranking - Ranking Table - FIFA.com](http://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html)
+3.  [China PR:Fixtures and Results - FIFA.com](http://www.fifa.com/associations/association=chn/fixturesresults/gender=m/index.html)

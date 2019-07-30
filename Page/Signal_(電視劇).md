@@ -1,12 +1,10 @@
-《**Signal**》（）為[韓國有線電視台](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年1月22日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由[李帝勳](../Page/李帝勳.md "wikilink")、[金惠秀和](../Page/金惠秀.md "wikilink")[趙震雄主演](../Page/趙震雄.md "wikilink")。本劇為[tvN開台十週年特別企劃](https://zh.wikipedia.org/wiki/tvN "wikilink")，是由擅長撰寫正統推理作品的劇作家[金銀姬](../Page/金銀姬.md "wikilink")（《[Sign](../Page/Sign_\(韓國電視劇\).md "wikilink")》、《[幽靈](../Page/幽靈_\(韓國電視劇\).md "wikilink")》、《[Three
-Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元錫.md "wikilink")（《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》、《[未生](../Page/未生.md "wikilink")》）聯手打造、帶有科幻風格的刑偵推理戲劇。
+《**Signal**》（）為[韓國有線電視台](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年1月22日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由[李帝勳](../Page/李帝勳.md "wikilink")、[金惠秀](../Page/金惠秀.md "wikilink")和[趙震雄](../Page/趙震雄.md "wikilink")主演。本劇為[tvN開台十週年特別企劃](https://zh.wikipedia.org/wiki/tvN "wikilink")，是由擅長撰寫正統推理作品的劇作家[金銀姬](../Page/金銀姬.md "wikilink")（《[Sign](../Page/Sign_\(韓國電視劇\).md "wikilink")》、《[幽靈](../Page/幽靈_\(韓國電視劇\).md "wikilink")》、《[Three Days](../Page/Three_Days.md "wikilink")》）與[金元錫](../Page/金元錫.md "wikilink")導演（《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》、《[未生](../Page/未生.md "wikilink")》）聯手打造、帶有科幻風格的刑偵推理戲劇。
 
 本劇自開播以來就穩坐韓國尼爾森收視調查同時段「10至50歲最受歡迎節目」第一名，結局亦創下有線電視台收視率12.8%的超高紀錄，僅次於tvN鎮台之作《鬼怪》與《請回答》系列\[1\]。在[第52屆百想藝術大賞電視劇部門中](https://zh.wikipedia.org/wiki/第52屆百想藝術大賞 "wikilink")，本劇入圍八項大奖并獲得「最佳戲劇」、「最佳女主角」及「最佳劇本」三大獎。
 
-故事描述一位專長心理分析的[罪犯側寫師](../Page/罪犯側寫.md "wikilink")，透過偶然拾獲的一支舊型對講機，聯繫上15年前一位作風獨特的重案組刑警，兩人橫跨古今交換線索、攜手調查被警方忽略的長年懸案。全劇藉由時空交錯的敘事手法，對於[法律追溯期的制度精神](../Page/追訴權.md "wikilink")、人性與真相的多重性、正義與人情的兩難等議題，具有相當深刻的演繹與討論。
+故事描述一位專長心理分析的[罪犯側寫](../Page/罪犯側寫.md "wikilink")師，透過偶然拾獲的一支舊型對講機，聯繫上15年前一位作風獨特的重案組刑警，兩人橫跨古今交換線索、攜手調查被警方忽略的長年懸案。全劇藉由時空交錯的敘事手法，對於[法律追溯期的制度精神](../Page/追訴權.md "wikilink")、人性與真相的多重性、正義與人情的兩難等議題，具有相當深刻的演繹與討論。
 
-2018年由[日本](../Page/日本.md "wikilink")[關西電視台翻拍成](../Page/關西電視台.md "wikilink")《[Signal
-長期未解決事件搜查班](../Page/Signal_長期未解決事件搜查班.md "wikilink")》。
+2018年由[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")翻拍成《[Signal 長期未解決事件搜查班](../Page/Signal_長期未解決事件搜查班.md "wikilink")》。
 
 ## 演員陣容
 
@@ -555,7 +553,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 
 ### 其他搭配歌曲
 
-  - 台灣[緯來戲劇台版本](../Page/緯來戲劇台.md "wikilink")
+  - 台灣[緯來戲劇台](../Page/緯來戲劇台.md "wikilink")版本
       - 片頭曲：[光澤](../Page/光澤_\(音樂人\).md "wikilink")《上癮》
 
 ## 收視率
@@ -715,8 +713,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 
 <!-- end list -->
 
-  - [JTBC](../Page/JTBC.md "wikilink")：《[Madame
-    Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink")：《[Madame Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink")》
 
 <!-- end list -->
 
@@ -923,10 +920,7 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 
 ## 其他
 
-  - [金惠秀以每集](../Page/金惠秀.md "wikilink")5500萬韓元的片酬出演此劇，打破[朴寶英在](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")《[Oh
-    我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》的紀錄（每集3000萬韓元），成為tvN史上演出費最高者。但此記錄則被5月開播的《[Dear
-    My
-    Friends](../Page/Dear_My_Friends.md "wikilink")》中的[高賢廷打破](../Page/高賢廷.md "wikilink")（每集6000萬韓元）。
+  - [金惠秀](../Page/金惠秀.md "wikilink")以每集5500萬韓元的片酬出演此劇，打破[朴寶英在](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")《[Oh 我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》的紀錄（每集3000萬韓元），成為tvN史上演出費最高者。但此記錄則被5月開播的《[Dear My Friends](../Page/Dear_My_Friends.md "wikilink")》中的[高賢廷](../Page/高賢廷.md "wikilink")打破（每集6000萬韓元）。
 
 ## 腳註
 
@@ -939,20 +933,9 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
   -
   -
   -
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:廣播題材電視劇](https://zh.wikipedia.org/wiki/Category:廣播題材電視劇 "wikilink")
-[Category:1990年代背景電視節目](https://zh.wikipedia.org/wiki/Category:1990年代背景電視節目 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:廣播題材電視劇](https://zh.wikipedia.org/wiki/Category:廣播題材電視劇 "wikilink") [Category:1990年代背景電視節目](https://zh.wikipedia.org/wiki/Category:1990年代背景電視節目 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
 
 1.  [《Signal》：跨時空刑偵劇再創韓劇新高度](https://theinitium.com/article/20160419-culture-review-korean-drama-signal/)
 2.  第5集失蹤調查資料上的漢字為李材韓
-3.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-4.  [시그널 : 네이버
-    통합검색](https://search.naver.com/search.naver?where=nexearch&ie=utf8&sm=tab_etc&os=2846054&pkid=57&query=%EC%8B%9C%EA%B7%B8%EB%84%90)
+3.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+4.  [시그널 : 네이버 통합검색](https://search.naver.com/search.naver?where=nexearch&ie=utf8&sm=tab_etc&os=2846054&pkid=57&query=%EC%8B%9C%EA%B7%B8%EB%84%90)

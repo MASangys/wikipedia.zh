@@ -1,10 +1,6 @@
-**OCN**（**O**rion **C**inema **N**etwork）是[CJ
-E\&M旗下的](../Page/CJ集团.md "wikilink")[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[有線電視頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，主要以播放電影與影集為主。每年播出之電影超過3000部，是韓國最大宗擁有電影播放版權的電視頻道。
+**OCN**（**O**rion **C**inema **N**etwork）是[CJ E\&M旗下的](../Page/CJ集团.md "wikilink")[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[有線電視頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，主要以播放電影與影集為主。每年播出之電影超過3000部，是韓國最大宗擁有電影播放版權的電視頻道。
 
-1995年時，由[大宇集團旗下的大宇傳媒創立此頻道](https://zh.wikipedia.org/wiki/大宇集團 "wikilink")，並定名為「**DCN**」（**D**aewoo
-**C**inema
-**N**etwork），於1999年因大宇傳媒倒閉而由[好麗友製菓旗下的](https://zh.wikipedia.org/wiki/好麗友 "wikilink")接手，2010年時[CJ集团收購了On](../Page/CJ集团.md "wikilink")-Media，因此OCN正式成為CJ
-E\&M旗下的一個有線電視頻道。
+1995年時，由[大宇集團旗下的大宇傳媒創立此頻道](https://zh.wikipedia.org/wiki/大宇集團 "wikilink")，並定名為「**DCN**」（**D**aewoo **C**inema **N**etwork），於1999年因大宇傳媒倒閉而由[好麗友製菓旗下的](https://zh.wikipedia.org/wiki/好麗友 "wikilink")接手，2010年時[CJ集团](../Page/CJ集团.md "wikilink")收購了On-Media，因此OCN正式成為CJ E\&M旗下的一個有線電視頻道。
 
 ## 原創戲劇作品
 
@@ -161,7 +157,7 @@ E\&M旗下的一個有線電視頻道。
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Watcher" title="wikilink">Watcher</a></p></td>
+<td><p><a href="../Page/Watcher.md" title="wikilink">Watcher</a></p></td>
 <td><p>6</p></td>
 <td><p>5.405%</p></td>
 <td></td>
@@ -253,16 +249,12 @@ E\&M旗下的一個有線電視頻道。
   - 《[Constantine](https://zh.wikipedia.org/wiki/驅魔神探：康斯坦汀 "wikilink")》（）
   - 《[Criminal Minds](https://zh.wikipedia.org/wiki/犯罪心理 "wikilink")》（）
   - 《[Touch](https://zh.wikipedia.org/wiki/觸摸未來 "wikilink")》（）
-  - 《[Tomorrow
-    People](https://zh.wikipedia.org/wiki/未來青年_\(2013年電視劇\) "wikilink")》（）
-  - 《[Transporter:
-    Series](https://zh.wikipedia.org/wiki/非常人販_\(電視劇\) "wikilink")》（）
+  - 《[Tomorrow People](https://zh.wikipedia.org/wiki/未來青年_\(2013年電視劇\) "wikilink")》（）
+  - 《[Transporter: Series](https://zh.wikipedia.org/wiki/非常人販_\(電視劇\) "wikilink")》（）
   - 《[Following](https://zh.wikipedia.org/wiki/殺手信徒 "wikilink")》（）
   - 《》（）
-  - 《[Person of
-    Interest](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》（）
-  - 《[Prison
-    Break](https://zh.wikipedia.org/wiki/越獄_\(電視劇\) "wikilink")》（）
+  - 《[Person of Interest](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》（）
+  - 《[Prison Break](https://zh.wikipedia.org/wiki/越獄_\(電視劇\) "wikilink")》（）
   - 《[Hawaii Five-O](https://zh.wikipedia.org/wiki/天堂執法者 "wikilink")》（）
   - 《[House](https://zh.wikipedia.org/wiki/豪斯醫生 "wikilink")》（）
   - 《》（）
@@ -278,5 +270,4 @@ E\&M旗下的一個有線電視頻道。
   - [官方部落格](http://blog.naver.com/ocnblog/220370469858)
 
   -
-[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")
-[Category:大宇集团](https://zh.wikipedia.org/wiki/Category:大宇集团 "wikilink")
+[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink") [Category:大宇集团](https://zh.wikipedia.org/wiki/Category:大宇集团 "wikilink")

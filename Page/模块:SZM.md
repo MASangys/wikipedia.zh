@@ -1,7 +1,6 @@
 \-- 载入getArgs模块 local getArgs = require('Module:Arguments').getArgs
 
-\-- 导入数据 local d = mw.loadData('Module:SZM/data') -- d.lineNames
-线路名称解析列表 -- d.lineColors 线路色彩列表
+\-- 导入数据 local d = mw.loadData('Module:SZM/data') -- d.lineNames 线路名称解析列表 -- d.lineColors 线路色彩列表
 
 \-- 声明模块本体 local p = {}
 
@@ -16,8 +15,7 @@
 
 }
 
-p.platformSignFormat =
-"[%size](https://zh.wikipedia.org/wiki/File:SZM_Line%line_P%platform.svg "fig:%size")"
+p.platformSignFormat = "[%size](https://zh.wikipedia.org/wiki/File:SZM_Line%line_P%platform.svg "fig:%size")"
 
 \-- 错误信息 local errorlist = {
 
@@ -38,11 +36,7 @@ local function makeInvokeFunction(funcName)
 
 end
 
-p.szmTemplate = makeInvokeFunction('_szmTemplate') p.interchange =
-makeInvokeFunction('_interchange') p.getcolor =
-makeInvokeFunction('_getcolor') p.parsing =
-makeInvokeFunction('_parsing') p.getPlatformSign =
-makeInvokeFunction('_getPlatformSign')
+p.szmTemplate = makeInvokeFunction('_szmTemplate') p.interchange = makeInvokeFunction('_interchange') p.getcolor = makeInvokeFunction('_getcolor') p.parsing = makeInvokeFunction('_parsing') p.getPlatformSign = makeInvokeFunction('_getPlatformSign')
 
 \-- 建立线路名称反查解析表 do
 
@@ -55,8 +49,7 @@ makeInvokeFunction('_getPlatformSign')
 
 end
 
-\-- 本地函数：解析线路名称，参数=线路名字，返回=线路编号 local function
-fromLineNameToLineNumber(lineName)
+\-- 本地函数：解析线路名称，参数=线路名字，返回=线路编号 local function fromLineNameToLineNumber(lineName)
 
 `   if p.revNamesTbl[lineName] then`
 `       return tonumber(p.revNamesTbl[lineName])`
@@ -67,8 +60,7 @@ fromLineNameToLineNumber(lineName)
 
 end
 
-\-- 本地函数：解析线路色彩，参数=线路编号，返回=线路色彩RGB代码值 local function
-getLineColor(lineNumber)
+\-- 本地函数：解析线路色彩，参数=线路编号，返回=线路色彩RGB代码值 local function getLineColor(lineNumber)
 
 `   if d.lineColors[lineNumber] then`
 `       return d.lineColors[lineNumber]`
@@ -79,8 +71,7 @@ getLineColor(lineNumber)
 
 end
 
-\-- 本地函数：获取站台图标，参数=线路编号，站台编号，图片大小（可选，默认20px） local function
-getPlatformSign(line, platform, size)
+\-- 本地函数：获取站台图标，参数=线路编号，站台编号，图片大小（可选，默认20px） local function getPlatformSign(line, platform, size)
 
 `   if not line or not platform then return end`
 `   local img = p.platformSignFormat:gsub("%%line", line)`
@@ -126,8 +117,7 @@ end
 
 end
 
-\-- 替换原版模板函数，参数1，参数2，参数3... =线路名称，返回=换乘1，换乘2，换乘3...且已经按顺序排序 function
-p._interchange(args)
+\-- 替换原版模板函数，参数1，参数2，参数3... =线路名称，返回=换乘1，换乘2，换乘3...且已经按顺序排序 function p._interchange(args)
 
 `   -- 第一个参数都无则返回错误`
 `   if not args[1] then`
@@ -160,8 +150,7 @@ p._interchange(args)
 
 end
 
-\-- 模板函数: line=线路数字, platform=站台编号, size=图片尺寸(留空默认20xp); 返回=站台图片
-function p._getPlatformSign(args)
+\-- 模板函数: line=线路数字, platform=站台编号, size=图片尺寸(留空默认20xp); 返回=站台图片 function p._getPlatformSign(args)
 
 `   return getPlatformSign(args.line, args.platform, args.size)`
 

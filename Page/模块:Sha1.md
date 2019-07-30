@@ -2,72 +2,26 @@ local sha1 = {
 
 ` _VERSION     = "sha.lua 0.5.0",`
 ` _URL         = "`<https://github.com/kikito/sha.lua>`",`
-` _DESCRIPTION = `[`SHA-1``   ``secure``   ``hash``   ``computation,``
- ``and``   ``HMAC-SHA1``   ``signature``   ``computation``   ``in``
- ``Lua``   ``(5.1)``   ``Based``   ``on``   ``code``   ``originally``
- ``by``   ``Jeffrey``   ``Friedl``
- ``(http://regex.info/blog/lua/sha1)``   ``And``   ``modified``
- ``by``   ``Eike``   ``Decker``   ``-``
- ``(http://cube3d.de/uploads/Main/sha1.txt)`](https://zh.wikipedia.org/wiki/SHA-1_secure_hash_computation,_and_HMAC-SHA1_signature_computation_in_Lua_\(5.1\)_Based_on_code_originally_by_Jeffrey_Friedl_\(http://regex.info/blog/lua/sha1\)_And_modified_by_Eike_Decker_-_\(http://cube3d.de/uploads/Main/sha1.txt\) "wikilink")`,`
-` _LICENSE = `[`MIT``   ``LICENSE``   ``Copyright``   ``(c)``
- ``2013``   ``Enrique``   ``García``   ``Cota``   ``+``   ``Eike``
- ``Decker``   ``+``   ``Jeffrey``   ``Friedl``   ``Permission``
- ``is``   ``hereby``   ``granted,``   ``free``   ``of``   ``charge,``
- ``to``   ``any``   ``person``   ``obtaining``   ``a``   ``copy``
- ``of``   ``this``   ``software``   ``and``   ``associated``
- ``documentation``   ``files``   ``(the``   ``"Software"),``   ``to``
- ``deal``   ``in``   ``the``   ``Software``   ``without``
- ``restriction,``   ``including``   ``without``   ``limitation``
- ``the``   ``rights``   ``to``   ``use,``   ``copy,``   ``modify,``
- ``merge,``   ``publish,``   ``distribute,``   ``sublicense,``
- ``and/or``   ``sell``   ``copies``   ``of``   ``the``   ``Software,``
- ``and``   ``to``   ``permit``   ``persons``   ``to``   ``whom``
- ``the``   ``Software``   ``is``   ``furnished``   ``to``   ``do``
- ``so,``   ``subject``   ``to``   ``the``   ``following``
- ``conditions:``   ``The``   ``above``   ``copyright``   ``notice``
- ``and``   ``this``   ``permission``   ``notice``   ``shall``   ``be``
- ``included``   ``in``   ``all``   ``copies``   ``or``
- ``substantial``   ``portions``   ``of``   ``the``   ``Software.``
- ``THE``   ``SOFTWARE``   ``IS``   ``PROVIDED``   ``"AS``   ``IS",``
- ``WITHOUT``   ``WARRANTY``   ``OF``   ``ANY``   ``KIND,``
- ``EXPRESS``   ``OR``   ``IMPLIED,``   ``INCLUDING``   ``BUT``
- ``NOT``   ``LIMITED``   ``TO``   ``THE``   ``WARRANTIES``   ``OF``
- ``MERCHANTABILITY,``   ``FITNESS``   ``FOR``   ``A``   ``PARTICULAR``
- ``PURPOSE``   ``AND``   ``NONINFRINGEMENT.``   ``IN``   ``NO``
- ``EVENT``   ``SHALL``   ``THE``   ``AUTHORS``   ``OR``   ``COPYRIGHT``
- ``HOLDERS``   ``BE``   ``LIABLE``   ``FOR``   ``ANY``   ``CLAIM,``
- ``DAMAGES``   ``OR``   ``OTHER``   ``LIABILITY,``   ``WHETHER``
- ``IN``   ``AN``   ``ACTION``   ``OF``   ``CONTRACT,``   ``TORT``
- ``OR``   ``OTHERWISE,``   ``ARISING``   ``FROM,``   ``OUT``   ``OF``
- ``OR``   ``IN``   ``CONNECTION``   ``WITH``   ``THE``   ``SOFTWARE``
- ``OR``   ``THE``   ``USE``   ``OR``   ``OTHER``   ``DEALINGS``
- ``IN``   ``THE``
- ``SOFTWARE.`](https://zh.wikipedia.org/wiki/MIT_LICENSE_Copyright_\(c\)_2013_Enrique_García_Cota_+_Eike_Decker_+_Jeffrey_Friedl_Permission_is_hereby_granted,_free_of_charge,_to_any_person_obtaining_a_copy_of_this_software_and_associated_documentation_files_\(the_"Software"\),_to_deal_in_the_Software_without_restriction,_including_without_limitation_the_rights_to_use,_copy,_modify,_merge,_publish,_distribute,_sublicense,_and/or_sell_copies_of_the_Software,_and_to_permit_persons_to_whom_the_Software_is_furnished_to_do_so,_subject_to_the_following_conditions:_The_above_copyright_notice_and_this_permission_notice_shall_be_included_in_all_copies_or_substantial_portions_of_the_Software._THE_SOFTWARE_IS_PROVIDED_"AS_IS",_WITHOUT_WARRANTY_OF_ANY_KIND,_EXPRESS_OR_IMPLIED,_INCLUDING_BUT_NOT_LIMITED_TO_THE_WARRANTIES_OF_MERCHANTABILITY,_FITNESS_FOR_A_PARTICULAR_PURPOSE_AND_NONINFRINGEMENT._IN_NO_EVENT_SHALL_THE_AUTHORS_OR_COPYRIGHT_HOLDERS_BE_LIABLE_FOR_ANY_CLAIM,_DAMAGES_OR_OTHER_LIABILITY,_WHETHER_IN_AN_ACTION_OF_CONTRACT,_TORT_OR_OTHERWISE,_ARISING_FROM,_OUT_OF_OR_IN_CONNECTION_WITH_THE_SOFTWARE_OR_THE_USE_OR_OTHER_DEALINGS_IN_THE_SOFTWARE. "wikilink")
+` _DESCRIPTION = `[`SHA-1``   ``secure``   ``hash``   ``computation,``   ``and``   ``HMAC-SHA1``   ``signature``   ``computation``   ``in``   ``Lua``   ``(5.1)``   ``Based``   ``on``   ``code``   ``originally``   ``by``   ``Jeffrey``   ``Friedl``   ``(http://regex.info/blog/lua/sha1)``   ``And``   ``modified``   ``by``   ``Eike``   ``Decker``   ``-``   ``(http://cube3d.de/uploads/Main/sha1.txt)`](https://zh.wikipedia.org/wiki/SHA-1_secure_hash_computation,_and_HMAC-SHA1_signature_computation_in_Lua_\(5.1\)_Based_on_code_originally_by_Jeffrey_Friedl_\(http://regex.info/blog/lua/sha1\)_And_modified_by_Eike_Decker_-_\(http://cube3d.de/uploads/Main/sha1.txt\) "wikilink")`,`
+` _LICENSE = `[`MIT``   ``LICENSE``   ``Copyright``   ``(c)``   ``2013``   ``Enrique``   ``García``   ``Cota``   ``+``   ``Eike``   ``Decker``   ``+``   ``Jeffrey``   ``Friedl``   ``Permission``   ``is``   ``hereby``   ``granted,``   ``free``   ``of``   ``charge,``   ``to``   ``any``   ``person``   ``obtaining``   ``a``   ``copy``   ``of``   ``this``   ``software``   ``and``   ``associated``   ``documentation``   ``files``   ``(the``   ``"Software"),``   ``to``   ``deal``   ``in``   ``the``   ``Software``   ``without``   ``restriction,``   ``including``   ``without``   ``limitation``   ``the``   ``rights``   ``to``   ``use,``   ``copy,``   ``modify,``   ``merge,``   ``publish,``   ``distribute,``   ``sublicense,``   ``and/or``   ``sell``   ``copies``   ``of``   ``the``   ``Software,``   ``and``   ``to``   ``permit``   ``persons``   ``to``   ``whom``   ``the``   ``Software``   ``is``   ``furnished``   ``to``   ``do``   ``so,``   ``subject``   ``to``   ``the``   ``following``   ``conditions:``   ``The``   ``above``   ``copyright``   ``notice``   ``and``   ``this``   ``permission``   ``notice``   ``shall``   ``be``   ``included``   ``in``   ``all``   ``copies``   ``or``   ``substantial``   ``portions``   ``of``   ``the``   ``Software.``   ``THE``   ``SOFTWARE``   ``IS``   ``PROVIDED``   ``"AS``   ``IS",``   ``WITHOUT``   ``WARRANTY``   ``OF``   ``ANY``   ``KIND,``   ``EXPRESS``   ``OR``   ``IMPLIED,``   ``INCLUDING``   ``BUT``   ``NOT``   ``LIMITED``   ``TO``   ``THE``   ``WARRANTIES``   ``OF``   ``MERCHANTABILITY,``   ``FITNESS``   ``FOR``   ``A``   ``PARTICULAR``   ``PURPOSE``   ``AND``   ``NONINFRINGEMENT.``   ``IN``   ``NO``   ``EVENT``   ``SHALL``   ``THE``   ``AUTHORS``   ``OR``   ``COPYRIGHT``   ``HOLDERS``   ``BE``   ``LIABLE``   ``FOR``   ``ANY``   ``CLAIM,``   ``DAMAGES``   ``OR``   ``OTHER``   ``LIABILITY,``   ``WHETHER``   ``IN``   ``AN``   ``ACTION``   ``OF``   ``CONTRACT,``   ``TORT``   ``OR``   ``OTHERWISE,``   ``ARISING``   ``FROM,``   ``OUT``   ``OF``   ``OR``   ``IN``   ``CONNECTION``   ``WITH``   ``THE``   ``SOFTWARE``   ``OR``   ``THE``   ``USE``   ``OR``   ``OTHER``   ``DEALINGS``   ``IN``   ``THE``   ``SOFTWARE.`](https://zh.wikipedia.org/wiki/MIT_LICENSE_Copyright_\(c\)_2013_Enrique_García_Cota_+_Eike_Decker_+_Jeffrey_Friedl_Permission_is_hereby_granted,_free_of_charge,_to_any_person_obtaining_a_copy_of_this_software_and_associated_documentation_files_\(the_"Software"\),_to_deal_in_the_Software_without_restriction,_including_without_limitation_the_rights_to_use,_copy,_modify,_merge,_publish,_distribute,_sublicense,_and/or_sell_copies_of_the_Software,_and_to_permit_persons_to_whom_the_Software_is_furnished_to_do_so,_subject_to_the_following_conditions:_The_above_copyright_notice_and_this_permission_notice_shall_be_included_in_all_copies_or_substantial_portions_of_the_Software._THE_SOFTWARE_IS_PROVIDED_"AS_IS",_WITHOUT_WARRANTY_OF_ANY_KIND,_EXPRESS_OR_IMPLIED,_INCLUDING_BUT_NOT_LIMITED_TO_THE_WARRANTIES_OF_MERCHANTABILITY,_FITNESS_FOR_A_PARTICULAR_PURPOSE_AND_NONINFRINGEMENT._IN_NO_EVENT_SHALL_THE_AUTHORS_OR_COPYRIGHT_HOLDERS_BE_LIABLE_FOR_ANY_CLAIM,_DAMAGES_OR_OTHER_LIABILITY,_WHETHER_IN_AN_ACTION_OF_CONTRACT,_TORT_OR_OTHERWISE,_ARISING_FROM,_OUT_OF_OR_IN_CONNECTION_WITH_THE_SOFTWARE_OR_THE_USE_OR_OTHER_DEALINGS_IN_THE_SOFTWARE. "wikilink")
 
 }
 
 -----
 
-\-- loading this file (takes a while but grants a boost of factor 13)
-local PRELOAD_CACHE = true
+\-- loading this file (takes a while but grants a boost of factor 13) local PRELOAD_CACHE = true
 
 local BLOCK_SIZE = 64 -- 512 bits
 
-\-- local storing of global functions (minor speedup) local floor,modf =
-math.floor,math.modf local char,format,rep =
-string.char,string.format,string.rep
+\-- local storing of global functions (minor speedup) local floor,modf = math.floor,math.modf local char,format,rep = string.char,string.format,string.rep
 
-\-- merge 4 bytes to an 32 bit word local function
-bytes_to_w32(a,b,c,d) return a\*0x1000000+b\*0x10000+c\*0x100+d end --
-split a 32 bit word into four 8 bit numbers local function
-w32_to_bytes(i)
+\-- merge 4 bytes to an 32 bit word local function bytes_to_w32(a,b,c,d) return a\*0x1000000+b\*0x10000+c\*0x100+d end -- split a 32 bit word into four 8 bit numbers local function w32_to_bytes(i)
 
 ` return floor(i/0x1000000)%0x100,floor(i/0x10000)%0x100,floor(i/0x100)%0x100,i%0x100`
 
 end
 
-\-- shift the bits of a 32 bit word. Don't use negative values for
-"bits" local function w32_rot(bits,a)
+\-- shift the bits of a 32 bit word. Don't use negative values for "bits" local function w32_rot(bits,a)
 
 ` local b2 = 2^(32-bits)`
 ` local a,b = modf(a/b2)`
@@ -75,10 +29,7 @@ end
 
 end
 
-\-- caching function for functions that accept 2 arguments, both of
-values between -- 0 and 255. The function to be cached is passed, all
-values are calculated -- during loading and a function is returned that
-returns the cached values (only) local function cache2arg(fn)
+\-- caching function for functions that accept 2 arguments, both of values between -- 0 and 255. The function to be cached is passed, all values are calculated -- during loading and a function is returned that returns the cached values (only) local function cache2arg(fn)
 
 ` if not PRELOAD_CACHE then return fn end`
 ` local lut = {}`
@@ -92,8 +43,7 @@ returns the cached values (only) local function cache2arg(fn)
 
 end
 
-\-- splits an 8-bit number into 8 bits, returning all 8 bits as booleans
-local function byte_to_bits(b)
+\-- splits an 8-bit number into 8 bits, returning all 8 bits as booleans local function byte_to_bits(b)
 
 ` local b = function(n)`
 `   local b = floor(b/n)`
@@ -103,16 +53,14 @@ local function byte_to_bits(b)
 
 end
 
-\-- builds an 8bit number from 8 booleans local function
-bits_to_byte(a,b,c,d,e,f,g,h)
+\-- builds an 8bit number from 8 booleans local function bits_to_byte(a,b,c,d,e,f,g,h)
 
 ` local function n(b,x) return b and x or 0 end`
 ` return n(a,1)+n(b,2)+n(c,4)+n(d,8)+n(e,16)+n(f,32)+n(g,64)+n(h,128)`
 
 end
 
-\-- bitwise "and" function for 2 8bit number local band = cache2arg
-(function(a,b)
+\-- bitwise "and" function for 2 8bit number local band = cache2arg (function(a,b)
 
 ` local A,B,C,D,E,F,G,H = byte_to_bits(b)`
 ` local a,b,c,d,e,f,g,h = byte_to_bits(a)`
@@ -122,8 +70,7 @@ end
 
 end)
 
-\-- bitwise "or" function for 2 8bit numbers local bor =
-cache2arg(function(a,b)
+\-- bitwise "or" function for 2 8bit numbers local bor = cache2arg(function(a,b)
 
 ` local A,B,C,D,E,F,G,H = byte_to_bits(b)`
 ` local a,b,c,d,e,f,g,h = byte_to_bits(a)`
@@ -133,8 +80,7 @@ cache2arg(function(a,b)
 
 end)
 
-\-- bitwise "xor" function for 2 8bit numbers local bxor =
-cache2arg(function(a,b)
+\-- bitwise "xor" function for 2 8bit numbers local bxor = cache2arg(function(a,b)
 
 ` local A,B,C,D,E,F,G,H = byte_to_bits(b)`
 ` local a,b,c,d,e,f,g,h = byte_to_bits(a)`
@@ -150,8 +96,7 @@ end)
 
 end
 
-\-- creates a function to combine to 32bit numbers using an 8bit
-combination function local function w32_comb(fn)
+\-- creates a function to combine to 32bit numbers using an 8bit combination function local function w32_comb(fn)
 
 ` return function(a,b)`
 `   local aa,ab,ac,ad = w32_to_bytes(a)`
@@ -161,12 +106,9 @@ combination function local function w32_comb(fn)
 
 end
 
-\-- create functions for and, xor and or, all for 2 32bit numbers local
-w32_and = w32_comb(band) local w32_xor = w32_comb(bxor) local
-w32_or = w32_comb(bor)
+\-- create functions for and, xor and or, all for 2 32bit numbers local w32_and = w32_comb(band) local w32_xor = w32_comb(bxor) local w32_or = w32_comb(bor)
 
-\-- xor function that may receive a variable number of arguments local
-function w32_xor_n(a,...)
+\-- xor function that may receive a variable number of arguments local function w32_xor_n(a,...)
 
 ` local aa,ab,ac,ad = w32_to_bytes(a)`
 ` for i=1,select('#',...) do`
@@ -177,8 +119,7 @@ function w32_xor_n(a,...)
 
 end
 
-\-- combining 3 32bit numbers through binary "or" operation local
-function w32_or3(a,b,c)
+\-- combining 3 32bit numbers through binary "or" operation local function w32_or3(a,b,c)
 
 ` local aa,ab,ac,ad = w32_to_bytes(a)`
 ` local ba,bb,bc,bd = w32_to_bytes(b)`
@@ -195,19 +136,16 @@ end
 
 end
 
-\-- adding 2 32bit numbers, cutting off the remainder on 33th bit local
-function w32_add(a,b) return (a+b) % 4294967296 end
+\-- adding 2 32bit numbers, cutting off the remainder on 33th bit local function w32_add(a,b) return (a+b) % 4294967296 end
 
-\-- adding n 32bit numbers, cutting off the remainder (again) local
-function w32_add_n(a,...)
+\-- adding n 32bit numbers, cutting off the remainder (again) local function w32_add_n(a,...)
 
 ` for i=1,select('#',...) do`
 `   a = (a+select(i,...)) % 4294967296`
 ` end`
 ` return a`
 
-end -- converting the number to a hexadecimal string local function
-w32_to_hexstring(w) return format("%08x",w) end
+end -- converting the number to a hexadecimal string local function w32_to_hexstring(w) return format("%08x",w) end
 
 local function hex_to_binary(hex)
 
@@ -217,9 +155,7 @@ local function hex_to_binary(hex)
 
 end
 
-\-- building the lookuptables ahead of time (instead of littering the
-source code -- with precalculated values) local xor_with_0x5c = {}
-local xor_with_0x36 = {} for i=0,0xff do
+\-- building the lookuptables ahead of time (instead of littering the source code -- with precalculated values) local xor_with_0x5c = {} local xor_with_0x36 = {} for i=0,0xff do
 
 ` xor_with_0x5c[char(i)] = char(bxor(i,0x5c))`
 ` xor_with_0x36[char(i)] = char(bxor(i,0x36))`
@@ -338,7 +274,6 @@ function sha1.hmac_binary(key, text)
 
 end
 
-setmetatable(sha1, {__call = function(_,msg) return sha1.sha1(msg)
-end })
+setmetatable(sha1, {__call = function(_,msg) return sha1.sha1(msg) end })
 
 return sha1

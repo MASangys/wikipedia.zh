@@ -1,4 +1,4 @@
-**KBS金土连续剧**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六所播出的](../Page/星期六.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")。於2017年6月2日重新播出。\[1\]
+**KBS金土连续剧**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六](../Page/星期六.md "wikilink")所播出的[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")。於2017年6月2日重新播出。\[1\]
 
 ## 播出時間更動表
 
@@ -140,11 +140,6 @@
   - [韓國KBS官方網站](http://www.kbs.co.kr/)
   - [KBS 2TV節目表](https://web.archive.org/web/20070812055613/http://www.kbs.co.kr/plan_table/channel/2tv/index.html)
 
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:KBS金土连续剧](https://zh.wikipedia.org/wiki/Category:KBS金土连续剧 "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:KBS金土连续剧](https://zh.wikipedia.org/wiki/Category:KBS金土连续剧 "wikilink")
-
-1.  [‘최고의 한방’ 金土 확정... KBS 6月 편성변경
-    이유는?](http://www.tvj.co.kr/news/articleView.html?idxno=39948)
+1.  [‘최고의 한방’ 金土 확정... KBS 6月 편성변경 이유는?](http://www.tvj.co.kr/news/articleView.html?idxno=39948)

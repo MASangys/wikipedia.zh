@@ -1,6 +1,4 @@
-**Cookie
-Clicker**（中文译作「**餅乾計數器**」、「**餅乾製造機**」、「**餅乾點點樂**」或「**无尽的饼干**」）是一個以[JavaScript語言製作的網頁遊戲](../Page/JavaScript.md "wikilink")，由Julien
-Thiennot設計\[1\]，在2013年8月10日釋出。藉由滑鼠點擊來生產餅乾，並研發遊戲中的科技來加快餅乾的產量，是一個僅靠點擊就能進行的遊戲。
+**Cookie Clicker**（中文译作「**餅乾計數器**」、「**餅乾製造機**」、「**餅乾點點樂**」或「**无尽的饼干**」）是一個以[JavaScript](../Page/JavaScript.md "wikilink")語言製作的網頁遊戲，由Julien Thiennot設計\[1\]，在2013年8月10日釋出。藉由滑鼠點擊來生產餅乾，並研發遊戲中的科技來加快餅乾的產量，是一個僅靠點擊就能進行的遊戲。
 
 ## 遊玩方式
 
@@ -10,17 +8,13 @@ Thiennot設計\[1\]，在2013年8月10日釋出。藉由滑鼠點擊來生產餅
 
 ## 遊戲歷史
 
-2010年時，遊戲設計師Ian Bogost設計了一個名為「Cow
-Clicker」的遊戲以諷刺[Facebook平台上如](../Page/Facebook.md "wikilink")[開心農場等不需要太多思考的遊戲](../Page/開心農場.md "wikilink")，並將遊戲的複雜度盡可能簡化。遊戲目標非常簡單：每六個小時點擊乳牛來擠奶。在2013年8月，Julien
-Thiennot設計了類似於Cow Clicker遊戲的Cookie Clicker。
+2010年時，遊戲設計師Ian Bogost設計了一個名為「Cow Clicker」的遊戲以諷刺[Facebook](../Page/Facebook.md "wikilink")平台上如[開心農場](../Page/開心農場.md "wikilink")等不需要太多思考的遊戲，並將遊戲的複雜度盡可能簡化。遊戲目標非常簡單：每六個小時點擊乳牛來擠奶。在2013年8月，Julien Thiennot設計了類似於Cow Clicker遊戲的Cookie Clicker。
 
 ## 參考資料
 
 ## 外部連結
 
   -
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:仅有单人模式的电子游戏](https://zh.wikipedia.org/wiki/Category:仅有单人模式的电子游戏 "wikilink")
+[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:仅有单人模式的电子游戏](https://zh.wikipedia.org/wiki/Category:仅有单人模式的电子游戏 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-**S\&T重工业**（****；）是一家[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[武器](../Page/武器.md "wikilink")、汽车配件、铸造品及[机械设备生产商](../Page/机械.md "wikilink")，也被称为爱思恩梯重工业公司\[1\]。其作為韓國[國防工業的一環](../Page/國防工業.md "wikilink")，设计、生产出各类武器装备，並已大量装备于[大韓民國國軍各军种的前线部队](../Page/大韓民國國軍.md "wikilink")。
+**S\&T重工业**（****；）是一家[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[武器](../Page/武器.md "wikilink")、汽车配件、铸造品及[机械](../Page/机械.md "wikilink")设备生产商，也被称为爱思恩梯重工业公司\[1\]。其作為韓國[國防工業](../Page/國防工業.md "wikilink")的一環，设计、生产出各类武器装备，並已大量装备于[大韓民國國軍](../Page/大韓民國國軍.md "wikilink")各军种的前线部队。
 
 ## 历史沿革
 
@@ -8,8 +8,7 @@
   - 1995年4月，公司又再次更名为**统一重工业**\[4\]。
   - 1998年，统一重工业宣告破产，其后经历了4年多的法院管理后，公司被S\&T控股收购，并在2004年开始实现盈利\[5\]。
   - 2005年6月3日公司更名为现在的名称-**S\&T重工业**\[6\]。
-  - 2006年，S\&T重工业收购了[大宇精密工业](https://zh.wikipedia.org/wiki/大宇精密工业 "wikilink")（即现在的S\&T
-    Motiv）\[7\]。
+  - 2006年，S\&T重工业收购了[大宇精密工业](https://zh.wikipedia.org/wiki/大宇精密工业 "wikilink")（即现在的S\&T Motiv）\[7\]。
 
 ## 产品
 
@@ -34,12 +33,9 @@
 ## 外部链接
 
   - [S\&T重工业中文网页](http://www.hisntd.com/cn/main/main.html)
-  - [S\&T중공업 -
-    반기보고서(일반법인)](http://kind.krx.co.kr/common/disclsviewer.do?method=searchInitInfo&acptNo=20130812000044)
+  - [S\&T중공업 - 반기보고서(일반법인)](http://kind.krx.co.kr/common/disclsviewer.do?method=searchInitInfo&acptNo=20130812000044)
 
-[Category:昌原公司](https://zh.wikipedia.org/wiki/Category:昌原公司 "wikilink")
-[Category:总部在韩国的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在韩国的跨国公司 "wikilink")
-[Category:韓國軍工廠](https://zh.wikipedia.org/wiki/Category:韓國軍工廠 "wikilink")
+[Category:昌原公司](https://zh.wikipedia.org/wiki/Category:昌原公司 "wikilink") [Category:总部在韩国的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在韩国的跨国公司 "wikilink") [Category:韓國軍工廠](https://zh.wikipedia.org/wiki/Category:韓國軍工廠 "wikilink")
 
 1.
 
@@ -50,6 +46,4 @@
 5.
 6.
 7.
-8.  [S\&T Dynamics XK13 OCSW Project
-    Cancelled](http://www.thefirearmblog.com/blog/2013/12/09/st-dynamics-xk13-ocsw-project-cancelled/)
-    - The Firearm Blog, 9 December 2013
+8.  [S\&T Dynamics XK13 OCSW Project Cancelled](http://www.thefirearmblog.com/blog/2013/12/09/st-dynamics-xk13-ocsw-project-cancelled/) - The Firearm Blog, 9 December 2013

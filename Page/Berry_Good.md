@@ -1,5 +1,4 @@
-**Berry Good**
-（）是JTG娛樂於2014年5月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，初始成員有邰賀、高雲、秀彬、Iera、娜妍。經成員變動後，現任成員有祚弦、徐律、多藝、世馨、高雲。
+**Berry Good** （）是JTG娛樂於2014年5月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，初始成員有邰賀、高雲、秀彬、Iera、娜妍。經成員變動後，現任成員有祚弦、徐律、多藝、世馨、高雲。
 
 团名"Berry Good"寓意著成員將竭尽全力结成最好的果实，粉絲名為Very Berry。
 
@@ -9,28 +8,23 @@
 
 5月18日，公開出道曲《Love Letter》MV預告\[1\]。
 
-5月22日，正式出道及公開《Love Letter》MV\[2\]，並於Mnet音樂節目《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式公開演出。
+5月22日，正式出道及公開《Love Letter》MV\[2\]，並於Mnet音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式公開演出。
 
-6月21日於KBS2音樂節目《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的表演舞台結束宣傳。
+6月21日於KBS2音樂節目《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的表演舞台結束宣傳。
 
 ### 2015年－成員變遷、單曲二輯《Because Of you》、單曲三輯《My first love》
 
 2月9日，公開歌曲《Because of you(요즘 너 때문에 난)》MV。
 
-2月16日，公司宣布成員秀彬、Iera、娜妍退出。為了替補空缺，加入新成員徐律、多藝、世馨以維持五人組合形式，而新成員徐律親姐姐是女子團體[AOA的成員](../Page/AOA.md "wikilink")[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")，所以得到關注。\[3\]此外，公司亦宣佈Berry
-Good會在二月進行回歸。\[4\]
+2月16日，公司宣布成員秀彬、Iera、娜妍退出。為了替補空缺，加入新成員徐律、多藝、世馨以維持五人組合形式，而新成員徐律親姐姐是女子團體[AOA](../Page/AOA.md "wikilink")的成員[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")，所以得到關注。\[3\]此外，公司亦宣佈Berry Good會在二月進行回歸。\[4\]
 
 9月23日，公開歌曲《My first love(내 첫사랑)》MV。
 
 ### 2016年：迷你一輯《Very Berry》、迷你二輯《GLORY》、新成員祚弦加入
 
-4月20日發行迷你一輯《Very Berry》回歸，專輯除了收錄舊曲《Love Letter》、《因為你(요즘 너 때문에
-난)》和《我的初戀(내 첫사랑)》外，更有新曲《一起(함께했음)》和主打曲《Angel》。 \[5\]
+4月20日發行迷你一輯《Very Berry》回歸，專輯除了收錄舊曲《Love Letter》、《因為你(요즘 너 때문에 난)》和《我的初戀(내 첫사랑)》外，更有新曲《一起(함께했음)》和主打曲《Angel》。 \[5\]
 
-加入一名新成員祚弦成為六人女團的Berry Good，將在11月1日推出全新迷你專輯《GLORY》回歸，宣傳照與主打歌《不會說謊 (안
-믿을래)》預告公開。
+加入一名新成員祚弦成為六人女團的Berry Good，將在11月1日推出全新迷你專輯《GLORY》回歸，宣傳照與主打歌《不會說謊 (안 믿을래)》預告公開。
 
 11月1日，於各大音源網站發行全新迷你專輯《GLORY》，並公開主打歌《Don't Believe (안 믿을래，前譯：不會說謊)》MV。
 
@@ -40,16 +34,13 @@ Good會在二月進行回歸。\[4\]
 
 4月17日，發行單曲四輯《BibbidiBobbidiBoo》回歸，公開同名主打歌《BibbidiBobbidiBoo》MV。
 
-10月29日，全員參加[YG娛樂製作的選秀節目](../Page/YG娛樂.md "wikilink")[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，成員祚弦、徐律、多藝入選，徐律第7集淘汰，最終排名139名；多藝第10集淘汰，最終在少女組排名37名；祚弦第13集淘汰，最終在少女組排名24名。
+10月29日，全員參加[YG娛樂](../Page/YG娛樂.md "wikilink")製作的選秀節目[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，成員祚弦、徐律、多藝入選，徐律第7集淘汰，最終排名139名；多藝第10集淘汰，最終在少女組排名37名；祚弦第13集淘汰，最終在少女組排名24名。
 
 ### 2018年：子團體Berry Good HEARTHEART出道、正規一輯回歸、日本第一次演唱会、圣诞单曲
 
-4月27日，邰賀、世馨及高雲三位成員以子團體「Berry Good HEARTHEART」身分發行數位單曲出道，公開主打歌《Crazy,
-gone crazy (난리가 난리가 났네)》MV。
+4月27日，邰賀、世馨及高雲三位成員以子團體「Berry Good HEARTHEART」身分發行數位單曲出道，公開主打歌《Crazy, gone crazy (난리가 난리가 났네)》MV。
 
-8月16日，以完全體攜首張正規專輯《FREE TRAVEL》回歸，主打歌為《Green
-Apple(풋사과)》\[6\]，並公開主打歌《Green
-Apple(풋사과)》及收錄曲《Mellow Mellow》MV。
+8月16日，以完全體攜首張正規專輯《FREE TRAVEL》回歸，主打歌為《Green Apple(풋사과)》\[6\]，並公開主打歌《Green Apple(풋사과)》及收錄曲《Mellow Mellow》MV。
 
 10月18日，在日本东京的新宿Blaze举办了他们的第一场演唱会。
 
@@ -63,8 +54,7 @@ Apple(풋사과)》及收錄曲《Mellow Mellow》MV。
   -
 </ref>。
 
-5月25日，Berry Good以五人形式攜迷你三輯《FANTASTIC》回歸，主打歌為《Oh\! Oh\!》，並公開主打歌《Oh\!
-Oh\!》MV。
+5月25日，Berry Good以五人形式攜迷你三輯《FANTASTIC》回歸，主打歌為《Oh\! Oh\!》，並公開主打歌《Oh\! Oh\!》MV。
 
 5月27日，成員邰賀與公司合約到期，退出組合\[8\]。
 
@@ -87,10 +77,7 @@ Oh\!》MV。
 | **邰賀**\[10\] |
 | **娜妍**       |
 
-<timeline> ImageSize = width:650 height:300 PlotArea = width:500
-height:250 left:75 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy
-Period = from:2014 till:2019 TimeAxis = orientation:horizontal
-format:mm/yyyy
+<timeline> ImageSize = width:650 height:300 PlotArea = width:500 height:250 left:75 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2014 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -99,8 +86,7 @@ Colors =
 ` id:grey  value:gray(0.5)`
 ` id:darkgrey  value:gray(0.1)`
 
-ScaleMajor = unit:year increment:1 start:2014 gridcolor:black Legend =
-orientation:horizontal position:bottom
+ScaleMajor = unit:year increment:1 start:2014 gridcolor:black Legend = orientation:horizontal position:bottom
 
 BarData =
 
@@ -623,23 +609,16 @@ PlotData =
   -
   -
   -
-  - [Berry
-    Good](https://www.youtube.com/channel/UCuis1ZmbYTt5GP6yszCC0EQ/featured)的Youtube頻道
+  - [Berry Good](https://www.youtube.com/channel/UCuis1ZmbYTt5GP6yszCC0EQ/featured)的Youtube頻道
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.
 3.  [酉奈親妹妹加入Berry Good](http://kpopn.com/2015/01/23/258602/)
 4.  [Berry Good 將於二月回歸](http://kpopn.com/2015/01/27/259045/)
-5.  [等了7個月後回歸了！Berry Good 首張迷你專輯《VERY
-    BERRY》面世嘍～](http://www.vlovekpop.com/20160425-3-berry-good/)
-    vlovekpop
-6.  [Berry Good 首張正規專輯《FREE
-    TRAVEL》個人概念照公開](https://www.kpopn.com/2018/08/13/berry-good)
+5.  [等了7個月後回歸了！Berry Good 首張迷你專輯《VERY BERRY》面世嘍～](http://www.vlovekpop.com/20160425-3-berry-good/) vlovekpop
+6.  [Berry Good 首張正規專輯《FREE TRAVEL》個人概念照公開](https://www.kpopn.com/2018/08/13/berry-good)
 7.
 8.
 9.  [祚弦在IG限時動態中親自回答有關藝名漢字的問題](https://wx2.sinaimg.cn/large/63504f86ly1g00fdsy0pzj20ku11242h.jpg)

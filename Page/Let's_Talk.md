@@ -1,5 +1,4 @@
-《**Let's
-Talk**》是韓國男子偶像團體[2AM第](../Page/2AM.md "wikilink")3張正規韓語專輯（連同日語專輯計算則為第4張），在2014年10月30日以實體專輯與數位下載共同發行\[1\]。
+《**Let's Talk**》是韓國男子偶像團體[2AM](../Page/2AM.md "wikilink")第3張正規韓語專輯（連同日語專輯計算則為第4張），在2014年10月30日以實體專輯與數位下載共同發行\[1\]。
 
 ## 曲目
 
@@ -134,9 +133,7 @@ Talk**》是韓國男子偶像團體[2AM第](../Page/2AM.md "wikilink")3張正�
   -
   - [2AM官方網站](https://web.archive.org/web/20140426234047/http://2am.jype.com/)
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:2AM音樂專輯](https://zh.wikipedia.org/wiki/Category:2AM音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:2AM音樂專輯](https://zh.wikipedia.org/wiki/Category:2AM音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

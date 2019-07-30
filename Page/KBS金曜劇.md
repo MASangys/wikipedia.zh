@@ -225,12 +225,8 @@
   - [韓國KBS官方網站](http://www.kbs.co.kr/)
   - [KBS 2TV節目表](https://web.archive.org/web/20070812055613/http://www.kbs.co.kr/plan_table/channel/2tv/index.html)
 
-
 ## 相關項目
 
   - [SBS金曜連續劇](../Page/SBS金曜連續劇.md "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:KBS金曜劇](https://zh.wikipedia.org/wiki/Category:KBS金曜劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:KBS金曜劇](https://zh.wikipedia.org/wiki/Category:KBS金曜劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

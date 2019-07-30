@@ -1,5 +1,4 @@
-《**戰鬥破壞學園DANGEROUS**》（）是[日本作家](../Page/日本.md "wikilink")[架神恭介的](https://zh.wikipedia.org/wiki/架神恭介 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")。[橫田卓馬繪畫的](https://zh.wikipedia.org/wiki/橫田卓馬 "wikilink")[漫画版於](https://zh.wikipedia.org/wiki/漫画 "wikilink")2011年12月開始在《月刊Young
-Magazine》連載。\[1\]
+《**戰鬥破壞學園DANGEROUS**》（）是[日本](../Page/日本.md "wikilink")作家[架神恭介的](https://zh.wikipedia.org/wiki/架神恭介 "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品。[橫田卓馬繪畫的](https://zh.wikipedia.org/wiki/橫田卓馬 "wikilink")[漫画版於](https://zh.wikipedia.org/wiki/漫画 "wikilink")2011年12月開始在《月刊Young Magazine》連載。\[1\]
 
 ## 故事簡介
 

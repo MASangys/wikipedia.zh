@@ -1,4 +1,4 @@
-《**牙狼〈GARO〉-炎之刻印-**》是由[MAPPA製作的電視動畫](../Page/MAPPA.md "wikilink")，於2014年10月3日播放，全24話。作品改編自特攝劇集《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》，動畫延續《牙狼》系列的世界觀，但故事是完全原創的。
+《**牙狼〈GARO〉-炎之刻印-**》是由[MAPPA](../Page/MAPPA.md "wikilink")製作的電視動畫，於2014年10月3日播放，全24話。作品改編自特攝劇集《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》，動畫延續《牙狼》系列的世界觀，但故事是完全原創的。
 
 ## 本劇特色
 
@@ -86,18 +86,15 @@
 
 ## 用語
 
-**魔戒騎士**
-太古より人知れず”ホラー”と戦い、人間たちを守ってきた騎士たちの総称。魔戒騎士は一子相伝であり男にしかなることができない。その昔、”魔戒法師”がホラーから人間を守っていたが、強い力をもつようになったホラーを殲滅する存在として魔戒騎士が誕生した。
+**魔戒騎士** 太古より人知れず”ホラー”と戦い、人間たちを守ってきた騎士たちの総称。魔戒騎士は一子相伝であり男にしかなることができない。その昔、”魔戒法師”がホラーから人間を守っていたが、強い力をもつようになったホラーを殲滅する存在として魔戒騎士が誕生した。
 
 **魔戒法師** 魔導力を駆使し、魔戒騎士をサポートする術師たちの総称。魔導具や魔戒騎士の武器となる魔戒剣などを生み出す。
 
 **黄金騎士ガロ** 黄金の鎧を召還してホラーと戦う、魔戒騎士の中でも最高位である唯一の存在。「ガロ」とは旧魔界語で「希望」という意味をもつ。
 
-**ホラー**
-この世の闇に潜む邪悪なる魔物。魔界から陰我の宿るオブジェをゲートとして出現、ホラーとして人間に取り憑き、人間を喰らうようになる。その姿や力は憑依した人間の邪心に応じて異なる。
+**ホラー** この世の闇に潜む邪悪なる魔物。魔界から陰我の宿るオブジェをゲートとして出現、ホラーとして人間に取り憑き、人間を喰らうようになる。その姿や力は憑依した人間の邪心に応じて異なる。
 
-**番犬所**
-魔戒騎士を束ねるユニオン的な存在。魔戒騎士にホラー討伐の指令を下したり、ホラーに関する情報を提供するなどの役割がある。普通の人間は行くことはできない。
+**番犬所** 魔戒騎士を束ねるユニオン的な存在。魔戒騎士にホラー討伐の指令を下したり、ホラーに関する情報を提供するなどの役割がある。普通の人間は行くことはできない。
 
 **瓦里安蒂国** アルフォンソの父、フェルナンド・サン・ヴァリアンテ国王が治める国。周辺にもいくつか国が存在する模様。
 
@@ -115,24 +112,20 @@
 
 :;「炎之刻印-DIVINE FLAME-（）」（第1話－第12話）
 
-::
-塡詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[きただにひろし](https://zh.wikipedia.org/wiki/きただにひろし "wikilink")，編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink")，主唱：[JAM
-Project](../Page/JAM_Project.md "wikilink")
+:: 塡詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[きただにひろし](https://zh.wikipedia.org/wiki/きただにひろし "wikilink")，編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink")，主唱：[JAM Project](../Page/JAM_Project.md "wikilink")
 
 :; 「B.B.」（第13話－第24話）
 
   -
 
       -
-        塡詞：[影山浩宣](../Page/影山浩宣.md "wikilink")，作曲：[福山芳樹](../Page/福山芳樹.md "wikilink")、影山浩宣，編曲：三宅博文、須藤賢一，主唱：JAM
-        Project
+        塡詞：[影山浩宣](../Page/影山浩宣.md "wikilink")，作曲：[福山芳樹](../Page/福山芳樹.md "wikilink")、影山浩宣，編曲：三宅博文、須藤賢一，主唱：JAM Project
 
   - 片尾曲
 
 :;「CHIASTOLITE」（第1話－第12話）
 
-::
-塡詞、主唱：[佐咲紗花](../Page/佐咲紗花.md "wikilink")，作曲：橘尭葉，編曲：橘尭葉、[妖精帝國](../Page/妖精帝國.md "wikilink")
+:: 塡詞、主唱：[佐咲紗花](../Page/佐咲紗花.md "wikilink")，作曲：橘尭葉，編曲：橘尭葉、[妖精帝國](../Page/妖精帝國.md "wikilink")
 
 :; 「FOCUS」（第13話－第24話）
 
@@ -462,10 +455,7 @@ Park Gi Deok</p></td>
 
   - [電視動畫牙狼〈GARO〉-炎之刻印- 公式官網](http://garo-project.jp/ANIME/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

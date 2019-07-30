@@ -1,15 +1,12 @@
-《**REAL ACCOUNT
-真實帳號**》（）是創作、[渡邊靜作畫的死亡遊戲類鬥智漫畫](../Page/渡邊靜.md "wikilink")。《[別冊少年Magazine](https://zh.wikipedia.org/wiki/別冊少年Magazine "wikilink")》2014年2月號至10月號連載第1部，《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2015年4・5合併號至2018年28月号連載第2部\[1\]\[2\]。台灣和香港分別於2015年20+21期的《[新少年快報](../Page/新少年快報.md "wikilink")》及《[新少年](../Page/新少年週刊.md "wikilink")》由第2部「向井雄馬」篇開始連載。
+《**REAL ACCOUNT 真實帳號**》（）是創作、[渡邊靜](../Page/渡邊靜.md "wikilink")作畫的死亡遊戲類鬥智漫畫。《[別冊少年Magazine](https://zh.wikipedia.org/wiki/別冊少年Magazine "wikilink")》2014年2月號至10月號連載第1部，《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2015年4・5合併號至2018年28月号連載第2部\[1\]\[2\]。台灣和香港分別於2015年20+21期的《[新少年快報](../Page/新少年快報.md "wikilink")》及《[新少年](../Page/新少年週刊.md "wikilink")》由第2部「向井雄馬」篇開始連載。
 
 ## 故事概要
 
   - 第1部
-    某一天，現實朋友很少的高二學生**柏木當**等一萬人都被吸入到了「**Real
-    Account**」所建立的虛擬社交世界。他們將要面對的是一場殘酷的死亡遊戲。遊戲規則很簡單也很殘酷，在這個世界死去的話，在現實中也會死亡。在這個世界里，柏木當等人不止得應對**馬不魯**舉辦的一系列無厘頭的遊戲，還得時時關注自己究竟有多少粉絲。若是粉絲數變為0就會立即死亡。若是自己死了，自己的粉絲也會跟著死去。因此，遊戲一開始，為了自保，許多人都開始取消關注。柏木當為了不讓唯一的親人**柏木百合**被捲入，竟然準備強行解除與百合的擁護關係……\[3\]
+    某一天，現實朋友很少的高二學生**柏木當**等一萬人都被吸入到了「**Real Account**」所建立的虛擬社交世界。他們將要面對的是一場殘酷的死亡遊戲。遊戲規則很簡單也很殘酷，在這個世界死去的話，在現實中也會死亡。在這個世界里，柏木當等人不止得應對**馬不魯**舉辦的一系列無厘頭的遊戲，還得時時關注自己究竟有多少粉絲。若是粉絲數變為0就會立即死亡。若是自己死了，自己的粉絲也會跟著死去。因此，遊戲一開始，為了自保，許多人都開始取消關注。柏木當為了不讓唯一的親人**柏木百合**被捲入，竟然準備強行解除與百合的擁護關係……\[3\]
 
   - 第2部
-    向身邊的好朋友們隱瞞自己也擁有REAL
-    ACCOUNT帳號的**向井雄馬**在與女朋友**柚原奈奈子**約會的當兒被捲入了一場殘酷的死亡遊戲！！遊戲規則：通關所有的遊戲后才能回到現實世界，且粉絲不能為零，沒有粉絲就會立即死亡！！就在雄馬慶幸自己還有個奈奈子不會解除關注的時候，奈奈子竟打來電話說要解除關注……
+    向身邊的好朋友們隱瞞自己也擁有REAL ACCOUNT帳號的**向井雄馬**在與女朋友**柚原奈奈子**約會的當兒被捲入了一場殘酷的死亡遊戲！！遊戲規則：通關所有的遊戲后才能回到現實世界，且粉絲不能為零，沒有粉絲就會立即死亡！！就在雄馬慶幸自己還有個奈奈子不會解除關注的時候，奈奈子竟打來電話說要解除關注……
 
   - 第3部
 
@@ -244,11 +241,7 @@
 
   - [マガメガ公式サイト](http://www.shonenmagazine.com/smaga/realaccount)
 
-[Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫畫改編電影 "wikilink")
+[Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫畫改編電影 "wikilink")
 
 1.
 2.

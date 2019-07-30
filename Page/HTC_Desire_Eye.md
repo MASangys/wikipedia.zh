@@ -1,5 +1,4 @@
-**HTC Desire
-EYE**是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2014年所开发的[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，為「Desire」系列中最高階的手機。
+**HTC Desire EYE**是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2014年所开发的[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，為「Desire」系列中最高階的手機。
 
 ## 簡介
 
@@ -24,7 +23,7 @@ EYE**是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[�
 
 <!-- end list -->
 
-  - [AT\&T獨家販售](../Page/AT&T.md "wikilink")
+  - [AT\&T](../Page/AT&T.md "wikilink")獨家販售
 
 <!-- end list -->
 
@@ -32,8 +31,7 @@ EYE**是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[�
 
 <!-- end list -->
 
-  - 以SIM
-    FREE方式在2015年10月1日發表，同月17日於日本HTC官方商店及[亞馬遜日本等各大賣場推出](https://zh.wikipedia.org/wiki/亞馬遜日本 "wikilink")，且將與MVNO電信商合作。\[2\]
+  - 以SIM FREE方式在2015年10月1日發表，同月17日於日本HTC官方商店及[亞馬遜日本等各大賣場推出](https://zh.wikipedia.org/wiki/亞馬遜日本 "wikilink")，且將與MVNO電信商合作。\[2\]
 
 <!-- end list -->
 
@@ -188,12 +186,9 @@ HTC Connect™</p></td>
 
 ## 外部連結
 
-  - [HTC Desire EYE -
-    HTC台灣](http://www.htc.com/tw/smartphones/htc-desire-eye/)
+  - [HTC Desire EYE - HTC台灣](http://www.htc.com/tw/smartphones/htc-desire-eye/)
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
 1.
 2.

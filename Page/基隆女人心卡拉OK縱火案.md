@@ -1,4 +1,4 @@
-**基隆女人心卡拉OK縱火案**是於2004年6月16日晚間發生的一起縱火殺人案件，是[臺灣](../Page/臺灣.md "wikilink")[基隆市的重大刑案](../Page/基隆市.md "wikilink")。林旺仁於女人心卡拉OK投擲[汽油彈縱火](../Page/燃烧瓶.md "wikilink")，火勢延燒3樓另一家「波麗路PUB」，造成5人死亡8人受傷。\[1\]\[2\]\[3\]
+**基隆女人心卡拉OK縱火案**是於2004年6月16日晚間發生的一起縱火殺人案件，是[臺灣](../Page/臺灣.md "wikilink")[基隆市](../Page/基隆市.md "wikilink")的重大刑案。林旺仁於女人心卡拉OK投擲[汽油彈縱火](../Page/燃烧瓶.md "wikilink")，火勢延燒3樓另一家「波麗路PUB」，造成5人死亡8人受傷。\[1\]\[2\]\[3\]
 
 ## 案發過程
 
@@ -14,8 +14,7 @@
 
 ## 判刑
 
-2011年11月24日[最高法院判處](https://zh.wikipedia.org/wiki/最高法院_\(中華民國\) "wikilink")[死刑](../Page/死刑.md "wikilink")、[褫奪公權終身定讞](../Page/褫奪公權.md "wikilink")。\[9\]
-林旺仁現羈押在[台北看守所等待槍決](https://zh.wikipedia.org/wiki/台北看守所 "wikilink")。
+2011年11月24日[最高法院判處](https://zh.wikipedia.org/wiki/最高法院_\(中華民國\) "wikilink")[死刑](../Page/死刑.md "wikilink")、[褫奪公權](../Page/褫奪公權.md "wikilink")終身定讞。\[9\] 林旺仁現羈押在[台北看守所等待槍決](https://zh.wikipedia.org/wiki/台北看守所 "wikilink")。
 
 ## 關連條目
 
@@ -29,23 +28,16 @@
 
 ## 參考文獻
 
-[Category:臺灣縱火致死案](https://zh.wikipedia.org/wiki/Category:臺灣縱火致死案 "wikilink")
-[Category:台灣謀殺案](https://zh.wikipedia.org/wiki/Category:台灣謀殺案 "wikilink")
-[Category:台灣死刑案件](https://zh.wikipedia.org/wiki/Category:台灣死刑案件 "wikilink")
-[Category:2004年台灣罪案](https://zh.wikipedia.org/wiki/Category:2004年台灣罪案 "wikilink")
-[Category:基隆市歷史](https://zh.wikipedia.org/wiki/Category:基隆市歷史 "wikilink")
-[Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink")
+[Category:臺灣縱火致死案](https://zh.wikipedia.org/wiki/Category:臺灣縱火致死案 "wikilink") [Category:台灣謀殺案](https://zh.wikipedia.org/wiki/Category:台灣謀殺案 "wikilink") [Category:台灣死刑案件](https://zh.wikipedia.org/wiki/Category:台灣死刑案件 "wikilink") [Category:2004年台灣罪案](https://zh.wikipedia.org/wiki/Category:2004年台灣罪案 "wikilink") [Category:基隆市歷史](https://zh.wikipedia.org/wiki/Category:基隆市歷史 "wikilink") [Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink")
 
 1.
 2.
 
-3.  [【破案一線間】 縱火害五死！急診室查訪1分鐘　揪嫌](http://news.tvbs.com.tw/entry/206987)
-    (TVBS)，2013年4月21日
+3.  [【破案一線間】 縱火害五死！急診室查訪1分鐘　揪嫌](http://news.tvbs.com.tw/entry/206987) (TVBS)，2013年4月21日
 
 4.
 5.
 6.
 7.
 8.
-9.  <http://www.appledaily.com.tw/realtimenews/article/local/20111124/95619/applesearch/疑妻討客兄縱火奪5命>　醋夫判死刑定讞
-    蘋果日報
+9.  <http://www.appledaily.com.tw/realtimenews/article/local/20111124/95619/applesearch/疑妻討客兄縱火奪5命>　醋夫判死刑定讞 蘋果日報

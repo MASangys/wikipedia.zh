@@ -1,5 +1,4 @@
-**kokone**（）是INTERNET以[YAMAHA的](https://zh.wikipedia.org/wiki/YAMAHA "wikilink")[VOCALOID3語音合成引擎為基礎開發販售的虛擬女性歌手軟體](https://zh.wikipedia.org/wiki/VOCALOID3 "wikilink")，軟體形象角色是「心響」，由插畫師あっきー人設計。與旗下發行的[VOCALOID相比](../Page/VOCALOID.md "wikilink")，kokone的音域是最為廣闊的，可以表現出平滑透澈的低音與近似假音的高音。2014年2月14日發售，官方價格為10,800日元，另外官方已公布確定支援VOCALOID™3
-Editor。
+**kokone**（）是INTERNET以[YAMAHA的](https://zh.wikipedia.org/wiki/YAMAHA "wikilink")[VOCALOID3語音合成引擎為基礎開發販售的虛擬女性歌手軟體](https://zh.wikipedia.org/wiki/VOCALOID3 "wikilink")，軟體形象角色是「心響」，由插畫師あっきー人設計。與旗下發行的[VOCALOID](../Page/VOCALOID.md "wikilink")相比，kokone的音域是最為廣闊的，可以表現出平滑透澈的低音與近似假音的高音。2014年2月14日發售，官方價格為10,800日元，另外官方已公布確定支援VOCALOID™3 Editor。
 
 ## 軟體簡介
 
@@ -41,7 +40,4 @@ Editor。
 
   - [kokone（心響-ここね）](http://www.ssw.co.jp/products/vocal3/kokone/index.html)
 
-[Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink")
-[Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
-[Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink")
-[Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
+[Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")

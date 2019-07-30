@@ -1,7 +1,4 @@
-《**Who Are
-You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年4月27日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[金所泫](../Page/金所泫.md "wikilink")、[南柱赫及](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")[陸星材主演](../Page/陸星材.md "wikilink")
-\[1\]\[2\]，此劇講述雙胞胎姊妹錯置的命運，李恩菲（[金所泫](../Page/金所泫.md "wikilink")
-飾）因同學惡意霸凌選擇自殺而喪失記憶後，意外繼承雙胞胎姐姐的身份，進而展開尋找真相的校園故事。此劇是KBS《學校》系列第6部作品。
+《**Who Are You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年4月27日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[金所泫](../Page/金所泫.md "wikilink")、[南柱赫及](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")[陸星材](../Page/陸星材.md "wikilink")主演 \[1\]\[2\]，此劇講述雙胞胎姊妹錯置的命運，李恩菲（[金所泫](../Page/金所泫.md "wikilink") 飾）因同學惡意霸凌選擇自殺而喪失記憶後，意外繼承雙胞胎姐姐的身份，進而展開尋找真相的校園故事。此劇是KBS《學校》系列第6部作品。
 
 ## 演員陣容
 
@@ -606,20 +603,10 @@ You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/school2015/index.html)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
-[Category:江南區_(首爾)背景作品](https://zh.wikipedia.org/wiki/Category:江南區_\(首爾\)背景作品 "wikilink")
-[Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:江南區_(首爾)背景作品](https://zh.wikipedia.org/wiki/Category:江南區_\(首爾\)背景作品 "wikilink") [Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink")
 
-1.  [金素賢、南柱赫、BTOB陸星材確定出演《Who are
-    you》](http://www.koreastardaily.com/tc/news/59356)
-2.  [《學校2015》曝劇本排練照
-    金素賢南柱赫陸星材令人期待](http://www.koreastardaily.com/tc/news/59641)
+1.  [金素賢、南柱赫、BTOB陸星材確定出演《Who are you》](http://www.koreastardaily.com/tc/news/59356)
+2.  [《學校2015》曝劇本排練照 金素賢南柱赫陸星材令人期待](http://www.koreastardaily.com/tc/news/59641)
 3.  第16集改名為**高恩菲**。
 4.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 5.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

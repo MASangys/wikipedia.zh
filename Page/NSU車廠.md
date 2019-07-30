@@ -6,10 +6,6 @@
 
   - [NSU Prinz in German & English](http://www.nsuprinz.com)
 
-  - [Restored NSU Sport Prinz in
-    Israel](http://www.vignale-gamine.com/apps/forums/topics/show/2519562-keren-sahar-classic-car-museum-and-a-new-nsu-sport-prinz?next=)
+  - [Restored NSU Sport Prinz in Israel](http://www.vignale-gamine.com/apps/forums/topics/show/2519562-keren-sahar-classic-car-museum-and-a-new-nsu-sport-prinz?next=)
 
-[Category:德國機車公司](https://zh.wikipedia.org/wiki/Category:德國機車公司 "wikilink")
-[Category:奥迪汽车](https://zh.wikipedia.org/wiki/Category:奥迪汽车 "wikilink")
-[Category:大众汽车](https://zh.wikipedia.org/wiki/Category:大众汽车 "wikilink")
-[Category:1873年成立的公司](https://zh.wikipedia.org/wiki/Category:1873年成立的公司 "wikilink")
+[Category:德國機車公司](https://zh.wikipedia.org/wiki/Category:德國機車公司 "wikilink") [Category:奥迪汽车](https://zh.wikipedia.org/wiki/Category:奥迪汽车 "wikilink") [Category:大众汽车](https://zh.wikipedia.org/wiki/Category:大众汽车 "wikilink") [Category:1873年成立的公司](https://zh.wikipedia.org/wiki/Category:1873年成立的公司 "wikilink")

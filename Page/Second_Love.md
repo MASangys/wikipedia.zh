@@ -1,5 +1,4 @@
-《**Second
-Love**》（日語：セカンド・ラブ）為朝日電視台製作的日本連續劇，2015年2月6日起毎週五晚間11：15－12:15於「週五晚間連續劇」時段播出。由龜梨和也、深田恭子主演\[1\]\[2\]。緯來日本台2015年2月14日起每周六晚間10點播出，劇名改為《**愛上女老師**》。
+《**Second Love**》（日語：セカンド・ラブ）為朝日電視台製作的日本連續劇，2015年2月6日起毎週五晚間11：15－12:15於「週五晚間連續劇」時段播出。由龜梨和也、深田恭子主演\[1\]\[2\]。緯來日本台2015年2月14日起每周六晚間10點播出，劇名改為《**愛上女老師**》。
 
 ## 劇情概要
 
@@ -14,7 +13,7 @@ Love**》（日語：セカンド・ラブ）為朝日電視台製作的日本�
 <!-- end list -->
 
   -
-    曾於國際芭蕾舞大賽獲得優勝的[現代舞舞者](../Page/現代舞.md "wikilink")。之後歷經被所屬的德國舞團解約，及團員徵選不斷落選的雙重打擊，讓他對自己的舞者生涯感到徬徨絕望。
+    曾於國際芭蕾舞大賽獲得優勝的[現代舞](../Page/現代舞.md "wikilink")舞者。之後歷經被所屬的德國舞團解約，及團員徵選不斷落選的雙重打擊，讓他對自己的舞者生涯感到徬徨絕望。
 
 <!-- end list -->
 
@@ -123,8 +122,7 @@ Love**》（日語：セカンド・ラブ）為朝日電視台製作的日本�
 
   - 劇本：大石靜
   - 導演：[塚原亞由子](../Page/塚原亞由子.md "wikilink")、片山修
-  - 主題曲：KAT-TUN「KISS KISS KISS」（[J
-    Storm](../Page/J_Storm.md "wikilink")）\[5\]
+  - 主題曲：KAT-TUN「KISS KISS KISS」（[J Storm](../Page/J_Storm.md "wikilink")）\[5\]
   - 插曲：MISIA「白い季節」（白色季節）（Ariola Japan）\[6\]
   - 副導演：府川亮介
   - 音效設計：石井和之
@@ -221,8 +219,7 @@ Love**》（日語：セカンド・ラブ）為朝日電視台製作的日本�
 
 ## 外部連結
 
-  - [Second
-    Love－朝日電視台官方網站](https://web.archive.org/web/20150206033737/http://www.tv-asahi.co.jp/secondlove/)
+  - [Second Love－朝日電視台官方網站](https://web.archive.org/web/20150206033737/http://www.tv-asahi.co.jp/secondlove/)
   - [愛上女老師－緯來日本台官方網站](http://japan.videoland.com.tw/channel/SecondLove/index.html)
 
 ## 參考資料
@@ -231,13 +228,7 @@ Love**》（日語：セカンド・ラブ）為朝日電視台製作的日本�
 
 ## 節目的變遷
 
-[Category:朝日電視台週五晚間連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間連續劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:大石靜劇本電視劇](https://zh.wikipedia.org/wiki/Category:大石靜劇本電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
+[Category:朝日電視台週五晚間連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間連續劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:大石靜劇本電視劇](https://zh.wikipedia.org/wiki/Category:大石靜劇本電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
 
 1.
 2.
@@ -245,5 +236,4 @@ Love**》（日語：セカンド・ラブ）為朝日電視台製作的日本�
 4.
 5.
 6.
-7.  [セカンド・ラブ](http://www.sponichi.co.jp/entertainment/yomimono/drama/2015/01_03/secondlove/)
-    、スポニチアネックス、2015年2月xx日閲覧。
+7.  [セカンド・ラブ](http://www.sponichi.co.jp/entertainment/yomimono/drama/2015/01_03/secondlove/) 、スポニチアネックス、2015年2月xx日閲覧。

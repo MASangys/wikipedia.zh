@@ -10,25 +10,19 @@
 
 ### 任天堂
 
-FC遊戲機生產商[任天堂方面對於](../Page/任天堂.md "wikilink")《Super
-Maruo》的內容無法認同，不承認此為FC平台下作品之一，本作因此成為了未獲許可發行的遊戲。\[4\]
+FC遊戲機生產商[任天堂](../Page/任天堂.md "wikilink")方面對於《Super Maruo》的內容無法認同，不承認此為FC平台下作品之一，本作因此成為了未獲許可發行的遊戲。\[4\]
 
 ### 遊戲玩家
 
-因《Super Maruo》數量稀少加上內容的話題性，使得某一片《Super
-Maruo》遊戲卡帶在[日本雅虎上的拍賣](https://zh.wikipedia.org/wiki/日本雅虎 "wikilink")；曾創下以高達49萬9千日圓之價格標下事跡。\[5\]
+因《Super Maruo》數量稀少加上內容的話題性，使得某一片《Super Maruo》遊戲卡帶在[日本雅虎上的拍賣](https://zh.wikipedia.org/wiki/日本雅虎 "wikilink")；曾創下以高達49萬9千日圓之價格標下事跡。\[5\]
 
 ## 參考資料
 
 ## 外部連結
 
-  - [MobyGames上的《Super
-    Maruo》資-{}-料](http://www.mobygames.com/game/nes/super-maruo)
+  - [MobyGames上的《Super Maruo》資-{}-料](http://www.mobygames.com/game/nes/super-maruo)
 
-[Category:1986年電子遊戲](https://zh.wikipedia.org/wiki/Category:1986年電子遊戲 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:日本成人遊戲](https://zh.wikipedia.org/wiki/Category:日本成人遊戲 "wikilink")
+[Category:1986年電子遊戲](https://zh.wikipedia.org/wiki/Category:1986年電子遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:日本成人遊戲](https://zh.wikipedia.org/wiki/Category:日本成人遊戲 "wikilink")
 
 1.
 

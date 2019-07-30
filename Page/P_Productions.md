@@ -44,8 +44,7 @@
 
   - セクシーサイン 好き好き好き（1960年、）　※ 动画合成
 
-  - [释迦传](https://zh.wikipedia.org/wiki/释迦传 "wikilink") （1961年、大映 ） ※
-    动画合成
+  - [释迦传](https://zh.wikipedia.org/wiki/释迦传 "wikilink") （1961年、大映 ） ※ 动画合成
 
   - [金刚对哥斯拉](https://zh.wikipedia.org/wiki/金刚对哥斯拉 "wikilink")（1962年、[東宝](https://zh.wikipedia.org/wiki/東宝 "wikilink")）※
 
@@ -61,8 +60,7 @@
 
   - 怒濤一万浬（1966年、[三船制片公司](https://zh.wikipedia.org/wiki/三船制片公司 "wikilink")）　※
 
-  - [地狱盗尸者](https://zh.wikipedia.org/wiki/地狱盗尸者 "wikilink")（1968年、[松竹](../Page/松竹.md "wikilink")）　※
-    企画特撮担当
+  - [地狱盗尸者](https://zh.wikipedia.org/wiki/地狱盗尸者 "wikilink")（1968年、[松竹](../Page/松竹.md "wikilink")）　※ 企画特撮担当
 
   - （2011年）※ 企画・原作担当
 
@@ -106,7 +104,7 @@
 
   - [大阪万博](https://zh.wikipedia.org/wiki/1970年世界博览会 "wikilink")　
 
-  - 　サークロラマ劇場　[麒麟啤酒提供](../Page/麒麟啤酒.md "wikilink")
+  - 　サークロラマ劇場　[麒麟啤酒](../Page/麒麟啤酒.md "wikilink")提供
 
 **驾驶员作品**
 
@@ -127,6 +125,4 @@
   - 『スペクトルマンvsライオン丸―うしおそうじとピープロの時代』（太田出版）
   - 『ぼくらが大好きだった特撮ヒーローBESTマガジン』（講談社）
 
-[Category:P_Productions](https://zh.wikipedia.org/wiki/Category:P_Productions "wikilink")
-[Category:电视制作公司](https://zh.wikipedia.org/wiki/Category:电视制作公司 "wikilink")
-[Category:日本动画工作室](https://zh.wikipedia.org/wiki/Category:日本动画工作室 "wikilink")
+[Category:P_Productions](https://zh.wikipedia.org/wiki/Category:P_Productions "wikilink") [Category:电视制作公司](https://zh.wikipedia.org/wiki/Category:电视制作公司 "wikilink") [Category:日本动画工作室](https://zh.wikipedia.org/wiki/Category:日本动画工作室 "wikilink")

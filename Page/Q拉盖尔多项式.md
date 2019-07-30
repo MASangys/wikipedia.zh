@@ -1,5 +1,4 @@
-**q拉盖尔多项式**是一个以[基本超几何函数和](../Page/基本超几何函数.md "wikilink")[Q阶乘幂定义的正交多项式](../Page/Q阶乘幂.md "wikilink")
-[Q-Laguerre_polynomials.gif](https://zh.wikipedia.org/wiki/File:Q-Laguerre_polynomials.gif "fig:Q-Laguerre_polynomials.gif")
+**q拉盖尔多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")和[Q阶乘幂](../Page/Q阶乘幂.md "wikilink")定义的正交多项式 [Q-Laguerre_polynomials.gif](https://zh.wikipedia.org/wiki/File:Q-Laguerre_polynomials.gif "fig:Q-Laguerre_polynomials.gif")
 
 \[\displaystyle  L_n^{(\alpha)}(x;q) = \frac{(q^{\alpha+1};q)_n}{(q;q)_n} {}_1\phi_1(q^{-n};q^{\alpha+1};q,-q^{n+\alpha+1}x)\]
 
@@ -41,6 +40,4 @@ Q-拉盖尔多项式满足下列正交关系
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")
-[Category:Q超几何多项式](https://zh.wikipedia.org/wiki/Category:Q超几何多项式 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink") [Category:Q超几何多项式](https://zh.wikipedia.org/wiki/Category:Q超几何多项式 "wikilink")

@@ -1,6 +1,4 @@
-《**CSI：網路犯罪**》
-（，全名：）為一部於2015年3月4日在[CBS開播的](../Page/CBS_\(電視網\).md "wikilink")[2014年－2015年電視季度美國警匪影集](https://zh.wikipedia.org/wiki/2014年－2015年美國電視網節目表 "wikilink")。\[1\]\[2\]\[3\]
-本劇是繼《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》後，第三個自《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》衍生出的影集，同時也是《CSI犯罪現場》系列第四部作品。本劇為《CSI犯罪現場》系列15年來，首部以女性為主角的影集作品。
+《**CSI：網路犯罪**》 （，全名：）為一部於2015年3月4日在[CBS開播的](../Page/CBS_\(電視網\).md "wikilink")[2014年－2015年電視季度美國警匪影集](https://zh.wikipedia.org/wiki/2014年－2015年美國電視網節目表 "wikilink")。\[1\]\[2\]\[3\] 本劇是繼《[CSI犯罪現場：邁阿密](../Page/CSI犯罪現場：邁阿密.md "wikilink")》後，第三個自《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》衍生出的影集，同時也是《CSI犯罪現場》系列第四部作品。本劇為《CSI犯罪現場》系列15年來，首部以女性為主角的影集作品。
 
 2015年5月11日，CBS宣布續訂第二季。2016年5月12日，CBS宣布不會播映第三季\[4\]，因此全劇於2016年3月13日結束。
 
@@ -12,9 +10,7 @@
 
 ### 開發
 
-2014年2月18日，CBS宣布將製作《CSI犯罪現場》系列的新衍生作品，並定名為《CSI犯罪現場：網路犯罪》。\[6\]
-本劇試播集為《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》第14季中之第21集（集數：Kitty）。本劇的啟發來自網路犯罪心理學家梅莉·艾肯（Mary
-Aiken）。
+2014年2月18日，CBS宣布將製作《CSI犯罪現場》系列的新衍生作品，並定名為《CSI犯罪現場：網路犯罪》。\[6\] 本劇試播集為《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》第14季中之第21集（集數：Kitty）。本劇的啟發來自網路犯罪心理學家梅莉·艾肯（Mary Aiken）。
 
 CBS於2014年5月10日正式預訂本劇。\[7\]\[8\]
 
@@ -22,11 +18,7 @@ CBS於2014年5月10日正式預訂本劇。\[7\]\[8\]
 
 ## 播出
 
-本劇播放版權授予[Channel
-5](https://zh.wikipedia.org/wiki/英國第五台 "wikilink")（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）\[9\]
-[CTV](../Page/CTV電視網.md "wikilink")（[加拿大](../Page/加拿大.md "wikilink")）、[Rai
-2](../Page/Rai_2.md "wikilink")（[意大利](../Page/意大利.md "wikilink")）、[Network
-Ten](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")（[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")），以及於亞洲及拉丁美洲各國之[AXN](../Page/AXN.md "wikilink")。\[10\]
+本劇播放版權授予[Channel 5](https://zh.wikipedia.org/wiki/英國第五台 "wikilink")（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）\[9\] [CTV](../Page/CTV電視網.md "wikilink")（[加拿大](../Page/加拿大.md "wikilink")）、[Rai 2](../Page/Rai_2.md "wikilink")（[意大利](../Page/意大利.md "wikilink")）、[Network Ten](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")（[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")），以及於亞洲及拉丁美洲各國之[AXN](../Page/AXN.md "wikilink")。\[10\]
 
 2015年3月4日（世界CSI日），本劇正式於150個國家首播，是有史以來規模最大的電視影集全球網路串連聯播，此舉打破了金氏世界紀錄。\[11\]
 
@@ -177,8 +169,7 @@ FBI特別探員→FBI副處長</p></td>
 
 ## 評價
 
-《CSI犯罪現場：網路犯罪》第一季獲得褒貶不一的評價。在[爛番茄上從](../Page/爛番茄.md "wikilink")18位影評人中，僅獲39%新鮮度，得分4.5/10。\[12\]
-於[Metacritic上](../Page/Metacritic.md "wikilink")，第一季從23位影評人中獲得45/100分。\[13\]
+《CSI犯罪現場：網路犯罪》第一季獲得褒貶不一的評價。在[爛番茄](../Page/爛番茄.md "wikilink")上從18位影評人中，僅獲39%新鮮度，得分4.5/10。\[12\] 於[Metacritic](../Page/Metacritic.md "wikilink")上，第一季從23位影評人中獲得45/100分。\[13\]
 
 ## 腳註
 
@@ -186,33 +177,18 @@ FBI特別探員→FBI副處長</p></td>
 
   -
   -
-  - [CSI犯罪現場：網路犯罪（CSI: Cyber）](../Page/CSI犯罪現場：網路犯罪.md "wikilink")
+  - [CSI犯罪現場：網路犯罪 Cyber）](../Page/CSI犯罪現場：網路犯罪.md "wikilink")（CSI:
 
   - [AXN](http://www.axn-taiwan.com/programs/csi-cyber-wang-lu-fan-zui)
 
-[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")
-[Category:2015年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年開播的美國電視影集 "wikilink")
-[Category:2016年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2016年停播的美國電視影集 "wikilink")
-[Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink")
-[Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink")
-[Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink")
-[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink")
-[Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
-[Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
+[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:2015年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年開播的美國電視影集 "wikilink") [Category:2016年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2016年停播的美國電視影集 "wikilink") [Category:美國犯罪電視劇](https://zh.wikipedia.org/wiki/Category:美國犯罪電視劇 "wikilink") [Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink") [Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink") [Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink") [Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:CBS電視工作室製作的電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視工作室製作的電視節目 "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink") [Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
 
 1.
 2.
 3.
 4.
 5.  [台灣AXN官方網站](http://www.axn-taiwan.com/programs/csi-cyber-wang-lu-fan-zui)
-6.  Andreeva, Nellie (March 5, 2014). ["Patricia Arquette To Topline
-    *CSI*{{'s}} Cyber Crime
-    Spinoff"](http://www.deadline.com/2014/03/patricia-arquette-star-csi-cyber-crime-spinoff/).
-    [Deadline.com](../Page/Deadline.com.md "wikilink"). Retrieved May
-    10, 2014.
+6.  Andreeva, Nellie (March 5, 2014). ["Patricia Arquette To Topline *CSI*{{'s}} Cyber Crime Spinoff"](http://www.deadline.com/2014/03/patricia-arquette-star-csi-cyber-crime-spinoff/). [Deadline.com](../Page/Deadline.com.md "wikilink"). Retrieved May 10, 2014.
 7.
 8.
 9.

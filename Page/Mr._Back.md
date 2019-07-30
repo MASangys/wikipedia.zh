@@ -1,13 +1,10 @@
-《**Mr.
-Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2014年11月5日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[帝王之女守百香](../Page/帝王之女守百香.md "wikilink")》、《[光與影](../Page/光與影.md "wikilink")》李尚燁導演執導與《[急診男女](../Page/急診男女.md "wikilink")》[崔胤貞作家執筆](https://zh.wikipedia.org/wiki/崔胤貞 "wikilink")，講述了一個70多歲的財富、地位、權勢等應有盡有的某集團會長因一次偶然的機會重返青春，決定嘗試以前從未體驗過的真正的愛情的故事。
-\[1\]\[2\]\[3\]
+《**Mr. Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2014年11月5日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[帝王之女守百香](../Page/帝王之女守百香.md "wikilink")》、《[光與影](../Page/光與影.md "wikilink")》李尚燁導演執導與《[急診男女](../Page/急診男女.md "wikilink")》[崔胤貞作家執筆](https://zh.wikipedia.org/wiki/崔胤貞 "wikilink")，講述了一個70多歲的財富、地位、權勢等應有盡有的某集團會長因一次偶然的機會重返青春，決定嘗試以前從未體驗過的真正的愛情的故事。 \[1\]\[2\]\[3\]
 
 ## 演員陣容
 
 ### 主要人物
 
-  - [申河均](../Page/申河均.md "wikilink") 飾演
-    崔高峰／崔信亨（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - [申河均](../Page/申河均.md "wikilink") 飾演 崔高峰／崔信亨（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -16,8 +13,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [張娜拉](../Page/張娜拉.md "wikilink") 飾演
-    殷荷秀（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+  - [張娜拉](../Page/張娜拉.md "wikilink") 飾演 殷荷秀（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
 
 <!-- end list -->
 
@@ -26,8 +22,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [李準](../Page/李準_\(歌手\).md "wikilink") 飾演
-    崔大韓（粵語配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
+  - [李準](../Page/李準_\(歌手\).md "wikilink") 飾演 崔大韓（粵語配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
 
 <!-- end list -->
 
@@ -36,8 +31,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [朴藝珍](../Page/朴藝珍.md "wikilink") 飾演
-    洪智允（粵語配音：[林芷筠](../Page/林芷筠.md "wikilink")）
+  - [朴藝珍](../Page/朴藝珍.md "wikilink") 飾演 洪智允（粵語配音：[林芷筠](../Page/林芷筠.md "wikilink")）
 
 <!-- end list -->
 
@@ -46,8 +40,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 ### 高峰周邊人物
 
-  - [鄭錫遠](https://zh.wikipedia.org/wiki/鄭錫遠 "wikilink") 飾演
-    鄭伊健（粵語配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
+  - [鄭錫遠](https://zh.wikipedia.org/wiki/鄭錫遠 "wikilink") 飾演 鄭伊健（粵語配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
 
 <!-- end list -->
 
@@ -56,8 +49,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [黃寶羅](../Page/黃寶羅.md "wikilink") 飾演
-    劉蘭熙（粵語配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+  - [黃寶羅](../Page/黃寶羅.md "wikilink") 飾演 劉蘭熙（粵語配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
@@ -66,8 +58,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [高允](../Page/高允_\(演員\).md "wikilink") 飾演
-    姜基燦（粵語配音：[關令翹](../Page/關令翹.md "wikilink")）
+  - [高允](../Page/高允_\(演員\).md "wikilink") 飾演 姜基燦（粵語配音：[關令翹](../Page/關令翹.md "wikilink")）
 
 <!-- end list -->
 
@@ -76,8 +67,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [趙美玲](../Page/趙美玲.md "wikilink") 飾演
-    崔美慧（粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+  - [趙美玲](../Page/趙美玲.md "wikilink") 飾演 崔美慧（粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
 
 <!-- end list -->
 
@@ -86,8 +76,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [全國煥](../Page/全國煥.md "wikilink") 飾演
-    崔英達（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
+  - [全國煥](../Page/全國煥.md "wikilink") 飾演 崔英達（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
 
 <!-- end list -->
 
@@ -96,8 +85,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [黃英熙](../Page/黃英熙.md "wikilink") 飾演
-    李仁慈（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+  - [黃英熙](../Page/黃英熙.md "wikilink") 飾演 李仁慈（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
 
 <!-- end list -->
 
@@ -106,8 +94,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [李文植](../Page/李文植.md "wikilink") 飾演
-    成慶培（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - [李文植](../Page/李文植.md "wikilink") 飾演 成慶培（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
 <!-- end list -->
 
@@ -125,8 +112,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [李美桃](https://zh.wikipedia.org/wiki/李美桃 "wikilink") 飾演
-    孫優盈（粵語配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
+  - [李美桃](https://zh.wikipedia.org/wiki/李美桃 "wikilink") 飾演 孫優盈（粵語配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
 
 <!-- end list -->
 
@@ -135,8 +121,7 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
 <!-- end list -->
 
-  - [李美英](../Page/李美英.md "wikilink") 飾演
-    高貞淑（粵語配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
+  - [李美英](../Page/李美英.md "wikilink") 飾演 高貞淑（粵語配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
 
 <!-- end list -->
 
@@ -293,21 +278,10 @@ Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC�
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/mr/index.html)
 
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:韓國小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國小說改編韓國電視劇 "wikilink")
-[Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink")
-[Category:隱瞞身分題材電視劇](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材電視劇 "wikilink")
+[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:韓國小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國小說改編韓國電視劇 "wikilink") [Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink") [Category:隱瞞身分題材電視劇](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材電視劇 "wikilink")
 
-1.  [張娜拉、申河均確定出演《Mr.Back》
-    首嘗「老少戀」](http://www.koreastardaily.com/tc/news/49149)
-2.  [张娜拉确定出演《Mr. Back》
-    与申河均演浪漫喜剧](http://www.bntnews.cn/app/news.php?nid=20804)
-3.  [MBLAQ 李準
-    即將出演MBC水木劇《Mr.Back》](http://www.koreastardaily.com/tc/news/49173)
+1.  [張娜拉、申河均確定出演《Mr.Back》 首嘗「老少戀」](http://www.koreastardaily.com/tc/news/49149)
+2.  [张娜拉确定出演《Mr. Back》 与申河均演浪漫喜剧](http://www.bntnews.cn/app/news.php?nid=20804)
+3.  [MBLAQ 李準 即將出演MBC水木劇《Mr.Back》](http://www.koreastardaily.com/tc/news/49173)
 4.  [TNmS 멀티미디어 홈페이지 참조](http://www.tnms.tv/rating/default.asp)
 5.  [AGB 닐슨 미디어리서치 홈페이지 참조](http://www.agbnielsen.co.kr/index.asp?ref=0)

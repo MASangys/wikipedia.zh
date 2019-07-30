@@ -1,6 +1,4 @@
-『**NEXTREME**』，是[日本](../Page/日本.md "wikilink")[电子摇滚乐团](https://zh.wikipedia.org/wiki/电子摇滚乐团 "wikilink")“[Fear,
-and Loathing in Las
-Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")”的首张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")。于2011年7月13日发行。
+『**NEXTREME**』，是[日本](../Page/日本.md "wikilink")[电子摇滚乐团](https://zh.wikipedia.org/wiki/电子摇滚乐团 "wikilink")“[Fear, and Loathing in Las Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")”的首张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")。于2011年7月13日发行。
 
 ## 收录曲
 
@@ -57,6 +55,4 @@ Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")”的首张[迷你
   - 12月3日　前橋　DYVER
   - 12月4日　熊谷　HEAVEN'S ROCK Kumagaya VJ-1
 
-[Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink")
-[Category:CD店大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎作品 "wikilink")
-[Category:VAP音樂專輯](https://zh.wikipedia.org/wiki/Category:VAP音樂專輯 "wikilink")
+[Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink") [Category:CD店大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎作品 "wikilink") [Category:VAP音樂專輯](https://zh.wikipedia.org/wiki/Category:VAP音樂專輯 "wikilink")

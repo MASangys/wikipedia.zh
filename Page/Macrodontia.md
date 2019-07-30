@@ -1,5 +1,4 @@
-***Macrodontia*** <small>Lepeletier & Audinet-Serville,
-1830</small>是[天牛科](../Page/天牛科.md "wikilink")[锯天牛亚科下的一属](https://zh.wikipedia.org/wiki/锯天牛亚科 "wikilink")，仅分布于[拉丁美洲](../Page/拉丁美洲.md "wikilink")。
+***Macrodontia*** <small>Lepeletier & Audinet-Serville, 1830</small>是[天牛科](../Page/天牛科.md "wikilink")[锯天牛亚科下的一属](https://zh.wikipedia.org/wiki/锯天牛亚科 "wikilink")，仅分布于[拉丁美洲](../Page/拉丁美洲.md "wikilink")。
 
 ## 描述
 
@@ -10,15 +9,13 @@
 
 ## 分布
 
-该属原产自[南美洲](../Page/南美洲.md "wikilink")，目前已知有11个种，从[危地马拉直到](../Page/危地马拉.md "wikilink")[阿根廷都有该属天牛分布](../Page/阿根廷.md "wikilink")。
-但该属内的几种天牛，无论在下文所列或是尚未被描述，向北也有可能分布至[墨西哥南部](../Page/墨西哥.md "wikilink")。
+该属原产自[南美洲](../Page/南美洲.md "wikilink")，目前已知有11个种，从[危地马拉](../Page/危地马拉.md "wikilink")直到[阿根廷](../Page/阿根廷.md "wikilink")都有该属天牛分布。 但该属内的几种天牛，无论在下文所列或是尚未被描述，向北也有可能分布至[墨西哥](../Page/墨西哥.md "wikilink")南部。
 
 *Macrodontia属* 包括以下几种：
 
   - Macrodontia batesi Lameere, 1912
   - Macrodontia castroi Marazzi, 2008
-  - [長牙大天牛](../Page/長牙大天牛.md "wikilink")（*Macrodontia cervicornis*）
-    (Linnaeus, 1758)
+  - [長牙大天牛](../Page/長牙大天牛.md "wikilink")（*Macrodontia cervicornis*） (Linnaeus, 1758)
   - Macrodontia crenata (Olivier, 1795)
   - Macrodontia dejeani Gory, 1839
   - Macrodontia flavipennis Chevrolat, 1833
@@ -30,15 +27,9 @@
 
 ## 参考
 
-  - Bleuzen (P.), 1994 - The Beetles of the World, volume 21. Prioninae
-    1: Macrodontini (Cerambycidae). [Sciences
-    Nat](https://zh.wikipedia.org/wiki/Sciences_Nat "wikilink"),
-    [Venette](https://zh.wikipedia.org/wiki/Venette "wikilink")
-    [1](https://web.archive.org/web/20100906095454/http://www.insects.demon.co.uk/cm/cm-21-english.html)
-  - Marazzi & Pavesi, 2008 - Genus Macrodontia (Cerambycidae), Natura
-    Ed.
-  - Simoëns (H), 2006 - Un nouveau Macrodontia originaire du Pérou
-    (Cerambycidae), Cahiers Magellanes, 62
+  - Bleuzen (P.), 1994 - The Beetles of the World, volume 21. Prioninae 1: Macrodontini (Cerambycidae). [Sciences Nat](https://zh.wikipedia.org/wiki/Sciences_Nat "wikilink"), [Venette](https://zh.wikipedia.org/wiki/Venette "wikilink") [1](https://web.archive.org/web/20100906095454/http://www.insects.demon.co.uk/cm/cm-21-english.html)
+  - Marazzi & Pavesi, 2008 - Genus Macrodontia (Cerambycidae), Natura Ed.
+  - Simoëns (H), 2006 - Un nouveau Macrodontia originaire du Pérou (Cerambycidae), Cahiers Magellanes, 62
 
 Ed.
 
@@ -46,10 +37,7 @@ Ed.
 
 ## 外链
 
-  - [List of Macrodontia
-    species](http://www.biolib.cz/en/taxon/id55573/)
-  - [Gallery of''
-    Macrodontia''-species](http://www.cerambycoidea.com/specieric.asp?Tipo=R&RIC=macrodontia)
+  - [List of Macrodontia species](http://www.biolib.cz/en/taxon/id55573/)
+  - [Gallery of'' Macrodontia''-species](http://www.cerambycoidea.com/specieric.asp?Tipo=R&RIC=macrodontia)
 
-[Category:鋸天牛亞科](https://zh.wikipedia.org/wiki/Category:鋸天牛亞科 "wikilink")
-[Category:昆蟲綱](https://zh.wikipedia.org/wiki/Category:昆蟲綱 "wikilink")
+[Category:鋸天牛亞科](https://zh.wikipedia.org/wiki/Category:鋸天牛亞科 "wikilink") [Category:昆蟲綱](https://zh.wikipedia.org/wiki/Category:昆蟲綱 "wikilink")

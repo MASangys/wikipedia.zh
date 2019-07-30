@@ -1,4 +1,4 @@
-**Linux核心開發者高峰會**（），[Linux核心開發者的年度聚會](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，這個聚會只有被Linux開發社群邀請的人才能以個人身份出席，一般來說，參與人數為80人左右。最早由[曹子德出面發起](../Page/曹子德.md "wikilink")，經由[Usenix號召](https://zh.wikipedia.org/wiki/Usenix "wikilink")，2001年3月在美國[聖荷西首次舉辦](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")，之後成為年度聚會。這個聚會成立的目的，是希望能夠建立一個讓開發者進行面對面討論的機會，以釐清Linux核心當前及未來面對的各種問題，形成共識。
+**Linux核心開發者高峰會**（），[Linux核心開發者的年度聚會](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，這個聚會只有被Linux開發社群邀請的人才能以個人身份出席，一般來說，參與人數為80人左右。最早由[曹子德](../Page/曹子德.md "wikilink")出面發起，經由[Usenix號召](https://zh.wikipedia.org/wiki/Usenix "wikilink")，2001年3月在美國[聖荷西首次舉辦](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")，之後成為年度聚會。這個聚會成立的目的，是希望能夠建立一個讓開發者進行面對面討論的機會，以釐清Linux核心當前及未來面對的各種問題，形成共識。
 
 ## 歷史
 
@@ -60,7 +60,7 @@
 <tr class="odd">
 <td><p>2007年9月4日至6日</p></td>
 <td></td>
-<td><p><a href="../Page/劍橋.md" title="wikilink">劍橋DeVere</a> University Arms Hotel</p></td>
+<td><p><a href="../Page/劍橋.md" title="wikilink">劍橋</a>DeVere University Arms Hotel</p></td>
 <td><p>[17]</p></td>
 <td><p>[18]</p></td>
 </tr>
@@ -74,7 +74,7 @@
 <tr class="odd">
 <td><p>2009年10月18日至20日</p></td>
 <td></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/秋葉原.md" title="wikilink">秋葉原Akihabara</a> Convention Hall</p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/秋葉原.md" title="wikilink">秋葉原</a>Akihabara Convention Hall</p></td>
 <td><p>[20]</p></td>
 <td><p>[21]</p></td>
 </tr>
@@ -88,7 +88,7 @@
 <tr class="odd">
 <td><p>2011年10月23日至25日</p></td>
 <td></td>
-<td><p><a href="../Page/布拉格.md" title="wikilink">布拉格Clarion</a> Congress Hotel</p></td>
+<td><p><a href="../Page/布拉格.md" title="wikilink">布拉格</a>Clarion Congress Hotel</p></td>
 <td><p>[24]</p></td>
 <td><p>N/A</p></td>
 </tr>
@@ -109,7 +109,7 @@
 <tr class="even">
 <td><p>2014年8月18日至20日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊利諾州" title="wikilink">伊利諾州</a><a href="../Page/芝加哥.md" title="wikilink">芝加哥Sheraton</a> Chicago</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊利諾州" title="wikilink">伊利諾州</a><a href="../Page/芝加哥.md" title="wikilink">芝加哥</a>Sheraton Chicago</p></td>
 <td><p>[28]</p></td>
 <td><p>[29]</p></td>
 </tr>

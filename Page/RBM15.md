@@ -1,6 +1,4 @@
-假定的的RNA结合蛋白15（**Putative RNA-binding protein
-15**）是一种由人类[基因](../Page/基因.md "wikilink") *RBM15*
-编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]\[2\]\[3\] 。
+假定的的RNA结合蛋白15（**Putative RNA-binding protein 15**）是一种由人类[基因](../Page/基因.md "wikilink") *RBM15* 编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]\[2\]\[3\] 。
 
 ## 参考文献
 

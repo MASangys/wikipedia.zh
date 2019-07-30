@@ -1,16 +1,14 @@
-是美國作家Bradley Bond與Philip Ninj@
-Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")，類型為「[賽博朋克](https://zh.wikipedia.org/wiki/賽博朋克 "wikilink")・[忍者格鬥小說](../Page/忍者.md "wikilink")」。2010年，小說內容被本兌有和杉ライカ兩人翻譯成日文在[推特上連載](https://zh.wikipedia.org/wiki/推特 "wikilink")。2012年，由[enterbrain出版日文小說單行本](https://zh.wikipedia.org/wiki/enterbrain "wikilink")。2015年，由[TRIGGER製作的改編](../Page/TRIGGER.md "wikilink")[網路動畫開始放送](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")。
+是美國作家Bradley Bond與Philip Ninj@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")，類型為「[賽博朋克](https://zh.wikipedia.org/wiki/賽博朋克 "wikilink")・[忍者](../Page/忍者.md "wikilink")格鬥小說」。2010年，小說內容被本兌有和杉ライカ兩人翻譯成日文在[推特上連載](https://zh.wikipedia.org/wiki/推特 "wikilink")。2012年，由[enterbrain出版日文小說單行本](https://zh.wikipedia.org/wiki/enterbrain "wikilink")。2015年，由[TRIGGER](../Page/TRIGGER.md "wikilink")製作的改編[網路動畫開始放送](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")。
 
 ## 概要
 
   - 1996年，美國作家Bradley Bond與Philip Ninj@ Morzez兩人共同創作出忍者殺手的原型小說。
-  - 2010年7月，本兌有和杉ライカ二人將小說內容翻譯成[日文并在](https://zh.wikipedia.org/wiki/日文 "wikilink")[Twitter上連載](../Page/Twitter.md "wikilink")。
-  - 2012年9月，[角川集團旗下的](../Page/角川集團.md "wikilink")[enterbrain開始出版單行本書籍](https://zh.wikipedia.org/wiki/enterbrain "wikilink")，類型為[輕小說](../Page/輕小說.md "wikilink")。
+  - 2010年7月，本兌有和杉ライカ二人將小說內容翻譯成[日文并在](https://zh.wikipedia.org/wiki/日文 "wikilink")[Twitter](../Page/Twitter.md "wikilink")上連載。
+  - 2012年9月，[角川集團](../Page/角川集團.md "wikilink")旗下的[enterbrain開始出版單行本書籍](https://zh.wikipedia.org/wiki/enterbrain "wikilink")，類型為[輕小說](../Page/輕小說.md "wikilink")。
   - 2013年7月，改編漫畫開始連載。
-  - 2014年4月，宣佈改編成[網路動畫並由](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")[TRIGGER公司製作](../Page/TRIGGER.md "wikilink")\[1\]。
+  - 2014年4月，宣佈改編成[網路動畫並由](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")[TRIGGER](../Page/TRIGGER.md "wikilink")公司製作\[1\]。
   - 2015年4月，動畫在[niconico動畫等網路平台上播出](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。
-  - 2016年4月，動畫在[TOKYO
-    MX等電視頻道上播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")。
+  - 2016年4月，動畫在[TOKYO MX等電視頻道上播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")。
 
 ## 故事簡介
 
@@ -24,7 +22,7 @@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   - 日文「キョート殺伐都市」／原標題「Kyoto-{:}- Hell on earth」
 
-總會屋終於瓦解，此時來自於[京都的忍者組織](../Page/京都.md "wikilink")「罪罰影業」突然襲擊並佔領了新埼玉，整座都市頓時陷入火海。現在藤木戶健二明白了過去導致妻兒喪命的那場忍者動亂，其爆發的元凶就是罪罰影業。為了剷除該組織，藤木戶潛入組織的根據地京都，途中結識了私家偵探「高木・甘多」。由於之前在與老元・寬的對決中消耗過度，寄宿在藤木戶體內的奈落・忍者暫時陷入了沉睡。面對強大的新敵人，缺少奈落之力的忍者殺手踏上更加艱難的復仇之旅。另一方面，傳說中的日本古代三神器，其秘密似乎也隱藏在京都之內。
+總會屋終於瓦解，此時來自於[京都](../Page/京都.md "wikilink")的忍者組織「罪罰影業」突然襲擊並佔領了新埼玉，整座都市頓時陷入火海。現在藤木戶健二明白了過去導致妻兒喪命的那場忍者動亂，其爆發的元凶就是罪罰影業。為了剷除該組織，藤木戶潛入組織的根據地京都，途中結識了私家偵探「高木・甘多」。由於之前在與老元・寬的對決中消耗過度，寄宿在藤木戶體內的奈落・忍者暫時陷入了沉睡。面對強大的新敵人，缺少奈落之力的忍者殺手踏上更加艱難的復仇之旅。另一方面，傳說中的日本古代三神器，其秘密似乎也隱藏在京都之內。
 
 ### 第三部 不滅的忍者靈魂
 
@@ -45,8 +43,7 @@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikili
 ### 忍者殺手一眾
 
   - ／
-    平凡的青年上班族 藤木戶健二
-    因捲入忍者的抗爭而痛失妻兒，**實際可憐**。瀕死的他被神秘的忍者靈魂「奈落˙忍者」附身而復活，成為了專殺忍者的忍者「忍者殺手」。
+    平凡的青年上班族 藤木戶健二 因捲入忍者的抗爭而痛失妻兒，**實際可憐**。瀕死的他被神秘的忍者靈魂「奈落˙忍者」附身而復活，成為了專殺忍者的忍者「忍者殺手」。
     平時以「森田一郎」的化名收集情報、身著普通風衣與狩獵帽，戰鬥時則會穿上赤黑色的夜行衣(ん？)、戴著紅色的面罩，面罩上用著不詳的字體刻上「忍」、「殺」二字，令人感到恐懼、**當然失禁**。
     沒有使用特定武器，基本上是以空手道進行肉搏或是投擲[手裏劍](https://zh.wikipedia.org/wiki/手裏劍 "wikilink")，有時也會使用由「道具公司」製作的裝備，諸如撒菱、勾繩...等等。
     經典台詞「忍者都該殺！」（ニンジャ、殺すべし！），有時會突然喊出「Wasshoi！」當作自我鼓舞。
@@ -55,7 +52,7 @@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikili
 <!-- end list -->
 
   -
-    寄宿於藤木戶健二體內的邪惡忍者靈魂。保有自我意識且生份、經歷一切成謎的神話級忍者，連[古事記也沒有紀錄](../Page/古事記.md "wikilink")。
+    寄宿於藤木戶健二體內的邪惡忍者靈魂。保有自我意識且生份、經歷一切成謎的神話級忍者，連[古事記](../Page/古事記.md "wikilink")也沒有紀錄。
     與「向殺死自己妻兒的邪惡忍者組織與邪惡忍者復仇」的藤木戶不同，奈落是以「殺光世間一切忍者」為樂，特別是上忍級忍者，有即使上忍級忍者也能瞬間殺死的自信。獵殺忍者時會無視無關的一般人的安全,將一般人倦入戰鬥中亦沒有一絲猶豫、連協助「忍者殺手」的一般人或忍者都會毫不猶豫殺死的沒血沒淚的邪惡忍者。不和為何擁有龐大的忍者知識和忍者靈魂感知能力，在「忍者殺手」與忍者戰鬥時會給予助言（弱點、忍術特性）**實際強大**。
     不知是怨念與否，其「赤黑」之焰能喚醒對手忍者靈魂的不安或者恐懼感。總是在尋找機會奪取「藤木戶健二」的身體，厭惡「藤木戶健二」使用自己的力量。戰鬥力非常強，暗黑空手道近乎無敵、其「赤黑」之焰甚至能直接將忍者燒到化灰（甚至忍者靈魂）但「赤黑」之焰不能像火焰噴射器般遠程放射，只能當作手腳的延伸。能利用自己的「赤黑」之焰堵塞傷口、自己的血當作「赤黑」之焰的助燃劑甚至用作憑空變出護具或者手理劍，奈落·忍者：忍者的血是以鐡與硫黃構成的！自大又頑固，討厭「藤木戶健二」打斷自己的說話。憎恨全世界、忍者與人類。喜歡以「**殺伐！**」取代「**イヤーッ！**」。
 
@@ -86,7 +83,7 @@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikili
 
   -
     掌控新埼玉的邪惡之王，忍者組織「總會屋」的首領、「斬草除根基金會」的[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")。忍者名號為「破壞・忍者」。
-    身材高大（可能約190公分）的精壯男性，白髮黑瞳，平時身穿[亞曼尼牌子的西裝](../Page/亞曼尼.md "wikilink")、配戴金色的面罩。
+    身材高大（可能約190公分）的精壯男性，白髮黑瞳，平時身穿[亞曼尼](../Page/亞曼尼.md "wikilink")牌子的西裝、配戴金色的面罩。
     接受人體改造而同時擁有七個忍者靈魂，因此能施展多種強力忍術。此外空手道與居合道的實力也十分高強。
     崇拜平安時代的劍豪詩人「宫本・雅治」，持有其生前使用過的兩把名刀「南蠻」、「過勞死」。具備豐富的知識與文學素養，可說是文武雙全。
     性格殘忍、傲慢，但又以強大的個人魅力吸引大批追隨者。以強者自居、以凌虐弱者為樂。對於政治權力與商業領域抱持強烈的野心，反而對戰鬥沒有多大興致。因為不想浪費時間處理戰鬥之類的瑣事而設立了忍者菁英部門「總會六門」。
@@ -130,11 +127,9 @@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikili
 
 ### 原作者
 
-根據官方書籍、網站以及相關採訪資料顯示，小說原作者為Bradley Bond與Philip Ninj@
-Morzez兩位美國人，不過時至今日他們仍未正式在公開場合現身過。兩人最早於1996年開始創作《忍者殺手》的原型小說，但部分設定與現在的版本不同。
+根據官方書籍、網站以及相關採訪資料顯示，小說原作者為Bradley Bond與Philip Ninj@ Morzez兩位美國人，不過時至今日他們仍未正式在公開場合現身過。兩人最早於1996年開始創作《忍者殺手》的原型小說，但部分設定與現在的版本不同。
 
-2010年12月，日本作家在其[部落格文章中寫到他與來到日本的Bradley](https://zh.wikipedia.org/wiki/部落格 "wikilink")
-Bond一同用餐的過程。\[2\]2014年，在忍者殺手首次宣布動畫化的影片中出現過原作者兩人的身影，但沒有完全露臉，只能看出是白人男性，實際相貌依然無法確定。\[3\]2015年5月，美國網站[Crunchyroll的一個](../Page/Crunchyroll.md "wikilink")[網路電台節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")「Crunchycast」採訪了兩位原作者，節目中兩人均使用變聲器進行談話。\[4\]\[5\]
+2010年12月，日本作家在其[部落格文章中寫到他與來到日本的Bradley](https://zh.wikipedia.org/wiki/部落格 "wikilink") Bond一同用餐的過程。\[2\]2014年，在忍者殺手首次宣布動畫化的影片中出現過原作者兩人的身影，但沒有完全露臉，只能看出是白人男性，實際相貌依然無法確定。\[3\]2015年5月，美國網站[Crunchyroll](../Page/Crunchyroll.md "wikilink")的一個[網路電台節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")「Crunchycast」採訪了兩位原作者，節目中兩人均使用變聲器進行談話。\[4\]\[5\]
 
   - Bradley Bond
 
@@ -149,17 +144,14 @@ Bond一同用餐的過程。\[2\]2014年，在忍者殺手首次宣布動畫化�
 
 <!-- end list -->
 
-  - 1969年出生，現居美國[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。1990年代在網路上結識了Bradley
-    Bond並開始共同創作，聲稱是為了警告世人提防忍者的威脅。
-  - 學生時代有過[計算機工程相關經驗](../Page/計算機工程.md "wikilink")，本作的[賽博朋克相關科幻內容主要由他負責考據與設計](https://zh.wikipedia.org/wiki/賽博朋克 "wikilink")。他以程序化規則來編寫本作登場人物的日本姓名，部分人名由程式計算而出。
+  - 1969年出生，現居美國[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。1990年代在網路上結識了Bradley Bond並開始共同創作，聲稱是為了警告世人提防忍者的威脅。
+  - 學生時代有過[計算機工程](../Page/計算機工程.md "wikilink")相關經驗，本作的[賽博朋克相關科幻內容主要由他負責考據與設計](https://zh.wikipedia.org/wiki/賽博朋克 "wikilink")。他以程序化規則來編寫本作登場人物的日本姓名，部分人名由程式計算而出。
 
 ### 日文翻譯
 
-2005年12月，一群志願翻譯者在日本社群網站[Mixi發布了原篇名為](../Page/Mixi.md "wikilink")「Ninja
-Slayer
-Classics」的日文翻譯文章。2010年，以本兌有、杉ライカ兩人為核心的翻譯團隊「ダイハードテイルズ」（Diehardtales）正式從原作方取得了忍者殺手的翻譯授權。同年7月，該團隊在[推特上開始公開連載原作的日文翻譯](https://zh.wikipedia.org/wiki/推特 "wikilink")，時至今日仍在連載中，而且完全免費（實際良心！）。由於推特上每次推文最多只能包含140字元，因此一條推文只會寫上一兩句翻譯，形成大量分散的條列式文句。
+2005年12月，一群志願翻譯者在日本社群網站[Mixi](../Page/Mixi.md "wikilink")發布了原篇名為「Ninja Slayer Classics」的日文翻譯文章。2010年，以本兌有、杉ライカ兩人為核心的翻譯團隊「ダイハードテイルズ」（Diehardtales）正式從原作方取得了忍者殺手的翻譯授權。同年7月，該團隊在[推特上開始公開連載原作的日文翻譯](https://zh.wikipedia.org/wiki/推特 "wikilink")，時至今日仍在連載中，而且完全免費（實際良心！）。由於推特上每次推文最多只能包含140字元，因此一條推文只會寫上一兩句翻譯，形成大量分散的條列式文句。
 
-2012年[角川集團旗下的](../Page/角川集團.md "wikilink")[enterbrain取得了小說的出版權](https://zh.wikipedia.org/wiki/enterbrain "wikilink")，單行本第一集於2012年9月發行，目前為止總共發行20冊。相對於推特上那些章節、文句都很零散的連載內容，單行本會針對翻譯進行修訂、統整以及加上插圖。在劇情進度方面，單行本正進入故事第三部的完結，推特上正在連載第四部的故事。
+2012年[角川集團](../Page/角川集團.md "wikilink")旗下的[enterbrain取得了小說的出版權](https://zh.wikipedia.org/wiki/enterbrain "wikilink")，單行本第一集於2012年9月發行，目前為止總共發行20冊。相對於推特上那些章節、文句都很零散的連載內容，單行本會針對翻譯進行修訂、統整以及加上插圖。在劇情進度方面，單行本正進入故事第三部的完結，推特上正在連載第四部的故事。
 
 ## 出版小說
 
@@ -557,11 +549,7 @@ Classics」的日文翻譯文章。2010年，以本兌有、杉ライカ兩人�
 
 ## 動畫
 
-2014年4月宣布改編為[網路動畫](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")，由[TRIGGER負責製作](../Page/TRIGGER.md "wikilink")，標題定為「NINJA
-SLAYER from
-ANIMATION」。2015年4月至10月，透過[niconico動畫等網路平台播送網路版動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。2016年4月至7月，TV版「忍者殺手SPECIAL
-EDITION」（簡稱SE版）透過[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進行播送](https://zh.wikipedia.org/wiki/BS11 "wikilink")，此外也同時在中國地區透過[Bilibili網站進行播送](../Page/Bilibili.md "wikilink")，但由於不明原因導致B站實際播放的影片內容仍然是網路先行版而非SE版。\[6\]
+2014年4月宣布改編為[網路動畫](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")，由[TRIGGER](../Page/TRIGGER.md "wikilink")負責製作，標題定為「NINJA SLAYER from ANIMATION」。2015年4月至10月，透過[niconico動畫等網路平台播送網路版動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。2016年4月至7月，TV版「忍者殺手SPECIAL EDITION」（簡稱SE版）透過[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進行播送](https://zh.wikipedia.org/wiki/BS11 "wikilink")，此外也同時在中國地區透過[Bilibili](../Page/Bilibili.md "wikilink")網站進行播送，但由於不明原因導致B站實際播放的影片內容仍然是網路先行版而非SE版。\[6\]
 
 ### 放送形式
 
@@ -569,15 +557,13 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進
 
   - 每一話約15分鐘，共26話。
   - 畫面比例刻意設定為4：3（在第26話中會突然轉變成16：9），影片的聲音皆為單聲道。在[BD版附贈的特典中收錄了改為](../Page/藍光光碟.md "wikilink")16：9畫面與立體聲道形式的相同動畫。
-  - 作畫風格因大量使用類似[Flash動畫的手法而成為一大特色](https://zh.wikipedia.org/wiki/Flash動畫 "wikilink")（在另一部同為[雨宮哲執導的作品](../Page/雨宮哲.md "wikilink")《》亦使用過該創作手法），此外也會穿插普通的手繪畫面。根據Trigger社的訪談透露，由於當時製作條件的限制導致他們不得不採用這種看似簡陋的作畫形式。\[7\]\[8\]
-  - 動畫中在背景出現的看板上有時會寫著參與製作委員會的企業名稱（例如：[Good Smile
-    Company](../Page/Good_Smile_Company.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")）。
+  - 作畫風格因大量使用類似[Flash動畫的手法而成為一大特色](https://zh.wikipedia.org/wiki/Flash動畫 "wikilink")（在另一部同為[雨宮哲](../Page/雨宮哲.md "wikilink")執導的作品《》亦使用過該創作手法），此外也會穿插普通的手繪畫面。根據Trigger社的訪談透露，由於當時製作條件的限制導致他們不得不採用這種看似簡陋的作畫形式。\[7\]\[8\]
+  - 動畫中在背景出現的看板上有時會寫著參與製作委員會的企業名稱（例如：[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")）。
   - 動畫的人物是以原作中由わらいなく繪製的插圖為基礎進行設計。
 
 **TV版（SE版）**
 
-  - TV版共13話，每話約24分鐘。TV版每一話是將網路版的2集內容合併而成（TV每話分為A part和B part兩半部，A
-    part來自於原網路版的奇數集數，B part來自於原網路版的偶數集數），每一話的ED皆為全新曲目。
+  - TV版共13話，每話約24分鐘。TV版每一話是將網路版的2集內容合併而成（TV每話分為A part和B part兩半部，A part來自於原網路版的奇數集數，B part來自於原網路版的偶數集數），每一話的ED皆為全新曲目。
   - 針對網路版的部分場景與台詞進行濃縮刪減。此外原本在網路版中出現的一些，也受到替換或消音處理，諸如：條子（マッポ）、Fuck（ファック）、越共（ベトコン）。
 
 ### 製作人員
@@ -707,8 +693,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進
 
 :;「Alone」（第19話）
 
-::歌 - [SCAM
-CIRCLE](https://zh.wikipedia.org/wiki/SCAM_CIRCLE "wikilink")
+::歌 - [SCAM CIRCLE](https://zh.wikipedia.org/wiki/SCAM_CIRCLE "wikilink")
 
 :;「泥の雨」（第20話）
 
@@ -746,8 +731,7 @@ CIRCLE](https://zh.wikipedia.org/wiki/SCAM_CIRCLE "wikilink")
 
 :;「Locomotion, more\! more\!」（第1話）
 
-::歌 - [the
-pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
+::歌 - [the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
 
 :;「サヨナラ！フラッシュバック！」 （第2話）
 
@@ -763,8 +747,7 @@ pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
 
 :;「Funky Monkey Ledies」（第5話）
 
-:: 歌 - [PIGGY
-BANGS](https://zh.wikipedia.org/wiki/PIGGY_BANGS "wikilink")
+:: 歌 - [PIGGY BANGS](https://zh.wikipedia.org/wiki/PIGGY_BANGS "wikilink")
 
 :; 「Nightseeing」（第6話）
 
@@ -786,8 +769,7 @@ BANGS](https://zh.wikipedia.org/wiki/PIGGY_BANGS "wikilink")
 
 :: 歌 -
 
-:; 「合法的トビ方ノススメ -SPARK\!\!SOUND\!\!SHOW\!\!ブチ上げ♂ Cherry boy
-REMIX\!\!\!\!」（第11話）
+:; 「合法的トビ方ノススメ -SPARK\!\!SOUND\!\!SHOW\!\!ブチ上げ♂ Cherry boy REMIX\!\!\!\!」（第11話）
 
 :: 歌 - Creepy Nuts (R-指定 & DJ松永)
 
@@ -1078,8 +1060,7 @@ Dark Dusk, Darker Dawn: Part 2</p></td>
 
 ## 遊戲
 
-  - 《AREA
-    4643》：2018年12月21日發售\[9\]／Windows平台（[Steam](../Page/Steam.md "wikilink")）
+  - 《AREA 4643》：2018年12月21日發售\[9\]／Windows平台（[Steam](../Page/Steam.md "wikilink")）
 
 [垂直捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊遊戲 "wikilink")，忍者殺手的世界觀，可操作原作中的黑道天狗等角色。
 
@@ -1092,43 +1073,21 @@ Dark Dusk, Darker Dawn: Part 2</p></td>
 ## 外部連結
 
   - 原作者&網路連載
-      - [NINJASLAYER (NJSLYR) on Twitter](https://twitter.com/NJSLYR) -
-        日文翻譯連載官方Twitter
+      - [NINJASLAYER (NJSLYR) on Twitter](https://twitter.com/NJSLYR) - 日文翻譯連載官方Twitter
       - [ダイハードテイルズ(Diehardtales)](http://diehardtales.com/) 日文翻譯團隊的官網
-      - [Neo-Saitama cyber IRC
-        universe](http://ninjaslayer.onlinewebshop.net/) 原作者網站（已停止更新）
-      - [the Ninja
-        Slayer](https://web.archive.org/web/20021204015543/http://www.nnc.or.jp/~snah/forge/ninja/)
-        早期小說原型的日文介紹網站（已停止更新）
+      - [Neo-Saitama cyber IRC universe](http://ninjaslayer.onlinewebshop.net/) 原作者網站（已停止更新）
+      - [the Ninja Slayer](https://web.archive.org/web/20021204015543/http://www.nnc.or.jp/~snah/forge/ninja/) 早期小說原型的日文介紹網站（已停止更新）
   - 出版小說
-      - [ニンジャスレイヤー 物理書籍公式サイト](http://ninjaslayer.jp/)
-        出版社[enterbrain的小說官方網站](https://zh.wikipedia.org/wiki/enterbrain "wikilink")。
+      - [ニンジャスレイヤー 物理書籍公式サイト](http://ninjaslayer.jp/) 出版社[enterbrain的小說官方網站](https://zh.wikipedia.org/wiki/enterbrain "wikilink")。
   - 動畫
       - [ニンジャスレイヤー フロムアニメイシヨン](http://ninjaslayer-animation.com/) 動畫官方網站
       - [@NJSLYR_anime](https://twitter.com/NJSLYR_anime) - 動畫官方Twitter
   - 漫畫
-      - [@njslyr_ukiyoe](https://twitter.com/njslyr_ukiyoe) -
-        角川版漫畫官方Twitter
+      - [@njslyr_ukiyoe](https://twitter.com/njslyr_ukiyoe) - 角川版漫畫官方Twitter
   - 遊戲
-      - [《AREA 4643》Steam商店頁](https://store.steampowered.com/app/948100/AREA_4643/)
-        忍者殺手世界觀的PC版遊戲
+      - [《AREA 4643》Steam商店頁](https://store.steampowered.com/app/948100/AREA_4643/) 忍者殺手世界觀的PC版遊戲
 
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink")
-[Category:2015年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2015年日本網絡動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:赛博朋克作品](https://zh.wikipedia.org/wiki/Category:赛博朋克作品 "wikilink")
-[Category:科幻作品](https://zh.wikipedia.org/wiki/Category:科幻作品 "wikilink")
-[Category:忍者動畫](https://zh.wikipedia.org/wiki/Category:忍者動畫 "wikilink")
-[Category:殺手主角題材動畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材動畫 "wikilink")
-[Category:忍者小說](https://zh.wikipedia.org/wiki/Category:忍者小說 "wikilink")
-[Category:忍者漫畫](https://zh.wikipedia.org/wiki/Category:忍者漫畫 "wikilink")
-[Category:ENTERBRAIN](https://zh.wikipedia.org/wiki/Category:ENTERBRAIN "wikilink")
-[Category:KADOKAWA](https://zh.wikipedia.org/wiki/Category:KADOKAWA "wikilink")
+[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink") [Category:2015年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2015年日本網絡動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:赛博朋克作品](https://zh.wikipedia.org/wiki/Category:赛博朋克作品 "wikilink") [Category:科幻作品](https://zh.wikipedia.org/wiki/Category:科幻作品 "wikilink") [Category:忍者動畫](https://zh.wikipedia.org/wiki/Category:忍者動畫 "wikilink") [Category:殺手主角題材動畫](https://zh.wikipedia.org/wiki/Category:殺手主角題材動畫 "wikilink") [Category:忍者小說](https://zh.wikipedia.org/wiki/Category:忍者小說 "wikilink") [Category:忍者漫畫](https://zh.wikipedia.org/wiki/Category:忍者漫畫 "wikilink") [Category:ENTERBRAIN](https://zh.wikipedia.org/wiki/Category:ENTERBRAIN "wikilink") [Category:KADOKAWA](https://zh.wikipedia.org/wiki/Category:KADOKAWA "wikilink")
 
 1.
 2.

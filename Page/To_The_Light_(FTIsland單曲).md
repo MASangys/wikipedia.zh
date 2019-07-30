@@ -1,6 +1,4 @@
-《**To The
-Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第十七張單曲](../Page/FTIsland.md "wikilink")（第十四張主流單曲），由[李在真與](https://zh.wikipedia.org/wiki/李在真 "wikilink")（）、[崔載烈](https://zh.wikipedia.org/wiki/崔載烈 "wikilink")（）（二人合稱「Heaven
-Light」）作曲、李在真與[李洪基作詞](../Page/李洪基.md "wikilink")，並在2014年10月15日以四個不同版本推出\[1\]。
+《**To The Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十七張單曲（第十四張主流單曲），由[李在真與](https://zh.wikipedia.org/wiki/李在真 "wikilink")（）、[崔載烈](https://zh.wikipedia.org/wiki/崔載烈 "wikilink")（）（二人合稱「Heaven Light」）作曲、李在真與[李洪基](../Page/李洪基.md "wikilink")作詞，並在2014年10月15日以四個不同版本推出\[1\]。
 
 ## 背景
 
@@ -10,14 +8,11 @@ Light」）作曲、李在真與[李洪基作詞](../Page/李洪基.md "wikilink
 
 此單曲共分為4個發行版本，包括三個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本和不同的隨附卡序列碼。
 
-  - 初回限定盤A：這版本包括了一片收錄了《Tornado》的純音樂版本的單曲CD、一片收錄《ARENA TOUR 2014 -The
-    Passion-》音樂會片段及《To The
-    Light》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")\[5\]。
+  - 初回限定盤A：這版本包括了一片收錄了《Tornado》的純音樂版本的單曲CD、一片收錄《ARENA TOUR 2014 -The Passion-》音樂會片段及《To The Light》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
 
 <!-- end list -->
 
-  - 初回限定盤B：這版本包括了一片收錄了《FISH》的純音樂版本的單曲CD、一片收錄《ARENA TOUR 2014 -The
-    Passion-》音樂會片段的DVD\[6\]。
+  - 初回限定盤B：這版本包括了一片收錄了《FISH》的純音樂版本的單曲CD、一片收錄《ARENA TOUR 2014 -The Passion-》音樂會片段的DVD\[6\]。
 
 <!-- end list -->
 
@@ -25,9 +20,7 @@ Light」）作曲、李在真與[李洪基作詞](../Page/李洪基.md "wikilink
 
 <!-- end list -->
 
-  - Primadonna限定盤：這版本包括了一片收錄了《To The
-    Light》的純音樂版本的單曲CD、一片收錄2014年官方樂迷見面會《LIVE
-    & DIGEST》前半部片段的DVD，並只限FTIsland官方歌迷會「Primadonna」日本會員購買\[8\]。
+  - Primadonna限定盤：這版本包括了一片收錄了《To The Light》的純音樂版本的單曲CD、一片收錄2014年官方樂迷見面會《LIVE & DIGEST》前半部片段的DVD，並只限FTIsland官方歌迷會「Primadonna」日本會員購買\[8\]。
 
 ## 曲目
 
@@ -35,7 +28,7 @@ Light」）作曲、李在真與[李洪基作詞](../Page/李洪基.md "wikilink
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量    | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------ | ---- |
 | 單曲日榜                                     | 6    | \-     | 23,364 | 星期   |
 | 單曲週榜                                     | 8    | 21,980 |        |      |
@@ -53,8 +46,7 @@ Light」）作曲、李在真與[李洪基作詞](../Page/李洪基.md "wikilink
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
 
 1.
 

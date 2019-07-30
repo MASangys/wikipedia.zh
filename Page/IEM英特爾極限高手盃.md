@@ -1,7 +1,6 @@
 [IEMCeBIT1.jpg](https://zh.wikipedia.org/wiki/File:IEMCeBIT1.jpg "fig:IEMCeBIT1.jpg")上的IEM總決賽\]\]
 
-**英特爾極限高手盃大賽**（，[縮寫](../Page/縮寫.md "wikilink")：**IEM**）。持有此大賽的母公司為。目前第9季的賽事包含《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》與《[星海爭霸II：蟲族之心](https://zh.wikipedia.org/wiki/星海爭霸II：蟲族之心 "wikilink")》。在[卡托維治舉行世界大賽](https://zh.wikipedia.org/wiki/卡托維治 "wikilink")。\[1\]2017年官方宣布取消《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》項目，並於7月新增Rift
-Rivals。\[2\] 此賽事台灣16:1勝利後遭禁止參賽\[3\]
+**英特爾極限高手盃大賽**（，[縮寫](../Page/縮寫.md "wikilink")：**IEM**）。持有此大賽的母公司為。目前第9季的賽事包含《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》與《[星海爭霸II：蟲族之心](https://zh.wikipedia.org/wiki/星海爭霸II：蟲族之心 "wikilink")》。在[卡托維治舉行世界大賽](https://zh.wikipedia.org/wiki/卡托維治 "wikilink")。\[1\]2017年官方宣布取消《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》項目，並於7月新增Rift Rivals。\[2\] 此賽事台灣16:1勝利後遭禁止參賽\[3\]
 
 ## 賽事
 
@@ -61,7 +60,7 @@ Rivals。\[2\] 此賽事台灣16:1勝利後遭禁止參賽\[3\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/科隆.md" title="wikilink">科隆站</a></p></td>
+<td><p><a href="../Page/科隆.md" title="wikilink">科隆</a>站</p></td>
 <td><p>2015/12/18-20</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/英雄聯盟" title="wikilink">英雄聯盟</a></p></td>
 <td><p>ESC Ever</p></td>
@@ -148,7 +147,7 @@ Rivals。\[2\] 此賽事台灣16:1勝利後遭禁止參賽\[3\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/京畿道.md" title="wikilink">京畿道站</a></p></td>
+<td><p><a href="../Page/京畿道.md" title="wikilink">京畿道</a>站</p></td>
 <td><p>2016/12/17-18</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/英雄聯盟" title="wikilink">英雄聯盟</a></p></td>
 <td><p>Samsung Galaxy</p></td>
@@ -217,10 +216,7 @@ Rivals。\[2\] 此賽事台灣16:1勝利後遭禁止參賽\[3\]
   -
 ## 參考資料
 
-[Category:電子競技賽事](https://zh.wikipedia.org/wiki/Category:電子競技賽事 "wikilink")
-[Category:英特爾](https://zh.wikipedia.org/wiki/Category:英特爾 "wikilink")
-[Category:英雄聯盟](https://zh.wikipedia.org/wiki/Category:英雄聯盟 "wikilink")
-[Category:絕對武力：全球攻勢](https://zh.wikipedia.org/wiki/Category:絕對武力：全球攻勢 "wikilink")
+[Category:電子競技賽事](https://zh.wikipedia.org/wiki/Category:電子競技賽事 "wikilink") [Category:英特爾](https://zh.wikipedia.org/wiki/Category:英特爾 "wikilink") [Category:英雄聯盟](https://zh.wikipedia.org/wiki/Category:英雄聯盟 "wikilink") [Category:絕對武力：全球攻勢](https://zh.wikipedia.org/wiki/Category:絕對武力：全球攻勢 "wikilink")
 
 1.
 2.

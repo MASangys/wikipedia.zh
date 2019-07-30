@@ -1,25 +1,18 @@
-**株式會社GALLOP**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1978年。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")。
+**株式會社GALLOP**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1978年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革
 
-1978年12月13日\[2\]，由舊[蟲製作公司旗下攝影團隊所屬的動畫攝影工作室](../Page/蟲製作公司.md "wikilink")「（今改名Anime
-Film）」出身的攝影指導[若菜章夫](../Page/若菜章夫.md "wikilink")\[3\]另自立門戶，成立動畫專業攝影工作室「**有限公司STUDIO
-GALLOP**（<small></small>）」。以承包[小丑工作室（Studio
-Pierrot的舊名）和](../Page/Studio_Pierrot.md "wikilink")等作品的攝影工作起家。
+1978年12月13日\[2\]，由舊[蟲製作公司](../Page/蟲製作公司.md "wikilink")旗下攝影團隊所屬的動畫攝影工作室「（今改名Anime Film）」出身的攝影指導[若菜章夫](../Page/若菜章夫.md "wikilink")\[3\]另自立門戶，成立動畫專業攝影工作室「**有限公司STUDIO GALLOP**（<small></small>）」。以承包[小丑工作室（Studio Pierrot的舊名）和](../Page/Studio_Pierrot.md "wikilink")等作品的攝影工作起家。
 
-1983年，來自負責動畫演出一職的[早川啓二](https://zh.wikipedia.org/wiki/早川啓二 "wikilink")、作畫畫師及山内昇壽郎等人加入GALLOP之後，承接Studio
-Pierrot製作的電視動畫《》\[4\]部分作業的代工製作。從1986年的OVA動畫《》開始，GALLOP首度投入獨立製作\[5\]。
+1983年，來自負責動畫演出一職的[早川啓二](https://zh.wikipedia.org/wiki/早川啓二 "wikilink")、作畫畫師及山内昇壽郎等人加入GALLOP之後，承接Studio Pierrot製作的電視動畫《》\[4\]部分作業的代工製作。從1986年的OVA動畫《》開始，GALLOP首度投入獨立製作\[5\]。
 
-1988年開播至1996年完結的《[-{zh-cn:奇天烈大百科;zh-tw:奇天烈大百科;zh-hk:奇天烈百科全書;}-](../Page/奇天烈大百科.md "wikilink")》是GALLOP全面獨立製作的首部電視動畫\[6\]。也是[藤子·F·不二雄原作漫畫改編電視動畫作品中](../Page/藤子·F·不二雄.md "wikilink")，播出時間長達8年的長壽動畫之一，僅次於[SHIN-EI動畫製作的](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(動畫\).md "wikilink")》。
+1988年開播至1996年完結的《[-{zh-cn:奇天烈大百科;zh-tw:奇天烈大百科;zh-hk:奇天烈百科全書;}-](../Page/奇天烈大百科.md "wikilink")》是GALLOP全面獨立製作的首部電視動畫\[6\]。也是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")原作漫畫改編電視動畫作品中，播出時間長達8年的長壽動畫之一，僅次於[SHIN-EI動畫製作的](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(動畫\).md "wikilink")》。
 
-1990年代開始，GALLOP專注於製作[集英社](../Page/集英社.md "wikilink")\[7\]旗下少女漫畫雜誌《[Ribon](../Page/Ribon.md "wikilink")》連載作品的改編動畫，由於多次都在[東京電視台的每個星期五下午](../Page/東京電視台.md "wikilink")6點播放（從1992年的《[-{zh-cn:缎带魔法少女;zh-tw:緞帶魔法姬;zh-hk:百變小姬子;}-](../Page/百變小姬子.md "wikilink")》至1998年的《[-{zh-cn:玩偶游戏;zh-tw:玩偶遊戲;zh-hk:小孩子的玩具;}-](https://zh.wikipedia.org/wiki/孩子們的遊戲 "wikilink")》，包括《[-{zh-cn:小红帽恰恰;zh-tw:小紅帽恰恰;zh-hk:紅頭巾CHA
-CHA;}-](https://zh.wikipedia.org/wiki/小紅帽恰恰 "wikilink")》和《[守護天使莉莉佳](../Page/守護天使莉莉佳.md "wikilink")》等），因此受到觀眾們的矚目和熱烈支持而廣為人知。
+1990年代開始，GALLOP專注於製作[集英社](../Page/集英社.md "wikilink")\[7\]旗下少女漫畫雜誌《[Ribon](../Page/Ribon.md "wikilink")》連載作品的改編動畫，由於多次都在[東京電視台](../Page/東京電視台.md "wikilink")的每個星期五下午6點播放（從1992年的《[-{zh-cn:缎带魔法少女;zh-tw:緞帶魔法姬;zh-hk:百變小姬子;}-](../Page/百變小姬子.md "wikilink")》至1998年的《[-{zh-cn:玩偶游戏;zh-tw:玩偶遊戲;zh-hk:小孩子的玩具;}-](https://zh.wikipedia.org/wiki/孩子們的遊戲 "wikilink")》，包括《[-{zh-cn:小红帽恰恰;zh-tw:小紅帽恰恰;zh-hk:紅頭巾CHA CHA;}-](https://zh.wikipedia.org/wiki/小紅帽恰恰 "wikilink")》和《[守護天使莉莉佳](../Page/守護天使莉莉佳.md "wikilink")》等），因此受到觀眾們的矚目和熱烈支持而廣為人知。
 
-1994年，GALLOP開始擴展海外業務，跟[韓國的動畫工作室](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")「[同友動畫](https://zh.wikipedia.org/wiki/東宇動畫製片株式會社 "wikilink")（Dong
-Woo Animation）」建立合作夥伴關係，以在確保海外航線托運下發包分工及交給韓國廠商代工製作。並能將共同製作的作品在韓國播出。
+1994年，GALLOP開始擴展海外業務，跟[韓國的動畫工作室](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")「[同友動畫](https://zh.wikipedia.org/wiki/東宇動畫製片株式會社 "wikilink")（Dong Woo Animation）」建立合作夥伴關係，以在確保海外航線托運下發包分工及交給韓國廠商代工製作。並能將共同製作的作品在韓國播出。
 
-2001年2月27日，GALLOP的公司商號名稱從有限公司STUDIO
-GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成立新的GALLOP，而新的GALLOP公司正式名稱為「**株式會社GALLOP**（<small></small>）」，並將總部搬遷至現址\[9\]。
+2001年2月27日，GALLOP的公司商號名稱從有限公司STUDIO GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成立新的GALLOP，而新的GALLOP公司正式名稱為「**株式會社GALLOP**（<small></small>）」，並將總部搬遷至現址\[9\]。
 
 2012年，由曾經擔任《-{zh-cn:奇天烈大百科;zh-tw:奇天烈大百科;zh-hk:奇天烈百科全書;}-》和《[烏龍派出所](../Page/烏龍派出所.md "wikilink")》的攝影指導就任董事，但是到了隔年又換該公司的創立人若菜再度就任。
 
@@ -431,7 +424,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 <td></td>
 <td></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/OB企劃.md" title="wikilink">OB企劃共同製作</a>。</p></td>
+<td><p>與<a href="../Page/OB企劃.md" title="wikilink">OB企劃</a>共同製作。</p></td>
 </tr>
 <tr class="even">
 <td><p>1987年</p></td>
@@ -860,8 +853,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
 
 ## 相關項目
 
-  - [同友動畫](https://zh.wikipedia.org/wiki/東宇動畫製片株式會社 "wikilink") (Dong
-    Woo Animation)－MIGHTY MAX MOVIE
+  - [同友動畫](https://zh.wikipedia.org/wiki/東宇動畫製片株式會社 "wikilink") (Dong Woo Animation)－MIGHTY MAX MOVIE
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 腳註
@@ -875,10 +867,7 @@ GALLOP更名為「**有限公司S.G**（<small></small>）」\[8\]，同時成�
   - [株式會社GALLOP公式官網](http://www.anime-gallop.co.jp/)
 
   -
-[Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink")
-[Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")
+[Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink") [Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")
 
 1.
 2.

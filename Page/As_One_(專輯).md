@@ -1,5 +1,4 @@
-《**AsOnE**》是[As
-One的首張](../Page/As_One.md "wikilink")[音樂專輯及全主打EP](../Page/音樂專輯.md "wikilink")，於2014年6月推出。
+《**AsOnE**》是[As One的首張](../Page/As_One.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")及全主打EP，於2014年6月推出。
 
 ## 曲目
 
@@ -14,6 +13,4 @@ One的首張](../Page/As_One.md "wikilink")[音樂專輯及全主打EP](../Page/
 
 ## 獎項
 
-[Category:As_One音樂專輯](https://zh.wikipedia.org/wiki/Category:As_One音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:As_One音樂專輯](https://zh.wikipedia.org/wiki/Category:As_One音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

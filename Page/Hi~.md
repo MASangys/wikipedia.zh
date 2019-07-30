@@ -1,16 +1,8 @@
-《**Hi\~**》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的首張韓語正規再包裝專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2015年3月4日發行，由[SM
-C\&C和](../Page/SM娛樂.md "wikilink")[LOEN
-Entertainment發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打曲為《Hi\~》。
+《**Hi\~**》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的首張韓語正規再包裝專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2015年3月4日發行，由[SM C\&C和](../Page/SM娛樂.md "wikilink")[LOEN Entertainment發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打曲為《Hi\~》。
 
 ## 概要
 
-2015年2月11日，釋出一輯後續回歸概念照。2月16-23日，分別依次序釋出成員[劉智嬡](https://zh.wikipedia.org/wiki/劉智嬡 "wikilink")、[鄭藝仁](https://zh.wikipedia.org/wiki/鄭藝仁 "wikilink")、BabySoul、柳秀靜、[Kei](../Page/Kei.md "wikilink")、[Jin](https://zh.wikipedia.org/wiki/JIN "wikilink")、李美珠及團體七人的回歸概念照，並預告於3月3日回歸歌壇。2月17日，Naver
-StarCast釋出《Lovelyz Diary Season 2》預告，逢周二及五播出一集。3月3日，公開專輯音源及主打歌《안녕
-(Hi\~)》MV。3月5日，於《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》開始於各大音樂節目進行回歸舞台。4月16日，宣布結束正規一輯改版專輯主打歌《안녕
-(Hi\~)》的宣傳·活動，並宣傳將於4月17日於《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》起以收錄曲《놀이공원
-(Joyland)》作後續宣傳活動。4月17日，於《Music Bank》開始於各大音樂節目進行後續宣傳活動。
+2015年2月11日，釋出一輯後續回歸概念照。2月16-23日，分別依次序釋出成員[劉智嬡](https://zh.wikipedia.org/wiki/劉智嬡 "wikilink")、[鄭藝仁](https://zh.wikipedia.org/wiki/鄭藝仁 "wikilink")、BabySoul、柳秀靜、[Kei](../Page/Kei.md "wikilink")、[Jin](https://zh.wikipedia.org/wiki/JIN "wikilink")、李美珠及團體七人的回歸概念照，並預告於3月3日回歸歌壇。2月17日，Naver StarCast釋出《Lovelyz Diary Season 2》預告，逢周二及五播出一集。3月3日，公開專輯音源及主打歌《안녕 (Hi\~)》MV。3月5日，於《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》開始於各大音樂節目進行回歸舞台。4月16日，宣布結束正規一輯改版專輯主打歌《안녕 (Hi\~)》的宣傳·活動，並宣傳將於4月17日於《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》起以收錄曲《놀이공원 (Joyland)》作後續宣傳活動。4月17日，於《Music Bank》開始於各大音樂節目進行後續宣傳活動。
 
 ## 曲目
 
@@ -75,6 +67,4 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》起以收錄曲《�
 | 全球   | 2015年3月4日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [SM C\&C](https://zh.wikipedia.org/wiki/SM_C&C "wikilink")、[LOEN Entertainment](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink") |
 |      |           |                                                                     |                                                                                                                                              |
 
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
+[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:Lovelyz音乐专辑](https://zh.wikipedia.org/wiki/Category:Lovelyz音乐专辑 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")

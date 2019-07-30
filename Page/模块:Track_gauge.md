@@ -1,11 +1,8 @@
-\-- This module implements the  template. -- Data is in Module:Track
-gauge/data local p = {} local gaugeDataAll = nil local dataPageName =
-'Module:Track gauge/data' -- sandbox here
+\-- This module implements the  template. -- Data is in Module:Track gauge/data local p = {} local gaugeDataAll = nil local dataPageName = 'Module:Track gauge/data' -- sandbox here
 
 -----
 
-\-- prepareArgs -- Normalise Arguments coming from an \#invoke or from a
-module
+\-- prepareArgs -- Normalise Arguments coming from an \#invoke or from a module
 
 -----
 
@@ -137,8 +134,7 @@ end
 
 -----
 
-\-- frac -- A slimmed-down version of the  template (a nowrap is to be
-added with the unit)
+\-- frac -- A slimmed-down version of the  template (a nowrap is to be added with the unit)
 
 -----
 
@@ -180,16 +176,12 @@ function p.catMentions(tgEntry, sortlabel, doReturn)
 `       elseif doReturn == 'pagename' then -- plaintext, no namespace`
 `           return cat`
 `       elseif doReturn == 'show' then -- colontrick`
-`           return '`[`:'``   ``..``   ``ns``   ``..``   ``cat``
- ``..``   ``sortlabel``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._ns_.._cat_.._sortlabel_.._' "wikilink")`'`
+`           return '`[`:'``   ``..``   ``ns``   ``..``   ``cat``   ``..``   ``sortlabel``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._ns_.._cat_.._sortlabel_.._' "wikilink")`'`
 `       else -- unknown arg value`
 `           return ns .. cat`
 `       end`
 `   else -- Returns straight categorisation (wikitext)`
-`       return '`[`'``   ``..``   ``ns``   ``..``   ``cat``   ``..``
- ``sortlabel``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._ns_.._cat_.._sortlabel_.._' "wikilink")`'`
+`       return '`[`'``   ``..``   ``ns``   ``..``   ``cat``   ``..``   ``sortlabel``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._ns_.._cat_.._sortlabel_.._' "wikilink")`'`
 `   end`
 
 end
@@ -236,8 +228,7 @@ end
 
 -----
 
-\-- formatMet -- Formats metric measurements into a single formatted
-text element. Public for autodocument
+\-- formatMet -- Formats metric measurements into a single formatted text element. Public for autodocument
 
 -----
 
@@ -274,8 +265,7 @@ end
 
 -----
 
-function formatAltName(tgEntry, addGaugeName, addGaugeNameLink, disp,
-setNowrap, engvar)
+function formatAltName(tgEntry, addGaugeName, addGaugeNameLink, disp, setNowrap, engvar)
 
 `   -- Assumed: at least one to add is true.`
 `   if tgEntry.name == nil then`
@@ -337,11 +327,7 @@ function p.main(frame)
 
 <div class="hatnote" style="color:red">
 
-<strong>Warning:</strong> ' .. 'Track gauge ' .. (input .. ' ' or '') ..
-'not in [List of defined track
-gauges](https://zh.wikipedia.org/wiki/:Template:Track_gauge#List_of_defined_track_gauges "wikilink")
-([talk](https://zh.wikipedia.org/wiki/Template_talk:Track_gauge "wikilink")).'
-.. ' (This message is shown only in preview.)
+<strong>Warning:</strong> ' .. 'Track gauge ' .. (input .. ' ' or '') .. 'not in [List of defined track gauges](https://zh.wikipedia.org/wiki/:Template:Track_gauge#List_of_defined_track_gauges "wikilink") ([talk](https://zh.wikipedia.org/wiki/Template_talk:Track_gauge "wikilink")).' .. ' (This message is shown only in preview.)
 
 </div>
 
@@ -440,8 +426,6 @@ gauges](https://zh.wikipedia.org/wiki/:Template:Track_gauge#List_of_defined_trac
 
 end
 
-return p --20161219: maintenance categorisation switched off per CfD
---20170602: fix bug, show name when al=on --20180708: show preview
-warning when gauge is not in list.
+return p --20161219: maintenance categorisation switched off per CfD --20170602: fix bug, show name when al=on --20180708: show preview warning when gauge is not in list.
 
 [Category:Articles_using_template_'Track_gauge'_with_unrecognized_input](https://zh.wikipedia.org/wiki/Category:Articles_using_template_'Track_gauge'_with_unrecognized_input "wikilink")

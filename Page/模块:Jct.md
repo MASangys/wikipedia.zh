@@ -1,9 +1,6 @@
 local p = {}
 
-local concat = table.concat local insert = table.insert local getArgs =
-require('Module:Arguments').getArgs -- Import module function to work
-with passed arguments local parserModule = require "Module:Road
-data/parser" local parser = parserModule.parser
+local concat = table.concat local insert = table.insert local getArgs = require('Module:Arguments').getArgs -- Import module function to work with passed arguments local parserModule = require "Module:Road data/parser" local parser = parserModule.parser
 
 \-- Shields local rdt
 
@@ -195,9 +192,7 @@ local function banners(routes)
 `       elseif bannerFile == '' then`
 `           local widthCode = parser(v, 'width') or 'square'`
 `           if type(widthCode) == 'number' then`
-`               insert(secondRun, "`[`"``   ``..``
- ``tostring(widthCode)``   ``..``
- ``"px`](https://zh.wikipedia.org/wiki/File:No_image_wide.svg "fig:\" .. tostring(widthCode) .. \"px")`")`
+`               insert(secondRun, "`[`"``   ``..``   ``tostring(widthCode)``   ``..``   ``"px`](https://zh.wikipedia.org/wiki/File:No_image_wide.svg "fig:\" .. tostring(widthCode) .. \"px")`")`
 `           elseif widthCode == 'square' then`
 `               insert(secondRun, "`[`No_image_wide.svg`](https://zh.wikipedia.org/wiki/File:No_image_wide.svg "fig:No_image_wide.svg")`")`
 `           elseif widthCode == 'expand' then`
@@ -369,5 +364,4 @@ end
 
 return p
 
-[Category:Jct模板錯誤](https://zh.wikipedia.org/wiki/Category:Jct模板錯誤 "wikilink")
-[Category:Jct模板錯誤](https://zh.wikipedia.org/wiki/Category:Jct模板錯誤 "wikilink")
+[Category:Jct模板錯誤](https://zh.wikipedia.org/wiki/Category:Jct模板錯誤 "wikilink") [Category:Jct模板錯誤](https://zh.wikipedia.org/wiki/Category:Jct模板錯誤 "wikilink")

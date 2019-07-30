@@ -1,6 +1,4 @@
-**KBS
-W**是[韩国放送公社的子公司](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")[KBS
-N旗下的一个以播放](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[女性节目为主的有線电视频道](../Page/女性.md "wikilink")。
+**KBS W**是[韩国放送公社的子公司](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")[KBS N旗下的一个以播放](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[女性](../Page/女性.md "wikilink")节目为主的有線电视频道。
 
 ## 历史
 
@@ -43,20 +41,13 @@ N旗下的一个以播放](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[女�
 
   - 《[搞笑演唱会](https://zh.wikipedia.org/wiki/搞笑演唱会 "wikilink")》
   - 《[Hello Baby](https://zh.wikipedia.org/wiki/Hello_Baby "wikilink")》
-      - 《[少女时代 Hello
-        Baby](https://zh.wikipedia.org/wiki/少女时代_Hello_Baby "wikilink")》
-      - 《[SHINee Hello
-        Baby](https://zh.wikipedia.org/wiki/SHINee_Hello_Baby "wikilink")》
-      - 《[T-ara Hello
-        Baby](https://zh.wikipedia.org/wiki/T-ara_Hello_Baby "wikilink")》
-      - 《[Super Junior Hello
-        Baby](https://zh.wikipedia.org/wiki/Super_Junior_Hello_Baby "wikilink")》
-      - 《[MBLAQ Hello
-        Baby](https://zh.wikipedia.org/wiki/MBLAQ_Hello_Baby "wikilink")》
-      - 《[B1A4 Hello
-        Baby](https://zh.wikipedia.org/wiki/B1A4_Hello_Baby "wikilink")》
-      - 《[Boyfriend Hello
-        Baby](https://zh.wikipedia.org/wiki/Boyfriend_Hello_Baby "wikilink")》
+      - 《[少女时代 Hello Baby](https://zh.wikipedia.org/wiki/少女时代_Hello_Baby "wikilink")》
+      - 《[SHINee Hello Baby](https://zh.wikipedia.org/wiki/SHINee_Hello_Baby "wikilink")》
+      - 《[T-ara Hello Baby](https://zh.wikipedia.org/wiki/T-ara_Hello_Baby "wikilink")》
+      - 《[Super Junior Hello Baby](https://zh.wikipedia.org/wiki/Super_Junior_Hello_Baby "wikilink")》
+      - 《[MBLAQ Hello Baby](https://zh.wikipedia.org/wiki/MBLAQ_Hello_Baby "wikilink")》
+      - 《[B1A4 Hello Baby](https://zh.wikipedia.org/wiki/B1A4_Hello_Baby "wikilink")》
+      - 《[Boyfriend Hello Baby](https://zh.wikipedia.org/wiki/Boyfriend_Hello_Baby "wikilink")》
   - 《[欢乐在一起](https://zh.wikipedia.org/wiki/欢乐在一起 "wikilink")》
   - 《[超人歸來](../Page/超人歸來_\(韓國綜藝\).md "wikilink")》
   - 《[VJ特攻队](https://zh.wikipedia.org/wiki/VJ特攻队 "wikilink")》
@@ -74,6 +65,4 @@ N旗下的一个以播放](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[女�
 
 [Category:韩国放送公社电视频道](https://zh.wikipedia.org/wiki/Category:韩国放送公社电视频道 "wikilink")
 
-1.  이근평 (2012-12-11). [“여성전문 채널 ‘KBS W’ 내년 1월 1일
-    개국”](http://www.munhwa.com/news/view.html?no=2012121101072330159002).
-    문화일보. 23쪽
+1.  이근평 (2012-12-11). [“여성전문 채널 ‘KBS W’ 내년 1월 1일 개국”](http://www.munhwa.com/news/view.html?no=2012121101072330159002). 문화일보. 23쪽

@@ -1,6 +1,4 @@
-《**愛少了你不完整**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Love
-Will Never Do (Without
-You)**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1990年10月發行的單曲，它在美國獲得告示牌單曲榜一週冠軍，它同時也是珍娜·傑克森第5首全美冠軍單曲\[1\]\[2\]。
+《**愛少了你不完整**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Love Will Never Do (Without You)**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1990年10月發行的單曲，它在美國獲得告示牌單曲榜一週冠軍，它同時也是珍娜·傑克森第5首全美冠軍單曲\[1\]\[2\]。
 
 ## 歌曲介紹
 
@@ -28,27 +26,17 @@ You)**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org
 
 ### 音樂影片
 
-〈愛少了你不完整〉音樂影片的導演是Herb
-Ritts，影片採黑白畫面手法呈現。珍娜·傑克森為了這支音樂影片特地瘦身，在片中她找來了專屬[凱文·克萊](https://zh.wikipedia.org/wiki/卡文·克萊 "wikilink")（Calvin
-Klein）18歲的小安東尼奧·薩巴圖（Antonio Sabato
-Jr.）和26歲的[吉蒙·翰蘇](../Page/杰曼·翰苏.md "wikilink")（Djimon
-Hounsou）兩位炙手可熱的男模，他們和珍娜·傑克森在音樂影片中都有貼身擁舞的畫面。〈愛少了你不完整〉也是《節奏國度》中唯一一支未承襲專輯風格的音樂影片\[9\]。
+〈愛少了你不完整〉音樂影片的導演是Herb Ritts，影片採黑白畫面手法呈現。珍娜·傑克森為了這支音樂影片特地瘦身，在片中她找來了專屬[凱文·克萊](https://zh.wikipedia.org/wiki/卡文·克萊 "wikilink")（Calvin Klein）18歲的小安東尼奧·薩巴圖（Antonio Sabato Jr.）和26歲的[吉蒙·翰蘇](../Page/杰曼·翰苏.md "wikilink")（Djimon Hounsou）兩位炙手可熱的男模，他們和珍娜·傑克森在音樂影片中都有貼身擁舞的畫面。〈愛少了你不完整〉也是《節奏國度》中唯一一支未承襲專輯風格的音樂影片\[9\]。
 
 ### 樂壇紀錄
 
-〈愛少了你不完整〉在1991年1月19日摘下單曲榜冠軍時，締造兩項新的樂壇紀錄，一是一張專輯誕生了七首TOP
-5單曲，二是一張專輯推出的第七首單曲獲得冠軍，在此之前是[寶拉·阿巴杜首張專輯](../Page/寶拉·阿巴杜.md "wikilink")《[永遠是你的女孩](https://zh.wikipedia.org/wiki/Forever_Your_Girl_\(album\) "wikilink")》中第六首單曲〈[Opposites
-Attract](../Page/Opposites_Attract.md "wikilink")〉以及《節奏國度》中第六首單曲〈[黑貓](../Page/Black_Cat_\(歌曲\).md "wikilink")〉奪冠。而《節奏國度》中的四首冠軍單曲橫跨了3個年度，從1989年到1991年。
+〈愛少了你不完整〉在1991年1月19日摘下單曲榜冠軍時，締造兩項新的樂壇紀錄，一是一張專輯誕生了七首TOP 5單曲，二是一張專輯推出的第七首單曲獲得冠軍，在此之前是[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")首張專輯《[永遠是你的女孩](https://zh.wikipedia.org/wiki/Forever_Your_Girl_\(album\) "wikilink")》中第六首單曲〈[Opposites Attract](../Page/Opposites_Attract.md "wikilink")〉以及《節奏國度》中第六首單曲〈[黑貓](../Page/Black_Cat_\(歌曲\).md "wikilink")〉奪冠。而《節奏國度》中的四首冠軍單曲橫跨了3個年度，從1989年到1991年。
 
 ## 相關條目
 
 ## 參考資料
 
-[Category:珍娜·傑克森歌曲](https://zh.wikipedia.org/wiki/Category:珍娜·傑克森歌曲 "wikilink")
-[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink")
-[Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink")
-[Category:黑白音樂錄影帶](https://zh.wikipedia.org/wiki/Category:黑白音樂錄影帶 "wikilink")
-[Category:MTV最佳女藝人錄影帶](https://zh.wikipedia.org/wiki/Category:MTV最佳女藝人錄影帶 "wikilink")
+[Category:珍娜·傑克森歌曲](https://zh.wikipedia.org/wiki/Category:珍娜·傑克森歌曲 "wikilink") [Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黑白音樂錄影帶](https://zh.wikipedia.org/wiki/Category:黑白音樂錄影帶 "wikilink") [Category:MTV最佳女藝人錄影帶](https://zh.wikipedia.org/wiki/Category:MTV最佳女藝人錄影帶 "wikilink")
 
 1.  [美國告示牌珍娜·傑克森單曲榜成績](http://www.billboard.com/artist/304191/janet-jackson/chart?page=1&f=379)
 2.  [1991-01-19告示牌單曲榜](http://www.billboard.com/charts/hot-100/1991-01-19)

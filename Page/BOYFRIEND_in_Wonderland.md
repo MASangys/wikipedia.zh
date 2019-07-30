@@ -1,13 +1,10 @@
-《**BOYFRIEND in
-Wonderland**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND第](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")4枚迷你韓語專輯，於2015年3月9日發行，主打歌曲為《BOUNCE》\[1\]。
+《**BOYFRIEND in Wonderland**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND第](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")4枚迷你韓語專輯，於2015年3月9日發行，主打歌曲為《BOUNCE》\[1\]。
 
 ## 背景
 
-2015年2月23日，[STARSHIP娛樂在](../Page/STARSHIP娛樂.md "wikilink")[Youtube發放了一段](https://zh.wikipedia.org/wiki/Youtube "wikilink")[榮旻和](https://zh.wikipedia.org/wiki/榮旻 "wikilink")[光旻的造型短片](https://zh.wikipedia.org/wiki/光旻 "wikilink")，預告BOYFRIEND將發行新專輯\[2\]。並在接連兩日裡分別推出了[東玄和](https://zh.wikipedia.org/wiki/東玄 "wikilink")[珉玗以及](https://zh.wikipedia.org/wiki/珉玗 "wikilink")[正珉和](https://zh.wikipedia.org/wiki/正珉 "wikilink")[賢星的造型短片](https://zh.wikipedia.org/wiki/賢星 "wikilink")\[3\]\[4\]。
+2015年2月23日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")在[Youtube發放了一段](https://zh.wikipedia.org/wiki/Youtube "wikilink")[榮旻和](https://zh.wikipedia.org/wiki/榮旻 "wikilink")[光旻的造型短片](https://zh.wikipedia.org/wiki/光旻 "wikilink")，預告BOYFRIEND將發行新專輯\[2\]。並在接連兩日裡分別推出了[東玄和](https://zh.wikipedia.org/wiki/東玄 "wikilink")[珉玗以及](https://zh.wikipedia.org/wiki/珉玗 "wikilink")[正珉和](https://zh.wikipedia.org/wiki/正珉 "wikilink")[賢星的造型短片](https://zh.wikipedia.org/wiki/賢星 "wikilink")\[3\]\[4\]。
 
-2月27日，BOYFRIEND官方[Facebook及韓國](../Page/Facebook.md "wikilink")[Twitter作出更新](../Page/Twitter.md "wikilink")，披露了專輯名稱——《BOYFRIEND
-in
-Wonderland》與其曲目，包括主打歌曲《BOUNCE》，同時決定在3月5日開始在音樂節目宣傳；3月9日發行實體專輯\[5\]。其後《BOUNCE》音樂錄影帶的預告於3月3日中午十二時（韓國時間）發放，官方同時亦指出此專輯是「殘忍童話三部曲」——《[OBSESSION](../Page/OBSESSION.md "wikilink")》（《[彼得潘](../Page/彼得潘.md "wikilink")》）、《WITCH》（《[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")》）及《BOUNCE》（《[愛麗絲夢遊仙境](https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境 "wikilink")》）之一部分，期望可帶出夢幻與趣味\[6\]\[7\]。
+2月27日，BOYFRIEND官方[Facebook](../Page/Facebook.md "wikilink")及韓國[Twitter](../Page/Twitter.md "wikilink")作出更新，披露了專輯名稱——《BOYFRIEND in Wonderland》與其曲目，包括主打歌曲《BOUNCE》，同時決定在3月5日開始在音樂節目宣傳；3月9日發行實體專輯\[5\]。其後《BOUNCE》音樂錄影帶的預告於3月3日中午十二時（韓國時間）發放，官方同時亦指出此專輯是「殘忍童話三部曲」——《[OBSESSION](../Page/OBSESSION.md "wikilink")》（《[彼得潘](../Page/彼得潘.md "wikilink")》）、《WITCH》（《[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")》）及《BOUNCE》（《[愛麗絲夢遊仙境](https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境 "wikilink")》）之一部分，期望可帶出夢幻與趣味\[6\]\[7\]。
 
 ## 曲目
 
@@ -128,9 +125,7 @@ Wonderland》與其曲目，包括主打歌曲《BOUNCE》，同時決定在3月
 
 ## 参考文献
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

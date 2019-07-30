@@ -1,19 +1,16 @@
-**株式會社david
-production**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2007年9月\[2\]。
+**株式會社david production**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2007年9月\[2\]。
 
 ## 簡介、沿革
 
-**david
-production**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。由經歷[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、並任職的製作人沖浦泰斗（目前是[Netflix內容收購動畫導演](../Page/Netflix.md "wikilink")）和代表董事社長梶田浩司等人，於2007年9月\[3\]在[東京都](../Page/東京都.md "wikilink")[西東京市成立](../Page/西東京市.md "wikilink")。
+**david production**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。由經歷[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、並任職的製作人沖浦泰斗（目前是[Netflix](../Page/Netflix.md "wikilink")內容收購動畫導演）和代表董事社長梶田浩司等人，於2007年9月\[3\]在[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")成立。
 
 2009年播出的電視動畫《[天堂餐館](../Page/天堂餐館.md "wikilink")》首次投入獨立製作。2012年10月播出《[JoJo的奇妙冒險](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink")》系列原作第一部和第二部的電視動畫，接著JoJo系列第3部《[星塵鬥士](../Page/星塵鬥士.md "wikilink")》在2014年4月起播出後受到矚目，讓工作室的名字廣為人傳。
 
-2014年8月1日，[富士電視台收購該工作室](../Page/富士電視台.md "wikilink")，從此成為富士電視台的旗下子公司\[4\]\[5\]。子公司化之後其工作室轉移至[小平市小川町](../Page/小平市.md "wikilink")。
+2014年8月1日，[富士電視台](../Page/富士電視台.md "wikilink")收購該工作室，從此成為富士電視台的旗下子公司\[4\]\[5\]。子公司化之後其工作室轉移至[小平市](../Page/小平市.md "wikilink")小川町。
 
 而“david”的命名來自一部聖經故事「[大衛與歌利亞](https://zh.wikipedia.org/wiki/歌利亞 "wikilink")」，意思是說該工作室目前規模雖然比其他知名動畫企業小，但仍可以創作出一部擁有優秀的故事劇本和角色的好動畫\[6\]。
 
-還有“david”的命名是‘**D**esign **A**udio & **V**isual **I**llusion
-**D**ynamics"’的縮寫，意思說明公司生產的動畫作品具有影響力的價值\[7\]。
+還有“david”的命名是‘**D**esign **A**udio & **V**isual **I**llusion **D**ynamics"’的縮寫，意思說明公司生產的動畫作品具有影響力的價值\[7\]。
 
 在多數動畫作品的場合下使用“david production”表示（‘d’和‘p’開頭都使用小寫）。
 
@@ -384,7 +381,7 @@ production**是日本一家以執行動畫的企畫和製作為主要事業內�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/出包王女.md" title="wikilink">出包王女DARKNESS 2nd</a></p></td>
+<td><p><a href="../Page/出包王女.md" title="wikilink">出包王女 2nd</a>DARKNESS</p></td>
 <td></td>
 <td><p><a href="../Page/XEBEC.md" title="wikilink">XEBEC</a></p></td>
 <td></td>
@@ -408,7 +405,7 @@ production**是日本一家以執行動畫的企畫和製作為主要事業內�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/流浪神差.md" title="wikilink">流浪神差ARAGOTO</a></p></td>
+<td><p><a href="../Page/流浪神差.md" title="wikilink">流浪神差</a>ARAGOTO</p></td>
 <td></td>
 <td><p>BONES</p></td>
 <td></td>
@@ -475,12 +472,7 @@ production**是日本一家以執行動畫的企畫和製作為主要事業內�
 
   - [株式會社david production公式官網](http://davidproduction.jp/)
 
-[Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink")
-[Category:富士電視台](https://zh.wikipedia.org/wiki/Category:富士電視台 "wikilink")
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
-[Category:小平市公司](https://zh.wikipedia.org/wiki/Category:小平市公司 "wikilink")
+[Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink") [Category:富士電視台](https://zh.wikipedia.org/wiki/Category:富士電視台 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:小平市公司](https://zh.wikipedia.org/wiki/Category:小平市公司 "wikilink")
 
 1.
 

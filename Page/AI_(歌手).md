@@ -1,7 +1,6 @@
-**植村愛**（\[1\]），[日本女歌手](../Page/日本.md "wikilink")，藝名**AI**，生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，長於[日本](../Page/日本.md "wikilink")[鹿兒島](../Page/鹿儿岛市.md "wikilink")。
+**植村愛**（\[1\]），[日本](../Page/日本.md "wikilink")女歌手，藝名**AI**，生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，長於[日本](../Page/日本.md "wikilink")[鹿兒島](../Page/鹿儿岛市.md "wikilink")。
 
-母親是義大利裔美國人。1996年赴美進修，因為深喜[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")，於是決定投身[黑人音樂](../Page/黑人.md "wikilink")，1999年出道，2000年返日演出，曾與[平井堅](../Page/平井堅.md "wikilink")、[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[阪本龍一](https://zh.wikipedia.org/wiki/阪本龍一 "wikilink")、[加藤米莉亞](https://zh.wikipedia.org/wiki/加藤米莉亞 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[嘻哈歌手](../Page/嘻哈.md "wikilink")[史努比狗狗等合作](../Page/史努比狗狗.md "wikilink")，在日本頗負盛名。2014年年底，參與[宇多田光出道十五年紀念專輯](../Page/宇多田光.md "wikilink")，翻唱了宇多田光的《FINAL
-DISTANCE》，受到日本樂迷的好評。
+母親是義大利裔美國人。1996年赴美進修，因為深喜[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")，於是決定投身[黑人](../Page/黑人.md "wikilink")音樂，1999年出道，2000年返日演出，曾與[平井堅](../Page/平井堅.md "wikilink")、[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[阪本龍一](https://zh.wikipedia.org/wiki/阪本龍一 "wikilink")、[加藤米莉亞](https://zh.wikipedia.org/wiki/加藤米莉亞 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")歌手[史努比狗狗](../Page/史努比狗狗.md "wikilink")等合作，在日本頗負盛名。2014年年底，參與[宇多田光](../Page/宇多田光.md "wikilink")出道十五年紀念專輯，翻唱了宇多田光的《FINAL DISTANCE》，受到日本樂迷的好評。
 
 ## 生平
 
@@ -11,69 +10,37 @@ AI于1981年11月2日出生于[洛杉矶](../Page/洛杉矶.md "wikilink")。\[2
 
 12岁时，AI观看了在洛杉矶第一非洲卫理公会教堂（）举行的歌唱表演之后，被福音合唱团（）的表演感动，于是立志成为一名歌手\[5\]\[6\]。
 
-1996年，AI在日本的中学毕业后回到洛杉矶，并在格伦代尔高等中学（）就读，但由于她并没有接受过正式的英语教育，她的高中生活很艰苦\[7\]。后来她转入洛杉矶内一所艺术高中，专攻芭蕾舞\[8\]。她还曾是该校福音合唱团的成员\[9\]。1998年，她作为合唱团的一员参加[玛丽·布莱姬在洛杉矶环球圆形竞技场](../Page/玛丽·布莱姬.md "wikilink")（，现名吉布森圆形竞技场（））的演唱会，并在5万名观众面前和团员共同演唱DeBarge的歌曲“A
-Dream”\[10\]。同年，AI以舞者的身份出现在[珍妮·杰克逊的歌曲](../Page/珍妮·杰克逊.md "wikilink")《Go
-Deep》的MV里\[11\]\[12\]。
+1996年，AI在日本的中学毕业后回到洛杉矶，并在格伦代尔高等中学（）就读，但由于她并没有接受过正式的英语教育，她的高中生活很艰苦\[7\]。后来她转入洛杉矶内一所艺术高中，专攻芭蕾舞\[8\]。她还曾是该校福音合唱团的成员\[9\]。1998年，她作为合唱团的一员参加[玛丽·布莱姬](../Page/玛丽·布莱姬.md "wikilink")在洛杉矶环球圆形竞技场（，现名吉布森圆形竞技场（））的演唱会，并在5万名观众面前和团员共同演唱DeBarge的歌曲“A Dream”\[10\]。同年，AI以舞者的身份出现在[珍妮·杰克逊](../Page/珍妮·杰克逊.md "wikilink")的歌曲《Go Deep》的MV里\[11\]\[12\]。
 
-1999年，AI加入由[库尔伙伴合唱团成员乔治](../Page/库尔伙伴合唱团.md "wikilink")·布朗（）创立的亚洲[女子音乐组合](../Page/女子音乐组合.md "wikilink")“SX4”\[13\]。在鹿儿岛县过暑假期间，她在当地一家广播电台接受采访并演唱的单曲《For
-You I Will》，这引起了[BMG
-JAPAN的注意](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。\[14\]随后不久，她同意和该唱片公司签约。2000年6月，高中毕业的她离开了SX4并移居东京，之后成功出道\[15\]。\[16\]
+1999年，AI加入由[库尔伙伴合唱团](../Page/库尔伙伴合唱团.md "wikilink")成员乔治·布朗（）创立的亚洲[女子音乐组合](../Page/女子音乐组合.md "wikilink")“SX4”\[13\]。在鹿儿岛县过暑假期间，她在当地一家广播电台接受采访并演唱的单曲《For You I Will》，这引起了[BMG JAPAN的注意](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。\[14\]随后不久，她同意和该唱片公司签约。2000年6月，高中毕业的她离开了SX4并移居东京，之后成功出道\[15\]。\[16\]
 
 ### 2000年－2004年：BMG JAPAN，移籍Def Jam Japan
 
-2000年11月，AI发布出道单曲〈Cry, just Cry〉。\[17\]在这一年间，她发布了3首单曲以及她的第一部专辑《my name
-is AI》。然而，她所发布的单曲和专辑并没有获得商业上的成功，第一部专辑的最高排名只有86位。\[18\]
+2000年11月，AI发布出道单曲〈Cry, just Cry〉。\[17\]在这一年间，她发布了3首单曲以及她的第一部专辑《my name is AI》。然而，她所发布的单曲和专辑并没有获得商业上的成功，第一部专辑的最高排名只有86位。\[18\]
 
-2002年，她从BMG JAPAN移籍至[Def Jam
-Japan](https://zh.wikipedia.org/wiki/Def_Jam唱片公司 "wikilink")，成为与其签约的第一位女性艺人。\[19\]\[20\]2003年1月，AI发布移籍以来的第一首单曲〈最终宣告〉。同年7月又发布自己出道以来的第二张专辑《ORIGINAL
-A.I.》，该专辑在Oricon的最高排名为15位，而她的第三张专辑《2004 A.I.》不仅位列第3位，还获得了金唱片认证。\[21\]
+2002年，她从BMG JAPAN移籍至[Def Jam Japan](../Page/Def_Jam唱片公司.md "wikilink")，成为与其签约的第一位女性艺人。\[19\]\[20\]2003年1月，AI发布移籍以来的第一首单曲〈最终宣告〉。同年7月又发布自己出道以来的第二张专辑《ORIGINAL A.I.》，该专辑在Oricon的最高排名为15位，而她的第三张专辑《2004 A.I.》不仅位列第3位，还获得了金唱片认证。\[21\]
 
-2004年，AI凭借单曲〈Thank U〉获得了Space
-Shower音乐录影带大奖（）的最佳节奏蓝调音乐录影带奖。\[22\]同年7月，她和[安室奈美惠共同代表日本参加了在](../Page/安室奈美惠.md "wikilink")[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔举行的](https://zh.wikipedia.org/wiki/首尔 "wikilink")“MTV
-buzz ASIA
-CONCERT”。8月，她又和[一青窈](../Page/一青窈.md "wikilink")、[藤木直人代表日本参加在](../Page/藤木直人.md "wikilink")[台北举行的](https://zh.wikipedia.org/wiki/台北 "wikilink")“MTV
-TAIPEI MUSIC FESTIVAL”。\[23\]
+2004年，AI凭借单曲〈Thank U〉获得了Space Shower音乐录影带大奖（）的最佳节奏蓝调音乐录影带奖。\[22\]同年7月，她和[安室奈美惠](../Page/安室奈美惠.md "wikilink")共同代表日本参加了在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔举行的](https://zh.wikipedia.org/wiki/首尔 "wikilink")“MTV buzz ASIA CONCERT”。8月，她又和[一青窈](../Page/一青窈.md "wikilink")、[藤木直人](../Page/藤木直人.md "wikilink")代表日本参加在[台北举行的](https://zh.wikipedia.org/wiki/台北 "wikilink")“MTV TAIPEI MUSIC FESTIVAL”。\[23\]
 
 ### 2005年－2010年：《Story》，名声大振
 
-2005年5月，AI发布叙事单曲〈Story〉，这让她获得了事业上的大成功。该单曲此前并不被看好，但在2005年至2006年期间，该单曲有20周登上单曲排行榜前30名，在Oricon的最高排名为第8位。截至2009年9月，该单曲下载次数达到400万\[24\]。截至2011年2月，该单曲铃声下载次数达到300万。\[25\]随后，AI以此曲参加了。\[26\]她的下一部专辑《MIC-A-HOLIC
-A.I.》同样获得成功，不仅最高排名位列第4，还被[RIAJ授予双白金唱片认证](../Page/日本唱片協會.md "wikilink")\[27\]。
+2005年5月，AI发布叙事单曲〈Story〉，这让她获得了事业上的大成功。该单曲此前并不被看好，但在2005年至2006年期间，该单曲有20周登上单曲排行榜前30名，在Oricon的最高排名为第8位。截至2009年9月，该单曲下载次数达到400万\[24\]。截至2011年2月，该单曲铃声下载次数达到300万。\[25\]随后，AI以此曲参加了。\[26\]她的下一部专辑《MIC-A-HOLIC A.I.》同样获得成功，不仅最高排名位列第4，还被[RIAJ授予双白金唱片认证](../Page/日本唱片協會.md "wikilink")\[27\]。
 
-AI于2006年发售的第一张单曲〈Believe〉同样是一张[叙事单曲](https://zh.wikipedia.org/wiki/叙事曲 "wikilink")，该曲也同样获得了成功，在Oricon周度排行榜的最高排名是第2名，刷新了她的单曲在该榜的最高排名记录\[28\]，同时铃声下载次数达到100万次\[29\]。这首歌曲同时也被用作改编自漫画的电视剧《[醫龍-Team
-Medical
-Dragon-](https://zh.wikipedia.org/wiki/醫龍-Team_Medical_Dragon-_\(電視劇\) "wikilink")》的主题曲\[30\]。2006年和2007年，她分别凭借〈Story〉和〈Believe〉连续两年获得[MTV
-Japan举办的](../Page/MTV_Japan.md "wikilink")[MTV日本音乐录影带大奖的最佳节奏蓝调音乐录影带奖](https://zh.wikipedia.org/wiki/MTV日本音乐录影带大奖 "wikilink")\[31\]。她的第5张和第6张专辑《What's
-goin' on A.I.》和《DON'T STOP
-A.I.》同样获得商业上的成功，并分别被授予白金和金唱片认证\[32\]\[33\]。同时她还在11个城市举办12场以“What‘s
-goin’on A.I. Japan Tour”为标题的演唱会\[34\]。
+AI于2006年发售的第一张单曲〈Believe〉同样是一张[叙事单曲](https://zh.wikipedia.org/wiki/叙事曲 "wikilink")，该曲也同样获得了成功，在Oricon周度排行榜的最高排名是第2名，刷新了她的单曲在该榜的最高排名记录\[28\]，同时铃声下载次数达到100万次\[29\]。这首歌曲同时也被用作改编自漫画的电视剧《[醫龍-Team Medical Dragon-](https://zh.wikipedia.org/wiki/醫龍-Team_Medical_Dragon-_\(電視劇\) "wikilink")》的主题曲\[30\]。2006年和2007年，她分别凭借〈Story〉和〈Believe〉连续两年获得[MTV Japan举办的](../Page/MTV_Japan.md "wikilink")[MTV日本音乐录影带大奖的最佳节奏蓝调音乐录影带奖](https://zh.wikipedia.org/wiki/MTV日本音乐录影带大奖 "wikilink")\[31\]。她的第5张和第6张专辑《What's goin' on A.I.》和《DON'T STOP A.I.》同样获得商业上的成功，并分别被授予白金和金唱片认证\[32\]\[33\]。同时她还在11个城市举办12场以“What‘s goin’on A.I. Japan Tour”为标题的演唱会\[34\]。
 
-2008年5月，AI获得2009年MTV日本音乐录影带大奖的Best buzz
-ASIA奖，同年9月，由AI本人作词，[久石让作曲的](../Page/久石让.md "wikilink")〈So
-Special〉发行，该曲被用于电影《[-{zh-cn:入殓师;zh-hk:禮儀師之奏鳴曲;zh-tw:送行者：禮儀師的樂章}-](../Page/送行者：禮儀師的樂章.md "wikilink")》的[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")\[35\]。同年11月至第二年2月，她又在日本9个城市举办以“AI
-CLUB TOUR 2008/2009”为标题的演唱会\[36\]。2009年9月16日，AI发布了她的精选专辑《BEST
-A.I.》，该专辑在Oricon排行榜的最高排名是第一名\[37\]。
+2008年5月，AI获得2009年MTV日本音乐录影带大奖的Best buzz ASIA奖，同年9月，由AI本人作词，[久石让](../Page/久石让.md "wikilink")作曲的〈So Special〉发行，该曲被用于电影《[-{zh-cn:入殓师;zh-hk:禮儀師之奏鳴曲;zh-tw:送行者：禮儀師的樂章}-](../Page/送行者：禮儀師的樂章.md "wikilink")》的[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")\[35\]。同年11月至第二年2月，她又在日本9个城市举办以“AI CLUB TOUR 2008/2009”为标题的演唱会\[36\]。2009年9月16日，AI发布了她的精选专辑《BEST A.I.》，该专辑在Oricon排行榜的最高排名是第一名\[37\]。
 
-在与日本环球唱片签约的最后时期，她的作品的销售成绩有所下滑。当时获得较为显著成功的作品是她与[安室奈美惠合作的单曲](../Page/安室奈美惠.md "wikilink")〈FAKE
-feat. 安室奈美惠〉，这张于2010年3月底发行的单曲曾获得金唱片认证\[38\]，之后她于2010年12月发布的第8张录音室专辑《THE
-LAST A.I.》在Oricon的最高排名只有14位，仅高于她的第一张和第二张专辑\[39\]。
+在与日本环球唱片签约的最后时期，她的作品的销售成绩有所下滑。当时获得较为显著成功的作品是她与[安室奈美惠](../Page/安室奈美惠.md "wikilink")合作的单曲〈FAKE feat. 安室奈美惠〉，这张于2010年3月底发行的单曲曾获得金唱片认证\[38\]，之后她于2010年12月发布的第8张录音室专辑《THE LAST A.I.》在Oricon的最高排名只有14位，仅高于她的第一张和第二张专辑\[39\]。
 
 ### 2011年至今：EMI，美国出道
 
-2011年6月，AI与[EMI音乐日本签约](https://zh.wikipedia.org/wiki/EMI音乐日本 "wikilink")，移籍至该公司\[40\]。同年12月14日，她移籍后的第一张单曲〈
-/ Letter In The Sky feat. [The
-Jacksons](https://zh.wikipedia.org/wiki/The_Jacksons "wikilink")〉正式发行，该单曲在Oricon周榜的最高排名是14位，同时还分别于翌年3月和12月获得白金唱片和双白金唱片认证\[41\]\[42\]。这张单曲收录于她于2012年2月发售的第9张录音室专辑《INDEPENDENT》，该专辑在2012年3月5日公布的Oricon周榜排名第2\[43\]。
+2011年6月，AI与[EMI音乐日本签约](https://zh.wikipedia.org/wiki/EMI音乐日本 "wikilink")，移籍至该公司\[40\]。同年12月14日，她移籍后的第一张单曲〈 / Letter In The Sky feat. [The Jacksons](https://zh.wikipedia.org/wiki/The_Jacksons "wikilink")〉正式发行，该单曲在Oricon周榜的最高排名是14位，同时还分别于翌年3月和12月获得白金唱片和双白金唱片认证\[41\]\[42\]。这张单曲收录于她于2012年2月发售的第9张录音室专辑《INDEPENDENT》，该专辑在2012年3月5日公布的Oricon周榜排名第2\[43\]。
 
-2012年8月，AI前往洛杉矶为自己的下一部作品以及在美国的出道做准备，同时她还发布了视频来为自己的出道做宣传\[44\]。8月24日，AI在洛杉矶L.A.
-Live举办了一场音乐会\[45\]。
+2012年8月，AI前往洛杉矶为自己的下一部作品以及在美国的出道做准备，同时她还发布了视频来为自己的出道做宣传\[44\]。8月24日，AI在洛杉矶L.A. Live举办了一场音乐会\[45\]。
 
-2013年4月1日，日本环球音乐将日本EMI吸收合并且加以统合，将其改为日本环球音乐旗下厂牌“EMI Records
-Japan”\[46\]。而AI也由此成为了该唱片公司旗下的“EMI Records
-Japan”的艺人。同年7月，AI的第10张专辑《MORIAGARO》正式发售\[47\]，该专辑在2013年7月29日公布的Oricon周榜中排名第5\[48\]。2014年10月，单曲〈Story〉的英语版正式发行，该曲是电影《[超能陆战队](https://zh.wikipedia.org/wiki/超能陆战队 "wikilink")》日本版的片尾曲\[49\]。
+2013年4月1日，日本环球音乐将日本EMI吸收合并且加以统合，将其改为日本环球音乐旗下厂牌“EMI Records Japan”\[46\]。而AI也由此成为了该唱片公司旗下的“EMI Records Japan”的艺人。同年7月，AI的第10张专辑《MORIAGARO》正式发售\[47\]，该专辑在2013年7月29日公布的Oricon周榜中排名第5\[48\]。2014年10月，单曲〈Story〉的英语版正式发行，该曲是电影《[超能陆战队](https://zh.wikipedia.org/wiki/超能陆战队 "wikilink")》日本版的片尾曲\[49\]。
 
-2014年1月至2015年上半年，AI由于结婚以及怀孕暂停了音乐活动。2015年8月底，她产下一女后，宣布重返乐坛。\[50\]11月25日，她发布了重返乐坛后的第一张专辑《THE
-BEST》\[51\]。2016年1月，AI发布了仅限[数位音乐下载的单曲](https://zh.wikipedia.org/wiki/数位音乐下载 "wikilink")〈[每个人都是英雄](../Page/每个人都是英雄.md "wikilink")〉\[52\]，引起热烈反响，截止同年4月1日共收获大约40万次下载次数，之后该单曲收录于同年5月4日发售的精选辑《THE
-BEST》的DELUXE
-EDITION版中\[53\]。同年12月31日，AI参演了[第67届红白歌会](https://zh.wikipedia.org/wiki/第67回NHK红白歌合战 "wikilink")，这是她时隔11年再度在红白歌会中亮相，而她在歌会中演唱的正是〈每个人都是英雄〉\[54\]。
+2014年1月至2015年上半年，AI由于结婚以及怀孕暂停了音乐活动。2015年8月底，她产下一女后，宣布重返乐坛。\[50\]11月25日，她发布了重返乐坛后的第一张专辑《THE BEST》\[51\]。2016年1月，AI发布了仅限[数位音乐下载的单曲](https://zh.wikipedia.org/wiki/数位音乐下载 "wikilink")〈[每个人都是英雄](../Page/每个人都是英雄.md "wikilink")〉\[52\]，引起热烈反响，截止同年4月1日共收获大约40万次下载次数，之后该单曲收录于同年5月4日发售的精选辑《THE BEST》的DELUXE EDITION版中\[53\]。同年12月31日，AI参演了[第67届红白歌会](https://zh.wikipedia.org/wiki/第67回NHK红白歌合战 "wikilink")，这是她时隔11年再度在红白歌会中亮相，而她在歌会中演唱的正是〈每个人都是英雄〉\[54\]。
 
 ## 个人生活
 
@@ -404,7 +371,7 @@ TOCT-40463（通常盘）</p></td>
 <td><p><a href="../Page/每个人都是英雄.md" title="wikilink">每个人都是英雄</a><br />
 （）</p></td>
 <td><p>原旋律取自美國民謠「稻草上的火雞」<br />
-au「三太郎系列」<a href="../Page/廣告.md" title="wikilink">廣告之一</a></p></td>
+au「三太郎系列」<a href="../Page/廣告.md" title="wikilink">廣告</a>之一</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年5月19日</p></td>
@@ -867,26 +834,13 @@ Blu-ray</p></td>
   -
 ### 其他
 
-  - [AI×ABC
-    MART](https://web.archive.org/web/20100111073629/http://www.abc-mart.com/ai/)
-    VIVA STAR商品第1弹
+  - [AI×ABC MART](https://web.archive.org/web/20100111073629/http://www.abc-mart.com/ai/) VIVA STAR商品第1弹
 
-  - [AI×ANAP](http://www.anapnet.com/campaign/music/ai_anap/) VIVA
-    STAR商品第2弹
+  - [AI×ANAP](http://www.anapnet.com/campaign/music/ai_anap/) VIVA STAR商品第2弹
 
   -
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink")
-[Category:義大利裔日本人](https://zh.wikipedia.org/wiki/Category:義大利裔日本人 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:美國裔日本人](https://zh.wikipedia.org/wiki/Category:美國裔日本人 "wikilink")
-[Category:義大利裔美國人](https://zh.wikipedia.org/wiki/Category:義大利裔美國人 "wikilink")
-[Category:節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:節奏藍調歌手 "wikilink")
-[Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink")
-[Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink")
-[Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
-[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink") [Category:義大利裔日本人](https://zh.wikipedia.org/wiki/Category:義大利裔日本人 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:美國裔日本人](https://zh.wikipedia.org/wiki/Category:美國裔日本人 "wikilink") [Category:義大利裔美國人](https://zh.wikipedia.org/wiki/Category:義大利裔美國人 "wikilink") [Category:節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:節奏藍調歌手 "wikilink") [Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink") [Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 
 1.
 2.

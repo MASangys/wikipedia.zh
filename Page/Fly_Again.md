@@ -1,12 +1,8 @@
-《**Fly
-Again**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE子團體](../Page/INFINITE.md "wikilink")[INFINITE
-H的第二張韓語迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，於2015年1月26日發行\[1\]，主打曲為《漂亮》（）。
+《**Fly Again**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")子團體[INFINITE H的第二張韓語迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，於2015年1月26日發行\[1\]，主打曲為《漂亮》（）。
 
 ## 背景
 
-2014年12月，[Woollim娛樂公布INFINITE](../Page/Woollim娛樂.md "wikilink")
-H將推出全新專輯，當時暫定在2015年上半年發行\[2\]。直至2015年1月15日，INFINITE韓國官方網站作出更新，披露子團體INFINITE
-H新作品在2015年1月26日正式發表\[3\]。
+2014年12月，[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")公布INFINITE H將推出全新專輯，當時暫定在2015年上半年發行\[2\]。直至2015年1月15日，INFINITE韓國官方網站作出更新，披露子團體INFINITE H新作品在2015年1月26日正式發表\[3\]。
 
 ## 曲目
 
@@ -140,10 +136,7 @@ H新作品在2015年1月26日正式發表\[3\]。
 
 ## 參考資料
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

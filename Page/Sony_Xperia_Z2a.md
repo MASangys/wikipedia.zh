@@ -1,15 +1,8 @@
-**Sony Xperia
-Z2a**，是[索尼於](../Page/索尼.md "wikilink")2014年7月8日在台灣發佈的旗艦手機，搭載5吋螢幕、2.3
-GHz四核心處理器、3GB記憶體、2,070萬畫素相機且支援4K錄影及防水等功能。\[1\]
+**Sony Xperia Z2a**，是[索尼](../Page/索尼.md "wikilink")於2014年7月8日在台灣發佈的旗艦手機，搭載5吋螢幕、2.3 GHz四核心處理器、3GB記憶體、2,070萬畫素相機且支援4K錄影及防水等功能。\[1\]
 
-[安卓作業系統的旗艦](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")，作为它的前一代[Sony
-Xperia
-ZL的繼承機型](https://zh.wikipedia.org/wiki/Sony_Xperia_ZL "wikilink")。同期的競爭主要有[HTC
-One
-(E8)](https://zh.wikipedia.org/wiki/HTC_One_\(E8\) "wikilink")、[Samsung
-Galaxy J](https://zh.wikipedia.org/wiki/Samsung_Galaxy_J "wikilink")。
+[安卓作業系統的旗艦](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")，作为它的前一代[Sony Xperia ZL的繼承機型](https://zh.wikipedia.org/wiki/Sony_Xperia_ZL "wikilink")。同期的競爭主要有[HTC One (E8)](https://zh.wikipedia.org/wiki/HTC_One_\(E8\) "wikilink")、[Samsung Galaxy J](https://zh.wikipedia.org/wiki/Samsung_Galaxy_J "wikilink")。
 
-同時該手機也支援台灣[4G全頻段](../Page/4G.md "wikilink")。
+同時該手機也支援台灣[4G](../Page/4G.md "wikilink")全頻段。
 
 ## 发布
 
@@ -21,13 +14,9 @@ Galaxy J](https://zh.wikipedia.org/wiki/Samsung_Galaxy_J "wikilink")。
   - 螢幕規格：5 吋 TRILUMINOS TFT 螢幕
   - 作業系統：Android 4.4 KitKat(已可更新至Android 6.0 Marshmallow)
   - 電池容量：3,000mAh 不可拆換電池
-  - 相機：2070萬畫素主相機 with G
-    Lens（支援[4K錄影及](https://zh.wikipedia.org/wiki/4K "wikilink")120
-    FPS錄影）、前置鏡頭31萬畫素
-  - 記憶體：內建3GB RAM，16GB
-    ROM，支援外接[microSD至](https://zh.wikipedia.org/wiki/microSD "wikilink")128GB
-  - 特殊功能：支援數碼降噪、前置立體聲雙喇叭、4G LTE（支援 台灣4G
-    全頻段）、[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")、IP55/IP58防塵防水認證
+  - 相機：2070萬畫素主相機 with G Lens（支援[4K錄影及](https://zh.wikipedia.org/wiki/4K "wikilink")120 FPS錄影）、前置鏡頭31萬畫素
+  - 記憶體：內建3GB RAM，16GB ROM，支援外接[microSD至](https://zh.wikipedia.org/wiki/microSD "wikilink")128GB
+  - 特殊功能：支援數碼降噪、前置立體聲雙喇叭、4G LTE（支援 台灣4G 全頻段）、[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")、IP55/IP58防塵防水認證
   - 尺寸：137 x 72 x 10.8mm、167公克
   - 2G Network GSM 850 / 900 / 1800 / 1900
   - 3G Network HSDPA 850 / 900 / 1700 / 1900 / 2100
@@ -82,9 +71,6 @@ Galaxy J](https://zh.wikipedia.org/wiki/Samsung_Galaxy_J "wikilink")。
   -
   -
   -
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
 
 1.  [Sony 4G機皇Z2a](http://www.appledaily.com.tw/realtimenews/article/new/20140708/429415/)《蘋果日報》2014年7月8日

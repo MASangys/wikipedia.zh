@@ -1,10 +1,4 @@
-《**IZUMO2**》是由日本[Studio
-e.go\!公司發售的角色扮演類型](../Page/Studio_e.go!.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2004年7月30日發售CD-ROM版和DVD-ROM版，DVD-ROM版同時付送《[IZUMO
-完全版](../Page/IZUMO.md "wikilink")》。\[1\]2005年2月3日由[GN
-Software發售](../Page/GN_Software.md "wikilink")[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《IZUMO2
-猛剑之閃記》（）\[2\]。2005年4月開始播放電視動畫《[出雲戰記](../Page/出雲戰記.md "wikilink")》（）。\[3\]2006年4月28日發售續作《IZUMO2
--學園狂想曲-》（）\[4\]並在2008年1月31日由GN Software發售PlayStation 2版《》。\[5\]\[6\]
+《**IZUMO2**》是由日本[Studio e.go\!公司發售的角色扮演類型](../Page/Studio_e.go!.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2004年7月30日發售CD-ROM版和DVD-ROM版，DVD-ROM版同時付送《[IZUMO 完全版](../Page/IZUMO.md "wikilink")》。\[1\]2005年2月3日由[GN Software發售](../Page/GN_Software.md "wikilink")[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《IZUMO2 猛剑之閃記》（）\[2\]。2005年4月開始播放電視動畫《[出雲戰記](../Page/出雲戰記.md "wikilink")》（）。\[3\]2006年4月28日發售續作《IZUMO2 -學園狂想曲-》（）\[4\]並在2008年1月31日由GN Software發售PlayStation 2版《》。\[5\]\[6\]
 
 ## 故事
 
@@ -22,7 +16,7 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
 <!-- end list -->
 
   - 白鳥琴乃（CV：[海原エレナ](https://zh.wikipedia.org/wiki/海原エレナ "wikilink")）
-    [IZUMO女主角之一橘綾香的女兒](../Page/IZUMO.md "wikilink")，音樂部的部員，屬性會依裝備而有所變化。
+    [IZUMO](../Page/IZUMO.md "wikilink")女主角之一橘綾香的女兒，音樂部的部員，屬性會依裝備而有所變化。
     宛如大和撫子般的鄰家女孩，身為猛的青梅竹馬，對其抱持著淡淡的戀心，家事萬能的她平日一手包辦了塔馬家的三餐與其他家務，同時成績也相當優秀，但因為小時候身體欠佳而不擅長運動。
 
 <!-- end list -->
@@ -34,7 +28,7 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
 <!-- end list -->
 
   - 逢須芹（CV：みすみ）
-    [IZUMO女主角之一塔馬美由紀的女兒](../Page/IZUMO.md "wikilink")，塔馬六介的曾孫女，屬性為土。
+    [IZUMO](../Page/IZUMO.md "wikilink")女主角之一塔馬美由紀的女兒，塔馬六介的曾孫女，屬性為土。
     繼承了母親的武術才華和宛如音波兵器般的破嗓子，但卻沒有繼承料理手藝。小時候便與猛相識，之後與雙親一同赴美，長大後為了見猛而又返回日本。
 
 <!-- end list -->
@@ -46,7 +40,7 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
 <!-- end list -->
 
   - [佐久夜](../Page/木花開耶姬.md "wikilink")（サクヤ　CV：[みる](https://zh.wikipedia.org/wiki/みる "wikilink")）
-    [天照和](https://zh.wikipedia.org/wiki/天照大神 "wikilink")[迦具土的女兒](../Page/迦具土.md "wikilink")，[根之國的巫女](https://zh.wikipedia.org/wiki/根之國 "wikilink")，屬性為水。
+    [天照和](https://zh.wikipedia.org/wiki/天照大神 "wikilink")[迦具土](../Page/迦具土.md "wikilink")的女兒，[根之國的巫女](https://zh.wikipedia.org/wiki/根之國 "wikilink")，屬性為水。
     性格開朗活潑並具有強烈的正義感與好奇心，初見面時曾將從葦原之國穿越而來的猛一行人誤認為惡靈，之後則與其一起行動。
 
 ### 次要角色
@@ -64,18 +58,18 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
 <!-- end list -->
 
   - 塔馬六介（CV：山原水鶏）
-    [IZUMO登場過的角色](../Page/IZUMO.md "wikilink")，目前已辭掉理事長繼續擔任劍道部的顧問，真實身分是[伊邪那岐](https://zh.wikipedia.org/wiki/伊邪那岐 "wikilink")。
+    [IZUMO](../Page/IZUMO.md "wikilink")登場過的角色，目前已辭掉理事長繼續擔任劍道部的顧問，真實身分是[伊邪那岐](https://zh.wikipedia.org/wiki/伊邪那岐 "wikilink")。
 
 <!-- end list -->
 
   - [天照](https://zh.wikipedia.org/wiki/天照大神 "wikilink")（アマテラス　CV：飯田空）
-    [IZUMO的女主角之一](../Page/IZUMO.md "wikilink")，佐久夜的母親。
+    [IZUMO](../Page/IZUMO.md "wikilink")的女主角之一，佐久夜的母親。
     家事萬能、溫柔體貼的日本傳統女性，同時擁有強大的靈力，丈夫迦具土身旁最為有力的支柱。
 
 <!-- end list -->
 
   - [迦具土](../Page/迦具土.md "wikilink")（カグツチ　CV：折葉大作）
-    真實身分是[IZUMO的塔馬光](../Page/IZUMO.md "wikilink")，佐久夜的父親。
+    真實身分是[IZUMO](../Page/IZUMO.md "wikilink")的塔馬光，佐久夜的父親。
     與天照同為人類軍的最高指揮官，與惡靈軍團持續著長達多年的戰爭，在猛一行人穿越過來時給予其諸多照顧。
 
 <!-- end list -->
@@ -99,13 +93,13 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
 <!-- end list -->
 
   - [須佐之男](https://zh.wikipedia.org/wiki/素戔嗚尊 "wikilink")（スサノオ　CV：金山業）
-    [IZUMO登場過的角色](../Page/IZUMO.md "wikilink")。
+    [IZUMO](../Page/IZUMO.md "wikilink")登場過的角色。
     被前作主角塔馬光打敗之後加入了人類軍的陣營，在與卑彌呼戰鬥時不敵而亡，靠著楓的力量將自己的魂魄轉世到現代日本，在過程中靈魂一分為二，分別化成了「猛之魂」與「剛之心」。
 
 <!-- end list -->
 
   - 楓（CV：金田めい）
-    [IZUMO登場過的角色](../Page/IZUMO.md "wikilink")。
+    [IZUMO](../Page/IZUMO.md "wikilink")登場過的角色。
     須佐之男接受徐福的指導而創造出的女郎蜘蛛，之後持續追隨其左右，在須佐之男敗亡之際以自己的性命將其魂魄送往葦原之國。
 
 ### 守護精靈
@@ -115,13 +109,13 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
   - [八咫](../Page/八咫烏.md "wikilink")（ヤタロー　CV：咲ゆたか）
     [烏鴉精靈](https://zh.wikipedia.org/wiki/烏鴉 "wikilink")，原本是麻衣飼養的烏鴉。
   - [青龍](https://zh.wikipedia.org/wiki/青龍 "wikilink")（CV：羽音摩美）
-    [IZUMO登場過的角色](../Page/IZUMO.md "wikilink")，四聖獸之一。
+    [IZUMO](../Page/IZUMO.md "wikilink")登場過的角色，四聖獸之一。
   - [玄武](../Page/玄武.md "wikilink")（CV：森野花梨）
-    [IZUMO登場過的角色](../Page/IZUMO.md "wikilink")，四聖獸之一。
+    [IZUMO](../Page/IZUMO.md "wikilink")登場過的角色，四聖獸之一。
   - [白虎](../Page/白虎.md "wikilink")（CV：[海原エレナ](https://zh.wikipedia.org/wiki/海原エレナ "wikilink")）
-    [IZUMO登場過的角色](../Page/IZUMO.md "wikilink")，四聖獸之一。
+    [IZUMO](../Page/IZUMO.md "wikilink")登場過的角色，四聖獸之一。
   - [朱雀](https://zh.wikipedia.org/wiki/朱雀 "wikilink")（CV：桃月らみあ）
-    [IZUMO登場過的角色](../Page/IZUMO.md "wikilink")，四聖獸的領袖。
+    [IZUMO](../Page/IZUMO.md "wikilink")登場過的角色，四聖獸的領袖。
   - [麒麟](../Page/麒麟.md "wikilink")（CV：柴田蕗）
     曾經是四聖獸的領袖，現在服侍卑彌呼。
   - 八房（CV：[風音](../Page/風音.md "wikilink")）
@@ -134,7 +128,7 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
   - 冬木凪（CV：野神奈々）
     出雲學園的代課老師，擔任剛的副班級老師。
   - 倉島汀（CV：水野江麻）
-    [IZUMO女主角之一倉島渚的女兒和剛的婚約者](../Page/IZUMO.md "wikilink")。
+    [IZUMO](../Page/IZUMO.md "wikilink")女主角之一倉島渚的女兒和剛的婚約者。
   - [瓊瓊杵尊](https://zh.wikipedia.org/wiki/天津彥彥火瓊瓊杵尊 "wikilink")（ニニギ　CV：[木島宇太](../Page/木島宇太.md "wikilink")）
     自稱是佐久夜的婚約者也因此敵視猛。
   - 大斗瑞親（CV：どてら四号）
@@ -174,8 +168,7 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
 
 ## 電視動畫
 
-IZUMO2的電視動畫版標題是**IZUMO
--猛き剣の閃記-**於2005年4月2日到6月18日期間播放全部共12話。\[11\]有關電視動畫版的詳細資料請參考《[出雲戰記](../Page/出雲戰記.md "wikilink")》。
+IZUMO2的電視動畫版標題是**IZUMO -猛き剣の閃記-**於2005年4月2日到6月18日期間播放全部共12話。\[11\]有關電視動畫版的詳細資料請參考《[出雲戰記](../Page/出雲戰記.md "wikilink")》。
 
 ## 相關商品
 
@@ -190,8 +183,7 @@ IZUMO2的電視動畫版標題是**IZUMO
   -
     作畫：山本和枝/劇本：高橋直樹/製作協力：UTATA
 
-    出版社：[角川書店](../Page/角川書店.md "wikilink")　發售日：2006年5月8日　ISBN
-    978-4047137660
+    出版社：[角川書店](../Page/角川書店.md "wikilink")　發售日：2006年5月8日　ISBN 978-4047137660
 
   - CD
 
@@ -297,54 +289,27 @@ IZUMO2在Getchu.com的2004年萌遊戲排名中綜合部門第20名\[13\]、映�
 
 ## 外部連結
 
-  - [Studio
-    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [Studio e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
   - [Studio e･go\!](http://www.studio-ego.jp/)
-  - [IZUMO2
-    猛き剣の閃記](https://web.archive.org/web/20121102023827/http://www.goodnavigate.com/GN/products/IZUMO2/index.html)取自網際網路檔案館
-  - [IZUMO2 -学園狂想曲-
-    ダブルタクト](https://web.archive.org/web/20120214130309/http://www.goodnavigate.com/GN/products/IZUMO_DT/index.html)取自網際網路檔案館
+  - [IZUMO2 猛き剣の閃記](https://web.archive.org/web/20121102023827/http://www.goodnavigate.com/GN/products/IZUMO2/index.html)取自網際網路檔案館
+  - [IZUMO2 -学園狂想曲- ダブルタクト](https://web.archive.org/web/20120214130309/http://www.goodnavigate.com/GN/products/IZUMO_DT/index.html)取自網際網路檔案館
 
-[ja:IZUMO
-(ゲーム)\#IZUMO2](https://zh.wikipedia.org/wiki/ja:IZUMO_\(ゲーム\)#IZUMO2 "wikilink")
+[ja:IZUMO (ゲーム)\#IZUMO2](https://zh.wikipedia.org/wiki/ja:IZUMO_\(ゲーム\)#IZUMO2 "wikilink")
 
-[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")
-[Category:四象題材作品](https://zh.wikipedia.org/wiki/Category:四象題材作品 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink") [Category:四象題材作品](https://zh.wikipedia.org/wiki/Category:四象題材作品 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
-1.  [IZUMO2
-    CD-ROM版](http://www.getchu.com/soft.phtml?id=58361)Getchu.com
+1.  [IZUMO2 CD-ROM版](http://www.getchu.com/soft.phtml?id=58361)Getchu.com
 2.  [Izumo 2](https://vndb.org/v620)The Visual Novel Database
-3.  [Izumo: Takeki Tsurugi no Senki
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5092)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-4.  [IZUMO2 学園狂想曲
-    特別版](http://www.getchu.com/soft.phtml?id=247545)Getchu.com
-5.  [Izumo 2 \~Gakuen Kyousoukyoku\~](https://vndb.org/v621)The Visual
-    Novel Database
-6.  [IZUMO2 学園狂想曲
-    ダブルタクト](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=6957)ファミ通.com
+3.  [Izumo: Takeki Tsurugi no Senki (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5092)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+4.  [IZUMO2 学園狂想曲 特別版](http://www.getchu.com/soft.phtml?id=247545)Getchu.com
+5.  [Izumo 2 \~Gakuen Kyousoukyoku\~](https://vndb.org/v621)The Visual Novel Database
+6.  [IZUMO2 学園狂想曲 ダブルタクト](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=6957)ファミ通.com
 7.  [IZUMO2](http://erogetrailers.com/soft/3686)ErogeTrailers
 8.  [IZUMO2 学園狂想曲](http://erogetrailers.com/soft/3693)ErogeTrailers
-9.  [IZUMO2](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=3787#ad)ErogameScape
-    -エロゲー批評空間-
-10. [IZUMO2
-    -学園狂想曲-](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=7405#ad)ErogameScape
-    -エロゲー批評空間-
-11. [TV アニメ ＩＺＵＭＯ
-    -猛き剣の閃記-](http://www.allcinema.net/prog/show_c.php?num_c=322722)allcinema
+9.  [IZUMO2](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=3787#ad)ErogameScape -エロゲー批評空間-
+10. [IZUMO2 -学園狂想曲-](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=7405#ad)ErogameScape -エロゲー批評空間-
+11. [TV アニメ ＩＺＵＭＯ -猛き剣の閃記-](http://www.allcinema.net/prog/show_c.php?num_c=322722)allcinema
 12. [IZUMO－猛き剣の閃記－](http://www.kadokawa.co.jp/comic/bk_detail.php?pcd=200507000289)[角川書店](../Page/角川書店.md "wikilink")
-13. [2004年MOEゲーランキング
-    総合部門](http://www.getchu.com/pc/rank.phtml?rank_flag=1)Getchu.com
-14. [2004年MOEゲーランキング
-    映像部門](http://www.getchu.com/pc/rank.phtml?rank_flag=4)Getchu.com
-15. [2004年MOEゲーランキング
-    システム部門](http://www.getchu.com/pc/rank.phtml?rank_flag=5)Getchu.com
+13. [2004年MOEゲーランキング 総合部門](http://www.getchu.com/pc/rank.phtml?rank_flag=1)Getchu.com
+14. [2004年MOEゲーランキング 映像部門](http://www.getchu.com/pc/rank.phtml?rank_flag=4)Getchu.com
+15. [2004年MOEゲーランキング システム部門](http://www.getchu.com/pc/rank.phtml?rank_flag=5)Getchu.com

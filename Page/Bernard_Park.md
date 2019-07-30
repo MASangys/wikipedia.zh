@@ -1,5 +1,4 @@
-**Bernard
-Park**（）；），原名**朴洛俊**（音譯，\[1\]），是一位美籍韓裔男歌手。他在2013年參加[SBS的音樂選秀節目](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《》中獲得冠軍\[2\]，並簽約為[JYP娛樂旗下男歌手](../Page/JYP娛樂.md "wikilink")。2017年6月以本名NakJoon繼續發展。
+**Bernard Park**（）；），原名**朴洛俊**（音譯，\[1\]），是一位美籍韓裔男歌手。他在2013年參加[SBS的音樂選秀節目](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《》中獲得冠軍\[2\]，並簽約為[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下男歌手。2017年6月以本名NakJoon繼續發展。
 
 ## 音樂作品
 
@@ -186,9 +185,7 @@ Park**（）；），原名**朴洛俊**（音譯，\[1\]），是一位美籍�
   -
   -
   -
-[Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:JYP娛樂旗下個人歌手](https://zh.wikipedia.org/wiki/Category:JYP娛樂旗下個人歌手 "wikilink")
+[Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:JYP娛樂旗下個人歌手](https://zh.wikipedia.org/wiki/Category:JYP娛樂旗下個人歌手 "wikilink")
 
 1.
 2.

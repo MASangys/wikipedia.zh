@@ -54,8 +54,7 @@
 
 ## 評價
 
-根據有限公司Peaks曾發行的業界報《[PC
-NEWS](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")》所公佈的日本全國美少女遊戲銷售量排行榜，《Boin》在首次推出後排名於第三名。\[4\]
+根據有限公司Peaks曾發行的業界報《[PC NEWS](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")》所公佈的日本全國美少女遊戲銷售量排行榜，《Boin》在首次推出後排名於第三名。\[4\]
 
 ## 相關條目
 
@@ -73,14 +72,7 @@ NEWS](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")》所公佈的日本全�
   - [電脳CLUB](http://www.dennoclub.com/)
   - [アンダーリップ](http://www.underlip.jp/)
 
-[Category:2004年日本成人游戏](https://zh.wikipedia.org/wiki/Category:2004年日本成人游戏 "wikilink")
-[Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink")
-[Category:美少女游戏](https://zh.wikipedia.org/wiki/Category:美少女游戏 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:2005年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2005年日本成人動畫 "wikilink")
-[Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink")
-[Category:师生恋题材作品](https://zh.wikipedia.org/wiki/Category:师生恋题材作品 "wikilink")
-[Category:表亲恋情作品](https://zh.wikipedia.org/wiki/Category:表亲恋情作品 "wikilink")
+[Category:2004年日本成人游戏](https://zh.wikipedia.org/wiki/Category:2004年日本成人游戏 "wikilink") [Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink") [Category:美少女游戏](https://zh.wikipedia.org/wiki/Category:美少女游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2005年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2005年日本成人動畫 "wikilink") [Category:教師主角作品](https://zh.wikipedia.org/wiki/Category:教師主角作品 "wikilink") [Category:师生恋题材作品](https://zh.wikipedia.org/wiki/Category:师生恋题材作品 "wikilink") [Category:表亲恋情作品](https://zh.wikipedia.org/wiki/Category:表亲恋情作品 "wikilink")
 
 1.
 2.

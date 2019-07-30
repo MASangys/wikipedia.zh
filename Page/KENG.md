@@ -34,10 +34,7 @@
 ## 外部链接
 
   -
-[Category:1984年出生](https://zh.wikipedia.org/wiki/Category:1984年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:中国漫画家](https://zh.wikipedia.org/wiki/Category:中国漫画家 "wikilink")
-[Category:潮州人](https://zh.wikipedia.org/wiki/Category:潮州人 "wikilink")
+[Category:1984年出生](https://zh.wikipedia.org/wiki/Category:1984年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:中国漫画家](https://zh.wikipedia.org/wiki/Category:中国漫画家 "wikilink") [Category:潮州人](https://zh.wikipedia.org/wiki/Category:潮州人 "wikilink")
 
 1.
 2.  [天降美少女伴你称王！](http://news.sfacg.com/Files/2011-9-14/dcfd2315-cf09-4973-8768-e43198c02225.shtml)

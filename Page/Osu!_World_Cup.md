@@ -1,17 +1,11 @@
-**osu\! World Cup**，通常簡稱
-**OWC**，是多人連線音樂節奏遊戲《[osu\!](https://zh.wikipedia.org/wiki/osu! "wikilink")》的世界級競賽，由《osu\!》賽事團隊主辦，各國的《osu\!》菁英參加的比賽。首屆於
-2011 舉行，從第二屆開始，於每一年的年末 ( 10 月至 12 月) 舉辦，並在 2013
-年起以年次替代屆數。該賽事已衍生出osu\!taiko World
-Cup、osu\!catch World Cup 與 osu\!mania World Cup 等賽事。
+**osu\! World Cup**，通常簡稱 **OWC**，是多人連線音樂節奏遊戲《[osu\!](https://zh.wikipedia.org/wiki/osu! "wikilink")》的世界級競賽，由《osu\!》賽事團隊主辦，各國的《osu\!》菁英參加的比賽。首屆於 2011 舉行，從第二屆開始，於每一年的年末 ( 10 月至 12 月) 舉辦，並在 2013 年起以年次替代屆數。該賽事已衍生出osu\!taiko World Cup、osu\!catch World Cup 與 osu\!mania World Cup 等賽事。
 
 ## 比賽規則
 
 ### 賽事規則
 
 1.  osu\! World Cup系列比赛是以國家為單位的团队比賽，依赛事不同将以osu\!的四种游戏模式之一进行比赛。
-      - osu\! World Cup比賽為4對4，osu\!taiko World Cup和osu\!mania 7K World
-        Cup为2对2，osu\!catch World Cup和osu\!mania 4K World
-        Cup为3对3，但有可能因报名玩家数量而有所變化。
+      - osu\! World Cup比賽為4對4，osu\!taiko World Cup和osu\!mania 7K World Cup为2对2，osu\!catch World Cup和osu\!mania 4K World Cup为3对3，但有可能因报名玩家数量而有所變化。
 2.  计分方式採用 Score V2 。
 3.  每一輪的比賽所使用的比赛圖池都會由选图组（Map Selectors）选定，并在每一轮比赛前一周的週日公佈。
       - 小組賽圖池會在分组抽籤之後公佈。
@@ -66,8 +60,7 @@ Cup、osu\!catch World Cup 與 osu\!mania World Cup 等賽事。
 2.  每支隊伍都将与小組內其他所有隊伍各比赛一场。
 3.  小組排名將會以下列優先級排序每個團隊績效的結果來確定：
       - 获得最多場比赛勝利。
-      - 拥有更高的`{(the number of beatmaps won) - (the number of beatmaps
-        defeated)}`。
+      - 拥有更高的`{(the number of beatmaps won) - (the number of beatmaps defeated)}`。
       - 获得最多局比赛勝利。
       - 拥有更高的`∑{(total score difference) / (maximum score)}`。
       - 重賽勝利者。
@@ -91,8 +84,7 @@ Cup、osu\!catch World Cup 與 osu\!mania World Cup 等賽事。
 ### 比賽說明
 
 1.  裁判將會在比賽開始前15分鐘建立比賽房間，玩家須在開始前進入。
-      - 房間設定為 osu\! 模式,  Team-Vs., Win Condition: 'ScoreV2'. 房間名稱設定為
-        "OWC 2017: (TeamBlue) vs (TeamRed)"。
+      - 房間設定為 osu\! 模式,  Team-Vs., Win Condition: 'ScoreV2'. 房間名稱設定為 "OWC 2017: (TeamBlue) vs (TeamRed)"。
       - 前者必須是藍隊，後者必須為紅隊。
 2.  玩家可以自由選擇兩張熱手譜面，禁止使用具有不當內容的譜面。所以譜面必須是 osu\! 譜面。
 3.  每個隊長可以從圖池中選擇一張譜面，該比賽中將會禁止選取該譜面。
@@ -136,8 +128,7 @@ Cup、osu\!catch World Cup 與 osu\!mania World Cup 等賽事。
 
 ### Loctav 事件
 
-在osu\! World Cup
-2014十六強比賽中的荷蘭隊與澳大利亞隊的比賽中，因賽事管理Loctav在此之前引起爭議地禁言了澳大利亞隊隊員Happyjon，荷蘭隊隊員HappyStick為此對Loctav進行[開玩笑般的挑釁](https://www.bilibili.com/video/av1722224/)，導致他被Loctav禁言且踢出比賽。
+在osu\! World Cup 2014十六強比賽中的荷蘭隊與澳大利亞隊的比賽中，因賽事管理Loctav在此之前引起爭議地禁言了澳大利亞隊隊員Happyjon，荷蘭隊隊員HappyStick為此對Loctav進行[開玩笑般的挑釁](https://www.bilibili.com/video/av1722224/)，導致他被Loctav禁言且踢出比賽。
 
 在台灣隊的比賽當中Loctav又用指令任意移動台灣隊隊員dabanlong在比賽中房間，引起了很多《osu\!》玩家對他的反感。
 
@@ -155,9 +146,7 @@ Cup、osu\!catch World Cup 與 osu\!mania World Cup 等賽事。
 
 ### 種子排序爭議
 
-在osu\! World Cup
-2018小組賽中，非種子（Unseeded）隊伍香港隊在與高種子（High-seeded）隊伍法國隊、低種子（Low-seeded）隊伍墨西哥隊的比賽中接連獲得勝利，使法國隊在小組賽即遭淘汰；又因香港隊隊員的人均表现点数（Performance
-Points，簡稱為PP）雖然在所有參賽選手中相對不高，但是每位選手都實力不俗。這引起了法國隊隊員ThePooN強烈不滿，并對現行種子排序方式是否足夠公平合理提出質疑。
+在osu\! World Cup 2018小組賽中，非種子（Unseeded）隊伍香港隊在與高種子（High-seeded）隊伍法國隊、低種子（Low-seeded）隊伍墨西哥隊的比賽中接連獲得勝利，使法國隊在小組賽即遭淘汰；又因香港隊隊員的人均表现点数（Performance Points，簡稱為PP）雖然在所有參賽選手中相對不高，但是每位選手都實力不俗。這引起了法國隊隊員ThePooN強烈不滿，并對現行種子排序方式是否足夠公平合理提出質疑。
 
 ## 歷屆排名
 
@@ -1229,32 +1218,23 @@ Points，簡稱為PP）雖然在所有參賽選手中相對不高，但是每位
 
   - [Official tournaments](https://osu.ppy.sh/help/wiki/Tournaments/)
 
-  - [osu\! World
-    Cup 2018](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2018)
+  - [osu\! World Cup 2018](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2018)
 
-  - [osu\! World
-    Cup 2017](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2017)
+  - [osu\! World Cup 2017](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2017)
 
-  - [osu\! World
-    Cup 2016](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2016)
+  - [osu\! World Cup 2016](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2016)
 
-  - [osu\! World
-    Cup 2015](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2015)
+  - [osu\! World Cup 2015](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2015)
 
-  - [osu\! World
-    Cup 2014](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014)
+  - [osu\! World Cup 2014](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014)
 
-  - [osu\! World
-    Cup 2013](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2013)
+  - [osu\! World Cup 2013](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2013)
 
-  - [osu\! World Cup
-    \#3](https://osu.ppy.sh/help/wiki/Tournaments/OWC/3)
+  - [osu\! World Cup \#3](https://osu.ppy.sh/help/wiki/Tournaments/OWC/3)
 
-  - [osu\! World Cup
-    \#2](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2)
+  - [osu\! World Cup \#2](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2)
 
-  - [osu\! World Cup
-    \#1](https://osu.ppy.sh/help/wiki/Tournaments/OWC/1)
+  - [osu\! World Cup \#1](https://osu.ppy.sh/help/wiki/Tournaments/OWC/1)
 
   - [osu\!live](http://twitch.tv/osulive)
 
@@ -1262,6 +1242,4 @@ Points，簡稱為PP）雖然在所有參賽選手中相對不高，但是每位
 
 <references group="註" />
 
-[Category:osu\!](https://zh.wikipedia.org/wiki/Category:osu! "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:電子競技賽事](https://zh.wikipedia.org/wiki/Category:電子競技賽事 "wikilink")
+[Category:osu\!](https://zh.wikipedia.org/wiki/Category:osu! "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:電子競技賽事](https://zh.wikipedia.org/wiki/Category:電子競技賽事 "wikilink")

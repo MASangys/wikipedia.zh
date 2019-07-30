@@ -1,11 +1,8 @@
-《**Present**》是韓國演唱團體[Super Junior Donghae &
-Eunhyuk的第一張日語迷你專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，2015年4月1日發行\[1\]。該專輯獲頒第30屆[日本金唱片大獎年度最佳專輯獎](../Page/日本金唱片大獎.md "wikilink")\[2\]。
+《**Present**》是韓國演唱團體[Super Junior Donghae & Eunhyuk的第一張日語迷你專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，2015年4月1日發行\[1\]。該專輯獲頒第30屆[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[2\]。
 
 ## 簡介
 
-Super Junior Donghae & Eunhyuk於2015年4月1日在日本發佈包括主打曲《Saturday
-Night》等8首歌在內的迷你專輯《Present》，同時在4月3日至23日進行第二次日本巡迴演唱會"Super
-Junior D\&E The 2nd Japan Tour 2015 -Present-"。\[3\]
+Super Junior Donghae & Eunhyuk於2015年4月1日在日本發佈包括主打曲《Saturday Night》等8首歌在內的迷你專輯《Present》，同時在4月3日至23日進行第二次日本巡迴演唱會"Super Junior D\&E The 2nd Japan Tour 2015 -Present-"。\[3\]
 
 ## 曲目
 
@@ -105,14 +102,11 @@ Junior D\&E The 2nd Japan Tour 2015 -Present-"。\[3\]
 
 ## 外部連結
 
-  - – 日本官方網站 ([Avex
-    Group](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink"))
+  - – 日本官方網站 ([Avex Group](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink"))
 
   - – 韓國官方網站 ([S.M. Entertainment](../Page/SM娛樂.md "wikilink"))
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink")
 
 1.
 

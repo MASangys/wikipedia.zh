@@ -53,11 +53,8 @@
 
 ## 外部連結
 
-  - [Cyber Station
-    Information](http://www.humetro.busan.kr/cyber/Station_info_new.php?scode=502)
+  - [Cyber Station Information](http://www.humetro.busan.kr/cyber/Station_info_new.php?scode=502)
 
   - 釜山交通公社
 
-[Category:沙上區鐵路車站](https://zh.wikipedia.org/wiki/Category:沙上區鐵路車站 "wikilink")
-[Category:釜山-金海輕電鐵車站](https://zh.wikipedia.org/wiki/Category:釜山-金海輕電鐵車站 "wikilink")
-[Category:2011年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2011年啟用的鐵路車站 "wikilink")
+[Category:沙上區鐵路車站](https://zh.wikipedia.org/wiki/Category:沙上區鐵路車站 "wikilink") [Category:釜山-金海輕電鐵車站](https://zh.wikipedia.org/wiki/Category:釜山-金海輕電鐵車站 "wikilink") [Category:2011年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2011年啟用的鐵路車站 "wikilink")

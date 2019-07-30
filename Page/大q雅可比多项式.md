@@ -1,5 +1,4 @@
-**大q-雅可比多项式**是一个以[基本超几何函数定义的正交多项式](../Page/基本超几何函数.md "wikilink")\[1\]：
-[BIG_Q_JACOBI_2D_Maple_PLOT.gif](https://zh.wikipedia.org/wiki/File:BIG_Q_JACOBI_2D_Maple_PLOT.gif "fig:BIG_Q_JACOBI_2D_Maple_PLOT.gif")
+**大q-雅可比多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的正交多项式\[1\]： [BIG_Q_JACOBI_2D_Maple_PLOT.gif](https://zh.wikipedia.org/wiki/File:BIG_Q_JACOBI_2D_Maple_PLOT.gif "fig:BIG_Q_JACOBI_2D_Maple_PLOT.gif")
 
 \[\displaystyle   P_n(x;a,b,c;q)={}_3\phi_2(q^{-n},abq^{n+1},x;aq,cq;q,q)\]
 

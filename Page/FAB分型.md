@@ -14,8 +14,7 @@
 
   - [急性白血病](https://zh.wikipedia.org/wiki/急性白血病 "wikilink")
 
-[Category:血液学赘生物](https://zh.wikipedia.org/wiki/Category:血液学赘生物 "wikilink")
-[Category:急性白血病](https://zh.wikipedia.org/wiki/Category:急性白血病 "wikilink")
+[Category:血液学赘生物](https://zh.wikipedia.org/wiki/Category:血液学赘生物 "wikilink") [Category:急性白血病](https://zh.wikipedia.org/wiki/Category:急性白血病 "wikilink")
 
 1.
 2.

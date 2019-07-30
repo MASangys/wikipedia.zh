@@ -1,19 +1,14 @@
-《**SKE48
-炸蝦賭場\!**》（）是[日本電視台從](../Page/日本電視台.md "wikilink")2014年10月12日起至2015年1月4日間、每[周日凌晨](https://zh.wikipedia.org/wiki/周日 "wikilink")1:20
--
-1:50（即每[周六深夜](https://zh.wikipedia.org/wiki/周六 "wikilink")）播出的、日本女性偶像團體[SKE48的冠名](../Page/SKE48.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]。
+《**SKE48 炸蝦賭場\!**》（）是[日本電視台](../Page/日本電視台.md "wikilink")從2014年10月12日起至2015年1月4日間、每[周日凌晨](https://zh.wikipedia.org/wiki/周日 "wikilink")1:20 - 1:50（即每[周六深夜](https://zh.wikipedia.org/wiki/周六 "wikilink")）播出的、日本女性偶像團體[SKE48](../Page/SKE48.md "wikilink")的冠名[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]。
 
 ## 簡介
 
-該節目是SKE48與女性[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[大久保佳代子繼](../Page/大久保佳代子.md "wikilink")《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》和《[SKE48
-炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink")》之後、合作的「炸蝦」系列綜藝節目的第三部。
+該節目是SKE48與女性[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[大久保佳代子](../Page/大久保佳代子.md "wikilink")繼《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》和《[SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink")》之後、合作的「炸蝦」系列綜藝節目的第三部。
 
-在大久保佳代子私設的[賭場內](../Page/賭場.md "wikilink")，SKE48的成員們將分組對大久保老闆舉辦的各式各樣「人間比試」結果進行預測，答案錯誤的會受到恐怖的懲罰。
+在大久保佳代子私設的[賭場](../Page/賭場.md "wikilink")內，SKE48的成員們將分組對大久保老闆舉辦的各式各樣「人間比試」結果進行預測，答案錯誤的會受到恐怖的懲罰。
 
-每期節目在電視台播放结束後亦可透過網路、在[Hulu或日本電視台的](../Page/Hulu.md "wikilink")[隨選視訊上進行付費觀看](../Page/隨選視訊.md "wikilink")。\[2\]
+每期節目在電視台播放结束後亦可透過網路、在[Hulu](../Page/Hulu.md "wikilink")或日本電視台的[隨選視訊](../Page/隨選視訊.md "wikilink")上進行付費觀看。\[2\]
 
-作為此前《SKE48 炸蝦商\!》的特別企畫單元「SKE48
-松村香織和谷真理佳的日本列島搭便車之旅」的續集，「電波少年」復活企畫的第二部「**松村香織和谷真理佳的SKE48的懸賞生活〜少女偶像僅靠抽獎能生活下去嗎?〜**」在節目後半段播出，其中未公開的部分將在Hulu上限定放送。
+作為此前《SKE48 炸蝦商\!》的特別企畫單元「SKE48 松村香織和谷真理佳的日本列島搭便車之旅」的續集，「電波少年」復活企畫的第二部「**松村香織和谷真理佳的SKE48的懸賞生活〜少女偶像僅靠抽獎能生活下去嗎?〜**」在節目後半段播出，其中未公開的部分將在Hulu上限定放送。
 
 ## 演出人員
 
@@ -22,12 +17,9 @@
   - MC（老闆）
       - [大久保佳代子](../Page/大久保佳代子.md "wikilink")
   - [SKE48](../Page/SKE48.md "wikilink")
-      - Team
-        S：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")、[犬塚朝奈](https://zh.wikipedia.org/wiki/犬塚朝奈 "wikilink")、[大矢真那](../Page/大矢真那.md "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[後藤理沙子](https://zh.wikipedia.org/wiki/後藤理沙子 "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[竹内舞](https://zh.wikipedia.org/wiki/竹内舞 "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[都築里佳](https://zh.wikipedia.org/wiki/都築里佳 "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[野口由芽](https://zh.wikipedia.org/wiki/野口由芽 "wikilink")、[二村春香](https://zh.wikipedia.org/wiki/二村春香 "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[宮前杏實](https://zh.wikipedia.org/wiki/宮前杏實 "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、[渡辺美優紀](https://zh.wikipedia.org/wiki/渡辺美優紀 "wikilink")
-      - Team
-        KII：[阿比留李帆](../Page/阿比留李帆.md "wikilink")、[荒井優希](https://zh.wikipedia.org/wiki/荒井優希 "wikilink")、[石田安奈](../Page/石田安奈.md "wikilink")、[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[神門沙樹](https://zh.wikipedia.org/wiki/神門沙樹 "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[水埜帆乃香](https://zh.wikipedia.org/wiki/水埜帆乃香 "wikilink")、[山下由加里](https://zh.wikipedia.org/wiki/山下由加里 "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")
-      - Team
-        E：[磯原杏華](../Page/磯原杏華.md "wikilink")、[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")、[岩永亞美](https://zh.wikipedia.org/wiki/岩永亞美 "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[加藤琉美](../Page/加藤琉美.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[小石公美子](https://zh.wikipedia.org/wiki/小石公美子 "wikilink")、[小林亞實](../Page/小林亞實.md "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、[酒井萌衣](https://zh.wikipedia.org/wiki/酒井萌衣 "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")、[柴田阿彌](https://zh.wikipedia.org/wiki/柴田阿彌 "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")
+      - Team S：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")、[犬塚朝奈](https://zh.wikipedia.org/wiki/犬塚朝奈 "wikilink")、[大矢真那](../Page/大矢真那.md "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[後藤理沙子](https://zh.wikipedia.org/wiki/後藤理沙子 "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[竹内舞](https://zh.wikipedia.org/wiki/竹内舞 "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[都築里佳](https://zh.wikipedia.org/wiki/都築里佳 "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[野口由芽](https://zh.wikipedia.org/wiki/野口由芽 "wikilink")、[二村春香](https://zh.wikipedia.org/wiki/二村春香 "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[宮前杏實](https://zh.wikipedia.org/wiki/宮前杏實 "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、[渡辺美優紀](https://zh.wikipedia.org/wiki/渡辺美優紀 "wikilink")
+      - Team KII：[阿比留李帆](../Page/阿比留李帆.md "wikilink")、[荒井優希](https://zh.wikipedia.org/wiki/荒井優希 "wikilink")、[石田安奈](../Page/石田安奈.md "wikilink")、[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[神門沙樹](https://zh.wikipedia.org/wiki/神門沙樹 "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[水埜帆乃香](https://zh.wikipedia.org/wiki/水埜帆乃香 "wikilink")、[山下由加里](https://zh.wikipedia.org/wiki/山下由加里 "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")
+      - Team E：[磯原杏華](../Page/磯原杏華.md "wikilink")、[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")、[岩永亞美](https://zh.wikipedia.org/wiki/岩永亞美 "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[加藤琉美](../Page/加藤琉美.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[小石公美子](https://zh.wikipedia.org/wiki/小石公美子 "wikilink")、[小林亞實](../Page/小林亞實.md "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、[酒井萌衣](https://zh.wikipedia.org/wiki/酒井萌衣 "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")、[柴田阿彌](https://zh.wikipedia.org/wiki/柴田阿彌 "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")
       - 研究生：[青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、[鎌田菜月](../Page/鎌田菜月.md "wikilink")、[佐佐木柚香](https://zh.wikipedia.org/wiki/佐佐木柚香 "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[山田樹奈](https://zh.wikipedia.org/wiki/山田樹奈 "wikilink")
   - 解說員
       - [梶裕貴](../Page/梶裕貴.md "wikilink")
@@ -35,10 +27,7 @@
 
 ### 嘉賓
 
-  - [内田眞由美](https://zh.wikipedia.org/wiki/内田眞由美 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")（二人均為[AKB48成員](../Page/AKB48.md "wikilink")
-    -
-    第2回）、[村重杏奈](../Page/村重杏奈.md "wikilink")（[HKT48成員](../Page/HKT48.md "wikilink")
-    - 第2回）
+  - [内田眞由美](https://zh.wikipedia.org/wiki/内田眞由美 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")（二人均為[AKB48](../Page/AKB48.md "wikilink")成員 - 第2回）、[村重杏奈](../Page/村重杏奈.md "wikilink")（[HKT48](../Page/HKT48.md "wikilink")成員 - 第2回）
 
   - （實況播報員）（第3回、第6回）
 
@@ -197,10 +186,8 @@
 
 ## 相關條目
 
-  - [SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink") -
-    實質的節目前身，SKE48炸蝦系列的第一部。
-  - [SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink") -
-    實質的節目前身，SKE48炸蝦系列的第二部。
+  - [SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink") - 實質的節目前身，SKE48炸蝦系列的第一部。
+  - [SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink") - 實質的節目前身，SKE48炸蝦系列的第二部。
 
 ## 參考文獻
 
@@ -209,10 +196,7 @@
   - [SKE48 炸蝦賭場\!](http://www.ntv.co.jp/ebicalcio/)（日本電視台）
   - [SKE48 炸蝦賭場\! 的Hulu隨選視訊](http://www.hulu.jp/ske48-ebicalcio)
 
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
 
 1.  [SKE×大久保佳代子、私設カジノで人間レース](http://natalie.mu/music/news/127766)
 2.  <http://www.hulu.jp/ske48-ebicalcio>

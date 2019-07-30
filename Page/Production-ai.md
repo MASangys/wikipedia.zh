@@ -2,14 +2,11 @@
 
 ## 概要、沿革
 
-1970年\[2\]，由[龍之子製作公司美術部門出身的新井寅雄創立以專注於背景製作的美術工作室](../Page/龍之子製作公司.md "wikilink")，並由新井就任董事。不過到了1996年左右，新井退任董事，由小山俊久與新井壽代兩人接任繼承。
+1970年\[2\]，由[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")美術部門出身的新井寅雄創立以專注於背景製作的美術工作室，並由新井就任董事。不過到了1996年左右，新井退任董事，由小山俊久與新井壽代兩人接任繼承。
 
 Production-ai雖然是成立至今將近半個世紀的老鋪動畫工作室。不過Production-ai卻在創設幾十年以來不忘記奠定基礎下，背景風格不斷地有很大的變化。1990年代更積極引進電腦數位之技術製作生產背景圖片，廣泛應用在電視動畫、OVA及電影動畫等是眾所皆知的。
 
-早年從電視動畫製作開始承接許多[龍之子和](../Page/龍之子製作公司.md "wikilink")[葦PRODUCTION](../Page/PRODUCTION_REED.md "wikilink")（現已改名PRODUCTION
-REED）的作品。1980年代之後，逐漸向[STUDIO
-DEEN](../Page/STUDIO_DEEN.md "wikilink")、[XEBEC](../Page/XEBEC.md "wikilink")、[日昇動畫和](../Page/日昇動畫.md "wikilink")[BEE
-TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAIN.md "wikilink")。
+早年從電視動畫製作開始承接許多[龍之子和](../Page/龍之子製作公司.md "wikilink")[葦PRODUCTION](../Page/PRODUCTION_REED.md "wikilink")（現已改名PRODUCTION REED）的作品。1980年代之後，逐漸向[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")、[XEBEC](../Page/XEBEC.md "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")和[BEE TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAIN.md "wikilink")。
 
 ## 主要参與作品
 
@@ -57,8 +54,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - [宇宙騎士BLADE](../Page/宇宙騎士BLADE.md "wikilink")（1992年－1993年）
 
-  - [Wake Up,
-    Girls！](../Page/Wake_Up,_Girls!.md "wikilink")（共同製作：[Ordet](../Page/Ordet.md "wikilink")，2014年）
+  - [Wake Up, Girls！](../Page/Wake_Up,_Girls!.md "wikilink")（共同製作：[Ordet](../Page/Ordet.md "wikilink")，2014年）
 
 #### [PRODUCTION REED](../Page/PRODUCTION_REED.md "wikilink")（舊名：葦PRODUCTION）
 
@@ -68,7 +64,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - （1981年）
 
-  - [超獸機神斷空我](../Page/超獸機神.md "wikilink")（1985年）
+  - [超獸機神](../Page/超獸機神.md "wikilink")斷空我（1985年）
 
   - [超音戰士](../Page/超音戰士.md "wikilink")（1988年）
 
@@ -82,8 +78,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - [機甲警察金屬傑克](../Page/機甲警察金屬傑克.md "wikilink")（1991年）
 
-  - [BLUE SEED](../Page/碧奇魂.md "wikilink")（共同製作：[Production
-    I.G](../Page/Production_I.G.md "wikilink")，1994年－1995年）
+  - [BLUE SEED](../Page/碧奇魂.md "wikilink")（共同製作：[Production I.G](../Page/Production_I.G.md "wikilink")，1994年－1995年）
 
   - [超時空要塞7](../Page/超時空要塞7.md "wikilink")（1994年－1995年）
 
@@ -120,8 +115,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
 #### [STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
 
-  - [福星小子](../Page/福星小子.md "wikilink")（由[Studio
-    Pierrot途中轉移](../Page/Studio_Pierrot.md "wikilink")，1981年）
+  - [福星小子](../Page/福星小子.md "wikilink")（由[Studio Pierrot途中轉移](../Page/Studio_Pierrot.md "wikilink")，1981年）
 
   - [相聚一刻](../Page/相聚一刻.md "wikilink")（1986年）
 
@@ -141,8 +135,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - [今日大魔王](https://zh.wikipedia.org/wiki/魔之系列#電視動畫 "wikilink")（2004年－2006年、2008年）
 
-  - [Fate/stay
-    night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（2006年）
+  - [Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（2006年）
 
   - [少年陰陽師](../Page/少年陰陽師.md "wikilink")（2006年－2007年）
 
@@ -164,14 +157,13 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - [機動戰艦](../Page/機動戰艦.md "wikilink")（1996年－1997年）
 
-  - [快傑蒸汽偵探團 TV ANIMATION
-    SERIES](../Page/快傑蒸汽偵探團.md "wikilink")（1998年－1999年）
+  - [快傑蒸汽偵探團 TV ANIMATION SERIES](../Page/快傑蒸汽偵探團.md "wikilink")（1998年－1999年）
 
   - （1999年－2000年）
 
   - [地球防禦企業](https://zh.wikipedia.org/wiki/地球防禦企業 "wikilink")（1999年－2000年）
 
-  - [索斯機械獸系列](../Page/索斯機械獸.md "wikilink")
+  - [索斯機械獸](../Page/索斯機械獸.md "wikilink")系列
 
       - 索斯機械獸（1999年－2001年）
       - [索斯機械獸III](../Page/索斯機械獸III.md "wikilink")（2001年）
@@ -186,8 +178,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
       - 洛克人EXE（2002年－2003年）
       - [洛克人EXE AXESS](../Page/洛克人EXE_AXESS.md "wikilink")（2003年－2004年）
-      - [洛克人EXE
-        Stream](../Page/洛克人EXE_Stream.md "wikilink")（2004年－2005年）
+      - [洛克人EXE Stream](../Page/洛克人EXE_Stream.md "wikilink")（2004年－2005年）
       - [洛克人EXE BEAST](../Page/洛克人EXE_BEAST.md "wikilink")（2005年－2006年）
 
   - [陸上防衛隊](../Page/陸上防衛隊.md "wikilink")（2002年）
@@ -206,7 +197,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - [更多出包王女](../Page/出包王女.md "wikilink")（2010年）
 
-  - [魔劍姬！通](../Page/魔劍姬！.md "wikilink")（2014年）
+  - [魔劍姬！](../Page/魔劍姬！.md "wikilink")通（2014年）
 
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")（2016年）
 
@@ -252,8 +243,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - [無限之住人](../Page/無限之住人.md "wikilink")（2008年）
 
-  - [Phantom -PHANTOM OF
-    INFERNO-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")（2009年）
+  - [Phantom -PHANTOM OF INFERNO-](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")（2009年）
 
   - [心靈偵探 八雲](../Page/心靈偵探_八雲.md "wikilink")（2010年）
 
@@ -272,15 +262,14 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
   - [天地無用！](../Page/天地無用！.md "wikilink")（1995年）
   - 新·天地無用！（1997年）
   - [羅德斯島戰記 -英雄騎士傳-](../Page/羅德斯島戰記-英雄騎士傳-.md "wikilink")（1998年）
-  - [BURN-UP
-    SCRAMBLE](https://zh.wikipedia.org/wiki/殺人科 "wikilink")（2004年）
+  - [BURN-UP SCRAMBLE](https://zh.wikipedia.org/wiki/殺人科 "wikilink")（2004年）
 
 #### [Asread](../Page/Asread.md "wikilink")
 
   - [SHUFFLE！系列](../Page/SHUFFLE!.md "wikilink")
       - SHUFLLE！（2005年）
       - SHUFLLE！MEMORIES（2007年）
-  - [食靈－零－](../Page/食靈.md "wikilink")（共同製作：AIC，2008年）
+  - [食靈](../Page/食靈.md "wikilink")－零－（共同製作：AIC，2008年）
   - [當不成勇者的我，只好認真找工作了。](../Page/當不成勇者的我，只好認真找工作了。.md "wikilink")（2013年）\[3\]
   - [至高指令](../Page/至高指令.md "wikilink")（2016年）
 
@@ -306,7 +295,7 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - （[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")「」動物布偶幼教節目，1988年）
 
-  - [徽章戰士魂](../Page/徽章戰士.md "wikilink")（總承包商：，2000年－2001年）
+  - [徽章戰士](../Page/徽章戰士.md "wikilink")魂（總承包商：，2000年－2001年）
 
   - [銀河戰警](../Page/銀河戰警.md "wikilink")（總承包商：[GONZO](../Page/GONZO.md "wikilink")，2002年－2003年）
 
@@ -318,11 +307,9 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - （總承包商：日昇動畫→，2014年－2015年）
 
-  - [流浪神差
-    ARAGOTO](../Page/流浪神差.md "wikilink")（總承包商：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，2015年）
+  - [流浪神差 ARAGOTO](../Page/流浪神差.md "wikilink")（總承包商：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，2015年）
 
-  - [時空使徒](https://zh.wikipedia.org/wiki/時空使徒 "wikilink")（總承包商：[Creators
-    in Pack](../Page/Creators_in_Pack.md "wikilink")，2016年）
+  - [時空使徒](https://zh.wikipedia.org/wiki/時空使徒 "wikilink")（總承包商：[Creators in Pack](../Page/Creators_in_Pack.md "wikilink")，2016年）
 
   - [王室教師海涅](../Page/王室教師海涅.md "wikilink")（總承包商：[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")，2017年）
 
@@ -338,34 +325,29 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - （1980年）
 
-  - [高橋留美子世界](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")（總承包商：[Studio
-    Pierrot](../Page/Studio_Pierrot.md "wikilink")）
+  - [高橋留美子世界](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")（總承包商：[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")）
 
       - [火焰之旅](../Page/火焰之旅.md "wikilink")（1985年）
       - [The 超女](../Page/The_超女.md "wikilink")（1985年）
       - [微笑標的](../Page/微笑標的.md "wikilink")（1987年）
 
-  - （總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[Victor
-    Entertainment](../Page/勝利娛樂.md "wikilink")，1993年）
+  - （總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[Victor Entertainment](../Page/勝利娛樂.md "wikilink")，1993年）
 
   - [偶像防衛隊](../Page/偶像防衛隊.md "wikilink")（總承包商：[葦Production](../Page/PRODUCTION_REED.md "wikilink")，1994年－1995年）※美術指導。
 
-  - （總承包商：龍之子製作公司、[創通Agency](../Page/創通.md "wikilink")，1994年－1995年）
+  - （總承包商：龍之子製作公司、[創通](../Page/創通.md "wikilink")Agency，1994年－1995年）
 
-  - [純情房東俏房客
-    Again](../Page/純情房東俏房客.md "wikilink")（總承包商：[XEBEC](../Page/XEBEC.md "wikilink")，2002年）
+  - [純情房東俏房客 Again](../Page/純情房東俏房客.md "wikilink")（總承包商：[XEBEC](../Page/XEBEC.md "wikilink")，2002年）
 
   - （總承包商：[BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")，2007年）
 
-  - （總承包商：[Creators in
-    Pack](../Page/Creators_in_Pack.md "wikilink")，2014年）
+  - （總承包商：[Creators in Pack](../Page/Creators_in_Pack.md "wikilink")，2014年）
 
   - WILD ADAPTER -航-（總承包商：Creators in Pack，2015年）
 
 ### 電影動畫
 
-  - [戰國魔神豪將軍
-    時空異邦人](../Page/戰國魔神豪將軍.md "wikilink")（總承包商：[葦PRODUCTION](../Page/PRODUCTION_REED.md "wikilink")，1985年）
+  - [戰國魔神豪將軍 時空異邦人](../Page/戰國魔神豪將軍.md "wikilink")（總承包商：[葦PRODUCTION](../Page/PRODUCTION_REED.md "wikilink")，1985年）
 
   - （總承包商：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")，1986年）
 
@@ -373,27 +355,21 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 
   - 土俵鬼（1994年）
 
-  - [天地無用！in
-    LOVE](../Page/天地無用！.md "wikilink")（總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，1996年）
+  - [天地無用！ LOVE](../Page/天地無用！.md "wikilink")in（總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，1996年）
 
-  - [機動戰艦 -The prince of
-    darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（總承包商：[XEBEC](../Page/XEBEC.md "wikilink")，1998年）
+  - [機動戰艦 -The prince of darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（總承包商：[XEBEC](../Page/XEBEC.md "wikilink")，1998年）
 
   - （總承包商：XEBEC，2005年）
 
-  - [劇場版 Fate/stay night UNLIMITED BLADE
-    WORKS](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（總承包商：STUDIO
-    DEEN，2010年）
+  - [劇場版 Fate/stay night UNLIMITED BLADE WORKS](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（總承包商：STUDIO DEEN，2010年）
 
-  - [ZEGAPAIN
-    ADP](../Page/ZEGAPAIN.md "wikilink")（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，2016年）
+  - [ZEGAPAIN ADP](../Page/ZEGAPAIN.md "wikilink")（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，2016年）
 
 ### 網路動畫
 
   - （總承包商：[Asread](../Page/Asread.md "wikilink")、，2011年）
 
-  - [聖鬥士星矢 黃金魂 -soul of
-    gold-](../Page/聖鬥士星矢_黃金魂_-soul_of_gold-.md "wikilink")（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")，2015年）
+  - [聖鬥士星矢 黃金魂 -soul of gold-](../Page/聖鬥士星矢_黃金魂_-soul_of_gold-.md "wikilink")（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")，2015年）
 
 ## 腳註
 
@@ -409,12 +385,9 @@ TRAIN等總承包商的作品為中心承包背景製作至今](../Page/BEE_TRAI
 ## 外部連結
 
   - [株式會社Production-ai公式官網](http://www17.plala.or.jp/production-ai/)
-  - [Production-ai](https://www.animenewsnetwork.com/encyclopedia/company.php?id=1866)
-    （company）在[動畫新聞網百科全書中的資料](../Page/動畫新聞網.md "wikilink")
+  - [Production-ai](https://www.animenewsnetwork.com/encyclopedia/company.php?id=1866) （company）在[動畫新聞網](../Page/動畫新聞網.md "wikilink")百科全書中的資料
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:1970年成立的公司](https://zh.wikipedia.org/wiki/Category:1970年成立的公司 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:1970年成立的公司](https://zh.wikipedia.org/wiki/Category:1970年成立的公司 "wikilink")
 
 1.
 2.

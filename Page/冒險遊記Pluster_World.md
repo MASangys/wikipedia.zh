@@ -1,4 +1,4 @@
-是[日本的](../Page/日本.md "wikilink")[日本電視動畫的作品](../Page/日本電視動畫.md "wikilink")。全52話。
+是[日本](../Page/日本.md "wikilink")的[日本電視動畫](../Page/日本電視動畫.md "wikilink")的作品。全52話。
 
 ## 故事簡介
 
@@ -42,8 +42,7 @@
   - アソシエイトプロデューサー - 可知秀幸
   - アニメーションプロデューサー - 山東学、木川田清一、南喜長
   - プロデューサー - 笹村武史、高橋知子
-  - アニメーション制作 -
-    [アクタス](../Page/Actas.md "wikilink")、[ブレインズ・ベース](../Page/Brain's_Base.md "wikilink")
+  - アニメーション制作 - [アクタス](../Page/Actas.md "wikilink")、[ブレインズ・ベース](../Page/Brain's_Base.md "wikilink")
   - 製作 - テレビ東京、NAS
 
 ## 主題歌
@@ -642,6 +641,4 @@
 
 ## 外部連結
 
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink")
+[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink")

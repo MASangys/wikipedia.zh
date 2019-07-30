@@ -1,5 +1,4 @@
-**[miss
-A](https://zh.wikipedia.org/wiki/miss_A "wikilink")**是韓國[JYP娛樂旗下四人女子組合](../Page/JYP娛樂.md "wikilink")，現已發行2張錄音室專輯、3張迷你專輯及8首單曲。
+**[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")**是韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下四人女子組合，現已發行2張錄音室專輯、3張迷你專輯及8首單曲。
 
 ## 專輯
 
@@ -822,10 +821,7 @@ A](https://zh.wikipedia.org/wiki/miss_A "wikilink")**是韓國[JYP娛樂旗下�
 
 ## 引用列表
 
-[Category:Miss_A](https://zh.wikipedia.org/wiki/Category:Miss_A "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Miss_A](https://zh.wikipedia.org/wiki/Category:Miss_A "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
 2.

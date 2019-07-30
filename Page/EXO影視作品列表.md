@@ -118,7 +118,7 @@
 | 6月14日－ 9月20日      | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")          | [極限挑戰 第一季](../Page/极限挑战.md "wikilink")                             | Lay                                                             |                                                  |            |
 | 8月21日－9月4日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")－汶萊篇 \[42\] | Chanyeol                                                        | 5-7                                              |            |
 | 2016              | 4月17日－7月3日                                                     | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")              | [極限挑戰 第二季](../Page/极限挑战.md "wikilink")                          | Lay                                              | 全輯         |
-| 4月18日－5月6日        | 網絡綜藝                                                           | 沒有經紀人的旅行                                                           | Xiumin、Chen                                                     | 全8集／[SM娛樂與韓國觀光社聯合製作](../Page/SM娛樂.md "wikilink") |            |
+| 4月18日－5月6日        | 網絡綜藝                                                           | 沒有經紀人的旅行                                                           | Xiumin、Chen                                                     | 全8集／[SM娛樂](../Page/SM娛樂.md "wikilink")與韓國觀光社聯合製作 |            |
 | 2017              | 7月9日 - 11月17日                                                  | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")              | [極限挑戰 第三季](../Page/极限挑战.md "wikilink")                          | Lay                                              | 全輯 （除第4期）  |
 | 8月27日 - 9月10日     | [MBC](../Page/文化廣播公司.md "wikilink")                            | [被子外面很危險](../Page/被子外面很危險.md "wikilink")                           | Xiumin                                                          | 全輯／試播                                            |            |
 | 2018              | 1月19日－4月6日                                                     | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")                | [偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")         | Lay                                              | 全輯／全民製作人代表 |
@@ -1750,7 +1750,7 @@ Chen、Kai</p></td>
 <td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p>2013 <a href="../Page/甜瓜音樂獎.md" title="wikilink">MelOn Music Awards</a></p></td>
 <td><p>Suho、Baekhyun、Chanyeol、Kai</p></td>
-<td><p>與<a href="../Page/李侑菲.md" title="wikilink">李侑菲主持</a></p></td>
+<td><p>與<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>主持</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1831,7 +1831,7 @@ Chen、Kai</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/CNTV" title="wikilink">CNTV</a></p></td>
 <td><p>2015 CCTV網絡春晚</p></td>
 <td><p>Lay</p></td>
-<td><p>與<a href="../Page/柳岩.md" title="wikilink">柳岩主持</a></p></td>
+<td><p>與<a href="../Page/柳岩.md" title="wikilink">柳岩</a>主持</p></td>
 </tr>
 <tr class="even">
 <td><p>3月28日</p></td>
@@ -1974,7 +1974,7 @@ Chen、Kai</p></td>
 <td><p>MBC</p></td>
 <td><p>MBC歌謠大祭典</p></td>
 <td><p>Suho</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/潤娥" title="wikilink">潤娥</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優主持</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/潤娥" title="wikilink">潤娥</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優</a>主持</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2138,15 +2138,12 @@ Chen、Kai</p></td>
 19.
 20.
 21.
-22. [《巧克力銀行》首播，EXO成員Kai首次出演網劇擔正](http://www.vlovekpop.com/%E3%80%8A%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%8A%80%E8%A1%8C%E3%80%8B%E9%A6%96%E6%92%AD%EF%BC%8Cexo%E6%88%90%E5%93%A1kai%E9%A6%96%E6%AC%A1%E5%87%BA%E6%BC%94%E7%B6%B2%E5%8A%87%E6%93%94%E6%AD%A3/)
-    vlovekpop
+22. [《巧克力銀行》首播，EXO成員Kai首次出演網劇擔正](http://www.vlovekpop.com/%E3%80%8A%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%8A%80%E8%A1%8C%E3%80%8B%E9%A6%96%E6%92%AD%EF%BC%8Cexo%E6%88%90%E5%93%A1kai%E9%A6%96%E6%AC%A1%E5%87%BA%E6%BC%94%E7%B6%B2%E5%8A%87%E6%93%94%E6%AD%A3/) vlovekpop
 23.
 24.
-25. [雲集韓流最強陣容！《初吻就七次》這些OPPA你要選哪一個？](http://www.vlovekpop.com/20161127-7kisses/)
-    vlovekpop
+25. [雲集韓流最強陣容！《初吻就七次》這些OPPA你要選哪一個？](http://www.vlovekpop.com/20161127-7kisses/) vlovekpop
 26.
-27. [《Missing 9》確演名單公開！EXO燦烈、崔泰俊引發好奇心！](http://www.vlovekpop.com/20161114-missing9/)
-    vlovekpop
+27. [《Missing 9》確演名單公開！EXO燦烈、崔泰俊引發好奇心！](http://www.vlovekpop.com/20161114-missing9/) vlovekpop
 28.
 29.
 30.

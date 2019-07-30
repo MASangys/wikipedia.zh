@@ -1,5 +1,4 @@
-《**Y
-Angle**》是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的](../Page/電視廣播有限公司.md "wikilink")[青少年資訊節目](../Page/青少年.md "wikilink")，接替同類型節目《[激優一族](../Page/激優一族.md "wikilink")》，於2015年1月17日首播。
+《**Y Angle**》是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[青少年](../Page/青少年.md "wikilink")資訊節目，接替同類型節目《[激優一族](../Page/激優一族.md "wikilink")》，於2015年1月17日首播。
 
 ## 概要
 
@@ -147,24 +146,13 @@ Angle**》是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司�
 
 ## 電視節目的變遷
 
-[Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink")
-[Category:無綫電視資訊節目](https://zh.wikipedia.org/wiki/Category:無綫電視資訊節目 "wikilink")
-[Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink")
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink")
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
-[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")
-[Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
+[Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:無綫電視資訊節目](https://zh.wikipedia.org/wiki/Category:無綫電視資訊節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
 
 1.  [主持之一周奕瑋於Facebook上載佈景照片](https://www.facebook.com/ChowJarvis/photos/a.360713447320643.81428.343078569084131/813901448668505/?type=1)
 2.  [主持之一劉佩玥於Instagram上載佈景照片](http://instagram.com/p/xYG4q6xxv7/?modal=true)
 3.  [主持之一譚嘉儀於Facebook上載佈景照片](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10885601_910648442300355_3882570023776540074_n.jpg?oh=9c5597f16b40b94e7b66c284f8382fa5&oe=5537C93E&__gda__=1432791266_13da27a6fa067faed46db3fd27be4d6f)
-4.  [TVB節目「Y Angle」 – 高得可「攀」 –
-    GoNature](https://www.gonaturehk.com/zh/tvb%E7%AF%80%E7%9B%AEy-angle-%E9%AB%98%E5%BE%97%E5%8F%AF%E3%80%8C%E6%94%80%E3%80%8D/)
-5.  [TVB 《Y
-    Angle》AASFP「型」象代言人家衡教你家居消脂運動！](https://www.aasfp.hk/index.php/en/news-en/tvb-%E3%80%8Ay-angle%E3%80%8Baasfp%E3%80%8C%E5%9E%8B%E3%80%8D%E8%B1%A1%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%AE%B6%E8%A1%A1%E6%95%99%E4%BD%A0%E5%AE%B6%E5%B1%85%E6%B6%88%E8%84%82%E9%81%8B%E5%8B%95%EF%BC%81)
-6.  [業餘龍"Y Angle" 訪問 -
-    主頁](http://www.dragonboathk.com/db-clubs-mtw/item/688-https-vimeo-com-130605099)
+4.  [TVB節目「Y Angle」 – 高得可「攀」 – GoNature](https://www.gonaturehk.com/zh/tvb%E7%AF%80%E7%9B%AEy-angle-%E9%AB%98%E5%BE%97%E5%8F%AF%E3%80%8C%E6%94%80%E3%80%8D/)
+5.  [TVB 《Y Angle》AASFP「型」象代言人家衡教你家居消脂運動！](https://www.aasfp.hk/index.php/en/news-en/tvb-%E3%80%8Ay-angle%E3%80%8Baasfp%E3%80%8C%E5%9E%8B%E3%80%8D%E8%B1%A1%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%AE%B6%E8%A1%A1%E6%95%99%E4%BD%A0%E5%AE%B6%E5%B1%85%E6%B6%88%E8%84%82%E9%81%8B%E5%8B%95%EF%BC%81)
+6.  [業餘龍"Y Angle" 訪問 - 主頁](http://www.dragonboathk.com/db-clubs-mtw/item/688-https-vimeo-com-130605099)
 7.  [陳潔玲5年拍足35部劇終遺憾離巢搵新機會：公司人太多](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/91107/%E9%99%B3%E6%BD%94%E7%8E%B25%E5%B9%B4%E6%8B%8D%E8%B6%B335%E9%83%A8%E5%8A%87-%E7%B5%82%E9%81%BA%E6%86%BE%E9%9B%A2%E5%B7%A2%E6%90%B5%E6%96%B0%E6%A9%9F%E6%9C%83-%E5%85%AC%E5%8F%B8%E4%BA%BA%E5%A4%AA%E5%A4%9A)
-8.  [今日TVB
-    有位靚女主持嚟採訪介紹Zentangle！](http://www.inorartanddesign.com/single-post/2016/03/09/%E4%BB%8A%E6%97%A5TVB-%E6%9C%89%E4%BD%8D%E9%9D%9A%E5%A5%B3%E4%B8%BB%E6%8C%81%E5%9A%9F%E6%8E%A1%E8%A8%AA%E4%BB%8B%E7%B4%B9Zentangle%EF%BC%81)
+8.  [今日TVB 有位靚女主持嚟採訪介紹Zentangle！](http://www.inorartanddesign.com/single-post/2016/03/09/%E4%BB%8A%E6%97%A5TVB-%E6%9C%89%E4%BD%8D%E9%9D%9A%E5%A5%B3%E4%B8%BB%E6%8C%81%E5%9A%9F%E6%8E%A1%E8%A8%AA%E4%BB%8B%E7%B4%B9Zentangle%EF%BC%81)

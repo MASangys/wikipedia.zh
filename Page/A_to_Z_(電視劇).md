@@ -1,6 +1,4 @@
-《**A to
-Z**》為一部由創造的美國浪漫喜劇影集，並由其與、共同擔任執行製作，[華納兄弟電視公司製作](../Page/華納兄弟電視公司.md "wikilink")。\[1\]
-本劇在2014年10月2日晚間9點30分（[ET](https://zh.wikipedia.org/wiki/北美東部時區 "wikilink")）／晚間8點30分（[CT](https://zh.wikipedia.org/wiki/北美中部時區 "wikilink")）於[NBC首播](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")，為[2014年－2015年美國電視季度的首播影集](https://zh.wikipedia.org/wiki/2014年－2015年美國電視網節目表 "wikilink")。\[2\]\[3\]2014年10月31日，NBC宣布取消本劇，但預計會將預定的13集全數播完。2015年1月22日本劇正式落幕。
+《**A to Z**》為一部由創造的美國浪漫喜劇影集，並由其與、共同擔任執行製作，[華納兄弟電視公司](../Page/華納兄弟電視公司.md "wikilink")製作。\[1\] 本劇在2014年10月2日晚間9點30分（[ET](https://zh.wikipedia.org/wiki/北美東部時區 "wikilink")）／晚間8點30分（[CT](https://zh.wikipedia.org/wiki/北美中部時區 "wikilink")）於[NBC首播](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")，為[2014年－2015年美國電視季度的首播影集](https://zh.wikipedia.org/wiki/2014年－2015年美國電視網節目表 "wikilink")。\[2\]\[3\]2014年10月31日，NBC宣布取消本劇，但預計會將預定的13集全數播完。2015年1月22日本劇正式落幕。
 
 ## 故事
 
@@ -99,9 +97,7 @@ Z**》為一部由創造的美國浪漫喜劇影集，並由其與、共同擔�
 
 ## 評價
 
-《A to
-Z》首播後頗受好評。在[Metacritic的評論中](../Page/Metacritic.md "wikilink")，本劇在24位評論者於滿分100分下獲得66分，並給予“整體良好”的評價。\[4\]於[爛番茄的評論中](../Page/爛番茄.md "wikilink"),
-則獲得67%新鮮度、6.3/10分（48名評論家）。\[5\]
+《A to Z》首播後頗受好評。在[Metacritic](../Page/Metacritic.md "wikilink")的評論中，本劇在24位評論者於滿分100分下獲得66分，並給予“整體良好”的評價。\[4\]於[爛番茄](../Page/爛番茄.md "wikilink")的評論中, 則獲得67%新鮮度、6.3/10分（48名評論家）。\[5\]
 
 ## 集數
 
@@ -471,16 +467,7 @@ Z》首播後頗受好評。在[Metacritic的評論中](../Page/Metacritic.md "w
 
   -
   -
-[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")
-[Category:2014年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2014年開播的美國電視影集 "wikilink")
-[Category:2015年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年停播的美國電視影集 "wikilink")
-[Category:美國電視情景喜劇](https://zh.wikipedia.org/wiki/Category:美國電視情景喜劇 "wikilink")
-[Category:美國電視喜劇](https://zh.wikipedia.org/wiki/Category:美國電視喜劇 "wikilink")
-[Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink")
-[Category:NBC電視節目](https://zh.wikipedia.org/wiki/Category:NBC電視節目 "wikilink")
-[Category:非直線敘事電視影集](https://zh.wikipedia.org/wiki/Category:非直線敘事電視影集 "wikilink")
-[Category:浪漫喜劇題材電視劇](https://zh.wikipedia.org/wiki/Category:浪漫喜劇題材電視劇 "wikilink")
-[Category:華納兄弟電視公司製作的電視節目](https://zh.wikipedia.org/wiki/Category:華納兄弟電視公司製作的電視節目 "wikilink")
+[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:2014年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2014年開播的美國電視影集 "wikilink") [Category:2015年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2015年停播的美國電視影集 "wikilink") [Category:美國電視情景喜劇](https://zh.wikipedia.org/wiki/Category:美國電視情景喜劇 "wikilink") [Category:美國電視喜劇](https://zh.wikipedia.org/wiki/Category:美國電視喜劇 "wikilink") [Category:英語電視劇](https://zh.wikipedia.org/wiki/Category:英語電視劇 "wikilink") [Category:NBC電視節目](https://zh.wikipedia.org/wiki/Category:NBC電視節目 "wikilink") [Category:非直線敘事電視影集](https://zh.wikipedia.org/wiki/Category:非直線敘事電視影集 "wikilink") [Category:浪漫喜劇題材電視劇](https://zh.wikipedia.org/wiki/Category:浪漫喜劇題材電視劇 "wikilink") [Category:華納兄弟電視公司製作的電視節目](https://zh.wikipedia.org/wiki/Category:華納兄弟電視公司製作的電視節目 "wikilink")
 
 1.
 2.

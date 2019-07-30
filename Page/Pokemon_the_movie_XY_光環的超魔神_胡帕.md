@@ -1,8 +1,6 @@
-《**光環的超魔神
-胡帕**》，是[神奇寶貝動畫版的第十八部](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")、同時是XY系列的第二部電影版。標語為「**傳說V.S.傳說！史上最壯烈的對戰即將開始！！**」。
+《**光環的超魔神 胡帕**》，是[神奇寶貝動畫版的第十八部](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")、同時是XY系列的第二部電影版。標語為「**傳說V.S.傳說！史上最壯烈的對戰即將開始！！**」。
 
-於2015年7月18日在日本上映。台灣於2015年11月20日上映，澳洲的上映日期是2015年11月5日，英國的播放日期是2015年12月18日。
-\[1\]
+於2015年7月18日在日本上映。台灣於2015年11月20日上映，澳洲的上映日期是2015年11月5日，英國的播放日期是2015年12月18日。 \[1\]
 
 一百年前，沙漠城市「荒漠市」因寶可夢們的對戰而蒙受極大損害，這場對戰的開端，則源自某隻寶可夢的存在。然而這隻寶可夢遭到某個人封印，如今荒漠市已恢復以往的寧靜。
 
@@ -12,8 +10,7 @@
 
 這時，有著相同氣息的傳說的寶可夢出現了！原始固拉多、原始蓋歐卡、帝牙盧卡、帕路奇亞、騎拉帝納，還有酋雷姆也都出現。這樣下去，荒漠市會有危險。
 
-胡帕為了保護荒漠市，用光環讓全新的傳說的寶可夢「降臨」,
-小智等人是否能和胡帕安排降臨的傳說的寶可夢們，共同守護荒漠市呢，而這股邪惡力量究竟為何？傳說對傳說，此刻，史上最壯烈的對戰即將開始！
+胡帕為了保護荒漠市，用光環讓全新的傳說的寶可夢「降臨」, 小智等人是否能和胡帕安排降臨的傳說的寶可夢們，共同守護荒漠市呢，而這股邪惡力量究竟為何？傳說對傳說，此刻，史上最壯烈的對戰即將開始！
 
 ## 場景
 
@@ -88,7 +85,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>原始<a href="https://zh.wikipedia.org/wiki/蓋歐卡" title="wikilink">蓋歐卡</a>（ゲンシカイオーガ）</p></td>
+<td><p>原始<a href="../Page/蓋歐卡.md" title="wikilink">蓋歐卡</a>（ゲンシカイオーガ）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -143,8 +140,7 @@
 ## 主題曲
 
   - 片尾曲：「'''Tweedia」
-      - 作詞：Kenji Tamai,Akiko.N / 作曲·編曲：Kenji Tamai,Masahiro Tobinai /
-        歌：安田レイ （SME Records）
+      - 作詞：Kenji Tamai,Akiko.N / 作曲·編曲：Kenji Tamai,Masahiro Tobinai / 歌：安田レイ （SME Records）
 
 ## 副篇與相關作品
 
@@ -167,8 +163,7 @@
 
   - [Pokemon the movie XY 光環的超魔神 胡帕官網](http://www.pokemon-movie.jp/)
 
-  - [Pokemon the movie XY 光環的超魔神
-    胡帕官網](https://www.pokemon.com.tw/Movie18/)
+  - [Pokemon the movie XY 光環的超魔神 胡帕官網](https://www.pokemon.com.tw/Movie18/)
 
   -
   -
@@ -176,8 +171,6 @@
 
   -
   -
-[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink")
-[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink") [Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
 1.

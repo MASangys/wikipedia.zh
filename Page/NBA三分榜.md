@@ -1182,11 +1182,6 @@
 
 1.
 
-2.  A player is not eligible for induction into the [Naismith Memorial
-    Basketball Hall of
-    Fame](https://zh.wikipedia.org/wiki/Naismith_Memorial_Basketball_Hall_of_Fame "wikilink")
-    until he has been fully retired for four calendar years (reduced
-    from five in 2015); player was not eligible for induction upon the
-    commencement of the  NBA season.
+2.  A player is not eligible for induction into the [Naismith Memorial Basketball Hall of Fame](https://zh.wikipedia.org/wiki/Naismith_Memorial_Basketball_Hall_of_Fame "wikilink") until he has been fully retired for four calendar years (reduced from five in 2015); player was not eligible for induction upon the commencement of the  NBA season.
 
 3.

@@ -1,10 +1,5 @@
-《**[The
-Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（），是韓國[TVN電視台的心理戰遊戲綜藝節目](../Page/TVN.md "wikilink")《[The
-Genius](../Page/The_Genius.md "wikilink")》系列第三季，逢周三晚間11點30分（韓國時間）播出，邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]\[2\]
-《**[The
-Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第七回合於2014年11月5日首播。該回合的主要競賽
-(Main Match)是《星座遊戲》（），死亡競賽 (Death Match)是《12格象棋》（）。該回合舉行了黑色任務(Black
-Mission)，而黑色任務是《記憶遊戲》（）
+《**[The Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（），是韓國[TVN](../Page/TVN.md "wikilink")電視台的心理戰遊戲綜藝節目《[The Genius](../Page/The_Genius.md "wikilink")》系列第三季，逢周三晚間11點30分（韓國時間）播出，邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]\[2\]
+《**[The Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第七回合於2014年11月5日首播。該回合的主要競賽 (Main Match)是《星座遊戲》（），死亡競賽 (Death Match)是《12格象棋》（）。該回合舉行了黑色任務(Black Mission)，而黑色任務是《記憶遊戲》（）
 本回合優勝者為：
 **河戀姝**
 本回合最終淘汰者為：
@@ -69,10 +64,10 @@ Mission)，而黑色任務是《記憶遊戲》（）
 | 石榴石數目 | 45        | <span style=color:red>+5   | 50        | 7       | <span style=color:blue>-2 | 5         |
 
 **注解**
-因為河戀姝完成了三個星座，所以河戀姝獲得三個石榴石。
-李鐘範將石榴石給予河戀姝托管。
-每名玩家完成了三個星座，各獲得一個石榴石。
-張東民將第六回合勝出獲得的石榴石的一半給予吳賢玟。
+ 因為河戀姝完成了三個星座，所以河戀姝獲得三個石榴石。
+ 李鐘範將石榴石給予河戀姝托管。
+ 每名玩家完成了三個星座，各獲得一個石榴石。
+ 張東民將第六回合勝出獲得的石榴石的一半給予吳賢玟。
 
 ## 黑色任務：記憶遊戲
 
@@ -137,20 +132,16 @@ Mission)，而黑色任務是《記憶遊戲》（）
 | 石榴石數目 | 50        | 0                         | 50        | 5         | <span style=color:red>+1  | 6         |
 
 **注解**
-河戀姝根據李鐘範的意願將李鐘範托管的石榴石平均分給金宥賢和崔連勝。
-河戀姝根據李鐘範的意願將李鐘範托管的黑色石榴石給予張東民。
+ 河戀姝根據李鐘範的意願將李鐘範托管的石榴石平均分給金宥賢和崔連勝。
+ 河戀姝根據李鐘範的意願將李鐘範托管的黑色石榴石給予張東民。
 
 ## 資料來源
 
 <references />
 
-節目內容、參賽者資料、遊戲規則資訊來自 [The Genius
-遊戲的法則官方網站](http://thegenius.interest.me/)
+節目內容、參賽者資料、遊戲規則資訊來自 [The Genius 遊戲的法則官方網站](http://thegenius.interest.me/)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink")
-[Category:The_Genius](https://zh.wikipedia.org/wiki/Category:The_Genius "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink") [Category:The_Genius](https://zh.wikipedia.org/wiki/Category:The_Genius "wikilink")
 
 1.  <http://program.interest.me/tvn/thegenius3/17/Contents/Html?h_seq=1>
 2.  <https://mirror.enha.kr/wiki/더%20지니어스%3A블랙가넷/1화>

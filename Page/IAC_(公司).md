@@ -1,23 +1,14 @@
-**IAC/InterActiveCorp**（亦稱：**IAC**）是一家美國互聯網公司，在全球100多個國家持有150多個商標。\[1\]
-其總部位於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。\[2\]
+**IAC/InterActiveCorp**（亦稱：**IAC**）是一家美國互聯網公司，在全球100多個國家持有150多個商標。\[1\] 其總部位於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。\[2\]
 
 ## 歷史
 
-IAC形成于1986年，當時稱銀王廣播公司（Silver King Broadcasting Company），是家庭購物網絡（Home
-Shopping
-Network）的子公司。1992年獨立上市，1995年8月[巴里·迪勒買下銀王廣播公司的控股權](https://zh.wikipedia.org/wiki/巴里·迪勒 "wikilink")。\[3\]
-一年後銀王與家庭購物網絡合併，加上收購“Savoy Pictures Entertainment”，從而形成新的HSN公司（HSN,
-Inc）。\[4\]
+IAC形成于1986年，當時稱銀王廣播公司（Silver King Broadcasting Company），是家庭購物網絡（Home Shopping Network）的子公司。1992年獨立上市，1995年8月[巴里·迪勒買下銀王廣播公司的控股權](https://zh.wikipedia.org/wiki/巴里·迪勒 "wikilink")。\[3\] 一年後銀王與家庭購物網絡合併，加上收購“Savoy Pictures Entertainment”，從而形成新的HSN公司（HSN, Inc）。\[4\]
 
-HSN公司在1990年代末兼並了其他幾家公司，\[5\]\[6\] 1998年改名為USA網絡公司（USA Networks,
-Inc.）。\[7\]\[8\]
+HSN公司在1990年代末兼並了其他幾家公司，\[5\]\[6\] 1998年改名為USA網絡公司（USA Networks, Inc.）。\[7\]\[8\]
 
-2000年代早期開始轉向發展互聯網產業，2002年5月改名“USA
-Interactive”、2003年6月改名“InterActiveCorp”、2004年7月改現名“IAC/InterActiveCorp”。\[9\]
+2000年代早期開始轉向發展互聯網產業，2002年5月改名“USA Interactive”、2003年6月改名“InterActiveCorp”、2004年7月改現名“IAC/InterActiveCorp”。\[9\]
 
-2017年5月14日IAC以約5億美元的價格收購消費者點評網站 Angie's
-List，並把旗下的點評網站HomeAdvisor與Angie’s
-List合併，成立新公司ANGI Homeservices Inc.
+2017年5月14日IAC以約5億美元的價格收購消費者點評網站 Angie's List，並把旗下的點評網站HomeAdvisor與Angie’s List合併，成立新公司ANGI Homeservices Inc.
 
 ## 產業
 
@@ -30,8 +21,7 @@ List合併，成立新公司ANGI Homeservices Inc.
   - [Citysearch](https://zh.wikipedia.org/wiki/Citysearch "wikilink")
   - [Dictionary.com](https://zh.wikipedia.org/wiki/Dictionary.com "wikilink")
   - [Investopedia](https://zh.wikipedia.org/wiki/Investopedia "wikilink")
-  - [Mindspark Interactive
-    Network](https://zh.wikipedia.org/wiki/Mindspark_Interactive_Network "wikilink")
+  - [Mindspark Interactive Network](https://zh.wikipedia.org/wiki/Mindspark_Interactive_Network "wikilink")
   - [PriceRunner](https://zh.wikipedia.org/wiki/PriceRunner "wikilink")
   - [Reference.com](https://zh.wikipedia.org/wiki/Reference.com "wikilink")
 
@@ -39,8 +29,7 @@ List合併，成立新公司ANGI Homeservices Inc.
 
   - [CollegeHumor](https://zh.wikipedia.org/wiki/CollegeHumor "wikilink")
   - [Electus](https://zh.wikipedia.org/wiki/Electus "wikilink")
-  - [The Daily
-    Beast](https://zh.wikipedia.org/wiki/The_Daily_Beast "wikilink")
+  - [The Daily Beast](https://zh.wikipedia.org/wiki/The_Daily_Beast "wikilink")
   - [Vimeo](../Page/Vimeo.md "wikilink")
 
 ### 電子商務
@@ -58,12 +47,10 @@ List合併，成立新公司ANGI Homeservices Inc.
   - [OkCupid](https://zh.wikipedia.org/wiki/OkCupid "wikilink")
   - OurTime.com
   - ParPerfeito
-  - [People
-    Media](https://zh.wikipedia.org/wiki/People_Media "wikilink")
+  - [People Media](https://zh.wikipedia.org/wiki/People_Media "wikilink")
   - [SpeedDate.com](https://zh.wikipedia.org/wiki/SpeedDate.com "wikilink")
   - [Tinder](https://zh.wikipedia.org/wiki/Tinder_\(app\) "wikilink")
-  - [The Princeton
-    Review](https://zh.wikipedia.org/wiki/The_Princeton_Review "wikilink")
+  - [The Princeton Review](https://zh.wikipedia.org/wiki/The_Princeton_Review "wikilink")
   - [Tutor.com](https://zh.wikipedia.org/wiki/Tutor.com "wikilink")
   - [Twoo](https://zh.wikipedia.org/wiki/Twoo "wikilink")
 
@@ -72,10 +59,7 @@ List合併，成立新公司ANGI Homeservices Inc.
 ## 外部連結
 
   -
-[Category:IAC_(公司)](https://zh.wikipedia.org/wiki/Category:IAC_\(公司\) "wikilink")
-[Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")
-[Category:總部位於紐約市的公司](https://zh.wikipedia.org/wiki/Category:總部位於紐約市的公司 "wikilink")
-[Category:美國互聯網公司](https://zh.wikipedia.org/wiki/Category:美國互聯網公司 "wikilink")
+[Category:IAC_(公司)](https://zh.wikipedia.org/wiki/Category:IAC_\(公司\) "wikilink") [Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink") [Category:總部位於紐約市的公司](https://zh.wikipedia.org/wiki/Category:總部位於紐約市的公司 "wikilink") [Category:美國互聯網公司](https://zh.wikipedia.org/wiki/Category:美國互聯網公司 "wikilink")
 
 1.
 2.

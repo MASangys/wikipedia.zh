@@ -1,11 +1,6 @@
-**UNIQ**（）是[乐华娱乐推出的中韩男子团体](../Page/乐华娱乐.md "wikilink")，成員包括中國籍的[周藝軒](../Page/周藝軒.md "wikilink")、[李汶翰](../Page/李汶翰.md "wikilink")、[王一博](https://zh.wikipedia.org/wiki/王一博 "wikilink")，韓國籍的[金聖柱](../Page/金聖柱.md "wikilink")、[曹承衍](../Page/曹承衍.md "wikilink")。2014年10月16日，於韩國[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》，表演出道舞台。2014年10月20日，發行出道单曲《**Falling
-In Love**》音源。
+**UNIQ**（）是[乐华娱乐](../Page/乐华娱乐.md "wikilink")推出的中韩男子团体，成員包括中國籍的[周藝軒](../Page/周藝軒.md "wikilink")、[李汶翰](../Page/李汶翰.md "wikilink")、[王一博](https://zh.wikipedia.org/wiki/王一博 "wikilink")，韓國籍的[金聖柱](../Page/金聖柱.md "wikilink")、[曹承衍](../Page/曹承衍.md "wikilink")。2014年10月16日，於韩國[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》，表演出道舞台。2014年10月20日，發行出道单曲《**Falling In Love**》音源。
 
-團名「UNIQ」結合「UNIQUE (獨特)」以及「UNICORN
-(獨角獸)」的英文單字，期許團體能夠成為樂壇「獨一無二的存在」，並以獨角獸的純潔、高傲，作為團體的精神象徵。官方歌迷名稱亦是「UNICORN（獨角獸）」。團體問候口號是「大家好\!我們是U
-& I，UNIQ\!」\[1\]\[2\]\[3\] 官方應援色是富有浪漫色彩的「星空紫」。\[4\]
-官方應援物是「獨角獸紫星」應援燈。\[5\]
+團名「UNIQ」結合「UNIQUE (獨特)」以及「UNICORN (獨角獸)」的英文單字，期許團體能夠成為樂壇「獨一無二的存在」，並以獨角獸的純潔、高傲，作為團體的精神象徵。官方歌迷名稱亦是「UNICORN（獨角獸）」。團體問候口號是「大家好\!我們是U & I，UNIQ\!」\[1\]\[2\]\[3\] 官方應援色是富有浪漫色彩的「星空紫」。\[4\] 官方應援物是「獨角獸紫星」應援燈。\[5\]
 
 ## 成員資料
 
@@ -21,26 +16,13 @@ In Love**》音源。
 
 ## 經歷
 
-UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，出道前曾與[YG娛樂合作訓練](../Page/YG娛樂.md "wikilink")，聖柱與承衍原為YG練習生，其後成為UNIQ出道組，各成員練習4至5年不等。\[6\]\[7\]\[8\]
+UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，出道前曾與[YG娛樂](../Page/YG娛樂.md "wikilink")合作訓練，聖柱與承衍原為YG練習生，其後成為UNIQ出道組，各成員練習4至5年不等。\[6\]\[7\]\[8\]
 
-2014年9月15日，公開出道預告。 10月10日，GQ style雜誌個人畫報發布。
-10月16日，組合登陸[韓國節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》作為首次放送舞台，正式開始[韓國的宣傳活動](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
-10月20日，組合首支單曲《**Falling In Love**》中韓雙版公開。
-10月24日，美國電影《[忍者神龜：變種時代](https://zh.wikipedia.org/wiki/忍者神龜：變種時代 "wikilink")》主題曲《**Born
-To Fight**》MV首發。
-11月3日，[樂華娛樂宣布旗下新人團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")[UNIQ官方會員俱樂部正式建立](../Page/UNIQ.md "wikilink")。
-11月7日，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")《[馬達加斯加的企鵝](../Page/馬達加斯加的企鵝.md "wikilink")》中文主題曲《Celebrate》推出。
+2014年9月15日，公開出道預告。 10月10日，GQ style雜誌個人畫報發布。 10月16日，組合登陸[韓國節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》作為首次放送舞台，正式開始[韓國的宣傳活動](https://zh.wikipedia.org/wiki/韓國 "wikilink")。 10月20日，組合首支單曲《**Falling In Love**》中韓雙版公開。 10月24日，美國電影《[忍者神龜：變種時代](https://zh.wikipedia.org/wiki/忍者神龜：變種時代 "wikilink")》主題曲《**Born To Fight**》MV首發。 11月3日，[樂華娛樂宣布旗下新人團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")[UNIQ](../Page/UNIQ.md "wikilink")官方會員俱樂部正式建立。 11月7日，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")《[馬達加斯加的企鵝](../Page/馬達加斯加的企鵝.md "wikilink")》中文主題曲《Celebrate》推出。
 
-2014年11月23日、25日組合分別在[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[中國舉辦粉絲見面會](../Page/中國.md "wikilink")，正式開啟了[中國的宣傳行程](../Page/中國.md "wikilink")。
-11月25日，UNIQ舉辦「獨一無二」中國大陸首場FanMeeting，作為中國大陸的出道舞台，正式宣告開始中國大陸的宣傳行程。是韓庚、周筆暢、安又琪、黃征、阿蘭等當紅歌手的師弟，獲范冰冰、何炅等大牌力捧力薦。
-11月26日，組合赴[台灣進行宣傳活動](https://zh.wikipedia.org/wiki/台灣 "wikilink")，行程涵蓋綜藝、電台、雜誌、報刊。
-12月6日，參加《尖叫2015-愛奇藝之夜頒獎盛典》，同時摘得2015最具期待組合獎。
+2014年11月23日、25日組合分別在[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[中國](../Page/中國.md "wikilink")舉辦粉絲見面會，正式開啟了[中國](../Page/中國.md "wikilink")的宣傳行程。 11月25日，UNIQ舉辦「獨一無二」中國大陸首場FanMeeting，作為中國大陸的出道舞台，正式宣告開始中國大陸的宣傳行程。是韓庚、周筆暢、安又琪、黃征、阿蘭等當紅歌手的師弟，獲范冰冰、何炅等大牌力捧力薦。 11月26日，組合赴[台灣進行宣傳活動](https://zh.wikipedia.org/wiki/台灣 "wikilink")，行程涵蓋綜藝、電台、雜誌、報刊。 12月6日，參加《尖叫2015-愛奇藝之夜頒獎盛典》，同時摘得2015最具期待組合獎。
 
-2015年3月7日，組合前往[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷舉辦泰國粉絲首場見面會](../Page/曼谷.md "wikilink")。
-4月22日，UNIQ於韓國MBC音樂節目《Show Champion》回歸，演唱首張迷你專輯主打歌《EOEO》。
-4月23日，組合參加《[酷音樂亞洲盛典](https://zh.wikipedia.org/wiki/酷音樂亞洲盛典 "wikilink")》獲得年度內地最佳新人獎獎項。
-4月24日，組合首張迷你專輯《EOEO優+》中韓雙版公開。 10月16日，組合第二張數位單曲《Best Friend》公開。
+2015年3月7日，組合前往[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")舉辦泰國粉絲首場見面會。 4月22日，UNIQ於韓國MBC音樂節目《Show Champion》回歸，演唱首張迷你專輯主打歌《EOEO》。 4月23日，組合參加《[酷音樂亞洲盛典](https://zh.wikipedia.org/wiki/酷音樂亞洲盛典 "wikilink")》獲得年度內地最佳新人獎獎項。 4月24日，組合首張迷你專輯《EOEO優+》中韓雙版公開。 10月16日，組合第二張數位單曲《Best Friend》公開。
 
 2018年4月19日，組合第三張數位單曲《不曾離開過》公開。 12月24日，第四張數位單曲《Monster》公開。
 
@@ -273,13 +255,13 @@ To Fight**》MV首發。
 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [人间至味是清欢](../Page/人间至味是清欢.md "wikilink")                      | 王一博                                                           | 瞿至味  | 第二男主角 |       |
 | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink")   | [名不虛傳](../Page/名不虛傳.md "wikilink")                            | 金聖柱                                                           | 金旼載  | 男配角   |       |
 | 2018年                                                 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | [瘋了，因為你！](../Page/瘋了，因為你！.md "wikilink")                      | 金聖柱  | 尹熙南   | 男配角   |
-| [爱奇艺网剧](../Page/爱奇艺.md "wikilink")                    | [熱血狂籃](https://zh.wikipedia.org/wiki/熱血狂籃 "wikilink")         | 李汶翰                                                           | 裴晨皓  | 男配角   |       |
+| [爱奇艺](../Page/爱奇艺.md "wikilink")网剧                    | [熱血狂籃](https://zh.wikipedia.org/wiki/熱血狂籃 "wikilink")         | 李汶翰                                                           | 裴晨皓  | 男配角   |       |
 | 周藝軒                                                   | 乔子俊                                                           | 客串                                                            |      |       |       |
 | [優酷網劇](https://zh.wikipedia.org/wiki/優酷 "wikilink")   | [想看你微笑](../Page/想看你微笑.md "wikilink")                          | 李汶翰                                                           | 舒湛   | 第一男主角 |       |
 | [優酷網劇](https://zh.wikipedia.org/wiki/優酷 "wikilink")   | 熱血書院                                                          | 李汶翰                                                           | 李璟玉  | 男配角   |       |
 | MBC                                                   | [我身後的陶斯](../Page/我身後的陶斯.md "wikilink")                        | 金聖柱                                                           | 羅斗宇  | 男配角   |       |
 | 2019年                                                 | 芒果TV                                                          | 陪你到世界之巔                                                       | 王一博  | 季向空   | 第一男主角 |
-| [爱奇艺网剧](../Page/爱奇艺.md "wikilink")                    | 追球                                                            | 李汶翰                                                           | 云高洋  | 男配角   |       |
+| [爱奇艺](../Page/爱奇艺.md "wikilink")网剧                    | 追球                                                            | 李汶翰                                                           | 云高洋  | 男配角   |       |
 | 腾讯视频                                                  | [陈情令](../Page/陈情令.md "wikilink")                              | 王一博                                                           | 藍忘機  | 雙男主之一 |       |
 | 待播                                                    | [樂視網](../Page/乐视网.md "wikilink")                              | [時光之城](https://zh.wikipedia.org/wiki/時光之城_\(電視劇\) "wikilink") | 周藝軒  | 沈欣言   | 男配角   |
 |                                                       | 私立蜀山学园                                                        | 王一博                                                           | 滕净   | 第一男主角 |       |
@@ -1245,13 +1227,7 @@ To Fight**》MV首發。
   -
   -
   -
-[Category:UNIQ](https://zh.wikipedia.org/wiki/Category:UNIQ "wikilink")
-[Category:乐华娱乐](https://zh.wikipedia.org/wiki/Category:乐华娱乐 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:中国男子演唱團體](https://zh.wikipedia.org/wiki/Category:中国男子演唱團體 "wikilink")
-[Category:华语流行音乐團體](https://zh.wikipedia.org/wiki/Category:华语流行音乐團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:UNIQ](https://zh.wikipedia.org/wiki/Category:UNIQ "wikilink") [Category:乐华娱乐](https://zh.wikipedia.org/wiki/Category:乐华娱乐 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:中国男子演唱團體](https://zh.wikipedia.org/wiki/Category:中国男子演唱團體 "wikilink") [Category:华语流行音乐團體](https://zh.wikipedia.org/wiki/Category:华语流行音乐團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.

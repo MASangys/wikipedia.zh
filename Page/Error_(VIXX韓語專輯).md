@@ -1,4 +1,4 @@
-《**Error**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX第](../Page/VIXX.md "wikilink")2枚迷你韓語專輯，於2014年10月14日發行，主打歌曲為專輯同名歌曲《Error》\[1\]。
+《**Error**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")第2枚迷你韓語專輯，於2014年10月14日發行，主打歌曲為專輯同名歌曲《Error》\[1\]。
 
 ## 曲目
 
@@ -147,10 +147,7 @@
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

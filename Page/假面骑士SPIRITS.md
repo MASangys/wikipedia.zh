@@ -1,8 +1,6 @@
-《**幪面超人SPIRITS**》（）是由[石森章太郎原作](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")，[村枝賢一繪画的](https://zh.wikipedia.org/wiki/村枝賢一 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。2001年在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊Magazine
-Z](https://zh.wikipedia.org/wiki/月刊Magazine_Z "wikilink")》連載。單行本全16冊。
+《**幪面超人SPIRITS**》（）是由[石森章太郎原作](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")，[村枝賢一繪画的](https://zh.wikipedia.org/wiki/村枝賢一 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。2001年在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊Magazine Z](https://zh.wikipedia.org/wiki/月刊Magazine_Z "wikilink")》連載。單行本全16冊。
 
-2009年在講談社「[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")」连载續篇《新
-幪面超人SPIRITS》，單行本既刊18冊。
+2009年在講談社「[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")」连载續篇《新 幪面超人SPIRITS》，單行本既刊18冊。
 
 ## 故事簡介
 
@@ -523,8 +521,7 @@ ISBN 978-4-06-514349-0（特裝版）</p></td>
 <!-- end list -->
 
   -
-    2011年8月3日發售、ISBN
-    978-4-06-374920-5（[東日本大震災復興支援版](../Page/東日本大震災.md "wikilink")）
+    2011年8月3日發售、ISBN 978-4-06-374920-5（[東日本大震災](../Page/東日本大震災.md "wikilink")復興支援版）
 
 <!-- end list -->
 
@@ -564,7 +561,4 @@ ISBN 978-4-06-514349-0（特裝版）</p></td>
 
 ## 參考資料
 
-[Category:假面骑士](https://zh.wikipedia.org/wiki/Category:假面骑士 "wikilink")
-[Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink")
-[Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink")
-[Category:村枝賢一](https://zh.wikipedia.org/wiki/Category:村枝賢一 "wikilink")
+[Category:假面骑士](https://zh.wikipedia.org/wiki/Category:假面骑士 "wikilink") [Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink") [Category:日本神話題材作品](https://zh.wikipedia.org/wiki/Category:日本神話題材作品 "wikilink") [Category:村枝賢一](https://zh.wikipedia.org/wiki/Category:村枝賢一 "wikilink")

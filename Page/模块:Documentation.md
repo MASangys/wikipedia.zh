@@ -1,11 +1,8 @@
 \-- This module implements .
 
-\-- Get required modules. local getArgs =
-require('Module:Arguments').getArgs local messageBox =
-require('Module:Message box')
+\-- Get required modules. local getArgs = require('Module:Arguments').getArgs local messageBox = require('Module:Message box')
 
-\-- Get the config table. local cfg =
-mw.loadData('Module:Documentation/config')
+\-- Get the config table. local cfg = mw.loadData('Module:Documentation/config')
 
 local p = {}
 
@@ -13,8 +10,7 @@ local p = {}
 
 -----
 
-\-- Helper functions -- -- These are defined as local functions, but are
-made available in the p -- table for testing purposes.
+\-- Helper functions -- -- These are defined as local functions, but are made available in the p -- table for testing purposes.
 
 -----
 
@@ -133,14 +129,7 @@ p.main = makeInvokeFunc('_main')
 
 function p._main(args)
 
-`   --`[`--``   ``This``   ``function``   ``defines``   ``logic``
- ``flow``   ``for``   ``the``   ``module.``   ``--``   ``@args``
- ``-``   ``table``   ``of``   ``arguments``   ``passed``   ``by``
- ``the``   ``user``   ``--``   ``--``   ``Messages:``   ``--``
- ``'main-div-id'``   ``-->``   ``'template-documentation'``   ``--``
- ``'main-div-classes'``   ``-->``   ``'template-documentation``
- ``iezoomfix'``
- ``--`](https://zh.wikipedia.org/wiki/--_This_function_defines_logic_flow_for_the_module._--_@args_-_table_of_arguments_passed_by_the_user_--_--_Messages:_--_'main-div-id'_--\>_'template-documentation'_--_'main-div-classes'_--\>_'template-documentation_iezoomfix'_-- "wikilink")
+`   --`[`--``   ``This``   ``function``   ``defines``   ``logic``   ``flow``   ``for``   ``the``   ``module.``   ``--``   ``@args``   ``-``   ``table``   ``of``   ``arguments``   ``passed``   ``by``   ``the``   ``user``   ``--``   ``--``   ``Messages:``   ``--``   ``'main-div-id'``   ``-->``   ``'template-documentation'``   ``--``   ``'main-div-classes'``   ``-->``   ``'template-documentation``   ``iezoomfix'``   ``--`](https://zh.wikipedia.org/wiki/--_This_function_defines_logic_flow_for_the_module._--_@args_-_table_of_arguments_passed_by_the_user_--_--_Messages:_--_'main-div-id'_--\>_'template-documentation'_--_'main-div-classes'_--\>_'template-documentation_iezoomfix'_-- "wikilink")
 `   local env = p.getEnvironment(args)`
 `   local root = mw.html.create()`
 `   root`
@@ -173,41 +162,7 @@ end
 
 function p.getEnvironment(args)
 
-`   --`[`--``   ``Returns``   ``a``   ``table``   ``with``
- ``information``   ``about``   ``the``   ``environment,``
- ``including``   ``title``   ``objects``   ``and``   ``other``
- ``namespace-``   ``or``   ``--``   ``path-related``   ``data.``
- ``--``   ``@args``   ``-``   ``table``   ``of``   ``arguments``
- ``passed``   ``by``   ``the``   ``user``   ``--``   ``--``   ``Title``
- ``objects``   ``include:``   ``--``   ``env.title``   ``-``   ``the``
- ``page``   ``we``   ``are``   ``making``   ``documentation``   ``for``
- ``(usually``   ``the``   ``current``   ``title)``   ``--``
- ``env.templateTitle``   ``-``   ``the``   ``template``   ``(or``
- ``module,``   ``file,``   ``etc.)``   ``--``   ``env.docTitle``
- ``-``   ``the``   ``/doc``   ``subpage.``   ``--``
- ``env.sandboxTitle``   ``-``   ``the``   ``/sandbox``   ``subpage.``
- ``--``   ``env.testcasesTitle``   ``-``   ``the``   ``/testcases``
- ``subpage.``   ``--``   ``env.printTitle``   ``-``   ``the``
- ``print``   ``version``   ``of``   ``the``   ``template,``
- ``located``   ``at``   ``the``   ``/Print``   ``subpage.``   ``--``
- ``--``   ``Data``   ``includes:``   ``--``   ``env.protectionLevels``
- ``-``   ``the``   ``protection``   ``levels``   ``table``   ``of``
- ``the``   ``title``   ``object.``   ``--``   ``env.subjectSpace``
- ``-``   ``the``   ``number``   ``of``   ``the``   ``title's``
- ``subject``   ``namespace.``   ``--``   ``env.docSpace``   ``-``
- ``the``   ``number``   ``of``   ``the``   ``namespace``   ``the``
- ``title``   ``puts``   ``its``   ``documentation``   ``in.``   ``--``
- ``env.docpageBase``   ``-``   ``the``   ``text``   ``of``   ``the``
- ``base``   ``page``   ``of``   ``the``   ``/doc,``   ``/sandbox``
- ``and``   ``/testcases``   ``pages,``   ``with``   ``namespace.``
- ``--``   ``env.compareUrl``   ``-``   ``URL``   ``of``   ``the``
- ``Special:ComparePages``   ``page``   ``comparing``   ``the``
- ``sandbox``   ``with``   ``the``   ``template.``   ``--``   ``--``
- ``All``   ``table``   ``lookups``   ``are``   ``passed``   ``through``
- ``pcall``   ``so``   ``that``   ``errors``   ``are``   ``caught.``
- ``If``   ``an``   ``error``   ``occurs,``   ``the``   ``value``
- ``--``   ``returned``   ``will``   ``be``   ``nil.``
- ``--`](https://zh.wikipedia.org/wiki/--_Returns_a_table_with_information_about_the_environment,_including_title_objects_and_other_namespace-_or_--_path-related_data._--_@args_-_table_of_arguments_passed_by_the_user_--_--_Title_objects_include:_--_env.title_-_the_page_we_are_making_documentation_for_\(usually_the_current_title\)_--_env.templateTitle_-_the_template_\(or_module,_file,_etc.\)_--_env.docTitle_-_the_/doc_subpage._--_env.sandboxTitle_-_the_/sandbox_subpage._--_env.testcasesTitle_-_the_/testcases_subpage._--_env.printTitle_-_the_print_version_of_the_template,_located_at_the_/Print_subpage._--_--_Data_includes:_--_env.protectionLevels_-_the_protection_levels_table_of_the_title_object._--_env.subjectSpace_-_the_number_of_the_title's_subject_namespace._--_env.docSpace_-_the_number_of_the_namespace_the_title_puts_its_documentation_in._--_env.docpageBase_-_the_text_of_the_base_page_of_the_/doc,_/sandbox_and_/testcases_pages,_with_namespace._--_env.compareUrl_-_URL_of_the_Special:ComparePages_page_comparing_the_sandbox_with_the_template._--_--_All_table_lookups_are_passed_through_pcall_so_that_errors_are_caught._If_an_error_occurs,_the_value_--_returned_will_be_nil._-- "wikilink")
+`   --`[`--``   ``Returns``   ``a``   ``table``   ``with``   ``information``   ``about``   ``the``   ``environment,``   ``including``   ``title``   ``objects``   ``and``   ``other``   ``namespace-``   ``or``   ``--``   ``path-related``   ``data.``   ``--``   ``@args``   ``-``   ``table``   ``of``   ``arguments``   ``passed``   ``by``   ``the``   ``user``   ``--``   ``--``   ``Title``   ``objects``   ``include:``   ``--``   ``env.title``   ``-``   ``the``   ``page``   ``we``   ``are``   ``making``   ``documentation``   ``for``   ``(usually``   ``the``   ``current``   ``title)``   ``--``   ``env.templateTitle``   ``-``   ``the``   ``template``   ``(or``   ``module,``   ``file,``   ``etc.)``   ``--``   ``env.docTitle``   ``-``   ``the``   ``/doc``   ``subpage.``   ``--``   ``env.sandboxTitle``   ``-``   ``the``   ``/sandbox``   ``subpage.``   ``--``   ``env.testcasesTitle``   ``-``   ``the``   ``/testcases``   ``subpage.``   ``--``   ``env.printTitle``   ``-``   ``the``   ``print``   ``version``   ``of``   ``the``   ``template,``   ``located``   ``at``   ``the``   ``/Print``   ``subpage.``   ``--``   ``--``   ``Data``   ``includes:``   ``--``   ``env.protectionLevels``   ``-``   ``the``   ``protection``   ``levels``   ``table``   ``of``   ``the``   ``title``   ``object.``   ``--``   ``env.subjectSpace``   ``-``   ``the``   ``number``   ``of``   ``the``   ``title's``   ``subject``   ``namespace.``   ``--``   ``env.docSpace``   ``-``   ``the``   ``number``   ``of``   ``the``   ``namespace``   ``the``   ``title``   ``puts``   ``its``   ``documentation``   ``in.``   ``--``   ``env.docpageBase``   ``-``   ``the``   ``text``   ``of``   ``the``   ``base``   ``page``   ``of``   ``the``   ``/doc,``   ``/sandbox``   ``and``   ``/testcases``   ``pages,``   ``with``   ``namespace.``   ``--``   ``env.compareUrl``   ``-``   ``URL``   ``of``   ``the``   ``Special:ComparePages``   ``page``   ``comparing``   ``the``   ``sandbox``   ``with``   ``the``   ``template.``   ``--``   ``--``   ``All``   ``table``   ``lookups``   ``are``   ``passed``   ``through``   ``pcall``   ``so``   ``that``   ``errors``   ``are``   ``caught.``   ``If``   ``an``   ``error``   ``occurs,``   ``the``   ``value``   ``--``   ``returned``   ``will``   ``be``   ``nil.``   ``--`](https://zh.wikipedia.org/wiki/--_Returns_a_table_with_information_about_the_environment,_including_title_objects_and_other_namespace-_or_--_path-related_data._--_@args_-_table_of_arguments_passed_by_the_user_--_--_Title_objects_include:_--_env.title_-_the_page_we_are_making_documentation_for_\(usually_the_current_title\)_--_env.templateTitle_-_the_template_\(or_module,_file,_etc.\)_--_env.docTitle_-_the_/doc_subpage._--_env.sandboxTitle_-_the_/sandbox_subpage._--_env.testcasesTitle_-_the_/testcases_subpage._--_env.printTitle_-_the_print_version_of_the_template,_located_at_the_/Print_subpage._--_--_Data_includes:_--_env.protectionLevels_-_the_protection_levels_table_of_the_title_object._--_env.subjectSpace_-_the_number_of_the_title's_subject_namespace._--_env.docSpace_-_the_number_of_the_namespace_the_title_puts_its_documentation_in._--_env.docpageBase_-_the_text_of_the_base_page_of_the_/doc,_/sandbox_and_/testcases_pages,_with_namespace._--_env.compareUrl_-_URL_of_the_Special:ComparePages_page_comparing_the_sandbox_with_the_template._--_--_All_table_lookups_are_passed_through_pcall_so_that_errors_are_caught._If_an_error_occurs,_the_value_--_returned_will_be_nil._-- "wikilink")
 `   `
 `   local env, envFuncs = {}, {}`
 
@@ -241,11 +196,7 @@ function p.getEnvironment(args)
 `   end`
 
 `   function envFuncs.templateTitle()`
-`       --`[`--``   ``The``   ``template``   ``(or``   ``module,``
- ``etc.)``   ``title``   ``object.``   ``--``   ``Messages:``   ``--``
- ``'sandbox-subpage'``   ``-->``   ``'sandbox'``   ``--``
- ``'testcases-subpage'``   ``-->``   ``'testcases'``
- ``--`](https://zh.wikipedia.org/wiki/--_The_template_\(or_module,_etc.\)_title_object._--_Messages:_--_'sandbox-subpage'_--\>_'sandbox'_--_'testcases-subpage'_--\>_'testcases'_-- "wikilink")
+`       --`[`--``   ``The``   ``template``   ``(or``   ``module,``   ``etc.)``   ``title``   ``object.``   ``--``   ``Messages:``   ``--``   ``'sandbox-subpage'``   ``-->``   ``'sandbox'``   ``--``   ``'testcases-subpage'``   ``-->``   ``'testcases'``   ``--`](https://zh.wikipedia.org/wiki/--_The_template_\(or_module,_etc.\)_title_object._--_Messages:_--_'sandbox-subpage'_--\>_'sandbox'_--_'testcases-subpage'_--\>_'testcases'_-- "wikilink")
 `       local subjectSpace = env.subjectSpace`
 `       local title = env.title`
 `       local subpage = title.subpageText`
@@ -257,10 +208,7 @@ function p.getEnvironment(args)
 `   end`
 
 `   function envFuncs.docTitle()`
-`       --`[`--``   ``Title``   ``object``   ``of``   ``the``
- ``/doc``   ``subpage.``   ``--``   ``Messages:``   ``--``
- ``'doc-subpage'``   ``-->``   ``'doc'``
- ``--`](https://zh.wikipedia.org/wiki/--_Title_object_of_the_/doc_subpage._--_Messages:_--_'doc-subpage'_--\>_'doc'_-- "wikilink")
+`       --`[`--``   ``Title``   ``object``   ``of``   ``the``   ``/doc``   ``subpage.``   ``--``   ``Messages:``   ``--``   ``'doc-subpage'``   ``-->``   ``'doc'``   ``--`](https://zh.wikipedia.org/wiki/--_Title_object_of_the_/doc_subpage._--_Messages:_--_'doc-subpage'_--\>_'doc'_-- "wikilink")
 `       local title = env.title`
 `       local docname = args[1] -- User-specified doc page.`
 `       local docpage`
@@ -273,26 +221,17 @@ function p.getEnvironment(args)
 `   end`
 `   `
 `   function envFuncs.sandboxTitle()`
-`       --`[`--``   ``Title``   ``object``   ``for``   ``the``
- ``/sandbox``   ``subpage.``   ``--``   ``Messages:``   ``--``
- ``'sandbox-subpage'``   ``-->``   ``'sandbox'``
- ``--`](https://zh.wikipedia.org/wiki/--_Title_object_for_the_/sandbox_subpage._--_Messages:_--_'sandbox-subpage'_--\>_'sandbox'_-- "wikilink")
+`       --`[`--``   ``Title``   ``object``   ``for``   ``the``   ``/sandbox``   ``subpage.``   ``--``   ``Messages:``   ``--``   ``'sandbox-subpage'``   ``-->``   ``'sandbox'``   ``--`](https://zh.wikipedia.org/wiki/--_Title_object_for_the_/sandbox_subpage._--_Messages:_--_'sandbox-subpage'_--\>_'sandbox'_-- "wikilink")
 `       return mw.title.new(env.docpageBase .. '/' .. message('sandbox-subpage'))`
 `   end`
 `   `
 `   function envFuncs.testcasesTitle()`
-`       --`[`--``   ``Title``   ``object``   ``for``   ``the``
- ``/testcases``   ``subpage.``   ``--``   ``Messages:``   ``--``
- ``'testcases-subpage'``   ``-->``   ``'testcases'``
- ``--`](https://zh.wikipedia.org/wiki/--_Title_object_for_the_/testcases_subpage._--_Messages:_--_'testcases-subpage'_--\>_'testcases'_-- "wikilink")
+`       --`[`--``   ``Title``   ``object``   ``for``   ``the``   ``/testcases``   ``subpage.``   ``--``   ``Messages:``   ``--``   ``'testcases-subpage'``   ``-->``   ``'testcases'``   ``--`](https://zh.wikipedia.org/wiki/--_Title_object_for_the_/testcases_subpage._--_Messages:_--_'testcases-subpage'_--\>_'testcases'_-- "wikilink")
 `       return mw.title.new(env.docpageBase .. '/' .. message('testcases-subpage'))`
 `   end`
 `   `
 `   function envFuncs.printTitle()`
-`       --`[`--``   ``Title``   ``object``   ``for``   ``the``
- ``/Print``   ``subpage.``   ``--``   ``Messages:``   ``--``
- ``'print-subpage'``   ``-->``   ``'Print'``
- ``--`](https://zh.wikipedia.org/wiki/--_Title_object_for_the_/Print_subpage._--_Messages:_--_'print-subpage'_--\>_'Print'_-- "wikilink")
+`       --`[`--``   ``Title``   ``object``   ``for``   ``the``   ``/Print``   ``subpage.``   ``--``   ``Messages:``   ``--``   ``'print-subpage'``   ``-->``   ``'Print'``   ``--`](https://zh.wikipedia.org/wiki/--_Title_object_for_the_/Print_subpage._--_Messages:_--_'print-subpage'_--\>_'Print'_-- "wikilink")
 `       return env.templateTitle:subPageTitle(message('print-subpage'))`
 `   end`
 
@@ -364,10 +303,8 @@ function p.sandboxNotice(args, env)
 `   -- 'sandbox-notice-image' --> '`[`Sandbox.svg`](https://zh.wikipedia.org/wiki/File:Sandbox.svg "fig:Sandbox.svg")`'`
 `   -- 'sandbox-notice-blurb' --> 'This is the $1 for $2.'`
 `   -- 'sandbox-notice-diff-blurb' --> 'This is the $1 for $2 ($3).'`
-`   -- 'sandbox-notice-pagetype-template' --> '`[`template``
- ``sandbox`](https://zh.wikipedia.org/wiki/Wikipedia:Template_test_cases "wikilink")` page'`
-`   -- 'sandbox-notice-pagetype-module' --> '`[`module``
- ``sandbox`](https://zh.wikipedia.org/wiki/Wikipedia:Template_test_cases "wikilink")` page'`
+`   -- 'sandbox-notice-pagetype-template' --> '`[`template``   ``sandbox`](https://zh.wikipedia.org/wiki/Wikipedia:Template_test_cases "wikilink")` page'`
+`   -- 'sandbox-notice-pagetype-module' --> '`[`module``   ``sandbox`](https://zh.wikipedia.org/wiki/Wikipedia:Template_test_cases "wikilink")` page'`
 `   -- 'sandbox-notice-pagetype-other' --> 'sandbox page'`
 `   -- 'sandbox-notice-compare-link-display' --> 'diff'`
 `   -- 'sandbox-notice-testcases-blurb' --> 'See also the companion subpage for $1.'`
@@ -413,8 +350,7 @@ function p.sandboxNotice(args, env)
 `       text = text .. message('sandbox-notice-blurb', {pagetype, templateLink})`
 `   end`
 `   -- Get the test cases page blurb if the page exists. This is something like`
-`   -- "See also the companion subpage for `[`test``
- ``cases`](https://zh.wikipedia.org/wiki/Template:Foo/testcases "wikilink")`."`
+`   -- "See also the companion subpage for `[`test``   ``cases`](https://zh.wikipedia.org/wiki/Template:Foo/testcases "wikilink")`."`
 `   local testcasesTitle = env.testcasesTitle`
 `   if testcasesTitle and testcasesTitle.exists then`
 `       if testcasesTitle.namespace == mw.site.namespaces.Module.id then`
@@ -755,8 +691,7 @@ function p._endBox(args, env)
 `   -- 'fmbox-style' --> 'background-color: #ecfcf4'`
 `   -- 'fmbox-textstyle' --> 'font-style: italic'`
 `   -- `
-`   -- The HTML is generated by the `` template, courtesy of `[`Module:Message``
- ``box`](https://zh.wikipedia.org/wiki/Module:Message_box "wikilink")`.`
+`   -- The HTML is generated by the `` template, courtesy of `[`Module:Message``   ``box`](https://zh.wikipedia.org/wiki/Module:Message_box "wikilink")`.`
 `   --]=]`
 `   `
 `   -- Get environment data.`
@@ -838,8 +773,7 @@ function p.makeDocPageBlurb(args, env)
 `   -- 'module-preload' --> 'Template:Documentation/preload-module-doc'`
 `   -- 'create-link-display' --> 'create'`
 `   -- 'create-module-doc-blurb' -->`
-`   -- 'You might want to $1 a documentation page for this `[`Scribunto``
- ``module`](https://zh.wikipedia.org/wiki/Wikipedia:Lua "wikilink")`.'`
+`   -- 'You might want to $1 a documentation page for this `[`Scribunto``   ``module`](https://zh.wikipedia.org/wiki/Wikipedia:Lua "wikilink")`.'`
 `   --]=]`
 `   local docTitle = env.docTitle`
 `   if not docTitle then`
@@ -985,17 +919,7 @@ end
 
 function p.makeCategoriesBlurb(args, env)
 
-`   --`[`--``   ``Generates``   ``the``   ``text``   ``"Please``
- ``add``   ``categories``   ``to``   ``the``   ``/doc``   ``subpage."``
- ``--``   ``@args``   ``-``   ``a``   ``table``   ``of``
- ``arguments``   ``passed``   ``by``   ``the``   ``user``   ``--``
- ``@env``   ``-``   ``environment``   ``table``   ``containing``
- ``title``   ``objects,``   ``etc.,``   ``generated``   ``with``
- ``p.getEnvironment``   ``--``   ``Messages:``   ``--``
- ``'doc-link-display'``   ``-->``   ``'/doc'``   ``--``
- ``'add-categories-blurb'``   ``-->``   ``'Please``   ``add``
- ``categories``   ``to``   ``the``   ``$1``   ``subpage.'``
- ``--`](https://zh.wikipedia.org/wiki/--_Generates_the_text_"Please_add_categories_to_the_/doc_subpage."_--_@args_-_a_table_of_arguments_passed_by_the_user_--_@env_-_environment_table_containing_title_objects,_etc.,_generated_with_p.getEnvironment_--_Messages:_--_'doc-link-display'_--\>_'/doc'_--_'add-categories-blurb'_--\>_'Please_add_categories_to_the_$1_subpage.'_-- "wikilink")
+`   --`[`--``   ``Generates``   ``the``   ``text``   ``"Please``   ``add``   ``categories``   ``to``   ``the``   ``/doc``   ``subpage."``   ``--``   ``@args``   ``-``   ``a``   ``table``   ``of``   ``arguments``   ``passed``   ``by``   ``the``   ``user``   ``--``   ``@env``   ``-``   ``environment``   ``table``   ``containing``   ``title``   ``objects,``   ``etc.,``   ``generated``   ``with``   ``p.getEnvironment``   ``--``   ``Messages:``   ``--``   ``'doc-link-display'``   ``-->``   ``'/doc'``   ``--``   ``'add-categories-blurb'``   ``-->``   ``'Please``   ``add``   ``categories``   ``to``   ``the``   ``$1``   ``subpage.'``   ``--`](https://zh.wikipedia.org/wiki/--_Generates_the_text_"Please_add_categories_to_the_/doc_subpage."_--_@args_-_a_table_of_arguments_passed_by_the_user_--_@env_-_environment_table_containing_title_objects,_etc.,_generated_with_p.getEnvironment_--_Messages:_--_'doc-link-display'_--\>_'/doc'_--_'add-categories-blurb'_--\>_'Please_add_categories_to_the_$1_subpage.'_-- "wikilink")
 `   local docTitle = env.docTitle`
 `   if not docTitle then`
 `       return nil`
@@ -1007,18 +931,7 @@ end
 
 function p.makeSubpagesBlurb(args, env)
 
-`   --`[`--``   ``Generates``   ``the``   ``"Subpages``   ``of``
- ``this``   ``template"``   ``link.``   ``--``   ``@args``   ``-``
- ``a``   ``table``   ``of``   ``arguments``   ``passed``   ``by``
- ``the``   ``user``   ``--``   ``@env``   ``-``   ``environment``
- ``table``   ``containing``   ``title``   ``objects,``   ``etc.,``
- ``generated``   ``with``   ``p.getEnvironment``   ``--``
- ``Messages:``   ``--``   ``'template-pagetype'``   ``-->``
- ``'template'``   ``--``   ``'module-pagetype'``   ``-->``
- ``'module'``   ``--``   ``'default-pagetype'``   ``-->``   ``'page'``
- ``--``   ``'subpages-link-display'``   ``-->``   ``'Subpages``
- ``of``   ``this``   ``$1'``
- ``--`](https://zh.wikipedia.org/wiki/--_Generates_the_"Subpages_of_this_template"_link._--_@args_-_a_table_of_arguments_passed_by_the_user_--_@env_-_environment_table_containing_title_objects,_etc.,_generated_with_p.getEnvironment_--_Messages:_--_'template-pagetype'_--\>_'template'_--_'module-pagetype'_--\>_'module'_--_'default-pagetype'_--\>_'page'_--_'subpages-link-display'_--\>_'Subpages_of_this_$1'_-- "wikilink")
+`   --`[`--``   ``Generates``   ``the``   ``"Subpages``   ``of``   ``this``   ``template"``   ``link.``   ``--``   ``@args``   ``-``   ``a``   ``table``   ``of``   ``arguments``   ``passed``   ``by``   ``the``   ``user``   ``--``   ``@env``   ``-``   ``environment``   ``table``   ``containing``   ``title``   ``objects,``   ``etc.,``   ``generated``   ``with``   ``p.getEnvironment``   ``--``   ``Messages:``   ``--``   ``'template-pagetype'``   ``-->``   ``'template'``   ``--``   ``'module-pagetype'``   ``-->``   ``'module'``   ``--``   ``'default-pagetype'``   ``-->``   ``'page'``   ``--``   ``'subpages-link-display'``   ``-->``   ``'Subpages``   ``of``   ``this``   ``$1'``   ``--`](https://zh.wikipedia.org/wiki/--_Generates_the_"Subpages_of_this_template"_link._--_@args_-_a_table_of_arguments_passed_by_the_user_--_@env_-_environment_table_containing_title_objects,_etc.,_generated_with_p.getEnvironment_--_Messages:_--_'template-pagetype'_--\>_'template'_--_'module-pagetype'_--\>_'module'_--_'default-pagetype'_--\>_'page'_--_'subpages-link-display'_--\>_'Subpages_of_this_$1'_-- "wikilink")
 `   local subjectSpace = env.subjectSpace`
 `   local templateTitle = env.templateTitle`
 `   if not subjectSpace or not templateTitle then`
@@ -1049,8 +962,7 @@ function p.makePrintBlurb(args, env)
 `   --`
 `   -- Messages:`
 `   -- 'print-link-display' --> '/Print'`
-`   -- 'print-blurb' --> 'A `[`print``
- ``version`](https://zh.wikipedia.org/wiki/Help:Books/for_experts#Improving_the_book_layout "wikilink")`'`
+`   -- 'print-blurb' --> 'A `[`print``   ``version`](https://zh.wikipedia.org/wiki/Help:Books/for_experts#Improving_the_book_layout "wikilink")`'`
 `   --      .. ' of this template exists at $1.'`
 `   --      .. ' If you make a change to this template, please update the print version as well.'`
 `   -- 'display-print-category' --> true`
@@ -1081,21 +993,7 @@ end
 
 function p.addTrackingCategories(env)
 
-`   --`[`--``   ``Check``   ``if``   ``{{documentation}}``   ``is``
- ``transcluded``   ``on``   ``a``   ``/doc``   ``or``   ``/testcases``
- ``page.``   ``--``   ``@env``   ``-``   ``environment``   ``table``
- ``containing``   ``title``   ``objects,``   ``etc.,``   ``generated``
- ``with``   ``p.getEnvironment``   ``--``   ``Messages:``   ``--``
- ``'display-strange-usage-category'``   ``-->``   ``true``   ``--``
- ``'doc-subpage'``   ``-->``   ``'doc'``   ``--``
- ``'testcases-subpage'``   ``-->``   ``'testcases'``   ``--``
- ``'strange-usage-category'``   ``-->``   ``'Wikipedia``   ``pages``
- ``with``   ``strange``   ``((documentation))``   ``usage'``   ``--``
- ``--``   ``/testcases``   ``pages``   ``in``   ``the``   ``module``
- ``namespace``   ``are``   ``not``   ``categorised,``   ``as``
- ``they``   ``may``   ``have``   ``--``   ``{{documentation}}``
- ``transcluded``   ``automatically.``
- ``--`](https://zh.wikipedia.org/wiki/--_Check_if_{{documentation}}_is_transcluded_on_a_/doc_or_/testcases_page._--_@env_-_environment_table_containing_title_objects,_etc.,_generated_with_p.getEnvironment_--_Messages:_--_'display-strange-usage-category'_--\>_true_--_'doc-subpage'_--\>_'doc'_--_'testcases-subpage'_--\>_'testcases'_--_'strange-usage-category'_--\>_'Wikipedia_pages_with_strange_\(\(documentation\)\)_usage'_--_--_/testcases_pages_in_the_module_namespace_are_not_categorised,_as_they_may_have_--_{{documentation}}_transcluded_automatically._-- "wikilink")
+`   --`[`--``   ``Check``   ``if``   ``{{documentation}}``   ``is``   ``transcluded``   ``on``   ``a``   ``/doc``   ``or``   ``/testcases``   ``page.``   ``--``   ``@env``   ``-``   ``environment``   ``table``   ``containing``   ``title``   ``objects,``   ``etc.,``   ``generated``   ``with``   ``p.getEnvironment``   ``--``   ``Messages:``   ``--``   ``'display-strange-usage-category'``   ``-->``   ``true``   ``--``   ``'doc-subpage'``   ``-->``   ``'doc'``   ``--``   ``'testcases-subpage'``   ``-->``   ``'testcases'``   ``--``   ``'strange-usage-category'``   ``-->``   ``'Wikipedia``   ``pages``   ``with``   ``strange``   ``((documentation))``   ``usage'``   ``--``   ``--``   ``/testcases``   ``pages``   ``in``   ``the``   ``module``   ``namespace``   ``are``   ``not``   ``categorised,``   ``as``   ``they``   ``may``   ``have``   ``--``   ``{{documentation}}``   ``transcluded``   ``automatically.``   ``--`](https://zh.wikipedia.org/wiki/--_Check_if_{{documentation}}_is_transcluded_on_a_/doc_or_/testcases_page._--_@env_-_environment_table_containing_title_objects,_etc.,_generated_with_p.getEnvironment_--_Messages:_--_'display-strange-usage-category'_--\>_true_--_'doc-subpage'_--\>_'doc'_--_'testcases-subpage'_--\>_'testcases'_--_'strange-usage-category'_--\>_'Wikipedia_pages_with_strange_\(\(documentation\)\)_usage'_--_--_/testcases_pages_in_the_module_namespace_are_not_categorised,_as_they_may_have_--_{{documentation}}_transcluded_automatically._-- "wikilink")
 `   local title = env.title`
 `   local subjectSpace = env.subjectSpace`
 `   if not title or not subjectSpace then`

@@ -1,25 +1,17 @@
-**株式會社RADIX ACE
-ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")，至2006年10月1日為止主要從事動畫製作的日本動畫企業。
+**株式會社RADIX ACE ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")，至2006年10月1日為止主要從事動畫製作的日本動畫企業。
 
 ## 概要、沿革
 
-  - RADIX ACE
-    ENTERTAINMENT的前身是ZERO·G·ROOM。早年由動畫上色工作室出身、後調派至大間動畫公司[東映動畫曾擔任過演出助理進行的動畫演出](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、導演的動畫師[根岸弘經歷過](../Page/根岸弘.md "wikilink")[自由職業時期](../Page/自由職業.md "wikilink")。至1991年為了協助與[animate共同企劃製作](../Page/安利美特.md "wikilink")《[KO世紀三獸士](../Page/KO世紀三獸士.md "wikilink")》的OVA系列動畫，招集了動畫製作團隊，在[東京都](../Page/東京都.md "wikilink")[中野區成立動畫工作室](../Page/中野區.md "wikilink")「有限公司ZERO·G·ROOM（<small></small>）」，其後該工作室搬遷至[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")。
-  - 1995年發行的OVA系列動畫《[SM GIRLS
-    機械女神R](../Page/機械女神.md "wikilink")》是ZERO·G·ROOM第一次投入獨立製作的作品。同年12月6日，以著種版權管理為目的，正式成立「**株式會社RADIX**」。「」源自於拉丁文，為[樹根的意思](https://zh.wikipedia.org/wiki/樹根 "wikilink")。意思就是說面對廣泛的種類題材中，在版權上卻沒有受到嚴格的管理，作為公司必須以根固基數為目標\[1\]。
-  - 1996年，[龍之子製作公司出身的動畫製作人植田基生加入RADIX作品的製作團隊](../Page/龍之子製作公司.md "wikilink")。
+  - RADIX ACE ENTERTAINMENT的前身是ZERO·G·ROOM。早年由動畫上色工作室出身、後調派至大間動畫公司[東映動畫曾擔任過演出助理進行的動畫演出](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、導演的動畫師[根岸弘](../Page/根岸弘.md "wikilink")經歷過[自由職業](../Page/自由職業.md "wikilink")時期。至1991年為了協助與[animate共同企劃製作](../Page/安利美特.md "wikilink")《[KO世紀三獸士](../Page/KO世紀三獸士.md "wikilink")》的OVA系列動畫，招集了動畫製作團隊，在[東京都](../Page/東京都.md "wikilink")[中野區](../Page/中野區.md "wikilink")成立動畫工作室「有限公司ZERO·G·ROOM（<small></small>）」，其後該工作室搬遷至[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")。
+  - 1995年發行的OVA系列動畫《[SM GIRLS 機械女神R](../Page/機械女神.md "wikilink")》是ZERO·G·ROOM第一次投入獨立製作的作品。同年12月6日，以著種版權管理為目的，正式成立「**株式會社RADIX**」。「」源自於拉丁文，為[樹根的意思](https://zh.wikipedia.org/wiki/樹根 "wikilink")。意思就是說面對廣泛的種類題材中，在版權上卻沒有受到嚴格的管理，作為公司必須以根固基數為目標\[1\]。
+  - 1996年，[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")出身的動畫製作人植田基生加入RADIX作品的製作團隊。
   - 1997年的重製OVA《[爆笑吸血鬼'99](../Page/爆笑吸血鬼_99.md "wikilink")》在電視上播出之後。1998年播出的《[時空轉抄納斯卡](../Page/時空轉抄納斯卡.md "wikilink")》是RADIX第一次獨立製作的電視動畫。
   - 2001年，為了向上加強版權的管理，然後確立一貫性企劃、製作的公司體制，ZERO·G·ROOM被RADIX吸收合併。
-  - 2005年7月1日，RADIX百分之百完全成為的旗下企業。同年9月30日，總部搬遷至東京都[千代田區](../Page/千代田區.md "wikilink")，並改名為「**株式會社RADIX
-    ACE ENTERTAINMENT**（<small></small>）」。包含子公司有限公司RADIX
-    02改名為「有限公司RADIX（<small></small>）」。
-  - 2006年10月1日，RADIX ACE ENTERTAINMENT被Wedge
-    Holdings吸收合併之後，從此正式解散。同年12月，其子公司「有限公司RADIX」登記變更股份有限公司。
-  - 2007年2月1日，株式會社RADIX與Wedge Holdings的旗下企業MOBANIMATION合併後，改名為「株式會社RADIX
-    MOBANIMATION（<small></small>）」。
+  - 2005年7月1日，RADIX百分之百完全成為的旗下企業。同年9月30日，總部搬遷至東京都[千代田區](../Page/千代田區.md "wikilink")，並改名為「**株式會社RADIX ACE ENTERTAINMENT**（<small></small>）」。包含子公司有限公司RADIX 02改名為「有限公司RADIX（<small></small>）」。
+  - 2006年10月1日，RADIX ACE ENTERTAINMENT被Wedge Holdings吸收合併之後，從此正式解散。同年12月，其子公司「有限公司RADIX」登記變更股份有限公司。
+  - 2007年2月1日，株式會社RADIX與Wedge Holdings的旗下企業MOBANIMATION合併後，改名為「株式會社RADIX MOBANIMATION（<small></small>）」。
   - 2007年12月21日，根岸弘辭任Wedge Holdings董事。
-  - 2011年6月2日，株式會社[ZERO-G](../Page/ZERO-G.md "wikilink")（<small></small>，和Wedge
-    Holdings毫無關係）成立。根岸弘就任董事。
+  - 2011年6月2日，株式會社[ZERO-G](../Page/ZERO-G.md "wikilink")（<small></small>，和Wedge Holdings毫無關係）成立。根岸弘就任董事。
   - 2012年9月1日，ZERO-G取得RADIX MOBANIMATION動畫作品的所有相關版權。
 
 ## 作品履歷
@@ -410,7 +402,7 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 </tr>
 <tr class="even">
 <td><p>1999年</p></td>
-<td><p><a href="../Page/D4公主.md" title="wikilink">D4公主朵莉絲</a></p></td>
+<td><p><a href="../Page/D4公主.md" title="wikilink">D4公主</a>朵莉絲</p></td>
 <td></td>
 <td><p><a href="../Page/童夢_(動畫工作室).md" title="wikilink">童夢</a></p></td>
 <td></td>
@@ -544,7 +536,7 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/強殖裝甲.md" title="wikilink">強殖裝甲加爾巴</a></p></td>
+<td><p><a href="../Page/強殖裝甲.md" title="wikilink">強殖裝甲</a>加爾巴</p></td>
 <td></td>
 <td><p><a href="../Page/OLM.md" title="wikilink">OLM</a></p></td>
 <td><p>漫畫</p></td>
@@ -689,11 +681,6 @@ ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[�
 
   -
 
-[Category:1995年成立的公司](https://zh.wikipedia.org/wiki/Category:1995年成立的公司 "wikilink")
-[Category:2006年結業公司](https://zh.wikipedia.org/wiki/Category:2006年結業公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:日本已结业公司](https://zh.wikipedia.org/wiki/Category:日本已结业公司 "wikilink")
+[Category:1995年成立的公司](https://zh.wikipedia.org/wiki/Category:1995年成立的公司 "wikilink") [Category:2006年結業公司](https://zh.wikipedia.org/wiki/Category:2006年結業公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:日本已结业公司](https://zh.wikipedia.org/wiki/Category:日本已结业公司 "wikilink")
 
-1.  [WEBアニメスタイル「いろんな会社にオジャマしちゃおう！第2回
-    ラディクス」](http://www.style.fm/log/02_topics/top030829.html).
-    \[2015-03-15\] .
+1.  [WEBアニメスタイル「いろんな会社にオジャマしちゃおう！第2回 ラディクス」](http://www.style.fm/log/02_topics/top030829.html). \[2015-03-15\] .

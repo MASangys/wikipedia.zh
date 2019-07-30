@@ -1,6 +1,4 @@
-require('Module:No globals') local getArgs =
-require('Module:Arguments').getArgs local yesno =
-require('Module:Yesno')
+require('Module:No globals') local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
 
 local p = {}
 
@@ -34,8 +32,7 @@ local function left(args, rowspan)
 
 ',
 
-`               args.date or '`<span class="error">`未填写date
-=参数`</span>`',`
+`               args.date or '`<span class="error">`未填写date =参数`</span>`',`
 `               args.platform,`
 `               args.refs or ''`
 `           )`
@@ -57,8 +54,7 @@ local function left(args, rowspan)
 `           end`
 `       else`
 `           status = '首发日期'`
-`           date = args.date or '`<span class="error">`未填写date
-=参数`</span>`'`
+`           date = args.date or '`<span class="error">`未填写date =参数`</span>`'`
 `       end`
 `       `
 `       return string.format('`

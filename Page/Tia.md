@@ -24,9 +24,7 @@
 
 <!-- end list -->
 
-  - 被起用为[PSVita](https://zh.wikipedia.org/wiki/PSVita "wikilink")&[PS3游戏](https://zh.wikipedia.org/wiki/PS3 "wikilink")《[初音未来
-    -歌姬计划-
-    f](../Page/初音未来_-歌姬计划-_f.md "wikilink")》的主题曲《ODD\&ENDS》中初音未来的呼吸音。
+  - 被起用为[PSVita](https://zh.wikipedia.org/wiki/PSVita "wikilink")&[PS3游戏](https://zh.wikipedia.org/wiki/PS3 "wikilink")《[初音未来 -歌姬计划- f](../Page/初音未来_-歌姬计划-_f.md "wikilink")》的主题曲《ODD\&ENDS》中初音未来的呼吸音。
 
 <!-- end list -->
 
@@ -42,8 +40,7 @@
 
 <!-- end list -->
 
-  - 2015年6月28日在涩谷 TSUTAYA O-WESTこゑだ（koeda）1st Mini Album「Nice to meet
-    you」release party！开场献唱（这是Tia首次在live上献唱）\[4\]。
+  - 2015年6月28日在涩谷 TSUTAYA O-WESTこゑだ（koeda）1st Mini Album「Nice to meet you」release party！开场献唱（这是Tia首次在live上献唱）\[4\]。
 
 <!-- end list -->
 
@@ -58,14 +55,10 @@
 ## 事业简介
 
   - 2012年10月为动画《[T宝的悲惨日常](../Page/T宝的悲惨日常.md "wikilink")》演唱片尾主题曲《ラブミーギミー》，由ryo（supercell）担当作词作曲并以此单曲正式出道，其中配曲《Palette》为Tia首次亲自作词作曲。同时她也作为配音演员参与这部作品\[6\]。
-  - 2014年1月参与动画《[野良神](https://zh.wikipedia.org/wiki/野良神 "wikilink")》的片尾曲《ハートリアライズ》演唱，作词作曲同样是ryo（supercell）。此单曲在日本Oricon公信榜获得第17位。同时也为动画《T宝的悲惨日常
-    觉醒篇》继续担任小优角色配音。
-  - 2014年4月参与动画《[地球队长](https://zh.wikipedia.org/wiki/地球队长 "wikilink")》后期片尾曲《The
-    Glory Days》演唱。
-  - 2015年7月为动画《T宝的悲惨日常
-    梦幻篇》担任小优角色配音，10月参与动画《野良神ARAGOTO》片尾曲《[ニルバナ](https://zh.wikipedia.org/wiki/ニルバナ "wikilink")》演唱。
-  - 2017年7月参与动画《[狂赌之渊](https://zh.wikipedia.org/wiki/狂赌之渊 "wikilink")》片头主题曲《Deal
-    with the devil》演唱\[7\]，Tia亦首次展示了自己的上半臉。
+  - 2014年1月参与动画《[野良神](https://zh.wikipedia.org/wiki/野良神 "wikilink")》的片尾曲《ハートリアライズ》演唱，作词作曲同样是ryo（supercell）。此单曲在日本Oricon公信榜获得第17位。同时也为动画《T宝的悲惨日常 觉醒篇》继续担任小优角色配音。
+  - 2014年4月参与动画《[地球队长](https://zh.wikipedia.org/wiki/地球队长 "wikilink")》后期片尾曲《The Glory Days》演唱。
+  - 2015年7月为动画《T宝的悲惨日常 梦幻篇》担任小优角色配音，10月参与动画《野良神ARAGOTO》片尾曲《[ニルバナ](https://zh.wikipedia.org/wiki/ニルバナ "wikilink")》演唱。
+  - 2017年7月参与动画《[狂赌之渊](https://zh.wikipedia.org/wiki/狂赌之渊 "wikilink")》片头主题曲《Deal with the devil》演唱\[7\]，Tia亦首次展示了自己的上半臉。
 
 ## 人物关系
 
@@ -75,7 +68,7 @@ Tia与chelly（[EGOIST](../Page/EGOIST.md "wikilink")）和[koeda](https://zh.wi
 
 ### 单曲
 
-最高排名以[Oricon公信榜為評判標準](../Page/Oricon公信榜.md "wikilink")\[8\]。
+最高排名以[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")為評判標準\[8\]。
 
 | 序列    | 發售日              | 單曲名稱                    | 規格編號         | 最高位        |
 | ----- | ---------------- | ----------------------- | ------------ | ---------- |
@@ -161,10 +154,7 @@ Tia与chelly（[EGOIST](../Page/EGOIST.md "wikilink")）和[koeda](https://zh.wi
 
   -
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
 
 1.  [「ノラガミ」EDを歌うシンデレラガール・Tiaに直撃インタビュー！](https://akiba-souken.com/article/19845/)
 
@@ -174,24 +164,18 @@ Tia与chelly（[EGOIST](../Page/EGOIST.md "wikilink")）和[koeda](https://zh.wi
 
 4.  [Tia个人推文](https://twitter.com/Tia_ct/status/614697863080062980).Twitter
 
-5.  \[<http://com.nicovideo.jp/community/co447657>? Tia Community\]
-    .NicoNico
+5.  \[<http://com.nicovideo.jp/community/co447657>? Tia Community\] .NicoNico
 
 6.  [豪華声優陣が一堂に会するボンズ15周年記念イベント「ノラガミ」「スペース☆ダンディ」先行上映会開催](http://okmusic.jp/#!/news/32384)
 
-7.  [Tiaニューシングル「Deal with the
-    devil」リリース！TVアニメ『賭ケグルイ』OPテーマに決定！](http://avex.jp/tia/news/detail.php?id=1050069).Tia
-    Official Website
+7.  [Tiaニューシングル「Deal with the devil」リリース！TVアニメ『賭ケグルイ』OPテーマに決定！](http://avex.jp/tia/news/detail.php?id=1050069).Tia Official Website
 
 8.  [Tia的銷售排行榜](http://www.oricon.co.jp/prof/577816/rank/)
 
-9.  [The Glory
-    Days発売日変更のお诧びとお知らせ](http://avex.jp/tia/news/detail.php?id=1013596).Tia
-    Official Website
+9.  [The Glory Days発売日変更のお诧びとお知らせ](http://avex.jp/tia/news/detail.php?id=1013596).Tia Official Website
 
 10.
-11. [Tia
-    インタビュー](http://noragami-anime.net/interview_ed.html).TVアニメ「ノラガミ」公式サイト
+11. [Tia インタビュー](http://noragami-anime.net/interview_ed.html).TVアニメ「ノラガミ」公式サイト
 
 12. [1](http://wooser.tv/w1st/#cast).TVアニメ 「うーさーのその日暮らし」 公式サイト
 

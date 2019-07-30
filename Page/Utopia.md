@@ -1,11 +1,10 @@
-《**Utopia**》於1995年5月15日
-發行，是[太極樂隊第十張粵語大碟](../Page/太極樂隊.md "wikilink")，亦是太極最後一張大碟。
+《**Utopia**》於1995年5月15日 發行，是[太極樂隊](../Page/太極樂隊.md "wikilink")第十張粵語大碟，亦是太極最後一張大碟。
 
 ## 介紹
 
   - 本張專輯太極擺脫自己多年來向商業化而低頭的形象，真正面對現實的一次新音樂的嘗試。
-  - 自[雷有曜離隊後](../Page/雷有曜.md "wikilink")，[鄧建明逐漸由後台走到前面](../Page/鄧建明.md "wikilink")，專輯裡很多歌是他一個人演唱的。
-  - 本張專輯裡面也有[唐奕聰的所演唱的歌曲](../Page/唐奕聰.md "wikilink")。
+  - 自[雷有曜](../Page/雷有曜.md "wikilink")離隊後，[鄧建明](../Page/鄧建明.md "wikilink")逐漸由後台走到前面，專輯裡很多歌是他一個人演唱的。
+  - 本張專輯裡面也有[唐奕聰](../Page/唐奕聰.md "wikilink")的所演唱的歌曲。
 
 ## 曲目
 
@@ -27,6 +26,4 @@
 
   - [太極樂隊](../Page/太極樂隊.md "wikilink")
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink")
-[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink") [Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")

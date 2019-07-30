@@ -1,7 +1,4 @@
-**BASTARZ**（）是[Block
-B在](../Page/Block_B.md "wikilink")2015年推出的子團體，由[Block
-B中的三位成員](../Page/Block_B.md "wikilink")[B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")、[U-Kwon和](../Page/U-Kwon.md "wikilink")[P.O組成](../Page/P.O.md "wikilink")，也在採訪中指出認為年紀最大的[B-Bomb為隊長](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")
-。而他們也在訪問中提希望[BASTARZ可以帶給粉絲不一樣的音樂風格](../Page/BASTARZ.md "wikilink")，更加強烈、成熟、有個性。
+**BASTARZ**（）是[Block B在](../Page/Block_B.md "wikilink")2015年推出的子團體，由[Block B中的三位成員](../Page/Block_B.md "wikilink")[B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")、[U-Kwon](../Page/U-Kwon.md "wikilink")和[P.O](../Page/P.O.md "wikilink")組成，也在採訪中指出認為年紀最大的[B-Bomb為隊長](https://zh.wikipedia.org/wiki/B-Bomb "wikilink") 。而他們也在訪問中提希望[BASTARZ](../Page/BASTARZ.md "wikilink")可以帶給粉絲不一樣的音樂風格，更加強烈、成熟、有個性。
 
 ## 成員
 
@@ -120,5 +117,4 @@ B中的三位成員](../Page/Block_B.md "wikilink")[B-Bomb](https://zh.wikipedia
 | [WELCOME 2 BASTARZ](https://zh.wikipedia.org/wiki/WELCOME_2_BASTARZ "wikilink")                     |
 | Make It Rain                                                                                        |
 
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
+[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")

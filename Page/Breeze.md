@@ -1,6 +1,4 @@
-**breeze**（）是[微風國際旗下的](https://zh.wikipedia.org/wiki/微風國際 "wikilink")[台灣女子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]，
-出道初由[若穎](https://zh.wikipedia.org/wiki/陳若穎 "wikilink")、[源元](../Page/郭源元.md "wikilink")、[艾熙](../Page/陳郁涵.md "wikilink")、[以辰組成](../Page/梁以辰.md "wikilink")，秘密訓練2年，\[2\]
-在2014年11月5日發行首張EP《[Pretty](https://zh.wikipedia.org/wiki/Pretty "wikilink")》而出道。\[3\]
+**breeze**（）是[微風國際旗下的](https://zh.wikipedia.org/wiki/微風國際 "wikilink")[台灣女子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]， 出道初由[若穎](https://zh.wikipedia.org/wiki/陳若穎 "wikilink")、[源元](../Page/郭源元.md "wikilink")、[艾熙](../Page/陳郁涵.md "wikilink")、[以辰組成](../Page/梁以辰.md "wikilink")，秘密訓練2年，\[2\] 在2014年11月5日發行首張EP《[Pretty](https://zh.wikipedia.org/wiki/Pretty "wikilink")》而出道。\[3\]
 
 ## 成員資料
 
@@ -18,15 +16,15 @@
 <td><p>若穎</p></td>
 <td><p>Haze</p></td>
 <td></td>
-<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a><br />
-前<a href="../Page/ZERO+.md" title="wikilink">ZERO+成員</a></p></td>
+<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人<br />
+前<a href="../Page/ZERO+.md" title="wikilink">ZERO+</a>成員</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/郭源元.md" title="wikilink">郭源元</a></p></td>
 <td><p>源元</p></td>
 <td><p>Yuan</p></td>
 <td></td>
-<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a>，本團團長</p></td>
+<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人，本團團長</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/武市蜜多麗" title="wikilink">武市蜜多麗</a><br />
@@ -34,14 +32,14 @@
 <td><p>蜜多麗</p></td>
 <td><p>Vanessa</p></td>
 <td></td>
-<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a>，日墨混血兒，2017年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
+<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人，日墨混血兒，2017年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/殷苡娟" title="wikilink">殷苡娟</a></p></td>
 <td><p>蘋恩</p></td>
 <td><p>Sabrina</p></td>
 <td></td>
-<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a>，為首位拍攝微風廣場宣傳封面之素人，藝名為「<a href="../Page/宋蘋恩.md" title="wikilink">宋蘋恩</a>」，2016年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
+<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人，為首位拍攝微風廣場宣傳封面之素人，藝名為「<a href="../Page/宋蘋恩.md" title="wikilink">宋蘋恩</a>」，2016年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/羅喬恩" title="wikilink">羅喬恩</a><br />
@@ -49,7 +47,7 @@
 <td><p>那娜</p></td>
 <td><p>Nana</p></td>
 <td></td>
-<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a>，台美混血兒，藝名為「<a href="../Page/書那娜.md" title="wikilink">書那娜</a>」，2016年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
+<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人，台美混血兒，藝名為「<a href="../Page/書那娜.md" title="wikilink">書那娜</a>」，2016年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/賈凱萱" title="wikilink">賈凱萱</a><br />
@@ -57,14 +55,14 @@
 <td><p>凱玲</p></td>
 <td><p>Kylie</p></td>
 <td></td>
-<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a>，台美混血兒，藝名為「<a href="https://zh.wikipedia.org/wiki/佟凱玲" title="wikilink">佟凱玲</a>」，2017年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
+<td><p><a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人，台美混血兒，藝名為「<a href="https://zh.wikipedia.org/wiki/佟凱玲" title="wikilink">佟凱玲</a>」，2017年初加入<a href="https://zh.wikipedia.org/wiki/微女神" title="wikilink">微女神</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳郁涵.md" title="wikilink">陳郁涵</a></p></td>
 <td><p>艾熙（已退團）</p></td>
 <td><p>Amber</p></td>
 <td></td>
-<td><p>前<a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a><br />
+<td><p>前<a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人<br />
 加入團體前，藝名為「<a href="https://zh.wikipedia.org/wiki/小奈" title="wikilink">小奈</a>」、「<a href="https://zh.wikipedia.org/wiki/陳艾熙" title="wikilink">陳艾熙</a>」</p></td>
 </tr>
 <tr class="odd">
@@ -72,7 +70,7 @@
 <td><p>以辰（已退團）</p></td>
 <td><p>Yvonne</p></td>
 <td></td>
-<td><p>前<a href="../Page/微風廣場.md" title="wikilink">微風廣場旗下代言人</a><br />
+<td><p>前<a href="../Page/微風廣場.md" title="wikilink">微風廣場</a>旗下代言人<br />
 加入團體前，藝名為「<a href="../Page/梁以辰.md" title="wikilink">梁以辰</a>」</p></td>
 </tr>
 </tbody>
@@ -287,17 +285,8 @@ Kaye、郁潔、Nina、小燕、Jessica、小E、飛飛、白白</p></td>
 
   -
   -
-[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink")
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
+[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
 
-1.  [微風百貨也有經紀公司！董娘孫芸芸加持　校園海選正妹新星](http://www.setn.com/E/News.aspx?PageGroupID=8&NewsID=21804)2014年4月30日
-    三立新聞
-2.  [Dream
-    Girls小心！「微女神」秘訓2年火辣亮相](http://www.setn.com/E/News.aspx?PageGroupID=8&NewsID=46942&PageType=3)2014年11月5日
-    三立新聞
-3.  [微女神團體「breeze」首度亮相
-    載歌載舞美麗出「輯」](http://www.wownews.tw/article.php?sn=20281)2014年11月5日
-    wownews
+1.  [微風百貨也有經紀公司！董娘孫芸芸加持　校園海選正妹新星](http://www.setn.com/E/News.aspx?PageGroupID=8&NewsID=21804)2014年4月30日 三立新聞
+2.  [Dream Girls小心！「微女神」秘訓2年火辣亮相](http://www.setn.com/E/News.aspx?PageGroupID=8&NewsID=46942&PageType=3)2014年11月5日 三立新聞
+3.  [微女神團體「breeze」首度亮相 載歌載舞美麗出「輯」](http://www.wownews.tw/article.php?sn=20281)2014年11月5日 wownews

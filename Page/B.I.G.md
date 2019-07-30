@@ -1,8 +1,6 @@
-**B.I.G**（全寫為: **Boys In
-Groove**；），為[韓國GH娛樂公司於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2014年推出的5人男子組合，成員為J-Hoon、Benji、建珉、鞠旼杓、熙都。2014年7月8日，公開出道曲《你好》\[1\]，2014年7月12日，[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》表演出道舞台。\[2\]
+**B.I.G**（全寫為: **Boys In Groove**；），為[韓國GH娛樂公司於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2014年推出的5人男子組合，成員為J-Hoon、Benji、建珉、鞠旼杓、熙都。2014年7月8日，公開出道曲《你好》\[1\]，2014年7月12日，[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》表演出道舞台。\[2\]
 
-團名含有「**沉醉在音樂中的少年們**」的意思。\[3\]團體口號為 「**Who are we?
-B.I.G\!**」。\[4\]官方歌迷名為「**Beginning\!**」。\[5\]\[6\]
+團名含有「**沉醉在音樂中的少年們**」的意思。\[3\]團體口號為 「**Who are we? B.I.G\!**」。\[4\]官方歌迷名為「**Beginning\!**」。\[5\]\[6\]
 
 ## 成員列表
 
@@ -43,21 +41,13 @@ B.I.G\!**」。\[4\]官方歌迷名為「**Beginning\!**」。\[5\]\[6\]
 
 ## 團體發展
 
-2014年6月24日，開始陸續公開團體預告、概念照等。\[7\]\[8\] 2014年7月20日，發行出道單曲《Hello
-(안녕하세요)》。\[9\] 2014年10月21日，發行第二張單曲《準備好了嗎? (준비됐나요?)》。\[10\]
-2014年10月31日，於弘大，舉行Guerrilla活動。\[11\] 2014年12月12日，發行冬季單曲《Last
-Christmas》音源。\[12\]
+2014年6月24日，開始陸續公開團體預告、概念照等。\[7\]\[8\] 2014年7月20日，發行出道單曲《Hello (안녕하세요)》。\[9\] 2014年10月21日，發行第二張單曲《準備好了嗎? (준비됐나요?)》。\[10\] 2014年10月31日，於弘大，舉行Guerrilla活動。\[11\] 2014年12月12日，發行冬季單曲《Last Christmas》音源。\[12\]
 
-2015年3月6日，發行第三張單曲《Between Night n Music (밤과 음악 사이)》。\[13\]
-2015年11月17日，發行第四張單曲專輯《TAOLA》。\[14\]
+2015年3月6日，發行第三張單曲《Between Night n Music (밤과 음악 사이)》。\[13\] 2015年11月17日，發行第四張單曲專輯《TAOLA》。\[14\]
 
-2016年2月14日，於Tokyo's K Stage O，舉行首個日本公演活動。\[15\]
-2016年3月16日，發行首張日語單曲《TAOLA》。\[16\]
-2016年5月17日，發行首張迷你專輯《APHRODITE》。\[17\]
-2016年8月8日，發行Benji個人單曲《DUET（듀엣）》。
+2016年2月14日，於Tokyo's K Stage O，舉行首個日本公演活動。\[15\] 2016年3月16日，發行首張日語單曲《TAOLA》。\[16\] 2016年5月17日，發行首張迷你專輯《APHRODITE》。\[17\] 2016年8月8日，發行Benji個人單曲《DUET（듀엣）》。
 
-2017年2月13日，發行第五張單曲《Rebirth》回歸。\[18\] 2017年5月23日，發行第六張單曲《HELLO
-HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기억할게요）》。
+2017年2月13日，發行第五張單曲《Rebirth》回歸。\[18\] 2017年5月23日，發行第六張單曲《HELLO HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기억할게요）》。
 
 2018年4月10日，建珉、熙都發行單曲《Don't Worry》。
 
@@ -760,8 +750,7 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 
 <!-- end list -->
 
-  - [GH Entertainment
-    Official](https://web.archive.org/web/20150413035107/http://gh-ent.co.kr/main/main.php)
+  - [GH Entertainment Official](https://web.archive.org/web/20150413035107/http://gh-ent.co.kr/main/main.php)
 
   -
   -
@@ -787,11 +776,7 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 <!-- end list -->
 
   -
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 2.
@@ -799,254 +784,128 @@ HELLO》。\[19\] 2017年7月7日，發行第七張單曲《我會記得（기�
 4.
 5.
 6.
-7.  [TINT's agency GH Entertainment introduce their new boy group B.I.G
-    (Boys In
-    Groove)](https://www.allkpop.com/article/2014/06/tints-agency-gh-entertainment-introduce-their-new-boy-group-big-boys-in-groove)allkpop
-    - 2014-6-25
-8.  [Upcoming group B.I.G (Boys In Groove) release individual teaser
-    images](https://www.allkpop.com/article/2014/07/upcoming-group-big-boys-in-groove-release-individual-teaser-images)allkpop
-    - 2014-7-1
-9.  [新團
-    B.I.G《Hello》MV](https://www.kpopn.com/2014/07/10/%E6%96%B0%E5%9C%98-b-i-g%E3%80%8Ahello%E3%80%8Bmv/)Kpopn
-    - 2014-07-20
-10. [B.I.G “準備好了嗎?”
-    MV](https://www.kpopn.com/2014/10/21/b-i-g-%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-mv/)Kpopn
-    - 2014-10-21
-11. [B.I.G hold surprise guerrilla performances on the streets of
-    Seoul\!](https://www.allkpop.com/article/2014/11/big-hold-surprise-guerrilla-performances-on-the-streets-of-seoul)allkpop
-    - 2014-11-04
-12. [B.I.G”Last
-    Christmas”音源](https://www.kpopn.com/2014/12/12/b-i-glast-christmas%E9%9F%B3%E6%BA%90/)Kpopn
-    - 2014-12-12
-13. [B.I.G 新曲 MV
-    公開](https://www.kpopn.com/2015/03/06/b-i-g-%E6%96%B0%E6%9B%B2-mv-%E5%85%AC%E9%96%8B/)Kpopn
-    - 2015-03-06
-14. [B.I.G
-    新曲《TAOLA》MV](https://www.kpopn.com/2015/11/17/b-i-g-%E6%96%B0%E6%9B%B2%E3%80%8Ataola%E3%80%8Bmv/)Kpopn
-    - 2015-11-17
-15. [B.I.G (Boys In Groove) successfully debut in
-    Japan\!](https://www.allkpop.com/article/2016/02/big-boys-in-groove-successfully-debut-in-japan)allkpop
-    - 2016-2-15
-16. [Fans are going wild for B.I.G's upcoming Japanese single
-    album](https://www.allkpop.com/article/2016/03/fans-are-going-wild-for-bigs-upcoming-japanese-single-album)allkpop
-    - 2016-3-17
-17. [B.I.G
-    新輯《Aphrodite》音源、MV](https://www.kpopn.com/2016/05/17/b-i-g-%E6%96%B0%E8%BC%AF%E3%80%8Aaphrodite%E3%80%8B%E9%9F%B3%E6%BA%90%E3%80%81mv/)Kpopn
-    - 2016-5-17
-18. [B.I.G《1.2.3》MV
-    公開](https://www.kpopn.com/2017/02/13/b-i-g%E3%80%8A1-2-3%E3%80%8Bmv-%E5%85%AC%E9%96%8B/)Kpopn
-    - 2017-2-13
-19. [Watch: B.I.G Is Back And Better Than Ever With “Hello Hello”
-    MV](https://www.soompi.com/2017/05/23/watch-b-g-back-better-ever-hello-hello-mv/)Soompi
-    - 2017-5-23
-20. [B.I.G's Heedo raps the theme song for cycling race 'Tour de
-    Korea 2017'](https://www.allkpop.com/article/2017/06/bigs-heedo-raps-the-theme-song-for-cycling-race-tour-de-korea-2017)2017-6-12
+7.  [TINT's agency GH Entertainment introduce their new boy group B.I.G (Boys In Groove)](https://www.allkpop.com/article/2014/06/tints-agency-gh-entertainment-introduce-their-new-boy-group-big-boys-in-groove)allkpop - 2014-6-25
+8.  [Upcoming group B.I.G (Boys In Groove) release individual teaser images](https://www.allkpop.com/article/2014/07/upcoming-group-big-boys-in-groove-release-individual-teaser-images)allkpop - 2014-7-1
+9.  [新團 B.I.G《Hello》MV](https://www.kpopn.com/2014/07/10/%E6%96%B0%E5%9C%98-b-i-g%E3%80%8Ahello%E3%80%8Bmv/)Kpopn - 2014-07-20
+10. [B.I.G “準備好了嗎?” MV](https://www.kpopn.com/2014/10/21/b-i-g-%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-mv/)Kpopn - 2014-10-21
+11. [B.I.G hold surprise guerrilla performances on the streets of Seoul\!](https://www.allkpop.com/article/2014/11/big-hold-surprise-guerrilla-performances-on-the-streets-of-seoul)allkpop - 2014-11-04
+12. [B.I.G”Last Christmas”音源](https://www.kpopn.com/2014/12/12/b-i-glast-christmas%E9%9F%B3%E6%BA%90/)Kpopn - 2014-12-12
+13. [B.I.G 新曲 MV 公開](https://www.kpopn.com/2015/03/06/b-i-g-%E6%96%B0%E6%9B%B2-mv-%E5%85%AC%E9%96%8B/)Kpopn - 2015-03-06
+14. [B.I.G 新曲《TAOLA》MV](https://www.kpopn.com/2015/11/17/b-i-g-%E6%96%B0%E6%9B%B2%E3%80%8Ataola%E3%80%8Bmv/)Kpopn - 2015-11-17
+15. [B.I.G (Boys In Groove) successfully debut in Japan\!](https://www.allkpop.com/article/2016/02/big-boys-in-groove-successfully-debut-in-japan)allkpop - 2016-2-15
+16. [Fans are going wild for B.I.G's upcoming Japanese single album](https://www.allkpop.com/article/2016/03/fans-are-going-wild-for-bigs-upcoming-japanese-single-album)allkpop - 2016-3-17
+17. [B.I.G 新輯《Aphrodite》音源、MV](https://www.kpopn.com/2016/05/17/b-i-g-%E6%96%B0%E8%BC%AF%E3%80%8Aaphrodite%E3%80%8B%E9%9F%B3%E6%BA%90%E3%80%81mv/)Kpopn - 2016-5-17
+18. [B.I.G《1.2.3》MV 公開](https://www.kpopn.com/2017/02/13/b-i-g%E3%80%8A1-2-3%E3%80%8Bmv-%E5%85%AC%E9%96%8B/)Kpopn - 2017-2-13
+19. [Watch: B.I.G Is Back And Better Than Ever With “Hello Hello” MV](https://www.soompi.com/2017/05/23/watch-b-g-back-better-ever-hello-hello-mv/)Soompi - 2017-5-23
+20. [B.I.G's Heedo raps the theme song for cycling race 'Tour de Korea 2017'](https://www.allkpop.com/article/2017/06/bigs-heedo-raps-the-theme-song-for-cycling-race-tour-de-korea-2017)2017-6-12
 21.
 22.
 23. [你好（안녕하세요）](https://www.youtube.com/watch?v=pz2AX7Sd844)
 24. [準備好了嗎（준비됐나요）](https://www.youtube.com/watch?v=11sEuvwpKuQ)
 25. [夜與音樂之間（밤과 음악 사이）](https://www.youtube.com/watch?v=cnlPJM_p0m8)
 26. [TAOLA（타올라）](https://www.youtube.com/watch?v=ofqwOk-0wGk)
-27. [B.I.G(비아이지)(BOYS IN GROOVE) 타올라(TAOLA) MV Dance
-    Ver.](https://www.youtube.com/watch?v=WNu9UPfVjrU)
+27. [B.I.G(비아이지)(BOYS IN GROOVE) 타올라(TAOLA) MV Dance Ver.](https://www.youtube.com/watch?v=WNu9UPfVjrU)
 28. [APHRODITE (아프로디테)](https://www.youtube.com/watch?v=eV0KQhC2H8s)
-29. [벤지 (비아이지) With 혜이니 (BENJI (B.I.G) With HEYNE) - 듀엣 (DUET)
-    MV](https://www.youtube.com/watch?v=fahPMuSWOFc)
+29. [벤지 (비아이지) With 혜이니 (BENJI (B.I.G) With HEYNE) - 듀엣 (DUET) MV](https://www.youtube.com/watch?v=fahPMuSWOFc)
 30. [1.2.3 (원투쓰리)](https://www.youtube.com/watch?v=MiPzDTW4Ync)
-31. [HELLO HELLO (performance
-    ver.)](https://www.youtube.com/watch?v=eqf_ImHjyt0)
-32. [B.I.G(비아이지)의 데려다줄게 MV
-    ver.](https://www.youtube.com/watch?v=37CXZJuU5dk)
-33. [GUNMIN X HEEDO - Don't
-    Worry](https://www.youtube.com/watch?v=Uw4syJsMyIY)
-34. [희도 (Hee Do) - 투르 드 코리아 Tour de Korea Music
-    Video](https://www.youtube.com/watch?v=yr3kwcOHhGg)2017-6-12
+31. [HELLO HELLO (performance ver.)](https://www.youtube.com/watch?v=eqf_ImHjyt0)
+32. [B.I.G(비아이지)의 데려다줄게 MV ver.](https://www.youtube.com/watch?v=37CXZJuU5dk)
+33. [GUNMIN X HEEDO - Don't Worry](https://www.youtube.com/watch?v=Uw4syJsMyIY)
+34. [희도 (Hee Do) - 투르 드 코리아 Tour de Korea Music Video](https://www.youtube.com/watch?v=yr3kwcOHhGg)2017-6-12
 35.
 36.
 37.
 38.
 39.
-40. [B.I.G(비아이지) 희도 (feat. 건민) - VANILLA SKY
-    (산이_내가너가_instrumental)](https://www.youtube.com/watch?v=byAy9riDS3E)
-41. [HeeDo(희도) -
-    양아치](https://www.youtube.com/watch?v=COhWWfMvjJ4)2018年1月18日
-42. [B.I.G (Boys In Groove)'s Heedo releases new track 'Lonely Night' +
-    opens up
-    SoundCloud](https://www.allkpop.com/article/2018/01/big-boys-in-grooves-heedo-releases-new-track-lonely-night-opens-up-soundcloud)2018年1月18日
-43. [HeeDo(희도) - Lonely Night (feat.
-    Gunmin(건민))](https://www.youtube.com/watch?v=k0ElQs_NgBw)2018年1月18日
+40. [B.I.G(비아이지) 희도 (feat. 건민) - VANILLA SKY (산이_내가너가_instrumental)](https://www.youtube.com/watch?v=byAy9riDS3E)
+41. [HeeDo(희도) - 양아치](https://www.youtube.com/watch?v=COhWWfMvjJ4)2018年1月18日
+42. [B.I.G (Boys In Groove)'s Heedo releases new track 'Lonely Night' + opens up SoundCloud](https://www.allkpop.com/article/2018/01/big-boys-in-grooves-heedo-releases-new-track-lonely-night-opens-up-soundcloud)2018年1月18日
+43. [HeeDo(희도) - Lonely Night (feat. Gunmin(건민))](https://www.youtube.com/watch?v=k0ElQs_NgBw)2018年1月18日
 44. [準備好了嗎（준비됐나요）](https://www.youtube.com/watch?v=X7a6y_75f-o)
 45. [夜與音樂之間（밤과 음악 사이）](https://www.youtube.com/watch?v=6O2Fe2ySBJ0)
 46. [TAOLA（타올라）](https://www.youtube.com/watch?v=Md6-51Z1Rh4)
-47. [B.I.G(비아이지) - 1.2.3 안무영상 (학교
-    아이컨택ver.)](https://www.youtube.com/watch?v=nNg5C_CvDVs)
-48. [B.I.G(비아이지) - 1.2.3 안무영상
-    (교련복ver.)](https://www.youtube.com/watch?v=5pX6vzSIwD0)
-49. [B.I.G(비아이지) - 1.2.3 안무영상
-    (K타이거즈ver.)](https://www.youtube.com/watch?v=2oyq_wiEtZI)
-50. [B.I.G(비아이지) - 1.2.3 안무영상
-    (스피닝ver.)](https://www.youtube.com/watch?v=aptTqWznN3k)
-51. [B.I.G(비아이지) - 1.2.3 안무영상
-    (교실ver.)](https://www.youtube.com/watch?v=JE3ynRQ3NHc)
-52. [B.I.G(비아이지)의 아프로디테 안무영상 할로윈
-    흥ver.](https://www.youtube.com/watch?v=ha74aCY9k3Y)
-53. [B.I.G(비아이지) GUNMIN(건민) Dance Practice
-    Video](https://www.youtube.com/watch?v=TTTS_crsfNE)
-54. [B.I.G(비아이지) GUNMIN X HEEDO Trey songz - Mr. steal your girl Dance
-    Cover](https://www.youtube.com/watch?v=nhF73jcDCDk)
-55. [B.I.G(비아이지) 건민의 걸그룹
-    댄스](https://www.youtube.com/watch?v=FFJqG-w9g6M)
-56. [Heedo
-    加入《甜蜜的秘密》](https://www.kpopn.com/2014/10/30/heedo-%E5%8A%A0%E5%85%A5%E3%80%8A%E7%94%9C%E8%9C%9C%E7%9A%84%E7%A7%98%E5%AF%86%E3%80%8B/)
-57. [141007 Idol School Ep 7
-    FULL](https://www.youtube.com/watch?v=buRQRks4X14)
-58. [After School Club - BESTie & B.I.G - Full
-    Episode](https://www.youtube.com/watch?v=xxN7ROzoJ8s)
-59. [Pops in Seoul-B.I.G (Are You Ready?) B.I.G
-    (준비됐나요)](https://www.youtube.com/watch?v=rInQaS0DLcw)
-60. [B.I.G's Benji awes with his violin solo on 'Always
-    Cantare'](https://www.allkpop.com/article/2014/12/bigs-benji-awes-with-his-violin-solo-on-always-cantare)
-61. [K-Populous Ep27 B.I.G
-    비아이지](https://www.youtube.com/watch?v=MA82ZN1RJCM)
-62. [After School Club-Hangout with Benji′s friend 벤지의 친구와
-    행아웃](https://www.youtube.com/watch?v=Ms7jhKVm_GA)
-63. [141229 B.I.G(Boys In Groove) - Interview @ The Show Artist of The
-    Week](https://www.youtube.com/watch?v=OKiL-tx1818)
-64. [After School Club-When did Benji move to Korea - ASC K.Star Quiz
-    벤지는 언제 한국으로 왔을까요](https://www.youtube.com/watch?v=sfmYZ4jfka4)
-65. [After School Club Ep138 After School Club After Show with Benji 스페셜
-    엠씨 벤지와 함께하는 에프터스쿨 클럽
-    에프터쇼](https://www.youtube.com/watch?v=b5fb4id-BEs)
-66. [Pops in Seoul－B.I.G (Between Night n Music) B.I.G (밤과 음악
-    사이)](https://www.youtube.com/watch?v=AVvEGDAE6QE)
-67. [Henry、BENJI
-    出演節目](https://www.kpopn.com/2015/04/25/henry%E3%80%81benji-%E5%87%BA%E6%BC%94%E7%AF%80%E7%9B%AE/)
-68. [Henry and B.I.G’s Benji Confirmed for “Always Cantare”
-    Season 2](https://www.soompi.com/2015/04/22/henry-and-b-i-gs-benji-confirmed-for-always-cantare-season-2/)
-69. [Pops in Seoul _ B.I.G(비아이지) _ Rookie
-    Show](https://www.youtube.com/watch?v=MmnCBIwAGm4)
-70. [Pops in Seoul _ B.I.G(비아이지) _ Interview _
-    Part 1](https://www.youtube.com/watch?v=DHUezio1Su0)
-71. [해요TV B.I.G(제이훈)_'땡벌' 라이브 (EP17 박소현의 아이돌
-    TV)](https://www.youtube.com/watch?v=ulC7kL2kZPE&list=PLv3kJ3uWlFepGt-x5BkOZcg0m8ifDV-BL)
-72. [헬로코리아 시즌2 3회 ‘이상한 나라의 B.I.G’ -
-    B.I.G](https://www.youtube.com/watch?v=3VLrTClVtO0)
-73. [헬로코리아 시즌2 3회 ‘이상한 나라의 B.I.G’ -
-    B.I.G](http://tv.naver.com/v/1117053)
-74. [헬로코리아 시즌2 4회 ‘이상한 나라의 B.I.G’ -
-    B.I.G](http://tv.naver.com/v/1117095)
-75. [B.I.G's Benji becomes MC of all-English show 'Show Champion -
-    Curtain
-    Talk'](https://www.allkpop.com/article/2017/02/bigs-benji-becomes-mc-of-all-english-show-show-champion-curtain-talk)
+47. [B.I.G(비아이지) - 1.2.3 안무영상 (학교 아이컨택ver.)](https://www.youtube.com/watch?v=nNg5C_CvDVs)
+48. [B.I.G(비아이지) - 1.2.3 안무영상 (교련복ver.)](https://www.youtube.com/watch?v=5pX6vzSIwD0)
+49. [B.I.G(비아이지) - 1.2.3 안무영상 (K타이거즈ver.)](https://www.youtube.com/watch?v=2oyq_wiEtZI)
+50. [B.I.G(비아이지) - 1.2.3 안무영상 (스피닝ver.)](https://www.youtube.com/watch?v=aptTqWznN3k)
+51. [B.I.G(비아이지) - 1.2.3 안무영상 (교실ver.)](https://www.youtube.com/watch?v=JE3ynRQ3NHc)
+52. [B.I.G(비아이지)의 아프로디테 안무영상 할로윈 흥ver.](https://www.youtube.com/watch?v=ha74aCY9k3Y)
+53. [B.I.G(비아이지) GUNMIN(건민) Dance Practice Video](https://www.youtube.com/watch?v=TTTS_crsfNE)
+54. [B.I.G(비아이지) GUNMIN X HEEDO Trey songz - Mr. steal your girl Dance Cover](https://www.youtube.com/watch?v=nhF73jcDCDk)
+55. [B.I.G(비아이지) 건민의 걸그룹 댄스](https://www.youtube.com/watch?v=FFJqG-w9g6M)
+56. [Heedo 加入《甜蜜的秘密》](https://www.kpopn.com/2014/10/30/heedo-%E5%8A%A0%E5%85%A5%E3%80%8A%E7%94%9C%E8%9C%9C%E7%9A%84%E7%A7%98%E5%AF%86%E3%80%8B/)
+57. [141007 Idol School Ep 7 FULL](https://www.youtube.com/watch?v=buRQRks4X14)
+58. [After School Club - BESTie & B.I.G - Full Episode](https://www.youtube.com/watch?v=xxN7ROzoJ8s)
+59. [Pops in Seoul-B.I.G (Are You Ready?) B.I.G (준비됐나요)](https://www.youtube.com/watch?v=rInQaS0DLcw)
+60. [B.I.G's Benji awes with his violin solo on 'Always Cantare'](https://www.allkpop.com/article/2014/12/bigs-benji-awes-with-his-violin-solo-on-always-cantare)
+61. [K-Populous Ep27 B.I.G 비아이지](https://www.youtube.com/watch?v=MA82ZN1RJCM)
+62. [After School Club-Hangout with Benji′s friend 벤지의 친구와 행아웃](https://www.youtube.com/watch?v=Ms7jhKVm_GA)
+63. [141229 B.I.G(Boys In Groove) - Interview @ The Show Artist of The Week](https://www.youtube.com/watch?v=OKiL-tx1818)
+64. [After School Club-When did Benji move to Korea - ASC K.Star Quiz 벤지는 언제 한국으로 왔을까요](https://www.youtube.com/watch?v=sfmYZ4jfka4)
+65. [After School Club Ep138 After School Club After Show with Benji 스페셜 엠씨 벤지와 함께하는 에프터스쿨 클럽 에프터쇼](https://www.youtube.com/watch?v=b5fb4id-BEs)
+66. [Pops in Seoul－B.I.G (Between Night n Music) B.I.G (밤과 음악 사이)](https://www.youtube.com/watch?v=AVvEGDAE6QE)
+67. [Henry、BENJI 出演節目](https://www.kpopn.com/2015/04/25/henry%E3%80%81benji-%E5%87%BA%E6%BC%94%E7%AF%80%E7%9B%AE/)
+68. [Henry and B.I.G’s Benji Confirmed for “Always Cantare” Season 2](https://www.soompi.com/2015/04/22/henry-and-b-i-gs-benji-confirmed-for-always-cantare-season-2/)
+69. [Pops in Seoul _ B.I.G(비아이지) _ Rookie Show](https://www.youtube.com/watch?v=MmnCBIwAGm4)
+70. [Pops in Seoul _ B.I.G(비아이지) _ Interview _ Part 1](https://www.youtube.com/watch?v=DHUezio1Su0)
+71. [해요TV B.I.G(제이훈)_'땡벌' 라이브 (EP17 박소현의 아이돌 TV)](https://www.youtube.com/watch?v=ulC7kL2kZPE&list=PLv3kJ3uWlFepGt-x5BkOZcg0m8ifDV-BL)
+72. [헬로코리아 시즌2 3회 ‘이상한 나라의 B.I.G’ - B.I.G](https://www.youtube.com/watch?v=3VLrTClVtO0)
+73. [헬로코리아 시즌2 3회 ‘이상한 나라의 B.I.G’ - B.I.G](http://tv.naver.com/v/1117053)
+74. [헬로코리아 시즌2 4회 ‘이상한 나라의 B.I.G’ - B.I.G](http://tv.naver.com/v/1117095)
+75. [B.I.G's Benji becomes MC of all-English show 'Show Champion - Curtain Talk'](https://www.allkpop.com/article/2017/02/bigs-benji-becomes-mc-of-all-english-show-show-champion-curtain-talk)
 76. [헬로코리아 시즌2 27회 - ‘최고의 미래 남자친구 B.I.G'](http://tv.naver.com/v/1469164)
 77. [헬로코리아 시즌2 28회 - ‘최고의 미래 남자친구 B.I.G'](http://tv.naver.com/v/1469216)
-78. [B.I.G is next up for MBC Music's 'B.I.G Project' reality
-    series\!](https://www.allkpop.com/article/2017/02/big-is-next-up-for-mbc-musics-big-project-reality-series)
-79. [Pops in Seoul B.I.G(비아이지) _ Q &
-    A](https://www.youtube.com/watch?v=F5OWFIR-hg4)
-80. [B.I.G 비글비글 방구쟁이♡ 남친돌 비아이지 -
-    팩트iN스타](https://www.youtube.com/watch?v=mfcqJUCRE_U)
-81. [After School Club Ep.268 - B.I.G(비아이지) _ Full Episode
-    _ 061317](https://www.youtube.com/watch?v=mwjWJrubrbE)
-82. [Watch B.I.G, MAP6, and Matilda show off their impressive dancing
-    skills during 'Random Play Dance' on 'Weekly
-    Idol'](https://www.allkpop.com/article/2017/07/watch-big-map6-and-matilda-show-off-their-impressive-dancing-skills-during-random-play-dance-on-weekly-idol)
-83. [“The Unit” Announces Latest Rankings + Results Of 2nd
-    Elimination](https://www.soompi.com/2018/01/06/unit-announces-latest-rankings-results-2nd-elimination/)
-84. [Eliminated Contestants From “The Unit” Write Heartfelt Messages To
-    Their
-    Supporters](https://www.soompi.com/2018/01/07/eliminated-contestants-unit-write-heartfelt-messages-supporters/)
-85. [“The Unit” Announces Rankings And Results Of 3rd Elimination Before
-    Finale](https://www.soompi.com/2018/02/03/unit-announces-rankings-results-3rd-elimination-finale/)
-86. [Tour Avatar 2 B.I.G(비아이지) PART.1 X 강릉(GANGNEUNG) _ Full
-    Episode](https://www.youtube.com/watch?v=MEPOX_bK75U)
-87. [Tour Avatar 2 B.I.G(비아이지) PART.2 X 영덕, 울진(YEONGDEOK, ULJIN) _ Full
-    Episode](https://www.youtube.com/watch?v=Ggi12RqcnEo)
-88. [K-Poppin' 비아이지(B.I.G) - 안녕하세요
-    (Hello)](https://www.youtube.com/watch?v=sLZICNwKaCw)
-89. [140806 K-Poppin' Arirang Radio - K-Pop Showdown with Tina &
-    Benji](https://www.youtube.com/watch?v=3rWYJsPcEbg)
-90. [140728 Sound K - Star Date: B.I.G
-    (비아이지)](https://www.youtube.com/watch?v=g-9rXhmckxA)
-91. [Sound K 비아이지 (B.I.G) - 니가 뭔데 (Who
-    You?)](https://www.youtube.com/watch?v=wFpPwIC_2Gg)
-92. [Radio 140813 Sound K - Sweet Sweet Music Box: Benji
-    (B.I.G)](https://www.youtube.com/watch?v=h85qAF-WBGg)
-93. [Video 010914 DJ Stephanie Sound K Arirang Radio with B.I.G
-    Benji](https://www.youtube.com/watch?v=qmsnyJIDPuY)
-94. [Radio 141015 Sound K - Heart To Heart: Jessi &
-    Benji](https://www.youtube.com/watch?v=3pHDgft96aE)
-95. [Super K-Pop 비아이지 (B.I.G) - 준비됐나요 (Are You
-    Ready?)](https://www.youtube.com/watch?v=i3970XLBMsU)
-96. [141029 Sound K Heart to Heart with Jessi and
-    Benji](https://www.youtube.com/watch?v=C43mytRurbU)
-97. [141113 비아이지 (B.I.G) 벤지 (Benji)
-    바이올린](https://www.youtube.com/watch?v=IyPlEgyPAZE)
-98. [정준영의 심심타파 - B.I.G - WHO YOU?, 비아이지 - 니가
-    뭔데 20141227](https://www.youtube.com/watch?v=ovWT9ueLp8E)
-99. [정준영의 심심타파 - Handsome Ranking, B.I.G\&Boys Republic - 막내가뽑은외모순위
-    B.I.G&소년공화국 141227](https://www.youtube.com/watch?v=2JYZfiHW0VM)
-100. [291214 DJ Benji Music Access Arirang
-     Radio](https://www.youtube.com/watch?v=2KEl-XqhYBU&index=15&list=PLqBedA_nzgK65xdd7a2r4DUPgN3wh47OO)
-101. <https://www.youtube.com/watch?v=_nP8ZHhfOkY> Sound K B.I.G - 니가 뭔데
-     (Who You?), Lucky J - Dueces\]
-102. [K-Poppin' 비아이지 (B.I.G) - 밤과 음악 사이 (Between Night n
-     Music)](https://www.youtube.com/watch?v=KxRjm_-fU0Y)
-103. [Sound K 벤지 (Benji) - Hold on We're Going
-     Home](https://www.youtube.com/watch?v=JVwh9EoNGf0)
-104. [150323 Sound K Star Date with
-     B.I.G](https://www.youtube.com/watch?v=TGzs-Q3wXuI)
-105. [150329 Super Junior's Kiss the
-     Radio](https://www.youtube.com/watch?v=XRQRaEQbX5I)
+78. [B.I.G is next up for MBC Music's 'B.I.G Project' reality series\!](https://www.allkpop.com/article/2017/02/big-is-next-up-for-mbc-musics-big-project-reality-series)
+79. [Pops in Seoul B.I.G(비아이지) _ Q & A](https://www.youtube.com/watch?v=F5OWFIR-hg4)
+80. [B.I.G 비글비글 방구쟁이♡ 남친돌 비아이지 - 팩트iN스타](https://www.youtube.com/watch?v=mfcqJUCRE_U)
+81. [After School Club Ep.268 - B.I.G(비아이지) _ Full Episode _ 061317](https://www.youtube.com/watch?v=mwjWJrubrbE)
+82. [Watch B.I.G, MAP6, and Matilda show off their impressive dancing skills during 'Random Play Dance' on 'Weekly Idol'](https://www.allkpop.com/article/2017/07/watch-big-map6-and-matilda-show-off-their-impressive-dancing-skills-during-random-play-dance-on-weekly-idol)
+83. [“The Unit” Announces Latest Rankings + Results Of 2nd Elimination](https://www.soompi.com/2018/01/06/unit-announces-latest-rankings-results-2nd-elimination/)
+84. [Eliminated Contestants From “The Unit” Write Heartfelt Messages To Their Supporters](https://www.soompi.com/2018/01/07/eliminated-contestants-unit-write-heartfelt-messages-supporters/)
+85. [“The Unit” Announces Rankings And Results Of 3rd Elimination Before Finale](https://www.soompi.com/2018/02/03/unit-announces-rankings-results-3rd-elimination-finale/)
+86. [Tour Avatar 2 B.I.G(비아이지) PART.1 X 강릉(GANGNEUNG) _ Full Episode](https://www.youtube.com/watch?v=MEPOX_bK75U)
+87. [Tour Avatar 2 B.I.G(비아이지) PART.2 X 영덕, 울진(YEONGDEOK, ULJIN) _ Full Episode](https://www.youtube.com/watch?v=Ggi12RqcnEo)
+88. [K-Poppin' 비아이지(B.I.G) - 안녕하세요 (Hello)](https://www.youtube.com/watch?v=sLZICNwKaCw)
+89. [140806 K-Poppin' Arirang Radio - K-Pop Showdown with Tina & Benji](https://www.youtube.com/watch?v=3rWYJsPcEbg)
+90. [140728 Sound K - Star Date: B.I.G (비아이지)](https://www.youtube.com/watch?v=g-9rXhmckxA)
+91. [Sound K 비아이지 (B.I.G) - 니가 뭔데 (Who You?)](https://www.youtube.com/watch?v=wFpPwIC_2Gg)
+92. [Radio 140813 Sound K - Sweet Sweet Music Box: Benji (B.I.G)](https://www.youtube.com/watch?v=h85qAF-WBGg)
+93. [Video 010914 DJ Stephanie Sound K Arirang Radio with B.I.G Benji](https://www.youtube.com/watch?v=qmsnyJIDPuY)
+94. [Radio 141015 Sound K - Heart To Heart: Jessi & Benji](https://www.youtube.com/watch?v=3pHDgft96aE)
+95. [Super K-Pop 비아이지 (B.I.G) - 준비됐나요 (Are You Ready?)](https://www.youtube.com/watch?v=i3970XLBMsU)
+96. [141029 Sound K Heart to Heart with Jessi and Benji](https://www.youtube.com/watch?v=C43mytRurbU)
+97. [141113 비아이지 (B.I.G) 벤지 (Benji) 바이올린](https://www.youtube.com/watch?v=IyPlEgyPAZE)
+98. [정준영의 심심타파 - B.I.G - WHO YOU?, 비아이지 - 니가 뭔데 20141227](https://www.youtube.com/watch?v=ovWT9ueLp8E)
+99. [정준영의 심심타파 - Handsome Ranking, B.I.G\&Boys Republic - 막내가뽑은외모순위 B.I.G&소년공화국 141227](https://www.youtube.com/watch?v=2JYZfiHW0VM)
+100. [291214 DJ Benji Music Access Arirang Radio](https://www.youtube.com/watch?v=2KEl-XqhYBU&index=15&list=PLqBedA_nzgK65xdd7a2r4DUPgN3wh47OO)
+101. <https://www.youtube.com/watch?v=_nP8ZHhfOkY> Sound K B.I.G - 니가 뭔데 (Who You?), Lucky J - Dueces\]
+102. [K-Poppin' 비아이지 (B.I.G) - 밤과 음악 사이 (Between Night n Music)](https://www.youtube.com/watch?v=KxRjm_-fU0Y)
+103. [Sound K 벤지 (Benji) - Hold on We're Going Home](https://www.youtube.com/watch?v=JVwh9EoNGf0)
+104. [150323 Sound K Star Date with B.I.G](https://www.youtube.com/watch?v=TGzs-Q3wXuI)
+105. [150329 Super Junior's Kiss the Radio](https://www.youtube.com/watch?v=XRQRaEQbX5I)
 106. [eFM kpopular radio](https://www.youtube.com/watch?v=S1KMn7EATFM)
-107. [150420 Music Access with DJ B.I.G Benji and
-     Tasha](https://www.youtube.com/watch?v=_4NQ_8ziJbg&index=41&list=PLqBedA_nzgK65xdd7a2r4DUPgN3wh47OO)
-108. [Music Access 벤지 (Benji) & 제인 (Jane) -
-     Stay](https://www.youtube.com/watch?v=Ykui2TRZSu8)
-109. [Music Access B.I.G - 타올라
-     (TAOLA)](https://www.youtube.com/watch?v=5jngmauRsH8)
-110. [Sound K B.I.G Interview &
-     Live](https://www.youtube.com/watch?v=VZLQVkv6VUU)
-111. [Super K-Pop B.I.G - 타올라
-     (TAOLA)](https://www.youtube.com/watch?v=_OYMenFdzxM)
-112. [Music Access B.I.G
-     Interview](https://www.youtube.com/watch?v=Ov6DMhR8ZS0)
-113. [Moonlight paradise B.I.G - Carmen Fantasy, 벤지 - Carmen Fantasy
-     박정아의
-     달빛낙원 20160208](https://www.youtube.com/watch?v=1qRg3HeBsg8)
-114. [K-Poppin' B.I.G - 아프로디테
-     (Aphrodite)](https://www.youtube.com/watch?v=22KmaOBIZnw)
-115. [Super K-Pop B.I.G - 데려다 줄게 (Take You
-     Home)](https://www.youtube.com/watch?v=pA0-M0NKf-w)
-116. [ONFM《娱乐笑笑》B.I.G Boys In Groove
-     驾到！（精华篇）220716](https://www.youtube.com/watch?v=ZkN9iQv_0sM)
-117. \[WBS Radio with DJ J-Hoon 160913 WBS Radio with DJ J-Hoon (제이훈) of
-     B.I.G (비아이지)\]
-118. [Music Access B.I.G Interview &
-     Live](https://www.youtube.com/watch?v=xdlW2XXQiBI)
-119. [160928 Sound K Song Express with DJ eSNa & Benji (벤지) of B.I.G
-     (비아이지)](https://www.youtube.com/watch?v=ARhiwovAEm0)
-120. [170213 K Poppin' FB Live with B.I.G
-     (비아이지)](https://www.youtube.com/watch?v=eo9qV9mT9T0)
-121. [360° Video B.I.G(비아이지) _ K-Poppin'(Arirang
-     Radio)](https://www.youtube.com/watch?v=coW1eLIneKs)
-122. [K-Poppin' 비아이지 (B.I.G)
-     - 1.2.3](https://www.youtube.com/watch?v=5NVIrw8XX7Q)
-123. [이국주의영스트리트,1. 2. 3, 비아이지
-     라이브](https://www.youtube.com/watch?v=sZTeC9fPcDM)
-124. [Super K-Pop 비아이지 (B.I.G) - 밤과 음악 사이 (Between Night n
-     Music)](https://www.youtube.com/watch?v=2lu_7QGwdfs)
-125. [신(新) 인물사전 with 비아이지 (B.I.G) full.ver / 170604 이홍기의 키스 더
-     라디오](https://www.youtube.com/watch?v=VcGigKSSMhE)
-126. [Sound K 비아이지 (B.I.G) - Hello
-     Hello](https://www.youtube.com/watch?v=uNK3bllt58s)
-127. [360° Video B.I.G(비아이지) _ K-Poppin (Arirang
-     Radio)](https://www.youtube.com/watch?v=8-unz8dMcE8)
-128. [170710 Super Kpop with B.I.G
-     비아이지](https://www.youtube.com/watch?v=egvFDjNMj0M)
-129. [171005 Sound K with B.I.G (비아이지) & Apple.B
-     (애플비)](https://www.youtube.com/watch?v=9ocGSpt5GIs)
-130. [171006 WBS Radio with DJ J-Hoon (제이훈) of B.I.G
-     (비아이지)](https://www.youtube.com/watch?v=U5rOjmRO81c)
-131. [B.I.G & Apple.B (비아이지 & 애플비) Talent
-     Show](https://www.youtube.com/watch?v=KQalLPWM3yI)
+107. [150420 Music Access with DJ B.I.G Benji and Tasha](https://www.youtube.com/watch?v=_4NQ_8ziJbg&index=41&list=PLqBedA_nzgK65xdd7a2r4DUPgN3wh47OO)
+108. [Music Access 벤지 (Benji) & 제인 (Jane) - Stay](https://www.youtube.com/watch?v=Ykui2TRZSu8)
+109. [Music Access B.I.G - 타올라 (TAOLA)](https://www.youtube.com/watch?v=5jngmauRsH8)
+110. [Sound K B.I.G Interview & Live](https://www.youtube.com/watch?v=VZLQVkv6VUU)
+111. [Super K-Pop B.I.G - 타올라 (TAOLA)](https://www.youtube.com/watch?v=_OYMenFdzxM)
+112. [Music Access B.I.G Interview](https://www.youtube.com/watch?v=Ov6DMhR8ZS0)
+113. [Moonlight paradise B.I.G - Carmen Fantasy, 벤지 - Carmen Fantasy 박정아의 달빛낙원 20160208](https://www.youtube.com/watch?v=1qRg3HeBsg8)
+114. [K-Poppin' B.I.G - 아프로디테 (Aphrodite)](https://www.youtube.com/watch?v=22KmaOBIZnw)
+115. [Super K-Pop B.I.G - 데려다 줄게 (Take You Home)](https://www.youtube.com/watch?v=pA0-M0NKf-w)
+116. [ONFM《娱乐笑笑》B.I.G Boys In Groove 驾到！（精华篇）220716](https://www.youtube.com/watch?v=ZkN9iQv_0sM)
+117. \[WBS Radio with DJ J-Hoon 160913 WBS Radio with DJ J-Hoon (제이훈) of B.I.G (비아이지)\]
+118. [Music Access B.I.G Interview & Live](https://www.youtube.com/watch?v=xdlW2XXQiBI)
+119. [160928 Sound K Song Express with DJ eSNa & Benji (벤지) of B.I.G (비아이지)](https://www.youtube.com/watch?v=ARhiwovAEm0)
+120. [170213 K Poppin' FB Live with B.I.G (비아이지)](https://www.youtube.com/watch?v=eo9qV9mT9T0)
+121. [360° Video B.I.G(비아이지) _ K-Poppin'(Arirang Radio)](https://www.youtube.com/watch?v=coW1eLIneKs)
+122. [K-Poppin' 비아이지 (B.I.G) - 1.2.3](https://www.youtube.com/watch?v=5NVIrw8XX7Q)
+123. [이국주의영스트리트,1. 2. 3, 비아이지 라이브](https://www.youtube.com/watch?v=sZTeC9fPcDM)
+124. [Super K-Pop 비아이지 (B.I.G) - 밤과 음악 사이 (Between Night n Music)](https://www.youtube.com/watch?v=2lu_7QGwdfs)
+125. [신(新) 인물사전 with 비아이지 (B.I.G) full.ver / 170604 이홍기의 키스 더 라디오](https://www.youtube.com/watch?v=VcGigKSSMhE)
+126. [Sound K 비아이지 (B.I.G) - Hello Hello](https://www.youtube.com/watch?v=uNK3bllt58s)
+127. [360° Video B.I.G(비아이지) _ K-Poppin (Arirang Radio)](https://www.youtube.com/watch?v=8-unz8dMcE8)
+128. [170710 Super Kpop with B.I.G 비아이지](https://www.youtube.com/watch?v=egvFDjNMj0M)
+129. [171005 Sound K with B.I.G (비아이지) & Apple.B (애플비)](https://www.youtube.com/watch?v=9ocGSpt5GIs)
+130. [171006 WBS Radio with DJ J-Hoon (제이훈) of B.I.G (비아이지)](https://www.youtube.com/watch?v=U5rOjmRO81c)
+131. [B.I.G & Apple.B (비아이지 & 애플비) Talent Show](https://www.youtube.com/watch?v=KQalLPWM3yI)

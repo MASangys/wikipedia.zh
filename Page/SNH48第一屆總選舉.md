@@ -1,4 +1,4 @@
-**SNH48第一屆總選舉「一心向前」**，是日本女子偶像團體[AKB48在上海的姐妹團體](../Page/AKB48.md "wikilink")[SNH48在](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2014年5月至7月間舉辦的投票活動，由歌迷以投票的方式，決定演唱第6張EP《嗚吒（UZA）》同名歌曲的16位成員（稱為「選拔組」）。\[1\]
+**SNH48第一屆總選舉「一心向前」**，是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")在上海的姐妹團體[SNH48在](https://zh.wikipedia.org/wiki/SNH48 "wikilink")2014年5月至7月間舉辦的投票活動，由歌迷以投票的方式，決定演唱第6張EP《嗚吒（UZA）》同名歌曲的16位成員（稱為「選拔組」）。\[1\]
 
 ## 概要
 
@@ -10,14 +10,8 @@
 
 所有SNH48正式成員（包括海外留學生）均為總選舉候選人。 以下是選舉期間SNH48在籍的正式成員:
 
-  - Team SII （21人）:
-    [陈观慧](https://zh.wikipedia.org/wiki/陈观慧 "wikilink")、[陳思](https://zh.wikipedia.org/wiki/陳思_\(SNH48\) "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（海外留學生，兼任SKE48
-    Team
-    S）、[蒋芸](https://zh.wikipedia.org/wiki/蒋芸 "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（海外留學生，兼任AKB48
-    Team
-    K）、[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、[钱蓓婷](https://zh.wikipedia.org/wiki/钱蓓婷 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孙芮](../Page/孙芮.md "wikilink")、[沈之琳](https://zh.wikipedia.org/wiki/沈之琳 "wikilink")、[温晶婕](https://zh.wikipedia.org/wiki/温晶婕 "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[许佳琪](../Page/许佳琪.md "wikilink")、[徐子轩](https://zh.wikipedia.org/wiki/徐子轩 "wikilink")、[袁雨桢](https://zh.wikipedia.org/wiki/袁雨桢 "wikilink")、[赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink")、[张语格](../Page/张语格.md "wikilink")
-  - Team NII （19人）:
-    [陈佳莹](https://zh.wikipedia.org/wiki/陈佳莹 "wikilink")、[陳問言](https://zh.wikipedia.org/wiki/陳問言 "wikilink")、[董艳芸](https://zh.wikipedia.org/wiki/董艳芸 "wikilink")、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、[龚诗淇](../Page/龚诗淇.md "wikilink")、[黄婷婷](../Page/黄婷婷.md "wikilink")、[何晓玉](https://zh.wikipedia.org/wiki/何晓玉 "wikilink")、[鞠婧祎](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")、[罗兰](https://zh.wikipedia.org/wiki/罗兰_\(SNH48\) "wikilink")、[林思意](../Page/林思意.md "wikilink")、[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[孟玥](https://zh.wikipedia.org/wiki/孟玥 "wikilink")、[唐安琪](../Page/唐安琪.md "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")、[徐言雨](https://zh.wikipedia.org/wiki/徐言雨 "wikilink")、[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")、[曾艳芬](../Page/曾艳芬.md "wikilink")
+  - Team SII （21人）: [陈观慧](https://zh.wikipedia.org/wiki/陈观慧 "wikilink")、[陳思](https://zh.wikipedia.org/wiki/陳思_\(SNH48\) "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（海外留學生，兼任SKE48 Team S）、[蒋芸](https://zh.wikipedia.org/wiki/蒋芸 "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（海外留學生，兼任AKB48 Team K）、[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、[钱蓓婷](https://zh.wikipedia.org/wiki/钱蓓婷 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孙芮](../Page/孙芮.md "wikilink")、[沈之琳](https://zh.wikipedia.org/wiki/沈之琳 "wikilink")、[温晶婕](https://zh.wikipedia.org/wiki/温晶婕 "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[许佳琪](../Page/许佳琪.md "wikilink")、[徐子轩](https://zh.wikipedia.org/wiki/徐子轩 "wikilink")、[袁雨桢](https://zh.wikipedia.org/wiki/袁雨桢 "wikilink")、[赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink")、[张语格](../Page/张语格.md "wikilink")
+  - Team NII （19人）: [陈佳莹](https://zh.wikipedia.org/wiki/陈佳莹 "wikilink")、[陳問言](https://zh.wikipedia.org/wiki/陳問言 "wikilink")、[董艳芸](https://zh.wikipedia.org/wiki/董艳芸 "wikilink")、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、[龚诗淇](../Page/龚诗淇.md "wikilink")、[黄婷婷](../Page/黄婷婷.md "wikilink")、[何晓玉](https://zh.wikipedia.org/wiki/何晓玉 "wikilink")、[鞠婧祎](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")、[罗兰](https://zh.wikipedia.org/wiki/罗兰_\(SNH48\) "wikilink")、[林思意](../Page/林思意.md "wikilink")、[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[孟玥](https://zh.wikipedia.org/wiki/孟玥 "wikilink")、[唐安琪](../Page/唐安琪.md "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")、[徐言雨](https://zh.wikipedia.org/wiki/徐言雨 "wikilink")、[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")、[曾艳芬](../Page/曾艳芬.md "wikilink")
 
 ## 投票資格及方法
 
@@ -34,21 +28,16 @@
 ## 拉票活動
 
   - 各候選成員均拍攝了一段長約一至兩分鐘的短片，發表自己的參選宣言。
-  - TeamSII 和Team
-    NII分別在其中一場劇場公演結束後舉行集體拉票專場，回答粉絲提問。另外，兩隊在總選舉啟動儀式中均舉進行了猜拳比賽，分別決出八名及七名舉行個人拉票專場資格的成員，由5月16日起每場劇場公演結束後，其中一位獲選成員將發表參選演說，及回答粉絲提問。以下是兩隊獲個人拉票專場的成員名單（以舉行專場時間順序排列）:
+  - TeamSII 和Team NII分別在其中一場劇場公演結束後舉行集體拉票專場，回答粉絲提問。另外，兩隊在總選舉啟動儀式中均舉進行了猜拳比賽，分別決出八名及七名舉行個人拉票專場資格的成員，由5月16日起每場劇場公演結束後，其中一位獲選成員將發表參選演說，及回答粉絲提問。以下是兩隊獲個人拉票專場的成員名單（以舉行專場時間順序排列）:
       - Team SII: 孔肖吟、张语格、袁雨桢、徐子轩、沈之琳、赵嘉敏、温晶婕、莫寒
-      - Team NII:
-        龚诗淇、何晓玉、陆婷、易嘉爱、徐言雨、陳問言、[曾艳芬](../Page/曾艳芬.md "wikilink")
+      - Team NII: 龚诗淇、何晓玉、陆婷、易嘉爱、徐言雨、陳問言、[曾艳芬](../Page/曾艳芬.md "wikilink")
   - 所有參選宣言及拉票專場影片均被上載至官方網站。\[5\]
 
 ## 速報
 
   - 速報發表時間為2014年5月30日Team SII公演結束後，地點為上海星夢劇院。\[6\]
-  - 本次速報公佈了總投票數為11,832票，以及暫時排名前16位的成員及得票數，Team SII及Team
-    NII分別有10名及6名成員入選。
-  - 較令人意外的是Team
-    NII成員[李藝彤以](../Page/李藝彤.md "wikilink")956票排名速報第一，當時李藝彤仍只是Team
-    NII的替補成員。
+  - 本次速報公佈了總投票數為11,832票，以及暫時排名前16位的成員及得票數，Team SII及Team NII分別有10名及6名成員入選。
+  - 較令人意外的是Team NII成員[李藝彤](../Page/李藝彤.md "wikilink")以956票排名速報第一，當時李藝彤仍只是Team NII的替補成員。
 
 | 速報排名 | 成員名稱 | 所屬隊伍     | 票數  |
 | ---- | ---- | -------- | --- |
@@ -72,8 +61,7 @@
 ## 中間發表
 
   - 中間發表時間為2014年7月5日Team SII公演結束後，地點為上海星夢劇院。\[7\]
-  - 本次中間發表公佈了截至當天早上10時排名前16位的成員及得票數，Team SII及Team
-    NII成員比例維持不變，分別有10名及6名成員，當中陳思、李宇琪、趙粵、易嘉愛和龔詩淇為新打入16強的成員。
+  - 本次中間發表公佈了截至當天早上10時排名前16位的成員及得票數，Team SII及Team NII成員比例維持不變，分別有10名及6名成員，當中陳思、李宇琪、趙粵、易嘉愛和龔詩淇為新打入16強的成員。
 
 | 速報排名 | 成員名稱 | 所屬隊伍     | 票數    |
 | ---- | ---- | -------- | ----- |
@@ -96,8 +84,7 @@
 
 ## 開票日演唱會
 
-**「一心向前」演唱會**於2014年7月26日晚上6時48分於上海国际体操中心舉行，由[上海广播电视台](../Page/上海广播电视台.md "wikilink")[動感101主持人丁丁和麦子主持](../Page/動感101.md "wikilink")，[百度](../Page/百度.md "wikilink")、[優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink")、愛奇藝、PPS、[騰訊](https://zh.wikipedia.org/wiki/騰訊 "wikilink")、[新浪](../Page/新浪.md "wikilink")、ppTV
-、鬥魚、ACFUN、齊齊互動視頻等網上媒體作直播或轉播。
+**「一心向前」演唱會**於2014年7月26日晚上6時48分於上海国际体操中心舉行，由[上海广播电视台](../Page/上海广播电视台.md "wikilink")[動感101](../Page/動感101.md "wikilink")主持人丁丁和麦子主持，[百度](../Page/百度.md "wikilink")、[優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink")、愛奇藝、PPS、[騰訊](https://zh.wikipedia.org/wiki/騰訊 "wikilink")、[新浪](../Page/新浪.md "wikilink")、ppTV 、鬥魚、ACFUN、齊齊互動視頻等網上媒體作直播或轉播。
 
 此次演唱會除公佈第一屆總選舉最終16強名單，亦公開了四首全新單曲:《懸鈴木》、《第一隻兔子》、《狼與自尊》及《錯過奇蹟》，除《狼與自尊》外，其餘三首歌曲都被收錄在《嗚吒》EP中。
 
@@ -110,19 +97,15 @@
 5.  《[化作櫻花樹](https://zh.wikipedia.org/wiki/無盡旋轉 "wikilink")》 - Team SII
 6.  《[第一隻兔子](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - Team NII
 7.  《[愛的意義](../Page/心電感應_\(SNH48_EP\).md "wikilink")》 - Team NII
-8.  《[SNH参上\!](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」#SNH48_Team_SII_2nd_Stage「永恆之光」公演 "wikilink")》
-    - Team SII
+8.  《[SNH参上\!](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」#SNH48_Team_SII_2nd_Stage「永恆之光」公演 "wikilink")》 - Team SII
 9.  《[懸鈴木](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - Team SII
 10. 《[馬尾與髮圈](../Page/一心向前.md "wikilink")》 - Team NII
-11. 《[诚实的汗水](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」#SNH48_Team_NII_2nd_Stage「逆流而上」公演 "wikilink")》
-    - Team NII
+11. 《[诚实的汗水](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」#SNH48_Team_NII_2nd_Stage「逆流而上」公演 "wikilink")》 - Team NII
 12. 《[開拓者](../Page/愛的幸運曲奇.md "wikilink")》 - Team SII
-13. 《[流着淚微笑](https://zh.wikipedia.org/wiki/SNH48第一屆總選舉#開票日演唱會 "wikilink")》
-    - 徐晨辰、鞠婧禕
+13. 《[流着淚微笑](https://zh.wikipedia.org/wiki/SNH48第一屆總選舉#開票日演唱會 "wikilink")》 - 徐晨辰、鞠婧禕
 14. 《[狼與自尊](../Page/雨季之後.md "wikilink")》 - 龔詩淇、易嘉愛
 15. 《[錯過奇蹟](https://zh.wikipedia.org/wiki/嗚吒 "wikilink")》 - 孔肖吟、李宇琪、邱欣怡
-16. 《[伴我同行](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#SNH48_Team_HII_2nd_Stage「手牽手」公演 "wikilink")》
-    - 全員
+16. 《[伴我同行](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#SNH48_Team_HII_2nd_Stage「手牽手」公演 "wikilink")》 - 全員
 17. 《[一心向前](../Page/一心向前.md "wikilink")》 - 全員
 
 ## 最終結果
@@ -152,8 +135,7 @@
 
 ## 參考資料
 
-[Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink")
-[Category:SNH48的演唱會](https://zh.wikipedia.org/wiki/Category:SNH48的演唱會 "wikilink")
+[Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:SNH48的演唱會](https://zh.wikipedia.org/wiki/Category:SNH48的演唱會 "wikilink")
 
 1.  [SNH48官方网站](http://www.snh48.com/)
 

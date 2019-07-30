@@ -1,5 +1,4 @@
-《**FTIsland Japan Best - ALL
-ABOUT**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland的第](../Page/FTIsland.md "wikilink")5枚正規韓語專輯（但官方網站視為精選輯），全部歌曲改編自他們的日語歌曲\[1\]，於2014年10月8日發行，並以《FREEDOM》為此專輯的主打曲目。
+《**FTIsland Japan Best - ALL ABOUT**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第5枚正規韓語專輯（但官方網站視為精選輯），全部歌曲改編自他們的日語歌曲\[1\]，於2014年10月8日發行，並以《FREEDOM》為此專輯的主打曲目。
 
 ## 曲目
 
@@ -50,10 +49,7 @@ ABOUT**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikil
 
 ## 參考資料
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

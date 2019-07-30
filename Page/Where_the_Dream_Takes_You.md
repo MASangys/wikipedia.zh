@@ -1,7 +1,4 @@
-《**Where the Dream Takes
-You**》是一首由美國歌手[Mýa錄製與演唱的一首情歌](https://zh.wikipedia.org/wiki/Mýa "wikilink")。該歌曲由[James
-Netwon Howard與](../Page/詹姆斯·紐頓·霍華.md "wikilink")[Diane
-Warren共同創作](https://zh.wikipedia.org/wiki/Diane_Warren "wikilink")\[1\]。該歌曲以[宣傳單曲的形式於](../Page/宣传单曲.md "wikilink")2001年6月5日於[當代流行電台與](https://zh.wikipedia.org/wiki/當代流行電台 "wikilink")[成人當代電台發表](https://zh.wikipedia.org/wiki/成人當代電台 "wikilink")\[2\]。
+《**Where the Dream Takes You**》是一首由美國歌手[Mýa錄製與演唱的一首情歌](https://zh.wikipedia.org/wiki/Mýa "wikilink")。該歌曲由[James Netwon Howard與](../Page/詹姆斯·紐頓·霍華.md "wikilink")[Diane Warren共同創作](https://zh.wikipedia.org/wiki/Diane_Warren "wikilink")\[1\]。該歌曲以[宣傳單曲的形式於](../Page/宣传单曲.md "wikilink")2001年6月5日於[當代流行電台與](https://zh.wikipedia.org/wiki/當代流行電台 "wikilink")[成人當代電台發表](https://zh.wikipedia.org/wiki/成人當代電台 "wikilink")\[2\]。
 
 ## 國際版本
 
@@ -81,10 +78,7 @@ Warren共同創作](https://zh.wikipedia.org/wiki/Diane_Warren "wikilink")\[1\]�
 
 ## 參考資料
 
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:2001年歌曲](https://zh.wikipedia.org/wiki/Category:2001年歌曲 "wikilink")
-[Category:迪士尼歌曲](https://zh.wikipedia.org/wiki/Category:迪士尼歌曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
+[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:2001年歌曲](https://zh.wikipedia.org/wiki/Category:2001年歌曲 "wikilink") [Category:迪士尼歌曲](https://zh.wikipedia.org/wiki/Category:迪士尼歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
 
 1.
 

@@ -1,9 +1,5 @@
-《**[The
-Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TVN電視台的心理戰遊戲綜藝節目](../Page/TVN.md "wikilink")《[The
-Genius](../Page/The_Genius.md "wikilink")》系列第三季，逢周三晚間11點30分（韓國時間）播出，邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]
-《**[The
-Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第五回合於2014年10月29日首播。該回合的主要競賽
-(Main Match)是《礦工遊戲》（），死亡競賽 (Death Match)是《雙面撲克》（）。
+《**[The Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TVN](../Page/TVN.md "wikilink")電視台的心理戰遊戲綜藝節目《[The Genius](../Page/The_Genius.md "wikilink")》系列第三季，逢周三晚間11點30分（韓國時間）播出，邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]
+《**[The Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第五回合於2014年10月29日首播。該回合的主要競賽 (Main Match)是《礦工遊戲》（），死亡競賽 (Death Match)是《雙面撲克》（）。
 本回合優勝者為：
 **吳賢玟**
 本回合最終淘汰者為：
@@ -31,8 +27,7 @@ Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第五回�
 鑽石：一共有2個；每顆會令得分雙倍。
 \#如果「採礦」的得分比六名玩家分數預測的總和為小，「採礦組」每人將平分「採礦」得分。分數預測最高的玩家將會損失他的分數預測數目的分數，而分數預測最低的玩家將會獲得分數預測最高的玩家的分數預測數目的分數。其他玩家則一律獲得零分。
 
-1.  如果「採礦」的得分比六名玩家分數預測的總和一樣或為多，「採礦組」每人將獲得「採礦組」每人將平分（「採礦」減
-    分數預測的總和）的得分。玩家將會獲得他們分數預測的分數。
+1.  如果「採礦」的得分比六名玩家分數預測的總和一樣或為多，「採礦組」每人將獲得「採礦組」每人將平分（「採礦」減 分數預測的總和）的得分。玩家將會獲得他們分數預測的分數。
 2.  如果「採礦」時採出3個炸彈，「採礦組」將獲得零分，玩家將會獲得他們分數預測的分數。
 3.  遊戲結束後，每組分數最高的玩家將會獲得3顆石榴石。所有玩家中最高得分者將成為優勝者和獲得1個黑色石榴石。所有玩家中最低得分者將成為淘汰後選人。
 
@@ -71,8 +66,8 @@ Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第五回�
 | 石榴石數目 | 43        | <span style=color:red>+9  | 52        | 3         | <span style=color:red>+1 | 4         |
 
 **注解**
-劉秀真將石榴石給吳賢玟托管。
-金宥賢將在第三回合承諾的1個石榴石給予崔連勝。
+ 劉秀真將石榴石給吳賢玟托管。
+ 金宥賢將在第三回合承諾的1個石榴石給予崔連勝。
 主要競賽每組中最高得分者獲得3個石榴石。所有玩家中最高得分者獲得1個黑色石榴石。
 
 ## 死亡競賽：雙面撲克
@@ -132,19 +127,15 @@ Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第五回�
 | 石榴石數目 | 52        | 0                         | 52        | 4         | <span style=color:red>+1 | 5         |
 
 **注解**
-吳賢玟將劉秀真托管的石榴石給予張東民。
+ 吳賢玟將劉秀真托管的石榴石給予張東民。
 
 ## 資料來源
 
 <references />
 
-節目內容、參賽者資料、遊戲規則資訊來自 [The Genius
-遊戲的法則官方網站](http://thegenius.interest.me/)
+節目內容、參賽者資料、遊戲規則資訊來自 [The Genius 遊戲的法則官方網站](http://thegenius.interest.me/)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink")
-[Category:The_Genius](https://zh.wikipedia.org/wiki/Category:The_Genius "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink") [Category:The_Genius](https://zh.wikipedia.org/wiki/Category:The_Genius "wikilink")
 
 1.  <http://program.interest.me/tvn/thegenius3/17/Contents/Html?h_seq=1>
 2.  <http://program.interest.me/tvn/thegenius3/17/Contents/Html?h_seq=5>

@@ -2,10 +2,9 @@
 
 ## 概要
 
-動畫制作公司[SATELIGHTCG部門出身的葛西勵](../Page/SATELIGHT.md "wikilink")，在制作完《[超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")》電視動畫後，於2008年9月成立8bit。\[1\]
+動畫制作公司[SATELIGHT](../Page/SATELIGHT.md "wikilink")CG部門出身的葛西勵，在制作完《[超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")》電視動畫後，於2008年9月成立8bit。\[1\]
 
-成立以來，一直協力參與[SATELIGHT的動畫製作](../Page/SATELIGHT.md "wikilink")，直至2011年初次獨立製作《[IS〈Infinite
-Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
+成立以來，一直協力參與[SATELIGHT](../Page/SATELIGHT.md "wikilink")的動畫製作，直至2011年初次獨立製作《[IS〈Infinite Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
 
 ## 作品一覽
 
@@ -33,7 +32,7 @@ Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
 <td><p>2012年</p></td>
 <td><p><a href="../Page/創聖機械天使EVOL.md" title="wikilink">創聖機械天使EVOL</a></p></td>
 <td></td>
-<td><p>與<a href="../Page/SATELIGHT.md" title="wikilink">SATELIGHT共同製作</a></p></td>
+<td><p>與<a href="../Page/SATELIGHT.md" title="wikilink">SATELIGHT</a>共同製作</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/武裝神姬.md" title="wikilink">武裝神姬</a></p></td>
@@ -153,11 +152,8 @@ Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
 
 #### 剧场动画
 
-  - [劇場版 Macross F
-    虛空歌姬](https://zh.wikipedia.org/wiki/超时空要塞Frontier#.E5.8A.87.E5.A0.B4.E7.89.88 "wikilink")
-    （，2009年，與[SATELIGHT共同製作](../Page/SATELIGHT.md "wikilink")）
-  - [劇場版 魔法科高中的劣等生
-    呼喚星星的少女](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")（，2017年）
+  - [劇場版 Macross F 虛空歌姬](https://zh.wikipedia.org/wiki/超时空要塞Frontier#.E5.8A.87.E5.A0.B4.E7.89.88 "wikilink") （，2009年，與[SATELIGHT](../Page/SATELIGHT.md "wikilink")共同製作）
+  - [劇場版 魔法科高中的劣等生 呼喚星星的少女](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")（，2017年）
 
 ### 參與製作
 
@@ -184,7 +180,7 @@ Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/守護甜心！.md" title="wikilink">守護甜心！！心跳</a></p></td>
+<td><p><a href="../Page/守護甜心！.md" title="wikilink">守護甜心！</a>！心跳</p></td>
 <td></td>
 <td><p><a href="../Page/SATELIGHT.md" title="wikilink">SATELIGHT</a></p></td>
 <td></td>
@@ -394,10 +390,7 @@ Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》。
 
   - [8bit官方網站](http://8bit-studio.co.jp/)
 
-[Category:8bit](https://zh.wikipedia.org/wiki/Category:8bit "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")
+[Category:8bit](https://zh.wikipedia.org/wiki/Category:8bit "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")
 
 1.
 2.

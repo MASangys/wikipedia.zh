@@ -1,6 +1,4 @@
-[Sigmoid_function_01.png](https://zh.wikipedia.org/wiki/File:Sigmoid_function_01.png "fig:Sigmoid_function_01.png")
-[Sigmoid_function_02.png](https://zh.wikipedia.org/wiki/File:Sigmoid_function_02.png "fig:Sigmoid_function_02.png")
-**S函数**得名因其形状像**S**字母。一种常见的S函数是[逻辑函数](https://zh.wikipedia.org/wiki/逻辑函数 "wikilink"):
+[Sigmoid_function_01.png](https://zh.wikipedia.org/wiki/File:Sigmoid_function_01.png "fig:Sigmoid_function_01.png") [Sigmoid_function_02.png](https://zh.wikipedia.org/wiki/File:Sigmoid_function_02.png "fig:Sigmoid_function_02.png") **S函数**得名因其形状像**S**字母。一种常见的S函数是[逻辑函数](https://zh.wikipedia.org/wiki/逻辑函数 "wikilink"):
 
 \[S(t) = \frac{1}{1 + e^{-t}}.\]
 
@@ -10,18 +8,11 @@
 
 ## 参考资料
 
-  - {{ cite book | first1=Tom M. |last1= Mitchell | title=Machine
-    Learning | publisher=WCB–McGraw–Hill |year=1997
+  - {{ cite book | first1=Tom M. |last1= Mitchell | title=Machine Learning | publisher=WCB–McGraw–Hill |year=1997
 
-|isbn=0-07-042807-7}}. In particular see "Chapter 4: Artificial Neural
-Networks" (in particular pp. 96–97) where Mitchell uses the word
-"logistic function" and the "sigmoid function" synonymously – this
-function he also calls the "squashing function" – and the sigmoid (aka
-logistic) function is used to compress the outputs of the "neurons" in
-multi-layer neural nets.
+|isbn=0-07-042807-7}}. In particular see "Chapter 4: Artificial Neural Networks" (in particular pp. 96–97) where Mitchell uses the word "logistic function" and the "sigmoid function" synonymously – this function he also calls the "squashing function" – and the sigmoid (aka logistic) function is used to compress the outputs of the "neurons" in multi-layer neural nets.
 
-  - Properties of the sigmoid, including how it can shift along axes and
-    how its domain may be transformed.
+  - Properties of the sigmoid, including how it can shift along axes and how its domain may be transformed.
 
 ## 参见
 

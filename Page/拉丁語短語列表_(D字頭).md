@@ -124,7 +124,6 @@
 
 ## 外部链接
 
-  - [拉丁语短语列表（D字头）](http://www.oai.de/de/45-publikationen/sprichwort/219-d-latein.html)
-    (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
+  - [拉丁语短语列表（D字头）](http://www.oai.de/de/45-publikationen/sprichwort/219-d-latein.html) (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
 
 [Category:拉丁文單字及片語](https://zh.wikipedia.org/wiki/Category:拉丁文單字及片語 "wikilink")

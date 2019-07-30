@@ -1,5 +1,4 @@
-**小q勒让德多项式**(Little q-Legender
-polynomials)是一个以[基本超几何函数定义的](../Page/基本超几何函数.md "wikilink")[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\]\]\[1\]
+**小q勒让德多项式**(Little q-Legender polynomials)是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\]\]\[1\]
 
 \(P_n(x|q)=\;_{2}\phi_1\left(\begin{matrix}
 q^{-n} & q^{n+1}   \\
@@ -26,8 +25,6 @@ q   \end{matrix}
 
 <references/>
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:Q-模拟](https://zh.wikipedia.org/wiki/Category:Q-模拟 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:Q-模拟](https://zh.wikipedia.org/wiki/Category:Q-模拟 "wikilink")
 
-1.  Roelof Koekoek, Hypergeometric Orthogonal Polynomials and its
-    q-Analogues, p486,Springer,2010
+1.  Roelof Koekoek, Hypergeometric Orthogonal Polynomials and its q-Analogues, p486,Springer,2010

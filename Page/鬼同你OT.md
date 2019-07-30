@@ -1,15 +1,12 @@
-《**鬼同你OT**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作以鬼為題材的時裝喜劇](../Page/電視廣播有限公司.md "wikilink")；由[陳豪](../Page/陳豪.md "wikilink")、[田蕊妮及](../Page/田蕊妮.md "wikilink")[胡定欣領銜主演](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，並由[關禮傑](../Page/關禮傑.md "wikilink")、[敖嘉年](../Page/敖嘉年.md "wikilink")、[楊秀惠](../Page/楊秀惠.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[朱咪咪及](../Page/朱咪咪.md "wikilink")[威利聯合主演](../Page/威利_\(香港\).md "wikilink")。監製[徐正康](../Page/徐正康.md "wikilink")。此劇為[2015無綫節目巡禮劇集之一](../Page/2015無綫節目巡禮.md "wikilink"),無綫海外業務及簡介2015‬所推介的17部劇集之一及2015年TVB
-Amazing Summer劇集之一, 是TVB首套週一至週日每晚播放的自製劇集。
-另外，本劇也是繼《武則天》後，第二套週一至週日每晚播放的劇集。
+《**鬼同你OT**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作以鬼為題材的時裝喜劇；由[陳豪](../Page/陳豪.md "wikilink")、[田蕊妮](../Page/田蕊妮.md "wikilink")及[胡定欣領銜主演](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，並由[關禮傑](../Page/關禮傑.md "wikilink")、[敖嘉年](../Page/敖嘉年.md "wikilink")、[楊秀惠](../Page/楊秀惠.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[朱咪咪](../Page/朱咪咪.md "wikilink")及[威利聯合主演](../Page/威利_\(香港\).md "wikilink")。監製[徐正康](../Page/徐正康.md "wikilink")。此劇為[2015無綫節目巡禮](../Page/2015無綫節目巡禮.md "wikilink")劇集之一,無綫海外業務及簡介2015‬所推介的17部劇集之一及2015年TVB Amazing Summer劇集之一, 是TVB首套週一至週日每晚播放的自製劇集。 另外，本劇也是繼《武則天》後，第二套週一至週日每晚播放的劇集。
 
-此劇獲得觀眾們的好評，都認為今年是[田蕊妮和](../Page/田蕊妮.md "wikilink")[胡定欣在](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")[萬千星輝頒獎典禮2015視](../Page/萬千星輝頒獎典禮2015.md "wikilink")-{后}-之爭。《鬼同你OT》也為2015年TVB收視亞軍，全剧平均收视29點，最高34點。此外，[田蕊妮和](../Page/田蕊妮.md "wikilink")[胡定欣更凭此剧在](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")[TVB
-马来西亚星光荟萃颁奖典礼2015同时夺得](https://zh.wikipedia.org/wiki/TVB_马来西亚星光荟萃颁奖典礼2015 "wikilink")“最喜爱TVB女主角”，成为此颁奖典礼首例的“双视-{后}-”，同时也获得最喜爱TVB电视角色。在[萬千星輝頒獎典禮2015中](../Page/萬千星輝頒獎典禮2015.md "wikilink")，最終視-{后}-由[胡定欣奪得](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，亦令到[胡定欣奠定其於無綫電視當家花旦之位](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，而[田蕊妮事隔](../Page/田蕊妮.md "wikilink")2年後再得TVB最受歡迎電視女角色。
+此劇獲得觀眾們的好評，都認為今年是[田蕊妮](../Page/田蕊妮.md "wikilink")和[胡定欣在](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")視-{后}-之爭。《鬼同你OT》也為2015年TVB收視亞軍，全剧平均收视29點，最高34點。此外，[田蕊妮](../Page/田蕊妮.md "wikilink")和[胡定欣更凭此剧在](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")[TVB 马来西亚星光荟萃颁奖典礼2015同时夺得](https://zh.wikipedia.org/wiki/TVB_马来西亚星光荟萃颁奖典礼2015 "wikilink")“最喜爱TVB女主角”，成为此颁奖典礼首例的“双视-{后}-”，同时也获得最喜爱TVB电视角色。在[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")中，最終視-{后}-由[胡定欣奪得](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，亦令到[胡定欣奠定其於無綫電視當家花旦之位](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，而[田蕊妮](../Page/田蕊妮.md "wikilink")事隔2年後再得TVB最受歡迎電視女角色。
 
-此劇於2016年農曆新年期間在[翡翠台深夜時段重播時](../Page/翡翠台.md "wikilink")，被外界批評「大吉利是」\[1\]。同年2月，原班人馬開拍2016年邁向50台慶劇《[來自喵喵星的妳](../Page/來自喵喵星的妳.md "wikilink")》，該劇於2016年10月17日首播。
+此劇於2016年農曆新年期間在[翡翠台](../Page/翡翠台.md "wikilink")深夜時段重播時，被外界批評「大吉利是」\[1\]。同年2月，原班人馬開拍2016年邁向50台慶劇《[來自喵喵星的妳](../Page/來自喵喵星的妳.md "wikilink")》，該劇於2016年10月17日首播。
 
 ## 劇情大綱
 
-故事以人鬼三角戀、辦公室政治为題材。講述三失中女孫淑梅（[田蕊妮飾](../Page/田蕊妮.md "wikilink")）因建築公司高層-{姜}-蓉（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）而順利成为建築公司的接待員，但笨手笨腳的她不但破壞了設計師米开朗（[陳豪飾](../Page/陳豪.md "wikilink")）的作品，更用手机電死了-{姜}-蓉，孫淑梅因此被解僱。一年後，孫淑梅再次使用電死了-{姜}-蓉的手机時，卻發現-{姜}-蓉的鬼魂依附在手機裏，而更奇怪的是，只有孫淑梅才能看到-{姜}-蓉的鬼魂。-{姜}-蓉生前與米开朗为情侶，於是-{姜}-蓉決心幫助孫淑梅进入高層，好讓自己能再遇見米开朗，-{姜}-蓉更協助趕走勾引米开朗的「蜘蛛精」羅丽花（[楊秀惠飾](../Page/楊秀惠.md "wikilink")）。不妙的是，米开朗觉得孫淑梅有-{姜}-蓉生前的影子，而孫淑梅和米开朗更开始互生情愫。-{姜}-蓉氣炸了，她沒想到自己创造了一個情敵！而在這時，米开朗亦意識到-{姜}-蓉的存在。漸漸地，三人反目，关係变得糾纏不清，而米开朗卻心知必須为這個局面作一個了斷……
+故事以人鬼三角戀、辦公室政治为題材。講述三失中女孫淑梅（[田蕊妮](../Page/田蕊妮.md "wikilink")飾）因建築公司高層-{姜}-蓉（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）而順利成为建築公司的接待員，但笨手笨腳的她不但破壞了設計師米开朗（[陳豪](../Page/陳豪.md "wikilink")飾）的作品，更用手机電死了-{姜}-蓉，孫淑梅因此被解僱。一年後，孫淑梅再次使用電死了-{姜}-蓉的手机時，卻發現-{姜}-蓉的鬼魂依附在手機裏，而更奇怪的是，只有孫淑梅才能看到-{姜}-蓉的鬼魂。-{姜}-蓉生前與米开朗为情侶，於是-{姜}-蓉決心幫助孫淑梅进入高層，好讓自己能再遇見米开朗，-{姜}-蓉更協助趕走勾引米开朗的「蜘蛛精」羅丽花（[楊秀惠](../Page/楊秀惠.md "wikilink")飾）。不妙的是，米开朗觉得孫淑梅有-{姜}-蓉生前的影子，而孫淑梅和米开朗更开始互生情愫。-{姜}-蓉氣炸了，她沒想到自己创造了一個情敵！而在這時，米开朗亦意識到-{姜}-蓉的存在。漸漸地，三人反目，关係变得糾纏不清，而米开朗卻心知必須为這個局面作一個了斷……
 
 ## 演員表
 
@@ -610,7 +607,7 @@ Annie、Angie、Anna之上司<br />
 
 ## 收視
 
-以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |           |                  |          |                                     |                                             |
 | ------ | --------- | ---------------- | -------- | ----------------------------------- | ------------------------------------------- |
@@ -759,10 +756,9 @@ Annie、Angie、Anna之上司<br />
 
 ## 軼事
 
-  - 此劇「孫淑梅」一角原定由[蔡少芬飾演](../Page/蔡少芬.md "wikilink")，因信仰問題辭演，後改由[田蕊妮頂上](../Page/田蕊妮.md "wikilink")。
-  - 此劇「-{姜}-蓉」一角原定由[田蕊妮飾演](../Page/田蕊妮.md "wikilink")，悛改由[胡定欣頂上](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")。
-  - 此劇是[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[馬蹄露](https://zh.wikipedia.org/wiki/梁穎颜 "wikilink")
-    及[田蕊妮拍畢](../Page/田蕊妮.md "wikilink")《[蘭花劫](https://zh.wikipedia.org/wiki/蘭花劫 "wikilink")》後再次合作。《[蘭花劫](https://zh.wikipedia.org/wiki/蘭花劫 "wikilink")》亦在2017年5月29日晚上9時30分在無線電視翡翠台首播。
+  - 此劇「孫淑梅」一角原定由[蔡少芬](../Page/蔡少芬.md "wikilink")飾演，因信仰問題辭演，後改由[田蕊妮](../Page/田蕊妮.md "wikilink")頂上。
+  - 此劇「-{姜}-蓉」一角原定由[田蕊妮](../Page/田蕊妮.md "wikilink")飾演，悛改由[胡定欣頂上](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")。
+  - 此劇是[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[馬蹄露](https://zh.wikipedia.org/wiki/梁穎颜 "wikilink") 及[田蕊妮](../Page/田蕊妮.md "wikilink")拍畢《[蘭花劫](https://zh.wikipedia.org/wiki/蘭花劫 "wikilink")》後再次合作。《[蘭花劫](https://zh.wikipedia.org/wiki/蘭花劫 "wikilink")》亦在2017年5月29日晚上9時30分在無線電視翡翠台首播。
   - 此劇是[威利相隔二十六年後再次為](../Page/威利_\(香港\).md "wikilink")[無線電視拍攝的作品](https://zh.wikipedia.org/wiki/無線電視 "wikilink")。
   - 此劇與美國電影《[人鬼情未了](../Page/人鬼情未了.md "wikilink")》相似，劇中同樣有死因真相作主線，但雙方分別懸疑及喜劇作主題。
 
@@ -770,13 +766,10 @@ Annie、Angie、Anna之上司<br />
 
   - 2014年10月31日：此劇於12:30在將軍澳電視廣播城一廠外灰位舉行試造型記者會。
   - 2014年12月8日：此劇於15:00在將軍澳電視廣播城十二廠舉行拜神儀式。
-  - 2015年7月9日：此劇於15:00在鰂魚涌船塢里8號華廈工業大廈13DCrossfire
-    Arena室內射箭場舉行「職場大激『箭』」宣傳活動。
+  - 2015年7月9日：此劇於15:00在鰂魚涌船塢里8號華廈工業大廈13DCrossfire Arena室內射箭場舉行「職場大激『箭』」宣傳活動。
   - 2015年7月11日：此劇於14:30在油塘高超道38號大本型地下中庭舉行「開心鬼放暑假」宣傳活動。
-  - 2015年7月16日：此劇於15:30在中環和安里1號德和大廈1樓HABITŪ the table - Lan Kwai
-    Fong舉行「嘩鬼陪你鬆一鬆」宣傳活動。
-  - 2015年7月18日：由於當日19:30直播的《[屈臣氏FIVB世界女排大獎賽 –
-    香港2015](../Page/世界女排大獎賽.md "wikilink")》超時至22:05結束，本劇當日改為22:05-23:00播映。
+  - 2015年7月16日：此劇於15:30在中環和安里1號德和大廈1樓HABITŪ the table - Lan Kwai Fong舉行「嘩鬼陪你鬆一鬆」宣傳活動。
+  - 2015年7月18日：由於當日19:30直播的《[屈臣氏FIVB世界女排大獎賽 – 香港2015](../Page/世界女排大獎賽.md "wikilink")》超時至22:05結束，本劇當日改為22:05-23:00播映。
   - 2015年7月24日：此劇於12:30在將軍澳中心鴻星海鮮酒家舉行「嘩鬼同歡聚」宣傳活動。
   - 2015年7月30日：此劇於13:30在將軍澳新都城中心二期商場L1天幕廣場舉行「辦公室搞鬼大賽」宣傳活動。
   - 2015年8月1日：由於21:30-23:30播映劇集《[風雲天地](https://zh.wikipedia.org/wiki/風雲天地 "wikilink")》兩小時大結局，本劇暫停播映一次。
@@ -786,8 +779,7 @@ Annie、Angie、Anna之上司<br />
 
 ## 外部連結
 
-  - [鬼同你OT - myTV
-    SUPER](http://programme.mytvsuper.com/tc/105353/鬼同你ot/casts)
+  - [鬼同你OT - myTV SUPER](http://programme.mytvsuper.com/tc/105353/鬼同你ot/casts)
 
 ## 電視節目的變遷
 
@@ -795,12 +787,6 @@ Annie、Angie、Anna之上司<br />
 
 ### 香港以外地區播放
 
-[Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink")
-[Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink")
-[Category:無綫電視奇幻劇集](https://zh.wikipedia.org/wiki/Category:無綫電視奇幻劇集 "wikilink")
-[Category:建築師題材電視劇](https://zh.wikipedia.org/wiki/Category:建築師題材電視劇 "wikilink")
-[Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink")
-[Category:無綫電視每日播出劇集](https://zh.wikipedia.org/wiki/Category:無綫電視每日播出劇集 "wikilink")
-[Category:在各地區使用不同中文名稱的無綫電視劇集](https://zh.wikipedia.org/wiki/Category:在各地區使用不同中文名稱的無綫電視劇集 "wikilink")
+[Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink") [Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink") [Category:無綫電視奇幻劇集](https://zh.wikipedia.org/wiki/Category:無綫電視奇幻劇集 "wikilink") [Category:建築師題材電視劇](https://zh.wikipedia.org/wiki/Category:建築師題材電視劇 "wikilink") [Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink") [Category:無綫電視每日播出劇集](https://zh.wikipedia.org/wiki/Category:無綫電視每日播出劇集 "wikilink") [Category:在各地區使用不同中文名稱的無綫電視劇集](https://zh.wikipedia.org/wiki/Category:在各地區使用不同中文名稱的無綫電視劇集 "wikilink")
 
 1.  [熱血時報：直播財神坐跳樓機再翻叮鬼同你OT　TVB被轟大吉利是](http://www.passiontimes.hk/article/02-08-2016/28629)，2016年2月8日

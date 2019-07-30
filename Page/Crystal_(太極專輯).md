@@ -1,4 +1,4 @@
-《**Crystal**》於1992年10月發行，是[太極樂隊第八張粵語大碟](../Page/太極樂隊.md "wikilink")。
+《**Crystal**》於1992年10月發行，是[太極樂隊](../Page/太極樂隊.md "wikilink")第八張粵語大碟。
 
 ## 介紹
 
@@ -23,6 +23,4 @@
 
   - [太極樂隊](../Page/太極樂隊.md "wikilink")
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink")
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink") [Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")

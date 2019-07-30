@@ -1,19 +1,16 @@
-**ReLIFE
-重返17歲**（）为[夜宵草创作的一部日本漫画](../Page/夜宵草.md "wikilink")，於2013年10月12日在[comico连载](https://zh.wikipedia.org/wiki/comico "wikilink")，在2018年3月16日漫畫正式完結，全222話；2014年發售單行本，並於2015年6月榮獲講談大賞之作。
+**ReLIFE 重返17歲**（）为[夜宵草](../Page/夜宵草.md "wikilink")创作的一部日本漫画，於2013年10月12日在[comico连载](https://zh.wikipedia.org/wiki/comico "wikilink")，在2018年3月16日漫畫正式完結，全222話；2014年發售單行本，並於2015年6月榮獲講談大賞之作。
 
 改編的電視動畫於2016年播出，於同年的7月2日正式動畫發放播映\[1\]；2017年4月23日宣布製作動畫"完結篇"（全四話），於2018年3月21日發售。
 
 ## 作品概要
 
-ReLIFE是一部在[comico的连载漫画](https://zh.wikipedia.org/wiki/comico "wikilink")\[2\]\[3\]，在2014年6月7日成為应用程式发布\[4\]\[5\]\[6\]，并且在頭十五天就超過了四十萬次的下載量，获得[苹果App
-Store全应用市场排行第一](../Page/App_Store_\(iOS\).md "wikilink")\[7\]\[8\]\[9\]，并成为comico在台湾首次登陆的漫画应用之一\[10\]。2014年8月12日[TSUTAYA获得授权发售单行本](../Page/Culture_Convenience_Club.md "wikilink")\[11\]\[12\]\[13\]。2015年2月4日获得「2015年全国图书店员推荐作品（）」第6名\[14\]。2015年2月13日宣布动画化，由2016年7月1日開始播放\[15\]。2015年4月3日获得[講談社漫畫賞一般部门作品提名](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")\[16\]。
+ReLIFE是一部在[comico的连载漫画](https://zh.wikipedia.org/wiki/comico "wikilink")\[2\]\[3\]，在2014年6月7日成為应用程式发布\[4\]\[5\]\[6\]，并且在頭十五天就超過了四十萬次的下載量，获得[苹果App Store全应用市场排行第一](../Page/App_Store_\(iOS\).md "wikilink")\[7\]\[8\]\[9\]，并成为comico在台湾首次登陆的漫画应用之一\[10\]。2014年8月12日[TSUTAYA获得授权发售单行本](../Page/Culture_Convenience_Club.md "wikilink")\[11\]\[12\]\[13\]。2015年2月4日获得「2015年全国图书店员推荐作品（）」第6名\[14\]。2015年2月13日宣布动画化，由2016年7月1日開始播放\[15\]。2015年4月3日获得[講談社漫畫賞一般部门作品提名](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")\[16\]。
 
 ## 故事大綱
 
 重考了兩年才考上大學，研究所畢業的男主角**海崎新太**（27歲），由於和上司起衝突，第一份工作只做了三個月就離職，也因此找工作處處碰壁，成為一個[尼特族](../Page/尼特族.md "wikilink")。
 
-在某一個夜晚返家的路上，遇上了自稱重生研究所職員的**夜明了**（27歲）
-，夜明了邀請海崎新太作為受試者，參加為期一年的重生實驗研究計劃：海崎新太和夜月了皆服用一顆藥丸，服後會變回17歲的外表，但心智、記憶、體能等皆保持27歲，然後兩人一起入讀同一所指定高中的三年級同一班別，讓受試者（海崎新太）重新體驗17歲的高中三年級生活，藉由這個「重新開始」的機會，重新學習、改變自身。同時支援者（夜明了）成為同班同學，以作觀察及支援，並把受試者的變化、表現及行為，詳記於《重生實驗報告書》。
+在某一個夜晚返家的路上，遇上了自稱重生研究所職員的**夜明了**（27歲） ，夜明了邀請海崎新太作為受試者，參加為期一年的重生實驗研究計劃：海崎新太和夜月了皆服用一顆藥丸，服後會變回17歲的外表，但心智、記憶、體能等皆保持27歲，然後兩人一起入讀同一所指定高中的三年級同一班別，讓受試者（海崎新太）重新體驗17歲的高中三年級生活，藉由這個「重新開始」的機會，重新學習、改變自身。同時支援者（夜明了）成為同班同學，以作觀察及支援，並把受試者的變化、表現及行為，詳記於《重生實驗報告書》。
 
 受試期間，受試者的生活費用由重生研究所負責。一年過後，實驗完畢，受試者會變回服用藥丸前的年齡外貌，重生研究所會參考《重生實驗報告書》，為受試者推薦合適工作。
 
@@ -211,8 +208,7 @@ Store全应用市场排行第一](../Page/App_Store_\(iOS\).md "wikilink")\[7\]\
 ## 設定
 
   -
-    重生研究所（ReLIFE
-    Laboratory）以尼特族（不升學，不就業，終日無所事事的青年族群）為實驗對象，驗證讓他們回歸社會的計劃的組織。
+    重生研究所（ReLIFE Laboratory）以尼特族（不升學，不就業，終日無所事事的青年族群）為實驗對象，驗證讓他們回歸社會的計劃的組織。
       -
         實驗方法為讓受試者服用一顆能讓外貌（而不包含身體素質，如體能等）變年輕的藥丸，進入指定高中就讀，藉由這個「重新開始」的機會，重新學習、改變自身。
         實驗期間，受試者各種變化，皆詳記於《重生實驗報告書》，實驗結束後，將參考此報告，為受試者推薦合適工作。
@@ -314,8 +310,7 @@ Store全应用市场排行第一](../Page/App_Store_\(iOS\).md "wikilink")\[7\]\
 
 ## 電視動畫
 
-於2015年2月13日宣布動畫化，也是comico首批動畫化作品之一。動畫於2016年7月1日開始播出，全13話。而「ReLIFE
-完結篇」則於2018年3月21日以Blu-ray／DVD形式發售，全4話。
+於2015年2月13日宣布動畫化，也是comico首批動畫化作品之一。動畫於2016年7月1日開始播出，全13話。而「ReLIFE 完結篇」則於2018年3月21日以Blu-ray／DVD形式發售，全4話。
 
 #### 製作團隊
 
@@ -343,48 +338,16 @@ Store全应用市场排行第一](../Page/App_Store_\(iOS\).md "wikilink")\[7\]\
 <!-- end list -->
 
   - 片尾曲「MD2000 ～ReLIFE Ending Songs～」
-    片尾曲是以「海崎在就讀高中時所聽到並錄入至自行製作的[MiniDisc的歌曲](../Page/MiniDisc.md "wikilink")」為概念，將2000年前後流行的部分熱門歌曲用作各話的片尾曲\[17\]。
-    {| class="wikitable" style="font-size:small; text-align:center;"
-    border="1"
+    片尾曲是以「海崎在就讀高中時所聽到並錄入至自行製作的[MiniDisc](../Page/MiniDisc.md "wikilink")的歌曲」為概念，將2000年前後流行的部分熱門歌曲用作各話的片尾曲\[17\]。
+    {| class="wikitable" style="font-size:small; text-align:center;" border="1"
 
-\! rowspan="2"|话数 \!\! colspan="5"|歌曲\[18\] |- \! 曲名 \!\! 作词 \!\! 作曲
-\!\! 编曲 \!\! 演唱 |- | 第1集 ||  ||
-colspan="2"|[奥田民生](../Page/奥田民生.md "wikilink") ||  ||
-奥田民生 |- | 第2集 || [HOT
-LIMIT](https://zh.wikipedia.org/wiki/HOT_LIMIT "wikilink") || 井上秋緒 ||
-colspan="2"|[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink") ||
-[T.M.Revolution](../Page/T.M.Revolution.md "wikilink") |- | 第3集 ||  ||
-森浩美
-[BLACK BISCUITS](https://zh.wikipedia.org/wiki/ブラックビスケッツ "wikilink") ||
-中西圭三
-小西貴雄 || 小西貴雄 || BLACK BISCUITS |- | 第4集 ||
-[HONEY](../Page/HONEY_\(彩虹樂團單曲\).md "wikilink") ||
-colspan="2"|[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink") ||
-[L'Arc〜en〜Ciel](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")
-Hajime Okano || L'Arc〜en〜Ciel |- | 第5集 ||  || colspan="2"|奥田民生 ||  ||
-[PUFFY](../Page/帕妃.md "wikilink") |- | 第6集 ||  || 赤羽奈津代 || 鈴木秋則 ||
-神山 || SENTIMENTAL:BUS |- | 第7集 ||  || 新藤晴一 || ak.homma ||  ||
-[色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink") |- | 第8集
-|| [雪の華](../Page/雪花_\(單曲\).md "wikilink") || Satomi || colspan="2"|松本良喜
-|| [中島美嘉](../Page/中島美嘉.md "wikilink") |- | 第9集 ||  ||
-[川瀨智子](../Page/川瀨智子.md "wikilink") || 奥田俊作 || [the
-brilliant
-green](https://zh.wikipedia.org/wiki/the_brilliant_green "wikilink")
-笹路正徳|| the brilliant green |- | 第10集 ||
-[明日への扉](https://zh.wikipedia.org/wiki/明日への扉 "wikilink") ||
-colspan="2"|[ai](../Page/川嶋愛.md "wikilink") || nao
-小澤純 || [I WiSH](../Page/I_WiSH.md "wikilink") |- | 第11集 || [PIECES OF A
-DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink") || 麻生哲朗 ||
-colspan="2"|藤本和則 || [CHEMISTRY](../Page/化學超男子.md "wikilink") |- |
-第12集 || [夏祭り](../Page/夏祭.md "wikilink") || colspan="3"|破矢 ||
-[Whiteberry](../Page/Whiteberry.md "wikilink") |- | 第14集 ||
-[花](../Page/花_\(橘子新樂園單曲\).md "wikilink") || colspan="2"|[ORANGE
-RANGE](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink") ||  ||
-ORANGE RANGE |- | 第15集 || [CHE.R.RY](../Page/CHE.R.RY.md "wikilink") ||
-colspan="2"|[YUI](../Page/YUI.md "wikilink") || northa+ || YUI |- | 第16集
-|| [LA·LA·LA LOVE SONG](../Page/LA·LA·LA_LOVE_SONG.md "wikilink") ||
-colspan="2"|[久保田利伸](../Page/久保田利伸.md "wikilink") || 柿崎洋一郎 || 久保田利伸 with
-[娜奧美·金寶](../Page/娜奧美·金寶.md "wikilink") |}
+\! rowspan="2"|话数 \!\! colspan="5"|歌曲\[18\] |- \! 曲名 \!\! 作词 \!\! 作曲 \!\! 编曲 \!\! 演唱 |- | 第1集 ||  || colspan="2"|[奥田民生](../Page/奥田民生.md "wikilink") ||  || 奥田民生 |- | 第2集 || [HOT LIMIT](https://zh.wikipedia.org/wiki/HOT_LIMIT "wikilink") || 井上秋緒 || colspan="2"|[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink") || [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") |- | 第3集 ||  || 森浩美
+[BLACK BISCUITS](https://zh.wikipedia.org/wiki/ブラックビスケッツ "wikilink") || 中西圭三
+小西貴雄 || 小西貴雄 || BLACK BISCUITS |- | 第4集 || [HONEY](../Page/HONEY_\(彩虹樂團單曲\).md "wikilink") || colspan="2"|[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink") || [L'Arc〜en〜Ciel](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")
+Hajime Okano || L'Arc〜en〜Ciel |- | 第5集 ||  || colspan="2"|奥田民生 ||  || [PUFFY](../Page/帕妃.md "wikilink") |- | 第6集 ||  || 赤羽奈津代 || 鈴木秋則 ||
+神山 || SENTIMENTAL:BUS |- | 第7集 ||  || 新藤晴一 || ak.homma ||  || [色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink") |- | 第8集 || [雪の華](../Page/雪花_\(單曲\).md "wikilink") || Satomi || colspan="2"|松本良喜 || [中島美嘉](../Page/中島美嘉.md "wikilink") |- | 第9集 ||  || [川瀨智子](../Page/川瀨智子.md "wikilink") || 奥田俊作 || [the brilliant green](https://zh.wikipedia.org/wiki/the_brilliant_green "wikilink")
+笹路正徳|| the brilliant green |- | 第10集 || [明日への扉](https://zh.wikipedia.org/wiki/明日への扉 "wikilink") || colspan="2"|[ai](../Page/川嶋愛.md "wikilink") || nao
+小澤純 || [I WiSH](../Page/I_WiSH.md "wikilink") |- | 第11集 || [PIECES OF A DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink") || 麻生哲朗 || colspan="2"|藤本和則 || [CHEMISTRY](../Page/化學超男子.md "wikilink") |- | 第12集 || [夏祭](../Page/夏祭.md "wikilink")り || colspan="3"|破矢 || [Whiteberry](../Page/Whiteberry.md "wikilink") |- | 第14集 || [花](../Page/花_\(橘子新樂園單曲\).md "wikilink") || colspan="2"|[ORANGE RANGE](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink") ||  || ORANGE RANGE |- | 第15集 || [CHE.R.RY](../Page/CHE.R.RY.md "wikilink") || colspan="2"|[YUI](../Page/YUI.md "wikilink") || northa+ || YUI |- | 第16集 || [LA·LA·LA LOVE SONG](../Page/LA·LA·LA_LOVE_SONG.md "wikilink") || colspan="2"|[久保田利伸](../Page/久保田利伸.md "wikilink") || 柿崎洋一郎 || 久保田利伸 with [娜奧美·金寶](../Page/娜奧美·金寶.md "wikilink") |}
 
 ### 各話列表
 
@@ -616,7 +579,7 @@ Report 112[20]</p></td>
 | 播放地區                             | 播放電視台                                                         | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                 | 備註 |
 | -------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -- |
 | [東京都](../Page/東京都.md "wikilink") | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2016年7月1日－        | 星期五 24時00分－24時30分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                |    |
-| 日本全國                             | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期五 24時00分－24時30分 | 衛星電視                                                                                                          | [ANIME+節目](../Page/ANIME+.md "wikilink")              |    |
+| 日本全國                             | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期五 24時00分－24時30分 | 衛星電視                                                                                                          | [ANIME+](../Page/ANIME+.md "wikilink")節目              |    |
 | [群馬縣](../Page/群馬縣.md "wikilink") | [群馬電視台](https://zh.wikipedia.org/wiki/群馬電視台 "wikilink")       | 星期五 24時30分－25時00分 | 獨立局                                                                                                           |                                                       |    |
 | [栃木縣](../Page/栃木縣.md "wikilink") | [栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")       | 星期五 24時30分－25時00分 | 獨立局                                                                                                           |                                                       |    |
 | 日本全國                             | [AT-X](../Page/AT-X.md "wikilink")                            | 2016年7月2日－        | 星期六 24時00分－24時30分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") |    |
@@ -636,7 +599,7 @@ Report 112[20]</p></td>
 
 ## 舞台劇
 
-漫畫總發行量突破100万本後，2016年3月宣佈舞台化。舞台版「ReLIFE」於2016年9月8日至9月19日期間在進行十四場公演，2016年9月24日及25日在[大阪梅田藝術劇場公演四場](../Page/梅田藝術劇場.md "wikilink")。故事主角—海崎新太由擔任動畫版主角配音的[小野賢章出演](../Page/小野賢章.md "wikilink")。
+漫畫總發行量突破100万本後，2016年3月宣佈舞台化。舞台版「ReLIFE」於2016年9月8日至9月19日期間在進行十四場公演，2016年9月24日及25日在[大阪梅田藝術劇場公演四場](../Page/梅田藝術劇場.md "wikilink")。故事主角—海崎新太由擔任動畫版主角配音的[小野賢章](../Page/小野賢章.md "wikilink")出演。
 
 ### 工作人員
 
@@ -644,8 +607,7 @@ Report 112[20]</p></td>
   - 監　修：夜宵草、comico、ReLIFE研究所
   - 演　出：
   - 製作人：山浦哲也、、佐佐木康志
-  - 製　作：PRAGMAX & Entertainment、[Avex Live
-    Creative](../Page/愛貝克思集團.md "wikilink")
+  - 製　作：PRAGMAX & Entertainment、[Avex Live Creative](../Page/愛貝克思集團.md "wikilink")
   - 贊　助：[Avex Live Creative](../Page/愛貝克思集團.md "wikilink")
   - 版　權：夜宵草／comico／ReLIFE研究所
 
@@ -666,13 +628,11 @@ Report 112[20]</p></td>
 
 ## 真人電影
 
-2017年4月15日由[松竹發行](../Page/松竹.md "wikilink")、上映。導演[古澤健](https://zh.wikipedia.org/wiki/古澤健 "wikilink")。主演[中川大志與](../Page/中川大志.md "wikilink")[平祐奈雙主演](../Page/平祐奈.md "wikilink")\[21\]\[22\]
-。導演表示故事剧情最后将会以原创方式作結尾。
+2017年4月15日由[松竹](../Page/松竹.md "wikilink")發行、上映。導演[古澤健](https://zh.wikipedia.org/wiki/古澤健 "wikilink")。主演[中川大志](../Page/中川大志.md "wikilink")與[平祐奈](../Page/平祐奈.md "wikilink")雙主演\[21\]\[22\] 。導演表示故事剧情最后将会以原创方式作結尾。
 
 ### 工作人員
 
-  - 原作：夜宵草「ReLIFE」（[NHN
-    PlayArt刊](https://zh.wikipedia.org/wiki/NHN_PlayArt "wikilink")）
+  - 原作：夜宵草「ReLIFE」（[NHN PlayArt刊](https://zh.wikipedia.org/wiki/NHN_PlayArt "wikilink")）
   - 監督：古澤健
 
 ### 演員
@@ -690,9 +650,9 @@ Report 112[20]</p></td>
 
 当地媒体在2015年1月4日对作者参访中透露部分故事典故，包括了：
 
-  - 登场角色的姓名出自[大分县的火车站名](../Page/大分县.md "wikilink")。
+  - 登场角色的姓名出自[大分县](../Page/大分县.md "wikilink")的火车站名。
   - 角色座位距离代表角色的心理关系距离。
-  - 高中生活参考过[大分市的高中](../Page/大分市.md "wikilink")，尤其是女生所穿服饰、食堂等参考自大分县立大分上野丘高等学校。
+  - 高中生活参考过[大分市](../Page/大分市.md "wikilink")的高中，尤其是女生所穿服饰、食堂等参考自大分县立大分上野丘高等学校。
 
 ## 註釋
 
@@ -701,11 +661,9 @@ Report 112[20]</p></td>
   -
 ## 外部連結
 
-  - [《ReLIFE 重返17歲》 -
-    comico](http://www.comico.jp/articleList.nhn?titleNo=2)
+  - [《ReLIFE 重返17歲》 - comico](http://www.comico.jp/articleList.nhn?titleNo=2)
 
-  - [《ReLIFE 重返17歲》 -
-    comico](http://www.comico.com.tw/articleList.nhn?titleNo=1)
+  - [《ReLIFE 重返17歲》 - comico](http://www.comico.com.tw/articleList.nhn?titleNo=1)
 
   -
 
@@ -721,24 +679,7 @@ Report 112[20]</p></td>
 
   -
 
-[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink")
-[Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink")
-[Category:2013年作品](https://zh.wikipedia.org/wiki/Category:2013年作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:隱瞞身分題材漫畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材漫畫 "wikilink")
-[Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink")
-[Category:漫畫改編舞台劇](https://zh.wikipedia.org/wiki/Category:漫畫改編舞台劇 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
-[Category:日本爱情片](https://zh.wikipedia.org/wiki/Category:日本爱情片 "wikilink")
-[Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink")
-[Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink")
-[Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink")
-[Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
-[Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
+[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink") [Category:2013年作品](https://zh.wikipedia.org/wiki/Category:2013年作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:隱瞞身分題材漫畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材漫畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:漫畫改編舞台劇](https://zh.wikipedia.org/wiki/Category:漫畫改編舞台劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本爱情片](https://zh.wikipedia.org/wiki/Category:日本爱情片 "wikilink") [Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink") [Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
 
 1.
 

@@ -1,8 +1,4 @@
-《**Very
-Good**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block
-B第](../Page/Block_B.md "wikilink")3枚迷你韓語專輯，也是他們從將合約轉換至[Seven
-Seasons後首張作品](https://zh.wikipedia.org/wiki/Seven_Seasons "wikilink")\[1\]，於2013年10月2日發行，主打歌曲為迷你專輯同名歌曲《Very
-Good》\[2\]。
+《**Very Good**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block B第](../Page/Block_B.md "wikilink")3枚迷你韓語專輯，也是他們從將合約轉換至[Seven Seasons後首張作品](https://zh.wikipedia.org/wiki/Seven_Seasons "wikilink")\[1\]，於2013年10月2日發行，主打歌曲為迷你專輯同名歌曲《Very Good》\[2\]。
 
 ## 曲目
 
@@ -130,10 +126,7 @@ Good》\[2\]。
 
 ## 参考文献
 
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

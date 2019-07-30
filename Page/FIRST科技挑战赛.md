@@ -1,5 +1,4 @@
-**FIRST 科技挑战赛**(**FIRST Tech
-Challenge**)是为7-12年级的学生设计，用指定零件制作机器人并进行正面对抗的一项比赛。
+**FIRST 科技挑战赛**(**FIRST Tech Challenge**)是为7-12年级的学生设计，用指定零件制作机器人并进行正面对抗的一项比赛。
 
 FTC团队要负责机器人的设计、搭建、编程并在随机决定的联盟中与对手比赛。机器人零件可以在数年比赛中重复使用，且不区分比赛区域。FTC团队（包括教练、导师、志愿者）只能在不动手参与的原则下出谋划策。奖项不仅包含比赛，也涵盖了社区交流、设计和其他现实世界里的成就。\[1\]
 
@@ -7,12 +6,9 @@ FIRST科技挑战赛的最终目标是让更多的青少年能够低成本参与
 
 ## 历史
 
-FIRST科技挑战赛是由[FIRST机器人竞赛和IFI机械平台发展而来的](../Page/FIRST机器人竞赛.md "wikilink")，FIRST，和Innovation
-First合作开发一个升级版的了IFI机械套件。这个叫做的套件得到了显著的提升。在2008-2009赛季中Pitsco开发了，使用[乐高Mindstorms
-NXT的平台和新的结构框架以及硬件](https://zh.wikipedia.org/wiki/乐高Mindstorms_NXT "wikilink")。TETRIX使用的铝合金构件允许添加[乐高部件和](https://zh.wikipedia.org/wiki/乐高 "wikilink")[传感器](../Page/传感器.md "wikilink")，包括4个直流电机和更大的轮子。除了硬件上的改变，这套系统现在能使用[RobotC和](../Page/樂高Mindstorms_NXT.md "wikilink")[LabVIEW来编写程序](../Page/LabVIEW.md "wikilink")。
+FIRST科技挑战赛是由[FIRST机器人竞赛](../Page/FIRST机器人竞赛.md "wikilink")和IFI机械平台发展而来的，FIRST，和Innovation First合作开发一个升级版的了IFI机械套件。这个叫做的套件得到了显著的提升。在2008-2009赛季中Pitsco开发了，使用[乐高Mindstorms NXT的平台和新的结构框架以及硬件](https://zh.wikipedia.org/wiki/乐高Mindstorms_NXT "wikilink")。TETRIX使用的铝合金构件允许添加[乐高部件和](https://zh.wikipedia.org/wiki/乐高 "wikilink")[传感器](../Page/传感器.md "wikilink")，包括4个直流电机和更大的轮子。除了硬件上的改变，这套系统现在能使用[RobotC和](../Page/樂高Mindstorms_NXT.md "wikilink")[LabVIEW](../Page/LabVIEW.md "wikilink")来编写程序。
 
-在2005年六月，FIRST将FIRST VEX
-Challenge作为一个有潜力的项目进行试点。\[2\]这次试点有超过130支队伍在6个区域参加三进一的锦标赛（）\[3\]。
+在2005年六月，FIRST将FIRST VEX Challenge作为一个有潜力的项目进行试点。\[2\]这次试点有超过130支队伍在6个区域参加三进一的锦标赛（）\[3\]。
 
 50支FVC锦标赛队伍在2006年4月晋级。在2006年4月29日FIRST董事会投票决定了2006-2007赛季的FVC比赛。
 
@@ -26,8 +22,7 @@ Challenge作为一个有潜力的项目进行试点。\[2\]这次试点有超过
 
 ### 赛事历程
 
-在每年的9月，FIRST会在赛季初向FTC队伍宣布下个赛季的挑战，不同于[FIRST机器人竞赛的是](../Page/FIRST机器人竞赛.md "wikilink"),
-FTC没有完成机器人的期限，团队可以在整个赛季中不断完善机器人\[5\] 。
+在每年的9月，FIRST会在赛季初向FTC队伍宣布下个赛季的挑战，不同于[FIRST机器人竞赛](../Page/FIRST机器人竞赛.md "wikilink")的是, FTC没有完成机器人的期限，团队可以在整个赛季中不断完善机器人\[5\] 。
 
 资格赛和区域冠军赛会在10月到3月举行，全球冠军赛将在4月举行\[6\]。
 
@@ -111,12 +106,9 @@ FTC没有完成机器人的期限，团队可以在整个赛季中不断完善�
 
 ## 竞赛主题
 
-  - 2018-2019: *[Rover
-    Ruckus](https://zh.wikipedia.org/wiki/Rover_Ruckus "wikilink")*
-  - 2017–2018: *[Relic
-    Recovery](https://zh.wikipedia.org/wiki/Relic_Recovery "wikilink")*
-  - 2016–2017: *[Velocity
-    Vortex](https://zh.wikipedia.org/wiki/Velocity_Vortex "wikilink")*
+  - 2018-2019: *[Rover Ruckus](https://zh.wikipedia.org/wiki/Rover_Ruckus "wikilink")*
+  - 2017–2018: *[Relic Recovery](https://zh.wikipedia.org/wiki/Relic_Recovery "wikilink")*
+  - 2016–2017: *[Velocity Vortex](https://zh.wikipedia.org/wiki/Velocity_Vortex "wikilink")*
   - 2014–2015 -
   - 2013–2014 -
   - 2012–2013 -
@@ -130,8 +122,7 @@ FTC没有完成机器人的期限，团队可以在整个赛季中不断完善�
 
 ## 图像
 
-<File:100> 9640.JPG|用VEX套件制作的机器人(2009年优先使用) <File:FTC> Challenge, "Get
-Over It".jpg|TETRIX套件制作的机器人(Team 37)
+<File:100> 9640.JPG|用VEX套件制作的机器人(2009年优先使用) <File:FTC> Challenge, "Get Over It".jpg|TETRIX套件制作的机器人(Team 37)
 
 ## 相关条目
 
@@ -156,22 +147,17 @@ Over It".jpg|TETRIX套件制作的机器人(Team 37)
 
   - [FRC官方网站-FRC机器人竞赛](https://web.archive.org/web/20150307010816/http://www.usfirst.org/roboticsprograms)
 
-  - [Official
-    FLL官方网站](https://web.archive.org/web/20080111040030/http://www.usfirst.org/what/fll/default.aspx?id=390)
+  - [Official FLL官方网站](https://web.archive.org/web/20080111040030/http://www.usfirst.org/what/fll/default.aspx?id=390)
 
   - [FTC官方论坛](http://ftcforum.usfirst.org/forum.php)
 
   - [ChiefDelphi](http://www.chiefdelphi.com) - 非官方论坛
 
-  - [ROBOTC Forum](http://www.robotc.net/forums/viewforum.php?f=52) -
-    ROBOT-C使用者参见
+  - [ROBOTC Forum](http://www.robotc.net/forums/viewforum.php?f=52) - ROBOT-C使用者参见
 
-  - [NI FTC Community
-    Page](http://decibel.ni.com/content/community/first/ftc) -
-    [LabView使用者参见](https://zh.wikipedia.org/wiki/LabView "wikilink")
+  - [NI FTC Community Page](http://decibel.ni.com/content/community/first/ftc) - [LabView使用者参见](https://zh.wikipedia.org/wiki/LabView "wikilink")
 
-[Category:2005年建立的週期性事件](https://zh.wikipedia.org/wiki/Category:2005年建立的週期性事件 "wikilink")
-[Category:機器人競賽](https://zh.wikipedia.org/wiki/Category:機器人競賽 "wikilink")
+[Category:2005年建立的週期性事件](https://zh.wikipedia.org/wiki/Category:2005年建立的週期性事件 "wikilink") [Category:機器人競賽](https://zh.wikipedia.org/wiki/Category:機器人競賽 "wikilink")
 
 1.  <http://www.usfirst.org/roboticsprograms/FIRST> 科技挑战赛
 2.

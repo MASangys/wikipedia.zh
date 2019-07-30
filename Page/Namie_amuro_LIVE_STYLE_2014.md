@@ -1,16 +1,11 @@
-《namie amuro LIVE STYLE
-2014》為[日本歌手](../Page/日本.md "wikilink")[安室奈美惠於](../Page/安室奈美惠.md "wikilink")2015年2月11日發行的影音作品。
+《namie amuro LIVE STYLE 2014》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2015年2月11日發行的影音作品。
 
 ## 簡介
 
-  - 本次演唱會選曲主要以《[FEEL](../Page/FEEL_\(安室奈美惠專輯\).md "wikilink")》、《[Ballada](../Page/Ballada.md "wikilink")》後來在換上收錄在《[BRIGHTER
-    DAY](../Page/BRIGHTER_DAY.md "wikilink")》裡的一首新曲作為本次的歌單。
+  - 本次演唱會選曲主要以《[FEEL](../Page/FEEL_\(安室奈美惠專輯\).md "wikilink")》、《[Ballada](../Page/Ballada.md "wikilink")》後來在換上收錄在《[BRIGHTER DAY](../Page/BRIGHTER_DAY.md "wikilink")》裡的一首新曲作為本次的歌單。
   - 本次巡迴共37場,動員近31萬人。
   - 每場設有Ballada變換曲,從九首Ballada曲中隨機演唱一首,而且服裝不一。
-  - 本作於藍光綜合榜及DVD綜合榜奪冠，是繼《[namie amuro BEST FICTION TOUR
-    2008-2009](https://zh.wikipedia.org/wiki/namie_amuro_BEST_FICTION_TOUR_2008-2009 "wikilink")》、《[namie
-    amuro 5 Major Domes Tour 2012～20th Anniversary
-    Best](../Page/Namie_amuro_5_Major_Domes_Tour_2012_~20th_Anniversary_Best~.md "wikilink")》以來的第3次，此項紀錄為女性藝人第一位擁有3個雙榜奪冠紀錄。
+  - 本作於藍光綜合榜及DVD綜合榜奪冠，是繼《[namie amuro BEST FICTION TOUR 2008-2009](https://zh.wikipedia.org/wiki/namie_amuro_BEST_FICTION_TOUR_2008-2009 "wikilink")》、《[namie amuro 5 Major Domes Tour 2012～20th Anniversary Best](../Page/Namie_amuro_5_Major_Domes_Tour_2012_~20th_Anniversary_Best~.md "wikilink")》以來的第3次，此項紀錄為女性藝人第一位擁有3個雙榜奪冠紀錄。
 
 ## 演唱會日程
 
@@ -356,10 +351,8 @@ NEVER END</p></td>
 
 ## 外部連結
 
-  - [官方網站 -
-    發行情報](https://web.archive.org/web/20131115130529/http://namieamuro.jp/news/news.php?nID=VFKs8PkMCO)
+  - [官方網站 - 發行情報](https://web.archive.org/web/20131115130529/http://namieamuro.jp/news/news.php?nID=VFKs8PkMCO)
 
-[分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink")
-[分類:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2014年巡迴演唱會 "wikilink")
+[分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink") [分類:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2014年巡迴演唱會 "wikilink")
 
 [Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink")

@@ -1,4 +1,4 @@
-《**永井豪的Q版世界**》（）是[永井豪作品原作改编的](../Page/永井豪.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，於1991年发售共3集VHS，在2007年6月22日由[萬代影視发售](../Page/萬代影視.md "wikilink")[DVD-BOX](https://zh.wikipedia.org/wiki/DVD-BOX "wikilink")。\[1\]\[2\]
+《**永井豪的Q版世界**》（）是[永井豪](../Page/永井豪.md "wikilink")作品原作改编的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，於1991年发售共3集VHS，在2007年6月22日由[萬代影視](../Page/萬代影視.md "wikilink")发售[DVD-BOX](https://zh.wikipedia.org/wiki/DVD-BOX "wikilink")。\[1\]\[2\]
 
 ## 故事簡介
 
@@ -6,8 +6,7 @@
 
 ### 主要人物
 
-  - [不動明](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")（ふどう
-    あきら）（配音：[速水獎](../Page/速水獎.md "wikilink")）
+  - [不動明](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")（ふどう あきら）（配音：[速水獎](../Page/速水獎.md "wikilink")）
 
 <!-- end list -->
 
@@ -16,8 +15,7 @@
 
 <!-- end list -->
 
-  - [飛鳥了](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")（あすか
-    りょう）（配音：[水島裕](../Page/水島裕.md "wikilink")）
+  - [飛鳥了](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")（あすか りょう）（配音：[水島裕](../Page/水島裕.md "wikilink")）
 
 <!-- end list -->
 
@@ -123,9 +121,7 @@
 
 ## 參考來源
 
-[Category:1990年日本OVA动画](https://zh.wikipedia.org/wiki/Category:1990年日本OVA动画 "wikilink")
-[Category:永井豪](https://zh.wikipedia.org/wiki/Category:永井豪 "wikilink")
-[Category:SD作品](https://zh.wikipedia.org/wiki/Category:SD作品 "wikilink")
+[Category:1990年日本OVA动画](https://zh.wikipedia.org/wiki/Category:1990年日本OVA动画 "wikilink") [Category:永井豪](https://zh.wikipedia.org/wiki/Category:永井豪 "wikilink") [Category:SD作品](https://zh.wikipedia.org/wiki/Category:SD作品 "wikilink")
 
 1.
 2.

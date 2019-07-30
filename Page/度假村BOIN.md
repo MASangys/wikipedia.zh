@@ -8,20 +8,15 @@
     [声](https://zh.wikipedia.org/wiki/声優 "wikilink")：[門戸開](https://zh.wikipedia.org/wiki/門戸開 "wikilink")
   - 飯井原 なお（いいはら なお）
     声：[金田まひる](https://zh.wikipedia.org/wiki/金田まひる "wikilink")
-    身長：165cm /
-    [胸围](https://zh.wikipedia.org/wiki/胸围 "wikilink")：B108（J罩杯）・W65・H93
-    / 体重：58kg /
-    [血液型](https://zh.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型
+    身長：165cm / [胸围](https://zh.wikipedia.org/wiki/胸围 "wikilink")：B108（J罩杯）・W65・H93 / 体重：58kg / [血液型](https://zh.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型
 
 <!-- end list -->
 
   - 筑紫野 みつぐ（つくしの みつぐ）
-    声：[成瀬未亜](https://zh.wikipedia.org/wiki/成瀬未亜 "wikilink") /
-    [いるまあるみ](https://zh.wikipedia.org/wiki/いるまあるみ "wikilink")（おさわりBOIN2）
+    声：[成瀬未亜](https://zh.wikipedia.org/wiki/成瀬未亜 "wikilink") / [いるまあるみ](https://zh.wikipedia.org/wiki/いるまあるみ "wikilink")（おさわりBOIN2）
     身長：155cm / 胸围：B86（F罩杯）・W53・H82 / 体重：47kg / 血液型：AB型
   - 衣更 麻耶（ころもがえ まや）
-    声：[北都南](../Page/北都南.md "wikilink") /
-    [神谷奈央](https://zh.wikipedia.org/wiki/神谷奈央 "wikilink")（アダルトアニメ版第2話、第3話）
+    声：[北都南](../Page/北都南.md "wikilink") / [神谷奈央](https://zh.wikipedia.org/wiki/神谷奈央 "wikilink")（アダルトアニメ版第2話、第3話）
     身長：151cm / 胸围：B76（A罩杯）・W48・H80 / 体重：42kg / 血液型：B型
 
 <!-- end list -->
@@ -36,8 +31,7 @@
 <!-- end list -->
 
   - 新条 叶（しんじょう かなえ）
-    声：[内野ぽち](https://zh.wikipedia.org/wiki/内野ぽち "wikilink") /
-    [みすみ](https://zh.wikipedia.org/wiki/みすみ "wikilink")（アダルトアニメ版第2話、第3話）
+    声：[内野ぽち](https://zh.wikipedia.org/wiki/内野ぽち "wikilink") / [みすみ](https://zh.wikipedia.org/wiki/みすみ "wikilink")（アダルトアニメ版第2話、第3話）
     身長：161cm / 胸围：B105（I罩杯）・W61・H90 / 体重：58kg / 血液型：O型
 
 ## 主題歌
@@ -125,8 +119,7 @@
 ## 相關條目
 
   - [boin](https://zh.wikipedia.org/wiki/boin "wikilink")：前作。
-  - [彼女×彼女×彼女
-    〜三姉妹とのドキドキ共同生活〜](https://zh.wikipedia.org/wiki/彼女×彼女×彼女_〜三姉妹とのドキドキ共同生活〜 "wikilink")
+  - [彼女×彼女×彼女 〜三姉妹とのドキドキ共同生活〜](https://zh.wikipedia.org/wiki/彼女×彼女×彼女_〜三姉妹とのドキドキ共同生活〜 "wikilink")
 
 ## 參考來源
 
@@ -137,19 +130,7 @@
   - [アンダーリップ](http://www.underlip.jp/)
   - [Palace](https://web.archive.org/web/20140103110405/http://palacegame.cc/)
 
-[Category:2007年日本成人游戏](https://zh.wikipedia.org/wiki/Category:2007年日本成人游戏 "wikilink")
-[Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink")
-[Category:美少女游戏](https://zh.wikipedia.org/wiki/Category:美少女游戏 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:UMDPG](https://zh.wikipedia.org/wiki/Category:UMDPG "wikilink")
-[Category:2007年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2007年日本成人動畫 "wikilink")
-[Category:教師主角動畫](https://zh.wikipedia.org/wiki/Category:教師主角動畫 "wikilink")
-[Category:师生恋题材作品](https://zh.wikipedia.org/wiki/Category:师生恋题材作品 "wikilink")
-[Category:表亲恋情作品](https://zh.wikipedia.org/wiki/Category:表亲恋情作品 "wikilink")
-[Category:孤島背景作品](https://zh.wikipedia.org/wiki/Category:孤島背景作品 "wikilink")
+[Category:2007年日本成人游戏](https://zh.wikipedia.org/wiki/Category:2007年日本成人游戏 "wikilink") [Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink") [Category:美少女游戏](https://zh.wikipedia.org/wiki/Category:美少女游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:UMDPG](https://zh.wikipedia.org/wiki/Category:UMDPG "wikilink") [Category:2007年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2007年日本成人動畫 "wikilink") [Category:教師主角動畫](https://zh.wikipedia.org/wiki/Category:教師主角動畫 "wikilink") [Category:师生恋题材作品](https://zh.wikipedia.org/wiki/Category:师生恋题材作品 "wikilink") [Category:表亲恋情作品](https://zh.wikipedia.org/wiki/Category:表亲恋情作品 "wikilink") [Category:孤島背景作品](https://zh.wikipedia.org/wiki/Category:孤島背景作品 "wikilink")
 
 1.  [リゾートBOIN](http://www.getchu.com/soft.phtml?id=220493)Getchu.com
-2.  [Resort Boin
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9301)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [Resort Boin (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9301)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

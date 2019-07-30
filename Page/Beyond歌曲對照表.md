@@ -1,10 +1,10 @@
-以下是介紹香港樂隊[Beyond發表的所有歌曲的語言對照表](../Page/Beyond.md "wikilink")。
+以下是介紹香港樂隊[Beyond](../Page/Beyond.md "wikilink")發表的所有歌曲的語言對照表。
 
 ## 備註
 
   - 《送給不知怎去保護環境的人(包括我)》是一首歌完全的歌名。
   - 《くちびるを夺いたい（我想夺取你的唇）》、《遥かなる梦に（遥远的梦）》等日語歌曲後面的括號都是將日語翻譯成中文。
-  - 《情人》曾於1994年被改編為歌曲《戒痕》，由[辛曉琪演唱](../Page/辛曉琪.md "wikilink")，收入於《[味道](../Page/味道_\(專輯\).md "wikilink")》專輯裡。
+  - 《情人》曾於1994年被改編為歌曲《戒痕》，由[辛曉琪](../Page/辛曉琪.md "wikilink")演唱，收入於《[味道](../Page/味道_\(專輯\).md "wikilink")》專輯裡。
   - 《海闊天空》曾於2008年被改編為歌曲《承諾》，由[滾石群星演唱](../Page/滾石唱片.md "wikilink")。
 
 ## 對照表
@@ -92,5 +92,4 @@
 | 無                 | 無                   | 無                  | Dead Romance (Part II)             |
 | 無                 | 無                   | 無                  | We don't wanna make it without you |
 
-[Category:粵語流行音樂](https://zh.wikipedia.org/wiki/Category:粵語流行音樂 "wikilink")
-[Category:Beyond](https://zh.wikipedia.org/wiki/Category:Beyond "wikilink")
+[Category:粵語流行音樂](https://zh.wikipedia.org/wiki/Category:粵語流行音樂 "wikilink") [Category:Beyond](https://zh.wikipedia.org/wiki/Category:Beyond "wikilink")

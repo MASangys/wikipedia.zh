@@ -1,7 +1,4 @@
-《**Beautiful
-Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2016年6月20日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，本劇改編自《[科學怪人](../Page/科學怪人.md "wikilink")》，講述了擁有出眾醫術、不輕易流露感情的冷血醫生在遇到心愛之人之後逐漸發生變化的故事。由
-《[Dream High
-2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")》毛完日導演執導、《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》[金泰姬編劇執筆](https://zh.wikipedia.org/wiki/金泰姬 "wikilink")。\[1\]\[2\]
+《**Beautiful Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2016年6月20日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，本劇改編自《[科學怪人](../Page/科學怪人.md "wikilink")》，講述了擁有出眾醫術、不輕易流露感情的冷血醫生在遇到心愛之人之後逐漸發生變化的故事。由 《[Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")》毛完日導演執導、《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》[金泰姬編劇執筆](https://zh.wikipedia.org/wiki/金泰姬 "wikilink")。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -490,8 +487,7 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 
 ## 同時段競爭節目
 
-  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")
-    ：《[Doctors](../Page/Doctors.md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") ：《[Doctors](../Page/Doctors.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》
 
 ## 提名&獲獎列表
@@ -539,7 +535,7 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 
 ## 其他
 
-  - [尹賢旻跟](../Page/尹賢旻.md "wikilink")[朴世榮繼](../Page/朴世榮.md "wikilink")《[我的女兒，琴四月](../Page/我的女兒，琴四月.md "wikilink")》再度合作。
+  - [尹賢旻](../Page/尹賢旻.md "wikilink")跟[朴世榮](../Page/朴世榮.md "wikilink")繼《[我的女兒，琴四月](../Page/我的女兒，琴四月.md "wikilink")》再度合作。
   - 此劇於6月20日開播後，與[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Doctors](../Page/Doctors.md "wikilink")》及[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。
   - 此劇又與[SBS的](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Doctors](../Page/Doctors.md "wikilink")》內容皆以醫院醫療為題材共通點。
   - 此劇集因收視徘徊於3-4%的低收視水平而被KBS提出提早結束的討論，此事亦為KBS月火劇檔期於2016年第二次有減集的提案。\[5\]最後於7月22日決定減少兩集至14集完結。
@@ -552,17 +548,9 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/beautifulmind/index.html)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink")
-[Category:弗兰肯斯坦题材作品](https://zh.wikipedia.org/wiki/Category:弗兰肯斯坦题材作品 "wikilink")
-[Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:英國小說改編電視劇](https://zh.wikipedia.org/wiki/Category:英國小說改編電視劇 "wikilink")
-[Category:科幻小說改編電視劇](https://zh.wikipedia.org/wiki/Category:科幻小說改編電視劇 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:弗兰肯斯坦题材作品](https://zh.wikipedia.org/wiki/Category:弗兰肯斯坦题材作品 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:英國小說改編電視劇](https://zh.wikipedia.org/wiki/Category:英國小說改編電視劇 "wikilink") [Category:科幻小說改編電視劇](https://zh.wikipedia.org/wiki/Category:科幻小說改編電視劇 "wikilink")
 
-1.  [金秀賢辭演《Doctor弗蘭肯斯坦》，「現在是演員辭演季？」](http://chinese.kdramastars.com/trad/articles/18189/20141205/jinxiuxian-doctorfulankensitan.htm)
-    KDramaStars
+1.  [金秀賢辭演《Doctor弗蘭肯斯坦》，「現在是演員辭演季？」](http://chinese.kdramastars.com/trad/articles/18189/20141205/jinxiuxian-doctorfulankensitan.htm) KDramaStars
 2.  [刘亚仁婉拒《弗兰肯斯坦医生》](http://www.weibo.com/p/1001603811215964013553)
 3.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 4.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

@@ -1,22 +1,12 @@
 -----
 
-\-- -- -- PAGETYPE -- -- -- -- This is a meta-module intended to replace
- and similar -- -- templates. It automatically detects namespaces, and
-allows for a -- -- great deal of customisation. It can easily be ported
-to other -- -- wikis by changing the values in the
-[Module:Pagetype/config](https://zh.wikipedia.org/wiki/Module:Pagetype/config "wikilink").
--- -- --
+\-- -- -- PAGETYPE -- -- -- -- This is a meta-module intended to replace  and similar -- -- templates. It automatically detects namespaces, and allows for a -- -- great deal of customisation. It can easily be ported to other -- -- wikis by changing the values in the [Module:Pagetype/config](https://zh.wikipedia.org/wiki/Module:Pagetype/config "wikilink"). -- -- --
 
 -----
 
 \-- Load config. local cfg = mw.loadData('Module:Pagetype/config')
 
-\-- Load required modules. local getArgs =
-require('Module:Arguments').getArgs local yesno =
-require('Module:Yesno') local nsDetectModule = require('Module:Namespace
-detect') local nsDetect = nsDetectModule._main local getParamMappings =
-nsDetectModule.getParamMappings local getPageObject =
-nsDetectModule.getPageObject
+\-- Load required modules. local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno') local nsDetectModule = require('Module:Namespace detect') local nsDetect = nsDetectModule._main local getParamMappings = nsDetectModule.getParamMappings local getPageObject = nsDetectModule.getPageObject
 
 local p = {}
 
@@ -66,8 +56,7 @@ end
 
 local function getNsDetectValue(args)
 
-`   -- Builds the arguments to pass to `[`Module:Namespace``
- ``detect`](https://zh.wikipedia.org/wiki/Module:Namespace_detect "wikilink")` and returns`
+`   -- Builds the arguments to pass to `[`Module:Namespace``   ``detect`](https://zh.wikipedia.org/wiki/Module:Namespace_detect "wikilink")` and returns`
 `   -- the result.`
 
 `   -- Get the default values.`
@@ -89,22 +78,7 @@ local function getNsDetectValue(args)
 `       end`
 `   end`
 
-`   --`[`--``   ``Add``   ``custom``   ``values``   ``passed``   ``in``
- ``from``   ``the``   ``arguments.``   ``These``   ``overwrite``
- ``the``   ``--``   ``defaults.``   ``The``   ``possible``
- ``argument``   ``names``   ``are``   ``fetched``   ``from``   ``--``
- ``Module:Namespace``   ``detect``   ``automatically``   ``in``
- ``case``   ``new``   ``namespaces``   ``are``   ``--``   ``added.``
- ``Although``   ``we``   ``accept``   ``namespace``   ``aliases``
- ``as``   ``parameters,``   ``we``   ``only``   ``pass``   ``--``
- ``the``   ``local``   ``namespace``   ``name``   ``as``   ``a``
- ``parameter``   ``to``   ``Module:Namespace``   ``detect.``   ``--``
- ``This``   ``means``   ``that``   ``the``   ``"image"``
- ``parameter``   ``can``   ``overwrite``   ``defaults``   ``for``
- ``the``   ``--``   ``File:``   ``namespace,``   ``which``
- ``wouldn't``   ``work``   ``if``   ``we``   ``passed``   ``the``
- ``parameters``   ``through``   ``--``   ``separately.``
- ``--`](https://zh.wikipedia.org/wiki/--_Add_custom_values_passed_in_from_the_arguments._These_overwrite_the_--_defaults._The_possible_argument_names_are_fetched_from_--_Module:Namespace_detect_automatically_in_case_new_namespaces_are_--_added._Although_we_accept_namespace_aliases_as_parameters,_we_only_pass_--_the_local_namespace_name_as_a_parameter_to_Module:Namespace_detect._--_This_means_that_the_"image"_parameter_can_overwrite_defaults_for_the_--_File:_namespace,_which_wouldn't_work_if_we_passed_the_parameters_through_--_separately._-- "wikilink")
+`   --`[`--``   ``Add``   ``custom``   ``values``   ``passed``   ``in``   ``from``   ``the``   ``arguments.``   ``These``   ``overwrite``   ``the``   ``--``   ``defaults.``   ``The``   ``possible``   ``argument``   ``names``   ``are``   ``fetched``   ``from``   ``--``   ``Module:Namespace``   ``detect``   ``automatically``   ``in``   ``case``   ``new``   ``namespaces``   ``are``   ``--``   ``added.``   ``Although``   ``we``   ``accept``   ``namespace``   ``aliases``   ``as``   ``parameters,``   ``we``   ``only``   ``pass``   ``--``   ``the``   ``local``   ``namespace``   ``name``   ``as``   ``a``   ``parameter``   ``to``   ``Module:Namespace``   ``detect.``   ``--``   ``This``   ``means``   ``that``   ``the``   ``"image"``   ``parameter``   ``can``   ``overwrite``   ``defaults``   ``for``   ``the``   ``--``   ``File:``   ``namespace,``   ``which``   ``wouldn't``   ``work``   ``if``   ``we``   ``passed``   ``the``   ``parameters``   ``through``   ``--``   ``separately.``   ``--`](https://zh.wikipedia.org/wiki/--_Add_custom_values_passed_in_from_the_arguments._These_overwrite_the_--_defaults._The_possible_argument_names_are_fetched_from_--_Module:Namespace_detect_automatically_in_case_new_namespaces_are_--_added._Although_we_accept_namespace_aliases_as_parameters,_we_only_pass_--_the_local_namespace_name_as_a_parameter_to_Module:Namespace_detect._--_This_means_that_the_"image"_parameter_can_overwrite_defaults_for_the_--_File:_namespace,_which_wouldn't_work_if_we_passed_the_parameters_through_--_separately._-- "wikilink")
 `   local mappings = getParamMappings()`
 `   for ns, paramAliases in pairs(mappings) do`
 `       -- Copy the aliases table, as # doesn't work with tables returned from`
@@ -119,8 +93,7 @@ local function getNsDetectValue(args)
 `           if ndArg == false then`
 `               -- If any arguments are false, convert them to nil to protect`
 `               -- against breakage by future changes to`
-`               -- `[`Module:Namespace``
- ``detect`](https://zh.wikipedia.org/wiki/Module:Namespace_detect "wikilink")`.`
+`               -- `[`Module:Namespace``   ``detect`](https://zh.wikipedia.org/wiki/Module:Namespace_detect "wikilink")`.`
 `               ndArgs[paramName] = nil`
 `           elseif ndArg then`
 `               ndArgs[paramName] = ndArg`

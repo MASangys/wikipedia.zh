@@ -1,24 +1,6 @@
 **LGBT運動員列表**是收錄知名的[女同性戀](../Page/女同性戀.md "wikilink")（L）、[男同性戀](../Page/男同性戀.md "wikilink")（G）、[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")（B）與[跨性別](../Page/跨性別.md "wikilink")（T）的[運動員與體育界相關人士之列表](https://zh.wikipedia.org/wiki/運動員 "wikilink")。
 
-[Jason_Collins_Nets_2014.jpg](https://zh.wikipedia.org/wiki/File:Jason_Collins_Nets_2014.jpg "fig:Jason_Collins_Nets_2014.jpg")運動員[杰森·科林斯](../Page/杰森·科林斯.md "wikilink")\]\]
-[Jpcalderon.jpg](https://zh.wikipedia.org/wiki/File:Jpcalderon.jpg "fig:Jpcalderon.jpg")運動員\]\]
-[Nongthoomfairtex.jpg](https://zh.wikipedia.org/wiki/File:Nongthoomfairtex.jpg "fig:Nongthoomfairtex.jpg")手[帕莉亞](../Page/帕莉亞.md "wikilink")\]\]
-[Billie_Jean_King_TFF_2007_Shankbone.jpg](https://zh.wikipedia.org/wiki/File:Billie_Jean_King_TFF_2007_Shankbone.jpg "fig:Billie_Jean_King_TFF_2007_Shankbone.jpg")運動員[-{zh-cn:比利·简·金;zh-tw:比莉·珍·金}-](../Page/比利·简·金.md "wikilink")\]\]
-[Bundesarchiv_Bild_183-1986-0826-036,_Stuttgart,_Leichtathletik-EM,_Kugelstoßerin_Heidi_Krieger_errang_den_ersten_Titel_für_die_DDR.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-1986-0826-036,_Stuttgart,_Leichtathletik-EM,_Kugelstoßerin_Heidi_Krieger_errang_den_ersten_Titel_für_die_DDR.jpg "fig:Bundesarchiv_Bild_183-1986-0826-036,_Stuttgart,_Leichtathletik-EM,_Kugelstoßerin_Heidi_Krieger_errang_den_ersten_Titel_für_die_DDR.jpg")選手\]\]
-[Greglouganis.jpg](https://zh.wikipedia.org/wiki/File:Greglouganis.jpg "fig:Greglouganis.jpg")選手[-{zh-cn:格雷格·洛加尼斯;zh-hk:格雷格·盧根尼斯;zh-tw:格雷格·洛加尼斯}-](../Page/格雷格·洛加尼斯.md "wikilink")\]\]
-[Hana_mandlikova.jpg](https://zh.wikipedia.org/wiki/File:Hana_mandlikova.jpg "fig:Hana_mandlikova.jpg")運動員[-{zh-hans:哈娜·曼德利科娃;zh-hk:文迪高娃;zh-tw:曼德利可娃}-](../Page/哈娜·曼德利科娃.md "wikilink")\]\]
-[Matthew_Mitcham.jpg](https://zh.wikipedia.org/wiki/File:Matthew_Mitcham.jpg "fig:Matthew_Mitcham.jpg")選手[马修·米查姆](../Page/马修·米查姆.md "wikilink")\]\]
-[Dominik_Koll_Wien2008.jpg](https://zh.wikipedia.org/wiki/File:Dominik_Koll_Wien2008.jpg "fig:Dominik_Koll_Wien2008.jpg")選手\]\]
-[Charline_Labonté_in_2014_crop.jpg](https://zh.wikipedia.org/wiki/File:Charline_Labonté_in_2014_crop.jpg "fig:Charline_Labonté_in_2014_crop.jpg")
-[Katja_Nyberg2.jpg](https://zh.wikipedia.org/wiki/File:Katja_Nyberg2.jpg "fig:Katja_Nyberg2.jpg")運動員[卡特娅·尼贝格](../Page/卡特娅·尼贝格.md "wikilink")\]\]
-[Anja_Pärson_Semmering_2008.jpg](https://zh.wikipedia.org/wiki/File:Anja_Pärson_Semmering_2008.jpg "fig:Anja_Pärson_Semmering_2008.jpg")\]\]
-[Michael_Sam_final_Mizzou_home_game.jpg](https://zh.wikipedia.org/wiki/File:Michael_Sam_final_Mizzou_home_game.jpg "fig:Michael_Sam_final_Mizzou_home_game.jpg")員[-{zh-cn:迈克尔·山姆;
-zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "wikilink")\]\]
-[Sheryl_Swoopes_WNBA.jpg](https://zh.wikipedia.org/wiki/File:Sheryl_Swoopes_WNBA.jpg "fig:Sheryl_Swoopes_WNBA.jpg")運動員\]\]
-[Gareth_Thomas_(rugby_player).jpg](https://zh.wikipedia.org/wiki/File:Gareth_Thomas_\(rugby_player\).jpg "fig:Gareth_Thomas_(rugby_player).jpg")運動員\]\]
-[Ian_Thorpe_2012.jpg](https://zh.wikipedia.org/wiki/File:Ian_Thorpe_2012.jpg "fig:Ian_Thorpe_2012.jpg")\]\]
-[Louisa_Wall.jpg](https://zh.wikipedia.org/wiki/File:Louisa_Wall.jpg "fig:Louisa_Wall.jpg")運動員\]\]
-[Darren_Young_April_2012.jpg](https://zh.wikipedia.org/wiki/File:Darren_Young_April_2012.jpg "fig:Darren_Young_April_2012.jpg")\]\]
+[Jason_Collins_Nets_2014.jpg](https://zh.wikipedia.org/wiki/File:Jason_Collins_Nets_2014.jpg "fig:Jason_Collins_Nets_2014.jpg")運動員[杰森·科林斯](../Page/杰森·科林斯.md "wikilink")\]\] [Jpcalderon.jpg](https://zh.wikipedia.org/wiki/File:Jpcalderon.jpg "fig:Jpcalderon.jpg")運動員\]\] [Nongthoomfairtex.jpg](https://zh.wikipedia.org/wiki/File:Nongthoomfairtex.jpg "fig:Nongthoomfairtex.jpg")手[帕莉亞](../Page/帕莉亞.md "wikilink")\]\] [Billie_Jean_King_TFF_2007_Shankbone.jpg](https://zh.wikipedia.org/wiki/File:Billie_Jean_King_TFF_2007_Shankbone.jpg "fig:Billie_Jean_King_TFF_2007_Shankbone.jpg")運動員[-{zh-cn:比利·简·金;zh-tw:比莉·珍·金}-](../Page/比利·简·金.md "wikilink")\]\] [Bundesarchiv_Bild_183-1986-0826-036,_Stuttgart,_Leichtathletik-EM,_Kugelstoßerin_Heidi_Krieger_errang_den_ersten_Titel_für_die_DDR.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-1986-0826-036,_Stuttgart,_Leichtathletik-EM,_Kugelstoßerin_Heidi_Krieger_errang_den_ersten_Titel_für_die_DDR.jpg "fig:Bundesarchiv_Bild_183-1986-0826-036,_Stuttgart,_Leichtathletik-EM,_Kugelstoßerin_Heidi_Krieger_errang_den_ersten_Titel_für_die_DDR.jpg")選手\]\] [Greglouganis.jpg](https://zh.wikipedia.org/wiki/File:Greglouganis.jpg "fig:Greglouganis.jpg")選手[-{zh-cn:格雷格·洛加尼斯;zh-hk:格雷格·盧根尼斯;zh-tw:格雷格·洛加尼斯}-](../Page/格雷格·洛加尼斯.md "wikilink")\]\] [Hana_mandlikova.jpg](https://zh.wikipedia.org/wiki/File:Hana_mandlikova.jpg "fig:Hana_mandlikova.jpg")運動員[-{zh-hans:哈娜·曼德利科娃;zh-hk:文迪高娃;zh-tw:曼德利可娃}-](../Page/哈娜·曼德利科娃.md "wikilink")\]\] [Matthew_Mitcham.jpg](https://zh.wikipedia.org/wiki/File:Matthew_Mitcham.jpg "fig:Matthew_Mitcham.jpg")選手[马修·米查姆](../Page/马修·米查姆.md "wikilink")\]\] [Dominik_Koll_Wien2008.jpg](https://zh.wikipedia.org/wiki/File:Dominik_Koll_Wien2008.jpg "fig:Dominik_Koll_Wien2008.jpg")選手\]\] [Charline_Labonté_in_2014_crop.jpg](https://zh.wikipedia.org/wiki/File:Charline_Labonté_in_2014_crop.jpg "fig:Charline_Labonté_in_2014_crop.jpg") [Katja_Nyberg2.jpg](https://zh.wikipedia.org/wiki/File:Katja_Nyberg2.jpg "fig:Katja_Nyberg2.jpg")運動員[卡特娅·尼贝格](../Page/卡特娅·尼贝格.md "wikilink")\]\] [Anja_Pärson_Semmering_2008.jpg](https://zh.wikipedia.org/wiki/File:Anja_Pärson_Semmering_2008.jpg "fig:Anja_Pärson_Semmering_2008.jpg")\]\] [Michael_Sam_final_Mizzou_home_game.jpg](https://zh.wikipedia.org/wiki/File:Michael_Sam_final_Mizzou_home_game.jpg "fig:Michael_Sam_final_Mizzou_home_game.jpg")員[-{zh-cn:迈克尔·山姆; zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "wikilink")\]\] [Sheryl_Swoopes_WNBA.jpg](https://zh.wikipedia.org/wiki/File:Sheryl_Swoopes_WNBA.jpg "fig:Sheryl_Swoopes_WNBA.jpg")運動員\]\] [Gareth_Thomas_(rugby_player).jpg](https://zh.wikipedia.org/wiki/File:Gareth_Thomas_\(rugby_player\).jpg "fig:Gareth_Thomas_(rugby_player).jpg")運動員\]\] [Ian_Thorpe_2012.jpg](https://zh.wikipedia.org/wiki/File:Ian_Thorpe_2012.jpg "fig:Ian_Thorpe_2012.jpg")\]\] [Louisa_Wall.jpg](https://zh.wikipedia.org/wiki/File:Louisa_Wall.jpg "fig:Louisa_Wall.jpg")運動員\]\] [Darren_Young_April_2012.jpg](https://zh.wikipedia.org/wiki/File:Darren_Young_April_2012.jpg "fig:Darren_Young_April_2012.jpg")\]\]
 
 <table>
 <thead>
@@ -1881,7 +1863,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/棒球.md" title="wikilink">棒球裁判</a></p></td>
+<td><p><a href="../Page/棒球.md" title="wikilink">棒球</a>裁判</p></td>
 <td><p>G[169]</p></td>
 </tr>
 <tr class="odd">
@@ -2652,7 +2634,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/篮球.md" title="wikilink">篮球经理</a></p></td>
+<td><p><a href="../Page/篮球.md" title="wikilink">篮球</a>经理</p></td>
 <td><p>G[235]</p></td>
 </tr>
 <tr class="odd">
@@ -2794,10 +2776,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
   -
 ## 參考來源
 
-[Category:LGBT運動員](https://zh.wikipedia.org/wiki/Category:LGBT運動員 "wikilink")
-[Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink")
-[Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink")
-[Category:体育人物列表](https://zh.wikipedia.org/wiki/Category:体育人物列表 "wikilink")
+[Category:LGBT運動員](https://zh.wikipedia.org/wiki/Category:LGBT運動員 "wikilink") [Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink") [Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink") [Category:体育人物列表](https://zh.wikipedia.org/wiki/Category:体育人物列表 "wikilink")
 
 1.
 
@@ -2855,11 +2834,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 28.
 
-29. [Brian Boitano announces he's gay before trip to
-    Sochi](http://www.usatoday.com/story/sports/olympics/sochi/2013/12/19/brian-boitano-announces-he-is-gay-sochi-delegation/4125427/),
-    by Christine Brennan, at [USA
-    Today](https://zh.wikipedia.org/wiki/今日美国 "wikilink"); published
-    December 19, 2013. Retrieved 20 December 2013.
+29. [Brian Boitano announces he's gay before trip to Sochi](http://www.usatoday.com/story/sports/olympics/sochi/2013/12/19/brian-boitano-announces-he-is-gay-sochi-delegation/4125427/), by Christine Brennan, at [USA Today](https://zh.wikipedia.org/wiki/今日美国 "wikilink"); published December 19, 2013. Retrieved 20 December 2013.
 
 30.
 
@@ -2909,9 +2884,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 53.
 
-54. ["Sochi: Canadian Olympians weigh in on Russia's anti-gay
-    law"](http://www.thestar.com/sports/amateur/2013/08/16/sochi_canadian_olympians_weigh_in_on_russias_antigay_law.html).
-    *[Toronto Star](../Page/多倫多星報.md "wikilink")*, August 16, 2013.
+54. ["Sochi: Canadian Olympians weigh in on Russia's anti-gay law"](http://www.thestar.com/sports/amateur/2013/08/16/sochi_canadian_olympians_weigh_in_on_russias_antigay_law.html). *[Toronto Star](../Page/多倫多星報.md "wikilink")*, August 16, 2013.
 
 55.
 
@@ -3002,9 +2975,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 100.
 
-101. [Four-time Olympic gold medallist Jayna Hefford enjoying family
-     life](http://www.cwhl.ca/view/cwhl/news-644/news_149823) . May 10,
-     2014
+101. [Four-time Olympic gold medallist Jayna Hefford enjoying family life](http://www.cwhl.ca/view/cwhl/news-644/news_149823) . May 10, 2014
 
 102.
 
@@ -3046,8 +3017,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 121.
 
-122. [Four-time Olympic gold medallist Jayna Hefford enjoying family
-     life](http://www.cwhl.ca/view/cwhl/news-644/news_149823)
+122. [Four-time Olympic gold medallist Jayna Hefford enjoying family life](http://www.cwhl.ca/view/cwhl/news-644/news_149823)
 
 123.
 
@@ -3067,19 +3037,14 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 131.
 
-132. [Hamburger Abendblatt.de: Katja Kraus heiratet von der Leyens
-     Staatssekretärin](http://www.abendblatt.de/hamburg/article210104397/Katja-Kraus-heiratet-von-der-Leyens-Staatssekretaerin.html)
-     (german)
+132. [Hamburger Abendblatt.de: Katja Kraus heiratet von der Leyens Staatssekretärin](http://www.abendblatt.de/hamburg/article210104397/Katja-Kraus-heiratet-von-der-Leyens-Staatssekretaerin.html) (german)
 
 133.
 134.
 
 135. <https://www.instagram.com/p/BF--s_WCdqA/>
 
-136. [Outsports.com: "Top French handballer Alexandra Lacrabère comes
-     out, will play in Summer
-     Olympics](http://outsports.com/jocktalkblog/2012/02/07/top-french-handballer-alexandra-lacrabere-comes-out-will-play-in-summer-olympics/)
-
+136. [Outsports.com: "Top French handballer Alexandra Lacrabère comes out, will play in Summer Olympics](http://outsports.com/jocktalkblog/2012/02/07/top-french-handballer-alexandra-lacrabere-comes-out-will-play-in-summer-olympics/)
 
 137.
 
@@ -3097,8 +3062,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 145.
 
-146. "Gay and proud: Canada's only publicly gay MP tells his story".
-     *[Maclean's](../Page/麦克林.md "wikilink")*, May 16, 1994.
+146. "Gay and proud: Canada's only publicly gay MP tells his story". *[Maclean's](../Page/麦克林.md "wikilink")*, May 16, 1994.
 
 147.
 
@@ -3106,8 +3070,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 149.
 
-150. "Marriage, medals and mentorship". *[Toronto
-     Star](../Page/多倫多星報.md "wikilink")*, November 7, 2014.
+150. "Marriage, medals and mentorship". *[Toronto Star](../Page/多倫多星報.md "wikilink")*, November 7, 2014.
 
 151.
 
@@ -3197,12 +3160,9 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 198.
 
-199. Rick Broadbent, ["From Erika to Erik, a long journey of
-     self-discovery"](http://www.timesonline.co.uk/tol/sport/more_sport/article6884528.ece),
-     *[The Times](../Page/泰晤士报.md "wikilink")*, 22 October 2009.
+199. Rick Broadbent, ["From Erika to Erik, a long journey of self-discovery"](http://www.timesonline.co.uk/tol/sport/more_sport/article6884528.ece), *[The Times](../Page/泰晤士报.md "wikilink")*, 22 October 2009.
 
-200. <https://www.sportswallah.com/cricket/relationships/megan-schutt-reveals-engagement-with-woman-with-touching-instagram-post/>
-     Accessed 4 March 2019
+200. <https://www.sportswallah.com/cricket/relationships/megan-schutt-reveals-engagement-with-woman-with-touching-instagram-post/> Accessed 4 March 2019
 
 201.
 
@@ -3222,11 +3182,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 210.
 
-211. [This trans athlete plays women’s pro football, and for USA
-     Baseball](https://www.outsports.com/2017/12/13/16748322/britney-stinson-trans-football-baseball),
-     by Cyd Zeigler, at [Out
-     Sports](https://zh.wikipedia.org/wiki/Out_Sports "wikilink");
-     published December 13, 2017. Retrieved 11 November 2018.
+211. [This trans athlete plays women’s pro football, and for USA Baseball](https://www.outsports.com/2017/12/13/16748322/britney-stinson-trans-football-baseball), by Cyd Zeigler, at [Out Sports](https://zh.wikipedia.org/wiki/Out_Sports "wikilink"); published December 13, 2017. Retrieved 11 November 2018.
 
 212.
 
@@ -3238,8 +3194,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 216.
 217.
 
-218. "For kayaker Connor Taras, coming out was ultimate victory".
-     *[Toronto Star](../Page/多倫多星報.md "wikilink")*, July 22, 2014.
+218. "For kayaker Connor Taras, coming out was ultimate victory". *[Toronto Star](../Page/多倫多星報.md "wikilink")*, July 22, 2014.
 
 219.
 220.
@@ -3256,9 +3211,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 227.
 228.
-229. Betty Bean, "[The Jackie Walker
-     Story](http://www.metropulse.com/news/2007/nov/22/jackie-walker-story/)
-     ," *Metro Pulse*, 22 November 2007. Retrieved: 21 June 2014.
+229. Betty Bean, "[The Jackie Walker Story](http://www.metropulse.com/news/2007/nov/22/jackie-walker-story/) ," *Metro Pulse*, 22 November 2007. Retrieved: 21 June 2014.
 
 230.
 
@@ -3272,8 +3225,7 @@ zh-tw:麥可·山姆; zh-hk:米高·山姆}-簡卓](../Page/麥可·山姆.md "w
 
 235.
 
-236. "The Dark Knight Rises." The Challenge: Rivals II. MTV. 24 July
-     2013. Television.
+236. "The Dark Knight Rises." The Challenge: Rivals II. MTV. 24 July 2013. Television.
 
 237.
 

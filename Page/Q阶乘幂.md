@@ -1,4 +1,4 @@
-**q阶乘幂**是[阶乘幂的](https://zh.wikipedia.org/wiki/阶乘幂 "wikilink")[Q-模拟](../Page/Q-模拟.md "wikilink")\[1\]。与阶乘幂在[广义超几何函数中的作用类似](../Page/广义超几何函数.md "wikilink")，q阶乘幂也是定义[基本超几何函数的基础](../Page/基本超几何函数.md "wikilink")。
+**q阶乘幂**是[阶乘幂的](https://zh.wikipedia.org/wiki/阶乘幂 "wikilink")[Q-模拟](../Page/Q-模拟.md "wikilink")\[1\]。与阶乘幂在[广义超几何函数](../Page/广义超几何函数.md "wikilink")中的作用类似，q阶乘幂也是定义[基本超几何函数](../Page/基本超几何函数.md "wikilink")的基础。
 
 ## 定义
 
@@ -24,7 +24,7 @@
 \[(a;q)_\infty = \prod_{k=0}^{\infty} (1-aq^k),\]
 
   -
-    这时它是一个关于q在[单位圆盘内的](../Page/单位圆盘.md "wikilink")[解析函数](../Page/解析函数.md "wikilink")，也可以考虑为一个关于q的[形式幂级数](../Page/形式幂级数.md "wikilink")。其中一个特殊情况
+    这时它是一个关于q在[单位圆盘](../Page/单位圆盘.md "wikilink")内的[解析函数](../Page/解析函数.md "wikilink")，也可以考虑为一个关于q的[形式幂级数](../Page/形式幂级数.md "wikilink")。其中一个特殊情况
 
 \[\phi(q) = (q;q)_\infty=\prod_{k=1}^\infty (1-q^k)\]
 
@@ -56,8 +56,7 @@
 
 ## 图集
 
-<File:Qpochammer2.png>|\[(a;b)_2\] <File:Qpochammer3.png>|\[(a;b)_3\]
-<File:Qpochammer4.png>|\[(a;b)_4\] <File:Qpochammer5.png>|\[(a;b)_5\]
+<File:Qpochammer2.png>|\[(a;b)_2\] <File:Qpochammer3.png>|\[(a;b)_3\] <File:Qpochammer4.png>|\[(a;b)_4\] <File:Qpochammer5.png>|\[(a;b)_5\]
 
 ## 参考文献
 
@@ -65,6 +64,4 @@
 
 [Category:数论](https://zh.wikipedia.org/wiki/Category:数论 "wikilink")
 
-1.  Exton, H. (1983), *q-Hypergeometric Functions and Applications*, New
-    York: Halstead Press, Chichester: Ellis Horwood, 1983, ISBN
-    0853124914, ISBN 0470274530, ISBN 978-0470274538
+1.  Exton, H. (1983), *q-Hypergeometric Functions and Applications*, New York: Halstead Press, Chichester: Ellis Horwood, 1983, ISBN 0853124914, ISBN 0470274530, ISBN 978-0470274538

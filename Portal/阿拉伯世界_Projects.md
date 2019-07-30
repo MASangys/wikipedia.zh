@@ -49,14 +49,11 @@
 
   - [阿拉伯聯合大公國](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_United_Arab_Emirates "wikilink")
 
-:\*
-[阿布達比](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Abu_Dhabi "wikilink")
+:\* [阿布達比](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Abu_Dhabi "wikilink")
 
-:\*
-[杜拜](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Dubai "wikilink")
+:\* [杜拜](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Dubai "wikilink")
 
-:\*[WikiProject Northern
-Emirates](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Northern_Emirates "wikilink")
+:\*[WikiProject Northern Emirates](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Northern_Emirates "wikilink")
 
   - [西薩哈拉](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Western_Sahara "wikilink")
 

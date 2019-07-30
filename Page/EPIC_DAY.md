@@ -1,6 +1,4 @@
-《**EPIC
-DAY**》是日本摇滚组合[B'z的的第十九张录音室专辑](../Page/B'z.md "wikilink")。2015年3月4日由[VERMILLION
-RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
+《**EPIC DAY**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十九张录音室专辑。2015年3月4日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 ## 簡介
 
@@ -51,23 +49,19 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
   - DVD （首批发行限量版）
 
-收錄了2012年10月25日在大阪城Hall舉行「B'z LIVE-GYM 2012 -Into Free-
-EXTRA」演唱會的影像\[4\]。
+收錄了2012年10月25日在大阪城Hall舉行「B'z LIVE-GYM 2012 -Into Free- EXTRA」演唱會的影像\[4\]。
 
 1.  **Love Bomb**
-2.  **[GO FOR IT, BABY
-    -記憶的山脈-](../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md "wikilink")**
+2.  **[GO FOR IT, BABY -記憶的山脈-](../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md "wikilink")**
 3.  **Ultra Soul**
 4.  **Splash**
 5.  **[Brighter Day](../Page/THE_CIRCLE.md "wikilink")**
-6.  **[Easy Come, Easy
-    Go\!](../Page/Easy_Come,_Easy_Go!.md "wikilink")**
+6.  **[Easy Come, Easy Go\!](../Page/Easy_Come,_Easy_Go!.md "wikilink")**
 7.  **[MOTEL](../Page/MOTEL.md "wikilink")**
 8.  **[想再吻一次](../Page/IN_THE_LIFE.md "wikilink")**
 9.  **[愛人啊Good Night...](../Page/愛人啊Good_Night....md "wikilink")**
 10. **[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")**
-11. **[看不見的力量 ～INVISIBLE
-    ONE～](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")**
+11. **[看不見的力量 ～INVISIBLE ONE～](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")**
 12. **[心願](../Page/心願_\(B'z單曲\).md "wikilink")**
 13. **Into Free -Dangan-**
 14. **Juice**
@@ -101,18 +95,9 @@ EXTRA」演唱會的影像\[4\]。
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
-[Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink") [Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-2.  「[B'z、アルバム『EPIC
-    DAY』全貌＋スタジアムツアー発表](http://headlines.yahoo.co.jp/hl?a=20150126-00000061-bark-musi)
-    」[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")、2015年1月26日閲覧
-3.  「[B'z、アルバム『EPIC
-    DAY』全貌＋スタジアムツアー発表](http://headlines.yahoo.co.jp/hl?a=20150126-00000061-bark-musi)
-    」[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")、2015年1月26日閲覧
-4.  「[B'z、アルバム『EPIC
-    DAY』全貌＋スタジアムツアー発表](http://headlines.yahoo.co.jp/hl?a=20150126-00000061-bark-musi)
-    」[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")、2015年1月26日閲覧
+2.  「[B'z、アルバム『EPIC DAY』全貌＋スタジアムツアー発表](http://headlines.yahoo.co.jp/hl?a=20150126-00000061-bark-musi) 」[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")、2015年1月26日閲覧
+3.  「[B'z、アルバム『EPIC DAY』全貌＋スタジアムツアー発表](http://headlines.yahoo.co.jp/hl?a=20150126-00000061-bark-musi) 」[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")、2015年1月26日閲覧
+4.  「[B'z、アルバム『EPIC DAY』全貌＋スタジアムツアー発表](http://headlines.yahoo.co.jp/hl?a=20150126-00000061-bark-musi) 」[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")、2015年1月26日閲覧

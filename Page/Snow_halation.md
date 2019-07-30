@@ -1,23 +1,18 @@
-《**Snow
-halation**》是μ's的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是第一次以「μ's」名義發行的單曲，於2010年12月22日由[Lantis發售](../Page/Lantis.md "wikilink")。
+《**Snow halation**》是μ's的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是第一次以「μ's」名義發行的單曲，於2010年12月22日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要
 
 本單曲共分初回生產限定版與通常版两種發行，初回生產限定版额外附送了一張特別版封面（與歌詞小冊子尺寸相同、但畫像不同的紙卡）以及一張單色人物卡片（隨機封入一種，共9种）。兩種版本皆附有CD及DVD各一张，CD收錄了樂曲和廣播劇，DVD則收錄了動畫音樂短片。
 
-本作為μ's第一次採用「μ's」名義發行單曲。此前的出道單曲《》（我們的LIVE 與你的LIFE）使用了「」（LoveLive\! School
-idol
-project）的名義發行，但自本作起的所有新作則全部改用在2010年夏天組合名募集企畫中決定的名稱「μ's」發行。中间（center）位是在2010年8月举行的第一次总选举中胜出的高坂穗乃果（CV：[新田惠海](../Page/新田惠海.md "wikilink")）。
+本作為μ's第一次採用「μ's」名義發行單曲。此前的出道單曲《》（我們的LIVE 與你的LIFE）使用了「」（LoveLive\! School idol project）的名義發行，但自本作起的所有新作則全部改用在2010年夏天組合名募集企畫中決定的名稱「μ's」發行。中间（center）位是在2010年8月举行的第一次总选举中胜出的高坂穗乃果（CV：[新田惠海](../Page/新田惠海.md "wikilink")）。
 
-作為[法人特典](../Page/法人.md "wikilink")，在[Animate](https://zh.wikipedia.org/wiki/Animate "wikilink")、、[Comic虎之穴購買本作時](../Page/Comic虎之穴.md "wikilink")，會附贈實際並不存在的架空活動門票，而各個法人所虛構的活動及門票設計均有所不同。
+作為[法人](../Page/法人.md "wikilink")特典，在[Animate](https://zh.wikipedia.org/wiki/Animate "wikilink")、、[Comic虎之穴](../Page/Comic虎之穴.md "wikilink")購買本作時，會附贈實際並不存在的架空活動門票，而各個法人所虛構的活動及門票設計均有所不同。
 
-2017年，在NHK为纪念[日本动画诞生一百周年而进行的](../Page/日本动画.md "wikilink")“[日本动画100](../Page/日本动画100.md "wikilink")”特别企划中，获选为“Best
-Anisong 100”动画歌曲第一名\[1\]。
+2017年，在NHK为纪念[日本动画](../Page/日本动画.md "wikilink")诞生一百周年而进行的“[日本动画100](../Page/日本动画100.md "wikilink")”特别企划中，获选为“Best Anisong 100”动画歌曲第一名\[1\]。
 
 ### “橙色奇迹”
 
-PV前半段模仿雪花的白色灯光，在穗乃果独唱「」（传达出去吧
-将这份悲伤的心情）曲段时，会次第变为穗乃果代表色的橙色。这一灯光变化成为了该曲的特色，在后来的动画、演唱会和[PSV游戏中都得到了忠实地重现](../Page/LoveLive!_学园偶像天国.md "wikilink")\[2\]。歌迷在現場觀看本曲時，通常会在上述部分將手中[螢光棒的顏色從象徵冬天的白色轉換為代表演唱該段的主角](../Page/螢光棒.md "wikilink")、[高坂穂乃果的橙色](https://zh.wikipedia.org/wiki/LoveLive!#登場人物 "wikilink")（此時通常使用超高亮螢光棒）\[3\]。而在部分[视频弹幕网站上](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")（如[niconico](https://zh.wikipedia.org/wiki/niconico "wikilink")、[bilibili等](https://zh.wikipedia.org/wiki/bilibili "wikilink")），每当演唱到「」这一句时，也会出现大量橙色弹幕。
+PV前半段模仿雪花的白色灯光，在穗乃果独唱「」（传达出去吧 将这份悲伤的心情）曲段时，会次第变为穗乃果代表色的橙色。这一灯光变化成为了该曲的特色，在后来的动画、演唱会和[PSV游戏中都得到了忠实地重现](../Page/LoveLive!_学园偶像天国.md "wikilink")\[2\]。歌迷在現場觀看本曲時，通常会在上述部分將手中[螢光棒](../Page/螢光棒.md "wikilink")的顏色從象徵冬天的白色轉換為代表演唱該段的主角、[高坂穂乃果的橙色](https://zh.wikipedia.org/wiki/LoveLive!#登場人物 "wikilink")（此時通常使用超高亮螢光棒）\[3\]。而在部分[视频弹幕网站上](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")（如[niconico](https://zh.wikipedia.org/wiki/niconico "wikilink")、[bilibili等](https://zh.wikipedia.org/wiki/bilibili "wikilink")），每当演唱到「」这一句时，也会出现大量橙色弹幕。
 
 ## 评价
 
@@ -32,7 +27,7 @@ CD共收錄了兩首歌曲、其純音樂版以及十一段廣播劇，而DVD則
 1.  **Snow halation** \[4:19\]
 
       - 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲：，編曲：
-      - [AT-X資訊節目](../Page/AT-X.md "wikilink")「」2011年1月結尾曲\[4\]。
+      - [AT-X](../Page/AT-X.md "wikilink")資訊節目「」2011年1月結尾曲\[4\]。
       - 在旋律間加入了具有冬日風味的[鈴音以及](https://zh.wikipedia.org/wiki/鈴 "wikilink")[弦樂](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")，營造出抒情的氛圍\[5\]。
       - [電視動畫第](https://zh.wikipedia.org/wiki/LoveLive!_\(动画\) "wikilink")2期第9集中的插曲，剧情中作为μ's在“LoveLive\!”地区决赛的参赛曲目出现。
 
@@ -119,13 +114,11 @@ CD共收錄了兩首歌曲、其純音樂版以及十一段廣播劇，而DVD則
   - 音樂製作人：[齋藤滋](../Page/齋藤滋.md "wikilink")
   - 製作人：平山理志、伊藤善之、
   - 舞蹈編排：yumi
-  - 製作：Project LoveLive\!（日昇動畫、Lantis、[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")）
+  - 製作：Project LoveLive\!（日昇動畫、Lantis、[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）
 
 ## 其他版本
 
-除九人原版外，官方还推出了九人独唱版本的，分别收录于《》、《》、《》以及《Memorial BOX Ⅰ Solo Live\!
-collection》专辑中。
+除九人原版外，官方还推出了九人独唱版本的，分别收录于《》、《》、《》以及《Memorial BOX Ⅰ Solo Live\! collection》专辑中。
 
 在Lantis推出的精选辑《》中，收录了经过重新编曲的。
 
@@ -172,10 +165,7 @@ collection》专辑中。
   - Lantis YouTube頻道的影片
       -
 
-[Category:Μ's歌曲](https://zh.wikipedia.org/wiki/Category:Μ's歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:雪題材樂曲](https://zh.wikipedia.org/wiki/Category:雪題材樂曲 "wikilink")
-[Category:電視動畫插曲](https://zh.wikipedia.org/wiki/Category:電視動畫插曲 "wikilink")
+[Category:Μ's歌曲](https://zh.wikipedia.org/wiki/Category:Μ's歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:雪題材樂曲](https://zh.wikipedia.org/wiki/Category:雪題材樂曲 "wikilink") [Category:電視動畫插曲](https://zh.wikipedia.org/wiki/Category:電視動畫插曲 "wikilink")
 
 1.
 

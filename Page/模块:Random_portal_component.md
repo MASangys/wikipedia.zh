@@ -1,10 +1,8 @@
-\-- This module implements [Template:Random portal
-component](https://zh.wikipedia.org/wiki/Template:Random_portal_component "wikilink")
+\-- This module implements [Template:Random portal component](https://zh.wikipedia.org/wiki/Template:Random_portal_component "wikilink")
 
 local p = {}
 
-local mRandom = require('Module:Random') local currentTitle =
-mw.title.getCurrentTitle()
+local mRandom = require('Module:Random') local currentTitle = mw.title.getCurrentTitle()
 
 local function getRandomNumber(max)
 
@@ -151,8 +149,7 @@ local function makeInvokeFunction(func)
 
 end
 
-p.main = makeInvokeFunction(p._main) p.nominate =
-makeInvokeFunction(p._nominate)
+p.main = makeInvokeFunction(p._main) p.nominate = makeInvokeFunction(p._nominate)
 
 return p
 

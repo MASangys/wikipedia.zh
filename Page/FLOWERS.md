@@ -1,29 +1,18 @@
-《**FLOWERS**》是由[Innocent
-Grey團隊開發的文字](../Page/Innocent_Grey.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此系列共4部。
+《**FLOWERS**》是由[Innocent Grey團隊開發的文字](../Page/Innocent_Grey.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此系列共4部。
 
 ## 概要
 
 本作是以寄宿制教會女子学院为舞台的描写少女们青春与恋爱的百合系作品，同时游戏中也包含解迷元素\[1\]。
 
-本作是Innocent
-Grey发售的首部全年龄作品\[2\]。《春篇》的携带版获得了[Fami通银殿堂评级](../Page/Fami通.md "wikilink")\[3\]。
+本作是Innocent Grey发售的首部全年龄作品\[2\]。《春篇》的携带版获得了[Fami通](../Page/Fami通.md "wikilink")银殿堂评级\[3\]。
 
-第一章《**FLOWERS -Le volume sur
-printemps-（春篇）**》Windows版於2014年4月18日發售\[4\]。[PlayStation
-Portable和](../Page/PlayStation_Portable.md "wikilink")[PlayStation
-Vita版於](../Page/PlayStation_Vita.md "wikilink")2014年10月9日發售\[5\]。
+第一章《**FLOWERS -Le volume sur printemps-（春篇）**》Windows版於2014年4月18日發售\[4\]。[PlayStation Portable和](../Page/PlayStation_Portable.md "wikilink")[PlayStation Vita版於](../Page/PlayStation_Vita.md "wikilink")2014年10月9日發售\[5\]。
 
-第二章《**FLOWERS -Le volume sur
-été-（夏篇）**》Windows版於2015年4月17日發售。PlayStation
-Portable和PlayStation Vita版於2015年10月22日發售。
+第二章《**FLOWERS -Le volume sur été-（夏篇）**》Windows版於2015年4月17日發售。PlayStation Portable和PlayStation Vita版於2015年10月22日發售。
 
-第三章《**FLOWERS -Le volume sur
-automne-（秋篇）**》Windows版於2016年5月27日發售。PlayStation
-Vita版於2016年11月17日發售。
+第三章《**FLOWERS -Le volume sur automne-（秋篇）**》Windows版於2016年5月27日發售。PlayStation Vita版於2016年11月17日發售。
 
-第四章《**FLOWERS -Le volume sur
-hiver-（冬篇）**》Windows版於2017年9月15日發售。PlayStation
-Vita版於2018年3月16日發售。
+第四章《**FLOWERS -Le volume sur hiver-（冬篇）**》Windows版於2017年9月15日發售。PlayStation Vita版於2018年3月16日發售。
 
 ## 剧情大綱
 
@@ -204,8 +193,7 @@ Vita版於2018年3月16日發售。
 <!-- end list -->
 
   -
-    秋篇登場。與「Tulpa of
-    Agape」相同，是解開「沉默的真實女神」事件的關鍵鑰匙。在遺跡的不遠處豎立著一棵接骨木樹，附近亦豎立一座刻有「BASQUIAT」字樣的墓碑。
+    秋篇登場。與「Tulpa of Agape」相同，是解開「沉默的真實女神」事件的關鍵鑰匙。在遺跡的不遠處豎立著一棵接骨木樹，附近亦豎立一座刻有「BASQUIAT」字樣的墓碑。
 
 <!-- end list -->
 
@@ -332,8 +320,7 @@ Vita版於2018年3月16日發售。
   - FLOWERS 秋篇《兩人的時間》《怪談夜話 其之四》
   - FLOWERS 秋篇《La chaleur du coeur》《怪談夜話 其之五》
   - FLOWERS 冬篇《Candytuft》
-  - FLOWERS 冬篇《Snow
-    White》《演出劇<Snow White>》《FairyWreath二重唱\<小禦門奈麗奈&方喰玉木版\>》
+  - FLOWERS 冬篇《Snow White》《演出劇<Snow White>》《FairyWreath二重唱\<小禦門奈麗奈&方喰玉木版\>》
 
 ### 官方導讀
 
@@ -358,15 +345,7 @@ Vita版於2018年3月16日發售。
   -
 
   -
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:LGBT題材作品](https://zh.wikipedia.org/wiki/Category:LGBT題材作品 "wikilink")
-[Category:LGBT相关游戏](https://zh.wikipedia.org/wiki/Category:LGBT相关游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:文字冒險遊戲](https://zh.wikipedia.org/wiki/Category:文字冒險遊戲 "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
-[Category:百合遊戲](https://zh.wikipedia.org/wiki/Category:百合遊戲 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:LGBT題材作品](https://zh.wikipedia.org/wiki/Category:LGBT題材作品 "wikilink") [Category:LGBT相关游戏](https://zh.wikipedia.org/wiki/Category:LGBT相关游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:文字冒險遊戲](https://zh.wikipedia.org/wiki/Category:文字冒險遊戲 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:百合遊戲](https://zh.wikipedia.org/wiki/Category:百合遊戲 "wikilink")
 
 1.
 2.

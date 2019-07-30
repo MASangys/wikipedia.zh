@@ -1,12 +1,6 @@
-{{ infobox website | name = Radiopaedia | screenshot = | caption = | url
-= <http://radiopaedia.org/> | alexa = | commercial = 非盈利 | type =
-[Wiki](../Page/Wiki.md "wikilink") | language = 英语 | registration = 要求 |
-owner = Investling | editor in chief= Dr Frank Gaillard | launch date =
-2005-12 | current status = 2018-12 12254篇论文 31420病例 | revenue = | slogan
-= | website = }}
+{{ infobox website | name = Radiopaedia | screenshot = | caption = | url = <http://radiopaedia.org/> | alexa = | commercial = 非盈利 | type = [Wiki](../Page/Wiki.md "wikilink") | language = 英语 | registration = 要求 | owner = Investling | editor in chief= Dr Frank Gaillard | launch date = 2005-12 | current status = 2018-12 12254篇论文 31420病例 | revenue = | slogan = | website = }}
 
-**Radiopaedia**
-是一个非营利性的国际协作的放射学教育网站，含参考文献、放射影像维基、病人的病例。\[1\]它还包含一个放射学百科全书。这是目前世界最大的一个免费的放射学相关的资源，网站有超过18000的病例和超过7700篇相关主题的论文。
+**Radiopaedia** 是一个非营利性的国际协作的放射学教育网站，含参考文献、放射影像维基、病人的病例。\[1\]它还包含一个放射学百科全书。这是目前世界最大的一个免费的放射学相关的资源，网站有超过18000的病例和超过7700篇相关主题的论文。
 
 ## 背景
 
@@ -14,13 +8,9 @@ owner = Investling | editor in chief= Dr Frank Gaillard | launch date =
 
 ## 目的
 
-Radiopaedia.org根据其创始人的目标是“建立一个在线的文字和案例库。\[2\]
-它的目的是造福放射学工作者，它依赖于从事放射学的工作者和机构。
-它是由澳大利亚神经放射科医生弗兰克·盖拉德在2005年12月成立。\[3\]
-它最初是澳大利亚领导的成立，但是现在有一个全球范围内的合作。其文章内容目前仅限于英语。
+Radiopaedia.org根据其创始人的目标是“建立一个在线的文字和案例库。\[2\] 它的目的是造福放射学工作者，它依赖于从事放射学的工作者和机构。 它是由澳大利亚神经放射科医生弗兰克·盖拉德在2005年12月成立。\[3\] 它最初是澳大利亚领导的成立，但是现在有一个全球范围内的合作。其文章内容目前仅限于英语。
 
-网站类似于维基百科，注册用户可以自由添加和编辑大多数网站内容。这样就可以逐步升级，多年来，来自社会各界的放射科医生花费时间完整其中的内容。该网站还可以让注册用户维护的教学案例。\[4\]
-\[5\]
+网站类似于维基百科，注册用户可以自由添加和编辑大多数网站内容。这样就可以逐步升级，多年来，来自社会各界的放射科医生花费时间完整其中的内容。该网站还可以让注册用户维护的教学案例。\[4\] \[5\]
 
 ## 编委
 
@@ -104,9 +94,7 @@ iPad应用在2010年中期发布。这些当前已发布
 
   - [Radiopedia website](http://radiopaedia.org/)
 
-[Category:医学](https://zh.wikipedia.org/wiki/Category:医学 "wikilink")
-[Category:医学成像](https://zh.wikipedia.org/wiki/Category:医学成像 "wikilink")
-[Category:X射线](https://zh.wikipedia.org/wiki/Category:X射线 "wikilink")
+[Category:医学](https://zh.wikipedia.org/wiki/Category:医学 "wikilink") [Category:医学成像](https://zh.wikipedia.org/wiki/Category:医学成像 "wikilink") [Category:X射线](https://zh.wikipedia.org/wiki/Category:X射线 "wikilink")
 
 1.
 2.

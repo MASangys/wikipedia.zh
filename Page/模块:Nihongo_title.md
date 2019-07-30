@@ -1,7 +1,6 @@
 local p = {}
 
-local getArgs = require('Module:Arguments').getArgs local yesno =
-require('Module:Yesno')
+local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
 
 local function varCase(t)
 
@@ -134,8 +133,7 @@ local function link(cont)
 
 `   if yesno(_link, true) then`
 `       if yesno(_lead) then`
-`           cont = '`[`'``   ``..``   ``cont``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._cont_.._' "wikilink")`'`
+`           cont = '`[`'``   ``..``   ``cont``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._cont_.._' "wikilink")`'`
 `       end`
 `       cont = cont .. '：'`
 `   else`

@@ -1,4 +1,4 @@
-**q梅西纳多项式**以[基本超几何函数定义如下](../Page/基本超几何函数.md "wikilink")：
+**q梅西纳多项式**以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义如下：
 
 \(M_n(q^{-x};b,c;q)=_2\Phi_1(q^{-n},q^{-x};bq;q;-q^{n+1}/c)\)
 
@@ -26,6 +26,4 @@
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")
-[Category:Q超几何多项式](https://zh.wikipedia.org/wiki/Category:Q超几何多项式 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink") [Category:Q超几何多项式](https://zh.wikipedia.org/wiki/Category:Q超几何多项式 "wikilink")

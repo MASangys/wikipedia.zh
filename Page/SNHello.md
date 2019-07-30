@@ -1,4 +1,4 @@
-《**SNHello**》，全称《**SNHello星梦学院**》是一档由中国大型女子偶像团体SNH48为主要参演成员的冠名[综艺节目](https://zh.wikipedia.org/wiki/综艺节目 "wikilink")，也是中国一档为特定偶像团体打造的专属综艺节目。第一季节目于2014年7月4日起在各大视频网站播出\[1\]，与同年10月17日收官。第二季节目于2018年3月30日起在[腾讯视频播出](../Page/腾讯视频.md "wikilink")\[2\]，与同年5月25日收官。
+《**SNHello**》，全称《**SNHello星梦学院**》是一档由中国大型女子偶像团体SNH48为主要参演成员的冠名[综艺节目](https://zh.wikipedia.org/wiki/综艺节目 "wikilink")，也是中国一档为特定偶像团体打造的专属综艺节目。第一季节目于2014年7月4日起在各大视频网站播出\[1\]，与同年10月17日收官。第二季节目于2018年3月30日起在[腾讯视频](../Page/腾讯视频.md "wikilink")播出\[2\]，与同年5月25日收官。
 
 ## 简介
 
@@ -9,8 +9,7 @@
   - 主持人
       - 第一季：阿吉，另每集伙拍一位SNH48成員任主持
       - 第二季：[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、翔哥
-  - 固定出演者：[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
-    Group成员
+  - 固定出演者：[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink") Group成员
 
 ## 播出日期、企划
 

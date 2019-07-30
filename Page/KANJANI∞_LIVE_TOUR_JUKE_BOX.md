@@ -1,9 +1,8 @@
-《**KANJANI∞ LIVE TOUR JUKE BOX**》（カンジャニエイト ライブツアー
-ジュークボックス），為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")10張DVD。
+《**KANJANI∞ LIVE TOUR JUKE BOX**》（カンジャニエイト ライブツアー ジュークボックス），為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第10張DVD。
 
 ## 概要
 
-本碟收錄了[關西傑尼斯8於](../Page/關西傑尼斯8.md "wikilink")2013年1月19日在京瓷巨蛋大阪舉辦的九周年紀念演唱會。
+本碟收錄了[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")於2013年1月19日在京瓷巨蛋大阪舉辦的九周年紀念演唱會。
 
 ## 收錄內容
 
@@ -77,5 +76,4 @@ Blu-ray1枚
 
 ## 參考資料
 
-[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink")
-[Category:2014年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2014年音樂相關影像作品 "wikilink")
+[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink") [Category:2014年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2014年音樂相關影像作品 "wikilink")

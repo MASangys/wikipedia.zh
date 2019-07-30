@@ -1,18 +1,9 @@
-**1TYM**（）念作「ONE
-TIME」，是以Hip-Hop饒舌起家的[YG娛樂旗下第二組團體](../Page/YG娛樂.md "wikilink")，吳溱桓、[Teddy
-Park](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")、宋栢京,
-Danny四位成員組成，粉絲名為「Hip-Hop Villager」（嘻哈村民）
+**1TYM**（）念作「ONE TIME」，是以Hip-Hop饒舌起家的[YG娛樂](../Page/YG娛樂.md "wikilink")旗下第二組團體，吳溱桓、[Teddy Park](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")、宋栢京, Danny四位成員組成，粉絲名為「Hip-Hop Villager」（嘻哈村民）
 
 ## 簡介與近況
 
-1TYM是繼師兄團激怒神後韓國娛樂圈第二組純粹嘻哈形象的男子組合，主打年輕與頑童風格的饒舌音樂，於1998年代的韓國樂團引領了一陣嘻哈風潮。
-2005年以後1TYM在未宣布解散的情況下暫停演藝活動，[Teddy
-Park成為](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")[YG娛樂製作人](../Page/YG娛樂.md "wikilink")，大量參與了師弟妹[BIGBANG及](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[2NE1的音樂製作](../Page/2NE1.md "wikilink")；宋栢京為[2NE1之暢銷曲](../Page/2NE1.md "wikilink")《I
-Don't Care》製作Piano Remix
-Version，曾客串戲劇演出也曾參與其他音樂團體的特別企劃，於2010年結束與YG娛樂之合約，未再續約也未與其他公司簽新約；DANNY在短暫的solo活動後於2012年開始主持音樂節目《DANNY
-FROM LA (DFLA)》，仍致力向全世界推廣韓國流行音樂。
-DANNY於2012年結婚並育有一子一女，吳溱桓於2015年5月24日步入禮堂。[Teddy
-Park於](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")2013年公開與韓國知名女演員[韓藝瑟交往](../Page/韓藝瑟.md "wikilink")，2016年10月24日傳出分手消息。
+1TYM是繼師兄團激怒神後韓國娛樂圈第二組純粹嘻哈形象的男子組合，主打年輕與頑童風格的饒舌音樂，於1998年代的韓國樂團引領了一陣嘻哈風潮。 2005年以後1TYM在未宣布解散的情況下暫停演藝活動，[Teddy Park成為](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")製作人，大量參與了師弟妹[BIGBANG及](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[2NE1](../Page/2NE1.md "wikilink")的音樂製作；宋栢京為[2NE1](../Page/2NE1.md "wikilink")之暢銷曲《I Don't Care》製作Piano Remix Version，曾客串戲劇演出也曾參與其他音樂團體的特別企劃，於2010年結束與YG娛樂之合約，未再續約也未與其他公司簽新約；DANNY在短暫的solo活動後於2012年開始主持音樂節目《DANNY FROM LA (DFLA)》，仍致力向全世界推廣韓國流行音樂。
+DANNY於2012年結婚並育有一子一女，吳溱桓於2015年5月24日步入禮堂。[Teddy Park於](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")2013年公開與韓國知名女演員[韓藝瑟](../Page/韓藝瑟.md "wikilink")交往，2016年10月24日傳出分手消息。
 
 ## 成員資料
 
@@ -116,7 +107,4 @@ Park於](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")2013年公開與韓
 
   -
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink")

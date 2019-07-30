@@ -1,5 +1,4 @@
-**3rd個人LIVE\~睡著或醒著的YUKIRIN世界\~會讓你更加着迷哦\~**（），是[AKB48成員](../Page/AKB48.md "wikilink")[柏木由紀以DVD及BD形式發行的影像作品](../Page/柏木由紀.md "wikilink")，收錄了2013年11月7日在[横浜アリーナ舉辦的演唱會](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")，2014年3月19日由Avex
-Marketing發行。
+**3rd個人LIVE\~睡著或醒著的YUKIRIN世界\~會讓你更加着迷哦\~**（），是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")以DVD及BD形式發行的影像作品，收錄了2013年11月7日在[横浜アリーナ舉辦的演唱會](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")，2014年3月19日由Avex Marketing發行。
 
 ## 收錄歌曲
 
@@ -46,11 +45,9 @@ Marketing發行。
 <!-- end list -->
 
 1.  《[If](../Page/If_\(French_Kiss單曲\).md "wikilink")》 - French Kiss
-2.  《[太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")》 - French
-    Kiss
+2.  《[太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")》 - French Kiss
 3.  《[最初的Mail](../Page/最初的Mail.md "wikilink")》 - French Kiss
-4.  《[Romance Privacy](../Page/Romance_Privacy.md "wikilink")》 - French
-    Kiss
+4.  《[Romance Privacy](../Page/Romance_Privacy.md "wikilink")》 - French Kiss
 5.  《[很早以前](../Page/很早以前.md "wikilink")》 - French Kiss
 
 <!-- end list -->
@@ -70,5 +67,4 @@ Marketing發行。
 
   - [AKB48](../Page/AKB48.md "wikilink")
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:2014年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2014年音樂相關影像作品 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:2014年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2014年音樂相關影像作品 "wikilink")

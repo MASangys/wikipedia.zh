@@ -1,14 +1,12 @@
-《**超級英雄大戰GP
-假面騎士3號**》（），是日本國內2015年3月21日上映的[東映特攝電影作品](../Page/東映.md "wikilink")；香港地區則於2015年7月2日上映。
+《**超級英雄大戰GP 假面騎士3號**》（），是日本國內2015年3月21日上映的[東映](../Page/東映.md "wikilink")特攝電影作品；香港地區則於2015年7月2日上映。
 
 本作劇場版的口號為「假面騎士狂亂的歷史」、「歷史正在改變」。
 
 ## 本作特色
 
-1972年雜誌《別冊たのしい幼稚園》10月號內，[石之森章太郎原作的](../Page/石之森章太郎.md "wikilink")《3號騎士對黑將軍之卷》所出現的「幻之騎士」－假面騎士3號會從電影中實現出來。\[1\]
-演員及歌手[及川光博亦會為本作飾演假面骑士](../Page/及川光博.md "wikilink")3号的變身者，黑井響一郎這名主要角色。\[2\]
-《[假面骑士BLACK](https://zh.wikipedia.org/wiki/假面骑士BLACK "wikilink")》及《[假面骑士BLACK
-RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角南光太郎饰演者仓田哲夫，自2009年的《[假面骑士DECADE](https://zh.wikipedia.org/wiki/假面骑士DECADE "wikilink")》以来再度回归演出假面骑士系列作品；而《[假面骑士剑](https://zh.wikipedia.org/wiki/假面骑士剑 "wikilink")》中的主角之一[天野浩成亦确认回归出演本作](../Page/天野浩成.md "wikilink")；《[假面骑士电王](https://zh.wikipedia.org/wiki/假面骑士电王 "wikilink")》中的假面骑士零诺斯/樱井侑斗的饰演者[中村优一亦會參演](https://zh.wikipedia.org/wiki/中村优一 "wikilink")。
+1972年雜誌《別冊たのしい幼稚園》10月號內，[石之森章太郎](../Page/石之森章太郎.md "wikilink")原作的《3號騎士對黑將軍之卷》所出現的「幻之騎士」－假面騎士3號會從電影中實現出來。\[1\]
+演員及歌手[及川光博](../Page/及川光博.md "wikilink")亦會為本作飾演假面骑士3号的變身者，黑井響一郎這名主要角色。\[2\]
+《[假面骑士BLACK](https://zh.wikipedia.org/wiki/假面骑士BLACK "wikilink")》及《[假面骑士BLACK RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角南光太郎饰演者仓田哲夫，自2009年的《[假面骑士DECADE](https://zh.wikipedia.org/wiki/假面骑士DECADE "wikilink")》以来再度回归演出假面骑士系列作品；而《[假面骑士剑](https://zh.wikipedia.org/wiki/假面骑士剑 "wikilink")》中的主角之一[天野浩成](../Page/天野浩成.md "wikilink")亦确认回归出演本作；《[假面骑士电王](https://zh.wikipedia.org/wiki/假面骑士电王 "wikilink")》中的假面骑士零诺斯/樱井侑斗的饰演者[中村优一亦會參演](https://zh.wikipedia.org/wiki/中村优一 "wikilink")。
 
 ## 故事概要
 
@@ -16,8 +14,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
     这是和本来不同的假面骑士歷史。
     1973年2月10日，和邪恶的修卡抗爭的假面骑士1号和假面骑士2号面前，出现了修卡制造出的最强的战士假面骑士3号。1号和2号被3号的压倒性力量所击败後，修卡正式征服世界成功。
     然后时间流转到现代，由于修卡的关系人类已经被消灭殆尽，后世的假面骑士们的存在也分裂为正义和邪恶的。正义的一方为守护剩余不多的人类而战；邪恶的则作为修卡的手下並为了消灭前者而行动着。
-    一天，修卡手下的假面骑士Drive /
-    泊进之介遇上了假面骑士3号變身者黑井响一郎，不知怎的事情就演变成了和他一起對修卡作战。另一方面，正义的假面骑士们为打倒修卡而所必要的行动开始了。
+    一天，修卡手下的假面骑士Drive / 泊进之介遇上了假面骑士3号變身者黑井响一郎，不知怎的事情就演变成了和他一起對修卡作战。另一方面，正义的假面骑士们为打倒修卡而所必要的行动开始了。
 
 ## 用語
 
@@ -26,8 +23,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
   -
     原文：
     泊進之介 / 假面騎士Drive被修卡重重包圍之際，向修卡大首領提出舉辦的賽事。
-    表面為換取自由而與一眾假面騎士以賽車決勝負，事實此是拖延的權宜之計，望能爭取時間能夠得知修卡大首領及黑井響一郎 /
-    假面騎士3號的真正目的。
+    表面為換取自由而與一眾假面騎士以賽車決勝負，事實此是拖延的權宜之計，望能爭取時間能夠得知修卡大首領及黑井響一郎 / 假面騎士3號的真正目的。
 
 | 正規參賽選手       |
 | ------------ |
@@ -76,7 +72,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
     **假面騎士Mach**的變身者。
     因其姊詩島霧子遇害而誓要向修卡作出報復，與泊進之介匯合後共同行動。
 
-**詩島霧子（）**（[內田理央飾](../Page/內田理央.md "wikilink")；香港配音：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")）
+**詩島霧子（）**（[內田理央](../Page/內田理央.md "wikilink")飾；香港配音：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")）
 
   -
     屬警視廳特狀課的女警，泊進之介的伙伴。
@@ -89,19 +85,19 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
     特狀課的課長。
     因由心而發認同泊進之介背叛修卡後，被追田現八郎視為異見者而遭到殺害。
 
-**澤神鈴奈（）**（[吉井怜飾](../Page/吉井怜.md "wikilink")）
+**澤神鈴奈（）**（[吉井怜](../Page/吉井怜.md "wikilink")飾）
 
   -
     特狀課的電子物理研究學家。
     泊進之介叛變後，因有著連帶關係而被修卡所通緝。
 
-**西城究（）**（[濱野謙太飾](../Page/濱野謙太.md "wikilink")）
+**西城究（）**（[濱野謙太](../Page/濱野謙太.md "wikilink")飾）
 
   -
     特狀課的網絡研究情報員。
     與澤神鈴奈一樣亦受到修卡的通緝。
 
-**追田現八郎（）**（[井俣太良飾](../Page/井俣太良.md "wikilink")）
+**追田現八郎（）**（[井俣太良](../Page/井俣太良.md "wikilink")飾）
 
   -
     原是由搜查一課外派至特狀課的協助人員。
@@ -109,7 +105,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
 
 ### 《假面騎士電王》
 
-**櫻井侑斗（）**（[中村優一飾](../Page/中村優一.md "wikilink")）
+**櫻井侑斗（）**（[中村優一](../Page/中村優一.md "wikilink")飾）
 
   -
     **假面騎士零诺斯**的變身者。
@@ -122,7 +118,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
 
 ### 《假面騎士劍》
 
-**橘朔也（）**（[天野浩成飾](../Page/天野浩成.md "wikilink")）
+**橘朔也（）**（[天野浩成](../Page/天野浩成.md "wikilink")飾）
 
   -
     **假面騎士Garren**的變身者。
@@ -131,7 +127,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
 
 ### 《假面騎士555》
 
-**乾巧（）**（[半田健人飾](../Page/半田健人.md "wikilink")\]）
+**乾巧（）**（[半田健人](../Page/半田健人.md "wikilink")飾\]）
 
   -
     **假面騎士Faiz**的變身者。
@@ -147,29 +143,29 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
 
 ### 《手裏劍戰隊忍忍者》
 
-**伊賀崎天晴（）**（[西川俊介飾](../Page/西川俊介.md "wikilink")）
+**伊賀崎天晴（）**（[西川俊介](../Page/西川俊介.md "wikilink")飾）
 
   -
     **赤忍者**的變身者。
     率領忍忍者召喚手裏劍神應付-{zh-hk:幪面超人機械人;zh-tw:騎士機器人;zh-hans:骑士机器人;}-。
 
-**加藤・克勞德・八雲（）**（[松本岳飾](../Page/松本岳.md "wikilink")）
+**加藤・克勞德・八雲（）**（[松本岳](../Page/松本岳.md "wikilink")飾）
 
   -
     **藍忍者**的變身者。
 
-**松尾凪（）**（[中村嘉惟人飾](../Page/中村嘉惟人.md "wikilink")）
+**松尾凪（）**（[中村嘉惟人](../Page/中村嘉惟人.md "wikilink")飾）
 
   -
     **黃忍者**的變身者。
 
-**伊賀崎風花（）**（[矢野優花飾](../Page/矢野優花.md "wikilink")）
+**伊賀崎風花（）**（[矢野優花](../Page/矢野優花.md "wikilink")飾）
 
   -
     **白忍者**的變身者。
     伊賀崎天晴的妹妹。
 
-**百地霞（）**（[山谷花純飾](../Page/山谷花純.md "wikilink")）
+**百地霞（）**（[山谷花純](../Page/山谷花純.md "wikilink")飾）
 
   -
     **桃忍者**的變身者。
@@ -181,7 +177,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
 
 ### 本作登場人物
 
-**黑井響一郎（）**（[及川光博飾](../Page/及川光博.md "wikilink")；香港配音：[何偉誠](../Page/何偉誠.md "wikilink")）
+**黑井響一郎（）**（[及川光博](../Page/及川光博.md "wikilink")飾；香港配音：[何偉誠](../Page/何偉誠.md "wikilink")）
 
   -
     **假面騎士3號**的變身者。
@@ -439,8 +435,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》的主角�
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-**《[假面骑士BLACK
-RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》**
+**《[假面骑士BLACK RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》**
 
   - 假面骑士BLACK RX
 
@@ -516,8 +511,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")》**
   - N・GAMIO・ZEDA
   - 怪魔機械人舒伯里安
 
-**《[假面骑士Black
-RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
+**《[假面骑士Black RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
   - 傑克將軍
 
@@ -664,7 +658,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 踢擊力：<br />
 跳躍力：<br />
 行動速度：</p></td>
-<td><p>全身以墨綠色和古銅色為主，複眼部位為紅色。整體與假面騎士1號至3號系列相似，夾雜蝗蟲與<a href="../Page/傘兵.md" title="wikilink">傘兵的設計概念</a></p></td>
+<td><p>全身以墨綠色和古銅色為主，複眼部位為紅色。整體與假面騎士1號至3號系列相似，夾雜蝗蟲與<a href="../Page/傘兵.md" title="wikilink">傘兵</a>的設計概念</p></td>
 <td><p>修卡繼假面騎士3號後的另類型號改造人，具有壓倒性的力量及防禦力。</p></td>
 </tr>
 <tr class="odd">
@@ -755,12 +749,9 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
 #### 特別篇登場角色
 
-  - 泊進之介 / 假面騎士Drive -
-    [竹内涼真](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink")
-    飾/聲
+  - 泊進之介 / 假面騎士Drive - [竹内涼真](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink") 飾/聲
   - 詩島霧子 - [內田理央](../Page/內田理央.md "wikilink") 飾
-  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")
-    飾/聲
+  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink") 飾/聲
   - 櫻井侑斗 / 假面騎士零诺斯 - [中村優一](../Page/中村優一.md "wikilink") 飾/聲
   - 乾巧 / 假面騎士Faiz、修卡首領 - [半田健人](../Page/半田健人.md "wikilink") 飾/聲
   - 海堂直也 / 蛇型操冥使徒 -  飾/聲
@@ -834,8 +825,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
   - 製作統籌 -
 
-  - 製作人 -
-    三宅裕士、辻村和也（[愛貝娛樂](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink")）、、高橋一浩、、望月卓（[東映](../Page/東映.md "wikilink")）
+  - 製作人 - 三宅裕士、辻村和也（[愛貝娛樂](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink")）、、高橋一浩、、望月卓（[東映](../Page/東映.md "wikilink")）
 
   -   - 編成 - 森下正樹、佐藤修弘
       - 場地編集 - 雨宮美幸、森下昇太
@@ -849,8 +839,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
 ### 映像商品化
 
-  - **《[手里剑战队忍忍者VS假面騎士Drive
-    春假合體1小時特別篇](https://zh.wikipedia.org/wiki/超級英雄大戰GP_假面騎士3號#電視特別篇 "wikilink")》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年8月5日發行）
+  - **《[手里剑战队忍忍者VS假面騎士Drive 春假合體1小時特別篇](https://zh.wikipedia.org/wiki/超級英雄大戰GP_假面騎士3號#電視特別篇 "wikilink")》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年8月5日發行）
       - 本編
       - 映像特典
           - 座談會
@@ -861,16 +850,14 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
 <!-- end list -->
 
-  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 假面騎士3號;zh-hans:超级英雄大战GP
-    假面骑士3号;}-》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年8月5日發行）
+  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 假面騎士3號;zh-hans:超级英雄大战GP 假面骑士3号;}-》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年8月5日發行）
       - 電影本編
       - 映像特典
           - 特報・電影預告編
 
 <!-- end list -->
 
-  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 假面騎士3號;zh-hans:超级英雄大战GP
-    假面骑士3号;}-》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年8月5日發行）
+  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 假面騎士3號;zh-hans:超级英雄大战GP 假面骑士3号;}-》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年8月5日發行）
       - 電影本編
       - 映像特典
           - 完成披露試映舞台見面會
@@ -884,33 +871,25 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
 <!-- end list -->
 
-  - **《[d Video特別篇
-    假面騎士4號](https://zh.wikipedia.org/wiki/超級英雄大戰GP_假面騎士3號#其他相關放映 "wikilink")》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年9月9日發行）
+  - **《[d Video特別篇 假面騎士4號](https://zh.wikipedia.org/wiki/超級英雄大戰GP_假面騎士3號#其他相關放映 "wikilink")》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年9月9日發行）
       - 本編
       - 映像特典
           - TRAILER
 
 ### 映像商品化（日本海外）
 
-  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 幪面超人3號;zh-hans:超级英雄大战GP
-    幪面超人3号;}-》**[VCD](../Page/VCD.md "wikilink")（2015年10月8日香港發行、Neofilms
-    新映影片代理）
+  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 幪面超人3號;zh-hans:超级英雄大战GP 幪面超人3号;}-》**[VCD](../Page/VCD.md "wikilink")（2015年10月8日香港發行、Neofilms 新映影片代理）
       - 電影本編（粵語）
 
 <!-- end list -->
 
-  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 幪面超人3號;zh-hans:超级英雄大战GP
-    幪面超人3号;}-》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年10月8日香港發行、Neofilms
-    新映影片代理）
+  - **《-{zh-hk:超級英雄大戰GP 幪面超人3號;zh-tw:超級英雄大戰GP 幪面超人3號;zh-hans:超级英雄大战GP 幪面超人3号;}-》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2015年10月8日香港發行、Neofilms 新映影片代理）
       - 電影本編（日、粵雙語及中文字幕）
 
 ## 演員
 
-  - 泊進之介 / 假面騎士Drive -
-    [竹内涼真](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink")
-    飾/聲
-  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")
-    飾/聲
+  - 泊進之介 / 假面騎士Drive - [竹内涼真](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink") 飾/聲
+  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink") 飾/聲
   - 詩島霧子 - [內田理央](../Page/內田理央.md "wikilink") 飾
   - 黑井響一郎 / 假面騎士3號 - [及川光博](../Page/及川光博.md "wikilink") 飾/聲
   - 南光太郎 / 假面騎士Black / 幪面超人Black RX -  飾/聲
@@ -932,25 +911,21 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
   - 光 -
   - 直樹 -
   - 阿茂 -
-  - 其他 -
-    澤田陸、小山涼介、長谷尚鋭、内田涼風、内田凛、大西廣稀、大野龍成、鹿嶋崇良、髙橋朔也、渡邊カレラ、小泉みゆき、、、大竹唯里香、小澤薫
+  - 其他 - 澤田陸、小山涼介、長谷尚鋭、内田涼風、内田凛、大西廣稀、大野龍成、鹿嶋崇良、髙橋朔也、渡邊カレラ、小泉みゆき、、、大竹唯里香、小澤薫
 
 ## 聲音演出
 
   - 腰帶先生（Drive驅動器） -
   - 假面騎士劍（劍崎一真） - [椿隆之](../Page/椿隆之.md "wikilink")
   - 假面騎士Chalice（相川始） - [森本亮治](../Page/森本亮治.md "wikilink")
-  - 假面騎士Leangle（上城睦月） -
-    [北條隆博](https://zh.wikipedia.org/wiki/北條隆博 "wikilink")
+  - 假面騎士Leangle（上城睦月） - [北條隆博](https://zh.wikipedia.org/wiki/北條隆博 "wikilink")
   - 天津四 - [大塚芳忠](../Page/大塚芳忠.md "wikilink")
   - 魔進追跡者（Chase） - [上遠野太洸](../Page/上遠野太洸.md "wikilink")
   - 假面騎士1號、其他 - [稻田徹](../Page/稻田徹.md "wikilink")
   - 假面騎士2號、其他 -
   - 騎士人、其他 - [石川英郎](../Page/石川英郎.md "wikilink")
   - 假面騎士、怪人 -
-  - 旁白、假面騎士V3、修卡大首領、假面騎士亞馬遜、假面騎士強人、假面騎士Super
-    1、假面騎士W、劍鯊怪人、提琴手蟹怪人、炮龜怪人、機械大元帥
-    - [關智一](../Page/關智一.md "wikilink")
+  - 旁白、假面騎士V3、修卡大首領、假面騎士亞馬遜、假面騎士強人、假面騎士Super 1、假面騎士W、劍鯊怪人、提琴手蟹怪人、炮龜怪人、機械大元帥 - [關智一](../Page/關智一.md "wikilink")
   - Faiz Driver音聲 -
   - Blayrouser音聲 - [佐佐木健](https://zh.wikipedia.org/wiki/佐佐木健 "wikilink")
   - Kabuto Zector音聲 -
@@ -1141,22 +1116,17 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
 ## 製作人員
 
-  - 原作 -
-    [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
+  - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
 
-  - 製作 -
-    （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、日達長夫（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、松田英史（）、垰義孝（[萬代](../Page/萬代.md "wikilink")）、（木下組）
+  - 製作 - （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、日達長夫（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、松田英史（）、垰義孝（[萬代](../Page/萬代.md "wikilink")）、（木下組）
 
-  - 企劃 - 有川俊（東映）、林雄一郎（朝日電視台）、加藤和夫（TOEI VIDEO）、波多野淳一（旭通廣告）、小川政則（TOEI
-    ADVERTISING）、小野口征（萬代）、中村和俊（木下組）
+  - 企劃 - 有川俊（東映）、林雄一郎（朝日電視台）、加藤和夫（TOEI VIDEO）、波多野淳一（旭通廣告）、小川政則（TOEI ADVERTISING）、小野口征（萬代）、中村和俊（木下組）
 
   - 監製 - 小野寺章（石森プロ）
 
   - 執行製作人 - （朝日電視台）、疋田和樹（TOEI ADVERTISING）
 
-  - 製作人 -
-    、-{zh-hk:;zh-tw:;zh-hans:;}-、高橋一浩、、望月卓（[東映](../Page/東映.md "wikilink")）、
-    、井上千尋（[朝日電視台](../Page/朝日電視台.md "wikilink")）、佐藤現（）、矢田晃一、深田明宏（）
+  - 製作人 - 、-{zh-hk:;zh-tw:;zh-hans:;}-、高橋一浩、、望月卓（[東映](../Page/東映.md "wikilink")）、 、井上千尋（[朝日電視台](../Page/朝日電視台.md "wikilink")）、佐藤現（）、矢田晃一、深田明宏（）
 
   - 劇本 - [米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")
 
@@ -1221,8 +1191,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
   - 發行 - [東映](../Page/東映.md "wikilink")
 
-  - 製作單位 -
-    「超級英雄大戰GP」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")、）
+  - 製作單位 - 「超級英雄大戰GP」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")、）
 
   - 導演 -
 
@@ -1234,19 +1203,15 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
   -
     （原題：）
-    為配合電影宣傳，继《[烈車戰隊特急者VS假面騎士鎧武
-    春假合體特別篇](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊#電視特別篇 "wikilink")》后假面騎士及超級戰隊第二次跨界合作，於電視版本作一小時特別篇聯動故事。
-    《[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")》緊接第5話；《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》緊接第23話後於2015年3月29日[朝日電視台播放](../Page/朝日電視台.md "wikilink")。
+    為配合電影宣傳，继《[烈車戰隊特急者VS假面騎士鎧武 春假合體特別篇](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊#電視特別篇 "wikilink")》后假面騎士及超級戰隊第二次跨界合作，於電視版本作一小時特別篇聯動故事。
+    《[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")》緊接第5話；《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》緊接第23話後於2015年3月29日[朝日電視台](../Page/朝日電視台.md "wikilink")播放。
     故事講述手裏劍戰隊忍忍者一行人正在對付牙鬼軍團成員妖怪時，因敵方發動「重加速」現象而引來假面騎士Drive的注意，忍忍者一眾卻被誤認為惡路程式而遭受到拘捕。
-    殊不知事件背後卻牽涉到42年前本已被瓦解的邪惡組織[修卡的陰謀之中](../Page/修卡.md "wikilink")。
+    殊不知事件背後卻牽涉到42年前本已被瓦解的邪惡組織[修卡](../Page/修卡.md "wikilink")的陰謀之中。
 
 ### 電視特別篇登場角色
 
-  - 泊進之介 / 假面騎士Drive -
-    [竹内涼真](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink")
-    飾/聲
-  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")
-    飾/聲
+  - 泊進之介 / 假面騎士Drive - [竹内涼真](https://zh.wikipedia.org/wiki/竹内涼真 "wikilink") 飾/聲
+  - 詩島剛 / 假面騎士Mach - [稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink") 飾/聲
   - 詩島霧子 - [內田理央](../Page/內田理央.md "wikilink") 飾
   - 伊賀崎天晴 / 紅忍者 - [西川俊介](../Page/西川俊介.md "wikilink") 飾/聲
   - 加藤・克勞德・八雲 / 藍忍者 - [松本岳](../Page/松本岳.md "wikilink") 飾/聲
@@ -1262,8 +1227,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
   - Medic - [馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink") 飾
   - 伊賀崎旋風 -  飾
   - 伊賀崎好天 -  飾
-  - [D博士](https://zh.wikipedia.org/wiki/假面騎士Drive角色列表#《手里剑战队忍忍者VS假面騎士Drive_春假合體1小時特別篇》 "wikilink")
-    / 惡路程式089 / 妖怪震震 -  飾/聲
+  - [D博士](https://zh.wikipedia.org/wiki/假面騎士Drive角色列表#《手里剑战队忍忍者VS假面騎士Drive_春假合體1小時特別篇》 "wikilink") / 惡路程式089 / 妖怪震震 -  飾/聲
   - 黑井響一郎 / 假面騎士3號 - [及川光博](../Page/及川光博.md "wikilink") 飾/聲
 
 ### 電視特別篇聲音演出
@@ -1276,8 +1240,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
 ### 電視特別篇製作人員
 
-  - 原作 -
-    [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
+  - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
   - 劇本 - [三條陸](../Page/三條陸.md "wikilink")
   - 導演 -
   - 動作指導 - （JAE）、（[RED](../Page/RED.md "wikilink")）
@@ -1311,12 +1274,7 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
   - [官方網站](http://www.superhero-movie.com/)
 
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
-[Category:柴崎貴行電影](https://zh.wikipedia.org/wiki/Category:柴崎貴行電影 "wikilink")
+[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:柴崎貴行電影](https://zh.wikipedia.org/wiki/Category:柴崎貴行電影 "wikilink")
 
 1.
 
@@ -1324,11 +1282,9 @@ RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
 3.
 
-4.  {『假面騎士Drive超全集』 小學館〈電視君Deluxe 愛蔵版〉、東京、2015年11月11日、第1版。ISBN
-    978-4-09-105152-3。
+4.  {『假面騎士Drive超全集』 小學館〈電視君Deluxe 愛蔵版〉、東京、2015年11月11日、第1版。ISBN 978-4-09-105152-3。
 
 5.
-6.  [及川光博が仮面ライダー3号に\!「1号と2号倒していいの?」溢れる"ライダー愛" |
-    マイナビニュース](http://news.mynavi.jp/news/2015/01/28/471/)
+6.  [及川光博が仮面ライダー3号に\!「1号と2号倒していいの?」溢れる"ライダー愛" | マイナビニュース](http://news.mynavi.jp/news/2015/01/28/471/)
 
 7.

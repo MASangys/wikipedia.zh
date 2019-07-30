@@ -1,16 +1,12 @@
-**3B
-junior**（）是日本女子偶像團體，也是[桃色幸運草Z的師妹組合](../Page/桃色幸運草Z.md "wikilink")。曾隸屬於[星塵傳播](../Page/星塵傳播.md "wikilink")「STARDUST
-PLANET」\[1\]，於2018年11月3日解散。
+**3B junior**（）是日本女子偶像團體，也是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的師妹組合。曾隸屬於[星塵傳播](../Page/星塵傳播.md "wikilink")「STARDUST PLANET」\[1\]，於2018年11月3日解散。
 
-2015年2月4日，3B junior一名12歲成員於2015年1月28日參加錄製《3B
-junior的星屑商事》節目時，因玩遊戲吸入[氦氣後陷入昏迷](https://zh.wikipedia.org/wiki/氦氣 "wikilink")。她被緊急送到醫院後一度命危，電視台企圖隱蔽，竟拖了一周才在前晚出面說明，引起公憤。[朝日電視台發言人說](../Page/朝日電視台.md "wikilink")，她在玩遊戲時從氦氣瓶吸入會改變聲音的氦氣，接著失去意識。朝日電視台為此致歉，表示正對此展開內部調查。\[2\]\[3\]\[4\]
+2015年2月4日，3B junior一名12歲成員於2015年1月28日參加錄製《3B junior的星屑商事》節目時，因玩遊戲吸入[氦氣後陷入昏迷](https://zh.wikipedia.org/wiki/氦氣 "wikilink")。她被緊急送到醫院後一度命危，電視台企圖隱蔽，竟拖了一周才在前晚出面說明，引起公憤。[朝日電視台](../Page/朝日電視台.md "wikilink")發言人說，她在玩遊戲時從氦氣瓶吸入會改變聲音的氦氣，接著失去意識。朝日電視台為此致歉，表示正對此展開內部調查。\[2\]\[3\]\[4\]
 
 ## 成員
 
 ### 最後成員
 
-3B
-junior解散後另組成新組合「[アメフラっシ](https://zh.wikipedia.org/wiki/アメフラっシ "wikilink")」\[5\]
+3B junior解散後另組成新組合「[アメフラっシ](https://zh.wikipedia.org/wiki/アメフラっシ "wikilink")」\[5\]
 
 <table>
 <thead>
@@ -165,10 +161,7 @@ junior解散後另組成新組合「[アメフラっシ](https://zh.wikipedia.or
   -
   -
   -
-[Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.

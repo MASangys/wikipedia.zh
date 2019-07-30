@@ -1,12 +1,10 @@
-**C3AFA**是在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[香港](../Page/香港.md "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[耶加達及](https://zh.wikipedia.org/wiki/耶加達 "wikilink")[曼谷舉辦的集合動畫](../Page/曼谷.md "wikilink")、漫畫、小說、遊戲及音樂的大型展覽。
+**C3AFA**是在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[香港](../Page/香港.md "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[耶加達及](https://zh.wikipedia.org/wiki/耶加達 "wikilink")[曼谷](../Page/曼谷.md "wikilink")舉辦的集合動畫、漫畫、小說、遊戲及音樂的大型展覽。
 
 ## 概要
 
-本展覽之原形為每年夏天於[日本](../Page/日本.md "wikilink")[千葉縣](../Page/千葉縣.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[美濱區的](../Page/美濱區.md "wikilink")[幕張展覽館舉行](../Page/幕張展覽館.md "wikilink")「[C3AFA
-TOKYO](https://zh.wikipedia.org/wiki/jp:キャラホビ_C3×HOBBY "wikilink")」展覽活動。主辦單位嘗試設立海外專場，最終於2009年與香港的承辦單位達成協議，進行試驗性質較大的展出，其後於2011年起正式全面合作，成為每年舉辦一次的大型展覽。
+本展覽之原形為每年夏天於[日本](../Page/日本.md "wikilink")[千葉縣](../Page/千葉縣.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[美濱區](../Page/美濱區.md "wikilink")的[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行「[C3AFA TOKYO](https://zh.wikipedia.org/wiki/jp:キャラホビ_C3×HOBBY "wikilink")」展覽活動。主辦單位嘗試設立海外專場，最終於2009年與香港的承辦單位達成協議，進行試驗性質較大的展出，其後於2011年起正式全面合作，成為每年舉辦一次的大型展覽。
 
-本展覽在宣傳方面標榜為日本元祖級動漫盛事，其標題「C3」之意則為人物（Character）、文化（Culture）及內容（Content）。主要活動包括來自日本原裝版權公司發售最新商品、介紹新作品情報和透示展品，以及日本動漫歌手、聲優、作者和偶像親臨現場，出席簽名會、[音樂會和分享會等](https://zh.wikipedia.org/wiki/音樂會 "wikilink")。主辦單位亦有為角色扮演人士設立專區及舉辦比賽「Cosplay大激鬥」，當中比賽於2014年成為[世界Cosplay高峰會香港區預賽](../Page/世界Cosplay高峰會.md "wikilink")。近年亦有舉辦傾向較年少對象的活動「兒童繪畫大召集」。2015年，展覽舉辨～Anisong
-World Tour～Lantis Festival 2015 in Hong Kong。
+本展覽在宣傳方面標榜為日本元祖級動漫盛事，其標題「C3」之意則為人物（Character）、文化（Culture）及內容（Content）。主要活動包括來自日本原裝版權公司發售最新商品、介紹新作品情報和透示展品，以及日本動漫歌手、聲優、作者和偶像親臨現場，出席簽名會、[音樂會和分享會等](https://zh.wikipedia.org/wiki/音樂會 "wikilink")。主辦單位亦有為角色扮演人士設立專區及舉辦比賽「Cosplay大激鬥」，當中比賽於2014年成為[世界Cosplay高峰會](../Page/世界Cosplay高峰會.md "wikilink")香港區預賽。近年亦有舉辦傾向較年少對象的活動「兒童繪畫大召集」。2015年，展覽舉辨～Anisong World Tour～Lantis Festival 2015 in Hong Kong。
 
 ## 香港展票務安排
 
@@ -18,7 +16,7 @@ World Tour～Lantis Festival 2015 in Hong Kong。
 
 | 屆數 | 年份    | 日期                               | 地點                                                                               |
 | -- | ----- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 1  | 2009年 | 4月24日－4月26日                      | [九龍灣國際展貿中心匯星廳及](../Page/九龍灣國際展貿中心.md "wikilink")3樓演講廳                            |
+| 1  | 2009年 | 4月24日－4月26日                      | [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")匯星廳及3樓演講廳                            |
 | 2  | 2011年 | 3月11日－3月13日                      | [香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")3號F及G展廳                                |
 | 3  | 2012年 | 3月9日－3月11日                       | 香港會議展覽中心3號BCD展廳                                                                  |
 | 4  | 2013年 | 3月15日－3月17日                      | 香港會議展覽中心5號F及G展廳                                                                  |
@@ -118,11 +116,7 @@ I LOVE ANISONG：<a href="https://zh.wikipedia.org/wiki/fhána" title="wikilink"
 
   - [官方網站](https://animefestival.asia/)
 
-[Category:2009年建立](https://zh.wikipedia.org/wiki/Category:2009年建立 "wikilink")
-[Category:漫畫會展](https://zh.wikipedia.org/wiki/Category:漫畫會展 "wikilink")
-[Category:綜合會展](https://zh.wikipedia.org/wiki/Category:綜合會展 "wikilink")
-[Category:香港展覽](https://zh.wikipedia.org/wiki/Category:香港展覽 "wikilink")
-[Category:香港年度事件](https://zh.wikipedia.org/wiki/Category:香港年度事件 "wikilink")
+[Category:2009年建立](https://zh.wikipedia.org/wiki/Category:2009年建立 "wikilink") [Category:漫畫會展](https://zh.wikipedia.org/wiki/Category:漫畫會展 "wikilink") [Category:綜合會展](https://zh.wikipedia.org/wiki/Category:綜合會展 "wikilink") [Category:香港展覽](https://zh.wikipedia.org/wiki/Category:香港展覽 "wikilink") [Category:香港年度事件](https://zh.wikipedia.org/wiki/Category:香港年度事件 "wikilink")
 
 1.
 2.

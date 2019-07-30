@@ -1,5 +1,4 @@
-**Pop Evil**
-是一支美国的摇滚乐队，于2001年成立于密歇根州的北马斯基根。最初的成员是莱、戴夫、迪兰和亚米。2007年，吉他手托尼也加入了乐队。贝斯手亚米在2008年被马特代替。2011年，迪兰因病离队，卡兹接替他成为了乐队的一员。2012年，尼克代替托尼。
+**Pop Evil** 是一支美国的摇滚乐队，于2001年成立于密歇根州的北马斯基根。最初的成员是莱、戴夫、迪兰和亚米。2007年，吉他手托尼也加入了乐队。贝斯手亚米在2008年被马特代替。2011年，迪兰因病离队，卡兹接替他成为了乐队的一员。2012年，尼克代替托尼。
 
 ## 作品
 
@@ -67,8 +66,7 @@
 
 ## 参考
 
-[Category:美国摇滚乐团](https://zh.wikipedia.org/wiki/Category:美国摇滚乐团 "wikilink")
-[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink")
+[Category:美国摇滚乐团](https://zh.wikipedia.org/wiki/Category:美国摇滚乐团 "wikilink") [Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink")
 
 1.
 2.

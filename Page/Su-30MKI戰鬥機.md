@@ -1,11 +1,10 @@
 **Su-30MKI戰鬥機**（[北約代號](../Page/北約代號.md "wikilink")：側衛-H）是[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[蘇霍伊公司所開發的一種](https://zh.wikipedia.org/wiki/蘇霍伊公司 "wikilink")[多用途雙座](https://zh.wikipedia.org/wiki/多用途戰鬥機 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")。該型是發展自蘇-30"M"型戰鬥機，主要由俄羅斯和印度生產使用。現時Su-30MKI服務於[印度空軍](../Page/印度空軍.md "wikilink")，是印度空軍的主力戰機。
 
-Su-30MKI是[俄語Су](https://zh.wikipedia.org/wiki/俄語 "wikilink")-30МКИ的[拉丁轉寫](https://zh.wikipedia.org/wiki/拉丁轉寫 "wikilink")。МКИ是модернизированный,
-коммерческий, индийский的縮寫，意思是[印度的現代化商業版](../Page/印度.md "wikilink")。
+Su-30MKI是[俄語Су](https://zh.wikipedia.org/wiki/俄語 "wikilink")-30МКИ的[拉丁轉寫](https://zh.wikipedia.org/wiki/拉丁轉寫 "wikilink")。МКИ是модернизированный, коммерческий, индийский的縮寫，意思是[印度](../Page/印度.md "wikilink")的現代化商業版。
 
 在2000年10月，印俄兩國簽署諒解備忘錄，確定印度可按照俄方的許可下生產140架Su-30MKI戰鬥機\[1\]。第一架俄製Su-30MKI戰鬥機在2002年交付印度空軍，而印度自行組裝的Su-30MKI則於2004年服役。除此之外，印度首架完全按照俄方技術人員的指示和完全採用本國材料製造的Su-30MKI則於2011年試飛。
 
-Su-30MKI戰鬥機是[蘇霍伊公司按照印度要求和情況設計的一種](https://zh.wikipedia.org/wiki/蘇霍伊公司 "wikilink")[Su-30戰鬥機](https://zh.wikipedia.org/wiki/Su-30戰鬥機 "wikilink")，其採用了許多先進技術，尤其是[推力矢量發動機](https://zh.wikipedia.org/wiki/推力向量 "wikilink")，無源[電子掃描陣列雷達等](../Page/電子掃描陣列雷達.md "wikilink")。德國工業調查雜誌更曾發表評論稱，Su-30MKI是世界最好的[戰鬥轟炸機](https://zh.wikipedia.org/wiki/戰鬥轟炸機 "wikilink")。
+Su-30MKI戰鬥機是[蘇霍伊公司按照印度要求和情況設計的一種](https://zh.wikipedia.org/wiki/蘇霍伊公司 "wikilink")[Su-30戰鬥機](https://zh.wikipedia.org/wiki/Su-30戰鬥機 "wikilink")，其採用了許多先進技術，尤其是[推力矢量發動機](https://zh.wikipedia.org/wiki/推力向量 "wikilink")，無源[電子掃描陣列雷達](../Page/電子掃描陣列雷達.md "wikilink")等。德國工業調查雜誌更曾發表評論稱，Su-30MKI是世界最好的[戰鬥轟炸機](https://zh.wikipedia.org/wiki/戰鬥轟炸機 "wikilink")。
 
 據傳媒報道，印度空軍完成了[布拉莫斯-A超音速巡弋飛彈與Su](https://zh.wikipedia.org/wiki/布拉莫斯導彈 "wikilink")-30MKI的整合工作。這無疑將為Su-30MKI提高戰鬥力。\[2\]
 
@@ -59,10 +58,7 @@ Su-30MKI戰機上裝有OLS-30紅外探測系統，它可以根據目標的紅外
 
   - [官方網站](https://web.archive.org/web/20110713124540/http://sukhoi.org/eng/planes/military/su30mk/history/)
 
-[Category:印度空軍](https://zh.wikipedia.org/wiki/Category:印度空軍 "wikilink")
-[Category:俄羅斯戰鬥機](https://zh.wikipedia.org/wiki/Category:俄羅斯戰鬥機 "wikilink")
-[Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
-[Category:苏霍伊飞机](https://zh.wikipedia.org/wiki/Category:苏霍伊飞机 "wikilink")
+[Category:印度空軍](https://zh.wikipedia.org/wiki/Category:印度空軍 "wikilink") [Category:俄羅斯戰鬥機](https://zh.wikipedia.org/wiki/Category:俄羅斯戰鬥機 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink") [Category:苏霍伊飞机](https://zh.wikipedia.org/wiki/Category:苏霍伊飞机 "wikilink")
 
 1.
 2.

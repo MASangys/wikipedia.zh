@@ -1,15 +1,12 @@
-《**Highschool♡love**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2014年9月10日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**Highschool♡love**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2014年9月10日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - 《Highschool♡love》是E-girls三個月連續單曲發行的第三作。
-  - A面曲《Highschool♡love》是[EXILE的AKIRA主演](https://zh.wikipedia.org/wiki/EXILE "wikilink")，富士電視台劇集《[麻辣教師GTO](../Page/GTO_\(2012年电视剧\).md "wikilink")》的主題曲，亦是品牌Samantha
-    Thavasa「Samantha Vega meet E-girls」的電視廣告歌曲。
+  - A面曲《Highschool♡love》是[EXILE的AKIRA主演](https://zh.wikipedia.org/wiki/EXILE "wikilink")，富士電視台劇集《[麻辣教師GTO](../Page/GTO_\(2012年电视剧\).md "wikilink")》的主題曲，亦是品牌Samantha Thavasa「Samantha Vega meet E-girls」的電視廣告歌曲。
   - 此單曲是[Flower的](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")[武藤千春退出E](https://zh.wikipedia.org/wiki/武藤千春 "wikilink")-girls和Flower前最後參與的單曲。
   - 與前作不同，E-girls全員均有選拔並參與。
-  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Highschool♡love》的Music
-    Video。
+  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Highschool♡love》的Music Video。
   - 在9月22日於公信榜单曲週排行榜取得第2位。
 
 ## 選抜成员
@@ -26,9 +23,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 <!-- end list -->
 
   - 上一首單曲《[大家來跳舞](../Page/大家來跳舞_\(E-girls單曲\).md "wikilink")》的選拔成員全部入選了本次的選拔成員。
-  - Shizuka、Erie、MIYUU、川本璃、須田安娜、重留真波、中島美央、武藤千春、市來杏香、萩尾美聖、生田梨沙、中嶋桃花、渡邉真梨奈繼《[E.G.
-    Anthem -WE ARE
-    VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")》後重回選拔組；Shizuka亦重回主唱位置。
+  - Shizuka、Erie、MIYUU、川本璃、須田安娜、重留真波、中島美央、武藤千春、市來杏香、萩尾美聖、生田梨沙、中嶋桃花、渡邉真梨奈繼《[E.G. Anthem -WE ARE VENUS-](../Page/E.G._Anthem_-WE_ARE_VENUS-.md "wikilink")》後重回選拔組；Shizuka亦重回主唱位置。
 
 ### Again
 
@@ -51,7 +46,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 </noinclude>
 
-[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
-[Category:富士火十劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火十劇主題曲 "wikilink")
+[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink") [Category:富士火十劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火十劇主題曲 "wikilink")

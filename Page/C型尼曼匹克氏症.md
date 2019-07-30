@@ -10,8 +10,7 @@ C型尼曼匹克氏症(NP-C)的主要生物性缺陷為細胞內脂質運送功�
 
 ## 遺傳學
 
-C型尼曼匹克氏症(NP-C)是與兩種基因有關的遺傳性、染色體隱性疾病：NPC1 (位於染色體18；q11-q12)以及NPC2
-(位於染色體14；q24.3)，NP-C可能是其中一種基因突變所造成。\[13\]大約有95%的患者是為NPC1基因突變，另外5%則是NPC2基因突變。\[14\]\[15\]一般認為NPC1基因有將近300種不同的突變型態，並且已發現超過60種的多型性。\[16\]
+C型尼曼匹克氏症(NP-C)是與兩種基因有關的遺傳性、染色體隱性疾病：NPC1 (位於染色體18；q11-q12)以及NPC2 (位於染色體14；q24.3)，NP-C可能是其中一種基因突變所造成。\[13\]大約有95%的患者是為NPC1基因突變，另外5%則是NPC2基因突變。\[14\]\[15\]一般認為NPC1基因有將近300種不同的突變型態，並且已發現超過60種的多型性。\[16\]
 
   - NPC1與NPC2蛋白質
 
@@ -27,8 +26,7 @@ NPC1與NPC2的基因產物(NPC1與NPC2蛋白質)對膽固醇的正常運輸作�
 
   - NPC1與NPC2蛋白質也可能會互相配合，調節細胞脂質的運輸並維持膽固醇的體內平衡。\[21\]
 
-一般認為NPC1與NPC2的基因突變會導致蛋白質在處理與利用被細胞吞噬的膽固醇時，出現功能異常與受損現象。膽固醇、醣脂以及游離神經胺醇/鞘氨醇囤積於神經外組織以及GM2
-和GM3神經節苷脂囤積於大腦，也可能是上述突變所造成的結果。脂質囤積最後會達到有毒濃度，進而破壞細胞與組織並造成NP-C的神經系統症狀。\[22\]\[23\]
+一般認為NPC1與NPC2的基因突變會導致蛋白質在處理與利用被細胞吞噬的膽固醇時，出現功能異常與受損現象。膽固醇、醣脂以及游離神經胺醇/鞘氨醇囤積於神經外組織以及GM2 和GM3神經節苷脂囤積於大腦，也可能是上述突變所造成的結果。脂質囤積最後會達到有毒濃度，進而破壞細胞與組織並造成NP-C的神經系統症狀。\[22\]\[23\]
 
 ## 病徵表現
 
@@ -40,8 +38,7 @@ NP-C的症狀可分為兩種－影響體內其他器官的非神經系統性(內
 
 影響肝臟與脾臟的非神經系統症狀通常發生在初期，有時候會影響新生兒與嬰幼兒。通常您最容易在兒童期初期至中期觀察到NP-C的神經系統症狀，這些會導致兒童看似行為笨拙且經常跌倒，這些兒童在學校也可能會出現學習能力落後的現象，甚至可能會忘記以前學過的東西。神經系統症狀也可能包含眼球移動異常。有時候NP-C的神經系統症狀要到成年後才會逐漸明顯，且常會以精神疾病表現(請見圖1)。\[26\]\[27\]
 
-內臟系統症狀的發病年齡與神經系統症狀的發病狀況無關。神經系統症狀的發病狀況可能是連續性，且可能會有各年齡層大幅重疊的現象(請見圖2)。\[28\]\[29\]
-出現多種橫跨所有年齡層症狀的患者可能必須考慮轉介至專門的醫療中心。
+內臟系統症狀的發病年齡與神經系統症狀的發病狀況無關。神經系統症狀的發病狀況可能是連續性，且可能會有各年齡層大幅重疊的現象(請見圖2)。\[28\]\[29\] 出現多種橫跨所有年齡層症狀的患者可能必須考慮轉介至專門的醫療中心。
 
 重要的內臟系統症狀：
 
@@ -50,31 +47,24 @@ NP-C的症狀可分為兩種－影響體內其他器官的非神經系統性(內
 
 重要的神經系統症狀：
 
-1.  進行性核上凝視痲痺(Vertical supranuclear gaze palsy,
-    簡稱VSGP)：這是最能預測C型尼曼匹克氏症的症狀，而且往往是最先表現的神經徵候。檢測是否為進行性核上凝視痲痺時，應要求患者自主地向上及向下注視(眼球垂直方向自主運動)。眼球水平方向運動通常可以維持到病程晚期的階段。
+1.  進行性核上凝視痲痺(Vertical supranuclear gaze palsy, 簡稱VSGP)：這是最能預測C型尼曼匹克氏症的症狀，而且往往是最先表現的神經徵候。檢測是否為進行性核上凝視痲痺時，應要求患者自主地向上及向下注視(眼球垂直方向自主運動)。眼球水平方向運動通常可以維持到病程晚期的階段。
 2.  痴笑性猝倒症(Gelastic cataplexy)
-3.  運動失調：步態及直線行走步態 (tandem
-    gait)應利用10公尺或計時行走測試的方式評估。患者可能出現運動失調、肌張力異常及痙攣的不同組合。
-4.  早老性認知功能退化及/或痴呆(相關症狀之影片請參考
-    <http://www.niemann-pick-c.com/HCP/News/Educational-resources#prettyPhoto>)
+3.  運動失調：步態及直線行走步態 (tandem gait)應利用10公尺或計時行走測試的方式評估。患者可能出現運動失調、肌張力異常及痙攣的不同組合。
+4.  早老性認知功能退化及/或痴呆(相關症狀之影片請參考 <http://www.niemann-pick-c.com/HCP/News/Educational-resources#prettyPhoto>)
 
 ## 診斷
 
 C型尼曼匹克氏症(NP-C)很難診斷，因為症狀會發生在不同時期，且每個人的疾病嚴重程度不同。
 
-“C型尼曼匹克氏症(NP-C)規範”工作小組之開發是為了提供有關NP-C的最新資訊。另外，〝NP-C懷疑指數〞(Suspicion Index,
-SI)協助醫療照護人員找出必須接受進一步檢查的患者，希望這有助於疑似罹患NP-C的患者及早獲得更進一步的確診。\[30\]〝懷疑指數〞(SI)這工具相當可靠且對\>
-4歲以上的患者具有高偵測率，並且會根據偵測到的不同症狀及NP-C家族病史計算加權分數，將這些加權分數相加可取得整體風險預測分數，提供臨床醫師相關依據，決定是否須進行進一步檢查以確認罹患NP-C的可能性。若預測分數超過70，應立即接受轉介至專門的醫療中心進行NP-C檢測。
+“C型尼曼匹克氏症(NP-C)規範”工作小組之開發是為了提供有關NP-C的最新資訊。另外，〝NP-C懷疑指數〞(Suspicion Index, SI)協助醫療照護人員找出必須接受進一步檢查的患者，希望這有助於疑似罹患NP-C的患者及早獲得更進一步的確診。\[30\]〝懷疑指數〞(SI)這工具相當可靠且對\> 4歲以上的患者具有高偵測率，並且會根據偵測到的不同症狀及NP-C家族病史計算加權分數，將這些加權分數相加可取得整體風險預測分數，提供臨床醫師相關依據，決定是否須進行進一步檢查以確認罹患NP-C的可能性。若預測分數超過70，應立即接受轉介至專門的醫療中心進行NP-C檢測。
 
 若醫師懷疑患者出現的部分症狀可能是NP-C所造成，確認診斷方式包含：\[31\]
 
   - Filipin染色法。一種皮膚切片檢查，於取得組織細胞後進行培養數週，並於顯微鏡下觀察細胞內是否出現脂質分子囤積現象。
-  - Plasma
-    oxysterol血漿氧固醇檢測法。一種相當新穎的生化檢查。早期資料顯示將這些膽固醇氧化產物當成NP-C生物標記物，或許可作為協助診斷具有不明生化表現型與NP-C基因突變患者的輔助檢查工具。\[32\]
+  - Plasma oxysterol血漿氧固醇檢測法。一種相當新穎的生化檢查。早期資料顯示將這些膽固醇氧化產物當成NP-C生物標記物，或許可作為協助診斷具有不明生化表現型與NP-C基因突變患者的輔助檢查工具。\[32\]
   - DNA鑑定。利用血液檢體檢測造成NP-C之罹病基因(突變)的DNA。建議同時進行DNA定序與Filipin染色法，以確認NP-C診斷結果。針對新診斷出疾病的患者，此檢測方法也可用來發現剛確診患者的兄弟姊妹，偵測具血緣關係帶原者，並找出可能可接受造血幹細胞移植的NPC2患者。親子DNA鑑定也可確認等位基因分離與純合子狀態。\[33\]
 
-許多NP-C案例可能會被誤診或未被發現，這是因為這種疾病極為罕見且症狀可能會因人而異。\[34\]
-若您認為您自己、家人或朋友可能出現疑似NP-C的症狀，請務必進一步接受檢查。及早診斷可及早獲得治療，這可協助延緩疾病惡化速度。\[35\]針對患者的研究顯示，努力持續不懈是許多NP-C患者獲得正確診斷結果的關鍵。\[36\]這股堅持包括盡可能與醫師分享所有訊息，向醫師描述所有症狀，甚至有些可能看似不重要的症狀，都可能會有幫助。
+許多NP-C案例可能會被誤診或未被發現，這是因為這種疾病極為罕見且症狀可能會因人而異。\[34\] 若您認為您自己、家人或朋友可能出現疑似NP-C的症狀，請務必進一步接受檢查。及早診斷可及早獲得治療，這可協助延緩疾病惡化速度。\[35\]針對患者的研究顯示，努力持續不懈是許多NP-C患者獲得正確診斷結果的關鍵。\[36\]這股堅持包括盡可能與醫師分享所有訊息，向醫師描述所有症狀，甚至有些可能看似不重要的症狀，都可能會有幫助。
 
 ## C型尼曼匹克氏症的處置方法
 
@@ -107,114 +97,51 @@ SI)協助醫療照護人員找出必須接受進一步檢查的患者，希望�
 
 ## 外部链接
 
-  - [International Niemann-Pick Disease
-    Alliance國際尼曼匹克氏症聯盟](http://inpda.org)
+  - [International Niemann-Pick Disease Alliance國際尼曼匹克氏症聯盟](http://inpda.org)
   - [Find Zebra是一個取得罕見疾病鑑別診斷的工具](http://www.findzebra.com)
   - [C型尼曼匹克氏症懷疑指數(Suspicion Index)](http://www.npc-si.com)
-  - [NPC
-    Info](http://www.npc-info.com)：您可透過這個網站取得有關尼曼匹克氏症的症狀、診斷以及處置方法的完整資訊，此網站分為病患專區跟專業醫護人員專區。
+  - [NPC Info](http://www.npc-info.com)：您可透過這個網站取得有關尼曼匹克氏症的症狀、診斷以及處置方法的完整資訊，此網站分為病患專區跟專業醫護人員專區。
   - [Orphanet](http://www.orpha.net/consor/cgi-bin/index.php?lng=EN)：是一個提供罕見疾病以及孤兒藥等相關資訊的資料庫，以協助改善罕見疾病患者的診斷結果、照護與治療。
 
-[Category:脂类贮积症](https://zh.wikipedia.org/wiki/Category:脂类贮积症 "wikilink")
-[Category:常染色体隐性遗传疾病](https://zh.wikipedia.org/wiki/Category:常染色体隐性遗传疾病 "wikilink")
-[Category:罕見疾病](https://zh.wikipedia.org/wiki/Category:罕見疾病 "wikilink")
+[Category:脂类贮积症](https://zh.wikipedia.org/wiki/Category:脂类贮积症 "wikilink") [Category:常染色体隐性遗传疾病](https://zh.wikipedia.org/wiki/Category:常染色体隐性遗传疾病 "wikilink") [Category:罕見疾病](https://zh.wikipedia.org/wiki/Category:罕見疾病 "wikilink")
 
-1.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-2.  Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-3.  Patterson MC. A riddle wrapped in a mystery: understanding
-    Niemann-Pick disease, type C Neurologist 2003; 9: 301-10
-4.  Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-5.  Patterson MC. A riddle wrapped in a mystery: understanding
-    Niemann-Pick disease, type C Neurologist 2003; 9: 301-10
-6.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-7.  Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-8.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-9.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-10. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-11. Mukherjee S, Maxfield FR. Lipid and cholesterol trafficking in NPC
-    Biochim Biophys Acta 2004; 1685: 28-37
-12. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-13. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-14. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-15. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-16. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-17. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-18. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-19. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-20. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-21. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-22. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-23. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-24. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-25. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-26. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-27. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-28. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-29. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-30. Wijburg FA, Sedel F, Pineda M, et al. Development of a suspicion
-    index to aid diagnosis of Niemann-Pick disease type C. Neurology
-    2012;78(20):1560-7
-31. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-32. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis
-    2010;5:16.
-33. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-34. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and
-    its potential treatment. UK Blackwell Publishing, 2007
-35. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-36. Niemann-Pick type C disease: Journey to Diagnosis. A Patient Report.
-    September 2010
-37. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-38. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-39. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
-40. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the
-    NP-C Guidelines Working Group. Recommendations for the diagnosis and
-    management of Niemann–Pick disease type C: An update. Mol Genet
-    Metab 2012. 106(3):330-344
+1.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+2.  Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+3.  Patterson MC. A riddle wrapped in a mystery: understanding Niemann-Pick disease, type C Neurologist 2003; 9: 301-10
+4.  Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+5.  Patterson MC. A riddle wrapped in a mystery: understanding Niemann-Pick disease, type C Neurologist 2003; 9: 301-10
+6.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+7.  Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+8.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+9.  Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+10. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+11. Mukherjee S, Maxfield FR. Lipid and cholesterol trafficking in NPC Biochim Biophys Acta 2004; 1685: 28-37
+12. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+13. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+14. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+15. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+16. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+17. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+18. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+19. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+20. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+21. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+22. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+23. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+24. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+25. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+26. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+27. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+28. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+29. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+30. Wijburg FA, Sedel F, Pineda M, et al. Development of a suspicion index to aid diagnosis of Niemann-Pick disease type C. Neurology 2012;78(20):1560-7
+31. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+32. Vanier MT. Niemann-Pick disease type C. Orphanet J Rare Dis 2010;5:16.
+33. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+34. Wraith JE, Imrie J. Understanding Niemann-Pick disease type C and its potential treatment. UK Blackwell Publishing, 2007
+35. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+36. Niemann-Pick type C disease: Journey to Diagnosis. A Patient Report. September 2010
+37. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+38. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+39. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344
+40. Patterson MC, Hendriksz CJ, Walterfang M, et al, on behalf of the NP-C Guidelines Working Group. Recommendations for the diagnosis and management of Niemann–Pick disease type C: An update. Mol Genet Metab 2012. 106(3):330-344

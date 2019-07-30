@@ -1,12 +1,12 @@
 **LG4**是一款由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[湖南兵器轻武器研究所为满足外贸需求而自行研制和生產](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")，并且由[北方工业公司所銷售的轻型](../Page/中国兵器工业集团.md "wikilink")[雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")6連發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
-全系统具有重量较轻、精度较高、威力强大、结构紧凑、[人机工效性良好](../Page/人因工程学.md "wikilink")、安全可靠、通用性强大、高[性價比的优点](../Page/性價比.md "wikilink")，在国际武器市场上具有较强大的竞争力，目前亦已經完成批量出口。
+全系统具有重量较轻、精度较高、威力强大、结构紧凑、[人机工效性良好](../Page/人因工程学.md "wikilink")、安全可靠、通用性强大、高[性價比](../Page/性價比.md "wikilink")的优点，在国际武器市场上具有较强大的竞争力，目前亦已經完成批量出口。
 
 ## 歷史
 
 在中国榴弹发射器之中，LG系列[榴彈發射器主要是为了對外出口](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。自2006年，先后研制出[LG1／LG2枪挂式榴弹发射器和](https://zh.wikipedia.org/wiki/LG1榴弹发射器 "wikilink")[LG3自动榴弹发射器](../Page/LG3自动榴弹发射器.md "wikilink")。其中LG2和LG3自问世以来，很快就在国际市场上占据了一席之地，目前亦已经完成多次批量出口，并且在战场上使用。
 
-然而，随着战争形态、作战样式以及目标特性的不断变化，特别是步兵分队遂行[反恐](https://zh.wikipedia.org/wiki/反恐 "wikilink")、[防暴等作战任务的日益增多](../Page/防暴.md "wikilink")，能够在城市街巷、山地丛林等可快速实施密集射击的榴弹发射器成为迫切之需：LG2为单兵武器，重量轻便却只能单发装填，沒有火力持续性不够；而LG3则是火力持续性强大的班组武器，却不能手持使用，机动性不强。
+然而，随着战争形态、作战样式以及目标特性的不断变化，特别是步兵分队遂行[反恐](https://zh.wikipedia.org/wiki/反恐 "wikilink")、[防暴](../Page/防暴.md "wikilink")等作战任务的日益增多，能够在城市街巷、山地丛林等可快速实施密集射击的榴弹发射器成为迫切之需：LG2为单兵武器，重量轻便却只能单发装填，沒有火力持续性不够；而LG3则是火力持续性强大的班组武器，却不能手持使用，机动性不强。
 
 只有转轮式或半自动榴弹发射器，才可填補两者之间的空白。因此，[湖南兵器轻武器研究所決定研制转轮式榴弹发射器以在该市場上佔有一席之位](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")。
 
@@ -18,13 +18,13 @@
 
 ## 设计细節
 
-LG4开创性地采用[火药燃气驱动](https://zh.wikipedia.org/wiki/气动式_\(槍械\) "wikilink")、限位齿定位式转轮供弹机构，射击以前无需预压任何[弹簧](../Page/弹簧.md "wikilink")，射击途中亦无需推拉动作。装填[弹药以后](https://zh.wikipedia.org/wiki/弹药 "wikilink")，扣压扳机即可击发弹药；[弹头飞出](https://zh.wikipedia.org/wiki/弹头 "wikilink")[槍管以后](../Page/槍管.md "wikilink")，燃气驱动弹巢快速旋转60°。只要扣压扳机就可进行下一个射击循环，真正实现了自动供弹，极大地提高了转轮式榴弹发射器的战斗射速、操作便捷性和安全性。
+LG4开创性地采用[火药燃气驱动](https://zh.wikipedia.org/wiki/气动式_\(槍械\) "wikilink")、限位齿定位式转轮供弹机构，射击以前无需预压任何[弹簧](../Page/弹簧.md "wikilink")，射击途中亦无需推拉动作。装填[弹药以后](https://zh.wikipedia.org/wiki/弹药 "wikilink")，扣压扳机即可击发弹药；[弹头飞出](https://zh.wikipedia.org/wiki/弹头 "wikilink")[槍管](../Page/槍管.md "wikilink")以后，燃气驱动弹巢快速旋转60°。只要扣压扳机就可进行下一个射击循环，真正实现了自动供弹，极大地提高了转轮式榴弹发射器的战斗射速、操作便捷性和安全性。
 
 LG4还采用了牙嵌离合器式定位机构，通过限位齿上的三个梯形牙嵌入或抽出弹巢卡槽对弹巢进行定位或解脱。限位齿集成在自动机上，简单可靠地构建了自动机运动、弹巢运动、限位齿运动相互关联的体系，解决了转动机构动作过程中运动不平稳、冲击力不小、受力件寿命不长久的难题。
 
 ### 闭锁机构
 
-LG4采用的闭锁机构为有别于传统、相对的较接近猎用[霰彈槍的](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")[中折式设计](https://zh.wikipedia.org/wiki/中折式裝填 "wikilink")，其闭锁片还可绕后盖板中心偏转，闭膛与闭锁动作分步进行。打开[膛室装满弹药后](../Page/膛室.md "wikilink")，使用者左手握住[前握把](../Page/輔助握把.md "wikilink")，右手握住发射机握把向上旋转使后盖板闭合膛室，然后向左旋转使內置式击针的闭锁片扣合支撑框，开锁钮嵌入支撑框上对应槽中，完成闭锁。右手[拇指将发射机转换柄拨至击发位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，食指扣压扳机即可发射[弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")。开锁时，握住发射机握把的右手食指移离扳机压下开锁钮，向右旋转完成开锁，再向下旋转便打开膛室。
+LG4采用的闭锁机构为有别于传统、相对的较接近猎用[霰彈槍的](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")[中折式设计](https://zh.wikipedia.org/wiki/中折式裝填 "wikilink")，其闭锁片还可绕后盖板中心偏转，闭膛与闭锁动作分步进行。打开[膛室](../Page/膛室.md "wikilink")装满弹药后，使用者左手握住[前握把](../Page/輔助握把.md "wikilink")，右手握住发射机握把向上旋转使后盖板闭合膛室，然后向左旋转使內置式击针的闭锁片扣合支撑框，开锁钮嵌入支撑框上对应槽中，完成闭锁。右手[拇指将发射机转换柄拨至击发位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，食指扣压扳机即可发射[弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")。开锁时，握住发射机握把的右手食指移离扳机压下开锁钮，向右旋转完成开锁，再向下旋转便打开膛室。
 
 在开闭锁过程当中，使用者的双手均不需离开手握握把，[人机功效优良](../Page/人因工程学.md "wikilink")、操作方便省力、动作迅速而流畅，而且安全性能非常突出，将使用不当造成损伤的机率降到最低。闭膛时[击针不处于正对待发弹药底火的位置](../Page/撞針.md "wikilink")，如果击针意外卡锁亦不会随即引起击发的危险；而且卡锁的击针会阻止闭锁片旋转完成闭锁，起到了击针卡锁警报作用。倘若因紧张或疏忽而令闭锁不到位，即使扣动扳机，也会因击针尚未对准底火而不能击发，发挥出闭锁不到位保险功能。闭锁到位以后，扳机右侧上方的开锁按钮完全限制了闭锁片的运动。而在射击过程中，右手的食指忙于扣压扳机而无暇压下开锁钮引起开锁，又巧妙地设置了一道闭锁保险。
 
@@ -38,7 +38,7 @@ LG4的闭锁机构比南非MGL的横摆式闭锁机构或CS/LW1转轮式防暴�
 
 #### 一体化式膛线
 
-枪管和[弹巢內的](https://zh.wikipedia.org/wiki/弹巢 "wikilink")[膛室所构成的一体化式](../Page/膛室.md "wikilink")[膛線为LG](../Page/膛線.md "wikilink")4又一个鲜明的特点。通过一体化膛线的设计和加工，弹巢任一转膛内的膛线都能与身管膛线对接成一体，使发射器的[内弹道性能几乎接近弹道发射器](https://zh.wikipedia.org/wiki/内弹道 "wikilink")，射击精度较滑膛弹巢也有明显的提高。
+枪管和[弹巢內的](https://zh.wikipedia.org/wiki/弹巢 "wikilink")[膛室](../Page/膛室.md "wikilink")所构成的一体化式[膛線](../Page/膛線.md "wikilink")为LG4又一个鲜明的特点。通过一体化膛线的设计和加工，弹巢任一转膛内的膛线都能与身管膛线对接成一体，使发射器的[内弹道性能几乎接近弹道发射器](https://zh.wikipedia.org/wiki/内弹道 "wikilink")，射击精度较滑膛弹巢也有明显的提高。
 
 #### 联动式击发机构
 
@@ -46,7 +46,7 @@ LG4的联动式击发机已经在LG1、LG2型枪挂式榴弹发射器以上成�
 
 #### 加强型支撑框
 
-LG4的支撑框有著著很高的强度安全系数。即使整枝发射器从1.5米高处跌落在[水泥表面以上](../Page/水泥.md "wikilink")，支撑框也不会有细微变形，对发射器的保护达到最大化。
+LG4的支撑框有著著很高的强度安全系数。即使整枝发射器从1.5米高处跌落在[水泥](../Page/水泥.md "wikilink")表面以上，支撑框也不会有细微变形，对发射器的保护达到最大化。
 
 ### 瞄準具和皮卡汀尼导轨
 
@@ -83,13 +83,10 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
   - [MM-1轉輪式榴彈發射器](../Page/MM-1轉輪式榴彈發射器.md "wikilink")
   - [RG-6轉輪式榴彈發射器](../Page/RG-6轉輪式榴彈發射器.md "wikilink")
   - [RGP-40轉輪式榴彈發射器](../Page/RGP-40轉輪式榴彈發射器.md "wikilink")
-  - [RH-ALAN
-    RBG-6轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RH-ALAN_RBG-6轉輪式榴彈發射器 "wikilink")
-  - [Zastava
-    MSRG-40轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Zastava_MSRG-40轉輪式榴彈發射器 "wikilink")
+  - [RH-ALAN RBG-6轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RH-ALAN_RBG-6轉輪式榴彈發射器 "wikilink")
+  - [Zastava MSRG-40轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Zastava_MSRG-40轉輪式榴彈發射器 "wikilink")
   - [RGA-86轉輪式榴彈發射器](../Page/RGA-86轉輪式榴彈發射器.md "wikilink")
-  - [CZW
-    RAG-30自動榴彈發射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自動榴彈發射器 "wikilink")
+  - [CZW RAG-30自動榴彈發射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自動榴彈發射器 "wikilink")
   - [丹尼爾PAW-20半自動榴彈發射器](../Page/丹尼爾PAW-20半自動榴彈發射器.md "wikilink")
   - [XM25反防禦目標應對系統](../Page/XM25反防禦目標應對系統.md "wikilink")
   - [左輪手槍](https://zh.wikipedia.org/wiki/左輪手槍 "wikilink")
@@ -115,11 +112,9 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
 
 ## 外部連結
 
-  - —[Military, Security and Civilian Guns and Equipment—LG4
-    MGL](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=918)
+  - —[Military, Security and Civilian Guns and Equipment—LG4 MGL](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=918)
 
-  - —[Modern Firearms—NORINCO LG4 revolver grenade
-    launcher](http://world.guns.ru/grenade/ch/lg4-e.html)
+  - —[Modern Firearms—NORINCO LG4 revolver grenade launcher](http://world.guns.ru/grenade/ch/lg4-e.html)
 
   - —[湖南兵器轻武器研究所有限责任公司官方网站—LG4型40毫米转轮榴弹发射器](http://www.hnqwq.com/aspcms/product/2013-12-11/224.html)
 
@@ -129,10 +124,6 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
 
   - —[军品志—2014年警用装备展实录(2):满脸的喷子与钢炮](http://bbs.junpinzhi.com/post2_43304_1.html)
 
-  - —[PChome
-    個人新聞台—中國槍榴彈](http://mypaper.pchome.com.tw/souj/post/1306951888)
+  - —[PChome 個人新聞台—中國槍榴彈](http://mypaper.pchome.com.tw/souj/post/1306951888)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink")
-[Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink")
-[Category:轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Category:轉輪式榴彈發射器 "wikilink")
-[Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Category:轉輪式榴彈發射器 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")

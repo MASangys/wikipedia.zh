@@ -1,4 +1,4 @@
-《**I型起源**》（）是一部2014年的美国科幻电影，由编剧和导演。2014年1月18日在[圣丹斯电影节首映](../Page/圣丹斯电影节.md "wikilink")。
+《**I型起源**》（）是一部2014年的美国科幻电影，由编剧和导演。2014年1月18日在[圣丹斯电影节](../Page/圣丹斯电影节.md "wikilink")首映。
 
 ## 劇情介绍
 
@@ -10,8 +10,7 @@
 
   - [布里特·马灵](../Page/布里特·马灵.md "wikilink") 飾演 Karen
 
-  - [阿斯特丽德·伯格斯-弗瑞斯贝](https://zh.wikipedia.org/wiki/阿斯特丽德·伯格斯-弗瑞斯贝 "wikilink")
-    飾演 Sofi Elizondo
+  - [阿斯特丽德·伯格斯-弗瑞斯贝](https://zh.wikipedia.org/wiki/阿斯特丽德·伯格斯-弗瑞斯贝 "wikilink") 飾演 Sofi Elizondo
 
   - [史蒂文·連](../Page/史蒂文·連.md "wikilink") 飾演 Kenny
 
@@ -39,8 +38,4 @@
   -
   -
   -
-[Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink")
-[Category:美国剧情片](https://zh.wikipedia.org/wiki/Category:美国剧情片 "wikilink")
-[Category:美国科幻片](https://zh.wikipedia.org/wiki/Category:美国科幻片 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:美国独立电影](https://zh.wikipedia.org/wiki/Category:美国独立电影 "wikilink")
+[Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink") [Category:美国剧情片](https://zh.wikipedia.org/wiki/Category:美国剧情片 "wikilink") [Category:美国科幻片](https://zh.wikipedia.org/wiki/Category:美国科幻片 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:美国独立电影](https://zh.wikipedia.org/wiki/Category:美国独立电影 "wikilink")

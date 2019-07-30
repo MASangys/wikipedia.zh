@@ -1,5 +1,4 @@
-《**LOVE
-TRiCKY**》是[大塚愛的第七張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")，於2015年4月22日發行。
+《**LOVE TRiCKY**》是[大塚愛的第七張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")，於2015年4月22日發行。
 
 ## 收錄曲目
 
@@ -44,5 +43,4 @@ TRiCKY**》是[大塚愛的第七張原創專輯](https://zh.wikipedia.org/wiki/
 
   - [大塚 愛推出第7張原創專輯 LOVE TRiCKY 愛調皮](https://www.avex.com.tw/0508_ai/)
 
-[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink")
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
+[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")

@@ -1,5 +1,4 @@
-\-- This module provides functions for making MediaWiki template
-invocations.
+\-- This module provides functions for making MediaWiki template invocations.
 
 local checkType = require('libraryUtil').checkType
 
@@ -7,12 +6,7 @@ local p = {}
 
 -----
 
-\-- Name: p.name -- Purpose: Find a template invocation name from a page
-name or a -- mw.title object. -- Description: This function detects
-whether a string or a mw.title -- object has been passed in, and uses
-that to find a -- template name as it is used in template invocations.
--- Parameters: title - full page name or mw.title object for the --
-template (string or mw.title object) -- Returns: String
+\-- Name: p.name -- Purpose: Find a template invocation name from a page name or a -- mw.title object. -- Description: This function detects whether a string or a mw.title -- object has been passed in, and uses that to find a -- template name as it is used in template invocations. -- Parameters: title - full page name or mw.title object for the -- template (string or mw.title object) -- Returns: String
 
 -----
 
@@ -38,17 +32,7 @@ end
 
 -----
 
-\-- Name: p.invocation -- Purpose: Construct a MediaWiki template
-invocation. -- Description: This function makes a template invocation
-from the -- name and the arguments given. Note that it isn't -- perfect:
-we have no way of knowing what whitespace was -- in the original
-invocation, the order of the parameters -- may be changed, and any
-parameters with duplicate keys -- will be removed. -- Parameters: name -
-the template name, formatted as it will appear -- in the invocation.
-(string) -- args - a table of template arguments. (table) -- format -
-formatting options. (string, optional) -- Set to "nowiki" to escape,
-curly braces, pipes and -- equals signs with their HTML entities. The
-default -- is unescaped. -- Returns: String
+\-- Name: p.invocation -- Purpose: Construct a MediaWiki template invocation. -- Description: This function makes a template invocation from the -- name and the arguments given. Note that it isn't -- perfect: we have no way of knowing what whitespace was -- in the original invocation, the order of the parameters -- may be changed, and any parameters with duplicate keys -- will be removed. -- Parameters: name - the template name, formatted as it will appear -- in the invocation. (string) -- args - a table of template arguments. (table) -- format - formatting options. (string, optional) -- Set to "nowiki" to escape, curly braces, pipes and -- equals signs with their HTML entities. The default -- is unescaped. -- Returns: String
 
 -----
 

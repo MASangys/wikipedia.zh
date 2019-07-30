@@ -1,6 +1,4 @@
-**Shadow Defender** （中文译名：**影子卫士**）是一款专为 [Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-开发的系统保护还原软件，它可以保护操作系统、应用程序和敏感信息，并维持它们功能的正常使用。\[1\]
+**Shadow Defender** （中文译名：**影子卫士**）是一款专为 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 开发的系统保护还原软件，它可以保护操作系统、应用程序和敏感信息，并维持它们功能的正常使用。\[1\]
 
 ## 软件功能
 
@@ -66,8 +64,6 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
   - [官方网站](http://www.shadowdefender.com/)
 
-[Category:共享软件](https://zh.wikipedia.org/wiki/Category:共享软件 "wikilink")
-[Category:虚拟化软件](https://zh.wikipedia.org/wiki/Category:虚拟化软件 "wikilink")
+[Category:共享软件](https://zh.wikipedia.org/wiki/Category:共享软件 "wikilink") [Category:虚拟化软件](https://zh.wikipedia.org/wiki/Category:虚拟化软件 "wikilink")
 
-1.  Shadow
-    Defender提供从2016年8月17日4天赠品至2016年8月21日。它是一种预活化的版本，不需要许可密钥。[1](http://standaloneinstaller.com/blog/download-shadow-defender-full-version-free-giveaway-is-bound-to-make-an-impact-in-your-pc-61.html)
+1.  Shadow Defender提供从2016年8月17日4天赠品至2016年8月21日。它是一种预活化的版本，不需要许可密钥。[1](http://standaloneinstaller.com/blog/download-shadow-defender-full-version-free-giveaway-is-bound-to-make-an-impact-in-your-pc-61.html)

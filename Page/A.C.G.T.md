@@ -1,16 +1,12 @@
-'''株式會社A·C·G·T
-'''（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區的](../Page/杉並區.md "wikilink")[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2000年。
+'''株式會社A·C·G·T '''（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2000年。
 
 ## 概要、沿革
 
-A.C.G.T是主要從事與[OB企劃](../Page/OB企劃.md "wikilink")、[GENCO共同企劃](../Page/GENCO.md "wikilink")、動畫製作為中心的動畫工作室。
+A.C.G.T是主要從事與[OB企劃](../Page/OB企劃.md "wikilink")、[GENCO](../Page/GENCO.md "wikilink")共同企劃、動畫製作為中心的動畫工作室。
 
-2000年12月19日，由前動畫工作室的製作出身、[TRIANGLE
-STAFF的製作人安部正次郎與工作人員馬場健等人跟OB企劃建立旗下企業關係後](../Page/TRIANGLE_STAFF.md "wikilink")，在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[井草五丁目設立](../Page/井草.md "wikilink")。
+2000年12月19日，由前動畫工作室的製作出身、[TRIANGLE STAFF的製作人安部正次郎與工作人員馬場健等人跟OB企劃建立旗下企業關係後](../Page/TRIANGLE_STAFF.md "wikilink")，在[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[井草](../Page/井草.md "wikilink")五丁目設立。
 
-2006年，搬遷至東京都[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")[RADIX
-ACE
-ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年後又再搬遷至[武藏野市現址](../Page/武藏野市.md "wikilink")。
+2006年，搬遷至東京都[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")[RADIX ACE ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年後又再搬遷至[武藏野市](../Page/武藏野市.md "wikilink")現址。
 
 ## 作品列表
 
@@ -46,7 +42,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 <td><p><a href="../Page/決鬥大師.md" title="wikilink">決鬥大師</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/雲雀工作室.md" title="wikilink">雲雀工作室共同製作</a>。</p></td>
+<td><p>與<a href="../Page/雲雀工作室.md" title="wikilink">雲雀工作室</a>共同製作。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003年</p></td>
@@ -90,7 +86,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 </tr>
 <tr class="even">
 <td><p>2005年</p></td>
-<td><p><a href="../Page/青檸色之戰奇譚.md" title="wikilink">青檸色之戰奇譚X</a></p></td>
+<td><p><a href="../Page/青檸色之戰奇譚.md" title="wikilink">青檸色之戰奇譚</a>X</p></td>
 <td></td>
 <td><p>遊戲</p></td>
 <td></td>
@@ -601,7 +597,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/科學超電磁砲.md" title="wikilink">科學超電磁砲S</a></p></td>
+<td><p><a href="../Page/科學超電磁砲.md" title="wikilink">科學超電磁砲</a>S</p></td>
 <td></td>
 <td><p>J.C.STAFF</p></td>
 <td><p>小說</p></td>
@@ -727,7 +723,7 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？" title="wikilink">普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？</a></p></td>
+<td><p><a href="../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md" title="wikilink">普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -806,7 +802,4 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 
   - [株式會社A.C.G.T公式官網](http://acgt.co.jp/)
 
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
-[Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
-[Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink")
+[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink") [Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink")

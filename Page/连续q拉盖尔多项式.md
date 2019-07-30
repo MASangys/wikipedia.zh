@@ -1,6 +1,4 @@
-[Continuous_q_Laguerre_polynomials.gif](https://zh.wikipedia.org/wiki/File:Continuous_q_Laguerre_polynomials.gif "fig:Continuous_q_Laguerre_polynomials.gif")
-**连续q拉盖尔多项式**(Continuous q-Laguerre
-polynomials)是一个以[基本超几何函数定义的](../Page/基本超几何函数.md "wikilink")[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]。
+[Continuous_q_Laguerre_polynomials.gif](https://zh.wikipedia.org/wiki/File:Continuous_q_Laguerre_polynomials.gif "fig:Continuous_q_Laguerre_polynomials.gif") **连续q拉盖尔多项式**(Continuous q-Laguerre polynomials)是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]。
 
 \(P_{n}^{(\alpha)}(x|q)=\frac{(q^\alpha+1;q)_{n}}{(q;q)_{n}}\)\(_{3}\Phi_{2}(q^{-n},q^{\alpha/2+1/4}e^{i\theta},q^{\alpha/2+1/4}*e^{-i\theta};q^{\alpha+1},0|q,q)\)
 
@@ -16,14 +14,12 @@ polynomials)是一个以[基本超几何函数定义的](../Page/基本超几何
 
   - 验证
 
-3阶连续q拉盖尔多项式：
-\(\lim_{q  \to  1}P_{3}^(a)=1/6\,{a}^{3}-x{a}^{2}+{a}^{2}+{\frac {11}{6}}\,a+2\,a{x}^{2}-5\,ax+1-6
+3阶连续q拉盖尔多项式： \(\lim_{q  \to  1}P_{3}^(a)=1/6\,{a}^{3}-x{a}^{2}+{a}^{2}+{\frac {11}{6}}\,a+2\,a{x}^{2}-5\,ax+1-6
 \,x-4/3\,{x}^{3}+6\,{x}^{2}\)
 
 3阶广义拉盖尔多项式：
 
-\(L_3^{a}(2x)=\frac{1}{6}(a+1)_{3}*_1F_1(-n,a+1;2x)\)
-\(=1/6\,{a}^{3}-x{a}^{2}+{a}^{2}+{\frac {11}{6}}\,a+2\,a{x}^{2}-5\,ax+1-6
+\(L_3^{a}(2x)=\frac{1}{6}(a+1)_{3}*_1F_1(-n,a+1;2x)\) \(=1/6\,{a}^{3}-x{a}^{2}+{a}^{2}+{\frac {11}{6}}\,a+2\,a{x}^{2}-5\,ax+1-6
 \,x-4/3\,{x}^{3}+6\,{x}^{2}\)
 
 两者显然相等。
@@ -46,8 +42,6 @@ polynomials)是一个以[基本超几何函数定义的](../Page/基本超几何
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:特殊超几何函数](https://zh.wikipedia.org/wiki/Category:特殊超几何函数 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:特殊超几何函数](https://zh.wikipedia.org/wiki/Category:特殊超几何函数 "wikilink")
 
-1.  Roelof Koekoek, Peter Lesky, Rene Swarttouw,Hypergeometric
-    Orthogonal Polynomials and Their q-Analogues, p514, Springer
+1.  Roelof Koekoek, Peter Lesky, Rene Swarttouw,Hypergeometric Orthogonal Polynomials and Their q-Analogues, p514, Springer

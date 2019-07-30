@@ -1,8 +1,8 @@
-**Heavens-Above**是一家由克里斯·皮特创建并运营的[非营利网站](https://zh.wikipedia.org/wiki/非营利网站 "wikilink")。网站的目的是为了帮助人们不需[望远镜等](https://zh.wikipedia.org/wiki/望远镜 "wikilink")[光学仪器就可以观察并追踪环绕地球的](../Page/光学仪器.md "wikilink")[人造卫星](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，特别是对[ISS](https://zh.wikipedia.org/wiki/ISS "wikilink")，[铱星闪光](https://zh.wikipedia.org/wiki/铱星 "wikilink")，[航天飞机飞行任务的观察追踪](../Page/航天飞机.md "wikilink")。它提供详细的星图显示相对于恒星背景的卫星轨迹。此网站还提供实时的可见彗星、流星雨、行星信息\[1\]。《[天空与望远镜杂志](https://zh.wikipedia.org/wiki/天空与望远镜杂志 "wikilink")》评价本网站为“最受欢迎的卫星追踪网站”。\[2\]
+**Heavens-Above**是一家由克里斯·皮特创建并运营的[非营利网站](https://zh.wikipedia.org/wiki/非营利网站 "wikilink")。网站的目的是为了帮助人们不需[望远镜等](https://zh.wikipedia.org/wiki/望远镜 "wikilink")[光学仪器](../Page/光学仪器.md "wikilink")就可以观察并追踪环绕地球的[人造卫星](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，特别是对[ISS](https://zh.wikipedia.org/wiki/ISS "wikilink")，[铱星闪光](https://zh.wikipedia.org/wiki/铱星 "wikilink")，[航天飞机](../Page/航天飞机.md "wikilink")飞行任务的观察追踪。它提供详细的星图显示相对于恒星背景的卫星轨迹。此网站还提供实时的可见彗星、流星雨、行星信息\[1\]。《[天空与望远镜杂志](https://zh.wikipedia.org/wiki/天空与望远镜杂志 "wikilink")》评价本网站为“最受欢迎的卫星追踪网站”。\[2\]
 
 ## 使用方法
 
-用户通过点击世界地图来设置自己所在的观赏位置。便会提供可观测对象列表，以及它们的亮度，观测对象的时间和方向。空间站、火箭、卫星、[太空垃圾以及](../Page/太空垃圾.md "wikilink")[太阳](../Page/太阳.md "wikilink")、[月亮和](https://zh.wikipedia.org/wiki/月亮 "wikilink")[行星的数据也会提供](../Page/行星.md "wikilink")。
+用户通过点击世界地图来设置自己所在的观赏位置。便会提供可观测对象列表，以及它们的亮度，观测对象的时间和方向。空间站、火箭、卫星、[太空垃圾](../Page/太空垃圾.md "wikilink")以及[太阳](../Page/太阳.md "wikilink")、[月亮和](https://zh.wikipedia.org/wiki/月亮 "wikilink")[行星](../Page/行星.md "wikilink")的数据也会提供。
 
 ## 相关事件
 
@@ -20,7 +20,5 @@
 [Category:科学网站](https://zh.wikipedia.org/wiki/Category:科学网站 "wikilink")
 
 1.
-2.  Beatty, J. Kelly. ['Take a "Sat-seeing"
-    Tour'](http://www.skyandtelescope.com/letsgo/whatsuptonight/Sat-seeing_Tour.html?page=2&c=y)
-    . SkyandTelescope.com. Retrieved 17 March 2012. p. 2.
+2.  Beatty, J. Kelly. ['Take a "Sat-seeing" Tour'](http://www.skyandtelescope.com/letsgo/whatsuptonight/Sat-seeing_Tour.html?page=2&c=y) . SkyandTelescope.com. Retrieved 17 March 2012. p. 2.
 3.

@@ -1,36 +1,20 @@
-配备[Retina显示屏的](../Page/Retina显示屏.md "wikilink")**MacBook**是[苹果公司设计的新一代](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[MacBook](../Page/MacBook.md "wikilink")（商品名为**全新MacBook**），在2015年春季发布（同時期尚有Apple
-Watch预售的新商品发布）。
+配备[Retina显示屏](../Page/Retina显示屏.md "wikilink")的**MacBook**是[苹果公司设计的新一代](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[MacBook](../Page/MacBook.md "wikilink")（商品名为**全新MacBook**），在2015年春季发布（同時期尚有Apple Watch预售的新商品发布）。
 
-新一代的MacBook去除了一切接口，只留下耳機插口和新加入的[USB
-Type-C](../Page/USB_3.1.md "wikilink") 端口，並移除散热风扇，将最厚度减小到了1.31厘米。
+新一代的MacBook去除了一切接口，只留下耳機插口和新加入的[USB Type-C](../Page/USB_3.1.md "wikilink") 端口，並移除散热风扇，将最厚度减小到了1.31厘米。
 
-2019年7月9日，Apple從官網商店下架該產品，並同時下架上一代MacBook Air，以新款[MacBook
-Air](../Page/MacBook_Air.md "wikilink") 代替。\[1\]
+2019年7月9日，Apple從官網商店下架該產品，並同時下架上一代MacBook Air，以新款[MacBook Air](../Page/MacBook_Air.md "wikilink") 代替。\[1\]
 
 
 
 ## 简介
 
-在2015年3月，MacBook 的機身被重新設計成比前一代的 MacBook 以及 [MacBook
-Air](../Page/MacBook_Air.md "wikilink")
-显著更薄，更轻，加上全金属外壳，只有两个端口：一个麦克风/耳机插孔和一個充电、数据传输和视频输出用的[USB
-Type-C](../Page/USB_3.1.md "wikilink") 端口。今次重新设计的機身明顯地缺少了经常发现在大多数计算机上
-[USB Type-A](../Page/USB.md "wikilink") 型端口。全新的 MacBook 在现有的 [MacBook
-Pro](../Page/MacBook_Pro.md "wikilink") 和 [MacBook
-Air](../Page/MacBook_Air.md "wikilink") 笔记本電腦外再添加了一款新型號。此版本的 MacBook
-也是現時唯一一款沒有 [Thunderbolt](../Page/Thunderbolt.md "wikilink") 介面的
-[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")。新MacBook採用 Intel
-Core M
-處理器，代號[Broadwell-Y](../Page/Broadwell微架構.md "wikilink")，熱設計功率只有4.5W。作為對比，MacBook
-Air採用的 Core i5 處理器，其規格為15W，可配置9.5W。\[2\]此外，新版的Macbook也配置有Force
-Touch触摸板（译为：感应力触摸板），此也是笔记本上一次新的设计观念。
+在2015年3月，MacBook 的機身被重新設計成比前一代的 MacBook 以及 [MacBook Air](../Page/MacBook_Air.md "wikilink") 显著更薄，更轻，加上全金属外壳，只有两个端口：一个麦克风/耳机插孔和一個充电、数据传输和视频输出用的[USB Type-C](../Page/USB_3.1.md "wikilink") 端口。今次重新设计的機身明顯地缺少了经常发现在大多数计算机上 [USB Type-A](../Page/USB.md "wikilink") 型端口。全新的 MacBook 在现有的 [MacBook Pro](../Page/MacBook_Pro.md "wikilink") 和 [MacBook Air](../Page/MacBook_Air.md "wikilink") 笔记本電腦外再添加了一款新型號。此版本的 MacBook 也是現時唯一一款沒有 [Thunderbolt](../Page/Thunderbolt.md "wikilink") 介面的 [Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")。新MacBook採用 Intel Core M 處理器，代號[Broadwell-Y](../Page/Broadwell微架構.md "wikilink")，熱設計功率只有4.5W。作為對比，MacBook Air採用的 Core i5 處理器，其規格為15W，可配置9.5W。\[2\]此外，新版的Macbook也配置有Force Touch触摸板（译为：感应力触摸板），此也是笔记本上一次新的设计观念。
 
 ## 设计
 
 ### 键盘
 
-全新MacBook的键盘對比起以前的MacBook型号出現了变化，其中按键的表面面積增加了17％。它採用了「蝶式結構」（Butterfly
-Mechanism）的全新設計，使按键的深度降低了40％，可以更穩定、更準確地打字。另外，键盘按键的LED背光已经被重新设计，现在每一个按鍵均配置一盞LED燈，而不是有一排LED和导光面板。计算机不使用风扇，所以它可以很寧靜地运行。
+全新MacBook的键盘對比起以前的MacBook型号出現了变化，其中按键的表面面積增加了17％。它採用了「蝶式結構」（Butterfly Mechanism）的全新設計，使按键的深度降低了40％，可以更穩定、更準確地打字。另外，键盘按键的LED背光已经被重新设计，现在每一个按鍵均配置一盞LED燈，而不是有一排LED和导光面板。计算机不使用风扇，所以它可以很寧靜地运行。
 
 ### 觸控板
 
@@ -38,14 +22,11 @@ Mechanism）的全新設計，使按键的深度降低了40％，可以更穩定
 
 ### 显示屏
 
-显示屏也经过重新设计，升級為[Retina顯示屏](https://zh.wikipedia.org/wiki/Retina顯示屏 "wikilink")，分辨率为2304
-X 1440，長寬比為16:10。\[3\]
+显示屏也经过重新设计，升級為[Retina顯示屏](https://zh.wikipedia.org/wiki/Retina顯示屏 "wikilink")，分辨率为2304 X 1440，長寬比為16:10。\[3\]
 
 ### 外表
 
-这部全新設計的MacBook並沒有在[MacBook
-Pro和](../Page/MacBook_Pro.md "wikilink")[MacBook
-Air中會亮起来的苹果标志](../Page/MacBook_Air.md "wikilink")。其機身有锥形的设计，最厚處厚13.3毫米，而在其最薄處厚3.5毫米。
+这部全新設計的MacBook並沒有在[MacBook Pro和](../Page/MacBook_Pro.md "wikilink")[MacBook Air中會亮起来的苹果标志](../Page/MacBook_Air.md "wikilink")。其機身有锥形的设计，最厚處厚13.3毫米，而在其最薄處厚3.5毫米。
 
 ## 技術规格
 

@@ -1,20 +1,12 @@
-**SILENT
-SIREN**是一支[日本女子](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，在2010年組成。所屬經紀公司為PLATINUM
-PRODUCTION\[1\]，唱片公司為[EMI Records](../Page/環球音樂_\(日本\).md "wikilink")。
+**SILENT SIREN**是一支[日本](../Page/日本.md "wikilink")女子[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，在2010年組成。所屬經紀公司為PLATINUM PRODUCTION\[1\]，唱片公司為[EMI Records](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 概要
 
-SILENT SIREN於2010年夏天組成，2012年以單曲「Sweet
-Pop！」正式主流出道。目前成員為吉田菫（[主唱及](https://zh.wikipedia.org/wiki/主唱 "wikilink")[吉他手](../Page/吉他.md "wikilink")）、梅村妃奈子（[鼓手](../Page/鼓.md "wikilink")）、（[貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")）及黑坂優香子
-([電子琴手](../Page/電子琴.md "wikilink"))。樂隊四位成員皆為讀者模特兒出身。2015年1月首次在[日本武道館舉行個人演唱會時](../Page/日本武道館.md "wikilink")，以主流出道僅2年2個月的時間刷新了女子樂團首次登上武道館的最快紀錄\[2\]。
-2016年12月30日於演唱會上宣佈隊名將會改為全大寫「SILENT SIREN」，並移藉到日本環球唱片旗下廠牌EMI Records
-\[3\] 。2016年展開世界巡迴，至雅加達、上海、洛杉磯、舊金山、香港、臺灣等地巡迴\[4\]。2017年SILENT
-SIREN三度來台，於10月4日中秋節在台北三創生活園區 Clapper studio開唱\[5\]。
+SILENT SIREN於2010年夏天組成，2012年以單曲「Sweet Pop！」正式主流出道。目前成員為吉田菫（[主唱及](https://zh.wikipedia.org/wiki/主唱 "wikilink")[吉他](../Page/吉他.md "wikilink")手）、梅村妃奈子（[鼓](../Page/鼓.md "wikilink")手）、（[貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")）及黑坂優香子 ([電子琴](../Page/電子琴.md "wikilink")手)。樂隊四位成員皆為讀者模特兒出身。2015年1月首次在[日本武道館](../Page/日本武道館.md "wikilink")舉行個人演唱會時，以主流出道僅2年2個月的時間刷新了女子樂團首次登上武道館的最快紀錄\[2\]。 2016年12月30日於演唱會上宣佈隊名將會改為全大寫「SILENT SIREN」，並移藉到日本環球唱片旗下廠牌EMI Records \[3\] 。2016年展開世界巡迴，至雅加達、上海、洛杉磯、舊金山、香港、臺灣等地巡迴\[4\]。2017年SILENT SIREN三度來台，於10月4日中秋節在台北三創生活園區 Clapper studio開唱\[5\]。
 
 ### 組成經過
 
-同為擔任時裝雜誌「CUTiE」讀者模特兒的梅村妃奈子及吉田菫在一次拍攝時，大家都同為現場播放著樂團[10-FEET的歌曲](https://zh.wikipedia.org/wiki/10-FEET "wikilink")「RIVER」所興奮而認識。雙方在聊天時發現大家也曾經參加過女子樂團，而音樂口味和愛好上也相同，故此便決定組成樂團。
-\[6\] \[7\]
+同為擔任時裝雜誌「CUTiE」讀者模特兒的梅村妃奈子及吉田菫在一次拍攝時，大家都同為現場播放著樂團[10-FEET的歌曲](https://zh.wikipedia.org/wiki/10-FEET "wikilink")「RIVER」所興奮而認識。雙方在聊天時發現大家也曾經參加過女子樂團，而音樂口味和愛好上也相同，故此便決定組成樂團。 \[6\] \[7\]
 
 ## 成員
 
@@ -83,8 +75,7 @@ SIREN三度來台，於10月4日中秋節在台北三創生活園區 Clapper stu
 
   - **久保直樹** <small>() </small> - 吉他
       -
-        Silent
-        Siren的[音樂製作人](../Page/音樂製作人.md "wikilink")、負責團中大部份的作曲及編曲工作。
+        Silent Siren的[音樂製作人](../Page/音樂製作人.md "wikilink")、負責團中大部份的作曲及編曲工作。
         2012年1月4日離隊，改為負責幕後方面。
 
 ### 支援樂手
@@ -216,33 +207,24 @@ SIREN三度來台，於10月4日中秋節在台北三創生活園區 Clapper stu
 
   - [官方网站](http://silent-siren.com/)
 
-  - [官方部落格(Ameba)](http://ameblo.jp/silentsirenblog/) (2010年11月11日 -
-    2016年5月26日)
+  - [官方部落格(Ameba)](http://ameblo.jp/silentsirenblog/) (2010年11月11日 - 2016年5月26日)
 
   - [官方部落格(LINE BLOG)](http://lineblog.me/silentsiren/) (2016年5月26日 - )
 
   -
 ### 個人部落格(Ameba)(已停用)
 
-  - [吉田菫オフィシャルブログ（Silent Siren）「すぅ風呂 ×o×o」Powered by
-    Ameba](http://ameblo.jp/yoshida-sumire/)
-  - [梅村妃奈子オフィシャルブログ（Silent Siren）Powered by
-    Ameba](https://web.archive.org/web/20150318214605/http://ameblo.jp/hinanchu-blog/)
-  - [山内あいなオフィシャルブログ（Silent Siren）Powered by
-    Ameba](http://ameblo.jp/aina73/)
-  - [黒坂優香子（Silent Siren）オフィシャルブログ「ゆかるんの はぴるんるん blog」Powered by
-    Ameba](http://ameblo.jp/yukakokurosaka/)
+  - [吉田菫オフィシャルブログ（Silent Siren）「すぅ風呂 ×o×o」Powered by Ameba](http://ameblo.jp/yoshida-sumire/)
+  - [梅村妃奈子オフィシャルブログ（Silent Siren）Powered by Ameba](https://web.archive.org/web/20150318214605/http://ameblo.jp/hinanchu-blog/)
+  - [山内あいなオフィシャルブログ（Silent Siren）Powered by Ameba](http://ameblo.jp/aina73/)
+  - [黒坂優香子（Silent Siren）オフィシャルブログ「ゆかるんの はぴるんるん blog」Powered by Ameba](http://ameblo.jp/yukakokurosaka/)
 
 ### 個人部落格(LINE BLOG)
 
-  - [すぅ(Silent Siren) 公式ブログ Powered by
-    LINE](http://lineblog.me/yoshidasumire/)
-  - [ひなんちゅ(Silent Siren) 公式ブログ Powered by
-    LINE](http://lineblog.me/hinakoumemura/)
-  - [あいにゃん(Silent Siren) 公式ブログ Powered by
-    LINE](http://lineblog.me/ainayamauchi/)
-  - [ゆかるん(Silent Siren) 公式ブログ Powered by
-    LINE](http://lineblog.me/yukakokurosaka/)
+  - [すぅ(Silent Siren) 公式ブログ Powered by LINE](http://lineblog.me/yoshidasumire/)
+  - [ひなんちゅ(Silent Siren) 公式ブログ Powered by LINE](http://lineblog.me/hinakoumemura/)
+  - [あいにゃん(Silent Siren) 公式ブログ Powered by LINE](http://lineblog.me/ainayamauchi/)
+  - [ゆかるん(Silent Siren) 公式ブログ Powered by LINE](http://lineblog.me/yukakokurosaka/)
 
 ### Twitter
 
@@ -256,17 +238,13 @@ SIREN三度來台，於10月4日中秋節在台北三創生活園區 Clapper stu
   -
   -
   -
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
+[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [SILENT SIREN中秋開唱
-    勤學中文大玩繞口令](https://memeon-music.com/2017/10/08/silent-siren-report/)
+5.  [SILENT SIREN中秋開唱 勤學中文大玩繞口令](https://memeon-music.com/2017/10/08/silent-siren-report/)
 6.
 7.
 8.

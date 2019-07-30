@@ -1,6 +1,4 @@
-《**Love
-Style**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND首張迷你韓語專輯](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")，於2012年6月14日發行，主打歌曲為專輯同名歌曲《Love
-Style》\[1\]。
+《**Love Style**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND首張迷你韓語專輯](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")，於2012年6月14日發行，主打歌曲為專輯同名歌曲《Love Style》\[1\]。
 
 ## 曲目
 
@@ -114,9 +112,7 @@ Style》\[1\]。
 
 ## 参考文献
 
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

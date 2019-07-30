@@ -1,5 +1,4 @@
-《**Hey
-Girl**》是[臺灣](../Page/臺灣.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[黑Girl的首張同名EP](../Page/黑Girl.md "wikilink")（總計第四張EP），於2011年10月18日正式發行。這張EP是換了新東家[群石國際後所發行的](https://zh.wikipedia.org/wiki/群石國際 "wikilink")；也是經歷多次成員變動，[黑Girl首次以](../Page/黑Girl.md "wikilink")3人姿態和前**紅豆少女組**的[子庭](../Page/張子庭.md "wikilink")（紅豆/庭瑋）加入後的首張唱片\[1\]\[2\]\[3\]\[4\]\[5\]。
+《**Hey Girl**》是[臺灣](../Page/臺灣.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[黑Girl](../Page/黑Girl.md "wikilink")的首張同名EP（總計第四張EP），於2011年10月18日正式發行。這張EP是換了新東家[群石國際後所發行的](https://zh.wikipedia.org/wiki/群石國際 "wikilink")；也是經歷多次成員變動，[黑Girl](../Page/黑Girl.md "wikilink")首次以3人姿態和前**紅豆少女組**的[子庭](../Page/張子庭.md "wikilink")（紅豆/庭瑋）加入後的首張唱片\[1\]\[2\]\[3\]\[4\]\[5\]。
 
 ## 曲目
 
@@ -78,17 +77,10 @@ Girl**》是[臺灣](../Page/臺灣.md "wikilink")[女子團體](https://zh.wiki
 
 ## 參考資料
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:黑Girl](https://zh.wikipedia.org/wiki/Category:黑Girl "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:黑Girl](https://zh.wikipedia.org/wiki/Category:黑Girl "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink")
 
-1.  [黑girl新EP迅速蹿红
-    被屈“选妃说”大喊冤枉](http://news.cntv.cn/20111102/114061.shtml)
-2.  [ezPeer - Hey
-    Girl](http://www.ezpeer.com/album/album.php?cd_id=112470)
-3.  [黑girl新EP内地版发行
-    与阿内尔卡见面变粉丝](http://ent.163.com/12/0224/11/7R1C24M400031H0O.html)
+1.  [黑girl新EP迅速蹿红 被屈“选妃说”大喊冤枉](http://news.cntv.cn/20111102/114061.shtml)
+2.  [ezPeer - Hey Girl](http://www.ezpeer.com/album/album.php?cd_id=112470)
+3.  [黑girl新EP内地版发行 与阿内尔卡见面变粉丝](http://ent.163.com/12/0224/11/7R1C24M400031H0O.html)
 4.
-5.  [黑GIRL推EP《Hey
-    Girl》](http://gzdaily.dayoo.com/html/2011-12/17/content_1561701.htm)
+5.  [黑GIRL推EP《Hey Girl》](http://gzdaily.dayoo.com/html/2011-12/17/content_1561701.htm)

@@ -1,4 +1,4 @@
-**CROSSNET**（クロスネット）是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，2009年5月19日公司的官方網站突然的關閉\[1\]\[2\]\[3\]\[4\]\[5\]。公司旗下品牌**ApRicoT**、**[Favorite](https://zh.wikipedia.org/wiki/Favorite "wikilink")**、**ωstar**各自獨自成立新公司並繼續使用原品牌名稱。
+**CROSSNET**（クロスネット）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司，2009年5月19日公司的官方網站突然的關閉\[1\]\[2\]\[3\]\[4\]\[5\]。公司旗下品牌**ApRicoT**、**[Favorite](https://zh.wikipedia.org/wiki/Favorite "wikilink")**、**ωstar**各自獨自成立新公司並繼續使用原品牌名稱。
 
 ## 作品列表
 
@@ -53,15 +53,12 @@ Favorite的作品列表請參閱[FAVORITE](../Page/FAVORITE.md "wikilink")。
 ### Crossnet-Pie
 
   - 2004年9月24日 [boin](https://zh.wikipedia.org/wiki/boin "wikilink")
-  - 2007年3月16日
-    [リゾートBOIN](https://zh.wikipedia.org/wiki/度假村Boin "wikilink")
+  - 2007年3月16日 [リゾートBOIN](https://zh.wikipedia.org/wiki/度假村Boin "wikilink")
 
 ### ωstar
 
-  - 2008年5月30日 [彼女×彼女×彼女
-    〜三姉妹とのドキドキ共同生活〜](https://zh.wikipedia.org/wiki/彼女×彼女×彼女_～與三姊妹的心跳共同生活～ "wikilink")
-  - 2009年2月27日 [彼女×彼女×彼女 ドキドキ
-    フルスロットル](https://zh.wikipedia.org/wiki/彼女×彼女×彼女_～與三姊妹的心跳共同生活～ "wikilink")
+  - 2008年5月30日 [彼女×彼女×彼女 〜三姉妹とのドキドキ共同生活〜](https://zh.wikipedia.org/wiki/彼女×彼女×彼女_～與三姊妹的心跳共同生活～ "wikilink")
+  - 2009年2月27日 [彼女×彼女×彼女 ドキドキ フルスロットル](https://zh.wikipedia.org/wiki/彼女×彼女×彼女_～與三姊妹的心跳共同生活～ "wikilink")
 
 <!-- end list -->
 
@@ -96,12 +93,9 @@ Favorite的作品列表請參閱[FAVORITE](../Page/FAVORITE.md "wikilink")。
   -
   - [ωstar Official HomePage](http://www.omega-star.jp/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:日本已結業成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業成人遊戲公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:日本已結業成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業成人遊戲公司 "wikilink")
 
-1.  [氷山 あずきBlog](http://blog.livedoor.jp/ko_azuki/archives/713526.html)
-    Favorite原畫家的部落格。
+1.  [氷山 あずきBlog](http://blog.livedoor.jp/ko_azuki/archives/713526.html) Favorite原畫家的部落格。
 2.
 3.
 4.

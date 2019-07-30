@@ -1,17 +1,10 @@
-**NodeMCU**,是一个开源\[1\]的[物联网平台](../Page/物联网.md "wikilink")。
-它使用[Lua脚本语言编程](../Page/Lua.md "wikilink")\[2\]。该平台基于[eLua](https://zh.wikipedia.org/wiki/eLua "wikilink")
-\[3\]开源项目,底层使用ESP8266 sdk 0.9.5版本。该平台使用了很多开源项目, 例如 lua-cjson\[4\],
-spiffs\[5\]. NodeMCU包含了可以运行在
-[esp8266](https://zh.wikipedia.org/wiki/esp8266 "wikilink")
-[Wi-Fi](../Page/Wi-Fi.md "wikilink")
-[SoC芯片之上的固件](https://zh.wikipedia.org/wiki/SoC "wikilink"),以及基于ESP-12模组的硬件。
+**NodeMCU**,是一个开源\[1\]的[物联网](../Page/物联网.md "wikilink")平台。 它使用[Lua](../Page/Lua.md "wikilink")脚本语言编程\[2\]。该平台基于[eLua](https://zh.wikipedia.org/wiki/eLua "wikilink") \[3\]开源项目,底层使用ESP8266 sdk 0.9.5版本。该平台使用了很多开源项目, 例如 lua-cjson\[4\], spiffs\[5\]. NodeMCU包含了可以运行在 [esp8266](https://zh.wikipedia.org/wiki/esp8266 "wikilink") [Wi-Fi](../Page/Wi-Fi.md "wikilink") [SoC芯片之上的固件](https://zh.wikipedia.org/wiki/SoC "wikilink"),以及基于ESP-12模组的硬件。
 
 ## 固件烧写
 
 nodemcu_latest.bin: 0x00000
 对于大多数 esp8266 模块, 直接拉低 GPIO0 引脚的电平，并且重新上电或重启。
-可以使用 [nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher)
-烧写固件\[6\]。
+可以使用 [nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher) 烧写固件\[6\]。
 
 特别的，如果你想编译/构建自己的固件，需要注意以下烧写地址：
 0x00000.bin: 0x00000
@@ -20,9 +13,7 @@ nodemcu_latest.bin: 0x00000
 
 ## 硬件连接
 
-如果使用 NodeMCU devkit, 只需要安装 CH340G 驱动程式\[7\], 并且将开发模组使用micro-usb
-线缆连接到个人计算机。 然后将波特率设置到9600, 并打开串行端口。若使用普通的esp8266模组, 则
-usb-ttl 转接器是必需品。
+如果使用 NodeMCU devkit, 只需要安装 CH340G 驱动程式\[7\], 并且将开发模组使用micro-usb 线缆连接到个人计算机。 然后将波特率设置到9600, 并打开串行端口。若使用普通的esp8266模组, 则 usb-ttl 转接器是必需品。
 
 ## 程式举例
 
@@ -126,9 +117,7 @@ cu:send("hello")
 
 ## 引用文献
 
-[Category:开源硬件](https://zh.wikipedia.org/wiki/Category:开源硬件 "wikilink")
-[Category:微控制器](https://zh.wikipedia.org/wiki/Category:微控制器 "wikilink")
-[Category:物联网](https://zh.wikipedia.org/wiki/Category:物联网 "wikilink")
+[Category:开源硬件](https://zh.wikipedia.org/wiki/Category:开源硬件 "wikilink") [Category:微控制器](https://zh.wikipedia.org/wiki/Category:微控制器 "wikilink") [Category:物联网](https://zh.wikipedia.org/wiki/Category:物联网 "wikilink")
 
 1.  <https://github.com/nodemcu/>
 

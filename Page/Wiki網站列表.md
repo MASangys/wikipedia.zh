@@ -1,4 +1,4 @@
-**Wiki網站**，是指使用[Wiki軟體的網站](../Page/Wiki軟體.md "wikilink")。
+**Wiki網站**，是指使用[Wiki軟體](../Page/Wiki軟體.md "wikilink")的網站。
 
 ## 列表
 
@@ -417,7 +417,7 @@
 <tr class="even">
 <td><p>MediaWiki</p></td>
 <td><p><a href="../Page/萌娘百科.md" title="wikilink">萌娘百科</a></p></td>
-<td><p>在线百科全书；<a href="../Page/ACG.md" title="wikilink">ACG向wiki站点</a>[43]</p></td>
+<td><p>在线百科全书；<a href="../Page/ACG.md" title="wikilink">ACG</a>向wiki站点[43]</p></td>
 <td><p>CC BY-SA 3.0</p></td>
 <td><p>[44]</p></td>
 </tr>
@@ -433,42 +433,29 @@
 ## 外部連結
 
   -
-  - [meta:Interwiki
-    map](https://zh.wikipedia.org/wiki/meta:Interwiki_map "wikilink")
+  - [meta:Interwiki map](https://zh.wikipedia.org/wiki/meta:Interwiki_map "wikilink")
 
-  - [meta:List of largest
-    wikis](https://zh.wikipedia.org/wiki/meta:List_of_largest_wikis "wikilink")
+  - [meta:List of largest wikis](https://zh.wikipedia.org/wiki/meta:List_of_largest_wikis "wikilink")
 
-  - [WikiIndex](http://wikiindex.org)—wikis ranked by size, popularity,
-    usage
+  - [WikiIndex](http://wikiindex.org)—wikis ranked by size, popularity, usage
 
-  - [A complete list of Wikia community
-    sites](https://web.archive.org/web/20070406182918/http://www.wikia.com/wiki/Wikia)
+  - [A complete list of Wikia community sites](https://web.archive.org/web/20070406182918/http://www.wikia.com/wiki/Wikia)
 
   - [A wiki search engine.](http://www.wiki.com/)
 
-  - [WikiPapers](http://wikipapers.referata.com/wiki/Main_Page) (a wiki
-    about publications about wikis)
+  - [WikiPapers](http://wikipapers.referata.com/wiki/Main_Page) (a wiki about publications about wikis)
 
-  - [WikiTeam](https://github.com/WikiTeam/wikiteam), volunteers group
-    to preserve wikis
+  - [WikiTeam](https://github.com/WikiTeam/wikiteam), volunteers group to preserve wikis
 
 [Category:Wiki社群](https://zh.wikipedia.org/wiki/Category:Wiki社群 "wikilink")
 
 1.  [Appropedia:Special:Statistics](https://zh.wikipedia.org/wiki/Appropedia:Special:Statistics "wikilink")
 
-2.  [Ballotpedia
-    Statistics](http://ballotpedia.org/wiki/index.php/Special:Statistics)
-    *retrieved 1/25/12, 11:02am CT*
+2.  [Ballotpedia Statistics](http://ballotpedia.org/wiki/index.php/Special:Statistics) *retrieved 1/25/12, 11:02am CT*
 
 3.
 
-4.  [Citizendium – Category:CZ
-    Live](http://en.citizendium.org/wiki/Category:CZ_Live) lists the
-    number of clusters. Citizendium also contains subpages: see
-    [Citizendium –
-    Special:Statistics](http://en.citizendium.org/wiki/Special:Statistics)
-    for details.
+4.  [Citizendium – Category:CZ Live](http://en.citizendium.org/wiki/Category:CZ_Live) lists the number of clusters. Citizendium also contains subpages: see [Citizendium – Special:Statistics](http://en.citizendium.org/wiki/Special:Statistics) for details.
 
 5.
 
@@ -489,9 +476,7 @@
 
 14.
 
-15. [Judgepedia
-    Statistics](http://judgepedia.org/index.php/Special:Statistics)
-    *retrieved 1/25/12, 11:02am CT*
+15. [Judgepedia Statistics](http://judgepedia.org/index.php/Special:Statistics)  *retrieved 1/25/12, 11:02am CT*
 
 16.
 

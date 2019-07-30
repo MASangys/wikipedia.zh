@@ -1,6 +1,4 @@
-《**假面騎士G**》（原題：仮面ライダー
-G）是2009年（[平成](../Page/平成.md "wikilink")21年）1月31日放映的單元特摄作品，於[朝日電視台開台](../Page/朝日電視台.md "wikilink")50週年紀念節目《50時間テレビ》第2夜的《SmaSTATION\!\!
-Presents SMAPがんばりますっ\!\!》中播出。
+《**假面騎士G**》（原題：仮面ライダー G）是2009年（[平成](../Page/平成.md "wikilink")21年）1月31日放映的單元特摄作品，於[朝日電視台](../Page/朝日電視台.md "wikilink")開台50週年紀念節目《50時間テレビ》第2夜的《SmaSTATION\!\! Presents SMAPがんばりますっ\!\!》中播出。
 
 ## 劇情大綱
 
@@ -55,7 +53,4 @@ Presents SMAPがんばりますっ\!\!》中播出。
   - 根瘤蚜異蟲：岡元次郎
   - 異蟲：伊藤教人
 
-[Category:平成假面骑士系列](https://zh.wikipedia.org/wiki/Category:平成假面骑士系列 "wikilink")
-[Category:2009年電視劇集](https://zh.wikipedia.org/wiki/Category:2009年電視劇集 "wikilink")
-[Category:平成假面骑士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面骑士系列跨界作品 "wikilink")
-[Category:稻垣吾郎](https://zh.wikipedia.org/wiki/Category:稻垣吾郎 "wikilink")
+[Category:平成假面骑士系列](https://zh.wikipedia.org/wiki/Category:平成假面骑士系列 "wikilink") [Category:2009年電視劇集](https://zh.wikipedia.org/wiki/Category:2009年電視劇集 "wikilink") [Category:平成假面骑士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面骑士系列跨界作品 "wikilink") [Category:稻垣吾郎](https://zh.wikipedia.org/wiki/Category:稻垣吾郎 "wikilink")

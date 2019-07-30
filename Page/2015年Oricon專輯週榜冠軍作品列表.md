@@ -1,5 +1,4 @@
-**2015年Oricon專輯週榜冠軍作品列表**列出2015年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
-全年度共有42張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[美夢成真的](../Page/DREAMS_COME_TRUE.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《》（6週）。
+**2015年Oricon專輯週榜冠軍作品列表**列出2015年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。 全年度共有42張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[美夢成真的](../Page/DREAMS_COME_TRUE.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《》（6週）。
 
 ## 冠軍專輯列表
 
@@ -451,6 +450,4 @@
 
 ## 參考資料
 
-[Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink")
-[Category:2015年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2015年音樂排行榜 "wikilink")
+[Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink") [Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink") [Category:2015年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2015年音樂排行榜 "wikilink")

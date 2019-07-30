@@ -1,6 +1,4 @@
-[HKJC_QPlace.jpg](https://zh.wikipedia.org/wiki/File:HKJC_QPlace.jpg "fig:HKJC_QPlace.jpg")
-**位置Q**(位置連贏)
-是[賽馬](../Page/賽馬.md "wikilink")[術語](https://zh.wikipedia.org/wiki/術語 "wikilink")，是[賽馬](../Page/賽馬.md "wikilink")[博彩的一個彩池](https://zh.wikipedia.org/wiki/博彩 "wikilink")，選中一場賽事中的第1名、第2名及第3名馬匹在內的任何兩匹，毋須順序。
+[HKJC_QPlace.jpg](https://zh.wikipedia.org/wiki/File:HKJC_QPlace.jpg "fig:HKJC_QPlace.jpg") **位置Q**(位置連贏) 是[賽馬](../Page/賽馬.md "wikilink")[術語](https://zh.wikipedia.org/wiki/術語 "wikilink")，是[賽馬](../Page/賽馬.md "wikilink")[博彩的一個彩池](https://zh.wikipedia.org/wiki/博彩 "wikilink")，選中一場賽事中的第1名、第2名及第3名馬匹在內的任何兩匹，毋須順序。
 
 ## 「位置Q」不同國家的統稱
 
@@ -16,7 +14,7 @@
 
 ## 投-{注}-金額
 
-以[澳門及](../Page/澳門.md "wikilink")[香港為例](../Page/香港.md "wikilink")，連贏每注最少澳門幣或港幣10元；而新加坡為每注最少2新加坡元。
+以[澳門](../Page/澳門.md "wikilink")及[香港](../Page/香港.md "wikilink")為例，連贏每注最少澳門幣或港幣10元；而新加坡為每注最少2新加坡元。
 
 ## 投-{注}-方法
 
@@ -70,7 +68,6 @@
 
 ## 参考资料
 
-[Category:香港賽馬](https://zh.wikipedia.org/wiki/Category:香港賽馬 "wikilink")
-[Category:香港博彩](https://zh.wikipedia.org/wiki/Category:香港博彩 "wikilink")
+[Category:香港賽馬](https://zh.wikipedia.org/wiki/Category:香港賽馬 "wikilink") [Category:香港博彩](https://zh.wikipedia.org/wiki/Category:香港博彩 "wikilink")
 
 1.  東網馬經派彩紀錄　http://racing.on.cc/racing/sta/current/rjstai0001x0.html

@@ -1,6 +1,4 @@
-《**Heart to
-Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年1月9日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》、《[Triple](../Page/冰舞飛揚.md "wikilink")》[李允正導演及李正雅作家三度聯手打造](../Page/李允正.md "wikilink")。講述了喜歡受人矚目的精神科醫生和患有社交恐懼症，一受人關注就會臉紅的女生之間的治癒系羅曼史
-\[1\]
+《**Heart to Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年1月9日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》、《[Triple](../Page/冰舞飛揚.md "wikilink")》[李允正](../Page/李允正.md "wikilink")導演及李正雅作家三度聯手打造。講述了喜歡受人矚目的精神科醫生和患有社交恐懼症，一受人關注就會臉紅的女生之間的治癒系羅曼史 \[1\]
 
 ## 演員陣容
 
@@ -303,15 +301,7 @@ Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 
   - [韓國tvN官方網站](http://program.interest.me/tvn/tvnheart)
 
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:tvN金土連續劇](https://zh.wikipedia.org/wiki/Category:tvN金土連續劇 "wikilink")
-[Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:tvN金土連續劇](https://zh.wikipedia.org/wiki/Category:tvN金土連續劇 "wikilink") [Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
-1.  [千正明崔江熙昭熙齊聚《Heart To
-    Heart》](http://tw.twent.chinayes.com/Content/20141104/KIYXLWHKUEVTC.shtml/)
-
-2.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+1.  [千正明崔江熙昭熙齊聚《Heart To Heart》](http://tw.twent.chinayes.com/Content/20141104/KIYXLWHKUEVTC.shtml/)
+2.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)

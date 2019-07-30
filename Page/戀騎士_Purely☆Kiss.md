@@ -1,5 +1,4 @@
-《**戀騎士
-Purely☆Kiss**》是[AKABEiSOFT2公司的分公司](../Page/AKABEiSOFT2.md "wikilink")在2011年9月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年4月エフォルダムソフト宣告解散，遊戲的版權移交給AKABEiSOFT2公司。\[3\]OVA則是由PinkPineapple在2013年7月26日開始發售。\[4\]
+《**戀騎士 Purely☆Kiss**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")公司的分公司在2011年9月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年4月エフォルダムソフト宣告解散，遊戲的版權移交給AKABEiSOFT2公司。\[3\]OVA則是由PinkPineapple在2013年7月26日開始發售。\[4\]
 
 ## 故事
 
@@ -11,8 +10,7 @@ Purely☆Kiss**》是[AKABEiSOFT2公司的分公司](../Page/AKABEiSOFT2.md "wik
 
   - 藤守要（[CV](../Page/配音員.md "wikilink")：浪遮辰(OVA)、春伊なるせ(OVA 幼年)）
     本作的男主角，以成為騎士為目標。幼年時右手曾經受傷，目前已逐漸恢復。
-  - 愛爾西亞·黑凡斯（エルシア＝ハーヴェンス
-    CV：[一色ヒカル](https://zh.wikipedia.org/wiki/一色ヒカル "wikilink")）
+  - 愛爾西亞·黑凡斯（エルシア＝ハーヴェンス CV：[一色ヒカル](https://zh.wikipedia.org/wiki/一色ヒカル "wikilink")）
     威爾布魯格王國的留學生。白宮學園的一年級學生和エスクワイア的團員。
   - 獅堂真奈（CV：ひなき藍）
     白宮學園的一年級學生和エスクワイア的團員也是要的同學。獅堂財團的大小姐。
@@ -52,8 +50,7 @@ Purely☆Kiss**》是[AKABEiSOFT2公司的分公司](../Page/AKABEiSOFT2.md "wik
 
 ## OVA
 
-OVA版是由PinkPineapple發售。エルシア＝ハーヴェンス篇和藤守由宇篇是18禁的成人動畫，Special
-Edition則是將前兩作合併並改編的一般向動畫。
+OVA版是由PinkPineapple發售。エルシア＝ハーヴェンス篇和藤守由宇篇是18禁的成人動畫，Special Edition則是將前兩作合併並改編的一般向動畫。
 
 ### 主題歌
 
@@ -135,8 +132,7 @@ Edition則是將前兩作合併並改編的一般向動畫。
 
 ## 評價
 
-《戀騎士
-Purely☆Kiss》獲得「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2012」角色設計賞的銀獎。\[10\]另外在Getchu.com的「美少女遊戲大賞2011」中獲得綜合部門第14名\[11\]、繪圖部門第12名。\[12\]
+《戀騎士 Purely☆Kiss》獲得「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2012」角色設計賞的銀獎。\[10\]另外在Getchu.com的「美少女遊戲大賞2011」中獲得綜合部門第14名\[11\]、繪圖部門第12名。\[12\]
 
 ## 參考來源
 
@@ -144,33 +140,17 @@ Purely☆Kiss》獲得「[萌えゲーアワード](https://zh.wikipedia.org/wik
 
   - [エフォルダムソフト](http://effordomsoft.com/)
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2013年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2013年日本成人動畫 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink")
-[Category:Animation_StudiO_Seven](https://zh.wikipedia.org/wiki/Category:Animation_StudiO_Seven "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2013年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2013年日本成人動畫 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:架空專校背景作品](https://zh.wikipedia.org/wiki/Category:架空專校背景作品 "wikilink") [Category:Animation_StudiO_Seven](https://zh.wikipedia.org/wiki/Category:Animation_StudiO_Seven "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.
-2.  [Koikishi Purely ☆ Kiss](https://vndb.org/v7260)The Visual Novel
-    Database
-3.  [エフォルダムソフトのエロアプリブランド達の解散と開発中止](http://spiral-newspaper.jp/smartphone/8425/)WEB
-    SPIRAL NEWSPAPER
-4.  [Effordom's Adult Game Koi Kishi Purely Kiss Gets Video
-    Anime](http://www.animenewsnetwork.com/news/2013-04-13/effordom-adult-game-koi-kishi-purely-kiss-gets-video-anime)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [Koikishi Purely ☆ Kiss](https://vndb.org/v7260)The Visual Novel Database
+3.  [エフォルダムソフトのエロアプリブランド達の解散と開発中止](http://spiral-newspaper.jp/smartphone/8425/)WEB SPIRAL NEWSPAPER
+4.  [Effordom's Adult Game Koi Kishi Purely Kiss Gets Video Anime](http://www.animenewsnetwork.com/news/2013-04-13/effordom-adult-game-koi-kishi-purely-kiss-gets-video-anime)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 5.  [恋騎士Purely☆Kiss](http://erogetrailers.com/soft/7771)ErogeTrailers
 6.
 7.
 8.
-9.  [恋騎士 Purely★Kiss ORIGINAL
-    SOUNDTRACK](http://www.differencia.co.jp/entertainment/koikishi_ost.html)Differencia
+9.  [恋騎士 Purely★Kiss ORIGINAL SOUNDTRACK](http://www.differencia.co.jp/entertainment/koikishi_ost.html)Differencia
 10.
-11. [美少女ゲーム大賞2011
-    総合部門](http://www.getchu.com/pc/2011_g_ranking/)Getchu.com
-12. [美少女ゲーム大賞2011
-    グラフィック部門](http://www.getchu.com/pc/2011_g_ranking/graphic.html)Getchu.com
+11. [美少女ゲーム大賞2011 総合部門](http://www.getchu.com/pc/2011_g_ranking/)Getchu.com
+12. [美少女ゲーム大賞2011 グラフィック部門](http://www.getchu.com/pc/2011_g_ranking/graphic.html)Getchu.com

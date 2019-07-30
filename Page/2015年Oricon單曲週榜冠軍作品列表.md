@@ -1,4 +1,4 @@
-**2015年Oricon單曲週榜冠軍作品列表**列出2015年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2015年共有51首冠軍單曲誕生，有一首單曲能蟬聯冠軍兩周或以上。
+**2015年Oricon單曲週榜冠軍作品列表**列出2015年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2015年共有51首冠軍單曲誕生，有一首單曲能蟬聯冠軍兩周或以上。
 
 ## 冠軍單曲列表
 
@@ -394,6 +394,4 @@
 
 ## 參考資料
 
-[Category:2015年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2015年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2015年音樂排行榜 "wikilink")
+[Category:2015年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2015年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2015年音樂排行榜 "wikilink")

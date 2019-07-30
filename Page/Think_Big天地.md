@@ -1,29 +1,20 @@
-《**Think
-Big天地**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的](../Page/電視廣播有限公司.md "wikilink")[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，接替《[放學ICU](../Page/放學ICU.md "wikilink")》，於2015年1月12日起逢星期一至五16:50－17:20播放，[收視約為](https://zh.wikipedia.org/wiki/收視率 "wikilink")1.4－1.8點。
+《**Think Big天地**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，接替《[放學ICU](../Page/放學ICU.md "wikilink")》，於2015年1月12日起逢星期一至五16:50－17:20播放，[收視約為](https://zh.wikipedia.org/wiki/收視率 "wikilink")1.4－1.8點。
 
 ## 概要
 
-宣傳片顯示本節目內容具有四個基礎理念，分別為「正面樂天（Think Positive）」、「認識科學（Think
-Science）」、「啟發創意（Think Creative）」及「愛護環境（Think
-Green）」。\[1\]
+宣傳片顯示本節目內容具有四個基礎理念，分別為「正面樂天（Think Positive）」、「認識科學（Think Science）」、「啟發創意（Think Creative）」及「愛護環境（Think Green）」。\[1\]
 
-初期每集節目均是在科目主題下拓展課題，進行相關活動、解說和跟中小學生互動的部份，有別於過去多年[無綫電視兒童節目的製作模式](../Page/無綫電視兒童節目.md "wikilink")。而有關模式相信是源自於現任[電視廣播有限公司製作部非戲劇製作總監](../Page/電視廣播有限公司.md "wikilink")[余詠珊](../Page/余詠珊.md "wikilink")，於1993年擔任監製的[亞洲電視兒童節目](../Page/亞洲電視.md "wikilink")《[德尊老師](../Page/安德尊.md "wikilink")》。
+初期每集節目均是在科目主題下拓展課題，進行相關活動、解說和跟中小學生互動的部份，有別於過去多年[無綫電視兒童節目](../Page/無綫電視兒童節目.md "wikilink")的製作模式。而有關模式相信是源自於現任[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作部非戲劇製作總監[余詠珊](../Page/余詠珊.md "wikilink")，於1993年擔任監製的[亞洲電視](../Page/亞洲電視.md "wikilink")兒童節目《[德尊老師](../Page/安德尊.md "wikilink")》。
 
 節目亦首度由綜藝資訊組製作，有別於過去由兒童組製作，同時首次沒有安排小主持演出及製作兒歌MV。
 
-2015年12月21日起，《Think
-Big天地》改用全新形象與小朋友見面，除了每日節目改回涵蓋多種學科範疇以外，每星期均會邀請小學生或Think
-Big
-Family會員參與現場舞台錄影。而2017年6月12日起，就首次大幅更換主持陣容。這些改動使節目逐步恢復近似過往兒童節目模式。\[2\]。
+2015年12月21日起，《Think Big天地》改用全新形象與小朋友見面，除了每日節目改回涵蓋多種學科範疇以外，每星期均會邀請小學生或Think Big Family會員參與現場舞台錄影。而2017年6月12日起，就首次大幅更換主持陣容。這些改動使節目逐步恢復近似過往兒童節目模式。\[2\]。
 
 ## 主持或Big Big小明星童星藝員或嘉賓
 
 ### 常規主持
 
-<timeline> ImageSize = width:800 height:auto barincrement:19 PlotArea =
-left:100 bottom:30 top:20 right:50 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:01/01/2015 till:09/01/2019 TimeAxis =
-orientation:horizontal format:mm/dd/yyyy
+<timeline> ImageSize = width:800 height:auto barincrement:19 PlotArea = left:100 bottom:30 top:20 right:50 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:01/01/2015 till:09/01/2019 TimeAxis = orientation:horizontal format:mm/dd/yyyy
 
 Colors =
 
@@ -541,8 +532,7 @@ Think Big 腦力戰<br />
 
 ### 現有主題
 
-  - 星期一：「搶住嚟答通識比賽」／「Think Big腦力戰」、「英語無難道」／「Patrick
-    Sir爆趣英語逐個捉」／「粵語猜猜猜」、「三年N班實驗室」／「STEM出創意」／「我都畫得到」
+  - 星期一：「搶住嚟答通識比賽」／「Think Big腦力戰」、「英語無難道」／「Patrick Sir爆趣英語逐個捉」／「粵語猜猜猜」、「三年N班實驗室」／「STEM出創意」／「我都畫得到」
       - 走入小學校園讓Think Big主持與小學生，進行一場鬥智慧鬥IQ鬥博學的搶答遊戲。
           - 於2017年4月19日亮相。
           - 原為星期三播放，因新環節「Think Big之森探險團」啟播而調往星期一播放。
@@ -552,24 +542,19 @@ Think Big 腦力戰<br />
       - Linus(原是Nic)與導師Debbie Law演出處境短劇以介紹各個圍繞主題/單字的英語字詞/用法。
           - 於2015年12月21日亮相。2019年6月10日因新環節「Think Big仔考考你　快問快答」而暫停播映。
       - Think Big仔考考你　快問快答
-          - 於2019年6月10日亮相。由[王虹茵配音的](../Page/王虹茵.md "wikilink")「Think
-            Big仔」任旁白，向嘉賓問IQ題。
-      - Patrick
-        Sir（[林溥來](../Page/林溥來.md "wikilink")）教中文俗語的多種說法，糾正記者伍樂怡、邱晴、何依婷(原是茶餐廳夥計林希靈、記者鍾晴、單文柔)的港式英語。
+          - 於2019年6月10日亮相。由[王虹茵](../Page/王虹茵.md "wikilink")配音的「Think Big仔」任旁白，向嘉賓問IQ題。
+      - Patrick Sir（[林溥來](../Page/林溥來.md "wikilink")）教中文俗語的多種說法，糾正記者伍樂怡、邱晴、何依婷(原是茶餐廳夥計林希靈、記者鍾晴、單文柔)的港式英語。
           - 於2015年12月25日亮相。
           - 原為星期五播放，因新環節「訪問校園」啟播而調往星期一隔周播放。
       - 由一眾主持扮鬼扮馬演出一段小劇場，讓小朋友猜猜背後所提及的成語。香港中文大學自學中心高級講師巢立仁博士協助糾正主持的錯字，並詳細解釋成語的意義及提出例句，讓大家更易學入腦。
           - 於2018年7月13日亮相。（已於同年9月3日結束）
           - 原為星期五播放，因新環節「Little Miss Hong Kong」啟播而調往星期一隔周播放。
-      - 由Fred、Linus、Kelly、Sharlene(原是雯希、Dickson、Nic、Jasmin、Phoebe、Freeyon、Karlie)化身為S、T、E和M發掘身邊事物的特別東西，並由STEM
-        Sir解答STEM的原埋。
+      - 由Fred、Linus、Kelly、Sharlene(原是雯希、Dickson、Nic、Jasmin、Phoebe、Freeyon、Karlie)化身為S、T、E和M發掘身邊事物的特別東西，並由STEM Sir解答STEM的原埋。
           - 於2016年9月7日首次亮相。（係隔周播放，並冇完結）
           - 原為星期三播放，因新環節「Think Big之森探險團」啟播而調往星期一隔周播放。
-      - 創意畫家Eric
-        Sir在Mandy(原是Jasmin、Phoebe)面前示範用一個概念畫畫，畫作其後物理上移動便可變成另一物。Mandy(原是Jasmin、Phoebe)亦會於錄影廠指引現場同學仔一同畫畫。
+      - 創意畫家Eric Sir在Mandy(原是Jasmin、Phoebe)面前示範用一個概念畫畫，畫作其後物理上移動便可變成另一物。Mandy(原是Jasmin、Phoebe)亦會於錄影廠指引現場同學仔一同畫畫。
           - 於2015年12月24日亮相。
-          - 原為星期四播放，因新環節「魔幻仙境」啟播而調往星期五播放，因新環節「Little Miss Hong
-            Kong」啟播而調往星期一隔周播放。
+          - 原為星期四播放，因新環節「魔幻仙境」啟播而調往星期五播放，因新環節「Little Miss Hong Kong」啟播而調往星期一隔周播放。
 
 <!-- end list -->
 
@@ -580,26 +565,21 @@ Think Big 腦力戰<br />
 <!-- end list -->
 
   - 星期三：「Think Big之森探險團」
-      - 據說Think
-        Big舞台有種神秘力量，可通往一個奇妙森林，可是人類對環境不斷破壞，令森林面臨威脅。四位探險家分成烈風隊及雷電隊，要通過酋長的一連串鬥智鬥力的考驗，賺取彩色羽毛及斧頭，為最終「拯救頭鱷鱷」的任務爭取優勢。
+      - 據說Think Big舞台有種神秘力量，可通往一個奇妙森林，可是人類對環境不斷破壞，令森林面臨威脅。四位探險家分成烈風隊及雷電隊，要通過酋長的一連串鬥智鬥力的考驗，賺取彩色羽毛及斧頭，為最終「拯救頭鱷鱷」的任務爭取優勢。
           - 於2017年11月8日亮相。
 
 <!-- end list -->
 
   - 星期四：「Think Big冒險之旅」
-      - 堡主、自戀王子離開了古堡，Think
-        Big冒險之旅，帶你走進危機四伏、難關重重、由爵士擁有的古堡，讓各位冒險家展現過人的勇氣和毅力，完成緊張刺激的大冒險，憑首兩回合的神奇魔法寶石為終極任務增加勝算機會，爭奪象徵「最強冒險家」的權杖！
+      - 堡主、自戀王子離開了古堡，Think Big冒險之旅，帶你走進危機四伏、難關重重、由爵士擁有的古堡，讓各位冒險家展現過人的勇氣和毅力，完成緊張刺激的大冒險，憑首兩回合的神奇魔法寶石為終極任務增加勝算機會，爭奪象徵「最強冒險家」的權杖！
           - 於2015年12月23日亮相。
           - 原為星期三播放，因新環節「魔幻仙境」啟播而調往星期四播放。
 
 <!-- end list -->
 
   - 星期五：「Little Miss Hong Kong」
-      - 2017年香港小姐亞軍 及「Think
-        Big天地」主持之一的何依婷(Regina)將擔任小師姐，邀請城中各界的精英，透過禮儀、問答、談吐技巧等等訓練及考驗，從中，選出一位具備了香港小姐潛質，擁有多種不同「美」及
-        智慧並重嘅「Little Miss Hong Kong」，榮登寶座，並接受加冕。
-          - 於2018年8月10日亮相。（已於同年10月12日結束，已改回「think big 腦力戰」「Patrick
-            Sir爆趣英語逐個捉」「我都畫得到」）
+      - 2017年香港小姐亞軍 及「Think Big天地」主持之一的何依婷(Regina)將擔任小師姐，邀請城中各界的精英，透過禮儀、問答、談吐技巧等等訓練及考驗，從中，選出一位具備了香港小姐潛質，擁有多種不同「美」及 智慧並重嘅「Little Miss Hong Kong」，榮登寶座，並接受加冕。
+          - 於2018年8月10日亮相。（已於同年10月12日結束，已改回「think big 腦力戰」「Patrick Sir爆趣英語逐個捉」「我都畫得到」）
 
 ### 過往主題
 
@@ -611,8 +591,7 @@ Think Big 腦力戰<br />
       - 星期五：由體育導師教授各款運動的基本功，Dickson及Linna隨同學習。
       - 2015年12月24日（星期四）首次亮相，2016年8月12日最後播放。
   - 「Ben Sir 醒醒你」
-      - 邀請[歐陽偉豪](../Page/歐陽偉豪.md "wikilink")（Ben
-        Sir），化身「醒神」，指點Dickson及Linna成語中的錯音、錯字。
+      - 邀請[歐陽偉豪](../Page/歐陽偉豪.md "wikilink")（Ben Sir），化身「醒神」，指點Dickson及Linna成語中的錯音、錯字。
       - 2015年12月22日首次亮相，2016年11月9日最後播放。
       - 原為星期二播放，因新環節「魔幻仙境」啟播而調往星期三播放。
   - 「小齊魔幻學堂」
@@ -633,18 +612,15 @@ Think Big 腦力戰<br />
       - 2016年8月16日首次亮相，2017年6月27日最後播放。
   - 「Kid's dish」（星期一）
       - 初級料理師雯希跳出傳統框框，製作一些又好食、又特別的美食。
-      - 2017年2月20日首次亮相，同年10月30日最後播放，共播出35集。2017年8月14日曾因播放一連兩集「Think
-        Big玩創科學園」而停播該環節。
+      - 2017年2月20日首次亮相，同年10月30日最後播放，共播出35集。2017年8月14日曾因播放一連兩集「Think Big玩創科學園」而停播該環節。
   - 「齊齊Art Like」（星期三）
-      - 對藝術充滿熱情，腦裏滿載創意的Messy／Rainy，相信只要發揮Think
-        Big小宇宙，Agnes任何生活材料都能變成意想不到的藝術品。
+      - 對藝術充滿熱情，腦裏滿載創意的Messy／Rainy，相信只要發揮Think Big小宇宙，Agnes任何生活材料都能變成意想不到的藝術品。
           - 於2016年11月16日首次亮相，2017年11月6日（星期一）最後播放。
   - 「訪問校園」（星期五）
       - 由不同學校的學生分享最喜愛的學校地方及活動
           - 於2018年4月20日亮相，同年7月6日最後播放。
   - 「三年N班實驗室」（星期一）
-      - 三年N班實驗室的Naughty非常頑皮，經常欺負 Noisy、Naive、Nosy、Nervous、Negative .
-        但最後會得到博士懲罰。
+      - 三年N班實驗室的Naughty非常頑皮，經常欺負 Noisy、Naive、Nosy、Nervous、Negative . 但最後會得到博士懲罰。
           - 於2017年5月15日亮相，2019年7月1日最後播放。
 
 #### 改版前環節
@@ -769,43 +745,31 @@ Think Big 腦力戰<br />
 
 ## 觀眾互動
 
-製作單位於[TVB周刊第](../Page/TVB周刊.md "wikilink")913期開始，招攬12歲或以下的小朋友加入實行會員制的組織「Think
-Big
-Family」，參與跟本節目相關的活動\[22\]，隨後亦在tvb.com開通有關報名專頁。招募於2016年12月31日截止，並新增家長會員的招攬。
+製作單位於[TVB周刊](../Page/TVB周刊.md "wikilink")第913期開始，招攬12歲或以下的小朋友加入實行會員制的組織「Think Big Family」，參與跟本節目相關的活動\[22\]，隨後亦在tvb.com開通有關報名專頁。招募於2016年12月31日截止，並新增家長會員的招攬。
 
 ## 節目調動
 
-  - 2015年2月19日：由於15:10至17:20直播《[AET羊年賀歲盃國際足球邀請賽](../Page/2015年賀歲盃足球賽.md "wikilink")–南華
-    對 紐約宇宙》，當日提早至14:40-15:10播出。
+  - 2015年2月19日：由於15:10至17:20直播《[AET羊年賀歲盃國際足球邀請賽](../Page/2015年賀歲盃足球賽.md "wikilink")–南華 對 紐約宇宙》，當日提早至14:40-15:10播出。
   - 2015年4月22日：由於約15:30-16:45插播《政改記者會》以直播政改三人組記者會，當日改為16:55-17:20播出。
   - 2015年6月18日：由於約16:15-16:30插播《特別新聞報道》以直播行政長官見記者，前一節目《[幪面戰士](../Page/幪面戰士.md "wikilink")》順延播出，當日順延至17:00-17:25播出。
   - 2016年9月5日：由於09:45-13:00直播《立法會選舉快訊》，當日下午播映節目均順延或暫停播映，當日順延至17:00-17:30播出。
-  - 2017年1月12日：由於17:02-17:06插播《特別新聞報道》以直播[林鄭月娥辭任政務司司長後見記者](../Page/林鄭月娥.md "wikilink")，當日播映節目期間遭中斷。
+  - 2017年1月12日：由於17:02-17:06插播《特別新聞報道》以直播[林鄭月娥](../Page/林鄭月娥.md "wikilink")辭任政務司司長後見記者，當日播映節目期間遭中斷。
   - 2017年1月16日：由於17:03-17:22插播《特別新聞報道》以直播林鄭月娥宣佈參選行政長官，當日播映節目期間遭中斷，改為16:50-17:03及17:22-17:40播出。
   - 2017年4月13日：由於14:55-17:20直播《[2017場地自行車世界錦標賽](https://zh.wikipedia.org/wiki/世界场地自行车锦标赛 "wikilink")》，當日提早至14:15-14:40播出。
-  - 2019年6月18日：由於16:00-16:50插播《特別新聞報道》以直播行政長官見記者，前一節目《[星光樂園II](../Page/星光樂園.md "wikilink")》第一節後半部分及第二節順延播出，當日順延至17:10-17:40播出。
+  - 2019年6月18日：由於16:00-16:50插播《特別新聞報道》以直播行政長官見記者，前一節目《[星光樂園](../Page/星光樂園.md "wikilink")II》第一節後半部分及第二節順延播出，當日順延至17:10-17:40播出。
 
 ## 註釋
 
 ## 外部連結
 
-  - [《Think Big天地》- 主頁 -
-    tvb.com](http://programme.tvb.com/kids/kidsthinkbig20172/)
+  - [《Think Big天地》- 主頁 - tvb.com](http://programme.tvb.com/kids/kidsthinkbig20172/)
   - [《THINK BIG FAMILY》報名專頁](http://event.tvb.com/thinkbig/)
 
-[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink")
-[Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink")
-[Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink")
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink")
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
-[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")
-[Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
+[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
 
 1.  \[<https://www.youtube.com/watch?v=yZPTL4BabrM>　Think Big宣傳片\]
 
-2.  [余德丞、林希靈、黃愷怡、李雯希及阮浩棕正式卸任《Think
-    Big天地》節目主持人身份](https://www.facebook.com/permalink.php?story_fbid=1074486509362838&id=645789165565910&substory_index=0)
+2.  [余德丞、林希靈、黃愷怡、李雯希及阮浩棕正式卸任《Think Big天地》節目主持人身份](https://www.facebook.com/permalink.php?story_fbid=1074486509362838&id=645789165565910&substory_index=0)
 
 3.
 4.  2017年6月26日起
@@ -820,8 +784,7 @@ Family」，參與跟本節目相關的活動\[22\]，隨後亦在tvb.com開通�
 
 9.  2018年4月30日起
 
-10. 為此環節之常任主持（爵士），其餘7位主持則任意選出3-4位以主持當天的[Think
-    Big冒險之旅](https://zh.wikipedia.org/wiki/Think_Big冒險之旅 "wikilink")
+10. 為此環節之常任主持（爵士），其餘7位主持則任意選出3-4位以主持當天的[Think Big冒險之旅](https://zh.wikipedia.org/wiki/Think_Big冒險之旅 "wikilink")
 
 11. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的[搶住嚟答通識比賽](https://zh.wikipedia.org/wiki/搶住嚟答通識比賽 "wikilink")
 
@@ -836,8 +799,7 @@ Family」，參與跟本節目相關的活動\[22\]，隨後亦在tvb.com開通�
 
 17. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的[搶住嚟答通識比賽](https://zh.wikipedia.org/wiki/搶住嚟答通識比賽 "wikilink")
 
-18. 為此環節之常任主持（自戀王子），其餘7位主持則任意選出3-4位以主持當天的[Think
-    Big冒險之旅](https://zh.wikipedia.org/wiki/Think_Big冒險之旅 "wikilink")
+18. 為此環節之常任主持（自戀王子），其餘7位主持則任意選出3-4位以主持當天的[Think Big冒險之旅](https://zh.wikipedia.org/wiki/Think_Big冒險之旅 "wikilink")
 
 19. 為此環節之常任主持（精靈小花），其餘7位主持則任意選出3-4位以主持當天的精靈庭園
 

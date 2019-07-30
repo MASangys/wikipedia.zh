@@ -1,7 +1,4 @@
-**Kiss\&Cry**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Winning
-insight
-M在](https://zh.wikipedia.org/wiki/Winning_insight_M "wikilink")2014年推出的四人女子團體，成員包括BOHYE、HAENA、DIA、SOYUMI
-，其中成員DIA在2009年以 solo 歌手身分出道，加入團體重新開始。
+**Kiss\&Cry**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Winning insight M在](https://zh.wikipedia.org/wiki/Winning_insight_M "wikilink")2014年推出的四人女子團體，成員包括BOHYE、HAENA、DIA、SOYUMI ，其中成員DIA在2009年以 solo 歌手身分出道，加入團體重新開始。
 
 在2014年12月11日，成員DIA以《Paradise》的個人之姿回歸。\[1\]
 
@@ -210,7 +207,7 @@ M在](https://zh.wikipedia.org/wiki/Winning_insight_M "wikilink")2014年推出�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/請回答1994.md" title="wikilink">請回答1994OST</a>《<strong>응답하라 1994 OST Part 6 (tvN 드라마)</strong>》</p>
+<td><p><a href="../Page/請回答1994.md" title="wikilink">請回答1994</a>OST《<strong>응답하라 1994 OST Part 6 (tvN 드라마)</strong>》</p>
 <ul>
 <li>發行日期：2013年12月6日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -252,19 +249,12 @@ M在](https://zh.wikipedia.org/wiki/Winning_insight_M "wikilink")2014年推出�
 
 ## 解散疑雲
 
-2014年9月5日，在電視節目《[SuperStar
-K6](https://zh.wikipedia.org/wiki/SuperStar_K6 "wikilink")》中，成員HAENA被問到團體是否已經解散的問題，當時HAENA確認了。隨後經紀公司公布以下內容：
+2014年9月5日，在電視節目《[SuperStar K6](https://zh.wikipedia.org/wiki/SuperStar_K6 "wikilink")》中，成員HAENA被問到團體是否已經解散的問題，當時HAENA確認了。隨後經紀公司公布以下內容：
 
 ## 參考資料
 
 ## 外部連結
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  [DIA《Paradise》MV](http://kpopn.com/2014/12/11/252814/)

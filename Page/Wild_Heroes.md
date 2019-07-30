@@ -1,12 +1,10 @@
-，是預定由2015年4月19日開始，毎週日日本時間22:30 -
-23:25，於[日本電視台的](../Page/日本電視台.md "wikilink")「[週日連續劇](../Page/日本電視台週日連續劇.md "wikilink")」時段內播映的電視連續劇，是[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[TAKAHIRO初次主演的電視劇](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")。劇情主題將以「主角與於高中時代的壞孩子同伴，7人之間的友情」而展開。\[1\]曾經是不良少年的主角，將會聯同六位伙伴，一同保護一個受到生命威脅的少女\[2\]。
+，是預定由2015年4月19日開始，毎週日日本時間22:30 - 23:25，於[日本電視台](../Page/日本電視台.md "wikilink")的「[週日連續劇](../Page/日本電視台週日連續劇.md "wikilink")」時段內播映的電視連續劇，是[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[TAKAHIRO初次主演的電視劇](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")。劇情主題將以「主角與於高中時代的壞孩子同伴，7人之間的友情」而展開。\[1\]曾經是不良少年的主角，將會聯同六位伙伴，一同保護一個受到生命威脅的少女\[2\]。
 
 ## 背景概要
 
-[日本電視台於](../Page/日本電視台.md "wikilink")2015年2月6日舉行的4月節目改編說明會上公布，將於同年4月開始於每週日晚上十時半開設新的一小時[電視連續劇時段](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。\[3\]。
+[日本電視台](../Page/日本電視台.md "wikilink")於2015年2月6日舉行的4月節目改編說明會上公布，將於同年4月開始於每週日晚上十時半開設新的一小時[電視連續劇時段](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。\[3\]。
 
-同時於說明會上亦公布本劇將會成為該時段第一套播映的劇集，由[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")[TAKAHIRO擔任主角](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")\[4\]。另外，本劇亦將會有其他來自[EXILE
-TRIBE的成員參與演出](../Page/EXILE_TRIBE.md "wikilink")\[5\]\[6\]。
+同時於說明會上亦公布本劇將會成為該時段第一套播映的劇集，由[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")[TAKAHIRO擔任主角](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")\[4\]。另外，本劇亦將會有其他來自[EXILE TRIBE的成員參與演出](../Page/EXILE_TRIBE.md "wikilink")\[5\]\[6\]。
 
 本劇首集將加長半小時，並提前半小時於晚上十時播出。從第二集起每週日晚日本時間22:30 - 23:25播出。
 
@@ -159,8 +157,7 @@ TRIBE的成員參與演出](../Page/EXILE_TRIBE.md "wikilink")\[5\]\[6\]。
 </tbody>
 </table>
 
-  - 第1集播映時間提前30分鐘，並延長30分鐘（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")
-    22:00 - 23:25）。
+  - 第1集播映時間提前30分鐘，並延長30分鐘（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink") 22:00 - 23:25）。
 
 ## 參考資料
 
@@ -170,13 +167,7 @@ TRIBE的成員參與演出](../Page/EXILE_TRIBE.md "wikilink")\[5\]\[6\]。
 
   - [電視劇官方網站](http://www.ntv.co.jp/wild/)
 
-[Category:日本電視台週日晚間十點半連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週日晚間十點半連續劇 "wikilink")
-[Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink")
-[Category:黑幫題材電視劇](https://zh.wikipedia.org/wiki/Category:黑幫題材電視劇 "wikilink")
+[Category:日本電視台週日晚間十點半連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週日晚間十點半連續劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink") [Category:黑幫題材電視劇](https://zh.wikipedia.org/wiki/Category:黑幫題材電視劇 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**JTBC金土連續劇**（），是逢星期五、六韓國晚間在[JTBC電視台播映的電視劇](../Page/JTBC.md "wikilink")。
+**JTBC金土連續劇**（），是逢星期五、六韓國晚間在[JTBC](../Page/JTBC.md "wikilink")電視台播映的電視劇。
 
 ## 播出時間變動
 
@@ -505,7 +505,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年8月9日–<br />
 2019年9月28日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Melo體質" title="wikilink">Melo體質</a><br />
+<td style="text-align: center;"><p><a href="../Page/Melo體質.md" title="wikilink">Melo體質</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a>、、<a href="../Page/韓智恩.md" title="wikilink">韓智恩</a>、<a href="../Page/安宰弘.md" title="wikilink">安宰弘</a>、<a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
@@ -531,7 +531,4 @@
   - [MBC週末連續劇](../Page/MBC週末連續劇.md "wikilink")
   - [SBS週末連續劇](../Page/SBS週末連續劇.md "wikilink")
 
-[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

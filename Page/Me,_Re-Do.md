@@ -1,13 +1,6 @@
-《**Me,
-re-do**》是香港女歌手[容祖兒第三十四張個人唱片](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，於2015年4月9日推出。此EP是[容祖兒自](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")2013年後久違一年多的廣東唱片，共收錄四首歌曲及MV。
+《**Me, re-do**》是香港女歌手[容祖兒第三十四張個人唱片](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，於2015年4月9日推出。此EP是[容祖兒自](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")2013年後久違一年多的廣東唱片，共收錄四首歌曲及MV。
 
-此唱片由[黃偉文擔任製作總監](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，以婚嫁作主題，將西方婚禮新娘出嫁，集合四種不同物件
-(Something Old，Something New，Something Borrowed 及 Something Blue)
-便能得到祝福的傳統習俗作為製作概念。Something
-Old有日本殿堂級歌手[五輪真弓作曲的](../Page/五輪真弓.md "wikilink")《樂觀》；Something
-New有近代新晉女創作人[翁瑋盈作曲的](https://zh.wikipedia.org/wiki/翁瑋盈 "wikilink")《天然呆》；Something
-Borrowed有翻唱[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")1995年的作品《這麼近那麼遠》；Something
-Blue有唱片封套的藍色背景。\[1\]
+此唱片由[黃偉文擔任製作總監](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，以婚嫁作主題，將西方婚禮新娘出嫁，集合四種不同物件 (Something Old，Something New，Something Borrowed 及 Something Blue) 便能得到祝福的傳統習俗作為製作概念。Something Old有日本殿堂級歌手[五輪真弓](../Page/五輪真弓.md "wikilink")作曲的《樂觀》；Something New有近代新晉女創作人[翁瑋盈作曲的](https://zh.wikipedia.org/wiki/翁瑋盈 "wikilink")《天然呆》；Something Borrowed有翻唱[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")1995年的作品《這麼近那麼遠》；Something Blue有唱片封套的藍色背景。\[1\]
 
 ## 專輯介紹
 
@@ -58,7 +51,7 @@ Blue有唱片封套的藍色背景。\[1\]
 <td><p>4</p></td>
 <td><p>飄紅</p></td>
 <td></td>
-<td><p><a href="../Page/馮寶寶.md" title="wikilink">馮寶寶客串演出</a></p></td>
+<td><p><a href="../Page/馮寶寶.md" title="wikilink">馮寶寶</a>客串演出</p></td>
 </tr>
 </tbody>
 </table>
@@ -79,22 +72,16 @@ Blue有唱片封套的藍色背景。\[1\]
 
 ## 所獲獎項
 
-  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")
-    專業推介．叱-{吒}-十大 第四位《樂觀》
-  - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink")
-    十大中文金曲《天然呆》
+  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") 專業推介．叱-{吒}-十大 第四位《樂觀》
+  - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink") 十大中文金曲《天然呆》
   - [2014年度勁歌金曲頒獎典禮](../Page/2014年度勁歌金曲得獎名單.md "wikilink") 勁歌金曲獎《天然呆》
   - [2015年度勁歌金曲頒獎典禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink") 勁歌金曲獎《這麼近那麼遠》
-  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink")
-    十大中文金曲《這麼近那麼遠》
+  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") 十大中文金曲《這麼近那麼遠》
 
 ## 参考资料
 
 ## 外部連結
 
-[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink")
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.

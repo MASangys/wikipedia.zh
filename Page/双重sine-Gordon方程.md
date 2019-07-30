@@ -1,4 +1,4 @@
-**双重sine-Gordon方程**是一个[非线性](https://zh.wikipedia.org/wiki/非线性 "wikilink")[偏微分方程](../Page/偏微分方程.md "wikilink")，它在诸如[铁磁物质研究](../Page/铁磁性.md "wikilink")、、[液晶研究](../Page/液晶.md "wikilink")、[氦](../Page/氦.md "wikilink")、等[工程物理系领域有广泛的運用](https://zh.wikipedia.org/wiki/工程物理 "wikilink")。双重sine-Gordon方程形式如下：\[1\]
+**双重sine-Gordon方程**是一个[非线性](https://zh.wikipedia.org/wiki/非线性 "wikilink")[偏微分方程](../Page/偏微分方程.md "wikilink")，它在诸如[铁磁物质研究](../Page/铁磁性.md "wikilink")、、[液晶](../Page/液晶.md "wikilink")研究、[氦](../Page/氦.md "wikilink")、等[工程物理系领域有广泛的運用](https://zh.wikipedia.org/wiki/工程物理 "wikilink")。双重sine-Gordon方程形式如下：\[1\]
 
 \(u_{xt}=asin(u)+bsin(2u)\)
 
@@ -95,6 +95,4 @@
 
 [Category:非线性偏微分方程](https://zh.wikipedia.org/wiki/Category:非线性偏微分方程 "wikilink")
 
-1.  Juntao Fu,Shikuo Liu and Shida Liu,Exact Jacobian Elliptic Function
-    Solutions to the Double Sine-Gordon Equation,Z.Naturforsch.
-    60a,301-312 2005
+1.  Juntao Fu,Shikuo Liu and Shida Liu,Exact Jacobian Elliptic Function Solutions to the Double Sine-Gordon Equation,Z.Naturforsch. 60a,301-312 2005

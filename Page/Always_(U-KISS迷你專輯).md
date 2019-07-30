@@ -1,4 +1,4 @@
-《**Always**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS第十張韓語迷你專輯](../Page/U-KISS.md "wikilink")，於2015年1月23日發行，主打歌曲為《遊樂場》（）\[1\]。
+《**Always**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")第十張韓語迷你專輯，於2015年1月23日發行，主打歌曲為《遊樂場》（）\[1\]。
 
 ## 曲目
 
@@ -93,9 +93,7 @@
 
 ## 参考文献
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

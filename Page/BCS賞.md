@@ -1,10 +1,8 @@
-**BCS賞**（），或稱「**建築業協會獎**」，是表揚[日本國內優秀](../Page/日本.md "wikilink")[建築作品的獎項](https://zh.wikipedia.org/wiki/建築 "wikilink")。BCS為建築業協會（**B**uilding
-**C**ontractors **S**ociety）的簡稱。
+**BCS賞**（），或稱「**建築業協會獎**」，是表揚[日本](../Page/日本.md "wikilink")國內優秀[建築作品的獎項](https://zh.wikipedia.org/wiki/建築 "wikilink")。BCS為建築業協會（**B**uilding **C**ontractors **S**ociety）的簡稱。
 
 ## 概要
 
-[Iwamizawa-sta_BCS-award_memorial-plate.JPG](https://zh.wikipedia.org/wiki/File:Iwamizawa-sta_BCS-award_memorial-plate.JPG "fig:Iwamizawa-sta_BCS-award_memorial-plate.JPG")）\]\]
-1960年（[昭和](../Page/昭和.md "wikilink")35年）建築業協會初代理事長竹中藤右衛門以「打造優秀的建築物不只在設計上，建築主的理解與其施工者的施工技術也是非常重要」的理念所成立之獎項。
+[Iwamizawa-sta_BCS-award_memorial-plate.JPG](https://zh.wikipedia.org/wiki/File:Iwamizawa-sta_BCS-award_memorial-plate.JPG "fig:Iwamizawa-sta_BCS-award_memorial-plate.JPG")）\]\] 1960年（[昭和](../Page/昭和.md "wikilink")35年）建築業協會初代理事長竹中藤右衛門以「打造優秀的建築物不只在設計上，建築主的理解與其施工者的施工技術也是非常重要」的理念所成立之獎項。
 
 日本國內建築物啟用1年後成為評選對象，由學者、[承建商等評選委員選出得獎作品](https://zh.wikipedia.org/wiki/承建商 "wikilink")。每年選出10～20件，至2011年（平成23年）為止的得獎作品總數達832件（其中特別賞62件）\[1\]。
 
@@ -30,7 +28,7 @@
   -
   -
   -
-  - [高槻市廳舍](../Page/高槻市.md "wikilink")
+  - [高槻市](../Page/高槻市.md "wikilink")廳舍
 
   - [神戶稅關本關](https://zh.wikipedia.org/wiki/神戶稅關 "wikilink")
 
@@ -92,7 +90,7 @@
 
   - [福岡巨蛋](../Page/福岡巨蛋.md "wikilink")
 
-  - [阪神競馬場](../Page/阪神競馬場.md "wikilink")、[東京競馬場展台](../Page/東京競馬場.md "wikilink")
+  - [阪神競馬場](../Page/阪神競馬場.md "wikilink")、[東京競馬場](../Page/東京競馬場.md "wikilink")展台
 
   - [橫濱球場](../Page/橫濱球場.md "wikilink")
 
@@ -150,7 +148,7 @@
 
   - [HBC會館](../Page/北海道放送.md "wikilink")
 
-  - [讀賣電視台新社屋](../Page/讀賣電視台.md "wikilink")
+  - [讀賣電視台](../Page/讀賣電視台.md "wikilink")新社屋
 
   - [日本電視台大廈](https://zh.wikipedia.org/wiki/日本電視台大廈 "wikilink")
 
@@ -163,10 +161,9 @@
 
   - 其他
 
-[Suzakumon_nara.jpg](https://zh.wikipedia.org/wiki/File:Suzakumon_nara.jpg "fig:Suzakumon_nara.jpg")
-[Saikosaibansho.jpg](https://zh.wikipedia.org/wiki/File:Saikosaibansho.jpg "fig:Saikosaibansho.jpg")
+[Suzakumon_nara.jpg](https://zh.wikipedia.org/wiki/File:Suzakumon_nara.jpg "fig:Suzakumon_nara.jpg") [Saikosaibansho.jpg](https://zh.wikipedia.org/wiki/File:Saikosaibansho.jpg "fig:Saikosaibansho.jpg")
 
-  - [名古屋城天守閣](../Page/名古屋城.md "wikilink")
+  - [名古屋城](../Page/名古屋城.md "wikilink")天守閣
 
   -
   - [關西國際機場航廈](https://zh.wikipedia.org/wiki/關西國際機場 "wikilink")
@@ -202,8 +199,6 @@
 
   - [日本建設業連合会（BCS賞）](http://www.nikkenren.com/kenchiku/bcs/)
 
-[Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink")
-[Category:建築獎項](https://zh.wikipedia.org/wiki/Category:建築獎項 "wikilink")
-[Category:日本奖励](https://zh.wikipedia.org/wiki/Category:日本奖励 "wikilink")
+[Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink") [Category:建築獎項](https://zh.wikipedia.org/wiki/Category:建築獎項 "wikilink") [Category:日本奖励](https://zh.wikipedia.org/wiki/Category:日本奖励 "wikilink")
 
 1.

@@ -1,7 +1,6 @@
-Monster Collection
-(日文:モンスター・コレクション，モンスター・コレクションTCG，簡稱：モンコレ，以下稱為遊戲)是一款日本的[集換式紙牌遊戲](https://zh.wikipedia.org/wiki/集換式紙牌遊戲 "wikilink")，是由開發，並於1997年中[富士見書房發售](../Page/富士見書房.md "wikilink")。不過在2003年12月推出"聖王の刻印"系列後起暫時停止出售新系列，一直到2008年7月後重新推出新系列"神霊獣の咆哮"。
+Monster Collection (日文:モンスター・コレクション，モンスター・コレクションTCG，簡稱：モンコレ，以下稱為遊戲)是一款日本的[集換式紙牌遊戲](https://zh.wikipedia.org/wiki/集換式紙牌遊戲 "wikilink")，是由開發，並於1997年中[富士見書房](../Page/富士見書房.md "wikilink")發售。不過在2003年12月推出"聖王の刻印"系列後起暫時停止出售新系列，一直到2008年7月後重新推出新系列"神霊獣の咆哮"。
 
-2011年8月開始由發售"[水瓶戰記](../Page/水瓶戰記.md "wikilink")"的[Broccoli取得遊戲的經營權](../Page/Broccoli.md "wikilink")。\[1\]
+2011年8月開始由發售"[水瓶戰記](../Page/水瓶戰記.md "wikilink")"的[Broccoli](../Page/Broccoli.md "wikilink")取得遊戲的經營權。\[1\]
 
 於2000年推出的日本動畫"[六門天外](../Page/六門天外.md "wikilink")"就是利用本遊戲的世界觀來作為背景。
 
@@ -132,12 +131,10 @@ Monster Collection
 ## 外部連結
 
   - [官方網站(日文)](http://moncolle-tcg.com/)
-  - [舊官方網站（富士見書房）](https://web.archive.org/web/20080313060804/http://www.fujimishobo.co.jp/game/moncolle/)
-    - ※ 2008年3月後停止更新
+  - [舊官方網站（富士見書房）](https://web.archive.org/web/20080313060804/http://www.fujimishobo.co.jp/game/moncolle/) - ※ 2008年3月後停止更新
   - [MC教學影片(中文)](https://www.youtube.com/watch?v=zrGcl0-Dr5M)
   - [GameLives-遊戲人間:桌上遊戲玩樂社(MC中文交流網站)_](http://www.gamelives.hk/)
 
-[Category:交換卡片遊戲](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲 "wikilink")
-[Category:Broccoli](https://zh.wikipedia.org/wiki/Category:Broccoli "wikilink")
+[Category:交換卡片遊戲](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲 "wikilink") [Category:Broccoli](https://zh.wikipedia.org/wiki/Category:Broccoli "wikilink")
 
 1.

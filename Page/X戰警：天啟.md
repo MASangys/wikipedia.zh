@@ -1,20 +1,18 @@
-</ref> | sg_name = X战警：天启灭世战 }}
-《**X战警：天启**》（）是一部由[布莱恩·辛格执导的](https://zh.wikipedia.org/wiki/布莱恩·辛格 "wikilink")2016年[美国](../Page/美国.md "wikilink")[超级英雄电影](https://zh.wikipedia.org/wiki/超级英雄电影 "wikilink")，改編自[漫威漫畫出版的漫畫書](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》。本片為2014年電影《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集和「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第九部作品，故事的時間點設定於《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》中1973年的10年後。[賽門·金柏格負責編劇並與](../Page/賽門·金柏格.md "wikilink")、[麥可·道格堤和辛格提供故事](../Page/麥可·道格堤.md "wikilink")。由[詹姆斯·麦卡沃伊](https://zh.wikipedia.org/wiki/詹姆斯·麦卡沃伊 "wikilink")、
-[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[詹妮弗·劳伦斯](https://zh.wikipedia.org/wiki/詹妮弗·劳伦斯 "wikilink")、[尼古拉斯·霍尔特](../Page/尼古拉斯·霍尔特.md "wikilink")、[蘿絲·拜恩](../Page/蘿絲·拜恩.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[奧莉薇亞·孟恩以及](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")[盧卡斯·提爾主演](../Page/盧卡斯·提爾.md "wikilink")。
+</ref> | sg_name = X战警：天启灭世战 }} 《**X战警：天启**》（）是一部由[布莱恩·辛格执导的](https://zh.wikipedia.org/wiki/布莱恩·辛格 "wikilink")2016年[美国](../Page/美国.md "wikilink")[超级英雄电影](https://zh.wikipedia.org/wiki/超级英雄电影 "wikilink")，改編自[漫威漫畫](../Page/漫威漫畫.md "wikilink")出版的漫畫書《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》。本片為2014年電影《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集和「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第九部作品，故事的時間點設定於《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》中1973年的10年後。[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")負責編劇並與、[麥可·道格堤](../Page/麥可·道格堤.md "wikilink")和辛格提供故事。由[詹姆斯·麦卡沃伊](https://zh.wikipedia.org/wiki/詹姆斯·麦卡沃伊 "wikilink")、 [麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[詹妮弗·劳伦斯](https://zh.wikipedia.org/wiki/詹妮弗·劳伦斯 "wikilink")、[尼古拉斯·霍尔特](../Page/尼古拉斯·霍尔特.md "wikilink")、[蘿絲·拜恩](../Page/蘿絲·拜恩.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[奧莉薇亞·孟恩以及](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")[盧卡斯·提爾](../Page/盧卡斯·提爾.md "wikilink")主演。
 
-電影於2015年4月27日在[加拿大的](../Page/加拿大.md "wikilink")[蒙特婁開始拍攝](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。[二十世紀福斯將本片定於](../Page/二十世紀福斯.md "wikilink")2016年5月27日在美國上映。
+電影於2015年4月27日在[加拿大](../Page/加拿大.md "wikilink")的[蒙特婁開始拍攝](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")將本片定於2016年5月27日在美國上映。
 
 ## 劇情
 
-[西元前](https://zh.wikipedia.org/wiki/西元前 "wikilink")3600年，人類世界首位變種人「[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")」恩·沙巴·奴爾統治[古埃及](../Page/古埃及.md "wikilink")，被人民集體膜拜為「神」，長久以來靠轉移[意識至年輕軀體而長生不老](https://zh.wikipedia.org/wiki/意識 "wikilink")，由此累積許多其他變種人力量。但一群受盡他統治的，在他進行意識轉移的儀式當天發動[起義](https://zh.wikipedia.org/wiki/起義 "wikilink")，破壞金字塔[地基而將其活埋入地底](../Page/地基.md "wikilink")。天啟身邊的死前用能力守護他的新軀體，使他倖免於難且陷入沉睡，其歷史從此被抹除。
+[西元前](https://zh.wikipedia.org/wiki/西元前 "wikilink")3600年，人類世界首位變種人「[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")」恩·沙巴·奴爾統治[古埃及](../Page/古埃及.md "wikilink")，被人民集體膜拜為「神」，長久以來靠轉移[意識至年輕軀體而長生不老](https://zh.wikipedia.org/wiki/意識 "wikilink")，由此累積許多其他變種人力量。但一群受盡他統治的，在他進行意識轉移的儀式當天發動[起義](https://zh.wikipedia.org/wiki/起義 "wikilink")，破壞金字塔[地基](../Page/地基.md "wikilink")而將其活埋入地底。天啟身邊的死前用能力守護他的新軀體，使他倖免於難且陷入沉睡，其歷史從此被抹除。
 
-1983年，人類和變種人和平共處十年，在[埃及](../Page/埃及.md "wikilink")[開羅仍存有一小部分膜拜天啟的](https://zh.wikipedia.org/wiki/開羅 "wikilink")[狂熱份子](https://zh.wikipedia.org/wiki/宗教狂熱 "wikilink")，他們挖出其墓穴帶入大量陽光，天啟因此從地底甦醒，走出去後遇到以偷竊為生的變種人[奧洛羅·夢洛](../Page/暴風女.md "wikilink")，其能夠控制[氣象](https://zh.wikipedia.org/wiki/氣象 "wikilink")。天啟透過她的電視瞭解現今社會的歷史，靠觸碰來提升奧洛羅的能力，將她作為自己的第一位騎士。[瑞雯·達克霍自從在](../Page/魔形女.md "wikilink")[華盛頓的壯舉後成為變種人的模範](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")，她於[柏林的地下格鬥場救出一名能](../Page/柏林.md "wikilink")[瞬間移動的男孩](../Page/瞬間移動.md "wikilink")[寇特·華格納](../Page/夜行者_\(漫畫\).md "wikilink")，通過黑市經營者的偽造身份而將他偷渡至美國，安頓在[查爾斯·賽維爾的變種人學院](../Page/X教授.md "wikilink")。而查爾斯的前戰友[亞歷克斯·桑瑪斯將他同是變種人的弟弟](../Page/衝擊波_\(漫畫\).md "wikilink")[史考特也送到學校](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，其眼睛會失控性地發射強大激光，查爾斯便給他一副深色墨鏡抑制住，他跟一位有強大心電感應能力的女孩[琴·葛雷成為朋友](../Page/琴·葛雷.md "wikilink")。
+1983年，人類和變種人和平共處十年，在[埃及](../Page/埃及.md "wikilink")[開羅仍存有一小部分膜拜天啟的](https://zh.wikipedia.org/wiki/開羅 "wikilink")[狂熱份子](https://zh.wikipedia.org/wiki/宗教狂熱 "wikilink")，他們挖出其墓穴帶入大量陽光，天啟因此從地底甦醒，走出去後遇到以偷竊為生的變種人[奧洛羅·夢洛](../Page/暴風女.md "wikilink")，其能夠控制[氣象](https://zh.wikipedia.org/wiki/氣象 "wikilink")。天啟透過她的電視瞭解現今社會的歷史，靠觸碰來提升奧洛羅的能力，將她作為自己的第一位騎士。[瑞雯·達克霍自從在](../Page/魔形女.md "wikilink")[華盛頓的壯舉後成為變種人的模範](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")，她於[柏林](../Page/柏林.md "wikilink")的地下格鬥場救出一名能[瞬間移動](../Page/瞬間移動.md "wikilink")的男孩[寇特·華格納](../Page/夜行者_\(漫畫\).md "wikilink")，通過黑市經營者的偽造身份而將他偷渡至美國，安頓在[查爾斯·賽維爾的變種人學院](../Page/X教授.md "wikilink")。而查爾斯的前戰友[亞歷克斯·桑瑪斯將他同是變種人的弟弟](../Page/衝擊波_\(漫畫\).md "wikilink")[史考特也送到學校](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，其眼睛會失控性地發射強大激光，查爾斯便給他一副深色墨鏡抑制住，他跟一位有強大心電感應能力的女孩[琴·葛雷](../Page/琴·葛雷.md "wikilink")成為朋友。
 
 天啟找上卡利班尋找其他變種人，相繼招募卡利班的女保鏢[靈蝶](../Page/靈蝶.md "wikilink")、以及長著翅膀的格鬥場選手[天使作為第二和第三騎士](../Page/天使_\(漫威漫畫\).md "wikilink")。而如今隱姓埋名回到家鄉[波蘭成家立業的](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[艾瑞克·藍歇爾](../Page/萬磁王.md "wikilink")，一日在他工作的煉鐵廠中為了救一個將被砸死的同事而不慎暴露身份，導致本地警察前來追捕他。艾瑞克的年幼女兒妮娜遺傳到動物控制能力，開始操縱鳥群對警察攻擊。在混亂中，艾瑞克的妻女雙雙被一支弓箭意外殺死，而艾瑞克在悲憤下殺光所有警察，回工廠準備找告密的同事算賬。但天啟趕到幫艾瑞克殺光在場人士，藉由艾瑞克的憤怒提升他的能力。
 
-查爾斯為了調查世界發生的怪異現象，來到[中情局接見曾經的夥伴兼女友](https://zh.wikipedia.org/wiki/中情局 "wikilink")；其記憶先前被查爾斯抹除。查爾斯剛將她請回學校作為顧問，得知艾瑞克被發現的消息後決定靠腦波強化機尋找他。艾瑞克由於執意要對人類復仇而不聽勸阻，但天啟感覺到查爾斯的訊號後，靠反制入侵來控制住查爾斯，迫使讓他用遠程遙控將世界所有的[核武器全部發射至太空中](../Page/核武器.md "wikilink")，藉以防止人類干擾自己的計畫。眾人將失控的強化機摧毀後，天啟等人到場抓走查爾斯，亞歴克斯為了阻止對方而發射能量，卻不慎打中戰機的引擎而炸毀整座校園。
+查爾斯為了調查世界發生的怪異現象，來到[中情局接見曾經的夥伴兼女友](https://zh.wikipedia.org/wiki/中情局 "wikilink")；其記憶先前被查爾斯抹除。查爾斯剛將她請回學校作為顧問，得知艾瑞克被發現的消息後決定靠腦波強化機尋找他。艾瑞克由於執意要對人類復仇而不聽勸阻，但天啟感覺到查爾斯的訊號後，靠反制入侵來控制住查爾斯，迫使讓他用遠程遙控將世界所有的[核武器](../Page/核武器.md "wikilink")全部發射至太空中，藉以防止人類干擾自己的計畫。眾人將失控的強化機摧毀後，天啟等人到場抓走查爾斯，亞歴克斯為了阻止對方而發射能量，卻不慎打中戰機的引擎而炸毀整座校園。
 
-[彼得·馬克西莫夫得知自己是艾瑞克的](../Page/快銀.md "wikilink")“私生子”，來到校園打算問一些關於父親的事情，注意到爆炸後快速將所有人疏散出校園。最靠近爆炸的亞歴克斯因此陣亡，但[威廉·史崔克帶領軍隊來到校園](../Page/威廉·史崔克.md "wikilink")，捕獲瑞雯、[漢克](../Page/野獸_\(漫畫\).md "wikilink")、彼得、和莫伊拉，將其他學生留在原地。躲在遠處的琴、史考特和寇特則以隱形方式跟著他們上飛機，一路跟到位於亞克萊湖旁的軍事基地。史崔克用不久前發射所有核武器的事情歸為變種人起義，對瑞雯等人進行審問，琴等人為了救出他們，只能釋出一個被稱為「X武器」且雙手擁有金鋼爪的[神秘男子](../Page/金鋼狼.md "wikilink")，讓他殺光基地中大部分軍方。但琴用心靈感應恢復男子大腦中的部分記憶，並讓他想起自己的名字為羅根。在基地發生混亂之下，史崔克搭飛機離開，瑞雯等人也被琴等人救出。所有人為了阻止天啟與拯救查爾斯，於是換上基地中的戰服，並搭乘軍方戰機前往。
+[彼得·馬克西莫夫得知自己是艾瑞克的](../Page/快銀.md "wikilink")“私生子”，來到校園打算問一些關於父親的事情，注意到爆炸後快速將所有人疏散出校園。最靠近爆炸的亞歴克斯因此陣亡，但[威廉·史崔克](../Page/威廉·史崔克.md "wikilink")帶領軍隊來到校園，捕獲瑞雯、[漢克](../Page/野獸_\(漫畫\).md "wikilink")、彼得、和莫伊拉，將其他學生留在原地。躲在遠處的琴、史考特和寇特則以隱形方式跟著他們上飛機，一路跟到位於亞克萊湖旁的軍事基地。史崔克用不久前發射所有核武器的事情歸為變種人起義，對瑞雯等人進行審問，琴等人為了救出他們，只能釋出一個被稱為「X武器」且雙手擁有金鋼爪的[神秘男子](../Page/金鋼狼.md "wikilink")，讓他殺光基地中大部分軍方。但琴用心靈感應恢復男子大腦中的部分記憶，並讓他想起自己的名字為羅根。在基地發生混亂之下，史崔克搭飛機離開，瑞雯等人也被琴等人救出。所有人為了阻止天啟與拯救查爾斯，於是換上基地中的戰服，並搭乘軍方戰機前往。
 
 天啟帶領騎士摧毀開羅後重新建立金字塔，打算將意識轉移至查爾斯的軀體中以得到他的思想控制能力。艾瑞克開始扭轉地球[磁極](../Page/磁場.md "wikilink")，造成世界各地出現災難與傷亡，查爾斯暗中對琴發出求救感應，而所有X戰警們到場和四騎士對決。查爾斯在轉移過程中失去頭髮，寇特擊敗天使後，在千鈞一髮之際將查爾斯轉移走，使得天啟在轉移未完成之下回到原來的軀體。在瑞雯在影響下，艾瑞克和奧洛羅領略到天啟過於殘酷而同樣決定背叛他，所有人合力對抗天啟，而查爾斯則運用轉移的連結透過自身的能力進入中和天啟對抗；但無奈天啟太過強大並在各方面反制眾人而完全不敵。查爾斯呼籲琴釋放出她身體裏的強大潛能，讓她以鳳凰之力摧毀天啟的意志，眾X戰警聯手將天啟化為灰燼。
 
@@ -182,7 +180,7 @@ Stan Lee</p></td>
 
 ### 發展
 
-2013年12月，[布莱恩·辛格宣布](../Page/布萊恩·辛格.md "wikilink")，《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集名為《X戰警：天啟》，並由[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")、和麥可·多爾蒂編劇\[1\]。據辛格所述，本集的重點都將放於變種人的起源\[2\]。辛格表示，這將背景1983年代的《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》完成一三部曲\[3\]\[4\]。演員[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[伊凡·彼得斯](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")、[盧卡斯·提爾以及](../Page/盧卡斯·提爾.md "wikilink")[蘿絲·拜恩和系列部分的原班人馬都將回歸演出](../Page/蘿絲·拜恩.md "wikilink")\[5\]\[6\]\[7\]。而[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女也將現身於電影中](../Page/暴風女.md "wikilink")\[8\]。2014年11月24日，宣布[奧斯卡·伊薩克將於電影中飾演反派](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")"[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")"\[9\]。2015年1月17日，宣布原版X教授演員[派崔克·史都華](https://zh.wikipedia.org/wiki/派崔克·史都華 "wikilink")、萬磁王演員[伊恩·麥克連將不會現身於電影中](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")\[10\]。2015年1月22日，辛格於自己的推特上宣布，[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納和](../Page/蘇菲·特納.md "wikilink")[雅莉珊卓·希普將分別飾演年輕版的](../Page/雅莉珊卓·希普.md "wikilink")[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女](../Page/暴風女.md "wikilink")\[11\]\[12\]。2015年2月19日辛格宣布[寇帝·史密-麥菲演出年輕版藍魔鬼](../Page/寇帝·史密-麥菲.md "wikilink")。同年3月，[珍妮佛·勞倫斯表示本片將會是自己飾演](../Page/珍妮佛·勞倫斯.md "wikilink")[魔形女的最後一部](../Page/魔形女.md "wikilink")\[13\]。此外，[拉娜·康多飾演](../Page/拉娜·康多.md "wikilink")[歡歡](../Page/歡歡_\(漫畫\).md "wikilink")，[班·哈迪則飾演](https://zh.wikipedia.org/wiki/班·哈迪 "wikilink")[天使](../Page/天使_\(漫威漫畫\).md "wikilink")，[靈蝶由](../Page/靈蝶.md "wikilink")[奥利维亚·穆恩飾演](../Page/奥利维亚·穆恩.md "wikilink")。\[14\]\[15\]\[16\]。
+2013年12月，[布莱恩·辛格宣布](../Page/布萊恩·辛格.md "wikilink")，《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集名為《X戰警：天啟》，並由[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")、和麥可·多爾蒂編劇\[1\]。據辛格所述，本集的重點都將放於變種人的起源\[2\]。辛格表示，這將背景1983年代的《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》完成一三部曲\[3\]\[4\]。演員[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[伊凡·彼得斯](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")、[盧卡斯·提爾](../Page/盧卡斯·提爾.md "wikilink")以及[蘿絲·拜恩](../Page/蘿絲·拜恩.md "wikilink")和系列部分的原班人馬都將回歸演出\[5\]\[6\]\[7\]。而[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女](../Page/暴風女.md "wikilink")也將現身於電影中\[8\]。2014年11月24日，宣布[奧斯卡·伊薩克將於電影中飾演反派](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")"[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")"\[9\]。2015年1月17日，宣布原版X教授演員[派崔克·史都華](https://zh.wikipedia.org/wiki/派崔克·史都華 "wikilink")、萬磁王演員[伊恩·麥克連將不會現身於電影中](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")\[10\]。2015年1月22日，辛格於自己的推特上宣布，[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")和[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")將分別飾演年輕版的[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女](../Page/暴風女.md "wikilink")\[11\]\[12\]。2015年2月19日辛格宣布[寇帝·史密-麥菲](../Page/寇帝·史密-麥菲.md "wikilink")演出年輕版藍魔鬼。同年3月，[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")表示本片將會是自己飾演[魔形女](../Page/魔形女.md "wikilink")的最後一部\[13\]。此外，[拉娜·康多](../Page/拉娜·康多.md "wikilink")飾演[歡歡](../Page/歡歡_\(漫畫\).md "wikilink")，[班·哈迪則飾演](https://zh.wikipedia.org/wiki/班·哈迪 "wikilink")[天使](../Page/天使_\(漫威漫畫\).md "wikilink")，[靈蝶](../Page/靈蝶.md "wikilink")由[奥利维亚·穆恩](../Page/奥利维亚·穆恩.md "wikilink")飾演。\[14\]\[15\]\[16\]。
 
 ### 拍攝
 
@@ -194,11 +192,11 @@ Stan Lee</p></td>
 
 ### 評價
 
-[爛番茄新鮮度](../Page/爛番茄.md "wikilink")47%，基於325條評論，平均分為5.66/10，觀眾評價65%\[21\]，[Metacritic得分](../Page/Metacritic.md "wikilink")52\[22\]，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")7.4分，評價兩極，大多批評反派的塑造不佳和劇情上的老調重彈。
+[爛番茄](../Page/爛番茄.md "wikilink")新鮮度47%，基於325條評論，平均分為5.66/10，觀眾評價65%\[21\]，[Metacritic](../Page/Metacritic.md "wikilink")得分52\[22\]，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")7.4分，評價兩極，大多批評反派的塑造不佳和劇情上的老調重彈。
 
 ### 票房
 
-北美方面，據預測在[亡兵紀念日至週末四天能獲得](../Page/亡兵紀念日.md "wikilink")1.2億美元的票房\[23\]\[24\]。但北美首映週末三天累積票房卻僅有6500萬美元，比預期的8000萬低上一截\[25\]。
+北美方面，據預測在[亡兵紀念日](../Page/亡兵紀念日.md "wikilink")至週末四天能獲得1.2億美元的票房\[23\]\[24\]。但北美首映週末三天累積票房卻僅有6500萬美元，比預期的8000萬低上一截\[25\]。
 
 中国大陆方面，首周3天取得3.8亿人民币居冠，次周获得2.6亿居亚军，最终票房8.0億人民币\[26\]。
 
@@ -208,8 +206,7 @@ Stan Lee</p></td>
 
 2016年5月，賽門·金柏格表示，未來的《X戰警》電影將設定於1990年代，並談到想重拍\[32\]\[33\]\[34\]\[35\]。辛格表示，自己將不再執導該系列，但仍有回歸的機會\[36\]。2016年11月9日，金伯格向《[好萊塢報導](https://zh.wikipedia.org/wiki/好萊塢報導 "wikilink")》表示，下一部《X戰警》電影將會是個軟重啟，他仍繼續參與劇本，而珍妮佛·勞倫斯、麥可·法斯賓達、尼可拉斯·霍特和詹姆斯·麥艾維仍樂觀性的能夠繼續出現\[37\]。
 
-Production Weekly報導，下一部《X戰警》電影定名為《X戰警：超新星》（*X-Men:
-Supernova*）\[38\]。2017年2月，蘇菲·特納透露，下一部電影的製作很快就會開始\[39\]。電影最快有望於2017年夏季開拍，且據傳，金柏格有望擔任導演，成為他的導演處女作。後來，金柏格表示，《X戰警：超新星》並非正名。
+Production Weekly報導，下一部《X戰警》電影定名為《X戰警：超新星》（*X-Men: Supernova*）\[38\]。2017年2月，蘇菲·特納透露，下一部電影的製作很快就會開始\[39\]。電影最快有望於2017年夏季開拍，且據傳，金柏格有望擔任導演，成為他的導演處女作。後來，金柏格表示，《X戰警：超新星》並非正名。
 
 ## 備註
 
@@ -232,20 +229,7 @@ Supernova*）\[38\]。2017年2月，蘇菲·特納透露，下一部電影的製
   -
   -
   -
-[Category:2016年美國電影](https://zh.wikipedia.org/wiki/Category:2016年美國電影 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink")
-[Category:2016年3D电影](https://zh.wikipedia.org/wiki/Category:2016年3D电影 "wikilink")
-[Category:美國動作片](https://zh.wikipedia.org/wiki/Category:美國動作片 "wikilink")
-[Category:美国3D電影](https://zh.wikipedia.org/wiki/Category:美国3D電影 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:布萊恩·辛格電影](https://zh.wikipedia.org/wiki/Category:布萊恩·辛格電影 "wikilink")
-[Category:1983年背景電影](https://zh.wikipedia.org/wiki/Category:1983年背景電影 "wikilink")
-[Category:蒙特利尔取景電影](https://zh.wikipedia.org/wiki/Category:蒙特利尔取景電影 "wikilink")
-[Category:古埃及背景電影](https://zh.wikipedia.org/wiki/Category:古埃及背景電影 "wikilink")
-[Category:埃及背景電影](https://zh.wikipedia.org/wiki/Category:埃及背景電影 "wikilink")
-[Category:X戰警電影](https://zh.wikipedia.org/wiki/Category:X戰警電影 "wikilink")
-[Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink")
+[Category:2016年美國電影](https://zh.wikipedia.org/wiki/Category:2016年美國電影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink") [Category:2016年3D电影](https://zh.wikipedia.org/wiki/Category:2016年3D电影 "wikilink") [Category:美國動作片](https://zh.wikipedia.org/wiki/Category:美國動作片 "wikilink") [Category:美国3D電影](https://zh.wikipedia.org/wiki/Category:美国3D電影 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:布萊恩·辛格電影](https://zh.wikipedia.org/wiki/Category:布萊恩·辛格電影 "wikilink") [Category:1983年背景電影](https://zh.wikipedia.org/wiki/Category:1983年背景電影 "wikilink") [Category:蒙特利尔取景電影](https://zh.wikipedia.org/wiki/Category:蒙特利尔取景電影 "wikilink") [Category:古埃及背景電影](https://zh.wikipedia.org/wiki/Category:古埃及背景電影 "wikilink") [Category:埃及背景電影](https://zh.wikipedia.org/wiki/Category:埃及背景電影 "wikilink") [Category:X戰警電影](https://zh.wikipedia.org/wiki/Category:X戰警電影 "wikilink") [Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink")
 
 1.
 2.

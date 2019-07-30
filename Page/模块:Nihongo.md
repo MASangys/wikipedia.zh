@@ -1,5 +1,4 @@
-require('Module:No globals') local getArgs =
-require('Module:Arguments').getArgs local p = {}
+require('Module:No globals') local getArgs = require('Module:Arguments').getArgs local p = {}
 
 local function ja(text)
 

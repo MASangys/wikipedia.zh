@@ -1,4 +1,4 @@
-**`util-linux`**是一个[Linux](../Page/Linux.md "wikilink")[操作系统的标准软件包](../Page/操作系统.md "wikilink")。当开发停滞时，一群人创建了[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")**`util-linux-ng`**（**`ng`**意为“下一代”）\[1\]，但已更名回util-linux，目前是包的正式版本\[2\]。
+**`util-linux`**是一个[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的标准软件包。当开发停滞时，一群人创建了[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")**`util-linux-ng`**（**`ng`**意为“下一代”）\[1\]，但已更名回util-linux，目前是包的正式版本\[2\]。
 
 ## 内容
 
@@ -139,10 +139,7 @@
   - [util-linux开发讨论和错误报告邮件列表](http://vger.kernel.org/vger-lists.html#util-linux)
   - [卡雷尔·扎克（Karel Zak）的博客](http://karelzak.blogspot.com/)，目前的维护者。
 
-[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
-[Category:Linux中的硬件](https://zh.wikipedia.org/wiki/Category:Linux中的硬件 "wikilink")
-[Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
+[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Linux中的硬件](https://zh.wikipedia.org/wiki/Category:Linux中的硬件 "wikilink") [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
 1.
 

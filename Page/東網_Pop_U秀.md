@@ -1,8 +1,6 @@
-《**東網 Pop
-U秀**》[東網電視台灣台推出全新網路娛樂節目](../Page/東網電視.md "wikilink")，2014年8月11日開播，逄周五凌晨於播出。由台灣元氣女團[Popu
-Lady主持](../Page/Popu_Lady.md "wikilink")，親自互爆團員間的秘密外，更會訪問藝人歌手及玩真人騷等，務求把團員及藝人最真實一面毫無保留呈現！\[1\]
+《**東網 Pop U秀**》[東網電視](../Page/東網電視.md "wikilink")台灣台推出全新網路娛樂節目，2014年8月11日開播，逄周五凌晨於播出。由台灣元氣女團[Popu Lady主持](../Page/Popu_Lady.md "wikilink")，親自互爆團員間的秘密外，更會訪問藝人歌手及玩真人騷等，務求把團員及藝人最真實一面毫無保留呈現！\[1\]
 
-節目還得到不少圈內明星推薦，包括[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[許瑋甯](../Page/許瑋甯.md "wikilink")、[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")、[炎亞綸](../Page/炎亞綸.md "wikilink")、[辰亦儒等等](../Page/辰亦儒.md "wikilink")。\[2\]\[3\]\[4\]\[5\]\[6\]
+節目還得到不少圈內明星推薦，包括[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[許瑋甯](../Page/許瑋甯.md "wikilink")、[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")、[炎亞綸](../Page/炎亞綸.md "wikilink")、[辰亦儒](../Page/辰亦儒.md "wikilink")等等。\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 每集內容
 
@@ -529,30 +527,22 @@ Lady主持](../Page/Popu_Lady.md "wikilink")，親自互爆團員間的秘密外
 
 <!-- end list -->
 
-  - [Popu Lady真面目撐 《東網Pop
-    U秀》](http://orientaldaily.on.cc/cnt/entertainment/20140816/00282_011.html)
+  - [Popu Lady真面目撐 《東網Pop U秀》](http://orientaldaily.on.cc/cnt/entertainment/20140816/00282_011.html)
 
 ## 外部連結
 
   -
   - [OnTv 東網電視 官方網站](http://tv.on.cc/tw/?s=256)
 
-  - [東網POPU秀
-    YouTube官方頻道](https://www.youtube.com/playlist?list=PLbW732EiqAXm-DG7s162hyu0jQvvDVmTf)
+  - [東網POPU秀 YouTube官方頻道](https://www.youtube.com/playlist?list=PLbW732EiqAXm-DG7s162hyu0jQvvDVmTf)
 
 [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
 
-1.  [Popu Lady真面目撐 《東網Pop
-    U秀》](http://orientaldaily.on.cc/cnt/entertainment/20140816/00282_011.html)
+1.  [Popu Lady真面目撐 《東網Pop U秀》](http://orientaldaily.on.cc/cnt/entertainment/20140816/00282_011.html)
 2.  [黃鴻升讚很好看](http://tw.on.cc/tw/bkn/cnt/entertainment/20150201/bkntw-20150201222024851-0201_04111_001.html?eventid=40288126483feb3301484441f4bf2e08&eventsection=tw_entertainment)
-3.  [辰亦儒看Pop
-    U秀師妹爆料](http://tw.on.cc/tw/bkn/cnt/entertainment/20150104/bkntw-20150104220419984-0104_04111_001.html)
-4.  [MP魔幻力量推介《東網popu秀》，非常好玩，Popu
-    Lady也很厲害。](http://tw.on.cc/tw/bkn/cnt/entertainment/20141109/bkntw-20141109233617245-1109_04111_001.html)
-5.  [許瑋甯推介《東網Pop
-    U秀》，有很多台灣紅星的呀！](http://m.on.cc/nc/ent/20141107/20141107225111en.html)
-6.  [炎亞綸作客《東網Pop
-    U秀》，大讚節目好玩。](http://m.on.cc/nc/ent/20141110/20141110223546en.html)
+3.  [辰亦儒看Pop U秀師妹爆料](http://tw.on.cc/tw/bkn/cnt/entertainment/20150104/bkntw-20150104220419984-0104_04111_001.html)
+4.  [MP魔幻力量推介《東網popu秀》，非常好玩，Popu Lady也很厲害。](http://tw.on.cc/tw/bkn/cnt/entertainment/20141109/bkntw-20141109233617245-1109_04111_001.html)
+5.  [許瑋甯推介《東網Pop U秀》，有很多台灣紅星的呀！](http://m.on.cc/nc/ent/20141107/20141107225111en.html)
+6.  [炎亞綸作客《東網Pop U秀》，大讚節目好玩。](http://m.on.cc/nc/ent/20141110/20141110223546en.html)
 7.  [東網 POP U秀 OnTv東網電視](http://tv.on.cc/tw/?s=256)
-8.  [東網 POP U秀 東網電視台灣台
-    YouTube視頻](https://www.youtube.com/playlist?list=PLbW732EiqAXm-DG7s162hyu0jQvvDVmTf)
+8.  [東網 POP U秀 東網電視台灣台 YouTube視頻](https://www.youtube.com/playlist?list=PLbW732EiqAXm-DG7s162hyu0jQvvDVmTf)

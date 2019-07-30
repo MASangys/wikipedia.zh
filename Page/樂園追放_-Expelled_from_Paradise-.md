@@ -1,12 +1,8 @@
-**乐园追放 -Expelled from
-Paradise-**（）是[东映动画和](../Page/东映动画.md "wikilink")[Nitro+合作制作的原创动画电影](../Page/Nitro+.md "wikilink")，由[水岛精二执导](https://zh.wikipedia.org/wiki/水岛精二 "wikilink")，[虚渊玄编剧](https://zh.wikipedia.org/wiki/虚渊玄 "wikilink")，使用3D场景加2D重绘的风格，是两人首部全CG风格的作品，于2014年11月15日发布。
+**乐园追放 -Expelled from Paradise-**（）是[东映动画](../Page/东映动画.md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")合作制作的原创动画电影，由[水岛精二执导](https://zh.wikipedia.org/wiki/水岛精二 "wikilink")，[虚渊玄编剧](https://zh.wikipedia.org/wiki/虚渊玄 "wikilink")，使用3D场景加2D重绘的风格，是两人首部全CG风格的作品，于2014年11月15日发布。
 
 ## 剧情概述
 
-在地球爆发“纳米危机”大部分生态被摧毁后，98%的人类舍弃肉身，将自己人格数据化迁往部署在地月系[L1点的太空站](../Page/拉格朗日点.md "wikilink")“迪瓦（）”的虚拟数据空间中生活。在2400年一股名为“弗隆提亚·赛格（Frontier
-Setter）”的力量不断骇入“迪瓦”，並廣播尋求自願參加宇宙移民的成員，“迪瓦”高层认为来源是来自地球地面上，所以派遣特工“安吉拉·巴尔扎克（Angela
-Balzac）”使用重新生成的肉体素体（Material
-Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧毁其。安吉拉和丁格汇合后，在不断的追寻中发现该力量并非原先所想的简单，并且也改变了对自己所处的世界和地面人的世界的态度……
+在地球爆发“纳米危机”大部分生态被摧毁后，98%的人类舍弃肉身，将自己人格数据化迁往部署在地月系[L1点的太空站](../Page/拉格朗日点.md "wikilink")“迪瓦（）”的虚拟数据空间中生活。在2400年一股名为“弗隆提亚·赛格（Frontier Setter）”的力量不断骇入“迪瓦”，並廣播尋求自願參加宇宙移民的成員，“迪瓦”高层认为来源是来自地球地面上，所以派遣特工“安吉拉·巴尔扎克（Angela Balzac）”使用重新生成的肉体素体（Material Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧毁其。安吉拉和丁格汇合后，在不断的追寻中发现该力量并非原先所想的简单，并且也改变了对自己所处的世界和地面人的世界的态度……
 
 ## 登场角色
 
@@ -25,13 +21,9 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
 <!-- end list -->
 
   -
-    多次入侵迪瓦的神秘势力，最终确认实际是原来人类的太空远航计划用船——Genesis
-    Ark号远航船的建筑管理系统AI程序，负责在地月系[L3点建设Genesis](../Page/拉格朗日点.md "wikilink")
-    Ark号，并在地球继续建设所需搭载其核心和反应堆的运输火箭，虽然人类很早就放弃计划，但在「纳米灾难」后100年间依然在收集材料建造火箭并进化出近似人类的人格。
-    由於缺乏物資Genesis
-    Ark被迫在建造途中修改原本設計取消可維持數百人的生命維持系統，使迪瓦上沒有肉體的數據化人類成為唯一可能搭乘的乘客，分析後預測迪瓦高層不可能會接受計畫，為了完成計畫決定入侵迪瓦想绕过迪瓦高层征集乘行的数据化人类乘客。
-    最後明白迪瓦居民不想改變現狀以及安吉拉和丁格想要继续留在地球后，本來認為沒有人類乘客的邊境重設計劃被迫失去原本的意義，但在丁格的勸說下瞭解了其實自己的存在已經和人類差不多，並保存了人類完整的文化資訊。最後以人類最後的後裔的名號自居，选择独自成行搭乘火箭前往Genesis
-    Ark号，並按原定目标前往深空探索。
+    多次入侵迪瓦的神秘势力，最终确认实际是原来人类的太空远航计划用船——Genesis Ark号远航船的建筑管理系统AI程序，负责在地月系[L3点建设Genesis](../Page/拉格朗日点.md "wikilink") Ark号，并在地球继续建设所需搭载其核心和反应堆的运输火箭，虽然人类很早就放弃计划，但在「纳米灾难」后100年间依然在收集材料建造火箭并进化出近似人类的人格。
+    由於缺乏物資Genesis Ark被迫在建造途中修改原本設計取消可維持數百人的生命維持系統，使迪瓦上沒有肉體的數據化人類成為唯一可能搭乘的乘客，分析後預測迪瓦高層不可能會接受計畫，為了完成計畫決定入侵迪瓦想绕过迪瓦高层征集乘行的数据化人类乘客。
+    最後明白迪瓦居民不想改變現狀以及安吉拉和丁格想要继续留在地球后，本來認為沒有人類乘客的邊境重設計劃被迫失去原本的意義，但在丁格的勸說下瞭解了其實自己的存在已經和人類差不多，並保存了人類完整的文化資訊。最後以人類最後的後裔的名號自居，选择独自成行搭乘火箭前往Genesis Ark号，並按原定目标前往深空探索。
 
 <!-- end list -->
 
@@ -83,7 +75,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
 <!-- end list -->
 
   -
-    即物質的身體，是為在地上真實世界行動用而以人出身時之基因克隆出的身體。於任務完成後，軀體會收到[端粒縮短的命令](../Page/端粒.md "wikilink")，此後便可將軀體處置。
+    即物質的身體，是為在地上真實世界行動用而以人出身時之基因克隆出的身體。於任務完成後，軀體會收到[端粒](../Page/端粒.md "wikilink")縮短的命令，此後便可將軀體處置。
 
 <!-- end list -->
 
@@ -133,8 +125,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
 ## 主题曲
 
   - 「」
-    作词：，作曲：Mish-Mosh，编曲： 前口渉，演唱：
-    [ELISA](../Page/ELISA_\(歌手\).md "wikilink")
+    作词：，作曲：Mish-Mosh，编曲： 前口渉，演唱： [ELISA](../Page/ELISA_\(歌手\).md "wikilink")
 
 ## 发行商品
 
@@ -155,8 +146,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
 
   -
     作者：[手代木正太郎](https://zh.wikipedia.org/wiki/手代木正太郎 "wikilink")，插画：斋藤将嗣
-    ISBN
-    978-4-09-451518-3，2014年10月17日发售，[GAGAGA文庫刊载](../Page/GAGAGA文庫.md "wikilink")。
+    ISBN 978-4-09-451518-3，2014年10月17日发售，[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")刊载。
     本作的前传性质轻小说
 
 \*;乐园追放rewired 电脑世界SF杰作集（）\[3\]
@@ -170,8 +160,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
 
   -
     监修：东映动画，插画：斋藤将嗣
-    ISBN
-    978-4-75-801411-3，2014年11月15日发售，[一迅社刊载](../Page/一迅社.md "wikilink")
+    ISBN 978-4-75-801411-3，2014年11月15日发售，[一迅社](../Page/一迅社.md "wikilink")刊载
     关于[人设和](../Page/人物設計.md "wikilink")[机设斋藤将嗣的本作品设定手册](../Page/機械設計_\(動畫\).md "wikilink")。
 
 \*;
@@ -187,7 +176,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
 
 ## 现实影响
 
-首放两天票房已经接近3千万日元，有1万7千以上观看人次。\[5\]由美国[Aniplex引进](../Page/Aniplex.md "wikilink")，于12月13日在美国继续上映。\[6\]\[7\]\[8\]
+首放两天票房已经接近3千万日元，有1万7千以上观看人次。\[5\]由美国[Aniplex](../Page/Aniplex.md "wikilink")引进，于12月13日在美国继续上映。\[6\]\[7\]\[8\]
 
 由于编剧虚渊玄的过往作品被指主要角色会不断死去，使本人发表澄清“不会写出死人的剧本”。\[9\]
 
@@ -202,15 +191,7 @@ Body）返回地面。和地面协助人员“丁格（Dingo）”寻找并摧�
   -
   -
   -
-[Category:2014年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2014年日本剧场动画 "wikilink")
-[Category:电脑动画电影](https://zh.wikipedia.org/wiki/Category:电脑动画电影 "wikilink")
-[Category:东映](https://zh.wikipedia.org/wiki/Category:东映 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
-[Category:反烏托邦題材動畫電影](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫電影 "wikilink")
-[Category:文明崩潰後世界題材動畫電影](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材動畫電影 "wikilink")
-[Category:機器人主角題材動畫電影](https://zh.wikipedia.org/wiki/Category:機器人主角題材動畫電影 "wikilink")
-[Category:虛擬世界背景動畫電影](https://zh.wikipedia.org/wiki/Category:虛擬世界背景動畫電影 "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
+[Category:2014年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2014年日本剧场动画 "wikilink") [Category:电脑动画电影](https://zh.wikipedia.org/wiki/Category:电脑动画电影 "wikilink") [Category:东映](https://zh.wikipedia.org/wiki/Category:东映 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink") [Category:反烏托邦題材動畫電影](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫電影 "wikilink") [Category:文明崩潰後世界題材動畫電影](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材動畫電影 "wikilink") [Category:機器人主角題材動畫電影](https://zh.wikipedia.org/wiki/Category:機器人主角題材動畫電影 "wikilink") [Category:虛擬世界背景動畫電影](https://zh.wikipedia.org/wiki/Category:虛擬世界背景動畫電影 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
 
 1.
 

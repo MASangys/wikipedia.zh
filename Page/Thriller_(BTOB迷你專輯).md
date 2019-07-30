@@ -1,9 +1,8 @@
-《**Thriller**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB的第](../Page/BTOB.md "wikilink")3張韓語迷你專輯，於2013年9月9日發行，主打歌曲為迷你專輯同名歌曲《Thriller》\[1\]。
+《**Thriller**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第3張韓語迷你專輯，於2013年9月9日發行，主打歌曲為迷你專輯同名歌曲《Thriller》\[1\]。
 
 ## 背景
 
-2013年8月23日，[Cube娛樂發放了先行曲](../Page/Cube娛樂.md "wikilink")《當我還屬於你時》（）的概念圖片，隨後也推出了這首歌的音樂錄影帶\[2\]\[3\]。到9月4日，BTOB在其官方[YouTube頻道上載了主打歌](../Page/YouTube.md "wikilink")《Thriller》的音樂錄影帶，同日也在《[Show
-Champion](../Page/Show_Champion.md "wikilink")》節目中開始打歌活動\[4\]。
+2013年8月23日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")發放了先行曲《當我還屬於你時》（）的概念圖片，隨後也推出了這首歌的音樂錄影帶\[2\]\[3\]。到9月4日，BTOB在其官方[YouTube](../Page/YouTube.md "wikilink")頻道上載了主打歌《Thriller》的音樂錄影帶，同日也在《[Show Champion](../Page/Show_Champion.md "wikilink")》節目中開始打歌活動\[4\]。
 
 ## 曲目
 
@@ -150,9 +149,7 @@ Champion](../Page/Show_Champion.md "wikilink")》節目中開始打歌活動\[4\
 
 ## 参考文献
 
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

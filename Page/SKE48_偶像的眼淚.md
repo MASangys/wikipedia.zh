@@ -1,5 +1,4 @@
-**SKE48
-偶像的眼淚**（)，是一部於2015年2月27日上映、以日本女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48為主角的](../Page/SKE48.md "wikilink")[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。此片是一系列以SKE48為主題的紀錄電影系列之首作，由前NHK製作人執導，並由[窪田康志擔任执行制作人](../Page/窪田康志.md "wikilink")。
+**SKE48 偶像的眼淚**（)，是一部於2015年2月27日上映、以日本女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48](../Page/SKE48.md "wikilink")為主角的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。此片是一系列以SKE48為主題的紀錄電影系列之首作，由前NHK製作人執導，並由[窪田康志](../Page/窪田康志.md "wikilink")擔任执行制作人。
 
 電影宣傳標語為「疾走追夢的少女們六年來的故事」（）
 
@@ -25,16 +24,14 @@
   - 攝影：河合志由
   - 錄音：高羅元
   - 編審：藤原道仁
-  - 企劃、製作：「DOCUMENTARY of SKE48」製作委員會（AKS、東寶、秋元康事務所、NORTH RIVER、NHK
-    ENTERPRISES）
+  - 企劃、製作：「DOCUMENTARY of SKE48」製作委員會（AKS、東寶、秋元康事務所、NORTH RIVER、NHK ENTERPRISES）
   - 協力：VISUALNOTES
   - 製作：[AKS](../Page/AKS.md "wikilink") 、[東寶](../Page/東寶.md "wikilink")
   - 出品：東寶映像事業部
 
 ## 海外播映
 
-《SKE48
-偶像的眼淚》一片在日本本土上映約3個月後的5月22日，在[台灣的部分電影院線上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+《SKE48 偶像的眼淚》一片在日本本土上映約3個月後的5月22日，在[台灣的部分電影院線上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 參考文獻
 
@@ -55,10 +52,4 @@
 
   - （台灣發行商官方頻道）
 
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:日本紀錄片](https://zh.wikipedia.org/wiki/Category:日本紀錄片 "wikilink")
-[Category:日本青春電影](https://zh.wikipedia.org/wiki/Category:日本青春電影 "wikilink")
-[Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
-[Category:2010年代纪录片](https://zh.wikipedia.org/wiki/Category:2010年代纪录片 "wikilink")
-[Category:2010年代青春電影](https://zh.wikipedia.org/wiki/Category:2010年代青春電影 "wikilink")
+[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:日本紀錄片](https://zh.wikipedia.org/wiki/Category:日本紀錄片 "wikilink") [Category:日本青春電影](https://zh.wikipedia.org/wiki/Category:日本青春電影 "wikilink") [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink") [Category:2010年代纪录片](https://zh.wikipedia.org/wiki/Category:2010年代纪录片 "wikilink") [Category:2010年代青春電影](https://zh.wikipedia.org/wiki/Category:2010年代青春電影 "wikilink")

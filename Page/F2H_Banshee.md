@@ -1,6 +1,4 @@
-[麥克唐納飛行器公司的](https://zh.wikipedia.org/wiki/麥克唐納飛行器公司 "wikilink")**F2H
-女妖**（F2H
-Banshee），是美國海軍和海軍陸戰隊從1948年至1961年部署的單座噴射戰鬥機，是在[韓戰期間使用的主要美國戰鬥機之一](https://zh.wikipedia.org/wiki/韓戰 "wikilink")。該機種也是[加拿大皇家海軍唯一發展的噴射戰鬥機](https://zh.wikipedia.org/wiki/加拿大皇家海軍 "wikilink")\[1\]，在1955年至1962年間為皇家海軍服務。飛機的名稱源自愛爾蘭神話。
+[麥克唐納飛行器公司的](https://zh.wikipedia.org/wiki/麥克唐納飛行器公司 "wikilink")**F2H 女妖**（F2H Banshee），是美國海軍和海軍陸戰隊從1948年至1961年部署的單座噴射戰鬥機，是在[韓戰期間使用的主要美國戰鬥機之一](https://zh.wikipedia.org/wiki/韓戰 "wikilink")。該機種也是[加拿大皇家海軍唯一發展的噴射戰鬥機](https://zh.wikipedia.org/wiki/加拿大皇家海軍 "wikilink")\[1\]，在1955年至1962年間為皇家海軍服務。飛機的名稱源自愛爾蘭神話。
 
 麥克唐納飛行器公司是一家開業於1939年的飛機公司，原本祇是替其他飛機製造廠生產零件的工廠，1941年才開始研發並不成功的[XP-67月蝙蝠式戰鬥機而有自己的飛機品牌](https://zh.wikipedia.org/wiki/XP-67月蝙蝠式戰鬥機 "wikilink")，其創辦人[詹姆斯·史密斯·麥克唐納](https://zh.wikipedia.org/wiki/詹姆斯·史密斯·麥克唐納 "wikilink")。因受到神秘主義影響，其飛機喜歡用妖魔鬼怪來命名。
 
@@ -47,10 +45,9 @@ F2H-3简单数据（括号内为F2H-2）：
 
 ## 實戰使用
 
-[McDonnell_F2H-3_landing_CVA-42_1958.jpg](https://zh.wikipedia.org/wiki/File:McDonnell_F2H-3_landing_CVA-42_1958.jpg "fig:McDonnell_F2H-3_landing_CVA-42_1958.jpg")
-F2H系列共生产895架，是美国海军在40年底中后期到50年代中后期之间所装备的舰载战斗机中生产数量第二多的舰载喷气式战斗机，美国海军的F2H于1959年全部退役，海军陆战队的则使用到1961年。虽然到1962年时美国海军已经没有F2H在服役，但是在当年海军和空军飞机编号统一时该机还是得到了F-2的编号。
+[McDonnell_F2H-3_landing_CVA-42_1958.jpg](https://zh.wikipedia.org/wiki/File:McDonnell_F2H-3_landing_CVA-42_1958.jpg "fig:McDonnell_F2H-3_landing_CVA-42_1958.jpg") F2H系列共生产895架，是美国海军在40年底中后期到50年代中后期之间所装备的舰载战斗机中生产数量第二多的舰载喷气式战斗机，美国海军的F2H于1959年全部退役，海军陆战队的则使用到1961年。虽然到1962年时美国海军已经没有F2H在服役，但是在当年海军和空军飞机编号统一时该机还是得到了F-2的编号。
 
-F2H女妖參加了[朝鮮戰爭](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，1951年8月，裝備F2H-2的VF-172中隊乘坐[艾塞克斯號航空母艦來到](../Page/艾塞克斯號航空母艦.md "wikilink")[朝鮮半島外海](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")，8月23日，VF-172中隊的F2H為空軍的[B-29超級堡壘轟炸機護航去轟炸朝鮮羅津地區](../Page/B-29超級堡壘轟炸機.md "wikilink")，當日並無遇到敵機，F2H女妖在朝鮮戰場祇進行了不到5個月的時間而在該年年底隨艾塞克斯號航空母艦離開，直至一年後，F2H才返回朝鮮戰場。
+F2H女妖參加了[朝鮮戰爭](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，1951年8月，裝備F2H-2的VF-172中隊乘坐[艾塞克斯號航空母艦](../Page/艾塞克斯號航空母艦.md "wikilink")來到[朝鮮半島外海](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")，8月23日，VF-172中隊的F2H為空軍的[B-29超級堡壘轟炸機](../Page/B-29超級堡壘轟炸機.md "wikilink")護航去轟炸朝鮮羅津地區，當日並無遇到敵機，F2H女妖在朝鮮戰場祇進行了不到5個月的時間而在該年年底隨艾塞克斯號航空母艦離開，直至一年後，F2H才返回朝鮮戰場。
 
 相比戰鬥機型號，偵察機型號的F2H-2P廣為採用，裝備給美國海軍和海軍陸戰隊的偵察機隊。
 
@@ -70,10 +67,6 @@ F2H女妖參加了[朝鮮戰爭](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wik
 
   - [麦克唐纳 F2H/F-2“女妖”](http://www.afwing.com/intro/f2h.htm)
 
-[Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink")
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink")
-[Category:麥克唐納飛機](https://zh.wikipedia.org/wiki/Category:麥克唐納飛機 "wikilink")
-[Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
+[Category:舰载机](https://zh.wikipedia.org/wiki/Category:舰载机 "wikilink") [Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:麥克唐納飛機](https://zh.wikipedia.org/wiki/Category:麥克唐納飛機 "wikilink") [Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
 
 1.  Mesko 2002, p. 48.

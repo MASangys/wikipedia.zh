@@ -1,4 +1,4 @@
-《**我要做Model**》是一套於2004年上映的香港喜劇電影，由[鄭中基和](../Page/鄭中基.md "wikilink")[林嘉欣擔任主演](../Page/林嘉欣.md "wikilink")，其他主演包括[李燦森](https://zh.wikipedia.org/wiki/李燦森 "wikilink")、[鍾鎮濤和](../Page/鍾鎮濤.md "wikilink")[森美等](https://zh.wikipedia.org/wiki/森美 "wikilink")。本電影為鄭中基繼《[龍咁威2003](../Page/龍咁威2003.md "wikilink")》後再度在喜劇中擔演男主角，同時為資深藝人[許冠英生前最後](../Page/許冠英.md "wikilink")1部演出的電影。
+《**我要做Model**》是一套於2004年上映的香港喜劇電影，由[鄭中基](../Page/鄭中基.md "wikilink")和[林嘉欣](../Page/林嘉欣.md "wikilink")擔任主演，其他主演包括[李燦森](https://zh.wikipedia.org/wiki/李燦森 "wikilink")、[鍾鎮濤](../Page/鍾鎮濤.md "wikilink")和[森美等](https://zh.wikipedia.org/wiki/森美 "wikilink")。本電影為鄭中基繼《[龍咁威2003](../Page/龍咁威2003.md "wikilink")》後再度在喜劇中擔演男主角，同時為資深藝人[許冠英](../Page/許冠英.md "wikilink")生前最後1部演出的電影。
 
 ## 演員表
 
@@ -35,9 +35,6 @@
 ## 外部連結
 
   - [我要做Model影片](http://v.youku.com/v_show/id_XMzYxNDY1NDg=.html)
-  - [香港電影庫 - 我要做Model
-    (2004)](http://hkmdb.com/db/movies/view.mhtml?id=10689&display_set=big5)
+  - [香港電影庫 - 我要做Model (2004)](http://hkmdb.com/db/movies/view.mhtml?id=10689&display_set=big5)
 
-[Category:香港電影](https://zh.wikipedia.org/wiki/Category:香港電影 "wikilink")
-[Category:2004年電影](https://zh.wikipedia.org/wiki/Category:2004年電影 "wikilink")
-[Category:喜劇劇情片](https://zh.wikipedia.org/wiki/Category:喜劇劇情片 "wikilink")
+[Category:香港電影](https://zh.wikipedia.org/wiki/Category:香港電影 "wikilink") [Category:2004年電影](https://zh.wikipedia.org/wiki/Category:2004年電影 "wikilink") [Category:喜劇劇情片](https://zh.wikipedia.org/wiki/Category:喜劇劇情片 "wikilink")

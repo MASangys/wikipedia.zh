@@ -1,6 +1,6 @@
-《**Sunday靚聲王**》（）是一檔由[香港電視廣播有限公司製作](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，主要是以懷舊金曲作為主題的音樂節目，全節目共35集，由[鄭少秋](../Page/鄭少秋.md "wikilink")、[汪明荃](../Page/汪明荃.md "wikilink")、[林曉峰主持](../Page/林曉峰.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年2月15日起，逢星期日晚21:00至22:00於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")。本節目於香港時間2015年5月3日起，改為逢星期日晚20:30至21:30於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播映](../Page/高清翡翠台.md "wikilink")。
+《**Sunday靚聲王**》（）是一檔由[香港電視廣播有限公司製作](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，主要是以懷舊金曲作為主題的音樂節目，全節目共35集，由[鄭少秋](../Page/鄭少秋.md "wikilink")、[汪明荃](../Page/汪明荃.md "wikilink")、[林曉峰](../Page/林曉峰.md "wikilink")主持。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年2月15日起，逢星期日晚21:00至22:00於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出。本節目於香港時間2015年5月3日起，改為逢星期日晚20:30至21:30於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")播映。
 
-此節目雖由無綫電視製作，但節目中亦不時出現[麗的電視的電視劇歌曲](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")，以至[亞洲電視的電視劇歌曲](../Page/亞洲電視.md "wikilink")，因此節目收視良好，無綫電視決定在2016年拍攝第二輯。
+此節目雖由無綫電視製作，但節目中亦不時出現[麗的電視的電視劇歌曲](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")，以至[亞洲電視](../Page/亞洲電視.md "wikilink")的電視劇歌曲，因此節目收視良好，無綫電視決定在2016年拍攝第二輯。
 
 ## 節目簡介
 
@@ -103,7 +103,7 @@
 <li>童年—區瑞強</li>
 <li>我是痴情無限—華娃、林二汶（原唱：關菊英）</li>
 <li>忘記他—胡琳（原唱：鄧麗君）</li>
-<li><a href="../Page/獅子山下_(歌曲).md" title="wikilink">獅子山下</a>—李龍基（1972年<a href="../Page/香港電台.md" title="wikilink">香港電台電視劇</a>《<a href="../Page/獅子山下.md" title="wikilink">獅子山下</a>》主題曲，原唱：羅文）</li>
+<li><a href="../Page/獅子山下_(歌曲).md" title="wikilink">獅子山下</a>—李龍基（1972年<a href="../Page/香港電台.md" title="wikilink">香港電台</a>電視劇《<a href="../Page/獅子山下.md" title="wikilink">獅子山下</a>》主題曲，原唱：羅文）</li>
 <li>鱷魚淚—袁麗嫦（1978年麗的電視劇《<a href="../Page/鱷魚淚.md" title="wikilink">鱷魚淚</a>》主題曲）</li>
 <li>輪流轉—鄭少秋（1980年無綫電視劇《<a href="../Page/輪流傳.md" title="wikilink">輪流傳</a>》主題曲）</li>
 <li>L-O-V-E Love—全場歌手（1975年香港電影《<a href="../Page/大家樂_(1975年電影).md" title="wikilink">大家樂</a>》插曲，原唱：<a href="../Page/溫拿樂隊.md" title="wikilink">溫拿樂隊</a>）</li>
@@ -117,7 +117,7 @@
 <a href="../Page/莫鎮賢.md" title="wikilink">莫鎮賢</a>、<a href="../Page/泳兒.md" title="wikilink">泳　兒</a>、<br />
 <a href="../Page/蔡立兒.md" title="wikilink">蔡立兒</a>、<a href="../Page/夏韶聲.md" title="wikilink">夏韶聲</a></p></td>
 <td><ul>
-<li>明星—鄭少秋（1975年<a href="../Page/佳藝電視.md" title="wikilink">佳藝電視劇</a>《<a href="https://zh.wikipedia.org/wiki/明星_(電視劇)" title="wikilink">明星</a>》主題曲，原唱：<a href="../Page/張瑪莉.md" title="wikilink">張瑪莉</a>）</li>
+<li>明星—鄭少秋（1975年<a href="../Page/佳藝電視.md" title="wikilink">佳藝電視</a>劇《<a href="https://zh.wikipedia.org/wiki/明星_(電視劇)" title="wikilink">明星</a>》主題曲，原唱：<a href="../Page/張瑪莉.md" title="wikilink">張瑪莉</a>）</li>
 <li>蔓珠莎華—戴蘊慧（原唱：梅艷芳）</li>
 <li>婚紗背後—倫永亮（1986年無綫電視劇《<a href="../Page/流氓大亨.md" title="wikilink">流氓大亨</a>》插曲，原唱：<a href="../Page/徐小鳳.md" title="wikilink">徐小鳳</a>）</li>
 <li>容易受傷的女人—泳兒（原唱：<a href="../Page/王菲.md" title="wikilink">王菲</a>）</li>
@@ -325,11 +325,11 @@
 <li>偷偷摸摸—關菊英、汪明荃</li>
 <li>夢—關菊英 ( 1961年邵氏电影《<a href="../Page/不了情_(1961年电影).md" title="wikilink">不了情</a>》之插曲，<a href="https://zh.wikipedia.org/wiki/顾嘉煇" title="wikilink">顾嘉煇第一首作品</a>；原唱：<a href="https://zh.wikipedia.org/wiki/顾媚" title="wikilink">顾媚</a> )</li>
 <li>只有情永在—關菊英、馬浚偉（1986年無綫電視劇《<a href="../Page/賊公阿牛.md" title="wikilink">賊公阿牛</a>》主題曲；原唱：張學友、鄺美雲）</li>
-<li>樓台會—關菊英、馬浚偉（1977年無綫電視劇《<a href="../Page/民間傳奇.md" title="wikilink">民間傳奇之</a><a href="../Page/梁山伯與祝英台.md" title="wikilink">梁山伯與祝英台</a>》主題曲；原唱：關菊英、羅文）</li>
+<li>樓台會—關菊英、馬浚偉（1977年無綫電視劇《<a href="../Page/民間傳奇.md" title="wikilink">民間傳奇</a>之<a href="../Page/梁山伯與祝英台.md" title="wikilink">梁山伯與祝英台</a>》主題曲；原唱：關菊英、羅文）</li>
 <li>親密愛人—馬浚偉</li>
 <li>狂潮—關菊英（1976年無綫電視劇《<a href="../Page/狂潮.md" title="wikilink">狂潮</a>》主題曲）</li>
 <li>過客—關菊英（1981年無綫電視劇《<a href="../Page/過客.md" title="wikilink">過客</a>》主題曲）</li>
-<li>戲鳳—鄭少秋、關菊英（1977年無綫電視劇《<a href="../Page/民間傳奇.md" title="wikilink">民間傳奇之</a><a href="https://zh.wikipedia.org/wiki/江山美人" title="wikilink">江山美人</a>》插曲）</li>
+<li>戲鳳—鄭少秋、關菊英（1977年無綫電視劇《<a href="../Page/民間傳奇.md" title="wikilink">民間傳奇</a>之<a href="https://zh.wikipedia.org/wiki/江山美人" title="wikilink">江山美人</a>》插曲）</li>
 <li>事事未滿足—全場歌手（1976年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/書劍恩仇錄_(1976年電視劇)" title="wikilink">書劍恩仇錄</a>》插曲）</li>
 </ul></td>
 </tr>
@@ -759,7 +759,7 @@
 <li>大報復—鄭少秋（1977年無綫電視劇《<a href="https://zh.wikipedia.org/wiki/大報復" title="wikilink">大報復</a>》主題曲）</li>
 <li>情深緣淺—黃凱芹</li>
 <li>傷感的戀人—黃凱芹</li>
-<li>並蒂花—汪明荃、黃凱芹（1977年無綫電視劇《<a href="../Page/民間傳奇.md" title="wikilink">民間傳奇之帝女花</a>》主題曲，原唱：汪明荃、羅文）</li>
+<li>並蒂花—汪明荃、黃凱芹（1977年無綫電視劇《<a href="../Page/民間傳奇.md" title="wikilink">民間傳奇</a>之帝女花》主題曲，原唱：汪明荃、羅文）</li>
 <li>忘情水—黃凱芹（原唱：劉德華）</li>
 <li>哪有一天不想你—黃凱芹（原唱：黎明）</li>
 <li>只想一生跟你走—黃凱芹（原唱：張學友）</li>
@@ -852,7 +852,7 @@
 
 ## 收視
 
-以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 | 集數 | 日期          | 平均收視 |
 | -- | ----------- | ---- |
@@ -920,10 +920,8 @@
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    Sunday靚聲王](http://programme.tvb.com/variety/sundaysongbird)
+  - [無綫電視節目網頁 - Sunday靚聲王](http://programme.tvb.com/variety/sundaysongbird)
 
 ## 電視節目的變遷
 
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink")
+[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink")

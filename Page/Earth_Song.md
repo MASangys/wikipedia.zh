@@ -1,5 +1,4 @@
-〈**Earth
-Song**〉（可译为**地球之歌**）是[迈克尔·杰克逊在](../Page/迈克尔·杰克逊.md "wikilink")1995年创作的歌曲，这首歌被收录进迈克尔于1996年发布的专辑[History中](https://zh.wikipedia.org/wiki/History "wikilink")，它在德国、瑞士、拉脱维亚、英国的排行榜上均夺得了第一名。
+〈**Earth Song**〉（可译为**地球之歌**）是[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")在1995年创作的歌曲，这首歌被收录进迈克尔于1996年发布的专辑[History中](https://zh.wikipedia.org/wiki/History "wikilink")，它在德国、瑞士、拉脱维亚、英国的排行榜上均夺得了第一名。
 
 这首歌的[MV收录进了诸如环境问题](https://zh.wikipedia.org/wiki/MV "wikilink")、贫困问题、波黑冲突等各类关于地球与人类目前的面临的问题的题材\[1\]，它在英国的销量超过100万份，并在此国的Wonderwall排行榜上连续六周排行第一，而此单曲在全世界的销量为300万以上。
 
@@ -13,10 +12,7 @@ Song**〉（可译为**地球之歌**）是[迈克尔·杰克逊在](../Page/迈
 
 ## 参考文献
 
-[Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink")
-[Category:1995年單曲](https://zh.wikipedia.org/wiki/Category:1995年單曲 "wikilink")
-[Category:抗議歌曲](https://zh.wikipedia.org/wiki/Category:抗議歌曲 "wikilink")
-[Category:地球題材歌曲](https://zh.wikipedia.org/wiki/Category:地球題材歌曲 "wikilink")
+[Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink") [Category:1995年單曲](https://zh.wikipedia.org/wiki/Category:1995年單曲 "wikilink") [Category:抗議歌曲](https://zh.wikipedia.org/wiki/Category:抗議歌曲 "wikilink") [Category:地球題材歌曲](https://zh.wikipedia.org/wiki/Category:地球題材歌曲 "wikilink")
 
 1.
 2.

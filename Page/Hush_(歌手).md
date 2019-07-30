@@ -1,19 +1,16 @@
-**Hush**（1985年1月15日－），本名**陳家偉**，是臺灣男歌手與詞曲作家，曾是[Hush\!](../Page/Hush!.md "wikilink")
-樂團的主唱。Hush在大學攻讀[哲學系](../Page/哲學系.md "wikilink")，對[星象](../Page/星座.md "wikilink")、[塔羅等充滿神祕事物也感興趣](https://zh.wikipedia.org/wiki/塔羅 "wikilink")，因此在他的詞曲創作中經常以哲學角度為出發點詮釋生命與愛情\[1\]。Hush曾為[張惠妹](../Page/張惠妹.md "wikilink")、[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")、[A-Lin](../Page/A-Lin.md "wikilink")、[徐佳瑩](../Page/徐佳瑩.md "wikilink")、[丁噹](../Page/丁噹.md "wikilink")、[林宥嘉等歌手創作](../Page/林宥嘉.md "wikilink")，因合作的歌手過多而被稱為「集郵天王」\[2\]。
+**Hush**（1985年1月15日－），本名**陳家偉**，是臺灣男歌手與詞曲作家，曾是[Hush\!](../Page/Hush!.md "wikilink") 樂團的主唱。Hush在大學攻讀[哲學系](../Page/哲學系.md "wikilink")，對[星象](../Page/星座.md "wikilink")、[塔羅等充滿神祕事物也感興趣](https://zh.wikipedia.org/wiki/塔羅 "wikilink")，因此在他的詞曲創作中經常以哲學角度為出發點詮釋生命與愛情\[1\]。Hush曾為[張惠妹](../Page/張惠妹.md "wikilink")、[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")、[A-Lin](../Page/A-Lin.md "wikilink")、[徐佳瑩](../Page/徐佳瑩.md "wikilink")、[丁噹](../Page/丁噹.md "wikilink")、[林宥嘉](../Page/林宥嘉.md "wikilink")等歌手創作，因合作的歌手過多而被稱為「集郵天王」\[2\]。
 
 ## 生平
 
 HUSH從2010年，在台北打工的「海邊的卡夫卡」意外登台演唱後，同年找來兩名團員成立Hush\!樂團，並受邀西安、深圳草莓音樂、台北[野台開唱](../Page/野台開唱.md "wikilink")、香港呼叫音樂節、高雄大彩虹音樂節、小巨蛋犀利好大趴、上海簡單生活節等指標性華人音樂祭\[3\]。但在2014年歷經[貝斯手和](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[鼓手相繼離開樂團](https://zh.wikipedia.org/wiki/鼓手 "wikilink")\[4\]，Hush決定解散後單飛，首張單曲由[五月天](../Page/五月天.md "wikilink")[瑪莎擔任他的製作人](../Page/蔡昇晏.md "wikilink")\[5\]。
 
-HUSH在2015年[POP
-Radio電台節目上](https://zh.wikipedia.org/wiki/POP_Radio "wikilink")，再次跨越「性別藩籬」，自曝內心真實想法，坦言很想加入Legacy「都市女聲」系列演出，但該系列過往都是女生專利，心思讓人猜不透？HUSH說自己想動手「竄改」題目為「鄉間女聲」，然後成為第一個加入此系列的男歌手，結果反而很多朋友都不懂這次的演唱會主題。HUSH解釋他是想以詼諧的方式翻玩，向「都市女聲」致敬\[6\]。
+HUSH在2015年[POP Radio電台節目上](https://zh.wikipedia.org/wiki/POP_Radio "wikilink")，再次跨越「性別藩籬」，自曝內心真實想法，坦言很想加入Legacy「都市女聲」系列演出，但該系列過往都是女生專利，心思讓人猜不透？HUSH說自己想動手「竄改」題目為「鄉間女聲」，然後成為第一個加入此系列的男歌手，結果反而很多朋友都不懂這次的演唱會主題。HUSH解釋他是想以詼諧的方式翻玩，向「都市女聲」致敬\[6\]。
 
-HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會桃園分公司第一天擔任開場嘉賓](../Page/人生無限公司巡迴演唱會.md "wikilink")。
+HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/人生無限公司巡迴演唱會.md "wikilink")桃園分公司第一天擔任開場嘉賓。
 
 ## 個人生活
 
-據《[中國時報](../Page/中國時報.md "wikilink")》報導，HUSH在2014年就曾被網友發現，有在使用[同志交友軟體](../Page/同性戀.md "wikilink")，遭質疑是否公開[出櫃](../Page/出櫃.md "wikilink")\[7\]。對此HUSH並無刻意隱瞞個人的[性向](../Page/性取向.md "wikilink")，且態度正面開朗\[8\]。最終他在2015年4月4日的演唱會上，發表新歌《同一個答案》前說：「不知道你們有沒有看到前一陣子一個新聞，這新聞可大可小。我想說的事情是，每一個人的性向都是生來自然，而且正常的。一個自然的事情，沒有必要宣揚或是隱瞞。」話鋒一轉，他說提到[婚姻平權議題](https://zh.wikipedia.org/wiki/婚姻平權 "wikilink")，「結婚對[異性戀是一個選項](https://zh.wikipedia.org/wiki/異性戀 "wikilink")，對同性戀也是。選項是[人權的展現](https://zh.wikipedia.org/wiki/人權 "wikilink")，所以我寫了一首歌呼應這樣的事情，這首歌叫《同一個答案》。」大方回應性向話題\[9\]。並於演唱會結束後他在[臉書上逗趣寫下](https://zh.wikipedia.org/wiki/臉書 "wikilink")：「然後，不要鬧了，我從來就不活在櫃子裡。rock\\'n
-roll ok！？」表示不管性向如何都沒有出櫃問題\[10\]。
+據《[中國時報](../Page/中國時報.md "wikilink")》報導，HUSH在2014年就曾被網友發現，有在使用[同志交友軟體](../Page/同性戀.md "wikilink")，遭質疑是否公開[出櫃](../Page/出櫃.md "wikilink")\[7\]。對此HUSH並無刻意隱瞞個人的[性向](../Page/性取向.md "wikilink")，且態度正面開朗\[8\]。最終他在2015年4月4日的演唱會上，發表新歌《同一個答案》前說：「不知道你們有沒有看到前一陣子一個新聞，這新聞可大可小。我想說的事情是，每一個人的性向都是生來自然，而且正常的。一個自然的事情，沒有必要宣揚或是隱瞞。」話鋒一轉，他說提到[婚姻平權議題](https://zh.wikipedia.org/wiki/婚姻平權 "wikilink")，「結婚對[異性戀是一個選項](https://zh.wikipedia.org/wiki/異性戀 "wikilink")，對同性戀也是。選項是[人權的展現](https://zh.wikipedia.org/wiki/人權 "wikilink")，所以我寫了一首歌呼應這樣的事情，這首歌叫《同一個答案》。」大方回應性向話題\[9\]。並於演唱會結束後他在[臉書上逗趣寫下](https://zh.wikipedia.org/wiki/臉書 "wikilink")：「然後，不要鬧了，我從來就不活在櫃子裡。rock\\'n roll ok！？」表示不管性向如何都沒有出櫃問題\[10\]。
 
 根據2015年4月的《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》報導，HUSH與另一半分手，使得他不斷透過私人臉書抒發滿腔苦痛，甚至留下情緒字眼，「4:25醉醺醺地回到家，一邊冷血地書寫自己，一邊重播大哭時嚷嚷著為什麼他可以說斷就斷」，隔沒多久又說，「足不出戶，心也是\[11\]。」以及吞[安眠藥無效](https://zh.wikipedia.org/wiki/安眠藥 "wikilink")、在夜深人靜時痛哭等等，引來不少朋友關切，希望他能早日走過情傷\[12\]。
 
@@ -435,26 +432,14 @@ roll ok！？」表示不管性向如何都沒有出櫃問題\[10\]。
 
 ## 外部連結
 
-  - [HUSH -
-    Spotify](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR)
+  - [HUSH - Spotify](https://open.spotify.com/artist/5Mx85GBWB3PbMOhZAVxXkR)
 
   -
   - [相知音樂](https://www.facebook.com/betweenint/)
 
-[Category:1985年出生](https://zh.wikipedia.org/wiki/Category:1985年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink")
-[Category:屏東人](https://zh.wikipedia.org/wiki/Category:屏東人 "wikilink")
-[Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink")
-[Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
+[Category:1985年出生](https://zh.wikipedia.org/wiki/Category:1985年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink") [Category:屏東人](https://zh.wikipedia.org/wiki/Category:屏東人 "wikilink") [Category:台灣作曲家](https://zh.wikipedia.org/wiki/Category:台灣作曲家 "wikilink") [Category:台灣作詞家](https://zh.wikipedia.org/wiki/Category:台灣作詞家 "wikilink")
 
-[Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink")
-[Category:華語流行音樂創作歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂創作歌手 "wikilink")
-[Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink")
-[Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink")
-[Category:LGBT歌手](https://zh.wikipedia.org/wiki/Category:LGBT歌手 "wikilink")
-[Category:台灣LGBT音樂家](https://zh.wikipedia.org/wiki/Category:台灣LGBT音樂家 "wikilink")
-[Category:台灣男同性戀者](https://zh.wikipedia.org/wiki/Category:台灣男同性戀者 "wikilink")
+[Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:華語流行音樂創作歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂創作歌手 "wikilink") [Category:台灣創作歌手](https://zh.wikipedia.org/wiki/Category:台灣創作歌手 "wikilink") [Category:台灣男歌手](https://zh.wikipedia.org/wiki/Category:台灣男歌手 "wikilink") [Category:LGBT歌手](https://zh.wikipedia.org/wiki/Category:LGBT歌手 "wikilink") [Category:台灣LGBT音樂家](https://zh.wikipedia.org/wiki/Category:台灣LGBT音樂家 "wikilink") [Category:台灣男同性戀者](https://zh.wikipedia.org/wiki/Category:台灣男同性戀者 "wikilink")
 
 1.
 2.

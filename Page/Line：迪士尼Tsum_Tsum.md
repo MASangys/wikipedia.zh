@@ -1,21 +1,16 @@
-，是一個以[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")、[彼思的卡通人物角色為主的可收集](https://zh.wikipedia.org/wiki/皮克斯動畫工作室 "wikilink")[絨毛玩具的手機遊戲](https://zh.wikipedia.org/wiki/絨毛玩具 "wikilink")\[1\]，當中包括由迪士尼擁有的《[星球大戰](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")》及《[英雄系列](../Page/漫威娛樂.md "wikilink")》的專營權。這個遊戲名稱「Tsum
-Tsum」來自日語動詞「」，其意思為「堆叠」，因為遊戲中的那些玩具角色被設計成堆疊在彼此之上，而形成[金字塔形狀](../Page/金字塔.md "wikilink")\[2\]。生產商也製作他們的乙烯基版本。
+，是一個以[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")、[彼思的卡通人物角色為主的可收集](https://zh.wikipedia.org/wiki/皮克斯動畫工作室 "wikilink")[絨毛玩具的手機遊戲](https://zh.wikipedia.org/wiki/絨毛玩具 "wikilink")\[1\]，當中包括由迪士尼擁有的《[星球大戰](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")》及《[英雄系列](../Page/漫威娛樂.md "wikilink")》的專營權。這個遊戲名稱「Tsum Tsum」來自日語動詞「」，其意思為「堆叠」，因為遊戲中的那些玩具角色被設計成堆疊在彼此之上，而形成[金字塔](../Page/金字塔.md "wikilink")形狀\[2\]。生產商也製作他們的乙烯基版本。
 
-該遊戲最先於2013年在[日本推出](../Page/日本.md "wikilink")，由[LINE及](../Page/LINE_\(公司\).md "wikilink")[科樂美開發綁定式的](../Page/科樂美.md "wikilink")[街機及](https://zh.wikipedia.org/wiki/街機 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。2014年7月，迪士尼把它們賣到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")\[3\]，並於2014年1月29日推出遊戲的國際版，造成搶購遊戲玩具之風潮，截至2014年末，該遊戲的[絨毛玩具已售出](https://zh.wikipedia.org/wiki/絨毛玩具 "wikilink")180萬個\[4\]\[5\]。迪士尼自2014年7月開始在[日本以外的地方銷售此絨毛玩具](../Page/日本.md "wikilink")，大約在差不多相同時間，他們又在[南韓發行了以Tsum](https://zh.wikipedia.org/wiki/南韓 "wikilink")
-Tsum為藍本的[網絡聊天系統圖示](https://zh.wikipedia.org/wiki/網絡聊天 "wikilink")\[6\]。而隨後一個月遊戲引進到[巴黎迪士尼樂園](../Page/巴黎迪士尼樂園度假區.md "wikilink")。
+該遊戲最先於2013年在[日本](../Page/日本.md "wikilink")推出，由[LINE及](../Page/LINE_\(公司\).md "wikilink")[科樂美](../Page/科樂美.md "wikilink")開發綁定式的[街機及](https://zh.wikipedia.org/wiki/街機 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。2014年7月，迪士尼把它們賣到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")\[3\]，並於2014年1月29日推出遊戲的國際版，造成搶購遊戲玩具之風潮，截至2014年末，該遊戲的[絨毛玩具已售出](https://zh.wikipedia.org/wiki/絨毛玩具 "wikilink")180萬個\[4\]\[5\]。迪士尼自2014年7月開始在[日本](../Page/日本.md "wikilink")以外的地方銷售此絨毛玩具，大約在差不多相同時間，他們又在[南韓發行了以Tsum](https://zh.wikipedia.org/wiki/南韓 "wikilink") Tsum為藍本的[網絡聊天系統圖示](https://zh.wikipedia.org/wiki/網絡聊天 "wikilink")\[6\]。而隨後一個月遊戲引進到[巴黎迪士尼樂園](../Page/巴黎迪士尼樂園度假區.md "wikilink")。
 
-2016年12月11日，上海迪士尼揭曉「Tsum
-Tsum」的中文譯名為「松松」（粵語發音：鬆鬆）。遊戲會隨著特殊節慶推出新款Tsum，會在特定期限增加新款Tsum抽中的機率，也不定期會推出Bingo卡和每月會推出期間限定任務，獎品大多是限定Tsum和徽章。
+2016年12月11日，上海迪士尼揭曉「Tsum Tsum」的中文譯名為「松松」（粵語發音：鬆鬆）。遊戲會隨著特殊節慶推出新款Tsum，會在特定期限增加新款Tsum抽中的機率，也不定期會推出Bingo卡和每月會推出期間限定任務，獎品大多是限定Tsum和徽章。
 
 ## 手機遊戲
 
-**迪士尼Tsum
-Tsum**是由[LINE開發及推出的一款適用於](../Page/LINE_\(公司\).md "wikilink")[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android系統的](../Page/Android.md "wikilink")[免費](https://zh.wikipedia.org/wiki/網絡遊戲免費模式 "wikilink")[手機](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")，玩家需要穩定的互聯網連接來進行。遊戲集中於[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")、[彼思及](https://zh.wikipedia.org/wiki/彼思動畫製作室 "wikilink")[星球大戰的角色人物](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")。遊戲分為兩個內容不同的版本：日文原始版本及獨立的全球版本。兩個版本均會定期分開作更新。
+**迪士尼Tsum Tsum**是由[LINE開發及推出的一款適用於](../Page/LINE_\(公司\).md "wikilink")[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")系統的[免費](https://zh.wikipedia.org/wiki/網絡遊戲免費模式 "wikilink")[手機](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")，玩家需要穩定的互聯網連接來進行。遊戲集中於[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")、[彼思及](https://zh.wikipedia.org/wiki/彼思動畫製作室 "wikilink")[星球大戰的角色人物](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")。遊戲分為兩個內容不同的版本：日文原始版本及獨立的全球版本。兩個版本均會定期分開作更新。
 
 ## 遊戲角色
 
-迪士尼在Tsum
-Tsum有數十個角色的系列，包括[米奇老鼠](https://zh.wikipedia.org/wiki/米奇老鼠 "wikilink")、[米妮老鼠](../Page/米妮老鼠.md "wikilink")、[唐老鴨](https://zh.wikipedia.org/wiki/唐老鴨 "wikilink")、[黛絲鴨](https://zh.wikipedia.org/wiki/黛絲鴨 "wikilink")、[布魯托](https://zh.wikipedia.org/wiki/布魯托 "wikilink")、[高飛](https://zh.wikipedia.org/wiki/高飛_\(迪士尼角色\) "wikilink")，以及次要的迪士尼人物角色如、[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘 "wikilink")、[小姐與流氓](https://zh.wikipedia.org/wiki/小姐與流氓 "wikilink")、、及其他。同時也有新的系列，如[扮嘢小魔星](https://zh.wikipedia.org/wiki/扮嘢小魔星 "wikilink")、[反斗奇兵](https://zh.wikipedia.org/wiki/反斗奇兵 "wikilink")、[怪獸大學](../Page/怪獸大學.md "wikilink")、[大英雄聯盟](https://zh.wikipedia.org/wiki/大英雄聯盟 "wikilink")、[富貴貓](https://zh.wikipedia.org/wiki/富貴貓 "wikilink")、[星球大戰及](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")[反斗車王](https://zh.wikipedia.org/wiki/反斗車王 "wikilink")\[7\]。迪士尼還為假日及特別活動推出角色特別節慶版本\[8\]\[9\]\[10\]\[11\]。當中也有以角色為主題的CGI動畫短片系列。
+迪士尼在Tsum Tsum有數十個角色的系列，包括[米奇老鼠](https://zh.wikipedia.org/wiki/米奇老鼠 "wikilink")、[米妮老鼠](../Page/米妮老鼠.md "wikilink")、[唐老鴨](https://zh.wikipedia.org/wiki/唐老鴨 "wikilink")、[黛絲鴨](https://zh.wikipedia.org/wiki/黛絲鴨 "wikilink")、[布魯托](https://zh.wikipedia.org/wiki/布魯托 "wikilink")、[高飛](https://zh.wikipedia.org/wiki/高飛_\(迪士尼角色\) "wikilink")，以及次要的迪士尼人物角色如、[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘 "wikilink")、[小姐與流氓](https://zh.wikipedia.org/wiki/小姐與流氓 "wikilink")、、及其他。同時也有新的系列，如[扮嘢小魔星](https://zh.wikipedia.org/wiki/扮嘢小魔星 "wikilink")、[反斗奇兵](https://zh.wikipedia.org/wiki/反斗奇兵 "wikilink")、[怪獸大學](../Page/怪獸大學.md "wikilink")、[大英雄聯盟](https://zh.wikipedia.org/wiki/大英雄聯盟 "wikilink")、[富貴貓](https://zh.wikipedia.org/wiki/富貴貓 "wikilink")、[星球大戰及](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")[反斗車王](https://zh.wikipedia.org/wiki/反斗車王 "wikilink")\[7\]。迪士尼還為假日及特別活動推出角色特別節慶版本\[8\]\[9\]\[10\]\[11\]。當中也有以角色為主題的CGI動畫短片系列。
 
 ## 遊戲
 
@@ -34,9 +29,7 @@ Tsum有數十個角色的系列，包括[米奇老鼠](https://zh.wikipedia.org/
 
 ### 炸彈／魔法泡泡
 
-若連接達到7個Tsums以上（MyTsum
-6連鎖以上）的話，就會出現一個魔法泡泡（日文版本稱為炸彈），點擊的話會消除周邊小範圍的Tsums。魔法泡泡和大型Tsum越多，遊戲完結時的分數就越高。若達到10連鎖以上則是會出現附帶特殊功能的魔法炸彈，不同的魔法炸彈有不同的特殊功能。
-此外在MyTsum若使用[杯麵時](../Page/大英雄天團.md "wikilink")，可使用其特殊技能隨機放出特大型的炸彈，消除範圍比小型炸彈更加寬廣。
+若連接達到7個Tsums以上（MyTsum 6連鎖以上）的話，就會出現一個魔法泡泡（日文版本稱為炸彈），點擊的話會消除周邊小範圍的Tsums。魔法泡泡和大型Tsum越多，遊戲完結時的分數就越高。若達到10連鎖以上則是會出現附帶特殊功能的魔法炸彈，不同的魔法炸彈有不同的特殊功能。 此外在MyTsum若使用[杯麵時](../Page/大英雄天團.md "wikilink")，可使用其特殊技能隨機放出特大型的炸彈，消除範圍比小型炸彈更加寬廣。
 
 魔法泡泡種類：
 
@@ -45,9 +38,7 @@ Tsum有數十個角色的系列，包括[米奇老鼠](https://zh.wikipedia.org/
   - 分數泡泡：炸彈爆炸時得到兩倍分數。
   - 時間泡泡：剩餘時間增加兩秒。
 
-每當Tsums被清除時，它們會注入一個「發熱計」，當Tsums累積到一定數量／發熱計被注滿的時候便會觸發10秒鐘的「發熱時間（Fever
-Time）」，此模式會為玩家增加5秒的遊戲時間，可更快地清除Tsums，並暫時防止組合被打斷，而發熱期間所得到的分數也會增加。
-玩家在每次遊戲完結時會獲得積分，玩家積分越高的同時會有更多的金幣來購買其他角色的Tsums。此外，隨著遊戲的次數增加，玩家的Tsums等級也會增加，玩家的Tsums等級增加也會提升遊戲分數。
+每當Tsums被清除時，它們會注入一個「發熱計」，當Tsums累積到一定數量／發熱計被注滿的時候便會觸發10秒鐘的「發熱時間（Fever Time）」，此模式會為玩家增加5秒的遊戲時間，可更快地清除Tsums，並暫時防止組合被打斷，而發熱期間所得到的分數也會增加。 玩家在每次遊戲完結時會獲得積分，玩家積分越高的同時會有更多的金幣來購買其他角色的Tsums。此外，隨著遊戲的次數增加，玩家的Tsums等級也會增加，玩家的Tsums等級增加也會提升遊戲分數。
 
 此外，當玩家清除「我的Tsums」時，那是玩家在每次遊戲前選定的角色Tsums，清除它們可以讓玩家累積並使用到Tsums的特殊技能。
 
@@ -55,18 +46,15 @@ Time）」，此模式會為玩家增加5秒的遊戲時間，可更快地清除
 
 玩家等級會顯示於遊戲畫面左上角，每當等級上升至10的倍數時，最終得分會上升1%。遊戲會依照等級來影響每一回合於遊戲結束時加上額外分數而得出總分數，等級越高可取得的額外分數也越多，這對於玩家總分數的加成也越大。
 
-每次遊戲玩家需要一顆心心作為[生命](https://zh.wikipedia.org/wiki/生命_\(遊戲\) "wikilink")，若玩家沒有心心便不能進行遊戲，那時他們通常需要等待15分鐘來得到補充。玩家們可透過完成賓果卡（Mission
-Bingo）或活動中的任務，或利用「紅寶石」，那是遊戲中的高級貨幣，可透過現金購買，或玩家等級提升，又或是完成賓果卡獲得紅寶石。玩家也可透過登入[Line或](https://zh.wikipedia.org/wiki/Line "wikilink")[Facebook向朋友發送心心](../Page/Facebook.md "wikilink")，每位玩家可於每小時向每位朋友發送一顆心心，發送心心並不會影響玩家的心心數量。在發送心心的一小時內，接收者可同時獲得心心及200枚金幣的獎勵。
+每次遊戲玩家需要一顆心心作為[生命](https://zh.wikipedia.org/wiki/生命_\(遊戲\) "wikilink")，若玩家沒有心心便不能進行遊戲，那時他們通常需要等待15分鐘來得到補充。玩家們可透過完成賓果卡（Mission Bingo）或活動中的任務，或利用「紅寶石」，那是遊戲中的高級貨幣，可透過現金購買，或玩家等級提升，又或是完成賓果卡獲得紅寶石。玩家也可透過登入[Line或](https://zh.wikipedia.org/wiki/Line "wikilink")[Facebook](../Page/Facebook.md "wikilink")向朋友發送心心，每位玩家可於每小時向每位朋友發送一顆心心，發送心心並不會影響玩家的心心數量。在發送心心的一小時內，接收者可同時獲得心心及200枚金幣的獎勵。
 
 ### 賓果卡（Mission Bingo）
 
-每張Bingo卡片裡共有25個任務，每個任務需要運用不同技能的Tsum去解決，連續完成5個任務連線後（橫向直向或斜向皆可），都可獲得拿到紅寶石、道具、金幣...等獎勵，完成全部25個任務後可獲得30,000元Tsums抽獎券，或是獲得特殊Tsums，或是升級技能等大獎，並可以開啟下一張Bingo卡片。目前日語版Tsum
-Tsum已推出共15張Bingo卡片，國際版亦推出共9張Bingo卡片，兩者仍陸續推出中。目前Bingo卡片需要玩家經驗值達第10級（國際版）／第15級（日版）後才能開始使用。
+每張Bingo卡片裡共有25個任務，每個任務需要運用不同技能的Tsum去解決，連續完成5個任務連線後（橫向直向或斜向皆可），都可獲得拿到紅寶石、道具、金幣...等獎勵，完成全部25個任務後可獲得30,000元Tsums抽獎券，或是獲得特殊Tsums，或是升級技能等大獎，並可以開啟下一張Bingo卡片。目前日語版Tsum Tsum已推出共15張Bingo卡片，國際版亦推出共9張Bingo卡片，兩者仍陸續推出中。目前Bingo卡片需要玩家經驗值達第10級（國際版）／第15級（日版）後才能開始使用。
 
 ## 玩具設計
 
-Tsum
-Tsum玩具通常由毛氈、微珠和填充物製成，儘管是硬塑料模型也可以找到。玩具呈卵形，大小各異。最初，玩具分作三種不同的尺寸：迷你（長3.5英寸（8.9厘米））、中型（長11英寸（28厘米））及，大型（17英寸（43厘米））。
+Tsum Tsum玩具通常由毛氈、微珠和填充物製成，儘管是硬塑料模型也可以找到。玩具呈卵形，大小各異。最初，玩具分作三種不同的尺寸：迷你（長3.5英寸（8.9厘米））、中型（長11英寸（28厘米））及，大型（17英寸（43厘米））。
 
 2014年6月，新款的「巨型」尺寸（長21.5英寸（55厘米））在日本市場推出。
 
@@ -80,13 +68,7 @@ Tsum玩具通常由毛氈、微珠和填充物製成，儘管是硬塑料模型�
 
   - [LINE Tsum Tsum 完全攻略](http://tw.dopr.net/tsum)
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:IPad遊戲](https://zh.wikipedia.org/wiki/Category:IPad遊戲 "wikilink")
-[Category:消除类游戏](https://zh.wikipedia.org/wiki/Category:消除类游戏 "wikilink")
-[Category:迪士尼電子遊戲](https://zh.wikipedia.org/wiki/Category:迪士尼電子遊戲 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:IPad遊戲](https://zh.wikipedia.org/wiki/Category:IPad遊戲 "wikilink") [Category:消除类游戏](https://zh.wikipedia.org/wiki/Category:消除类游戏 "wikilink") [Category:迪士尼電子遊戲](https://zh.wikipedia.org/wiki/Category:迪士尼電子遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
 
 1.
 

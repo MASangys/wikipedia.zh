@@ -1,5 +1,4 @@
-《**Monochrome**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[張根碩的第三張日語](../Page/張根碩.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2015年2月25日以三個版本：豪華初回限定盤、通常盤及Fan
-Club盤推出\[1\]。
+《**Monochrome**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[張根碩](../Page/張根碩.md "wikilink")的第三張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2015年2月25日以三個版本：豪華初回限定盤、通常盤及Fan Club盤推出\[1\]。
 
 ## 概觀
 
@@ -13,13 +12,11 @@ Club盤推出\[1\]。
 
 <!-- end list -->
 
-  - 通常盤（編號：PCCA-04145）：此版本包括了一片CD（比豪華初回限定盤和Fan
-    Club盤多收錄一首歌《天空與你》（）），同時附贈四種小卡其中一種和活動抽獎券\[6\]。
+  - 通常盤（編號：PCCA-04145）：此版本包括了一片CD（比豪華初回限定盤和Fan Club盤多收錄一首歌《天空與你》（）），同時附贈四種小卡其中一種和活動抽獎券\[6\]。
 
 <!-- end list -->
 
-  - Fan
-    Club盤（編號：ERCA-00062）：此版本包括一片CD，同時附贈小冊子、親筆簽名感想和活動抽獎券，並只限歌迷會會員購買\[7\]。
+  - Fan Club盤（編號：ERCA-00062）：此版本包括一片CD，同時附贈小冊子、親筆簽名感想和活動抽獎券，並只限歌迷會會員購買\[7\]。
 
 ## 曲目
 
@@ -29,7 +26,7 @@ Club盤推出\[1\]。
 
 ### Oricon公信榜
 
-| [Oricon榜單](../Page/Oricon.md "wikilink") | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量     | 停留時間 |
 | ---------------------------------------- | ---- | ------ | ------- | ---- |
 | 專輯日榜                                     | 3    | 26,917 | 32,537+ | 星期   |
 | 專輯週榜                                     | 3    | 32,537 |         |      |
@@ -59,10 +56,7 @@ Club盤推出\[1\]。
 
 ## 參考資料
 
-[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:張根碩音樂專輯](https://zh.wikipedia.org/wiki/Category:張根碩音樂專輯 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
+[Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:張根碩音樂專輯](https://zh.wikipedia.org/wiki/Category:張根碩音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
 
 1.
 

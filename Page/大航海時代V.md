@@ -7,14 +7,7 @@
 ## 外部链接
 
   -
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:光荣特库摩游戏](https://zh.wikipedia.org/wiki/Category:光荣特库摩游戏 "wikilink")
-[Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink")
-[Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink")
-[Category:iOS游戏](https://zh.wikipedia.org/wiki/Category:iOS游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:光荣特库摩游戏](https://zh.wikipedia.org/wiki/Category:光荣特库摩游戏 "wikilink") [Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink") [Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink") [Category:iOS游戏](https://zh.wikipedia.org/wiki/Category:iOS游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink")
 
 1.
 2.

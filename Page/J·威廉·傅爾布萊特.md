@@ -6,7 +6,7 @@
 
 ## 早年生活
 
-傅爾布萊特出生於[密蘇里州](../Page/密蘇里州.md "wikilink")，父親是捷·傅爾布萊特（），母親是羅伯塔·沃（）。\[3\]他於1925年從[阿肯色大學獲得了](https://zh.wikipedia.org/wiki/阿肯色大學 "wikilink")[政治學學士學位](https://zh.wikipedia.org/wiki/政治學 "wikilink")，成為的成員。他被選為[學生會會長](../Page/學生會.md "wikilink")，從1921年到1924年是的明星球員。\[4\]\[5\]
+傅爾布萊特出生於[密蘇里州](../Page/密蘇里州.md "wikilink")，父親是捷·傅爾布萊特（），母親是羅伯塔·沃（）。\[3\]他於1925年從[阿肯色大學獲得了](https://zh.wikipedia.org/wiki/阿肯色大學 "wikilink")[政治學學士學位](https://zh.wikipedia.org/wiki/政治學 "wikilink")，成為的成員。他被選為[學生會](../Page/學生會.md "wikilink")會長，從1921年到1924年是的明星球員。\[4\]\[5\]
 
 他後來拿[羅德獎學金就讀於](https://zh.wikipedia.org/wiki/羅德獎學金 "wikilink")[牛津大學彭布羅克學院](https://zh.wikipedia.org/wiki/牛津大學彭布羅克學院 "wikilink")，於1928年畢業。他於1934年從[喬治華盛頓大學法學院獲得了法律學位](https://zh.wikipedia.org/wiki/喬治華盛頓大學 "wikilink")。他在[華盛頓特區通過](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")[律師資格考試](../Page/律師資格考試.md "wikilink")，並成為[美國司法部](https://zh.wikipedia.org/wiki/美國司法部 "wikilink")的一名律師。\[6\]
 
@@ -32,16 +32,13 @@
 
 [約瑟夫·麥卡錫於](https://zh.wikipedia.org/wiki/約瑟夫·麥卡錫 "wikilink")1954年擔任參議院常設調查小組委員會主席時，他是唯一投票反對撥款的參議員。\[11\]
 
-他簽署[南方宣言](https://zh.wikipedia.org/wiki/南方宣言 "wikilink")，反對美國最高法院1954年[布朗訴托皮卡教育局案的歷史性判決](../Page/布朗訴托皮卡教育局案.md "wikilink")。他隨後與南方民主黨人一起對和[1964年民權法案以](../Page/1964年民權法案.md "wikilink")[冗長辯論進行阻撓](../Page/冗長辯論.md "wikilink")，並且投票反對[1965年投票權法案](https://zh.wikipedia.org/wiki/1965年投票權法案 "wikilink")。然而在尼克松政府期間，他投票支持民權法案，並領頭反對任命尼克松提名的保守派Clement
-Haynsworth和為最高法院大法官。
+他簽署[南方宣言](https://zh.wikipedia.org/wiki/南方宣言 "wikilink")，反對美國最高法院1954年[布朗訴托皮卡教育局案](../Page/布朗訴托皮卡教育局案.md "wikilink")的歷史性判決。他隨後與南方民主黨人一起對和[1964年民權法案](../Page/1964年民權法案.md "wikilink")以[冗長辯論](../Page/冗長辯論.md "wikilink")進行阻撓，並且投票反對[1965年投票權法案](https://zh.wikipedia.org/wiki/1965年投票權法案 "wikilink")。然而在尼克松政府期間，他投票支持民權法案，並領頭反對任命尼克松提名的保守派Clement Haynsworth和為最高法院大法官。
 
 在[約翰·甘迺迪總統心中](https://zh.wikipedia.org/wiki/約翰·甘迺迪 "wikilink")，他是國務卿的第一人選，但有人認為他太具爭議性，因此選中[迪安·魯斯克](https://zh.wikipedia.org/wiki/迪安·魯斯克 "wikilink")。\[12\]甘迺迪總統在發動[豬灣事件前徵詢他的意見](https://zh.wikipedia.org/wiki/豬灣事件 "wikilink")，他極力反對，指該行動與美國所受到的威脅極度不成比例，會損害美國在世界上的道德地位，使美國無法抗議共產黨違反條約。\[13\]
 
-[柏林圍牆豎立的兩個星期前](../Page/柏林圍牆.md "wikilink")（1961年7月30日），他在接受電視採訪時說：“我不明白為什麼東德不乾脆關閉邊界，我覺得他們有此權利。」\[14\]東德共產黨的報紙《[新德國](https://zh.wikipedia.org/wiki/新德國 "wikilink")》在頭版報導了他的聲明。\[15\]他的聲明在西德引起非常負面的反應。[波昂美國大使館的電報說](https://zh.wikipedia.org/wiki/波昂 "wikilink")，“很少有一個著名美國官員的聲明引起了這麼大的恐慌，懊惱和憤怒。”媒體引述西德總理[威利·布蘭特的新聞秘書](https://zh.wikipedia.org/wiki/威利·布蘭特 "wikilink")[埃貢·巴爾的話說](https://zh.wikipedia.org/wiki/埃貢·巴爾 "wikilink")：“我們私下稱他為Fulbricht（全毀）”\[16\]甘迺迪總統的[國家安全顧問](https://zh.wikipedia.org/wiki/國家安全顧問 "wikilink")將此事的新聞報導提交給總統時評論：“傅爾布萊特參議員的言論發揮了正面影響。”甘迺迪此後拒絕疏遠傅爾布萊特，表明他要求傅爾布萊特用此種方式向蘇聯領導人[赫魯曉夫表示美國可以接受用建立圍牆的方式化解](https://zh.wikipedia.org/wiki/尼基塔·謝爾蓋耶維奇·赫魯雪夫 "wikilink")[柏林危機](https://zh.wikipedia.org/wiki/柏林危機 "wikilink")。\[17\]
+[柏林圍牆](../Page/柏林圍牆.md "wikilink")豎立的兩個星期前（1961年7月30日），他在接受電視採訪時說：“我不明白為什麼東德不乾脆關閉邊界，我覺得他們有此權利。」\[14\]東德共產黨的報紙《[新德國](https://zh.wikipedia.org/wiki/新德國 "wikilink")》在頭版報導了他的聲明。\[15\]他的聲明在西德引起非常負面的反應。[波昂美國大使館的電報說](https://zh.wikipedia.org/wiki/波昂 "wikilink")，“很少有一個著名美國官員的聲明引起了這麼大的恐慌，懊惱和憤怒。”媒體引述西德總理[威利·布蘭特的新聞秘書](https://zh.wikipedia.org/wiki/威利·布蘭特 "wikilink")[埃貢·巴爾的話說](https://zh.wikipedia.org/wiki/埃貢·巴爾 "wikilink")：“我們私下稱他為Fulbricht（全毀）”\[16\]甘迺迪總統的[國家安全顧問](https://zh.wikipedia.org/wiki/國家安全顧問 "wikilink")將此事的新聞報導提交給總統時評論：“傅爾布萊特參議員的言論發揮了正面影響。”甘迺迪此後拒絕疏遠傅爾布萊特，表明他要求傅爾布萊特用此種方式向蘇聯領導人[赫魯曉夫表示美國可以接受用建立圍牆的方式化解](https://zh.wikipedia.org/wiki/尼基塔·謝爾蓋耶維奇·赫魯雪夫 "wikilink")[柏林危機](https://zh.wikipedia.org/wiki/柏林危機 "wikilink")。\[17\]
 
-1964年8月7日，傅爾布萊特支持的在眾議院一致通過，在參議院以88-2票通過，導致後來越戰急劇升級。\[18\]然而不久後，他從閱讀和記者的採訪了解，美國正在支持一個不受歡迎的傀儡政權，對抗本土真正的民族主義革命運動。\[19\]他後來寫道：\[20\]
-
-他作為外交關係委員會主席，多次舉行越戰聽證會。許多1966年的聽證會，被電視向全國全程轉播。1966年，他出版《權力的傲慢》，批評了美國參與越戰的理由，美國國會未能限制越戰，以及引起越戰的衝動。他的嚴厲批判削弱了美國精英的共識－由於冷戰[地緣政治](https://zh.wikipedia.org/wiki/地緣政治 "wikilink")，美國必需在[中南半島進行軍事干預](../Page/中南半島.md "wikilink")。
+1964年8月7日，傅爾布萊特支持的在眾議院一致通過，在參議院以88-2票通過，導致後來越戰急劇升級。\[18\]然而不久後，他從閱讀和記者的採訪了解，美國正在支持一個不受歡迎的傀儡政權，對抗本土真正的民族主義革命運動。\[19\]他後來寫道：\[20\]  他作為外交關係委員會主席，多次舉行越戰聽證會。許多1966年的聽證會，被電視向全國全程轉播。1966年，他出版《權力的傲慢》，批評了美國參與越戰的理由，美國國會未能限制越戰，以及引起越戰的衝動。他的嚴厲批判削弱了美國精英的共識－由於冷戰[地緣政治](https://zh.wikipedia.org/wiki/地緣政治 "wikilink")，美國必需在[中南半島](../Page/中南半島.md "wikilink")進行軍事干預。
 
 1974年，他在民主黨初選中輸給當時的州長，離開參議院。
 
@@ -49,7 +46,7 @@ Haynsworth和為最高法院大法官。
 
 他離開參議院後，從1975年至1993年在的華盛頓辦公室從事[國際法工作](https://zh.wikipedia.org/wiki/國際法 "wikilink")。
 
-1993年5月5日，[美國總統克林頓頒發](https://zh.wikipedia.org/wiki/比爾·柯林頓 "wikilink")[總統自由勳章給他](../Page/總統自由勳章.md "wikilink")，作為四十八周年獻禮\[21\]。
+1993年5月5日，[美國總統克林頓頒發](https://zh.wikipedia.org/wiki/比爾·柯林頓 "wikilink")[總統自由勳章](../Page/總統自由勳章.md "wikilink")給他，作為四十八周年獻禮\[21\]。
 
 傅爾布萊特於1995年在華盛頓特區歲死於[中風](../Page/中風.md "wikilink")，享年89歲\[22\]。
 
@@ -84,14 +81,7 @@ Haynsworth和為最高法院大法官。
 
   -
   -
-[Category:牛津大學大學學院校友](https://zh.wikipedia.org/wiki/Category:牛津大學大學學院校友 "wikilink")
-[Category:美國羅德學者](https://zh.wikipedia.org/wiki/Category:美國羅德學者 "wikilink")
-[Category:喬治·華盛頓大學校友](https://zh.wikipedia.org/wiki/Category:喬治·華盛頓大學校友 "wikilink")
-[Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink")
-[Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink")
-[Category:阿肯色大學校友](https://zh.wikipedia.org/wiki/Category:阿肯色大學校友 "wikilink")
-[Category:密苏里州人](https://zh.wikipedia.org/wiki/Category:密苏里州人 "wikilink")
-[Category:20世纪律师](https://zh.wikipedia.org/wiki/Category:20世纪律师 "wikilink")
+[Category:牛津大學大學學院校友](https://zh.wikipedia.org/wiki/Category:牛津大學大學學院校友 "wikilink") [Category:美國羅德學者](https://zh.wikipedia.org/wiki/Category:美國羅德學者 "wikilink") [Category:喬治·華盛頓大學校友](https://zh.wikipedia.org/wiki/Category:喬治·華盛頓大學校友 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink") [Category:美国民主党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦众议员 "wikilink") [Category:阿肯色大學校友](https://zh.wikipedia.org/wiki/Category:阿肯色大學校友 "wikilink") [Category:密苏里州人](https://zh.wikipedia.org/wiki/Category:密苏里州人 "wikilink") [Category:20世纪律师](https://zh.wikipedia.org/wiki/Category:20世纪律师 "wikilink")
 
 1.
 
@@ -104,12 +94,7 @@ Haynsworth和為最高法院大法官。
 
 6.
 
-7.   The Rothermere American Institute
-    |url=<http://www.rai.ox.ac.uk/about/history/foundingcouncil>
-    |publisher=Rothermere American Institute |accessdate=2012-11-22
-    |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20121117021312/http://www.rai.ox.ac.uk/about/history/foundingcouncil>
-    |archivedate=2012-11-17 }}
+7.   The Rothermere American Institute |url=<http://www.rai.ox.ac.uk/about/history/foundingcouncil> |publisher=Rothermere American Institute |accessdate=2012-11-22 |deadurl=yes |archiveurl=<https://web.archive.org/web/20121117021312/http://www.rai.ox.ac.uk/about/history/foundingcouncil> |archivedate=2012-11-17 }}
 
 8.
 
@@ -126,11 +111,9 @@ Haynsworth和為最高法院大法官。
 
 15.
 
-16. Berlin in Early Berlin-Wall Era CIA, State Department, and Army
-    Booklets, T.H.E. Hill (compiler), 2014, pp. xviii, xix, 279, 283
+16. Berlin in Early Berlin-Wall Era CIA, State Department, and Army Booklets, T.H.E. Hill (compiler), 2014, pp. xviii, xix, 279, 283
 
-17. W. R. Smyser, Kennedy and the Berlin Wall, Rowman & Littlefield
-    Publishers, 2009, p. 90.
+17. W. R. Smyser, Kennedy and the Berlin Wall, Rowman & Littlefield Publishers, 2009, p. 90.
 
 18.
 19.

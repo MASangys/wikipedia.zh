@@ -1,7 +1,4 @@
-《**失蹤的黑色M**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2015年3月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑人之間對決的故事。FBI出身的天才精英刑警吉秀賢（金剛于
-飾）和純度100%的本土老派勢力刑警吳大榮（朴喜洵
-飾）的拍檔將會怎樣在一定期限內找出失踪者並與前所未聞的惡性犯罪者抗衡的故事，以“失踪”為主題，不僅將描繪尋找失踪者的過程，還將會是一段尋找社會丟失的正義、價值的旅程，是一部全新題材的刑偵劇。\[1\]\[2\]
+《**失蹤的黑色M**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2015年3月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑人之間對決的故事。FBI出身的天才精英刑警吉秀賢（金剛于 飾）和純度100%的本土老派勢力刑警吳大榮（朴喜洵 飾）的拍檔將會怎樣在一定期限內找出失踪者並與前所未聞的惡性犯罪者抗衡的故事，以“失踪”為主題，不僅將描繪尋找失踪者的過程，還將會是一段尋找社會丟失的正義、價值的旅程，是一部全新題材的刑偵劇。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -64,8 +61,7 @@ Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑
   - [張光](../Page/張光_\(演員\).md "wikilink") 飾演 南錫台（第5集）
   - [孫秀賢](../Page/孫秀賢.md "wikilink") 飾演 潘孝靜（第7集）
   - [L.Joe](https://zh.wikipedia.org/wiki/李秉憲 "wikilink") 飾演 梁正浩（第7集）
-  - [李妍杜](https://zh.wikipedia.org/wiki/李妍杜 "wikilink") 飾演
-    鄭善美/金貞熙（第8、9集）
+  - [李妍杜](https://zh.wikipedia.org/wiki/李妍杜 "wikilink") 飾演 鄭善美/金貞熙（第8、9集）
   - [沈宜英](../Page/沈宜英.md "wikilink") 飾演 吳大榮的妻子
   - [鄭燦](../Page/鄭燦.md "wikilink") 飾演 洪振基
   - [金炳哲](../Page/金炳哲.md "wikilink") 飾演 姜允九
@@ -194,15 +190,9 @@ Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑
   - [韓國OCN官方網站](http://program.interest.me/ocn/m2015)
 
   -
-[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
+[Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
 
 1.  [金康宇朴熙順連袂出演OCN新劇《特殊失蹤專案組M》](http://www.koreastardaily.com/tc/news/53929)韓星網
 2.  [赵宝儿将出演《特殊失踪专案组M》](http://www.hanfan.cc/13098.html)韩饭网
-3.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
-4.  [NAVER 실종느와르
-    M](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EC%8B%A4%EC%A2%85%EB%8A%90%EC%99%80%EB%A5%B4+M)
+3.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+4.  [NAVER 실종느와르 M](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EC%8B%A4%EC%A2%85%EB%8A%90%EC%99%80%EB%A5%B4+M)

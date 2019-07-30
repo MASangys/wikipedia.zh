@@ -1,5 +1,4 @@
-**NEMO博物館**（Science Center
-Nemo）是[荷蘭的一座科學中心](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，位於荷蘭首都[阿姆斯特丹的市中心](../Page/阿姆斯特丹.md "wikilink")。
+**NEMO博物館**（Science Center Nemo）是[荷蘭的一座科學中心](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，位於荷蘭首都[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")的市中心。
 
 ## 历史
 
@@ -11,8 +10,6 @@ Nemo）是[荷蘭的一座科學中心](https://zh.wikipedia.org/wiki/荷蘭 "wi
 
   - [Science Center Nemo](http://www.e-nemo.nl/), official website
 
-[Category:阿姆斯特丹博物館](https://zh.wikipedia.org/wiki/Category:阿姆斯特丹博物館 "wikilink")
-[Category:1923年建立的博物馆](https://zh.wikipedia.org/wiki/Category:1923年建立的博物馆 "wikilink")
+[Category:阿姆斯特丹博物館](https://zh.wikipedia.org/wiki/Category:阿姆斯特丹博物館 "wikilink") [Category:1923年建立的博物馆](https://zh.wikipedia.org/wiki/Category:1923年建立的博物馆 "wikilink")
 
-1.   [Geschiedenis](http://www.e-nemo.nl/?id=5&s=74&d=377). Nemo.
-    Retrieved on 2012-01-24.
+1.   [Geschiedenis](http://www.e-nemo.nl/?id=5&s=74&d=377). Nemo. Retrieved on 2012-01-24.

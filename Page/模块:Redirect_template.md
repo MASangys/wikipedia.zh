@@ -2,9 +2,7 @@ require('Module:No globals')
 
 local p = {}
 
-\-- key is beginning of arg name. value is table with namespace number
-and link -- alternatively, a function taking the namespace number and
-returning a validity -- can be used local namespaceCategories = {
+\-- key is beginning of arg name. value is table with namespace number and link -- alternatively, a function taking the namespace number and returning a validity -- can be used local namespaceCategories = {
 
 `   all = { function() return true end },`
 `   main = { 0, '`[`条目`](https://zh.wikipedia.org/wiki/Wikipedia:条目 "wikilink")`' },`
@@ -18,8 +16,7 @@ returning a validity -- can be used local namespaceCategories = {
 
 }
 
-\-- Don't convert blank category to nil local function valueFunc(key,
-val)
+\-- Don't convert blank category to nil local function valueFunc(key, val)
 
 `   if type(val) == 'string' then`
 `       val = val:match('^%s*(.-)%s*$')`
@@ -35,8 +32,7 @@ local function getPrettyName(args)
 
 `   for k in pairs(namespaceCategories) do`
 `       if args[k .. ' category'] then`
-`           return  "`**`[[:Category:"_.._args[k_.._'_category']_.._"|"``
- ``..``   ``args.name``   ``..``   ``"]]`**`："`
+`           return  "`**`[[:Category:"_.._args[k_.._'_category']_.._"|"``   ``..``   ``args.name``   ``..``   ``"]]`**`："`
 `       end`
 `   end`
 `   return "`**`"``   ``..``   ``args.name``   ``..``   ``"`**`："`
@@ -94,7 +90,4 @@ end
 
 return p
 
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
-[Category:值得列印的重定向](https://zh.wikipedia.org/wiki/Category:值得列印的重定向 "wikilink")
-[Category:不需列印的重定向](https://zh.wikipedia.org/wiki/Category:不需列印的重定向 "wikilink")
+[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink") [Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink") [Category:值得列印的重定向](https://zh.wikipedia.org/wiki/Category:值得列印的重定向 "wikilink") [Category:不需列印的重定向](https://zh.wikipedia.org/wiki/Category:不需列印的重定向 "wikilink")

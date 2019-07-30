@@ -1,8 +1,6 @@
 local p = {}
 
-local getArgs = require('Module:Arguments').getArgs local infobox =
-require('Module:Infobox').infobox local parameterList =
-mw.loadData('Module:Infobox VG/parameterList')
+local getArgs = require('Module:Arguments').getArgs local infobox = require('Module:Infobox').infobox local parameterList = mw.loadData('Module:Infobox VG/parameterList')
 
 local function getData(args, idx)
 
@@ -109,5 +107,4 @@ end
 
 return p
 
-[Category:可能使用国旗图标的电子游戏信息框](https://zh.wikipedia.org/wiki/Category:可能使用国旗图标的电子游戏信息框 "wikilink")
-[Category:或需标准化参数格式的电子游戏信息框](https://zh.wikipedia.org/wiki/Category:或需标准化参数格式的电子游戏信息框 "wikilink")
+[Category:可能使用国旗图标的电子游戏信息框](https://zh.wikipedia.org/wiki/Category:可能使用国旗图标的电子游戏信息框 "wikilink") [Category:或需标准化参数格式的电子游戏信息框](https://zh.wikipedia.org/wiki/Category:或需标准化参数格式的电子游戏信息框 "wikilink")

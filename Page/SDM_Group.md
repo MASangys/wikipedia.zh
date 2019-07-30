@@ -1,5 +1,4 @@
-**SDM集團控股有限公司**（****，），於2006年由[行政總裁秦志昂和主席趙家樂在](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[香港](../Page/香港.md "wikilink")（總部）成立**SDM
-爵士芭蕾舞學院**。
+**SDM集團控股有限公司**（****，），於2006年由[行政總裁秦志昂和主席趙家樂在](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[香港](../Page/香港.md "wikilink")（總部）成立**SDM 爵士芭蕾舞學院**。
 
 業務在香港經營各式各樣舞蹈課程\[1\]。
 
@@ -11,19 +10,11 @@
 
   - [sdm.hk](http://sdm.hk)
 
-[Category:香港上市綜合企業公司](https://zh.wikipedia.org/wiki/Category:香港上市綜合企業公司 "wikilink")
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
-[Category:香港牟利學校](https://zh.wikipedia.org/wiki/Category:香港牟利學校 "wikilink")
+[Category:香港上市綜合企業公司](https://zh.wikipedia.org/wiki/Category:香港上市綜合企業公司 "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:香港牟利學校](https://zh.wikipedia.org/wiki/Category:香港牟利學校 "wikilink")
 
-[Category:中国教育公司](https://zh.wikipedia.org/wiki/Category:中国教育公司 "wikilink")
-[Category:家族式企業](https://zh.wikipedia.org/wiki/Category:家族式企業 "wikilink")
-[Category:香港補習學校](https://zh.wikipedia.org/wiki/Category:香港補習學校 "wikilink")
+[Category:中国教育公司](https://zh.wikipedia.org/wiki/Category:中国教育公司 "wikilink") [Category:家族式企業](https://zh.wikipedia.org/wiki/Category:家族式企業 "wikilink") [Category:香港補習學校](https://zh.wikipedia.org/wiki/Category:香港補習學校 "wikilink")
 
 1.
-2.  [《新股情報》芭蕾舞學校SDM(08363)擬配售形式上市
-    下月中掛牌](http://www.quamnet.com/newscontent.action?articleId=3848288)[infocast](https://zh.wikipedia.org/wiki/infocast "wikilink")
-    2014年9月30日
+2.  [《新股情報》芭蕾舞學校SDM(08363)擬配售形式上市 下月中掛牌](http://www.quamnet.com/newscontent.action?articleId=3848288)[infocast](https://zh.wikipedia.org/wiki/infocast "wikilink") 2014年9月30日
 3.  [SDM集團控股有限公司招股資料](http://sdm.hk/wp-content/uploads/2014/09/CW08363-IPO.pdf)
-4.  [創板新股閃電走樣
-    股價最多跌86%　股壇老手籲勿沾手](http://hk.apple.appledaily.com/financeestate/art/20141126/18948082)
-    蘋果日報 2014年11月26日
+4.  [創板新股閃電走樣 股價最多跌86%　股壇老手籲勿沾手](http://hk.apple.appledaily.com/financeestate/art/20141126/18948082) 蘋果日報 2014年11月26日

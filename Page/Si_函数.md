@@ -1,7 +1,6 @@
 **Si 函数**定义如下\[1\]\[2\]
 
-[Si(x)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Si\(x\)_2D_plot.png "fig:Si(x)_2D_plot.png")
-\({\it Si} \left( z \right) =\int _{0}^{z}\!{\frac {\sin \left( t \right) }{t}}{dt}\)
+[Si(x)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Si\(x\)_2D_plot.png "fig:Si(x)_2D_plot.png") \({\it Si} \left( z \right) =\int _{0}^{z}\!{\frac {\sin \left( t \right) }{t}}{dt}\)
 
 \(Si(z)\)是下列三階常微分方程的一个解:
 
@@ -21,19 +20,15 @@ w \left( z \right) =0\)
   - \(\)
   - <math>\\frac{ -1}{2}\\,\\sqrt {\\pi }
 
-G^{1, 1}_{1, 3}\\left(1/4\\,{z}^{2}\\, \\Big\\vert\\,^{1}_{1/2, 0,
-0}\\right) </math> [超几何函数](../Page/超几何函数.md "wikilink")
+G^{1, 1}_{1, 3}\\left(1/4\\,{z}^{2}\\, \\Big\\vert\\,^{1}_{1/2, 0, 0}\\right) </math> [超几何函数](../Page/超几何函数.md "wikilink")
 
   - \(Si(z)=z*_{1}F_{2}(1/2;3/2, 3/2; -(1/4)*z^2)\)
 
 ## 级数展开
 
-  - <math> {\\it Si} \\left( z \\right) =(z-{\\frac
-    {1}{18}}{z}^{3}+{\\frac {1}{600}}{
+  - <math> {\\it Si} \\left( z \\right) =(z-{\\frac {1}{18}}{z}^{3}+{\\frac {1}{600}}{
 
-z}^{5}-{\\frac {1}{35280}}{z}^{7}+{\\frac {1}{3265920}}{z}^{9}-{\\frac
-{1 }{439084800}}{z}^{11}+{\\frac {1}{80951270400}}{z}^{13}+O \\left(
-{z}^{ 15} \\right) ) </math>
+z}^{5}-{\\frac {1}{35280}}{z}^{7}+{\\frac {1}{3265920}}{z}^{9}-{\\frac {1 }{439084800}}{z}^{11}+{\\frac {1}{80951270400}}{z}^{13}+O \\left( {z}^{ 15} \\right) ) </math>
 
 ## 帕德近似
 
@@ -69,9 +64,5 @@ z}^{5}-{\\frac {1}{35280}}{z}^{7}+{\\frac {1}{3265920}}{z}^{9}-{\\frac
 
 [Category:特殊函数](https://zh.wikipedia.org/wiki/Category:特殊函数 "wikilink")
 
-1.  Abramowitz, M. and Stegun, I. A. (Eds.). "Sine and Cosine
-    Integrals." §5.2 inHandbook of Mathematical Functions with Formulas,
-    Graphs, and Mathematical Tables, 9th printing. New York: Dover, pp.
-    231-233, 1972.
-2.  Sloane, N. J. A. Sequence A061079 in "The On-Line Encyclopedia of
-    Integer Sequences
+1.  Abramowitz, M. and Stegun, I. A. (Eds.). "Sine and Cosine Integrals." §5.2 inHandbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables, 9th printing. New York: Dover, pp. 231-233, 1972.
+2.  Sloane, N. J. A. Sequence A061079 in "The On-Line Encyclopedia of Integer Sequences

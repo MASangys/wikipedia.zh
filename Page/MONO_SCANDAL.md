@@ -1,5 +1,4 @@
-《**MONO
-SCANDAL**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS第九張韓語迷你專輯](../Page/U-KISS.md "wikilink")，於2014年6月2日發行，主打歌曲為《別賣弄風騷》（）\[1\]。
+《**MONO SCANDAL**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")第九張韓語迷你專輯，於2014年6月2日發行，主打歌曲為《別賣弄風騷》（）\[1\]。
 
 ## 曲目
 
@@ -91,9 +90,7 @@ SCANDAL**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wik
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

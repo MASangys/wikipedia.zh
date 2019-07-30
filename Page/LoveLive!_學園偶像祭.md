@@ -1,17 +1,15 @@
-简称：、，是由[KLab製作](../Page/KLab.md "wikilink")、[武士道營運的](../Page/武士道_\(公司\).md "wikilink")[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智慧手機系統 "wikilink")[節奏與](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")
-。屬於「[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")」多媒體計劃當中的一個作品，於2013年在[日本首先推出日文版](../Page/日本.md "wikilink")，並在2014年先後推出英文版（國際版）、繁體中文版、簡體中文版以及韓文版。
+简称：、，是由[KLab](../Page/KLab.md "wikilink")製作、[武士道營運的](../Page/武士道_\(公司\).md "wikilink")[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智慧手機系統 "wikilink")[節奏與](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink") 。屬於「[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")」多媒體計劃當中的一個作品，於2013年在[日本](../Page/日本.md "wikilink")首先推出日文版，並在2014年先後推出英文版（國際版）、繁體中文版、簡體中文版以及韓文版。
 
-本遊戲在[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android屬於免費下載的應用程式](../Page/Android.md "wikilink")，而遊戲內亦有選擇性的付費項目可供購買。
+本遊戲在[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")屬於免費下載的應用程式，而遊戲內亦有選擇性的付費項目可供購買。
 
-遊戲在第一期電視動畫播放完畢後不久推出。由於其反應熱烈，開發商[KLab因而在](../Page/KLab.md "wikilink")2013年5月擺脫長期[赤字的困境](https://zh.wikipedia.org/wiki/赤字 "wikilink")\[1\]，成功將預期的9000萬日圓虧損逆轉為9000萬日圓盈利，轉虧為盈\[2\]\[3\]，被稱為是一個令其「兩度起死回生」的作品\[4\]。本作也成為了該公司2013年的焦點產品\[5\]。
+遊戲在第一期電視動畫播放完畢後不久推出。由於其反應熱烈，開發商[KLab](../Page/KLab.md "wikilink")因而在2013年5月擺脫長期[赤字的困境](https://zh.wikipedia.org/wiki/赤字 "wikilink")\[1\]，成功將預期的9000萬日圓虧損逆轉為9000萬日圓盈利，轉虧為盈\[2\]\[3\]，被稱為是一個令其「兩度起死回生」的作品\[4\]。本作也成為了該公司2013年的焦點產品\[5\]。
 
 ## 歷史
 
 ### 2013年
 
   -
-    4月15日，武士道在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") [App
-    Store上開放日文版遊戲下載](https://zh.wikipedia.org/wiki/App_Store "wikilink")。
+    4月15日，武士道在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") [App Store上開放日文版遊戲下載](https://zh.wikipedia.org/wiki/App_Store "wikilink")。
     6月8日，日文版遊戲開放予Android 4.0或以後的部分手機下載。
     6月，突破50萬名使用者\[6\]。
     7月5日，日文版遊戲開放予Android 2.3或以後的部分手機下載。
@@ -20,16 +18,14 @@
       - 更換了劇情模式的人物插圖，並追加了高坂雪穗與絢瀨亞里沙。
       - 新增活動模式「Score Match」。
       - 舉行聖誕節卡片登場角色的投票。
-    12月13・14日，官方在[秋葉原舉行](../Page/秋葉原.md "wikilink")「」\[8\]。
+    12月13・14日，官方在[秋葉原](../Page/秋葉原.md "wikilink")舉行「」\[8\]。
 
 ### 2014年
 
   -
-    1月19日，μ's第一彈學園偶像祭合作單曲「[寶物/Paradise
-    Live](https://zh.wikipedia.org/wiki/寶物/Paradise_Live "wikilink")」（）發售。
+    1月19日，μ's第一彈學園偶像祭合作單曲「[寶物/Paradise Live](https://zh.wikipedia.org/wiki/寶物/Paradise_Live "wikilink")」（）發售。
     2月24日，突破200萬名使用者\[9\]。
-    5月12日，在[日本](../Page/日本.md "wikilink")、[中国大陸](../Page/中国大陆.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門及](../Page/澳門.md "wikilink")[南韓以外的地區以](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")「School
-    idol festival」名義推出英文iOS及Android版本\[10\]。
+    5月12日，在[日本](../Page/日本.md "wikilink")、[中国大陸](../Page/中国大陆.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")及[南韓以外的地區以](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")「School idol festival」名義推出英文iOS及Android版本\[10\]。
     5月23日，[移動怪獸在香港](https://zh.wikipedia.org/wiki/移動怪獸 "wikilink")、澳門以及臺灣推出繁體中文Android版本，同日突破300萬名使用者\[11\]\[12\]。
     6月5日，[移動怪獸推出繁體中文iOS版本](https://zh.wikipedia.org/wiki/移動怪獸 "wikilink")。
     6月10日，[盛大遊戲推出簡體中文iOS版本](https://zh.wikipedia.org/wiki/盛大遊戲 "wikilink")。
@@ -47,7 +43,7 @@
     1月19日，日文版突破700萬名使用者\[18\]。
     2月22日，日文版突破800萬名使用者\[19\]。
     4月22日，日文版突破900萬名使用者\[20\]。
-    6月6・7日，官方在[东京舉行](../Page/东京.md "wikilink")“”
+    6月6・7日，官方在[东京](../Page/东京.md "wikilink")舉行“”
     6月6日，官方宣布日文版於6月2日突破1000萬名使用者，海外版於5月30日總計突破1500萬名使用者。並同時宣布日文版遊戲介面將進行大更新\[21\]。
     7月13日，日文版突破1100萬名使用者\[22\]。
     8月4日，日文版更新为3.0版本，改版内容有：
@@ -57,20 +53,19 @@
       - 增加「背景變更」功能，可以將劇情模式中出現的背景，套用於自己遊戲畫面的背景上，
       - 增加「貼紙商店」功能，可以將用來練習或退社的社員，轉換成貼紙並交易（限稀有度R以上的卡片）。
     9月14日，全球總計突破2000萬名使用者\[23\]。
-    10月28日，μ's第二彈學園偶像祭合作單曲「[HEART to
-    HEART\!](../Page/HEART_to_HEART!.md "wikilink")」發售。
+    10月28日，μ's第二彈學園偶像祭合作單曲「[HEART to HEART\!](../Page/HEART_to_HEART!.md "wikilink")」發售。
     11月27日，官方宣布日文版於11月14日突破1300萬名使用者，並同時宣布街機版製作決定\[24\]。
 
 ### 2016年
 
   -
-    1月11日，在[NICONICO播出的生放送节目中](https://zh.wikipedia.org/wiki/NICONICO "wikilink")，官方宣布将在游戏中追加[Aqours的歌曲](../Page/Aqours.md "wikilink")、卡牌及剧情\[25\]。
+    1月11日，在[NICONICO播出的生放送节目中](https://zh.wikipedia.org/wiki/NICONICO "wikilink")，官方宣布将在游戏中追加[Aqours](../Page/Aqours.md "wikilink")的歌曲、卡牌及剧情\[25\]。
     1月18日，官方於遊戲內宣布日文版突破1400萬名使用者\[26\]。
     2月18日，官方發表遊戲的街機版，命名為《》\[27\]。
     3月9日，全球總計突破2500萬名使用者。
     5月16日，国际版更新為3.0版本。
     5月17日，官方於遊戲內宣布日文版突破1600萬名使用者。
-    5月21日・22日，官方在[东京舉行](../Page/东京.md "wikilink")“”
+    5月21日・22日，官方在[东京](../Page/东京.md "wikilink")舉行“”
     6月17日，繁體中文版更新為3.0版本。
     6月27日，官方宣布将在国际版中加入海外多國語系界面，同時宣布韓文版將與國際版合併，由TOAST代理的韓文版將停止运营，用户数据将迁移到国际版\[28\]\[29\]。
     7月4日，簡體中文版更新為3.0版本。
@@ -89,8 +84,7 @@
     10月17日，官方於網站內宣布日文版突破1800萬名使用者。
     11月13日，官方在[大阪举行](https://zh.wikipedia.org/wiki/大阪 "wikilink")“”。
     11月18日，繁體中文版更新為4.0版本。
-    11月23日，Aqours第一彈學園偶像祭合作單曲「[不會停止的Jingle
-    Bell](../Page/不會停止的Jingle_Bell.md "wikilink")」（）發售。
+    11月23日，Aqours第一彈學園偶像祭合作單曲「[不會停止的Jingle Bell](../Page/不會停止的Jingle_Bell.md "wikilink")」（）發售。
     12月6日，[スクフェスAC正式營運](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#.E8.A1.97.E6.A9.9F.E7.89.88 "wikilink")。
     12月25日，官方宣布日文版突破1900萬名使用者\[30\]。
 
@@ -118,14 +112,13 @@
     6月22日，简体中文版於4.1版本中將部分英文界面改为简体中文。
     9月1日，在遊戲官網宣布illustration book發售決定，秋季發售預定。
     9月5日，國際版更新為5.0版本。
-    9月21日，在[东京电玩展](../Page/东京电玩展.md "wikilink")2017武士道攤位舉辦新情報發表會。本次由Aqours团长[伊波杏樹擔任主持](../Page/伊波杏樹.md "wikilink")，μ's团长[新田惠海作为特別貴賓登場](../Page/新田惠海.md "wikilink")。本次發布了PDP的聲優陣容和各種消息：
+    9月21日，在[东京电玩展](../Page/东京电玩展.md "wikilink")2017武士道攤位舉辦新情報發表會。本次由Aqours团长[伊波杏樹](../Page/伊波杏樹.md "wikilink")擔任主持，μ's团长[新田惠海](../Page/新田惠海.md "wikilink")作为特別貴賓登場。本次發布了PDP的聲優陣容和各種消息：
       - 宣布全球突破4000万名使用者。
       - Aqours二人/三人曲作为日替曲目将于同年11月6日正式登陆游戏。
       - 推出“总计登陆日数奖励”。
       - 举行服装总选举。从已推出的UR及SR卡片服装中选出第一名，并进行3DCG化。
       - 计划推出一对一对战模式、GPS对战等。
-      - 全新游戏《LoveLive\! 學園偶像祭 全明星》（）预定于2018年上线，与现有的《学园偶像祭》同步运营，并共享SIF
-        ID，同时也将推出全新的游戏模式和剧情。
+      - 全新游戏《LoveLive\! 學園偶像祭 全明星》（）预定于2018年上线，与现有的《学园偶像祭》同步运营，并共享SIF ID，同时也将推出全新的游戏模式和剧情。
     12月4日，简体中文版更新为5.0版本。
 
 ### 2018年
@@ -153,8 +146,7 @@
 
 ## 遊戲內容
 
-玩家化身成為「[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")」和「[Aqours](../Page/Aqours.md "wikilink")」的同學，來協助她們完成Live活動。
-遊戲主要分為「LIVE\!」（）、「劇情」（）、「社員」（）、「練習」（）以及「勸誘」（）五大部分\[37\]。
+玩家化身成為「[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")」和「[Aqours](../Page/Aqours.md "wikilink")」的同學，來協助她們完成Live活動。 遊戲主要分為「LIVE\!」（）、「劇情」（）、「社員」（）、「練習」（）以及「勸誘」（）五大部分\[37\]。
 
 ### 遊戲中的專有名詞
 
@@ -176,8 +168,7 @@
 \*;G
 
   -
-    金钱。可以通过进行「LIVE\!」或参加活动获得，用來「練習」與「特訓」社員，以及在Medley Festival和Challenge
-    Festival活动中购买道具。
+    金钱。可以通过进行「LIVE\!」或参加活动获得，用來「練習」與「特訓」社員，以及在Medley Festival和Challenge Festival活动中购买道具。
 
 \*;Loveca（）
 
@@ -213,36 +204,27 @@
 
 「LIVE\!」是遊戲的主要部分，收錄了「μ's」、「Aqours」等成员演唱的歌曲。以自行編成的隊伍演出歌曲。普通歌曲最初只有一首開放予玩家，但其他歌曲必須閱讀「劇情」或達成「課題」後逐步解鎖\[38\]。除了閱讀「劇情」或達成「課題」而解鎖的普通歌曲外，还有特別歌曲，有每日更换的「每日推薦」（）及「隨機選曲」()、配合新曲CD發售前，先行配信的新曲CD歌曲\[39\]及普通活动推出的活動歌曲等。
 
-「LIVE\!」分為EASY（簡單）、NORMAL（普通）、HARD（困難）、EXPERT（專家）和MASTER（大師）五種難度级别，而每首歌曲被分為「Smile」（，，主題色為紅色）、「Pure」（，，主題色為綠色）、「Cool」（，，主題色為藍色）三種屬性之一，玩家可按照歌曲屬性選取同樣屬性的社員進行Live，以得到較高分數，如果隊伍中的「屬性P」數值不高，則会出现FULL
-COMBO（全連擊）但分數不高的情况\[40\]。在「LIVE\!」演出時部分社員會發動技能效果來幫助玩家。
+「LIVE\!」分為EASY（簡單）、NORMAL（普通）、HARD（困難）、EXPERT（專家）和MASTER（大師）五種難度级别，而每首歌曲被分為「Smile」（，，主題色為紅色）、「Pure」（，，主題色為綠色）、「Cool」（，，主題色為藍色）三種屬性之一，玩家可按照歌曲屬性選取同樣屬性的社員進行Live，以得到較高分數，如果隊伍中的「屬性P」數值不高，則会出现FULL COMBO（全連擊）但分數不高的情况\[40\]。在「LIVE\!」演出時部分社員會發動技能效果來幫助玩家。
 
-[schoolfes_live.JPG](https://zh.wikipedia.org/wiki/File:schoolfes_live.JPG "fig:schoolfes_live.JPG")
-進行「LIVE\!」演出時，玩家需要隨音樂的節奏點擊、同時點擊、長按及滑動從中心點飛出並落到社員圖示中的「節奏圖示」來獲得「PERFECT」、「GREAT」、「GOOD」、「BAD」、「MISS」五種點擊評價之一，若點擊時機準確的話會獲得「PERFECT」或「GREAT」評價，並累積「COMBO」，若不準確的話，則會按誤差程度得到「GOOD」、「BAD」、「MISS」評價，如果評價為「BAD」或「MISS」則會消耗左上角的體力，當體力全消耗完就會失敗，此时除非使用Loveca恢复体力，否则无法继续进行。整首歌曲還帶有星星的特殊節奏圖示需要按到“GREAT”以上才得分，“GOOD”或以下會消耗體力\[41\]。
+[schoolfes_live.JPG](https://zh.wikipedia.org/wiki/File:schoolfes_live.JPG "fig:schoolfes_live.JPG") 進行「LIVE\!」演出時，玩家需要隨音樂的節奏點擊、同時點擊、長按及滑動從中心點飛出並落到社員圖示中的「節奏圖示」來獲得「PERFECT」、「GREAT」、「GOOD」、「BAD」、「MISS」五種點擊評價之一，若點擊時機準確的話會獲得「PERFECT」或「GREAT」評價，並累積「COMBO」，若不準確的話，則會按誤差程度得到「GOOD」、「BAD」、「MISS」評價，如果評價為「BAD」或「MISS」則會消耗左上角的體力，當體力全消耗完就會失敗，此时除非使用Loveca恢复体力，否则无法继续进行。整首歌曲還帶有星星的特殊節奏圖示需要按到“GREAT”以上才得分，“GOOD”或以下會消耗體力\[41\]。
 
-「LIVE\!」成功\!後有四種評價評分SCORE及COMBO（連擊數），分為C、B、A、S
-的評價，依照評價獲得「EXP」、「G」、「社員卡片」等獎勵，「獎勵BOX」分數及社員的「絆pt」也會隨之上升。此外每首演唱歌曲都有「歌曲目標」，玩家可以透過「歌曲目標」獲得不同程度的獎勵。
+「LIVE\!」成功\!後有四種評價評分SCORE及COMBO（連擊數），分為C、B、A、S 的評價，依照評價獲得「EXP」、「G」、「社員卡片」等獎勵，「獎勵BOX」分數及社員的「絆pt」也會隨之上升。此外每首演唱歌曲都有「歌曲目標」，玩家可以透過「歌曲目標」獲得不同程度的獎勵。
 
 ### 活动
 
   -
-    游戏定期会举办Live活动，一般被称为“普通活动”、“Score Match”、“Medley Festival”、“Challenge
-    Festival”、“”和“”一般为期10天左右。
-    所有活动都有活動達成報酬、活動排名報酬、SCORE排名報酬（SCORE MATCH
-    pt排名報酬），透過活動可以獲得兩張新的稀有度SR卡及一張新的稀有度N卡。
+    游戏定期会举办Live活动，一般被称为“普通活动”、“Score Match”、“Medley Festival”、“Challenge Festival”、“”和“”一般为期10天左右。
+    所有活动都有活動達成報酬、活動排名報酬、SCORE排名報酬（SCORE MATCH pt排名報酬），透過活動可以獲得兩張新的稀有度SR卡及一張新的稀有度N卡。
 
 \*;普通活动
 
   -
-    日文版于2013年5月3日，繁體中文版於2014年5月29日，国际版于2014年5月31日，韓文版於2014年7月22日，简体中文版于2014年12月6日開始第一屆。又稱道具活动、集物活動。通常这种活动都有专属名字（例如第一屆的Sweet
-    Holiday）。活动期间所有消耗LP的歌曲都能收集活动所需的道具（必須在Live中點擊到帶有道具的節奏圖示才算收集到），并且会追加一首「活動歌曲」到四種難易度的特別歌曲中（EXPERT难度外加随机谱面），「活動歌曲」需要消耗道具来Live。通过收集道具和「活動歌曲」評價來獲得活動pt，活動結束後根據活動排名及SCORE排名給予獎勵。
+    日文版于2013年5月3日，繁體中文版於2014年5月29日，国际版于2014年5月31日，韓文版於2014年7月22日，简体中文版于2014年12月6日開始第一屆。又稱道具活动、集物活動。通常这种活动都有专属名字（例如第一屆的Sweet Holiday）。活动期间所有消耗LP的歌曲都能收集活动所需的道具（必須在Live中點擊到帶有道具的節奏圖示才算收集到），并且会追加一首「活動歌曲」到四種難易度的特別歌曲中（EXPERT难度外加随机谱面），「活動歌曲」需要消耗道具来Live。通过收集道具和「活動歌曲」評價來獲得活動pt，活動結束後根據活動排名及SCORE排名給予獎勵。
 
 \*;Score Match
 
   -
-    日文版于2013年10月5日，国际版于2014年10月6日，繁體中文版於2014年10月6日，简体中文版于2014年10月16日，韓文版於2014年11月18日開始第一屆。简称SM。在活动中，玩家必須选择难度并扣取相应LP，挑選參賽隊伍组合後遊戲會根據比賽曲及SCORE
-    MATCH
-    pt抽取四名玩家组队，如果等候时间超时不足四人则由NPC代替不足人数。Live中途失败则直接结算失败分数（無法使用Loveca恢復體力），Live后根据每人「比賽曲」的「SCORE」排出名次并獲取活动pt。活動結束後根據活動排名及SCORE
-    MATCH pt排名給予獎勵。Live開始前、公布名次和結束時可以使用指定的語句交流。
+    日文版于2013年10月5日，国际版于2014年10月6日，繁體中文版於2014年10月6日，简体中文版于2014年10月16日，韓文版於2014年11月18日開始第一屆。简称SM。在活动中，玩家必須选择难度并扣取相应LP，挑選參賽隊伍组合後遊戲會根據比賽曲及SCORE MATCH pt抽取四名玩家组队，如果等候时间超时不足四人则由NPC代替不足人数。Live中途失败则直接结算失败分数（無法使用Loveca恢復體力），Live后根据每人「比賽曲」的「SCORE」排出名次并獲取活动pt。活動結束後根據活動排名及SCORE MATCH pt排名給予獎勵。Live開始前、公布名次和結束時可以使用指定的語句交流。
 
 \*;Medley Festival
 
@@ -269,12 +251,11 @@ COMBO（全連擊）但分數不高的情况\[40\]。在「LIVE\!」演出時部
 
 劇情（）分為主線劇情（）、支線劇情（）及其他的劇情（）。
 
-遊戲中所有劇情均由電視動畫[聲優配音演出](../Page/聲優.md "wikilink")，而在不同語言版本亦有搭配相應語言的字幕\[42\]。目前μ's與Aqours的主线剧情已全部结束\[43\]。
+遊戲中所有劇情均由電視動畫[聲優](../Page/聲優.md "wikilink")配音演出，而在不同語言版本亦有搭配相應語言的字幕\[42\]。目前μ's與Aqours的主线剧情已全部结束\[43\]。
 
   - 主線劇情：μ's部分隨著玩家等級上升而解鎖，Aqours部分只要玩家達成課題就會解鎖，閱讀劇情後也會解鎖新的普通歌曲。
   - 支線劇情：閱讀社員劇情，會在「覺醒」社員的「絆pt」集滿後解鎖。
-  - 其他的劇情：保存著普通活動與「School idol
-    diary」合作的劇情，玩家在活動中集滿一定量的活動pt解鎖該話劇情，活動結束後玩家可到其他的劇情內回味活動中得到的劇情。
+  - 其他的劇情：保存著普通活動與「School idol diary」合作的劇情，玩家在活動中集滿一定量的活動pt解鎖該話劇情，活動結束後玩家可到其他的劇情內回味活動中得到的劇情。
 
 ### 社員、練習、特訓
 
@@ -344,57 +325,37 @@ COMBO（全連擊）但分數不高的情况\[40\]。在「LIVE\!」演出時部
 
   - 本遊戲的其中一個特點是，於完成入門教學後的歌曲和資料下載需時較長，因此有不少對「[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")」計劃不熟悉的人會很容易中途放棄。評論認為遊戲找回電視動畫中的原班人馬配音，而且還原度相當高、音樂也下足功夫、角色亦豐富，但要精通遊戲則需要相當多的重複練習，因此通常只有「LoveLive\!」支持者才能堅持到底，故認為這是一個「粉絲向」的遊戲。\[44\]
   - 著名手機遊戲《[擴散性百萬亞瑟王](../Page/擴散性百萬亞瑟王.md "wikilink")》的製作人岩野弘明在一則訪問中表示，要製作一個成功遊戲的關鍵是遊戲中人物性格的特徵需要夠突出，而本作在這點上則與《[艦隊收藏](https://zh.wikipedia.org/wiki/艦隊收藏 "wikilink")》一樣做得相當出色，能夠與其匹敵\[45\]。
-  - 遊戲除了在日本獲得成功後，在[南韓也有出色的表現](https://zh.wikipedia.org/wiki/南韓 "wikilink")，曾經長期佔據[App
-    Store遊戲類暢銷榜Top](https://zh.wikipedia.org/wiki/App_Store "wikilink")
-    10，在[Google
-    Play也曾達到](../Page/Google_Play.md "wikilink")28位，分析指本遊戲作為外來產品的成績已是相當優秀，當中原因是因為「日本和韓國作為亞洲流行時尚文化前沿，雖然彼此之間價值取向和娛樂體系有很大的不同」，但兩者都向世界輸出很多偶像藝人及團體，例如日本有[AKB48和](../Page/AKB48.md "wikilink")[嵐](../Page/嵐.md "wikilink")，而韓國則有[少女時代和](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[東方神起](../Page/東方神起.md "wikilink")。由於遊戲以二次元偶像為題材，故相比起偶像產業尚未盛行的中國來說，玩家的接受程度較高。\[46\]
-  - 自《[偶像大師 灰姑娘女孩
-    星光舞台](../Page/偶像大師_灰姑娘女孩_星光舞台.md "wikilink")》在2015年9月推出後，性質相近的《LoveLive\!
-    學園偶像祭》就曾多次被用作與其比較。有網民指《偶像大師 灰姑娘女孩
-    星光舞台》推出後，其精美的3D介面使已有三年歷史的《LoveLive\!
-    學園偶像祭》相形見絀，加上《LoveLive\!》企劃已接近尾聲，「遊戲已經接近壽命的終結」，導致日文版玩家消費金額有下降趨勢\[47\]。
-  - 2016年7月5日，日服推出4.0版本之后，《LoveLive\! 學園偶像祭》下载量出现暴增，并一度登上日本[App
-    Store下载量榜首](https://zh.wikipedia.org/wiki/App_Store "wikilink")，这是自《LoveLive\!学园偶像祭》2013年4月上线以来首次登顶日本地区的畅销榜，当天也创造了该游戏有史以来最高同时在线人数的记录\[48\]。但游戏图标由高坂穗乃果的头像被换为高海千歌的头像也引发了部分玩家的不满\[49\]。
+  - 遊戲除了在日本獲得成功後，在[南韓也有出色的表現](https://zh.wikipedia.org/wiki/南韓 "wikilink")，曾經長期佔據[App Store遊戲類暢銷榜Top](https://zh.wikipedia.org/wiki/App_Store "wikilink") 10，在[Google Play也曾達到](../Page/Google_Play.md "wikilink")28位，分析指本遊戲作為外來產品的成績已是相當優秀，當中原因是因為「日本和韓國作為亞洲流行時尚文化前沿，雖然彼此之間價值取向和娛樂體系有很大的不同」，但兩者都向世界輸出很多偶像藝人及團體，例如日本有[AKB48](../Page/AKB48.md "wikilink")和[嵐](../Page/嵐.md "wikilink")，而韓國則有[少女時代和](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[東方神起](../Page/東方神起.md "wikilink")。由於遊戲以二次元偶像為題材，故相比起偶像產業尚未盛行的中國來說，玩家的接受程度較高。\[46\]
+  - 自《[偶像大師 灰姑娘女孩 星光舞台](../Page/偶像大師_灰姑娘女孩_星光舞台.md "wikilink")》在2015年9月推出後，性質相近的《LoveLive\! 學園偶像祭》就曾多次被用作與其比較。有網民指《偶像大師 灰姑娘女孩 星光舞台》推出後，其精美的3D介面使已有三年歷史的《LoveLive\! 學園偶像祭》相形見絀，加上《LoveLive\!》企劃已接近尾聲，「遊戲已經接近壽命的終結」，導致日文版玩家消費金額有下降趨勢\[47\]。
+  - 2016年7月5日，日服推出4.0版本之后，《LoveLive\! 學園偶像祭》下载量出现暴增，并一度登上日本[App Store下载量榜首](https://zh.wikipedia.org/wiki/App_Store "wikilink")，这是自《LoveLive\!学园偶像祭》2013年4月上线以来首次登顶日本地区的畅销榜，当天也创造了该游戏有史以来最高同时在线人数的记录\[48\]。但游戏图标由高坂穗乃果的头像被换为高海千歌的头像也引发了部分玩家的不满\[49\]。
 
 ## 爭議
 
 ### 中文翻译争议
 
-在游戏中，角色「」和「」在简体中文版早期公测中分别翻译为「南小鸟」和「矢泽妮可」，但在繁体中文版正式发布后，被调整为「南琴梨」和「矢泽日香」，随后简体中文版正式发布时也跟随翻译。原先的翻译有得到公测玩家和项目负责人認可。由于官方在中文地区发行正式代理作品前的民间翻译已经使用前者，形成翻译角色命名默认定向。再加上调整翻译，部分原文的含义被歪曲，尤其以「」，由于存在剧情导向（包括动画对小鸟的描述，角色卡牌中有大量涉及与鸟的形象设计，在其中一张卡牌的附属剧情中使用小鸟的一语双关的说法），尤其是在简体中文版2015年4月上旬“亲口说出I
-love
-you”（）活动的剧情中出现“羽毛好整齐，真是漂亮的琴梨呢”之类的台词（原文如果翻译为“小鸟”的话，则起到一语双关的作用。之后代理商[盛大遊戲对此翻译进行更正](https://zh.wikipedia.org/wiki/盛大遊戲 "wikilink")），导致相当多玩家和爱好者对此翻译相当不满，部分爱好者甚至将一些句子里的“鸟”替换成“琴梨”加以讽刺（如“林子大了，什么琴梨都有”）。但也有部分新玩家认为并无不妥，由於繁體中文版使用台灣動畫代理商[群英社官方正式譯名](../Page/群英社.md "wikilink")，所以简体中文版只能尊重繁体中文版的翻译而跟随。
+在游戏中，角色「」和「」在简体中文版早期公测中分别翻译为「南小鸟」和「矢泽妮可」，但在繁体中文版正式发布后，被调整为「南琴梨」和「矢泽日香」，随后简体中文版正式发布时也跟随翻译。原先的翻译有得到公测玩家和项目负责人認可。由于官方在中文地区发行正式代理作品前的民间翻译已经使用前者，形成翻译角色命名默认定向。再加上调整翻译，部分原文的含义被歪曲，尤其以「」，由于存在剧情导向（包括动画对小鸟的描述，角色卡牌中有大量涉及与鸟的形象设计，在其中一张卡牌的附属剧情中使用小鸟的一语双关的说法），尤其是在简体中文版2015年4月上旬“亲口说出I love you”（）活动的剧情中出现“羽毛好整齐，真是漂亮的琴梨呢”之类的台词（原文如果翻译为“小鸟”的话，则起到一语双关的作用。之后代理商[盛大遊戲对此翻译进行更正](https://zh.wikipedia.org/wiki/盛大遊戲 "wikilink")），导致相当多玩家和爱好者对此翻译相当不满，部分爱好者甚至将一些句子里的“鸟”替换成“琴梨”加以讽刺（如“林子大了，什么琴梨都有”）。但也有部分新玩家认为并无不妥，由於繁體中文版使用台灣動畫代理商[群英社](../Page/群英社.md "wikilink")官方正式譯名，所以简体中文版只能尊重繁体中文版的翻译而跟随。
 
-之后该译名也被其他简体发行物沿用，如天闻角川的「Lovelive School idol
-diary」小说沿用繁体的译名，但也有部分遗留（如矢泽妮可的口头禅“Niconiconi\~”）。
+之后该译名也被其他简体发行物沿用，如天闻角川的「Lovelive School idol diary」小说沿用繁体的译名，但也有部分遗留（如矢泽妮可的口头禅“Niconiconi\~”）。
 
-2016年1月30日[LoveLive\!官方在中國上海舉辦的](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")「LoveLive\!
-μ's Fan Meeting in
-上海～Talk＆Live～」活動中，配音「」的日本聲優[内田彩第一次知道其角色中文名没被翻译为](https://zh.wikipedia.org/wiki/内田彩 "wikilink")“小鸟”的意思，而在场观众则表达了不接受“琴梨”的中文翻译后，内田间接地表达了明白并承认了“小鸟”翻译的正确性。
+2016年1月30日[LoveLive\!官方在中國上海舉辦的](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")「LoveLive\! μ's Fan Meeting in 上海～Talk＆Live～」活動中，配音「」的日本聲優[内田彩第一次知道其角色中文名没被翻译为](https://zh.wikipedia.org/wiki/内田彩 "wikilink")“小鸟”的意思，而在场观众则表达了不接受“琴梨”的中文翻译后，内田间接地表达了明白并承认了“小鸟”翻译的正确性。
 
-2017年6月22日，简体中文版更新后，部分原为英文的界面被改为简体中文（如“Smile”属性被改为“甜美”），歌曲全部被改为中文翻译。然而部分译名的翻译水准遭到质疑，部分更被指水平如同[机器翻译](../Page/机器翻译.md "wikilink")（如《》被翻译成“宝贝
-或许 恋爱的纽扣”、《No brand girls》被翻译成“无牌女孩”等）。
+2017年6月22日，简体中文版更新后，部分原为英文的界面被改为简体中文（如“Smile”属性被改为“甜美”），歌曲全部被改为中文翻译。然而部分译名的翻译水准遭到质疑，部分更被指水平如同[机器翻译](../Page/机器翻译.md "wikilink")（如《》被翻译成“宝贝 或许 恋爱的纽扣”、《No brand girls》被翻译成“无牌女孩”等）。
 
 ### 英文版劇情翻譯修改爭議事件
 
-本遊戲的英文版本於2015年5月20日被美國一家以報導漫畫、遊戲為主的網路媒體[NerdSpan提出](https://zh.wikipedia.org/wiki/NerdSpan "wikilink")，其該版本的美國營運負責廠商[KLab](../Page/KLab.md "wikilink")
-America將其遊戲劇情的對話中移除了部份可能令人聯想到與同性戀相關的內容，明顯地將原作者想透露出的訊息改變了。翻譯人員沒有了解作品內容及橋段，所以憑主觀認定修改台詞。\[50\]其報導曝光之後，引來了核心粉絲的注意和到其官方臉書粉絲團抗議。
+本遊戲的英文版本於2015年5月20日被美國一家以報導漫畫、遊戲為主的網路媒體[NerdSpan提出](https://zh.wikipedia.org/wiki/NerdSpan "wikilink")，其該版本的美國營運負責廠商[KLab](../Page/KLab.md "wikilink") America將其遊戲劇情的對話中移除了部份可能令人聯想到與同性戀相關的內容，明顯地將原作者想透露出的訊息改變了。翻譯人員沒有了解作品內容及橋段，所以憑主觀認定修改台詞。\[50\]其報導曝光之後，引來了核心粉絲的注意和到其官方臉書粉絲團抗議。
 
-在5月23日午夜\[51\]，KLab
-America於其官方臉書粉絲團頁面發布一則對於本次事件的聲明\[52\]，不過該聲明非但沒有讓事件緩和下來，反而引起更多粉絲們對於遊戲廠商的不滿以及憤怒，因為
-KLab America 堅持他們並沒有任何缺失，強調他們「是對動畫原作的演繹而作出本地翻譯」。\[53\]
+在5月23日午夜\[51\]，KLab America於其官方臉書粉絲團頁面發布一則對於本次事件的聲明\[52\]，不過該聲明非但沒有讓事件緩和下來，反而引起更多粉絲們對於遊戲廠商的不滿以及憤怒，因為 KLab America 堅持他們並沒有任何缺失，強調他們「是對動畫原作的演繹而作出本地翻譯」。\[53\]
 
 ## LoveLive\! 學園偶像祭 ～after school ACTIVITY～
 
-[Love_Live_Arcade.JPG](https://zh.wikipedia.org/wiki/File:Love_Live_Arcade.JPG "fig:Love_Live_Arcade.JPG")
-**《LoveLive\! 學園偶像祭 ～after school
-ACTIVITY～》**（，简称“SIFAC”或“”），由[武士道和](../Page/武士道_\(公司\).md "wikilink")[史克威尔艾尼克斯共同开发](../Page/史克威尔艾尼克斯.md "wikilink")，史克威尔艾尼克斯營運。
+[Love_Live_Arcade.JPG](https://zh.wikipedia.org/wiki/File:Love_Live_Arcade.JPG "fig:Love_Live_Arcade.JPG") **《LoveLive\! 學園偶像祭 ～after school ACTIVITY～》**（，简称“SIFAC”或“”），由[武士道和](../Page/武士道_\(公司\).md "wikilink")[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")共同开发，史克威尔艾尼克斯營運。
 
 2015年11月27日公布街機版製作決定，2016年3月至5月官方在[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[博多](https://zh.wikipedia.org/wiki/博多 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[名古屋和](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[大阪舉行的](https://zh.wikipedia.org/wiki/大阪 "wikilink")“”上进行公开体验，2016年5月13日至29日於[东京](../Page/东京.md "wikilink")、[横滨](https://zh.wikipedia.org/wiki/横滨 "wikilink")、[名古屋和](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[大阪的](https://zh.wikipedia.org/wiki/大阪 "wikilink")5个指定店铺进行游戏公测，2016年12月6日起正式營運。
 
 街机版除继承了手機版的“卡片收藏和節奏音樂”的基本游戏机制之外，还加入了[3DCG的演出動畫](../Page/三维计算机图形.md "wikilink")，以及列印實體卡片和讀取個人資料卡等机能。游戏操作方式为实体按键，最高难度为“Challenge”难度。除单人模式外，也可與2至3名玩家合作进行游戏。
 
-2018年12月6日，街机版“Next Stage”正式上线，Aqours成员正式加入游戏中。但“Next
-Stage”上线首日，由于下载更新所使用的[软银网络因爱立信核心网设备的软件证书过期](https://zh.wikipedia.org/wiki/软银 "wikilink")，網路傳輸全面瘫痪，人物模型无法完全加载，导致人物模型出現裸体和无头的严重[bug](https://zh.wikipedia.org/wiki/bug "wikilink")，游戏因此紧急停机维护。\[54\]
+2018年12月6日，街机版“Next Stage”正式上线，Aqours成员正式加入游戏中。但“Next Stage”上线首日，由于下载更新所使用的[软银网络因爱立信核心网设备的软件证书过期](https://zh.wikipedia.org/wiki/软银 "wikilink")，網路傳輸全面瘫痪，人物模型无法完全加载，导致人物模型出現裸体和无头的严重[bug](https://zh.wikipedia.org/wiki/bug "wikilink")，游戏因此紧急停机维护。\[54\]
 
 ### 遊戲流程
 
@@ -425,11 +386,9 @@ Stage”上线首日，由于下载更新所使用的[软银网络因爱立信�
 
 ## LoveLive\! 學園偶像祭 ALL STARS
 
-**《LoveLive\! 学园偶像祭
-全明星》**（，简称“SIFAS”、“”或“”，是由KLab开发、武士道运营的手机游戏，原预定于2018年正式营运，於2018年9月4日宣布延期至2019年。游戏口号为“和你一起实现夢想”（）。
+**《LoveLive\! 学园偶像祭 全明星》**（，简称“SIFAS”、“”或“”，是由KLab开发、武士道运营的手机游戏，原预定于2018年正式营运，於2018年9月4日宣布延期至2019年。游戏口号为“和你一起实现夢想”（）。
 
-游戏情报于2017年9月21日在[东京电玩展首次发布](../Page/东京电玩展.md "wikilink")，背景设定为[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours和](../Page/Aqours.md "wikilink")“[虹咲学园校园偶像同好会](https://zh.wikipedia.org/wiki/虹咲学园校园偶像同好会 "wikilink")”在同一时间段内进行校园偶像活动，并将推出全新剧情。游戏的重点为偶像养成，以“树状图形”式培养偶像，并将与现有的《学园偶像祭》进行联动以及共享SIF
-ID。
+游戏情报于2017年9月21日在[东京电玩展](../Page/东京电玩展.md "wikilink")首次发布，背景设定为[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours](../Page/Aqours.md "wikilink")和“[虹咲学园校园偶像同好会](https://zh.wikipedia.org/wiki/虹咲学园校园偶像同好会 "wikilink")”在同一时间段内进行校园偶像活动，并将推出全新剧情。游戏的重点为偶像养成，以“树状图形”式培养偶像，并将与现有的《学园偶像祭》进行联动以及共享SIF ID。
 
 ## 註解
 
@@ -450,13 +409,9 @@ ID。
   - 学园偶像祭：
       - [《ラブライブ！スクールアイドルフェスティバル》武士道官方網站](http://lovelive-sif.bushimo.jp/)
 
+      - [《Love Live\! School idol festival》KLab官方網站](http://www.school-fes.klabgames.net)
 
-      - [《Love Live\! School idol
-        festival》KLab官方網站](http://www.school-fes.klabgames.net)
-
-
-      - [《러브라이브\! School idol
-        festival》KLab官方網站](https://www.school-fes.klabgames.net/ko/)
+      - [《러브라이브\! School idol festival》KLab官方網站](https://www.school-fes.klabgames.net/ko/)
 
       - [《》KLab官方網站](https://www.school-fes.klabgames.net/tw/)
 
@@ -468,36 +423,15 @@ ID。
 
       -
 
-      - [《러브라이브\! School idol
-        festival》](http://cafe.naver.com/schoolidolfestival)的官方[NAVER專頁](../Page/NAVER.md "wikilink")
-
+      - [《러브라이브\! School idol festival》](http://cafe.naver.com/schoolidolfestival)的官方[NAVER](../Page/NAVER.md "wikilink")專頁
   - 學園偶像祭 ～after school ACTIVITY～：
-      - [《ラブライブ！スクールアイドルフェスティバル ～after school
-        ACTIVITY～》史克威尔艾尼克斯官方網站](http://www.lovelive-sifac.jp/)
-
+      - [《ラブライブ！スクールアイドルフェスティバル ～after school ACTIVITY～》史克威尔艾尼克斯官方網站](http://www.lovelive-sifac.jp/)
 
       -
   - 學園偶像祭 ALL STARS：
-      - [《ラブライブ！スクールアイドルフェスティバルALL
-        STARS》武士道官方網站](https://lovelive-as.bushimo.jp/)
+      - [《ラブライブ！スクールアイドルフェスティバルALL STARS》武士道官方網站](https://lovelive-as.bushimo.jp/)
 
-[Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink")
-[Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink")
-[Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.
 
@@ -554,11 +488,9 @@ ID。
 
 29.
 
-30.  ニュースリリース {{\!}} KLab株式会社|accessdate=2017-08-12|work=KLab株式会社(KLab
-    Inc.)|language=ja}}
+30.  ニュースリリース {{\!}} KLab株式会社|accessdate=2017-08-12|work=KLab株式会社(KLab Inc.)|language=ja}}
 
-31.  ニュースリリース {{\!}} KLab株式会社|accessdate=2017-08-12|work=KLab株式会社(KLab
-    Inc.)|language=ja}}
+31.  ニュースリリース {{\!}} KLab株式会社|accessdate=2017-08-12|work=KLab株式会社(KLab Inc.)|language=ja}}
 
 32.
 

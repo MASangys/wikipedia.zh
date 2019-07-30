@@ -1,6 +1,4 @@
-《**PriministAr**》是日本[HOOKSOFT在](../Page/HOOKSOFT.md "wikilink")2013年8月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com在](../Page/DMM.com.md "wikilink")2015年2月19日發售全年齡版。\[3\]2015年11月27日發售《PriministAr
-MiniFanDisk 枝那森千里＆駒萱野Ver.》。\[4\]\[5\]ENTERGRAM在2016年9月29日發售[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]
+《**PriministAr**》是日本[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2013年8月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com](../Page/DMM.com.md "wikilink")在2015年2月19日發售全年齡版。\[3\]2015年11月27日發售《PriministAr MiniFanDisk 枝那森千里＆駒萱野Ver.》。\[4\]\[5\]ENTERGRAM在2016年9月29日發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]
 
 ## 故事介绍
 
@@ -19,7 +17,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]
     春近的青梅竹馬。
   -
     生日：1月3日　血型：AB型　身高：157cm　三圍：B82/W52/H81
-    手工藝部的部員。小時候就有患有[色盲並且隨著時間最後導致失明](../Page/色盲.md "wikilink")。
+    手工藝部的部員。小時候就有患有[色盲](../Page/色盲.md "wikilink")並且隨著時間最後導致失明。
   -
     生日：11月21日　血型：B型　身高：161cm　三圍：B88/W56/H84
     流子的妹妹。上年度粟生七舟学园校花大赛獲獎者。
@@ -77,8 +75,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]
 
 ## 評價
 
-《PriministAr》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2013年8月銷量榜上排名第2\[9\]、9月排名第25\[10\]、全年排名第16\[11\]，在美少女遊戲大賞2013中獲得角色部門**枝那森千里**第19名。\[12\]《[法米通](https://zh.wikipedia.org/wiki/法米通 "wikilink")》1451號的クロスレビュー對PlayStation
-Vita版給予28/40分。\[13\]
+《PriministAr》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2013年8月銷量榜上排名第2\[9\]、9月排名第25\[10\]、全年排名第16\[11\]，在美少女遊戲大賞2013中獲得角色部門**枝那森千里**第19名。\[12\]《[法米通](https://zh.wikipedia.org/wiki/法米通 "wikilink")》1451號的クロスレビュー對PlayStation Vita版給予28/40分。\[13\]
 
 ## 參考來源
 
@@ -88,12 +85,7 @@ Vita版給予28/40分。\[13\]
   - [PC官方網站](http://www.hook-net.jp/priministar/)HOOKSOFT
   - [PSV官方網站](http://www.entergram.co.jp/priministar/)ENTERGRAM
 
-[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
+[Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
 
 1.
 2.

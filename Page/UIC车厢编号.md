@@ -1,5 +1,4 @@
-[Lastgrenzenraster.jpg](https://zh.wikipedia.org/wiki/File:Lastgrenzenraster.jpg "fig:Lastgrenzenraster.jpg")的F型特种敞车\]\]
-**UIC车厢编号**是[铁路货车及](https://zh.wikipedia.org/wiki/铁路货车 "wikilink")[客车的唯一区分标识](https://zh.wikipedia.org/wiki/铁路客车 "wikilink")，它包含用于[铁路运输的重要密钥数据](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")。车厢编号由[国际铁路联盟指定](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")，并构成了铁路运输企业、铁路基础设施企业以及相关政府机构之间的共同语言。
+[Lastgrenzenraster.jpg](https://zh.wikipedia.org/wiki/File:Lastgrenzenraster.jpg "fig:Lastgrenzenraster.jpg")的F型特种敞车\]\] **UIC车厢编号**是[铁路货车及](https://zh.wikipedia.org/wiki/铁路货车 "wikilink")[客车的唯一区分标识](https://zh.wikipedia.org/wiki/铁路客车 "wikilink")，它包含用于[铁路运输的重要密钥数据](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")。车厢编号由[国际铁路联盟指定](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")，并构成了铁路运输企业、铁路基础设施企业以及相关政府机构之间的共同语言。
 
 一套完整的UIC车厢编号包含有12位数字，在此情况下，车厢编号的的单位数字通常具有以下含义：
 
@@ -11,8 +10,7 @@
 
 ## 交换代码
 
-[Rgmms-Anschriften.jpg](https://zh.wikipedia.org/wiki/File:Rgmms-Anschriften.jpg "fig:Rgmms-Anschriften.jpg")
-是自1964年起显示在[铁路车厢侧壁上](https://zh.wikipedia.org/wiki/铁路车辆 "wikilink")12位车厢代码的第一位和第二位。它由[国际铁路联盟及](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")[铁路合作组织对各自的成员国铁路进行规管](../Page/铁路合作组织.md "wikilink")。
+[Rgmms-Anschriften.jpg](https://zh.wikipedia.org/wiki/File:Rgmms-Anschriften.jpg "fig:Rgmms-Anschriften.jpg") 是自1964年起显示在[铁路车厢侧壁上](https://zh.wikipedia.org/wiki/铁路车辆 "wikilink")12位车厢代码的第一位和第二位。它由[国际铁路联盟及](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")[铁路合作组织](../Page/铁路合作组织.md "wikilink")对各自的成员国铁路进行规管。
 
 ## 国家代码
 
@@ -24,8 +22,7 @@
 
 ### 铁路货车类别代码
 
-[Gedeckter-Güterwagen-Hbillns-der-ITL-Schriftfeld.JPG](https://zh.wikipedia.org/wiki/File:Gedeckter-Güterwagen-Hbillns-der-ITL-Schriftfeld.JPG "fig:Gedeckter-Güterwagen-Hbillns-der-ITL-Schriftfeld.JPG")
-车厢编号的第五位数字可转译为货运车厢的[类别字母](https://zh.wikipedia.org/wiki/UIC铁路货车分类#类别字母 "wikilink")。
+[Gedeckter-Güterwagen-Hbillns-der-ITL-Schriftfeld.JPG](https://zh.wikipedia.org/wiki/File:Gedeckter-Güterwagen-Hbillns-der-ITL-Schriftfeld.JPG "fig:Gedeckter-Güterwagen-Hbillns-der-ITL-Schriftfeld.JPG") 车厢编号的第五位数字可转译为货运车厢的[类别字母](https://zh.wikipedia.org/wiki/UIC铁路货车分类#类别字母 "wikilink")。
 
   - 0 = 类别字母T →
   - 1 = 类别字母G → 通用[棚车](../Page/棚车.md "wikilink")
@@ -111,8 +108,7 @@
 
 例子：
 
-德国铁路631型货运车厢所使用的车厢编号从21 80 990 3 900-8号开始，并结束于21 80 990 3 914-9号。因此21 80
-990 3 **914**-9号即为这一型号的第15辆车厢。
+德国铁路631型货运车厢所使用的车厢编号从21 80 990 3 900-8号开始，并结束于21 80 990 3 914-9号。因此21 80 990 3 **914**-9号即为这一型号的第15辆车厢。
 
 ## 自校验码
 
@@ -161,8 +157,7 @@
 
 概述：这是一辆带单轮及固定轨距的铁路自备车，在国际性的跨境运输领域适用于或RIV及PPW条例。其原产国是德国，持有者为[德国铁路股份公司](https://zh.wikipedia.org/wiki/德国铁路股份公司 "wikilink")。它是具有两轴特征的U类特种车、一个平板货台、最高25吨的负载重量，并且是同一车型的第15辆车。
 
-简述：德国铁路股份公司的两轴平车（1951年以前：SSt
-111；自1980年起使用的UIC分类为Uikk，631型），载荷25吨，可以在国际运输中使用。
+简述：德国铁路股份公司的两轴平车（1951年以前：SSt 111；自1980年起使用的UIC分类为Uikk，631型），载荷25吨，可以在国际运输中使用。
 
 ## 参见
 
@@ -171,11 +166,9 @@
 
 ## 参考资料
 
-  - Wolfgang Diener:*Anstrich und Bezeichnung von Güterwagen*. Verlag
-    Dr. Bernhard Abend, Stuttgart 1992.
+  - Wolfgang Diener:*Anstrich und Bezeichnung von Güterwagen*. Verlag Dr. Bernhard Abend, Stuttgart 1992.
 
-  - Internationaler Eisenbahnverband:'' Kennzeichnung der Güterwagen''.
-    UIC-Kodex 438-2 V. 7. Ausgabe, 01/07/2003.
+  - Internationaler Eisenbahnverband:'' Kennzeichnung der Güterwagen''. UIC-Kodex 438-2 V. 7. Ausgabe, 01/07/2003.
 
 ## 外部链接
 
@@ -184,5 +177,4 @@
   - [货车编号vs客车编号](http://www.fktt-module.de/de/node/274)
   - [UIC车辆编号，德国铁路客车的12位UIC编号说明](http://www.hobby-modelleisenbahn.de/)
 
-[Category:铁路车辆分类系统](https://zh.wikipedia.org/wiki/Category:铁路车辆分类系统 "wikilink")
-[Category:国际铁路运输](https://zh.wikipedia.org/wiki/Category:国际铁路运输 "wikilink")
+[Category:铁路车辆分类系统](https://zh.wikipedia.org/wiki/Category:铁路车辆分类系统 "wikilink") [Category:国际铁路运输](https://zh.wikipedia.org/wiki/Category:国际铁路运输 "wikilink")

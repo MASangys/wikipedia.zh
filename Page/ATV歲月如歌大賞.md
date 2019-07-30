@@ -1,9 +1,8 @@
-《**ATV歲月如歌大賞**》（），是[香港](../Page/香港.md "wikilink")[亞洲電視製作的大型音樂綜藝節目](../Page/亞洲電視.md "wikilink")\[1\]，於2015年4月12日製作,並於2015年4月26日晚上20:00-21:30，以《**銘記光輝歲月
-亞洲會特別呈獻：ATV歲月如歌大賞**》名義於[本港台及](../Page/本港台.md "wikilink")[歲月留聲同步播放](../Page/歲月留聲.md "wikilink")，由[亞洲會贊助播出](../Page/亞洲會.md "wikilink")。\[2\]
+《**ATV歲月如歌大賞**》（），是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的大型音樂綜藝節目\[1\]，於2015年4月12日製作,並於2015年4月26日晚上20:00-21:30，以《**銘記光輝歲月 亞洲會特別呈獻：ATV歲月如歌大賞**》名義於[本港台](../Page/本港台.md "wikilink")及[歲月留聲](../Page/歲月留聲.md "wikilink")同步播放，由[亞洲會](../Page/亞洲會.md "wikilink")贊助播出。\[2\]
 
 ## 節目內容
 
-[亞洲電視](../Page/亞洲電視.md "wikilink")[歲月留聲舉辦](../Page/歲月留聲.md "wikilink")『[歲月金曲投票選舉](https://zh.wikipedia.org/wiki/歲月金曲投票選舉 "wikilink")』及『[經典劇集投票選舉](https://zh.wikipedia.org/wiki/經典劇集投票選舉 "wikilink")』，投選心目中10強金曲及10大經典劇集。票選於2015年3月31日截止。《ATV歲月如歌大賞》於亞視大埔總台舉行，為以上兩大票選揭盎，讓觀眾可回味經典作品。\[3\]
+[亞洲電視](../Page/亞洲電視.md "wikilink")[歲月留聲](../Page/歲月留聲.md "wikilink")舉辦『[歲月金曲投票選舉](https://zh.wikipedia.org/wiki/歲月金曲投票選舉 "wikilink")』及『[經典劇集投票選舉](https://zh.wikipedia.org/wiki/經典劇集投票選舉 "wikilink")』，投選心目中10強金曲及10大經典劇集。票選於2015年3月31日截止。《ATV歲月如歌大賞》於亞視大埔總台舉行，為以上兩大票選揭盎，讓觀眾可回味經典作品。\[3\]
 
 ### 十部經典劇集
 
@@ -41,14 +40,14 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/I.Q.成熟時.md" title="wikilink">I.Q.成熟時</a><br />
-（<a href="../Page/I.Q.成熟時.md" title="wikilink">I.Q.成熟時主題曲</a>）</p></td>
+（<a href="../Page/I.Q.成熟時.md" title="wikilink">I.Q.成熟時</a>主題曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1981" title="wikilink">1981</a></p></td>
 <td><p><a href="../Page/蔡楓華.md" title="wikilink">蔡楓華</a>[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/浣花洗劍錄.md" title="wikilink">浣花洗劍錄</a><br />
-（<a href="../Page/浣花洗劍錄.md" title="wikilink">浣花洗劍錄主題曲</a>）</p></td>
+（<a href="../Page/浣花洗劍錄.md" title="wikilink">浣花洗劍錄</a>主題曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1979" title="wikilink">1979</a></p></td>
 <td><p><a href="../Page/張國榮.md" title="wikilink">張國榮</a></p></td>
 </tr>
@@ -62,14 +61,14 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="../Page/戲劇人生.md" title="wikilink">戲劇人生</a><br />
-（<a href="../Page/浮生六劫.md" title="wikilink">浮生六劫插曲</a>）</p></td>
+（<a href="../Page/浮生六劫.md" title="wikilink">浮生六劫</a>插曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1980" title="wikilink">1980</a></p></td>
 <td><p><a href="../Page/葉振棠.md" title="wikilink">葉振棠</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/鱷魚淚.md" title="wikilink">鱷魚淚</a><br />
-（<a href="../Page/鱷魚淚.md" title="wikilink">鱷魚淚主題曲</a>）</p></td>
+（<a href="../Page/鱷魚淚.md" title="wikilink">鱷魚淚</a>主題曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1978" title="wikilink">1978</a></p></td>
 <td><p><a href="../Page/袁麗嫦.md" title="wikilink">袁麗嫦</a></p></td>
 </tr>
@@ -83,28 +82,28 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夢裡是誰" title="wikilink">夢裡是誰</a><br />
-（<a href="../Page/我和殭屍有個約會.md" title="wikilink">我和殭屍有個約會主題曲</a>）</p></td>
+（<a href="../Page/我和殭屍有個約會.md" title="wikilink">我和殭屍有個約會</a>主題曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1998" title="wikilink">1998</a></p></td>
 <td><p><a href="../Page/王馨平.md" title="wikilink">王馨平</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="../Page/我和春天有個約會.md" title="wikilink">我和春天有個約會</a><br />
-（<a href="../Page/我和春天有個約會.md" title="wikilink">我和春天有個約會插曲</a>）</p></td>
+（<a href="../Page/我和春天有個約會.md" title="wikilink">我和春天有個約會</a>插曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1996" title="wikilink">1996</a></p></td>
 <td><p><a href="../Page/劉雅麗.md" title="wikilink">劉雅麗</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p><a href="../Page/甜甜廿四味.md" title="wikilink">甜甜廿四味</a><br />
-（<a href="../Page/甜甜廿四味.md" title="wikilink">甜甜廿四味主題曲</a>）</p></td>
+（<a href="../Page/甜甜廿四味.md" title="wikilink">甜甜廿四味</a>主題曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1981" title="wikilink">1981</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/盧業媚" title="wikilink">盧業媚</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/假如真的再有約會" title="wikilink">假如真的再有約會</a><br />
-（<a href="../Page/我和殭屍有個約會II.md" title="wikilink">我和殭屍有個約會II主題曲</a>）</p></td>
+（<a href="../Page/我和殭屍有個約會II.md" title="wikilink">我和殭屍有個約會II</a>主題曲）</p></td>
 <td><p><a href="../Page/2000.md" title="wikilink">2000</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蔣嘉瑩" title="wikilink">蔣嘉瑩</a></p></td>
 </tr>
@@ -130,8 +129,7 @@
 
 ## 參考資料
 
-[Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink")
-[Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
+[Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink") [Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
 
 1.  <http://paper.wenweipo.com/2015/04/13/EN1504130031.htm>
 2.

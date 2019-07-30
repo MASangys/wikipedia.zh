@@ -1,6 +1,4 @@
-《**HELLO
-WORLD**》是由日本樂團[SCANDAL所發行的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")6張錄音專輯，於2014年12月3日發行。
-本專輯於發售首週獲得ORICON週排行第三名的成績\[1\]
+《**HELLO WORLD**》是由日本樂團[SCANDAL所發行的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")6張錄音專輯，於2014年12月3日發行。 本專輯於發售首週獲得ORICON週排行第三名的成績\[1\]
 
 ## 概要
 
@@ -63,8 +61,6 @@ WORLD**》是由日本樂團[SCANDAL所發行的第](../Page/SCANDAL_\(日本音
 
 <references/>
 
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.

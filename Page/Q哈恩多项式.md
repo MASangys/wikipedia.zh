@@ -1,4 +1,4 @@
-**q哈恩多项式**是[哈恩多项式的q模拟](../Page/哈恩多项式.md "wikilink")，以[基本超几何函数定义如下](../Page/基本超几何函数.md "wikilink")
+**q哈恩多项式**是[哈恩多项式](../Page/哈恩多项式.md "wikilink")的q模拟，以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义如下
 
 \(Q_n(x;a,b,N;q)=\;_{3}\phi_2\left[\begin{matrix}
 q^-n & abq^n+1 &  x \\
@@ -15,8 +15,7 @@ aq & q^-N  \end{matrix}
 
 令\(\alpha=q^{\alpha}\),\(\beta=q^{\beta}\) 得
 
-： Hypergeom(\[-n, alpha+beta+n+1, -x\], \[alpha+1, -N\],
-1)，即[哈恩多项式](../Page/哈恩多项式.md "wikilink")
+： Hypergeom(\[-n, alpha+beta+n+1, -x\], \[alpha+1, -N\], 1)，即[哈恩多项式](../Page/哈恩多项式.md "wikilink")
 
 ## 图集
 
@@ -32,8 +31,6 @@ aq & q^-N  \end{matrix}
 
 <references/>
 
-Frank Oliver,NIST Handbook of Mathematical Functions, p470, Cambridge
-University Press, 2010
+Frank Oliver,NIST Handbook of Mathematical Functions, p470, Cambridge University Press, 2010
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:Q超几何多项式](https://zh.wikipedia.org/wiki/Category:Q超几何多项式 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:Q超几何多项式](https://zh.wikipedia.org/wiki/Category:Q超几何多项式 "wikilink")

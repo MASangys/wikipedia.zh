@@ -1,4 +1,4 @@
-下面列出的为韩国女子音乐组合[Kara的音乐作品](../Page/Kara.md "wikilink")。
+下面列出的为韩国女子音乐组合[Kara](../Page/Kara.md "wikilink")的音乐作品。
 
 ## 韓文單曲
 
@@ -1049,6 +1049,4 @@
 
   -
 
-[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")

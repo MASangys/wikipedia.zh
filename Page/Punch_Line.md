@@ -1,9 +1,8 @@
-《**Punch
-Line**》（）是从2015年4月开始在[富士电视台的](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[NoitaminA节目中播放的](../Page/NoitaminA.md "wikilink")[日本电视动画作品](https://zh.wikipedia.org/wiki/日本电视动画 "wikilink")。
+《**Punch Line**》（）是从2015年4月开始在[富士电视台的](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[NoitaminA](../Page/NoitaminA.md "wikilink")节目中播放的[日本电视动画作品](https://zh.wikipedia.org/wiki/日本电视动画 "wikilink")。
 
 ## 概要
 
-本作品是由曾经制作过[东京残响及](https://zh.wikipedia.org/wiki/东京残响 "wikilink")[巴哈姆特之怒的MAPPA制作的原创电视动画作品](../Page/巴哈姆特之怒.md "wikilink")\[1\]。导演是制作了[丹特丽安的书架的上村泰](../Page/丹特丽安的书架.md "wikilink")\[2\]、脚本则是负责了[Ever17剧本的打越鋼太郎](https://zh.wikipedia.org/wiki/Ever17 "wikilink")\[3\]、角色设计由岩崎将大负责、音楽制作则是[小室哲哉担任](../Page/小室哲哉.md "wikilink")\[4\]\[5\]。宣传口号为“如果被看到了内裤人类就会灭亡！？”。
+本作品是由曾经制作过[东京残响及](https://zh.wikipedia.org/wiki/东京残响 "wikilink")[巴哈姆特之怒](../Page/巴哈姆特之怒.md "wikilink")的MAPPA制作的原创电视动画作品\[1\]。导演是制作了[丹特丽安的书架](../Page/丹特丽安的书架.md "wikilink")的上村泰\[2\]、脚本则是负责了[Ever17剧本的打越鋼太郎](https://zh.wikipedia.org/wiki/Ever17 "wikilink")\[3\]、角色设计由岩崎将大负责、音楽制作则是[小室哲哉](../Page/小室哲哉.md "wikilink")担任\[4\]\[5\]。宣传口号为“如果被看到了内裤人类就会灭亡！？”。
 
 原本是打越打算做成游戏作品的企划\[6\]。当这个企划被本作品的制作方MAGES.的市川和弘看见后，被认为“这绝对将它动画化更好”。而由于市川将其推销给了与自己有关系的富士电视台，于是就开始了制作电视动画\[7\]。游戏作品和电视动画的制作是同时进行\[8\]。虽然企划最初阶段，打越有将其电视动画化等多媒体化的想法，“但是没有想到会和游戏同时进行电视动画化”\[9\]。此外，动画的播放开始时，游戏版的详细简介并未公开。
 
@@ -85,8 +84,7 @@ Line**》（）是从2015年4月开始在[富士电视台的](https://zh.wikiped
   - 製作人：木村誠、小田桐成美、齊藤紳也
   - 動畫製作人：大塚學、野田楓子
   - 動畫製作：[MAPPA](../Page/MAPPA.md "wikilink")
-  - 製作：Punch
-    Line製作委員會（富士電視台、[Aniplex](../Page/Aniplex.md "wikilink")、MAGES.、京樂產業集團、[關西電視台](../Page/關西電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
+  - 製作：Punch Line製作委員會（富士電視台、[Aniplex](../Page/Aniplex.md "wikilink")、MAGES.、京樂產業集團、[關西電視台](../Page/關西電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
 
 ## 主題曲
 
@@ -287,8 +285,7 @@ Line**》（）是从2015年4月开始在[富士电视台的](https://zh.wikiped
 
 ## web广播
 
-以《Punch Line》为标题，从2015年4月2日开始在音泉播放。每周四更新。参加者是井上麻里奈（配 伊里達遊太）、吉田有里（配
-千良之助）。
+以《Punch Line》为标题，从2015年4月2日开始在音泉播放。每周四更新。参加者是井上麻里奈（配 伊里達遊太）、吉田有里（配 千良之助）。
 
 ## 參考資料
 
@@ -299,8 +296,7 @@ Line**》（）是从2015年4月开始在[富士电视台的](https://zh.wikiped
   - [電子遊戲「Punch Line」官方网站](http://punchline-game.jp/)
 
   -
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.
 

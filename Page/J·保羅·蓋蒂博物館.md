@@ -1,88 +1,17 @@
-**J·保罗·盖蒂博物馆**（J. Paul Getty
-Museum）是一座艺术博物馆，位于美国[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，拥有两个馆址：[盖蒂中心和](../Page/盖蒂中心.md "wikilink")[盖蒂别墅](https://zh.wikipedia.org/wiki/盖蒂别墅 "wikilink")。前者收藏中世纪以来的西方艺术品。估计每年有130万访客，是美国访客最多的博物馆之一\[1\]；后者展出古希腊、罗马的艺术品。\[2\]
+**J·保罗·盖蒂博物馆**（J. Paul Getty Museum）是一座艺术博物馆，位于美国[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，拥有两个馆址：[盖蒂中心](../Page/盖蒂中心.md "wikilink")和[盖蒂别墅](https://zh.wikipedia.org/wiki/盖蒂别墅 "wikilink")。前者收藏中世纪以来的西方艺术品。估计每年有130万访客，是美国访客最多的博物馆之一\[1\]；后者展出古希腊、罗马的艺术品。\[2\]
 
 ## 历史
 
-1974年[保罗·盖蒂在](https://zh.wikipedia.org/wiki/保罗·盖蒂 "wikilink")[馬里布复制了一座](https://zh.wikipedia.org/wiki/馬里布_\(加利福尼亞州\) "wikilink")[帕比里庄园](https://zh.wikipedia.org/wiki/帕比里庄园 "wikilink")\[3\]，1997年搬到现址，而马里布的博物馆旧址改称[盖蒂庄园](https://zh.wikipedia.org/wiki/盖蒂庄园 "wikilink")（Getty
-Villa），翻修之后在2006年开张。
+1974年[保罗·盖蒂在](https://zh.wikipedia.org/wiki/保罗·盖蒂 "wikilink")[馬里布复制了一座](https://zh.wikipedia.org/wiki/馬里布_\(加利福尼亞州\) "wikilink")[帕比里庄园](https://zh.wikipedia.org/wiki/帕比里庄园 "wikilink")\[3\]，1997年搬到现址，而马里布的博物馆旧址改称[盖蒂庄园](https://zh.wikipedia.org/wiki/盖蒂庄园 "wikilink")（Getty Villa），翻修之后在2006年开张。
 
 ## 收藏
 
-<File:Pontormo> (Jacopo Carucci) (Italian, Florentine) - Portrait of a
-Halberdier (Francesco Guardi?) - Google Art
-Project.jpg|[Pontormo](https://zh.wikipedia.org/wiki/Pontormo "wikilink"),
-*Portrait of a Halberdier*, 1528 <File:Virgin> and Child with Sts. Mary
-Magdalen and John the Baptist by
-Parmigianino.jpg|[Parmigianino](https://zh.wikipedia.org/wiki/Parmigianino "wikilink"),
-*Virgin with Child, St. John the Baptist, and Mary Magdalene*, about
-1530 <File:Titian> (Tiziano Vecellio) (Italian - Portrait of Alfonso
-d'Avalos, Marquis of Vasto, in Armor with a Page - Google Art
-Project.jpg|[Titian](https://zh.wikipedia.org/wiki/Titian "wikilink"),
-*Portrait of Alfonso d’Avalos, Marchese del Vasto*, 1533 <File:Peter>
-Paul Rubens - The Entombment - 93.PA.9 - J. Paul Getty Museum.jpg|[Peter
-Paul
-Rubens](https://zh.wikipedia.org/wiki/Peter_Paul_Rubens "wikilink"),
-*The Entombment*, 1612 <File:Danaë>, by Orazio Gentileschi.jpg|[Orazio
-Gentileschi](https://zh.wikipedia.org/wiki/Orazio_Gentileschi "wikilink"),
-Danaë, 1621 <File:Rembrandt>
-laughing.jpg|[伦勃朗](../Page/伦勃朗.md "wikilink"), *Rembrandt
-Laughing*, 1628 <File:Rembrandt> Harmensz. van Rijn (Dutch - An Old Man
-in Military Costume - Google Art
-Project.jpg|[伦勃朗](../Page/伦勃朗.md "wikilink"), *An Old Man in
-Military Costume*, 1630
-<File:Rembrandt_Harmensz._van_Rijn_-_The_Abduction_of_Europa_-_Google_Art_Project.jpg>|[伦勃朗](../Page/伦勃朗.md "wikilink"),
-The Abduction of Europa , 1632 <File:Nicolas> Poussin (French -
-Landscape with a Calm - Google Art Project.jpg|[Nicholas
-Poussin](https://zh.wikipedia.org/wiki/Nicholas_Poussin "wikilink"),
-*Landscape in Calm Weather*, 1651
-<File:Jean-Antoine_Watteau,_The_Italian_Comedians_-_Getty_Museum.jpg>|[让-安东尼·华托](../Page/让-安东尼·华托.md "wikilink"),
-*The Italian Comedians*, 1720 <File:Canaletto> Grand Canal from Palazzo
-Flangini -
-JPGM.jpg|[Canaletto](https://zh.wikipedia.org/wiki/Canaletto "wikilink"),
-*The Grand Canal in Venice from Palazzo Flangini to Campo San Marcuola*,
-about 1738 <File:Jacques-Louis> David - The Sisters Zénaïde and
-Charlotte Bonaparte - Google Art Project.jpg|[Jacques-Louis
-David](https://zh.wikipedia.org/wiki/Jacques-Louis_David "wikilink"),
-*The Sisters Zénaïde and Charlotte Bonaparte*, 1821 <File:Joseph>
-Mallord William Turner (British - Modern Rome-Campo Vaccino - Google Art
-Project.jpg|[约瑟夫·玛罗德·威廉·特纳](../Page/约瑟夫·玛罗德·威廉·特纳.md "wikilink"),
-*Modern Rome - Campo Vaccino*, 1839
-<File:Portrait_of_Madame_Brunet_(also_known_as_Young_Woman_in_1860),_painted_in_1860-1863,_and_reworked_by_1867_by_Manet,_Getty.jpg>|[愛德華·馬奈](../Page/愛德華·馬奈.md "wikilink"),
-*Portrait of Madame Brunet*, 1867 <File:Pierre-Auguste> Renoir (French -
-La Promenade - Google Art
-Project.jpg|[皮耶-奧古斯特·雷諾瓦](../Page/皮耶-奧古斯特·雷諾瓦.md "wikilink"),
-*La Promenade*, 1870 <File:Claude> Monet (French - Sunrise (Marine) -
-Google Art Project.jpg|[克勞德·莫奈](../Page/克勞德·莫奈.md "wikilink"), *Sunrise
-(Marine)*, 1873 <File:Édouard> Manet, The Rue Mosnier with Flags,
-1878.jpg|[愛德華·馬奈](../Page/愛德華·馬奈.md "wikilink"), *The Rue Mosnier with
-Flags*, 1878 <File:Edouard> Manet - Le Printemps -
-RW372.jpg|[愛德華·馬奈](../Page/愛德華·馬奈.md "wikilink"), Spring,
-1881 <File:Vincent> van Gogh - Irises
-(1889).jpg|[梵谷](https://zh.wikipedia.org/wiki/梵谷 "wikilink"),
-*[鳶尾花](https://zh.wikipedia.org/wiki/鳶尾花_\(梵谷\) "wikilink")*, 1889
-<File:Paul> Gauguin (French - Arii Matamoe (The Royal End) - Google Art
-Project.jpg|[保羅·高更](../Page/保羅·高更.md "wikilink"), *Arii Matamoe*, 1892
-<File:Paul> Cézanne - Still Life with Apples - 96.PA.8 - J. Paul Getty
-Museum.jpg|[保罗·塞尚](../Page/保罗·塞尚.md "wikilink"), *Still Life with
-Apples*, 1893 <File:Paul> Cézanne (French - Young Italian Woman at a
-Table - Google Art Project.jpg|[保罗·塞尚](../Page/保罗·塞尚.md "wikilink"),
-*Young Italian Woman at a Table*, 1895 <File:Getty> Museum Attributed to
-André-Charles Boulle 1642 -
-1732.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"),
-c. 1670. <File:Getty> Museum Wall Clock André-Charles
-Boulle.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"),
-c 1710. <File:A> cabinet-on-stand attributed to André-Charles Boulle at
-the Getty
-Museum.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"),
-c. 1675. <File:André-Charles> Boulle, Movement maker Paul
-Gudin.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"),
-1715-1725.
+<File:Pontormo> (Jacopo Carucci) (Italian, Florentine) - Portrait of a Halberdier (Francesco Guardi?) - Google Art Project.jpg|[Pontormo](https://zh.wikipedia.org/wiki/Pontormo "wikilink"), *Portrait of a Halberdier*, 1528 <File:Virgin> and Child with Sts. Mary Magdalen and John the Baptist by Parmigianino.jpg|[Parmigianino](https://zh.wikipedia.org/wiki/Parmigianino "wikilink"), *Virgin with Child, St. John the Baptist, and Mary Magdalene*, about 1530 <File:Titian> (Tiziano Vecellio) (Italian - Portrait of Alfonso d'Avalos, Marquis of Vasto, in Armor with a Page - Google Art Project.jpg|[Titian](https://zh.wikipedia.org/wiki/Titian "wikilink"), *Portrait of Alfonso d’Avalos, Marchese del Vasto*, 1533 <File:Peter> Paul Rubens - The Entombment - 93.PA.9 - J. Paul Getty Museum.jpg|[Peter Paul Rubens](https://zh.wikipedia.org/wiki/Peter_Paul_Rubens "wikilink"), *The Entombment*, 1612 <File:Danaë>, by Orazio Gentileschi.jpg|[Orazio Gentileschi](https://zh.wikipedia.org/wiki/Orazio_Gentileschi "wikilink"), Danaë, 1621 <File:Rembrandt> laughing.jpg|[伦勃朗](../Page/伦勃朗.md "wikilink"), *Rembrandt Laughing*, 1628 <File:Rembrandt> Harmensz. van Rijn (Dutch - An Old Man in Military Costume - Google Art Project.jpg|[伦勃朗](../Page/伦勃朗.md "wikilink"), *An Old Man in Military Costume*, 1630 <File:Rembrandt_Harmensz._van_Rijn_-_The_Abduction_of_Europa_-_Google_Art_Project.jpg>|[伦勃朗](../Page/伦勃朗.md "wikilink"), The Abduction of Europa , 1632 <File:Nicolas> Poussin (French - Landscape with a Calm - Google Art Project.jpg|[Nicholas Poussin](https://zh.wikipedia.org/wiki/Nicholas_Poussin "wikilink"), *Landscape in Calm Weather*, 1651 <File:Jean-Antoine_Watteau,_The_Italian_Comedians_-_Getty_Museum.jpg>|[让-安东尼·华托](../Page/让-安东尼·华托.md "wikilink"), *The Italian Comedians*, 1720 <File:Canaletto> Grand Canal from Palazzo Flangini - JPGM.jpg|[Canaletto](https://zh.wikipedia.org/wiki/Canaletto "wikilink"), *The Grand Canal in Venice from Palazzo Flangini to Campo San Marcuola*, about 1738 <File:Jacques-Louis> David - The Sisters Zénaïde and Charlotte Bonaparte - Google Art Project.jpg|[Jacques-Louis David](https://zh.wikipedia.org/wiki/Jacques-Louis_David "wikilink"), *The Sisters Zénaïde and Charlotte Bonaparte*, 1821 <File:Joseph> Mallord William Turner (British - Modern Rome-Campo Vaccino - Google Art Project.jpg|[约瑟夫·玛罗德·威廉·特纳](../Page/约瑟夫·玛罗德·威廉·特纳.md "wikilink"), *Modern Rome - Campo Vaccino*, 1839 <File:Portrait_of_Madame_Brunet_(also_known_as_Young_Woman_in_1860),_painted_in_1860-1863,_and_reworked_by_1867_by_Manet,_Getty.jpg>|[愛德華·馬奈](../Page/愛德華·馬奈.md "wikilink"), *Portrait of Madame Brunet*, 1867 <File:Pierre-Auguste> Renoir (French - La Promenade - Google Art Project.jpg|[皮耶-奧古斯特·雷諾瓦](../Page/皮耶-奧古斯特·雷諾瓦.md "wikilink"), *La Promenade*, 1870 <File:Claude> Monet (French - Sunrise (Marine) - Google Art Project.jpg|[克勞德·莫奈](../Page/克勞德·莫奈.md "wikilink"), *Sunrise (Marine)*, 1873 <File:Édouard> Manet, The Rue Mosnier with Flags, 1878.jpg|[愛德華·馬奈](../Page/愛德華·馬奈.md "wikilink"), *The Rue Mosnier with Flags*, 1878 <File:Edouard> Manet - Le Printemps - RW372.jpg|[愛德華·馬奈](../Page/愛德華·馬奈.md "wikilink"), Spring, 1881 <File:Vincent> van Gogh - Irises (1889).jpg|[梵谷](https://zh.wikipedia.org/wiki/梵谷 "wikilink"), *[鳶尾花](https://zh.wikipedia.org/wiki/鳶尾花_\(梵谷\) "wikilink")*, 1889 <File:Paul> Gauguin (French - Arii Matamoe (The Royal End) - Google Art Project.jpg|[保羅·高更](../Page/保羅·高更.md "wikilink"), *Arii Matamoe*, 1892 <File:Paul> Cézanne - Still Life with Apples - 96.PA.8 - J. Paul Getty Museum.jpg|[保罗·塞尚](../Page/保罗·塞尚.md "wikilink"), *Still Life with Apples*, 1893 <File:Paul> Cézanne (French - Young Italian Woman at a Table - Google Art Project.jpg|[保罗·塞尚](../Page/保罗·塞尚.md "wikilink"), *Young Italian Woman at a Table*, 1895 <File:Getty> Museum Attributed to André-Charles Boulle 1642 - 1732.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"), c. 1670. <File:Getty> Museum Wall Clock André-Charles Boulle.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"), c 1710. <File:A> cabinet-on-stand attributed to André-Charles Boulle at the Getty Museum.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"), c. 1675. <File:André-Charles> Boulle, Movement maker Paul Gudin.jpg|[安德烈-查爾斯·布勒](https://zh.wikipedia.org/wiki/安德烈-查爾斯·布勒 "wikilink"), 1715-1725.
 
 ## 参考
 
   -
-[Category:洛杉矶博物馆](https://zh.wikipedia.org/wiki/Category:洛杉矶博物馆 "wikilink")
-[Category:盖蒂家族](https://zh.wikipedia.org/wiki/Category:盖蒂家族 "wikilink")
+[Category:洛杉矶博物馆](https://zh.wikipedia.org/wiki/Category:洛杉矶博物馆 "wikilink") [Category:盖蒂家族](https://zh.wikipedia.org/wiki/Category:盖蒂家族 "wikilink")
 
 1.
 2.

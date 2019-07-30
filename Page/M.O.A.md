@@ -1,12 +1,10 @@
-**M.O.A**（，全寫為**M**ember **o**f **A**sia、**M**otion **o**f
-**A**rt）是[Professional娛樂旗下](https://zh.wikipedia.org/wiki/Professional娛樂 "wikilink")[韓國七人女子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。
+**M.O.A**（，全寫為**M**ember **o**f **A**sia、**M**otion **o**f **A**rt）是[Professional娛樂旗下](https://zh.wikipedia.org/wiki/Professional娛樂 "wikilink")[韓國七人女子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。
 
 出道作「I'll Call Ya」MV被指拍得太差，結果遭電視台禁播\[1\]，因而不能闖出知名度，導致成立不久便陷入拆夥邊緣。
 
 經過多位成員離隊及加入，在解散前變成五人女子組合。
 
-Z.BRA、燦熙、子英離隊後，組成同年出道性感女團「[Four
-Ladies](../Page/Four_Ladies.md "wikilink")」。
+Z.BRA、燦熙、子英離隊後，組成同年出道性感女團「[Four Ladies](../Page/Four_Ladies.md "wikilink")」。
 
 但在2015年初，**M.O.A**被Professional娛樂在官網中刪除，表示2014年11月曾提及到的回歸取消以及團體解散。
 
@@ -127,12 +125,6 @@ Ladies](../Page/Four_Ladies.md "wikilink")」。
   - \[[https://twitter.com/ProfeOfficial\]M.O.A官方Twitter](https://twitter.com/ProfeOfficial%5DM.O.A官方Twitter)
   - \[[https://www.youtube.com/user/ProfeOfficial?feature=watch\]M.O.A官方Youtube頻道](https://www.youtube.com/user/ProfeOfficial?feature=watch%5DM.O.A官方Youtube頻道)
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  [KBS 禁播朴志胤…等 MV](http://kpopn.niusnews.com/=K2eqjqj5)

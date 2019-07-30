@@ -1,9 +1,4 @@
-**ASUS ZenFone
-2**是[華碩於](../Page/華碩.md "wikilink")2015年1月6日在[CES展](https://zh.wikipedia.org/wiki/CES "wikilink")\[1\]發表的中階[智慧型手機機種](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載[Android
-5.0](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")、[64位元](../Page/64位元.md "wikilink")
-2.3Ghz[四核心處理器](https://zh.wikipedia.org/wiki/四核心 "wikilink")，是[ZenFone系列中首次搭載](https://zh.wikipedia.org/wiki/ASUS_ZenFone "wikilink")[Full
-HD螢幕的手機](../Page/Full_HD.md "wikilink")，也是全球首款搭載4GB
-[RAM的智慧型手機](https://zh.wikipedia.org/wiki/RAM "wikilink")，代言人為[蕭敬騰](../Page/蕭敬騰.md "wikilink")。\[2\]
+**ASUS ZenFone 2**是[華碩](../Page/華碩.md "wikilink")於2015年1月6日在[CES展](https://zh.wikipedia.org/wiki/CES "wikilink")\[1\]發表的中階[智慧型手機機種](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載[Android 5.0](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")、[64位元](../Page/64位元.md "wikilink") 2.3Ghz[四核心處理器](https://zh.wikipedia.org/wiki/四核心 "wikilink")，是[ZenFone系列中首次搭載](https://zh.wikipedia.org/wiki/ASUS_ZenFone "wikilink")[Full HD螢幕的手機](../Page/Full_HD.md "wikilink")，也是全球首款搭載4GB [RAM的智慧型手機](https://zh.wikipedia.org/wiki/RAM "wikilink")，代言人為[蕭敬騰](../Page/蕭敬騰.md "wikilink")。\[2\]
 
 ## 主要機種詳細規格
 
@@ -46,12 +41,7 @@ HD螢幕的手機](../Page/Full_HD.md "wikilink")，也是全球首款搭載4GB
 
 ## 外部連結
 
-[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 
-1.  [華碩CES新品特輯：ASUS ZenFone 2、ZenFone
-    Zoom登場](http://www.sogi.com.tw/mobile/topics/ASUS_CES_ZenFone_2)
-
-2.  [華碩ZenFone 2發表，首見4GB
-    RAM搭載！](http://www.mobile01.com/topicdetail.php?f=588&t=4222559)
+1.  [華碩CES新品特輯：ASUS ZenFone 2、ZenFone Zoom登場](http://www.sogi.com.tw/mobile/topics/ASUS_CES_ZenFone_2)
+2.  [華碩ZenFone 2發表，首見4GB RAM搭載！](http://www.mobile01.com/topicdetail.php?f=588&t=4222559)

@@ -1,4 +1,4 @@
-**希波吕忒女王**（）是[DC漫畫的一位虛構](../Page/DC漫畫.md "wikilink")[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，原型为[希腊神话中](../Page/希腊神话.md "wikilink")[阿玛宗人的女王](../Page/亞馬遜人.md "wikilink")[希波吕忒](https://zh.wikipedia.org/wiki/希波吕忒 "wikilink")。同时也是[神奇女侠与](https://zh.wikipedia.org/wiki/神奇女侠 "wikilink")[唐娜·特洛依的母亲](https://zh.wikipedia.org/wiki/唐娜·特洛依 "wikilink")。
+**希波吕忒女王**（）是[DC漫畫](../Page/DC漫畫.md "wikilink")的一位虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，原型为[希腊神话](../Page/希腊神话.md "wikilink")中[阿玛宗人的女王](../Page/亞馬遜人.md "wikilink")[希波吕忒](https://zh.wikipedia.org/wiki/希波吕忒 "wikilink")。同时也是[神奇女侠与](https://zh.wikipedia.org/wiki/神奇女侠 "wikilink")[唐娜·特洛依的母亲](https://zh.wikipedia.org/wiki/唐娜·特洛依 "wikilink")。
 
 ## 能力
 
@@ -18,21 +18,16 @@
 ### 电影
 
   - 《[神奇女侠](../Page/神奇女侠_\(1974年电视电影\).md "wikilink")》：1974年[电视电影](https://zh.wikipedia.org/wiki/电视电影 "wikilink")。由[凱蒂·李·克羅斯比飾演](https://zh.wikipedia.org/wiki/凱蒂·李·克羅斯比 "wikilink")。
-  - 《[神奇女侠](https://zh.wikipedia.org/wiki/神奇女侠_\(2009年动画电影\) "wikilink")》：2009年推出的动画电影。由[维吉妮娅·马德森配音](../Page/维吉妮娅·马德森.md "wikilink")。
+  - 《[神奇女侠](https://zh.wikipedia.org/wiki/神奇女侠_\(2009年动画电影\) "wikilink")》：2009年推出的动画电影。由[维吉妮娅·马德森](../Page/维吉妮娅·马德森.md "wikilink")配音。
   - [DC擴展宇宙](../Page/DC擴展宇宙.md "wikilink")
-      - 《[神奇女侠](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》：2017年電影。由[康妮·尼爾森飾演](../Page/康妮·尼爾森.md "wikilink")。
-      - 《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》：2017年電影。由[康妮·尼爾森飾演](../Page/康妮·尼爾森.md "wikilink")。
+      - 《[神奇女侠](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》：2017年電影。由[康妮·尼爾森](../Page/康妮·尼爾森.md "wikilink")飾演。
+      - 《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》：2017年電影。由[康妮·尼爾森](../Page/康妮·尼爾森.md "wikilink")飾演。
 
 ## 参考文献
 
 {{-}}
 
-[Category:具有超人力气的DC漫画角色](https://zh.wikipedia.org/wiki/Category:具有超人力气的DC漫画角色 "wikilink")
-[Category:神奇女侠角色](https://zh.wikipedia.org/wiki/Category:神奇女侠角色 "wikilink")
-[Category:DC漫画超级英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超级英雄 "wikilink")
-[Category:1942年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/Category:1942年首次亮相的漫画角色 "wikilink")
-[Category:DC漫画亚马逊人](https://zh.wikipedia.org/wiki/Category:DC漫画亚马逊人 "wikilink")
-[Category:虛構女王](https://zh.wikipedia.org/wiki/Category:虛構女王 "wikilink")
+[Category:具有超人力气的DC漫画角色](https://zh.wikipedia.org/wiki/Category:具有超人力气的DC漫画角色 "wikilink") [Category:神奇女侠角色](https://zh.wikipedia.org/wiki/Category:神奇女侠角色 "wikilink") [Category:DC漫画超级英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超级英雄 "wikilink") [Category:1942年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/Category:1942年首次亮相的漫画角色 "wikilink") [Category:DC漫画亚马逊人](https://zh.wikipedia.org/wiki/Category:DC漫画亚马逊人 "wikilink") [Category:虛構女王](https://zh.wikipedia.org/wiki/Category:虛構女王 "wikilink")
 
 1.  *Wonder Woman* (vol. 2) \#1 (February 1987)
 2.  *Wonder Woman* (vol. 2) \#172 (September 2001)

@@ -1,4 +1,4 @@
-**北京地铁车辆装备有限公司BD系列车辆**是[北京地铁车辆装备有限公司生产的主要产品](https://zh.wikipedia.org/wiki/北京地铁车辆装备有限公司 "wikilink")。自1989年开始生产BD1型至今，BD系列地铁车辆已拥有8种。列车以B型为主。经过多年的生产，BD系列地铁车辆已超过500辆，由初期的单一型衍生出现在的多样型。其主要用户为[北京地铁和](../Page/北京地铁.md "wikilink")[天津轨道交通](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")。
+**北京地铁车辆装备有限公司BD系列车辆**是[北京地铁车辆装备有限公司生产的主要产品](https://zh.wikipedia.org/wiki/北京地铁车辆装备有限公司 "wikilink")。自1989年开始生产BD1型至今，BD系列地铁车辆已拥有8种。列车以B型为主。经过多年的生产，BD系列地铁车辆已超过500辆，由初期的单一型衍生出现在的多样型。其主要用户为[北京地铁](../Page/北京地铁.md "wikilink")和[天津轨道交通](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")。
 
 ## 生产车列表
 
@@ -24,5 +24,4 @@
 
   - [北京地铁车辆厂](https://web.archive.org/web/20081212210421/http://www.brsp.cn/Company/Index.asp)
 
-[Category:北京地铁BD系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁BD系列电动车组 "wikilink")
-[Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink")
+[Category:北京地铁BD系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁BD系列电动车组 "wikilink") [Category:天津地铁车辆](https://zh.wikipedia.org/wiki/Category:天津地铁车辆 "wikilink")

@@ -1,6 +1,4 @@
-《**oNIELy**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN
-TOP成員](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")[Niel首張迷你韓語專輯](../Page/安丹尼爾.md "wikilink")，於2015年2月16日發行，主打歌曲為《壞女人》（）\[1\]，其後在同年4月14日發行重新包裝版專輯《Spring
-Love》，主打歌則為《噗通》（）\[2\]。
+《**oNIELy**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN TOP成員](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")[Niel首張迷你韓語專輯](../Page/安丹尼爾.md "wikilink")，於2015年2月16日發行，主打歌曲為《壞女人》（）\[1\]，其後在同年4月14日發行重新包裝版專輯《Spring Love》，主打歌則為《噗通》（）\[2\]。
 
 ## 曲目
 
@@ -149,10 +147,7 @@ Love》，主打歌則為《噗通》（）\[2\]。
 
 ## 参考文献
 
-[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
-[Category:TEEN_TOP音樂專輯](https://zh.wikipedia.org/wiki/Category:TEEN_TOP音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:TEEN_TOP音樂專輯](https://zh.wikipedia.org/wiki/Category:TEEN_TOP音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-《**Punch**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2014年12月15日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[追擊者
-THE
-CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》、《[黃金帝國](../Page/黃金帝國.md "wikilink")》朴慶秀作家攜手《[時尚王](../Page/時尚王.md "wikilink")》、《[兩個女人的房間](../Page/兩個女人的房間.md "wikilink")》[李明佑導演合作打造](https://zh.wikipedia.org/wiki/李明佑 "wikilink")。
+《**Punch**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2014年12月15日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[追擊者 THE CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》、《[黃金帝國](../Page/黃金帝國.md "wikilink")》朴慶秀作家攜手《[時尚王](../Page/時尚王.md "wikilink")》、《[兩個女人的房間](../Page/兩個女人的房間.md "wikilink")》[李明佑導演合作打造](https://zh.wikipedia.org/wiki/李明佑 "wikilink")。
 
 ## 劇情
 
@@ -428,11 +426,7 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》、《[黃金帝國](../Pa
 
   - [韓國SBS官方網站](http://program.sbs.co.kr/builder/programMainList.do?pgm_id=22000005887)
 
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink")
-[Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
-[Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 2.  第17集结婚证书上显示汉字名为朴政煥

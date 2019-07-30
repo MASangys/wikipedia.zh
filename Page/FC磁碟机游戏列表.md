@@ -1,4 +1,4 @@
-本**[电子游戏列表](../Page/电子游戏.md "wikilink")**列出了日本**[FC磁碟机](https://zh.wikipedia.org/wiki/FC磁碟机 "wikilink")**电子游戏。本列表默认按照游戏发行时间排序。除了原名外，游戏还提供游戏出版商。
+本**[电子游戏](../Page/电子游戏.md "wikilink")列表**列出了日本**[FC磁碟机](https://zh.wikipedia.org/wiki/FC磁碟机 "wikilink")**电子游戏。本列表默认按照游戏发行时间排序。除了原名外，游戏还提供游戏出版商。
 
 ## 游戏列表
 
@@ -206,5 +206,4 @@
 
 ## 参考文献
 
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
+[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")

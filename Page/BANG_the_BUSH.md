@@ -1,5 +1,4 @@
-《**BANG the
-BUSH**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[100%第](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")2枚迷你韓語專輯，於2014年3月17日發行，主打歌曲為《心跳》（）\[1\]。此迷你專輯是自相勳退出組合與旻佑入伍後他們的首張作品。
+《**BANG the BUSH**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[100%第](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")2枚迷你韓語專輯，於2014年3月17日發行，主打歌曲為《心跳》（）\[1\]。此迷你專輯是自相勳退出組合與旻佑入伍後他們的首張作品。
 
 ## 曲目
 
@@ -99,9 +98,7 @@ BUSH**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:100%音樂專輯](https://zh.wikipedia.org/wiki/Category:100%音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:100%音樂專輯](https://zh.wikipedia.org/wiki/Category:100%音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-**株式會社KADOKAWA**（，）是一家[日本](../Page/日本.md "wikilink")[出版公司](https://zh.wikipedia.org/wiki/出版 "wikilink")，为[角川多玩国的子公司](../Page/角川多玩国.md "wikilink")，也是[KADOKAWA集团的核心](../Page/角川集團.md "wikilink")，拥有包含[角川書店在内的诸多品牌](../Page/角川書店.md "wikilink")。
+**株式會社KADOKAWA**（，）是一家[日本](../Page/日本.md "wikilink")[出版公司](https://zh.wikipedia.org/wiki/出版 "wikilink")，为[角川多玩国](../Page/角川多玩国.md "wikilink")的子公司，也是[KADOKAWA集团的核心](../Page/角川集團.md "wikilink")，拥有包含[角川書店](../Page/角川書店.md "wikilink")在内的诸多品牌。
 
 ## 历史
 
@@ -6,42 +6,35 @@
 
 2014年5月14日，KADOKAWA公司宣布与[多玩国合并](https://zh.wikipedia.org/wiki/多玩国 "wikilink")。2014年10月1日，成立控股公司[角川多玩国](../Page/角川多玩国.md "wikilink")，成为双方的母公司。
 
-2015年4月，廢除[分公司制的](../Page/分公司制.md "wikilink")「品牌公司」、整編為的「局」；角川書店、中經出版、富士見書房等子公司以品牌的形式併入母公司，子公司解散。\[3\]
+2015年4月，廢除[分公司制](../Page/分公司制.md "wikilink")的「品牌公司」、整編為的「局」；角川書店、中經出版、富士見書房等子公司以品牌的形式併入母公司，子公司解散。\[3\]
 
 ## 事業品牌
 
 KADOKAWA吸收合併，曾以[品牌公司名義存續的企業群](../Page/分公司制.md "wikilink")，現是旗下品牌。
 
   - 娛樂內容創作事業統括本部
-      - \-
-        由第2代角川書店分割設立，原第3代角川書店法人。2011年1月1日合併[角川映畫株式會社](../Page/角川映畫.md "wikilink")，角川映畫成為角川書店管理的映像事業品牌。
+      - \- 由第2代角川書店分割設立，原第3代角川書店法人。2011年1月1日合併[角川映畫](../Page/角川映畫.md "wikilink")株式會社，角川映畫成為角川書店管理的映像事業品牌。
 
-      - \-
-        前身為自角川書店分離，接手角川書店[辭典](https://zh.wikipedia.org/wiki/辭典 "wikilink")、[全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")、古典關係書、全集、高中教科書、大學教科書等編輯業務的，2003年變更為現名。
+      - \- 前身為自角川書店分離，接手角川書店[辭典](https://zh.wikipedia.org/wiki/辭典 "wikilink")、[全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")、古典關係書、全集、高中教科書、大學教科書等編輯業務的，2003年變更為現名。
 
-      - \- 2008年4月1日，[MEDIA
-        WORKS與](../Page/MediaWorks.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")（第2代）合併，變更為現商號。2011年1月1日合併[手機小說網站運營公司](https://zh.wikipedia.org/wiki/手機小說 "wikilink")。
+      - \- 2008年4月1日，[MEDIA WORKS與](../Page/MediaWorks.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")（第2代）合併，變更為現商號。2011年1月1日合併[手機小說網站運營公司](https://zh.wikipedia.org/wiki/手機小說 "wikilink")。
 
       - \- 曾於1991年併為角川書店富士見事業部，2005年再次獨立，法人存續至2013年。
 
-      - \-
-        獨立自的書籍出版部門。2011年11月15日被角川GHD收購，納入角川集團旗下。成為品牌公司前保有獨立[ISBN代碼](https://zh.wikipedia.org/wiki/ISBN "wikilink")。
+      - \- 獨立自的書籍出版部門。2011年11月15日被角川GHD收購，納入角川集團旗下。成為品牌公司前保有獨立[ISBN代碼](https://zh.wikipedia.org/wiki/ISBN "wikilink")。
 
-      - \-
-        2009年4月7日取得股份、子公司化。2009年10月與旗下子公司進行事業再編整合。2013年4月1日，合併。成為品牌公司前保有獨立ISBN代碼。
+      - \- 2009年4月7日取得股份、子公司化。2009年10月與旗下子公司進行事業再編整合。2013年4月1日，合併。成為品牌公司前保有獨立ISBN代碼。
 
 <!-- end list -->
 
   - 媒體與信息事業統括本部
-      - \-
-        前身為角川雜誌第2代法人、跨媒體部門統括公司。2009年3月1日，與合併，社名變更為。2010年4月1日，合併株式會社。2011年1月1日合併株式會社，同年7月1日變更為現名。
+      - \- 前身為角川雜誌第2代法人、跨媒體部門統括公司。2009年3月1日，與合併，社名變更為。2010年4月1日，合併株式會社。2011年1月1日合併株式會社，同年7月1日變更為現名。
 
-      - \-
-        舊ASCII第二編輯統括本部。2010年10月1日合併株式會社[MediaLeaves](https://zh.wikipedia.org/wiki/MediaLeaves "wikilink")（初代ASCII），2011年3月1日合併株式會社角川雜誌（初代）。
+      - \- 舊ASCII第二編輯統括本部。2010年10月1日合併株式會社[MediaLeaves](https://zh.wikipedia.org/wiki/MediaLeaves "wikilink")（初代ASCII），2011年3月1日合併株式會社角川雜誌（初代）。
 
 ## 爭議
 
-  - 2017年9月25日，以《[動物朋友](../Page/動物朋友.md "wikilink")》系列成名的的動畫監督[達紀在推特公告](../Page/達紀.md "wikilink")，稱遭到角川辭退，將不再參與動物朋友第二期動畫的製作\[4\]。隨之而來的一連串風波與角川本身的不當應對方式，對整個集團的商譽造成了非常不良的影響。
+  - 2017年9月25日，以《[動物朋友](../Page/動物朋友.md "wikilink")》系列成名的的動畫監督[達紀](../Page/達紀.md "wikilink")在推特公告，稱遭到角川辭退，將不再參與動物朋友第二期動畫的製作\[4\]。隨之而來的一連串風波與角川本身的不當應對方式，對整個集團的商譽造成了非常不良的影響。
 
 ## 参考资料
 
@@ -49,11 +42,7 @@ KADOKAWA吸收合併，曾以[品牌公司名義存續的企業群](../Page/分�
 
   - [KADOKAWA官方網站](http://www.kadokawa.co.jp/)
 
-[Category:KADOKAWA](https://zh.wikipedia.org/wiki/Category:KADOKAWA "wikilink")
-[Category:角川多玩国](https://zh.wikipedia.org/wiki/Category:角川多玩国 "wikilink")
-[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink")
-[Category:1945年成立的公司](https://zh.wikipedia.org/wiki/Category:1945年成立的公司 "wikilink")
-[Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
+[Category:KADOKAWA](https://zh.wikipedia.org/wiki/Category:KADOKAWA "wikilink") [Category:角川多玩国](https://zh.wikipedia.org/wiki/Category:角川多玩国 "wikilink") [Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:1945年成立的公司](https://zh.wikipedia.org/wiki/Category:1945年成立的公司 "wikilink") [Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
 
 1.
 2.

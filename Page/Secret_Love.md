@@ -1,6 +1,4 @@
-《**Secret Love**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-自2014年6月13日起於每週五晚間10點播出的[獨幕劇](https://zh.wikipedia.org/wiki/獨幕劇 "wikilink")，由《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》、《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》的導演[金圭泰執導](../Page/金圭泰.md "wikilink")，[Kara的五位成員分別擔綱各單元的女主角](../Page/Kara.md "wikilink")，唯美的拍攝手法，描述五段充滿不同滋味的初戀愛情故事；男主角由[延宇振](../Page/延宇振.md "wikilink")、[金英光](../Page/金英光.md "wikilink")、[裴秀彬](../Page/裴秀彬.md "wikilink")、[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[池昌旭擔綱演出](../Page/池昌旭.md "wikilink")。
-\[1\] \[2\]
+《**Secret Love**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") 自2014年6月13日起於每週五晚間10點播出的[獨幕劇](https://zh.wikipedia.org/wiki/獨幕劇 "wikilink")，由《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》、《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》的導演[金圭泰](../Page/金圭泰.md "wikilink")執導，[Kara](../Page/Kara.md "wikilink")的五位成員分別擔綱各單元的女主角，唯美的拍攝手法，描述五段充滿不同滋味的初戀愛情故事；男主角由[延宇振](../Page/延宇振.md "wikilink")、[金英光](../Page/金英光.md "wikilink")、[裴秀彬](../Page/裴秀彬.md "wikilink")、[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[池昌旭](../Page/池昌旭.md "wikilink")擔綱演出。 \[1\] \[2\]
 
 ## 演員陣容
 
@@ -286,8 +284,7 @@
 
 ## 音樂\[3\]
 
-備註：本劇未出OST，不過在[Kara所屬公司](../Page/Kara.md "wikilink")[DSP
-Media所發行的迷你專輯](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，出現多首劇中歌曲，故列出(粗體字)供參考。
+備註：本劇未出OST，不過在[Kara](../Page/Kara.md "wikilink")所屬公司[DSP Media所發行的迷你專輯](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，出現多首劇中歌曲，故列出(粗體字)供參考。
 
   - 《DSP Special Album 'White Letter'》（發行日期：2014年12月15日）
 
@@ -307,17 +304,11 @@ Media所發行的迷你專輯](https://zh.wikipedia.org/wiki/DSP_Media "wikilink
 
 ## 外部連結
 
-  - [DRAMAcube
-    官方網站](http://www.imtcast.com/cms/index.jsp?spgmdomain=secretlove)
+  - [DRAMAcube 官方網站](http://www.imtcast.com/cms/index.jsp?spgmdomain=secretlove)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/karassecretlove0001)
 
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  [《Secret Love》在台首播](http://kpopn.com/2014/12/14/253129/) kpopn
-2.  [Kara 5人再合體？
-    池昌旭李光洙護航](https://tw.celebrity.yahoo.com/news/kara-5%E4%BA%BA%E5%86%8D%E5%90%88%E9%AB%94-%E6%B1%A0%E6%98%8C%E6%97%AD%E6%9D%8E%E5%85%89%E6%B4%99%E8%AD%B7%E8%88%AA-045425972.html)
-    Yahoo\!名人娛樂
-3.  [▒ 韓劇 ▒【secret love (시크릿 러브)】劇情介紹(原聲帶歌曲OST及影像) @ ♥ Korea 韓星屋
-    ☆\~\~](http://blog.xuite.net/spring456/korea/223398387) Xuite日誌
+2.  [Kara 5人再合體？ 池昌旭李光洙護航](https://tw.celebrity.yahoo.com/news/kara-5%E4%BA%BA%E5%86%8D%E5%90%88%E9%AB%94-%E6%B1%A0%E6%98%8C%E6%97%AD%E6%9D%8E%E5%85%89%E6%B4%99%E8%AD%B7%E8%88%AA-045425972.html) Yahoo\!名人娛樂
+3.  [▒ 韓劇 ▒【secret love (시크릿 러브)】劇情介紹(原聲帶歌曲OST及影像) @ ♥ Korea 韓星屋 ☆\~\~](http://blog.xuite.net/spring456/korea/223398387) Xuite日誌

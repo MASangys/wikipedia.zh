@@ -1,7 +1,5 @@
-《**現在就舞力全開**》（英語：*Just Dance
-Now*）是一款由育碧開發手機體感遊戲，此遊戲為舞力全開系列的第一個使用手機遊玩的遊戲。
-此遊戲在2014年9月25日在[Google Play以及](../Page/Google_Play.md "wikilink")[App
-Store正式上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")，也是系列中唯一一個免費的手機遊戲。
+《**現在就舞力全開**》（英語：*Just Dance Now*）是一款由育碧開發手機體感遊戲，此遊戲為舞力全開系列的第一個使用手機遊玩的遊戲。
+此遊戲在2014年9月25日在[Google Play以及](../Page/Google_Play.md "wikilink")[App Store正式上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")，也是系列中唯一一個免費的手機遊戲。
 
 ## 遊戲方式
 
@@ -685,19 +683,11 @@ Store正式上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")，也是�
 
   - **歌曲名稱為粗體者**表示此歌曲為翻唱的版本，並非原唱。
   - *歌曲名稱為斜體者*表示此歌曲之舞者版本為重新拍攝，並非原本的舞者版本。
-  - 歌曲名稱旁表示"(7)"
-    表示遊玩此歌曲需七天連續使用遊戲才能解鎖，且此歌曲並沒有在[加拿大以及](../Page/加拿大.md "wikilink")[美國上架](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+  - 歌曲名稱旁表示"(7)" 表示遊玩此歌曲需七天連續使用遊戲才能解鎖，且此歌曲並沒有在[加拿大](../Page/加拿大.md "wikilink")以及[美國上架](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 ## 参考资料
 
 ## 外部链接
 
   -
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:舞力全开系列](https://zh.wikipedia.org/wiki/Category:舞力全开系列 "wikilink")
-[Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink")
-[Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink")
-[Category:電腦游戏](https://zh.wikipedia.org/wiki/Category:電腦游戏 "wikilink")
-[Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")
-[Category:意大利开发电子游戏](https://zh.wikipedia.org/wiki/Category:意大利开发电子游戏 "wikilink")
-[Category:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/Category:瑞典开发电子游戏 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:舞力全开系列](https://zh.wikipedia.org/wiki/Category:舞力全开系列 "wikilink") [Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink") [Category:IOS游戏](https://zh.wikipedia.org/wiki/Category:IOS游戏 "wikilink") [Category:電腦游戏](https://zh.wikipedia.org/wiki/Category:電腦游戏 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:意大利开发电子游戏](https://zh.wikipedia.org/wiki/Category:意大利开发电子游戏 "wikilink") [Category:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/Category:瑞典开发电子游戏 "wikilink")

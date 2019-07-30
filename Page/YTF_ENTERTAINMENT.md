@@ -1,4 +1,4 @@
-**益泰豐影視娛樂**（，或稱**益泰豐娛樂**）為[香港的娛樂公司之一](../Page/香港.md "wikilink")，2013年成立，[益泰豐集團旗下娛樂文化發展單位及團隊](https://zh.wikipedia.org/wiki/益泰豐集團 "wikilink")。
+**益泰豐影視娛樂**（，或稱**益泰豐娛樂**）為[香港](../Page/香港.md "wikilink")的娛樂公司之一，2013年成立，[益泰豐集團旗下娛樂文化發展單位及團隊](https://zh.wikipedia.org/wiki/益泰豐集團 "wikilink")。
 
 ## 旗下藝人
 
@@ -29,10 +29,6 @@
   -
   - [尹蓁晞陳偉成同場面左左](http://paper.wenweipo.com/2014/10/17/EN1410170041.htm/)
 
-  - [陳偉成出席慈善活動
-    回應周秀娜舊鞋論](http://news.sina.com.hk/news/20140922/-15-3372799/1.html/)
+  - [陳偉成出席慈善活動 回應周秀娜舊鞋論](http://news.sina.com.hk/news/20140922/-15-3372799/1.html/)
 
-[Category:香港娛樂公司](https://zh.wikipedia.org/wiki/Category:香港娛樂公司 "wikilink")
-[Category:香港模特公司](https://zh.wikipedia.org/wiki/Category:香港模特公司 "wikilink")
-[Category:香港市場策劃公司](https://zh.wikipedia.org/wiki/Category:香港市場策劃公司 "wikilink")
-[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
+[Category:香港娛樂公司](https://zh.wikipedia.org/wiki/Category:香港娛樂公司 "wikilink") [Category:香港模特公司](https://zh.wikipedia.org/wiki/Category:香港模特公司 "wikilink") [Category:香港市場策劃公司](https://zh.wikipedia.org/wiki/Category:香港市場策劃公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")

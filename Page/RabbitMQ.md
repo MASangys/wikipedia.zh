@@ -1,14 +1,12 @@
-**RabbitMQ**是实现了[高级消息队列协议](../Page/高级消息队列协议.md "wikilink")（AMQP）的开源软件（亦称）。RabbitMQ服务器是用[Erlang语言编写的](../Page/Erlang.md "wikilink")，而群集和故障转移是构建在[開放電信平台框架上的](../Page/開放電信平台.md "wikilink")。所有主要的编程语言均有与代理接口通讯的客户端[函式庫](../Page/函式庫.md "wikilink")。
+**RabbitMQ**是实现了[高级消息队列协议](../Page/高级消息队列协议.md "wikilink")（AMQP）的开源软件（亦称）。RabbitMQ服务器是用[Erlang](../Page/Erlang.md "wikilink")语言编写的，而群集和故障转移是构建在[開放電信平台](../Page/開放電信平台.md "wikilink")框架上的。所有主要的编程语言均有与代理接口通讯的客户端[函式庫](../Page/函式庫.md "wikilink")。
 
 ## 历史
 
-Rabbit科技有限公司开发了RabbitMQ，并提供对其的支持。起初，Rabbit科技是LSHIFT和CohesiveFT在2007年成立的合资企业\[1\]，2010年4月被[VMware旗下的](../Page/VMware.md "wikilink")[SpringSource收购](../Page/SpringSource.md "wikilink")\[2\]。RabbitMQ在2013年5月成为[GoPivotal的一部分](https://zh.wikipedia.org/wiki/GoPivotal "wikilink")\[3\]
-。
+Rabbit科技有限公司开发了RabbitMQ，并提供对其的支持。起初，Rabbit科技是LSHIFT和CohesiveFT在2007年成立的合资企业\[1\]，2010年4月被[VMware](../Page/VMware.md "wikilink")旗下的[SpringSource](../Page/SpringSource.md "wikilink")收购\[2\]。RabbitMQ在2013年5月成为[GoPivotal的一部分](https://zh.wikipedia.org/wiki/GoPivotal "wikilink")\[3\] 。
 
 ## 基本概念
 
-RabbitMQ是一套开源（MPL）的消息队列服务软件，是由 LShift 提供的一个 Advanced Message Queuing
-Protocol (AMQP) 的开源实现，由以高性能、健壮以及可伸缩性出名的 Erlang 写成。
+RabbitMQ是一套开源（MPL）的消息队列服务软件，是由 LShift 提供的一个 Advanced Message Queuing Protocol (AMQP) 的开源实现，由以高性能、健壮以及可伸缩性出名的 Erlang 写成。
 
 RabbitMQ服务支持下列操作系统\[4\]：
 
@@ -86,8 +84,7 @@ RabbitMQ使用本地computer name作为服务器的地址，因此需要注意�
 ## 外部链接
 
   -
-[Category:面向消息的中间件](https://zh.wikipedia.org/wiki/Category:面向消息的中间件 "wikilink")
-[Category:Erlang](https://zh.wikipedia.org/wiki/Category:Erlang "wikilink")
+[Category:面向消息的中间件](https://zh.wikipedia.org/wiki/Category:面向消息的中间件 "wikilink") [Category:Erlang](https://zh.wikipedia.org/wiki/Category:Erlang "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**M
-album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")14張[專輯](../Page/音樂專輯.md "wikilink")。於2014年12月10日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+《**M album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")14張[專輯](../Page/音樂專輯.md "wikilink")。於2014年12月10日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說
 
@@ -7,8 +6,7 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
 
 兩個版本各有雙CD，分成<side Moments>及<side Memories>。
 
-<side Memories>是將過去的作品重新編曲翻唱，<side Moments>則是除了「Glorious Days
-～尋找一條道路」外，收錄從未發表過的全新作品。
+<side Memories>是將過去的作品重新編曲翻唱，<side Moments>則是除了「Glorious Days ～尋找一條道路」外，收錄從未發表過的全新作品。
 
 ## 收錄歌曲
 
@@ -48,10 +46,8 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
       - 編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")
 8.  **Glorious Days 〜尋找一條道路**（****）
       - 作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")
-      - 作曲：[U-Key
-        zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
-      - 編曲：[U-Key
-        zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
+      - 作曲：[U-Key zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
+      - 編曲：[U-Key zone](https://zh.wikipedia.org/wiki/U-Key_zone "wikilink")
 9.  **只願與妳永不分離**（****）
       - 作詞：[Shusui](https://zh.wikipedia.org/wiki/Shusui "wikilink")
       - 作曲：[canna](https://zh.wikipedia.org/wiki/canna "wikilink")
@@ -65,8 +61,7 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
 11. **EXIT**
       - 作詞：[藤原優樹](https://zh.wikipedia.org/wiki/藤原優樹 "wikilink")
       - 作曲：[YOO](https://zh.wikipedia.org/wiki/YOO "wikilink")
-      - 編曲：[YOO](https://zh.wikipedia.org/wiki/YOO "wikilink")／[Tak
-        Miyazawa](https://zh.wikipedia.org/wiki/Tak_Miyazawa "wikilink")
+      - 編曲：[YOO](https://zh.wikipedia.org/wiki/YOO "wikilink")／[Tak Miyazawa](https://zh.wikipedia.org/wiki/Tak_Miyazawa "wikilink")
 
 #### side Memories-DISC 2
 
@@ -90,20 +85,13 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
       - 編曲：[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink")
       - 和音編排：[岩田雅之](https://zh.wikipedia.org/wiki/岩田雅之 "wikilink")
 5.  **除了你誰都不愛了**（****）
-      - 作詞：[周水
-        (canna)](https://zh.wikipedia.org/wiki/周水_\(canna\) "wikilink")
-      - 作曲：[周水
-        (canna)](https://zh.wikipedia.org/wiki/周水_\(canna\) "wikilink")
+      - 作詞：[周水 (canna)](https://zh.wikipedia.org/wiki/周水_\(canna\) "wikilink")
+      - 作曲：[周水 (canna)](https://zh.wikipedia.org/wiki/周水_\(canna\) "wikilink")
       - 編曲：[鷺巣詩郎](https://zh.wikipedia.org/wiki/鷺巣詩郎 "wikilink")
 6.  **HAKKA CANDY**
       - 作詞：[松本隆](https://zh.wikipedia.org/wiki/松本隆 "wikilink")
-      - 英語詞：[Komei
-        Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
-      - 作曲：[Fredrik
-        Hult](https://zh.wikipedia.org/wiki/Fredrik_Hult "wikilink")／[Ola
-        Larsson](https://zh.wikipedia.org/wiki/Ola_Larsson "wikilink")／[Öystein
-        Grindheim](https://zh.wikipedia.org/wiki/Öystein_Grindheim "wikilink")／[Henning
-        Hartung](https://zh.wikipedia.org/wiki/Henning_Hartung "wikilink")
+      - 英語詞：[Komei Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
+      - 作曲：[Fredrik Hult](https://zh.wikipedia.org/wiki/Fredrik_Hult "wikilink")／[Ola Larsson](https://zh.wikipedia.org/wiki/Ola_Larsson "wikilink")／[Öystein Grindheim](https://zh.wikipedia.org/wiki/Öystein_Grindheim "wikilink")／[Henning Hartung](https://zh.wikipedia.org/wiki/Henning_Hartung "wikilink")
       - 編曲：[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")
 7.  **Bonnie Butterfly**
       - 作詞：[井手コウジ](https://zh.wikipedia.org/wiki/井手コウジ "wikilink")
@@ -140,13 +128,9 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
       - 編曲：[浅野尚志](https://zh.wikipedia.org/wiki/浅野尚志 "wikilink")
 13. **EXIT**
 14. **Stay Together**
-      - 作詞：[Komei
-        Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
-      - 作曲：[Dele
-        Ladimeji](https://zh.wikipedia.org/wiki/Dele_Ladimeji "wikilink")／[Chris
-        Ballard](https://zh.wikipedia.org/wiki/Chris_Ballard "wikilink")
-      - 編曲：[Chris
-        Ballard](https://zh.wikipedia.org/wiki/Chris_Ballard "wikilink")
+      - 作詞：[Komei Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
+      - 作曲：[Dele Ladimeji](https://zh.wikipedia.org/wiki/Dele_Ladimeji "wikilink")／[Chris Ballard](https://zh.wikipedia.org/wiki/Chris_Ballard "wikilink")
+      - 編曲：[Chris Ballard](https://zh.wikipedia.org/wiki/Chris_Ballard "wikilink")
       - 和音編排：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
 
 #### side Memories-DISC 2
@@ -170,9 +154,6 @@ album**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的�
 
 ## 外部链接
 
-[Johnny's
-Entertainment](https://www.jehp.jp/kinki_discography/article/1292)
+[Johnny's Entertainment](https://www.jehp.jp/kinki_discography/article/1292)
 
-[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:2014年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:2014年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon專輯週榜冠軍作品 "wikilink")

@@ -1,8 +1,4 @@
-**SONAMOO**（）是[TS
-Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的七人女子組合，成員包含[受玟](../Page/池受玟.md "wikilink")、[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[娜玹](../Page/金娜炫.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、[High.D及](https://zh.wikipedia.org/wiki/金到姬 "wikilink")[New
-Sun等七人](https://zh.wikipedia.org/wiki/崔允瑄 "wikilink")。2014年12月29日發行首張迷你專輯《Deja
-Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music
-Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
+**SONAMOO**（）是[TS Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的七人女子組合，成員包含[受玟](../Page/池受玟.md "wikilink")、[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[娜玹](../Page/金娜炫.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、[High.D及](https://zh.wikipedia.org/wiki/金到姬 "wikilink")[New Sun等七人](https://zh.wikipedia.org/wiki/崔允瑄 "wikilink")。2014年12月29日發行首張迷你專輯《Deja Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 「SONAMOO」是韓文「**松樹**」之意，取名為松樹代表希望SONAMOO能像松樹一樣，創作出具有長青生命力的音樂。團徽上的代表動物為**松鼠**。官方粉絲名稱為「**松果**」（솔방울）。七名成員平均經歷練習生涯長達四年，是TS繼2009年推出首個女子組合[Secret後](../Page/Secret_\(組合\).md "wikilink")，相隔五年再推出的新女子團體組合\[1\]。
 
@@ -10,21 +6,17 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 ### 出道前
 
-2011年，受玟、D.ana、宜珍、High.D及New Sun在[Bang &
-Zelo的](../Page/Bang_&_Zelo.md "wikilink")《Never Give Up》MV中客串。
+2011年，受玟、D.ana、宜珍、High.D及New Sun在[Bang & Zelo的](../Page/Bang_&_Zelo.md "wikilink")《Never Give Up》MV中客串。
 
-2012年，受玟、旼宰、D.ana、宜珍在[B.A.P的](../Page/B.A.P.md "wikilink")《STOP
-IT》MV中客串。宜珍在B.A.P的電視節目《Ta-Dah\! It's B.A.P》EP4及EP8中出現。
+2012年，受玟、旼宰、D.ana、宜珍在[B.A.P](../Page/B.A.P.md "wikilink")的《STOP IT》MV中客串。宜珍在B.A.P的電視節目《Ta-Dah\! It's B.A.P》EP4及EP8中出現。
 
-2013年，High.D在[Untouchable迷你](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")4輯收錄的《Keep
-In Touch》以本名到姬合唱。
+2013年，High.D在[Untouchable迷你](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")4輯收錄的《Keep In Touch》以本名到姬合唱。
 
-2014年，受玟、娜玹在電視劇《[能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")》EP4中分別飾演叫鄭妍珠及朴澀琪的女學生。宜珍在Untouchable的《TAKE
-OUT》音樂節目現場中客串。受玟、娜玹在B.A.P的《1004》MV中客串。
+2014年，受玟、娜玹在電視劇《[能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")》EP4中分別飾演叫鄭妍珠及朴澀琪的女學生。宜珍在Untouchable的《TAKE OUT》音樂節目現場中客串。受玟、娜玹在B.A.P的《1004》MV中客串。
 
 ### 2014年：《Deja Vu》時期
 
-5月29日，[TS娛樂公開首名成員娜玹及其個人資料](../Page/TS娛樂.md "wikilink")，並表示新女團預計在7月出道。
+5月29日，[TS娛樂](../Page/TS娛樂.md "wikilink")公開首名成員娜玹及其個人資料，並表示新女團預計在7月出道。
 
 7月2日，公開第二位成員New Sun的個人資料，並表示新女團為8月夏天出道準備中。
 
@@ -34,13 +26,11 @@ OUT》音樂節目現場中客串。受玟、娜玹在B.A.P的《1004》MV中客
 
 11月19日，正式公開第四位成員D.ana，並公開更多其個人資料。
 
-12月1日，公開SONAMOO的官方網站，並公開一張概念照，除了已公開的成員娜玹，New
-Sun，宜珍，D.ana外，其餘未公開的三人則以剪影代替，表示SONAMOO共有七名成員。
+12月1日，公開SONAMOO的官方網站，並公開一張概念照，除了已公開的成員娜玹，New Sun，宜珍，D.ana外，其餘未公開的三人則以剪影代替，表示SONAMOO共有七名成員。
 
 12月5日，公開D.ana及New Sun合作的饒舌自創曲《彷彿穿著盔甲（철갑을 두른 듯）》。
 
-12月12日，公開第五位成員High.D翻唱Jennifer Hudson的《And I Am Telling You I’m Not
-Going》的歌唱片段。
+12月12日，公開第五位成員High.D翻唱Jennifer Hudson的《And I Am Telling You I’m Not Going》的歌唱片段。
 
 12月15日，公開全員及其隊內擔當，並釋出一張古典風概念照。
 
@@ -50,19 +40,15 @@ Going》的歌唱片段。
 
 12月26日，首張迷你專輯《Deja Vu》同名主打歌《Deja Vu》MV預告公開\[3\]，以及釋出概念照。
 
-12月29日，公開主打歌《Deja Vu》MV\[4\]，發行首張迷你專輯《Deja
-Vu》及釋出全輯音源，並於同日舉辦出道SHOWCASE正式出道。
+12月29日，公開主打歌《Deja Vu》MV\[4\]，發行首張迷你專輯《Deja Vu》及釋出全輯音源，並於同日舉辦出道SHOWCASE正式出道。
 
 ### 2015年：續《Deja Vu》時期、《Cushion》時期
 
-1月2日，於[KBS音乐银行以](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")《Deja
-Vu》一曲正式出道，並陸續於各大音樂節目展開宣傳。
+1月2日，於[KBS音乐银行以](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")《Deja Vu》一曲正式出道，並陸續於各大音樂節目展開宣傳。
 
 1月10日，於首爾汝矣島IFC舉辦第一場粉絲簽名會。
 
-2月25日，於MBC [Show
-Champion以首張迷你專輯](../Page/Show_Champion.md "wikilink")《Deja
-Vu》中的**가는 거야**（Just Go\!）作為後續曲回歸舞台\[5\]，主打明朗、正面的形象。
+2月25日，於MBC [Show Champion以首張迷你專輯](../Page/Show_Champion.md "wikilink")《Deja Vu》中的**가는 거야**（Just Go\!）作為後續曲回歸舞台\[5\]，主打明朗、正面的形象。
 
 3月3日，SBS MTV每逢週二19時播出一集「SONAMOO的寵物屋」\[6\]，講述成員與寵物犬同住一室的故事。
 
@@ -72,14 +58,11 @@ Vu》中的**가는 거야**（Just Go\!）作為後續曲回歸舞台\[5\]，�
 
 4月11日，出道一百天，官方於公司內部舉行一百天出道紀念的迷你粉絲見面會。
 
-5月21日，參與在新加坡舉辦的「Music Matters 2015」，表演《Deja Vu》、《Just
-Go\!》、《國民妹妹》等歌曲\[8\]。
+5月21日，參與在新加坡舉辦的「Music Matters 2015」，表演《Deja Vu》、《Just Go\!》、《國民妹妹》等歌曲\[8\]。
 
-5月23日，參與在首爾上岩洞首爾世界杯競技場舉辦的2015[夢想演唱會](../Page/夢想演唱會.md "wikilink")，表演《Deja
-Vu》。
+5月23日，參與在首爾上岩洞首爾世界杯競技場舉辦的2015[夢想演唱會](../Page/夢想演唱會.md "wikilink")，表演《Deja Vu》。
 
-7月1日，官方表示SONAMOO將在7月中回歸，發佈第二張迷你專輯。主打歌將由製作團隊二段橫踢旗下的新星製作人EastWest和說唱歌手uNo參與制作。成員D.ana、New
-Sun也將參與填詞\[9\]。
+7月1日，官方表示SONAMOO將在7月中回歸，發佈第二張迷你專輯。主打歌將由製作團隊二段橫踢旗下的新星製作人EastWest和說唱歌手uNo參與制作。成員D.ana、New Sun也將參與填詞\[9\]。
 
 7月6日，公開首張回歸預告照，官網頁面更新呈現一輪明月與七個神祕符號。
 
@@ -129,15 +112,13 @@ Sun也將參與填詞\[9\]。
 
 1月9日，正式發行第一張單曲及公開主打歌《I Think I Love U》 MV，並舉辦SHOWCASE。
 
-7月27日，官方公布SONAMOO“ HAPPY BOX
-”的企劃，该企劃的内容是：每月发行一首单曲并持续3个月\[16\]，第一首单曲確認在8月14日发行。\[17\]。
+7月27日，官方公布SONAMOO“ HAPPY BOX ”的企劃，该企劃的内容是：每月发行一首单曲并持续3个月\[16\]，第一首单曲確認在8月14日发行。\[17\]。
 
 8月2日，透过官方Facebook公开回归单曲《Friday Night》的团体概念照。\[18\]。
 
 8月14日，正式发布數位单曲《HAPPY BOX PART.1》與主打歌《금요일밤（周五晚上）》音源與MV。
 
-欲在9月發佈的《HAPPY BOX PART.2》因成员宜珍将于10月份参加選秀节目《[The
-Unit](../Page/The_Unit.md "wikilink")》而推迟发布。
+欲在9月發佈的《HAPPY BOX PART.2》因成员宜珍将于10月份参加選秀节目《[The Unit](../Page/The_Unit.md "wikilink")》而推迟发布。
 
 10月24日，官方在Twitter账号上发布《HAPPY BOX PART.2》的成员预览照。\[19\]。
 
@@ -145,8 +126,7 @@ Unit](../Page/The_Unit.md "wikilink")》而推迟发布。
 
 ### 2018年：宜珍成功出道
 
-2月11日，在选秀節目《The
-Unit》的最後一集中，宜珍獲得第1名，進入期間限定團體[UNI.T出道](../Page/UNI.T.md "wikilink")。10月12日，從UNI.T活動完結歸隊。
+2月11日，在选秀節目《The Unit》的最後一集中，宜珍獲得第1名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道。10月12日，從UNI.T活動完結歸隊。
 
 ## 成員資料
 
@@ -551,32 +531,18 @@ Miracle Girls 成員們</p></td>
   -
   -
   -
-[Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.  [SONAMOO團體介紹](http://kpopn.com/2015/01/01/255295/).kpopn.2015.01.01
 2.
-3.  [SONAMOO《Deja
-    Vu》預告片：嘻哈刀群舞反響熱烈](http://www.koreastardaily.com/tc/video/53557).韓星網.2014.12.26
-4.  [걸 그룹 소나무, 오늘 '데자뷰' 뮤비+음원 공개 및 데뷔 쇼케이스
-    개최\!](http://thestar.chosun.com/site/data/html_dir/2014/12/29/2014122900780.html)
-    . The star 2014.12.29
-5.  [소나무, 25일 후속곡 활동 돌입 '가는 거야'\!](http://news1.kr/articles/?2109694).
-    OSEN 2015.02.25
-6.  [소나무(SONAMOO), 데뷔 첫 리얼리트 ‘소나무의 펫하우스’ 공개… ‘깜찍한 예능감
-    선보인다’](http://article.topstarnews.net/detail.php?number=111434)
-    . Top star news 2015.03.03
-7.  [人気上昇中の韓国ガールズグループＳＯＮＡＭＯＯ、日本初イベント大成功！](http://www.sanspo.com/geino/news/20150315/kor15031517340001-n1.html).sanspo
-    2015.3.15
-8.  [SONAMOO出席世界三大唱片展「Music
-    Matters」](http://www.allthatstar.com/tw/view.php?action=&postID=64223)
-    .全星網.2015.04.08
+3.  [SONAMOO《Deja Vu》預告片：嘻哈刀群舞反響熱烈](http://www.koreastardaily.com/tc/video/53557).韓星網.2014.12.26
+4.  [걸 그룹 소나무, 오늘 '데자뷰' 뮤비+음원 공개 및 데뷔 쇼케이스 개최\!](http://thestar.chosun.com/site/data/html_dir/2014/12/29/2014122900780.html) . The star 2014.12.29
+5.  [소나무, 25일 후속곡 활동 돌입 '가는 거야'\!](http://news1.kr/articles/?2109694). OSEN 2015.02.25
+6.  [소나무(SONAMOO), 데뷔 첫 리얼리트 ‘소나무의 펫하우스’ 공개… ‘깜찍한 예능감 선보인다’](http://article.topstarnews.net/detail.php?number=111434) . Top star news 2015.03.03
+7.  [人気上昇中の韓国ガールズグループＳＯＮＡＭＯＯ、日本初イベント大成功！](http://www.sanspo.com/geino/news/20150315/kor15031517340001-n1.html).sanspo 2015.3.15
+8.  [SONAMOO出席世界三大唱片展「Music Matters」](http://www.allthatstar.com/tw/view.php?action=&postID=64223) .全星網.2015.04.08
 9.  [SONAMOO7月回歸加盟女團大戰](http://www.koreastardaily.com/tc/news/64343).韓星網.2015.07.01
-10. [SONAMOO 新曲預告公開](http://kpopn.com/2015/07/15/285546/)
-    .Kpopn.2015.07.15
+10. [SONAMOO 新曲預告公開](http://kpopn.com/2015/07/15/285546/) .Kpopn.2015.07.15
 11.
 12.
 13.

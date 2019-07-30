@@ -2,18 +2,7 @@ __NOTOC__
 
 <div style="width: 90%; text-align: center; font-size: 85%; margin: 10px auto;">
 
-目錄：[中國引文格式](https://zh.wikipedia.org/wiki/#GB7714 "wikilink") |
-[APA](https://zh.wikipedia.org/wiki/#APA格式 "wikilink") |
-[MLA](https://zh.wikipedia.org/wiki/#MLA格式 "wikilink") |
-[MHRA](https://zh.wikipedia.org/wiki/#MHRA格式 "wikilink") |
-[Chicago](https://zh.wikipedia.org/wiki/#Chicago "wikilink") |
-[CSE](https://zh.wikipedia.org/wiki/#CBE/CSE格式 "wikilink") |
-[Bluebook](https://zh.wikipedia.org/wiki/#Bluebook "wikilink") |
-[Harvard
-JOLT](https://zh.wikipedia.org/wiki/#Bluebook:_Harvard_JOLT格式 "wikilink")
-| [AMA](https://zh.wikipedia.org/wiki/#AMA "wikilink") |
-[BibTeX](https://zh.wikipedia.org/wiki/#BibTeX記錄 "wikilink") |
-[wiki](https://zh.wikipedia.org/wiki/#維基百科討論頁 "wikilink")
+目錄：[中國引文格式](https://zh.wikipedia.org/wiki/#GB7714 "wikilink") | [APA](https://zh.wikipedia.org/wiki/#APA格式 "wikilink") | [MLA](https://zh.wikipedia.org/wiki/#MLA格式 "wikilink") | [MHRA](https://zh.wikipedia.org/wiki/#MHRA格式 "wikilink") | [Chicago](https://zh.wikipedia.org/wiki/#Chicago "wikilink") | [CSE](https://zh.wikipedia.org/wiki/#CBE/CSE格式 "wikilink") | [Bluebook](https://zh.wikipedia.org/wiki/#Bluebook "wikilink") | [Harvard JOLT](https://zh.wikipedia.org/wiki/#Bluebook:_Harvard_JOLT格式 "wikilink") | [AMA](https://zh.wikipedia.org/wiki/#AMA "wikilink") | [BibTeX](https://zh.wikipedia.org/wiki/#BibTeX記錄 "wikilink") | [wiki](https://zh.wikipedia.org/wiki/#維基百科討論頁 "wikilink")
 
 </div>
 
@@ -29,8 +18,7 @@ JOLT](https://zh.wikipedia.org/wiki/#Bluebook:_Harvard_JOLT格式 "wikilink")
   - 作者：維基百科編者
   - 出版者：維基百科，
   - 最後更新時間：--T+00:00（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")）
-  - 參照時間：{{\#time: Y-m-dTH:i:s+00:00}}
-    （[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")）
+  - 參照時間：{{\#time: Y-m-dTH:i:s+00:00}} （[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")）
   - 永久連結：
   - 條目版本編號：
 
@@ -48,61 +36,37 @@ JOLT](https://zh.wikipedia.org/wiki/#Bluebook:_Harvard_JOLT格式 "wikilink")
 
 ### [APA格式](../Page/APA格式.md "wikilink")
 
-. (,
-{{\#switch:|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
-). Retrieved from 維基百科, :
+. (, {{\#switch:|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}} ). Retrieved from 維基百科, :
 
 ### [MLA格式](../Page/MLA格式手冊.md "wikilink")
 
-Wikipedia contributors. "." *維基百科, *. 維基百科, ,
-{{\#switch:|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}}
-. Web. {{\#time:j}}
-{{\#switch:{{\#time:m}}|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}}
-{{\#time:Y}}.‹›.
+Wikipedia contributors. "." *維基百科, *. 維基百科, ,  {{\#switch:|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}} . Web. {{\#time:j}} {{\#switch:{{\#time:m}}|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}} {{\#time:Y}}.‹›.
 
 ###
 
-Wikipedia contributors, '', *維基百科, ,*
-{{\#switch:|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
- \<\> \[accessed {{\#time:j}}
-{{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
-{{\#time:Y}}\]
+Wikipedia contributors, '', *維基百科, ,*  {{\#switch:|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}  \<\> \[accessed {{\#time:j}} {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}} {{\#time:Y}}\]
 
 ### [芝加哥格式手冊](https://zh.wikipedia.org/wiki/芝加哥格式手冊 "wikilink")（Chicago）
 
-*維基百科, ,* s.v. "" (by Wikipedia contributors),  (accessed
-{{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
-{{\#time:j}}, {{\#time:Y}}).
+*維基百科, ,* s.v. "" (by Wikipedia contributors),  (accessed {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}} {{\#time:j}}, {{\#time:Y}}).
 
 ### [CBE/CSE格式](https://zh.wikipedia.org/wiki/科學編輯委員會 "wikilink")
 
-Wikipedia contributors. c. . In: 維基百科, . \[Internet\]: 維基百科, ; \[cited
-{{\#time:Y}}
-{{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
-{{\#time:j}}\]. Available from:
+Wikipedia contributors. c. . In: 維基百科, . \[Internet\]: 維基百科, ; \[cited {{\#time:Y}} {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}} {{\#time:j}}\]. Available from:
 
 ### [藍皮書格式](https://zh.wikipedia.org/wiki/藍皮書 "wikilink")（Bluebook）
 
-Wikipedia contributors, , 維基百科,
-({{\#switch:|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}}
-, ), available at .
+Wikipedia contributors, , 維基百科,  ({{\#switch:|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}} , ), available at .
 
 ### [Bluebook: Harvard JOLT格式](https://zh.wikipedia.org/wiki/藍皮書#Citation_to_Wikipedia "wikilink")
 
-Wikipedia, **,  (as of
-{{\#switch:{{\#time:m}}|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}}
-{{\#switch:{{\#time:n}}|5=|6=e|7=y|9=t.|}} {{\#time:j, Y, H:i}} GMT)
-(這裡可以寫一些說明).
+Wikipedia, **,  (as of {{\#switch:{{\#time:m}}|01=Jan.|02=Feb.|03=Mar.|04=Apr.|05=May|06=Jun.|07=Jul.|08=Aug.|09=Sep.|10=Oct.|11=Nov.|12=Dec.}} {{\#switch:{{\#time:n}}|5=|6=e|7=y|9=t.|}} {{\#time:j, Y, H:i}} GMT) (這裡可以寫一些說明).
 
 ### [美國醫學會](https://zh.wikipedia.org/wiki/美國醫學會 "wikilink")（AMA）格式
 
-Wikipedia contributors. . 維基百科, .
-{{\#switch:|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
-, ,  UTC. Available at: . Accessed
-{{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
-{{\#time:j}}, {{\#time:Y}}. Chinese.
+Wikipedia contributors. . 維基百科, . {{\#switch:|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}} , ,  UTC. Available at: . Accessed {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}} {{\#time:j}}, {{\#time:Y}}. Chinese.
 
-### [BibTeX記錄](../Page/BibTeX.md "wikilink")
+### [BibTeX](../Page/BibTeX.md "wikilink")記錄
 
 ` @misc{ wiki:xxx,`
 `   author = "維基百科",`
@@ -112,8 +76,7 @@ Wikipedia contributors. . 維基百科, .
 `   note = "[Online; accessed {{#time:j}}{{#time:m}}}{{#time:Y}}]"`
 ` }`
 
-使用[LaTeX軟體包連結](https://zh.wikipedia.org/wiki/LaTeX "wikilink")（`\usepackage{url}`
-加入連結前後）將提供更好的網址格式，推薦選用下列格式：
+使用[LaTeX軟體包連結](https://zh.wikipedia.org/wiki/LaTeX "wikilink")（`\usepackage{url}` 加入連結前後）將提供更好的網址格式，推薦選用下列格式：
 
 ` @misc{ wiki:xxx,`
 `   author = "維基百科",`
@@ -135,8 +98,4 @@ Wikipedia contributors. . 維基百科, .
 
 </div>
 
-\<span class="Z3988" title="ctx_ver=Z39.88-2004 \&rft_val_fmt=
-\&rfr_id= \&rft.type=encyclopediaArticle \&rft.title=
-\&rft.date={CURRENTMONTH} \&rft.source= \&rft.aucorp= \&rft.publisher=
-\&rft.artnum= \&rft.identifier= \&rft.language=zh \&rft.format=text
-\&rft.rights= "\><span style="display: none;"> </span></span>
+\<span class="Z3988" title="ctx_ver=Z39.88-2004 \&rft_val_fmt= \&rfr_id= \&rft.type=encyclopediaArticle \&rft.title= \&rft.date={CURRENTMONTH} \&rft.source= \&rft.aucorp= \&rft.publisher= \&rft.artnum= \&rft.identifier= \&rft.language=zh \&rft.format=text \&rft.rights= "\><span style="display: none;"> </span></span>

@@ -1,23 +1,12 @@
-**1PUNCH**（）為D-Business Entertainment與[Brave
-Entertainment兩間經紀公司合作推出的](https://zh.wikipedia.org/wiki/Brave_Entertainment "wikilink")[韓國雙人男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，1PUNCH由[鄭帝元](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")（1
-/
-one）和[金SAMUEL](https://zh.wikipedia.org/wiki/金SAMUEL "wikilink")（PUNCH）組成，於2015年1月23日出道，組合也於同年的九月解散。
+**1PUNCH**（）為D-Business Entertainment與[Brave Entertainment兩間經紀公司合作推出的](https://zh.wikipedia.org/wiki/Brave_Entertainment "wikilink")[韓國雙人男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，1PUNCH由[鄭帝元](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")（1 / one）和[金SAMUEL](https://zh.wikipedia.org/wiki/金SAMUEL "wikilink")（PUNCH）組成，於2015年1月23日出道，組合也於同年的九月解散。
 
 1PUNCH於出道100日後公開粉絲名稱為「K.O」(Knock Out)，意思為1punch的魅力擊倒所有人，還有大家所選出魅力的意義。
 
 ## 簡介
 
-1PUNCH是以向90年代的嘻哈組合[徐太志與孩子們和](https://zh.wikipedia.org/wiki/徐太志與孩子們 "wikilink")[DEUX致敬](https://zh.wikipedia.org/wiki/DEUX "wikilink")，通過現代化的作業下而誕生的組合。1PUNCH兩位成員經歷了很長的練習時間，不管是歌唱、饒舌或舞蹈都有著出眾的實力。成員1不僅有著優越的身材比例，還有由純情漫畫中走出來一般的帥氣外貌，而且有著不錯的時尚與音樂感覺；而成員
-PUNCH
-則是有著像變色龍般的魅力，他出道前曾為組合[SEVENTEEN的預備出道成員](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")。
+1PUNCH是以向90年代的嘻哈組合[徐太志與孩子們和](https://zh.wikipedia.org/wiki/徐太志與孩子們 "wikilink")[DEUX致敬](https://zh.wikipedia.org/wiki/DEUX "wikilink")，通過現代化的作業下而誕生的組合。1PUNCH兩位成員經歷了很長的練習時間，不管是歌唱、饒舌或舞蹈都有著出眾的實力。成員1不僅有著優越的身材比例，還有由純情漫畫中走出來一般的帥氣外貌，而且有著不錯的時尚與音樂感覺；而成員 PUNCH 則是有著像變色龍般的魅力，他出道前曾為組合[SEVENTEEN的預備出道成員](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")。
 
-1PUNCH的成員ONE(원)出演了嘻哈生存綜藝節目《Show Me The Money
-4》，以出眾實力與外貌引發關注。2015年9月21日，ONE的所屬公司D-Business
-Entertainment與[YG
-Entertainment簽訂第三方合約](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，ONE成為了[YG
-Entertainment旗下藝人](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，而[Brave
-Entertainment和D](https://zh.wikipedia.org/wiki/Brave_Entertainment "wikilink")-Business
-Entertainment是基於互信關係合作推出組合1PUNCH，公司之間並沒有簽訂合約，所以1PUNCH解散。
+1PUNCH的成員ONE(원)出演了嘻哈生存綜藝節目《Show Me The Money 4》，以出眾實力與外貌引發關注。2015年9月21日，ONE的所屬公司D-Business Entertainment與[YG Entertainment簽訂第三方合約](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，ONE成為了[YG Entertainment旗下藝人](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，而[Brave Entertainment和D](https://zh.wikipedia.org/wiki/Brave_Entertainment "wikilink")-Business Entertainment是基於互信關係合作推出組合1PUNCH，公司之間並沒有簽訂合約，所以1PUNCH解散。
 
 ## 成員資料
 
@@ -75,11 +64,4 @@ Entertainment是基於互信關係合作推出組合1PUNCH，公司之間並沒�
   - [1PUNCH官方Cafe](https://web.archive.org/web/20150626214709/http://www.1punch.co.kr/)
   - [1PUNCH官方微博](http://tw.weibo.com/mi7official)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")

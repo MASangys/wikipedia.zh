@@ -1,4 +1,4 @@
-**双q哈恩多项式**是一个以[基本超几何函数定义的](../Page/基本超几何函数.md "wikilink")[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")
+**双q哈恩多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")
 
 \(R_{n}(\mu(x);\delta,\gamma,N|q)=_{3}\Phi_{2}(q^{-n},q^{-x},\gamma\delta{q}^{x+1};\gamma{q},q_{N};q,q)\)
 
@@ -32,6 +32,4 @@
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:Q-analogs](https://zh.wikipedia.org/wiki/Category:Q-analogs "wikilink")
-[Category:特殊超几何函数](https://zh.wikipedia.org/wiki/Category:特殊超几何函数 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:Q-analogs](https://zh.wikipedia.org/wiki/Category:Q-analogs "wikilink") [Category:特殊超几何函数](https://zh.wikipedia.org/wiki/Category:特殊超几何函数 "wikilink")

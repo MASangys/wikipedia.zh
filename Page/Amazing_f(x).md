@@ -2,9 +2,7 @@
 
 {{ copy edit }}}}
 
-《**Amazing
-f(x)**》是2013年[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC拍摄的](https://zh.wikipedia.org/wiki/MBC "wikilink")[f(x)组合的团体综艺节目](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")，是f(x)组合的第三个团体综艺节目。f(x)组合于4日通过[仁川机场前往新西兰](https://zh.wikipedia.org/wiki/仁川 "wikilink")，拍摄真人秀节目《Amazing
-f(x)》，该节目以f(x)在新西兰的旅游、体验当地的文化为基础进行拍摄。该节目将在MBC播出，将于2013年5月28日韩国晚上十一点播出。一共8集。
+《**Amazing f(x)**》是2013年[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC拍摄的](https://zh.wikipedia.org/wiki/MBC "wikilink")[f(x)组合的团体综艺节目](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")，是f(x)组合的第三个团体综艺节目。f(x)组合于4日通过[仁川机场前往新西兰](https://zh.wikipedia.org/wiki/仁川 "wikilink")，拍摄真人秀节目《Amazing f(x)》，该节目以f(x)在新西兰的旅游、体验当地的文化为基础进行拍摄。该节目将在MBC播出，将于2013年5月28日韩国晚上十一点播出。一共8集。
 
 ## 背景
 
@@ -14,22 +12,11 @@ f(x)》，该节目以f(x)在新西兰的旅游、体验当地的文化为基础
 
 ## 节目简介
 
-正在为回归做准备的f(x)成员Victoria，Amber，Luna，Sulli，Krystal。
-8日通过仁川国际机场前往新西兰。为了出演新真人秀节目‘Amazing
-f(x)’而去到新西兰。 跟随观众‘Amazing
-f(x)’f(x)的成员们去新西兰旅行体验文化之旅。并且除了五名成员的舞台之外，日常生活也会自然的拍摄。
-对于f(x)来说‘Amazing f(x)’是在2010年cable channel Y-STAR‘hello f(x)’，MBC
-everyone f(x)的‘KOALA’（了解韩国）之后的第三个真人秀节目。 特别是当时
-f(x)的‘KOALA’amber的腿部受伤没能一起参与，饭们觉得很可惜，时隔很久五名成员全部出演的真人秀节目目‘Amazing
-f(x)’，让饭们抱有很大的期待，因此收视大红。
+正在为回归做准备的f(x)成员Victoria，Amber，Luna，Sulli，Krystal。 8日通过仁川国际机场前往新西兰。为了出演新真人秀节目‘Amazing f(x)’而去到新西兰。 跟随观众‘Amazing f(x)’f(x)的成员们去新西兰旅行体验文化之旅。并且除了五名成员的舞台之外，日常生活也会自然的拍摄。 对于f(x)来说‘Amazing f(x)’是在2010年cable channel Y-STAR‘hello f(x)’，MBC everyone f(x)的‘KOALA’（了解韩国）之后的第三个真人秀节目。 特别是当时 f(x)的‘KOALA’amber的腿部受伤没能一起参与，饭们觉得很可惜，时隔很久五名成员全部出演的真人秀节目目‘Amazing f(x)’，让饭们抱有很大的期待，因此收视大红。
 
 ## 组合简介
 
-Amazing f(x)\[1\]\[2\]是2013年MBC拍摄的f(x)组合的团体综艺节目，是f(x)组合的第三个团体综艺节目。
-f(x)组合于4月8日通过仁川机场前往新西兰，拍摄真人秀节目《Amazing
-f(x)》，该节目以f(x)在新西兰的旅游、体验当地的文化为基础进行拍摄。该节目将在MBC播出，将于2013年5月28日韩国晚上十一点播出。一共八集。
-【电视台】MBC MUSIC 【出演成员】Victoria宋茜、Amber刘逸云、Luna朴善怜、Sulli崔雪莉、Krystal郑秀晶
-【拍摄地】新西兰
+Amazing f(x)\[1\]\[2\]是2013年MBC拍摄的f(x)组合的团体综艺节目，是f(x)组合的第三个团体综艺节目。 f(x)组合于4月8日通过仁川机场前往新西兰，拍摄真人秀节目《Amazing f(x)》，该节目以f(x)在新西兰的旅游、体验当地的文化为基础进行拍摄。该节目将在MBC播出，将于2013年5月28日韩国晚上十一点播出。一共八集。 【电视台】MBC MUSIC 【出演成员】Victoria宋茜、Amber刘逸云、Luna朴善怜、Sulli崔雪莉、Krystal郑秀晶 【拍摄地】新西兰
 
 ## 播出一覽
 
@@ -106,12 +93,8 @@ f(x)》，该节目以f(x)在新西兰的旅游、体验当地的文化为基础
 | Amazing f(x) Teaser | 00:24 | [by MBCplusm](http://www.youtube.com/watch?v=_eS4F9DFM_8) - [YouTube](../Page/YouTube.md "wikilink") |                      |
 |                     |       |                                                                                                      |                      |
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
 
-1.  [【bnt图】f(x)休闲潮装现身机场
-    赴新西兰拍摄AmazingF(x)](http://www.koreaxing.com/article-2446-1.html)
-2.  ['어메이징 f(x)', 다섯 함수 소녀의 특별한
-    여행](http://news.nate.com/view/20130409n03088)
-3.  此處標題為[搜狐視頻的分集標題](../Page/搜狐.md "wikilink")。
+1.  [【bnt图】f(x)休闲潮装现身机场 赴新西兰拍摄AmazingF(x)](http://www.koreaxing.com/article-2446-1.html)
+2.  ['어메이징 f(x)', 다섯 함수 소녀의 특별한 여행](http://news.nate.com/view/20130409n03088)
+3.  此處標題為[搜狐](../Page/搜狐.md "wikilink")視頻的分集標題。

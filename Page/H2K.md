@@ -1,9 +1,8 @@
-**H2K**，是[天娱传媒于](../Page/天娱传媒.md "wikilink")2015年1月推出的一支新生代男子偶像，由张汉盛、封迪、罗维、蔡知雨和黄星羱5位成员组成，平均年龄12.6岁，首支单曲《骑士少年》首发後獲即獲得了正面評價\[1\]。
+**H2K**，是[天娱传媒](../Page/天娱传媒.md "wikilink")于2015年1月推出的一支新生代男子偶像，由张汉盛、封迪、罗维、蔡知雨和黄星羱5位成员组成，平均年龄12.6岁，首支单曲《骑士少年》首发後獲即獲得了正面評價\[1\]。
 
 ## 主要经历
 
-2014年
-组合成员通过湖南[金鹰卡通卫视](https://zh.wikipedia.org/wiki/金鹰卡通 "wikilink")《[中国新声代](../Page/中国新声代.md "wikilink")》第二季比赛脱颖而出\[2\]，赛后签约[天娱传媒公司](../Page/天娱传媒.md "wikilink")，并以“00后[F4](https://zh.wikipedia.org/wiki/F4 "wikilink")”之名参加《[天天向上](../Page/天天向上.md "wikilink")》《[快乐大本营](../Page/快乐大本营.md "wikilink")》等国内各大电视台的节目录制\[3\]
+2014年 组合成员通过湖南[金鹰卡通卫视](https://zh.wikipedia.org/wiki/金鹰卡通 "wikilink")《[中国新声代](../Page/中国新声代.md "wikilink")》第二季比赛脱颖而出\[2\]，赛后签约[天娱传媒](../Page/天娱传媒.md "wikilink")公司，并以“00后[F4](https://zh.wikipedia.org/wiki/F4 "wikilink")”之名参加《[天天向上](../Page/天天向上.md "wikilink")》《[快乐大本营](../Page/快乐大本营.md "wikilink")》等国内各大电视台的节目录制\[3\]
 
 2015年1月，组合正式命名为H2K\[4\]，并发行首支单曲《骑士少年》\[5\]\[6\]
 
@@ -84,18 +83,12 @@
   - [H2k 新闻搜索](http://news.baidu.com/ns?cl=2&rn=20&tn=news&word=h2k)
   - [天娱传媒](../Page/天娱传媒.md "wikilink")
 
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
+[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
 
-1.  [骑士少年H2K新歌热播
-    养成式组合引关注](http://ent.163.com/15/0122/08/AGI5CKO200031H0O.html)
+1.  [骑士少年H2K新歌热播 养成式组合引关注](http://ent.163.com/15/0122/08/AGI5CKO200031H0O.html)
 2.  [天娱骑士少年出道历程：从00后F4到H2K](http://ent.sina.com.cn/s/m/2015-01-19/doc-iawzunex9165390.shtml)
-3.  [从00后F4到H2K
-    天娱“骑士少年”出道历程](http://ent.ifeng.com/a/20150119/42204321_0.shtml)
-4.  [H2K正式开闯娱乐圈
-    小鲜肉不怕“老男孩”](http://ent.huanqiu.com/music/yinle-neidi/2015-01/5481908.html)
+3.  [从00后F4到H2K 天娱“骑士少年”出道历程](http://ent.ifeng.com/a/20150119/42204321_0.shtml)
+4.  [H2K正式开闯娱乐圈 小鲜肉不怕“老男孩”](http://ent.huanqiu.com/music/yinle-neidi/2015-01/5481908.html)
 5.  [H2K小鲜肉组合出道单曲《骑士少年》全网发布](http://ent.hebnews.cn/2015-01/15/content_4472207.htm)
-
 6.  [《骑士少年》闯歌坛天娱推出H2K组合](http://news.163.com/15/0121/02/AGEV46O100014AED.html)
 7.  [H2K《骑士少年》官方MV](http://v.yinyuetai.com/video/2219928)

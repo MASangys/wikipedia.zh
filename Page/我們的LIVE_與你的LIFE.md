@@ -1,25 +1,18 @@
-《**我們的LIVE
-與你的LIFE**》（）是[μ's的第一首](https://zh.wikipedia.org/wiki/LoveLive!#登場人物 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年8月13日在[C78會場內以](../Page/Comic_Market.md "wikilink")「LoveLive\!
-School idol project」名義發售夏CM限定版（），後於同年8月25日公開發售通常版。
+《**我們的LIVE 與你的LIFE**》（）是[μ's的第一首](https://zh.wikipedia.org/wiki/LoveLive!#登場人物 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年8月13日在[C78會場內以](../Page/Comic_Market.md "wikilink")「LoveLive\! School idol project」名義發售夏CM限定版（），後於同年8月25日公開發售通常版。
 
 ## 概要
 
-本單曲是[μ's的出道作品](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")，共分夏CM限定版與通常版2種發行，二者封面畫像不同。夏CM限定版僅在C78發售，不過後來又在2011年8月5日至14日期間於Cure
-maid café（）再發售\[1\]。
+本單曲是[μ's的出道作品](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")，共分夏CM限定版與通常版2種發行，二者封面畫像不同。夏CM限定版僅在C78發售，不過後來又在2011年8月5日至14日期間於Cure maid café（）再發售\[1\]。
 
-在單曲發售時，「μ's」這個名稱尚未存在，故單曲的歌手名稱為「LoveLive\! School idol
-project」（）。另外，本CD僅記載了各個角色的名字，而未記載為她們配音的[聲優姓名](../Page/聲優.md "wikilink")，相關資料也沒有在雜誌等媒體發表，直至11月才於該月的《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》中公開聲優名字。
+在單曲發售時，「μ's」這個名稱尚未存在，故單曲的歌手名稱為「LoveLive\! School idol project」（）。另外，本CD僅記載了各個角色的名字，而未記載為她們配音的[聲優](../Page/聲優.md "wikilink")姓名，相關資料也沒有在雜誌等媒體發表，直至11月才於該月的《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》中公開聲優名字。
 
-CD中除樂曲外，還收錄有μ's成員的自我介紹獨白的廣播劇。小冊子中除收錄樂曲的歌詞外，也收載了成員簡短的自我介紹，其中部分人物设定与之后的电视动画、漫画及小说有所不同。DVD收錄了《我們的LIVE
-與你的LIFE》的動畫音樂短片，不過樂曲在最後的副歌部分有刪節，並非完整版。
+CD中除樂曲外，還收錄有μ's成員的自我介紹獨白的廣播劇。小冊子中除收錄樂曲的歌詞外，也收載了成員簡短的自我介紹，其中部分人物设定与之后的电视动画、漫画及小说有所不同。DVD收錄了《我們的LIVE 與你的LIFE》的動畫音樂短片，不過樂曲在最後的副歌部分有刪節，並非完整版。
 
 CD內附有[二維碼](../Page/二維碼.md "wikilink")，若在2010年8月13至31日期間掃描二維碼即可參加「**突然到來的盛夏大選**」（），投票決定第二個單曲中擔當主唱的角色。
 
-作為通常版的[法人特典](../Page/法人.md "wikilink")，在[Animate](https://zh.wikipedia.org/wiki/Animate "wikilink")、、[Comic虎之穴購買時](../Page/Comic虎之穴.md "wikilink")，會附贈實際並不存在的架空演唱會門票，而各個法人所附贈的門票設計均有所不同。
+作為通常版的[法人](../Page/法人.md "wikilink")特典，在[Animate](https://zh.wikipedia.org/wiki/Animate "wikilink")、、[Comic虎之穴](../Page/Comic虎之穴.md "wikilink")購買時，會附贈實際並不存在的架空演唱會門票，而各個法人所附贈的門票設計均有所不同。
 
-通常版发售时只发售出434份，而且大部分需要靠工作人员内购消化，高坂穂乃果的配音[新田惠海在](../Page/新田惠海.md "wikilink")3rd
-Anniversary LoveLive\!演唱会曾提及其该经历而落泪，并提及当时为防止卖不掉而买入了10份。\[2\]
+通常版发售时只发售出434份，而且大部分需要靠工作人员内购消化，高坂穂乃果的配音[新田惠海](../Page/新田惠海.md "wikilink")在3rd Anniversary LoveLive\!演唱会曾提及其该经历而落泪，并提及当时为防止卖不掉而买入了10份。\[2\]
 
 ## 收錄內容
 
@@ -110,8 +103,7 @@ CD共收錄了兩首歌曲、其純音樂版以及「LoveLive\!」中九人各�
   - 音樂製作人：[齋藤滋](../Page/齋藤滋.md "wikilink")
   - 製作人：平山理志、伊藤善之、
   - 舞蹈編排：yumi
-  - 製作：Project LoveLive\!（日昇動畫、Lantis、[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")）
+  - 製作：Project LoveLive\!（日昇動畫、Lantis、[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）
 
 ## 專輯收錄
 
@@ -148,25 +140,13 @@ CD共收錄了兩首歌曲、其純音樂版以及「LoveLive\!」中九人各�
 
   - [Lantis上的介紹頁](http://lantis.jp/release-item2.php?id=cd30dc20182c416e06dbc4e5410bd629)
   - Lantis YouTube頻道的影片
-      - [「LoveLive\!」出道單曲《我們的LIVE
-        與你的LIFE》電視廣告第1彈](http://www.youtube.com/watch?v=70IoPJV7FWc)
+      - [「LoveLive\!」出道單曲《我們的LIVE 與你的LIFE》電視廣告第1彈](http://www.youtube.com/watch?v=70IoPJV7FWc)
+      - [「LoveLive\!」出道單曲《我們的LIVE 與你的LIFE》電視廣告第2彈](http://www.youtube.com/watch?v=7NzVWQM9YwM)
+      - [「LoveLive\!」出道單曲《我們的LIVE 與你的LIFE》電視廣告第3彈](http://www.youtube.com/watch?v=pWXqEJGfj4c)
+      - [【LoveLive\!】《我們的LIVE 與你的LIFE》音樂影片（簡短版）](http://www.youtube.com/watch?v=1n-eKFx7Fo)
+      - [【試聽影片】LoveLive\!《友情No Change》](http://www.youtube.com/watch?v=kuDPDAZTf8s)
 
-      - [「LoveLive\!」出道單曲《我們的LIVE
-        與你的LIFE》電視廣告第2彈](http://www.youtube.com/watch?v=7NzVWQM9YwM)
-
-      - [「LoveLive\!」出道單曲《我們的LIVE
-        與你的LIFE》電視廣告第3彈](http://www.youtube.com/watch?v=pWXqEJGfj4c)
-
-      - [【LoveLive\!】《我們的LIVE
-        與你的LIFE》音樂影片（簡短版）](http://www.youtube.com/watch?v=1n-eKFx7Fo)
-
-      - [【試聽影片】LoveLive\!《友情No
-        Change》](http://www.youtube.com/watch?v=kuDPDAZTf8s)
-
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:Μ's歌曲](https://zh.wikipedia.org/wiki/Category:Μ's歌曲 "wikilink")
-[Category:出道單曲](https://zh.wikipedia.org/wiki/Category:出道單曲 "wikilink")
-[Category:電視動畫插曲](https://zh.wikipedia.org/wiki/Category:電視動畫插曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:Μ's歌曲](https://zh.wikipedia.org/wiki/Category:Μ's歌曲 "wikilink") [Category:出道單曲](https://zh.wikipedia.org/wiki/Category:出道單曲 "wikilink") [Category:電視動畫插曲](https://zh.wikipedia.org/wiki/Category:電視動畫插曲 "wikilink")
 
 1.
 2.

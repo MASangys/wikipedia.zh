@@ -2,12 +2,7 @@
 
 ## 參考資料
 
-[Category:中国漫画作品](https://zh.wikipedia.org/wiki/Category:中国漫画作品 "wikilink")
-[Category:科幻漫画](https://zh.wikipedia.org/wiki/Category:科幻漫画 "wikilink")
-[Category:文明崩潰後世界題材漫畫](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材漫畫 "wikilink")
-[Category:别册少年Magazine](https://zh.wikipedia.org/wiki/Category:别册少年Magazine "wikilink")
-[Category:劲漫画](https://zh.wikipedia.org/wiki/Category:劲漫画 "wikilink")
-[Category:病毒題材作品](https://zh.wikipedia.org/wiki/Category:病毒題材作品 "wikilink")
+[Category:中国漫画作品](https://zh.wikipedia.org/wiki/Category:中国漫画作品 "wikilink") [Category:科幻漫画](https://zh.wikipedia.org/wiki/Category:科幻漫画 "wikilink") [Category:文明崩潰後世界題材漫畫](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材漫畫 "wikilink") [Category:别册少年Magazine](https://zh.wikipedia.org/wiki/Category:别册少年Magazine "wikilink") [Category:劲漫画](https://zh.wikipedia.org/wiki/Category:劲漫画 "wikilink") [Category:病毒題材作品](https://zh.wikipedia.org/wiki/Category:病毒題材作品 "wikilink")
 
 1.
 2.

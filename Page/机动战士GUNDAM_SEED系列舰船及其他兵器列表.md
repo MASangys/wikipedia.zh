@@ -1,9 +1,4 @@
-**机动战士高达 SEED系列舰船及其他兵器列表**，主要内容为日本动画作品《[机动战士GUNDAM
-SEED](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED "wikilink")》、《[机动战士GUNDAM
-SEED
-DESTINY](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED_DESTINY "wikilink")》、《[机动战士GUNDAM
-SEED C.E.73
-STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及附属作品所构成的宇宙纪元中登场的除[机动兵器](https://zh.wikipedia.org/wiki/机动兵器 "wikilink")（[机动战士](../Page/机动战士.md "wikilink")、[机动装甲](https://zh.wikipedia.org/wiki/机动装甲 "wikilink")）外的其他武器。
+**机动战士高达 SEED系列舰船及其他兵器列表**，主要内容为日本动画作品《[机动战士GUNDAM SEED](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED "wikilink")》、《[机动战士GUNDAM SEED DESTINY](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED_DESTINY "wikilink")》、《[机动战士GUNDAM SEED C.E.73 STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及附属作品所构成的宇宙纪元中登场的除[机动兵器](https://zh.wikipedia.org/wiki/机动兵器 "wikilink")（[机动战士](../Page/机动战士.md "wikilink")、[机动装甲](https://zh.wikipedia.org/wiki/机动装甲 "wikilink")）外的其他武器。
 
 ## 地球联合军
 
@@ -78,8 +73,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
       -
     <!-- end list -->
       -
-        阿伽门农级的早期型号。血染情人节的事件的肇事舰。漫画《SEED Re:》中，当时该舰的舰长是威廉·萨瑟兰（William
-        Sutherland）。艦名應是取自美國總統羅斯福。
+        阿伽门农级的早期型号。血染情人节的事件的肇事舰。漫画《SEED Re:》中，当时该舰的舰长是威廉·萨瑟兰（William Sutherland）。艦名應是取自美國總統羅斯福。
     <!-- end list -->
       -
     <!-- end list -->
@@ -99,8 +93,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
       -
     <!-- end list -->
       -
-        阿伽门农级的早期型号。Peace Maker队的三艘阿伽门农级之一，舰长是威廉·萨瑟兰（William
-        Sutherland）。第二次雅金·杜威攻防战中被決鬥鋼彈击沉。
+        阿伽门农级的早期型号。Peace Maker队的三艘阿伽门农级之一，舰长是威廉·萨瑟兰（William Sutherland）。第二次雅金·杜威攻防战中被決鬥鋼彈击沉。
     <!-- end list -->
       -
     <!-- end list -->
@@ -134,8 +127,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
       -
     <!-- end list -->
       -
-        編号LCAM-01XA
-        ，是作為X系列MS的運用平台，由歐普的摩根雷提社參考歐普出雲級開發而成，艦長為[瑪琉·雷明斯](https://zh.wikipedia.org/wiki/瑪琉·雷明斯 "wikilink")。
+        編号LCAM-01XA ，是作為X系列MS的運用平台，由歐普的摩根雷提社參考歐普出雲級開發而成，艦長為[瑪琉·雷明斯](https://zh.wikipedia.org/wiki/瑪琉·雷明斯 "wikilink")。
         原本屬於地球軍，但在阿拉斯加攻防戰時，艦長基於乘員生命而自行判斷任務完成後脫離戰線，後進入歐普修整，從此脫離地球軍序列。
         因為外型而被札夫特戲稱為「有腳的」或「長腿」，又因歷經諸多戰亂皆平安生還，尚有「不沉之艦」的別稱。
     <!-- end list -->
@@ -403,14 +395,12 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
       -
     <!-- end list -->
       -
-        《SEED
-        MSV战记》第3话登场。格里马尔迪战线时克鲁泽队的旗舰，克鲁泽担任舰长。名称来源自意大利医学家[路易吉·伽伐尼](../Page/路易吉·伽伐尼.md "wikilink")。
+        《SEED MSV战记》第3话登场。格里马尔迪战线时克鲁泽队的旗舰，克鲁泽担任舰长。名称来源自意大利医学家[路易吉·伽伐尼](../Page/路易吉·伽伐尼.md "wikilink")。
     <!-- end list -->
       -
     <!-- end list -->
       -
-        《SEED
-        MSV战记》第3话登场。阿迪斯在格里马尔迪战线时曾担任马尔皮吉号的副舰长。名称来源自意大利解剖学家[马尔切洛·马尔皮吉](https://zh.wikipedia.org/wiki/马尔切洛·马尔皮吉 "wikilink")。
+        《SEED MSV战记》第3话登场。阿迪斯在格里马尔迪战线时曾担任马尔皮吉号的副舰长。名称来源自意大利解剖学家[马尔切洛·马尔皮吉](https://zh.wikipedia.org/wiki/马尔切洛·马尔皮吉 "wikilink")。
     <!-- end list -->
       -
     <!-- end list -->
@@ -420,8 +410,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
       -
     <!-- end list -->
       -
-        《GUNDAM
-        SEED》中登场。参与低轨道战役。名称来源自德国化学家[卡尔·齐格勒](../Page/卡尔·齐格勒.md "wikilink")。
+        《GUNDAM SEED》中登场。参与低轨道战役。名称来源自德国化学家[卡尔·齐格勒](../Page/卡尔·齐格勒.md "wikilink")。
     <!-- end list -->
       -
 \*;
@@ -431,8 +420,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
       -
     <!-- end list -->
       -
-        《GUNDAM
-        SEED》中登场。克鲁泽队旗舰，舰长為阿迪斯。最后被草薙号和永恒号击沉。名称来源自解剖学家[安德雷亚斯·维萨里](../Page/安德雷亚斯·维萨里.md "wikilink")。
+        《GUNDAM SEED》中登场。克鲁泽队旗舰，舰长為阿迪斯。最后被草薙号和永恒号击沉。名称来源自解剖学家[安德雷亚斯·维萨里](../Page/安德雷亚斯·维萨里.md "wikilink")。
     <!-- end list -->
       -
     <!-- end list -->
@@ -484,12 +472,12 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
   -
     长约350米的战舰。[脉冲鋼彈的专用母舰](../Page/ZGMF-X56S_Impulse.md "wikilink")。名称来源自罗马神话中的女神[弥涅耳瓦](https://zh.wikipedia.org/wiki/弥涅耳瓦 "wikilink")。
     跟大天使號的武裝有高度相似性，主要武裝為類似於「羅安格林」的「唐懷瑟」陽電子砲，以及各型光炮、飛彈等，可在水上活動。
-    一號艦最後因為被大天使號重創，又遭到[無限正義鋼彈破壞推進器](https://zh.wikipedia.org/wiki/無限正義鋼彈 "wikilink")，迫降在[月球表面](../Page/月球.md "wikilink")，之後艦長下令全員棄艦。
+    一號艦最後因為被大天使號重創，又遭到[無限正義鋼彈破壞推進器](https://zh.wikipedia.org/wiki/無限正義鋼彈 "wikilink")，迫降在[月球](../Page/月球.md "wikilink")表面，之後艦長下令全員棄艦。
 
 \*;
 
   -
-    全长1200米的超大型宇宙母舰。名称来源自[冈瓦那大陆大陆](../Page/冈瓦那大陆.md "wikilink")，配備四層飛行甲板共十六條跑道供MS起飛。
+    全长1200米的超大型宇宙母舰。名称来源自[冈瓦那大陆](../Page/冈瓦那大陆.md "wikilink")大陆，配備四層飛行甲板共十六條跑道供MS起飛。
 
 #### 其他宇宙舰艇
 
@@ -525,8 +513,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
 \*;
 
   -
-    波斯特洛夫級潛艦搭載的飛行器，主要是用來讓部分不具備單獨飛行能力的MS得以進行空中作戰的輔助飛行系統（Sub Flight
-    System，SFS），本身配備有連裝飛彈等武裝
+    波斯特洛夫級潛艦搭載的飛行器，主要是用來讓部分不具備單獨飛行能力的MS得以進行空中作戰的輔助飛行系統（Sub Flight System，SFS），本身配備有連裝飛彈等武裝
 
 ### 车辆
 
@@ -534,11 +521,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
 
   - **流星系統**
 
-扎夫特的MS埋入式戰術轟炸機「流星」（Meteor，Mobile suit Embedded Tactical
-EnfORcer）是為ZGMF-X09A Justice Gundam和ZGMF-X10A Freedom
-Gundam設計的機動武器平台。雖然這兩台機體的裝備都非常先進，但METEOR可以使他們變成一個機動要塞。其武裝包括高能量收束火線炮，大型光束劍和位於機體各個部位的77管飛彈發射管。其中高能量收束火線炮和飛彈是對付戰艦和機動戰士的有效武器，而大型光束劍則能輕易地將一艘戰艦切開。METEOR平時存放在專用支援戰艦永恆號的外壁（可作為永恆號的艦砲使用）。在戰爭後期，阿斯蘭和煌使用METEOR擊毀了射向PLANT的核彈。雅金.杜威攻防戰中，阿斯蘭卸下METEOR以潛入並破壞會使世界末日到來的武器GENESIS，而煌的METEOR則被拉烏.魯.克爾澤的ZGMF-X13A
-Providence Gundam擊毀（流星本身是對據點及對艦戰鬥用的裝備，並不適合纏鬥，而面對能輕易從四面八方攻擊的天帝鋼彈更是淪為活靶）。
-另外，METEOR也是另一ZAFT機體——Verne 35A/MPFM Multipurpose Flight Module的基礎。
+扎夫特的MS埋入式戰術轟炸機「流星」（Meteor，Mobile suit Embedded Tactical EnfORcer）是為ZGMF-X09A Justice Gundam和ZGMF-X10A Freedom Gundam設計的機動武器平台。雖然這兩台機體的裝備都非常先進，但METEOR可以使他們變成一個機動要塞。其武裝包括高能量收束火線炮，大型光束劍和位於機體各個部位的77管飛彈發射管。其中高能量收束火線炮和飛彈是對付戰艦和機動戰士的有效武器，而大型光束劍則能輕易地將一艘戰艦切開。METEOR平時存放在專用支援戰艦永恆號的外壁（可作為永恆號的艦砲使用）。在戰爭後期，阿斯蘭和煌使用METEOR擊毀了射向PLANT的核彈。雅金.杜威攻防戰中，阿斯蘭卸下METEOR以潛入並破壞會使世界末日到來的武器GENESIS，而煌的METEOR則被拉烏.魯.克爾澤的ZGMF-X13A Providence Gundam擊毀（流星本身是對據點及對艦戰鬥用的裝備，並不適合纏鬥，而面對能輕易從四面八方攻擊的天帝鋼彈更是淪為活靶）。 另外，METEOR也是另一ZAFT機體——Verne 35A/MPFM Multipurpose Flight Module的基礎。
 
   -
     武裝名稱:
@@ -558,9 +541,7 @@ Providence Gundam擊毀（流星本身是對據點及對艦戰鬥用的裝備，
 \*;
 
   -
-    全名“核爆诱导型伽马射线发射器”（**G**amma **E**mission by **N**uclear **E**xplosion
-    **S**timulate **I**nducing
-    **S**ystem＝GENESIS）。使用核能的伽马射线激光炮。Z.A.F.T.的最终武器。装备了幻象化粒子和相转移装甲，凭借自身的能量供给使得装备的相转移装甲（防御实弹专用）能够抵挡永恒号和草薙号两舰光束主炮和阳电子破城炮的轰击。
+    全名“核爆诱导型伽马射线发射器”（**G**amma **E**mission by **N**uclear **E**xplosion **S**timulate **I**nducing **S**ystem＝GENESIS）。使用核能的伽马射线激光炮。Z.A.F.T.的最终武器。装备了幻象化粒子和相转移装甲，凭借自身的能量供给使得装备的相转移装甲（防御实弹专用）能够抵挡永恒号和草薙号两舰光束主炮和阳电子破城炮的轰击。
     在雅金·杜威攻防戰終盤被阿斯蘭將正義鋼彈當成核彈從內部炸毀。
 
 :\*;
@@ -646,16 +627,13 @@ Providence Gundam擊毀（流星本身是對據點及對艦戰鬥用的裝備，
 
 ## 参考书籍
 
-  - 《機動戦士ガンダム 艦船&航空機 大全集》（《MOBILE SUIT GUNDAM SHIP & AEROSPACE PLANE
-    ENCYCLOPEDIA》）
+  - 《機動戦士ガンダム 艦船&航空機 大全集》（《MOBILE SUIT GUNDAM SHIP & AEROSPACE PLANE ENCYCLOPEDIA》）
 
 ## 外部链接
 
   - [高达中文机体资料库](https://web.archive.org/web/20150518074701/http://985.so/j7Ah)
 
-[Category:C.E.兵器](https://zh.wikipedia.org/wiki/Category:C.E.兵器 "wikilink")
-[Category:虛構軍用車輛](https://zh.wikipedia.org/wiki/Category:虛構軍用車輛 "wikilink")
-[Category:虛構軍艦](https://zh.wikipedia.org/wiki/Category:虛構軍艦 "wikilink")
+[Category:C.E.兵器](https://zh.wikipedia.org/wiki/Category:C.E.兵器 "wikilink") [Category:虛構軍用車輛](https://zh.wikipedia.org/wiki/Category:虛構軍用車輛 "wikilink") [Category:虛構軍艦](https://zh.wikipedia.org/wiki/Category:虛構軍艦 "wikilink")
 
 1.
 2.  《機動戦士ガンダムSEED DESTINY オフィシャルファイル メカ02》第20页

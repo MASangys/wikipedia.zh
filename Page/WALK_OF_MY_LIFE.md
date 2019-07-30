@@ -1,25 +1,14 @@
-《WALK OF MY
-LIFE》（倖感軌跡）為[日本女歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2015年3月18日發行的第12張原創專輯。
+《WALK OF MY LIFE》（倖感軌跡）為[日本](../Page/日本.md "wikilink")女歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年3月18日發行的第12張原創專輯。
 
 ## 簡介
 
-  - 與上張原創專輯《[Bon
-    Voyage](../Page/Bon_Voyage_\(倖田來未專輯\).md "wikilink")》相隔約1年，收錄了單曲《[HOTEL](../Page/HOTEL_\(倖田來未單曲\).md "wikilink")》中的中板舞曲〈HOTEL〉及HIP
-    HOP/R\&B風格的〈MONEY IN MY BAG〉兩曲以及首張數位單曲有著抒情舞曲風的《[Dance In The
-    Rain](../Page/Dance_In_The_Rain.md "wikilink")》再加上新錄的13首新曲，共16首歌\[1\]。
-  - 相較於以航海為主題的標題「Bon Voyage」以及絢麗風格的「JAPONESQUE」，這次特別以樸實的標題「WALK OF MY
-    LIFE」來呈現倖田常向歌迷傳達的訊息。
+  - 與上張原創專輯《[Bon Voyage](../Page/Bon_Voyage_\(倖田來未專輯\).md "wikilink")》相隔約1年，收錄了單曲《[HOTEL](../Page/HOTEL_\(倖田來未單曲\).md "wikilink")》中的中板舞曲〈HOTEL〉及HIP HOP/R\&B風格的〈MONEY IN MY BAG〉兩曲以及首張數位單曲有著抒情舞曲風的《[Dance In The Rain](../Page/Dance_In_The_Rain.md "wikilink")》再加上新錄的13首新曲，共16首歌\[1\]。
+  - 相較於以航海為主題的標題「Bon Voyage」以及絢麗風格的「JAPONESQUE」，這次特別以樸實的標題「WALK OF MY LIFE」來呈現倖田常向歌迷傳達的訊息。
   - 本次專輯以「倖田超越倖田」為主題，不僅紀念15週年更突顯出倖田於專輯中以最前端的音樂風格，更加進化。倖田更加表示這張專輯體現了「**不管別人是怎麼想，自己要怎麼活才重要**」這是專輯所想傳達的意義\[2\]。
-  - 本次粉絲俱樂部限定盤特別收錄於2014年12月6日舉辦的《[Koda Kumi 15th Anniversary First Class
-    2nd LIMITED
-    LIVE](../Page/Koda_Kumi_15th_Anniversary_First_Class_2nd_LIMITED_LIVE.md "wikilink")》的LIVE影像及幕後花絮\[3\]。
-  - 本次15周年紀念巡迴演唱會於4月4日至6月28日於日本全國8地點計12場次演出，由[賓士特別贊助](https://zh.wikipedia.org/wiki/賓士 "wikilink")，以本專輯為標題展開[體育館等級的全國](https://zh.wikipedia.org/wiki/體育館 "wikilink")[巡迴演唱會](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")「[Koda
-    Kumi 15th Anniversary Live Tour 2015 ～WALK OF MY LIFE～ supported by
-    Mercedes-Benz」](https://zh.wikipedia.org/wiki/Koda_Kumi_15th_Anniversary_Live_Tour_2015_～WALK_OF_MY_LIFE～_supported_by_Mercedes-Benz」 "wikilink")。
-  - 標題曲〈WALK OF MY
-    LIFE〉於3月4日在[iTunes上](https://zh.wikipedia.org/wiki/iTunes "wikilink")110國先行一曲販售\[4\]。
-  - 倖田來未的新曲〈WALK OF MY LIFE〉、〈Like
-    it〉LIVE版本3月4日於日本國內最大手機影音網站「BeeTV」的音樂節目〈うたあそび〉開始提供付費觀賞，且最多提供5個觀賞角度，日本Android手機用戶可以透過APP觀賞\[5\]。
+  - 本次粉絲俱樂部限定盤特別收錄於2014年12月6日舉辦的《[Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE](../Page/Koda_Kumi_15th_Anniversary_First_Class_2nd_LIMITED_LIVE.md "wikilink")》的LIVE影像及幕後花絮\[3\]。
+  - 本次15周年紀念巡迴演唱會於4月4日至6月28日於日本全國8地點計12場次演出，由[賓士特別贊助](https://zh.wikipedia.org/wiki/賓士 "wikilink")，以本專輯為標題展開[體育館等級的全國](https://zh.wikipedia.org/wiki/體育館 "wikilink")[巡迴演唱會](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")「[Koda Kumi 15th Anniversary Live Tour 2015 ～WALK OF MY LIFE～ supported by Mercedes-Benz」](https://zh.wikipedia.org/wiki/Koda_Kumi_15th_Anniversary_Live_Tour_2015_～WALK_OF_MY_LIFE～_supported_by_Mercedes-Benz」 "wikilink")。
+  - 標題曲〈WALK OF MY LIFE〉於3月4日在[iTunes上](https://zh.wikipedia.org/wiki/iTunes "wikilink")110國先行一曲販售\[4\]。
+  - 倖田來未的新曲〈WALK OF MY LIFE〉、〈Like it〉LIVE版本3月4日於日本國內最大手機影音網站「BeeTV」的音樂節目〈うたあそび〉開始提供付費觀賞，且最多提供5個觀賞角度，日本Android手機用戶可以透過APP觀賞\[5\]。
   - 本專輯於發行當周以3.9萬的銷量成績奪下[公信榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，也是倖田來未第十張冠軍專輯。
 
 ## 發行版本
@@ -49,8 +38,7 @@ LIFE》（倖感軌跡）為[日本女歌手](../Page/日本.md "wikilink")[倖�
 
   - 初回豪華紙盒包裝
   - CD全16曲
-  - DVD收錄《[Koda Kumi 15th Anniversary First Class 2nd LIMITED
-    LIVE](../Page/Koda_Kumi_15th_Anniversary_First_Class_2nd_LIMITED_LIVE.md "wikilink")》的LIVE及花絮
+  - DVD收錄《[Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE](../Page/Koda_Kumi_15th_Anniversary_First_Class_2nd_LIMITED_LIVE.md "wikilink")》的LIVE及花絮
 
 ### MUSIC CARD
 
@@ -62,8 +50,7 @@ LIFE》（倖感軌跡）為[日本女歌手](../Page/日本.md "wikilink")[倖�
 
 1.  **Introduction \~WALK OF MY LIFE\~**
       -
-        作詞・曲：Kumi Koda/Fredrik"Fredro"Odesjo/Anesha Birchett/Antea
-        Shelton/Piox Pirovano
+        作詞・曲：Kumi Koda/Fredrik"Fredro"Odesjo/Anesha Birchett/Antea Shelton/Piox Pirovano
 2.  **Dance In The Rain**
       -
         作詞：Kumi Koda / 作曲：her0ism/Ziggy/Melanie Fontana
@@ -72,12 +59,10 @@ LIFE》（倖感軌跡）為[日本女歌手](../Page/日本.md "wikilink")[倖�
         作詞・曲：Kumi Koda/Phil Anquetil/Bhavik Pattani/Christina Parie
 4.  '''Mercedes '''
       -
-        作詞・曲：Kumi Koda/Maegan Cottone/Rick Parkhouse/George Tizzard/Jon
-        Maguire
+        作詞・曲：Kumi Koda/Maegan Cottone/Rick Parkhouse/George Tizzard/Jon Maguire
 5.  '''Like It '''
       -
-        作詞・曲：Kumi Koda/Jared Cotte/Negin
-        Djafari/Fredrik"Fredro"Odesjo/Piox Pirovano
+        作詞・曲：Kumi Koda/Jared Cotte/Negin Djafari/Fredrik"Fredro"Odesjo/Piox Pirovano
 6.  '''House Party '''
       -
         作詞・曲：Kumi Koda/Will Simms/Michelle Escoferry/Phil Anquetil
@@ -92,30 +77,25 @@ LIFE》（倖感軌跡）為[日本女歌手](../Page/日本.md "wikilink")[倖�
         作詞・曲：Kumi Koda/Matthew Tishler/Andrew Underbe
 10. '''You can keep up with me '''
       -
-        作詞・曲：Kaoru Kami/Sabrina Louise Bernstein/Paolo Prudencio pka
-        Shirazi/Fredrik“Fredro”Odesjo/Piox Pirovano
+        作詞・曲：Kaoru Kami/Sabrina Louise Bernstein/Paolo Prudencio pka Shirazi/Fredrik“Fredro”Odesjo/Piox Pirovano
 11. **MONEY IN MY BAG**
       -
-        作詞・曲：Koda Kumi/Bardur Haberg/Hayden Bell/Sarah Lundback
-        Bell/Ylva Dimberg
+        作詞・曲：Koda Kumi/Bardur Haberg/Hayden Bell/Sarah Lundback Bell/Ylva Dimberg
 12. '''PIECE IN THE PUZZLE '''
       -
-        作詞・曲：Kumi Koda/Maegan Cottone/Bhavik Pattani/William Henry/Rick
-        Wilde
+        作詞・曲：Kumi Koda/Maegan Cottone/Bhavik Pattani/William Henry/Rick Wilde
 13. '''Fake Tongue '''
       -
         作詞・曲：Kumi Koda/Emma Stakes/Steve Ware/Karl Addy
 14. '''Sometimes Dreams Come True '''
       -
-        作詞・曲：Toby Gad/[Jessie
-        J](https://zh.wikipedia.org/wiki/Jessie_J "wikilink")/Kumi Koda
+        作詞・曲：Toby Gad/[Jessie J](https://zh.wikipedia.org/wiki/Jessie_J "wikilink")/Kumi Koda
 15. '''LIFE so GOOD\!\! '''
       -
         作詞：Kumi Koda / 作曲：Hi-yunk
 16. **WALK OF MY LIFE**
       -
-        作詞：Kumi Koda / 作曲：Nick Carbone/Anthony Natoli/John Secolo/Peter
-        Zizzo
+        作詞：Kumi Koda / 作曲：Nick Carbone/Anthony Natoli/John Secolo/Peter Zizzo
 
 ### MUSIC CARD
 
@@ -143,8 +123,7 @@ LIFE》（倖感軌跡）為[日本女歌手](../Page/日本.md "wikilink")[倖�
 
 ### DVD【粉絲俱樂部限定盤】
 
-  - 收錄2014.12.6 「Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE
-    at STUDIO COAST」
+  - 收錄2014.12.6 「Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE at STUDIO COAST」
 
 <!-- end list -->
 
@@ -215,12 +194,11 @@ LIFE》（倖感軌跡）為[日本女歌手](../Page/日本.md "wikilink")[倖�
 
   - Documentary Movie
 
-Behind The Scene of Koda Kumi 15th Anniversary First Class 2nd LIMITED
-LIVE
+Behind The Scene of Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE
 
 ## 銷售榜單
 
-  - 榜單來自[Oricon公信榜專輯榜](../Page/Oricon公信榜.md "wikilink")
+  - 榜單來自[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯榜
 
 | 發行日期       | 榜單 | 最高名次   | 銷量     | 銷量總計   | 在榜周數 |
 | ---------- | -- | ------ | ------ | ------ | ---- |
@@ -235,8 +213,7 @@ LIVE
 
 ## 外部連結
 
-[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink")
-[分類:2015年音樂專輯](https://zh.wikipedia.org/wiki/分類:2015年音樂專輯 "wikilink")
+[分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink") [分類:2015年音樂專輯](https://zh.wikipedia.org/wiki/分類:2015年音樂專輯 "wikilink")
 
 [Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink")
 

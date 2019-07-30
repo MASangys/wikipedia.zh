@@ -1,14 +1,8 @@
-《**The Rolling Girls**》（），是日本動畫公司[WIT
-STUDIO製作的原創](../Page/WIT_STUDIO.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2015年1月播出，中文翻譯「旋轉少女」。
-2014年10月開始，在[Mag Garden旗下雜誌](../Page/Mag_Garden.md "wikilink")《月刊Comic
-Garden》與網絡雜誌《[月刊Comic
-Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")》上連載改編漫畫。
+《**The Rolling Girls**》（），是日本動畫公司[WIT STUDIO製作的原創](../Page/WIT_STUDIO.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2015年1月播出，中文翻譯「旋轉少女」。 2014年10月開始，在[Mag Garden旗下雜誌](../Page/Mag_Garden.md "wikilink")《月刊Comic Garden》與網絡雜誌《[月刊Comic Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")》上連載改編漫畫。
 
 ## 故事簡介
 
-日本发生“大东京大战” (Great Tokyo
-War)结束十年以后，大多数的政治人物与经济大亨神秘消失。因此，日本的每一個都道府縣都分別獨立，成為独立城邦。各地都由能力者（Mosa或MOZA）組成的「自警團」率領著，互相竞争。“大东京大战”
-中战斗的治安会能力者们都被聘请为 “首领” ，而支持及维护各自县和平的人物，都被称为“跟随者”（MOBU，等同英文的Mobs）。
+日本发生“大东京大战” (Great Tokyo War)结束十年以后，大多数的政治人物与经济大亨神秘消失。因此，日本的每一個都道府縣都分別獨立，成為独立城邦。各地都由能力者（Mosa或MOZA）組成的「自警團」率領著，互相竞争。“大东京大战” 中战斗的治安会能力者们都被聘请为 “首领” ，而支持及维护各自县和平的人物，都被称为“跟随者”（MOBU，等同英文的Mobs）。
 
 為了守護[所澤](../Page/所澤市.md "wikilink")，一次與[東村山自警團總長玖仁子在遊樂園的大戰](../Page/東村山市.md "wikilink")，使首领真茶未受到重伤，身上受贈的心形寶石也被大統領「收回」。身为真茶未總角之交的望未眼見於此，决定代替真茶未履行先前與日本各地委託者的承諾，骑摩托车环游日本；作為「代理平和請負人」、背負起守護和平的宿命，同時與其他結伴而行的女孩一起成长。
 
@@ -38,7 +32,7 @@ War)结束十年以后，大多数的政治人物与经济大亨神秘消失。�
 
   -
     來自東村山的熱血少女，東村山自警團「北多摩Dangers」的團員。聽到真茶未與望未的相互告白一時激動想揍望未，卻粗心揍到旁邊的鱷。
-    後被「北多摩Dangers」開除，而與望未一起旅行。由於沒有[駕照](https://zh.wikipedia.org/wiki/駕照 "wikilink")，所以坐在望未機車的[邊車中](../Page/邊車.md "wikilink")，也成為唯一一個沒騎機車的人。
+    後被「北多摩Dangers」開除，而與望未一起旅行。由於沒有[駕照](https://zh.wikipedia.org/wiki/駕照 "wikilink")，所以坐在望未機車的[邊車](../Page/邊車.md "wikilink")中，也成為唯一一個沒騎機車的人。
     渴望變強。得知月光石可以激發人類潛能後，要求小真多餘的部份給自己。
     據本人透露自己「能力」
 
@@ -231,9 +225,8 @@ War)结束十年以后，大多数的政治人物与经济大亨神秘消失。�
   - [所澤](https://zh.wikipedia.org/wiki/所澤 "wikilink")、[東村山](https://zh.wikipedia.org/wiki/東村山 "wikilink")：「**日吉町Propellers**」（所澤、另譯「日吉町推進部」）、「北[多摩Dangers](https://zh.wikipedia.org/wiki/多摩 "wikilink")」（東村山）
   - 東京：「雙塔騎士團」
   - 舊[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")[三重](https://zh.wikipedia.org/wiki/三重 "wikilink")：「愛知[天結](https://zh.wikipedia.org/wiki/天結 "wikilink")」、「三重Motors」
-  - 京都：「[鴨川Rockers](https://zh.wikipedia.org/wiki/鴨川 "wikilink")」、「[舞妓DosuDoSU](../Page/舞妓.md "wikilink")」
-  - [廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")：「名余竹Moon
-    Light」、「[石作Stones](https://zh.wikipedia.org/wiki/石作 "wikilink")」
+  - 京都：「[鴨川Rockers](https://zh.wikipedia.org/wiki/鴨川 "wikilink")」、「[舞妓](../Page/舞妓.md "wikilink")DosuDoSU」
+  - [廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")：「名余竹Moon Light」、「[石作Stones](https://zh.wikipedia.org/wiki/石作 "wikilink")」
   - [岡山](https://zh.wikipedia.org/wiki/岡山 "wikilink")：「岡山Demons」、「[美作Peach](https://zh.wikipedia.org/wiki/美作 "wikilink")」
 
 :;團長
@@ -258,17 +251,11 @@ War)结束十年以后，大多数的政治人物与经济大亨神秘消失。�
 
 ## 製作
 
-由製作過電視動畫《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》和《[鬼燈的冷徹](../Page/鬼燈的冷徹.md "wikilink")》的[WIT
-STUDIO擔任動畫製作](../Page/WIT_STUDIO.md "wikilink")，導演由曾負責《[銀之匙](https://zh.wikipedia.org/wiki/銀之匙 "wikilink")》第二期的出合小都美擔任，[劇本統籌則是由](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")《[戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")》的武藤泰之負責，曾參與《[TARI
-TARI](../Page/TARI_TARI.md "wikilink")》製作的tanu擔任角色原案，而北田勝彥則擔任[角色設定及](https://zh.wikipedia.org/wiki/角色設定 "wikilink")[總作畫導演](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")，這是北田繼2013年的《HAL》（）角色設定及總作畫導演後又一次參與WIT
-STUDIO製作的動畫。\[1\]
+由製作過電視動畫《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》和《[鬼燈的冷徹](../Page/鬼燈的冷徹.md "wikilink")》的[WIT STUDIO擔任動畫製作](../Page/WIT_STUDIO.md "wikilink")，導演由曾負責《[銀之匙](https://zh.wikipedia.org/wiki/銀之匙 "wikilink")》第二期的出合小都美擔任，[劇本統籌則是由](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")《[戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")》的武藤泰之負責，曾參與《[TARI TARI](../Page/TARI_TARI.md "wikilink")》製作的tanu擔任角色原案，而北田勝彥則擔任[角色設定及](https://zh.wikipedia.org/wiki/角色設定 "wikilink")[總作畫導演](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")，這是北田繼2013年的《HAL》（）角色設定及總作畫導演後又一次參與WIT STUDIO製作的動畫。\[1\]
 
 ## 主題曲
 
-除了STONES外，各曲目皆為[The Blue
-Hearts的翻唱歌曲](https://zh.wikipedia.org/wiki/The_Blue_Hearts "wikilink")，由THE
-ROLLING
-GIRLS（[小澤亞李](../Page/小澤亞李.md "wikilink")、[日高里菜](../Page/日高里菜.md "wikilink")、[種田梨沙](../Page/種田梨沙.md "wikilink")、[花守由美里](../Page/花守由美里.md "wikilink")）演唱。
+除了STONES外，各曲目皆為[The Blue Hearts的翻唱歌曲](https://zh.wikipedia.org/wiki/The_Blue_Hearts "wikilink")，由THE ROLLING GIRLS（[小澤亞李](../Page/小澤亞李.md "wikilink")、[日高里菜](../Page/日高里菜.md "wikilink")、[種田梨沙](../Page/種田梨沙.md "wikilink")、[花守由美里](../Page/花守由美里.md "wikilink")）演唱。
 
   - 片頭曲「」（第2話－第11話）
     作詞、作曲：甲本ヒロト，編曲：堤博明，主唱：THE ROLLING GIRLS
@@ -314,8 +301,7 @@ GIRLS（[小澤亞李](../Page/小澤亞李.md "wikilink")、[日高里菜](../P
 
 :;「STONES」（第8話）
 
-::
-作詞：關谷謙太郎，作曲：[橫山克](https://zh.wikipedia.org/wiki/橫山克 "wikilink")、堤博明，編曲：堤博明，主唱：
+:: 作詞：關谷謙太郎，作曲：[橫山克](https://zh.wikipedia.org/wiki/橫山克 "wikilink")、堤博明，編曲：堤博明，主唱：
 
 :;「」（第10話）
 
@@ -495,20 +481,13 @@ Kan Sinu、Kim Jung eun</p></td>
 
 ### 動畫
 
-2015年1月10日起於[每日放送](../Page/每日放送.md "wikilink")\[4\]\[5\]、[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[愛知電視台](../Page/愛知電視台.md "wikilink")、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")、[南日本放送等電視頻道播放](../Page/南日本放送.md "wikilink")。網路播放有[萬代頻道](../Page/萬代頻道.md "wikilink")、[NTT
-docomo Anime
-Store](https://zh.wikipedia.org/wiki/NTT_docomo_Anime_Store "wikilink")、、[Niconico頻道](../Page/Niconico頻道.md "wikilink")、。
+2015年1月10日起於[每日放送](../Page/每日放送.md "wikilink")\[4\]\[5\]、[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[愛知電視台](../Page/愛知電視台.md "wikilink")、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")、[南日本放送](../Page/南日本放送.md "wikilink")等電視頻道播放。網路播放有[萬代頻道](../Page/萬代頻道.md "wikilink")、[NTT docomo Anime Store](https://zh.wikipedia.org/wiki/NTT_docomo_Anime_Store "wikilink")、、[Niconico頻道](../Page/Niconico頻道.md "wikilink")、。
 
 收錄2集電視動畫的第1卷[Blu-ray和](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2015年3月18日發售。\[6\]
 
 ### 漫畫
 
-由梵辛作畫的[漫畫於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2014年10月4日開始連載於《[Mag
-Garden](../Page/Mag_Garden.md "wikilink")》旗下雜誌《月刊Comic
-Garden》，也在《[月刊Comic
-Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")》配信。\[7\]由羊箱作畫的[四格漫畫](../Page/四格漫畫.md "wikilink")《》於2014年10月開始連載於《Mag
-Garden》旗下雜誌《月刊Comic Garden》。\[8\]
+由梵辛作畫的[漫畫於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2014年10月4日開始連載於《[Mag Garden](../Page/Mag_Garden.md "wikilink")》旗下雜誌《月刊Comic Garden》，也在《[月刊Comic Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")》配信。\[7\]由羊箱作畫的[四格漫畫](../Page/四格漫畫.md "wikilink")《》於2014年10月開始連載於《Mag Garden》旗下雜誌《月刊Comic Garden》。\[8\]
 
 ## 參考資料
 
@@ -518,13 +497,7 @@ Garden》旗下雜誌《月刊Comic Garden》。\[8\]
 
   -
 
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:日本背景漫畫](https://zh.wikipedia.org/wiki/Category:日本背景漫畫 "wikilink")
-[Category:WIT_STUDIO](https://zh.wikipedia.org/wiki/Category:WIT_STUDIO "wikilink")
+[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:日本背景漫畫](https://zh.wikipedia.org/wiki/Category:日本背景漫畫 "wikilink") [Category:WIT_STUDIO](https://zh.wikipedia.org/wiki/Category:WIT_STUDIO "wikilink")
 
 1.
 2.

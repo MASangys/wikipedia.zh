@@ -2,9 +2,9 @@
 
 ## 連載情形
 
-1988年《[大雄的平行西遊記](../Page/大雄的平行西遊記.md "wikilink")》上映時，由於作者生病，所以只有[電影版而沒有連載漫畫版](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")，造成電影版與大長篇漫畫數量有1篇的落差。1992年《[大雄與雲之王國](../Page/大雄與雲之王國.md "wikilink")》連載後半，也因為作者生病，由[藤子·F·不二雄製作公司以簡單圖文交代劇情](../Page/藤子·F·不二雄製作公司.md "wikilink")，到1994年才另外補齊連載內容。
+1988年《[大雄的平行西遊記](../Page/大雄的平行西遊記.md "wikilink")》上映時，由於作者生病，所以只有[電影版而沒有連載漫畫版](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")，造成電影版與大長篇漫畫數量有1篇的落差。1992年《[大雄與雲之王國](../Page/大雄與雲之王國.md "wikilink")》連載後半，也因為作者生病，由[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")以簡單圖文交代劇情，到1994年才另外補齊連載內容。
 
-1996年[藤子·F·不二雄逝世時](../Page/藤子·F·不二雄.md "wikilink")，第17部大長篇《[大雄的發條都市冒險記](../Page/大雄的發條都市冒險記.md "wikilink")》尚未完成（只執筆到第22頁），因此該作品可算其遺著。後來由他的弟子[麥原伸太郎](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")、[岡田康則及](https://zh.wikipedia.org/wiki/岡田康則 "wikilink")[藤子Pro根據已有的草稿](../Page/藤子·F·不二雄製作公司.md "wikilink")、梗概與分鏡圖接續創作完成，隨後在沒有作者原稿的情況下又陸續循此模式，合計創作出8部大長篇漫畫及[電影版](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")，至此共有24部大長篇漫畫。
+1996年[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")逝世時，第17部大長篇《[大雄的發條都市冒險記](../Page/大雄的發條都市冒險記.md "wikilink")》尚未完成（只執筆到第22頁），因此該作品可算其遺著。後來由他的弟子[麥原伸太郎](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")、[岡田康則及](https://zh.wikipedia.org/wiki/岡田康則 "wikilink")[藤子Pro根據已有的草稿](../Page/藤子·F·不二雄製作公司.md "wikilink")、梗概與分鏡圖接續創作完成，隨後在沒有作者原稿的情況下又陸續循此模式，合計創作出8部大長篇漫畫及[電影版](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")，至此共有24部大長篇漫畫。
 
 ## 後續
 
@@ -12,7 +12,7 @@
 
 ## 日本以外出版
 
-中国大陆称之为《超长篇哆啦A梦》，由[吉林美术出版社代理出版](../Page/吉林美术出版社.md "wikilink")。另外，台灣[青文出版社曾在盜版時期發表過數部自製長篇漫畫](../Page/青文出版社.md "wikilink")，並以混在原著中的方式出版，大多出自漫畫家[劉明昆之手](../Page/劉明昆.md "wikilink")。目前因青文出版社已取得正式代理，自製大長篇均已絕版，其書名分別為：《[大雄微星大作戰](https://zh.wikipedia.org/wiki/大雄微星大作戰 "wikilink")》、《[超次元戰記](https://zh.wikipedia.org/wiki/超次元戰記 "wikilink")》、《[大雄精靈世界](https://zh.wikipedia.org/wiki/大雄精靈世界 "wikilink")》、《[大雄光之旅](https://zh.wikipedia.org/wiki/大雄光之旅 "wikilink")》、《[大雄模擬地球](https://zh.wikipedia.org/wiki/大雄模擬地球 "wikilink")》以及《[大雄夢冒險](https://zh.wikipedia.org/wiki/大雄夢冒險 "wikilink")》，外加一本《[大雄的平行西遊記](../Page/大雄的平行西遊記.md "wikilink")》的黑白漫畫版。
+中国大陆称之为《超长篇哆啦A梦》，由[吉林美术出版社](../Page/吉林美术出版社.md "wikilink")代理出版。另外，台灣[青文出版社](../Page/青文出版社.md "wikilink")曾在盜版時期發表過數部自製長篇漫畫，並以混在原著中的方式出版，大多出自漫畫家[劉明昆](../Page/劉明昆.md "wikilink")之手。目前因青文出版社已取得正式代理，自製大長篇均已絕版，其書名分別為：《[大雄微星大作戰](https://zh.wikipedia.org/wiki/大雄微星大作戰 "wikilink")》、《[超次元戰記](https://zh.wikipedia.org/wiki/超次元戰記 "wikilink")》、《[大雄精靈世界](https://zh.wikipedia.org/wiki/大雄精靈世界 "wikilink")》、《[大雄光之旅](https://zh.wikipedia.org/wiki/大雄光之旅 "wikilink")》、《[大雄模擬地球](https://zh.wikipedia.org/wiki/大雄模擬地球 "wikilink")》以及《[大雄夢冒險](https://zh.wikipedia.org/wiki/大雄夢冒險 "wikilink")》，外加一本《[大雄的平行西遊記](../Page/大雄的平行西遊記.md "wikilink")》的黑白漫畫版。
 
 ## 特色
 
@@ -58,5 +58,4 @@
 
 [Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink")
 
-1.  [電影先還是漫畫先? -
-    藤子逝世後叮噹製作模式解說](http://talk.doracity.com/viewtopic.php?f=5&t=15861#p127170)
+1.  [電影先還是漫畫先? - 藤子逝世後叮噹製作模式解說](http://talk.doracity.com/viewtopic.php?f=5&t=15861#p127170)

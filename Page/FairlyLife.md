@@ -1,14 +1,8 @@
-《**FairlyLife**》是日本[HOOK在](https://zh.wikipedia.org/wiki/HOOK "wikilink")2008年10月10日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2010年2月25日由[GN
-Software發售](../Page/GN_Software.md "wikilink")[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")。\[3\]另外在2009年1月23日和12月29日分別發售[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。這作和[Like
-Life一樣都是以](../Page/Like_Life.md "wikilink")[萌擬人化為題材](../Page/萌擬人化.md "wikilink")。
+《**FairlyLife**》是日本[HOOK在](https://zh.wikipedia.org/wiki/HOOK "wikilink")2008年10月10日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2010年2月25日由[GN Software發售](../Page/GN_Software.md "wikilink")[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")。\[3\]另外在2009年1月23日和12月29日分別發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。這作和[Like Life一樣都是以](../Page/Like_Life.md "wikilink")[萌擬人化](../Page/萌擬人化.md "wikilink")為題材。
 
 ## 系統
 
-遊戲開始到第7幕的共同劇情稱為「For You Mode」，第8幕以後進入各女主角的獨立路線，稱為「For Me
-Mode」。在完成任一女主角線路後，可在標題畫面「」進入番外篇「Extra
-Scenario」，可選擇各女主的特別的模式「Ultimate Status」。
+遊戲開始到第7幕的共同劇情稱為「For You Mode」，第8幕以後進入各女主角的獨立路線，稱為「For Me Mode」。在完成任一女主角線路後，可在標題畫面「」進入番外篇「Extra Scenario」，可選擇各女主的特別的模式「Ultimate Status」。
 
 ## 故事
 
@@ -94,8 +88,7 @@ Scenario」，可選擇各女主的特別的模式「Ultimate Status」。
 ## 漫畫
 
   -
-    作者是森崎くるみ，連載在角川書店的[月刊Comp
-    Ace](../Page/月刊Comp_Ace.md "wikilink")2008年11月號到2009年1月號中，共3話並未出版單行本。\[5\]
+    作者是森崎くるみ，連載在角川書店的[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")2008年11月號到2009年1月號中，共3話並未出版單行本。\[5\]
 
 ## 相關商品
 
@@ -166,29 +159,15 @@ Scenario」，可選擇各女主的特別的模式「Ultimate Status」。
 ## 外部連結
 
   - [HOOKSOFT](http://www.hook-net.jp/)(年齡限制)
-  - [FairlyLife MiracleDays](http://www.piacci.co.jp/fairlylife/)GN
-    Software
+  - [FairlyLife MiracleDays](http://www.piacci.co.jp/fairlylife/)GN Software
 
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
-1.  [FairlyLife
-    初回版](http://www.getchu.com/soft.phtml?id=530325)Getchu.com
+1.  [FairlyLife 初回版](http://www.getchu.com/soft.phtml?id=530325)Getchu.com
 2.  [Fairly Life](https://vndb.org/v1037)The Visual Novel Database
-3.  [フェアリーライフ
-    ミラクルデイズ](http://www.4gamer.net/games/104/G010439/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
+3.  [フェアリーライフ ミラクルデイズ](http://www.4gamer.net/games/104/G010439/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 4.  [LikeLife ライクライフ](http://erogetrailers.com/soft/5360)ErogeTrailers
 5.  [コンプエース11月号](http://www.lucky-ch.com/info/info_compace0811.html)らっきー☆ちゃんねる
-6.  [2008年美少女ゲームランキング
-    結果発表－総合部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_all.html)Getchu.com
-7.  [2008年美少女ゲームランキング
-    結果発表－グラフィック部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_cg.html)Getchu.com
-8.  [2008年美少女ゲームランキング
-    結果発表－キャラクター部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_chara.html)Getchu.com
+6.  [2008年美少女ゲームランキング 結果発表－総合部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_all.html)Getchu.com
+7.  [2008年美少女ゲームランキング 結果発表－グラフィック部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_cg.html)Getchu.com
+8.  [2008年美少女ゲームランキング 結果発表－キャラクター部門－](http://www.getchu.com/pc/2008_g_ranking/ranking_chara.html)Getchu.com

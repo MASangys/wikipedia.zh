@@ -1,4 +1,4 @@
-**TVnavi日劇年度大賞**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），由[日本](../Page/日本.md "wikilink")[產業經濟新聞社旗下的電視週刊雜誌](../Page/產業經濟新聞社.md "wikilink")《》所主辦，為一年一度並無專業評審的「觀眾投票」獎。2004年起為第一屆，參與對象為[NHK電視台及各家民間電視台所製播的連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")。
+**TVnavi日劇年度大賞**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），由[日本](../Page/日本.md "wikilink")[產業經濟新聞社](../Page/產業經濟新聞社.md "wikilink")旗下的電視週刊雜誌《》所主辦，為一年一度並無專業評審的「觀眾投票」獎。2004年起為第一屆，參與對象為[NHK電視台及各家民間電視台所製播的連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")。
 
 ## 獲獎名單
 
@@ -64,12 +64,10 @@
   - 最佳作品獎：《[魔王](../Page/魔王_\(日本電視劇\).md "wikilink")》
   - 最佳男主角獎：[大野智](../Page/大野智.md "wikilink")（魔王）
   - 最佳女主角獎：[宮崎葵](../Page/宮崎葵.md "wikilink")（[篤姬](../Page/篤姬_\(電視劇\).md "wikilink")）
-  - 最佳男配角獎：[瑛太](../Page/瑛太.md "wikilink")（[Last
-    Friends](https://zh.wikipedia.org/wiki/Last_Friends "wikilink")、篤姬）
+  - 最佳男配角獎：[瑛太](../Page/瑛太.md "wikilink")（[Last Friends](https://zh.wikipedia.org/wiki/Last_Friends "wikilink")、篤姬）
   - 最佳女配角獎：[上野樹里](../Page/上野樹里.md "wikilink")（Last Friends）
   - 新進男演員獎：[山田涼介](../Page/山田涼介.md "wikilink")（[1磅的福音](../Page/1磅的福音.md "wikilink")、[改造老師大作戰](../Page/改造老師大作戰.md "wikilink")）
-  - 新進女演員獎：[比嘉愛未](../Page/比嘉愛未.md "wikilink")（[Code
-    Blue](https://zh.wikipedia.org/wiki/Code_Blue救護直升機醫生 "wikilink")）
+  - 新進女演員獎：[比嘉愛未](../Page/比嘉愛未.md "wikilink")（[Code Blue](https://zh.wikipedia.org/wiki/Code_Blue救護直升機醫生 "wikilink")）
 
 <!-- end list -->
 
@@ -135,11 +133,9 @@
   - 最佳作品獎：《[A.I.人工智慧男友](https://zh.wikipedia.org/wiki/A.I.人工智慧男友 "wikilink")》
   - 最佳男主角獎：[木村拓哉](../Page/木村拓哉.md "wikilink")（[A.I.人工智慧男友](https://zh.wikipedia.org/wiki/A.I.人工智慧男友 "wikilink")）
   - 最佳女主角獎：[綾瀨遙](../Page/綾瀨遙.md "wikilink")（[八重之櫻](../Page/八重之櫻.md "wikilink")）
-  - 最佳男配角獎：[齋藤工](../Page/齋藤工.md "wikilink")（[Miss
-    PILOT](../Page/Miss_PILOT.md "wikilink")）
+  - 最佳男配角獎：[齋藤工](../Page/齋藤工.md "wikilink")（[Miss PILOT](../Page/Miss_PILOT.md "wikilink")）
   - 最佳女配角獎：[上戶彩](../Page/上戶彩.md "wikilink")（[半澤直樹](../Page/半澤直樹.md "wikilink")）
-  - 新進男演員獎：[藤井流星](../Page/藤井流星.md "wikilink")（[Miss
-    PILOT](../Page/Miss_PILOT.md "wikilink")）
+  - 新進男演員獎：[藤井流星](../Page/藤井流星.md "wikilink")（[Miss PILOT](../Page/Miss_PILOT.md "wikilink")）
   - 新進女演員獎：[黑木華](../Page/黑木華.md "wikilink")（[王牌大律師](https://zh.wikipedia.org/wiki/王牌大律師 "wikilink")2）
 
 <!-- end list -->
@@ -184,8 +180,7 @@
 
   - [官方網站](http://www.tvnaviweb.jp/index.html)
 
-[Category:日本電視獎項](https://zh.wikipedia.org/wiki/Category:日本電視獎項 "wikilink")
-[Category:TVnavi日劇年度大賞](https://zh.wikipedia.org/wiki/Category:TVnavi日劇年度大賞 "wikilink")
+[Category:日本電視獎項](https://zh.wikipedia.org/wiki/Category:日本電視獎項 "wikilink") [Category:TVnavi日劇年度大賞](https://zh.wikipedia.org/wiki/Category:TVnavi日劇年度大賞 "wikilink")
 
 1.  [大澤隆夫膺最佳男主角](http://orientaldaily.on.cc/cnt/entertainment/20100320/00288_012.html)
 2.  [「年度日劇大賞」名單](http://www.epochtimes.com/b5/12/4/18/n3568526.htm)

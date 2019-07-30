@@ -1,5 +1,4 @@
-[Airfoil_geometry.svg](https://zh.wikipedia.org/wiki/File:Airfoil_geometry.svg "fig:Airfoil_geometry.svg")
-**NACA翼型**是[美国国家航空咨询委员会](https://zh.wikipedia.org/wiki/美国国家航空咨询委员会 "wikilink")（NACA）开发的一系列[翼型](https://zh.wikipedia.org/wiki/翼型 "wikilink")。每个翼型的代号由“NACA”这四个字母与一串数字组成，将这串数字所描述的几何参数代入特定方程中即可得到翼型的精确形状。
+[Airfoil_geometry.svg](https://zh.wikipedia.org/wiki/File:Airfoil_geometry.svg "fig:Airfoil_geometry.svg") **NACA翼型**是[美国国家航空咨询委员会](https://zh.wikipedia.org/wiki/美国国家航空咨询委员会 "wikilink")（NACA）开发的一系列[翼型](https://zh.wikipedia.org/wiki/翼型 "wikilink")。每个翼型的代号由“NACA”这四个字母与一串数字组成，将这串数字所描述的几何参数代入特定方程中即可得到翼型的精确形状。
 
 ## 四位数翼型族
 
@@ -9,15 +8,13 @@ NACA四位数翼型的几何参数为：\[1\]
   - 第二位数字代表最大弯度距机翼[前缘的距离占弦长的十分之几](https://zh.wikipedia.org/wiki/前缘 "wikilink")。
   - 后两位数字代表机翼最大厚度占弦长的百分比。\[2\]
 
-例如，NACA
-2412翼型的最大弯度为弦长的2%，位于距前缘0.4弦长处，而其最大厚度为弦长的12%。四位数翼型默认最大厚度位于距前缘0.3弦长处。
+例如，NACA 2412翼型的最大弯度为弦长的2%，位于距前缘0.4弦长处，而其最大厚度为弦长的12%。四位数翼型默认最大厚度位于距前缘0.3弦长处。
 
 又如，NACA 0015翼型是对称翼型：00表示其没有弯度，15则表示该翼型的最大厚度为弦长的15%。
 
 ### 对称四位数翼型方程
 
-[NACA0015_a.png](https://zh.wikipedia.org/wiki/File:NACA0015_a.png "fig:NACA0015_a.png")
-对于对称的四位数翼型NACA 00xx，其中“xx”表示最大厚度占弦长的百分比。其形状方程为： \[3\]
+[NACA0015_a.png](https://zh.wikipedia.org/wiki/File:NACA0015_a.png "fig:NACA0015_a.png") 对于对称的四位数翼型NACA 00xx，其中“xx”表示最大厚度占弦长的百分比。其形状方程为： \[3\]
 
 \[y_t = 5tc\, \left[ 0.2969 \sqrt{\frac{x}{c}} + (-0.1260) \left(\frac{x}{c}\right) + (-0.3516) \left(\frac{x}{c}\right)^2 + 0.2843 \left(\frac{x}{c}\right)^3 + (-0.1015) \left( \frac{x}{c} \right)^4 \right],\]\[4\]\[5\]
 
@@ -38,8 +35,7 @@ NACA四位数翼型的几何参数为：\[1\]
 
 ### 有弯度四位数翼型方程
 
-[NACA_2412.png](https://zh.wikipedia.org/wiki/File:NACA_2412.png "fig:NACA_2412.png")
-生成非对称的NACA四位数翼型所使用的方程与00xx对称翼型的方程相同，只不过非对称翼型的中弧线是弯曲的。其中弧线方程为：\[6\]
+[NACA_2412.png](https://zh.wikipedia.org/wiki/File:NACA_2412.png "fig:NACA_2412.png") 生成非对称的NACA四位数翼型所使用的方程与00xx对称翼型的方程相同，只不过非对称翼型的中弧线是弯曲的。其中弧线方程为：\[6\]
 
 \[y_c = \left\{\begin{array}{ll}
 \displaystyle{m\, \frac{x  }{ p     ^2} \left( 2\, p\, - \frac{x}{c}   \right)}, & 0 \leq x \leq pc \\
@@ -78,8 +74,7 @@ NACA五位数翼型可以描述更为复杂的机翼形状：\[8\]
   - 第三位数字表示翼型是否为负弯度的。
   - 第四、五位数字表示最大厚度占弦长的百分比（与四位数翼型一致）
 
-例如，NACA
-23112翼型的设计升力系数为0.3（0.15\*2）、最大弯距位于15%弦长处（5\*3），其为负弯度翼型，而最大厚度为弦长的12%。
+例如，NACA 23112翼型的设计升力系数为0.3（0.15\*2）、最大弯距位于15%弦长处（5\*3），其为负弯度翼型，而最大厚度为弦长的12%。
 
 翼型的中弧线方程为\[9\]
 
@@ -90,30 +85,21 @@ NACA五位数翼型可以描述更为复杂的机翼形状：\[8\]
 
 ## 参考文献
 
-[Category:空气动力学](https://zh.wikipedia.org/wiki/Category:空气动力学 "wikilink")
-[Category:机翼](https://zh.wikipedia.org/wiki/Category:机翼 "wikilink")
+[Category:空气动力学](https://zh.wikipedia.org/wiki/Category:空气动力学 "wikilink") [Category:机翼](https://zh.wikipedia.org/wiki/Category:机翼 "wikilink")
 
-1.  E.N. Jacobs, K.E. Ward, & R.M. Pinkerton. [NACA Report No. 460, "The
-    characteristics of 78 related airfoil sections from tests in the
-    variable-density wind
-    tunnel"](http://hdl.handle.net/2060/19930091108). NACA, 1933.
+1.  E.N. Jacobs, K.E. Ward, & R.M. Pinkerton. [NACA Report No. 460, "The characteristics of 78 related airfoil sections from tests in the variable-density wind tunnel"](http://hdl.handle.net/2060/19930091108). NACA, 1933.
 
-2.  "Fundamentals of aerodynamics", John D. Anderson,Jr, third ed, chap
-    4
+2.  "Fundamentals of aerodynamics", John D. Anderson,Jr, third ed, chap 4
 
 3.
 
-4.  [Aerospaceweb.org | Ask Us - NACA Airfoil
-    Series](http://www.aerospaceweb.org/question/airfoils/q0041.shtml)
+4.  [Aerospaceweb.org | Ask Us - NACA Airfoil Series](http://www.aerospaceweb.org/question/airfoils/q0041.shtml)
 
 5.  <http://www.fges.demon.co.uk/cfd/naca.html#07>
 
 6.
 7.
 
-8.  E. N. Jacobs & R. M. Pinkerton 1936 Test in the variable-density
-    wind tunnel of related airfoils having the maximum camber unusually
-    far forward, [NACA Report
-    No. 537](http://hdl.handle.net/2060/19930091610).
+8.  E. N. Jacobs & R. M. Pinkerton 1936 Test in the variable-density wind tunnel of related airfoils having the maximum camber unusually far forward, [NACA Report No. 537](http://hdl.handle.net/2060/19930091610).
 
 9.

@@ -1,5 +1,4 @@
-**5urprise**，韓國首個演員組合。由[唯一](https://zh.wikipedia.org/wiki/唯一_\(Surprise\) "wikilink")、[徐康俊](../Page/徐康俊.md "wikilink")、[孔明](../Page/孔明_\(藝人\).md "wikilink")、[姜泰伍](../Page/姜泰伍.md "wikilink")、[李太奐五名成員組成](https://zh.wikipedia.org/wiki/李太奐 "wikilink")。2013年9月2日出道作品為網絡電視劇《放學後福不福》，以團體戲劇正式出道。2014年11月18日，組合發行了首張迷你專輯《From
-My Heart》以團體歌手正式出道。
+**5urprise**，韓國首個演員組合。由[唯一](https://zh.wikipedia.org/wiki/唯一_\(Surprise\) "wikilink")、[徐康俊](../Page/徐康俊.md "wikilink")、[孔明](../Page/孔明_\(藝人\).md "wikilink")、[姜泰伍](../Page/姜泰伍.md "wikilink")、[李太奐五名成員組成](https://zh.wikipedia.org/wiki/李太奐 "wikilink")。2013年9月2日出道作品為網絡電視劇《放學後福不福》，以團體戲劇正式出道。2014年11月18日，組合發行了首張迷你專輯《From My Heart》以團體歌手正式出道。
 
 ## 成員資料
 
@@ -383,7 +382,7 @@ My Heart》以團體歌手正式出道。
 </tr>
 <tr class="even">
 <td><p>JTBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Melo體質" title="wikilink">Melo體質</a></p></td>
+<td><p><a href="../Page/Melo體質.md" title="wikilink">Melo體質</a></p></td>
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td><p>秋宰勳</p></td>
 <td></td>
@@ -580,8 +579,7 @@ My Heart》以團體歌手正式出道。
 ### 電視原聲帶
 
   - Hey U Come On（2014年8月26日，放学後福不福電視原聲帶）
-  - Fill You, Erase You（ Feat. 5urprise，2016年3月18日，奶酪陷阱原聲帶Special
-    Edition）
+  - Fill You, Erase You（ Feat. 5urprise，2016年3月18日，奶酪陷阱原聲帶Special Edition）
 
 ## 演唱會
 
@@ -643,10 +641,6 @@ My Heart》以團體歌手正式出道。
   -
   -
 
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [繼徐康俊及李泰煥，這次換孔明現小螢幕啦～](http://www.vlovekpop.com/20160425-21-gong/)
-    vlovekpop
+1.  [繼徐康俊及李泰煥，這次換孔明現小螢幕啦～](http://www.vlovekpop.com/20160425-21-gong/) vlovekpop

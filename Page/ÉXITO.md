@@ -1,6 +1,4 @@
-《**ÉXITO**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN
-TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")5枚迷你韓語專輯，於2014年9月15日發行，主打歌曲為《不容易》（）\[1\]，其後在同年11月10日發行重新包裝版專輯《20's
-LOVE TWO ÉXITO》，主打歌則為《我們沒有問題》（）\[2\]。
+《**ÉXITO**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")5枚迷你韓語專輯，於2014年9月15日發行，主打歌曲為《不容易》（）\[1\]，其後在同年11月10日發行重新包裝版專輯《20's LOVE TWO ÉXITO》，主打歌則為《我們沒有問題》（）\[2\]。
 
 ## 曲目
 
@@ -174,10 +172,7 @@ LOVE TWO ÉXITO》，主打歌則為《我們沒有問題》（）\[2\]。
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:TEEN_TOP音樂專輯](https://zh.wikipedia.org/wiki/Category:TEEN_TOP音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:TEEN_TOP音樂專輯](https://zh.wikipedia.org/wiki/Category:TEEN_TOP音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

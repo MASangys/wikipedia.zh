@@ -1,5 +1,4 @@
-**TOTO株式会社**（，[OTC
-Pink](../Page/美國場外交易集團.md "wikilink")：TOTDY），是一家位於日本[北九州市的大型衛浴設備製造商](../Page/北九州市.md "wikilink")，由大仓和亲等人创立于1917年。该公司最初名为**东洋陶器株式会社**，随后更名为**东陶机器株式会社**\[1\]，后直接改用TOTO作为公司名称至今。不过一些大中华地区的分公司仍使用“东陶”汉字作为名称。
+**TOTO株式会社**（，[OTC Pink](../Page/美國場外交易集團.md "wikilink")：TOTDY），是一家位於日本[北九州市](../Page/北九州市.md "wikilink")的大型衛浴設備製造商，由大仓和亲等人创立于1917年。该公司最初名为**东洋陶器株式会社**，随后更名为**东陶机器株式会社**\[1\]，后直接改用TOTO作为公司名称至今。不过一些大中华地区的分公司仍使用“东陶”汉字作为名称。
 
 ## 概述
 
@@ -11,26 +10,23 @@ TOTO连续两年成为日本消费者口碑最好的企业。\[5\]2014年，TOTO
 
 [1912年](https://zh.wikipedia.org/wiki/1912年夏季奥林匹克运动会 "wikilink")，大仓和亲建立了一个专门研发卫生陶瓷的实验室。在当时，卫浴陶瓷在美国、欧洲十分普遍，日本却还在使用木制马桶。
 
-1917年，大仓在[北九州市](../Page/北九州市.md "wikilink")[小仓创立了东洋陶器株式会社并开始制造卫生陶器](../Page/小倉市.md "wikilink")。
-1923年的[关东大地震给](https://zh.wikipedia.org/wiki/关东大地震 "wikilink")[东京带来了灾难性的强烈破坏](../Page/东京.md "wikilink")。灾后重建中，排水系统的大规模建造，使卫浴设施的需求量急剧上升。
+1917年，大仓在[北九州市](../Page/北九州市.md "wikilink")[小仓创立了东洋陶器株式会社并开始制造卫生陶器](../Page/小倉市.md "wikilink")。 1923年的[关东大地震给](https://zh.wikipedia.org/wiki/关东大地震 "wikilink")[东京](../Page/东京.md "wikilink")带来了灾难性的强烈破坏。灾后重建中，排水系统的大规模建造，使卫浴设施的需求量急剧上升。
 
 1937年建立了茅ヶ崎工场。[第二次世界大战后](https://zh.wikipedia.org/wiki/第二次世界大战对日战争胜利纪念日 "wikilink")，开始生产制造金属配件、[水龙头和陶瓷产品](https://zh.wikipedia.org/wiki/水龙头 "wikilink")。
 
 1962年建立了滋贺工厂。1967年、1968年分别建设了小仓第二工场和中津工场，同年开始发售洗面化妆台以及单曲混合栓产品。
 
-1969年，商标由「Toyotoki」变为「TOTO」。1977年，TOTO第一家海外合资子公司“P.T. Surya TOTO
-Indonesia”在[印度尼西亚成立](../Page/印度尼西亚.md "wikilink")。
+1969年，商标由「Toyotoki」变为「TOTO」。1977年，TOTO第一家海外合资子公司“P.T. Surya TOTO Indonesia”在[印度尼西亚](../Page/印度尼西亚.md "wikilink")成立。
 
 1980年，TOTO推出了颠覆性的[卫洗丽系列](https://zh.wikipedia.org/wiki/卫洗丽 "wikilink")。1981年，TOTO开始开发并推出高端厨房用品。
 
-1990年开始，TOTO开始在[美国](../Page/美国.md "wikilink")、[印度尼西亚](../Page/印度尼西亚.md "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")、[朝鲜](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")、[泰国以及](../Page/泰国.md "wikilink")[香港等地开展贸易](../Page/香港.md "wikilink")。
+1990年开始，TOTO开始在[美国](../Page/美国.md "wikilink")、[印度尼西亚](../Page/印度尼西亚.md "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")、[朝鲜](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")、[泰国](../Page/泰国.md "wikilink")以及[香港](../Page/香港.md "wikilink")等地开展贸易。
 
 1991年，建立了滋贺第二工厂。1992年建立了小仓第三工场、中津第二工场。
 
-1994年，TOTO开始在[中国大陆开展贸易](../Page/中国大陆.md "wikilink")。1995年，东陶（中国）有限公司成立。
+1994年，TOTO开始在[中国大陆](../Page/中国大陆.md "wikilink")开展贸易。1995年，东陶（中国）有限公司成立。
 
-2003年，TOTO通用设计研究中心落成。2005年，“TOTO水环境基金”设立。2007年，更名为TOTO株式会社。2014年，「TOTO
-グローバル環境ビジョン」（TOTO全球环境理想）发表。\[7\]\[8\]
+2003年，TOTO通用设计研究中心落成。2005年，“TOTO水环境基金”设立。2007年，更名为TOTO株式会社。2014年，「TOTO グローバル環境ビジョン」（TOTO全球环境理想）发表。\[7\]\[8\]
 
 ## 技术
 
@@ -65,17 +61,13 @@ Indonesia”在[印度尼西亚成立](../Page/印度尼西亚.md "wikilink")。
 
 TOTO在日本市场占有率第一。\[14\]
 
-TOTO已经进入以下国家或地区的市场并设立有子公司：
-[美国](../Page/美国.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")、[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[印度尼西亚](../Page/印度尼西亚.md "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")
-[印度](../Page/印度.md "wikilink")
-[德国](../Page/德国.md "wikilink")、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")。\[15\]
+TOTO已经进入以下国家或地区的市场并设立有子公司： [美国](../Page/美国.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")、[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[印度尼西亚](../Page/印度尼西亚.md "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink") [印度](../Page/印度.md "wikilink") [德国](../Page/德国.md "wikilink")、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")。\[15\]
 
 ## 其他
 
 ### TOTO在中国
 
-中国是TOTO的主要市场之一。\[16\]\[17\]1994年，TOTO在中国成立了第一家合资公司——北京东陶有限公司，同年随后又设立了南京东陶有限公司、东陶机器（大连）有限公司（现东陶（大连）有限公司）。1995年，所有合资公司合并为东陶机器（北京）有限公司。总管公司东陶机器（中国）有限公司（现东陶（中国）有限公司）成立。1997年，合资公司东陶机器（上海）有限公司（现东陶（上海）有限公司）成立。2001年，在上海市设立了东陶东华有限公司。2004年，设立了东陶机器（广州）有限公司。2005年在中国设立了VORETO
-PLUMBING TECHNOLOGY CO.,LTD。\[18\]2014年，设立了东陶（福建）有限公司\[19\]\[20\]。
+中国是TOTO的主要市场之一。\[16\]\[17\]1994年，TOTO在中国成立了第一家合资公司——北京东陶有限公司，同年随后又设立了南京东陶有限公司、东陶机器（大连）有限公司（现东陶（大连）有限公司）。1995年，所有合资公司合并为东陶机器（北京）有限公司。总管公司东陶机器（中国）有限公司（现东陶（中国）有限公司）成立。1997年，合资公司东陶机器（上海）有限公司（现东陶（上海）有限公司）成立。2001年，在上海市设立了东陶东华有限公司。2004年，设立了东陶机器（广州）有限公司。2005年在中国设立了VORETO PLUMBING TECHNOLOGY CO.,LTD。\[18\]2014年，设立了东陶（福建）有限公司\[19\]\[20\]。
 
   - TOTO上海工厂罢工事件
 
@@ -106,10 +98,7 @@ PLUMBING TECHNOLOGY CO.,LTD。\[18\]2014年，设立了东陶（福建）有限�
 
   - 《北京东陶的陶瓷原料应用概况》，作者：徐熙武\[《陶瓷》2002年 第4期 30-33页\]
 
-[Category:1917年成立的公司](https://zh.wikipedia.org/wiki/Category:1917年成立的公司 "wikilink")
-[Category:日本公司](https://zh.wikipedia.org/wiki/Category:日本公司 "wikilink")
-[Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink")
-[Category:小倉北區](https://zh.wikipedia.org/wiki/Category:小倉北區 "wikilink")
+[Category:1917年成立的公司](https://zh.wikipedia.org/wiki/Category:1917年成立的公司 "wikilink") [Category:日本公司](https://zh.wikipedia.org/wiki/Category:日本公司 "wikilink") [Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink") [Category:小倉北區](https://zh.wikipedia.org/wiki/Category:小倉北區 "wikilink")
 
 1.
 

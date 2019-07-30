@@ -1,12 +1,4 @@
-**HTC One
-M9**是[台湾智慧型手機公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2015年所發表的新一代[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，屬於[HTC
-One
-系列中的高階旗艦機型](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，運行較新的[Android
-7.0操作系统](../Page/Android_Nougat.md "wikilink")，競爭對手為[Samsung Galaxy
-S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")、[LG
-G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[Sony Xperia
-Z3+](../Page/Sony_Xperia_Z3+.md "wikilink")、[Huawei
-P8](https://zh.wikipedia.org/wiki/Huawei_P8 "wikilink")。\[1\]
+**HTC One M9**是[台湾智慧型手機公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2015年所發表的新一代[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，屬於[HTC One 系列中的高階旗艦機型](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，運行較新的[Android 7.0操作系统](../Page/Android_Nougat.md "wikilink")，競爭對手為[Samsung Galaxy S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")、[LG G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[Sony Xperia Z3+](../Page/Sony_Xperia_Z3+.md "wikilink")、[Huawei P8](https://zh.wikipedia.org/wiki/Huawei_P8 "wikilink")。\[1\]
 
 ## 簡介
 
@@ -17,8 +9,7 @@ P8](https://zh.wikipedia.org/wiki/Huawei_P8 "wikilink")。\[1\]
   - 本次\[2\]主打全金屬機身（M7約為70%、M8約90%），過去機種的的前喇叭飾板為金屬風格貼片，本次改由金屬框製成。
   - 相機由先前的雙鏡頭改為單鏡頭，也將400萬像素的UltraPixel移至前鏡頭，主鏡頭換成東芝的2000萬畫素感光元件。
   - 為提升外放音效，兩個喇叭從過去各放一個單體提升到兩個單體，且略增大喇叭孔來降低失真。
-  - HTC新SENSE
-    7加入更多個人化的應用，可以依據地點推薦餐廳、依據工作或上班地點自動更換所需APP、自動更換桌布圖片來形成主題等\[3\]。
+  - HTC新SENSE 7加入更多個人化的應用，可以依據地點推薦餐廳、依據工作或上班地點自動更換所需APP、自動更換桌布圖片來形成主題等\[3\]。
 
 <!-- end list -->
 
@@ -26,8 +17,7 @@ P8](https://zh.wikipedia.org/wiki/Huawei_P8 "wikilink")。\[1\]
 
 <!-- end list -->
 
-  - 中國大陸於2015年11月11日發表並開賣，台灣於同年11月16日發表，德國等地以「M9 Prime Camera
-    Edition」名稱推出。
+  - 中國大陸於2015年11月11日發表並開賣，台灣於同年11月16日發表，德國等地以「M9 Prime Camera Edition」名稱推出。
   - 主相機改為1300萬畫素加上光學防手震來提升拍照品質。
   - RAM從3 GB改為2 GB。
 
@@ -183,10 +173,7 @@ F2.0 大光圈、等效焦距 26.8mm 超廣角鏡頭、具備 HDR 功能、1080p
 
   - M9
 
-本次採用2000萬畫素的主鏡頭，為[東芝的感光元件T](https://zh.wikipedia.org/wiki/東芝 "wikilink")4KA7
-背照式、尺寸為 1/2.3 吋的感光元件，感光元件支援全新的動態自動曝光（dynamic auto
-exposure）以及動態伽瑪校正（automatic
-gamma），強調可提供生動的影像顏色，並會有畫質更銳利的影像。本次取消了M8的景深鏡頭。鏡頭為方形圓角的外觀，略突出於機背，本次特別使用**藍寶石玻璃鏡頭蓋**來對其保護。HTC也將相機能儲存**RAW檔**，讓相片後製更加方便\[9\]。
+本次採用2000萬畫素的主鏡頭，為[東芝的感光元件T](https://zh.wikipedia.org/wiki/東芝 "wikilink")4KA7 背照式、尺寸為 1/2.3 吋的感光元件，感光元件支援全新的動態自動曝光（dynamic auto exposure）以及動態伽瑪校正（automatic gamma），強調可提供生動的影像顏色，並會有畫質更銳利的影像。本次取消了M8的景深鏡頭。鏡頭為方形圓角的外觀，略突出於機背，本次特別使用**藍寶石玻璃鏡頭蓋**來對其保護。HTC也將相機能儲存**RAW檔**，讓相片後製更加方便\[9\]。
 
 UltraPixel則由主鏡頭移至前置鏡頭，採用26.8mm廣角，提供在低光源場所更好的自拍體驗。
 
@@ -196,22 +183,15 @@ UltraPixel則由主鏡頭移至前置鏡頭，採用26.8mm廣角，提供在低�
 
 ### 音效
 
-與前代的**BoomSound™**相比，本次HTC找來了[杜比實驗室合作推出了](../Page/杜比實驗室.md "wikilink")*'
-Dolby Audio™with HTC BoomSound™**，Dolby Audio
-音效技術還有**音樂**與**劇院*'二種模式，開啟劇院模式後，看電影甚至還會有
-5.1 虛擬環繞的效果。本次在上下兩個喇叭各加入兩個單體，且略增大喇叭孔，每個小孔的直徑比起 M8 增大 0.03
-mm，約可減少40%的失真程度。
+與前代的**BoomSound™**相比，本次HTC找來了[杜比實驗室](../Page/杜比實驗室.md "wikilink")合作推出了*' Dolby Audio™with HTC BoomSound™**，Dolby Audio 音效技術還有**音樂**與**劇院*'二種模式，開啟劇院模式後，看電影甚至還會有 5.1 虛擬環繞的效果。本次在上下兩個喇叭各加入兩個單體，且略增大喇叭孔，每個小孔的直徑比起 M8 增大 0.03 mm，約可減少40%的失真程度。
 
 ### 軟體
 
   - HTC SENSE 7\[10\]
 
-SENSE 7的介面加入了Android 5.0 的 Material
-Design風格，且能夠依據時間以及所在地提供特殊建議，於工作地點或住家提供不同的APP建議，或是提供在地化的餐飲推薦，在台灣將會與愛評網合作。
+SENSE 7的介面加入了Android 5.0 的 Material Design風格，且能夠依據時間以及所在地提供特殊建議，於工作地點或住家提供不同的APP建議，或是提供在地化的餐飲推薦，在台灣將會與愛評網合作。
 
-'''HTC Theme '''為HTC 推出獨立的「HTC
-Theme」App，可讓用戶更換主題，可以依據用戶所選的圖片來自動選擇適合的主題，也能更換系統圖示、海苔條上的軟體功能鍵的圖示、系統提示音效、螢幕顯示字型，比先前SENSE
-6更加個人化。
+'''HTC Theme '''為HTC 推出獨立的「HTC Theme」App，可讓用戶更換主題，可以依據用戶所選的圖片來自動選擇適合的主題，也能更換系統圖示、海苔條上的軟體功能鍵的圖示、系統提示音效、螢幕顯示字型，比先前SENSE 6更加個人化。
 
 ## 零件供應商
 
@@ -245,9 +225,7 @@ Theme」App，可讓用戶更換主題，可以依據用戶所選的圖片來自
 
 ## 配件
 
-HTC推出了「Dot View 2」延續上一代並更加改進，新一代Dot View
-2的洞洞透光率更好，且背蓋新增透明種類能讓人看到M9原本的金屬光澤背部，HTC也為了Dot
-View設計了dot view的專屬遊戲APP、也有顯示類似跑馬燈的 Dot Message 滾動訊息\[12\]。
+HTC推出了「Dot View 2」延續上一代並更加改進，新一代Dot View 2的洞洞透光率更好，且背蓋新增透明種類能讓人看到M9原本的金屬光澤背部，HTC也為了Dot View設計了dot view的專屬遊戲APP、也有顯示類似跑馬燈的 Dot Message 滾動訊息\[12\]。
 
 HTC也首次推出了IP68防水規格的保護套「Active Case」。
 
@@ -302,26 +280,20 @@ HTC也首次推出了IP68防水規格的保護套「Active Case」。
 
 ## 過熱問題
 
-HTC公司发布的旗舰机One M9产生了机身过热的问题，原因是它的处理器高通骁龙810在运行过程中发生了过热现象，但在Android
-6.0中以降頻方式獲得改善。\[15\]
+HTC公司发布的旗舰机One M9产生了机身过热的问题，原因是它的处理器高通骁龙810在运行过程中发生了过热现象，但在Android 6.0中以降頻方式獲得改善。\[15\]
 
 而諸多網友提出後續機型E9+也存在過熱問題，至今尚未解決。
 
 ## 参见
 
   - [HTC One M9+](../Page/HTC_One_M9+.md "wikilink")
-  - [HTC One
-    系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
+  - [HTC One 系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
   - [HTC 10](../Page/HTC_10.md "wikilink")
   - [宏达国际电子手机列表](https://zh.wikipedia.org/wiki/宏达国际电子手机列表 "wikilink")
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.
 

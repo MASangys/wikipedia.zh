@@ -1,6 +1,4 @@
-《**詹伯a**》（原題：**ジャンボーグA**）是1973年（昭和48年）1月17日至同年12月29日期間，於[NET電視網每](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19時30分
-- 20時00分（10月6日起調至每[星期六](../Page/星期六.md "wikilink")19時00分 -
-19時30分）播出，由圆谷制作所拍攝的電視特摄影集，全50集。
+《**詹伯a**》（原題：**ジャンボーグA**）是1973年（昭和48年）1月17日至同年12月29日期間，於[NET電視網每](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19時30分 - 20時00分（10月6日起調至每[星期六](../Page/星期六.md "wikilink")19時00分 - 19時30分）播出，由圆谷制作所拍攝的電視特摄影集，全50集。
 
 ## 介绍
 
@@ -56,9 +54,7 @@
   - 立花信也：[天田俊明](https://zh.wikipedia.org/wiki/天田俊明 "wikilink")
   - 小野寺参謀：[佐原健二](../Page/佐原健二.md "wikilink")
   - ジャンボーグA：高橋重大、岩本照雄、坂本道治
-  - ジャンボーグAの声：立花直樹（第1 - 2話）、[子門真人](../Page/子門真人.md "wikilink")（第3 -
-    25話）、[池水通洋](https://zh.wikipedia.org/wiki/池水通洋 "wikilink")（第26
-    - 46話）
+  - ジャンボーグAの声：立花直樹（第1 - 2話）、[子門真人](../Page/子門真人.md "wikilink")（第3 - 25話）、[池水通洋](https://zh.wikipedia.org/wiki/池水通洋 "wikilink")（第26 - 46話）
   - ジャンボーグ9：[西条満](https://zh.wikipedia.org/wiki/西条満 "wikilink")\[6\]
   - ジャンボーグ9の声：池水通洋
   - アンチゴーネ：志村左近
@@ -66,9 +62,7 @@
   - マッドゴーネ：志村左近、有川兼光
   - マッドゴーネの声：池水通洋
   - サタンゴーネ：森一成
-  - サタンゴーネの声：戸田皓久（第32 -
-    38話）、[内田稔](https://zh.wikipedia.org/wiki/内田稔 "wikilink")（第39
-    - 46話）
+  - サタンゴーネの声：戸田皓久（第32 - 38話）、[内田稔](https://zh.wikipedia.org/wiki/内田稔 "wikilink")（第39 - 46話）
   - デモンゴーネ：森一成
   - デモンゴーネの声：[田中信夫](../Page/田中信夫.md "wikilink")（男）、[加川友里](https://zh.wikipedia.org/wiki/鳳芳野 "wikilink")（女）
   - エメラルド星人の声：[納谷悟郎](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")
@@ -118,8 +112,7 @@
   -
   - [大怪獸格鬥 超銀河傳說 THE MOVIE](../Page/大怪獸格鬥_超銀河傳說_THE_MOVIE.md "wikilink")
 
-  - [赛罗·奥特曼 THE MOVIE
-    超决战！贝利亚银河帝国](../Page/赛罗·奥特曼_THE_MOVIE_超决战！贝利亚银河帝国.md "wikilink")
+  - [赛罗·奥特曼 THE MOVIE 超决战！贝利亚银河帝国](../Page/赛罗·奥特曼_THE_MOVIE_超决战！贝利亚银河帝国.md "wikilink")
 
   -
   - [新奥特曼列传](../Page/奥特曼列传.md "wikilink")
@@ -136,16 +129,7 @@
 
 [詹伯x](https://zh.wikipedia.org/wiki/詹伯x "wikilink")
 
-[Category:圆谷制作](https://zh.wikipedia.org/wiki/Category:圆谷制作 "wikilink")
-[Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink")
-[Category:1970年代特攝作品](https://zh.wikipedia.org/wiki/Category:1970年代特攝作品 "wikilink")
-[Category:镜子超人](https://zh.wikipedia.org/wiki/Category:镜子超人 "wikilink")
-[Category:怪兽题材电视剧](https://zh.wikipedia.org/wiki/Category:怪兽题材电视剧 "wikilink")
-[Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")
-[Category:机器人超级英雄](https://zh.wikipedia.org/wiki/Category:机器人超级英雄 "wikilink")
-[Category:1973年電視劇集](https://zh.wikipedia.org/wiki/Category:1973年電視劇集 "wikilink")
-[Category:车辆题材作品](https://zh.wikipedia.org/wiki/Category:车辆题材作品 "wikilink")
-[Category:航空题材作品](https://zh.wikipedia.org/wiki/Category:航空题材作品 "wikilink")
+[Category:圆谷制作](https://zh.wikipedia.org/wiki/Category:圆谷制作 "wikilink") [Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink") [Category:1970年代特攝作品](https://zh.wikipedia.org/wiki/Category:1970年代特攝作品 "wikilink") [Category:镜子超人](https://zh.wikipedia.org/wiki/Category:镜子超人 "wikilink") [Category:怪兽题材电视剧](https://zh.wikipedia.org/wiki/Category:怪兽题材电视剧 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink") [Category:机器人超级英雄](https://zh.wikipedia.org/wiki/Category:机器人超级英雄 "wikilink") [Category:1973年電視劇集](https://zh.wikipedia.org/wiki/Category:1973年電視劇集 "wikilink") [Category:车辆题材作品](https://zh.wikipedia.org/wiki/Category:车辆题材作品 "wikilink") [Category:航空题材作品](https://zh.wikipedia.org/wiki/Category:航空题材作品 "wikilink")
 
 1.  メカデザインも担当。
 

@@ -1,5 +1,4 @@
-**Monolith
-Productions**（或简称**Monolith**）是位于美国华盛顿[柯克兰的电脑游戏开发商](../Page/柯克兰_\(华盛顿州\).md "wikilink")。Monolith还开发了图形游戏引擎，并将之用在他们大部分游戏中。在1997年至1999年间，他们还发行本工作室和一些第三方团队的游戏。
+**Monolith Productions**（或简称**Monolith**）是位于美国华盛顿[柯克兰的电脑游戏开发商](../Page/柯克兰_\(华盛顿州\).md "wikilink")。Monolith还开发了图形游戏引擎，并将之用在他们大部分游戏中。在1997年至1999年间，他们还发行本工作室和一些第三方团队的游戏。
 
 2004年[时代华纳子公司](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")[华纳兄弟收购了Monolith](../Page/華納兄弟互動娛樂.md "wikilink")\[1\]。
 
@@ -249,12 +248,7 @@ Productions**（或简称**Monolith**）是位于美国华盛顿[柯克兰的电
 ## 外部链接
 
   -
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
-[Category:Monolith_Productions](https://zh.wikipedia.org/wiki/Category:Monolith_Productions "wikilink")
-[Category:華納媒體](https://zh.wikipedia.org/wiki/Category:華納媒體 "wikilink")
-[Category:华纳兄弟](https://zh.wikipedia.org/wiki/Category:华纳兄弟 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink") [Category:Monolith_Productions](https://zh.wikipedia.org/wiki/Category:Monolith_Productions "wikilink") [Category:華納媒體](https://zh.wikipedia.org/wiki/Category:華納媒體 "wikilink") [Category:华纳兄弟](https://zh.wikipedia.org/wiki/Category:华纳兄弟 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 2.

@@ -1,20 +1,14 @@
-[李秀賢](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink") |過往成員 = |音樂專輯 =
-|電影 = |主持節目 = |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
+[李秀賢](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink") |過往成員 = |音樂專輯 = |電影 = |主持節目 = |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
 
-**HI秀賢**
-（、）是[YG娛樂於](../Page/YG娛樂.md "wikilink")2014年11月所推出的新組合，由solo歌手[李遐怡以及](../Page/李遐怡.md "wikilink")[樂童音樂家的成員李秀賢組成](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。HI
-SUHYUN乃是作為「YG Collaboration Project」（YG合作企劃）編號001的全新小分隊。
+**HI秀賢** （、）是[YG娛樂](../Page/YG娛樂.md "wikilink")於2014年11月所推出的新組合，由solo歌手[李遐怡](../Page/李遐怡.md "wikilink")以及[樂童音樂家的成員李秀賢組成](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。HI SUHYUN乃是作為「YG Collaboration Project」（YG合作企劃）編號001的全新小分隊。
 
 ## 歷程
 
-2014年10月28日，[YG娛樂透過官方部落格公開最新](../Page/YG娛樂.md "wikilink")「WHO IS
-NEXT?」預告照，並註明日期11/11。隔日YG又發布新預告「1+1」引發各界猜測是否為2人的小分隊，但隨即「1+1÷1」的暗示再度使外界好奇，無法確定此分隊是兩人抑或是三人。
+2014年10月28日，[YG娛樂](../Page/YG娛樂.md "wikilink")透過官方部落格公開最新「WHO IS NEXT?」預告照，並註明日期11/11。隔日YG又發布新預告「1+1」引發各界猜測是否為2人的小分隊，但隨即「1+1÷1」的暗示再度使外界好奇，無法確定此分隊是兩人抑或是三人。
 
-11月3日，[YG娛樂透過部落格公開新企畫的第一位成員](../Page/YG娛樂.md "wikilink")，即是旗下solo歌手[李遐怡](../Page/李遐怡.md "wikilink")，隔天再度公開新男團[IKON成員Bobby將擔任此次企劃之featuring](../Page/IKON.md "wikilink")。11月5日，最後一位成員揭曉，是為樂童音樂家的妹妹李秀賢。並同時公布此新unit之團名即為兩人名字之組合「HI」(遐怡)「SUHYUN」(秀賢)。\[1\]\[2\]
+11月3日，[YG娛樂](../Page/YG娛樂.md "wikilink")透過部落格公開新企畫的第一位成員，即是旗下solo歌手[李遐怡](../Page/李遐怡.md "wikilink")，隔天再度公開新男團[IKON](../Page/IKON.md "wikilink")成員Bobby將擔任此次企劃之featuring。11月5日，最後一位成員揭曉，是為樂童音樂家的妹妹李秀賢。並同時公布此新unit之團名即為兩人名字之組合「HI」(遐怡)「SUHYUN」(秀賢)。\[1\]\[2\]
 
-11月11日零時，HI
-SUHYUN的出道單曲「我不一樣」正式在韓國國內十大音源網站以及itunes上公開，隨即在MelOn榜單破表七次、Genie榜也屢屢登頂。十個小時後達成十個榜同時實時排行第一名的all
-kill佳績。
+11月11日零時，HI SUHYUN的出道單曲「我不一樣」正式在韓國國內十大音源網站以及itunes上公開，隨即在MelOn榜單破表七次、Genie榜也屢屢登頂。十個小時後達成十個榜同時實時排行第一名的all kill佳績。
 
 ## 成員列表
 
@@ -90,12 +84,9 @@ kill佳績。
 
 ## 外部連結
 
-  - [YG Family
-    官網](http://www.ygfamily.com/artist/About.asp?LANGDIV=C&ATYPE=2&ARTIDX=61)
+  - [YG Family 官網](http://www.ygfamily.com/artist/About.asp?LANGDIV=C&ATYPE=2&ARTIDX=61)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.

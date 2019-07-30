@@ -4,10 +4,8 @@
 
   - apport：命令列主程式，可瀏覽及處理錯誤報告；
   - apport-gtk：在[GTK+環境使用的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")；
-  - apport-kde:
-    在[KDE](../Page/KDE.md "wikilink")/[Qt環境使用的圖形使用者介面](../Page/Qt.md "wikilink")；
-  - python3-apport：apport的核心元件，利用[Python
-    3編寫](https://zh.wikipedia.org/wiki/Python_3 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")，為建立及處理錯誤報告提供功能函數。內容包括：
+  - apport-kde: 在[KDE](../Page/KDE.md "wikilink")/[Qt](../Page/Qt.md "wikilink")環境使用的圖形使用者介面；
+  - python3-apport：apport的核心元件，利用[Python 3編寫](https://zh.wikipedia.org/wiki/Python_3 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")，為建立及處理錯誤報告提供功能函數。內容包括：
       - 查詢現有及新建之報告；
       - 採集作業系統、軟件包的封包及運行中的程序等各項數據，以建立報告；
       - 其他介面程式所需之功用函數；
@@ -23,7 +21,6 @@
   -
   - [Apport](https://launchpad.net/apport/)
 
-[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
-[Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink")
+[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink") [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink")
 
 1.

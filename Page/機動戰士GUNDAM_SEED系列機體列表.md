@@ -1,8 +1,4 @@
-**機動戰士GUNDAM SEED系列機體列表**，主要內容為日本動畫作品《[機動戰士GUNDAM
-SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》、《[機動戰士GUNDAM SEED
-DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》、《[机动战士GUNDAM
-SEED C.E.73
-STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及附属作品所构成的[宇宙纪元所登場的](../Page/宇宙纪元.md "wikilink")[机动战士与](../Page/机动战士.md "wikilink")[机动装甲](../Page/機動裝甲.md "wikilink")。
+**機動戰士GUNDAM SEED系列機體列表**，主要內容為日本動畫作品《[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》、《[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》、《[机动战士GUNDAM SEED C.E.73 STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及附属作品所构成的[宇宙纪元](../Page/宇宙纪元.md "wikilink")所登場的[机动战士](../Page/机动战士.md "wikilink")与[机动装甲](../Page/機動裝甲.md "wikilink")。
 
 ## [地球聯合軍](https://zh.wikipedia.org/wiki/地球聯合軍 "wikilink") （初譯：[地球聯邦軍](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")）
 
@@ -10,46 +6,29 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
 
 #### 试作型
 
-地球联合军的GAT-X系列和CAT1-X（1〜3）/3 Hyperion的操作系统开机画面显示的名称为**General Unilateral
-Neuro-link Dispersive Autonomic Maneuver**。GFAS-X1
-Destroy的操作系统开机画面显示的名称为**Gigantic
-Unilateral Numerous Dominating AMmunition**。
+地球联合军的GAT-X系列和CAT1-X（1〜3）/3 Hyperion的操作系统开机画面显示的名称为**General Unilateral Neuro-link Dispersive Autonomic Maneuver**。GFAS-X1 Destroy的操作系统开机画面显示的名称为**Gigantic Unilateral Numerous Dominating AMmunition**。
 
 ##### G兵器开发计划（大西洋联邦）
 
 ###### 前期的GAT-X系列
 
-  - [GAT-X102
-    Duel](https://zh.wikipedia.org/wiki/GAT-X102_決鬥鋼彈 "wikilink")
-    決鬥鋼彈
-  - [GAT-X103
-    Buster](https://zh.wikipedia.org/wiki/GAT-X103_Buster "wikilink")
-    暴風鋼彈
-  - [GAT-X105
-    Strike](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")
-    攻擊鋼彈
-  - [GAT-X207
-    Blitz](https://zh.wikipedia.org/wiki/GAT-X207_Blitz "wikilink") 電擊鋼彈
-  - [GAT-X303
-    Aegis](https://zh.wikipedia.org/wiki/GAT-X303_Aegis "wikilink") 神盾鋼彈
+  - [GAT-X102 Duel](https://zh.wikipedia.org/wiki/GAT-X102_決鬥鋼彈 "wikilink") 決鬥鋼彈
+  - [GAT-X103 Buster](https://zh.wikipedia.org/wiki/GAT-X103_Buster "wikilink") 暴風鋼彈
+  - [GAT-X105 Strike](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink") 攻擊鋼彈
+  - [GAT-X207 Blitz](https://zh.wikipedia.org/wiki/GAT-X207_Blitz "wikilink") 電擊鋼彈
+  - [GAT-X303 Aegis](https://zh.wikipedia.org/wiki/GAT-X303_Aegis "wikilink") 神盾鋼彈
 
 ###### 后期的GAT-X系列
 
-  - [GAT-X131
-    Calamity](https://zh.wikipedia.org/wiki/GAT-X131_Calamity "wikilink")
-    瘟神鋼彈
+  - [GAT-X131 Calamity](https://zh.wikipedia.org/wiki/GAT-X131_Calamity "wikilink") 瘟神鋼彈
 
 :\* GAT-X133 Sword Calamity 巨劍型瘟神鋼彈
 
-  - [GAT-X252
-    Forbidden](https://zh.wikipedia.org/wiki/GAT-X252_Forbidden "wikilink")
-    禁斷鋼彈
+  - [GAT-X252 Forbidden](https://zh.wikipedia.org/wiki/GAT-X252_Forbidden "wikilink") 禁斷鋼彈
 
 :\* GAT-X255 Forbidden Blue 蔚藍禁斷鋼彈
 
-  - [GAT-X370
-    Raider](https://zh.wikipedia.org/wiki/GAT-X370_Raider "wikilink")
-    侵略鋼彈
+  - [GAT-X370 Raider](https://zh.wikipedia.org/wiki/GAT-X370_Raider "wikilink") 侵略鋼彈
 
 ###### [阿克泰昂计划](https://zh.wikipedia.org/wiki/阿克泰昂 "wikilink")
 
@@ -72,9 +51,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 ##### 其他
 
-  - [GFAS-X1
-    Destroy](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")
-    破滅鋼彈
+  - [GFAS-X1 Destroy](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink") 破滅鋼彈
 
 ##### 雷轰GUNDAM（东亚共和国）
 
@@ -89,31 +66,19 @@ Unilateral Numerous Dominating AMmunition**。
 :\* GAT-01 Strike Dagger 攻擊刃
 
   -
-    [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年，為了抗衡[Z.A.F.T.劃時代的革命性兵器](https://zh.wikipedia.org/wiki/ZAFT "wikilink")「Mobile
-    Suit（簡稱[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，即機動戰士）」，由[大西洋聯邦開發](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")，[歐普的半國營軍需企業](https://zh.wikipedia.org/wiki/歐普 "wikilink")「曙光社」暗中協助，於資源衛星殖民地「海利歐波里斯」秘密建造代號「[G兵器](https://zh.wikipedia.org/wiki/G兵器 "wikilink")」的[GAT-X系列的試作](https://zh.wikipedia.org/wiki/GAT-X系列 "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")。然而C.E.71年1月25日，[G兵器五機中有四機遭Z](https://zh.wikipedia.org/wiki/G兵器 "wikilink").A.F.T.部隊強奪，僅存的[攻擊鋼彈連同](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")[大天使號因](https://zh.wikipedia.org/wiki/大天使號 "wikilink")「海利歐波里斯」的毀滅而行蹤不明。2月7日哈爾·巴頓提督率領的第八艦隊與之合流。在緊接著發生的2月13日第八艦隊覆滅之前，巴頓提督將[攻擊鋼彈的戰鬥資料移交至高層](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")，聯合軍便以此為基礎開發出本機**GAT-01
-    Strike Dagger 攻擊刃**。\[8\]
-    本機作為[地球聯合軍首台量產型](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，主要目的是為了抗衡[Z.A.F.T.的主力量產機](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[基恩](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")，性能極高，擁有與[基恩勢均力敵以上的戰鬥力](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")，搭載專門為[自然人設計的OS](https://zh.wikipedia.org/wiki/自然人 "wikilink")（Operating
-    System，即操作系統）亦是首例。最初[MS的概念是世界上第一位](https://zh.wikipedia.org/wiki/MS "wikilink")[調整者](https://zh.wikipedia.org/wiki/调整者_\(GUNDAM\) "wikilink")[喬治·葛倫發想並公開](https://zh.wikipedia.org/wiki/喬治·葛倫 "wikilink")，作為調整者在[宇宙空間中從事各種工事作業的搭乘工具](../Page/宇宙.md "wikilink")，長年以來在OS的開發上也是[調整者設計給調整者使用的](https://zh.wikipedia.org/wiki/调整者_\(GUNDAM\) "wikilink")。由於調整者的平均體能和智能較高，故其適用的OS亦十分簡單，配合駕駛員自身的能力就足以駕馭[MS戰鬥](https://zh.wikipedia.org/wiki/MS "wikilink")，而一般自然人能做到讓[MS順利步行的程度已屬不易](https://zh.wikipedia.org/wiki/MS "wikilink")。即便是[大西洋聯邦秘密開發的五台原型機](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")「[G兵器](https://zh.wikipedia.org/wiki/G兵器 "wikilink")」，其OS也仍處於開發中狀態而過於簡陋，自然人上手不利。而搭載自然人專用OS的本機正是首台能讓自然人也能靈活駕駛的[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，多少破除長久以來調整者認為「自然人無法駕駛[MS](https://zh.wikipedia.org/wiki/MS "wikilink")」的輕視，其歷史意義不言而喻。
-    事實上，繼承[攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")**攻擊者背包系統**的[105刃才是聯合軍預定的量產機](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，然而為因應日益吃緊的戰事，聯合軍著眼於生產性與整備性的快速和便利，只得將源自於[攻擊鋼彈的換裝機能從原案設計中移除](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")，緊急將本機作為先行的簡易量產機投入產線，使得機體泛用性下降許多。本機雖無換裝功能，但仍裝備**降落傘背包**，具備空降作戰的能力，在歐普首長聯合國一戰中，發揮了極大的作用。為了降低生產成本，本機武裝談不上豐富，僅配備一柄置於右後背的**ES01
-    光束軍刀**，攜行一挺安裝榴彈發射器的**M703 57mm
-    光束步槍**，防禦火器「**豪豬陣**」也只有頭部左側一門。通信方面移除[鋼彈機型先進的雙眼式探測器與V字天線](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")，而採用便宜的鏡片式探測器和設置於頭部右側的單天線。當然更不可能配備昂貴且能源消耗率極高的[相轉移裝甲](https://zh.wikipedia.org/wiki/相轉移裝甲 "wikilink")（PS裝甲），甚至連[電磁脈衝](https://zh.wikipedia.org/wiki/電磁脈衝 "wikilink")（EMP-Electromagnetic
-    Pulse）的防護措施也省去\[9\]。不過，裝備精簡帶來的好處是能源消耗率降低，使本機的稼動時間充裕，倒也讓聯合軍高層的「機海戰術」得以發揮。
-    本機的登場扭轉[Z.A.F.T.過往的優勢](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，作為[地球聯合軍的主力量產](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")[MS活躍於戰場上](https://zh.wikipedia.org/wiki/MS "wikilink")，[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年5月25日首次投入[巴拿马宇宙港的防衛戰](../Page/巴拿马.md "wikilink")，直至同年9月27日大戰結束為止。戰後聯合軍終止本機的生產，汰換為原定的正式量產機[105刃和](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")[刃式L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L "wikilink")。然而，本機並未就此離開戰爭的舞台；在11月爆發的南美獨立戰爭中，雖然性能上劣於大西洋聯邦更先進的[105刃與](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")[刃式L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L "wikilink")，本機仍作為[南美合眾國的主力活躍於第一線](https://zh.wikipedia.org/wiki/C.E.勢力 "wikilink")，為南美的自由獨立而戰。
+    [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年，為了抗衡[Z.A.F.T.劃時代的革命性兵器](https://zh.wikipedia.org/wiki/ZAFT "wikilink")「Mobile Suit（簡稱[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，即機動戰士）」，由[大西洋聯邦開發](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")，[歐普的半國營軍需企業](https://zh.wikipedia.org/wiki/歐普 "wikilink")「曙光社」暗中協助，於資源衛星殖民地「海利歐波里斯」秘密建造代號「[G兵器](https://zh.wikipedia.org/wiki/G兵器 "wikilink")」的[GAT-X系列的試作](https://zh.wikipedia.org/wiki/GAT-X系列 "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")。然而C.E.71年1月25日，[G兵器五機中有四機遭Z](https://zh.wikipedia.org/wiki/G兵器 "wikilink").A.F.T.部隊強奪，僅存的[攻擊鋼彈連同](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")[大天使號因](https://zh.wikipedia.org/wiki/大天使號 "wikilink")「海利歐波里斯」的毀滅而行蹤不明。2月7日哈爾·巴頓提督率領的第八艦隊與之合流。在緊接著發生的2月13日第八艦隊覆滅之前，巴頓提督將[攻擊鋼彈的戰鬥資料移交至高層](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")，聯合軍便以此為基礎開發出本機**GAT-01 Strike Dagger 攻擊刃**。\[8\]
+    本機作為[地球聯合軍首台量產型](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，主要目的是為了抗衡[Z.A.F.T.的主力量產機](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[基恩](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")，性能極高，擁有與[基恩勢均力敵以上的戰鬥力](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")，搭載專門為[自然人設計的OS](https://zh.wikipedia.org/wiki/自然人 "wikilink")（Operating System，即操作系統）亦是首例。最初[MS的概念是世界上第一位](https://zh.wikipedia.org/wiki/MS "wikilink")[調整者](https://zh.wikipedia.org/wiki/调整者_\(GUNDAM\) "wikilink")[喬治·葛倫發想並公開](https://zh.wikipedia.org/wiki/喬治·葛倫 "wikilink")，作為調整者在[宇宙](../Page/宇宙.md "wikilink")空間中從事各種工事作業的搭乘工具，長年以來在OS的開發上也是[調整者設計給調整者使用的](https://zh.wikipedia.org/wiki/调整者_\(GUNDAM\) "wikilink")。由於調整者的平均體能和智能較高，故其適用的OS亦十分簡單，配合駕駛員自身的能力就足以駕馭[MS戰鬥](https://zh.wikipedia.org/wiki/MS "wikilink")，而一般自然人能做到讓[MS順利步行的程度已屬不易](https://zh.wikipedia.org/wiki/MS "wikilink")。即便是[大西洋聯邦秘密開發的五台原型機](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")「[G兵器](https://zh.wikipedia.org/wiki/G兵器 "wikilink")」，其OS也仍處於開發中狀態而過於簡陋，自然人上手不利。而搭載自然人專用OS的本機正是首台能讓自然人也能靈活駕駛的[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，多少破除長久以來調整者認為「自然人無法駕駛[MS](https://zh.wikipedia.org/wiki/MS "wikilink")」的輕視，其歷史意義不言而喻。
+    事實上，繼承[攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")**攻擊者背包系統**的[105刃才是聯合軍預定的量產機](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，然而為因應日益吃緊的戰事，聯合軍著眼於生產性與整備性的快速和便利，只得將源自於[攻擊鋼彈的換裝機能從原案設計中移除](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")，緊急將本機作為先行的簡易量產機投入產線，使得機體泛用性下降許多。本機雖無換裝功能，但仍裝備**降落傘背包**，具備空降作戰的能力，在歐普首長聯合國一戰中，發揮了極大的作用。為了降低生產成本，本機武裝談不上豐富，僅配備一柄置於右後背的**ES01 光束軍刀**，攜行一挺安裝榴彈發射器的**M703 57mm 光束步槍**，防禦火器「**豪豬陣**」也只有頭部左側一門。通信方面移除[鋼彈機型先進的雙眼式探測器與V字天線](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")，而採用便宜的鏡片式探測器和設置於頭部右側的單天線。當然更不可能配備昂貴且能源消耗率極高的[相轉移裝甲](https://zh.wikipedia.org/wiki/相轉移裝甲 "wikilink")（PS裝甲），甚至連[電磁脈衝](https://zh.wikipedia.org/wiki/電磁脈衝 "wikilink")（EMP-Electromagnetic Pulse）的防護措施也省去\[9\]。不過，裝備精簡帶來的好處是能源消耗率降低，使本機的稼動時間充裕，倒也讓聯合軍高層的「機海戰術」得以發揮。
+    本機的登場扭轉[Z.A.F.T.過往的優勢](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，作為[地球聯合軍的主力量產](https://zh.wikipedia.org/wiki/地球聯合#地球連合軍 "wikilink")[MS活躍於戰場上](https://zh.wikipedia.org/wiki/MS "wikilink")，[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年5月25日首次投入[巴拿马](../Page/巴拿马.md "wikilink")宇宙港的防衛戰，直至同年9月27日大戰結束為止。戰後聯合軍終止本機的生產，汰換為原定的正式量產機[105刃和](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")[刃式L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L "wikilink")。然而，本機並未就此離開戰爭的舞台；在11月爆發的南美獨立戰爭中，雖然性能上劣於大西洋聯邦更先進的[105刃與](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")[刃式L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L "wikilink")，本機仍作為[南美合眾國的主力活躍於第一線](https://zh.wikipedia.org/wiki/C.E.勢力 "wikilink")，為南美的自由獨立而戰。
 
 :\* GAT-01A1 刃/刃式
 
   -
-    一般来说，GAT-01A1
-    刃式多被称为“105刃”。这个俗名是因为本机具有使用攻擊者背包的能力、可模仿原型機GAT-X105攻擊鋼彈且為了與同樣以X105為基礎的GAT-01做出區別而被赋予的；另外，因为出廠时期前後，無法裝備攻擊者背包的GAT-01也被冠以“攻擊”的名称，报道及文献之类中混乱的记述也可以看到不少。
-    如上所述，本机的最大特征是可对应战况而换装攻擊者背包。其他方面，與GAT-01
-    攻擊刃的不同之处还有：本機頭部的探测器群是可以换装成拥有和X105同等规格的高性能类型；同时，头部的自动火神炮也变成口径40mm的左右一对。作为在聯合、ZAFT双方的MS上从来没有见过的新机轴的武装，技术人员在机体两脚的装甲的部分初次装备50口径（12.5mm）作为对步兵用火器的机关炮，这点值得特书一笔；另外，技术人员还在左右腰部装备了光束军刀，而X105所装备的格斗用刀则被省略。为了降低生产成本，本机没有采用PS/TP装甲。取而代之，本机的Vital
-    Area防御配备了宇宙船之类突入大气层之际使用的耐热用融除材**GEL
-    DPX-D30消融凝膠**改良型的積层装甲。因此，本機對光束兵器的耐性較之攻擊刃已得到大幅提升。且除了防禦力之外，本機性能總體上並不比攻擊鋼彈遜色多少。
-    生产机数能够确认的GAT-01A1的战时生产数量仅为23台。其中包括系统实证机1台、试作型2台。然而，由于本机在C.E.71
-    9月27日的大战终结后仍然继续生产，还进行了数次的调整，因此生产區改往7区移行。
+    一般来说，GAT-01A1 刃式多被称为“105刃”。这个俗名是因为本机具有使用攻擊者背包的能力、可模仿原型機GAT-X105攻擊鋼彈且為了與同樣以X105為基礎的GAT-01做出區別而被赋予的；另外，因为出廠时期前後，無法裝備攻擊者背包的GAT-01也被冠以“攻擊”的名称，报道及文献之类中混乱的记述也可以看到不少。
+    如上所述，本机的最大特征是可对应战况而换装攻擊者背包。其他方面，與GAT-01 攻擊刃的不同之处还有：本機頭部的探测器群是可以换装成拥有和X105同等规格的高性能类型；同时，头部的自动火神炮也变成口径40mm的左右一对。作为在聯合、ZAFT双方的MS上从来没有见过的新机轴的武装，技术人员在机体两脚的装甲的部分初次装备50口径（12.5mm）作为对步兵用火器的机关炮，这点值得特书一笔；另外，技术人员还在左右腰部装备了光束军刀，而X105所装备的格斗用刀则被省略。为了降低生产成本，本机没有采用PS/TP装甲。取而代之，本机的Vital Area防御配备了宇宙船之类突入大气层之际使用的耐热用融除材**GEL DPX-D30消融凝膠**改良型的積层装甲。因此，本機對光束兵器的耐性較之攻擊刃已得到大幅提升。且除了防禦力之外，本機性能總體上並不比攻擊鋼彈遜色多少。
+    生产机数能够确认的GAT-01A1的战时生产数量仅为23台。其中包括系统实证机1台、试作型2台。然而，由于本机在C.E.71 9月27日的大战终结后仍然继续生产，还进行了数次的调整，因此生产區改往7区移行。
     血腥情人節战爭末期，搭载了有线制导炮背包的本机参加了波亞茲攻防战，其机师是以“月下的狂犬”之名而令人生畏的摩根·雪佛蘭上尉。雪佛蘭其人是在军事系统中把MS运用主義體系化、确认对新人機師教育方式、建立地球连合军的MS战术·战技研究基础的人物，他驾驶本机在这场战斗中所取得的战果虽然被广泛流传着，但是详细情况却并不为人所知。
-    C.E.73年10月3日後，地球聯合與P.L.A.N.T之間爆發第二次大戰，聯合軍將資源轉移至次世代量產機威達的生產，並陸續配備到各部隊，取代了本機的地位。在主要戰場上，聯合軍MS部隊以威達和刃式L做搭配，欲見本機蹤影並不容易。不過可以確定的是，仍有部分軍官仍繼續使用著本機；特殊部隊「幻痛」的主力MS除了威達之外，亦有以本機為基礎的GAT-01A2R
-    Slaughter Dagger，由此可看出聯合軍對本機的信賴感。
+    C.E.73年10月3日後，地球聯合與P.L.A.N.T之間爆發第二次大戰，聯合軍將資源轉移至次世代量產機威達的生產，並陸續配備到各部隊，取代了本機的地位。在主要戰場上，聯合軍MS部隊以威達和刃式L做搭配，欲見本機蹤影並不容易。不過可以確定的是，仍有部分軍官仍繼續使用著本機；特殊部隊「幻痛」的主力MS除了威達之外，亦有以本機為基礎的GAT-01A2R Slaughter Dagger，由此可看出聯合軍對本機的信賴感。
 
 <!-- end list -->
 
@@ -121,15 +86,8 @@ Unilateral Numerous Dominating AMmunition**。
 
       -
         GAT-01A2R Slaughter Dagger 105殲滅刃
-        於機動戰士鋼彈 SEED C.E.73
-        STARGAZER登場，與威達一同作為地球聯合軍特殊部隊‧第81獨立機動群──幻痛的主力MS，性能經過若干提升的機種，通稱「105
-        Slaughter Dagger」
-        ；英語「Slaughter」意味著「虐殺」、「殺戮」或「殲滅」。機體色變更為以黑、灰為主的專用色，背部上的裝備是能夠大氣圈內飛行，出力得到強化的翔翼型攻擊裝備。幻痛曾派遣本機部隊和史威恩·卡爾·巴亞中尉駕駛的漆黑攻擊鋼彈參加了針對襲擊[吉爾吉斯基地的Z](https://zh.wikipedia.org/wiki/吉爾吉斯 "wikilink").A.F.T.系調整者游擊隊的掃蕩作戰，期間對疑似有游擊隊潛伏的難民營以對人火神砲進行[無差別攻擊](https://zh.wikipedia.org/wiki/無差別攻擊 "wikilink")。後來亦參加了攻擊D.S.S.D.（深宇宙探查開發機構）的太空站「特洛伊」，並與UT-1D
-        Civilian Astray DSSD Custom（民用異端DSSD仕樣）部隊交戰。
-        不過，本機固然是「將刃式加以細微變化的改良型」、「以翔翼型背包為標準裝備的機體」，除此之外也是「亦能對應各種戰況，保持靈活性的萬能MS」。如機動戰士鋼彈
-        SEED C.E.73 Δ（Delta） ASTRAY
-        中，幻痛在歐普聯合首長國領海內與歐普軍聯合執行的火星居民殲滅作戰中，將五台本機作為禮物被交付予歐普軍，而五機中僅有一機裝備了標準的Aile背包，其它機體則配合各駕駛員的性格與能力分別裝備了巨劍、重砲、I.W.S.P和Lightning背包出擊。然而實際上是幻痛的華金隊司令官華金中校讓該次行動的指揮官，駕駛GAT-X105E
-        漆黑攻擊的史威恩·卡爾·巴亞得以對該五機進行遠隔操作以轉換其背包的陰謀。
+        於機動戰士鋼彈 SEED C.E.73 STARGAZER登場，與威達一同作為地球聯合軍特殊部隊‧第81獨立機動群──幻痛的主力MS，性能經過若干提升的機種，通稱「105 Slaughter Dagger」 ；英語「Slaughter」意味著「虐殺」、「殺戮」或「殲滅」。機體色變更為以黑、灰為主的專用色，背部上的裝備是能夠大氣圈內飛行，出力得到強化的翔翼型攻擊裝備。幻痛曾派遣本機部隊和史威恩·卡爾·巴亞中尉駕駛的漆黑攻擊鋼彈參加了針對襲擊[吉爾吉斯基地的Z](https://zh.wikipedia.org/wiki/吉爾吉斯 "wikilink").A.F.T.系調整者游擊隊的掃蕩作戰，期間對疑似有游擊隊潛伏的難民營以對人火神砲進行[無差別攻擊](https://zh.wikipedia.org/wiki/無差別攻擊 "wikilink")。後來亦參加了攻擊D.S.S.D.（深宇宙探查開發機構）的太空站「特洛伊」，並與UT-1D Civilian Astray DSSD Custom（民用異端DSSD仕樣）部隊交戰。
+        不過，本機固然是「將刃式加以細微變化的改良型」、「以翔翼型背包為標準裝備的機體」，除此之外也是「亦能對應各種戰況，保持靈活性的萬能MS」。如機動戰士鋼彈 SEED C.E.73 Δ（Delta） ASTRAY 中，幻痛在歐普聯合首長國領海內與歐普軍聯合執行的火星居民殲滅作戰中，將五台本機作為禮物被交付予歐普軍，而五機中僅有一機裝備了標準的Aile背包，其它機體則配合各駕駛員的性格與能力分別裝備了巨劍、重砲、I.W.S.P和Lightning背包出擊。然而實際上是幻痛的華金隊司令官華金中校讓該次行動的指揮官，駕駛GAT-X105E 漆黑攻擊的史威恩·卡爾·巴亞得以對該五機進行遠隔操作以轉換其背包的陰謀。
 
 <!-- end list -->
 
@@ -137,41 +95,22 @@ Unilateral Numerous Dominating AMmunition**。
 
       -
         GAT-02L2 Dagger L 刃式L
-        [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年，為了抗衡[Z.A.F.T.劃時代的革命性兵器](https://zh.wikipedia.org/wiki/ZAFT "wikilink")「**Mobile
-        Suit**（簡稱[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，即機動戰士）」，由[大西洋聯邦開發](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")，[歐普的半國營軍需企業](https://zh.wikipedia.org/wiki/歐普 "wikilink")「曙光社」暗中協助，於資源衛星[殖民地](../Page/殖民地.md "wikilink")「海利歐波里斯」秘密製造被稱為「G兵器」的[GAT-X系列的試驗型](https://zh.wikipedia.org/wiki/GAT-X系列 "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")。[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年1月25日，五機中有四機遭[Z.A.F.T.強奪](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，僅存的[攻擊鋼彈連同](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")[大天使號因](../Page/LCAM-01XA_Archangel.md "wikilink")「海利歐波里斯」的壞滅而行蹤不明。2月7日哈爾‧巴頓提督率領的第八艦隊與之合流。接著2月13日發生的「低軌道會戰」第八艦隊覆滅之前，巴頓提督將取得的機體資料移交至高層，聯合軍便以此為基礎開發出[105刃](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger "wikilink")。
-        是以「搭載**攻擊者背包系統**[MS的大量生產](https://zh.wikipedia.org/wiki/MS "wikilink")」為前提所設計，降低了機體製造成本，性能比[105刃要低下](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，機體設計亦較[105刃近似](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")[攻擊刃](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")，同樣採用了積層裝甲。集團戰鬥的總體性能雖與[105刃同等](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，但光束耐久力劣於[105刃](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")。在裝備上捨棄[光束步槍而改用能源消耗率較低的](https://zh.wikipedia.org/wiki/光束步槍 "wikilink")**光束[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")**，軀體積層裝甲的排除與局部裝甲的削減，頭部和[攻擊刃一樣只有右側的單天線](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")，並取消了[105刃的](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")12.5mm
-        對人火神砲，攻擊裝備的安裝插槽也只保留背部一個,成本的降低隨處可見。不過隨之而來的是生產性比起[105刃大幅提升](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，基本性能又堪比[105刃](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，可謂完成度極高的機體。機體名稱末尾的L為英文**Lightweight
-        clothing**，輕裝之意。
-        原先本機武裝和刃式一致，但C.E.72年3月10日「尤尼烏斯條約」締結不久後，Z.A.F.T.在P.L.A.N.T.指示下啟動了整軍計畫，包括新一代量產機「新千禧系列」的開發，以及針對既有的舊型量產MS進行改良。掌握到此一情報的聯合軍，隨即也提交了新一代量產機威達的開發案，之後亦針對本機進行了數次調整，配備的武裝不斷提升。首先是頭部和胸部的火器升級為新型的「死亡的恐怖（Todesschrecken）」12.5mm
-        自動近接防禦火器，小口徑只有「豪豬陣」約五分之一，但是透過彈芯與炸藥的改良將威力的下降抑制在二分之一，裝彈數亦大幅增加。兩腰裝甲上安裝有ES04B
-        光束軍刀，這是刃式配備的ES01的改良型號；另外兩腰裝甲內部還新增了前所未見的新概念兵器Mk315
-        「短劍」投擲噴進對裝甲貫入彈，投擲出的「短劍」由火箭推進到達目標並貫入裝甲，在內部爆炸給予雙重傷害。本機的攜行兵器主要為M703k
-        光束卡賓槍，這是M703
-        57mm光束步槍的短槍身模組，比聯合軍、Z.A.F.T.和歐普軍一直以來的傳統光束步槍都要小型化；比起威力和射程距離更強調速射性，以衝鋒陷陣為重點的裝備。C.E.73年間一次調整中，本機新增了另一攜行兵裝，尺寸匹敵MS全高的肩掛式攜帶火砲Mk39
-        低反動砲，比Z.A.F.T.的基恩裝備的無反動砲更大型，威力和射程亦更勝之，後座力低，彈種不明。
+        [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年，為了抗衡[Z.A.F.T.劃時代的革命性兵器](https://zh.wikipedia.org/wiki/ZAFT "wikilink")「**Mobile Suit**（簡稱[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，即機動戰士）」，由[大西洋聯邦開發](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")，[歐普的半國營軍需企業](https://zh.wikipedia.org/wiki/歐普 "wikilink")「曙光社」暗中協助，於資源衛星[殖民地](../Page/殖民地.md "wikilink")「海利歐波里斯」秘密製造被稱為「G兵器」的[GAT-X系列的試驗型](https://zh.wikipedia.org/wiki/GAT-X系列 "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")。[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")71年1月25日，五機中有四機遭[Z.A.F.T.強奪](https://zh.wikipedia.org/wiki/ZAFT "wikilink")，僅存的[攻擊鋼彈連同](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")[大天使號因](../Page/LCAM-01XA_Archangel.md "wikilink")「海利歐波里斯」的壞滅而行蹤不明。2月7日哈爾‧巴頓提督率領的第八艦隊與之合流。接著2月13日發生的「低軌道會戰」第八艦隊覆滅之前，巴頓提督將取得的機體資料移交至高層，聯合軍便以此為基礎開發出[105刃](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger "wikilink")。
+        是以「搭載**攻擊者背包系統**[MS的大量生產](https://zh.wikipedia.org/wiki/MS "wikilink")」為前提所設計，降低了機體製造成本，性能比[105刃要低下](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，機體設計亦較[105刃近似](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")[攻擊刃](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")，同樣採用了積層裝甲。集團戰鬥的總體性能雖與[105刃同等](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，但光束耐久力劣於[105刃](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")。在裝備上捨棄[光束步槍而改用能源消耗率較低的](https://zh.wikipedia.org/wiki/光束步槍 "wikilink")**光束[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")**，軀體積層裝甲的排除與局部裝甲的削減，頭部和[攻擊刃一樣只有右側的單天線](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")，並取消了[105刃的](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")12.5mm 對人火神砲，攻擊裝備的安裝插槽也只保留背部一個,成本的降低隨處可見。不過隨之而來的是生產性比起[105刃大幅提升](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，基本性能又堪比[105刃](https://zh.wikipedia.org/wiki/GAT-01A1_105Dagger "wikilink")，可謂完成度極高的機體。機體名稱末尾的L為英文**Lightweight clothing**，輕裝之意。
+        原先本機武裝和刃式一致，但C.E.72年3月10日「尤尼烏斯條約」締結不久後，Z.A.F.T.在P.L.A.N.T.指示下啟動了整軍計畫，包括新一代量產機「新千禧系列」的開發，以及針對既有的舊型量產MS進行改良。掌握到此一情報的聯合軍，隨即也提交了新一代量產機威達的開發案，之後亦針對本機進行了數次調整，配備的武裝不斷提升。首先是頭部和胸部的火器升級為新型的「死亡的恐怖（Todesschrecken）」12.5mm 自動近接防禦火器，小口徑只有「豪豬陣」約五分之一，但是透過彈芯與炸藥的改良將威力的下降抑制在二分之一，裝彈數亦大幅增加。兩腰裝甲上安裝有ES04B 光束軍刀，這是刃式配備的ES01的改良型號；另外兩腰裝甲內部還新增了前所未見的新概念兵器Mk315 「短劍」投擲噴進對裝甲貫入彈，投擲出的「短劍」由火箭推進到達目標並貫入裝甲，在內部爆炸給予雙重傷害。本機的攜行兵器主要為M703k 光束卡賓槍，這是M703 57mm光束步槍的短槍身模組，比聯合軍、Z.A.F.T.和歐普軍一直以來的傳統光束步槍都要小型化；比起威力和射程距離更強調速射性，以衝鋒陷陣為重點的裝備。C.E.73年間一次調整中，本機新增了另一攜行兵裝，尺寸匹敵MS全高的肩掛式攜帶火砲Mk39 低反動砲，比Z.A.F.T.的基恩裝備的無反動砲更大型，威力和射程亦更勝之，後座力低，彈種不明。
 
 <!-- end list -->
 
   -
 
       -
-        傳聞大戰末期本機已生產了一定數量並配置於月面基地，不過在Z.A.F.T.發射第一擊「創世紀」重創月面基地後，恐慌Z.A.F.T.可能大舉反攻的聯合軍高層下令本機部隊立即返回地球，因此並未出擊參與戰事。C.E.71年9月27日大戰結束後，攻擊刃停產，刃式與本機取而代之成為聯合軍的主力MS，實際上的初戰為戰後於11月爆發的南美獨立戰爭，始大量生產，之後又陸續進行了數次調整。C.E.73年10月2日，儘管以少數奇襲，本機部隊仍壓倒自P.L.A.N.T殖民地「軍械庫一號」出陣迎擊的Z.A.F.T.的MS部隊，本機的隱密仕樣Dark
-        Dagger L亦破壞了殖民地的宇宙港，為奪取「第二世代系列」MS做出貢獻。10月3日發生「Break the
-        world（尤尼烏斯7號墜落恐怖攻擊事件）」後，地球聯合再次對P.L.A.N.T宣戰，本機作為聯合軍的主力量產機大舉出戰。
+        傳聞大戰末期本機已生產了一定數量並配置於月面基地，不過在Z.A.F.T.發射第一擊「創世紀」重創月面基地後，恐慌Z.A.F.T.可能大舉反攻的聯合軍高層下令本機部隊立即返回地球，因此並未出擊參與戰事。C.E.71年9月27日大戰結束後，攻擊刃停產，刃式與本機取而代之成為聯合軍的主力MS，實際上的初戰為戰後於11月爆發的南美獨立戰爭，始大量生產，之後又陸續進行了數次調整。C.E.73年10月2日，儘管以少數奇襲，本機部隊仍壓倒自P.L.A.N.T殖民地「軍械庫一號」出陣迎擊的Z.A.F.T.的MS部隊，本機的隱密仕樣Dark Dagger L亦破壞了殖民地的宇宙港，為奪取「第二世代系列」MS做出貢獻。10月3日發生「Break the world（尤尼烏斯7號墜落恐怖攻擊事件）」後，地球聯合再次對P.L.A.N.T宣戰，本機作為聯合軍的主力量產機大舉出戰。
 
 :\* GAT-04 Windam 威達
 
   -
-    本機與前代量產機刃式L同樣繼承了攻擊鋼彈的攻擊者背包系統（Striker Pack
-    System），可對應各種戰況進行換裝，確保了高泛用性。然而美中不足的是，本機的肩部設計與傳統的GAT-01A1刃式系機體不同，無法兼容全部的攻擊者背包，如AQM/E-X02
-    巨劍型攻擊裝備和AQM/E-X03
-    重砲型攻擊裝備便不能完全裝備使用。素體沿用了X100系骨架，顯得更為輕量精悍，頭部追加V字天線強化了通信能力，乍看之下令人產生鋼彈機型的錯覺。肩部、腳部加裝了大型噴嘴，小腿部亦加裝推進器，使得機體出力、推進能力、運動能力較之刃式系機體大幅提升。腳底部也與刃式系不同，採用切割為二分的系統，並新增噴嘴，提高了接地力以及在惡劣地形上的行動能力。不過可惜的是，為了降低製造成本，本機仍未裝備PS裝甲或TP裝甲。
-    武裝方面，本機也有顯著的進化，固定武裝同刃式L一樣為最新型的M2M5「死亡的恐怖（Todesschrecken）」12.5mm
-    自動近接防禦火器，頭部、胸部各兩門。主要的攜行兵裝是新開發的M94049L
-    大型光束步槍，出力、射程皆優於刃式系機體配備的光束卡賓槍，能一發擊破MS，同時槍身也設有輔助用左側握桿，提高射擊時的穩定性。兩腰裝甲上的光束軍刀繼承了刃式L的ES04這一改良型號，而兩腰裝甲內部同樣繼承了刃式L的MK315
-    「短劍（Stiletto）」投擲噴射型對裝甲貫入彈，如忍者般將「短劍」投擲出去後，末端握柄會伸長並噴射推進，貫穿敵機裝甲後於機身內部炸裂，引發雙重傷害；聯合軍特殊部隊「幻痛」隊長尼歐·羅安納克曾以此兵器擊破一代名機自由鋼彈的盾。新設計的A52
-    攻盾E型則源自電擊鋼彈攻盾系統的「三犄（Trikeros）」概念，不僅有著較大的防禦面積，還內藏了MK438/B
-    二連裝多目的飛彈「祭司SA10」；盾前端增設雙叉刀可用以撞、劃等打擊，可謂是「一盾三用」，體現了攻防一體化的概念。
+    本機與前代量產機刃式L同樣繼承了攻擊鋼彈的攻擊者背包系統（Striker Pack System），可對應各種戰況進行換裝，確保了高泛用性。然而美中不足的是，本機的肩部設計與傳統的GAT-01A1刃式系機體不同，無法兼容全部的攻擊者背包，如AQM/E-X02 巨劍型攻擊裝備和AQM/E-X03 重砲型攻擊裝備便不能完全裝備使用。素體沿用了X100系骨架，顯得更為輕量精悍，頭部追加V字天線強化了通信能力，乍看之下令人產生鋼彈機型的錯覺。肩部、腳部加裝了大型噴嘴，小腿部亦加裝推進器，使得機體出力、推進能力、運動能力較之刃式系機體大幅提升。腳底部也與刃式系不同，採用切割為二分的系統，並新增噴嘴，提高了接地力以及在惡劣地形上的行動能力。不過可惜的是，為了降低製造成本，本機仍未裝備PS裝甲或TP裝甲。
+    武裝方面，本機也有顯著的進化，固定武裝同刃式L一樣為最新型的M2M5「死亡的恐怖（Todesschrecken）」12.5mm 自動近接防禦火器，頭部、胸部各兩門。主要的攜行兵裝是新開發的M94049L 大型光束步槍，出力、射程皆優於刃式系機體配備的光束卡賓槍，能一發擊破MS，同時槍身也設有輔助用左側握桿，提高射擊時的穩定性。兩腰裝甲上的光束軍刀繼承了刃式L的ES04這一改良型號，而兩腰裝甲內部同樣繼承了刃式L的MK315 「短劍（Stiletto）」投擲噴射型對裝甲貫入彈，如忍者般將「短劍」投擲出去後，末端握柄會伸長並噴射推進，貫穿敵機裝甲後於機身內部炸裂，引發雙重傷害；聯合軍特殊部隊「幻痛」隊長尼歐·羅安納克曾以此兵器擊破一代名機自由鋼彈的盾。新設計的A52 攻盾E型則源自電擊鋼彈攻盾系統的「三犄（Trikeros）」概念，不僅有著較大的防禦面積，還內藏了MK438/B 二連裝多目的飛彈「祭司SA10」；盾前端增設雙叉刀可用以撞、劃等打擊，可謂是「一盾三用」，體現了攻防一體化的概念。
     內部構造上，本機的駕駛艙是由第二期GAT-X系列的駕駛艙發展而來，其顯示與控制設備比GAT-01A1刃式系機體更為充實。同時OS方面亦繼承了聯合軍自然人專用OS易於上手的優勢，也有部分王牌駕駛員針對OS進行個人化的事例，證明此OS良好的延展性，使得本機的操作性達到很高的水平。作為聯合軍新一代主力量產型泛用MS，本機性能凌駕刃式系機體，基本上超越了攻擊鋼彈等初期GAT-X系列，在大氣圈內面對[Z.A.F.T.的](https://zh.wikipedia.org/wiki/ZAFT "wikilink")「新千禧系列」量產機薩克戰士也能略占上風，終於實現了聯合軍高層自前次大戰欲將攻擊鋼彈完全量產化的悲願。本機在正式採用前先行生產的機體優先配備於聯合軍特殊部隊—第81獨立機動群「幻痛」，其中隊長級駕駛員還擁有特別塗裝的專用機，由此可看出本機的優越性。
     [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")73年，本機與刃式L活躍於主要戰場上。
 
@@ -182,9 +121,7 @@ Unilateral Numerous Dominating AMmunition**。
 :\* GAT-A01/E2 Buster Dagger 暴風刃
 
   -
-    以105刃為基礎所開發的GAT-X103 暴風鋼彈的量產機。原預定開發的是擁有與GAT-X103
-    暴風鋼彈同等級武器的「暴風型攻擊背包」，但在設計階段時發現單純換裝背包會有無法對應的現象，使得背包變成了與機體固定裝備化的砲擊戰專用機。另外，開發過程中曾檢討過搭載GAT-X131
-    瘟神鋼彈用的武器的方案，其結果是該火力對量產機而言過剩而廢案。
+    以105刃為基礎所開發的GAT-X103 暴風鋼彈的量產機。原預定開發的是擁有與GAT-X103 暴風鋼彈同等級武器的「暴風型攻擊背包」，但在設計階段時發現單純換裝背包會有無法對應的現象，使得背包變成了與機體固定裝備化的砲擊戰專用機。另外，開發過程中曾檢討過搭載GAT-X131 瘟神鋼彈用的武器的方案，其結果是該火力對量產機而言過剩而廢案。
     兩肩的飛彈筴艙從6連裝改為3連裝，兩腋下的砲與暴風鋼彈所裝備的相同，也可以相互連結成對裝甲霰彈砲、超高脈衝長射程狙撃來福槍來使用。另外，為了彌補格鬥能力，於兩臂設置了可以裝備光束軍刀的硬點。
     實際所生產的機體於C.E.71年8月8日發動的「八·八作戰」之中的「艾爾斯岩空降作戰」中首次上陣。
 
@@ -251,10 +188,8 @@ Unilateral Numerous Dominating AMmunition**。
 <!-- end list -->
 
   -
-    為了對應Z.A.F.T.投入實戰的機動兵器MS，由地球聯合所開發的單人戰鬥艇，配備有一門單管電磁炮及四個特殊的全方位攻擊武器「線控式炮桶」，能從敵人的四面八方發動攻擊。這種全方位攻擊武器後來也應用於GAT-01A1
-    刃式（通稱105刃）的全方位攻擊系統「炮桶型攻擊者裝備」的開發。
-    開發完成的本機，在之後全數投入到了格里瑪爾迪戰線中，但在月球安迪米翁隕石坑的會戰中，最後僅有穆·拉·福拉卡的座機帶著擊墜五架基恩的戰績平安生還
-    \[10\]，其餘的十四架皆在該戰事中遭到擊墜。而要熟練地運用線控式炮桶，駕駛員必須擁有高度的空間認識能力，由於失去大多數具備高度空間認識能力的駕駛員，也因此本機後續並未再進行生產，僅存的一機在實質意義上成為穆·拉·福拉卡的專用機。
+    為了對應Z.A.F.T.投入實戰的機動兵器MS，由地球聯合所開發的單人戰鬥艇，配備有一門單管電磁炮及四個特殊的全方位攻擊武器「線控式炮桶」，能從敵人的四面八方發動攻擊。這種全方位攻擊武器後來也應用於GAT-01A1 刃式（通稱105刃）的全方位攻擊系統「炮桶型攻擊者裝備」的開發。
+    開發完成的本機，在之後全數投入到了格里瑪爾迪戰線中，但在月球安迪米翁隕石坑的會戰中，最後僅有穆·拉·福拉卡的座機帶著擊墜五架基恩的戰績平安生還 \[10\]，其餘的十四架皆在該戰事中遭到擊墜。而要熟練地運用線控式炮桶，駕駛員必須擁有高度的空間認識能力，由於失去大多數具備高度空間認識能力的駕駛員，也因此本機後續並未再進行生產，僅存的一機在實質意義上成為穆·拉·福拉卡的專用機。
       - TA-MA4F Exus 艾克薩斯
     <!-- end list -->
       -
@@ -263,9 +198,7 @@ Unilateral Numerous Dominating AMmunition**。
 ##### 大型试作型MA
 
   - TSX-MA717/ZD Pergrande 佩格蘭迪
-  - [YMAF-X6BD
-    Zamza-Zah](https://zh.wikipedia.org/wiki/YMAF-X6BD_Zamza-Zah "wikilink")
-    薩姆札查
+  - [YMAF-X6BD Zamza-Zah](https://zh.wikipedia.org/wiki/YMAF-X6BD_Zamza-Zah "wikilink") 薩姆札查
 
 <!-- end list -->
 
@@ -274,22 +207,16 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [YMAG-X7F
-    Gells-Ghe](https://zh.wikipedia.org/wiki/YMAG-X7F_Gells-Ghe "wikilink")
-    傑爾茲克
+  - [YMAG-X7F Gells-Ghe](https://zh.wikipedia.org/wiki/YMAG-X7F_Gells-Ghe "wikilink") 傑爾茲克
 
 <!-- end list -->
 
   -
-    地球聯合軍研發的新型MA，繼薩姆札查後的另一種多足型MA，也搭載了一般MS無法裝備的陽電子反射器，因此防御力驚人。MS
-    部分直接沿用前次大戰中聯合軍主力機種的攻擊刃上半身，與六隻腳的 MA 部分組合形成特殊構造。MA
-    部分同時也是飛行組件，可摺疊腳部變為飛行型態，能在大氣層內飛行。在喀爾納罕基地的羅安格林砲台豬就配置了一架同型機作為砲台的護衛。
+    地球聯合軍研發的新型MA，繼薩姆札查後的另一種多足型MA，也搭載了一般MS無法裝備的陽電子反射器，因此防御力驚人。MS 部分直接沿用前次大戰中聯合軍主力機種的攻擊刃上半身，與六隻腳的 MA 部分組合形成特殊構造。MA 部分同時也是飛行組件，可摺疊腳部變為飛行型態，能在大氣層內飛行。在喀爾納罕基地的羅安格林砲台豬就配置了一架同型機作為砲台的護衛。
 
 #### 量产型
 
-  - [TS-MA2
-    MOEBIUS](https://zh.wikipedia.org/wiki/TS-MA2_MOEBIUS "wikilink")
-    梅比烏斯
+  - [TS-MA2 MOEBIUS](https://zh.wikipedia.org/wiki/TS-MA2_MOEBIUS "wikilink") 梅比烏斯
 
 <!-- end list -->
 
@@ -298,9 +225,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [MAW-01
-    MISTRAL](https://zh.wikipedia.org/wiki/MAW-01_MISTRAL "wikilink")
-    密斯特拉爾
+  - [MAW-01 MISTRAL](https://zh.wikipedia.org/wiki/MAW-01_MISTRAL "wikilink") 密斯特拉爾
 
 <!-- end list -->
 
@@ -309,15 +234,12 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [TS-MB1B
-    Euclid](https://zh.wikipedia.org/wiki/TS-MB1B_Euclid "wikilink")
-    歐幾里得
+  - [TS-MB1B Euclid](https://zh.wikipedia.org/wiki/TS-MB1B_Euclid "wikilink") 歐幾里得
 
 <!-- end list -->
 
   -
-    是自天堂基地开始配备于地球联合军各据点的量产型MA。与同为MA的薩姆札查及傑爾茲克不同的是本机并没有臂及脚等机构，这一点更接近于莫比乌斯等初期的MA。
-    本机在地上及宇宙中均可以使用。由于体型较大，可以搭载较为大型的推进器，能够发挥出很高的机动性。武器方面，由于装备了M464型高能大型光束炮和阳电子反射光束盾，使得欧几里得在攻防两面都相当出色。
+    是自天堂基地开始配备于地球联合军各据点的量产型MA。与同为MA的薩姆札查及傑爾茲克不同的是本机并没有臂及脚等机构，这一点更接近于莫比乌斯等初期的MA。 本机在地上及宇宙中均可以使用。由于体型较大，可以搭载较为大型的推进器，能够发挥出很高的机动性。武器方面，由于装备了M464型高能大型光束炮和阳电子反射光束盾，使得欧几里得在攻防两面都相当出色。
 
 ## [Z.A.F.T.](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")
 
@@ -332,8 +254,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [ZGMF-1017
-    GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")（） 基恩
+  - [ZGMF-1017 GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")（） 基恩
 
 <!-- end list -->
 
@@ -355,8 +276,7 @@ Unilateral Numerous Dominating AMmunition**。
   - ZGMF-1017AS GINN ASSAULT（） 突擊型基恩
   - ZGMF-1017M GINN TYPE HIGH-MANEUVER（） 高機動型基恩
   - ZGMF-1017M2 GINN TYPE HIGH-MANEUVER TYPE II（） 高機動2型基恩
-  - ZGMF-LRR704B GINN LONG DISTANCE FORCING RECONNAISANCE TYPE（）
-    長距離強行偵查複座型基恩
+  - ZGMF-LRR704B GINN LONG DISTANCE FORCING RECONNAISANCE TYPE（） 長距離強行偵查複座型基恩
   - ZGMF/TAR-X1 GINN TYPE TACTICAL AIR RECONNAISANCE（） 戰術航空偵察型基恩
   - TMF/S-3 GINN OCHER TYPE（） 沙漠戰式樣基恩
   - YF-3A GINN FEMWS\[11\]（） 水中用試作型基恩
@@ -365,15 +285,12 @@ Unilateral Numerous Dominating AMmunition**。
 
 ### CGUE（席古）系
 
-  - [ZGMF-515
-    CGUE](https://zh.wikipedia.org/wiki/ZGMF-515_CGUE "wikilink")（） 席古
+  - [ZGMF-515 CGUE](https://zh.wikipedia.org/wiki/ZGMF-515_CGUE "wikilink")（） 席古
 
 <!-- end list -->
 
   -
-    本機是ZAFT以主力量產機ZGMF-1017 GINN
-    基恩為基礎而開發的指揮官專用機體。作為基恩的上位機種，本機的機動力和速度更高；雖然裝備和GINN大致相同，如**MA-M4A
-    重劍**和**MMI-M7S 76mm 重火力機關槍**，但也加上新的**M7070 複合盾牌**和**28mm 火神砲系統**。
+    本機是ZAFT以主力量產機ZGMF-1017 GINN 基恩為基礎而開發的指揮官專用機體。作為基恩的上位機種，本機的機動力和速度更高；雖然裝備和GINN大致相同，如**MA-M4A 重劍**和**MMI-M7S 76mm 重火力機關槍**，但也加上新的**M7070 複合盾牌**和**28mm 火神砲系統**。
 
 <!-- end list -->
 
@@ -381,18 +298,14 @@ Unilateral Numerous Dominating AMmunition**。
 
 #### DINN（迪恩）系
 
-  - [AMF-101
-    DINN](https://zh.wikipedia.org/wiki/AMF-101_DINN "wikilink")（） 迪恩
+  - [AMF-101 DINN](https://zh.wikipedia.org/wiki/AMF-101_DINN "wikilink")（） 迪恩
 
 <!-- end list -->
 
   -
-    AMF-101
-    DINN的開發是為了在地球內以持久飛行來進行空戰，以對付地球連合軍的MA。因此在機體上增設了三對共六支大型機械翼，增加飛行時的平衡及浮力；也加了一個頭盔狀的附加裝置，也能減少空氣的摩擦力。
+    AMF-101 DINN的開發是為了在地球內以持久飛行來進行空戰，以對付地球連合軍的MA。因此在機體上增設了三對共六支大型機械翼，增加飛行時的平衡及浮力；也加了一個頭盔狀的附加裝置，也能減少空氣的摩擦力。
     因為考量到飛行的需要而大幅削減裝甲，因此耐彈性並不出色，但也因此獲得令人滿意的空戰機動性，可以說是當時期最輕的MS
-    在機動戰士GUNDAM SEED DESTINY中，出現了偵察形的DINN。是以AMF-101
-    DINN加上巨型偵察雷達而成。軍事編號為AMRF-101C，名為AWACS
-    DINN。
+    在機動戰士GUNDAM SEED DESTINY中，出現了偵察形的DINN。是以AMF-101 DINN加上巨型偵察雷達而成。軍事編號為AMRF-101C，名為AWACS DINN。
 
 <!-- end list -->
 
@@ -402,8 +315,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 ##### BABI（巴比）
 
-  - [AMA-953
-    BABI](https://zh.wikipedia.org/wiki/AMA-953_BABI "wikilink")（） 巴比
+  - [AMA-953 BABI](https://zh.wikipedia.org/wiki/AMA-953_BABI "wikilink")（） 巴比
 
 ### 地面战用四足兽形量产MS
 
@@ -411,9 +323,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [TMF/A-802
-    BuCue](https://zh.wikipedia.org/wiki/TMF/A-802_BuCue "wikilink")（）
-    巴庫
+  - [TMF/A-802 BuCue](https://zh.wikipedia.org/wiki/TMF/A-802_BuCue "wikilink")（） 巴庫
 
 <!-- end list -->
 
@@ -428,8 +338,7 @@ Unilateral Numerous Dominating AMmunition**。
       - TMF/A-802W2 KERBEROS BuCUE HOUND（） 地獄獵犬型巴库
     <!-- end list -->
       -
-        TMF/A-802W2 Kerberos BuCUE
-        Hound地面战用型MS。装备有两柄双向光束剑、两根光束牙、两支光束角以及两门光束加农炮，以三个头为特征的本机是扎夫特的四脚兽型MS“巴库”的衍生机，与以往的“巴库”相比，更强化了近距离机动战斗的攻击力。背部的回转头系统中拴合装备的配件适合于Wizard的规格，因而实现了与“扎古”系列等扎夫特制造的双脚型机体的武器共通化。由于可以搭载加装了以往背包武器的Wizard系统，“巴库”系列的机体在运用及火力选择的自由度方面大幅扩展，令兵站部门的负担大为减轻。
+        TMF/A-802W2 Kerberos BuCUE Hound地面战用型MS。装备有两柄双向光束剑、两根光束牙、两支光束角以及两门光束加农炮，以三个头为特征的本机是扎夫特的四脚兽型MS“巴库”的衍生机，与以往的“巴库”相比，更强化了近距离机动战斗的攻击力。背部的回转头系统中拴合装备的配件适合于Wizard的规格，因而实现了与“扎古”系列等扎夫特制造的双脚型机体的武器共通化。由于可以搭载加装了以往背包武器的Wizard系统，“巴库”系列的机体在运用及火力选择的自由度方面大幅扩展，令兵站部门的负担大为减轻。
         新换装的替换了过去型的头部单元是以与地狱犬Wizard的连携使用为前提而同时开发的。乍一看，似乎是下巴的部位收纳了主探测器，可对其进行伸缩防护。配合Wizard的两个头部，这些单元中装备了可以在格斗战中发挥威力的光束尖牙系统。此外，Wizard头部单元内的伸缩装置中，各收纳了一门光束炮。
 
 <!-- end list -->
@@ -463,8 +372,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 ### GOOhN（古恩）系
 
-  - [UMF-04A
-    GOOhN](https://zh.wikipedia.org/wiki/UMF-04A_GOOhN "wikilink")（） 古恩
+  - [UMF-04A GOOhN](https://zh.wikipedia.org/wiki/UMF-04A_GOOhN "wikilink")（） 古恩
 
 <!-- end list -->
 
@@ -499,8 +407,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [ZGMF-600
-    GuAIZ](https://zh.wikipedia.org/wiki/ZGMF-600_GuAIZ "wikilink")（）（盖茲）
+  - [ZGMF-600 GuAIZ](https://zh.wikipedia.org/wiki/ZGMF-600_GuAIZ "wikilink")（）（盖茲）
 
 <!-- end list -->
 
@@ -518,8 +425,7 @@ Unilateral Numerous Dominating AMmunition**。
 <!-- end list -->
 
   -
-    Z.A.F.T.量產型MS，是上次大戰末期投入戰場的盖茲改良型。原本在第二次雅金·杜威攻防戰期間已經測試完成，不過到了戰後才正式量產。防護盾的光束刃產生器縮減成一具，腰部的伸縮式制敵鉗更改為「豚式IX」（Pollux
-    IX）磁軌砲。配色則從綠色改成類似基恩的灰色。
+    Z.A.F.T.量產型MS，是上次大戰末期投入戰場的盖茲改良型。原本在第二次雅金·杜威攻防戰期間已經測試完成，不過到了戰後才正式量產。防護盾的光束刃產生器縮減成一具，腰部的伸縮式制敵鉗更改為「豚式IX」（Pollux IX）磁軌砲。配色則從綠色改成類似基恩的灰色。
 
 ### 第三代多用途量产MS
 
@@ -537,21 +443,11 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [ZGMF-1000 Zaku
-    Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\) "wikilink")（）
-    薩克戰士
-      - [ZGMF-1000/A1 Gunner Zaku
-        Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#重砲裝備_Gunner_Wizard "wikilink")
-        砲擊型薩克戰士
-  - [ZGMF-1001 Zaku
-    Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\) "wikilink")（）
-    薩克幽靈
-      - [ZGMF-1001/K Slash Zaku
-        Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#斬擊裝備_Slash_Wizard "wikilink")
-        斬擊型薩克幽靈
-      - [ZGMF-1001/M Blaze Zaku
-        Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard "wikilink")
-        瞬發型薩克幽靈
+  - [ZGMF-1000 Zaku Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\) "wikilink")（） 薩克戰士
+      - [ZGMF-1000/A1 Gunner Zaku Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#重砲裝備_Gunner_Wizard "wikilink") 砲擊型薩克戰士
+  - [ZGMF-1001 Zaku Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\) "wikilink")（） 薩克幽靈
+      - [ZGMF-1001/K Slash Zaku Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#斬擊裝備_Slash_Wizard "wikilink") 斬擊型薩克幽靈
+      - [ZGMF-1001/M Blaze Zaku Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard "wikilink") 瞬發型薩克幽靈
   - ZGM-1000/R4（）戰域通信指揮統制型薩克
 
 <!-- end list -->
@@ -579,9 +475,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [ZGMF-X2000 Gouf
-    Ignited](https://zh.wikipedia.org/wiki/ZGMF-X2000_Gouf_Ignited "wikilink")（）
-    古夫烈燄型試作機
+  - [ZGMF-X2000 Gouf Ignited](https://zh.wikipedia.org/wiki/ZGMF-X2000_Gouf_Ignited "wikilink")（） 古夫烈燄型試作機
 
 <!-- end list -->
 
@@ -591,9 +485,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 <!-- end list -->
 
-  - [ZGMF-2000 Gouf
-    Ignited](https://zh.wikipedia.org/wiki/ZGMF-2000_Gouf_Ignited "wikilink")（）
-    古夫烈燄型
+  - [ZGMF-2000 Gouf Ignited](https://zh.wikipedia.org/wiki/ZGMF-2000_Gouf_Ignited "wikilink")（） 古夫烈燄型
 
 <!-- end list -->
 
@@ -623,13 +515,7 @@ Unilateral Numerous Dominating AMmunition**。
 
 ### 试作型
 
-Z.A.F.T.及克莱因派开发的核能机体（型号后缀为A）的操作系统开机画面显示的名称为**Generation : Unsubdued
-Nuclear Drive/Assault Module**。采用重氫供能的ZGMF-X23S Saviour、ZGMF-X24S
-Chaos、ZGMF-X31S Abyss、ZGMF-X56S Impulse、ZGMF-X88S
-Gaia的操作系统开机画面显示的名称为**Generation
-Unrestricted Network Drive/Assault Module**。采用核．重氫混合供能的ZGMF-X42S
-Destiny和ZGMF-X666S Legend的操作系统开机画面显示的名称为**Gunnery United
-Nuclear-Duetrion Advanced Maneuver system**。
+Z.A.F.T.及克莱因派开发的核能机体（型号后缀为A）的操作系统开机画面显示的名称为**Generation : Unsubdued Nuclear Drive/Assault Module**。采用重氫供能的ZGMF-X23S Saviour、ZGMF-X24S Chaos、ZGMF-X31S Abyss、ZGMF-X56S Impulse、ZGMF-X88S Gaia的操作系统开机画面显示的名称为**Generation Unrestricted Network Drive/Assault Module**。采用核．重氫混合供能的ZGMF-X42S Destiny和ZGMF-X666S Legend的操作系统开机画面显示的名称为**Gunnery United Nuclear-Duetrion Advanced Maneuver system**。
 
 #### 第一世代ZGMF-X系列试作MS
 
@@ -638,15 +524,12 @@ Nuclear-Duetrion Advanced Maneuver system**。
 <!-- end list -->
 
   -
-    外傳漫畫「SEED X
-    Astray」中登場的機體，是作為MS搭載核子動力爐的試驗機，雖然是鋼彈型機種，但骨架則是沿用自蓋茲，在完成測試後就遭到解體，之後在馬爾奇歐導師的私下交涉下被運出Z.A.F.T，繼而引發後續的事件。
+    外傳漫畫「SEED X Astray」中登場的機體，是作為MS搭載核子動力爐的試驗機，雖然是鋼彈型機種，但骨架則是沿用自蓋茲，在完成測試後就遭到解體，之後在馬爾奇歐導師的私下交涉下被運出Z.A.F.T，繼而引發後續的事件。
     配備有全方位攻擊武器「鯊式龍騎兵」，能夠作為有線式使用，也能無線遙控操作，另外還有存在於設計圖階段的多用途有線式砲塔追加裝備，其完全裝備的形態被羅·裘爾另外命名為「X異端鋼彈」\[15\]。
 
 <!-- end list -->
 
-  - [ZGMF-X09A
-    Justice](https://zh.wikipedia.org/wiki/ZGMF-X09A_Justice "wikilink")（）
-    正義鋼彈
+  - [ZGMF-X09A Justice](https://zh.wikipedia.org/wiki/ZGMF-X09A_Justice "wikilink")（） 正義鋼彈
   - [ZGMF-X10A Freedom](../Page/ZGMF-X10A_Freedom.md "wikilink")（） 自由鋼彈
   - ZGMF-X11A Regenerate（） 重生鋼彈
 
@@ -689,9 +572,7 @@ Nuclear-Duetrion Advanced Maneuver system**。
 
 <!-- end list -->
 
-  - [ZGMF-X13A
-    Providence](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")（）
-    天帝鋼彈
+  - [ZGMF-X13A Providence](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")（） 天帝鋼彈
 
 #### 第二世代ZGMF-X系列試作MS
 
@@ -700,36 +581,25 @@ Nuclear-Duetrion Advanced Maneuver system**。
 <!-- end list -->
 
   -
-    為ZGMF-X23S
-    Saviour的原型機，後因故被讓渡於歐普軍，P.L.A.N.T.的軍械庫一號發生「第二世代系列」MS強奪事件時仍在歐普而逃過一劫。不過，開戰前被歐普當作禮物移交給地球聯合軍特務情報局手中，並被賦與新的型式番號「RGX-04」。
+    為ZGMF-X23S Saviour的原型機，後因故被讓渡於歐普軍，P.L.A.N.T.的軍械庫一號發生「第二世代系列」MS強奪事件時仍在歐普而逃過一劫。不過，開戰前被歐普當作禮物移交給地球聯合軍特務情報局手中，並被賦與新的型式番號「RGX-04」。
 
 <!-- end list -->
 
-  - [ZGMF-X23S
-    Saviour](https://zh.wikipedia.org/wiki/ZGMF-X23S_Saviour "wikilink")（）救星鋼彈
-  - [ZGMF-X24S
-    Chaos](https://zh.wikipedia.org/wiki/ZGMF-X24S_Chaos "wikilink")（）
-    渾沌鋼彈
-  - [ZGMF-X31S
-    Abyss](https://zh.wikipedia.org/wiki/ZGMF-X31S_Abyss "wikilink")（）
-    深淵鋼彈
+  - [ZGMF-X23S Saviour](https://zh.wikipedia.org/wiki/ZGMF-X23S_Saviour "wikilink")（）救星鋼彈
+  - [ZGMF-X24S Chaos](https://zh.wikipedia.org/wiki/ZGMF-X24S_Chaos "wikilink")（） 渾沌鋼彈
+  - [ZGMF-X31S Abyss](https://zh.wikipedia.org/wiki/ZGMF-X31S_Abyss "wikilink")（） 深淵鋼彈
   - [ZGMF-X56S Impulse](../Page/ZGMF-X56S_Impulse.md "wikilink")（） 脈衝鋼彈
   - [ZGMF-X88S Gaia](../Page/ZGMF-X88S_Gaia.md "wikilink")（） 蓋亞鋼彈
 
 #### 第三世代ZGMF-X系列試作MS
 
   - [ZGMF-X42S Destiny](../Page/ZGMF-X42S_Destiny.md "wikilink")（） 命運鋼彈
-  - [ZGMF-X666S
-    Legend](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")（）
-    傳說鋼彈
+  - [ZGMF-X666S Legend](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")（） 傳說鋼彈
 
 ##### 克莱因派
 
-  - [ZGMF-X19A Infinite
-    Justice](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")（）
-    無限正義鋼彈
-  - [ZGMF-X20A Strike
-    Freedom](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink") （） 攻擊自由鋼彈
+  - [ZGMF-X19A Infinite Justice](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")（） 無限正義鋼彈
+  - [ZGMF-X20A Strike Freedom](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink") （） 攻擊自由鋼彈
 
 ## [歐普軍](https://zh.wikipedia.org/wiki/歐普軍 "wikilink")
 
@@ -744,14 +614,12 @@ Nuclear-Duetrion Advanced Maneuver system**。
 
 <!-- end list -->
 
-  - 為確保[歐普的自我中立的地位](https://zh.wikipedia.org/wiki/歐普 "wikilink")，也確保不讓其它國家攻陷，歐普國必需要有一定數量的軍事武器保護，因此由曙光社開發**MBF-M1
-    M1 Astray**。\[18\]
+  - 為確保[歐普的自我中立的地位](https://zh.wikipedia.org/wiki/歐普 "wikilink")，也確保不讓其它國家攻陷，歐普國必需要有一定數量的軍事武器保護，因此由曙光社開發**MBF-M1 M1 Astray**。\[18\]
 
 :\*與[地球聯合軍的](https://zh.wikipedia.org/wiki/地球聯合軍 "wikilink")[X系列相同](https://zh.wikipedia.org/wiki/X系列 "wikilink")，擁有光束武器。
 
   - 硬體成功開發後，一直停留在[操作系統開發](https://zh.wikipedia.org/wiki/操作系統 "wikilink")。最初使用「海里歐波里斯」設計的測試版作業系統，而經過多次更新也未有很大的進展，只是操縱MS作出基本的活動也很費力。
-  - 之後歐普提出以作業系統開發及[-{zh-hans:强袭高達;zh-hk:突擊高達;zh-tw:攻擊鋼彈;}-的戰鬥資料以作為](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")[大天使號及](../Page/LCAM-01XA_Archangel.md "wikilink")[-{zh-hans:强袭高達;zh-hk:突擊高達;zh-tw:攻擊鋼彈;}-的補給交換條件](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")，而大天使號方面亦答應此條件。因此，由[煌·大和為](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")**MBF-M1
-    M1 Astray**開發一套完整的作業系統給自然人駕駛者。
+  - 之後歐普提出以作業系統開發及[-{zh-hans:强袭高達;zh-hk:突擊高達;zh-tw:攻擊鋼彈;}-的戰鬥資料以作為](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")[大天使號及](../Page/LCAM-01XA_Archangel.md "wikilink")[-{zh-hans:强袭高達;zh-hk:突擊高達;zh-tw:攻擊鋼彈;}-的補給交換條件](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")，而大天使號方面亦答應此條件。因此，由[煌·大和為](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")**MBF-M1 M1 Astray**開發一套完整的作業系統給自然人駕駛者。
 
 <!-- end list -->
 
@@ -786,14 +654,11 @@ Nuclear-Duetrion Advanced Maneuver system**。
   - 「豪豬陣」75mm 多槍管 CIWS × 2
   - 70式光束軍刀 × 1
   - 71式光束步槍 × 1
-  - EF-24R「[伯勞鳥](https://zh.wikipedia.org/wiki/伯勞科 "wikilink")」飛行旋轉翼 ×
-    1（裝設於背部）\[21\]
+  - EF-24R「[伯勞鳥](https://zh.wikipedia.org/wiki/伯勞科 "wikilink")」飛行旋轉翼 × 1（裝設於背部）\[21\]
 
 ### 第二代泛用量產MS
 
-  - [MVF-M11C
-    Murasame](https://zh.wikipedia.org/wiki/MVF-M11C_Murasame "wikilink")
-    村雨/ MVF-M11C Murasame Reconnaissance Type 村雨偵察型
+  - [MVF-M11C Murasame](https://zh.wikipedia.org/wiki/MVF-M11C_Murasame "wikilink") 村雨/ MVF-M11C Murasame Reconnaissance Type 村雨偵察型
 
 <!-- end list -->
 
@@ -854,8 +719,7 @@ Nuclear-Duetrion Advanced Maneuver system**。
 
 ### 試作MS
 
-  - [MBF-02 Strike
-    Rouge](../Page/MBF-02_Strike_Rouge.md "wikilink")\[22\] 嫣紅攻擊鋼彈
+  - [MBF-02 Strike Rouge](../Page/MBF-02_Strike_Rouge.md "wikilink")\[22\] 嫣紅攻擊鋼彈
 
   - 曉
 
@@ -868,8 +732,7 @@ Nuclear-Duetrion Advanced Maneuver system**。
 
 <!-- end list -->
 
-  - 番號：ORB-01『Akatsuki』General Unilateral Neurolink Dispersive Autonomic
-    Maneuver Synthesis System
+  - 番號：ORB-01『Akatsuki』General Unilateral Neurolink Dispersive Autonomic Maneuver Synthesis System
   - 駕駛：卡佳里·由拉·阿斯哈 → 尼歐·羅阿諾克（穆·拉·弗拉加）
   - 建造：歐普
   - 隸屬：歐普、[大天使號](https://zh.wikipedia.org/wiki/大天使號 "wikilink")
@@ -899,8 +762,7 @@ Nuclear-Duetrion Advanced Maneuver system**。
 
   - 72D5式光束步槍「百雷」
 
-本機開發計畫凍結後所開發的武裝，與攻擊鋼彈所裝備的57mm
-高能量光束步槍實際上是同系統的，共通零件也很多；另各部有進行改良與若干程度的大型化。於槍管下方設置有光束劍的接點，能夠將光束劍裝上槍管當成光束刺刀來使用。
+本機開發計畫凍結後所開發的武裝，與攻擊鋼彈所裝備的57mm 高能量光束步槍實際上是同系統的，共通零件也很多；另各部有進行改良與若干程度的大型化。於槍管下方設置有光束劍的接點，能夠將光束劍裝上槍管當成光束刺刀來使用。
 
   - 試製71式防盾
 
@@ -916,8 +778,7 @@ Nuclear-Duetrion Advanced Maneuver system**。
 
   - 宇宙空間用背包「不知火」
 
-大氣圈外專用的宇宙戰組件，搭載與龍騎兵相似但完全不同的「M531R
-誘導機動光束砲塔系統」，從其性能來看，本組件的開發是在本機開發計畫凍結後進行的。\[4\]。
+大氣圈外專用的宇宙戰組件，搭載與龍騎兵相似但完全不同的「M531R 誘導機動光束砲塔系統」，從其性能來看，本組件的開發是在本機開發計畫凍結後進行的。\[4\]。
 
   - M531R 誘導機動光束砲塔系統
 
@@ -925,26 +786,18 @@ Nuclear-Duetrion Advanced Maneuver system**。
 
 ## DSSD（深宇宙探察开发机构）
 
-GSX-401FW Stargazer的操作系统开机画面显示的名称为**Guider UNmanned Deployment Autonomic
-Manlpulation**。
+GSX-401FW Stargazer的操作系统开机画面显示的名称为**Guider UNmanned Deployment Autonomic Manlpulation**。
 
   - GSX-401FW Stargazer 观星者高达
 
 <!-- end list -->
 
   -
-    「GSX-401 FW」是由调整者中立组织「Deep Space Survey and Development
-    Organization（深宇宙探查开发机构）」独自开发的MS。对地球联合及PLANT双方保持中立的DSSD，以探察、开发火星以外轨道宙域为目的而开发了这架非战斗用MS。观星者的最大特征是搭载了被称为“Voiture
-    Lumiere”的行星间推进系统及由于具备了高度的自律性而使高水准的无人运用成为可能。本机及其运用支援系统被统称为“Guider
-    UNmanned Deployment Autonomic
-    Manipulation（无人、自律运用展开教导机）”，首字母的缩写为“GUNDAM”。
-    背部所搭载的名为“Voiture
-    Lumiere”的行星间推进器，是装备于以能够进出广阔的太阳系宙域为目的而开发的观星者能够单独进行行星间空间航行所使用的划时代的推进系统。如同它的法语名称“光辉的传递者”所表示的那样，本系统根据可变装备机构能够从自由变形成环状的构造体那里，获得伴随着强烈发光现象的长时间持续的高G推力。
-    由于该机体主要是为了进行探索行动而并非为战斗而开发的，机体本身并无装备武装。紧急状况下可以装备「D.S.S.D」的防卫用保安机「UT-1D
-    Civilian Astray DSSD Custom 民用型异端DSSD制式」常用的「KSM71/J光束步枪」。
+    「GSX-401 FW」是由调整者中立组织「Deep Space Survey and Development Organization（深宇宙探查开发机构）」独自开发的MS。对地球联合及PLANT双方保持中立的DSSD，以探察、开发火星以外轨道宙域为目的而开发了这架非战斗用MS。观星者的最大特征是搭载了被称为“Voiture Lumiere”的行星间推进系统及由于具备了高度的自律性而使高水准的无人运用成为可能。本机及其运用支援系统被统称为“Guider UNmanned Deployment Autonomic Manipulation（无人、自律运用展开教导机）”，首字母的缩写为“GUNDAM”。
+    背部所搭载的名为“Voiture Lumiere”的行星间推进器，是装备于以能够进出广阔的太阳系宙域为目的而开发的观星者能够单独进行行星间空间航行所使用的划时代的推进系统。如同它的法语名称“光辉的传递者”所表示的那样，本系统根据可变装备机构能够从自由变形成环状的构造体那里，获得伴随着强烈发光现象的长时间持续的高G推力。
+    由于该机体主要是为了进行探索行动而并非为战斗而开发的，机体本身并无装备武装。紧急状况下可以装备「D.S.S.D」的防卫用保安机「UT-1D Civilian Astray DSSD Custom 民用型异端DSSD制式」常用的「KSM71/J光束步枪」。
     虽然该机体不是为了投入战斗而开发的，但却搭载了许多当代领先的高机动性科技，例如先进的AI系统，因而引起了众军事集团的注意。在剧集中地球联邦军的「第81独立机动群——幻痛」曾试图通过武力手段抢夺此机体。
-    该机体为探索行动采用了新开发的操作系统。名为「Guider.UNmanned.Deployment.Autonomic.Manipulation（无人・自律运用展开教导机）」，顾名思义，机体可在无人操作的情况下自行进行探索宇宙的行动。在有驾驶员参与的情况下，「GSX-401
-    FW」采用的是双座复合型驾驶舱，可供两名驾驶员同时对机体进行指令操纵。无人搭乘自主是运动时也可转换成别的零件。
+    该机体为探索行动采用了新开发的操作系统。名为「Guider.UNmanned.Deployment.Autonomic.Manipulation（无人・自律运用展开教导机）」，顾名思义，机体可在无人操作的情况下自行进行探索宇宙的行动。在有驾驶员参与的情况下，「GSX-401 FW」采用的是双座复合型驾驶舱，可供两名驾驶员同时对机体进行指令操纵。无人搭乘自主是运动时也可转换成别的零件。
 
 <!-- end list -->
 
@@ -1038,10 +891,8 @@ Manlpulation**。
 
 ## 参考书籍
 
-  - 《機動戦士ガンダムSEED MSエンサイクロペディア》（《MOBILE SUIT -{GUNDAM}- SEED MS
-    ENCYCLOPEDIA》）
-  - 《機動戦士ガンダムSEED DESTINY MSエンサイクロペディア》（《MOBILE SUIT -{GUNDAM}- SEED
-    DESTINY MS ENCYCLOPEDIA》）
+  - 《機動戦士ガンダムSEED MSエンサイクロペディア》（《MOBILE SUIT -{GUNDAM}- SEED MS ENCYCLOPEDIA》）
+  - 《機動戦士ガンダムSEED DESTINY MSエンサイクロペディア》（《MOBILE SUIT -{GUNDAM}- SEED DESTINY MS ENCYCLOPEDIA》）
 
 ## 外部链接
 
@@ -1069,15 +920,13 @@ Manlpulation**。
 
 10. 此即「安迪米翁之鷹」稱號的由來
 
-11. FEMWS为**F**ighter **E**xperiment **M**aneuver in **W**ater &
-    **S**urface的缩写
+11. FEMWS为**F**ighter **E**xperiment **M**aneuver in **W**ater & **S**urface的缩写
 
 12. WASP为**W**ater **A**dapted **S**earch & **P**atrol Type的缩写
 
 13. DEEP为**D**irectional **E**nergy **E**mission　ex**P**erimental 的缩写
 
-14. Raven为**R**econnaissance **A**ttack ad**V**anced **E**lectronic
-    i**N**stllation的缩写
+14. Raven为**R**econnaissance **A**ttack ad**V**anced **E**lectronic i**N**stllation的缩写
 
 15. MS本身是殺人的兵器，但駕駛員普雷亞卻是希望用勇士鋼彈守護人，故羅·裘爾認為這符合「異端」的意涵而命名之
 

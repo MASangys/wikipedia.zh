@@ -1,9 +1,8 @@
-**朴秀英**\[1\]\[2\]\[3\]（，，），藝名**Joy**（，），[韩国女](https://zh.wikipedia.org/wiki/韩国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為[SM娛樂旗下的五人女子組合](../Page/SM娛樂.md "wikilink")[Red
-Velvet的成員](../Page/Red_Velvet.md "wikilink")。
+**朴秀英**\[1\]\[2\]\[3\]（，，），藝名**Joy**（，），[韩国女](https://zh.wikipedia.org/wiki/韩国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員](../Page/Red_Velvet.md "wikilink")。
 
 ## 個人生活
 
-**朴秀英**在1996年9月3日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[濟州特別自治道](../Page/濟州特別自治道.md "wikilink")，後搬至[首爾特別市](../Page/首爾.md "wikilink")[道峰區](https://zh.wikipedia.org/wiki/道峰區 "wikilink")。家中有兩個妹妹，排行老大\[4\]。
+**朴秀英**在1996年9月3日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[濟州特別自治道](../Page/濟州特別自治道.md "wikilink")，後搬至[首爾](../Page/首爾.md "wikilink")特別市[道峰區](https://zh.wikipedia.org/wiki/道峰區 "wikilink")。家中有兩個妹妹，排行老大\[4\]。
 
 曾就讀于首爾新化初等學校、新昌中學、鹽光高等學校后轉讀首爾公演藝術高中。2015年2月，畢業于[首爾公演藝術高中](https://zh.wikipedia.org/wiki/首爾公演藝術高中 "wikilink")。
 
@@ -11,40 +10,26 @@ Velvet的成員](../Page/Red_Velvet.md "wikilink")。
 
 ### 出道前
 
-**朴秀英**於2012年透過[SM娛樂舉辦的全球徵選](../Page/SM娛樂.md "wikilink")（首爾）而成為練習生，同時具備可愛的外貌和歌唱舞蹈等多方面才能\[5\]\[6\]。此外，她也是在[Red
-Velvet組合中唯一沒有透過](../Page/Red_Velvet.md "wikilink")[SM
-ROOKIES亮相的成員](../Page/SM_ROOKIES.md "wikilink")。練習生時長2年半。
+**朴秀英**於2012年透過[SM娛樂](../Page/SM娛樂.md "wikilink")舉辦的全球徵選（首爾）而成為練習生，同時具備可愛的外貌和歌唱舞蹈等多方面才能\[5\]\[6\]。此外，她也是在[Red Velvet組合中唯一沒有透過](../Page/Red_Velvet.md "wikilink")[SM ROOKIES亮相的成員](../Page/SM_ROOKIES.md "wikilink")。練習生時長2年半。
 
 2014年8月1日，以**Joy**為藝名，與[Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/姜瑟琪 "wikilink")、[Wendy在KBS](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")2《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》正式出道。
 
 ### 出道後
 
 2014年8月1日，以Joy為藝名，與Irene、Seulgi、Wendy以首張數位單曲《Happiness》在KBS2《音樂銀行》正式出道。隊內擔當為領Rapper及副唱。
-2015年3月18日，成員[Yeri加入Red](https://zh.wikipedia.org/wiki/金藝琳_\(1999年出生\) "wikilink")
-Velvet，以五人組合出發，定位轉成第三主唱\[7\]。6月20日，參演綜藝節目《[我們結婚了
-S4](../Page/我們結婚了.md "wikilink")》與[BTOB成員](../Page/BTOB.md "wikilink")[陸星材配對合稱](../Page/陸星材.md "wikilink")「[星宿夫婦](https://zh.wikipedia.org/wiki/我們結婚了_\(第四季\)#星宿夫婦 "wikilink")」，再次擴大知名度。\[8\]\[9\]12月29日，於《[MBC演藝大賞](https://zh.wikipedia.org/wiki/MBC演藝大賞 "wikilink")》以《[我們結婚了
-S4](../Page/我們結婚了.md "wikilink")》獲得「New
-Star賞」、和[陸星材共同獲得](../Page/陸星材.md "wikilink")「最佳情侶賞」。\[10\]
+2015年3月18日，成員[Yeri加入Red](https://zh.wikipedia.org/wiki/金藝琳_\(1999年出生\) "wikilink") Velvet，以五人組合出發，定位轉成第三主唱\[7\]。6月20日，參演綜藝節目《[我們結婚了 S4](../Page/我們結婚了.md "wikilink")》與[BTOB](../Page/BTOB.md "wikilink")成員[陸星材](../Page/陸星材.md "wikilink")配對合稱「[星宿夫婦](https://zh.wikipedia.org/wiki/我們結婚了_\(第四季\)#星宿夫婦 "wikilink")」，再次擴大知名度。\[8\]\[9\]12月29日，於《[MBC演藝大賞](https://zh.wikipedia.org/wiki/MBC演藝大賞 "wikilink")》以《[我們結婚了 S4](../Page/我們結婚了.md "wikilink")》獲得「New Star賞」、和[陸星材](../Page/陸星材.md "wikilink")共同獲得「最佳情侶賞」。\[10\]
 
-2016年4月16日，與陸星材以夫婦名義推出合作單曲《稚愛（어린애）》，並參與歌曲填詞
-\[11\]\[12\]。5月7日，與陸星材從《我們結婚了S4》中下車，結束長達11個月的夫妻假想生活\[13\]\[14\]\[15\]。11月3日，與[2AM前輩](../Page/2AM.md "wikilink")[瑟雍合作推出](https://zh.wikipedia.org/wiki/瑟雍 "wikilink")[SM
-STATION的第](../Page/SM_STATION.md "wikilink")39週單曲《Always In My
-Heart》\[16\]\[17\]。12月18日，與[NCT的](../Page/NCT.md "wikilink")[道英在](../Page/道英.md "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》演繹《First
-Christmas》，為人氣歌謠特別企劃。
+2016年4月16日，與陸星材以夫婦名義推出合作單曲《稚愛（어린애）》，並參與歌曲填詞 \[11\]\[12\]。5月7日，與陸星材從《我們結婚了S4》中下車，結束長達11個月的夫妻假想生活\[13\]\[14\]\[15\]。11月3日，與[2AM](../Page/2AM.md "wikilink")前輩[瑟雍合作推出](https://zh.wikipedia.org/wiki/瑟雍 "wikilink")[SM STATION的第](../Page/SM_STATION.md "wikilink")39週單曲《Always In My Heart》\[16\]\[17\]。12月18日，與[NCT](../Page/NCT.md "wikilink")的[道英](../Page/道英.md "wikilink")在[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》演繹《First Christmas》，為人氣歌謠特別企劃。
 
-2017年3月，在個人處女作《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》中
-飾演女主角**尹素琳**，搭檔[李玹雨](../Page/李玹雨.md "wikilink")，正式作爲演員出道\[18\]\[19\]\[20\]。
+2017年3月，在個人處女作《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》中 飾演女主角**尹素琳**，搭檔[李玹雨](../Page/李玹雨.md "wikilink")，正式作爲演員出道\[18\]\[19\]\[20\]。
 
-2018年1月7日，擔任[JTBC](../Page/JTBC.md "wikilink")《[Two Yoo Project - Sugar
-Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》固定主持之一。
+2018年1月7日，擔任[JTBC](../Page/JTBC.md "wikilink")《[Two Yoo Project - Sugar Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》固定主持之一。
 
 2018年1月，出演[MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》，飾演女主角殷泰熙，搭檔[禹棹煥](../Page/禹棹煥.md "wikilink")\[21\]。
 
 2018年9月15日，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟作為固定成員共同出演Lifetime綜藝節目](https://zh.wikipedia.org/wiki/程瀟 "wikilink")《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》\[22\]。
 
-2019年4月5日，擔任[On
-Style](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Get it
-beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
+2019年4月5日，擔任[On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Get it beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 
 ## 音樂作品
 
@@ -113,14 +98,14 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>3月27日</p></td>
-<td><p>《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者OST</a> Part.2》</p></td>
+<td><p>《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者</a>OST Part.2》</p></td>
 <td><p>不像話(OMG</p></td>
 <td><p>Happing to me)<br />
 （말도 안돼(OMG</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月18日</p></td>
-<td><p>《<a href="../Page/今天的偵探.md" title="wikilink">今天的偵探OST</a> Part.6》</p></td>
+<td><p>《<a href="../Page/今天的偵探.md" title="wikilink">今天的偵探</a>OST Part.6》</p></td>
 <td><p>名為我的夢（나라는 꿈）</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Mark_(1999年)" title="wikilink">Mark</a></p></td>
 <td></td>
@@ -274,7 +259,7 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 |            |                |                                                                          |
 | ---------- | -------------- | ------------------------------------------------------------------------ |
 | **日期**     | **活動名稱**       | **備註**                                                                   |
-| 2017年9月30日 | Fever Festival | 與[金信英](../Page/金信英.md "wikilink")、[Haha共同主持](../Page/Haha.md "wikilink") |
+| 2017年9月30日 | Fever Festival | 與[金信英](../Page/金信英.md "wikilink")、[Haha](../Page/Haha.md "wikilink")共同主持 |
 
 ## 其他
 
@@ -317,8 +302,7 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 
 ## 代言
 
-  - <small>所屬團體之共同代言，請參閱 [Red
-    Velvet\#代言](https://zh.wikipedia.org/wiki/Red_Velvet#代言 "wikilink")</small>
+  - <small>所屬團體之共同代言，請參閱 [Red Velvet\#代言](https://zh.wikipedia.org/wiki/Red_Velvet#代言 "wikilink")</small>
 
 ### 品牌
 
@@ -353,8 +337,7 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 ### 大項頒獎禮獎項
 
   -
-    <small>僅列出個人獲得之獎項，團體獎項請參閱 [Red
-    Velvet](../Page/Red_Velvet.md "wikilink") \#獎項 </small>
+    <small>僅列出個人獲得之獎項，團體獎項請參閱 [Red Velvet](../Page/Red_Velvet.md "wikilink") \#獎項 </small>
 
 <table>
 <tbody>
@@ -463,16 +446,7 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 
-[Category:Red_Velvet成員](https://zh.wikipedia.org/wiki/Category:Red_Velvet成員 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink")
-[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink")
-[Category:朴姓](https://zh.wikipedia.org/wiki/Category:朴姓 "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
-[Category:濟州特別自治道出身人物](https://zh.wikipedia.org/wiki/Category:濟州特別自治道出身人物 "wikilink")
+[Category:Red_Velvet成員](https://zh.wikipedia.org/wiki/Category:Red_Velvet成員 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:韓國電影演員](https://zh.wikipedia.org/wiki/Category:韓國電影演員 "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:朴姓](https://zh.wikipedia.org/wiki/Category:朴姓 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:濟州特別自治道出身人物](https://zh.wikipedia.org/wiki/Category:濟州特別自治道出身人物 "wikilink")
 
 1.
 2.
@@ -481,11 +455,9 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 5.
 6.
 7.
-8.  [「小可愛」情侶加入《我結》
-    陸星材的新娘就是她！](http://ent.ltn.com.tw/news/breakingnews/1337585)
+8.  [「小可愛」情侶加入《我結》 陸星材的新娘就是她！](http://ent.ltn.com.tw/news/breakingnews/1337585)
 9.
-10. [2015MBC放送演艺藝大賞
-    "星宿夫婦"陸星材Joy獲最佳情侣獎](http://news.yule.com.cn/html/201512/212329.html)
+10. [2015MBC放送演艺藝大賞 "星宿夫婦"陸星材Joy獲最佳情侣獎](http://news.yule.com.cn/html/201512/212329.html)
 11.
 12.
 13.

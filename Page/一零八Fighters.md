@@ -1,8 +1,8 @@
-**《一零八Fighters》**是一部以[中國名著](../Page/中國.md "wikilink")《[水滸傳](https://zh.wikipedia.org/wiki/水滸傳 "wikilink")》為藍本的[香港漫畫](../Page/香港漫畫.md "wikilink"),作者為司徒劍僑。故事講述在[北宋期間](../Page/北宋.md "wikilink"),一群空有大志和本領的奇人異士，因為時代敗壞，生活逼人，苦無向上流動機會，最後被逼落草為寇的一頁頁傳奇故事。\[1\]漫畫着重表達了在利益當前,[道德和仁義被逐漸遺忘的世道](../Page/道德.md "wikilink"),尋覓人性中更有價值的東西如友情、義氣、熱血......
+**《一零八Fighters》**是一部以[中國](../Page/中國.md "wikilink")名著《[水滸傳](https://zh.wikipedia.org/wiki/水滸傳 "wikilink")》為藍本的[香港漫畫](../Page/香港漫畫.md "wikilink"),作者為司徒劍僑。故事講述在[北宋](../Page/北宋.md "wikilink")期間,一群空有大志和本領的奇人異士，因為時代敗壞，生活逼人，苦無向上流動機會，最後被逼落草為寇的一頁頁傳奇故事。\[1\]漫畫着重表達了在利益當前,[道德](../Page/道德.md "wikilink")和仁義被逐漸遺忘的世道,尋覓人性中更有價值的東西如友情、義氣、熱血......
 
 ## 故事大綱
 
-在故事中，根據小說**《水滸傳》**原來的設定，**[天罡三十六星](https://zh.wikipedia.org/wiki/天罡三十六星 "wikilink")**人馬分成三派，活在平原城市的流寇，聚成「**綠林好漢**」；長居高山深澤之匪類，結成「**八大山人**」；游在大海湖泊之好漢，自稱「**七海梟雄**」！而**[地煞七十二星](https://zh.wikipedia.org/wiki/地煞七十二星 "wikilink")**則是[武林中最可怕的魔教成員](https://zh.wikipedia.org/wiki/武林 "wikilink")，三十六天罡星三派人馬本來互相爭鬥，但在及時雨[宋江穿針引線下](../Page/宋江.md "wikilink")，三派將會聯成一線，共同對抗七十二地煞星的挑戰。\[2\]
+在故事中，根據小說**《水滸傳》**原來的設定，**[天罡三十六星](https://zh.wikipedia.org/wiki/天罡三十六星 "wikilink")**人馬分成三派，活在平原城市的流寇，聚成「**綠林好漢**」；長居高山深澤之匪類，結成「**八大山人**」；游在大海湖泊之好漢，自稱「**七海梟雄**」！而**[地煞七十二星](https://zh.wikipedia.org/wiki/地煞七十二星 "wikilink")**則是[武林中最可怕的魔教成員](https://zh.wikipedia.org/wiki/武林 "wikilink")，三十六天罡星三派人馬本來互相爭鬥，但在及時雨[宋江](../Page/宋江.md "wikilink")穿針引線下，三派將會聯成一線，共同對抗七十二地煞星的挑戰。\[2\]
 
 ## 主要人物
 
@@ -54,11 +54,7 @@
 
 <references/>
 
-[Category:香港漫畫作品](https://zh.wikipedia.org/wiki/Category:香港漫畫作品 "wikilink")
-[Category:武侠漫画](https://zh.wikipedia.org/wiki/Category:武侠漫画 "wikilink")
-[Category:司徒劍僑](https://zh.wikipedia.org/wiki/Category:司徒劍僑 "wikilink")
+[Category:香港漫畫作品](https://zh.wikipedia.org/wiki/Category:香港漫畫作品 "wikilink") [Category:武侠漫画](https://zh.wikipedia.org/wiki/Category:武侠漫画 "wikilink") [Category:司徒劍僑](https://zh.wikipedia.org/wiki/Category:司徒劍僑 "wikilink")
 
-1.  [一零八 - 108 Fighters
-    Facebook/關於](https://www.facebook.com/108fighters/timeline?ref=page_internal)
-2.  [《一零八》雙週刊
-    第1期](https://www.facebook.com/108fighters/posts/808664725820307)
+1.  [一零八 - 108 Fighters Facebook/關於](https://www.facebook.com/108fighters/timeline?ref=page_internal)
+2.  [《一零八》雙週刊 第1期](https://www.facebook.com/108fighters/posts/808664725820307)

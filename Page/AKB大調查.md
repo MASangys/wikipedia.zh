@@ -1,10 +1,10 @@
-《**AKB大調查**》（）是[日本](../Page/日本.md "wikilink")[富士電視台自](../Page/富士電視台.md "wikilink")2014年10月16日至2015年3月25日，於每星期三24:10至24:35（[JST](../Page/日本標準時間.md "wikilink")；相當於星期四凌晨0:10至0:35）播出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，為女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的冠名節目之一](../Page/AKB48.md "wikilink")，由姊妹團體[HKT48成員](../Page/HKT48.md "wikilink")[指原莉乃與資深搞笑藝人](../Page/指原莉乃.md "wikilink")[土田晃之共同主持](../Page/土田晃之.md "wikilink")，是兩人共同主持的另一個AKB48綜藝節目《》播畢之後的同時段後繼作品。
+《**AKB大調查**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")自2014年10月16日至2015年3月25日，於每星期三24:10至24:35（[JST](../Page/日本標準時間.md "wikilink")；相當於星期四凌晨0:10至0:35）播出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，為女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的冠名節目之一，由姊妹團體[HKT48](../Page/HKT48.md "wikilink")成員[指原莉乃](../Page/指原莉乃.md "wikilink")與資深搞笑藝人[土田晃之](../Page/土田晃之.md "wikilink")共同主持，是兩人共同主持的另一個AKB48綜藝節目《》播畢之後的同時段後繼作品。
 
 ## 簡介
 
 《AKB大調查》是一個利用AKB48集團成員人數眾多的優勢，對240名成員進行各種主題不同的問卷調查之後，根據調查結果做成統計排行榜並在節目中披露的節目。節目內容大多在[攝影棚內拍攝](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")，由指原莉乃與土田晃之主持（土田主要為協助角色），四至五名不特定的AKB48集團成員參與演出，另外每集還會根據主題邀請一名資深藝人前來擔任特別來賓，一同在攝影棚內邊收看事前錄製剪輯好、對集團成員們的調查採訪影片，邊進行討論講評。
 
-在排行榜的主題方面，被排名的對象並不限於AKB48集團的成員本身，節目中也曾推出過以周邊工作人員乃至於集團外演藝人員等為對象的排名企畫。另外，除了一般的排行調查與披露外，有時也會推出後續的追蹤特集，例如針對2014年11月20日播出的骯髒偶像排行榜第一名、[SKE48的](../Page/SKE48.md "wikilink")[谷真理佳](../Page/谷真理佳.md "wikilink")，在12月11日播出了打掃自宅的後續特集。
+在排行榜的主題方面，被排名的對象並不限於AKB48集團的成員本身，節目中也曾推出過以周邊工作人員乃至於集團外演藝人員等為對象的排名企畫。另外，除了一般的排行調查與披露外，有時也會推出後續的追蹤特集，例如針對2014年11月20日播出的骯髒偶像排行榜第一名、[SKE48](../Page/SKE48.md "wikilink")的[谷真理佳](../Page/谷真理佳.md "wikilink")，在12月11日播出了打掃自宅的後續特集。
 
 ## 演出人員
 
@@ -17,7 +17,7 @@
       - [NMB48](../Page/NMB48.md "wikilink")
       - [HKT48](../Page/HKT48.md "wikilink")
   - 協力演出
-      - （舞曲團體[TRF成員](../Page/TRF.md "wikilink")）：在第2集的採訪影片中擔任受訪講評。
+      - （舞曲團體[TRF](../Page/TRF.md "wikilink")成員）：在第2集的採訪影片中擔任受訪講評。
 
       - [狩野英孝](../Page/狩野英孝.md "wikilink")（搞笑藝人）：在第3集的採訪影片中擔任過場旁白。
 
@@ -130,6 +130,4 @@
 
   - [節目官方網頁](http://www.fujitv.co.jp/akbshirabe/)（富士電視台）
 
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")

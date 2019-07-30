@@ -1,7 +1,6 @@
-**Jysk北欧睡眠**,
-是[丹麦一家零售连锁企业](https://zh.wikipedia.org/wiki/丹麦 "wikilink")，以销售家居用品为主，如床垫、家具和室内装饰品。JYSK是丹麦最大的跨国零售商，拥有2200家门店，遍布36个国家。在一些地方，甚至创下平均每周新开三家店铺的记录\[1\]
+**Jysk北欧睡眠**, 是[丹麦一家零售连锁企业](https://zh.wikipedia.org/wiki/丹麦 "wikilink")，以销售家居用品为主，如床垫、家具和室内装饰品。JYSK是丹麦最大的跨国零售商，拥有2200家门店，遍布36个国家。在一些地方，甚至创下平均每周新开三家店铺的记录\[1\]
 
-Jysk北欧睡眠的历史要追溯到1979年，在丹麦[奥胡斯市开设了第一家门店](../Page/奥胡斯.md "wikilink")。尽管一些国家的连锁店以特许加盟的形式经营，零售连锁企业仍在拉斯·拉森名下，拉斯·兰森是丹麦最有钱的富豪之一。
+Jysk北欧睡眠的历史要追溯到1979年，在丹麦[奥胡斯](../Page/奥胡斯.md "wikilink")市开设了第一家门店。尽管一些国家的连锁店以特许加盟的形式经营，零售连锁企业仍在拉斯·拉森名下，拉斯·兰森是丹麦最有钱的富豪之一。
 
 ## 历史\[2\]
 
@@ -22,8 +21,7 @@ Jysk北欧睡眠的历史要追溯到1979年，在丹麦[奥胡斯市开设了�
   - 1986年：希默兰半岛高尔夫和乡村俱乐部隶属拉斯•拉森集团旗下。
   - 1986年：法罗群岛第一家JYSK加盟店开业。
   - 1987年：JYSK进军冰岛市场，在科帕沃于尔开设第一家店铺。
-  - 1989年：JYSK
-    成为丹麦残疾人体育协会的主要赞助商，一直延续至今。后来JYSK还成为挪威和瑞典残疾人体育协会的主要赞助商。另外JYSK还赞助了加拿大、立陶宛、拉脱维亚、爱沙尼亚、法罗群岛和冰岛的残疾人体育事业。
+  - 1989年：JYSK 成为丹麦残疾人体育协会的主要赞助商，一直延续至今。后来JYSK还成为挪威和瑞典残疾人体育协会的主要赞助商。另外JYSK还赞助了加拿大、立陶宛、拉脱维亚、爱沙尼亚、法罗群岛和冰岛的残疾人体育事业。
 
 ### 1990-1999
 
@@ -35,8 +33,7 @@ Jysk北欧睡眠的历史要追溯到1979年，在丹麦[奥胡斯市开设了�
 
   - 2000年：拉斯•拉森成为网络家居公司 www.bolia.com 的大股东，在丹麦、挪威、瑞典、德国和中国设有展厅。
   - 2001年：丹麦、瑞典和芬兰将店铺名称统一改为JYSK。
-  - 2001年：JYSK荣获世界野生动物基金会颁发的“Gift to the Earth”奖，表彰
-    JYSK与热带雨林信托基金共同为环保事业做出的杰出贡献，1999年JYSK参与创建了热带雨林信托基金。
+  - 2001年：JYSK荣获世界野生动物基金会颁发的“Gift to the Earth”奖，表彰 JYSK与热带雨林信托基金共同为环保事业做出的杰出贡献，1999年JYSK参与创建了热带雨林信托基金。
   - 2004年：JYSK庆祝成立25周年，拉斯•拉森向所有丹麦家庭寄出240万册他的自传。
   - 2006年：一条街道以拉斯•拉森命名。
   - 2007年：拉斯•拉森荣获丹麦国王费德烈克九世授予的荣誉奖，由亨里克亲王亲自颁奖，表彰拉斯•拉森对丹麦出口行业做出的巨大贡献。
@@ -52,8 +49,7 @@ Jysk北欧睡眠的历史要追溯到1979年，在丹麦[奥胡斯市开设了�
   - 2011年：JYSK正式推出电视频道www.JYSK.tv
   - 2011年：拉斯•拉森名列《福布斯》富豪排行榜第 304 名，根据《福布斯》的计算，拉斯•拉森的总资产为 36 亿美元。
   - 2013年：JYSK在英国已开设七家门店，分别位于曼斯菲尔德、林肯、布莱克本、约克、博尔顿、斯沃德林科特和考文垂。计划于八月在庞蒂弗拉克特开店，九月在伯恩茅斯和格兰瑟姆开店。
-  - 2014年：JYSK在雅加达Taman Anggrek购物中心开店。 [Mall Taman
-    Anggrek](https://zh.wikipedia.org/wiki/Mall_Taman_Anggrek "wikilink")\[3\]
+  - 2014年：JYSK在雅加达Taman Anggrek购物中心开店。 [Mall Taman Anggrek](https://zh.wikipedia.org/wiki/Mall_Taman_Anggrek "wikilink")\[3\]
 
 ## 门店分部
 
@@ -292,10 +288,7 @@ Jysk北欧睡眠的历史要追溯到1979年，在丹麦[奥胡斯市开设了�
 
 ## 外部链接
 
-[Category:Retail_companies_of_Denmark](https://zh.wikipedia.org/wiki/Category:Retail_companies_of_Denmark "wikilink")
-[Category:Purveyors_to_the_Court_of_Denmark](https://zh.wikipedia.org/wiki/Category:Purveyors_to_the_Court_of_Denmark "wikilink")
-[Category:Companies_based_in_Aarhus](https://zh.wikipedia.org/wiki/Category:Companies_based_in_Aarhus "wikilink")
-[Category:Multinational_companies_headquartered_in_Denmark](https://zh.wikipedia.org/wiki/Category:Multinational_companies_headquartered_in_Denmark "wikilink")
+[Category:Retail_companies_of_Denmark](https://zh.wikipedia.org/wiki/Category:Retail_companies_of_Denmark "wikilink") [Category:Purveyors_to_the_Court_of_Denmark](https://zh.wikipedia.org/wiki/Category:Purveyors_to_the_Court_of_Denmark "wikilink") [Category:Companies_based_in_Aarhus](https://zh.wikipedia.org/wiki/Category:Companies_based_in_Aarhus "wikilink") [Category:Multinational_companies_headquartered_in_Denmark](https://zh.wikipedia.org/wiki/Category:Multinational_companies_headquartered_in_Denmark "wikilink")
 
 1.
 2.  <http://www.jysk.com/frontpage/about_jysk/history.htm>

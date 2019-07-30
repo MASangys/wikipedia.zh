@@ -1,5 +1,4 @@
-《**Starting
-Over**》是[太極樂隊的](../Page/太極樂隊.md "wikilink")[雷有輝於](https://zh.wikipedia.org/wiki/雷有輝 "wikilink")2005年所發行的首張個人專輯。
+《**Starting Over**》是[太極樂隊](../Page/太極樂隊.md "wikilink")的[雷有輝於](https://zh.wikipedia.org/wiki/雷有輝 "wikilink")2005年所發行的首張個人專輯。
 
 ## 介紹
 
@@ -9,7 +8,7 @@ Over**》是[太極樂隊的](../Page/太極樂隊.md "wikilink")[雷有輝於](
 
 「爸爸」粵語版寫自己跟兒子的感情，國語版則寫他與父親的疏離與親密，兩者是截然不同的情懷。
 
-而翻唱歌曲都是時下女歌手的作品，如[容祖兒的](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")「心淡」、[鄭融的](../Page/鄭融.md "wikilink")「終生學習」以及[楊千嬅的](../Page/楊千嬅.md "wikilink")「閃靈」等。
+而翻唱歌曲都是時下女歌手的作品，如[容祖兒的](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")「心淡」、[鄭融](../Page/鄭融.md "wikilink")的「終生學習」以及[楊千嬅](../Page/楊千嬅.md "wikilink")的「閃靈」等。
 
 ## 曲目
 
@@ -27,5 +26,4 @@ Over**》是[太極樂隊的](../Page/太極樂隊.md "wikilink")[雷有輝於](
 | 10\. | 爸爸（國）   | [李焯雄](https://zh.wikipedia.org/wiki/李焯雄 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
 | 11\. | 有你在懷（國） | [姚謙](https://zh.wikipedia.org/wiki/姚謙 "wikilink")   | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") | [雷有輝](https://zh.wikipedia.org/wiki/雷有輝 "wikilink") |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink")

@@ -1,6 +1,4 @@
-**双重sinh-Gordon方程**（Double sinh_Gordon
-equation）是一个[非线性偏微分方程](../Page/非线性偏微分方程.md "wikilink")。\[1\].
-\[2\] \[3\]\[4\]\[5\].
+**双重sinh-Gordon方程**（Double sinh_Gordon equation）是一个[非线性偏微分方程](../Page/非线性偏微分方程.md "wikilink")。\[1\]. \[2\] \[3\]\[4\]\[5\].
 
 \(u_{xt}=asinh(u)+bsinh(2u)\)
 
@@ -60,15 +58,8 @@ equation）是一个[非线性偏微分方程](../Page/非线性偏微分方程.
 
 [Category:非线性偏微分方程](https://zh.wikipedia.org/wiki/Category:非线性偏微分方程 "wikilink")
 
-1.  Andrei D. Polyanin, Valentin F. Zaitsev, HANDBOOK OF NONLINEAR
-    PARTIAL DIFFERENTIAL EQUATIONS SECOND EDITION CRC Press, A Chapman &
-    Hall Book ISBN 9781420087239
-2.  Zeitschrift Für Naturforschung: A journal of physical sciences 2004
-    p933-937
-3.  A. M. WAZWAZ Exact solutions to the double sinh-gordon equation by
-    the tanh method and a variable separated ODE method,Computers &
-    Mathematics with Applications,Volume 50, Issues 10–12,
-    November–December 2005, Pages 1685–1696
-4.  Issues in Logic, Operations, and Computational Mathematics and
-    Geometry 2013 p484
+1.  Andrei D. Polyanin, Valentin F. Zaitsev, HANDBOOK OF NONLINEAR PARTIAL DIFFERENTIAL EQUATIONS SECOND EDITION CRC Press, A Chapman & Hall Book ISBN 9781420087239
+2.  Zeitschrift Für Naturforschung: A journal of physical sciences 2004 p933-937
+3.  A. M. WAZWAZ Exact solutions to the double sinh-gordon equation by the tanh method and a variable separated ODE method,Computers & Mathematics with Applications,Volume 50, Issues 10–12, November–December 2005, Pages 1685–1696
+4.  Issues in Logic, Operations, and Computational Mathematics and Geometry 2013 p484
 5.  Mathematical Reviews - Page 3708 2007

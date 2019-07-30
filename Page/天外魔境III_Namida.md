@@ -1,6 +1,4 @@
-是[Hudson
-Soft发行的](../Page/Hudson_Soft.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[天外魔境系列第三作](../Page/天外魔境系列.md "wikilink")。游戏于2005年在[PlayStation
-2推出](../Page/PlayStation_2.md "wikilink")。
+是[Hudson Soft发行的](../Page/Hudson_Soft.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[天外魔境系列](../Page/天外魔境系列.md "wikilink")第三作。游戏于2005年在[PlayStation 2推出](../Page/PlayStation_2.md "wikilink")。
 
 《[Fami通](../Page/Fami通.md "wikilink")》为游戏打出29/40分\[1\]。
 
@@ -18,12 +16,6 @@ Soft发行的](../Page/Hudson_Soft.md "wikilink")[电子角色扮演游戏](http
 
 ## 参考文献
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:Hudson_Soft游戏](https://zh.wikipedia.org/wiki/Category:Hudson_Soft游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink")
-[Category:Red_Entertainment游戏](https://zh.wikipedia.org/wiki/Category:Red_Entertainment游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:天外魔境系列](https://zh.wikipedia.org/wiki/Category:天外魔境系列 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:Hudson_Soft游戏](https://zh.wikipedia.org/wiki/Category:Hudson_Soft游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink") [Category:Red_Entertainment游戏](https://zh.wikipedia.org/wiki/Category:Red_Entertainment游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:天外魔境系列](https://zh.wikipedia.org/wiki/Category:天外魔境系列 "wikilink")
 
 1.  <http://www.famitsu.com/cominy/?m=pc&a=page_h_title_review&title_id=2712>

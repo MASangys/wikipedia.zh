@@ -1,12 +1,8 @@
-**《 閃電十一人GO VS 紙箱戰機W 》**（劇場版イナズマイレブンGO vs
-ダンボール戦機W），在2012年12月1日從東寶已經發表在日本的動畫電影作品。縮寫「**イナダン**」。
+**《 閃電十一人GO VS 紙箱戰機W 》**（劇場版イナズマイレブンGO vs ダンボール戦機W），在2012年12月1日從東寶已經發表在日本的動畫電影作品。縮寫「**イナダン**」。
 
 ## 基本介紹
 
-《[閃電十一人GO](../Page/閃電十一人GO.md "wikilink")》和《[紙箱戰機W](../Page/紙箱戰機W.md "wikilink")》將集結推出劇場版《閃電十一人GO
-VS 紙箱戰機W》（NicoNico），詳細情報尚不明。兩部作品均以遊戲公司LEVEL-5製作的遊戲為原作。劇場版《閃電十一人GO
-vs紙箱戰機W》預定於2012年冬季公開。此外，附贈有卡片套裝的特別預售票將於2012年7月中旬發售，並且會屆時公開劇場版的預告片。
-詳細的情報將於來月發行的NicoNico漫畫2012年8月號上公開。不過，由於《閃電十一人》的七夕活動只比7月中旬預售票期早一周，或許在這次七夕活動上就可以提前放出情報。
+《[閃電十一人GO](../Page/閃電十一人GO.md "wikilink")》和《[紙箱戰機W](../Page/紙箱戰機W.md "wikilink")》將集結推出劇場版《閃電十一人GO VS 紙箱戰機W》（NicoNico），詳細情報尚不明。兩部作品均以遊戲公司LEVEL-5製作的遊戲為原作。劇場版《閃電十一人GO vs紙箱戰機W》預定於2012年冬季公開。此外，附贈有卡片套裝的特別預售票將於2012年7月中旬發售，並且會屆時公開劇場版的預告片。 詳細的情報將於來月發行的NicoNico漫畫2012年8月號上公開。不過，由於《閃電十一人》的七夕活動只比7月中旬預售票期早一周，或許在這次七夕活動上就可以提前放出情報。
 
 ## 原作介绍
 
@@ -64,11 +60,9 @@ vs紙箱戰機W》預定於2012年冬季公開。此外，附贈有卡片套裝�
   - 奧特克羅斯 - [田久保修平](https://zh.wikipedia.org/wiki/田久保修平 "wikilink")
   - 克貝拉 - [佐藤健輔](https://zh.wikipedia.org/wiki/佐藤健輔 "wikilink")
   - 大空遙 - [遠藤綾](../Page/遠藤綾.md "wikilink")
-  - A國總統(克勞迪婭蘭納頓) -
-    [寺内よりえ](https://zh.wikipedia.org/wiki/寺内よりえ "wikilink")
+  - A國總統(克勞迪婭蘭納頓) - [寺内よりえ](https://zh.wikipedia.org/wiki/寺内よりえ "wikilink")
   - 歐文・凱歐斯 - [寺杣昌紀](../Page/寺杣昌紀.md "wikilink")
-  - 操作者 -
-    [川瀬晶子](https://zh.wikipedia.org/wiki/川瀬晶子_\(配音\) "wikilink")、[村上裕哉](https://zh.wikipedia.org/wiki/村上裕哉 "wikilink")
+  - 操作者 - [川瀬晶子](https://zh.wikipedia.org/wiki/川瀬晶子_\(配音\) "wikilink")、[村上裕哉](https://zh.wikipedia.org/wiki/村上裕哉 "wikilink")
 
 ### 劇場版登場人物
 
@@ -78,8 +72,7 @@ vs紙箱戰機W》預定於2012年冬季公開。此外，附贈有卡片套裝�
 
   -
     本作品女主角。
-    淡藍髮的少女，造成消失事件的主謀，為了消滅戰鬥讓整個世界拯救改變並且與其他時空相連而不擇手段，先破壞競技場後再命令桑自導自演假裝有LBX來攻擊她(其實這些LBX是桑的)，被拯救後，將和也和亞美消失再破壞LBX以及讓雪村消失，也因此讓雙方起了內鬨，最後因為亞斯塔和桑的背叛更加殘暴，先放出赫利歐羅扎來對紙箱戰機等人，後來被米尼瓦改的自殺攻擊撞毀後，利用混沌的魔女
-    混沌紀元打算消滅所有東西並且讓時空混亂，甚至讓整個世界完全毀滅，最終被閃電十一人及紙箱戰機W的主角們全部接下來，並承認亞斯塔和桑不在身邊，是她自己不願面對自己孤單一人，在遊馬等人的說服下改邪歸正並原本消失的東西全部恢復，回到未來後因為所有的世界都回歸而感動得開心不已。
+    淡藍髮的少女，造成消失事件的主謀，為了消滅戰鬥讓整個世界拯救改變並且與其他時空相連而不擇手段，先破壞競技場後再命令桑自導自演假裝有LBX來攻擊她(其實這些LBX是桑的)，被拯救後，將和也和亞美消失再破壞LBX以及讓雪村消失，也因此讓雙方起了內鬨，最後因為亞斯塔和桑的背叛更加殘暴，先放出赫利歐羅扎來對紙箱戰機等人，後來被米尼瓦改的自殺攻擊撞毀後，利用混沌的魔女 混沌紀元打算消滅所有東西並且讓時空混亂，甚至讓整個世界完全毀滅，最終被閃電十一人及紙箱戰機W的主角們全部接下來，並承認亞斯塔和桑不在身邊，是她自己不願面對自己孤單一人，在遊馬等人的說服下改邪歸正並原本消失的東西全部恢復，回到未來後因為所有的世界都回歸而感動得開心不已。
 
 以下兩人被雙方說服，站在閃電十一人與紙箱戰機這一方
 
@@ -95,15 +88,4 @@ vs紙箱戰機W》預定於2012年冬季公開。此外，附贈有卡片套裝�
 
 芙蘭的父母(聲：父：[星野貴紀](../Page/星野貴紀.md "wikilink")；台：[何志威](../Page/何志威.md "wikilink")；港：[張錦江](../Page/張錦江.md "wikilink")，母：[渡邊明乃](../Page/渡邊明乃.md "wikilink")；台：[孫若瑜](../Page/孫若瑜.md "wikilink"))
 
-[Category:2012年电影](https://zh.wikipedia.org/wiki/Category:2012年电影 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:2012年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2012年日本剧场动画 "wikilink")
-[Category:閃電十一人系列](https://zh.wikipedia.org/wiki/Category:閃電十一人系列 "wikilink")
-[Category:电影跨界作品](https://zh.wikipedia.org/wiki/Category:电影跨界作品 "wikilink")
-[Category:动画跨界作品](https://zh.wikipedia.org/wiki/Category:动画跨界作品 "wikilink")
-[Category:足球动画电影](https://zh.wikipedia.org/wiki/Category:足球动画电影 "wikilink")
-[Category:机器人题材动画电影](https://zh.wikipedia.org/wiki/Category:机器人题材动画电影 "wikilink")
-[Category:日本电视动画的电影版](https://zh.wikipedia.org/wiki/Category:日本电视动画的电影版 "wikilink")
-[Category:电子游戏改编动画电影](https://zh.wikipedia.org/wiki/Category:电子游戏改编动画电影 "wikilink")
-[Category:东宝电影](https://zh.wikipedia.org/wiki/Category:东宝电影 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:2012年电影](https://zh.wikipedia.org/wiki/Category:2012年电影 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:2012年日本剧场动画](https://zh.wikipedia.org/wiki/Category:2012年日本剧场动画 "wikilink") [Category:閃電十一人系列](https://zh.wikipedia.org/wiki/Category:閃電十一人系列 "wikilink") [Category:电影跨界作品](https://zh.wikipedia.org/wiki/Category:电影跨界作品 "wikilink") [Category:动画跨界作品](https://zh.wikipedia.org/wiki/Category:动画跨界作品 "wikilink") [Category:足球动画电影](https://zh.wikipedia.org/wiki/Category:足球动画电影 "wikilink") [Category:机器人题材动画电影](https://zh.wikipedia.org/wiki/Category:机器人题材动画电影 "wikilink") [Category:日本电视动画的电影版](https://zh.wikipedia.org/wiki/Category:日本电视动画的电影版 "wikilink") [Category:电子游戏改编动画电影](https://zh.wikipedia.org/wiki/Category:电子游戏改编动画电影 "wikilink") [Category:东宝电影](https://zh.wikipedia.org/wiki/Category:东宝电影 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")

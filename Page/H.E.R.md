@@ -1,5 +1,4 @@
-《**H.E.R**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block
-B第](../Page/Block_B.md "wikilink")4枚迷你韓語專輯，於2014年7月24日發行，主打歌曲為專輯同名歌曲《HER》\[1\]。
+《**H.E.R**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block B第](../Page/Block_B.md "wikilink")4枚迷你韓語專輯，於2014年7月24日發行，主打歌曲為專輯同名歌曲《HER》\[1\]。
 
 ## 曲目
 
@@ -198,9 +197,7 @@ B第](../Page/Block_B.md "wikilink")4枚迷你韓語專輯，於2014年7月24日
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

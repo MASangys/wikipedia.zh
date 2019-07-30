@@ -1,19 +1,12 @@
-《**I**》是日本樂隊[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")6張原創專輯，於2013年7月24日由[Epic
-Records
-Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**I**》是日本樂隊[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")6張原創專輯，於2013年7月24日由[Epic Records Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
-本作距離上一張專輯《[抒情套餐](../Page/抒情套餐.md "wikilink")》（[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")）相隔7個月發售，距離上一張原創專輯《[NEWTRAL](../Page/NEWTRAL.md "wikilink")》則有相隔1年5個月。在《NEWTRAL》和《I》兩張專輯之間，[生物股長發行了](https://zh.wikipedia.org/wiki/生物股長 "wikilink")4張單曲。其中《[隨著風吹](../Page/隨著風吹.md "wikilink")》雖早前已收錄在《抒情套餐》內，但其後再次收錄在《I》。此外，這張專輯收錄了其餘3張單曲（《[春之歌](../Page/春之歌.md "wikilink")》、《[1
-2 3
-〜戀愛開始〜](https://zh.wikipedia.org/wiki/1_2_3_〜戀愛開始〜 "wikilink")》和《[笑顏](https://zh.wikipedia.org/wiki/笑顏 "wikilink")》）內的3首A面曲，以及《1
-2 3 ～戀愛開始～》裡的B面曲《明日的天空》，再加上另外9首原創歌曲，合共14首歌。
+本作距離上一張專輯《[抒情套餐](../Page/抒情套餐.md "wikilink")》（[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")）相隔7個月發售，距離上一張原創專輯《[NEWTRAL](../Page/NEWTRAL.md "wikilink")》則有相隔1年5個月。在《NEWTRAL》和《I》兩張專輯之間，[生物股長發行了](https://zh.wikipedia.org/wiki/生物股長 "wikilink")4張單曲。其中《[隨著風吹](../Page/隨著風吹.md "wikilink")》雖早前已收錄在《抒情套餐》內，但其後再次收錄在《I》。此外，這張專輯收錄了其餘3張單曲（《[春之歌](../Page/春之歌.md "wikilink")》、《[1 2 3 〜戀愛開始〜](https://zh.wikipedia.org/wiki/1_2_3_〜戀愛開始〜 "wikilink")》和《[笑顏](https://zh.wikipedia.org/wiki/笑顏 "wikilink")》）內的3首A面曲，以及《1 2 3 ～戀愛開始～》裡的B面曲《明日的天空》，再加上另外9首原創歌曲，合共14首歌。
 
-專輯分為兩種形式發售，其中「初回生産限定盤」以三面封口的紙盒和三面包裝，附送「宇宙生物電台訪談（專輯《I》收錄歌曲介紹）DVD\[1\]」、「生物卡片036」、「12面寫真拉頁」「生物股長的大家你棉好呀\!\!
-2013
-～I～門票特別抽籤先行指南」\[2\]。另外，通常盤於[初回期間都會附送](../Page/限定版.md "wikilink")「生物卡片036」和「指南」。
+專輯分為兩種形式發售，其中「初回生産限定盤」以三面封口的紙盒和三面包裝，附送「宇宙生物電台訪談（專輯《I》收錄歌曲介紹）DVD\[1\]」、「生物卡片036」、「12面寫真拉頁」「生物股長的大家你棉好呀\!\! 2013 ～I～門票特別抽籤先行指南」\[2\]。另外，通常盤於[初回期間都會附送](../Page/限定版.md "wikilink")「生物卡片036」和「指南」。
 
-專輯名稱「I」不僅代表生物股長團名日文寫法的第一個字母，發音同時兼具「我」、「愛」與「哀」的意思。\[3\]據[水野良樹所講](../Page/水野良樹.md "wikilink")，這是一張比前作《NEWTURL》更能感覺中立的作品。\[4\]
+專輯名稱「I」不僅代表生物股長團名日文寫法的第一個字母，發音同時兼具「我」、「愛」與「哀」的意思。\[3\]據[水野良樹](../Page/水野良樹.md "wikilink")所講，這是一張比前作《NEWTURL》更能感覺中立的作品。\[4\]
 
 ## 歌曲
 
@@ -27,13 +20,11 @@ Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
 
 <!-- end list -->
 
-  - **MY SUNSHINE
-    STORY**（）**：**山下表示創作本曲時沒有想著任何東西，寫到最後也覺得好像甚麼也沒有寫出來。歌名也是普通地取自於副歌的歌詞，但當中也有「這就是歌名了嗎」的想法\[7\]。
+  - **MY SUNSHINE STORY**（）**：**山下表示創作本曲時沒有想著任何東西，寫到最後也覺得好像甚麼也沒有寫出來。歌名也是普通地取自於副歌的歌詞，但當中也有「這就是歌名了嗎」的想法\[7\]。
 
 <!-- end list -->
 
-  - **為何**（）**：**本曲以「失戀」為主題\[8\]，水野提到創作本曲時就像個作家一樣，為需要切換自己的內心而感到辛苦，這種感覺在創作《1
-    2 3 〜戀愛開始〜》與《戀愛小說》時也同樣出現\[9\]。
+  - **為何**（）**：**本曲以「失戀」為主題\[8\]，水野提到創作本曲時就像個作家一樣，為需要切換自己的內心而感到辛苦，這種感覺在創作《1 2 3 〜戀愛開始〜》與《戀愛小說》時也同樣出現\[9\]。
 
 <!-- end list -->
 
@@ -41,8 +32,7 @@ Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
 
 <!-- end list -->
 
-  - **MONSTAR：**與《Joyful》、《KISS KISS BANG
-    BANG》等一樣的[流行樂](https://zh.wikipedia.org/wiki/流行樂 "wikilink")\[12\]。本曲為水野罕有的短時間內便完成創作的樂曲\[13\]。
+  - **MONSTAR：**與《Joyful》、《KISS KISS BANG BANG》等一樣的[流行樂](https://zh.wikipedia.org/wiki/流行樂 "wikilink")\[12\]。本曲為水野罕有的短時間內便完成創作的樂曲\[13\]。
 
 <!-- end list -->
 
@@ -58,9 +48,7 @@ Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")�
 
 ## 反應
 
-專輯以首周銷量約11.2萬張，於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")8月5日的周榜上初登場就取得首位，令[生物股長成功連續](https://zh.wikipedia.org/wiki/生物股長 "wikilink")6張專輯都取得周榜首位。在男女混合組合中連續6張專輯都取得周榜首位的為[美夢成真的](https://zh.wikipedia.org/wiki/美夢成真 "wikilink")《MILLION
-KISSES》（1990年）至《LOVE
-UNLIMITED∞》（1996年）以來相隔17年4個月。\[20\]此外，專輯僅以首周銷量約11.2萬張就取得了7月份月榜第5位，之後8月份以約4.4萬張的銷量再次在月榜上取得第6位。
+專輯以首周銷量約11.2萬張，於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")8月5日的周榜上初登場就取得首位，令[生物股長成功連續](https://zh.wikipedia.org/wiki/生物股長 "wikilink")6張專輯都取得周榜首位。在男女混合組合中連續6張專輯都取得周榜首位的為[美夢成真的](https://zh.wikipedia.org/wiki/美夢成真 "wikilink")《MILLION KISSES》（1990年）至《LOVE UNLIMITED∞》（1996年）以來相隔17年4個月。\[20\]此外，專輯僅以首周銷量約11.2萬張就取得了7月份月榜第5位，之後8月份以約4.4萬張的銷量再次在月榜上取得第6位。
 
 ## 收錄歌曲
 
@@ -80,10 +68,7 @@ UNLIMITED∞》（1996年）以來相隔17年4個月。\[20\]此外，專輯僅�
   - [Sony Music](http://www.sonymusic.co.jp/artist/Ikimonogakari/)
   - [台灣索尼音樂](https://web.archive.org/web/20120308122632/http://www.sonymusic.com.tw/album_info.php?al_prodno=88691951482)
 
-[Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.  這是台灣索尼音樂網站上的譯名。DVD名稱原文為「」。
 

@@ -1,5 +1,4 @@
-**KBS週末特別計劃連續劇**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")（KBS
-2TV）於[星期六](../Page/星期六.md "wikilink")、星期日22:15（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")）所播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+**KBS週末特別計劃連續劇**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")（KBS 2TV）於[星期六](../Page/星期六.md "wikilink")、星期日22:15（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")）所播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 ## 電視劇列表
 
@@ -121,5 +120,4 @@
   - [MBC週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")
   - [SBS週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")
 
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
+[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")

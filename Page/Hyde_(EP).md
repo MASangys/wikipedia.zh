@@ -1,4 +1,4 @@
-《**hyde**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX首張迷你韓語專輯](../Page/VIXX.md "wikilink")，於2013年5月20日發行，主打歌曲為專輯同名歌曲《hyde》\[1\]，其後在同年7月31日發行重新包裝版專輯《Jekyll》，主打歌則為《了.不.起.的.妳》（）\[2\]。
+《**hyde**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")首張迷你韓語專輯，於2013年5月20日發行，主打歌曲為專輯同名歌曲《hyde》\[1\]，其後在同年7月31日發行重新包裝版專輯《Jekyll》，主打歌則為《了.不.起.的.妳》（）\[2\]。
 
 ## 曲目
 
@@ -136,9 +136,7 @@
 
 ## 参考文献
 
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:VIXX音樂專輯](https://zh.wikipedia.org/wiki/Category:VIXX音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

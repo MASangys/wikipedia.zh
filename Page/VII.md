@@ -1,11 +1,11 @@
-《**VII**》於1990年10月12日發行，是[太極樂隊第六張粵語大碟](../Page/太極樂隊.md "wikilink")。
+《**VII**》於1990年10月12日發行，是[太極樂隊](../Page/太極樂隊.md "wikilink")第六張粵語大碟。
 
 ## 介紹
 
   - 本張專輯內的太極代表作為「樂與悲」。
-  - 第二首主打歌「等候」，太極邀請了[蔡立兒一同演唱](../Page/蔡立兒.md "wikilink")。
+  - 第二首主打歌「等候」，太極邀請了[蔡立兒](../Page/蔡立兒.md "wikilink")一同演唱。
   - 本張專輯所有歌曲全由太極全體同仁共同作曲。
-  - 第11首歌曲為[劉賢德所演唱](../Page/劉賢德.md "wikilink")。
+  - 第11首歌曲為[劉賢德](../Page/劉賢德.md "wikilink")所演唱。
 
 ## 曲目
 
@@ -33,6 +33,4 @@
 
   - [太極樂隊](../Page/太極樂隊.md "wikilink")
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink")
-[Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:太極樂隊](https://zh.wikipedia.org/wiki/Category:太極樂隊 "wikilink") [Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink")

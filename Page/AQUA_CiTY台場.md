@@ -1,11 +1,8 @@
-[Aqua-City_Odaiba.jpg](https://zh.wikipedia.org/wiki/File:Aqua-City_Odaiba.jpg "fig:Aqua-City_Odaiba.jpg")
-[Aquacity_Megami-no-gate.jpg](https://zh.wikipedia.org/wiki/File:Aquacity_Megami-no-gate.jpg "fig:Aquacity_Megami-no-gate.jpg")
-**AQUA CiTY台場**（，英語：AQUA CiTY
-ODAIBA）是2000年4月開幕的[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[台場複合商業設施](https://zh.wikipedia.org/wiki/台場 "wikilink")。
+[Aqua-City_Odaiba.jpg](https://zh.wikipedia.org/wiki/File:Aqua-City_Odaiba.jpg "fig:Aqua-City_Odaiba.jpg") [Aquacity_Megami-no-gate.jpg](https://zh.wikipedia.org/wiki/File:Aquacity_Megami-no-gate.jpg "fig:Aquacity_Megami-no-gate.jpg") **AQUA CiTY台場**（，英語：AQUA CiTY ODAIBA）是2000年4月開幕的[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[台場複合商業設施](https://zh.wikipedia.org/wiki/台場 "wikilink")。
 
 ## 概要
 
-鄰接[台場海濱公園](https://zh.wikipedia.org/wiki/台場海濱公園 "wikilink")，是[東京臨海副都心代表的商業設施](../Page/東京臨海副都心.md "wikilink")。由[三菱地所零售管理營運](https://zh.wikipedia.org/wiki/三菱地所零售管理 "wikilink")，[三菱地所持有](../Page/三菱地所.md "wikilink")100%股權。每年夏季開設。
+鄰接[台場海濱公園](https://zh.wikipedia.org/wiki/台場海濱公園 "wikilink")，是[東京臨海副都心](../Page/東京臨海副都心.md "wikilink")代表的商業設施。由[三菱地所零售管理營運](https://zh.wikipedia.org/wiki/三菱地所零售管理 "wikilink")，[三菱地所](../Page/三菱地所.md "wikilink")持有100%股權。每年夏季開設。
 
 ## 交通方式
 
@@ -32,25 +29,17 @@ ODAIBA）是2000年4月開幕的[日本](../Page/日本.md "wikilink")[東京都
 
   - 台場橫丁（お台場横丁）
 
-  - （占AQUA CiTY台場三分之一樓板面積。設有電影院「CINEMA MEDIAGE」、娛樂設施「Sony ExploraScience
-    」）
+  - （占AQUA CiTY台場三分之一樓板面積。設有電影院「CINEMA MEDIAGE」、娛樂設施「Sony ExploraScience 」）
 
   - 地方麵祭典（ご当地麺祭り）
 
 ## 其他
 
-  - 2007年，復出的[X
-    JAPAN在頂樓舉行活動](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")。
+  - 2007年，復出的[X JAPAN在頂樓舉行活動](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")。
 
 ## 外部連結
 
-  - [AQUA
-    CiTY台場中文網頁](https://web.archive.org/web/20141102081423/http://www.aquacity.jp/ch/top)
+  - [AQUA CiTY台場中文網頁](https://web.archive.org/web/20141102081423/http://www.aquacity.jp/ch/top)
   - [三菱地所零售管理株式會社](http://www.mjretail.co.jp/)
 
-[Category:御台場](https://zh.wikipedia.org/wiki/Category:御台場 "wikilink")
-[Category:三菱地所](https://zh.wikipedia.org/wiki/Category:三菱地所 "wikilink")
-[Category:2000年建立](https://zh.wikipedia.org/wiki/Category:2000年建立 "wikilink")
-[Category:2000年完工建築物](https://zh.wikipedia.org/wiki/Category:2000年完工建築物 "wikilink")
-[Category:東京都商場](https://zh.wikipedia.org/wiki/Category:東京都商場 "wikilink")
-[Category:東京都建築物](https://zh.wikipedia.org/wiki/Category:東京都建築物 "wikilink")
+[Category:御台場](https://zh.wikipedia.org/wiki/Category:御台場 "wikilink") [Category:三菱地所](https://zh.wikipedia.org/wiki/Category:三菱地所 "wikilink") [Category:2000年建立](https://zh.wikipedia.org/wiki/Category:2000年建立 "wikilink") [Category:2000年完工建築物](https://zh.wikipedia.org/wiki/Category:2000年完工建築物 "wikilink") [Category:東京都商場](https://zh.wikipedia.org/wiki/Category:東京都商場 "wikilink") [Category:東京都建築物](https://zh.wikipedia.org/wiki/Category:東京都建築物 "wikilink")

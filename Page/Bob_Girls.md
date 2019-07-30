@@ -1,6 +1,4 @@
-**Bob Girls** （）是[韓國Chrome](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Entertainment於2014年6月推出的四人女子團體。成員由Dahye、Yujeong、Jina、Danbi組成。
-2015年2月24日，Bob Girls正式解散。
+**Bob Girls** （）是[韓國Chrome](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment於2014年6月推出的四人女子團體。成員由Dahye、Yujeong、Jina、Danbi組成。 2015年2月24日，Bob Girls正式解散。
 
 ## 成員資料
 
@@ -58,12 +56,6 @@ Entertainment於2014年6月推出的四人女子團體。成員由Dahye、Yujeon
 
 ## 參考資料
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  現以藝名**薇僑**（Migyo，미교）活動

@@ -1,12 +1,12 @@
 **UIC铁路货车分类**是一个国际性的字母标记体系，它包含了一款[货运车厢的主要技术特点](https://zh.wikipedia.org/wiki/鐵路貨車 "wikilink")。这些标记适用于在国际中使用的所有[车辆](https://zh.wikipedia.org/wiki/铁路车辆 "wikilink")。
 
-这种分类标记早在1960年以前便由[国际铁路联盟](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")（UIC）开发出来，但直至1964年才普及使用。自1968年起，所有国际铁路联盟和[铁路合作组织的相关成员的所有货运车厢都必须印上这类标记](../Page/铁路合作组织.md "wikilink")。UIC标记主要由一个“类别字母”（大写）以及一个或多个“标记字母”（小写）共同组成，并有助于识别货运车厢的特性，这在装卸和运行过程中显得尤为重要。在UIC分类标记下方还印有[UIC车厢编号](../Page/UIC车厢编号.md "wikilink")，并以此取代过去使用的标记。
+这种分类标记早在1960年以前便由[国际铁路联盟](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")（UIC）开发出来，但直至1964年才普及使用。自1968年起，所有国际铁路联盟和[铁路合作组织](../Page/铁路合作组织.md "wikilink")的相关成员的所有货运车厢都必须印上这类标记。UIC标记主要由一个“类别字母”（大写）以及一个或多个“标记字母”（小写）共同组成，并有助于识别货运车厢的特性，这在装卸和运行过程中显得尤为重要。在UIC分类标记下方还印有[UIC车厢编号](../Page/UIC车厢编号.md "wikilink")，并以此取代过去使用的标记。
 
-并非所有[欧洲的货运车厢都会获得UIC标记](../Page/欧洲.md "wikilink")。例如在[德国保留至今的少数几辆](../Page/德国.md "wikilink")[守车和窄轨货运车厢仍使用其原本的](https://zh.wikipedia.org/wiki/守车 "wikilink")。
+并非所有[欧洲](../Page/欧洲.md "wikilink")的货运车厢都会获得UIC标记。例如在[德国](../Page/德国.md "wikilink")保留至今的少数几辆[守车和窄轨货运车厢仍使用其原本的](https://zh.wikipedia.org/wiki/守车 "wikilink")。
 
 ## 类别字母
 
-下表为了完整起见也包含了铁路客车的国际标准化类别字母（A至D，WL及WR），后者应被归类至[UIC铁路客车分类](../Page/UIC铁路客车分类.md "wikilink")\[1\]。每个货车类别都会被分配一个类别编号，其首位数字可被转译为十二位[UIC车厢编号的第五位数字](../Page/UIC车厢编号.md "wikilink")。
+下表为了完整起见也包含了铁路客车的国际标准化类别字母（A至D，WL及WR），后者应被归类至[UIC铁路客车分类](../Page/UIC铁路客车分类.md "wikilink")\[1\]。每个货车类别都会被分配一个类别编号，其首位数字可被转译为十二位[UIC车厢编号](../Page/UIC车厢编号.md "wikilink")的第五位数字。
 
 <table>
 <thead>
@@ -500,8 +500,7 @@ K,R</p></td>
 <sup>\*11</sup> 在1979年以前生效的版本中**a**用于表示转向架车厢，**aa**不包括类别E、F、G、H、T、U和Z。
 <sup>\*12</sup> 在1979年以前生效的版本中这里也适用于负载上限为40t。
 <sup>\*13</sup> 该标记字母没有被列入1966年的原始版本并在其后才被列入。
-<sup>\*14</sup>
-[德国国营铁路最初仅将其定义为](../Page/德国国营铁路.md "wikilink")“长度低于…m”，作为缓冲器间距的标识。因此许多车厢在最初都使用了缺少**m**的错误类别标识。
+<sup>\*14</sup> [德国国营铁路](../Page/德国国营铁路.md "wikilink")最初仅将其定义为“长度低于…m”，作为缓冲器间距的标识。因此许多车厢在最初都使用了缺少**m**的错误类别标识。
 <sup>\*15</sup> 在1965年的原始版本中，**m**仅用于类别E、G、I、K、O和R。
 <sup>\*16</sup> 在1965年的原始版本中，**mm**仅用于类别K、O和R。
 <sup>\*17</sup> 该标记字母自1980年起被取消，但部分已标上的仍长期保留。
@@ -740,11 +739,6 @@ R,S</p></td>
   - [铁路货车类别标识（互操作性概览）](http://www.grischan.org/UIC/+.html)
   - [德铁辛克铁路股份公司目前使用的车厢标识](http://www.stinnes-freight-logistics.de/gueterwagenkatalog/deutsch/nomenklatur.html)
 
-[Category:铁路车辆分类系统](https://zh.wikipedia.org/wiki/Category:铁路车辆分类系统 "wikilink")
-[Category:国际铁路运输](https://zh.wikipedia.org/wiki/Category:国际铁路运输 "wikilink")
+[Category:铁路车辆分类系统](https://zh.wikipedia.org/wiki/Category:铁路车辆分类系统 "wikilink") [Category:国际铁路运输](https://zh.wikipedia.org/wiki/Category:国际铁路运输 "wikilink")
 
-1.  COMMISSION DECISION of 11 August 2006 concerning the technical
-    specification of interoperability relating to the subsystem ‘Traffic
-    Operation and Management’ of the trans-European conventional rail
-    system (notified under document number C(2006) 3593) (Text with EEA
-    relevance) (2006/920/EC)
+1.  COMMISSION DECISION of 11 August 2006 concerning the technical specification of interoperability relating to the subsystem ‘Traffic Operation and Management’ of the trans-European conventional rail system (notified under document number C(2006) 3593) (Text with EEA relevance) (2006/920/EC)

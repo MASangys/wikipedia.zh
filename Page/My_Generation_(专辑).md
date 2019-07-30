@@ -1,4 +1,4 @@
-《》（参考译名《我这一代》）是英格兰摇滚乐队[谁人乐队的首张专辑](../Page/谁人乐队.md "wikilink")，于1965年12月由在英国发行。在美国，本专辑由[迪卡唱片公司更名为](https://zh.wikipedia.org/wiki/迪卡唱片公司 "wikilink")《》于1966年4月发行，专辑封面和曲目都有所不同\[1\]。
+《》（参考译名《我这一代》）是英格兰摇滚乐队[谁人乐队](../Page/谁人乐队.md "wikilink")的首张专辑，于1965年12月由在英国发行。在美国，本专辑由[迪卡唱片公司更名为](https://zh.wikipedia.org/wiki/迪卡唱片公司 "wikilink")《》于1966年4月发行，专辑封面和曲目都有所不同\[1\]。
 
 ## 反响和影响
 
@@ -71,10 +71,7 @@
 <!-- end list -->
 
   -
-[Category:1965年音樂專輯](https://zh.wikipedia.org/wiki/Category:1965年音樂專輯 "wikilink")
-[Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink")
-[Category:谁人乐队专辑](https://zh.wikipedia.org/wiki/Category:谁人乐队专辑 "wikilink")
-[Category:美国国家录音保护局典藏](https://zh.wikipedia.org/wiki/Category:美国国家录音保护局典藏 "wikilink")
+[Category:1965年音樂專輯](https://zh.wikipedia.org/wiki/Category:1965年音樂專輯 "wikilink") [Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink") [Category:谁人乐队专辑](https://zh.wikipedia.org/wiki/Category:谁人乐队专辑 "wikilink") [Category:美国国家录音保护局典藏](https://zh.wikipedia.org/wiki/Category:美国国家录音保护局典藏 "wikilink")
 
 1.
 
@@ -92,8 +89,7 @@
 
 8.
 
-9.  [Pitchfork's 200 Greatest Songs of
-    the 1960s](http://pitchfork.com/features/staff-lists/6404-the-200-greatest-songs-of-the-1960s/3/)
+9.  [Pitchfork's 200 Greatest Songs of the 1960s](http://pitchfork.com/features/staff-lists/6404-the-200-greatest-songs-of-the-1960s/3/)
 
 10.
 

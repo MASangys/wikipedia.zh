@@ -2,14 +2,12 @@
 
 ## 介绍
 
-时间在西历2011年，在新宿的新歌舞伎町，戴上隐形眼镜“Scull
-Eye”的人进行着各种暴力犯罪事件，这些人称自己叫“歌舞伎者”。主角狮子丸因为豪山兴业的欠债没还，就成为当时新歌舞伎町话题的“主人狩猎”的诱饵。狮子丸就只好与酒馆姑娘沙织一起担任诱饵的任务。就在“swankys”出现在两人面前时，身份不明的老人赶到，交给狮子丸“キンサチ金砂地Kinsati太刀”。狮子丸只要拔刀就会变成狮子丸G。
+时间在西历2011年，在新宿的新歌舞伎町，戴上隐形眼镜“Scull Eye”的人进行着各种暴力犯罪事件，这些人称自己叫“歌舞伎者”。主角狮子丸因为豪山兴业的欠债没还，就成为当时新歌舞伎町话题的“主人狩猎”的诱饵。狮子丸就只好与酒馆姑娘沙织一起担任诱饵的任务。就在“swankys”出现在两人面前时，身份不明的老人赶到，交给狮子丸“キンサチ金砂地Kinsati太刀”。狮子丸只要拔刀就会变成狮子丸G。
 
 ## 演员
 
   - 獅子丸 / ライオン丸（声）：[波岡一喜](https://zh.wikipedia.org/wiki/波岡一喜 "wikilink")
-  - 虎錠之介 /
-    タイガージョー（声）：[大田恭臣](https://zh.wikipedia.org/wiki/大田恭臣 "wikilink")
+  - 虎錠之介 / タイガージョー（声）：[大田恭臣](https://zh.wikipedia.org/wiki/大田恭臣 "wikilink")
   - サオリ：[小林恵美](https://zh.wikipedia.org/wiki/小林恵美 "wikilink")
   - コスK：[小田あさ美](https://zh.wikipedia.org/wiki/小田あさ美 "wikilink")
   - 果心居士：[大久保鷹](https://zh.wikipedia.org/wiki/大久保鷹 "wikilink")
@@ -52,8 +50,7 @@ Eye”的人进行着各种暴力犯罪事件，这些人称自己叫“歌舞�
   - 脚本：大根仁、[川邊優子](https://zh.wikipedia.org/wiki/川邊優子 "wikilink")、中津留章仁、[川崎ヒロユキ](https://zh.wikipedia.org/wiki/川崎ヒロユキ "wikilink")
   - 脚本協力：中津留章仁、[川崎ヒロユキ](https://zh.wikipedia.org/wiki/川崎ヒロユキ "wikilink")
   - 企画協力：[雨宮慶太](https://zh.wikipedia.org/wiki/雨宮慶太 "wikilink")（クラウド）、[佐藤大](../Page/佐藤大_\(編劇\).md "wikilink")
-  - 特撮ディレクター /
-    ライオン丸・タイガージョーコンセプトデザイン：[原口智生](https://zh.wikipedia.org/wiki/原口智生 "wikilink")
+  - 特撮ディレクター / ライオン丸・タイガージョーコンセプトデザイン：[原口智生](https://zh.wikipedia.org/wiki/原口智生 "wikilink")
   - 造形・衣装デザイン：川上登・高野裕子
   - 特殊造形：JAP工房
   - アクション監督：小原剛
@@ -71,10 +68,7 @@ Eye”的人进行着各种暴力犯罪事件，这些人称自己叫“歌舞�
   -
 
       -
-        作詞：[しのだとみお](https://zh.wikipedia.org/wiki/しのだとみお "wikilink") /
-        作曲：[小林亜星](https://zh.wikipedia.org/wiki/小林亜星 "wikilink") /
-        編曲：TUCKER /
-        歌：[串田アキラ](https://zh.wikipedia.org/wiki/串田アキラ "wikilink")
+        作詞：[しのだとみお](https://zh.wikipedia.org/wiki/しのだとみお "wikilink") / 作曲：[小林亜星](https://zh.wikipedia.org/wiki/小林亜星 "wikilink") / 編曲：TUCKER / 歌：[串田アキラ](https://zh.wikipedia.org/wiki/串田アキラ "wikilink")
         『快傑ライオン丸』の主題歌のカヴァーで、原曲よりテンポを速めている。
         第10話のみ獅子丸役の波岡一喜のボーカルを被せた特別バージョン。
         第13話では挿入歌およびエンディングテーマとして使用された。
@@ -83,8 +77,7 @@ Eye”的人进行着各种暴力犯罪事件，这些人称自己叫“歌舞�
 
 :; 「[鳥](https://zh.wikipedia.org/wiki/新宿狂詩曲 "wikilink")」（1、2話）
 
-:: 作詞：atsuko / 作曲：atsuko、KATSU / 編曲：KATSU /
-歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+:: 作詞：atsuko / 作曲：atsuko、KATSU / 編曲：KATSU / 歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
 :; 「[人生遊戯](https://zh.wikipedia.org/wiki/新宿狂詩曲 "wikilink")」（3話 - 12話）
 
@@ -115,13 +108,6 @@ Eye”的人进行着各种暴力犯罪事件，这些人称自己叫“歌舞�
 
   - [StarChild:ライオン丸G](http://www.starchild.co.jp/special/lion-marug/)
   - [テレビ東京・あにてれ ライオン丸G](http://www.tv-tokyo.co.jp/anime/lionmaru_g/)
-  - [ヤングガンガン YOUNG GANGAN
-    OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/)
+  - [ヤングガンガン YOUNG GANGAN OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/)
 
-[Category:東京電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:東京電視台深夜劇集 "wikilink")
-[Category:2000年代特攝作品](https://zh.wikipedia.org/wiki/Category:2000年代特攝作品 "wikilink")
-[Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink")
-[Category:P_Productions](https://zh.wikipedia.org/wiki/Category:P_Productions "wikilink")
-[Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
+[Category:東京電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:東京電視台深夜劇集 "wikilink") [Category:2000年代特攝作品](https://zh.wikipedia.org/wiki/Category:2000年代特攝作品 "wikilink") [Category:深夜特摄](https://zh.wikipedia.org/wiki/Category:深夜特摄 "wikilink") [Category:P_Productions](https://zh.wikipedia.org/wiki/Category:P_Productions "wikilink") [Category:2006年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年日本電視劇集 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")

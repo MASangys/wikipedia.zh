@@ -1,8 +1,4 @@
-****（MAGNOLIA FACTORY），[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
-2015年1月2日結成，2月25日宣布新團名，並於同年9月2日發行第一張單曲主流出道。 同年12月30日,
-於第57屆[日本唱片大賞中獲得最優秀新人賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")。目前有五名成員（五人原為[Hello\!
-Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
+****（MAGNOLIA FACTORY），[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。 2015年1月2日結成，2月25日宣布新團名，並於同年9月2日發行第一張單曲主流出道。 同年12月30日, 於第57屆[日本唱片大賞中獲得最優秀新人賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")。目前有五名成員（五人原為[Hello\! Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 ## 成員
 
@@ -177,7 +173,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 [日本辛夷象征](https://zh.wikipedia.org/wiki/日本辛夷 "wikilink")“友誼”“信賴”“歡迎”。希望成為[日本辛夷似的既](https://zh.wikipedia.org/wiki/日本辛夷 "wikilink")“優美”又“强大”的團體，成員互相增進“友誼”與“信賴”，受“歡迎”。
 
-[Berryz工房停止活動以後](../Page/Berryz工房.md "wikilink")，就職了“[早安家族顧問](../Page/早安家族.md "wikilink")（adviser）”的[清水佐紀也參與了命名的工作](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")。希望能繼承[Berryz工房的精神](../Page/Berryz工房.md "wikilink")（spirit）——“Factory（工廠）包括了那樣的思想。
+[Berryz工房](../Page/Berryz工房.md "wikilink")停止活動以後，就職了“[早安家族](../Page/早安家族.md "wikilink")顧問（adviser）”的[清水佐紀也參與了命名的工作](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")。希望能繼承[Berryz工房](../Page/Berryz工房.md "wikilink")的精神（spirit）——“Factory（工廠）包括了那樣的思想。
 \[1\]
 
 ## 歷史
@@ -188,14 +184,10 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
   - 1月2日，於早安家族演唱會《Hello\! Project 2015 WINTER ～DANCE MODE\!～》宣佈組合结成。
   - 2月25日，組合名字公開，取名《こぶしファクトリー》（玉蘭花 Factory）\[2\]\[3\]
-  - 有別於其他組合，玉蘭花 Factory以DVD單曲《[小心又小心 /
-    Survivor](https://zh.wikipedia.org/wiki/小心又小心_/_Survivor "wikilink")》為獨立製作出道作，於3月26日發行。
+  - 有別於其他組合，玉蘭花 Factory以DVD單曲《[小心又小心 / Survivor](https://zh.wikipedia.org/wiki/小心又小心_/_Survivor "wikilink")》為獨立製作出道作，於3月26日發行。
   - 6月14日，於Hello\! Project研修生演唱會中宣佈，玉蘭花 Factory將在2015年秋天主流出道。
-  - 主流出道單曲為《[Dosukoi\! 謙虛而大膽 / 愛吃拉麵的小泉同學之歌 / 小心又小心
-    (認真Ver.)](https://zh.wikipedia.org/wiki/Dosukoi!_謙虛而大膽_/_愛吃拉麵的小泉同學之歌_/_小心又小心_\(認真Ver.\) "wikilink")》定於9月2日發行。\[4\]當中其一A面曲《愛吃拉麵的小泉同學之歌》為[富士電視台劇集](../Page/富士電視台.md "wikilink")《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》的主題曲。
-  - 11月19日，[日本唱片大賞公佈了玉蘭花](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")
-    Factory獲提名第57屆日本唱片大賞
-    優秀新人獎，繼[早安少女組。](../Page/早安少女組。.md "wikilink")、[℃-ute](../Page/℃-ute.md "wikilink")、[ANGERME](../Page/ANGERME.md "wikilink")（S/mileage）、[Juice=Juice後第五組獲提名](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")。
+  - 主流出道單曲為《[Dosukoi\! 謙虛而大膽 / 愛吃拉麵的小泉同學之歌 / 小心又小心 (認真Ver.)](https://zh.wikipedia.org/wiki/Dosukoi!_謙虛而大膽_/_愛吃拉麵的小泉同學之歌_/_小心又小心_\(認真Ver.\) "wikilink")》定於9月2日發行。\[4\]當中其一A面曲《愛吃拉麵的小泉同學之歌》為[富士電視台](../Page/富士電視台.md "wikilink")劇集《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》的主題曲。
+  - 11月19日，[日本唱片大賞公佈了玉蘭花](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink") Factory獲提名第57屆日本唱片大賞 優秀新人獎，繼[早安少女組。](../Page/早安少女組。.md "wikilink")、[℃-ute](../Page/℃-ute.md "wikilink")、[ANGERME](../Page/ANGERME.md "wikilink")（S/mileage）、[Juice=Juice後第五組獲提名](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")。
   - 12月30日, 於第57屆日本唱片大賞中獲得 最優秀新人獎。\[5\]
 
 <!-- end list -->
@@ -204,15 +196,10 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 <!-- end list -->
 
-  - 2月17日，第2張單曲《[櫻花狂熱夜 / 有些天真\! 豬突猛進 / 嘿\!
-    Kobushi魂](https://zh.wikipedia.org/wiki/櫻花狂熱夜_/_有些天真!_豬突猛進_/_嘿!_Kobushi魂 "wikilink")》發行。在2月29日於Oricon公信榜單曲週榜取得第1名，成為玉蘭花
-    Factory出道以來第1張公信榜首周銷量排名第一的單曲。\[6\]
-  - 4月16日-6月19日，《玉蘭花Factory Live Tour 2016春～The Cheering
-    Party\!～》於全14個城市舉辦。
-  - 7月19日，單獨Live《玉蘭花Factory Special Live 2016 Summer in OTODAMA SEA
-    STUDIO》舉辦。
-  - 7月27日，第3張單曲《[森巴\! Kobushi熱內盧 / 來吧青春\! /
-    我是最受歡迎的](https://zh.wikipedia.org/wiki/森巴!_Kobushi熱內盧_/_來吧青春!_/_我是最受歡迎的 "wikilink")》發行。
+  - 2月17日，第2張單曲《[櫻花狂熱夜 / 有些天真\! 豬突猛進 / 嘿\! Kobushi魂](https://zh.wikipedia.org/wiki/櫻花狂熱夜_/_有些天真!_豬突猛進_/_嘿!_Kobushi魂 "wikilink")》發行。在2月29日於Oricon公信榜單曲週榜取得第1名，成為玉蘭花 Factory出道以來第1張公信榜首周銷量排名第一的單曲。\[6\]
+  - 4月16日-6月19日，《玉蘭花Factory Live Tour 2016春～The Cheering Party\!～》於全14個城市舉辦。
+  - 7月19日，單獨Live《玉蘭花Factory Special Live 2016 Summer in OTODAMA SEA STUDIO》舉辦。
+  - 7月27日，第3張單曲《[森巴\! Kobushi熱內盧 / 來吧青春\! / 我是最受歡迎的](https://zh.wikipedia.org/wiki/森巴!_Kobushi熱內盧_/_來吧青春!_/_我是最受歡迎的 "wikilink")》發行。
   - 9月17日-11月20日，《玉蘭花Factory Live Tour 2016秋 ～Hyper Mode～》於全14個城市舉辦。
   - 11月30日，第1張專輯《[辛夷其之一](../Page/辛夷其之一.md "wikilink")》發行。
 
@@ -222,15 +209,13 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 <!-- end list -->
 
-  - 5月12日，由官方發表聲明，[藤井梨央將於早安家族夏季演唱會結束之後於](https://zh.wikipedia.org/wiki/藤井梨央 "wikilink")[Kobushi
-    Factory及](../Page/Kobushi_Factory.md "wikilink")[早安家族畢業](../Page/早安家族.md "wikilink")。\[7\]\[8\]
+  - 5月12日，由官方發表聲明，[藤井梨央將於早安家族夏季演唱會結束之後於](https://zh.wikipedia.org/wiki/藤井梨央 "wikilink")[Kobushi Factory及](../Page/Kobushi_Factory.md "wikilink")[早安家族](../Page/早安家族.md "wikilink")畢業。\[7\]\[8\]
   - 6月14日，第4張單曲《[Shalala！必定能做得到／超赞的不是吗？忍者也行对吧？](https://zh.wikipedia.org/wiki/Shalala！必定能做得到／超赞的不是吗？忍者也行对吧？ "wikilink")》發行。
   - 7月6日，由官方發表聲明，原訂於9月2日從團體及早安家族畢業的[藤井梨央](https://zh.wikipedia.org/wiki/藤井梨央 "wikilink")，由於違反合約內容之事，故提前解約。\[9\]\[10\]
   - 7月13日，成員[小川麗奈從](https://zh.wikipedia.org/wiki/小川麗奈 "wikilink")4日開始有持續發燒及感冒等症狀，經醫師診斷為[精神官能症](https://zh.wikipedia.org/wiki/精神官能症 "wikilink")，必須在家中進行療養至8月中旬，期間包括7月15日開始的家族夏季演唱會及7月17日電影上映的首映會舞台都將缺席。
   - 8月16日，先前因[精神官能症休養的成員](https://zh.wikipedia.org/wiki/精神官能症 "wikilink")[小川麗奈由於症狀未能痊癒復出](https://zh.wikipedia.org/wiki/小川麗奈 "wikilink")，經由醫師的判斷，仍須休養治療。
   - 8月22日，單獨Live《OTODAMA SEA STUDIO 2017 ～SUMMER FACTORY～》舉辦。
-  - 9月6日,
-    因[精神官能症暫停活動進行休養的成員](https://zh.wikipedia.org/wiki/精神官能症 "wikilink")[小川麗奈](https://zh.wikipedia.org/wiki/小川麗奈 "wikilink")，在與父母及醫師的討論下，決定從團體中畢業，並於演藝界引退。\[11\]\[12\]
+  - 9月6日, 因[精神官能症暫停活動進行休養的成員](https://zh.wikipedia.org/wiki/精神官能症 "wikilink")[小川麗奈](https://zh.wikipedia.org/wiki/小川麗奈 "wikilink")，在與父母及醫師的討論下，決定從團體中畢業，並於演藝界引退。\[11\]\[12\]
   - 12月6日，成員[田口夏實契約終止離隊](https://zh.wikipedia.org/wiki/田口夏實 "wikilink")。\[13\]\[14\]
 
 <!-- end list -->
@@ -239,12 +224,10 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 <!-- end list -->
 
-  - 3月28日，第5張單曲《[從現在就開始\! /
-    明日會放晴](https://zh.wikipedia.org/wiki/從現在就開始!_/_明日會放晴 "wikilink")》發行。
+  - 3月28日，第5張單曲《[從現在就開始\! / 明日會放晴](https://zh.wikipedia.org/wiki/從現在就開始!_/_明日會放晴 "wikilink")》發行。
   - 4月8日-12月8日，《玉蘭花Factory Live Tour 2018 ～SHINE\!Kobushi魂\!～》於全21個城市舉辦。
   - 5月3日-5日，《玉蘭花Factory & 山茶花Factory Premium Live 2018春 “KOBO”》舉辦。
-  - 8月8日，第6張單曲《[我一定可以 /
-    有誌者事竟成](https://zh.wikipedia.org/wiki/我一定可以_/_有誌者事竟成 "wikilink")》發行。
+  - 8月8日，第6張單曲《[我一定可以 / 有誌者事竟成](https://zh.wikipedia.org/wiki/我一定可以_/_有誌者事竟成 "wikilink")》發行。
   - 8月22日，單獨Live《OTODAMA SEA STUDIO 2018 ～Kobushi夏魂\!\!～》舉辦。
 
 <!-- end list -->
@@ -255,8 +238,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
   - 4月13日-6月23日，《Kobushi Factory Live Tour 2019 春麗》於全11個城市舉辦（預定）。\[15\]
   - 5月3日-6日，《Kobushi Factory 首次演唱會2019 春麗 〜黃金周special〜》舉辦決定。\[16\]
-  - 4月24日，第7張單曲《[Oh No 懊恼 /
-    春天晴朗](https://zh.wikipedia.org/wiki/Oh_No_懊恼_/_春天晴朗 "wikilink")》發行（預定）。
+  - 4月24日，第7張單曲《[Oh No 懊恼 / 春天晴朗](https://zh.wikipedia.org/wiki/Oh_No_懊恼_/_春天晴朗 "wikilink")》發行（預定）。
 
 ## 作品
 
@@ -412,7 +394,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
   - 衝破黑暗（《JK忍者Girls》插曲）
   - 朝氣蓬勃的朋友（《JK忍者Girls》插曲）
-  - 突然出現的葫蘆島（[朝日電視台主辦的](../Page/朝日電視台.md "wikilink")《愛踴祭2018》安慰賽與大賽課題曲）
+  - 突然出現的葫蘆島（[朝日電視台](../Page/朝日電視台.md "wikilink")主辦的《愛踴祭2018》安慰賽與大賽課題曲）
 
 ### 其他
 
@@ -420,12 +402,10 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 “早安家族”慶祝成立20周年的歌曲
 
-  - YEAH YEAH
-    YEAH（作詞：[淳君](../Page/淳君.md "wikilink")，作曲：[淳君](../Page/淳君.md "wikilink")，編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）\[18\]\[19\]
+  - YEAH YEAH YEAH（作詞：[淳君](../Page/淳君.md "wikilink")，作曲：[淳君](../Page/淳君.md "wikilink")，編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）\[18\]\[19\]
   - 嚮往的Stress-free（作詞：[淳君](../Page/淳君.md "wikilink")，作曲：[淳君](../Page/淳君.md "wikilink")，編曲：平田祥一郎）\[20\]
   - 群芳，齊放之時（作詞：小椋佳，作曲：小椋佳，編曲：上杉洋史）\[21\]
-  - Hello\!
-    History（作詞：[前山田健一](../Page/前山田健一.md "wikilink")，作曲：[前山田健一](../Page/前山田健一.md "wikilink")，編曲：平田祥一郎）\[22\]
+  - Hello\! History（作詞：[前山田健一](../Page/前山田健一.md "wikilink")，作曲：[前山田健一](../Page/前山田健一.md "wikilink")，編曲：平田祥一郎）\[22\]
 
 ### DVD/Blu-ray Disc
 
@@ -451,8 +431,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
   - DVD《濱浦彩乃 生日 紀念活動2016》(2016年7月）\[32\]
   - BD《Greeting ～廣瀨彩海＆井上玲音～》（2016年7月22日-8月10日）\[33\]
   - 《DVD MAGAZINE Vol.3》（2016年9月17日）\[34\]
-  - Live DVD《玉兰花Factory Live Tour 2016春～The Cheering
-    Party\!～》（2016年10月19日）\[35\]
+  - Live DVD《玉兰花Factory Live Tour 2016春～The Cheering Party\!～》（2016年10月19日）\[35\]
   - DVD《廣瀨彩海/田口夏實/井上玲音 生日 紀念活動2016》（2016年10月）\[36\]
   - BD《Greeting ～野村みな美＆田口夏實～》（2016年11月29日-12月19日）\[37\]
   - BD《Greeting ～小川麗奈＆藤井梨央～》（2016年12月28日-2017年1月23日）\[38\]
@@ -486,8 +465,7 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
   - 《玉蘭花Factory ＆ 山茶花Factory DVD MAGAZINE Vol.1》（2018年5月）\[52\]
   - DVD《野村みな美/和田櫻子 生日 紀念活動2018》（2018年5月）\[53\]
   - DVD《濱浦彩乃 生日 紀念活動2018》（2018年6月）\[54\]
-  - Live DVD/BD《玉兰花Factory & 山茶花Factory Premium Live 2018春
-    “KOBO”》（2018年9月5日）
+  - Live DVD/BD《玉兰花Factory & 山茶花Factory Premium Live 2018春 “KOBO”》（2018年9月5日）
   - DVD《廣瀨彩海/井上玲音 生日 紀念活動2018》（2018年10月）\[55\]
   - 《DVD MAGAZINE Vol.8》（2018年10月31日）\[56\]
   - DVD《粉絲見面會2018～SMILE！Kobushi夏祭！～》（2018年11月）\[57\]
@@ -504,13 +482,11 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 ### 電影
 
-  - 《電影版
-    JK忍者Girls》（2017年7月17日開始上映，[東映](../Page/東映.md "wikilink")）\[61\]\[62\]
+  - 《電影版 JK忍者Girls》（2017年7月17日開始上映，[東映](../Page/東映.md "wikilink")）\[61\]\[62\]
 
 ### 舞台
 
-  - 演劇女子部 音樂劇《Week End Survivor》(2015年3月26日 - 4月5日，於SPACE ZERO BIG TREE
-    THEATER)\[63\]
+  - 演劇女子部 音樂劇《Week End Survivor》(2015年3月26日 - 4月5日，於SPACE ZERO BIG TREE THEATER)\[63\]
   - 《JK忍者Girls》（2017年2月23日 - 3月4日，於Theater Green）\[64\]\[65\]
 
 ### 寫真集
@@ -528,22 +504,17 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 ### 電視
 
-  - The Girls
-    Live（2015年3月至今，[東京電視台等](../Page/東京電視台.md "wikilink")）\[76\]
-  - UTANAVI（2016年10月至今，[東京都會電視台等](../Page/東京都會電視台.md "wikilink")）\[77\]
+  - The Girls Live（2015年3月至今，[東京電視台](../Page/東京電視台.md "wikilink")等）\[76\]
+  - UTANAVI（2016年10月至今，[東京都會電視台](../Page/東京都會電視台.md "wikilink")等）\[77\]
 
 <!-- end list -->
 
   - Oha Sta（2015年9月2日，[東京電視台](../Page/東京電視台.md "wikilink")）
-  - TOKYO IDOL FESTIVAL
-    2015（2015年9月2日，[富士電視台](../Page/富士電視台.md "wikilink")）
-  - 未來定番曲～Future Standard～\#129（2015年9月14日，[World Hi-Vision
-    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
-  - 未來定番曲～Future Standard～\#131（2015年9月29日，[World Hi-Vision
-    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
+  - TOKYO IDOL FESTIVAL 2015（2015年9月2日，[富士電視台](../Page/富士電視台.md "wikilink")）
+  - 未來定番曲～Future Standard～\#129（2015年9月14日，[World Hi-Vision Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
+  - 未來定番曲～Future Standard～\#131（2015年9月29日，[World Hi-Vision Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - LiveB♪ （2015年9月29日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
-  - 未來定番曲～Future Standard～\#132（2015年10月6日，[World Hi-Vision
-    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
+  - 未來定番曲～Future Standard～\#132（2015年10月6日，[World Hi-Vision Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - MUSIC JAPAN （2015年9月6日，[日本廣播協會](../Page/日本廣播協會.md "wikilink")）
   - Oha Sta（2015年11月4日，[東京電視台](../Page/東京電視台.md "wikilink")）
   - 第57屆[日本唱片大奖](https://zh.wikipedia.org/wiki/日本唱片大奖 "wikilink")（2015年12月30日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
@@ -553,172 +524,138 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
   - Oha Sta（2016年2月17日，[東京電視台](../Page/東京電視台.md "wikilink")）
   - 音流～ONRYU～ （2016年2月19日，[東京電視台](../Page/東京電視台.md "wikilink")）
   - MUSIC JAPAN （2016年2月21日，[日本廣播協會](../Page/日本廣播協會.md "wikilink")）
-  - 未來定番曲～Future Standard～\#152（2016年2月22日，[World Hi-Vision
-    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
+  - 未來定番曲～Future Standard～\#152（2016年2月22日，[World Hi-Vision Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - LiveB♪ （2016年3月30日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
-  - Nsta
-    宮城（2016年3月30日，[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")）
-  - 未來定番曲～Future Standard～\#159（2016年4月11日，[World Hi-Vision
-    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
+  - Nsta 宮城（2016年3月30日，[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")）
+  - 未來定番曲～Future Standard～\#159（2016年4月11日，[World Hi-Vision Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - musicる TV（2016年5月9日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - musicる TV（2016年5月16日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - musicる TV（2016年5月23日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - Oha！4 （2016年7月16日，[日本電視台](../Page/日本電視台.md "wikilink")）
   - LiveB♪ （2016年7月26日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - 魁\!music（2016年7月31日，[富士電視台](../Page/富士電視台.md "wikilink")）
-  - 未來定番曲～Future Standard～\#179（2016年8月29日，[World Hi-Vision
-    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
+  - 未來定番曲～Future Standard～\#179（2016年8月29日，[World Hi-Vision Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
   - musicる TV（2016年10月24日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
-  - Full Chorus \#65（2016年11月15日，[SKY
-    PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
+  - Full Chorus \#65（2016年11月15日，[SKY PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
   - 開運音樂堂（2016年11月19日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - 魁\!music（2016年12月13日，[富士電視台](../Page/富士電視台.md "wikilink")）
-  - 開運音樂堂【2016除夕SP\!\!】
-    （2016年12月31日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
+  - 開運音樂堂【2016除夕SP\!\!】 （2016年12月31日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
 
 <!-- end list -->
 
   - 於[日本環球影城](../Page/日本環球影城.md "wikilink") TKO（2017年5月1日，J:COM頻道）
-  - 未來定番曲～Future Standard～\#220（2017年6月12日，[World Hi-Vision
-    Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
-  - Full Chorus \#88（2017年6月13日，[SKY
-    PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
+  - 未來定番曲～Future Standard～\#220（2017年6月12日，[World Hi-Vision Channel等](../Page/World_Hi-Vision_Channel.md "wikilink")）
+  - Full Chorus \#88（2017年6月13日，[SKY PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
   - Station\!（2017年6月15日，岐阜電視台）
   - Oha Sta（2017年6月16日，[東京電視台](../Page/東京電視台.md "wikilink")）
   - 《音樂之日2017》（2017年7月15日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - 抱住指大腿【season1】\#14 （2017年8月4日，[富士電視台](../Page/富士電視台.md "wikilink")）
-  - Full Chorus \#106（2017年12月5日，[SKY
-    PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
+  - Full Chorus \#106（2017年12月5日，[SKY PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")）
 
 <!-- end list -->
 
-  - 開運音樂堂【2018 新春SP\!\!】
-    （2018年1月6日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
-  - The Girls Live
-    \#201（2018年1月16日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - 開運音樂堂【2018 新春SP\!\!】 （2018年1月6日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
+  - The Girls Live \#201（2018年1月16日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：Dosukoi！謙虛而大膽
 
-  - The Girls Live
-    \#202（2018年1月23日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#202（2018年1月23日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：Shalala！必定能做得到
 
-  - The Girls Live
-    \#203（2018年1月30日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#203（2018年1月30日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：小心又小心（認真ver）
 
-  - The Girls Live
-    \#204（2018年2月6日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#204（2018年2月6日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 關於發行第5張單曲的告知
 
-  - The Girls Live
-    \#205（2018年2月20日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#205（2018年2月20日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：GO TO THE TOP\!\!
 
   - 熱波（2018年3月8日，[埼玉電視台](../Page/埼玉電視台.md "wikilink")）
-  - The Girls Live
-    \#208（2018年3月13日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#208（2018年3月13日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：辛夷之花
 
-  - The Girls Live
-    \#209（2018年3月20日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#209（2018年3月20日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：來吧青春！
 
   - LiveB♪ （2018年3月27日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
-  - The Girls Live
-    \#211（2018年4月3日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#211（2018年4月3日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：明日會放晴
 
-  - The Girls Live
-    \#213（2018年4月17日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#213（2018年4月17日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：從現在就開始！
 
-  - The Girls Live
-    \#216（2018年5月8日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#216（2018年5月8日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：欲速則不達
 
-  - The Girls Live
-    \#218（2018年5月22日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#218（2018年5月22日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：TEKI
 
   - Oha Sta（2018年5月25日，[東京電視台](../Page/東京電視台.md "wikilink")）
-  - The Girls Live
-    \#221（2018年6月12日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#221（2018年6月12日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：懸命藍調
 
   - 開運音樂堂（2018年6月16日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
-  - The Girls Live
-    \#227（2018年7月24日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#227（2018年7月24日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：有些天真\! 豬突猛進
 
-  - The Girls Live
-    \#228（2018年7月31日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#228（2018年7月31日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：有志者事竟成
 
-  - The Girls Live
-    \#229（2018年8月7日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#229（2018年8月7日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：我一定可以
 
   - 開運音樂堂（2018年8月18日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
   - 抱住指大腿【season2】\#5 （2018年8月25日，[富士電視台](../Page/富士電視台.md "wikilink")）
-  - The Girls Live
-    \#233（2018年9月4日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#233（2018年9月4日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：森巴\! Kobushi熱內盧
 
-  - The Girls Live
-    \#234（2018年9月11日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#234（2018年9月11日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：來吧青春！
 
   - musicる TV \#336（2018年10月8日，[朝日電視台](../Page/朝日電視台.md "wikilink")）
-  - The Girls Live
-    \#239（2018年10月16日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#239（2018年10月16日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：愛吃拉麵的小泉同學之歌
 
-  - The Girls Live
-    \#240（2018年10月23日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#240（2018年10月23日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：從現在就開始！
 
-  - The Girls Live
-    \#241（2018年10月30日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#241（2018年10月30日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：未熟半熟ToroToro
 
-  - The Girls Live
-    \#244（2018年11月20日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#244（2018年11月20日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：揮之不去的意識
 
-  - The Girls Live
-    \#248（2018年12月18日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#248（2018年12月18日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：不能消除的情緒
 
   - 開運音樂堂（2019年1月5日，[TBS電視台](../Page/TBS電視台.md "wikilink")）
-  - The Girls Live
-    \#251（2019年1月15日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#251（2019年1月15日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：GO TO THE TOP\!\!
 
-  - The Girls Live
-    \#252（2019年1月22日，[東京電視台等](../Page/東京電視台.md "wikilink")）
+  - The Girls Live \#252（2019年1月22日，[東京電視台](../Page/東京電視台.md "wikilink")等）
 
 Studio Live：明日會放晴
 
@@ -726,8 +663,7 @@ Studio Live：明日會放晴
 
   - JAPAN 早安家族 NETWORK ※不定期（2015年4月1日至今，FM大阪廣播電台等）\[78\]
     HELLO\! DRIVE\! ※每星期四，廣瀬只演出（2017年10月2日至今，Radio NEO）\[79\]\[80\]
-    GIRLS♥GIRLS♥GIRLS =FULL BOOST= 《Kobushi Factory 夜空相逢吧！》
-    ※每月第3、4、5個星期四（FM富士廣播電台）\[81\]
+    GIRLS♥GIRLS♥GIRLS =FULL BOOST= 《Kobushi Factory 夜空相逢吧！》 ※每月第3、4、5個星期四（FM富士廣播電台）\[81\]
 
 <table>
 <thead>
@@ -905,11 +841,9 @@ Studio Live：明日會放晴
   - 《向田口夏實的采訪（後篇）》【ハロ！ステ\#111】（2015年4月1日公開）\[91\]
   - 《髪型設計（小川麗奈）》【ハロ！ステ\#112】（2015年4月8日公開）\[92\]
   - 《髪型設計（和田櫻子）》【ハロ！ステ\#114】（2015年4月22日公開）\[93\]
-  - 《小心又小心(Promotion
-    Edit)》《髪型設計（藤井梨央）》【ハロ！ステ\#115】主持人：濱浦彩乃（2015年4月29日公開）\[94\]
+  - 《小心又小心(Promotion Edit)》《髪型設計（藤井梨央）》【ハロ！ステ\#115】主持人：濱浦彩乃（2015年4月29日公開）\[94\]
   - 《小心又小心（中野太陽廣場）》【ハロ！ステ\#117】（2015年5月13日公開）\[95\]
-  - 《Country Girls＆Tsubaki Factory \<ALL FOR ONE & ONE FOR
-    ALL\>（澀谷公會堂）》【ハロ！ステ\#118】主持人：廣瀨彩海（2015年5月20日公開）\[96\]
+  - 《Country Girls＆Tsubaki Factory \<ALL FOR ONE & ONE FOR ALL\>（澀谷公會堂）》【ハロ！ステ\#118】主持人：廣瀨彩海（2015年5月20日公開）\[96\]
   - 《宣布成員顏色》【ハロ！ステ\#120】（2015年6月3日公開）\[97\]
   - 《宣布主流出道》【ハロ！ステ\#122】（2015年6月17日公開）\[98\]
   - 《四字成語（廣瀨彩海）》【ハロ！ステ\#124】（2015年7月1日公開）\[99\]
@@ -922,18 +856,14 @@ Studio Live：明日會放晴
   - 《Dosukoi\! 謙虛而大膽（ハロ！ステ Edit.）》【ハロ！ステ\#130】（2015年8月12日公開）\[106\]
   - 《Road to Major\#2 舞蹈教學＆劇照拍攝篇》【GREEN ROOM\#16】（2015年8月13日公開）\[107\]
   - 《愛吃拉麵的小泉同學之歌（ハロ！ステ Edit.）》【ハロ！ステ\#131】主持人：田口夏實（2015年8月19日公開）\[108\]
-  - 《Road to Major\#3 拍攝MUSIC VIDEO篇》【GREEN
-    ROOM\#17】（2015年8月20日公開）\[109\]
-  - 《Road to Major\#4 拍攝MUSIC VIDEO篇》【GREEN
-    ROOM\#18】（2015年8月27日公開）\[110\]
-  - 《關於主流出道單曲》《Dosukoi\! 謙虛而大膽（阿倍野Q's
-    MALL）》【ハロ！ステ\#133】（2015年9月2日公開）\[111\]
+  - 《Road to Major\#3 拍攝MUSIC VIDEO篇》【GREEN ROOM\#17】（2015年8月20日公開）\[109\]
+  - 《Road to Major\#4 拍攝MUSIC VIDEO篇》【GREEN ROOM\#18】（2015年8月27日公開）\[110\]
+  - 《關於主流出道單曲》《Dosukoi\! 謙虛而大膽（阿倍野Q's MALL）》【ハロ！ステ\#133】（2015年9月2日公開）\[111\]
   - 《出道活動的片花（LaLaport豐洲）》《髪型設計（濱浦彩乃）》【ハロ！ステ\#134】主持人：小川麗奈（2015年9月9日公開）\[112\]
   - 《小心又小心（認真Ver.）拍攝Music Video篇》【GREEN ROOM\#20】（2015年9月10日公開）\[113\]
   - 【ハロ！ステ\#135】主持人：和田櫻子（2015年9月16日公開）\[114\]
   - 《四字成語（野村みな美）》《關於首次演唱會》【ハロ！ステ\#137】主持人：廣瀨彩海（2015年9月30日公開）\[115\]
-  - 《戀愛咒縛（五反田郵港Hall）》《呐喊男孩 WAO\!（五反田郵港Hall）
-    》《四字成語（野村みな美）》【ハロ！ステ\#138】（2015年10月7日公開）\[116\]
+  - 《戀愛咒縛（五反田郵港Hall）》《呐喊男孩 WAO\!（五反田郵港Hall） 》《四字成語（野村みな美）》【ハロ！ステ\#138】（2015年10月7日公開）\[116\]
   - 【GREEN ROOM\#24】嘉賓主持人：藤井梨央（2015年10月8日公開）\[117\]
   - 《四字成語（野村みな美）》【ハロ！ステ\#139】（2015年10月14日公開）\[118\]
   - 《四字成語（野村みな美）》【ハロ！ステ\#140】主持人：藤井梨央（2015年10月21日公開）\[119\]
@@ -942,13 +872,10 @@ Studio Live：明日會放晴
   - 《一丁目摇滚\!（UMEDA CLUB QUATTRO）》【ハロ！ステ\#143】（2015年11月11日公開）\[122\]
   - Kobushi屋之日本全國麵紀行 \#1（2015年11月12日公開）\[123\]
   - 《四字成語（井上玲音）》【ハロ！ステ\#144】主持人：和田櫻子（2015年11月18日公開）\[124\]
-  - 《Live Tour 2015〜The First Ring\!〜幕後篇》【GREEN
-    ROOM\#30】（2015年11月19日公開）\[125\]
-  - 《戀愛之蛻（UMEDA CLUB
-    QUATTRO）》《四字成語（井上玲音）》【ハロ！ステ\#145】（2015年11月25日公開）\[126\]
+  - 《Live Tour 2015〜The First Ring\!〜幕後篇》【GREEN ROOM\#30】（2015年11月19日公開）\[125\]
+  - 《戀愛之蛻（UMEDA CLUB QUATTRO）》《四字成語（井上玲音）》【ハロ！ステ\#145】（2015年11月25日公開）\[126\]
   - Kobushi屋之日本全國麵紀行 \#2（2015年11月25日公開）\[127\]
-  - 《Live Tour 2015〜The First Ring\!〜幕後篇》【GREEN
-    ROOM\#31】（2015年11月26日公開）\[128\]
+  - 《Live Tour 2015〜The First Ring\!〜幕後篇》【GREEN ROOM\#31】（2015年11月26日公開）\[128\]
   - Kobushi屋之日本全國麵紀行 \#3（2015年11月30日公開）\[129\]
   - Kobushi屋之日本全國麵紀行 \#4（2015年11月30日公開）\[130\]
   - 【ハロ！ステ\#146】主持人：濱浦彩乃（2015年12月2日公開）\[131\]
@@ -971,44 +898,33 @@ Studio Live：明日會放晴
   - 《拍攝MV的幕後：押忍！Kobushi魂》【Upcoming\#4】(2016年2月19日公開）\[145\]
   - 《喜歡生偶像（野村＆藤井）》（[Niconico動畫](../Page/Niconico動畫.md "wikilink")，2016年2月25日公開）
   - 《拍攝MV的幕後：櫻花狂熱夜》【Upcoming\#6】(2016年3月4日公開）\[146\]
-  - 《Girls Hang Out 廣瀨彩海＆小川麗奈 去勝浦郊遊（前篇）》【Girls Night
-    Out\#7】（2016年3月10日公開）\[147\]
-  - 《Girls Hang Out 廣瀨彩海＆小川麗奈 去勝浦郊遊（後篇）》【Girls Night
-    Out\#8】（2016年3月17日公開）\[148\]
-  - 《Girls Hang Out 藤井梨央＆野村みな美 去忍野八海郊遊（前篇）》【Girls Night
-    Out\#9】（2016年3月24日公開）\[149\]
+  - 《Girls Hang Out 廣瀨彩海＆小川麗奈 去勝浦郊遊（前篇）》【Girls Night Out\#7】（2016年3月10日公開）\[147\]
+  - 《Girls Hang Out 廣瀨彩海＆小川麗奈 去勝浦郊遊（後篇）》【Girls Night Out\#8】（2016年3月17日公開）\[148\]
+  - 《Girls Hang Out 藤井梨央＆野村みな美 去忍野八海郊遊（前篇）》【Girls Night Out\#9】（2016年3月24日公開）\[149\]
   - 《櫻前線北上計劃》啟動！(2016年3月29日公開）\[150\]
   - 《櫻前線北上計劃》～第一次 福岡篇～（2016年3月29日公開）\[151\]
   - 《櫻前線北上計劃》～第二次 大阪篇～（2016年3月31日公開）\[152\]
-  - 《Girls Hang Out 藤井梨央＆野村みな美 去忍野八海郊遊（後篇）》【Girls Night
-    Out\#10】（2016年3月31日公開）\[153\]
+  - 《Girls Hang Out 藤井梨央＆野村みな美 去忍野八海郊遊（後篇）》【Girls Night Out\#10】（2016年3月31日公開）\[153\]
   - 《櫻前線北上計劃》～第三次 名古屋篇～（2016年4月5日公開）\[154\]
   - 《櫻前線北上計劃》～第四次 仙台篇～（2016年4月7日公開）\[155\]
   - 《櫻前線北上計劃》～第五次 札幌篇～（2016年4月12日公開）\[156\]
   - 《櫻前線北上計劃》～結束篇 東京集合～（2016年4月14日公開）\[157\]
   - 《櫻前線北上計劃》～盛開 Ver.～（2016年5月2日公開）\[158\]
   - 《櫻前線北上計劃》～Dance Ver.～（2016年5月2日公開）\[159\]
-  - 《Girls Hang Out 濱浦彩乃＆井上玲音 去栃木縣日光郊遊（前篇）》【Girls Night
-    Out\#20】（2016年6月9日公開）\[160\]
-  - 《Girls Hang Out 濱浦彩乃＆井上玲音 去栃木縣宇都宮郊遊（後篇）》【Girls Night
-    Out\#21】（2016年6月16日公開）\[161\]
-  - 《Girls Hang Out 小川麗奈＆和田櫻子 爬高尾山（前篇）》【Girls Night
-    Out\#24】（2016年7月7日公開）\[162\]
+  - 《Girls Hang Out 濱浦彩乃＆井上玲音 去栃木縣日光郊遊（前篇）》【Girls Night Out\#20】（2016年6月9日公開）\[160\]
+  - 《Girls Hang Out 濱浦彩乃＆井上玲音 去栃木縣宇都宮郊遊（後篇）》【Girls Night Out\#21】（2016年6月16日公開）\[161\]
+  - 《Girls Hang Out 小川麗奈＆和田櫻子 爬高尾山（前篇）》【Girls Night Out\#24】（2016年7月7日公開）\[162\]
   - 《灌錄計劃：來吧青春！》【Upcoming\#24】(2016年7月8日公開）\[163\]
-  - 《Girls Hang Out 小川麗奈＆和田櫻子 自高尾山至相模湖（後篇）》【Girls Night
-    Out\#25】（2016年7月14日公開）\[164\]
-  - 《拍攝MV的幕後：來吧青春！》《灌錄計劃：森巴\!
-    Kobushi熱內盧》【Upcoming\#25】(2016年7月15日公開）\[165\]
+  - 《Girls Hang Out 小川麗奈＆和田櫻子 自高尾山至相模湖（後篇）》【Girls Night Out\#25】（2016年7月14日公開）\[164\]
+  - 《拍攝MV的幕後：來吧青春！》《灌錄計劃：森巴\! Kobushi熱內盧》【Upcoming\#25】(2016年7月15日公開）\[165\]
   - 【Girls Night Out\#26】嘉賓：藤井梨央＆廣瀨彩海（2016年7月21日公開）\[166\]
   - 《拍攝MV的幕後：森巴\! Kobushi熱內盧》【Upcoming\#26】(2016年7月22日公開）\[167\]
   - 《拍攝MV的幕後：我是最受歡迎的》【Upcoming\#27】(2016年7月29日公開）\[168\]
   - 【Girls Night Out\#35】嘉賓：田口夏實＆井上玲音（2016年9月22日公開）\[169\]
   - 有時回來的Kobushi屋之日本全國麵紀行 \#1（2016年10月26日公開）\[170\]
   - 有時回來的Kobushi屋之日本全國麵紀行 \#2（2016年10月31日公開）\[171\]
-  - 《Girls Hang Out 藤井梨央＆田口夏實 去秋之那須郊遊（前篇）》【Girls Night
-    Out\#42】（2016年11月10日公開）\[172\]
-  - 《Girls Hang Out 藤井梨央＆田口夏實 去秋之那須郊遊（後篇）》【Girls Night
-    Out\#43】（2016年11月17日公開）\[173\]
+  - 《Girls Hang Out 藤井梨央＆田口夏實 去秋之那須郊遊（前篇）》【Girls Night Out\#42】（2016年11月10日公開）\[172\]
+  - 《Girls Hang Out 藤井梨央＆田口夏實 去秋之那須郊遊（後篇）》【Girls Night Out\#43】（2016年11月17日公開）\[173\]
   - 有時回來的Kobushi屋之日本全國麵紀行 特别篇（2016年12月13日公開）\[174\]
   - 《拍攝MV的幕後：辛夷之花》【Upcoming\#49】(2016年12月30日公開）\[175\]
 
@@ -1019,8 +935,7 @@ Studio Live：明日會放晴
   - 早安家族女兒節演唱會2017～1次為限！獨唱＆洗牌組合抽簽會！～（2017年2月6日公開）\[178\]
   - 《JK忍者Girls 排練》【ハロ！ステ\#206】 （2017年2月8日公開）\[179\]
   - 《JK忍者Girls 排練》【ハロ！ステ\#207】 （2017年2月15日公開）\[180\]
-  - Girls DIY 小川麗奈＆田口夏實《UV樹脂首飾》【Girls Night
-    Out\#55】（2017年2月16日公開）\[181\]
+  - Girls DIY 小川麗奈＆田口夏實《UV樹脂首飾》【Girls Night Out\#55】（2017年2月16日公開）\[181\]
   - 續・早安家族女兒節演唱會2017～1次為限！獨唱＆洗牌組合抽簽會！～（2017年2月27日公開）\[182\]
   - 《JK忍者Girls 搬上銀幕之通知》【ハロ！ステ\#210】 （2017年3月8日公開）\[183\]
   - 《野村みな美 万岁\! ～真是WONDERFUL的人生\!～》【ハロ！ステ\#213】 （2017年3月29日公開）\[184\]
@@ -1036,19 +951,14 @@ Studio Live：明日會放晴
   - 《超讚的不是嗎？忍者也行對吧？(ハロ！ステEdit)》【ハロ！ステ\#220】 （2017年5月24日公開）\[194\]
   - 【Upcoming\#68】嘉賓主持人：廣瀨彩海（2017年5月26日公開）\[195\]
   - 《Shalala！必定能做得到(ハロ！ステEdit)》【ハロ！ステ\#221】 （2017年5月31日公開）\[196\]
-  - 《Shalala！必定能做得到(MV幕後花絮影像)》《My Favorite MusicVideo
-    (小川麗奈＆野村みな美)》【ハロ！ステ\#223】
-    主持人：廣瀨彩海（2017年6月14日公開）\[197\]
-  - 《My Favorite MusicVideo (小川麗奈＆野村みな美)》【ハロ！ステ\#223】
-    主持人：小川麗奈（2017年6月21日公開）
-  - 《Shalala！必定能做得到 Live at LaLaport豊洲
-    2017/6/14)》【Upcoming\#72】(2017年6月23日公開）\[198\]
+  - 《Shalala！必定能做得到(MV幕後花絮影像)》《My Favorite MusicVideo (小川麗奈＆野村みな美)》【ハロ！ステ\#223】 主持人：廣瀨彩海（2017年6月14日公開）\[197\]
+  - 《My Favorite MusicVideo (小川麗奈＆野村みな美)》【ハロ！ステ\#223】 主持人：小川麗奈（2017年6月21日公開）
+  - 《Shalala！必定能做得到 Live at LaLaport豊洲 2017/6/14)》【Upcoming\#72】(2017年6月23日公開）\[198\]
   - 《化妝計劃：藤井梨央》【ハロ！ステ\#225】 （2017年6月28日公開）\[199\]
   - 【Upcoming\#73】嘉賓主持人：井上玲音（2017年6月30日公開）\[200\]
   - 《化妝計劃 井上玲音》【ハロ！ステ\#226】 （2017年7月5日公開）\[201\]
   - 【ハロ！ステ\#227】 主持人：濱浦彩乃（2017年7月12日公開）\[202\]
-  - 《超讚的不是嗎？忍者也行對吧？ Live at 歐力士劇場
-    2017/7/16》【Upcoming\#78】（2017年8月4日公開）\[203\]
+  - 《超讚的不是嗎？忍者也行對吧？ Live at 歐力士劇場 2017/7/16》【Upcoming\#78】（2017年8月4日公開）\[203\]
   - 《化妝計劃：濱浦彩乃》【ハロ！ステ\#228】主持人：野村みな美 （2017年7月19日公開）\[204\]
   - 《學習做菜 (田口夏實)》【ハロ！ステ\#229】 （2017年7月26日公開）\[205\]
   - 《學習做菜 (田口夏實)》【ハロ！ステ\#230】 （2017年8月2日公開）\[206\]
@@ -1076,26 +986,21 @@ Studio Live：明日會放晴
 <!-- end list -->
 
   - 《請教！某某老師 和田櫻子＆井上玲音》【ハロ！ステ\#255】（2018年1月31日公開）\[227\]
-  - 《從現在就開始！（1/14 中野太陽廣場）》《請教！某某老師
-    和田櫻子＆井上玲音》【ハロ！ステ\#256】主持人：廣瀨彩海（2018年2月7日公開）\[228\]
+  - 《從現在就開始！（1/14 中野太陽廣場）》《請教！某某老師 和田櫻子＆井上玲音》【ハロ！ステ\#256】主持人：廣瀨彩海（2018年2月7日公開）\[228\]
   - 早安家族女兒節演唱會2018～慣例！獨唱＆洗牌組合抽簽會～（2018年2月9日公開）\[229\]
   - 【Upcoming\#104】嘉賓主持人：和田櫻子（2018年2月9日公開）\[230\]
-  - 《定點觀測ハロ！ステSTUDIO 野村みな美＆濱浦彩乃》《請教！某某老師 和田櫻子＆井上玲音》《ハロ！ステStyling Lesson
-    廣瀨彩海》【ハロ！ステ\#257】（2018年2月14日公開）\[231\]
+  - 《定點觀測ハロ！ステSTUDIO 野村みな美＆濱浦彩乃》《請教！某某老師 和田櫻子＆井上玲音》《ハロ！ステStyling Lesson 廣瀨彩海》【ハロ！ステ\#257】（2018年2月14日公開）\[231\]
   - 《tiny tiny Advice 井上玲音》【tiny tiny\#17】（2018年2月22日公開）\[232\]
   - 《灌錄計劃：明日會放晴 Vol.01》【Upcoming\#107】（2018年3月2日公開）\[233\]
-  - 《明日會放晴 ハロ！ステEdit.》《ハロ！ステStyling Lesson
-    井上玲音》【ハロ！ステ\#260】（2018年3月7日公開）\[234\]
+  - 《明日會放晴 ハロ！ステEdit.》《ハロ！ステStyling Lesson 井上玲音》【ハロ！ステ\#260】（2018年3月7日公開）\[234\]
   - 《tiny tiny Advice 野村みな美》【tiny tiny\#19】（2018年3月8日公開）\[235\]
   - 《灌錄計劃：明日會放晴 Vol.02》【Upcoming\#108】（2018年3月9日公開）\[236\]
-  - 《從現在就開始！ ハロ！ステEdit.》《定點觀測ハロ！ステSTUDIO
-    全員》【ハロ！ステ\#261】主持人：濱浦彩乃（2018年3月14日公開）\[237\]
+  - 《從現在就開始！ ハロ！ステEdit.》《定點觀測ハロ！ステSTUDIO 全員》【ハロ！ステ\#261】主持人：濱浦彩乃（2018年3月14日公開）\[237\]
   - 《趨向再出發… part1》【ハロ！ステ\#262】（2018年3月21日公開）\[238\]
   - 《tiny tiny Advice 廣瀨彩海》【tiny tiny\#21】（2018年3月22日公開）\[239\]
   - 《趨向再出發… part2》【ハロ！ステ\#263】（2018年3月28日公開）\[240\]
   - 《定點觀測ハロ！ステSTUDIO 井上玲音》《趨向再出發… part3》【ハロ！ステ\#264】（2018年4月4日公開）\[241\]
-  - 《定點觀測ハロ！ステSTUDIO 井上玲音》《趨向再出發…
-    part4》【ハロ！ステ\#265】（2018年4月11日公開）\[242\]
+  - 《定點觀測ハロ！ステSTUDIO 井上玲音》《趨向再出發… part4》【ハロ！ステ\#265】（2018年4月11日公開）\[242\]
   - 《tiny tiny Advice 濱浦彩乃》【tiny tiny\#24】（2018年4月12日公開）\[243\]
   - 【Upcoming\#113】嘉賓主持人：廣瀨彩海（2018年4月13日公開）\[244\]
   - 《從現在就開始》伊上 麗篇（2018年4月16日公開）\[245\]
@@ -1106,26 +1011,20 @@ Studio Live：明日會放晴
   - 《從現在就開始》野川 南篇（2018年4月24日公開）\[250\]
   - 《Go To THE TOP\!\! (4/8 仙台Rensa)》【ハロ！ステ\#267】（2018年4月28日公開）\[251\]
   - 《明日會放晴》朗讀：廣瀨彩海（2018年5月2日公開）\[252\]
-  - 《定點觀測ハロ！ステSTUDIO 全員》《趨向再出發… 特别篇》【ハロ！ステ\#268】 主持人：井上玲音（2018年5月2日公開）
-    \[253\]
+  - 《定點觀測ハロ！ステSTUDIO 全員》《趨向再出發… 特别篇》【ハロ！ステ\#268】 主持人：井上玲音（2018年5月2日公開） \[253\]
   - 《明日會放晴》朗讀：井上玲音（2018年5月5日公開）\[254\]
-  - 《Kobushi Factory ＆ Tsubaki Factory 超HAPPY SONG(5/3
-    中野太陽廣場)》【ハロ！ステ\#269】（2018年5月9日公開）\[255\]
+  - 《Kobushi Factory ＆ Tsubaki Factory 超HAPPY SONG(5/3 中野太陽廣場)》【ハロ！ステ\#269】（2018年5月9日公開）\[255\]
   - 《為龜吧！ (4/8 仙台Rensa)》【ハロ！ステ\#271】（2018年5月23日公開）\[256\]
-  - 《定點觀測ハロ！ステSTUDIO 全員》《ハロ！ステStyling Lesson 野村みな美》新計劃《考慮獨創的午餐菜單吧
-    井上玲音》【ハロ！ステ\#272】（2018年5月30日公開）\[257\]
+  - 《定點觀測ハロ！ステSTUDIO 全員》《ハロ！ステStyling Lesson 野村みな美》新計劃《考慮獨創的午餐菜單吧 井上玲音》【ハロ！ステ\#272】（2018年5月30日公開）\[257\]
   - 新計劃《考慮獨創的午餐菜單吧 井上玲音》【ハロ！ステ\#273】（2018年6月6日公開）\[258\]
   - 新計劃《考慮獨創的午餐菜單吧 井上玲音》【ハロ！ステ\#274】（2018年6月13日公開）\[259\]
   - 《ハロ！ステStyling Lesson 濱浦彩乃》【ハロ！ステ\#275】（2018年6月20日公開）\[260\]
-  - 《定點觀測ハロ！ステSTUDIO 井上玲音》《從Kobushi
-    Factory之通知》【ハロ！ステ\#276】（2018年6月27日公開）\[261\]
-  - 《從現在就開始！ (6/17 吉祥寺CLUB
-    SEATA)》【ハロ！ステ\#277】主持人：野村みな美（2018年7月4日公開）\[262\]
+  - 《定點觀測ハロ！ステSTUDIO 井上玲音》《從Kobushi Factory之通知》【ハロ！ステ\#276】（2018年6月27日公開）\[261\]
+  - 《從現在就開始！ (6/17 吉祥寺CLUB SEATA)》【ハロ！ステ\#277】主持人：野村みな美（2018年7月4日公開）\[262\]
   - 【Upcoming\#125】嘉賓主持人：廣瀨彩海（2018年7月6日公開）\[263\]
   - 《定點觀測ハロ！ステSTUDIO 井上玲音》【ハロ！ステ\#278】（2018年7月11日公開）\[264\]
   - 《我一定可以 ハロ！ステEdit.》【ハロ！ステ\#279】主持人：和田櫻子（2018年7月18日公開）\[265\]
-  - 《有志者事竟成 ハロ！ステEdit.》《Kobushi Factory ＆ Tsubaki Factory 突然出現的葫蘆島
-    ハロ！ステEdit.》【ハロ！ステ\#280】（2018年7月25日公開）\[266\]
+  - 《有志者事竟成 ハロ！ステEdit.》《Kobushi Factory ＆ Tsubaki Factory 突然出現的葫蘆島 ハロ！ステEdit.》【ハロ！ステ\#280】（2018年7月25日公開）\[266\]
   - 我一定可以【2018.08.05 中野太陽廣場】 （2018年8月5日公開）\[267\]
   - 《舞蹈講座》我一定可以（2018年8月7日公開）\[268\]
   - 《有志者事竟成》灌錄 Vol.1（2018年8月7日公開）\[269\]
@@ -1138,8 +1037,7 @@ Studio Live：明日會放晴
   - 《Tiny Relaxation 和田櫻子》【tiny tiny\#47】（2018年9月21日公開）\[276\]
   - 《Kobushi屋之日本全國麵紀行》 福岡篇（2018年9月25日公開）\[277\]
   - 《My tiny trend 廣瀨彩海》【tiny tiny\#50】（2018年10月12日公開）\[278\]
-  - Kobushi濱浦 ＆ Tsubaki淺倉《Kobushi屋之日本全國麵紀行》
-    大沾麵博約會篇（2018年10月22日公開）\[279\]
+  - Kobushi濱浦 ＆ Tsubaki淺倉《Kobushi屋之日本全國麵紀行》 大沾麵博約會篇（2018年10月22日公開）\[279\]
   - 【tiny tiny\#52】嘉賓：井上玲音（2018年10月26日公開）\[280\]
   - 【tiny tiny\#54】嘉賓：野村みな美（2018年11月9日公開）\[281\]
   - 無伴奏合唱《小心又小心（認真ver）》（2018年12月4日公開）\[282\]
@@ -1427,25 +1325,17 @@ Studio Live：明日會放晴
 
 ## 外部連結
 
-  - [Kobushi Factory Hello\!Project
-    官方頁面](http://helloproject.com/kobushifactory/)(日文)
+  - [Kobushi Factory Hello\!Project 官方頁面](http://helloproject.com/kobushifactory/)(日文)
   - [Kobushi Factory 官方油管](https://www.youtube.com/c/kobushifactory/)
-  - \[<https://twitter.com/kobushifac_uf>　Kobushi Factory
-    官方推特(@kobushifac_uf)\]
-  - [Kobushi Factory
-    官方Instagram(kobushifactory_official)](https://www.instagram.com/kobushifactory_official/)
+  - \[<https://twitter.com/kobushifac_uf>　Kobushi Factory 官方推特(@kobushifac_uf)\]
+  - [Kobushi Factory 官方Instagram(kobushifactory_official)](https://www.instagram.com/kobushifactory_official/)
   - [Kobushi Facotry 官方臉譜網](https://www.facebook.com/kobushifactory)
   - [Kobushi Factory 官方谷歌+](https://plus.google.com/+kobushifactory)
   - [Kobushi Factory 官方博客](https://ameblo.jp/kobushi-factory/)(日文)
 
 ## 參考資料
 
-[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:Kobushi_Factory](https://zh.wikipedia.org/wiki/Category:Kobushi_Factory "wikilink")
-[Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
-[Category:2015年日本建立](https://zh.wikipedia.org/wiki/Category:2015年日本建立 "wikilink")
+[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:Kobushi_Factory](https://zh.wikipedia.org/wiki/Category:Kobushi_Factory "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink") [Category:2015年日本建立](https://zh.wikipedia.org/wiki/Category:2015年日本建立 "wikilink")
 
 1.
 2.

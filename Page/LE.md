@@ -1,36 +1,29 @@
 **安孝珍**\[1\]（，，1991年12月10日－），藝名**LE**\[2\]（），原藝名為Elly（），在韓國[忠清南道](../Page/忠清南道.md "wikilink")[天安市](../Page/天安市.md "wikilink")[雙龍洞出生](../Page/雙龍洞_\(韓國\).md "wikilink")，[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[饒舌歌手和](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID成員之一](https://zh.wikipedia.org/wiki/EXID "wikilink")，2012年2月16日加入女子演唱組合[EXID後](https://zh.wikipedia.org/wiki/EXID "wikilink")，以成員**LE**身份正式出道，於組合內擔任主Rapper。\[3\]
 
-除了歌手的身份外，LE同時以[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")、[作曲家和](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[音樂製作人的身份活躍於樂壇](../Page/音樂製作人.md "wikilink")，至今她創作了66首作品，她以音樂製作人身份登記於韓國音樂著作權家協會，登記編號為[10002393](https://archive.is/20150408120621/http://www.komca.or.kr/wos/wos_popup_select_member_right.jsp?S_MB_CD=10002393)。
+除了歌手的身份外，LE同時以[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")、[作曲家和](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")的身份活躍於樂壇，至今她創作了66首作品，她以音樂製作人身份登記於韓國音樂著作權家協會，登記編號為[10002393](https://archive.is/20150408120621/http://www.komca.or.kr/wos/wos_popup_select_member_right.jsp?S_MB_CD=10002393)。
 
 ## 演藝經歷
 
-曾為[Cube娛樂練習生及前地下組合Jiggy](../Page/Cube娛樂.md "wikilink")
-Fellaz的唯一女成員，當時藝名為**Elly**（）。
+曾為[Cube娛樂](../Page/Cube娛樂.md "wikilink")練習生及前地下組合Jiggy Fellaz的唯一女成員，當時藝名為**Elly**（）。
 
-[가천대_LE.jpg](https://zh.wikipedia.org/wiki/File:가천대_LE.jpg "fig:가천대_LE.jpg")全全球校園藝術節的活動舞台上表演。\]\]
-2011年，曾與[許閣共同推出單曲](../Page/許閣.md "wikilink")《每當響起這首歌》。
+[가천대_LE.jpg](https://zh.wikipedia.org/wiki/File:가천대_LE.jpg "fig:가천대_LE.jpg")全全球校園藝術節的活動舞台上表演。\]\] 2011年，曾與[許閣](../Page/許閣.md "wikilink")共同推出單曲《每當響起這首歌》。
 
 2012年2月16日加入[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")，更改藝名為**LE**。
 
-2013年和[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨和](../Page/龍俊亨.md "wikilink")[Bigstar成員](https://zh.wikipedia.org/wiki/Bigstar "wikilink")推出單曲《無可奈何》\[4\]。
+2013年和[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨](../Page/龍俊亨.md "wikilink")和[Bigstar成員](https://zh.wikipedia.org/wiki/Bigstar "wikilink")推出單曲《無可奈何》\[4\]。
 
-2014年7月，作為知名歌手[泫雅的私人Rap老師](../Page/金泫雅.md "wikilink")，加入專輯《A
-Talk》製作團隊，受邀參與《Blacklist》放送。
+2014年7月，作為知名歌手[泫雅的私人Rap老師](../Page/金泫雅.md "wikilink")，加入專輯《A Talk》製作團隊，受邀參與《Blacklist》放送。
 
-2014年10月，因一名粉絲把隊友[哈妮的影片上傳到](https://zh.wikipedia.org/wiki/安喜延 "wikilink")[YouTube](../Page/YouTube.md "wikilink")，所屬團體[EXID逐漸因琅琅上口的](https://zh.wikipedia.org/wiki/EXID "wikilink")《Up
-&
-Down》打開知名度，也是[韓國樂壇裡第一次被強制召回](https://zh.wikipedia.org/wiki/韓國 "wikilink")，截至2018年4月，該影片突破2600萬點閱率。
+2014年10月，因一名粉絲把隊友[哈妮的影片上傳到](https://zh.wikipedia.org/wiki/安喜延 "wikilink")[YouTube](../Page/YouTube.md "wikilink")，所屬團體[EXID逐漸因琅琅上口的](https://zh.wikipedia.org/wiki/EXID "wikilink")《Up & Down》打開知名度，也是[韓國樂壇裡第一次被強制召回](https://zh.wikipedia.org/wiki/韓國 "wikilink")，截至2018年4月，該影片突破2600萬點閱率。
 
 2015年，EXID趁勝追擊推出《Ah Yeah》迷你專輯。
 
-2018年6月，除了隊長[率智養病](../Page/率智.md "wikilink")，[EXID另外](https://zh.wikipedia.org/wiki/EXID "wikilink")4位成員就飛到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯出席](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")「Kpop
-Summer Nights」的演出\[5\]。
+2018年6月，除了隊長[率智](../Page/率智.md "wikilink")養病，[EXID另外](https://zh.wikipedia.org/wiki/EXID "wikilink")4位成員就飛到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯出席](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")「Kpop Summer Nights」的演出\[5\]。
 
 ## 音樂作品
 
   -
-    <small>**僅列出LE個人參與或有特別個人表演之作品**；所屬團體之共同作品，請參閱
-    [EXID音樂作品列表](../Page/EXID音樂作品列表.md "wikilink")。</small>
+    <small>**僅列出LE個人參與或有特別個人表演之作品**；所屬團體之共同作品，請參閱 [EXID音樂作品列表](../Page/EXID音樂作品列表.md "wikilink")。</small>
 
 ### 合作歌曲
 
@@ -1010,21 +1003,13 @@ Summer Nights」的演出\[5\]。
 <!-- end list -->
 
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink")
-[Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink")
-[Category:EXID成員](https://zh.wikipedia.org/wiki/Category:EXID成員 "wikilink")
-[Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
-[Category:忠清南道出身人物](https://zh.wikipedia.org/wiki/Category:忠清南道出身人物 "wikilink")
-[Category:安姓](https://zh.wikipedia.org/wiki/Category:安姓 "wikilink")
-[Category:12月10日](https://zh.wikipedia.org/wiki/Category:12月10日 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink") [Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink") [Category:EXID成員](https://zh.wikipedia.org/wiki/Category:EXID成員 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:忠清南道出身人物](https://zh.wikipedia.org/wiki/Category:忠清南道出身人物 "wikilink") [Category:安姓](https://zh.wikipedia.org/wiki/Category:安姓 "wikilink") [Category:12月10日](https://zh.wikipedia.org/wiki/Category:12月10日 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [【韓流】EXID齊騷Quali！Hani低胸小背心VS
-    LE比堅尼誘惑](https://hk.entertainment.appledaily.com/enews/realtime/article/20180611/58301534)
+5.  [【韓流】EXID齊騷Quali！Hani低胸小背心VS LE比堅尼誘惑](https://hk.entertainment.appledaily.com/enews/realtime/article/20180611/58301534)
 6.
 7.
 8.

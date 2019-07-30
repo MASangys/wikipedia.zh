@@ -114,10 +114,7 @@
   - [Turn 10工作室](http://www.forzamotorsport.net/en-us/turn10)在《极限竞速》系列官方网站的页面
 
   -
-[Category:2001年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2001年開業電子遊戲公司 "wikilink")
-[Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
+[Category:2001年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2001年開業電子遊戲公司 "wikilink") [Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
 
 1.
 2.

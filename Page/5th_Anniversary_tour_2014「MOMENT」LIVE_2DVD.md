@@ -1,5 +1,4 @@
-《 **5th Anniversary tour 2014「MOMENT」LIVE
-2DVD**》是日本樂團[凡人譜第五張演唱會DVD](../Page/凡人譜.md "wikilink")，於2014年12月24日發行\[1\]。flumpool[凡人譜出道](../Page/凡人譜.md "wikilink")5週年之集大成，收錄[橫濱ARENA](https://zh.wikipedia.org/wiki/橫濱 "wikilink")＆[大阪城HALL連續](../Page/大阪城.md "wikilink")4天舉辦的演唱會中，橫濱ARENA最終公演紀念演唱會畫面\[2\]！
+《 **5th Anniversary tour 2014「MOMENT」LIVE 2DVD**》是日本樂團[凡人譜](../Page/凡人譜.md "wikilink")第五張演唱會DVD，於2014年12月24日發行\[1\]。flumpool[凡人譜](../Page/凡人譜.md "wikilink")出道5週年之集大成，收錄[橫濱ARENA](https://zh.wikipedia.org/wiki/橫濱 "wikilink")＆[大阪城](../Page/大阪城.md "wikilink")HALL連續4天舉辦的演唱會中，橫濱ARENA最終公演紀念演唱會畫面\[2\]！
 
 ## 曲目
 
@@ -72,12 +71,7 @@ at Nagoya Congress Center CENTURY HALL』
 
   - [flumpool](https://www.facebook.com/flumpool.official?fref=nf)
 
-[Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
-[Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:Flumpool音樂專輯](https://zh.wikipedia.org/wiki/Category:Flumpool音樂專輯 "wikilink")
+[Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink") [Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:Flumpool音樂專輯](https://zh.wikipedia.org/wiki/Category:Flumpool音樂專輯 "wikilink")
 
 1.
 2.

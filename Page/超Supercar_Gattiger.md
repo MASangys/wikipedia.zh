@@ -1,10 +1,8 @@
-超Supercar Gattiger『**超スーパーカー ガッタイガー**』（ちょうスーパーカー
-ガッタイガー）是永和制作的[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。1977年10月4日至1978年3月28日在[東京12频道](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")（現：东京电视台）放送。全26話。在毎週星期二19:30～20:00播出，但第14集播出于星期天17:00～17:30\[1\]。
+超Supercar Gattiger『**超スーパーカー ガッタイガー**』（ちょうスーパーカー ガッタイガー）是永和制作的[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。1977年10月4日至1978年3月28日在[東京12频道](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")（現：东京电视台）放送。全26話。在毎週星期二19:30～20:00播出，但第14集播出于星期天17:00～17:30\[1\]。
 
 ## 介绍
 
-装备了太陽能引擎的车子Gattiger其駕駛員田淵
-錠和隊友一起組成了老虎隊。而錠的父親田淵博士被敵方車隊惡魔一族杀害，老虎隊為了维护世界和平不斷阻止惡魔一族的陰謀。
+装备了太陽能引擎的车子Gattiger其駕駛員田淵 錠和隊友一起組成了老虎隊。而錠的父親田淵博士被敵方車隊惡魔一族杀害，老虎隊為了维护世界和平不斷阻止惡魔一族的陰謀。
 
 ## 人员
 
@@ -76,15 +74,9 @@
 
 ## 外部链接
 
-  - [太陽エネルギーエンジン研究所 〜 幻のSFアニメ 「超スーパーカー ガッタイガー」の全貌に迫る
-    〜](https://web.archive.org/web/20071011222240/http://www7a.biglobe.ne.jp/~sashimi/index.html){tv-stub}}
+  - [太陽エネルギーエンジン研究所 〜 幻のSFアニメ 「超スーパーカー ガッタイガー」の全貌に迫る 〜](https://web.archive.org/web/20071011222240/http://www7a.biglobe.ne.jp/~sashimi/index.html){tv-stub}}
 
-[Category:东京电视网动画](https://zh.wikipedia.org/wiki/Category:东京电视网动画 "wikilink")
-[Category:1977年日本电视动画](https://zh.wikipedia.org/wiki/Category:1977年日本电视动画 "wikilink")
-[Category:幼稚園_(雜誌)](https://zh.wikipedia.org/wiki/Category:幼稚園_\(雜誌\) "wikilink")
-[Category:赛车题材作品](https://zh.wikipedia.org/wiki/Category:赛车题材作品 "wikilink")
+[Category:东京电视网动画](https://zh.wikipedia.org/wiki/Category:东京电视网动画 "wikilink") [Category:1977年日本电视动画](https://zh.wikipedia.org/wiki/Category:1977年日本电视动画 "wikilink") [Category:幼稚園_(雜誌)](https://zh.wikipedia.org/wiki/Category:幼稚園_\(雜誌\) "wikilink") [Category:赛车题材作品](https://zh.wikipedia.org/wiki/Category:赛车题材作品 "wikilink")
 
 1.
-2.  「70年代アニメ秘話(2)
-    金山明博×[越智一裕](https://zh.wikipedia.org/wiki/越智一裕 "wikilink")」『オトナアニメCOLLECTION
-    いまだから語れる70年代アニメ秘話 テレビまんがの時代』オトナアニメ編集部編著、洋泉社、2012年、p.62
+2.  「70年代アニメ秘話(2) 金山明博×[越智一裕](https://zh.wikipedia.org/wiki/越智一裕 "wikilink")」『オトナアニメCOLLECTION いまだから語れる70年代アニメ秘話 テレビまんがの時代』オトナアニメ編集部編著、洋泉社、2012年、p.62

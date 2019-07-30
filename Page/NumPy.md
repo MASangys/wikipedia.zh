@@ -1,17 +1,14 @@
-**NumPy**是[Python語言的一個擴充程式庫](../Page/Python.md "wikilink")。支援高階大量的[維度](../Page/維度.md "wikilink")[陣列與](https://zh.wikipedia.org/wiki/陣列 "wikilink")[矩陣運算](https://zh.wikipedia.org/wiki/矩陣 "wikilink")，此外也針對陣列運算提供大量的[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")[函式庫](../Page/函式庫.md "wikilink")。NumPy的前身**Numeric**最早是由Jim
-Hugunin與其它協作者共同開發，2005年，Travis
-Oliphant在Numeric中結合了另一個同性質的程式庫Numarray的特色，並加入了其它擴充功能而開發了NumPy。NumPy為開放原始碼並且由許多協作者共同維護開發。
+**NumPy**是[Python](../Page/Python.md "wikilink")語言的一個擴充程式庫。支援高階大量的[維度](../Page/維度.md "wikilink")[陣列與](https://zh.wikipedia.org/wiki/陣列 "wikilink")[矩陣運算](https://zh.wikipedia.org/wiki/矩陣 "wikilink")，此外也針對陣列運算提供大量的[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")[函式庫](../Page/函式庫.md "wikilink")。NumPy的前身**Numeric**最早是由Jim Hugunin與其它協作者共同開發，2005年，Travis Oliphant在Numeric中結合了另一個同性質的程式庫Numarray的特色，並加入了其它擴充功能而開發了NumPy。NumPy為開放原始碼並且由許多協作者共同維護開發。
 
 ## 特色
 
 NumPy參考[CPython](../Page/CPython.md "wikilink")(一個使用[位元組碼的](https://zh.wikipedia.org/wiki/位元組碼 "wikilink")[直譯器](../Page/直譯器.md "wikilink"))，而在這個Python實作直譯器上所寫的數學[演算法程式碼通常遠比](https://zh.wikipedia.org/wiki/演算法 "wikilink")[編譯過的相同程式碼要來得慢](https://zh.wikipedia.org/wiki/編譯 "wikilink")。為了解決這個難題，NumPy引入了多維陣列以及可以直接有效率地操作多維陣列的[函式與運算子](https://zh.wikipedia.org/wiki/函式 "wikilink")。因此在NumPy上只要能被表示為針對陣列或矩陣運算的演算法，其執行效率幾乎都可以與編譯過的等效[C語言程式碼一樣快](https://zh.wikipedia.org/wiki/C語言 "wikilink")。\[1\]
 
-NumPy提供了與[MATLAB相似的功能與操作方式](../Page/MATLAB.md "wikilink")，因為兩者皆為直譯語言，並且都可以讓使用者在針對陣列或矩陣運算時提供較[純量運算更快的效能](https://zh.wikipedia.org/wiki/純量 "wikilink")。兩者相較之下，MATLAB提供了大量的擴充工具箱(例如[Simulink](../Page/Simulink.md "wikilink"))；而NumPy則是根基於Python這個更現代、完整並且開放原始碼的程式語言之上。此外NumPy也可以結合其它的Python擴充函式庫。例如[SciPy](../Page/SciPy.md "wikilink")，這個函式庫提供了更多與MATLAB相似的功能；以及[Matplotlib](https://zh.wikipedia.org/wiki/Matplotlib "wikilink")，這是一個與MATLAB內建繪圖功能類似的函式庫。而從本質上來說，NumPy與MATLAB同樣是利用[BLAS與](../Page/BLAS.md "wikilink")[LAPACK來提供高效率的線性代數運算](../Page/LAPACK.md "wikilink")。
+NumPy提供了與[MATLAB](../Page/MATLAB.md "wikilink")相似的功能與操作方式，因為兩者皆為直譯語言，並且都可以讓使用者在針對陣列或矩陣運算時提供較[純量運算更快的效能](https://zh.wikipedia.org/wiki/純量 "wikilink")。兩者相較之下，MATLAB提供了大量的擴充工具箱(例如[Simulink](../Page/Simulink.md "wikilink"))；而NumPy則是根基於Python這個更現代、完整並且開放原始碼的程式語言之上。此外NumPy也可以結合其它的Python擴充函式庫。例如[SciPy](../Page/SciPy.md "wikilink")，這個函式庫提供了更多與MATLAB相似的功能；以及[Matplotlib](https://zh.wikipedia.org/wiki/Matplotlib "wikilink")，這是一個與MATLAB內建繪圖功能類似的函式庫。而從本質上來說，NumPy與MATLAB同樣是利用[BLAS](../Page/BLAS.md "wikilink")與[LAPACK](../Page/LAPACK.md "wikilink")來提供高效率的線性代數運算。
 
 ### ndarray 数据結構
 
-NumPy的核心功能是"ndarray"(即*n*-dimensional
-array，多維陣列)数据結構。這是一個表示多維度、同質並且固定大小的陣列物件。而由一個與此陣列相關聯的資料型態物件來描述其陣列元素的資料格式(例如其字元組順序、在記憶體中佔用的字元組數量、整數或者浮點數等等)。
+NumPy的核心功能是"ndarray"(即*n*-dimensional array，多維陣列)数据結構。這是一個表示多維度、同質並且固定大小的陣列物件。而由一個與此陣列相關聯的資料型態物件來描述其陣列元素的資料格式(例如其字元組順序、在記憶體中佔用的字元組數量、整數或者浮點數等等)。
 
 ## 語法
 
@@ -92,8 +89,6 @@ array([[  53.61964114,   38.8741616 ,   71.53462537],
 ## 外部連結
 
   -
-[Category:陣列編程語言](https://zh.wikipedia.org/wiki/Category:陣列編程語言 "wikilink")
-[Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
-[Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
+[Category:陣列編程語言](https://zh.wikipedia.org/wiki/Category:陣列編程語言 "wikilink") [Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink") [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
 
 1.

@@ -1,11 +1,10 @@
-**理光THETA**是于2013年9月，由[理光公司推出的数码相机产品](../Page/理光.md "wikilink")，其最大特点在于可以一次性拍摄[全天球影像](https://zh.wikipedia.org/wiki/全景 "wikilink")，而于智能设备上回放。
+**理光THETA**是于2013年9月，由[理光](../Page/理光.md "wikilink")公司推出的数码相机产品，其最大特点在于可以一次性拍摄[全天球影像](https://zh.wikipedia.org/wiki/全景 "wikilink")，而于智能设备上回放。
 
 其后续产品为次年推出的 **理光THETA m15**，新增加了视频拍摄功能，于2014年11月发布。其后续产品保持每年一款的更新速度。
 
 ## 概述
 
-传统摄影中要尽可能多地收录环境，需要使用[广角镜头或](https://zh.wikipedia.org/wiki/广角镜头 "wikilink")[超广角镜头](https://zh.wikipedia.org/wiki/超广角镜头 "wikilink")，而进一步使用[鱼眼镜头](../Page/鱼眼镜头.md "wikilink")（圆周鱼眼）可以收录到约180°空间。THETA设计则使用了背对的两枚圆周鱼眼镜头，可以同时得到两侧的180°环境，然后机内以FPGA处理合成\[1\]，于是一次拍摄可以撷取几乎全天球的信息。
-THETA相机整体采用相当精简的设计，并没有设计回放用的屏幕，属于模块化设计，需要使用者以[iOS或](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android平台的智能设备进行](../Page/Android.md "wikilink")[wifi连接才可以回放](https://zh.wikipedia.org/wiki/wifi "wikilink")，或使用电脑线缆连接使用相应软件回放；使用者可以移动并放大画面中的细节。
+传统摄影中要尽可能多地收录环境，需要使用[广角镜头或](https://zh.wikipedia.org/wiki/广角镜头 "wikilink")[超广角镜头](https://zh.wikipedia.org/wiki/超广角镜头 "wikilink")，而进一步使用[鱼眼镜头](../Page/鱼眼镜头.md "wikilink")（圆周鱼眼）可以收录到约180°空间。THETA设计则使用了背对的两枚圆周鱼眼镜头，可以同时得到两侧的180°环境，然后机内以FPGA处理合成\[1\]，于是一次拍摄可以撷取几乎全天球的信息。 THETA相机整体采用相当精简的设计，并没有设计回放用的屏幕，属于模块化设计，需要使用者以[iOS或](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台的智能设备进行[wifi连接才可以回放](https://zh.wikipedia.org/wiki/wifi "wikilink")，或使用电脑线缆连接使用相应软件回放；使用者可以移动并放大画面中的细节。
 
 使用非专用软件时，浏览得到的是一张以2:1规格保存的jpg文件，因为其使用以在二维平面上保存全天球信息。
 
@@ -13,8 +12,7 @@ THETA相机整体采用相当精简的设计，并没有设计回放用的屏幕
 
 ## 市场反响与奖项
 
-THETA发布之后，首先登陆北美市场，之后于2013年11月才在日本本土上市\[3\]。售价为399美元\[4\] /
-4万日元\[5\]（约2400元人民币），但并未在中国大陆地区上市。
+THETA发布之后，首先登陆北美市场，之后于2013年11月才在日本本土上市\[3\]。售价为399美元\[4\] / 4万日元\[5\]（约2400元人民币），但并未在中国大陆地区上市。
 
 ## 系列机型
 
@@ -22,21 +20,17 @@ THETA在全球市场取得巨大的关注，理光公司也追加了后续机型
 
   - RICOH THETA m15
 
-2014年11月发布\[6\]\[7\]。加入了视频录制功能，以MPEG-4
-AVC/H.264编码。在2015年的固件更新中，视频录制时间延长到最长5分钟\[8\]。具有蓝黄红白四色。
+2014年11月发布\[6\]\[7\]。加入了视频录制功能，以MPEG-4 AVC/H.264编码。在2015年的固件更新中，视频录制时间延长到最长5分钟\[8\]。具有蓝黄红白四色。
 
   - [RICOH THETA S](../Page/理光THETA_S.md "wikilink")
 
-2015年9月发布\[9\]\[10\]，外观不变，感光元件升级到1/2.3英寸规格，镜头也使用新设计的6群7枚，开放光圈F2\[11\]。静止图像支持最高5376×2688规格，视频拍摄时间延长到15分；此外，底部提供了
-type D 型的[HDMI输出接口](../Page/HDMI.md "wikilink")。仅提供黑色款。
+2015年9月发布\[9\]\[10\]，外观不变，感光元件升级到1/2.3英寸规格，镜头也使用新设计的6群7枚，开放光圈F2\[11\]。静止图像支持最高5376×2688规格，视频拍摄时间延长到15分；此外，底部提供了 type D 型的[HDMI](../Page/HDMI.md "wikilink")输出接口。仅提供黑色款。
 
   - RICOH THETA SC
 
 2016年10月推出，基本规格与THETA S类似，不提供底部的HDMI输出串流，但提供四种颜色可选\[12\]。
 
-2017年8月，理光为[初音未來诞生十周年](../Page/初音未來.md "wikilink")，推出特别联名版本**THETA SC
-Type HATSUNE
-MIKU**，机身为标志性蓝绿色，其具有初音未来形象\[13\]。除了基本的功能外，可以在专属APP中为全景照片添加miku形象。该特别版全球限量发售3939台。
+2017年8月，理光为[初音未來](../Page/初音未來.md "wikilink")诞生十周年，推出特别联名版本**THETA SC Type HATSUNE MIKU**，机身为标志性蓝绿色，其具有初音未来形象\[13\]。除了基本的功能外，可以在专属APP中为全景照片添加miku形象。该特别版全球限量发售3939台。
 
   - RICOH THETA V
 
@@ -225,8 +219,7 @@ HDR合成<br />
       - 同时代的其他全景式相机
           - 2013年在上众筹，于2014年上市的全景相机，使用36个摄像头
 
-          - Bulbcam
-            在[kickstarter上筹款](https://zh.wikipedia.org/wiki/kickstarter "wikilink")，使用4枚镜头实现全景摄影，支持视频通话
+          - Bulbcam 在[kickstarter上筹款](https://zh.wikipedia.org/wiki/kickstarter "wikilink")，使用4枚镜头实现全景摄影，支持视频通话
 
           - **LG 360** LG公司在2016年推出的全景相机产品
 
@@ -239,22 +232,15 @@ HDR合成<br />
 ## 外部链接
 
   - [THETA专属站点](https://theta360.com)
-  - [RICOH THETA](http://www.ricoh-imaging.co.jp/japan/products/theta/)
-    — 理光官网
-  - [リコーが「THETA」で狙う新しい映像体験とは](http://av.watch.impress.co.jp/docs/series/rt/20130907_614485.html)
-    — Watch Impress
-  - [Ricoh Theta 中文动手玩，很方便的 360
-    自拍工具](http://cn.engadget.com/2013/09/09/ricoh-theta-360-chinese-handson/)
-    — 瘾科技
+  - [RICOH THETA](http://www.ricoh-imaging.co.jp/japan/products/theta/) — 理光官网
+  - [リコーが「THETA」で狙う新しい映像体験とは](http://av.watch.impress.co.jp/docs/series/rt/20130907_614485.html) — Watch Impress
+  - [Ricoh Theta 中文动手玩，很方便的 360 自拍工具](http://cn.engadget.com/2013/09/09/ricoh-theta-360-chinese-handson/) — 瘾科技
   - [视界的极致 —— 理光THETA相机](http://www.jianshu.com/p/5940e2f6c41b)
 
-[Category:理光數位相機](https://zh.wikipedia.org/wiki/Category:理光數位相機 "wikilink")
-[Category:全景相机](https://zh.wikipedia.org/wiki/Category:全景相机 "wikilink")
+[Category:理光數位相機](https://zh.wikipedia.org/wiki/Category:理光數位相機 "wikilink") [Category:全景相机](https://zh.wikipedia.org/wiki/Category:全景相机 "wikilink")
 
 1.
-2.  [RICOH THETAシリーズ
-    話題の全天球カメラの技術革新とは何か?](http://dc.watch.impress.co.jp/docs/news/interview_dcm/735470.html)
-    - DC Watch Impress
+2.  [RICOH THETAシリーズ 話題の全天球カメラの技術革新とは何か?](http://dc.watch.impress.co.jp/docs/news/interview_dcm/735470.html) - DC Watch Impress
 
 3.
 
@@ -262,25 +248,15 @@ HDR合成<br />
 
 5.
 
-6.  [1ショットで360度の全天球イメージが撮影できる 「RICOH
-    THETA」ニューモデル新発売](http://news.ricoh-imaging.co.jp/rim_info/2014/20141028_005994.html)
-    ricoh-imaging.co.jp
+6.  [1ショットで360度の全天球イメージが撮影できる 「RICOH THETA」ニューモデル新発売](http://news.ricoh-imaging.co.jp/rim_info/2014/20141028_005994.html) ricoh-imaging.co.jp
 
-7.  [動画撮影が可能になったリコーの全天球カメラ「THETA
-    m15」](http://av.watch.impress.co.jp/docs/news/20141028_673417.html)
-    - DC Watch Impress
+7.  [動画撮影が可能になったリコーの全天球カメラ「THETA m15」](http://av.watch.impress.co.jp/docs/news/20141028_673417.html) - DC Watch Impress
 
-8.  [「RICOH THETA」の純正防滴ケースが登場
-    新ファームウェア・新スマホアプリも近日リリース](http://dc.watch.impress.co.jp/docs/news/20150707_710450.html)
-    - DC Watch Impress
+8.  [「RICOH THETA」の純正防滴ケースが登場 新ファームウェア・新スマホアプリも近日リリース](http://dc.watch.impress.co.jp/docs/news/20150707_710450.html) - DC Watch Impress
 
-9.  [ワンショットで360度の高画質な撮影ができる 「RICOH THETA
-    S」新発売](http://news.ricoh-imaging.co.jp/rim_info/2015/20150904_009355.html)
-    ricoh-imaging.co.jp
+9.  [ワンショットで360度の高画質な撮影ができる 「RICOH THETA S」新発売](http://news.ricoh-imaging.co.jp/rim_info/2015/20150904_009355.html) ricoh-imaging.co.jp
 
-10. [360度カメラのハイスペック版「RICOH THETA S」 新型センサー&新開発レンズで高画質化
-    ライブビューや長秒撮影も](http://dc.watch.impress.co.jp/docs/news/20150904_719491.html)
-    - DC Watch Impress
+10. [360度カメラのハイスペック版「RICOH THETA S」 新型センサー&新開発レンズで高画質化 ライブビューや長秒撮影も](http://dc.watch.impress.co.jp/docs/news/20150904_719491.html) - DC Watch Impress
 
 11.
 12. [THETA SC|产品|理光](https://theta360.com/ct/about/theta/sc.html)

@@ -6,7 +6,7 @@
 | **第9作**                                                       |
 | **第10作**                                                      |
 
-《**特警：勝利搜查隊**》（原題：）是由[日本](../Page/日本.md "wikilink")[東映所製作的](../Page/東映.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。於1990年（平成2年）2月4日至1991年（平成3年）1月13日期間，在每週日上午8:00～8:30（JST）由朝日电视台播出，全49集，為「金属英雄系列」的第9部作品。
+《**特警：勝利搜查隊**》（原題：）是由[日本](../Page/日本.md "wikilink")[東映](../Page/東映.md "wikilink")所製作的[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。於1990年（平成2年）2月4日至1991年（平成3年）1月13日期間，在每週日上午8:00～8:30（JST）由朝日电视台播出，全49集，為「金属英雄系列」的第9部作品。
 
 本片在香港曾以《**未來特警**》譯名，由無線電視（TVB）於1991年（播出前半部）與1993年（播出後半部）播出。
 
@@ -24,8 +24,7 @@
 
 **特警：勝利搜查隊**熱愛和平，相信友情，為了守護人們的性命，面對犯罪挺身而出的「警視廳特別救急警察隊」之名。
 
-1999年，隨著科學技術日新月異的進步，人們生活因此變得更加富足；然而，不肖的「犯罪者們」將其技術逆用，造成多人犧牲的凶惡犯罪事件日趨增加。而為了遏止事態不斷擴大，日本當局成立了「警視廳特別救急警察隊」Special
-Rescue Police WINSPector(WSP)，其目的即為偵查犯罪、逮捕犯人，救助因災害或犯罪而有著生命危險的人們。
+1999年，隨著科學技術日新月異的進步，人們生活因此變得更加富足；然而，不肖的「犯罪者們」將其技術逆用，造成多人犧牲的凶惡犯罪事件日趨增加。而為了遏止事態不斷擴大，日本當局成立了「警視廳特別救急警察隊」Special Rescue Police WINSPector(WSP)，其目的即為偵查犯罪、逮捕犯人，救助因災害或犯罪而有著生命危險的人們。
 
 ## 登場人物
 
@@ -157,7 +156,7 @@ Walter</small></p></td>
 かがわ ゆうこ</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/星川搖" title="wikilink">星川搖</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
-<td><p>龍馬妹妹，13歲，於<a href="../Page/千葉縣.md" title="wikilink">千葉縣老家農場工作</a>。<br />
+<td><p>龍馬妹妹，13歲，於<a href="../Page/千葉縣.md" title="wikilink">千葉縣</a>老家農場工作。<br />
 因農場土壤受到工廠排放之廢液汙染，導致花卉植物無法順利生長。<br />
 正為了能讓花朵重新綻放而奮鬥。</p></td>
 </tr>
@@ -337,8 +336,7 @@ Walter</small></p></td>
 
       -
         <small>火災現場用。能夠噴發滅火彈 / 光束。
-        此外，前端噴嘴部分為拆卸式，能另裝載為可發射液氮子彈、黏著彈等的「**黏著劑模式(コーキングバージョン/ Caulking
-        Version)**」。</small>
+        此外，前端噴嘴部分為拆卸式，能另裝載為可發射液氮子彈、黏著彈等的「**黏著劑模式(コーキングバージョン/ Caulking Version)**」。</small>
 
 ::\***呼吸器模式** <small>| エアーバージョン | Air Version</small>
 
@@ -349,21 +347,18 @@ Walter</small></p></td>
 
 ### 車輛
 
-  - **勝利 / 烈焰巡邏車** <small>| ウインスコード / ファイヤースコード | Win / Fire
-    Squad</small>
+  - **勝利 / 烈焰巡邏車** <small>| ウインスコード / ファイヤースコード | Win / Fire Squad</small>
 
 <!-- end list -->
 
   -
 
       -
-        <small>全長：515cm / 寬度：199.5cm / 車高：184.5cm / 最高速度：400km/h
-        (一般)、850km/h (烈焰)
+        <small>全長：515cm / 寬度：199.5cm / 車高：184.5cm / 最高速度：400km/h (一般)、850km/h (烈焰)
         龍馬所搭乘之超級巡邏車。曾一度被死神摩斯手下駕駛的超級跑車的導彈破壞，後由野野山修復、改造。
         以名為**SP卡**的特殊卡片安裝啟動後，不僅龍馬能進行「著化」；巡邏車外型也會從「一般型態」全車變形為紅色塗裝為主的「烈焰型態」，變形機能運作時間約為10秒。
         **烈焰巡邏車**搭載全方位探測雷達、化學噴霧器(滅火)、4門雷射電磁砲(破壞障礙物)、紅外線夜視器、警示用高光度信號燈、強制熱空冷對流風扇等救援用裝備。
-        車輛原型為第3代[Chevrolet
-        Camaro](https://zh.wikipedia.org/wiki/雪佛蘭 "wikilink")。</small>
+        車輛原型為第3代[Chevrolet Camaro](https://zh.wikipedia.org/wiki/雪佛蘭 "wikilink")。</small>
 
 <!-- end list -->
 
@@ -376,13 +371,11 @@ Walter</small></p></td>
       -
         <small>由野野山開發改裝，專門給予前往現場較為行動不便的騎警使用的高機動性越野摩托車。車身為白，塗裝與用途同一般警用摩托車。
         車身設計並無手把，而是需以騎警背部收納的武器「騎矛」另作為手把使用，方能啟動。
-        摩托車原型為[Suzuki
-        TS200](https://zh.wikipedia.org/wiki/鈴木機車 "wikilink")。</small>
+        摩托車原型為[Suzuki TS200](https://zh.wikipedia.org/wiki/鈴木機車 "wikilink")。</small>
 
 <!-- end list -->
 
-  - **[LUCE 四門HT（HC）](../Page/馬自達Luce.md "wikilink")** <small>| マツダ・ルーチェ
-    4ドアHT（HC）</small>
+  - **[LUCE 四門HT（HC）](../Page/馬自達Luce.md "wikilink")** <small>| マツダ・ルーチェ 4ドアHT（HC）</small>
 
 <!-- end list -->
 
@@ -393,8 +386,7 @@ Walter</small></p></td>
 
 <!-- end list -->
 
-  - **[RX-7（FC3S） GT-X](../Page/馬自達RX-7.md "wikilink")** <small>|
-    マツダ・RX-7（FC3S） GT-X</small>
+  - **[RX-7（FC3S） GT-X](../Page/馬自達RX-7.md "wikilink")** <small>| マツダ・RX-7（FC3S） GT-X</small>
 
 <!-- end list -->
 
@@ -451,38 +443,27 @@ Walter</small></p></td>
 
   - **「特警ウインスペクター」**
 
-<small>作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") /
-作曲：[鈴木喜三郎](https://zh.wikipedia.org/wiki/鈴木キサブロー "wikilink")
-/ 編曲：[矢野立美](https://zh.wikipedia.org/wiki/矢野立美 "wikilink") /
-歌：[宮内タカユキ](https://zh.wikipedia.org/wiki/宮内タカユキ "wikilink")</small>
+<small>作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") / 作曲：[鈴木喜三郎](https://zh.wikipedia.org/wiki/鈴木キサブロー "wikilink") / 編曲：[矢野立美](https://zh.wikipedia.org/wiki/矢野立美 "wikilink") / 歌：[宮内タカユキ](https://zh.wikipedia.org/wiki/宮内タカユキ "wikilink")</small>
 
 ### 片尾
 
 **「今日のおれからあしたの君へ」**
 
-  - <small>作詞：山川啓介 / 作曲：鈴木キサブロー / 編曲：矢野立美 / 歌：宮内タカユキ /
-    合音：[森之木兒童合唱團](https://zh.wikipedia.org/wiki/森之木兒童合唱團 "wikilink")</small>
+  - <small>作詞：山川啓介 / 作曲：鈴木キサブロー / 編曲：矢野立美 / 歌：宮内タカユキ / 合音：[森之木兒童合唱團](https://zh.wikipedia.org/wiki/森之木兒童合唱團 "wikilink")</small>
 
 ### 插曲
 
 **「太陽の勇者ファイヤー」(第9、11話)**
 
-  - <small>作詞：杉村升 /
-    作曲：[瑞木薫](https://zh.wikipedia.org/wiki/瑞木薫 "wikilink")
-    / 編曲：[埜邑紀見男](https://zh.wikipedia.org/wiki/埜邑紀見男 "wikilink") /
-    歌：宮内タカユキ</small>
+  - <small>作詞：杉村升 / 作曲：[瑞木薫](https://zh.wikipedia.org/wiki/瑞木薫 "wikilink") / 編曲：[埜邑紀見男](https://zh.wikipedia.org/wiki/埜邑紀見男 "wikilink") / 歌：宮内タカユキ</small>
 
 **「ヒーローはやってくる」(第17話)**
 
-  - <small>作詞：鷺山京子 /
-    作曲・編曲：[金森隆](https://zh.wikipedia.org/wiki/金森隆 "wikilink")
-    / 歌：[水木一郎](../Page/水木一郎.md "wikilink")</small>
+  - <small>作詞：鷺山京子 / 作曲・編曲：[金森隆](https://zh.wikipedia.org/wiki/金森隆 "wikilink") / 歌：[水木一郎](../Page/水木一郎.md "wikilink")</small>
 
 **「燃やせ瞳を\!」(第7、15話)**
 
-  - <small>作詞：[宇都宮恭三](https://zh.wikipedia.org/wiki/宇都宮恭三 "wikilink") /
-    作曲：[横山菁兒](https://zh.wikipedia.org/wiki/横山菁兒 "wikilink") /
-    編曲：埜邑紀見男 / 歌：宮内洋、中西真美</small>
+  - <small>作詞：[宇都宮恭三](https://zh.wikipedia.org/wiki/宇都宮恭三 "wikilink") / 作曲：[横山菁兒](https://zh.wikipedia.org/wiki/横山菁兒 "wikilink") / 編曲：埜邑紀見男 / 歌：宮内洋、中西真美</small>
 
 **「激走！レスキューマシン」(第8、13話)**
 
@@ -490,10 +471,7 @@ Walter</small></p></td>
 
 **「君が幸せなら」(第16、20話)**
 
-  - <small>作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") /
-    作曲：矢野立美 /
-    編曲：[安西史孝](https://zh.wikipedia.org/wiki/安西史孝 "wikilink")
-    / 歌：山下優</small>
+  - <small>作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") / 作曲：矢野立美 / 編曲：[安西史孝](https://zh.wikipedia.org/wiki/安西史孝 "wikilink") / 歌：山下優</small>
 
 **「ファイヤーハリケーン」(第7話)**
 
@@ -505,9 +483,7 @@ Walter</small></p></td>
 
 **「愛する大地、愛する海よ」**
 
-  - <small>作詞：杉村升 /
-    作曲：[西木英二](https://zh.wikipedia.org/wiki/西木英二 "wikilink")
-    / 編曲：[有澤孝紀](../Page/有澤孝紀.md "wikilink") / 歌：宮内タカユキ、森之木兒童合唱團</small>
+  - <small>作詞：杉村升 / 作曲：[西木英二](https://zh.wikipedia.org/wiki/西木英二 "wikilink") / 編曲：[有澤孝紀](../Page/有澤孝紀.md "wikilink") / 歌：宮内タカユキ、森之木兒童合唱團</small>
 
 **「夢もひとつの仲間たち」(第48話)**
 
@@ -515,8 +491,7 @@ Walter</small></p></td>
 
 **「炎は未来へ」(第48話)**
 
-  - <small>作詞：[松本一起](https://zh.wikipedia.org/wiki/松本一起 "wikilink") /
-    作曲：鈴木キサブロー / 編曲：有澤孝紀 / 歌：宮内タカユキ</small>
+  - <small>作詞：[松本一起](https://zh.wikipedia.org/wiki/松本一起 "wikilink") / 作曲：鈴木キサブロー / 編曲：有澤孝紀 / 歌：宮内タカユキ</small>
 
 **「レッツゴー\!ファイヤースコード」(第38、43話)**
 
@@ -591,34 +566,27 @@ Walter</small></p></td>
   - 東京都、關東廣域圏 ANB〔現:EX〕 **[朝日電視台](../Page/朝日電視台.md "wikilink")**
   - 北海道 HTB [北海道電視台](../Page/北海道電視台.md "wikilink")
   - 青森縣 RAB [青森放送](https://zh.wikipedia.org/wiki/青森放送 "wikilink")
-  - 岩手縣 IBC
-    [岩手放送〔現:IBC岩手放送〕](https://zh.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - 岩手縣 IBC [岩手放送〔現:IBC岩手放送〕](https://zh.wikipedia.org/wiki/IBC岩手放送 "wikilink")
   - 宮城縣 KHB [東日本放送](https://zh.wikipedia.org/wiki/東日本放送 "wikilink")
   - 秋田縣 ABS [秋田放送](https://zh.wikipedia.org/wiki/秋田放送 "wikilink")
   - 福島縣 KFB [福島放送](https://zh.wikipedia.org/wiki/福島放送 "wikilink")
-  - 新潟縣 NT21〔現:UX〕
-    [新潟電視台21](https://zh.wikipedia.org/wiki/新潟電視台21 "wikilink")
+  - 新潟縣 NT21〔現:UX〕 [新潟電視台21](https://zh.wikipedia.org/wiki/新潟電視台21 "wikilink")
   - 山梨縣 UTY [山梨電視台](https://zh.wikipedia.org/wiki/山梨電視台 "wikilink")
   - 石川縣 ITC [石川電視台](https://zh.wikipedia.org/wiki/石川電視台 "wikilink")
   - 福井縣 FBC [福井放送](https://zh.wikipedia.org/wiki/福井放送 "wikilink")
   - 長野縣 TSB [信州電視台](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")
-  - 靜岡縣 SKT [靜岡縣民電視台〔現:SATV
-    靜岡朝日電視台〕](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink")
+  - 靜岡縣 SKT [靜岡縣民電視台〔現:SATV 靜岡朝日電視台〕](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink")
   - 愛知縣、中京圏 NBN [名古屋放送〔現:メ〜テレ〕](../Page/名古屋電視台.md "wikilink")
-  - 大阪府、近畿廣域圏 ABC
-    [朝日放送](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")
+  - 大阪府、近畿廣域圏 ABC [朝日放送](https://zh.wikipedia.org/wiki/ABC電視台 "wikilink")
   - 鳥取縣、島根縣 BSS [山陰放送](https://zh.wikipedia.org/wiki/山陰放送 "wikilink")
-  - 岡山縣、香川縣 KSB
-    [瀨戶內海放送](https://zh.wikipedia.org/wiki/瀨戶內海放送 "wikilink")
-  - 廣島縣 UHT〔現:HOME〕
-    [廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")
+  - 岡山縣、香川縣 KSB [瀨戶內海放送](https://zh.wikipedia.org/wiki/瀨戶內海放送 "wikilink")
+  - 廣島縣 UHT〔現:HOME〕 [廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")
   - 山口縣 KRY [山口放送](https://zh.wikipedia.org/wiki/山口放送 "wikilink")
   - 德島縣 JRT [四國放送](https://zh.wikipedia.org/wiki/四國放送 "wikilink")
   - 愛媛縣 EBC [愛媛放送〔現:愛媛電視台〕](../Page/愛媛電視台.md "wikilink")
   - 高知縣 RKC [高知放送](https://zh.wikipedia.org/wiki/高知放送 "wikilink")
   - 福岡縣 KBC [九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")
-  - 熊本縣 TKU [熊本電視台](https://zh.wikipedia.org/wiki/熊本電視台 "wikilink")→KAB
-    [熊本朝日放送](https://zh.wikipedia.org/wiki/熊本朝日放送 "wikilink")
+  - 熊本縣 TKU [熊本電視台](https://zh.wikipedia.org/wiki/熊本電視台 "wikilink")→KAB [熊本朝日放送](https://zh.wikipedia.org/wiki/熊本朝日放送 "wikilink")
   - 大分縣 TOS [大分電視台](https://zh.wikipedia.org/wiki/大分電視台 "wikilink")
   - 宮崎縣 UMK [宮崎電視台](../Page/宮崎電視台.md "wikilink")
   - 鹿兒島縣 KKB [鹿兒島放送](https://zh.wikipedia.org/wiki/鹿兒島放送 "wikilink")
@@ -630,5 +598,4 @@ Walter</small></p></td>
 
 ## 外部連結
 
-[Category:金屬英雄](https://zh.wikipedia.org/wiki/Category:金屬英雄 "wikilink")
-[Category:1990年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1990年日本電視劇集 "wikilink")
+[Category:金屬英雄](https://zh.wikipedia.org/wiki/Category:金屬英雄 "wikilink") [Category:1990年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1990年日本電視劇集 "wikilink")

@@ -1,4 +1,4 @@
-《**四個女仔三個BAR**》（），為[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝的時裝法律電視劇](../Page/電視廣播有限公司.md "wikilink")，以大律師及事務律師追尋公義的故事為題。此劇由[黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[陳凱琳及](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")[姚子羚](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")\[1\]領銜主演，並由[張繼聰](../Page/張繼聰.md "wikilink")\[2\]、[蔣志光](../Page/蔣志光.md "wikilink")、[陳瀅](../Page/陳瀅.md "wikilink")、[何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[鄭子誠](../Page/鄭子誠.md "wikilink")、[江美儀及](../Page/江美儀.md "wikilink")[劉佩玥聯合主演](../Page/劉佩玥.md "wikilink")，監製[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。此劇為[2015無綫節目巡禮劇集之一](../Page/2015無綫節目巡禮.md "wikilink")。\[3\]
+《**四個女仔三個BAR**》（），為[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝的時裝法律電視劇，以大律師及事務律師追尋公義的故事為題。此劇由[黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[陳凱琳及](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")[姚子羚](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")\[1\]領銜主演，並由[張繼聰](../Page/張繼聰.md "wikilink")\[2\]、[蔣志光](../Page/蔣志光.md "wikilink")、[陳瀅](../Page/陳瀅.md "wikilink")、[何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[鄭子誠](../Page/鄭子誠.md "wikilink")、[江美儀](../Page/江美儀.md "wikilink")及[劉佩玥](../Page/劉佩玥.md "wikilink")聯合主演，監製[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。此劇為[2015無綫節目巡禮](../Page/2015無綫節目巡禮.md "wikilink")劇集之一。\[3\]
 
 ## 演員表
 
@@ -57,7 +57,7 @@
 林展信之女友，後分手<br />
 傾慕崔賢哲，後為其女友<br />
 曾被眾人誤會為周梓博之追求對象<br />
-喜愛與<a href="../Page/蝴蝶.md" title="wikilink">蝴蝶有關的東西</a></p></td>
+喜愛與<a href="../Page/蝴蝶.md" title="wikilink">蝴蝶</a>有關的東西</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
@@ -352,7 +352,7 @@ Lawrence之妻、育有一子</p></td>
 見習大律師，於第一集為執業大律師<br />
 霍貫東、許蕙之女<br />
 鄭妁彤同父異母之妹<br />
-喜愛與<a href="../Page/蝴蝶.md" title="wikilink">蝴蝶有關的東西</a><br />
+喜愛與<a href="../Page/蝴蝶.md" title="wikilink">蝴蝶</a>有關的東西<br />
 參見<a href="https://zh.wikipedia.org/wiki/#范智毅大律師辦事處／任雋燁大律師辦事處" title="wikilink"><strong>范智毅大律師辦事處／任雋燁大律師辦事處</strong></a></p></td>
 </tr>
 </tbody>
@@ -674,7 +674,7 @@ Lawrence之妻、育有一子</p></td>
 <td><p>沈韻詩</p></td>
 <td><p>中學生，援交少女<br />
 裘百通案中的證人，由於未成年而被冠以代號「J」作稱呼<br />
-於第18集被控殺嬰及非法處理屍體罪，於第19集被判入<a href="../Page/屯門兒童及青少年院.md" title="wikilink">屯門兒童及青少年院一年</a></p></td>
+於第18集被控殺嬰及非法處理屍體罪，於第19集被判入<a href="../Page/屯門兒童及青少年院.md" title="wikilink">屯門兒童及青少年院</a>一年</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李子奇.md" title="wikilink">李子奇</a></p></td>
@@ -875,7 +875,7 @@ Adrian之女友</p></td>
 
 ## 收視
 
-以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於香港無綫電視[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |         |        |                  |          |          |
 | ------- | ------ | ---------------- | -------- | -------- |
@@ -1010,9 +1010,9 @@ Adrian之女友</p></td>
 ## 軼事
 
   - 此劇是[陳凱琳首次擔任第一女主角的電視劇](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")。
-  - 此劇為2013年香港小姐冠軍[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、季軍[劉佩玥及殿軍](../Page/劉佩玥.md "wikilink")[劉溫馨的首度同時合作一劇](../Page/劉溫馨.md "wikilink")。
-  - 此劇「張慧芸」原定由[蘇玉華飾演](../Page/蘇玉華.md "wikilink")，因她要拍攝《梟雄》而辭演，後改由[姚子羚飾演](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")。
-  - 此劇「霍紫凝」原定由[王敏奕飾演](../Page/王敏奕.md "wikilink")，後改由[陈滢飾演](https://zh.wikipedia.org/wiki/陈滢 "wikilink")。
+  - 此劇為2013年香港小姐冠軍[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、季軍[劉佩玥](../Page/劉佩玥.md "wikilink")及殿軍[劉溫馨](../Page/劉溫馨.md "wikilink")的首度同時合作一劇。
+  - 此劇「張慧芸」原定由[蘇玉華](../Page/蘇玉華.md "wikilink")飾演，因她要拍攝《梟雄》而辭演，後改由[姚子羚飾演](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")。
+  - 此劇「霍紫凝」原定由[王敏奕](../Page/王敏奕.md "wikilink")飾演，後改由[陈滢飾演](https://zh.wikipedia.org/wiki/陈滢 "wikilink")。
 
 ## 記事
 
@@ -1029,20 +1029,12 @@ Adrian之女友</p></td>
 
 ## 外部連結
 
-  - [四個女仔三個bar - myTV
-    SUPER](http://programme.mytvsuper.com/tc/104973/四個女仔三個bar/casts)
+  - [四個女仔三個bar - myTV SUPER](http://programme.mytvsuper.com/tc/104973/四個女仔三個bar/casts)
 
 ## 電視節目的變遷
 
-[Category:2015年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2015年無綫電視劇集 "wikilink")
-[Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink")
-[Category:無綫電視律政劇集](https://zh.wikipedia.org/wiki/Category:無綫電視律政劇集 "wikilink")
-[Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink")
+[Category:2015年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2015年無綫電視劇集 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink") [Category:無綫電視律政劇集](https://zh.wikipedia.org/wiki/Category:無綫電視律政劇集 "wikilink") [Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink")
 
 1.  姚子羚在《[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")》提名女主角，是領銜主演。
-2.  張繼聰在《[TVB
-    馬來西亞星光薈萃頒獎典禮2015](../Page/TVB_馬來西亞星光薈萃頒獎典禮2015.md "wikilink")》提名男配角，不是領銜主演。
-3.  [娛樂CIB
-    《四個女仔三個Bar》新人未瞓醒不停NG](http://www.metrohk.com.hk/?cmd=detail&id=239053)
+2.  張繼聰在《[TVB 馬來西亞星光薈萃頒獎典禮2015](../Page/TVB_馬來西亞星光薈萃頒獎典禮2015.md "wikilink")》提名男配角，不是領銜主演。
+3.  [娛樂CIB 《四個女仔三個Bar》新人未瞓醒不停NG](http://www.metrohk.com.hk/?cmd=detail&id=239053)

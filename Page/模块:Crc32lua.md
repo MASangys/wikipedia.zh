@@ -120,17 +120,11 @@ LICENSE
 
 \--\]\]
 
-local M = {_TYPE='module', _NAME='digest.crc32',
-_VERSION='0.3.20111128'}
+local M = {_TYPE='module', _NAME='digest.crc32', _VERSION='0.3.20111128'}
 
-local type = type local require = require local setmetatable =
-setmetatable
+local type = type local require = require local setmetatable = setmetatable
 
-\--[Requires the first module listed that exists, else raises like
-\`require\`. If a non-string is encountered, it is returned. Second
-return value is module name loaded (or '').
---](https://zh.wikipedia.org/wiki/Requires_the_first_module_listed_that_exists,_else_raises_like_\`require\`._If_a_non-string_is_encountered,_it_is_returned._Second_return_value_is_module_name_loaded_\(or_''\)._-- "wikilink")
-local function requireany(...)
+\--[Requires the first module listed that exists, else raises like \`require\`. If a non-string is encountered, it is returned. Second return value is module name loaded (or ''). --](https://zh.wikipedia.org/wiki/Requires_the_first_module_listed_that_exists,_else_raises_like_\`require\`._If_a_non-string_is_encountered,_it_is_returned._Second_return_value_is_module_name_loaded_\(or_''\)._-- "wikilink") local function requireany(...)
 
 ` local errs = {}`
 ` for _,name in ipairs{...} do`
@@ -143,14 +137,11 @@ local function requireany(...)
 
 end
 
-local bit, name_ = requireany('bit32', 'bit', 'bit.numberlua') local
-bxor = bit.bxor local bnot = bit.bnot local band = bit.band local rshift
-= bit.rshift
+local bit, name_ = requireany('bit32', 'bit', 'bit.numberlua') local bxor = bit.bxor local bnot = bit.bnot local band = bit.band local rshift = bit.rshift
 
 \-- CRC-32-IEEE 802.3 (V.42) local POLY = 0xEDB88320
 
-\-- Memoize function pattern (like
-<http://lua-users.org/wiki/FuncTables> ). local function memoize(f)
+\-- Memoize function pattern (like <http://lua-users.org/wiki/FuncTables> ). local function memoize(f)
 
 ` local mt = {}`
 ` local t = setmetatable({}, mt)`

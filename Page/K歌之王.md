@@ -1,16 +1,14 @@
-《**K歌之王**》是香港男歌手[陳奕迅於](../Page/陳奕迅.md "wikilink")2000年推出的一首經典歌曲，有粵、國語兩版，分別收錄於專輯《[打得火熱](../Page/打得火熱.md "wikilink")》及《[反正是我](../Page/反正是我.md "wikilink")》內，均由[陳輝陽作曲](../Page/陳輝陽.md "wikilink")、編曲、監製，[林夕填詞](../Page/林夕.md "wikilink")。歌曲的特別之處是揉合了多首流行曲的元素，例如歌名和旋律等。
+《**K歌之王**》是香港男歌手[陳奕迅](../Page/陳奕迅.md "wikilink")於2000年推出的一首經典歌曲，有粵、國語兩版，分別收錄於專輯《[打得火熱](../Page/打得火熱.md "wikilink")》及《[反正是我](../Page/反正是我.md "wikilink")》內，均由[陳輝陽](../Page/陳輝陽.md "wikilink")作曲、編曲、監製，[林夕](../Page/林夕.md "wikilink")填詞。歌曲的特別之處是揉合了多首流行曲的元素，例如歌名和旋律等。
 
 此歌推出後極受歡迎，亦取得多個樂壇獎項，如叱咤樂壇至尊歌曲大獎和十大中文金曲。
 
 ## 背景
 
-陳輝陽憶述，陳奕迅新公司英皇娛樂要求他創作比以前更商業化的歌曲，他就構想出一個故事藍本：
-有個男孩很喜歡唱[卡拉OK](../Page/卡拉OK.md "wikilink")，想用歌聲感動心儀的女孩，對方卻對他無感，認為他只是「K歌之王」，以及一個點子：歌詞要含有多首K歌的歌名。陳輝陽又認為陳奕迅的唱功了得，所以寫一首很難唱的歌給他，「演繹像情感上的[過山車般](../Page/雲霄飛車.md "wikilink")」。\[1\]
+陳輝陽憶述，陳奕迅新公司英皇娛樂要求他創作比以前更商業化的歌曲，他就構想出一個故事藍本： 有個男孩很喜歡唱[卡拉OK](../Page/卡拉OK.md "wikilink")，想用歌聲感動心儀的女孩，對方卻對他無感，認為他只是「K歌之王」，以及一個點子：歌詞要含有多首K歌的歌名。陳輝陽又認為陳奕迅的唱功了得，所以寫一首很難唱的歌給他，「演繹像情感上的[過山車般](../Page/雲霄飛車.md "wikilink")」。\[1\]
 
 ## 音樂特徵
 
-以[D大調寫成](https://zh.wikipedia.org/wiki/D大調 "wikilink")，無[轉調](https://zh.wikipedia.org/wiki/转调 "wikilink")，[行板](../Page/速度_\(音樂\).md "wikilink")，[音域為](https://zh.wikipedia.org/wiki/音域 "wikilink")14度，曲式結構為AABBCCAA。\[2\]
-\[3\]
+以[D大調寫成](https://zh.wikipedia.org/wiki/D大調 "wikilink")，無[轉調](https://zh.wikipedia.org/wiki/转调 "wikilink")，[行板](../Page/速度_\(音樂\).md "wikilink")，[音域為](https://zh.wikipedia.org/wiki/音域 "wikilink")14度，曲式結構為AABBCCAA。\[2\] \[3\]
 
 ### 其他製作人員
 
@@ -43,17 +41,15 @@
 
   - 以流行歌名入詞：
 
-粵語版：《憑什麼》\[5\]（[梅艷芳](../Page/梅艷芳.md "wikilink")）、《擁抱》\[6\]（[譚詠麟](../Page/譚詠麟.md "wikilink")）、
-《幸福摩天輪》\[7\]（[陳奕迅](../Page/陳奕迅.md "wikilink")）、《你怎麼捨得我難過》\[8\]（[黃品源](../Page/黃品源.md "wikilink")）、《垃圾》\[9\]（
-[盧巧音](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")）、《不捨不棄》（[林憶蓮](../Page/林憶蓮.md "wikilink")）、《真心真意》（[許志安](../Page/許志安.md "wikilink")）、《愛得過火》（[伍思凱](../Page/伍思凱.md "wikilink")）等
+粵語版：《憑什麼》\[5\]（[梅艷芳](../Page/梅艷芳.md "wikilink")）、《擁抱》\[6\]（[譚詠麟](../Page/譚詠麟.md "wikilink")）、 《幸福摩天輪》\[7\]（[陳奕迅](../Page/陳奕迅.md "wikilink")）、《你怎麼捨得我難過》\[8\]（[黃品源](../Page/黃品源.md "wikilink")）、《垃圾》\[9\]（ [盧巧音](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")）、《不捨不棄》（[林憶蓮](../Page/林憶蓮.md "wikilink")）、《真心真意》（[許志安](../Page/許志安.md "wikilink")）、《愛得過火》（[伍思凱](../Page/伍思凱.md "wikilink")）等
 
-國語版：《用心良苦》（[張宇](../Page/張宇.md "wikilink")）、《當愛已成往事》（[林憶蓮](../Page/林憶蓮.md "wikilink")）、明天我要嫁給你（[周華健](https://zh.wikipedia.org/wiki/周華健 "wikilink")）、愛如潮水（[張信哲](../Page/張信哲.md "wikilink")）、《忘了我是誰》（王海玲）、《我一個人住》（蘇慧倫）等，並化用歌詞：「有些人我永遠不必等」出自[陳淑樺的](../Page/陳淑樺.md "wikilink")《夢醒時分》。
+國語版：《用心良苦》（[張宇](../Page/張宇.md "wikilink")）、《當愛已成往事》（[林憶蓮](../Page/林憶蓮.md "wikilink")）、明天我要嫁給你（[周華健](https://zh.wikipedia.org/wiki/周華健 "wikilink")）、愛如潮水（[張信哲](../Page/張信哲.md "wikilink")）、《忘了我是誰》（王海玲）、《我一個人住》（蘇慧倫）等，並化用歌詞：「有些人我永遠不必等」出自[陳淑樺](../Page/陳淑樺.md "wikilink")的《夢醒時分》。
 
   - 化用旋律：
 
-粵語版：前奏為[王菲的](../Page/王菲.md "wikilink")《約定》，間奏為[楊千嬅的](../Page/楊千嬅.md "wikilink")《再見二丁目》，尾聲為[傅佩嘉的](https://zh.wikipedia.org/wiki/傅佩嘉 "wikilink")《絕》。
+粵語版：前奏為[王菲](../Page/王菲.md "wikilink")的《約定》，間奏為[楊千嬅](../Page/楊千嬅.md "wikilink")的《再見二丁目》，尾聲為[傅佩嘉的](https://zh.wikipedia.org/wiki/傅佩嘉 "wikilink")《絕》。
 
-國語版：前奏為[張宇的](../Page/張宇.md "wikilink")《用心良苦》，間奏為[張信哲的](../Page/張信哲.md "wikilink")《愛如潮水》，尾聲為[辛曉琪的](../Page/辛曉琪.md "wikilink")《領悟》。
+國語版：前奏為[張宇](../Page/張宇.md "wikilink")的《用心良苦》，間奏為[張信哲](../Page/張信哲.md "wikilink")的《愛如潮水》，尾聲為[辛曉琪](../Page/辛曉琪.md "wikilink")的《領悟》。
 
 ## 評論
 
@@ -63,23 +59,18 @@
 
   - [2000年度勁歌金曲季選](../Page/勁歌金曲優秀選.md "wikilink") - 第四季金曲
   - [2000年度新城勁爆頒獎禮](../Page/2000年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲獎
-  - [2000年度叱吒樂壇流行榜頒獎典禮](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇至尊歌曲
-  - [2000年度叱吒樂壇流行榜頒獎典禮](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    我最喜愛的歌曲大獎
+  - [2000年度叱吒樂壇流行榜頒獎典禮](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇至尊歌曲
+  - [2000年度叱吒樂壇流行榜頒獎典禮](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 我最喜愛的歌曲大獎
   - [2000年度十大勁歌金曲頒獎典禮](../Page/2000年度十大勁歌金曲得獎名單.md "wikilink") - 十大勁歌金曲
   - [2000年度十大勁歌金曲頒獎典禮](../Page/2000年度十大勁歌金曲得獎名單.md "wikilink") - 網上金曲獎
   - [2000年度十大中文金曲頒獎禮](../Page/第二十三屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲
-  - [2000年度十大中文金曲頒獎禮](../Page/第二十三屆十大中文金曲得獎名單.md "wikilink") -
-    最受歡迎卡拉OK歌曲獎
+  - [2000年度十大中文金曲頒獎禮](../Page/第二十三屆十大中文金曲得獎名單.md "wikilink") - 最受歡迎卡拉OK歌曲獎
   - 2000年度YMC至尊榜 - 至尊金曲
   - [2001年第一屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－十大華語歌曲
   - [2001年第一屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－最佳填詞
   - [2001年第一屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－最佳作曲
-  - [2007年度叱吒樂壇流行榜頒獎典禮](../Page/2007年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    我最最最最最最最最最最喜愛歌曲大獎
-      - 註:
-        此獎之候選歌曲為97-07年共10首叱吒樂壇流行榜頒獎典禮「我最喜愛的歌曲大獎」的得獎歌曲，由聽眾投票，獲最高票數之一首「金中金」的歌曲奪得此大獎。
+  - [2007年度叱吒樂壇流行榜頒獎典禮](../Page/2007年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 我最最最最最最最最最最喜愛歌曲大獎
+      - 註: 此獎之候選歌曲為97-07年共10首叱吒樂壇流行榜頒獎典禮「我最喜愛的歌曲大獎」的得獎歌曲，由聽眾投票，獲最高票數之一首「金中金」的歌曲奪得此大獎。
   - [2010年第十屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－世紀十年卓越歌曲（粵語）
 
 ## 流行榜成績
@@ -93,9 +84,9 @@
 | 年份   | 歌手                                                                                   | 專輯/場合                                                                                                                                                              |
 | ---- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2001 | [李克勤](../Page/李克勤.md "wikilink")                                                     | 《港樂.克勤 LIVE》                                                                                                                                                       |
-| 2002 | [彭羚](../Page/彭羚.md "wikilink")                                                       | 《[給我唱過的男孩們](../Page/給我唱過的男孩們.md "wikilink")》，前奏為《[卡農 (帕海貝爾)](../Page/卡農_\(帕海貝爾\).md "wikilink")》，間奏為《[匈牙利舞曲第五號](../Page/匈牙利舞曲.md "wikilink")》。                     |
-| 2002 | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                     | 《The Easy Ride演唱會》，前奏為[謝霆鋒的](../Page/謝霆鋒.md "wikilink")《玉蝴蝶》，間奏為[周杰倫的](../Page/周杰倫.md "wikilink")《龍捲風》，尾聲為陳奕迅的《天下無雙》。                                              |
-| 2007 | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                     | 《Eason Moving On Stage 1》，編曲配合舞台演出，變成[華爾茲](https://zh.wikipedia.org/wiki/華爾茲 "wikilink")、[巴薩諾瓦](../Page/巴薩諾瓦.md "wikilink")、[爵士等曲風的大雜繪](../Page/爵士.md "wikilink")。 |
+| 2002 | [彭羚](../Page/彭羚.md "wikilink")                                                       | 《[給我唱過的男孩們](../Page/給我唱過的男孩們.md "wikilink")》，前奏為《[卡農 (帕海貝爾)](../Page/卡農_\(帕海貝爾\).md "wikilink")》，間奏為《[匈牙利舞曲](../Page/匈牙利舞曲.md "wikilink")第五號》。                     |
+| 2002 | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                     | 《The Easy Ride演唱會》，前奏為[謝霆鋒](../Page/謝霆鋒.md "wikilink")的《玉蝴蝶》，間奏為[周杰倫](../Page/周杰倫.md "wikilink")的《龍捲風》，尾聲為陳奕迅的《天下無雙》。                                              |
+| 2007 | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                     | 《Eason Moving On Stage 1》，編曲配合舞台演出，變成[華爾茲](https://zh.wikipedia.org/wiki/華爾茲 "wikilink")、[巴薩諾瓦](../Page/巴薩諾瓦.md "wikilink")、[爵士](../Page/爵士.md "wikilink")等曲風的大雜繪。 |
 | 2008 | [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink") | 《勁歌金曲頒獎禮》                                                                                                                                                          |
 | 2016 | [胡杏兒](../Page/胡杏兒.md "wikilink")                                                     | 《[跨界歌王](../Page/跨界歌王.md "wikilink")》                                                                                                                               |
 | 2018 | [許靖韻](../Page/許靖韻.md "wikilink")                                                     | 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》                                                                                                          |
@@ -103,13 +94,7 @@
 
 ## 參考資料
 
-[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
-[Category:粵語歌曲](https://zh.wikipedia.org/wiki/Category:粵語歌曲 "wikilink")
-[Category:2000年歌曲](https://zh.wikipedia.org/wiki/Category:2000年歌曲 "wikilink")
-[Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink")
-[Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
-[Category:叱咤樂壇我最喜愛的歌曲](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲 "wikilink")
-[Category:林夕詞作](https://zh.wikipedia.org/wiki/Category:林夕詞作 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink") [Category:粵語歌曲](https://zh.wikipedia.org/wiki/Category:粵語歌曲 "wikilink") [Category:2000年歌曲](https://zh.wikipedia.org/wiki/Category:2000年歌曲 "wikilink") [Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink") [Category:叱咤樂壇我最喜愛的歌曲](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲 "wikilink") [Category:林夕詞作](https://zh.wikipedia.org/wiki/Category:林夕詞作 "wikilink")
 
 1.
 

@@ -8,7 +8,7 @@
 <p><a href="https://zh.wikipedia.org/wiki/File:Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower,_Vietnam,_2013-08-14,_DD_13.JPG" title="fig:Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower,_Vietnam,_2013-08-14,_DD_13.JPG">Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower,_Vietnam,_2013-08-14,_DD_13.JPG</a></p>
 </center>
 <center style="font-size: 90%; ">
-<p>從<a href="../Page/金融塔_(胡志明市).md" title="wikilink">金融塔看</a><a href="https://zh.wikipedia.org/wiki/越南" title="wikilink">越南</a><a href="../Page/胡志明市.md" title="wikilink">胡志明市夜景</a></p>
+<p>從<a href="../Page/金融塔_(胡志明市).md" title="wikilink">金融塔看</a><a href="https://zh.wikipedia.org/wiki/越南" title="wikilink">越南</a><a href="../Page/胡志明市.md" title="wikilink">胡志明市</a>夜景</p>
 </center></td>
 <td><p>1=</p>
 <center style="padding:6px;">
@@ -28,7 +28,7 @@
 <p><a href="https://zh.wikipedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_37.jpg" title="fig:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_37.jpg">Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_37.jpg</a></p>
 </center>
 <center style="font-size: 90%; ">
-<p><a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a><a href="../Page/曼谷.md" title="wikilink">曼谷</a><a href="../Page/黎明寺.md" title="wikilink">黎明寺夜景</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a><a href="../Page/曼谷.md" title="wikilink">曼谷</a><a href="../Page/黎明寺.md" title="wikilink">黎明寺</a>夜景</p>
 </center></td>
 <td><p>4=</p>
 <center style="padding:6px;">
@@ -49,21 +49,21 @@
 <p><a href="https://zh.wikipedia.org/wiki/File:Kawasaki_c751_eunos.jpg" title="fig:Kawasaki_c751_eunos.jpg">Kawasaki_c751_eunos.jpg</a></p>
 </center>
 <center style="font-size: 90%; ">
-<p>一列停在<a href="https://zh.wikipedia.org/wiki/友诺士地铁站" title="wikilink">友诺士地铁站的</a><a href="../Page/新加坡地鐵.md" title="wikilink">新加坡地鐵</a><a href="../Page/川崎重工業.md" title="wikilink">川崎重工業</a>—<a href="../Page/日本車輛製造.md" title="wikilink">日本車輛製造C</a>751B型列车</p>
+<p>一列停在<a href="https://zh.wikipedia.org/wiki/友诺士地铁站" title="wikilink">友诺士地铁站的</a><a href="../Page/新加坡地鐵.md" title="wikilink">新加坡地鐵</a><a href="../Page/川崎重工業.md" title="wikilink">川崎重工業</a>—<a href="../Page/日本車輛製造.md" title="wikilink">日本車輛製造</a>C751B型列车</p>
 </center></td>
 <td><p>7=</p>
 <center style="padding:6px;">
 <p><a href="https://zh.wikipedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg" title="fig:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg">Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg</a></p>
 </center>
 <center style="font-size: 90%; ">
-<p><a href="https://zh.wikipedia.org/wiki/汶萊" title="wikilink">汶萊</a><a href="https://zh.wikipedia.org/wiki/奧馬爾·阿里·賽福鼎清真寺" title="wikilink">奧馬爾·阿里·賽福鼎清真寺在</a><a href="../Page/賴買丹月.md" title="wikilink">賴買丹月前夕的黃昏景色</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/汶萊" title="wikilink">汶萊</a><a href="https://zh.wikipedia.org/wiki/奧馬爾·阿里·賽福鼎清真寺" title="wikilink">奧馬爾·阿里·賽福鼎清真寺在</a><a href="../Page/賴買丹月.md" title="wikilink">賴買丹月</a>前夕的黃昏景色</p>
 </center></td>
 <td><p>8=</p>
 <center style="padding:6px;">
 <p><a href="https://zh.wikipedia.org/wiki/File:Mount_Merapi_in_2014.jpg" title="fig:Mount_Merapi_in_2014.jpg">Mount_Merapi_in_2014.jpg</a></p>
 </center>
 <center style="font-size: 90%; ">
-<p>從<a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="../Page/日惹.md" title="wikilink">日惹西南部眺看</a><a href="../Page/默拉皮火山.md" title="wikilink">默拉皮火山</a></p>
+<p>從<a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="../Page/日惹.md" title="wikilink">日惹</a>西南部眺看<a href="../Page/默拉皮火山.md" title="wikilink">默拉皮火山</a></p>
 </center></td>
 <td><p>9=</p>
 <center style="padding:6px;">

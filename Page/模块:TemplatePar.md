@@ -12,8 +12,7 @@
 
 \]=\]
 
-\-- Module globals local TemplatePar = { } local MessagePrefix =
-"lua-module-TemplatePar-" local L10nDef = {} L10nDef.en = {
+\-- Module globals local TemplatePar = { } local MessagePrefix = "lua-module-TemplatePar-" local L10nDef = {} L10nDef.en = {
 
 `   badPattern  = "#invoke:TemplatePar pattern syntax error",`
 `   dupOpt      = "#invoke:TemplatePar repeated optional parameter",`

@@ -1,8 +1,4 @@
-《**heavenly
-blue**》，是[Kalafina的樂曲](../Page/Kalafina.md "wikilink")。由[梶浦由記作詞](../Page/梶浦由記.md "wikilink")・作曲。在Kalafina精選專輯《THE
-BEST
-“Blue”》（2014年7月16日發行）中作為新曲首次收錄後，作為第15張[單曲於](https://zh.wikipedia.org/wiki/單曲 "wikilink")8月6日起在日本由[SME
-Records期間限定發售三個月](../Page/SME_Records.md "wikilink")。
+《**heavenly blue**》，是[Kalafina](../Page/Kalafina.md "wikilink")的樂曲。由[梶浦由記](../Page/梶浦由記.md "wikilink")作詞・作曲。在Kalafina精選專輯《THE BEST “Blue”》（2014年7月16日發行）中作為新曲首次收錄後，作為第15張[單曲於](https://zh.wikipedia.org/wiki/單曲 "wikilink")8月6日起在日本由[SME Records期間限定發售三個月](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
@@ -10,8 +6,7 @@ Records期間限定發售三個月](../Page/SME_Records.md "wikilink")。
 
 ## 單曲釋出
 
-2014年7月16日，精選專輯《THE BEST 「Red」》《THE BEST 「Blue」》在日本由SME
-Records發售，本曲作為Blue盤的新曲收錄在內。約20天後，SME Records於8月6日發售了單曲版本。
+2014年7月16日，精選專輯《THE BEST 「Red」》《THE BEST 「Blue」》在日本由SME Records發售，本曲作為Blue盤的新曲收錄在內。約20天後，SME Records於8月6日發售了單曲版本。
 
 販賣形式為期間限定生産盤（SECL-1545），僅1種釋出類型、封面為『[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")』男主人公界塚伊奈帆搭乘的橘色機體，捆绑片头曲的分镜小冊子。
 
@@ -58,10 +53,7 @@ Records發售，本曲作為Blue盤的新曲收錄在內。約20天後，SME Rec
 
   - [索尼音樂娛樂介紹頁](http://www.sonymusic.co.jp/artist/kalafina/discography/SECL-1545)
 
-[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink")
-[Category:梶浦由記](https://zh.wikipedia.org/wiki/Category:梶浦由記 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:朝日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:朝日放送動畫主題曲 "wikilink")
+[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink") [Category:梶浦由記](https://zh.wikipedia.org/wiki/Category:梶浦由記 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:朝日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:朝日放送動畫主題曲 "wikilink")
 
 1.
 2.

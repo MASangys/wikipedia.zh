@@ -1,5 +1,4 @@
-**《Tiffany Lee
-E.P.》**是[李蘢怡的個人音樂專輯](../Page/李蘢怡.md "wikilink")，於2002年8月12日推出。
+**《Tiffany Lee E.P.》**是[李蘢怡](../Page/李蘢怡.md "wikilink")的個人音樂專輯，於2002年8月12日推出。
 
 ## 曲目列表
 
@@ -12,6 +11,4 @@ E.P.》**是[李蘢怡的個人音樂專輯](../Page/李蘢怡.md "wikilink")，
 | <small>驕兵不敗</small> |          \-          |         \-          |
 | <small>夜游杜拜</small> |          4           |         \-          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:李蘢怡音樂專輯](https://zh.wikipedia.org/wiki/Category:李蘢怡音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:李蘢怡音樂專輯](https://zh.wikipedia.org/wiki/Category:李蘢怡音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")

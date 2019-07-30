@@ -1,4 +1,4 @@
-**量子Q克拉夫楚克多项式**是以[基本超几何函数定义的](../Page/基本超几何函数.md "wikilink")[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
+**量子Q克拉夫楚克多项式**是以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
 
 \(K^{qtm}_{n}(q^{-x};p;N;q)=\;_{2}\phi_1\left(\begin{matrix}
 q^{-n} & q^{-x}   \\
@@ -36,8 +36,6 @@ q^{-N}   \end{matrix}
   -
   -
 
-[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink")
-[Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")
+[Category:正交多项式](https://zh.wikipedia.org/wiki/Category:正交多项式 "wikilink") [Category:基本超几何函数](https://zh.wikipedia.org/wiki/Category:基本超几何函数 "wikilink")
 
-1.  Roelof Koekoek, Hypergeometric Orthogonal Polynomials and its
-    q-Analogues, p493,Springer,2010
+1.  Roelof Koekoek, Hypergeometric Orthogonal Polynomials and its q-Analogues, p493,Springer,2010

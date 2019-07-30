@@ -1,5 +1,4 @@
-《**Bargaining for
-Love**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[F.Cuz第](../Page/F.Cuz.md "wikilink")4枚迷你韓語專輯，於2014年9月17日發行，主打歌曲為《Cha-Ga-Wa》\[1\]。
+《**Bargaining for Love**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[F.Cuz](../Page/F.Cuz.md "wikilink")第4枚迷你韓語專輯，於2014年9月17日發行，主打歌曲為《Cha-Ga-Wa》\[1\]。
 
 ## 曲目
 
@@ -91,9 +90,7 @@ Love**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:F.Cuz音樂專輯](https://zh.wikipedia.org/wiki/Category:F.Cuz音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:F.Cuz音樂專輯](https://zh.wikipedia.org/wiki/Category:F.Cuz音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

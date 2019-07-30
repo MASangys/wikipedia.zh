@@ -1,11 +1,8 @@
-《**JUKE
-BOX**》（）為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")6張專輯。2013年10月16日由IMPERIAL
-RECORDS發行。
+《**JUKE BOX**》（）為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第6張專輯。2013年10月16日由IMPERIAL RECORDS發行。
 
 ## 概要
 
-距上一張專輯隔了1年又11個月。
-有眾多有名音樂家的作曲，也有成員[錦戶亮和](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")[安田章大的共同作曲](../Page/安田章大.md "wikilink")。
+距上一張專輯隔了1年又11個月。 有眾多有名音樂家的作曲，也有成員[錦戶亮和](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")[安田章大](../Page/安田章大.md "wikilink")的共同作曲。
 
 ## 收錄曲
 
@@ -18,17 +15,13 @@ RECORDS發行。
 4.  [へそ曲がり](https://zh.wikipedia.org/wiki/乖張/僅此才有的景色 "wikilink")
       - 作詞・作曲：TAKESHI、編曲：大西省吾
 5.  青春ノスタルジー
-      - 作詞・作曲：[Skoop On
-        Somebody](https://zh.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")、編曲：釣俊輔
+      - 作詞・作曲：[Skoop On Somebody](https://zh.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")、編曲：釣俊輔
 6.  [涙の答え](https://zh.wikipedia.org/wiki/涙の答え "wikilink")
-      - 作詞：Saori（[SEKAI NO
-        OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")）、作曲：Nakajin（SEKAI
-        NO OWARI）、編曲：野間康介
+      - 作詞：Saori（[SEKAI NO OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")）、作曲：Nakajin（SEKAI NO OWARI）、編曲：野間康介
 7.  夕闇トレイン
       - 作詞：[田中秀典](https://zh.wikipedia.org/wiki/田中秀典 "wikilink")、作曲・編曲：野間康介
 8.  クラゲ
-      - 作詞・作曲：[ISEKI from
-        キマグレン](https://zh.wikipedia.org/wiki/キマグレン "wikilink")、編曲：久米康嵩
+      - 作詞・作曲：[ISEKI from キマグレン](https://zh.wikipedia.org/wiki/キマグレン "wikilink")、編曲：久米康嵩
 9.  Dear Summer様\!\!
       - 作詞・作曲：GAKU、編曲：久米康嵩・GAKU
 10. [あおっぱな](https://zh.wikipedia.org/wiki/あおっぱな "wikilink")
@@ -38,8 +31,7 @@ RECORDS發行。
 12. あなたへ
       - 作詞：童子-T、作曲：童子-T・REO 、編曲：REO
 13. Your WURLITZER
-      - 作詞：[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")、作曲：錦戸
-        亮・[安田章大](../Page/安田章大.md "wikilink")、編曲：Peach
+      - 作詞：[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")、作曲：錦戸 亮・[安田章大](../Page/安田章大.md "wikilink")、編曲：Peach
 14. West side\!\!
       - 作詞・作曲・編曲：Peach
 15. [ここにしかない景色](https://zh.wikipedia.org/wiki/乖張/僅此才有的景色 "wikilink")
@@ -85,6 +77,4 @@ RECORDS發行。
 3.  All is well
       - 作詞：関ジャニ∞ / 作曲：安田章大 / 編曲：野間康介
 
-[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")

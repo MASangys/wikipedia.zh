@@ -1,6 +1,4 @@
-\-- This module may be used to compare the arguments passed to the
-parent -- with a list of arguments, returning a specified result if an
-argument is -- not on the list local p = {}
+\-- This module may be used to compare the arguments passed to the parent -- with a list of arguments, returning a specified result if an argument is -- not on the list local p = {}
 
 local function trim(s)
 

@@ -1,8 +1,4 @@
-**LABOUM**（韓語：**라붐**、日語：**ラブーム**）是[NH
-Media與](../Page/NH_Media.md "wikilink")[Nega
-Network合作於](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")2014年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，最初由6名成員組成，分别为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")、[金律喜](../Page/金律喜.md "wikilink")。團名「LABOUM」在法文則是代表「派對」的意思，配合團名的意義，LABOUM
-將展現有別於性感風的魅力，開創屬於她們自己的獨特風格。官方粉絲名由官咖網路票選為Latte(拿鐵)。\[1\]\[2\]成员[金律喜于](../Page/金律喜.md "wikilink")2017年11月3日退队\[3\]，現任成員为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")。2018年2月11日，在选秀節目《The
-Unit》的最後一集中，ZN獲得第8名，進入期間限定團體出道。
+**LABOUM**（韓語：**라붐**、日語：**ラブーム**）是[NH Media與](../Page/NH_Media.md "wikilink")[Nega Network合作於](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")2014年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，最初由6名成員組成，分别为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")、[金律喜](../Page/金律喜.md "wikilink")。團名「LABOUM」在法文則是代表「派對」的意思，配合團名的意義，LABOUM 將展現有別於性感風的魅力，開創屬於她們自己的獨特風格。官方粉絲名由官咖網路票選為Latte(拿鐵)。\[1\]\[2\]成员[金律喜](../Page/金律喜.md "wikilink")于2017年11月3日退队\[3\]，現任成員为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")。2018年2月11日，在选秀節目《The Unit》的最後一集中，ZN獲得第8名，進入期間限定團體出道。
 
 ## 經歷
 
@@ -12,21 +8,17 @@ Unit》的最後一集中，ZN獲得第8名，進入期間限定團體出道。
 
 8月20日，官方公開新女團成員人數、姓名、照片等等。五天後公開單曲《Petit Macaron》預告照。
 
-8月28日，官方公開LABOUM出道單曲《Petit Macaron》主打歌《Pit-a-Pat》MV和全輯音源，同天於《M\!
-Countdown》表演出道舞台Showcase，宣告正式出道。
+8月28日，官方公開LABOUM出道單曲《Petit Macaron》主打歌《Pit-a-Pat》MV和全輯音源，同天於《M\! Countdown》表演出道舞台Showcase，宣告正式出道。
 
 10月3日，官方舉行粉絲名投票，14日發佈粉絲名為Latte(拿鐵)。
 
-11月3日，官方公開首張Repackage單曲《Petit Macaron Data Pack》主打歌《What About
-You》和全輯音源。
+11月3日，官方公開首張Repackage單曲《Petit Macaron Data Pack》主打歌《What About You》和全輯音源。
 
 ### 2015年：第二張單曲《SUGAR SUGAR》、第三張單曲《AALOW AALOW》
 
-3月22日，官方公開第二張單曲《SUGAR SUGAR》MV預告。26日，官方公開《SUGAR SUGAR》全輯音源和主打歌《SUGAR
-SUGAR》MV，並於《M\! Countdown》舉行首次回歸Showcase。
+3月22日，官方公開第二張單曲《SUGAR SUGAR》MV預告。26日，官方公開《SUGAR SUGAR》全輯音源和主打歌《SUGAR SUGAR》MV，並於《M\! Countdown》舉行首次回歸Showcase。
 
-11月25日，官方公開第三張單曲《AALOW AALOW》MV預告。12月6日，官方公開《AALOW AALOW》全輯音源和主打歌《AALOW
-AALOW》MV。
+11月25日，官方公開第三張單曲《AALOW AALOW》MV預告。12月6日，官方公開《AALOW AALOW》全輯音源和主打歌《AALOW AALOW》MV。
 
 ### 2016年：第四張單曲《Fresh Adventure》、首張迷你專輯《LOVE SIGN》、冬日特別專輯《Winter Story》
 
@@ -54,8 +46,7 @@ AALOW》MV。
 
 4月17日，推出第二張迷你專輯《MISS THIS KISS》，並發佈主打歌曲《Hwi hwi (휘휘)》\[4\]MV 。
 
-4月28日，憑《Hwi hwi (휘휘)》一曲，於[Music
-Bank獲得出道以來首個一位](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
+4月28日，憑《Hwi hwi (휘휘)》一曲，於[Music Bank獲得出道以來首個一位](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 7月24日，官方公開《Only U(두바둡)》\[5\]MV Teaser。
 
@@ -67,24 +58,17 @@ Bank獲得出道以來首個一位](https://zh.wikipedia.org/wiki/Music_Bank "wi
 
 ### 2018年：ZN獲勝《The Unit》、第五張單曲《Between Us》、日本首張單曲《Hwi hwi》、第六張單曲《I'M YOURS》
 
-2月11日，在選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的最後一集中，ZN獲得第8名，進入期間限定團體[UNI.T出道](../Page/UNI.T.md "wikilink")。
+2月11日，在選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》的最後一集中，ZN獲得第8名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道。
 
-7月10日，官方 Facebook 上公開了一張預告照，將以五人體制於7月24日發行單曲專輯《Between
-Us》回歸，照片以粉紅色為底，並以白色字體寫上「LABOUM」、「Between
-Us」及「coming soon 07.24」字樣。
+7月10日，官方 Facebook 上公開了一張預告照，將以五人體制於7月24日發行單曲專輯《Between Us》回歸，照片以粉紅色為底，並以白色字體寫上「LABOUM」、「Between Us」及「coming soon 07.24」字樣。
 
-7月14日，原定於7月24日睽違一年的以五人體制發行單曲專輯《Between Us》回歸的
-LABOUM宣布專輯將延至27日發行，並陸續公開成員的專輯概念照。
+7月14日，原定於7月24日睽違一年的以五人體制發行單曲專輯《Between Us》回歸的 LABOUM宣布專輯將延至27日發行，並陸續公開成員的專輯概念照。
 
-7月22日，官方公開《Between Us》Official MV Teaser，7月25日公開《Between Us》Performance
-MV Teaser。
+7月22日，官方公開《Between Us》Official MV Teaser，7月25日公開《Between Us》Performance MV Teaser。
 
 7月25日，官方公開《Between Us》Official MV，並於7月26日開始上音樂節目打歌。
 
-8月21日，官方發布即將在11月7日發行日本首張單曲《Hwi hwi》，裡頭收錄《Hwi hwi》、《Shooting
-Love》日文版，以及兩首日本原創歌曲《Sugar Pop》、《killer killer
-Tune》；發行後登上日本公信榜第9名。
+8月21日，官方發布即將在11月7日發行日本首張單曲《Hwi hwi》，裡頭收錄《Hwi hwi》、《Shooting Love》日文版，以及兩首日本原創歌曲《Sugar Pop》、《killer killer Tune》；發行後登上日本公信榜第9名。
 
 11月27日，公司向媒體表示將於12月6日發行第六張單曲專輯《I'M YOURS》，並陸續公開成員們的專輯概念照。
 
@@ -117,10 +101,7 @@ Tune》；發行後登上日本公信榜第9名。
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2014 till:2018 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2014 till:2018 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -1199,10 +1180,7 @@ PlotData =
   -
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 
@@ -1223,8 +1201,7 @@ PlotData =
 
 10.
 
-11.  LABOUM(ラブーム) {{\!}}
-    日本コロムビアオフィシャルサイト|url=[https://columbia.jp/artist-info/laboum/info/64970.html|work=日本コロムビア公式サイト|accessdate=2019-04-05|language=ja](https://columbia.jp/artist-info/laboum/info/64970.html%7Cwork=日本コロムビア公式サイト%7Caccessdate=2019-04-05%7Clanguage=ja)}}
+11.  LABOUM(ラブーム) {{\!}} 日本コロムビアオフィシャルサイト|url=[https://columbia.jp/artist-info/laboum/info/64970.html|work=日本コロムビア公式サイト|accessdate=2019-04-05|language=ja](https://columbia.jp/artist-info/laboum/info/64970.html%7Cwork=日本コロムビア公式サイト%7Caccessdate=2019-04-05%7Clanguage=ja)}}
 
 12.
 

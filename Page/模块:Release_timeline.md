@@ -1,5 +1,4 @@
-require('Module:No globals') local getArgs =
-require('Module:Arguments').getArgs local p = {}
+require('Module:No globals') local getArgs = require('Module:Arguments').getArgs local p = {}
 
 local function items(args, year)
 
@@ -58,8 +57,7 @@ local function barLeft(builder, args, year, itemNum, outerPadding)
 
 end
 
-local function barRight(builder, args, year, itemNum, itemList,
-outerPadding, innerPadding)
+local function barRight(builder, args, year, itemNum, itemList, outerPadding, innerPadding)
 
 `   if itemNum == 0 then return end`
 `   `

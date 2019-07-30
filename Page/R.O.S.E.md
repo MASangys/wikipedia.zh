@@ -4,19 +4,17 @@
 
 2015年1月22日，韓國公司JYP娛樂在2PM的日本官方網站公布了這單曲的發行消息\[2\]\[3\]；並在當天提供了單曲的詳細資訊，包括三個的初回限定盤及一個通常盤；而單曲的封面則在2月2日公開\[4\]。
 
-2月8日，官方宣布主打歌曲《R.O.S.E》將先行以數碼發行形式推出\[5\]，其後次日發放了單曲演出舞台的資訊——由2月19日到3月11日分別在名古屋、Zepp台場東京及[難波hatch](https://zh.wikipedia.org/wiki/湊町PA "wikilink")（）舉行《WOOYOUNG
-Japan Premium Showcase Tour 2015 “R.O.S.E”》演唱會\[6\]。
+2月8日，官方宣布主打歌曲《R.O.S.E》將先行以數碼發行形式推出\[5\]，其後次日發放了單曲演出舞台的資訊——由2月19日到3月11日分別在名古屋、Zepp台場東京及[難波hatch](https://zh.wikipedia.org/wiki/湊町PA "wikilink")（）舉行《WOOYOUNG Japan Premium Showcase Tour 2015 “R.O.S.E”》演唱會\[6\]。
 
 ### 發行版本
 
 此單曲共分為4個發行版本，包括三個限量版本及兩個通常版本。
 
-  - 初回生產限定盤A（編號：ESCL-4402/3）：這版本包括了一片6首歌的CD、一片收錄《R.O.S.E》原版和演出版[音樂錄影帶的DVD](../Page/音樂錄影帶.md "wikilink")、見面會抽獎卡、贈品應募券與六款隨機照片卡其中一張\[7\]。
+  - 初回生產限定盤A（編號：ESCL-4402/3）：這版本包括了一片6首歌的CD、一片收錄《R.O.S.E》原版和演出版[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")的DVD、見面會抽獎卡、贈品應募券與六款隨機照片卡其中一張\[7\]。
 
 <!-- end list -->
 
-  - 初回生產限定盤B（編號：ESCL-4404/5）：這版本包括了一片6首歌的CD、一片收錄《Happy
-    Birthday》[音樂錄影帶和單曲製作特輯的](../Page/音樂錄影帶.md "wikilink")、見面會抽獎卡、贈品應募券與六款隨機照片卡其中一張\[8\]。
+  - 初回生產限定盤B（編號：ESCL-4404/5）：這版本包括了一片6首歌的CD、一片收錄《Happy Birthday》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")和單曲製作特輯的、見面會抽獎卡、贈品應募券與六款隨機照片卡其中一張\[8\]。
 
 <!-- end list -->
 
@@ -39,7 +37,7 @@ Japan Premium Showcase Tour 2015 “R.O.S.E”》演唱會\[6\]。
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon榜單</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>榜單</p></th>
 <th><p>最高位置</p></th>
 <th><p>銷售量</p></th>
 <th><p>總銷量</p></th>
@@ -130,8 +128,7 @@ Japan Premium Showcase Tour 2015 “R.O.S.E”》演唱會\[6\]。
 
   -
 
-[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink")
-[Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink")
+[Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink")
 
 1.
 

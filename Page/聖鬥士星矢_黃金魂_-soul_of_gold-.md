@@ -1,23 +1,16 @@
-「**聖鬥士星矢 黃金魂 -soul of
-gold-**」是「[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")」系列的[ONA動畫](https://zh.wikipedia.org/wiki/原創網絡動畫 "wikilink")，為原作動畫的外傳作品。從2015年4月11日開始以兩星期更新一話的形式，逢星期六在網絡上放送\[1\]。
+「**聖鬥士星矢 黃金魂 -soul of gold-**」是「[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")」系列的[ONA動畫](https://zh.wikipedia.org/wiki/原創網絡動畫 "wikilink")，為原作動畫的外傳作品。從2015年4月11日開始以兩星期更新一話的形式，逢星期六在網絡上放送\[1\]。
 
 ## 概要
 
-本作於2014年10月31日～11月2日在[日本舉行的](../Page/日本.md "wikilink")「TAMASHII
-NATIONS」模型展中首次公開制作消息並預定於2015年春放映，共13集\[2\]，同时披露劇情是關於20世紀[雅典娜與](../Page/雅典娜.md "wikilink")[-{zh-hans:哈迪斯;
-zh-hant:哈帝斯;}-之戰後殞命的黃金聖鬥士故事](../Page/哈得斯.md "wikilink")，地點則在[北歐](../Page/北歐.md "wikilink")[-{zh-hans:仙宫;
-zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")\[3\]。且本作為原創故事，而非原作漫畫及其他相關續集的動畫化。
+本作於2014年10月31日～11月2日在[日本](../Page/日本.md "wikilink")舉行的「TAMASHII NATIONS」模型展中首次公開制作消息並預定於2015年春放映，共13集\[2\]，同时披露劇情是關於20世紀[雅典娜](../Page/雅典娜.md "wikilink")與[-{zh-hans:哈迪斯; zh-hant:哈帝斯;}-之戰後殞命的黃金聖鬥士故事](../Page/哈得斯.md "wikilink")，地點則在[北歐](../Page/北歐.md "wikilink")[-{zh-hans:仙宫; zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")\[3\]。且本作為原創故事，而非原作漫畫及其他相關續集的動畫化。
 
-本作沿用[冥王篇中](https://zh.wikipedia.org/wiki/聖鬥士星矢#冥王篇 "wikilink")[黄金聖鬥士的聲優](https://zh.wikipedia.org/wiki/黄金聖鬥士 "wikilink")，2015年3月於[BANDAI
-CHANNEL發佈本作將在](https://zh.wikipedia.org/wiki/BANDAI_CHANNEL "wikilink")2015年4月11日向全世界发行，並於3月21日～22日在[台場舉行第一集試映會](https://zh.wikipedia.org/wiki/台場 "wikilink")「stage
-of gold」。
+本作沿用[冥王篇中](https://zh.wikipedia.org/wiki/聖鬥士星矢#冥王篇 "wikilink")[黄金聖鬥士的聲優](https://zh.wikipedia.org/wiki/黄金聖鬥士 "wikilink")，2015年3月於[BANDAI CHANNEL發佈本作將在](https://zh.wikipedia.org/wiki/BANDAI_CHANNEL "wikilink")2015年4月11日向全世界发行，並於3月21日～22日在[台場舉行第一集試映會](https://zh.wikipedia.org/wiki/台場 "wikilink")「stage of gold」。
 
 官網中表明本作是「[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")30周年紀念作品」，並預定於222個國家及地區发行，24個國家及地區播映。
 
 ## 故事簡介
 
-本作與原作「冥王篇」發生於同一時軸，在與[哈帝斯的一戰中](https://zh.wikipedia.org/wiki/哈帝斯 "wikilink")，為破壞隔絕冥界與極樂凈土的嘆息之牆而本應喪命的12名黃金聖鬥士，出現在TV版「北歐篇」的舞台[-{zh-hans:仙宫;
-zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")，展開新的激鬥。
+本作與原作「冥王篇」發生於同一時軸，在與[哈帝斯的一戰中](https://zh.wikipedia.org/wiki/哈帝斯 "wikilink")，為破壞隔絕冥界與極樂凈土的嘆息之牆而本應喪命的12名黃金聖鬥士，出現在TV版「北歐篇」的舞台[-{zh-hans:仙宫; zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")，展開新的激鬥。
 
 ## 登場人物
 
@@ -27,8 +20,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
     **『聖鬥士的楷模，沉睡的黃金獅子』**
     獅子座的黃金聖鬥士，生於[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")
     有着勇往直前的性格，不喜謀略。以擊出光速拳的絕技「**閃電光速拳**（Lightning Bolt）」堂堂正正打倒對手。
-    **射手座-{zh-hans:艾欧洛斯;
-    zh-hant:艾奧羅斯;}-**的親弟弟，雖自小活在「逆賊之弟」的污名下，但為保護[雅典娜這一偉大的使命而勇敢地生存下去](../Page/雅典娜.md "wikilink")。
+    **射手座-{zh-hans:艾欧洛斯; zh-hant:艾奧羅斯;}-**的親弟弟，雖自小活在「逆賊之弟」的污名下，但為保護[雅典娜](../Page/雅典娜.md "wikilink")這一偉大的使命而勇敢地生存下去。
     在嘆息之牆前終於和復活的兄長見面。'''
     和莉菲雅有淡淡的情愫。
 
@@ -37,8 +29,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
   -
     **『元祖·聖鬥士的楷模』**
     射手座的黃金聖鬥士。生於[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")。
-    **獅子座-{zh-hans:艾欧里亚;
-    zh-hant:艾奧里亞;}-**的兄長。被冠以暗殺雅典娜的「逆賊」污名而死，但實際上卻是為了保護雅典娜的性命，不惜被世人蔑視甚至犧牲性命的正義聖鬥士，堪稱聖鬥士的榜樣。心、技、體均非常優秀，曾被選為下任教皇的候選人。
+    **獅子座-{zh-hans:艾欧里亚; zh-hant:艾奧里亞;}-**的兄長。被冠以暗殺雅典娜的「逆賊」污名而死，但實際上卻是為了保護雅典娜的性命，不惜被世人蔑視甚至犧牲性命的正義聖鬥士，堪稱聖鬥士的榜樣。心、技、體均非常優秀，曾被選為下任教皇的候選人。
     在嘆息之牆前終於和弟弟見面。
     在最後的洛基之戰中與當年將自己冠上逆賊罪名而害死的前教皇雙子座撒卡和解。
 
@@ -48,17 +39,14 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
     **『深諳聖衣之神髓的男人』**
     牡羊座的黃金聖鬥士。生於[西藏](https://zh.wikipedia.org/wiki/西藏 "wikilink")。
     擁有優雅氣質的沉靜性格，聖衣修復技術的唯一傳承者。對師父·**牡羊座希歐**的好友**童虎**尊敬有加，並稱其為「老師」。
-    擅長以**念動力**（Psychokinesis）、**瞬間移動**（Teleportation）及防禦技「**水晶牆**（Crystal
-    Wall）」等超能力為主的鬥法。最强绝技为**星光灭绝**（Starlight
-    Extinction）与**星屑旋转**（Stardust Revolution）。
+    擅長以**念動力**（Psychokinesis）、**瞬間移動**（Teleportation）及防禦技「**水晶牆**（Crystal Wall）」等超能力為主的鬥法。最强绝技为**星光灭绝**（Starlight Extinction）与**星屑旋转**（Stardust Revolution）。
 
 <!-- end list -->
 
   -
     **『深紅的衝擊』**
     天蠍座的黃金聖鬥士。生於[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")。
-    性情率直，富有正義感，有着身為黃金聖鬥士的驕傲。以絕招「**深紅毒針**（Scarlet
-    Needle）」突刺對手身上15點，令對手在劇痛之下慢慢喪失五感。
+    性情率直，富有正義感，有着身為黃金聖鬥士的驕傲。以絕招「**深紅毒針**（Scarlet Needle）」突刺對手身上15點，令對手在劇痛之下慢慢喪失五感。
     和**水瓶座卡妙**是好友。
 
 <!-- end list -->
@@ -66,8 +54,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
   -
     **『勇猛的黃金野牛』**
     金牛座的黃金聖鬥士。生於[巴西](../Page/巴西.md "wikilink")。
-    以強壯的肉體為傲，令對手的攻擊化為虛有的剛猛勇者。着重拳法鬥技，性格上和艾奧尼亞也有相似之處。素來寡言、通過戰鬥理解對手。絕招是雙手抱胸，以[居合劍為要領的](../Page/居合道.md "wikilink")「**狂牛巨角**（Great
-    Horn）」。
+    以強壯的肉體為傲，令對手的攻擊化為虛有的剛猛勇者。着重拳法鬥技，性格上和艾奧尼亞也有相似之處。素來寡言、通過戰鬥理解對手。絕招是雙手抱胸，以[居合劍為要領的](../Page/居合道.md "wikilink")「**狂牛巨角**（Great Horn）」。
 
 <!-- end list -->
 
@@ -76,8 +63,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
     水瓶座的黃金聖鬥士。生於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")。
     冰之間 [亞海姆的守護者](https://zh.wikipedia.org/wiki/亞海姆 "wikilink")。
     無論何時都將冷酷貫徹到底的男人，但內裡卻隱藏着一顆熾熱的心。追求着「比起躊躇於善與惡之間，更重要的是不屈氣節地戰鬥到底」的鬥士應有姿態。
-    擅長使用冰之鬥技，被稱為「水與冰的魔術師」。其最強必殺技「**曙光女神之寬恕**（Aurora
-    Execution）」會放出無限接近於[絕對零度的凍氣](https://zh.wikipedia.org/wiki/絕對零度 "wikilink")。
+    擅長使用冰之鬥技，被稱為「水與冰的魔術師」。其最強必殺技「**曙光女神之寬恕**（Aurora Execution）」會放出無限接近於[絕對零度的凍氣](https://zh.wikipedia.org/wiki/絕對零度 "wikilink")。
 
 <!-- end list -->
 
@@ -98,8 +84,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
   -
     **『以戰鬥和殺戮為樂的男人』**
     巨蟹座的黃金聖鬥士。生於[意大利](../Page/意大利.md "wikilink")。
-    操縱能通往冥界的洞穴「[積屍氣](../Page/鬼宿星團.md "wikilink")」。抱有「正義是會隨着時代變遷而變化」的價值觀，支持變為邪惡的教皇（-{zh-hans:撒加;
-    zh-hant:撒卡;}-）。抱持此種行事宗旨的他可能是黃金聖鬥士中最人性化的人物。使用將對手的靈魂打落冥界的絕技「**積屍氣冥界波**」。
+    操縱能通往冥界的洞穴「[積屍氣](../Page/鬼宿星團.md "wikilink")」。抱有「正義是會隨着時代變遷而變化」的價值觀，支持變為邪惡的教皇（-{zh-hans:撒加; zh-hant:撒卡;}-）。抱持此種行事宗旨的他可能是黃金聖鬥士中最人性化的人物。使用將對手的靈魂打落冥界的絕技「**積屍氣冥界波**」。
     在本作一掃本傳之各種影薄和負面形象；原本在仙宮打算捨棄黃金聖鬥士之身分，當個平凡人安逸度日，卻因為暗戀上一名少女而為了拯救她重拾身為黃金聖鬥士的尊嚴。
     語氣完全剔除了前作中暴虐而視人命如草芥之形象，甚至還有以錢財救濟窮人之舉，"最弱最滑稽之黃金聖鬥士"在此作儼然獲得重生。
 
@@ -108,10 +93,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
   -
     **『以閃耀於天地之間而自豪的美之戰士』**
     雙魚座的黃金聖鬥士。生於[瑞典](../Page/瑞典.md "wikilink")。
-    擁有88星座中最美麗的容貌，以「力量就是正義」為信念的黃金聖鬥士。通過小宇宙造出並操縱[玫瑰來戰鬥](../Page/玫瑰.md "wikilink")。絕招「**皇家惡魔玫瑰**（Royal
-    Demon Rose）」是以帶毒的紅玫瑰攻擊對手的招數，更有能够粉碎敌人的**恶魔黑玫瑰**（Piranha Demon
-    Rose）和最强的**吸血白玫瑰**（Bloody
-    Rose）绝技。雖以「力量就是正義」為信念但卻是比任何人都更希望大地和平的聖鬥士。
+    擁有88星座中最美麗的容貌，以「力量就是正義」為信念的黃金聖鬥士。通過小宇宙造出並操縱[玫瑰](../Page/玫瑰.md "wikilink")來戰鬥。絕招「**皇家惡魔玫瑰**（Royal Demon Rose）」是以帶毒的紅玫瑰攻擊對手的招數，更有能够粉碎敌人的**恶魔黑玫瑰**（Piranha Demon Rose）和最强的**吸血白玫瑰**（Bloody Rose）绝技。雖以「力量就是正義」為信念但卻是比任何人都更希望大地和平的聖鬥士。
     在本作中一樣是和身為「海鮮二人組」而淪為笑柄的迪斯馬斯克徹底洗白，在最初與最後皆有重要活躍。
 
 <!-- end list -->
@@ -119,33 +101,31 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
   -
     **『善惡之秤』**
     天秤座的黃金聖鬥士。生於[中國](../Page/中國.md "wikilink")。
-    在前聖戰中僅2名倖存者的其中一人，因此被大家尊稱為「老師」，備受聖鬥士尊崇。本應赤手空拳戰鬥的聖鬥士，可以裝備天秤座聖衣的武器（如[劍](../Page/劍.md "wikilink")、[槍等](../Page/槍.md "wikilink")）戰鬥。這些武器有着能粉碎星星的威力，只有在雅典娜的允許下才能夠使用。童虎自身的拳技也非常強大，絕招「**廬山百龍霸**」的强度是天龙星座最大奥义「**廬山升龍霸**」的一百倍，厲害無比。
+    在前聖戰中僅2名倖存者的其中一人，因此被大家尊稱為「老師」，備受聖鬥士尊崇。本應赤手空拳戰鬥的聖鬥士，可以裝備天秤座聖衣的武器（如[劍](../Page/劍.md "wikilink")、[槍](../Page/槍.md "wikilink")等）戰鬥。這些武器有着能粉碎星星的威力，只有在雅典娜的允許下才能夠使用。童虎自身的拳技也非常強大，絕招「**廬山百龍霸**」的强度是天龙星座最大奥义「**廬山升龍霸**」的一百倍，厲害無比。
 
 <!-- end list -->
 
   -
     **『神的化身/最強的聖鬥士』**
     雙子座的黃金聖鬥士。生於希臘。
-    擁有善與惡兩個極端內心，一直與自己內心中的邪惡戰鬥。當內心被邪惡所蒙蔽的時候，曾一度想要殺害女神雅典娜，但被**射手座艾奧羅斯**阻止。擁有黃金聖鬥士中最強實力，**幻朧魔皇拳**可以操纵對手大脑，而投擲出強大小宇宙的絕技「**銀河星爆**（Galaxian
-    Explosion）」擁有能媲美毀滅[銀河的威力](https://zh.wikipedia.org/wiki/銀河 "wikilink")。
+    擁有善與惡兩個極端內心，一直與自己內心中的邪惡戰鬥。當內心被邪惡所蒙蔽的時候，曾一度想要殺害女神雅典娜，但被**射手座艾奧羅斯**阻止。擁有黃金聖鬥士中最強實力，**幻朧魔皇拳**可以操纵對手大脑，而投擲出強大小宇宙的絕技「**銀河星爆**（Galaxian Explosion）」擁有能媲美毀滅[銀河的威力](https://zh.wikipedia.org/wiki/銀河 "wikilink")。
     其實力連各神鬥士也尊畏不已；重拾新生之撒卡宿有其弟卡諾之魂，共同為守護雅典娜而戰。單以影響力來說堪比十二星座聖鬥士之第一，無論是其壓倒性的實力或是對雅典娜的忠誠。
     在最終決戰中向射手座艾奧羅斯致上生前無法親口說出之歉意，表示自己在冥界篇的重大犧牲和艾奧羅斯所流之血比起來根本不值一提，而獲對方之諒解。
 
 ### \-{zh-hans:仙宫; zh-hant:亞斯格特;}-
 
   -
-    \-{zh-hans:希露達;
-    zh-hant:希蒂;}-的侍女，與[夫羅迪為舊相識](../Page/弗雷.md "wikilink")，眞正身份為下任[奥丁的代言人](../Page/奥丁.md "wikilink")，復活十二位黃金聖鬥士的契機者。
+    \-{zh-hans:希露達; zh-hant:希蒂;}-的侍女，與[夫羅迪為舊相識](../Page/弗雷.md "wikilink")，眞正身份為下任[奥丁](../Page/奥丁.md "wikilink")的代言人，復活十二位黃金聖鬥士的契機者。
   -
     亞斯格特的醫師，眞身為邪神[洛基](../Page/洛基.md "wikilink")。
   -
-    原[奥丁的代言人](../Page/奥丁.md "wikilink")，被安德烈亞斯軟禁。
+    原[奥丁](../Page/奥丁.md "wikilink")的代言人，被安德烈亞斯軟禁。
 
 #### 神鬥士
 
   -
     勇者之間 [華納海姆的守護者](https://zh.wikipedia.org/wiki/華納海姆 "wikilink")。
-    擁有自古就侍奉[奥丁的傲人家世](../Page/奥丁.md "wikilink")，比任何人都更以身為神鬥士為榮。
+    擁有自古就侍奉[奥丁](../Page/奥丁.md "wikilink")的傲人家世，比任何人都更以身為神鬥士為榮。
 
 <!-- end list -->
 
@@ -226,14 +206,12 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
   - 錄音室：東映Digital Center
   - Online編集：東映Digital Lab
   - 動畫製作公司：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")
-  - 製作：[「聖鬥士星矢 黃金魂 soul of
-    gold」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
+  - 製作：[「聖鬥士星矢 黃金魂 soul of gold」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ## 主題曲
 
   - 片頭曲「」（聖鬥士神話 Soldier Dream）
-    塡詞：只野菜摘，作曲：松澤浩明，編曲：清水武仁 & ats-，主唱：[ROOT
-    FIVE](../Page/ROOT_FIVE.md "wikilink")
+    塡詞：只野菜摘，作曲：松澤浩明，編曲：清水武仁 & ats-，主唱：[ROOT FIVE](../Page/ROOT_FIVE.md "wikilink")
     第1話作片尾曲使用。
   - 片尾曲「」（向着約定的明日）
     塡詞：Mio Aoyama，作曲：，主唱：[ROOT FIVE](../Page/ROOT_FIVE.md "wikilink")
@@ -544,7 +522,7 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
 <td><p>2015年4月10日 - 9月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">隔週週五23:00 更新</a></p></td>
 <td><p>網路電視</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語原音</a>，有<a href="../Page/繁体字.md" title="wikilink">繁体字字幕</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語原音</a>，有<a href="../Page/繁体字.md" title="wikilink">繁体字</a>字幕。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a></p></td>
@@ -610,16 +588,9 @@ zh-hant:阿斯格特;}-](https://zh.wikipedia.org/wiki/阿斯加德 "wikilink")�
 
   - [聖鬥士星矢 黃金魂 -soul of gold- 公式官方網站](http://saintseiya-gold.com/zh-tw/)
 
-[Category:聖鬥士星矢](https://zh.wikipedia.org/wiki/Category:聖鬥士星矢 "wikilink")
-[Category:2015年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2015年日本網絡動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:希臘神話題材作品](https://zh.wikipedia.org/wiki/Category:希臘神話題材作品 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
+[Category:聖鬥士星矢](https://zh.wikipedia.org/wiki/Category:聖鬥士星矢 "wikilink") [Category:2015年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2015年日本網絡動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:希臘神話題材作品](https://zh.wikipedia.org/wiki/Category:希臘神話題材作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
 
-1.  [《圣斗士星矢：黄金魂》首曝宣传海报 2015年春季上映
-    纪念连载30周年](http://news.mtime.com/2014/10/31/1533406.html)
+1.  [《圣斗士星矢：黄金魂》首曝宣传海报 2015年春季上映 纪念连载30周年](http://news.mtime.com/2014/10/31/1533406.html)
 2.  [](http://tamashii.jp/special/seiya_sog/)
-3.  [《聖鬥士：黄金魂》曝新PV "12黄金"曝"私服"图
-    故事背景移至北欧](http://news.mtime.com/2015/03/16/1540500.html)
+3.  [《聖鬥士：黄金魂》曝新PV "12黄金"曝"私服"图 故事背景移至北欧](http://news.mtime.com/2015/03/16/1540500.html)
 4.  香港J2標題，以播放時所顯示的字幕為準。

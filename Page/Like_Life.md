@@ -1,11 +1,4 @@
-《**Like
-Life**》是日本[HOOK在](https://zh.wikipedia.org/wiki/HOOK "wikilink")2004年5月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2004年12月29日（[Comiket](https://zh.wikipedia.org/wiki/Comiket "wikilink")
-67）發售《Like Life 氷庫版》。\[3\]2007年9月28日發售改善系統畫面的新裝版。\[4\]另外由[GN
-Software在](../Page/GN_Software.md "wikilink")2005年4月28日發售[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《Like Life an
-hour》\[5\]和2009年10月1日發售[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")《Like Life every
-hour》。\[6\]
+《**Like Life**》是日本[HOOK在](https://zh.wikipedia.org/wiki/HOOK "wikilink")2004年5月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2004年12月29日（[Comiket](https://zh.wikipedia.org/wiki/Comiket "wikilink") 67）發售《Like Life 氷庫版》。\[3\]2007年9月28日發售改善系統畫面的新裝版。\[4\]另外由[GN Software在](../Page/GN_Software.md "wikilink")2005年4月28日發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Like Life an hour》\[5\]和2009年10月1日發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《Like Life every hour》。\[6\]
 
 ## 故事
 
@@ -88,9 +81,7 @@ hour》。\[6\]
 
 ## _summer Life
 
-2005年12月16日HOOK發送本作和《[_summer](https://zh.wikipedia.org/wiki/Underbar_Summer "wikilink")》的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《_summer
-Life》\[8\]，在遊戲中《[_summer](https://zh.wikipedia.org/wiki/Underbar_Summer "wikilink")》和本作的部分角色都有登場。故事是在數年後兩作男主角家的短篇故事。
-2015年3月16日HOOKSOFT為了紀念成立15周年，在限制期間4月13日前公開免費下載《_summer Life》\[9\]。
+2005年12月16日HOOK發送本作和《[_summer](https://zh.wikipedia.org/wiki/Underbar_Summer "wikilink")》的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《_summer Life》\[8\]，在遊戲中《[_summer](https://zh.wikipedia.org/wiki/Underbar_Summer "wikilink")》和本作的部分角色都有登場。故事是在數年後兩作男主角家的短篇故事。 2015年3月16日HOOKSOFT為了紀念成立15周年，在限制期間4月13日前公開免費下載《_summer Life》\[9\]。
 
 ## 相關商品
 
@@ -161,31 +152,18 @@ Life》\[8\]，在遊戲中《[_summer](https://zh.wikipedia.org/wiki/Underbar_S
 ## 外部連結
 
   - [HOOKSOFT](http://www.hook-net.jp/)
-  - [Like Life an hour](http://www.hook-net.jp/an_hour/)[GN
-    Software](../Page/GN_Software.md "wikilink")
+  - [Like Life an hour](http://www.hook-net.jp/an_hour/)[GN Software](../Page/GN_Software.md "wikilink")
   - [Like Life every hour](http://www.piacci.co.jp/likelife/)GN Software
 
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
+[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
 
 1.  [LikeLife 初回版](http://www.getchu.com/soft.phtml?id=40921)Getchu.com
 2.  [Like Life](https://vndb.org/v254)the visual novel database
-3.  [Like Life Hyouko Ban](https://vndb.org/r643)the visual novel
-    database
+3.  [Like Life Hyouko Ban](https://vndb.org/r643)the visual novel database
 4.  [LikeLife 新装版](http://www.getchu.com/soft.phtml?id=446925)Getchu.com
-5.  [Like Life an hour](http://www.hook-net.jp/an_hour/)[GN
-    Software](../Page/GN_Software.md "wikilink")
+5.  [Like Life an hour](http://www.hook-net.jp/an_hour/)[GN Software](../Page/GN_Software.md "wikilink")
 6.  [Like Life every hour](http://www.piacci.co.jp/likelife/)GN Software
 7.  [LikeLife ライクライフ](http://erogetrailers.com/soft/5360)ErogeTrailers
-8.  [『_summer
-    Life』は、「_summer」、「LikeLife」の合同お返しディスクです。](http://www.hook-net.jp/_summer/od_info.htm)HOOKSOFT
-9.  [『_summer Life』 HOOKSOFT
-    結成15周年記念無料版](http://www.hook-net.jp/htm/news/_summerLife.htm)HOOKSOFT
+8.  [『_summer Life』は、「_summer」、「LikeLife」の合同お返しディスクです。](http://www.hook-net.jp/_summer/od_info.htm)HOOKSOFT
+9.  [『_summer Life』 HOOKSOFT 結成15周年記念無料版](http://www.hook-net.jp/htm/news/_summerLife.htm)HOOKSOFT
 10. [2004年MOEゲーランキング](http://www.getchu.com/pc/rank.phtml?rank_flag=5)Getchu.com

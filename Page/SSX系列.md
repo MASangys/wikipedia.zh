@@ -1,6 +1,4 @@
-**SSX**是[EA Sports
-BIG的滑雪電子遊戲系列](https://zh.wikipedia.org/wiki/EA_Sports_BIG "wikilink")。SSX為“Snowboard
-Supercross”的简写\[1\]，不过这全名基本没有在游戏内或是营销中用过。
+**SSX**是[EA Sports BIG的滑雪電子遊戲系列](https://zh.wikipedia.org/wiki/EA_Sports_BIG "wikilink")。SSX為“Snowboard Supercross”的简写\[1\]，不过这全名基本没有在游戏内或是营销中用过。
 
 ## 作品
 
@@ -27,9 +25,6 @@ Supercross”的简写\[1\]，不过这全名基本没有在游戏内或是营�
 
 ## 参考文献
 
-[Category:2000年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:2000年首发的电子游戏系列 "wikilink")
-[Category:艺电游戏](https://zh.wikipedia.org/wiki/Category:艺电游戏 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:单板滑雪游戏](https://zh.wikipedia.org/wiki/Category:单板滑雪游戏 "wikilink")
+[Category:2000年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:2000年首发的电子游戏系列 "wikilink") [Category:艺电游戏](https://zh.wikipedia.org/wiki/Category:艺电游戏 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:单板滑雪游戏](https://zh.wikipedia.org/wiki/Category:单板滑雪游戏 "wikilink")
 
 1.
